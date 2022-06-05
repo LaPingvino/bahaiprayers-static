@@ -62,7 +62,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2336)
 
 
-
+«[Беларускі](../be/#bpn2336)» 
 
 
 
@@ -79,7 +79,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2337)
 
 
-
+«[Беларускі](../be/#bpn2337)» 
 
 
 
@@ -96,7 +96,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2339)
 
 
-
+«[Беларускі](../be/#bpn2339)» 
 
 
 
@@ -114,7 +114,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2335)
 
 
-
+«[Беларускі](../be/#bpn2335)» 
 
 
 
@@ -130,7 +130,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2326)
 
 
-
+«[Беларускі](../be/#bpn2326)» 
 
 
 
@@ -146,7 +146,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2338)
 
 
-
+«[Беларускі](../be/#bpn2338)» 
 
 
 
@@ -164,7 +164,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2329)
 
 
-
+«[Беларускі](../be/#bpn2329)» 
 
 
 
@@ -180,7 +180,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2334)
 
 
-
+«[Беларускі](../be/#bpn2334)» 
 
 
 
@@ -197,7 +197,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2340)
 
 
-
+«[Беларускі](../be/#bpn2340)» 
 
 
 
@@ -214,7 +214,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2341)
 
 
-
+«[Беларускі](../be/#bpn2341)» 
 
 
 
@@ -231,7 +231,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2331)
 
 
-
+«[Беларускі](../be/#bpn2331)» 
 
 
 
@@ -247,7 +247,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2333)
 
 
-
+«[Беларускі](../be/#bpn2333)» 
 
 
 
@@ -264,7 +264,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2342)
 
 
-
+«[Беларускі](../be/#bpn2342)» 
 
 
 
@@ -282,7 +282,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2327)
 
 
-
+«[Беларускі](../be/#bpn2327)» 
 
 
 
@@ -307,7 +307,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2346)
 
 
-
+«[Беларускі](../be/#bpn2346)» 
 
 
 
@@ -325,7 +325,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2330)
 
 
-
+«[Беларускі](../be/#bpn2330)» 
 
 
 
@@ -341,7 +341,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2332)
 
 
-
+«[Беларускі](../be/#bpn2332)» 
 
 
 
@@ -359,7 +359,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2345)
 
 
-
+«[Беларускі](../be/#bpn2345)» 
 
 
 
@@ -377,7 +377,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2347)
 
 
-
+«[Беларускі](../be/#bpn2347)» 
 
 
 
@@ -393,7 +393,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2328)
 
 
-
+«[Беларускі](../be/#bpn2328)» 
 
 
 
@@ -410,7 +410,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2343)
 
 
-
+«[Беларускі](../be/#bpn2343)» 
 
 
 
@@ -433,7 +433,7 @@ tags = ['lang=be', 'prayerbook']
 (Bahaiprayers.net ID: 2344)
 
 
-
+«[Беларускі](../be/#bpn2344)» 
 
 
 

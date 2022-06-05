@@ -46,7 +46,7 @@ Osvit, ó Pane, tváře Svých služebníků, aby Tě mohli spatřit, a očisti 
 (Bahaiprayers.net ID: 2869)
 
 
-
+«[Česky](../cs/#bpn2869)» 
 
 
 
@@ -64,7 +64,7 @@ Sjednot srdce Svých služebníků a odhal jim Svůj veliký záměr. Kéž nás
 (Bahaiprayers.net ID: 2868)
 
 
-
+«[Česky](../cs/#bpn2868)» 
 
 
 
@@ -84,7 +84,7 @@ Není Boha kromě Tebe, Pomocníka v nebezpečí, Skrze Sebe Jsoucího.
 (Bahaiprayers.net ID: 2865)
 
 
-
+«[Česky](../cs/#bpn2865)» 
 
 
 
@@ -104,7 +104,7 @@ Vpravdě, vroucně Tě prosím, odpuse hříchy těm, kteří odložili pozemsk
 (Bahaiprayers.net ID: 2884)
 
 
-
+«[Česky](../cs/#bpn2884)» 
 
 
 
@@ -122,7 +122,7 @@ Můj Pane! Můj Pane! Vzdávám Ti chválu a díky za to, čím jsi vyznamenal S
 (Bahaiprayers.net ID: 2882)
 
 
-
+«[Česky](../cs/#bpn2882)» 
 
 
 
@@ -146,7 +146,7 @@ Tobě náleží úplná pravomoc, abys přikazoval.
 (Bahaiprayers.net ID: 2870)
 
 
-
+«[Česky](../cs/#bpn2870)» 
 
 
 
@@ -164,7 +164,7 @@ Jsem, ó můj Bože, Tvůj služebník a syn Tvého služebníka. Poznal jsem Tv
 (Bahaiprayers.net ID: 2871)
 
 
-
+«[Česky](../cs/#bpn2871)» 
 
 
 
@@ -176,7 +176,7 @@ Snažně Tě prosím, ó můj Pane, odpust mi každou zmínku, jež není zmínk
 (Bahaiprayers.net ID: 2872)
 
 
-
+«[Česky](../cs/#bpn2872)» 
 
 
 
@@ -192,7 +192,7 @@ Snažně Tě prosím, ó můj Pane, odpust mi každou zmínku, jež není zmínk
 (Bahaiprayers.net ID: 2873)
 
 
-
+«[Česky](../cs/#bpn2873)» 
 
 
 
@@ -206,7 +206,7 @@ Rci: Chválen bud Bůh! On je Bůh! Všichni jsou Jeho služebníci a všichni s
 (Bahaiprayers.net ID: 2874)
 
 
-
+«[Česky](../cs/#bpn2874)» 
 
 
 
@@ -218,7 +218,7 @@ Rci: Bůh postačuje všem věcem a nade vše a nic na nebesích ani na zemi nep
 (Bahaiprayers.net ID: 2875)
 
 
-
+«[Česky](../cs/#bpn2875)» 
 
 
 
@@ -243,7 +243,7 @@ a vložit svou důvěru v Nadevše Milosrdného Pána.
 (Bahaiprayers.net ID: 2876)
 
 
-
+«[Česky](../cs/#bpn2876)» 
 
 
 
@@ -259,7 +259,7 @@ Stvoř ve mně čisté srdce, ó můj Bože, a obnov ve mně klidné svědomí, 
 (Bahaiprayers.net ID: 2866)
 
 
-
+«[Česky](../cs/#bpn2866)» 
 
 
 
@@ -273,7 +273,7 @@ Stvoř ve mně čisté srdce, ó můj Bože, a obnov ve mně klidné svědomí, 
 (Bahaiprayers.net ID: 2867)
 
 
-
+«[Česky](../cs/#bpn2867)» 
 
 
 
@@ -289,7 +289,7 @@ Vidíš, Ó Pane, naše ruce pozvednuté v pokorné prosbě k nebi Tvé přízn�
 (Bahaiprayers.net ID: 2880)
 
 
-
+«[Česky](../cs/#bpn2880)» 
 
 
 
@@ -301,7 +301,7 @@ Vidíš, Ó Pane, naše ruce pozvednuté v pokorné prosbě k nebi Tvé přízn�
 (Bahaiprayers.net ID: 2881)
 
 
-
+«[Česky](../cs/#bpn2881)» 
 
 
 
@@ -331,7 +331,7 @@ A z obou moří se perly velké i malé loví.“²
 (Bahaiprayers.net ID: 2883)
 
 
-
+«[Česky](../cs/#bpn2883)» 
 
 
 
@@ -347,7 +347,7 @@ Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá b
 (Bahaiprayers.net ID: 2879)
 
 
-
+«[Česky](../cs/#bpn2879)» 
 
 
 
@@ -363,7 +363,7 @@ Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá b
 (Bahaiprayers.net ID: 2877)
 
 
-
+«[Česky](../cs/#bpn2877)» 
 
 
 
@@ -379,7 +379,7 @@ A konečně Tě prosím při světle Tvého tváře, abys požehnal mému konán
 (Bahaiprayers.net ID: 2878)
 
 
-
+«[Česky](../cs/#bpn2878)» 
 
 
 

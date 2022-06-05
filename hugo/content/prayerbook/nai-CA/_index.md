@@ -58,7 +58,7 @@ táh-sokaps ki nitóX-tah-spom-ókoh unoyee isk-sáX-koy ki iy-yá-keeta-popay-n
 (Bahaiprayers.net ID: 4150)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4150)» 
 
 
 
@@ -73,7 +73,7 @@ Apistotokee eeh-tsee-tésk-sinowa kyot-sokáp-sinee áXkeetso-keetseesinee.
 (Bahaiprayers.net ID: 4149)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4149)» 
 
 
 
@@ -87,7 +87,7 @@ Apistotokeewa keeták-oXkotspómok-owa, kútat-sits-eéh’pa keeták-oXkot-spom
 (Bahaiprayers.net ID: 4148)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4148)» 
 
 
 
@@ -105,7 +105,7 @@ Sigakundjigauso peendji okitahgisiwinug dibishko wigiwam, gahyay o-ahbinass, oda
 (Bahaiprayers.net ID: 4151)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4151)» 
 
 
 
@@ -124,7 +124,7 @@ He He Tu i' nul, 'i' thu lelum', 'i' thu shhw' i, 'i' thu ha lelum', 'i' thu tth
 (Bahaiprayers.net ID: 4138)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4138)» 
 
 
 
@@ -143,7 +143,7 @@ Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag
 (Bahaiprayers.net ID: 4152)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4152)» 
 
 
 
@@ -177,7 +177,7 @@ ts'at yinji'gwichil'ee ts'at ch'agwahdit.
 (Bahaiprayers.net ID: 6851)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6851)» 
 
 
 
@@ -203,7 +203,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy.  Nearnes
 (Bahaiprayers.net ID: 8005)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn8005)» 
 
 
 
@@ -228,7 +228,7 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 (Bahaiprayers.net ID: 8004)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn8004)» 
 
 
 
@@ -247,7 +247,7 @@ i-ih-neh, ne wa-ke-jhen-tha ta-nón ó-ni ne-eh a-tie-na-wa-séh-je-ra te-tśia-
 (Bahaiprayers.net ID: 4158)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4158)» 
 
 
 
@@ -261,7 +261,7 @@ Yo-tás-kat ka-non-ni-yo-kweń-ra-re noń-kwe ji-ka-non-so-te ó-ni ji-ye-ná-ke
 (Bahaiprayers.net ID: 4157)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4157)» 
 
 
 
@@ -275,7 +275,7 @@ Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne we
 (Bahaiprayers.net ID: 4159)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4159)» 
 
 
 
@@ -295,7 +295,7 @@ KJISAQMAWIN.
 (Bahaiprayers.net ID: 4162)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4162)» 
 
 
 
@@ -314,7 +314,7 @@ Wa-geh-ni-wha-gwa-risi, Ook Nkyo, Neh Ihse dá-ká-dis-son ne á-gon/yen-dé-rih
 (Bahaiprayers.net ID: 4163)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4163)» 
 
 
 
@@ -347,7 +347,7 @@ Ilé uhuaná sulhan.
 (Bahaiprayers.net ID: 6852)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6852)» 
 
 
 
@@ -366,7 +366,7 @@ luwaya?dadelisduh
 (Bahaiprayers.net ID: 4172)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4172)» 
 
 
 
@@ -380,7 +380,7 @@ gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniy
 (Bahaiprayers.net ID: 4173)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4173)» 
 
 
 
@@ -408,7 +408,7 @@ Xex`e7-k w7ec re yucwmens-tsutucw
 (Bahaiprayers.net ID: 6859)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6859)» 
 
 
 
@@ -423,7 +423,7 @@ Tqeltk  K`ukwpi7  ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes t
 (Bahaiprayers.net ID: 6858)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6858)» 
 
 
 
@@ -437,7 +437,7 @@ Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`
 (Bahaiprayers.net ID: 4146)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4146)» 
 
 
 
@@ -455,7 +455,7 @@ Oh kw shet hegus, Poleset toh nehs, kweh eh sheet, hega tah ah yehs, nehs klumes
 (Bahaiprayers.net ID: 4147)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4147)» 
 
 
 
@@ -479,7 +479,7 @@ di£ na gatgyedn
 (Bahaiprayers.net ID: 6856)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6856)» 
 
 
 
@@ -499,7 +499,7 @@ O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm laawksi ada so goy'p'm biyaalsi.an
 (Bahaiprayers.net ID: 4137)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn4137)» 
 
 
 
@@ -532,7 +532,7 @@ Shxwelis kwes qwelesem te chichelk Siyam shxwelis seys kwes thelhílem
 (Bahaiprayers.net ID: 6853)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6853)» 
 
 
 
@@ -549,7 +549,7 @@ O Chilchelh Siyam, kwelachesthoyx Xyolhmethoyx Tawet te slaxets tel th'ale Qas t
 (Bahaiprayers.net ID: 6857)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6857)» 
 
 
 
@@ -576,7 +576,7 @@ There is none other God but Thee, the Help in Peril, the Self-subsisting.
 (Bahaiprayers.net ID: 6855)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6855)» 
 
 
 
@@ -610,7 +610,7 @@ helh awh nehs.
 (Bahaiprayers.net ID: 6854)
 
 
-
+«[Canadian Indigenous](../nai-CA/#bpn6854)» 
 
 
 

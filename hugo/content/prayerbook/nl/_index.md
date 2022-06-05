@@ -117,7 +117,7 @@ O mijn Heer, ik draag hetgeen zich in mijn schoot bevindt aan U op. Geef dan dat
 (Bahaiprayers.net ID: 9734)
 
 
-
+«[Nederlands](../nl/#bpn9734)» 
 
 
 
@@ -138,7 +138,7 @@ Verheerlijkt, onmetelijk verheerlijkt zijt Gij! Gij wordt aanbeden om Uw waarhei
 (Bahaiprayers.net ID: 9687)
 
 
-
+«[Nederlands](../nl/#bpn9687)» 
 
 
 
@@ -160,7 +160,7 @@ Er is geen ander God dan Gij, de Ene, de Enige, de Machtige, de Alwetende, de Mi
 (Bahaiprayers.net ID: 9688)
 
 
-
+«[Nederlands](../nl/#bpn9688)» 
 
 
 
@@ -173,7 +173,7 @@ Besprenkel hen, o mijn Heer, uit de oceaan van Uw vergeving met hetgeen hen waar
 (Bahaiprayers.net ID: 9689)
 
 
-
+«[Nederlands](../nl/#bpn9689)» 
 
 
 
@@ -186,7 +186,7 @@ Gij zijt de Vergevende, de Almilddadige. Er is geen ander God dan Gij, de Beschi
 (Bahaiprayers.net ID: 9690)
 
 
-
+«[Nederlands](../nl/#bpn9690)» 
 
 
 
@@ -200,7 +200,15 @@ O mijn Heer! Zuiver hen van overtredingen, verdrijf hun droefheid en verander hu
 (Bahaiprayers.net ID: 9691)
 
 
+«[Nederlands](../nl/#AB11094)» 
 
+«[Español](../es/#AB11094)» 
+
+«[Esperanto](../eo/#AB11094)» 
+
+«[English](../en/#AB11094)» 
+
+«[Frysk](../fy/#AB11094)» 
 
 
 
@@ -214,7 +222,7 @@ Waarlijk, Gij zijt de Edelmoedige, de Krachtige, de Vergevende, de Schenker.
 (Bahaiprayers.net ID: 9692)
 
 
-
+«[Nederlands](../nl/#bpn9692)» 
 
 
 
@@ -228,7 +236,7 @@ Gij zijt de Vergevende, de Schenker van licht en de Almachtige.
 (Bahaiprayers.net ID: 9693)
 
 
-
+«[Nederlands](../nl/#bpn9693)» 
 
 
 
@@ -246,7 +254,7 @@ Geen God is er dan Gij, de Almachtige, de Albeheerser, de Absolute.
 (Bahaiprayers.net ID: 9527)
 
 
-
+«[Nederlands](../nl/#bpn9527)» 
 
 
 
@@ -260,7 +268,7 @@ Bij Uw macht! Slapend of wakend vraag ik slechts hetgeen Gij wenst. Ik ben Uw di
 (Bahaiprayers.net ID: 9528)
 
 
-
+«[Nederlands](../nl/#bpn9528)» 
 
 
 
@@ -276,7 +284,9 @@ O Gij, Wiens beproevingen een heilzaam middel zijn voor hen die U nabij zijn, Wi
 (Bahaiprayers.net ID: 9530)
 
 
+«[Nederlands](../nl/#BH08600TES)» 
 
+«[English](../en/#BH08600TES)» 
 
 
 
@@ -290,7 +300,7 @@ Ik smeek U, o mijn God, bij hen en bij de hartgrondige zuchten die zij slaken in
 (Bahaiprayers.net ID: 9532)
 
 
-
+«[Nederlands](../nl/#bpn9532)» 
 
 
 
@@ -304,7 +314,7 @@ En ten laatste smeek ik U, bij het licht van Uw aanschijn, mijn aangelegenheden 
 (Bahaiprayers.net ID: 9533)
 
 
-
+«[Nederlands](../nl/#bpn9533)» 
 
 
 
@@ -319,7 +329,7 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Helper in n
 (Bahaiprayers.net ID: 9531)
 
 
-
+«[Nederlands](../nl/#bpn9531)» 
 
 
 
@@ -336,7 +346,7 @@ Is er iemand die moeilijkheden wegneemt buiten God? Zeg: Ere zij God! Hij is God
 (Bahaiprayers.net ID: 9534)
 
 
-
+«[Nederlands](../nl/#bpn9534)» 
 
 
 
@@ -350,7 +360,7 @@ Onmetelijk verheven zijt Gij, o Heer van hemel en aarde, boven de lof van alle m
 (Bahaiprayers.net ID: 9535)
 
 
-
+«[Nederlands](../nl/#bpn9535)» 
 
 
 
@@ -362,7 +372,7 @@ Ik smeek U bij Uw macht, o mijn God! Laat mij geen kwaad overkomen in tijden van
 (Bahaiprayers.net ID: 9536)
 
 
-
+«[Nederlands](../nl/#bpn9536)» 
 
 
 
@@ -374,7 +384,7 @@ O Heer! Gij zijt Degeen die alle smart wegneemt en iedere kwelling verdrijft. Gi
 (Bahaiprayers.net ID: 9537)
 
 
-
+«[Nederlands](../nl/#bpn9537)» 
 
 
 
@@ -394,7 +404,7 @@ Gij zijt waarlijk de Alglorierijke, de Almilddadige.
 (Bahaiprayers.net ID: 9538)
 
 
-
+«[Nederlands](../nl/#bpn9538)» 
 
 
 
@@ -407,7 +417,7 @@ Behoed hem dan ook voor al wat Gij verafschuwt, o mijn God, door de kracht van U
 (Bahaiprayers.net ID: 9539)
 
 
-
+«[Nederlands](../nl/#bpn9539)» 
 
 
 
@@ -421,7 +431,7 @@ Gij zijt waarlijk de Almachtige, de Verhevenste, de Immervergevende, de Grootmoe
 (Bahaiprayers.net ID: 9540)
 
 
-
+«[Nederlands](../nl/#bpn9540)» 
 
 
 
@@ -433,7 +443,7 @@ O God, mijn God! Ik ben van mijn huis vertrokken, mij vastklemmend aan het koord
 (Bahaiprayers.net ID: 9541)
 
 
-
+«[Nederlands](../nl/#bpn9541)» 
 
 
 
@@ -447,7 +457,7 @@ O Gij Koning der koningen! O Gij liefderijk Heer! O Gij Bron van aloude milddadi
 (Bahaiprayers.net ID: 9542)
 
 
-
+«[Nederlands](../nl/#bpn9542)» 
 
 
 
@@ -459,7 +469,7 @@ Leid Uw dienaren, o mijn Heer, naar het hof van Uw gunst en milddadigheid en laa
 (Bahaiprayers.net ID: 9543)
 
 
-
+«[Nederlands](../nl/#bpn9543)» 
 
 
 
@@ -474,7 +484,7 @@ Er is kracht noch sterkte dan in God, de Verhevenste, de Machtigste.
 (Bahaiprayers.net ID: 9544)
 
 
-
+«[Nederlands](../nl/#bpn9544)» 
 
 
 
@@ -487,7 +497,9 @@ Schenk mij en de gelovigen die gehoor hebben gegeven aan Uw roep Uw vergeving. W
 (Bahaiprayers.net ID: 9545)
 
 
+«[Nederlands](../nl/#BB00100EXI)» 
 
+«[English](../en/#BB00100EXI)» 
 
 
 
@@ -502,7 +514,9 @@ Onmetelijk verheven zijt Gij, o Heer! Bescherm ons tegen wat voor ons en achter 
 (Bahaiprayers.net ID: 9546)
 
 
+«[Nederlands](../nl/#BB00490)» 
 
+«[English](../en/#BB00490)» 
 
 
 
@@ -514,7 +528,7 @@ O God, mijn God! Bescherm Uw vertrouwde dienaren tegen het kwaad van zelfzucht e
 (Bahaiprayers.net ID: 9547)
 
 
-
+«[Nederlands](../nl/#bpn9547)» 
 
 
 
@@ -528,7 +542,7 @@ Waarlijk, Gij zijt de Beschermer, de Behoeder, de Bewaarder, de Toereikende, en 
 (Bahaiprayers.net ID: 9548)
 
 
-
+«[Nederlands](../nl/#bpn9548)» 
 
 
 
@@ -546,7 +560,7 @@ O Gij goddelijke Voorzienigheid, behoed en bescherm ons! O Gij die ons schild zi
 (Bahaiprayers.net ID: 9549)
 
 
-
+«[Nederlands](../nl/#bpn9549)» 
 
 
 
@@ -565,7 +579,7 @@ O God! Omgeef ons met Uw voorzienigheid. Gij zijt de Krachtige. Gij zijt de Geve
 (Bahaiprayers.net ID: 9550)
 
 
-
+«[Nederlands](../nl/#bpn9550)» 
 
 
 
@@ -579,7 +593,7 @@ Gij zijt machtig. Gij zijt krachtig. Gij zijt de Gever, en Gij zijt de Immermild
 (Bahaiprayers.net ID: 9551)
 
 
-
+«[Nederlands](../nl/#bpn9551)» 
 
 
 
@@ -592,7 +606,7 @@ Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Barmhartige. Waarlijk, 
 (Bahaiprayers.net ID: 9552)
 
 
-
+«[Nederlands](../nl/#bpn9552)» 
 
 
 
@@ -608,7 +622,7 @@ Gij zijt de Krachtige, de Almogende, de Barmhartige, en Gij zijt de Edelmoedige,
 (Bahaiprayers.net ID: 9553)
 
 
-
+«[Nederlands](../nl/#bpn9553)» 
 
 
 
@@ -621,7 +635,7 @@ Waarlijk, Gij zijt de Almogende en de Almachtige!
 (Bahaiprayers.net ID: 9554)
 
 
-
+«[Nederlands](../nl/#bpn9554)» 
 
 
 
@@ -634,7 +648,7 @@ Gij zijt de Gever, de Schenker, de Immerliefhebbende.
 (Bahaiprayers.net ID: 9555)
 
 
-
+«[Nederlands](../nl/#bpn9555)» 
 
 
 
@@ -646,7 +660,7 @@ O Gij Meedogende, Almachtige! Deze hier bijeengekomen zielen hebben hun gelaat i
 (Bahaiprayers.net ID: 9556)
 
 
-
+«[Nederlands](../nl/#bpn9556)» 
 
 
 
@@ -663,7 +677,9 @@ Daarenboven smeek ik U, o mijn God, voor mij te beschikken hetgeen mij zo rijk m
 (Bahaiprayers.net ID: 9558)
 
 
+«[Nederlands](../nl/#BH09498)» 
 
+«[English](../en/#BH09498)» 
 
 
 
@@ -682,7 +698,7 @@ Gij zijt waarlijk de Almachtige, de Verhevenste, de Alwetende, de Alwijze.
 (Bahaiprayers.net ID: 9559)
 
 
-
+«[Nederlands](../nl/#bpn9559)» 
 
 
 
@@ -701,7 +717,7 @@ Waarlijk, Gij zijt de Dierbare, de Edelmoedige, de Vrijgevige.
 (Bahaiprayers.net ID: 9590)
 
 
-
+«[Nederlands](../nl/#bpn9590)» 
 
 
 
@@ -717,7 +733,7 @@ O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw ver
 (Bahaiprayers.net ID: 9560)
 
 
-
+«[Nederlands](../nl/#bpn9560)» 
 
 
 
@@ -733,7 +749,11 @@ Waarlijk, Gij zijt de Almachtige, de Bij-zich-bestaande, de Gever, de Vergevende
 (Bahaiprayers.net ID: 9561)
 
 
+«[Nederlands](../nl/#ABU0023UNI)» 
 
+«[Esperanto](../eo/#ABU0023UNI)» 
+
+«[English](../en/#ABU0023UNI)» 
 
 
 
@@ -754,7 +774,7 @@ Waarlijk, Gij zijt de Schragende, de Helper, de Edelmoedige, de Milddadige, de I
 (Bahaiprayers.net ID: 9562)
 
 
-
+«[Nederlands](../nl/#bpn9562)» 
 
 
 
@@ -786,7 +806,11 @@ Waarlijk, wij allen zijn geduldig in God.
 (Bahaiprayers.net ID: 9686)
 
 
+«[Nederlands](../nl/#BH09085)» 
 
+«[English](../en/#BH09085)» 
+
+«[Frysk](../fy/#BH09085)» 
 
 
 
@@ -805,7 +829,9 @@ O God, mijn God! Wij zijn Uw dienaren die zich vol toewijding tot Uw heilig Gela
 (Bahaiprayers.net ID: 9735)
 
 
+«[Nederlands](../nl/#AB01023SAE)» 
 
+«[English](../en/#AB01023SAE)» 
 
 
 
@@ -821,7 +847,7 @@ O Gij onze Verzorger! Zend ons Uw hulp, opdat eenieder die hier aanwezig is een 
 (Bahaiprayers.net ID: 9736)
 
 
-
+«[Nederlands](../nl/#bpn9736)» 
 
 
 
@@ -839,7 +865,7 @@ Waarlijk, Gij zijt de Grootmoedige, de Barmhartige. Gij zijt de Bezitter van gro
 (Bahaiprayers.net ID: 9737)
 
 
-
+«[Nederlands](../nl/#bpn9737)» 
 
 
 
@@ -856,7 +882,9 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Verhevenste, de A
 (Bahaiprayers.net ID: 9563)
 
 
+«[Nederlands](../nl/#BH06296)» 
 
+«[English](../en/#BH06296)» 
 
 
 
@@ -868,7 +896,13 @@ Schep in mij een zuiver hart, o mijn God, en vernieuw in mij een rustig geweten,
 (Bahaiprayers.net ID: 9564)
 
 
+«[Nederlands](../nl/#BH04421HEA)» 
 
+«[Esperanto](../eo/#BH04421HEA)» 
+
+«[English](../en/#BH04421HEA)» 
+
+«[Frysk](../fy/#BH04421HEA)» 
 
 
 
@@ -883,7 +917,11 @@ Heer! Stuur mij niet weg van de oceaan van Uw rijkdom en de hemel van Uw genade,
 (Bahaiprayers.net ID: 9565)
 
 
+«[Nederlands](../nl/#BH06026)» 
 
+«[Português (BR)](../pt/#BH06026)» 
+
+«[English](../en/#BH06026)» 
 
 
 
@@ -896,7 +934,7 @@ Gij zijt waarlijk de Almachtige, de Alglorierijke, de Krachtigste.
 (Bahaiprayers.net ID: 9566)
 
 
-
+«[Nederlands](../nl/#bpn9566)» 
 
 
 
@@ -910,7 +948,7 @@ Gij zijt waarlijk de Helper in nood door de macht van Uw soevereiniteit. Geen Go
 (Bahaiprayers.net ID: 9567)
 
 
-
+«[Nederlands](../nl/#bpn9567)» 
 
 
 
@@ -923,7 +961,11 @@ Ik smeek U, laat deze dienaar datgene bereiken wat in elk van Uw werelden tot zi
 (Bahaiprayers.net ID: 9568)
 
 
+«[Nederlands](../nl/#BH00554)» 
 
+«[Esperanto](../eo/#BH00554)» 
+
+«[English](../en/#BH00554)» 
 
 
 
@@ -940,7 +982,9 @@ Gij zijt waarlijk de Almachtige, de Verontschuldiger, de Meedogende.
 (Bahaiprayers.net ID: 9569)
 
 
+«[Nederlands](../nl/#BH03562)» 
 
+«[English](../en/#BH03562)» 
 
 
 
@@ -952,7 +996,11 @@ Ik smeek U, o mijn God, bij de alles te boven gaande glorie van Uw Naam, Uw geli
 (Bahaiprayers.net ID: 9570)
 
 
+«[Nederlands](../nl/#BH00531TRA)» 
 
+«[Español](../es/#BH00531TRA)» 
+
+«[English](../en/#BH00531TRA)» 
 
 
 
@@ -967,7 +1015,7 @@ Gij zijt de Grote Gever, de Immervergevende, de Meedogendste.
 (Bahaiprayers.net ID: 9571)
 
 
-
+«[Nederlands](../nl/#bpn9571)» 
 
 
 
@@ -979,7 +1027,7 @@ Ik smeek U, o mijn God, bij Uw verhevenste Woord, dat Gij hebt bestemd tot het g
 (Bahaiprayers.net ID: 9572)
 
 
-
+«[Nederlands](../nl/#bpn9572)» 
 
 
 
@@ -991,7 +1039,7 @@ O God, mijn God! Gij hoort het zuchten van Hem die Uw Licht (Bahá) is, beluiste
 (Bahaiprayers.net ID: 9573)
 
 
-
+«[Nederlands](../nl/#bpn9573)» 
 
 
 
@@ -1003,7 +1051,7 @@ Zeg: O God, mijn God! Tooi mijn hoofd met de kroon van gerechtigheid en mijn sla
 (Bahaiprayers.net ID: 9574)
 
 
-
+«[Nederlands](../nl/#bpn9574)» 
 
 
 
@@ -1018,7 +1066,7 @@ Waarlijk, zoudt Gij een dienaar willen zegenen dan zoudt Gij ieder noemen van ie
 (Bahaiprayers.net ID: 9575)
 
 
-
+«[Nederlands](../nl/#bpn9575)» 
 
 
 
@@ -1033,7 +1081,11 @@ Gij zijt waarlijk barmhartig, en Gij zijt waarlijk de Edelmoedigste, Wiens hulp 
 (Bahaiprayers.net ID: 9576)
 
 
+«[Nederlands](../nl/#AB07709CON)» 
 
+«[Español](../es/#AB07709CON)» 
+
+«[English](../en/#AB07709CON)» 
 
 
 
@@ -1045,7 +1097,9 @@ O mijn Heer! O mijn Heer! Dit is een lamp die is aangestoken met het vuur van Uw
 (Bahaiprayers.net ID: 9577)
 
 
+«[Nederlands](../nl/#AB11281)» 
 
+«[English](../en/#AB11281)» 
 
 
 
@@ -1058,7 +1112,13 @@ Waarlijk, Gij zijt de Edelmoedigste, de Heer van overvloedige genade. Er is geen
 (Bahaiprayers.net ID: 9578)
 
 
+«[Français](../fr/#AB09139)» 
 
+«[Nederlands](../nl/#AB09139)» 
+
+«[Português (BR)](../pt/#AB09139)» 
+
+«[English](../en/#AB09139)» 
 
 
 
@@ -1073,7 +1133,7 @@ Waarlijk, Gij zijt de Machtige, de Krachtige, de Beschermer, de Sterke, de Goedg
 (Bahaiprayers.net ID: 9579)
 
 
-
+«[Nederlands](../nl/#bpn9579)» 
 
 
 
@@ -1087,7 +1147,7 @@ Gij zijt waarlijk de Machtige, de Verhevene, de Krachtige, Hij die als enige in 
 (Bahaiprayers.net ID: 9580)
 
 
-
+«[Nederlands](../nl/#bpn9580)» 
 
 
 
@@ -1102,7 +1162,11 @@ O Heer, mijn God! Nederig zijn deze dienaren van U, verhef hen in Uw koninkrijk 
 (Bahaiprayers.net ID: 9581)
 
 
+«[Nederlands](../nl/#AB02326)» 
 
+«[Português (BR)](../pt/#AB02326)» 
+
+«[English](../en/#AB02326)» 
 
 
 
@@ -1117,7 +1181,9 @@ Gij zijt de Machtige, de Krachtige, en Gij zijt de God van sterkte, de Almachtig
 (Bahaiprayers.net ID: 9582)
 
 
+«[Nederlands](../nl/#AB00044PRO)» 
 
+«[English](../en/#AB00044PRO)» 
 
 
 
@@ -1135,7 +1201,7 @@ Krachtig zijt Gij te doen naar Uw behagen. Er is geen ander God dan Gij, de Imme
 (Bahaiprayers.net ID: 9583)
 
 
-
+«[Nederlands](../nl/#bpn9583)» 
 
 
 
@@ -1147,7 +1213,17 @@ Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabi
 (Bahaiprayers.net ID: 9584)
 
 
+«[Nederlands](../nl/#BH01313NAM)» 
 
+«[Español](../es/#BH01313NAM)» 
+
+«[Esperanto](../eo/#BH01313NAM)» 
+
+«[Português (BR)](../pt/#BH01313NAM)» 
+
+«[English](../en/#BH01313NAM)» 
+
+«[Frysk](../fy/#BH01313NAM)» 
 
 
 
@@ -1160,7 +1236,7 @@ Gij zijt waarlijk de Genezer, de Bewaarder, de Helper, de Almachtige, de Krachti
 (Bahaiprayers.net ID: 9585)
 
 
-
+«[Nederlands](../nl/#bpn9585)» 
 
 
 
@@ -1178,7 +1254,7 @@ Gij zijt in waarheid onmetelijk verheven boven alles buiten Uzelf. Gij zijt waar
 (Bahaiprayers.net ID: 9586)
 
 
-
+«[Nederlands](../nl/#bpn9586)» 
 
 
 
@@ -1194,7 +1270,7 @@ Ik smeek U daarom, bij Uw Naam waardoor Gij Uw Godheid openbaarde en Uw Zaak bov
 (Bahaiprayers.net ID: 9587)
 
 
-
+«[Nederlands](../nl/#bpn9587)» 
 
 
 
@@ -1255,7 +1331,7 @@ Gij zijt waarlijk de Krachtige, de Altoereikende, de Genezer, de Beschermer, de 
 (Bahaiprayers.net ID: 9588)
 
 
-
+«[Nederlands](../nl/#bpn9588)» 
 
 
 
@@ -1270,7 +1346,7 @@ Waarlijk, Gij zijt de Vergevende, de Meedogende. Gij zijt de Edelmoedige, de Gel
 (Bahaiprayers.net ID: 9589)
 
 
-
+«[Nederlands](../nl/#bpn9589)» 
 
 
 
@@ -1286,7 +1362,7 @@ icht en glorie, groet en ere zij de Handen van Zijn Zaak, door wie het licht van
 (Bahaiprayers.net ID: 9738)
 
 
-
+«[Nederlands](../nl/#bpn9738)» 
 
 
 
@@ -1302,7 +1378,7 @@ O God! Verdrijf al hetgeen de oorzaak van onenigheid is, en bereid voor ons al w
 (Bahaiprayers.net ID: 9557)
 
 
-
+«[Nederlands](../nl/#bpn9557)» 
 
 
 
@@ -1322,7 +1398,7 @@ Er is geen ander God dan Gij, de Helper in nood, de Bij-zich-bestaande.
 (Bahaiprayers.net ID: 9525)
 
 
-
+«[Nederlands](../nl/#bpn9525)» 
 
 
 
@@ -1400,7 +1476,11 @@ Ik betuig, o mijn God, hetgeen Uw uitverkorenen betuigen en erken hetgeen de bew
 (Bahaiprayers.net ID: 9757)
 
 
+«[Nederlands](../nl/#BH00987)» 
 
+«[Esperanto](../eo/#BH00987)» 
+
+«[English](../en/#BH00987)» 
 
 
 
@@ -1443,7 +1523,13 @@ Ik getuig van Uw eenheid en Uw één-zijn, en dat Gij God zijt, en dat er geen a
 (Bahaiprayers.net ID: 9526)
 
 
+«[Nederlands](../nl/#BH03447)» 
 
+«[Esperanto](../eo/#BH03447)» 
+
+«[Português (BR)](../pt/#BH03447)» 
+
+«[English](../en/#BH03447)» 
 
 
 
@@ -1460,7 +1546,13 @@ Gij zijt waarlijk de Koning van alle mensen. Er is geen God dan Gij, de Immerver
 (Bahaiprayers.net ID: 9593)
 
 
+«[Nederlands](../nl/#BH10973)» 
 
+«[Esperanto](../eo/#BH10973)» 
+
+«[English](../en/#BH10973)» 
+
+«[Frysk](../fy/#BH10973)» 
 
 
 
@@ -1473,7 +1565,7 @@ O goddelijke Voorzienigheid! Alle bestaan is door Uw milddadigheid voortgebracht
 (Bahaiprayers.net ID: 9594)
 
 
-
+«[Nederlands](../nl/#bpn9594)» 
 
 
 
@@ -1488,7 +1580,7 @@ O mijn Heer, hun ogen zijn vol verwachting op Uw milddadigheid gericht en hun ge
 (Bahaiprayers.net ID: 9595)
 
 
-
+«[Nederlands](../nl/#bpn9595)» 
 
 
 
@@ -1500,7 +1592,7 @@ Zeg: Ere zij U die alle heiligen hun hulpeloosheid deed bekennen tegenover de me
 (Bahaiprayers.net ID: 9596)
 
 
-
+«[Nederlands](../nl/#bpn9596)» 
 
 
 
@@ -1515,7 +1607,7 @@ Zeg: God is waarlijk de Maker aller dingen. Hij geeft overvloedige steun aan wie
 (Bahaiprayers.net ID: 9597)
 
 
-
+«[Nederlands](../nl/#bpn9597)» 
 
 
 
@@ -1527,7 +1619,7 @@ O mijn God, mijn Heer en mijn Meester! Ik heb mij losgemaakt van mijn verwanten 
 (Bahaiprayers.net ID: 9598)
 
 
-
+«[Nederlands](../nl/#bpn9598)» 
 
 
 
@@ -1541,7 +1633,13 @@ Geef ons ons dagelijks brood en voorzie steeds meer in onze levensbehoeften, opd
 (Bahaiprayers.net ID: 9599)
 
 
+«[Nederlands](../nl/#AB00431PIT)» 
 
+«[Esperanto](../eo/#AB00431PIT)» 
+
+«[Papiamentu](../pap/#AB00431PIT)» 
+
+«[English](../en/#AB00431PIT)» 
 
 
 
@@ -1554,7 +1652,7 @@ O Gij Verzorger, o Gij Vergevende! Verleen ons Uw genade en goedertierenheid, Uw
 (Bahaiprayers.net ID: 9600)
 
 
-
+«[Nederlands](../nl/#bpn9600)» 
 
 
 
@@ -1568,7 +1666,11 @@ Gij zijt waarlijk de Ene, de Enige, de Machtige, de Alwetende, de Alwijze.
 (Bahaiprayers.net ID: 9601)
 
 
+«[Nederlands](../nl/#AB10275)» 
 
+«[Español](../es/#AB10275)» 
+
+«[English](../en/#AB10275)» 
 
 
 
@@ -1587,7 +1689,11 @@ Verheerlijkt zijt Gij, o Heer van de gehele schepping, Degeen tot Wie alle dinge
 (Bahaiprayers.net ID: 9739)
 
 
+«[Nederlands](../nl/#BH01554HUQ)» 
 
+«[Português (BR)](../pt/#BH01554HUQ)» 
+
+«[English](../en/#BH01554HUQ)» 
 
 
 
@@ -1615,7 +1721,7 @@ Toen Hij de mensen genade en milddadigheid wenste te betonen en de wereld wenste
 (Bahaiprayers.net ID: 9602)
 
 
-
+«[Nederlands](../nl/#bpn9602)» 
 
 
 
@@ -1629,7 +1735,7 @@ O Gij, liefderijk Heer! Maakt Gij dat dit huwelijk koraal en parelen voortbrengt
 (Bahaiprayers.net ID: 9603)
 
 
-
+«[Nederlands](../nl/#bpn9603)» 
 
 
 
@@ -1641,7 +1747,11 @@ Glorie zij U, o mijn God! Waarlijk, deze dienaar en dienares van U zijn onder de
 (Bahaiprayers.net ID: 9604)
 
 
+«[Nederlands](../nl/#AB07158)» 
 
+«[English](../en/#AB07158)» 
+
+«[Frysk](../fy/#AB07158)» 
 
 
 
@@ -1654,7 +1764,7 @@ Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Almachtige. Waarlijk, G
 (Bahaiprayers.net ID: 9605)
 
 
-
+«[Nederlands](../nl/#bpn9605)» 
 
 
 
@@ -1672,7 +1782,7 @@ O Gij vriendelijk Heer! Vergun dat deze jongere mag bereiken wat het hoogste ver
 (Bahaiprayers.net ID: 9606)
 
 
-
+«[Nederlands](../nl/#bpn9606)» 
 
 
 
@@ -1686,7 +1796,7 @@ Gij zijt de Machtige en de Krachtige; Gij zijt de Schenker en de Liefderijke.
 (Bahaiprayers.net ID: 9607)
 
 
-
+«[Nederlands](../nl/#bpn9607)» 
 
 
 
@@ -1699,7 +1809,9 @@ Gij zijt de Schenker, de Liefderijke.
 (Bahaiprayers.net ID: 9608)
 
 
+«[Nederlands](../nl/#AB10492)» 
 
+«[Español](../es/#AB10492)» 
 
 
 
@@ -1711,7 +1823,7 @@ O Heer! Laat deze jongere stralen en verleen dit arme schepsel Uw milddadigheid.
 (Bahaiprayers.net ID: 9609)
 
 
-
+«[Nederlands](../nl/#bpn9609)» 
 
 
 
@@ -1726,7 +1838,7 @@ Gij zijt de Almogende, de Alglorierijke, de Almachtige.
 (Bahaiprayers.net ID: 9610)
 
 
-
+«[Nederlands](../nl/#bpn9610)» 
 
 
 
@@ -1743,7 +1855,7 @@ Ik smeek U bij Uw Naam, waardoor eenieder in staat is gesteld het doel van zijn 
 (Bahaiprayers.net ID: 9611)
 
 
-
+«[Nederlands](../nl/#bpn9611)» 
 
 
 
@@ -1755,7 +1867,7 @@ O God! Voed deze kinderen op. Deze kinderen zijn de planten van Uw boomgaard, de
 (Bahaiprayers.net ID: 9612)
 
 
-
+«[Nederlands](../nl/#bpn9612)» 
 
 
 
@@ -1768,7 +1880,11 @@ Gij zijt de Genadige, de Liefderijke.
 (Bahaiprayers.net ID: 9613)
 
 
+«[Français](../fr/#AB10714)» 
 
+«[Nederlands](../nl/#AB10714)» 
+
+«[English](../en/#AB10714)» 
 
 
 
@@ -1782,7 +1898,11 @@ Gij zijt de Krachtige, de Liefderijke.
 (Bahaiprayers.net ID: 9614)
 
 
+«[Nederlands](../nl/#AB10701)» 
 
+«[Español](../es/#AB10701)» 
+
+«[English](../en/#AB10701)» 
 
 
 
@@ -1794,7 +1914,7 @@ Hij is God! O God, mijn God! Schenk mij een zuiver hart, net als een parel.
 (Bahaiprayers.net ID: 9615)
 
 
-
+«[Nederlands](../nl/#bpn9615)» 
 
 
 
@@ -1807,7 +1927,15 @@ Gij zijt de Machtige en de Krachtige.
 (Bahaiprayers.net ID: 9616)
 
 
+«[Nederlands](../nl/#AB04427LMP)» 
 
+«[Esperanto](../eo/#AB04427LMP)» 
+
+«[Papiamentu](../pap/#AB04427LMP)» 
+
+«[English](../en/#AB04427LMP)» 
+
+«[Frysk](../fy/#AB04427LMP)» 
 
 
 
@@ -1821,7 +1949,7 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Ziende, de Horende.
 (Bahaiprayers.net ID: 9617)
 
 
-
+«[Nederlands](../nl/#bpn9617)» 
 
 
 
@@ -1833,7 +1961,7 @@ O Weergaloos Heer! Weest Gij een schuilplaats voor dit arme kind en een vriendel
 (Bahaiprayers.net ID: 9618)
 
 
-
+«[Nederlands](../nl/#bpn9618)» 
 
 
 
@@ -1847,7 +1975,9 @@ Yá Bahá’u’l-Abhá!
 (Bahaiprayers.net ID: 9619)
 
 
+«[Nederlands](../nl/#AB10324)» 
 
+«[English](../en/#AB10324)» 
 
 
 
@@ -1860,7 +1990,11 @@ Gij zijt de Machtige en de Krachtige, en Gij zijt de Liefderijke, de Alwetende, 
 (Bahaiprayers.net ID: 9620)
 
 
+«[Nederlands](../nl/#AB09794CHI)» 
 
+«[Português (BR)](../pt/#AB09794CHI)» 
+
+«[English](../en/#AB09794CHI)» 
 
 
 
@@ -1872,7 +2006,7 @@ O Gij glorierijkste Heer! Maak deze kleine dienares van U gezegend en gelukkig. 
 (Bahaiprayers.net ID: 9621)
 
 
-
+«[Nederlands](../nl/#AB10685)» 
 
 
 
@@ -1889,7 +2023,11 @@ Verlicht, o Heer, het gelaat van Uw dienaren, opdat zij U kunnen aanschouwen, zu
 (Bahaiprayers.net ID: 9625)
 
 
+«[Nederlands](../nl/#BH09401)» 
 
+«[Esperanto](../eo/#BH09401)» 
+
+«[English](../en/#BH09401)» 
 
 
 
@@ -1904,7 +2042,7 @@ Alle lof en heerlijkheid zij U, Gij van wie alle dingen getuigen dat Gij één z
 (Bahaiprayers.net ID: 9626)
 
 
-
+«[Nederlands](../nl/#bpn9626)» 
 
 
 
@@ -1918,7 +2056,7 @@ Gij zijt de God van kracht, van glorie en milddadigheid. Geen God is er buiten U
 (Bahaiprayers.net ID: 9627)
 
 
-
+«[Nederlands](../nl/#bpn9627)» 
 
 
 
@@ -1931,7 +2069,7 @@ Gij zijt de Almachtige, de Verhevenste, de Alglorierijke, de Liefderijke.
 (Bahaiprayers.net ID: 9628)
 
 
-
+«[Nederlands](../nl/#bpn9628)» 
 
 
 
@@ -1944,7 +2082,7 @@ Ik smeek U, o mijn Heer, bij Uw allergrootste Naam waardoor Gij licht van vuur e
 (Bahaiprayers.net ID: 9629)
 
 
-
+«[Nederlands](../nl/#bpn9629)» 
 
 
 
@@ -1960,7 +2098,7 @@ Wij zijn Uw dienaren, o mijn Heer, in de greep van Uw macht. Indien Gij ons kast
 (Bahaiprayers.net ID: 9630)
 
 
-
+«[Nederlands](../nl/#bpn9630)» 
 
 
 
@@ -1974,7 +2112,7 @@ Zend daarom, o mijn God, tot allen die U zoeken datgene neer wat hen geheel zal 
 (Bahaiprayers.net ID: 9631)
 
 
-
+«[Nederlands](../nl/#bpn9631)» 
 
 
 
@@ -1986,7 +2124,7 @@ O Gij die de Heer der Heren zijt! Ik betuig dat Gij de Heer zijt van al het gesc
 (Bahaiprayers.net ID: 9632)
 
 
-
+«[Nederlands](../nl/#bpn9632)» 
 
 
 
@@ -2000,7 +2138,7 @@ Ere zij U, Gij zijt verheven boven de beschrijving van eenieder buiten Uzelf, da
 (Bahaiprayers.net ID: 9633)
 
 
-
+«[Nederlands](../nl/#bpn9633)» 
 
 
 
@@ -2014,7 +2152,7 @@ Waarlijk, er is geen macht of kracht dan in U.
 (Bahaiprayers.net ID: 9634)
 
 
-
+«[Nederlands](../nl/#bpn9634)» 
 
 
 
@@ -2027,7 +2165,7 @@ Verheerlijkt zijt Gij, o Heer! Waarlijk ik ben arm, terwijl Gij in waarheid rijk
 (Bahaiprayers.net ID: 9635)
 
 
-
+«[Nederlands](../nl/#bpn9635)» 
 
 
 
@@ -2050,7 +2188,9 @@ Waarlijk, Gij zijt de Milddadige, de Machtige, de Almogende, de Onbeperkte. Er i
 (Bahaiprayers.net ID: 9741)
 
 
+«[Nederlands](../nl/#AB02024)» 
 
+«[English](../en/#AB02024)» 
 
 
 
@@ -2068,7 +2208,11 @@ Allen zijn slechts arm en behoeftig, en Gij zijt waarlijk de Albezitter, de Albe
 (Bahaiprayers.net ID: 9636)
 
 
+«[Italiano](../it/#BH00868WIT)» 
 
+«[Nederlands](../nl/#BH00868WIT)» 
+
+«[English](../en/#BH00868WIT)» 
 
 
 
@@ -2080,7 +2224,7 @@ O Gij meedogend Heer, Gij die vrijgevig en bekwaam zijt! Wij zijn Uw dienaren di
 (Bahaiprayers.net ID: 9637)
 
 
-
+«[Nederlands](../nl/#bpn9637)» 
 
 
 
@@ -2092,7 +2236,7 @@ O Gij vriendelijk Heer! O Gij die edelmoedig en barmhartig zijt! Wij zijn dienar
 (Bahaiprayers.net ID: 9638)
 
 
-
+«[Nederlands](../nl/#bpn9638)» 
 
 
 
@@ -2111,7 +2255,7 @@ Gij zijt de Machtige en de Krachtige, Gij zijt de Vergevende en Gij zijt Degeen 
 (Bahaiprayers.net ID: 9639)
 
 
-
+«[Nederlands](../nl/#bpn9639)» 
 
 
 
@@ -2126,7 +2270,7 @@ Gij zijt waarlijk de Krachtige, de Beschermer, de Sterke, de Verdediger, de Mach
 (Bahaiprayers.net ID: 9640)
 
 
-
+«[Nederlands](../nl/#bpn9640)» 
 
 
 
@@ -2146,7 +2290,7 @@ Waarlijk, Gij zijt de Schenker, de Edelmoedige, de Genadige, de Vergevende.
 (Bahaiprayers.net ID: 9529)
 
 
-
+«[Nederlands](../nl/#bpn9529)» 
 
 
 
@@ -2164,7 +2308,7 @@ Gij zijt in waarheid de Immervergevende, de Meedogendste.
 (Bahaiprayers.net ID: 9641)
 
 
-
+«[Nederlands](../nl/#bpn9641)» 
 
 
 
@@ -2176,7 +2320,7 @@ Ik ben waarlijk Uw dienaar, o mijn God, en Uw arme en Uw smekeling en Uw armzali
 (Bahaiprayers.net ID: 9642)
 
 
-
+«[Nederlands](../nl/#bpn9642)» 
 
 
 
@@ -2190,7 +2334,7 @@ O mijn God! Ik smeek U bij de tekenen van Uw gunst om mij nader te laten komen t
 (Bahaiprayers.net ID: 9643)
 
 
-
+«[Nederlands](../nl/#bpn9643)» 
 
 
 
@@ -2202,7 +2346,7 @@ O God, mijn God, mijn Geliefde, mijn Hartsverlangen.
 (Bahaiprayers.net ID: 9644)
 
 
-
+«[Nederlands](../nl/#bpn9644)» 
 
 
 
@@ -2224,7 +2368,7 @@ Gij zijt waarlijk de Genadige, de Verheerlijkte, de Machtige, de Alvermogende.
 (Bahaiprayers.net ID: 9645)
 
 
-
+«[Nederlands](../nl/#bpn9645)» 
 
 
 
@@ -2237,7 +2381,11 @@ Beschut deze geboeide, in vuur geraakte dienaar onder Uw bescherming, o Gij Gees
 (Bahaiprayers.net ID: 9646)
 
 
+«[Nederlands](../nl/#AB06012)» 
 
+«[Esperanto](../eo/#AB06012)» 
+
+«[English](../en/#AB06012)» 
 
 
 
@@ -2257,7 +2405,7 @@ Gij zijt in waarheid de Alwetende, de Alwijze.
 (Bahaiprayers.net ID: 9742)
 
 
-
+«[Nederlands](../nl/#bpn9742)» 
 
 
 
@@ -2276,7 +2424,7 @@ Gij zijt waarlijk de Heer en Koning aller mensen en zijt machtig over alle dinge
 (Bahaiprayers.net ID: 9647)
 
 
-
+«[Nederlands](../nl/#bpn9647)» 
 
 
 
@@ -2288,7 +2436,7 @@ Ik ben onder Uw beschutting ontwaakt, o mijn God, en het past hem die deze besch
 (Bahaiprayers.net ID: 9648)
 
 
-
+«[Nederlands](../nl/#bpn9648)» 
 
 
 
@@ -2301,7 +2449,13 @@ Er is geen ander God dan Gij, de Ene, de Onvergelijkelijke, de Alwetende, de Alw
 (Bahaiprayers.net ID: 9649)
 
 
+«[Nederlands](../nl/#BH00009GRA)» 
 
+«[Esperanto](../eo/#BH00009GRA)» 
+
+«[Papiamentu](../pap/#BH00009GRA)» 
+
+«[English](../en/#BH00009GRA)» 
 
 
 
@@ -2317,7 +2471,11 @@ Gij stelt niemand die U zoekt teleur noch houdt Gij iemand die naar U verlangt v
 (Bahaiprayers.net ID: 9650)
 
 
+«[Nederlands](../nl/#BH00009AWA)» 
 
+«[English](../en/#BH00009AWA)» 
+
+«[Frysk](../fy/#BH00009AWA)» 
 
 
 
@@ -2336,7 +2494,7 @@ Zend dan datgene tot hen neer wat hen geheel los zal maken van alles buiten U, e
 (Bahaiprayers.net ID: 9651)
 
 
-
+«[Nederlands](../nl/#bpn9651)» 
 
 
 
@@ -2351,7 +2509,7 @@ Gij zijt waarlijk de Krachtigste, de Hoogste, de Alwetende, de Alwijze.
 (Bahaiprayers.net ID: 9652)
 
 
-
+«[Nederlands](../nl/#bpn9652)» 
 
 
 
@@ -2366,7 +2524,9 @@ Ik smeek U, o Gij Koning van het bestaan en Beschermer van het geziene en het on
 (Bahaiprayers.net ID: 9653)
 
 
+«[Nederlands](../nl/#BH00308DES)» 
 
+«[English](../en/#BH00308DES)» 
 
 
 
@@ -2381,7 +2541,7 @@ Gij zijt in waarheid de God van sterkte en kracht, die bereid is hen die U aanro
 (Bahaiprayers.net ID: 9654)
 
 
-
+«[Nederlands](../nl/#bpn9654)» 
 
 
 
@@ -2395,7 +2555,7 @@ Waarlijk, machtig zijt Gij te doen al wat Gij wilt, en Gij houdt het koninkrijk 
 (Bahaiprayers.net ID: 9655)
 
 
-
+«[Nederlands](../nl/#bpn9655)» 
 
 
 
@@ -2408,7 +2568,7 @@ Gij zijt waarlijk de Almachtige, de Allerhoogste, de Alglorierijke, de Albeheers
 (Bahaiprayers.net ID: 9656)
 
 
-
+«[Nederlands](../nl/#bpn9656)» 
 
 
 
@@ -2421,7 +2581,7 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almogende, 
 (Bahaiprayers.net ID: 9657)
 
 
-
+«[Nederlands](../nl/#bpn9657)» 
 
 
 
@@ -2436,7 +2596,7 @@ O mijn God, zend dan door Uw Allergrootste Naam tot Uw geliefden neer hetgeen he
 (Bahaiprayers.net ID: 9658)
 
 
-
+«[Nederlands](../nl/#bpn9658)» 
 
 
 
@@ -2448,7 +2608,7 @@ Ik smeek U, o mijn God, bij Uw kracht en Uw macht en Uw soevereiniteit, die alle
 (Bahaiprayers.net ID: 9659)
 
 
-
+«[Nederlands](../nl/#bpn9659)» 
 
 
 
@@ -2462,7 +2622,7 @@ Waarlijk, machtig zijt Gij te doen hetgeen Gij wilt, en de teugels van alle aang
 (Bahaiprayers.net ID: 9660)
 
 
-
+«[Nederlands](../nl/#bpn9660)» 
 
 
 
@@ -2475,7 +2635,7 @@ Gij zijt waarlijk de Edelmoedige, de Vergevende.
 (Bahaiprayers.net ID: 9661)
 
 
-
+«[Nederlands](../nl/#bpn9661)» 
 
 
 
@@ -2487,7 +2647,7 @@ O God, mijn God! Helpt Gij Uw vertrouwde dienaren een liefdevol en warm hart te 
 (Bahaiprayers.net ID: 9662)
 
 
-
+«[Nederlands](../nl/#bpn9662)» 
 
 
 
@@ -2502,7 +2662,11 @@ Waarlijk, Gij zijt Degeen van overvloedige genade. Er is geen ander God dan Gij,
 (Bahaiprayers.net ID: 9663)
 
 
+«[Nederlands](../nl/#AB00156LOW)» 
 
+«[Português (BR)](../pt/#AB00156LOW)» 
+
+«[English](../en/#AB00156LOW)» 
 
 
 
@@ -2516,7 +2680,7 @@ O God! Behoed mij voor beproevingen. Gij ziet en weet dat ik mij van alle dingen
 (Bahaiprayers.net ID: 9664)
 
 
-
+«[Nederlands](../nl/#bpn9664)» 
 
 
 
@@ -2537,7 +2701,9 @@ Waarlijk, Gij zijt de Krachtige, de Machtige en de Almogende, en Gij zijt de Wij
 (Bahaiprayers.net ID: 9665)
 
 
+«[Nederlands](../nl/#AB00218SOU)» 
 
+«[English](../en/#AB00218SOU)» 
 
 
 
@@ -2557,7 +2723,7 @@ Waarlijk, Gij bekrachtigt al wie Gij wilt in hetgeen Gij verlangt, en waarlijk, 
 (Bahaiprayers.net ID: 9666)
 
 
-
+«[Nederlands](../nl/#bpn9666)» 
 
 
 
@@ -2578,7 +2744,7 @@ Waarlijk, Gij zijt de Welwillende, de Krachtige, de Machtige en de Barmhartigste
 (Bahaiprayers.net ID: 9667)
 
 
-
+«[Nederlands](../nl/#bpn9667)» 
 
 
 
@@ -2604,7 +2770,7 @@ Waarlijk, Gij zijt de Grootmoedigste, de Heer van overvloedige genade en waarlij
 (Bahaiprayers.net ID: 9668)
 
 
-
+«[Nederlands](../nl/#bpn9668)» 
 
 
 
@@ -2624,7 +2790,7 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Wijze en de Ziende.
 (Bahaiprayers.net ID: 9669)
 
 
-
+«[Nederlands](../nl/#bpn9669)» 
 
 
 
@@ -2642,7 +2808,9 @@ Gij zijt de Almachtige en Degeen die doet al hetgeen Hij maar wil.
 (Bahaiprayers.net ID: 9670)
 
 
+«[Nederlands](../nl/#AB00209UND)» 
 
+«[English](../en/#AB00209UND)» 
 
 
 
@@ -2661,7 +2829,7 @@ O Heer! Ik ben zwak, sterk mij met Uw kracht en macht. Mijn tong stamelt, sta mi
 (Bahaiprayers.net ID: 9671)
 
 
-
+«[Nederlands](../nl/#bpn9671)» 
 
 
 
@@ -2680,7 +2848,7 @@ Waarlijk, Gij zijt de helper van de armen en de verdediger van de kleinen en waa
 (Bahaiprayers.net ID: 9672)
 
 
-
+«[Nederlands](../nl/#bpn9672)» 
 
 
 
@@ -2697,7 +2865,11 @@ Waarlijk, Gij zijt de Almogende, de Verhevenste, de Immervergevende, de Albarmha
 (Bahaiprayers.net ID: 9673)
 
 
+«[Nederlands](../nl/#AB00169FRA)» 
 
+«[Português (BR)](../pt/#AB00169FRA)» 
+
+«[English](../en/#AB00169FRA)» 
 
 
 
@@ -2717,7 +2889,7 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Alvermogende.
 (Bahaiprayers.net ID: 9674)
 
 
-
+«[Nederlands](../nl/#bpn9674)» 
 
 
 
@@ -2735,7 +2907,9 @@ Verheerlijkt zij Uw Naam, o Gij die de Koning aller koningen zijt!
 (Bahaiprayers.net ID: 9675)
 
 
+«[Nederlands](../nl/#BH09289)» 
 
+«[English](../en/#BH09289)» 
 
 
 
@@ -2749,7 +2923,7 @@ Gij zijt waarlijk de Heer der gehele mensheid, en de Bezitter van deze wereld en
 (Bahaiprayers.net ID: 9676)
 
 
-
+«[Nederlands](../nl/#bpn9676)» 
 
 
 
@@ -2763,7 +2937,7 @@ Gij zijt, in waarheid, de Heer der werelden, en de God van allen die in de hemel
 (Bahaiprayers.net ID: 9677)
 
 
-
+«[Nederlands](../nl/#bpn9677)» 
 
 
 
@@ -2778,7 +2952,15 @@ Uw macht is, in waarheid, tegen alles bestand.
 (Bahaiprayers.net ID: 9678)
 
 
+«[Nederlands](../nl/#BH09024)» 
 
+«[Afrikaans](../af/#BH09024)» 
+
+«[Español](../es/#BH09024)» 
+
+«[Esperanto](../eo/#BH09024)» 
+
+«[English](../en/#BH09024)» 
 
 
 
@@ -2793,7 +2975,11 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Almogende, de Gro
 (Bahaiprayers.net ID: 9679)
 
 
+«[Italiano](../it/#BH05894)» 
 
+«[Nederlands](../nl/#BH05894)» 
+
+«[English](../en/#BH05894)» 
 
 
 
@@ -2809,7 +2995,9 @@ Er is geen ander God dan Gij, de Almachtige, de Weldadige.
 (Bahaiprayers.net ID: 9680)
 
 
+«[Nederlands](../nl/#BH05771)» 
 
+«[English](../en/#BH05771)» 
 
 
 
@@ -2824,7 +3012,9 @@ Verleen Uw zegeningen, o mijn Heer, aan de Boodschappers, de heiligen en de rech
 (Bahaiprayers.net ID: 9681)
 
 
+«[Nederlands](../nl/#BB00560)» 
 
+«[English](../en/#BB00560)» 
 
 
 
@@ -2840,7 +3030,7 @@ Aan U is het absolute gezag te bevelen.
 (Bahaiprayers.net ID: 9682)
 
 
-
+«[Nederlands](../nl/#bpn9682)» 
 
 
 
@@ -2852,7 +3042,17 @@ Zeg: God voldoet alle dingen boven alle dingen en niets in de hemelen of op aard
 (Bahaiprayers.net ID: 9683)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -2867,7 +3067,7 @@ Gij zijt in waarheid de Almachtige, de Alglorierijke, de Almogende.
 (Bahaiprayers.net ID: 9684)
 
 
-
+«[Nederlands](../nl/#bpn9684)» 
 
 
 
@@ -2881,7 +3081,7 @@ Gij zijt waarlijk de Krachtige, de Immergevende, de Kundige, de Almachtige.
 (Bahaiprayers.net ID: 9685)
 
 
-
+«[Nederlands](../nl/#bpn9685)» 
 
 
 
@@ -2898,7 +3098,11 @@ O mijn God! Gij hebt mijn ziel geïnspireerd om haar smeekbede tot U te richten,
 (Bahaiprayers.net ID: 9591)
 
 
+«[Français](../fr/#BB00018FOR)» 
 
+«[Nederlands](../nl/#BB00018FOR)» 
+
+«[English](../en/#BB00018FOR)» 
 
 
 
@@ -2910,7 +3114,11 @@ O Heer! Gij aanvaardt in deze Allergrootste Beschikking de voorspraak van kinder
 (Bahaiprayers.net ID: 9592)
 
 
+«[Nederlands](../nl/#AB02000DIS)» 
 
+«[Esperanto](../eo/#AB02000DIS)» 
+
+«[English](../en/#AB02000DIS)» 
 
 
 
@@ -2928,7 +3136,9 @@ Machtig zijt Gij te doen al hetgeen Gij wilt. Geen God is er buiten U, de Alwete
 (Bahaiprayers.net ID: 9697)
 
 
+«[Nederlands](../nl/#BH09809)» 
 
+«[English](../en/#BH09809)» 
 
 
 
@@ -2941,7 +3151,7 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Helper in nood, d
 (Bahaiprayers.net ID: 9698)
 
 
-
+«[Nederlands](../nl/#bpn9698)» 
 
 
 
@@ -2954,7 +3164,7 @@ Waarlijk, Gij zijt de Almachtige, de Immervergevende, de Grootmoedigste.
 (Bahaiprayers.net ID: 9699)
 
 
-
+«[Nederlands](../nl/#bpn9699)» 
 
 
 
@@ -2969,7 +3179,7 @@ Vergun, o Heer, dat hun hart door hun trouw aan dit onschendbare Geloof van U st
 (Bahaiprayers.net ID: 9700)
 
 
-
+«[Nederlands](../nl/#bpn9700)» 
 
 
 
@@ -2982,7 +3192,9 @@ Groot is de gelukzaligheid van hen wier bloed Gij hebt uitverkoren voor het begi
 (Bahaiprayers.net ID: 9701)
 
 
+«[Nederlands](../nl/#BB00147GRO)» 
 
+«[English](../en/#BB00147GRO)» 
 
 
 
@@ -2996,7 +3208,11 @@ Waarlijk, Gij zijt onze Heer en de Heer aller dingen. In Uw handen leggen wij on
 (Bahaiprayers.net ID: 9702)
 
 
+«[Nederlands](../nl/#BB00543VIC)» 
 
+«[Español](../es/#BB00543VIC)» 
+
+«[English](../en/#BB00543VIC)» 
 
 
 
@@ -3009,7 +3225,7 @@ Sinds onheuglijke tijden waart Gij machtig te doen naar Uw behagen en verheven b
 (Bahaiprayers.net ID: 9703)
 
 
-
+«[Nederlands](../nl/#bpn9703)» 
 
 
 
@@ -3023,7 +3239,11 @@ Gij zijt voorwaar de Gevende, de Vergevende, de Immerschenkende. Gij zijt voorwa
 (Bahaiprayers.net ID: 9704)
 
 
+«[Nederlands](../nl/#AB00065KIN)» 
 
+«[Português (BR)](../pt/#AB00065KIN)» 
+
+«[English](../en/#AB00065KIN)» 
 
 
 
@@ -3039,7 +3259,9 @@ De heerlijkheid der heerlijkheden ruste op hen die getrouw en standvastig zijn.
 (Bahaiprayers.net ID: 9705)
 
 
+«[Nederlands](../nl/#AB00527)» 
 
+«[English](../en/#AB00527)» 
 
 
 
@@ -3059,7 +3281,7 @@ Gij zijt waarlijk de Almachtige, de Alwetende, de Welingelichte.
 (Bahaiprayers.net ID: 9743)
 
 
-
+«[Nederlands](../nl/#bpn9743)» 
 
 
 
@@ -3076,7 +3298,7 @@ Waarlijk, Gij zijt de Heer van Sterkte, Gij zijt machtig te beschikken wat Gij o
 (Bahaiprayers.net ID: 9706)
 
 
-
+«[Nederlands](../nl/#bpn9706)» 
 
 
 
@@ -3090,7 +3312,7 @@ Gij zijt waarlijk de God van Kracht, de Helper in nood, de Allerheerlijkste, de 
 (Bahaiprayers.net ID: 9707)
 
 
-
+«[Nederlands](../nl/#bpn9707)» 
 
 
 
@@ -3108,7 +3330,7 @@ Ik vraag U, o Heer van alle bestaan en Koning van het geziene en het ongeziene, 
 (Bahaiprayers.net ID: 9708)
 
 
-
+«[Nederlands](../nl/#bpn9708)» 
 
 
 
@@ -3120,7 +3342,7 @@ Geprezen zijt Gij, o mijn Heer, dat Gij mij in staat hebt gesteld de Manifestati
 (Bahaiprayers.net ID: 9709)
 
 
-
+«[Nederlands](../nl/#bpn9709)» 
 
 
 
@@ -3133,7 +3355,9 @@ Vergun, o mijn God, dat ik niet gerekend worde tot hen wier oren doof zijn, wier
 (Bahaiprayers.net ID: 9710)
 
 
+«[Nederlands](../nl/#BB00554)» 
 
+«[English](../en/#BB00554)» 
 
 
 
@@ -3146,7 +3370,7 @@ Waarlijk, Gij zijt de opperste Heerser, de Soevereine Waarheid, de Helper in noo
 (Bahaiprayers.net ID: 9711)
 
 
-
+«[Nederlands](../nl/#bpn9711)» 
 
 
 
@@ -3158,7 +3382,7 @@ O mijn God, o mijn Heer, o mijn Meester! Ik smeek U mij te vergeven voor het zoe
 (Bahaiprayers.net ID: 9712)
 
 
-
+«[Nederlands](../nl/#bpn9712)» 
 
 
 
@@ -3170,7 +3394,15 @@ O Heer, mijn God! Help Uw geliefden sterk te staan in Uw Geloof, Uw wegen te bew
 (Bahaiprayers.net ID: 9713)
 
 
+«[Italiano](../it/#AB00001FIR)» 
 
+«[Nederlands](../nl/#AB00001FIR)» 
+
+«[Esperanto](../eo/#AB00001FIR)» 
+
+«[Português (BR)](../pt/#AB00001FIR)» 
+
+«[English](../en/#AB00001FIR)» 
 
 
 
@@ -3184,7 +3416,9 @@ Waarlijk, Gij zijt de Edelmoedige, de Immergevende, de Onschatbare, de Milddadig
 (Bahaiprayers.net ID: 9714)
 
 
+«[Nederlands](../nl/#AB00687SEE)» 
 
+«[English](../en/#AB00687SEE)» 
 
 
 
@@ -3203,7 +3437,11 @@ Geen God is er dan Gij, de Almachtige, de Alwijze.
 (Bahaiprayers.net ID: 9715)
 
 
+«[Nederlands](../nl/#BH07683)» 
 
+«[Español](../es/#BH07683)» 
+
+«[English](../en/#BH07683)» 
 
 
 
@@ -3218,7 +3456,11 @@ Bestem voor mij door Uw genade, o Heer, hetgeen mij zal doen gedijen in deze wer
 (Bahaiprayers.net ID: 9716)
 
 
+«[Nederlands](../nl/#BH07469)» 
 
+«[Português (BR)](../pt/#BH07469)» 
+
+«[English](../en/#BH07469)» 
 
 
 
@@ -3232,7 +3474,7 @@ Gij zijt de Verontschuldiger, de Genadige.
 (Bahaiprayers.net ID: 9717)
 
 
-
+«[Nederlands](../nl/#bpn9717)» 
 
 
 
@@ -3246,7 +3488,11 @@ Gij zijt de Meedogende, de Genadige. Gij zijt de Grote weldadige God.
 (Bahaiprayers.net ID: 9718)
 
 
+«[Nederlands](../nl/#AB02342AWA)» 
 
+«[Esperanto](../eo/#AB02342AWA)» 
+
+«[English](../en/#AB02342AWA)» 
 
 
 
@@ -3259,7 +3505,7 @@ Waarlijk, Gij zijt de Onoverwinnelijke, de Almachtige, de Almogende.
 (Bahaiprayers.net ID: 9719)
 
 
-
+«[Nederlands](../nl/#bpn9719)» 
 
 
 
@@ -3294,7 +3540,7 @@ Waarlijk, Hij is de Genadige, de Meedogende. Ere zij God, de Heer aller werelden
 (Bahaiprayers.net ID: 9752)
 
 
-
+«[Nederlands](../nl/#bpn9752)» 
 
 
 
@@ -3428,7 +3674,9 @@ Geprezen zij onze Heer, de Allerhoogste!
 (Bahaiprayers.net ID: 9753)
 
 
+«[Nederlands](../nl/#AB00204MAR)» 
 
+«[English](../en/#AB00204MAR)» 
 
 
 
@@ -3452,7 +3700,7 @@ Zegent Gij, o Heer mijn God, de goddelijke Lotusboom en zijn bladeren, zijn takk
 (Bahaiprayers.net ID: 9754)
 
 
-
+«[Nederlands](../nl/#bpn9754)» 
 
 
 
@@ -3474,7 +3722,7 @@ Gij zijt de Schenker, de Medelijdende, de Almilddadige, de Genadige, de Barmhart
 (Bahaiprayers.net ID: 9755)
 
 
-
+«[Nederlands](../nl/#bpn9755)» 
 
 
 
@@ -3494,7 +3742,9 @@ Help hen, o mijn God, U te doen zegevieren en Uw Woord te verheffen. Laat hen da
 (Bahaiprayers.net ID: 9744)
 
 
+«[Nederlands](../nl/#BH00154FIR)» 
 
+«[English](../en/#BH00154FIR)» 
 
 
 
@@ -3506,7 +3756,7 @@ In Naam van Hem die is beloofd in de Boeken van God, de Alwetende, de Welingelic
 (Bahaiprayers.net ID: 9745)
 
 
-
+«[Nederlands](../nl/#bpn9745)» 
 
 
 
@@ -3531,7 +3781,15 @@ Ik smeek U, o mijn Heer, bij Uzelf, en bij Uw tekenen en Uw duidelijke bewijzen,
 (Bahaiprayers.net ID: 9746)
 
 
+«[Français](../fr/#BH01125)» 
 
+«[Italiano](../it/#BH01125)» 
+
+«[Nederlands](../nl/#BH01125)» 
+
+«[Español](../es/#BH01125)» 
+
+«[English](../en/#BH01125)» 
 
 
 
@@ -3551,7 +3809,9 @@ Laat Uw Zaak zegevieren, o mijn Heer, en vernedert Gij Uw vijanden. Bestem dan v
 (Bahaiprayers.net ID: 9747)
 
 
+«[Nederlands](../nl/#BH01888)» 
 
+«[English](../en/#BH01888)» 
 
 
 
@@ -3577,7 +3837,11 @@ Geprezen zijt Gij, daar Gij ons hebt geholpen Hem te erkennen en lief te hebben.
 (Bahaiprayers.net ID: 9748)
 
 
+«[Nederlands](../nl/#BH00778)» 
 
+«[Español](../es/#BH00778)» 
+
+«[English](../en/#BH00778)» 
 
 
 
@@ -3589,7 +3853,11 @@ Lof zij U, o Heer mijn God! Wij hebben ons aan de Vasten gehouden overeenkomstig
 (Bahaiprayers.net ID: 9749)
 
 
+«[Nederlands](../nl/#BH10581)» 
 
+«[Português (BR)](../pt/#BH10581)» 
+
+«[English](../en/#BH10581)» 
 
 
 
@@ -3601,7 +3869,9 @@ Geprezen zijt Gij, o God mijn God! Dit zijn de dagen waarop Gij Uw uitverkorenen
 (Bahaiprayers.net ID: 9750)
 
 
+«[Nederlands](../nl/#BH01503ENJ)» 
 
+«[English](../en/#BH01503ENJ)» 
 
 
 
@@ -3617,7 +3887,7 @@ Gij ziet, o Heer, onze handen smekend geheven naar de hemel van Uw gunst en mild
 (Bahaiprayers.net ID: 9751)
 
 
-
+«[Nederlands](../nl/#bpn9751)» 
 
 
 
@@ -3634,7 +3904,11 @@ Ik ben Uw dienaar, o mijn God, en de zoon van Uw dienaar. Ik erken Uw waarheid i
 (Bahaiprayers.net ID: 9720)
 
 
+«[Nederlands](../nl/#BH08600FAC)» 
 
+«[Español](../es/#BH08600FAC)» 
+
+«[English](../en/#BH08600FAC)» 
 
 
 
@@ -3646,7 +3920,9 @@ Gij ziet mij, o mijn Heer, met mijn gelaat gekeerd naar de hemel van Uw milddadi
 (Bahaiprayers.net ID: 9721)
 
 
+«[Nederlands](../nl/#BH00005SEE)» 
 
+«[English](../en/#BH00005SEE)» 
 
 
 
@@ -3660,7 +3936,7 @@ Vergeef dan Uw dienaren en Uw dienaressen, o mijn Heer. Gij zijt waarlijk de Imm
 (Bahaiprayers.net ID: 9722)
 
 
-
+«[Nederlands](../nl/#bpn9722)» 
 
 
 
@@ -3675,7 +3951,9 @@ Gij zijt de soevereine Heerser, die machtige daden stelt, de Verhevene, de Liefd
 (Bahaiprayers.net ID: 9723)
 
 
+«[Nederlands](../nl/#BH00593)» 
 
+«[English](../en/#BH00593)» 
 
 
 
@@ -3687,7 +3965,7 @@ Ere zij U, o Heer. Vergeef ons onze zonden, heb erbarmen met ons en laat ons tot
 (Bahaiprayers.net ID: 9724)
 
 
-
+«[Nederlands](../nl/#bpn9724)» 
 
 
 
@@ -3699,7 +3977,9 @@ Ik smeek U, o mijn Heer, mij te vergeven voor ieder noemen buiten het noemen van
 (Bahaiprayers.net ID: 9725)
 
 
+«[Nederlands](../nl/#BB00617)» 
 
+«[English](../en/#BB00617)» 
 
 
 
@@ -3712,7 +3992,7 @@ Verheerlijkt zijt Gij, o Heer! Immer vergeeft Gij de zonden van diegenen Uwer di
 (Bahaiprayers.net ID: 9726)
 
 
-
+«[Nederlands](../nl/#bpn9726)» 
 
 
 
@@ -3725,7 +4005,9 @@ O Heer! Als Gij mij niet vergeeft, wie is er dan om vergeving te schenken, en al
 (Bahaiprayers.net ID: 9727)
 
 
+«[Nederlands](../nl/#BB00485TRE)» 
 
+«[English](../en/#BB00485TRE)» 
 
 
 
@@ -3737,7 +4019,7 @@ O Gij vergevingsgezinde Heer! Gij zijt een schuilplaats voor al deze dienaren va
 (Bahaiprayers.net ID: 9728)
 
 
-
+«[Nederlands](../nl/#bpn9728)» 
 
 
 
@@ -3757,7 +4039,7 @@ Gij zijt waarlijk de Machtige, de Meedogende, de Grootmoedige, de Genadige.
 (Bahaiprayers.net ID: 9694)
 
 
-
+«[Nederlands](../nl/#bpn9694)» 
 
 
 
@@ -3770,7 +4052,7 @@ Schenk Uw hemelse dienares, o God, de heilige geuren die voortkomen uit de geest
 (Bahaiprayers.net ID: 9695)
 
 
-
+«[Nederlands](../nl/#bpn9695)» 
 
 
 
@@ -3784,7 +4066,7 @@ O Heer! Wij zijn zondaars, doch Gij zijt de Vergevende. Wij zijn verzonken in de
 (Bahaiprayers.net ID: 9696)
 
 
-
+«[Nederlands](../nl/#bpn9696)» 
 
 
 
@@ -3803,7 +4085,11 @@ Geen God is er buiten U, de Machtige, de Immerblijvende, de Almilddadige, de Ede
 (Bahaiprayers.net ID: 9729)
 
 
+«[Nederlands](../nl/#BH09162)» 
 
+«[Español](../es/#BH09162)» 
+
+«[English](../en/#BH09162)» 
 
 
 
@@ -3817,7 +4103,7 @@ Geen God is er dan Gij, de Almachtige, de Verhevenste, de Alglorierijke, de Bij-
 (Bahaiprayers.net ID: 9730)
 
 
-
+«[Nederlands](../nl/#bpn9730)» 
 
 
 
@@ -3832,7 +4118,9 @@ Gij zijt in waarheid de God van kracht, van sterkte en van glorie.
 (Bahaiprayers.net ID: 9731)
 
 
+«[Nederlands](../nl/#BH07426DRE)» 
 
+«[English](../en/#BH07426DRE)» 
 
 
 
@@ -3847,7 +4135,9 @@ Er is geen God dan Gij, de God van kracht, de God van glorie, de God van kennis 
 (Bahaiprayers.net ID: 9732)
 
 
+«[Nederlands](../nl/#BH08852)» 
 
+«[English](../en/#BH08852)» 
 
 
 
@@ -3861,7 +4151,7 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almachtige,
 (Bahaiprayers.net ID: 9733)
 
 
-
+«[Nederlands](../nl/#bpn9733)» 
 
 
 
@@ -3927,7 +4217,9 @@ Zouden alle dienaren dit lezen en overdenken, dan zal in hun aderen een vuur ont
 (Bahaiprayers.net ID: 9756)
 
 
+«[Nederlands](../nl/#BH00687)» 
 
+«[English](../en/#BH00687)» 
 
 
 
@@ -3944,7 +4236,7 @@ Geloofd zijt Gij, o mijn Meestgeliefde, doe de zoete smaak van Uw alovertreffend
 (Bahaiprayers.net ID: 9622)
 
 
-
+«[Nederlands](../nl/#bpn9622)» 
 
 
 
@@ -3956,7 +4248,7 @@ O Gij weergaloos Heer! Laat deze zuigeling drinken aan de borst van Uw goedertie
 (Bahaiprayers.net ID: 9623)
 
 
-
+«[Nederlands](../nl/#bpn9623)» 
 
 
 
@@ -3968,7 +4260,7 @@ O God! Breng dit kindje groot aan de boezem van Uw liefde en laaf het aan de bor
 (Bahaiprayers.net ID: 9624)
 
 
-
+«[Nederlands](../nl/#bpn9624)» 
 
 
 
@@ -3986,7 +4278,7 @@ Ik smeek U, o Heer aller namen en Schepper der hemelen, mij door Uw sterkende ge
 (Bahaiprayers.net ID: 9740)
 
 
-
+«[Nederlands](../nl/#bpn9740)» 
 
 
 

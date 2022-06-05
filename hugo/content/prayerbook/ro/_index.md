@@ -121,7 +121,7 @@ O, Tu Cel Care Te îngrijeşti de noi! Coboară asupra noastră ajutorul Tău, c
 (Bahaiprayers.net ID: 2105)
 
 
-
+«[România](../ro/#bpn2105)» 
 
 
 
@@ -140,7 +140,7 @@ Cu adevărat, Tu eşti Cel Generos, Cel Milostiv. Tu eşti Stăpânul marii dăr
 (Bahaiprayers.net ID: 2106)
 
 
-
+«[România](../ro/#bpn2106)» 
 
 
 
@@ -154,7 +154,7 @@ O, Doamne, Dumnezeul meu! Noi suntem slujitorii Tăi, care ne-am îndreptat cu d
 (Bahaiprayers.net ID: 2104)
 
 
-
+«[România](../ro/#bpn2104)» 
 
 
 
@@ -171,7 +171,7 @@ Invocându-ţi Numele cel mai slăvit, Te rog să mă ajuţi în ceea ce va face
 (Bahaiprayers.net ID: 2107)
 
 
-
+«[România](../ro/#bpn2107)» 
 
 
 
@@ -191,7 +191,7 @@ Tu eşti, cu adevărat, Domnul întregii creaţii. Nu există alt Dumnezeu în a
 (Bahaiprayers.net ID: 2108)
 
 
-
+«[România](../ro/#bpn2108)» 
 
 
 
@@ -205,7 +205,7 @@ O, Divină Providenţă! Întreaga existenţă a fost zămislită prin dărnicia
 (Bahaiprayers.net ID: 2109)
 
 
-
+«[România](../ro/#bpn2109)» 
 
 
 
@@ -219,7 +219,7 @@ Te implor, îngăduie acestui slujitor să atingă ceea ce va duce la izbăvirea
 (Bahaiprayers.net ID: 2110)
 
 
-
+«[România](../ro/#bpn2110)» 
 
 
 
@@ -238,7 +238,7 @@ Ai milă apoi, o, Dumnezeul meu, de slujitorii Tăi care s-au cufundat în ocean
 (Bahaiprayers.net ID: 2111)
 
 
-
+«[România](../ro/#bpn2111)» 
 
 
 
@@ -254,7 +254,7 @@ Eu sunt doar neputinţă, o, Domnul meu, şi Tu eşti Cel Preaputernic, Cel Tare
 (Bahaiprayers.net ID: 2112)
 
 
-
+«[România](../ro/#bpn2112)» 
 
 
 
@@ -268,7 +268,7 @@ Ajută-mă, atunci, să mă îndrept cu totul spre Tine, să-mi pun întreaga î
 (Bahaiprayers.net ID: 2113)
 
 
-
+«[România](../ro/#bpn2113)» 
 
 
 
@@ -282,7 +282,7 @@ Eu sunt despuiat, o, Dumnezeul meu! Înveşmântează-mă cu mantia blândelor T
 (Bahaiprayers.net ID: 2114)
 
 
-
+«[România](../ro/#bpn2114)» 
 
 
 
@@ -294,7 +294,7 @@ Slava fie cu Tine, Cel care ai făcut ca toţi sfinţii să-şi mărturisească 
 (Bahaiprayers.net ID: 2115)
 
 
-
+«[România](../ro/#bpn2115)» 
 
 
 
@@ -312,7 +312,7 @@ Spune: Dumnezeu este cu adevărat Ziditorul tuturor lucrurilor. El dă întărir
 (Bahaiprayers.net ID: 2116)
 
 
-
+«[România](../ro/#bpn2116)» 
 
 
 
@@ -324,7 +324,7 @@ Cine altul dacă nu Dumnezeu risipeşte toate greutăţile? Spune: Lăudat fie D
 (Bahaiprayers.net ID: 2119)
 
 
-
+«[România](../ro/#bpn2119)» 
 
 
 
@@ -338,7 +338,7 @@ Cu adevărat, El este în sinea Lui, Atotştiutorul, Cel ce poartă grija, Cel A
 (Bahaiprayers.net ID: 2120)
 
 
-
+«[România](../ro/#bpn2120)» 
 
 
 
@@ -352,7 +352,7 @@ O, Tu Cel care Dăruieşti, o, Tu Cel care Ierţi! Îngăduie-ne harul şi bună
 (Bahaiprayers.net ID: 2117)
 
 
-
+«[România](../ro/#bpn2117)» 
 
 
 
@@ -368,7 +368,7 @@ Tu eşti, cu adevărat, Unicul, Singurul, Cel Tare, Cel Atotştiutor, Cel Atotî
 (Bahaiprayers.net ID: 2118)
 
 
-
+«[România](../ro/#bpn2118)» 
 
 
 
@@ -386,7 +386,7 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Preaputernic.
 (Bahaiprayers.net ID: 2123)
 
 
-
+«[România](../ro/#bpn2123)» 
 
 
 
@@ -402,7 +402,7 @@ Noi suntem cu toţii sărmani şi nevoiaşi, pe când Tu eşti, cu adevărat, At
 (Bahaiprayers.net ID: 2124)
 
 
-
+«[România](../ro/#bpn2124)» 
 
 
 
@@ -424,7 +424,7 @@ Tu eşti, cu adevărat, Cel Atotslăvit, Cel Preamărinimos.
 (Bahaiprayers.net ID: 2125)
 
 
-
+«[România](../ro/#bpn2125)» 
 
 
 
@@ -441,7 +441,7 @@ Te implor, întru Numele Tău Cel Mai Mare şi întru străvechea Ta suveranitat
 (Bahaiprayers.net ID: 2129)
 
 
-
+«[România](../ro/#bpn2129)» 
 
 
 
@@ -459,7 +459,7 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Atotşt
 (Bahaiprayers.net ID: 2130)
 
 
-
+«[România](../ro/#bpn2130)» 
 
 
 
@@ -471,7 +471,7 @@ O, Doamne, Dumnezeul meu! Nu Te îndepărta de mine, căci nenorocirile, una dup
 (Bahaiprayers.net ID: 2131)
 
 
-
+«[România](../ro/#bpn2131)» 
 
 
 
@@ -485,7 +485,7 @@ Ei înşişi, o, Domnul meu, au aşteptat la uşa bunăvoinţei Tale. Deschide-o
 (Bahaiprayers.net ID: 2132)
 
 
-
+«[România](../ro/#bpn2132)» 
 
 
 
@@ -501,7 +501,7 @@ Tu eşti, cu adevărat, Cel Atotputernic, Cel Preaînălţat, Cel Atotslăvit, C
 (Bahaiprayers.net ID: 2133)
 
 
-
+«[România](../ro/#bpn2133)» 
 
 
 
@@ -516,7 +516,7 @@ Ocroteşte-l te rog, o, Preaiubitul meu, Dorinţa inimii mele, pe slujitorul Tă
 (Bahaiprayers.net ID: 2134)
 
 
-
+«[România](../ro/#bpn2134)» 
 
 
 
@@ -530,7 +530,7 @@ Acordă-ne iertarea Ta, mie precum şi celor credincioşi care au răspuns chem�
 (Bahaiprayers.net ID: 2121)
 
 
-
+«[România](../ro/#bpn2121)» 
 
 
 
@@ -561,7 +561,7 @@ Nemăsurat de solemn eşti Tu, o, Doamne! Ocroteşte-ne de ceea ce ne stă înai
 (Bahaiprayers.net ID: 2122)
 
 
-
+«[România](../ro/#bpn2122)» 
 
 
 
@@ -579,7 +579,7 @@ Nu există nici putere nici tărie decât numai în Dumnezeu, Cel Preaînălţat
 (Bahaiprayers.net ID: 2126)
 
 
-
+«[România](../ro/#bpn2126)» 
 
 
 
@@ -591,7 +591,7 @@ O, Doamne, Dumnezeul meu! Apără-i pe slujitorii Tăi credincioşi de relele eg
 (Bahaiprayers.net ID: 2127)
 
 
-
+«[România](../ro/#bpn2127)» 
 
 
 
@@ -605,7 +605,7 @@ O, Tu, Spirit al Purităţii, Cel Atotmărinimos, Cel care Te îngrijeşti de to
 (Bahaiprayers.net ID: 2128)
 
 
-
+«[România](../ro/#bpn2128)» 
 
 
 
@@ -627,7 +627,7 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Preasl�
 (Bahaiprayers.net ID: 2137)
 
 
-
+«[România](../ro/#bpn2137)» 
 
 
 
@@ -639,7 +639,7 @@ Crează în mine o inimă curată, o, Doamne, Dumnezeul meu, şi reînnoieşte �
 (Bahaiprayers.net ID: 2138)
 
 
-
+«[România](../ro/#bpn2138)» 
 
 
 
@@ -658,7 +658,7 @@ Doamne! Nu mă îndepărta de oceanul bogăţiei Tale şi de raiul milostivirii 
 (Bahaiprayers.net ID: 2139)
 
 
-
+«[România](../ro/#bpn2139)» 
 
 
 
@@ -674,7 +674,7 @@ Tu eşti, cu adevărat, prin puterea suveranităţii Tale, Ajutorul în Primejdi
 (Bahaiprayers.net ID: 2140)
 
 
-
+«[România](../ro/#bpn2140)» 
 
 
 
@@ -688,7 +688,7 @@ O, Dumnezeul meu, Dumnezeul mărinimiei şi al milostivirii! Tu eşti acel Rege 
 (Bahaiprayers.net ID: 2141)
 
 
-
+«[România](../ro/#bpn2141)» 
 
 
 
@@ -708,7 +708,7 @@ Tu eşti cu adevărat Cel Tare, Cel Îngăduitor, Cel Plin de Compasiune.
 (Bahaiprayers.net ID: 2142)
 
 
-
+«[România](../ro/#bpn2142)» 
 
 
 
@@ -726,7 +726,7 @@ Tu eşti Marele Dăruitor, Cel ce veşnic Iartă, Cel Plin de Compasiune.
 (Bahaiprayers.net ID: 2151)
 
 
-
+«[România](../ro/#bpn2151)» 
 
 
 
@@ -752,7 +752,7 @@ Tu eşti, cu adevărat, Cel Tare, Cel Preaînălţat, Cel Atotştiutor, Cel Atot
 (Bahaiprayers.net ID: 2152)
 
 
-
+«[România](../ro/#bpn2152)» 
 
 
 
@@ -772,7 +772,7 @@ Cu adevărat în Tine găsim mângâiere şi tărie.
 (Bahaiprayers.net ID: 2153)
 
 
-
+«[România](../ro/#bpn2153)» 
 
 
 
@@ -790,7 +790,7 @@ Toată lauda fie cu Tine, o, Tu pe lângă Care nu se află nici un alt Dumnezeu
 (Bahaiprayers.net ID: 2143)
 
 
-
+«[România](../ro/#bpn2143)» 
 
 
 
@@ -807,7 +807,7 @@ Adevărat, nu există nici putere şi nici tărie decât în Tine.
 (Bahaiprayers.net ID: 2150)
 
 
-
+«[România](../ro/#bpn2150)» 
 
 
 
@@ -821,7 +821,7 @@ O, Doamne! Tu eşti pentru mine un prieten mai bun decât sunt eu însumi pentru
 (Bahaiprayers.net ID: 2135)
 
 
-
+«[România](../ro/#bpn2135)» 
 
 
 
@@ -836,7 +836,7 @@ Cel ce ajută, Cel Puternic, Cel Generos, Cel care iubeşte.
 (Bahaiprayers.net ID: 2136)
 
 
-
+«[România](../ro/#bpn2136)» 
 
 
 
@@ -854,7 +854,7 @@ Cu adevărat, Tu eşti milostiv şi cu adevărat, Tu eşti Cel Preageneros al C�
 (Bahaiprayers.net ID: 2144)
 
 
-
+«[România](../ro/#bpn2144)» 
 
 
 
@@ -869,7 +869,7 @@ Cu adevărat, Tu eşti Cel Preageneros, Stăpânul Harului îmbelşugat. Nu exis
 (Bahaiprayers.net ID: 2145)
 
 
-
+«[România](../ro/#bpn2145)» 
 
 
 
@@ -887,7 +887,7 @@ Cu adevărat, Tu eşti Cel Tare, Cel Puternic, Protectorul, Cel Trainic, Cel Bin
 (Bahaiprayers.net ID: 2146)
 
 
-
+«[România](../ro/#bpn2146)» 
 
 
 
@@ -903,7 +903,7 @@ Tu eşti, cu adevărat, Cel Tare, Cel Preaslăvit, Cel Puternic, Cel ce singur s
 (Bahaiprayers.net ID: 2147)
 
 
-
+«[România](../ro/#bpn2147)» 
 
 
 
@@ -920,7 +920,7 @@ O, Doamne Dumnezeul meu! Umili sunt aceşti slujitori ai Tăi, ridică-i în îm
 (Bahaiprayers.net ID: 2148)
 
 
-
+«[România](../ro/#bpn2148)» 
 
 
 
@@ -938,7 +938,7 @@ Tu eşti cu adevărat Cel Tare, Cel Atotştiutor, Cel Preaputernic şi Cel Atotv
 (Bahaiprayers.net ID: 2149)
 
 
-
+«[România](../ro/#bpn2149)» 
 
 
 
@@ -951,7 +951,7 @@ O, Dumnezeule, suntem neştiutori: instruieşte-ne! O, Doamne, suntem săraci: f
 (Bahaiprayers.net ID: 2154)
 
 
-
+«[România](../ro/#bpn2154)» 
 
 
 
@@ -992,7 +992,7 @@ Neînţelegerile şi vrăjmăşia sunt cu desăvârşire interzise de Cartea Sa.
 (Bahaiprayers.net ID: 2305)
 
 
-
+«[România](../ro/#bpn2305)» 
 
 
 
@@ -1011,7 +1011,7 @@ Lăudat eşti Tu, o, Preaiubitul meu, adie peste el dulcile arome ale mărinimie
 (Bahaiprayers.net ID: 2168)
 
 
-
+«[România](../ro/#bpn2168)» 
 
 
 
@@ -1023,7 +1023,7 @@ O, Doamne, Dumnezeule! Creşte acest prunc la pieptul iubirii Tale şi dă-i lap
 (Bahaiprayers.net ID: 2162)
 
 
-
+«[România](../ro/#bpn2162)» 
 
 
 
@@ -1035,7 +1035,7 @@ O, Doamne, Dumnezeule! Educă-i pe aceşti copii. Aceşti copii sunt plantele li
 (Bahaiprayers.net ID: 2163)
 
 
-
+«[România](../ro/#bpn2163)» 
 
 
 
@@ -1047,7 +1047,7 @@ O, Doamne, Dumnezeule! Călăuzeşte-mă, ocroteşte-mă, luminează lampa inimi
 (Bahaiprayers.net ID: 2164)
 
 
-
+«[România](../ro/#bpn2164)» 
 
 
 
@@ -1059,7 +1059,7 @@ O, Doamne! Acordă acestui tânăr strălucire şi dăruieşte mărinimia Ta ace
 (Bahaiprayers.net ID: 2165)
 
 
-
+«[România](../ro/#bpn2165)» 
 
 
 
@@ -1071,7 +1071,7 @@ O, Doamne neasemuit! Fii adăpost pentru acest biet copil şi un Stăpân bun ş
 (Bahaiprayers.net ID: 2166)
 
 
-
+«[România](../ro/#bpn2166)» 
 
 
 
@@ -1085,7 +1085,7 @@ Tu eşti Cel Tare şi Cel Puternic.
 (Bahaiprayers.net ID: 2167)
 
 
-
+«[România](../ro/#bpn2167)» 
 
 
 
@@ -1099,7 +1099,7 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Ce Vede, Cel Ce Aude.
 (Bahaiprayers.net ID: 2169)
 
 
-
+«[România](../ro/#bpn2169)» 
 
 
 
@@ -1112,7 +1112,7 @@ O, Tu Stăpâne preaslăvit! Fă ca această mică slujitoare a Ta să fie binec
 (Bahaiprayers.net ID: 2170)
 
 
-
+«[România](../ro/#bpn2170)» 
 
 
 
@@ -1125,7 +1125,7 @@ O, Tu Stăpâne neasemuit! Îngăduie acestui prunc sugar să fie alăptat la s�
 (Bahaiprayers.net ID: 2171)
 
 
-
+«[România](../ro/#bpn2171)» 
 
 
 
@@ -1140,7 +1140,7 @@ Tu eşti Cel Darnic, Cel Atoateiubitor.
 (Bahaiprayers.net ID: 2172)
 
 
-
+«[România](../ro/#bpn2172)» 
 
 
 
@@ -1157,7 +1157,7 @@ Tu eşti Cel Tare şi Cel Puternic, Tu eşti Cel ce Dăruieşte şi Cel Atoateiu
 (Bahaiprayers.net ID: 2173)
 
 
-
+«[România](../ro/#bpn2173)» 
 
 
 
@@ -1172,7 +1172,7 @@ Cu adevărat, Tu eşti Cel Atotslăvit.
 (Bahaiprayers.net ID: 2174)
 
 
-
+«[România](../ro/#bpn2174)» 
 
 
 
@@ -1189,7 +1189,7 @@ Yá Bahá’u’l-Abhá7!
 (Bahaiprayers.net ID: 2175)
 
 
-
+«[România](../ro/#bpn2175)» 
 
 
 
@@ -1206,7 +1206,7 @@ Tu eşti, cu adevărat, Cel Generos, Cel Blând, Cel Îndurător.
 (Bahaiprayers.net ID: 2176)
 
 
-
+«[România](../ro/#bpn2176)» 
 
 
 
@@ -1221,7 +1221,7 @@ O, Tu Dumnezeule ce-ţi eşti ţie Însuţi îndeajuns! Fă din mine un slujitor
 (Bahaiprayers.net ID: 2177)
 
 
-
+«[România](../ro/#bpn2177)» 
 
 
 
@@ -1238,7 +1238,7 @@ Tu eşti Cel Puternic, Cel Atoateiubitor.
 (Bahaiprayers.net ID: 2178)
 
 
-
+«[România](../ro/#bpn2178)» 
 
 
 
@@ -1254,7 +1254,7 @@ Cu adevărat Tu eşti Cel Darnic, Cel Milostiv, Cel Îndurător.
 (Bahaiprayers.net ID: 2179)
 
 
-
+«[România](../ro/#bpn2179)» 
 
 
 
@@ -1270,7 +1270,7 @@ Tu eşti Cel Darnic, Cel Ce Dăruieşte, Cel Atoateiubitor.
 (Bahaiprayers.net ID: 2180)
 
 
-
+«[România](../ro/#bpn2180)» 
 
 
 
@@ -1282,7 +1282,7 @@ El este Dumnezeu! O, Doamne Dumnezeul meu! Dăruieşte-mi o inimă curată, asem
 (Bahaiprayers.net ID: 2181)
 
 
-
+«[România](../ro/#bpn2181)» 
 
 
 
@@ -1296,7 +1296,7 @@ Tu eşti Tare şi Puternic, şi Tu eşti Cel Atoateiubitor, Cel Atotştiutor, Ce
 (Bahaiprayers.net ID: 2182)
 
 
-
+«[România](../ro/#bpn2182)» 
 
 
 
@@ -1308,7 +1308,7 @@ El este Dumnezeu! O, Tu Dumnezeule Îndurător! O, Stăpâne al Oştirilor! Laud
 (Bahaiprayers.net ID: 2183)
 
 
-
+«[România](../ro/#bpn2183)» 
 
 
 
@@ -1325,7 +1325,7 @@ Am plecat de acasă, ţinându-mă strâns de funia iubirii Tale, şi m-am încr
 (Bahaiprayers.net ID: 2155)
 
 
-
+«[România](../ro/#bpn2155)» 
 
 
 
@@ -1339,7 +1339,7 @@ Nu există alt Dumnezeu în afară de Tine, Cel Unic, Cel Incomparabil, Cel Atot
 (Bahaiprayers.net ID: 2156)
 
 
-
+«[România](../ro/#bpn2156)» 
 
 
 
@@ -1358,7 +1358,7 @@ Lăudat fie Dumnezeu, Cel Străvechi, Cel Veşnic Statornic, Cel Neschimbător, 
 (Bahaiprayers.net ID: 2158)
 
 
-
+«[România](../ro/#bpn2158)» 
 
 
 
@@ -1374,7 +1374,7 @@ Lăudat fie Dumnezeu, Cel Străvechi, Cel Veşnic Statornic, Cel Neschimbător, 
 (Bahaiprayers.net ID: 2157)
 
 
-
+«[România](../ro/#bpn2157)» 
 
 
 
@@ -1393,7 +1393,7 @@ Cu adevărat, Tu eşti Cel Generos. Cu adevărat, Tu eşti Cel Atotputernic. Cu 
 (Bahaiprayers.net ID: 2161)
 
 
-
+«[România](../ro/#bpn2161)» 
 
 
 
@@ -1408,7 +1408,7 @@ O, Bunule Dumnezeu! Fie ca din această căsătorie să se reverse corali şi pe
 (Bahaiprayers.net ID: 2160)
 
 
-
+«[România](../ro/#bpn2160)» 
 
 
 
@@ -1420,7 +1420,7 @@ Slavă ţie, Dumnezeul meu! Cu adevărat, acest slujitor al Tău şi această sl
 (Bahaiprayers.net ID: 2159)
 
 
-
+«[România](../ro/#bpn2159)» 
 
 
 
@@ -1436,7 +1436,7 @@ O, Doamne Dumnezeul meu, Tu mă vezi detaşat de toate lucrurile în afară de T
 (Bahaiprayers.net ID: 2184)
 
 
-
+«[România](../ro/#bpn2184)» 
 
 
 
@@ -1456,7 +1456,7 @@ Preamărit fie Numele Tău, al Tău care eşti Regele regilor!
 (Bahaiprayers.net ID: 2185)
 
 
-
+«[România](../ro/#bpn2185)» 
 
 
 
@@ -1472,7 +1472,7 @@ Tu eşti, cu adevărat, Domnul întregii omeniri, şi Posesorul acestei lumi şi
 (Bahaiprayers.net ID: 2186)
 
 
-
+«[România](../ro/#bpn2186)» 
 
 
 
@@ -1490,7 +1490,7 @@ Cu adevărat, tăria Ta, este la fel de mare înaintea tuturor lucrurilor.
 (Bahaiprayers.net ID: 2187)
 
 
-
+«[România](../ro/#bpn2187)» 
 
 
 
@@ -1508,7 +1508,7 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Atotput
 (Bahaiprayers.net ID: 2188)
 
 
-
+«[România](../ro/#bpn2188)» 
 
 
 
@@ -1529,7 +1529,7 @@ Nu se află alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Binefăcător.
 (Bahaiprayers.net ID: 2189)
 
 
-
+«[România](../ro/#bpn2189)» 
 
 
 
@@ -1544,7 +1544,7 @@ Mai mult, te implor, să-mi hărăzeşti ceea ce mă face îndeajuns de bogat pe
 (Bahaiprayers.net ID: 2195)
 
 
-
+«[România](../ro/#bpn2195)» 
 
 
 
@@ -1562,7 +1562,7 @@ Conferă binecuvântările Tale, o, Domnul meu, asupra Mesagerilor, asupra celor
 (Bahaiprayers.net ID: 2190)
 
 
-
+«[România](../ro/#bpn2190)» 
 
 
 
@@ -1578,7 +1578,7 @@ A Ta este autoritatea absolută de a porunci.
 (Bahaiprayers.net ID: 2191)
 
 
-
+«[România](../ro/#bpn2191)» 
 
 
 
@@ -1591,7 +1591,7 @@ Stăpânul meu! M-am detaşat de neamul meu şi-am căutat prin Tine să devin i
 (Bahaiprayers.net ID: 2192)
 
 
-
+«[România](../ro/#bpn2192)» 
 
 
 
@@ -1609,7 +1609,7 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Atotputernic.
 (Bahaiprayers.net ID: 2193)
 
 
-
+«[România](../ro/#bpn2193)» 
 
 
 
@@ -1625,7 +1625,7 @@ Tu eşti, cu adevărat, Cel Puternic, Cel Veşnic Dăruitor, Cel Omnipotent.
 (Bahaiprayers.net ID: 2194)
 
 
-
+«[România](../ro/#bpn2194)» 
 
 
 
@@ -1644,7 +1644,7 @@ Tu eşti Protectorul, Păzitorul, Cel Îndurător şi Cel Milostiv.
 (Bahaiprayers.net ID: 2196)
 
 
-
+«[România](../ro/#bpn2196)» 
 
 
 
@@ -1666,7 +1666,7 @@ Tu eşti, cu adevărat, Domnul şi Regele tuturor oamenilor, iar puterea Ta se �
 (Bahaiprayers.net ID: 2197)
 
 
-
+«[România](../ro/#bpn2197)» 
 
 
 
@@ -1679,7 +1679,7 @@ la adăpostul Tău, şi se cuvine celui ce caută acest adăpost să rămână �
 (Bahaiprayers.net ID: 2198)
 
 
-
+«[România](../ro/#bpn2198)» 
 
 
 
@@ -1699,7 +1699,7 @@ Tu nu-l dezamăgeşti pe cel ce Te-a căutat, nici nu-l îndepărtezi de Tine pe
 (Bahaiprayers.net ID: 2199)
 
 
-
+«[România](../ro/#bpn2199)» 
 
 
 
@@ -1719,7 +1719,7 @@ Binecuvântează-mă, o, Dumnezeul meu, pe mine şi pe cei ce vor crede în semn
 (Bahaiprayers.net ID: 2201)
 
 
-
+«[România](../ro/#bpn2201)» 
 
 
 
@@ -1735,7 +1735,7 @@ Binecuvântează-mă, o, Dumnezeul meu, pe mine şi pe cei ce vor crede în semn
 (Bahaiprayers.net ID: 2202)
 
 
-
+«[România](../ro/#bpn2202)» 
 
 
 
@@ -1756,7 +1756,7 @@ Aceasta e locuinţa iubirii:cei ce vin înăuntru trebuie să înveţe lecţia i
 (Bahaiprayers.net ID: 2200)
 
 
-
+«[România](../ro/#bpn2200)» 
 
 
 
@@ -1772,7 +1772,7 @@ De-ar fi să înţelegi dulceaţa titlului „O, slujitoarea Mea”, te-ai găsi
 (Bahaiprayers.net ID: 2203)
 
 
-
+«[România](../ro/#bpn2203)» 
 
 
 
@@ -1788,7 +1788,7 @@ Tu eşti, o Doamne, Cel care s-a proclamat Domnul Bogăţiei şi a caracterizat 
 (Bahaiprayers.net ID: 2204)
 
 
-
+«[România](../ro/#bpn2204)» 
 
 
 
@@ -1804,7 +1804,7 @@ Tu ai puterea de a face tot ceea ce Îţi place. Nu există alt Dumnezeu afară 
 (Bahaiprayers.net ID: 2205)
 
 
-
+«[România](../ro/#bpn2205)» 
 
 
 
@@ -1821,7 +1821,7 @@ Tu eşti, cu adevărat, Cel ce veşnic Iartă, Cel Preamilostiv.
 (Bahaiprayers.net ID: 2206)
 
 
-
+«[România](../ro/#bpn2206)» 
 
 
 
@@ -1839,7 +1839,7 @@ Nu există alt Dumnezeu afară de Tine, Cel Tare, Cel Statornic în veci, Cel At
 (Bahaiprayers.net ID: 2207)
 
 
-
+«[România](../ro/#bpn2207)» 
 
 
 
@@ -1858,7 +1858,7 @@ Tu ai puterea de face ceea ce doreşti şi Tu porunceşti ceea ce Îţi place.
 (Bahaiprayers.net ID: 2208)
 
 
-
+«[România](../ro/#bpn2208)» 
 
 
 
@@ -1876,7 +1876,7 @@ Tu eşti, cu adevărat, Dumnezeul puterii, al tăriei şi al gloriei.
 (Bahaiprayers.net ID: 2209)
 
 
-
+«[România](../ro/#bpn2209)» 
 
 
 
@@ -1889,7 +1889,7 @@ mea! Susţine-mă în singurătatea mea şi însoţeşte-mă în exilul meu. Sca
 (Bahaiprayers.net ID: 2210)
 
 
-
+«[România](../ro/#bpn2210)» 
 
 
 
@@ -1910,7 +1910,7 @@ Tu eşti, cu adevărat, Cel Ce Sprijină, Cel Ce ajută, Cel Generos, Cel Plin d
 (Bahaiprayers.net ID: 2211)
 
 
-
+«[România](../ro/#bpn2211)» 
 
 
 
@@ -1927,7 +1927,7 @@ Dacă nimeni nu va fi găsit să se abată de la calea Ta, cum va putea fi arbor
 (Bahaiprayers.net ID: 2212)
 
 
-
+«[România](../ro/#bpn2212)» 
 
 
 
@@ -1952,7 +1952,7 @@ Cu adevărat Tu eşti Cel Puternic şi Darnic. Nu există alt Dumnezeu în afar�
 (Bahaiprayers.net ID: 2213)
 
 
-
+«[România](../ro/#bpn2213)» 
 
 
 
@@ -1967,7 +1967,7 @@ Eu sunt, o, Dumnezeul meu, slujitorul Tău şi fiul slujitorului Tău. Am recuno
 (Bahaiprayers.net ID: 2214)
 
 
-
+«[România](../ro/#bpn2214)» 
 
 
 
@@ -1979,7 +1979,7 @@ Tu mă vezi, o, Domnul meu, cu faţa întoarsă către raiul dărniciei Tale şi
 (Bahaiprayers.net ID: 2215)
 
 
-
+«[România](../ro/#bpn2215)» 
 
 
 
@@ -1999,7 +1999,7 @@ Lăudat fie Dumnezeu, Stăpânul lumilor!
 (Bahaiprayers.net ID: 2216)
 
 
-
+«[România](../ro/#bpn2216)» 
 
 
 
@@ -2013,7 +2013,7 @@ Cu adevărat Tu eşti Ajutorul în Primejdie, Cel de Sine Stătător.
 (Bahaiprayers.net ID: 2217)
 
 
-
+«[România](../ro/#bpn2217)» 
 
 
 
@@ -2031,7 +2031,7 @@ Slăvit fii Tu, o, Doamne, Tu ierţi mereu păcatele acelora dintre slujitorii T
 (Bahaiprayers.net ID: 2218)
 
 
-
+«[România](../ro/#bpn2218)» 
 
 
 
@@ -2050,7 +2050,7 @@ Tu eşti Cârmuitorul Suveran, Cel ce Înfăptuieşte, Cel Înălţat, Cel Atoat
 (Bahaiprayers.net ID: 2219)
 
 
-
+«[România](../ro/#bpn2219)» 
 
 
 
@@ -2062,7 +2062,7 @@ O, Tu Stăpâne iertător! Tu eşti adăpostultuturor acestor slujitori ai Tăi.
 (Bahaiprayers.net ID: 2220)
 
 
-
+«[România](../ro/#bpn2220)» 
 
 
 
@@ -2082,7 +2082,7 @@ Luminează, Doamne, faţa supuşilor Tăi, ca să Te poată contempla, purifică
 (Bahaiprayers.net ID: 2240)
 
 
-
+«[România](../ro/#bpn2240)» 
 
 
 
@@ -2100,7 +2100,7 @@ Tu eşti Dumnezeul puterii, al gloriei şi al dărniciei. Nu există alt Dumneze
 (Bahaiprayers.net ID: 2241)
 
 
-
+«[România](../ro/#bpn2241)» 
 
 
 
@@ -2117,7 +2117,7 @@ Tu eşti Cel Atotputernic, Cel Preaînalt, Cel Atotslăvit, Cel Atotiubitor.
 (Bahaiprayers.net ID: 2242)
 
 
-
+«[România](../ro/#bpn2242)» 
 
 
 
@@ -2135,7 +2135,7 @@ Iartă-i, apoi, o, Doamne, Dumnezeule, pe slujitorii şi slujitoarele Tale. Tu e
 (Bahaiprayers.net ID: 2243)
 
 
-
+«[România](../ro/#bpn2243)» 
 
 
 
@@ -2155,7 +2155,7 @@ Noi suntem slujitorii Tăi, o, Domnul meu, şi în stăpânirea puterii Tale. Da
 (Bahaiprayers.net ID: 2244)
 
 
-
+«[România](../ro/#bpn2244)» 
 
 
 
@@ -2171,7 +2171,7 @@ Binecuvântează, o, Dumnezeul meu, pe aceia dintre adepţii Bayánului care se 
 (Bahaiprayers.net ID: 2246)
 
 
-
+«[România](../ro/#bpn2246)» 
 
 
 
@@ -2185,7 +2185,7 @@ Te implor, o, Domnul meu, întru Cel Mai Mare Nume al Tău prin care ai separat 
 (Bahaiprayers.net ID: 2247)
 
 
-
+«[România](../ro/#bpn2247)» 
 
 
 
@@ -2207,7 +2207,7 @@ Nimeni, în afară de Tine, n a fost vreodată în stare să înţeleagă taina 
 (Bahaiprayers.net ID: 2248)
 
 
-
+«[România](../ro/#bpn2248)» 
 
 
 
@@ -2220,7 +2220,7 @@ Mâinilor Cauzei Sale, prin care lumina dârzeniei a strălucit şi adevărul a 
 (Bahaiprayers.net ID: 2249)
 
 
-
+«[România](../ro/#bpn2249)» 
 
 
 
@@ -2234,7 +2234,7 @@ Tu eşti Cel ce Dăruieşte, Dătătorul, Cel Veşnic Iubitor.
 (Bahaiprayers.net ID: 2245)
 
 
-
+«[România](../ro/#bpn2245)» 
 
 
 
@@ -2255,7 +2255,7 @@ Cu adevărat, Tu eşti Cel ce Dăruieşte, Cel Generos, Cel Milostiv, Cel Iertă
 (Bahaiprayers.net ID: 2250)
 
 
-
+«[România](../ro/#bpn2250)» 
 
 
 
@@ -2277,7 +2277,7 @@ Tu eşti Cel Atotmărinimos, Cel Binevoitor.
 (Bahaiprayers.net ID: 2251)
 
 
-
+«[România](../ro/#bpn2251)» 
 
 
 
@@ -2303,7 +2303,7 @@ Tu eşti Cel Tare şi Puternic, Tu eşti Cel Iertător şi Tu eşti Cel ce trece
 (Bahaiprayers.net ID: 2252)
 
 
-
+«[România](../ro/#bpn2252)» 
 
 
 
@@ -2315,7 +2315,7 @@ O, Tu Stăpâne Îndurător, Tu Care eşti generos şi potent! Noi suntem slujit
 (Bahaiprayers.net ID: 2253)
 
 
-
+«[România](../ro/#bpn2253)» 
 
 
 
@@ -2327,7 +2327,7 @@ O, Tu Stăpâne bun! Tu Care eşti generos şi milostiv! Noi suntem slujitorii p
 (Bahaiprayers.net ID: 2254)
 
 
-
+«[România](../ro/#bpn2254)» 
 
 
 
@@ -2346,7 +2346,7 @@ O, Doamne: orizonturile lumii sunt întunecate de aceste neînţelegeri. O, Dumn
 (Bahaiprayers.net ID: 2255)
 
 
-
+«[România](../ro/#bpn2255)» 
 
 
 
@@ -2362,7 +2362,7 @@ Află cu adevărat că sufletul, după ce se va despărţi de trup, va continua 
 (Bahaiprayers.net ID: 2261)
 
 
-
+«[România](../ro/#bpn2261)» 
 
 
 
@@ -2395,7 +2395,7 @@ Noi toţi, cu adevărat, suntem răbdători în Dumnezeu.
 (Bahaiprayers.net ID: 2263)
 
 
-
+«[România](../ro/#bpn2263)» 
 
 
 
@@ -2425,7 +2425,7 @@ Nu există alt Dumnezeu afară de Tine, Cel Unic, Singurul, Cel Puternic, Cel At
 (Bahaiprayers.net ID: 2264)
 
 
-
+«[România](../ro/#bpn2264)» 
 
 
 
@@ -2442,7 +2442,7 @@ Slăvit, nemăsurat de slăvit eşti Tu! Tu eşti adorat în adevărul Tău, şi
 (Bahaiprayers.net ID: 2265)
 
 
-
+«[România](../ro/#bpn2265)» 
 
 
 
@@ -2454,7 +2454,7 @@ Când sufletul omului îşi va purta zborul din această movilă trecătoare de 
 (Bahaiprayers.net ID: 2262)
 
 
-
+«[România](../ro/#bpn2262)» 
 
 
 
@@ -2468,7 +2468,7 @@ O, Domnul meu! Purifică-i de nelegiuirile lor, risipeşte-le durerile şi presc
 (Bahaiprayers.net ID: 2266)
 
 
-
+«[România](../ro/#bpn2266)» 
 
 
 
@@ -2485,7 +2485,7 @@ Cu adevărat, Tu eşti Cel Generos, Cel Puternic, Cel Darnic şi Iertător.
 (Bahaiprayers.net ID: 2267)
 
 
-
+«[România](../ro/#bpn2267)» 
 
 
 
@@ -2505,7 +2505,7 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Omnipotent şi Tu eşti Cel c
 (Bahaiprayers.net ID: 2268)
 
 
-
+«[România](../ro/#bpn2268)» 
 
 
 
@@ -2523,7 +2523,7 @@ Cu adevărat, Tu eşti Cel Ce confirmă pe cine doreşte, şi cu adevărat, Tu e
 (Bahaiprayers.net ID: 2269)
 
 
-
+«[România](../ro/#bpn2269)» 
 
 
 
@@ -2543,7 +2543,7 @@ Cu adevărat, Tu eşti Cel Îngăduitor, Cel Puternic, Cel Tare şi Cel Mai Milo
 (Bahaiprayers.net ID: 2270)
 
 
-
+«[România](../ro/#bpn2270)» 
 
 
 
@@ -2561,7 +2561,7 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare,Cel Înţelept şi Cel ce Vede.
 (Bahaiprayers.net ID: 2271)
 
 
-
+«[România](../ro/#bpn2271)» 
 
 
 
@@ -2576,7 +2576,7 @@ Tu eşti Cel Omnipotent şi Înfăptuitorul a tot ceea ce voieşti.
 (Bahaiprayers.net ID: 2272)
 
 
-
+«[România](../ro/#bpn2272)» 
 
 
 
@@ -2593,7 +2593,7 @@ O, Doamne, eu sunt slab, întăreşte-mă cu puterea şi tăria Ta. Glasul meu t
 (Bahaiprayers.net ID: 2273)
 
 
-
+«[România](../ro/#bpn2273)» 
 
 
 
@@ -2608,7 +2608,7 @@ O, Doamne! Sunt umil şi singur. Nu am pe nimeni ca să mă sprijine decât pe T
 (Bahaiprayers.net ID: 2274)
 
 
-
+«[România](../ro/#bpn2274)» 
 
 
 
@@ -2625,7 +2625,7 @@ Cu adevărat, Tu eşti Cel Atotputernic, Cel Preaînălţat, Cel ce Veşnic Iart
 (Bahaiprayers.net ID: 2275)
 
 
-
+«[România](../ro/#bpn2275)» 
 
 
 
@@ -2644,7 +2644,7 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Omnipotent.
 (Bahaiprayers.net ID: 2276)
 
 
-
+«[România](../ro/#bpn2276)» 
 
 
 
@@ -2662,7 +2662,7 @@ Vârsta maturităţii este la cincisprezece ani; bărbaţii şi femeile se aseam
 (Bahaiprayers.net ID: 2306)
 
 
-
+«[România](../ro/#bpn2306)» 
 
 
 
@@ -2701,7 +2701,7 @@ Te implor, o, Dumnezeul meu, întru Tine Însuţi şi pe semnele Tale, pe dovezi
 (Bahaiprayers.net ID: 2307)
 
 
-
+«[România](../ro/#bpn2307)» 
 
 
 
@@ -2720,7 +2720,7 @@ Nu există alt Dumnezeu în afară de Tine, Atotştiutorul, Cel Atotînţelept. 
 (Bahaiprayers.net ID: 2308)
 
 
-
+«[România](../ro/#bpn2308)» 
 
 
 
@@ -2748,7 +2748,7 @@ Fă victorioasă Cauza Ta, o, Domnul meu şi înjoseşte-i pe vrăjmaşii Tăi. 
 (Bahaiprayers.net ID: 2309)
 
 
-
+«[România](../ro/#bpn2309)» 
 
 
 
@@ -2785,7 +2785,7 @@ Lăudat fii Tu, o, Dumnezeul meu, întrucât Tu ne-ai ajutat să-L recunoaştem 
 (Bahaiprayers.net ID: 2310)
 
 
-
+«[România](../ro/#bpn2310)» 
 
 
 
@@ -2805,7 +2805,7 @@ Din moment ce Tu i-ai călăuzit, o, Domnul meu, către apele vii ale harului T�
 (Bahaiprayers.net ID: 2277)
 
 
-
+«[România](../ro/#bpn2277)» 
 
 
 
@@ -2824,7 +2824,7 @@ Cu adevărat, Tu eşti, Cel Atotputernic, Cel Prea Înalt, Cel Atotştiutor, Cel
 (Bahaiprayers.net ID: 2278)
 
 
-
+«[România](../ro/#bpn2278)» 
 
 
 
@@ -2842,7 +2842,7 @@ Te implor, o, Tu Rege al existenţei şi Protector al văzutelor şi nevăzutelo
 (Bahaiprayers.net ID: 2279)
 
 
-
+«[România](../ro/#bpn2279)» 
 
 
 
@@ -2861,7 +2861,7 @@ Tu eşti, cu adevărat, Dumnezeul tăriei şi al puterii, care răspunzi celor c
 (Bahaiprayers.net ID: 2280)
 
 
-
+«[România](../ro/#bpn2280)» 
 
 
 
@@ -2877,7 +2877,7 @@ Tu eşti, cu adevărat, Cel Generos, Cel Iertător.
 (Bahaiprayers.net ID: 2281)
 
 
-
+«[România](../ro/#bpn2281)» 
 
 
 
@@ -2890,7 +2890,7 @@ slujitorii Tăi demni de încredere să aibă inimi iubitoare şi blânde. Ajut�
 (Bahaiprayers.net ID: 2282)
 
 
-
+«[România](../ro/#bpn2282)» 
 
 
 
@@ -2909,7 +2909,7 @@ Cu adevărat, Tu eşti Cel cu har îmbelşugat. Nu există alt Dumnezeu în afar
 (Bahaiprayers.net ID: 2283)
 
 
-
+«[România](../ro/#bpn2283)» 
 
 
 
@@ -2926,7 +2926,7 @@ imploratoare ridicându-se către raiul favorii şi mărinimiei Tale. Îngăduie
 (Bahaiprayers.net ID: 2260)
 
 
-
+«[România](../ro/#bpn2260)» 
 
 
 
@@ -2938,7 +2938,7 @@ Se cuvine ca slujitorul să-L implore pe Dumnezeu, după fiecare rugăciune, să
 (Bahaiprayers.net ID: 2256)
 
 
-
+«[România](../ro/#bpn2256)» 
 
 
 
@@ -2952,7 +2952,7 @@ O, Dumnezeul meu! Tu mi-ai inspirat sufletul să-ţi ofere această rugă, iar d
 (Bahaiprayers.net ID: 2257)
 
 
-
+«[România](../ro/#bpn2257)» 
 
 
 
@@ -2964,7 +2964,7 @@ O, Doamne! În această Dispensaţie Preamărită, Tu accepţi rugăciunile copi
 (Bahaiprayers.net ID: 2258)
 
 
-
+«[România](../ro/#bpn2258)» 
 
 
 
@@ -2978,7 +2978,7 @@ Răsplăteşte-i Tu. Dăruieşte-le viaţă veşnică şi îngăduie-le să pă�
 (Bahaiprayers.net ID: 2259)
 
 
-
+«[România](../ro/#bpn2259)» 
 
 
 
@@ -3043,7 +3043,7 @@ Tu eşti cu adevărat Cel Plin de Forţă, Cel Atotdeajuns, Tămăduirea, Ocroti
 (Bahaiprayers.net ID: 2311)
 
 
-
+«[România](../ro/#bpn2311)» 
 
 
 
@@ -3117,7 +3117,7 @@ Mărturisesc, o, Doamne, Dumnezeul meu, ceea ce au afirmat aleşii Tăi şi recu
 (Bahaiprayers.net ID: 2103)
 
 
-
+«[România](../ro/#bpn2103)» 
 
 
 
@@ -3161,7 +3161,7 @@ Stau mărturie unităţii Tale şi unicităţii Tale, că Tu eşti Dumnezeu şi 
 (Bahaiprayers.net ID: 2102)
 
 
-
+«[România](../ro/#bpn2102)» 
 
 
 
@@ -3184,7 +3184,7 @@ Stau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te s
 (Bahaiprayers.net ID: 2101)
 
 
-
+«[România](../ro/#bpn2101)» 
 
 
 
@@ -3204,7 +3204,7 @@ Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotbiruitor, Cel 
 (Bahaiprayers.net ID: 2284)
 
 
-
+«[România](../ro/#bpn2284)» 
 
 
 
@@ -3220,7 +3220,7 @@ Pe tăria Ta! Nu Îţi cer, dormind sau treaz fiind, decât ceea ce Tu doreşti.
 (Bahaiprayers.net ID: 2285)
 
 
-
+«[România](../ro/#bpn2285)» 
 
 
 
@@ -3236,7 +3236,7 @@ Serbarea v-a fost poruncită o dată pe lună, chiar de-ar fi să fie numai cu a
 (Bahaiprayers.net ID: 2312)
 
 
-
+«[România](../ro/#bpn2312)» 
 
 
 
@@ -3249,7 +3249,7 @@ acele elemente care sunt cauza discordiei, şi pregăteşte pentru noi toate ace
 (Bahaiprayers.net ID: 2313)
 
 
-
+«[România](../ro/#bpn2313)» 
 
 
 
@@ -3271,7 +3271,7 @@ Tu eşti, cu adevărat, Cel Nepreţuit, Cel ce Veşnic Dăruie, Cel Generos.
 (Bahaiprayers.net ID: 2286)
 
 
-
+«[România](../ro/#bpn2286)» 
 
 
 
@@ -3294,7 +3294,7 @@ Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotînţelept.
 (Bahaiprayers.net ID: 2287)
 
 
-
+«[România](../ro/#bpn2287)» 
 
 
 
@@ -3311,7 +3311,7 @@ Hărăzeşte-mi, prin dărnicia Ta, ceea ce-mi îngăduie să prosper în aceast
 (Bahaiprayers.net ID: 2288)
 
 
-
+«[România](../ro/#bpn2288)» 
 
 
 
@@ -3327,7 +3327,7 @@ Tu eşti, cu adevărat, Dumnezeul puterii, Ajutorul în Primejdie, Cel Atotslăv
 (Bahaiprayers.net ID: 2289)
 
 
-
+«[România](../ro/#bpn2289)» 
 
 
 
@@ -3351,7 +3351,7 @@ Te rog, o, Stăpân al întregii făpturi şi Rege al văzutelor şi nevăzutelo
 (Bahaiprayers.net ID: 2290)
 
 
-
+«[România](../ro/#bpn2290)» 
 
 
 
@@ -3366,7 +3366,7 @@ Te implor să-mi îngădui să mă ţin cu statornicie de iubirea şi pomenirea 
 (Bahaiprayers.net ID: 2291)
 
 
-
+«[România](../ro/#bpn2291)» 
 
 
 
@@ -3381,7 +3381,7 @@ Tu eşti, cu adevărat, Cel ce Iartă, Cel Mărinimos*.
 (Bahaiprayers.net ID: 2296)
 
 
-
+«[România](../ro/#bpn2296)» 
 
 
 
@@ -3396,7 +3396,7 @@ meu! Fă-mă statornic în Cauza Ta şi îngăduie să fiu numărat printre cei 
 (Bahaiprayers.net ID: 2292)
 
 
-
+«[România](../ro/#bpn2292)» 
 
 
 
@@ -3411,7 +3411,7 @@ Cu adevărat, Tu eşti Cârmuitorul Suprem, Adevărul Suveran, Ajutorul în Prim
 (Bahaiprayers.net ID: 2293)
 
 
-
+«[România](../ro/#bpn2293)» 
 
 
 
@@ -3423,7 +3423,7 @@ O, Doamne, Dumnezeul meu! Ajută-i pe cei ce-i iubeşti să fie statornici în C
 (Bahaiprayers.net ID: 2294)
 
 
-
+«[România](../ro/#bpn2294)» 
 
 
 
@@ -3439,7 +3439,7 @@ Cu adevărat, Tu eşti Cel Generos, Cel ce veşnic Dăruieşte, Cel Preţios, Ce
 (Bahaiprayers.net ID: 2295)
 
 
-
+«[România](../ro/#bpn2295)» 
 
 
 
@@ -3554,7 +3554,7 @@ O, ‘Alí-Akbar, mulţumeşte Domnului tău pentru această tabletă, din care 
 (Bahaiprayers.net ID: 2316)
 
 
-
+«[România](../ro/#bpn2316)» 
 
 
 
@@ -3745,7 +3745,7 @@ Slăvit fie Stăpânul nostru, Cel Preaînalt!
 (Bahaiprayers.net ID: 2318)
 
 
-
+«[România](../ro/#bpn2318)» 
 
 
 
@@ -3771,7 +3771,7 @@ Tu eşti cu adevărat Cel Atotştiutor, Cel Atotînţelept.
 (Bahaiprayers.net ID: 2314)
 
 
-
+«[România](../ro/#bpn2314)» 
 
 
 
@@ -3823,7 +3823,7 @@ Atât de puternic este efectul cuvântului lui Dumnezeu asupra Celui ce este Rev
 (Bahaiprayers.net ID: 2315)
 
 
-
+«[România](../ro/#bpn2315)» 
 
 
 
@@ -3868,7 +3868,7 @@ Cu adevărat, El este Cel Milostiv şi Bun. Lăudat fie Dumnezeu, Stăpânul tut
 (Bahaiprayers.net ID: 2317)
 
 
-
+«[România](../ro/#bpn2317)» 
 
 
 
@@ -3902,7 +3902,7 @@ Cu adevărat Tu eşti Cel Atotdarnic, a cărui bunăvoinţă este fără margini
 (Bahaiprayers.net ID: 2320)
 
 
-
+«[România](../ro/#bpn2320)» 
 
 
 
@@ -3922,7 +3922,7 @@ Cât de distinsă este mărturia lui Sadratu’l-Muntahá29 pentru frunza Sa. C�
 (Bahaiprayers.net ID: 2321)
 
 
-
+«[România](../ro/#bpn2321)» 
 
 
 
@@ -3940,7 +3940,7 @@ Binecuvântat eşti tu şi binecuvântat este cel ce se întoarce spre tine şi-
 (Bahaiprayers.net ID: 2322)
 
 
-
+«[România](../ro/#bpn2322)» 
 
 
 
@@ -3958,7 +3958,7 @@ O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite F
 (Bahaiprayers.net ID: 2323)
 
 
-
+«[România](../ro/#bpn2323)» 
 
 
 
@@ -3987,7 +3987,7 @@ Tu eşti Cel Darnic, Cel Plin de Har, Cel Plin de Milă, Cel Mai Mărinimos, Cel
 (Bahaiprayers.net ID: 2319)
 
 
-
+«[România](../ro/#bpn2319)» 
 
 
 
@@ -4009,7 +4009,7 @@ Tu eşti Domnul lor, Stăpânul cerurilor şi al pământului, Stăpânul tuturo
 (Bahaiprayers.net ID: 2297)
 
 
-
+«[România](../ro/#bpn2297)» 
 
 
 
@@ -4023,7 +4023,7 @@ Mare este binecuvântarea celor al căror sânge l-ai ales pentru a uda cu el Po
 (Bahaiprayers.net ID: 2298)
 
 
-
+«[România](../ro/#bpn2298)» 
 
 
 
@@ -4039,7 +4039,7 @@ Cu adevărat, Tu eşti Stăpânul nostru şi Stăpânul tuturor lucrurilor. În 
 (Bahaiprayers.net ID: 2299)
 
 
-
+«[România](../ro/#bpn2299)» 
 
 
 
@@ -4053,7 +4053,7 @@ Din timpuri imemoriale Tu ai avut puterea de a face ceea ce Îţi place şi ai f
 (Bahaiprayers.net ID: 2300)
 
 
-
+«[România](../ro/#bpn2300)» 
 
 
 
@@ -4069,7 +4069,7 @@ O, Dumnezeul meu! O, Dumnezeul meu! Uneşte inimile slujitorilor Tăi şi revele
 (Bahaiprayers.net ID: 2303)
 
 
-
+«[România](../ro/#bpn2303)» 
 
 
 
@@ -4085,7 +4085,7 @@ Cu adevărat, Tu eşti Cel Ce dăruie, Cel Iertător, Cel Veşnic Mărinimos. Cu
 (Bahaiprayers.net ID: 2301)
 
 
-
+«[România](../ro/#bpn2301)» 
 
 
 
@@ -4101,7 +4101,7 @@ Slava Slavei odihnească asupra celor ce sunt statornici şi neclintiţi.
 (Bahaiprayers.net ID: 2302)
 
 
-
+«[România](../ro/#bpn2302)» 
 
 
 
@@ -4119,7 +4119,7 @@ O, Domnul meu, ţie îţi închin ceea ce este în pântecul meu. Fă astfel în
 (Bahaiprayers.net ID: 2304)
 
 
-
+«[România](../ro/#bpn2304)» 
 
 
 
@@ -4138,7 +4138,7 @@ O, popoare ale pământului! Noi v-am poruncit să postiţi pentru o perioadă s
 (Bahaiprayers.net ID: 2324)
 
 
-
+«[România](../ro/#bpn2324)» 
 
 
 
@@ -4159,7 +4159,7 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotştiutor, Cel Atotcunoscător.
 (Bahaiprayers.net ID: 2325)
 
 
-
+«[România](../ro/#bpn2325)» 
 
 
 
@@ -4179,7 +4179,7 @@ Tu vezi, o, Doamne, Dumnezeul meu, cele ce s-au abătut asupra mea în vremea zi
 (Bahaiprayers.net ID: 2222)
 
 
-
+«[România](../ro/#bpn2222)» 
 
 
 
@@ -4191,7 +4191,7 @@ O, Tu ale Cărui încercări sunt un leac tămăduitor pentru cei ce sunt aproap
 (Bahaiprayers.net ID: 2223)
 
 
-
+«[România](../ro/#bpn2223)» 
 
 
 
@@ -4209,7 +4209,7 @@ Tu ai puterea de face ceea ce Îţi place. Nu există alt Dumnezeu în afară de
 (Bahaiprayers.net ID: 2224)
 
 
-
+«[România](../ro/#bpn2224)» 
 
 
 
@@ -4225,7 +4225,7 @@ Tu eşti, cu adevărat, Domnul Zilei Judecăţii.
 (Bahaiprayers.net ID: 2225)
 
 
-
+«[România](../ro/#bpn2225)» 
 
 
 
@@ -4241,7 +4241,7 @@ Nemăsurat de înălţat eşti Tu, o, Stăpânul cerului şi al pământului, de
 (Bahaiprayers.net ID: 2226)
 
 
-
+«[România](../ro/#bpn2226)» 
 
 
 
@@ -4253,7 +4253,7 @@ O, Doamne! Tu îndepărtezi toate suferinţele şi risipeşti toate durerile. Tu
 (Bahaiprayers.net ID: 2229)
 
 
-
+«[România](../ro/#bpn2229)» 
 
 
 
@@ -4275,7 +4275,7 @@ De aceea, cu cât ai mai multe suferinţe, cu atât devii mai desăvârşit.
 (Bahaiprayers.net ID: 2221)
 
 
-
+«[România](../ro/#bpn2221)» 
 
 
 
@@ -4291,7 +4291,7 @@ Tu eşti, cu adevărat, Ocrotitorul, Păzitorul, Apărătorul, Îndestulătorul 
 (Bahaiprayers.net ID: 2227)
 
 
-
+«[România](../ro/#bpn2227)» 
 
 
 
@@ -4321,7 +4321,7 @@ Tu eşti, cu adevărat, Cel Plin de Har, Cel Preamărit, Cel Tare şi Atotputern
 (Bahaiprayers.net ID: 2228)
 
 
-
+«[România](../ro/#bpn2228)» 
 
 
 
@@ -4337,7 +4337,7 @@ Numele Tău este însănătoşirea mea, o, Doamne, Dumnezeul meu, şi gândul la
 (Bahaiprayers.net ID: 2232)
 
 
-
+«[România](../ro/#bpn2232)» 
 
 
 
@@ -4354,7 +4354,7 @@ Tu ai puterea de a face ceea ce-ţi place. Nu există alt Dumnezeu în afară de
 (Bahaiprayers.net ID: 2233)
 
 
-
+«[România](../ro/#bpn2233)» 
 
 
 
@@ -4369,7 +4369,7 @@ Tu eşti, cu adevărat, Vindecătorul, Păstrătorul, Ajutorul, Cel Tare, Cel Pu
 (Bahaiprayers.net ID: 2234)
 
 
-
+«[România](../ro/#bpn2234)» 
 
 
 
@@ -4385,7 +4385,7 @@ Cu adevărat, puterea şi înţelepciunea Ta îţi îngăduie toate acestea.
 (Bahaiprayers.net ID: 2235)
 
 
-
+«[România](../ro/#bpn2235)» 
 
 
 
@@ -4397,7 +4397,7 @@ Rugăciunile ce au fost revelate pentru a cere însănătoşire se referă atât
 (Bahaiprayers.net ID: 2230)
 
 
-
+«[România](../ro/#bpn2230)» 
 
 
 
@@ -4409,7 +4409,7 @@ Dacă sănătatea şi bunăstarea trupului sunt cheltuite pe calea Împărăţie
 (Bahaiprayers.net ID: 2231)
 
 
-
+«[România](../ro/#bpn2231)» 
 
 
 
@@ -4433,7 +4433,7 @@ O, Dumnezeule! Înzestrează-ne cu chibzuinţa Ta. Tu eşti Cel Puternic. Tu eş
 (Bahaiprayers.net ID: 2236)
 
 
-
+«[România](../ro/#bpn2236)» 
 
 
 
@@ -4448,7 +4448,7 @@ Cu adevărat, Tu eşti Cel Omnipotent şi Cel Tare!
 (Bahaiprayers.net ID: 2237)
 
 
-
+«[România](../ro/#bpn2237)» 
 
 
 
@@ -4470,7 +4470,7 @@ Tu eşti Cel Puternic, Cel Omnipotent, Cel Milostiv şi Tu eşti Cel Generos, Ce
 (Bahaiprayers.net ID: 2238)
 
 
-
+«[România](../ro/#bpn2238)» 
 
 
 
@@ -4485,7 +4485,7 @@ Cu adevărat, aceşti slujitori se întorc către Tine, implorând împărăţia
 (Bahaiprayers.net ID: 2239)
 
 
-
+«[România](../ro/#bpn2239)» 
 
 
 

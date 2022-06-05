@@ -210,7 +210,7 @@ Ai Sats ia Sa isiba Elob //gage unutse, Sa mute nouxun !aroma ≠gan am tsi Elob
 (Bahaiprayers.net ID: 12410)
 
 
-
+«[Namibia](../hz/#bpn12410)» 
 
 
 
@@ -229,7 +229,7 @@ Bahá̓u̓lláh
 (Bahaiprayers.net ID: 12384)
 
 
-
+«[Namibia](../hz/#bpn12384)» 
 
 
 
@@ -246,7 +246,7 @@ Sa /khoma xu ta ge ne //goas ona go !noa-≠khai Ai ti Elotose. Tsî tage ti oms
 (Bahaiprayers.net ID: 12387)
 
 
-
+«[Namibia](../hz/#bpn12387)» 
 
 
 
@@ -263,7 +263,7 @@ Ae ti Elotse, ne /gôana //gau!nâ re. Ne //gôan ge a Sa !hanab di hai, //haren
 (Bahaiprayers.net ID: 12392)
 
 
-
+«[Namibia](../hz/#bpn12392)» 
 
 
 
@@ -279,7 +279,7 @@ Tita ge Sa sôub !nâ go !noa ≠khai, Ae ti Elōtse tsî, !gâi-!gâb ge ne sô
 (Bahaiprayers.net ID: 12390)
 
 
-
+«[Namibia](../hz/#bpn12390)» 
 
 
 
@@ -297,7 +297,7 @@ Ai ti Elotse, /ûba-aots //oren ditse. /Khae aots !norasa mâti ditse. Tani-aots
 (Bahaiprayers.net ID: 12396)
 
 
-
+«[Namibia](../hz/#bpn12396)» 
 
 
 
@@ -322,7 +322,7 @@ Sida hoada ge amase Elob !na ni tanixa.
 (Bahaiprayers.net ID: 12400)
 
 
-
+«[Namibia](../hz/#bpn12400)» 
 
 
 
@@ -334,7 +334,7 @@ Ai ti Elotse, /uba aots //oren ditse. /Khai aots !nore Sa mati ditse. Tani-aots 
 (Bahaiprayers.net ID: 12401)
 
 
-
+«[Namibia](../hz/#bpn12401)» 
 
 
 
@@ -350,7 +350,7 @@ Ai ti Elotse, /uba aots //oren ditse. /Khai aots !nore Sa mati ditse. Tani-aots 
 (Bahaiprayers.net ID: 12402)
 
 
-
+«[Namibia](../hz/#bpn12402)» 
 
 
 
@@ -362,7 +362,7 @@ Elotse mare eb lgui !naxasib sa !nab diba hoaraga !hub-aiba !nami ≠ga, eb isib
 (Bahaiprayers.net ID: 12403)
 
 
-
+«[Namibia](../hz/#bpn12403)» 
 
 
 
@@ -374,7 +374,7 @@ Ti Elotse, ti /namsatse, ti //khoretse. ≠Khiba ti /guri !gasib !na ≠gare tsi
 (Bahaiprayers.net ID: 12404)
 
 
-
+«[Namibia](../hz/#bpn12404)» 
 
 
 
@@ -386,7 +386,7 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 (Bahaiprayers.net ID: 12405)
 
 
-
+«[Namibia](../hz/#bpn12405)» 
 
 
 
@@ -398,7 +398,7 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 (Bahaiprayers.net ID: 12406)
 
 
-
+«[Namibia](../hz/#bpn12406)» 
 
 
 
@@ -410,7 +410,7 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 (Bahaiprayers.net ID: 12407)
 
 
-
+«[Namibia](../hz/#bpn12407)» 
 
 
 
@@ -422,7 +422,7 @@ Ti Elotse, Elotse huire Sa !gana !ai-tsab !na Sa ≠khai gariha mus /kha //ina S
 (Bahaiprayers.net ID: 12408)
 
 
-
+«[Namibia](../hz/#bpn12408)» 
 
 
 
@@ -434,7 +434,7 @@ Ai ti Elotse mei ge sa aniroe khoaha //gawob /kha. Tsi ≠nouse re //khana, Huir
 (Bahaiprayers.net ID: 12409)
 
 
-
+«[Namibia](../hz/#bpn12409)» 
 
 
 
@@ -450,7 +450,7 @@ Ai, Elotse, ne ≠khari /goâroë Sa /nami di dî ≠ams !nâ gei-geire, î sa �
 (Bahaiprayers.net ID: 12411)
 
 
-
+«[Namibia](../hz/#bpn12411)» 
 
 
 
@@ -467,7 +467,7 @@ Ti Elōtse! Khoa-Khoa ê ≠hî-≠hî ti gagasa, !anu-!anu ti ≠gaoba. Ti ≠�
 (Bahaiprayers.net ID: 12388)
 
 
-
+«[Namibia](../hz/#bpn12388)» 
 
 
 
@@ -483,7 +483,7 @@ Ai ti Elotse! Ai ti Elotse! Satsa /gui-/guire sa ! Gagu di ≠gaoga, ets ≠hei-
 (Bahaiprayers.net ID: 12394)
 
 
-
+«[Namibia](../hz/#bpn12394)» 
 
 
 
@@ -501,7 +501,7 @@ Ai ti Elotse, Ti Elotse sida ge a Sa !ga, Sa ma-ams /kha Sa !nanu-ais !oa go hat
 (Bahaiprayers.net ID: 12398)
 
 
-
+«[Namibia](../hz/#bpn12398)» 
 
 
 
@@ -517,7 +517,7 @@ Khoeë hâ, ≠Khôana //khaebe //khae? Elob ose Mî: Ab Eloba gare he re //îb 
 (Bahaiprayers.net ID: 12385)
 
 
-
+«[Namibia](../hz/#bpn12385)» 
 
 
 
@@ -533,7 +533,7 @@ Ti Elotse, ≠gai-≠guite, é soutere, é !ná-!ná ti !nas ti ≠gaob dita. El
 (Bahaiprayers.net ID: 12386)
 
 
-
+«[Namibia](../hz/#bpn12386)» 
 
 
 
@@ -549,7 +549,7 @@ Ai Elōtse ne ≠kham-khoë !gâra ≠gaete mare, tsî /khomxa ≠gaosib ne /gâ
 (Bahaiprayers.net ID: 12393)
 
 
-
+«[Namibia](../hz/#bpn12393)» 
 
 
 
@@ -565,7 +565,7 @@ Sa /ons gea ti ≠urusi, Ai ti Elotse, tsî Sa xa ≠âihos ge a ti so-lôa, Sa 
 (Bahaiprayers.net ID: 12389)
 
 
-
+«[Namibia](../hz/#bpn12389)» 
 
 
 
@@ -583,7 +583,7 @@ Gares a Sa, Ae Elō ti !Khutse! /Khoma Tsi tagera ne ≠hai≠hais !kaenaba !nâ
 (Bahaiprayers.net ID: 12397)
 
 
-
+«[Namibia](../hz/#bpn12397)» 
 
 
 
@@ -599,7 +599,7 @@ Gares a Sa, Ai ti Elōtse! ne !gāb tsî !gās tsîra ge Sa /khomi di sōmi !nâ
 (Bahaiprayers.net ID: 12395)
 
 
-
+«[Namibia](../hz/#bpn12395)» 
 
 
 
@@ -616,7 +616,7 @@ Ai ti Elotse, ti Elotse !na-!na Sa /namsaben di ≠aite, e lgai-lgai //ina. Sa �
 (Bahaiprayers.net ID: 12399)
 
 
-
+«[Namibia](../hz/#bpn12399)» 
 
 
 
@@ -634,7 +634,7 @@ Ai, ti Elotse, ti //kha-//kha-aotse, ti //khoreb di !oa-≠ûi tse! Nē !gab sab
 (Bahaiprayers.net ID: 12391)
 
 
-
+«[Namibia](../hz/#bpn12391)» 
 
 
 
@@ -650,7 +650,7 @@ Kalunga, Amenenge, endifenge, ningenge olamba taivadima no nyofi tai-vilima. Ove
 (Bahaiprayers.net ID: 12443)
 
 
-
+«[Namibia](../hz/#bpn12443)» 
 
 
 
@@ -667,7 +667,7 @@ Kalunga! Deula ounona aveshe ava. Ounona ava ovo oimeno yomepya loYe, enhemo do 
 (Bahaiprayers.net ID: 12450)
 
 
-
+«[Namibia](../hz/#bpn12450)» 
 
 
 
@@ -683,7 +683,7 @@ Ove fimanekwa, Kalunga kange! Oshili, ou oye omupiya woYe omulumenhu no mupiya w
 (Bahaiprayers.net ID: 12453)
 
 
-
+«[Namibia](../hz/#bpn12453)» 
 
 
 
@@ -702,7 +702,7 @@ Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamen
 (Bahaiprayers.net ID: 12441)
 
 
-
+«[Namibia](../hz/#bpn12441)» 
 
 
 
@@ -718,7 +718,7 @@ Edina loYe olo eveluko lange, Kalunga kange, oku ku dimbulukwa oko etalaleko lan
 (Bahaiprayers.net ID: 12446)
 
 
-
+«[Namibia](../hz/#bpn12446)» 
 
 
 
@@ -750,7 +750,7 @@ Fye atushe, oshili, otu na olukeno mu Kalunga. (x19)
 (Bahaiprayers.net ID: 12458)
 
 
-
+«[Namibia](../hz/#bpn12458)» 
 
 
 
@@ -764,7 +764,7 @@ Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo m
 (Bahaiprayers.net ID: 12454)
 
 
-
+«[Namibia](../hz/#bpn12454)» 
 
 
 
@@ -780,7 +780,7 @@ Opena ou handulu oku ku fapo omaudyu ponhele ya Kalunga? Tya: Na hambelelwe Kalu
 (Bahaiprayers.net ID: 12442)
 
 
-
+«[Namibia](../hz/#bpn12442)» 
 
 
 
@@ -799,7 +799,7 @@ Hambelelwa, Omwene Kalunga kange! Ohandi kwilikana omo lwe hololo loYe eli la sh
 (Bahaiprayers.net ID: 12455)
 
 
-
+«[Namibia](../hz/#bpn12455)» 
 
 
 
@@ -828,7 +828,7 @@ Hano tambuleni oihomo yomatumbulo aye, taa loko okudja meulu; oihomo yehalo lOmw
 (Bahaiprayers.net ID: 12473)
 
 
-
+«[Namibia](../hz/#bpn12473)» 
 
 
 
@@ -846,7 +846,7 @@ Keshe tuu ou ta tambula Omukanda ou, na yelule ondaka yaye nongovela inyenye, ye
 (Bahaiprayers.net ID: 12474)
 
 
-
+«[Namibia](../hz/#bpn12474)» 
 
 
 
@@ -864,7 +864,7 @@ Oshili Ohaiti, Eli olo efiku
 (Bahaiprayers.net ID: 12469)
 
 
-
+«[Namibia](../hz/#bpn12469)» 
 
 
 
@@ -878,7 +878,7 @@ Unona Nye Vo Vanhu
 (Bahaiprayers.net ID: 12470)
 
 
-
+«[Namibia](../hz/#bpn12470)» 
 
 
 
@@ -900,7 +900,7 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 (Bahaiprayers.net ID: 12471)
 
 
-
+«[Namibia](../hz/#bpn12471)» 
 
 
 
@@ -918,7 +918,7 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 (Bahaiprayers.net ID: 12456)
 
 
-
+«[Namibia](../hz/#bpn12456)» 
 
 
 
@@ -935,7 +935,7 @@ Ame, Onda pe nduka ongula ei yonena me filonghenda loYe, Kalunga kange. Ame ohai
 (Bahaiprayers.net ID: 12444)
 
 
-
+«[Namibia](../hz/#bpn12444)» 
 
 
 
@@ -952,7 +952,7 @@ Kalunga! Talaleka ndele hafifa omhepo yange. Koshola omutima wange. Yelifa endun
 (Bahaiprayers.net ID: 12445)
 
 
-
+«[Namibia](../hz/#bpn12445)» 
 
 
 
@@ -968,7 +968,7 @@ Onda penduka meameno loYe, Kalunga kange, ndele ohai kongo oku kala koshi yeamen
 (Bahaiprayers.net ID: 12447)
 
 
-
+«[Namibia](../hz/#bpn12447)» 
 
 
 
@@ -986,7 +986,7 @@ Kalunga kange, omwene wange, efikilo le halo lange! Ame, omupiya woYe, onda hala
 (Bahaiprayers.net ID: 12448)
 
 
-
+«[Namibia](../hz/#bpn12448)» 
 
 
 
@@ -1002,7 +1002,7 @@ Kalunga kange! Kalunga kange! Mangela kumwe omitima do vapiya voYe, ndele vaulik
 (Bahaiprayers.net ID: 12452)
 
 
-
+«[Namibia](../hz/#bpn12452)» 
 
 
 
@@ -1018,7 +1018,7 @@ Kalunga! Humbata okana aka Mekolo lo hole yoYe, ndele kapa Omashini ta di mevele
 (Bahaiprayers.net ID: 12449)
 
 
-
+«[Namibia](../hz/#bpn12449)» 
 
 
 
@@ -1034,7 +1034,7 @@ Omwene! Pa omunyasha ou ouyelele tau vadima ndele filonghenda omushitwa woYe ou 
 (Bahaiprayers.net ID: 12451)
 
 
-
+«[Namibia](../hz/#bpn12451)» 
 
 
 
@@ -1050,7 +1050,7 @@ Nye ava ta Mutalelifa oipala yeni ku Kalunga! Keleleni omesho eni ahatale oinima
 (Bahaiprayers.net ID: 12472)
 
 
-
+«[Namibia](../hz/#bpn12472)» 
 
 
 
@@ -1070,7 +1070,7 @@ Nye ava ta Mutalelifa oipala yeni ku Kalunga! Keleleni omesho eni ahatale oinima
 (Bahaiprayers.net ID: 12457)
 
 
-
+«[Namibia](../hz/#bpn12457)» 
 
 
 
@@ -1100,7 +1100,7 @@ Omo Opena, ya mana omhata, yOmukombada tai ingida tai ti: “Oove ou wa tumbalek
 (Bahaiprayers.net ID: 12475)
 
 
-
+«[Namibia](../hz/#bpn12475)» 
 
 
 
@@ -1121,7 +1121,7 @@ Bahá̓u̓lláh
 (Bahaiprayers.net ID: 12459)
 
 
-
+«[Namibia](../hz/#bpn12459)» 
 
 
 
@@ -1133,7 +1133,7 @@ Tya: Kalunga, Kalunga kange! Tu la oshikoloni shouyuki woYe komutwe wange, ndele
 (Bahaiprayers.net ID: 12460)
 
 
-
+«[Namibia](../hz/#bpn12460)» 
 
 
 
@@ -1145,7 +1145,7 @@ Kalunga kange! Ohandi indile, ke dina loYe olo la tu mbala unene. Ukwa fenge eng
 (Bahaiprayers.net ID: 12461)
 
 
-
+«[Namibia](../hz/#bpn12461)» 
 
 
 
@@ -1157,7 +1157,7 @@ Kalunga yandya oujelele wouli-umwe utandavelifwe kombada yedu alishe, opo ne osh
 (Bahaiprayers.net ID: 12462)
 
 
-
+«[Namibia](../hz/#bpn12462)» 
 
 
 
@@ -1169,7 +1169,7 @@ Omwene wange, Omuholike, ehalo lange! Kala pamwe name mowike wange ndele kala yo
 (Bahaiprayers.net ID: 12463)
 
 
-
+«[Namibia](../hz/#bpn12463)» 
 
 
 
@@ -1181,7 +1181,7 @@ Omwene Kalunga kange! Kwafela ovapiya voYe va kale vapama mEitavelo loYe, vaende
 (Bahaiprayers.net ID: 12464)
 
 
-
+«[Namibia](../hz/#bpn12464)» 
 
 
 
@@ -1195,7 +1195,7 @@ Omwene! Tu filonghenda, tu pa ehalo loYe liwa; fye ovafyona, tu pa ou puna tau d
 (Bahaiprayers.net ID: 12465)
 
 
-
+«[Namibia](../hz/#bpn12465)» 
 
 
 
@@ -1207,7 +1207,7 @@ Omwene! Fye oingone; tu pameka Kalunga! Fye katu na endunge; tu pa endunge. Omwe
 (Bahaiprayers.net ID: 12466)
 
 
-
+«[Namibia](../hz/#bpn12466)» 
 
 
 
@@ -1219,7 +1219,7 @@ Kalunga, Kalunga kange! Amena evapiya voYe ovaholike kowi wavo vene no ke handu 
 (Bahaiprayers.net ID: 12467)
 
 
-
+«[Namibia](../hz/#bpn12467)» 
 
 
 
@@ -1232,7 +1232,7 @@ Kalunga ketu, Kalunga ketu, oka dila aka, oka teka evava ndele ita kadulu oku tu
 (Bahaiprayers.net ID: 12468)
 
 
-
+«[Namibia](../hz/#bpn12468)» 
 
 
 
@@ -1252,7 +1252,7 @@ Ove owatjiri, Omuhona nombara yovandu avehe, Ove omuute wovina avihe mOuje mbui.
 (Bahaiprayers.net ID: 6044)
 
 
-
+«[Namibia](../hz/#bpn6044)» 
 
 
 
@@ -1268,7 +1268,7 @@ Ena rOye oro everukise,  Ndjambi wandje,  nu  okuri zemburuka nayOve oko ondjamo
 (Bahaiprayers.net ID: 6050)
 
 
-
+«[Namibia](../hz/#bpn6050)» 
 
 
 
@@ -1291,7 +1291,7 @@ Omeripura wetu nga yewane kumwe ngatji mayerire owatjiri, ombepo yetu ngaimunike
 (Bahaiprayers.net ID: 6051)
 
 
-
+«[Namibia](../hz/#bpn6051)» 
 
 
 
@@ -1313,7 +1313,7 @@ Kapena Mukuru warue,  Ngutjiwa avihe,  Nguna ounongo auhe. Ondangero kOve erike 
 (Bahaiprayers.net ID: 6048)
 
 
-
+«[Namibia](../hz/#bpn6048)» 
 
 
 
@@ -1329,7 +1329,7 @@ Ami mbapenduka kehijo ndjeverero yOye, Ndjambi wandje, nu otjo tjiri kuje ingwi 
 (Bahaiprayers.net ID: 6045)
 
 
-
+«[Namibia](../hz/#bpn6045)» 
 
 
 
@@ -1343,7 +1343,7 @@ Kapena Mukuru warue pendje nayOve erike, ngu hasasanekua, ngutjiwa avihe nounong
 (Bahaiprayers.net ID: 6046)
 
 
-
+«[Namibia](../hz/#bpn6046)» 
 
 
 
@@ -1361,7 +1361,7 @@ Merihepura omuini kove Mukuru, Ove kutja wendjiutira kutja mbikutjiwe nu mbiriko
 (Bahaiprayers.net ID: 6043)
 
 
-
+«[Namibia](../hz/#bpn6043)» 
 
 
 
@@ -1381,7 +1381,7 @@ Meriheke kOve, Ndjambi wandje, kehi yeho rOye eyapuke ndi harara, okutjevera nok
 (Bahaiprayers.net ID: 6047)
 
 
-
+«[Namibia](../hz/#bpn6047)» 
 
 
 
@@ -1397,7 +1397,7 @@ Ngo tangwe Ove Ndjambi wandje! Tjiri, ovakarere wOye veyamba kehi yotjizire tjon
 (Bahaiprayers.net ID: 6049)
 
 
-
+«[Namibia](../hz/#bpn6049)» 
 
 
 
@@ -1417,7 +1417,7 @@ Ngavetakamise ongamburiro ndji ngavekutange erike nunga vekare no hange  mena rO
 (Bahaiprayers.net ID: 6056)
 
 
-
+«[Namibia](../hz/#bpn6056)» 
 
 
 
@@ -1436,7 +1436,7 @@ Ndjambi wetu! Veyapura ko zongatukiro, vingurura oruhoze ruawo, nu tanaura ondor
 (Bahaiprayers.net ID: 6058)
 
 
-
+«[Namibia](../hz/#bpn6058)» 
 
 
 
@@ -1460,7 +1460,7 @@ Matutanga Mukuru. Ma turikotamene  ku Mukuru. Atuhe Ovatoororwa vaMukuru. Matuhi
 (Bahaiprayers.net ID: 6057)
 
 
-
+«[Namibia](../hz/#bpn6057)» 
 
 
 
@@ -1478,7 +1478,7 @@ Mukuru Ove, kutura omutima wo musuverwa wOye no rusuvero rwOye, opumakara amerip
 (Bahaiprayers.net ID: 6059)
 
 
-
+«[Namibia](../hz/#bpn6059)» 
 
 
 
@@ -1490,7 +1490,7 @@ Ndjambi wandje! Ndjambi wandje! wanisa kumue omitima vyo vakarere wOye, nu verai
 (Bahaiprayers.net ID: 6060)
 
 
-
+«[Namibia](../hz/#bpn6060)» 
 
 
 
@@ -1502,7 +1502,7 @@ Mukuru wandje! Mukuru wandje! Hwikika otjiuru tjandje no tjikrone tjohange, kotj
 (Bahaiprayers.net ID: 6061)
 
 
-
+«[Namibia](../hz/#bpn6061)» 
 
 
 
@@ -1514,7 +1514,7 @@ Mukuru wandje! Mepura kOve mena rOye eyapuke, vatera ami ngumbiri omukarere wOye
 (Bahaiprayers.net ID: 6062)
 
 
-
+«[Namibia](../hz/#bpn6062)» 
 
 
 
@@ -1526,7 +1526,7 @@ Mukuru, tjita kutja ondjerera yo ruwano iworonge Ouje auhe, no kutja ikutjire, "
 (Bahaiprayers.net ID: 6063)
 
 
-
+«[Namibia](../hz/#bpn6063)» 
 
 
 
@@ -1538,7 +1538,7 @@ Penaune ngumaisapo ouzeu pendje naMukuru? Ii, oMukuru erike. Mukuru ngatangue! E
 (Bahaiprayers.net ID: 6064)
 
 
-
+«[Namibia](../hz/#bpn6064)» 
 
 
 
@@ -1554,7 +1554,7 @@ Ndjambi wandje! Meri kotakemene kOve Ndjambi, orondu Oove epanga enene puami omu
 (Bahaiprayers.net ID: 6065)
 
 
-
+«[Namibia](../hz/#bpn6065)» 
 
 
 
@@ -1566,7 +1566,7 @@ Muhona wandje, Mbe kusuvera. ndjisuvera mourike wandje nu ndjitika  nu undji ton
 (Bahaiprayers.net ID: 6066)
 
 
-
+«[Namibia](../hz/#bpn6066)» 
 
 
 
@@ -1578,7 +1578,7 @@ Muhona, Mukuru wandje! vatera ovasuverwa wOye kutja vekare nomasa mo  ngamburiro
 (Bahaiprayers.net ID: 6067)
 
 
-
+«[Namibia](../hz/#bpn6067)» 
 
 
 
@@ -1594,7 +1594,7 @@ Muhona oisa okuyandja ondjenda na ndarire komwinjo mbui mbuhana otjiungura. Ombo
 (Bahaiprayers.net ID: 6068)
 
 
-
+«[Namibia](../hz/#bpn6068)» 
 
 
 
@@ -1608,7 +1608,7 @@ Tjinangara Ove konokutuvatera, maturire ovina ovivi Muhona, Zeuparisa ete Mukuru
 (Bahaiprayers.net ID: 6069)
 
 
-
+«[Namibia](../hz/#bpn6069)» 
 
 
 
@@ -1620,7 +1620,7 @@ Mukuru wandje! Tjizikiza omukarere wOye omutakame kovina ovivi vyOuye, yama nome
 (Bahaiprayers.net ID: 6070)
 
 
-
+«[Namibia](../hz/#bpn6070)» 
 
 
 
@@ -1634,7 +1634,7 @@ Muhona owami erike hina ndengu wina. Hina muvatere pendje nayOve. Hina mutize, n
 (Bahaiprayers.net ID: 6071)
 
 
-
+«[Namibia](../hz/#bpn6071)» 
 
 
 
@@ -1650,7 +1650,7 @@ Ndjambi wetu! kurisa okanatje nga mo mawoko wOye worusuvero, nu kepa omaihi wond
 (Bahaiprayers.net ID: 6052)
 
 
-
+«[Namibia](../hz/#bpn6052)» 
 
 
 
@@ -1664,7 +1664,7 @@ oOve nguri omuyandje na wina omunaunyanutima.
 (Bahaiprayers.net ID: 6053)
 
 
-
+«[Namibia](../hz/#bpn6053)» 
 
 
 
@@ -1676,7 +1676,7 @@ Muhona Ove! yerisa ondjoroka no rusuvero kombanda jo mutanda ingui,   nu otjari 
 (Bahaiprayers.net ID: 6054)
 
 
-
+«[Namibia](../hz/#bpn6054)» 
 
 
 
@@ -1688,7 +1688,7 @@ Ndjambi wandje, ndjiviura, ndji tjevera nundji tjinda, tjita kutja mbirire emuni
 (Bahaiprayers.net ID: 6055)
 
 
-
+«[Namibia](../hz/#bpn6055)» 
 
 
 
@@ -1706,7 +1706,7 @@ Hompa, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo lig
 (Bahaiprayers.net ID: 12425)
 
 
-
+«[Namibia](../hz/#bpn12425)» 
 
 
 
@@ -1720,7 +1720,7 @@ Oh, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo
 (Bahaiprayers.net ID: 12429)
 
 
-
+«[Namibia](../hz/#bpn12429)» 
 
 
 
@@ -1744,7 +1744,7 @@ Kudividenu umwenu mulikurukuro Lyankango dande mposhi mudimburure mahorameno gha
 (Bahaiprayers.net ID: 12426)
 
 
-
+«[Namibia](../hz/#bpn12426)» 
 
 
 
@@ -1761,7 +1761,7 @@ Ame kuna rambuka ngurangura munkenda yoye, Karunga wande, na tundu mundjugho yan
 (Bahaiprayers.net ID: 12415)
 
 
-
+«[Namibia](../hz/#bpn12415)» 
 
 
 
@@ -1778,7 +1778,7 @@ Hompa, Karunga! Tendeka nakuhafita monyo wande. Kushura mushima wande. Kenita nd
 (Bahaiprayers.net ID: 12416)
 
 
-
+«[Namibia](../hz/#bpn12416)» 
 
 
 
@@ -1795,7 +1795,7 @@ Hompa! Ronga vanuke vano. Vanuke vano mbo vimenwa vyamushikunino, dimucuko Doye,
 (Bahaiprayers.net ID: 12421)
 
 
-
+«[Namibia](../hz/#bpn12421)» 
 
 
 
@@ -1811,7 +1811,7 @@ Hompa Karunga, mughameni wande, mupopeli wande, ndenke ni kare ramba yakutwera n
 (Bahaiprayers.net ID: 12414)
 
 
-
+«[Namibia](../hz/#bpn12414)» 
 
 
 
@@ -1827,7 +1827,7 @@ Pa kara Mutunditipo wamaudito hanashi Ove ndi? Ghamba: Mfumwa kwaKarunga! Ghuye 
 (Bahaiprayers.net ID: 12413)
 
 
-
+«[Namibia](../hz/#bpn12413)» 
 
 
 
@@ -1843,7 +1843,7 @@ Lidina lyoye ndyo liveruro lyande, Hompa wande, ano livhuruko kukoye mutondo wan
 (Bahaiprayers.net ID: 12417)
 
 
-
+«[Namibia](../hz/#bpn12417)» 
 
 
 
@@ -1863,7 +1863,7 @@ Lidina lyoye ndyo liveruro lyande, Hompa wande, ano livhuruko kukoye mutondo wan
 (Bahaiprayers.net ID: 12428)
 
 
-
+«[Namibia](../hz/#bpn12428)» 
 
 
 
@@ -1881,7 +1881,7 @@ Hi, Karunga, Karunga wande! Atwe tu vapikoye ovo vana pirukiro nakukukwambera ku
 (Bahaiprayers.net ID: 12427)
 
 
-
+«[Namibia](../hz/#bpn12427)» 
 
 
 
@@ -1900,7 +1900,7 @@ Mfumwa koye ove Karunga kulimonikito lyashihoro shoye kumbunga! Oh, Ove ghuLipar
 (Bahaiprayers.net ID: 12430)
 
 
-
+«[Namibia](../hz/#bpn12430)» 
 
 
 
@@ -1912,7 +1912,7 @@ Hi, Karunga wande! Hi, Karunga wande! Kwatakanita dimushima davapikoye nakumonik
 (Bahaiprayers.net ID: 12431)
 
 
-
+«[Namibia](../hz/#bpn12431)» 
 
 
 
@@ -1925,7 +1925,7 @@ Hi, Karunga wande! Ame kuna kuromba koye muLidina lyoye lyakufumana mukumbatera 
 (Bahaiprayers.net ID: 12432)
 
 
-
+«[Namibia](../hz/#bpn12432)» 
 
 
 
@@ -1937,7 +1937,7 @@ Karunga, renka ukenu waumwe u fuke livhu nalintje, ntani nka shitamba shino “U
 (Bahaiprayers.net ID: 12433)
 
 
-
+«[Namibia](../hz/#bpn12433)» 
 
 
 
@@ -1951,7 +1951,7 @@ Ghamb: Ove Karunga, Karunga wande! Ntura mutwe wande nashipangura sha ghushili, 
 (Bahaiprayers.net ID: 12434)
 
 
-
+«[Namibia](../hz/#bpn12434)» 
 
 
 
@@ -1965,7 +1965,7 @@ Hompa! Ghushuntu atwe, tu pe ko ufenkenda ghoye, ghepwe, tu pe ko ruha rwaungaro
 (Bahaiprayers.net ID: 12435)
 
 
-
+«[Namibia](../hz/#bpn12435)» 
 
 
 
@@ -1977,7 +1977,7 @@ Oho, Hompa! Atwe kudere ko nkondo; tu pameke. Oh, Karunga! Atwe vantuta; tu puku
 (Bahaiprayers.net ID: 12436)
 
 
-
+«[Namibia](../hz/#bpn12436)» 
 
 
 
@@ -1989,7 +1989,7 @@ Oh Karunga wande, Karunga wande! Tjayira vapikoye vakulimburukwa kumaghudona gha
 (Bahaiprayers.net ID: 12437)
 
 
-
+«[Namibia](../hz/#bpn12437)» 
 
 
 
@@ -2002,7 +2002,7 @@ Oh Karunga! Shino shidira shalivava lyakuremana, ano kutuka kwasho maranga ngudu
 (Bahaiprayers.net ID: 12438)
 
 
-
+«[Namibia](../hz/#bpn12438)» 
 
 
 
@@ -2021,7 +2021,7 @@ Ame kuna kuvitongonona, Ove Karunga wande, ashi Ove wa ntjito ni ku yive nakukut
 (Bahaiprayers.net ID: 12412)
 
 
-
+«[Namibia](../hz/#bpn12412)» 
 
 
 
@@ -2037,7 +2037,7 @@ Na kotoroka mughuvando ghoye, ove Karunga wande, ano vyamuwapera ogho wakushana 
 (Bahaiprayers.net ID: 12418)
 
 
-
+«[Namibia](../hz/#bpn12418)» 
 
 
 
@@ -2055,7 +2055,7 @@ Hompa, Karunga wande, Mushongi wande, Shitambo shalitokomeno lyande! Mupikoye un
 (Bahaiprayers.net ID: 12419)
 
 
-
+«[Namibia](../hz/#bpn12419)» 
 
 
 
@@ -2071,7 +2071,7 @@ Mfumwa kukoye, ove Karunga wande! Vyashiri, uno mupikarume ghoye na uno mupikaka
 (Bahaiprayers.net ID: 12424)
 
 
-
+«[Namibia](../hz/#bpn12424)» 
 
 
 
@@ -2087,7 +2087,7 @@ Hompa Karunga wande! Hompa Karunga wande! Kwatakanita dimushima davapikoye nakum
 (Bahaiprayers.net ID: 12423)
 
 
-
+«[Namibia](../hz/#bpn12423)» 
 
 
 
@@ -2103,7 +2103,7 @@ Hompa! Renka vasheshughona vano vavembere, ntani tapa nka unongo ghoye kushishit
 (Bahaiprayers.net ID: 12422)
 
 
-
+«[Namibia](../hz/#bpn12422)» 
 
 
 
@@ -2119,7 +2119,7 @@ Hompa, Karunga! Renka kakeke kano kakure mushinanga shashihoro shoye, ka pe mash
 (Bahaiprayers.net ID: 12420)
 
 
-
+«[Namibia](../hz/#bpn12420)» 
 
 
 
@@ -2135,7 +2135,7 @@ Hi, ove una pirukidiro shipara shoye kwa Karunga! Ferera mantjo ghoye kuvininke 
 (Bahaiprayers.net ID: 12440)
 
 
-
+«[Namibia](../hz/#bpn12440)» 
 
 
 
@@ -2160,7 +2160,7 @@ Shikoda shakarenakare shapulire mukushimanga namalyenge mposhi  ghudjuni u yovok
 (Bahaiprayers.net ID: 12439)
 
 
-
+«[Namibia](../hz/#bpn12439)» 
 
 
 
@@ -2183,7 +2183,7 @@ Ove shiri ghu Karunga naHompa wavantu navantje mbyo wa kara nankondo kuvininke n
 (Bahaiprayers.net ID: 6013)
 
 
-
+«[Namibia](../hz/#bpn6013)» 
 
 
 
@@ -2201,7 +2201,7 @@ Na kotoroka mughuvando ghoye, ove Karunga wande, ano vyamuwapera ogho wakushana 
 (Bahaiprayers.net ID: 6014)
 
 
-
+«[Namibia](../hz/#bpn6014)» 
 
 
 
@@ -2224,7 +2224,7 @@ Kundereko nka Karunga wakupita poye Muvateli muViponga, Mukalipo panaumoye.
 (Bahaiprayers.net ID: 6012)
 
 
-
+«[Namibia](../hz/#bpn6012)» 
 
 
 
@@ -2248,7 +2248,7 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 (Bahaiprayers.net ID: 6313)
 
 
-
+«[Namibia](../hz/#bpn6313)» 
 
 
 
@@ -2270,7 +2270,7 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 (Bahaiprayers.net ID: 6318)
 
 
-
+«[Namibia](../hz/#bpn6318)» 
 
 
 
@@ -2289,7 +2289,7 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 (Bahaiprayers.net ID: 6320)
 
 
-
+«[Namibia](../hz/#bpn6320)» 
 
 
 
@@ -2320,7 +2320,7 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 (Bahaiprayers.net ID: 6327)
 
 
-
+«[Namibia](../hz/#bpn6327)» 
 
 
 
@@ -2334,7 +2334,7 @@ Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo rug
 (Bahaiprayers.net ID: 6328)
 
 
-
+«[Namibia](../hz/#bpn6328)» 
 
 
 
@@ -2356,7 +2356,7 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 (Bahaiprayers.net ID: 6314)
 
 
-
+«[Namibia](../hz/#bpn6314)» 
 
 
 
@@ -2379,7 +2379,7 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 (Bahaiprayers.net ID: 6326)
 
 
-
+«[Namibia](../hz/#bpn6326)» 
 
 
 
@@ -2401,7 +2401,7 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 (Bahaiprayers.net ID: 6321)
 
 
-
+«[Namibia](../hz/#bpn6321)» 
 
 
 
@@ -2420,7 +2420,7 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 (Bahaiprayers.net ID: 6315)
 
 
-
+«[Namibia](../hz/#bpn6315)» 
 
 
 
@@ -2433,7 +2433,7 @@ Ame kuna pinduka mongurangura ozi monkenda Zoge, Karunga gwange, nina tundu monz
 (Bahaiprayers.net ID: 6316)
 
 
-
+«[Namibia](../hz/#bpn6316)» 
 
 
 
@@ -2454,7 +2454,7 @@ Ame kuna pinduka mongurangura ozi monkenda Zoge, Karunga gwange, nina tundu monz
 (Bahaiprayers.net ID: 6317)
 
 
-
+«[Namibia](../hz/#bpn6317)» 
 
 
 
@@ -2473,7 +2473,7 @@ Efumadeko Koge, Ove Karunge, kemonekeso Lyoge lyeharo kombunga! Hompa Ove Eparu 
 (Bahaiprayers.net ID: 6329)
 
 
-
+«[Namibia](../hz/#bpn6329)» 
 
 
 
@@ -2485,7 +2485,7 @@ Hompa, Karunga gwange, Hompa Karunga gwange, kwa takamesa nomutjima dovapika Wog
 (Bahaiprayers.net ID: 6330)
 
 
-
+«[Namibia](../hz/#bpn6330)» 
 
 
 
@@ -2500,7 +2500,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 6331)
 
 
-
+«[Namibia](../hz/#bpn6331)» 
 
 
 
@@ -2512,7 +2512,7 @@ Karunga, ninka uzera wagumwe u kudumike evhu nalinye, ntani hena sitamba esi, "s
 (Bahaiprayers.net ID: 6332)
 
 
-
+«[Namibia](../hz/#bpn6332)» 
 
 
 
@@ -2524,7 +2524,7 @@ Pwa kara mutundisipo gomaudigu ga hana asi Nyove ndi? Uyunga: Efumadeko kwa Karu
 (Bahaiprayers.net ID: 6333)
 
 
-
+«[Namibia](../hz/#bpn6333)» 
 
 
 
@@ -2537,7 +2537,7 @@ Hompa, Karunga! Tendeka nokuhafesa mwenyo gwange. Kuhura mutjima gwange. Zeresa 
 (Bahaiprayers.net ID: 6334)
 
 
-
+«[Namibia](../hz/#bpn6334)» 
 
 
 
@@ -2549,7 +2549,7 @@ Hompa Hompa gwange, Mukarwa gwange, Mudiworoki gwange! Kara kaume kange mokukara
 (Bahaiprayers.net ID: 6335)
 
 
-
+«[Namibia](../hz/#bpn6335)» 
 
 
 
@@ -2561,7 +2561,7 @@ Ove Hompa, Karunga gwange! Kwafa vaholi Woge ava wa hara, vaha singanyeka momapu
 (Bahaiprayers.net ID: 6336)
 
 
-
+«[Namibia](../hz/#bpn6336)» 
 
 
 
@@ -2575,7 +2575,7 @@ Hompa, ose usuntu, tu pa ufenkenda Woge, Uhepwe, tupa ruha rwekurudiva Lyoge, tu
 (Bahaiprayers.net ID: 6337)
 
 
-
+«[Namibia](../hz/#bpn6337)» 
 
 
 
@@ -2587,7 +2587,7 @@ Hompa! Ose kwato nonkondo, tu pameka. Hompa, Karunga! Ose vantu, tu pukurura. Ho
 (Bahaiprayers.net ID: 6338)
 
 
-
+«[Namibia](../hz/#bpn6338)» 
 
 
 
@@ -2599,7 +2599,7 @@ Hompa Karunga gwange, Karunga gwange! Kerera vapika Woge vakulimburuke noyidovau
 (Bahaiprayers.net ID: 6339)
 
 
-
+«[Namibia](../hz/#bpn6339)» 
 
 
 
@@ -2612,7 +2612,7 @@ Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso ma
 (Bahaiprayers.net ID: 6340)
 
 
-
+«[Namibia](../hz/#bpn6340)» 
 
 
 
@@ -2631,7 +2631,7 @@ Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso ma
 (Bahaiprayers.net ID: 6322)
 
 
-
+«[Namibia](../hz/#bpn6322)» 
 
 
 
@@ -2643,7 +2643,7 @@ Ove Hompa! Ronga vanona ava. Vanona ava yiwo yimenwa yomo sikunino, nombya Doge,
 (Bahaiprayers.net ID: 6323)
 
 
-
+«[Namibia](../hz/#bpn6323)» 
 
 
 
@@ -2655,7 +2655,7 @@ Ove Hompa! Ninka vadinkantu vavembere ntani gava Unongo Woge kosisitwa esi soruh
 (Bahaiprayers.net ID: 6324)
 
 
-
+«[Namibia](../hz/#bpn6324)» 
 
 
 
@@ -2667,7 +2667,7 @@ Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombu
 (Bahaiprayers.net ID: 6325)
 
 
-
+«[Namibia](../hz/#bpn6325)» 
 
 
 
@@ -2686,7 +2686,7 @@ Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombu
 (Bahaiprayers.net ID: 6319)
 
 
-
+«[Namibia](../hz/#bpn6319)» 
 
 
 

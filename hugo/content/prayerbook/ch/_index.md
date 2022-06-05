@@ -52,7 +52,7 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 (Bahaiprayers.net ID: 6114)
 
 
-
+«[Chamorro](../ch/#bpn6114)» 
 
 
 
@@ -72,7 +72,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 (Bahaiprayers.net ID: 6113)
 
 
-
+«[Chamorro](../ch/#bpn6113)» 
 
 
 
@@ -99,7 +99,7 @@ There is no God but Thee, the All-Knowing, the All-Wise. All praise be to God, t
 (Bahaiprayers.net ID: 6111)
 
 
-
+«[Chamorro](../ch/#bpn6111)» 
 
 
 
@@ -121,7 +121,7 @@ O Lord! Assist them in this Thy world and Thy kingdom and destine for them every
 (Bahaiprayers.net ID: 6112)
 
 
-
+«[Chamorro](../ch/#bpn6112)» 
 
 
 
@@ -150,7 +150,7 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 (Bahaiprayers.net ID: 6119)
 
 
-
+«[Chamorro](../ch/#bpn6119)» 
 
 
 
@@ -176,7 +176,7 @@ Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles
 (Bahaiprayers.net ID: 6107)
 
 
-
+«[Chamorro](../ch/#bpn6107)» 
 
 
 
@@ -197,7 +197,7 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 6108)
 
 
-
+«[Chamorro](../ch/#bpn6108)» 
 
 
 
@@ -215,7 +215,7 @@ Wise.
 (Bahaiprayers.net ID: 6109)
 
 
-
+«[Chamorro](../ch/#bpn6109)» 
 
 
 
@@ -243,7 +243,7 @@ Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt 
 (Bahaiprayers.net ID: 6122)
 
 
-
+«[Chamorro](../ch/#bpn6122)» 
 
 
 
@@ -257,7 +257,7 @@ O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy gre
 (Bahaiprayers.net ID: 6123)
 
 
-
+«[Chamorro](../ch/#bpn6123)» 
 
 
 
@@ -271,7 +271,7 @@ Say: “O God, my God! Attire mine head with the crown of justice, and my temple
 (Bahaiprayers.net ID: 6124)
 
 
-
+«[Chamorro](../ch/#bpn6124)» 
 
 
 
@@ -285,7 +285,7 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 (Bahaiprayers.net ID: 6126)
 
 
-
+«[Chamorro](../ch/#bpn6126)» 
 
 
 
@@ -299,7 +299,7 @@ Omy God! I ask Thee, by Thy most glorious Name, to aid me in that which will cau
 (Bahaiprayers.net ID: 6125)
 
 
-
+«[Chamorro](../ch/#bpn6125)» 
 
 
 
@@ -313,7 +313,7 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 (Bahaiprayers.net ID: 6127)
 
 
-
+«[Chamorro](../ch/#bpn6127)» 
 
 
 
@@ -327,7 +327,7 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 (Bahaiprayers.net ID: 6129)
 
 
-
+«[Chamorro](../ch/#bpn6129)» 
 
 
 
@@ -341,7 +341,7 @@ O Lord, my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 (Bahaiprayers.net ID: 6130)
 
 
-
+«[Chamorro](../ch/#bpn6130)» 
 
 
 
@@ -356,7 +356,7 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 (Bahaiprayers.net ID: 6132)
 
 
-
+«[Chamorro](../ch/#bpn6132)» 
 
 
 
@@ -375,7 +375,7 @@ O Lord! I am single, alone and lowly. For me there is no support save Thee, no h
 (Bahaiprayers.net ID: 6134)
 
 
-
+«[Chamorro](../ch/#bpn6134)» 
 
 
 
@@ -389,7 +389,7 @@ O God, my God! Shield Thy trusted servants from the evils of self and passion, p
 (Bahaiprayers.net ID: 6133)
 
 
-
+«[Chamorro](../ch/#bpn6133)» 
 
 
 
@@ -409,7 +409,7 @@ Give us our daily bread, and grant Thine increase in the necessities of life, th
 (Bahaiprayers.net ID: 6131)
 
 
-
+«[Chamorro](../ch/#bpn6131)» 
 
 
 
@@ -428,7 +428,7 @@ O God! Thou art more friend to me than I am to myself. I dedicate myself to Thee
 (Bahaiprayers.net ID: 6128)
 
 
-
+«[Chamorro](../ch/#bpn6128)» 
 
 
 
@@ -476,7 +476,7 @@ We all, verily, are patient in God.
 (Bahaiprayers.net ID: 6120)
 
 
-
+«[Chamorro](../ch/#bpn6120)» 
 
 
 
@@ -495,7 +495,7 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 (Bahaiprayers.net ID: 6121)
 
 
-
+«[Chamorro](../ch/#bpn6121)» 
 
 
 
@@ -519,7 +519,7 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 (Bahaiprayers.net ID: 6110)
 
 
-
+«[Chamorro](../ch/#bpn6110)» 
 
 
 
@@ -544,7 +544,7 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 6106)
 
 
-
+«[Chamorro](../ch/#bpn6106)» 
 
 
 
@@ -565,7 +565,7 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 (Bahaiprayers.net ID: 6115)
 
 
-
+«[Chamorro](../ch/#bpn6115)» 
 
 
 
@@ -579,7 +579,7 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 (Bahaiprayers.net ID: 6116)
 
 
-
+«[Chamorro](../ch/#bpn6116)» 
 
 
 
@@ -593,7 +593,7 @@ O Lord! Make this youth radiant, and confer Thy bounty upon this poor creature. 
 (Bahaiprayers.net ID: 6117)
 
 
-
+«[Chamorro](../ch/#bpn6117)» 
 
 
 
@@ -607,7 +607,7 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star. Tho
 (Bahaiprayers.net ID: 6118)
 
 
-
+«[Chamorro](../ch/#bpn6118)» 
 
 
 

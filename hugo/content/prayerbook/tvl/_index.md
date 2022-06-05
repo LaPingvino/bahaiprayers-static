@@ -140,7 +140,7 @@ O te Atua, toku Matai, te Koulu o toku Faka-moemoeega!  Mea nei, ko Tau tavini, 
 (Bahaiprayers.net ID: 10909)
 
 
-
+«[Tuvalu](../tvl/#bpn10909)» 
 
 
 
@@ -154,7 +154,7 @@ E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e 
 (Bahaiprayers.net ID: 10910)
 
 
-
+«[Tuvalu](../tvl/#bpn10910)» 
 
 
 
@@ -174,7 +174,7 @@ O toku Aliki!  Au ko fakapilipili atu kia Koe, i te pokooga o te valuapo pouli t
 (Bahaiprayers.net ID: 10911)
 
 
-
+«[Tuvalu](../tvl/#bpn10911)» 
 
 
 
@@ -190,7 +190,7 @@ O Koe ko te Aliki alofa!  Ko fuli atu kia Koe ate fakatasiiga tenei.  A loto kon
 (Bahaiprayers.net ID: 10870)
 
 
-
+«[Tuvalu](../tvl/#bpn10870)» 
 
 
 
@@ -202,7 +202,7 @@ Fakamanauia e Koe, O te Tupu o Tupu, te fakai lasi o Niu Ioki!  Fai aka a taugas
 (Bahaiprayers.net ID: 10871)
 
 
-
+«[Tuvalu](../tvl/#bpn10871)» 
 
 
 
@@ -215,7 +215,7 @@ O te Atua, toku Atua!  Au e akai kia Koe mo te loto polepole mo loimata e to ki 
 (Bahaiprayers.net ID: 10872)
 
 
-
+«[Tuvalu](../tvl/#bpn10872)» 
 
 
 
@@ -237,7 +237,7 @@ Toku Atua, Toku Afi mo toku Mainaaga!  Ko aso konei ko oti ne fakaigoa ne Koe ki
 (Bahaiprayers.net ID: 10970)
 
 
-
+«[Tuvalu](../tvl/#bpn10970)» 
 
 
 
@@ -256,7 +256,7 @@ O te Atua, toku Atua!  A ia tenei ko Tau tavini fafine e kalaga atu kia luga ia 
 (Bahaiprayers.net ID: 10916)
 
 
-
+«[Tuvalu](../tvl/#bpn10916)» 
 
 
 
@@ -278,7 +278,7 @@ E seai aka se Atua mai i Ou tafa, te Mafi, ko te Faka-tunakigia-Tumau, ko te Mau
 (Bahaiprayers.net ID: 12347)
 
 
-
+«[Tuvalu](../tvl/#bpn12347)» 
 
 
 
@@ -294,7 +294,7 @@ E sea aka foki se Atua na ko Koe, ko te Mafi-Katoatoa, ko te Tafasili i te Malug
 (Bahaiprayers.net ID: 12348)
 
 
-
+«[Tuvalu](../tvl/#bpn12348)» 
 
 
 
@@ -312,7 +312,7 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei. A Koe, e tonu, ko te IloaKato
 (Bahaiprayers.net ID: 12349)
 
 
-
+«[Tuvalu](../tvl/#bpn12349)» 
 
 
 
@@ -330,7 +330,7 @@ Ko Koe, e tonu, ko te Fakamagalo-Katoatoa, ko te Tafasili i te AtafaiKaimalie.
 (Bahaiprayers.net ID: 12350)
 
 
-
+«[Tuvalu](../tvl/#bpn12350)» 
 
 
 
@@ -349,7 +349,7 @@ A Koe, i te tonuuga, ko te Atua o te maalosi, o te kaumalolo mo matagofie.
 (Bahaiprayers.net ID: 12351)
 
 
-
+«[Tuvalu](../tvl/#bpn12351)» 
 
 
 
@@ -368,7 +368,7 @@ E seai aka foki se Atua na ko Koe, ko te Atua o te maalosi, ko te Atua o te mata
 (Bahaiprayers.net ID: 12352)
 
 
-
+«[Tuvalu](../tvl/#bpn12352)» 
 
 
 
@@ -384,7 +384,7 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei.  E seai aka foki se Atua na k
 (Bahaiprayers.net ID: 12353)
 
 
-
+«[Tuvalu](../tvl/#bpn12353)» 
 
 
 
@@ -400,7 +400,7 @@ A Koe, e tonu, ko te Aliki o te Aso o te Fakamasinoga.
 (Bahaiprayers.net ID: 12354)
 
 
-
+«[Tuvalu](../tvl/#bpn12354)» 
 
 
 
@@ -418,7 +418,7 @@ E sea aka foki se Atua mai Ou tafa, ko te Matagofie-Katoatoa, ko te Tafasili i t
 (Bahaiprayers.net ID: 12355)
 
 
-
+«[Tuvalu](../tvl/#bpn12355)» 
 
 
 
@@ -436,7 +436,7 @@ A Koe e maalosi o fai a te mea e loto Koe ki ei, kae fakaeke ne Koe a te mea tel
 (Bahaiprayers.net ID: 12356)
 
 
-
+«[Tuvalu](../tvl/#bpn12356)» 
 
 
 
@@ -456,7 +456,7 @@ Koe, e tonu, ko te Aliki o te foafoaaga.  E seai aka foki se Atua mai i Ou tafa,
 (Bahaiprayers.net ID: 12357)
 
 
-
+«[Tuvalu](../tvl/#bpn12357)» 
 
 
 
@@ -468,7 +468,7 @@ O toku Aliki, toku Fagasele, toku Manakoga!  Faka-taugasoa mai au i toku nofo to
 (Bahaiprayers.net ID: 12358)
 
 
-
+«[Tuvalu](../tvl/#bpn12358)» 
 
 
 
@@ -487,7 +487,7 @@ A te univesi katoa e molimau ki Tou alofa-kaimalie.  Ke iai se alofa, tena la, k
 (Bahaiprayers.net ID: 12224)
 
 
-
+«[Tuvalu](../tvl/#bpn12224)» 
 
 
 
@@ -505,7 +505,7 @@ Te silisiliese io te Atua, ko te Aliki o te foafoaaga katoatoa!
 (Bahaiprayers.net ID: 12225)
 
 
-
+«[Tuvalu](../tvl/#bpn12225)» 
 
 
 
@@ -521,7 +521,7 @@ Koe, e tonu, ko te Mafi Katoatoa, ko te Tafasili i te Maukoloa, ko te Tafasili i
 (Bahaiprayers.net ID: 12226)
 
 
-
+«[Tuvalu](../tvl/#bpn12226)» 
 
 
 
@@ -540,7 +540,7 @@ Kilo ifo, tena, kia Ia, O toku Atua, se kiloga o Tou alofa-kaimalie, kae tuku if
 (Bahaiprayers.net ID: 12227)
 
 
-
+«[Tuvalu](../tvl/#bpn12227)» 
 
 
 
@@ -557,7 +557,7 @@ A Koe ko te Aliki o lalolagi, mo latou katoa ko la e fakaasi ne latou a te alofa
 (Bahaiprayers.net ID: 12228)
 
 
-
+«[Tuvalu](../tvl/#bpn12228)» 
 
 
 
@@ -572,7 +572,7 @@ Tou manumaalo i Ou lalolagi, a ko fuafuaaga o Tau Talitonuuga ka mafai o fakalau
 (Bahaiprayers.net ID: 12229)
 
 
-
+«[Tuvalu](../tvl/#bpn12229)» 
 
 
 
@@ -599,7 +599,7 @@ E vikia a Koe, ko te Aliki o lalolagi!
 (Bahaiprayers.net ID: 12230)
 
 
-
+«[Tuvalu](../tvl/#bpn12230)» 
 
 
 
@@ -620,7 +620,7 @@ Tou igoa ko te fakagataaga o toku masaki, O toku Atua, a ko te masausauaga o Koe
 (Bahaiprayers.net ID: 10947)
 
 
-
+«[Tuvalu](../tvl/#bpn10947)» 
 
 
 
@@ -633,7 +633,7 @@ Te matagofie e o Koe, O te Aliki toku Atua! Au e akai totuli kia Koe mai i luga 
 (Bahaiprayers.net ID: 10948)
 
 
-
+«[Tuvalu](../tvl/#bpn10948)» 
 
 
 
@@ -648,7 +648,7 @@ Tavaega e o Koe, O te Aliki toku Atua!  Au e akai fakamaulalo kia Koe, mai i Tou
 (Bahaiprayers.net ID: 10949)
 
 
-
+«[Tuvalu](../tvl/#bpn10949)» 
 
 
 
@@ -660,7 +660,7 @@ O te Atamai Kilo-Mao faka-te-lagi!  Tuku mai ne Koe i mea katoa a te ma-takaleka
 (Bahaiprayers.net ID: 10950)
 
 
-
+«[Tuvalu](../tvl/#bpn10950)» 
 
 
 
@@ -679,7 +679,7 @@ Ko Koe ko te Matagofie, O te Aliki toku Atua!  Au e akai totuli kia Koe, mai ia 
 (Bahaiprayers.net ID: 10922)
 
 
-
+«[Tuvalu](../tvl/#bpn10922)» 
 
 
 
@@ -691,7 +691,7 @@ Au ko ia, O toku Atua, tela ko oti ne agai atu ona mata kia Koe, kae fakmmau ana
 (Bahaiprayers.net ID: 10923)
 
 
-
+«[Tuvalu](../tvl/#bpn10923)» 
 
 
 
@@ -703,7 +703,7 @@ A Koe e lavea mai au, O toku Aliki, mo oku mata e fuli ki te lagi o Tou mau-kolo
 (Bahaiprayers.net ID: 10924)
 
 
-
+«[Tuvalu](../tvl/#bpn10924)» 
 
 
 
@@ -719,7 +719,7 @@ E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a K
 (Bahaiprayers.net ID: 10925)
 
 
-
+«[Tuvalu](../tvl/#bpn10925)» 
 
 
 
@@ -733,7 +733,7 @@ E maluga a Tou Igoa, O toku Atua mote Atua o mea katoa, toku Matagofie mo te Mat
 (Bahaiprayers.net ID: 10926)
 
 
-
+«[Tuvalu](../tvl/#bpn10926)» 
 
 
 
@@ -748,7 +748,7 @@ O te Atua ko te omotou Aliki!  Puipui mai matou i Tou alofa fataua mai i so se m
 (Bahaiprayers.net ID: 10927)
 
 
-
+«[Tuvalu](../tvl/#bpn10927)» 
 
 
 
@@ -760,7 +760,7 @@ Tavaeega e i luga ia Koe, O te Aliki.  Fakamagalo mai a omotou agasala, kilo alo
 (Bahaiprayers.net ID: 10928)
 
 
-
+«[Tuvalu](../tvl/#bpn10928)» 
 
 
 
@@ -772,7 +772,7 @@ A u e akai kia Koe ke fakamagalo mai au, O toku Aliki, ona ko te takutaku o isi 
 (Bahaiprayers.net ID: 10929)
 
 
-
+«[Tuvalu](../tvl/#bpn10929)» 
 
 
 
@@ -785,7 +785,7 @@ Ko te Matagofie e i luga ia Koe, O te Atua.  E mafai pefea ne au o taku a Koe ak
 (Bahaiprayers.net ID: 10930)
 
 
-
+«[Tuvalu](../tvl/#bpn10930)» 
 
 
 
@@ -799,7 +799,7 @@ O te Aliki!  Kafai e se-fakamagao mai au ne Koe, koi la ka talia ne o fakamagalo
 (Bahaiprayers.net ID: 10931)
 
 
-
+«[Tuvalu](../tvl/#bpn10931)» 
 
 
 
@@ -811,7 +811,7 @@ O ko Koe ko te Aliki fakamagalo!  A Koe ko te fakamalu o Au tavini katoa konei. 
 (Bahaiprayers.net ID: 10932)
 
 
-
+«[Tuvalu](../tvl/#bpn10932)» 
 
 
 
@@ -824,7 +824,7 @@ O te Aliki mana! O ko te Aliki o te alofa-kaimalie!  Matou ko olo fakaatea mai i
 (Bahaiprayers.net ID: 10933)
 
 
-
+«[Tuvalu](../tvl/#bpn10933)» 
 
 
 
@@ -843,7 +843,7 @@ A Koe, i te tonuga, ko te Fakamagalo-Katoatoa, ko te Tafasili i te Atafai.
 (Bahaiprayers.net ID: 12234)
 
 
-
+«[Tuvalu](../tvl/#bpn12234)» 
 
 
 
@@ -856,7 +856,7 @@ tuku atu a fakafetai kia Koe; kae e fia foki e ttau o fai ke maua a te iloa o Ta
 (Bahaiprayers.net ID: 12235)
 
 
-
+«[Tuvalu](../tvl/#bpn12235)» 
 
 
 
@@ -877,7 +877,7 @@ O te Atua, toku Atua, taku Fagasele, te Manakoga o toku loto.
 (Bahaiprayers.net ID: 12236)
 
 
-
+«[Tuvalu](../tvl/#bpn12236)» 
 
 
 
@@ -899,7 +899,7 @@ A Koe, i te tonuuga, ko te Atafai, ko te Silisiliese, ko te Mafi, ko te Tafasili
 (Bahaiprayers.net ID: 12237)
 
 
-
+«[Tuvalu](../tvl/#bpn12237)» 
 
 
 
@@ -913,7 +913,7 @@ Fakammalu mai lalo i Tau puipuiiga, O ko Koe kote Agaaga o te matalakelekale, ko
 (Bahaiprayers.net ID: 12238)
 
 
-
+«[Tuvalu](../tvl/#bpn12238)» 
 
 
 
@@ -930,7 +930,7 @@ E fakamalugina a Koe, O te Aliki toku Atua! Au e fakamolemole kia Koe ki te mata
 (Bahaiprayers.net ID: 10937)
 
 
-
+«[Tuvalu](../tvl/#bpn10937)» 
 
 
 
@@ -946,7 +946,7 @@ O ko Koe ko te Atua alofa-kaimalie!  O ko Koe Te la ko te mafi mo te maalosi! O 
 (Bahaiprayers.net ID: 10938)
 
 
-
+«[Tuvalu](../tvl/#bpn10938)» 
 
 
 
@@ -962,7 +962,7 @@ Koe ko te mafi.  Koe ko te maalosi. Ko Koe ko te Kave, mo Koe ko te Maukolo-Kato
 (Bahaiprayers.net ID: 10939)
 
 
-
+«[Tuvalu](../tvl/#bpn10939)» 
 
 
 
@@ -976,7 +976,7 @@ E tonu, a Koe ko te Kaimalie.  E tonu, ia Koe ko te Alofa-Kaimalie. E tonu ia Ko
 (Bahaiprayers.net ID: 10940)
 
 
-
+«[Tuvalu](../tvl/#bpn10940)» 
 
 
 
@@ -992,7 +992,7 @@ O Koe ko te Atua fakamagalo!  Au tavini konei ko fuli atu ki Tou maalo kae salas
 (Bahaiprayers.net ID: 10941)
 
 
-
+«[Tuvalu](../tvl/#bpn10941)» 
 
 
 
@@ -1005,7 +1005,7 @@ O ko te Atamai Faka-te-Lagi!  A te Lukuuga tenei e aofia i ei Ou taugasoa ko la 
 (Bahaiprayers.net ID: 10942)
 
 
-
+«[Tuvalu](../tvl/#bpn10942)» 
 
 
 
@@ -1018,7 +1018,7 @@ O ko Koe a te Fakasoasoa atafai!  A agaaga konei ko oti ne fakavave atu ki kalag
 (Bahaiprayers.net ID: 10943)
 
 
-
+«[Tuvalu](../tvl/#bpn10943)» 
 
 
 
@@ -1039,7 +1039,7 @@ Ofa aka ki lalo mot e lima lauiloa o Tou maalosi, O Toku Aliki, a te veli o mafa
 (Bahaiprayers.net ID: 12252)
 
 
-
+«[Tuvalu](../tvl/#bpn12252)» 
 
 
 
@@ -1055,7 +1055,7 @@ oko mai ki au i taimi katoa.  Ke tanumia a te fagasele tela e atafia ne ia i te 
 (Bahaiprayers.net ID: 12253)
 
 
-
+«[Tuvalu](../tvl/#bpn12253)» 
 
 
 
@@ -1072,7 +1072,7 @@ E maalosi a Koe o fai a te mea e fiafia Koe kiei.  A Koe, e ton, ko Pule Maluga,
 (Bahaiprayers.net ID: 12254)
 
 
-
+«[Tuvalu](../tvl/#bpn12254)» 
 
 
 
@@ -1089,7 +1089,7 @@ seai se taimi ne isi e pau io me se taugasoa o Koe.  A Koe, i te tonuuga, ko te 
 (Bahaiprayers.net ID: 12255)
 
 
-
+«[Tuvalu](../tvl/#bpn12255)» 
 
 
 
@@ -1106,7 +1106,7 @@ Fakamanuia, O toku Atua, a latou kola e tautali ki te Bayán pela loa me ko lato
 (Bahaiprayers.net ID: 12256)
 
 
-
+«[Tuvalu](../tvl/#bpn12256)» 
 
 
 
@@ -1125,7 +1125,7 @@ Koe, tela i Ou lima e maua iei a tulaga o te fakaasiiga mo te foafoaaga, pela fo
 (Bahaiprayers.net ID: 12257)
 
 
-
+«[Tuvalu](../tvl/#bpn12257)» 
 
 
 
@@ -1143,7 +1143,7 @@ Nei la ko oti ne takitaki ne Koe a latou ki te mataloa o Tou alofa mana, O toku 
 (Bahaiprayers.net ID: 12258)
 
 
-
+«[Tuvalu](../tvl/#bpn12258)» 
 
 
 
@@ -1155,7 +1155,7 @@ E   lavea ne Koe, O toku Aliki, a toku kogaa-koga nofo kanoloto o te mauga teni 
 (Bahaiprayers.net ID: 12259)
 
 
-
+«[Tuvalu](../tvl/#bpn12259)» 
 
 
 
@@ -1191,7 +1191,7 @@ Tusi ifo ki lalo mo matou a sose mea tela ei o Koe, kae fakamagalo mai matou ona
 (Bahaiprayers.net ID: 12260)
 
 
-
+«[Tuvalu](../tvl/#bpn12260)» 
 
 
 
@@ -1207,7 +1207,7 @@ O toku Atua! O toku Atua! Fusi tasi loto o Au tavini kae fakaasi kia latou Tau f
 (Bahaiprayers.net ID: 12345)
 
 
-
+«[Tuvalu](../tvl/#bpn12345)» 
 
 
 
@@ -1227,7 +1227,7 @@ E tonu, a Koe ko te Mafi-Katoatoa, ko te Ola-ia-Ia-loa, ko te Foai, ko te Faka-m
 (Bahaiprayers.net ID: 12346)
 
 
-
+«[Tuvalu](../tvl/#bpn12346)» 
 
 
 
@@ -1246,7 +1246,7 @@ Ke fakaeke mai ne Koe, tena la, i tino taki tokotasi katoa ko la ne fuli atu kia
 (Bahaiprayers.net ID: 12239)
 
 
-
+«[Tuvalu](../tvl/#bpn12239)» 
 
 
 
@@ -1266,7 +1266,7 @@ pule ne Koe.  A Koe, e tonu, ko te Faka-magalo-Katoatoa, ko te Tafasili ite Mauk
 (Bahaiprayers.net ID: 12240)
 
 
-
+«[Tuvalu](../tvl/#bpn12240)» 
 
 
 
@@ -1278,7 +1278,7 @@ O toku Aua, O toku Aliki, O toku Matai!  Au e akai kia Koe ke fakamagalo mai au 
 (Bahaiprayers.net ID: 12241)
 
 
-
+«[Tuvalu](../tvl/#bpn12241)» 
 
 
 
@@ -1301,7 +1301,7 @@ E tonu a Koe ko te Maalosi-Katoatoa, ko te Puipui, ko te Mafi-Katoatoa, ko te Ol
 (Bahaiprayers.net ID: 12242)
 
 
-
+«[Tuvalu](../tvl/#bpn12242)» 
 
 
 
@@ -1329,7 +1329,7 @@ Au e akai totuli kia Koe, O toku Atua, i te matagofie o Ou Mata alofafakamagalo 
 (Bahaiprayers.net ID: 12243)
 
 
-
+«[Tuvalu](../tvl/#bpn12243)» 
 
 
 
@@ -1356,7 +1356,7 @@ O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaai
 (Bahaiprayers.net ID: 10958)
 
 
-
+«[Tuvalu](../tvl/#bpn10958)» 
 
 
 
@@ -1376,7 +1376,7 @@ O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai
 (Bahaiprayers.net ID: 10959)
 
 
-
+«[Tuvalu](../tvl/#bpn10959)» 
 
 
 
@@ -1396,7 +1396,7 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei.  E seai aka se Atua na ko Koe
 (Bahaiprayers.net ID: 12277)
 
 
-
+«[Tuvalu](../tvl/#bpn12277)» 
 
 
 
@@ -1415,7 +1415,7 @@ A Koe, e tonu, ko te Mafi-Katoatoa, ko te tafasili ite Maluga, ko te IloaKatoato
 (Bahaiprayers.net ID: 12278)
 
 
-
+«[Tuvalu](../tvl/#bpn12278)» 
 
 
 
@@ -1433,7 +1433,7 @@ E lauefa a Koe, O te Aliki o te foafoaaga katoatoa, ko te Tokotasi Tela a mea ka
 (Bahaiprayers.net ID: 10935)
 
 
-
+«[Tuvalu](../tvl/#bpn10935)» 
 
 
 
@@ -1449,7 +1449,7 @@ Au e akai kia Koe, O te Aliki o igoa katoa mo te Tufuga o lagi, ke feasoasoani m
 (Bahaiprayers.net ID: 10936)
 
 
-
+«[Tuvalu](../tvl/#bpn10936)» 
 
 
 
@@ -1463,7 +1463,7 @@ E tafasili a te lauefa o Koe, O te Aliki o te foafoaaga katoa, Te Tasi te la e t
 (Bahaiprayers.net ID: 10972)
 
 
-
+«[Tuvalu](../tvl/#bpn10972)» 
 
 
 
@@ -1478,7 +1478,7 @@ E maluga silisili a Koe, O toku Aliki alofa atafai! Au e akai totuli ki te tumu 
 (Bahaiprayers.net ID: 10973)
 
 
-
+«[Tuvalu](../tvl/#bpn10973)» 
 
 
 
@@ -1496,7 +1496,7 @@ Matagofie e io Koe, O te Aliki toku Atua! Au e akai kia Koe ke fakamagalo mai au
 (Bahaiprayers.net ID: 10913)
 
 
-
+«[Tuvalu](../tvl/#bpn10913)» 
 
 
 
@@ -1512,7 +1512,7 @@ O te Atua!  Fakaseai katoa a mea e pogai ki ei a te va se lei, kae fakatoka mai 
 (Bahaiprayers.net ID: 10944)
 
 
-
+«[Tuvalu](../tvl/#bpn10944)» 
 
 
 
@@ -1528,7 +1528,7 @@ Mainaaga mo te matagofie, talofaaga mo tavaega e i luga i Lima o Tena Fakatokaag
 (Bahaiprayers.net ID: 10975)
 
 
-
+«[Tuvalu](../tvl/#bpn10975)» 
 
 
 
@@ -1546,7 +1546,7 @@ E tonu a Koe ko te Aliki o te Tupuola, a Koe e maalosi o fai a so se mea ko ti n
 (Bahaiprayers.net ID: 12295)
 
 
-
+«[Tuvalu](../tvl/#bpn12295)» 
 
 
 
@@ -1564,7 +1564,7 @@ Koe, e tonu, ko te Atua o te Maalosi, ko te Feasoasoani i Mea Faigata, ko te Mat
 (Bahaiprayers.net ID: 12296)
 
 
-
+«[Tuvalu](../tvl/#bpn12296)» 
 
 
 
@@ -1588,7 +1588,7 @@ Au e akai kia Koe, O te Aliki of mea katoa mot e Tupu o mealavea mot e se lavea,
 (Bahaiprayers.net ID: 12297)
 
 
-
+«[Tuvalu](../tvl/#bpn12297)» 
 
 
 
@@ -1602,7 +1602,7 @@ Au e akai faka-molemole kia Koe ke fakamafai aka au ke taofi mmau i Tou alofa mo
 (Bahaiprayers.net ID: 12298)
 
 
-
+«[Tuvalu](../tvl/#bpn12298)» 
 
 
 
@@ -1617,7 +1617,7 @@ Ke talia, O toku Atua, ko te mea ke se mafai au o llau i vasia o latou ko la olo
 (Bahaiprayers.net ID: 12299)
 
 
-
+«[Tuvalu](../tvl/#bpn12299)» 
 
 
 
@@ -1635,7 +1635,7 @@ E tonu, ia Koe ko te Pule sili, ko te Nofoaiga-a-tupu o te Meatonu, ko te Feasoa
 (Bahaiprayers.net ID: 12300)
 
 
-
+«[Tuvalu](../tvl/#bpn12300)» 
 
 
 
@@ -1647,7 +1647,7 @@ O te Aliki toku Atua!  Fesoasoani ki Au fagasele ke mautaki i Tau Talitonuuga, k
 (Bahaiprayers.net ID: 12301)
 
 
-
+«[Tuvalu](../tvl/#bpn12301)» 
 
 
 
@@ -1663,7 +1663,7 @@ E tonu, a Koe ko te Alofa-Atafai ko te Foai-Katoatoa, ko te Taua, ko te Tafasili
 (Bahaiprayers.net ID: 12302)
 
 
-
+«[Tuvalu](../tvl/#bpn12302)» 
 
 
 
@@ -1679,7 +1679,7 @@ A  Ia ko te Atua!  E lavea mai ne Koe a matou, O toku Atua, e nofo siomia fakata
 (Bahaiprayers.net ID: 10945)
 
 
-
+«[Tuvalu](../tvl/#bpn10945)» 
 
 
 
@@ -1691,7 +1691,7 @@ A Ia ko te Atua!  E mafai pefea o siki atu a fakafetai kia Koe, o te Aliki?  Au 
 (Bahaiprayers.net ID: 10946)
 
 
-
+«[Tuvalu](../tvl/#bpn10946)» 
 
 
 
@@ -1709,7 +1709,7 @@ O te Atua, toku Atua! Matou ko Au Tavini ko la ko oti ne fuli atu mo te faka-tua
 (Bahaiprayers.net ID: 10976)
 
 
-
+«[Tuvalu](../tvl/#bpn10976)» 
 
 
 
@@ -1723,7 +1723,7 @@ O te Atua, toku Atua! Matou ko Au Tavini ko la ko oti ne fuli atu mo te faka-tua
 (Bahaiprayers.net ID: 10977)
 
 
-
+«[Tuvalu](../tvl/#bpn10977)» 
 
 
 
@@ -1737,7 +1737,7 @@ O ko Koe te Aliki o te Maalo!  E uiloa a tou fuaitino ko luku fakatasi i konei, 
 (Bahaiprayers.net ID: 10978)
 
 
-
+«[Tuvalu](../tvl/#bpn10978)» 
 
 
 
@@ -1753,7 +1753,7 @@ O te Atua! O te Atua!  Mai i te maalo e se-lavea o Tou tafatasi e lavea mai a ma
 (Bahaiprayers.net ID: 10979)
 
 
-
+«[Tuvalu](../tvl/#bpn10979)» 
 
 
 
@@ -1770,7 +1770,7 @@ Au e akai fakamolemole ki Tau fakamagalo, O toku Atua, kae akai totuli atu ki te
 (Bahaiprayers.net ID: 10914)
 
 
-
+«[Tuvalu](../tvl/#bpn10914)» 
 
 
 
@@ -1782,7 +1782,7 @@ O te Aliki!  I te Vaataimi tafasili i te Takutakua tenei ko oti ne talia ne Koe 
 (Bahaiprayers.net ID: 10915)
 
 
-
+«[Tuvalu](../tvl/#bpn10915)» 
 
 
 
@@ -1802,7 +1802,7 @@ E maalosi Koe o fai so se mea te la e loto Koe ki ei.  E seai se Atua na ko Koe,
 (Bahaiprayers.net ID: 12336)
 
 
-
+«[Tuvalu](../tvl/#bpn12336)» 
 
 
 
@@ -1816,7 +1816,7 @@ E tonu ia Koe ko te Mafi-Katoatoa, ko te Fakamagalo-Katoatoa, ko te Tafasili i t
 (Bahaiprayers.net ID: 12337)
 
 
-
+«[Tuvalu](../tvl/#bpn12337)» 
 
 
 
@@ -1835,7 +1835,7 @@ E maalosi a Koe o fai ate mea e fiafia Koe ki ei.  A Koe, e tonu, ko te Feasoaso
 (Bahaiprayers.net ID: 12338)
 
 
-
+«[Tuvalu](../tvl/#bpn12338)» 
 
 
 
@@ -1853,7 +1853,7 @@ Talia ne Koe, O te Aliki, ko olotou loto ke mafai, mai i te tautali ki ei, ko Ta
 (Bahaiprayers.net ID: 12339)
 
 
-
+«[Tuvalu](../tvl/#bpn12339)» 
 
 
 
@@ -1867,7 +1867,7 @@ E lasi ate faka-manuiaaga o latou ko la a olotou toto ne fili ne Koe mo fakasius
 (Bahaiprayers.net ID: 12340)
 
 
-
+«[Tuvalu](../tvl/#bpn12340)» 
 
 
 
@@ -1883,7 +1883,7 @@ E tonu, a Koe ko te Aliki mo te Aliki o mea katoa, Ki Ou lima e foki atu matou k
 (Bahaiprayers.net ID: 12341)
 
 
-
+«[Tuvalu](../tvl/#bpn12341)» 
 
 
 
@@ -1897,7 +1897,7 @@ Mai i te pilitakiiga o te vavau Koe e maalosi o fai a te mea e fiafia Koe ki ei 
 (Bahaiprayers.net ID: 12342)
 
 
-
+«[Tuvalu](../tvl/#bpn12342)» 
 
 
 
@@ -1918,7 +1918,7 @@ E tonu, Koe ko te Foai-fua, ko te Faka-magalo, ko te Tuku Mea-alofa.  E tonu Koe
 (Bahaiprayers.net ID: 12343)
 
 
-
+«[Tuvalu](../tvl/#bpn12343)» 
 
 
 
@@ -1938,7 +1938,7 @@ Ko te matagofie o matagofie e nofo i luga ia latou ko la e mmau kae tumau.
 (Bahaiprayers.net ID: 12344)
 
 
-
+«[Tuvalu](../tvl/#bpn12344)» 
 
 
 
@@ -1956,7 +1956,7 @@ O toku Aliki, e tuku atu ne au a ia tenei i toku tinae kia Koe.  Tena la fai aka
 (Bahaiprayers.net ID: 12359)
 
 
-
+«[Tuvalu](../tvl/#bpn12359)» 
 
 
 
@@ -1979,7 +1979,7 @@ ligi mai kia au a se tusaga lasi o te talitonu katoatoa mo te faka-salasalauga, 
 (Bahaiprayers.net ID: 10974)
 
 
-
+«[Tuvalu](../tvl/#bpn10974)» 
 
 
 
@@ -1998,7 +1998,7 @@ Ko te Matagofie e io Koe, O ko te Tupu o te favavau, mo te Tufuga o atu-fenua, m
 (Bahaiprayers.net ID: 10917)
 
 
-
+«[Tuvalu](../tvl/#bpn10917)» 
 
 
 
@@ -2013,7 +2013,7 @@ A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!
 (Bahaiprayers.net ID: 10918)
 
 
-
+«[Tuvalu](../tvl/#bpn10918)» 
 
 
 
@@ -2027,7 +2027,7 @@ Fai aka ke mmau a omotou kalafaga, O te Aliki, i Tou auala kae fakamaalosi aka n
 (Bahaiprayers.net ID: 10919)
 
 
-
+«[Tuvalu](../tvl/#bpn10919)» 
 
 
 
@@ -2041,7 +2041,7 @@ O ko te Atua atafai!  Fakafetai kia Koe me ne fago kae ne fakafoki mai ne Koe a 
 (Bahaiprayers.net ID: 10920)
 
 
-
+«[Tuvalu](../tvl/#bpn10920)» 
 
 
 
@@ -2054,7 +2054,7 @@ O toku Aliki mo toku Fakamoemoega!  Feasoasoani mai Koe ko Au fagasele ke tummau
 (Bahaiprayers.net ID: 10921)
 
 
-
+«[Tuvalu](../tvl/#bpn10921)» 
 
 
 
@@ -2086,7 +2086,7 @@ Matou katoa, e tonu, e onosai i te Atua.
 (Bahaiprayers.net ID: 10887)
 
 
-
+«[Tuvalu](../tvl/#bpn10887)» 
 
 
 
@@ -2100,7 +2100,7 @@ E mana e ia Koe, O te Aliki toku Atua!  Se fakafoliki a ia te la ko oti ne fakam
 (Bahaiprayers.net ID: 10888)
 
 
-
+«[Tuvalu](../tvl/#bpn10888)» 
 
 
 
@@ -2122,7 +2122,7 @@ A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
 (Bahaiprayers.net ID: 10889)
 
 
-
+«[Tuvalu](../tvl/#bpn10889)» 
 
 
 
@@ -2136,7 +2136,7 @@ O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave
 (Bahaiprayers.net ID: 10890)
 
 
-
+«[Tuvalu](../tvl/#bpn10890)» 
 
 
 
@@ -2150,7 +2150,7 @@ O toku Atua! O toku Atua! E tonu, tau tavini, maulalo i mua o te afioga o Tou ma
 (Bahaiprayers.net ID: 10891)
 
 
-
+«[Tuvalu](../tvl/#bpn10891)» 
 
 
 
@@ -2163,7 +2163,7 @@ O Koe ko te Aliki fakamagalo! E uiloa a nisi agaaga ne fakammaumau a aso o oloto
 (Bahaiprayers.net ID: 10892)
 
 
-
+«[Tuvalu](../tvl/#bpn10892)» 
 
 
 
@@ -2182,7 +2182,7 @@ Ko akai totuli atu au kia Koe, ki tavaeega ko la e tavae iei ne Koe a Koe eiloa 
 (Bahaiprayers.net ID: 10896)
 
 
-
+«[Tuvalu](../tvl/#bpn10896)» 
 
 
 
@@ -2196,7 +2196,7 @@ E malu silisili e o Koe, O Toku Atua!  Ko tuku atu kia Koe a fakafetai, me ko ot
 (Bahaiprayers.net ID: 10897)
 
 
-
+«[Tuvalu](../tvl/#bpn10897)» 
 
 
 
@@ -2210,7 +2210,7 @@ E maluga Tou igoa, O toku Atua!  O toku Atua! Au e fakamolemole kia Koe ki te pu
 (Bahaiprayers.net ID: 10898)
 
 
-
+«[Tuvalu](../tvl/#bpn10898)» 
 
 
 
@@ -2226,7 +2226,7 @@ E uke a loto ne mokotia, O toku Atua, ko oti ne fakaka ki te afi o Tau Fakatokaa
 (Bahaiprayers.net ID: 10899)
 
 
-
+«[Tuvalu](../tvl/#bpn10899)» 
 
 
 
@@ -2241,7 +2241,7 @@ Seiloa ne au, O toku Atua, me sea ate Afi tenei e fakaka ne Koe i Tou fenua.  A 
 (Bahaiprayers.net ID: 10900)
 
 
-
+«[Tuvalu](../tvl/#bpn10900)» 
 
 
 
@@ -2257,7 +2257,7 @@ Tavaeega e iluga ia Koe, O toku Atua!  Au se tokotasi o Au tavini, te la e talit
 (Bahaiprayers.net ID: 10901)
 
 
-
+«[Tuvalu](../tvl/#bpn10901)» 
 
 
 
@@ -2272,7 +2272,7 @@ I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Malu
 (Bahaiprayers.net ID: 10902)
 
 
-
+«[Tuvalu](../tvl/#bpn10902)» 
 
 
 
@@ -2288,7 +2288,7 @@ O te Aliki! Kia Koe e fuli atu au mo se lafiiga, kae ko oti ne fakasino a toku l
 (Bahaiprayers.net ID: 10903)
 
 
-
+«[Tuvalu](../tvl/#bpn10903)» 
 
 
 
@@ -2300,7 +2300,7 @@ Fai atu: Te Atua e lava i mea katoa, kae e seai se mea i lagi mo te lalolagi na 
 (Bahaiprayers.net ID: 10904)
 
 
-
+«[Tuvalu](../tvl/#bpn10904)» 
 
 
 
@@ -2315,7 +2315,7 @@ O te Atua, toku Atua! Koe ko toku Fakamoemoega mo taku Fagasele, taku Kiloga mo 
 (Bahaiprayers.net ID: 10905)
 
 
-
+«[Tuvalu](../tvl/#bpn10905)» 
 
 
 
@@ -2329,7 +2329,7 @@ O te Atua, toku Atua, Fakafonu aka mo au ate ipu o te motu mai i mea katoa, kae 
 (Bahaiprayers.net ID: 10906)
 
 
-
+«[Tuvalu](../tvl/#bpn10906)» 
 
 
 
@@ -2352,7 +2352,7 @@ Ko Koe ko te Foai Takutakua, ko te Fakamagalo-Katoatoa, ko te Atafai Tafasili i 
 (Bahaiprayers.net ID: 12244)
 
 
-
+«[Tuvalu](../tvl/#bpn12244)» 
 
 
 
@@ -2375,7 +2375,7 @@ E seai aka se Atua na ko Koe, ko te Mafi-Katoatoa, ko te Feasoasoani-iMea-Faigat
 (Bahaiprayers.net ID: 12245)
 
 
-
+«[Tuvalu](../tvl/#bpn12245)» 
 
 
 
@@ -2392,7 +2392,7 @@ E maalosi a Koe o fai a Tou fiafiaaga.  A Koe ko te tasi tokotasi Fagasele i te 
 (Bahaiprayers.net ID: 12246)
 
 
-
+«[Tuvalu](../tvl/#bpn12246)» 
 
 
 
@@ -2409,7 +2409,7 @@ E tonu a Koe ko te omotou Aliki mo te Aliki o mea katoa.  I Ou lima e nofo i ei 
 (Bahaiprayers.net ID: 12247)
 
 
-
+«[Tuvalu](../tvl/#bpn12247)» 
 
 
 
@@ -2426,7 +2426,7 @@ Tavaeega e Koe, O te Aliki toku Atua!  Tuku atu faka-alofalofa kia ia tenei ke f
 (Bahaiprayers.net ID: 10884)
 
 
-
+«[Tuvalu](../tvl/#bpn10884)» 
 
 
 
@@ -2438,7 +2438,7 @@ O Koe ko te Aliki e silia i sose tulaga!  Fakasaoloto aka a te pepe tenei ke fa-
 (Bahaiprayers.net ID: 10885)
 
 
-
+«[Tuvalu](../tvl/#bpn10885)» 
 
 
 
@@ -2450,7 +2450,7 @@ O te Atua!  Puti aka ate pepe tenei ite Tou alofa atafai, kae tuku atu kia ia at
 (Bahaiprayers.net ID: 10886)
 
 
-
+«[Tuvalu](../tvl/#bpn10886)» 
 
 
 
@@ -2466,7 +2466,7 @@ Vikiiga ia Koe, O te Aliki toku Atua!  Mea nei ko Tau tavini te la ko oti ne inu
 (Bahaiprayers.net ID: 12261)
 
 
-
+«[Tuvalu](../tvl/#bpn12261)» 
 
 
 
@@ -2480,7 +2480,7 @@ Ko Koe, i te tonuuga, ko te Mafi-Katoatoa, ko te Tafasili i te Maluga, ko te Fak
 (Bahaiprayers.net ID: 12262)
 
 
-
+«[Tuvalu](../tvl/#bpn12262)» 
 
 
 
@@ -2492,7 +2492,7 @@ O te Atua, toku Atua! Ko oti ne liakina ne au a toku fale, kae piki mmau au ki t
 (Bahaiprayers.net ID: 12263)
 
 
-
+«[Tuvalu](../tvl/#bpn12263)» 
 
 
 
@@ -2508,7 +2508,7 @@ Koe ko te la fanaka!  Koe e molimau ki te mea ko oti ne molimaugina ne te Atua k
 (Bahaiprayers.net ID: 12264)
 
 
-
+«[Tuvalu](../tvl/#bpn12264)» 
 
 
 
@@ -2523,7 +2523,7 @@ E seai aka se maalosi io me se mafi na ko te Atua, ko te Tafasili i te Maluga, k
 (Bahaiprayers.net ID: 12265)
 
 
-
+«[Tuvalu](../tvl/#bpn12265)» 
 
 
 
@@ -2539,7 +2539,7 @@ E tonu, a Koe ko te Aliki o mea faiite katoa.  E fakalava ne Koe a so se tino, k
 (Bahaiprayers.net ID: 12266)
 
 
-
+«[Tuvalu](../tvl/#bpn12266)» 
 
 
 
@@ -2560,7 +2560,7 @@ omotou ulu, i omotou fakaata-mai, i omotou sema, mai lalo i omotou vae mo so se 
 (Bahaiprayers.net ID: 12267)
 
 
-
+«[Tuvalu](../tvl/#bpn12267)» 
 
 
 
@@ -2572,7 +2572,7 @@ O te Atua, toku Atua!  Pui Au tavini faka-tuanakigina mai i te masei o te manatu
 (Bahaiprayers.net ID: 12268)
 
 
-
+«[Tuvalu](../tvl/#bpn12268)» 
 
 
 
@@ -2588,7 +2588,7 @@ E tonu, Koe ko te Puipui, ko te Fatama, ko te Tausi, ko te Lava ia Ia loa, kae e
 (Bahaiprayers.net ID: 12269)
 
 
-
+«[Tuvalu](../tvl/#bpn12269)» 
 
 
 
@@ -2611,7 +2611,7 @@ O Koe ko te Takitakiiga Atamai faka-te-lagi, tausi kae puipui mai matou! O Koe T
 (Bahaiprayers.net ID: 12270)
 
 
-
+«[Tuvalu](../tvl/#bpn12270)» 
 
 
 
@@ -2630,7 +2630,7 @@ A Koe, e tonu, ko te Aliki mo te Tupu o tagata katoa, kae e maalosi i luga i mea
 (Bahaiprayers.net ID: 12231)
 
 
-
+«[Tuvalu](../tvl/#bpn12231)» 
 
 
 
@@ -2649,7 +2649,7 @@ E seai aka foki se Atua na ko Koe, ko te Tokotasi, ko te Se-Fakatusagia, ko te I
 (Bahaiprayers.net ID: 12232)
 
 
-
+«[Tuvalu](../tvl/#bpn12232)» 
 
 
 
@@ -2665,7 +2665,7 @@ E seai se tino e faka-fanoanoa ne Koe tela ko oti ne sala atu kia Koe, io me e t
 (Bahaiprayers.net ID: 12233)
 
 
-
+«[Tuvalu](../tvl/#bpn12233)» 
 
 
 
@@ -2685,7 +2685,7 @@ Ona ko latou ne takitaki gia ne Koe, O toku Aliki, ki te vai ola o Tou alofakaim
 (Bahaiprayers.net ID: 12303)
 
 
-
+«[Tuvalu](../tvl/#bpn12303)» 
 
 
 
@@ -2703,7 +2703,7 @@ A Koe, e tonu, ko te Tafasili i te Maalosi, ko te Tafasili i te Maluga, ko te Il
 (Bahaiprayers.net ID: 12304)
 
 
-
+«[Tuvalu](../tvl/#bpn12304)» 
 
 
 
@@ -2721,7 +2721,7 @@ O toku Aliki!  E puke ne Koe a latou e piki ki te kafanoa o Tou alofa-kaimalie k
 (Bahaiprayers.net ID: 12305)
 
 
-
+«[Tuvalu](../tvl/#bpn12305)» 
 
 
 
@@ -2739,7 +2739,7 @@ Ko Koe, i te tonuuga, ko te Atua o te tupuola mo te maalosi, Te la e ttau o tali
 (Bahaiprayers.net ID: 12306)
 
 
-
+«[Tuvalu](../tvl/#bpn12306)» 
 
 
 
@@ -2755,7 +2755,7 @@ E tonu, e maalosi a Koe o fai a so se mea e manako Koe ki ei, kae I Ou lima e pu
 (Bahaiprayers.net ID: 12307)
 
 
-
+«[Tuvalu](../tvl/#bpn12307)» 
 
 
 
@@ -2769,7 +2769,7 @@ Koe e tonu, ko te Alofa, te Fakamagalo.
 (Bahaiprayers.net ID: 12308)
 
 
-
+«[Tuvalu](../tvl/#bpn12308)» 
 
 
 
@@ -2781,7 +2781,7 @@ O te Atua, toku Atua! Fesoasoani mai Koe ki Au tavini fakamaoni ke maua ia latou
 (Bahaiprayers.net ID: 12309)
 
 
-
+«[Tuvalu](../tvl/#bpn12309)» 
 
 
 
@@ -2799,7 +2799,7 @@ E tonu, a Koe ko Ia te la e fonufonu ite alofa-kaimalie.  E seai aka foki se Atu
 (Bahaiprayers.net ID: 12310)
 
 
-
+«[Tuvalu](../tvl/#bpn12310)» 
 
 
 
@@ -2815,7 +2815,7 @@ O te Atua!  Puipui mai au i tofotofoga.  E iloa tonu ne Koe ia au ko oti ne fuli
 (Bahaiprayers.net ID: 12311)
 
 
-
+«[Tuvalu](../tvl/#bpn12311)» 
 
 
 
@@ -2835,7 +2835,7 @@ O ko Koe ko te Aliki alofa!  Fai aka a te talavou tenei ke oko atu ki koga mea k
 (Bahaiprayers.net ID: 12360)
 
 
-
+«[Tuvalu](../tvl/#bpn12360)» 
 
 
 
@@ -2851,7 +2851,7 @@ Ko Koe a te Mafi mo te Maalosi; ko Koe a te Faka-eke mo te AlofaKatoatoa.
 (Bahaiprayers.net ID: 12361)
 
 
-
+«[Tuvalu](../tvl/#bpn12361)» 
 
 
 
@@ -2865,7 +2865,7 @@ Ko Koe ko te Fakaeke, ko te Alofa-Katoatoa.
 (Bahaiprayers.net ID: 12362)
 
 
-
+«[Tuvalu](../tvl/#bpn12362)» 
 
 
 
@@ -2877,7 +2877,7 @@ O te Aliki! Fai aka a te talavou tenei ke tupu ola, kae avatu a Tau fakamanuiaag
 (Bahaiprayers.net ID: 12363)
 
 
-
+«[Tuvalu](../tvl/#bpn12363)» 
 
 
 
@@ -2896,7 +2896,7 @@ Ko Koe ko te Maalosi-Katoatoa, ko te Matagofie-Katoatoa, ko te Tafasili i te Mal
 (Bahaiprayers.net ID: 12364)
 
 
-
+«[Tuvalu](../tvl/#bpn12364)» 
 
 
 
@@ -2941,7 +2941,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 10861)
 
 
-
+«[Tuvalu](../tvl/#bpn10861)» 
 
 
 
@@ -2966,7 +2966,7 @@ E seai aka se Atua na ko Koe, ko te Feasoasoani i Mea Faigata, ko te Ola-fua ia 
 (Bahaiprayers.net ID: 10860)
 
 
-
+«[Tuvalu](../tvl/#bpn10860)» 
 
 
 
@@ -3043,7 +3043,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 10862)
 
 
-
+«[Tuvalu](../tvl/#bpn10862)» 
 
 
 
@@ -3062,7 +3062,7 @@ E tonu, a Koe ko te Maalosi, ko Mafi mo te Maluga Silisiliese, a ko Koe kote Ata
 (Bahaiprayers.net ID: 12312)
 
 
-
+«[Tuvalu](../tvl/#bpn12312)» 
 
 
 
@@ -3079,7 +3079,7 @@ E tonu, a Koe ko te Fakammau o so se tino e manako Koe ki ei i mea ko la e manak
 (Bahaiprayers.net ID: 12313)
 
 
-
+«[Tuvalu](../tvl/#bpn12313)» 
 
 
 
@@ -3104,7 +3104,7 @@ E tonu, a Koe ko te Maalulu, ko te Maalosi, ko te Mafi, mo te Tafasili i te Kaim
 (Bahaiprayers.net ID: 12314)
 
 
-
+«[Tuvalu](../tvl/#bpn12314)» 
 
 
 
@@ -3147,7 +3147,7 @@ E toku a Koe ko te tafasili i te Atafai, ko te Aliki! o te alofa e seai ne tuako
 (Bahaiprayers.net ID: 12315)
 
 
-
+«[Tuvalu](../tvl/#bpn12315)» 
 
 
 
@@ -3175,7 +3175,7 @@ E tonu, a Koe ko te Maalosi, ko Mafi, ko te Atamai mo te Lavea.
 (Bahaiprayers.net ID: 12316)
 
 
-
+«[Tuvalu](../tvl/#bpn12316)» 
 
 
 
@@ -3193,7 +3193,7 @@ A Koe ko te Tafasili ite Maluga, ko Fakataunu o so se mea e manakogina ne Koe ki
 (Bahaiprayers.net ID: 12317)
 
 
-
+«[Tuvalu](../tvl/#bpn12317)» 
 
 
 
@@ -3212,7 +3212,7 @@ O te Aliki! Au e vaaivai, fakamaalosi aka au i te maalosi mot e mafi o Koe.  A t
 (Bahaiprayers.net ID: 12318)
 
 
-
+«[Tuvalu](../tvl/#bpn12318)» 
 
 
 
@@ -3229,7 +3229,7 @@ manumaalo i te faka-masikiiga o Tau Muna kae faka-mafai aka au ke faipati atu ki
 (Bahaiprayers.net ID: 12319)
 
 
-
+«[Tuvalu](../tvl/#bpn12319)» 
 
 
 
@@ -3247,7 +3247,7 @@ E tonu, a Koe ko te Maalosi-Katoatoa, ko te Tafasili i te Maluga, ko te Fakamaga
 (Bahaiprayers.net ID: 12320)
 
 
-
+«[Tuvalu](../tvl/#bpn12320)» 
 
 
 
@@ -3270,7 +3270,7 @@ E tonu, Koe ko te Maalosi, ko te Mafi, ko te Tafasili i te Maluga.
 (Bahaiprayers.net ID: 12321)
 
 
-
+«[Tuvalu](../tvl/#bpn12321)» 
 
 
 
@@ -3287,7 +3287,7 @@ O te Aliki, toku Atua! Mea nei se tamaliki ne vau i kanofi o se isi o Au tavini 
 (Bahaiprayers.net ID: 10873)
 
 
-
+«[Tuvalu](../tvl/#bpn10873)» 
 
 
 
@@ -3299,7 +3299,7 @@ O te Atua!  Akoako a tamaliki konei.  Tamaliki konei ko lakau o Tou laukele, ko 
 (Bahaiprayers.net ID: 10874)
 
 
-
+«[Tuvalu](../tvl/#bpn10874)» 
 
 
 
@@ -3312,7 +3312,7 @@ Au se tamaliki koi tupu aka.  Fagai mai au mai ite susu o Tou alofa kaimalie, ak
 (Bahaiprayers.net ID: 10875)
 
 
-
+«[Tuvalu](../tvl/#bpn10875)» 
 
 
 
@@ -3324,7 +3324,7 @@ O te Aliki Silisiliese! A Koe ke fi pela me se lafiiga mo te tamaliki se lava te
 (Bahaiprayers.net ID: 10876)
 
 
-
+«[Tuvalu](../tvl/#bpn10876)» 
 
 
 
@@ -3337,7 +3337,7 @@ O toku Atua! O toku Atua! E lavea ne Koe a tamaliki konei ko aka ote lakau ote o
 (Bahaiprayers.net ID: 10877)
 
 
-
+«[Tuvalu](../tvl/#bpn10877)» 
 
 
 
@@ -3350,7 +3350,7 @@ O te Aliki! Au se tamaliki; fai aka au ke tupu aka i lalo ote malu o Tou alofa-k
 (Bahaiprayers.net ID: 10878)
 
 
-
+«[Tuvalu](../tvl/#bpn10878)» 
 
 
 
@@ -3362,7 +3362,7 @@ O Koe ko te toe Aliki matagofie!  Fai aka ate tavini fafine foliki a Koe tenei k
 (Bahaiprayers.net ID: 10879)
 
 
-
+«[Tuvalu](../tvl/#bpn10879)» 
 
 
 
@@ -3375,7 +3375,7 @@ O ko Koe ko te Aliki alofa! A tamaliki gali konei ko fakafuaga o maikao o Tou ma
 (Bahaiprayers.net ID: 10880)
 
 
-
+«[Tuvalu](../tvl/#bpn10880)» 
 
 
 
@@ -3389,7 +3389,7 @@ O te Aliki!  Fai aka tamaliki konei ke pe la me ne lakau ola lei.  Fai latou ke 
 (Bahaiprayers.net ID: 10881)
 
 
-
+«[Tuvalu](../tvl/#bpn10881)» 
 
 
 
@@ -3401,7 +3401,7 @@ A Ia kote Atua! O te Atua, toku Atua!  Tuku mai kia au ate loto maa, ke pela me 
 (Bahaiprayers.net ID: 10882)
 
 
-
+«[Tuvalu](../tvl/#bpn10882)» 
 
 
 
@@ -3413,7 +3413,7 @@ O te Atua, takitaki mai au, puipui mai au, fakamaina mai au pela me se lamepa ma
 (Bahaiprayers.net ID: 10883)
 
 
-
+«[Tuvalu](../tvl/#bpn10883)» 
 
 
 
@@ -3445,7 +3445,7 @@ E tonu , a Ia ko te Atua, ko te Atafai. Tavaeega ki te Atua, ko te Aliki o lalol
 (Bahaiprayers.net ID: 10980)
 
 
-
+«[Tuvalu](../tvl/#bpn10980)» 
 
 
 
@@ -3579,7 +3579,7 @@ Ke fakamana kae malu ki te motou Aliki, ko te Tafasili i te Maluga!
 (Bahaiprayers.net ID: 10982)
 
 
-
+«[Tuvalu](../tvl/#bpn10982)» 
 
 
 
@@ -3645,7 +3645,7 @@ A tavini katoa ka faitau kae mafaufau ki te mea tenei, ka maua ne kalokalo afi i
 (Bahaiprayers.net ID: 10981)
 
 
-
+«[Tuvalu](../tvl/#bpn10981)» 
 
 
 
@@ -3669,7 +3669,7 @@ Ko vikiiga ne tafe mai i Tou Afio tafasili i te malu, mo te matagofie e sulu mai
 (Bahaiprayers.net ID: 10983)
 
 
-
+«[Tuvalu](../tvl/#bpn10983)» 
 
 
 
@@ -3692,7 +3692,7 @@ A Ia ko te Silisiliese-Katoatoa!
 (Bahaiprayers.net ID: 10984)
 
 
-
+«[Tuvalu](../tvl/#bpn10984)» 
 
 
 
@@ -3713,7 +3713,7 @@ E tavaeegina a Koe, O toku Atua. Ona ko oti ne  fakatonu mai ne Koe ko Naw-Ruz k
 (Bahaiprayers.net ID: 10971)
 
 
-
+«[Tuvalu](../tvl/#bpn10971)» 
 
 
 
@@ -3731,7 +3731,7 @@ Fakamaina, O te Aliki, a mata o Au tavini, ko te mea ke kite ne latou a Koe, kae
 (Bahaiprayers.net ID: 12248)
 
 
-
+«[Tuvalu](../tvl/#bpn12248)» 
 
 
 
@@ -3745,7 +3745,7 @@ A Koe ko te Mafi-Katoatoa, ko Tafasili ite Maluga, ko te Faka-aloalogina Katoato
 (Bahaiprayers.net ID: 12249)
 
 
-
+«[Tuvalu](../tvl/#bpn12249)» 
 
 
 
@@ -3760,7 +3760,7 @@ te Maluga.
 (Bahaiprayers.net ID: 12250)
 
 
-
+«[Tuvalu](../tvl/#bpn12250)» 
 
 
 
@@ -3780,7 +3780,7 @@ Ko te matagofie e iluga ia Koe, ko Koe e maluga atu mai i luga i sose fakamatala
 (Bahaiprayers.net ID: 12251)
 
 
-
+«[Tuvalu](../tvl/#bpn12251)» 
 
 
 
@@ -3797,7 +3797,7 @@ E seai aka se Atua na ko Koe, ko te Fatama, ko te Ola-ia-Ia loa.
 (Bahaiprayers.net ID: 12271)
 
 
-
+«[Tuvalu](../tvl/#bpn12271)» 
 
 
 
@@ -3816,7 +3816,7 @@ Koe, e tonu, ko te Mafi-Katoatoa, ko te Tafasili i te Maluga, ko te IloaKatoatoa
 (Bahaiprayers.net ID: 12272)
 
 
-
+«[Tuvalu](../tvl/#bpn12272)» 
 
 
 
@@ -3831,7 +3831,7 @@ E maalosi Koe o fai a te mea e manako Koe ki ei.  Seai se Atua na ko Koe, ko te 
 (Bahaiprayers.net ID: 12273)
 
 
-
+«[Tuvalu](../tvl/#bpn12273)» 
 
 
 
@@ -3846,7 +3846,7 @@ E tonu ko Koe ko ti ne fai a mea tupu lasi konei ke aumai o olo ko latou ko la e
 (Bahaiprayers.net ID: 12274)
 
 
-
+«[Tuvalu](../tvl/#bpn12274)» 
 
 
 
@@ -3864,7 +3864,7 @@ E seai aka se maalosi io mese mafi na ko te Atua, ko te Tafasili i te Maluga, ko
 (Bahaiprayers.net ID: 12275)
 
 
-
+«[Tuvalu](../tvl/#bpn12275)» 
 
 
 
@@ -3876,7 +3876,7 @@ O te Atamai Kilo-mao Faka-te-Lagi!  Avaka ki gutu o Au fagasele a te ipu fonu i 
 (Bahaiprayers.net ID: 12276)
 
 
-
+«[Tuvalu](../tvl/#bpn12276)» 
 
 
 
@@ -3896,7 +3896,7 @@ Mea nei, O Toku Atua, ko aso muamua ko la ko oti ne fai mai ne Koe ki Au fagasel
 (Bahaiprayers.net ID: 10960)
 
 
-
+«[Tuvalu](../tvl/#bpn10960)» 
 
 
 
@@ -3908,7 +3908,7 @@ I te Igoa o Ia Te la ko oti ne feagaiiga mai i Tusi ate Atua, te Iloa-Katoatoa, 
 (Bahaiprayers.net ID: 10961)
 
 
-
+«[Tuvalu](../tvl/#bpn10961)» 
 
 
 
@@ -3933,7 +3933,7 @@ Au e akai totuli kia Koe, O toku Atua, ona ko Tau Fakailoga mafi, mo te fakaasii
 (Bahaiprayers.net ID: 10962)
 
 
-
+«[Tuvalu](../tvl/#bpn10962)» 
 
 
 
@@ -3948,7 +3948,7 @@ Ke Tavaegina Koe, O te Aliki toku Atua! Au e akai faka-maulalo kia Koe i te Faka
 (Bahaiprayers.net ID: 10963)
 
 
-
+«[Tuvalu](../tvl/#bpn10963)» 
 
 
 
@@ -3968,7 +3968,7 @@ Mea nei, O toku Atua, ko aso ko la ko oti ne fakatonu mai ne Koe ko Au tavini ke
 (Bahaiprayers.net ID: 10964)
 
 
-
+«[Tuvalu](../tvl/#bpn10964)» 
 
 
 
@@ -3992,7 +3992,7 @@ Te Matagofie ea ia Koe, O te Aliki toku Atua!   Mea nei ko aso ko la ko oti ne f
 (Bahaiprayers.net ID: 10965)
 
 
-
+«[Tuvalu](../tvl/#bpn10965)» 
 
 
 
@@ -4004,7 +4004,7 @@ Tavaeega e i luga ia Koe, O te Aliki toku Atua! Ko oti ne tautali matou ki te An
 (Bahaiprayers.net ID: 10966)
 
 
-
+«[Tuvalu](../tvl/#bpn10966)» 
 
 
 
@@ -4016,7 +4016,7 @@ Tavaeega kia Koe, O te Atua, toku Atua! Mea nei ko aso ko la ko oti ne fakasino 
 (Bahaiprayers.net ID: 10967)
 
 
-
+«[Tuvalu](../tvl/#bpn10967)» 
 
 
 
@@ -4028,7 +4028,7 @@ O toku Atua mo toku Matai!  E lavea ne Koe au i vasia o Au mea faiite ko la ne t
 (Bahaiprayers.net ID: 10968)
 
 
-
+«[Tuvalu](../tvl/#bpn10968)» 
 
 
 
@@ -4058,7 +4058,7 @@ Tau fakaasiiga i Tau Tusi tafasili i te maina.  Ko oti ne taofi a motou agaaga o
 (Bahaiprayers.net ID: 10969)
 
 
-
+«[Tuvalu](../tvl/#bpn10969)» 
 
 
 
@@ -4076,7 +4076,7 @@ Ko Koe, e tonu, kote Tupu o tagata katoa.  E seai aka foki se Atua na ko Koe, ko
 (Bahaiprayers.net ID: 10863)
 
 
-
+«[Tuvalu](../tvl/#bpn10863)» 
 
 
 
@@ -4090,7 +4090,7 @@ O te Kiloga Faka-te-Lagi!  A te foafoaaga katoa e mutana atu i te lauefa o Tou m
 (Bahaiprayers.net ID: 10864)
 
 
-
+«[Tuvalu](../tvl/#bpn10864)» 
 
 
 
@@ -4105,7 +4105,7 @@ E vikia Tou Igoa, O te Aliki te motou Atua!  A Koe i te tonuuga ko te Iloa o mea
 (Bahaiprayers.net ID: 10865)
 
 
-
+«[Tuvalu](../tvl/#bpn10865)» 
 
 
 
@@ -4117,7 +4117,7 @@ O toku Atua, toku Aliki mo toku Matai! Ko oti au ne motu mai ia latou ko la e pi
 (Bahaiprayers.net ID: 10866)
 
 
-
+«[Tuvalu](../tvl/#bpn10866)» 
 
 
 
@@ -4131,7 +4131,7 @@ Te Aliki! Matou e faka-alofa, faka-mealofa mai matou i Ou alofaaga; mativa, tuku
 (Bahaiprayers.net ID: 10867)
 
 
-
+«[Tuvalu](../tvl/#bpn10867)» 
 
 
 
@@ -4144,7 +4144,7 @@ O Koe ko te Aliki alofa! Matou ko Au tavini i Tou Auala, e lafi i Tou Mataloa ma
 (Bahaiprayers.net ID: 10868)
 
 
-
+«[Tuvalu](../tvl/#bpn10868)» 
 
 
 
@@ -4158,7 +4158,7 @@ Se avea keatea, O te Aliki, a te epa fiafia tenei ko fola i Tou Igoa, kae se tam
 (Bahaiprayers.net ID: 10869)
 
 
-
+«[Tuvalu](../tvl/#bpn10869)» 
 
 
 
@@ -4177,7 +4177,7 @@ O te Atua, toku Atua!  Fakamaina a fulumata o Au fagasele tonu, kae lago a latou
 (Bahaiprayers.net ID: 10934)
 
 
-
+«[Tuvalu](../tvl/#bpn10934)» 
 
 
 
@@ -4195,7 +4195,7 @@ Toku Atua Tela e tapuaki kae ifo ne au!  E molimau au ki Tou tafatasi mo Tou fak
 (Bahaiprayers.net ID: 10954)
 
 
-
+«[Tuvalu](../tvl/#bpn10954)» 
 
 
 
@@ -4207,7 +4207,7 @@ O ko Koe a te Aliki kilo-alofa, ko Koe Tela e kaimalie kae fai mea mafai!  Matou
 (Bahaiprayers.net ID: 10955)
 
 
-
+«[Tuvalu](../tvl/#bpn10955)» 
 
 
 
@@ -4219,7 +4219,7 @@ O ko Koe ko te Aliki alofa!  O ko Koe tela e alofa kae kaimalie!  Matou ko tavin
 (Bahaiprayers.net ID: 10956)
 
 
-
+«[Tuvalu](../tvl/#bpn10956)» 
 
 
 
@@ -4233,7 +4233,7 @@ O te Atua, O ko Koe Tela ne tuku atu a Tou gali ki luga i te mainaaga o te tina 
 (Bahaiprayers.net ID: 10957)
 
 
-
+«[Tuvalu](../tvl/#bpn10957)» 
 
 
 
@@ -4253,7 +4253,7 @@ Au e akai fakamolemole kia Koe, i Tou Igoa Tafasili i te Takutakua, mo Tou nofoa
 (Bahaiprayers.net ID: 12330)
 
 
-
+«[Tuvalu](../tvl/#bpn12330)» 
 
 
 
@@ -4269,7 +4269,7 @@ Ko Koe, e tonu, ko te Mafi-Katoatoa, ko te tafasili i te Maluga, ko te Matagofie
 (Bahaiprayers.net ID: 12331)
 
 
-
+«[Tuvalu](../tvl/#bpn12331)» 
 
 
 
@@ -4285,7 +4285,7 @@ Faka-aloalogina a Tou igoa, ko Koe Tela a Tou lima ko maalo o te lalolagi mo te 
 (Bahaiprayers.net ID: 12332)
 
 
-
+«[Tuvalu](../tvl/#bpn12332)» 
 
 
 
@@ -4309,7 +4309,7 @@ Faka-manuia aka ne Koe, O te Aliki toku Atua, a Tokotasi ko Ia Tela a mea funa o
 (Bahaiprayers.net ID: 12333)
 
 
-
+«[Tuvalu](../tvl/#bpn12333)» 
 
 
 
@@ -4329,7 +4329,7 @@ A Koe, e tonu, ko te Atua o te maalosi, ko te Atua o te matagofie, ko te Atua o 
 (Bahaiprayers.net ID: 12334)
 
 
-
+«[Tuvalu](../tvl/#bpn12334)» 
 
 
 
@@ -4342,7 +4342,7 @@ Mai i mua o te kalauna-a-tupu o Tou tafatasi, i te vasia o te ulaaga o te gali o
 (Bahaiprayers.net ID: 12335)
 
 
-
+«[Tuvalu](../tvl/#bpn12335)» 
 
 
 
@@ -4358,7 +4358,7 @@ Ko Koe ko Au tofotofoga ko vailakau fakagata masaki mo latou ko la e pili atu ki
 (Bahaiprayers.net ID: 12322)
 
 
-
+«[Tuvalu](../tvl/#bpn12322)» 
 
 
 
@@ -4376,7 +4376,7 @@ E maalosi Koe o fai a te mea e fiafia Koe ki ei.  Seai se Atua na ko Koe, te Fes
 (Bahaiprayers.net ID: 12323)
 
 
-
+«[Tuvalu](../tvl/#bpn12323)» 
 
 
 
@@ -4393,7 +4393,7 @@ tali.
 (Bahaiprayers.net ID: 12324)
 
 
-
+«[Tuvalu](../tvl/#bpn12324)» 
 
 
 
@@ -4407,7 +4407,7 @@ Fai aka au, tena, ke fuli atu katoatoa kia Koe, ke tuku a toku talitonu kia Koe,
 (Bahaiprayers.net ID: 12325)
 
 
-
+«[Tuvalu](../tvl/#bpn12325)» 
 
 
 
@@ -4419,7 +4419,7 @@ E isi e Ave ne Ia a mea faigata na ko te Atua?  Fai atu: Vikia a te Atua! A Ia k
 (Bahaiprayers.net ID: 12326)
 
 
-
+«[Tuvalu](../tvl/#bpn12326)» 
 
 
 
@@ -4440,7 +4440,7 @@ E maluga kii a Koe, O te Aliki o lagi mo te lalolagi, mai i luga atu o tavaeega 
 (Bahaiprayers.net ID: 12327)
 
 
-
+«[Tuvalu](../tvl/#bpn12327)» 
 
 
 
@@ -4452,7 +4452,7 @@ Au e fakasaga tonu kia Koe ona ko Tou mafi, O toku Atua!  Ke aunoa se faigata e 
 (Bahaiprayers.net ID: 12328)
 
 
-
+«[Tuvalu](../tvl/#bpn12328)» 
 
 
 
@@ -4464,7 +4464,7 @@ O te Aliki! Koe ko te Ave-Keatea o so se tigaina mo te Fakaseai o so se pokotiaa
 (Bahaiprayers.net ID: 12329)
 
 
-
+«[Tuvalu](../tvl/#bpn12329)» 
 
 
 
@@ -4484,7 +4484,7 @@ E maalosi Koe o fai ate mea e fiafia Koe ki ei.  Ko Koe, e tonu, ko te Tafasili 
 (Bahaiprayers.net ID: 12279)
 
 
-
+«[Tuvalu](../tvl/#bpn12279)» 
 
 
 
@@ -4496,7 +4496,7 @@ Faiite aka ia au a te loto e maa takalekale, O toku Atua, kae fakafoou se mafauf
 (Bahaiprayers.net ID: 12280)
 
 
-
+«[Tuvalu](../tvl/#bpn12280)» 
 
 
 
@@ -4512,7 +4512,7 @@ Te Aliki!  Sa fuli mai au keatea mai i te vasa o Tou maumea mo te lagi o Tou alo
 (Bahaiprayers.net ID: 12281)
 
 
-
+«[Tuvalu](../tvl/#bpn12281)» 
 
 
 
@@ -4526,7 +4526,7 @@ Koe e, tonu, ko te Mafi-Katoatoa, ko te Alofa-katoatoa, ko te Tafasili i te Maal
 (Bahaiprayers.net ID: 12282)
 
 
-
+«[Tuvalu](../tvl/#bpn12282)» 
 
 
 
@@ -4542,7 +4542,7 @@ Fai aka a te tavini tenei, au e akai faka-molemole atu kia Koe, ke faka-mafai ak
 (Bahaiprayers.net ID: 12283)
 
 
-
+«[Tuvalu](../tvl/#bpn12283)» 
 
 
 
@@ -4564,7 +4564,7 @@ A Koe e tonu ko te Mafi-Katoatoa, ko te Fakamagalo, ko te Atafai.
 (Bahaiprayers.net ID: 12284)
 
 
-
+«[Tuvalu](../tvl/#bpn12284)» 
 
 
 
@@ -4582,7 +4582,7 @@ E tavaegia a te Atua, ko te Aliki o lalolagi.
 (Bahaiprayers.net ID: 12285)
 
 
-
+«[Tuvalu](../tvl/#bpn12285)» 
 
 
 
@@ -4594,7 +4594,7 @@ Au e akai faka-maulalo kia Koe, O toku Atua, mo te matagofie lasi o Tou Igoa, o 
 (Bahaiprayers.net ID: 12286)
 
 
-
+«[Tuvalu](../tvl/#bpn12286)» 
 
 
 
@@ -4613,7 +4613,7 @@ E tonu kafai a Koe e manako o fakaeke a faka-manuiaaga ki luga i se tavini ka fa
 (Bahaiprayers.net ID: 12287)
 
 
-
+«[Tuvalu](../tvl/#bpn12287)» 
 
 
 
@@ -4628,7 +4628,7 @@ O te Atua!  A Koe e taugasoa atu kia au iloo au kia au loa.  Ka saga tonu atu au
 (Bahaiprayers.net ID: 12288)
 
 
-
+«[Tuvalu](../tvl/#bpn12288)» 
 
 
 
@@ -4646,7 +4646,7 @@ E tonu, a Koe ko te alofa-fakamagalo kae, e tonu, a Koe ko e Tafasili ite Alofa-
 (Bahaiprayers.net ID: 12289)
 
 
-
+«[Tuvalu](../tvl/#bpn12289)» 
 
 
 
@@ -4658,7 +4658,7 @@ O toku Aliki! O toku Aiki! Mea nei se lamepa ne faka kaa ne te afi o Tou alofa a
 (Bahaiprayers.net ID: 12290)
 
 
-
+«[Tuvalu](../tvl/#bpn12290)» 
 
 
 
@@ -4672,7 +4672,7 @@ E tonu, a Koe ko te Tafasili ite Kaimalie, ko te Aliki o te alofa-lasi.  E seai 
 (Bahaiprayers.net ID: 12291)
 
 
-
+«[Tuvalu](../tvl/#bpn12291)» 
 
 
 
@@ -4687,7 +4687,7 @@ A Koe, e tonu, ko te Mafi, ko te Maluga, ko te Maalosi, ko Ia tokotasi Tela, i l
 (Bahaiprayers.net ID: 12292)
 
 
-
+«[Tuvalu](../tvl/#bpn12292)» 
 
 
 
@@ -4704,7 +4704,7 @@ fai-feagaiiga mai, O te Aava mo te Kaimalie Tokotasi!  Koe, e tonu, ko te Llei m
 (Bahaiprayers.net ID: 12293)
 
 
-
+«[Tuvalu](../tvl/#bpn12293)» 
 
 
 
@@ -4722,7 +4722,7 @@ Koe ko te Mafi, ko te Maalosi, mo Koe ko te Atua o te maalosi, ko te SiliKatoato
 (Bahaiprayers.net ID: 12294)
 
 
-
+«[Tuvalu](../tvl/#bpn12294)» 
 
 
 
@@ -4784,7 +4784,7 @@ A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakam
 (Bahaiprayers.net ID: 10953)
 
 
-
+«[Tuvalu](../tvl/#bpn10953)» 
 
 
 
@@ -4803,7 +4803,7 @@ Te Matagofie e a Koe, O toku Atua!  A gasuesuenga muamua loa o te vasia taimi te
 (Bahaiprayers.net ID: 10907)
 
 
-
+«[Tuvalu](../tvl/#bpn10907)» 
 
 
 
@@ -4816,7 +4816,7 @@ E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola 
 (Bahaiprayers.net ID: 10908)
 
 
-
+«[Tuvalu](../tvl/#bpn10908)» 
 
 
 
@@ -4834,7 +4834,7 @@ E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola 
 (Bahaiprayers.net ID: 10912)
 
 
-
+«[Tuvalu](../tvl/#bpn10912)» 
 
 
 
@@ -4853,7 +4853,7 @@ Te matagofie e o Koe, O te Aliki toku a Atua!  Au e akai atu kia Koe i Tou Igoa 
 (Bahaiprayers.net ID: 10951)
 
 
-
+«[Tuvalu](../tvl/#bpn10951)» 
 
 
 
@@ -4866,7 +4866,7 @@ O toku Atua, O te Fakamagalo o agasala mo te Ave-Keatea o mea faigata! O ko Koe 
 (Bahaiprayers.net ID: 10893)
 
 
-
+«[Tuvalu](../tvl/#bpn10893)» 
 
 
 
@@ -4880,7 +4880,7 @@ Fakaeke atu ki luga i Tau tavini fafine faka-te-lagi, O te Atua, a manogi mana k
 (Bahaiprayers.net ID: 10894)
 
 
-
+«[Tuvalu](../tvl/#bpn10894)» 
 
 
 
@@ -4894,7 +4894,7 @@ O Koe te Aliki Alofa!  A tau tavini fafine faka-alofa ne manako kia Koe, kae mai
 (Bahaiprayers.net ID: 10895)
 
 
-
+«[Tuvalu](../tvl/#bpn10895)» 
 
 
 
@@ -4912,7 +4912,7 @@ Au e akai kia Koe, tena la, mai i Tou igoa tela ne fakaasi ne Koe a Tou Atua-lag
 (Bahaiprayers.net ID: 10952)
 
 
-
+«[Tuvalu](../tvl/#bpn10952)» 
 
 
 

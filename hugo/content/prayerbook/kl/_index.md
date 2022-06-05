@@ -102,7 +102,7 @@ Qinnuigaakkit, Illit-aa pinngortitap suulluunniit Naalagaa, ersitsup ersinngitsu
 (Bahaiprayers.net ID: 7020)
 
 
-
+«[Kalaallisut](../kl/#bpn7020)» 
 
 
 
@@ -114,7 +114,7 @@ Naalagara, Guutiga! Asasatit ikiukkit Illit Upperisanni qularunnaartillugit, Siu
 (Bahaiprayers.net ID: 7021)
 
 
-
+«[Kalaallisut](../kl/#bpn7021)» 
 
 
 
@@ -160,7 +160,7 @@ Ilumut, Taanna Naakkinnittuuvoq, Misiginneqataasoq. Guuti naalannarsili, silarsu
 (Bahaiprayers.net ID: 7610)
 
 
-
+«[Kalaallisut](../kl/#bpn7610)» 
 
 
 
@@ -176,7 +176,7 @@ Allanik Guutiunngitsumik ajornartorsiutinut ajugaasinnaasoqarnerluni? Oqarit: Gu
 (Bahaiprayers.net ID: 7022)
 
 
-
+«[Kalaallisut](../kl/#bpn7022)» 
 
 
 
@@ -188,7 +188,7 @@ Oqarit: Guuti tamanut naammattuuvoq tamanit, qilanni tamanit nunamiluunniit tama
 (Bahaiprayers.net ID: 7023)
 
 
-
+«[Kalaallisut](../kl/#bpn7023)» 
 
 
 
@@ -200,7 +200,7 @@ Pissaanerit pillugu qinnuigaakkit Guutiga-aa! Misilinneqarfiit nalaanni ajoquseq
 (Bahaiprayers.net ID: 7024)
 
 
-
+«[Kalaallisut](../kl/#bpn7024)» 
 
 
 
@@ -212,7 +212,7 @@ Naalagaq-aa! Tassaavutit anniaatinik tamanik Qimagutsitsisoq naalliuutinillu Pee
 (Bahaiprayers.net ID: 7025)
 
 
-
+«[Kalaallisut](../kl/#bpn7025)» 
 
 
 
@@ -226,7 +226,7 @@ Killeqanngitsumik Naalannarsingaarit, Illit-aa qilaat nunallu Naalagaa, inuit ta
 (Bahaiprayers.net ID: 7026)
 
 
-
+«[Kalaallisut](../kl/#bpn7026)» 
 
 
 
@@ -239,7 +239,7 @@ Kiffat una nammineersinnaanngissutsit qilarsugaat, kajumissuseqalersimasoq, Ille
 (Bahaiprayers.net ID: 7040)
 
 
-
+«[Kalaallisut](../kl/#bpn7040)» 
 
 
 
@@ -260,7 +260,7 @@ Ilumut tassaavutit Saammaassisoq, Iluartoq, Pissarsuaq Ajugaqanngitsoq.
 (Bahaiprayers.net ID: 7041)
 
 
-
+«[Kalaallisut](../kl/#bpn7041)» 
 
 
 
@@ -276,7 +276,7 @@ Aqqit katsorsaatigaara Guutiga-aa, Ilinnik eqqaamanninneq uannut katsorsaataavoq
 (Bahaiprayers.net ID: 7019)
 
 
-
+«[Kalaallisut](../kl/#bpn7019)» 
 
 
 
@@ -382,7 +382,7 @@ Illit ilumoortumik tassaavutit Pissaaneqarluartoq, taanna Tamanik-Naammassinnitt
 (Bahaiprayers.net ID: 8372)
 
 
-
+«[Kalaallisut](../kl/#bpn8372)» 
 
 
 
@@ -401,7 +401,7 @@ Guuti-aa, Guutiga! Tassaavugut kiffatit Kiinnannut Illernartumut tunniusimalluti
 (Bahaiprayers.net ID: 12570)
 
 
-
+«[Kalaallisut](../kl/#bpn12570)» 
 
 
 
@@ -422,7 +422,7 @@ Ilumut, Tunisisuuvutit, Naakkinnittoq. Tukkussutsimik angingaartumik piginnittoq
 (Bahaiprayers.net ID: 12571)
 
 
-
+«[Kalaallisut](../kl/#bpn12571)» 
 
 
 
@@ -438,7 +438,7 @@ Naalagara! Kusanassutsit inuussutigilara Qanissutsillu imeruersaatigalugu; Iluar
 (Bahaiprayers.net ID: 7018)
 
 
-
+«[Kalaallisut](../kl/#bpn7018)» 
 
 
 
@@ -454,7 +454,7 @@ Inuunerup nuanniitsortai uninngaffigeqqikkumanngilakka. Guuti-aa, Illimmi uannil
 (Bahaiprayers.net ID: 6863)
 
 
-
+«[Kalaallisut](../kl/#bpn6863)» 
 
 
 
@@ -472,7 +472,7 @@ Naalagaq! Makku tassaapput kiffat Illit Angerusernut Kingornussassarisarnullu aa
 (Bahaiprayers.net ID: 7017)
 
 
-
+«[Kalaallisut](../kl/#bpn7017)» 
 
 
 
@@ -492,7 +492,7 @@ aalajangeriikkamik taarsiivigalugit, qularnaatsumillu akilikkit. Ilumoortumik Ta
 (Bahaiprayers.net ID: 9114)
 
 
-
+«[Kalaallisut](../kl/#bpn9114)» 
 
 
 
@@ -508,7 +508,7 @@ Guutiga! Guutiga! Kiffavit uummataat peqatigiilersikkit Anguniakkavillu pissaasu
 (Bahaiprayers.net ID: 7255)
 
 
-
+«[Kalaallisut](../kl/#bpn7255)» 
 
 
 
@@ -526,7 +526,7 @@ Ilumut, tassaavutit Ajugaqanngitsoq, Imminut napatittoq, Tunisisoq, Isumakkeerfi
 (Bahaiprayers.net ID: 7256)
 
 
-
+«[Kalaallisut](../kl/#bpn7256)» 
 
 
 
@@ -544,7 +544,7 @@ Torlorfigaakkit Illit namminiussutsikkut Tassuunalu Illit qanoq ittuuninnik Saqq
 (Bahaiprayers.net ID: 12579)
 
 
-
+«[Kalaallisut](../kl/#bpn12579)» 
 
 
 
@@ -560,7 +560,7 @@ Guuti-aa! Isumassuininnik pilluaqqutigut. Illit tassaavutit Pissaaneqarluartoq. 
 (Bahaiprayers.net ID: 12572)
 
 
-
+«[Kalaallisut](../kl/#bpn12572)» 
 
 
 
@@ -576,7 +576,7 @@ Pissaneqaqaatit! Nakooqaatit. Illit tassa Tunisisoq, Soraajuitsumillu Tukkortuuv
 (Bahaiprayers.net ID: 12573)
 
 
-
+«[Kalaallisut](../kl/#bpn12573)» 
 
 
 
@@ -588,7 +588,7 @@ Guutiga-aa! Guutiga-aa! Ilumut uku kiffatit Ilinnut saapput nallittuinerpillu na
 (Bahaiprayers.net ID: 12574)
 
 
-
+«[Kalaallisut](../kl/#bpn12574)» 
 
 
 
@@ -705,7 +705,7 @@ Kiffat tamarmik manna atuassagaluarpassuk eqqarsaatigilluarlugulu, taava taqaann
 (Bahaiprayers.net ID: 9984)
 
 
-
+«[Kalaallisut](../kl/#bpn9984)» 
 
 
 
@@ -730,7 +730,7 @@ Ilumut Illit tassaavutit Pissaaneqartoq, Pissaasoq Ajugaqanngitsorlu.
 (Bahaiprayers.net ID: 12867)
 
 
-
+«[Kalaallisut](../kl/#bpn12867)» 
 
 
 
@@ -750,7 +750,7 @@ Ilumoortumik Illit Ajugaqanngitsuuvutit, Tamanit Nersornarnerusoq, Soraajuitsumi
 (Bahaiprayers.net ID: 6864)
 
 
-
+«[Kalaallisut](../kl/#bpn6864)» 
 
 
 
@@ -794,7 +794,7 @@ Qinnuigaakkit Illit, Naalagara-aa, Ilikkut namminikkut Illillu nalunaaqqutikkut 
 (Bahaiprayers.net ID: 9979)
 
 
-
+«[Kalaallisut](../kl/#bpn9979)» 
 
 
 
@@ -830,7 +830,7 @@ Pissaaneqarputit Illit iluarisat malillugu iliuuseqarsinnaanissamut. Allamik Guu
 (Bahaiprayers.net ID: 9981)
 
 
-
+«[Kalaallisut](../kl/#bpn9981)» 
 
 
 
@@ -856,7 +856,7 @@ Siunertat ajugaagajuttunngortiguk, Naalagara-aa, Illillu akeqqatit nikanartikkit
 (Bahaiprayers.net ID: 9980)
 
 
-
+«[Kalaallisut](../kl/#bpn9980)» 
 
 
 
@@ -868,7 +868,7 @@ Guuti-aa! Timip piumasai qimallugit iisinnginniartillunga nerinermik imernermill
 (Bahaiprayers.net ID: 9982)
 
 
-
+«[Kalaallisut](../kl/#bpn9982)» 
 
 
 
@@ -884,7 +884,7 @@ Guutiga, Qinnuiga, Naalagara, Maqaasisara! Oqqap suup Ilinnut qujaniarnera oqaat
 (Bahaiprayers.net ID: 7257)
 
 
-
+«[Kalaallisut](../kl/#bpn7257)» 
 
 
 
@@ -901,7 +901,7 @@ Naalagara-aa! Ilinnut pigisassanngortippara maanna uppatinniittoq. Qanortoq tass
 (Bahaiprayers.net ID: 7258)
 
 
-
+«[Kalaallisut](../kl/#bpn7258)» 
 
 
 
@@ -918,7 +918,7 @@ Guutiga-aa! Angerlarsimaffinnut inoqutigiit Upperisannik akuersaarsimasinnut Tuk
 (Bahaiprayers.net ID: 7259)
 
 
-
+«[Kalaallisut](../kl/#bpn7259)» 
 
 
 
@@ -931,7 +931,7 @@ Ilumut Tunisisuuvutit, Isumakkeerisoq Asannittorlu.
 (Bahaiprayers.net ID: 7260)
 
 
-
+«[Kalaallisut](../kl/#bpn7260)» 
 
 
 
@@ -950,7 +950,7 @@ Ilumut, Illit tassaavutit Erlinnartoq, Tamanik Tunisiuartoq, Assaa Isuissimasoq.
 (Bahaiprayers.net ID: 7261)
 
 
-
+«[Kalaallisut](../kl/#bpn7261)» 
 
 
 
@@ -966,7 +966,7 @@ Guutiga! Qinnuigaakkit atikkut qaammarinnersaasukkut ikioqqullunga kiffavit suli
 (Bahaiprayers.net ID: 7262)
 
 
-
+«[Kalaallisut](../kl/#bpn7262)» 
 
 
 
@@ -981,7 +981,7 @@ Ilumut Illit pissaanerup piginnaanerullu Guuteraatit, Tassaasoq qinusumik Akisus
 (Bahaiprayers.net ID: 7263)
 
 
-
+«[Kalaallisut](../kl/#bpn7263)» 
 
 
 
@@ -999,7 +999,7 @@ Allamik Guuteqanngilaq taamaallaat Illit, Tamanik Ilisimasalik, Tamanik Ilisimas
 (Bahaiprayers.net ID: 12580)
 
 
-
+«[Kalaallisut](../kl/#bpn12580)» 
 
 
 
@@ -1011,7 +1011,7 @@ Guutiga-aa, Illit Kiffat Oqaatsip qullartinnissaanut ikioruk, pisuusaarnerup per
 (Bahaiprayers.net ID: 7264)
 
 
-
+«[Kalaallisut](../kl/#bpn7264)» 
 
 
 
@@ -1023,7 +1023,7 @@ Guuti-aa, Guutiga! Kiffatit tatigisatit sallaatsumik asannittumillu uummateqaqqu
 (Bahaiprayers.net ID: 7265)
 
 
-
+«[Kalaallisut](../kl/#bpn7265)» 
 
 
 
@@ -1045,7 +1045,7 @@ Ilumut sanngiitsut ikiortigaatsit, minnerusunillu Illersortaallutit, ilumullu ta
 (Bahaiprayers.net ID: 9115)
 
 
-
+«[Kalaallisut](../kl/#bpn9115)» 
 
 
 
@@ -1067,7 +1067,7 @@ Ilumut, Tassaavutit Sallaatsoq, Pissaanilik, Angisooq, Naakkinnittunit Naakkinni
 (Bahaiprayers.net ID: 9116)
 
 
-
+«[Kalaallisut](../kl/#bpn9116)» 
 
 
 
@@ -1091,7 +1091,7 @@ Ilumoortumik, Illit tassaavutit Tukkornerpaasoq, Naalagaq saammaalluartoq, aamma
 (Bahaiprayers.net ID: 9118)
 
 
-
+«[Kalaallisut](../kl/#bpn9118)» 
 
 
 
@@ -1111,7 +1111,7 @@ Ilumut, Illit tassaavutit Pissaaneqarluartoq, Pissaasoq, Ilisimasoq Takunnittorl
 (Bahaiprayers.net ID: 9122)
 
 
-
+«[Kalaallisut](../kl/#bpn9122)» 
 
 
 
@@ -1131,7 +1131,7 @@ Naalagaq-aa! Sanngiitsuuvunga, Illit nukittussutsikkut pissaanikkullu nakussatsi
 (Bahaiprayers.net ID: 9124)
 
 
-
+«[Kalaallisut](../kl/#bpn9124)» 
 
 
 
@@ -1147,7 +1147,7 @@ Ilumut, Tassaavutit Pissaanilik, Angisooq tamanit Anginersaasoq, Tassaavutillu I
 (Bahaiprayers.net ID: 9117)
 
 
-
+«[Kalaallisut](../kl/#bpn9117)» 
 
 
 
@@ -1174,7 +1174,7 @@ iliorsinnaasoq.
 (Bahaiprayers.net ID: 9123)
 
 
-
+«[Kalaallisut](../kl/#bpn9123)» 
 
 
 
@@ -1204,7 +1204,7 @@ Illit angisuuvutit pissaallutillu. Tassaavutit Isumakkeerfiginnittoq, Illillu ta
 (Bahaiprayers.net ID: 7266)
 
 
-
+«[Kalaallisut](../kl/#bpn7266)» 
 
 
 
@@ -1220,7 +1220,7 @@ Guutiga tassaavutit Atikkut napparsimasunik Ajorunnaarsitsisartoq, sanngiitsunik
 (Bahaiprayers.net ID: 9960)
 
 
-
+«[Kalaallisut](../kl/#bpn9960)» 
 
 
 
@@ -1232,7 +1232,7 @@ Isigaarma, Naalagara-aa, kiinara tukkussutsivit qilaata tungaanut tunissutivillu
 (Bahaiprayers.net ID: 9961)
 
 
-
+«[Kalaallisut](../kl/#bpn9961)» 
 
 
 
@@ -1252,7 +1252,7 @@ Unnersiutigisaali Guuti, silarsuit Naalagaat!
 (Bahaiprayers.net ID: 9962)
 
 
-
+«[Kalaallisut](../kl/#bpn9962)» 
 
 
 
@@ -1268,7 +1268,7 @@ Taamaattumik, Naalagara-aa, kiffatit angutit arnallu isumakkeerfigikkit. Ilumut 
 (Bahaiprayers.net ID: 9963)
 
 
-
+«[Kalaallisut](../kl/#bpn9963)» 
 
 
 
@@ -1280,7 +1280,7 @@ Uanga taannaavunga, Naalagara-aa, kiinnaminik Ilinnut saattoq, neriuumminillu Il
 (Bahaiprayers.net ID: 7015)
 
 
-
+«[Kalaallisut](../kl/#bpn7015)» 
 
 
 
@@ -1294,7 +1294,7 @@ Allamik peqanngilaq, Naalagara-aa, uannut saammaannermik iliorsinnaasumik, kiinn
 (Bahaiprayers.net ID: 7016)
 
 
-
+«[Kalaallisut](../kl/#bpn7016)» 
 
 
 
@@ -1307,7 +1307,7 @@ Illit tassaavutit Naalagaq Qullerpaaq, Pinngortitsisorsuaq, taanna Ataqqinarsisi
 (Bahaiprayers.net ID: 9964)
 
 
-
+«[Kalaallisut](../kl/#bpn9964)» 
 
 
 
@@ -1319,7 +1319,7 @@ Unnersiutigisaagit Illit, Naalagaq-aa. Ajortuliavut isumakkeerfigikkit, nalligit
 (Bahaiprayers.net ID: 9965)
 
 
-
+«[Kalaallisut](../kl/#bpn9965)» 
 
 
 
@@ -1331,7 +1331,7 @@ Qinnuigaakkit isumakkeerfigeqqullunga, Naalagara-aa, oqalunnermut sumulluunniit 
 (Bahaiprayers.net ID: 9966)
 
 
-
+«[Kalaallisut](../kl/#bpn9966)» 
 
 
 
@@ -1346,7 +1346,7 @@ Illernarsisitaavutit Illit, Naalagaq-aa, Illit kiffatit ajortiminnik isumakkeerf
 (Bahaiprayers.net ID: 9967)
 
 
-
+«[Kalaallisut](../kl/#bpn9967)» 
 
 
 
@@ -1363,7 +1363,7 @@ Unnersiutigineqarit naalannarsineqarlutillu: Illit unnersiutigaakkit uannut saqq
 (Bahaiprayers.net ID: 9968)
 
 
-
+«[Kalaallisut](../kl/#bpn9968)» 
 
 
 
@@ -1381,7 +1381,7 @@ Ilumut Illit isumakkeerfiginnittuuvutit, Nallittuisoq, Illit tassaavutit Tukkuso
 (Bahaiprayers.net ID: 9969)
 
 
-
+«[Kalaallisut](../kl/#bpn9969)» 
 
 
 
@@ -1393,7 +1393,7 @@ Naalagara, Illit-aa Inuit neriuutaat! Tassaavutit kiffannut makkununnga tamanut 
 (Bahaiprayers.net ID: 9970)
 
 
-
+«[Kalaallisut](../kl/#bpn9970)» 
 
 
 
@@ -1409,7 +1409,7 @@ Pilluaqqunneqarli manna, illu, sumiiffillu, illoqarfillu, uummallu, qaqqarlu, to
 (Bahaiprayers.net ID: 9120)
 
 
-
+«[Kalaallisut](../kl/#bpn9120)» 
 
 
 
@@ -1435,7 +1435,7 @@ illernassusialu angeqaaq: ”Aappariileritsi, inuit-aa, ilissinnit saqqummeqqull
 (Bahaiprayers.net ID: 9971)
 
 
-
+«[Kalaallisut](../kl/#bpn9971)» 
 
 
 
@@ -1457,7 +1457,7 @@ illernassusialu angeqaaq: "Aappariileritsi, inuit-aa, ilissinnit saqqummeqqullug
 (Bahaiprayers.net ID: 12575)
 
 
-
+«[Kalaallisut](../kl/#bpn12575)» 
 
 
 
@@ -1469,7 +1469,7 @@ Naalannartinneqarit Guutiga-aa! Ilumut, kiffat una kiffallu arnaq una Naakkinnin
 (Bahaiprayers.net ID: 9972)
 
 
-
+«[Kalaallisut](../kl/#bpn9972)» 
 
 
 
@@ -1493,7 +1493,7 @@ Isumakkeerfiginnittoq.
 (Bahaiprayers.net ID: 12576)
 
 
-
+«[Kalaallisut](../kl/#bpn12576)» 
 
 
 
@@ -1515,7 +1515,7 @@ Illit iluarisannik sumilluunniit pinissamik Pissaaneqarputit. Illimmi ilumut Tas
 (Bahaiprayers.net ID: 7014)
 
 
-
+«[Kalaallisut](../kl/#bpn7014)» 
 
 
 
@@ -1539,7 +1539,7 @@ Guuti unnersiutigineqarli, silarsuit Naalagaat!
 (Bahaiprayers.net ID: 10521)
 
 
-
+«[Kalaallisut](../kl/#bpn10521)» 
 
 
 
@@ -1553,7 +1553,7 @@ ajunngitsunillu tamanik piginnittoq"
 (Bahaiprayers.net ID: 10522)
 
 
-
+«[Kalaallisut](../kl/#bpn10522)» 
 
 
 
@@ -1566,7 +1566,7 @@ ullorianngortinngalu uisorilasoq. Tassaavutit Pissaanilik Nakuusorlu.
 (Bahaiprayers.net ID: 10523)
 
 
-
+«[Kalaallisut](../kl/#bpn10523)» 
 
 
 
@@ -1586,7 +1586,7 @@ tassaavutit Pissaanilik, Piginnaassusilik, Isigisoq, Tusaasoq.
 (Bahaiprayers.net ID: 10524)
 
 
-
+«[Kalaallisut](../kl/#bpn10524)» 
 
 
 
@@ -1600,7 +1600,7 @@ Illit Nakuullutillu ajunngitsuuvutit aamma Tunisisuuvutit Isumassuisoq. Naalagaa
 (Bahaiprayers.net ID: 10525)
 
 
-
+«[Kalaallisut](../kl/#bpn10525)» 
 
 
 
@@ -1618,7 +1618,7 @@ Tunniussisuuvutit, Illit Misiginneqataasuuvutit.
 (Bahaiprayers.net ID: 10526)
 
 
-
+«[Kalaallisut](../kl/#bpn10526)» 
 
 
 
@@ -1630,7 +1630,7 @@ Naalagaq-aa! Inuusuttoq una qaammarissunngortiguk, pinngortitarlu nallinnartoq m
 (Bahaiprayers.net ID: 10527)
 
 
-
+«[Kalaallisut](../kl/#bpn10527)» 
 
 
 
@@ -1659,7 +1659,7 @@ Pilluaqqujuk Illit, Naalagaq Guutiga-aa, Orpik Lotusi Nunamiorpalunngitsoq, taas
 (Bahaiprayers.net ID: 9986)
 
 
-
+«[Kalaallisut](../kl/#bpn9986)» 
 
 
 
@@ -1687,7 +1687,7 @@ Tassaavutit Tunisisoq, Misiginneqataasoq, sunit tamanit Tukkunerpaasoq, Saammass
 (Bahaiprayers.net ID: 9987)
 
 
-
+«[Kalaallisut](../kl/#bpn9987)» 
 
 
 
@@ -1708,7 +1708,7 @@ Allamik Illiunngitsumik Guuteqanngilaq, ulorianartumi ikiortaasoq, Imminut napat
 (Bahaiprayers.net ID: 6849)
 
 
-
+«[Kalaallisut](../kl/#bpn6849)» 
 
 
 
@@ -1801,7 +1801,7 @@ Guutiga-aa, nalunaajaatigaara toqqakkavit nalunaajaatigisimasaat, akuersissutiga
 (Bahaiprayers.net ID: 9959)
 
 
-
+«[Kalaallisut](../kl/#bpn9959)» 
 
 
 
@@ -1848,7 +1848,7 @@ Ataasiussutsinnik Ilivitsuussutsinnillu nalunaajaavunga, Illillu Guutiuninnik, a
 (Bahaiprayers.net ID: 9113)
 
 
-
+«[Kalaallisut](../kl/#bpn9113)» 
 
 
 
@@ -1865,7 +1865,7 @@ Kiffatit angutit arnallu paarikkit, Naalagara-aa, sinnattunut imaqanngitsunut is
 (Bahaiprayers.net ID: 10529)
 
 
-
+«[Kalaallisut](../kl/#bpn10529)» 
 
 
 
@@ -1886,7 +1886,7 @@ Ajornartorsiornermi Ikiorti, Imminut-Atatittoq.
 (Bahaiprayers.net ID: 10530)
 
 
-
+«[Kalaallisut](../kl/#bpn10530)» 
 
 
 
@@ -1908,7 +1908,7 @@ kinaluunniit Illeqarani immini naammalersinnaanngilaq
 (Bahaiprayers.net ID: 10528)
 
 
-
+«[Kalaallisut](../kl/#bpn10528)» 
 
 
 
@@ -1923,7 +1923,7 @@ Allamik pissaanermik imaluunniit nakuussusermik peqanngilaq, taamaallaat Guutimi
 (Bahaiprayers.net ID: 10531)
 
 
-
+«[Kalaallisut](../kl/#bpn10531)» 
 
 
 
@@ -1939,7 +1939,7 @@ Killeqanngitsumik ataqqinarputit Illit, Naalagaq-aa! Siunitsinniittunut kingunit
 (Bahaiprayers.net ID: 10533)
 
 
-
+«[Kalaallisut](../kl/#bpn10533)» 
 
 
 
@@ -1951,7 +1951,7 @@ Naalagara-aa! Nalunngilat inuiaat anniaammik ajunaarnermillu nalaanneqarsimasut,
 (Bahaiprayers.net ID: 10532)
 
 
-
+«[Kalaallisut](../kl/#bpn10532)» 
 
 
 
@@ -1987,7 +1987,7 @@ Allamik Illiunngitsumik Guuteqanngilaq, Ataasiusoq, Taannatuaasoq, Pissaaneqarto
 (Bahaiprayers.net ID: 9105)
 
 
-
+«[Kalaallisut](../kl/#bpn9105)» 
 
 
 
@@ -2015,7 +2015,7 @@ Ilumut tamatta Guutimi naammagittartuuvugut.
 (Bahaiprayers.net ID: 12577)
 
 
-
+«[Kalaallisut](../kl/#bpn12577)» 
 
 
 
@@ -2028,7 +2028,7 @@ Naalagara-aa! Unioqqutitsinernit minguiakkit, aliasuutaat piikkit taarsiornerilu
 (Bahaiprayers.net ID: 9121)
 
 
-
+«[Kalaallisut](../kl/#bpn9121)» 
 
 
 
@@ -2054,7 +2054,7 @@ Illit ilumut Tassaavutit Tamanik Ilisimannittoq, Tamanut Sianisoq.
 (Bahaiprayers.net ID: 9983)
 
 
-
+«[Kalaallisut](../kl/#bpn9983)» 
 
 
 
@@ -2070,7 +2070,7 @@ Illit paaqqinninnikkut iterpunga, Guutiga-aa, paaqqinninnernillu qinerlertup pis
 (Bahaiprayers.net ID: 10534)
 
 
-
+«[Kalaallisut](../kl/#bpn10534)» 
 
 
 
@@ -2083,7 +2083,7 @@ Allamik Illiunngitsumik Guuteqanngilaq, Ataasiusoq, Asseqanngitsoq, Arajutsisaqa
 (Bahaiprayers.net ID: 10535)
 
 
-
+«[Kalaallisut](../kl/#bpn10535)» 
 
 
 
@@ -2098,7 +2098,7 @@ Kinaluunniit Ilinnik ujarlersoq pakatsisinngilat Ilinnillu kajungerinnittoq kina
 (Bahaiprayers.net ID: 10536)
 
 
-
+«[Kalaallisut](../kl/#bpn10536)» 
 
 
 
@@ -2124,7 +2124,7 @@ Ilumoortumik Tassaavutit Ajugaqanngitsoq, Tamanik-Ilisimannittoq, Tamanik-Paasis
 (Bahaiprayers.net ID: 9978)
 
 
-
+«[Kalaallisut](../kl/#bpn9978)» 
 
 
 
@@ -2359,7 +2359,7 @@ Unnersiutigisaagit Naalagara, Tamanit Qutsinnerpaaq!
 (Bahaiprayers.net ID: 9985)
 
 
-
+«[Kalaallisut](../kl/#bpn9985)» 
 
 
 
@@ -2376,7 +2376,7 @@ Kialuunniimmi inimini kisimi taallat Guutimit saqqummersitat appippagit Ajugaqan
 (Bahaiprayers.net ID: 9119)
 
 
-
+«[Kalaallisut](../kl/#bpn9119)» 
 
 
 
@@ -2397,7 +2397,7 @@ Ilumut, Illit Tunisisuuvutit, Tukkusooq, Naakkinnittoq, Isumakkeerisoq.
 (Bahaiprayers.net ID: 9973)
 
 
-
+«[Kalaallisut](../kl/#bpn9973)» 
 
 
 
@@ -2417,7 +2417,7 @@ Allamik Illiungitsumik Guuteqanngilaq, Ajugaqanngitsoq, sunik tamanik Ajugaaffig
 (Bahaiprayers.net ID: 9974)
 
 
-
+«[Kalaallisut](../kl/#bpn9974)» 
 
 
 
@@ -2435,7 +2435,7 @@ Angivoq taamaammat pilluaqqussut taakkununnga aavat toqqarsimasannut Uppernarsaq
 (Bahaiprayers.net ID: 9976)
 
 
-
+«[Kalaallisut](../kl/#bpn9976)» 
 
 
 
@@ -2449,7 +2449,7 @@ Piffissami qangarsuarniilli Tassaasimavutit Piumasannik iliornissamut pissaanili
 (Bahaiprayers.net ID: 9975)
 
 
-
+«[Kalaallisut](../kl/#bpn9975)» 
 
 
 
@@ -2466,7 +2466,7 @@ Ilumoortumik tassaavutit Naakkinnittoq, Misiginneqataasoq.
 (Bahaiprayers.net ID: 9977)
 
 
-
+«[Kalaallisut](../kl/#bpn9977)» 
 
 
 

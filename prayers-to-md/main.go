@@ -49,7 +49,7 @@ var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`+++
 title = "{{.LanguageName}}"
 tags = ['lang={{.LanguageCode}}', 'prayerbook']
 +++
-{{$pm := .PrayerMap}}
+{{$cl := .CrossLink}}
 
 {{range $cat, $discard := .ByCategory}}
 [{{$cat}}](#{{$cat}})
@@ -66,10 +66,8 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 (Source category: {{.Category}})
 (Bahaiprayers.net ID: {{.Id}})
 
-{{with (index $pm .PrayerCode)}}
-{{range .Prayers}}
-[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}}) // 
-{{end}}
+{{range (index $cl .PrayerCode)}}
+«[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}})» 
 {{end}}
 
 {{end}}
@@ -106,12 +104,12 @@ type PrayerBook struct {
 	LanguageName string
 	LanguageCode string
 	ByCategory   map[string][]Prayer
-	PrayerMap    *map[string]Prayerfile
+	CrossLink    *map[string][]Prayer
 }
 
 type PrayerBooks map[string]PrayerBook
 
-func FillPrayerBooks(prayers []Prayer, prayerMap map[string]Prayerfile) PrayerBooks {
+func FillPrayerBooks(prayers []Prayer, crossLink map[string][]Prayer) PrayerBooks {
 	books := make(PrayerBooks)
 	for _, p := range prayers {
 		if _, ok := books[p.LanguageCode]; !ok {
@@ -119,7 +117,7 @@ func FillPrayerBooks(prayers []Prayer, prayerMap map[string]Prayerfile) PrayerBo
 				LanguageName: p.LanguageName,
 				LanguageCode: p.LanguageCode,
 				ByCategory:   make(map[string][]Prayer),
-				PrayerMap:    &prayerMap,
+				CrossLink:    &crossLink,
 			}
 		}
 		books[p.LanguageCode].ByCategory[p.Category] = append(books[p.LanguageCode].ByCategory[p.Category], p)
@@ -528,15 +526,17 @@ func main() {
 		count := 0
 		fmt.Println("Saving prayers to files...")
 		if prayerBook {
-			// Put all prayers in a slice
+			// Put all prayers in a slice and in a cross-reference map per prayer code
 			prayers := make([]Prayer, 0)
+			crosslink := make(map[string][]Prayer)
 			for _, pf := range prayerMap {
 				for _, prayer := range pf.Prayers {
 					prayers = append(prayers, prayer)
+					crosslink[prayer.PrayerCode] = append(crosslink[prayer.PrayerCode], prayer)
 				}
 			}
 			// Fill the prayer books
-			prayerbooks := FillPrayerBooks(prayers, prayerMap)
+			prayerbooks := FillPrayerBooks(prayers, crosslink)
 			// Save prayer book per language
 			total := len(prayerbooks)
 			for lang, prayerbook := range prayerbooks {

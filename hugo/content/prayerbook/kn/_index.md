@@ -265,7 +265,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9519)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9519)» 
 
 
 
@@ -282,7 +282,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9496)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9496)» 
 
 
 
@@ -303,7 +303,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9510)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9510)» 
 
 
 
@@ -320,7 +320,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9507)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9507)» 
 
 
 
@@ -342,7 +342,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9508)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9508)» 
 
 
 
@@ -375,7 +375,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9509)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9509)» 
 
 
 
@@ -397,7 +397,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9520)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9520)» 
 
 
 
@@ -417,7 +417,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9476)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9476)» 
 
 
 
@@ -429,7 +429,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9477)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9477)» 
 
 
 
@@ -442,7 +442,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9478)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9478)» 
 
 
 
@@ -467,7 +467,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9516)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9516)» 
 
 
 
@@ -483,7 +483,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9481)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9481)» 
 
 
 
@@ -496,7 +496,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9482)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9482)» 
 
 
 
@@ -508,7 +508,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9488)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9488)» 
 
 
 
@@ -522,7 +522,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9483)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9483)» 
 
 
 
@@ -534,7 +534,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9484)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9484)» 
 
 
 
@@ -546,7 +546,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9485)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9485)» 
 
 
 
@@ -558,7 +558,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9486)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9486)» 
 
 
 
@@ -570,7 +570,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9487)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9487)» 
 
 
 
@@ -587,7 +587,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9479)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9479)» 
 
 
 
@@ -601,7 +601,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9480)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9480)» 
 
 
 
@@ -620,7 +620,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9511)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9511)» 
 
 
 
@@ -632,7 +632,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9512)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9512)» 
 
 
 
@@ -649,7 +649,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9465)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9465)» 
 
 
 
@@ -665,7 +665,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9503)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9503)» 
 
 
 
@@ -677,7 +677,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9504)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9504)» 
 
 
 
@@ -691,7 +691,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9505)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9505)» 
 
 
 
@@ -703,7 +703,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9506)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9506)» 
 
 
 
@@ -720,7 +720,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9444)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9444)» 
 
 
 
@@ -732,7 +732,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9445)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9445)» 
 
 
 
@@ -753,7 +753,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9497)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9497)» 
 
 
 
@@ -765,7 +765,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9498)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9498)» 
 
 
 
@@ -778,7 +778,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9499)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9499)» 
 
 
 
@@ -790,7 +790,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9500)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9500)» 
 
 
 
@@ -802,7 +802,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9501)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9501)» 
 
 
 
@@ -816,7 +816,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9502)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9502)» 
 
 
 
@@ -836,7 +836,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9447)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9447)» 
 
 
 
@@ -849,7 +849,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9448)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9448)» 
 
 
 
@@ -862,7 +862,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9449)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9449)» 
 
 
 
@@ -874,7 +874,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9450)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9450)» 
 
 
 
@@ -892,7 +892,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9442)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9442)» 
 
 
 
@@ -904,7 +904,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9443)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9443)» 
 
 
 
@@ -923,7 +923,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9453)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9453)» 
 
 
 
@@ -936,7 +936,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9454)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9454)» 
 
 
 
@@ -1165,7 +1165,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9515)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9515)» 
 
 
 
@@ -1196,7 +1196,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9438)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9438)» 
 
 
 
@@ -1211,7 +1211,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9439)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9439)» 
 
 
 
@@ -1223,7 +1223,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9441)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9441)» 
 
 
 
@@ -1235,7 +1235,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9440)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9440)» 
 
 
 
@@ -1253,7 +1253,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9451)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9451)» 
 
 
 
@@ -1272,7 +1272,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9436)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9436)» 
 
 
 
@@ -1284,7 +1284,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9437)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9437)» 
 
 
 
@@ -1302,7 +1302,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9513)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9513)» 
 
 
 
@@ -1320,7 +1320,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9455)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9455)» 
 
 
 
@@ -1336,7 +1336,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9456)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9456)» 
 
 
 
@@ -1348,7 +1348,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9457)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9457)» 
 
 
 
@@ -1365,7 +1365,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9472)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9472)» 
 
 
 
@@ -1378,7 +1378,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9473)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9473)» 
 
 
 
@@ -1394,7 +1394,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9466)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9466)» 
 
 
 
@@ -1410,7 +1410,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9489)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9489)» 
 
 
 
@@ -1422,7 +1422,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9495)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9495)» 
 
 
 
@@ -1435,7 +1435,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9490)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9490)» 
 
 
 
@@ -1448,7 +1448,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9492)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9492)» 
 
 
 
@@ -1460,7 +1460,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9493)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9493)» 
 
 
 
@@ -1472,7 +1472,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9494)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9494)» 
 
 
 
@@ -1484,7 +1484,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9491)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9491)» 
 
 
 
@@ -1503,7 +1503,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9452)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9452)» 
 
 
 
@@ -1520,7 +1520,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9428)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9428)» 
 
 
 
@@ -1532,7 +1532,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9429)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9429)» 
 
 
 
@@ -1544,7 +1544,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9430)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9430)» 
 
 
 
@@ -1556,7 +1556,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9431)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9431)» 
 
 
 
@@ -1571,7 +1571,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9432)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9432)» 
 
 
 
@@ -1583,7 +1583,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9433)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9433)» 
 
 
 
@@ -1596,7 +1596,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9434)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9434)» 
 
 
 
@@ -1614,7 +1614,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9469)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9469)» 
 
 
 
@@ -1630,7 +1630,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9458)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9458)» 
 
 
 
@@ -1643,7 +1643,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9459)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9459)» 
 
 
 
@@ -1659,7 +1659,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9435)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9435)» 
 
 
 
@@ -1677,7 +1677,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9474)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9474)» 
 
 
 
@@ -1689,7 +1689,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9475)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9475)» 
 
 
 
@@ -1717,7 +1717,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9518)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9518)» 
 
 
 
@@ -1734,7 +1734,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9467)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9467)» 
 
 
 
@@ -1748,7 +1748,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9468)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9468)» 
 
 
 
@@ -1774,7 +1774,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9517)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9517)» 
 
 
 
@@ -1793,7 +1793,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9514)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9514)» 
 
 
 
@@ -1809,7 +1809,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9446)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9446)» 
 
 
 
@@ -1825,7 +1825,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9460)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9460)» 
 
 
 
@@ -1837,7 +1837,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9461)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9461)» 
 
 
 
@@ -1849,7 +1849,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9462)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9462)» 
 
 
 
@@ -1861,7 +1861,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9463)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9463)» 
 
 
 
@@ -1876,7 +1876,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9464)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9464)» 
 
 
 
@@ -1892,7 +1892,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9424)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9424)» 
 
 
 
@@ -1904,7 +1904,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9425)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9425)» 
 
 
 
@@ -1919,7 +1919,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9426)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9426)» 
 
 
 
@@ -1931,7 +1931,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9427)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9427)» 
 
 
 
@@ -1950,7 +1950,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9470)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9470)» 
 
 
 
@@ -1962,7 +1962,7 @@ tags = ['lang=kn', 'prayerbook']
 (Bahaiprayers.net ID: 9471)
 
 
-
+«[ಕನ್ನಡ](../kn/#bpn9471)» 
 
 
 

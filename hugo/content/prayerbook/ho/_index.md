@@ -48,7 +48,7 @@ Tanobada hanamoa dalana be goevagoeva kara namodia bona hegeregere karadia karai
 (Bahaiprayers.net ID: 13049)
 
 
-
+«[Hiri Motu](../ho/#bpn13049)» 
 
 
 
@@ -60,7 +60,7 @@ Naria Bahá taunimanima e!  umui ese taunimanima haida, daika be edia hereva bon
 (Bahaiprayers.net ID: 13050)
 
 
-
+«[Hiri Motu](../ho/#bpn13050)» 
 
 
 
@@ -73,7 +73,7 @@ Dina ta ta dekenai oi karaia kara oi lalodia, badina gabeai oiemu kara gwaurai h
 (Bahaiprayers.net ID: 13051)
 
 
-
+«[Hiri Motu](../ho/#bpn13051)» 
 
 
 
@@ -85,7 +85,7 @@ Gwau, varavara e! Umuiemui herahera gaudia be kara namodia amo umui karaia, herv
 (Bahaiprayers.net ID: 13052)
 
 
-
+«[Hiri Motu](../ho/#bpn13052)» 
 
 
 
@@ -97,7 +97,7 @@ Hereva helagadia bona kara namodia be ia daekau lao Dirava ena mai hairai gubana
 (Bahaiprayers.net ID: 13053)
 
 
-
+«[Hiri Motu](../ho/#bpn13053)» 
 
 
 
@@ -109,7 +109,7 @@ Umuiemui malana umui hahenamolaia, taunimanima e! hereva momokani dekenai bona e
 (Bahaiprayers.net ID: 13054)
 
 
-
+«[Hiri Motu](../ho/#bpn13054)» 
 
 
 
@@ -121,7 +121,7 @@ Ia namo bema oiemu matana be goevagoeva, oiemu imana be mai abidadama, oiemu mal
 (Bahaiprayers.net ID: 13055)
 
 
-
+«[Hiri Motu](../ho/#bpn13055)» 
 
 
 
@@ -133,7 +133,7 @@ Daika be Dirava ena palai ruma dekenai idia noho, bona idia helai, hanaihanai no
 (Bahaiprayers.net ID: 13056)
 
 
-
+«[Hiri Motu](../ho/#bpn13056)» 
 
 
 
@@ -145,7 +145,7 @@ Mai hebogahisihisi malana be auri ia veria mai gauna bamona, do taunimanima ena 
 (Bahaiprayers.net ID: 13057)
 
 
-
+«[Hiri Motu](../ho/#bpn13057)» 
 
 
 
@@ -157,7 +157,7 @@ Gau ta inai Dina dekenai be hegeregere lasi Dirava ena Misini do ia hadikaia, to
 (Bahaiprayers.net ID: 13058)
 
 
-
+«[Hiri Motu](../ho/#bpn13058)» 
 
 
 
@@ -169,7 +169,7 @@ Gau ta inai Dina dekenai be hegeregere lasi Dirava ena Misini do ia hadikaia, to
 (Bahaiprayers.net ID: 13059)
 
 
-
+«[Hiri Motu](../ho/#bpn13059)» 
 
 
 
@@ -181,7 +181,7 @@ Oi sibona danu be kara dika tauna neganai, haida edia kara dikadia oi herevalaia
 (Bahaiprayers.net ID: 13060)
 
 
-
+«[Hiri Motu](../ho/#bpn13060)» 
 
 
 
@@ -193,7 +193,7 @@ Hereva dikana ta oi herevalaia lasi, vadaeni taunimanima haida ese hereva dikadi
 (Bahaiprayers.net ID: 13061)
 
 
-
+«[Hiri Motu](../ho/#bpn13061)» 
 
 
 
@@ -205,7 +205,7 @@ Hereva momokani kara be taunimanima edia kara namodia ibounai ena badina.
 (Bahaiprayers.net ID: 13062)
 
 
-
+«[Hiri Motu](../ho/#bpn13062)» 
 
 
 
@@ -217,7 +217,7 @@ Bema hereva momokani kara lasi neganai, tau ta do ia tubu lasi bona kwalimu do i
 (Bahaiprayers.net ID: 13063)
 
 
-
+«[Hiri Motu](../ho/#bpn13063)» 
 
 
 
@@ -229,7 +229,7 @@ Lohiabada ena lalokau taudia e,  Inai Nega helaga dekenai heatu bona hepapahuahu
 (Bahaiprayers.net ID: 13064)
 
 
-
+«[Hiri Motu](../ho/#bpn13064)» 
 
 
 
@@ -241,7 +241,7 @@ Turana karaia kara, hereva sibona dekenai hahedinaraia oi lalo namo lasi.  Ia na
 (Bahaiprayers.net ID: 13065)
 
 
-
+«[Hiri Motu](../ho/#bpn13065)» 
 
 
 
@@ -253,7 +253,7 @@ Bema tuari henia ena laloa ia abimu neganai maino ena kahanai oi laloa bada.  La
 (Bahaiprayers.net ID: 13066)
 
 
-
+«[Hiri Motu](../ho/#bpn13066)» 
 
 
 
@@ -269,7 +269,7 @@ Oiemu keruma henunai lau noga, lauegu Dirava e! bona ia namo bema Oiemu henari i
 (Bahaiprayers.net ID: 13080)
 
 
-
+«[Hiri Motu](../ho/#bpn13080)» 
 
 
 
@@ -287,7 +287,7 @@ Dirava ta be lasi, Oi sibona,  Durua Dika dekenai, Sibona Noho Diravana.
 (Bahaiprayers.net ID: 13067)
 
 
-
+«[Hiri Motu](../ho/#bpn13067)» 
 
 
 
@@ -303,7 +303,7 @@ Kerere kokia tauna ta ia noho, eiava  Dirava sibona?  Gwau:  Hanamoa be Dirava! 
 (Bahaiprayers.net ID: 13068)
 
 
-
+«[Hiri Motu](../ho/#bpn13068)» 
 
 
 
@@ -319,7 +319,7 @@ Inai bamona hereva:  Dirava ese gau ibounai Ia hahegeregerea bona Ia be gau ibou
 (Bahaiprayers.net ID: 13070)
 
 
-
+«[Hiri Motu](../ho/#bpn13070)» 
 
 
 
@@ -335,7 +335,7 @@ Lohiabada e!  Inai eregabe Oi hadiaria, bona Oiemu hariharibada Oi henia inai og
 (Bahaiprayers.net ID: 13076)
 
 
-
+«[Hiri Motu](../ho/#bpn13076)» 
 
 
 
@@ -351,7 +351,7 @@ Lohiabada, lauegu Dirava e!  Oiemu lalokau taudia Oi durudia, Oiemu Misini deken
 (Bahaiprayers.net ID: 13082)
 
 
-
+«[Hiri Motu](../ho/#bpn13082)» 
 
 
 
@@ -367,7 +367,7 @@ Oiemu ladana be lau ia hanamoa Lauegu Dirava e, bona lau laloa Oi dekenai be lau
 (Bahaiprayers.net ID: 13079)
 
 
-
+«[Hiri Motu](../ho/#bpn13079)» 
 
 
 
@@ -387,7 +387,7 @@ Dirava ta be lasi, Oi sibona, Siahu Ibounai Diravana.  Oi be gau ibounai Oi hadu
 (Bahaiprayers.net ID: 13081)
 
 
-
+«[Hiri Motu](../ho/#bpn13081)» 
 
 
 
@@ -403,7 +403,7 @@ Mai Hairai Ibounai Lohiabada e! Inai hesiai kekeni maragina Oi hanamoa bona hamo
 (Bahaiprayers.net ID: 13075)
 
 
-
+«[Hiri Motu](../ho/#bpn13075)» 
 
 
 
@@ -420,7 +420,7 @@ Dirava e!  Oiemu lalokau lau dekenai be lauegu lalokau lau sibogu dekenai gauna 
 (Bahaiprayers.net ID: 13078)
 
 
-
+«[Hiri Motu](../ho/#bpn13078)» 
 
 
 
@@ -436,7 +436,7 @@ Gwau:  Dirava e, lauegu Dirava!  Maoromaoro kara ena kwara gauna Oi atoa lauegu 
 (Bahaiprayers.net ID: 13069)
 
 
-
+«[Hiri Motu](../ho/#bpn13069)» 
 
 
 
@@ -452,7 +452,7 @@ Dirava e!  Oi hakaugu, Oi narigu.   Lamepa diaridiari ta bona hisiu hairaina ta 
 (Bahaiprayers.net ID: 13072)
 
 
-
+«[Hiri Motu](../ho/#bpn13072)» 
 
 
 
@@ -464,7 +464,7 @@ Dirava e!  Inai natudia Oi hasikulidia.  Inai natudia be au, Oiemu au huahua had
 (Bahaiprayers.net ID: 13073)
 
 
-
+«[Hiri Motu](../ho/#bpn13073)» 
 
 
 
@@ -478,7 +478,7 @@ Momokani, Oi be mai Siahu, mai Goada, Itaia bona Kamonai Diravana.
 (Bahaiprayers.net ID: 13074)
 
 
-
+«[Hiri Motu](../ho/#bpn13074)» 
 
 
 
@@ -494,7 +494,7 @@ Lohiabada e!  Oi itaia, aiemai imana ai abiaisi Oiemu lalokau bona hariharibada 
 (Bahaiprayers.net ID: 13071)
 
 
-
+«[Hiri Motu](../ho/#bpn13071)» 
 
 
 
@@ -510,7 +510,7 @@ Lauegu Dirava e!  Lauegu Dirava e!  Oiemu gaukara taudia edia lalona Oi hatamona
 (Bahaiprayers.net ID: 13077)
 
 
-
+«[Hiri Motu](../ho/#bpn13077)» 
 
 
 

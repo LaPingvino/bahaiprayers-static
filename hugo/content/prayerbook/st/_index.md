@@ -56,7 +56,7 @@ Oho Molimo!  Etsa hore mocha enoa a apareloe ke leseli, ‘me enoa ea fokolang a
 (Bahaiprayers.net ID: 6473)
 
 
-
+«[Sesotho](../st/#bpn6473)» 
 
 
 
@@ -72,7 +72,7 @@ Oho Molimo Oa ka! Oho Uena Motšoareli Oa libe!  Seabi Sa limpho! Motlosi Oa mat
 (Bahaiprayers.net ID: 6457)
 
 
-
+«[Sesotho](../st/#bpn6457)» 
 
 
 
@@ -88,7 +88,7 @@ Oho Molimo! Ruta bana bana.  Bana ke limela tsa tšimo ea Hau, lipalesa tsa phul
 (Bahaiprayers.net ID: 6455)
 
 
-
+«[Sesotho](../st/#bpn6455)» 
 
 
 
@@ -105,7 +105,7 @@ oa Hau o raohetse ho U fa bosebeletsi le ho ikitlaetsa ka nako tsohle tseleng ea
 (Bahaiprayers.net ID: 6466)
 
 
-
+«[Sesotho](../st/#bpn6466)» 
 
 
 
@@ -121,7 +121,7 @@ Ke tsohile tšireletsong Ea Hau, Oho Molimo Oa ka, ‘me ke se lokelang mang le 
 (Bahaiprayers.net ID: 6461)
 
 
-
+«[Sesotho](../st/#bpn6461)» 
 
 
 
@@ -137,7 +137,7 @@ Bopa kahare ho ‘na pelo e hloekileng,Oho Molimo Oa ka; ‘me U nchafatse letso
 (Bahaiprayers.net ID: 6470)
 
 
-
+«[Sesotho](../st/#bpn6470)» 
 
 
 
@@ -151,7 +151,7 @@ Ka sebele, U Motšireletsi oa mafutsana le oa ba banyenyane, ‘me kasebele U Ea
 (Bahaiprayers.net ID: 6471)
 
 
-
+«[Sesotho](../st/#bpn6471)» 
 
 
 
@@ -167,7 +167,7 @@ Oho Molimo oa ka! Oho Molimo oa ka! Kopanya lipelo tsa bahlanka ba Hau, ‘me U 
 (Bahaiprayers.net ID: 6472)
 
 
-
+«[Sesotho](../st/#bpn6472)» 
 
 
 
@@ -184,7 +184,7 @@ Ha ho Molimo o mong kantle ho Uena, Ea Mong, Ea ke keng a bapisoa, Ea Tsebo Eohl
 (Bahaiprayers.net ID: 6460)
 
 
-
+«[Sesotho](../st/#bpn6460)» 
 
 
 
@@ -206,7 +206,7 @@ U Ea Matla le Senatla, U Ea Tšoarelang hap eke Uena Ea Iphapanyetsang mefokolo 
 (Bahaiprayers.net ID: 6462)
 
 
-
+«[Sesotho](../st/#bpn6462)» 
 
 
 
@@ -224,7 +224,7 @@ Oho Morena Molimo Oa ka,hlohonolofatsa Eo U Mo phahamisitseng holim’a mabitso 
 (Bahaiprayers.net ID: 6456)
 
 
-
+«[Sesotho](../st/#bpn6456)» 
 
 
 
@@ -240,7 +240,7 @@ Na O teng ea ka tlosang mathata afe kapa afe haese Molimo feela na? E re: Ho ror
 (Bahaiprayers.net ID: 6468)
 
 
-
+«[Sesotho](../st/#bpn6468)» 
 
 
 
@@ -257,7 +257,7 @@ Ha ho Molimo O mong kantle ho Uena, Mothusi litlokotsing, Ea-Phahametseng Tsohle
 (Bahaiprayers.net ID: 6463)
 
 
-
+«[Sesotho](../st/#bpn6463)» 
 
 
 
@@ -273,7 +273,7 @@ Oho Molimo! Nchafatsa U thabise moea oa ka. Hloekisa pelo e aka. Chabisa kelello
 (Bahaiprayers.net ID: 6469)
 
 
-
+«[Sesotho](../st/#bpn6469)» 
 
 
 
@@ -289,7 +289,7 @@ Oho Molimo Oa ka, Monghali Oa me, Sepheo sa takatso ea ka! Enoa mohlanka oa Hau 
 (Bahaiprayers.net ID: 6464)
 
 
-
+«[Sesotho](../st/#bpn6464)» 
 
 
 
@@ -305,7 +305,7 @@ Lebitso la Hau ke pheko ea ka, Oho Molimo oa ka, ‘me khopolo ea Hau ke sehlare
 (Bahaiprayers.net ID: 6459)
 
 
-
+«[Sesotho](../st/#bpn6459)» 
 
 
 
@@ -323,7 +323,7 @@ Ke Uena Molimo Ea Matla, Oa Khanya le Mohau. Ha ho Molimo o mong haese Uena feel
 (Bahaiprayers.net ID: 6465)
 
 
-
+«[Sesotho](../st/#bpn6465)» 
 
 
 
@@ -339,7 +339,7 @@ Oho Morena, Molimo oa ka!  Thusa baratuoa ba Hau ho tiea Tumelong, ea Hau, ho ts
 (Bahaiprayers.net ID: 6454)
 
 
-
+«[Sesotho](../st/#bpn6454)» 
 
 
 
@@ -356,7 +356,7 @@ Ke mohlanka oa Hau, Oho Molimo, le mor’a mohlanka oa Hau.  Ke amohetse ‘nete
 (Bahaiprayers.net ID: 6458)
 
 
-
+«[Sesotho](../st/#bpn6458)» 
 
 
 
@@ -372,7 +372,7 @@ Oho Molimo, Molimo oa ka! Tšireletsa bahlanka ba Hau ba tšepehang bobeng ba bo
 (Bahaiprayers.net ID: 6467)
 
 
-
+«[Sesotho](../st/#bpn6467)» 
 
 
 

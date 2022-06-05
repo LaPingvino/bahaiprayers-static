@@ -100,7 +100,7 @@ Boni Ngkoe, ni koaua, te Tia Angaanga te Maiu, te Tia Buobuoki, te Aakoi, te Tit
 (Bahaiprayers.net ID: 10412)
 
 
-
+«[Kiribati](../gil/#bpn10412)» 
 
 
 
@@ -116,7 +116,7 @@ Au Uea, au Tangira, Maamaten nanou!  Raonai i nanon maroaau ao irai ni kanakoaki
 (Bahaiprayers.net ID: 10451)
 
 
-
+«[Kiribati](../gil/#bpn10451)» 
 
 
 
@@ -128,7 +128,7 @@ Au Uea!  Au Uea!  I Neboiko ao I Katituaraoiko bwa Ko a tia n nanoangaa Am toro 
 (Bahaiprayers.net ID: 10452)
 
 
-
+«[Kiribati](../gil/#bpn10452)» 
 
 
 
@@ -144,7 +144,7 @@ Te Atua!  Reireiniia ataei aikai.  Ataei aikai bon aroka n Am onaroka, Ueen Am t
 (Bahaiprayers.net ID: 10397)
 
 
-
+«[Kiribati](../gil/#bpn10397)» 
 
 
 
@@ -157,7 +157,7 @@ Bon ni Ngkoe te Mwaaka ao te Korakora.
 (Bahaiprayers.net ID: 10398)
 
 
-
+«[Kiribati](../gil/#bpn10398)» 
 
 
 
@@ -170,7 +170,7 @@ Ni koaua, boni Ngkoe te Korakora, te Matairiki, te Tia Ongo.
 (Bahaiprayers.net ID: 10399)
 
 
-
+«[Kiribati](../gil/#bpn10399)» 
 
 
 
@@ -184,7 +184,7 @@ Te Tia Karikibwai!  E ngae ngke bon ngaiira uteute ae akea manera, ma bon bwain 
 (Bahaiprayers.net ID: 10400)
 
 
-
+«[Kiribati](../gil/#bpn10400)» 
 
 
 
@@ -196,7 +196,7 @@ Te Atua, karikirakea te teei aei i nanon Tangiram, anganna te amwarake teuana ma
 (Bahaiprayers.net ID: 10401)
 
 
-
+«[Kiribati](../gil/#bpn10401)» 
 
 
 
@@ -212,7 +212,7 @@ Ngkoe Te Atua ae Moan te Itiaki ao te Katoki ni Mwaaka!  Bon au Uea Ngkoe ae moa
 (Bahaiprayers.net ID: 10453)
 
 
-
+«[Kiribati](../gil/#bpn10453)» 
 
 
 
@@ -232,7 +232,7 @@ Bon Ngkoe te Mwaaka, Kabanea ni Korakora, te Nanoanga ao bon Ngkoe te Tituaraoi,
 (Bahaiprayers.net ID: 10413)
 
 
-
+«[Kiribati](../gil/#bpn10413)» 
 
 
 
@@ -247,7 +247,7 @@ Te Atua!  Kanonoira n Am katoronibwai. Boni Ngkoe te Mwaaka. Boni Ngkoe te Tia A
 (Bahaiprayers.net ID: 10414)
 
 
-
+«[Kiribati](../gil/#bpn10414)» 
 
 
 
@@ -265,7 +265,7 @@ Te Atua!  Karaoi tamneira bwa a na tinea Kibun Am katiteuana n Atua, kakimwareir
 (Bahaiprayers.net ID: 10463)
 
 
-
+«[Kiribati](../gil/#bpn10463)» 
 
 
 
@@ -279,7 +279,7 @@ Ngkoe ae te Tia Angaanga! Karuoa Am buoka, bwa ni kabane aika a botaki ikai a na
 (Bahaiprayers.net ID: 10464)
 
 
-
+«[Kiribati](../gil/#bpn10464)» 
 
 
 
@@ -302,7 +302,7 @@ Ngkoe ara Uea ae e aakoi! Ko a tia ni karika te botannaomata nako man te riki ae
 (Bahaiprayers.net ID: 10416)
 
 
-
+«[Kiribati](../gil/#bpn10416)» 
 
 
 
@@ -320,7 +320,7 @@ Ko na rangi ni karietaataaki ngkoe ae Uean te karikibwai ni kabane, are boni Ngk
 (Bahaiprayers.net ID: 10462)
 
 
-
+«[Kiribati](../gil/#bpn10462)» 
 
 
 
@@ -337,7 +337,7 @@ Bon akea riki Te Atua bwa ti Ngkoe, te Onoti n Ti Ngaia, ae Akea Kabotauana, te 
 (Bahaiprayers.net ID: 10420)
 
 
-
+«[Kiribati](../gil/#bpn10420)» 
 
 
 
@@ -349,7 +349,7 @@ Atuau, I a tia ni uti i nanon Am katantan, ao I a riki bwa teuare e bubutii kata
 (Bahaiprayers.net ID: 10421)
 
 
-
+«[Kiribati](../gil/#bpn10421)» 
 
 
 
@@ -364,7 +364,7 @@ Ngkoe te Uea ae Atuau, karaoiroa Teuare Ko na tia ni kateia i aona Aram aika a m
 (Bahaiprayers.net ID: 10422)
 
 
-
+«[Kiribati](../gil/#bpn10422)» 
 
 
 
@@ -390,7 +390,7 @@ Bon Ngkoe, ni koaua, te Tamaroa, te Mimitong, te Mwaaka, te Konai Bwaai nako!
 (Bahaiprayers.net ID: 10423)
 
 
-
+«[Kiribati](../gil/#bpn10423)» 
 
 
 
@@ -407,7 +407,7 @@ Kataua ngkanne i bukiu, Ngkoe Atuau, are e na riki bwa kakannaton Ueam, ao buoka
 (Bahaiprayers.net ID: 10434)
 
 
-
+«[Kiribati](../gil/#bpn10434)» 
 
 
 
@@ -419,7 +419,7 @@ Atuau, buoka Am toro aei bwa e na karietaa te Taeka, ao n ekanakoa are akea nano
 (Bahaiprayers.net ID: 10435)
 
 
-
+«[Kiribati](../gil/#bpn10435)» 
 
 
 
@@ -431,7 +431,7 @@ O te Atua ae Atuau!  Buokiia Am toro aika Ko onimakiniia bwa a na tatangira ma n
 (Bahaiprayers.net ID: 10436)
 
 
-
+«[Kiribati](../gil/#bpn10436)» 
 
 
 
@@ -446,7 +446,7 @@ Ni koaua bon Ngkoe te Mwaaka, te Korakora ao te Tia Konai Bwaai nako, ao bon Ngk
 (Bahaiprayers.net ID: 10437)
 
 
-
+«[Kiribati](../gil/#bpn10437)» 
 
 
 
@@ -464,7 +464,7 @@ Ni koaua, bon Ngkoe te Tia kam¬a¬toaia naake Ko bon taku bwa Ko nano irouia ak
 (Bahaiprayers.net ID: 10438)
 
 
-
+«[Kiribati](../gil/#bpn10438)» 
 
 
 
@@ -482,7 +482,7 @@ Ni koaua, bon Ngkoe te Nanoanga, te Mwaaka, te Korakora, ao Katokia Nanoanga.
 (Bahaiprayers.net ID: 10439)
 
 
-
+«[Kiribati](../gil/#bpn10439)» 
 
 
 
@@ -505,7 +505,7 @@ O te Uea!  Taenakoa te rotongitong man naano aika bakairae aikai, ao kaotai naan
 (Bahaiprayers.net ID: 10440)
 
 
-
+«[Kiribati](../gil/#bpn10440)» 
 
 
 
@@ -522,7 +522,7 @@ Ni koaua, bon Moan te Mwaaka Ngkoe, te Korakora, te Wanawana ao te Nooraba.
 (Bahaiprayers.net ID: 10441)
 
 
-
+«[Kiribati](../gil/#bpn10441)» 
 
 
 
@@ -537,7 +537,7 @@ Bon Ngkoe te Korakora ao te Tia Karaoi Bwaai nako nakon Kukureim.
 (Bahaiprayers.net ID: 10442)
 
 
-
+«[Kiribati](../gil/#bpn10442)» 
 
 
 
@@ -553,7 +553,7 @@ O te Uea!  I bon mamara, kamarurungai ni Mwaakam ao Korakoram.  Neweu e baebae, 
 (Bahaiprayers.net ID: 10443)
 
 
-
+«[Kiribati](../gil/#bpn10443)» 
 
 
 
@@ -568,7 +568,7 @@ O te Uea!  I bon toara, tii ngai ao man rinano.  Irou bon akea te korakora ma ti
 (Bahaiprayers.net ID: 10444)
 
 
-
+«[Kiribati](../gil/#bpn10444)» 
 
 
 
@@ -583,7 +583,7 @@ Ni koaua, bon Ngkoe te Kabanea ni Mwaaka, Taubukin te Rietata, Akea Tokin Am Kak
 (Bahaiprayers.net ID: 10445)
 
 
-
+«[Kiribati](../gil/#bpn10445)» 
 
 
 
@@ -600,7 +600,7 @@ Ni koaua, bon Ngkoe te Mwaaka, te Korakora, Akea Tian Mwakana.
 (Bahaiprayers.net ID: 10446)
 
 
-
+«[Kiribati](../gil/#bpn10446)» 
 
 
 
@@ -617,7 +617,7 @@ Buokai, au Uea, ni kaineti Nakoim, ao n ongoongo ni bwanaaia naake Ko tangiriia,
 (Bahaiprayers.net ID: 10411)
 
 
-
+«[Kiribati](../gil/#bpn10411)» 
 
 
 
@@ -634,7 +634,7 @@ Karikai bwa Nna manga oki nakon mweengau ni Korakoram ao Mwaakam.  Boni Ngkoe ni
 (Bahaiprayers.net ID: 10425)
 
 
-
+«[Kiribati](../gil/#bpn10425)» 
 
 
 
@@ -648,7 +648,7 @@ Ni koaua, bon Ngkoe te Tia Kakaawakin, te Tia kairiiri, te Tia Kateimatoa, te Ti
 (Bahaiprayers.net ID: 10426)
 
 
-
+«[Kiribati](../gil/#bpn10426)» 
 
 
 
@@ -664,7 +664,7 @@ Atongnga:  Te Atua bon mwiokon bwaai ni kabane.  Akea i karawa ke i aon te aba a
 (Bahaiprayers.net ID: 10405)
 
 
-
+«[Kiribati](../gil/#bpn10405)» 
 
 
 
@@ -683,7 +683,7 @@ Ko konabwai ni karaoa are e Kakukureiko. Akea Te Atua bwa ti Ngkoe, te Buoka n t
 (Bahaiprayers.net ID: 10447)
 
 
-
+«[Kiribati](../gil/#bpn10447)» 
 
 
 
@@ -695,7 +695,7 @@ Ti Te Atua ke iai ae E konaa ni kanakoi kangaanga?   Atongnga: E na neboaki Te A
 (Bahaiprayers.net ID: 10448)
 
 
-
+«[Kiribati](../gil/#bpn10448)» 
 
 
 
@@ -709,7 +709,7 @@ Ko bon rangi ni karietataaki riki Ngkoe, ae Uea ni karawa ma aon te aba, i aon a
 (Bahaiprayers.net ID: 10449)
 
 
-
+«[Kiribati](../gil/#bpn10449)» 
 
 
 
@@ -725,7 +725,7 @@ Atuau! Atuau! Katiteuanai nanoia Am toro, ao kaoti nakoia bukin Am Waaki ae e ka
 (Bahaiprayers.net ID: 10450)
 
 
-
+«[Kiribati](../gil/#bpn10450)» 
 
 
 
@@ -751,7 +751,7 @@ Ni koaua, ti bon bane ni kaantaninga iroun Te Atua.
 (Bahaiprayers.net ID: 10402)
 
 
-
+«[Kiribati](../gil/#bpn10402)» 
 
 
 
@@ -765,7 +765,7 @@ Ko kamimitongaki, ao te kamimitongaki ae akea baaireana Ngkoe! Ko bon neboaki i 
 (Bahaiprayers.net ID: 10403)
 
 
-
+«[Kiribati](../gil/#bpn10403)» 
 
 
 
@@ -779,7 +779,7 @@ Te Uea, kaitiakiia man taian bure, katoki raraomaia ao onea te ro ane irouia nak
 (Bahaiprayers.net ID: 10404)
 
 
-
+«[Kiribati](../gil/#bpn10404)» 
 
 
 
@@ -796,7 +796,7 @@ Kaootai moaia Am toro, te Uea, bwa a aonga n Tataraiko; ao kaitiaki nanoia bwa a
 (Bahaiprayers.net ID: 10424)
 
 
-
+«[Kiribati](../gil/#bpn10424)» 
 
 
 
@@ -813,7 +813,7 @@ Ngkoe, ni koaua, te Kabanea ni Korakora, te Kabanea ni Mimitong, Moan te Mwaaka.
 (Bahaiprayers.net ID: 10427)
 
 
-
+«[Kiribati](../gil/#bpn10427)» 
 
 
 
@@ -826,7 +826,7 @@ Ko bon mwaaka ni karaoa are Ko nano iai.  Boni Ngkoe, ni koaua, te kabanea n Rin
 (Bahaiprayers.net ID: 10428)
 
 
-
+«[Kiribati](../gil/#bpn10428)» 
 
 
 
@@ -839,7 +839,7 @@ Ni koaua, Bon Ngkoe Moan te Raoiroi are E onrake ni bwaaintituaraoi aika a kakan
 (Bahaiprayers.net ID: 10429)
 
 
-
+«[Kiribati](../gil/#bpn10429)» 
 
 
 
@@ -855,7 +855,7 @@ Te ota ao te mimitong, te kamauri ao te kamoamoa a na tikuriia Tabonibain Ana Wa
 (Bahaiprayers.net ID: 10467)
 
 
-
+«[Kiribati](../gil/#bpn10467)» 
 
 
 
@@ -984,7 +984,7 @@ E na kamimitongaki ara Uea, ae Moan te Rietata!
 (Bahaiprayers.net ID: 11239)
 
 
-
+«[Kiribati](../gil/#bpn11239)» 
 
 
 
@@ -1006,7 +1006,7 @@ E katabuaki Uean te botannaomata, are ngke e atongaki Arana ao a ruru iai iteran
 (Bahaiprayers.net ID: 10455)
 
 
-
+«[Kiribati](../gil/#bpn10455)» 
 
 
 
@@ -1120,7 +1120,7 @@ Ngkana a bane tooro nako ni wareka ao ni karaua n iangoa aio, ao e na kakiaaki i
 (Bahaiprayers.net ID: 11237)
 
 
-
+«[Kiribati](../gil/#bpn11237)» 
 
 
 
@@ -1138,7 +1138,7 @@ Ni Mwaakam, I aki bubutii i nanon matuu ke n taratarau bwaai nako ma ti ake Ko t
 (Bahaiprayers.net ID: 10406)
 
 
-
+«[Kiribati](../gil/#bpn10406)» 
 
 
 
@@ -1152,7 +1152,7 @@ Boni Ngkoe te Tia Anga te Aakoi, te Atataiaomata ao te Tia Kabwarai buure.
 (Bahaiprayers.net ID: 10407)
 
 
-
+«[Kiribati](../gil/#bpn10407)» 
 
 
 
@@ -1168,7 +1168,7 @@ E kabwaia te nne, ma te auti, ma te tabo, ma te kaawa, ma te nano, ma te maunga,
 (Bahaiprayers.net ID: 10381)
 
 
-
+«[Kiribati](../gil/#bpn10381)» 
 
 
 
@@ -1180,7 +1180,7 @@ Katakei, ngkoe Au toro, Ana kibu nako Te Atua ake a tia ni karekeaki iroum, n ar
 (Bahaiprayers.net ID: 10382)
 
 
-
+«[Kiribati](../gil/#bpn10382)» 
 
 
 
@@ -1215,7 +1215,7 @@ I onnoniiko Ngkoe ae Atuau ao au Uea, i Iroum ao n Am kanikina nako, ao n itiaki
 (Bahaiprayers.net ID: 10458)
 
 
-
+«[Kiribati](../gil/#bpn10458)» 
 
 
 
@@ -1230,7 +1230,7 @@ Akea Te Atua bwa ti Ngkoe, te Ataibwai, ao te Wanawana.  E na neboaki Te Atua, t
 (Bahaiprayers.net ID: 10459)
 
 
-
+«[Kiribati](../gil/#bpn10459)» 
 
 
 
@@ -1250,7 +1250,7 @@ Karika Am Waaki bwa e na totokanikai, au Uea, ao kamangoriia Am kairiribai.  Kor
 (Bahaiprayers.net ID: 10460)
 
 
-
+«[Kiribati](../gil/#bpn10460)» 
 
 
 
@@ -1262,7 +1262,7 @@ Te nebonebo nakoim O te Uea ae Atuau. Ti a tia n ira nanon te Aki Mamatam ni kae
 (Bahaiprayers.net ID: 10461)
 
 
-
+«[Kiribati](../gil/#bpn10461)» 
 
 
 
@@ -1286,7 +1286,7 @@ Ko na kamoamoaaki, O Atuau, ngkai Ko a tia ni buokiira bwa ti na kinaa ao n tang
 (Bahaiprayers.net ID: 11236)
 
 
-
+«[Kiribati](../gil/#bpn11236)» 
 
 
 
@@ -1304,7 +1304,7 @@ Ngkoe, ni koaua, bon Ueaia aomata nako. Akea riki te Atua bwa ti Ngkoe, te Kaban
 (Bahaiprayers.net ID: 10383)
 
 
-
+«[Kiribati](../gil/#bpn10383)» 
 
 
 
@@ -1317,7 +1317,7 @@ O te Tia Kakaawakin n Tamnei! Karikibwai ni kabane a bon rereitinako man Am titu
 (Bahaiprayers.net ID: 10384)
 
 
-
+«[Kiribati](../gil/#bpn10384)» 
 
 
 
@@ -1329,7 +1329,7 @@ Atonga: Mimitong Nakoim Are Ko a tia ni karikiia Naake a Tabu bwa a na kaotii ai
 (Bahaiprayers.net ID: 10385)
 
 
-
+«[Kiribati](../gil/#bpn10385)» 
 
 
 
@@ -1341,7 +1341,7 @@ O Ngkoe Atuau! I butiko, n Aram ae moan te mimitong, ni buokai ni bwaai ake a na
 (Bahaiprayers.net ID: 10386)
 
 
-
+«[Kiribati](../gil/#bpn10386)» 
 
 
 
@@ -1353,7 +1353,7 @@ Atuau, Boton au tangira, Kourun nanou, te Kabanea n Tituaraoi, te Kabanea n Nano
 (Bahaiprayers.net ID: 10387)
 
 
-
+«[Kiribati](../gil/#bpn10387)» 
 
 
 
@@ -1366,7 +1366,7 @@ Akea karabaau, O Atuau! Kunnikainai ma kamwarain Am nanoanga n akoi. I bora n ta
 (Bahaiprayers.net ID: 10388)
 
 
-
+«[Kiribati](../gil/#bpn10388)» 
 
 
 
@@ -1382,7 +1382,7 @@ Atonga: Te Atua bon te Tia Karaoi bwaai ni kabane. E anga kamarikeaia n te mwait
 (Bahaiprayers.net ID: 10389)
 
 
-
+«[Kiribati](../gil/#bpn10389)» 
 
 
 
@@ -1394,7 +1394,7 @@ O Atuau, au Uea ao Au Mwatita! I a tia ni kamwawaai mai irouia au utu ao ni ukou
 (Bahaiprayers.net ID: 10390)
 
 
-
+«[Kiribati](../gil/#bpn10390)» 
 
 
 
@@ -1408,7 +1408,7 @@ Anganiira kanara n te bong ae koraki ao kariaia rikiraken baika a tangiraki n te
 (Bahaiprayers.net ID: 10391)
 
 
-
+«[Kiribati](../gil/#bpn10391)» 
 
 
 
@@ -1421,7 +1421,7 @@ O te Tia Katauraoi Bwaai ni kabane, O Ngkoe te Tia Nanoanga! Anganiira Am tituar
 (Bahaiprayers.net ID: 10392)
 
 
-
+«[Kiribati](../gil/#bpn10392)» 
 
 
 
@@ -1435,7 +1435,7 @@ Ngkoe, ni Koaua, Bon Ngaia, n Ti Ngaia, te Mwaaka, te Kabanea n Atatai, te Kaban
 (Bahaiprayers.net ID: 10393)
 
 
-
+«[Kiribati](../gil/#bpn10393)» 
 
 
 
@@ -1447,7 +1447,7 @@ O te Uea! Ti bon ngore; kakorakoraira. O te Atua! Ti bon bangabwaai; karikiira b
 (Bahaiprayers.net ID: 10394)
 
 
-
+«[Kiribati](../gil/#bpn10394)» 
 
 
 
@@ -1459,7 +1459,7 @@ O ngkoe are ko tabe n raira moam nakon te Atua! Kaina matam nakon bwaai ni kaban
 (Bahaiprayers.net ID: 10395)
 
 
-
+«[Kiribati](../gil/#bpn10395)» 
 
 
 
@@ -1471,7 +1471,7 @@ O Ngkoe te Tia Kamanomano ni karawa, ti kananoanga, anganiira Am ibuobuoki; taan
 (Bahaiprayers.net ID: 10396)
 
 
-
+«[Kiribati](../gil/#bpn10396)» 
 
 
 
@@ -1487,7 +1487,7 @@ Atuau, bon katokan aorakiu Aram, ao bon au bwai n aoraki Uringam. Tikum i rariki
 (Bahaiprayers.net ID: 10415)
 
 
-
+«[Kiribati](../gil/#bpn10415)» 
 
 
 
@@ -1512,7 +1512,7 @@ E na neboaki Te Atua, are Ngkoangkoa are E aki maamate, are Akea Bibitakina, ao 
 (Bahaiprayers.net ID: 10417)
 
 
-
+«[Kiribati](../gil/#bpn10417)» 
 
 
 
@@ -1525,7 +1525,7 @@ Te Uea ae Aakoi!  Karika te mare aei bwa e na kaotinakoi taian ane ao moomi mai 
 (Bahaiprayers.net ID: 10418)
 
 
-
+«[Kiribati](../gil/#bpn10418)» 
 
 
 
@@ -1539,7 +1539,7 @@ Boni Ngkoe ae Moan te Mwaaka, Ko mena n taabo ni kabane ao Moan te Kakannato.
 (Bahaiprayers.net ID: 10419)
 
 
-
+«[Kiribati](../gil/#bpn10419)» 
 
 
 
@@ -1576,7 +1576,7 @@ Bon Ngaia, ni koaua, te Ataataiaomata ao te Nanoanga. E na neboaki te Atua ae te
 (Bahaiprayers.net ID: 10454)
 
 
-
+«[Kiribati](../gil/#bpn10454)» 
 
 
 
@@ -1599,7 +1599,7 @@ Te Uea ae Atuau, kakabwaiaa te Kai-te-Rote ni Karawa ma baana nako, bwebwena ma 
 (Bahaiprayers.net ID: 10456)
 
 
-
+«[Kiribati](../gil/#bpn10456)» 
 
 
 
@@ -1618,7 +1618,7 @@ Boni Ngkoe te Tia Angaanga, te Tangiri matanaomata, te Katoki n Akoi, te Raoiroi
 (Bahaiprayers.net ID: 10457)
 
 
-
+«[Kiribati](../gil/#bpn10457)» 
 
 
 
@@ -1663,7 +1663,7 @@ I kakoaua, O Ngkoe Atuau, nakon are a tia ni kakoaua naba iai naake Ko rineiia, 
 (Bahaiprayers.net ID: 10380)
 
 
-
+«[Kiribati](../gil/#bpn10380)» 
 
 
 
@@ -1692,7 +1692,7 @@ I kaotia ni kakoaua Am katiteuana ao ae ti temanna Ngkoe, ao bwa boni Ngkoe Te A
 (Bahaiprayers.net ID: 10379)
 
 
-
+«[Kiribati](../gil/#bpn10379)» 
 
 
 
@@ -1709,7 +1709,7 @@ Atuau, I kaotia ma te koaua bwa Ko a tia ni karikai bwa Nna Ataiko, ao n Taromau
 (Bahaiprayers.net ID: 10378)
 
 
-
+«[Kiribati](../gil/#bpn10378)» 
 
 
 
@@ -1771,7 +1771,7 @@ Ngkoe ni koaua te Mwaaka, te Kabanea n Taubobonga, te Tia Katoki Aoraki, te Tia 
 (Bahaiprayers.net ID: 11238)
 
 
-
+«[Kiribati](../gil/#bpn11238)» 
 
 
 
@@ -1790,7 +1790,7 @@ Ni koaua, boni Ngkoe te Kakaawaki, te Akitoki n Angaanga, Teuare E Ukuuki Baina.
 (Bahaiprayers.net ID: 10408)
 
 
-
+«[Kiribati](../gil/#bpn10408)» 
 
 
 
@@ -1811,7 +1811,7 @@ Boni Ngkoe ni koaua, te Ataibwai ni kabane, te Kabanea ni Wanawana.
 (Bahaiprayers.net ID: 10466)
 
 
-
+«[Kiribati](../gil/#bpn10466)» 
 
 
 
@@ -1829,7 +1829,7 @@ Am bwai te neboaki, Ngkoe are Moan te Tangiraki irouia naake a Ataiko.
 (Bahaiprayers.net ID: 10430)
 
 
-
+«[Kiribati](../gil/#bpn10430)» 
 
 
 
@@ -1843,7 +1843,7 @@ Boni Ngkoe ni koaua Atuan te Mwaaka, te buoka n taiani kangaanga, Moan te Mimito
 (Bahaiprayers.net ID: 10431)
 
 
-
+«[Kiribati](../gil/#bpn10431)» 
 
 
 
@@ -1856,7 +1856,7 @@ N te koaua boni Ngkoe te Tia Tautaeka ae e moamoa, te Koaua ae riao, te Buoka n 
 (Bahaiprayers.net ID: 10432)
 
 
-
+«[Kiribati](../gil/#bpn10432)» 
 
 
 
@@ -1868,7 +1868,7 @@ Te Uea ae Atuau!  Buokiia aika a tangiraki Iroum bwa a na teimatoa n Am Aro, n n
 (Bahaiprayers.net ID: 10433)
 
 
-
+«[Kiribati](../gil/#bpn10433)» 
 
 
 
@@ -1885,7 +1885,7 @@ I a tia n taua, au Uea, rarikin Am tituaraoi, ma n tinea mataniwiin kaon Am aako
 (Bahaiprayers.net ID: 10409)
 
 
-
+«[Kiribati](../gil/#bpn10409)» 
 
 
 
@@ -1897,7 +1897,7 @@ Ngkoe ae Atuan te Aakoi!  Bon Am bwai te karabwaaki bwa Ko a tia ni kautai ma n 
 (Bahaiprayers.net ID: 10410)
 
 
-
+«[Kiribati](../gil/#bpn10410)» 
 
 
 
@@ -1916,7 +1916,7 @@ I bubuti nakoim, O Ngkoe Ueaia Ueea ao te tia nanoangaiia aika kataorikaakaki ni
 (Bahaiprayers.net ID: 10465)
 
 
-
+«[Kiribati](../gil/#bpn10465)» 
 
 
 

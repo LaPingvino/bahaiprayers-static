@@ -106,7 +106,7 @@ Ty si vpravde vždy Odpúšťajúci, Najsúcitnejší.
 (Bahaiprayers.net ID: 13204)
 
 
-
+«[Slovensky](../sk/#bpn13204)» 
 
 
 
@@ -118,7 +118,7 @@ Som vskutku Tvoj služobník, ó môj Bože, a Tvoj úbožiak a Tvoj prosebník 
 (Bahaiprayers.net ID: 13205)
 
 
-
+«[Slovensky](../sk/#bpn13205)» 
 
 
 
@@ -133,7 +133,7 @@ Prosím Ťa, aby si vyslyšal moje volanie tak, ako si mi to prisľúbil. Ty si 
 (Bahaiprayers.net ID: 13206)
 
 
-
+«[Slovensky](../sk/#bpn13206)» 
 
 
 
@@ -155,7 +155,7 @@ Ty si vskutku Milostivý, Oslávený, Mocný, Všemocný.
 (Bahaiprayers.net ID: 13207)
 
 
-
+«[Slovensky](../sk/#bpn13207)» 
 
 
 
@@ -170,7 +170,7 @@ Pomôž mu, aby v tomto svete bytia zostal pevným a neochvejným Tvojej láske,
 (Bahaiprayers.net ID: 13208)
 
 
-
+«[Slovensky](../sk/#bpn13208)» 
 
 
 
@@ -187,7 +187,7 @@ Velebený si, ó môj nadovšetko Milovaný! Ovej ho ľúbeznou vôňou Svojej n
 (Bahaiprayers.net ID: 13131)
 
 
-
+«[Slovensky](../sk/#bpn13131)» 
 
 
 
@@ -200,7 +200,7 @@ Preto Ťa úpenlivo žiadam, pri Tvojom mene, prostredníctvom ktorého si preja
 (Bahaiprayers.net ID: 13188)
 
 
-
+«[Slovensky](../sk/#bpn13188)» 
 
 
 
@@ -212,7 +212,7 @@ Preto Ťa úpenlivo žiadam, pri Tvojom mene, prostredníctvom ktorého si preja
 (Bahaiprayers.net ID: 13132)
 
 
-
+«[Slovensky](../sk/#bpn13132)» 
 
 
 
@@ -224,7 +224,7 @@ Preto Ťa úpenlivo žiadam, pri Tvojom mene, prostredníctvom ktorého si preja
 (Bahaiprayers.net ID: 13133)
 
 
-
+«[Slovensky](../sk/#bpn13133)» 
 
 
 
@@ -241,7 +241,7 @@ Rozjasni, ó Pane, tvár Svojich služobníkov, aby na Teba mohli hľadieť, a o
 (Bahaiprayers.net ID: 13209)
 
 
-
+«[Slovensky](../sk/#bpn13209)» 
 
 
 
@@ -256,7 +256,7 @@ Všetka chvála a sláva patrí Tebe, ó Ty, o ktorom všetky veci svedčia, že
 (Bahaiprayers.net ID: 13210)
 
 
-
+«[Slovensky](../sk/#bpn13210)» 
 
 
 
@@ -270,7 +270,7 @@ Ty si Boh sily, slávy a štedrosti. Niet Boha okrem Teba, Zvrchovaného vládcu
 (Bahaiprayers.net ID: 13211)
 
 
-
+«[Slovensky](../sk/#bpn13211)» 
 
 
 
@@ -283,7 +283,7 @@ Ty si Všemohúci, Najvznešenejší, Najslávnejší, všetko Milujúci.
 (Bahaiprayers.net ID: 13212)
 
 
-
+«[Slovensky](../sk/#bpn13212)» 
 
 
 
@@ -296,7 +296,7 @@ Nástojčivo Ťa prosím, ó môj Pane, pri Tvojom Najväčšom mene, ktorým si
 (Bahaiprayers.net ID: 13213)
 
 
-
+«[Slovensky](../sk/#bpn13213)» 
 
 
 
@@ -310,7 +310,7 @@ Sláva buď Tebe. Si povznesený nad opis každého okrem Teba, lebo náležite 
 (Bahaiprayers.net ID: 13214)
 
 
-
+«[Slovensky](../sk/#bpn13214)» 
 
 
 
@@ -327,7 +327,7 @@ Sláva buď Tebe. Si povznesený nad opis každého okrem Teba, lebo náležite 
 (Bahaiprayers.net ID: 13119)
 
 
-
+«[Slovensky](../sk/#bpn13119)» 
 
 
 
@@ -341,7 +341,7 @@ Ty si Darca, všetko Milujúci.
 (Bahaiprayers.net ID: 13120)
 
 
-
+«[Slovensky](../sk/#bpn13120)» 
 
 
 
@@ -353,7 +353,7 @@ Ty si Darca, všetko Milujúci.
 (Bahaiprayers.net ID: 13121)
 
 
-
+«[Slovensky](../sk/#bpn13121)» 
 
 
 
@@ -366,7 +366,7 @@ Ty si Štedrý, všetko Milujúci.
 (Bahaiprayers.net ID: 13122)
 
 
-
+«[Slovensky](../sk/#bpn13122)» 
 
 
 
@@ -379,7 +379,7 @@ Ty si Štedrý, všetko Milujúci.
 (Bahaiprayers.net ID: 13123)
 
 
-
+«[Slovensky](../sk/#bpn13123)» 
 
 
 
@@ -391,7 +391,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13124)
 
 
-
+«[Slovensky](../sk/#bpn13124)» 
 
 
 
@@ -403,7 +403,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13125)
 
 
-
+«[Slovensky](../sk/#bpn13125)» 
 
 
 
@@ -415,7 +415,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13126)
 
 
-
+«[Slovensky](../sk/#bpn13126)» 
 
 
 
@@ -427,7 +427,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13127)
 
 
-
+«[Slovensky](../sk/#bpn13127)» 
 
 
 
@@ -440,7 +440,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13128)
 
 
-
+«[Slovensky](../sk/#bpn13128)» 
 
 
 
@@ -452,7 +452,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13129)
 
 
-
+«[Slovensky](../sk/#bpn13129)» 
 
 
 
@@ -464,7 +464,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13130)
 
 
-
+«[Slovensky](../sk/#bpn13130)» 
 
 
 
@@ -510,7 +510,7 @@ Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to,
 (Bahaiprayers.net ID: 9990)
 
 
-
+«[Slovensky](../sk/#bpn9990)» 
 
 
 
@@ -528,7 +528,7 @@ Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to,
 (Bahaiprayers.net ID: 13242)
 
 
-
+«[Slovensky](../sk/#bpn13242)» 
 
 
 
@@ -544,7 +544,7 @@ Vskutku, Ty si Štedrý, Milosrdný. Ty si Vlastníkom veľkej štedrosti a vsku
 (Bahaiprayers.net ID: 13243)
 
 
-
+«[Slovensky](../sk/#bpn13243)» 
 
 
 
@@ -562,7 +562,7 @@ Vskutku, Ty si Živiteľ, Pomocník, Štedrý, darmi Oplývajúci, vždy Dávaj�
 (Bahaiprayers.net ID: 13175)
 
 
-
+«[Slovensky](../sk/#bpn13175)» 
 
 
 
@@ -578,7 +578,7 @@ Vskutku, Ty si Živiteľ, Pomocník, Štedrý, darmi Oplývajúci, vždy Dávaj�
 (Bahaiprayers.net ID: 13230)
 
 
-
+«[Slovensky](../sk/#bpn13230)» 
 
 
 
@@ -595,7 +595,7 @@ Vskutku, Ty si Všemohúci, skrze Seba Jestvujúci, Darca, Odpúšťajúci, Vše
 (Bahaiprayers.net ID: 13231)
 
 
-
+«[Slovensky](../sk/#bpn13231)» 
 
 
 
@@ -612,7 +612,7 @@ Niet iného Boha okrem Teba, Pomocníka v nebezpečí, Sebedostačujúceho.
 (Bahaiprayers.net ID: 9988)
 
 
-
+«[Slovensky](../sk/#bpn9988)» 
 
 
 
@@ -631,7 +631,7 @@ Vskutku, Ty si Drahocenný, vždy Obdarujúci, Ty si Otvorená dlaň.
 (Bahaiprayers.net ID: 13160)
 
 
-
+«[Slovensky](../sk/#bpn13160)» 
 
 
 
@@ -650,7 +650,7 @@ A keď zatúžil prejaviť ľuďom Svoju milosť a láskavosť a nastoliť vo sv
 (Bahaiprayers.net ID: 13195)
 
 
-
+«[Slovensky](../sk/#bpn13195)» 
 
 
 
@@ -665,7 +665,7 @@ Ako je určené v Najsvätejšej knihe (Kitáb-i-aqdas), ženích a nevesta jedn
 (Bahaiprayers.net ID: 13196)
 
 
-
+«[Slovensky](../sk/#bpn13196)» 
 
 
 
@@ -678,7 +678,7 @@ On je Boh! Ó nedosiahnuteľný Pane! Vo Svojej všemohúcej múdrosti si ľuďo
 (Bahaiprayers.net ID: 13197)
 
 
-
+«[Slovensky](../sk/#bpn13197)» 
 
 
 
@@ -690,7 +690,7 @@ Sláva buď Tebe, ó môj Bože! Vskutku, tento Tvoj služobník a táto Tvoja s
 (Bahaiprayers.net ID: 13198)
 
 
-
+«[Slovensky](../sk/#bpn13198)» 
 
 
 
@@ -703,7 +703,7 @@ Vskutku, Ty si Veľkorysý. Vskutku, Ty si Milostivý, nadovšetko Milosrdný.
 (Bahaiprayers.net ID: 13199)
 
 
-
+«[Slovensky](../sk/#bpn13199)» 
 
 
 
@@ -719,7 +719,7 @@ Vskutku, Ty si Veľkorysý. Vskutku, Ty si Milostivý, nadovšetko Milosrdný.
 (Bahaiprayers.net ID: 13233)
 
 
-
+«[Slovensky](../sk/#bpn13233)» 
 
 
 
@@ -751,7 +751,7 @@ Z nebies prehovoru Toho, kto je Túžbou sveta, bolo zoslané to, čo vedie k ob
 (Bahaiprayers.net ID: 13251)
 
 
-
+«[Slovensky](../sk/#bpn13251)» 
 
 
 
@@ -775,7 +775,7 @@ Tak sa spŕšky prehovoru zniesli z nebies vôle tvojho Pána, nadovšetko Milos
 (Bahaiprayers.net ID: 13248)
 
 
-
+«[Slovensky](../sk/#bpn13248)» 
 
 
 
@@ -792,7 +792,7 @@ Keď dostaneš túto tabuľku, odriekaj ju najľúbeznejším nápevom a riekni:
 (Bahaiprayers.net ID: 13249)
 
 
-
+«[Slovensky](../sk/#bpn13249)» 
 
 
 
@@ -817,7 +817,7 @@ Na to ohromené Pero Najvyššieho zvolalo: „Ó Ty, ktorý si povznesený nad 
 (Bahaiprayers.net ID: 13250)
 
 
-
+«[Slovensky](../sk/#bpn13250)» 
 
 
 
@@ -835,7 +835,7 @@ Vskutku, Ty si Milostivý. Vskutku, Ty si Pán veľkej priazne.
 (Bahaiprayers.net ID: 13232)
 
 
-
+«[Slovensky](../sk/#bpn13232)» 
 
 
 
@@ -855,7 +855,7 @@ Ty si, vskutku, Vševediaci, nadovšetko Múdry.
 (Bahaiprayers.net ID: 13241)
 
 
-
+«[Slovensky](../sk/#bpn13241)» 
 
 
 
@@ -882,7 +882,7 @@ Ty si, vskutku, nadovšetko Mocný, Najvyšší, nadovšetko Slávny, všetko si
 (Bahaiprayers.net ID: 13247)
 
 
-
+«[Slovensky](../sk/#bpn13247)» 
 
 
 
@@ -900,7 +900,7 @@ Som hriešnik a Ty, ó môj Pane, si vždy Odpúšťajúci. Hneď ako som Ťa ro
 (Bahaiprayers.net ID: 13166)
 
 
-
+«[Slovensky](../sk/#bpn13166)» 
 
 
 
@@ -913,7 +913,7 @@ Som, ó môj Bože, Tvoj služobník a syn Tvojho služobníka. Rozpoznal som Tv
 (Bahaiprayers.net ID: 13167)
 
 
-
+«[Slovensky](../sk/#bpn13167)» 
 
 
 
@@ -925,7 +925,7 @@ Vidíš ma, ó môj Pane, ako som tvár obrátil k nebesiam Tvojho požehnania a
 (Bahaiprayers.net ID: 13168)
 
 
-
+«[Slovensky](../sk/#bpn13168)» 
 
 
 
@@ -940,7 +940,7 @@ Ty si Ten, ktorého moc siaha od nepamäti a trvá navždy. Nič neunikne Tvojmu
 (Bahaiprayers.net ID: 13169)
 
 
-
+«[Slovensky](../sk/#bpn13169)» 
 
 
 
@@ -954,7 +954,7 @@ Odpusť teda, ó môj Pane, Svojim služobníkom a Svojim služobníčkam. Ty si
 (Bahaiprayers.net ID: 13170)
 
 
-
+«[Slovensky](../sk/#bpn13170)» 
 
 
 
@@ -973,7 +973,7 @@ Chvála Tebe, ó Pane! Odpusť nám naše hriechy, zmiluj sa nad nami a umožni 
 (Bahaiprayers.net ID: 13171)
 
 
-
+«[Slovensky](../sk/#bpn13171)» 
 
 
 
@@ -985,7 +985,7 @@ Ponížene Ťa prosím, ó môj Pane, odpusť mi každú zmienku, ktorá nie je 
 (Bahaiprayers.net ID: 13172)
 
 
-
+«[Slovensky](../sk/#bpn13172)» 
 
 
 
@@ -999,7 +999,7 @@ Oslávený si, ó Pane! Vždy odpúšťaš hriechy tým Svojim služobníkom, kt
 (Bahaiprayers.net ID: 13173)
 
 
-
+«[Slovensky](../sk/#bpn13173)» 
 
 
 
@@ -1013,7 +1013,7 @@ Chvála buď Tebe! Každý dôkaz štedrosti pochádza od Teba a každé znameni
 (Bahaiprayers.net ID: 13174)
 
 
-
+«[Slovensky](../sk/#bpn13174)» 
 
 
 
@@ -1031,7 +1031,7 @@ Oslávené buď Tvoje meno, ó Ty, kto si Kráľ všetkých kráľov!
 (Bahaiprayers.net ID: 13143)
 
 
-
+«[Slovensky](../sk/#bpn13143)» 
 
 
 
@@ -1045,7 +1045,7 @@ Ty si vskutku Pán celého ľudstva a Vlastník tohto sveta i sveta ďalšieho. 
 (Bahaiprayers.net ID: 13144)
 
 
-
+«[Slovensky](../sk/#bpn13144)» 
 
 
 
@@ -1059,7 +1059,7 @@ Ty si, v pravde pravdúcej, Pán svetov a Boh všetkých, ktorí sú v nebesách
 (Bahaiprayers.net ID: 13145)
 
 
-
+«[Slovensky](../sk/#bpn13145)» 
 
 
 
@@ -1074,7 +1074,7 @@ Tvoja moc, vskutku, sa rovná všetkým veciam.
 (Bahaiprayers.net ID: 13146)
 
 
-
+«[Slovensky](../sk/#bpn13146)» 
 
 
 
@@ -1089,7 +1089,7 @@ Máš moc učiniť čokoľvek sa Ti zapáči. Ty si, vskutku, nadovšetko Mocný
 (Bahaiprayers.net ID: 13147)
 
 
-
+«[Slovensky](../sk/#bpn13147)» 
 
 
 
@@ -1105,7 +1105,7 @@ Niet iného Boha okrem Teba, nadovšetko Mocného, Blahodarného.
 (Bahaiprayers.net ID: 13148)
 
 
-
+«[Slovensky](../sk/#bpn13148)» 
 
 
 
@@ -1120,7 +1120,7 @@ Udeľ Svoje požehnanie, ó môj Pane, Poslom, svätým a spravodlivým. Vskutku
 (Bahaiprayers.net ID: 13149)
 
 
-
+«[Slovensky](../sk/#bpn13149)» 
 
 
 
@@ -1136,7 +1136,7 @@ Tebe náleží absolútna právomoc prikazovať.
 (Bahaiprayers.net ID: 13150)
 
 
-
+«[Slovensky](../sk/#bpn13150)» 
 
 
 
@@ -1148,7 +1148,7 @@ Vrav: Boh postačuje všetkému a nadovšetko a nič v nebi ani na zemi okrem Bo
 (Bahaiprayers.net ID: 13151)
 
 
-
+«[Slovensky](../sk/#bpn13151)» 
 
 
 
@@ -1163,7 +1163,7 @@ Ty si Všemohúci, nadovšetko Slávny a Najmocnejší.
 (Bahaiprayers.net ID: 13152)
 
 
-
+«[Slovensky](../sk/#bpn13152)» 
 
 
 
@@ -1177,7 +1177,7 @@ Ty si, vskutku, Silný, vždy Dávajúci, Schopný, Všemohúci.
 (Bahaiprayers.net ID: 13153)
 
 
-
+«[Slovensky](../sk/#bpn13153)» 
 
 
 
@@ -1196,7 +1196,7 @@ Niet iného Boha okrem Teba, nadovšetko Mocného, nadovšetko Múdreho.
 (Bahaiprayers.net ID: 13161)
 
 
-
+«[Slovensky](../sk/#bpn13161)» 
 
 
 
@@ -1212,7 +1212,7 @@ Zo Svojej štedrosti pre mňa urči, ó Pane, čo mi prinesie prospech v tomto i
 (Bahaiprayers.net ID: 13162)
 
 
-
+«[Slovensky](../sk/#bpn13162)» 
 
 
 
@@ -1226,7 +1226,7 @@ Ty si Darca, všetko Milujúci.
 (Bahaiprayers.net ID: 9994)
 
 
-
+«[Slovensky](../sk/#bpn9994)» 
 
 
 
@@ -1240,7 +1240,7 @@ Ty si Odpúšťajúci, Láskavý.
 (Bahaiprayers.net ID: 13163)
 
 
-
+«[Slovensky](../sk/#bpn13163)» 
 
 
 
@@ -1254,7 +1254,7 @@ Ty si Súcitný, Milosrdný. Ty si Veľký, Blahodárny Boh.
 (Bahaiprayers.net ID: 13164)
 
 
-
+«[Slovensky](../sk/#bpn13164)» 
 
 
 
@@ -1267,7 +1267,7 @@ Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 (Bahaiprayers.net ID: 13165)
 
 
-
+«[Slovensky](../sk/#bpn13165)» 
 
 
 
@@ -1284,7 +1284,7 @@ Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 (Bahaiprayers.net ID: 13156)
 
 
-
+«[Slovensky](../sk/#bpn13156)» 
 
 
 
@@ -1300,7 +1300,7 @@ Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 (Bahaiprayers.net ID: 9992)
 
 
-
+«[Slovensky](../sk/#bpn9992)» 
 
 
 
@@ -1313,7 +1313,7 @@ Ty si skutočne Kráľ všetkých ľudí. Niet Boha okrem Teba, vždy Odpúšťa
 (Bahaiprayers.net ID: 13112)
 
 
-
+«[Slovensky](../sk/#bpn13112)» 
 
 
 
@@ -1327,7 +1327,7 @@ Môj Bože, môj Zbožňovaný, môj Kráľ, moja Túžba! Ktorýže jazyk sa Ti
 (Bahaiprayers.net ID: 13113)
 
 
-
+«[Slovensky](../sk/#bpn13113)» 
 
 
 
@@ -1343,7 +1343,7 @@ Povedz: Boh je, vskutku, Stvoriteľom všetkých vecí. Dáva hojnú podporu kom
 (Bahaiprayers.net ID: 13114)
 
 
-
+«[Slovensky](../sk/#bpn13114)» 
 
 
 
@@ -1355,7 +1355,7 @@ Povedz: Boh je, vskutku, Stvoriteľom všetkých vecí. Dáva hojnú podporu kom
 (Bahaiprayers.net ID: 13115)
 
 
-
+«[Slovensky](../sk/#bpn13115)» 
 
 
 
@@ -1367,7 +1367,7 @@ Povedz: Boh je, vskutku, Stvoriteľom všetkých vecí. Dáva hojnú podporu kom
 (Bahaiprayers.net ID: 9991)
 
 
-
+«[Slovensky](../sk/#bpn9991)» 
 
 
 
@@ -1380,7 +1380,7 @@ Ty si Všemocný, Milujúci a Živiteľ celého ľudstva.
 (Bahaiprayers.net ID: 13116)
 
 
-
+«[Slovensky](../sk/#bpn13116)» 
 
 
 
@@ -1393,7 +1393,7 @@ Ty si Všemocný, Milujúci a Živiteľ celého ľudstva.
 (Bahaiprayers.net ID: 13117)
 
 
-
+«[Slovensky](../sk/#bpn13117)» 
 
 
 
@@ -1407,7 +1407,7 @@ Ty si vskutku Jeden, Jediný, Silný, Vševediaci, Premúdry.
 (Bahaiprayers.net ID: 13118)
 
 
-
+«[Slovensky](../sk/#bpn13118)» 
 
 
 
@@ -1427,7 +1427,7 @@ Ty si, vskutku, Všemocný, Vševediaci, všetko Poznajúci.
 (Bahaiprayers.net ID: 13240)
 
 
-
+«[Slovensky](../sk/#bpn13240)» 
 
 
 
@@ -1444,7 +1444,7 @@ Pomôž im, ó môj Bože, aby Ťa učinili víťazným a velebili Tvoje Slovo. 
 (Bahaiprayers.net ID: 13234)
 
 
-
+«[Slovensky](../sk/#bpn13234)» 
 
 
 
@@ -1456,7 +1456,7 @@ V mene Toho, kto bol prisľúbený v Knihách Boha, Vševediaceho, so všetkým 
 (Bahaiprayers.net ID: 13235)
 
 
-
+«[Slovensky](../sk/#bpn13235)» 
 
 
 
@@ -1481,7 +1481,7 @@ V mene Toho, kto bol prisľúbený v Knihách Boha, Vševediaceho, so všetkým 
 (Bahaiprayers.net ID: 13236)
 
 
-
+«[Slovensky](../sk/#bpn13236)» 
 
 
 
@@ -1496,7 +1496,7 @@ Niet iného Boha okrem Teba, Vševediaceho, Najmúdrejšieho. Všetka chvála pa
 (Bahaiprayers.net ID: 13237)
 
 
-
+«[Slovensky](../sk/#bpn13237)» 
 
 
 
@@ -1508,7 +1508,7 @@ Pochválený buď, ó Pane môj Bože! Pôst sme dodržiavali v súlade s Tvojí
 (Bahaiprayers.net ID: 13238)
 
 
-
+«[Slovensky](../sk/#bpn13238)» 
 
 
 
@@ -1520,7 +1520,7 @@ Pochválený buď, ó Bože, môj Bože! Teraz nastali dni, keď si Svojim vyvol
 (Bahaiprayers.net ID: 13239)
 
 
-
+«[Slovensky](../sk/#bpn13239)» 
 
 
 
@@ -1536,7 +1536,7 @@ Toto je sviatok Riḍvánu, jarné obdobie, v ktorom sa medzi nebom a zemou zjav
 (Bahaiprayers.net ID: 13244)
 
 
-
+«[Slovensky](../sk/#bpn13244)» 
 
 
 
@@ -1568,7 +1568,7 @@ Slová Božie majú na Toho, kto je Zjaviteľom nepochybných dôkazov, taký op
 (Bahaiprayers.net ID: 13245)
 
 
-
+«[Slovensky](../sk/#bpn13245)» 
 
 
 
@@ -1589,7 +1589,7 @@ Večná svieca žiari v nezahalenej sláve. Hľa, ako strávila každý smrteľn
 (Bahaiprayers.net ID: 13246)
 
 
-
+«[Slovensky](../sk/#bpn13246)» 
 
 
 
@@ -1607,7 +1607,7 @@ Sláva buď Tebe, ó Pane môj Bože! Prosím Ťa, aby si odpustil mne a tým, k
 (Bahaiprayers.net ID: 13157)
 
 
-
+«[Slovensky](../sk/#bpn13157)» 
 
 
 
@@ -1624,7 +1624,7 @@ Prosím o Tvoje odpustenie, ó môj Bože, a žiadam o prepáčenie takým spôs
 (Bahaiprayers.net ID: 13158)
 
 
-
+«[Slovensky](../sk/#bpn13158)» 
 
 
 
@@ -1636,7 +1636,7 @@ Prosím o Tvoje odpustenie, ó môj Bože, a žiadam o prepáčenie takým spôs
 (Bahaiprayers.net ID: 13159)
 
 
-
+«[Slovensky](../sk/#bpn13159)» 
 
 
 
@@ -1655,7 +1655,7 @@ Ty si, vskutku, Pánom a Kráľom všetkých ľudí a máš moc nad všetkými v
 (Bahaiprayers.net ID: 13200)
 
 
-
+«[Slovensky](../sk/#bpn13200)» 
 
 
 
@@ -1667,7 +1667,7 @@ Zobudil som sa v Tvojom úkryte, ó môj Bože, a tomu, ktorý hľadá tento úk
 (Bahaiprayers.net ID: 13201)
 
 
-
+«[Slovensky](../sk/#bpn13201)» 
 
 
 
@@ -1680,7 +1680,7 @@ Niet iného Boha okrem Teba, Jediného, Neporovnateľného, Vševediaceho, nadov
 (Bahaiprayers.net ID: 13202)
 
 
-
+«[Slovensky](../sk/#bpn13202)» 
 
 
 
@@ -1696,7 +1696,7 @@ Nesklameš nikoho, kto Ťa vyhľadal, a nevzdiališ sa od nikoho, kto po Tebe t�
 (Bahaiprayers.net ID: 13203)
 
 
-
+«[Slovensky](../sk/#bpn13203)» 
 
 
 
@@ -1712,7 +1712,7 @@ Nesklameš nikoho, kto Ťa vyhľadal, a nevzdiališ sa od nikoho, kto po Tebe t�
 (Bahaiprayers.net ID: 13221)
 
 
-
+«[Slovensky](../sk/#bpn13221)» 
 
 
 
@@ -1726,7 +1726,7 @@ Ako ľúbezne chutí trpkosť smrti vytrpenej na Tvojej ceste a aké vzácne sú
 (Bahaiprayers.net ID: 13222)
 
 
-
+«[Slovensky](../sk/#bpn13222)» 
 
 
 
@@ -1740,7 +1740,7 @@ Azda lampa Tvojej lásky horí v ich srdci a v ich hrudi svieti svetlo Tvojej ne
 (Bahaiprayers.net ID: 13223)
 
 
-
+«[Slovensky](../sk/#bpn13223)» 
 
 
 
@@ -1754,7 +1754,7 @@ A nakoniec Ťa prosím pri svetle Tvojej tváre, aby si požehnal môjmu konaniu
 (Bahaiprayers.net ID: 13224)
 
 
-
+«[Slovensky](../sk/#bpn13224)» 
 
 
 
@@ -1767,7 +1767,7 @@ Daj, aby som sa mohol obrátiť k Tebe, vložiť v Teba celú svoju dôveru, vyh
 (Bahaiprayers.net ID: 13225)
 
 
-
+«[Slovensky](../sk/#bpn13225)» 
 
 
 
@@ -1779,7 +1779,7 @@ Kto iný okrem Boha odstraňuje ťažkosti? Vrav: Chvála buď Bohu! On je Boh! 
 (Bahaiprayers.net ID: 13226)
 
 
-
+«[Slovensky](../sk/#bpn13226)» 
 
 
 
@@ -1791,7 +1791,7 @@ Naliehavo Ťa prosím pri Tvojej moci, ó môj Bože! Nech ma v čase skúšok n
 (Bahaiprayers.net ID: 13227)
 
 
-
+«[Slovensky](../sk/#bpn13227)» 
 
 
 
@@ -1803,7 +1803,7 @@ Naliehavo Ťa prosím pri Tvojej moci, ó môj Bože! Nech ma v čase skúšok n
 (Bahaiprayers.net ID: 13228)
 
 
-
+«[Slovensky](../sk/#bpn13228)» 
 
 
 
@@ -1816,7 +1816,7 @@ Vskutku, Ty si Láskavý, Štedrý.
 (Bahaiprayers.net ID: 9993)
 
 
-
+«[Slovensky](../sk/#bpn9993)» 
 
 
 
@@ -1832,7 +1832,7 @@ Vskutku, Ty si Láskavý, Štedrý.
 (Bahaiprayers.net ID: 13183)
 
 
-
+«[Slovensky](../sk/#bpn13183)» 
 
 
 
@@ -1861,7 +1861,7 @@ Dosvedčujem Tvoju jednotu a Tvoju jedinosť a to, že Ty si Boh a že niet iné
 (Bahaiprayers.net ID: 9989)
 
 
-
+«[Slovensky](../sk/#bpn9989)» 
 
 
 
@@ -1879,7 +1879,7 @@ Pri Tebe samotnom a pri Tom, koho si ustanovil za Prejav Svojej vlastnej bytosti
 (Bahaiprayers.net ID: 13176)
 
 
-
+«[Slovensky](../sk/#bpn13176)» 
 
 
 
@@ -1894,7 +1894,7 @@ O láskavý Otče! Udeľ nám Svoje požehnania. Nehľaď na naše prehrešky. Z
 (Bahaiprayers.net ID: 13177)
 
 
-
+«[Slovensky](../sk/#bpn13177)» 
 
 
 
@@ -1908,7 +1908,7 @@ Ty si Mocný. Ty si Silný. Ty si Darca a Ty si vždy Dávajúci.
 (Bahaiprayers.net ID: 13178)
 
 
-
+«[Slovensky](../sk/#bpn13178)» 
 
 
 
@@ -1922,7 +1922,7 @@ Vskutku, Ty si Štedrý. Vskutku, Ty si Milosrdný. Vskutku, Ty si Vzácny, Milo
 (Bahaiprayers.net ID: 13179)
 
 
-
+«[Slovensky](../sk/#bpn13179)» 
 
 
 
@@ -1937,7 +1937,7 @@ Vskutku, Ty si Štedrý. Vskutku, Ty si Milosrdný. Vskutku, Ty si Vzácny, Milo
 (Bahaiprayers.net ID: 13180)
 
 
-
+«[Slovensky](../sk/#bpn13180)» 
 
 
 
@@ -1950,7 +1950,7 @@ Vskutku, Ty si Všemocný a nadovšetko Mocný.
 (Bahaiprayers.net ID: 13181)
 
 
-
+«[Slovensky](../sk/#bpn13181)» 
 
 
 
@@ -1963,7 +1963,7 @@ Ty si Darca, Udeľujúci, vždy Milujúci.
 (Bahaiprayers.net ID: 13182)
 
 
-
+«[Slovensky](../sk/#bpn13182)» 
 
 
 
@@ -1997,7 +1997,7 @@ Vskutku, On je Milosrdný, Súcitný. Chvála Bohu, Pánovi všetkých svetov.
 (Bahaiprayers.net ID: 13252)
 
 
-
+«[Slovensky](../sk/#bpn13252)» 
 
 
 
@@ -2016,7 +2016,7 @@ Vskutku, Ty si Mocný, Silný a Všemocný. Ty si Múdry, Počujúci a Vidiaci.
 (Bahaiprayers.net ID: 13253)
 
 
-
+«[Slovensky](../sk/#bpn13253)» 
 
 
 
@@ -2032,7 +2032,7 @@ Vskutku, Ty si Vľúdny, Mocný, Silný a Najmilosrdnejší z milosrdných.
 (Bahaiprayers.net ID: 13254)
 
 
-
+«[Slovensky](../sk/#bpn13254)» 
 
 
 
@@ -2048,7 +2048,7 @@ Vskutku, Ty si Silný, Mocný, Múdry a Vidiaci.
 (Bahaiprayers.net ID: 13255)
 
 
-
+«[Slovensky](../sk/#bpn13255)» 
 
 
 
@@ -2063,7 +2063,7 @@ Ty si Všemocný a konáš, čokoľvek si zaželáš.
 (Bahaiprayers.net ID: 13256)
 
 
-
+«[Slovensky](../sk/#bpn13256)» 
 
 
 
@@ -2077,7 +2077,7 @@ Ty si Všemocný a konáš, čokoľvek si zaželáš.
 (Bahaiprayers.net ID: 13257)
 
 
-
+«[Slovensky](../sk/#bpn13257)» 
 
 
 
@@ -2093,7 +2093,7 @@ Vskutku, Ty si Silný, Mocný, Všemocný.
 (Bahaiprayers.net ID: 13258)
 
 
-
+«[Slovensky](../sk/#bpn13258)» 
 
 
 
@@ -2111,7 +2111,7 @@ Máš moc činiť, čo sa Ti zapáči. Niet iného Boha okrem Teba, vždy Odpú�
 (Bahaiprayers.net ID: 13184)
 
 
-
+«[Slovensky](../sk/#bpn13184)» 
 
 
 
@@ -2123,7 +2123,7 @@ Tvoje meno ma uzdravuje, ó môj Bože, a spomienka na Teba je mi liekom. Blízk
 (Bahaiprayers.net ID: 13185)
 
 
-
+«[Slovensky](../sk/#bpn13185)» 
 
 
 
@@ -2138,7 +2138,7 @@ Vskutku, Ty si Pán života tohto i budúceho. Vskutku, Ty si vždy Odpúšťaj�
 (Bahaiprayers.net ID: 13186)
 
 
-
+«[Slovensky](../sk/#bpn13186)» 
 
 
 
@@ -2201,7 +2201,7 @@ Ty si, vskutku, Mocný, všetkému Dostačujúci, Uzdravujúci, Ochranca, Dávaj
 (Bahaiprayers.net ID: 13189)
 
 
-
+«[Slovensky](../sk/#bpn13189)» 
 
 
 
@@ -2217,7 +2217,7 @@ Ty si, vskutku, Mocný, všetkému Dostačujúci, Uzdravujúci, Ochranca, Dávaj
 (Bahaiprayers.net ID: 9995)
 
 
-
+«[Slovensky](../sk/#bpn9995)» 
 
 
 
@@ -2235,7 +2235,7 @@ Niet Boha okrem Teba, Všemocného, všetko si Podmaňujúceho, Nepodmieneného.
 (Bahaiprayers.net ID: 13154)
 
 
-
+«[Slovensky](../sk/#bpn13154)» 
 
 
 
@@ -2249,7 +2249,7 @@ Pri Tvojej moci! Či spím či bdiem, nežiadam o iné než o to, čo si želá�
 (Bahaiprayers.net ID: 13155)
 
 
-
+«[Slovensky](../sk/#bpn13155)» 
 
 
 
@@ -2266,7 +2266,7 @@ Vskutku Ty si Pánom sily. Máš moc prikazovať čokoľvek, čo si zaželáš, 
 (Bahaiprayers.net ID: 13215)
 
 
-
+«[Slovensky](../sk/#bpn13215)» 
 
 
 
@@ -2280,7 +2280,7 @@ Chvála buď Tebe, ó Ty, koho milujú tí, ktorí Ťa poznali!
 (Bahaiprayers.net ID: 13216)
 
 
-
+«[Slovensky](../sk/#bpn13216)» 
 
 
 
@@ -2294,7 +2294,7 @@ Ty si vskutku Boh Sily, Pomocník v nebezpečí, nadovšetko Slávny, nadovšetk
 (Bahaiprayers.net ID: 13217)
 
 
-
+«[Slovensky](../sk/#bpn13217)» 
 
 
 
@@ -2312,7 +2312,7 @@ Ty si vskutku Boh Sily, Pomocník v nebezpečí, nadovšetko Slávny, nadovšetk
 (Bahaiprayers.net ID: 13218)
 
 
-
+«[Slovensky](../sk/#bpn13218)» 
 
 
 
@@ -2325,7 +2325,7 @@ Prosím Ťa, umožni mi pevne priľnúť k Tvojej láske a spomienke na Teba. Vs
 (Bahaiprayers.net ID: 13219)
 
 
-
+«[Slovensky](../sk/#bpn13219)» 
 
 
 
@@ -2337,7 +2337,7 @@ Prosím Ťa, umožni mi pevne priľnúť k Tvojej láske a spomienke na Teba. Vs
 (Bahaiprayers.net ID: 13220)
 
 
-
+«[Slovensky](../sk/#bpn13220)» 
 
 
 
@@ -2354,7 +2354,7 @@ Od nepamäti máš schopnosť činiť, čo sa Ti páči, a prevýšiť všetko, 
 (Bahaiprayers.net ID: 13229)
 
 
-
+«[Slovensky](../sk/#bpn13229)» 
 
 
 
@@ -2420,7 +2420,7 @@ Keby ju čítali všetci služobníci a zamýšľali sa nad ňou, v ich žilách
 (Bahaiprayers.net ID: 13259)
 
 
-
+«[Slovensky](../sk/#bpn13259)» 
 
 
 
@@ -2440,7 +2440,7 @@ Nech je môj duch obeťou za všetky krivdy, ktoré si pretrpel a moja duša nec
 (Bahaiprayers.net ID: 13261)
 
 
-
+«[Slovensky](../sk/#bpn13261)» 
 
 
 
@@ -2514,7 +2514,7 @@ A ako ju zazreli v tomto stave a pochopili slovo z príbehu, ktorý vyrozprával
 (Bahaiprayers.net ID: 13260)
 
 
-
+«[Slovensky](../sk/#bpn13260)» 
 
 
 
@@ -2535,7 +2535,7 @@ Ty si Darca, Súcitný, Najštedrejší, Milostivý, Milosrdný, Zľutovný.
 (Bahaiprayers.net ID: 13262)
 
 
-
+«[Slovensky](../sk/#bpn13262)» 
 
 
 
@@ -2562,7 +2562,7 @@ Všetci sme vskutku v Bohu trpezliví.
 (Bahaiprayers.net ID: 13134)
 
 
-
+«[Slovensky](../sk/#bpn13134)» 
 
 
 
@@ -2577,7 +2577,7 @@ Vskutku, vo Svojej milosti si milovaný. Niet Boha okrem Teba, Pomocníka v nebe
 (Bahaiprayers.net ID: 13135)
 
 
-
+«[Slovensky](../sk/#bpn13135)» 
 
 
 
@@ -2599,7 +2599,7 @@ Niet iného Boha okrem Teba, Jedného, Jediného, Silného, Všemocného, Štedr
 (Bahaiprayers.net ID: 13136)
 
 
-
+«[Slovensky](../sk/#bpn13136)» 
 
 
 
@@ -2613,7 +2613,7 @@ Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali te
 (Bahaiprayers.net ID: 13137)
 
 
-
+«[Slovensky](../sk/#bpn13137)» 
 
 
 
@@ -2626,7 +2626,7 @@ Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali te
 (Bahaiprayers.net ID: 13138)
 
 
-
+«[Slovensky](../sk/#bpn13138)» 
 
 
 
@@ -2640,7 +2640,7 @@ Ty si Odpúšťajúci, Darca Svetla a Všemocný.
 (Bahaiprayers.net ID: 13139)
 
 
-
+«[Slovensky](../sk/#bpn13139)» 
 
 
 
@@ -2658,7 +2658,7 @@ Všetci sú v chudobe a v núdzi a Ty si vskutku Vlastník všetkého, všetko s
 (Bahaiprayers.net ID: 13190)
 
 
-
+«[Slovensky](../sk/#bpn13190)» 
 
 
 
@@ -2671,7 +2671,7 @@ Vskutku, Ty si Darca, Udeľujúci, Hľadiaci!
 (Bahaiprayers.net ID: 9996)
 
 
-
+«[Slovensky](../sk/#bpn9996)» 
 
 
 
@@ -2683,7 +2683,7 @@ Vskutku, Ty si Darca, Udeľujúci, Hľadiaci!
 (Bahaiprayers.net ID: 13191)
 
 
-
+«[Slovensky](../sk/#bpn13191)» 
 
 
 
@@ -2695,7 +2695,7 @@ Vskutku, Ty si Darca, Udeľujúci, Hľadiaci!
 (Bahaiprayers.net ID: 13192)
 
 
-
+«[Slovensky](../sk/#bpn13192)» 
 
 
 
@@ -2714,7 +2714,7 @@ Ty si Mocný a Silný, Ty si Odpúšťajúci a Ty si Ten, kto prehliada nedostat
 (Bahaiprayers.net ID: 13193)
 
 
-
+«[Slovensky](../sk/#bpn13193)» 
 
 
 
@@ -2728,7 +2728,7 @@ Ty si vskutku Silný, Ochranca, Schopný, Obranca, Mocný, Najveľkorysejší.
 (Bahaiprayers.net ID: 13194)
 
 
-
+«[Slovensky](../sk/#bpn13194)» 
 
 
 
@@ -2747,7 +2747,7 @@ Ty si vpravde nesmierne povznesený nad všetko okrem Seba. Ty si vskutku Lieči
 (Bahaiprayers.net ID: 13187)
 
 
-
+«[Slovensky](../sk/#bpn13187)» 
 
 
 
@@ -2760,7 +2760,7 @@ Ty si vskutku Mocný, Súcitný, Štedrý, Milosrdný.
 (Bahaiprayers.net ID: 13140)
 
 
-
+«[Slovensky](../sk/#bpn13140)» 
 
 
 
@@ -2774,7 +2774,7 @@ Udeľ Svojej nebeskej služobníčke, ó Bože, sväté vône zrodené z ducha T
 (Bahaiprayers.net ID: 13141)
 
 
-
+«[Slovensky](../sk/#bpn13141)» 
 
 
 
@@ -2788,7 +2788,7 @@ Udeľ Svojej nebeskej služobníčke, ó Bože, sväté vône zrodené z ducha T
 (Bahaiprayers.net ID: 13142)
 
 
-
+«[Slovensky](../sk/#bpn13142)» 
 
 
 

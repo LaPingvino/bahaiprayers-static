@@ -100,7 +100,7 @@ Olen herännyt Sinun suojassasi, oi Jumalani, ja sen, joka tuota suojaa etsii, t
 (Bahaiprayers.net ID: 7487)
 
 
-
+«[Suomi](../fi/#bpn7487)» 
 
 
 
@@ -115,7 +115,7 @@ Sinä totisesti olet kaikkien ihmisten Herra ja Kuningas, ja Sinä olet voimalli
 (Bahaiprayers.net ID: 7489)
 
 
-
+«[Suomi](../fi/#bpn7489)» 
 
 
 
@@ -128,7 +128,7 @@ Ei ole muuta Jumalaa kuin Sinä, Ainoa, Verraton, Kaikkitietävä, Kaikkiviisas.
 (Bahaiprayers.net ID: 7488)
 
 
-
+«[Suomi](../fi/#bpn7488)» 
 
 
 
@@ -145,7 +145,7 @@ Oi Jumalani, olen palvelijasi ja palvelijasi poika! Olen käsittänyt totuutesi 
 (Bahaiprayers.net ID: 7490)
 
 
-
+«[Suomi](../fi/#bpn7490)» 
 
 
 
@@ -159,7 +159,7 @@ Ei ole ketään, oi Herrani, joka voi kohdella minua jalomielisesti ja jonka puo
 (Bahaiprayers.net ID: 7491)
 
 
-
+«[Suomi](../fi/#bpn7491)» 
 
 
 
@@ -173,7 +173,7 @@ Ylistys olkoon Sinulle, oi Sinä, joka olet Sinut tunteneiden rakastama.
 (Bahaiprayers.net ID: 7492)
 
 
-
+«[Suomi](../fi/#bpn7492)» 
 
 
 
@@ -185,7 +185,7 @@ Rukoilen Sinua suomaan minulle anteeksi, oi Herrani, jokaisen maininnan paitsi S
 (Bahaiprayers.net ID: 7493)
 
 
-
+«[Suomi](../fi/#bpn7493)» 
 
 
 
@@ -197,7 +197,7 @@ Ylistys olkoon Sinun, oi Herrani! Suo meille anteeksi syntimme, ole meille armol
 (Bahaiprayers.net ID: 7494)
 
 
-
+«[Suomi](../fi/#bpn7494)» 
 
 
 
@@ -210,7 +210,7 @@ Oi Herra! Jos Sinä et anna minulle anteeksi, kuka silloin voi suoda anteeksiann
 (Bahaiprayers.net ID: 7495)
 
 
-
+«[Suomi](../fi/#bpn7495)» 
 
 
 
@@ -223,7 +223,7 @@ Siunaa minua, oi Jumalani, ja niitä, jotka uskovat merkkeihisi säädettynä p�
 (Bahaiprayers.net ID: 7496)
 
 
-
+«[Suomi](../fi/#bpn7496)» 
 
 
 
@@ -235,7 +235,7 @@ Oi sinä anteeksi antava Herra! Sinä olet kaikkien näiden palvelijoittesi turv
 (Bahaiprayers.net ID: 7497)
 
 
-
+«[Suomi](../fi/#bpn7497)» 
 
 
 
@@ -251,7 +251,7 @@ Totisesti Sinä olet Kaikkivaltias, Itseoleva, Antaja, Anteeksi antava, Armahtaj
 (Bahaiprayers.net ID: 7498)
 
 
-
+«[Suomi](../fi/#bpn7498)» 
 
 
 
@@ -270,7 +270,7 @@ Ei ole muuta Jumalaa kuin Sinä, voiman Jumala, kirkkauden Jumala, tiedon ja vii
 (Bahaiprayers.net ID: 7499)
 
 
-
+«[Suomi](../fi/#bpn7499)» 
 
 
 
@@ -284,7 +284,7 @@ Sinä todellakin olet Kaikkivaltias, Kaikkein ylevin, Aina anteeksi antava, Kaik
 (Bahaiprayers.net ID: 7501)
 
 
-
+«[Suomi](../fi/#bpn7501)» 
 
 
 
@@ -297,7 +297,7 @@ Rukoilen Sinua oman itsesi kautta ja  Hänen kauttaan, jonka olet määrännyt o
 (Bahaiprayers.net ID: 7502)
 
 
-
+«[Suomi](../fi/#bpn7502)» 
 
 
 
@@ -311,7 +311,7 @@ Kaikki ovat vain köyhiä ja puutteenalaisia, ja Sinä totisesti olet Kaiken omi
 (Bahaiprayers.net ID: 7503)
 
 
-
+«[Suomi](../fi/#bpn7503)» 
 
 
 
@@ -326,7 +326,7 @@ Sinä totisesti olet voiman ja vallan Jumala, joka kykenet vastaamaan niille, jo
 (Bahaiprayers.net ID: 7504)
 
 
-
+«[Suomi](../fi/#bpn7504)» 
 
 
 
@@ -340,7 +340,7 @@ Ylistetty, mittaamattoman ylistetty olet Sinä! Totuudessasi Sinä olet jumaloit
 (Bahaiprayers.net ID: 7505)
 
 
-
+«[Suomi](../fi/#bpn7505)» 
 
 
 
@@ -354,7 +354,7 @@ Voimallinen olet Sinä tekemään niin, kuin mielit. Ei ole muuta Jumalaa kuin  
 (Bahaiprayers.net ID: 7500)
 
 
-
+«[Suomi](../fi/#bpn7500)» 
 
 
 
@@ -368,7 +368,7 @@ Anna meille jokapäiväinen leipämme ja suo oma lisäsi elämän tarpeisiin, ni
 (Bahaiprayers.net ID: 7506)
 
 
-
+«[Suomi](../fi/#bpn7506)» 
 
 
 
@@ -382,7 +382,7 @@ Sinä olet Sääliväinen, Armelias! Sinä olet mahtava hyväntekeväinen Jumala
 (Bahaiprayers.net ID: 7507)
 
 
-
+«[Suomi](../fi/#bpn7507)» 
 
 
 
@@ -404,7 +404,7 @@ Sinä olet toden totta Armollinen, Ylistetty, Mahtava, Kaikkivaltias.
 (Bahaiprayers.net ID: 7508)
 
 
-
+«[Suomi](../fi/#bpn7508)» 
 
 
 
@@ -421,7 +421,7 @@ He ovat itse, oi Herrani, odottaneet Sinun armosi ovella. Avaa se heidän eteens
 (Bahaiprayers.net ID: 7509)
 
 
-
+«[Suomi](../fi/#bpn7509)» 
 
 
 
@@ -435,7 +435,7 @@ Oi Herrani! Sinä näet heidän pitäytyvän armosi nuoraan ja tarttuvan lujasti
 (Bahaiprayers.net ID: 7510)
 
 
-
+«[Suomi](../fi/#bpn7510)» 
 
 
 
@@ -448,7 +448,7 @@ Totisesti Sinä olet ylimmäinen Hallitsija, Ylin totuus, Apu hädässä, Itseol
 (Bahaiprayers.net ID: 7511)
 
 
-
+«[Suomi](../fi/#bpn7511)» 
 
 
 
@@ -461,7 +461,7 @@ Ikimuistoisista ajoista asti on Sinulla ollut voima tehdä se, mikä Sinua miell
 (Bahaiprayers.net ID: 7512)
 
 
-
+«[Suomi](../fi/#bpn7512)» 
 
 
 
@@ -476,7 +476,7 @@ Kirkkauksien kirkkaus levätköön niiden yllä, jotka ovat järkkymättömiä j
 (Bahaiprayers.net ID: 7513)
 
 
-
+«[Suomi](../fi/#bpn7513)» 
 
 
 
@@ -490,7 +490,7 @@ Sinä olet mahtava. Sinä olet voimallinen. Sinä olet Antaja, ja Sinä olet Ain
 (Bahaiprayers.net ID: 7538)
 
 
-
+«[Suomi](../fi/#bpn7538)» 
 
 
 
@@ -506,7 +506,7 @@ Oi Jumalani! Oi Jumalani! Yhdistä palvelijoittesi sydämet ja paljasta heille s
 (Bahaiprayers.net ID: 7514)
 
 
-
+«[Suomi](../fi/#bpn7514)» 
 
 
 
@@ -518,7 +518,7 @@ Oi Jumalani, Herrani ja Mestarini! Olen irrottautunut sukulaisistani ja Sinun ka
 (Bahaiprayers.net ID: 7515)
 
 
-
+«[Suomi](../fi/#bpn7515)» 
 
 
 
@@ -533,7 +533,7 @@ Sano: Jumala on tosiaankin kaikkien asioiden Luoja. Hän antaa runsaan ravinnon,
 (Bahaiprayers.net ID: 7516)
 
 
-
+«[Suomi](../fi/#bpn7516)» 
 
 
 
@@ -547,7 +547,7 @@ Sinä olet totisesti Yksi, Ainoa, Mahtava, Kaikkitietävä, Kaikkiviisas.
 (Bahaiprayers.net ID: 7517)
 
 
-
+«[Suomi](../fi/#bpn7517)» 
 
 
 
@@ -561,7 +561,7 @@ Totisesti, Sinä olet Voimakas, Mahtava, Kaikkivaltias, ja Sinä olet Viisas, Ku
 (Bahaiprayers.net ID: 7518)
 
 
-
+«[Suomi](../fi/#bpn7518)» 
 
 
 
@@ -577,7 +577,7 @@ Totisesti Sinä olet Voimallinen, Mahtava, Viisas ja Näkevä.
 (Bahaiprayers.net ID: 7519)
 
 
-
+«[Suomi](../fi/#bpn7519)» 
 
 
 
@@ -594,7 +594,7 @@ Totisesti Sinä olet Laupias, Voimallinen, Mahtava ja armeliaista Kaikkein armel
 (Bahaiprayers.net ID: 7520)
 
 
-
+«[Suomi](../fi/#bpn7520)» 
 
 
 
@@ -611,7 +611,7 @@ Totisesti Sinä vahvistat ketä vain halunnetkin siinä, minkä tahdot, ja totis
 (Bahaiprayers.net ID: 7521)
 
 
-
+«[Suomi](../fi/#bpn7521)» 
 
 
 
@@ -626,7 +626,7 @@ Oi Jumala! Suo meille kaitselmuksesi! Sinä olet voimallinen! Sinä olet antaja!
 (Bahaiprayers.net ID: 7522)
 
 
-
+«[Suomi](../fi/#bpn7522)» 
 
 
 
@@ -650,7 +650,7 @@ Kun Hän halusi osoittaa armoansa ja hyvyyttänsä ihmiselle ja saattaa maailman
 (Bahaiprayers.net ID: 7599)
 
 
-
+«[Suomi](../fi/#bpn7599)» 
 
 
 
@@ -663,7 +663,7 @@ Totisesti Sinä olet Jalomielinen. Totisesti Sinä olet Kaikkivaltias. Totisesti
 (Bahaiprayers.net ID: 7602)
 
 
-
+«[Suomi](../fi/#bpn7602)» 
 
 
 
@@ -675,7 +675,7 @@ Kunnia olkoon Sinulle, oi Jumalani! Totisesti tämä Sinun palvelijasi ja tämä
 (Bahaiprayers.net ID: 7600)
 
 
-
+«[Suomi](../fi/#bpn7600)» 
 
 
 
@@ -689,7 +689,7 @@ Oi Sinä hyvä Jumala! Anna tämän avioliiton synnyttää koralleja ja helmiä.
 (Bahaiprayers.net ID: 7601)
 
 
-
+«[Suomi](../fi/#bpn7601)» 
 
 
 
@@ -705,7 +705,7 @@ Oi Jumala, minun Jumalani! Pyydän Sinua hartaasti tosi rakastajiesi veren kautt
 (Bahaiprayers.net ID: 7523)
 
 
-
+«[Suomi](../fi/#bpn7523)» 
 
 
 
@@ -717,7 +717,7 @@ Oi Herra! Tässä kaikkein ylhäisimmässä uskontojärjestelmässä Sinä hyvä
 (Bahaiprayers.net ID: 7524)
 
 
-
+«[Suomi](../fi/#bpn7524)» 
 
 
 
@@ -732,7 +732,7 @@ Totisesti, Sinä olet Kallein, Aina antava, Avokätinen.
 (Bahaiprayers.net ID: 7525)
 
 
-
+«[Suomi](../fi/#bpn7525)» 
 
 
 
@@ -745,7 +745,7 @@ Oi Herrani, pyhitän Sinulle sen, mikä kohdussani on. Salli sen sitten tulla ki
 (Bahaiprayers.net ID: 7526)
 
 
-
+«[Suomi](../fi/#bpn7526)» 
 
 
 
@@ -780,7 +780,7 @@ Totisesti Hän on Armelias, Sääliväinen! Ylistys olkoon Jumalalle, kaikkien m
 (Bahaiprayers.net ID: 7592)
 
 
-
+«[Suomi](../fi/#bpn7592)» 
 
 
 
@@ -803,7 +803,7 @@ Sinä olet toden totta Anteeksi antava, Antelias.
 (Bahaiprayers.net ID: 7591)
 
 
-
+«[Suomi](../fi/#bpn7591)» 
 
 
 
@@ -821,7 +821,7 @@ Oi Jumala, minun Jumalani! Me olemme Sinun palvelijoitasi, jotka olemme hartaina
 (Bahaiprayers.net ID: 7596)
 
 
-
+«[Suomi](../fi/#bpn7596)» 
 
 
 
@@ -838,7 +838,7 @@ Totisesti Sinä olet Jalomielinen, Armelias! Sinä olet runsaiden antien Haltija
 (Bahaiprayers.net ID: 7597)
 
 
-
+«[Suomi](../fi/#bpn7597)» 
 
 
 
@@ -855,7 +855,7 @@ Voimallinen olet Sinä tekemään niin, kuin Sinua miellyttää. Sinä totisesti
 (Bahaiprayers.net ID: 7527)
 
 
-
+«[Suomi](../fi/#bpn7527)» 
 
 
 
@@ -867,7 +867,7 @@ Luo minuun puhdas sydän, oi Jumalani, ja uudista omantuntoni rauha, oi Toivoni.
 (Bahaiprayers.net ID: 7528)
 
 
-
+«[Suomi](../fi/#bpn7528)» 
 
 
 
@@ -880,7 +880,7 @@ Sinä olet totisesti Kaikkivaltias, Kaikkein kirkkain, Kaikkein voimallisin.
 (Bahaiprayers.net ID: 7529)
 
 
-
+«[Suomi](../fi/#bpn7529)» 
 
 
 
@@ -892,7 +892,7 @@ Sano: “Oi Jumala, minun Jumalani! Kaunista pääni oikeudenmukaisuuden kruunul
 (Bahaiprayers.net ID: 7530)
 
 
-
+«[Suomi](../fi/#bpn7530)» 
 
 
 
@@ -906,7 +906,7 @@ Totisesti, Sinä olet Antaja, Antelias, Armelias, Anteeksi antava.
 (Bahaiprayers.net ID: 7531)
 
 
-
+«[Suomi](../fi/#bpn7531)» 
 
 
 
@@ -919,7 +919,7 @@ Oi Jumala! Sinä olet minulle parempi ystävä kuin minä itse. Pyhittäydyn Sin
 (Bahaiprayers.net ID: 7532)
 
 
-
+«[Suomi](../fi/#bpn7532)» 
 
 
 
@@ -931,7 +931,7 @@ Oi Jumala, minun Jumalani! Varjele uskottuja palvelijoitasi itsekkyyden ja intoh
 (Bahaiprayers.net ID: 7533)
 
 
-
+«[Suomi](../fi/#bpn7533)» 
 
 
 
@@ -945,7 +945,7 @@ Sinä totisesti olet Voimakas, Suojelija, Väkevä, Puolustaja, Mahtava, Kaikkei
 (Bahaiprayers.net ID: 7534)
 
 
-
+«[Suomi](../fi/#bpn7534)» 
 
 
 
@@ -957,7 +957,7 @@ Oi Jumala, minun Jumalani! Auta, että uskotuilla palvelijoillasi olisi rakastav
 (Bahaiprayers.net ID: 7535)
 
 
-
+«[Suomi](../fi/#bpn7535)» 
 
 
 
@@ -972,7 +972,7 @@ Sinä olet Suojelija, Valvoja, Säälivä ja Armelias.
 (Bahaiprayers.net ID: 7536)
 
 
-
+«[Suomi](../fi/#bpn7536)» 
 
 
 
@@ -985,7 +985,7 @@ Totisesti Sinä olet Kaikkivoipa ja Kaikkivaltias!
 (Bahaiprayers.net ID: 7537)
 
 
-
+«[Suomi](../fi/#bpn7537)» 
 
 
 
@@ -1015,7 +1015,7 @@ Sinä olet Mahtava ja Voimallinen, Sinä olet Anteeksi antava etkä katso ihmisk
 (Bahaiprayers.net ID: 7539)
 
 
-
+«[Suomi](../fi/#bpn7539)» 
 
 
 
@@ -1033,7 +1033,7 @@ Ei ole muuta Jumalaa kuin Sinä, Kaikkivaltias, Kaiken alistava, Ehdoton.
 (Bahaiprayers.net ID: 7540)
 
 
-
+«[Suomi](../fi/#bpn7540)» 
 
 
 
@@ -1047,7 +1047,7 @@ Mahtisi kautta! En pyydä nukkuessani enkä valvoessani muuta kuin sitä, minkä
 (Bahaiprayers.net ID: 7541)
 
 
-
+«[Suomi](../fi/#bpn7541)» 
 
 
 
@@ -1060,7 +1060,7 @@ Sen tähden pyydän Sinulta hartaasti nimeesi, jolla ilmaisit jumaluutesi ja kor
 (Bahaiprayers.net ID: 7542)
 
 
-
+«[Suomi](../fi/#bpn7542)» 
 
 
 
@@ -1079,7 +1079,7 @@ Sinä totisesti olet Kaikkein voimallisin, Kaikkein korkein, Kaikkitietävä, Ka
 (Bahaiprayers.net ID: 7543)
 
 
-
+«[Suomi](../fi/#bpn7543)» 
 
 
 
@@ -1094,7 +1094,7 @@ Sinun mahtisi on toden totta kaiken vertainen.
 (Bahaiprayers.net ID: 7544)
 
 
-
+«[Suomi](../fi/#bpn7544)» 
 
 
 
@@ -1110,7 +1110,7 @@ Sinun on ehdoton valta määrätä.
 (Bahaiprayers.net ID: 7545)
 
 
-
+«[Suomi](../fi/#bpn7545)» 
 
 
 
@@ -1128,7 +1128,7 @@ Pyydän Sinua hartaasti, oi kaikkien nimien Herra ja taivaitten Luoja, auttamaan
 (Bahaiprayers.net ID: 7546)
 
 
-
+«[Suomi](../fi/#bpn7546)» 
 
 
 
@@ -1144,7 +1144,7 @@ Alkuhenki, jonka kautta kaikki henget ilmaistiin, ja alkuvalo, jonka kautta kaik
 (Bahaiprayers.net ID: 7608)
 
 
-
+«[Suomi](../fi/#bpn7608)» 
 
 
 
@@ -1158,7 +1158,7 @@ Oi uskolliset! ... Mikäli vierailette loistavan Kumppanin luo ylenneen Kaikkein
 (Bahaiprayers.net ID: 7609)
 
 
-
+«[Suomi](../fi/#bpn7609)» 
 
 
 
@@ -1174,7 +1174,7 @@ Minä anon Sinun mahtisi kautta, oi Jumalani! Älä anna minkään pahan ahdista
 (Bahaiprayers.net ID: 7547)
 
 
-
+«[Suomi](../fi/#bpn7547)» 
 
 
 
@@ -1189,7 +1189,7 @@ Mittaamattomasti ylistetty olet Sinä, oi Herra! Suojele meitä siltä, mikä on
 (Bahaiprayers.net ID: 7548)
 
 
-
+«[Suomi](../fi/#bpn7548)» 
 
 
 
@@ -1203,7 +1203,7 @@ Totisesti Sinä olet Varjelija, Suojelija, Turvaaja, Tyydyttäjä, ja totisesti 
 (Bahaiprayers.net ID: 7549)
 
 
-
+«[Suomi](../fi/#bpn7549)» 
 
 
 
@@ -1245,7 +1245,7 @@ Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja 
 (Bahaiprayers.net ID: 7485)
 
 
-
+«[Suomi](../fi/#bpn7485)» 
 
 
 
@@ -1261,7 +1261,7 @@ Oi Sinä, jonka koettelemukset ovat parantava lääke Sinua lähellä oleville, 
 (Bahaiprayers.net ID: 7550)
 
 
-
+«[Suomi](../fi/#bpn7550)» 
 
 
 
@@ -1276,7 +1276,7 @@ Sinulla on valta tehdä niin, kuin mielit. Ei ole muuta Jumalaa kuin Sinä, Apu 
 (Bahaiprayers.net ID: 7551)
 
 
-
+«[Suomi](../fi/#bpn7551)» 
 
 
 
@@ -1288,7 +1288,7 @@ Onko muuta vaikeuksien poistajaa kuin Jumala? Sano: Ylistetty olkoon Jumala! Hä
 (Bahaiprayers.net ID: 7552)
 
 
-
+«[Suomi](../fi/#bpn7552)» 
 
 
 
@@ -1306,7 +1306,7 @@ Kuinka korkea onkaan Sadratu'l-Muntahán todistus lehvästänsä, kuinka ylevä 
 (Bahaiprayers.net ID: 7605)
 
 
-
+«[Suomi](../fi/#bpn7605)» 
 
 
 
@@ -1320,7 +1320,7 @@ Suo, oi Sinä Jumalani, Sääliväinen, pyhyytesi suloisten tuulahdusten lohdutt
 (Bahaiprayers.net ID: 7606)
 
 
-
+«[Suomi](../fi/#bpn7606)» 
 
 
 
@@ -1336,7 +1336,7 @@ Oi Jumala! Kasvata tätä pientä lapsosta rakkautesi povella ja anna sille mait
 (Bahaiprayers.net ID: 7553)
 
 
-
+«[Suomi](../fi/#bpn7553)» 
 
 
 
@@ -1348,7 +1348,7 @@ Oi Jumala, opasta minua, suojele minua, tee minusta loistava lamppu ja kirkas t�
 (Bahaiprayers.net ID: 7554)
 
 
-
+«[Suomi](../fi/#bpn7554)» 
 
 
 
@@ -1360,7 +1360,7 @@ Oi verraton Herra! Ole suojana tälle poloiselle lapselle ja hyvä ja anteeksian
 (Bahaiprayers.net ID: 7555)
 
 
-
+«[Suomi](../fi/#bpn7555)» 
 
 
 
@@ -1372,7 +1372,7 @@ Oi Jumala! Kasvata näitä lapsia. Nämä lapset ovat Sinun hedelmätarhasi taim
 (Bahaiprayers.net ID: 7556)
 
 
-
+«[Suomi](../fi/#bpn7556)» 
 
 
 
@@ -1386,7 +1386,7 @@ Totisesti Sinä olet Voimakas, Mahtava, Näkijä, Kuulija.
 (Bahaiprayers.net ID: 7557)
 
 
-
+«[Suomi](../fi/#bpn7557)» 
 
 
 
@@ -1399,7 +1399,7 @@ Sinä olet Mahtava ja Voimakas, ja Sinä olet Kaikkea rakastava, Kaiken tietäv�
 (Bahaiprayers.net ID: 7558)
 
 
-
+«[Suomi](../fi/#bpn7558)» 
 
 
 
@@ -1412,7 +1412,7 @@ Sinä olet Lahjoittaja, Kaikkea rakastava, Säteilevin, Loistavin.
 (Bahaiprayers.net ID: 7559)
 
 
-
+«[Suomi](../fi/#bpn7559)» 
 
 
 
@@ -1426,7 +1426,7 @@ Sinä olet Mahtava ja Voimakas.
 (Bahaiprayers.net ID: 7560)
 
 
-
+«[Suomi](../fi/#bpn7560)» 
 
 
 
@@ -1439,7 +1439,7 @@ Sinä olet Antaja, Lahjoittaja ja Hyvä.
 (Bahaiprayers.net ID: 7561)
 
 
-
+«[Suomi](../fi/#bpn7561)» 
 
 
 
@@ -1452,7 +1452,7 @@ Sinä olet Mahtava ja Voimakas.
 (Bahaiprayers.net ID: 7562)
 
 
-
+«[Suomi](../fi/#bpn7562)» 
 
 
 
@@ -1465,7 +1465,7 @@ Sinä olet Lahjoittaja, Kaikkea rakastava.
 (Bahaiprayers.net ID: 7563)
 
 
-
+«[Suomi](../fi/#bpn7563)» 
 
 
 
@@ -1477,7 +1477,7 @@ Oi Sinä loistavin Herra! Tee tästä pienestä palvelijattarestasi siunattu ja 
 (Bahaiprayers.net ID: 7580)
 
 
-
+«[Suomi](../fi/#bpn7580)» 
 
 
 
@@ -1493,7 +1493,7 @@ Sinä olet Kaikkivoimainen, Kaikkein kirkkain, Kaikkivaltias.
 (Bahaiprayers.net ID: 7581)
 
 
-
+«[Suomi](../fi/#bpn7581)» 
 
 
 
@@ -1513,7 +1513,7 @@ Voimallinen olet Sinä tekemään sen, mikä Sinua miellyttää. Sinä totisesti
 (Bahaiprayers.net ID: 7564)
 
 
-
+«[Suomi](../fi/#bpn7564)» 
 
 
 
@@ -1532,7 +1532,7 @@ Sinä totisesti olet Antelias, Mahtava, Kaikkivoipa, Kahlitsematon. Ei ole muuta
 (Bahaiprayers.net ID: 7565)
 
 
-
+«[Suomi](../fi/#bpn7565)» 
 
 
 
@@ -1552,7 +1552,7 @@ Ei ole muuta Jumalaa kuin Sinä, Apu hädässä, Itseoleva.
 (Bahaiprayers.net ID: 7486)
 
 
-
+«[Suomi](../fi/#bpn7486)» 
 
 
 
@@ -1569,7 +1569,7 @@ Oi Jumala! Sinä näet rakastajiesi olevan Iranissa vihan ja kaunan kourissa. An
 (Bahaiprayers.net ID: 7566)
 
 
-
+«[Suomi](../fi/#bpn7566)» 
 
 
 
@@ -1589,7 +1589,7 @@ Sinä olet toden totta Kaikkitietävä, Kaikkiviisas.
 (Bahaiprayers.net ID: 7589)
 
 
-
+«[Suomi](../fi/#bpn7589)» 
 
 
 
@@ -1604,7 +1604,7 @@ Sinä olet Armollinen, Antelias, Kaikkein armeliain.
 (Bahaiprayers.net ID: 7590)
 
 
-
+«[Suomi](../fi/#bpn7590)» 
 
 
 
@@ -1621,7 +1621,7 @@ Valaise, oi Herra, palvelijoittesi kasvot, jotta he näkisivät Sinut, ja puhdis
 (Bahaiprayers.net ID: 7567)
 
 
-
+«[Suomi](../fi/#bpn7567)» 
 
 
 
@@ -1634,7 +1634,7 @@ Sinä olet totisesti Jalomielinen, Anteeksi antava.
 (Bahaiprayers.net ID: 7568)
 
 
-
+«[Suomi](../fi/#bpn7568)» 
 
 
 
@@ -1656,7 +1656,7 @@ Sinä olet todellakin Kaikkivaltias, Kaiken tietävä, Kaiken tunteva.
 (Bahaiprayers.net ID: 7584)
 
 
-
+«[Suomi](../fi/#bpn7584)» 
 
 
 
@@ -1681,7 +1681,7 @@ Rukoilen Sinua, oi Jumalani, oman itsesi kautta ja merkkiesi ja selvien todistei
 (Bahaiprayers.net ID: 7587)
 
 
-
+«[Suomi](../fi/#bpn7587)» 
 
 
 
@@ -1701,7 +1701,7 @@ Saata asiasi voitokkaaksi, oi Herrani, ja alenna vihollisesi. Säädä sitten me
 (Bahaiprayers.net ID: 7586)
 
 
-
+«[Suomi](../fi/#bpn7586)» 
 
 
 
@@ -1720,7 +1720,7 @@ Ei ole muuta Jumalaa kuin Sinä, Kaikkitietävä, Kaikkiviisas. Kaikki ylistys J
 (Bahaiprayers.net ID: 7585)
 
 
-
+«[Suomi](../fi/#bpn7585)» 
 
 
 
@@ -1732,7 +1732,7 @@ Oi Jumalallinen kaitselmus! Samalla kun kieltäydyn ruumiin pyyteistä ja lakkaa
 (Bahaiprayers.net ID: 7588)
 
 
-
+«[Suomi](../fi/#bpn7588)» 
 
 
 
@@ -1751,7 +1751,7 @@ Sinä todellakin olet mittaamattomasti ylhäisempi kaikkia muita kuin Itseäsi. 
 (Bahaiprayers.net ID: 11241)
 
 
-
+«[Suomi](../fi/#bpn11241)» 
 
 
 
@@ -1763,7 +1763,7 @@ Nimesi on parannukseni, oi Jumalani, ja muistamisesi lääkkeeni. Olla Sinua lä
 (Bahaiprayers.net ID: 7569)
 
 
-
+«[Suomi](../fi/#bpn7569)» 
 
 
 
@@ -1825,7 +1825,7 @@ Sinä olet totisesti Voimakas, Kaikkiriittoisa, Parantava, Varjeleva, Antava, My
 (Bahaiprayers.net ID: 7594)
 
 
-
+«[Suomi](../fi/#bpn7594)» 
 
 
 
@@ -1903,7 +1903,7 @@ Todistan siitä, oi Jumalani, mistä valittusi ovat todistaneet, ja tunnustan se
 (Bahaiprayers.net ID: 7484)
 
 
-
+«[Suomi](../fi/#bpn7484)» 
 
 
 
@@ -1929,7 +1929,7 @@ Ei ole muuta Jumalaa kuin Sinä, Yksi, Ainoa, Voimallinen, Kaiken tietävä, Ant
 (Bahaiprayers.net ID: 7570)
 
 
-
+«[Suomi](../fi/#bpn7570)» 
 
 
 
@@ -1943,7 +1943,7 @@ Sinä olet lempeän rakkauden Herra, Sinä olet kaipaavan sydämen perimmäinen 
 (Bahaiprayers.net ID: 7571)
 
 
-
+«[Suomi](../fi/#bpn7571)» 
 
 
 
@@ -1957,7 +1957,7 @@ Oi Herrani! Puhdista heidät rikkomuksista, karkota heidän murheensa ja muuta h
 (Bahaiprayers.net ID: 7572)
 
 
-
+«[Suomi](../fi/#bpn7572)» 
 
 
 
@@ -1971,7 +1971,7 @@ Totisesti Sinä olet Antelias, Voimallinen, Anteeksi antaja ja Lahjoittaja.
 (Bahaiprayers.net ID: 7573)
 
 
-
+«[Suomi](../fi/#bpn7573)» 
 
 
 
@@ -1983,7 +1983,7 @@ Oi sinä anteeksi antava Herra! Vaikka tietyt sielut päättivät elon päivät 
 (Bahaiprayers.net ID: 7574)
 
 
-
+«[Suomi](../fi/#bpn7574)» 
 
 
 
@@ -1999,7 +1999,7 @@ Sinun, oi Jumalan oksa, olkoon Jumalan muisteleminen ja Hänen ylistyksensä ja 
 (Bahaiprayers.net ID: 7607)
 
 
-
+«[Suomi](../fi/#bpn7607)» 
 
 
 
@@ -2132,7 +2132,7 @@ Ylistetty olkoon Herramme, Kaikkein korkein!
 (Bahaiprayers.net ID: 7595)
 
 
-
+«[Suomi](../fi/#bpn7595)» 
 
 
 
@@ -2152,7 +2152,7 @@ Totisesti Sinä olet Ylläpitäjä, Auttaja, Jalomielinen, Aina lahjoittava.
 (Bahaiprayers.net ID: 7575)
 
 
-
+«[Suomi](../fi/#bpn7575)» 
 
 
 
@@ -2180,7 +2180,7 @@ Toistakoon hän sitten kuusi kertaa tervehdyksen "Alláh-u-Abhá" ja niiden jäl
 (Bahaiprayers.net ID: 7603)
 
 
-
+«[Suomi](../fi/#bpn7603)» 
 
 
 
@@ -2198,7 +2198,7 @@ Sinä olet voiman, kunnian ja anteliaisuuden Jumala. Ei ole muuta Jumalaa kuin S
 (Bahaiprayers.net ID: 7576)
 
 
-
+«[Suomi](../fi/#bpn7576)» 
 
 
 
@@ -2210,7 +2210,7 @@ Anon Sinua, oi Jumalani, ylhäisimmän Sanasi kautta, jonka olet määrännyt ka
 (Bahaiprayers.net ID: 11240)
 
 
-
+«[Suomi](../fi/#bpn11240)» 
 
 
 
@@ -2222,7 +2222,7 @@ Sano: Jumala tyydyttää kaiken yli kaiken, eikä taivaissa eikä maan päällä
 (Bahaiprayers.net ID: 7577)
 
 
-
+«[Suomi](../fi/#bpn7577)» 
 
 
 
@@ -2288,7 +2288,7 @@ Jos kaikki palvelijat lukevat ja pohtivat tätä, heidän suonissaan syttyy tuli
 (Bahaiprayers.net ID: 7593)
 
 
-
+«[Suomi](../fi/#bpn7593)» 
 
 
 
@@ -2304,7 +2304,7 @@ Valkeus ja kirkkaus, tervehdys ja ylistys olkoot Hänen asiansa kätten pääll�
 (Bahaiprayers.net ID: 7578)
 
 
-
+«[Suomi](../fi/#bpn7578)» 
 
 
 
@@ -2328,7 +2328,7 @@ Siunaa, oi Herra minun Jumalani, jumalallista Lootuspuuta ja sen lehviä, sen ha
 (Bahaiprayers.net ID: 7582)
 
 
-
+«[Suomi](../fi/#bpn7582)» 
 
 
 
@@ -2349,7 +2349,7 @@ Sinä olet Antaja, Säälivä, Anteliain, Armelias, Laupias, Myötätuntoinen.
 (Bahaiprayers.net ID: 7583)
 
 
-
+«[Suomi](../fi/#bpn7583)» 
 
 
 
@@ -2372,7 +2372,7 @@ Oi Jumala! Karkota kaikki epäsovun aiheet ja valmista meille kaikkea, mikä saa
 (Bahaiprayers.net ID: 7598)
 
 
-
+«[Suomi](../fi/#bpn7598)» 
 
 
 
@@ -2389,7 +2389,7 @@ Sinä kohotit Hänet istumaan valtaistuimellasi luomakuntasi kaiken kansan edess
 (Bahaiprayers.net ID: 7579)
 
 
-
+«[Suomi](../fi/#bpn7579)» 
 
 
 

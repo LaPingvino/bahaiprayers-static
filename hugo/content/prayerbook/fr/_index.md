@@ -87,7 +87,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12904)
 
 
-
+«[Français](../fr/#bpn12904)» 
 
 
 
@@ -99,7 +99,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12905)
 
 
-
+«[Français](../fr/#bpn12905)» 
 
 
 
@@ -112,7 +112,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12906)
 
 
-
+«[Français](../fr/#bpn12906)» 
 
 
 
@@ -125,7 +125,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12907)
 
 
-
+«[Français](../fr/#bpn12907)» 
 
 
 
@@ -140,7 +140,7 @@ Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume.
 (Bahaiprayers.net ID: 12908)
 
 
-
+«[Français](../fr/#bpn12908)» 
 
 
 
@@ -152,7 +152,7 @@ Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume.
 (Bahaiprayers.net ID: 12909)
 
 
-
+«[Français](../fr/#bpn12909)» 
 
 
 
@@ -165,7 +165,7 @@ Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume.
 (Bahaiprayers.net ID: 12910)
 
 
-
+«[Français](../fr/#bpn12910)» 
 
 
 
@@ -178,7 +178,7 @@ Je suis modeste, humble et pauvre, mais tu es mon havre, mon refuge, mon soutien
 (Bahaiprayers.net ID: 12911)
 
 
-
+«[Français](../fr/#bpn12911)» 
 
 
 
@@ -193,7 +193,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12912)
 
 
-
+«[Français](../fr/#bpn12912)» 
 
 
 
@@ -205,7 +205,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12913)
 
 
-
+«[Français](../fr/#bpn12913)» 
 
 
 
@@ -218,7 +218,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12914)
 
 
-
+«[Français](../fr/#bpn12914)» 
 
 
 
@@ -231,7 +231,7 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12915)
 
 
-
+«[Français](../fr/#bpn12915)» 
 
 
 
@@ -243,7 +243,7 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12916)
 
 
-
+«[Français](../fr/#bpn12916)» 
 
 
 
@@ -255,7 +255,7 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12917)
 
 
-
+«[Français](../fr/#bpn12917)» 
 
 
 
@@ -268,7 +268,7 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12918)
 
 
-
+«[Français](../fr/#bpn12918)» 
 
 
 
@@ -280,7 +280,7 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12919)
 
 
-
+«[Français](../fr/#bpn12919)» 
 
 
 
@@ -295,7 +295,7 @@ Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneu
 (Bahaiprayers.net ID: 12920)
 
 
-
+«[Français](../fr/#bpn12920)» 
 
 
 
@@ -308,7 +308,7 @@ Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneu
 (Bahaiprayers.net ID: 12921)
 
 
-
+«[Français](../fr/#bpn12921)» 
 
 
 
@@ -322,7 +322,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12922)
 
 
-
+«[Français](../fr/#bpn12922)» 
 
 
 
@@ -335,7 +335,7 @@ Il est le Très-Glorieux.
 (Bahaiprayers.net ID: 12923)
 
 
-
+«[Français](../fr/#bpn12923)» 
 
 
 
@@ -348,7 +348,7 @@ Il est le Très-Glorieux.
 (Bahaiprayers.net ID: 12924)
 
 
-
+«[Français](../fr/#bpn12924)» 
 
 
 
@@ -361,7 +361,7 @@ Il est le Très-Glorieux, le Très-Lumineux.
 (Bahaiprayers.net ID: 12925)
 
 
-
+«[Français](../fr/#bpn12925)» 
 
 
 
@@ -373,7 +373,7 @@ Il est le Très-Glorieux, le Très-Lumineux.
 (Bahaiprayers.net ID: 12926)
 
 
-
+«[Français](../fr/#bpn12926)» 
 
 
 
@@ -385,7 +385,7 @@ Il est le Très-Glorieux, le Très-Lumineux.
 (Bahaiprayers.net ID: 12927)
 
 
-
+«[Français](../fr/#bpn12927)» 
 
 
 
@@ -401,7 +401,7 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12928)
 
 
-
+«[Français](../fr/#bpn12928)» 
 
 
 
@@ -429,7 +429,7 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 (Bahaiprayers.net ID: 12929)
 
 
-
+«[Français](../fr/#bpn12929)» 
 
 
 
@@ -447,7 +447,7 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 (Bahaiprayers.net ID: 9129)
 
 
-
+«[Français](../fr/#bpn9129)» 
 
 
 
@@ -461,7 +461,7 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 (Bahaiprayers.net ID: 9130)
 
 
-
+«[Français](../fr/#bpn9130)» 
 
 
 
@@ -476,7 +476,7 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 (Bahaiprayers.net ID: 9131)
 
 
-
+«[Français](../fr/#bpn9131)» 
 
 
 
@@ -493,7 +493,7 @@ Tu es, en vérité, le roi de tous les hommes. Il n’est pas d’autre Dieu que
 (Bahaiprayers.net ID: 9132)
 
 
-
+«[Français](../fr/#bpn9132)» 
 
 
 
@@ -508,7 +508,7 @@ Glorifié, immensément glorifié sois-tu ! Tu es adoré en ta vérité et c’e
 (Bahaiprayers.net ID: 9134)
 
 
-
+«[Français](../fr/#bpn9134)» 
 
 
 
@@ -521,7 +521,7 @@ Mon Dieu, mon adoré, mon roi, mon désir, quelle langue peut exprimer ma gratit
 (Bahaiprayers.net ID: 9133)
 
 
-
+«[Français](../fr/#bpn9133)» 
 
 
 
@@ -538,7 +538,7 @@ Dis : Dieu est en vérité l’Auteur de toutes choses. Il comble qui il veut. I
 (Bahaiprayers.net ID: 9135)
 
 
-
+«[Français](../fr/#bpn9135)» 
 
 
 
@@ -550,7 +550,7 @@ Dis : Dieu est en vérité l’Auteur de toutes choses. Il comble qui il veut. I
 (Bahaiprayers.net ID: 9136)
 
 
-
+«[Français](../fr/#bpn9136)» 
 
 
 
@@ -564,7 +564,7 @@ Ne prive pas cet être faible de ta grâce prodigieuse et, par ton pouvoir, acco
 (Bahaiprayers.net ID: 9137)
 
 
-
+«[Français](../fr/#bpn9137)» 
 
 
 
@@ -577,7 +577,7 @@ Ne prive pas cet être faible de ta grâce prodigieuse et, par ton pouvoir, acco
 (Bahaiprayers.net ID: 9138)
 
 
-
+«[Français](../fr/#bpn9138)» 
 
 
 
@@ -591,7 +591,7 @@ Tu es, en vérité, le Seul, l’Unique, le Puissant, l’Omniscient, l’infini
 (Bahaiprayers.net ID: 9139)
 
 
-
+«[Français](../fr/#bpn9139)» 
 
 
 
@@ -617,7 +617,7 @@ Tu es vraiment l’Omnipotent, l’Omniscient, l’Informé.
 (Bahaiprayers.net ID: 9303)
 
 
-
+«[Français](../fr/#bpn9303)» 
 
 
 
@@ -636,7 +636,7 @@ Il n’est de Dieu que toi, le Magnanime, le TrèsGénéreux. Loué sois-tu, toi
 (Bahaiprayers.net ID: 9140)
 
 
-
+«[Français](../fr/#bpn9140)» 
 
 
 
@@ -650,7 +650,7 @@ En vérité, tu es le Dieu de puissance, le Secours, le Très-Glorieux, le Tout-
 (Bahaiprayers.net ID: 9141)
 
 
-
+«[Français](../fr/#bpn9141)» 
 
 
 
@@ -669,7 +669,7 @@ Heureux qui tient fermement ta corde indéfectible et agrippe le pan de ton mant
 (Bahaiprayers.net ID: 9142)
 
 
-
+«[Français](../fr/#bpn9142)» 
 
 
 
@@ -682,7 +682,7 @@ Je te supplie de m’ancrer dans ton amour et dans ton souvenir. J’en ai certa
 (Bahaiprayers.net ID: 9143)
 
 
-
+«[Français](../fr/#bpn9143)» 
 
 
 
@@ -696,7 +696,7 @@ Ne me compte pas parmi ceux dont l’oreille est sourde, l’œil aveugle, la la
 (Bahaiprayers.net ID: 9144)
 
 
-
+«[Français](../fr/#bpn9144)» 
 
 
 
@@ -709,7 +709,7 @@ En vérité, tu es le Souverain suprême, la Vérité souveraine, le Secours, l�
 (Bahaiprayers.net ID: 9145)
 
 
-
+«[Français](../fr/#bpn9145)» 
 
 
 
@@ -722,7 +722,7 @@ En vérité, tu es le Souverain suprême, la Vérité souveraine, le Secours, l�
 (Bahaiprayers.net ID: 9146)
 
 
-
+«[Français](../fr/#bpn9146)» 
 
 
 
@@ -737,7 +737,7 @@ Tu es en vérité, le Généreux, l’éternel Dispensateur, l’Inestimable, le
 (Bahaiprayers.net ID: 9147)
 
 
-
+«[Français](../fr/#bpn9147)» 
 
 
 
@@ -756,7 +756,7 @@ Tu es en vérité, le Généreux, l’éternel Dispensateur, l’Inestimable, le
 (Bahaiprayers.net ID: 9148)
 
 
-
+«[Français](../fr/#bpn9148)» 
 
 
 
@@ -772,7 +772,7 @@ Gloire à toi, ô mon Seigneur, le Compatissant !Par l’océan tumultueux de ta
 (Bahaiprayers.net ID: 9149)
 
 
-
+«[Français](../fr/#bpn9149)» 
 
 
 
@@ -792,7 +792,7 @@ Il n’est pas d’autre Dieu que toi, le Puissant, le Secours, l’Absolu. Que 
 (Bahaiprayers.net ID: 9150)
 
 
-
+«[Français](../fr/#bpn9150)» 
 
 
 
@@ -807,7 +807,7 @@ Il n’est pas d’autre Dieu que toi, l’Omniscient, le Très-Sage.
 (Bahaiprayers.net ID: 9151)
 
 
-
+«[Français](../fr/#bpn9151)» 
 
 
 
@@ -821,7 +821,7 @@ Tu es, en vérité, le Seigneur des mondes et le Dieu de tout ce qui existe au c
 (Bahaiprayers.net ID: 9152)
 
 
-
+«[Français](../fr/#bpn9152)» 
 
 
 
@@ -836,7 +836,7 @@ Ta puissance, en vérité, égale toutes choses.
 (Bahaiprayers.net ID: 9153)
 
 
-
+«[Français](../fr/#bpn9153)» 
 
 
 
@@ -851,7 +851,7 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Tu es, en vérité, le Tout-Pui
 (Bahaiprayers.net ID: 9154)
 
 
-
+«[Français](../fr/#bpn9154)» 
 
 
 
@@ -868,7 +868,7 @@ Il n’est de Dieu que toi, le Tout-Puissant, le Bienfaisant.
 (Bahaiprayers.net ID: 9155)
 
 
-
+«[Français](../fr/#bpn9155)» 
 
 
 
@@ -882,7 +882,7 @@ Au nom de ton Seigneur, le Créateur, le Souverain, Celui qui suffit à tout, le
 (Bahaiprayers.net ID: 9156)
 
 
-
+«[Français](../fr/#bpn9156)» 
 
 
 
@@ -896,7 +896,7 @@ Envoie-moi l’aide qui me rendra indépendant de toutes choses, ô toi dont la 
 (Bahaiprayers.net ID: 9157)
 
 
-
+«[Français](../fr/#bpn9157)» 
 
 
 
@@ -911,7 +911,7 @@ Tu es, en vérité, le Tout-Puissant, le TrèsGlorieux, l’Omnipotent.
 (Bahaiprayers.net ID: 9158)
 
 
-
+«[Français](../fr/#bpn9158)» 
 
 
 
@@ -925,7 +925,7 @@ Tu es, en vérité, le Fort, l’éternel Bienfaiteur, le Tout-Puissant, l’Omn
 (Bahaiprayers.net ID: 9159)
 
 
-
+«[Français](../fr/#bpn9159)» 
 
 
 
@@ -941,7 +941,7 @@ Tu es, en vérité, le Fort, l’éternel Bienfaiteur, le Tout-Puissant, l’Omn
 (Bahaiprayers.net ID: 9160)
 
 
-
+«[Français](../fr/#bpn9160)» 
 
 
 
@@ -954,7 +954,7 @@ Fais de lui un enfant du royaume et guide-le vers ta céleste demeure. Tu es pui
 (Bahaiprayers.net ID: 9161)
 
 
-
+«[Français](../fr/#bpn9161)» 
 
 
 
@@ -966,7 +966,7 @@ Fais de lui un enfant du royaume et guide-le vers ta céleste demeure. Tu es pui
 (Bahaiprayers.net ID: 9162)
 
 
-
+«[Français](../fr/#bpn9162)» 
 
 
 
@@ -979,7 +979,11 @@ Tu es le Généreux, le Très-Aimant.
 (Bahaiprayers.net ID: 9163)
 
 
+«[Français](../fr/#AB10714)» 
 
+«[Nederlands](../nl/#AB10714)» 
+
+«[English](../en/#AB10714)» 
 
 
 
@@ -991,7 +995,7 @@ Tu es le Généreux, le Très-Aimant.
 (Bahaiprayers.net ID: 9164)
 
 
-
+«[Français](../fr/#bpn9164)» 
 
 
 
@@ -1003,7 +1007,7 @@ Il est Dieu ! Ô Dieu, mon Dieu, accorde-moi un cœur pur, pareil à une perle.
 (Bahaiprayers.net ID: 9165)
 
 
-
+«[Français](../fr/#bpn9165)» 
 
 
 
@@ -1016,7 +1020,7 @@ En vérité, tu es le Fort, le Puissant, Celui qui voit, Celui qui entend.
 (Bahaiprayers.net ID: 9167)
 
 
-
+«[Français](../fr/#bpn9167)» 
 
 
 
@@ -1030,7 +1034,7 @@ Aussi, nourris cette plante des ondées de ta tendre miséricorde, ravive et raf
 (Bahaiprayers.net ID: 9168)
 
 
-
+«[Français](../fr/#bpn9168)» 
 
 
 
@@ -1042,7 +1046,7 @@ Aussi, nourris cette plante des ondées de ta tendre miséricorde, ravive et raf
 (Bahaiprayers.net ID: 9169)
 
 
-
+«[Français](../fr/#bpn9169)» 
 
 
 
@@ -1055,7 +1059,7 @@ brillante. Tu es le Fort, le Puissant.
 (Bahaiprayers.net ID: 9166)
 
 
-
+«[Français](../fr/#bpn9166)» 
 
 
 
@@ -1074,7 +1078,11 @@ Par le nom de celui autour duquel le royaume de tes noms gravite en signe d’ad
 (Bahaiprayers.net ID: 9170)
 
 
+«[Français](../fr/#BH08433)» 
 
+«[Esperanto](../eo/#BH08433)» 
+
+«[English](../en/#BH08433)» 
 
 
 
@@ -1089,7 +1097,7 @@ En vérité, tu es le Très-Puissant, le Très-Haut, l’Omniscient, le Très-Sa
 (Bahaiprayers.net ID: 9171)
 
 
-
+«[Français](../fr/#bpn9171)» 
 
 
 
@@ -1104,7 +1112,7 @@ Par ton Verbe qui parachève ta preuve parmi tes créatures et accomplit ta prom
 (Bahaiprayers.net ID: 9172)
 
 
-
+«[Français](../fr/#bpn9172)» 
 
 
 
@@ -1119,7 +1127,7 @@ Tu es, en vérité, le Dieu de force et de puissance, tu réponds à ceux qui te
 (Bahaiprayers.net ID: 9173)
 
 
-
+«[Français](../fr/#bpn9173)» 
 
 
 
@@ -1131,7 +1139,7 @@ Tu es, en vérité, le Dieu de force et de puissance, tu réponds à ceux qui te
 (Bahaiprayers.net ID: 9174)
 
 
-
+«[Français](../fr/#bpn9174)» 
 
 
 
@@ -1144,7 +1152,7 @@ les à diffuser parmi toutes les nations de la terre la lumière directrice qui 
 (Bahaiprayers.net ID: 9175)
 
 
-
+«[Français](../fr/#bpn9175)» 
 
 
 
@@ -1159,7 +1167,7 @@ Tu es le Seigneur très généreux. Il n’est pas d’autre Dieu que toi, le Fo
 (Bahaiprayers.net ID: 9176)
 
 
-
+«[Français](../fr/#bpn9176)» 
 
 
 
@@ -1173,7 +1181,7 @@ Tu es, en vérité, le Puissant, le Protecteur, l’Omnipotent, le Défenseur, l
 (Bahaiprayers.net ID: 9177)
 
 
-
+«[Français](../fr/#bpn9177)» 
 
 
 
@@ -1189,7 +1197,13 @@ Béni est le lieu, la maison et l’endroit,la ville et le cœur,la montagne et 
 (Bahaiprayers.net ID: 9406)
 
 
+«[Français](../fr/#BH00074BLE)» 
 
+«[Esperanto](../eo/#BH00074BLE)» 
+
+«[Papiamentu](../pap/#BH00074BLE)» 
+
+«[English](../en/#BH00074BLE)» 
 
 
 
@@ -1203,7 +1217,7 @@ Bénis-moi, ô mon Dieu, bénis ceux qui croiront en tes signes au Jour fixé, e
 (Bahaiprayers.net ID: 9182)
 
 
-
+«[Français](../fr/#bpn9182)» 
 
 
 
@@ -1216,7 +1230,11 @@ Bénis-moi, ô mon Dieu, bénis ceux qui croiront en tes signes au Jour fixé, e
 (Bahaiprayers.net ID: 9183)
 
 
+«[Français](../fr/#BB00018FOR)» 
 
+«[Nederlands](../nl/#BB00018FOR)» 
+
+«[English](../en/#BB00018FOR)» 
 
 
 
@@ -1228,7 +1246,7 @@ Bénis-moi, ô mon Dieu, bénis ceux qui croiront en tes signes au Jour fixé, e
 (Bahaiprayers.net ID: 9184)
 
 
-
+«[Français](../fr/#bpn9184)» 
 
 
 
@@ -1243,7 +1261,7 @@ En vérité, tu es le Précieux, l’éternel Dispensateur, la Main ouverte.
 (Bahaiprayers.net ID: 9185)
 
 
-
+«[Français](../fr/#bpn9185)» 
 
 
 
@@ -1256,7 +1274,7 @@ Mon Seigneur, mon Seigneur, je te glorifie et te remercie pour les faveurs que t
 (Bahaiprayers.net ID: 9186)
 
 
-
+«[Français](../fr/#bpn9186)» 
 
 
 
@@ -1275,7 +1293,7 @@ Il n’est pas d’autre Dieu que toi, le ToutPuissant, le Très-Sage.
 (Bahaiprayers.net ID: 9187)
 
 
-
+«[Français](../fr/#bpn9187)» 
 
 
 
@@ -1289,7 +1307,7 @@ Il est le Puissant, le Clément, le Compatissant Ô Dieu, mon Dieu, tu vois tes 
 (Bahaiprayers.net ID: 9188)
 
 
-
+«[Français](../fr/#bpn9188)» 
 
 
 
@@ -1302,7 +1320,7 @@ Seigneur, voici tes serviteurs restés fermes et fidèles à ton alliance et à 
 (Bahaiprayers.net ID: 9189)
 
 
-
+«[Français](../fr/#bpn9189)» 
 
 
 
@@ -1315,7 +1333,7 @@ En vérité, tu es l’Invincible, le Tout-Puissant.
 (Bahaiprayers.net ID: 9191)
 
 
-
+«[Français](../fr/#bpn9191)» 
 
 
 
@@ -1330,7 +1348,7 @@ Tu es le Compatissant, le Miséricordieux, le Grand, le Bienfaisant.
 (Bahaiprayers.net ID: 9190)
 
 
-
+«[Français](../fr/#bpn9190)» 
 
 
 
@@ -1348,7 +1366,7 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Il n’est pas d’autre Dieu q
 (Bahaiprayers.net ID: 9192)
 
 
-
+«[Français](../fr/#bpn9192)» 
 
 
 
@@ -1408,7 +1426,7 @@ Tu es en vérité le Puissant, le Dispensateur, Celui qui guérit, le Protecteur
 (Bahaiprayers.net ID: 9194)
 
 
-
+«[Français](../fr/#bpn9194)» 
 
 
 
@@ -1421,7 +1439,7 @@ C’est pourquoi, par ton nom par lequel tu manifestes ta divinité et exaltes t
 (Bahaiprayers.net ID: 9196)
 
 
-
+«[Français](../fr/#bpn9196)» 
 
 
 
@@ -1438,7 +1456,7 @@ Tu es le plus puissant des puissants. Que la gloire de Dieu repose sur toi, ô S
 (Bahaiprayers.net ID: 9195)
 
 
-
+«[Français](../fr/#bpn9195)» 
 
 
 
@@ -1450,7 +1468,7 @@ Ton nom est ma guérison, ô mon Dieu, ton souvenir mon remède. Ta présence es
 (Bahaiprayers.net ID: 9193)
 
 
-
+«[Français](../fr/#bpn9193)» 
 
 
 
@@ -1467,7 +1485,7 @@ Ton nom est ma guérison, ô mon Dieu, ton souvenir mon remède. Ta présence es
 (Bahaiprayers.net ID: 9197)
 
 
-
+«[Français](../fr/#bpn9197)» 
 
 
 
@@ -1482,7 +1500,7 @@ Louange et gloire à toi ! Toutes choses attestent que tu es l’Unique et qu’
 (Bahaiprayers.net ID: 9198)
 
 
-
+«[Français](../fr/#bpn9198)» 
 
 
 
@@ -1496,7 +1514,13 @@ Tu es le Dieu de puissance, de gloire et de munificence. Il n’est de Dieu que 
 (Bahaiprayers.net ID: 9199)
 
 
+«[Français](../fr/#BH09960)» 
 
+«[Esperanto](../eo/#BH09960)» 
+
+«[Português (BR)](../pt/#BH09960)» 
+
+«[English](../en/#BH09960)» 
 
 
 
@@ -1509,7 +1533,7 @@ Tu es le Très-Haut, le Suprême, le TrèsGlorieux et le Très-Aimant.
 (Bahaiprayers.net ID: 9200)
 
 
-
+«[Français](../fr/#bpn9200)» 
 
 
 
@@ -1522,7 +1546,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Chaque fois que je tente de mentionner to
 (Bahaiprayers.net ID: 9201)
 
 
-
+«[Français](../fr/#bpn9201)» 
 
 
 
@@ -1534,7 +1558,7 @@ Dis : Gloire à toi qui amènes tous les saints à confesser leur impuissance de
 (Bahaiprayers.net ID: 9202)
 
 
-
+«[Français](../fr/#bpn9202)» 
 
 
 
@@ -1549,7 +1573,7 @@ Tu es, en vérité, le Tout-Puissant, le Suprême, le Très-Glorieux, le Très-S
 (Bahaiprayers.net ID: 9203)
 
 
-
+«[Français](../fr/#bpn9203)» 
 
 
 
@@ -1565,7 +1589,7 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Il n’est de Dieu que toi, le 
 (Bahaiprayers.net ID: 9204)
 
 
-
+«[Français](../fr/#bpn9204)» 
 
 
 
@@ -1581,7 +1605,7 @@ Toute tentative de tes créatures à te décrire ou à te connaître resterait i
 (Bahaiprayers.net ID: 9205)
 
 
-
+«[Français](../fr/#bpn9205)» 
 
 
 
@@ -1593,7 +1617,7 @@ Toute tentative de tes créatures à te décrire ou à te connaître resterait i
 (Bahaiprayers.net ID: 9206)
 
 
-
+«[Français](../fr/#bpn9206)» 
 
 
 
@@ -1610,7 +1634,7 @@ La souveraineté est à Dieu, le Créateur des cieux, le Seigneur du royaume des
 (Bahaiprayers.net ID: 9309)
 
 
-
+«[Français](../fr/#bpn9309)» 
 
 
 
@@ -1639,7 +1663,7 @@ Il est le Dispensateur, le Généreux ! Louange à Dieu, l’Ancien, l’Immuabl
 (Bahaiprayers.net ID: 9207)
 
 
-
+«[Français](../fr/#bpn9207)» 
 
 
 
@@ -1652,7 +1676,7 @@ Il est Dieu ! Ô Seigneur incomparable, en ta suprême sagesse, tu as enjoint au
 (Bahaiprayers.net ID: 9208)
 
 
-
+«[Français](../fr/#bpn9208)» 
 
 
 
@@ -1665,7 +1689,7 @@ En vérité, tu es l’Omnipotent, l’Omniprésent, le Tout-Puissant.
 (Bahaiprayers.net ID: 9209)
 
 
-
+«[Français](../fr/#bpn9209)» 
 
 
 
@@ -1678,7 +1702,7 @@ En vérité, tu es le Généreux. En vérité, tu es le Tout-Puissant. En vérit
 (Bahaiprayers.net ID: 9210)
 
 
-
+«[Français](../fr/#bpn9210)» 
 
 
 
@@ -1698,7 +1722,13 @@ Tu es, en vérité, le Seigneur et le Roi de tous les hommes, tu as pouvoir sur 
 (Bahaiprayers.net ID: 9211)
 
 
+«[Français](../fr/#BH02848)» 
 
+«[Afrikaans](../af/#BH02848)» 
+
+«[Português (BR)](../pt/#BH02848)» 
+
+«[English](../en/#BH02848)» 
 
 
 
@@ -1710,7 +1740,7 @@ Je me suis éveillé dans ton refuge, ô mon Dieu, et il convient à celui qui r
 (Bahaiprayers.net ID: 9212)
 
 
-
+«[Français](../fr/#bpn9212)» 
 
 
 
@@ -1722,7 +1752,7 @@ Je me suis levé ce matin par ta grâce, ô mon Dieu, et entièrement confiant e
 (Bahaiprayers.net ID: 9213)
 
 
-
+«[Français](../fr/#bpn9213)» 
 
 
 
@@ -1740,7 +1770,7 @@ Tu ne déçois pas celui qui te cherche et tu n’écartes pas celui qui te dés
 (Bahaiprayers.net ID: 9214)
 
 
-
+«[Français](../fr/#bpn9214)» 
 
 
 
@@ -1762,7 +1792,7 @@ Révèle à tes serviteurs ce rang qui est le tien afin qu’ils conçoivent que
 (Bahaiprayers.net ID: 9307)
 
 
-
+«[Français](../fr/#bpn9307)» 
 
 
 
@@ -1783,7 +1813,7 @@ Ne me rejette pas loin de ta grâce et ne me prive pas des flots abondants de ta
 (Bahaiprayers.net ID: 9221)
 
 
-
+«[Français](../fr/#bpn9221)» 
 
 
 
@@ -1799,7 +1829,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9222)
 
 
-
+«[Français](../fr/#bpn9222)» 
 
 
 
@@ -1811,7 +1841,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9223)
 
 
-
+«[Français](../fr/#bpn9223)» 
 
 
 
@@ -1828,7 +1858,7 @@ Ton pouvoir demeure de toute éternité. Rien n’échappe à ta connaissance. T
 (Bahaiprayers.net ID: 9224)
 
 
-
+«[Français](../fr/#bpn9224)» 
 
 
 
@@ -1841,7 +1871,7 @@ Loué soit ton nom, ô mon Dieu et le Dieu de toutes choses, ma gloire et la glo
 (Bahaiprayers.net ID: 9225)
 
 
-
+«[Français](../fr/#bpn9225)» 
 
 
 
@@ -1856,7 +1886,7 @@ Tu es le Souverain suprême, le puissant Créateur, l’Éminent, le Très-Aiman
 (Bahaiprayers.net ID: 9226)
 
 
-
+«[Français](../fr/#bpn9226)» 
 
 
 
@@ -1868,7 +1898,7 @@ Louange à toi, ô Seigneur ! Pardonne nos péchés, aie pitié de nous et perme
 (Bahaiprayers.net ID: 9227)
 
 
-
+«[Français](../fr/#bpn9227)» 
 
 
 
@@ -1880,7 +1910,7 @@ Louange à toi, ô Seigneur ! Pardonne nos péchés, aie pitié de nous et perme
 (Bahaiprayers.net ID: 9228)
 
 
-
+«[Français](../fr/#bpn9228)» 
 
 
 
@@ -1894,7 +1924,7 @@ Glorifié sois-tu, ô Seigneur ! Tu pardonnes toujours les péchés de ceux parm
 (Bahaiprayers.net ID: 9229)
 
 
-
+«[Français](../fr/#bpn9229)» 
 
 
 
@@ -1906,7 +1936,13 @@ Glorifié sois-tu, ô Seigneur ! Tu pardonnes toujours les péchés de ceux parm
 (Bahaiprayers.net ID: 9230)
 
 
+«[Français](../fr/#ABU0030SHE)» 
 
+«[Español](../es/#ABU0030SHE)» 
+
+«[Esperanto](../eo/#ABU0030SHE)» 
+
+«[English](../en/#ABU0030SHE)» 
 
 
 
@@ -1927,7 +1963,7 @@ En vérité, tu es le Généreux, le Puissant, l’Omnipotent, l’Indépendant.
 (Bahaiprayers.net ID: 9308)
 
 
-
+«[Français](../fr/#bpn9308)» 
 
 
 
@@ -1952,7 +1988,7 @@ Puisse mon esprit être offert en sacrifice pour les injustices dont tu as souff
 (Bahaiprayers.net ID: 9301)
 
 
-
+«[Français](../fr/#bpn9301)» 
 
 
 
@@ -1969,7 +2005,7 @@ Tu es le Bienfaiteur, le Compatissant, le TrèsGénéreux, le Clément, le Très
 (Bahaiprayers.net ID: 9302)
 
 
-
+«[Français](../fr/#bpn9302)» 
 
 
 
@@ -2016,7 +2052,15 @@ Vois, ô mon Dieu : je m’attache ton Nom, le plus saint, le plus lumineux, le 
 (Bahaiprayers.net ID: 9304)
 
 
+«[Français](../fr/#BH01125)» 
 
+«[Italiano](../it/#BH01125)» 
+
+«[Nederlands](../nl/#BH01125)» 
+
+«[Español](../es/#BH01125)» 
+
+«[English](../en/#BH01125)» 
 
 
 
@@ -2038,7 +2082,7 @@ Rends ta cause victorieuse, ô mon Seigneur, et abaisse tes ennemis. Décrète p
 (Bahaiprayers.net ID: 9305)
 
 
-
+«[Français](../fr/#bpn9305)» 
 
 
 
@@ -2069,7 +2113,7 @@ Loué sois-tu, ô mon Dieu, car tu nous aides à le reconnaître et à l’aimer
 (Bahaiprayers.net ID: 9306)
 
 
-
+«[Français](../fr/#bpn9306)» 
 
 
 
@@ -2103,7 +2147,7 @@ En vérité, tous nous sommes patients devant la volonté de Dieu.
 (Bahaiprayers.net ID: 9128)
 
 
-
+«[Français](../fr/#bpn9128)» 
 
 
 
@@ -2119,7 +2163,7 @@ Tu as le pouvoir de faire ce qui te plaît.
 (Bahaiprayers.net ID: 9215)
 
 
-
+«[Français](../fr/#bpn9215)» 
 
 
 
@@ -2132,7 +2176,7 @@ Dis : ô Dieu, mon Dieu, tu m’as confié ce gage et selon ta volonté, tu as v
 (Bahaiprayers.net ID: 9216)
 
 
-
+«[Français](../fr/#bpn9216)» 
 
 
 
@@ -2152,7 +2196,11 @@ Il n’est pas d’autre Dieu que toi, l’Unique, le Puissant, l’Omniscient, 
 (Bahaiprayers.net ID: 9217)
 
 
+«[Français](../fr/#BH03109KIN)» 
 
+«[Italiano](../it/#BH03109KIN)» 
+
+«[English](../en/#BH03109KIN)» 
 
 
 
@@ -2166,7 +2214,7 @@ En vérité tu es le Généreux, le Puissant, le Magnanime, le Dispensateur.
 (Bahaiprayers.net ID: 9219)
 
 
-
+«[Français](../fr/#bpn9219)» 
 
 
 
@@ -2179,7 +2227,7 @@ Tu es le Clément, l’Omnipotent, Celui qui donne la lumière.
 (Bahaiprayers.net ID: 9220)
 
 
-
+«[Français](../fr/#bpn9220)» 
 
 
 
@@ -2192,7 +2240,7 @@ Tu es le Clément, l’Omnipotent, Celui qui donne la lumière.
 (Bahaiprayers.net ID: 9218)
 
 
-
+«[Français](../fr/#bpn9218)» 
 
 
 
@@ -2219,7 +2267,7 @@ Tu es le Clément, l’Omnipotent, Celui qui donne la lumière.
 (Bahaiprayers.net ID: 9125)
 
 
-
+«[Français](../fr/#bpn9125)» 
 
 
 
@@ -2263,7 +2311,7 @@ En vérité, tu es Celui qui pardonne, le TrèsGénéreux.
 (Bahaiprayers.net ID: 9126)
 
 
-
+«[Français](../fr/#bpn9126)» 
 
 
 
@@ -2326,7 +2374,7 @@ Loué sois-tu, ô notre Dieu ! Tu nous révèles ce qui nous rapproche de toi, e
 (Bahaiprayers.net ID: 9127)
 
 
-
+«[Français](../fr/#bpn9127)» 
 
 
 
@@ -2345,7 +2393,7 @@ Tu as le pouvoir de faire ce que tu veux. Tu es, en vérité, le Secours, l’Ab
 (Bahaiprayers.net ID: 9231)
 
 
-
+«[Français](../fr/#bpn9231)» 
 
 
 
@@ -2361,7 +2409,7 @@ Tu es leur Seigneur, le Seigneur des cieux et de la terre, le Seigneur de tous l
 (Bahaiprayers.net ID: 9232)
 
 
-
+«[Français](../fr/#bpn9232)» 
 
 
 
@@ -2374,7 +2422,7 @@ Bénis ceux dont tu as choisi le sang pour arroser l’arbre de ton assertion et
 (Bahaiprayers.net ID: 9233)
 
 
-
+«[Français](../fr/#bpn9233)» 
 
 
 
@@ -2388,7 +2436,7 @@ En vérité, tu es notre Seigneur et le Seigneur de toutes choses. Nous nous en 
 (Bahaiprayers.net ID: 9234)
 
 
-
+«[Français](../fr/#bpn9234)» 
 
 
 
@@ -2401,7 +2449,7 @@ De temps immémorial, tu as le pouvoir de faire ce qui te plaît et tu transcend
 (Bahaiprayers.net ID: 9235)
 
 
-
+«[Français](../fr/#bpn9235)» 
 
 
 
@@ -2416,7 +2464,7 @@ Tu es le Bienfaiteur, l’Indulgent, l’éternel Dispensateur. En vérité, tu 
 (Bahaiprayers.net ID: 9236)
 
 
-
+«[Français](../fr/#bpn9236)» 
 
 
 
@@ -2431,7 +2479,7 @@ La gloire des gloires soit sur ceux qui sont fermes et résolus !
 (Bahaiprayers.net ID: 9237)
 
 
-
+«[Français](../fr/#bpn9237)» 
 
 
 
@@ -2450,7 +2498,7 @@ Louange à toi, ô Seigneur, mon Dieu ! Tu sais que j’ai appelé tes serviteur
 (Bahaiprayers.net ID: 9238)
 
 
-
+«[Français](../fr/#bpn9238)» 
 
 
 
@@ -2464,7 +2512,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9239)
 
 
-
+«[Français](../fr/#bpn9239)» 
 
 
 
@@ -2476,7 +2524,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9240)
 
 
-
+«[Français](../fr/#bpn9240)» 
 
 
 
@@ -2491,7 +2539,7 @@ Il n’est pas d’autre Dieu que toi, le TrèsGlorieux, le Très-Généreux, l�
 (Bahaiprayers.net ID: 9241)
 
 
-
+«[Français](../fr/#bpn9241)» 
 
 
 
@@ -2509,7 +2557,7 @@ Tu as le pouvoir d’agir comme il te plaît. Il n’est de Dieu que toi, le Tr�
 (Bahaiprayers.net ID: 9242)
 
 
-
+«[Français](../fr/#bpn9242)» 
 
 
 
@@ -2522,7 +2570,7 @@ Tu as le pouvoir de faire ce que tu veux. Il n’est de Dieu que toi, le Secours
 (Bahaiprayers.net ID: 9243)
 
 
-
+«[Français](../fr/#bpn9243)» 
 
 
 
@@ -2544,7 +2592,7 @@ Et par ton nom, le Conquéreur, soumets à ta loi les habitants de ton royaume a
 (Bahaiprayers.net ID: 9244)
 
 
-
+«[Français](../fr/#bpn9244)» 
 
 
 
@@ -2556,7 +2604,7 @@ Et par ton nom, le Conquéreur, soumets à ta loi les habitants de ton royaume a
 (Bahaiprayers.net ID: 9245)
 
 
-
+«[Français](../fr/#bpn9245)» 
 
 
 
@@ -2572,7 +2620,7 @@ Tu es, en vérité, celui dont la grâce les guide avec justesse, celui qui se p
 (Bahaiprayers.net ID: 9246)
 
 
-
+«[Français](../fr/#bpn9246)» 
 
 
 
@@ -2587,7 +2635,7 @@ Il n’est de Dieu que toi, le Fort, l’Éternel, le Dieu de grande bonté, l�
 (Bahaiprayers.net ID: 9247)
 
 
-
+«[Français](../fr/#bpn9247)» 
 
 
 
@@ -2599,7 +2647,7 @@ Magnifié soit ton nom, ô mon Dieu ! Par ce nom qu’aucun écrit ne peut conte
 (Bahaiprayers.net ID: 9248)
 
 
-
+«[Français](../fr/#bpn9248)» 
 
 
 
@@ -2613,7 +2661,7 @@ Il n’est de Dieu que toi, l’éternel Magnanime, le Très-Généreux.
 (Bahaiprayers.net ID: 9249)
 
 
-
+«[Français](../fr/#bpn9249)» 
 
 
 
@@ -2625,7 +2673,7 @@ Il n’est de Dieu que toi, l’éternel Magnanime, le Très-Généreux.
 (Bahaiprayers.net ID: 9250)
 
 
-
+«[Français](../fr/#bpn9250)» 
 
 
 
@@ -2640,7 +2688,7 @@ Nous attestons, ô mon Dieu, que tu es Dieu et qu’il n’est de Dieu que toi. 
 (Bahaiprayers.net ID: 9251)
 
 
-
+«[Français](../fr/#bpn9251)» 
 
 
 
@@ -2653,7 +2701,7 @@ Il est souverain sur ses serviteurs et se tient audessus de ses créatures. Dans
 (Bahaiprayers.net ID: 9252)
 
 
-
+«[Français](../fr/#bpn9252)» 
 
 
 
@@ -2668,7 +2716,7 @@ Il n’est aucun pouvoir, aucune force si ce n’est en Dieu, le Suprême, le To
 (Bahaiprayers.net ID: 9253)
 
 
-
+«[Français](../fr/#bpn9253)» 
 
 
 
@@ -2682,7 +2730,7 @@ Accorde-moi ton pardon ainsi qu’aux croyants qui ont répondu à ton appel. So
 (Bahaiprayers.net ID: 9254)
 
 
-
+«[Français](../fr/#bpn9254)» 
 
 
 
@@ -2696,7 +2744,7 @@ Tu es infiniment loué, ô Seigneur ! Garde-nous de ce qui se trouve devant nous
 (Bahaiprayers.net ID: 9255)
 
 
-
+«[Français](../fr/#bpn9255)» 
 
 
 
@@ -2710,7 +2758,7 @@ En vérité, tu es le Protecteur, le Gardien, le Défenseur. Tu es celui qui suf
 (Bahaiprayers.net ID: 9256)
 
 
-
+«[Français](../fr/#bpn9256)» 
 
 
 
@@ -2735,7 +2783,7 @@ Tu as le pouvoir de faire ce qui te plaît. Tu es, en vérité, le Très-Élevé
 (Bahaiprayers.net ID: 9257)
 
 
-
+«[Français](../fr/#bpn9257)» 
 
 
 
@@ -2747,7 +2795,7 @@ Crée en moi un cœur pur, ô mon Dieu et ranime en moi une conscience paisible,
 (Bahaiprayers.net ID: 9258)
 
 
-
+«[Français](../fr/#bpn9258)» 
 
 
 
@@ -2760,7 +2808,7 @@ Tu es, en vérité, le Possesseur de tous les dons et de toutes les générosit�
 (Bahaiprayers.net ID: 9259)
 
 
-
+«[Français](../fr/#bpn9259)» 
 
 
 
@@ -2775,7 +2823,7 @@ En vérité, tu es le Seigneur du propitiatoire,* trônant au plus haut des cieu
 (Bahaiprayers.net ID: 9260)
 
 
-
+«[Français](../fr/#bpn9260)» 
 
 
 
@@ -2787,7 +2835,7 @@ En vérité, tu es le Seigneur du propitiatoire,* trônant au plus haut des cieu
 (Bahaiprayers.net ID: 9261)
 
 
-
+«[Français](../fr/#bpn9261)» 
 
 
 
@@ -2800,7 +2848,7 @@ Je t’en supplie, laisse ce serviteur accéder à ce qui lui vaudra son salut d
 (Bahaiprayers.net ID: 9262)
 
 
-
+«[Français](../fr/#bpn9262)» 
 
 
 
@@ -2817,7 +2865,7 @@ Tu es, en vérité, le Tout-Puissant, le Magnanime, le Compatissant.
 (Bahaiprayers.net ID: 9263)
 
 
-
+«[Français](../fr/#bpn9263)» 
 
 
 
@@ -2833,7 +2881,7 @@ Loué soit Dieu, le Seigneur des mondes.
 (Bahaiprayers.net ID: 9264)
 
 
-
+«[Français](../fr/#bpn9264)» 
 
 
 
@@ -2848,7 +2896,7 @@ En vérité, si tu désirais accorder ta bénédiction à l’un de tes serviteu
 (Bahaiprayers.net ID: 9265)
 
 
-
+«[Français](../fr/#bpn9265)» 
 
 
 
@@ -2860,7 +2908,7 @@ En vérité, si tu désirais accorder ta bénédiction à l’un de tes serviteu
 (Bahaiprayers.net ID: 9266)
 
 
-
+«[Français](../fr/#bpn9266)» 
 
 
 
@@ -2875,7 +2923,7 @@ Tu es en vérité miséricordieux, et tu es en vérité le Très-Généreux, cel
 (Bahaiprayers.net ID: 9267)
 
 
-
+«[Français](../fr/#bpn9267)» 
 
 
 
@@ -2888,7 +2936,7 @@ En vérité, tu es le Confirmateur, le Soutien, le Puissant, le Généreux, le D
 (Bahaiprayers.net ID: 9268)
 
 
-
+«[Français](../fr/#bpn9268)» 
 
 
 
@@ -2901,7 +2949,13 @@ En vérité, tu es le Très-Généreux, le Seigneur de toute grâce. Il n’est 
 (Bahaiprayers.net ID: 9269)
 
 
+«[Français](../fr/#AB09139)» 
 
+«[Nederlands](../nl/#AB09139)» 
+
+«[Português (BR)](../pt/#AB09139)» 
+
+«[English](../en/#AB09139)» 
 
 
 
@@ -2916,7 +2970,7 @@ En vérité, tu es le Fort, le Puissant, le Protecteur, l’Inébranlable, le Bi
 (Bahaiprayers.net ID: 9270)
 
 
-
+«[Français](../fr/#bpn9270)» 
 
 
 
@@ -2930,7 +2984,7 @@ En vérité, tu es le Puissant, le Suprême, le Fort, celui qui seul, sur la ter
 (Bahaiprayers.net ID: 9271)
 
 
-
+«[Français](../fr/#bpn9271)» 
 
 
 
@@ -2945,7 +2999,7 @@ Ordonne pour eux tout le bien que tu destines à tes mondes, visibles et invisib
 (Bahaiprayers.net ID: 9272)
 
 
-
+«[Français](../fr/#bpn9272)» 
 
 
 
@@ -2960,7 +3014,7 @@ Tu es le Fort, le Puissant. Tu es le souverain Seigneur, l’Omnipotent, celui q
 (Bahaiprayers.net ID: 9273)
 
 
-
+«[Français](../fr/#bpn9273)» 
 
 
 
@@ -2980,7 +3034,7 @@ Il n’est pas d’autre Dieu que toi, celui qui entend, toujours prêt à répo
 (Bahaiprayers.net ID: 9274)
 
 
-
+«[Français](../fr/#bpn9274)» 
 
 
 
@@ -2993,7 +3047,7 @@ Fais que je me tourne entièrement vers toi, qu’en toi je place toute ma confi
 (Bahaiprayers.net ID: 9275)
 
 
-
+«[Français](../fr/#bpn9275)» 
 
 
 
@@ -3006,7 +3060,7 @@ Qu’aucun mal ne m’assaille dans les épreuves, et que ton inspiration guide 
 (Bahaiprayers.net ID: 9278)
 
 
-
+«[Français](../fr/#bpn9278)» 
 
 
 
@@ -3018,7 +3072,7 @@ Qu’aucun mal ne m’assaille dans les épreuves, et que ton inspiration guide 
 (Bahaiprayers.net ID: 9279)
 
 
-
+«[Français](../fr/#bpn9279)» 
 
 
 
@@ -3030,7 +3084,17 @@ Dis : Dieu suffit à tout, au-delà de tout, et rien, ni dans les cieux ni sur l
 (Bahaiprayers.net ID: 9277)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -3042,7 +3106,17 @@ Qui, hormis Dieu, dissipe les difficultés ? Dis : Loué soit Dieu ! Lui seul es
 (Bahaiprayers.net ID: 9276)
 
 
+«[Français](../fr/#BB00623)» 
 
+«[Esperanto](../eo/#BB00623)» 
+
+«[Português (BR)](../pt/#BB00623)» 
+
+«[Papiamentu](../pap/#BB00623)» 
+
+«[English](../en/#BB00623)» 
+
+«[Frysk](../fy/#BB00623)» 
 
 
 
@@ -3065,7 +3139,7 @@ Tu es, en vérité, le Miséricordieux, le Glorifié, le Puissant, l’Omnipoten
 (Bahaiprayers.net ID: 9280)
 
 
-
+«[Français](../fr/#bpn9280)» 
 
 
 
@@ -3078,7 +3152,7 @@ Esprit de pureté, toi, le très généreux Dispensateur, prends sous ta protect
 (Bahaiprayers.net ID: 9281)
 
 
-
+«[Français](../fr/#bpn9281)» 
 
 
 
@@ -3090,7 +3164,7 @@ Esprit de pureté, toi, le très généreux Dispensateur, prends sous ta protect
 (Bahaiprayers.net ID: 9282)
 
 
-
+«[Français](../fr/#bpn9282)» 
 
 
 
@@ -3107,7 +3181,7 @@ Par toi-même et par celui que tu as désigné parmi tous ceux qui sont au ciel 
 (Bahaiprayers.net ID: 9283)
 
 
-
+«[Français](../fr/#bpn9283)» 
 
 
 
@@ -3123,7 +3197,7 @@ Par toi-même et par celui que tu as désigné parmi tous ceux qui sont au ciel 
 (Bahaiprayers.net ID: 9284)
 
 
-
+«[Français](../fr/#bpn9284)» 
 
 
 
@@ -3139,7 +3213,7 @@ Tu es Fort, tu es Puissant. Tu es le Généreux, l’éternel Bienveillant.
 (Bahaiprayers.net ID: 9285)
 
 
-
+«[Français](../fr/#bpn9285)» 
 
 
 
@@ -3152,7 +3226,7 @@ En vérité, tu es le Généreux. En vérité, tu es le Miséricordieux. En vér
 (Bahaiprayers.net ID: 9286)
 
 
-
+«[Français](../fr/#bpn9286)» 
 
 
 
@@ -3168,7 +3242,7 @@ Tu es le Puissant, l’Omnipotent, le Miséricordieux, le Généreux, le Bienfai
 (Bahaiprayers.net ID: 9287)
 
 
-
+«[Français](../fr/#bpn9287)» 
 
 
 
@@ -3181,7 +3255,7 @@ En vérité, tu es l’Omnipotent et le ToutPuissant !
 (Bahaiprayers.net ID: 9288)
 
 
-
+«[Français](../fr/#bpn9288)» 
 
 
 
@@ -3199,7 +3273,7 @@ Il n’est pas d’autre Dieu que toi, le ToutPuissant, le Conquérant, l’Abso
 (Bahaiprayers.net ID: 9289)
 
 
-
+«[Français](../fr/#bpn9289)» 
 
 
 
@@ -3213,7 +3287,9 @@ Par ton pouvoir, endormi ou éveillé, je ne demande que ce que tu désires. Je 
 (Bahaiprayers.net ID: 9290)
 
 
+«[Français](../fr/#BH00009HOW)» 
 
+«[English](../en/#BH00009HOW)» 
 
 
 
@@ -3226,7 +3302,7 @@ En vérité, tu es le Bienfaisant, le Généreux, le Miséricordieux, l’Indulg
 (Bahaiprayers.net ID: 9291)
 
 
-
+«[Français](../fr/#bpn9291)» 
 
 
 
@@ -3342,7 +3418,7 @@ Glorifié soit notre Seigneur, le Très-Haut !
 (Bahaiprayers.net ID: 9300)
 
 
-
+«[Français](../fr/#bpn9300)» 
 
 
 
@@ -3409,7 +3485,7 @@ Oui, j’entends ton appel, ô très-glorieux BienAimé ! Maintenant la chaleur 
 (Bahaiprayers.net ID: 9299)
 
 
-
+«[Français](../fr/#bpn9299)» 
 
 
 
@@ -3443,7 +3519,7 @@ En vérité, il est le Miséricordieux, le Compatissant. Loué soit Dieu, le Sei
 (Bahaiprayers.net ID: 9298)
 
 
-
+«[Français](../fr/#bpn9298)» 
 
 
 
@@ -3461,7 +3537,7 @@ Ils sont tous pauvres et nécessiteux et tu es, en vérité, le Possesseur de to
 (Bahaiprayers.net ID: 9292)
 
 
-
+«[Français](../fr/#bpn9292)» 
 
 
 
@@ -3473,7 +3549,7 @@ Ils sont tous pauvres et nécessiteux et tu es, en vérité, le Possesseur de to
 (Bahaiprayers.net ID: 9293)
 
 
-
+«[Français](../fr/#bpn9293)» 
 
 
 
@@ -3490,7 +3566,7 @@ En vérité, tu es le Tout-Puissant, l’Absolu, le Généreux, l’Indulgent, l
 (Bahaiprayers.net ID: 9294)
 
 
-
+«[Français](../fr/#bpn9294)» 
 
 
 
@@ -3502,7 +3578,7 @@ En vérité, tu es le Tout-Puissant, l’Absolu, le Généreux, l’Indulgent, l
 (Bahaiprayers.net ID: 9295)
 
 
-
+«[Français](../fr/#bpn9295)» 
 
 
 
@@ -3515,7 +3591,7 @@ Tu es le Dispensateur, le Miséricordieux, l’Omnipotent.
 (Bahaiprayers.net ID: 9296)
 
 
-
+«[Français](../fr/#bpn9296)» 
 
 
 
@@ -3534,7 +3610,7 @@ Tu es le Fort, le Puissant, tu es le Clément, l’Indulgent qui pardonne les fa
 (Bahaiprayers.net ID: 9297)
 
 
-
+«[Français](../fr/#bpn9297)» 
 
 
 
@@ -3550,7 +3626,7 @@ Tu es le Fort, le Puissant, tu es le Clément, l’Indulgent qui pardonne les fa
 (Bahaiprayers.net ID: 9178)
 
 
-
+«[Français](../fr/#bpn9178)» 
 
 
 
@@ -3566,7 +3642,7 @@ Tu as le pouvoir de faire ce qui te plaît. Il n’est pas d’autre Dieu que to
 (Bahaiprayers.net ID: 9179)
 
 
-
+«[Français](../fr/#bpn9179)» 
 
 
 
@@ -3580,7 +3656,7 @@ Je sais que la lampe de ton amour brûle dans leur cœur et que la lumière de t
 (Bahaiprayers.net ID: 9180)
 
 
-
+«[Français](../fr/#bpn9180)» 
 
 
 
@@ -3594,7 +3670,7 @@ Tu sais parfaitement, ô mon Dieu, que les tribulations pleuvent sur moi de tous
 (Bahaiprayers.net ID: 9181)
 
 
-
+«[Français](../fr/#bpn9181)» 
 
 
 

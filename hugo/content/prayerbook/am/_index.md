@@ -96,7 +96,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9921)
 
 
-
+«[አማርኛ.](../am/#bpn9921)» 
 
 
 
@@ -123,7 +123,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9922)
 
 
-
+«[አማርኛ.](../am/#bpn9922)» 
 
 
 
@@ -141,7 +141,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9912)
 
 
-
+«[አማርኛ.](../am/#bpn9912)» 
 
 
 
@@ -172,7 +172,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9923)
 
 
-
+«[አማርኛ.](../am/#bpn9923)» 
 
 
 
@@ -196,7 +196,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9924)
 
 
-
+«[አማርኛ.](../am/#bpn9924)» 
 
 
 
@@ -217,7 +217,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9910)
 
 
-
+«[አማርኛ.](../am/#bpn9910)» 
 
 
 
@@ -235,7 +235,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9919)
 
 
-
+«[አማርኛ.](../am/#bpn9919)» 
 
 
 
@@ -255,7 +255,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9925)
 
 
-
+«[አማርኛ.](../am/#bpn9925)» 
 
 
 
@@ -277,7 +277,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9917)
 
 
-
+«[አማርኛ.](../am/#bpn9917)» 
 
 
 
@@ -316,7 +316,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9915)
 
 
-
+«[አማርኛ.](../am/#bpn9915)» 
 
 
 
@@ -345,7 +345,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9926)
 
 
-
+«[አማርኛ.](../am/#bpn9926)» 
 
 
 
@@ -366,7 +366,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9911)
 
 
-
+«[አማርኛ.](../am/#bpn9911)» 
 
 
 
@@ -397,7 +397,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9927)
 
 
-
+«[አማርኛ.](../am/#bpn9927)» 
 
 
 
@@ -432,7 +432,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9916)
 
 
-
+«[አማርኛ.](../am/#bpn9916)» 
 
 
 
@@ -463,7 +463,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9928)
 
 
-
+«[አማርኛ.](../am/#bpn9928)» 
 
 
 
@@ -486,7 +486,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9929)
 
 
-
+«[አማርኛ.](../am/#bpn9929)» 
 
 
 
@@ -514,7 +514,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9914)
 
 
-
+«[አማርኛ.](../am/#bpn9914)» 
 
 
 
@@ -549,7 +549,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9936)
 
 
-
+«[አማርኛ.](../am/#bpn9936)» 
 
 
 
@@ -572,7 +572,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9930)
 
 
-
+«[አማርኛ.](../am/#bpn9930)» 
 
 
 
@@ -593,7 +593,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9931)
 
 
-
+«[አማርኛ.](../am/#bpn9931)» 
 
 
 
@@ -620,7 +620,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9905)
 
 
-
+«[አማርኛ.](../am/#bpn9905)» 
 
 
 
@@ -669,7 +669,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9937)
 
 
-
+«[አማርኛ.](../am/#bpn9937)» 
 
 
 
@@ -715,7 +715,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9906)
 
 
-
+«[አማርኛ.](../am/#bpn9906)» 
 
 
 
@@ -748,7 +748,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9932)
 
 
-
+«[አማርኛ.](../am/#bpn9932)» 
 
 
 
@@ -771,7 +771,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9904)
 
 
-
+«[አማርኛ.](../am/#bpn9904)» 
 
 
 
@@ -790,7 +790,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9918)
 
 
-
+«[አማርኛ.](../am/#bpn9918)» 
 
 
 
@@ -810,7 +810,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9907)
 
 
-
+«[አማርኛ.](../am/#bpn9907)» 
 
 
 
@@ -834,7 +834,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9908)
 
 
-
+«[አማርኛ.](../am/#bpn9908)» 
 
 
 
@@ -877,7 +877,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9913)
 
 
-
+«[አማርኛ.](../am/#bpn9913)» 
 
 
 
@@ -916,7 +916,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9939)
 
 
-
+«[አማርኛ.](../am/#bpn9939)» 
 
 
 
@@ -934,7 +934,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9933)
 
 
-
+«[አማርኛ.](../am/#bpn9933)» 
 
 
 
@@ -955,7 +955,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9920)
 
 
-
+«[አማርኛ.](../am/#bpn9920)» 
 
 
 
@@ -974,7 +974,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9938)
 
 
-
+«[አማርኛ.](../am/#bpn9938)» 
 
 
 
@@ -993,7 +993,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9941)
 
 
-
+«[አማርኛ.](../am/#bpn9941)» 
 
 
 
@@ -1028,7 +1028,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9909)
 
 
-
+«[አማርኛ.](../am/#bpn9909)» 
 
 
 
@@ -1042,7 +1042,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9934)
 
 
-
+«[አማርኛ.](../am/#bpn9934)» 
 
 
 
@@ -1077,7 +1077,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9940)
 
 
-
+«[አማርኛ.](../am/#bpn9940)» 
 
 
 
@@ -1116,7 +1116,7 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9935)
 
 
-
+«[አማርኛ.](../am/#bpn9935)» 
 
 
 

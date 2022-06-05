@@ -122,7 +122,7 @@ Ya kai Ali Akbar, ka gōdēwa Ubangijinka dōmin wannan allo. Kana iya jin ƙams
 (Bahaiprayers.net ID: 11759)
 
 
-
+«[Hausa](../ha/#bpn11759)» 
 
 
 
@@ -150,7 +150,7 @@ A gaskiya, shīnē mai rahama, mai jin ƙai. Gōdiya ta tabbata ga Allah, Ubangi
 (Bahaiprayers.net ID: 11708)
 
 
-
+«[Hausa](../ha/#bpn11708)» 
 
 
 
@@ -170,7 +170,7 @@ Nā juya fuskāta wajenka, yā Ubangijina. Hanā ta da kula da kōmi bāyan kai,
 (Bahaiprayers.net ID: 11703)
 
 
-
+«[Hausa](../ha/#bpn11703)» 
 
 
 
@@ -190,7 +190,7 @@ Yā Ubangijina, ka saukar da albarkarka bisa wanɗanda suke wanzama kalmarka, ku
 (Bahaiprayers.net ID: 11712)
 
 
-
+«[Hausa](../ha/#bpn11712)» 
 
 
 
@@ -207,7 +207,7 @@ A lōkacin da Ya sō bayyana alfurmarsa da alhērinsa zuwa ga mutane, kuma dōmi
 (Bahaiprayers.net ID: 11705)
 
 
-
+«[Hausa](../ha/#bpn11705)» 
 
 
 
@@ -235,7 +235,7 @@ Kai nē bā shakka, mabuwāyi, mafi girma, mai gāfara da bā ta da iyāka.
 (Bahaiprayers.net ID: 11706)
 
 
-
+«[Hausa](../ha/#bpn11706)» 
 
 
 
@@ -278,7 +278,7 @@ Kana gani na, yā Allāna, ina sarƙafē ga sūnanka, mafi tsarki, mafi haske, m
 (Bahaiprayers.net ID: 11709)
 
 
-
+«[Hausa](../ha/#bpn11709)» 
 
 
 
@@ -292,7 +292,7 @@ A gaskiya ka nā da īkon yin abin da ka ga dāma. Bābu wani Allah illā kai, m
 (Bahaiprayers.net ID: 11710)
 
 
-
+«[Hausa](../ha/#bpn11710)» 
 
 
 
@@ -311,7 +311,7 @@ Bā shakka, da ni da duk wanɗanda suke ƙaunar ka, gūrinmu kēnan. Yabo ya tab
 (Bahaiprayers.net ID: 11714)
 
 
-
+«[Hausa](../ha/#bpn11714)» 
 
 
 
@@ -325,7 +325,7 @@ Bābu wani Allah illā kai, mabuwāyi, mai nasara, marar iyāka.
 (Bahaiprayers.net ID: 11715)
 
 
-
+«[Hausa](../ha/#bpn11715)» 
 
 
 
@@ -339,7 +339,7 @@ Lalle, kai nē mai bayyanarwa, karīmin, mai rahama, mai yāfēwa.
 (Bahaiprayers.net ID: 11716)
 
 
-
+«[Hausa](../ha/#bpn11716)» 
 
 
 
@@ -370,7 +370,7 @@ Ku shā matuƙa, ruwan sōyayya, sabōda ku rāyu har kullun cikin ƙaunar Allah
 (Bahaiprayers.net ID: 11707)
 
 
-
+«[Hausa](../ha/#bpn11707)» 
 
 
 
@@ -389,7 +389,7 @@ Kai nē Jalla, mafi ɗaukaka, mai cikakkar ƙauna.
 (Bahaiprayers.net ID: 11756)
 
 
-
+«[Hausa](../ha/#bpn11756)» 
 
 
 
@@ -410,7 +410,7 @@ Yā Allāna, kada ka daina tafiyar da su, amma, daga annurin saninka, ka raka s�
 (Bahaiprayers.net ID: 11741)
 
 
-
+«[Hausa](../ha/#bpn11741)» 
 
 
 
@@ -430,7 +430,7 @@ Yabo ya tabbata a garēka, yā kai Ubangijin tālikai.
 (Bahaiprayers.net ID: 11730)
 
 
-
+«[Hausa](../ha/#bpn11730)» 
 
 
 
@@ -448,7 +448,7 @@ A gaskiya, ƙudurarka ta wuce gwalgwado da kōmi.
 (Bahaiprayers.net ID: 11731)
 
 
-
+«[Hausa](../ha/#bpn11731)» 
 
 
 
@@ -462,7 +462,7 @@ A gaskiya, kai nē Ubangijinsa, kuma Ubangijin duka tālikai.
 (Bahaiprayers.net ID: 11732)
 
 
-
+«[Hausa](../ha/#bpn11732)» 
 
 
 
@@ -478,7 +478,7 @@ Bābu wani Allah illa kai, mai taimako cikin hallaka, mai rāya kansa da kansa.
 (Bahaiprayers.net ID: 11733)
 
 
-
+«[Hausa](../ha/#bpn11733)» 
 
 
 
@@ -493,7 +493,7 @@ A gaskiya, kai nē mai taimako cikin hallaka da girman mulkinka. Bābu wani Alla
 (Bahaiprayers.net ID: 11734)
 
 
-
+«[Hausa](../ha/#bpn11734)» 
 
 
 
@@ -510,7 +510,7 @@ Yā Ubangijina, baiwarka tā damƙa fātarta ga alfarmarka da alhērinka. Ka ƙa
 (Bahaiprayers.net ID: 11748)
 
 
-
+«[Hausa](../ha/#bpn11748)» 
 
 
 
@@ -523,7 +523,7 @@ Yā Ubangijina, gāfartā musu kuskurensu, kēɓē musu azāba, kuma ka sā duhu
 (Bahaiprayers.net ID: 11749)
 
 
-
+«[Hausa](../ha/#bpn11749)» 
 
 
 
@@ -540,7 +540,7 @@ Cē : Yabo ya tabbata ga Allah, shī kaɗai nē Ubangiji, kōwa bāwa nē a gar�
 (Bahaiprayers.net ID: 11720)
 
 
-
+«[Hausa](../ha/#bpn11720)» 
 
 
 
@@ -552,7 +552,7 @@ Tabbatā cēwa : Allah yā wadāta ga kōmi, ya hiye ga kōmi. ƙasa da sama, b�
 (Bahaiprayers.net ID: 11721)
 
 
-
+«[Hausa](../ha/#bpn11721)» 
 
 
 
@@ -569,7 +569,7 @@ Bā shakka, kai nē mayalwaci, masani, mafi basīra.
 (Bahaiprayers.net ID: 11726)
 
 
-
+«[Hausa](../ha/#bpn11726)» 
 
 
 
@@ -583,7 +583,7 @@ Ina rōƙon ka yā Allāna, kar ka hana masa abunda ya rōƙe ka cikin dubun alh
 (Bahaiprayers.net ID: 11727)
 
 
-
+«[Hausa](../ha/#bpn11727)» 
 
 
 
@@ -597,7 +597,7 @@ A gaskiya, kai nē wanda ka fi ɗaukaka bisa ga kōmi in ba kai da kanka ba. Hak
 (Bahaiprayers.net ID: 11728)
 
 
-
+«[Hausa](../ha/#bpn11728)» 
 
 
 
@@ -613,7 +613,7 @@ A gaskiya, mulkinka kē daidaita kōmi, kai nē karīmin wanda kē rāyuwa da ka
 (Bahaiprayers.net ID: 11729)
 
 
-
+«[Hausa](../ha/#bpn11729)» 
 
 
 
@@ -630,7 +630,7 @@ A cikin rangwamenka da girman ɗaukakar huskarka, ina rōƙon ka sauko mana, da 
 (Bahaiprayers.net ID: 11742)
 
 
-
+«[Hausa](../ha/#bpn11742)» 
 
 
 
@@ -645,7 +645,7 @@ Kana iya aikata duk abun da kake sō. Bābu wani Allah illā kai, mai taimako ci
 (Bahaiprayers.net ID: 11743)
 
 
-
+«[Hausa](../ha/#bpn11743)» 
 
 
 
@@ -658,7 +658,7 @@ A gaban gadon ɗayantakarka da hasken kyaukyawar huskarka, ka sā in tsaya, sab�
 (Bahaiprayers.net ID: 11744)
 
 
-
+«[Hausa](../ha/#bpn11744)» 
 
 
 
@@ -671,7 +671,7 @@ Kana gani nā cikin tsananin talauci yā Ubangijina ! Gā shi nā sarkafa ga sū
 (Bahaiprayers.net ID: 11745)
 
 
-
+«[Hausa](../ha/#bpn11745)» 
 
 
 
@@ -727,7 +727,7 @@ Yā Allāna, nā shaida abūbūwan da gātāyanka suka shaida, kuma nā faɗakar
 (Bahaiprayers.net ID: 11704)
 
 
-
+«[Hausa](../ha/#bpn11704)» 
 
 
 
@@ -758,7 +758,7 @@ Nā tabbata da kai kaɗai kake, bā ka da abōkin tārayya, kai nē Allah, kuma 
 (Bahaiprayers.net ID: 11702)
 
 
-
+«[Hausa](../ha/#bpn11702)» 
 
 
 
@@ -777,7 +777,7 @@ Bābu wani Allah sai kai, mai cēto cikin matsala, mai rāyuwa cikin īkonsa.
 (Bahaiprayers.net ID: 11701)
 
 
-
+«[Hausa](../ha/#bpn11701)» 
 
 
 
@@ -796,7 +796,7 @@ Yā Allāna, ka haskaka rūhuna da kyaukyāwar wallaharka, kamar yanda ka haske 
 (Bahaiprayers.net ID: 11713)
 
 
-
+«[Hausa](../ha/#bpn11713)» 
 
 
 
@@ -813,7 +813,7 @@ Bā shakka, bā wani Allah sai kai, jalla mayalwaci, mai gāfartāwa, mai jin-ƙ
 (Bahaiprayers.net ID: 11746)
 
 
-
+«[Hausa](../ha/#bpn11746)» 
 
 
 
@@ -826,7 +826,7 @@ Yā abun ƙaunāta! Wanda raina ya fi sō, ina rōƙon ka, nī bāwanka wanda ya
 (Bahaiprayers.net ID: 11747)
 
 
-
+«[Hausa](../ha/#bpn11747)» 
 
 
 
@@ -851,7 +851,7 @@ Sai cikin māmāki, alƙalamin Mai sama ya yi kira cēwa : « Yā kai wanda kai 
 (Bahaiprayers.net ID: 11760)
 
 
-
+«[Hausa](../ha/#bpn11760)» 
 
 
 
@@ -872,7 +872,7 @@ Haka nē, ruwan kalmōmi yake zubōwa daga samāniyar ƙudirin Ubangijinka, mai 
 (Bahaiprayers.net ID: 11761)
 
 
-
+«[Hausa](../ha/#bpn11761)» 
 
 
 
@@ -889,7 +889,7 @@ Idan ka sāmu wannan allō, ka wāƙe shi da iyākar zāƙin murya, kuma ka cē 
 (Bahaiprayers.net ID: 11762)
 
 
-
+«[Hausa](../ha/#bpn11762)» 
 
 
 
@@ -907,7 +907,7 @@ Yā Ubangijina, ka yāfēwa bāyinka mazā da māta. Kai nē a gaskiya, mai gāf
 (Bahaiprayers.net ID: 11735)
 
 
-
+«[Hausa](../ha/#bpn11735)» 
 
 
 
@@ -921,7 +921,7 @@ Kai nē mai karāma! Kai nē mai jin-ƙai! Kai nē mai taimakon tālikai.
 (Bahaiprayers.net ID: 11736)
 
 
-
+«[Hausa](../ha/#bpn11736)» 
 
 
 
@@ -937,7 +937,7 @@ Yā Allah, ka būɗa ƙōfa, ka bāda hāli, ka sā hanya ta zama shiryayya, ka 
 (Bahaiprayers.net ID: 11737)
 
 
-
+«[Hausa](../ha/#bpn11737)» 
 
 
 
@@ -949,7 +949,7 @@ Sūnanka ya girmama yā Allāna. Yanzu da ka sā ni hanyar gāne gaskiya, ina r�
 (Bahaiprayers.net ID: 11738)
 
 
-
+«[Hausa](../ha/#bpn11738)» 
 
 
 
@@ -963,7 +963,7 @@ A gaskiya, ka na da īkon yin abunda ka ga dāma, mulkinka yā mallaki kōmi da 
 (Bahaiprayers.net ID: 11739)
 
 
-
+«[Hausa](../ha/#bpn11739)» 
 
 
 
@@ -976,7 +976,7 @@ A gaskiya, kai nē mabuwāyi, mai ƙudura, masanin kōmi, ƙadīran. Kai nē mai
 (Bahaiprayers.net ID: 11740)
 
 
-
+«[Hausa](../ha/#bpn11740)» 
 
 
 
@@ -994,7 +994,7 @@ Bā shakka, kai nē Ubangijin duka dūniya. Bā wani Allah sai kai, mai nasara, 
 (Bahaiprayers.net ID: 11722)
 
 
-
+«[Hausa](../ha/#bpn11722)» 
 
 
 
@@ -1008,7 +1008,7 @@ A gaskiya, kai nē Ubangiji mayalwaci, mai mallaƙar kōmi da kōwa.
 (Bahaiprayers.net ID: 11723)
 
 
-
+«[Hausa](../ha/#bpn11723)» 
 
 
 
@@ -1022,7 +1022,7 @@ Kā san abun da yake tāre da ni, yā Ubangijina, amma nī, ban san abun dake t�
 (Bahaiprayers.net ID: 11724)
 
 
-
+«[Hausa](../ha/#bpn11724)» 
 
 
 
@@ -1037,7 +1037,7 @@ Kai nē Jalla sarkin sarauta, mayalwaci. Bābu wani Allah illā kai, mai shirya 
 (Bahaiprayers.net ID: 11725)
 
 
-
+«[Hausa](../ha/#bpn11725)» 
 
 
 
@@ -1053,7 +1053,7 @@ Yā Allah, ka haske wannan ƴar halittar tāka, ka ƙarfafa ta, ka ilimintar da 
 (Bahaiprayers.net ID: 11750)
 
 
-
+«[Hausa](../ha/#bpn11750)» 
 
 
 
@@ -1065,7 +1065,7 @@ Yā Allah, ka tarbiyartar da yāran nan. Sūne itātuwan lambunka, sūne furanni
 (Bahaiprayers.net ID: 11751)
 
 
-
+«[Hausa](../ha/#bpn11751)» 
 
 
 
@@ -1077,7 +1077,7 @@ Yā Allah, ka sā ni hanya, ka kāre ni, ka haskaka futular zūciyāta, kuma ka 
 (Bahaiprayers.net ID: 11752)
 
 
-
+«[Hausa](../ha/#bpn11752)» 
 
 
 
@@ -1089,7 +1089,7 @@ Yā Allah ! ka rāyar da wannan jinjiri cikin hannun ƙaunarka, kuma ka bā shi 
 (Bahaiprayers.net ID: 11753)
 
 
-
+«[Hausa](../ha/#bpn11753)» 
 
 
 
@@ -1101,7 +1101,7 @@ Yā kai Allah wahābu, nī ƙaramin yāro nē, ka girmar da ni, kuma ka karɓē 
 (Bahaiprayers.net ID: 11754)
 
 
-
+«[Hausa](../ha/#bpn11754)» 
 
 
 
@@ -1113,7 +1113,7 @@ Yā Ubangiji Allanā! nī yāro nē ƙarami. Ka cīda ni da nōnon rahamarka. Ka
 (Bahaiprayers.net ID: 11755)
 
 
-
+«[Hausa](../ha/#bpn11755)» 
 
 
 
@@ -1144,7 +1144,7 @@ A gaskiya, mū duka muna bin umarnin Allah (sau 19)
 (Bahaiprayers.net ID: 11711)
 
 
-
+«[Hausa](../ha/#bpn11711)» 
 
 
 
@@ -1171,7 +1171,7 @@ Bābu wani Allah illa kai, mai gāfartāwa a kullun, mayalwaci.
 (Bahaiprayers.net ID: 11757)
 
 
-
+«[Hausa](../ha/#bpn11757)» 
 
 
 
@@ -1190,7 +1190,7 @@ Kai nē mayalwaci, mai jin-kai, mai karāma, mai rahama, mai kulāwa.
 (Bahaiprayers.net ID: 11758)
 
 
-
+«[Hausa](../ha/#bpn11758)» 
 
 
 
@@ -1213,7 +1213,7 @@ Bā wani Allah sai kai, mai jinƙai, mai rahama.
 (Bahaiprayers.net ID: 11717)
 
 
-
+«[Hausa](../ha/#bpn11717)» 
 
 
 
@@ -1229,7 +1229,7 @@ A gaskiya kai nē mabuwāyi, jalla babban sarki, ƙadīran.
 (Bahaiprayers.net ID: 11718)
 
 
-
+«[Hausa](../ha/#bpn11718)» 
 
 
 
@@ -1245,7 +1245,7 @@ Kada ka hana mani yā Ubangijina, abun da ka mallaka, kada ka dāmu don nā manc
 (Bahaiprayers.net ID: 11719)
 
 
-
+«[Hausa](../ha/#bpn11719)» 
 
 
 

@@ -104,7 +104,7 @@ Bei Deiner Macht! Ob schlafend oder wachend, erbitte ich nur, was Du wünschest.
 (Bahaiprayers.net ID: 518)
 
 
-
+«[Deutsch](../de/#bpn518)» 
 
 
 
@@ -118,7 +118,7 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allbezwingenden, dem Unbe
 (Bahaiprayers.net ID: 517)
 
 
-
+«[Deutsch](../de/#bpn517)» 
 
 
 
@@ -131,7 +131,15 @@ Wahrlich, Du bist der Geber, der Großmütige, der Barmherzige, der Verzeihende.
 (Bahaiprayers.net ID: 440)
 
 
+«[Deutsch](../de/#AB06528MID)» 
 
+«[Italiano](../it/#AB06528MID)» 
+
+«[Español](../es/#AB06528MID)» 
+
+«[Esperanto](../eo/#AB06528MID)» 
+
+«[English](../en/#AB06528MID)» 
 
 
 
@@ -147,7 +155,7 @@ Selig der Ort und das Haus und der Platz und die Stadt und das Herz und der Berg
 (Bahaiprayers.net ID: 519)
 
 
-
+«[Deutsch](../de/#bpn519)» 
 
 
 
@@ -159,7 +167,7 @@ Singe die Verse Gottes, o Mein Diener, die du empfangen, wie jene sie singen, di
 (Bahaiprayers.net ID: 520)
 
 
-
+«[Deutsch](../de/#bpn520)» 
 
 
 
@@ -179,7 +187,7 @@ Du bist wahrlich der Herr der Schöpfung. Es gibt keinen Gott außer Dir, dem Im
 (Bahaiprayers.net ID: 522)
 
 
-
+«[Deutsch](../de/#bpn522)» 
 
 
 
@@ -192,7 +200,7 @@ Du bist der Gott der Macht, der Herrlichkeit und Gnadenfülle. Es gibt keinen Go
 (Bahaiprayers.net ID: 523)
 
 
-
+«[Deutsch](../de/#bpn523)» 
 
 
 
@@ -207,7 +215,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist fürwahr der Allherrliche, de
 (Bahaiprayers.net ID: 524)
 
 
-
+«[Deutsch](../de/#bpn524)» 
 
 
 
@@ -220,7 +228,7 @@ Er ist höchster Herr über Seine Diener und steht über Seinen Geschöpfen. In 
 (Bahaiprayers.net ID: 525)
 
 
-
+«[Deutsch](../de/#bpn525)» 
 
 
 
@@ -233,7 +241,7 @@ Ich flehe Dich an, o mein Herr, bei Deinem Größten Namen, durch den Du Licht v
 (Bahaiprayers.net ID: 527)
 
 
-
+«[Deutsch](../de/#bpn527)» 
 
 
 
@@ -251,7 +259,7 @@ Aller Lobpreis und alle Herrlichkeit seien Dir, o Du, von dem alle Dinge bezeuge
 (Bahaiprayers.net ID: 521)
 
 
-
+«[Deutsch](../de/#bpn521)» 
 
 
 
@@ -266,7 +274,7 @@ Wir bitten Dich, o Vorsehung, zeige allen Menschen Deinen Weg und leite sie rech
 (Bahaiprayers.net ID: 526)
 
 
-
+«[Deutsch](../de/#bpn526)» 
 
 
 
@@ -281,7 +289,7 @@ Unermesslich erhaben bist Du, o Herr! Behüte uns vor dem, was vor und was hinte
 (Bahaiprayers.net ID: 639)
 
 
-
+«[Deutsch](../de/#bpn639)» 
 
 
 
@@ -295,7 +303,7 @@ Ruhm sei Dir! Erhaben bist Du über jede Beschreibung außer der Deinen, denn me
 (Bahaiprayers.net ID: 638)
 
 
-
+«[Deutsch](../de/#bpn638)» 
 
 
 
@@ -316,7 +324,7 @@ Du bist wahrlich der Allmächtige, der Allwissende, der Allweise.
 (Bahaiprayers.net ID: 670)
 
 
-
+«[Deutsch](../de/#bpn670)» 
 
 
 
@@ -334,7 +342,7 @@ Alle sind arm und bedürftig, Du aber bist wahrlich der Allbesitzende, der Allbe
 (Bahaiprayers.net ID: 528)
 
 
-
+«[Deutsch](../de/#bpn528)» 
 
 
 
@@ -347,7 +355,7 @@ Du bist fürwahr der König aller Menschen. Es gibt keinen Gott außer Dir, dem 
 (Bahaiprayers.net ID: 529)
 
 
-
+«[Deutsch](../de/#bpn529)» 
 
 
 
@@ -360,7 +368,7 @@ Ich bin, o mein Gott, Dein Diener und Deines Dieners Sohn. Ich habe in Deinen Ta
 (Bahaiprayers.net ID: 530)
 
 
-
+«[Deutsch](../de/#bpn530)» 
 
 
 
@@ -374,7 +382,7 @@ Du bist wahrhaftig der Immervergebende, der Mitleidvollste.
 (Bahaiprayers.net ID: 531)
 
 
-
+«[Deutsch](../de/#bpn531)» 
 
 
 
@@ -388,7 +396,7 @@ Du bist wahrlich der Allmächtige, der Erhabenste, der Immervergebende, der Frei
 (Bahaiprayers.net ID: 532)
 
 
-
+«[Deutsch](../de/#bpn532)» 
 
 
 
@@ -400,7 +408,7 @@ O mein Gott! Ich bitte Dich bei Deinem erhabensten Namen, hilf mir zu tun, was d
 (Bahaiprayers.net ID: 533)
 
 
-
+«[Deutsch](../de/#bpn533)» 
 
 
 
@@ -412,7 +420,7 @@ Sprich: Ruhm sei Dir, der Du alle Heiligen ihre Hilflosigkeit vor den mannigfalt
 (Bahaiprayers.net ID: 534)
 
 
-
+«[Deutsch](../de/#bpn534)» 
 
 
 
@@ -424,7 +432,7 @@ Preis sei Dir, o mein Herr, dass Du mich die Manifestation Deiner Selbst erkenne
 (Bahaiprayers.net ID: 535)
 
 
-
+«[Deutsch](../de/#bpn535)» 
 
 
 
@@ -437,7 +445,7 @@ Du bist fürwahr der Vergebende, der Freigebige.
 (Bahaiprayers.net ID: 536)
 
 
-
+«[Deutsch](../de/#bpn536)» 
 
 
 
@@ -450,7 +458,7 @@ Ich bin nackt, o mein Gott; kleide mich in das Gewand Deines zarten Erbarmens. I
 (Bahaiprayers.net ID: 537)
 
 
-
+«[Deutsch](../de/#bpn537)» 
 
 
 
@@ -465,7 +473,7 @@ O mein Herr, verleihe Deinen Segen den Boten, den Heiligen und den Gerechten. Wa
 (Bahaiprayers.net ID: 641)
 
 
-
+«[Deutsch](../de/#bpn641)» 
 
 
 
@@ -481,7 +489,7 @@ Dein ist die unumschränkte Befehlsgewalt.
 (Bahaiprayers.net ID: 642)
 
 
-
+«[Deutsch](../de/#bpn642)» 
 
 
 
@@ -493,7 +501,7 @@ Sprich: Gott genügt allen Dingen über alle Dinge hinaus, und nichts in den Him
 (Bahaiprayers.net ID: 640)
 
 
-
+«[Deutsch](../de/#bpn640)» 
 
 
 
@@ -505,7 +513,7 @@ O Herr! Wir sind schwach; gib uns Kraft. O Gott! Wir sind unwissend, verleihe un
 (Bahaiprayers.net ID: 441)
 
 
-
+«[Deutsch](../de/#bpn441)» 
 
 
 
@@ -520,7 +528,7 @@ Wahrlich, Du bist der Mächtige, der Gewaltige, der Beschützer, der Starke, der
 (Bahaiprayers.net ID: 442)
 
 
-
+«[Deutsch](../de/#bpn442)» 
 
 
 
@@ -533,7 +541,7 @@ O Du Versorger, o Du Vergeber! Gewähre uns Deine Güte und Gnade, Deine Gaben u
 (Bahaiprayers.net ID: 443)
 
 
-
+«[Deutsch](../de/#bpn443)» 
 
 
 
@@ -545,7 +553,7 @@ O mein Gott, mein Geliebter, mein Verlangen! Steh mir bei in meiner Einsamkeit u
 (Bahaiprayers.net ID: 444)
 
 
-
+«[Deutsch](../de/#bpn444)» 
 
 
 
@@ -559,7 +567,7 @@ Du bist wahrlich der Eine, der Einzige, der Mächtige, der Allwissende, der Allw
 (Bahaiprayers.net ID: 445)
 
 
-
+«[Deutsch](../de/#bpn445)» 
 
 
 
@@ -573,7 +581,7 @@ Gib uns unser täglich Brot und was wir zum Leben bedürfen die Fülle, damit wi
 (Bahaiprayers.net ID: 446)
 
 
-
+«[Deutsch](../de/#bpn446)» 
 
 
 
@@ -596,7 +604,7 @@ Segne, o Herr mein Gott, den göttlichen Lotosbaum, seine Blätter, seine Äste 
 (Bahaiprayers.net ID: 675)
 
 
-
+«[Deutsch](../de/#bpn675)» 
 
 
 
@@ -614,7 +622,7 @@ Ich bezeuge, o mein Gott, dass Du mich erschaffen hast, Dich zu erkennen und anz
 (Bahaiprayers.net ID: 663)
 
 
-
+«[Deutsch](../de/#bpn663)» 
 
 
 
@@ -661,7 +669,7 @@ Ich bezeuge, o mein Gott, was Deine Erwählten bezeugen, und bekenne, was die Be
 (Bahaiprayers.net ID: 665)
 
 
-
+«[Deutsch](../de/#bpn665)» 
 
 
 
@@ -695,7 +703,7 @@ Ich bezeuge Deine Einheit und Deine Einzigkeit, dass Du Gott bist und es keinen 
 (Bahaiprayers.net ID: 664)
 
 
-
+«[Deutsch](../de/#bpn664)» 
 
 
 
@@ -711,7 +719,7 @@ O unser Gott! Wir bitten Dich beim König der Namen, dem Schöpfer von Himmel un
 (Bahaiprayers.net ID: 538)
 
 
-
+«[Deutsch](../de/#bpn538)» 
 
 
 
@@ -724,7 +732,7 @@ Wahrlich, Du bist der Machtvolle, der Unzugängliche, der Höchste, der Wissende
 (Bahaiprayers.net ID: 539)
 
 
-
+«[Deutsch](../de/#bpn539)» 
 
 
 
@@ -736,7 +744,7 @@ O mein Herr! Du siehst, wie sie sich an das Seil Deiner Gnade klammern, wie sie 
 (Bahaiprayers.net ID: 540)
 
 
-
+«[Deutsch](../de/#bpn540)» 
 
 
 
@@ -751,7 +759,7 @@ Du bist wahrhaftig der Gott der Stärke und Macht, der Du bereit bist, denen zu 
 (Bahaiprayers.net ID: 541)
 
 
-
+«[Deutsch](../de/#bpn541)» 
 
 
 
@@ -767,7 +775,7 @@ Wahrlich, Du bist unser Herr und der Herr aller Dinge. Wir geben uns in Deine Ha
 (Bahaiprayers.net ID: 643)
 
 
-
+«[Deutsch](../de/#bpn643)» 
 
 
 
@@ -783,7 +791,7 @@ O mein Gott, o mein Gott! Einige die Herzen Deiner Diener und enthülle ihnen De
 (Bahaiprayers.net ID: 542)
 
 
-
+«[Deutsch](../de/#bpn542)» 
 
 
 
@@ -795,7 +803,7 @@ Gebe Gott, dass das Licht der Einheit die ganze Erde umfasse und das Siegel „D
 (Bahaiprayers.net ID: 543)
 
 
-
+«[Deutsch](../de/#bpn543)» 
 
 
 
@@ -810,7 +818,7 @@ Du bist der Mächtige, der Gewaltige, und Du bist der Gott der Stärke, der Allm
 (Bahaiprayers.net ID: 447)
 
 
-
+«[Deutsch](../de/#bpn447)» 
 
 
 
@@ -822,7 +830,7 @@ O Du gütiger Gott! O Du, der Du freigebig und barmherzig bist! Wir sind Diener 
 (Bahaiprayers.net ID: 449)
 
 
-
+«[Deutsch](../de/#bpn449)» 
 
 
 
@@ -838,7 +846,7 @@ Wahrlich, Du bist der Allmächtige, der Selbstbestehende, der Geber, der Verzeih
 (Bahaiprayers.net ID: 448)
 
 
-
+«[Deutsch](../de/#bpn448)» 
 
 
 
@@ -854,7 +862,7 @@ O Herr! In dieser größten Sendung nimmst Du die Fürbitte der Kinder für ihre
 (Bahaiprayers.net ID: 450)
 
 
-
+«[Deutsch](../de/#bpn450)» 
 
 
 
@@ -867,7 +875,7 @@ Dir weihe ich, o mein Herr, was ich unter dem Herzen trage. Lass es ein Kind wer
 (Bahaiprayers.net ID: 452)
 
 
-
+«[Deutsch](../de/#bpn452)» 
 
 
 
@@ -882,7 +890,7 @@ Wahrlich, Du bist der Kostbare, der Immergewährende, der Freigebige.
 (Bahaiprayers.net ID: 451)
 
 
-
+«[Deutsch](../de/#bpn451)» 
 
 
 
@@ -901,7 +909,7 @@ Es gibt keinen Gott außer Dir, dem Allwissenden, dem Allweisen. Aller Preis sei
 (Bahaiprayers.net ID: 678)
 
 
-
+«[Deutsch](../de/#bpn678)» 
 
 
 
@@ -921,7 +929,7 @@ Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann sc
 (Bahaiprayers.net ID: 679)
 
 
-
+«[Deutsch](../de/#bpn679)» 
 
 
 
@@ -959,7 +967,7 @@ Du siehst mich, o mein Gott, an Deinem Namen festhalten, dem Heiligsten, dem Str
 (Bahaiprayers.net ID: 677)
 
 
-
+«[Deutsch](../de/#bpn677)» 
 
 
 
@@ -971,7 +979,7 @@ O Gott! So wie ich mich fleischlicher Wünsche enthalte und Speise und Trank ent
 (Bahaiprayers.net ID: 666)
 
 
-
+«[Deutsch](../de/#bpn666)» 
 
 
 
@@ -990,7 +998,7 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allweisen.
 (Bahaiprayers.net ID: 544)
 
 
-
+«[Deutsch](../de/#bpn544)» 
 
 
 
@@ -1005,7 +1013,7 @@ Durch Deine Großmut, o Herr, bestimme für mich, was mir in dieser und in der z
 (Bahaiprayers.net ID: 545)
 
 
-
+«[Deutsch](../de/#bpn545)» 
 
 
 
@@ -1018,7 +1026,7 @@ Gib, o mein Gott, dass ich nicht zu denen zähle, deren Ohren taub, deren Augen 
 (Bahaiprayers.net ID: 644)
 
 
-
+«[Deutsch](../de/#bpn644)» 
 
 
 
@@ -1031,7 +1039,7 @@ Du bist wahrlich der Unbesiegbare, der Allmächtige, der Allgewaltige.
 (Bahaiprayers.net ID: 453)
 
 
-
+«[Deutsch](../de/#bpn453)» 
 
 
 
@@ -1044,7 +1052,7 @@ Du bist der Mitleidvolle, der Barmherzige. Du bist der große wohltätige Gott.
 (Bahaiprayers.net ID: 454)
 
 
-
+«[Deutsch](../de/#bpn454)» 
 
 
 
@@ -1057,7 +1065,13 @@ Herr, hier sind Diener, die fest und standhaft blieben in Deinem Bund und Testam
 (Bahaiprayers.net ID: 455)
 
 
+«[Deutsch](../de/#AB06211)» 
 
+«[Español](../es/#AB06211)» 
+
+«[Português (BR)](../pt/#AB06211)» 
+
+«[English](../en/#AB06211)» 
 
 
 
@@ -1072,7 +1086,7 @@ Wahrlich, Du bist der Bestätiger, der Helfer, der Geliebte, der Machtvolle, der
 (Bahaiprayers.net ID: 456)
 
 
-
+«[Deutsch](../de/#bpn456)» 
 
 
 
@@ -1090,7 +1104,7 @@ Wahrlich, Du bist der Erhalter, der Helfer, der Großmütige, der Freigebige, de
 (Bahaiprayers.net ID: 457)
 
 
-
+«[Deutsch](../de/#bpn457)» 
 
 
 
@@ -1118,7 +1132,7 @@ Wahrlich, Du bist der Freigebigste, der Herr überfließender Gnade, und wahrlic
 (Bahaiprayers.net ID: 458)
 
 
-
+«[Deutsch](../de/#bpn458)» 
 
 
 
@@ -1134,7 +1148,7 @@ Ich bitte Dich, o mein Gott, bei Deiner Kraft und Deiner Macht und Deiner Herrsc
 (Bahaiprayers.net ID: 546)
 
 
-
+«[Deutsch](../de/#bpn546)» 
 
 
 
@@ -1149,7 +1163,7 @@ Erbarme Dich sodann, o mein Gott, Deiner Diener, die versunken sind im Meere bö
 (Bahaiprayers.net ID: 547)
 
 
-
+«[Deutsch](../de/#bpn547)» 
 
 
 
@@ -1164,7 +1178,7 @@ Du bist der große Geber, der Immervergebende, der Mitleidvollste.
 (Bahaiprayers.net ID: 548)
 
 
-
+«[Deutsch](../de/#bpn548)» 
 
 
 
@@ -1179,7 +1193,7 @@ Herr! Halte mich nicht fern vom Meere Deines Reichtums und vom Himmel Deines Erb
 (Bahaiprayers.net ID: 549)
 
 
-
+«[Deutsch](../de/#bpn549)» 
 
 
 
@@ -1195,7 +1209,7 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Wohltätigen.
 (Bahaiprayers.net ID: 550)
 
 
-
+«[Deutsch](../de/#bpn550)» 
 
 
 
@@ -1210,7 +1224,7 @@ Offenbare uns, o Gott, Deine erhabene Ewigkeit - dass Du immer warst und immer s
 (Bahaiprayers.net ID: 551)
 
 
-
+«[Deutsch](../de/#bpn551)» 
 
 
 
@@ -1223,7 +1237,7 @@ Sodann flehe ich Dich an, o mein Gott, mir zu bestimmen, was mich so reich macht
 (Bahaiprayers.net ID: 552)
 
 
-
+«[Deutsch](../de/#bpn552)» 
 
 
 
@@ -1237,7 +1251,7 @@ Du bist wahrlich der Immervergebende, der Allbarmherzige.
 (Bahaiprayers.net ID: 553)
 
 
-
+«[Deutsch](../de/#bpn553)» 
 
 
 
@@ -1250,7 +1264,7 @@ Ich flehe Dich an bei Dir selbst und bei Ihm, den Du zum Offenbarer Deines eigen
 (Bahaiprayers.net ID: 554)
 
 
-
+«[Deutsch](../de/#bpn554)» 
 
 
 
@@ -1264,7 +1278,7 @@ Verherrlicht sei Dein Name, o Du, der Du der König aller Könige bist!
 (Bahaiprayers.net ID: 555)
 
 
-
+«[Deutsch](../de/#bpn555)» 
 
 
 
@@ -1277,7 +1291,7 @@ Ich bitte Dich, o mein Geliebter, Du meines Herzens Sehnsucht, schütze Deinen D
 (Bahaiprayers.net ID: 556)
 
 
-
+«[Deutsch](../de/#bpn556)» 
 
 
 
@@ -1292,7 +1306,7 @@ Fürwahr, willst Du einem Diener Gunst erweisen, so tilgst Du aus seines Herzens
 (Bahaiprayers.net ID: 645)
 
 
-
+«[Deutsch](../de/#bpn645)» 
 
 
 
@@ -1304,7 +1318,7 @@ O mein Herr! O mein Herr! Diese Lampe ist erleuchtet vom Feuer Deiner Liebe und 
 (Bahaiprayers.net ID: 459)
 
 
-
+«[Deutsch](../de/#bpn459)» 
 
 
 
@@ -1318,7 +1332,7 @@ Du bist wahrlich der Mächtige, der Erhabene, der Gewaltige, der allein in den H
 (Bahaiprayers.net ID: 460)
 
 
-
+«[Deutsch](../de/#bpn460)» 
 
 
 
@@ -1333,7 +1347,7 @@ Wahrlich, Du bist barmherzig, und wahrlich, Du bist der Freigebige, dessen Hilfe
 (Bahaiprayers.net ID: 461)
 
 
-
+«[Deutsch](../de/#bpn461)» 
 
 
 
@@ -1346,7 +1360,7 @@ Wahrlich, Du bist der Freigebige. Wahrlich, Du bist der Kostbare, der Geliebte!
 (Bahaiprayers.net ID: 462)
 
 
-
+«[Deutsch](../de/#bpn462)» 
 
 
 
@@ -1359,7 +1373,7 @@ Wahrlich, Du bist der Freigebigste, der Herr überströmender Gnade. Es gibt kei
 (Bahaiprayers.net ID: 463)
 
 
-
+«[Deutsch](../de/#bpn463)» 
 
 
 
@@ -1374,7 +1388,7 @@ O Herr, mein Gott! Niedrig sind Deine Diener, erhebe sie in Dein Reich der Höhe
 (Bahaiprayers.net ID: 464)
 
 
-
+«[Deutsch](../de/#bpn464)» 
 
 
 
@@ -1397,7 +1411,7 @@ Du bist der Schenkende, der Mitleidige, der Allgütige, der Gnadenreiche, der Ba
 (Bahaiprayers.net ID: 676)
 
 
-
+«[Deutsch](../de/#bpn676)» 
 
 
 
@@ -1414,7 +1428,7 @@ O Du unser Versorger! Sende Deine Hilfe auf uns nieder, so dass jeder von uns hi
 (Bahaiprayers.net ID: 667)
 
 
-
+«[Deutsch](../de/#bpn667)» 
 
 
 
@@ -1426,7 +1440,7 @@ Wenn ihr den Beratungsraum betretet, sprecht dieses Gebet mit einem Herzen, das 
 (Bahaiprayers.net ID: 668)
 
 
-
+«[Deutsch](../de/#bpn668)» 
 
 
 
@@ -1441,7 +1455,7 @@ Du bist wahrlich der Großmütige, der Barmherzige. Du bist der Herr der großen
 (Bahaiprayers.net ID: 669)
 
 
-
+«[Deutsch](../de/#bpn669)» 
 
 
 
@@ -1459,7 +1473,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem I
 (Bahaiprayers.net ID: 563)
 
 
-
+«[Deutsch](../de/#bpn563)» 
 
 
 
@@ -1472,7 +1486,7 @@ Wahrlich, Du tust, was Du willst, und wahrlich, Du bist der Vergebende, der Mitl
 (Bahaiprayers.net ID: 564)
 
 
-
+«[Deutsch](../de/#bpn564)» 
 
 
 
@@ -1486,7 +1500,7 @@ Wahrlich, Du bist der Kraftvolle, der Sieghafte, der Mächtige, der Lebendige, d
 (Bahaiprayers.net ID: 565)
 
 
-
+«[Deutsch](../de/#bpn565)» 
 
 
 
@@ -1499,7 +1513,9 @@ Du bist wahrlich der Heiler, der Erhalter, der Helfer, der Allmächtige, der Kra
 (Bahaiprayers.net ID: 566)
 
 
+«[Deutsch](../de/#BH07721)» 
 
+«[English](../en/#BH07721)» 
 
 
 
@@ -1513,7 +1529,7 @@ Du bist wahrlich der Herr über dieses und das zukünftige Leben. Du bist in Wah
 (Bahaiprayers.net ID: 567)
 
 
-
+«[Deutsch](../de/#bpn567)» 
 
 
 
@@ -1568,7 +1584,7 @@ Du bist wahrlich der Machtvolle, der Allgenügende, der Heilende, der Beschütze
 (Bahaiprayers.net ID: 568)
 
 
-
+«[Deutsch](../de/#bpn568)» 
 
 
 
@@ -1583,7 +1599,7 @@ Du bist fürwahr unermesslich erhaben über alles außer Dir. Und Du bist wahrli
 (Bahaiprayers.net ID: 569)
 
 
-
+«[Deutsch](../de/#bpn569)» 
 
 
 
@@ -1596,7 +1612,7 @@ Darum flehe ich Dich an bei Deinem Namen, durch den Du Dein göttliches Wesen of
 (Bahaiprayers.net ID: 570)
 
 
-
+«[Deutsch](../de/#bpn570)» 
 
 
 
@@ -1608,7 +1624,7 @@ Dein Name ist meine Heilung, o mein Gott, Dein Gedenken meine Arznei, Deine Näh
 (Bahaiprayers.net ID: 562)
 
 
-
+«[Deutsch](../de/#bpn562)» 
 
 
 
@@ -1627,7 +1643,7 @@ Und als es Ihn verlangte, den Menschen Gnade und Wohltat zu erweisen und der Wel
 (Bahaiprayers.net ID: 571)
 
 
-
+«[Deutsch](../de/#bpn571)» 
 
 
 
@@ -1640,7 +1656,7 @@ O Du gütiger Herr! Lass aus dieser Ehe Korallen und Perlen hervorgehen. Du bist
 (Bahaiprayers.net ID: 467)
 
 
-
+«[Deutsch](../de/#bpn467)» 
 
 
 
@@ -1653,7 +1669,7 @@ Wahrlich, Du bist der Freigebige, wahrlich, Du bist der Allmächtige, wahrlich, 
 (Bahaiprayers.net ID: 468)
 
 
-
+«[Deutsch](../de/#bpn468)» 
 
 
 
@@ -1665,7 +1681,7 @@ Ruhm sei Dir, o mein Gott! Wahrlich, Dein Knecht und Deine Magd haben unter dem 
 (Bahaiprayers.net ID: 469)
 
 
-
+«[Deutsch](../de/#bpn469)» 
 
 
 
@@ -1681,7 +1697,7 @@ O Herr! Lass diesen jungen Menschen strahlen, erweise diesem armen Geschöpf Dei
 (Bahaiprayers.net ID: 475)
 
 
-
+«[Deutsch](../de/#bpn475)» 
 
 
 
@@ -1695,7 +1711,7 @@ O Du Gütiger Herr! Lass diesen jungen Menschen erlangen, was die tiefste Sehnsu
 (Bahaiprayers.net ID: 10259)
 
 
-
+«[Deutsch](../de/#bpn10259)» 
 
 
 
@@ -1708,7 +1724,7 @@ O Herr! Stärke diese zerbrechlichen Setzlinge, damit jeder von ihnen zu einem f
 (Bahaiprayers.net ID: 10260)
 
 
-
+«[Deutsch](../de/#bpn10260)» 
 
 
 
@@ -1723,7 +1739,7 @@ Du bist der Allmächtige, der Allherrliche, der Allgewaltige.
 (Bahaiprayers.net ID: 10261)
 
 
-
+«[Deutsch](../de/#bpn10261)» 
 
 
 
@@ -1740,7 +1756,7 @@ Gelobt seiest Du, o mein Meistgeliebter! Lass über dieses Kind den süßen Duft
 (Bahaiprayers.net ID: 573)
 
 
-
+«[Deutsch](../de/#bpn573)» 
 
 
 
@@ -1755,7 +1771,7 @@ Preis sei Gott, dem Herrn aller Welten.
 (Bahaiprayers.net ID: 572)
 
 
-
+«[Deutsch](../de/#bpn572)» 
 
 
 
@@ -1767,7 +1783,7 @@ O Gott! Erziehe diese Kinder. Sie sind die Pflanzen Deines Haines, die Blumen De
 (Bahaiprayers.net ID: 470)
 
 
-
+«[Deutsch](../de/#bpn470)» 
 
 
 
@@ -1780,7 +1796,7 @@ Du bist der Großmütige, der Alliebende.
 (Bahaiprayers.net ID: 471)
 
 
-
+«[Deutsch](../de/#bpn471)» 
 
 
 
@@ -1794,7 +1810,7 @@ Du bist der Gewaltige, der Alliebende.
 (Bahaiprayers.net ID: 472)
 
 
-
+«[Deutsch](../de/#bpn472)» 
 
 
 
@@ -1806,7 +1822,7 @@ O Gott! Führe mich, beschütze mich, erleuchte die Lampe meines Herzens und mac
 (Bahaiprayers.net ID: 473)
 
 
-
+«[Deutsch](../de/#bpn473)» 
 
 
 
@@ -1820,7 +1836,7 @@ Wahrlich, Du bist der Starke, der Mächtige, der Sehende, der Hörende.
 (Bahaiprayers.net ID: 474)
 
 
-
+«[Deutsch](../de/#bpn474)» 
 
 
 
@@ -1832,7 +1848,7 @@ O Du unvergleichlicher Herr! Sei Du diesem armen Kinde ein Schutz, sei dieser ir
 (Bahaiprayers.net ID: 476)
 
 
-
+«[Deutsch](../de/#bpn476)» 
 
 
 
@@ -1845,7 +1861,7 @@ O Du selbstgenügender Gott! Mache mich zu einem Vertrauten im Königreich des U
 (Bahaiprayers.net ID: 477)
 
 
-
+«[Deutsch](../de/#bpn477)» 
 
 
 
@@ -1857,7 +1873,7 @@ O Du unvergleichlicher Herr! Gib diesem Säugling Nahrung aus der Brust Deiner G
 (Bahaiprayers.net ID: 478)
 
 
-
+«[Deutsch](../de/#bpn478)» 
 
 
 
@@ -1869,7 +1885,7 @@ O Gott! Erziehe dieses Kind im Schoße Deiner Liebe, und gib ihm Milch aus der B
 (Bahaiprayers.net ID: 479)
 
 
-
+«[Deutsch](../de/#bpn479)» 
 
 
 
@@ -1886,7 +1902,7 @@ Wahrlich, Du bist gewaltig in allem, was Du durch Dein Wort willst, Du bist der 
 (Bahaiprayers.net ID: 574)
 
 
-
+«[Deutsch](../de/#bpn574)» 
 
 
 
@@ -1900,7 +1916,7 @@ Du bist wahrlich der Gewaltigste, der Höchste, der Allwissende, der Allweise.
 (Bahaiprayers.net ID: 575)
 
 
-
+«[Deutsch](../de/#bpn575)» 
 
 
 
@@ -1915,7 +1931,7 @@ Ich bitte Dich, Du König des Seins, Du Beschützer des Sichtbaren wie des Unsic
 (Bahaiprayers.net ID: 576)
 
 
-
+«[Deutsch](../de/#bpn576)» 
 
 
 
@@ -1929,7 +1945,7 @@ Da Du sie, o mein Herr, zum Lebenswasser Deiner Gunst geführt hast, so gewähre
 (Bahaiprayers.net ID: 577)
 
 
-
+«[Deutsch](../de/#bpn577)» 
 
 
 
@@ -1942,7 +1958,7 @@ Du bist fürwahr der Freigebige, der Vergebende.
 (Bahaiprayers.net ID: 480)
 
 
-
+«[Deutsch](../de/#bpn480)» 
 
 
 
@@ -1954,7 +1970,7 @@ O Gott, mein Gott! Stehe Deinen vertrauten Dienern bei, dass sie liebevolle, emp
 (Bahaiprayers.net ID: 481)
 
 
-
+«[Deutsch](../de/#bpn481)» 
 
 
 
@@ -1968,7 +1984,7 @@ Wahrlich, Du bist der Machtvolle, der Starke und der Allmächtige, und Du bist d
 (Bahaiprayers.net ID: 482)
 
 
-
+«[Deutsch](../de/#bpn482)» 
 
 
 
@@ -1984,7 +2000,7 @@ Wahrlich, Du bestätigst, wen immer Du willst, indem, was Du wünschest, und wah
 (Bahaiprayers.net ID: 483)
 
 
-
+«[Deutsch](../de/#bpn483)» 
 
 
 
@@ -2000,7 +2016,7 @@ Wahrlich, Du bist der Gütige, der Kraftvolle, der Mächtige und der Barmherzigs
 (Bahaiprayers.net ID: 484)
 
 
-
+«[Deutsch](../de/#bpn484)» 
 
 
 
@@ -2015,7 +2031,7 @@ Wahrlich, Du bist der Gewaltige, der Mächtige, der Weise und der Sehende.
 (Bahaiprayers.net ID: 485)
 
 
-
+«[Deutsch](../de/#bpn485)» 
 
 
 
@@ -2028,7 +2044,7 @@ Du bist der Allmächtige, und Du tust, was immer Du willst.
 (Bahaiprayers.net ID: 486)
 
 
-
+«[Deutsch](../de/#bpn486)» 
 
 
 
@@ -2042,7 +2058,7 @@ O Herr! Ich bin schwach, stärke mich mit Deiner Kraft und Macht. Lass meine sta
 (Bahaiprayers.net ID: 487)
 
 
-
+«[Deutsch](../de/#bpn487)» 
 
 
 
@@ -2055,7 +2071,7 @@ O Herr! Ich bin einsam, allein und gering. Für mich gibt es keinen Erhalter au�
 (Bahaiprayers.net ID: 488)
 
 
-
+«[Deutsch](../de/#bpn488)» 
 
 
 
@@ -2069,7 +2085,7 @@ Wahrlich, Du bist der Allgewaltige, der Höchsterhabene, der Immervergebende, de
 (Bahaiprayers.net ID: 489)
 
 
-
+«[Deutsch](../de/#bpn489)» 
 
 
 
@@ -2084,7 +2100,7 @@ Wahrlich, Du bist der Gewaltige, der Kraftvolle, der Allmächtige.
 (Bahaiprayers.net ID: 490)
 
 
-
+«[Deutsch](../de/#bpn490)» 
 
 
 
@@ -2101,7 +2117,7 @@ O göttliche Vorsehung! Alles Dasein ist durch Deine Gnadenfülle erzeugt; berau
 (Bahaiprayers.net ID: 578)
 
 
-
+«[Deutsch](../de/#bpn578)» 
 
 
 
@@ -2114,7 +2130,7 @@ Niemand außer Dir nützt mir, o mein Herr, und keines anderen Nähe bringt mir 
 (Bahaiprayers.net ID: 579)
 
 
-
+«[Deutsch](../de/#bpn579)» 
 
 
 
@@ -2127,7 +2143,7 @@ Du bist der Allmächtige, der Erhabenste, der Allherrliche, der All-Liebende.
 (Bahaiprayers.net ID: 580)
 
 
-
+«[Deutsch](../de/#bpn580)» 
 
 
 
@@ -2140,7 +2156,7 @@ O mein Gott! O mein Gott! Halte die Augen nicht fern von den Dingen, für die Du
 (Bahaiprayers.net ID: 581)
 
 
-
+«[Deutsch](../de/#bpn581)» 
 
 
 
@@ -2153,7 +2169,7 @@ Erleuchte, o mein Herr, das Antlitz Deiner Diener, auf dass sie Dich schauen, un
 (Bahaiprayers.net ID: 582)
 
 
-
+«[Deutsch](../de/#bpn582)» 
 
 
 
@@ -2169,7 +2185,7 @@ Ich flehe Dich an, o mein Gott, bei Deinem Namen, dessen Glanz Erde und Himmel u
 (Bahaiprayers.net ID: 583)
 
 
-
+«[Deutsch](../de/#bpn583)» 
 
 
 
@@ -2184,7 +2200,7 @@ Du hast die Macht zu tun, was Dir gefällt. Du bist wahrlich der Allgewaltige, d
 (Bahaiprayers.net ID: 584)
 
 
-
+«[Deutsch](../de/#bpn584)» 
 
 
 
@@ -2198,7 +2214,7 @@ Du bist wahrlich der Herr der Welten und der Gott aller im Himmel und auf Erden.
 (Bahaiprayers.net ID: 585)
 
 
-
+«[Deutsch](../de/#bpn585)» 
 
 
 
@@ -2213,7 +2229,7 @@ Deine Macht ist wahrlich allem gewachsen.
 (Bahaiprayers.net ID: 586)
 
 
-
+«[Deutsch](../de/#bpn586)» 
 
 
 
@@ -2227,7 +2243,7 @@ Du bist wahrlich der Herr der ganzen Menschheit, der Herr über diese und die zu
 (Bahaiprayers.net ID: 587)
 
 
-
+«[Deutsch](../de/#bpn587)» 
 
 
 
@@ -2239,7 +2255,7 @@ Sprich: O Gott, mein Gott! Du siehst, wie ich Deinen Willen umkreise, die Augen 
 (Bahaiprayers.net ID: 588)
 
 
-
+«[Deutsch](../de/#bpn588)» 
 
 
 
@@ -2251,7 +2267,7 @@ O mein Gott, mein Herr und mein Meister! Ich habe mich von meiner Verwandtschaft
 (Bahaiprayers.net ID: 646)
 
 
-
+«[Deutsch](../de/#bpn646)» 
 
 
 
@@ -2265,7 +2281,7 @@ Du bist wahrlich der Machtvolle, der Immervergebende, der Fähige, der Allmächt
 (Bahaiprayers.net ID: 491)
 
 
-
+«[Deutsch](../de/#bpn491)» 
 
 
 
@@ -2281,7 +2297,7 @@ O Du mitleidvoller Gott, Du, der Du freigebig bist und dazu die Macht hast! Wir 
 (Bahaiprayers.net ID: 492)
 
 
-
+«[Deutsch](../de/#bpn492)» 
 
 
 
@@ -2300,7 +2316,7 @@ Du bist der Mächtige und der Kraftvolle, Du bist der Vergebende und Du bist der
 (Bahaiprayers.net ID: 493)
 
 
-
+«[Deutsch](../de/#bpn493)» 
 
 
 
@@ -2316,7 +2332,7 @@ In Deiner Obhut bin ich erwacht, o mein Gott, und wer Deine Obhut sucht, dem ste
 (Bahaiprayers.net ID: 589)
 
 
-
+«[Deutsch](../de/#bpn589)» 
 
 
 
@@ -2329,7 +2345,7 @@ Es gibt keinen Gott außer Dir, dem Einen, dem Unvergleichlichen, dem Allwissend
 (Bahaiprayers.net ID: 590)
 
 
-
+«[Deutsch](../de/#bpn590)» 
 
 
 
@@ -2343,7 +2359,7 @@ Segne Ihn, o Herr mein Gott, den Du über Deine vortrefflichsten Namen gesetzt h
 (Bahaiprayers.net ID: 591)
 
 
-
+«[Deutsch](../de/#bpn591)» 
 
 
 
@@ -2359,7 +2375,7 @@ Du enttäuschest keinen, der Dich sucht, und hältst keinen zurück, der nach Di
 (Bahaiprayers.net ID: 592)
 
 
-
+«[Deutsch](../de/#bpn592)» 
 
 
 
@@ -2379,7 +2395,7 @@ Du bist wahrhaftig der Allwissende, der Allweise.
 (Bahaiprayers.net ID: 671)
 
 
-
+«[Deutsch](../de/#bpn671)» 
 
 
 
@@ -2398,7 +2414,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem H
 (Bahaiprayers.net ID: 593)
 
 
-
+«[Deutsch](../de/#bpn593)» 
 
 
 
@@ -2412,7 +2428,7 @@ Du bist wahrlich der Herr am Tage des Gerichts.
 (Bahaiprayers.net ID: 594)
 
 
-
+«[Deutsch](../de/#bpn594)» 
 
 
 
@@ -2426,7 +2442,7 @@ Und bei dem Lichte Deines Angesichtes bitte ich Dich endlich, segne meine Gesch�
 (Bahaiprayers.net ID: 595)
 
 
-
+«[Deutsch](../de/#bpn595)» 
 
 
 
@@ -2439,7 +2455,7 @@ Bewirke alsdann, dass ich mich ganz Dir zuwende, mein ganzes Vertrauen auf Dich 
 (Bahaiprayers.net ID: 597)
 
 
-
+«[Deutsch](../de/#bpn597)» 
 
 
 
@@ -2451,7 +2467,7 @@ O Du, Dessen Prüfungen denen zum Heilmittel werden, die Dir nahe sind; Dessen S
 (Bahaiprayers.net ID: 598)
 
 
-
+«[Deutsch](../de/#bpn598)» 
 
 
 
@@ -2465,7 +2481,7 @@ Ich flehe Dich an, mein Gott, bei ihnen und den Seufzern, die sich ihren Herzen 
 (Bahaiprayers.net ID: 599)
 
 
-
+«[Deutsch](../de/#bpn599)» 
 
 
 
@@ -2479,7 +2495,7 @@ Du bist fürwahr der Allmächtige, der Höchsterhabene, der Allherrliche, der Gr
 (Bahaiprayers.net ID: 600)
 
 
-
+«[Deutsch](../de/#bpn600)» 
 
 
 
@@ -2493,7 +2509,7 @@ Bei Deinem Größten Namen und Deiner urewigen Herrschaft flehe ich Dich an, sch
 (Bahaiprayers.net ID: 601)
 
 
-
+«[Deutsch](../de/#bpn601)» 
 
 
 
@@ -2505,7 +2521,7 @@ Gibt es einen Befreier von Schwierigkeiten außer Gott? Sprich: Gelobt sei Gott!
 (Bahaiprayers.net ID: 647)
 
 
-
+«[Deutsch](../de/#bpn647)» 
 
 
 
@@ -2517,7 +2533,7 @@ Ich beschwöre Dich bei Deiner Macht, o mein Gott! Lass kein Leid mich bedränge
 (Bahaiprayers.net ID: 649)
 
 
-
+«[Deutsch](../de/#bpn649)» 
 
 
 
@@ -2531,7 +2547,7 @@ Hoch erhaben bist Du, o Herr der Himmel und der Erde, über das Lob aller Mensch
 (Bahaiprayers.net ID: 650)
 
 
-
+«[Deutsch](../de/#bpn650)» 
 
 
 
@@ -2543,7 +2559,7 @@ O Herr! Du vertreibst alle Qual und zerstreust jeden Kummer. Du bannst jedes Lei
 (Bahaiprayers.net ID: 648)
 
 
-
+«[Deutsch](../de/#bpn648)» 
 
 
 
@@ -2565,7 +2581,7 @@ Du bist wahrhaftig der Gnädige, der Verherrlichte, der Machtvolle, der Allmäch
 (Bahaiprayers.net ID: 494)
 
 
-
+«[Deutsch](../de/#bpn494)» 
 
 
 
@@ -2579,7 +2595,7 @@ Birg unter Deinem Schutz, Du Geist der Reinheit, Du allgütiger Versorger, Deine
 (Bahaiprayers.net ID: 596)
 
 
-
+«[Deutsch](../de/#bpn596)» 
 
 
 
@@ -2595,7 +2611,7 @@ Du siehst, o mein Herr, wie ich mein Angesicht dem Himmel Deiner Gnade und dem M
 (Bahaiprayers.net ID: 602)
 
 
-
+«[Deutsch](../de/#bpn602)» 
 
 
 
@@ -2610,7 +2626,7 @@ Du bist der Vergebende, der Allgütige, der Huldvolle.
 (Bahaiprayers.net ID: 603)
 
 
-
+«[Deutsch](../de/#bpn603)» 
 
 
 
@@ -2623,7 +2639,7 @@ Du siehst, o mein Gott, wie das Wesen der Armut das Meer Deines Reichtums sucht,
 (Bahaiprayers.net ID: 604)
 
 
-
+«[Deutsch](../de/#bpn604)» 
 
 
 
@@ -2639,7 +2655,7 @@ Wahrlich, Du bist der Kraftvolle, der Gütige. Es gibt keinen Gott außer Dir, d
 (Bahaiprayers.net ID: 605)
 
 
-
+«[Deutsch](../de/#bpn605)» 
 
 
 
@@ -2652,7 +2668,7 @@ Ich schwöre bei Deiner Macht, o mein Gott! Wolltest Du Deine Diener nach ihrem 
 (Bahaiprayers.net ID: 606)
 
 
-
+«[Deutsch](../de/#bpn606)» 
 
 
 
@@ -2668,7 +2684,7 @@ Preis sei Gott, dem Herrn der Welten!
 (Bahaiprayers.net ID: 607)
 
 
-
+«[Deutsch](../de/#bpn607)» 
 
 
 
@@ -2683,7 +2699,7 @@ Du bist fürwahr der Allmächtige, der Helfer in Gefahr, der Selbstbestehende.
 (Bahaiprayers.net ID: 608)
 
 
-
+«[Deutsch](../de/#bpn608)» 
 
 
 
@@ -2701,7 +2717,7 @@ Ich bitte Dich, Du Herr allen Seins, Du König des Sichtbaren und des Unsichtbar
 (Bahaiprayers.net ID: 609)
 
 
-
+«[Deutsch](../de/#bpn609)» 
 
 
 
@@ -2715,7 +2731,7 @@ Es gibt keinen, o mein Gott, der großmütig zu mir sein kann, so dass ich ihm m
 (Bahaiprayers.net ID: 610)
 
 
-
+«[Deutsch](../de/#bpn610)» 
 
 
 
@@ -2728,7 +2744,7 @@ Verherrlicht seiest Du, o Herr! Du vergibst allezeit die Sünden jener Deiner Di
 (Bahaiprayers.net ID: 651)
 
 
-
+«[Deutsch](../de/#bpn651)» 
 
 
 
@@ -2740,7 +2756,7 @@ Ich bitte Dich, o mein Herr, vergib mir jedes Gedenken außer dem Deinen, jeden 
 (Bahaiprayers.net ID: 652)
 
 
-
+«[Deutsch](../de/#bpn652)» 
 
 
 
@@ -2753,7 +2769,7 @@ O mein Gott! Du hast meine Seele ermutigt, demütig zu Dir zu flehen, und nur um
 (Bahaiprayers.net ID: 653)
 
 
-
+«[Deutsch](../de/#bpn653)» 
 
 
 
@@ -2765,7 +2781,7 @@ Preis sei Dir, o Herr! Vergib uns unsere Sünden, erbarme Dich unser und mache u
 (Bahaiprayers.net ID: 654)
 
 
-
+«[Deutsch](../de/#bpn654)» 
 
 
 
@@ -2779,7 +2795,7 @@ Segne mich, o mein Gott, und jene, die am festgesetzten Tage an Deine Zeichen gl
 (Bahaiprayers.net ID: 655)
 
 
-
+«[Deutsch](../de/#bpn655)» 
 
 
 
@@ -2791,7 +2807,7 @@ O Du vergebender Herr! Wenn auch manch eine Seele in Unwissenheit, Entfremdung u
 (Bahaiprayers.net ID: 495)
 
 
-
+«[Deutsch](../de/#bpn495)» 
 
 
 
@@ -2806,7 +2822,7 @@ Wahrlich, Du bist der Vergeber, der Mitleidvolle, und Du bist der Freigebige, de
 (Bahaiprayers.net ID: 496)
 
 
-
+«[Deutsch](../de/#bpn496)» 
 
 
 
@@ -2818,7 +2834,7 @@ O Du vergebender Herr! Du bist aller Deiner Diener Zuflucht. Du kennst die Gehei
 (Bahaiprayers.net ID: 497)
 
 
-
+«[Deutsch](../de/#bpn497)» 
 
 
 
@@ -2834,7 +2850,7 @@ O Gott, mein Gott! Ich habe mich aus meinem Hause begeben, das Seil Deiner Liebe
 (Bahaiprayers.net ID: 611)
 
 
-
+«[Deutsch](../de/#bpn611)» 
 
 
 
@@ -2848,7 +2864,7 @@ Gelobt und verherrlicht seiest Du, in Dessen Hand das Reich aller Dinge liegt.
 (Bahaiprayers.net ID: 612)
 
 
-
+«[Deutsch](../de/#bpn612)» 
 
 
 
@@ -2862,7 +2878,7 @@ In der Macht Deiner höchsten Herrschaft bist Du wahrlich der Helfer in Gefahr. 
 (Bahaiprayers.net ID: 613)
 
 
-
+«[Deutsch](../de/#bpn613)» 
 
 
 
@@ -2877,7 +2893,7 @@ Es gibt keinen Gott außer Dir, dem Allherrlichen, dem Großen Geber, dem Verzei
 (Bahaiprayers.net ID: 614)
 
 
-
+«[Deutsch](../de/#bpn614)» 
 
 
 
@@ -2892,7 +2908,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist wahrlich der Helfer in Gefahr
 (Bahaiprayers.net ID: 615)
 
 
-
+«[Deutsch](../de/#bpn615)» 
 
 
 
@@ -2908,7 +2924,7 @@ Du bist wahrlich der Allherrliche, der Großmütigste.
 (Bahaiprayers.net ID: 616)
 
 
-
+«[Deutsch](../de/#bpn616)» 
 
 
 
@@ -2923,7 +2939,7 @@ Verherrlicht sei Gott, der Herr der ganzen Schöpfung.
 (Bahaiprayers.net ID: 617)
 
 
-
+«[Deutsch](../de/#bpn617)» 
 
 
 
@@ -2936,7 +2952,7 @@ Vergib mir und den Gläubigen, die auf Deinen Ruf antworten. Sei Du mein allgen�
 (Bahaiprayers.net ID: 656)
 
 
-
+«[Deutsch](../de/#bpn656)» 
 
 
 
@@ -2951,7 +2967,7 @@ Es gibt weder Macht noch Kraft außer in Gott, dem höchst Erhabenen, dem Mächt
 (Bahaiprayers.net ID: 657)
 
 
-
+«[Deutsch](../de/#bpn657)» 
 
 
 
@@ -2966,7 +2982,7 @@ Du bist der unumschränkte Herrscher, der mächtig Handelnde, der Erhabene, der 
 (Bahaiprayers.net ID: 658)
 
 
-
+«[Deutsch](../de/#bpn658)» 
 
 
 
@@ -2978,7 +2994,7 @@ O Gott, mein Gott! Bewahre Deine vertrauten Diener vor den übeln der Selbstsuch
 (Bahaiprayers.net ID: 498)
 
 
-
+«[Deutsch](../de/#bpn498)» 
 
 
 
@@ -2992,7 +3008,7 @@ Wahrlich, Du bist der Beschützer, der Hüter, der Erhalter, der Genügende, und
 (Bahaiprayers.net ID: 499)
 
 
-
+«[Deutsch](../de/#bpn499)» 
 
 
 
@@ -3008,7 +3024,7 @@ Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann sc
 (Bahaiprayers.net ID: 618)
 
 
-
+«[Deutsch](../de/#bpn618)» 
 
 
 
@@ -3021,7 +3037,7 @@ Du bist wahrlich der Allmächtige, der Allhöchste, der Allherrliche, der Allunt
 (Bahaiprayers.net ID: 619)
 
 
-
+«[Deutsch](../de/#bpn619)» 
 
 
 
@@ -3036,7 +3052,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem G
 (Bahaiprayers.net ID: 620)
 
 
-
+«[Deutsch](../de/#bpn620)» 
 
 
 
@@ -3049,7 +3065,7 @@ Seit unvordenklicher Zeit bist Du mächtig zu tun, was Du willst, und hoch erhab
 (Bahaiprayers.net ID: 659)
 
 
-
+«[Deutsch](../de/#bpn659)» 
 
 
 
@@ -3062,7 +3078,7 @@ Groß ist die Seligkeit jener, deren Blut Du erwählt hast, den Baum Deiner Best
 (Bahaiprayers.net ID: 660)
 
 
-
+«[Deutsch](../de/#bpn660)» 
 
 
 
@@ -3077,7 +3093,7 @@ O Herr, lass ihre Herzen durch ihre Treue zu Deinem unverletzlichen Glauben stä
 (Bahaiprayers.net ID: 661)
 
 
-
+«[Deutsch](../de/#bpn661)» 
 
 
 
@@ -3091,7 +3107,7 @@ Wahrlich, Du bist der Gebende, der Verzeihende, der Ewigschenkende. Wahrlich, Du
 (Bahaiprayers.net ID: 500)
 
 
-
+«[Deutsch](../de/#bpn500)» 
 
 
 
@@ -3107,7 +3123,7 @@ Die Herrlichkeit aller Herrlichkeiten ruhe auf denen, die fest und standhaft sin
 (Bahaiprayers.net ID: 501)
 
 
-
+«[Deutsch](../de/#bpn501)» 
 
 
 
@@ -3126,7 +3142,7 @@ Wahrlich, Du bist der Mildtätige, der Vergebende.
 (Bahaiprayers.net ID: 621)
 
 
-
+«[Deutsch](../de/#bpn621)» 
 
 
 
@@ -3140,7 +3156,7 @@ Du bist wahrlich der Gott der Macht, der Helfer in Gefahr, der Allherrliche, der
 (Bahaiprayers.net ID: 622)
 
 
-
+«[Deutsch](../de/#bpn622)» 
 
 
 
@@ -3153,7 +3169,7 @@ Wahrlich, Du bist der Herr der Kraft, Du bist mächtig zu bestimmen, was Du will
 (Bahaiprayers.net ID: 623)
 
 
-
+«[Deutsch](../de/#bpn623)» 
 
 
 
@@ -3168,7 +3184,7 @@ Du bist fürwahr der Helfer in Gefahr, der Selbstbestehende.
 (Bahaiprayers.net ID: 624)
 
 
-
+«[Deutsch](../de/#bpn624)» 
 
 
 
@@ -3181,7 +3197,7 @@ Ich bitte Dich, gib mir die Kraft, standhaft an Deiner Liebe und Deinem Gedenken
 (Bahaiprayers.net ID: 625)
 
 
-
+«[Deutsch](../de/#bpn625)» 
 
 
 
@@ -3195,7 +3211,7 @@ Preis sei Dir, der Du der Geliebte aller bist, die Dich erkannt haben!
 (Bahaiprayers.net ID: 626)
 
 
-
+«[Deutsch](../de/#bpn626)» 
 
 
 
@@ -3209,7 +3225,7 @@ Ich flehe Dich an, bei dir selbst und bei allem, was von Dir ist, lass mich Dein
 (Bahaiprayers.net ID: 627)
 
 
-
+«[Deutsch](../de/#bpn627)» 
 
 
 
@@ -3222,7 +3238,7 @@ Wahrlich, Du bist der höchste Herrscher, die unumschränkte Wahrheit, der Helfe
 (Bahaiprayers.net ID: 662)
 
 
-
+«[Deutsch](../de/#bpn662)» 
 
 
 
@@ -3234,7 +3250,7 @@ O Herr, mein Gott! Stehe Deinen Geliebten bei, in Deinem Glauben fest zu sein, a
 (Bahaiprayers.net ID: 502)
 
 
-
+«[Deutsch](../de/#bpn502)» 
 
 
 
@@ -3248,7 +3264,7 @@ Wahrlich, Du bist der Freigebige, der Immervergebende, der Kostbare, der Großm�
 (Bahaiprayers.net ID: 503)
 
 
-
+«[Deutsch](../de/#bpn503)» 
 
 
 
@@ -3296,7 +3312,7 @@ Wahrlich, Er ist der Barmherzige, der Mitleidvolle. Preis sei Gott, dem Herrn al
 (Bahaiprayers.net ID: 672)
 
 
-
+«[Deutsch](../de/#bpn672)» 
 
 
 
@@ -3362,7 +3378,7 @@ Wenn alle Diener es lesen und bedenken, so wird in ihren Adern ein Feuer entfach
 (Bahaiprayers.net ID: 673)
 
 
-
+«[Deutsch](../de/#bpn673)» 
 
 
 
@@ -3438,7 +3454,7 @@ Verherrlicht sei unser Herr, der Höchste! Und als sie ihren Zustand schauten un
 (Bahaiprayers.net ID: 674)
 
 
-
+«[Deutsch](../de/#bpn674)» 
 
 
 
@@ -3454,7 +3470,7 @@ Er ist Gott! Sieh uns, o Herr, an dieser Tafel versammelt, dankbar für Deine Gn
 (Bahaiprayers.net ID: 505)
 
 
-
+«[Deutsch](../de/#bpn505)» 
 
 
 
@@ -3466,7 +3482,7 @@ Er ist Gott! O Herr, wie sollen wir Dir danken! Grenzenlos ist Deine Großmut, u
 (Bahaiprayers.net ID: 504)
 
 
-
+«[Deutsch](../de/#bpn504)» 
 
 
 
@@ -3482,7 +3498,7 @@ Erschaffe in mir ein reines Herz, o mein Gott, und schenke mir wieder ein ruhige
 (Bahaiprayers.net ID: 628)
 
 
-
+«[Deutsch](../de/#bpn628)» 
 
 
 
@@ -3495,7 +3511,7 @@ Du bist wahrlich der Allmächtige, der Allherrliche, der Gewaltigste.
 (Bahaiprayers.net ID: 629)
 
 
-
+«[Deutsch](../de/#bpn629)» 
 
 
 
@@ -3508,7 +3524,7 @@ Du hast die Macht zu tun, was Dir gefällt. Du bist wahrlich der Erhabenste, der
 (Bahaiprayers.net ID: 630)
 
 
-
+«[Deutsch](../de/#bpn630)» 
 
 
 
@@ -3521,7 +3537,7 @@ Entfache alsdann in meiner Brust, o mein Gott, das Feuer Deiner Liebe, auf dass 
 (Bahaiprayers.net ID: 631)
 
 
-
+«[Deutsch](../de/#bpn631)» 
 
 
 
@@ -3533,7 +3549,7 @@ Sprich: O Gott, mein Gott! Schmücke mein Haupt mit der Krone des Rechts und mei
 (Bahaiprayers.net ID: 632)
 
 
-
+«[Deutsch](../de/#bpn632)» 
 
 
 
@@ -3546,7 +3562,7 @@ Bewahre ihn auch, o mein Gott, durch die Macht Deiner unermesslichen Majestät v
 (Bahaiprayers.net ID: 633)
 
 
-
+«[Deutsch](../de/#bpn633)» 
 
 
 
@@ -3559,7 +3575,7 @@ Ich flehe Dich an, gestatte diesem Diener zu erreichen, was ihn in jeder Deiner 
 (Bahaiprayers.net ID: 634)
 
 
-
+«[Deutsch](../de/#bpn634)» 
 
 
 
@@ -3573,7 +3589,7 @@ Es gibt keinen Gott außer Dir, dem Vergebenden, dem Liebenden.
 (Bahaiprayers.net ID: 635)
 
 
-
+«[Deutsch](../de/#bpn635)» 
 
 
 
@@ -3588,7 +3604,7 @@ Du bist wahrhaftig der Allmächtige, der Allherrliche, der Allgewaltige.
 (Bahaiprayers.net ID: 508)
 
 
-
+«[Deutsch](../de/#bpn508)» 
 
 
 
@@ -3609,7 +3625,7 @@ Du bist fürwahr der Allmächtige, der Vergebende, der Mitleidige.
 (Bahaiprayers.net ID: 636)
 
 
-
+«[Deutsch](../de/#bpn636)» 
 
 
 
@@ -3623,7 +3639,7 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist fürwahr der Höchste Herrsch
 (Bahaiprayers.net ID: 637)
 
 
-
+«[Deutsch](../de/#bpn637)» 
 
 
 
@@ -3642,7 +3658,7 @@ Wahrlich, Du bist der Gabenreiche, der Mächtige, der Allgewaltige, der Unbeding
 (Bahaiprayers.net ID: 509)
 
 
-
+«[Deutsch](../de/#bpn509)» 
 
 
 
@@ -3658,7 +3674,7 @@ O Herr! Bestätige diese Versammlung und stehe ihr bei. Bestätige diese Seelen 
 (Bahaiprayers.net ID: 510)
 
 
-
+«[Deutsch](../de/#bpn510)» 
 
 
 
@@ -3671,7 +3687,7 @@ O Gott! Wir sind schwach; gib uns Kraft. Wir sind arm; beschenke uns mit Deinen 
 (Bahaiprayers.net ID: 511)
 
 
-
+«[Deutsch](../de/#bpn511)» 
 
 
 
@@ -3686,7 +3702,7 @@ O Gott! Begnade uns mit Deiner Vorsehung. Du bist der Gewaltige. Du bist der Geb
 (Bahaiprayers.net ID: 512)
 
 
-
+«[Deutsch](../de/#bpn512)» 
 
 
 
@@ -3699,7 +3715,7 @@ Wahrlich, Du bist der Allmächtige, der Allgewaltige!
 (Bahaiprayers.net ID: 513)
 
 
-
+«[Deutsch](../de/#bpn513)» 
 
 
 
@@ -3713,7 +3729,7 @@ Du bist mächtig. Du bist gewaltig. Du bist der Geber und Du bist der Ewig-Freig
 (Bahaiprayers.net ID: 514)
 
 
-
+«[Deutsch](../de/#bpn514)» 
 
 
 
@@ -3725,7 +3741,7 @@ O Gott! Banne alles, was zu Zwietracht führt, und bereite uns, was Einheit und 
 (Bahaiprayers.net ID: 515)
 
 
-
+«[Deutsch](../de/#bpn515)» 
 
 
 
@@ -3741,7 +3757,7 @@ Du bist der Gewaltige, der Allmächtige, der Barmherzige; Du bist der Freigebige
 (Bahaiprayers.net ID: 516)
 
 
-
+«[Deutsch](../de/#bpn516)» 
 
 
 
@@ -3757,7 +3773,7 @@ Gib, o mein Herr, dass die zu Dir Emporgestiegenen Zuflucht finden bei Ihm, dem 
 (Bahaiprayers.net ID: 558)
 
 
-
+«[Deutsch](../de/#bpn558)» 
 
 
 
@@ -3769,7 +3785,7 @@ Sprich: O Gott, mein Gott! Du hast mir ein Pfand anvertraut, und nach Deines Wil
 (Bahaiprayers.net ID: 559)
 
 
-
+«[Deutsch](../de/#bpn559)» 
 
 
 
@@ -3783,7 +3799,7 @@ Verherrlicht, unermesslich verherrlicht bist Du! Du wirst angebetet in Deiner Wa
 (Bahaiprayers.net ID: 560)
 
 
-
+«[Deutsch](../de/#bpn560)» 
 
 
 
@@ -3805,7 +3821,7 @@ Es gibt keinen Gott außer Dir, dem Einen, dem Einzigen, dem Mächtigen, dem All
 (Bahaiprayers.net ID: 561)
 
 
-
+«[Deutsch](../de/#bpn561)» 
 
 
 
@@ -3830,7 +3846,7 @@ Wahrlich, wir alle sind geduldig in Gott.
 (Bahaiprayers.net ID: 557)
 
 
-
+«[Deutsch](../de/#bpn557)» 
 
 
 
@@ -3844,7 +3860,7 @@ O mein Herr! Mache sie rein von Fehlern, vertreibe ihre Sorgen und wandle ihre F
 (Bahaiprayers.net ID: 465)
 
 
-
+«[Deutsch](../de/#bpn465)» 
 
 
 
@@ -3858,7 +3874,7 @@ Wahrlich, Du bist der Freigebige, der Gewaltige, der Vergebende und der Schenken
 (Bahaiprayers.net ID: 466)
 
 
-
+«[Deutsch](../de/#bpn466)» 
 
 
 

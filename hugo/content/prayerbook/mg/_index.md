@@ -84,7 +84,7 @@ Ianao marina tokoa, Ilay Mahefa ny zavatra rehetra, Ilay Mahafantatra ny zavatra
 (Bahaiprayers.net ID: 9368)
 
 
-
+«[Malagasy](../mg/#bpn9368)» 
 
 
 
@@ -100,7 +100,7 @@ Ry Andriamanitro! Tariho aho, arovy aho, hazavao ny jiron’ny foko ary ataovy t
 (Bahaiprayers.net ID: 9395)
 
 
-
+«[Malagasy](../mg/#bpn9395)» 
 
 
 
@@ -114,7 +114,7 @@ Ianao Ilay Mpanome! Ianao Ilay Mpamindra fo!
 (Bahaiprayers.net ID: 9396)
 
 
-
+«[Malagasy](../mg/#bpn9396)» 
 
 
 
@@ -127,7 +127,7 @@ Ataovy zanaky ny Fanjakanao izy ary tariho ho eny amin’ny Fanjakan-danitrao. M
 (Bahaiprayers.net ID: 9397)
 
 
-
+«[Malagasy](../mg/#bpn9397)» 
 
 
 
@@ -141,7 +141,7 @@ Marina tokoa, Ianao Ilay Mahery, Ilay Tsitoha, Izay Mpahita sy Mpihaino.
 (Bahaiprayers.net ID: 9398)
 
 
-
+«[Malagasy](../mg/#bpn9398)» 
 
 
 
@@ -161,7 +161,7 @@ Ianao Ilay Matanjaka! Ianao Ilay Mahery! Ianao Ilay Mpanome ary Ianao ilay  Mala
 (Bahaiprayers.net ID: 9402)
 
 
-
+«[Malagasy](../mg/#bpn9402)» 
 
 
 
@@ -180,7 +180,7 @@ Ianao Ilay Mpamindra fo, Ilay Mpanasoa, Ilay Mpanome, Ilay Tsitoha, Ilay be indr
 (Bahaiprayers.net ID: 9403)
 
 
-
+«[Malagasy](../mg/#bpn9403)» 
 
 
 
@@ -201,7 +201,7 @@ Manana fahefana hanao izay sitrakao Ianao.
 (Bahaiprayers.net ID: 9360)
 
 
-
+«[Malagasy](../mg/#bpn9360)» 
 
 
 
@@ -234,7 +234,7 @@ Isika rehetra, marina tokoa, dia manam-paharetana ao amin’Andriamanitra.
 (Bahaiprayers.net ID: 9361)
 
 
-
+«[Malagasy](../mg/#bpn9361)» 
 
 
 
@@ -257,7 +257,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manam-paharoa, 
 (Bahaiprayers.net ID: 9362)
 
 
-
+«[Malagasy](../mg/#bpn9362)» 
 
 
 
@@ -271,7 +271,7 @@ Ry Tompo ô! Diovy noho ny fandikan-dalàna izy ireo, savao ny alahelony ary sol
 (Bahaiprayers.net ID: 9399)
 
 
-
+«[Malagasy](../mg/#bpn9399)» 
 
 
 
@@ -289,7 +289,7 @@ Ianao, marina tokoa, Ilay Tompon’ny fanomezana sy ny fahalalan-tanana rehetra.
 (Bahaiprayers.net ID: 9358)
 
 
-
+«[Malagasy](../mg/#bpn9358)» 
 
 
 
@@ -304,7 +304,7 @@ Ary rehefa nikasa haneho ny fahasoavany sy ny hatsaram-pony amin’ny olona Izy 
 (Bahaiprayers.net ID: 9359)
 
 
-
+«[Malagasy](../mg/#bpn9359)» 
 
 
 
@@ -322,7 +322,7 @@ Noho izany mamelà, ry Tompoko ô, ireo mpanompolahy sy mpanompovavinao. Marina 
 (Bahaiprayers.net ID: 9339)
 
 
-
+«[Malagasy](../mg/#bpn9339)» 
 
 
 
@@ -335,7 +335,7 @@ Izaho, ry Andriamanitro, dia mpanomponao sy zanaky ny mpanomponao. Nahafantatra 
 (Bahaiprayers.net ID: 9340)
 
 
-
+«[Malagasy](../mg/#bpn9340)» 
 
 
 
@@ -348,7 +348,7 @@ Ry Tompo, raha tsy mamela ahy Ianao, iza indray no angatahana famelana, ary raha
 (Bahaiprayers.net ID: 9317)
 
 
-
+«[Malagasy](../mg/#bpn9317)» 
 
 
 
@@ -361,7 +361,7 @@ Ry Andriamanitro! Nomenao aingam-panahy ny fanahiko mba haneho Aminao ny fitalah
 (Bahaiprayers.net ID: 9318)
 
 
-
+«[Malagasy](../mg/#bpn9318)» 
 
 
 
@@ -373,7 +373,7 @@ Deraina anie Ianao, ry Tompo. Mamela ny helokay, mamindra fo aminay ary avelao i
 (Bahaiprayers.net ID: 9319)
 
 
-
+«[Malagasy](../mg/#bpn9319)» 
 
 
 
@@ -385,7 +385,7 @@ Ry Andriamanitro, ry Tompoko, ry Mpampianatro! Miangavy Anao aho hamela ny helok
 (Bahaiprayers.net ID: 9320)
 
 
-
+«[Malagasy](../mg/#bpn9320)» 
 
 
 
@@ -399,7 +399,7 @@ Ianao Ilay Manam-pahefana, Ilay Tsitoha. Ianao Ilay Malala-tanana. Ianao Ilay Ma
 (Bahaiprayers.net ID: 9378)
 
 
-
+«[Malagasy](../mg/#bpn9378)» 
 
 
 
@@ -413,7 +413,7 @@ Diovy aho ary atolory ahy ny fahamasinanao. Aoka mba handray anjara amin’ny fi
 (Bahaiprayers.net ID: 9379)
 
 
-
+«[Malagasy](../mg/#bpn9379)» 
 
 
 
@@ -432,7 +432,7 @@ Ianao, marina tokoa, Ilay Andriamanitry ny Tanjaka sy ny Fahefana, izay vonona h
 (Bahaiprayers.net ID: 9355)
 
 
-
+«[Malagasy](../mg/#bpn9355)» 
 
 
 
@@ -446,7 +446,7 @@ Marina tokoa, Ianao Ilay Manam-pahefana, Ilay Mahery, Ilay Mahefa ny zavatra reh
 (Bahaiprayers.net ID: 9386)
 
 
-
+«[Malagasy](../mg/#bpn9386)» 
 
 
 
@@ -460,7 +460,7 @@ Marina tokoa, Ianao Manam-pahefana sy Mpanao izay Sitraponao ary ny Herinao dia 
 (Bahaiprayers.net ID: 9387)
 
 
-
+«[Malagasy](../mg/#bpn9387)» 
 
 
 
@@ -476,7 +476,7 @@ Marina tokoa, Ianao Ilay Tsitoha, Ilay Mahaleo-tena.
 (Bahaiprayers.net ID: 9388)
 
 
-
+«[Malagasy](../mg/#bpn9388)» 
 
 
 
@@ -492,7 +492,7 @@ Marina tokoa, manamarina izay tianao amin’izay irianao atao Ianao, ary marina 
 (Bahaiprayers.net ID: 9389)
 
 
-
+«[Malagasy](../mg/#bpn9389)» 
 
 
 
@@ -510,7 +510,7 @@ Marina tokoa, Ianao Ilay Malemy fanahy, Ilay Mahery, ary Ilay be indrafo amin’
 (Bahaiprayers.net ID: 9390)
 
 
-
+«[Malagasy](../mg/#bpn9390)» 
 
 
 
@@ -528,7 +528,7 @@ Marina tokoa, Ianao Ilay Mahery, Ilay Matanjaka, Ilay Mahefa ny zavatra rehetra.
 (Bahaiprayers.net ID: 9391)
 
 
-
+«[Malagasy](../mg/#bpn9391)» 
 
 
 
@@ -555,7 +555,7 @@ Ianao marina tokoa no Ilay Tsitoha, Ilay Lehibe Indrindra, Ilay mamela heloka ma
 (Bahaiprayers.net ID: 9394)
 
 
-
+«[Malagasy](../mg/#bpn9394)» 
 
 
 
@@ -573,7 +573,7 @@ Ary farany, mangataka Aminao aho, noho ny fahazavan’ny Endrikao mba hitahy ny 
 (Bahaiprayers.net ID: 9353)
 
 
-
+«[Malagasy](../mg/#bpn9353)» 
 
 
 
@@ -586,7 +586,7 @@ Ianao, marina tokoa no Ilay Mpanjakan’ny olon-drehetra. Tsy misy Andriamanitra
 (Bahaiprayers.net ID: 9354)
 
 
-
+«[Malagasy](../mg/#bpn9354)» 
 
 
 
@@ -600,7 +600,7 @@ Marina tokoa, Ianao Ilay Andriamanitra Tokana, Ilay tsy manam-paharoa, Ilay Mahe
 (Bahaiprayers.net ID: 9382)
 
 
-
+«[Malagasy](../mg/#bpn9382)» 
 
 
 
@@ -615,7 +615,7 @@ Ianao Ilay Tsitoha, Ilay Andriamanitra fitiavana, Ilay Mpiahy ny olombelona rehe
 (Bahaiprayers.net ID: 9383)
 
 
-
+«[Malagasy](../mg/#bpn9383)» 
 
 
 
@@ -630,7 +630,7 @@ O Ianao Ilay Fanahin’ny fahadiovana, Ianao Ilay Mpanome, Ilay Be fangorahana, 
 (Bahaiprayers.net ID: 9384)
 
 
-
+«[Malagasy](../mg/#bpn9384)» 
 
 
 
@@ -652,7 +652,7 @@ Ianao, marina tokoa, Ilay Be fitiavana, Ilay Omem-boninahitra, Ilay Mahery, Ilay
 (Bahaiprayers.net ID: 9385)
 
 
-
+«[Malagasy](../mg/#bpn9385)» 
 
 
 
@@ -668,7 +668,7 @@ Ny Anaranao no fahasitranako, ry Andriamanitro ô, ary ny fahatsiarovana anao no
 (Bahaiprayers.net ID: 9341)
 
 
-
+«[Malagasy](../mg/#bpn9341)» 
 
 
 
@@ -682,7 +682,7 @@ Manam-pahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra hafa afa-tsy Ia
 (Bahaiprayers.net ID: 9342)
 
 
-
+«[Malagasy](../mg/#bpn9342)» 
 
 
 
@@ -697,7 +697,7 @@ Omeo azy an-koatra izany, ry Andriamanitro ô, ny tsara amin’ity tany ity sy n
 (Bahaiprayers.net ID: 9343)
 
 
-
+«[Malagasy](../mg/#bpn9343)» 
 
 
 
@@ -711,7 +711,7 @@ Marina tokoa fa Ianao Ilay Tompon’izao fiainana izao sy ny fiainana ho avy. Ia
 (Bahaiprayers.net ID: 9344)
 
 
-
+«[Malagasy](../mg/#bpn9344)» 
 
 
 
@@ -733,7 +733,7 @@ Deraina anie Ianao, ô Ianao Ilay Tompon’ny Fahariana rehetra.
 (Bahaiprayers.net ID: 9345)
 
 
-
+«[Malagasy](../mg/#bpn9345)» 
 
 
 
@@ -748,7 +748,7 @@ Marina tokoa, ny Herinao dia mitovy amin’ny zavatra rehetra.
 (Bahaiprayers.net ID: 9346)
 
 
-
+«[Malagasy](../mg/#bpn9346)» 
 
 
 
@@ -761,7 +761,7 @@ Arovy ihany koa izy, ry Andriamanitro ô, noho ny  fahefan’ny Fiandriananao ts
 (Bahaiprayers.net ID: 9347)
 
 
-
+«[Malagasy](../mg/#bpn9347)» 
 
 
 
@@ -774,7 +774,7 @@ Satria tsy fantatr’izy ireo izay atokan’ny Famindramponao manerana ny fahari
 (Bahaiprayers.net ID: 9348)
 
 
-
+«[Malagasy](../mg/#bpn9348)» 
 
 
 
@@ -788,7 +788,7 @@ Ianao, marina tokoa, Ilay Mpiaro, Ilay Mpiambina, Ilay Mpiahy, Ilay ampy tokoa, 
 (Bahaiprayers.net ID: 9380)
 
 
-
+«[Malagasy](../mg/#bpn9380)» 
 
 
 
@@ -803,7 +803,7 @@ Ianao Ilay Mpangoraka, Ilay Be Indrafo. Ianao Ilay Andriamanitra lehibe mpanome 
 (Bahaiprayers.net ID: 9381)
 
 
-
+«[Malagasy](../mg/#bpn9381)» 
 
 
 
@@ -820,7 +820,7 @@ Ry Fitondran’ny Lanitra ô! Ny fisiana rehetra dia ateraky ny Hamoramponao; az
 (Bahaiprayers.net ID: 9327)
 
 
-
+«[Malagasy](../mg/#bpn9327)» 
 
 
 
@@ -833,7 +833,7 @@ Hazavao, ry Tompo, ny endriky ny mpanomponao mba ahazoany mibanjina Anao; ary di
 (Bahaiprayers.net ID: 9328)
 
 
-
+«[Malagasy](../mg/#bpn9328)» 
 
 
 
@@ -848,7 +848,7 @@ Ianao Ilay Mpahalala ny zavatra rehetra, Ilay Mahafantatra.
 (Bahaiprayers.net ID: 9329)
 
 
-
+«[Malagasy](../mg/#bpn9329)» 
 
 
 
@@ -862,7 +862,7 @@ Ianao ilay Andriamanitrin’ny hery, ny voninahitra sy ny fahalala-tanana. Tsy m
 (Bahaiprayers.net ID: 9330)
 
 
-
+«[Malagasy](../mg/#bpn9330)» 
 
 
 
@@ -875,7 +875,7 @@ Ianao Ilay Mahery indrindra, Ilay Ambony indrindra, Ilay  Be-voninahitra indrind
 (Bahaiprayers.net ID: 9331)
 
 
-
+«[Malagasy](../mg/#bpn9331)» 
 
 
 
@@ -887,7 +887,7 @@ Deraina anie ny Anaranao, ry Andriamanitra. Ianao marina tokoa no Tomponay. Hain
 (Bahaiprayers.net ID: 9313)
 
 
-
+«[Malagasy](../mg/#bpn9313)» 
 
 
 
@@ -900,7 +900,7 @@ Marina tokoa, Ianao Ilay Mpanapaka ambony indrindra, Ilay Fahamarinana ambony in
 (Bahaiprayers.net ID: 9314)
 
 
-
+«[Malagasy](../mg/#bpn9314)» 
 
 
 
@@ -917,7 +917,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Be indrafo, Ilay Mahery indrindr
 (Bahaiprayers.net ID: 9371)
 
 
-
+«[Malagasy](../mg/#bpn9371)» 
 
 
 
@@ -937,7 +937,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahalala ny zavatra rehetra, Ila
 (Bahaiprayers.net ID: 9369)
 
 
-
+«[Malagasy](../mg/#bpn9369)» 
 
 
 
@@ -953,7 +953,7 @@ Ry Andriamanitro ô! Ry Andriamanitro ô! Ampiraiso ny fon’ny mpanomponao ary 
 (Bahaiprayers.net ID: 9356)
 
 
-
+«[Malagasy](../mg/#bpn9356)» 
 
 
 
@@ -968,7 +968,7 @@ Ianao Ilay Tsitoha, Ilay Be Indrafo.
 (Bahaiprayers.net ID: 9357)
 
 
-
+«[Malagasy](../mg/#bpn9357)» 
 
 
 
@@ -985,7 +985,7 @@ Marina tokoa, Ianao Ilay Tsitoha, Izay mampisy ny Tenany amin’ny alalan’ny T
 (Bahaiprayers.net ID: 9392)
 
 
-
+«[Malagasy](../mg/#bpn9392)» 
 
 
 
@@ -1001,7 +1001,7 @@ O Ianao, Izay ny fitsapàna dia fanafody mahasitrana ho an’ireo izay eo akaiki
 (Bahaiprayers.net ID: 9349)
 
 
-
+«[Malagasy](../mg/#bpn9349)» 
 
 
 
@@ -1016,7 +1016,7 @@ Ianao Ilay Manam-pahefana hanao izay sitrakao. Tsy misy Andriamanitra hafa afa-t
 (Bahaiprayers.net ID: 9350)
 
 
-
+«[Malagasy](../mg/#bpn9350)» 
 
 
 
@@ -1028,7 +1028,7 @@ Ry Andriamanitra, ry Andriamanitro! Aza manalavitra ahy, satria ny fahoriana dia
 (Bahaiprayers.net ID: 9351)
 
 
-
+«[Malagasy](../mg/#bpn9351)» 
 
 
 
@@ -1041,7 +1041,7 @@ Ataovy izay hitodihako tanteraka any Aminao, hametrahako Aminao ny fitokisako re
 (Bahaiprayers.net ID: 9352)
 
 
-
+«[Malagasy](../mg/#bpn9352)» 
 
 
 
@@ -1054,7 +1054,7 @@ Lazao: Deraina anie Andriamanitra! Izy no Andriamanitra! Mpanompony avokoa ny re
 (Bahaiprayers.net ID: 9310)
 
 
-
+«[Malagasy](../mg/#bpn9310)» 
 
 
 
@@ -1067,7 +1067,7 @@ Marina tokoa, Izy amin’ny Tenany ihany Ilay Mahalala, Ilay Mpanohana, Ilay Mah
 (Bahaiprayers.net ID: 9311)
 
 
-
+«[Malagasy](../mg/#bpn9311)» 
 
 
 
@@ -1080,7 +1080,7 @@ Tsy misy afaka manala aminy ny fanjakany, ny fiandrianany, satria any an-danitra
 (Bahaiprayers.net ID: 9312)
 
 
-
+«[Malagasy](../mg/#bpn9312)» 
 
 
 
@@ -1102,7 +1102,7 @@ Ianao ilay Mahery. Ianao Ilay Mpanome. Ianao Ilay Mpanome soa.
 (Bahaiprayers.net ID: 9401)
 
 
-
+«[Malagasy](../mg/#bpn9401)» 
 
 
 
@@ -1120,7 +1120,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahery Indrindra, Ilay tsy Refes
 (Bahaiprayers.net ID: 9325)
 
 
-
+«[Malagasy](../mg/#bpn9325)» 
 
 
 
@@ -1135,7 +1135,7 @@ Izany marina tokoa no fanantenako sy fanantenan’ireo izay mankafy ny fanatonan
 (Bahaiprayers.net ID: 9326)
 
 
-
+«[Malagasy](../mg/#bpn9326)» 
 
 
 
@@ -1154,7 +1154,7 @@ Ianao marina tokoa, Ilay Tompo sy Mpanjakan’ny olon-drehetra ary manam-pahefan
 (Bahaiprayers.net ID: 9321)
 
 
-
+«[Malagasy](../mg/#bpn9321)» 
 
 
 
@@ -1171,7 +1171,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manan-tsahala, 
 (Bahaiprayers.net ID: 9322)
 
 
-
+«[Malagasy](../mg/#bpn9322)» 
 
 
 
@@ -1187,7 +1187,7 @@ Tsy mandiso fanantenana na iza na iza Ianao amin’ireo izay nikaroka Anao ary t
 (Bahaiprayers.net ID: 9323)
 
 
-
+«[Malagasy](../mg/#bpn9323)» 
 
 
 
@@ -1199,7 +1199,7 @@ Nifoha tao anatin’ny Fialofanao aho, ry Andriamanitro ô, ary adidin’izay mi
 (Bahaiprayers.net ID: 9324)
 
 
-
+«[Malagasy](../mg/#bpn9324)» 
 
 
 
@@ -1216,7 +1216,7 @@ Marina tokoa, Ianao Ilay Mpanome, Ilay Onena olona, Ilay be Indrafo, Ilay Mpamel
 (Bahaiprayers.net ID: 9372)
 
 
-
+«[Malagasy](../mg/#bpn9372)» 
 
 
 
@@ -1241,7 +1241,7 @@ Tahio, Ry Tompo Andriamanitro ô, ny “Hazo-Farany” masina, ny raviny, ny ran
 (Bahaiprayers.net ID: 9363)
 
 
-
+«[Malagasy](../mg/#bpn9363)» 
 
 
 
@@ -1262,7 +1262,7 @@ Ianao Ilay Mpanome, Ilay Mpangoraka, Ilay Onena olona, Ilay Mpamindra fo, Ilay B
 (Bahaiprayers.net ID: 9400)
 
 
-
+«[Malagasy](../mg/#bpn9400)» 
 
 
 
@@ -1387,7 +1387,7 @@ Ry Ali-Akbar ô, Isaoro ny Tomponao noho ity takelaka ity. Azonao fohana ao ny h
 (Bahaiprayers.net ID: 12866)
 
 
-
+«[Malagasy](../mg/#bpn12866)» 
 
 
 
@@ -1418,7 +1418,7 @@ Marina tokoa, Izy Ilay be Indrafo, Ilay Mpangoraka. Deraina anie Andriamanitra, 
 (Bahaiprayers.net ID: 9367)
 
 
-
+«[Malagasy](../mg/#bpn9367)» 
 
 
 
@@ -1439,7 +1439,7 @@ Marina tokoa fa Ianao Ilay Mahalala ny zavatra rehetra, Ilay tena Hendry.
 (Bahaiprayers.net ID: 9370)
 
 
-
+«[Malagasy](../mg/#bpn9370)» 
 
 
 
@@ -1456,7 +1456,7 @@ Marina tokoa fa Ianao Ilay Mahery Indrindra, Ilay be Voninahitra Indrindra, Ilay
 (Bahaiprayers.net ID: 9332)
 
 
-
+«[Malagasy](../mg/#bpn9332)» 
 
 
 
@@ -1468,7 +1468,7 @@ Amorony fo madio ao anatiko, ry Andriamanitro ô, ary havaozy ao anatiko ny sain
 (Bahaiprayers.net ID: 9333)
 
 
-
+«[Malagasy](../mg/#bpn9333)» 
 
 
 
@@ -1483,7 +1483,7 @@ Aza lavinao amiko, ry Tompoko, izay anananao ary aza avela hanadino izay niriana
 (Bahaiprayers.net ID: 9334)
 
 
-
+«[Malagasy](../mg/#bpn9334)» 
 
 
 
@@ -1505,7 +1505,7 @@ Manampahefana hanao izay Sitrakao Ianao. Ianao marina tokoa, Ilay Avo Indrindra,
 (Bahaiprayers.net ID: 9335)
 
 
-
+«[Malagasy](../mg/#bpn9335)» 
 
 
 
@@ -1522,7 +1522,7 @@ Deraina anie Andriamanitra, Ilay Tompon’ny tontolo rehetra.
 (Bahaiprayers.net ID: 9336)
 
 
-
+«[Malagasy](../mg/#bpn9336)» 
 
 
 
@@ -1537,7 +1537,7 @@ Manana ny fahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra afa-tsy Ian
 (Bahaiprayers.net ID: 9337)
 
 
-
+«[Malagasy](../mg/#bpn9337)» 
 
 
 
@@ -1550,7 +1550,7 @@ Hazavao, ry Tompoko, ny mason’ny mpanomponao ary ampifalio ny fony amin’ny f
 (Bahaiprayers.net ID: 9338)
 
 
-
+«[Malagasy](../mg/#bpn9338)» 
 
 
 
@@ -1562,7 +1562,7 @@ Miangavy Anao aho hamela ny heloko, ry Tompo, noho ny fanambarana hafa afa-tsy n
 (Bahaiprayers.net ID: 9315)
 
 
-
+«[Malagasy](../mg/#bpn9315)» 
 
 
 
@@ -1578,7 +1578,7 @@ Ianao, marina tokoa, no Tomponay sy Ilay Tompon’ny zava-drehetra. Apetrakay Am
 (Bahaiprayers.net ID: 9316)
 
 
-
+«[Malagasy](../mg/#bpn9316)» 
 
 
 
@@ -1592,7 +1592,7 @@ Marina tokoa, Ianao Ilay Mpanamafy orina, Ilay Mpanotrona, Ilay Mahery, Ilay One
 (Bahaiprayers.net ID: 9373)
 
 
-
+«[Malagasy](../mg/#bpn9373)» 
 
 
 
@@ -1606,7 +1606,7 @@ Marina tokoa, Ianao Ilay Be fitiavana, Ilay Onena olona.
 (Bahaiprayers.net ID: 9374)
 
 
-
+«[Malagasy](../mg/#bpn9374)» 
 
 
 
@@ -1619,7 +1619,7 @@ Ianao Ilay Mpangoraka, Ilay Mpiaro, Ilay Tsitoha, Ilay Be fahasoavana.
 (Bahaiprayers.net ID: 9375)
 
 
-
+«[Malagasy](../mg/#bpn9375)» 
 
 
 
@@ -1633,7 +1633,7 @@ Ry Andriamanitra ô, sakaizako akaiky noho ny tenako Ianao. Manokana ny tenako h
 (Bahaiprayers.net ID: 9376)
 
 
-
+«[Malagasy](../mg/#bpn9376)» 
 
 
 
@@ -1648,7 +1648,7 @@ Ianao, marina tokoa, Ilay Tsitoha, Be Voninahitra, Ilay Mahefa ny zavatra rehetr
 (Bahaiprayers.net ID: 9377)
 
 
-
+«[Malagasy](../mg/#bpn9377)» 
 
 
 
@@ -1667,7 +1667,7 @@ Marina tokoa, Ianao Ilay Malala-tanana, Ilay be indrafo! Ianao Ilay Manana fanom
 (Bahaiprayers.net ID: 9404)
 
 
-
+«[Malagasy](../mg/#bpn9404)» 
 
 
 
@@ -1689,7 +1689,7 @@ Ianao Ilay Matanjaka, Ilay Mahery. Ianao Ilay Mpamela heloka ary Ianao Ilay Mami
 (Bahaiprayers.net ID: 9393)
 
 
-
+«[Malagasy](../mg/#bpn9393)» 
 
 
 
@@ -1713,7 +1713,7 @@ Tena mahery marina tokoa ambonin’ny zavatra rehetra Ianao. Manatanteraka izay 
 (Bahaiprayers.net ID: 12864)
 
 
-
+«[Malagasy](../mg/#bpn12864)» 
 
 
 
@@ -1846,7 +1846,7 @@ Ary mbola mitalaho Aminao aho, avy amin’ireo anarana soa indrindra ireo, avy a
 (Bahaiprayers.net ID: 12865)
 
 
-
+«[Malagasy](../mg/#bpn12865)» 
 
 
 
@@ -1866,7 +1866,7 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Izay mamonjy amin’ny loza, izay mam
 (Bahaiprayers.net ID: 9364)
 
 
-
+«[Malagasy](../mg/#bpn9364)» 
 
 
 
@@ -1901,7 +1901,7 @@ Mijoro vavolombelona aho ny maha-Iray sy ny maha-Tokana Anao, ary Ianao dia Andr
 (Bahaiprayers.net ID: 9365)
 
 
-
+«[Malagasy](../mg/#bpn9365)» 
 
 
 
@@ -1960,7 +1960,7 @@ Anao ny fanjakan’ny tany sy ny lanitra, ry Ilay Andrian’izao tontolo izao ô
 (Bahaiprayers.net ID: 9366)
 
 
-
+«[Malagasy](../mg/#bpn9366)» 
 
 
 

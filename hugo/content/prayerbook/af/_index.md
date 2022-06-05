@@ -84,7 +84,7 @@ Daar is geen God behalwe U, die Almagtige, die Alles-Onderwerpende, die Oneindig
 (Bahaiprayers.net ID: 3145)
 
 
-
+«[Afrikaans](../af/#bpn3145)» 
 
 
 
@@ -100,7 +100,7 @@ Voorwaar, U is die Skenker, die Vrygewige, die Barmhartige, die Vergewende.
 (Bahaiprayers.net ID: 3147)
 
 
-
+«[Afrikaans](../af/#bpn3147)» 
 
 
 
@@ -116,7 +116,7 @@ By U mag! Of ek slaap of wakker is, vra ek niks anders as wat U verlang nie. Ek 
 (Bahaiprayers.net ID: 3146)
 
 
-
+«[Afrikaans](../af/#bpn3146)» 
 
 
 
@@ -134,7 +134,7 @@ Ek smeek U, by die lof waarmee U Uself lowe en die heerlikheid waarmee U U eie W
 (Bahaiprayers.net ID: 3180)
 
 
-
+«[Afrikaans](../af/#bpn3180)» 
 
 
 
@@ -150,7 +150,7 @@ U is waarlik die Here van die hele mensdom, en die Besitter van hierdie wêreld 
 (Bahaiprayers.net ID: 3181)
 
 
-
+«[Afrikaans](../af/#bpn3181)» 
 
 
 
@@ -166,7 +166,7 @@ U is, in werklikheid, die Here van die wêrelde, en die God van almal wat in die
 (Bahaiprayers.net ID: 3182)
 
 
-
+«[Afrikaans](../af/#bpn3182)» 
 
 
 
@@ -184,7 +184,15 @@ U mag is, in der waarheid, tot alle dinge in staat.
 (Bahaiprayers.net ID: 3183)
 
 
+«[Nederlands](../nl/#BH09024)» 
 
+«[Afrikaans](../af/#BH09024)» 
+
+«[Español](../es/#BH09024)» 
+
+«[Esperanto](../eo/#BH09024)» 
+
+«[English](../en/#BH09024)» 
 
 
 
@@ -202,7 +210,7 @@ Kragtig is U om te doen wat U behaag. U is, voorwaar, die Almagtige, die Mees Vr
 (Bahaiprayers.net ID: 3184)
 
 
-
+«[Afrikaans](../af/#bpn3184)» 
 
 
 
@@ -222,7 +230,7 @@ Daar is geen God behalwe U nie, die Almagtige, die Heilsame.
 (Bahaiprayers.net ID: 3185)
 
 
-
+«[Afrikaans](../af/#bpn3185)» 
 
 
 
@@ -240,7 +248,7 @@ U is, in der waarheid, die Almagtige, die Alglorieryke, die Alkragtige.
 (Bahaiprayers.net ID: 3186)
 
 
-
+«[Afrikaans](../af/#bpn3186)» 
 
 
 
@@ -276,7 +284,7 @@ Ons almal, voorwaar, is geduldig in God.
 (Bahaiprayers.net ID: 3246)
 
 
-
+«[Afrikaans](../af/#bpn3246)» 
 
 
 
@@ -294,7 +302,7 @@ Beveilig hom ook, o my God, deur die krag van U onmeetbare majesteit, teen alles
 (Bahaiprayers.net ID: 3174)
 
 
-
+«[Afrikaans](../af/#bpn3174)» 
 
 
 
@@ -306,7 +314,7 @@ O God, my God! Ek het my huis verlaat, hou vas aan die koord van U liefde, en he
 (Bahaiprayers.net ID: 3175)
 
 
-
+«[Afrikaans](../af/#bpn3175)» 
 
 
 
@@ -326,7 +334,7 @@ U is, voorwaar, die Alglorieryke, die Mees Goedertierende.
 (Bahaiprayers.net ID: 3176)
 
 
-
+«[Afrikaans](../af/#bpn3176)» 
 
 
 
@@ -342,7 +350,7 @@ U is waarlik die Almagtige, die Mees Verhewe, die Altyd-Vergewende, die Mees Vry
 (Bahaiprayers.net ID: 3177)
 
 
-
+«[Afrikaans](../af/#bpn3177)» 
 
 
 
@@ -354,7 +362,7 @@ O God, my God! Beskut U vertroude dienaars teen die euwels van self en hartstog,
 (Bahaiprayers.net ID: 3178)
 
 
-
+«[Afrikaans](../af/#bpn3178)» 
 
 
 
@@ -370,7 +378,7 @@ Voorwaar, U is die Verdediger, die Beskermer, die Bewaarder, die Voldoener, en v
 (Bahaiprayers.net ID: 3179)
 
 
-
+«[Afrikaans](../af/#bpn3179)» 
 
 
 
@@ -388,7 +396,7 @@ O Goddelike Voorsienigheid! Alle betsaan is deur U mildheid voortgebring; ontnee
 (Bahaiprayers.net ID: 3131)
 
 
-
+«[Afrikaans](../af/#bpn3131)» 
 
 
 
@@ -402,7 +410,7 @@ U is waarlik die Koning van alle mense. Daar is geen God behalwe U nie, die Alty
 (Bahaiprayers.net ID: 3132)
 
 
-
+«[Afrikaans](../af/#bpn3132)» 
 
 
 
@@ -418,7 +426,7 @@ Gee ons ons daaglikse brood en skenk U aanwas in die behoeftes van die lewe, sod
 (Bahaiprayers.net ID: 3133)
 
 
-
+«[Afrikaans](../af/#bpn3133)» 
 
 
 
@@ -434,7 +442,7 @@ U is, voorwaar, die Een, die Enigste, die Magtige, die Alwetende, die Alwyse.
 (Bahaiprayers.net ID: 3134)
 
 
-
+«[Afrikaans](../af/#bpn3134)» 
 
 
 
@@ -454,7 +462,7 @@ Aangesien U, o my Here, hulle gelei het na die lewende waters van U genade, verg
 (Bahaiprayers.net ID: 3141)
 
 
-
+«[Afrikaans](../af/#bpn3141)» 
 
 
 
@@ -476,7 +484,13 @@ U is, waarlik, die Here en Koning van alle mense, en is magtig oor alle dinge.
 (Bahaiprayers.net ID: 3140)
 
 
+«[Français](../fr/#BH02848)» 
 
+«[Afrikaans](../af/#BH02848)» 
+
+«[Português (BR)](../pt/#BH02848)» 
+
+«[English](../en/#BH02848)» 
 
 
 
@@ -502,7 +516,7 @@ En toe Hy begeer het om genade en heilsaamheid aan die mense te openbaar, en om 
 (Bahaiprayers.net ID: 3244)
 
 
-
+«[Afrikaans](../af/#bpn3244)» 
 
 
 
@@ -516,7 +530,7 @@ O U Vriendelike Here! Maak dat hierdie huwelik koraal en pêrels voortbring. U i
 (Bahaiprayers.net ID: 3245)
 
 
-
+«[Afrikaans](../af/#bpn3245)» 
 
 
 
@@ -536,7 +550,7 @@ Almal is maar arm en behoeftig, en U is voorwaar die Alles-Besittende, die Alles
 (Bahaiprayers.net ID: 3160)
 
 
-
+«[Afrikaans](../af/#bpn3160)» 
 
 
 
@@ -554,7 +568,7 @@ Magtig is U om te doen wat U behaag. U is, voorwaar, die Hulp in Gevaar, die Sel
 (Bahaiprayers.net ID: 3161)
 
 
-
+«[Afrikaans](../af/#bpn3161)» 
 
 
 
@@ -566,7 +580,7 @@ O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U 
 (Bahaiprayers.net ID: 3157)
 
 
-
+«[Afrikaans](../af/#bpn3157)» 
 
 
 
@@ -578,7 +592,7 @@ O U medelydende Here, U Wat vrygewig en bekwaam is! Ons is dienaars van U wat on
 (Bahaiprayers.net ID: 3158)
 
 
-
+«[Afrikaans](../af/#bpn3158)» 
 
 
 
@@ -602,7 +616,7 @@ U is die Magtige en Kragtige, U is die Vergewende en U is die Een Wat die tekort
 (Bahaiprayers.net ID: 3159)
 
 
-
+«[Afrikaans](../af/#bpn3159)» 
 
 
 
@@ -654,7 +668,7 @@ Waarlik, Hy is die Genadige, die Medelydende. Geloof sy God, die Heer van al die
 (Bahaiprayers.net ID: 3222)
 
 
-
+«[Afrikaans](../af/#bpn3222)» 
 
 
 
@@ -686,7 +700,7 @@ Seën U, o Here my God, die Goddelike Lotusboom en sy blare, en sy takke, en sy 
 (Bahaiprayers.net ID: 3223)
 
 
-
+«[Afrikaans](../af/#bpn3223)» 
 
 
 
@@ -712,7 +726,7 @@ U is die Skenker, die Jammerhartige, die Mees Milddadige, die Liefderyke, die Ge
 (Bahaiprayers.net ID: 3224)
 
 
-
+«[Afrikaans](../af/#bpn3224)» 
 
 
 
@@ -732,7 +746,7 @@ Werklik, U is die Sterke, die Magtige en die Alvermoënde, en U is die Wyse, die
 (Bahaiprayers.net ID: 3227)
 
 
-
+«[Afrikaans](../af/#bpn3227)» 
 
 
 
@@ -750,7 +764,7 @@ Voorwaar, U is die Bevestiger van wie U ook al wil in dit wat U begeer, en, voor
 (Bahaiprayers.net ID: 3228)
 
 
-
+«[Afrikaans](../af/#bpn3228)» 
 
 
 
@@ -770,7 +784,7 @@ Voorwaar, U is die Sagte, die Kragtige, die Magtige, en die Genadigste van die g
 (Bahaiprayers.net ID: 3229)
 
 
-
+«[Afrikaans](../af/#bpn3229)» 
 
 
 
@@ -804,7 +818,7 @@ Voorwaar, U is die Vrygewigste, die Here van oorvloeiende genade, en, voorwaar, 
 (Bahaiprayers.net ID: 3230)
 
 
-
+«[Afrikaans](../af/#bpn3230)» 
 
 
 
@@ -822,7 +836,7 @@ Voorwaar, U is die Kragtige, die Magtige, die Wyse en die Siende.
 (Bahaiprayers.net ID: 3231)
 
 
-
+«[Afrikaans](../af/#bpn3231)» 
 
 
 
@@ -836,7 +850,7 @@ U is die Alvermoënde en die Doener van wat ook al U wens.
 (Bahaiprayers.net ID: 3232)
 
 
-
+«[Afrikaans](../af/#bpn3232)» 
 
 
 
@@ -852,7 +866,7 @@ O Here! Ek is swak, versterk my met U krag en vermoë. My tong stamel, laat my t
 (Bahaiprayers.net ID: 3233)
 
 
-
+«[Afrikaans](../af/#bpn3233)» 
 
 
 
@@ -866,7 +880,7 @@ O Here! Ek is alleen, eensaam en nederig. Vir my is daar geen steun buiten U nie
 (Bahaiprayers.net ID: 3234)
 
 
-
+«[Afrikaans](../af/#bpn3234)» 
 
 
 
@@ -882,7 +896,7 @@ Voorwaar, U is die Alkragtige, die Verhewenste, die Altyd-Vergewende, die Algena
 (Bahaiprayers.net ID: 3235)
 
 
-
+«[Afrikaans](../af/#bpn3235)» 
 
 
 
@@ -900,7 +914,7 @@ Voorwaar, U is die Kragtige, die Magtige, die Alvermoënde.
 (Bahaiprayers.net ID: 3236)
 
 
-
+«[Afrikaans](../af/#bpn3236)» 
 
 
 
@@ -948,7 +962,7 @@ Ek smeek U, o my Here, by Uself, en by U tekens, en by U helder kentekens, en by
 (Bahaiprayers.net ID: 3239)
 
 
-
+«[Afrikaans](../af/#bpn3239)» 
 
 
 
@@ -966,7 +980,7 @@ Daar is geen God behalwe U, die Alwetende, die Alwyse. Alle lof sy aan God, die 
 (Bahaiprayers.net ID: 3240)
 
 
-
+«[Afrikaans](../af/#bpn3240)» 
 
 
 
@@ -994,7 +1008,7 @@ Maak U Saak seëvierend, o my Here, en verneder U vyande. Teken dan aan vir ons 
 (Bahaiprayers.net ID: 3241)
 
 
-
+«[Afrikaans](../af/#bpn3241)» 
 
 
 
@@ -1030,7 +1044,7 @@ Geloof sy U, o my God, aangesien U ons gehelp het om Hom en by hulle Wat die Dae
 (Bahaiprayers.net ID: 3242)
 
 
-
+«[Afrikaans](../af/#bpn3242)» 
 
 
 
@@ -1046,7 +1060,7 @@ O my God! O my God! Verenig die harte van U dienaars en openbaar aan hulle U gro
 (Bahaiprayers.net ID: 3217)
 
 
-
+«[Afrikaans](../af/#bpn3217)» 
 
 
 
@@ -1066,7 +1080,7 @@ Voorwaar, U is die Almagtige, die Selfbestaande, die Skenker, die Vergewer, die 
 (Bahaiprayers.net ID: 3218)
 
 
-
+«[Afrikaans](../af/#bpn3218)» 
 
 
 
@@ -1082,7 +1096,7 @@ Skep in my 'n suiwer hart, o my God, en vernuwe in my 'n rustige gewete, o my Ho
 (Bahaiprayers.net ID: 3187)
 
 
-
+«[Afrikaans](../af/#bpn3187)» 
 
 
 
@@ -1096,7 +1110,7 @@ Sterk is U om te doen wat U behaag. U is, voorwaar, die Mees Verhewe, die Alglor
 (Bahaiprayers.net ID: 3188)
 
 
-
+«[Afrikaans](../af/#bpn3188)» 
 
 
 
@@ -1110,7 +1124,7 @@ U is, voorwaar, die Almagtige, die Alglorieryke, die Kragtigste.
 (Bahaiprayers.net ID: 3189)
 
 
-
+«[Afrikaans](../af/#bpn3189)» 
 
 
 
@@ -1124,7 +1138,7 @@ Ek smeek U om hierdie dienaar dít te laat bereik wat die oorsaak van sy verloss
 (Bahaiprayers.net ID: 3190)
 
 
-
+«[Afrikaans](../af/#bpn3190)» 
 
 
 
@@ -1140,7 +1154,7 @@ U is, voorwaar, deur die krag van U opperwese, die Hulp in Gevaar. Geen God is d
 (Bahaiprayers.net ID: 3191)
 
 
-
+«[Afrikaans](../af/#bpn3191)» 
 
 
 
@@ -1158,7 +1172,7 @@ Here! Keer my nie weg van die oseaan van U rykdom en van die hemel van U genade 
 (Bahaiprayers.net ID: 3192)
 
 
-
+«[Afrikaans](../af/#bpn3192)» 
 
 
 
@@ -1180,7 +1194,7 @@ U is voorwaar die Almagtige, die Vergewer, die Medelydende.
 (Bahaiprayers.net ID: 3193)
 
 
-
+«[Afrikaans](../af/#bpn3193)» 
 
 
 
@@ -1196,7 +1210,7 @@ O God! U is meer 'n vriend teenoor my as wat ek teenoor myself is. Ek wy my toe 
 (Bahaiprayers.net ID: 3194)
 
 
-
+«[Afrikaans](../af/#bpn3194)» 
 
 
 
@@ -1214,7 +1228,7 @@ Voorwaar, U is genadig en, voorwaar, U is die Vrygewigste, Wie se hulp deur alle
 (Bahaiprayers.net ID: 3195)
 
 
-
+«[Afrikaans](../af/#bpn3195)» 
 
 
 
@@ -1226,7 +1240,7 @@ O my Here! O my Here! Hierdie is 'n lamp wat deur die vuur van U liefde aangeste
 (Bahaiprayers.net ID: 3196)
 
 
-
+«[Afrikaans](../af/#bpn3196)» 
 
 
 
@@ -1240,7 +1254,7 @@ Voorwaar, U is die Vrygewigste, die Here van oorvloedige genade. Daar is geen an
 (Bahaiprayers.net ID: 3197)
 
 
-
+«[Afrikaans](../af/#bpn3197)» 
 
 
 
@@ -1258,7 +1272,7 @@ O Here, my God! Nederig is hierdie dienaars van U, verhef hulle met U opperste m
 (Bahaiprayers.net ID: 3198)
 
 
-
+«[Afrikaans](../af/#bpn3198)» 
 
 
 
@@ -1276,7 +1290,7 @@ O God, my God! Ons is dienaars van U wat met toewyding na U heilige Aangesig gek
 (Bahaiprayers.net ID: 3237)
 
 
-
+«[Afrikaans](../af/#bpn3237)» 
 
 
 
@@ -1296,7 +1310,7 @@ Voorwaar, U is die Vrygewige, die Barmhartige, U is die Besitter van groot mildh
 (Bahaiprayers.net ID: 3238)
 
 
-
+«[Afrikaans](../af/#bpn3238)» 
 
 
 
@@ -1314,7 +1328,7 @@ U sien, o my Here, U smekeling wag by die deur van U mildheid, en hom wat sy hoo
 (Bahaiprayers.net ID: 3153)
 
 
-
+«[Afrikaans](../af/#bpn3153)» 
 
 
 
@@ -1326,7 +1340,7 @@ U naam is my genesing, o my God, en aandenking aan U is my geneesmiddel. Nabyhei
 (Bahaiprayers.net ID: 3154)
 
 
-
+«[Afrikaans](../af/#bpn3154)» 
 
 
 
@@ -1342,7 +1356,7 @@ U is waarlik die Here van hierdie lewe en van die aankomende. U is, in der waarh
 (Bahaiprayers.net ID: 3155)
 
 
-
+«[Afrikaans](../af/#bpn3155)» 
 
 
 
@@ -1356,7 +1370,7 @@ U is, voorwaar, die Geneser, die Bewaarder, die Helper, die Almagtige, die Kragt
 (Bahaiprayers.net ID: 3156)
 
 
-
+«[Afrikaans](../af/#bpn3156)» 
 
 
 
@@ -1372,7 +1386,7 @@ O God, lei my, beskerm my, verlig die lamp van my hart, en maak my 'n skitterend
 (Bahaiprayers.net ID: 3135)
 
 
-
+«[Afrikaans](../af/#bpn3135)» 
 
 
 
@@ -1386,7 +1400,7 @@ O U die Selfvoldoende God! Maak my 'n vertroude van die Koninkryk van die Ongesi
 (Bahaiprayers.net ID: 3136)
 
 
-
+«[Afrikaans](../af/#bpn3136)» 
 
 
 
@@ -1402,7 +1416,7 @@ Voorwaar, U is die Sterke, die Magtige, die Siener, die Hoorder.
 (Bahaiprayers.net ID: 3137)
 
 
-
+«[Afrikaans](../af/#bpn3137)» 
 
 
 
@@ -1414,7 +1428,7 @@ O God! Voed hierdie kinders op. Hierdie kinders is die plante van U boord, die b
 (Bahaiprayers.net ID: 3138)
 
 
-
+«[Afrikaans](../af/#bpn3138)» 
 
 
 
@@ -1426,7 +1440,7 @@ O God! Maak hierdie klein Bába groot in die boesem van U liefde en gee dit melk
 (Bahaiprayers.net ID: 3139)
 
 
-
+«[Afrikaans](../af/#bpn3139)» 
 
 
 
@@ -1452,7 +1466,7 @@ Daar is geen ander God buiten U nie, die Hulp in Gevaar, die Selbestaande.
 (Bahaiprayers.net ID: 3221)
 
 
-
+«[Afrikaans](../af/#bpn3221)» 
 
 
 
@@ -1530,7 +1544,7 @@ Ek getuig, o my God, van dit waarvan U Verkorenes getuig het, en erken dit wat d
 (Bahaiprayers.net ID: 3220)
 
 
-
+«[Afrikaans](../af/#bpn3220)» 
 
 
 
@@ -1550,7 +1564,7 @@ U is die God van krag, van heerlikheid en mildheid. Geen God is daar behalwe U n
 (Bahaiprayers.net ID: 3169)
 
 
-
+«[Afrikaans](../af/#bpn3169)» 
 
 
 
@@ -1564,7 +1578,7 @@ Verlig, o Here, die aangesigte van U dienaars, dat hulle U mag aanskou; en reini
 (Bahaiprayers.net ID: 3170)
 
 
-
+«[Afrikaans](../af/#bpn3170)» 
 
 
 
@@ -1578,7 +1592,7 @@ U is die Almagtige, die Mees Verhewe, die Alglorieryke, die Alles-Liefhebbende.
 (Bahaiprayers.net ID: 3171)
 
 
-
+«[Afrikaans](../af/#bpn3171)» 
 
 
 
@@ -1596,7 +1610,7 @@ Alle lof en glorie sy aan U, U van Wie alle dinge getuig het dat U een is en dat
 (Bahaiprayers.net ID: 3172)
 
 
-
+«[Afrikaans](../af/#bpn3172)» 
 
 
 
@@ -1610,7 +1624,7 @@ Hy is oppermagtig oor Sy dienaars, en staan oor Sy skepsels. In Sy hand is die o
 (Bahaiprayers.net ID: 3173)
 
 
-
+«[Afrikaans](../af/#bpn3173)» 
 
 
 
@@ -1658,7 +1672,7 @@ Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen 
 (Bahaiprayers.net ID: 3219)
 
 
-
+«[Afrikaans](../af/#bpn3219)» 
 
 
 
@@ -1686,7 +1700,7 @@ U is in der waarheid die Alwetende, die Alwyse.
 (Bahaiprayers.net ID: 3243)
 
 
-
+«[Afrikaans](../af/#bpn3243)» 
 
 
 
@@ -1702,7 +1716,7 @@ Ek het onder U beskutting ontwaak, o my God, en dit pas hom wat daardie beskutti
 (Bahaiprayers.net ID: 3166)
 
 
-
+«[Afrikaans](../af/#bpn3166)» 
 
 
 
@@ -1716,7 +1730,7 @@ Daar is geen ander God buiten U, die Enige, die Onvergelyklike, die Alwetende, d
 (Bahaiprayers.net ID: 3167)
 
 
-
+«[Afrikaans](../af/#bpn3167)» 
 
 
 
@@ -1736,7 +1750,7 @@ U stel niemand teleur wat U gesoek het nie, nòg hou U terug van U iemand wat U 
 (Bahaiprayers.net ID: 3168)
 
 
-
+«[Afrikaans](../af/#bpn3168)» 
 
 
 
@@ -1758,7 +1772,7 @@ U is, voorwaar, die Allerkragtigste, die Allerhoogste, die Alwetende, die Alwyse
 (Bahaiprayers.net ID: 3204)
 
 
-
+«[Afrikaans](../af/#bpn3204)» 
 
 
 
@@ -1776,7 +1790,7 @@ Ek smeek U, o U die Koning van bestaan en die Beskermer van die gesiene en die o
 (Bahaiprayers.net ID: 3205)
 
 
-
+«[Afrikaans](../af/#bpn3205)» 
 
 
 
@@ -1794,7 +1808,7 @@ U is, in der waarheid, die God van sterkte en krag, vir Wie dit passend is om di
 (Bahaiprayers.net ID: 3206)
 
 
-
+«[Afrikaans](../af/#bpn3206)» 
 
 
 
@@ -1814,7 +1828,9 @@ U is, voorwaar, die God van Krag, die Hulp in Gevaar, die Alroemryke, die Almagt
 (Bahaiprayers.net ID: 3199)
 
 
+«[Afrikaans](../af/#BH08604)» 
 
+«[English](../en/#BH08604)» 
 
 
 
@@ -1838,7 +1854,7 @@ Ek vra U, o Here van alle bestaan en Koning van die gesiene en die ongesiene, by
 (Bahaiprayers.net ID: 3200)
 
 
-
+«[Afrikaans](../af/#bpn3200)» 
 
 
 
@@ -1850,7 +1866,7 @@ O Here my God! Help U geliefdes om onwankelbaar in U Geloof te wees, om in U we�
 (Bahaiprayers.net ID: 3201)
 
 
-
+«[Afrikaans](../af/#bpn3201)» 
 
 
 
@@ -1866,7 +1882,7 @@ U is die Vryspreker, die Genadige.
 (Bahaiprayers.net ID: 3202)
 
 
-
+«[Afrikaans](../af/#bpn3202)» 
 
 
 
@@ -1882,7 +1898,7 @@ U is die Medelydende, die Genadige. U is die Groot, Heilsame God.
 (Bahaiprayers.net ID: 3203)
 
 
-
+«[Afrikaans](../af/#bpn3203)» 
 
 
 
@@ -1904,7 +1920,7 @@ Geen God is daar behalwe U nie, die Almagtige, die Alwyse.
 (Bahaiprayers.net ID: 3225)
 
 
-
+«[Afrikaans](../af/#bpn3225)» 
 
 
 
@@ -1922,7 +1938,7 @@ Verorden vir my, by U mildheid, o Here, dit wat my in hierdie wêreld en hierná
 (Bahaiprayers.net ID: 3226)
 
 
-
+«[Afrikaans](../af/#bpn3226)» 
 
 
 
@@ -1942,7 +1958,7 @@ En, ten slotte smeek ek U by die lig van U gelaat om my sake te seën, en my sku
 (Bahaiprayers.net ID: 3207)
 
 
-
+«[Afrikaans](../af/#bpn3207)» 
 
 
 
@@ -1956,7 +1972,9 @@ Laat my dan geheel en al na U keer, om my hele vertroue in U te plaas, om U as m
 (Bahaiprayers.net ID: 3208)
 
 
+«[Afrikaans](../af/#BH05071)» 
 
+«[English](../en/#BH05071)» 
 
 
 
@@ -1968,7 +1986,7 @@ O U Wie se toetse 'n genesende medisyne is vir diegene wat naby U is, Wie se swa
 (Bahaiprayers.net ID: 3209)
 
 
-
+«[Afrikaans](../af/#bpn3209)» 
 
 
 
@@ -1986,7 +2004,7 @@ Sterk is U om te doen wat U behaag. Daar is geen God behalwe U nie, die Hulp in 
 (Bahaiprayers.net ID: 3210)
 
 
-
+«[Afrikaans](../af/#bpn3210)» 
 
 
 
@@ -2002,7 +2020,7 @@ Ek smeek U, o my God, by hulle en by die sugte wat hulle harte in hulle afskeidi
 (Bahaiprayers.net ID: 3211)
 
 
-
+«[Afrikaans](../af/#bpn3211)» 
 
 
 
@@ -2014,7 +2032,7 @@ Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is 
 (Bahaiprayers.net ID: 3212)
 
 
-
+«[Afrikaans](../af/#bpn3212)» 
 
 
 
@@ -2026,7 +2044,7 @@ Sê: God is voldoende vir alles bo alles, en niks in die hemele of op aarde maar
 (Bahaiprayers.net ID: 3213)
 
 
-
+«[Afrikaans](../af/#bpn3213)» 
 
 
 
@@ -2042,7 +2060,7 @@ Beskut onder U beskerming, o U Gees van suiwerheid, U die Algoeie Versorger, hie
 (Bahaiprayers.net ID: 3214)
 
 
-
+«[Afrikaans](../af/#bpn3214)» 
 
 
 
@@ -2074,7 +2092,7 @@ U is, in alle waarheid, die Genadige, die Verheerlikte, die Magtige, die Alvermo
 (Bahaiprayers.net ID: 3215)
 
 
-
+«[Afrikaans](../af/#bpn3215)» 
 
 
 
@@ -2086,7 +2104,7 @@ O my Here, my Beminde, my Begeerte! Betoon vriendskap aan my in my eensaamheid e
 (Bahaiprayers.net ID: 3216)
 
 
-
+«[Afrikaans](../af/#bpn3216)» 
 
 
 
@@ -2108,7 +2126,7 @@ O God! Skenk ons U voorsienigheid. U is die Sterke. U is die Gewer. U is die Lie
 (Bahaiprayers.net ID: 3162)
 
 
-
+«[Afrikaans](../af/#bpn3162)» 
 
 
 
@@ -2124,7 +2142,7 @@ U is magtig. U is kragtig. U is die Skenker, en U is die Altoos-Milddadige.
 (Bahaiprayers.net ID: 3163)
 
 
-
+«[Afrikaans](../af/#bpn3163)» 
 
 
 
@@ -2138,7 +2156,7 @@ Voorwaar, U is die Vrygewige. Voorwaar, U is die Genadige. Voorwaar, U is die Ko
 (Bahaiprayers.net ID: 3164)
 
 
-
+«[Afrikaans](../af/#bpn3164)» 
 
 
 
@@ -2158,7 +2176,7 @@ U is die Magtige, die Alvermoënde, die Genadige, en U is die Vrygewige, die Lie
 (Bahaiprayers.net ID: 3165)
 
 
-
+«[Afrikaans](../af/#bpn3165)» 
 
 
 
@@ -2178,7 +2196,7 @@ Daar is niemand, o my Here, wat milddadig met my kan handel aan wie ek my gelaat
 (Bahaiprayers.net ID: 3148)
 
 
-
+«[Afrikaans](../af/#bpn3148)» 
 
 
 
@@ -2192,7 +2210,7 @@ Ek is, o my God, U dienaar en die seun van U dienaar. Ek het U waarheid in U dae
 (Bahaiprayers.net ID: 3149)
 
 
-
+«[Afrikaans](../af/#bpn3149)» 
 
 
 
@@ -2204,7 +2222,7 @@ U sien my, O my Here, met my aangesig na die hemel van U mildheid en na die osea
 (Bahaiprayers.net ID: 3150)
 
 
-
+«[Afrikaans](../af/#bpn3150)» 
 
 
 
@@ -2220,7 +2238,7 @@ Vergewe, dan o my Here, U diensknegte en U diensmaagde. U is werklik die Altyd-V
 (Bahaiprayers.net ID: 3151)
 
 
-
+«[Afrikaans](../af/#bpn3151)» 
 
 
 
@@ -2232,7 +2250,7 @@ O U vergewende Here! U is die skuilplek van al hierdie U diensknegte. U ken die 
 (Bahaiprayers.net ID: 3152)
 
 
-
+«[Afrikaans](../af/#bpn3152)» 
 
 
 
@@ -2252,7 +2270,7 @@ Verheerlik, oneindig verheerlik sy U! U word in U waarheid aanbid, en U, voorwaa
 (Bahaiprayers.net ID: 3142)
 
 
-
+«[Afrikaans](../af/#bpn3142)» 
 
 
 
@@ -2284,7 +2302,7 @@ Daar is geen ander God behalwe U nie, die Een, dier Enige, die Magtige, die Alwe
 (Bahaiprayers.net ID: 3143)
 
 
-
+«[Afrikaans](../af/#bpn3143)» 
 
 
 
@@ -2300,7 +2318,7 @@ O my Here! Reinig hulle van oortredinge, verdryf hulle verdriet en verander hull
 (Bahaiprayers.net ID: 3144)
 
 
-
+«[Afrikaans](../af/#bpn3144)» 
 
 
 

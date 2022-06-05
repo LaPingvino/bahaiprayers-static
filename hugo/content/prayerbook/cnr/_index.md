@@ -38,7 +38,7 @@ O Bože,vodi me, zaštiti me, načini od mene sjajnu svjetiljku i blistavu zv
 (Bahaiprayers.net ID: 5341)
 
 
-
+«[Montenegrin](../cnr/#bpn5341)» 
 
 
 
@@ -50,7 +50,7 @@ O Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na T
 (Bahaiprayers.net ID: 5342)
 
 
-
+«[Montenegrin](../cnr/#bpn5342)» 
 
 
 
@@ -67,7 +67,7 @@ Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
 (Bahaiprayers.net ID: 5331)
 
 
-
+«[Montenegrin](../cnr/#bpn5331)» 
 
 
 
@@ -79,7 +79,7 @@ Stvori u meni čisto srce, o moj Bože, i mirnu savjest obnovi u meni, o Nado 
 (Bahaiprayers.net ID: 5332)
 
 
-
+«[Montenegrin](../cnr/#bpn5332)» 
 
 
 
@@ -92,7 +92,7 @@ O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se
 (Bahaiprayers.net ID: 5333)
 
 
-
+«[Montenegrin](../cnr/#bpn5333)» 
 
 
 
@@ -108,7 +108,7 @@ Tvoje ime je moje iscjeljenje, o Bože moj, pomen na Tebe moj je lijek. Tvoja b
 (Bahaiprayers.net ID: 5337)
 
 
-
+«[Montenegrin](../cnr/#bpn5337)» 
 
 
 
@@ -121,7 +121,7 @@ Ti vidiš, O moj Gospode, molioca koji čeka pred vratima Tvoje darežljivost
 (Bahaiprayers.net ID: 5338)
 
 
-
+«[Montenegrin](../cnr/#bpn5338)» 
 
 
 
@@ -137,7 +137,7 @@ O Bože moj! O Bože moj! Ujedini srca Svojih slugu, i otkrij im Svoju veliku 
 (Bahaiprayers.net ID: 5344)
 
 
-
+«[Montenegrin](../cnr/#bpn5344)» 
 
 
 
@@ -149,7 +149,7 @@ O Bože! Mi smo slabi; daj nam snage.Siromašni smo; podari nam Svoje neizmjer
 (Bahaiprayers.net ID: 5345)
 
 
-
+«[Montenegrin](../cnr/#bpn5345)» 
 
 
 
@@ -165,7 +165,7 @@ Probudio sam se u Tvom okrilju, O moj Bože, a priliči onome koji za tim utoc
 (Bahaiprayers.net ID: 5339)
 
 
-
+«[Montenegrin](../cnr/#bpn5339)» 
 
 
 
@@ -183,7 +183,7 @@ Nema drugog Boga osim Tebe, Svemogućeg, Onog Koji sve pokorava, Neuslovljenog.
 (Bahaiprayers.net ID: 5340)
 
 
-
+«[Montenegrin](../cnr/#bpn5340)» 
 
 
 
@@ -199,7 +199,7 @@ O moj Bože! Molim Te da mi, po Svom Preslavnom Imenu, pomogneš u onome što
 (Bahaiprayers.net ID: 5334)
 
 
-
+«[Montenegrin](../cnr/#bpn5334)» 
 
 
 
@@ -215,7 +215,7 @@ Ti si Svemogući, Onaj koji ljubi i brine se za čitavo čovječanstvo.
 (Bahaiprayers.net ID: 5335)
 
 
-
+«[Montenegrin](../cnr/#bpn5335)» 
 
 
 
@@ -229,7 +229,7 @@ Ti si, zaista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
 (Bahaiprayers.net ID: 5336)
 
 
-
+«[Montenegrin](../cnr/#bpn5336)» 
 
 
 
@@ -246,7 +246,7 @@ Ozari svijetlom, O Gospode, lica svojih slugu, da Te mogu gledati; i srca im pro
 (Bahaiprayers.net ID: 5330)
 
 
-
+«[Montenegrin](../cnr/#bpn5330)» 
 
 
 
@@ -266,7 +266,7 @@ Moćan si Ti da činiš kako Ti volja. Nema drugog Boga osim Tebe, Pomagača
 (Bahaiprayers.net ID: 5348)
 
 
-
+«[Montenegrin](../cnr/#bpn5348)» 
 
 
 
@@ -278,7 +278,7 @@ Ima li drugog Uklonitelja teškoća osim Boga?Recite: Neka je hvaljen Bog! On 
 (Bahaiprayers.net ID: 5346)
 
 
-
+«[Montenegrin](../cnr/#bpn5346)» 
 
 
 
@@ -290,7 +290,7 @@ Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u vremenima is
 (Bahaiprayers.net ID: 5347)
 
 
-
+«[Montenegrin](../cnr/#bpn5347)» 
 
 
 
@@ -308,7 +308,7 @@ O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, a njihovu tamu p
 (Bahaiprayers.net ID: 5343)
 
 
-
+«[Montenegrin](../cnr/#bpn5343)» 
 
 
 

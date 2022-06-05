@@ -93,7 +93,7 @@ Tu sei, in verità, il Signore e il Re di tutti gli uomini, potente sopra tutte 
 (Bahaiprayers.net ID: 7784)
 
 
-
+«[Italiano](../it/#bpn7784)» 
 
 
 
@@ -110,7 +110,7 @@ O Dio! mio Dio! Noi siamo quei Tuoi servi che devotamente si sono volti verso il
 (Bahaiprayers.net ID: 7785)
 
 
-
+«[Italiano](../it/#bpn7785)» 
 
 
 
@@ -125,7 +125,7 @@ O nostro Provvidente! Invia il Tuo soccorso, sì che ciascuno di coloro che sono
 (Bahaiprayers.net ID: 7786)
 
 
-
+«[Italiano](../it/#bpn7786)» 
 
 
 
@@ -142,7 +142,7 @@ In verità, Tu sei il Generoso, il Misericordioso. Tu sei il Possessore di grand
 (Bahaiprayers.net ID: 7787)
 
 
-
+«[Italiano](../it/#bpn7787)» 
 
 
 
@@ -159,7 +159,7 @@ O Provvido Iddio! L’intera esistenza è generata dalla Tua grazia; non privarl
 (Bahaiprayers.net ID: 7788)
 
 
-
+«[Italiano](../it/#bpn7788)» 
 
 
 
@@ -172,7 +172,7 @@ Tu sei, in verità, il Re di tutti gli uomini. Non v’è altro Dio che Te, Colu
 (Bahaiprayers.net ID: 7789)
 
 
-
+«[Italiano](../it/#bpn7789)» 
 
 
 
@@ -184,7 +184,7 @@ Vedi o mio Signore, la mia dimora nelle viscere di questo monte e sei testimone 
 (Bahaiprayers.net ID: 7790)
 
 
-
+«[Italiano](../it/#bpn7790)» 
 
 
 
@@ -199,7 +199,7 @@ Dì: In verità Iddio è l’Artefice di tutte le cose. A chiunque voglia Egli d
 (Bahaiprayers.net ID: 7791)
 
 
-
+«[Italiano](../it/#bpn7791)» 
 
 
 
@@ -214,7 +214,7 @@ Concedi, o Signore, che i loro cuori, per la fedeltà a questa Tua Fede inviolab
 (Bahaiprayers.net ID: 7792)
 
 
-
+«[Italiano](../it/#bpn7792)» 
 
 
 
@@ -230,7 +230,11 @@ Tua è l’assoluta potestà del comandare.
 (Bahaiprayers.net ID: 7793)
 
 
+«[Italiano](../it/#BB00522)» 
 
+«[Español](../es/#BB00522)» 
+
+«[English](../en/#BB00522)» 
 
 
 
@@ -251,7 +255,7 @@ O Santo Signore! O amorevole Signore! Vaghiamo attorno alla Tua dimora, bramosi 
 (Bahaiprayers.net ID: 7794)
 
 
-
+«[Italiano](../it/#bpn7794)» 
 
 
 
@@ -264,7 +268,7 @@ O Tu Che provvedi, o Tu Che perdoni! Concedici la Tua grazia e il Tuo tenero amo
 (Bahaiprayers.net ID: 7795)
 
 
-
+«[Italiano](../it/#bpn7795)» 
 
 
 
@@ -279,7 +283,7 @@ Dacci il nostro pane quotidiano e largisci i Tuoi beneficî a seconda delle nece
 (Bahaiprayers.net ID: 7796)
 
 
-
+«[Italiano](../it/#bpn7796)» 
 
 
 
@@ -293,7 +297,7 @@ Tu sei, in verità, l’Unico, il Solo, il Possente, il Sapiente, il Saggio.
 (Bahaiprayers.net ID: 7797)
 
 
-
+«[Italiano](../it/#bpn7797)» 
 
 
 
@@ -309,7 +313,7 @@ In verità, Tu aiuti chi vuoi e, in verità, sei l’Onnipossente, il Più Forte
 (Bahaiprayers.net ID: 11765)
 
 
-
+«[Italiano](../it/#bpn11765)» 
 
 
 
@@ -326,7 +330,7 @@ T’imploro, dunque, per il Tuo nome per il quale manifestasti la Tua Divinità 
 (Bahaiprayers.net ID: 7798)
 
 
-
+«[Italiano](../it/#bpn7798)» 
 
 
 
@@ -339,7 +343,7 @@ Non v’è altro Dio che Te, l’Eccelso, l’Au-gusto, il Soggiogatore, il Poss
 (Bahaiprayers.net ID: 7799)
 
 
-
+«[Italiano](../it/#bpn7799)» 
 
 
 
@@ -351,7 +355,7 @@ O Dio, guidami, proteggimi, fà di me una lampada luminosa e una stella fulgente
 (Bahaiprayers.net ID: 7800)
 
 
-
+«[Italiano](../it/#bpn7800)» 
 
 
 
@@ -364,7 +368,7 @@ O Tu, Dio Che sei Sufficiente a Te Stesso! Fa’ di me un intimo del Regno dell�
 (Bahaiprayers.net ID: 7801)
 
 
-
+«[Italiano](../it/#bpn7801)» 
 
 
 
@@ -378,7 +382,7 @@ In verità Tu sei il Possente, il Forte, Colui Che Vede e Ode.
 (Bahaiprayers.net ID: 7802)
 
 
-
+«[Italiano](../it/#bpn7802)» 
 
 
 
@@ -391,7 +395,7 @@ Tu sei il Donatore, Tu sei il Compassionevole.
 (Bahaiprayers.net ID: 7803)
 
 
-
+«[Italiano](../it/#bpn7803)» 
 
 
 
@@ -405,7 +409,9 @@ Tu sei potente e benigno. Tu sei l’Elargitore, il Generoso, il Signore di inso
 (Bahaiprayers.net ID: 7804)
 
 
+«[Italiano](../it/#AB04004BAB)» 
 
+«[Esperanto](../eo/#AB04004BAB)» 
 
 
 
@@ -420,7 +426,7 @@ Cogliete l’opportunità di questi giorni e apprezzate il pregio di questo seco
 (Bahaiprayers.net ID: 7806)
 
 
-
+«[Italiano](../it/#bpn7806)» 
 
 
 
@@ -434,7 +440,7 @@ Tu sei il Donatore, l’Elargitore e il Gentile.
 (Bahaiprayers.net ID: 7807)
 
 
-
+«[Italiano](../it/#bpn7807)» 
 
 
 
@@ -448,7 +454,7 @@ Tu sei il Forte e il Potente.
 (Bahaiprayers.net ID: 7805)
 
 
-
+«[Italiano](../it/#bpn7805)» 
 
 
 
@@ -467,7 +473,7 @@ In verità, Tu sei il Potente, il Sommo, l’Onnipotente, e Tu sei il Savio, Col
 (Bahaiprayers.net ID: 7836)
 
 
-
+«[Italiano](../it/#bpn7836)» 
 
 
 
@@ -485,7 +491,7 @@ In verità, Tu sei il Potente, il Forte, il Saggio, il Veggente.
 (Bahaiprayers.net ID: 7837)
 
 
-
+«[Italiano](../it/#bpn7837)» 
 
 
 
@@ -501,7 +507,7 @@ Tu sei l’Onnipotente, Colui Che fa tutto ciò che vuole!
 (Bahaiprayers.net ID: 7838)
 
 
-
+«[Italiano](../it/#bpn7838)» 
 
 
 
@@ -518,7 +524,7 @@ O Signore! Sono debole, rafforzami col Tuo potere e la Tua forza. La mia lingua 
 (Bahaiprayers.net ID: 7839)
 
 
-
+«[Italiano](../it/#bpn7839)» 
 
 
 
@@ -534,7 +540,7 @@ O Signore! Sono umile e solo. Per me non v’è altro sostegno che Te, altro aiu
 (Bahaiprayers.net ID: 7840)
 
 
-
+«[Italiano](../it/#bpn7840)» 
 
 
 
@@ -549,7 +555,7 @@ In verità, Tu sei l’Onnipotente, l’Eccelso, Colui Che Sempre Perdona, il Mi
 (Bahaiprayers.net ID: 7841)
 
 
-
+«[Italiano](../it/#bpn7841)» 
 
 
 
@@ -567,7 +573,7 @@ In verità, Tu sei il Forte, il Possente, l’Onnipotente.
 (Bahaiprayers.net ID: 7842)
 
 
-
+«[Italiano](../it/#bpn7842)» 
 
 
 
@@ -581,7 +587,7 @@ In verità Tu sei Colui Che dà, Che perdona, Che sempre dona. In verità Tu sei
 (Bahaiprayers.net ID: 7843)
 
 
-
+«[Italiano](../it/#bpn7843)» 
 
 
 
@@ -629,7 +635,7 @@ In verità, noi tutti siamo pazienti in Dio.
 (Bahaiprayers.net ID: 7808)
 
 
-
+«[Italiano](../it/#bpn7808)» 
 
 
 
@@ -643,7 +649,9 @@ Gloria, immensa gloria a Te! Tu sei adorato per la Tua verità e noi tutti, inve
 (Bahaiprayers.net ID: 7809)
 
 
+«[Italiano](../it/#BH08308)» 
 
+«[English](../en/#BH08308)» 
 
 
 
@@ -664,7 +672,11 @@ Non v’è altro Dio che Te, l’Unico, il Singolo, il Potente, l’Onnisciente,
 (Bahaiprayers.net ID: 7810)
 
 
+«[Français](../fr/#BH03109KIN)» 
 
+«[Italiano](../it/#BH03109KIN)» 
+
+«[English](../en/#BH03109KIN)» 
 
 
 
@@ -677,7 +689,7 @@ O mio Signore! Purificali dalle loro colpe, lenisci i loro dolori e tramuta in l
 (Bahaiprayers.net ID: 7811)
 
 
-
+«[Italiano](../it/#bpn7811)» 
 
 
 
@@ -691,7 +703,7 @@ Tu sei invero il Generoso, il Possente, il Perdonatore, il Donatore.
 (Bahaiprayers.net ID: 7812)
 
 
-
+«[Italiano](../it/#bpn7812)» 
 
 
 
@@ -724,7 +736,15 @@ T’imploro, o mio Signore, per Te Stesso, e per i Tuoi segni, e per i Tuoi chia
 (Bahaiprayers.net ID: 7931)
 
 
+«[Français](../fr/#BH01125)» 
 
+«[Italiano](../it/#BH01125)» 
+
+«[Nederlands](../nl/#BH01125)» 
+
+«[Español](../es/#BH01125)» 
+
+«[English](../en/#BH01125)» 
 
 
 
@@ -739,7 +759,7 @@ Non v’è altro Dio che Te, l’Onnisciente, il Sapientissimo. Ogni lode a Dio,
 (Bahaiprayers.net ID: 7932)
 
 
-
+«[Italiano](../it/#bpn7932)» 
 
 
 
@@ -759,7 +779,7 @@ Rendi vittoriosa la Tua Causa, o mio Signore, e confondi i Tuoi nemici. Decreta,
 (Bahaiprayers.net ID: 7933)
 
 
-
+«[Italiano](../it/#bpn7933)» 
 
 
 
@@ -783,7 +803,7 @@ Lodato Tu sia, o mio Dio, poiché ci hai aiutati a riconoscerLo e ad amarLo. Per
 (Bahaiprayers.net ID: 7934)
 
 
-
+«[Italiano](../it/#bpn7934)» 
 
 
 
@@ -801,7 +821,7 @@ Glorificato sia il Tuo nome, o Tu Che sei il Re di tutti i re!
 (Bahaiprayers.net ID: 7813)
 
 
-
+«[Italiano](../it/#bpn7813)» 
 
 
 
@@ -815,7 +835,7 @@ Tu sei, in verità, il Signore di tutta l’umanità e il Possessore di questo m
 (Bahaiprayers.net ID: 7814)
 
 
-
+«[Italiano](../it/#bpn7814)» 
 
 
 
@@ -829,7 +849,7 @@ In verità, Tu sei il Signore dei mondi e il Dio di tutti coloro che sono in cie
 (Bahaiprayers.net ID: 7815)
 
 
-
+«[Italiano](../it/#bpn7815)» 
 
 
 
@@ -844,7 +864,7 @@ In verità, tutto può il Tuo potere.
 (Bahaiprayers.net ID: 7816)
 
 
-
+«[Italiano](../it/#bpn7816)» 
 
 
 
@@ -859,7 +879,11 @@ Hai il potere di fare quello che Ti aggrada, Tu Che sei, in verità, il Potentis
 (Bahaiprayers.net ID: 7817)
 
 
+«[Italiano](../it/#BH05894)» 
 
+«[Nederlands](../nl/#BH05894)» 
+
+«[English](../en/#BH05894)» 
 
 
 
@@ -875,7 +899,7 @@ Non v’è altro Dio all’infuori di Te, l’Onnipo-tente, il Benefico.
 (Bahaiprayers.net ID: 7818)
 
 
-
+«[Italiano](../it/#bpn7818)» 
 
 
 
@@ -887,7 +911,7 @@ O mio Dio, mio Signore e Padrone! Mi sono distaccato dai miei congiunti e col Tu
 (Bahaiprayers.net ID: 7819)
 
 
-
+«[Italiano](../it/#bpn7819)» 
 
 
 
@@ -902,7 +926,7 @@ Tu sei, in verità, l’Onnipotente, il Gloriosissimo, il Potentissimo.
 (Bahaiprayers.net ID: 7820)
 
 
-
+«[Italiano](../it/#bpn7820)» 
 
 
 
@@ -921,7 +945,7 @@ Non v’è altro Dio all’infuori di Te, l’Onnipo-tente, il Saggio.
 (Bahaiprayers.net ID: 7821)
 
 
-
+«[Italiano](../it/#bpn7821)» 
 
 
 
@@ -936,7 +960,7 @@ Decreta per me con la Tua generosità, o Signore, ciò che mi gioverà in questo
 (Bahaiprayers.net ID: 7822)
 
 
-
+«[Italiano](../it/#bpn7822)» 
 
 
 
@@ -952,7 +976,7 @@ Decreta per me con la Tua generosità, o Signore, ciò che mi gioverà in questo
 (Bahaiprayers.net ID: 7823)
 
 
-
+«[Italiano](../it/#bpn7823)» 
 
 
 
@@ -965,7 +989,7 @@ O mio Dio! Tu hai ispirato la mia anima a innalzarTi la sua supplica e, se non f
 (Bahaiprayers.net ID: 7824)
 
 
-
+«[Italiano](../it/#bpn7824)» 
 
 
 
@@ -982,7 +1006,7 @@ O mio Signore! A Te consacro ciò che porto in grembo. Fa’ dunque che questa c
 (Bahaiprayers.net ID: 7825)
 
 
-
+«[Italiano](../it/#bpn7825)» 
 
 
 
@@ -1000,7 +1024,7 @@ Dacché, o mio Signore, li guidasti alle acque vive della Tua grazia, concedi, c
 (Bahaiprayers.net ID: 7826)
 
 
-
+«[Italiano](../it/#bpn7826)» 
 
 
 
@@ -1022,7 +1046,7 @@ In verità, Tu sei l’Onnipotente, il Sapientissimo, Colui Che Tutto Conosce.
 (Bahaiprayers.net ID: 7930)
 
 
-
+«[Italiano](../it/#bpn7930)» 
 
 
 
@@ -1040,7 +1064,7 @@ Il potere Tu hai di fare quel che Ti piace. Non v’è altro Dio che Te, il Semp
 (Bahaiprayers.net ID: 7827)
 
 
-
+«[Italiano](../it/#bpn7827)» 
 
 
 
@@ -1052,7 +1076,7 @@ Il Tuo nome è la mia cura, o mio Dio, e il ricordarTi è il mio rimedio. La Tua
 (Bahaiprayers.net ID: 7828)
 
 
-
+«[Italiano](../it/#bpn7828)» 
 
 
 
@@ -1066,7 +1090,7 @@ Io non sono che una povera creatura, o mio Signore: mi sono afferrato al manto d
 (Bahaiprayers.net ID: 7829)
 
 
-
+«[Italiano](../it/#bpn7829)» 
 
 
 
@@ -1079,7 +1103,7 @@ Tu sei, in verità, il Guaritore, il Protettore, il Soccorritore, l’Onnipotent
 (Bahaiprayers.net ID: 7830)
 
 
-
+«[Italiano](../it/#bpn7830)» 
 
 
 
@@ -1094,7 +1118,7 @@ Tu sei, in verità, immensamente esaltato al di sopra di ogni altro eccetto Te S
 (Bahaiprayers.net ID: 7831)
 
 
-
+«[Italiano](../it/#bpn7831)» 
 
 
 
@@ -1113,7 +1137,7 @@ Io T’imploro, o Tu Re dell’esistenza e Protettore del visibile e dell’invi
 (Bahaiprayers.net ID: 7832)
 
 
-
+«[Italiano](../it/#bpn7832)» 
 
 
 
@@ -1129,7 +1153,7 @@ Tu sei, in verità, il Dio della forza e della potenza, pronto a rispondere a co
 (Bahaiprayers.net ID: 7833)
 
 
-
+«[Italiano](../it/#bpn7833)» 
 
 
 
@@ -1149,7 +1173,7 @@ In verità, sei Colui Che Sempre Perdona, il Misericordiosissimo.
 (Bahaiprayers.net ID: 7834)
 
 
-
+«[Italiano](../it/#bpn7834)» 
 
 
 
@@ -1163,7 +1187,7 @@ Benedici, o mio Dio, me e coloro che crederanno nei Tuoi segni il Giorno stabili
 (Bahaiprayers.net ID: 7835)
 
 
-
+«[Italiano](../it/#bpn7835)» 
 
 
 
@@ -1181,7 +1205,7 @@ Tu sei il Dio del potere, della gloria e della munificenza. Non v’è altro Dio
 (Bahaiprayers.net ID: 7844)
 
 
-
+«[Italiano](../it/#bpn7844)» 
 
 
 
@@ -1194,7 +1218,7 @@ Illumina, o Signore, i volti dei Tuoi servi, affinché essi possano mirarTi; pur
 (Bahaiprayers.net ID: 7845)
 
 
-
+«[Italiano](../it/#bpn7845)» 
 
 
 
@@ -1207,7 +1231,7 @@ Tu sei l’Onnipotente, l’Eccelso, il Gloriosissimo, l’Amorosissimo!
 (Bahaiprayers.net ID: 7846)
 
 
-
+«[Italiano](../it/#bpn7846)» 
 
 
 
@@ -1222,7 +1246,7 @@ Ogni lode e ogni gloria a Te, o Tu del Quale tutte le cose hanno attestato che s
 (Bahaiprayers.net ID: 7847)
 
 
-
+«[Italiano](../it/#bpn7847)» 
 
 
 
@@ -1244,7 +1268,7 @@ Disponi per noi dunque tutto ciò che è presso Te e perdonaci per ciò che siam
 (Bahaiprayers.net ID: 7848)
 
 
-
+«[Italiano](../it/#bpn7848)» 
 
 
 
@@ -1256,7 +1280,7 @@ Glorificato sei Tu, o Signore mio Dio! In verità Tu sei il Re dei re: a chi vuo
 (Bahaiprayers.net ID: 7849)
 
 
-
+«[Italiano](../it/#bpn7849)» 
 
 
 
@@ -1272,7 +1296,7 @@ Luce e gloria, salute e lode alle Mani della Sua Causa, per le quali la luce del
 (Bahaiprayers.net ID: 7850)
 
 
-
+«[Italiano](../it/#bpn7850)» 
 
 
 
@@ -1286,7 +1310,7 @@ Fa’ scendere, pertanto mio Signore, su di me e su coloro che mi amano ciò che
 (Bahaiprayers.net ID: 7851)
 
 
-
+«[Italiano](../it/#bpn7851)» 
 
 
 
@@ -1298,7 +1322,7 @@ Salute e lode, benedizione e gloria... alle Mani della Causa di Dio che hanno la
 (Bahaiprayers.net ID: 7852)
 
 
-
+«[Italiano](../it/#bpn7852)» 
 
 
 
@@ -1320,7 +1344,7 @@ Tu sei in verità il Munifico, il Possente, l’Onnipotente, l’Indipendente. N
 (Bahaiprayers.net ID: 7854)
 
 
-
+«[Italiano](../it/#bpn7854)» 
 
 
 
@@ -1346,7 +1370,7 @@ E quando ha desiderato manifestare grazia e benevolenza agli uomini e riordinare
 (Bahaiprayers.net ID: 7855)
 
 
-
+«[Italiano](../it/#bpn7855)» 
 
 
 
@@ -1360,7 +1384,7 @@ O Tu Signore Benevolo! Fa’ che questo matrimonio produca corallo e perle. Tu s
 (Bahaiprayers.net ID: 7856)
 
 
-
+«[Italiano](../it/#bpn7856)» 
 
 
 
@@ -1372,7 +1396,7 @@ Gloria sia a Te, o mio Dio! In verità questo Tuo servo e questa Tua ancella si 
 (Bahaiprayers.net ID: 7857)
 
 
-
+«[Italiano](../it/#bpn7857)» 
 
 
 
@@ -1388,7 +1412,7 @@ Mi sono svegliato sotto l’ègida Tua, o mio Dio, e s’addice a colui che la c
 (Bahaiprayers.net ID: 7858)
 
 
-
+«[Italiano](../it/#bpn7858)» 
 
 
 
@@ -1401,7 +1425,7 @@ Non v’è altro Dio che Te, l’Unico, l’Incom-parabile, il Sapientissimo, l�
 (Bahaiprayers.net ID: 7859)
 
 
-
+«[Italiano](../it/#bpn7859)» 
 
 
 
@@ -1417,7 +1441,7 @@ Tu non deludi chi T’ha cercato, né tieni lontano da Te chi T’ha desiderato.
 (Bahaiprayers.net ID: 7860)
 
 
-
+«[Italiano](../it/#bpn7860)» 
 
 
 
@@ -1432,7 +1456,7 @@ In verità, Tu sei il prezioso, l’Eterno Elargitore, Colui che dispensa con la
 (Bahaiprayers.net ID: 7853)
 
 
-
+«[Italiano](../it/#bpn7853)» 
 
 
 
@@ -1454,7 +1478,7 @@ In verità, Tu sei il Sapientissimo, il Saggio.
 (Bahaiprayers.net ID: 7935)
 
 
-
+«[Italiano](../it/#bpn7935)» 
 
 
 
@@ -1472,7 +1496,7 @@ Non v’è alcuno, o mio Signore, che possa trattarmi generosamente, a cui io po
 (Bahaiprayers.net ID: 7864)
 
 
-
+«[Italiano](../it/#bpn7864)» 
 
 
 
@@ -1485,7 +1509,7 @@ O mio Dio, sono Tuo servo e figlio del Tuo servo. Ho riconosciuto la Tua verità
 (Bahaiprayers.net ID: 7865)
 
 
-
+«[Italiano](../it/#bpn7865)» 
 
 
 
@@ -1497,7 +1521,7 @@ Tu mi vedi, o mio Signore, con il viso rivolto al cielo della Tua generosità e 
 (Bahaiprayers.net ID: 7866)
 
 
-
+«[Italiano](../it/#bpn7866)» 
 
 
 
@@ -1511,7 +1535,7 @@ Perdona, dunque, o mio Signore, i Tuoi servi e le Tue ancelle. Tu, sei invero, C
 (Bahaiprayers.net ID: 7867)
 
 
-
+«[Italiano](../it/#bpn7867)» 
 
 
 
@@ -1530,7 +1554,7 @@ In verità, Tu sei il Potente, il Munifico. Non v’è altro Dio all’infuori d
 (Bahaiprayers.net ID: 7868)
 
 
-
+«[Italiano](../it/#bpn7868)» 
 
 
 
@@ -1542,7 +1566,7 @@ Ti supplico di perdonarmi, o mio Signore, per aver menzionato altri che Te, e lo
 (Bahaiprayers.net ID: 7869)
 
 
-
+«[Italiano](../it/#bpn7869)» 
 
 
 
@@ -1554,7 +1578,7 @@ O Tu indulgente Signore! Sei il rifugio di tutti questi Tuoi servi, Tu Che conos
 (Bahaiprayers.net ID: 7870)
 
 
-
+«[Italiano](../it/#bpn7870)» 
 
 
 
@@ -1581,7 +1605,7 @@ Da una lettera scritta a nome di Shoghi Effendi
 (Bahaiprayers.net ID: 7861)
 
 
-
+«[Italiano](../it/#bpn7861)» 
 
 
 
@@ -1656,7 +1680,7 @@ Io attesto, o mio Dio, ciò che i Tuoi Eletti hanno attestato e riconosco ciò c
 (Bahaiprayers.net ID: 7863)
 
 
-
+«[Italiano](../it/#bpn7863)» 
 
 
 
@@ -1701,7 +1725,7 @@ Dio all’infuori di Te. Tu hai, in verità, rivelato la Tua Causa, adempiuto il
 (Bahaiprayers.net ID: 7862)
 
 
-
+«[Italiano](../it/#bpn7862)» 
 
 
 
@@ -1718,7 +1742,7 @@ Preservalo inoltre, o mio Dio, con il potere della Tua incommensurabile maestà,
 (Bahaiprayers.net ID: 7871)
 
 
-
+«[Italiano](../it/#bpn7871)» 
 
 
 
@@ -1734,7 +1758,7 @@ Fa’ scendere, perciò, o mio Dio, su me e sui miei beneamati, ciò che ci prot
 (Bahaiprayers.net ID: 7872)
 
 
-
+«[Italiano](../it/#bpn7872)» 
 
 
 
@@ -1746,7 +1770,7 @@ O Dio, mio Dio! Ho lasciato la mia casa, tenendomi forte alla corda del Tuo amor
 (Bahaiprayers.net ID: 7873)
 
 
-
+«[Italiano](../it/#bpn7873)» 
 
 
 
@@ -1760,7 +1784,13 @@ Tu sei, in verità, l’Onnipotente, l’Eccelso, Colui Che Sempre Perdona, il G
 (Bahaiprayers.net ID: 7874)
 
 
+«[Italiano](../it/#BH10578)» 
 
+«[Español](../es/#BH10578)» 
+
+«[Esperanto](../eo/#BH10578)» 
+
+«[English](../en/#BH10578)» 
 
 
 
@@ -1774,7 +1804,7 @@ Il potere Tu hai di fare quello che vuoi e di decretare quel che Ti piace. Essi 
 (Bahaiprayers.net ID: 7875)
 
 
-
+«[Italiano](../it/#bpn7875)» 
 
 
 
@@ -1786,7 +1816,7 @@ O Dio, mio Dio! Sii scudo ai Tuoi servi fedeli contro i mali dell’egoismo e de
 (Bahaiprayers.net ID: 7876)
 
 
-
+«[Italiano](../it/#bpn7876)» 
 
 
 
@@ -1800,7 +1830,7 @@ In verità, Tu sei il Protettore, il Custode, il Salvatore, Colui Che Provvede e
 (Bahaiprayers.net ID: 7877)
 
 
-
+«[Italiano](../it/#bpn7877)» 
 
 
 
@@ -1818,7 +1848,7 @@ T’imploro infine, per la luce del Tuo sembiante, di benedire tutte le mie cose
 (Bahaiprayers.net ID: 7878)
 
 
-
+«[Italiano](../it/#bpn7878)» 
 
 
 
@@ -1832,7 +1862,7 @@ Fa’, dunque, che mi volga interamente a Te, che riponga tutta la mia fiducia i
 (Bahaiprayers.net ID: 7879)
 
 
-
+«[Italiano](../it/#bpn7879)» 
 
 
 
@@ -1844,7 +1874,7 @@ O Tu, le Cui prove sono un farmaco risanatore per coloro che Ti sono vicini, la 
 (Bahaiprayers.net ID: 7880)
 
 
-
+«[Italiano](../it/#bpn7880)» 
 
 
 
@@ -1859,7 +1889,7 @@ Capace sei Tu di fare ciò che T’aggrada. Non v’è altro Dio che Te, il Socc
 (Bahaiprayers.net ID: 7881)
 
 
-
+«[Italiano](../it/#bpn7881)» 
 
 
 
@@ -1873,7 +1903,7 @@ T’imploro, o mio Dio, per loro e per i sospiri che i loro cuori emettono nel s
 (Bahaiprayers.net ID: 7882)
 
 
-
+«[Italiano](../it/#bpn7882)» 
 
 
 
@@ -1890,7 +1920,7 @@ Lode a Te, perché in verità sei il Signore della terra e del cielo.
 (Bahaiprayers.net ID: 7883)
 
 
-
+«[Italiano](../it/#bpn7883)» 
 
 
 
@@ -1902,7 +1932,7 @@ Chi può rimuovere le difficoltà eccetto Dio? Dite: Lodato sia Iddio! Egli è D
 (Bahaiprayers.net ID: 7884)
 
 
-
+«[Italiano](../it/#bpn7884)» 
 
 
 
@@ -1914,7 +1944,7 @@ Ti scongiuro per la Tua possanza, o mio Dio! Fa’ che nessun male mi colga nel 
 (Bahaiprayers.net ID: 7886)
 
 
-
+«[Italiano](../it/#bpn7886)» 
 
 
 
@@ -1926,7 +1956,7 @@ Dite: Dio provvede ad ogni cosa al di là di ogni cosa, e nulla, nei cieli o sul
 (Bahaiprayers.net ID: 7885)
 
 
-
+«[Italiano](../it/#bpn7885)» 
 
 
 
@@ -1940,7 +1970,7 @@ Tieni al riparo della Tua protezione, o Tu Spirito di purezza, Tu Munifico Provv
 (Bahaiprayers.net ID: 7887)
 
 
-
+«[Italiano](../it/#bpn7887)» 
 
 
 
@@ -1961,7 +1991,7 @@ Tu sei, in verità, il Benigno, il Glorificato, il Forte, l’Onnipotente.
 (Bahaiprayers.net ID: 7888)
 
 
-
+«[Italiano](../it/#bpn7888)» 
 
 
 
@@ -1973,7 +2003,11 @@ O mio Signore, mio Benamato, mio Desìo! Siimi Amico nella solitudine e Compagno
 (Bahaiprayers.net ID: 7889)
 
 
+«[Italiano](../it/#AB10769)» 
 
+«[Esperanto](../eo/#AB10769)» 
+
+«[English](../en/#AB10769)» 
 
 
 
@@ -1989,7 +2023,7 @@ Crea in me un cuore puro, o mio Dio, e rinnova entro di me una coscienza tranqui
 (Bahaiprayers.net ID: 7890)
 
 
-
+«[Italiano](../it/#bpn7890)» 
 
 
 
@@ -2002,7 +2036,7 @@ Il potere Tu hai di fare quel che Ti piace. Tu sei, in verità, il Magnifico, il
 (Bahaiprayers.net ID: 7891)
 
 
-
+«[Italiano](../it/#bpn7891)» 
 
 
 
@@ -2015,7 +2049,11 @@ Tu sei, in verità, il Possente, il Gloriosissimo, l’Onnipotente.
 (Bahaiprayers.net ID: 7892)
 
 
+«[Italiano](../it/#BH07426FOO)» 
 
+«[Esperanto](../eo/#BH07426FOO)» 
+
+«[English](../en/#BH07426FOO)» 
 
 
 
@@ -2028,7 +2066,7 @@ Permetti, T’imploro, che questo servo consegua ciò che sia per lui causa di s
 (Bahaiprayers.net ID: 7893)
 
 
-
+«[Italiano](../it/#bpn7893)» 
 
 
 
@@ -2043,7 +2081,7 @@ Signore! Non mi allontanare dall’oceano della Tua ricchezza e dal paradiso del
 (Bahaiprayers.net ID: 7894)
 
 
-
+«[Italiano](../it/#bpn7894)» 
 
 
 
@@ -2060,7 +2098,7 @@ Tu sei, in verità, l’Onnipotente, il Perdonatore, il Compassionevole.
 (Bahaiprayers.net ID: 7895)
 
 
-
+«[Italiano](../it/#bpn7895)» 
 
 
 
@@ -2074,7 +2112,7 @@ T’imploro per questo grande, mirabile splendore e per la gloria della Tua ecce
 (Bahaiprayers.net ID: 7896)
 
 
-
+«[Italiano](../it/#bpn7896)» 
 
 
 
@@ -2087,7 +2125,7 @@ O Dio! Tu mi sei più amico di quanto io non sia a me stesso. A Te mi consacro, 
 (Bahaiprayers.net ID: 7897)
 
 
-
+«[Italiano](../it/#bpn7897)» 
 
 
 
@@ -2102,7 +2140,7 @@ In verità, Tu sei il Misericordioso e, in verità, Tu sei il Generoso, il Cui a
 (Bahaiprayers.net ID: 7898)
 
 
-
+«[Italiano](../it/#bpn7898)» 
 
 
 
@@ -2114,7 +2152,7 @@ O mio Signore! O mio Signore! Questa è una lampada accesa col fuoco dell’amor
 (Bahaiprayers.net ID: 7899)
 
 
-
+«[Italiano](../it/#bpn7899)» 
 
 
 
@@ -2127,7 +2165,7 @@ In verità, Tu sei il Generosissimo, il Signore della grazia traboccante. Non v�
 (Bahaiprayers.net ID: 7900)
 
 
-
+«[Italiano](../it/#bpn7900)» 
 
 
 
@@ -2142,7 +2180,7 @@ O Signore, o mio Dio! Meschini sono questi Tuoi servi, esaltali nel Tuo eccelso 
 (Bahaiprayers.net ID: 7901)
 
 
-
+«[Italiano](../it/#bpn7901)» 
 
 
 
@@ -2157,7 +2195,7 @@ Tu sei il Possente, il Forte; Tu sei il Dio della forza, l’Onnipotente, l’On
 (Bahaiprayers.net ID: 7902)
 
 
-
+«[Italiano](../it/#bpn7902)» 
 
 
 
@@ -2172,7 +2210,7 @@ In verità, Tu sei il Possente, il Forte, il Protettore, il Benefico! In verità
 (Bahaiprayers.net ID: 7903)
 
 
-
+«[Italiano](../it/#bpn7903)» 
 
 
 
@@ -2189,7 +2227,7 @@ T’imploro, per il Tuo Essere e per Colui Che designasti quale Manifestazione d
 (Bahaiprayers.net ID: 7904)
 
 
-
+«[Italiano](../it/#bpn7904)» 
 
 
 
@@ -2203,7 +2241,7 @@ O Padre gentile! Accorda le Tue benedi-zioni. Non tenere conto delle nostre manc
 (Bahaiprayers.net ID: 7905)
 
 
-
+«[Italiano](../it/#bpn7905)» 
 
 
 
@@ -2217,7 +2255,7 @@ Tu sei possente; Tu sei forte; Tu sei il Donatore e il Sempre Munifico.
 (Bahaiprayers.net ID: 7906)
 
 
-
+«[Italiano](../it/#bpn7906)» 
 
 
 
@@ -2231,7 +2269,7 @@ In verità, Tu sei il Generoso. In verità, Tu sei il Misericordioso. In verità
 (Bahaiprayers.net ID: 7907)
 
 
-
+«[Italiano](../it/#bpn7907)» 
 
 
 
@@ -2247,7 +2285,7 @@ Tu sei il Potente, l’Onnipotente, il Misericordioso e sei il Generoso, il Bene
 (Bahaiprayers.net ID: 7908)
 
 
-
+«[Italiano](../it/#bpn7908)» 
 
 
 
@@ -2260,7 +2298,7 @@ In verità, Tu sei l’Onnipotente, il più Possente.
 (Bahaiprayers.net ID: 7909)
 
 
-
+«[Italiano](../it/#bpn7909)» 
 
 
 
@@ -2278,7 +2316,7 @@ Lode sia a Te, Che sei il Benamato di coloro che Ti hanno conosciuto.
 (Bahaiprayers.net ID: 7910)
 
 
-
+«[Italiano](../it/#bpn7910)» 
 
 
 
@@ -2291,7 +2329,7 @@ Io sono colui, o mio Signore, che ha dimenticato tutto eccetto Te e si è volto 
 (Bahaiprayers.net ID: 7911)
 
 
-
+«[Italiano](../it/#bpn7911)» 
 
 
 
@@ -2304,7 +2342,7 @@ In verità Tu sei il supremo Reggitore, la Verità Sovrana, l’Aiuto nel Perico
 (Bahaiprayers.net ID: 7912)
 
 
-
+«[Italiano](../it/#bpn7912)» 
 
 
 
@@ -2316,7 +2354,15 @@ O Signore mio Dio! Assisti i Tuoi amati ad essere saldi nella Tua Fede, a cammin
 (Bahaiprayers.net ID: 7913)
 
 
+«[Italiano](../it/#AB00001FIR)» 
 
+«[Nederlands](../nl/#AB00001FIR)» 
+
+«[Esperanto](../eo/#AB00001FIR)» 
+
+«[Português (BR)](../pt/#AB00001FIR)» 
+
+«[English](../en/#AB00001FIR)» 
 
 
 
@@ -2329,7 +2375,7 @@ Signore! Questi sono i Tuoi servi rimasti saldi e fermi nel Tuo Patto e nel Tuo 
 (Bahaiprayers.net ID: 7914)
 
 
-
+«[Italiano](../it/#bpn7914)» 
 
 
 
@@ -2347,7 +2393,7 @@ O Signore di tutti gli esseri e Re del visibile e dell’invisibile, io Ti chied
 (Bahaiprayers.net ID: 7915)
 
 
-
+«[Italiano](../it/#bpn7915)» 
 
 
 
@@ -2361,7 +2407,7 @@ Tu sei il Compassionevole, il Misericor-dioso. Tu sei il Grande Benefico Iddio.
 (Bahaiprayers.net ID: 7916)
 
 
-
+«[Italiano](../it/#bpn7916)» 
 
 
 
@@ -2379,7 +2425,7 @@ Non v’è altro Dio che Te, l’Onnipossente, il Sovrano, l’Illimitato.
 (Bahaiprayers.net ID: 7917)
 
 
-
+«[Italiano](../it/#bpn7917)» 
 
 
 
@@ -2393,7 +2439,7 @@ Per la Tua Potenza! Non chiedo altro, dormendo o vegliando, se non ciò che Tu d
 (Bahaiprayers.net ID: 7918)
 
 
-
+«[Italiano](../it/#bpn7918)» 
 
 
 
@@ -2408,7 +2454,15 @@ In verità, Tu sei il Donatore, il Generoso, il Misericordioso, il Perdonatore.
 (Bahaiprayers.net ID: 7919)
 
 
+«[Deutsch](../de/#AB06528MID)» 
 
+«[Italiano](../it/#AB06528MID)» 
+
+«[Español](../es/#AB06528MID)» 
+
+«[Esperanto](../eo/#AB06528MID)» 
+
+«[English](../en/#AB06528MID)» 
 
 
 
@@ -2476,7 +2530,7 @@ E il servo che la legga e mediti s’infiammerà nelle sue vene un fuoco che ard
 (Bahaiprayers.net ID: 7927)
 
 
-
+«[Italiano](../it/#bpn7927)» 
 
 
 
@@ -2514,7 +2568,7 @@ In verità, Egli è il Misericordioso, il Compassionevole. Lode sia a Dio, il Si
 (Bahaiprayers.net ID: 7926)
 
 
-
+«[Italiano](../it/#bpn7926)» 
 
 
 
@@ -2541,7 +2595,7 @@ Benedici, o Signore mio Dio, il Divino Albero di Loto e le sue foglie e i suoi v
 (Bahaiprayers.net ID: 7928)
 
 
-
+«[Italiano](../it/#bpn7928)» 
 
 
 
@@ -2562,7 +2616,7 @@ Tu sei il Dispensatore, il Pietoso, il Munifico, il Benigno, il Misericordioso, 
 (Bahaiprayers.net ID: 7929)
 
 
-
+«[Italiano](../it/#bpn7929)» 
 
 
 
@@ -2580,7 +2634,11 @@ Tutti sono poveri e bisognosi e Tu sei, in verità, Colui Che Tutto Possiede, Co
 (Bahaiprayers.net ID: 7920)
 
 
+«[Italiano](../it/#BH00868WIT)» 
 
+«[Nederlands](../nl/#BH00868WIT)» 
+
+«[English](../en/#BH00868WIT)» 
 
 
 
@@ -2592,7 +2650,7 @@ O Tu Signore gentile! O Tu Che sei generoso e misericordioso! Siamo servi della 
 (Bahaiprayers.net ID: 7921)
 
 
-
+«[Italiano](../it/#bpn7921)» 
 
 
 
@@ -2604,7 +2662,7 @@ O Tu Signore compassionevole, Tu Che sei generoso e capace! Siamo Tuoi servi, pr
 (Bahaiprayers.net ID: 7922)
 
 
-
+«[Italiano](../it/#bpn7922)» 
 
 
 
@@ -2623,7 +2681,7 @@ Tu sei il Forte e il Potente, Tu sei il Perdonatore e Tu sei Colui Che indulge a
 (Bahaiprayers.net ID: 7923)
 
 
-
+«[Italiano](../it/#bpn7923)» 
 
 
 
@@ -2639,7 +2697,7 @@ O mio Dio! O mio Dio! Unisci i cuori dei Tuoi servi e rivela loro il Tuo grande 
 (Bahaiprayers.net ID: 7924)
 
 
-
+«[Italiano](../it/#bpn7924)» 
 
 
 
@@ -2655,7 +2713,7 @@ In verità, Tu sei l’Onnipotente, Colui Che Esiste da Sé, il Donatore, Colui 
 (Bahaiprayers.net ID: 7925)
 
 
-
+«[Italiano](../it/#bpn7925)» 
 
 
 

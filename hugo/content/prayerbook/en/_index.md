@@ -134,7 +134,7 @@ O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will ca
 (Bahaiprayers.net ID: 6347)
 
 
-
+«[English](../en/#bpn6347)» 
 
 
 
@@ -149,7 +149,7 @@ Verily, Thou art the Powerful, the Inaccessible, the Supreme, the Knowing, the W
 (Bahaiprayers.net ID: 6342)
 
 
-
+«[English](../en/#bpn6342)» 
 
 
 
@@ -162,7 +162,13 @@ Thou, truly, art the King of all men. There is no God but Thee, the Ever-Forgivi
 (Bahaiprayers.net ID: 180)
 
 
+«[Nederlands](../nl/#BH10973)» 
 
+«[Esperanto](../eo/#BH10973)» 
+
+«[English](../en/#BH10973)» 
+
+«[Frysk](../fy/#BH10973)» 
 
 
 
@@ -175,7 +181,7 @@ O Divine Providence!  All existence is begotten by Thy bounty; deprive it not of
 (Bahaiprayers.net ID: 181)
 
 
-
+«[English](../en/#BH00438)» 
 
 
 
@@ -192,7 +198,7 @@ Say: God is indeed the Maker of all things.  He giveth sustenance in plenty to w
 (Bahaiprayers.net ID: 182)
 
 
-
+«[English](../en/#BB00553)» 
 
 
 
@@ -204,7 +210,7 @@ O my God, my Lord and my Master! I have detached myself from my kindred and have
 (Bahaiprayers.net ID: 394)
 
 
-
+«[English](../en/#BB00018DET)» 
 
 
 
@@ -218,7 +224,7 @@ O Thou divine Providence, pitiful are we, grant us Thy succour; homeless wandere
 (Bahaiprayers.net ID: 6346)
 
 
-
+«[English](../en/#bpn6346)» 
 
 
 
@@ -231,7 +237,7 @@ Send down Thy heavenly rain, and provide Thy plenteousness and abundance. Thou a
 (Bahaiprayers.net ID: 11700)
 
 
-
+«[English](../en/#bpn11700)» 
 
 
 
@@ -245,7 +251,7 @@ Thou, verily, aidest whomsoever Thou willest, and Thou, verily, art the Almighty
 (Bahaiprayers.net ID: 10518)
 
 
-
+«[English](../en/#bpn10518)» 
 
 
 
@@ -259,7 +265,7 @@ O Thou Provider, O Thou Forgiver! Grant us Thy grace and loving-kindness, Thy gi
 (Bahaiprayers.net ID: 396)
 
 
-
+«[English](../en/#AB00073SER)» 
 
 
 
@@ -273,7 +279,11 @@ Thou art, verily, the One, the Single, the Mighty, the All-Knowing, the All-Wise
 (Bahaiprayers.net ID: 186)
 
 
+«[Nederlands](../nl/#AB10275)» 
 
+«[Español](../es/#AB10275)» 
+
+«[English](../en/#AB10275)» 
 
 
 
@@ -287,7 +297,13 @@ Give us our daily bread and grant Thine increase in the necessities of life, tha
 (Bahaiprayers.net ID: 184)
 
 
+«[Nederlands](../nl/#AB00431PIT)» 
 
+«[Esperanto](../eo/#AB00431PIT)» 
+
+«[Papiamentu](../pap/#AB00431PIT)» 
+
+«[English](../en/#AB00431PIT)» 
 
 
 
@@ -303,7 +319,7 @@ O Lord! Assist him through Thine invisible hosts, and strengthen him with the mi
 (Bahaiprayers.net ID: 13083)
 
 
-
+«[English](../en/#bpn13083)» 
 
 
 
@@ -322,7 +338,7 @@ O God!  Send down Thy divine increase on whosoever endeavoreth to serve this edi
 (Bahaiprayers.net ID: 247)
 
 
-
+«[English](../en/#AB00963IMP)» 
 
 
 
@@ -339,7 +355,7 @@ Thou art the Forgiver, the Resplendent, the Ever-Loving.
 (Bahaiprayers.net ID: 10519)
 
 
-
+«[English](../en/#bpn10519)» 
 
 
 
@@ -355,7 +371,7 @@ Thou, verily, aidest whomsoever Thou willest, and Thou, verily, art the Almighty
 (Bahaiprayers.net ID: 11699)
 
 
-
+«[English](../en/#bpn11699)» 
 
 
 
@@ -380,7 +396,7 @@ Verily, Thou art the Most Generous, the Lord of grace abounding, and, verily, Th
 (Bahaiprayers.net ID: 6475)
 
 
-
+«[English](../en/#AB00032DAR)» 
 
 
 
@@ -392,7 +408,7 @@ Bless Thou, O King of Kings, the city of New York!  Cause the friends there to b
 (Bahaiprayers.net ID: 246)
 
 
-
+«[English](../en/#AB08704NEW)» 
 
 
 
@@ -404,7 +420,7 @@ O Thou kind Lord!  This gathering is turning to Thee.  These hearts are radiant 
 (Bahaiprayers.net ID: 187)
 
 
-
+«[English](../en/#ABU0394GAT)» 
 
 
 
@@ -440,7 +456,7 @@ Thus have We imparted unto thee the gems of divine wisdom and utterance, that th
 (Bahaiprayers.net ID: 8257)
 
 
-
+«[English](../en/#bpn8257)» 
 
 
 
@@ -467,7 +483,7 @@ As to thee, O Rasúl, shouldst thou wish to take flight in the atmosphere of My 
 (Bahaiprayers.net ID: 8258)
 
 
-
+«[English](../en/#bpn8258)» 
 
 
 
@@ -507,7 +523,7 @@ O Maryam, We have called this Tablet “the choicest of lamentations” and “t
 (Bahaiprayers.net ID: 8259)
 
 
-
+«[English](../en/#bpn8259)» 
 
 
 
@@ -538,7 +554,7 @@ That which is conducive to the regeneration of the world and the salvation of th
 (Bahaiprayers.net ID: 8260)
 
 
-
+«[English](../en/#bpn8260)» 
 
 
 
@@ -554,7 +570,7 @@ Pure and sanctified art Thou, O my God!  How can the pen move and the ink flow a
 (Bahaiprayers.net ID: 10153)
 
 
-
+«[English](../en/#bpn10153)» 
 
 
 
@@ -566,7 +582,7 @@ O Thou Who holdest within Thy grasp the Kingdom of names and the Empire of all t
 (Bahaiprayers.net ID: 10154)
 
 
-
+«[English](../en/#bpn10154)» 
 
 
 
@@ -580,7 +596,7 @@ Glory be to Thee, O Thou Who art the Lord of all beings and the Ultimate Aim of 
 (Bahaiprayers.net ID: 10155)
 
 
-
+«[English](../en/#bpn10155)» 
 
 
 
@@ -594,7 +610,7 @@ O God, my God!  Thou seest how Thy servant hath set his face towards Thee and de
 (Bahaiprayers.net ID: 10156)
 
 
-
+«[English](../en/#bpn10156)» 
 
 
 
@@ -607,7 +623,7 @@ I beseech Thee, O Thou the Lord of the kingdom of names and Fashioner of earth a
 (Bahaiprayers.net ID: 10157)
 
 
-
+«[English](../en/#bpn10157)» 
 
 
 
@@ -619,7 +635,7 @@ Praise be to Thee, O Lord my God, for guiding me unto the horizon of Thy Revelat
 (Bahaiprayers.net ID: 10158)
 
 
-
+«[English](../en/#bpn10158)» 
 
 
 
@@ -633,7 +649,7 @@ Praise be unto Thee, O Lord my God!  I beseech Thee by Thy Most Exalted Name in 
 (Bahaiprayers.net ID: 10159)
 
 
-
+«[English](../en/#bpn10159)» 
 
 
 
@@ -647,7 +663,7 @@ Praise be to Thee, O my God!  Thou didst call me, and I answered Thee.  Thou did
 (Bahaiprayers.net ID: 10160)
 
 
-
+«[English](../en/#bpn10160)» 
 
 
 
@@ -660,7 +676,7 @@ Verily, Thou art potent to do whatsoever Thou willest, and in Thy grasp are the 
 (Bahaiprayers.net ID: 10161)
 
 
-
+«[English](../en/#bpn10161)» 
 
 
 
@@ -684,7 +700,7 @@ All bounty is Thine, O Thou Who art the Lord of bounty, and the Sovereign of bou
 (Bahaiprayers.net ID: 10163)
 
 
-
+«[English](../en/#bpn10163)» 
 
 
 
@@ -696,7 +712,7 @@ Praised be Thou, O Lord my God!  Sanctify mine eye, and mine ear, and my tongue,
 (Bahaiprayers.net ID: 10164)
 
 
-
+«[English](../en/#bpn10164)» 
 
 
 
@@ -708,7 +724,7 @@ In regard to his affairs, let him repeat nineteen times:  “Thou seest me, O my
 (Bahaiprayers.net ID: 10162)
 
 
-
+«[English](../en/#bpn10162)» 
 
 
 
@@ -721,7 +737,7 @@ Send down Thy heavenly rain, and provide Thy plenteousness and abundance.  Thou 
 (Bahaiprayers.net ID: 10167)
 
 
-
+«[English](../en/#bpn10167)» 
 
 
 
@@ -733,7 +749,7 @@ O Thou unseen Friend!  O Desire of all in this world and the world to come!  O T
 (Bahaiprayers.net ID: 12582)
 
 
-
+«[English](../en/#bpn12582)» 
 
 
 
@@ -747,7 +763,7 @@ O Lord of the Kingdom!  Deliver us from this world of vain illusions, and lead u
 (Bahaiprayers.net ID: 12583)
 
 
-
+«[English](../en/#bpn12583)» 
 
 
 
@@ -761,7 +777,7 @@ O Thou Omnipotent Lord!  Number me among the denizens of the Kingdom.  This mort
 (Bahaiprayers.net ID: 12584)
 
 
-
+«[English](../en/#bpn12584)» 
 
 
 
@@ -779,7 +795,7 @@ O Thou kind and beloved Lord!  They are as the body, and Thou art the Spirit of 
 (Bahaiprayers.net ID: 12585)
 
 
-
+«[English](../en/#bpn12585)» 
 
 
 
@@ -791,7 +807,7 @@ O Divine Providence!  Perplexing difficulties have arisen and formidable obstacl
 (Bahaiprayers.net ID: 12586)
 
 
-
+«[English](../en/#bpn12586)» 
 
 
 
@@ -805,7 +821,7 @@ O Divine Providence!  Grant me the strength to bear this heavy burden, and enabl
 (Bahaiprayers.net ID: 12587)
 
 
-
+«[English](../en/#bpn12587)» 
 
 
 
@@ -819,7 +835,7 @@ Though I am lowly, abased, and poor, yet Thou art my haven and my refuge, my sup
 (Bahaiprayers.net ID: 12588)
 
 
-
+«[English](../en/#bpn12588)» 
 
 
 
@@ -835,7 +851,7 @@ O God, my God!  Aid and assist me through Thy power to heal the sick.  Thou art,
 (Bahaiprayers.net ID: 12589)
 
 
-
+«[English](../en/#bpn12589)» 
 
 
 
@@ -847,7 +863,7 @@ O Lord!  Grant me a measure of Thy grace and loving-kindness, Thy care and prote
 (Bahaiprayers.net ID: 12590)
 
 
-
+«[English](../en/#bpn12590)» 
 
 
 
@@ -861,7 +877,7 @@ O Thou Peerless Lord!  Grant Thy forgiveness and tender care so that this soul m
 (Bahaiprayers.net ID: 12591)
 
 
-
+«[English](../en/#bpn12591)» 
 
 
 
@@ -875,7 +891,7 @@ O Thou forgiving Lord!  These servants were noble souls, and these radiant heart
 (Bahaiprayers.net ID: 12592)
 
 
-
+«[English](../en/#bpn12592)» 
 
 
 
@@ -887,7 +903,7 @@ O Divine Providence!  Immerse the father and mother of this servant of Thy Thres
 (Bahaiprayers.net ID: 12593)
 
 
-
+«[English](../en/#bpn12593)» 
 
 
 
@@ -899,7 +915,7 @@ O Thou kind Lord!  Sanctify my heart from all attachment, and gladden my soul wi
 (Bahaiprayers.net ID: 12594)
 
 
-
+«[English](../en/#bpn12594)» 
 
 
 
@@ -913,7 +929,7 @@ O Almighty One Who endowest a blade of straw with the might of a mountain and en
 (Bahaiprayers.net ID: 12595)
 
 
-
+«[English](../en/#bpn12595)» 
 
 
 
@@ -925,7 +941,7 @@ O Thou Omnipotent Lord!  We are all held within the mighty grasp of Thy power.  
 (Bahaiprayers.net ID: 12596)
 
 
-
+«[English](../en/#bpn12596)» 
 
 
 
@@ -939,7 +955,7 @@ O Lord!  Deliver us from the attachments of the world and its peoples, from the 
 (Bahaiprayers.net ID: 12597)
 
 
-
+«[English](../en/#bpn12597)» 
 
 
 
@@ -955,7 +971,7 @@ O Divine Providence!  We are weak and Thou art the Most Powerful.  We are as tin
 (Bahaiprayers.net ID: 12598)
 
 
-
+«[English](../en/#bpn12598)» 
 
 
 
@@ -969,7 +985,7 @@ O my Lord, my King, my Ruler, and my Sovereign!  I call upon Thee with my tongue
 (Bahaiprayers.net ID: 12599)
 
 
-
+«[English](../en/#bpn12599)» 
 
 
 
@@ -983,7 +999,7 @@ O Divine Providence!  Grant them Thy favour, guide them aright, graciously aid t
 (Bahaiprayers.net ID: 12600)
 
 
-
+«[English](../en/#bpn12600)» 
 
 
 
@@ -997,7 +1013,7 @@ O Divine Providence, O forgiving Lord!  How can I ever befittingly sing Thy prai
 (Bahaiprayers.net ID: 12601)
 
 
-
+«[English](../en/#bpn12601)» 
 
 
 
@@ -1009,7 +1025,7 @@ O Divine Providence, Thou art the Ever-Forgiving!  O Thou Almighty God, Thou art
 (Bahaiprayers.net ID: 12602)
 
 
-
+«[English](../en/#bpn12602)» 
 
 
 
@@ -1021,7 +1037,7 @@ O Thou incomparable God!  We are Thy humble servants, and Thou art the All-Glori
 (Bahaiprayers.net ID: 12603)
 
 
-
+«[English](../en/#bpn12603)» 
 
 
 
@@ -1039,7 +1055,7 @@ O Lord, my God!  Be Thou their companion in their loneliness, and in their momen
 (Bahaiprayers.net ID: 12604)
 
 
-
+«[English](../en/#bpn12604)» 
 
 
 
@@ -1074,7 +1090,7 @@ Out of Thy tender mercy newfound wings bestow.
 (Bahaiprayers.net ID: 12605)
 
 
-
+«[English](../en/#bpn12605)» 
 
 
 
@@ -1090,7 +1106,7 @@ O thou who circlest in adoration about the Spot round which circle the Concourse
 (Bahaiprayers.net ID: 12903)
 
 
-
+«[English](../en/#bpn12903)» 
 
 
 
@@ -1116,7 +1132,7 @@ When once thou hast received this Tablet, intone it in the sweetest of melodies 
 (Bahaiprayers.net ID: 6309)
 
 
-
+«[English](../en/#bpn6309)» 
 
 
 
@@ -1151,7 +1167,7 @@ Drink your fill, O My companions, from this sparkling and luminous stream, and r
 (Bahaiprayers.net ID: 8271)
 
 
-
+«[English](../en/#bpn8271)» 
 
 
 
@@ -1170,7 +1186,7 @@ Thus have the showers of utterance rained down from the heaven of the will of yo
 (Bahaiprayers.net ID: 8270)
 
 
-
+«[English](../en/#bpn8270)» 
 
 
 
@@ -1202,7 +1218,7 @@ Dost thou not witness, O Pen, what a clamour the hypocrites have raised througho
 (Bahaiprayers.net ID: 8269)
 
 
-
+«[English](../en/#bpn8269)» 
 
 
 
@@ -1236,7 +1252,7 @@ Whereupon, dumbfounded, the Pen of the Most High cried out: “O Thou Who art ex
 (Bahaiprayers.net ID: 6307)
 
 
-
+«[English](../en/#bpn6307)» 
 
 
 
@@ -1258,7 +1274,7 @@ Thou art, in truth, the Forgiving, the Bountiful.[43]
 (Bahaiprayers.net ID: 8268)
 
 
-
+«[English](../en/#bpn8268)» 
 
 
 
@@ -1286,7 +1302,7 @@ Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of
 (Bahaiprayers.net ID: 11203)
 
 
-
+«[English](../en/#bpn11203)» 
 
 
 
@@ -1303,7 +1319,7 @@ Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All
 (Bahaiprayers.net ID: 11204)
 
 
-
+«[English](../en/#bpn11204)» 
 
 
 
@@ -1325,7 +1341,7 @@ Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou des
 (Bahaiprayers.net ID: 11202)
 
 
-
+«[English](../en/#bpn11202)» 
 
 
 
@@ -1347,7 +1363,7 @@ Verily, Thou art the Powerful, the Mighty, the Omnipotent.
 (Bahaiprayers.net ID: 11201)
 
 
-
+«[English](../en/#bpn11201)» 
 
 
 
@@ -1369,7 +1385,7 @@ Verily, Thou art the Powerful, the Mighty, the Omnipotent.
 (Bahaiprayers.net ID: 11205)
 
 
-
+«[English](../en/#bpn11205)» 
 
 
 
@@ -1386,7 +1402,7 @@ I implore Thee, therefore, by Thy name through which Thou didst manifest Thy God
 (Bahaiprayers.net ID: 10121)
 
 
-
+«[English](../en/#bpn10121)» 
 
 
 
@@ -1399,7 +1415,7 @@ I beseech Thee by Thy name, whereby everyone is enabled to attain the object of 
 (Bahaiprayers.net ID: 188)
 
 
-
+«[English](../en/#BH10076)» 
 
 
 
@@ -1415,7 +1431,9 @@ Lauded art Thou, O my Best Beloved, waft over him the sweet savors of Thy transc
 (Bahaiprayers.net ID: 402)
 
 
+«[Español](../es/#BH09855)» 
 
+«[English](../en/#BH09855)» 
 
 
 
@@ -1428,7 +1446,7 @@ Lauded art Thou, O my Best Beloved! Waft over him the sweet savours of Thy trans
 (Bahaiprayers.net ID: 13670)
 
 
-
+«[English](../en/#bpn13670)» 
 
 
 
@@ -1441,7 +1459,7 @@ I beseech Thee by Thy name, whereby everyone is enabled to attain the object of 
 (Bahaiprayers.net ID: 13671)
 
 
-
+«[English](../en/#bpn13671)» 
 
 
 
@@ -1456,7 +1474,7 @@ O God, my God! I supplicate confirmation and assistance for those who have arise
 (Bahaiprayers.net ID: 6799)
 
 
-
+«[English](../en/#bpn6799)» 
 
 
 
@@ -1469,7 +1487,7 @@ O Thou the Self-Sufficing God! Make me a confidant of the Kingdom of the Unseen.
 (Bahaiprayers.net ID: 10126)
 
 
-
+«[English](../en/#bpn10126)» 
 
 
 
@@ -1483,7 +1501,7 @@ Thou art verily the Generous, the Clement, the Compassionate!
 (Bahaiprayers.net ID: 10132)
 
 
-
+«[English](../en/#bpn10132)» 
 
 
 
@@ -1496,7 +1514,7 @@ I earnestly hope that thou wilt be nurtured in the bosom of the love of God and 
 (Bahaiprayers.net ID: 10143)
 
 
-
+«[English](../en/#bpn10143)» 
 
 
 
@@ -1510,7 +1528,7 @@ May the glory of the Most Glorious rest upon thee!
 (Bahaiprayers.net ID: 10144)
 
 
-
+«[English](../en/#bpn10144)» 
 
 
 
@@ -1525,7 +1543,7 @@ Upon thee be the glory of the Most Glorious.
 (Bahaiprayers.net ID: 10145)
 
 
-
+«[English](../en/#bpn10145)» 
 
 
 
@@ -1538,7 +1556,7 @@ The heavenly gifts of the Ancient Beauty make every plant verdant and fresh, and
 (Bahaiprayers.net ID: 10146)
 
 
-
+«[English](../en/#bpn10146)» 
 
 
 
@@ -1553,7 +1571,7 @@ May the glory of God rest upon thee.
 (Bahaiprayers.net ID: 10147)
 
 
-
+«[English](../en/#bpn10147)» 
 
 
 
@@ -1567,7 +1585,7 @@ And upon thee be salutation and praise.
 (Bahaiprayers.net ID: 10148)
 
 
-
+«[English](../en/#bpn10148)» 
 
 
 
@@ -1581,7 +1599,7 @@ And upon ye be the glory of the Most Glorious.
 (Bahaiprayers.net ID: 10149)
 
 
-
+«[English](../en/#bpn10149)» 
 
 
 
@@ -1595,7 +1613,7 @@ May the glory of the Most Glorious rest upon you!
 (Bahaiprayers.net ID: 10150)
 
 
-
+«[English](../en/#bpn10150)» 
 
 
 
@@ -1612,7 +1630,7 @@ May the glory of God rest upon the people of Bahá!
 (Bahaiprayers.net ID: 10151)
 
 
-
+«[English](../en/#bpn10151)» 
 
 
 
@@ -1626,7 +1644,7 @@ The glory of glories rest upon you.
 (Bahaiprayers.net ID: 10152)
 
 
-
+«[English](../en/#bpn10152)» 
 
 
 
@@ -1642,7 +1660,7 @@ O Lord God!  Bestow upon each one understanding; give them power and strength an
 (Bahaiprayers.net ID: 10505)
 
 
-
+«[English](../en/#bpn10505)» 
 
 
 
@@ -1657,7 +1675,7 @@ Thou art the Bestower, the All-Loving, the Most Radiant, the Most Resplendent.
 (Bahaiprayers.net ID: 10506)
 
 
-
+«[English](../en/#bpn10506)» 
 
 
 
@@ -1670,7 +1688,7 @@ Verily, Thou art the Mighty, the Powerful.
 (Bahaiprayers.net ID: 10509)
 
 
-
+«[English](../en/#bpn10509)» 
 
 
 
@@ -1685,7 +1703,7 @@ Thou art the Mighty One.
 (Bahaiprayers.net ID: 10510)
 
 
-
+«[English](../en/#bpn10510)» 
 
 
 
@@ -1697,7 +1715,7 @@ O Compassionate God!  O Lord of Hosts!  Praise be unto Thee that Thou hast prefe
 (Bahaiprayers.net ID: 10515)
 
 
-
+«[English](../en/#bpn10515)» 
 
 
 
@@ -1709,7 +1727,7 @@ O my God, O my God!  Verily this plant hath yielded its fruit and standeth uprig
 (Bahaiprayers.net ID: 10514)
 
 
-
+«[English](../en/#bpn10514)» 
 
 
 
@@ -1723,7 +1741,11 @@ Thou art the Powerful, the All-Loving.
 (Bahaiprayers.net ID: 191)
 
 
+«[Nederlands](../nl/#AB10701)» 
 
+«[Español](../es/#AB10701)» 
+
+«[English](../en/#AB10701)» 
 
 
 
@@ -1738,7 +1760,7 @@ Thou art the Mighty and the Powerful.
 (Bahaiprayers.net ID: 10502)
 
 
-
+«[English](../en/#bpn10502)» 
 
 
 
@@ -1750,7 +1772,11 @@ O God!  Educate these children.  These children are the plants of Thine orchard,
 (Bahaiprayers.net ID: 189)
 
 
+«[Esperanto](../eo/#ABU0129EDU)» 
 
+«[Papiamentu](../pap/#ABU0129EDU)» 
+
+«[English](../en/#ABU0129EDU)» 
 
 
 
@@ -1764,7 +1790,11 @@ Thou art the Bountiful, the All-Loving.
 (Bahaiprayers.net ID: 406)
 
 
+«[Français](../fr/#AB10714)» 
 
+«[Nederlands](../nl/#AB10714)» 
+
+«[English](../en/#AB10714)» 
 
 
 
@@ -1776,7 +1806,7 @@ He is God!  O God, my God!  Bestow upon me a pure heart, like unto a pearl.
 (Bahaiprayers.net ID: 192)
 
 
-
+«[English](../en/#AB11605)» 
 
 
 
@@ -1788,7 +1818,15 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 (Bahaiprayers.net ID: 193)
 
 
+«[Nederlands](../nl/#AB04427LMP)» 
 
+«[Esperanto](../eo/#AB04427LMP)» 
+
+«[Papiamentu](../pap/#AB04427LMP)» 
+
+«[English](../en/#AB04427LMP)» 
+
+«[Frysk](../fy/#AB04427LMP)» 
 
 
 
@@ -1800,7 +1838,7 @@ O Peerless Lord!  Be Thou a shelter for this poor child and a kind and forgiving
 (Bahaiprayers.net ID: 195)
 
 
-
+«[English](../en/#AB08693)» 
 
 
 
@@ -1813,7 +1851,9 @@ O God, our Lord!  We sing Thy praise, bear witness to Thy sanctity and implore f
 (Bahaiprayers.net ID: 196)
 
 
+«[Nederlands](../nl/#AB10324)» 
 
+«[English](../en/#AB10324)» 
 
 
 
@@ -1828,7 +1868,7 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer.
 (Bahaiprayers.net ID: 408)
 
 
-
+«[English](../en/#AB09040)» 
 
 
 
@@ -1841,7 +1881,11 @@ Thou art the Mighty and the Powerful, and Thou art the All-Loving, the All-Knowi
 (Bahaiprayers.net ID: 197)
 
 
+«[Nederlands](../nl/#AB09794CHI)» 
 
+«[Português (BR)](../pt/#AB09794CHI)» 
+
+«[English](../en/#AB09794CHI)» 
 
 
 
@@ -1855,7 +1899,7 @@ O Thou peerless Lord!  Let this suckling babe be nursed from the breast of Thy l
 (Bahaiprayers.net ID: 200)
 
 
-
+«[English](../en/#AB11356)» 
 
 
 
@@ -1867,7 +1911,7 @@ O Thou peerless Lord! Let this suckling babe be nursed from the breast of Thy lo
 (Bahaiprayers.net ID: 13672)
 
 
-
+«[English](../en/#bpn13672)» 
 
 
 
@@ -1879,7 +1923,7 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 (Bahaiprayers.net ID: 13673)
 
 
-
+«[English](../en/#bpn13673)» 
 
 
 
@@ -1892,7 +1936,7 @@ Thou art the Mighty and the Powerful, and Thou art the All-Loving, the All-Knowi
 (Bahaiprayers.net ID: 13674)
 
 
-
+«[English](../en/#bpn13674)» 
 
 
 
@@ -1905,7 +1949,7 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer.
 (Bahaiprayers.net ID: 13675)
 
 
-
+«[English](../en/#bpn13675)» 
 
 
 
@@ -1918,7 +1962,7 @@ Thou art the Mighty and the Powerful.
 (Bahaiprayers.net ID: 13676)
 
 
-
+«[English](../en/#bpn13676)» 
 
 
 
@@ -1931,7 +1975,7 @@ Verily Thou art the All-Glorious.
 (Bahaiprayers.net ID: 13677)
 
 
-
+«[English](../en/#bpn13677)» 
 
 
 
@@ -1943,7 +1987,7 @@ O Peerless Lord! Be Thou a shelter for this poor child and a kind and forgiving 
 (Bahaiprayers.net ID: 13678)
 
 
-
+«[English](../en/#bpn13678)» 
 
 
 
@@ -1957,7 +2001,7 @@ Thou art the Powerful, the All-Loving.
 (Bahaiprayers.net ID: 13679)
 
 
-
+«[English](../en/#bpn13679)» 
 
 
 
@@ -1969,7 +2013,7 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 (Bahaiprayers.net ID: 13680)
 
 
-
+«[English](../en/#bpn13680)» 
 
 
 
@@ -1983,7 +2027,7 @@ Thou art the Mighty and the Powerful.
 (Bahaiprayers.net ID: 13681)
 
 
-
+«[English](../en/#bpn13681)» 
 
 
 
@@ -1996,7 +2040,7 @@ O God, our Lord! We sing Thy praise, bear witness to Thy sanctity and implore fe
 (Bahaiprayers.net ID: 13682)
 
 
-
+«[English](../en/#bpn13682)» 
 
 
 
@@ -2009,7 +2053,7 @@ Thou art the Bestower, the All-Loving, the Most Radiant, the Most Resplendent.
 (Bahaiprayers.net ID: 13683)
 
 
-
+«[English](../en/#bpn13683)» 
 
 
 
@@ -2021,7 +2065,7 @@ O Thou compassionate Lord! O Lord of Hosts! Praise be unto Thee that Thou hast p
 (Bahaiprayers.net ID: 13684)
 
 
-
+«[English](../en/#bpn13684)» 
 
 
 
@@ -2035,7 +2079,7 @@ Verily Thou art the Bestower, the Merciful, the Compassionate.
 (Bahaiprayers.net ID: 13685)
 
 
-
+«[English](../en/#bpn13685)» 
 
 
 
@@ -2050,7 +2094,7 @@ Thou art the Bestower, the Bountiful, the All-Loving.
 (Bahaiprayers.net ID: 13686)
 
 
-
+«[English](../en/#bpn13686)» 
 
 
 
@@ -2063,7 +2107,7 @@ Make this little maidservant of Thine blessed and happy; cause her to be cherish
 (Bahaiprayers.net ID: 13687)
 
 
-
+«[English](../en/#bpn13687)» 
 
 
 
@@ -2117,7 +2161,7 @@ Glorified art Thou, O Lord my God! Such being the case, I implore Thee to send d
 (Bahaiprayers.net ID: 8254)
 
 
-
+«[English](../en/#bpn8254)» 
 
 
 
@@ -2177,7 +2221,7 @@ Thus do We bestow upon the dwellers of the mystic realm that which shall draw th
 (Bahaiprayers.net ID: 8255)
 
 
-
+«[English](../en/#bpn8255)» 
 
 
 
@@ -2200,7 +2244,7 @@ Having revealed this Tablet on this night, We desire to send it unto thee as a t
 (Bahaiprayers.net ID: 8256)
 
 
-
+«[English](../en/#bpn8256)» 
 
 
 
@@ -2233,7 +2277,11 @@ We all, verily, are patient in God.
 (Bahaiprayers.net ID: 202)
 
 
+«[Nederlands](../nl/#BH09085)» 
 
+«[English](../en/#BH09085)» 
+
+«[Frysk](../fy/#BH09085)» 
 
 
 
@@ -2255,7 +2303,11 @@ There is none other God but Thee, the One, the Single, the Powerful, the Omnisci
 (Bahaiprayers.net ID: 204)
 
 
+«[Français](../fr/#BH03109KIN)» 
 
+«[Italiano](../it/#BH03109KIN)» 
+
+«[English](../en/#BH03109KIN)» 
 
 
 
@@ -2271,7 +2323,9 @@ Glorified, immeasurably glorified art Thou! Thou art adored in Thy truth, and Th
 (Bahaiprayers.net ID: 203)
 
 
+«[Italiano](../it/#BH08308)» 
 
+«[English](../en/#BH08308)» 
 
 
 
@@ -2286,7 +2340,7 @@ Thou art the Lord of tender love, Thou art the last goal of the yearning heart, 
 (Bahaiprayers.net ID: 10513)
 
 
-
+«[English](../en/#bpn10513)» 
 
 
 
@@ -2301,7 +2355,7 @@ Thou art, verily, the Mighty, the Compassionate, the Generous, the Merciful.
 (Bahaiprayers.net ID: 208)
 
 
-
+«[English](../en/#AB07850)» 
 
 
 
@@ -2319,7 +2373,7 @@ O Lord! We are sinners, but Thou art the Forgiver. We are submerged in the ocean
 (Bahaiprayers.net ID: 210)
 
 
-
+«[English](../en/#AB00728MDS)» 
 
 
 
@@ -2335,7 +2389,9 @@ Bestow upon Thy heavenly handmaiden, O God, the holy fragrances born of the spir
 (Bahaiprayers.net ID: 209)
 
 
+«[Português (BR)](../pt/#AB05996)» 
 
+«[English](../en/#AB05996)» 
 
 
 
@@ -2349,7 +2405,7 @@ Thou art the Forgiver, the Lightgiver and the Omnipotent.
 (Bahaiprayers.net ID: 207)
 
 
-
+«[English](../en/#AB07304)» 
 
 
 
@@ -2363,7 +2419,15 @@ O my Lord!  Purify them from trespasses, dispel their sorrows, and change their 
 (Bahaiprayers.net ID: 205)
 
 
+«[Nederlands](../nl/#AB11094)» 
 
+«[Español](../es/#AB11094)» 
+
+«[Esperanto](../eo/#AB11094)» 
+
+«[English](../en/#AB11094)» 
+
+«[Frysk](../fy/#AB11094)» 
 
 
 
@@ -2379,7 +2443,7 @@ Verily, Thou art the Generous, the Powerful, the Forgiver and the Bestower.
 (Bahaiprayers.net ID: 412)
 
 
-
+«[English](../en/#AB03896MAJ)» 
 
 
 
@@ -2397,7 +2461,7 @@ Say: O God, my God! Thou beholdest me circling round Thy Will with mine eyes tur
 (Bahaiprayers.net ID: 6343)
 
 
-
+«[English](../en/#bpn6343)» 
 
 
 
@@ -2411,7 +2475,9 @@ Glorified be Thy name, O Thou Who art the King of all Kings!
 (Bahaiprayers.net ID: 211)
 
 
+«[Nederlands](../nl/#BH09289)» 
 
+«[English](../en/#BH09289)» 
 
 
 
@@ -2425,7 +2491,9 @@ Thou, truly, art the Lord of all mankind, and the Possessor of this world and of
 (Bahaiprayers.net ID: 212)
 
 
+«[Português (BR)](../pt/#BH09508)» 
 
+«[English](../en/#BH09508)» 
 
 
 
@@ -2439,7 +2507,11 @@ Thou, in very truth, art the Lord of the worlds, and the God of all that are in 
 (Bahaiprayers.net ID: 213)
 
 
+«[Español](../es/#BH09864)» 
 
+«[Português (BR)](../pt/#BH09864)» 
+
+«[English](../en/#BH09864)» 
 
 
 
@@ -2454,7 +2526,11 @@ Powerful art Thou to do what pleaseth Thee.  Thou art, verily, the All-Powerful,
 (Bahaiprayers.net ID: 215)
 
 
+«[Italiano](../it/#BH05894)» 
 
+«[Nederlands](../nl/#BH05894)» 
+
+«[English](../en/#BH05894)» 
 
 
 
@@ -2470,7 +2546,9 @@ There is none other God but Thee, the Almighty, the Beneficent.
 (Bahaiprayers.net ID: 216)
 
 
+«[Nederlands](../nl/#BH05771)» 
 
+«[English](../en/#BH05771)» 
 
 
 
@@ -2485,7 +2563,15 @@ Thy might, in truth, is equal to all things.
 (Bahaiprayers.net ID: 214)
 
 
+«[Nederlands](../nl/#BH09024)» 
 
+«[Afrikaans](../af/#BH09024)» 
+
+«[Español](../es/#BH09024)» 
+
+«[Esperanto](../eo/#BH09024)» 
+
+«[English](../en/#BH09024)» 
 
 
 
@@ -2503,7 +2589,9 @@ Confer Thy blessings, O my Lord, upon the Messengers, the holy ones and the righ
 (Bahaiprayers.net ID: 217)
 
 
+«[Nederlands](../nl/#BB00560)» 
 
+«[English](../en/#BB00560)» 
 
 
 
@@ -2519,7 +2607,11 @@ Thine is the absolute authority to command.
 (Bahaiprayers.net ID: 218)
 
 
+«[Italiano](../it/#BB00522)» 
 
+«[Español](../es/#BB00522)» 
+
+«[English](../en/#BB00522)» 
 
 
 
@@ -2531,7 +2623,17 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 (Bahaiprayers.net ID: 219)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -2546,7 +2648,9 @@ Thou art, verily, the Powerful, the Ever-Giving, the Able, the Omnipotent.
 (Bahaiprayers.net ID: 221)
 
 
+«[Español](../es/#AB00553)» 
 
+«[English](../en/#AB00553)» 
 
 
 
@@ -2561,7 +2665,7 @@ Thou art, in truth, the Almighty, the All-Glorious, the All-Powerful.
 (Bahaiprayers.net ID: 220)
 
 
-
+«[English](../en/#AB04980HOP)» 
 
 
 
@@ -2586,7 +2690,7 @@ Thou art the Great Giver, the Ever-Forgiving, the Most Compassionate.
 (Bahaiprayers.net ID: 6663)
 
 
-
+«[English](../en/#bpn6663)» 
 
 
 
@@ -2601,7 +2705,7 @@ Verily, Thou art the Giver, the Forgiver, the Compassionate.
 (Bahaiprayers.net ID: 10516)
 
 
-
+«[English](../en/#bpn10516)» 
 
 
 
@@ -2889,7 +2993,7 @@ Verily, the Apostle of God—may the blessings of God, exalted be He, and His sa
 (Bahaiprayers.net ID: 13691)
 
 
-
+«[English](../en/#bpn13691)» 
 
 
 
@@ -2907,7 +3011,13 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 (Bahaiprayers.net ID: 222)
 
 
+«[Esperanto](../eo/#BH00009SER)» 
 
+«[Português (BR)](../pt/#BH00009SER)» 
+
+«[English](../en/#BH00009SER)» 
+
+«[Frysk](../fy/#BH00009SER)» 
 
 
 
@@ -2921,7 +3031,9 @@ By Thy might!  I ask not, whether sleeping or waking, but that which Thou dost d
 (Bahaiprayers.net ID: 223)
 
 
+«[Français](../fr/#BH00009HOW)» 
 
+«[English](../en/#BH00009HOW)» 
 
 
 
@@ -2941,7 +3053,15 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 (Bahaiprayers.net ID: 224)
 
 
+«[Deutsch](../de/#AB06528MID)» 
 
+«[Italiano](../it/#AB06528MID)» 
+
+«[Español](../es/#AB06528MID)» 
+
+«[Esperanto](../eo/#AB06528MID)» 
+
+«[English](../en/#AB06528MID)» 
 
 
 
@@ -2959,7 +3079,7 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 (Bahaiprayers.net ID: 6344)
 
 
-
+«[English](../en/#bpn6344)» 
 
 
 
@@ -2973,7 +3093,9 @@ Bless me, O my God, and those who will believe in Thy signs on the appointed Day
 (Bahaiprayers.net ID: 225)
 
 
+«[Português (BR)](../pt/#BB00583)» 
 
+«[English](../en/#BB00583)» 
 
 
 
@@ -2989,7 +3111,11 @@ O my God!  Thou hast inspired my soul to offer its supplication to Thee, and but
 (Bahaiprayers.net ID: 226)
 
 
+«[Français](../fr/#BB00018FOR)» 
 
+«[Nederlands](../nl/#BB00018FOR)» 
+
+«[English](../en/#BB00018FOR)» 
 
 
 
@@ -3001,7 +3127,11 @@ O Lord! In this Most Great Dispensation Thou dost accept the intercession of chi
 (Bahaiprayers.net ID: 227)
 
 
+«[Nederlands](../nl/#AB02000DIS)» 
 
+«[Esperanto](../eo/#AB02000DIS)» 
+
+«[English](../en/#AB02000DIS)» 
 
 
 
@@ -3019,7 +3149,7 @@ Verily, Thou art the Precious, the Ever-Bestowing, the Open of Hand.
 (Bahaiprayers.net ID: 228)
 
 
-
+«[English](../en/#AB03017CAL)» 
 
 
 
@@ -3137,7 +3267,9 @@ Should all the servants read and ponder this, there shall be kindled in their ve
 (Bahaiprayers.net ID: 387)
 
 
+«[Nederlands](../nl/#BH00687)» 
 
+«[English](../en/#BH00687)» 
 
 
 
@@ -3156,7 +3288,11 @@ No God is there but Thee, the Almighty, the All-Wise.
 (Bahaiprayers.net ID: 229)
 
 
+«[Nederlands](../nl/#BH07683)» 
 
+«[Español](../es/#BH07683)» 
+
+«[English](../en/#BH07683)» 
 
 
 
@@ -3171,7 +3307,11 @@ Decree for me, by Thy bounty, O Lord, that which shall prosper me in this world 
 (Bahaiprayers.net ID: 230)
 
 
+«[Nederlands](../nl/#BH07469)» 
 
+«[Português (BR)](../pt/#BH07469)» 
+
+«[English](../en/#BH07469)» 
 
 
 
@@ -3183,7 +3323,7 @@ O God, my God!  Give me to drink from the cup of Thy bestowal and illumine my fa
 (Bahaiprayers.net ID: 10517)
 
 
-
+«[English](../en/#bpn10517)» 
 
 
 
@@ -3197,7 +3337,13 @@ Thou art the Pardoner, the Gracious.
 (Bahaiprayers.net ID: 231)
 
 
+«[Deutsch](../de/#AB06211)» 
 
+«[Español](../es/#AB06211)» 
+
+«[Português (BR)](../pt/#AB06211)» 
+
+«[English](../en/#AB06211)» 
 
 
 
@@ -3211,7 +3357,11 @@ Thou art the Compassionate, the Merciful.  Thou art the Great Beneficent God.
 (Bahaiprayers.net ID: 232)
 
 
+«[Nederlands](../nl/#AB02342AWA)» 
 
+«[Esperanto](../eo/#AB02342AWA)» 
+
+«[English](../en/#AB02342AWA)» 
 
 
 
@@ -3224,7 +3374,9 @@ Verily, art Thou the Invincible, the Almighty, the All-Powerful.
 (Bahaiprayers.net ID: 233)
 
 
+«[Esperanto](../eo/#AB00065STE)» 
 
+«[English](../en/#AB00065STE)» 
 
 
 
@@ -3247,7 +3399,7 @@ Thou art the One that hath caused all things to be made manifest and hath shone 
 (Bahaiprayers.net ID: 6667)
 
 
-
+«[English](../en/#bpn6667)» 
 
 
 
@@ -3270,7 +3422,7 @@ Verily, Thou art the Potent, the Bountiful. No God is there but Thee, the Mighty
 (Bahaiprayers.net ID: 6800)
 
 
-
+«[English](../en/#bpn6800)» 
 
 
 
@@ -3284,7 +3436,7 @@ There is no one, O my Lord, who can deal bountifully with me to whom I can turn 
 (Bahaiprayers.net ID: 234)
 
 
-
+«[English](../en/#BH07106)» 
 
 
 
@@ -3297,7 +3449,11 @@ I am, O my God, Thy servant and the son of Thy servant.  I have recognized Thy t
 (Bahaiprayers.net ID: 235)
 
 
+«[Nederlands](../nl/#BH08600FAC)» 
 
+«[Español](../es/#BH08600FAC)» 
+
+«[English](../en/#BH08600FAC)» 
 
 
 
@@ -3309,7 +3465,9 @@ Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty a
 (Bahaiprayers.net ID: 236)
 
 
+«[Nederlands](../nl/#BH00005SEE)» 
 
+«[English](../en/#BH00005SEE)» 
 
 
 
@@ -3325,7 +3483,7 @@ Praised be God, the Lord of the worlds!
 (Bahaiprayers.net ID: 237)
 
 
-
+«[English](../en/#BH05768)» 
 
 
 
@@ -3339,7 +3497,7 @@ Forgive, then, O my Lord, Thy servants and Thy handmaidens.  Thou, truly, art th
 (Bahaiprayers.net ID: 238)
 
 
-
+«[English](../en/#BH08855)» 
 
 
 
@@ -3351,7 +3509,9 @@ I beg Thee to forgive me, O my Lord, for every mention but the mention of Thee, 
 (Bahaiprayers.net ID: 241)
 
 
+«[Nederlands](../nl/#BB00617)» 
 
+«[English](../en/#BB00617)» 
 
 
 
@@ -3365,7 +3525,7 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 (Bahaiprayers.net ID: 6809)
 
 
-
+«[English](../en/#bpn6809)» 
 
 
 
@@ -3380,7 +3540,9 @@ Thou art the Sovereign Ruler, the Mighty Doer, the Exalted, the All-Loving.
 (Bahaiprayers.net ID: 239)
 
 
+«[Nederlands](../nl/#BH00593)» 
 
+«[English](../en/#BH00593)» 
 
 
 
@@ -3392,7 +3554,7 @@ Praise be unto Thee, O Lord.  Forgive us our sins, have mercy upon us and enable
 (Bahaiprayers.net ID: 240)
 
 
-
+«[English](../en/#BH00634)» 
 
 
 
@@ -3405,7 +3567,9 @@ Glorified art Thou, O Lord!  Thou forgivest at all times the sins of such among 
 (Bahaiprayers.net ID: 242)
 
 
+«[Português (BR)](../pt/#BB00002MEN)» 
 
+«[English](../en/#BB00002MEN)» 
 
 
 
@@ -3418,7 +3582,9 @@ O Lord!  If Thou forgivest me not, who is there then to grant pardon, and if Tho
 (Bahaiprayers.net ID: 243)
 
 
+«[Nederlands](../nl/#BB00485TRE)» 
 
+«[English](../en/#BB00485TRE)» 
 
 
 
@@ -3430,7 +3596,13 @@ O Thou forgiving Lord!  Thou art the shelter of all these Thy servants.  Thou kn
 (Bahaiprayers.net ID: 244)
 
 
+«[Français](../fr/#ABU0030SHE)» 
 
+«[Español](../es/#ABU0030SHE)» 
+
+«[Esperanto](../eo/#ABU0030SHE)» 
+
+«[English](../en/#ABU0030SHE)» 
 
 
 
@@ -3448,7 +3620,7 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 (Bahaiprayers.net ID: 245)
 
 
-
+«[English](../en/#AB00362LOV)» 
 
 
 
@@ -3472,7 +3644,13 @@ and His praise glorified.
 (Bahaiprayers.net ID: 4966)
 
 
+«[Français](../fr/#BH00074BLE)» 
 
+«[Esperanto](../eo/#BH00074BLE)» 
+
+«[Papiamentu](../pap/#BH00074BLE)» 
+
+«[English](../en/#BH00074BLE)» 
 
 
 
@@ -3485,7 +3663,7 @@ I beseech Thee, by Thine own Self and by Him Whom Thou hast appointed as the Man
 (Bahaiprayers.net ID: 248)
 
 
-
+«[English](../en/#BH09848)» 
 
 
 
@@ -3500,7 +3678,7 @@ O Thou compassionate, almighty One! This assemblage of souls have turned their f
 (Bahaiprayers.net ID: 6802)
 
 
-
+«[English](../en/#bpn6802)» 
 
 
 
@@ -3515,7 +3693,7 @@ O Lord! Confirm and aid this assemblage. Confirm these souls through the breaths
 (Bahaiprayers.net ID: 6803)
 
 
-
+«[English](../en/#bpn6803)» 
 
 
 
@@ -3527,7 +3705,7 @@ He is God! Thou seest us, O my God, gathered around this table, praising Thy bou
 (Bahaiprayers.net ID: 11017)
 
 
-
+«[English](../en/#bpn11017)» 
 
 
 
@@ -3545,7 +3723,7 @@ O kind Father! Confer Thy blessings. Consider not our shortcomings. Shelter us u
 (Bahaiprayers.net ID: 6443)
 
 
-
+«[English](../en/#bpn6443)» 
 
 
 
@@ -3561,7 +3739,11 @@ Thou art mighty. Thou art powerful. Thou art the Giver, and Thou art the Ever-Bo
 (Bahaiprayers.net ID: 418)
 
 
+«[Español](../es/#ABU0070GAT)» 
 
+«[Esperanto](../eo/#ABU0070GAT)» 
+
+«[English](../en/#ABU0070GAT)» 
 
 
 
@@ -3575,7 +3757,7 @@ Verily, Thou art the Generous. Verily, Thou art the Merciful. Verily, Thou art t
 (Bahaiprayers.net ID: 419)
 
 
-
+«[English](../en/#ABU0188TUR)» 
 
 
 
@@ -3595,7 +3777,7 @@ Thou art the Powerful the Omnipotent, the Merciful, and Thou art the Generous, t
 (Bahaiprayers.net ID: 420)
 
 
-
+«[English](../en/#ABU0095KIN)» 
 
 
 
@@ -3609,7 +3791,9 @@ Verily, Thou art the Omnipotent, and the Almighty!
 (Bahaiprayers.net ID: 421)
 
 
+«[Português (BR)](../pt/#AB00388COM)» 
 
+«[English](../en/#AB00388COM)» 
 
 
 
@@ -3622,7 +3806,7 @@ Thou art the Giver, the Bestower, the Ever-Loving.
 (Bahaiprayers.net ID: 254)
 
 
-
+«[English](../en/#AB00397HEA)» 
 
 
 
@@ -3637,7 +3821,7 @@ O God!  Dispel all those elements which are the cause of discord, and prepare fo
 (Bahaiprayers.net ID: 255)
 
 
-
+«[English](../en/#ABU0003DIS)» 
 
 
 
@@ -3658,7 +3842,7 @@ Shield, I pray Thee, O my Beloved, my heart’s Desire, Thy servant who hath sou
 (Bahaiprayers.net ID: 6788)
 
 
-
+«[English](../en/#bpn6788)» 
 
 
 
@@ -3673,7 +3857,7 @@ We pray to God to graciously assist them that have been led astray to be just an
 (Bahaiprayers.net ID: 6789)
 
 
-
+«[English](../en/#bpn6789)» 
 
 
 
@@ -3694,7 +3878,7 @@ We beg of Thee, O Providence, to show Thy way unto all men, and to guide them ar
 (Bahaiprayers.net ID: 6801)
 
 
-
+«[English](../en/#bpn6801)» 
 
 
 
@@ -3712,7 +3896,7 @@ Light and glory, greeting and praise be upon the Hands of His Cause, through who
 (Bahaiprayers.net ID: 6361)
 
 
-
+«[English](../en/#BH00238)» 
 
 
 
@@ -3734,7 +3918,7 @@ Thou, in truth, art immensely exalted above all else except Thyself. Thou art, v
 (Bahaiprayers.net ID: 260)
 
 
-
+«[English](../en/#BH04475)» 
 
 
 
@@ -3746,7 +3930,17 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy.  Nearnes
 (Bahaiprayers.net ID: 257)
 
 
+«[Nederlands](../nl/#BH01313NAM)» 
 
+«[Español](../es/#BH01313NAM)» 
+
+«[Esperanto](../eo/#BH01313NAM)» 
+
+«[Português (BR)](../pt/#BH01313NAM)» 
+
+«[English](../en/#BH01313NAM)» 
+
+«[Frysk](../fy/#BH01313NAM)» 
 
 
 
@@ -3944,7 +4138,9 @@ Thou art verily the Powerful, the All-Sufficing, the Healing, the Protector, the
 (Bahaiprayers.net ID: 262)
 
 
+«[Esperanto](../eo/#BH00870)» 
 
+«[English](../en/#BH00870)» 
 
 
 
@@ -3958,7 +4154,9 @@ Powerful art Thou to do what pleaseth Thee.  There is none other God save Thee, 
 (Bahaiprayers.net ID: 256)
 
 
+«[Esperanto](../eo/#BH08013)» 
 
+«[English](../en/#BH08013)» 
 
 
 
@@ -3972,7 +4170,7 @@ Thou art truly the Lord of this life and of the next.  Thou art, in truth, the E
 (Bahaiprayers.net ID: 259)
 
 
-
+«[English](../en/#BH07105)» 
 
 
 
@@ -3985,7 +4183,9 @@ Thou art, verily, the Healer, the Preserver, the Helper, the Almighty, the Power
 (Bahaiprayers.net ID: 258)
 
 
+«[Deutsch](../de/#BH07721)» 
 
+«[English](../en/#BH07721)» 
 
 
 
@@ -4002,7 +4202,9 @@ I implore Thee, therefore, by Thy name through which Thou didst manifest Thy God
 (Bahaiprayers.net ID: 261)
 
 
+«[Português (BR)](../pt/#BH04990)» 
 
+«[English](../en/#BH04990)» 
 
 
 
@@ -4020,7 +4222,11 @@ All are but poor and needy, and Thou, verily, art the All-Possessing, the All-Su
 (Bahaiprayers.net ID: 263)
 
 
+«[Italiano](../it/#BH00868WIT)» 
 
+«[Nederlands](../nl/#BH00868WIT)» 
+
+«[English](../en/#BH00868WIT)» 
 
 
 
@@ -4032,7 +4238,7 @@ O Thou kind Lord! O Thou Who art generous and merciful! We are servants of Thy t
 (Bahaiprayers.net ID: 414)
 
 
-
+«[English](../en/#AB07124)» 
 
 
 
@@ -4045,7 +4251,9 @@ May we all follow Thy pathway, long for Thy good pleasure and seek the mysteries
 (Bahaiprayers.net ID: 264)
 
 
+«[Esperanto](../eo/#ABU0009SER)» 
 
+«[English](../en/#ABU0009SER)» 
 
 
 
@@ -4069,7 +4277,11 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 415)
 
 
+«[Esperanto](../eo/#ABU0137ALL)» 
 
+«[English](../en/#ABU0137ALL)» 
+
+«[Frysk](../fy/#ABU0137ALL)» 
 
 
 
@@ -4088,7 +4300,7 @@ Thou verily art the Powerful, the Protector, the Potent, the Defender, the Might
 (Bahaiprayers.net ID: 267)
 
 
-
+«[English](../en/#AB00787SPL)» 
 
 
 
@@ -4104,7 +4316,11 @@ Magnified art Thou, O Lord of the entire creation, the One unto Whom all things 
 (Bahaiprayers.net ID: 378)
 
 
+«[Nederlands](../nl/#BH01554HUQ)» 
 
+«[Português (BR)](../pt/#BH01554HUQ)» 
+
+«[English](../en/#BH01554HUQ)» 
 
 
 
@@ -4118,7 +4334,7 @@ I implore Thee, O Lord of all names and Creator of the heavens, to assist me to 
 (Bahaiprayers.net ID: 379)
 
 
-
+«[English](../en/#BH02753ENT)» 
 
 
 
@@ -4146,7 +4362,7 @@ Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 (Bahaiprayers.net ID: 380)
 
 
-
+«[English](../en/#BH05849)» 
 
 
 
@@ -4162,7 +4378,9 @@ O God, my God!  I have set out from my home, holding fast unto the cord of Thy l
 (Bahaiprayers.net ID: 292)
 
 
+«[Esperanto](../eo/#BH10688)» 
 
+«[English](../en/#BH10688)» 
 
 
 
@@ -4176,7 +4394,13 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 (Bahaiprayers.net ID: 275)
 
 
+«[Nederlands](../nl/#BH00009GRA)» 
 
+«[Esperanto](../eo/#BH00009GRA)» 
+
+«[Papiamentu](../pap/#BH00009GRA)» 
+
+«[English](../en/#BH00009GRA)» 
 
 
 
@@ -4194,7 +4418,7 @@ O God, my God! Attire mine head with the crown of justice, and my temple with th
 (Bahaiprayers.net ID: 6345)
 
 
-
+«[English](../en/#bpn6345)» 
 
 
 
@@ -4270,7 +4494,11 @@ I testify, O my God, to that whereunto Thy chosen Ones have testified, and ackno
 (Bahaiprayers.net ID: 393)
 
 
+«[Nederlands](../nl/#BH00987)» 
 
+«[Esperanto](../eo/#BH00987)» 
+
+«[English](../en/#BH00987)» 
 
 
 
@@ -4290,7 +4518,7 @@ The pledge of marriage, the verse to be spoken individually by the bride and the
 (Bahaiprayers.net ID: 268)
 
 
-
+«[English](../en/#BH00001ABI)» 
 
 
 
@@ -4304,7 +4532,7 @@ And when He desired to manifest grace and beneficence to men, and to set the wor
 (Bahaiprayers.net ID: 269)
 
 
-
+«[English](../en/#BH03181)» 
 
 
 
@@ -4316,7 +4544,11 @@ Glory be unto Thee, O my God!  Verily, this thy servant and this Thy maidservant
 (Bahaiprayers.net ID: 271)
 
 
+«[Nederlands](../nl/#AB07158)» 
 
+«[English](../en/#AB07158)» 
+
+«[Frysk](../fy/#AB07158)» 
 
 
 
@@ -4329,7 +4561,9 @@ Verily, Thou art the Generous.  Verily, Thou art the Compassionate, the All-Merc
 (Bahaiprayers.net ID: 272)
 
 
+«[Español](../es/#AB02596)» 
 
+«[English](../en/#AB02596)» 
 
 
 
@@ -4346,7 +4580,7 @@ O Thou kind Lord!  Make Thou this marriage to bring forth coral and pearls.  Tho
 (Bahaiprayers.net ID: 270)
 
 
-
+«[English](../en/#AB05652WIS)» 
 
 
 
@@ -4371,7 +4605,7 @@ Emerge from behind the veil, by the leave of thy Lord, the All-Glorious, the Mos
 (Bahaiprayers.net ID: 8261)
 
 
-
+«[English](../en/#bpn8261)» 
 
 
 
@@ -4386,7 +4620,7 @@ O Salmán! Say: O people! Tread ye in the path of the one true God and ponder th
 (Bahaiprayers.net ID: 8264)
 
 
-
+«[English](../en/#bpn8264)» 
 
 
 
@@ -4414,7 +4648,7 @@ O people of the earth! Ponder the state of these workers of iniquity, what they 
 (Bahaiprayers.net ID: 8262)
 
 
-
+«[English](../en/#bpn8262)» 
 
 
 
@@ -4441,7 +4675,7 @@ And when ye took away His life, one of His followers arose to avenge His death. 
 (Bahaiprayers.net ID: 8263)
 
 
-
+«[English](../en/#bpn8263)» 
 
 
 
@@ -4482,7 +4716,7 @@ Grieve not on account of Our adversity, but be patient even as We have been pati
 (Bahaiprayers.net ID: 8265)
 
 
-
+«[English](../en/#bpn8265)» 
 
 
 
@@ -4506,7 +4740,7 @@ When We heard this call, We ceased Our account of these sorrows and returned to 
 (Bahaiprayers.net ID: 8266)
 
 
-
+«[English](../en/#bpn8266)» 
 
 
 
@@ -4529,7 +4763,9 @@ Verily, Thou art the Bountiful,the Mighty, the Omnipotent, the Unconstrained.  T
 (Bahaiprayers.net ID: 381)
 
 
+«[Nederlands](../nl/#AB02024)» 
 
+«[English](../en/#AB02024)» 
 
 
 
@@ -4573,7 +4809,13 @@ I bear witness to Thy unity and Thy oneness, and that Thou art God, and that the
 (Bahaiprayers.net ID: 392)
 
 
+«[Nederlands](../nl/#BH03447)» 
 
+«[Esperanto](../eo/#BH03447)» 
+
+«[Português (BR)](../pt/#BH03447)» 
+
+«[English](../en/#BH03447)» 
 
 
 
@@ -4589,7 +4831,11 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 274)
 
 
+«[Esperanto](../eo/#BH00009SHE)» 
 
+«[English](../en/#BH00009SHE)» 
+
+«[Frysk](../fy/#BH00009SHE)» 
 
 
 
@@ -4604,7 +4850,13 @@ Thou art, truly, the Lord and King of all men, and art potent over all things.
 (Bahaiprayers.net ID: 273)
 
 
+«[Français](../fr/#BH02848)» 
 
+«[Afrikaans](../af/#BH02848)» 
+
+«[Português (BR)](../pt/#BH02848)» 
+
+«[English](../en/#BH02848)» 
 
 
 
@@ -4620,7 +4872,11 @@ Thou disappointest no one who hath sought Thee, nor dost Thou keep back from The
 (Bahaiprayers.net ID: 276)
 
 
+«[Nederlands](../nl/#BH00009AWA)» 
 
+«[English](../en/#BH00009AWA)» 
+
+«[Frysk](../fy/#BH00009AWA)» 
 
 
 
@@ -4641,7 +4897,7 @@ I implore Thee, O Lord, by Thy Name that transcendeth all other names, to guard 
 (Bahaiprayers.net ID: 8232)
 
 
-
+«[English](../en/#bpn8232)» 
 
 
 
@@ -4665,7 +4921,7 @@ I beseech Thee, moreover, O my God, to unite the hearts of Thy loved ones and to
 (Bahaiprayers.net ID: 8233)
 
 
-
+«[English](../en/#bpn8233)» 
 
 
 
@@ -4693,7 +4949,7 @@ Thou art, verily, the Almighty, the All-Highest, the All-Glorious, the All-Subdu
 (Bahaiprayers.net ID: 8234)
 
 
-
+«[English](../en/#bpn8234)» 
 
 
 
@@ -4709,7 +4965,7 @@ Thou, verily, abidest even now in Thine everlasting habitation, and beholdest th
 (Bahaiprayers.net ID: 8235)
 
 
-
+«[English](../en/#bpn8235)» 
 
 
 
@@ -4729,7 +4985,11 @@ Thou, in truth, art the All-Knowing, the All-Wise.
 (Bahaiprayers.net ID: 382)
 
 
+«[Português (BR)](../pt/#BH03908)» 
 
+«[English](../en/#BH03908)» 
+
+«[Frysk](../fy/#BH03908)» 
 
 
 
@@ -4747,7 +5007,7 @@ Thou, in truth, art the Ever-Forgiving, the Most Compassionate.
 (Bahaiprayers.net ID: 277)
 
 
-
+«[English](../en/#BH08264)» 
 
 
 
@@ -4759,7 +5019,7 @@ O God, my God, my Beloved, my heart's Desire.
 (Bahaiprayers.net ID: 279)
 
 
-
+«[English](../en/#BBU0015)» 
 
 
 
@@ -4773,7 +5033,7 @@ O my God!  I beseech Thee by the evidences of Thy favor, to let me draw nigh to 
 (Bahaiprayers.net ID: 278)
 
 
-
+«[English](../en/#BB00018ANG)» 
 
 
 
@@ -4785,7 +5045,7 @@ Verily I am Thy servant, O my God, and Thy poor one and Thy suppliant and Thy wr
 (Bahaiprayers.net ID: 280)
 
 
-
+«[English](../en/#BB00556)» 
 
 
 
@@ -4807,7 +5067,9 @@ Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
 (Bahaiprayers.net ID: 281)
 
 
+«[Esperanto](../eo/#AB02866)» 
 
+«[English](../en/#AB02866)» 
 
 
 
@@ -4820,7 +5082,11 @@ Shelter under Thy protection, O Thou Spirit of purity, Thou Who art the All-Boun
 (Bahaiprayers.net ID: 282)
 
 
+«[Nederlands](../nl/#AB06012)» 
 
+«[Esperanto](../eo/#AB06012)» 
+
+«[English](../en/#AB06012)» 
 
 
 
@@ -4839,7 +5105,7 @@ All praise and glory be to Thee, Thou of Whom all things have testified that Tho
 (Bahaiprayers.net ID: 284)
 
 
-
+«[English](../en/#BH03111)» 
 
 
 
@@ -4852,7 +5118,7 @@ Thou art the Almighty, the Most Exalted, the All-Glorious, the All-Loving.
 (Bahaiprayers.net ID: 286)
 
 
-
+«[English](../en/#BH07180)» 
 
 
 
@@ -4865,7 +5131,9 @@ I entreat Thee, O my Lord, by Thy Most Great Name whereby Thou didst separate li
 (Bahaiprayers.net ID: 287)
 
 
+«[Español](../es/#BH07661)» 
 
+«[English](../en/#BH07661)» 
 
 
 
@@ -4879,7 +5147,13 @@ Thou art the God of power, of glory and bounty.  No God is there beside Thee, th
 (Bahaiprayers.net ID: 285)
 
 
+«[Français](../fr/#BH09960)» 
 
+«[Esperanto](../eo/#BH09960)» 
+
+«[Português (BR)](../pt/#BH09960)» 
+
+«[English](../en/#BH09960)» 
 
 
 
@@ -4896,7 +5170,7 @@ He is supreme over His servants, and standeth over His creatures. In His hand is
 (Bahaiprayers.net ID: 6794)
 
 
-
+«[English](../en/#bpn6794)» 
 
 
 
@@ -4915,7 +5189,7 @@ Powerful art Thou to do what pleaseth Thee. Thou, truly, art the All-Glorious, t
 (Bahaiprayers.net ID: 6795)
 
 
-
+«[English](../en/#bpn6795)» 
 
 
 
@@ -4936,7 +5210,7 @@ Whatever betide us, we beseech Thine ancient forgiveness, and seek Thine all-per
 (Bahaiprayers.net ID: 6796)
 
 
-
+«[English](../en/#bpn6796)» 
 
 
 
@@ -4958,7 +5232,7 @@ We are Thy servants, O my Lord, and in the grasp of Thy power. If Thou chastises
 (Bahaiprayers.net ID: 6793)
 
 
-
+«[English](../en/#bpn6793)» 
 
 
 
@@ -4971,7 +5245,11 @@ Illumine, O Lord, the faces of Thy servants, that they may behold Thee; and clea
 (Bahaiprayers.net ID: 283)
 
 
+«[Nederlands](../nl/#BH09401)» 
 
+«[Esperanto](../eo/#BH09401)» 
+
+«[English](../en/#BH09401)» 
 
 
 
@@ -4984,7 +5262,7 @@ I ask God to grant thee by His favor and grace that which is thy utmost desire; 
 (Bahaiprayers.net ID: 12569)
 
 
-
+«[English](../en/#bpn12569)» 
 
 
 
@@ -5001,7 +5279,7 @@ Glory be unto Thee, Thou art exalted above the description of anyone save Thysel
 (Bahaiprayers.net ID: 288)
 
 
-
+«[English](../en/#BB00018MAJ)» 
 
 
 
@@ -5021,7 +5299,9 @@ O Thou King of Kings! O Thou kind Lord! O Thou Source of ancient bounty, of grac
 (Bahaiprayers.net ID: 293)
 
 
+«[Español](../es/#BH05801)» 
 
+«[English](../en/#BH05801)» 
 
 
 
@@ -5042,7 +5322,7 @@ Potent art Thou to do what Thou willest, and to rule as Thou pleasest. There is 
 (Bahaiprayers.net ID: 6804)
 
 
-
+«[English](../en/#bpn6804)» 
 
 
 
@@ -5056,7 +5336,13 @@ Thou, truly, art the Almighty, the Most Exalted, the Ever-Forgiving, the Most Ge
 (Bahaiprayers.net ID: 291)
 
 
+«[Italiano](../it/#BH10578)» 
 
+«[Español](../es/#BH10578)» 
+
+«[Esperanto](../eo/#BH10578)» 
+
+«[English](../en/#BH10578)» 
 
 
 
@@ -5072,7 +5358,7 @@ Thou art, verily, the All-Glorious, the Most Bountiful.
 (Bahaiprayers.net ID: 289)
 
 
-
+«[English](../en/#BH07113)» 
 
 
 
@@ -5084,7 +5370,7 @@ In the Name of God, the Forgiver! Although this evil state in which I am, O my G
 (Bahaiprayers.net ID: 11764)
 
 
-
+«[English](../en/#bpn11764)» 
 
 
 
@@ -5097,7 +5383,7 @@ Keep him safe also, O my God, by the power of Thine immeasurable majesty, from a
 (Bahaiprayers.net ID: 290)
 
 
-
+«[English](../en/#BH09872)» 
 
 
 
@@ -5112,7 +5398,7 @@ There is no power nor strength except in God, the Most Exalted, the Most Mighty.
 (Bahaiprayers.net ID: 294)
 
 
-
+«[English](../en/#BB00147ORD)» 
 
 
 
@@ -5126,7 +5412,9 @@ Grant Thy forgiveness unto me and unto the believers who responded to Thy Call. 
 (Bahaiprayers.net ID: 295)
 
 
+«[Nederlands](../nl/#BB00100EXI)» 
 
+«[English](../en/#BB00100EXI)» 
 
 
 
@@ -5147,7 +5435,9 @@ Immeasurably exalted art Thou, O Lord! Protect us from what lieth in front of us
 (Bahaiprayers.net ID: 296)
 
 
+«[Nederlands](../nl/#BB00490)» 
 
+«[English](../en/#BB00490)» 
 
 
 
@@ -5159,7 +5449,11 @@ O God, my God!  Shield Thy trusted servants from the evils of self and passion, 
 (Bahaiprayers.net ID: 297)
 
 
+«[Español](../es/#AB00001SHI)» 
 
+«[Esperanto](../eo/#AB00001SHI)» 
+
+«[English](../en/#AB00001SHI)» 
 
 
 
@@ -5173,7 +5467,9 @@ Verily, Thou art the Protector, the Guardian, the Preserver, the Sufficer, and v
 (Bahaiprayers.net ID: 298)
 
 
+«[Esperanto](../eo/#AB07759)» 
 
+«[English](../en/#AB07759)» 
 
 
 
@@ -5194,7 +5490,7 @@ O Thou divine Providence, preserve and protect us!  O Thou Who art our Shield, s
 (Bahaiprayers.net ID: 299)
 
 
-
+«[English](../en/#AB00204PRO)» 
 
 
 
@@ -5231,7 +5527,7 @@ Such is the inebriating effect of the words of God upon Him Who is the Revealer 
 (Bahaiprayers.net ID: 8236)
 
 
-
+«[English](../en/#bpn8236)» 
 
 
 
@@ -5257,7 +5553,7 @@ Take heed, O people, lest ye deprive yourselves of the breezes of these days whe
 (Bahaiprayers.net ID: 8237)
 
 
-
+«[English](../en/#bpn8237)» 
 
 
 
@@ -5274,7 +5570,7 @@ O Lord! Open Thou the eyes of Thy servants, that they may behold Thee at all tim
 (Bahaiprayers.net ID: 8238)
 
 
-
+«[English](../en/#BH04569)» 
 
 
 
@@ -5301,7 +5597,7 @@ I implore Thee, O my God, by the appearance of Him Whom Thou hast manifested in 
 (Bahaiprayers.net ID: 8241)
 
 
-
+«[English](../en/#bpn8241)» 
 
 
 
@@ -5320,7 +5616,7 @@ O Lord! Thou seest Thy loved ones encircled by the workers of iniquity. I beseec
 (Bahaiprayers.net ID: 8243)
 
 
-
+«[English](../en/#bpn8243)» 
 
 
 
@@ -5344,7 +5640,7 @@ This is the Day whereon all things testified to that whereunto the Tongue of Pow
 (Bahaiprayers.net ID: 8244)
 
 
-
+«[English](../en/#bpn8244)» 
 
 
 
@@ -5359,7 +5655,7 @@ O Lord! Ordain for him, and for Thy servants who have been hindered from meeting
 (Bahaiprayers.net ID: 8247)
 
 
-
+«[English](../en/#bpn8247)» 
 
 
 
@@ -5375,7 +5671,7 @@ Lauded art Thou, O Lord, for having singled out Thy loved ones and chosen them f
 (Bahaiprayers.net ID: 8248)
 
 
-
+«[English](../en/#bpn8248)» 
 
 
 
@@ -5410,7 +5706,7 @@ Cast, then, upon me, O my God, the glances of Thy mercy, and forgive me my tresp
 (Bahaiprayers.net ID: 8250)
 
 
-
+«[English](../en/#bpn8250)» 
 
 
 
@@ -5424,7 +5720,7 @@ It is the Festival of Ridván, the vernal season wherein the Beauty of the All-G
 (Bahaiprayers.net ID: 8252)
 
 
-
+«[English](../en/#bpn8252)» 
 
 
 
@@ -5440,7 +5736,7 @@ The following verse was revealed subsequently, but He indicated that it should o
 (Bahaiprayers.net ID: 8239)
 
 
-
+«[English](../en/#bpn8239)» 
 
 
 
@@ -5487,7 +5783,7 @@ Thus did the Beauty of the All-Glorious establish Himself upon the lofty heights
 (Bahaiprayers.net ID: 8240)
 
 
-
+«[English](../en/#bpn8240)» 
 
 
 
@@ -5525,7 +5821,7 @@ O Lord! Give them to drink, from the hands of Thy mercy, a draught from that riv
 (Bahaiprayers.net ID: 8245)
 
 
-
+«[English](../en/#bpn8245)» 
 
 
 
@@ -5549,7 +5845,7 @@ Praise be to Thee, O solace of the hearts of the people of Bahá! I testify, O m
 (Bahaiprayers.net ID: 8246)
 
 
-
+«[English](../en/#bpn8246)» 
 
 
 
@@ -5590,7 +5886,7 @@ Thus the summons of the Pen regarding this blessed and fated account endeth, in 
 (Bahaiprayers.net ID: 8251)
 
 
-
+«[English](../en/#bpn8251)» 
 
 
 
@@ -5610,7 +5906,7 @@ This servant[11] besought his Lord to write down for His chosen ones the recompe
 (Bahaiprayers.net ID: 8253)
 
 
-
+«[English](../en/#bpn8253)» 
 
 
 
@@ -5631,7 +5927,7 @@ The everlasting Candle shineth in its naked glory. Behold how it hath consumed e
 (Bahaiprayers.net ID: 8249)
 
 
-
+«[English](../en/#bpn8249)» 
 
 
 
@@ -5675,7 +5971,7 @@ And from Her lips there streamed these words of warning and rebuke—how astound
 (Bahaiprayers.net ID: 8242)
 
 
-
+«[English](../en/#bpn8242)» 
 
 
 
@@ -5695,7 +5991,7 @@ O Lord! Make of Thy loved ones celestial angels who inhabit Thine earth, and ena
 (Bahaiprayers.net ID: 12874)
 
 
-
+«[English](../en/#bpn12874)» 
 
 
 
@@ -5715,7 +6011,7 @@ Potent art Thou to do what Thou willest.  No God is there beside Thee, the Help 
 (Bahaiprayers.net ID: 6836)
 
 
-
+«[English](../en/#bpn6836)» 
 
 
 
@@ -5731,7 +6027,7 @@ There is none other God but Thee, the Guardian, the Self-Subsisting.
 (Bahaiprayers.net ID: 6835)
 
 
-
+«[English](../en/#bpn6835)» 
 
 
 
@@ -5751,7 +6047,7 @@ Though my body be pained by the trials that befall me from Thee, though it be af
 (Bahaiprayers.net ID: 6839)
 
 
-
+«[English](../en/#bpn6839)» 
 
 
 
@@ -5769,7 +6065,7 @@ Indeed Thou hast caused these momentous happenings to come to pass that those wh
 (Bahaiprayers.net ID: 6837)
 
 
-
+«[English](../en/#bpn6837)» 
 
 
 
@@ -5797,7 +6093,7 @@ There is no power nor strength except in God, the Most Exalted, the Most Mighty.
 (Bahaiprayers.net ID: 6838)
 
 
-
+«[English](../en/#bpn6838)» 
 
 
 
@@ -5811,7 +6107,7 @@ Thou art the Mighty, the Powerful.  Thou art the Knower, the Seer, the Hearer.
 (Bahaiprayers.net ID: 6305)
 
 
-
+«[English](../en/#bpn6305)» 
 
 
 
@@ -5828,7 +6124,9 @@ I beseech Thee, moreover, O my God, to ordain for me what will make me rich enou
 (Bahaiprayers.net ID: 300)
 
 
+«[Nederlands](../nl/#BH09498)» 
 
+«[English](../en/#BH09498)» 
 
 
 
@@ -5854,7 +6152,7 @@ Thou, verily, art the Almighty, the Most Exalted, the All-Knowing, the All-Wise.
 (Bahaiprayers.net ID: 6341)
 
 
-
+«[English](../en/#bpn6341)» 
 
 
 
@@ -5878,7 +6176,13 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 (Bahaiprayers.net ID: 391)
 
 
+«[Esperanto](../eo/#BH11209)» 
 
+«[Papiamentu](../pap/#BH11209)» 
+
+«[English](../en/#BH11209)» 
+
+«[Frysk](../fy/#BH11209)» 
 
 
 
@@ -5901,7 +6205,7 @@ Verily, Thou art the Generous, the Merciful.  Thou art the Possessor of great bo
 (Bahaiprayers.net ID: 385)
 
 
-
+«[English](../en/#AB04620)» 
 
 
 
@@ -5917,7 +6221,9 @@ O God, my God!  We are servants of Thine that have turned with devotion to Thy H
 (Bahaiprayers.net ID: 383)
 
 
+«[Nederlands](../nl/#AB01023SAE)» 
 
+«[English](../en/#AB01023SAE)» 
 
 
 
@@ -5934,7 +6240,9 @@ O Thou our Provider!  Send down Thine aid, that each one gathered here may becom
 (Bahaiprayers.net ID: 384)
 
 
+«[English](../en/#AB00774SAB)» 
 
+«[Frysk](../fy/#AB00774SAB)» 
 
 
 
@@ -5952,7 +6260,9 @@ Thou, truly, art the Help in Peril through the power of Thy sovereignty.  No God
 (Bahaiprayers.net ID: 305)
 
 
+«[Português (BR)](../pt/#BH07780)» 
 
+«[English](../en/#BH07780)» 
 
 
 
@@ -5969,7 +6279,9 @@ Thou art verily the Almighty, the Pardoner, the Compassionate.
 (Bahaiprayers.net ID: 307)
 
 
+«[Nederlands](../nl/#BH03562)» 
 
+«[English](../en/#BH03562)» 
 
 
 
@@ -5984,7 +6296,7 @@ Praised be God, the Lord of the worlds.
 (Bahaiprayers.net ID: 308)
 
 
-
+«[English](../en/#BH05543)» 
 
 
 
@@ -5996,7 +6308,11 @@ I beseech Thee, O my God, by all the transcendent glory of Thy Name, to clothe T
 (Bahaiprayers.net ID: 309)
 
 
+«[Nederlands](../nl/#BH00531TRA)» 
 
+«[Español](../es/#BH00531TRA)» 
+
+«[English](../en/#BH00531TRA)» 
 
 
 
@@ -6012,7 +6328,11 @@ Lord!  Turn me not away from the ocean of Thy wealth and the heaven of Thy mercy
 (Bahaiprayers.net ID: 303)
 
 
+«[Nederlands](../nl/#BH06026)» 
 
+«[Português (BR)](../pt/#BH06026)» 
+
+«[English](../en/#BH06026)» 
 
 
 
@@ -6025,7 +6345,11 @@ Suffer this servant, I beseech Thee, to attain unto that which is the cause of h
 (Bahaiprayers.net ID: 306)
 
 
+«[Nederlands](../nl/#BH00554)» 
 
+«[Esperanto](../eo/#BH00554)» 
+
+«[English](../en/#BH00554)» 
 
 
 
@@ -6044,7 +6368,9 @@ I am all wretchedness, O my Lord, and Thou art the Most Powerful, the Almighty. 
 (Bahaiprayers.net ID: 6664)
 
 
+«[Português (BR)](../pt/#BH08594)» 
 
+«[English](../en/#BH08594)» 
 
 
 
@@ -6065,7 +6391,7 @@ Have mercy, then, O my God, upon Thy servants who are drowned in the midst of th
 (Bahaiprayers.net ID: 6665)
 
 
-
+«[English](../en/#bpn6665)» 
 
 
 
@@ -6082,7 +6408,7 @@ Ignite, then, O my God, within my breast the fire of Thy love, that its flame ma
 (Bahaiprayers.net ID: 6666)
 
 
-
+«[English](../en/#BH08824)» 
 
 
 
@@ -6094,7 +6420,13 @@ Create in me a pure heart, O my God, and renew a tranquil conscience within me, 
 (Bahaiprayers.net ID: 302)
 
 
+«[Nederlands](../nl/#BH04421HEA)» 
 
+«[Esperanto](../eo/#BH04421HEA)» 
+
+«[English](../en/#BH04421HEA)» 
+
+«[Frysk](../fy/#BH04421HEA)» 
 
 
 
@@ -6107,7 +6439,9 @@ Potent art Thou to do what pleaseth Thee.  Thou art, verily, the Most Exalted, t
 (Bahaiprayers.net ID: 301)
 
 
+«[Nederlands](../nl/#BH06296)» 
 
+«[English](../en/#BH06296)» 
 
 
 
@@ -6120,7 +6454,11 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 (Bahaiprayers.net ID: 304)
 
 
+«[Italiano](../it/#BH07426FOO)» 
 
+«[Esperanto](../eo/#BH07426FOO)» 
+
+«[English](../en/#BH07426FOO)» 
 
 
 
@@ -6135,7 +6473,9 @@ Indeed shouldst Thou desire to confer blessing upon a servant Thou wouldst blot 
 (Bahaiprayers.net ID: 310)
 
 
+«[Español](../es/#BB00374)» 
 
+«[English](../en/#BB00374)» 
 
 
 
@@ -6149,7 +6489,13 @@ Verily, Thou art the Most Generous, the Lord of grace abounding. There is no oth
 (Bahaiprayers.net ID: 425)
 
 
+«[Français](../fr/#AB09139)» 
 
+«[Nederlands](../nl/#AB09139)» 
+
+«[Português (BR)](../pt/#AB09139)» 
+
+«[English](../en/#AB09139)» 
 
 
 
@@ -6166,7 +6512,11 @@ O Lord, my God! Lowly are these servants of Thine, exalt them in Thy kingdom on 
 (Bahaiprayers.net ID: 428)
 
 
+«[Nederlands](../nl/#AB02326)» 
 
+«[Português (BR)](../pt/#AB02326)» 
+
+«[English](../en/#AB02326)» 
 
 
 
@@ -6184,7 +6534,11 @@ Verily, Thou art merciful and, verily, Thou art the Most Generous, Whose help is
 (Bahaiprayers.net ID: 423)
 
 
+«[Nederlands](../nl/#AB07709CON)» 
 
+«[Español](../es/#AB07709CON)» 
+
+«[English](../en/#AB07709CON)» 
 
 
 
@@ -6202,7 +6556,9 @@ Thou art the Mighty, the Powerful, and Thou art the God of strength, the Omnipot
 (Bahaiprayers.net ID: 429)
 
 
+«[Nederlands](../nl/#AB00044PRO)» 
 
+«[English](../en/#AB00044PRO)» 
 
 
 
@@ -6217,7 +6573,7 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 (Bahaiprayers.net ID: 6797)
 
 
-
+«[English](../en/#bpn6797)» 
 
 
 
@@ -6233,7 +6589,13 @@ Thou art, verily, the Mighty, the Exalted, the Powerful, He Who alone, in the he
 (Bahaiprayers.net ID: 427)
 
 
+«[Español](../es/#AB00128FEE)» 
 
+«[Português (BR)](../pt/#AB00128FEE)» 
+
+«[Português (BR)](../pt/#AB00128FEE)» 
+
+«[English](../en/#AB00128FEE)» 
 
 
 
@@ -6251,7 +6613,7 @@ Verily, Thou art the Mighty, the Powerful, the Protector, the Strong, the Benefi
 (Bahaiprayers.net ID: 426)
 
 
-
+«[English](../en/#AB00083RAD)» 
 
 
 
@@ -6263,7 +6625,9 @@ O my Lord! O my Lord! This is a lamp lighted by the fire of Thy love and ablaze 
 (Bahaiprayers.net ID: 424)
 
 
+«[Nederlands](../nl/#AB11281)» 
 
+«[English](../en/#AB11281)» 
 
 
 
@@ -6280,7 +6644,7 @@ Verily Thou art the Lord of Strength, Thou art potent to ordain whatsoever Thou 
 (Bahaiprayers.net ID: 312)
 
 
-
+«[English](../en/#BH00053MAG)» 
 
 
 
@@ -6294,7 +6658,9 @@ Praise be to Thee, O Thou Who art the Beloved of them that have known Thee!
 (Bahaiprayers.net ID: 313)
 
 
+«[Esperanto](../eo/#BH08244)» 
 
+«[English](../en/#BH08244)» 
 
 
 
@@ -6312,7 +6678,7 @@ I ask Thee, O Lord of all being and King of the seen and unseen, by Thy power, T
 (Bahaiprayers.net ID: 315)
 
 
-
+«[English](../en/#BH07775)» 
 
 
 
@@ -6333,7 +6699,7 @@ Thou, truly, art the Help in peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 6815)
 
 
-
+«[English](../en/#bpn6815)» 
 
 
 
@@ -6347,7 +6713,9 @@ Thou art, verily, the God of Power, the Help in Peril, the All-Glorious, the Alm
 (Bahaiprayers.net ID: 314)
 
 
+«[Afrikaans](../af/#BH08604)» 
 
+«[English](../en/#BH08604)» 
 
 
 
@@ -6360,7 +6728,13 @@ I entreat Thee to enable me to cleave steadfastly to Thy love and Thy remembranc
 (Bahaiprayers.net ID: 316)
 
 
+«[Español](../es/#BH08822)» 
 
+«[Esperanto](../eo/#BH08822)» 
+
+«[Português (BR)](../pt/#BH08822)» 
+
+«[English](../en/#BH08822)» 
 
 
 
@@ -6373,7 +6747,9 @@ Verily, Thou art the supreme Ruler, the Sovereign Truth, the Help in Peril, the 
 (Bahaiprayers.net ID: 318)
 
 
+«[Español](../es/#BB00621)» 
 
+«[English](../en/#BB00621)» 
 
 
 
@@ -6387,7 +6763,9 @@ Grant, O my God, that I may not be reckoned among those whose ears are deaf, who
 (Bahaiprayers.net ID: 317)
 
 
+«[Nederlands](../nl/#BB00554)» 
 
+«[English](../en/#BB00554)» 
 
 
 
@@ -6399,7 +6777,15 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 (Bahaiprayers.net ID: 319)
 
 
+«[Italiano](../it/#AB00001FIR)» 
 
+«[Nederlands](../nl/#AB00001FIR)» 
+
+«[Esperanto](../eo/#AB00001FIR)» 
+
+«[Português (BR)](../pt/#AB00001FIR)» 
+
+«[English](../en/#AB00001FIR)» 
 
 
 
@@ -6413,7 +6799,9 @@ Verily, Thou art the Generous, the Ever-Giving, the Precious, the Most Bountiful
 (Bahaiprayers.net ID: 320)
 
 
+«[Nederlands](../nl/#AB00687SEE)» 
 
+«[English](../en/#AB00687SEE)» 
 
 
 
@@ -6469,7 +6857,11 @@ Verily, He is the Merciful, the Compassionate. Praise be to God, the Lord of all
 (Bahaiprayers.net ID: 386)
 
 
+«[Esperanto](../eo/#BH02022)» 
 
+«[English](../en/#BH02022)» 
+
+«[Frysk](../fy/#BH02022)» 
 
 
 
@@ -6719,7 +7111,9 @@ Glorified be our Lord, the Most High!
 (Bahaiprayers.net ID: 388)
 
 
+«[Nederlands](../nl/#AB00204MAR)» 
 
+«[English](../en/#AB00204MAR)» 
 
 
 
@@ -6751,7 +7145,7 @@ Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, 
 (Bahaiprayers.net ID: 389)
 
 
-
+«[English](../en/#BH02307)» 
 
 
 
@@ -6776,7 +7170,7 @@ Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Mercif
 (Bahaiprayers.net ID: 390)
 
 
-
+«[English](../en/#AB03082)» 
 
 
 
@@ -6802,7 +7196,9 @@ Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou des
 (Bahaiprayers.net ID: 430)
 
 
+«[Esperanto](../eo/#AB00049RAP)» 
 
+«[English](../en/#AB00049RAP)» 
 
 
 
@@ -6826,7 +7222,7 @@ Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of
 (Bahaiprayers.net ID: 431)
 
 
-
+«[English](../en/#AB00094WEA)» 
 
 
 
@@ -6843,7 +7239,11 @@ Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All
 (Bahaiprayers.net ID: 436)
 
 
+«[Nederlands](../nl/#AB00169FRA)» 
 
+«[Português (BR)](../pt/#AB00169FRA)» 
+
+«[English](../en/#AB00169FRA)» 
 
 
 
@@ -6860,7 +7260,9 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 (Bahaiprayers.net ID: 330)
 
 
+«[Nederlands](../nl/#AB00218SOU)» 
 
+«[English](../en/#AB00218SOU)» 
 
 
 
@@ -6882,7 +7284,7 @@ Verily, Thou art the Powerful, the Mighty, the Omnipotent.
 (Bahaiprayers.net ID: 336)
 
 
-
+«[English](../en/#AB00169BEH)» 
 
 
 
@@ -6904,7 +7306,7 @@ Verily, Thou art the Powerful, the Mighty, the Wise and the Seeing.
 (Bahaiprayers.net ID: 432)
 
 
-
+«[English](../en/#AB00241HIG)» 
 
 
 
@@ -6922,7 +7324,9 @@ Thou art the Omnipotent and the Doer of whatsoever Thou willest.
 (Bahaiprayers.net ID: 433)
 
 
+«[Nederlands](../nl/#AB00209UND)» 
 
+«[English](../en/#AB00209UND)» 
 
 
 
@@ -6941,7 +7345,7 @@ O Lord! I am weak, strengthen me with Thy power and potency. My tongue falters, 
 (Bahaiprayers.net ID: 434)
 
 
-
+«[English](../en/#AB00184KIN)» 
 
 
 
@@ -6958,7 +7362,9 @@ O Lord! I am single, alone and lowly. For me there is no support save Thee, no h
 (Bahaiprayers.net ID: 435)
 
 
+«[Esperanto](../eo/#AB00210BIR)» 
 
+«[English](../en/#AB00210BIR)» 
 
 
 
@@ -6977,7 +7383,9 @@ Thou, verily, art the Most Powerful, the Most High, the All-Knowing, the All-Wis
 (Bahaiprayers.net ID: 322)
 
 
+«[Português (BR)](../pt/#BH08242)» 
 
+«[English](../en/#BH08242)» 
 
 
 
@@ -6992,7 +7400,9 @@ Thou, in truth, art the God of strength and power, Who art meet to answer them t
 (Bahaiprayers.net ID: 324)
 
 
+«[Español](../es/#BH08363)» 
 
+«[English](../en/#BH08363)» 
 
 
 
@@ -7006,7 +7416,11 @@ Since Thou hast guided them, O my Lord, unto the living waters of Thy grace, gra
 (Bahaiprayers.net ID: 321)
 
 
+«[Français](../fr/#BH08433)» 
 
+«[Esperanto](../eo/#BH08433)» 
+
+«[English](../en/#BH08433)» 
 
 
 
@@ -7020,7 +7434,7 @@ Verily, potent art Thou to do whatsoever Thou willest, and in Thy grasp Thou hol
 (Bahaiprayers.net ID: 325)
 
 
-
+«[English](../en/#BH00223MAG)» 
 
 
 
@@ -7039,7 +7453,7 @@ I beseech Thee, by Thyself and by whatsoever is of Thee, to grant that I may hel
 (Bahaiprayers.net ID: 6670)
 
 
-
+«[English](../en/#bpn6670)» 
 
 
 
@@ -7054,7 +7468,7 @@ Glory be to Thee Who hast caused all the holy Ones to confess their helplessness
 (Bahaiprayers.net ID: 6787)
 
 
-
+«[English](../en/#bpn6787)» 
 
 
 
@@ -7069,7 +7483,7 @@ O my Lord and my Master! O my Desired One and my Best Beloved! O Thou who art th
 (Bahaiprayers.net ID: 6806)
 
 
-
+«[English](../en/#bpn6806)» 
 
 
 
@@ -7084,7 +7498,9 @@ I beg of Thee, O Thou King of existence and Protector of the seen and the unseen
 (Bahaiprayers.net ID: 323)
 
 
+«[Nederlands](../nl/#BH00308DES)» 
 
+«[English](../en/#BH00308DES)» 
 
 
 
@@ -7096,7 +7512,7 @@ He that summoneth men in My name is, verily, of Me, and he will show forth that 
 (Bahaiprayers.net ID: 9524)
 
 
-
+«[English](../en/#bpn9524)» 
 
 
 
@@ -7109,7 +7525,9 @@ Thou art, verily, the Generous, the Forgiving.
 (Bahaiprayers.net ID: 326)
 
 
+«[Esperanto](../eo/#AB05805SER)» 
 
+«[English](../en/#AB05805SER)» 
 
 
 
@@ -7124,7 +7542,11 @@ Verily, Thou art He of abounding grace.  There is none other God save Thee, the 
 (Bahaiprayers.net ID: 328)
 
 
+«[Nederlands](../nl/#AB00156LOW)» 
 
+«[Português (BR)](../pt/#AB00156LOW)» 
+
+«[English](../en/#AB00156LOW)» 
 
 
 
@@ -7138,7 +7560,7 @@ O God!  Protect me from tests.  Thou knowest full well that I have turned away f
 (Bahaiprayers.net ID: 329)
 
 
-
+«[English](../en/#AB05167)» 
 
 
 
@@ -7159,7 +7581,7 @@ Thou art the Protector, the Watcher, the Compassionate and the Merciful!
 (Bahaiprayers.net ID: 6798)
 
 
-
+«[English](../en/#bpn6798)» 
 
 
 
@@ -7171,7 +7593,9 @@ O God, my God!  Aid Thou Thy trusted servants to have loving and tender hearts. 
 (Bahaiprayers.net ID: 327)
 
 
+«[Português (BR)](../pt/#AB00189AID)» 
 
+«[English](../en/#AB00189AID)» 
 
 
 
@@ -7188,7 +7612,9 @@ Cause me, then, to turn wholly unto Thee, to put my whole trust in Thee, to seek
 (Bahaiprayers.net ID: 340)
 
 
+«[Afrikaans](../af/#BH05071)» 
 
+«[English](../en/#BH05071)» 
 
 
 
@@ -7204,7 +7630,7 @@ I beseech Thee, O my God, by them and by the sighs which their hearts utter in t
 (Bahaiprayers.net ID: 438)
 
 
-
+«[English](../en/#BH09874)» 
 
 
 
@@ -7216,7 +7642,9 @@ O Thou Whose tests are a healing medicine to such as are nigh unto Thee, Whose s
 (Bahaiprayers.net ID: 337)
 
 
+«[Nederlands](../nl/#BH08600TES)» 
 
+«[English](../en/#BH08600TES)» 
 
 
 
@@ -7231,7 +7659,9 @@ Potent art Thou to do what pleaseth Thee.  No God is there but Thee, the Help in
 (Bahaiprayers.net ID: 338)
 
 
+«[Español](../es/#BH02524)» 
 
+«[English](../en/#BH02524)» 
 
 
 
@@ -7248,7 +7678,7 @@ Naked am I, O my God! Clothe me with the robe of Thy tender mercies. I am sore a
 (Bahaiprayers.net ID: 6668)
 
 
-
+«[English](../en/#bpn6668)» 
 
 
 
@@ -7265,7 +7695,7 @@ They themselves, O my Lord, have waited at the door of Thy grace. Do Thou open i
 (Bahaiprayers.net ID: 6814)
 
 
-
+«[English](../en/#bpn6814)» 
 
 
 
@@ -7279,7 +7709,7 @@ And, finally, I beg of Thee by the light of Thy countenance to bless my affairs,
 (Bahaiprayers.net ID: 339)
 
 
-
+«[English](../en/#BH03629GRI)» 
 
 
 
@@ -7293,7 +7723,7 @@ Immensely exalted art Thou, O Lord of the heavens and earth, above the praise of
 (Bahaiprayers.net ID: 342)
 
 
-
+«[English](../en/#BB00001KNO)» 
 
 
 
@@ -7305,7 +7735,7 @@ O Lord!  Thou art the Remover of every anguish and the Dispeller of every afflic
 (Bahaiprayers.net ID: 344)
 
 
-
+«[English](../en/#BB00630)» 
 
 
 
@@ -7317,7 +7747,17 @@ Is there any Remover of difficulties save God?  Say: Praised be God! He is God! 
 (Bahaiprayers.net ID: 341)
 
 
+«[Français](../fr/#BB00623)» 
 
+«[Esperanto](../eo/#BB00623)» 
+
+«[Português (BR)](../pt/#BB00623)» 
+
+«[Papiamentu](../pap/#BB00623)» 
+
+«[English](../en/#BB00623)» 
+
+«[Frysk](../fy/#BB00623)» 
 
 
 
@@ -7329,7 +7769,7 @@ I adjure Thee by Thy might, O my God!  Let no harm beset me in times of tests, a
 (Bahaiprayers.net ID: 343)
 
 
-
+«[English](../en/#BB00018ADJ)» 
 
 
 
@@ -7379,7 +7819,7 @@ O ye loved ones of the Lord! Praise be to Him, the unseen, welling bounties of t
 (Bahaiprayers.net ID: 12223)
 
 
-
+«[English](../en/#bpn12223)» 
 
 
 
@@ -7405,7 +7845,7 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 (Bahaiprayers.net ID: 6442)
 
 
-
+«[English](../en/#bpn6442)» 
 
 
 
@@ -7420,7 +7860,7 @@ O my God and my Master!  Thou seest me among Thy creatures who have rebelled and
 (Bahaiprayers.net ID: 6833)
 
 
-
+«[English](../en/#bpn6833)» 
 
 
 
@@ -7467,7 +7907,7 @@ The Importance of Obligatory Prayer and Fasting, VI
 (Bahaiprayers.net ID: 6834)
 
 
-
+«[English](../en/#bpn6834)» 
 
 
 
@@ -7492,7 +7932,15 @@ I beseech Thee, O my Lord, by Thyself, and by Thy signs, and Thy clear tokens, a
 (Bahaiprayers.net ID: 372)
 
 
+«[Français](../fr/#BH01125)» 
 
+«[Italiano](../it/#BH01125)» 
+
+«[Nederlands](../nl/#BH01125)» 
+
+«[Español](../es/#BH01125)» 
+
+«[English](../en/#BH01125)» 
 
 
 
@@ -7511,7 +7959,9 @@ Assist them, O my God, to render Thee victorious and to exalt Thy Word.  Suffer 
 (Bahaiprayers.net ID: 370)
 
 
+«[Nederlands](../nl/#BH00154FIR)» 
 
+«[English](../en/#BH00154FIR)» 
 
 
 
@@ -7523,7 +7973,7 @@ In the Name of Him Who hath been promised in the Books of God, the All-Knowing, 
 (Bahaiprayers.net ID: 371)
 
 
-
+«[English](../en/#BH10127)» 
 
 
 
@@ -7538,7 +7988,9 @@ There is no God but Thee, the All-Knowing, the All-Wise.  All praise be to God, 
 (Bahaiprayers.net ID: 373)
 
 
+«[Esperanto](../eo/#BH07657)» 
 
+«[English](../en/#BH07657)» 
 
 
 
@@ -7558,7 +8010,9 @@ Render Thy Cause victorious, O my Lord, and abase Thou Thine enemies. Write down
 (Bahaiprayers.net ID: 374)
 
 
+«[Nederlands](../nl/#BH01888)» 
 
+«[English](../en/#BH01888)» 
 
 
 
@@ -7593,7 +8047,11 @@ Praised be Thou, O my God, inasmuch as Thou hast aided us to recognize and love 
 (Bahaiprayers.net ID: 375)
 
 
+«[Nederlands](../nl/#BH00778)» 
 
+«[Español](../es/#BH00778)» 
+
+«[English](../en/#BH00778)» 
 
 
 
@@ -7605,7 +8063,11 @@ Praise be unto Thee, O Lord my God!  We have observed the Fast in conformity wit
 (Bahaiprayers.net ID: 376)
 
 
+«[Nederlands](../nl/#BH10581)» 
 
+«[Português (BR)](../pt/#BH10581)» 
+
+«[English](../en/#BH10581)» 
 
 
 
@@ -7617,7 +8079,9 @@ Praised be Thou, O God, my God!  These are the days whereon Thou hast enjoined T
 (Bahaiprayers.net ID: 377)
 
 
+«[Nederlands](../nl/#BH01503ENJ)» 
 
+«[English](../en/#BH01503ENJ)» 
 
 
 
@@ -7632,7 +8096,7 @@ O Divine Providence! As I am abstaining from bodily desires and not occupied wit
 (Bahaiprayers.net ID: 6808)
 
 
-
+«[English](../en/#bpn6808)» 
 
 
 
@@ -7649,7 +8113,7 @@ Verily Thou art the Almighty, the Ever-Forgiving, the Most Generous.
 (Bahaiprayers.net ID: 347)
 
 
-
+«[English](../en/#BH05703KEP)» 
 
 
 
@@ -7667,7 +8131,7 @@ Potent art thou to do what pleaseth Thee. Thou art, verily, the Help in Peril, t
 (Bahaiprayers.net ID: 439)
 
 
-
+«[English](../en/#bpn439)» 
 
 
 
@@ -7681,7 +8145,9 @@ Powerful art Thou to do whatsoever Thou willest.  No God is there but Thee, the 
 (Bahaiprayers.net ID: 345)
 
 
+«[Nederlands](../nl/#BH09809)» 
 
+«[English](../en/#BH09809)» 
 
 
 
@@ -7694,7 +8160,9 @@ Potent art Thou to do what pleaseth Thee.  Thou, verily, art the Help in Peril, 
 (Bahaiprayers.net ID: 346)
 
 
+«[Español](../es/#BH11278RIV)» 
 
+«[English](../en/#BH11278RIV)» 
 
 
 
@@ -7708,7 +8176,11 @@ Verily, Thou art our Lord and the Lord of all things.  Into Thy hands do we surr
 (Bahaiprayers.net ID: 350)
 
 
+«[Nederlands](../nl/#BB00543VIC)» 
 
+«[Español](../es/#BB00543VIC)» 
+
+«[English](../en/#BB00543VIC)» 
 
 
 
@@ -7721,7 +8193,9 @@ From time immemorial Thou hast been potent to do what pleaseth Thee and transcen
 (Bahaiprayers.net ID: 351)
 
 
+«[Esperanto](../eo/#BB00002ENA)» 
 
+«[English](../en/#BB00002ENA)» 
 
 
 
@@ -7734,7 +8208,9 @@ Great is the blessedness of those whose blood Thou hast chosen wherewith to wate
 (Bahaiprayers.net ID: 349)
 
 
+«[Nederlands](../nl/#BB00147GRO)» 
 
+«[English](../en/#BB00147GRO)» 
 
 
 
@@ -7749,7 +8225,11 @@ Grant Thou, O Lord, that their hearts may, through allegiance to this, Thine inv
 (Bahaiprayers.net ID: 348)
 
 
+«[Español](../es/#BB00004REN)» 
 
+«[Esperanto](../eo/#BB00004REN)» 
+
+«[English](../en/#BB00004REN)» 
 
 
 
@@ -7764,7 +8244,9 @@ The glory of glories rest upon them that are fast and firm.
 (Bahaiprayers.net ID: 353)
 
 
+«[Nederlands](../nl/#AB00527)» 
 
+«[English](../en/#AB00527)» 
 
 
 
@@ -7784,7 +8266,11 @@ Verily, Thou art the Merciful, the Compassionate.
 (Bahaiprayers.net ID: 352)
 
 
+«[Nederlands](../nl/#AB00065KIN)» 
 
+«[Português (BR)](../pt/#AB00065KIN)» 
+
+«[English](../en/#AB00065KIN)» 
 
 
 
@@ -7800,7 +8286,7 @@ God is sufficient unto me; He verily is the All-sufficing! In Him let the trusti
 (Bahaiprayers.net ID: 2455)
 
 
-
+«[English](../en/#bpn2455)» 
 
 
 
@@ -7819,7 +8305,7 @@ O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creati
 (Bahaiprayers.net ID: 6792)
 
 
-
+«[English](../en/#bpn6792)» 
 
 
 
@@ -7834,7 +8320,7 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 (Bahaiprayers.net ID: 6791)
 
 
-
+«[English](../en/#bpn6791)» 
 
 
 
@@ -7854,7 +8340,7 @@ Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt 
 (Bahaiprayers.net ID: 6790)
 
 
-
+«[English](../en/#bpn6790)» 
 
 
 
@@ -7871,7 +8357,13 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 (Bahaiprayers.net ID: 354)
 
 
+«[Esperanto](../eo/#BH10505)» 
 
+«[Papiamentu](../pap/#BH10505)» 
+
+«[English](../en/#BH10505)» 
+
+«[Frysk](../fy/#BH10505)» 
 
 
 
@@ -7887,7 +8379,11 @@ Verily, Thou art the Almighty, the Self-Subsistent, the Giver, the Forgiving, th
 (Bahaiprayers.net ID: 355)
 
 
+«[Nederlands](../nl/#ABU0023UNI)» 
 
+«[Esperanto](../eo/#ABU0023UNI)» 
+
+«[English](../en/#ABU0023UNI)» 
 
 
 
@@ -7906,7 +8402,11 @@ No God is there beside Thee, the Mighty, the Ever-Abiding, the All-Bounteous, th
 (Bahaiprayers.net ID: 356)
 
 
+«[Nederlands](../nl/#BH09162)» 
 
+«[Español](../es/#BH09162)» 
+
+«[English](../en/#BH09162)» 
 
 
 
@@ -7920,7 +8420,9 @@ No God is there but Thee, the Almighty, the Most Exalted, the All-Glorious, the 
 (Bahaiprayers.net ID: 357)
 
 
+«[Español](../es/#BH09399)» 
 
+«[English](../en/#BH09399)» 
 
 
 
@@ -7935,7 +8437,7 @@ Powerful art Thou to do what Thou pleasest.  Thou art, verily, the All-Knowing, 
 (Bahaiprayers.net ID: 358)
 
 
-
+«[English](../en/#BH06429)» 
 
 
 
@@ -7950,7 +8452,7 @@ Thou art, verily, the Ever-Forgiving, the Most Merciful.
 (Bahaiprayers.net ID: 359)
 
 
-
+«[English](../en/#BH07663)» 
 
 
 
@@ -7965,7 +8467,9 @@ There is no God but Thee, the God of power, the God of glory, the God of knowled
 (Bahaiprayers.net ID: 361)
 
 
+«[Nederlands](../nl/#BH08852)» 
 
+«[English](../en/#BH08852)» 
 
 
 
@@ -7981,7 +8485,9 @@ Potent art Thou to do what pleaseth Thee.  No God is there but Thee, the Almight
 (Bahaiprayers.net ID: 362)
 
 
+«[Español](../es/#BH10231)» 
 
+«[English](../en/#BH10231)» 
 
 
 
@@ -8004,7 +8510,7 @@ Thou art, verily, the Lord of creation. No God is there beside Thee, the Ever-Fo
 (Bahaiprayers.net ID: 6669)
 
 
-
+«[English](../en/#bpn6669)» 
 
 
 
@@ -8023,7 +8529,7 @@ Thou art, verily, the Lord of the Judgment Day.
 (Bahaiprayers.net ID: 6811)
 
 
-
+«[English](../en/#bpn6811)» 
 
 
 
@@ -8044,7 +8550,7 @@ No God is there beside Thee, the All-Glorious, the Great Giver, the Forgiving, t
 (Bahaiprayers.net ID: 6813)
 
 
-
+«[English](../en/#bpn6813)» 
 
 
 
@@ -8059,7 +8565,9 @@ Thou art, in truth, the God of power, of strength and glory.
 (Bahaiprayers.net ID: 360)
 
 
+«[Nederlands](../nl/#BH07426DRE)» 
 
+«[English](../en/#BH07426DRE)» 
 
 
 
@@ -8080,7 +8588,7 @@ Thou hast power to do what Thou willest, and Thou ordainest what Thou pleasest.
 (Bahaiprayers.net ID: 6812)
 
 
-
+«[English](../en/#bpn6812)» 
 
 
 
@@ -8095,7 +8603,7 @@ O Lord! Help this daughter of the Kingdom to be exalted in both worlds; cause he
 (Bahaiprayers.net ID: 6810)
 
 
-
+«[English](../en/#bpn6810)» 
 
 
 
@@ -8107,7 +8615,11 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 (Bahaiprayers.net ID: 401)
 
 
+«[Italiano](../it/#AB10769)» 
 
+«[Esperanto](../eo/#AB10769)» 
+
+«[English](../en/#AB10769)» 
 
 
 
@@ -8121,7 +8633,7 @@ Verily, Thou art the Forgiver, the Bestower, and the Kind.
 (Bahaiprayers.net ID: 10520)
 
 
-
+«[English](../en/#bpn10520)» 
 
 
 
@@ -8137,7 +8649,7 @@ O my Lord! I dedicate that which is in my womb to Thee. Grant that this child ma
 (Bahaiprayers.net ID: 413)
 
 
-
+«[English](../en/#bpn413)» 
 
 
 
@@ -8156,7 +8668,7 @@ Thou art the All-Powerful, the All-Glorious, the Omnipotent.
 (Bahaiprayers.net ID: 369)
 
 
-
+«[English](../en/#AB02825)» 
 
 
 
@@ -8170,7 +8682,7 @@ O Thou kind Lord!  Grant that this youth may attain unto that which is the highe
 (Bahaiprayers.net ID: 365)
 
 
-
+«[English](../en/#AB00314HOR)» 
 
 
 
@@ -8182,7 +8694,7 @@ O Lord! Make this youth radiant and confer Thy bounty upon this poor creature. B
 (Bahaiprayers.net ID: 10130)
 
 
-
+«[English](../en/#bpn10130)» 
 
 
 
@@ -8197,7 +8709,7 @@ Thou art the Mighty and the Powerful, Thou art the Bestower and the All-Loving.
 (Bahaiprayers.net ID: 10137)
 
 
-
+«[English](../en/#bpn10137)» 
 
 
 
@@ -8211,7 +8723,7 @@ Thou art the Bestower, the All-Loving.
 (Bahaiprayers.net ID: 10142)
 
 
-
+«[English](../en/#bpn10142)» 
 
 
 

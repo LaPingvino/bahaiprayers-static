@@ -108,7 +108,7 @@ Isinasamo ko sa Iyo, O aking Panginoon, sa Iyong Sarili, at sa Iyong mga tanda, 
 (Bahaiprayers.net ID: 4537)
 
 
-
+«[Filipino](../tl/#bpn4537)» 
 
 
 
@@ -126,7 +126,7 @@ Walang Diyos liban sa Iyo, ang Nakababatid ng Lahat, ang Marunong sa Lahat. Laha
 (Bahaiprayers.net ID: 4538)
 
 
-
+«[Filipino](../tl/#bpn4538)» 
 
 
 
@@ -154,7 +154,7 @@ Pagtagumpayin Mo ang Iyong Kapakanan, O aking Panginoon, at gapiin ang Iyong mga
 (Bahaiprayers.net ID: 4539)
 
 
-
+«[Filipino](../tl/#bpn4539)» 
 
 
 
@@ -272,7 +272,7 @@ Kung babasahin at pagninilay-nilayan ito ng lahat ng mga tagapaglingkod, magnini
 (Bahaiprayers.net ID: 4532)
 
 
-
+«[Filipino](../tl/#bpn4532)» 
 
 
 
@@ -302,7 +302,7 @@ Pagpalain Mo, Panginoon kong Diyos, ang Banal na Punong-Lote at ang mga dahon ni
 (Bahaiprayers.net ID: 4534)
 
 
-
+«[Filipino](../tl/#bpn4534)» 
 
 
 
@@ -326,7 +326,7 @@ Ikaw ang Tagapagkaloob, ang Maawain, ang Pinakamapagpala, ang Mapagbigay-biyaya,
 (Bahaiprayers.net ID: 4535)
 
 
-
+«[Filipino](../tl/#bpn4535)» 
 
 
 
@@ -376,7 +376,7 @@ Tunay, Siya ang Mahabagin, ang Maawain. Luwalhatiin ang Diyos, ang Panginoon ng 
 (Bahaiprayers.net ID: 4533)
 
 
-
+«[Filipino](../tl/#bpn4533)» 
 
 
 
@@ -398,7 +398,7 @@ Walang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Matalino sa Lahat.
 (Bahaiprayers.net ID: 4379)
 
 
-
+«[Filipino](../tl/#bpn4379)» 
 
 
 
@@ -416,7 +416,7 @@ Iatas mo para sa akin, sa Iyong pag­papala, O Panginoon, yaong makapagpapasagan
 (Bahaiprayers.net ID: 4380)
 
 
-
+«[Filipino](../tl/#bpn4380)» 
 
 
 
@@ -432,7 +432,7 @@ Ikaw ang Nagpapatawad, ang Mapagbigay-biyaya.
 (Bahaiprayers.net ID: 4381)
 
 
-
+«[Filipino](../tl/#bpn4381)» 
 
 
 
@@ -444,7 +444,7 @@ O Mahabaging Diyos! Salamat sa Iyo dahil sa ginising Mo ako at binigyan ng kamal
 (Bahaiprayers.net ID: 4382)
 
 
-
+«[Filipino](../tl/#bpn4382)» 
 
 
 
@@ -458,7 +458,7 @@ Sa katunayan, Ikaw ang Hindi Malulupig; ang Pinakamalakas, ang Makapangyarihan s
 (Bahaiprayers.net ID: 4383)
 
 
-
+«[Filipino](../tl/#bpn4383)» 
 
 
 
@@ -476,7 +476,7 @@ May kakayahan Kang gumawa ng Iyong ninanais. Tunay na Ikaw ang Kataas-taasan, an
 (Bahaiprayers.net ID: 4394)
 
 
-
+«[Filipino](../tl/#bpn4394)» 
 
 
 
@@ -488,7 +488,7 @@ Likhain Mo sa akin ang isang pusong dalisay, O aking Diyos, at gawin Mong paniba
 (Bahaiprayers.net ID: 4395)
 
 
-
+«[Filipino](../tl/#bpn4395)» 
 
 
 
@@ -506,7 +506,7 @@ Panginoon! Huwag Mo akong ilayo sa karagatan ng Iyong kayamanan at sa langit ng 
 (Bahaiprayers.net ID: 4396)
 
 
-
+«[Filipino](../tl/#bpn4396)» 
 
 
 
@@ -520,7 +520,7 @@ Tunay na Ikaw ang Makapangyarihan sa lahat, ang Maluwalhati sa Lahat, ang Pinaka
 (Bahaiprayers.net ID: 4397)
 
 
-
+«[Filipino](../tl/#bpn4397)» 
 
 
 
@@ -536,7 +536,7 @@ Tunay na Ikaw ang Tulong sa Panganib sa pamamagitan ng lakas ng Iyong paghahari.
 (Bahaiprayers.net ID: 4398)
 
 
-
+«[Filipino](../tl/#bpn4398)» 
 
 
 
@@ -550,7 +550,7 @@ Tulutan ang tagapaglingkod na ito, isinasamo ko sa Iyo, ay makarating doon sa da
 (Bahaiprayers.net ID: 4399)
 
 
-
+«[Filipino](../tl/#bpn4399)» 
 
 
 
@@ -570,7 +570,7 @@ Saksi ang Iyong kapangyarihan, O Ikaw na niluwalhati sa mga puso ng mga tao, ako
 (Bahaiprayers.net ID: 4400)
 
 
-
+«[Filipino](../tl/#bpn4400)» 
 
 
 
@@ -588,7 +588,7 @@ Sa katunayan kung nanaisin Mo na magbigay ng biyaya sa isang tagapaglingkod, kak
 (Bahaiprayers.net ID: 4402)
 
 
-
+«[Filipino](../tl/#bpn4402)» 
 
 
 
@@ -604,7 +604,7 @@ Ikaw, sa katunayan, ang Malakas, ang Dinadakila, ang Makapangyarihan, na Siya la
 (Bahaiprayers.net ID: 4408)
 
 
-
+«[Filipino](../tl/#bpn4408)» 
 
 
 
@@ -616,7 +616,7 @@ O Diyos, panariwain at bigyang-galak ang aking espiritu. Dalisayin ang aking pus
 (Bahaiprayers.net ID: 4403)
 
 
-
+«[Filipino](../tl/#bpn4403)» 
 
 
 
@@ -634,7 +634,7 @@ Tunay na Ikaw ay Mahabagin at tunay na Ikaw ang Pinaka Magandang-loob, ang Matul
 (Bahaiprayers.net ID: 4404)
 
 
-
+«[Filipino](../tl/#bpn4404)» 
 
 
 
@@ -646,7 +646,7 @@ O aking Panginoon! O aking Panginoon! Ito ay isang ilawang pinagsindi ng apoy ng
 (Bahaiprayers.net ID: 4405)
 
 
-
+«[Filipino](../tl/#bpn4405)» 
 
 
 
@@ -658,7 +658,7 @@ O aking Diyos! O aking Diyos! Ito ang Iyong tagapaglingkod, ay sumulong tungo sa
 (Bahaiprayers.net ID: 4406)
 
 
-
+«[Filipino](../tl/#bpn4406)» 
 
 
 
@@ -676,7 +676,7 @@ Sa katunayan, Ikaw ang Napakalakas, ang Makapangyarihan, ang Tagapagtanggol, ang
 (Bahaiprayers.net ID: 4407)
 
 
-
+«[Filipino](../tl/#bpn4407)» 
 
 
 
@@ -692,7 +692,7 @@ O Panginoon, aking Diyos! Aba ang Iyong mga tagapaglingkod na ito, luwalhatiin M
 (Bahaiprayers.net ID: 4409)
 
 
-
+«[Filipino](../tl/#bpn4409)» 
 
 
 
@@ -708,7 +708,7 @@ Ikaw ang Malakas, ang Makapangyarihan, at Ikaw ang Diyos ng kalakasan, ang Makap
 (Bahaiprayers.net ID: 4410)
 
 
-
+«[Filipino](../tl/#bpn4410)» 
 
 
 
@@ -726,7 +726,7 @@ Walang ibang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Nakasasakop s
 (Bahaiprayers.net ID: 4411)
 
 
-
+«[Filipino](../tl/#bpn4411)» 
 
 
 
@@ -742,7 +742,7 @@ Saksi ang Iyong kapangyarihan! Wala akong hinihiling, tulog o gising man, kundi 
 (Bahaiprayers.net ID: 4412)
 
 
-
+«[Filipino](../tl/#bpn4412)» 
 
 
 
@@ -758,7 +758,7 @@ Tunay, Ikaw ang Tagapagbigay, ang Magandang-loob, ang Mahabagin, ang Mapagpatawa
 (Bahaiprayers.net ID: 4413)
 
 
-
+«[Filipino](../tl/#bpn4413)» 
 
 
 
@@ -781,7 +781,7 @@ Tunay na Ikaw ang Nagbibigay Lakas, ang Tumutulong, ang Magandang-loob, ang Mapa
 (Bahaiprayers.net ID: 4414)
 
 
-
+«[Filipino](../tl/#bpn4414)» 
 
 
 
@@ -797,7 +797,7 @@ Ipagkaloob Mo sa amin ang kakanin sa araw-araw at ang Iyong mga karagdagang biya
 (Bahaiprayers.net ID: 4415)
 
 
-
+«[Filipino](../tl/#bpn4415)» 
 
 
 
@@ -817,7 +817,7 @@ Walang iba, O aking Panginoon, na makapagpapala sa akin at mapagbabalingan ko ng
 (Bahaiprayers.net ID: 4416)
 
 
-
+«[Filipino](../tl/#bpn4416)» 
 
 
 
@@ -831,7 +831,7 @@ Ako, O aking Diyos ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Naki
 (Bahaiprayers.net ID: 4417)
 
 
-
+«[Filipino](../tl/#bpn4417)» 
 
 
 
@@ -843,7 +843,7 @@ Nakikita Mo ako, O aking Panginoon, na ang aking mukha ay nakabaling sa langit n
 (Bahaiprayers.net ID: 4418)
 
 
-
+«[Filipino](../tl/#bpn4418)» 
 
 
 
@@ -863,7 +863,7 @@ Purihin ang Diyos, ang Panginoon ng mga daigdig!
 (Bahaiprayers.net ID: 4419)
 
 
-
+«[Filipino](../tl/#bpn4419)» 
 
 
 
@@ -879,7 +879,7 @@ Patawarin, kung gayon, O aking Panginoon, ang Iyong mga tagapaglingkod at ang Iy
 (Bahaiprayers.net ID: 4420)
 
 
-
+«[Filipino](../tl/#bpn4420)» 
 
 
 
@@ -891,7 +891,7 @@ Nagsusumamo ako na patawarin Mo ako, O aking Panginoon, sa bawat pagbanggit liba
 (Bahaiprayers.net ID: 4423)
 
 
-
+«[Filipino](../tl/#bpn4423)» 
 
 
 
@@ -909,7 +909,7 @@ Ikaw ang Pinakamataas na Pinuno, ang Makapangyarihang Gumagawa, ang Kataas-taasa
 (Bahaiprayers.net ID: 4421)
 
 
-
+«[Filipino](../tl/#bpn4421)» 
 
 
 
@@ -921,7 +921,7 @@ Purihin Ka, O Panginoon! Patawarin kami sa aming mga kasalanan, kaawaan kami at 
 (Bahaiprayers.net ID: 4422)
 
 
-
+«[Filipino](../tl/#bpn4422)» 
 
 
 
@@ -935,7 +935,7 @@ Luwalhatiin Ka nawa, O Panginoon, pinatatawad Mo sa lahat ng oras ang mga kasala
 (Bahaiprayers.net ID: 4424)
 
 
-
+«[Filipino](../tl/#bpn4424)» 
 
 
 
@@ -947,7 +947,7 @@ O Ikaw na mapagpatawad na Panginoon! Ikaw ang kanlungan ng lahat ng mga ito na I
 (Bahaiprayers.net ID: 4425)
 
 
-
+«[Filipino](../tl/#bpn4425)» 
 
 
 
@@ -1015,7 +1015,7 @@ Saksi ako sa Iyong kaisahan at sa Iyong pagkakaisa, na Ikaw ang Diyos, at walang
 (Bahaiprayers.net ID: 4377)
 
 
-
+«[Filipino](../tl/#bpn4377)» 
 
 
 
@@ -1034,7 +1034,7 @@ Ikaw, tunay, ang Diyos ng Kalakasan, ang Tulong sa Panganib, ang Malu­ walhati 
 (Bahaiprayers.net ID: 4427)
 
 
-
+«[Filipino](../tl/#bpn4427)» 
 
 
 
@@ -1058,7 +1058,7 @@ Hinihiling ko sa Iyo, O Panginoon ng lahat na kinapal at Hari ng mga nakikita at
 (Bahaiprayers.net ID: 4428)
 
 
-
+«[Filipino](../tl/#bpn4428)» 
 
 
 
@@ -1074,7 +1074,7 @@ Purihin Ka nawa, O Ikaw na Minamahal ng Lahat ng nakakikilala sa Iyo!
 (Bahaiprayers.net ID: 4426)
 
 
-
+«[Filipino](../tl/#bpn4426)» 
 
 
 
@@ -1088,7 +1088,7 @@ Tulutan, O aking Diyos, na hindi ako mabilang sa yaong bingi ang mga tainga, bul
 (Bahaiprayers.net ID: 4429)
 
 
-
+«[Filipino](../tl/#bpn4429)» 
 
 
 
@@ -1102,7 +1102,7 @@ Sa katunayan, Ikaw ang kataas-taasang Pinuno, ang Pinakamataas na Katotohanan, a
 (Bahaiprayers.net ID: 4430)
 
 
-
+«[Filipino](../tl/#bpn4430)» 
 
 
 
@@ -1114,7 +1114,7 @@ O Panginoon kong Diyos! Tulungan Mo ang Iyong mga minamahal na maging matatag sa
 (Bahaiprayers.net ID: 4431)
 
 
-
+«[Filipino](../tl/#bpn4431)» 
 
 
 
@@ -1130,7 +1130,7 @@ Sa katunayan Ikaw ang Mapagkaloob, ang Laging Nagbibigay, ang Pinakamamahal, ang
 (Bahaiprayers.net ID: 4432)
 
 
-
+«[Filipino](../tl/#bpn4432)» 
 
 
 
@@ -1206,7 +1206,7 @@ Pinatutunayan ko, O aking Diyos, yaong pinatunayan ng Iyong mga hinirang, at tin
 (Bahaiprayers.net ID: 4378)
 
 
-
+«[Filipino](../tl/#bpn4378)» 
 
 
 
@@ -1225,7 +1225,7 @@ Sariling-Ganap.
 (Bahaiprayers.net ID: 4376)
 
 
-
+«[Filipino](../tl/#bpn4376)» 
 
 
 
@@ -1243,7 +1243,7 @@ Purihin Ka, O aking Pinakamamahal, ipasamyo sa kaniya ang matamis na linamnam ng
 (Bahaiprayers.net ID: 4384)
 
 
-
+«[Filipino](../tl/#bpn4384)» 
 
 
 
@@ -1261,7 +1261,7 @@ Purihin ang Diyos, ang Panginoon ng mga daigdig.
 (Bahaiprayers.net ID: 4401)
 
 
-
+«[Filipino](../tl/#bpn4401)» 
 
 
 
@@ -1273,7 +1273,7 @@ O ikaw na walang kahambing na Panginoon! Tulutang maalagaan ang pasusuhing sangg
 (Bahaiprayers.net ID: 4385)
 
 
-
+«[Filipino](../tl/#bpn4385)» 
 
 
 
@@ -1285,7 +1285,7 @@ O Diyos! Palakihin ang munting sanggol na ito sa sinapupunan ng Iyong pag-ibig a
 (Bahaiprayers.net ID: 4386)
 
 
-
+«[Filipino](../tl/#bpn4386)» 
 
 
 
@@ -1297,7 +1297,7 @@ O Diyos! Turuan ang mga batang ito. Ang mga batang ito ang mga pananim sa Iyong 
 (Bahaiprayers.net ID: 4387)
 
 
-
+«[Filipino](../tl/#bpn4387)» 
 
 
 
@@ -1311,7 +1311,7 @@ Ikaw ang Mapagbigay, ang Mapagmahal sa Lahat.
 (Bahaiprayers.net ID: 4388)
 
 
-
+«[Filipino](../tl/#bpn4388)» 
 
 
 
@@ -1327,7 +1327,7 @@ Ikaw ang Makapangyarihan, ang Mapagmahal sa Lahat.
 (Bahaiprayers.net ID: 4389)
 
 
-
+«[Filipino](../tl/#bpn4389)» 
 
 
 
@@ -1339,7 +1339,7 @@ Siya ay Diyos! O Diyos, aking Diyos! Pagkalooban Mo ako ng isang dalisay na puso
 (Bahaiprayers.net ID: 4390)
 
 
-
+«[Filipino](../tl/#bpn4390)» 
 
 
 
@@ -1351,7 +1351,7 @@ O Diyos, patnubayan Mo ako, pangalagaan Mo ako, pagningasin ang tanglaw ng aking
 (Bahaiprayers.net ID: 4391)
 
 
-
+«[Filipino](../tl/#bpn4391)» 
 
 
 
@@ -1367,7 +1367,7 @@ Tunay na Ikaw ang Malakas, ang Makapangyarihan, ang Nakakikita, ang Nakaririnig!
 (Bahaiprayers.net ID: 4392)
 
 
-
+«[Filipino](../tl/#bpn4392)» 
 
 
 
@@ -1379,7 +1379,7 @@ O Panginoon! Paningningin ang kabataan ito, at ipagkaloob ang Iyong biyaya sa ka
 (Bahaiprayers.net ID: 4393)
 
 
-
+«[Filipino](../tl/#bpn4393)» 
 
 
 
@@ -1401,7 +1401,7 @@ O Diyos! Pagkalooban kami ng Iyong pagpapala. Ikaw ang Makapangyarihan! Ikaw ang
 (Bahaiprayers.net ID: 4454)
 
 
-
+«[Filipino](../tl/#bpn4454)» 
 
 
 
@@ -1417,7 +1417,7 @@ Ikaw ay Makapangyarihan! Ikaw ay Malakas! Ikaw ang Tagapagbigay at Ikaw ang Lagi
 (Bahaiprayers.net ID: 4455)
 
 
-
+«[Filipino](../tl/#bpn4455)» 
 
 
 
@@ -1437,7 +1437,7 @@ Ikaw ay Malakas; Ikaw ay Makapangyarihan sa Lahat; Ikaw ay Mahabagin; at Ikaw ay
 (Bahaiprayers.net ID: 4456)
 
 
-
+«[Filipino](../tl/#bpn4456)» 
 
 
 
@@ -1451,7 +1451,7 @@ Sa katunayan Ikaw ang Pinakamakapangyarihan at ang Pinakamalakas.
 (Bahaiprayers.net ID: 4457)
 
 
-
+«[Filipino](../tl/#bpn4457)» 
 
 
 
@@ -1471,7 +1471,7 @@ Pagpalain Mo ako, O aking Diyos, at sila na maniniwala sa Iyong mga sagisag sa i
 (Bahaiprayers.net ID: 4475)
 
 
-
+«[Filipino](../tl/#bpn4475)» 
 
 
 
@@ -1485,7 +1485,7 @@ O aking Diyos! Binigyan Mo ng pagnanais ang aking kaluluwa na maghandog ng panal
 (Bahaiprayers.net ID: 4476)
 
 
-
+«[Filipino](../tl/#bpn4476)» 
 
 
 
@@ -1497,7 +1497,7 @@ O Panginoon! Sa Pinakadakilang Dispensasyon na ito ay tinatanggap Mo na mamagita
 (Bahaiprayers.net ID: 4477)
 
 
-
+«[Filipino](../tl/#bpn4477)» 
 
 
 
@@ -1515,7 +1515,7 @@ Sa katunayan, Ikaw ang Minimithi, ang Laging-Nagbibigay, ang Bukas ang Kamay.
 (Bahaiprayers.net ID: 4478)
 
 
-
+«[Filipino](../tl/#bpn4478)» 
 
 
 
@@ -1529,7 +1529,7 @@ O aking Panginoon, inihahandog ko ang nasa aking sinapupunan sa Iyo. Kung gayon 
 (Bahaiprayers.net ID: 4479)
 
 
-
+«[Filipino](../tl/#bpn4479)» 
 
 
 
@@ -1555,7 +1555,7 @@ Ikaw, sa katotohanan, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
 (Bahaiprayers.net ID: 4540)
 
 
-
+«[Filipino](../tl/#bpn4540)» 
 
 
 
@@ -1581,7 +1581,7 @@ At nang naisin Niyang magpakita ng biyaya at pagpapala sa tao, at isaayos ang da
 (Bahaiprayers.net ID: 4433)
 
 
-
+«[Filipino](../tl/#bpn4433)» 
 
 
 
@@ -1593,7 +1593,7 @@ Luwalhati sa Iyo, O aking Diyos! Tunay, ang Iyong tagapaglingkod at Iyong babaen
 (Bahaiprayers.net ID: 4434)
 
 
-
+«[Filipino](../tl/#bpn4434)» 
 
 
 
@@ -1607,7 +1607,7 @@ O Ikaw na mabait na Panginoon! Gawin Mo ang pag-iisang dibdib na ito ay makapagb
 (Bahaiprayers.net ID: 4435)
 
 
-
+«[Filipino](../tl/#bpn4435)» 
 
 
 
@@ -1621,7 +1621,7 @@ Sa katunayan, Ikaw ang Mapagbigay. Sa katunayan, Ikaw ang Makapangyarihan. Sa ka
 (Bahaiprayers.net ID: 4436)
 
 
-
+«[Filipino](../tl/#bpn4436)» 
 
 
 
@@ -1645,7 +1645,7 @@ Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Sariling-Ganap, ang Tagapagkaloo
 (Bahaiprayers.net ID: 4438)
 
 
-
+«[Filipino](../tl/#bpn4438)» 
 
 
 
@@ -1657,7 +1657,7 @@ O aking Diyos! O aking Diyos! Pagkaisahin ang mga puso ng Iyong mga tagapaglingk
 (Bahaiprayers.net ID: 4437)
 
 
-
+«[Filipino](../tl/#bpn4437)» 
 
 
 
@@ -1677,7 +1677,7 @@ Luwalhatiin ang Iyong pangalan, O Ikaw na Hari ng lahat ng Hari!
 (Bahaiprayers.net ID: 4439)
 
 
-
+«[Filipino](../tl/#bpn4439)» 
 
 
 
@@ -1693,7 +1693,7 @@ Tunay na Ikaw ang Panginoon ng lahat ng tao, ang nagmamay-ari sa daigdig na ito 
 (Bahaiprayers.net ID: 4440)
 
 
-
+«[Filipino](../tl/#bpn4440)» 
 
 
 
@@ -1711,7 +1711,7 @@ Ang Iyong kapangyarihan, sa katotohanan, ay katimbang ng lahat ng bagay.
 (Bahaiprayers.net ID: 4441)
 
 
-
+«[Filipino](../tl/#bpn4441)» 
 
 
 
@@ -1729,7 +1729,7 @@ Makapangyarihan Ka, at magagawa Mo ang Iyong naisin. Tunay na Ikaw ang Makapangy
 (Bahaiprayers.net ID: 4442)
 
 
-
+«[Filipino](../tl/#bpn4442)» 
 
 
 
@@ -1749,7 +1749,7 @@ Walang iba pang Diyos liban sa Iyo ang Makapangyarihan sa Lahat, ang Mapagpala.
 (Bahaiprayers.net ID: 4443)
 
 
-
+«[Filipino](../tl/#bpn4443)» 
 
 
 
@@ -1767,7 +1767,7 @@ Ipagkaloob ang Iyong mga pagpapala, O aking Panginoon, sa mga Tagapagbalita, sa 
 (Bahaiprayers.net ID: 4444)
 
 
-
+«[Filipino](../tl/#bpn4444)» 
 
 
 
@@ -1785,7 +1785,7 @@ Nasa Iyo ang ganap na kapangyarihang mag-utos.
 (Bahaiprayers.net ID: 4445)
 
 
-
+«[Filipino](../tl/#bpn4445)» 
 
 
 
@@ -1803,7 +1803,7 @@ Ikaw ang Makapangyarihan sa Lahat, ang Maluwalhati sa lahat, ang Malakas sa Laha
 (Bahaiprayers.net ID: 4446)
 
 
-
+«[Filipino](../tl/#bpn4446)» 
 
 
 
@@ -1819,7 +1819,7 @@ Ikaw nga, tunay, ang Malakas, ang Laging Nagbibigay, ang May Kakaya­ han, ang M
 (Bahaiprayers.net ID: 4447)
 
 
-
+«[Filipino](../tl/#bpn4447)» 
 
 
 
@@ -1839,7 +1839,7 @@ Makapangyarihan Ka at magagawa Mo ang Iyong marapatin. Walang ibang Diyos liban 
 (Bahaiprayers.net ID: 4448)
 
 
-
+«[Filipino](../tl/#bpn4448)» 
 
 
 
@@ -1853,7 +1853,7 @@ Tunay na Ikaw ang Tagapagpagaling, ang Tagapagbuhay, ang Tumutulong, ang Makapan
 (Bahaiprayers.net ID: 4450)
 
 
-
+«[Filipino](../tl/#bpn4450)» 
 
 
 
@@ -1869,7 +1869,7 @@ Tunay na Ikaw ang Panginoon ng buhay na ito at ng darating. Ikaw sa katotohanan,
 (Bahaiprayers.net ID: 4451)
 
 
-
+«[Filipino](../tl/#bpn4451)» 
 
 
 
@@ -1887,7 +1887,7 @@ Tunay na Ikaw ay lubhang maluwalhati sa ibabaw ng lahat ng iba liban sa Iyo. Tun
 (Bahaiprayers.net ID: 4452)
 
 
-
+«[Filipino](../tl/#bpn4452)» 
 
 
 
@@ -1989,7 +1989,7 @@ Ikaw sa katunayan ang Pinakamalakas, ang Laging may Kasapatan, ang Lumulunas, an
 (Bahaiprayers.net ID: 4453)
 
 
-
+«[Filipino](../tl/#bpn4453)» 
 
 
 
@@ -2001,7 +2001,7 @@ Ang Iyong Pangalan ang makapagpapagaling sa akin, O aking Diyos, at ang Iyong gu
 (Bahaiprayers.net ID: 4449)
 
 
-
+«[Filipino](../tl/#bpn4449)» 
 
 
 
@@ -2021,7 +2021,7 @@ Ngayon na pinatnubayan Mo sila, O aking Panginoon, patungo sa mga buhay ng tubig
 (Bahaiprayers.net ID: 4458)
 
 
-
+«[Filipino](../tl/#bpn4458)» 
 
 
 
@@ -2039,7 +2039,7 @@ Ikaw, tunay, ang Pinakamalakas, ang Kataas-taasan, ang Nakababatid ng Lahat, ang
 (Bahaiprayers.net ID: 4459)
 
 
-
+«[Filipino](../tl/#bpn4459)» 
 
 
 
@@ -2055,7 +2055,7 @@ Isinasamo ko sa Iyo, O Ikaw na Hari ng pagkabuhay at tagapagtanggol ng nakikita 
 (Bahaiprayers.net ID: 4460)
 
 
-
+«[Filipino](../tl/#bpn4460)» 
 
 
 
@@ -2073,7 +2073,7 @@ Ikaw, sa katotohanan, ang Diyos ng lakas at kapangyarihan, na nakatutugon sa lah
 (Bahaiprayers.net ID: 4461)
 
 
-
+«[Filipino](../tl/#bpn4461)» 
 
 
 
@@ -2086,7 +2086,7 @@ Ikaw, sa katunayan, ang Mapagbigay, ang Mapagpatawad.
 (Bahaiprayers.net ID: 4462)
 
 
-
+«[Filipino](../tl/#bpn4462)» 
 
 
 
@@ -2098,7 +2098,7 @@ O Diyos, aking Diyos! Tulungan Mo ang Iyong pinankakatiwalaang mga tagapaglingko
 (Bahaiprayers.net ID: 4463)
 
 
-
+«[Filipino](../tl/#bpn4463)» 
 
 
 
@@ -2116,7 +2116,7 @@ Sa katunayan, Ikaw yaong may walang hanggang pagpapala. Walang ibang Diyos liban
 (Bahaiprayers.net ID: 4464)
 
 
-
+«[Filipino](../tl/#bpn4464)» 
 
 
 
@@ -2132,7 +2132,7 @@ Tunay na Ikaw ang Malakas, ang Makapangyarihan at ang Nakababatid ng Lahat, at I
 (Bahaiprayers.net ID: 4465)
 
 
-
+«[Filipino](../tl/#bpn4465)» 
 
 
 
@@ -2150,7 +2150,7 @@ Tunay na Ikaw ang Tagapagpatibay ng sinumang loobin Mo sa anumang Iyong hinahang
 (Bahaiprayers.net ID: 4466)
 
 
-
+«[Filipino](../tl/#bpn4466)» 
 
 
 
@@ -2172,7 +2172,7 @@ Tunay na Ikaw ang Mapagbigay, ang Malakas, ang Makapangyarihan, ang Pinakamahaba
 (Bahaiprayers.net ID: 4467)
 
 
-
+«[Filipino](../tl/#bpn4467)» 
 
 
 
@@ -2208,7 +2208,7 @@ Tunay na Ikaw ang Pinaka Bukas Palad, ang Panginoon ng Masaganang Biyaya, at tun
 (Bahaiprayers.net ID: 4468)
 
 
-
+«[Filipino](../tl/#bpn4468)» 
 
 
 
@@ -2224,7 +2224,7 @@ O Makapangyarihan sa Lahat! Itunghay sa amin ang sulyap ng kahabagan! Pagkalooba
 (Bahaiprayers.net ID: 4469)
 
 
-
+«[Filipino](../tl/#bpn4469)» 
 
 
 
@@ -2238,7 +2238,7 @@ Ikaw ang Makapangyarihan sa Lahat at ang Gumagawa ng anumang ninanais Mo.
 (Bahaiprayers.net ID: 4470)
 
 
-
+«[Filipino](../tl/#bpn4470)» 
 
 
 
@@ -2254,7 +2254,7 @@ O Panginoon! Ako ay mahina, palakasin ako ng Iyong lakas at kakayahan. Ang aking
 (Bahaiprayers.net ID: 4471)
 
 
-
+«[Filipino](../tl/#bpn4471)» 
 
 
 
@@ -2268,7 +2268,7 @@ O Panginoon! Ako’y walang kasama, nag-iisa at aba. Para sa akin, walang gabay 
 (Bahaiprayers.net ID: 4472)
 
 
-
+«[Filipino](../tl/#bpn4472)» 
 
 
 
@@ -2284,7 +2284,7 @@ Tunay, Ikaw ang Malakas, ang Maluwalhati, ang Tagapagpatawad at ang Mahabagin!
 (Bahaiprayers.net ID: 4473)
 
 
-
+«[Filipino](../tl/#bpn4473)» 
 
 
 
@@ -2302,7 +2302,7 @@ Tunay, Ikaw ang Malakas, ang Ma­kapangyarihan at Pinakamabisa.
 (Bahaiprayers.net ID: 4474)
 
 
-
+«[Filipino](../tl/#bpn4474)» 
 
 
 
@@ -2324,7 +2324,7 @@ Ihulog Mo, kung gayon, O Panginoon ko, sa akin at sa aking mga mahal yaong makap
 (Bahaiprayers.net ID: 4480)
 
 
-
+«[Filipino](../tl/#bpn4480)» 
 
 
 
@@ -2338,7 +2338,7 @@ Ingatan Mo rin siyang ligtas, O aking Diyos, sa pamamagitan ng kapangyarihan ng 
 (Bahaiprayers.net ID: 4481)
 
 
-
+«[Filipino](../tl/#bpn4481)» 
 
 
 
@@ -2350,7 +2350,7 @@ O Diyos, aking Diyos! Ako ay lumabas buhat sa aking tahanan, na nakahawak nang m
 (Bahaiprayers.net ID: 4482)
 
 
-
+«[Filipino](../tl/#bpn4482)» 
 
 
 
@@ -2368,7 +2368,7 @@ Walang Kapangyarihan o lakas mali­ ban sa Diyos, ang Pinakamataas, ang Pinakama
 (Bahaiprayers.net ID: 4483)
 
 
-
+«[Filipino](../tl/#bpn4483)» 
 
 
 
@@ -2382,7 +2382,7 @@ Idulot Mo ang Iyong pagpapatawad sa akin at sa mga mananampalataya na tumanggap 
 (Bahaiprayers.net ID: 4484)
 
 
-
+«[Filipino](../tl/#bpn4484)» 
 
 
 
@@ -2396,7 +2396,7 @@ Di-masukat ang Iyong kadakilaan, O Panginoon! Pangalagaan Mo kami doon sa nasa h
 (Bahaiprayers.net ID: 4485)
 
 
-
+«[Filipino](../tl/#bpn4485)» 
 
 
 
@@ -2408,7 +2408,7 @@ O Diyos, aking Diyos! Ipagsanggalang ang Iyong pinagkakatiwalaang mga tagapaglin
 (Bahaiprayers.net ID: 4486)
 
 
-
+«[Filipino](../tl/#bpn4486)» 
 
 
 
@@ -2424,7 +2424,7 @@ Tunay na Ikaw ang Tagapagtanggol, ang Tagapag-ampon, ang Tagapagligtas, ang Taga
 (Bahaiprayers.net ID: 4487)
 
 
-
+«[Filipino](../tl/#bpn4487)» 
 
 
 
@@ -2450,7 +2450,7 @@ Ikaw, tunay, ang Makapangyarihan sa Lahat, ang Nakababatid ng Lahat, ang Nakatat
 (Bahaiprayers.net ID: 4536)
 
 
-
+«[Filipino](../tl/#bpn4536)» 
 
 
 
@@ -2468,7 +2468,7 @@ Tanglawan, O Panginoon, ang mga mukha ng Iyong mga tagapaglingkod, upang mamalas
 (Bahaiprayers.net ID: 4488)
 
 
-
+«[Filipino](../tl/#bpn4488)» 
 
 
 
@@ -2484,7 +2484,7 @@ Saksi ang Iyong Kaluwalhatian! O Minamahal ng lahat ng puso, Ikaw na nag-iisang 
 (Bahaiprayers.net ID: 4489)
 
 
-
+«[Filipino](../tl/#bpn4489)» 
 
 
 
@@ -2500,7 +2500,7 @@ Ikaw ang Diyos ng lakas, ng kaluwalhatian at pagpapala. Walang Diyos liban sa Iy
 (Bahaiprayers.net ID: 4490)
 
 
-
+«[Filipino](../tl/#bpn4490)» 
 
 
 
@@ -2514,7 +2514,7 @@ Sumasamo ako sa Iyo, O aking Panginoon, sa Iyong Pinakadakilang Pangalan na sa p
 (Bahaiprayers.net ID: 4491)
 
 
-
+«[Filipino](../tl/#bpn4491)» 
 
 
 
@@ -2529,7 +2529,7 @@ Luwalhatiin Ka, hindi maabot ninoman na ilarawan Ka maliban sa Iyong Sarili, dah
 (Bahaiprayers.net ID: 4492)
 
 
-
+«[Filipino](../tl/#bpn4492)» 
 
 
 
@@ -2561,7 +2561,7 @@ Kaming lahat, sa katunayan, ay mapagtiyaga sa Diyos.
 (Bahaiprayers.net ID: 4527)
 
 
-
+«[Filipino](../tl/#bpn4527)» 
 
 
 
@@ -2577,7 +2577,7 @@ Ikaw ay niluluwalhati, di masukat ang pagluluwalhati sa Iyo! Sinasamba Ka sa Iyo
 (Bahaiprayers.net ID: 4528)
 
 
-
+«[Filipino](../tl/#bpn4528)» 
 
 
 
@@ -2609,7 +2609,7 @@ Walang ibang Diyos liban sa Iyo, ang Isa, ang Nag-iisa, ang Makapangyarihan, ang
 (Bahaiprayers.net ID: 6844)
 
 
-
+«[Filipino](../tl/#bpn6844)» 
 
 
 
@@ -2625,7 +2625,7 @@ O aking Panginoon! Padalisayin Mo sila sa kanilang mga pagkakasala, pawiin ang k
 (Bahaiprayers.net ID: 4529)
 
 
-
+«[Filipino](../tl/#bpn4529)» 
 
 
 
@@ -2641,7 +2641,7 @@ Tunay, Ikaw ang Mapagbigay, ang Makapangyarihan, ang Mapagpatawad at ang Mapagpa
 (Bahaiprayers.net ID: 4530)
 
 
-
+«[Filipino](../tl/#bpn4530)» 
 
 
 
@@ -2657,7 +2657,7 @@ Ikaw ang Nagpapatawad, ang Nagbibigay ng Liwanag, ang Makapangyarihan sa Lahat.
 (Bahaiprayers.net ID: 4531)
 
 
-
+«[Filipino](../tl/#bpn4531)» 
 
 
 
@@ -2677,7 +2677,7 @@ Lahat ay dukha at nangangailangan, at tunay na Ikaw ang May-ari ng Lahat, ang Na
 (Bahaiprayers.net ID: 4493)
 
 
-
+«[Filipino](../tl/#bpn4493)» 
 
 
 
@@ -2689,7 +2689,7 @@ O Ikaw na mahabaging Panginoon! Ikaw na magandang-loob at may kakayahan! Kami ay
 (Bahaiprayers.net ID: 4494)
 
 
-
+«[Filipino](../tl/#bpn4494)» 
 
 
 
@@ -2715,7 +2715,7 @@ Ikaw ang Makapangyarihan at Malakas! Ikaw ang Mapagpatawad at Ikaw Siya na hindi
 (Bahaiprayers.net ID: 4495)
 
 
-
+«[Filipino](../tl/#bpn4495)» 
 
 
 
@@ -2731,7 +2731,7 @@ Ikaw sa katunayan ay ang Makapangyarihan, ang Tagapangalaga, ang Mabisa, ang Tag
 (Bahaiprayers.net ID: 4496)
 
 
-
+«[Filipino](../tl/#bpn4496)» 
 
 
 
@@ -2749,7 +2749,7 @@ O Diyos! Aking Diyos! Kami ay mga tagapaglingkod Mo na nagsibaling nang buong ka
 (Bahaiprayers.net ID: 4497)
 
 
-
+«[Filipino](../tl/#bpn4497)» 
 
 
 
@@ -2764,7 +2764,7 @@ O Ikaw na aming Nagkakaloob! Ibaba ang Iyong tulong, na bawat isa sa natitipon d
 (Bahaiprayers.net ID: 4498)
 
 
-
+«[Filipino](../tl/#bpn4498)» 
 
 
 
@@ -2784,7 +2784,7 @@ Tunay na Ikaw ang Magandang-loob, ang Mahabagin! Ikaw ang Nagmamay-ari ng malaki
 (Bahaiprayers.net ID: 4499)
 
 
-
+«[Filipino](../tl/#bpn4499)» 
 
 
 
@@ -2806,7 +2806,7 @@ Ipagkaloob Mo, O Panginoon, na ang kanilang mga puso, sa pamamagitan ng katapata
 (Bahaiprayers.net ID: 4500)
 
 
-
+«[Filipino](../tl/#bpn4500)» 
 
 
 
@@ -2820,7 +2820,7 @@ Napakalaki ng kabanalan nila na ang kanilang dugo ang Iyong napili na pandilig s
 (Bahaiprayers.net ID: 4501)
 
 
-
+«[Filipino](../tl/#bpn4501)» 
 
 
 
@@ -2836,7 +2836,7 @@ Sa katunayan Ikaw ang aming Panginoon at ang Panginoon ng lahat ng mga bagay. Sa
 (Bahaiprayers.net ID: 4502)
 
 
-
+«[Filipino](../tl/#bpn4502)» 
 
 
 
@@ -2848,7 +2848,7 @@ O Panginoon! Tulutang makapsok ang lahat ng mga tao ng daigdig sa Paraiso ng Iyo
 (Bahaiprayers.net ID: 4503)
 
 
-
+«[Filipino](../tl/#bpn4503)» 
 
 
 
@@ -2864,7 +2864,7 @@ Sa katunayan, Ikaw ang Nagbibigay, ang Nagpapatawad, ang Laging Nagka­ kaloob. 
 (Bahaiprayers.net ID: 4504)
 
 
-
+«[Filipino](../tl/#bpn4504)» 
 
 
 
@@ -2882,7 +2882,7 @@ Ang luwalhati ng mga kaluwalhatianay mapasakanilang mga matibay at matatag.
 (Bahaiprayers.net ID: 4505)
 
 
-
+«[Filipino](../tl/#bpn4505)» 
 
 
 
@@ -2900,7 +2900,7 @@ Tunay na Ikaw ang Hari ng lahat ng tao. Walang Diyos liban sa Iyo, ang Laging Na
 (Bahaiprayers.net ID: 4506)
 
 
-
+«[Filipino](../tl/#bpn4506)» 
 
 
 
@@ -2914,7 +2914,7 @@ O Dakilang Maykapal! Ang santinakpan ay nilalang sa Iyong pagpapala; huwag pagka
 (Bahaiprayers.net ID: 4507)
 
 
-
+«[Filipino](../tl/#bpn4507)» 
 
 
 
@@ -2926,7 +2926,7 @@ O aking Diyos, aking Panginoon, at aking Sinusunod! Inihiwalay ko ang aking sari
 (Bahaiprayers.net ID: 4508)
 
 
-
+«[Filipino](../tl/#bpn4508)» 
 
 
 
@@ -2942,7 +2942,7 @@ O Ikaw na Tagapagbigay, O Ikaw na Tagapagpatawad! Ipagkaloob sa amin ang Iyong p
 (Bahaiprayers.net ID: 4509)
 
 
-
+«[Filipino](../tl/#bpn4509)» 
 
 
 
@@ -2958,7 +2958,7 @@ Tunay na Ikaw ang Isa, ang Nag-iisa, ang Makapangyarihan, ang Nakababatid ng Lah
 (Bahaiprayers.net ID: 4510)
 
 
-
+«[Filipino](../tl/#bpn4510)» 
 
 
 
@@ -2978,7 +2978,7 @@ At sa wakas, hinihiling ko sa Iyo sa Liwanag ng Iyong kaanyuan na pagpalain ang 
 (Bahaiprayers.net ID: 4511)
 
 
-
+«[Filipino](../tl/#bpn4511)» 
 
 
 
@@ -2991,7 +2991,7 @@ Tulutan Mo ako, kung gayon, na ganap na makabaling sa Iyo, mailagak ang aking bu
 (Bahaiprayers.net ID: 4512)
 
 
-
+«[Filipino](../tl/#bpn4512)» 
 
 
 
@@ -3003,7 +3003,7 @@ O Ikaw na ang mga pagsubok ay isang panlunas na gamot sa mga malapit sa Iyo, na 
 (Bahaiprayers.net ID: 4513)
 
 
-
+«[Filipino](../tl/#bpn4513)» 
 
 
 
@@ -3021,7 +3021,7 @@ May kakayahan Kang gumawa ng Iyong ikasisiya. Walang Diyos liban sa Iyo, ang Tul
 (Bahaiprayers.net ID: 4514)
 
 
-
+«[Filipino](../tl/#bpn4514)» 
 
 
 
@@ -3033,7 +3033,7 @@ Mayroon bang Tagapag-alis ng mga kahirapan liban sa Diyos? Sabihin: Purihin ang 
 (Bahaiprayers.net ID: 4515)
 
 
-
+«[Filipino](../tl/#bpn4515)» 
 
 
 
@@ -3045,7 +3045,7 @@ Sabihin: Ang Diyos ay sapat sa lahat ng bagay at higit sa anumang bagay, at wala
 (Bahaiprayers.net ID: 4516)
 
 
-
+«[Filipino](../tl/#bpn4516)» 
 
 
 
@@ -3057,7 +3057,7 @@ Nagsusumamo ako sa Iyo sa pamamagitan ng Iyong lakas, O aking Diyos! Huwag hayaa
 (Bahaiprayers.net ID: 4517)
 
 
-
+«[Filipino](../tl/#bpn4517)» 
 
 
 
@@ -3069,7 +3069,7 @@ O Panginoon! Ikaw ang Tagapag-alis ng bawat pagdurusa at tagapawi ng bawat dalam
 (Bahaiprayers.net ID: 4518)
 
 
-
+«[Filipino](../tl/#bpn4518)» 
 
 
 
@@ -3085,7 +3085,7 @@ Napakataas Mo, O Panginooon ng mga langit at lupa, para sa papuri ng lahat ng mg
 (Bahaiprayers.net ID: 4519)
 
 
-
+«[Filipino](../tl/#bpn4519)» 
 
 
 
@@ -3115,7 +3115,7 @@ Ikaw, sa buong katotohanan, ang Mapagbigay-biyaya, ang Maluwalhati, ang Malakas,
 (Bahaiprayers.net ID: 4520)
 
 
-
+«[Filipino](../tl/#bpn4520)» 
 
 
 
@@ -3131,7 +3131,7 @@ Kupkupin sa lilim ng Iyong pangangalaga, O Ikaw na Espiritu ng kadalisayan, O ik
 (Bahaiprayers.net ID: 4521)
 
 
-
+«[Filipino](../tl/#bpn4521)» 
 
 
 
@@ -3143,7 +3143,7 @@ O Panginoon ko, aking Mahal, aking Hangarin! Kaibiganin Mo ako sa aking pangungu
 (Bahaiprayers.net ID: 4522)
 
 
-
+«[Filipino](../tl/#bpn4522)» 
 
 
 
@@ -3165,7 +3165,7 @@ Tunay na Ikaw ang Panginoon at Hari ng lahat ng tao, at makapangyarihan sa lahat
 (Bahaiprayers.net ID: 4523)
 
 
-
+«[Filipino](../tl/#bpn4523)» 
 
 
 
@@ -3177,7 +3177,7 @@ Nagising ako sa Iyong kanlungan, O aking Diyos, at marapat sa kaniyang naghahana
 (Bahaiprayers.net ID: 4524)
 
 
-
+«[Filipino](../tl/#bpn4524)» 
 
 
 
@@ -3191,7 +3191,7 @@ Walang iba pang Diyos liban sa Iyo, ang Iisa, ang Walang Kahambing, ang Nakababa
 (Bahaiprayers.net ID: 4525)
 
 
-
+«[Filipino](../tl/#bpn4525)» 
 
 
 
@@ -3211,7 +3211,7 @@ Hindi Mo binibigo ang sinumang naghahanap sa Iyo, ni hindi Mo hinahadlangan sa I
 (Bahaiprayers.net ID: 4526)
 
 
-
+«[Filipino](../tl/#bpn4526)» 
 
 
 

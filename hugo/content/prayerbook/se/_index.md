@@ -40,7 +40,7 @@ Du namma lea mu buorideapmi, O Ipmil, ja Du muitin lea munnje dálkkas. Lagašvu
 (Bahaiprayers.net ID: 12221)
 
 
-
+«[Sámi](../se/#bpn12221)» 
 
 
 
@@ -56,7 +56,7 @@ O Ipmil, mu hearrá, háluidan ulbmil! Dát Du bálvaleaddji ohcala oađđit Du 
 (Bahaiprayers.net ID: 12207)
 
 
-
+«[Sámi](../se/#bpn12207)» 
 
 
 
@@ -72,7 +72,7 @@ Leago oktage eará váttisvuođaid Eret Váldi go Ipmil? Daja: Máidnojuvvon leh
 (Bahaiprayers.net ID: 12216)
 
 
-
+«[Sámi](../se/#bpn12216)» 
 
 
 
@@ -84,7 +84,7 @@ Lii-uv kihheen eres vädisvuođâi meddâl välddee, ko Immeel. Eeđâ, pajedum,
 (Bahaiprayers.net ID: 12217)
 
 
-
+«[Sámi](../se/#bpn12217)» 
 
 
 
@@ -96,7 +96,7 @@ Mun ohcalan Du Fámut bokte, O Ipmilan. Ale divtte mange ráfehuhttit mu geahč�
 (Bahaiprayers.net ID: 12218)
 
 
-
+«[Sámi](../se/#bpn12218)» 
 
 
 
@@ -108,7 +108,7 @@ Son lea láđisváimmot, buotveagalaš! O Ipmil, mu Ipmilan! Don oainnát mu, Do
 (Bahaiprayers.net ID: 12219)
 
 
-
+«[Sámi](../se/#bpn12219)» 
 
 
 
@@ -124,7 +124,7 @@ Duođaštan, O Ipmilan, ahte leat sivdnidan mu dovdat Du ja bálvalit Du. Buvtt�
 (Bahaiprayers.net ID: 12204)
 
 
-
+«[Sámi](../se/#bpn12204)» 
 
 
 
@@ -140,7 +140,7 @@ Mun lean lihkkan Du suodjalusas, o Ipmilan, ja dat guhte duon dorvvu ohcá galg�
 (Bahaiprayers.net ID: 12206)
 
 
-
+«[Sámi](../se/#bpn12206)» 
 
 
 
@@ -156,7 +156,7 @@ Du njálgga hájat agálašvuođa rávnnjiin atte mu juhkat, O Ipmilan, ja Du le
 (Bahaiprayers.net ID: 12208)
 
 
-
+«[Sámi](../se/#bpn12208)» 
 
 
 
@@ -168,7 +168,7 @@ Atte munnje buhtes váimmu, O Ipmilan, ja ođasmahte ráfálaš diđolašvuođa 
 (Bahaiprayers.net ID: 12209)
 
 
-
+«[Sámi](../se/#bpn12209)» 
 
 
 
@@ -180,7 +180,7 @@ O Ipmil! Láide mu, várjal mu, cahkket mu čuovgga ja daga mu šerres nástin. 
 (Bahaiprayers.net ID: 12210)
 
 
-
+«[Sámi](../se/#bpn12210)» 
 
 
 
@@ -192,7 +192,7 @@ O Ipmil! Virkkosmahte ja ilosmahte mu sielu. Buhtis mu váimmu. Ođasmahte mu f�
 (Bahaiprayers.net ID: 12211)
 
 
-
+«[Sámi](../se/#bpn12211)» 
 
 
 
@@ -208,7 +208,7 @@ O Ipmil, Du lusa válmmaštan mun báhtaransaji ja Du mearkkaid guvlui divun vá
 (Bahaiprayers.net ID: 12220)
 
 
-
+«[Sámi](../se/#bpn12220)» 
 
 
 
@@ -225,7 +225,7 @@ O Ipmil! Čuvge dáid mánáid. Dát mánát leat Du heđengárddi šattut, Du n
 (Bahaiprayers.net ID: 12212)
 
 
-
+«[Sámi](../se/#bpn12212)» 
 
 
 
@@ -237,7 +237,7 @@ O Hearrá! Bija dán njuoras vesá šaddat valljodagaidat šaddogárdái, njuosk
 (Bahaiprayers.net ID: 12213)
 
 
-
+«[Sámi](../se/#bpn12213)» 
 
 
 
@@ -253,7 +253,7 @@ O Ipmilan! O Ipmilan! Ovttas bálvaleaddjiidat váimmuid ja almmut sidjiide Du s
 (Bahaiprayers.net ID: 12214)
 
 
-
+«[Sámi](../se/#bpn12214)» 
 
 
 
@@ -265,7 +265,7 @@ O Don láđisváimmot hearrá, Don Guhte leat addálas ja návccalaš. Mii leat 
 (Bahaiprayers.net ID: 12215)
 
 
-
+«[Sámi](../se/#bpn12215)» 
 
 
 
@@ -281,7 +281,7 @@ O Ipmilan! Don suttuid ándagassii addi, skeaŋkkaid juohkki, váttisvuođaid er
 (Bahaiprayers.net ID: 12222)
 
 
-
+«[Sámi](../se/#bpn12222)» 
 
 
 
@@ -297,7 +297,7 @@ Sivdniduvvon lea báiki ja dállu ja guovlu ja gávpot ja váibmu ja várri ja s
 (Bahaiprayers.net ID: 12205)
 
 
-
+«[Sámi](../se/#bpn12205)» 
 
 
 

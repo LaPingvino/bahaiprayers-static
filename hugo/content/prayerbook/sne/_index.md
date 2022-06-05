@@ -88,7 +88,7 @@ Ngin Mulia ndu Adon Ingan, O Ingan Nyaa dek jadin Raja ndu sua Raja!
 (Bahaiprayers.net ID: 11796)
 
 
-
+«[Bidayuh](../sne/#bpn11796)» 
 
 
 
@@ -102,7 +102,7 @@ Ingan, dek tok, dek jadin Raja sua Manusia, bia jadin nyaa dek kakue dunya tih b
 (Bahaiprayers.net ID: 11797)
 
 
-
+«[Bidayuh](../sne/#bpn11797)» 
 
 
 
@@ -116,7 +116,7 @@ Ingan, daang dek tok sebonar-eh, jadin Raja sok duwoh dunia, bia jadin Topa tudu
 (Bahaiprayers.net ID: 11798)
 
 
-
+«[Bidayuh](../sne/#bpn11798)» 
 
 
 
@@ -131,7 +131,7 @@ Kekuatan Ingan, daang dek sibonar-eh samah ndi wat tudu sua-sua onik.
 (Bahaiprayers.net ID: 11799)
 
 
-
+«[Bidayuh](../sne/#bpn11799)» 
 
 
 
@@ -147,7 +147,7 @@ Doie leh Topa dibokon pak-eh Ingan, dek Paling-Doras, dek Pingutung.
 (Bahaiprayers.net ID: 11800)
 
 
-
+«[Bidayuh](../sne/#bpn11800)» 
 
 
 
@@ -162,7 +162,7 @@ Pisoh berkat Ingan, O Raja ku, tudu tunt Bala Pingutus, bala dek kudus bia nya�
 (Bahaiprayers.net ID: 11801)
 
 
-
+«[Bidayuh](../sne/#bpn11801)» 
 
 
 
@@ -176,7 +176,7 @@ Ngin tudu oku duman ku O Raja, nunda dek suka Ingan, bia odak leh oku puas odak 
 (Bahaiprayers.net ID: 11802)
 
 
-
+«[Bidayuh](../sne/#bpn11802)» 
 
 
 
@@ -192,7 +192,7 @@ Pijadi daang oku otin tulen, O Topa ku, bia piba’uh suara batin dek kobar daan
 (Bahaiprayers.net ID: 11853)
 
 
-
+«[Bidayuh](../sne/#bpn11853)» 
 
 
 
@@ -206,7 +206,7 @@ Raja! Mbak sigient oku juak sok laut kayaraya Ingan bia surga pirasie Ingan, bia
 (Bahaiprayers.net ID: 11854)
 
 
-
+«[Bidayuh](../sne/#bpn11854)» 
 
 
 
@@ -219,7 +219,7 @@ Ingan leh, totap, dek Bigagah, dek Paling-Mulia, dek Paling Bikuasa.
 (Bahaiprayers.net ID: 11855)
 
 
-
+«[Bidayuh](../sne/#bpn11855)» 
 
 
 
@@ -233,7 +233,7 @@ Ingan, sebonar-eh, dek jadin Pinulung daang Pinusah pakai sok kuasa kedaulatan I
 (Bahaiprayers.net ID: 11856)
 
 
-
+«[Bidayuh](../sne/#bpn11856)» 
 
 
 
@@ -247,7 +247,7 @@ Sebonar-eh mo Ingan harus ingin yak pisoh berkat tudu ulunt Ingan noh Ingan patu
 (Bahaiprayers.net ID: 11857)
 
 
-
+«[Bidayuh](../sne/#bpn11857)» 
 
 
 
@@ -260,7 +260,7 @@ O Topa! Ingan leh dek suka lobih tudu oku sok oku suka odop ku. Oku suwual odop 
 (Bahaiprayers.net ID: 11858)
 
 
-
+«[Bidayuh](../sne/#bpn11858)» 
 
 
 
@@ -274,7 +274,7 @@ O Topa! Ngisuk oku odak bisig sok sua dibokon jok-eh Ingan, kisig oku sok tomad 
 (Bahaiprayers.net ID: 11859)
 
 
-
+«[Bidayuh](../sne/#bpn11859)» 
 
 
 
@@ -286,7 +286,7 @@ O Raja ku! O Raja ku! Itih nikan lampu dek obuah tung pakai opui pangirinduk Ing
 (Bahaiprayers.net ID: 11860)
 
 
-
+«[Bidayuh](../sne/#bpn11860)» 
 
 
 
@@ -299,7 +299,7 @@ Totap, Ingan dek Paling-Murah Otin, Raja budi dek muyah mogond. Doie Topa diboko
 (Bahaiprayers.net ID: 11861)
 
 
-
+«[Bidayuh](../sne/#bpn11861)» 
 
 
 
@@ -314,7 +314,7 @@ Totap, Ingan leh dek Doras, dek Bikuasa, dek Pangirawan, dek Bigagah, dek Pingut
 (Bahaiprayers.net ID: 11862)
 
 
-
+«[Bidayuh](../sne/#bpn11862)» 
 
 
 
@@ -328,7 +328,7 @@ Ingan leh, totap, dek Doras, dek Bigatung, dek Bikuasa, Iyoh Nyaa dek sadik, daa
 (Bahaiprayers.net ID: 11863)
 
 
-
+«[Bidayuh](../sne/#bpn11863)» 
 
 
 
@@ -343,7 +343,7 @@ O Raja, Topa ku! Sukup labuk bala ulunt Ingan dimutik, pakat pa’ad iyoh ka’a
 (Bahaiprayers.net ID: 11864)
 
 
-
+«[Bidayuh](../sne/#bpn11864)» 
 
 
 
@@ -364,7 +364,7 @@ Duoh lagi apabila Iyoh ingin yak bikirient budi bia pingutung tudu manusia, bia 
 (Bahaiprayers.net ID: 11841)
 
 
-
+«[Bidayuh](../sne/#bpn11841)» 
 
 
 
@@ -376,7 +376,7 @@ Iyoh leh Topa! O Raja dek doie Tanding Daang kekuatan bijaksana Ingan. Ingan mbo
 (Bahaiprayers.net ID: 11842)
 
 
-
+«[Bidayuh](../sne/#bpn11842)» 
 
 
 
@@ -388,7 +388,7 @@ Ngin mulia tudu Ingan, O Topa ku! Totap, itih ulunt Ingan bia itih dayung ulunt 
 (Bahaiprayers.net ID: 11843)
 
 
-
+«[Bidayuh](../sne/#bpn11843)» 
 
 
 
@@ -401,7 +401,7 @@ Totap, Ingan leh dek Murah Otin. Totap, Ingan leh dek Doras. Totap, Ingan leh de
 (Bahaiprayers.net ID: 11844)
 
 
-
+«[Bidayuh](../sne/#bpn11844)» 
 
 
 
@@ -417,7 +417,7 @@ O Topa ku! O Topa ku! Nguluk ngupul otin ulunt-ulunt Ingan, bia buka ngulia tudu
 (Bahaiprayers.net ID: 11883)
 
 
-
+«[Bidayuh](../sne/#bpn11883)» 
 
 
 
@@ -433,7 +433,7 @@ Totap, Ingan leh dek Doras, dek Biginong Sadik, dek Tukang Ngin, dek Pingapunt, 
 (Bahaiprayers.net ID: 11884)
 
 
-
+«[Bidayuh](../sne/#bpn11884)» 
 
 
 
@@ -451,7 +451,7 @@ Doie nyaa dibokon, O Raja ku, biratur dengan murah otin duwoh oku tudu osi leh o
 (Bahaiprayers.net ID: 11822)
 
 
-
+«[Bidayuh](../sne/#bpn11822)» 
 
 
 
@@ -464,7 +464,7 @@ Oku tih, O Topa ku, ulunt Ingan duoh onak dali ulunt Ingan. Oku mbok piluh pangi
 (Bahaiprayers.net ID: 11823)
 
 
-
+«[Bidayuh](../sne/#bpn11823)» 
 
 
 
@@ -476,7 +476,7 @@ Ingan ningak leh oku, O Raja ku, dengan jowin ku kos nuju surga pingungin Ingan 
 (Bahaiprayers.net ID: 11824)
 
 
-
+«[Bidayuh](../sne/#bpn11824)» 
 
 
 
@@ -490,7 +490,7 @@ Ngapunt, adin, O Raja ku, ulunt-ulunt Ingan bia bala dayung Ingan. Ingan leh, si
 (Bahaiprayers.net ID: 11825)
 
 
-
+«[Bidayuh](../sne/#bpn11825)» 
 
 
 
@@ -504,7 +504,7 @@ O Topa Raja koih! Nyinung nyabal koih pakai sok kekuatan ngasi Ingan, odak koih 
 (Bahaiprayers.net ID: 11826)
 
 
-
+«[Bidayuh](../sne/#bpn11826)» 
 
 
 
@@ -516,7 +516,7 @@ Ngin mudi tudu Ingan, O Raja. Ngapunt dosa-dosa koih, masik tudu koih bia dapod 
 (Bahaiprayers.net ID: 11827)
 
 
-
+«[Bidayuh](../sne/#bpn11827)» 
 
 
 
@@ -528,7 +528,7 @@ Oku mitia mujok Ingan odak ngapunt oku, O Rajaku, tilanan setiap pinyobot ku pak
 (Bahaiprayers.net ID: 11828)
 
 
-
+«[Bidayuh](../sne/#bpn11828)» 
 
 
 
@@ -541,7 +541,7 @@ Mulia manah Ingan, O Raja, Ingan ngapunt daang setiap masa dosa-dosa ulunt Ingan
 (Bahaiprayers.net ID: 11829)
 
 
-
+«[Bidayuh](../sne/#bpn11829)» 
 
 
 
@@ -553,7 +553,7 @@ O Ingan Raja dek Pingapunt! Ingan dek jadin gadang sua ulunt Ingan dimutik. Inga
 (Bahaiprayers.net ID: 11830)
 
 
-
+«[Bidayuh](../sne/#bpn11830)» 
 
 
 
@@ -570,7 +570,7 @@ Pijawak, O Raja, jowin ulunt-ulunt Ingan, sak bala pod-pod kilint Ingan, bia ngi
 (Bahaiprayers.net ID: 11885)
 
 
-
+«[Bidayuh](../sne/#bpn11885)» 
 
 
 
@@ -584,7 +584,7 @@ Ingan leh Topa dek ogi kuasa, mulia bia pingungin. Doie Topa dibokon luar sok In
 (Bahaiprayers.net ID: 11886)
 
 
-
+«[Bidayuh](../sne/#bpn11886)» 
 
 
 
@@ -597,7 +597,7 @@ Ingan leh dek Doras, dek Paling Bigatung, dek Paling Mulia, dek Pangirinduk.
 (Bahaiprayers.net ID: 11887)
 
 
-
+«[Bidayuh](../sne/#bpn11887)» 
 
 
 
@@ -615,7 +615,7 @@ Kiduung Ingan mbok ngotag bala, O Raja ku, tudu pi’in pingidip budi Ingan, ngi
 (Bahaiprayers.net ID: 11870)
 
 
-
+«[Bidayuh](../sne/#bpn11870)» 
 
 
 
@@ -631,7 +631,7 @@ Oku mitia mujok Ingan, O Ingan Raja pinimul bia jadin Sinung Sabal dek bitolus d
 (Bahaiprayers.net ID: 11871)
 
 
-
+«[Bidayuh](../sne/#bpn11871)» 
 
 
 
@@ -645,7 +645,7 @@ Itih leh ulunt Ingan, O Raja ku, nyaa dek dengan sipunuae idip dotin eh mbok tik
 (Bahaiprayers.net ID: 11872)
 
 
-
+«[Bidayuh](../sne/#bpn11872)» 
 
 
 
@@ -658,7 +658,7 @@ Ingan leh, totap, dek Murah Otin, dek Pingapunt.
 (Bahaiprayers.net ID: 11873)
 
 
-
+«[Bidayuh](../sne/#bpn11873)» 
 
 
 
@@ -670,7 +670,7 @@ O Topa, Topa ku! Ingan batue leh ulunt-ulunt Ingan dek bisayak odak ogi pangirin
 (Bahaiprayers.net ID: 11874)
 
 
-
+«[Bidayuh](../sne/#bpn11874)» 
 
 
 
@@ -689,7 +689,7 @@ O Topa! Bikanyad koih pakai pingodah Ingan. Ingan leh dek Bikuasa. Ingan leh dek
 (Bahaiprayers.net ID: 11845)
 
 
-
+«[Bidayuh](../sne/#bpn11845)» 
 
 
 
@@ -703,7 +703,7 @@ Ingan leh dek Doras, Ingan leh dek Bikuasa, Ingan leh dek Tukang Ngin, bia Ingan
 (Bahaiprayers.net ID: 11846)
 
 
-
+«[Bidayuh](../sne/#bpn11846)» 
 
 
 
@@ -716,7 +716,7 @@ Totap, Ingan leh dek Murah Otin. Totap, Ingan leh dek Perasie. Totap, Ingan leh 
 (Bahaiprayers.net ID: 11847)
 
 
-
+«[Bidayuh](../sne/#bpn11847)» 
 
 
 
@@ -732,7 +732,7 @@ Ingan leh dek bikuasa, dek Ogi Kuasa Ayuh, dek Pirasie , bia Ingan leh dek Murah
 (Bahaiprayers.net ID: 11848)
 
 
-
+«[Bidayuh](../sne/#bpn11848)» 
 
 
 
@@ -745,7 +745,7 @@ Totap, Ingan leh dek Ogi Kuasa Ayuh, duoh dek Doras Manah!
 (Bahaiprayers.net ID: 11849)
 
 
-
+«[Bidayuh](../sne/#bpn11849)» 
 
 
 
@@ -759,7 +759,7 @@ O Topa, Topa ku! Koih dimutik ulunt-ulunt Ingan dek mbok biraduap dengan taat se
 (Bahaiprayers.net ID: 11850)
 
 
-
+«[Bidayuh](../sne/#bpn11850)» 
 
 
 
@@ -773,7 +773,7 @@ O Ingan Pembekal koih! Tod pimuun tulung-batue Ingan, sak supaya tibilang polonk
 (Bahaiprayers.net ID: 11851)
 
 
-
+«[Bidayuh](../sne/#bpn11851)» 
 
 
 
@@ -790,7 +790,7 @@ Totap, Ingan leh dek Murah otin, dek Pirasie. Ingan leh Pemilik budi paling ayuh
 (Bahaiprayers.net ID: 11852)
 
 
-
+«[Bidayuh](../sne/#bpn11852)» 
 
 
 
@@ -809,7 +809,7 @@ Pimuun, sibilin-eh, O Raja ku, tudu oku bia tudu bala kekasih ku, onik dek yak n
 (Bahaiprayers.net ID: 11888)
 
 
-
+«[Bidayuh](../sne/#bpn11888)» 
 
 
 
@@ -822,7 +822,7 @@ Nai odak iyoh selamat geh, O Topa ku, pakai kuasa keagungan dek dik-eh tikakod I
 (Bahaiprayers.net ID: 11889)
 
 
-
+«[Bidayuh](../sne/#bpn11889)» 
 
 
 
@@ -835,7 +835,7 @@ Nyikon odak selamat ulunt-ulunt Ingan bia dayung ulunt Ingan, O Raja ku, sok asu
 (Bahaiprayers.net ID: 11890)
 
 
-
+«[Bidayuh](../sne/#bpn11890)» 
 
 
 
@@ -848,7 +848,7 @@ O Topa, Topa ku! Oku mbok luwah ponu sok boli ku, bikagient togap tudu tolint pa
 (Bahaiprayers.net ID: 11891)
 
 
-
+«[Bidayuh](../sne/#bpn11891)» 
 
 
 
@@ -863,7 +863,7 @@ Doie kuasa dibokon maupun kekuatan jok eh daang Topa, dek Sukup Bigatung, dek Su
 (Bahaiprayers.net ID: 11892)
 
 
-
+«[Bidayuh](../sne/#bpn11892)» 
 
 
 
@@ -876,7 +876,7 @@ Ngibonar leh apunt maaf Ingan tudu oku bia tudu dek bisayak dek nyawot Bogant In
 (Bahaiprayers.net ID: 11893)
 
 
-
+«[Bidayuh](../sne/#bpn11893)» 
 
 
 
@@ -891,7 +891,7 @@ Dik-eh tingakod bigatung ayuh Ingan, O Raja! Nyinung nyabal koih sok onik dek og
 (Bahaiprayers.net ID: 11894)
 
 
-
+«[Bidayuh](../sne/#bpn11894)» 
 
 
 
@@ -910,7 +910,7 @@ Pakai Kekuatan Ingan! Idoh dik ku sikien, bo’os ato ngooh, pak-eh onik dek has
 (Bahaiprayers.net ID: 11810)
 
 
-
+«[Bidayuh](../sne/#bpn11810)» 
 
 
 
@@ -925,7 +925,7 @@ Totap, Ingan leh Tukang Ngin, dek Murah Otin, dek Pirasie, dek Pingapunt.
 (Bahaiprayers.net ID: 11811)
 
 
-
+«[Bidayuh](../sne/#bpn11811)» 
 
 
 
@@ -942,7 +942,7 @@ O Pangilaan Ilahi sua pinimul ogi tonga odak pingodak Ingan, mbak jaman donu bai
 (Bahaiprayers.net ID: 11769)
 
 
-
+«[Bidayuh](../sne/#bpn11769)» 
 
 
 
@@ -958,7 +958,7 @@ Sobot leh, nang Topa kodae dek mbok diok nye pu’ant Jadin Pimanai tudu sua oni
 (Bahaiprayers.net ID: 11770)
 
 
-
+«[Bidayuh](../sne/#bpn11770)» 
 
 
 
@@ -970,7 +970,7 @@ O Topa ku, Raja ku, Guru ku! Oku mbok misah odop ku duwoh nya’a dibokon bia mb
 (Bahaiprayers.net ID: 11771)
 
 
-
+«[Bidayuh](../sne/#bpn11771)» 
 
 
 
@@ -984,7 +984,7 @@ Oku mitia mujok Ingan odak ngapunt oku samah sikoda-eh bala nyaa dek rinduk tudu
 (Bahaiprayers.net ID: 11877)
 
 
-
+«[Bidayuh](../sne/#bpn11877)» 
 
 
 
@@ -998,7 +998,7 @@ Ngin tudu koih pinguman dek nudak onu, bia jugan keperluan idip pinyongah Ingan,
 (Bahaiprayers.net ID: 11772)
 
 
-
+«[Bidayuh](../sne/#bpn11772)» 
 
 
 
@@ -1011,7 +1011,7 @@ O Ingan dek Penyukup, O Ingan dek Pingapunt! Ngin tudu koih budi Ingan bia rindu
 (Bahaiprayers.net ID: 11773)
 
 
-
+«[Bidayuh](../sne/#bpn11773)» 
 
 
 
@@ -1026,7 +1026,7 @@ Ingan leh, totap, Nya’a dek Ndi, Sadik-Sadik, dek Doras, dek Paling Pu’ant, 
 (Bahaiprayers.net ID: 11774)
 
 
-
+«[Bidayuh](../sne/#bpn11774)» 
 
 
 
@@ -1044,7 +1044,7 @@ Bikuasa leh Ingan mana wat dek suka Ingan. Doie Topa dibokon jok-eh Ingan, dek S
 (Bahaiprayers.net ID: 11832)
 
 
-
+«[Bidayuh](../sne/#bpn11832)» 
 
 
 
@@ -1056,7 +1056,7 @@ Adon Ingan mbok jadin piminien ku, O Topa ku, bia panginatong ndu Ingan jadin pi
 (Bahaiprayers.net ID: 11833)
 
 
-
+«[Bidayuh](../sne/#bpn11833)» 
 
 
 
@@ -1070,7 +1070,7 @@ Ingan leh, totap, dek Tukang Kadud, dek Paliara, dek Tukang Tulung, dek Bigagah,
 (Bahaiprayers.net ID: 11834)
 
 
-
+«[Bidayuh](../sne/#bpn11834)» 
 
 
 
@@ -1084,7 +1084,7 @@ Ingan leh sibonar Raja ndu pingidip tih bia dek dikan. Ingan leh, daang dek sibo
 (Bahaiprayers.net ID: 11835)
 
 
-
+«[Bidayuh](../sne/#bpn11835)» 
 
 
 
@@ -1101,7 +1101,7 @@ Ingan, daang dek sibonar-eh, dek bigatung simomu sok sua dibokon jok-eh Odop Ing
 (Bahaiprayers.net ID: 11836)
 
 
-
+«[Bidayuh](../sne/#bpn11836)» 
 
 
 
@@ -1120,7 +1120,7 @@ Ngasi leh Ingan nai mana wat dek suka Ingan. Ingan leh, totap, jadin Pinulung da
 (Bahaiprayers.net ID: 11878)
 
 
-
+«[Bidayuh](../sne/#bpn11878)» 
 
 
 
@@ -1135,7 +1135,7 @@ Ingan ngibonar negeh, O Raja, sak kadu otin iyoh, pakai biradat pimodo tudu itih
 (Bahaiprayers.net ID: 11879)
 
 
-
+«[Bidayuh](../sne/#bpn11879)» 
 
 
 
@@ -1148,7 +1148,7 @@ Ayuh manah leh berkat ndu odop-eh dimuno dek doyak eh Ingan mbok pilih pakai nga
 (Bahaiprayers.net ID: 11880)
 
 
-
+«[Bidayuh](../sne/#bpn11880)» 
 
 
 
@@ -1162,7 +1162,7 @@ Totap, Ingan leh Raja koih bia Raja ndu sua onik. Ndu daang tongan Ingan sok koi
 (Bahaiprayers.net ID: 11881)
 
 
-
+«[Bidayuh](../sne/#bpn11881)» 
 
 
 
@@ -1175,7 +1175,7 @@ Mbok sok no’uh eh geh Ingan mbok jadin ngasi nai mana wat dek suka Ingan bia d
 (Bahaiprayers.net ID: 11882)
 
 
-
+«[Bidayuh](../sne/#bpn11882)» 
 
 
 
@@ -1191,7 +1191,7 @@ O Ingan Nyaa dek ngin pinguji jadin ubat piminien tudu sikoda-eh nyaa dek sinok 
 (Bahaiprayers.net ID: 11875)
 
 
-
+«[Bidayuh](../sne/#bpn11875)» 
 
 
 
@@ -1205,7 +1205,7 @@ Oku nguwai Ingan, O Topa ku, pakai sok bala duoh pakai sok ngaduoh dek obuah sob
 (Bahaiprayers.net ID: 11876)
 
 
-
+«[Bidayuh](../sne/#bpn11876)» 
 
 
 
@@ -1223,7 +1223,7 @@ Duwoh del piobuak-eh tih, oku bonar-bonar mitia Ingan pakai jawak rupa Ingan ngi
 (Bahaiprayers.net ID: 11804)
 
 
-
+«[Bidayuh](../sne/#bpn11804)» 
 
 
 
@@ -1237,7 +1237,7 @@ Doie Topa dibokon pak-eh Ingan, dek Doras, dek Paling Pijajah, dek Doie Syarat.
 (Bahaiprayers.net ID: 11805)
 
 
-
+«[Bidayuh](../sne/#bpn11805)» 
 
 
 
@@ -1249,7 +1249,7 @@ Ogi keh Pinulak pinusah dibokon luar sok Topa? Sobot: Tipuji leh Topa! Iyoh leh 
 (Bahaiprayers.net ID: 11806)
 
 
-
+«[Bidayuh](../sne/#bpn11806)» 
 
 
 
@@ -1261,7 +1261,7 @@ Sobot leh nang: Topa nyukup sua onik ngilobih sua onik bia doie dek daang surga 
 (Bahaiprayers.net ID: 11807)
 
 
-
+«[Bidayuh](../sne/#bpn11807)» 
 
 
 
@@ -1273,7 +1273,7 @@ Oku mitia Ingan pakai kekuatan Ingan, O Topa ku! Mbak odak pangirusak kapunk oku
 (Bahaiprayers.net ID: 11808)
 
 
-
+«[Bidayuh](../sne/#bpn11808)» 
 
 
 
@@ -1285,7 +1285,7 @@ O Raja! Ingan leh Pinulak setiap sisa-sengsara bia Tukang Kayap ulid ngopok. Ing
 (Bahaiprayers.net ID: 11809)
 
 
-
+«[Bidayuh](../sne/#bpn11809)» 
 
 
 
@@ -1301,7 +1301,7 @@ Itih leh, O Topa ku, siluang onu-onu takal Ingan mbok tanon odak bala-bala pirin
 (Bahaiprayers.net ID: 11909)
 
 
-
+«[Bidayuh](../sne/#bpn11909)» 
 
 
 
@@ -1313,7 +1313,7 @@ Daang Adon Iyoh Nyaa dek mbok obuah janji daang Buk-Buk Topa, dek Pangipuant, de
 (Bahaiprayers.net ID: 11910)
 
 
-
+«[Bidayuh](../sne/#bpn11910)» 
 
 
 
@@ -1325,7 +1325,7 @@ Ngin pimudi tudu Ingan, O Topa Raja ku! Koih mbok mit-nai Puasa sambil biturut d
 (Bahaiprayers.net ID: 11911)
 
 
-
+«[Bidayuh](../sne/#bpn11911)» 
 
 
 
@@ -1337,7 +1337,7 @@ Topa Ku Guru Ku! Ingan ninga oku diantara manusia Ingan dek mbok lawant duoh ngi
 (Bahaiprayers.net ID: 11912)
 
 
-
+«[Bidayuh](../sne/#bpn11912)» 
 
 
 
@@ -1349,7 +1349,7 @@ Ngin pimudi tudu Ingan, O Topa, Topa ku! Takal onu-onu dimutik leh Ingan mbok ng
 (Bahaiprayers.net ID: 11913)
 
 
-
+«[Bidayuh](../sne/#bpn11913)» 
 
 
 
@@ -1367,7 +1367,7 @@ Ngin berkat tudu oku, O Topa ku, bia bala dimuno mbok bisayak daang tanda-tanda 
 (Bahaiprayers.net ID: 11812)
 
 
-
+«[Bidayuh](../sne/#bpn11812)» 
 
 
 
@@ -1380,7 +1380,7 @@ O Topa ku! Ingan mbok majak jiwa ku odak buka nai pimujok tudu Ingan, bia mo dik
 (Bahaiprayers.net ID: 11813)
 
 
-
+«[Bidayuh](../sne/#bpn11813)» 
 
 
 
@@ -1392,7 +1392,7 @@ O Raja! Daang Dispensasi Paling Agung tih Ingan ogi terima doa wakil sok onak ba
 (Bahaiprayers.net ID: 11814)
 
 
-
+«[Bidayuh](../sne/#bpn11814)» 
 
 
 
@@ -1409,7 +1409,7 @@ Totap, Ingan leh dek Biloga, dek Selalu-Pangipisoh, Tongan dek Tibukak.
 (Bahaiprayers.net ID: 11815)
 
 
-
+«[Bidayuh](../sne/#bpn11815)» 
 
 
 
@@ -1423,7 +1423,7 @@ O Raja ku, oku nyerah onik dek ogi daang to’in ku tudu Ingan. Mokua noh nai od
 (Bahaiprayers.net ID: 11816)
 
 
-
+«[Bidayuh](../sne/#bpn11816)» 
 
 
 
@@ -1440,7 +1440,7 @@ O Topa! Amerika tih Negara dek patut terima pingodah bia dek patut terima pirasi
 (Bahaiprayers.net ID: 11803)
 
 
-
+«[Bidayuh](../sne/#bpn11803)» 
 
 
 
@@ -1458,7 +1458,7 @@ Totap Iyoh leh dek suka Ngojit, dek Tukang Jawab, Iyoh leh Nyaa dek ngiloti sua 
 (Bahaiprayers.net ID: 11902)
 
 
-
+«[Bidayuh](../sne/#bpn11902)» 
 
 
 
@@ -1472,7 +1472,7 @@ Nai odak oku kudus, O Topa ku, bia bala dibokon dek yak bisayak daang tanda-tand
 (Bahaiprayers.net ID: 11899)
 
 
-
+«[Bidayuh](../sne/#bpn11899)» 
 
 
 
@@ -1484,7 +1484,7 @@ Oku nguwai Topa sak dengan sudi nai odak boli mu jadin pusat bisorap jawak pingu
 (Bahaiprayers.net ID: 11900)
 
 
-
+«[Bidayuh](../sne/#bpn11900)» 
 
 
 
@@ -1510,7 +1510,7 @@ nye cinta nyaa dibokon.
 (Bahaiprayers.net ID: 11901)
 
 
-
+«[Bidayuh](../sne/#bpn11901)» 
 
 
 
@@ -1523,7 +1523,7 @@ Topa, Ingan nai odak boli koih tih kobon dek sidie, nikan topat asak pongirinduk
 (Bahaiprayers.net ID: 11903)
 
 
-
+«[Bidayuh](../sne/#bpn11903)» 
 
 
 
@@ -1541,7 +1541,7 @@ Dek sua-sua-eh pak-eh botak duoh sotok, jek Ingan, totap, dek Paling Birada, dek
 (Bahaiprayers.net ID: 11837)
 
 
-
+«[Bidayuh](../sne/#bpn11837)» 
 
 
 
@@ -1553,7 +1553,7 @@ O Ingan Raja dek pinubuas, Ingan leh Nyaa dek murah otin duoh tungang! Koih dimu
 (Bahaiprayers.net ID: 11838)
 
 
-
+«[Bidayuh](../sne/#bpn11838)» 
 
 
 
@@ -1565,7 +1565,7 @@ O Ingan Raja dek tulut! O Ingan Nyaa dek murah otin duoh masik! Koih dimutik ulu
 (Bahaiprayers.net ID: 11839)
 
 
-
+«[Bidayuh](../sne/#bpn11839)» 
 
 
 
@@ -1583,7 +1583,7 @@ Ingan leh dek Bigagah duoh dek Bikuasa, Ingan leh dek Pingapunt duoh lagi Ingan 
 (Bahaiprayers.net ID: 11840)
 
 
-
+«[Bidayuh](../sne/#bpn11840)» 
 
 
 
@@ -1608,7 +1608,7 @@ Doie Topa dibokon pak-eh Ingan, dek Ndi, dek Sadik-Sadik, dek Bikuasa, dek Pu’
 (Bahaiprayers.net ID: 11789)
 
 
-
+«[Bidayuh](../sne/#bpn11789)» 
 
 
 
@@ -1622,7 +1622,7 @@ Mulia, sukup sukup Mulia-eh Ingan! Ingan leh dek obuah hormat daang pangibonar I
 (Bahaiprayers.net ID: 11790)
 
 
-
+«[Bidayuh](../sne/#bpn11790)» 
 
 
 
@@ -1654,7 +1654,7 @@ Sua koih, totap, mbok sabar daang Topa (19x)
 (Bahaiprayers.net ID: 11795)
 
 
-
+«[Bidayuh](../sne/#bpn11795)» 
 
 
 
@@ -1667,7 +1667,7 @@ O Raja ku! Kisig iyoh sok salah biyuk, odak iyoh tikadi sok onik dek odak iyoh s
 (Bahaiprayers.net ID: 11791)
 
 
-
+«[Bidayuh](../sne/#bpn11791)» 
 
 
 
@@ -1680,7 +1680,7 @@ O Topa, odak roh iyoh bisig, duoh kadi segala pinusah, duoh ngulu iyoh pakai ola
 (Bahaiprayers.net ID: 11792)
 
 
-
+«[Bidayuh](../sne/#bpn11792)» 
 
 
 
@@ -1692,7 +1692,7 @@ O Ingan Raja dek Pingapunt! Sungu pun ogi jiwa-jiwa dek mbok pakai masa selama i
 (Bahaiprayers.net ID: 11793)
 
 
-
+«[Bidayuh](../sne/#bpn11793)» 
 
 
 
@@ -1707,7 +1707,7 @@ Totap, Ingan leh dek Murah Otin, dek Bikuasa, dek Pingapunt bia dek Pangipisoh.
 (Bahaiprayers.net ID: 11794)
 
 
-
+«[Bidayuh](../sne/#bpn11794)» 
 
 
 
@@ -1724,7 +1724,7 @@ Ingan dek Tipuji, O Perinduk ku dek Paling Konae, nyabui tunt iyoh osiak sidik p
 (Bahaiprayers.net ID: 11775)
 
 
-
+«[Bidayuh](../sne/#bpn11775)» 
 
 
 
@@ -1737,7 +1737,7 @@ O Ingan Raja dek doie banding! Odak negeh kuwek dek nyiduak tih obuah siduak sok
 (Bahaiprayers.net ID: 11776)
 
 
-
+«[Bidayuh](../sne/#bpn11776)» 
 
 
 
@@ -1749,7 +1749,7 @@ O Topa! Nggan onak kuwek tih daang otin-otin pangirinduk Ingan, bia ngin susu so
 (Bahaiprayers.net ID: 11777)
 
 
-
+«[Bidayuh](../sne/#bpn11777)» 
 
 
 
@@ -1761,7 +1761,7 @@ O Topa! Ngajar onak opot dimutik. Kabant onak opot dimutik yoh leh uwuong tongon
 (Bahaiprayers.net ID: 11778)
 
 
-
+«[Bidayuh](../sne/#bpn11778)» 
 
 
 
@@ -1773,7 +1773,7 @@ O Ingan Raja dek tulut! Onak-onak pa’tuh dimutik yoh leh kroja bitik tilinyuk 
 (Bahaiprayers.net ID: 11779)
 
 
-
+«[Bidayuh](../sne/#bpn11779)» 
 
 
 
@@ -1787,7 +1787,7 @@ Ingan leh dek bikuasa, dek paling rinduk.
 (Bahaiprayers.net ID: 11780)
 
 
-
+«[Bidayuh](../sne/#bpn11780)» 
 
 
 
@@ -1799,7 +1799,7 @@ Iyoh leh Topa! O Topa Topa ku! Jugan tudu oku otin dek tolen, dek tutuas ndi kil
 (Bahaiprayers.net ID: 11781)
 
 
-
+«[Bidayuh](../sne/#bpn11781)» 
 
 
 
@@ -1811,7 +1811,7 @@ O Topa, ngotag oku, nyinung nyabal oku, nai oku jadin lapu dek bidudue bia jadin
 (Bahaiprayers.net ID: 11782)
 
 
-
+«[Bidayuh](../sne/#bpn11782)» 
 
 
 
@@ -1824,7 +1824,7 @@ Totap, Ingan leh dek Bikuasa, dek Doras, dek Kilint, dek Kilingah.
 (Bahaiprayers.net ID: 11783)
 
 
-
+«[Bidayuh](../sne/#bpn11783)» 
 
 
 
@@ -1836,7 +1836,7 @@ O Raja dek doie banding-eh! Ba..syi Ingan jadin gadang sa’ant onak opot dek so
 (Bahaiprayers.net ID: 11784)
 
 
-
+«[Bidayuh](../sne/#bpn11784)» 
 
 
 
@@ -1848,7 +1848,7 @@ O Raja! Nai bujang donak tih, bia pisoh tudu manusia sotok tih pingungin Ingan. 
 (Bahaiprayers.net ID: 11785)
 
 
-
+«[Bidayuh](../sne/#bpn11785)» 
 
 
 
@@ -1864,7 +1864,7 @@ O Topa, Topa ku! Oku ngugai Ingan pakai doyak bala perinduk sejati Ingan dek sek
 (Bahaiprayers.net ID: 11786)
 
 
-
+«[Bidayuh](../sne/#bpn11786)» 
 
 
 
@@ -1877,7 +1877,7 @@ O Topa ku! Ingan mbok kidip jiwa ku odak la’ant nai pimujuk tudu Ingan, bia si
 (Bahaiprayers.net ID: 11787)
 
 
-
+«[Bidayuh](../sne/#bpn11787)» 
 
 
 
@@ -1889,7 +1889,7 @@ O Raja! Daang Dispensasi Ingan dek Paling Agung tih Ingan ogi terima doa piwatas
 (Bahaiprayers.net ID: 11788)
 
 
-
+«[Bidayuh](../sne/#bpn11788)» 
 
 
 
@@ -1908,7 +1908,7 @@ Ingan leh, sebonar, Raja duoh Agong tudu sua manusia, bia dek ngasi daang sua-su
 (Bahaiprayers.net ID: 11895)
 
 
-
+«[Bidayuh](../sne/#bpn11895)» 
 
 
 
@@ -1920,7 +1920,7 @@ Oku mbok mokat daang gadang Ingan, O Topa ku, bia jadin nyaa dek kalik gadang ya
 (Bahaiprayers.net ID: 11896)
 
 
-
+«[Bidayuh](../sne/#bpn11896)» 
 
 
 
@@ -1935,7 +1935,7 @@ Ingan leh Iyoh Nyaa dek ngubah pakai sok dek odak Ingan dek hina jadin mulia, bi
 (Bahaiprayers.net ID: 11897)
 
 
-
+«[Bidayuh](../sne/#bpn11897)» 
 
 
 
@@ -1949,7 +1949,7 @@ Doie Topa di bokon pak eh Ingan, dek Ndi, dek Doie Banding, dek Sukup Pu’ant, 
 (Bahaiprayers.net ID: 11898)
 
 
-
+«[Bidayuh](../sne/#bpn11898)» 
 
 
 
@@ -1967,7 +1967,7 @@ Ingan dek obuah mudi, O Ingan leh Nyaa dek jadin Kekasih bala dek mbok pu’ant 
 (Bahaiprayers.net ID: 11865)
 
 
-
+«[Bidayuh](../sne/#bpn11865)» 
 
 
 
@@ -1981,7 +1981,7 @@ Ingan leh, totap, Topa dek Kaku Kuasa, jadin Pinulung daang Pinusah, dek Paling-
 (Bahaiprayers.net ID: 11866)
 
 
-
+«[Bidayuh](../sne/#bpn11866)» 
 
 
 
@@ -1999,7 +1999,7 @@ Oku odak Ingan, O Raja ndu sua dek ogi idip bia dek jadin Raja bitolus duoh dek 
 (Bahaiprayers.net ID: 11867)
 
 
-
+«[Bidayuh](../sne/#bpn11867)» 
 
 
 
@@ -2012,7 +2012,7 @@ Totap, Ingan leh Ketua dek ayuh, Kedaulatan dek Bonar, dek jadin Pinulung daang 
 (Bahaiprayers.net ID: 11868)
 
 
-
+«[Bidayuh](../sne/#bpn11868)» 
 
 
 
@@ -2024,7 +2024,7 @@ O Raja Topa ku! Tulung bala perinduk Ingan odak totod daang Iman Ingan, ponu daa
 (Bahaiprayers.net ID: 11869)
 
 
-
+«[Bidayuh](../sne/#bpn11869)» 
 
 
 
@@ -2042,7 +2042,7 @@ Mbak munyad oku, O Raja ku, wangi pakaian Ingan daang onu-onu Ingan, bia mbak ng
 (Bahaiprayers.net ID: 11817)
 
 
-
+«[Bidayuh](../sne/#bpn11817)» 
 
 
 
@@ -2056,7 +2056,7 @@ Notu sa’ant ku, pakai sok pingungin Ingan, O Raja, onik dek harus yak ngutung 
 (Bahaiprayers.net ID: 11818)
 
 
-
+«[Bidayuh](../sne/#bpn11818)» 
 
 
 
@@ -2069,7 +2069,7 @@ Raja! Ulunt-ulunt Ingan dimutik aluak masih togap duoh totod daang Waadat Ingan 
 (Bahaiprayers.net ID: 11819)
 
 
-
+«[Bidayuh](../sne/#bpn11819)» 
 
 
 
@@ -2083,7 +2083,7 @@ Ingan leh dek Pinubuas, dek Pirasie. Ingan leh Topa Pingutung dek Agung.
 (Bahaiprayers.net ID: 11820)
 
 
-
+«[Bidayuh](../sne/#bpn11820)» 
 
 
 
@@ -2096,7 +2096,7 @@ Totap, Ingan leh dek Bigagah-Pogant, dek Doras, dek Paling-Bikuasa.
 (Bahaiprayers.net ID: 11821)
 
 
-
+«[Bidayuh](../sne/#bpn11821)» 
 
 
 
@@ -2127,7 +2127,7 @@ Totap, Iyoh dek Paling Bait, dek Pinyayang. Mudi Topa, Raja daang sua dunya.
 (Bahaiprayers.net ID: 11906)
 
 
-
+«[Bidayuh](../sne/#bpn11906)» 
 
 
 
@@ -2149,7 +2149,7 @@ Ingan nai leh odak kudus, O Raja Topa ku, Tongon Koyuh Lote Topa bia dowon-dowon
 (Bahaiprayers.net ID: 11904)
 
 
-
+«[Bidayuh](../sne/#bpn11904)» 
 
 
 
@@ -2167,7 +2167,7 @@ Ingan leh, dek Bikanyad, dek Masie, dek Selalu-Ngin, dek Bibudi, dek Bait, dek P
 (Bahaiprayers.net ID: 11905)
 
 
-
+«[Bidayuh](../sne/#bpn11905)» 
 
 
 
@@ -2190,7 +2190,7 @@ Ingan leh, daang dek sibonareh, dek Paling Puant, dek Paling Ponai.
 (Bahaiprayers.net ID: 11908)
 
 
-
+«[Bidayuh](../sne/#bpn11908)» 
 
 
 
@@ -2211,7 +2211,7 @@ Ingan, sibonar eh, dek Bikuasa, dek Paling Pu’ant, dek Lilieg Ngin Pu’ant.
 (Bahaiprayers.net ID: 11907)
 
 
-
+«[Bidayuh](../sne/#bpn11907)» 
 
 
 
@@ -2228,7 +2228,7 @@ Ingan, sebonar eh, Raja suo manusia. Doie Topa dibokon pak eh Ingan dek Selalu N
 (Bahaiprayers.net ID: 11768)
 
 
-
+«[Bidayuh](../sne/#bpn11768)» 
 
 
 
@@ -2245,7 +2245,7 @@ Doie Topa dibokon pak-eh Ingan, dek Jadin pinulung Daang pinusah, dek Biginong S
 (Bahaiprayers.net ID: 11766)
 
 
-
+«[Bidayuh](../sne/#bpn11766)» 
 
 
 
@@ -2277,7 +2277,7 @@ Oku ngakont tudu kesatuan Ingan duoh pinyindi Ingan, bia Ingan noh leh Topa, duo
 (Bahaiprayers.net ID: 11767)
 
 
-
+«[Bidayuh](../sne/#bpn11767)» 
 
 
 
@@ -2296,7 +2296,7 @@ O Raja ku! Nitah sa’ant iyoh duman dek muyah mogond, ganjaran dek obuah takdir
 (Bahaiprayers.net ID: 11831)
 
 
-
+«[Bidayuh](../sne/#bpn11831)» 
 
 
 

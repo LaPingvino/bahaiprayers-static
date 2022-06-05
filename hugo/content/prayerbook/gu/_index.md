@@ -72,7 +72,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11077)
 
 
-
+«[ગુજરાતી](../gu/#bpn11077)» 
 
 
 
@@ -101,7 +101,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11076)
 
 
-
+«[ગુજરાતી](../gu/#bpn11076)» 
 
 
 
@@ -119,7 +119,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11021)
 
 
-
+«[ગુજરાતી](../gu/#bpn11021)» 
 
 
 
@@ -132,7 +132,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11022)
 
 
-
+«[ગુજરાતી](../gu/#bpn11022)» 
 
 
 
@@ -146,7 +146,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11023)
 
 
-
+«[ગુજરાતી](../gu/#bpn11023)» 
 
 
 
@@ -159,7 +159,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11024)
 
 
-
+«[ગુજરાતી](../gu/#bpn11024)» 
 
 
 
@@ -173,7 +173,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11025)
 
 
-
+«[ગુજરાતી](../gu/#bpn11025)» 
 
 
 
@@ -185,7 +185,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11018)
 
 
-
+«[ગુજરાતી](../gu/#bpn11018)» 
 
 
 
@@ -197,7 +197,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11019)
 
 
-
+«[ગુજરાતી](../gu/#bpn11019)» 
 
 
 
@@ -209,7 +209,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11020)
 
 
-
+«[ગુજરાતી](../gu/#bpn11020)» 
 
 
 
@@ -221,7 +221,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11056)
 
 
-
+«[ગુજરાતી](../gu/#bpn11056)» 
 
 
 
@@ -233,7 +233,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11057)
 
 
-
+«[ગુજરાતી](../gu/#bpn11057)» 
 
 
 
@@ -253,7 +253,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11078)
 
 
-
+«[ગુજરાતી](../gu/#bpn11078)» 
 
 
 
@@ -272,7 +272,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11026)
 
 
-
+«[ગુજરાતી](../gu/#bpn11026)» 
 
 
 
@@ -284,7 +284,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11027)
 
 
-
+«[ગુજરાતી](../gu/#bpn11027)» 
 
 
 
@@ -296,7 +296,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11058)
 
 
-
+«[ગુજરાતી](../gu/#bpn11058)» 
 
 
 
@@ -312,7 +312,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11059)
 
 
-
+«[ગુજરાતી](../gu/#bpn11059)» 
 
 
 
@@ -329,7 +329,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11028)
 
 
-
+«[ગુજરાતી](../gu/#bpn11028)» 
 
 
 
@@ -343,7 +343,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11029)
 
 
-
+«[ગુજરાતી](../gu/#bpn11029)» 
 
 
 
@@ -357,7 +357,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11030)
 
 
-
+«[ગુજરાતી](../gu/#bpn11030)» 
 
 
 
@@ -375,7 +375,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11054)
 
 
-
+«[ગુજરાતી](../gu/#bpn11054)» 
 
 
 
@@ -390,7 +390,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11055)
 
 
-
+«[ગુજરાતી](../gu/#bpn11055)» 
 
 
 
@@ -415,7 +415,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11031)
 
 
-
+«[ગુજરાતી](../gu/#bpn11031)» 
 
 
 
@@ -429,7 +429,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11032)
 
 
-
+«[ગુજરાતી](../gu/#bpn11032)» 
 
 
 
@@ -449,7 +449,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11079)
 
 
-
+«[ગુજરાતી](../gu/#bpn11079)» 
 
 
 
@@ -465,7 +465,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11033)
 
 
-
+«[ગુજરાતી](../gu/#bpn11033)» 
 
 
 
@@ -482,7 +482,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11036)
 
 
-
+«[ગુજરાતી](../gu/#bpn11036)» 
 
 
 
@@ -500,7 +500,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11037)
 
 
-
+«[ગુજરાતી](../gu/#bpn11037)» 
 
 
 
@@ -512,7 +512,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11038)
 
 
-
+«[ગુજરાતી](../gu/#bpn11038)» 
 
 
 
@@ -526,7 +526,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11039)
 
 
-
+«[ગુજરાતી](../gu/#bpn11039)» 
 
 
 
@@ -541,7 +541,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11060)
 
 
-
+«[ગુજરાતી](../gu/#bpn11060)» 
 
 
 
@@ -557,7 +557,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11061)
 
 
-
+«[ગુજરાતી](../gu/#bpn11061)» 
 
 
 
@@ -573,7 +573,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11034)
 
 
-
+«[ગુજરાતી](../gu/#bpn11034)» 
 
 
 
@@ -587,7 +587,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11035)
 
 
-
+«[ગુજરાતી](../gu/#bpn11035)» 
 
 
 
@@ -600,7 +600,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11062)
 
 
-
+«[ગુજરાતી](../gu/#bpn11062)» 
 
 
 
@@ -617,7 +617,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11040)
 
 
-
+«[ગુજરાતી](../gu/#bpn11040)» 
 
 
 
@@ -630,7 +630,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11063)
 
 
-
+«[ગુજરાતી](../gu/#bpn11063)» 
 
 
 
@@ -644,7 +644,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11064)
 
 
-
+«[ગુજરાતી](../gu/#bpn11064)» 
 
 
 
@@ -661,7 +661,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11065)
 
 
-
+«[ગુજરાતી](../gu/#bpn11065)» 
 
 
 
@@ -681,7 +681,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 12027)
 
 
-
+«[ગુજરાતી](../gu/#bpn12027)» 
 
 
 
@@ -699,7 +699,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11066)
 
 
-
+«[ગુજરાતી](../gu/#bpn11066)» 
 
 
 
@@ -712,7 +712,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11067)
 
 
-
+«[ગુજરાતી](../gu/#bpn11067)» 
 
 
 
@@ -729,7 +729,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11041)
 
 
-
+«[ગુજરાતી](../gu/#bpn11041)» 
 
 
 
@@ -743,7 +743,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11042)
 
 
-
+«[ગુજરાતી](../gu/#bpn11042)» 
 
 
 
@@ -755,7 +755,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11043)
 
 
-
+«[ગુજરાતી](../gu/#bpn11043)» 
 
 
 
@@ -767,7 +767,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11044)
 
 
-
+«[ગુજરાતી](../gu/#bpn11044)» 
 
 
 
@@ -780,7 +780,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11045)
 
 
-
+«[ગુજરાતી](../gu/#bpn11045)» 
 
 
 
@@ -796,7 +796,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11046)
 
 
-
+«[ગુજરાતી](../gu/#bpn11046)» 
 
 
 
@@ -810,7 +810,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11047)
 
 
-
+«[ગુજરાતી](../gu/#bpn11047)» 
 
 
 
@@ -825,7 +825,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11048)
 
 
-
+«[ગુજરાતી](../gu/#bpn11048)» 
 
 
 
@@ -844,7 +844,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11049)
 
 
-
+«[ગુજરાતી](../gu/#bpn11049)» 
 
 
 
@@ -857,7 +857,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11050)
 
 
-
+«[ગુજરાતી](../gu/#bpn11050)» 
 
 
 
@@ -874,7 +874,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11071)
 
 
-
+«[ગુજરાતી](../gu/#bpn11071)» 
 
 
 
@@ -888,7 +888,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11072)
 
 
-
+«[ગુજરાતી](../gu/#bpn11072)» 
 
 
 
@@ -905,7 +905,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11074)
 
 
-
+«[ગુજરાતી](../gu/#bpn11074)» 
 
 
 
@@ -917,7 +917,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11075)
 
 
-
+«[ગુજરાતી](../gu/#bpn11075)» 
 
 
 
@@ -934,7 +934,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11068)
 
 
-
+«[ગુજરાતી](../gu/#bpn11068)» 
 
 
 
@@ -949,7 +949,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11069)
 
 
-
+«[ગુજરાતી](../gu/#bpn11069)» 
 
 
 
@@ -963,7 +963,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11070)
 
 
-
+«[ગુજરાતી](../gu/#bpn11070)» 
 
 
 
@@ -982,7 +982,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11051)
 
 
-
+«[ગુજરાતી](../gu/#bpn11051)» 
 
 
 
@@ -996,7 +996,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11052)
 
 
-
+«[ગુજરાતી](../gu/#bpn11052)» 
 
 
 
@@ -1009,7 +1009,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11053)
 
 
-
+«[ગુજરાતી](../gu/#bpn11053)» 
 
 
 
@@ -1026,7 +1026,7 @@ tags = ['lang=gu', 'prayerbook']
 (Bahaiprayers.net ID: 11073)
 
 
-
+«[ગુજરાતી](../gu/#bpn11073)» 
 
 
 

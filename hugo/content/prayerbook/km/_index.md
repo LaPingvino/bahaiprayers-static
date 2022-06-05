@@ -22,7 +22,7 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9108)
 
 
-
+«[ភាសាខ្មែរ](../km/#bpn9108)» 
 
 
 
@@ -34,7 +34,7 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9109)
 
 
-
+«[ភាសាខ្មែរ](../km/#bpn9109)» 
 
 
 
@@ -46,7 +46,7 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9111)
 
 
-
+«[ភាសាខ្មែរ](../km/#bpn9111)» 
 
 
 
@@ -60,7 +60,7 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9112)
 
 
-
+«[ភាសាខ្មែរ](../km/#bpn9112)» 
 
 
 
@@ -78,7 +78,7 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9110)
 
 
-
+«[ភាសាខ្មែរ](../km/#bpn9110)» 
 
 
 

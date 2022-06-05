@@ -39,7 +39,13 @@ E paranan den aire i e bestianan den mondi ta resibí tur dia nan alimentashon d
 (Bahaiprayers.net ID: 6867)
 
 
+«[Nederlands](../nl/#AB00431PIT)» 
 
+«[Esperanto](../eo/#AB00431PIT)» 
+
+«[Papiamentu](../pap/#AB00431PIT)» 
+
+«[English](../en/#AB00431PIT)» 
 
 
 
@@ -57,7 +63,11 @@ O Dios!  Eduka e yunan aki.  E yunan aki ta matanan di Bo hòfi,  ta flornan di 
 (Bahaiprayers.net ID: 6872)
 
 
+«[Esperanto](../eo/#ABU0129EDU)» 
 
+«[Papiamentu](../pap/#ABU0129EDU)» 
+
+«[English](../en/#ABU0129EDU)» 
 
 
 
@@ -71,7 +81,15 @@ O Dios, guiami, protehami, iluminá e lampi di mi kurason, i hasimi un strea bri
 (Bahaiprayers.net ID: 6873)
 
 
+«[Nederlands](../nl/#AB04427LMP)» 
 
+«[Esperanto](../eo/#AB04427LMP)» 
+
+«[Papiamentu](../pap/#AB04427LMP)» 
+
+«[English](../en/#AB04427LMP)» 
+
+«[Frysk](../fy/#AB04427LMP)» 
 
 
 
@@ -89,7 +107,17 @@ Bisá:  Dios ta sufisiente riba tur kos i nada den shelunan o riba tera ta sufis
 (Bahaiprayers.net ID: 6868)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -108,7 +136,13 @@ i e laman, i e isla, i e pradera,  unda ku Dios ta menshoná, i su alabansa ta g
 (Bahaiprayers.net ID: 6874)
 
 
+«[Français](../fr/#BH00074BLE)» 
 
+«[Esperanto](../eo/#BH00074BLE)» 
+
+«[Papiamentu](../pap/#BH00074BLE)» 
+
+«[English](../en/#BH00074BLE)» 
 
 
 
@@ -126,7 +160,13 @@ Mi a lanta awe mainta pa fabor di Bo grasia, O mi Dios,  i a laga mi kas konfian
 (Bahaiprayers.net ID: 6870)
 
 
+«[Nederlands](../nl/#BH00009GRA)» 
 
+«[Esperanto](../eo/#BH00009GRA)» 
+
+«[Papiamentu](../pap/#BH00009GRA)» 
+
+«[English](../en/#BH00009GRA)» 
 
 
 
@@ -144,7 +184,13 @@ Mi ta duna testimonio, o mi Dios, ku Bo a kriami pa mi konosé Bo i adorá Bo.  
 (Bahaiprayers.net ID: 6865)
 
 
+«[Esperanto](../eo/#BH11209)» 
 
+«[Papiamentu](../pap/#BH11209)» 
+
+«[English](../en/#BH11209)» 
+
+«[Frysk](../fy/#BH11209)» 
 
 
 
@@ -162,7 +208,17 @@ Tin otro kitador di difikultatnan si no ta Dios? Bisá: Alabá sea Dios.  E ta D
 (Bahaiprayers.net ID: 6869)
 
 
+«[Français](../fr/#BB00623)» 
 
+«[Esperanto](../eo/#BB00623)» 
+
+«[Português (BR)](../pt/#BB00623)» 
+
+«[Papiamentu](../pap/#BB00623)» 
+
+«[English](../en/#BB00623)» 
+
+«[Frysk](../fy/#BB00623)» 
 
 
 
@@ -180,7 +236,13 @@ O mi Dios! O mi Dios!  Uni e kurasonnan di Bo sirbidornan i rebela nan Bo obheti
 (Bahaiprayers.net ID: 6866)
 
 
+«[Esperanto](../eo/#BH10505)» 
 
+«[Papiamentu](../pap/#BH10505)» 
+
+«[English](../en/#BH10505)» 
+
+«[Frysk](../fy/#BH10505)» 
 
 
 
@@ -198,7 +260,7 @@ O Dios! Hasi e hoben aki radiante i konfiere su bondat riba e kriatura pober aki
 (Bahaiprayers.net ID: 6871)
 
 
-
+«[Papiamentu](../pap/#bpn6871)» 
 
 
 

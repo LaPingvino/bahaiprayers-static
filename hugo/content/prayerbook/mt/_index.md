@@ -86,7 +86,7 @@ Berkini, O Alla tiegħi, u lil dawk li għad jemmu fl-egħliem tiegħeK fil-Jum 
 (Bahaiprayers.net ID: 7954)
 
 
-
+«[Malti](../mt/#bpn7954)» 
 
 
 
@@ -106,7 +106,7 @@ Setgħani Int li tagħmel dak li jogħġboK. M’hemmx Alla ieħor għajreK, Li 
 (Bahaiprayers.net ID: 7962)
 
 
-
+«[Malti](../mt/#bpn7962)» 
 
 
 
@@ -118,7 +118,7 @@ L-Isem tiegħeK hu l-fejqan tiegħi, O Alla tiegħi, u l-fakra tiegħeK hija l-k
 (Bahaiprayers.net ID: 8001)
 
 
-
+«[Malti](../mt/#bpn8001)» 
 
 
 
@@ -134,7 +134,7 @@ Jien stenbaht fil-kenn tiegħeK, O Alla tiegħi u jixraqlu dak li jfittex dak il
 (Bahaiprayers.net ID: 7967)
 
 
-
+«[Malti](../mt/#bpn7967)» 
 
 
 
@@ -148,7 +148,7 @@ M’hemmx Alla ieħor għajreK, il-Wieħed, li Bħalu M’Hemmx, li Jaf Kollox, 
 (Bahaiprayers.net ID: 7968)
 
 
-
+«[Malti](../mt/#bpn7968)» 
 
 
 
@@ -166,7 +166,7 @@ Inti, fis-sewwa, is-Sultan tal-bnedmin kollha. M’hemmx Alla għajreK, Li Jaħf
 (Bahaiprayers.net ID: 7942)
 
 
-
+«[Malti](../mt/#bpn7942)» 
 
 
 
@@ -182,7 +182,7 @@ Agħtina il-ħobż ta’ kuljum, u kattar il-ħtiġijiet tal-ħajja, biex ma naq
 (Bahaiprayers.net ID: 7943)
 
 
-
+«[Malti](../mt/#bpn7943)» 
 
 
 
@@ -198,7 +198,7 @@ O Alla tiegħi! O Alla tiegħi! Għaqqad il-qlub tal-qaddejja tiegħeK, u ikxef 
 (Bahaiprayers.net ID: 7991)
 
 
-
+«[Malti](../mt/#bpn7991)» 
 
 
 
@@ -218,7 +218,7 @@ Fis-sew, Int is-Setgħani, Li Tgħix Fik InnifseK, Li Tagħti, Li Taħfer, Li Ta
 (Bahaiprayers.net ID: 7992)
 
 
-
+«[Malti](../mt/#bpn7992)» 
 
 
 
@@ -270,7 +270,7 @@ Fis-sew, Hu il-Hanin, li Jagħder. Tifħir lil Alla, is-Sid tad-dinjiet kollha.
 (Bahaiprayers.net ID: 7997)
 
 
-
+«[Malti](../mt/#bpn7997)» 
 
 
 
@@ -302,7 +302,7 @@ Bierek Int, O Sid Alla tiegħi, is-Siġra Divina tal-Lotu u l-weraq tagħha, u l
 (Bahaiprayers.net ID: 7998)
 
 
-
+«[Malti](../mt/#bpn7998)» 
 
 
 
@@ -324,7 +324,7 @@ Fis-sew, Int il-Għani, li Tagħti Dejjem, l-Id Miftuħa.
 (Bahaiprayers.net ID: 7964)
 
 
-
+«[Malti](../mt/#bpn7964)» 
 
 
 
@@ -345,7 +345,7 @@ M’hemmx Alla għajreK,  Li Jaf-Kollox, il-Għaref f’Kollox. Kull tifħir lil
 (Bahaiprayers.net ID: 8000)
 
 
-
+«[Malti](../mt/#bpn8000)» 
 
 
 
@@ -373,7 +373,7 @@ Int, fis-sew, is-Setgħani, Li Jaf-Kollox, li Mgħarraf-b’Kollox.
 (Bahaiprayers.net ID: 7999)
 
 
-
+«[Malti](../mt/#bpn7999)» 
 
 
 
@@ -391,7 +391,7 @@ Itkun imfaħħar, O Sid Alla tiegħi! Dan huwa l-qaddej tiegħeK li xorob minn i
 (Bahaiprayers.net ID: 7973)
 
 
-
+«[Malti](../mt/#bpn7973)» 
 
 
 
@@ -404,7 +404,7 @@ tiegħeK, u erħejt ruħi għal kollox f’idejK u taħt il-ħarsien tiegħeK. N
 (Bahaiprayers.net ID: 7974)
 
 
-
+«[Malti](../mt/#bpn7974)» 
 
 
 
@@ -422,7 +422,7 @@ Setgħani Int li tagħmel dak li jogħġboK. Inti, fis-sewwa, l-Aktar Għoli, il
 (Bahaiprayers.net ID: 7975)
 
 
-
+«[Malti](../mt/#bpn7975)» 
 
 
 
@@ -434,7 +434,7 @@ Oħloq fija qalb safja, O Alla tiegħi, u ġedded kuxjenza kalma ġo fija, O Tam
 (Bahaiprayers.net ID: 7976)
 
 
-
+«[Malti](../mt/#bpn7976)» 
 
 
 
@@ -446,7 +446,7 @@ O Sid tiegħi! Agħmel ġmieleK l-ikel tiegħi, u l-preżenza tiegħeK ix-xorb t
 (Bahaiprayers.net ID: 7977)
 
 
-
+«[Malti](../mt/#bpn7977)» 
 
 
 
@@ -458,7 +458,7 @@ O Alla tiegħi, l-Alla tat-tjieba u l-ħniena! Inti dak is-Sultan li għall-kelm
 (Bahaiprayers.net ID: 7978)
 
 
-
+«[Malti](../mt/#bpn7978)» 
 
 
 
@@ -472,7 +472,7 @@ O Alla! Int ħabib tiegħi aktar milli jien ħabib tiegħi innifsi. Jien niddedi
 (Bahaiprayers.net ID: 7979)
 
 
-
+«[Malti](../mt/#bpn7979)» 
 
 
 
@@ -484,7 +484,7 @@ O Sid tiegħi! O Sid tiegħi! Din hija lampa mixgħula min-nar ta’ l-imħabba 
 (Bahaiprayers.net ID: 7980)
 
 
-
+«[Malti](../mt/#bpn7980)» 
 
 
 
@@ -498,7 +498,7 @@ Fis-sew, Int l-Aktar Ġeneruż, is-Sid tal-grazzja kotrana. M’hemmx Alla ieħo
 (Bahaiprayers.net ID: 7981)
 
 
-
+«[Malti](../mt/#bpn7981)» 
 
 
 
@@ -527,7 +527,7 @@ Aħna lkoll, fis-sew, nistabru f’Alla.
 (Bahaiprayers.net ID: 7947)
 
 
-
+«[Malti](../mt/#bpn7947)» 
 
 
 
@@ -542,7 +542,7 @@ O Sid tiegħi! Saffihom min-nuqqasijiet, keċċilhom id-dwejjaq tagħhom, u bidd
 (Bahaiprayers.net ID: 7948)
 
 
-
+«[Malti](../mt/#bpn7948)» 
 
 
 
@@ -563,7 +563,7 @@ M’hemm ħadd, O Sid tiegħi, li jaf jurini tjieba li lejh nista’ ndawwar wi�
 (Bahaiprayers.net ID: 7957)
 
 
-
+«[Malti](../mt/#bpn7957)» 
 
 
 
@@ -575,7 +575,7 @@ NitolboK li taħfirli, O Sid tiegħi, għal kull titrif għajr għal titrifeK, u
 (Bahaiprayers.net ID: 7958)
 
 
-
+«[Malti](../mt/#bpn7958)» 
 
 
 
@@ -591,7 +591,7 @@ O Sid tiegħi, Maħbub tiegħi, Xewqa tiegħi! Tħabbeb miegħi waħdi kif jien 
 (Bahaiprayers.net ID: 7993)
 
 
-
+«[Malti](../mt/#bpn7993)» 
 
 
 
@@ -609,7 +609,7 @@ O Sid tiegħi, jiena noffri dak li hemm ġo ġufi lileK. Immela ħalli jkun wild
 (Bahaiprayers.net ID: 7953)
 
 
-
+«[Malti](../mt/#bpn7953)» 
 
 
 
@@ -631,7 +631,7 @@ Is-setgħa tiegħeK, fis-sewwa, tiddaqqas ma’ kollox.
 (Bahaiprayers.net ID: 7949)
 
 
-
+«[Malti](../mt/#bpn7949)» 
 
 
 
@@ -649,7 +649,7 @@ Setgħani Inti li tagħmel dal li jogħġboK. Inti, fis-sewwa, is-Setgħani f’
 (Bahaiprayers.net ID: 7950)
 
 
-
+«[Malti](../mt/#bpn7950)» 
 
 
 
@@ -669,7 +669,7 @@ Tiegħek id-dritt assolut li tamar.
 (Bahaiprayers.net ID: 7951)
 
 
-
+«[Malti](../mt/#bpn7951)» 
 
 
 
@@ -685,7 +685,7 @@ Inti, fis-sewwa, is-Setgħani, li Tagħti-Dejjem, il-Ħili, li Tista’ Kollox.
 (Bahaiprayers.net ID: 7952)
 
 
-
+«[Malti](../mt/#bpn7952)» 
 
 
 
@@ -704,7 +704,7 @@ Setgħani Int li tagħmel dak li jogħġboK. Inti fis-sewwa, l-Għajnuna fis-Sar
 (Bahaiprayers.net ID: 7986)
 
 
-
+«[Malti](../mt/#bpn7986)» 
 
 
 
@@ -718,7 +718,7 @@ Sa miż-żmien lil hinn mill-fakra Int kont setgħan li tagħmel dak li jogħġb
 (Bahaiprayers.net ID: 7987)
 
 
-
+«[Malti](../mt/#bpn7987)» 
 
 
 
@@ -736,7 +736,7 @@ Fis-sew, Int Li Ma Tintrebaħx, is-Setgħan, il-Qawwi f’Kollox.
 (Bahaiprayers.net ID: 7955)
 
 
-
+«[Malti](../mt/#bpn7955)» 
 
 
 
@@ -748,7 +748,7 @@ O Sid Alla tiegħi! Għin lill-maħbubin tiegħeK ħalli jkunu sodi fil Fidi tie
 (Bahaiprayers.net ID: 7956)
 
 
-
+«[Malti](../mt/#bpn7956)» 
 
 
 
@@ -769,7 +769,7 @@ M’hemmx Alla ieħor għajr Inti, l-Għajnuna fis-Saram, li Tgħix Fik Innifsek
 (Bahaiprayers.net ID: 7994)
 
 
-
+«[Malti](../mt/#bpn7994)» 
 
 
 
@@ -813,7 +813,7 @@ Jien xhud tal-għaqda tiegħeK u tal-waħdan tiegħeK, u li Inti Alla, u li m’
 (Bahaiprayers.net ID: 7995)
 
 
-
+«[Malti](../mt/#bpn7995)» 
 
 
 
@@ -890,7 +890,7 @@ Jien xhud, O Alla tiegħi, għal dak li għalih xehdu il-magħżulin tiegħeK, u
 (Bahaiprayers.net ID: 7996)
 
 
-
+«[Malti](../mt/#bpn7996)» 
 
 
 
@@ -910,7 +910,7 @@ Ladarba Int mexxejtom, O Sid tiegħi, lejn l-ilmijiet ħajja tal-grazzja tiegħe
 (Bahaiprayers.net ID: 7983)
 
 
-
+«[Malti](../mt/#bpn7983)» 
 
 
 
@@ -924,7 +924,7 @@ Inti, fis-sew, il-Ġeneruż,  Li Taħfer.
 (Bahaiprayers.net ID: 7984)
 
 
-
+«[Malti](../mt/#bpn7984)» 
 
 
 
@@ -940,7 +940,7 @@ Fis-sewwa, Inti il-Qawwi, is-Setgħani u Li Tista’ Kollox, u Inti il-Għaref, 
 (Bahaiprayers.net ID: 7985)
 
 
-
+«[Malti](../mt/#bpn7985)» 
 
 
 
@@ -956,7 +956,7 @@ O Alla! Eduka lil dawn it-tfal. Dawn it-tfal huma x-xtieli tal-ġnejna tiegħeK,
 (Bahaiprayers.net ID: 7944)
 
 
-
+«[Malti](../mt/#bpn7944)» 
 
 
 
@@ -968,7 +968,7 @@ Huwa Alla! O Alla, Alla tiegħi! Agħtini qalb safja, bħalma perla!
 (Bahaiprayers.net ID: 7945)
 
 
-
+«[Malti](../mt/#bpn7945)» 
 
 
 
@@ -980,7 +980,7 @@ O Alla, mexxini, ħarisni, agħmel minni lampa tiddi u kewkba tgħammex. Int is-
 (Bahaiprayers.net ID: 7946)
 
 
-
+«[Malti](../mt/#bpn7946)» 
 
 
 
@@ -998,7 +998,7 @@ Dawwal, O Sid, l-uċuh tal-qaddejja tiegħeK, biex huma jkunu jistgħu jarawK; u
 (Bahaiprayers.net ID: 7970)
 
 
-
+«[Malti](../mt/#bpn7970)» 
 
 
 
@@ -1014,7 +1014,7 @@ Int l-Alla tal-qawwa, tal-glorja u tal- ġid. M’hemmx Alla għajreK, il-Mexxej
 (Bahaiprayers.net ID: 7971)
 
 
-
+«[Malti](../mt/#bpn7971)» 
 
 
 
@@ -1028,7 +1028,7 @@ Int is-Setgħani, l-Aktar Għoli, l-Aktar Glorjuż, li Tħobb Kollox.
 (Bahaiprayers.net ID: 7972)
 
 
-
+«[Malti](../mt/#bpn7972)» 
 
 
 
@@ -1048,7 +1048,7 @@ U, fl-aħħarnett, nitolboK f’ġieh id-dawl ta’wiċċeK biex tbierek ħidmie
 (Bahaiprayers.net ID: 7988)
 
 
-
+«[Malti](../mt/#bpn7988)» 
 
 
 
@@ -1060,7 +1060,7 @@ O Int Li tiġribeK huwa duwa fejjieqa għal dawk qrib tiegħeK, Li x-xabla tieg�
 (Bahaiprayers.net ID: 7989)
 
 
-
+«[Malti](../mt/#bpn7989)» 
 
 
 
@@ -1072,7 +1072,7 @@ O Sid! Int in-Neħħej ta’ kull diqa u l-Keċċej ta’ kull deni. Inti Dak  L
 (Bahaiprayers.net ID: 7990)
 
 
-
+«[Malti](../mt/#bpn7990)» 
 
 
 
@@ -1100,7 +1100,7 @@ Int is-Setgħan u l-Qawwi, Int Dak li Jaħfer u Inti Dak li jagħlaq għajnejĦ 
 (Bahaiprayers.net ID: 7963)
 
 
-
+«[Malti](../mt/#bpn7963)» 
 
 
 
@@ -1116,7 +1116,7 @@ Imbierek il-post, u d-dar, u l-imkien, u l-belt, u l-qalb, u l-ġebel u l-kenn, 
 (Bahaiprayers.net ID: 7959)
 
 
-
+«[Malti](../mt/#bpn7959)» 
 
 
 
@@ -1131,7 +1131,7 @@ NitolboK, f’ġieh Innifsek u f’ġieh Dak li  Int ħtart bħala Wirja tal-Ess
 (Bahaiprayers.net ID: 7960)
 
 
-
+«[Malti](../mt/#bpn7960)» 
 
 
 
@@ -1145,7 +1145,7 @@ Fis-sewwa, Inti il-Ġeneruż. Fis-sewwa, Int il-Ħanin. Fis-sewwa, Int il-prezzj
 (Bahaiprayers.net ID: 7961)
 
 
-
+«[Malti](../mt/#bpn7961)» 
 
 
 
@@ -1163,7 +1163,7 @@ O Alla tiegħi! Int ispirajt lil ruħi biex toffri it-talba tagħha lileK, u li 
 (Bahaiprayers.net ID: 7969)
 
 
-
+«[Malti](../mt/#bpn7969)» 
 
 
 
@@ -1191,7 +1191,7 @@ Jien nistaqsiK, O Sid ta’ kull maħluq u Sultan ta’ dak li jidher u ta’ da
 (Bahaiprayers.net ID: 7982)
 
 
-
+«[Malti](../mt/#bpn7982)» 
 
 
 
@@ -1207,7 +1207,7 @@ O Sid! Agħmel lil dan iż-żagħżugħ middi, u xerred tjubiteK fuq din l-imsej
 (Bahaiprayers.net ID: 8002)
 
 
-
+«[Malti](../mt/#bpn8002)» 
 
 
 
@@ -1226,7 +1226,7 @@ U meta Hu xtaq juri l-grazzja u t-tjieba lill-bnedmin, u jqiegħed id-dinja fl-o
 (Bahaiprayers.net ID: 7965)
 
 
-
+«[Malti](../mt/#bpn7965)» 
 
 
 
@@ -1240,7 +1240,7 @@ Fis-sewwa, Int il-Ġeneruż. Fis-sewwa, Int is-Setgħani. Fis-sewwa, Int Dak li 
 (Bahaiprayers.net ID: 7966)
 
 
-
+«[Malti](../mt/#bpn7966)» 
 
 
 

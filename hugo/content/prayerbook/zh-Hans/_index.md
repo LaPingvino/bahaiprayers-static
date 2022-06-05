@@ -103,7 +103,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8671)
 
 
-
+«[简体中文](../zh-Hans/#bpn8671)» 
 
 
 
@@ -131,7 +131,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8496)
 
 
-
+«[简体中文](../zh-Hans/#bpn8496)» 
 
 
 
@@ -154,7 +154,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8679)
 
 
-
+«[简体中文](../zh-Hans/#bpn8679)» 
 
 
 
@@ -180,7 +180,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8519)
 
 
-
+«[简体中文](../zh-Hans/#bpn8519)» 
 
 
 
@@ -194,7 +194,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8520)
 
 
-
+«[简体中文](../zh-Hans/#bpn8520)» 
 
 
 
@@ -216,7 +216,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8521)
 
 
-
+«[简体中文](../zh-Hans/#bpn8521)» 
 
 
 
@@ -230,7 +230,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8524)
 
 
-
+«[简体中文](../zh-Hans/#bpn8524)» 
 
 
 
@@ -244,7 +244,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8523)
 
 
-
+«[简体中文](../zh-Hans/#bpn8523)» 
 
 
 
@@ -258,7 +258,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8522)
 
 
-
+«[简体中文](../zh-Hans/#bpn8522)» 
 
 
 
@@ -276,7 +276,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8569)
 
 
-
+«[简体中文](../zh-Hans/#bpn8569)» 
 
 
 
@@ -288,7 +288,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8570)
 
 
-
+«[简体中文](../zh-Hans/#bpn8570)» 
 
 
 
@@ -300,7 +300,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8571)
 
 
-
+«[简体中文](../zh-Hans/#bpn8571)» 
 
 
 
@@ -319,7 +319,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8572)
 
 
-
+«[简体中文](../zh-Hans/#bpn8572)» 
 
 
 
@@ -333,7 +333,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8573)
 
 
-
+«[简体中文](../zh-Hans/#bpn8573)» 
 
 
 
@@ -351,7 +351,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8633)
 
 
-
+«[简体中文](../zh-Hans/#bpn8633)» 
 
 
 
@@ -366,7 +366,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8634)
 
 
-
+«[简体中文](../zh-Hans/#bpn8634)» 
 
 
 
@@ -381,7 +381,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8635)
 
 
-
+«[简体中文](../zh-Hans/#bpn8635)» 
 
 
 
@@ -396,7 +396,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8636)
 
 
-
+«[简体中文](../zh-Hans/#bpn8636)» 
 
 
 
@@ -409,7 +409,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8637)
 
 
-
+«[简体中文](../zh-Hans/#bpn8637)» 
 
 
 
@@ -421,7 +421,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8638)
 
 
-
+«[简体中文](../zh-Hans/#bpn8638)» 
 
 
 
@@ -436,7 +436,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8639)
 
 
-
+«[简体中文](../zh-Hans/#bpn8639)» 
 
 
 
@@ -450,7 +450,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8640)
 
 
-
+«[简体中文](../zh-Hans/#bpn8640)» 
 
 
 
@@ -466,7 +466,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8641)
 
 
-
+«[简体中文](../zh-Hans/#bpn8641)» 
 
 
 
@@ -483,7 +483,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8642)
 
 
-
+«[简体中文](../zh-Hans/#bpn8642)» 
 
 
 
@@ -506,7 +506,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8643)
 
 
-
+«[简体中文](../zh-Hans/#bpn8643)» 
 
 
 
@@ -522,7 +522,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8644)
 
 
-
+«[简体中文](../zh-Hans/#bpn8644)» 
 
 
 
@@ -536,7 +536,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8645)
 
 
-
+«[简体中文](../zh-Hans/#bpn8645)» 
 
 
 
@@ -551,7 +551,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8646)
 
 
-
+«[简体中文](../zh-Hans/#bpn8646)» 
 
 
 
@@ -565,7 +565,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8647)
 
 
-
+«[简体中文](../zh-Hans/#bpn8647)» 
 
 
 
@@ -579,7 +579,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8648)
 
 
-
+«[简体中文](../zh-Hans/#bpn8648)» 
 
 
 
@@ -595,7 +595,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8649)
 
 
-
+«[简体中文](../zh-Hans/#bpn8649)» 
 
 
 
@@ -612,7 +612,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8510)
 
 
-
+«[简体中文](../zh-Hans/#bpn8510)» 
 
 
 
@@ -624,7 +624,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8511)
 
 
-
+«[简体中文](../zh-Hans/#bpn8511)» 
 
 
 
@@ -636,7 +636,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8512)
 
 
-
+«[简体中文](../zh-Hans/#bpn8512)» 
 
 
 
@@ -649,7 +649,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8513)
 
 
-
+«[简体中文](../zh-Hans/#bpn8513)» 
 
 
 
@@ -663,7 +663,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8514)
 
 
-
+«[简体中文](../zh-Hans/#bpn8514)» 
 
 
 
@@ -676,7 +676,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8515)
 
 
-
+«[简体中文](../zh-Hans/#bpn8515)» 
 
 
 
@@ -690,7 +690,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8516)
 
 
-
+«[简体中文](../zh-Hans/#bpn8516)» 
 
 
 
@@ -702,7 +702,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8517)
 
 
-
+«[简体中文](../zh-Hans/#bpn8517)» 
 
 
 
@@ -714,7 +714,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8518)
 
 
-
+«[简体中文](../zh-Hans/#bpn8518)» 
 
 
 
@@ -726,7 +726,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8742)
 
 
-
+«[简体中文](../zh-Hans/#bpn8742)» 
 
 
 
@@ -738,7 +738,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8743)
 
 
-
+«[简体中文](../zh-Hans/#bpn8743)» 
 
 
 
@@ -750,7 +750,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8744)
 
 
-
+«[简体中文](../zh-Hans/#bpn8744)» 
 
 
 
@@ -766,7 +766,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8650)
 
 
-
+«[简体中文](../zh-Hans/#bpn8650)» 
 
 
 
@@ -786,7 +786,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8666)
 
 
-
+«[简体中文](../zh-Hans/#bpn8666)» 
 
 
 
@@ -802,7 +802,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8662)
 
 
-
+«[简体中文](../zh-Hans/#bpn8662)» 
 
 
 
@@ -818,7 +818,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8663)
 
 
-
+«[简体中文](../zh-Hans/#bpn8663)» 
 
 
 
@@ -884,7 +884,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8665)
 
 
-
+«[简体中文](../zh-Hans/#bpn8665)» 
 
 
 
@@ -963,7 +963,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8668)
 
 
-
+«[简体中文](../zh-Hans/#bpn8668)» 
 
 
 
@@ -979,7 +979,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8596)
 
 
-
+«[简体中文](../zh-Hans/#bpn8596)» 
 
 
 
@@ -998,7 +998,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8655)
 
 
-
+«[简体中文](../zh-Hans/#bpn8655)» 
 
 
 
@@ -1013,7 +1013,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8656)
 
 
-
+«[简体中文](../zh-Hans/#bpn8656)» 
 
 
 
@@ -1026,7 +1026,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8657)
 
 
-
+«[简体中文](../zh-Hans/#bpn8657)» 
 
 
 
@@ -1040,7 +1040,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8658)
 
 
-
+«[简体中文](../zh-Hans/#bpn8658)» 
 
 
 
@@ -1053,7 +1053,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8659)
 
 
-
+«[简体中文](../zh-Hans/#bpn8659)» 
 
 
 
@@ -1067,7 +1067,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8660)
 
 
-
+«[简体中文](../zh-Hans/#bpn8660)» 
 
 
 
@@ -1082,7 +1082,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8661)
 
 
-
+«[简体中文](../zh-Hans/#bpn8661)» 
 
 
 
@@ -1100,7 +1100,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8625)
 
 
-
+«[简体中文](../zh-Hans/#bpn8625)» 
 
 
 
@@ -1114,7 +1114,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8626)
 
 
-
+«[简体中文](../zh-Hans/#bpn8626)» 
 
 
 
@@ -1132,7 +1132,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8627)
 
 
-
+«[简体中文](../zh-Hans/#bpn8627)» 
 
 
 
@@ -1145,7 +1145,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8628)
 
 
-
+«[简体中文](../zh-Hans/#bpn8628)» 
 
 
 
@@ -1158,7 +1158,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8629)
 
 
-
+«[简体中文](../zh-Hans/#bpn8629)» 
 
 
 
@@ -1171,7 +1171,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8630)
 
 
-
+«[简体中文](../zh-Hans/#bpn8630)» 
 
 
 
@@ -1183,7 +1183,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8631)
 
 
-
+«[简体中文](../zh-Hans/#bpn8631)» 
 
 
 
@@ -1197,7 +1197,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8632)
 
 
-
+«[简体中文](../zh-Hans/#bpn8632)» 
 
 
 
@@ -1216,7 +1216,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8545)
 
 
-
+«[简体中文](../zh-Hans/#bpn8545)» 
 
 
 
@@ -1231,7 +1231,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8546)
 
 
-
+«[简体中文](../zh-Hans/#bpn8546)» 
 
 
 
@@ -1245,7 +1245,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8547)
 
 
-
+«[简体中文](../zh-Hans/#bpn8547)» 
 
 
 
@@ -1259,7 +1259,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8548)
 
 
-
+«[简体中文](../zh-Hans/#bpn8548)» 
 
 
 
@@ -1272,7 +1272,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8549)
 
 
-
+«[简体中文](../zh-Hans/#bpn8549)» 
 
 
 
@@ -1291,7 +1291,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8561)
 
 
-
+«[简体中文](../zh-Hans/#bpn8561)» 
 
 
 
@@ -1307,7 +1307,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8574)
 
 
-
+«[简体中文](../zh-Hans/#bpn8574)» 
 
 
 
@@ -1324,7 +1324,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8575)
 
 
-
+«[简体中文](../zh-Hans/#bpn8575)» 
 
 
 
@@ -1338,7 +1338,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8576)
 
 
-
+«[简体中文](../zh-Hans/#bpn8576)» 
 
 
 
@@ -1350,7 +1350,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8577)
 
 
-
+«[简体中文](../zh-Hans/#bpn8577)» 
 
 
 
@@ -1363,7 +1363,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8578)
 
 
-
+«[简体中文](../zh-Hans/#bpn8578)» 
 
 
 
@@ -1379,7 +1379,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8538)
 
 
-
+«[简体中文](../zh-Hans/#bpn8538)» 
 
 
 
@@ -1393,7 +1393,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8539)
 
 
-
+«[简体中文](../zh-Hans/#bpn8539)» 
 
 
 
@@ -1405,7 +1405,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8540)
 
 
-
+«[简体中文](../zh-Hans/#bpn8540)» 
 
 
 
@@ -1418,7 +1418,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8541)
 
 
-
+«[简体中文](../zh-Hans/#bpn8541)» 
 
 
 
@@ -1430,7 +1430,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8542)
 
 
-
+«[简体中文](../zh-Hans/#bpn8542)» 
 
 
 
@@ -1445,7 +1445,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8543)
 
 
-
+«[简体中文](../zh-Hans/#bpn8543)» 
 
 
 
@@ -1458,7 +1458,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8544)
 
 
-
+«[简体中文](../zh-Hans/#bpn8544)» 
 
 
 
@@ -1489,7 +1489,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8673)
 
 
-
+«[简体中文](../zh-Hans/#bpn8673)» 
 
 
 
@@ -1504,7 +1504,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8674)
 
 
-
+«[简体中文](../zh-Hans/#bpn8674)» 
 
 
 
@@ -1524,7 +1524,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8675)
 
 
-
+«[简体中文](../zh-Hans/#bpn8675)» 
 
 
 
@@ -1548,7 +1548,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8676)
 
 
-
+«[简体中文](../zh-Hans/#bpn8676)» 
 
 
 
@@ -1560,7 +1560,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8677)
 
 
-
+«[简体中文](../zh-Hans/#bpn8677)» 
 
 
 
@@ -1578,7 +1578,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8536)
 
 
-
+«[简体中文](../zh-Hans/#bpn8536)» 
 
 
 
@@ -1592,7 +1592,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8535)
 
 
-
+«[简体中文](../zh-Hans/#bpn8535)» 
 
 
 
@@ -1606,7 +1606,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8537)
 
 
-
+«[简体中文](../zh-Hans/#bpn8537)» 
 
 
 
@@ -1625,7 +1625,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8586)
 
 
-
+«[简体中文](../zh-Hans/#bpn8586)» 
 
 
 
@@ -1637,7 +1637,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8587)
 
 
-
+«[简体中文](../zh-Hans/#bpn8587)» 
 
 
 
@@ -1650,7 +1650,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8588)
 
 
-
+«[简体中文](../zh-Hans/#bpn8588)» 
 
 
 
@@ -1666,7 +1666,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8589)
 
 
-
+«[简体中文](../zh-Hans/#bpn8589)» 
 
 
 
@@ -1689,7 +1689,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8669)
 
 
-
+«[简体中文](../zh-Hans/#bpn8669)» 
 
 
 
@@ -1708,7 +1708,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8670)
 
 
-
+«[简体中文](../zh-Hans/#bpn8670)» 
 
 
 
@@ -1725,7 +1725,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8608)
 
 
-
+«[简体中文](../zh-Hans/#bpn8608)» 
 
 
 
@@ -1737,7 +1737,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8609)
 
 
-
+«[简体中文](../zh-Hans/#bpn8609)» 
 
 
 
@@ -1752,7 +1752,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8610)
 
 
-
+«[简体中文](../zh-Hans/#bpn8610)» 
 
 
 
@@ -1765,7 +1765,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8611)
 
 
-
+«[简体中文](../zh-Hans/#bpn8611)» 
 
 
 
@@ -1779,7 +1779,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8612)
 
 
-
+«[简体中文](../zh-Hans/#bpn8612)» 
 
 
 
@@ -1793,7 +1793,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8613)
 
 
-
+«[简体中文](../zh-Hans/#bpn8613)» 
 
 
 
@@ -1810,7 +1810,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8614)
 
 
-
+«[简体中文](../zh-Hans/#bpn8614)» 
 
 
 
@@ -1825,7 +1825,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8615)
 
 
-
+«[简体中文](../zh-Hans/#bpn8615)» 
 
 
 
@@ -1840,7 +1840,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8616)
 
 
-
+«[简体中文](../zh-Hans/#bpn8616)» 
 
 
 
@@ -1853,7 +1853,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8617)
 
 
-
+«[简体中文](../zh-Hans/#bpn8617)» 
 
 
 
@@ -1868,7 +1868,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8618)
 
 
-
+«[简体中文](../zh-Hans/#bpn8618)» 
 
 
 
@@ -1880,7 +1880,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8619)
 
 
-
+«[简体中文](../zh-Hans/#bpn8619)» 
 
 
 
@@ -1893,7 +1893,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8620)
 
 
-
+«[简体中文](../zh-Hans/#bpn8620)» 
 
 
 
@@ -1908,7 +1908,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8621)
 
 
-
+«[简体中文](../zh-Hans/#bpn8621)» 
 
 
 
@@ -1922,7 +1922,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8622)
 
 
-
+«[简体中文](../zh-Hans/#bpn8622)» 
 
 
 
@@ -1937,7 +1937,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8623)
 
 
-
+«[简体中文](../zh-Hans/#bpn8623)» 
 
 
 
@@ -1952,7 +1952,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8624)
 
 
-
+«[简体中文](../zh-Hans/#bpn8624)» 
 
 
 
@@ -1969,7 +1969,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8606)
 
 
-
+«[简体中文](../zh-Hans/#bpn8606)» 
 
 
 
@@ -1985,7 +1985,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8607)
 
 
-
+«[简体中文](../zh-Hans/#bpn8607)» 
 
 
 
@@ -2003,7 +2003,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8495)
 
 
-
+«[简体中文](../zh-Hans/#bpn8495)» 
 
 
 
@@ -2021,7 +2021,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8562)
 
 
-
+«[简体中文](../zh-Hans/#bpn8562)» 
 
 
 
@@ -2033,7 +2033,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8563)
 
 
-
+«[简体中文](../zh-Hans/#bpn8563)» 
 
 
 
@@ -2046,7 +2046,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8564)
 
 
-
+«[简体中文](../zh-Hans/#bpn8564)» 
 
 
 
@@ -2060,7 +2060,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8565)
 
 
-
+«[简体中文](../zh-Hans/#bpn8565)» 
 
 
 
@@ -2075,7 +2075,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8566)
 
 
-
+«[简体中文](../zh-Hans/#bpn8566)» 
 
 
 
@@ -2089,7 +2089,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8567)
 
 
-
+«[简体中文](../zh-Hans/#bpn8567)» 
 
 
 
@@ -2107,7 +2107,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8550)
 
 
-
+«[简体中文](../zh-Hans/#bpn8550)» 
 
 
 
@@ -2120,7 +2120,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8551)
 
 
-
+«[简体中文](../zh-Hans/#bpn8551)» 
 
 
 
@@ -2132,7 +2132,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8552)
 
 
-
+«[简体中文](../zh-Hans/#bpn8552)» 
 
 
 
@@ -2148,7 +2148,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8553)
 
 
-
+«[简体中文](../zh-Hans/#bpn8553)» 
 
 
 
@@ -2162,7 +2162,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8554)
 
 
-
+«[简体中文](../zh-Hans/#bpn8554)» 
 
 
 
@@ -2177,7 +2177,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8555)
 
 
-
+«[简体中文](../zh-Hans/#bpn8555)» 
 
 
 
@@ -2189,7 +2189,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8556)
 
 
-
+«[简体中文](../zh-Hans/#bpn8556)» 
 
 
 
@@ -2201,7 +2201,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8557)
 
 
-
+«[简体中文](../zh-Hans/#bpn8557)» 
 
 
 
@@ -2214,7 +2214,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8558)
 
 
-
+«[简体中文](../zh-Hans/#bpn8558)» 
 
 
 
@@ -2227,7 +2227,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8559)
 
 
-
+«[简体中文](../zh-Hans/#bpn8559)» 
 
 
 
@@ -2239,7 +2239,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8560)
 
 
-
+«[简体中文](../zh-Hans/#bpn8560)» 
 
 
 
@@ -2259,7 +2259,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8597)
 
 
-
+«[简体中文](../zh-Hans/#bpn8597)» 
 
 
 
@@ -2272,7 +2272,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8598)
 
 
-
+«[简体中文](../zh-Hans/#bpn8598)» 
 
 
 
@@ -2286,7 +2286,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8599)
 
 
-
+«[简体中文](../zh-Hans/#bpn8599)» 
 
 
 
@@ -2298,7 +2298,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8600)
 
 
-
+«[简体中文](../zh-Hans/#bpn8600)» 
 
 
 
@@ -2313,7 +2313,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8601)
 
 
-
+«[简体中文](../zh-Hans/#bpn8601)» 
 
 
 
@@ -2326,7 +2326,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8602)
 
 
-
+«[简体中文](../zh-Hans/#bpn8602)» 
 
 
 
@@ -2341,7 +2341,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8603)
 
 
-
+«[简体中文](../zh-Hans/#bpn8603)» 
 
 
 
@@ -2353,7 +2353,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8604)
 
 
-
+«[简体中文](../zh-Hans/#bpn8604)» 
 
 
 
@@ -2367,7 +2367,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8605)
 
 
-
+«[简体中文](../zh-Hans/#bpn8605)» 
 
 
 
@@ -2384,7 +2384,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8493)
 
 
-
+«[简体中文](../zh-Hans/#bpn8493)» 
 
 
 
@@ -2397,7 +2397,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8494)
 
 
-
+«[简体中文](../zh-Hans/#bpn8494)» 
 
 
 
@@ -2412,7 +2412,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8497)
 
 
-
+«[简体中文](../zh-Hans/#bpn8497)» 
 
 
 
@@ -2424,7 +2424,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8498)
 
 
-
+«[简体中文](../zh-Hans/#bpn8498)» 
 
 
 
@@ -2438,7 +2438,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8499)
 
 
-
+«[简体中文](../zh-Hans/#bpn8499)» 
 
 
 
@@ -2451,7 +2451,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8500)
 
 
-
+«[简体中文](../zh-Hans/#bpn8500)» 
 
 
 
@@ -2465,7 +2465,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8501)
 
 
-
+«[简体中文](../zh-Hans/#bpn8501)» 
 
 
 
@@ -2482,7 +2482,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8579)
 
 
-
+«[简体中文](../zh-Hans/#bpn8579)» 
 
 
 
@@ -2496,7 +2496,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8580)
 
 
-
+«[简体中文](../zh-Hans/#bpn8580)» 
 
 
 
@@ -2511,7 +2511,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8581)
 
 
-
+«[简体中文](../zh-Hans/#bpn8581)» 
 
 
 
@@ -2525,7 +2525,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8582)
 
 
-
+«[简体中文](../zh-Hans/#bpn8582)» 
 
 
 
@@ -2538,7 +2538,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8583)
 
 
-
+«[简体中文](../zh-Hans/#bpn8583)» 
 
 
 
@@ -2554,7 +2554,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8584)
 
 
-
+«[简体中文](../zh-Hans/#bpn8584)» 
 
 
 
@@ -2567,7 +2567,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8585)
 
 
-
+«[简体中文](../zh-Hans/#bpn8585)» 
 
 
 
@@ -2601,7 +2601,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8664)
 
 
-
+«[简体中文](../zh-Hans/#bpn8664)» 
 
 
 
@@ -2618,7 +2618,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8680)
 
 
-
+«[简体中文](../zh-Hans/#bpn8680)» 
 
 
 
@@ -2634,7 +2634,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8651)
 
 
-
+«[简体中文](../zh-Hans/#bpn8651)» 
 
 
 
@@ -2649,7 +2649,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8652)
 
 
-
+«[简体中文](../zh-Hans/#bpn8652)» 
 
 
 
@@ -2663,7 +2663,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8653)
 
 
-
+«[简体中文](../zh-Hans/#bpn8653)» 
 
 
 
@@ -2677,7 +2677,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8654)
 
 
-
+«[简体中文](../zh-Hans/#bpn8654)» 
 
 
 
@@ -2695,7 +2695,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8502)
 
 
-
+«[简体中文](../zh-Hans/#bpn8502)» 
 
 
 
@@ -2708,7 +2708,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8503)
 
 
-
+«[简体中文](../zh-Hans/#bpn8503)» 
 
 
 
@@ -2720,7 +2720,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8504)
 
 
-
+«[简体中文](../zh-Hans/#bpn8504)» 
 
 
 
@@ -2732,7 +2732,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8505)
 
 
-
+«[简体中文](../zh-Hans/#bpn8505)» 
 
 
 
@@ -2744,7 +2744,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8506)
 
 
-
+«[简体中文](../zh-Hans/#bpn8506)» 
 
 
 
@@ -2756,7 +2756,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8741)
 
 
-
+«[简体中文](../zh-Hans/#bpn8741)» 
 
 
 
@@ -2778,7 +2778,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8507)
 
 
-
+«[简体中文](../zh-Hans/#bpn8507)» 
 
 
 
@@ -2791,7 +2791,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8508)
 
 
-
+«[简体中文](../zh-Hans/#bpn8508)» 
 
 
 
@@ -2803,7 +2803,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8509)
 
 
-
+«[简体中文](../zh-Hans/#bpn8509)» 
 
 
 
@@ -2824,7 +2824,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8678)
 
 
-
+«[简体中文](../zh-Hans/#bpn8678)» 
 
 
 
@@ -2841,7 +2841,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8590)
 
 
-
+«[简体中文](../zh-Hans/#bpn8590)» 
 
 
 
@@ -2856,7 +2856,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8591)
 
 
-
+«[简体中文](../zh-Hans/#bpn8591)» 
 
 
 
@@ -2870,7 +2870,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8592)
 
 
-
+«[简体中文](../zh-Hans/#bpn8592)» 
 
 
 
@@ -2883,7 +2883,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8593)
 
 
-
+«[简体中文](../zh-Hans/#bpn8593)» 
 
 
 
@@ -2896,7 +2896,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8594)
 
 
-
+«[简体中文](../zh-Hans/#bpn8594)» 
 
 
 
@@ -2910,7 +2910,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8595)
 
 
-
+«[简体中文](../zh-Hans/#bpn8595)» 
 
 
 
@@ -2928,7 +2928,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8525)
 
 
-
+«[简体中文](../zh-Hans/#bpn8525)» 
 
 
 
@@ -2942,7 +2942,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8526)
 
 
-
+«[简体中文](../zh-Hans/#bpn8526)» 
 
 
 
@@ -2956,7 +2956,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8527)
 
 
-
+«[简体中文](../zh-Hans/#bpn8527)» 
 
 
 
@@ -2971,7 +2971,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8528)
 
 
-
+«[简体中文](../zh-Hans/#bpn8528)» 
 
 
 
@@ -2986,7 +2986,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8529)
 
 
-
+«[简体中文](../zh-Hans/#bpn8529)» 
 
 
 
@@ -3002,7 +3002,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8530)
 
 
-
+«[简体中文](../zh-Hans/#bpn8530)» 
 
 
 
@@ -3017,7 +3017,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8531)
 
 
-
+«[简体中文](../zh-Hans/#bpn8531)» 
 
 
 
@@ -3033,7 +3033,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8532)
 
 
-
+«[简体中文](../zh-Hans/#bpn8532)» 
 
 
 
@@ -3048,7 +3048,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8533)
 
 
-
+«[简体中文](../zh-Hans/#bpn8533)» 
 
 
 
@@ -3062,7 +3062,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8534)
 
 
-
+«[简体中文](../zh-Hans/#bpn8534)» 
 
 
 
@@ -3097,7 +3097,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8667)
 
 
-
+«[简体中文](../zh-Hans/#bpn8667)» 
 
 
 
@@ -3159,7 +3159,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8568)
 
 
-
+«[简体中文](../zh-Hans/#bpn8568)» 
 
 
 
@@ -3205,7 +3205,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8492)
 
 
-
+«[简体中文](../zh-Hans/#bpn8492)» 
 
 
 
@@ -3226,7 +3226,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 (Bahaiprayers.net ID: 8672)
 
 
-
+«[简体中文](../zh-Hans/#bpn8672)» 
 
 
 

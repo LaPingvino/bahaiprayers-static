@@ -48,7 +48,7 @@ pe den e kari a Nen fu Gado
 (Bahaiprayers.net ID: 6076)
 
 
-
+«[Sranan Tongo](../srn/#bpn6076)» 
 
 
 
@@ -62,7 +62,7 @@ Disi sa prisiri den ati fu den suma di e libi leti-fasi. Kande fosi en no man 
 (Bahaiprayers.net ID: 6077)
 
 
-
+«[Sranan Tongo](../srn/#bpn6077)» 
 
 
 
@@ -76,7 +76,7 @@ Hoewel hij zich misschien eerst van deze uitwerking niet bewust zal zijn, zal de
 (Bahaiprayers.net ID: 6078)
 
 
-
+«[Sranan Tongo](../srn/#bpn6078)» 
 
 
 
@@ -90,7 +90,7 @@ Aluwansi fosu an bi ta mëni di kaakiti fu hën, toku di kaakiti u di blesi di a
 (Bahaiprayers.net ID: 6079)
 
 
-
+«[Sranan Tongo](../srn/#bpn6079)» 
 
 
 
@@ -103,7 +103,7 @@ O mi Gado! O mi Gado! Tai makandra den ati fu Yu dinari èn opo den ai gi Yu
 (Bahaiprayers.net ID: 6092)
 
 
-
+«[Sranan Tongo](../srn/#bpn6092)» 
 
 
 
@@ -116,7 +116,7 @@ O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw
 (Bahaiprayers.net ID: 6093)
 
 
-
+«[Sranan Tongo](../srn/#bpn6093)» 
 
 
 
@@ -130,7 +130,7 @@ Ke mi Gadu! Ke mi Gadu! Tai dee hati fu dee dinaii Fii a wan nöö jabi de w
 (Bahaiprayers.net ID: 6094)
 
 
-
+«[Sranan Tongo](../srn/#bpn6094)» 
 
 
 
@@ -145,7 +145,7 @@ Laat hen de tuin van geluk betreden, reinig hen met het zuiverste water en sta
 (Bahaiprayers.net ID: 6104)
 
 
-
+«[Sranan Tongo](../srn/#bpn6104)» 
 
 
 
@@ -159,7 +159,7 @@ hën di go a di goonliba u jeje. Ke mi Masa Gadu! Limbo de fu di misi di den m
 (Bahaiprayers.net ID: 6105)
 
 
-
+«[Sranan Tongo](../srn/#bpn6105)» 
 
 
 
@@ -176,7 +176,7 @@ Fa mi kan wani go sribi, o Gado, mi Gado, te den ai fu den suma di e angri fu 
 (Bahaiprayers.net ID: 6089)
 
 
-
+«[Sranan Tongo](../srn/#bpn6089)» 
 
 
 
@@ -189,7 +189,7 @@ Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren 
 (Bahaiprayers.net ID: 6090)
 
 
-
+«[Sranan Tongo](../srn/#bpn6090)» 
 
 
 
@@ -203,7 +203,7 @@ te dee dy ta mëni Ju gaanfa na sa duumi biga de paati de ku Ju; Unfa mi sa 
 (Bahaiprayers.net ID: 6091)
 
 
-
+«[Sranan Tongo](../srn/#bpn6091)» 
 
 
 
@@ -220,7 +220,7 @@ O Gado. Opo mi kra èn meki a breti. Krin mi ati. Leti mi krakti. Mi e p
 (Bahaiprayers.net ID: 6101)
 
 
-
+«[Sranan Tongo](../srn/#bpn6101)» 
 
 
 
@@ -234,7 +234,7 @@ Ik wijd mij aan U, o Heer!
 (Bahaiprayers.net ID: 6102)
 
 
-
+«[Sranan Tongo](../srn/#bpn6102)» 
 
 
 
@@ -249,7 +249,7 @@ Mi an kë tan ta mëni dee sondi fu goonliba nöömö. Ke Gadu! Ju dë wan mö
 (Bahaiprayers.net ID: 6103)
 
 
-
+«[Sranan Tongo](../srn/#bpn6103)» 
 
 
 
@@ -267,7 +267,7 @@ Yu sar'ati gi mi na mi dresi nanga mi yepi ini a grontapu disi nanga a gront
 (Bahaiprayers.net ID: 6083)
 
 
-
+«[Sranan Tongo](../srn/#bpn6083)» 
 
 
 
@@ -281,7 +281,7 @@ Uw genade is mijn genezing en mijn steun in deze wereld en in de wereld die 
 (Bahaiprayers.net ID: 6084)
 
 
-
+«[Sranan Tongo](../srn/#bpn6084)» 
 
 
 
@@ -294,7 +294,7 @@ Ju në da kula fu mi, ke mi Gadu, di mëni mi ta mëni Ju, hën da mi deesi. T
 (Bahaiprayers.net ID: 6085)
 
 
-
+«[Sranan Tongo](../srn/#bpn6085)» 
 
 
 
@@ -311,7 +311,7 @@ Sortu Puruman fu dangra sani de boiti Gado? Taki: Grani gi Gado! En na Gado!�
 (Bahaiprayers.net ID: 6095)
 
 
-
+«[Sranan Tongo](../srn/#bpn6095)» 
 
 
 
@@ -324,7 +324,7 @@ Is er iemand die moeilijkheden wegneemt buiten God? Zeg: Ere zij God! Hij is God
 (Bahaiprayers.net ID: 6096)
 
 
-
+«[Sranan Tongo](../srn/#bpn6096)» 
 
 
 
@@ -337,7 +337,7 @@ Sëmbë dë di sa puu fuka söndö Gadu öö? Taki taa: Tangi u Gadu! Hën da 
 (Bahaiprayers.net ID: 6097)
 
 
-
+«[Sranan Tongo](../srn/#bpn6097)» 
 
 
 
@@ -354,7 +354,7 @@ O Gado, tyari mi, kibri mi; leti a lampu fu mi ati èn meki mi wan brenk
 (Bahaiprayers.net ID: 6098)
 
 
-
+«[Sranan Tongo](../srn/#bpn6098)» 
 
 
 
@@ -367,7 +367,7 @@ O God, leid mij, bescherm mij; maak mij een stralend licht en een schitter
 (Bahaiprayers.net ID: 6099)
 
 
-
+«[Sranan Tongo](../srn/#bpn6099)» 
 
 
 
@@ -380,7 +380,7 @@ Ke Gaangadu! Tja mi, tjubi mi; sende di faja da mi ati noj mbei mi kuma 
 (Bahaiprayers.net ID: 6100)
 
 
-
+«[Sranan Tongo](../srn/#bpn6100)» 
 
 
 
@@ -399,7 +399,7 @@ Mi poti, nanga Yu gudu. No wan tra Gado de boiti Yu, a Yepiman ini nowtu, 
 (Bahaiprayers.net ID: 6080)
 
 
-
+«[Sranan Tongo](../srn/#bpn6080)» 
 
 
 
@@ -413,7 +413,7 @@ Ik getuig, o mijn God, dat Gij mij hebt geschapen om U te kennen en U te aanbi
 (Bahaiprayers.net ID: 6081)
 
 
-
+«[Sranan Tongo](../srn/#bpn6081)» 
 
 
 
@@ -427,7 +427,7 @@ Mi ta soi, ke mi Gadu, ta Ju mbei mi fu sabi Ju en fu begi Ju. Mi ta djula
 (Bahaiprayers.net ID: 6082)
 
 
-
+«[Sranan Tongo](../srn/#bpn6082)» 
 
 
 
@@ -447,7 +447,7 @@ a Alakoni-Wan.
 (Bahaiprayers.net ID: 6086)
 
 
-
+«[Sranan Tongo](../srn/#bpn6086)» 
 
 
 
@@ -461,7 +461,7 @@ en laat mij veilig terugkeren zoals Gij mij onder Uw bescherming liet vertrekk
 (Bahaiprayers.net ID: 6087)
 
 
-
+«[Sranan Tongo](../srn/#bpn6087)» 
 
 
 
@@ -476,7 +476,7 @@ Ju di möö köni wan.
 (Bahaiprayers.net ID: 6088)
 
 
-
+«[Sranan Tongo](../srn/#bpn6088)» 
 
 
 

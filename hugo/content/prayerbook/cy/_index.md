@@ -68,7 +68,7 @@ O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will ca
 (Bahaiprayers.net ID: 13326)
 
 
-
+«[Cymraeg](../cy/#bpn13326)» 
 
 
 
@@ -82,7 +82,7 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 (Bahaiprayers.net ID: 13324)
 
 
-
+«[Cymraeg](../cy/#bpn13324)» 
 
 
 
@@ -96,7 +96,7 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 (Bahaiprayers.net ID: 13325)
 
 
-
+«[Cymraeg](../cy/#bpn13325)» 
 
 
 
@@ -110,7 +110,7 @@ O Lord my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy way
 (Bahaiprayers.net ID: 13327)
 
 
-
+«[Cymraeg](../cy/#bpn13327)» 
 
 
 
@@ -126,7 +126,7 @@ O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair. Ti yw'r 
 (Bahaiprayers.net ID: 13330)
 
 
-
+«[Cymraeg](../cy/#bpn13330)» 
 
 
 
@@ -140,7 +140,7 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 (Bahaiprayers.net ID: 13328)
 
 
-
+«[Cymraeg](../cy/#bpn13328)» 
 
 
 
@@ -154,7 +154,7 @@ O Thou peerless Lord! Let this suckling babe be nursed from the breast of Thy lo
 (Bahaiprayers.net ID: 13329)
 
 
-
+«[Cymraeg](../cy/#bpn13329)» 
 
 
 
@@ -168,7 +168,7 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 (Bahaiprayers.net ID: 13331)
 
 
-
+«[Cymraeg](../cy/#bpn13331)» 
 
 
 
@@ -185,7 +185,7 @@ Thou art the Powerful, the All-Loving.
 (Bahaiprayers.net ID: 13332)
 
 
-
+«[Cymraeg](../cy/#bpn13332)» 
 
 
 
@@ -201,7 +201,7 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer!
 (Bahaiprayers.net ID: 13333)
 
 
-
+«[Cymraeg](../cy/#bpn13333)» 
 
 
 
@@ -229,7 +229,7 @@ and the meadow where mention of God hath been made, and His praise glorified.
 (Bahaiprayers.net ID: 13318)
 
 
-
+«[Cymraeg](../cy/#bpn13318)» 
 
 
 
@@ -243,7 +243,7 @@ Peruse ye every day the verses revealed by God. Blessed is the man who reciteth 
 (Bahaiprayers.net ID: 13319)
 
 
-
+«[Cymraeg](../cy/#bpn13319)» 
 
 
 
@@ -257,7 +257,7 @@ Intone, O My servant, the verses of God that have been received by thee, as into
 (Bahaiprayers.net ID: 13320)
 
 
-
+«[Cymraeg](../cy/#bpn13320)» 
 
 
 
@@ -286,7 +286,7 @@ Thou art, truly, the Lord and King of all men, and art potent over all things.
 (Bahaiprayers.net ID: 13323)
 
 
-
+«[Cymraeg](../cy/#bpn13323)» 
 
 
 
@@ -312,7 +312,7 @@ By Thy might! I ask not, whether sleeping or waking, but that which Thou dost de
 (Bahaiprayers.net ID: 13334)
 
 
-
+«[Cymraeg](../cy/#bpn13334)» 
 
 
 
@@ -330,7 +330,7 @@ I have committed, O my Lord, my spirit and my entire being into the right hand o
 (Bahaiprayers.net ID: 13335)
 
 
-
+«[Cymraeg](../cy/#bpn13335)» 
 
 
 
@@ -414,7 +414,7 @@ I beseech Thee, O my Lord, by Thyself, and by Thy signs, and Thy clear tokens, a
 (Bahaiprayers.net ID: 13368)
 
 
-
+«[Cymraeg](../cy/#bpn13368)» 
 
 
 
@@ -431,7 +431,7 @@ O Thou kind Lord! O Thou Who art generous and merciful! We are servants of Thy t
 (Bahaiprayers.net ID: 13369)
 
 
-
+«[Cymraeg](../cy/#bpn13369)» 
 
 
 
@@ -445,7 +445,7 @@ O Lord!  Make this youth radiant, and confer Thy bounty upon this poor creature.
 (Bahaiprayers.net ID: 13370)
 
 
-
+«[Cymraeg](../cy/#bpn13370)» 
 
 
 
@@ -462,7 +462,7 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 (Bahaiprayers.net ID: 13353)
 
 
-
+«[Cymraeg](../cy/#bpn13353)» 
 
 
 
@@ -481,7 +481,7 @@ Verily, Thou art the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 13354)
 
 
-
+«[Cymraeg](../cy/#bpn13354)» 
 
 
 
@@ -504,7 +504,7 @@ O my God! Let no harm beset me in times of tests, and in moments of heedlessness
 (Bahaiprayers.net ID: 13346)
 
 
-
+«[Cymraeg](../cy/#bpn13346)» 
 
 
 
@@ -518,7 +518,7 @@ Bestow upon me my portion, O Lord, as Thou pleasest, and cause me to be satisfie
 (Bahaiprayers.net ID: 13347)
 
 
-
+«[Cymraeg](../cy/#bpn13347)» 
 
 
 
@@ -532,7 +532,7 @@ O Thou compassionate Lord, Thou Who art generous and able! We are servants of Th
 (Bahaiprayers.net ID: 13348)
 
 
-
+«[Cymraeg](../cy/#bpn13348)» 
 
 
 
@@ -550,7 +550,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 (Bahaiprayers.net ID: 13352)
 
 
-
+«[Cymraeg](../cy/#bpn13352)» 
 
 
 
@@ -580,7 +580,7 @@ Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 (Bahaiprayers.net ID: 13367)
 
 
-
+«[Cymraeg](../cy/#bpn13367)» 
 
 
 
@@ -737,7 +737,7 @@ I testify, O my God, to that whereunto Thy chosen Ones have testified, and ackno
 (Bahaiprayers.net ID: 13322)
 
 
-
+«[Cymraeg](../cy/#bpn13322)» 
 
 
 
@@ -774,7 +774,7 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 13364)
 
 
-
+«[Cymraeg](../cy/#bpn13364)» 
 
 
 
@@ -792,7 +792,7 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 13373)
 
 
-
+«[Cymraeg](../cy/#bpn13373)» 
 
 
 
@@ -808,7 +808,7 @@ Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 (Bahaiprayers.net ID: 13374)
 
 
-
+«[Cymraeg](../cy/#bpn13374)» 
 
 
 
@@ -832,7 +832,7 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 (Bahaiprayers.net ID: 13336)
 
 
-
+«[Cymraeg](../cy/#bpn13336)» 
 
 
 
@@ -850,7 +850,7 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 13337)
 
 
-
+«[Cymraeg](../cy/#bpn13337)» 
 
 
 
@@ -869,7 +869,7 @@ O God, my God, my Beloved, my heart's Desire,
 (Bahaiprayers.net ID: 13371)
 
 
-
+«[Cymraeg](../cy/#bpn13371)» 
 
 
 
@@ -941,7 +941,7 @@ Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
 (Bahaiprayers.net ID: 13372)
 
 
-
+«[Cymraeg](../cy/#bpn13372)» 
 
 
 
@@ -965,7 +965,7 @@ Powerful art Thou to do what pleaseth Thee. Thou, truly, art the All-Glorious, t
 (Bahaiprayers.net ID: 13349)
 
 
-
+«[Cymraeg](../cy/#bpn13349)» 
 
 
 
@@ -1019,7 +1019,7 @@ Bahá'u'lláh.
 (Bahaiprayers.net ID: 13355)
 
 
-
+«[Cymraeg](../cy/#bpn13355)» 
 
 
 
@@ -1040,7 +1040,7 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 (Bahaiprayers.net ID: 13357)
 
 
-
+«[Cymraeg](../cy/#bpn13357)» 
 
 
 
@@ -1058,7 +1058,7 @@ Thou seest me, O Lord, detached from all things but Thee, clinging to the cord o
 (Bahaiprayers.net ID: 13350)
 
 
-
+«[Cymraeg](../cy/#bpn13350)» 
 
 
 
@@ -1075,7 +1075,7 @@ He is the Compassionate, the All-Bountiful! O God, my God! Thou seest me, Thou k
 (Bahaiprayers.net ID: 13351)
 
 
-
+«[Cymraeg](../cy/#bpn13351)» 
 
 
 
@@ -1097,7 +1097,7 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 (Bahaiprayers.net ID: 13321)
 
 
-
+«[Cymraeg](../cy/#bpn13321)» 
 
 
 
@@ -1115,7 +1115,7 @@ Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 (Bahaiprayers.net ID: 13366)
 
 
-
+«[Cymraeg](../cy/#bpn13366)» 
 
 
 
@@ -1131,7 +1131,7 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 (Bahaiprayers.net ID: 13365)
 
 
-
+«[Cymraeg](../cy/#bpn13365)» 
 
 
 
@@ -1157,7 +1157,7 @@ I am all wretchedness, O my Lord, and Thou art the Most Powerful, the Almighty. 
 (Bahaiprayers.net ID: 13340)
 
 
-
+«[Cymraeg](../cy/#bpn13340)» 
 
 
 
@@ -1174,7 +1174,7 @@ Potent art Thou to do what pleasest Thee. Thou art, verily, the Most Exalted, th
 (Bahaiprayers.net ID: 13341)
 
 
-
+«[Cymraeg](../cy/#bpn13341)» 
 
 
 
@@ -1188,7 +1188,7 @@ Say: O God, my God! Attire mine head with the crown of justice, and my temple wi
 (Bahaiprayers.net ID: 13342)
 
 
-
+«[Cymraeg](../cy/#bpn13342)» 
 
 
 
@@ -1202,7 +1202,7 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 (Bahaiprayers.net ID: 13344)
 
 
-
+«[Cymraeg](../cy/#bpn13344)» 
 
 
 
@@ -1220,7 +1220,7 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 (Bahaiprayers.net ID: 13345)
 
 
-
+«[Cymraeg](../cy/#bpn13345)» 
 
 
 
@@ -1242,7 +1242,7 @@ O Lord! Unto Thee have I turned my face, detached from all save Thee and holding
 (Bahaiprayers.net ID: 13359)
 
 
-
+«[Cymraeg](../cy/#bpn13359)» 
 
 
 
@@ -1268,7 +1268,7 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 (Bahaiprayers.net ID: 13358)
 
 
-
+«[Cymraeg](../cy/#bpn13358)» 
 
 
 
@@ -1291,7 +1291,7 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 (Bahaiprayers.net ID: 13338)
 
 
-
+«[Cymraeg](../cy/#bpn13338)» 
 
 
 
@@ -1309,7 +1309,7 @@ O God, my God! I have set out from my home, holding fast unto the cord of Thy lo
 (Bahaiprayers.net ID: 13339)
 
 
-
+«[Cymraeg](../cy/#bpn13339)» 
 
 
 
@@ -1327,7 +1327,7 @@ O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creati
 (Bahaiprayers.net ID: 13360)
 
 
-
+«[Cymraeg](../cy/#bpn13360)» 
 
 
 
@@ -1341,7 +1341,7 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 (Bahaiprayers.net ID: 13361)
 
 
-
+«[Cymraeg](../cy/#bpn13361)» 
 
 
 
@@ -1355,7 +1355,7 @@ O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy gre
 (Bahaiprayers.net ID: 13362)
 
 
-
+«[Cymraeg](../cy/#bpn13362)» 
 
 
 

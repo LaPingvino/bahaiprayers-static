@@ -104,7 +104,7 @@ Mənə, Ey mənim Allahım, təyin olunmuş Gündə Sənin əlamətlərinə iman
 (Bahaiprayers.net ID: 4690)
 
 
-
+«[Azərbaycan](../az/#bpn4690)» 
 
 
 
@@ -120,7 +120,7 @@ Mənə, Ey mənim Allahım, təyin olunmuş Gündə Sənin əlamətlərinə iman
 (Bahaiprayers.net ID: 4692)
 
 
-
+«[Azərbaycan](../az/#bpn4692)» 
 
 
 
@@ -134,7 +134,7 @@ Ey mənim Allahım! Sənə üz tutub yalvarmaq üçün ruhumu Sən ilhamlandırd
 (Bahaiprayers.net ID: 4706)
 
 
-
+«[Azərbaycan](../az/#bpn4706)» 
 
 
 
@@ -146,7 +146,7 @@ Ya Rəbb! Bu Ən Əzəmətli Zühurda Sən uşaqların öz valideyinləri üçü
 (Bahaiprayers.net ID: 4707)
 
 
-
+«[Azərbaycan](../az/#bpn4707)» 
 
 
 
@@ -164,7 +164,7 @@ Həqiqətən, Sən Əziz, Həmişə Əta Edən və əli açıq Olansan.
 (Bahaiprayers.net ID: 4708)
 
 
-
+«[Azərbaycan](../az/#bpn4708)» 
 
 
 
@@ -184,7 +184,7 @@ Sən, həqiqətən, həmişə Bağışlayan, Ən Şəfqətlisən.
 (Bahaiprayers.net ID: 4693)
 
 
-
+«[Azərbaycan](../az/#bpn4693)» 
 
 
 
@@ -196,7 +196,7 @@ Həqiqətən, mən Sənin bəndənəm, Ey mənim Allahım, Sənin fəqir, yalvar
 (Bahaiprayers.net ID: 4711)
 
 
-
+«[Azərbaycan](../az/#bpn4711)» 
 
 
 
@@ -212,7 +212,7 @@ Ey mənim Allahım! Sənin lütfünün əlamətlərinə and verirəm, mənə izn
 (Bahaiprayers.net ID: 4712)
 
 
-
+«[Azərbaycan](../az/#bpn4712)» 
 
 
 
@@ -224,7 +224,7 @@ Ey Allah, mənim Allahım, mənim Məhbubum, mənim ürəyimin Arzusu.
 (Bahaiprayers.net ID: 4713)
 
 
-
+«[Azərbaycan](../az/#bpn4713)» 
 
 
 
@@ -238,7 +238,7 @@ Odur Şəfqətli, Ən Səxavətli! Ey Allah, mənim Allahım! Sən görürsən m
 (Bahaiprayers.net ID: 4714)
 
 
-
+«[Azərbaycan](../az/#bpn4714)» 
 
 
 
@@ -254,7 +254,7 @@ Hər şeyi Bilən və Hər şeydən Xəbərdar Olan Allahın Kitabında Vəd olu
 (Bahaiprayers.net ID: 4882)
 
 
-
+«[Azərbaycan](../az/#bpn4882)» 
 
 
 
@@ -266,7 +266,7 @@ Təriflər olsun Sənə, Ey Allah, mənim Allahım! Bu o günlərdir ki, Sən Ö
 (Bahaiprayers.net ID: 4883)
 
 
-
+«[Azərbaycan](../az/#bpn4883)» 
 
 
 
@@ -302,7 +302,7 @@ Təriflər olsun Sənə, Ey mənim Allahım, çünki Sən bizə kömək etdin ki
 (Bahaiprayers.net ID: 4884)
 
 
-
+«[Azərbaycan](../az/#bpn4884)» 
 
 
 
@@ -332,7 +332,7 @@ Bu saat, İlahi, Sənin hər saatdan üstün etdiyin saatdır və onu Sənin mə
 (Bahaiprayers.net ID: 4885)
 
 
-
+«[Azərbaycan](../az/#bpn4885)» 
 
 
 
@@ -354,7 +354,7 @@ Sən, həqiqətən, Hər şeyi Bilən, Ən Hikmətlisən.
 (Bahaiprayers.net ID: 4886)
 
 
-
+«[Azərbaycan](../az/#bpn4886)» 
 
 
 
@@ -466,7 +466,7 @@ Ey Əli-Əkbər! Bu lövhə görə öz Rəbbinə şükr eylə ki, Mənim məzlum
 (Bahaiprayers.net ID: 4893)
 
 
-
+«[Azərbaycan](../az/#bpn4893)» 
 
 
 
@@ -512,7 +512,7 @@ Həqiqətən, O Rəhmlidir, Şəfqətlidir. Alqış olsun Allaha, aləmlərin R�
 (Bahaiprayers.net ID: 4894)
 
 
-
+«[Azərbaycan](../az/#bpn4894)» 
 
 
 
@@ -754,7 +754,7 @@ Sübhandır Ucalar Ucası Rəbbimiz!
 (Bahaiprayers.net ID: 4895)
 
 
-
+«[Azərbaycan](../az/#bpn4895)» 
 
 
 
@@ -774,7 +774,7 @@ Səndən başqa Allah yoxdur. Sən Qüdrətli, Qalib və İxtiyar Sahibisən.
 (Bahaiprayers.net ID: 4691)
 
 
-
+«[Azərbaycan](../az/#bpn4691)» 
 
 
 
@@ -790,7 +790,7 @@ And olsun Sənin Qüdrətinə! İstər yatarkən, istər oyaqkən, Sənin arzula
 (Bahaiprayers.net ID: 4709)
 
 
-
+«[Azərbaycan](../az/#bpn4709)» 
 
 
 
@@ -806,7 +806,7 @@ Həqiqətən, Sən Vericisən, Səxavətli, Mərhəmətli və Bağışlayansan.
 (Bahaiprayers.net ID: 4710)
 
 
-
+«[Azərbaycan](../az/#bpn4710)» 
 
 
 
@@ -826,7 +826,7 @@ Rəbbim, Rəbbim! Bunlar Sənin bəndələrindir ki, Sən bəxş etdiyin sığı
 (Bahaiprayers.net ID: 4899)
 
 
-
+«[Azərbaycan](../az/#bpn4899)» 
 
 
 
@@ -842,7 +842,7 @@ Ey mənim Allahım! Bu o şəhərdir ki, orada Sənin məhəbbətinin atəşi ş
 (Bahaiprayers.net ID: 4900)
 
 
-
+«[Azərbaycan](../az/#bpn4900)» 
 
 
 
@@ -861,7 +861,7 @@ Ey Allahın dostları! Deyilir ki, Qafqaz əslində Qaf dağıdır və Qaf dağ�
 (Bahaiprayers.net ID: 4901)
 
 
-
+«[Azərbaycan](../az/#bpn4901)» 
 
 
 
@@ -881,7 +881,7 @@ Bir kəs yoxdur ki, İlahi, mənimlə comərd davransın, o kəs ki, üzümü on
 (Bahaiprayers.net ID: 4694)
 
 
-
+«[Azərbaycan](../az/#bpn4694)» 
 
 
 
@@ -899,7 +899,7 @@ Ya Rəbb! Mənim bütünlüklə Sənin İradənə təslim olmağıma və xidmət
 (Bahaiprayers.net ID: 4715)
 
 
-
+«[Azərbaycan](../az/#bpn4715)» 
 
 
 
@@ -913,7 +913,7 @@ Mən Sənin bəndənəm, Ey mənim Allahım və bəndənin oğluyam. Sənin gün
 (Bahaiprayers.net ID: 4716)
 
 
-
+«[Azərbaycan](../az/#bpn4716)» 
 
 
 
@@ -925,7 +925,7 @@ Sən görürsən məni, İlahi, Səndən başqa hər şeydən uzaqlaşaraq üzü
 (Bahaiprayers.net ID: 4717)
 
 
-
+«[Azərbaycan](../az/#bpn4717)» 
 
 
 
@@ -945,7 +945,7 @@ Sən o Kəssən ki, qüdrəti əzəldən ədəbiyyətə qədərdir. Heç bir şe
 (Bahaiprayers.net ID: 4718)
 
 
-
+«[Azərbaycan](../az/#bpn4718)» 
 
 
 
@@ -961,7 +961,7 @@ Sonra, İlahi, Öz bəndələrini və kənizlərini bağışla. Sən, həqiqət�
 (Bahaiprayers.net ID: 4719)
 
 
-
+«[Azərbaycan](../az/#bpn4719)» 
 
 
 
@@ -973,7 +973,7 @@ Sən, Ey Bağışlayan Rəbb! Sənsən bütün bu bəndələrin sığınacağı.
 (Bahaiprayers.net ID: 4725)
 
 
-
+«[Azərbaycan](../az/#bpn4725)» 
 
 
 
@@ -991,7 +991,7 @@ Sənsən Hökmran Hakim, Qüdrətli Xaliq, Uca və Ən Sevimli.
 (Bahaiprayers.net ID: 4720)
 
 
-
+«[Azərbaycan](../az/#bpn4720)» 
 
 
 
@@ -1003,7 +1003,7 @@ Sənsən Hökmran Hakim, Qüdrətli Xaliq, Uca və Ən Sevimli.
 (Bahaiprayers.net ID: 4721)
 
 
-
+«[Azərbaycan](../az/#bpn4721)» 
 
 
 
@@ -1015,7 +1015,7 @@ Yalvarıram Sənə, İlahi, bağışla məni, Sənin zikrindən başqa hər bir 
 (Bahaiprayers.net ID: 4722)
 
 
-
+«[Azərbaycan](../az/#bpn4722)» 
 
 
 
@@ -1029,7 +1029,7 @@ Təriflər olsun Sənə, İlahi! Sən Öz bəndələrin arasından Səni əfvin 
 (Bahaiprayers.net ID: 4723)
 
 
-
+«[Azərbaycan](../az/#bpn4723)» 
 
 
 
@@ -1043,7 +1043,7 @@ Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qa
 (Bahaiprayers.net ID: 4724)
 
 
-
+«[Azərbaycan](../az/#bpn4724)» 
 
 
 
@@ -1059,7 +1059,7 @@ Ey mənim Allahım, Ey mənim Allahım! Sənə xıdmət edənlərin qəlblərini
 (Bahaiprayers.net ID: 4696)
 
 
-
+«[Azərbaycan](../az/#bpn4696)» 
 
 
 
@@ -1079,7 +1079,7 @@ Həqiqətən, Sən Qüdrətli, Qəyyum, Əta Edən, Bağışlayan, Əfvedən, H�
 (Bahaiprayers.net ID: 4730)
 
 
-
+«[Azərbaycan](../az/#bpn4730)» 
 
 
 
@@ -1155,7 +1155,7 @@ Ey mənim Allahım, Sənin seçilmişlərinin şəhadət verdiklərinə şəhad�
 (Bahaiprayers.net ID: 4689)
 
 
-
+«[Azərbaycan](../az/#bpn4689)» 
 
 
 
@@ -1175,7 +1175,7 @@ Hamımız fəqir və möhtacıq, Sən isə həqiqətən, Hər Şeyə Malik, Hər
 (Bahaiprayers.net ID: 4695)
 
 
-
+«[Azərbaycan](../az/#bpn4695)» 
 
 
 
@@ -1187,7 +1187,7 @@ Sən Ey Şəfqətli Allah, Sən Ey Səxavətli və Qadir! Biz Sənin İlahi qüv
 (Bahaiprayers.net ID: 4726)
 
 
-
+«[Azərbaycan](../az/#bpn4726)» 
 
 
 
@@ -1199,7 +1199,7 @@ Sən Ey Mehriban Allah! Sən Ey Səxavətli və Mərhəmətli! Biz Sənin astana
 (Bahaiprayers.net ID: 4727)
 
 
-
+«[Azərbaycan](../az/#bpn4727)» 
 
 
 
@@ -1225,7 +1225,7 @@ Sən Qüdrətli və Qüvvətlisən, Sən Bağışlayansan və Sən O Kəssən ki
 (Bahaiprayers.net ID: 4728)
 
 
-
+«[Azərbaycan](../az/#bpn4728)» 
 
 
 
@@ -1241,7 +1241,7 @@ Sən, həqiqətən, Qüdrətli, Hifzedən, Qadir, Qoruyan, Əzəmətli və Ən K
 (Bahaiprayers.net ID: 4729)
 
 
-
+«[Azərbaycan](../az/#bpn4729)» 
 
 
 
@@ -1261,7 +1261,7 @@ Alqış Sənin adına, Ey Sultanlar Sultanı.
 (Bahaiprayers.net ID: 4755)
 
 
-
+«[Azərbaycan](../az/#bpn4755)» 
 
 
 
@@ -1277,7 +1277,7 @@ Sən, həqiqətən, bütün bəşərin Rəbbisən, bu dünyanın və o biri dün
 (Bahaiprayers.net ID: 4756)
 
 
-
+«[Azərbaycan](../az/#bpn4756)» 
 
 
 
@@ -1293,7 +1293,7 @@ Sən, həqiqətən, aləmlərin Rəbbi, göydə və yerdə olanların Allahısan
 (Bahaiprayers.net ID: 4757)
 
 
-
+«[Azərbaycan](../az/#bpn4757)» 
 
 
 
@@ -1309,7 +1309,7 @@ Səni and verirəm, İlahi, Sənin adın olan Kəsə, o Kəs ki, Sənin hökmran
 (Bahaiprayers.net ID: 4758)
 
 
-
+«[Azərbaycan](../az/#bpn4758)» 
 
 
 
@@ -1327,7 +1327,7 @@ Sən istədiyini etməyə Qadirsən. Həqiqətən, Sən Qüdrətli və Ən Səxa
 (Bahaiprayers.net ID: 4759)
 
 
-
+«[Azərbaycan](../az/#bpn4759)» 
 
 
 
@@ -1347,7 +1347,7 @@ Səndən başqa Allah yoxdur, Ən Qüdrətli və Ehsan Edən Allah.
 (Bahaiprayers.net ID: 4760)
 
 
-
+«[Azərbaycan](../az/#bpn4760)» 
 
 
 
@@ -1367,7 +1367,7 @@ Mütləq hökm etmək ixtiyarı Səndədir.
 (Bahaiprayers.net ID: 4761)
 
 
-
+«[Azərbaycan](../az/#bpn4761)» 
 
 
 
@@ -1379,7 +1379,7 @@ Söylə: Allah hər üstün şeydən üstün Kifayətedicidir, yerdə və göyd�
 (Bahaiprayers.net ID: 4762)
 
 
-
+«[Azərbaycan](../az/#bpn4762)» 
 
 
 
@@ -1397,7 +1397,7 @@ Sən, həqiqətdə, Qüdrətli, Ən Cəlallı və Ən Qüvvətlisən.
 (Bahaiprayers.net ID: 4763)
 
 
-
+«[Azərbaycan](../az/#bpn4763)» 
 
 
 
@@ -1413,7 +1413,7 @@ Sən, həqiqətən, Qüvvətli, Həmişə Bəxşedən, Qadir və Güclüsən.
 (Bahaiprayers.net ID: 4764)
 
 
-
+«[Azərbaycan](../az/#bpn4764)» 
 
 
 
@@ -1433,7 +1433,7 @@ Sən Ey Mehriban Allah! İzn ver, bu gənc, o pak övliyaların can atdığı ə
 (Bahaiprayers.net ID: 4736)
 
 
-
+«[Azərbaycan](../az/#bpn4736)» 
 
 
 
@@ -1449,7 +1449,7 @@ Sən Qüvvətli və Qüdrətlisən; Sən Ətaedən və Sevənsən.
 (Bahaiprayers.net ID: 4737)
 
 
-
+«[Azərbaycan](../az/#bpn4737)» 
 
 
 
@@ -1465,7 +1465,7 @@ Sən Ətaedən və Sevənsən.
 (Bahaiprayers.net ID: 4738)
 
 
-
+«[Azərbaycan](../az/#bpn4738)» 
 
 
 
@@ -1483,7 +1483,7 @@ Həqiqətən, Sən Ən Qüdrətli, Ən Cəllallı və Qadirsən.
 (Bahaiprayers.net ID: 4739)
 
 
-
+«[Azərbaycan](../az/#bpn4739)» 
 
 
 
@@ -1495,7 +1495,7 @@ Ya Rəbb! Bu gənci işıq saçan eylə və Öz nemətini bu fəqir varlığın 
 (Bahaiprayers.net ID: 4740)
 
 
-
+«[Azərbaycan](../az/#bpn4740)» 
 
 
 
@@ -1519,7 +1519,7 @@ Sənsən, həqiqətən, Ən Cəlallı, Ən Kəramətli.
 (Bahaiprayers.net ID: 4741)
 
 
-
+«[Azərbaycan](../az/#bpn4741)» 
 
 
 
@@ -1533,7 +1533,7 @@ Daha sonra, Ey mənim Allahım, sonsuz əzəmətinin gücü ilə onu Sənin bəy
 (Bahaiprayers.net ID: 4742)
 
 
-
+«[Azərbaycan](../az/#bpn4742)» 
 
 
 
@@ -1549,7 +1549,7 @@ Sən, həqiqətən, Qüdrətli, Ən Uca, Həmişə Bağışlayan, Ən Səxavətl
 (Bahaiprayers.net ID: 4743)
 
 
-
+«[Azərbaycan](../az/#bpn4743)» 
 
 
 
@@ -1561,7 +1561,7 @@ Ey Allah, mənim Allahım! Mən öz evimdən Sənin məhəbbət ipindən tutaraq
 (Bahaiprayers.net ID: 4744)
 
 
-
+«[Azərbaycan](../az/#bpn4744)» 
 
 
 
@@ -1575,7 +1575,7 @@ Sən Ey Sultanlar Sultanı! Sən Ey mehriban Rəbb! Sən Ey əzəli bəxşiş, s
 (Bahaiprayers.net ID: 4745)
 
 
-
+«[Azərbaycan](../az/#bpn4745)» 
 
 
 
@@ -1593,7 +1593,7 @@ Qüvvət və qüdrət yalnız Allaha məxsusdur, Uca və Ulu Allaha.
 (Bahaiprayers.net ID: 4746)
 
 
-
+«[Azərbaycan](../az/#bpn4746)» 
 
 
 
@@ -1607,7 +1607,7 @@ Məni və Çağırışına cavab verənləri bağışla. Mənə ziyan vurmaq ist
 (Bahaiprayers.net ID: 4747)
 
 
-
+«[Azərbaycan](../az/#bpn4747)» 
 
 
 
@@ -1625,7 +1625,7 @@ Nəhayətsiz ucasan Sən, Ya Rəbb! Qarşımızda və arxamızda, başımızın 
 (Bahaiprayers.net ID: 4748)
 
 
-
+«[Azərbaycan](../az/#bpn4748)» 
 
 
 
@@ -1637,7 +1637,7 @@ Ey Allah, mənim Allahım! Nəfs və ehtirasın şərinə qarşı Öz mömin bə
 (Bahaiprayers.net ID: 4749)
 
 
-
+«[Azərbaycan](../az/#bpn4749)» 
 
 
 
@@ -1653,7 +1653,7 @@ Həqiqətən, Sən Himayədar, Hifzedən, Qoruyan, Kifayətedənsən və həqiq�
 (Bahaiprayers.net ID: 4750)
 
 
-
+«[Azərbaycan](../az/#bpn4750)» 
 
 
 
@@ -1679,7 +1679,7 @@ Sən Ey İlahi Təqdir Sahibi, bizi saxla və hifz eylə! Sən Ey bizim Qalxanı
 (Bahaiprayers.net ID: 4751)
 
 
-
+«[Azərbaycan](../az/#bpn4751)» 
 
 
 
@@ -1697,7 +1697,7 @@ Təriflər Sənə, Ey bütün xilqətin Rəbbi, Ey bütün şeylərin qayıdaca�
 (Bahaiprayers.net ID: 4887)
 
 
-
+«[Azərbaycan](../az/#bpn4887)» 
 
 
 
@@ -1713,7 +1713,7 @@ Rica edirəm Səndən, Ey bütün adların Rəbbi və göylərin Yaradanı, güc
 (Bahaiprayers.net ID: 4888)
 
 
-
+«[Azərbaycan](../az/#bpn4888)» 
 
 
 
@@ -1743,7 +1743,7 @@ Ey mənim Rəbbim Allah, İlahi Sidrəyə, onun yarpaqlarına, budaqlarına, pö
 (Bahaiprayers.net ID: 4896)
 
 
-
+«[Azərbaycan](../az/#bpn4896)» 
 
 
 
@@ -1773,7 +1773,7 @@ Sən Bəxşedən, Mərhəmətli, Kəramətli, Fəzl Sahibi, Rəhmli və Şəfqə
 (Bahaiprayers.net ID: 4897)
 
 
-
+«[Azərbaycan](../az/#bpn4897)» 
 
 
 
@@ -1791,7 +1791,7 @@ Sən, həqiqətən, bütün insanların Sultanısan! Səndən başqa Allah yoxdu
 (Bahaiprayers.net ID: 4765)
 
 
-
+«[Azərbaycan](../az/#bpn4765)» 
 
 
 
@@ -1805,7 +1805,7 @@ Ey Pərvərdigar! Bütün mövcudat Sənin kəramətindən yaranmışdır; Öz s
 (Bahaiprayers.net ID: 4766)
 
 
-
+«[Azərbaycan](../az/#bpn4766)» 
 
 
 
@@ -1823,7 +1823,7 @@ Söylə: Həqiqətən, Allah bütün şeylərin Xaliqidir! O bol ruzini istədiy
 (Bahaiprayers.net ID: 4767)
 
 
-
+«[Azərbaycan](../az/#bpn4767)» 
 
 
 
@@ -1835,7 +1835,7 @@ Ey mənim Allahım, mənim Rəbbim və mənim Mövlam! Mən yaxınlarımdan ayr�
 (Bahaiprayers.net ID: 4768)
 
 
-
+«[Azərbaycan](../az/#bpn4768)» 
 
 
 
@@ -1851,7 +1851,7 @@ Gündəlik ruzimizi ver və bərəkətini ehsan et, ta ki, Səndən başqa heç 
 (Bahaiprayers.net ID: 4769)
 
 
-
+«[Azərbaycan](../az/#bpn4769)» 
 
 
 
@@ -1865,7 +1865,7 @@ Sən Ey Ruzi verən, Sən Ey Bağışlayan! Öz fəzlini, inayətini, feyzlərin
 (Bahaiprayers.net ID: 4770)
 
 
-
+«[Azərbaycan](../az/#bpn4770)» 
 
 
 
@@ -1881,7 +1881,7 @@ Sən, həqiqətən, Təksən, Vahidsən, Qüdrətli, Hər Şeyi Bilən və Ən H
 (Bahaiprayers.net ID: 4771)
 
 
-
+«[Azərbaycan](../az/#bpn4771)» 
 
 
 
@@ -1904,7 +1904,7 @@ Və o zaman ki, O, bəşərə öz fəzl və ehsanını zahir etməyi və dünyan
 (Bahaiprayers.net ID: 4780)
 
 
-
+«[Azərbaycan](../az/#bpn4780)» 
 
 
 
@@ -1918,7 +1918,7 @@ Sən Ey Mehriban Allah! Bu nigahı mərcan və incilər yetirməyə nail eylə. 
 (Bahaiprayers.net ID: 4781)
 
 
-
+«[Azərbaycan](../az/#bpn4781)» 
 
 
 
@@ -1930,7 +1930,7 @@ Alqış Sənə, Ey mənim Allahım! Həqiqətən, Sənin bu bəndən və bu kən
 (Bahaiprayers.net ID: 4782)
 
 
-
+«[Azərbaycan](../az/#bpn4782)» 
 
 
 
@@ -1944,7 +1944,7 @@ Həqiqətən, Sən Səxavətlisən. Həqiqətən, Sən Ən Qüdrətlisən, Həqi
 (Bahaiprayers.net ID: 4783)
 
 
-
+«[Azərbaycan](../az/#bpn4783)» 
 
 
 
@@ -1960,7 +1960,7 @@ Ey Allah! İxtilafa səbəb olan bütün ünsürləri dağıt, bizə birlik və 
 (Bahaiprayers.net ID: 4784)
 
 
-
+«[Azərbaycan](../az/#bpn4784)» 
 
 
 
@@ -2002,7 +2002,7 @@ Sənin birliyinə və təkliyinə, Sənin Allah olduğuna və Səndən başqa Al
 (Bahaiprayers.net ID: 4688)
 
 
-
+«[Azərbaycan](../az/#bpn4688)» 
 
 
 
@@ -2018,7 +2018,7 @@ Hüvəl-Əbha! İlahi! Zülməte-firğət afaqı qapladı və atəşe-həsrət �
 (Bahaiprayers.net ID: 4898)
 
 
-
+«[Azərbaycan](../az/#bpn4898)» 
 
 
 
@@ -2038,7 +2038,7 @@ Alqış Sənə, Ey mənin Allahım! Sənə və Sənin əlamətlərinə iman gət
 (Bahaiprayers.net ID: 4772)
 
 
-
+«[Azərbaycan](../az/#bpn4772)» 
 
 
 
@@ -2054,7 +2054,7 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Qüdrətli Al
 (Bahaiprayers.net ID: 4773)
 
 
-
+«[Azərbaycan](../az/#bpn4773)» 
 
 
 
@@ -2072,7 +2072,7 @@ Səndən başqa Allah yoxdur, Qüdrətli, Dəyişməz, Kəramət Sahibi, Ən Sə
 (Bahaiprayers.net ID: 4774)
 
 
-
+«[Azərbaycan](../az/#bpn4774)» 
 
 
 
@@ -2088,7 +2088,7 @@ Səndən başqa Allh yoxdur, Qüdrətli, Ən Uca, Ən Nurlu, Qəyyum.
 (Bahaiprayers.net ID: 4775)
 
 
-
+«[Azərbaycan](../az/#bpn4775)» 
 
 
 
@@ -2104,7 +2104,7 @@ Mən, İlahi, Sənin o kənizinəm ki, Sənin nidanı eşidib, özündən qaçar
 (Bahaiprayers.net ID: 4776)
 
 
-
+«[Azərbaycan](../az/#bpn4776)» 
 
 
 
@@ -2122,7 +2122,7 @@ Sən həqiqətən, qüdrət, güc və cəlal Allahısan.
 (Bahaiprayers.net ID: 4777)
 
 
-
+«[Azərbaycan](../az/#bpn4777)» 
 
 
 
@@ -2134,7 +2134,7 @@ Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim d
 (Bahaiprayers.net ID: 4778)
 
 
-
+«[Azərbaycan](../az/#bpn4778)» 
 
 
 
@@ -2148,7 +2148,7 @@ Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim d
 (Bahaiprayers.net ID: 4779)
 
 
-
+«[Azərbaycan](../az/#bpn4779)» 
 
 
 
@@ -2170,7 +2170,7 @@ Ey mənim Allahim, Səni tanımaq və Sənə ibadət etmək üçün məni yaratd
 (Bahaiprayers.net ID: 4687)
 
 
-
+«[Azərbaycan](../az/#bpn4687)» 
 
 
 
@@ -2188,7 +2188,7 @@ Ey Allah, Ey mənim Allahım! Biz Sənin bəndələrinik ki, bu əzəmətli Gün
 (Bahaiprayers.net ID: 4890)
 
 
-
+«[Azərbaycan](../az/#bpn4890)» 
 
 
 
@@ -2204,7 +2204,7 @@ Sən Ey bizim Pərvərdigarımız! Özün kömək ol ki, buraya toplanmış hər
 (Bahaiprayers.net ID: 4891)
 
 
-
+«[Azərbaycan](../az/#bpn4891)» 
 
 
 
@@ -2223,7 +2223,7 @@ Həqiqətən, Sən Səxavətli və Mərhəmətlisən. Sən böyük kəramət Sah
 (Bahaiprayers.net ID: 4892)
 
 
-
+«[Azərbaycan](../az/#bpn4892)» 
 
 
 
@@ -2239,7 +2239,7 @@ Məndə təmiz bir ürək yarat, Ey mənim Allahım və sakit bir vicdan oyat, E
 (Bahaiprayers.net ID: 4785)
 
 
-
+«[Azərbaycan](../az/#bpn4785)» 
 
 
 
@@ -2253,7 +2253,7 @@ Sən, həqiqətən, Ən Qüdrətli, Ən Şərəfli, Ən Qüvvətlisən.
 (Bahaiprayers.net ID: 4786)
 
 
-
+«[Azərbaycan](../az/#bpn4786)» 
 
 
 
@@ -2269,7 +2269,7 @@ Sən, həqiqətən, Öz hökmranlığının gücü ilə Qoruyucusan. Səndən ba
 (Bahaiprayers.net ID: 4787)
 
 
-
+«[Azərbaycan](../az/#bpn4787)» 
 
 
 
@@ -2281,7 +2281,7 @@ Səni and verirəm, Ey mənim Allahım, Sənin Adının ən yüksək cəlalına,
 (Bahaiprayers.net ID: 4788)
 
 
-
+«[Azərbaycan](../az/#bpn4788)» 
 
 
 
@@ -2295,7 +2295,7 @@ Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, Ən Uca, Ən Cəlallı,
 (Bahaiprayers.net ID: 4789)
 
 
-
+«[Azərbaycan](../az/#bpn4789)» 
 
 
 
@@ -2311,7 +2311,7 @@ Ya Rəbb! Sənin sərvət dəryandan və mərhəmət səmandan məni qaytarma v�
 (Bahaiprayers.net ID: 4790)
 
 
-
+«[Azərbaycan](../az/#bpn4790)» 
 
 
 
@@ -2325,7 +2325,7 @@ Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun
 (Bahaiprayers.net ID: 4791)
 
 
-
+«[Azərbaycan](../az/#bpn4791)» 
 
 
 
@@ -2345,7 +2345,7 @@ Sən həqiqətən, Qüdrətli, Bagışlayan, Şəfqətlisən.
 (Bahaiprayers.net ID: 4792)
 
 
-
+«[Azərbaycan](../az/#bpn4792)» 
 
 
 
@@ -2363,7 +2363,7 @@ Həqiqətən, Sən bir bəndəyə lütf etmək istəsən, Sən onun ürəyinin s
 (Bahaiprayers.net ID: 4793)
 
 
-
+«[Azərbaycan](../az/#bpn4793)» 
 
 
 
@@ -2381,7 +2381,7 @@ Həqiqətən, Sən Mərhəmətlisən və həqiqətən Sən Ən Səxavətlisən, 
 (Bahaiprayers.net ID: 4794)
 
 
-
+«[Azərbaycan](../az/#bpn4794)» 
 
 
 
@@ -2393,7 +2393,7 @@ Həqiqətən, Sən Mərhəmətlisən və həqiqətən Sən Ən Səxavətlisən, 
 (Bahaiprayers.net ID: 4795)
 
 
-
+«[Azərbaycan](../az/#bpn4795)» 
 
 
 
@@ -2405,7 +2405,7 @@ Həqiqətən, Sən Mərhəmətlisən və həqiqətən Sən Ən Səxavətlisən, 
 (Bahaiprayers.net ID: 4796)
 
 
-
+«[Azərbaycan](../az/#bpn4796)» 
 
 
 
@@ -2423,7 +2423,7 @@ Həqiqətən, Sən Qüdrətlisən, Qüvvətlisən, Qoruyucu, Güclü, Xeyirxahsa
 (Bahaiprayers.net ID: 4797)
 
 
-
+«[Azərbaycan](../az/#bpn4797)» 
 
 
 
@@ -2439,7 +2439,7 @@ Sən, həqiqətən, Qüdrətli, Uca, Qüvvətlisən, göylərdə və yerdə dəy
 (Bahaiprayers.net ID: 4798)
 
 
-
+«[Azərbaycan](../az/#bpn4798)» 
 
 
 
@@ -2455,7 +2455,7 @@ Ya Rəbb! mənim Allahım! Sənin bu bəndələrin mütidirlər, onları Sənin 
 (Bahaiprayers.net ID: 4799)
 
 
-
+«[Azərbaycan](../az/#bpn4799)» 
 
 
 
@@ -2473,7 +2473,7 @@ Sən Qüdrətlisən, Güclüsən, Sən qüvvət Allahısan, Qadirsən, hər şey
 (Bahaiprayers.net ID: 4800)
 
 
-
+«[Azərbaycan](../az/#bpn4800)» 
 
 
 
@@ -2487,7 +2487,7 @@ Ey Allah! Sən mənə özümdən də yaxın dostsan. Sənə təslim edirəm öz�
 (Bahaiprayers.net ID: 4801)
 
 
-
+«[Azərbaycan](../az/#bpn4801)» 
 
 
 
@@ -2505,7 +2505,7 @@ Həqiqətən, Sən Qüdrət Sahibisən, istədiyini hökm etməyə Qadirsən və
 (Bahaiprayers.net ID: 4802)
 
 
-
+«[Azərbaycan](../az/#bpn4802)» 
 
 
 
@@ -2521,7 +2521,7 @@ Alqış Sənə, Ey Səni tanıyanların Məhbubu!
 (Bahaiprayers.net ID: 4803)
 
 
-
+«[Azərbaycan](../az/#bpn4803)» 
 
 
 
@@ -2537,7 +2537,7 @@ Sən, həqiqətən, Qadir Allahsan, Əzəmətli, Ən Cəllalı, Qüdrətlisən.
 (Bahaiprayers.net ID: 4804)
 
 
-
+«[Azərbaycan](../az/#bpn4804)» 
 
 
 
@@ -2561,7 +2561,7 @@ Səni and verirəm, ey bütün varlığın Rəbbi, görünən və görüməyənl
 (Bahaiprayers.net ID: 4805)
 
 
-
+«[Azərbaycan](../az/#bpn4805)» 
 
 
 
@@ -2575,7 +2575,7 @@ Yalvarıram Sənə, məni qadir eylə ki, Sənin məhəbbətindən və zikrində
 (Bahaiprayers.net ID: 4806)
 
 
-
+«[Azərbaycan](../az/#bpn4806)» 
 
 
 
@@ -2591,7 +2591,7 @@ Sən istdəyini etməyə Qadirsən. Həqiqətən, Sən Əzəmətli və Qəyyumsa
 (Bahaiprayers.net ID: 4807)
 
 
-
+«[Azərbaycan](../az/#bpn4807)» 
 
 
 
@@ -2605,7 +2605,7 @@ Həqiqətən, Sən Ali Hökmdar, Haqq Sultanı, Əzəmətli və Qəyyumsan
 (Bahaiprayers.net ID: 4808)
 
 
-
+«[Azərbaycan](../az/#bpn4808)» 
 
 
 
@@ -2617,7 +2617,7 @@ Ya Rəbb, mənim Allahım! Sevimlilərinə Öz Dinində mətin olmaqda, Sənin y
 (Bahaiprayers.net ID: 4809)
 
 
-
+«[Azərbaycan](../az/#bpn4809)» 
 
 
 
@@ -2635,7 +2635,7 @@ Səndən başqa Allah yoxdur, Qüdrətli, Qüvvətli, Uca və Qabiliyyətli.
 (Bahaiprayers.net ID: 4810)
 
 
-
+«[Azərbaycan](../az/#bpn4810)» 
 
 
 
@@ -2651,7 +2651,7 @@ Sən Ey sınağı, Sənə yaxın olanların dərmanı; qılıncı, aşiqlərinin
 (Bahaiprayers.net ID: 4815)
 
 
-
+«[Azərbaycan](../az/#bpn4815)» 
 
 
 
@@ -2669,7 +2669,7 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Əzəmətli v
 (Bahaiprayers.net ID: 4816)
 
 
-
+«[Azərbaycan](../az/#bpn4816)» 
 
 
 
@@ -2685,7 +2685,7 @@ Səni and verirəm, Ey mənim Allahım, onlara və ürəklərinin Səndən ayrı
 (Bahaiprayers.net ID: 4817)
 
 
-
+«[Azərbaycan](../az/#bpn4817)» 
 
 
 
@@ -2701,7 +2701,7 @@ Və sonda, Sənin üzünün nuruna iltimas edirəm, mənim işlərimə xeyir-bə
 (Bahaiprayers.net ID: 4818)
 
 
-
+«[Azərbaycan](../az/#bpn4818)» 
 
 
 
@@ -2713,7 +2713,7 @@ Varmıdır Allahdan başqa çətinliklərdən Qurtaran? Söylə: Sübhandır All
 (Bahaiprayers.net ID: 4819)
 
 
-
+«[Azərbaycan](../az/#bpn4819)» 
 
 
 
@@ -2729,7 +2729,7 @@ Bütün insanlarin tərifindən son dərəcə Ucasan Sən, Ey göylərin və yer
 (Bahaiprayers.net ID: 4820)
 
 
-
+«[Azərbaycan](../az/#bpn4820)» 
 
 
 
@@ -2741,7 +2741,7 @@ Sənin Qüdrətinə and verirəm, Ey mənim Allahım! Qoyma sınaqlar zamanı m�
 (Bahaiprayers.net ID: 4821)
 
 
-
+«[Azərbaycan](../az/#bpn4821)» 
 
 
 
@@ -2753,7 +2753,7 @@ Ya Rəbb! Sənsən hər bir dərdi Qaldıran və hər bir kədəri Dağıdan. S�
 (Bahaiprayers.net ID: 4822)
 
 
-
+«[Azərbaycan](../az/#bpn4822)» 
 
 
 
@@ -2767,7 +2767,7 @@ Sonra elə et ki, üzümü bütünlüklə Sənə tutum, tamamilə Sənə təvək
 (Bahaiprayers.net ID: 4823)
 
 
-
+«[Azərbaycan](../az/#bpn4823)» 
 
 
 
@@ -2785,7 +2785,7 @@ Sən, həqiqətən, Bəxşedən, Rəhmli və Rəhmansan.
 (Bahaiprayers.net ID: 4824)
 
 
-
+«[Azərbaycan](../az/#bpn4824)» 
 
 
 
@@ -2799,7 +2799,7 @@ Sən Verici, Bəxşedən və Qüdrətlisən.
 (Bahaiprayers.net ID: 4825)
 
 
-
+«[Azərbaycan](../az/#bpn4825)» 
 
 
 
@@ -2821,7 +2821,7 @@ Sən, həqiqətən, bütün insanların Rəbbi və Sultanısan və hər şeyin �
 (Bahaiprayers.net ID: 4811)
 
 
-
+«[Azərbaycan](../az/#bpn4811)» 
 
 
 
@@ -2833,7 +2833,7 @@ Sənin sığınacağında yuxudan qalxmışam, Ey mənim Allahım və o sığın
 (Bahaiprayers.net ID: 4812)
 
 
-
+«[Azərbaycan](../az/#bpn4812)» 
 
 
 
@@ -2847,7 +2847,7 @@ Səndən başqa Allah yoxdur, Sən Tək, Bərabəri Olmayan, Hər Şeyi Bilən v
 (Bahaiprayers.net ID: 4813)
 
 
-
+«[Azərbaycan](../az/#bpn4813)» 
 
 
 
@@ -2867,7 +2867,7 @@ Səni axtaranı Sən məyus etmirsən, nə də Səni arzulayanı uzaq tutursan. 
 (Bahaiprayers.net ID: 4814)
 
 
-
+«[Azərbaycan](../az/#bpn4814)» 
 
 
 
@@ -2887,7 +2887,7 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Hər Şeyi Bi
 (Bahaiprayers.net ID: 4697)
 
 
-
+«[Azərbaycan](../az/#bpn4697)» 
 
 
 
@@ -2901,7 +2901,7 @@ Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, Əzəmətli və Qəyyum
 (Bahaiprayers.net ID: 4698)
 
 
-
+«[Azərbaycan](../az/#bpn4698)» 
 
 
 
@@ -2915,7 +2915,7 @@ Həqiqətən, Sən Qüdrətli, Həmişə Bağışlayan, Ən Səxavətlisən.
 (Bahaiprayers.net ID: 4699)
 
 
-
+«[Azərbaycan](../az/#bpn4699)» 
 
 
 
@@ -2929,7 +2929,7 @@ Qanları ilə Sənin müqəddəs və sabit Sözünü ucaltmaq üçün seçdiyin 
 (Bahaiprayers.net ID: 4700)
 
 
-
+«[Azərbaycan](../az/#bpn4700)» 
 
 
 
@@ -2945,7 +2945,7 @@ Həqiqətən, Sən bizim Rəbbimizsən və hər şeyin Rəbbisən. Biz özümüz
 (Bahaiprayers.net ID: 4701)
 
 
-
+«[Azərbaycan](../az/#bpn4701)» 
 
 
 
@@ -2959,7 +2959,7 @@ Ya Rəbb! Yer üzünün bütün xalqlarını Sənin Dininin Cənnətinə daxil o
 (Bahaiprayers.net ID: 4702)
 
 
-
+«[Azərbaycan](../az/#bpn4702)» 
 
 
 
@@ -2977,7 +2977,7 @@ Sən onların Rəbbisən, göylərin və yerin Rəbbisən, bütün aləmlərin R
 (Bahaiprayers.net ID: 4703)
 
 
-
+«[Azərbaycan](../az/#bpn4703)» 
 
 
 
@@ -2993,7 +2993,7 @@ Həqiqətən, Sənsən Bəxşedən, Bağışlayan, Ətaedən. Həqiqətən, Sən
 (Bahaiprayers.net ID: 4704)
 
 
-
+«[Azərbaycan](../az/#bpn4704)» 
 
 
 
@@ -3009,7 +3009,7 @@ Səbatlı və möhkəm olanların üzərinə Bəha olsun.
 (Bahaiprayers.net ID: 4705)
 
 
-
+«[Azərbaycan](../az/#bpn4705)» 
 
 
 
@@ -3027,7 +3027,7 @@ Səni and verirəm Sənin Özünə, göydə və yerdə olanların hamısına Öz
 (Bahaiprayers.net ID: 4853)
 
 
-
+«[Azərbaycan](../az/#bpn4853)» 
 
 
 
@@ -3045,7 +3045,7 @@ Ey Allah! Bizə Öz inayətini əta eylə. Sən Qüvvətlisən. Sən Bəxşedən
 (Bahaiprayers.net ID: 4854)
 
 
-
+«[Azərbaycan](../az/#bpn4854)» 
 
 
 
@@ -3061,7 +3061,7 @@ Sənsən Qüdrətli, Sənsən Qüvvətli, Sənsən Bəxşedən, Sənsən həmiş
 (Bahaiprayers.net ID: 4855)
 
 
-
+«[Azərbaycan](../az/#bpn4855)» 
 
 
 
@@ -3075,7 +3075,7 @@ Həqiqətən, Sən Səxavətlisən. Həqiqətən, Sən Mərhəmətlisən. Həqiq
 (Bahaiprayers.net ID: 4856)
 
 
-
+«[Azərbaycan](../az/#bpn4856)» 
 
 
 
@@ -3095,7 +3095,7 @@ Sən Qüvvətlisən, Qadirsən, Mərhəmətlisən və Sən Səxavətlisən, Rəh
 (Bahaiprayers.net ID: 4857)
 
 
-
+«[Azərbaycan](../az/#bpn4857)» 
 
 
 
@@ -3109,7 +3109,7 @@ Həqiqətən, Sən Qüdrətli və Qüvvətlisən!
 (Bahaiprayers.net ID: 4858)
 
 
-
+«[Azərbaycan](../az/#bpn4858)» 
 
 
 
@@ -3123,7 +3123,7 @@ Sənsən Bəxşedən, Ətaedən və həmişə Sevən.
 (Bahaiprayers.net ID: 4859)
 
 
-
+«[Azərbaycan](../az/#bpn4859)» 
 
 
 
@@ -3143,7 +3143,7 @@ Həqiqətən, Sən əzəldən istədiyini etməyə qadir olmusan və əbədiyyə
 (Bahaiprayers.net ID: 4860)
 
 
-
+«[Azərbaycan](../az/#bpn4860)» 
 
 
 
@@ -3157,7 +3157,7 @@ Sən Sübhansan, Ey mənim Məhbubum, onun üzərinə Sənin fövqəl səxavəti
 (Bahaiprayers.net ID: 4871)
 
 
-
+«[Azərbaycan](../az/#bpn4871)» 
 
 
 
@@ -3169,7 +3169,7 @@ Sən Sübhansan, Ey mənim Məhbubum, onun üzərinə Sənin fövqəl səxavəti
 (Bahaiprayers.net ID: 4861)
 
 
-
+«[Azərbaycan](../az/#bpn4861)» 
 
 
 
@@ -3181,7 +3181,7 @@ Sən Ey mehriban Rəbb! Bu nazənin uşaqlar Sənin qüdrət barmaqlarının əs
 (Bahaiprayers.net ID: 4862)
 
 
-
+«[Azərbaycan](../az/#bpn4862)» 
 
 
 
@@ -3197,7 +3197,7 @@ Sən Qüvvətli və Ən Mehribansan.
 (Bahaiprayers.net ID: 4863)
 
 
-
+«[Azərbaycan](../az/#bpn4863)» 
 
 
 
@@ -3209,7 +3209,7 @@ Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta ey
 (Bahaiprayers.net ID: 4864)
 
 
-
+«[Azərbaycan](../az/#bpn4864)» 
 
 
 
@@ -3221,7 +3221,7 @@ Ey Allah, mənə yol göstər, məni qoru, məni şölə saçan bir çıraq və 
 (Bahaiprayers.net ID: 4865)
 
 
-
+«[Azərbaycan](../az/#bpn4865)» 
 
 
 
@@ -3235,7 +3235,7 @@ Həqiqətən, Sənsən Qüvvətli, Qüdrətli, Görən və Eşidən.
 (Bahaiprayers.net ID: 4866)
 
 
-
+«[Azərbaycan](../az/#bpn4866)» 
 
 
 
@@ -3247,7 +3247,7 @@ Ey Bənzərsiz Allah! Bu yazıq uşağa pənah ol. Bu xətalı və qəmgin ruha 
 (Bahaiprayers.net ID: 4867)
 
 
-
+«[Azərbaycan](../az/#bpn4867)» 
 
 
 
@@ -3261,7 +3261,7 @@ Ey Allah, bizim Rəbbimiz! Biz Sənə alqış oxuyur, Sənin müqəddəsliyinə 
 (Bahaiprayers.net ID: 4868)
 
 
-
+«[Azərbaycan](../az/#bpn4868)» 
 
 
 
@@ -3275,7 +3275,7 @@ Sən Qüdrətli və Qüvvətlisən. Sən Mehribansan, Sən hər şeyi Bilən və
 (Bahaiprayers.net ID: 4869)
 
 
-
+«[Azərbaycan](../az/#bpn4869)» 
 
 
 
@@ -3289,7 +3289,7 @@ Sən Ey mənim Cəlallı Rəbbim! Özünün bu balaca kənizini xoşhal və bəx
 (Bahaiprayers.net ID: 4870)
 
 
-
+«[Azərbaycan](../az/#bpn4870)» 
 
 
 
@@ -3325,7 +3325,7 @@ Biz hamımız, həqiqətən, Allah xatirinə səbr edənlərik.
 (Bahaiprayers.net ID: 4872)
 
 
-
+«[Azərbaycan](../az/#bpn4872)» 
 
 
 
@@ -3341,7 +3341,7 @@ Ucasan Sən, sonsuz Ucasan! Sən Öz həqiqətində sitayiş olunansan və Sən�
 (Bahaiprayers.net ID: 4873)
 
 
-
+«[Azərbaycan](../az/#bpn4873)» 
 
 
 
@@ -3367,7 +3367,7 @@ Səndən başqa Allah yoxdur, Tək, Vahid, Qadir, Hər Şeyi Bilən və Kəramə
 (Bahaiprayers.net ID: 4874)
 
 
-
+«[Azərbaycan](../az/#bpn4874)» 
 
 
 
@@ -3383,7 +3383,7 @@ Ey Mənim Rəbbim! Onları günahlardan pak eylə, kədərlərini dağıt və z�
 (Bahaiprayers.net ID: 4875)
 
 
-
+«[Azərbaycan](../az/#bpn4875)» 
 
 
 
@@ -3397,7 +3397,7 @@ Sən Bağışlayan, Nurlandıran və Qüdrətlisən.
 (Bahaiprayers.net ID: 4876)
 
 
-
+«[Azərbaycan](../az/#bpn4876)» 
 
 
 
@@ -3411,7 +3411,7 @@ Sən həqiqqətən, Qüdrətli, Şəfqətli, Səxavətli və Mərhəmətlisən.
 (Bahaiprayers.net ID: 4877)
 
 
-
+«[Azərbaycan](../az/#bpn4877)» 
 
 
 
@@ -3425,7 +3425,7 @@ Sənin səmavi kənizini, İlahi, Öz əfvinin ruhundan doğan müqəddəs rayih
 (Bahaiprayers.net ID: 4878)
 
 
-
+«[Azərbaycan](../az/#bpn4878)» 
 
 
 
@@ -3441,7 +3441,7 @@ Sən Ey günahları Bağışlayan! Bu ayılmış bəndənə yol aç ki, Sənin M
 (Bahaiprayers.net ID: 4879)
 
 
-
+«[Azərbaycan](../az/#bpn4879)» 
 
 
 
@@ -3463,7 +3463,7 @@ Ey Allah, mənim Allahım! Öz həqiqi aşiqlərinin alınlarını nurlandır v�
 (Bahaiprayers.net ID: 4754)
 
 
-
+«[Azərbaycan](../az/#bpn4754)» 
 
 
 
@@ -3485,7 +3485,7 @@ Sən, həqiqətən, qüvvət və qüdrət Allahısan, Sənə dua edənlərə cav
 (Bahaiprayers.net ID: 4834)
 
 
-
+«[Azərbaycan](../az/#bpn4834)» 
 
 
 
@@ -3501,7 +3501,7 @@ Həqiqətən, Sən hər nə iradə etsən, onu yerinə yetirməyə Qadirsən, S�
 (Bahaiprayers.net ID: 4835)
 
 
-
+«[Azərbaycan](../az/#bpn4835)» 
 
 
 
@@ -3517,7 +3517,7 @@ Səni and verirəm, Ey mənim Allahım, O Kəsin adına ki, Onun ətrafında bü
 (Bahaiprayers.net ID: 4836)
 
 
-
+«[Azərbaycan](../az/#bpn4836)» 
 
 
 
@@ -3535,7 +3535,7 @@ Sən, həqiqətən, Qüdrət Sahibi, Ən Uca, Hər Şeyi Bilən və Ən Hikmətl
 (Bahaiprayers.net ID: 4837)
 
 
-
+«[Azərbaycan](../az/#bpn4837)» 
 
 
 
@@ -3555,7 +3555,7 @@ Sən, həqiqətən Qüdrətlisən, O Kəssən ki, Onu nə bütün dünyanın qü
 (Bahaiprayers.net ID: 4838)
 
 
-
+«[Azərbaycan](../az/#bpn4838)» 
 
 
 
@@ -3571,7 +3571,7 @@ Ey Allah! Məni sınaqlardan qoru. Sən yaxşı bilirsən ki, mən hər şeydən
 (Bahaiprayers.net ID: 4839)
 
 
-
+«[Azərbaycan](../az/#bpn4839)» 
 
 
 
@@ -3585,7 +3585,7 @@ Sən, həqiqətən, Səxavətlisən, Bağışlayansan.
 (Bahaiprayers.net ID: 4840)
 
 
-
+«[Azərbaycan](../az/#bpn4840)» 
 
 
 
@@ -3597,7 +3597,7 @@ Ey Allah, mənim Allahım! Öz etibarlı bəndələrinə kömək eylə ki, mehri
 (Bahaiprayers.net ID: 4841)
 
 
-
+«[Azərbaycan](../az/#bpn4841)» 
 
 
 
@@ -3615,7 +3615,7 @@ Həqiqətən, Sən bol fəzl Sahibsən. Səndən başqa Allah yoxdur. Qüdrətli
 (Bahaiprayers.net ID: 4842)
 
 
-
+«[Azərbaycan](../az/#bpn4842)» 
 
 
 
@@ -3631,7 +3631,7 @@ Həqiqətən, Sən Qüdrətlisən, Əzəmətli və Qadirsən və Sən Hikmətli,
 (Bahaiprayers.net ID: 4843)
 
 
-
+«[Azərbaycan](../az/#bpn4843)» 
 
 
 
@@ -3649,7 +3649,7 @@ Həqiqətən, Sən arzu etdiyin hər bir şeydə istədiyin kəsə təyid əta E
 (Bahaiprayers.net ID: 4844)
 
 
-
+«[Azərbaycan](../az/#bpn4844)» 
 
 
 
@@ -3669,7 +3669,7 @@ Həqiqətən, Sən Şəfqətli, Qüdrətli, Əzəmətli və Rəhmlilərin Rəhml
 (Bahaiprayers.net ID: 4845)
 
 
-
+«[Azərbaycan](../az/#bpn4845)» 
 
 
 
@@ -3703,7 +3703,7 @@ Həqiqətən, Sən Ən Səxavətli, bol fəzl Sahibisən, həqiqətən, Sən Ş�
 (Bahaiprayers.net ID: 4846)
 
 
-
+«[Azərbaycan](../az/#bpn4846)» 
 
 
 
@@ -3721,7 +3721,7 @@ Həqiqətən, Sən Qüvvətlisən, Qüdrətlisən, Hikmətli və Görənsən.
 (Bahaiprayers.net ID: 4847)
 
 
-
+«[Azərbaycan](../az/#bpn4847)» 
 
 
 
@@ -3735,7 +3735,7 @@ Ey mənim Allahım! Ey mənim Allahım! Heçliyim və zəifiyimlə Sən məni g�
 (Bahaiprayers.net ID: 4848)
 
 
-
+«[Azərbaycan](../az/#bpn4848)» 
 
 
 
@@ -3753,7 +3753,7 @@ Ya Rəbb! Məni şölə saçan bir çıraq eylə, parlayan bir ulduz, budaqları
 (Bahaiprayers.net ID: 4849)
 
 
-
+«[Azərbaycan](../az/#bpn4849)» 
 
 
 
@@ -3767,7 +3767,7 @@ Ya Rəbb! Mən yalnızam, tək və kimsəsizəm. Səndən başqa mənim dayağı
 (Bahaiprayers.net ID: 4850)
 
 
-
+«[Azərbaycan](../az/#bpn4850)» 
 
 
 
@@ -3783,7 +3783,7 @@ Həqiqətən, Sən Ən Qüvvətlisən, Ən Ucasan, Həmişə Bağışlayan, Ən 
 (Bahaiprayers.net ID: 4851)
 
 
-
+«[Azərbaycan](../az/#bpn4851)» 
 
 
 
@@ -3801,7 +3801,7 @@ Həqiqətən, Sən Qüvvətli, Qüdrətli və Qadirsən.
 (Bahaiprayers.net ID: 4852)
 
 
-
+«[Azərbaycan](../az/#bpn4852)» 
 
 
 
@@ -3819,7 +3819,7 @@ Yenə yalvarıram Sənə, Ey mənim Allahım, mənə onları qismət eylə ki, m
 (Bahaiprayers.net ID: 4752)
 
 
-
+«[Azərbaycan](../az/#bpn4752)» 
 
 
 
@@ -3845,7 +3845,7 @@ Sən, həqiqətən, Qüdrətli, Ən Uca, Hər şeyi Bilən və Hikmət Sahibisə
 (Bahaiprayers.net ID: 4753)
 
 
-
+«[Azərbaycan](../az/#bpn4753)» 
 
 
 
@@ -3863,7 +3863,7 @@ Ya Rəbb, Sənin bəndələrinin üzlərini nurlandır ki, onlar Sənə baxsınl
 (Bahaiprayers.net ID: 4830)
 
 
-
+«[Azərbaycan](../az/#bpn4830)» 
 
 
 
@@ -3881,7 +3881,7 @@ Bütün tərif və alqış Sənə olsun, O Kəs ki, bütün şeylər şəhadət 
 (Bahaiprayers.net ID: 4831)
 
 
-
+«[Azərbaycan](../az/#bpn4831)» 
 
 
 
@@ -3895,7 +3895,7 @@ Sən Qüdrətli, Ən Uca, Ən Cəlallı, Ən Mehribansan.
 (Bahaiprayers.net ID: 4832)
 
 
-
+«[Azərbaycan](../az/#bpn4832)» 
 
 
 
@@ -3911,7 +3911,7 @@ Alqış Sənə, Sən Özündən başqa hər kəsin vəsfindən yüksəksən, ç�
 (Bahaiprayers.net ID: 4833)
 
 
-
+«[Azərbaycan](../az/#bpn4833)» 
 
 
 
@@ -3931,7 +3931,7 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Həmişə Ba�
 (Bahaiprayers.net ID: 4826)
 
 
-
+«[Azərbaycan](../az/#bpn4826)» 
 
 
 
@@ -3943,7 +3943,7 @@ Sənin adın mənim şəfamdır, Ey mənim Allahım, Səni zikr etmək mənim d�
 (Bahaiprayers.net ID: 4827)
 
 
-
+«[Azərbaycan](../az/#bpn4827)» 
 
 
 
@@ -3957,7 +3957,7 @@ Sən, həqiqətən, Şəfaverən, Qoruyan, Kömək Edən, Qüdrətli, Qüvvətli
 (Bahaiprayers.net ID: 4828)
 
 
-
+«[Azərbaycan](../az/#bpn4828)» 
 
 
 
@@ -3973,7 +3973,7 @@ Sən, həqiqətən, bu aləmin və o biri aləmin Rəbbisən. Sən, həqiqətən
 (Bahaiprayers.net ID: 4829)
 
 
-
+«[Azərbaycan](../az/#bpn4829)» 
 
 
 
@@ -4001,7 +4001,7 @@ Həqiqətən, Sən Kəramətlisən, Qüdrətlisən, hər şeyə Qadirsən, İxti
 (Bahaiprayers.net ID: 4889)
 
 
-
+«[Azərbaycan](../az/#bpn4889)» 
 
 
 
@@ -4023,7 +4023,7 @@ Səndən başqa Allah yoxdur, Sən Qüdrət və Hikmət Sahibisən.
 (Bahaiprayers.net ID: 4731)
 
 
-
+«[Azərbaycan](../az/#bpn4731)» 
 
 
 
@@ -4039,7 +4039,7 @@ Səni and verirəm, Ya Rəbb, mənim Allahım, Sənin inayət günəşinin şəf
 (Bahaiprayers.net ID: 4732)
 
 
-
+«[Azərbaycan](../az/#bpn4732)» 
 
 
 
@@ -4055,7 +4055,7 @@ Sən Bağışlayan və Mərhəmətlisən.
 (Bahaiprayers.net ID: 4733)
 
 
-
+«[Azərbaycan](../az/#bpn4733)» 
 
 
 
@@ -4071,7 +4071,7 @@ Sən Şəfqətlisən, Mərhəmətlisən. Sən Böyük Lütf Sahibisən.
 (Bahaiprayers.net ID: 4734)
 
 
-
+«[Azərbaycan](../az/#bpn4734)» 
 
 
 
@@ -4085,7 +4085,7 @@ Həqiqətən, Sən Yenilməz, Qudrətli və Qüvvət Sahibisən.
 (Bahaiprayers.net ID: 4735)
 
 
-
+«[Azərbaycan](../az/#bpn4735)» 
 
 
 
@@ -4111,7 +4111,7 @@ Sən, həqiqətən, Ən Qüdrətli, Hər Şeyi Bilən və Hər şeydən Xəbərd
 (Bahaiprayers.net ID: 4880)
 
 
-
+«[Azərbaycan](../az/#bpn4880)» 
 
 
 
@@ -4127,7 +4127,7 @@ Yardım eylə onlara, Ey mənim Allahım, Sənin uğrunda qələbə qazansınlar
 (Bahaiprayers.net ID: 4881)
 
 
-
+«[Azərbaycan](../az/#bpn4881)» 
 
 
 

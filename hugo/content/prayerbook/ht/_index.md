@@ -131,7 +131,7 @@ Mwen sipliye Ou, O Ou menm Ki Wa egzistans lan ak Pwotektè pou tout sa ki vizib
 (Bahaiprayers.net ID: 7620)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7620)» 
 
 
 
@@ -146,7 +146,7 @@ An verite, se Ou menm Ki Gen Plis Pouvwa, Ki Pi Wo, Ki Konnen Tout Bagay, Ki Gen
 (Bahaiprayers.net ID: 7621)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7621)» 
 
 
 
@@ -160,7 +160,7 @@ An verite, se Ou menm Ki Fò, Ki Pisan, Ki Gen Tout Otorite, se Ou menm Ki Saj, 
 (Bahaiprayers.net ID: 7622)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7622)» 
 
 
 
@@ -176,7 +176,7 @@ An verite, se Ou menm Ki Gen Pouvwa, Ki Pisan, Ki Gen Tout Otorite.
 (Bahaiprayers.net ID: 7623)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7623)» 
 
 
 
@@ -190,7 +190,7 @@ Se Ou menm Ki Gen Pisans sou tout bagay, Ki Fè tout sa Ou deside.
 (Bahaiprayers.net ID: 7624)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7624)» 
 
 
 
@@ -204,7 +204,7 @@ An verite, se Ou menm Ki Gen Tout Pouvwa, Ki Pi Egzalte a, K’ap Toujou Padone,
 (Bahaiprayers.net ID: 7625)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7625)» 
 
 
 
@@ -221,7 +221,7 @@ An verite, se Ou menm Ki Padone, Ki Gen Pouvwa, Ki Pisan, Ki Pi Mizèrikòdye pa
 (Bahaiprayers.net ID: 7626)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7626)» 
 
 
 
@@ -234,7 +234,7 @@ O Senyè! Mwen sèl, mwen pou kont mwen, e ba. Pou mwen menm, pa gen okenn sipò
 (Bahaiprayers.net ID: 7627)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7627)» 
 
 
 
@@ -247,7 +247,7 @@ An verite, se Ou menm Ki Renmen Bay, Sila a Ki Padone.
 (Bahaiprayers.net ID: 7628)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7628)» 
 
 
 
@@ -259,7 +259,7 @@ O Bondye, Bondye mwen! Ede sèvitè Ou yo Ou fè konfyans gen kè ki plen lanmou
 (Bahaiprayers.net ID: 7629)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7629)» 
 
 
 
@@ -275,7 +275,7 @@ An verite, se Ou menm Ki bay sipò ak nenpòt moun Ou chwazi nan tout sa Ou vle,
 (Bahaiprayers.net ID: 7630)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7630)» 
 
 
 
@@ -287,7 +287,7 @@ O Bondye, Bondye mwen! Bay èd Ou pou sèvitè fidèl Ou yo kapab genyen kè ki 
 (Bahaiprayers.net ID: 7631)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7631)» 
 
 
 
@@ -300,7 +300,7 @@ An verite, se Ou menm Ki Renmen Bay, Ki Padone.
 (Bahaiprayers.net ID: 7632)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7632)» 
 
 
 
@@ -317,7 +317,7 @@ O Bondye, Bondye mwen! Nou se sèvitè Ou ki te vire avèk devouman nan direksyo
 (Bahaiprayers.net ID: 7633)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7633)» 
 
 
 
@@ -331,7 +331,7 @@ O Ou menm Ki okipe bezwen nou! Voye desann èd Ou, pou pèmèt nou chak ki reyin
 (Bahaiprayers.net ID: 7634)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7634)» 
 
 
 
@@ -347,7 +347,7 @@ An verite, se Ou menm Ki Renmen Bay, Ki Mizèrikòdye. Se Ou menm Ki Posede gran
 (Bahaiprayers.net ID: 7635)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7635)» 
 
 
 
@@ -365,7 +365,7 @@ Pa gen okenn Bondye esepte Ou menm, Toupisan an, Li menm Ki Domine Tout Bagay, K
 (Bahaiprayers.net ID: 7636)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7636)» 
 
 
 
@@ -379,7 +379,7 @@ Ak pisans Ou! Pandan m’ap dòmi oubyen pandan mwen reveye, mwen mande Ou sèlm
 (Bahaiprayers.net ID: 7637)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7637)» 
 
 
 
@@ -396,7 +396,7 @@ Se Ou Ki louwe, O Pi Byeneme mwen! Soufle sou li dous pafen bonte selès Ou yo a
 (Bahaiprayers.net ID: 7763)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7763)» 
 
 
 
@@ -408,7 +408,7 @@ O Bondye! Elve ti bebe sa a nan kè lanmou Ou, ba li lèt nan tete Pwovidans Ou 
 (Bahaiprayers.net ID: 7764)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7764)» 
 
 
 
@@ -420,7 +420,7 @@ O Ou menm Senyè Ki pa gen parèy! Pèmèt ti bebe nourison sa a nouri nan tete 
 (Bahaiprayers.net ID: 7765)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7765)» 
 
 
 
@@ -438,7 +438,7 @@ Ou wè, O Bondye mwen, jan mwen libere ak tout bagay esepte Ou menm e jan mwen a
 (Bahaiprayers.net ID: 7643)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7643)» 
 
 
 
@@ -458,7 +458,7 @@ Pa gen okenn lòt Bondye esepte Ou, Sila a Ki Toupisan, K’ap Toujou Fè Byen.
 (Bahaiprayers.net ID: 7639)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7639)» 
 
 
 
@@ -472,7 +472,7 @@ Glorifye se non Ou, O Ou menm Ki se Wa a pou tout Wa yo!
 (Bahaiprayers.net ID: 7640)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7640)» 
 
 
 
@@ -487,7 +487,7 @@ O Senyè mwen! Voye benediksyon Ou yo sou Mesaje Ou yo, sou sen yo, ak sou moun 
 (Bahaiprayers.net ID: 7641)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7641)» 
 
 
 
@@ -503,7 +503,7 @@ Se Ou menm Ki gen tout otorite pou kòmande.
 (Bahaiprayers.net ID: 7642)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7642)» 
 
 
 
@@ -522,7 +522,7 @@ An verite, se Ou menm Ki Senyè a ak Wa pou tout lèzòm, Li menm Ki gen pouvwa 
 (Bahaiprayers.net ID: 7709)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7709)» 
 
 
 
@@ -588,7 +588,7 @@ Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an.
 (Bahaiprayers.net ID: 7616)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7616)» 
 
 
 
@@ -604,7 +604,7 @@ O Ou menm Ki voye eprèv yo - moun ki rete pre Ou konsidere difikilte sa yo tank
 (Bahaiprayers.net ID: 7650)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7650)» 
 
 
 
@@ -618,7 +618,7 @@ Mwen priye Ou anpil, O Bondye mwen, poutèt yo menm, e poutèt soupi ki soti nan
 (Bahaiprayers.net ID: 7651)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7651)» 
 
 
 
@@ -634,7 +634,7 @@ O Bondye mwen! Fè sèvitè Ou ki te kwè nan Ou rete fidèl pou li kapab ede Ko
 (Bahaiprayers.net ID: 7652)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7652)» 
 
 
 
@@ -646,7 +646,7 @@ Kiyès aprè Bondye ki kapab fè difikilte yo disparèt? Se pou nou di: Louwe Bo
 (Bahaiprayers.net ID: 7653)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7653)» 
 
 
 
@@ -660,7 +660,7 @@ O Senyè syèl la ak tè a, Ou konplètman egzalte pi wo pase lwanj tout lèzòm
 (Bahaiprayers.net ID: 7654)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7654)» 
 
 
 
@@ -679,7 +679,7 @@ Lwanj pou Ou, O Ou menm Ki Byeneme a pou tout moun ki te rekonèt Ou!
 (Bahaiprayers.net ID: 7661)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7661)» 
 
 
 
@@ -693,7 +693,7 @@ An verite, Se Ou menm Bondye Pouvwa a, Ou menm Ki Bay Sekou nan Danje, Tout Glor
 (Bahaiprayers.net ID: 7662)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7662)» 
 
 
 
@@ -708,7 +708,7 @@ Pa genyen lòt Bondye aprè Ou, Toupisan an, Li menm Ki Gen Tout Sajès la.
 (Bahaiprayers.net ID: 7663)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7663)» 
 
 
 
@@ -721,7 +721,7 @@ Mwen sipliye Ou pou pèmèt mwen kenbe fèm ak lanmou Ou e ak souvni Ou. An veri
 (Bahaiprayers.net ID: 7664)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7664)» 
 
 
 
@@ -734,7 +734,7 @@ An verite, se Ou menm Ki Dirijan siprèm nan, Verite Souveren an, Sila a Ki Bay 
 (Bahaiprayers.net ID: 7665)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7665)» 
 
 
 
@@ -748,7 +748,7 @@ Se Ou menm Ki Gen Kè Sansib, Ki Mizèrikòdye a. Se Ou menm Bondye Ki Gen Gran 
 (Bahaiprayers.net ID: 7666)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7666)» 
 
 
 
@@ -762,7 +762,7 @@ An verite, se Ou menm Ki Renmen Bay, K’ap Toujou Bay, Ki Gen Anpil Valè, Ki G
 (Bahaiprayers.net ID: 7667)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7667)» 
 
 
 
@@ -781,7 +781,7 @@ O Senyè, chwazi pou mwen, avèk bonte Ou, sa ki pral mennen mwen jwenn richès 
 (Bahaiprayers.net ID: 7655)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7655)» 
 
 
 
@@ -794,7 +794,7 @@ Asepte, O Bondye mwen, pou mwen pa t’ap konte pami yo menm ki gen zòrèy men 
 (Bahaiprayers.net ID: 7656)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7656)» 
 
 
 
@@ -806,7 +806,7 @@ O Senyè Bondye mwen! Ede moun Ou renmen yo pou yo rete fèm nan Relijyon Ou, po
 (Bahaiprayers.net ID: 7657)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7657)» 
 
 
 
@@ -820,7 +820,7 @@ Se Ou menm Ki Padone, Ki Plen Gras.
 (Bahaiprayers.net ID: 7658)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7658)» 
 
 
 
@@ -833,7 +833,7 @@ An verite, se Ou menm Ki Toujou Gen Viktwa, Toupisan an, Ki Gen Tout Pouvwa.
 (Bahaiprayers.net ID: 7659)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7659)» 
 
 
 
@@ -856,7 +856,7 @@ O Bondye! Elimine tout bagay ki koz dezakò, epi prepare pou nou tout bagay ki k
 (Bahaiprayers.net ID: 7660)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7660)» 
 
 
 
@@ -873,7 +873,7 @@ Poutèt sa, mwen sipliye Ou, avèk non Ou te sèvi pou devwale Divinite Ou, e po
 (Bahaiprayers.net ID: 7671)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7671)» 
 
 
 
@@ -890,7 +890,7 @@ Non Ou se gerizon mwen, O Bondye, lè mwen sonje Ou mwen jwenn remèd mwen. Vwaz
 (Bahaiprayers.net ID: 7668)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7668)» 
 
 
 
@@ -904,7 +904,7 @@ Ou gen pouvwa pou fè tout sa k’ap fè Ou kontan. Pa genyen lòt Bondye pase O
 (Bahaiprayers.net ID: 7669)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7669)» 
 
 
 
@@ -918,7 +918,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Pi Gran Non Ou an O
 (Bahaiprayers.net ID: 7783)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7783)» 
 
 
 
@@ -935,7 +935,7 @@ An verite, se Ou menm Ki Geri, Ki Pwoteje, Ki Bay Èd, Toupisan an, Ki Plen Pouv
 (Bahaiprayers.net ID: 7670)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7670)» 
 
 
 
@@ -956,7 +956,7 @@ Ou glorifye, O Senyè tout kreyasyon an, Sila a tout bagay oblije vire jwenn nan
 (Bahaiprayers.net ID: 7672)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7672)» 
 
 
 
@@ -970,7 +970,7 @@ Mwen priyè Ou fò, O Senyè tout non yo ak Kreyatè syèl yo, pou ede mwen rete
 (Bahaiprayers.net ID: 7673)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7673)» 
 
 
 
@@ -987,7 +987,7 @@ O Ou menm Senyè Ki janti! Voye fèmte selès la sou pitit fi wayòm sa a, ede l
 (Bahaiprayers.net ID: 7777)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7777)» 
 
 
 
@@ -1006,7 +1006,7 @@ Se Ou menm Ki glorifye, O Senyè Bondye mwen! Mwen remèsye Ou paske Ou te kreye
 (Bahaiprayers.net ID: 7782)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7782)» 
 
 
 
@@ -1018,7 +1018,7 @@ O Senyè! Fè jèn sa a klere, e voye bonte Ou yo sou kreyati pòv sa a. Fè li 
 (Bahaiprayers.net ID: 7674)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7674)» 
 
 
 
@@ -1033,7 +1033,7 @@ Se Ou menm Ki Toupisan an, Tout Gloriye a, Sila a Ki Gen Tout Pouvwa a.
 (Bahaiprayers.net ID: 7675)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7675)» 
 
 
 
@@ -1047,7 +1047,7 @@ Se Ou menm Ki Pisan, Sila a Ki Plen Pouvwa; se Ou menm Ki Bay Favè yo, Ki Toujo
 (Bahaiprayers.net ID: 7676)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7676)» 
 
 
 
@@ -1064,7 +1064,7 @@ Mwen sipliye Ou pou pèmèt sèvitè sa a rive jwenn sa k’ap koz delivrans li 
 (Bahaiprayers.net ID: 7677)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7677)» 
 
 
 
@@ -1078,7 +1078,7 @@ Vrèman, se Ou menm Ki Pote Sekou nan Danje avèk pouvwa souverènte Ou. Pa gen 
 (Bahaiprayers.net ID: 7678)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7678)» 
 
 
 
@@ -1091,7 +1091,7 @@ Ou gen pisans pou fè sa k’ap fè Ou plezi. An verite, se Ou menm Ki Pi Egzalt
 (Bahaiprayers.net ID: 7679)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7679)» 
 
 
 
@@ -1103,7 +1103,7 @@ Kreye nan mwen yon kè ki san tach, O Bondye mwen, e remete anndan mwen yon kons
 (Bahaiprayers.net ID: 7680)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7680)» 
 
 
 
@@ -1116,7 +1116,7 @@ An verite, se Ou menm Ki Toupisan an, Tout Gloriye a, Sila a Ki Gen Plis Pouvwa 
 (Bahaiprayers.net ID: 7681)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7681)» 
 
 
 
@@ -1128,7 +1128,7 @@ Se pou nou di: O Bondye, Bondye mwen! Kouwone tèt mwen avèk kouwòn jistis la,
 (Bahaiprayers.net ID: 7682)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7682)» 
 
 
 
@@ -1143,7 +1143,7 @@ Senyè! Pa voye mwen ale kite oseyan richès Ou ak syèl mizèrikòd Ou, epi ede
 (Bahaiprayers.net ID: 7683)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7683)» 
 
 
 
@@ -1155,7 +1155,7 @@ Mwen sipliye Ou, O Bondye mwen, poutèt tout glwa a ki nan Non Ou ki pi wo pase 
 (Bahaiprayers.net ID: 7684)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7684)» 
 
 
 
@@ -1170,7 +1170,7 @@ An verite, si Ou ta vle voye benediksyon sou yon sèvitè, lè sa a Ou t’ap el
 (Bahaiprayers.net ID: 7685)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7685)» 
 
 
 
@@ -1183,7 +1183,7 @@ An verite, se Ou menm Ki Plis Renmen Bay, Senyè a Ki gen gras k’ap debòde. P
 (Bahaiprayers.net ID: 7686)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7686)» 
 
 
 
@@ -1195,7 +1195,7 @@ O Senyè mwen! O Senyè mwen! Sa a se yon lanp ki limen ak dife lanmou Ou e ki a
 (Bahaiprayers.net ID: 7687)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7687)» 
 
 
 
@@ -1209,7 +1209,7 @@ An verite, se Ou menm Ki Pisan, Ki Egzalte, Ki Plen Pouvwa, Sila a sèl, nan tou
 (Bahaiprayers.net ID: 7688)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7688)» 
 
 
 
@@ -1221,7 +1221,7 @@ O Senyè! Nou fèb; ban nou fòs. O Bondye! Nou inyoran; fè nou konprann. O Sen
 (Bahaiprayers.net ID: 7689)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7689)» 
 
 
 
@@ -1241,7 +1241,7 @@ An verite, se Ou menm Ki Soutni, Èd la, Sila a Ki Renmen Bay, Ki Plen Bonte, K�
 (Bahaiprayers.net ID: 7690)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7690)» 
 
 
 
@@ -1260,7 +1260,7 @@ An verite, se Ou menm Ki Soutni, Èd la, Sila a Ki Renmen Bay, Ki Plen Bonte, K�
 (Bahaiprayers.net ID: 7611)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7611)» 
 
 
 
@@ -1276,7 +1276,7 @@ O Ou menm Senyè Ki gen kè sansib, Ou menm Ki gen men ki renmen bay e Ki gen po
 (Bahaiprayers.net ID: 7691)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7691)» 
 
 
 
@@ -1288,7 +1288,7 @@ O Ou menm Senyè a Ki bon! O Ou menm Ki renmen bay e Ki plen mizèrikòd! Nou se
 (Bahaiprayers.net ID: 7692)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7692)» 
 
 
 
@@ -1307,7 +1307,7 @@ Se Ou menm Ki Pisan an, Ki Plen Pouvwa, se Ou menm Ki Padone e se Ou menm Sila a
 (Bahaiprayers.net ID: 7693)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7693)» 
 
 
 
@@ -1323,7 +1323,7 @@ O Bondye mwen! O Bondye mwen! Ini kè sèvitè Ou yo,  revele pou yo gran plan O
 (Bahaiprayers.net ID: 7694)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7694)» 
 
 
 
@@ -1339,7 +1339,7 @@ An verite, se Ou menm Ki Toupisan an, Sila a Ki Egziste Pou Kont Li, Ki Bay, K�
 (Bahaiprayers.net ID: 7695)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7695)» 
 
 
 
@@ -1407,7 +1407,7 @@ Bondye pi gran pase tout gran yo!
 (Bahaiprayers.net ID: 7613)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7613)» 
 
 
 
@@ -1469,7 +1469,7 @@ Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Pad
 (Bahaiprayers.net ID: 7617)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7617)» 
 
 
 
@@ -1491,7 +1491,7 @@ O Senyè, limen figi sèvitè Ou yo pou pèmèt yo wè Ou; pwòpte kè yo pou p�
 (Bahaiprayers.net ID: 7696)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7696)» 
 
 
 
@@ -1505,7 +1505,7 @@ Se Ou menm Bondye Ki gen pouvwa a, Ki gen glwa ak bonte. Pa gen lòt Bondye apr�
 (Bahaiprayers.net ID: 7697)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7697)» 
 
 
 
@@ -1520,7 +1520,7 @@ Tout lwanj ak glwa pou Ou, O Ou menm Ki te fè tout bagay temwaye pou di Ou se y
 (Bahaiprayers.net ID: 7698)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7698)» 
 
 
 
@@ -1533,7 +1533,7 @@ Se Ou menm Ki Toupisan an, Ki Pi Egzalte a, Ki Gen Tout Glwa a, K’ap Toujou Ba
 (Bahaiprayers.net ID: 7699)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7699)» 
 
 
 
@@ -1545,7 +1545,7 @@ Beni se kote a, kay la, zòn nan, vil la, kè a, montay la, refij la, gwòt la, 
 (Bahaiprayers.net ID: 7700)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7700)» 
 
 
 
@@ -1559,7 +1559,7 @@ Glwa pou Ou, se Ou menm Ki egzalte pi wo pase esplikasyon nenpòt moun ta kapab 
 (Bahaiprayers.net ID: 7701)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7701)» 
 
 
 
@@ -1583,7 +1583,7 @@ E lè Li te vle montre gras ak bonte Li pou lèzòm, pou mete lòd nan mond la, 
 (Bahaiprayers.net ID: 7702)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7702)» 
 
 
 
@@ -1596,7 +1596,7 @@ An verite, se Ou menm Ki Renmen Bay. An verite, se Ou menm Ki Toupisan. An verit
 (Bahaiprayers.net ID: 7703)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7703)» 
 
 
 
@@ -1608,7 +1608,7 @@ Glwa pou Ou, O Bondye mwen! An verite, sèvitè Ou sa a ak sèvant Ou sa a te ra
 (Bahaiprayers.net ID: 7704)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7704)» 
 
 
 
@@ -1622,7 +1622,7 @@ O Ou menm, Senyè mizèrikòdye! Pèmèt maryaj sa a fè kokiyaj ak bijou parèt
 (Bahaiprayers.net ID: 7705)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7705)» 
 
 
 
@@ -1638,7 +1638,7 @@ Mwen reveye anba abri Ou, O Bondye mwen, e li ta bon pou sila a ki ap chèche ab
 (Bahaiprayers.net ID: 7706)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7706)» 
 
 
 
@@ -1651,7 +1651,7 @@ Pa genyen lòt Bondye pase Ou, Ou menm Ki Pou Kont Ou, Ki San Parèy, Ki Konnen 
 (Bahaiprayers.net ID: 7707)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7707)» 
 
 
 
@@ -1667,7 +1667,7 @@ Ou toujou satisfè moun ki chèche èd Ou, ni Ou pa janm repouse nenpòt moun Ki
 (Bahaiprayers.net ID: 7708)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7708)» 
 
 
 
@@ -1685,7 +1685,7 @@ An verite, se Ou menm Ki Bay, Ki Gen Men Ki Ouvè, Ki Plen Mizèrikòd, K’ap T
 (Bahaiprayers.net ID: 7638)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7638)» 
 
 
 
@@ -1727,7 +1727,7 @@ An verite, se Ou menm Ki Bay, Ki Gen Men Ki Ouvè, Ki Plen Mizèrikòd, K’ap T
 (Bahaiprayers.net ID: 7612)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7612)» 
 
 
 
@@ -1744,7 +1744,7 @@ Mwen se sèvitè Ou, O Bondye mwen, ak pitit sèvitè Ou. Mwen te rekonèt verit
 (Bahaiprayers.net ID: 7710)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7710)» 
 
 
 
@@ -1756,7 +1756,7 @@ Ou wè mwen, O Senyè mwen, avèk figi mwen vire nan direksyon paradi bonte Ou a
 (Bahaiprayers.net ID: 7711)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7711)» 
 
 
 
@@ -1770,7 +1770,7 @@ Poutèt sa, O Senyè mwen, padone sèvitè Ou yo ak sèvant Ou yo. Vrèman, se O
 (Bahaiprayers.net ID: 7712)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7712)» 
 
 
 
@@ -1782,7 +1782,7 @@ Lwanj pou Ou, O Senyè. Padone nou poutèt peche nou yo, gen mizèrikòd pou nou
 (Bahaiprayers.net ID: 7713)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7713)» 
 
 
 
@@ -1794,7 +1794,7 @@ Mwen sipliye Ou, O Senyè mwen, pou padone mwen poutèt tout pawòl mwen di ki n
 (Bahaiprayers.net ID: 7714)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7714)» 
 
 
 
@@ -1807,7 +1807,7 @@ O Bondye mwen! Ou te motive nanm mwen pou li te kapab ofri lapriyè li pou Ou, e
 (Bahaiprayers.net ID: 7715)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7715)» 
 
 
 
@@ -1820,7 +1820,7 @@ Glorifye se Ou menm, O Senyè! Nan tout moman Ou padone peche pou sila pami sèv
 (Bahaiprayers.net ID: 7716)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7716)» 
 
 
 
@@ -1835,7 +1835,7 @@ Se Ou menm Dirijan Souveren an, Sila a Ki fè zèv avèk pisans, Egzalte a, Li m
 (Bahaiprayers.net ID: 7717)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7717)» 
 
 
 
@@ -1848,7 +1848,7 @@ O Ou menm Ki Satisfè Bezwen yo, O Ou menm Ki Padone! Ban nou gras Ou ak jantiy�
 (Bahaiprayers.net ID: 7718)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7718)» 
 
 
 
@@ -1860,7 +1860,7 @@ O Ou menm Senyè K’ap Padone! Se Ou menm Ki sèvi kòm pwoteksyon pou tout sè
 (Bahaiprayers.net ID: 7719)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7719)» 
 
 
 
@@ -1876,7 +1876,7 @@ O Senyè! Ou asepte, nan Pi Gran Epòk sa a, pou pitit yo sipliye Ou nan non par
 (Bahaiprayers.net ID: 7721)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7721)» 
 
 
 
@@ -1908,7 +1908,7 @@ Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!
 (Bahaiprayers.net ID: 7615)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7615)» 
 
 
 
@@ -1927,7 +1927,7 @@ An verite, se Ou menm Ki Gen Anpil Valè pou nou, K’ap Toujou Bay, Sila a Ki R
 (Bahaiprayers.net ID: 7726)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7726)» 
 
 
 
@@ -1956,7 +1956,7 @@ An verite, se Ou menm Ki Gen Anpil Valè pou nou, K’ap Toujou Bay, Sila a Ki R
 (Bahaiprayers.net ID: 7614)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7614)» 
 
 
 
@@ -1985,7 +1985,7 @@ Lwanj ki te soti nan pi wo Lespri Ou a, e glwa ki te klere depi Bote Ou ki pi br
 (Bahaiprayers.net ID: 7618)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7618)» 
 
 
 
@@ -2012,7 +2012,7 @@ Se Li menm Ki Tout-Gloriye a!
 (Bahaiprayers.net ID: 7619)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7619)» 
 
 
 
@@ -2042,7 +2042,7 @@ An verite, Ou se Toupisan an, Ki Konnen Tout Bagay, Ki Gen Tout Sajès.
 (Bahaiprayers.net ID: 7768)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7768)» 
 
 
 
@@ -2060,7 +2060,7 @@ An verite, se Ou menm Ki Toujou Padone, Ki Pi Mizèrikòdye a.
 (Bahaiprayers.net ID: 7722)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7722)» 
 
 
 
@@ -2074,7 +2074,7 @@ An verite, se Ou menm Ki Plen Pouvwa, Ki Toujou Bay, Ki Kapab, Ki Gen Otorite so
 (Bahaiprayers.net ID: 7723)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7723)» 
 
 
 
@@ -2091,7 +2091,7 @@ O Senyè mwen, mwen dedye pou Ou sa ki nan matris mwen an. Fè li vin yon timoun
 (Bahaiprayers.net ID: 7725)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7725)» 
 
 
 
@@ -2108,7 +2108,7 @@ An verite, se Ou menm Ki Pisan, Ki Gen Konpasyon, Ki Renmen Bay, Ki Plen Mizèri
 (Bahaiprayers.net ID: 7731)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7731)» 
 
 
 
@@ -2122,7 +2122,7 @@ O Senyè! Nou se pechè, men se Ou menm Ki Padone. Nou plonje nan oseyan defo no
 (Bahaiprayers.net ID: 7732)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7732)» 
 
 
 
@@ -2142,7 +2142,7 @@ Ede yo, O Bondye mwen, pou rann Ou viktoriye epi egzalte Pawòl Ou a. O Bondye! 
 (Bahaiprayers.net ID: 7769)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7769)» 
 
 
 
@@ -2158,7 +2158,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Nou te swiv Jèn nan daprè kòmand Ou epi n
 (Bahaiprayers.net ID: 7770)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7770)» 
 
 
 
@@ -2172,7 +2172,7 @@ Nan Non Sila a Liv Sen Bondye yo te pwomi, Li menm Ki Konnen Tout Bagay, Ki Okou
 (Bahaiprayers.net ID: 7771)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7771)» 
 
 
 
@@ -2184,7 +2184,7 @@ Lwanj pou Ou, O Bondye, Bondye mwen! Sa yo se jou Ou te kòmande sila yo Ou te c
 (Bahaiprayers.net ID: 7772)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7772)» 
 
 
 
@@ -2204,7 +2204,7 @@ Bay Koz Ou laviktwa, O Bondye mwen, e bese enmi Ou yo. Epi, ekri pou nou tout sa
 (Bahaiprayers.net ID: 7773)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7773)» 
 
 
 
@@ -2220,7 +2220,7 @@ Ou wè, O Senyè, men nou ki leve, y’ap sipliye bò kote syèl favè ak bonte 
 (Bahaiprayers.net ID: 7774)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7774)» 
 
 
 
@@ -2244,7 +2244,7 @@ Lwanj pou Ou, O Bondye mwen, paske Ou te ede nou rekonèt e renmen Li. Poutèt s
 (Bahaiprayers.net ID: 7775)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7775)» 
 
 
 
@@ -2262,7 +2262,7 @@ Glorifye, Ou pi glorifye pase tout bagay ki kapab mezire! Nou adore Ou nan verit
 (Bahaiprayers.net ID: 7727)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7727)» 
 
 
 
@@ -2284,7 +2284,7 @@ Pa genyen lòt Bondye pase Ou menm, Sila a Ki pa gen parèy, Ki pou kont Li, Ki 
 (Bahaiprayers.net ID: 7728)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7728)» 
 
 
 
@@ -2298,7 +2298,7 @@ Se Ou menm Ki Padone, Ki Bay Limyè, Ki Gen Tout Otorite.
 (Bahaiprayers.net ID: 7729)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7729)» 
 
 
 
@@ -2312,7 +2312,7 @@ O Senyè mwen! Lave peche yo, elimine tristès yo, epi chanje fènwa yo nan limy
 (Bahaiprayers.net ID: 7730)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7730)» 
 
 
 
@@ -2328,7 +2328,7 @@ O Bondye mwen! O Bondye mwen! An verite, sèvitè Ou, ki bese li devan majeste o
 (Bahaiprayers.net ID: 7781)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7781)» 
 
 
 
@@ -2350,7 +2350,7 @@ An verite, se Ou menm Ki Konnen Tout Bagay, Ki Genyen Tout Sajès la.
 (Bahaiprayers.net ID: 7776)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7776)» 
 
 
 
@@ -2370,7 +2370,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou poutèt Revelasyon sa a ki t
 (Bahaiprayers.net ID: 7778)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7778)» 
 
 
 
@@ -2387,7 +2387,7 @@ O Bondye mwen! Pwoteje li osi, avèk pouvwa majeste Ou ki depase tout sa nou kap
 (Bahaiprayers.net ID: 7733)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7733)» 
 
 
 
@@ -2401,7 +2401,7 @@ An verite, se Ou menm Ki Toupisan, Pi Egzalte a, Sila a K’ap Toujou Padone, Ki
 (Bahaiprayers.net ID: 7734)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7734)» 
 
 
 
@@ -2413,7 +2413,7 @@ O Dye, Bondye mwen! Mwen te kite lakay mwen, pandan mwen t’ap kenbe fèm fil l
 (Bahaiprayers.net ID: 7735)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7735)» 
 
 
 
@@ -2428,7 +2428,7 @@ Ou egzalte pi wo pase sa ki kapab mezire, O Senyè! Pwoteje nou kont sa ki rete 
 (Bahaiprayers.net ID: 7736)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7736)» 
 
 
 
@@ -2443,7 +2443,7 @@ Pa gen okenn pouvwa ni fòs esepte nan Bondye, Pi Egzalte a, Pi Pisan an.
 (Bahaiprayers.net ID: 7737)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7737)» 
 
 
 
@@ -2456,7 +2456,7 @@ Voye padon Ou pou mwen e pou kwayan yo ki te reponn ak Apèl Ou. Bondye, se pou 
 (Bahaiprayers.net ID: 7738)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7738)» 
 
 
 
@@ -2468,7 +2468,7 @@ O Bondye, Bondye mwen! Defann sèvitè fidèl Ou yo kont mechanste egoyis ak pas
 (Bahaiprayers.net ID: 7739)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7739)» 
 
 
 
@@ -2482,7 +2482,7 @@ An verite, se Ou menm Ki Pwotektè a, Gadyen an, Siveyan an, Sila a Ki Sifi pou 
 (Bahaiprayers.net ID: 7740)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7740)» 
 
 
 
@@ -2499,7 +2499,7 @@ Otorite se pou Bondye, Senyè a pou tout sa nou kapab wè ak tout sa nou pa kapa
 (Bahaiprayers.net ID: 7741)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7741)» 
 
 
 
@@ -2518,7 +2518,7 @@ O Bondye! Voye pou nou swen diven Ou an. Se Ou menm Ki Plen Pouvwa. Se Ou menm K
 (Bahaiprayers.net ID: 7742)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7742)» 
 
 
 
@@ -2531,7 +2531,7 @@ An verite, se Ou menm Ki Gen Tout Otorite, Ki Toupisan an!
 (Bahaiprayers.net ID: 7743)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7743)» 
 
 
 
@@ -2545,7 +2545,7 @@ Ou pisan. Ou plen pouvwa. Se Ou menm Ki Bay, e se Ou menm Ki Toujou Plen Bonte.
 (Bahaiprayers.net ID: 7744)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7744)» 
 
 
 
@@ -2560,7 +2560,7 @@ O Bondye mwen! O Bondye mwen! An verite, sèvitè sa yo ap vire nan direksyon Ou
 (Bahaiprayers.net ID: 7780)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7780)» 
 
 
 
@@ -2579,7 +2579,7 @@ Revele pou yo, O Bondye, Etènite Ou Ki Pi Wo a; sa vle di, Ou te toujou egziste
 (Bahaiprayers.net ID: 7748)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7748)» 
 
 
 
@@ -2595,7 +2595,7 @@ Lwanj pou Bondye, Senyè tout mond yo!
 (Bahaiprayers.net ID: 7749)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7749)» 
 
 
 
@@ -2608,7 +2608,7 @@ O Pwovidans Diven an! Tout egzistans lan fèt akoz favè Ou; pa retire sou li dl
 (Bahaiprayers.net ID: 7750)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7750)» 
 
 
 
@@ -2621,7 +2621,7 @@ An verite, se Ou menm Ki Wa tout lèzòm. Pa gen okenn Bondye esepte Ou menm, Si
 (Bahaiprayers.net ID: 7751)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7751)» 
 
 
 
@@ -2636,7 +2636,7 @@ Se pou nou di: An verite se Bondye Ki Atizan tout bagay. Li bay sekou an kantite
 (Bahaiprayers.net ID: 7752)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7752)» 
 
 
 
@@ -2650,7 +2650,7 @@ O Bondye, Bondye mwen, Byeneme mwen, Dezi kè mwen.
 (Bahaiprayers.net ID: 7779)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7779)» 
 
 
 
@@ -2664,7 +2664,7 @@ Ban nou pen chak jou a, ban nou pi plis pase sa nou bezwen nan lavi a, pou nou k
 (Bahaiprayers.net ID: 7753)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7753)» 
 
 
 
@@ -2680,7 +2680,7 @@ O Bondye mwen! Nan Non Ou ki genyen tout glwa, mwen mande Ou pou ede mwen fè za
 (Bahaiprayers.net ID: 7745)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7745)» 
 
 
 
@@ -2693,7 +2693,7 @@ Anplis, mwen priye Ou fò, O Bondye mwen, pou chwazi pou mwen sa ki pral fè mwe
 (Bahaiprayers.net ID: 7746)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7746)» 
 
 
 
@@ -2715,7 +2715,7 @@ An verite, se Ou menm Ki Plen Gras, Glorifye a, Pisan an, Sila a Ki Gen Tout Oto
 (Bahaiprayers.net ID: 7747)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7747)» 
 
 
 
@@ -2731,7 +2731,7 @@ O Senyè mwen, Byeneme mwen an, Dezi mwen! Rete yon zanmi pou mwen lè mwen sant
 (Bahaiprayers.net ID: 7724)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7724)» 
 
 
 
@@ -2747,7 +2747,7 @@ O Bondye! Edike timoun sa yo. Timoun sa yo se plant nan jaden fwi Ou, flè nan p
 (Bahaiprayers.net ID: 7754)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7754)» 
 
 
 
@@ -2759,7 +2759,7 @@ Se Li menm Ki Bondye! O Bondye, Bondye mwen! Voye sou mwen yon kè ki san tach, 
 (Bahaiprayers.net ID: 7755)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7755)» 
 
 
 
@@ -2772,7 +2772,7 @@ Se Ou menm Ki Plen Bonte, Ki Gen Lanmou pou Tout Bagay.
 (Bahaiprayers.net ID: 7756)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7756)» 
 
 
 
@@ -2784,7 +2784,7 @@ O Bondye, gide mwen, pwoteje mwen, limen lanp kè mwen e fè mwen tounen yon zet
 (Bahaiprayers.net ID: 7757)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7757)» 
 
 
 
@@ -2798,7 +2798,7 @@ Se Ou menm Ki Plen Pouvwa, Ki Toujou Bay Lanmou.
 (Bahaiprayers.net ID: 7758)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7758)» 
 
 
 
@@ -2811,7 +2811,7 @@ O Bondye, Senyè nou an! Nou chante lwanj Ou, nou bay temwayaj sou sentete Ou ep
 (Bahaiprayers.net ID: 7759)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7759)» 
 
 
 
@@ -2825,7 +2825,7 @@ An verite, se Ou menm Ki Plen Pouvwa, Ki Pisan an, Sila a Ki Wè, Ki Tande.
 (Bahaiprayers.net ID: 7760)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7760)» 
 
 
 
@@ -2838,7 +2838,7 @@ Se Ou menm Ki Pisan e Ki Plen Pouvwa, se Ou menm Ki gen lanmou pou tout bagay, K
 (Bahaiprayers.net ID: 7761)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7761)» 
 
 
 
@@ -2854,7 +2854,7 @@ O Ou menm Senyè Ki pi gloriye a! Fè jèn sèvant Ou sa a beni e kontan; fè mo
 (Bahaiprayers.net ID: 7762)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7762)» 
 
 
 
@@ -2873,7 +2873,7 @@ O Senyè, pèmèt kè yo vin fò, poutèt atachman yo genyen ak Fwa Ou ki pa kap
 (Bahaiprayers.net ID: 7766)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7766)» 
 
 
 
@@ -2886,7 +2886,7 @@ Depi nan tan lontan, Ou te toujou pisan pou fè sa ki fè Ou plezi e Ou rete pi 
 (Bahaiprayers.net ID: 7767)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7767)» 
 
 
 
@@ -2904,7 +2904,7 @@ Epi, finalman, mwen sipliye Ou, poutèt limyè figi Ou, pou beni aktivite mwen y
 (Bahaiprayers.net ID: 7644)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7644)» 
 
 
 
@@ -2917,7 +2917,7 @@ Kidonk, fè mwen tounen konplètman nan direksyon Ou, fè mwen mete tout konfyan
 (Bahaiprayers.net ID: 7645)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7645)» 
 
 
 
@@ -2930,7 +2930,7 @@ Se pou nou di: Bondye kapab satisfè tout bagay pi byen pase tout lòt bagay, e 
 (Bahaiprayers.net ID: 7646)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7646)» 
 
 
 
@@ -2942,7 +2942,7 @@ O Senyè! Se Ou menm Ki fè chak doulè disparèt e Ki elimine tout soufrans. Se
 (Bahaiprayers.net ID: 7647)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7647)» 
 
 
 
@@ -2954,7 +2954,7 @@ O Bondye mwen! Ak tout kè m’, mwen mande Ou, avèk pisans Ou, pou pa kite oke
 (Bahaiprayers.net ID: 7648)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7648)» 
 
 
 
@@ -2967,7 +2967,7 @@ O Ou menm Lespri Ki san tach, Ou menm Ki Bay avèk Tout Bonte, ofri azil pwoteks
 (Bahaiprayers.net ID: 7649)
 
 
-
+«[Kreyol Ayisyen](../ht/#bpn7649)» 
 
 
 

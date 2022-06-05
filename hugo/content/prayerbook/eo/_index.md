@@ -70,7 +70,13 @@ Ho Vi, Kies vizaĝo estas la objekto de mia adoro, Kies beleco estas mia sanktej
 (Bahaiprayers.net ID: 4344)
 
 
+«[Nederlands](../nl/#BH10973)» 
 
+«[Esperanto](../eo/#BH10973)» 
+
+«[English](../en/#BH10973)» 
+
+«[Frysk](../fy/#BH10973)» 
 
 
 
@@ -82,7 +88,13 @@ Eternulo! Kompatindaj estas ni, donu al ni Vian favoron; malriĉaj, donacu al ni
 (Bahaiprayers.net ID: 4325)
 
 
+«[Nederlands](../nl/#AB00431PIT)» 
 
+«[Esperanto](../eo/#AB00431PIT)» 
+
+«[Papiamentu](../pap/#AB00431PIT)» 
+
+«[English](../en/#AB00431PIT)» 
 
 
 
@@ -96,7 +108,11 @@ Ho Dio, mia Dio! Vi vidas min, Vi konas min; Vi estas mia Haveno kaj mia Rifuĝe
 (Bahaiprayers.net ID: 4328)
 
 
+«[Nederlands](../nl/#AB06012)» 
 
+«[Esperanto](../eo/#AB06012)» 
+
+«[English](../en/#AB06012)» 
 
 
 
@@ -108,7 +124,11 @@ Ho mia Sinjoro, mia Amato, mia Deziro! Konsolu min en mia soleco kaj akompanu mi
 (Bahaiprayers.net ID: 4329)
 
 
+«[Italiano](../it/#AB10769)» 
 
+«[Esperanto](../eo/#AB10769)» 
+
+«[English](../en/#AB10769)» 
 
 
 
@@ -129,7 +149,9 @@ Vere, Vi estas la Donema, la Glora, la Potenca, la Ĉio-pova.
 (Bahaiprayers.net ID: 4336)
 
 
+«[Esperanto](../eo/#AB02866)» 
 
+«[English](../en/#AB02866)» 
 
 
 
@@ -165,7 +187,11 @@ Vere, Li estas la Mizerikorda, la Kompatema. Laŭdata estu Dio, la Sinjoro de ĉ
 (Bahaiprayers.net ID: 4308)
 
 
+«[Esperanto](../eo/#BH02022)» 
 
+«[English](../en/#BH02022)» 
+
+«[Frysk](../fy/#BH02022)» 
 
 
 
@@ -181,7 +207,9 @@ Laŭdo estu al Vi, ho Sinjoro mia Dio! Mi petegas al Vi je tiu ĉi Revelacio, pe
 (Bahaiprayers.net ID: 4309)
 
 
+«[Esperanto](../eo/#BH07657)» 
 
+«[English](../en/#BH07657)» 
 
 
 
@@ -197,7 +225,13 @@ Glorata estu Vi, ho Eternulo mia Dio! Mi petegas Vin je Li, Kiu estas Via Plej A
 (Bahaiprayers.net ID: 4343)
 
 
+«[Español](../es/#BH08822)» 
 
+«[Esperanto](../eo/#BH08822)» 
+
+«[Português (BR)](../pt/#BH08822)» 
+
+«[English](../en/#BH08822)» 
 
 
 
@@ -209,7 +243,9 @@ Glorata estu Via Nomo, ho Eternulo, mia Dio! Mi petegas Vin je Via potenco, kiu 
 (Bahaiprayers.net ID: 4348)
 
 
+«[Esperanto](../eo/#BH08244)» 
 
+«[English](../en/#BH08244)» 
 
 
 
@@ -221,7 +257,13 @@ Laŭdegata estas Via nomo, ho Eternulo mia Dio! Vi estas Tiu, Kiun ĉio adoras k
 (Bahaiprayers.net ID: 4339)
 
 
+«[Français](../fr/#BH09960)» 
 
+«[Esperanto](../eo/#BH09960)» 
+
+«[Português (BR)](../pt/#BH09960)» 
+
+«[English](../en/#BH09960)» 
 
 
 
@@ -233,7 +275,11 @@ Ho Vi kompatema Dio! Dankoj estu al Vi por ke Vi vekis kaj konsciigis min. Vi do
 (Bahaiprayers.net ID: 4327)
 
 
+«[Nederlands](../nl/#AB02342AWA)» 
 
+«[Esperanto](../eo/#AB02342AWA)» 
+
+«[English](../en/#AB02342AWA)» 
 
 
 
@@ -245,7 +291,15 @@ Ho Eternulo, mia Dio! Asistu Viajn amatojn, por ke ili estu firmaj en Via Kredo,
 (Bahaiprayers.net ID: 4333)
 
 
+«[Italiano](../it/#AB00001FIR)» 
 
+«[Nederlands](../nl/#AB00001FIR)» 
+
+«[Esperanto](../eo/#AB00001FIR)» 
+
+«[Português (BR)](../pt/#AB00001FIR)» 
+
+«[English](../en/#AB00001FIR)» 
 
 
 
@@ -257,7 +311,9 @@ Ho mia Sinjoro kaj mia espero! Helpu Vi la amatojn Viajn persisti en Via potenca
 (Bahaiprayers.net ID: 4373)
 
 
+«[Esperanto](../eo/#AB00065STE)» 
 
+«[English](../en/#AB00065STE)» 
 
 
 
@@ -274,7 +330,15 @@ Ho mia Dio! Ho Vi, pardonanto de pekoj, donacanto de bonoj, forpelanto de aflikt
 (Bahaiprayers.net ID: 4315)
 
 
+«[Nederlands](../nl/#AB11094)» 
 
+«[Español](../es/#AB11094)» 
+
+«[Esperanto](../eo/#AB11094)» 
+
+«[English](../en/#AB11094)» 
+
+«[Frysk](../fy/#AB11094)» 
 
 
 
@@ -290,7 +354,11 @@ Ho Eternulo! En tiu ĉi Plej Granda Misio Vi akceptas la propeton de infanoj por
 (Bahaiprayers.net ID: 4313)
 
 
+«[Nederlands](../nl/#AB02000DIS)» 
 
+«[Esperanto](../eo/#AB02000DIS)» 
+
+«[English](../en/#AB02000DIS)» 
 
 
 
@@ -306,7 +374,11 @@ Ho Vi bonkora Sinjoro! Vi kreis la tutan homaron el la sama radiko. Vi decidis, 
 (Bahaiprayers.net ID: 4320)
 
 
+«[Esperanto](../eo/#ABU0137ALL)» 
 
+«[English](../en/#ABU0137ALL)» 
+
+«[Frysk](../fy/#ABU0137ALL)» 
 
 
 
@@ -322,7 +394,11 @@ Ho Dio! Eduku ĉi tiujn infanojn. Ĉi infanoj estas la plantoj de Via horto, la 
 (Bahaiprayers.net ID: 4317)
 
 
+«[Esperanto](../eo/#ABU0129EDU)» 
 
+«[Papiamentu](../pap/#ABU0129EDU)» 
+
+«[English](../en/#ABU0129EDU)» 
 
 
 
@@ -334,7 +410,15 @@ Ho Dio! Gvidu min, protektu min, faru min lumanta lampo kaj stelo brila. Vi esta
 (Bahaiprayers.net ID: 4319)
 
 
+«[Nederlands](../nl/#AB04427LMP)» 
 
+«[Esperanto](../eo/#AB04427LMP)» 
+
+«[Papiamentu](../pap/#AB04427LMP)» 
+
+«[English](../en/#AB04427LMP)» 
+
+«[Frysk](../fy/#AB04427LMP)» 
 
 
 
@@ -346,7 +430,9 @@ Ho Dio! Eduku ĉi tiun malgrandan bebon en la sino de Via amo kaj donu al ĝi la
 (Bahaiprayers.net ID: 4316)
 
 
+«[Italiano](../it/#AB04004BAB)» 
 
+«[Esperanto](../eo/#AB04004BAB)» 
 
 
 
@@ -358,7 +444,9 @@ Ho Dio! Lumigu ĉi tiun junulon kaj favoru ĉi tiun malfortulon. Donacu al li sc
 (Bahaiprayers.net ID: 4318)
 
 
+«[Esperanto](../eo/#AB10703RAD)» 
 
+«[Português (BR)](../pt/#AB10703RAD)» 
 
 
 
@@ -375,7 +463,11 @@ Laŭdegata estu Via nomo, ho mia Dio, ĉar Vi manifestis tiun Tagon, kiu estas l
 (Bahaiprayers.net ID: 4354)
 
 
+«[Français](../fr/#BH08433)» 
 
+«[Esperanto](../eo/#BH08433)» 
+
+«[English](../en/#BH08433)» 
 
 
 
@@ -387,7 +479,9 @@ Ho mia Dio, helpu Vian servanton levi alten la Vorton kaj refuti, kio estas vana
 (Bahaiprayers.net ID: 4334)
 
 
+«[Esperanto](../eo/#AB05805SER)» 
 
+«[English](../en/#AB05805SER)» 
 
 
 
@@ -400,7 +494,9 @@ Ho Eternulo! Estas mi sola, forlasita kaj humila. Por mi ne estas subteno alia o
 (Bahaiprayers.net ID: 4372)
 
 
+«[Esperanto](../eo/#AB00210BIR)» 
 
+«[English](../en/#AB00210BIR)» 
 
 
 
@@ -413,7 +509,9 @@ Ho Dio, mia Dio! Vi vidas min ravita kaj altirata de Via glora reĝejo, flamigat
 (Bahaiprayers.net ID: 4335)
 
 
+«[Esperanto](../eo/#AB00049RAP)» 
 
+«[English](../en/#AB00049RAP)» 
 
 
 
@@ -484,7 +582,11 @@ Mi atestas, ho mia Dio, kion Viaj Elektitoj atestis, kaj rekonas, kion la loĝan
 (Bahaiprayers.net ID: 4303)
 
 
+«[Nederlands](../nl/#BH00987)» 
 
+«[Esperanto](../eo/#BH00987)» 
+
+«[English](../en/#BH00987)» 
 
 
 
@@ -503,7 +605,13 @@ Mi atestas, ho mia Dio, ke Vi kreis min, por ke mi konu Vin kaj adoru Vin. Mi at
 (Bahaiprayers.net ID: 4279)
 
 
+«[Esperanto](../eo/#BH11209)» 
 
+«[Papiamentu](../pap/#BH11209)» 
+
+«[English](../en/#BH11209)» 
+
+«[Frysk](../fy/#BH11209)» 
 
 
 
@@ -538,7 +646,13 @@ Mi atestas Vian unuecon kaj Vian ununurecon, kaj ke Vi estas Dio kaj ke ne estas
 (Bahaiprayers.net ID: 4280)
 
 
+«[Nederlands](../nl/#BH03447)» 
 
+«[Esperanto](../eo/#BH03447)» 
+
+«[Português (BR)](../pt/#BH03447)» 
+
+«[English](../en/#BH03447)» 
 
 
 
@@ -554,7 +668,11 @@ Mi atestas Vian unuecon kaj Vian ununurecon, kaj ke Vi estas Dio kaj ke ne estas
 (Bahaiprayers.net ID: 4338)
 
 
+«[Nederlands](../nl/#BH09401)» 
 
+«[Esperanto](../eo/#BH09401)» 
+
+«[English](../en/#BH09401)» 
 
 
 
@@ -566,7 +684,13 @@ Benita estas la punkto, kaj la domo, kaj la loko, kaj la urbo, kaj la koro, kai 
 (Bahaiprayers.net ID: 4337)
 
 
+«[Français](../fr/#BH00074BLE)» 
 
+«[Esperanto](../eo/#BH00074BLE)» 
+
+«[Papiamentu](../pap/#BH00074BLE)» 
+
+«[English](../en/#BH00074BLE)» 
 
 
 
@@ -582,7 +706,15 @@ Multe da frostaj koroj, ho mia Dio, ekflamis per la fajro de Via Kredo, kaj mult
 (Bahaiprayers.net ID: 4350)
 
 
+«[Nederlands](../nl/#BH09024)» 
 
+«[Afrikaans](../af/#BH09024)» 
+
+«[Español](../es/#BH09024)» 
+
+«[Esperanto](../eo/#BH09024)» 
+
+«[English](../en/#BH09024)» 
 
 
 
@@ -594,7 +726,7 @@ Mi petegas al Vi, ho mia Dio, je Via nomo, kies brileco ĉirkaŭas la teron kaj 
 (Bahaiprayers.net ID: 4352)
 
 
-
+«[Esperanto](../eo/#BH02848IMP)» 
 
 
 
@@ -606,7 +738,17 @@ Diru: Dio sufiĉas al ĉio kaj super ĉio, kaj nenio en la ĉieloj nek sur la te
 (Bahaiprayers.net ID: 4357)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -622,7 +764,11 @@ Mi vekiĝis sub Via ŝirmo, ho mia Dio, kaj decas al tiu, kiu serĉas tiun ŝirm
 (Bahaiprayers.net ID: 4340)
 
 
+«[Esperanto](../eo/#BH00009SHE)» 
 
+«[English](../en/#BH00009SHE)» 
+
+«[Frysk](../fy/#BH00009SHE)» 
 
 
 
@@ -634,7 +780,13 @@ Mi ellitiĝis ĉi-matene pro Via favoro, ho mia Dio, kaj iris for el mia hejmo, 
 (Bahaiprayers.net ID: 4341)
 
 
+«[Nederlands](../nl/#BH00009GRA)» 
 
+«[Esperanto](../eo/#BH00009GRA)» 
+
+«[Papiamentu](../pap/#BH00009GRA)» 
+
+«[English](../en/#BH00009GRA)» 
 
 
 
@@ -651,7 +803,13 @@ Vi estas la Potenca kaj la Ĉio-pova. Vi estas la Grandanima. Vi estas la Indulg
 (Bahaiprayers.net ID: 4331)
 
 
+«[Français](../fr/#ABU0030SHE)» 
 
+«[Español](../es/#ABU0030SHE)» 
+
+«[Esperanto](../eo/#ABU0030SHE)» 
+
+«[English](../en/#ABU0030SHE)» 
 
 
 
@@ -667,7 +825,13 @@ Laŭdata estu Via nomo, ho Eternulo mia Dio! Mi petegas Vin je Via Nomo, per kiu
 (Bahaiprayers.net ID: 4345)
 
 
+«[Italiano](../it/#BH10578)» 
 
+«[Español](../es/#BH10578)» 
+
+«[Esperanto](../eo/#BH10578)» 
+
+«[English](../en/#BH10578)» 
 
 
 
@@ -679,7 +843,9 @@ Ho mia Eternulo! Vi scias, ke la homoj estas ĉirkaŭataj de doloroj kaj aflikto
 (Bahaiprayers.net ID: 4321)
 
 
+«[Esperanto](../eo/#AB07759)» 
 
+«[English](../en/#AB07759)» 
 
 
 
@@ -691,7 +857,11 @@ Ho Dio, mia Dio! Ŝirmu Viajn fidelajn servantojn je la malbonoj de memo kaj pas
 (Bahaiprayers.net ID: 4326)
 
 
+«[Español](../es/#AB00001SHI)» 
 
+«[Esperanto](../eo/#AB00001SHI)» 
+
+«[English](../en/#AB00001SHI)» 
 
 
 
@@ -707,7 +877,11 @@ Ho Vi, bonema Dio! Jen Viaj geservantoj, kiuj kolektiĝis en tiu ĉi kunveno, si
 (Bahaiprayers.net ID: 4323)
 
 
+«[Español](../es/#ABU0070GAT)» 
 
+«[Esperanto](../eo/#ABU0070GAT)» 
+
+«[English](../en/#ABU0070GAT)» 
 
 
 
@@ -723,7 +897,17 @@ Via nomo estas mia kuraco, ho mia Dio, kaj rememoro pri Vi mia medikamento. Prok
 (Bahaiprayers.net ID: 4311)
 
 
+«[Nederlands](../nl/#BH01313NAM)» 
 
+«[Español](../es/#BH01313NAM)» 
+
+«[Esperanto](../eo/#BH01313NAM)» 
+
+«[Português (BR)](../pt/#BH01313NAM)» 
+
+«[English](../en/#BH01313NAM)» 
+
+«[Frysk](../fy/#BH01313NAM)» 
 
 
 
@@ -735,7 +919,9 @@ Ho Dio, mia Dio! Mi petegas al Vi je la oceano de Via kuraco, kaj je la brilo de
 (Bahaiprayers.net ID: 4310)
 
 
+«[Esperanto](../eo/#BH08013)» 
 
+«[English](../en/#BH08013)» 
 
 
 
@@ -793,7 +979,9 @@ Vi vere estas la Potenca, la Ĉion-Sufiĉanta, la Kuracanta, la Protektanto, la 
 (Bahaiprayers.net ID: 8491)
 
 
+«[Esperanto](../eo/#BH00870)» 
 
+«[English](../en/#BH00870)» 
 
 
 
@@ -809,7 +997,13 @@ Kreu en mi puran koron, ho mia Dio, kaj renovigu en mi trankvilan konsciencon, h
 (Bahaiprayers.net ID: 4346)
 
 
+«[Nederlands](../nl/#BH04421HEA)» 
 
+«[Esperanto](../eo/#BH04421HEA)» 
+
+«[English](../en/#BH04421HEA)» 
+
+«[Frysk](../fy/#BH04421HEA)» 
 
 
 
@@ -824,7 +1018,7 @@ Ni petas Vin, ho Providenco, montru al ĉiuj homoj Vian vojon kaj ĝuste ilin gv
 (Bahaiprayers.net ID: 4374)
 
 
-
+«[Esperanto](../eo/#BH00005ALL)» 
 
 
 
@@ -837,7 +1031,7 @@ Ho Dio! Vi estas plia amiko al mi ol mi estas al mi mem. Mi dediĉas min al Vi, 
 (Bahaiprayers.net ID: 4332)
 
 
-
+«[Esperanto](../eo/#ABU1863REF)» 
 
 
 
@@ -853,7 +1047,17 @@ Ho Dio! Vi estas plia amiko al mi ol mi estas al mi mem. Mi dediĉas min al Vi, 
 (Bahaiprayers.net ID: 4356)
 
 
+«[Français](../fr/#BB00623)» 
 
+«[Esperanto](../eo/#BB00623)» 
+
+«[Português (BR)](../pt/#BB00623)» 
+
+«[Papiamentu](../pap/#BB00623)» 
+
+«[English](../en/#BB00623)» 
+
+«[Frysk](../fy/#BB00623)» 
 
 
 
@@ -869,7 +1073,11 @@ Gloro estu al Vi, ho Eternulo, Vi Kiu ekzistigis ĉion kreitan per la potenco de
 (Bahaiprayers.net ID: 4355)
 
 
+«[Español](../es/#BB00004REN)» 
 
+«[Esperanto](../eo/#BB00004REN)» 
+
+«[English](../en/#BB00004REN)» 
 
 
 
@@ -881,7 +1089,9 @@ Ho Eternulo! Ebligu al ĉiuj popoloj de la mondo akiri enlason en la Paradizon d
 (Bahaiprayers.net ID: 4358)
 
 
+«[Esperanto](../eo/#BB00002ENA)» 
 
+«[English](../en/#BB00002ENA)» 
 
 
 
@@ -897,7 +1107,13 @@ Ho mia Dio! Ho mia Dio! Unuigu la korojn de Viaj servantoj kaj revelaciu al ili 
 (Bahaiprayers.net ID: 4353)
 
 
+«[Esperanto](../eo/#BH10505)» 
 
+«[Papiamentu](../pap/#BH10505)» 
+
+«[English](../en/#BH10505)» 
+
+«[Frysk](../fy/#BH10505)» 
 
 
 
@@ -909,7 +1125,11 @@ Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petan
 (Bahaiprayers.net ID: 4322)
 
 
+«[Nederlands](../nl/#ABU0023UNI)» 
 
+«[Esperanto](../eo/#ABU0023UNI)» 
+
+«[English](../en/#ABU0023UNI)» 
 
 
 
@@ -921,7 +1141,9 @@ Ho Vi, kompatema Sinjoro, Vi Kiu estas malavara kaj pova! Ni estas servantoj Via
 (Bahaiprayers.net ID: 4324)
 
 
+«[Esperanto](../eo/#ABU0009SER)» 
 
+«[English](../en/#ABU0009SER)» 
 
 
 
@@ -937,7 +1159,13 @@ Ho mia Dio, mia Mastro, la Celo de mia deziro! Ĉi tiu servanto Via sopiras dorm
 (Bahaiprayers.net ID: 4342)
 
 
+«[Esperanto](../eo/#BH00009SER)» 
 
+«[Português (BR)](../pt/#BH00009SER)» 
+
+«[English](../en/#BH00009SER)» 
+
+«[Frysk](../fy/#BH00009SER)» 
 
 
 
@@ -951,7 +1179,15 @@ Vere, Vi estas la Donanto, la Malavara, la Kompatema, la Pardonanta.
 (Bahaiprayers.net ID: 4330)
 
 
+«[Deutsch](../de/#AB06528MID)» 
 
+«[Italiano](../it/#AB06528MID)» 
+
+«[Español](../es/#AB06528MID)» 
+
+«[Esperanto](../eo/#AB06528MID)» 
+
+«[English](../en/#AB06528MID)» 
 
 
 
@@ -967,7 +1203,11 @@ Ho mia Dio, la Dio de donacado kaj kompato! Vi estas la Reĝo, per Kies ordona v
 (Bahaiprayers.net ID: 4347)
 
 
+«[Nederlands](../nl/#BH00554)» 
 
+«[Esperanto](../eo/#BH00554)» 
+
+«[English](../en/#BH00554)» 
 
 
 
@@ -979,7 +1219,11 @@ Ho mia Eternulo! Faru Vian belecon mia mangaĵo kaj Vian ĉeeston mia trinkaĵo,
 (Bahaiprayers.net ID: 4351)
 
 
+«[Italiano](../it/#BH07426FOO)» 
 
+«[Esperanto](../eo/#BH07426FOO)» 
+
+«[English](../en/#BH07426FOO)» 
 
 
 
@@ -995,7 +1239,9 @@ Ho Dio, mia Dio! Mi forlasis mian hejmon, firme tenante la kordonon de Via amo, 
 (Bahaiprayers.net ID: 4349)
 
 
+«[Esperanto](../eo/#BH10688)» 
 
+«[English](../en/#BH10688)» 
 
 
 

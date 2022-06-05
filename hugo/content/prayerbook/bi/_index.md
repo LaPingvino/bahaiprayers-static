@@ -84,7 +84,7 @@ O God! Tekemaot ol samting we i mekem se mifala i faet. Mekem redi blong mifala 
 (Bahaiprayers.net ID: 4952)
 
 
-
+«[Vanuatu](../bi/#bpn4952)» 
 
 
 
@@ -101,7 +101,7 @@ Yu Yu helpem mifala oltaem long taem blong trabol, mo Yu Yu save stap oltaem Yu 
 (Bahaiprayers.net ID: 4940)
 
 
-
+«[Vanuatu](../bi/#bpn4940)» 
 
 
 
@@ -113,7 +113,7 @@ O Masta we Yu fogivim ol man oltaem! Yu Yu olsem wan sef ples we ol wokman blong
 (Bahaiprayers.net ID: 4939)
 
 
-
+«[Vanuatu](../bi/#bpn4939)» 
 
 
 
@@ -130,7 +130,7 @@ I tru se Yu Yu King blong olgeta pipol.  I no gat wan narafala God be Yu nomo. Y
 (Bahaiprayers.net ID: 4928)
 
 
-
+«[Vanuatu](../bi/#bpn4928)» 
 
 
 
@@ -167,7 +167,7 @@ I tru se yumi evriwan i stap weit long wanem God i wantem (19 taem)
 (Bahaiprayers.net ID: 4926)
 
 
-
+«[Vanuatu](../bi/#bpn4926)» 
 
 
 
@@ -180,7 +180,7 @@ Mi askem Yu blong fogivim ol sin blong olgeta man we oli bin lego long bodi blon
 (Bahaiprayers.net ID: 4927)
 
 
-
+«[Vanuatu](../bi/#bpn4927)» 
 
 
 
@@ -201,7 +201,7 @@ I tru se Yu Yu givim laef long evri samting, Yu Yu helpem mifala, Yu Yu seraot o
 (Bahaiprayers.net ID: 4925)
 
 
-
+«[Vanuatu](../bi/#bpn4925)» 
 
 
 
@@ -220,7 +220,7 @@ I no gat narafala God be Yu. Yu Yu wan nomo. Yu Yu save evri samting. Yu Yu waes
 (Bahaiprayers.net ID: 4945)
 
 
-
+«[Vanuatu](../bi/#bpn4945)» 
 
 
 
@@ -232,7 +232,7 @@ Ol preis i go long Yu, O God mo God blong mi! Hemia i ol dei we Yu bin askem lon
 (Bahaiprayers.net ID: 4946)
 
 
-
+«[Vanuatu](../bi/#bpn4946)» 
 
 
 
@@ -244,7 +244,7 @@ Long Nem blong Hem we olgeta Buk blong God i bin promisim, Hem we i save Evri Sa
 (Bahaiprayers.net ID: 4947)
 
 
-
+«[Vanuatu](../bi/#bpn4947)» 
 
 
 
@@ -256,7 +256,7 @@ Ol preis i go long Yu, O Lod mo God blong mi!  Mifala i bin holem Fast folem wan
 (Bahaiprayers.net ID: 4948)
 
 
-
+«[Vanuatu](../bi/#bpn4948)» 
 
 
 
@@ -268,7 +268,7 @@ O God blong mi mo Masta blong mi!  Yu  lukim se mi mi stap long medel long olget
 (Bahaiprayers.net ID: 4949)
 
 
-
+«[Vanuatu](../bi/#bpn4949)» 
 
 
 
@@ -287,7 +287,7 @@ I tru se Yu Yu spesal tumas, Yu Yu stap givim ol samting long ol pipol oltaem, m
 (Bahaiprayers.net ID: 4922)
 
 
-
+«[Vanuatu](../bi/#bpn4922)» 
 
 
 
@@ -309,7 +309,7 @@ O Masta blong evri samting we i gat laef!   O King blong evri samting we mifala 
 (Bahaiprayers.net ID: 4935)
 
 
-
+«[Vanuatu](../bi/#bpn4935)» 
 
 
 
@@ -384,7 +384,7 @@ Mi agri tumas, O God blong mi, wetem tru toktok we olgeta we Yu bin jusum i bin 
 (Bahaiprayers.net ID: 4904)
 
 
-
+«[Vanuatu](../bi/#bpn4904)» 
 
 
 
@@ -401,7 +401,7 @@ O God blong mi!  Hem we i stap long bel blong mi, mi givim long Yu.  Plis yu mek
 (Bahaiprayers.net ID: 4921)
 
 
-
+«[Vanuatu](../bi/#bpn4921)» 
 
 
 
@@ -419,7 +419,7 @@ I tru se Yu Yu holem ol paoa, Yu Yu stap long evri ples, mo Yu Yu naes tu mas.
 (Bahaiprayers.net ID: 4920)
 
 
-
+«[Vanuatu](../bi/#bpn4920)» 
 
 
 
@@ -466,7 +466,7 @@ I tru se Yu Yu holem ol paoa, Yu Yu stap long evri ples, mo Yu Yu naes tu mas.
 (Bahaiprayers.net ID: 4903)
 
 
-
+«[Vanuatu](../bi/#bpn4903)» 
 
 
 
@@ -483,7 +483,7 @@ Evri gud samting i kamaot long Yu, mo evri blesing i kamaot long Yu nomo. Yu Yu 
 (Bahaiprayers.net ID: 4911)
 
 
-
+«[Vanuatu](../bi/#bpn4911)» 
 
 
 
@@ -499,7 +499,7 @@ Mi jes wekap andanit long strong paoa blong Yu, O God blong mi. Mo from we mi no
 (Bahaiprayers.net ID: 4906)
 
 
-
+«[Vanuatu](../bi/#bpn4906)» 
 
 
 
@@ -512,7 +512,7 @@ I no gat wan narafala God be Yu. Yu Yu wan. I no gat narafala olsem Yu. Yu Yu sa
 (Bahaiprayers.net ID: 4907)
 
 
-
+«[Vanuatu](../bi/#bpn4907)» 
 
 
 
@@ -527,7 +527,7 @@ I tru tu mas se Yu Yu Masta mo King blong olgeta man, mo Yu Yu gat paoa long evr
 (Bahaiprayers.net ID: 4908)
 
 
-
+«[Vanuatu](../bi/#bpn4908)» 
 
 
 
@@ -544,7 +544,7 @@ I no gat narafala God be Yu. Yu Yu gat strong paoa, Yu Yu mekem ol samting i go 
 (Bahaiprayers.net ID: 4909)
 
 
-
+«[Vanuatu](../bi/#bpn4909)» 
 
 
 
@@ -560,7 +560,7 @@ O God!  Mifala i wik tumas.  Plis Yu save mekem se mifala i kam strong.  Mifala 
 (Bahaiprayers.net ID: 4924)
 
 
-
+«[Vanuatu](../bi/#bpn4924)» 
 
 
 
@@ -579,7 +579,7 @@ O God, lukaotem mi blong ol test i no draonem mi.  Yu save gud se mi bin lego ev
 (Bahaiprayers.net ID: 4951)
 
 
-
+«[Vanuatu](../bi/#bpn4951)» 
 
 
 
@@ -596,7 +596,7 @@ Yu Yu holem ol paoa, Yu Yu kaen, Yu Yu givim evri samting, Yu Yu seraot oltaem, 
 (Bahaiprayers.net ID: 4912)
 
 
-
+«[Vanuatu](../bi/#bpn4912)» 
 
 
 
@@ -608,7 +608,7 @@ O God! Trenem ol pikinini ia.  Ol pikinini ia i ol smolsmol tri long plantesen b
 (Bahaiprayers.net ID: 4913)
 
 
-
+«[Vanuatu](../bi/#bpn4913)» 
 
 
 
@@ -621,7 +621,7 @@ Yu Yu strong, mo Yu Yu gat fulap paoa.
 (Bahaiprayers.net ID: 4914)
 
 
-
+«[Vanuatu](../bi/#bpn4914)» 
 
 
 
@@ -634,7 +634,7 @@ Yu Yu strong, mo Yu Yu gat fulap paoa.
 (Bahaiprayers.net ID: 4915)
 
 
-
+«[Vanuatu](../bi/#bpn4915)» 
 
 
 
@@ -647,7 +647,7 @@ I tru tu mas se Yu Yu strong, Yu Yu gat paoa, mo Yu Yu lukim mo harem evri samti
 (Bahaiprayers.net ID: 4916)
 
 
-
+«[Vanuatu](../bi/#bpn4916)» 
 
 
 
@@ -665,7 +665,7 @@ O God we Yu lukaotem mifala oltaem! Yu krieitem evri samting tru long ol blesing
 (Bahaiprayers.net ID: 4936)
 
 
-
+«[Vanuatu](../bi/#bpn4936)» 
 
 
 
@@ -681,7 +681,7 @@ O God blong mi, God we i givimaot ol samting long yumi mo i gat bigfala sori lon
 (Bahaiprayers.net ID: 4923)
 
 
-
+«[Vanuatu](../bi/#bpn4923)» 
 
 
 
@@ -697,7 +697,7 @@ O God!  O God blong mi! Mi bin kamaot long haos blong mi mo mi bin hang strong l
 (Bahaiprayers.net ID: 4950)
 
 
-
+«[Vanuatu](../bi/#bpn4950)» 
 
 
 
@@ -716,7 +716,7 @@ Soemaot long mifala, O God, se Yu Yu hae tu mas, Yu Yu bin stap oltaem, mo bamba
 (Bahaiprayers.net ID: 4953)
 
 
-
+«[Vanuatu](../bi/#bpn4953)» 
 
 
 
@@ -728,7 +728,7 @@ O God blong mi! Long nem blong Yu we i gat fulap glori, mi askem Yu blong helpem
 (Bahaiprayers.net ID: 4954)
 
 
-
+«[Vanuatu](../bi/#bpn4954)» 
 
 
 
@@ -741,7 +741,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 4955)
 
 
-
+«[Vanuatu](../bi/#bpn4955)» 
 
 
 
@@ -754,7 +754,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 4956)
 
 
-
+«[Vanuatu](../bi/#bpn4956)» 
 
 
 
@@ -766,7 +766,7 @@ O Masta! Mifala i wik. Mekem mifala i kam strong! O God! Mifala i no gat save. M
 (Bahaiprayers.net ID: 4957)
 
 
-
+«[Vanuatu](../bi/#bpn4957)» 
 
 
 
@@ -778,7 +778,7 @@ Hem i God! Lukluk long mifala, O Masta, we mifala i kam tugeta long tisfala teib
 (Bahaiprayers.net ID: 4958)
 
 
-
+«[Vanuatu](../bi/#bpn4958)» 
 
 
 
@@ -793,7 +793,7 @@ Yu Yu strong tumas, Yu Yu gat fulap lav, mo Yu Yu givim evri samting long ol pip
 (Bahaiprayers.net ID: 4959)
 
 
-
+«[Vanuatu](../bi/#bpn4959)» 
 
 
 
@@ -805,7 +805,7 @@ O God! Mi plis long Yu blong Yu mekem se spirit blong mi i kam niu bakagen mo Yu
 (Bahaiprayers.net ID: 4960)
 
 
-
+«[Vanuatu](../bi/#bpn4960)» 
 
 
 
@@ -818,7 +818,7 @@ Yu Yu gat evri samting blong givim, Yu Yu lukaotem gud evri wan, Yu Yu strong, m
 (Bahaiprayers.net ID: 4961)
 
 
-
+«[Vanuatu](../bi/#bpn4961)» 
 
 
 
@@ -832,7 +832,7 @@ Yu Yu holem paoa, Yu Yu kaen tumas, Yu Yu save stap Yu wan nomo, Yu Yu givim ol 
 (Bahaiprayers.net ID: 4962)
 
 
-
+«[Vanuatu](../bi/#bpn4962)» 
 
 
 
@@ -845,7 +845,7 @@ O Masta! Mi stap mi wan nomo, mo mi stap daon tumas. I no gat wan samting blong 
 (Bahaiprayers.net ID: 4963)
 
 
-
+«[Vanuatu](../bi/#bpn4963)» 
 
 
 
@@ -863,7 +863,7 @@ Mi talem stret, O God blong mi, se Yu Yu krieitem mi blong save Yu mo mi wosipim
 (Bahaiprayers.net ID: 4902)
 
 
-
+«[Vanuatu](../bi/#bpn4902)» 
 
 
 
@@ -886,7 +886,7 @@ Yu Yu kaen tumas, Yu Yu gat evri samting, Yu Yu givimaot planti samting, Yu Yu h
 (Bahaiprayers.net ID: 4910)
 
 
-
+«[Vanuatu](../bi/#bpn4910)» 
 
 
 
@@ -903,7 +903,7 @@ O Yu Spirit we Yu klin tumas, Yu we Yu Stap Givimaot Evri Presen, plis Yu lukaot
 (Bahaiprayers.net ID: 4944)
 
 
-
+«[Vanuatu](../bi/#bpn4944)» 
 
 
 
@@ -919,7 +919,7 @@ O God blong mi!  Tru long bigfala paoa blong Yu, mi askem mo mi plis strong long
 (Bahaiprayers.net ID: 4917)
 
 
-
+«[Vanuatu](../bi/#bpn4917)» 
 
 
 
@@ -931,7 +931,7 @@ Hu bakegen i save tekemaot ol trabol be God nomo i save? Hemia mi save sua: Yumi
 (Bahaiprayers.net ID: 4918)
 
 
-
+«[Vanuatu](../bi/#bpn4918)» 
 
 
 
@@ -949,7 +949,7 @@ Yu Yu gat bigfala paoa blong mekem wanem Yu wantem. I no gat wan narafala God be
 (Bahaiprayers.net ID: 4941)
 
 
-
+«[Vanuatu](../bi/#bpn4941)» 
 
 
 
@@ -962,7 +962,7 @@ From hemia, mi go down mo mi plis strong long Yu blong Yu sendem i kam daon long
 (Bahaiprayers.net ID: 4942)
 
 
-
+«[Vanuatu](../bi/#bpn4942)» 
 
 
 
@@ -974,7 +974,7 @@ Nem blong Yu i mekem sik blong mi i gowei, O God blong mi. Mo taem mi tingting l
 (Bahaiprayers.net ID: 4943)
 
 
-
+«[Vanuatu](../bi/#bpn4943)» 
 
 
 
@@ -992,7 +992,7 @@ I tru tumas se Yu Yu gat paoa, Yu Yu strong, mo Yu Yu lukaotem evri samting.  Yu
 (Bahaiprayers.net ID: 4929)
 
 
-
+«[Vanuatu](../bi/#bpn4929)» 
 
 
 
@@ -1005,7 +1005,7 @@ O God!  Plis Yu protektem mi long ol tes. Yu Yu save gud se mi bin tanem bak blo
 (Bahaiprayers.net ID: 4930)
 
 
-
+«[Vanuatu](../bi/#bpn4930)» 
 
 
 
@@ -1020,7 +1020,7 @@ I tru se Yu Yu gat paoa, Yu Yu hae tumas mo Yu Yu strong.
 (Bahaiprayers.net ID: 4931)
 
 
-
+«[Vanuatu](../bi/#bpn4931)» 
 
 
 
@@ -1036,7 +1036,7 @@ I tru tumas se Yu Yu fogivim mifala, Yu Yu gat bigfala paoa, Yu Yu strong tumas,
 (Bahaiprayers.net ID: 4932)
 
 
-
+«[Vanuatu](../bi/#bpn4932)» 
 
 
 
@@ -1050,7 +1050,7 @@ Yu Yu gat bigfala paoa, mo Yu Yu wokim evri samting we Yu wantem.
 (Bahaiprayers.net ID: 4933)
 
 
-
+«[Vanuatu](../bi/#bpn4933)» 
 
 
 
@@ -1063,7 +1063,7 @@ I tru se Yu Yu strong, Yu Yu gat paoa, Yu Yu hae tumas, Yu Yu masta blong mifala
 (Bahaiprayers.net ID: 4934)
 
 
-
+«[Vanuatu](../bi/#bpn4934)» 
 
 
 
@@ -1097,7 +1097,7 @@ I tru tumas se Hem nao Hem i gat bigfala lav, mo Hem i gat bigfala sori. Yumi ma
 (Bahaiprayers.net ID: 4905)
 
 
-
+«[Vanuatu](../bi/#bpn4905)» 
 
 
 
@@ -1126,7 +1126,7 @@ Yu Yu givim olgeta gudfala samting, Yu Yu sori long mifala, Yu Yu givim ol blesi
 (Bahaiprayers.net ID: 4965)
 
 
-
+«[Vanuatu](../bi/#bpn4965)» 
 
 
 
@@ -1153,7 +1153,7 @@ O God blong mi! Plis Yu blesem Tri blong Yu, wetem ol lif, ol branis, mo ol smol
 (Bahaiprayers.net ID: 4964)
 
 
-
+«[Vanuatu](../bi/#bpn4964)» 
 
 
 
@@ -1169,7 +1169,7 @@ O Masta blong mi! Mi lavem Yu tumas, mo mi wantem Yu.  Lukaotem mi olsem wan fre
 (Bahaiprayers.net ID: 4919)
 
 
-
+«[Vanuatu](../bi/#bpn4919)» 
 
 
 
@@ -1185,7 +1185,7 @@ O God blong mi! O God blong mi! Joenem i kam wan ples olgeta hart blong ol wokma
 (Bahaiprayers.net ID: 4937)
 
 
-
+«[Vanuatu](../bi/#bpn4937)» 
 
 
 
@@ -1204,7 +1204,7 @@ Yu Yu gat bigfala paoa, Yu Yu fogivim ol man, mo Yu Yu no lukluk long ol mestek 
 (Bahaiprayers.net ID: 4938)
 
 
-
+«[Vanuatu](../bi/#bpn4938)» 
 
 
 

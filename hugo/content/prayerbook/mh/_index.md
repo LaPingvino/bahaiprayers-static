@@ -50,7 +50,7 @@ Kwe Kwokajur, Eo eobrak kin yokwe.
 (Bahaiprayers.net ID: 6195)
 
 
-
+«[Marshallese](../mh/#bpn6195)» 
 
 
 
@@ -64,7 +64,7 @@ Komman bwe Kituom en kemourur ir bwe ren maron katak, edrok im wonmanlok im bed 
 (Bahaiprayers.net ID: 6196)
 
 
-
+«[Marshallese](../mh/#bpn6196)» 
 
 
 
@@ -80,7 +80,7 @@ O Kwe Iroij in jouij, Kwe Eo Kwojouij im maron! Kimij Drijilkam im emoj am koonw
 (Bahaiprayers.net ID: 6206)
 
 
-
+«[Marshallese](../mh/#bpn6206)» 
 
 
 
@@ -101,7 +101,7 @@ O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar 
 (Bahaiprayers.net ID: 6190)
 
 
-
+«[Marshallese](../mh/#bpn6190)» 
 
 
 
@@ -115,7 +115,7 @@ O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar 
 (Bahaiprayers.net ID: 6202)
 
 
-
+«[Marshallese](../mh/#bpn6202)» 
 
 
 
@@ -135,7 +135,7 @@ Kwe Dri jolok bwid im Dri jouij.
 (Bahaiprayers.net ID: 6203)
 
 
-
+«[Marshallese](../mh/#bpn6203)» 
 
 
 
@@ -151,7 +151,7 @@ Kwoj Dri yokwe, Dri tiriamo. Kwe Anij in letok jeramon elab.
 (Bahaiprayers.net ID: 6204)
 
 
-
+«[Marshallese](../mh/#bpn6204)» 
 
 
 
@@ -171,7 +171,7 @@ Eaibuijuij Etam, O Kwe eo Kwoj King in king ro otemjij.
 (Bahaiprayers.net ID: 6198)
 
 
-
+«[Marshallese](../mh/#bpn6198)» 
 
 
 
@@ -191,7 +191,7 @@ Aolep maron rej Am ekkar nan Ankilam.
 (Bahaiprayers.net ID: 6199)
 
 
-
+«[Marshallese](../mh/#bpn6199)» 
 
 
 
@@ -209,7 +209,7 @@ Kwe, ilo mol, Kwokajur potata, Kwoaibuijuij potata im Kwokajur otem kajur.
 (Bahaiprayers.net ID: 6200)
 
 
-
+«[Marshallese](../mh/#bpn6200)» 
 
 
 
@@ -231,7 +231,7 @@ Ij kamol, O ao Anij, bwe Kwar kommane io bwe in jela kin Yuk im kabun nan Yuk. I
 (Bahaiprayers.net ID: 6189)
 
 
-
+«[Marshallese](../mh/#bpn6189)» 
 
 
 
@@ -247,7 +247,7 @@ O Kwe eo im Turin mejen ej unjen ao kabun, im aibuijuij eo An ej jikin ao kone, 
 (Bahaiprayers.net ID: 6191)
 
 
-
+«[Marshallese](../mh/#bpn6191)» 
 
 
 
@@ -261,7 +261,7 @@ Dri onake Eo ekwojarkar! Aolep menin komanman rar walok jen kejramon eo Am; jab 
 (Bahaiprayers.net ID: 6192)
 
 
-
+«[Marshallese](../mh/#bpn6192)» 
 
 
 
@@ -283,7 +283,7 @@ Emol, Kwoj Iroij im King an armij otemjij, im maron ion aolep men otemjij.
 (Bahaiprayers.net ID: 6209)
 
 
-
+«[Marshallese](../mh/#bpn6209)» 
 
 
 
@@ -303,7 +303,7 @@ Kin kajur eo Am! Ejelok bar juon men inaj, ilo ien ao kiki ak ilo ien ao ruj, ak
 (Bahaiprayers.net ID: 6201)
 
 
-
+«[Marshallese](../mh/#bpn6201)» 
 
 
 
@@ -319,7 +319,7 @@ Et eo Etam ej menin kemour io, O ao Anij, im ao kemejmej Yuk ej menin kejmour io
 (Bahaiprayers.net ID: 6205)
 
 
-
+«[Marshallese](../mh/#bpn6205)» 
 
 
 
@@ -337,7 +337,7 @@ Emol, Kwe Dri jouij. Emol, Kwe Dri tiriamo. Emol, Kwoaurok, Eo Jitenburu.
 (Bahaiprayers.net ID: 6208)
 
 
-
+«[Marshallese](../mh/#bpn6208)» 
 
 
 
@@ -353,7 +353,7 @@ Ewor ke bar juon Dri jolok aban ko ijelokin Anij? Jen ba: Nebar Anij! E Ej Anij!
 (Bahaiprayers.net ID: 6193)
 
 
-
+«[Marshallese](../mh/#bpn6193)» 
 
 
 
@@ -365,7 +365,7 @@ O Iroij! Kwoj Dri jolok aolep menin buromoj, im Dri namejlan aolep menin aban. K
 (Bahaiprayers.net ID: 6194)
 
 
-
+«[Marshallese](../mh/#bpn6194)» 
 
 
 
@@ -381,7 +381,7 @@ Kwoaibuijuij, O ao Anij! Emol, dri jerbal rein Am rej kobatok iumin ailurlur in 
 (Bahaiprayers.net ID: 6207)
 
 
-
+«[Marshallese](../mh/#bpn6207)» 
 
 
 
@@ -401,7 +401,7 @@ O ao Iroj! Kareoik ir jen bwid ko air, jolok burumij ko air im ukot ir jen bed i
 (Bahaiprayers.net ID: 6197)
 
 
-
+«[Marshallese](../mh/#bpn6197)» 
 
 
 

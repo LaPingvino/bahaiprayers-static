@@ -26,7 +26,7 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 9104)
 
 
-
+«[Alaska Native](../ik/#bpn9104)» 
 
 
 
@@ -41,7 +41,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 (Bahaiprayers.net ID: 9099)
 
 
-
+«[Alaska Native](../ik/#bpn9099)» 
 
 
 
@@ -57,7 +57,7 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 9095)
 
 
-
+«[Alaska Native](../ik/#bpn9095)» 
 
 
 
@@ -97,7 +97,7 @@ We all, verily, are patient in God.
 (Bahaiprayers.net ID: 12873)
 
 
-
+«[Alaska Native](../ik/#bpn12873)» 
 
 
 
@@ -113,7 +113,7 @@ Blessed is the spot, and the house, and the place, and the city, and the heart, 
 (Bahaiprayers.net ID: 12876)
 
 
-
+«[Alaska Native](../ik/#bpn12876)» 
 
 
 
@@ -131,7 +131,7 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 (Bahaiprayers.net ID: 9103)
 
 
-
+«[Alaska Native](../ik/#bpn9103)» 
 
 
 
@@ -144,7 +144,7 @@ God, God-igigikpiñ, Piviutaġigikpiñ, Pisramaaġaatin uummatiġma.
 (Bahaiprayers.net ID: 12870)
 
 
-
+«[Alaska Native](../ik/#bpn12870)» 
 
 
 
@@ -162,7 +162,7 @@ Verily, He is in Himself the Knower, the Sustainer, the Omnipotent.
 (Bahaiprayers.net ID: 12875)
 
 
-
+«[Alaska Native](../ik/#bpn12875)» 
 
 
 
@@ -182,7 +182,7 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 (Bahaiprayers.net ID: 9102)
 
 
-
+«[Alaska Native](../ik/#bpn9102)» 
 
 
 
@@ -197,7 +197,7 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 (Bahaiprayers.net ID: 9098)
 
 
-
+«[Alaska Native](../ik/#bpn9098)» 
 
 
 
@@ -212,7 +212,7 @@ Make firm our steps, O Lord, in Thy path and strengthen Thou our hearts in Thine
 (Bahaiprayers.net ID: 9100)
 
 
-
+«[Alaska Native](../ik/#bpn9100)» 
 
 
 
@@ -232,7 +232,7 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer.
 (Bahaiprayers.net ID: 9097)
 
 
-
+«[Alaska Native](../ik/#bpn9097)» 
 
 
 
@@ -248,7 +248,7 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star. Tho
 (Bahaiprayers.net ID: 10177)
 
 
-
+«[Alaska Native](../ik/#bpn10177)» 
 
 
 

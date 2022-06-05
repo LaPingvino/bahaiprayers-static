@@ -41,7 +41,7 @@ U Kaugu Luluai! Go Koum kudakudar ma natui  Koum kudakudar nina inurnur tam ma t
 (Bahaiprayers.net ID: 12991)
 
 
-
+«[Kuanua](../ksd/#bpn12991)» 
 
 
 
@@ -68,7 +68,7 @@ Avet par, ave kivovon ma kiung varpa upi ra Luluai (a vinun ma a lavuvat nae)
 (Bahaiprayers.net ID: 12992)
 
 
-
+«[Kuanua](../ksd/#bpn12992)» 
 
 
 
@@ -84,7 +84,7 @@ I - ia ra Luluai nina na takvue ra umana vartup?  Da vatangia: Pite pa u a Lulua
 (Bahaiprayers.net ID: 12985)
 
 
-
+«[Kuanua](../ksd/#bpn12985)» 
 
 
 
@@ -100,7 +100,7 @@ Kaugu Luluai! Kaugu Luluai! Viguve ra buai kaum umana Kudakudar, ma vakapa diat 
 (Bahaiprayers.net ID: 12986)
 
 
-
+«[Kuanua](../ksd/#bpn12986)» 
 
 
 
@@ -116,7 +116,7 @@ U l.uluai. mataure iau, balaure iau; mal iau dari ra birao na lam ma a matotona 
 (Bahaiprayers.net ID: 12990)
 
 
-
+«[Kuanua](../ksd/#bpn12990)» 
 
 
 
@@ -132,7 +132,7 @@ A ruru tam ra Luluai, U Kaugu Luluai I Atuna gon, Koum bul kudar ma Koum vavina 
 (Bahaiprayers.net ID: 12989)
 
 
-
+«[Kuanua](../ksd/#bpn12989)» 
 
 
 
@@ -148,7 +148,7 @@ A iangim ia kaugu varvalagar, U kaugu Luluai,  ma Kaum varvanuknuk ia ra gu varv
 (Bahaiprayers.net ID: 12987)
 
 
-
+«[Kuanua](../ksd/#bpn12987)» 
 
 
 
@@ -165,7 +165,7 @@ A ngatngat na Luluai I Ari iau vevel tara umana magit na palapaka, ma vakir iau 
 (Bahaiprayers.net ID: 12993)
 
 
-
+«[Kuanua](../ksd/#bpn12993)» 
 
 
 
@@ -183,7 +183,7 @@ lau tur valongoreu, U kaugu Luluai, Uga vaki  iau upi ina nunure u ma lotu tadap
 (Bahaiprayers.net ID: 12984)
 
 
-
+«[Kuanua](../ksd/#bpn12984)» 
 
 
 
@@ -199,7 +199,7 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 (Bahaiprayers.net ID: 12983)
 
 
-
+«[Kuanua](../ksd/#bpn12983)» 
 
 
 
@@ -217,7 +217,7 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 (Bahaiprayers.net ID: 12988)
 
 
-
+«[Kuanua](../ksd/#bpn12988)» 
 
 
 

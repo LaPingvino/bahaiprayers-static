@@ -46,7 +46,7 @@ O Tu, gailestingasis Dieve! O Tu, Kuris esi galingas ir stiprus! O Tu, maloningi
 (Bahaiprayers.net ID: 8204)
 
 
-
+«[Lietuvių](../lt/#bpn8204)» 
 
 
 
@@ -63,7 +63,7 @@ O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trū
 (Bahaiprayers.net ID: 8203)
 
 
-
+«[Lietuvių](../lt/#bpn8203)» 
 
 
 
@@ -81,7 +81,7 @@ Tegu mano širdį užplūsta džiaugsmas per Tavo karalystės sutvirtinimo dvasi
 (Bahaiprayers.net ID: 8205)
 
 
-
+«[Lietuvių](../lt/#bpn8205)» 
 
 
 
@@ -97,7 +97,7 @@ Sukurk manyje tyrą širdį, o mano Dieve, ir atgaivink mano sąžinės ramybę,
 (Bahaiprayers.net ID: 8189)
 
 
-
+«[Lietuvių](../lt/#bpn8189)» 
 
 
 
@@ -110,7 +110,7 @@ O Dieve! Tu esi man geresnis draugas už mane patį. Pasišvenčiu Tau, O Viešp
 (Bahaiprayers.net ID: 8190)
 
 
-
+«[Lietuvių](../lt/#bpn8190)» 
 
 
 
@@ -122,7 +122,7 @@ O Dieve, mano Dieve! Saugok Savo patikimus tarnus nuo savanaudiškumo ir aistros
 (Bahaiprayers.net ID: 8191)
 
 
-
+«[Lietuvių](../lt/#bpn8191)» 
 
 
 
@@ -138,7 +138,7 @@ Tavo vardas gydo mane, o mano Dieve, Tavo prisiminimas yra mano vaistai. Tavo ar
 (Bahaiprayers.net ID: 8195)
 
 
-
+«[Lietuvių](../lt/#bpn8195)» 
 
 
 
@@ -153,7 +153,7 @@ Tu iš tiesų esi labiausiai išaukštintas virš visko, išskyrus Tave. Tu išt
 (Bahaiprayers.net ID: 8196)
 
 
-
+«[Lietuvių](../lt/#bpn8196)» 
 
 
 
@@ -169,7 +169,7 @@ Kas kitas, jei ne Dievas, pašalina sunkumus? Sakyk: tebūnie pagarbintas Dievas
 (Bahaiprayers.net ID: 8192)
 
 
-
+«[Lietuvių](../lt/#bpn8192)» 
 
 
 
@@ -181,7 +181,7 @@ Aš maldauju Tave vardan Tavo galios, o mano Dieve! Tegu blogis nepakenkia man i
 (Bahaiprayers.net ID: 8193)
 
 
-
+«[Lietuvių](../lt/#bpn8193)» 
 
 
 
@@ -195,7 +195,7 @@ Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis T
 (Bahaiprayers.net ID: 8194)
 
 
-
+«[Lietuvių](../lt/#bpn8194)» 
 
 
 
@@ -211,7 +211,7 @@ Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis T
 (Bahaiprayers.net ID: 8206)
 
 
-
+«[Lietuvių](../lt/#bpn8206)» 
 
 
 
@@ -227,7 +227,7 @@ O mano Dieve! Aš prašau Tavęs, vardan Tavo šlovingiausiojo vardo paremk mane
 (Bahaiprayers.net ID: 8201)
 
 
-
+«[Lietuvių](../lt/#bpn8201)» 
 
 
 
@@ -247,7 +247,7 @@ O mano Dieve! Aš prašau Tavęs, vardan Tavo šlovingiausiojo vardo paremk mane
 (Bahaiprayers.net ID: 8207)
 
 
-
+«[Lietuvių](../lt/#bpn8207)» 
 
 
 
@@ -263,7 +263,7 @@ Tu matai, o Viešpatie, mūsų maldai sudėtas rankas, iškeltas į Tavo maloni�
 (Bahaiprayers.net ID: 8199)
 
 
-
+«[Lietuvių](../lt/#bpn8199)» 
 
 
 
@@ -281,7 +281,7 @@ O mano Viešpatie! Apvalyk juos nuo nuodėmių, išsklaidyk jų liūdesį, paver
 (Bahaiprayers.net ID: 8200)
 
 
-
+«[Lietuvių](../lt/#bpn8200)» 
 
 
 
@@ -304,7 +304,7 @@ O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitik
 (Bahaiprayers.net ID: 8187)
 
 
-
+«[Lietuvių](../lt/#bpn8187)» 
 
 
 
@@ -316,7 +316,7 @@ O Viešpatie! Mes esame silpni, sustiprink mus. O Dieve! Mes nieko nežinome, su
 (Bahaiprayers.net ID: 8188)
 
 
-
+«[Lietuvių](../lt/#bpn8188)» 
 
 
 
@@ -332,7 +332,7 @@ O Dieve! Auklėk šiuos vaikus. Šie vaikai yra Tavo vaisių sodo augalai, Tavo 
 (Bahaiprayers.net ID: 8197)
 
 
-
+«[Lietuvių](../lt/#bpn8197)» 
 
 
 
@@ -344,7 +344,7 @@ O Tu, gerasis Viešpatie! Šie mieli vaikai yra Tavo galios pirštų darbas ir n
 (Bahaiprayers.net ID: 8198)
 
 
-
+«[Lietuvių](../lt/#bpn8198)» 
 
 
 
@@ -367,7 +367,7 @@ O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norė
 (Bahaiprayers.net ID: 8202)
 
 
-
+«[Lietuvių](../lt/#bpn8202)» 
 
 
 

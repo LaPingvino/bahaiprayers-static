@@ -113,7 +113,7 @@ Oldur Bilimli hem Dana Patyşa!
 (Bahaiprayers.net ID: 12021)
 
 
-
+«[Türkmençe](../tk/#bpn12021)» 
 
 
 
@@ -131,7 +131,7 @@ Eý Perwerdigär! Eýýamyňa laýyk däl zatlary al hem gerekli zatlary bagş e
 (Bahaiprayers.net ID: 11918)
 
 
-
+«[Türkmençe](../tk/#bpn11918)» 
 
 
 
@@ -146,7 +146,7 @@ Päk we Mukaddes Sen, Eý meniň Taňrym!
 (Bahaiprayers.net ID: 11917)
 
 
-
+«[Türkmençe](../tk/#bpn11917)» 
 
 
 
@@ -169,7 +169,7 @@ Keremiňden balu-per, ganat döret.
 (Bahaiprayers.net ID: 11919)
 
 
-
+«[Türkmençe](../tk/#bpn11919)» 
 
 
 
@@ -182,7 +182,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11920)
 
 
-
+«[Türkmençe](../tk/#bpn11920)» 
 
 
 
@@ -196,7 +196,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11921)
 
 
-
+«[Türkmençe](../tk/#bpn11921)» 
 
 
 
@@ -209,7 +209,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11922)
 
 
-
+«[Türkmençe](../tk/#bpn11922)» 
 
 
 
@@ -274,7 +274,7 @@ Gadym we Ägirt uly bolan Allanyň Ady bilen.
 (Bahaiprayers.net ID: 12023)
 
 
-
+«[Türkmençe](../tk/#bpn12023)» 
 
 
 
@@ -292,7 +292,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11923)
 
 
-
+«[Türkmençe](../tk/#bpn11923)» 
 
 
 
@@ -314,7 +314,7 @@ Oldur Gadyrly, Belent mertebe we Uly.
 (Bahaiprayers.net ID: 12025)
 
 
-
+«[Türkmençe](../tk/#bpn12025)» 
 
 
 
@@ -331,7 +331,7 @@ Oldur Gadyrly, Belent mertebe we Uly.
 (Bahaiprayers.net ID: 11928)
 
 
-
+«[Türkmençe](../tk/#bpn11928)» 
 
 
 
@@ -351,7 +351,7 @@ Hu-äl-Äbha.
 (Bahaiprayers.net ID: 12020)
 
 
-
+«[Türkmençe](../tk/#bpn12020)» 
 
 
 
@@ -369,7 +369,7 @@ Ylahy, Ylahy! Bendeleriň köňüllerini bir-birine bagla hem olaryň öz islegl
 (Bahaiprayers.net ID: 11929)
 
 
-
+«[Türkmençe](../tk/#bpn11929)» 
 
 
 
@@ -381,7 +381,7 @@ Eý Perwerdigär! Günbatarly ýaranlaryň goluny Gündogarly dostlaryň goýnun
 (Bahaiprayers.net ID: 11933)
 
 
-
+«[Türkmençe](../tk/#bpn11933)» 
 
 
 
@@ -399,7 +399,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11932)
 
 
-
+«[Türkmençe](../tk/#bpn11932)» 
 
 
 
@@ -413,7 +413,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11931)
 
 
-
+«[Türkmençe](../tk/#bpn11931)» 
 
 
 
@@ -427,7 +427,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11930)
 
 
-
+«[Türkmençe](../tk/#bpn11930)» 
 
 
 
@@ -445,7 +445,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11934)
 
 
-
+«[Türkmençe](../tk/#bpn11934)» 
 
 
 
@@ -459,7 +459,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11935)
 
 
-
+«[Türkmençe](../tk/#bpn11935)» 
 
 
 
@@ -484,7 +484,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11938)
 
 
-
+«[Türkmençe](../tk/#bpn11938)» 
 
 
 
@@ -498,7 +498,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11940)
 
 
-
+«[Türkmençe](../tk/#bpn11940)» 
 
 
 
@@ -515,7 +515,7 @@ Hu’ Alla
 (Bahaiprayers.net ID: 11939)
 
 
-
+«[Türkmençe](../tk/#bpn11939)» 
 
 
 
@@ -528,7 +528,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11941)
 
 
-
+«[Türkmençe](../tk/#bpn11941)» 
 
 
 
@@ -546,7 +546,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11914)
 
 
-
+«[Türkmençe](../tk/#bpn11914)» 
 
 
 
@@ -565,7 +565,7 @@ Senden özge tagzym etmeli Alla ýokdur!
 (Bahaiprayers.net ID: 11943)
 
 
-
+«[Türkmençe](../tk/#bpn11943)» 
 
 
 
@@ -581,7 +581,7 @@ Oldur Atlaryň Soltany.
 (Bahaiprayers.net ID: 11944)
 
 
-
+«[Türkmençe](../tk/#bpn11944)» 
 
 
 
@@ -600,7 +600,7 @@ Oldur Başarjaň we Binyýaz.
 (Bahaiprayers.net ID: 11945)
 
 
-
+«[Türkmençe](../tk/#bpn11945)» 
 
 
 
@@ -616,7 +616,7 @@ Oldur Eşidiji we çagyranlary Ýalkaýjy!
 (Bahaiprayers.net ID: 11942)
 
 
-
+«[Türkmençe](../tk/#bpn11942)» 
 
 
 
@@ -632,7 +632,7 @@ Oldur Şany uly we Başarjaň bolan Allatagala. Eý bu mazlumuň ýanynda ýatla
 (Bahaiprayers.net ID: 11946)
 
 
-
+«[Türkmençe](../tk/#bpn11946)» 
 
 
 
@@ -646,7 +646,7 @@ Oldur Şany uly we Başarjaň bolan Allatagala. Eý bu mazlumuň ýanynda ýatla
 (Bahaiprayers.net ID: 11947)
 
 
-
+«[Türkmençe](../tk/#bpn11947)» 
 
 
 
@@ -665,7 +665,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11948)
 
 
-
+«[Türkmençe](../tk/#bpn11948)» 
 
 
 
@@ -681,7 +681,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11950)
 
 
-
+«[Türkmençe](../tk/#bpn11950)» 
 
 
 
@@ -695,7 +695,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11949)
 
 
-
+«[Türkmençe](../tk/#bpn11949)» 
 
 
 
@@ -714,7 +714,7 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 (Bahaiprayers.net ID: 11952)
 
 
-
+«[Türkmençe](../tk/#bpn11952)» 
 
 
 
@@ -731,7 +731,7 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 (Bahaiprayers.net ID: 11951)
 
 
-
+«[Türkmençe](../tk/#bpn11951)» 
 
 
 
@@ -747,7 +747,7 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 (Bahaiprayers.net ID: 11953)
 
 
-
+«[Türkmençe](../tk/#bpn11953)» 
 
 
 
@@ -765,7 +765,7 @@ Hu-äl-Äbha.
 (Bahaiprayers.net ID: 12026)
 
 
-
+«[Türkmençe](../tk/#bpn12026)» 
 
 
 
@@ -791,7 +791,7 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
 (Bahaiprayers.net ID: 12022)
 
 
-
+«[Türkmençe](../tk/#bpn12022)» 
 
 
 
@@ -810,7 +810,7 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
 (Bahaiprayers.net ID: 11954)
 
 
-
+«[Türkmençe](../tk/#bpn11954)» 
 
 
 
@@ -827,7 +827,7 @@ Hu’äl-Äbha
 (Bahaiprayers.net ID: 11956)
 
 
-
+«[Türkmençe](../tk/#bpn11956)» 
 
 
 
@@ -841,7 +841,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11955)
 
 
-
+«[Türkmençe](../tk/#bpn11955)» 
 
 
 
@@ -859,7 +859,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11957)
 
 
-
+«[Türkmençe](../tk/#bpn11957)» 
 
 
 
@@ -896,7 +896,7 @@ Jynaza namazyň zikirleri
 (Bahaiprayers.net ID: 12019)
 
 
-
+«[Türkmençe](../tk/#bpn12019)» 
 
 
 
@@ -914,7 +914,7 @@ Sensiň Alla we Senden başga Alla ýokdur.
 (Bahaiprayers.net ID: 11958)
 
 
-
+«[Türkmençe](../tk/#bpn11958)» 
 
 
 
@@ -929,7 +929,7 @@ Alladan başga, işlerde rowaçlyk döredýän barmy?
 (Bahaiprayers.net ID: 11960)
 
 
-
+«[Türkmençe](../tk/#bpn11960)» 
 
 
 
@@ -942,7 +942,7 @@ Barhudaýa! Dogrudanam gaýgylary ýeňledýän, jepalary azaldýan, gam-gusany 
 (Bahaiprayers.net ID: 11959)
 
 
-
+«[Türkmençe](../tk/#bpn11959)» 
 
 
 
@@ -957,7 +957,7 @@ Eý Perwerdigär! Eý Ýalkaýjy! Olaryň bary Ylahy meýlisiň myhmanlary we yk
 (Bahaiprayers.net ID: 11961)
 
 
-
+«[Türkmençe](../tk/#bpn11961)» 
 
 
 
@@ -971,7 +971,7 @@ Wel’Baha-u eleýk. (Ululyk we Jelal saňa bolsun)
 (Bahaiprayers.net ID: 11962)
 
 
-
+«[Türkmençe](../tk/#bpn11962)» 
 
 
 
@@ -989,7 +989,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11983)
 
 
-
+«[Türkmençe](../tk/#bpn11983)» 
 
 
 
@@ -1003,7 +1003,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11984)
 
 
-
+«[Türkmençe](../tk/#bpn11984)» 
 
 
 
@@ -1016,7 +1016,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11985)
 
 
-
+«[Türkmençe](../tk/#bpn11985)» 
 
 
 
@@ -1029,7 +1029,7 @@ Barhudaýa!
 (Bahaiprayers.net ID: 11982)
 
 
-
+«[Türkmençe](../tk/#bpn11982)» 
 
 
 
@@ -1043,7 +1043,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11981)
 
 
-
+«[Türkmençe](../tk/#bpn11981)» 
 
 
 
@@ -1071,7 +1071,7 @@ Oldur enaýaty we merhemeti köp bolan Alla.
 (Bahaiprayers.net ID: 11963)
 
 
-
+«[Türkmençe](../tk/#bpn11963)» 
 
 
 
@@ -1085,7 +1085,7 @@ Pyrkatyňda köňüller ýangyndan halas bolar ýaly, aýralyk hem hijranyňda �
 (Bahaiprayers.net ID: 11965)
 
 
-
+«[Türkmençe](../tk/#bpn11965)» 
 
 
 
@@ -1099,7 +1099,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11968)
 
 
-
+«[Türkmençe](../tk/#bpn11968)» 
 
 
 
@@ -1113,7 +1113,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11969)
 
 
-
+«[Türkmençe](../tk/#bpn11969)» 
 
 
 
@@ -1128,7 +1128,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11970)
 
 
-
+«[Türkmençe](../tk/#bpn11970)» 
 
 
 
@@ -1141,7 +1141,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11967)
 
 
-
+«[Türkmençe](../tk/#bpn11967)» 
 
 
 
@@ -1156,7 +1156,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11966)
 
 
-
+«[Türkmençe](../tk/#bpn11966)» 
 
 
 
@@ -1170,7 +1170,7 @@ Oldur Allatagala.
 (Bahaiprayers.net ID: 11964)
 
 
-
+«[Türkmençe](../tk/#bpn11964)» 
 
 
 
@@ -1187,7 +1187,7 @@ Eý Perwerdigär! Bu baglan ýanýoldaşlyk nikaňy berk et we bu bendäň bilen
 (Bahaiprayers.net ID: 12017)
 
 
-
+«[Türkmençe](../tk/#bpn12017)» 
 
 
 
@@ -1201,7 +1201,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12018)
 
 
-
+«[Türkmençe](../tk/#bpn12018)» 
 
 
 
@@ -1229,7 +1229,7 @@ Allanyň Jomart we Baý Ady bilen.
 (Bahaiprayers.net ID: 12016)
 
 
-
+«[Türkmençe](../tk/#bpn12016)» 
 
 
 
@@ -1246,7 +1246,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12012)
 
 
-
+«[Türkmençe](../tk/#bpn12012)» 
 
 
 
@@ -1268,7 +1268,7 @@ Oldur Ägirt Uly.
 (Bahaiprayers.net ID: 12011)
 
 
-
+«[Türkmençe](../tk/#bpn12011)» 
 
 
 
@@ -1302,7 +1302,7 @@ Oldur Ägirt Uly.
 (Bahaiprayers.net ID: 11915)
 
 
-
+«[Türkmençe](../tk/#bpn11915)» 
 
 
 
@@ -1319,7 +1319,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11980)
 
 
-
+«[Türkmençe](../tk/#bpn11980)» 
 
 
 
@@ -1332,7 +1332,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11979)
 
 
-
+«[Türkmençe](../tk/#bpn11979)» 
 
 
 
@@ -1346,7 +1346,7 @@ Hu’Alla
 (Bahaiprayers.net ID: 11978)
 
 
-
+«[Türkmençe](../tk/#bpn11978)» 
 
 
 
@@ -1369,7 +1369,7 @@ Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy ba
 (Bahaiprayers.net ID: 12013)
 
 
-
+«[Türkmençe](../tk/#bpn12013)» 
 
 
 
@@ -1385,7 +1385,7 @@ Kalbyma päklik ber, Eý meniň Taňrym! Ruhuma ynjalyk ber, Eý meniň Umydym! 
 (Bahaiprayers.net ID: 11986)
 
 
-
+«[Türkmençe](../tk/#bpn11986)» 
 
 
 
@@ -1399,7 +1399,7 @@ Sowuk çesmeleriň joşgunyndan dolan, Ylahy derýalaryň suwundan meni gandyr, 
 (Bahaiprayers.net ID: 11987)
 
 
-
+«[Türkmençe](../tk/#bpn11987)» 
 
 
 
@@ -1412,7 +1412,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11989)
 
 
-
+«[Türkmençe](../tk/#bpn11989)» 
 
 
 
@@ -1427,7 +1427,7 @@ Barhudaýa!
 (Bahaiprayers.net ID: 11991)
 
 
-
+«[Türkmençe](../tk/#bpn11991)» 
 
 
 
@@ -1440,7 +1440,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11988)
 
 
-
+«[Türkmençe](../tk/#bpn11988)» 
 
 
 
@@ -1453,7 +1453,7 @@ Oldur tabanlaryň Tabany.
 (Bahaiprayers.net ID: 11990)
 
 
-
+«[Türkmençe](../tk/#bpn11990)» 
 
 
 
@@ -1469,7 +1469,7 @@ Eý Allanyň eziz kenizi! Bu pany dünýede ylahy synaglary görüp umydyňy ýi
 (Bahaiprayers.net ID: 11992)
 
 
-
+«[Türkmençe](../tk/#bpn11992)» 
 
 
 
@@ -1484,7 +1484,7 @@ Wäl-Baha’u-eleýkom ýa Ählil-Baha, minel-ofokul-Äbha.
 (Bahaiprayers.net ID: 11994)
 
 
-
+«[Türkmençe](../tk/#bpn11994)» 
 
 
 
@@ -1500,7 +1500,7 @@ Hezreti Abdul-Baha
 (Bahaiprayers.net ID: 11993)
 
 
-
+«[Türkmençe](../tk/#bpn11993)» 
 
 
 
@@ -1519,7 +1519,7 @@ bolsun.
 (Bahaiprayers.net ID: 12015)
 
 
-
+«[Türkmençe](../tk/#bpn12015)» 
 
 
 
@@ -1544,7 +1544,7 @@ Onda Eý älemiň Allasy we Eý ezeliň Eýesi we Eý illeriň Soltany! Seniň B
 (Bahaiprayers.net ID: 12014)
 
 
-
+«[Türkmençe](../tk/#bpn12014)» 
 
 
 
@@ -1619,7 +1619,7 @@ Onda Eý älemiň Allasy we Eý ezeliň Eýesi we Eý illeriň Soltany! Seniň B
 (Bahaiprayers.net ID: 11916)
 
 
-
+«[Türkmençe](../tk/#bpn11916)» 
 
 
 
@@ -1637,7 +1637,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12001)
 
 
-
+«[Türkmençe](../tk/#bpn12001)» 
 
 
 
@@ -1651,7 +1651,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12002)
 
 
-
+«[Türkmençe](../tk/#bpn12002)» 
 
 
 
@@ -1664,7 +1664,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12000)
 
 
-
+«[Türkmençe](../tk/#bpn12000)» 
 
 
 
@@ -1677,7 +1677,7 @@ Eý dostlar! Hudaýa şükür, söýgi çölünde awara, Alla yşkynda sergezdan
 (Bahaiprayers.net ID: 11999)
 
 
-
+«[Türkmençe](../tk/#bpn11999)» 
 
 
 
@@ -1695,7 +1695,7 @@ Päk we Mukaddes Sen Eý meniň Taňrym.
 (Bahaiprayers.net ID: 12006)
 
 
-
+«[Türkmençe](../tk/#bpn12006)» 
 
 
 
@@ -1708,7 +1708,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12008)
 
 
-
+«[Türkmençe](../tk/#bpn12008)» 
 
 
 
@@ -1722,7 +1722,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12009)
 
 
-
+«[Türkmençe](../tk/#bpn12009)» 
 
 
 
@@ -1736,7 +1736,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12007)
 
 
-
+«[Türkmençe](../tk/#bpn12007)» 
 
 
 
@@ -1753,7 +1753,7 @@ Eý sözüne berk bolan!
 (Bahaiprayers.net ID: 11936)
 
 
-
+«[Türkmençe](../tk/#bpn11936)» 
 
 
 
@@ -1767,7 +1767,7 @@ Ylahym, Ylahym!
 (Bahaiprayers.net ID: 11937)
 
 
-
+«[Türkmençe](../tk/#bpn11937)» 
 
 
 
@@ -1784,7 +1784,7 @@ Hu’Alla!
 (Bahaiprayers.net ID: 11924)
 
 
-
+«[Türkmençe](../tk/#bpn11924)» 
 
 
 
@@ -1797,7 +1797,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11926)
 
 
-
+«[Türkmençe](../tk/#bpn11926)» 
 
 
 
@@ -1809,7 +1809,7 @@ Barhudaýa! Bir bigünä çaga men. Penaňda sakla, ýalka, Merhemet eýle, terb
 (Bahaiprayers.net ID: 11927)
 
 
-
+«[Türkmençe](../tk/#bpn11927)» 
 
 
 
@@ -1822,7 +1822,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11925)
 
 
-
+«[Türkmençe](../tk/#bpn11925)» 
 
 
 
@@ -1839,7 +1839,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11973)
 
 
-
+«[Türkmençe](../tk/#bpn11973)» 
 
 
 
@@ -1856,7 +1856,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11971)
 
 
-
+«[Türkmençe](../tk/#bpn11971)» 
 
 
 
@@ -1869,7 +1869,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11972)
 
 
-
+«[Türkmençe](../tk/#bpn11972)» 
 
 
 
@@ -1883,7 +1883,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11976)
 
 
-
+«[Türkmençe](../tk/#bpn11976)» 
 
 
 
@@ -1897,7 +1897,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11975)
 
 
-
+«[Türkmençe](../tk/#bpn11975)» 
 
 
 
@@ -1911,7 +1911,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11974)
 
 
-
+«[Türkmençe](../tk/#bpn11974)» 
 
 
 
@@ -1930,7 +1930,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11977)
 
 
-
+«[Türkmençe](../tk/#bpn11977)» 
 
 
 
@@ -1949,7 +1949,7 @@ Hezreti Abdul-Baha
 (Bahaiprayers.net ID: 12004)
 
 
-
+«[Türkmençe](../tk/#bpn12004)» 
 
 
 
@@ -1965,7 +1965,7 @@ Hezreti Abdul-Baha
 (Bahaiprayers.net ID: 12003)
 
 
-
+«[Türkmençe](../tk/#bpn12003)» 
 
 
 
@@ -1979,7 +1979,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 12005)
 
 
-
+«[Türkmençe](../tk/#bpn12005)» 
 
 
 
@@ -1997,7 +1997,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11996)
 
 
-
+«[Türkmençe](../tk/#bpn11996)» 
 
 
 
@@ -2009,7 +2009,7 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11995)
 
 
-
+«[Türkmençe](../tk/#bpn11995)» 
 
 
 
@@ -2023,7 +2023,7 @@ Ylahym, Ylahym! Seniň Baýlyk gapyňy maksat edinen bu garyby görýänsiň. Se
 (Bahaiprayers.net ID: 11997)
 
 
-
+«[Türkmençe](../tk/#bpn11997)» 
 
 
 
@@ -2036,7 +2036,7 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11998)
 
 
-
+«[Türkmençe](../tk/#bpn11998)» 
 
 
 
@@ -2138,7 +2138,7 @@ Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
 (Bahaiprayers.net ID: 12024)
 
 
-
+«[Türkmençe](../tk/#bpn12024)» 
 
 
 
@@ -2160,7 +2160,7 @@ Bismi-el-Agzam!
 (Bahaiprayers.net ID: 12010)
 
 
-
+«[Türkmençe](../tk/#bpn12010)» 
 
 
 

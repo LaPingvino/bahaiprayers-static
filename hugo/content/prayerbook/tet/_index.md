@@ -52,7 +52,7 @@ Maromak sufisiente mai ha’u. Tebes duni, Nia mak sufisiente liu buat hotu-hotu
 (Bahaiprayers.net ID: 12531)
 
 
-
+«[Tetum](../tet/#bpn12531)» 
 
 
 
@@ -64,7 +64,7 @@ Oh ha’u-nia Maromak! Ha’u husu Ita-Boot, ho Ita-Boot nia Naran gloriozu, atu
 (Bahaiprayers.net ID: 12533)
 
 
-
+«[Tetum](../tet/#bpn12533)» 
 
 
 
@@ -76,7 +76,7 @@ Oh ha’u-nia Maromak! Kria iha ha’u fuan ne'ebé moos no renova konsiénsia h
 (Bahaiprayers.net ID: 12536)
 
 
-
+«[Tetum](../tet/#bpn12536)» 
 
 
 
@@ -88,7 +88,7 @@ Dehan: Maromak sufisiente liu buat hotu-hotu, no laiha buat ida iha lalehan ka i
 (Bahaiprayers.net ID: 12530)
 
 
-
+«[Tetum](../tet/#bpn12530)» 
 
 
 
@@ -100,7 +100,7 @@ Iha buat ida ne’ebé bele hasai susar hotu, se karik la’ós Maromak? Dehan: 
 (Bahaiprayers.net ID: 12534)
 
 
-
+«[Tetum](../tet/#bpn12534)» 
 
 
 
@@ -112,7 +112,7 @@ Oh Ita-Boot Maromak Laran-murak. Haraik mai ha’u laran ida ne’ebé, hanesan 
 (Bahaiprayers.net ID: 12532)
 
 
-
+«[Tetum](../tet/#bpn12532)» 
 
 
 
@@ -124,7 +124,7 @@ Na’i! Ami folin-laek, haraik mai ami Ita-Boot nia favór; kiak, haraik mai ami
 (Bahaiprayers.net ID: 12535)
 
 
-
+«[Tetum](../tet/#bpn12535)» 
 
 
 
@@ -141,7 +141,7 @@ Ita-Boot, tebes, maka iha kbiit hotu-hotu, glorioza hotu-hotu no podér liu hotu
 (Bahaiprayers.net ID: 12537)
 
 
-
+«[Tetum](../tet/#bpn12537)» 
 
 
 
@@ -153,7 +153,7 @@ Oh Maromak! Gia ha’u no proteje ha’u. Halo ha’u hanesan lampu nabilan no f
 (Bahaiprayers.net ID: 12538)
 
 
-
+«[Tetum](../tet/#bpn12538)» 
 
 
 
@@ -165,7 +165,7 @@ Nia mak Maromak! Oh Maromak! Ha’u-nia Maromak! Haraik mai ha’u laran moos ha
 (Bahaiprayers.net ID: 12539)
 
 
-
+«[Tetum](../tet/#bpn12539)» 
 
 
 
@@ -183,7 +183,7 @@ Oh ha’u-nia Na’i! Hamoos sira husi sala hotu, hasai sira-nia susar, no muda 
 (Bahaiprayers.net ID: 12540)
 
 
-
+«[Tetum](../tet/#bpn12540)» 
 
 
 
@@ -200,7 +200,7 @@ Ita-Boot mak iha Kbiit no Podér.
 (Bahaiprayers.net ID: 12541)
 
 
-
+«[Tetum](../tet/#bpn12541)» 
 
 
 
@@ -214,7 +214,7 @@ Ita-Boot mak iha Kbiit no Podér. Ita-Boot mak Haraik-Na’in no Hadomi-Na’in 
 (Bahaiprayers.net ID: 12542)
 
 
-
+«[Tetum](../tet/#bpn12542)» 
 
 
 
@@ -230,7 +230,7 @@ Oha’u-nia Maromak, ha’u-nia Na’i no ha’u-nia Liurai! Ha’u haketak ona 
 (Bahaiprayers.net ID: 12543)
 
 
-
+«[Tetum](../tet/#bpn12543)» 
 
 
 
@@ -245,7 +245,7 @@ Ita-Boot nia autoridade mak absoluta hodi ukun.
 (Bahaiprayers.net ID: 12544)
 
 
-
+«[Tetum](../tet/#bpn12544)» 
 
 
 
@@ -257,7 +257,7 @@ Oh Maromak, ha’u-nia Maromak! Ita-Boot mak ha’u-nia Esperansa no ha’u-nia 
 (Bahaiprayers.net ID: 12545)
 
 
-
+«[Tetum](../tet/#bpn12545)» 
 
 
 
@@ -276,7 +276,7 @@ Oh Na'i! Halo ha’u hanesan lampu nabilan, fitun brilliante no ai-hun sagradu n
 (Bahaiprayers.net ID: 12546)
 
 
-
+«[Tetum](../tet/#bpn12546)» 
 
 
 
@@ -291,7 +291,7 @@ Tebes, Ita-Boot mak iha Kbiit, iha Podér, Matenek-na’in, no Haree-na’in.
 (Bahaiprayers.net ID: 12547)
 
 
-
+«[Tetum](../tet/#bpn12547)» 
 
 
 
@@ -304,7 +304,7 @@ Ita-Boot mak Omnipotente no Halo-na’in ba buat saida de’it Ita-Boot hakarak.
 (Bahaiprayers.net ID: 12548)
 
 
-
+«[Tetum](../tet/#bpn12548)» 
 
 
 
@@ -320,7 +320,7 @@ Oh Na’i, Ita-Boot haree ami nia liman sira ne'ebé suplikante hi’it sa’e b
 (Bahaiprayers.net ID: 12549)
 
 
-
+«[Tetum](../tet/#bpn12549)» 
 
 
 
@@ -336,7 +336,7 @@ Oh ha’u-nia Maromak, Ita-Boot nia naran ha’u-nia isin-di’ak no hanoin ba I
 (Bahaiprayers.net ID: 12550)
 
 
-
+«[Tetum](../tet/#bpn12550)» 
 
 
 
@@ -352,7 +352,7 @@ Oh Ha’u-nia atan, hananu Maromak nia versu sira ne’ebé ó simu, hananu nu�
 (Bahaiprayers.net ID: 12551)
 
 
-
+«[Tetum](../tet/#bpn12551)» 
 
 
 
@@ -364,7 +364,7 @@ Rahun-di’ak ba rai-fatin, no uma, no fatin, no sidade, no fuan, no foho, no su
 (Bahaiprayers.net ID: 12552)
 
 
-
+«[Tetum](../tet/#bpn12552)» 
 
 
 
@@ -380,7 +380,7 @@ Oh Maromak! Eduka labarik sira ne’e. Labarik sira ne’e mak hanesan ai-horis 
 (Bahaiprayers.net ID: 12553)
 
 
-
+«[Tetum](../tet/#bpn12553)» 
 
 
 
@@ -392,7 +392,7 @@ Oh Ita-Boot Na’i laran-di'ak! Labarik kmanek sira-ne'e mak hanesan artezanatu 
 (Bahaiprayers.net ID: 12554)
 
 
-
+«[Tetum](../tet/#bpn12554)» 
 
 
 
@@ -404,7 +404,7 @@ Oh Na’i! Ha’u hanesan labarik ida; fó kbiit mai ha’u atu dezenvolve liuho
 (Bahaiprayers.net ID: 12555)
 
 
-
+«[Tetum](../tet/#bpn12555)» 
 
 
 
@@ -416,7 +416,7 @@ Oh Ita-Boot Na’i laran-di’ak! Ha’u labarik ki’ik ida, onra ha’u liuhos
 (Bahaiprayers.net ID: 12556)
 
 
-
+«[Tetum](../tet/#bpn12556)» 
 
 
 
@@ -429,7 +429,7 @@ Oh Maromak, ami nia Na’i! Ami hananu no hahi’i Ita-Boot, fó sasin ba Ita-Bo
 (Bahaiprayers.net ID: 12557)
 
 
-
+«[Tetum](../tet/#bpn12557)» 
 
 
 
@@ -450,7 +450,7 @@ Laiha Maromak seluk tan só Ita-Boot de’it, Tulun-na’in iha susar laran, Ita
 (Bahaiprayers.net ID: 12529)
 
 
-
+«[Tetum](../tet/#bpn12529)» 
 
 
 
@@ -466,7 +466,7 @@ Oh Na’i, louvór ba Ita-Boot. Perdua ami nia sala sira, laran-sadi’a mai ami
 (Bahaiprayers.net ID: 12558)
 
 
-
+«[Tetum](../tet/#bpn12558)» 
 
 
 
@@ -478,7 +478,7 @@ Ha’u husu ho laran tomak ba Ita-Boot atu perdua ha’u, Oh ha’u-nia Na’i, 
 (Bahaiprayers.net ID: 12559)
 
 
-
+«[Tetum](../tet/#bpn12559)» 
 
 
 
@@ -494,7 +494,7 @@ Nia mak Laran-murak, Laran-luak! Oh Maromak, ha’u-nia Maromak! Ita-Boot haree 
 (Bahaiprayers.net ID: 12560)
 
 
-
+«[Tetum](../tet/#bpn12560)» 
 
 
 
@@ -511,7 +511,7 @@ Oh Maromak! Ami hanesan ai-horis, no Ita-Boot nia laran-sadi’a mak hanesan uda
 (Bahaiprayers.net ID: 12561)
 
 
-
+«[Tetum](../tet/#bpn12561)» 
 
 
 
@@ -527,7 +527,7 @@ Oh ha’u-nia Maromak! Ha’u husu ho fuan no laran-tomak ba Ita-Boot hodi Ita-B
 (Bahaiprayers.net ID: 12562)
 
 
-
+«[Tetum](../tet/#bpn12562)» 
 
 
 
@@ -540,7 +540,7 @@ Oh Maromak! Ita-Boot belun di’ak liu ba ha’u, liután fali ha’u belun ha h
 (Bahaiprayers.net ID: 12563)
 
 
-
+«[Tetum](../tet/#bpn12563)» 
 
 
 
@@ -552,7 +552,7 @@ O Na’i! Ha’u fraku, haforte ha’u ho Ita-Boot nia forsa no poténsia. Ha’
 (Bahaiprayers.net ID: 12564)
 
 
-
+«[Tetum](../tet/#bpn12564)» 
 
 
 
@@ -565,7 +565,7 @@ Nia tebes duni mak iha forsa atu ukun buat hotu-hotu.
 (Bahaiprayers.net ID: 12565)
 
 
-
+«[Tetum](../tet/#bpn12565)» 
 
 
 
@@ -588,7 +588,7 @@ Ita-Boot Omnipotente no Forsa-na’in, Ita-Boot Perdua-na’in no Ita-Boot Mesak
 (Bahaiprayers.net ID: 12566)
 
 
-
+«[Tetum](../tet/#bpn12566)» 
 
 
 
@@ -604,7 +604,7 @@ Oh ha’u-nia Maromak! Oh ha’u-nia Maromak! Halo Ita-Boot nia atan sira fuan n
 (Bahaiprayers.net ID: 12568)
 
 
-
+«[Tetum](../tet/#bpn12568)» 
 
 
 
@@ -617,7 +617,7 @@ Tebes duni, Ita-Boot Omnipotente, Independente, Haraik-na’in, Perdua-na’in, 
 (Bahaiprayers.net ID: 12567)
 
 
-
+«[Tetum](../tet/#bpn12567)» 
 
 
 

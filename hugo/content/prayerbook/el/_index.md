@@ -108,7 +108,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7054)
 
 
-
+«[ελληνικά](../el/#bpn7054)» 
 
 
 
@@ -124,7 +124,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7055)
 
 
-
+«[ελληνικά](../el/#bpn7055)» 
 
 
 
@@ -140,7 +140,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7056)
 
 
-
+«[ελληνικά](../el/#bpn7056)» 
 
 
 
@@ -160,7 +160,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7057)
 
 
-
+«[ελληνικά](../el/#bpn7057)» 
 
 
 
@@ -178,7 +178,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7058)
 
 
-
+«[ελληνικά](../el/#bpn7058)» 
 
 
 
@@ -198,7 +198,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7059)
 
 
-
+«[ελληνικά](../el/#bpn7059)» 
 
 
 
@@ -218,7 +218,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7060)
 
 
-
+«[ελληνικά](../el/#bpn7060)» 
 
 
 
@@ -238,7 +238,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7061)
 
 
-
+«[ελληνικά](../el/#bpn7061)» 
 
 
 
@@ -250,7 +250,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7062)
 
 
-
+«[ελληνικά](../el/#bpn7062)» 
 
 
 
@@ -268,7 +268,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7063)
 
 
-
+«[ελληνικά](../el/#bpn7063)» 
 
 
 
@@ -286,7 +286,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7064)
 
 
-
+«[ελληνικά](../el/#bpn7064)» 
 
 
 
@@ -304,7 +304,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7065)
 
 
-
+«[ελληνικά](../el/#bpn7065)» 
 
 
 
@@ -318,7 +318,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7066)
 
 
-
+«[ελληνικά](../el/#bpn7066)» 
 
 
 
@@ -336,7 +336,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7067)
 
 
-
+«[ελληνικά](../el/#bpn7067)» 
 
 
 
@@ -348,7 +348,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7068)
 
 
-
+«[ελληνικά](../el/#bpn7068)» 
 
 
 
@@ -364,7 +364,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7069)
 
 
-
+«[ελληνικά](../el/#bpn7069)» 
 
 
 
@@ -378,7 +378,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7070)
 
 
-
+«[ελληνικά](../el/#bpn7070)» 
 
 
 
@@ -394,7 +394,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7071)
 
 
-
+«[ελληνικά](../el/#bpn7071)» 
 
 
 
@@ -414,7 +414,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7074)
 
 
-
+«[ελληνικά](../el/#bpn7074)» 
 
 
 
@@ -434,7 +434,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7072)
 
 
-
+«[ελληνικά](../el/#bpn7072)» 
 
 
 
@@ -448,7 +448,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7073)
 
 
-
+«[ελληνικά](../el/#bpn7073)» 
 
 
 
@@ -470,7 +470,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7232)
 
 
-
+«[ελληνικά](../el/#bpn7232)» 
 
 
 
@@ -486,7 +486,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7233)
 
 
-
+«[ελληνικά](../el/#bpn7233)» 
 
 
 
@@ -506,7 +506,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7234)
 
 
-
+«[ελληνικά](../el/#bpn7234)» 
 
 
 
@@ -526,7 +526,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7235)
 
 
-
+«[ελληνικά](../el/#bpn7235)» 
 
 
 
@@ -542,7 +542,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7128)
 
 
-
+«[ελληνικά](../el/#bpn7128)» 
 
 
 
@@ -574,7 +574,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7129)
 
 
-
+«[ελληνικά](../el/#bpn7129)» 
 
 
 
@@ -590,7 +590,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7130)
 
 
-
+«[ελληνικά](../el/#bpn7130)» 
 
 
 
@@ -606,7 +606,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7131)
 
 
-
+«[ελληνικά](../el/#bpn7131)» 
 
 
 
@@ -620,7 +620,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7132)
 
 
-
+«[ελληνικά](../el/#bpn7132)» 
 
 
 
@@ -638,7 +638,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7083)
 
 
-
+«[ελληνικά](../el/#bpn7083)» 
 
 
 
@@ -656,7 +656,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7133)
 
 
-
+«[ελληνικά](../el/#bpn7133)» 
 
 
 
@@ -674,7 +674,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7134)
 
 
-
+«[ελληνικά](../el/#bpn7134)» 
 
 
 
@@ -692,7 +692,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7135)
 
 
-
+«[ελληνικά](../el/#bpn7135)» 
 
 
 
@@ -708,7 +708,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7136)
 
 
-
+«[ελληνικά](../el/#bpn7136)» 
 
 
 
@@ -724,7 +724,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7137)
 
 
-
+«[ελληνικά](../el/#bpn7137)» 
 
 
 
@@ -738,7 +738,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7138)
 
 
-
+«[ελληνικά](../el/#bpn7138)» 
 
 
 
@@ -750,7 +750,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7139)
 
 
-
+«[ελληνικά](../el/#bpn7139)» 
 
 
 
@@ -770,7 +770,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7140)
 
 
-
+«[ελληνικά](../el/#bpn7140)» 
 
 
 
@@ -792,7 +792,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7144)
 
 
-
+«[ελληνικά](../el/#bpn7144)» 
 
 
 
@@ -812,7 +812,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7049)
 
 
-
+«[ελληνικά](../el/#bpn7049)» 
 
 
 
@@ -824,7 +824,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7050)
 
 
-
+«[ελληνικά](../el/#bpn7050)» 
 
 
 
@@ -838,7 +838,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7051)
 
 
-
+«[ελληνικά](../el/#bpn7051)» 
 
 
 
@@ -864,7 +864,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7052)
 
 
-
+«[ελληνικά](../el/#bpn7052)» 
 
 
 
@@ -882,7 +882,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7053)
 
 
-
+«[ελληνικά](../el/#bpn7053)» 
 
 
 
@@ -906,7 +906,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7188)
 
 
-
+«[ελληνικά](../el/#bpn7188)» 
 
 
 
@@ -918,7 +918,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7189)
 
 
-
+«[ελληνικά](../el/#bpn7189)» 
 
 
 
@@ -932,7 +932,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7190)
 
 
-
+«[ελληνικά](../el/#bpn7190)» 
 
 
 
@@ -952,7 +952,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7191)
 
 
-
+«[ελληνικά](../el/#bpn7191)» 
 
 
 
@@ -968,7 +968,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7210)
 
 
-
+«[ελληνικά](../el/#bpn7210)» 
 
 
 
@@ -990,7 +990,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7075)
 
 
-
+«[ελληνικά](../el/#bpn7075)» 
 
 
 
@@ -1006,7 +1006,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7076)
 
 
-
+«[ελληνικά](../el/#bpn7076)» 
 
 
 
@@ -1024,7 +1024,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7077)
 
 
-
+«[ελληνικά](../el/#bpn7077)» 
 
 
 
@@ -1040,7 +1040,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7078)
 
 
-
+«[ελληνικά](../el/#bpn7078)» 
 
 
 
@@ -1058,7 +1058,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7079)
 
 
-
+«[ελληνικά](../el/#bpn7079)» 
 
 
 
@@ -1078,7 +1078,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7080)
 
 
-
+«[ελληνικά](../el/#bpn7080)» 
 
 
 
@@ -1094,7 +1094,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7081)
 
 
-
+«[ελληνικά](../el/#bpn7081)» 
 
 
 
@@ -1106,7 +1106,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7082)
 
 
-
+«[ελληνικά](../el/#bpn7082)» 
 
 
 
@@ -1126,7 +1126,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7108)
 
 
-
+«[ελληνικά](../el/#bpn7108)» 
 
 
 
@@ -1138,7 +1138,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7109)
 
 
-
+«[ελληνικά](../el/#bpn7109)» 
 
 
 
@@ -1156,7 +1156,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7110)
 
 
-
+«[ελληνικά](../el/#bpn7110)» 
 
 
 
@@ -1168,7 +1168,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7111)
 
 
-
+«[ελληνικά](../el/#bpn7111)» 
 
 
 
@@ -1200,7 +1200,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7112)
 
 
-
+«[ελληνικά](../el/#bpn7112)» 
 
 
 
@@ -1216,7 +1216,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7113)
 
 
-
+«[ελληνικά](../el/#bpn7113)» 
 
 
 
@@ -1236,7 +1236,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7114)
 
 
-
+«[ελληνικά](../el/#bpn7114)» 
 
 
 
@@ -1256,7 +1256,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7115)
 
 
-
+«[ελληνικά](../el/#bpn7115)» 
 
 
 
@@ -1276,7 +1276,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7116)
 
 
-
+«[ελληνικά](../el/#bpn7116)» 
 
 
 
@@ -1296,7 +1296,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7117)
 
 
-
+«[ελληνικά](../el/#bpn7117)» 
 
 
 
@@ -1310,7 +1310,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7118)
 
 
-
+«[ελληνικά](../el/#bpn7118)» 
 
 
 
@@ -1324,7 +1324,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7119)
 
 
-
+«[ελληνικά](../el/#bpn7119)» 
 
 
 
@@ -1344,7 +1344,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7120)
 
 
-
+«[ελληνικά](../el/#bpn7120)» 
 
 
 
@@ -1360,7 +1360,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7121)
 
 
-
+«[ελληνικά](../el/#bpn7121)» 
 
 
 
@@ -1376,7 +1376,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7122)
 
 
-
+«[ελληνικά](../el/#bpn7122)» 
 
 
 
@@ -1390,7 +1390,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7123)
 
 
-
+«[ελληνικά](../el/#bpn7123)» 
 
 
 
@@ -1406,7 +1406,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7124)
 
 
-
+«[ελληνικά](../el/#bpn7124)» 
 
 
 
@@ -1426,7 +1426,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7125)
 
 
-
+«[ελληνικά](../el/#bpn7125)» 
 
 
 
@@ -1456,7 +1456,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7126)
 
 
-
+«[ελληνικά](../el/#bpn7126)» 
 
 
 
@@ -1561,7 +1561,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7048)
 
 
-
+«[ελληνικά](../el/#bpn7048)» 
 
 
 
@@ -1605,7 +1605,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7046)
 
 
-
+«[ελληνικά](../el/#bpn7046)» 
 
 
 
@@ -1649,7 +1649,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7045)
 
 
-
+«[ελληνικά](../el/#bpn7045)» 
 
 
 
@@ -1677,7 +1677,7 @@ tags = ['lang=el', 'prayerbook']
 (Bahaiprayers.net ID: 7044)
 
 
-
+«[ελληνικά](../el/#bpn7044)» 
 
 
 
@@ -1699,7 +1699,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7223)
 
 
-
+«[ελληνικά](../el/#bpn7223)» 
 
 
 
@@ -1743,7 +1743,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7224)
 
 
-
+«[ελληνικά](../el/#bpn7224)» 
 
 
 
@@ -1775,7 +1775,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7225)
 
 
-
+«[ελληνικά](../el/#bpn7225)» 
 
 
 
@@ -1815,7 +1815,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7226)
 
 
-
+«[ελληνικά](../el/#bpn7226)» 
 
 
 
@@ -1827,7 +1827,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7227)
 
 
-
+«[ελληνικά](../el/#bpn7227)» 
 
 
 
@@ -1839,7 +1839,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7228)
 
 
-
+«[ελληνικά](../el/#bpn7228)» 
 
 
 
@@ -1851,7 +1851,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7229)
 
 
-
+«[ελληνικά](../el/#bpn7229)» 
 
 
 
@@ -1878,7 +1878,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7231)
 
 
-
+«[ελληνικά](../el/#bpn7231)» 
 
 
 
@@ -1896,7 +1896,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7141)
 
 
-
+«[ελληνικά](../el/#bpn7141)» 
 
 
 
@@ -1910,7 +1910,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7142)
 
 
-
+«[ελληνικά](../el/#bpn7142)» 
 
 
 
@@ -1922,7 +1922,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7143)
 
 
-
+«[ελληνικά](../el/#bpn7143)» 
 
 
 
@@ -1950,7 +1950,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7230)
 
 
-
+«[ελληνικά](../el/#bpn7230)» 
 
 
 
@@ -2086,7 +2086,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7047)
 
 
-
+«[ελληνικά](../el/#bpn7047)» 
 
 
 
@@ -2108,7 +2108,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7241)
 
 
-
+«[ελληνικά](../el/#bpn7241)» 
 
 
 
@@ -2152,7 +2152,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7240)
 
 
-
+«[ελληνικά](../el/#bpn7240)» 
 
 
 
@@ -2346,7 +2346,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7242)
 
 
-
+«[ελληνικά](../el/#bpn7242)» 
 
 
 
@@ -2376,7 +2376,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7243)
 
 
-
+«[ελληνικά](../el/#bpn7243)» 
 
 
 
@@ -2402,7 +2402,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7244)
 
 
-
+«[ελληνικά](../el/#bpn7244)» 
 
 
 
@@ -2422,7 +2422,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7245)
 
 
-
+«[ελληνικά](../el/#bpn7245)» 
 
 
 
@@ -2442,7 +2442,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7246)
 
 
-
+«[ελληνικά](../el/#bpn7246)» 
 
 
 
@@ -2460,7 +2460,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7247)
 
 
-
+«[ελληνικά](../el/#bpn7247)» 
 
 
 
@@ -2494,7 +2494,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7248)
 
 
-
+«[ελληνικά](../el/#bpn7248)» 
 
 
 
@@ -2518,7 +2518,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7249)
 
 
-
+«[ελληνικά](../el/#bpn7249)» 
 
 
 
@@ -2534,7 +2534,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7250)
 
 
-
+«[ελληνικά](../el/#bpn7250)» 
 
 
 
@@ -2552,7 +2552,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7251)
 
 
-
+«[ελληνικά](../el/#bpn7251)» 
 
 
 
@@ -2568,7 +2568,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7252)
 
 
-
+«[ελληνικά](../el/#bpn7252)» 
 
 
 
@@ -2582,7 +2582,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7253)
 
 
-
+«[ελληνικά](../el/#bpn7253)» 
 
 
 
@@ -2602,7 +2602,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7254)
 
 
-
+«[ελληνικά](../el/#bpn7254)» 
 
 
 
@@ -2622,7 +2622,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7158)
 
 
-
+«[ελληνικά](../el/#bpn7158)» 
 
 
 
@@ -2636,7 +2636,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7159)
 
 
-
+«[ελληνικά](../el/#bpn7159)» 
 
 
 
@@ -2650,7 +2650,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7160)
 
 
-
+«[ελληνικά](../el/#bpn7160)» 
 
 
 
@@ -2662,7 +2662,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7161)
 
 
-
+«[ελληνικά](../el/#bpn7161)» 
 
 
 
@@ -2676,7 +2676,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7162)
 
 
-
+«[ελληνικά](../el/#bpn7162)» 
 
 
 
@@ -2692,7 +2692,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7163)
 
 
-
+«[ελληνικά](../el/#bpn7163)» 
 
 
 
@@ -2706,7 +2706,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7164)
 
 
-
+«[ελληνικά](../el/#bpn7164)» 
 
 
 
@@ -2732,7 +2732,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7165)
 
 
-
+«[ελληνικά](../el/#bpn7165)» 
 
 
 
@@ -2750,7 +2750,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7166)
 
 
-
+«[ελληνικά](../el/#bpn7166)» 
 
 
 
@@ -2762,7 +2762,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7167)
 
 
-
+«[ελληνικά](../el/#bpn7167)» 
 
 
 
@@ -2780,7 +2780,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7168)
 
 
-
+«[ελληνικά](../el/#bpn7168)» 
 
 
 
@@ -2792,7 +2792,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7145)
 
 
-
+«[ελληνικά](../el/#bpn7145)» 
 
 
 
@@ -2806,7 +2806,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7146)
 
 
-
+«[ελληνικά](../el/#bpn7146)» 
 
 
 
@@ -2822,7 +2822,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7147)
 
 
-
+«[ελληνικά](../el/#bpn7147)» 
 
 
 
@@ -2834,7 +2834,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7148)
 
 
-
+«[ελληνικά](../el/#bpn7148)» 
 
 
 
@@ -2846,7 +2846,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7149)
 
 
-
+«[ελληνικά](../el/#bpn7149)» 
 
 
 
@@ -2860,7 +2860,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7150)
 
 
-
+«[ελληνικά](../el/#bpn7150)» 
 
 
 
@@ -2874,7 +2874,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7151)
 
 
-
+«[ελληνικά](../el/#bpn7151)» 
 
 
 
@@ -2886,7 +2886,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7152)
 
 
-
+«[ελληνικά](../el/#bpn7152)» 
 
 
 
@@ -2900,7 +2900,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7153)
 
 
-
+«[ελληνικά](../el/#bpn7153)» 
 
 
 
@@ -2914,7 +2914,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7154)
 
 
-
+«[ελληνικά](../el/#bpn7154)» 
 
 
 
@@ -2926,7 +2926,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7155)
 
 
-
+«[ελληνικά](../el/#bpn7155)» 
 
 
 
@@ -2942,7 +2942,7 @@ Bahaul lah
 (Bahaiprayers.net ID: 7156)
 
 
-
+«[ελληνικά](../el/#bpn7156)» 
 
 
 
@@ -2956,7 +2956,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7157)
 
 
-
+«[ελληνικά](../el/#bpn7157)» 
 
 
 
@@ -2972,7 +2972,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7169)
 
 
-
+«[ελληνικά](../el/#bpn7169)» 
 
 
 
@@ -2990,7 +2990,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7170)
 
 
-
+«[ελληνικά](../el/#bpn7170)» 
 
 
 
@@ -3002,7 +3002,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7171)
 
 
-
+«[ελληνικά](../el/#bpn7171)» 
 
 
 
@@ -3016,7 +3016,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7172)
 
 
-
+«[ελληνικά](../el/#bpn7172)» 
 
 
 
@@ -3034,7 +3034,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7173)
 
 
-
+«[ελληνικά](../el/#bpn7173)» 
 
 
 
@@ -3050,7 +3050,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7174)
 
 
-
+«[ελληνικά](../el/#bpn7174)» 
 
 
 
@@ -3068,7 +3068,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7175)
 
 
-
+«[ελληνικά](../el/#bpn7175)» 
 
 
 
@@ -3088,7 +3088,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7176)
 
 
-
+«[ελληνικά](../el/#bpn7176)» 
 
 
 
@@ -3112,7 +3112,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7236)
 
 
-
+«[ελληνικά](../el/#bpn7236)» 
 
 
 
@@ -3128,7 +3128,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7237)
 
 
-
+«[ελληνικά](../el/#bpn7237)» 
 
 
 
@@ -3140,7 +3140,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7238)
 
 
-
+«[ελληνικά](../el/#bpn7238)» 
 
 
 
@@ -3154,7 +3154,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7239)
 
 
-
+«[ελληνικά](../el/#bpn7239)» 
 
 
 
@@ -3180,7 +3180,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7177)
 
 
-
+«[ελληνικά](../el/#bpn7177)» 
 
 
 
@@ -3194,7 +3194,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7178)
 
 
-
+«[ελληνικά](../el/#bpn7178)» 
 
 
 
@@ -3210,7 +3210,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7179)
 
 
-
+«[ελληνικά](../el/#bpn7179)» 
 
 
 
@@ -3222,7 +3222,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7180)
 
 
-
+«[ελληνικά](../el/#bpn7180)» 
 
 
 
@@ -3238,7 +3238,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7181)
 
 
-
+«[ελληνικά](../el/#bpn7181)» 
 
 
 
@@ -3256,7 +3256,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7182)
 
 
-
+«[ελληνικά](../el/#bpn7182)» 
 
 
 
@@ -3272,7 +3272,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7183)
 
 
-
+«[ελληνικά](../el/#bpn7183)» 
 
 
 
@@ -3292,7 +3292,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7184)
 
 
-
+«[ελληνικά](../el/#bpn7184)» 
 
 
 
@@ -3304,7 +3304,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7185)
 
 
-
+«[ελληνικά](../el/#bpn7185)» 
 
 
 
@@ -3320,7 +3320,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7186)
 
 
-
+«[ελληνικά](../el/#bpn7186)» 
 
 
 
@@ -3348,7 +3348,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7187)
 
 
-
+«[ελληνικά](../el/#bpn7187)» 
 
 
 
@@ -3366,7 +3366,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7192)
 
 
-
+«[ελληνικά](../el/#bpn7192)» 
 
 
 
@@ -3382,7 +3382,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7193)
 
 
-
+«[ελληνικά](../el/#bpn7193)» 
 
 
 
@@ -3396,7 +3396,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7197)
 
 
-
+«[ελληνικά](../el/#bpn7197)» 
 
 
 
@@ -3408,7 +3408,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7198)
 
 
-
+«[ελληνικά](../el/#bpn7198)» 
 
 
 
@@ -3420,7 +3420,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7194)
 
 
-
+«[ελληνικά](../el/#bpn7194)» 
 
 
 
@@ -3438,7 +3438,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7195)
 
 
-
+«[ελληνικά](../el/#bpn7195)» 
 
 
 
@@ -3462,7 +3462,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7196)
 
 
-
+«[ελληνικά](../el/#bpn7196)» 
 
 
 
@@ -3484,7 +3484,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7199)
 
 
-
+«[ελληνικά](../el/#bpn7199)» 
 
 
 
@@ -3502,7 +3502,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7200)
 
 
-
+«[ελληνικά](../el/#bpn7200)» 
 
 
 
@@ -3518,7 +3518,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7201)
 
 
-
+«[ελληνικά](../el/#bpn7201)» 
 
 
 
@@ -3536,7 +3536,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7202)
 
 
-
+«[ελληνικά](../el/#bpn7202)» 
 
 
 
@@ -3550,7 +3550,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7203)
 
 
-
+«[ελληνικά](../el/#bpn7203)» 
 
 
 
@@ -3574,7 +3574,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7204)
 
 
-
+«[ελληνικά](../el/#bpn7204)» 
 
 
 
@@ -3592,7 +3592,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7205)
 
 
-
+«[ελληνικά](../el/#bpn7205)» 
 
 
 
@@ -3606,7 +3606,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7206)
 
 
-
+«[ελληνικά](../el/#bpn7206)» 
 
 
 
@@ -3628,7 +3628,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7207)
 
 
-
+«[ελληνικά](../el/#bpn7207)» 
 
 
 
@@ -3642,7 +3642,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7208)
 
 
-
+«[ελληνικά](../el/#bpn7208)» 
 
 
 
@@ -3658,7 +3658,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7209)
 
 
-
+«[ελληνικά](../el/#bpn7209)» 
 
 
 
@@ -3676,7 +3676,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7211)
 
 
-
+«[ελληνικά](../el/#bpn7211)» 
 
 
 
@@ -3688,7 +3688,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7212)
 
 
-
+«[ελληνικά](../el/#bpn7212)» 
 
 
 
@@ -3708,7 +3708,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7213)
 
 
-
+«[ελληνικά](../el/#bpn7213)» 
 
 
 
@@ -3724,7 +3724,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7214)
 
 
-
+«[ελληνικά](../el/#bpn7214)» 
 
 
 
@@ -3742,7 +3742,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7215)
 
 
-
+«[ελληνικά](../el/#bpn7215)» 
 
 
 
@@ -3756,7 +3756,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7216)
 
 
-
+«[ελληνικά](../el/#bpn7216)» 
 
 
 
@@ -3768,7 +3768,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7217)
 
 
-
+«[ελληνικά](../el/#bpn7217)» 
 
 
 
@@ -3782,7 +3782,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7218)
 
 
-
+«[ελληνικά](../el/#bpn7218)» 
 
 
 
@@ -3798,7 +3798,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7219)
 
 
-
+«[ελληνικά](../el/#bpn7219)» 
 
 
 
@@ -3810,7 +3810,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7220)
 
 
-
+«[ελληνικά](../el/#bpn7220)» 
 
 
 
@@ -3830,7 +3830,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7221)
 
 
-
+«[ελληνικά](../el/#bpn7221)» 
 
 
 
@@ -3858,7 +3858,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7222)
 
 
-
+«[ελληνικά](../el/#bpn7222)» 
 
 
 
@@ -3894,7 +3894,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7127)
 
 
-
+«[ελληνικά](../el/#bpn7127)» 
 
 
 
@@ -3914,7 +3914,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7084)
 
 
-
+«[ελληνικά](../el/#bpn7084)» 
 
 
 
@@ -3932,7 +3932,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7085)
 
 
-
+«[ελληνικά](../el/#bpn7085)» 
 
 
 
@@ -3950,7 +3950,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7086)
 
 
-
+«[ελληνικά](../el/#bpn7086)» 
 
 
 
@@ -3968,7 +3968,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7087)
 
 
-
+«[ελληνικά](../el/#bpn7087)» 
 
 
 
@@ -3984,7 +3984,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7088)
 
 
-
+«[ελληνικά](../el/#bpn7088)» 
 
 
 
@@ -3998,7 +3998,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7089)
 
 
-
+«[ελληνικά](../el/#bpn7089)» 
 
 
 
@@ -4010,7 +4010,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7090)
 
 
-
+«[ελληνικά](../el/#bpn7090)» 
 
 
 
@@ -4030,7 +4030,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7091)
 
 
-
+«[ελληνικά](../el/#bpn7091)» 
 
 
 
@@ -4046,7 +4046,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7092)
 
 
-
+«[ελληνικά](../el/#bpn7092)» 
 
 
 
@@ -4062,7 +4062,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7093)
 
 
-
+«[ελληνικά](../el/#bpn7093)» 
 
 
 
@@ -4080,7 +4080,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7094)
 
 
-
+«[ελληνικά](../el/#bpn7094)» 
 
 
 
@@ -4096,7 +4096,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7095)
 
 
-
+«[ελληνικά](../el/#bpn7095)» 
 
 
 
@@ -4114,7 +4114,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7096)
 
 
-
+«[ελληνικά](../el/#bpn7096)» 
 
 
 
@@ -4128,7 +4128,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7097)
 
 
-
+«[ελληνικά](../el/#bpn7097)» 
 
 
 
@@ -4140,7 +4140,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7098)
 
 
-
+«[ελληνικά](../el/#bpn7098)» 
 
 
 
@@ -4156,7 +4156,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7099)
 
 
-
+«[ελληνικά](../el/#bpn7099)» 
 
 
 
@@ -4168,7 +4168,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7100)
 
 
-
+«[ελληνικά](../el/#bpn7100)» 
 
 
 
@@ -4180,7 +4180,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7101)
 
 
-
+«[ελληνικά](../el/#bpn7101)» 
 
 
 
@@ -4198,7 +4198,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7102)
 
 
-
+«[ελληνικά](../el/#bpn7102)» 
 
 
 
@@ -4216,7 +4216,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7103)
 
 
-
+«[ελληνικά](../el/#bpn7103)» 
 
 
 
@@ -4232,7 +4232,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7104)
 
 
-
+«[ελληνικά](../el/#bpn7104)» 
 
 
 
@@ -4246,7 +4246,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7105)
 
 
-
+«[ελληνικά](../el/#bpn7105)» 
 
 
 
@@ -4262,7 +4262,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7107)
 
 
-
+«[ελληνικά](../el/#bpn7107)» 
 
 
 
@@ -4284,7 +4284,7 @@ A µπντολ-Μπαχά
 (Bahaiprayers.net ID: 7106)
 
 
-
+«[ελληνικά](../el/#bpn7106)» 
 
 
 

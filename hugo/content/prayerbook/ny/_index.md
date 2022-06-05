@@ -92,7 +92,7 @@ O Ambuye wanga! Pangani kukongola Kwanu kukhale chakudya changa, ndikupezeka Kwa
 (Bahaiprayers.net ID: 13449)
 
 
-
+«[Chichewa](../ny/#bpn13449)» 
 
 
 
@@ -104,7 +104,7 @@ O Inu a Chifundo Ambuye! Ndine mwana wamng’ono, ndikwezeni ine pondilora ine k
 (Bahaiprayers.net ID: 13450)
 
 
-
+«[Chichewa](../ny/#bpn13450)» 
 
 
 
@@ -116,7 +116,7 @@ O Mulungu wanga, Okondedwa wanga, khumbo la mtima wanga.
 (Bahaiprayers.net ID: 13446)
 
 
-
+«[Chichewa](../ny/#bpn13446)» 
 
 
 
@@ -128,7 +128,7 @@ O Mulungu! Lelani kakhanda aka pa chifungatiro chachikondi Chanu, ndipo mukapats
 (Bahaiprayers.net ID: 13447)
 
 
-
+«[Chichewa](../ny/#bpn13447)» 
 
 
 
@@ -140,7 +140,7 @@ O Mulungu! Phunzitsani ana awa. Ana awa ali zomera za m’munda Wanu wazipatso, 
 (Bahaiprayers.net ID: 13448)
 
 
-
+«[Chichewa](../ny/#bpn13448)» 
 
 
 
@@ -152,7 +152,7 @@ O Ambuye anga! O Ambuye anga! Ine ndine mwana wa zaka zochepa. Ndidyetseni ine k
 (Bahaiprayers.net ID: 13451)
 
 
-
+«[Chichewa](../ny/#bpn13451)» 
 
 
 
@@ -168,7 +168,7 @@ O Ambuye! Muwalitseni mnyamatayu ndipo mupatseni wolengedwa wosakayu chaulere Ch
 (Bahaiprayers.net ID: 13452)
 
 
-
+«[Chichewa](../ny/#bpn13452)» 
 
 
 
@@ -188,7 +188,7 @@ Ambuye! Tithandizeni ife kuti tikhale nyanja zoyendetsedwa ndi mafunde a chisomo
 (Bahaiprayers.net ID: 13453)
 
 
-
+«[Chichewa](../ny/#bpn13453)» 
 
 
 
@@ -205,7 +205,7 @@ Indetu, Inu Ndinu Wopatsa, Wachifundo. Inu Ndinu Mwini wa Mphatso zonse, ndipo, 
 (Bahaiprayers.net ID: 13454)
 
 
-
+«[Chichewa](../ny/#bpn13454)» 
 
 
 
@@ -223,7 +223,7 @@ Ndithudi, Inu Ndinu Wokhululukira, Wachisoni, ndipo Ndinu Waufumu ndi Wokondeka.
 (Bahaiprayers.net ID: 13455)
 
 
-
+«[Chichewa](../ny/#bpn13455)» 
 
 
 
@@ -240,7 +240,7 @@ O Inu Wachifundo, O Ambuye wanga! Konzani chitetezo Chanu chikhale chida changa,
 (Bahaiprayers.net ID: 13456)
 
 
-
+«[Chichewa](../ny/#bpn13456)» 
 
 
 
@@ -256,7 +256,7 @@ O Mulungu wanga! Ndikupemphani, kubzolera mdzina Lanu la Ulemelero, kundithandiz
 (Bahaiprayers.net ID: 13457)
 
 
-
+«[Chichewa](../ny/#bpn13457)» 
 
 
 
@@ -269,7 +269,7 @@ Tipatseni ife chakudya chathu chalero ndi zofunikira za moyo wathu, kuti tisadal
 (Bahaiprayers.net ID: 13458)
 
 
-
+«[Chichewa](../ny/#bpn13458)» 
 
 
 
@@ -286,7 +286,7 @@ O Inu Wachifundo ndi Wachisoni! Ndithudi, Inu ndinu Wachisomo kwa amene ali chil
 (Bahaiprayers.net ID: 13459)
 
 
-
+«[Chichewa](../ny/#bpn13459)» 
 
 
 
@@ -298,7 +298,7 @@ O Mulungu, nditsogozeni, nditetezeni, ndipangeni kukhala nyali yowala ndi nyenye
 (Bahaiprayers.net ID: 13460)
 
 
-
+«[Chichewa](../ny/#bpn13460)» 
 
 
 
@@ -314,7 +314,7 @@ Dzina Lanu ndilo kuchira kwanga, O Mulungu wanga, ndipo kukumbukira Inu ndi mank
 (Bahaiprayers.net ID: 13461)
 
 
-
+«[Chichewa](../ny/#bpn13461)» 
 
 
 
@@ -330,7 +330,7 @@ Inu, m'chowonadi, Muli Wokwezeka kopambana pamwamba pa zonse kupatula Inu Mwini.
 (Bahaiprayers.net ID: 13462)
 
 
-
+«[Chichewa](../ny/#bpn13462)» 
 
 
 
@@ -346,7 +346,7 @@ O Ambuye wanga, wokondedwa wanga, khumbo langa! Khalani bwenzi langa pamene ndil
 (Bahaiprayers.net ID: 13463)
 
 
-
+«[Chichewa](../ny/#bpn13463)» 
 
 
 
@@ -358,7 +358,7 @@ O Ambuye wanga Wolemekezeka! Ndithandizeni kuleka malingaliro osayenera; kugonje
 (Bahaiprayers.net ID: 13464)
 
 
-
+«[Chichewa](../ny/#bpn13464)» 
 
 
 
@@ -375,7 +375,7 @@ Pang'ono ndi pang'ono Inu musintha kufooka kukhala nyonga, kukaika kukhala kukhu
 (Bahaiprayers.net ID: 13465)
 
 
-
+«[Chichewa](../ny/#bpn13465)» 
 
 
 
@@ -391,7 +391,7 @@ O Ambuye Mulungu Wanga! Thandizani wokondedwa Anu kukhala wolimba m’chikhulupi
 (Bahaiprayers.net ID: 13466)
 
 
-
+«[Chichewa](../ny/#bpn13466)» 
 
 
 
@@ -408,7 +408,7 @@ O Ambuye! Ndine m’modzi, ndekha, ndi wopepuka. Kwa ine kulibe mtsamiro wina ul
 (Bahaiprayers.net ID: 13467)
 
 
-
+«[Chichewa](../ny/#bpn13467)» 
 
 
 
@@ -422,7 +422,7 @@ Indetu, Inu Ndinu Wamphamvu, Wamkulu ndi Mwinimphamvu, ndiponso Inu Ndinu Wanzer
 (Bahaiprayers.net ID: 13468)
 
 
-
+«[Chichewa](../ny/#bpn13468)» 
 
 
 
@@ -435,7 +435,7 @@ Inu ndinu Wamphamvu ndi Wochita chilichonse chimene mufuna.
 (Bahaiprayers.net ID: 13469)
 
 
-
+«[Chichewa](../ny/#bpn13469)» 
 
 
 
@@ -454,7 +454,7 @@ Inu, indetu, Muli ndi mphamvu yochita zomwe Mwasankha. Kulibe Mulungu wina koma 
 (Bahaiprayers.net ID: 13445)
 
 
-
+«[Chichewa](../ny/#bpn13445)» 
 
 
 
@@ -472,7 +472,7 @@ Inu Ndinu Mulungu Wamphamvu, Waulemelero ndi Chaulere. Kulibe Mulungu wina pamba
 (Bahaiprayers.net ID: 13470)
 
 
-
+«[Chichewa](../ny/#bpn13470)» 
 
 
 
@@ -490,7 +490,7 @@ Kulibe Mulungu wina koma Inu, Wamphamvu Zonse, Wogonjetsa Onse, Wosakakamizidwa.
 (Bahaiprayers.net ID: 13443)
 
 
-
+«[Chichewa](../ny/#bpn13443)» 
 
 
 
@@ -505,7 +505,7 @@ Indetu, Inu ndi Wopatsa, Woolowamanja, Wachifundo, Wokhululukira.
 (Bahaiprayers.net ID: 13444)
 
 
-
+«[Chichewa](../ny/#bpn13444)» 
 
 
 
@@ -521,7 +521,7 @@ Kuwala ndi ulemelero, malonje ndi mayamiko zikhale pa Manja a Ntchito Yake amene
 (Bahaiprayers.net ID: 13471)
 
 
-
+«[Chichewa](../ny/#bpn13471)» 
 
 
 
@@ -540,7 +540,7 @@ Inu ndinu Wanyonga. Inu Ndinu Wamphamvu. Inu Ndinu Wopatsa, ndipo Inu ndi Wachau
 (Bahaiprayers.net ID: 13472)
 
 
-
+«[Chichewa](../ny/#bpn13472)» 
 
 
 
@@ -557,7 +557,7 @@ O Ambuye! Tipatseni ife zaulere Zanu zosatha ndipo lolani kuti nyali ya chitsogo
 (Bahaiprayers.net ID: 13473)
 
 
-
+«[Chichewa](../ny/#bpn13473)» 
 
 
 
@@ -576,7 +576,7 @@ Dalitsaninso, O Ambuye Mulungu wanga, Iye amene Inu munamuika pamwamba pa maudin
 (Bahaiprayers.net ID: 13441)
 
 
-
+«[Chichewa](../ny/#bpn13441)» 
 
 
 
@@ -592,7 +592,7 @@ Ndauka mu chifungatiro Chanu, O Mulungu wanga, ndipo ndikoyenera kwa iye wofuna 
 (Bahaiprayers.net ID: 13442)
 
 
-
+«[Chichewa](../ny/#bpn13442)» 
 
 
 
@@ -610,7 +610,7 @@ Inu! Inu Mulambiridwa m’choonadi Chanu, ndipo Inu ndithudi ife tonse tikupembe
 (Bahaiprayers.net ID: 13474)
 
 
-
+«[Chichewa](../ny/#bpn13474)» 
 
 
 
@@ -633,7 +633,7 @@ Kulibe Mulungu wina koma Inu, M,modzi Yekha, Wamphamvu, Waponse-ponse, Wachauler
 (Bahaiprayers.net ID: 13475)
 
 
-
+«[Chichewa](../ny/#bpn13475)» 
 
 
 
@@ -665,7 +665,7 @@ O Mbuye wanga! Ayeretseni ku zoipa, achotsereni chisoni, ndipo sandulizani mdima
 (Bahaiprayers.net ID: 13476)
 
 
-
+«[Chichewa](../ny/#bpn13476)» 
 
 
 
@@ -681,7 +681,7 @@ O Mulungu, Mulungu wanga! Atchingireni atumiki Anu wokhulupirika ku zoyipa za ku
 (Bahaiprayers.net ID: 13477)
 
 
-
+«[Chichewa](../ny/#bpn13477)» 
 
 
 
@@ -709,7 +709,7 @@ Pali Mulungu! Ngati wina ali m’zowawa kapena m’chisoni nawerenga Pempheroli 
 (Bahaiprayers.net ID: 13478)
 
 
-
+«[Chichewa](../ny/#bpn13478)» 
 
 
 
@@ -751,7 +751,7 @@ O 'Alí-Akbar, Pereka matamando kwa Ambuye wako chifukwa cha Pempheroli kuti upu
 (Bahaiprayers.net ID: 13479)
 
 
-
+«[Chichewa](../ny/#bpn13479)» 
 
 
 
@@ -771,7 +771,7 @@ Walitsani maso athu kupyolera mu kuwala kwa Chitsogozo Chanu. Sangalatsani makut
 (Bahaiprayers.net ID: 13480)
 
 
-
+«[Chichewa](../ny/#bpn13480)» 
 
 
 
@@ -799,7 +799,7 @@ Inu Ndinu, zoonadi Wamphamvu Zonse, Wolimba Kwambiri. Dalitsaninso, O Ambuye Mul
 (Bahaiprayers.net ID: 13481)
 
 
-
+«[Chichewa](../ny/#bpn13481)» 
 
 
 
@@ -816,7 +816,7 @@ Kulibe Mulungu wina koma Inu, Wothandiza pa Tsoka, Wodzidalira Nokha.
 (Bahaiprayers.net ID: 13438)
 
 
-
+«[Chichewa](../ny/#bpn13438)» 
 
 
 
@@ -865,7 +865,7 @@ Ndichitira umboni, O Mulungu wanga, kuchimene osankhidwa Anu achichitira umboni,
 (Bahaiprayers.net ID: 13440)
 
 
-
+«[Chichewa](../ny/#bpn13440)» 
 
 
 
@@ -897,7 +897,7 @@ Mulungu wina pambali Panu.”)
 (Bahaiprayers.net ID: 13439)
 
 
-
+«[Chichewa](../ny/#bpn13439)» 
 
 
 
@@ -913,7 +913,7 @@ O Mulungu! Chotsani izo zonse zoyambitsa kusagwirizana, ndipo tikonzereni ife to
 (Bahaiprayers.net ID: 13482)
 
 
-
+«[Chichewa](../ny/#bpn13482)» 
 
 
 
@@ -931,7 +931,7 @@ Indedi, akwatirana pakumvera lamulo Lanu. Apangeni iwo kukhala zizindikiro za ku
 (Bahaiprayers.net ID: 13483)
 
 
-
+«[Chichewa](../ny/#bpn13483)» 
 
 
 
@@ -947,7 +947,7 @@ Ndadzuka m’mawa uno ndi chisomo Chanu, O Mulungu wanga, ndikunyamuka pakhomo p
 (Bahaiprayers.net ID: 13484)
 
 
-
+«[Chichewa](../ny/#bpn13484)» 
 
 
 
@@ -960,7 +960,7 @@ Inu, Choonadi, Wamphamvu Zonse, Wothandiza pa Tsoka, Wodzidalira Nokha.
 (Bahaiprayers.net ID: 13485)
 
 
-
+«[Chichewa](../ny/#bpn13485)» 
 
 
 
@@ -976,7 +976,7 @@ O Mulungu wanga! O Mulungu wanga! Lumikizani mitima ya antchito Anu, ndipo Muwau
 (Bahaiprayers.net ID: 13486)
 
 
-
+«[Chichewa](../ny/#bpn13486)» 
 
 
 
@@ -988,7 +988,7 @@ Mulungu lolani kuti kuwala kwa mgwirizano kukutire dziko lonse lapansi, ndi chiz
 (Bahaiprayers.net ID: 13487)
 
 
-
+«[Chichewa](../ny/#bpn13487)» 
 
 
 
@@ -1002,7 +1002,7 @@ Tiululireni, O Mulungu, Ukulu Wanu wosatha-kuti Inu mudalipo ndipo mudzakhalapob
 (Bahaiprayers.net ID: 13488)
 
 
-
+«[Chichewa](../ny/#bpn13488)» 
 
 
 
@@ -1019,7 +1019,7 @@ Choncho Limbikitsani mapazi athu, O Mulungu wanga M’Chiphunzitso Chanu, ndipo 
 (Bahaiprayers.net ID: 13491)
 
 
-
+«[Chichewa](../ny/#bpn13491)» 
 
 
 
@@ -1031,7 +1031,7 @@ Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu
 (Bahaiprayers.net ID: 13489)
 
 
-
+«[Chichewa](../ny/#bpn13489)» 
 
 
 
@@ -1043,7 +1043,7 @@ Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu
 (Bahaiprayers.net ID: 13490)
 
 
-
+«[Chichewa](../ny/#bpn13490)» 
 
 
 
@@ -1059,7 +1059,7 @@ Mu mdima wa ndiwe yani wa mabvuto, maso anga amatembenukira ndi oyembekezo ndi o
 (Bahaiprayers.net ID: 13492)
 
 
-
+«[Chichewa](../ny/#bpn13492)» 
 
 
 
@@ -1075,7 +1075,7 @@ Yodalitsika ndiyo mbuto, ndi nyumba, ndi malo, ndi mzinda, ndi mtima, ndi phiri,
 (Bahaiprayers.net ID: 13493)
 
 
-
+«[Chichewa](../ny/#bpn13493)» 
 
 
 
@@ -1095,7 +1095,7 @@ O Ambuye wanga! Agawireni gawo lawo lopambana, mphatso yosankhidwa ndi malipiro 
 (Bahaiprayers.net ID: 13494)
 
 
-
+«[Chichewa](../ny/#bpn13494)» 
 
 
 
@@ -1111,7 +1111,7 @@ Nenani: O Mulungu, Mulungu wanga! Bvekani mutu wanga ndi chisoti cha chilungamo,
 (Bahaiprayers.net ID: 13495)
 
 
-
+«[Chichewa](../ny/#bpn13495)» 
 
 
 
@@ -1124,7 +1124,7 @@ O Mulungu! Inu Ndinu bwenzi langa kwa ine kuposa m’mene ndiri ine kwa ine mwin
 (Bahaiprayers.net ID: 13496)
 
 
-
+«[Chichewa](../ny/#bpn13496)» 
 
 
 
@@ -1140,7 +1140,7 @@ Wosamalira!
 (Bahaiprayers.net ID: 13497)
 
 
-
+«[Chichewa](../ny/#bpn13497)» 
 
 
 

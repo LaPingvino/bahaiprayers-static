@@ -113,7 +113,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6659)
 
 
-
+«[한국어](../ko/#bpn6659)» 
 
 
 
@@ -135,7 +135,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6485)
 
 
-
+«[한국어](../ko/#bpn6485)» 
 
 
 
@@ -149,7 +149,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6486)
 
 
-
+«[한국어](../ko/#bpn6486)» 
 
 
 
@@ -165,7 +165,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6484)
 
 
-
+«[한국어](../ko/#bpn6484)» 
 
 
 
@@ -180,7 +180,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6487)
 
 
-
+«[한국어](../ko/#bpn6487)» 
 
 
 
@@ -194,7 +194,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6488)
 
 
-
+«[한국어](../ko/#bpn6488)» 
 
 
 
@@ -211,7 +211,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6489)
 
 
-
+«[한국어](../ko/#bpn6489)» 
 
 
 
@@ -227,7 +227,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6490)
 
 
-
+«[한국어](../ko/#bpn6490)» 
 
 
 
@@ -256,7 +256,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6492)
 
 
-
+«[한국어](../ko/#bpn6492)» 
 
 
 
@@ -270,7 +270,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6493)
 
 
-
+«[한국어](../ko/#bpn6493)» 
 
 
 
@@ -285,7 +285,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6494)
 
 
-
+«[한국어](../ko/#bpn6494)» 
 
 
 
@@ -307,7 +307,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6495)
 
 
-
+«[한국어](../ko/#bpn6495)» 
 
 
 
@@ -327,7 +327,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6491)
 
 
-
+«[한국어](../ko/#bpn6491)» 
 
 
 
@@ -350,7 +350,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6652)
 
 
-
+«[한국어](../ko/#bpn6652)» 
 
 
 
@@ -376,7 +376,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6653)
 
 
-
+«[한국어](../ko/#bpn6653)» 
 
 
 
@@ -399,7 +399,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6654)
 
 
-
+«[한국어](../ko/#bpn6654)» 
 
 
 
@@ -425,7 +425,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6655)
 
 
-
+«[한국어](../ko/#bpn6655)» 
 
 
 
@@ -439,7 +439,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6656)
 
 
-
+«[한국어](../ko/#bpn6656)» 
 
 
 
@@ -465,7 +465,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6481)
 
 
-
+«[한국어](../ko/#bpn6481)» 
 
 
 
@@ -486,7 +486,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6496)
 
 
-
+«[한국어](../ko/#bpn6496)» 
 
 
 
@@ -503,7 +503,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6497)
 
 
-
+«[한국어](../ko/#bpn6497)» 
 
 
 
@@ -518,7 +518,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6498)
 
 
-
+«[한국어](../ko/#bpn6498)» 
 
 
 
@@ -535,7 +535,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6499)
 
 
-
+«[한국어](../ko/#bpn6499)» 
 
 
 
@@ -565,7 +565,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6500)
 
 
-
+«[한국어](../ko/#bpn6500)» 
 
 
 
@@ -584,7 +584,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6505)
 
 
-
+«[한국어](../ko/#bpn6505)» 
 
 
 
@@ -598,7 +598,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6506)
 
 
-
+«[한국어](../ko/#bpn6506)» 
 
 
 
@@ -614,7 +614,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6507)
 
 
-
+«[한국어](../ko/#bpn6507)» 
 
 
 
@@ -630,7 +630,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6508)
 
 
-
+«[한국어](../ko/#bpn6508)» 
 
 
 
@@ -646,7 +646,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6509)
 
 
-
+«[한국어](../ko/#bpn6509)» 
 
 
 
@@ -661,7 +661,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6510)
 
 
-
+«[한국어](../ko/#bpn6510)» 
 
 
 
@@ -677,7 +677,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6511)
 
 
-
+«[한국어](../ko/#bpn6511)» 
 
 
 
@@ -693,7 +693,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6512)
 
 
-
+«[한국어](../ko/#bpn6512)» 
 
 
 
@@ -707,7 +707,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6513)
 
 
-
+«[한국어](../ko/#bpn6513)» 
 
 
 
@@ -726,7 +726,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6514)
 
 
-
+«[한국어](../ko/#bpn6514)» 
 
 
 
@@ -794,7 +794,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6657)
 
 
-
+«[한국어](../ko/#bpn6657)» 
 
 
 
@@ -815,7 +815,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6515)
 
 
-
+«[한국어](../ko/#bpn6515)» 
 
 
 
@@ -831,7 +831,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6516)
 
 
-
+«[한국어](../ko/#bpn6516)» 
 
 
 
@@ -847,7 +847,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6517)
 
 
-
+«[한국어](../ko/#bpn6517)» 
 
 
 
@@ -864,7 +864,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6518)
 
 
-
+«[한국어](../ko/#bpn6518)» 
 
 
 
@@ -884,7 +884,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6519)
 
 
-
+«[한국어](../ko/#bpn6519)» 
 
 
 
@@ -899,7 +899,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6520)
 
 
-
+«[한국어](../ko/#bpn6520)» 
 
 
 
@@ -918,7 +918,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6521)
 
 
-
+«[한국어](../ko/#bpn6521)» 
 
 
 
@@ -932,7 +932,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6522)
 
 
-
+«[한국어](../ko/#bpn6522)» 
 
 
 
@@ -946,7 +946,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6523)
 
 
-
+«[한국어](../ko/#bpn6523)» 
 
 
 
@@ -960,7 +960,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6524)
 
 
-
+«[한국어](../ko/#bpn6524)» 
 
 
 
@@ -976,7 +976,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6525)
 
 
-
+«[한국어](../ko/#bpn6525)» 
 
 
 
@@ -992,7 +992,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6526)
 
 
-
+«[한국어](../ko/#bpn6526)» 
 
 
 
@@ -1008,7 +1008,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6527)
 
 
-
+«[한국어](../ko/#bpn6527)» 
 
 
 
@@ -1024,7 +1024,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6528)
 
 
-
+«[한국어](../ko/#bpn6528)» 
 
 
 
@@ -1161,7 +1161,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6658)
 
 
-
+«[한국어](../ko/#bpn6658)» 
 
 
 
@@ -1182,7 +1182,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6529)
 
 
-
+«[한국어](../ko/#bpn6529)» 
 
 
 
@@ -1198,7 +1198,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6530)
 
 
-
+«[한국어](../ko/#bpn6530)» 
 
 
 
@@ -1214,7 +1214,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6531)
 
 
-
+«[한국어](../ko/#bpn6531)» 
 
 
 
@@ -1230,7 +1230,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6532)
 
 
-
+«[한국어](../ko/#bpn6532)» 
 
 
 
@@ -1245,7 +1245,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6533)
 
 
-
+«[한국어](../ko/#bpn6533)» 
 
 
 
@@ -1265,7 +1265,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6534)
 
 
-
+«[한국어](../ko/#bpn6534)» 
 
 
 
@@ -1283,7 +1283,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6535)
 
 
-
+«[한국어](../ko/#bpn6535)» 
 
 
 
@@ -1300,7 +1300,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6536)
 
 
-
+«[한국어](../ko/#bpn6536)» 
 
 
 
@@ -1316,7 +1316,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6537)
 
 
-
+«[한국어](../ko/#bpn6537)» 
 
 
 
@@ -1333,7 +1333,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6538)
 
 
-
+«[한국어](../ko/#bpn6538)» 
 
 
 
@@ -1350,7 +1350,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6539)
 
 
-
+«[한국어](../ko/#bpn6539)» 
 
 
 
@@ -1367,7 +1367,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6540)
 
 
-
+«[한국어](../ko/#bpn6540)» 
 
 
 
@@ -1384,7 +1384,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6541)
 
 
-
+«[한국어](../ko/#bpn6541)» 
 
 
 
@@ -1404,7 +1404,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6542)
 
 
-
+«[한국어](../ko/#bpn6542)» 
 
 
 
@@ -1421,7 +1421,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6543)
 
 
-
+«[한국어](../ko/#bpn6543)» 
 
 
 
@@ -1436,7 +1436,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6544)
 
 
-
+«[한국어](../ko/#bpn6544)» 
 
 
 
@@ -1450,7 +1450,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6545)
 
 
-
+«[한국어](../ko/#bpn6545)» 
 
 
 
@@ -1469,7 +1469,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6546)
 
 
-
+«[한국어](../ko/#bpn6546)» 
 
 
 
@@ -1485,7 +1485,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6547)
 
 
-
+«[한국어](../ko/#bpn6547)» 
 
 
 
@@ -1502,7 +1502,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6548)
 
 
-
+«[한국어](../ko/#bpn6548)» 
 
 
 
@@ -1516,7 +1516,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6549)
 
 
-
+«[한국어](../ko/#bpn6549)» 
 
 
 
@@ -1532,7 +1532,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6550)
 
 
-
+«[한국어](../ko/#bpn6550)» 
 
 
 
@@ -1548,7 +1548,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6551)
 
 
-
+«[한국어](../ko/#bpn6551)» 
 
 
 
@@ -1562,7 +1562,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6552)
 
 
-
+«[한국어](../ko/#bpn6552)» 
 
 
 
@@ -1576,7 +1576,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6553)
 
 
-
+«[한국어](../ko/#bpn6553)» 
 
 
 
@@ -1590,7 +1590,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6554)
 
 
-
+«[한국어](../ko/#bpn6554)» 
 
 
 
@@ -1605,7 +1605,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6555)
 
 
-
+«[한국어](../ko/#bpn6555)» 
 
 
 
@@ -1624,7 +1624,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6556)
 
 
-
+«[한국어](../ko/#bpn6556)» 
 
 
 
@@ -1640,7 +1640,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6557)
 
 
-
+«[한국어](../ko/#bpn6557)» 
 
 
 
@@ -1655,7 +1655,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6558)
 
 
-
+«[한국어](../ko/#bpn6558)» 
 
 
 
@@ -1673,7 +1673,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6559)
 
 
-
+«[한국어](../ko/#bpn6559)» 
 
 
 
@@ -1691,7 +1691,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6560)
 
 
-
+«[한국어](../ko/#bpn6560)» 
 
 
 
@@ -1711,7 +1711,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6561)
 
 
-
+«[한국어](../ko/#bpn6561)» 
 
 
 
@@ -1739,7 +1739,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6660)
 
 
-
+«[한국어](../ko/#bpn6660)» 
 
 
 
@@ -1760,7 +1760,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6662)
 
 
-
+«[한국어](../ko/#bpn6662)» 
 
 
 
@@ -1784,7 +1784,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6661)
 
 
-
+«[한국어](../ko/#bpn6661)» 
 
 
 
@@ -1805,7 +1805,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6562)
 
 
-
+«[한국어](../ko/#bpn6562)» 
 
 
 
@@ -1819,7 +1819,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6563)
 
 
-
+«[한국어](../ko/#bpn6563)» 
 
 
 
@@ -1834,7 +1834,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6564)
 
 
-
+«[한국어](../ko/#bpn6564)» 
 
 
 
@@ -1849,7 +1849,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6565)
 
 
-
+«[한국어](../ko/#bpn6565)» 
 
 
 
@@ -1863,7 +1863,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6566)
 
 
-
+«[한국어](../ko/#bpn6566)» 
 
 
 
@@ -1877,7 +1877,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6567)
 
 
-
+«[한국어](../ko/#bpn6567)» 
 
 
 
@@ -1891,7 +1891,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6568)
 
 
-
+«[한국어](../ko/#bpn6568)» 
 
 
 
@@ -1905,7 +1905,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6569)
 
 
-
+«[한국어](../ko/#bpn6569)» 
 
 
 
@@ -1920,7 +1920,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6570)
 
 
-
+«[한국어](../ko/#bpn6570)» 
 
 
 
@@ -1940,7 +1940,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6571)
 
 
-
+«[한국어](../ko/#bpn6571)» 
 
 
 
@@ -1954,7 +1954,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6572)
 
 
-
+«[한국어](../ko/#bpn6572)» 
 
 
 
@@ -1973,7 +1973,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6573)
 
 
-
+«[한국어](../ko/#bpn6573)» 
 
 
 
@@ -1989,7 +1989,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6574)
 
 
-
+«[한국어](../ko/#bpn6574)» 
 
 
 
@@ -2007,7 +2007,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6575)
 
 
-
+«[한국어](../ko/#bpn6575)» 
 
 
 
@@ -2023,7 +2023,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6576)
 
 
-
+«[한국어](../ko/#bpn6576)» 
 
 
 
@@ -2037,7 +2037,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6577)
 
 
-
+«[한국어](../ko/#bpn6577)» 
 
 
 
@@ -2052,7 +2052,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6578)
 
 
-
+«[한국어](../ko/#bpn6578)» 
 
 
 
@@ -2069,7 +2069,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6579)
 
 
-
+«[한국어](../ko/#bpn6579)» 
 
 
 
@@ -2083,7 +2083,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6580)
 
 
-
+«[한국어](../ko/#bpn6580)» 
 
 
 
@@ -2097,7 +2097,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6581)
 
 
-
+«[한국어](../ko/#bpn6581)» 
 
 
 
@@ -2116,7 +2116,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6582)
 
 
-
+«[한국어](../ko/#bpn6582)» 
 
 
 
@@ -2131,7 +2131,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6583)
 
 
-
+«[한국어](../ko/#bpn6583)» 
 
 
 
@@ -2145,7 +2145,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6584)
 
 
-
+«[한국어](../ko/#bpn6584)» 
 
 
 
@@ -2159,7 +2159,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6585)
 
 
-
+«[한국어](../ko/#bpn6585)» 
 
 
 
@@ -2173,7 +2173,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6586)
 
 
-
+«[한국어](../ko/#bpn6586)» 
 
 
 
@@ -2190,7 +2190,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6587)
 
 
-
+«[한국어](../ko/#bpn6587)» 
 
 
 
@@ -2206,7 +2206,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6588)
 
 
-
+«[한국어](../ko/#bpn6588)» 
 
 
 
@@ -2222,7 +2222,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6589)
 
 
-
+«[한국어](../ko/#bpn6589)» 
 
 
 
@@ -2237,7 +2237,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6590)
 
 
-
+«[한국어](../ko/#bpn6590)» 
 
 
 
@@ -2251,7 +2251,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6591)
 
 
-
+«[한국어](../ko/#bpn6591)» 
 
 
 
@@ -2269,7 +2269,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6592)
 
 
-
+«[한국어](../ko/#bpn6592)» 
 
 
 
@@ -2284,7 +2284,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6593)
 
 
-
+«[한국어](../ko/#bpn6593)» 
 
 
 
@@ -2299,7 +2299,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6594)
 
 
-
+«[한국어](../ko/#bpn6594)» 
 
 
 
@@ -2313,7 +2313,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6595)
 
 
-
+«[한국어](../ko/#bpn6595)» 
 
 
 
@@ -2331,7 +2331,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6596)
 
 
-
+«[한국어](../ko/#bpn6596)» 
 
 
 
@@ -2353,7 +2353,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6501)
 
 
-
+«[한국어](../ko/#bpn6501)» 
 
 
 
@@ -2371,7 +2371,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6502)
 
 
-
+«[한국어](../ko/#bpn6502)» 
 
 
 
@@ -2387,7 +2387,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6503)
 
 
-
+«[한국어](../ko/#bpn6503)» 
 
 
 
@@ -2403,7 +2403,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6504)
 
 
-
+«[한국어](../ko/#bpn6504)» 
 
 
 
@@ -2422,7 +2422,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6597)
 
 
-
+«[한국어](../ko/#bpn6597)» 
 
 
 
@@ -2439,7 +2439,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6598)
 
 
-
+«[한국어](../ko/#bpn6598)» 
 
 
 
@@ -2453,7 +2453,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6599)
 
 
-
+«[한국어](../ko/#bpn6599)» 
 
 
 
@@ -2473,7 +2473,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6600)
 
 
-
+«[한국어](../ko/#bpn6600)» 
 
 
 
@@ -2487,7 +2487,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6601)
 
 
-
+«[한국어](../ko/#bpn6601)» 
 
 
 
@@ -2507,7 +2507,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6602)
 
 
-
+«[한국어](../ko/#bpn6602)» 
 
 
 
@@ -2527,7 +2527,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6603)
 
 
-
+«[한국어](../ko/#bpn6603)» 
 
 
 
@@ -2543,7 +2543,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6604)
 
 
-
+«[한국어](../ko/#bpn6604)» 
 
 
 
@@ -2560,7 +2560,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6605)
 
 
-
+«[한국어](../ko/#bpn6605)» 
 
 
 
@@ -2636,7 +2636,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6483)
 
 
-
+«[한국어](../ko/#bpn6483)» 
 
 
 
@@ -2657,7 +2657,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6606)
 
 
-
+«[한국어](../ko/#bpn6606)» 
 
 
 
@@ -2673,7 +2673,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6607)
 
 
-
+«[한국어](../ko/#bpn6607)» 
 
 
 
@@ -2688,7 +2688,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6608)
 
 
-
+«[한국어](../ko/#bpn6608)» 
 
 
 
@@ -2702,7 +2702,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6609)
 
 
-
+«[한국어](../ko/#bpn6609)» 
 
 
 
@@ -2717,7 +2717,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6610)
 
 
-
+«[한국어](../ko/#bpn6610)» 
 
 
 
@@ -2732,7 +2732,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6611)
 
 
-
+«[한국어](../ko/#bpn6611)» 
 
 
 
@@ -2751,7 +2751,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6612)
 
 
-
+«[한국어](../ko/#bpn6612)» 
 
 
 
@@ -2766,7 +2766,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6620)
 
 
-
+«[한국어](../ko/#bpn6620)» 
 
 
 
@@ -2783,7 +2783,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6613)
 
 
-
+«[한국어](../ko/#bpn6613)» 
 
 
 
@@ -2800,7 +2800,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6614)
 
 
-
+«[한국어](../ko/#bpn6614)» 
 
 
 
@@ -2814,7 +2814,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6615)
 
 
-
+«[한국어](../ko/#bpn6615)» 
 
 
 
@@ -2831,7 +2831,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6616)
 
 
-
+«[한국어](../ko/#bpn6616)» 
 
 
 
@@ -2846,7 +2846,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6617)
 
 
-
+«[한국어](../ko/#bpn6617)» 
 
 
 
@@ -2862,7 +2862,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6618)
 
 
-
+«[한국어](../ko/#bpn6618)» 
 
 
 
@@ -2879,7 +2879,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6619)
 
 
-
+«[한국어](../ko/#bpn6619)» 
 
 
 
@@ -2930,7 +2930,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6482)
 
 
-
+«[한국어](../ko/#bpn6482)» 
 
 
 
@@ -2949,7 +2949,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6621)
 
 
-
+«[한국어](../ko/#bpn6621)» 
 
 
 
@@ -2964,7 +2964,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6622)
 
 
-
+«[한국어](../ko/#bpn6622)» 
 
 
 
@@ -2980,7 +2980,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6623)
 
 
-
+«[한국어](../ko/#bpn6623)» 
 
 
 
@@ -2995,7 +2995,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6624)
 
 
-
+«[한국어](../ko/#bpn6624)» 
 
 
 
@@ -3012,7 +3012,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6625)
 
 
-
+«[한국어](../ko/#bpn6625)» 
 
 
 
@@ -3031,7 +3031,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6626)
 
 
-
+«[한국어](../ko/#bpn6626)» 
 
 
 
@@ -3048,7 +3048,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6627)
 
 
-
+«[한국어](../ko/#bpn6627)» 
 
 
 
@@ -3062,7 +3062,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6628)
 
 
-
+«[한국어](../ko/#bpn6628)» 
 
 
 
@@ -3078,7 +3078,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6629)
 
 
-
+«[한국어](../ko/#bpn6629)» 
 
 
 
@@ -3092,7 +3092,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6630)
 
 
-
+«[한국어](../ko/#bpn6630)» 
 
 
 
@@ -3110,7 +3110,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6631)
 
 
-
+«[한국어](../ko/#bpn6631)» 
 
 
 
@@ -3126,7 +3126,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6632)
 
 
-
+«[한국어](../ko/#bpn6632)» 
 
 
 
@@ -3141,7 +3141,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6633)
 
 
-
+«[한국어](../ko/#bpn6633)» 
 
 
 
@@ -3159,7 +3159,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6634)
 
 
-
+«[한국어](../ko/#bpn6634)» 
 
 
 
@@ -3175,7 +3175,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6635)
 
 
-
+«[한국어](../ko/#bpn6635)» 
 
 
 
@@ -3190,7 +3190,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6636)
 
 
-
+«[한국어](../ko/#bpn6636)» 
 
 
 
@@ -3245,7 +3245,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6637)
 
 
-
+«[한국어](../ko/#bpn6637)» 
 
 
 
@@ -3264,7 +3264,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6638)
 
 
-
+«[한국어](../ko/#bpn6638)» 
 
 
 
@@ -3279,7 +3279,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6639)
 
 
-
+«[한국어](../ko/#bpn6639)» 
 
 
 
@@ -3293,7 +3293,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6640)
 
 
-
+«[한국어](../ko/#bpn6640)» 
 
 
 
@@ -3315,7 +3315,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6641)
 
 
-
+«[한국어](../ko/#bpn6641)» 
 
 
 
@@ -3330,7 +3330,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6642)
 
 
-
+«[한국어](../ko/#bpn6642)» 
 
 
 
@@ -3351,7 +3351,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6643)
 
 
-
+«[한국어](../ko/#bpn6643)» 
 
 
 
@@ -3367,7 +3367,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6644)
 
 
-
+«[한국어](../ko/#bpn6644)» 
 
 
 
@@ -3390,7 +3390,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6645)
 
 
-
+«[한국어](../ko/#bpn6645)» 
 
 
 
@@ -3405,7 +3405,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6646)
 
 
-
+«[한국어](../ko/#bpn6646)» 
 
 
 
@@ -3421,7 +3421,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6647)
 
 
-
+«[한국어](../ko/#bpn6647)» 
 
 
 
@@ -3437,7 +3437,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6648)
 
 
-
+«[한국어](../ko/#bpn6648)» 
 
 
 
@@ -3452,7 +3452,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6649)
 
 
-
+«[한국어](../ko/#bpn6649)» 
 
 
 
@@ -3466,7 +3466,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6650)
 
 
-
+«[한국어](../ko/#bpn6650)» 
 
 
 
@@ -3482,7 +3482,7 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6651)
 
 
-
+«[한국어](../ko/#bpn6651)» 
 
 
 

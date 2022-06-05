@@ -102,7 +102,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2470)
 
 
-
+«[Русский](../ru/#bpn2470)» 
 
 
 
@@ -123,7 +123,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2471)
 
 
-
+«[Русский](../ru/#bpn2471)» 
 
 
 
@@ -142,7 +142,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2472)
 
 
-
+«[Русский](../ru/#bpn2472)» 
 
 
 
@@ -158,7 +158,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2473)
 
 
-
+«[Русский](../ru/#bpn2473)» 
 
 
 
@@ -175,7 +175,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2474)
 
 
-
+«[Русский](../ru/#bpn2474)» 
 
 
 
@@ -196,7 +196,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2475)
 
 
-
+«[Русский](../ru/#bpn2475)» 
 
 
 
@@ -218,7 +218,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2476)
 
 
-
+«[Русский](../ru/#bpn2476)» 
 
 
 
@@ -234,7 +234,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2477)
 
 
-
+«[Русский](../ru/#bpn2477)» 
 
 
 
@@ -250,7 +250,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2478)
 
 
-
+«[Русский](../ru/#bpn2478)» 
 
 
 
@@ -276,7 +276,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2466)
 
 
-
+«[Русский](../ru/#bpn2466)» 
 
 
 
@@ -292,7 +292,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2479)
 
 
-
+«[Русский](../ru/#bpn2479)» 
 
 
 
@@ -308,7 +308,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2480)
 
 
-
+«[Русский](../ru/#bpn2480)» 
 
 
 
@@ -320,7 +320,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2481)
 
 
-
+«[Русский](../ru/#bpn2481)» 
 
 
 
@@ -334,7 +334,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2482)
 
 
-
+«[Русский](../ru/#bpn2482)» 
 
 
 
@@ -348,7 +348,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2483)
 
 
-
+«[Русский](../ru/#bpn2483)» 
 
 
 
@@ -362,7 +362,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2484)
 
 
-
+«[Русский](../ru/#bpn2484)» 
 
 
 
@@ -374,7 +374,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2485)
 
 
-
+«[Русский](../ru/#bpn2485)» 
 
 
 
@@ -392,7 +392,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2486)
 
 
-
+«[Русский](../ru/#bpn2486)» 
 
 
 
@@ -406,7 +406,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2487)
 
 
-
+«[Русский](../ru/#bpn2487)» 
 
 
 
@@ -418,7 +418,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2488)
 
 
-
+«[Русский](../ru/#bpn2488)» 
 
 
 
@@ -434,7 +434,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2489)
 
 
-
+«[Русский](../ru/#bpn2489)» 
 
 
 
@@ -448,7 +448,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2490)
 
 
-
+«[Русский](../ru/#bpn2490)» 
 
 
 
@@ -465,7 +465,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2491)
 
 
-
+«[Русский](../ru/#bpn2491)» 
 
 
 
@@ -483,7 +483,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2492)
 
 
-
+«[Русский](../ru/#bpn2492)» 
 
 
 
@@ -501,7 +501,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2493)
 
 
-
+«[Русский](../ru/#bpn2493)» 
 
 
 
@@ -513,7 +513,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2495)
 
 
-
+«[Русский](../ru/#bpn2495)» 
 
 
 
@@ -531,7 +531,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2496)
 
 
-
+«[Русский](../ru/#bpn2496)» 
 
 
 
@@ -547,7 +547,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2497)
 
 
-
+«[Русский](../ru/#bpn2497)» 
 
 
 
@@ -561,7 +561,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2494)
 
 
-
+«[Русский](../ru/#bpn2494)» 
 
 
 
@@ -579,7 +579,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2498)
 
 
-
+«[Русский](../ru/#bpn2498)» 
 
 
 
@@ -599,7 +599,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2499)
 
 
-
+«[Русский](../ru/#bpn2499)» 
 
 
 
@@ -617,7 +617,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2500)
 
 
-
+«[Русский](../ru/#bpn2500)» 
 
 
 
@@ -635,7 +635,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2501)
 
 
-
+«[Русский](../ru/#bpn2501)» 
 
 
 
@@ -655,7 +655,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2502)
 
 
-
+«[Русский](../ru/#bpn2502)» 
 
 
 
@@ -667,7 +667,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2503)
 
 
-
+«[Русский](../ru/#bpn2503)» 
 
 
 
@@ -685,7 +685,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2568)
 
 
-
+«[Русский](../ru/#bpn2568)» 
 
 
 
@@ -707,7 +707,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2567)
 
 
-
+«[Русский](../ru/#bpn2567)» 
 
 
 
@@ -723,7 +723,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2566)
 
 
-
+«[Русский](../ru/#bpn2566)» 
 
 
 
@@ -743,7 +743,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2504)
 
 
-
+«[Русский](../ru/#bpn2504)» 
 
 
 
@@ -757,7 +757,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2505)
 
 
-
+«[Русский](../ru/#bpn2505)» 
 
 
 
@@ -775,7 +775,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2506)
 
 
-
+«[Русский](../ru/#bpn2506)» 
 
 
 
@@ -789,7 +789,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2507)
 
 
-
+«[Русский](../ru/#bpn2507)» 
 
 
 
@@ -807,7 +807,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2508)
 
 
-
+«[Русский](../ru/#bpn2508)» 
 
 
 
@@ -819,7 +819,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2509)
 
 
-
+«[Русский](../ru/#bpn2509)» 
 
 
 
@@ -835,7 +835,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2510)
 
 
-
+«[Русский](../ru/#bpn2510)» 
 
 
 
@@ -851,7 +851,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2511)
 
 
-
+«[Русский](../ru/#bpn2511)» 
 
 
 
@@ -865,7 +865,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2513)
 
 
-
+«[Русский](../ru/#bpn2513)» 
 
 
 
@@ -887,7 +887,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2553)
 
 
-
+«[Русский](../ru/#bpn2553)» 
 
 
 
@@ -903,7 +903,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2554)
 
 
-
+«[Русский](../ru/#bpn2554)» 
 
 
 
@@ -917,7 +917,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2555)
 
 
-
+«[Русский](../ru/#bpn2555)» 
 
 
 
@@ -937,7 +937,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2556)
 
 
-
+«[Русский](../ru/#bpn2556)» 
 
 
 
@@ -953,7 +953,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2557)
 
 
-
+«[Русский](../ru/#bpn2557)» 
 
 
 
@@ -965,7 +965,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2558)
 
 
-
+«[Русский](../ru/#bpn2558)» 
 
 
 
@@ -981,7 +981,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2512)
 
 
-
+«[Русский](../ru/#bpn2512)» 
 
 
 
@@ -1085,7 +1085,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2514)
 
 
-
+«[Русский](../ru/#bpn2514)» 
 
 
 
@@ -1105,7 +1105,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2456)
 
 
-
+«[Русский](../ru/#bpn2456)» 
 
 
 
@@ -1130,7 +1130,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2463)
 
 
-
+«[Русский](../ru/#bpn2463)» 
 
 
 
@@ -1158,7 +1158,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2515)
 
 
-
+«[Русский](../ru/#bpn2515)» 
 
 
 
@@ -1172,7 +1172,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2516)
 
 
-
+«[Русский](../ru/#bpn2516)» 
 
 
 
@@ -1188,7 +1188,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2517)
 
 
-
+«[Русский](../ru/#bpn2517)» 
 
 
 
@@ -1202,7 +1202,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2518)
 
 
-
+«[Русский](../ru/#bpn2518)» 
 
 
 
@@ -1216,7 +1216,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2519)
 
 
-
+«[Русский](../ru/#bpn2519)» 
 
 
 
@@ -1228,7 +1228,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2520)
 
 
-
+«[Русский](../ru/#bpn2520)» 
 
 
 
@@ -1242,7 +1242,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2521)
 
 
-
+«[Русский](../ru/#bpn2521)» 
 
 
 
@@ -1258,7 +1258,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2522)
 
 
-
+«[Русский](../ru/#bpn2522)» 
 
 
 
@@ -1289,7 +1289,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2583)
 
 
-
+«[Русский](../ru/#bpn2583)» 
 
 
 
@@ -1305,7 +1305,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2584)
 
 
-
+«[Русский](../ru/#bpn2584)» 
 
 
 
@@ -1337,7 +1337,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2585)
 
 
-
+«[Русский](../ru/#bpn2585)» 
 
 
 
@@ -1353,7 +1353,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2586)
 
 
-
+«[Русский](../ru/#bpn2586)» 
 
 
 
@@ -1369,7 +1369,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2587)
 
 
-
+«[Русский](../ru/#bpn2587)» 
 
 
 
@@ -1384,7 +1384,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2588)
 
 
-
+«[Русский](../ru/#bpn2588)» 
 
 
 
@@ -1547,7 +1547,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2459)
 
 
-
+«[Русский](../ru/#bpn2459)» 
 
 
 
@@ -1567,7 +1567,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2523)
 
 
-
+«[Русский](../ru/#bpn2523)» 
 
 
 
@@ -1585,7 +1585,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2524)
 
 
-
+«[Русский](../ru/#bpn2524)» 
 
 
 
@@ -1603,7 +1603,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2525)
 
 
-
+«[Русский](../ru/#bpn2525)» 
 
 
 
@@ -1615,7 +1615,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2526)
 
 
-
+«[Русский](../ru/#bpn2526)» 
 
 
 
@@ -1633,7 +1633,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2527)
 
 
-
+«[Русский](../ru/#bpn2527)» 
 
 
 
@@ -1653,7 +1653,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2528)
 
 
-
+«[Русский](../ru/#bpn2528)» 
 
 
 
@@ -1665,7 +1665,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2529)
 
 
-
+«[Русский](../ru/#bpn2529)» 
 
 
 
@@ -1683,7 +1683,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2530)
 
 
-
+«[Русский](../ru/#bpn2530)» 
 
 
 
@@ -1699,7 +1699,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2531)
 
 
-
+«[Русский](../ru/#bpn2531)» 
 
 
 
@@ -1719,7 +1719,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2532)
 
 
-
+«[Русский](../ru/#bpn2532)» 
 
 
 
@@ -1733,7 +1733,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2533)
 
 
-
+«[Русский](../ru/#bpn2533)» 
 
 
 
@@ -1745,7 +1745,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2534)
 
 
-
+«[Русский](../ru/#bpn2534)» 
 
 
 
@@ -1758,7 +1758,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2536)
 
 
-
+«[Русский](../ru/#bpn2536)» 
 
 
 
@@ -1770,7 +1770,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2537)
 
 
-
+«[Русский](../ru/#bpn2537)» 
 
 
 
@@ -1782,7 +1782,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2538)
 
 
-
+«[Русский](../ru/#bpn2538)» 
 
 
 
@@ -1798,7 +1798,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2539)
 
 
-
+«[Русский](../ru/#bpn2539)» 
 
 
 
@@ -1810,7 +1810,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2535)
 
 
-
+«[Русский](../ru/#bpn2535)» 
 
 
 
@@ -1842,7 +1842,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2540)
 
 
-
+«[Русский](../ru/#bpn2540)» 
 
 
 
@@ -1856,7 +1856,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2541)
 
 
-
+«[Русский](../ru/#bpn2541)» 
 
 
 
@@ -1874,7 +1874,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2542)
 
 
-
+«[Русский](../ru/#bpn2542)» 
 
 
 
@@ -1888,7 +1888,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2543)
 
 
-
+«[Русский](../ru/#bpn2543)» 
 
 
 
@@ -1904,7 +1904,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2544)
 
 
-
+«[Русский](../ru/#bpn2544)» 
 
 
 
@@ -1916,7 +1916,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2545)
 
 
-
+«[Русский](../ru/#bpn2545)» 
 
 
 
@@ -1932,7 +1932,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2546)
 
 
-
+«[Русский](../ru/#bpn2546)» 
 
 
 
@@ -1946,7 +1946,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2547)
 
 
-
+«[Русский](../ru/#bpn2547)» 
 
 
 
@@ -1962,7 +1962,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2548)
 
 
-
+«[Русский](../ru/#bpn2548)» 
 
 
 
@@ -1974,7 +1974,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2549)
 
 
-
+«[Русский](../ru/#bpn2549)» 
 
 
 
@@ -1988,7 +1988,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2550)
 
 
-
+«[Русский](../ru/#bpn2550)» 
 
 
 
@@ -2004,7 +2004,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2551)
 
 
-
+«[Русский](../ru/#bpn2551)» 
 
 
 
@@ -2018,7 +2018,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2552)
 
 
-
+«[Русский](../ru/#bpn2552)» 
 
 
 
@@ -2066,7 +2066,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2462)
 
 
-
+«[Русский](../ru/#bpn2462)» 
 
 
 
@@ -2090,7 +2090,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2464)
 
 
-
+«[Русский](../ru/#bpn2464)» 
 
 
 
@@ -2110,7 +2110,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2465)
 
 
-
+«[Русский](../ru/#bpn2465)» 
 
 
 
@@ -2122,7 +2122,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2469)
 
 
-
+«[Русский](../ru/#bpn2469)» 
 
 
 
@@ -2191,7 +2191,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2458)
 
 
-
+«[Русский](../ru/#bpn2458)» 
 
 
 
@@ -2207,7 +2207,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2559)
 
 
-
+«[Русский](../ru/#bpn2559)» 
 
 
 
@@ -2219,7 +2219,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2560)
 
 
-
+«[Русский](../ru/#bpn2560)» 
 
 
 
@@ -2233,7 +2233,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2561)
 
 
-
+«[Русский](../ru/#bpn2561)» 
 
 
 
@@ -2245,7 +2245,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2562)
 
 
-
+«[Русский](../ru/#bpn2562)» 
 
 
 
@@ -2263,7 +2263,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2563)
 
 
-
+«[Русский](../ru/#bpn2563)» 
 
 
 
@@ -2275,7 +2275,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2564)
 
 
-
+«[Русский](../ru/#bpn2564)» 
 
 
 
@@ -2293,7 +2293,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2565)
 
 
-
+«[Русский](../ru/#bpn2565)» 
 
 
 
@@ -2323,7 +2323,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2460)
 
 
-
+«[Русский](../ru/#bpn2460)» 
 
 
 
@@ -2346,7 +2346,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2461)
 
 
-
+«[Русский](../ru/#bpn2461)» 
 
 
 
@@ -2364,7 +2364,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2570)
 
 
-
+«[Русский](../ru/#bpn2570)» 
 
 
 
@@ -2382,7 +2382,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2569)
 
 
-
+«[Русский](../ru/#bpn2569)» 
 
 
 
@@ -2398,7 +2398,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2571)
 
 
-
+«[Русский](../ru/#bpn2571)» 
 
 
 
@@ -2412,7 +2412,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2572)
 
 
-
+«[Русский](../ru/#bpn2572)» 
 
 
 
@@ -2428,7 +2428,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2573)
 
 
-
+«[Русский](../ru/#bpn2573)» 
 
 
 
@@ -2454,7 +2454,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2467)
 
 
-
+«[Русский](../ru/#bpn2467)» 
 
 
 
@@ -2495,7 +2495,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2457)
 
 
-
+«[Русский](../ru/#bpn2457)» 
 
 
 
@@ -2517,7 +2517,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2574)
 
 
-
+«[Русский](../ru/#bpn2574)» 
 
 
 
@@ -2531,7 +2531,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2575)
 
 
-
+«[Русский](../ru/#bpn2575)» 
 
 
 
@@ -2547,7 +2547,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2576)
 
 
-
+«[Русский](../ru/#bpn2576)» 
 
 
 
@@ -2559,7 +2559,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2577)
 
 
-
+«[Русский](../ru/#bpn2577)» 
 
 
 
@@ -2581,7 +2581,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2578)
 
 
-
+«[Русский](../ru/#bpn2578)» 
 
 
 
@@ -2595,7 +2595,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2579)
 
 
-
+«[Русский](../ru/#bpn2579)» 
 
 
 
@@ -2611,7 +2611,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2580)
 
 
-
+«[Русский](../ru/#bpn2580)» 
 
 
 
@@ -2627,7 +2627,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2581)
 
 
-
+«[Русский](../ru/#bpn2581)» 
 
 
 
@@ -2643,7 +2643,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2582)
 
 
-
+«[Русский](../ru/#bpn2582)» 
 
 
 
@@ -2659,7 +2659,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2589)
 
 
-
+«[Русский](../ru/#bpn2589)» 
 
 
 
@@ -2679,7 +2679,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2590)
 
 
-
+«[Русский](../ru/#bpn2590)» 
 
 
 
@@ -2701,7 +2701,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2468)
 
 
-
+«[Русский](../ru/#bpn2468)» 
 
 
 
@@ -2719,7 +2719,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2591)
 
 
-
+«[Русский](../ru/#bpn2591)» 
 
 
 
@@ -2733,7 +2733,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2592)
 
 
-
+«[Русский](../ru/#bpn2592)» 
 
 
 
@@ -2745,7 +2745,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2593)
 
 
-
+«[Русский](../ru/#bpn2593)» 
 
 
 
@@ -2767,7 +2767,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2594)
 
 
-
+«[Русский](../ru/#bpn2594)» 
 
 
 
@@ -2785,7 +2785,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2595)
 
 
-
+«[Русский](../ru/#bpn2595)» 
 
 
 
@@ -2805,7 +2805,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2596)
 
 
-
+«[Русский](../ru/#bpn2596)» 
 
 
 
@@ -2823,7 +2823,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2597)
 
 
-
+«[Русский](../ru/#bpn2597)» 
 
 
 
@@ -2837,7 +2837,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2600)
 
 
-
+«[Русский](../ru/#bpn2600)» 
 
 
 
@@ -2860,7 +2860,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2598)
 
 
-
+«[Русский](../ru/#bpn2598)» 
 
 
 
@@ -2872,7 +2872,7 @@ tags = ['lang=ru', 'prayerbook']
 (Bahaiprayers.net ID: 2599)
 
 
-
+«[Русский](../ru/#bpn2599)» 
 
 
 

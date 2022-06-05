@@ -99,7 +99,7 @@ Et suplico, oh Senyor meu, pel teu Més Gran Nom, pel qual separares la llum del
 (Bahaiprayers.net ID: 5783)
 
 
-
+«[Català](../ca/#bpn5783)» 
 
 
 
@@ -117,7 +117,7 @@ Tota lloança i glòria siguin per a Tu, referent al Qual totes les coses ha tes
 (Bahaiprayers.net ID: 5784)
 
 
-
+«[Català](../ca/#bpn5784)» 
 
 
 
@@ -131,7 +131,7 @@ Tu ets el Tot Poderós, el Més exaltat, el Tot Gloriós, el que Tot ho estima.
 (Bahaiprayers.net ID: 5785)
 
 
-
+«[Català](../ca/#bpn5785)» 
 
 
 
@@ -146,7 +146,7 @@ Tu ets, en veritat, el Senyor de munificència i el Sobirà del regne de l’ete
 (Bahaiprayers.net ID: 5792)
 
 
-
+«[Català](../ca/#bpn5792)» 
 
 
 
@@ -160,7 +160,7 @@ Glòria sigui a Tu; Tu estàs per sobre de la descripció de qualsevol que no si
 (Bahaiprayers.net ID: 5786)
 
 
-
+«[Català](../ca/#bpn5786)» 
 
 
 
@@ -176,7 +176,7 @@ Veritablement, Tu ets el Dador, el Perdonador. El Compassiu.
 (Bahaiprayers.net ID: 5793)
 
 
-
+«[Català](../ca/#bpn5793)» 
 
 
 
@@ -193,7 +193,7 @@ Tu veritablement ets el Rei de tots els homes. No hi ha Déu sinó Tu, Qui sempr
 (Bahaiprayers.net ID: 5787)
 
 
-
+«[Català](../ca/#bpn5787)» 
 
 
 
@@ -212,7 +212,7 @@ Oh Déu meu Senyor i el meu Mestre! M’he després de la meva família i a trav
 (Bahaiprayers.net ID: 5788)
 
 
-
+«[Català](../ca/#bpn5788)» 
 
 
 
@@ -226,7 +226,7 @@ Oh Tu, Proveïdor! Oh Tu Perdonador! Concedeix-nos la Teva gràcia i bondat, don
 (Bahaiprayers.net ID: 5789)
 
 
-
+«[Català](../ca/#bpn5789)» 
 
 
 
@@ -242,7 +242,7 @@ Dóna’ns el nostre pa de cada dia i concedeix-nos que ens sigui augmentat per 
 (Bahaiprayers.net ID: 5790)
 
 
-
+«[Català](../ca/#bpn5790)» 
 
 
 
@@ -258,7 +258,7 @@ Tu ets veritablement l’Un, l’Únic el Fort, l’Omniscient, el Tot Savi.
 (Bahaiprayers.net ID: 5791)
 
 
-
+«[Català](../ca/#bpn5791)» 
 
 
 
@@ -278,7 +278,7 @@ Oh Déu meu! Som serfs Teus que ens hem girat amb devoció cap al Teu Sagrat Ros
 (Bahaiprayers.net ID: 5780)
 
 
-
+«[Català](../ca/#bpn5780)» 
 
 
 
@@ -298,7 +298,7 @@ Veritablement Tu ets el Generós, el Misericordiós. Tu ets el Posseïdor de gra
 (Bahaiprayers.net ID: 5781)
 
 
-
+«[Català](../ca/#bpn5781)» 
 
 
 
@@ -313,7 +313,7 @@ Oh Tu, nostre Proveïdor! Fes descendir la Teva ajuda, perquè cadascun dels aqu
 (Bahaiprayers.net ID: 5782)
 
 
-
+«[Català](../ca/#bpn5782)» 
 
 
 
@@ -333,7 +333,7 @@ Veritablement Tu ets el Poderós, el Fort i l’Omnipotent, i Tu ets el Savi, Qu
 (Bahaiprayers.net ID: 5832)
 
 
-
+«[Català](../ca/#bpn5832)» 
 
 
 
@@ -350,7 +350,7 @@ Veritablement Tu ets qui confirmes a qui Tu vols i en veritat Tu ets el Tot Pode
 (Bahaiprayers.net ID: 5833)
 
 
-
+«[Català](../ca/#bpn5833)» 
 
 
 
@@ -369,7 +369,7 @@ Veritablement Tu ets el Clement, el Potent, el Poderós i el Més Misericordiós
 (Bahaiprayers.net ID: 5834)
 
 
-
+«[Català](../ca/#bpn5834)» 
 
 
 
@@ -392,7 +392,7 @@ Veritablement, Tu ets el Més Generós, el Senyor de gràcia abundant i, veritab
 (Bahaiprayers.net ID: 5835)
 
 
-
+«[Català](../ca/#bpn5835)» 
 
 
 
@@ -412,7 +412,7 @@ En veritat, Tu ets el Potent, el Poderós, el Savi i el què veu.
 (Bahaiprayers.net ID: 5836)
 
 
-
+«[Català](../ca/#bpn5836)» 
 
 
 
@@ -429,7 +429,7 @@ Tu ets l’Omnipotent i el Faedor de tot el què desitges.
 (Bahaiprayers.net ID: 5837)
 
 
-
+«[Català](../ca/#bpn5837)» 
 
 
 
@@ -448,7 +448,7 @@ Oh Senyor! Fes de mi una llàntia brillant, un estel resplendent i un arbre bene
 (Bahaiprayers.net ID: 5838)
 
 
-
+«[Català](../ca/#bpn5838)» 
 
 
 
@@ -465,7 +465,7 @@ Oh Senyor! Estic sol, solitari i soc humil. No hi ha ajut per mi tret de Tu, ni 
 (Bahaiprayers.net ID: 5839)
 
 
-
+«[Català](../ca/#bpn5839)» 
 
 
 
@@ -481,7 +481,7 @@ Veritablement Tu ets el Tot Poderós, el Més Exaltat, el què sempre perdona, e
 (Bahaiprayers.net ID: 5840)
 
 
-
+«[Català](../ca/#bpn5840)» 
 
 
 
@@ -498,7 +498,7 @@ Veritablement Tu ets el Fort, el Poderós, l’Omnipotent.
 (Bahaiprayers.net ID: 5841)
 
 
-
+«[Català](../ca/#bpn5841)» 
 
 
 
@@ -522,7 +522,7 @@ Ajuda’ls oh Déu meu, a fer-te victoriós i a exaltar la Teva Paraula. Permet,
 (Bahaiprayers.net ID: 5772)
 
 
-
+«[Català](../ca/#bpn5772)» 
 
 
 
@@ -534,7 +534,7 @@ Lloances a Tu, oh Senyor Déu meu! Hem observat el dejuni de conformitat amb el 
 (Bahaiprayers.net ID: 5773)
 
 
-
+«[Català](../ca/#bpn5773)» 
 
 
 
@@ -546,7 +546,7 @@ Lloat siguis, oh Déu meu! Aquests són els dies en què has ordenat als Teus el
 (Bahaiprayers.net ID: 5774)
 
 
-
+«[Català](../ca/#bpn5774)» 
 
 
 
@@ -564,7 +564,7 @@ No hi ha Déu sinó Tu, l’Omniscient, el Tot Savi. Tota lloança sigui per a D
 (Bahaiprayers.net ID: 5775)
 
 
-
+«[Català](../ca/#bpn5775)» 
 
 
 
@@ -576,7 +576,7 @@ En el Nom del Qui ha estat promès als Llibres de Déu, l’Omniscient, l’Info
 (Bahaiprayers.net ID: 5776)
 
 
-
+«[Català](../ca/#bpn5776)» 
 
 
 
@@ -612,7 +612,7 @@ Lloat siguis, oh Déu meu, ja que ens has ajudat a reconèixer-lo i estimar-lo. 
 (Bahaiprayers.net ID: 5777)
 
 
-
+«[Català](../ca/#bpn5777)» 
 
 
 
@@ -641,7 +641,7 @@ Fes victoriosa a la Teva causa, oh Senyor meu, i humilia els Teus enemics. Decre
 (Bahaiprayers.net ID: 5778)
 
 
-
+«[Català](../ca/#bpn5778)» 
 
 
 
@@ -679,7 +679,7 @@ T’imploro, oh Senyor meu, per Tu mateix, pels Teus signes, pels Teus clars sen
 (Bahaiprayers.net ID: 5779)
 
 
-
+«[Català](../ca/#bpn5779)» 
 
 
 
@@ -699,7 +699,7 @@ Tu ets en veritat el Senyor dels mons i el Déu de tots els que estan al cel i a
 (Bahaiprayers.net ID: 5794)
 
 
-
+«[Català](../ca/#bpn5794)» 
 
 
 
@@ -715,7 +715,7 @@ Tu veritablement ets el Senyor de tota  la humanitat i el Posseïdor  d’aquest
 (Bahaiprayers.net ID: 5795)
 
 
-
+«[Català](../ca/#bpn5795)» 
 
 
 
@@ -731,7 +731,7 @@ Jo t’imploro, oh Senyor meu, per Aquell que és el Teu Nom, que s’ha aixecat
 (Bahaiprayers.net ID: 5796)
 
 
-
+«[Català](../ca/#bpn5796)» 
 
 
 
@@ -749,7 +749,7 @@ Potent ets per a fer el que Et plagui. Tu ets veritablement l’Omnipotent, el M
 (Bahaiprayers.net ID: 5797)
 
 
-
+«[Català](../ca/#bpn5797)» 
 
 
 
@@ -761,7 +761,7 @@ Jo t’imploro oh Senyor meu pel Teu Nom, els resplendors del qual han circumdat
 (Bahaiprayers.net ID: 5798)
 
 
-
+«[Català](../ca/#bpn5798)» 
 
 
 
@@ -778,7 +778,7 @@ Glorificat sia el Teu Nom, oh Tu qui ets el Rei de tots els reis!
 (Bahaiprayers.net ID: 5803)
 
 
-
+«[Català](../ca/#bpn5803)» 
 
 
 
@@ -798,7 +798,7 @@ Confereix les teves benediccions, oh Senyor meu, als Missatgers, els sants i els
 (Bahaiprayers.net ID: 5799)
 
 
-
+«[Català](../ca/#bpn5799)» 
 
 
 
@@ -816,7 +816,7 @@ Teva és l’autoritat absoluta per ordenar.
 (Bahaiprayers.net ID: 5802)
 
 
-
+«[Català](../ca/#bpn5802)» 
 
 
 
@@ -831,7 +831,7 @@ Tu ets en veritat el Tot Poderós, el Tot Gloriós, l’Omnipotent.
 (Bahaiprayers.net ID: 5800)
 
 
-
+«[Català](../ca/#bpn5800)» 
 
 
 
@@ -846,7 +846,7 @@ Vertaderament Tu ets el Poderós, el qui sempre atorga, el qui és Capaç, l’O
 (Bahaiprayers.net ID: 5801)
 
 
-
+«[Català](../ca/#bpn5801)» 
 
 
 
@@ -870,7 +870,7 @@ Tu ets veritablement el Tot Poderós, l’Omniscient, l’Informa’t de tot.
 (Bahaiprayers.net ID: 5771)
 
 
-
+«[Català](../ca/#bpn5771)» 
 
 
 
@@ -906,7 +906,7 @@ No hi ha més Déu que Tu, l’Un l’Únic, el Poderós, l’Omniscient, el Gen
 (Bahaiprayers.net ID: 5804)
 
 
-
+«[Català](../ca/#bpn5804)» 
 
 
 
@@ -922,7 +922,7 @@ Tu ets glorificat, immensament glorificat! Glorificat immensament glorificat ets
 (Bahaiprayers.net ID: 5805)
 
 
-
+«[Català](../ca/#bpn5805)» 
 
 
 
@@ -972,7 +972,7 @@ Tots, en veritat, som pacients en Déu
 (Bahaiprayers.net ID: 5812)
 
 
-
+«[Català](../ca/#bpn5812)» 
 
 
 
@@ -988,7 +988,7 @@ Veritablement ets el Generós, el Poderós, el Perdonador i el Donador.
 (Bahaiprayers.net ID: 5806)
 
 
-
+«[Català](../ca/#bpn5806)» 
 
 
 
@@ -1002,7 +1002,7 @@ Oh Senyor meu! Purifica’ls de les seves transgressions, dissipa les seves tris
 (Bahaiprayers.net ID: 5807)
 
 
-
+«[Català](../ca/#bpn5807)» 
 
 
 
@@ -1016,7 +1016,7 @@ Tu ets el Perdonador, Il·luminador, l’Omnipotent.
 (Bahaiprayers.net ID: 5808)
 
 
-
+«[Català](../ca/#bpn5808)» 
 
 
 
@@ -1031,7 +1031,7 @@ Tu ets, certament, el Poderós, el Compassiu, el Generós, el Misericordiós.
 (Bahaiprayers.net ID: 5809)
 
 
-
+«[Català](../ca/#bpn5809)» 
 
 
 
@@ -1043,7 +1043,7 @@ Oh Senyor, la misericòrdia del Qual ha envoltat a tots, la indulgència del Qua
 (Bahaiprayers.net ID: 5810)
 
 
-
+«[Català](../ca/#bpn5810)» 
 
 
 
@@ -1056,7 +1056,7 @@ Oh Senyor! Som pecadors, però Tu ets el Perdonador. Estem submergits a l’oce�
 (Bahaiprayers.net ID: 5811)
 
 
-
+«[Català](../ca/#bpn5811)» 
 
 
 
@@ -1075,7 +1075,7 @@ No hi ha Déu fora de Tu, el Poderós, el Sempre Perdurable, el Munífic, el Mé
 (Bahaiprayers.net ID: 5813)
 
 
-
+«[Català](../ca/#bpn5813)» 
 
 
 
@@ -1089,7 +1089,7 @@ No hi ha Déu tret de Tu, el tot Poderós, el Més Exaltat, el Tot Gloriós,  Qu
 (Bahaiprayers.net ID: 5814)
 
 
-
+«[Català](../ca/#bpn5814)» 
 
 
 
@@ -1104,7 +1104,7 @@ Potent ets Tu per fer el que desitgis. Tu ets, veritablement, l’Omniscient, el
 (Bahaiprayers.net ID: 5815)
 
 
-
+«[Català](../ca/#bpn5815)» 
 
 
 
@@ -1118,7 +1118,7 @@ Tu ets, veritablement, Qui sempre perdona, el Més Misericordiós.
 (Bahaiprayers.net ID: 5816)
 
 
-
+«[Català](../ca/#bpn5816)» 
 
 
 
@@ -1133,7 +1133,7 @@ Tu ets en veritat, el Déu de poder, de fortalesa i de glòria.
 (Bahaiprayers.net ID: 5817)
 
 
-
+«[Català](../ca/#bpn5817)» 
 
 
 
@@ -1147,7 +1147,7 @@ Si conferissis a una de les Teves criatures allò que igualarà els regnes de la
 (Bahaiprayers.net ID: 5818)
 
 
-
+«[Català](../ca/#bpn5818)» 
 
 
 
@@ -1161,7 +1161,7 @@ Potent ets Tu per fer el que Et plagui. No existeix altre Déu tret de Tu, el To
 (Bahaiprayers.net ID: 5819)
 
 
-
+«[Català](../ca/#bpn5819)» 
 
 
 
@@ -1173,7 +1173,7 @@ Oh Senyor meu, el meu Estimat, el meu Desig! Sigues el meu amic en la soledat i 
 (Bahaiprayers.net ID: 5820)
 
 
-
+«[Català](../ca/#bpn5820)» 
 
 
 
@@ -1191,7 +1191,7 @@ Veritablement, Tu ets el generós. Veritablement, Tu ets el Senyor de Gran Favor
 (Bahaiprayers.net ID: 5821)
 
 
-
+«[Català](../ca/#bpn5821)» 
 
 
 
@@ -1209,7 +1209,7 @@ Veritablement, Tu ets l’Aprecia’t, Qui sempre atorga, el Munífic.
 (Bahaiprayers.net ID: 5822)
 
 
-
+«[Català](../ca/#bpn5822)» 
 
 
 
@@ -1228,7 +1228,7 @@ Oh Déu Protegeix-me de les proves. Tu saps molt bé que m’he apartat de totes
 (Bahaiprayers.net ID: 5828)
 
 
-
+«[Català](../ca/#bpn5828)» 
 
 
 
@@ -1240,7 +1240,7 @@ Oh Déu,Déu meu! Ajuda als Teus serfs lleials a tenir cors afectuosos i sensibl
 (Bahaiprayers.net ID: 5829)
 
 
-
+«[Català](../ca/#bpn5829)» 
 
 
 
@@ -1253,7 +1253,7 @@ Tu ets veritablement, el Generós, el Perdonador.
 (Bahaiprayers.net ID: 5830)
 
 
-
+«[Català](../ca/#bpn5830)» 
 
 
 
@@ -1268,7 +1268,7 @@ En veritat, Tu estàs dotat d’abundant gràcia. No existeix cap altre Déu tre
 (Bahaiprayers.net ID: 5831)
 
 
-
+«[Català](../ca/#bpn5831)» 
 
 
 
@@ -1286,7 +1286,7 @@ Beneeix-me oh Senyor, a mi i als qui creuran en els Teus signes en el Dia asseny
 (Bahaiprayers.net ID: 5842)
 
 
-
+«[Català](../ca/#bpn5842)» 
 
 
 
@@ -1299,7 +1299,7 @@ Oh Déu meu! Tu has inspirat la meva ànima perquè elevi la seva súplica a Tu,
 (Bahaiprayers.net ID: 5843)
 
 
-
+«[Català](../ca/#bpn5843)» 
 
 
 
@@ -1313,7 +1313,7 @@ Oh Senyor! En aquesta Dispensació, la Més Gran, Tu acceptes la intercepció de
 (Bahaiprayers.net ID: 5844)
 
 
-
+«[Català](../ca/#bpn5844)» 
 
 
 
@@ -1335,7 +1335,7 @@ Et demano oh Senyor de tots els éssers i Rei del visible i invisible, pel Teu p
 (Bahaiprayers.net ID: 5845)
 
 
-
+«[Català](../ca/#bpn5845)» 
 
 
 
@@ -1349,7 +1349,7 @@ Lloat siguis Tu, qui ets el Benamat dels qui T’han conegut!
 (Bahaiprayers.net ID: 5846)
 
 
-
+«[Català](../ca/#bpn5846)» 
 
 
 
@@ -1362,7 +1362,7 @@ Jo Et suplico que em permetis agafar-me amb força al Teu amor i al Teu record. 
 (Bahaiprayers.net ID: 5847)
 
 
-
+«[Català](../ca/#bpn5847)» 
 
 
 
@@ -1376,7 +1376,7 @@ Tu ets veritablement el Déu de Poder, Qui ajuda en el perill, el Tot Gloriós, 
 (Bahaiprayers.net ID: 5848)
 
 
-
+«[Català](../ca/#bpn5848)» 
 
 
 
@@ -1389,7 +1389,7 @@ Veritablement Tu ets el Senyor de força, Tu ets potent per ordenar el que desit
 (Bahaiprayers.net ID: 5849)
 
 
-
+«[Català](../ca/#bpn5849)» 
 
 
 
@@ -1406,7 +1406,7 @@ Decreta per mi, per la Teva generositat, oh Senyor, allò que em faci prosperar 
 (Bahaiprayers.net ID: 5854)
 
 
-
+«[Català](../ca/#bpn5854)» 
 
 
 
@@ -1421,7 +1421,7 @@ No hi ha Déu tret de Tu, el Tot Poderós, el Tot Savi.
 (Bahaiprayers.net ID: 5855)
 
 
-
+«[Català](../ca/#bpn5855)» 
 
 
 
@@ -1434,7 +1434,7 @@ Veritablement, Tu ets el Regidor suprem, la Veritat Sobirana, Qui ajuda en el pe
 (Bahaiprayers.net ID: 5850)
 
 
-
+«[Català](../ca/#bpn5850)» 
 
 
 
@@ -1447,7 +1447,7 @@ Permet, oh Déu meu, que no sigui contat entre aquells, les oïdes dels quals s�
 (Bahaiprayers.net ID: 5851)
 
 
-
+«[Català](../ca/#bpn5851)» 
 
 
 
@@ -1459,7 +1459,7 @@ Oh Senyor Déu meu! Ajuda els Teus estimats a ser ferms en la Teva Fe, a caminar
 (Bahaiprayers.net ID: 5852)
 
 
-
+«[Català](../ca/#bpn5852)» 
 
 
 
@@ -1473,7 +1473,7 @@ En veritat Tu ets el Generós, Qui sempre perdona, l’Aprecia’t, el Més Gene
 (Bahaiprayers.net ID: 5853)
 
 
-
+«[Català](../ca/#bpn5853)» 
 
 
 
@@ -1488,7 +1488,7 @@ Tu ets el Compassiu, el Misericordiós. Tu ets el Gran Déu Benèfic.
 (Bahaiprayers.net ID: 5856)
 
 
-
+«[Català](../ca/#bpn5856)» 
 
 
 
@@ -1501,7 +1501,7 @@ Veritablement Tu ets l’Invencible, el Tot Poderós, l’Omnipotent.
 (Bahaiprayers.net ID: 5857)
 
 
-
+«[Català](../ca/#bpn5857)» 
 
 
 
@@ -1515,7 +1515,7 @@ Tu ets el Perdonador, el Benèvol.
 (Bahaiprayers.net ID: 5858)
 
 
-
+«[Català](../ca/#bpn5858)» 
 
 
 
@@ -1535,7 +1535,7 @@ Veritablement Tu ets el Sostenidor, l’Auxiliador, el generós, el Munífic, el
 (Bahaiprayers.net ID: 5859)
 
 
-
+«[Català](../ca/#bpn5859)» 
 
 
 
@@ -1553,7 +1553,7 @@ Tu ets veritablement el Senyor d’aquesta vida i la venidora. Tu ets en veritat
 (Bahaiprayers.net ID: 5860)
 
 
-
+«[Català](../ca/#bpn5860)» 
 
 
 
@@ -1566,7 +1566,7 @@ Tu ets veritablement el Guaridor, el Preservador, el que ajuda, el Tot Poderós,
 (Bahaiprayers.net ID: 5861)
 
 
-
+«[Català](../ca/#bpn5861)» 
 
 
 
@@ -1580,7 +1580,7 @@ Poderós ets Tu per fer el que et plagui. No hi ha altre Déu tret de Tu, el que
 (Bahaiprayers.net ID: 5862)
 
 
-
+«[Català](../ca/#bpn5862)» 
 
 
 
@@ -1593,7 +1593,7 @@ Tu veritablement ets el Tot Generós, el què Tot ho Sap, el Tot Savi.
 (Bahaiprayers.net ID: 5863)
 
 
-
+«[Català](../ca/#bpn5863)» 
 
 
 
@@ -1608,7 +1608,7 @@ T’imploro, doncs, pel Teu nom mitjançant el qual manifestares la Teva Deïtat
 (Bahaiprayers.net ID: 5864)
 
 
-
+«[Català](../ca/#bpn5864)» 
 
 
 
@@ -1625,7 +1625,7 @@ Tu en veritat, estàs immensament exaltat per sobre de tot el que no siguis Tu m
 (Bahaiprayers.net ID: 5865)
 
 
-
+«[Català](../ca/#bpn5865)» 
 
 
 
@@ -1730,7 +1730,7 @@ Tu ets en veritat el Poderós, el Tot Suficient, el Guaridor, el Protector, el D
 (Bahaiprayers.net ID: 5866)
 
 
-
+«[Català](../ca/#bpn5866)» 
 
 
 
@@ -1748,7 +1748,7 @@ Tots són els pobres i necessitats i Tu, veritablement, ets el que tot ho possee
 (Bahaiprayers.net ID: 5867)
 
 
-
+«[Català](../ca/#bpn5867)» 
 
 
 
@@ -1760,7 +1760,7 @@ Oh Tu bondadós Senyor! Oh Tu què ets generós i misericordiós! Som els Teus s
 (Bahaiprayers.net ID: 5868)
 
 
-
+«[Català](../ca/#bpn5868)» 
 
 
 
@@ -1773,7 +1773,7 @@ Veritablement Tu ets el Donador, Tu ets el Bondadós i Tu ets el Tot Poderós.
 (Bahaiprayers.net ID: 5869)
 
 
-
+«[Català](../ca/#bpn5869)» 
 
 
 
@@ -1793,7 +1793,7 @@ Tu ets el Poderós i el Fort. Tu ets el qui perdona i Tu ets Aquell qui tolera l
 (Bahaiprayers.net ID: 5870)
 
 
-
+«[Català](../ca/#bpn5870)» 
 
 
 
@@ -1806,7 +1806,7 @@ Tu certament ets el Poderós, el Protector, el Potent, el Defensor, el Fort, el 
 (Bahaiprayers.net ID: 5871)
 
 
-
+«[Català](../ca/#bpn5871)» 
 
 
 
@@ -1824,7 +1824,7 @@ Tu certament ets el Poderós, el Protector, el Potent, el Defensor, el Fort, el 
 (Bahaiprayers.net ID: 5768)
 
 
-
+«[Català](../ca/#bpn5768)» 
 
 
 
@@ -1836,7 +1836,7 @@ Magnificat ets Tu, oh Senyor de tota la creació, Aquell a Qui tot ha de tornar-
 (Bahaiprayers.net ID: 5769)
 
 
-
+«[Català](../ca/#bpn5769)» 
 
 
 
@@ -1850,7 +1850,7 @@ T’imploro, oh Senyor de tots els noms i Creador dels cels, que m’ajudis a se
 (Bahaiprayers.net ID: 5770)
 
 
-
+«[Català](../ca/#bpn5770)» 
 
 
 
@@ -1864,7 +1864,7 @@ Destina per mi, oh Déu meu, allò que sigui digne de la Teva majestat, i ajuda�
 (Bahaiprayers.net ID: 5823)
 
 
-
+«[Català](../ca/#bpn5823)» 
 
 
 
@@ -1879,7 +1879,7 @@ Tu ets en veritat el Déu de força i poder, qui estàs capacitat per contestar 
 (Bahaiprayers.net ID: 5824)
 
 
-
+«[Català](../ca/#bpn5824)» 
 
 
 
@@ -1894,7 +1894,7 @@ Jo Et demano, oh Rei de l’existència i Protector d’allò que és visible i 
 (Bahaiprayers.net ID: 5825)
 
 
-
+«[Català](../ca/#bpn5825)» 
 
 
 
@@ -1908,7 +1908,7 @@ Oh Senyor meu, ja que Tu els has guiat cap a les aigües vivents de la Teva grà
 (Bahaiprayers.net ID: 5826)
 
 
-
+«[Català](../ca/#bpn5826)» 
 
 
 
@@ -1922,7 +1922,7 @@ Veritablement potent ets Tu per fer tot el què et plagui i en la Teva mà tens 
 (Bahaiprayers.net ID: 5827)
 
 
-
+«[Català](../ca/#bpn5827)» 
 
 
 
@@ -1941,7 +1941,7 @@ Et dono gràcies, oh Senyor meu, per haver-me despertat del meu somni, per haver
 (Bahaiprayers.net ID: 5872)
 
 
-
+«[Català](../ca/#bpn5872)» 
 
 
 
@@ -1956,7 +1956,7 @@ Il·lumina, oh Senyor, els rostres dels Teus serfs perquè puguin contemplar-te,
 (Bahaiprayers.net ID: 5873)
 
 
-
+«[Català](../ca/#bpn5873)» 
 
 
 
@@ -1973,7 +1973,7 @@ T’imploro pel Teu nom el qual permet a tots atènyer l’objecte del seu desig
 (Bahaiprayers.net ID: 5874)
 
 
-
+«[Català](../ca/#bpn5874)» 
 
 
 
@@ -1989,7 +1989,7 @@ Lloat siguis Tu, oh el meu Benamat; que bufin sobre ell les dolces aromes de la 
 (Bahaiprayers.net ID: 5888)
 
 
-
+«[Català](../ca/#bpn5888)» 
 
 
 
@@ -2002,7 +2002,7 @@ Ya Bahá’u’l-Abhá!
 (Bahaiprayers.net ID: 5875)
 
 
-
+«[Català](../ca/#bpn5875)» 
 
 
 
@@ -2014,7 +2014,7 @@ Oh Senyor! Sóc un infant; permet que creixi a l’ombra de la Teva bondat. Sóc
 (Bahaiprayers.net ID: 5876)
 
 
-
+«[Català](../ca/#bpn5876)» 
 
 
 
@@ -2026,7 +2026,7 @@ Oh Tu gloriosíssim Senyor! Beneeix i fes feliç a aquesta petita serva Teva; fe
 (Bahaiprayers.net ID: 5877)
 
 
-
+«[Català](../ca/#bpn5877)» 
 
 
 
@@ -2040,7 +2040,7 @@ Tu ets el Donador. Tu ets el Compassiu.
 (Bahaiprayers.net ID: 5878)
 
 
-
+«[Català](../ca/#bpn5878)» 
 
 
 
@@ -2052,7 +2052,7 @@ Oh Déu! Guiem, protegeix-me, fes de mi una llàntia brillant i una estrella res
 (Bahaiprayers.net ID: 5879)
 
 
-
+«[Català](../ca/#bpn5879)» 
 
 
 
@@ -2064,7 +2064,7 @@ Oh Senyor meu! Oh Senyor meu! Sóc un nen de tendra edat. Nodreix-me del pit de 
 (Bahaiprayers.net ID: 5880)
 
 
-
+«[Català](../ca/#bpn5880)» 
 
 
 
@@ -2076,7 +2076,7 @@ Oh Senyor incomparable! Sigues Tu un refugi per aquest pobre infant, un Mestre b
 (Bahaiprayers.net ID: 5881)
 
 
-
+«[Català](../ca/#bpn5881)» 
 
 
 
@@ -2089,7 +2089,7 @@ Oh Tu, Déu bondadós! Sóc un nen petit, exalta’m admet-me en el regne. Sóc 
 (Bahaiprayers.net ID: 5882)
 
 
-
+«[Català](../ca/#bpn5882)» 
 
 
 
@@ -2102,7 +2102,7 @@ Tu ets el Munífic, el Tot Amorós.
 (Bahaiprayers.net ID: 5883)
 
 
-
+«[Català](../ca/#bpn5883)» 
 
 
 
@@ -2114,7 +2114,7 @@ Oh Senyor! Sóc un infant; permet-me créixer a l’ombra de la Teva bondat. Só
 (Bahaiprayers.net ID: 5884)
 
 
-
+«[Català](../ca/#bpn5884)» 
 
 
 
@@ -2126,7 +2126,7 @@ Oh gloriosíssim Senyor! Fes benaurada i feliç aquesta serva Teva; fes-la estim
 (Bahaiprayers.net ID: 5885)
 
 
-
+«[Català](../ca/#bpn5885)» 
 
 
 
@@ -2139,7 +2139,7 @@ Tu ets poderós i bondadós, i Tu ets el què atorga, el Magnànim, el Senyor d�
 (Bahaiprayers.net ID: 5886)
 
 
-
+«[Català](../ca/#bpn5886)» 
 
 
 
@@ -2151,7 +2151,7 @@ Oh Tu, Déu incomparable! Fes que aquest infant de pit es nodreixi de la sina de
 (Bahaiprayers.net ID: 5887)
 
 
-
+«[Català](../ca/#bpn5887)» 
 
 
 
@@ -2167,7 +2167,7 @@ Oh Senyor fes que aquest jove sigui radiant i confereix la Teva gràcia a aquest
 (Bahaiprayers.net ID: 5889)
 
 
-
+«[Català](../ca/#bpn5889)» 
 
 
 
@@ -2179,7 +2179,7 @@ Oh amable Senyor! A l’horitzó del despreniment has manifestat ànimes que, co
 (Bahaiprayers.net ID: 5890)
 
 
-
+«[Català](../ca/#bpn5890)» 
 
 
 
@@ -2192,7 +2192,7 @@ Oh Senyor! Enforteix aquestes fràgils plantes perquè cadascuna d’elles arrib
 (Bahaiprayers.net ID: 5891)
 
 
-
+«[Català](../ca/#bpn5891)» 
 
 
 
@@ -2205,7 +2205,7 @@ Tu ets l’Atorgador, Qui tot ho estima.
 (Bahaiprayers.net ID: 5892)
 
 
-
+«[Català](../ca/#bpn5892)» 
 
 
 
@@ -2220,7 +2220,7 @@ Tu ets el Tot Poderós, el Tot Gloriós, l’Omnipotent.
 (Bahaiprayers.net ID: 5893)
 
 
-
+«[Català](../ca/#bpn5893)» 
 
 
 
@@ -2250,7 +2250,7 @@ I quan Ell desitjà manifestar gràcia i beneficència als homes i posar el món
 (Bahaiprayers.net ID: 5898)
 
 
-
+«[Català](../ca/#bpn5898)» 
 
 
 
@@ -2266,7 +2266,7 @@ He despertat sota la Teva empara, ho Déu meu, i correspon a qui cerca aquesta e
 (Bahaiprayers.net ID: 5894)
 
 
-
+«[Català](../ca/#bpn5894)» 
 
 
 
@@ -2279,7 +2279,7 @@ No hi ha Déu tret de Tu, l’Únic, l’Incomparable, l’Omniscient, el Tot Sa
 (Bahaiprayers.net ID: 5895)
 
 
-
+«[Català](../ca/#bpn5895)» 
 
 
 
@@ -2295,7 +2295,7 @@ Tu no decepcions a ningú que T’hagi cercat, ni allunyis a qui T’hagi desitj
 (Bahaiprayers.net ID: 5896)
 
 
-
+«[Català](../ca/#bpn5896)» 
 
 
 
@@ -2315,7 +2315,7 @@ Tu ets en veritat el Senyor i el Rei de tots els homes i ets poderós per sobre 
 (Bahaiprayers.net ID: 5897)
 
 
-
+«[Català](../ca/#bpn5897)» 
 
 
 
@@ -2339,7 +2339,7 @@ Veritablement, Tu ets el Munífic, el Fort, el Poderós, l’Omnipotent, el Lliu
 (Bahaiprayers.net ID: 5767)
 
 
-
+«[Català](../ca/#bpn5767)» 
 
 
 
@@ -2363,7 +2363,7 @@ Tu ets en veritat l’Omniscient, el Tot Savi.
 (Bahaiprayers.net ID: 5766)
 
 
-
+«[Català](../ca/#bpn5766)» 
 
 
 
@@ -2382,7 +2382,7 @@ No existeix més Déu que Tu, l’Omnipotent, el qui tot ho subjuga, l’Incondi
 (Bahaiprayers.net ID: 5902)
 
 
-
+«[Català](../ca/#bpn5902)» 
 
 
 
@@ -2396,7 +2396,7 @@ Pel Teu poder! Jo no demano, ja sigui dormit o despert, sinó el què Tu desitge
 (Bahaiprayers.net ID: 5903)
 
 
-
+«[Català](../ca/#bpn5903)» 
 
 
 
@@ -2410,7 +2410,7 @@ Oh Tu bondadós Senyor! Fes que aquest matrimoni produeixi corals i perles. Tu e
 (Bahaiprayers.net ID: 5899)
 
 
-
+«[Català](../ca/#bpn5899)» 
 
 
 
@@ -2422,7 +2422,7 @@ Glòria sigui a Tu, oh Déu meu! Veritablement, aquet serf Teu i aquesta serva T
 (Bahaiprayers.net ID: 5900)
 
 
-
+«[Català](../ca/#bpn5900)» 
 
 
 
@@ -2435,7 +2435,7 @@ En veritat Tu ets el Generós; en veritat Tu ets el Tot Poderós; en veritat Tu 
 (Bahaiprayers.net ID: 5901)
 
 
-
+«[Català](../ca/#bpn5901)» 
 
 
 
@@ -2451,7 +2451,7 @@ Oh Senyor, he girat el meu rostre envers el Teu regne d’unitat i estic immers 
 (Bahaiprayers.net ID: 5904)
 
 
-
+«[Català](../ca/#bpn5904)» 
 
 
 
@@ -2472,7 +2472,7 @@ No hi ha altre Déu sinó Tu, Qui ajuda en el perill, Qui subsisteix per Si
 (Bahaiprayers.net ID: 5758)
 
 
-
+«[Català](../ca/#bpn5758)» 
 
 
 
@@ -2552,7 +2552,7 @@ Testimonio, oh Déu meu, el què han testimoniat els Teus Escollits, i reconec e
 (Bahaiprayers.net ID: 5760)
 
 
-
+«[Català](../ca/#bpn5760)» 
 
 
 
@@ -2596,7 +2596,7 @@ Dono testimoni de la Teva Unitat i la Teva Unicitat, i de que Tu ets Déu i no h
 (Bahaiprayers.net ID: 5759)
 
 
-
+«[Català](../ca/#bpn5759)» 
 
 
 
@@ -2612,7 +2612,7 @@ Tu em veus,oh Senyor meu, amb el rostre girat cap al cel de la Teva munificènci
 (Bahaiprayers.net ID: 5905)
 
 
-
+«[Català](../ca/#bpn5905)» 
 
 
 
@@ -2625,7 +2625,7 @@ Jo soc, oh Déu meu, el Teu serf i el fill del Teu serf. He reconegut la Teva ve
 (Bahaiprayers.net ID: 5906)
 
 
-
+«[Català](../ca/#bpn5906)» 
 
 
 
@@ -2639,7 +2639,7 @@ Perdona, llavors, oh Senyor meu, els Teus serfs i les Teves serves. Tu ets en ve
 (Bahaiprayers.net ID: 5907)
 
 
-
+«[Català](../ca/#bpn5907)» 
 
 
 
@@ -2652,7 +2652,7 @@ T’imploro, oh Déu meu, per la Teva misericòrdia què ha sobrepassat tot el q
 (Bahaiprayers.net ID: 5908)
 
 
-
+«[Català](../ca/#bpn5908)» 
 
 
 
@@ -2666,7 +2666,7 @@ Oh Senyor meu! Ningú hi ha què em tracti generosament, envers qui jo pugui gir
 (Bahaiprayers.net ID: 5909)
 
 
-
+«[Català](../ca/#bpn5909)» 
 
 
 
@@ -2678,7 +2678,7 @@ Lloat siguis Tu, oh Senyor! Perdona’ns els nostres pecats, tingues misericòrd
 (Bahaiprayers.net ID: 5910)
 
 
-
+«[Català](../ca/#bpn5910)» 
 
 
 
@@ -2693,7 +2693,7 @@ Tu ets el Governant Suprem, el Poderós Faedor, l’Exaltat, Qui tot ho estima.
 (Bahaiprayers.net ID: 5911)
 
 
-
+«[Català](../ca/#bpn5911)» 
 
 
 
@@ -2706,7 +2706,7 @@ Glorificat ets Tu, oh Senyor. Tu perdones en tot moment els pecats d’aquells e
 (Bahaiprayers.net ID: 5912)
 
 
-
+«[Català](../ca/#bpn5912)» 
 
 
 
@@ -2718,7 +2718,7 @@ Et prego, oh Senyor meu, que em perdonis per qualsevol menció feta apart de la 
 (Bahaiprayers.net ID: 5913)
 
 
-
+«[Català](../ca/#bpn5913)» 
 
 
 
@@ -2731,7 +2731,7 @@ Oh Senyor! Si Tu no em perdones, qui serà qui m’atorgui perdó?, i si Tu no t
 (Bahaiprayers.net ID: 5914)
 
 
-
+«[Català](../ca/#bpn5914)» 
 
 
 
@@ -2743,7 +2743,7 @@ Oh Tu, Senyor perdonador! Tu ets el refugi de tots aquests serfs Teus. Tu coneix
 (Bahaiprayers.net ID: 5915)
 
 
-
+«[Català](../ca/#bpn5915)» 
 
 
 
@@ -2761,7 +2761,7 @@ Tu ets, en veritat, el tot Poderós, el Més Exaltat, Qui sempre perdona, el Mé
 (Bahaiprayers.net ID: 5916)
 
 
-
+«[Català](../ca/#bpn5916)» 
 
 
 
@@ -2774,7 +2774,7 @@ Protegeix-lo també, oh Déu meu, pel poder de la Teva immensurable majestat, de
 (Bahaiprayers.net ID: 5917)
 
 
-
+«[Català](../ca/#bpn5917)» 
 
 
 
@@ -2790,7 +2790,7 @@ Tu ets veritablement, el Tot Gloriós, el Més Generós.
 (Bahaiprayers.net ID: 5918)
 
 
-
+«[Català](../ca/#bpn5918)» 
 
 
 
@@ -2802,7 +2802,7 @@ Oh Déu, Déu meu! He deixat la meva llar agafant-me fortament a la corda del Te
 (Bahaiprayers.net ID: 5919)
 
 
-
+«[Català](../ca/#bpn5919)» 
 
 
 
@@ -2818,7 +2818,7 @@ La Glòria de Déu descansi sobre teu, Oh Tu sol ixent! Testimonia el què Déu 
 (Bahaiprayers.net ID: 5927)
 
 
-
+«[Català](../ca/#bpn5927)» 
 
 
 
@@ -2831,7 +2831,7 @@ Concedeix-me el Teu perdó, així com a tots els creients que respongueren la Te
 (Bahaiprayers.net ID: 5920)
 
 
-
+«[Català](../ca/#bpn5920)» 
 
 
 
@@ -2845,7 +2845,7 @@ Immesurablement exaltat ets Tu, oh Senyor! Protegeix-los del què hi ha davant d
 (Bahaiprayers.net ID: 5921)
 
 
-
+«[Català](../ca/#bpn5921)» 
 
 
 
@@ -2860,7 +2860,7 @@ No existeix poder ni fortalesa més que en Déu, el Més Exaltat, el Més Poder�
 (Bahaiprayers.net ID: 5922)
 
 
-
+«[Català](../ca/#bpn5922)» 
 
 
 
@@ -2872,7 +2872,7 @@ Oh Déu, Déu meu! Escuda els Teus serfs lleials contra els mals de l’egoisme 
 (Bahaiprayers.net ID: 5923)
 
 
-
+«[Català](../ca/#bpn5923)» 
 
 
 
@@ -2886,7 +2886,7 @@ Veritablement, Tu ets el Protector, el Guardià, el Preservador, el Suficient i,
 (Bahaiprayers.net ID: 5924)
 
 
-
+«[Català](../ca/#bpn5924)» 
 
 
 
@@ -2905,7 +2905,7 @@ Oh Tu, Divina Providència, preserva’ns i protegeix-nos! Oh Tu qui ets el nost
 (Bahaiprayers.net ID: 5925)
 
 
-
+«[Català](../ca/#bpn5925)» 
 
 
 
@@ -2920,7 +2920,7 @@ Aixopluga sota la Teva protecció, oh Tu Esperit de Puresa, Tu qui ets el Prove�
 (Bahaiprayers.net ID: 5926)
 
 
-
+«[Català](../ca/#bpn5926)» 
 
 
 
@@ -2937,7 +2937,7 @@ Fes, doncs, que em torni completament a Tu, que posi en Tu tota la meva confian�
 (Bahaiprayers.net ID: 5928)
 
 
-
+«[Català](../ca/#bpn5928)» 
 
 
 
@@ -2952,7 +2952,7 @@ Potent ets Tu per fer el què Et plagi. No hi ha Déu sinó Tu, Qui ajuda en el 
 (Bahaiprayers.net ID: 5929)
 
 
-
+«[Català](../ca/#bpn5929)» 
 
 
 
@@ -2966,7 +2966,7 @@ T’imploro, oh Déu meu, per ells i pels sospirs què exhalen els seus cors en 
 (Bahaiprayers.net ID: 5930)
 
 
-
+«[Català](../ca/#bpn5930)» 
 
 
 
@@ -2978,7 +2978,7 @@ Oh Tu, les proves del qual són la medicina guaridora pels qui estan prop Teu, l
 (Bahaiprayers.net ID: 5931)
 
 
-
+«[Català](../ca/#bpn5931)» 
 
 
 
@@ -2992,7 +2992,7 @@ Per cloure et demano, per la llum del Teu rostre, que beneeixis els meus afers, 
 (Bahaiprayers.net ID: 5932)
 
 
-
+«[Català](../ca/#bpn5932)» 
 
 
 
@@ -3006,7 +3006,7 @@ Tu en veritat, ets Qui sempre perdona, el Més Compassiu.
 (Bahaiprayers.net ID: 5933)
 
 
-
+«[Català](../ca/#bpn5933)» 
 
 
 
@@ -3018,7 +3018,7 @@ Veritablement soc el Teu serf, oh Déu meu, i el Teu captaire i el Teu suplicant
 (Bahaiprayers.net ID: 5934)
 
 
-
+«[Català](../ca/#bpn5934)» 
 
 
 
@@ -3032,7 +3032,7 @@ Oh Déu meu! Jo et demano per les evidències del Teu favor, em permetis acostar
 (Bahaiprayers.net ID: 5935)
 
 
-
+«[Català](../ca/#bpn5935)» 
 
 
 
@@ -3044,7 +3044,7 @@ Oh Deu,Déu meu, el meu Benamat, el desig del meu cor.
 (Bahaiprayers.net ID: 5936)
 
 
-
+«[Català](../ca/#bpn5936)» 
 
 
 
@@ -3056,7 +3056,7 @@ Oh Senyor! Tu ets Qui dissipa totes les penes i elimina totes les afliccions. Tu
 (Bahaiprayers.net ID: 5937)
 
 
-
+«[Català](../ca/#bpn5937)» 
 
 
 
@@ -3068,7 +3068,7 @@ Et suplico pel Teu poder, oh Déu meu! No permetis que cap mal m’empaiti a l�
 (Bahaiprayers.net ID: 5938)
 
 
-
+«[Català](../ca/#bpn5938)» 
 
 
 
@@ -3080,7 +3080,7 @@ Hi ha algú que ens lliuri de les dificultats tret de Déu? Digues: Lloat sia D�
 (Bahaiprayers.net ID: 5939)
 
 
-
+«[Català](../ca/#bpn5939)» 
 
 
 
@@ -3092,7 +3092,7 @@ Digues: Déu és suficient a totes les coses per sobre totes les coses, i res al
 (Bahaiprayers.net ID: 5940)
 
 
-
+«[Català](../ca/#bpn5940)» 
 
 
 
@@ -3106,7 +3106,7 @@ Immensament exaltat ets Tu, oh Senyor dels cels i de la terra, per sobre de la l
 (Bahaiprayers.net ID: 5941)
 
 
-
+«[Català](../ca/#bpn5941)» 
 
 
 
@@ -3127,7 +3127,7 @@ Tu ets veritablement el Tot Poderós, el Perdonador, el Compassiu.
 (Bahaiprayers.net ID: 5942)
 
 
-
+«[Català](../ca/#bpn5942)» 
 
 
 
@@ -3140,7 +3140,7 @@ Et suplico que permetis a aquest serf atènyer el què és la causa de la seva s
 (Bahaiprayers.net ID: 5943)
 
 
-
+«[Català](../ca/#bpn5943)» 
 
 
 
@@ -3153,7 +3153,7 @@ Tu ets Qui té poder de fer el què Li plagui i Qui sosté al Seu puny les regne
 (Bahaiprayers.net ID: 5944)
 
 
-
+«[Català](../ca/#bpn5944)» 
 
 
 
@@ -3167,7 +3167,7 @@ Crea en mi un cor pur, oh Déu meu, i renova una consciència tranquil·la dins 
 (Bahaiprayers.net ID: 5954)
 
 
-
+«[Català](../ca/#bpn5954)» 
 
 
 
@@ -3182,7 +3182,7 @@ Tu ets veritablement el Tot Poderós, el Tot Gloriós, l’Omnipotent.
 (Bahaiprayers.net ID: 5955)
 
 
-
+«[Català](../ca/#bpn5955)» 
 
 
 
@@ -3195,7 +3195,7 @@ Potent ets Tu per a fer el que Et plagui. Tu ets en veritat el Més Exaltat, el 
 (Bahaiprayers.net ID: 5956)
 
 
-
+«[Català](../ca/#bpn5956)» 
 
 
 
@@ -3211,7 +3211,7 @@ Senyor! No m’apartis de l’oceà de la Teva riquesa i del cel de la Teva mise
 (Bahaiprayers.net ID: 5957)
 
 
-
+«[Català](../ca/#bpn5957)» 
 
 
 
@@ -3233,7 +3233,7 @@ Lloat sigui Déu, Senyor dels mons.
 (Bahaiprayers.net ID: 5958)
 
 
-
+«[Català](../ca/#bpn5958)» 
 
 
 
@@ -3248,7 +3248,7 @@ En veritat, si Tu desitgessis atorgar la Teva benedicció a un serf, eliminaries
 (Bahaiprayers.net ID: 5945)
 
 
-
+«[Català](../ca/#bpn5945)» 
 
 
 
@@ -3263,7 +3263,7 @@ Tu ets el Fort, el Poderós, i Tu ets el Déu de força, l’Omnipotent, Qui tot
 (Bahaiprayers.net ID: 5946)
 
 
-
+«[Català](../ca/#bpn5946)» 
 
 
 
@@ -3278,7 +3278,7 @@ Oh Senyor, Déu meu! Aquests serfs Teus són humils; enalteix-los al Teu regne d
 (Bahaiprayers.net ID: 5947)
 
 
-
+«[Català](../ca/#bpn5947)» 
 
 
 
@@ -3292,7 +3292,7 @@ Tu ets veritablement el Poderós, l’Exaltat, el Potent, Aquell qui als cels i 
 (Bahaiprayers.net ID: 5948)
 
 
-
+«[Català](../ca/#bpn5948)» 
 
 
 
@@ -3307,7 +3307,7 @@ Veritablement Tu ets el Més Generós, l’ajuda del Qual, tots els homes busque
 (Bahaiprayers.net ID: 5949)
 
 
-
+«[Català](../ca/#bpn5949)» 
 
 
 
@@ -3331,7 +3331,7 @@ Tu ets veritablement el Benèvol, el glorificat, el Poderós, l’Omnipotent.
 (Bahaiprayers.net ID: 5950)
 
 
-
+«[Català](../ca/#bpn5950)» 
 
 
 
@@ -3344,7 +3344,7 @@ Oh Déu! Tu ets més amic meu que jo ho sóc de mi mateix. A Tu em consagro, oh 
 (Bahaiprayers.net ID: 5951)
 
 
-
+«[Català](../ca/#bpn5951)» 
 
 
 
@@ -3357,7 +3357,7 @@ Veritablement Tu ets el més Generós, el Senyor de gràcia abundant. No hi ha a
 (Bahaiprayers.net ID: 5952)
 
 
-
+«[Català](../ca/#bpn5952)» 
 
 
 
@@ -3370,7 +3370,7 @@ Veritablement Tu ets el Confirmador, l’Auxiliador, el Poderós, el Generós, e
 (Bahaiprayers.net ID: 5953)
 
 
-
+«[Català](../ca/#bpn5953)» 
 
 
 
@@ -3387,7 +3387,7 @@ En veritat Tu ets el Poderós, el Potent, el Protector, el Fort, el Benèfic! En
 (Bahaiprayers.net ID: 5959)
 
 
-
+«[Català](../ca/#bpn5959)» 
 
 
 
@@ -3404,7 +3404,7 @@ En veritat T ets l’Omnipotent i el Tot Poderós.
 (Bahaiprayers.net ID: 5960)
 
 
-
+«[Català](../ca/#bpn5960)» 
 
 
 
@@ -3417,7 +3417,7 @@ Veritablement, Tu ets el Generós. Veritablement, Tu ets el Misericordiós. Veri
 (Bahaiprayers.net ID: 5961)
 
 
-
+«[Català](../ca/#bpn5961)» 
 
 
 
@@ -3431,7 +3431,7 @@ Tu ets fort. Tu ets poderós. Tu ets el Donador i Tu ets el Tot generós.
 (Bahaiprayers.net ID: 5962)
 
 
-
+«[Català](../ca/#bpn5962)» 
 
 
 
@@ -3446,7 +3446,7 @@ Oh Déu! Concedeix-nos la Teva providència. Tu ets el Poderós. Tu ets el Donad
 (Bahaiprayers.net ID: 5963)
 
 
-
+«[Català](../ca/#bpn5963)» 
 
 
 
@@ -3461,7 +3461,7 @@ Tu ets el Poderós, l’Omnipotent, el Senyor d’abundant gràcia.
 (Bahaiprayers.net ID: 5964)
 
 
-
+«[Català](../ca/#bpn5964)» 
 
 
 
@@ -3475,7 +3475,7 @@ Tu ets el Donador, l’Atorgador, Qui sempre estima.
 (Bahaiprayers.net ID: 5965)
 
 
-
+«[Català](../ca/#bpn5965)» 
 
 
 
@@ -3489,7 +3489,7 @@ Oh Déu! Dispersa tots els elements que siguin causa de discòrdia i prepara per
 (Bahaiprayers.net ID: 5966)
 
 
-
+«[Català](../ca/#bpn5966)» 
 
 
 
@@ -3606,7 +3606,7 @@ Si tots els serfs llegeixen i mediten sobre això se’ls encendrà a les venes 
 (Bahaiprayers.net ID: 5764)
 
 
-
+«[Català](../ca/#bpn5764)» 
 
 
 
@@ -3684,7 +3684,7 @@ Glorificat sigui el meu Senyor el Més Elevat!
 (Bahaiprayers.net ID: 5763)
 
 
-
+«[Català](../ca/#bpn5763)» 
 
 
 
@@ -3721,7 +3721,7 @@ Vertaderament Ell és el Misericordiós, el Compassiu. Lloat sia Déu, senyor de
 (Bahaiprayers.net ID: 5765)
 
 
-
+«[Català](../ca/#bpn5765)» 
 
 
 
@@ -3747,7 +3747,7 @@ Beneeix Tu, oh Senyor Déu meu, al diví Arbre del Lotus, a llurs fulles als seu
 (Bahaiprayers.net ID: 5761)
 
 
-
+«[Català](../ca/#bpn5761)» 
 
 
 
@@ -3773,7 +3773,7 @@ Amb aquesta oració el Teu serf et crida a l’aurora i a la nit. Compleix el de
 (Bahaiprayers.net ID: 5762)
 
 
-
+«[Català](../ca/#bpn5762)» 
 
 
 
@@ -3792,7 +3792,7 @@ Potent ets Tu per fer el què desitgis. No hi ha altre Déu més que Tu, l’Omn
 (Bahaiprayers.net ID: 5967)
 
 
-
+«[Català](../ca/#bpn5967)» 
 
 
 
@@ -3805,7 +3805,7 @@ Potent ets Tu per fer el què et plagui. Tu en veritat, ets Qui ajuda en el peri
 (Bahaiprayers.net ID: 5968)
 
 
-
+«[Català](../ca/#bpn5968)» 
 
 
 
@@ -3818,7 +3818,7 @@ Ordena, doncs, per mi tot el bo què has fet descendir al Teu Llibre. Veritablem
 (Bahaiprayers.net ID: 5969)
 
 
-
+«[Català](../ca/#bpn5969)» 
 
 
 
@@ -3832,7 +3832,7 @@ En veritat, Tu ets nostre Senyor i el Senyor de totes les coses. A les Teves man
 (Bahaiprayers.net ID: 5970)
 
 
-
+«[Català](../ca/#bpn5970)» 
 
 
 
@@ -3845,7 +3845,7 @@ Gran és la benedicció d’aquells, la sang dels quals has escollit per regar a
 (Bahaiprayers.net ID: 5971)
 
 
-
+«[Català](../ca/#bpn5971)» 
 
 
 
@@ -3858,7 +3858,7 @@ Des de temps immemorial Tu has estat potent per fer el què T’ha plagut i tran
 (Bahaiprayers.net ID: 5972)
 
 
-
+«[Català](../ca/#bpn5972)» 
 
 
 
@@ -3873,7 +3873,7 @@ Permet, oh Senyor, que llurs cors, mitjançant la seva lleialtat cap a la Teva i
 (Bahaiprayers.net ID: 5973)
 
 
-
+«[Català](../ca/#bpn5973)» 
 
 
 
@@ -3888,7 +3888,7 @@ La glòria de les glòries sia amb aquells què són fidels i ferms.
 (Bahaiprayers.net ID: 5974)
 
 
-
+«[Català](../ca/#bpn5974)» 
 
 
 
@@ -3902,7 +3902,7 @@ Veritablement Tu ets el Donador, el qui Sempre Confereix. Veritablement Tu ets e
 (Bahaiprayers.net ID: 5975)
 
 
-
+«[Català](../ca/#bpn5975)» 
 
 
 
@@ -3922,7 +3922,7 @@ Veritablement Tu ets el Tot Poderós, Qui subsisteix per Si mateix, el Donador, 
 (Bahaiprayers.net ID: 5976)
 
 
-
+«[Català](../ca/#bpn5976)» 
 
 
 

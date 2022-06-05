@@ -90,7 +90,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11160)
 
 
-
+«[नेपाली](../ne/#bpn11160)» 
 
 
 
@@ -104,7 +104,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11161)
 
 
-
+«[नेपाली](../ne/#bpn11161)» 
 
 
 
@@ -118,7 +118,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11162)
 
 
-
+«[नेपाली](../ne/#bpn11162)» 
 
 
 
@@ -140,7 +140,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11163)
 
 
-
+«[नेपाली](../ne/#bpn11163)» 
 
 
 
@@ -152,7 +152,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11164)
 
 
-
+«[नेपाली](../ne/#bpn11164)» 
 
 
 
@@ -170,7 +170,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11165)
 
 
-
+«[नेपाली](../ne/#bpn11165)» 
 
 
 
@@ -186,7 +186,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11166)
 
 
-
+«[नेपाली](../ne/#bpn11166)» 
 
 
 
@@ -200,7 +200,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11167)
 
 
-
+«[नेपाली](../ne/#bpn11167)» 
 
 
 
@@ -224,7 +224,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11200)
 
 
-
+«[नेपाली](../ne/#bpn11200)» 
 
 
 
@@ -276,7 +276,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11198)
 
 
-
+«[नेपाली](../ne/#bpn11198)» 
 
 
 
@@ -293,7 +293,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11149)
 
 
-
+«[नेपाली](../ne/#bpn11149)» 
 
 
 
@@ -305,7 +305,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11150)
 
 
-
+«[नेपाली](../ne/#bpn11150)» 
 
 
 
@@ -319,7 +319,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11151)
 
 
-
+«[नेपाली](../ne/#bpn11151)» 
 
 
 
@@ -339,7 +339,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11152)
 
 
-
+«[नेपाली](../ne/#bpn11152)» 
 
 
 
@@ -367,7 +367,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11153)
 
 
-
+«[नेपाली](../ne/#bpn11153)» 
 
 
 
@@ -379,7 +379,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11157)
 
 
-
+«[नेपाली](../ne/#bpn11157)» 
 
 
 
@@ -393,7 +393,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11154)
 
 
-
+«[नेपाली](../ne/#bpn11154)» 
 
 
 
@@ -411,7 +411,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11155)
 
 
-
+«[नेपाली](../ne/#bpn11155)» 
 
 
 
@@ -429,7 +429,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11156)
 
 
-
+«[नेपाली](../ne/#bpn11156)» 
 
 
 
@@ -443,7 +443,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11158)
 
 
-
+«[नेपाली](../ne/#bpn11158)» 
 
 
 
@@ -457,7 +457,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11159)
 
 
-
+«[नेपाली](../ne/#bpn11159)» 
 
 
 
@@ -477,7 +477,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11195)
 
 
-
+«[नेपाली](../ne/#bpn11195)» 
 
 
 
@@ -493,7 +493,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11196)
 
 
-
+«[नेपाली](../ne/#bpn11196)» 
 
 
 
@@ -513,7 +513,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11197)
 
 
-
+«[नेपाली](../ne/#bpn11197)» 
 
 
 
@@ -545,7 +545,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11139)
 
 
-
+«[नेपाली](../ne/#bpn11139)» 
 
 
 
@@ -559,7 +559,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11140)
 
 
-
+«[नेपाली](../ne/#bpn11140)» 
 
 
 
@@ -587,7 +587,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11191)
 
 
-
+«[नेपाली](../ne/#bpn11191)» 
 
 
 
@@ -623,7 +623,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11192)
 
 
-
+«[नेपाली](../ne/#bpn11192)» 
 
 
 
@@ -641,7 +641,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11188)
 
 
-
+«[नेपाली](../ne/#bpn11188)» 
 
 
 
@@ -653,7 +653,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11189)
 
 
-
+«[नेपाली](../ne/#bpn11189)» 
 
 
 
@@ -673,7 +673,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11190)
 
 
-
+«[नेपाली](../ne/#bpn11190)» 
 
 
 
@@ -689,7 +689,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7004)
 
 
-
+«[नेपाली](../ne/#bpn7004)» 
 
 
 
@@ -701,7 +701,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11092)
 
 
-
+«[नेपाली](../ne/#bpn11092)» 
 
 
 
@@ -713,7 +713,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11093)
 
 
-
+«[नेपाली](../ne/#bpn11093)» 
 
 
 
@@ -725,7 +725,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11088)
 
 
-
+«[नेपाली](../ne/#bpn11088)» 
 
 
 
@@ -737,7 +737,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11089)
 
 
-
+«[नेपाली](../ne/#bpn11089)» 
 
 
 
@@ -749,7 +749,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11090)
 
 
-
+«[नेपाली](../ne/#bpn11090)» 
 
 
 
@@ -762,7 +762,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11091)
 
 
-
+«[नेपाली](../ne/#bpn11091)» 
 
 
 
@@ -774,7 +774,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11094)
 
 
-
+«[नेपाली](../ne/#bpn11094)» 
 
 
 
@@ -799,7 +799,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11116)
 
 
-
+«[नेपाली](../ne/#bpn11116)» 
 
 
 
@@ -819,7 +819,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11111)
 
 
-
+«[नेपाली](../ne/#bpn11111)» 
 
 
 
@@ -833,7 +833,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11112)
 
 
-
+«[नेपाली](../ne/#bpn11112)» 
 
 
 
@@ -845,7 +845,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11113)
 
 
-
+«[नेपाली](../ne/#bpn11113)» 
 
 
 
@@ -861,7 +861,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11114)
 
 
-
+«[नेपाली](../ne/#bpn11114)» 
 
 
 
@@ -879,7 +879,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11115)
 
 
-
+«[नेपाली](../ne/#bpn11115)» 
 
 
 
@@ -903,7 +903,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7003)
 
 
-
+«[नेपाली](../ne/#bpn7003)» 
 
 
 
@@ -935,7 +935,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11199)
 
 
-
+«[नेपाली](../ne/#bpn11199)» 
 
 
 
@@ -962,7 +962,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11194)
 
 
-
+«[नेपाली](../ne/#bpn11194)» 
 
 
 
@@ -978,7 +978,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11105)
 
 
-
+«[नेपाली](../ne/#bpn11105)» 
 
 
 
@@ -996,7 +996,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11141)
 
 
-
+«[नेपाली](../ne/#bpn11141)» 
 
 
 
@@ -1012,7 +1012,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11142)
 
 
-
+«[नेपाली](../ne/#bpn11142)» 
 
 
 
@@ -1026,7 +1026,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11143)
 
 
-
+«[नेपाली](../ne/#bpn11143)» 
 
 
 
@@ -1046,7 +1046,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11144)
 
 
-
+«[नेपाली](../ne/#bpn11144)» 
 
 
 
@@ -1064,7 +1064,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11168)
 
 
-
+«[नेपाली](../ne/#bpn11168)» 
 
 
 
@@ -1082,7 +1082,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11169)
 
 
-
+«[नेपाली](../ne/#bpn11169)» 
 
 
 
@@ -1100,7 +1100,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11170)
 
 
-
+«[नेपाली](../ne/#bpn11170)» 
 
 
 
@@ -1122,7 +1122,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11171)
 
 
-
+«[नेपाली](../ne/#bpn11171)» 
 
 
 
@@ -1134,7 +1134,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11172)
 
 
-
+«[नेपाली](../ne/#bpn11172)» 
 
 
 
@@ -1149,7 +1149,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11173)
 
 
-
+«[नेपाली](../ne/#bpn11173)» 
 
 
 
@@ -1167,7 +1167,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11174)
 
 
-
+«[नेपाली](../ne/#bpn11174)» 
 
 
 
@@ -1189,7 +1189,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11175)
 
 
-
+«[नेपाली](../ne/#bpn11175)» 
 
 
 
@@ -1205,7 +1205,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11176)
 
 
-
+«[नेपाली](../ne/#bpn11176)» 
 
 
 
@@ -1223,7 +1223,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11177)
 
 
-
+«[नेपाली](../ne/#bpn11177)» 
 
 
 
@@ -1239,7 +1239,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11178)
 
 
-
+«[नेपाली](../ne/#bpn11178)» 
 
 
 
@@ -1251,7 +1251,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11179)
 
 
-
+«[नेपाली](../ne/#bpn11179)» 
 
 
 
@@ -1267,7 +1267,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7010)
 
 
-
+«[नेपाली](../ne/#bpn7010)» 
 
 
 
@@ -1287,7 +1287,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11136)
 
 
-
+«[नेपाली](../ne/#bpn11136)» 
 
 
 
@@ -1299,7 +1299,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11137)
 
 
-
+«[नेपाली](../ne/#bpn11137)» 
 
 
 
@@ -1319,7 +1319,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11138)
 
 
-
+«[नेपाली](../ne/#bpn11138)» 
 
 
 
@@ -1339,7 +1339,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11117)
 
 
-
+«[नेपाली](../ne/#bpn11117)» 
 
 
 
@@ -1355,7 +1355,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11118)
 
 
-
+«[नेपाली](../ne/#bpn11118)» 
 
 
 
@@ -1371,7 +1371,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11119)
 
 
-
+«[नेपाली](../ne/#bpn11119)» 
 
 
 
@@ -1387,7 +1387,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11120)
 
 
-
+«[नेपाली](../ne/#bpn11120)» 
 
 
 
@@ -1407,7 +1407,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11121)
 
 
-
+«[नेपाली](../ne/#bpn11121)» 
 
 
 
@@ -1421,7 +1421,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11122)
 
 
-
+«[नेपाली](../ne/#bpn11122)» 
 
 
 
@@ -1460,7 +1460,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11081)
 
 
-
+«[नेपाली](../ne/#bpn11081)» 
 
 
 
@@ -1488,7 +1488,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11193)
 
 
-
+«[नेपाली](../ne/#bpn11193)» 
 
 
 
@@ -1510,7 +1510,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11126)
 
 
-
+«[नेपाली](../ne/#bpn11126)» 
 
 
 
@@ -1528,7 +1528,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11128)
 
 
-
+«[नेपाली](../ne/#bpn11128)» 
 
 
 
@@ -1542,7 +1542,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11129)
 
 
-
+«[नेपाली](../ne/#bpn11129)» 
 
 
 
@@ -1570,7 +1570,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11130)
 
 
-
+«[नेपाली](../ne/#bpn11130)» 
 
 
 
@@ -1584,7 +1584,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11131)
 
 
-
+«[नेपाली](../ne/#bpn11131)» 
 
 
 
@@ -1615,7 +1615,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11095)
 
 
-
+«[नेपाली](../ne/#bpn11095)» 
 
 
 
@@ -1629,7 +1629,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11096)
 
 
-
+«[नेपाली](../ne/#bpn11096)» 
 
 
 
@@ -1642,7 +1642,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11097)
 
 
-
+«[नेपाली](../ne/#bpn11097)» 
 
 
 
@@ -1656,7 +1656,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11098)
 
 
-
+«[नेपाली](../ne/#bpn11098)» 
 
 
 
@@ -1670,7 +1670,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11099)
 
 
-
+«[नेपाली](../ne/#bpn11099)» 
 
 
 
@@ -1686,7 +1686,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11100)
 
 
-
+«[नेपाली](../ne/#bpn11100)» 
 
 
 
@@ -1702,7 +1702,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11101)
 
 
-
+«[नेपाली](../ne/#bpn11101)» 
 
 
 
@@ -1716,7 +1716,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7011)
 
 
-
+«[नेपाली](../ne/#bpn7011)» 
 
 
 
@@ -1733,7 +1733,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7009)
 
 
-
+«[नेपाली](../ne/#bpn7009)» 
 
 
 
@@ -1749,7 +1749,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7007)
 
 
-
+«[नेपाली](../ne/#bpn7007)» 
 
 
 
@@ -1765,7 +1765,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11123)
 
 
-
+«[नेपाली](../ne/#bpn11123)» 
 
 
 
@@ -1777,7 +1777,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11124)
 
 
-
+«[नेपाली](../ne/#bpn11124)» 
 
 
 
@@ -1797,7 +1797,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11125)
 
 
-
+«[नेपाली](../ne/#bpn11125)» 
 
 
 
@@ -1900,7 +1900,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11127)
 
 
-
+«[नेपाली](../ne/#bpn11127)» 
 
 
 
@@ -1970,7 +1970,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11082)
 
 
-
+«[नेपाली](../ne/#bpn11082)» 
 
 
 
@@ -1993,7 +1993,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11132)
 
 
-
+«[नेपाली](../ne/#bpn11132)» 
 
 
 
@@ -2011,7 +2011,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11133)
 
 
-
+«[नेपाली](../ne/#bpn11133)» 
 
 
 
@@ -2026,7 +2026,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11134)
 
 
-
+«[नेपाली](../ne/#bpn11134)» 
 
 
 
@@ -2040,7 +2040,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11135)
 
 
-
+«[नेपाली](../ne/#bpn11135)» 
 
 
 
@@ -2056,7 +2056,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11181)
 
 
-
+«[नेपाली](../ne/#bpn11181)» 
 
 
 
@@ -2077,7 +2077,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11180)
 
 
-
+«[नेपाली](../ne/#bpn11180)» 
 
 
 
@@ -2095,7 +2095,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11182)
 
 
-
+«[नेपाली](../ne/#bpn11182)» 
 
 
 
@@ -2107,7 +2107,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11183)
 
 
-
+«[नेपाली](../ne/#bpn11183)» 
 
 
 
@@ -2119,7 +2119,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11184)
 
 
-
+«[नेपाली](../ne/#bpn11184)» 
 
 
 
@@ -2131,7 +2131,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 7013)
 
 
-
+«[नेपाली](../ne/#bpn7013)» 
 
 
 
@@ -2143,7 +2143,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11185)
 
 
-
+«[नेपाली](../ne/#bpn11185)» 
 
 
 
@@ -2157,7 +2157,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11186)
 
 
-
+«[नेपाली](../ne/#bpn11186)» 
 
 
 
@@ -2175,7 +2175,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11187)
 
 
-
+«[नेपाली](../ne/#bpn11187)» 
 
 
 
@@ -2215,7 +2215,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11145)
 
 
-
+«[नेपाली](../ne/#bpn11145)» 
 
 
 
@@ -2227,7 +2227,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11146)
 
 
-
+«[नेपाली](../ne/#bpn11146)» 
 
 
 
@@ -2239,7 +2239,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11147)
 
 
-
+«[नेपाली](../ne/#bpn11147)» 
 
 
 
@@ -2255,7 +2255,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11148)
 
 
-
+«[नेपाली](../ne/#bpn11148)» 
 
 
 
@@ -2277,7 +2277,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11108)
 
 
-
+«[नेपाली](../ne/#bpn11108)» 
 
 
 
@@ -2293,7 +2293,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11109)
 
 
-
+«[नेपाली](../ne/#bpn11109)» 
 
 
 
@@ -2307,7 +2307,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11110)
 
 
-
+«[नेपाली](../ne/#bpn11110)» 
 
 
 
@@ -2323,7 +2323,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11083)
 
 
-
+«[नेपाली](../ne/#bpn11083)» 
 
 
 
@@ -2337,7 +2337,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11084)
 
 
-
+«[नेपाली](../ne/#bpn11084)» 
 
 
 
@@ -2349,7 +2349,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11102)
 
 
-
+«[नेपाली](../ne/#bpn11102)» 
 
 
 
@@ -2361,7 +2361,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11085)
 
 
-
+«[नेपाली](../ne/#bpn11085)» 
 
 
 
@@ -2373,7 +2373,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11086)
 
 
-
+«[नेपाली](../ne/#bpn11086)» 
 
 
 
@@ -2385,7 +2385,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11087)
 
 
-
+«[नेपाली](../ne/#bpn11087)» 
 
 
 
@@ -2399,7 +2399,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11103)
 
 
-
+«[नेपाली](../ne/#bpn11103)» 
 
 
 
@@ -2415,7 +2415,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11104)
 
 
-
+«[नेपाली](../ne/#bpn11104)» 
 
 
 
@@ -2436,7 +2436,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11106)
 
 
-
+«[नेपाली](../ne/#bpn11106)» 
 
 
 
@@ -2452,7 +2452,7 @@ tags = ['lang=ne', 'prayerbook']
 (Bahaiprayers.net ID: 11107)
 
 
-
+«[नेपाली](../ne/#bpn11107)» 
 
 
 

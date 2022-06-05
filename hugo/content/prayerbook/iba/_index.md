@@ -105,7 +105,7 @@ Nuan, lalu beri iya tusu ari ruang dada Penabat Nuan. Kemansangka anak kayu ti t
 (Bahaiprayers.net ID: 12611)
 
 
-
+«[Iban](../iba/#bpn12611)» 
 
 
 
@@ -117,7 +117,7 @@ O Nuan Tuhan ti nadai banding! Asuh anakmit tu nusu ba ruang dada pengerindu-pen
 (Bahaiprayers.net ID: 12612)
 
 
-
+«[Iban](../iba/#bpn12612)» 
 
 
 
@@ -130,7 +130,7 @@ Nuan meh ti Pemisi, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12613)
 
 
-
+«[Iban](../iba/#bpn12613)» 
 
 
 
@@ -142,7 +142,7 @@ O Petara! Ajar sida anakmit tu. Sida anakmit tu utai tanam ba madang buah Nuan, 
 (Bahaiprayers.net ID: 12614)
 
 
-
+«[Iban](../iba/#bpn12614)» 
 
 
 
@@ -156,7 +156,7 @@ Amat bendar, Nuan ti Bekuasa, ti Tegap, ti Meda, ti Ninga!
 (Bahaiprayers.net ID: 12615)
 
 
-
+«[Iban](../iba/#bpn12615)» 
 
 
 
@@ -169,7 +169,7 @@ Nuan ti mit tu beberekat sereta lantang; asuh iya diasi ba pemetung penyatu Nuan
 (Bahaiprayers.net ID: 12616)
 
 
-
+«[Iban](../iba/#bpn12616)» 
 
 
 
@@ -183,7 +183,7 @@ Nuan meh ti Bekuasa, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12617)
 
 
-
+«[Iban](../iba/#bpn12617)» 
 
 
 
@@ -195,7 +195,7 @@ O Petara, iring aku, jaga aku, gaga aku nyadi lampu ti terang enggau bintang ti 
 (Bahaiprayers.net ID: 12618)
 
 
-
+«[Iban](../iba/#bpn12618)» 
 
 
 
@@ -214,7 +214,7 @@ O Nuan Tuhan ti nelap! Kemendarka anembiak tu tau tulihka niat tinggi sida ti ku
 (Bahaiprayers.net ID: 12619)
 
 
-
+«[Iban](../iba/#bpn12619)» 
 
 
 
@@ -228,7 +228,7 @@ Nuan meh ti Tegap sereta Bekuasa; Nuan meh ti Penyikap enggau Penuh Pengerindu.
 (Bahaiprayers.net ID: 12620)
 
 
-
+«[Iban](../iba/#bpn12620)» 
 
 
 
@@ -241,7 +241,7 @@ Nuan meh ti Penyikap, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12621)
 
 
-
+«[Iban](../iba/#bpn12621)» 
 
 
 
@@ -254,7 +254,7 @@ Nuan ba utai tempa ti seranta tu. Sikap ba iya penemu, lalu kemendarka pengering
 (Bahaiprayers.net ID: 12622)
 
 
-
+«[Iban](../iba/#bpn12622)» 
 
 
 
@@ -271,7 +271,7 @@ Nuan meh ti Pemadu Bekuasa, ti Pemadu Mulia, ti Pemadu Bisa.
 (Bahaiprayers.net ID: 12623)
 
 
-
+«[Iban](../iba/#bpn12623)» 
 
 
 
@@ -293,7 +293,7 @@ Nuan, endang amat, ti Chukup Tegap, ti Nemu Semua, ti Ngelala Semua.
 (Bahaiprayers.net ID: 12725)
 
 
-
+«[Iban](../iba/#bpn12725)» 
 
 
 
@@ -309,7 +309,7 @@ Nuan meda, O Tuhan, jari peminta kami diangkat ngadap serega pengasih enggau pem
 (Bahaiprayers.net ID: 12626)
 
 
-
+«[Iban](../iba/#bpn12626)» 
 
 
 
@@ -321,7 +321,7 @@ Nuan meda, O Tuhan, jari peminta kami diangkat ngadap serega pengasih enggau pem
 (Bahaiprayers.net ID: 12624)
 
 
-
+«[Iban](../iba/#bpn12624)» 
 
 
 
@@ -334,7 +334,7 @@ O Petara aku! Nuan udah meransang semengat aku nyerahka peminta ia ngagai Nuan, 
 (Bahaiprayers.net ID: 12625)
 
 
-
+«[Iban](../iba/#bpn12625)» 
 
 
 
@@ -347,7 +347,7 @@ O Tuhan aku, aku nyerahka iya ti di dalam kandung aku ngagai Nuan. Lalu asuh iya
 (Bahaiprayers.net ID: 12627)
 
 
-
+«[Iban](../iba/#bpn12627)» 
 
 
 
@@ -363,7 +363,7 @@ Amat bendar, Nuan ti Berega, ti Sedia Nyikap, ti Tebuka Jari.
 (Bahaiprayers.net ID: 12628)
 
 
-
+«[Iban](../iba/#bpn12628)» 
 
 
 
@@ -375,7 +375,7 @@ O Tuhan! Dalam Rambau ti Pemadu Tebangkar tu Nuan nerima peminta ari bala anak t
 (Bahaiprayers.net ID: 12629)
 
 
-
+«[Iban](../iba/#bpn12629)» 
 
 
 
@@ -392,7 +392,7 @@ Aku minta Nuan, nengah Nuan Empu sereta nengah Iya Siku ti udah dipadu Nuan nyad
 (Bahaiprayers.net ID: 12630)
 
 
-
+«[Iban](../iba/#bpn12630)» 
 
 
 
@@ -409,7 +409,7 @@ Penyaup.
 (Bahaiprayers.net ID: 12631)
 
 
-
+«[Iban](../iba/#bpn12631)» 
 
 
 
@@ -424,7 +424,7 @@ Pemeri, lalu Nuan meh ti Seruran Pemisi!
 (Bahaiprayers.net ID: 12632)
 
 
-
+«[Iban](../iba/#bpn12632)» 
 
 
 
@@ -442,7 +442,7 @@ Nuan meh ti Bekuasa, ti Pemadu Bisa, ti Pengasih, lalu Nuan meh ti Mentas, ti Pe
 (Bahaiprayers.net ID: 12633)
 
 
-
+«[Iban](../iba/#bpn12633)» 
 
 
 
@@ -455,7 +455,7 @@ Nuan meh ti Pemeri, ti Penyikap, ti Seruran Rindu.
 (Bahaiprayers.net ID: 12634)
 
 
-
+«[Iban](../iba/#bpn12634)» 
 
 
 
@@ -471,7 +471,7 @@ Semua bala pangan Petara… patut meri enggau naka ulih, enda ngira penyampau ia
 (Bahaiprayers.net ID: 12635)
 
 
-
+«[Iban](../iba/#bpn12635)» 
 
 
 
@@ -485,7 +485,7 @@ Amat bendar, Nuan meh ti Pengenan, ti Penulung, ti Mentas, ti Pemisi, ti Meruan 
 (Bahaiprayers.net ID: 12636)
 
 
-
+«[Iban](../iba/#bpn12636)» 
 
 
 
@@ -503,7 +503,7 @@ Nambah ke nya, aku minta Nuan, O Petara aku, ngeletakka ba aku utai ti tau ngasu
 (Bahaiprayers.net ID: 12637)
 
 
-
+«[Iban](../iba/#bpn12637)» 
 
 
 
@@ -519,7 +519,7 @@ O Nuan ti benung nungaka mua ngadap Petara! Pejamka mata nuan ngagai semua utai 
 (Bahaiprayers.net ID: 12747)
 
 
-
+«[Iban](../iba/#bpn12747)» 
 
 
 
@@ -532,7 +532,7 @@ Aku bisi dipadah pasal undan surat nuan ti amat lati lalu besampi ngagai Pemetun
 (Bahaiprayers.net ID: 12748)
 
 
-
+«[Iban](../iba/#bpn12748)» 
 
 
 
@@ -548,7 +548,7 @@ Pemajik Jeman udah ngemendarka diri dirantai ngambika bansa mensia tau dilepas a
 (Bahaiprayers.net ID: 12744)
 
 
-
+«[Iban](../iba/#bpn12744)» 
 
 
 
@@ -560,7 +560,7 @@ Nyadi mentas dalam pengeraja, lalu beterima kasih dalam penusah. Nyadi lumau dik
 (Bahaiprayers.net ID: 12745)
 
 
-
+«[Iban](../iba/#bpn12745)» 
 
 
 
@@ -572,7 +572,7 @@ Ungkup kereja ti keterubah sereta pemadu dulu ti udah dipadah ngagai mensia, pen
 (Bahaiprayers.net ID: 12746)
 
 
-
+«[Iban](../iba/#bpn12746)» 
 
 
 
@@ -595,7 +595,7 @@ Andal meh enggau naka pengaga, O orang Bahá, lebuh kita ngingatka Hari ti penuh
 (Bahaiprayers.net ID: 12742)
 
 
-
+«[Iban](../iba/#bpn12742)» 
 
 
 
@@ -609,7 +609,7 @@ Pemadu Bekuasa dalam kebun ti digelar Ridván, Dilah Mulia bisi nyadaka tiga lek
 (Bahaiprayers.net ID: 12743)
 
 
-
+«[Iban](../iba/#bpn12743)» 
 
 
 
@@ -629,7 +629,7 @@ Huqúqu’lláh tu endang undang undang Petara ti bekuasa. Enda tau enda semua d
 (Bahaiprayers.net ID: 12723)
 
 
-
+«[Iban](../iba/#bpn12723)» 
 
 
 
@@ -643,7 +643,7 @@ Aku bebendar minta Nuan, O Tuhan ke semua nama enggau Penempa ke semua serega, b
 (Bahaiprayers.net ID: 12724)
 
 
-
+«[Iban](../iba/#bpn12724)» 
 
 
 
@@ -661,7 +661,7 @@ Ngena penegap Nuan! Aku enda minta, sekalika tinduk tauka dani, tang semina utai
 (Bahaiprayers.net ID: 12638)
 
 
-
+«[Iban](../iba/#bpn12638)» 
 
 
 
@@ -675,7 +675,7 @@ Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Nguasa Semua, ti Nadai Betatak
 (Bahaiprayers.net ID: 12639)
 
 
-
+«[Iban](../iba/#bpn12639)» 
 
 
 
@@ -688,7 +688,7 @@ Amat bendar, Nuan meh ti Pemeri, ti Mentas, ti Pengasih, ti Pengampun.
 (Bahaiprayers.net ID: 12640)
 
 
-
+«[Iban](../iba/#bpn12640)» 
 
 
 
@@ -706,7 +706,7 @@ Semua endang umang sereta suntuk, lalu Nuan, amat bendar, ti Bempu Semua, ti Nga
 (Bahaiprayers.net ID: 12641)
 
 
-
+«[Iban](../iba/#bpn12641)» 
 
 
 
@@ -718,7 +718,7 @@ O Nuan Tuhan ti penyinu, Nuan ti amat mentas sereta bepengulih! Kami tu pengasuh
 (Bahaiprayers.net ID: 12642)
 
 
-
+«[Iban](../iba/#bpn12642)» 
 
 
 
@@ -737,7 +737,7 @@ Nuan meh ti Tegap sereta Bekuasa, Nuan endang ti Pengampun lalu Nuan meh Iya Sik
 (Bahaiprayers.net ID: 12643)
 
 
-
+«[Iban](../iba/#bpn12643)» 
 
 
 
@@ -749,7 +749,7 @@ O Nuan Tuhan ti nelap! O Nuan Siku ti mentas sereta penyinu! Kami tu bala pengas
 (Bahaiprayers.net ID: 12644)
 
 
-
+«[Iban](../iba/#bpn12644)» 
 
 
 
@@ -774,7 +774,7 @@ Pintar.
 (Bahaiprayers.net ID: 12733)
 
 
-
+«[Iban](../iba/#bpn12733)» 
 
 
 
@@ -794,7 +794,7 @@ Aku minta ari Nuan, O Nuan Raja ke semua utai lalu Penyaga ke semua ti dipeda en
 (Bahaiprayers.net ID: 12645)
 
 
-
+«[Iban](../iba/#bpn12645)» 
 
 
 
@@ -807,7 +807,7 @@ bakani perening aku dituju ngagai penyiru pengasih Nuan, bakani mata aku ninjau 
 (Bahaiprayers.net ID: 12646)
 
 
-
+«[Iban](../iba/#bpn12646)» 
 
 
 
@@ -820,7 +820,7 @@ Nuan meh, amat bendar, ti Mentas, ti Pengampun.
 (Bahaiprayers.net ID: 12647)
 
 
-
+«[Iban](../iba/#bpn12647)» 
 
 
 
@@ -832,7 +832,7 @@ O Petara, Petara aku! Bantu ulih Nuan bala pengasuh ti dikarap Nuan ngembuan ati
 (Bahaiprayers.net ID: 12648)
 
 
-
+«[Iban](../iba/#bpn12648)» 
 
 
 
@@ -849,7 +849,7 @@ Amat bendar, Nuan ti Bekuasa, ti Tegap sereta Pemadu Bisa, lalu Nuan ti Pintar, 
 (Bahaiprayers.net ID: 12649)
 
 
-
+«[Iban](../iba/#bpn12649)» 
 
 
 
@@ -865,7 +865,7 @@ Amat bendar, Nuan meh ti Pengentap ke sebarang sapa ti dikedeka Nuan ba utai ti 
 (Bahaiprayers.net ID: 12650)
 
 
-
+«[Iban](../iba/#bpn12650)» 
 
 
 
@@ -882,7 +882,7 @@ Amat bendar, Nuan meh ti Penyayau, ti Bekuasa, ti Tegap, lalu ti Pemadu Pengasih
 (Bahaiprayers.net ID: 12651)
 
 
-
+«[Iban](../iba/#bpn12651)» 
 
 
 
@@ -905,7 +905,7 @@ Amat bendar, Nuan meh Pemadu Nelap, Tuhan ti mantu nadai besekat, lalu, amat ben
 (Bahaiprayers.net ID: 12652)
 
 
-
+«[Iban](../iba/#bpn12652)» 
 
 
 
@@ -923,7 +923,7 @@ Pintar sereta Meda.
 (Bahaiprayers.net ID: 12653)
 
 
-
+«[Iban](../iba/#bpn12653)» 
 
 
 
@@ -937,7 +937,7 @@ Nuan meh ti Pemadu Bisa lalu Ngereja utai ti dikedeka Nuan!
 (Bahaiprayers.net ID: 12654)
 
 
-
+«[Iban](../iba/#bpn12654)» 
 
 
 
@@ -954,7 +954,7 @@ Amat bendar, Nuan ti Tegap, ti Bekuasa sereta ti Nadai Penekul.
 (Bahaiprayers.net ID: 12655)
 
 
-
+«[Iban](../iba/#bpn12655)» 
 
 
 
@@ -967,7 +967,7 @@ O Tuhan, aku siku aja, kediri sereta baruh. Aku nadai penyukung semina Nuan, nad
 (Bahaiprayers.net ID: 12656)
 
 
-
+«[Iban](../iba/#bpn12656)» 
 
 
 
@@ -982,7 +982,7 @@ Amat bendar, Nuan meh Pemadu Bekuasa, ti Pemadu Bemulia, ti Seruran Ngampun, ti 
 (Bahaiprayers.net ID: 12657)
 
 
-
+«[Iban](../iba/#bpn12657)» 
 
 
 
@@ -998,7 +998,7 @@ Amat bendar, Nuan meh ti Bekuasa, ti Tegap, ti Pemadu Bisa.
 (Bahaiprayers.net ID: 12658)
 
 
-
+«[Iban](../iba/#bpn12658)» 
 
 
 
@@ -1016,7 +1016,7 @@ Nuan, endang amat, Tuhan ke semua bansa mensia, lalu Pengempu dunya tu enggau ke
 (Bahaiprayers.net ID: 12659)
 
 
-
+«[Iban](../iba/#bpn12659)» 
 
 
 
@@ -1030,7 +1030,7 @@ Nuan, dalam pemendar pengamat, meh Tuhan ke semua dunya, sereta Petara ke semua 
 (Bahaiprayers.net ID: 12660)
 
 
-
+«[Iban](../iba/#bpn12660)» 
 
 
 
@@ -1046,7 +1046,7 @@ Nuan ti bekuasa penuh meri jaku-tangkan.
 (Bahaiprayers.net ID: 12661)
 
 
-
+«[Iban](../iba/#bpn12661)» 
 
 
 
@@ -1062,7 +1062,7 @@ Chirika berekat Nuan, O Tuhan aku, ba bala Seruan, ba bala orang ti kudus enggau
 (Bahaiprayers.net ID: 12662)
 
 
-
+«[Iban](../iba/#bpn12662)» 
 
 
 
@@ -1074,7 +1074,7 @@ Sebut: Petara chukup ba semua utai ngelui ari semua utai, lalu nadai utai dalam 
 (Bahaiprayers.net ID: 12663)
 
 
-
+«[Iban](../iba/#bpn12663)» 
 
 
 
@@ -1090,7 +1090,7 @@ Nuan meh, dalam pengamat, ti Pemadu Tegap, ti Pemadu Bemulia, ti Pemadu Bekuasa.
 (Bahaiprayers.net ID: 12664)
 
 
-
+«[Iban](../iba/#bpn12664)» 
 
 
 
@@ -1109,7 +1109,7 @@ Nuan, amat bendar, Tuhan enggau Raja ke semua mensia, sereta bekuasa atas semua 
 (Bahaiprayers.net ID: 12665)
 
 
-
+«[Iban](../iba/#bpn12665)» 
 
 
 
@@ -1121,7 +1121,7 @@ Aku udah dani dalam ibun Nuan, O Petara aku, lalu nyadi iya ti ngiga pengelindun
 (Bahaiprayers.net ID: 12666)
 
 
-
+«[Iban](../iba/#bpn12666)» 
 
 
 
@@ -1134,7 +1134,7 @@ Nadai Petara bukai tang Nuan, ti Siku, ti Nadai Banding, ti Nemu Semua, ti Pemad
 (Bahaiprayers.net ID: 12667)
 
 
-
+«[Iban](../iba/#bpn12667)» 
 
 
 
@@ -1174,7 +1174,7 @@ Amat bendar, Iya ti Pengasih, ti Penyinu. Puji meh ngagai Petara, Tuhan ke semua
 (Bahaiprayers.net ID: 12737)
 
 
-
+«[Iban](../iba/#bpn12737)» 
 
 
 
@@ -1190,7 +1190,7 @@ Tempa dalam aku ati ti tuchi, O Petara aku, lalu kemaruka pengasai ti jenuh dala
 (Bahaiprayers.net ID: 12668)
 
 
-
+«[Iban](../iba/#bpn12668)» 
 
 
 
@@ -1203,7 +1203,7 @@ Nuan meh, amat bendar, ti Pemadu Tegap, ti Pemadu Mulia, ti Pemadu Bekuasa.
 (Bahaiprayers.net ID: 12669)
 
 
-
+«[Iban](../iba/#bpn12669)» 
 
 
 
@@ -1216,7 +1216,7 @@ Sukung pengasuh tu, aku minta Nuan, bulih utai ti nyadika penyelamat iya ba teti
 (Bahaiprayers.net ID: 12670)
 
 
-
+«[Iban](../iba/#bpn12670)» 
 
 
 
@@ -1231,7 +1231,7 @@ Pengasih.
 (Bahaiprayers.net ID: 12671)
 
 
-
+«[Iban](../iba/#bpn12671)» 
 
 
 
@@ -1244,7 +1244,7 @@ Kami tu lansang; asuh kami nemu. O Tuhan! Kami tu seranta; asuh kami kaya. O Pet
 (Bahaiprayers.net ID: 12672)
 
 
-
+«[Iban](../iba/#bpn12672)» 
 
 
 
@@ -1256,7 +1256,7 @@ O Tuhan aku! O Tuhan aku! Tu siti lampu ti diidup ngena api pengerindu Nuan lalu
 (Bahaiprayers.net ID: 12673)
 
 
-
+«[Iban](../iba/#bpn12673)» 
 
 
 
@@ -1274,7 +1274,7 @@ Diri.
 (Bahaiprayers.net ID: 12680)
 
 
-
+«[Iban](../iba/#bpn12680)» 
 
 
 
@@ -1287,7 +1287,7 @@ Amat bendar Nuan ti Pemadu Tegap, ti Meruan Pengampun, ti Pemadu Mentas.
 (Bahaiprayers.net ID: 12681)
 
 
-
+«[Iban](../iba/#bpn12681)» 
 
 
 
@@ -1301,7 +1301,7 @@ Besai meh berekat enggi sida ke ngempu darah ti dipilih Nuan ke dikena manjah Ka
 (Bahaiprayers.net ID: 12682)
 
 
-
+«[Iban](../iba/#bpn12682)» 
 
 
 
@@ -1316,7 +1316,7 @@ Mulia ke semua mulia tetap enggi sida ti tegap sereta teguh.
 (Bahaiprayers.net ID: 12683)
 
 
-
+«[Iban](../iba/#bpn12683)» 
 
 
 
@@ -1333,7 +1333,7 @@ Amat bendar Nuan meh Tuhan ke Pengering, Nuan meh bisa ngeletakka nama utai ti d
 (Bahaiprayers.net ID: 12684)
 
 
-
+«[Iban](../iba/#bpn12684)» 
 
 
 
@@ -1348,7 +1348,7 @@ Diri.
 (Bahaiprayers.net ID: 12685)
 
 
-
+«[Iban](../iba/#bpn12685)» 
 
 
 
@@ -1360,7 +1360,7 @@ O Tuhan, Petara aku! Tulung bala ti dikerindu Nuan nyadi teguh dalam Pengarap Nu
 (Bahaiprayers.net ID: 12686)
 
 
-
+«[Iban](../iba/#bpn12686)» 
 
 
 
@@ -1384,7 +1384,7 @@ Amat bendar, Nuan meh ti Bisa, ti Pemisi. Nadai Petara bukai tang Nuan, ti Tegap
 (Bahaiprayers.net ID: 12687)
 
 
-
+«[Iban](../iba/#bpn12687)» 
 
 
 
@@ -1396,7 +1396,7 @@ Puji meh ke Nuan, O Tuhan. Ampun dosa kami, bisi penyinu meh ke kami lalu asuh k
 (Bahaiprayers.net ID: 12688)
 
 
-
+«[Iban](../iba/#bpn12688)» 
 
 
 
@@ -1409,7 +1409,7 @@ Nuan ngampun aku laban ngiga penyamai bukai kelimpah ari pengerindu Nuan, tauka 
 (Bahaiprayers.net ID: 12689)
 
 
-
+«[Iban](../iba/#bpn12689)» 
 
 
 
@@ -1422,7 +1422,7 @@ Penyayau. Nuan meh ti Nelap.
 (Bahaiprayers.net ID: 12690)
 
 
-
+«[Iban](../iba/#bpn12690)» 
 
 
 
@@ -1440,7 +1440,7 @@ Bekuasa meh Nuan ngereja utai ti ngasuh Nuan lantang. Nadai Petara bukai semina 
 (Bahaiprayers.net ID: 12691)
 
 
-
+«[Iban](../iba/#bpn12691)» 
 
 
 
@@ -1452,7 +1452,7 @@ Nama Nuan nyadika pengerai aku, O Petara aku, lalu pengingat Nuan nyadika ubat a
 (Bahaiprayers.net ID: 12692)
 
 
-
+«[Iban](../iba/#bpn12692)» 
 
 
 
@@ -1467,7 +1467,7 @@ Kuasa- Petara ba Nuan, lalu udah nyungkakka Pengawa Nuan ti tinggi ari semua uta
 (Bahaiprayers.net ID: 12693)
 
 
-
+«[Iban](../iba/#bpn12693)» 
 
 
 
@@ -1531,7 +1531,7 @@ Nuan amat bendar ti Bekuasa, ti Nyukupka Semua, ti Ngerai, ti Penyaga, ti Pemeri
 (Bahaiprayers.net ID: 12694)
 
 
-
+«[Iban](../iba/#bpn12694)» 
 
 
 
@@ -1547,7 +1547,7 @@ O Nuan ke alai penguji Iya nyadi ubat penyuman ke sida ti semak ngagai Nuan, ke 
 (Bahaiprayers.net ID: 12695)
 
 
-
+«[Iban](../iba/#bpn12695)» 
 
 
 
@@ -1561,7 +1561,7 @@ Lalu, ke penudi ia, aku minta tulung Nuan ngena panchar rampa-mua Nuan merekat s
 (Bahaiprayers.net ID: 12696)
 
 
-
+«[Iban](../iba/#bpn12696)» 
 
 
 
@@ -1575,7 +1575,7 @@ Aku minta Nuan, O Petara aku, nengah sida enggau nengah tengkelak sebut ati sida
 (Bahaiprayers.net ID: 12697)
 
 
-
+«[Iban](../iba/#bpn12697)» 
 
 
 
@@ -1588,7 +1588,7 @@ Anang ngasuh penusah ngemedis aku maya penguji, lalu lebuh maya nadai pengibuh i
 (Bahaiprayers.net ID: 12698)
 
 
-
+«[Iban](../iba/#bpn12698)» 
 
 
 
@@ -1601,7 +1601,7 @@ Sebut: Puji Petara! Iya ti Petara! Semua pengasuh Iya, lalu semua idup dalam ibu
 (Bahaiprayers.net ID: 12699)
 
 
-
+«[Iban](../iba/#bpn12699)» 
 
 
 
@@ -1621,7 +1621,7 @@ Nuan, amat bendar, ti Pemadu Bemulia, ti Pemadu Pemisi
 (Bahaiprayers.net ID: 12700)
 
 
-
+«[Iban](../iba/#bpn12700)» 
 
 
 
@@ -1633,7 +1633,7 @@ O Petara, Petara aku! Aku udah bekejang ari rumah aku, bepegai teguh ba tali pen
 (Bahaiprayers.net ID: 12701)
 
 
-
+«[Iban](../iba/#bpn12701)» 
 
 
 
@@ -1649,7 +1649,7 @@ Nuan Pengayan ke tetiap Seruan! O Nuan ti Penyinu! O Nuan ti Pengasih! Uji Nuan 
 (Bahaiprayers.net ID: 12702)
 
 
-
+«[Iban](../iba/#bpn12702)» 
 
 
 
@@ -1665,7 +1665,7 @@ Sigi nadai kuasa tauka pengering semina dalam Petara, ti Pemadu Tinggi, ti Pemad
 (Bahaiprayers.net ID: 12703)
 
 
-
+«[Iban](../iba/#bpn12703)» 
 
 
 
@@ -1678,7 +1678,7 @@ Nuan ari semua penyai diri enggau pengingin, jaga sida ngena mata pengelansik pe
 (Bahaiprayers.net ID: 12704)
 
 
-
+«[Iban](../iba/#bpn12704)» 
 
 
 
@@ -1692,7 +1692,7 @@ Amat bendar, Nuan meh ti Penyaga, ti Pengibun, ti Pengenan, ti Penyukup, lalu am
 (Bahaiprayers.net ID: 12705)
 
 
-
+«[Iban](../iba/#bpn12705)» 
 
 
 
@@ -1710,7 +1710,7 @@ Amat bendar, Nuan meh ti Penyaga, ti Pengibun, ti Pengenan, ti Penyukup, lalu am
 (Bahaiprayers.net ID: 12706)
 
 
-
+«[Iban](../iba/#bpn12706)» 
 
 
 
@@ -1728,7 +1728,7 @@ O Penabat Kudus! Semua pengidup nyadi ketegal pemeri Nuan; anang ngemelu iya ari
 (Bahaiprayers.net ID: 12707)
 
 
-
+«[Iban](../iba/#bpn12707)» 
 
 
 
@@ -1740,7 +1740,7 @@ O Petara aku, Tuhan aku enggau Tuan aku! Aku udah ngingkas diri ari kaban-belaya
 (Bahaiprayers.net ID: 12708)
 
 
-
+«[Iban](../iba/#bpn12708)» 
 
 
 
@@ -1758,7 +1758,7 @@ Sebut: Petara endang amat Pengaga semua utai. Iya meri bekal ti mayuh ngagai seb
 (Bahaiprayers.net ID: 12709)
 
 
-
+«[Iban](../iba/#bpn12709)» 
 
 
 
@@ -1773,7 +1773,7 @@ Nuan meh ti Pemadu Tegap sereta Bepengerindu enggau Pemekal ke semua mensia.
 (Bahaiprayers.net ID: 12710)
 
 
-
+«[Iban](../iba/#bpn12710)» 
 
 
 
@@ -1799,7 +1799,7 @@ Saup sida, O Petara aku, mantu pemenang Nuan lalu ngeninggika Leka Jaku Nuan. Ny
 (Bahaiprayers.net ID: 12726)
 
 
-
+«[Iban](../iba/#bpn12726)» 
 
 
 
@@ -1812,7 +1812,7 @@ Petara, ti Nemu Semua, ti Dipadah Semua! Hari endur bepuasa udah datai ke alai b
 (Bahaiprayers.net ID: 12727)
 
 
-
+«[Iban](../iba/#bpn12727)» 
 
 
 
@@ -1828,7 +1828,7 @@ Nadai Petara bukai tang Nuan, ti Nemu Semua, ti Pemadu Pintar. Semua puji ke Pet
 (Bahaiprayers.net ID: 12728)
 
 
-
+«[Iban](../iba/#bpn12728)» 
 
 
 
@@ -1848,7 +1848,7 @@ Kemenangka Pengawa Nuan, O Tuhan aku, lalu kemaruhka ulih Nuan bala munsuh Nuan.
 (Bahaiprayers.net ID: 12729)
 
 
-
+«[Iban](../iba/#bpn12729)» 
 
 
 
@@ -1862,7 +1862,7 @@ Nuan, amat bendar, ti Pemadu Tinggi, ti Pemadu Tegap, ti Nadai Penekul.
 (Bahaiprayers.net ID: 12730)
 
 
-
+«[Iban](../iba/#bpn12730)» 
 
 
 
@@ -1875,7 +1875,7 @@ Nuan udah ngeletak bala ke dipilih Nuan, bala ke dikerindu Nuan enggau bala peng
 (Bahaiprayers.net ID: 12731)
 
 
-
+«[Iban](../iba/#bpn12731)» 
 
 
 
@@ -1887,7 +1887,7 @@ O Pemekal Kudus! Laban aku tu mentin diri ari semua pengingin tubuh lalu enda ng
 (Bahaiprayers.net ID: 12732)
 
 
-
+«[Iban](../iba/#bpn12732)» 
 
 
 
@@ -1904,7 +1904,7 @@ Terangka, O Tuhan, mua bala pengasuh Nuan, awakka sida tau meda Nuan; lalu peres
 (Bahaiprayers.net ID: 12711)
 
 
-
+«[Iban](../iba/#bpn12711)» 
 
 
 
@@ -1970,7 +1970,7 @@ Enti sema semua pengasuh macha lalu beperagamka tu, dia urat darah sida deka dit
 (Bahaiprayers.net ID: 12738)
 
 
-
+«[Iban](../iba/#bpn12738)» 
 
 
 
@@ -1990,7 +1990,7 @@ Kudus meh Tuhan ke semua mensia, lebuh ti nyebut nama Iya semua atom dalam dunya
 (Bahaiprayers.net ID: 12741)
 
 
-
+«[Iban](../iba/#bpn12741)» 
 
 
 
@@ -2015,7 +2015,7 @@ Berekat ulih Nuan, O Tuhan Petara aku, Kayu-Buah Petara enggau daun ia, enggau d
 (Bahaiprayers.net ID: 12739)
 
 
-
+«[Iban](../iba/#bpn12739)» 
 
 
 
@@ -2039,7 +2039,7 @@ Nuan meh ti Penyikap, ti Penyiru, ti Pemadu Pemisi, ti Pengasih, ti Pengampun, t
 (Bahaiprayers.net ID: 12740)
 
 
-
+«[Iban](../iba/#bpn12740)» 
 
 
 
@@ -2055,7 +2055,7 @@ O Penginang Kudus! Sikap Nuan penulin enggau pemeresi ke semua utai ba orang Bah
 (Bahaiprayers.net ID: 12749)
 
 
-
+«[Iban](../iba/#bpn12749)» 
 
 
 
@@ -2067,7 +2067,7 @@ Nguji bebendar meh kita, awakka penuchi enggau pengudus ngelui ari semua utai, t
 (Bahaiprayers.net ID: 12750)
 
 
-
+«[Iban](../iba/#bpn12750)» 
 
 
 
@@ -2088,7 +2088,7 @@ Suchi Penyerakup Nuan, ati kami gaga laban tengkujuh Berekat Nuan, awakka kami t
 (Bahaiprayers.net ID: 12734)
 
 
-
+«[Iban](../iba/#bpn12734)» 
 
 
 
@@ -2102,7 +2102,7 @@ O Nuan Pemekal kami! Kirum ke baruh bantu Nuan, awakka tiap iku ti begelumu ditu
 (Bahaiprayers.net ID: 12735)
 
 
-
+«[Iban](../iba/#bpn12735)» 
 
 
 
@@ -2118,7 +2118,7 @@ Amat bendar, Nuan ti Mentas, ti Pengampun. Nuan meh ti Pengempu pemisi ti mayuh,
 (Bahaiprayers.net ID: 12736)
 
 
-
+«[Iban](../iba/#bpn12736)» 
 
 
 
@@ -2149,7 +2149,7 @@ Aku nyadika saksi ke penyerakup Nuan enggau ke penyatu Nuan, lalu ianya Nuan meh
 (Bahaiprayers.net ID: 12609)
 
 
-
+«[Iban](../iba/#bpn12609)» 
 
 
 
@@ -2169,7 +2169,7 @@ Nadai Petara bukai tang Nuan, Penulung lebuh Tusah, Pengibun Diri.
 (Bahaiprayers.net ID: 12608)
 
 
-
+«[Iban](../iba/#bpn12608)» 
 
 
 
@@ -2219,7 +2219,7 @@ Aku besaksi, O Petara aku, ke utai ti udah disaksika bala ti dipilih Nuan, lalu 
 (Bahaiprayers.net ID: 12610)
 
 
-
+«[Iban](../iba/#bpn12610)» 
 
 
 
@@ -2245,7 +2245,7 @@ Semua kami, amat bendar, beterima kasih ngagai Petara. Semua kami, amat bendar, 
 (Bahaiprayers.net ID: 12674)
 
 
-
+«[Iban](../iba/#bpn12674)» 
 
 
 
@@ -2261,7 +2261,7 @@ Dimulia, nadai sekat meh Nuan dimulia! Nuan dipebasa dalam pengamat Nuan, lalu N
 (Bahaiprayers.net ID: 12675)
 
 
-
+«[Iban](../iba/#bpn12675)» 
 
 
 
@@ -2283,7 +2283,7 @@ Nadai Petara bukai tang Nuan, Siku, Kediri, ti Bekuasa, ti Penuh Penemu, ti Pemi
 (Bahaiprayers.net ID: 12676)
 
 
-
+«[Iban](../iba/#bpn12676)» 
 
 
 
@@ -2298,7 +2298,7 @@ Amat bendar, Nuan meh ti Nelap, ti Bekuasa, ti Pengampun enggau ti Penyikap.
 (Bahaiprayers.net ID: 12677)
 
 
-
+«[Iban](../iba/#bpn12677)» 
 
 
 
@@ -2312,7 +2312,7 @@ O Tuhan aku! Tuchi sida ari semua penyalah, buai penusah ati sida, lalu tukar pe
 (Bahaiprayers.net ID: 12678)
 
 
-
+«[Iban](../iba/#bpn12678)» 
 
 
 
@@ -2326,7 +2326,7 @@ Nuan meh ti Pengampun, ti Pemeri Penampak sereta Pemadu Bisa.
 (Bahaiprayers.net ID: 12679)
 
 
-
+«[Iban](../iba/#bpn12679)» 
 
 
 
@@ -2345,7 +2345,7 @@ Nuan, sigi amat, endang Seruran Ngampun, ti Pemadu Penyinu
 (Bahaiprayers.net ID: 12712)
 
 
-
+«[Iban](../iba/#bpn12712)» 
 
 
 
@@ -2358,7 +2358,7 @@ O Petara aku, naka meh pengurang aku deka muji Nuan lalu ngayanka naka pengelemi
 (Bahaiprayers.net ID: 12713)
 
 
-
+«[Iban](../iba/#bpn12713)» 
 
 
 
@@ -2373,7 +2373,7 @@ pengidup tu ngambika mengkang tegap sereta teguh dalam pengerindu Nuan lalu keme
 (Bahaiprayers.net ID: 12714)
 
 
-
+«[Iban](../iba/#bpn12714)» 
 
 
 
@@ -2395,7 +2395,7 @@ Nuan, amat bendar, ti Bepengasih, ti Dikemulia, ti Tegap, ti Pemadu Bisa.
 (Bahaiprayers.net ID: 12715)
 
 
-
+«[Iban](../iba/#bpn12715)» 
 
 
 
@@ -2412,7 +2412,7 @@ Nuan, lalu pegarika ngagai sida tuju Nuan ti pemadu besai. Asuh sida nitihka jak
 (Bahaiprayers.net ID: 12716)
 
 
-
+«[Iban](../iba/#bpn12716)» 
 
 
 
@@ -2432,7 +2432,7 @@ Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Pemadu Pintar.
 (Bahaiprayers.net ID: 12717)
 
 
-
+«[Iban](../iba/#bpn12717)» 
 
 
 
@@ -2445,7 +2445,7 @@ Amat bendar, Nuan meh ti Nadai Ulih Laban, ti Pemadu Tegap, ti Pemadu Bekuasa.
 (Bahaiprayers.net ID: 12718)
 
 
-
+«[Iban](../iba/#bpn12718)» 
 
 
 
@@ -2459,7 +2459,7 @@ Nuan ti Penyinu, ti Pengasih! Nuan meh Petara Pemadu sayau!
 (Bahaiprayers.net ID: 12719)
 
 
-
+«[Iban](../iba/#bpn12719)» 
 
 
 
@@ -2474,7 +2474,7 @@ Nuan ti Penembang, ti Bepengasih.
 (Bahaiprayers.net ID: 12720)
 
 
-
+«[Iban](../iba/#bpn12720)» 
 
 
 
@@ -2498,7 +2498,7 @@ Amat bendar, Nuan meh Mentas. Amat bendar, Nuan meh Pemadu Tegap. Amat bendar, N
 (Bahaiprayers.net ID: 12721)
 
 
-
+«[Iban](../iba/#bpn12721)» 
 
 
 
@@ -2512,7 +2512,7 @@ Amat bendar, Nuan meh Pemadu Bisa, Selalu bisi sereta Pemadu Tegap!
 (Bahaiprayers.net ID: 12722)
 
 
-
+«[Iban](../iba/#bpn12722)» 
 
 
 

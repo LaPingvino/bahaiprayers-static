@@ -59,7 +59,7 @@ Faaratunaan marase, Naan a Baraai a Varamaalufing ma Naan ka i puuk saait.  Saau
 (Bahaiprayers.net ID: 13016)
 
 
-
+«[Nalik](../nal/#bpn13016)» 
 
 
 
@@ -77,7 +77,7 @@ O a vaartulaaiing a ku Nakmai, Nu a wanga na vaaribuking aang ni kuna ga na rexa
 (Bahaiprayers.net ID: 13009)
 
 
-
+«[Nalik](../nal/#bpn13009)» 
 
 
 
@@ -93,7 +93,7 @@ Saaule Nakmai!  Saaule Nakmai!  Fatuing a mun mamaangon a yaanakilaaing Sunum.  
 (Bahaiprayers.net ID: 13011)
 
 
-
+«[Nalik](../nal/#bpn13011)» 
 
 
 
@@ -141,7 +141,7 @@ Kalxal di zi marangingit saxot a Nakmai. (Fazangaaflu ma vizikfaat.)
 (Bahaiprayers.net ID: 13015)
 
 
-
+«[Nalik](../nal/#bpn13015)» 
 
 
 
@@ -157,7 +157,7 @@ Saaule Nakmai!  Pan a Izaam ka malasing a virviraing ku ni. Pan a nonomaaing pan
 (Bahaiprayers.net ID: 13012)
 
 
-
+«[Nalik](../nal/#bpn13012)» 
 
 
 
@@ -184,7 +184,7 @@ Bahá'u'lláh
 (Bahaiprayers.net ID: 13013)
 
 
-
+«[Nalik](../nal/#bpn13013)» 
 
 
 
@@ -200,7 +200,7 @@ Tamon a mun saan di yaalaxaaf di na paazaai be wan a Nakmai?  Fakilaan: a vavisf
 (Bahaiprayers.net ID: 13010)
 
 
-
+«[Nalik](../nal/#bpn13010)» 
 
 
 
@@ -216,7 +216,7 @@ Saaule Nakmai, famazaam a funalik aakare.  A funalik aakare a fnuaai i la maskan
 (Bahaiprayers.net ID: 13014)
 
 
-
+«[Nalik](../nal/#bpn13014)» 
 
 
 

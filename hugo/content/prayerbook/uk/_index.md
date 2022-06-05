@@ -72,7 +72,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13298)
 
 
-
+«[Україна](../uk/#bpn13298)» 
 
 
 
@@ -92,7 +92,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13315)
 
 
-
+«[Україна](../uk/#bpn13315)» 
 
 
 
@@ -108,7 +108,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13266)
 
 
-
+«[Україна](../uk/#bpn13266)» 
 
 
 
@@ -120,7 +120,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13688)
 
 
-
+«[Україна](../uk/#bpn13688)» 
 
 
 
@@ -168,7 +168,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13692)
 
 
-
+«[Україна](../uk/#bpn13692)» 
 
 
 
@@ -185,7 +185,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13264)
 
 
-
+«[Україна](../uk/#bpn13264)» 
 
 
 
@@ -203,7 +203,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13312)
 
 
-
+«[Україна](../uk/#bpn13312)» 
 
 
 
@@ -216,7 +216,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13265)
 
 
-
+«[Україна](../uk/#bpn13265)» 
 
 
 
@@ -232,7 +232,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13313)
 
 
-
+«[Україна](../uk/#bpn13313)» 
 
 
 
@@ -248,7 +248,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13283)
 
 
-
+«[Україна](../uk/#bpn13283)» 
 
 
 
@@ -261,7 +261,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13284)
 
 
-
+«[Україна](../uk/#bpn13284)» 
 
 
 
@@ -275,7 +275,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13310)
 
 
-
+«[Україна](../uk/#bpn13310)» 
 
 
 
@@ -287,7 +287,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13311)
 
 
-
+«[Україна](../uk/#bpn13311)» 
 
 
 
@@ -302,7 +302,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13285)
 
 
-
+«[Україна](../uk/#bpn13285)» 
 
 
 
@@ -316,7 +316,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13286)
 
 
-
+«[Україна](../uk/#bpn13286)» 
 
 
 
@@ -331,7 +331,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13287)
 
 
-
+«[Україна](../uk/#bpn13287)» 
 
 
 
@@ -344,7 +344,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13690)
 
 
-
+«[Україна](../uk/#bpn13690)» 
 
 
 
@@ -362,7 +362,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13300)
 
 
-
+«[Україна](../uk/#bpn13300)» 
 
 
 
@@ -378,7 +378,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13301)
 
 
-
+«[Україна](../uk/#bpn13301)» 
 
 
 
@@ -392,7 +392,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13302)
 
 
-
+«[Україна](../uk/#bpn13302)» 
 
 
 
@@ -406,7 +406,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13314)
 
 
-
+«[Україна](../uk/#bpn13314)» 
 
 
 
@@ -426,7 +426,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13303)
 
 
-
+«[Україна](../uk/#bpn13303)» 
 
 
 
@@ -445,7 +445,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13277)
 
 
-
+«[Україна](../uk/#bpn13277)» 
 
 
 
@@ -457,7 +457,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13306)
 
 
-
+«[Україна](../uk/#bpn13306)» 
 
 
 
@@ -476,7 +476,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13271)
 
 
-
+«[Україна](../uk/#bpn13271)» 
 
 
 
@@ -492,7 +492,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13293)
 
 
-
+«[Україна](../uk/#bpn13293)» 
 
 
 
@@ -512,7 +512,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13697)
 
 
-
+«[Україна](../uk/#bpn13697)» 
 
 
 
@@ -529,7 +529,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13289)
 
 
-
+«[Україна](../uk/#bpn13289)» 
 
 
 
@@ -541,7 +541,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13290)
 
 
-
+«[Україна](../uk/#bpn13290)» 
 
 
 
@@ -556,7 +556,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13291)
 
 
-
+«[Україна](../uk/#bpn13291)» 
 
 
 
@@ -574,7 +574,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13267)
 
 
-
+«[Україна](../uk/#bpn13267)» 
 
 
 
@@ -588,7 +588,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13268)
 
 
-
+«[Україна](../uk/#bpn13268)» 
 
 
 
@@ -608,7 +608,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13278)
 
 
-
+«[Україна](../uk/#bpn13278)» 
 
 
 
@@ -621,7 +621,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13279)
 
 
-
+«[Україна](../uk/#bpn13279)» 
 
 
 
@@ -633,7 +633,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13280)
 
 
-
+«[Україна](../uk/#bpn13280)» 
 
 
 
@@ -647,7 +647,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13695)
 
 
-
+«[Україна](../uk/#bpn13695)» 
 
 
 
@@ -662,7 +662,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13281)
 
 
-
+«[Україна](../uk/#bpn13281)» 
 
 
 
@@ -681,7 +681,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13282)
 
 
-
+«[Україна](../uk/#bpn13282)» 
 
 
 
@@ -701,7 +701,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13572)
 
 
-
+«[Україна](../uk/#bpn13572)» 
 
 
 
@@ -717,7 +717,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13573)
 
 
-
+«[Україна](../uk/#bpn13573)» 
 
 
 
@@ -733,7 +733,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13668)
 
 
-
+«[Україна](../uk/#bpn13668)» 
 
 
 
@@ -751,7 +751,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13669)
 
 
-
+«[Україна](../uk/#bpn13669)» 
 
 
 
@@ -766,7 +766,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13693)
 
 
-
+«[Україна](../uk/#bpn13693)» 
 
 
 
@@ -782,7 +782,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13694)
 
 
-
+«[Україна](../uk/#bpn13694)» 
 
 
 
@@ -798,7 +798,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13269)
 
 
-
+«[Україна](../uk/#bpn13269)» 
 
 
 
@@ -810,7 +810,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13317)
 
 
-
+«[Україна](../uk/#bpn13317)» 
 
 
 
@@ -824,7 +824,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13270)
 
 
-
+«[Україна](../uk/#bpn13270)» 
 
 
 
@@ -842,7 +842,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13275)
 
 
-
+«[Україна](../uk/#bpn13275)» 
 
 
 
@@ -854,7 +854,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13276)
 
 
-
+«[Україна](../uk/#bpn13276)» 
 
 
 
@@ -871,7 +871,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13273)
 
 
-
+«[Україна](../uk/#bpn13273)» 
 
 
 
@@ -884,7 +884,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13274)
 
 
-
+«[Україна](../uk/#bpn13274)» 
 
 
 
@@ -900,7 +900,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13437)
 
 
-
+«[Україна](../uk/#bpn13437)» 
 
 
 
@@ -917,7 +917,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13263)
 
 
-
+«[Україна](../uk/#bpn13263)» 
 
 
 
@@ -933,7 +933,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13696)
 
 
-
+«[Україна](../uk/#bpn13696)» 
 
 
 
@@ -950,7 +950,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13272)
 
 
-
+«[Україна](../uk/#bpn13272)» 
 
 
 
@@ -970,7 +970,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13295)
 
 
-
+«[Україна](../uk/#bpn13295)» 
 
 
 
@@ -982,7 +982,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13296)
 
 
-
+«[Україна](../uk/#bpn13296)» 
 
 
 
@@ -994,7 +994,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13297)
 
 
-
+«[Україна](../uk/#bpn13297)» 
 
 
 
@@ -1006,7 +1006,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13299)
 
 
-
+«[Україна](../uk/#bpn13299)» 
 
 
 
@@ -1026,7 +1026,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13316)
 
 
-
+«[Україна](../uk/#bpn13316)» 
 
 
 
@@ -1042,7 +1042,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13304)
 
 
-
+«[Україна](../uk/#bpn13304)» 
 
 
 
@@ -1056,7 +1056,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13305)
 
 
-
+«[Україна](../uk/#bpn13305)» 
 
 
 
@@ -1106,7 +1106,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13294)
 
 
-
+«[Україна](../uk/#bpn13294)» 
 
 
 
@@ -1134,7 +1134,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13307)
 
 
-
+«[Україна](../uk/#bpn13307)» 
 
 
 
@@ -1148,7 +1148,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13288)
 
 
-
+«[Україна](../uk/#bpn13288)» 
 
 
 
@@ -1160,7 +1160,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13308)
 
 
-
+«[Україна](../uk/#bpn13308)» 
 
 
 
@@ -1177,7 +1177,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13689)
 
 
-
+«[Україна](../uk/#bpn13689)» 
 
 
 
@@ -1191,7 +1191,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13292)
 
 
-
+«[Україна](../uk/#bpn13292)» 
 
 
 
@@ -1209,7 +1209,7 @@ tags = ['lang=uk', 'prayerbook']
 (Bahaiprayers.net ID: 13309)
 
 
-
+«[Україна](../uk/#bpn13309)» 
 
 
 

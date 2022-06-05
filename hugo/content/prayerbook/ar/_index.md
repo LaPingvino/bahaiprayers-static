@@ -109,7 +109,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6368)
 
 
-
+«[العربية](../ar/#bpn6368)» 
 
 
 
@@ -122,7 +122,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9946)
 
 
-
+«[العربية](../ar/#bpn9946)» 
 
 
 
@@ -134,7 +134,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9947)
 
 
-
+«[العربية](../ar/#bpn9947)» 
 
 
 
@@ -146,7 +146,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9948)
 
 
-
+«[العربية](../ar/#bpn9948)» 
 
 
 
@@ -162,7 +162,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9949)
 
 
-
+«[العربية](../ar/#bpn9949)» 
 
 
 
@@ -178,7 +178,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9950)
 
 
-
+«[العربية](../ar/#bpn9950)» 
 
 
 
@@ -192,7 +192,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9951)
 
 
-
+«[العربية](../ar/#bpn9951)» 
 
 
 
@@ -204,7 +204,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9952)
 
 
-
+«[العربية](../ar/#bpn9952)» 
 
 
 
@@ -217,7 +217,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9953)
 
 
-
+«[العربية](../ar/#bpn9953)» 
 
 
 
@@ -229,7 +229,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9954)
 
 
-
+«[العربية](../ar/#bpn9954)» 
 
 
 
@@ -242,7 +242,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9955)
 
 
-
+«[العربية](../ar/#bpn9955)» 
 
 
 
@@ -254,7 +254,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9956)
 
 
-
+«[العربية](../ar/#bpn9956)» 
 
 
 
@@ -277,7 +277,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9957)
 
 
-
+«[العربية](../ar/#bpn9957)» 
 
 
 
@@ -293,7 +293,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8757)
 
 
-
+«[العربية](../ar/#bpn8757)» 
 
 
 
@@ -305,7 +305,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8758)
 
 
-
+«[العربية](../ar/#bpn8758)» 
 
 
 
@@ -318,7 +318,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8759)
 
 
-
+«[العربية](../ar/#bpn8759)» 
 
 
 
@@ -331,7 +331,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8760)
 
 
-
+«[العربية](../ar/#bpn8760)» 
 
 
 
@@ -344,7 +344,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8761)
 
 
-
+«[العربية](../ar/#bpn8761)» 
 
 
 
@@ -357,7 +357,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8762)
 
 
-
+«[العربية](../ar/#bpn8762)» 
 
 
 
@@ -370,7 +370,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8763)
 
 
-
+«[العربية](../ar/#bpn8763)» 
 
 
 
@@ -383,7 +383,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8764)
 
 
-
+«[العربية](../ar/#bpn8764)» 
 
 
 
@@ -396,7 +396,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8765)
 
 
-
+«[العربية](../ar/#bpn8765)» 
 
 
 
@@ -409,7 +409,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8766)
 
 
-
+«[العربية](../ar/#bpn8766)» 
 
 
 
@@ -422,7 +422,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8767)
 
 
-
+«[العربية](../ar/#bpn8767)» 
 
 
 
@@ -435,7 +435,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8768)
 
 
-
+«[العربية](../ar/#bpn8768)» 
 
 
 
@@ -448,7 +448,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8769)
 
 
-
+«[العربية](../ar/#bpn8769)» 
 
 
 
@@ -461,7 +461,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8770)
 
 
-
+«[العربية](../ar/#bpn8770)» 
 
 
 
@@ -477,7 +477,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9521)
 
 
-
+«[العربية](../ar/#bpn9521)» 
 
 
 
@@ -493,7 +493,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9522)
 
 
-
+«[العربية](../ar/#bpn9522)» 
 
 
 
@@ -508,7 +508,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9523)
 
 
-
+«[العربية](../ar/#bpn9523)» 
 
 
 
@@ -526,7 +526,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6370)
 
 
-
+«[العربية](../ar/#bpn6370)» 
 
 
 
@@ -539,7 +539,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6444)
 
 
-
+«[العربية](../ar/#bpn6444)» 
 
 
 
@@ -553,7 +553,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6445)
 
 
-
+«[العربية](../ar/#bpn6445)» 
 
 
 
@@ -566,7 +566,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6446)
 
 
-
+«[العربية](../ar/#bpn6446)» 
 
 
 
@@ -579,7 +579,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6448)
 
 
-
+«[العربية](../ar/#bpn6448)» 
 
 
 
@@ -593,7 +593,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6369)
 
 
-
+«[العربية](../ar/#bpn6369)» 
 
 
 
@@ -606,7 +606,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6447)
 
 
-
+«[العربية](../ar/#bpn6447)» 
 
 
 
@@ -626,7 +626,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9405)
 
 
-
+«[العربية](../ar/#bpn9405)» 
 
 
 
@@ -643,7 +643,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3266)
 
 
-
+«[العربية](../ar/#bpn3266)» 
 
 
 
@@ -656,7 +656,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3267)
 
 
-
+«[العربية](../ar/#bpn3267)» 
 
 
 
@@ -673,7 +673,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2649)
 
 
-
+«[العربية](../ar/#bpn2649)» 
 
 
 
@@ -686,7 +686,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2650)
 
 
-
+«[العربية](../ar/#bpn2650)» 
 
 
 
@@ -699,7 +699,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3296)
 
 
-
+«[العربية](../ar/#bpn3296)» 
 
 
 
@@ -716,7 +716,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3259)
 
 
-
+«[العربية](../ar/#bpn3259)» 
 
 
 
@@ -729,7 +729,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3268)
 
 
-
+«[العربية](../ar/#bpn3268)» 
 
 
 
@@ -742,7 +742,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2648)
 
 
-
+«[العربية](../ar/#bpn2648)» 
 
 
 
@@ -755,7 +755,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3264)
 
 
-
+«[العربية](../ar/#bpn3264)» 
 
 
 
@@ -768,7 +768,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3258)
 
 
-
+«[العربية](../ar/#bpn3258)» 
 
 
 
@@ -780,7 +780,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3001)
 
 
-
+«[العربية](../ar/#bpn3001)» 
 
 
 
@@ -792,7 +792,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2921)
 
 
-
+«[العربية](../ar/#bpn2921)» 
 
 
 
@@ -804,7 +804,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3011)
 
 
-
+«[العربية](../ar/#bpn3011)» 
 
 
 
@@ -816,7 +816,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3298)
 
 
-
+«[العربية](../ar/#bpn3298)» 
 
 
 
@@ -829,7 +829,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3286)
 
 
-
+«[العربية](../ar/#bpn3286)» 
 
 
 
@@ -845,7 +845,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3254)
 
 
-
+«[العربية](../ar/#bpn3254)» 
 
 
 
@@ -857,7 +857,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7936)
 
 
-
+«[العربية](../ar/#bpn7936)» 
 
 
 
@@ -869,7 +869,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7937)
 
 
-
+«[العربية](../ar/#bpn7937)» 
 
 
 
@@ -881,7 +881,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7938)
 
 
-
+«[العربية](../ar/#bpn7938)» 
 
 
 
@@ -893,7 +893,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7939)
 
 
-
+«[العربية](../ar/#bpn7939)» 
 
 
 
@@ -905,7 +905,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3290)
 
 
-
+«[العربية](../ar/#bpn3290)» 
 
 
 
@@ -917,7 +917,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3291)
 
 
-
+«[العربية](../ar/#bpn3291)» 
 
 
 
@@ -934,7 +934,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3260)
 
 
-
+«[العربية](../ar/#bpn3260)» 
 
 
 
@@ -947,7 +947,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3261)
 
 
-
+«[العربية](../ar/#bpn3261)» 
 
 
 
@@ -960,7 +960,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3284)
 
 
-
+«[العربية](../ar/#bpn3284)» 
 
 
 
@@ -977,7 +977,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3283)
 
 
-
+«[العربية](../ar/#bpn3283)» 
 
 
 
@@ -990,7 +990,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3293)
 
 
-
+«[العربية](../ar/#bpn3293)» 
 
 
 
@@ -1002,7 +1002,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3294)
 
 
-
+«[العربية](../ar/#bpn3294)» 
 
 
 
@@ -1014,7 +1014,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3295)
 
 
-
+«[العربية](../ar/#bpn3295)» 
 
 
 
@@ -1032,7 +1032,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3250)
 
 
-
+«[العربية](../ar/#bpn3250)» 
 
 
 
@@ -1045,7 +1045,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3256)
 
 
-
+«[العربية](../ar/#bpn3256)» 
 
 
 
@@ -1058,7 +1058,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2944)
 
 
-
+«[العربية](../ar/#bpn2944)» 
 
 
 
@@ -1071,7 +1071,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2603)
 
 
-
+«[العربية](../ar/#bpn2603)» 
 
 
 
@@ -1083,7 +1083,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2942)
 
 
-
+«[العربية](../ar/#bpn2942)» 
 
 
 
@@ -1099,7 +1099,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3289)
 
 
-
+«[العربية](../ar/#bpn3289)» 
 
 
 
@@ -1112,7 +1112,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2652)
 
 
-
+«[العربية](../ar/#bpn2652)» 
 
 
 
@@ -1124,7 +1124,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3287)
 
 
-
+«[العربية](../ar/#bpn3287)» 
 
 
 
@@ -1140,7 +1140,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3255)
 
 
-
+«[العربية](../ar/#bpn3255)» 
 
 
 
@@ -1153,7 +1153,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2606)
 
 
-
+«[العربية](../ar/#bpn2606)» 
 
 
 
@@ -1166,7 +1166,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2936)
 
 
-
+«[العربية](../ar/#bpn2936)» 
 
 
 
@@ -1183,7 +1183,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3252)
 
 
-
+«[العربية](../ar/#bpn3252)» 
 
 
 
@@ -1197,7 +1197,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3253)
 
 
-
+«[العربية](../ar/#bpn3253)» 
 
 
 
@@ -1210,7 +1210,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2647)
 
 
-
+«[العربية](../ar/#bpn2647)» 
 
 
 
@@ -1227,7 +1227,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2644)
 
 
-
+«[العربية](../ar/#bpn2644)» 
 
 
 
@@ -1243,7 +1243,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 5327)
 
 
-
+«[العربية](../ar/#bpn5327)» 
 
 
 
@@ -1255,7 +1255,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 5328)
 
 
-
+«[العربية](../ar/#bpn5328)» 
 
 
 
@@ -1267,7 +1267,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 5329)
 
 
-
+«[العربية](../ar/#bpn5329)» 
 
 
 
@@ -1280,7 +1280,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2605)
 
 
-
+«[العربية](../ar/#bpn2605)» 
 
 
 
@@ -1292,7 +1292,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2601)
 
 
-
+«[العربية](../ar/#bpn2601)» 
 
 
 
@@ -1310,7 +1310,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3248)
 
 
-
+«[العربية](../ar/#bpn3248)» 
 
 
 
@@ -1329,7 +1329,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3249)
 
 
-
+«[العربية](../ar/#bpn3249)» 
 
 
 
@@ -1345,7 +1345,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3262)
 
 
-
+«[العربية](../ar/#bpn3262)» 
 
 
 
@@ -1359,7 +1359,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3265)
 
 
-
+«[العربية](../ar/#bpn3265)» 
 
 
 
@@ -1372,7 +1372,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3263)
 
 
-
+«[العربية](../ar/#bpn3263)» 
 
 
 
@@ -1385,7 +1385,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3292)
 
 
-
+«[العربية](../ar/#bpn3292)» 
 
 
 
@@ -1404,7 +1404,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2602)
 
 
-
+«[العربية](../ar/#bpn2602)» 
 
 
 
@@ -1466,7 +1466,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 6478)
 
 
-
+«[العربية](../ar/#bpn6478)» 
 
 
 
@@ -1505,7 +1505,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 8771)
 
 
-
+«[العربية](../ar/#bpn8771)» 
 
 
 
@@ -1522,7 +1522,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2962)
 
 
-
+«[العربية](../ar/#bpn2962)» 
 
 
 
@@ -1753,7 +1753,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3270)
 
 
-
+«[العربية](../ar/#bpn3270)» 
 
 
 
@@ -1770,7 +1770,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3247)
 
 
-
+«[العربية](../ar/#bpn3247)» 
 
 
 
@@ -1782,7 +1782,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7940)
 
 
-
+«[العربية](../ar/#bpn7940)» 
 
 
 
@@ -1794,7 +1794,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 7941)
 
 
-
+«[العربية](../ar/#bpn7941)» 
 
 
 
@@ -1807,7 +1807,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3280)
 
 
-
+«[العربية](../ar/#bpn3280)» 
 
 
 
@@ -1821,7 +1821,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3281)
 
 
-
+«[العربية](../ar/#bpn3281)» 
 
 
 
@@ -1834,7 +1834,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2988)
 
 
-
+«[العربية](../ar/#bpn2988)» 
 
 
 
@@ -1851,7 +1851,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9942)
 
 
-
+«[العربية](../ar/#bpn9942)» 
 
 
 
@@ -1864,7 +1864,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9943)
 
 
-
+«[العربية](../ar/#bpn9943)» 
 
 
 
@@ -1879,7 +1879,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9944)
 
 
-
+«[العربية](../ar/#bpn9944)» 
 
 
 
@@ -1892,7 +1892,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 9945)
 
 
-
+«[العربية](../ar/#bpn9945)» 
 
 
 
@@ -1909,7 +1909,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3251)
 
 
-
+«[العربية](../ar/#bpn3251)» 
 
 
 
@@ -1926,7 +1926,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3297)
 
 
-
+«[العربية](../ar/#bpn3297)» 
 
 
 
@@ -1958,7 +1958,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 10180)
 
 
-
+«[العربية](../ar/#bpn10180)» 
 
 
 
@@ -1975,7 +1975,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3257)
 
 
-
+«[العربية](../ar/#bpn3257)» 
 
 
 
@@ -1988,7 +1988,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2651)
 
 
-
+«[العربية](../ar/#bpn2651)» 
 
 
 
@@ -2001,7 +2001,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3282)
 
 
-
+«[العربية](../ar/#bpn3282)» 
 
 
 
@@ -2015,7 +2015,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3285)
 
 
-
+«[العربية](../ar/#bpn3285)» 
 
 
 
@@ -2028,7 +2028,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3288)
 
 
-
+«[العربية](../ar/#bpn3288)» 
 
 
 
@@ -2045,7 +2045,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3299)
 
 
-
+«[العربية](../ar/#bpn3299)» 
 
 
 
@@ -2128,7 +2128,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3271)
 
 
-
+«[العربية](../ar/#bpn3271)» 
 
 
 
@@ -2174,7 +2174,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3274)
 
 
-
+«[العربية](../ar/#bpn3274)» 
 
 
 
@@ -2195,7 +2195,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3276)
 
 
-
+«[العربية](../ar/#bpn3276)» 
 
 
 
@@ -2215,7 +2215,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2604)
 
 
-
+«[العربية](../ar/#bpn2604)» 
 
 
 
@@ -2233,7 +2233,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3278)
 
 
-
+«[العربية](../ar/#bpn3278)» 
 
 
 
@@ -2292,7 +2292,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 2645)
 
 
-
+«[العربية](../ar/#bpn2645)» 
 
 
 
@@ -2311,7 +2311,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3275)
 
 
-
+«[العربية](../ar/#bpn3275)» 
 
 
 
@@ -2329,7 +2329,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4968)
 
 
-
+«[العربية](../ar/#bpn4968)» 
 
 
 
@@ -2341,7 +2341,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4970)
 
 
-
+«[العربية](../ar/#bpn4970)» 
 
 
 
@@ -2353,7 +2353,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4971)
 
 
-
+«[العربية](../ar/#bpn4971)» 
 
 
 
@@ -2370,7 +2370,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4969)
 
 
-
+«[العربية](../ar/#bpn4969)» 
 
 
 
@@ -2384,7 +2384,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4973)
 
 
-
+«[العربية](../ar/#bpn4973)» 
 
 
 
@@ -2396,7 +2396,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4967)
 
 
-
+«[العربية](../ar/#bpn4967)» 
 
 
 
@@ -2408,7 +2408,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 4972)
 
 
-
+«[العربية](../ar/#bpn4972)» 
 
 
 
@@ -2426,7 +2426,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3272)
 
 
-
+«[العربية](../ar/#bpn3272)» 
 
 
 
@@ -2444,7 +2444,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3273)
 
 
-
+«[العربية](../ar/#bpn3273)» 
 
 
 
@@ -2462,7 +2462,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3269)
 
 
-
+«[العربية](../ar/#bpn3269)» 
 
 
 
@@ -2480,7 +2480,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3279)
 
 
-
+«[العربية](../ar/#bpn3279)» 
 
 
 
@@ -2497,7 +2497,7 @@ tags = ['lang=ar', 'prayerbook']
 (Bahaiprayers.net ID: 3300)
 
 
-
+«[العربية](../ar/#bpn3300)» 
 
 
 

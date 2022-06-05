@@ -60,7 +60,7 @@ E moni o Oe o le Tupu o tagata uma. E leai se tasi Atua na o Lau Afio, o le Faam
 (Bahaiprayers.net ID: 12366)
 
 
-
+«[Samoan](../sm/#bpn12366)» 
 
 
 
@@ -76,7 +76,7 @@ Ou te augani fa’atauanau atu i Lau Afio, e ala i Lou malosi, Lo’u Atua e! Ia
 (Bahaiprayers.net ID: 12488)
 
 
-
+«[Samoan](../sm/#bpn12488)» 
 
 
 
@@ -90,7 +90,7 @@ Lord! Pitiful are we, grant us Thy favor;…
 (Bahaiprayers.net ID: 12367)
 
 
-
+«[Samoan](../sm/#bpn12367)» 
 
 
 
@@ -107,7 +107,7 @@ Le Atua e! A’oa’oina nei tamaiti. O nei tamaiti ua o ni laau o Lau faatoaga,
 (Bahaiprayers.net ID: 12368)
 
 
-
+«[Samoan](../sm/#bpn12368)» 
 
 
 
@@ -121,7 +121,7 @@ Le Atua e, ta’ita’i a’u, puipui a’u, faapupulaina le lamepa o lo’u lot
 (Bahaiprayers.net ID: 12369)
 
 
-
+«[Samoan](../sm/#bpn12369)» 
 
 
 
@@ -135,7 +135,7 @@ O Thou Kind Lord! These lovely children are the handiwork….
 (Bahaiprayers.net ID: 12370)
 
 
-
+«[Samoan](../sm/#bpn12370)» 
 
 
 
@@ -155,7 +155,7 @@ Glory be to Thee, O Lord my God! Abase not him whom…
 (Bahaiprayers.net ID: 12371)
 
 
-
+«[Samoan](../sm/#bpn12371)» 
 
 
 
@@ -178,7 +178,7 @@ E leai lava se i si Atua na o Oe, o le Tasi, o le Tafatasi, o le Mamana, o le Si
 (Bahaiprayers.net ID: 12372)
 
 
-
+«[Samoan](../sm/#bpn12372)» 
 
 
 
@@ -193,7 +193,7 @@ O my God! O Thou forgiver of sins, bestower of gifts..
 (Bahaiprayers.net ID: 12373)
 
 
-
+«[Samoan](../sm/#bpn12373)» 
 
 
 
@@ -213,7 +213,7 @@ Suffer me, O my God, to draw nigh unto Thee,….
 (Bahaiprayers.net ID: 12374)
 
 
-
+«[Samoan](../sm/#bpn12374)» 
 
 
 
@@ -229,7 +229,7 @@ E moni, o Lou malosi e tutusa ma le tuufaatasiga o mea uma lava.
 (Bahaiprayers.net ID: 12375)
 
 
-
+«[Samoan](../sm/#bpn12375)» 
 
 
 
@@ -251,7 +251,7 @@ E leai se tasi Atua iina na o Lau Afio, o le Malosi-Uma, o le Manumalo-Uma, o le
 (Bahaiprayers.net ID: 12480)
 
 
-
+«[Samoan](../sm/#bpn12480)» 
 
 
 
@@ -271,7 +271,7 @@ Ia viia Oe, le Alii o Lalolagi!
 (Bahaiprayers.net ID: 12481)
 
 
-
+«[Samoan](../sm/#bpn12481)» 
 
 
 
@@ -297,7 +297,7 @@ Lo’u Ali’i e, o lo’o o’u taofi mau i le ‘au o Lau foa’ialofa, ma pip
 (Bahaiprayers.net ID: 12496)
 
 
-
+«[Samoan](../sm/#bpn12496)» 
 
 
 
@@ -315,7 +315,7 @@ Lo’u Alii e, ua silafia e Lau Afio a’u ma o’u mata ua liliu atu aga’i i 
 (Bahaiprayers.net ID: 12483)
 
 
-
+«[Samoan](../sm/#bpn12483)» 
 
 
 
@@ -335,7 +335,7 @@ Lo’u Ali’i e, fa’amagaloina Au auauna tane ma Au auauna fafine.E moni, o L
 (Bahaiprayers.net ID: 12484)
 
 
-
+«[Samoan](../sm/#bpn12484)» 
 
 
 
@@ -351,7 +351,7 @@ O Lau Afio o le Ali’i fa’amagalo! O Lau Afio o le malu o Au auauna uma nei. 
 (Bahaiprayers.net ID: 12485)
 
 
-
+«[Samoan](../sm/#bpn12485)» 
 
 
 
@@ -368,7 +368,7 @@ Amu’ia se fanua,  ma se fale,  ma se nofoaga,  ma se a’ai,  ma se loto,  ma 
 (Bahaiprayers.net ID: 12030)
 
 
-
+«[Samoan](../sm/#bpn12030)» 
 
 
 
@@ -386,7 +386,7 @@ Lo’u Atua e, o Lou suafa o lo’u faamaloloina lea, ma le manatua o Lau Afio o
 (Bahaiprayers.net ID: 12028)
 
 
-
+«[Samoan](../sm/#bpn12028)» 
 
 
 
@@ -406,7 +406,7 @@ Le Atua e, lou Atua! Ou te ole atu ia te Oe ona o le vasa o Lau fa’amalologa, 
 (Bahaiprayers.net ID: 12486)
 
 
-
+«[Samoan](../sm/#bpn12486)» 
 
 
 
@@ -559,7 +559,7 @@ Le Atua e, lo’u Atua, ua no’u lo’u tua i le avega o a’u agasala, ma o lo
 (Bahaiprayers.net ID: 12478)
 
 
-
+«[Samoan](../sm/#bpn12478)» 
 
 
 
@@ -628,7 +628,7 @@ Lo’u Atua e, ia le fa’apologaina o ia o lo’o pipi’i atu ma tamatama’il
 (Bahaiprayers.net ID: 12477)
 
 
-
+«[Samoan](../sm/#bpn12477)» 
 
 
 
@@ -652,7 +652,7 @@ O Lau Afio o le malosi.O Lau Afio e mamana.O Oe o le Foa’i, ma o Oe o le Foa�
 (Bahaiprayers.net ID: 12491)
 
 
-
+«[Samoan](../sm/#bpn12491)» 
 
 
 
@@ -674,7 +674,7 @@ O Lau Afio o le Atua fa’amagalo! O au auauna nei ua liliu atu i Lou malō ma 
 (Bahaiprayers.net ID: 12492)
 
 
-
+«[Samoan](../sm/#bpn12492)» 
 
 
 
@@ -690,7 +690,7 @@ Le Ta’ita’iga e Fa’ale-Atua! O lenei fa’atasiga o se aofiaga o Au uō o
 (Bahaiprayers.net ID: 12493)
 
 
-
+«[Samoan](../sm/#bpn12493)» 
 
 
 
@@ -712,7 +712,7 @@ E moni o Lau Afio o le Foa’i, le Agalelei, le Alofa Mutimutivale, o le Faamaga
 (Bahaiprayers.net ID: 12482)
 
 
-
+«[Samoan](../sm/#bpn12482)» 
 
 
 
@@ -752,7 +752,7 @@ E moni o Lau Afio o le Alofa Tunoa, o le Fa’aneetaga, o le Malosi, o le Malosi
 (Bahaiprayers.net ID: 12487)
 
 
-
+«[Samoan](../sm/#bpn12487)» 
 
 
 
@@ -778,7 +778,7 @@ O Lau afio o le Atua o le mana, o le mamalu ma le foa’ialofa. E leai se tasi A
 (Bahaiprayers.net ID: 12489)
 
 
-
+«[Samoan](../sm/#bpn12489)» 
 
 
 
@@ -796,7 +796,7 @@ Le Ali’i e, lo’u Atua e, ia fa’anene’eina Lau Afio! Ou te tu’uina atu 
 (Bahaiprayers.net ID: 12490)
 
 
-
+«[Samoan](../sm/#bpn12490)» 
 
 
 
@@ -815,7 +815,7 @@ Lauded be Thy name, O Lord my God! I entreat Thee by Thy Name through which the 
 (Bahaiprayers.net ID: 12376)
 
 
-
+«[Samoan](../sm/#bpn12376)» 
 
 
 
@@ -830,7 +830,7 @@ O God, my God! I have set out from my home,..
 (Bahaiprayers.net ID: 12377)
 
 
-
+«[Samoan](../sm/#bpn12377)» 
 
 
 
@@ -866,7 +866,7 @@ E leai lava se tasi Atua na o Oe, o le Fesoasoani i Puapugā, o le Puna– o–
 (Bahaiprayers.net ID: 12476)
 
 
-
+«[Samoan](../sm/#bpn12476)» 
 
 
 
@@ -890,7 +890,7 @@ E moni, o Lau Afio o le Atua o le Mana, le Fesoasoani i Puapuagā, le Mamalu-um
 (Bahaiprayers.net ID: 12494)
 
 
-
+«[Samoan](../sm/#bpn12494)» 
 
 
 
@@ -906,7 +906,7 @@ Le Ali’i e, lo’u Atua! Fesoasoani i Au pele ina  ia mausalī i Lau fa’atu
 (Bahaiprayers.net ID: 12495)
 
 
-
+«[Samoan](../sm/#bpn12495)» 
 
 
 
@@ -925,7 +925,7 @@ E moni o Oe le Malosi-uma , o le Mamalu-uma, o le Mamana-silisili.
 (Bahaiprayers.net ID: 12031)
 
 
-
+«[Samoan](../sm/#bpn12031)» 
 
 
 
@@ -941,7 +941,7 @@ Ia vi’ia le Atua, le Ali’i o lalolagi.
 (Bahaiprayers.net ID: 12479)
 
 
-
+«[Samoan](../sm/#bpn12479)» 
 
 
 
@@ -954,7 +954,7 @@ Fai atu: Ua fa’aatoatoaina e le Atua mea uma i luga o mea uma lava, ma e leai 
 (Bahaiprayers.net ID: 12032)
 
 
-
+«[Samoan](../sm/#bpn12032)» 
 
 
 
@@ -967,7 +967,7 @@ Lo’u Alii e! Lo’u Alii e! O le lamepa lenei na tutuina e le afi o Lou alofa,
 (Bahaiprayers.net ID: 12365)
 
 
-
+«[Samoan](../sm/#bpn12365)» 
 
 
 
@@ -984,7 +984,7 @@ Pe i ai ea se isi Puluvaga  o mea faigata vagana le Atua? Fai atu: Ia viia le At
 (Bahaiprayers.net ID: 12029)
 
 
-
+«[Samoan](../sm/#bpn12029)» 
 
 
 

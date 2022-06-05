@@ -54,7 +54,7 @@ Skapa í mær eitt reint hjarta, O mín Gud, og endurnýggja eina friðfulla sam
 (Bahaiprayers.net ID: 13550)
 
 
-
+«[Føroyar](../fo/#bpn13550)» 
 
 
 
@@ -66,7 +66,7 @@ Eg bøni Teg, O Gud mín, við alla yvirjarðligu dýrd Navns Tíns, um at klæ�
 (Bahaiprayers.net ID: 13551)
 
 
-
+«[Føroyar](../fo/#bpn13551)» 
 
 
 
@@ -82,7 +82,7 @@ Vit fara, øll, vissuliga, at gera eftir Vilja Guds.
 (Bahaiprayers.net ID: 13568)
 
 
-
+«[Føroyar](../fo/#bpn13568)» 
 
 
 
@@ -94,7 +94,7 @@ Dýrd veri Tær, O Gud mín! Sanniliga, hesin tænari Tín og hendan tænastukvi
 (Bahaiprayers.net ID: 13569)
 
 
-
+«[Føroyar](../fo/#bpn13569)» 
 
 
 
@@ -110,7 +110,7 @@ O mín Gud! O mín Gud! Sameina hjørtuni hjá tænarum Tínum og opinbera fyri 
 (Bahaiprayers.net ID: 13548)
 
 
-
+«[Føroyar](../fo/#bpn13548)» 
 
 
 
@@ -126,7 +126,7 @@ O mín Gud! O mín Gud! Sanniliga, hesir tænarar venda sær til Tín, við inni
 (Bahaiprayers.net ID: 13557)
 
 
-
+«[Føroyar](../fo/#bpn13557)» 
 
 
 
@@ -142,7 +142,7 @@ Eg eri vaknaður í skjóli Tínum, O mín Gud, og tað sømir seg honum ið lei
 (Bahaiprayers.net ID: 13562)
 
 
-
+«[Føroyar](../fo/#bpn13562)» 
 
 
 
@@ -154,7 +154,7 @@ O Gud, leið meg, verj meg, upplýs hjartalampu mína og ger meg til eina stála
 (Bahaiprayers.net ID: 13563)
 
 
-
+«[Føroyar](../fo/#bpn13563)» 
 
 
 
@@ -167,7 +167,7 @@ O Harri mín! O Harri mín! Eg eri eitt barn av eymum árum. Gev mær føðslu �
 (Bahaiprayers.net ID: 13564)
 
 
-
+«[Føroyar](../fo/#bpn13564)» 
 
 
 
@@ -179,7 +179,7 @@ O Gud! Gev hesum børnum lærdóm. Hesi børn eru plantur aldingarðs Tíns, bl�
 (Bahaiprayers.net ID: 13565)
 
 
-
+«[Føroyar](../fo/#bpn13565)» 
 
 
 
@@ -191,7 +191,7 @@ O Gud! Al upp hetta lítla pinkubarn í føvningi kærleiks Tíns, og gev tí mj
 (Bahaiprayers.net ID: 13566)
 
 
-
+«[Føroyar](../fo/#bpn13566)» 
 
 
 
@@ -203,7 +203,7 @@ Ger stig okkara føst, O Harri, á gøtu Tíni og styrk Tú hjørtu okkara í l�
 (Bahaiprayers.net ID: 13567)
 
 
-
+«[Føroyar](../fo/#bpn13567)» 
 
 
 
@@ -221,7 +221,7 @@ O Gud mín! O Tú syndanna fyrigevari, veitari av gávum! Burturbeinari av tvør
 (Bahaiprayers.net ID: 13558)
 
 
-
+«[Føroyar](../fo/#bpn13558)» 
 
 
 
@@ -237,7 +237,7 @@ O Harri! Ger hendan ungdóm strálandi, og veit hesum neyðars skapningi Títt g
 (Bahaiprayers.net ID: 13561)
 
 
-
+«[Føroyar](../fo/#bpn13561)» 
 
 
 
@@ -253,7 +253,7 @@ Navn Títt er mín grøðing, O mín Gud, og at minnast til Tín er mín heiliv�
 (Bahaiprayers.net ID: 13552)
 
 
-
+«[Føroyar](../fo/#bpn13552)» 
 
 
 
@@ -269,7 +269,7 @@ O Tú Hvørs andlit er mið mínar dýrmetingar, Hvørs fagurleiki er mítt halg
 (Bahaiprayers.net ID: 13553)
 
 
-
+«[Føroyar](../fo/#bpn13553)» 
 
 
 
@@ -281,7 +281,7 @@ O Harri mín! Ger fagurleika Tín til føði mína, og nærveru Tína drykk mín
 (Bahaiprayers.net ID: 13554)
 
 
-
+«[Føroyar](../fo/#bpn13554)» 
 
 
 
@@ -297,7 +297,7 @@ O Gud, mín Gud! Hjálp Tú Tínum tiltrúnu tænarum at hava kærleiksfull og e
 (Bahaiprayers.net ID: 13556)
 
 
-
+«[Føroyar](../fo/#bpn13556)» 
 
 
 
@@ -314,7 +314,7 @@ O Gud, mín Gud! Hjálp Tú Tínum tiltrúnu tænarum at hava kærleiksfull og e
 (Bahaiprayers.net ID: 13560)
 
 
-
+«[Føroyar](../fo/#bpn13560)» 
 
 
 
@@ -330,7 +330,7 @@ Eg bøni Teg, O Gud mín, við Títt mest upphevjaða Orð ið Tú hevur fyriskr
 (Bahaiprayers.net ID: 13549)
 
 
-
+«[Føroyar](../fo/#bpn13549)» 
 
 
 
@@ -354,7 +354,7 @@ Prísaður veri Tú, O mín Gud, at Tú hevur fyriskipað Naw-Rúz sum eina høg
 (Bahaiprayers.net ID: 13571)
 
 
-
+«[Føroyar](../fo/#bpn13571)» 
 
 
 
@@ -370,7 +370,7 @@ Eg bøni Teg við veldi Títt, O mín Gud! Lat ongan skaða falla á meg í tí�
 (Bahaiprayers.net ID: 13547)
 
 
-
+«[Føroyar](../fo/#bpn13547)» 
 
 
 
@@ -382,7 +382,7 @@ Er nakar Loysari trupulleika uttan Gud? Sig: Lovaður veri Gud! Hann er Gud! Øl
 (Bahaiprayers.net ID: 13546)
 
 
-
+«[Føroyar](../fo/#bpn13546)» 
 
 
 
@@ -403,7 +403,7 @@ Eg vitni, O Gud mín, at Tú hevur skapað meg til at kenna Teg og tilbiðja Teg
 (Bahaiprayers.net ID: 13545)
 
 
-
+«[Føroyar](../fo/#bpn13545)» 
 
 
 
@@ -435,7 +435,7 @@ Hann er Kongurin, hin Alvitandi, hin Vísi.
 (Bahaiprayers.net ID: 13570)
 
 
-
+«[Føroyar](../fo/#bpn13570)» 
 
 
 
@@ -451,7 +451,7 @@ Dýrd veri Tær, Sum hevur fingið øll tey Heiløgu at játta sítt hjálparloy
 (Bahaiprayers.net ID: 13555)
 
 
-
+«[Føroyar](../fo/#bpn13555)» 
 
 
 
@@ -467,7 +467,7 @@ O Gud, mín Gud! Eg vitni um eind Tína og um einleika Tín. Eg bøni Teg, O Tú
 (Bahaiprayers.net ID: 13559)
 
 
-
+«[Føroyar](../fo/#bpn13559)» 
 
 
 

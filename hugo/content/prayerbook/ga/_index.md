@@ -29,7 +29,7 @@ agus inar móradh a ghlóir.
 (Bahaiprayers.net ID: 6016)
 
 
-
+«[Irish](../ga/#bpn6016)» 
 
 
 
@@ -44,7 +44,7 @@ Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann 
 (Bahaiprayers.net ID: 6015)
 
 
-
+«[Irish](../ga/#bpn6015)» 
 
 
 

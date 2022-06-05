@@ -115,7 +115,7 @@ Nuk ka Perëndi tjetër veç Teje, të Gjithëdijshmit, Urtiplotit. Lëvduar qof
 (Bahaiprayers.net ID: 2851)
 
 
-
+«[Shqip](../sq/#bpn2851)» 
 
 
 
@@ -157,7 +157,7 @@ Të përgjërohem Ty, O Zoti im, për Veten Tënde, dhe për shenjat e Tua e pro
 (Bahaiprayers.net ID: 2853)
 
 
-
+«[Shqip](../sq/#bpn2853)» 
 
 
 
@@ -169,7 +169,7 @@ O Providencë Hyjnore! Edhe pse unë po përmbahem nga dëshirat trupore dhe nuk
 (Bahaiprayers.net ID: 2852)
 
 
-
+«[Shqip](../sq/#bpn2852)» 
 
 
 
@@ -188,7 +188,7 @@ O Perëndi, Perëndia im! Ne jemi shërbëtorët e Tu që janë kthyer me përku
 (Bahaiprayers.net ID: 2759)
 
 
-
+«[Shqip](../sq/#bpn2759)» 
 
 
 
@@ -205,7 +205,7 @@ O Ti Dhuruesi Ynë! Dërgona ndihmën Tënde, që çdo njeri i ardhur këtu të 
 (Bahaiprayers.net ID: 2760)
 
 
-
+«[Shqip](../sq/#bpn2760)» 
 
 
 
@@ -226,7 +226,7 @@ Me të vërtetë, Ti je Fisniku, i Mëshirshmi. Ti je Zotëruesi i bujarisë së
 (Bahaiprayers.net ID: 2761)
 
 
-
+«[Shqip](../sq/#bpn2761)» 
 
 
 
@@ -248,7 +248,7 @@ Me të vërtetë, Ti je i Çmuari, Gjithmonëdhënësi, Dorëhapuri.
 (Bahaiprayers.net ID: 2762)
 
 
-
+«[Shqip](../sq/#bpn2762)» 
 
 
 
@@ -275,7 +275,7 @@ Ti, me të vërtetë, je Fuqiploti, i Gjithëdijshmi, i Gjithinformuari.
 (Bahaiprayers.net ID: 2850)
 
 
-
+«[Shqip](../sq/#bpn2850)» 
 
 
 
@@ -294,7 +294,7 @@ Drita dhe lavdia, përshëndetjet dhe lavdërimi qofshin mbi Duart e Kauzës së
 (Bahaiprayers.net ID: 2763)
 
 
-
+«[Shqip](../sq/#bpn2763)» 
 
 
 
@@ -312,7 +312,7 @@ I lëvduar je Ti, O Më i Shumëdashuri im, përhap mbi të shijet e ëmbla të 
 (Bahaiprayers.net ID: 2768)
 
 
-
+«[Shqip](../sq/#bpn2768)» 
 
 
 
@@ -324,7 +324,7 @@ O Ti Zot i pashoq! le të mëkohet kjo foshnjë e vogël nga gjiri i dashamirës
 (Bahaiprayers.net ID: 2769)
 
 
-
+«[Shqip](../sq/#bpn2769)» 
 
 
 
@@ -336,7 +336,7 @@ O Perëndi! Rrite këtë foshnjë të vogël në prehërin e dashurisë Sate, dh
 (Bahaiprayers.net ID: 2770)
 
 
-
+«[Shqip](../sq/#bpn2770)» 
 
 
 
@@ -348,7 +348,7 @@ O Perëndi, më udhëhiq, më mbro, më bëj një llambë ndriçuese e një yll 
 (Bahaiprayers.net ID: 2771)
 
 
-
+«[Shqip](../sq/#bpn2771)» 
 
 
 
@@ -360,7 +360,7 @@ O Perëndi! Edukoji këta fëmijë. Këta fëmijë janë bimët e pemishtes Sate
 (Bahaiprayers.net ID: 2772)
 
 
-
+«[Shqip](../sq/#bpn2772)» 
 
 
 
@@ -374,7 +374,7 @@ Ti je Bujari, Dashuriploti.
 (Bahaiprayers.net ID: 2773)
 
 
-
+«[Shqip](../sq/#bpn2773)» 
 
 
 
@@ -389,7 +389,7 @@ Me të vërtetë, Ti je i Pushtetshmi, i Fuqishmi, Shikuesi, Dëgjuesi.
 (Bahaiprayers.net ID: 2774)
 
 
-
+«[Shqip](../sq/#bpn2774)» 
 
 
 
@@ -401,7 +401,7 @@ O Ti, më i lavdishmi Zot! Bëje të bekuar e të lumtur shërbëtoren Tënde t�
 (Bahaiprayers.net ID: 2775)
 
 
-
+«[Shqip](../sq/#bpn2775)» 
 
 
 
@@ -414,7 +414,7 @@ O Zot! Bëje këtë të ri që të shkëlqejë dhe dhuroji bujarinë Tënde kës
 (Bahaiprayers.net ID: 2776)
 
 
-
+«[Shqip](../sq/#bpn2776)» 
 
 
 
@@ -430,7 +430,7 @@ I Madhërishëm je Ti, O Zot i të gjithë Krijimit, Ai tek i Cili duhet të kth
 (Bahaiprayers.net ID: 2778)
 
 
-
+«[Shqip](../sq/#bpn2778)» 
 
 
 
@@ -446,7 +446,7 @@ Unë të përgjërohem, O Zot i të gjithë emrave e krijues i qiejve, të më n
 (Bahaiprayers.net ID: 2779)
 
 
-
+«[Shqip](../sq/#bpn2779)» 
 
 
 
@@ -469,7 +469,7 @@ Me të vërtetë, Ti je Mbështetësi, Ndihmuesi, Zemërgjeri, Bujari, Gjithmon�
 (Bahaiprayers.net ID: 2777)
 
 
-
+«[Shqip](../sq/#bpn2777)» 
 
 
 
@@ -487,7 +487,7 @@ Ndriçoji, O Zot, fytyrat e shërbëtorëve të Tu, që ata të të shohin Ty; q
 (Bahaiprayers.net ID: 2780)
 
 
-
+«[Shqip](../sq/#bpn2780)» 
 
 
 
@@ -503,7 +503,7 @@ Ti je Zemërdhembshuri, i Mëshirshmi. Ti je Perëndia i Madh Mirëbërës.
 (Bahaiprayers.net ID: 2781)
 
 
-
+«[Shqip](../sq/#bpn2781)» 
 
 
 
@@ -528,7 +528,7 @@ Nuk ka Perëndi tjetër veç Teje, Ndihmës në Rrezik, të Vetëqenëshmit.
 (Bahaiprayers.net ID: 2756)
 
 
-
+«[Shqip](../sq/#bpn2756)» 
 
 
 
@@ -603,7 +603,7 @@ Unë dëshmoj, O Perëndia im, për atë që kanë dëshmuar të Zgjedhurit e Tu
 (Bahaiprayers.net ID: 2758)
 
 
-
+«[Shqip](../sq/#bpn2758)» 
 
 
 
@@ -791,7 +791,7 @@ Ti je me të vërtetë i Fuqishmi, i Gjithëmjaftueshmi, Shëruesi, Mbrojtësi, 
 (Bahaiprayers.net ID: 2860)
 
 
-
+«[Shqip](../sq/#bpn2860)» 
 
 
 
@@ -805,7 +805,7 @@ Sa më e shkëputur dhe më e kulluar të jetë lutja, aq më e pranueshme bëhe
 (Bahaiprayers.net ID: 2861)
 
 
-
+«[Shqip](../sq/#bpn2861)» 
 
 
 
@@ -845,7 +845,7 @@ Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti j
 (Bahaiprayers.net ID: 2757)
 
 
-
+«[Shqip](../sq/#bpn2757)» 
 
 
 
@@ -865,7 +865,7 @@ O Perëndi! Mbromë nga tundimet. Ti e di fare mirë se unë jam ndarë nga të 
 (Bahaiprayers.net ID: 2782)
 
 
-
+«[Shqip](../sq/#bpn2782)» 
 
 
 
@@ -886,7 +886,7 @@ Me të vërtetë, Ti je i Gjithëpushtetshmi, i Gjithëpranishmi dhe Fuqiploti!
 (Bahaiprayers.net ID: 2783)
 
 
-
+«[Shqip](../sq/#bpn2783)» 
 
 
 
@@ -902,7 +902,7 @@ O Ti zemërdhembshur, Ti i Gjithëfuqishmi! Ky grumbullim njerëzish i ka kthyer
 (Bahaiprayers.net ID: 2784)
 
 
-
+«[Shqip](../sq/#bpn2784)» 
 
 
 
@@ -914,7 +914,7 @@ O Perëndi! Me të vërtetë, ne jemi mbledhur këtu në aromën e dashurisë Sa
 (Bahaiprayers.net ID: 2785)
 
 
-
+«[Shqip](../sq/#bpn2785)» 
 
 
 
@@ -928,7 +928,7 @@ Me të vërtetë, Ti je i Gjithëpushtetshmi e Fuqiploti!
 (Bahaiprayers.net ID: 2786)
 
 
-
+«[Shqip](../sq/#bpn2786)» 
 
 
 
@@ -940,7 +940,7 @@ Sa herë që një grup njerëzish do të mblidhen në një vend takimi, do të l
 (Bahaiprayers.net ID: 2787)
 
 
-
+«[Shqip](../sq/#bpn2787)» 
 
 
 
@@ -960,7 +960,7 @@ Ti, me të vërtetë, je i Gjithëfuqishmi, Më i Lavdëruari, Gjithmonëfalësi
 (Bahaiprayers.net ID: 2788)
 
 
-
+«[Shqip](../sq/#bpn2788)» 
 
 
 
@@ -976,7 +976,7 @@ O Ti Mbret i Mbretërve! O Ti Zot dashamirës! O Ti Burim i bujarisë së lasht�
 (Bahaiprayers.net ID: 2793)
 
 
-
+«[Shqip](../sq/#bpn2793)» 
 
 
 
@@ -988,7 +988,7 @@ O Ti Providencë hyjnore, ne jemi për të të ardhur keq, na jep mbështetjen T
 (Bahaiprayers.net ID: 2789)
 
 
-
+«[Shqip](../sq/#bpn2789)» 
 
 
 
@@ -1013,7 +1013,7 @@ Në të vërtetë, Ti je Bujari, i Fuqishmi, Ai që ka në dorë gjithçka, i Pa
 (Bahaiprayers.net ID: 2790)
 
 
-
+«[Shqip](../sq/#bpn2790)» 
 
 
 
@@ -1025,7 +1025,7 @@ O Perëndi, Perëndia im! Ruaji shërbëtorët e Tu të besuar nga e keqja e ego
 (Bahaiprayers.net ID: 2791)
 
 
-
+«[Shqip](../sq/#bpn2791)» 
 
 
 
@@ -1039,7 +1039,7 @@ Fute nën mbrojtjen Tënde, O Ti Shpirt i dëlirësisë, Ti që je Dhënësi Buj
 (Bahaiprayers.net ID: 2792)
 
 
-
+«[Shqip](../sq/#bpn2792)» 
 
 
 
@@ -1060,7 +1060,7 @@ Me të vërtetë, Ti je Dhënësi, Zemërgjeri, i Mëshirshmi, Falësi.
 (Bahaiprayers.net ID: 2804)
 
 
-
+«[Shqip](../sq/#bpn2804)» 
 
 
 
@@ -1082,7 +1082,7 @@ Ti je, me të vërtetë, Zoti e Mbreti i gjithë njerëzve dhe ke pushtet mbi t�
 (Bahaiprayers.net ID: 2794)
 
 
-
+«[Shqip](../sq/#bpn2794)» 
 
 
 
@@ -1094,7 +1094,7 @@ U zgjova nën strehën Tënde, O Perëndia im, dhe u bëra ai që e kërkon kët
 (Bahaiprayers.net ID: 2795)
 
 
-
+«[Shqip](../sq/#bpn2795)» 
 
 
 
@@ -1112,7 +1112,7 @@ Lëvduar qoftë Perëndia, Zoti i të gjitha botëve.
 (Bahaiprayers.net ID: 2796)
 
 
-
+«[Shqip](../sq/#bpn2796)» 
 
 
 
@@ -1126,7 +1126,7 @@ O Zot! Unë jam një i vetëm, i vetmuar e i këputur. Nuk ka tjetër mbështetj
 (Bahaiprayers.net ID: 2797)
 
 
-
+«[Shqip](../sq/#bpn2797)» 
 
 
 
@@ -1140,7 +1140,7 @@ Ti je, me të vërtetë, Zemërgjeri, Falësi.
 (Bahaiprayers.net ID: 2798)
 
 
-
+«[Shqip](../sq/#bpn2798)» 
 
 
 
@@ -1156,7 +1156,7 @@ Me të vërtetë, Ti je i Pushtetshmi, i Fuqishmi dhe Ai që ka në dorë gjith�
 (Bahaiprayers.net ID: 2799)
 
 
-
+«[Shqip](../sq/#bpn2799)» 
 
 
 
@@ -1168,7 +1168,7 @@ O Perëndi, Perëndia im! Ndihmoji shërbëtorët e Tu të besuar që të kenë 
 (Bahaiprayers.net ID: 2800)
 
 
-
+«[Shqip](../sq/#bpn2800)» 
 
 
 
@@ -1189,7 +1189,7 @@ O Zot! Unë jam i dobët, më forco me pushtetin e fuqinë Tënde. Gjuha ime bel
 (Bahaiprayers.net ID: 2801)
 
 
-
+«[Shqip](../sq/#bpn2801)» 
 
 
 
@@ -1209,7 +1209,7 @@ Nuk ka Perëndi veç Teje, Fuqiplotit, Gjithënënshtruesit, të Pakushtëzuarit
 (Bahaiprayers.net ID: 2802)
 
 
-
+«[Shqip](../sq/#bpn2802)» 
 
 
 
@@ -1225,7 +1225,7 @@ Për fuqinë Tënde! Nuk dua tjetër gjë, kur fle ose jam zgjuar, veç asaj që
 (Bahaiprayers.net ID: 2803)
 
 
-
+«[Shqip](../sq/#bpn2803)» 
 
 
 
@@ -1241,7 +1241,7 @@ O Perëndia im! Të kërkoj Ty, për Emrin Tënd më të lavdishëm, të më ndi
 (Bahaiprayers.net ID: 2805)
 
 
-
+«[Shqip](../sq/#bpn2805)» 
 
 
 
@@ -1253,7 +1253,7 @@ O Ti, sprovat e të Cilit janë ilaç shërues për ata që ndodhen pranë Teje,
 (Bahaiprayers.net ID: 2806)
 
 
-
+«[Shqip](../sq/#bpn2806)» 
 
 
 
@@ -1265,7 +1265,7 @@ Jini të duruar në të gjitha kushtet dhe mbështeteni tërësisht besimin e sh
 (Bahaiprayers.net ID: 2807)
 
 
-
+«[Shqip](../sq/#bpn2807)» 
 
 
 
@@ -1277,7 +1277,7 @@ A ka ndonjë Largues të vështirësive veç Perëndisë? Thuaj: Lëvduar qoftë
 (Bahaiprayers.net ID: 2808)
 
 
-
+«[Shqip](../sq/#bpn2808)» 
 
 
 
@@ -1289,7 +1289,7 @@ Thuaj: Perëndia është i mjaftueshëm në gjithçka e mbi gjithçka, dhe asgj�
 (Bahaiprayers.net ID: 2809)
 
 
-
+«[Shqip](../sq/#bpn2809)» 
 
 
 
@@ -1305,7 +1305,7 @@ Jepna bukën tonë të përditshme dhe dhurona shtesën Tënde në nevojat e jet
 (Bahaiprayers.net ID: 2810)
 
 
-
+«[Shqip](../sq/#bpn2810)» 
 
 
 
@@ -1317,7 +1317,7 @@ O Zot, Perëndia im! Ndihmoji të dashurit e Tu të jenë të vendosur në Besim
 (Bahaiprayers.net ID: 2811)
 
 
-
+«[Shqip](../sq/#bpn2811)» 
 
 
 
@@ -1346,7 +1346,7 @@ Me të vërtetë, Ti je i Pushtetshmi, Bujari. Nuk ka Perëndi tjetër veç Teje
 (Bahaiprayers.net ID: 2764)
 
 
-
+«[Shqip](../sq/#bpn2764)» 
 
 
 
@@ -1360,7 +1360,7 @@ Me të vërtetë Ti je Ndihma në Rrezik, i Vetëqenëshmi.
 (Bahaiprayers.net ID: 2765)
 
 
-
+«[Shqip](../sq/#bpn2765)» 
 
 
 
@@ -1372,7 +1372,7 @@ O Perëndia im, O Zoti im, O Mjeshtri im! Unë të lutem të më falësh që kam
 (Bahaiprayers.net ID: 2766)
 
 
-
+«[Shqip](../sq/#bpn2766)» 
 
 
 
@@ -1384,7 +1384,7 @@ O Ti Zot që fal! Ti je streha e të gjithë shërbëtorëve të Tu. Ti i di të
 (Bahaiprayers.net ID: 2767)
 
 
-
+«[Shqip](../sq/#bpn2767)» 
 
 
 
@@ -1400,7 +1400,7 @@ O Perëndi! Ne jemi të dobët; jepna fuqi. Ne jemi të varfër; dhurona thesare
 (Bahaiprayers.net ID: 2814)
 
 
-
+«[Shqip](../sq/#bpn2814)» 
 
 
 
@@ -1424,7 +1424,7 @@ Ti je i Fuqishmi e i Pushtetshmi, Ti je Falësi dhe Ti je Ai që nuk i vë re t�
 (Bahaiprayers.net ID: 2813)
 
 
-
+«[Shqip](../sq/#bpn2813)» 
 
 
 
@@ -1454,7 +1454,7 @@ Ti je, me të vërtetë, i Gjithëdijshmi, Urtiploti.
 (Bahaiprayers.net ID: 2854)
 
 
-
+«[Shqip](../sq/#bpn2854)» 
 
 
 
@@ -1472,7 +1472,7 @@ O Zoti im, unë ta përkushtoj Ty atë që është në barkun tim. Bëj, pra, q�
 (Bahaiprayers.net ID: 2812)
 
 
-
+«[Shqip](../sq/#bpn2812)» 
 
 
 
@@ -1488,7 +1488,7 @@ Ti i shikon, O Zot, duart tona që luten të shtrira drejt qiellit të favorit e
 (Bahaiprayers.net ID: 2818)
 
 
-
+«[Shqip](../sq/#bpn2818)» 
 
 
 
@@ -1500,7 +1500,7 @@ O Zot! Në këtë Dispensacion Më të Madh, Ti e pranon ndërhyrjen e fëmijëv
 (Bahaiprayers.net ID: 2819)
 
 
-
+«[Shqip](../sq/#bpn2819)» 
 
 
 
@@ -1535,7 +1535,7 @@ Ne të gjithë, me të vërtetë, jemi të duruar në Perëndinë.
 (Bahaiprayers.net ID: 2815)
 
 
-
+«[Shqip](../sq/#bpn2815)» 
 
 
 
@@ -1551,7 +1551,7 @@ I lavdëruar, pafundësisht i lavdëruar je Ti! Ti je i adhuruar në të vërtet
 (Bahaiprayers.net ID: 2816)
 
 
-
+«[Shqip](../sq/#bpn2816)» 
 
 
 
@@ -1570,7 +1570,7 @@ O Zoti im! Pastroji ata nga gabimet, largoji hidhërimet e tyre dhe ktheje errë
 (Bahaiprayers.net ID: 2817)
 
 
-
+«[Shqip](../sq/#bpn2817)» 
 
 
 
@@ -1586,7 +1586,7 @@ Krijo tek unë një zemër të kulluar, O Perëndia im, dhe përtëri një ndër
 (Bahaiprayers.net ID: 2820)
 
 
-
+«[Shqip](../sq/#bpn2820)» 
 
 
 
@@ -1600,7 +1600,7 @@ O Providencë Hyjnore! Çdo ekzistencë lind nga bujaria Jote; mos ia moho asaj 
 (Bahaiprayers.net ID: 2821)
 
 
-
+«[Shqip](../sq/#bpn2821)» 
 
 
 
@@ -1612,7 +1612,7 @@ Thuaj: O Perëndi, Perëndia im! Stolise kokën time me kurorën e drejtësisë 
 (Bahaiprayers.net ID: 2822)
 
 
-
+«[Shqip](../sq/#bpn2822)» 
 
 
 
@@ -1626,7 +1626,7 @@ Ti je, me të vërtetë, i Gjithëfuqishmi, Lavdiploti, Më i Pushtetshmi.
 (Bahaiprayers.net ID: 2827)
 
 
-
+«[Shqip](../sq/#bpn2827)» 
 
 
 
@@ -1640,7 +1640,7 @@ O Perëndi, Ti je për mua më shumë mik, sesa jam unë për veten time. Unë t
 (Bahaiprayers.net ID: 2823)
 
 
-
+«[Shqip](../sq/#bpn2823)» 
 
 
 
@@ -1652,7 +1652,7 @@ O Zot! Ne jemi të dobët; forcona. O Perëndi! Ne jemi injorantë; bëna të di
 (Bahaiprayers.net ID: 2824)
 
 
-
+«[Shqip](../sq/#bpn2824)» 
 
 
 
@@ -1670,7 +1670,7 @@ Ti je, me të vërtetë, Fuqiploti, Lavdiploti, i Gjithëpushtetshmi.
 (Bahaiprayers.net ID: 2825)
 
 
-
+«[Shqip](../sq/#bpn2825)» 
 
 
 
@@ -1682,7 +1682,7 @@ O Zoti im, i Shumëdashuri im, Dëshira ime! Më ji mik në vetminë time dhe sh
 (Bahaiprayers.net ID: 2826)
 
 
-
+«[Shqip](../sq/#bpn2826)» 
 
 
 
@@ -1706,7 +1706,7 @@ Ty të takon autoriteti absolut për të urdhëruar.
 (Bahaiprayers.net ID: 2836)
 
 
-
+«[Shqip](../sq/#bpn2836)» 
 
 
 
@@ -1718,7 +1718,7 @@ O Perëndia im, Zoti im dhe Mjeshtri im! Unë e kam shkëputur veten nga të af�
 (Bahaiprayers.net ID: 2837)
 
 
-
+«[Shqip](../sq/#bpn2837)» 
 
 
 
@@ -1734,7 +1734,7 @@ Emri Yt është shërimi im, O Perëndia im, dhe kujtimi Yt është ilaçi im. A
 (Bahaiprayers.net ID: 2834)
 
 
-
+«[Shqip](../sq/#bpn2834)» 
 
 
 
@@ -1748,7 +1748,7 @@ Unë të lutem, pra, për emrin Tënd, përmes të cilit Ti shfaqe Hyjninë Tën
 (Bahaiprayers.net ID: 2835)
 
 
-
+«[Shqip](../sq/#bpn2835)» 
 
 
 
@@ -1768,7 +1768,7 @@ Dhe, së fundi, unë të lutem Ty, për dritën e fytyrës Sate, t'i bekosh pun�
 (Bahaiprayers.net ID: 2828)
 
 
-
+«[Shqip](../sq/#bpn2828)» 
 
 
 
@@ -1780,7 +1780,7 @@ I armatosur me fuqinë e emrit Tënd, asgjë nuk mund të më dëmtojë kurrë, 
 (Bahaiprayers.net ID: 2833)
 
 
-
+«[Shqip](../sq/#bpn2833)» 
 
 
 
@@ -1792,7 +1792,7 @@ Unë të përgjërohem, për fuqinë Tënde, O Perëndia im! Asnjë dëm të mos
 (Bahaiprayers.net ID: 2829)
 
 
-
+«[Shqip](../sq/#bpn2829)» 
 
 
 
@@ -1804,7 +1804,7 @@ O Zot! Ti je Larguesi i çdo ankthi e Davaritësi i çdo të keqeje. Ti je Ai q�
 (Bahaiprayers.net ID: 2830)
 
 
-
+«[Shqip](../sq/#bpn2830)» 
 
 
 
@@ -1820,7 +1820,7 @@ Me të vërtetë, Ti je Mbrojtësi, Mbikqyrësi, Ruajtësi, i Mjaftueshmi, dhe m
 (Bahaiprayers.net ID: 2831)
 
 
-
+«[Shqip](../sq/#bpn2831)» 
 
 
 
@@ -1852,7 +1852,7 @@ Ti je, me të vërtetë, i Hirshmi, i Lavdëruari, i Fuqishmi, Ai Që ka në dor
 (Bahaiprayers.net ID: 2832)
 
 
-
+«[Shqip](../sq/#bpn2832)» 
 
 
 
@@ -1901,7 +1901,7 @@ Me të vërtetë, Ai është i Mëshirshmi, i Dhembshuri. Lëvduar qoftë Perën
 (Bahaiprayers.net ID: 2856)
 
 
-
+«[Shqip](../sq/#bpn2856)» 
 
 
 
@@ -1926,7 +1926,7 @@ Gëzohuni me ngazëllim të paparë, O njerëz të Bahá-it, ndërsa sillni ndë
 (Bahaiprayers.net ID: 2855)
 
 
-
+«[Shqip](../sq/#bpn2855)» 
 
 
 
@@ -2113,7 +2113,7 @@ Sikur të gjithë shërbëtorët ta lexojnë e të thellohen në të, në damar�
 (Bahaiprayers.net ID: 2859)
 
 
-
+«[Shqip](../sq/#bpn2859)» 
 
 
 
@@ -2140,7 +2140,7 @@ Ti je Dhuruesi, i Mëshirshmi, Më Bujari, i Hirshmi, Mëshiruesi, Zemërdhembsh
 (Bahaiprayers.net ID: 2858)
 
 
-
+«[Shqip](../sq/#bpn2858)» 
 
 
 
@@ -2171,7 +2171,7 @@ Bekoje, O Zot Perëndia im, Pemën Hyjnore të Lotosit dhe gjethet e saj dhe deg
 (Bahaiprayers.net ID: 2857)
 
 
-
+«[Shqip](../sq/#bpn2857)» 
 
 
 
@@ -2187,7 +2187,7 @@ Të lutem Ty, O Perëndia im, për pushtetin Tënd dhe për fuqinë Tënde, dhe 
 (Bahaiprayers.net ID: 2838)
 
 
-
+«[Shqip](../sq/#bpn2838)» 
 
 
 
@@ -2205,7 +2205,7 @@ Nuk ka Perëndi tjetër veç Teje, të Vetmit, të Pakrahasueshmit, të Gjithëd
 (Bahaiprayers.net ID: 2839)
 
 
-
+«[Shqip](../sq/#bpn2839)» 
 
 
 
@@ -2217,7 +2217,7 @@ O Perëndi, Perëndia im! Unë dola nga shtëpia ime duke u mbajtur fort pas fil
 (Bahaiprayers.net ID: 2840)
 
 
-
+«[Shqip](../sq/#bpn2840)» 
 
 
 
@@ -2233,7 +2233,7 @@ Dhëntë Zoti që drita e unitetit të përfshijë gjithë botën dhe që vula "
 (Bahaiprayers.net ID: 2841)
 
 
-
+«[Shqip](../sq/#bpn2841)» 
 
 
 
@@ -2245,7 +2245,7 @@ O Perëndia im! O Perëndia im! Bashkoji zemrat e shërbëtorëve të Tu dhe zbu
 (Bahaiprayers.net ID: 2842)
 
 
-
+«[Shqip](../sq/#bpn2842)» 
 
 
 
@@ -2263,7 +2263,7 @@ Na revelo, O Perëndi, përjetësinë Tënde të lavdëruar - që Ti ke qenë gj
 (Bahaiprayers.net ID: 2843)
 
 
-
+«[Shqip](../sq/#bpn2843)» 
 
 
 
@@ -2275,7 +2275,7 @@ O Ti Që je Zoti i Zotave! Unë dëshmoj se Ti je Zoti i gjithë krijimit dhe Ed
 (Bahaiprayers.net ID: 2844)
 
 
-
+«[Shqip](../sq/#bpn2844)» 
 
 
 
@@ -2287,7 +2287,7 @@ Dhëntë Zoti që drita e unitetit të mbështjellë gjithë tokën dhe që vula
 (Bahaiprayers.net ID: 2845)
 
 
-
+«[Shqip](../sq/#bpn2845)» 
 
 
 
@@ -2299,7 +2299,7 @@ O Ti Dhënësi! Dëshira më e shtrenjtë e këtij shërbëtori të Pragut Tënd
 (Bahaiprayers.net ID: 2846)
 
 
-
+«[Shqip](../sq/#bpn2846)» 
 
 
 
@@ -2316,7 +2316,7 @@ Ne i lutemi Zotit t'i ndihmojë me dashamirësi ata që kanë gabuar rrugë të 
 (Bahaiprayers.net ID: 2849)
 
 
-
+«[Shqip](../sq/#bpn2849)» 
 
 
 
@@ -2332,7 +2332,7 @@ Ti je Falësi, i Hirshmi.
 (Bahaiprayers.net ID: 2847)
 
 
-
+«[Shqip](../sq/#bpn2847)» 
 
 
 
@@ -2344,7 +2344,7 @@ O Zoti im dhe Shpresa ime! Ndihmoji të dashurit e Tu që të jenë të patundur
 (Bahaiprayers.net ID: 2848)
 
 
-
+«[Shqip](../sq/#bpn2848)» 
 
 
 
@@ -2368,7 +2368,7 @@ dhe lëvdata e Tij është lartësuar.
 (Bahaiprayers.net ID: 2862)
 
 
-
+«[Shqip](../sq/#bpn2862)» 
 
 
 
@@ -2380,7 +2380,7 @@ KËNDOJI, O shërbëtori Im, vargjet e Perëndisë, që ti ke marrë, ashtu siç
 (Bahaiprayers.net ID: 2863)
 
 
-
+«[Shqip](../sq/#bpn2863)» 
 
 
 
@@ -2392,7 +2392,7 @@ O Perëndi, Perëndia im, i Shumëdashuri im, Dëshira e zemrës sime.
 (Bahaiprayers.net ID: 2864)
 
 
-
+«[Shqip](../sq/#bpn2864)» 
 
 
 

@@ -122,7 +122,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5531)
 
 
-
+«[日本語](../ja/#bpn5531)» 
 
 
 
@@ -140,7 +140,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5532)
 
 
-
+«[日本語](../ja/#bpn5532)» 
 
 
 
@@ -160,7 +160,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5533)
 
 
-
+«[日本語](../ja/#bpn5533)» 
 
 
 
@@ -185,7 +185,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5534)
 
 
-
+«[日本語](../ja/#bpn5534)» 
 
 
 
@@ -202,7 +202,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5535)
 
 
-
+«[日本語](../ja/#bpn5535)» 
 
 
 
@@ -218,7 +218,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5536)
 
 
-
+«[日本語](../ja/#bpn5536)» 
 
 
 
@@ -235,7 +235,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5537)
 
 
-
+«[日本語](../ja/#bpn5537)» 
 
 
 
@@ -251,7 +251,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5538)
 
 
-
+«[日本語](../ja/#bpn5538)» 
 
 
 
@@ -266,7 +266,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5539)
 
 
-
+«[日本語](../ja/#bpn5539)» 
 
 
 
@@ -283,7 +283,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5540)
 
 
-
+«[日本語](../ja/#bpn5540)» 
 
 
 
@@ -302,7 +302,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5565)
 
 
-
+«[日本語](../ja/#bpn5565)» 
 
 
 
@@ -335,7 +335,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5557)
 
 
-
+«[日本語](../ja/#bpn5557)» 
 
 
 
@@ -353,7 +353,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5522)
 
 
-
+«[日本語](../ja/#bpn5522)» 
 
 
 
@@ -368,7 +368,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5523)
 
 
-
+«[日本語](../ja/#bpn5523)» 
 
 
 
@@ -383,7 +383,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5524)
 
 
-
+«[日本語](../ja/#bpn5524)» 
 
 
 
@@ -397,7 +397,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5525)
 
 
-
+«[日本語](../ja/#bpn5525)» 
 
 
 
@@ -411,7 +411,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5526)
 
 
-
+«[日本語](../ja/#bpn5526)» 
 
 
 
@@ -424,7 +424,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5527)
 
 
-
+«[日本語](../ja/#bpn5527)» 
 
 
 
@@ -436,7 +436,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5528)
 
 
-
+«[日本語](../ja/#bpn5528)» 
 
 
 
@@ -451,7 +451,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5529)
 
 
-
+«[日本語](../ja/#bpn5529)» 
 
 
 
@@ -465,7 +465,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5530)
 
 
-
+«[日本語](../ja/#bpn5530)» 
 
 
 
@@ -489,7 +489,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5576)
 
 
-
+«[日本語](../ja/#bpn5576)» 
 
 
 
@@ -508,7 +508,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5552)
 
 
-
+«[日本語](../ja/#bpn5552)» 
 
 
 
@@ -521,7 +521,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5553)
 
 
-
+«[日本語](../ja/#bpn5553)» 
 
 
 
@@ -535,7 +535,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5554)
 
 
-
+«[日本語](../ja/#bpn5554)» 
 
 
 
@@ -553,7 +553,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5500)
 
 
-
+«[日本語](../ja/#bpn5500)» 
 
 
 
@@ -567,7 +567,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5501)
 
 
-
+«[日本語](../ja/#bpn5501)» 
 
 
 
@@ -580,7 +580,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5502)
 
 
-
+«[日本語](../ja/#bpn5502)» 
 
 
 
@@ -592,7 +592,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5503)
 
 
-
+«[日本語](../ja/#bpn5503)» 
 
 
 
@@ -607,7 +607,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5504)
 
 
-
+«[日本語](../ja/#bpn5504)» 
 
 
 
@@ -620,7 +620,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5505)
 
 
-
+«[日本語](../ja/#bpn5505)» 
 
 
 
@@ -644,7 +644,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5577)
 
 
-
+«[日本語](../ja/#bpn5577)» 
 
 
 
@@ -661,7 +661,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5357)
 
 
-
+«[日本語](../ja/#bpn5357)» 
 
 
 
@@ -676,7 +676,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5358)
 
 
-
+«[日本語](../ja/#bpn5358)» 
 
 
 
@@ -688,7 +688,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5359)
 
 
-
+«[日本語](../ja/#bpn5359)» 
 
 
 
@@ -705,7 +705,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5360)
 
 
-
+«[日本語](../ja/#bpn5360)» 
 
 
 
@@ -721,7 +721,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5514)
 
 
-
+«[日本語](../ja/#bpn5514)» 
 
 
 
@@ -735,7 +735,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5515)
 
 
-
+«[日本語](../ja/#bpn5515)» 
 
 
 
@@ -747,7 +747,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5516)
 
 
-
+«[日本語](../ja/#bpn5516)» 
 
 
 
@@ -798,7 +798,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5350)
 
 
-
+«[日本語](../ja/#bpn5350)» 
 
 
 
@@ -816,7 +816,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5352)
 
 
-
+«[日本語](../ja/#bpn5352)» 
 
 
 
@@ -829,7 +829,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5353)
 
 
-
+«[日本語](../ja/#bpn5353)» 
 
 
 
@@ -841,7 +841,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5354)
 
 
-
+«[日本語](../ja/#bpn5354)» 
 
 
 
@@ -862,7 +862,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5355)
 
 
-
+«[日本語](../ja/#bpn5355)» 
 
 
 
@@ -876,7 +876,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5356)
 
 
-
+«[日本語](../ja/#bpn5356)» 
 
 
 
@@ -896,7 +896,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5394)
 
 
-
+«[日本語](../ja/#bpn5394)» 
 
 
 
@@ -910,7 +910,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5395)
 
 
-
+«[日本語](../ja/#bpn5395)» 
 
 
 
@@ -925,7 +925,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5396)
 
 
-
+«[日本語](../ja/#bpn5396)» 
 
 
 
@@ -938,7 +938,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5397)
 
 
-
+«[日本語](../ja/#bpn5397)» 
 
 
 
@@ -952,7 +952,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5398)
 
 
-
+«[日本語](../ja/#bpn5398)» 
 
 
 
@@ -966,7 +966,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5399)
 
 
-
+«[日本語](../ja/#bpn5399)» 
 
 
 
@@ -979,7 +979,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5400)
 
 
-
+«[日本語](../ja/#bpn5400)» 
 
 
 
@@ -995,7 +995,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5401)
 
 
-
+«[日本語](../ja/#bpn5401)» 
 
 
 
@@ -1007,7 +1007,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5402)
 
 
-
+«[日本語](../ja/#bpn5402)» 
 
 
 
@@ -1022,7 +1022,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5403)
 
 
-
+«[日本語](../ja/#bpn5403)» 
 
 
 
@@ -1044,7 +1044,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5404)
 
 
-
+«[日本語](../ja/#bpn5404)» 
 
 
 
@@ -1077,7 +1077,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5548)
 
 
-
+«[日本語](../ja/#bpn5548)» 
 
 
 
@@ -1101,7 +1101,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5558)
 
 
-
+«[日本語](../ja/#bpn5558)» 
 
 
 
@@ -1122,7 +1122,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5562)
 
 
-
+«[日本語](../ja/#bpn5562)» 
 
 
 
@@ -1147,7 +1147,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5559)
 
 
-
+«[日本語](../ja/#bpn5559)» 
 
 
 
@@ -1170,7 +1170,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5561)
 
 
-
+«[日本語](../ja/#bpn5561)» 
 
 
 
@@ -1188,7 +1188,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5480)
 
 
-
+«[日本語](../ja/#bpn5480)» 
 
 
 
@@ -1202,7 +1202,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5481)
 
 
-
+«[日本語](../ja/#bpn5481)» 
 
 
 
@@ -1220,7 +1220,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5468)
 
 
-
+«[日本語](../ja/#bpn5468)» 
 
 
 
@@ -1233,7 +1233,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5469)
 
 
-
+«[日本語](../ja/#bpn5469)» 
 
 
 
@@ -1246,7 +1246,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5470)
 
 
-
+«[日本語](../ja/#bpn5470)» 
 
 
 
@@ -1261,7 +1261,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5471)
 
 
-
+«[日本語](../ja/#bpn5471)» 
 
 
 
@@ -1274,7 +1274,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5472)
 
 
-
+«[日本語](../ja/#bpn5472)» 
 
 
 
@@ -1289,7 +1289,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5473)
 
 
-
+«[日本語](../ja/#bpn5473)» 
 
 
 
@@ -1302,7 +1302,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5474)
 
 
-
+«[日本語](../ja/#bpn5474)» 
 
 
 
@@ -1316,7 +1316,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5475)
 
 
-
+«[日本語](../ja/#bpn5475)» 
 
 
 
@@ -1332,7 +1332,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5476)
 
 
-
+«[日本語](../ja/#bpn5476)» 
 
 
 
@@ -1348,7 +1348,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5556)
 
 
-
+«[日本語](../ja/#bpn5556)» 
 
 
 
@@ -1367,7 +1367,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5517)
 
 
-
+«[日本語](../ja/#bpn5517)» 
 
 
 
@@ -1384,7 +1384,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5452)
 
 
-
+«[日本語](../ja/#bpn5452)» 
 
 
 
@@ -1405,7 +1405,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5453)
 
 
-
+«[日本語](../ja/#bpn5453)» 
 
 
 
@@ -1424,7 +1424,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5506)
 
 
-
+«[日本語](../ja/#bpn5506)» 
 
 
 
@@ -1440,7 +1440,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5507)
 
 
-
+«[日本語](../ja/#bpn5507)» 
 
 
 
@@ -1455,7 +1455,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5508)
 
 
-
+«[日本語](../ja/#bpn5508)» 
 
 
 
@@ -1469,7 +1469,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5509)
 
 
-
+«[日本語](../ja/#bpn5509)» 
 
 
 
@@ -1485,7 +1485,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5510)
 
 
-
+«[日本語](../ja/#bpn5510)» 
 
 
 
@@ -1500,7 +1500,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5511)
 
 
-
+«[日本語](../ja/#bpn5511)» 
 
 
 
@@ -1514,7 +1514,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5512)
 
 
-
+«[日本語](../ja/#bpn5512)» 
 
 
 
@@ -1531,7 +1531,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5513)
 
 
-
+«[日本語](../ja/#bpn5513)» 
 
 
 
@@ -1548,7 +1548,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5484)
 
 
-
+«[日本語](../ja/#bpn5484)» 
 
 
 
@@ -1561,7 +1561,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5485)
 
 
-
+«[日本語](../ja/#bpn5485)» 
 
 
 
@@ -1578,7 +1578,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5499)
 
 
-
+«[日本語](../ja/#bpn5499)» 
 
 
 
@@ -1591,7 +1591,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5486)
 
 
-
+«[日本語](../ja/#bpn5486)» 
 
 
 
@@ -1604,7 +1604,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5487)
 
 
-
+«[日本語](../ja/#bpn5487)» 
 
 
 
@@ -1618,7 +1618,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5488)
 
 
-
+«[日本語](../ja/#bpn5488)» 
 
 
 
@@ -1630,7 +1630,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5489)
 
 
-
+«[日本語](../ja/#bpn5489)» 
 
 
 
@@ -1643,7 +1643,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5490)
 
 
-
+«[日本語](../ja/#bpn5490)» 
 
 
 
@@ -1655,7 +1655,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5491)
 
 
-
+«[日本語](../ja/#bpn5491)» 
 
 
 
@@ -1670,7 +1670,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5492)
 
 
-
+«[日本語](../ja/#bpn5492)» 
 
 
 
@@ -1683,7 +1683,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5493)
 
 
-
+«[日本語](../ja/#bpn5493)» 
 
 
 
@@ -1696,7 +1696,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5494)
 
 
-
+«[日本語](../ja/#bpn5494)» 
 
 
 
@@ -1708,7 +1708,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5495)
 
 
-
+«[日本語](../ja/#bpn5495)» 
 
 
 
@@ -1720,7 +1720,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5496)
 
 
-
+«[日本語](../ja/#bpn5496)» 
 
 
 
@@ -1732,7 +1732,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5497)
 
 
-
+«[日本語](../ja/#bpn5497)» 
 
 
 
@@ -1744,7 +1744,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5498)
 
 
-
+«[日本語](../ja/#bpn5498)» 
 
 
 
@@ -1762,7 +1762,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5483)
 
 
-
+«[日本語](../ja/#bpn5483)» 
 
 
 
@@ -1778,7 +1778,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5437)
 
 
-
+«[日本語](../ja/#bpn5437)» 
 
 
 
@@ -1792,7 +1792,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5438)
 
 
-
+«[日本語](../ja/#bpn5438)» 
 
 
 
@@ -1811,7 +1811,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5439)
 
 
-
+«[日本語](../ja/#bpn5439)» 
 
 
 
@@ -1832,7 +1832,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5440)
 
 
-
+«[日本語](../ja/#bpn5440)» 
 
 
 
@@ -1850,7 +1850,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5379)
 
 
-
+«[日本語](../ja/#bpn5379)» 
 
 
 
@@ -1867,7 +1867,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5380)
 
 
-
+«[日本語](../ja/#bpn5380)» 
 
 
 
@@ -1879,7 +1879,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5381)
 
 
-
+«[日本語](../ja/#bpn5381)» 
 
 
 
@@ -1896,7 +1896,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5382)
 
 
-
+«[日本語](../ja/#bpn5382)» 
 
 
 
@@ -1908,7 +1908,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5383)
 
 
-
+«[日本語](../ja/#bpn5383)» 
 
 
 
@@ -1922,7 +1922,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5384)
 
 
-
+«[日本語](../ja/#bpn5384)» 
 
 
 
@@ -1937,7 +1937,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5385)
 
 
-
+«[日本語](../ja/#bpn5385)» 
 
 
 
@@ -1950,7 +1950,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5386)
 
 
-
+«[日本語](../ja/#bpn5386)» 
 
 
 
@@ -1964,7 +1964,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5387)
 
 
-
+«[日本語](../ja/#bpn5387)» 
 
 
 
@@ -1994,7 +1994,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5578)
 
 
-
+«[日本語](../ja/#bpn5578)» 
 
 
 
@@ -2010,7 +2010,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5579)
 
 
-
+«[日本語](../ja/#bpn5579)» 
 
 
 
@@ -2032,7 +2032,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5580)
 
 
-
+«[日本語](../ja/#bpn5580)» 
 
 
 
@@ -2046,7 +2046,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5581)
 
 
-
+«[日本語](../ja/#bpn5581)» 
 
 
 
@@ -2059,7 +2059,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5582)
 
 
-
+«[日本語](../ja/#bpn5582)» 
 
 
 
@@ -2073,7 +2073,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5583)
 
 
-
+«[日本語](../ja/#bpn5583)» 
 
 
 
@@ -2088,7 +2088,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5584)
 
 
-
+«[日本語](../ja/#bpn5584)» 
 
 
 
@@ -2102,7 +2102,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5585)
 
 
-
+«[日本語](../ja/#bpn5585)» 
 
 
 
@@ -2116,7 +2116,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5586)
 
 
-
+«[日本語](../ja/#bpn5586)» 
 
 
 
@@ -2137,7 +2137,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5567)
 
 
-
+«[日本語](../ja/#bpn5567)» 
 
 
 
@@ -2149,7 +2149,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5568)
 
 
-
+«[日本語](../ja/#bpn5568)» 
 
 
 
@@ -2176,7 +2176,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5569)
 
 
-
+«[日本語](../ja/#bpn5569)» 
 
 
 
@@ -2191,7 +2191,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5570)
 
 
-
+«[日本語](../ja/#bpn5570)» 
 
 
 
@@ -2211,7 +2211,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5571)
 
 
-
+«[日本語](../ja/#bpn5571)» 
 
 
 
@@ -2238,7 +2238,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5572)
 
 
-
+«[日本語](../ja/#bpn5572)» 
 
 
 
@@ -2250,7 +2250,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5573)
 
 
-
+«[日本語](../ja/#bpn5573)» 
 
 
 
@@ -2262,7 +2262,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5574)
 
 
-
+«[日本語](../ja/#bpn5574)» 
 
 
 
@@ -2274,7 +2274,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5575)
 
 
-
+«[日本語](../ja/#bpn5575)» 
 
 
 
@@ -2297,7 +2297,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5477)
 
 
-
+«[日本語](../ja/#bpn5477)» 
 
 
 
@@ -2310,7 +2310,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5478)
 
 
-
+«[日本語](../ja/#bpn5478)» 
 
 
 
@@ -2327,7 +2327,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5479)
 
 
-
+«[日本語](../ja/#bpn5479)» 
 
 
 
@@ -2354,7 +2354,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5564)
 
 
-
+«[日本語](../ja/#bpn5564)» 
 
 
 
@@ -2372,7 +2372,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5420)
 
 
-
+«[日本語](../ja/#bpn5420)» 
 
 
 
@@ -2385,7 +2385,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5422)
 
 
-
+«[日本語](../ja/#bpn5422)» 
 
 
 
@@ -2399,7 +2399,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5423)
 
 
-
+«[日本語](../ja/#bpn5423)» 
 
 
 
@@ -2416,7 +2416,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5424)
 
 
-
+«[日本語](../ja/#bpn5424)» 
 
 
 
@@ -2431,7 +2431,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5425)
 
 
-
+«[日本語](../ja/#bpn5425)» 
 
 
 
@@ -2493,7 +2493,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5426)
 
 
-
+«[日本語](../ja/#bpn5426)» 
 
 
 
@@ -2505,7 +2505,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5421)
 
 
-
+«[日本語](../ja/#bpn5421)» 
 
 
 
@@ -2577,7 +2577,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5560)
 
 
-
+«[日本語](../ja/#bpn5560)» 
 
 
 
@@ -2595,7 +2595,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5441)
 
 
-
+«[日本語](../ja/#bpn5441)» 
 
 
 
@@ -2610,7 +2610,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5442)
 
 
-
+«[日本語](../ja/#bpn5442)» 
 
 
 
@@ -2624,7 +2624,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5443)
 
 
-
+«[日本語](../ja/#bpn5443)» 
 
 
 
@@ -2640,7 +2640,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5444)
 
 
-
+«[日本語](../ja/#bpn5444)» 
 
 
 
@@ -2656,7 +2656,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5445)
 
 
-
+«[日本語](../ja/#bpn5445)» 
 
 
 
@@ -2672,7 +2672,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5446)
 
 
-
+«[日本語](../ja/#bpn5446)» 
 
 
 
@@ -2688,7 +2688,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5447)
 
 
-
+«[日本語](../ja/#bpn5447)» 
 
 
 
@@ -2704,7 +2704,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5448)
 
 
-
+«[日本語](../ja/#bpn5448)» 
 
 
 
@@ -2717,7 +2717,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5449)
 
 
-
+«[日本語](../ja/#bpn5449)» 
 
 
 
@@ -2732,7 +2732,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5450)
 
 
-
+«[日本語](../ja/#bpn5450)» 
 
 
 
@@ -2747,7 +2747,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5451)
 
 
-
+«[日本語](../ja/#bpn5451)» 
 
 
 
@@ -2767,7 +2767,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5482)
 
 
-
+«[日本語](../ja/#bpn5482)» 
 
 
 
@@ -2787,7 +2787,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5349)
 
 
-
+«[日本語](../ja/#bpn5349)» 
 
 
 
@@ -2804,7 +2804,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5454)
 
 
-
+«[日本語](../ja/#bpn5454)» 
 
 
 
@@ -2818,7 +2818,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5455)
 
 
-
+«[日本語](../ja/#bpn5455)» 
 
 
 
@@ -2832,7 +2832,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5456)
 
 
-
+«[日本語](../ja/#bpn5456)» 
 
 
 
@@ -2850,7 +2850,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5457)
 
 
-
+«[日本語](../ja/#bpn5457)» 
 
 
 
@@ -2865,7 +2865,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5458)
 
 
-
+«[日本語](../ja/#bpn5458)» 
 
 
 
@@ -2878,7 +2878,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5459)
 
 
-
+«[日本語](../ja/#bpn5459)» 
 
 
 
@@ -2892,7 +2892,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5460)
 
 
-
+«[日本語](../ja/#bpn5460)» 
 
 
 
@@ -2905,7 +2905,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5461)
 
 
-
+«[日本語](../ja/#bpn5461)» 
 
 
 
@@ -2921,7 +2921,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5462)
 
 
-
+«[日本語](../ja/#bpn5462)» 
 
 
 
@@ -2940,7 +2940,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5555)
 
 
-
+«[日本語](../ja/#bpn5555)» 
 
 
 
@@ -2957,7 +2957,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5361)
 
 
-
+«[日本語](../ja/#bpn5361)» 
 
 
 
@@ -2969,7 +2969,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5362)
 
 
-
+«[日本語](../ja/#bpn5362)» 
 
 
 
@@ -2985,7 +2985,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5363)
 
 
-
+«[日本語](../ja/#bpn5363)» 
 
 
 
@@ -2998,7 +2998,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5364)
 
 
-
+«[日本語](../ja/#bpn5364)» 
 
 
 
@@ -3013,7 +3013,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5365)
 
 
-
+«[日本語](../ja/#bpn5365)» 
 
 
 
@@ -3028,7 +3028,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5366)
 
 
-
+«[日本語](../ja/#bpn5366)» 
 
 
 
@@ -3045,7 +3045,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5367)
 
 
-
+«[日本語](../ja/#bpn5367)» 
 
 
 
@@ -3060,7 +3060,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5368)
 
 
-
+«[日本語](../ja/#bpn5368)» 
 
 
 
@@ -3072,7 +3072,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5369)
 
 
-
+«[日本語](../ja/#bpn5369)» 
 
 
 
@@ -3090,7 +3090,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5370)
 
 
-
+«[日本語](../ja/#bpn5370)» 
 
 
 
@@ -3106,7 +3106,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5371)
 
 
-
+«[日本語](../ja/#bpn5371)» 
 
 
 
@@ -3118,7 +3118,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5372)
 
 
-
+«[日本語](../ja/#bpn5372)» 
 
 
 
@@ -3132,7 +3132,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5373)
 
 
-
+«[日本語](../ja/#bpn5373)» 
 
 
 
@@ -3149,7 +3149,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5374)
 
 
-
+«[日本語](../ja/#bpn5374)» 
 
 
 
@@ -3167,7 +3167,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5375)
 
 
-
+«[日本語](../ja/#bpn5375)» 
 
 
 
@@ -3184,7 +3184,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5376)
 
 
-
+«[日本語](../ja/#bpn5376)» 
 
 
 
@@ -3199,7 +3199,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5377)
 
 
-
+«[日本語](../ja/#bpn5377)» 
 
 
 
@@ -3211,7 +3211,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5378)
 
 
-
+«[日本語](../ja/#bpn5378)» 
 
 
 
@@ -3229,7 +3229,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5549)
 
 
-
+«[日本語](../ja/#bpn5549)» 
 
 
 
@@ -3244,7 +3244,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5550)
 
 
-
+«[日本語](../ja/#bpn5550)» 
 
 
 
@@ -3262,7 +3262,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5551)
 
 
-
+«[日本語](../ja/#bpn5551)» 
 
 
 
@@ -3295,7 +3295,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5518)
 
 
-
+«[日本語](../ja/#bpn5518)» 
 
 
 
@@ -3310,7 +3310,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5519)
 
 
-
+«[日本語](../ja/#bpn5519)» 
 
 
 
@@ -3322,7 +3322,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5520)
 
 
-
+«[日本語](../ja/#bpn5520)» 
 
 
 
@@ -3335,7 +3335,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5521)
 
 
-
+«[日本語](../ja/#bpn5521)» 
 
 
 
@@ -3470,7 +3470,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5563)
 
 
-
+«[日本語](../ja/#bpn5563)» 
 
 
 
@@ -3490,7 +3490,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5463)
 
 
-
+«[日本語](../ja/#bpn5463)» 
 
 
 
@@ -3505,7 +3505,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5464)
 
 
-
+«[日本語](../ja/#bpn5464)» 
 
 
 
@@ -3520,7 +3520,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5465)
 
 
-
+«[日本語](../ja/#bpn5465)» 
 
 
 
@@ -3534,7 +3534,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5466)
 
 
-
+«[日本語](../ja/#bpn5466)» 
 
 
 
@@ -3547,7 +3547,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5467)
 
 
-
+«[日本語](../ja/#bpn5467)» 
 
 
 
@@ -3566,7 +3566,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5407)
 
 
-
+«[日本語](../ja/#bpn5407)» 
 
 
 
@@ -3580,7 +3580,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5408)
 
 
-
+«[日本語](../ja/#bpn5408)» 
 
 
 
@@ -3593,7 +3593,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5409)
 
 
-
+«[日本語](../ja/#bpn5409)» 
 
 
 
@@ -3610,7 +3610,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5410)
 
 
-
+«[日本語](../ja/#bpn5410)» 
 
 
 
@@ -3623,7 +3623,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5411)
 
 
-
+«[日本語](../ja/#bpn5411)» 
 
 
 
@@ -3646,7 +3646,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5412)
 
 
-
+«[日本語](../ja/#bpn5412)» 
 
 
 
@@ -3658,7 +3658,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5413)
 
 
-
+«[日本語](../ja/#bpn5413)» 
 
 
 
@@ -3673,7 +3673,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5414)
 
 
-
+«[日本語](../ja/#bpn5414)» 
 
 
 
@@ -3685,7 +3685,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5415)
 
 
-
+«[日本語](../ja/#bpn5415)» 
 
 
 
@@ -3697,7 +3697,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5416)
 
 
-
+«[日本語](../ja/#bpn5416)» 
 
 
 
@@ -3711,7 +3711,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5417)
 
 
-
+«[日本語](../ja/#bpn5417)» 
 
 
 
@@ -3724,7 +3724,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5418)
 
 
-
+«[日本語](../ja/#bpn5418)» 
 
 
 
@@ -3736,7 +3736,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5419)
 
 
-
+«[日本語](../ja/#bpn5419)» 
 
 
 
@@ -3753,7 +3753,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5427)
 
 
-
+«[日本語](../ja/#bpn5427)» 
 
 
 
@@ -3768,7 +3768,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5428)
 
 
-
+«[日本語](../ja/#bpn5428)» 
 
 
 
@@ -3783,7 +3783,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5429)
 
 
-
+«[日本語](../ja/#bpn5429)» 
 
 
 
@@ -3798,7 +3798,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5430)
 
 
-
+«[日本語](../ja/#bpn5430)» 
 
 
 
@@ -3811,7 +3811,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5431)
 
 
-
+«[日本語](../ja/#bpn5431)» 
 
 
 
@@ -3825,7 +3825,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 6845)
 
 
-
+«[日本語](../ja/#bpn6845)» 
 
 
 
@@ -3838,7 +3838,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5433)
 
 
-
+«[日本語](../ja/#bpn5433)» 
 
 
 
@@ -3850,7 +3850,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5434)
 
 
-
+«[日本語](../ja/#bpn5434)» 
 
 
 
@@ -3862,7 +3862,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5432)
 
 
-
+«[日本語](../ja/#bpn5432)» 
 
 
 
@@ -3875,7 +3875,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5435)
 
 
-
+«[日本語](../ja/#bpn5435)» 
 
 
 
@@ -3887,7 +3887,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5436)
 
 
-
+«[日本語](../ja/#bpn5436)» 
 
 
 
@@ -3905,7 +3905,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5388)
 
 
-
+«[日本語](../ja/#bpn5388)» 
 
 
 
@@ -3922,7 +3922,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5389)
 
 
-
+«[日本語](../ja/#bpn5389)» 
 
 
 
@@ -3937,7 +3937,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5390)
 
 
-
+«[日本語](../ja/#bpn5390)» 
 
 
 
@@ -3950,7 +3950,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5391)
 
 
-
+«[日本語](../ja/#bpn5391)» 
 
 
 
@@ -3963,7 +3963,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5392)
 
 
-
+«[日本語](../ja/#bpn5392)» 
 
 
 
@@ -3978,7 +3978,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5393)
 
 
-
+«[日本語](../ja/#bpn5393)» 
 
 
 
@@ -4060,7 +4060,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5351)
 
 
-
+«[日本語](../ja/#bpn5351)» 
 
 
 
@@ -4088,7 +4088,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5566)
 
 
-
+«[日本語](../ja/#bpn5566)» 
 
 
 
@@ -4105,7 +4105,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5541)
 
 
-
+«[日本語](../ja/#bpn5541)» 
 
 
 
@@ -4120,7 +4120,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5542)
 
 
-
+«[日本語](../ja/#bpn5542)» 
 
 
 
@@ -4134,7 +4134,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5543)
 
 
-
+«[日本語](../ja/#bpn5543)» 
 
 
 
@@ -4147,7 +4147,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5544)
 
 
-
+«[日本語](../ja/#bpn5544)» 
 
 
 
@@ -4165,7 +4165,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5545)
 
 
-
+«[日本語](../ja/#bpn5545)» 
 
 
 
@@ -4178,7 +4178,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5546)
 
 
-
+«[日本語](../ja/#bpn5546)» 
 
 
 
@@ -4191,7 +4191,7 @@ tags = ['lang=ja', 'prayerbook']
 (Bahaiprayers.net ID: 5547)
 
 
-
+«[日本語](../ja/#bpn5547)» 
 
 
 

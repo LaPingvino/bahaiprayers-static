@@ -133,7 +133,7 @@ Oly mámorító Isten szavainak hatása Arra, Ki kétségtelen bizonyítékainak
 (Bahaiprayers.net ID: 2754)
 
 
-
+«[Magyar](../hu/#bpn2754)» 
 
 
 
@@ -155,7 +155,7 @@ Valóban, Te vagy a Drága, a Mindig Adakozó, Kinek keze mindig nyitva vagyon.
 (Bahaiprayers.net ID: 2618)
 
 
-
+«[Magyar](../hu/#bpn2618)» 
 
 
 
@@ -342,7 +342,7 @@ Dicsőíttessék Urunk, a Legmagasabb!
 (Bahaiprayers.net ID: 2641)
 
 
-
+«[Magyar](../hu/#bpn2641)» 
 
 
 
@@ -358,7 +358,7 @@ Látod, ó, Uram, könyörgő kezünk kegyed és nagylelkűséged mennyországa 
 (Bahaiprayers.net ID: 2615)
 
 
-
+«[Magyar](../hu/#bpn2615)» 
 
 
 
@@ -370,7 +370,7 @@ Látod, ó, Uram, könyörgő kezünk kegyed és nagylelkűséged mennyországa 
 (Bahaiprayers.net ID: 2616)
 
 
-
+«[Magyar](../hu/#bpn2616)» 
 
 
 
@@ -486,7 +486,7 @@ Ha minden szolga elolvassa és megfontolja magában ezen sorokat, olyan tűz gy�
 (Bahaiprayers.net ID: 2642)
 
 
-
+«[Magyar](../hu/#bpn2642)» 
 
 
 
@@ -502,7 +502,7 @@ Isten minden barátja ... adományozzon annyit, amennyit csak tud, bármilyen cs
 (Bahaiprayers.net ID: 2610)
 
 
-
+«[Magyar](../hu/#bpn2610)» 
 
 
 
@@ -518,7 +518,7 @@ Bizony, Te vagy a Megtartó, a Segítő, a Nagylelkű, a Jóságos, a Mindig Ada
 (Bahaiprayers.net ID: 2611)
 
 
-
+«[Magyar](../hu/#bpn2611)» 
 
 
 
@@ -538,7 +538,7 @@ Dicsőíttessél, végtelenül dicsőíttessél! Igazságodban dicsőítenek Té
 (Bahaiprayers.net ID: 2630)
 
 
-
+«[Magyar](../hu/#bpn2630)» 
 
 
 
@@ -554,7 +554,7 @@ Esedezem Hozzád, hogy bocsásd meg azoknak bűneit, akik levetették testi ölt
 (Bahaiprayers.net ID: 2631)
 
 
-
+«[Magyar](../hu/#bpn2631)» 
 
 
 
@@ -568,7 +568,7 @@ Esedezem Hozzád, hogy bocsásd meg azoknak bűneit, akik levetették testi ölt
 (Bahaiprayers.net ID: 2632)
 
 
-
+«[Magyar](../hu/#bpn2632)» 
 
 
 
@@ -603,7 +603,7 @@ Aki az erő és bölcsesség forrása.
 (Bahaiprayers.net ID: 2613)
 
 
-
+«[Magyar](../hu/#bpn2613)» 
 
 
 
@@ -622,7 +622,7 @@ az a hely, és a város,
 (Bahaiprayers.net ID: 2614)
 
 
-
+«[Magyar](../hu/#bpn2614)» 
 
 
 
@@ -634,7 +634,7 @@ az a hely, és a város,
 (Bahaiprayers.net ID: 2612)
 
 
-
+«[Magyar](../hu/#bpn2612)» 
 
 
 
@@ -654,7 +654,7 @@ Valóban, Te vagy a hatalom, a dicsőség és a bőkezűség Istene. Nincsen má
 (Bahaiprayers.net ID: 2619)
 
 
-
+«[Magyar](../hu/#bpn2619)» 
 
 
 
@@ -670,7 +670,7 @@ Bocsáss meg, ó, Uram, szolgáidnak és szolgálóleányaidnak! Valóban, Te va
 (Bahaiprayers.net ID: 2620)
 
 
-
+«[Magyar](../hu/#bpn2620)» 
 
 
 
@@ -684,7 +684,7 @@ Ragyogd be, ó, Uram, szolgáid arcát, hogy megláthassanak, és tisztítsd meg
 (Bahaiprayers.net ID: 2621)
 
 
-
+«[Magyar](../hu/#bpn2621)» 
 
 
 
@@ -706,7 +706,7 @@ Rajtad kívül soha senki nem volt képes Misztériumodat felfogni, és Nagyság
 (Bahaiprayers.net ID: 2622)
 
 
-
+«[Magyar](../hu/#bpn2622)» 
 
 
 
@@ -720,7 +720,7 @@ Te vagy a korlátlan Uralkodó, a csodás Teremtő, a Hatalmas, a Legszeretetteb
 (Bahaiprayers.net ID: 2623)
 
 
-
+«[Magyar](../hu/#bpn2623)» 
 
 
 
@@ -734,7 +734,7 @@ Valóban, Te vagy a legfőbb Uralkodó, a Független Igazság, a Veszélyben Olt
 (Bahaiprayers.net ID: 2624)
 
 
-
+«[Magyar](../hu/#bpn2624)» 
 
 
 
@@ -750,7 +750,7 @@ Te vagy a Könyörületes, az Irgalmas. Te vagy a Hatalmas, Jóakaró Isten.
 (Bahaiprayers.net ID: 2625)
 
 
-
+«[Magyar](../hu/#bpn2625)» 
 
 
 
@@ -766,7 +766,7 @@ Adja Isten, hogy az egység fénye ragyoghassa be az egész földet, és az „I
 (Bahaiprayers.net ID: 2626)
 
 
-
+«[Magyar](../hu/#bpn2626)» 
 
 
 
@@ -780,7 +780,7 @@ Adja Isten, hogy az egység fénye ragyoghassa be az egész földet, és az „I
 (Bahaiprayers.net ID: 2627)
 
 
-
+«[Magyar](../hu/#bpn2627)» 
 
 
 
@@ -798,7 +798,7 @@ Tárd fel előttünk, ó, Isten, a Te magasztos örökkévalóságodat, azt, hog
 (Bahaiprayers.net ID: 2628)
 
 
-
+«[Magyar](../hu/#bpn2628)» 
 
 
 
@@ -810,7 +810,7 @@ Tárd fel előttünk, ó, Isten, a Te magasztos örökkévalóságodat, azt, hog
 (Bahaiprayers.net ID: 2629)
 
 
-
+«[Magyar](../hu/#bpn2629)» 
 
 
 
@@ -838,7 +838,7 @@ Te vagy a Hatalmas és Erős, Te vagy a Megbocsátó, és Te vagy, Ki elnézi az
 (Bahaiprayers.net ID: 2633)
 
 
-
+«[Magyar](../hu/#bpn2633)» 
 
 
 
@@ -850,7 +850,7 @@ Te vagy a Hatalmas és Erős, Te vagy a Megbocsátó, és Te vagy, Ki elnézi az
 (Bahaiprayers.net ID: 2634)
 
 
-
+«[Magyar](../hu/#bpn2634)» 
 
 
 
@@ -880,7 +880,7 @@ Szellemem légyen az áldozat azokért a bántalmazásokért, melyeket el kellet
 (Bahaiprayers.net ID: 2639)
 
 
-
+«[Magyar](../hu/#bpn2639)» 
 
 
 
@@ -909,7 +909,7 @@ Te vagy az Adományozó, a Megszánó, a Legbőkezűbb, a Kegyes, az Irgalmas, a
 (Bahaiprayers.net ID: 2640)
 
 
-
+«[Magyar](../hu/#bpn2640)» 
 
 
 
@@ -929,7 +929,7 @@ Nincsen más Isten csak Te, a Mindenható, a Mindent Lebíró, a Korlátozatlan.
 (Bahaiprayers.net ID: 2635)
 
 
-
+«[Magyar](../hu/#bpn2635)» 
 
 
 
@@ -945,7 +945,7 @@ Hatalmadra! Álomban vagy ébren, nem kérek én semmi mást, csak amit Te kív�
 (Bahaiprayers.net ID: 2636)
 
 
-
+«[Magyar](../hu/#bpn2636)» 
 
 
 
@@ -961,7 +961,7 @@ Valóban, Te vagy az Adakozó, a Nagylelkű, a Könyörületes, a Megbocsátó.
 (Bahaiprayers.net ID: 2637)
 
 
-
+«[Magyar](../hu/#bpn2637)» 
 
 
 
@@ -979,7 +979,7 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2653)
 
 
-
+«[Magyar](../hu/#bpn2653)» 
 
 
 
@@ -991,7 +991,7 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2654)
 
 
-
+«[Magyar](../hu/#bpn2654)» 
 
 
 
@@ -1003,7 +1003,7 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2655)
 
 
-
+«[Magyar](../hu/#bpn2655)» 
 
 
 
@@ -1015,7 +1015,7 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2656)
 
 
-
+«[Magyar](../hu/#bpn2656)» 
 
 
 
@@ -1027,7 +1027,7 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2657)
 
 
-
+«[Magyar](../hu/#bpn2657)» 
 
 
 
@@ -1041,7 +1041,7 @@ Te vagy a Nagylelkű, a Mindeneket Szerető.
 (Bahaiprayers.net ID: 2658)
 
 
-
+«[Magyar](../hu/#bpn2658)» 
 
 
 
@@ -1056,7 +1056,7 @@ Bizony, Te vagy az Erős, a Hatalmas, a Látó, a Halló.
 (Bahaiprayers.net ID: 2659)
 
 
-
+«[Magyar](../hu/#bpn2659)» 
 
 
 
@@ -1068,7 +1068,7 @@ Bizony, Te vagy az Erős, a Hatalmas, a Látó, a Halló.
 (Bahaiprayers.net ID: 2660)
 
 
-
+«[Magyar](../hu/#bpn2660)» 
 
 
 
@@ -1087,7 +1087,7 @@ A Te neved az én gyógyulásom, ó, Istenem, és a Rád való emlékezés az é
 (Bahaiprayers.net ID: 2663)
 
 
-
+«[Magyar](../hu/#bpn2663)» 
 
 
 
@@ -1103,7 +1103,7 @@ Hatalmadban áll, hogy azt tedd, amit csak kívánsz. Nincs más Isten, csak Te,
 (Bahaiprayers.net ID: 2664)
 
 
-
+«[Magyar](../hu/#bpn2664)» 
 
 
 
@@ -1117,7 +1117,7 @@ Könyörgöm Hozzád ezért nevedre, mellyel kinyilatkoztattad Istenségedet és
 (Bahaiprayers.net ID: 2665)
 
 
-
+«[Magyar](../hu/#bpn2665)» 
 
 
 
@@ -1147,7 +1147,7 @@ Bizony, mi mindnyájan megnyugszunk Istenben.
 (Bahaiprayers.net ID: 2755)
 
 
-
+«[Magyar](../hu/#bpn2755)» 
 
 
 
@@ -1251,7 +1251,7 @@ Mert bizony Te vagy a Hatalmas, a Mindeneket Megelégítő, a Gyógyító, a Vé
 (Bahaiprayers.net ID: 2638)
 
 
-
+«[Magyar](../hu/#bpn2638)» 
 
 
 
@@ -1319,7 +1319,7 @@ Hitvallást teszek, ó, Istenem, amiről a Te választottaid tanuskodtak, és el
 (Bahaiprayers.net ID: 2609)
 
 
-
+«[Magyar](../hu/#bpn2609)» 
 
 
 
@@ -1335,7 +1335,7 @@ A Huqúqu'lláh valóban nagyszerű törvény. E felajánlás kötelessége mind
 (Bahaiprayers.net ID: 2669)
 
 
-
+«[Magyar](../hu/#bpn2669)» 
 
 
 
@@ -1347,7 +1347,7 @@ Magasztalt vagy Te, Ó, Ura az egész teremtésnek, az Egyetlen, Kihez minden do
 (Bahaiprayers.net ID: 2670)
 
 
-
+«[Magyar](../hu/#bpn2670)» 
 
 
 
@@ -1365,7 +1365,7 @@ Bizony, mi mindnyájan ragaszkodni fogunk Isten akaratához.
 (Bahaiprayers.net ID: 2666)
 
 
-
+«[Magyar](../hu/#bpn2666)» 
 
 
 
@@ -1379,7 +1379,7 @@ Valóban, Te vagy a Mindenek Felett Hatalmas, a Mindenhol Jelenlévő, a Mindenh
 (Bahaiprayers.net ID: 2667)
 
 
-
+«[Magyar](../hu/#bpn2667)» 
 
 
 
@@ -1397,7 +1397,7 @@ Valóban, Te vagy a Mindenek Felett Hatalmas, a Mindenhol Jelenlévő, a Mindenh
 (Bahaiprayers.net ID: 2668)
 
 
-
+«[Magyar](../hu/#bpn2668)» 
 
 
 
@@ -1417,7 +1417,7 @@ Te vagy a Megbocsátó, a Kegyes.
 (Bahaiprayers.net ID: 2671)
 
 
-
+«[Magyar](../hu/#bpn2671)» 
 
 
 
@@ -1431,7 +1431,7 @@ Mert bizony Te vagy a Győzhetetlen, a Mindenható, a Mindenek Felett Hatalmas.
 (Bahaiprayers.net ID: 2672)
 
 
-
+«[Magyar](../hu/#bpn2672)» 
 
 
 
@@ -1447,7 +1447,7 @@ Mert bizony Te vagy a Győzhetetlen, a Mindenható, a Mindenek Felett Hatalmas.
 (Bahaiprayers.net ID: 2661)
 
 
-
+«[Magyar](../hu/#bpn2661)» 
 
 
 
@@ -1463,7 +1463,7 @@ Te vagy a Hatalmas és az Erős; Te vagy az Adományozó és a Mindenek Felett S
 (Bahaiprayers.net ID: 2662)
 
 
-
+«[Magyar](../hu/#bpn2662)» 
 
 
 
@@ -1485,7 +1485,7 @@ Te vagy az én Segítőm, a Hatalmas, a Mindenható.
 (Bahaiprayers.net ID: 2673)
 
 
-
+«[Magyar](../hu/#bpn2673)» 
 
 
 
@@ -1505,7 +1505,7 @@ Tiéd minden hatalom a parancsolásra.
 (Bahaiprayers.net ID: 2674)
 
 
-
+«[Magyar](../hu/#bpn2674)» 
 
 
 
@@ -1523,7 +1523,7 @@ Valóban, ha Te meg kívánnád áldani egy szolgádat, kitörölnél Te szíve 
 (Bahaiprayers.net ID: 2675)
 
 
-
+«[Magyar](../hu/#bpn2675)» 
 
 
 
@@ -1535,7 +1535,7 @@ Valóban, ha Te meg kívánnád áldani egy szolgádat, kitörölnél Te szíve 
 (Bahaiprayers.net ID: 2676)
 
 
-
+«[Magyar](../hu/#bpn2676)» 
 
 
 
@@ -1553,7 +1553,7 @@ Fény és dicsőség, üdv és dicséret Isten Ügye Kezeinek, kiken keresztül 
 (Bahaiprayers.net ID: 2677)
 
 
-
+«[Magyar](../hu/#bpn2677)» 
 
 
 
@@ -1601,7 +1601,7 @@ Tanúságot teszek egységedről és egyedüliségedről, és arról, hogy Te va
 (Bahaiprayers.net ID: 2608)
 
 
-
+«[Magyar](../hu/#bpn2608)» 
 
 
 
@@ -1617,7 +1617,7 @@ Mondd: ó, Isten, én Istenem! Ékesítsd fejemet az igazság koronájával és 
 (Bahaiprayers.net ID: 2678)
 
 
-
+«[Magyar](../hu/#bpn2678)» 
 
 
 
@@ -1631,7 +1631,7 @@ Valóban, Te vagy a Mindenható, a Mindenek Felett Dicső, a Leghatalmasabb.
 (Bahaiprayers.net ID: 2679)
 
 
-
+«[Magyar](../hu/#bpn2679)» 
 
 
 
@@ -1643,7 +1643,7 @@ Tiszta szívet teremts bennem, ó, Istenem, és adj nékem ismét nyugodt lelkii
 (Bahaiprayers.net ID: 2680)
 
 
-
+«[Magyar](../hu/#bpn2680)» 
 
 
 
@@ -1657,7 +1657,7 @@ Istenem, Imádottam, Királyom, Vágyam! Mily nyelv mondhatná el köszönetemet
 (Bahaiprayers.net ID: 2681)
 
 
-
+«[Magyar](../hu/#bpn2681)» 
 
 
 
@@ -1671,7 +1671,7 @@ Hatalmas vagy Te megtenni, amit csak kívánsz. Bizony, Te vagy a Legmagasztosab
 (Bahaiprayers.net ID: 2682)
 
 
-
+«[Magyar](../hu/#bpn2682)» 
 
 
 
@@ -1689,7 +1689,7 @@ Mondd: Ó, Istenem! Ó, Te, Ki a mennyek és a föld Alkotója vagy, ó, a Kirá
 (Bahaiprayers.net ID: 2683)
 
 
-
+«[Magyar](../hu/#bpn2683)» 
 
 
 
@@ -1703,7 +1703,7 @@ Dicsőített vagy, Uram! Én bizony szegény vagyok, míg Te valóban gazdag vag
 (Bahaiprayers.net ID: 2684)
 
 
-
+«[Magyar](../hu/#bpn2684)» 
 
 
 
@@ -1721,7 +1721,7 @@ Hőn könyörgöm Hozzád, ó Istenem, részesíts kegyesen megelégedésedben, 
 (Bahaiprayers.net ID: 2685)
 
 
-
+«[Magyar](../hu/#bpn2685)» 
 
 
 
@@ -1739,7 +1739,7 @@ Mondd: Isten, valóban, mindennek az Alkotója. Bőséges táplálékot ad Ő an
 (Bahaiprayers.net ID: 2686)
 
 
-
+«[Magyar](../hu/#bpn2686)» 
 
 
 
@@ -1753,7 +1753,7 @@ Add, ó, Istenem, hogy ne számíttassak azok közé, kiknek füle süket, szeme
 (Bahaiprayers.net ID: 2687)
 
 
-
+«[Magyar](../hu/#bpn2687)» 
 
 
 
@@ -1767,7 +1767,7 @@ Add, ó, Istenem, hogy ne számíttassak azok közé, kiknek füle süket, szeme
 (Bahaiprayers.net ID: 2688)
 
 
-
+«[Magyar](../hu/#bpn2688)» 
 
 
 
@@ -1785,7 +1785,7 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2689)
 
 
-
+«[Magyar](../hu/#bpn2689)» 
 
 
 
@@ -1797,7 +1797,7 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2690)
 
 
-
+«[Magyar](../hu/#bpn2690)» 
 
 
 
@@ -1809,7 +1809,7 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2691)
 
 
-
+«[Magyar](../hu/#bpn2691)» 
 
 
 
@@ -1821,7 +1821,7 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2692)
 
 
-
+«[Magyar](../hu/#bpn2692)» 
 
 
 
@@ -1848,7 +1848,7 @@ Valóban, Te vagy az Erős, a Jóságos. Nincsen Isten Rajtad kívül, Ki a Hata
 (Bahaiprayers.net ID: 2694)
 
 
-
+«[Magyar](../hu/#bpn2694)» 
 
 
 
@@ -1868,7 +1868,7 @@ Dicsőítessék Isten, minden világok Ura!
 (Bahaiprayers.net ID: 2695)
 
 
-
+«[Magyar](../hu/#bpn2695)» 
 
 
 
@@ -1886,7 +1886,7 @@ Hatalmad a tanúm! Ha nem a Te dicséretedet zengené, nyelvem nem lenne hasznom
 (Bahaiprayers.net ID: 2696)
 
 
-
+«[Magyar](../hu/#bpn2696)» 
 
 
 
@@ -1900,7 +1900,7 @@ Mert bizony Te vagy a Veszélyben Oltalmazó, az Önmagától Való.
 (Bahaiprayers.net ID: 2697)
 
 
-
+«[Magyar](../hu/#bpn2697)» 
 
 
 
@@ -1912,7 +1912,7 @@ Mert bizony Te vagy a Veszélyben Oltalmazó, az Önmagától Való.
 (Bahaiprayers.net ID: 2698)
 
 
-
+«[Magyar](../hu/#bpn2698)» 
 
 
 
@@ -1926,7 +1926,7 @@ Dicsőítessél, ó, Uram, Ki mindenkor megbocsátja azon szolgái bűneit, kik 
 (Bahaiprayers.net ID: 2699)
 
 
-
+«[Magyar](../hu/#bpn2699)» 
 
 
 
@@ -1940,7 +1940,7 @@ Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom
 (Bahaiprayers.net ID: 2700)
 
 
-
+«[Magyar](../hu/#bpn2700)» 
 
 
 
@@ -1954,7 +1954,7 @@ Megbocsátásodért könyörgöm, ó, Istenem, és bocsánatodért esedezem oly 
 (Bahaiprayers.net ID: 2701)
 
 
-
+«[Magyar](../hu/#bpn2701)» 
 
 
 
@@ -1966,7 +1966,7 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 (Bahaiprayers.net ID: 2702)
 
 
-
+«[Magyar](../hu/#bpn2702)» 
 
 
 
@@ -1978,7 +1978,7 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 (Bahaiprayers.net ID: 2703)
 
 
-
+«[Magyar](../hu/#bpn2703)» 
 
 
 
@@ -1994,7 +1994,7 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 (Bahaiprayers.net ID: 2704)
 
 
-
+«[Magyar](../hu/#bpn2704)» 
 
 
 
@@ -2010,7 +2010,7 @@ Legnagyobb Nevedre, legősibb fenségedre kérlek könyörögve, tekints le szer
 (Bahaiprayers.net ID: 2705)
 
 
-
+«[Magyar](../hu/#bpn2705)» 
 
 
 
@@ -2026,7 +2026,7 @@ Végezetül, orcád fényére könyörgöm Hozzád, áldd meg lépteimet, bocsá
 (Bahaiprayers.net ID: 2706)
 
 
-
+«[Magyar](../hu/#bpn2706)» 
 
 
 
@@ -2046,7 +2046,7 @@ Tedd, ó, Istenem, Benned hívő és Ügyedet támogató szolgádat rendíthetet
 (Bahaiprayers.net ID: 2707)
 
 
-
+«[Magyar](../hu/#bpn2707)» 
 
 
 
@@ -2058,7 +2058,7 @@ Hatalmadra szólítlak, ó, Istenem! Ne érjen engem semmi rossz a próbák idej
 (Bahaiprayers.net ID: 2708)
 
 
-
+«[Magyar](../hu/#bpn2708)» 
 
 
 
@@ -2070,7 +2070,7 @@ Hatalmadra szólítlak, ó, Istenem! Ne érjen engem semmi rossz a próbák idej
 (Bahaiprayers.net ID: 2709)
 
 
-
+«[Magyar](../hu/#bpn2709)» 
 
 
 
@@ -2086,7 +2086,7 @@ Mérhetetlenül magasztosan állsz Te, ó, a mennyek és a föld Ura, minden emb
 (Bahaiprayers.net ID: 2710)
 
 
-
+«[Magyar](../hu/#bpn2710)» 
 
 
 
@@ -2102,7 +2102,7 @@ Valóban, Te vagy a Védelmező, az Oltalmazó, a Megtartó, a Megelégítő, s 
 (Bahaiprayers.net ID: 2711)
 
 
-
+«[Magyar](../hu/#bpn2711)» 
 
 
 
@@ -2134,7 +2134,7 @@ Mert valóban Te vagy a Kegyes, a Dicsőített, a Hatalmas, a Mindenható.
 (Bahaiprayers.net ID: 2712)
 
 
-
+«[Magyar](../hu/#bpn2712)» 
 
 
 
@@ -2163,7 +2163,7 @@ Bizony, Te vagy a Nagylelkű, a Hatalmas, a Mindenható, a Korlátozatlan. Nincs
 (Bahaiprayers.net ID: 2693)
 
 
-
+«[Magyar](../hu/#bpn2693)» 
 
 
 
@@ -2189,7 +2189,7 @@ Valóban, Te vagy a Mindenek Tudója, a Mindenek Felett Bölcs.
 (Bahaiprayers.net ID: 2753)
 
 
-
+«[Magyar](../hu/#bpn2753)» 
 
 
 
@@ -2211,7 +2211,7 @@ Valóban, Te vagy minden ember Ura és Királya, és hatalmad van minden dolgok 
 (Bahaiprayers.net ID: 2716)
 
 
-
+«[Magyar](../hu/#bpn2716)» 
 
 
 
@@ -2223,7 +2223,7 @@ Menedékedben ébredtem, ó, Istenem, és illendő annak, ki ezt keresi, hogy ol
 (Bahaiprayers.net ID: 2717)
 
 
-
+«[Magyar](../hu/#bpn2717)» 
 
 
 
@@ -2252,7 +2252,7 @@ Nincs más Isten, csak Te, a Veszélyben Oltalmazó, az Önmagától Való.
 (Bahaiprayers.net ID: 2607)
 
 
-
+«[Magyar](../hu/#bpn2607)» 
 
 
 
@@ -2268,7 +2268,7 @@ Istenhez fohászkodunk, kegyesen segítse azokat, kik félrevezettettek, hogy ig
 (Bahaiprayers.net ID: 2718)
 
 
-
+«[Magyar](../hu/#bpn2718)» 
 
 
 
@@ -2288,7 +2288,7 @@ Mi mindnyájan csupán szegények és szűkölködők vagyunk, és bizony, Te va
 (Bahaiprayers.net ID: 2719)
 
 
-
+«[Magyar](../hu/#bpn2719)» 
 
 
 
@@ -2300,7 +2300,7 @@ Mi mindnyájan csupán szegények és szűkölködők vagyunk, és bizony, Te va
 (Bahaiprayers.net ID: 2720)
 
 
-
+«[Magyar](../hu/#bpn2720)» 
 
 
 
@@ -2312,7 +2312,7 @@ Van-e eltávolítója a nehézségeknek Istenen kívül? Mondd: dicséret Istenn
 (Bahaiprayers.net ID: 2721)
 
 
-
+«[Magyar](../hu/#bpn2721)» 
 
 
 
@@ -2324,7 +2324,7 @@ Mondd: az Úr ad megelégedést mindeneknek mindenek fölött. A mennyekben vagy
 (Bahaiprayers.net ID: 2722)
 
 
-
+«[Magyar](../hu/#bpn2722)» 
 
 
 
@@ -2340,7 +2340,7 @@ Add meg nekünk mindennapi kenyerünket, hadd gyarapodjunk földi dolgainkban, h
 (Bahaiprayers.net ID: 2723)
 
 
-
+«[Magyar](../hu/#bpn2723)» 
 
 
 
@@ -2356,7 +2356,7 @@ Te vagy valóban a Hatalmas, a Magasztos, az Erős, Ki a mennyekben és a föld�
 (Bahaiprayers.net ID: 2724)
 
 
-
+«[Magyar](../hu/#bpn2724)» 
 
 
 
@@ -2368,7 +2368,7 @@ Te vagy valóban a Hatalmas, a Magasztos, az Erős, Ki a mennyekben és a föld�
 (Bahaiprayers.net ID: 2725)
 
 
-
+«[Magyar](../hu/#bpn2725)» 
 
 
 
@@ -2384,7 +2384,7 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 (Bahaiprayers.net ID: 2726)
 
 
-
+«[Magyar](../hu/#bpn2726)» 
 
 
 
@@ -2402,7 +2402,7 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 (Bahaiprayers.net ID: 2727)
 
 
-
+«[Magyar](../hu/#bpn2727)» 
 
 
 
@@ -2418,7 +2418,7 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 (Bahaiprayers.net ID: 2728)
 
 
-
+«[Magyar](../hu/#bpn2728)» 
 
 
 
@@ -2438,7 +2438,7 @@ Bizony, Te vagy a Nagylelkű, az Irgalmas. Te vagy a nagy bőség Birtokosa, és
 (Bahaiprayers.net ID: 2729)
 
 
-
+«[Magyar](../hu/#bpn2729)» 
 
 
 
@@ -2467,7 +2467,7 @@ Te vagy, valóban, a Mindenható, a Mindenek Tudója, Ki előtt nem marad rejtve
 (Bahaiprayers.net ID: 2749)
 
 
-
+«[Magyar](../hu/#bpn2749)» 
 
 
 
@@ -2493,7 +2493,7 @@ Nincsen más Isten, csak Te, a Mindenek Tudója, a Mindenek Felett Bölcs. Minde
 (Bahaiprayers.net ID: 2750)
 
 
-
+«[Magyar](../hu/#bpn2750)» 
 
 
 
@@ -2521,7 +2521,7 @@ Tedd Ügyedet győzedelmessé, ó, Uram, és alázd meg ellenségeidet. Rendeld 
 (Bahaiprayers.net ID: 2751)
 
 
-
+«[Magyar](../hu/#bpn2751)» 
 
 
 
@@ -2533,7 +2533,7 @@ Tedd Ügyedet győzedelmessé, ó, Uram, és alázd meg ellenségeidet. Rendeld 
 (Bahaiprayers.net ID: 2752)
 
 
-
+«[Magyar](../hu/#bpn2752)» 
 
 
 
@@ -2551,7 +2551,7 @@ Dicsőség Istennek, minden világok Urának!
 (Bahaiprayers.net ID: 2730)
 
 
-
+«[Magyar](../hu/#bpn2730)» 
 
 
 
@@ -2569,7 +2569,7 @@ Te vagy valóban a Leghatalmasabb, a Legmagasztosabb, a Mindenek Tudója, a Mind
 (Bahaiprayers.net ID: 2731)
 
 
-
+«[Magyar](../hu/#bpn2731)» 
 
 
 
@@ -2587,7 +2587,7 @@ Add meg nékik, ó, Uram, hogy szívük ehhez a Hithez, a Te sérthetetlen Hited
 (Bahaiprayers.net ID: 2732)
 
 
-
+«[Magyar](../hu/#bpn2732)» 
 
 
 
@@ -2599,7 +2599,7 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 (Bahaiprayers.net ID: 2733)
 
 
-
+«[Magyar](../hu/#bpn2733)» 
 
 
 
@@ -2611,7 +2611,7 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 (Bahaiprayers.net ID: 2734)
 
 
-
+«[Magyar](../hu/#bpn2734)» 
 
 
 
@@ -2625,7 +2625,7 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 (Bahaiprayers.net ID: 2735)
 
 
-
+«[Magyar](../hu/#bpn2735)» 
 
 
 
@@ -2641,7 +2641,7 @@ Bizony, Te vagy az Erős, a Hatalmas, a Mindenható, és Te vagy a Bölcs, a Hal
 (Bahaiprayers.net ID: 2736)
 
 
-
+«[Magyar](../hu/#bpn2736)» 
 
 
 
@@ -2655,7 +2655,7 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2737)
 
 
-
+«[Magyar](../hu/#bpn2737)» 
 
 
 
@@ -2667,7 +2667,7 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2738)
 
 
-
+«[Magyar](../hu/#bpn2738)» 
 
 
 
@@ -2685,7 +2685,7 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2747)
 
 
-
+«[Magyar](../hu/#bpn2747)» 
 
 
 
@@ -2702,7 +2702,7 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2748)
 
 
-
+«[Magyar](../hu/#bpn2748)» 
 
 
 
@@ -2751,7 +2751,7 @@ Bizony, Ő az Irgalmas, a Könyörületes. Magasztaltassék Isten, minden világ
 (Bahaiprayers.net ID: 2643)
 
 
-
+«[Magyar](../hu/#bpn2643)» 
 
 
 
@@ -2769,7 +2769,7 @@ Uram, én Uram! Dicsőítlek Téged és hálát adok Néked mindazért, mivel ki
 (Bahaiprayers.net ID: 2617)
 
 
-
+«[Magyar](../hu/#bpn2617)» 
 
 
 
@@ -2789,7 +2789,7 @@ Te valóban a Mindenható vagy, a Legmagasztosabb, a Mindig Megbocsátó, a Legn
 (Bahaiprayers.net ID: 2742)
 
 
-
+«[Magyar](../hu/#bpn2742)» 
 
 
 
@@ -2807,7 +2807,7 @@ Mérhetetlenül magasztos vagy, ó, Uram! Védj meg minket mindentől, ami előt
 (Bahaiprayers.net ID: 2743)
 
 
-
+«[Magyar](../hu/#bpn2743)» 
 
 
 
@@ -2821,7 +2821,7 @@ Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 (Bahaiprayers.net ID: 2744)
 
 
-
+«[Magyar](../hu/#bpn2744)» 
 
 
 
@@ -2833,7 +2833,7 @@ Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 (Bahaiprayers.net ID: 2745)
 
 
-
+«[Magyar](../hu/#bpn2745)» 
 
 
 
@@ -2847,7 +2847,7 @@ Fogadd védőszárnyaid alá, ó, Te, a tisztaság Szelleme, Te, Ki a Mindenkin�
 (Bahaiprayers.net ID: 2746)
 
 
-
+«[Magyar](../hu/#bpn2746)» 
 
 
 
@@ -2863,7 +2863,7 @@ Fogadd védőszárnyaid alá, ó, Te, a tisztaság Szelleme, Te, Ki a Mindenkin�
 (Bahaiprayers.net ID: 2713)
 
 
-
+«[Magyar](../hu/#bpn2713)» 
 
 
 
@@ -2875,7 +2875,7 @@ Fogadd védőszárnyaid alá, ó, Te, a tisztaság Szelleme, Te, Ki a Mindenkin�
 (Bahaiprayers.net ID: 2714)
 
 
-
+«[Magyar](../hu/#bpn2714)» 
 
 
 
@@ -2889,7 +2889,7 @@ Valóban, Te vagy a Mindenható és a Mindenek Felett Hatalmas!
 (Bahaiprayers.net ID: 2715)
 
 
-
+«[Magyar](../hu/#bpn2715)» 
 
 
 
@@ -2907,7 +2907,7 @@ Nincsen más Isten, csak Te, az Egyetlen, az Összehasonlíthatatlan, a Mindenek
 (Bahaiprayers.net ID: 2740)
 
 
-
+«[Magyar](../hu/#bpn2740)» 
 
 
 
@@ -2919,7 +2919,7 @@ Nincsen más Isten, csak Te, az Egyetlen, az Összehasonlíthatatlan, a Mindenek
 (Bahaiprayers.net ID: 2741)
 
 
-
+«[Magyar](../hu/#bpn2741)» 
 
 
 
@@ -2939,7 +2939,7 @@ Tudod, ó, Isten, és tanúskodsz mellettem, hogy nem él más vágy a szívembe
 (Bahaiprayers.net ID: 2739)
 
 
-
+«[Magyar](../hu/#bpn2739)» 
 
 
 

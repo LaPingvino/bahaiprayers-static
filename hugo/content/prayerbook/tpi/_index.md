@@ -91,7 +91,7 @@ Thou, truly, art the King of all men.  There is no God but Thee, the Ever-Forgiv
 (Bahaiprayers.net ID: 12948)
 
 
-
+«[Tok Pisin](../tpi/#bpn12948)» 
 
 
 
@@ -111,7 +111,7 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 (Bahaiprayers.net ID: 12949)
 
 
-
+«[Tok Pisin](../tpi/#bpn12949)» 
 
 
 
@@ -125,7 +125,7 @@ O my Lord!  O my Lord!  This is a lamp lighted by the fire of Thy love and ablaz
 (Bahaiprayers.net ID: 12950)
 
 
-
+«[Tok Pisin](../tpi/#bpn12950)» 
 
 
 
@@ -145,7 +145,7 @@ O God!  Thou art more friend to me that I am to myself.  I dedicate myself to Th
 (Bahaiprayers.net ID: 12951)
 
 
-
+«[Tok Pisin](../tpi/#bpn12951)» 
 
 
 
@@ -168,7 +168,7 @@ Give us our daily bread and grant Thy increase in the necessities of life, that 
 (Bahaiprayers.net ID: 12959)
 
 
-
+«[Tok Pisin](../tpi/#bpn12959)» 
 
 
 
@@ -215,7 +215,7 @@ We all, verily, are patient in God. (19 times)
 (Bahaiprayers.net ID: 12967)
 
 
-
+«[Tok Pisin](../tpi/#bpn12967)» 
 
 
 
@@ -233,7 +233,7 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 (Bahaiprayers.net ID: 12940)
 
 
-
+«[Tok Pisin](../tpi/#bpn12940)» 
 
 
 
@@ -247,7 +247,7 @@ O God!  Educate these children.  These children are the plants of Thine orchard,
 (Bahaiprayers.net ID: 12941)
 
 
-
+«[Tok Pisin](../tpi/#bpn12941)» 
 
 
 
@@ -263,7 +263,7 @@ O my Lord! O my Lord!  I am a child of tender years. Nourish me from the breast 
 (Bahaiprayers.net ID: 12942)
 
 
-
+«[Tok Pisin](../tpi/#bpn12942)» 
 
 
 
@@ -277,7 +277,7 @@ O Thou most glorious Lord!  Make this little maidservant of Thine blessed and ha
 (Bahaiprayers.net ID: 12943)
 
 
-
+«[Tok Pisin](../tpi/#bpn12943)» 
 
 
 
@@ -295,7 +295,7 @@ My Lord!  My Lord!  I praise Thee and I thank Thee for that whereby Thou hast fa
 (Bahaiprayers.net ID: 12937)
 
 
-
+«[Tok Pisin](../tpi/#bpn12937)» 
 
 
 
@@ -310,7 +310,7 @@ O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a 
 (Bahaiprayers.net ID: 12938)
 
 
-
+«[Tok Pisin](../tpi/#bpn12938)» 
 
 
 
@@ -328,7 +328,7 @@ O my God!  Let the outpourings of Thy bounty and blessings descend upon homes wh
 (Bahaiprayers.net ID: 12936)
 
 
-
+«[Tok Pisin](../tpi/#bpn12936)» 
 
 
 
@@ -347,7 +347,7 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 (Bahaiprayers.net ID: 12964)
 
 
-
+«[Tok Pisin](../tpi/#bpn12964)» 
 
 
 
@@ -375,7 +375,7 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 (Bahaiprayers.net ID: 12970)
 
 
-
+«[Tok Pisin](../tpi/#bpn12970)» 
 
 
 
@@ -396,7 +396,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 (Bahaiprayers.net ID: 12952)
 
 
-
+«[Tok Pisin](../tpi/#bpn12952)» 
 
 
 
@@ -412,7 +412,7 @@ Yu gat pawa inap long mekim wanem samting Yu gat laik long mekim.  I no gat nara
 (Bahaiprayers.net ID: 12953)
 
 
-
+«[Tok Pisin](../tpi/#bpn12953)» 
 
 
 
@@ -428,7 +428,7 @@ Powerful art Thou to do what pleaseth Thee. There is none other God save Thee, t
 (Bahaiprayers.net ID: 12954)
 
 
-
+«[Tok Pisin](../tpi/#bpn12954)» 
 
 
 
@@ -446,7 +446,7 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 (Bahaiprayers.net ID: 12935)
 
 
-
+«[Tok Pisin](../tpi/#bpn12935)» 
 
 
 
@@ -468,7 +468,7 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 (Bahaiprayers.net ID: 12965)
 
 
-
+«[Tok Pisin](../tpi/#bpn12965)» 
 
 
 
@@ -501,7 +501,7 @@ Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
 (Bahaiprayers.net ID: 12966)
 
 
-
+«[Tok Pisin](../tpi/#bpn12966)» 
 
 
 
@@ -533,7 +533,7 @@ O God!  Endow us with Thy providence.  Thou art the Powerful. Thou art the Giver
 (Bahaiprayers.net ID: 12972)
 
 
-
+«[Tok Pisin](../tpi/#bpn12972)» 
 
 
 
@@ -549,7 +549,7 @@ O my God!  O my God!  Verily, these servants are turning to Thee, supplicating T
 (Bahaiprayers.net ID: 12973)
 
 
-
+«[Tok Pisin](../tpi/#bpn12973)» 
 
 
 
@@ -582,7 +582,7 @@ Verily, Thou art the Generous, the Merciful!  Thou art the Possessor of great bo
 (Bahaiprayers.net ID: 12975)
 
 
-
+«[Tok Pisin](../tpi/#bpn12975)» 
 
 
 
@@ -609,7 +609,7 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 (Bahaiprayers.net ID: 12958)
 
 
-
+«[Tok Pisin](../tpi/#bpn12958)» 
 
 
 
@@ -629,7 +629,7 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 12955)
 
 
-
+«[Tok Pisin](../tpi/#bpn12955)» 
 
 
 
@@ -673,7 +673,7 @@ Thou, in truth, art the All-Knowing, the All-Wise.
 (Bahaiprayers.net ID: 12978)
 
 
-
+«[Tok Pisin](../tpi/#bpn12978)» 
 
 
 
@@ -693,7 +693,7 @@ I no gat narapela God. Yu tasol i stap. Yu Gat Olgeta Strong na Yu Bosim Olgeta 
 (Bahaiprayers.net ID: 12956)
 
 
-
+«[Tok Pisin](../tpi/#bpn12956)» 
 
 
 
@@ -709,7 +709,7 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 (Bahaiprayers.net ID: 12957)
 
 
-
+«[Tok Pisin](../tpi/#bpn12957)» 
 
 
 
@@ -727,7 +727,7 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 (Bahaiprayers.net ID: 12939)
 
 
-
+«[Tok Pisin](../tpi/#bpn12939)» 
 
 
 
@@ -745,7 +745,7 @@ Say:  God sufficeth all things above all things.  And nothing in the heavens or 
 (Bahaiprayers.net ID: 12934)
 
 
-
+«[Tok Pisin](../tpi/#bpn12934)» 
 
 
 
@@ -771,7 +771,7 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 (Bahaiprayers.net ID: 12968)
 
 
-
+«[Tok Pisin](../tpi/#bpn12968)» 
 
 
 
@@ -789,7 +789,7 @@ O Thou Pure and Omnipotent God!  O Thou my kind Lord! Grant us such power as to 
 (Bahaiprayers.net ID: 12981)
 
 
-
+«[Tok Pisin](../tpi/#bpn12981)» 
 
 
 
@@ -819,7 +819,7 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 (Bahaiprayers.net ID: 12930)
 
 
-
+«[Tok Pisin](../tpi/#bpn12930)» 
 
 
 
@@ -851,7 +851,7 @@ O God!  My God!  We are servants of Thine that have turned with devotion to Thy 
 (Bahaiprayers.net ID: 12974)
 
 
-
+«[Tok Pisin](../tpi/#bpn12974)» 
 
 
 
@@ -871,7 +871,7 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 (Bahaiprayers.net ID: 12960)
 
 
-
+«[Tok Pisin](../tpi/#bpn12960)» 
 
 
 
@@ -897,7 +897,7 @@ Thou art the Pardoner, the Gracious.
 (Bahaiprayers.net ID: 12961)
 
 
-
+«[Tok Pisin](../tpi/#bpn12961)» 
 
 
 
@@ -987,7 +987,7 @@ Verily, He is the Merciful, the Compassionate.  Praise be to God, the Lord of al
 (Bahaiprayers.net ID: 12969)
 
 
-
+«[Tok Pisin](../tpi/#bpn12969)» 
 
 
 
@@ -1038,7 +1038,7 @@ Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, 
 (Bahaiprayers.net ID: 12979)
 
 
-
+«[Tok Pisin](../tpi/#bpn12979)» 
 
 
 
@@ -1086,7 +1086,7 @@ Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Mercif
 (Bahaiprayers.net ID: 12980)
 
 
-
+«[Tok Pisin](../tpi/#bpn12980)» 
 
 
 
@@ -1114,7 +1114,7 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 (Bahaiprayers.net ID: 12962)
 
 
-
+«[Tok Pisin](../tpi/#bpn12962)» 
 
 
 
@@ -1130,7 +1130,7 @@ Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!
 (Bahaiprayers.net ID: 12931)
 
 
-
+«[Tok Pisin](../tpi/#bpn12931)» 
 
 
 
@@ -1150,7 +1150,7 @@ Shelter under Thy protection, O Thou Spirit of Purity, Thou Who art the All-Boun
 (Bahaiprayers.net ID: 12932)
 
 
-
+«[Tok Pisin](../tpi/#bpn12932)» 
 
 
 
@@ -1174,7 +1174,7 @@ O Divine Providence!  All existence is begotten by Thy bounty; deprive it not of
 (Bahaiprayers.net ID: 12933)
 
 
-
+«[Tok Pisin](../tpi/#bpn12933)» 
 
 
 
@@ -1204,7 +1204,7 @@ There is no God but Thee, the All-Knowing, the All-Wise.  All praise be to God, 
 (Bahaiprayers.net ID: 12977)
 
 
-
+«[Tok Pisin](../tpi/#bpn12977)» 
 
 
 
@@ -1222,7 +1222,7 @@ O Divine Providence! As I am abstaining from bodily desires and not occupied wit
 (Bahaiprayers.net ID: 12976)
 
 
-
+«[Tok Pisin](../tpi/#bpn12976)» 
 
 
 
@@ -1245,7 +1245,7 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 (Bahaiprayers.net ID: 12963)
 
 
-
+«[Tok Pisin](../tpi/#bpn12963)» 
 
 
 
@@ -1264,7 +1264,7 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 (Bahaiprayers.net ID: 12944)
 
 
-
+«[Tok Pisin](../tpi/#bpn12944)» 
 
 
 
@@ -1288,7 +1288,7 @@ O God, create in the hearts of Thy beloved the fire of Thy love, that it may con
 (Bahaiprayers.net ID: 12945)
 
 
-
+«[Tok Pisin](../tpi/#bpn12945)» 
 
 
 
@@ -1302,7 +1302,7 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 (Bahaiprayers.net ID: 12946)
 
 
-
+«[Tok Pisin](../tpi/#bpn12946)» 
 
 
 
@@ -1347,7 +1347,7 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 12947)
 
 
-
+«[Tok Pisin](../tpi/#bpn12947)» 
 
 
 
@@ -1365,7 +1365,7 @@ O Bikpela!  Mekim dispela yangpela i pulap long lait, na givim blesing bilong Yu
 (Bahaiprayers.net ID: 12982)
 
 
-
+«[Tok Pisin](../tpi/#bpn12982)» 
 
 
 
@@ -1384,7 +1384,7 @@ Magnified art Thou, O Lord of the entire creation, the One unto Whom all things 
 (Bahaiprayers.net ID: 12971)
 
 
-
+«[Tok Pisin](../tpi/#bpn12971)» 
 
 
 

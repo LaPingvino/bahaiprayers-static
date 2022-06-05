@@ -99,7 +99,7 @@ O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum aller
 (Bahaiprayers.net ID: 13400)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13400)» 
 
 
 
@@ -112,7 +112,7 @@ O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerze
 (Bahaiprayers.net ID: 13401)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13401)» 
 
 
 
@@ -126,7 +126,7 @@ O	Här vum Kinnekräich! Erléis eis vun dëser Welt vun eidelen Abildungen a f�
 (Bahaiprayers.net ID: 13402)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13402)» 
 
 
 
@@ -140,7 +140,7 @@ O	Du Allmächtegen Här! Ziel mech zu den Awunner vum Kinnekräich. Dës stierfl
 (Bahaiprayers.net ID: 13403)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13403)» 
 
 
 
@@ -157,7 +157,7 @@ O Du gudden Här, dee mir gär hunn! Si si wéi de Kierper, an Du bass de Geesch
 (Bahaiprayers.net ID: 13404)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13404)» 
 
 
 
@@ -170,7 +170,7 @@ Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O H
 (Bahaiprayers.net ID: 13405)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13405)» 
 
 
 
@@ -186,7 +186,7 @@ O gëttlech Vorseeung! Schenk mir d’Kraaft dës schwéier Laascht ze droen a b
 (Bahaiprayers.net ID: 13406)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13406)» 
 
 
 
@@ -200,7 +200,7 @@ Och wann ech kleng, erniddregt an aarm sinn, sou bass Du awer mäi sécheren Haf
 (Bahaiprayers.net ID: 13407)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13407)» 
 
 
 
@@ -214,7 +214,7 @@ O Gott, mäi Gott! Stéi mir bäi an hëllef mir duerch Deng Muecht, déi Krank 
 (Bahaiprayers.net ID: 13408)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13408)» 
 
 
 
@@ -228,7 +228,7 @@ vun Deem, dee vun alle gelueft gëtt, anzéie kann. Du bass Deen, dee gëtt an �
 (Bahaiprayers.net ID: 13409)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13409)» 
 
 
 
@@ -243,7 +243,7 @@ Verzeiung an zäertlech Suerg, sou datt dës Séil an d‘Räich vun Denge Gehei
 (Bahaiprayers.net ID: 13410)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13410)» 
 
 
 
@@ -256,7 +256,7 @@ O	Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerz
 (Bahaiprayers.net ID: 13411)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13411)» 
 
 
 
@@ -270,7 +270,7 @@ Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun 
 (Bahaiprayers.net ID: 13412)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13412)» 
 
 
 
@@ -283,7 +283,7 @@ Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Nor
 (Bahaiprayers.net ID: 13413)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13413)» 
 
 
 
@@ -299,7 +299,7 @@ O du Allmächtegen, deens Du engem Stréihallem d’Muecht vun engem Bierg gëss
 (Bahaiprayers.net ID: 13414)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13414)» 
 
 
 
@@ -312,7 +312,7 @@ Mir sinn all am mächtege Grëff vum Denger Muecht gehalen. Du bass eisen Ënner
 (Bahaiprayers.net ID: 13415)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13415)» 
 
 
 
@@ -331,7 +331,7 @@ ginn an zu Denge Kniechte gehéieren, déi fest a sécher stinn.
 (Bahaiprayers.net ID: 13416)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13416)» 
 
 
 
@@ -347,7 +347,7 @@ O Här! Erléis eis vun de Bindunge vun der Welt an hire Vëlker, vun den Iwwers
 (Bahaiprayers.net ID: 13417)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13417)» 
 
 
 
@@ -363,7 +363,7 @@ O gëttlech Vorseeung! Mir si schwaach an Du bass de Stäerksten. Mir si wéi bu
 (Bahaiprayers.net ID: 13418)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13418)» 
 
 
 
@@ -378,7 +378,7 @@ Vollek ze luewen, a léis seng Zong, fir dass hien Deng Herrlechkeet an Däi Lue
 (Bahaiprayers.net ID: 13419)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13419)» 
 
 
 
@@ -394,7 +394,7 @@ O gëttlech Vorseeung! Gewär hinnen Deng Gonscht, féier si op de richtege Wee,
 (Bahaiprayers.net ID: 13420)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13420)» 
 
 
 
@@ -408,7 +408,7 @@ O	Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du im
 (Bahaiprayers.net ID: 13421)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13421)» 
 
 
 
@@ -421,7 +421,7 @@ Mir sinn Deng damiddeg Dénger an Du bass den Allmächtegen. Mir sënnegen an Du
 (Bahaiprayers.net ID: 13422)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13422)» 
 
 
 
@@ -437,7 +437,7 @@ O Gott, mäi Gott! Erhief si duerch Deng uréiweg Herrlechkeet, éier si an Deng
 (Bahaiprayers.net ID: 13423)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13423)» 
 
 
 
@@ -459,7 +459,7 @@ De Vigel, lues am Fluch, hir Flilleke gebrach schenk Du aus zaarter Gnod zwee ne
 (Bahaiprayers.net ID: 13424)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13424)» 
 
 
 
@@ -473,7 +473,7 @@ O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi
 (Bahaiprayers.net ID: 13667)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13667)» 
 
 
 
@@ -497,7 +497,7 @@ Ech bieden Dech, O Du Kinnek vun de Kinneken, dee Matleed mat den Ënnerdréckte
 (Bahaiprayers.net ID: 13653)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13653)» 
 
 
 
@@ -527,7 +527,7 @@ Seen Du, O Här mäi Gott, de gëttleche Bam a seng Blieder a seng Äscht a seng
 (Bahaiprayers.net ID: 13662)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13662)» 
 
 
 
@@ -555,7 +555,7 @@ Du bass Deen, dee schenkt, de Matleedvollen, de Generéisten, de Gnädegen, de B
 (Bahaiprayers.net ID: 13663)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13663)» 
 
 
 
@@ -575,7 +575,7 @@ Du bass Deen, dee verzeit, de Gnädegen.
 (Bahaiprayers.net ID: 13574)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13574)» 
 
 
 
@@ -591,7 +591,7 @@ Schaf a mir e rengt Häerz, o mäi Gott, a gëff mir op en Neits e rouegt Gewës
 (Bahaiprayers.net ID: 8213)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8213)» 
 
 
 
@@ -603,7 +603,7 @@ O Gott, mäi Gott! Du bass meng Hoffnung an Deen, deen ech gär hunn, mäin héc
 (Bahaiprayers.net ID: 8217)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8217)» 
 
 
 
@@ -619,7 +619,7 @@ O mäi Gott, o mäi Gott! Vereeneg d’Häerzer vun Dengen Dénger a weis hinnen
 (Bahaiprayers.net ID: 8211)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8211)» 
 
 
 
@@ -645,7 +645,7 @@ Du bass de Mächtegen an de Staarken, Du bass Deen, dee verzeit an Deen, deen d�
 (Bahaiprayers.net ID: 13575)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13575)» 
 
 
 
@@ -661,7 +661,7 @@ Et gehéiert sech, dass den Dénger no all Gebiet Gott biet, sengen Elteren Erba
 (Bahaiprayers.net ID: 13576)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13576)» 
 
 
 
@@ -673,7 +673,7 @@ O Här! An dëser gréisster Offenbarung akzeptéiers Du d’Gebieder vun de Kan
 (Bahaiprayers.net ID: 13577)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13577)» 
 
 
 
@@ -687,7 +687,7 @@ Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun 
 (Bahaiprayers.net ID: 13578)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13578)» 
 
 
 
@@ -703,7 +703,7 @@ O mäi Gott, hëllef Du Dengem Dénger Däi Wuert ze erhéijen, alles ze verwerf
 (Bahaiprayers.net ID: 13579)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13579)» 
 
 
 
@@ -715,7 +715,7 @@ O Gott, mäi Gott! Hëllef Dengen treien Dénger, Häerzer ze hunn, déi voller 
 (Bahaiprayers.net ID: 13580)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13580)» 
 
 
 
@@ -731,7 +731,7 @@ Du bass wierklech de Mächtegen, de Staarken an den Allmächtegen, an Du bass de
 (Bahaiprayers.net ID: 13581)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13581)» 
 
 
 
@@ -744,7 +744,7 @@ Du bass den Allmächtegen an Du méchs, wat och ëmmer s Du wëlls.
 (Bahaiprayers.net ID: 13582)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13582)» 
 
 
 
@@ -760,7 +760,7 @@ Du bass wierklech de Gewaltegen, de Beschützer, de Staarken, de Verdeedeger, de
 (Bahaiprayers.net ID: 13583)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13583)» 
 
 
 
@@ -776,7 +776,7 @@ Gëtt et een, dee Schwieregkeeten ewechhëlt ausser Gott? So: Gelueft sief Gott!
 (Bahaiprayers.net ID: 13584)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13584)» 
 
 
 
@@ -788,7 +788,7 @@ So: Gott geet allem duer, an iwwer alles ewech, an näischt an den Himmelen an o
 (Bahaiprayers.net ID: 13585)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13585)» 
 
 
 
@@ -802,7 +802,7 @@ Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O H
 (Bahaiprayers.net ID: 13586)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13586)» 
 
 
 
@@ -817,7 +817,7 @@ O Här! Deng Prüfunge si wierklech haart an Deng Tester kënne Fundamenter aus 
 (Bahaiprayers.net ID: 13587)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13587)» 
 
 
 
@@ -870,7 +870,7 @@ Ech bieden Dech, o mäin Här, bei Dir a bei Dengen Zeechen, a bei Dengen däitl
 (Bahaiprayers.net ID: 13654)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13654)» 
 
 
 
@@ -882,7 +882,7 @@ Glécklech sidd dir, dass dir dem Gebot vu Gott gefollegt an dëst Faaschten an 
 (Bahaiprayers.net ID: 13655)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13655)» 
 
 
 
@@ -894,7 +894,7 @@ O Gott! Esou wéi ech mech vu kierperleche Wënsch enthalen a mech net mat Iesse
 (Bahaiprayers.net ID: 13656)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13656)» 
 
 
 
@@ -910,7 +910,7 @@ O du matleedvolle Gott! Schenk mer en Häerz, dat wéi e Glas, mam Liicht vun De
 (Bahaiprayers.net ID: 8210)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8210)» 
 
 
 
@@ -932,7 +932,7 @@ Wierklech, Du bass Deen, deen erhält an hëlleft, de Generéisen, de Mëtschgie
 (Bahaiprayers.net ID: 13590)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13590)» 
 
 
 
@@ -948,7 +948,7 @@ O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vu
 (Bahaiprayers.net ID: 13588)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13588)» 
 
 
 
@@ -963,7 +963,7 @@ O Här! Erléis eis vun de Bindunge vun der Welt an hire Vëlker, vun den Iwwers
 (Bahaiprayers.net ID: 13589)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13589)» 
 
 
 
@@ -979,7 +979,7 @@ Ech bieden Dech, o mäi Gott, bei all der transzendenter Éier vun Dengem Numm, 
 (Bahaiprayers.net ID: 13591)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13591)» 
 
 
 
@@ -993,7 +993,7 @@ Du hues d’Muecht ze maachen, wat Dir gefält. Du bass wierklech de Souverään
 (Bahaiprayers.net ID: 13592)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13592)» 
 
 
 
@@ -1007,7 +1007,7 @@ Du bass, wierklech, den Allmächtegen, den Allherrlechen, de Gewaltegsten.
 (Bahaiprayers.net ID: 13593)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13593)» 
 
 
 
@@ -1021,7 +1021,7 @@ Fänk dofir d’Feier vun Denger Léift a menger Broscht un, o mäi Gott, fir da
 (Bahaiprayers.net ID: 13594)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13594)» 
 
 
 
@@ -1037,7 +1037,7 @@ O du Allmächtegen, deens Du engem Stréihallem d’Muecht vun engem Bierg gëss
 (Bahaiprayers.net ID: 13595)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13595)» 
 
 
 
@@ -1053,7 +1053,7 @@ O gëttlech Vorseeung! Mir si schwaach an Du bass de Stäerksten. Mir si wéi bu
 (Bahaiprayers.net ID: 13596)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13596)» 
 
 
 
@@ -1071,7 +1071,7 @@ Säit éiwegen Zäite bass Du mächteg ze maachen, wat Dir gefält an transzende
 (Bahaiprayers.net ID: 13597)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13597)» 
 
 
 
@@ -1087,7 +1087,7 @@ Däin Numm ass meng Heelung, o mäi Gott, an Denger ze gedenken ass meng Medezin
 (Bahaiprayers.net ID: 13598)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13598)» 
 
 
 
@@ -1193,7 +1193,7 @@ Du bass wierklech de Mächtegen, Deen, dee jiddwerengem duergeet, den Heelenden,
 (Bahaiprayers.net ID: 13599)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13599)» 
 
 
 
@@ -1213,7 +1213,7 @@ Du bass wierklech de Staarken, de Gewaltegen, den Allmächtegen.
 (Bahaiprayers.net ID: 13600)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13600)» 
 
 
 
@@ -1229,7 +1229,7 @@ O Gott, mäi Gott! Stéi mir bäi an hëllef mir duerch Deng Muecht, déi Krank 
 (Bahaiprayers.net ID: 13601)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13601)» 
 
 
 
@@ -1256,7 +1256,7 @@ A wéi Hie wollt de Mënsche Gnod a gutt Doten erweisen, an d’Welt an d’Rei 
 (Bahaiprayers.net ID: 13608)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13608)» 
 
 
 
@@ -1272,7 +1272,7 @@ Verherrlecht bass Du, o Här vun der ganzer Schëpfung, deen Een, deem sech alle
 (Bahaiprayers.net ID: 13657)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13657)» 
 
 
 
@@ -1290,7 +1290,7 @@ Du bass wierklech alle Mënschen hire Kinnek. Et gëtt kee Gott ausser Dir, Deen
 (Bahaiprayers.net ID: 13602)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13602)» 
 
 
 
@@ -1302,7 +1302,7 @@ O mäi Gott! Ech froen dech, bei Dengem herrlechsten Numm, mir an deem ze hëlle
 (Bahaiprayers.net ID: 13603)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13603)» 
 
 
 
@@ -1316,7 +1316,7 @@ O Vorseeung, mir bieden Dech, weis alle Mënschen Däi Wee a féier si. Du bass 
 (Bahaiprayers.net ID: 13604)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13604)» 
 
 
 
@@ -1328,7 +1328,7 @@ Här! Mir si bematleedenswäert, schenk eis Deng Gonscht; mir sinn aarm, schenk 
 (Bahaiprayers.net ID: 8214)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8214)» 
 
 
 
@@ -1344,7 +1344,7 @@ Du bass a Wierklechkeet deen Een, den Eenzegen, de Mächtegen, den Allwëssenden
 (Bahaiprayers.net ID: 13605)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13605)» 
 
 
 
@@ -1358,7 +1358,7 @@ O Du Geescht vun der Rengheet, Du, deen eis generéis mat allem versuergt, stell
 (Bahaiprayers.net ID: 13606)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13606)» 
 
 
 
@@ -1372,7 +1372,7 @@ O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerze
 (Bahaiprayers.net ID: 13607)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13607)» 
 
 
 
@@ -1388,7 +1388,7 @@ O Här! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Gu
 (Bahaiprayers.net ID: 13609)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13609)» 
 
 
 
@@ -1406,7 +1406,7 @@ Gelueft bass Du, o Du, deen ech iwwer alles gär hunn! Looss iwwer dëst Kand de
 (Bahaiprayers.net ID: 13610)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13610)» 
 
 
 
@@ -1424,7 +1424,7 @@ Gelueft sief Gott, den Här vun alle Welten.
 (Bahaiprayers.net ID: 13611)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13611)» 
 
 
 
@@ -1436,7 +1436,7 @@ O Du onvergläichlechen Här! Nier dëse Puppelchen un der Broscht vun Denger L�
 (Bahaiprayers.net ID: 13612)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13612)» 
 
 
 
@@ -1452,7 +1452,7 @@ Du bass de Gewaltegen, Deen, dee jiddweree gär huet.
 (Bahaiprayers.net ID: 13613)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13613)» 
 
 
 
@@ -1464,7 +1464,7 @@ Hien ass Gott! O Gott, mäi Gott! Schenk mir en Häerz, sou reng wéi eng Pärel
 (Bahaiprayers.net ID: 13614)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13614)» 
 
 
 
@@ -1476,7 +1476,7 @@ O Gott, leed mech, hal Deng Hand iwwer mech, maach aus mir eng stralend Luucht a
 (Bahaiprayers.net ID: 13615)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13615)» 
 
 
 
@@ -1492,7 +1492,7 @@ A Wierklechkeet bass Du de Staarken, de Mächtegen, Deen, dee gesäit, Deen, dee
 (Bahaiprayers.net ID: 13616)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13616)» 
 
 
 
@@ -1504,7 +1504,7 @@ O Gott! Erzéi dëst Këndchen am Schouss vun Denger Léift, a gëff him Mëllec
 (Bahaiprayers.net ID: 13617)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13617)» 
 
 
 
@@ -1516,7 +1516,7 @@ O Gott! Erzéi dës Kanner. Dës Kanner sinn d’Planzen aus Dengem Bongert, d�
 (Bahaiprayers.net ID: 13618)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13618)» 
 
 
 
@@ -1528,7 +1528,7 @@ O Du onvergläichlechen Här! Sief Du dësem aarme Kand e Schutz, an dëser veri
 (Bahaiprayers.net ID: 13619)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13619)» 
 
 
 
@@ -1542,7 +1542,7 @@ O Du Gott, deen sech selwer duergeet! Maach mech vertraut mam Kinnekräich vum O
 (Bahaiprayers.net ID: 13620)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13620)» 
 
 
 
@@ -1558,7 +1558,7 @@ O Du gudden Här! Dës häerzeg Kanner sinn d’Wierk vun Denger mächteger Hand
 (Bahaiprayers.net ID: 8215)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8215)» 
 
 
 
@@ -1570,7 +1570,7 @@ O Här ! Ech si schwaach, stäerk mech mat Denger Kraaft a Muecht. Meng Zong zé
 (Bahaiprayers.net ID: 8209)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8209)» 
 
 
 
@@ -1582,7 +1582,7 @@ O Här! Stäerk dës zaart  Beemercher, fir datt all eenzelne vun hinnen e Bam m
 (Bahaiprayers.net ID: 8216)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8216)» 
 
 
 
@@ -1594,7 +1594,7 @@ O Här ! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng G
 (Bahaiprayers.net ID: 8208)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8208)» 
 
 
 
@@ -1622,7 +1622,7 @@ Et gëtt keen anere Gott ausser Dir, Deen, deen hëlleft a Gefor, Deen, deen due
 (Bahaiprayers.net ID: 13664)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13664)» 
 
 
 
@@ -1698,7 +1698,7 @@ Ech bezeien, o mäi Gott, wat Deng Auserwielte bezeit hunn, an erkennen un, wat 
 (Bahaiprayers.net ID: 13666)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13666)» 
 
 
 
@@ -1720,7 +1720,7 @@ Mächteg bass Du ze maachen, wat Dir gefält. Du bass wierklech den Allmächtege
 (Bahaiprayers.net ID: 13621)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13621)» 
 
 
 
@@ -1736,7 +1736,7 @@ Och wann ech kleng, erniddregt an aarm sinn, sou bass Du awer mäi sécheren Haf
 (Bahaiprayers.net ID: 13622)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13622)» 
 
 
 
@@ -1750,7 +1750,7 @@ Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Nor
 (Bahaiprayers.net ID: 13623)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13623)» 
 
 
 
@@ -1768,7 +1768,7 @@ O gëttlech Vorseeung! Alles wat besteet, kënnt vun Denger Gnod; verweiger deem
 (Bahaiprayers.net ID: 13624)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13624)» 
 
 
 
@@ -1780,7 +1780,7 @@ Hien ass Gott! O Här, wéi solle mir Dir Merci soen! Ouni Grenzen ass Deng Gutt
 (Bahaiprayers.net ID: 13625)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13625)» 
 
 
 
@@ -1794,7 +1794,7 @@ O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum aller
 (Bahaiprayers.net ID: 13626)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13626)» 
 
 
 
@@ -1808,7 +1808,7 @@ O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi
 (Bahaiprayers.net ID: 13627)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13627)» 
 
 
 
@@ -1826,7 +1826,7 @@ O mäin Här, ech widmen Dir dat, wat ech ënner dem Häerz droen. Looss et e lu
 (Bahaiprayers.net ID: 13628)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13628)» 
 
 
 
@@ -1842,7 +1842,7 @@ Looss all Moie besser si wéi den Owend virdrun an all neien Dag méi räich wé
 (Bahaiprayers.net ID: 13630)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13630)» 
 
 
 
@@ -1854,7 +1854,7 @@ An Dengem Ënnerdaach sinn ech erwächt, o mäi Gott, an et gehéiert sech deem,
 (Bahaiprayers.net ID: 13631)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13631)» 
 
 
 
@@ -1872,7 +1872,7 @@ O mäi Gott a mäi Meeschter! Ech sinn däin Dénger an de Jong vun dengem Déng
 (Bahaiprayers.net ID: 13632)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13632)» 
 
 
 
@@ -1886,7 +1886,7 @@ Et gëtt kee Gott ausser Dir, deem Engen, dem Onvergläichlechen, dem Allwëssen
 (Bahaiprayers.net ID: 13633)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13633)» 
 
 
 
@@ -1906,7 +1906,7 @@ Du enttäuschs keen, deen Dech sicht an häls keen zeréck, dee sech no Dir seen
 (Bahaiprayers.net ID: 13634)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13634)» 
 
 
 
@@ -1948,7 +1948,7 @@ Ech sinn Zeie vun Denger Eenheet an Denger Eenzegkeet, an dass Du Gott bass, an 
 (Bahaiprayers.net ID: 13665)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13665)» 
 
 
 
@@ -1968,7 +1968,7 @@ A Wierklechkeet bass Du Deen, dee gëtt, de Generéisen, de Baarmhäerzegen, Dee
 (Bahaiprayers.net ID: 13629)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13629)» 
 
 
 
@@ -1994,7 +1994,7 @@ Du bass wierklech den Allwëssenden, den Allweisen.
 (Bahaiprayers.net ID: 13658)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13658)» 
 
 
 
@@ -2014,7 +2014,7 @@ Et gëtt kee Gott ausser Dir, dem Allmächtegen, dem Allesënnerwerfenden, dem V
 (Bahaiprayers.net ID: 13635)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13635)» 
 
 
 
@@ -2030,7 +2030,7 @@ Wéi kann ech Schlof sichen, o Gott, mäi Gott, wann d’Ae vun deenen, déi no 
 (Bahaiprayers.net ID: 13636)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13636)» 
 
 
 
@@ -2046,7 +2046,7 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 (Bahaiprayers.net ID: 8212)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn8212)» 
 
 
 
@@ -2062,7 +2062,7 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 (Bahaiprayers.net ID: 13638)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13638)» 
 
 
 
@@ -2076,7 +2076,7 @@ Schenk mir an de Gleewegen, déi Dengem Ruff nogaange sinn, Verzeiung. Sief Du m
 (Bahaiprayers.net ID: 13637)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13637)» 
 
 
 
@@ -2092,7 +2092,7 @@ A Wierklechkeet bass Du de Beschützer, den Hidder, den Erhaler, Deen, dee sech 
 (Bahaiprayers.net ID: 13639)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13639)» 
 
 
 
@@ -2112,7 +2112,7 @@ O Du gudden Här, dee mir gär hunn! Si si wéi de Kierper, an Du bass de Geesch
 (Bahaiprayers.net ID: 13640)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13640)» 
 
 
 
@@ -2130,7 +2130,7 @@ O Här, mäi Gott! Sief Du hire Begleeder an hirer Einsamkeet an ëmstell si mat
 (Bahaiprayers.net ID: 13641)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13641)» 
 
 
 
@@ -2146,7 +2146,7 @@ O Här, mäi Gott! Stéi deene bäi, déi s Du gär hues, fir dass si fest an De
 (Bahaiprayers.net ID: 13642)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13642)» 
 
 
 
@@ -2199,7 +2199,7 @@ A Wierklechkeet, ass Hien de Baarmhäerzegen, de Matleedvollen. Gelueft sief Got
 (Bahaiprayers.net ID: 13661)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13661)» 
 
 
 
@@ -2219,7 +2219,7 @@ O Du, deen s Du eis versuergs! Schéck eis Deng Hëllef erof, fir dass jiddweree
 (Bahaiprayers.net ID: 13659)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13659)» 
 
 
 
@@ -2233,7 +2233,7 @@ O mäin Här, mäi Kinnek, mäin Herrscher, a mäi Souverän. Ech riichte mech u
 (Bahaiprayers.net ID: 13660)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13660)» 
 
 
 
@@ -2264,7 +2264,7 @@ A Wierklechkeet si mir all gedëlleg a Gott.
 (Bahaiprayers.net ID: 13643)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13643)» 
 
 
 
@@ -2276,7 +2276,7 @@ O JONG VUN DER EXISTENZ! Lee dir selwer all Dag Rechenschaft of, éier s du zur 
 (Bahaiprayers.net ID: 13644)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13644)» 
 
 
 
@@ -2288,7 +2288,7 @@ Erlab, o mäin Här, dass déi, déi zu Dir eropkomm sinn, an Dir, dem beschte K
 (Bahaiprayers.net ID: 13645)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13645)» 
 
 
 
@@ -2300,7 +2300,7 @@ So: O Gott, mäi Gott! Du hues mengen Hänn e Schaz vun Dir uvertraut, an no Den
 (Bahaiprayers.net ID: 13646)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13646)» 
 
 
 
@@ -2316,7 +2316,7 @@ O Du onvergläichlechen Här! Gewär Deng Verzeiung an zäertlech Suerg, sou dat
 (Bahaiprayers.net ID: 13647)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13647)» 
 
 
 
@@ -2330,7 +2330,7 @@ O Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerz
 (Bahaiprayers.net ID: 13648)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13648)» 
 
 
 
@@ -2344,7 +2344,7 @@ O Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du im
 (Bahaiprayers.net ID: 13649)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13649)» 
 
 
 
@@ -2360,7 +2360,7 @@ Ech bieden Dech mir ze verzeien, o mäin Här, fir d‘Ernimme vun allem ausser 
 (Bahaiprayers.net ID: 13650)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13650)» 
 
 
 
@@ -2374,7 +2374,7 @@ Wäsch meng Sënnen of, an och d’Sënne vun deenen, déi bei der Mueresdämmer
 (Bahaiprayers.net ID: 13651)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13651)» 
 
 
 
@@ -2388,7 +2388,7 @@ Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an dengem S
 (Bahaiprayers.net ID: 13652)
 
 
-
+«[Lëtzebuergesch](../lb/#bpn13652)» 
 
 
 

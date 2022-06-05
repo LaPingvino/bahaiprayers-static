@@ -36,7 +36,7 @@ Quale, for chè Diu, face sparisce e difficultà ? Dì: ludatu sia Diu ! Hè sol
 (Bahaiprayers.net ID: 9417)
 
 
-
+«[Corsica](../co/#bpn9417)» 
 
 
 
@@ -48,7 +48,7 @@ Dì : Diu basta in tuttu, più chè tuttu è nunda, nè in celu nè in terra, fo
 (Bahaiprayers.net ID: 9418)
 
 
-
+«[Corsica](../co/#bpn9418)» 
 
 
 
@@ -60,7 +60,7 @@ O Diu ! o Diu ! Eccu un acellu cun l’ale ferite è chì vola piu pianu. Assist
 (Bahaiprayers.net ID: 9419)
 
 
-
+«[Corsica](../co/#bpn9419)» 
 
 
 
@@ -76,7 +76,7 @@ Benedettu hè u locu, a casa è a piazza, a cità è u core, a muntagna è u rip
 (Bahaiprayers.net ID: 9407)
 
 
-
+«[Corsica](../co/#bpn9407)» 
 
 
 
@@ -92,7 +92,7 @@ U to nome mi guarisce, o tù chì sì lu mio Diu, è u to ricordu quellu chì mi
 (Bahaiprayers.net ID: 9420)
 
 
-
+«[Corsica](../co/#bpn9420)» 
 
 
 
@@ -104,7 +104,7 @@ O Diu, tù chì sì lu mio Diu, per mezu di u to mare di guarigione, per mezu di
 (Bahaiprayers.net ID: 9421)
 
 
-
+«[Corsica](../co/#bpn9421)» 
 
 
 
@@ -120,7 +120,7 @@ Mi sò svegliatu ind’u to riparu, o tù chì sì lu mio Diu, è cunvene à ch�
 (Bahaiprayers.net ID: 9411)
 
 
-
+«[Corsica](../co/#bpn9411)» 
 
 
 
@@ -136,7 +136,7 @@ O tù lu mio Diu, testimunieghju chè tù m’hai creatu per cunnòsceti è adur
 (Bahaiprayers.net ID: 9408)
 
 
-
+«[Corsica](../co/#bpn9408)» 
 
 
 
@@ -152,7 +152,7 @@ O tù chì sì u mio Signore, fà sì chì quelli chì còllanu ver di tè tròv
 (Bahaiprayers.net ID: 9422)
 
 
-
+«[Corsica](../co/#bpn9422)» 
 
 
 
@@ -164,7 +164,7 @@ O tù chì sì lu mio Diu, tù chì perdoni i peccati, sparghji i favori è canc
 (Bahaiprayers.net ID: 9423)
 
 
-
+«[Corsica](../co/#bpn9423)» 
 
 
 
@@ -180,7 +180,7 @@ Metti in mè un core puru, o tù lu mio Diu è raccendi in mè una cuscenza appa
 (Bahaiprayers.net ID: 9412)
 
 
-
+«[Corsica](../co/#bpn9412)» 
 
 
 
@@ -196,7 +196,7 @@ O tù lu mio Diu, o tù lu mio Diu, unisci i cori di i to servitori è impàrali
 (Bahaiprayers.net ID: 9409)
 
 
-
+«[Corsica](../co/#bpn9409)» 
 
 
 
@@ -208,7 +208,7 @@ O tù, Signore di buntà, hai creatu tutta l’umanità da u solu è stessu cepp
 (Bahaiprayers.net ID: 9410)
 
 
-
+«[Corsica](../co/#bpn9410)» 
 
 
 
@@ -224,7 +224,7 @@ O tù chì sì lu mio Diu, cundùcimi, prutègimi, allumina a làmpana di u mio 
 (Bahaiprayers.net ID: 9413)
 
 
-
+«[Corsica](../co/#bpn9413)» 
 
 
 
@@ -236,7 +236,7 @@ O Diu, alleva issu bambinu in grembiu à tu to amore è nutrìscilu cù u latte 
 (Bahaiprayers.net ID: 9414)
 
 
-
+«[Corsica](../co/#bpn9414)» 
 
 
 
@@ -248,7 +248,7 @@ O Diu, insegna sti zitelli. Sò e piante di u to ortu, i fiori di u to pratu, e 
 (Bahaiprayers.net ID: 9415)
 
 
-
+«[Corsica](../co/#bpn9415)» 
 
 
 
@@ -260,7 +260,7 @@ O Diu, fa splende issu giòvanu è sia generosu ver di sta criaturella Accòrdal
 (Bahaiprayers.net ID: 9416)
 
 
-
+«[Corsica](../co/#bpn9416)» 
 
 
 

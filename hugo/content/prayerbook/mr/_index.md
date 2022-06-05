@@ -91,7 +91,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12528)
 
 
-
+«[मराठी](../mr/#bpn12528)» 
 
 
 
@@ -108,7 +108,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12522)
 
 
-
+«[मराठी](../mr/#bpn12522)» 
 
 
 
@@ -120,7 +120,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12523)
 
 
-
+«[मराठी](../mr/#bpn12523)» 
 
 
 
@@ -132,7 +132,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12524)
 
 
-
+«[मराठी](../mr/#bpn12524)» 
 
 
 
@@ -149,7 +149,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12507)
 
 
-
+«[मराठी](../mr/#bpn12507)» 
 
 
 
@@ -165,7 +165,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12506)
 
 
-
+«[मराठी](../mr/#bpn12506)» 
 
 
 
@@ -184,7 +184,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12504)
 
 
-
+«[मराठी](../mr/#bpn12504)» 
 
 
 
@@ -203,7 +203,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12500)
 
 
-
+«[मराठी](../mr/#bpn12500)» 
 
 
 
@@ -222,7 +222,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12515)
 
 
-
+«[मराठी](../mr/#bpn12515)» 
 
 
 
@@ -234,7 +234,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12516)
 
 
-
+«[मराठी](../mr/#bpn12516)» 
 
 
 
@@ -246,7 +246,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12517)
 
 
-
+«[मराठी](../mr/#bpn12517)» 
 
 
 
@@ -262,7 +262,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12525)
 
 
-
+«[मराठी](../mr/#bpn12525)» 
 
 
 
@@ -278,7 +278,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12521)
 
 
-
+«[मराठी](../mr/#bpn12521)» 
 
 
 
@@ -327,7 +327,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12499)
 
 
-
+«[मराठी](../mr/#bpn12499)» 
 
 
 
@@ -343,7 +343,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12518)
 
 
-
+«[मराठी](../mr/#bpn12518)» 
 
 
 
@@ -360,7 +360,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12502)
 
 
-
+«[मराठी](../mr/#bpn12502)» 
 
 
 
@@ -378,7 +378,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12527)
 
 
-
+«[मराठी](../mr/#bpn12527)» 
 
 
 
@@ -394,7 +394,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12501)
 
 
-
+«[मराठी](../mr/#bpn12501)» 
 
 
 
@@ -413,7 +413,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12512)
 
 
-
+«[मराठी](../mr/#bpn12512)» 
 
 
 
@@ -429,7 +429,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12508)
 
 
-
+«[मराठी](../mr/#bpn12508)» 
 
 
 
@@ -441,7 +441,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12509)
 
 
-
+«[मराठी](../mr/#bpn12509)» 
 
 
 
@@ -453,7 +453,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12510)
 
 
-
+«[मराठी](../mr/#bpn12510)» 
 
 
 
@@ -469,7 +469,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12519)
 
 
-
+«[मराठी](../mr/#bpn12519)» 
 
 
 
@@ -485,7 +485,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12520)
 
 
-
+«[मराठी](../mr/#bpn12520)» 
 
 
 
@@ -514,7 +514,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12498)
 
 
-
+«[मराठी](../mr/#bpn12498)» 
 
 
 
@@ -539,7 +539,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12513)
 
 
-
+«[मराठी](../mr/#bpn12513)» 
 
 
 
@@ -553,7 +553,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12514)
 
 
-
+«[मराठी](../mr/#bpn12514)» 
 
 
 
@@ -569,7 +569,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12511)
 
 
-
+«[मराठी](../mr/#bpn12511)» 
 
 
 
@@ -587,7 +587,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12503)
 
 
-
+«[मराठी](../mr/#bpn12503)» 
 
 
 
@@ -605,7 +605,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12497)
 
 
-
+«[मराठी](../mr/#bpn12497)» 
 
 
 
@@ -621,7 +621,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12505)
 
 
-
+«[मराठी](../mr/#bpn12505)» 
 
 
 
@@ -637,7 +637,7 @@ tags = ['lang=mr', 'prayerbook']
 (Bahaiprayers.net ID: 12526)
 
 
-
+«[मराठी](../mr/#bpn12526)» 
 
 
 

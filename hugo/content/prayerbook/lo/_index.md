@@ -108,7 +108,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12770)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12770)» 
 
 
 
@@ -126,7 +126,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12771)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12771)» 
 
 
 
@@ -142,7 +142,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12772)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12772)» 
 
 
 
@@ -155,7 +155,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12773)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12773)» 
 
 
 
@@ -169,7 +169,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12774)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12774)» 
 
 
 
@@ -182,7 +182,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12775)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12775)» 
 
 
 
@@ -198,7 +198,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12776)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12776)» 
 
 
 
@@ -214,7 +214,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12754)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12754)» 
 
 
 
@@ -228,7 +228,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12755)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12755)» 
 
 
 
@@ -240,7 +240,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12756)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12756)» 
 
 
 
@@ -257,7 +257,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12757)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12757)» 
 
 
 
@@ -271,7 +271,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12758)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12758)» 
 
 
 
@@ -285,7 +285,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12759)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12759)» 
 
 
 
@@ -303,7 +303,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12792)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12792)» 
 
 
 
@@ -317,7 +317,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12793)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12793)» 
 
 
 
@@ -332,7 +332,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12794)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12794)» 
 
 
 
@@ -344,7 +344,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12795)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12795)» 
 
 
 
@@ -468,7 +468,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12827)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12827)» 
 
 
 
@@ -516,7 +516,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12830)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12830)» 
 
 
 
@@ -536,7 +536,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12835)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12835)» 
 
 
 
@@ -577,7 +577,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12752)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12752)» 
 
 
 
@@ -598,7 +598,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12751)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12751)» 
 
 
 
@@ -629,7 +629,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12859)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12859)» 
 
 
 
@@ -646,7 +646,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12797)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12797)» 
 
 
 
@@ -670,7 +670,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12833)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12833)» 
 
 
 
@@ -684,7 +684,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12789)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12789)» 
 
 
 
@@ -700,7 +700,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12834)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12834)» 
 
 
 
@@ -734,7 +734,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12858)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12858)» 
 
 
 
@@ -759,7 +759,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12820)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12820)» 
 
 
 
@@ -831,7 +831,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12828)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12828)» 
 
 
 
@@ -863,7 +863,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12829)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12829)» 
 
 
 
@@ -883,7 +883,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12861)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12861)» 
 
 
 
@@ -909,7 +909,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12860)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12860)» 
 
 
 
@@ -929,7 +929,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12840)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12840)» 
 
 
 
@@ -953,7 +953,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12836)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12836)» 
 
 
 
@@ -970,7 +970,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12837)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12837)» 
 
 
 
@@ -984,7 +984,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12838)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12838)» 
 
 
 
@@ -998,7 +998,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12839)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12839)» 
 
 
 
@@ -1017,7 +1017,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12855)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12855)» 
 
 
 
@@ -1037,7 +1037,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12845)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12845)» 
 
 
 
@@ -1049,7 +1049,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12846)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12846)» 
 
 
 
@@ -1062,7 +1062,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12847)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12847)» 
 
 
 
@@ -1077,7 +1077,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12848)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12848)» 
 
 
 
@@ -1091,7 +1091,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12849)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12849)» 
 
 
 
@@ -1107,7 +1107,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12850)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12850)» 
 
 
 
@@ -1122,7 +1122,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12851)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12851)» 
 
 
 
@@ -1134,7 +1134,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12852)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12852)» 
 
 
 
@@ -1146,7 +1146,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12853)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12853)» 
 
 
 
@@ -1162,7 +1162,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12854)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12854)» 
 
 
 
@@ -1180,7 +1180,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12807)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12807)» 
 
 
 
@@ -1195,7 +1195,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12808)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12808)» 
 
 
 
@@ -1209,7 +1209,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12809)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12809)» 
 
 
 
@@ -1221,7 +1221,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12810)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12810)» 
 
 
 
@@ -1238,7 +1238,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12796)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12796)» 
 
 
 
@@ -1257,7 +1257,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12786)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12786)» 
 
 
 
@@ -1270,7 +1270,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12788)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12788)» 
 
 
 
@@ -1286,7 +1286,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12841)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12841)» 
 
 
 
@@ -1301,7 +1301,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12842)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12842)» 
 
 
 
@@ -1313,7 +1313,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12843)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12843)» 
 
 
 
@@ -1326,7 +1326,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12844)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12844)» 
 
 
 
@@ -1347,7 +1347,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12802)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12802)» 
 
 
 
@@ -1364,7 +1364,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12790)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12790)» 
 
 
 
@@ -1379,7 +1379,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12791)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12791)» 
 
 
 
@@ -1398,7 +1398,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12803)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12803)» 
 
 
 
@@ -1410,7 +1410,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12804)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12804)» 
 
 
 
@@ -1424,7 +1424,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12805)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12805)» 
 
 
 
@@ -1439,7 +1439,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12806)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12806)» 
 
 
 
@@ -1460,7 +1460,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12815)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12815)» 
 
 
 
@@ -1480,7 +1480,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12816)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12816)» 
 
 
 
@@ -1494,7 +1494,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12817)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12817)» 
 
 
 
@@ -1514,7 +1514,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12818)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12818)» 
 
 
 
@@ -1536,7 +1536,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12819)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12819)» 
 
 
 
@@ -1554,7 +1554,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12821)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12821)» 
 
 
 
@@ -1567,7 +1567,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12822)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12822)» 
 
 
 
@@ -1579,7 +1579,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12823)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12823)» 
 
 
 
@@ -1596,7 +1596,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12824)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12824)» 
 
 
 
@@ -1610,7 +1610,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12825)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12825)» 
 
 
 
@@ -1629,7 +1629,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12826)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12826)» 
 
 
 
@@ -1649,7 +1649,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12779)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12779)» 
 
 
 
@@ -1662,7 +1662,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12780)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12780)» 
 
 
 
@@ -1684,7 +1684,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12863)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12863)» 
 
 
 
@@ -1764,7 +1764,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12753)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12753)» 
 
 
 
@@ -1785,7 +1785,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12811)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12811)» 
 
 
 
@@ -1799,7 +1799,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12812)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12812)» 
 
 
 
@@ -1811,7 +1811,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12813)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12813)» 
 
 
 
@@ -1829,7 +1829,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12814)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12814)» 
 
 
 
@@ -1848,7 +1848,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12831)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12831)» 
 
 
 
@@ -1878,7 +1878,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12856)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12856)» 
 
 
 
@@ -1911,7 +1911,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12857)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12857)» 
 
 
 
@@ -1937,7 +1937,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12862)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12862)» 
 
 
 
@@ -1960,7 +1960,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12832)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12832)» 
 
 
 
@@ -1979,7 +1979,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12781)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12781)» 
 
 
 
@@ -1993,7 +1993,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12782)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12782)» 
 
 
 
@@ -2008,7 +2008,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12783)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12783)» 
 
 
 
@@ -2021,7 +2021,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12784)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12784)» 
 
 
 
@@ -2036,7 +2036,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12785)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12785)» 
 
 
 
@@ -2059,7 +2059,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12787)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12787)» 
 
 
 
@@ -2074,7 +2074,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12778)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12778)» 
 
 
 
@@ -2091,7 +2091,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12798)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12798)» 
 
 
 
@@ -2105,7 +2105,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12799)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12799)» 
 
 
 
@@ -2117,7 +2117,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12800)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12800)» 
 
 
 
@@ -2134,7 +2134,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12801)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12801)» 
 
 
 
@@ -2155,7 +2155,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12760)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12760)» 
 
 
 
@@ -2170,7 +2170,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12761)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12761)» 
 
 
 
@@ -2182,7 +2182,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12762)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12762)» 
 
 
 
@@ -2198,7 +2198,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12763)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12763)» 
 
 
 
@@ -2214,7 +2214,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12764)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12764)» 
 
 
 
@@ -2230,7 +2230,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12765)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12765)» 
 
 
 
@@ -2242,7 +2242,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12766)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12766)» 
 
 
 
@@ -2255,7 +2255,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12767)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12767)» 
 
 
 
@@ -2276,7 +2276,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12768)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12768)» 
 
 
 
@@ -2290,7 +2290,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12769)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12769)» 
 
 
 
@@ -2318,7 +2318,7 @@ tags = ['lang=lo', 'prayerbook']
 (Bahaiprayers.net ID: 12777)
 
 
-
+«[ພາສາລາວ](../lo/#bpn12777)» 
 
 
 

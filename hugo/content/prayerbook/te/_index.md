@@ -54,7 +54,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10985)
 
 
-
+«[తెలుగు](../te/#bpn10985)» 
 
 
 
@@ -70,7 +70,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11016)
 
 
-
+«[తెలుగు](../te/#bpn11016)» 
 
 
 
@@ -117,7 +117,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11014)
 
 
-
+«[తెలుగు](../te/#bpn11014)» 
 
 
 
@@ -135,7 +135,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10993)
 
 
-
+«[తెలుగు](../te/#bpn10993)» 
 
 
 
@@ -151,7 +151,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10992)
 
 
-
+«[తెలుగు](../te/#bpn10992)» 
 
 
 
@@ -167,7 +167,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10987)
 
 
-
+«[తెలుగు](../te/#bpn10987)» 
 
 
 
@@ -181,7 +181,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10988)
 
 
-
+«[తెలుగు](../te/#bpn10988)» 
 
 
 
@@ -203,7 +203,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10990)
 
 
-
+«[తెలుగు](../te/#bpn10990)» 
 
 
 
@@ -225,7 +225,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10986)
 
 
-
+«[తెలుగు](../te/#bpn10986)» 
 
 
 
@@ -259,7 +259,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10999)
 
 
-
+«[తెలుగు](../te/#bpn10999)» 
 
 
 
@@ -275,7 +275,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11000)
 
 
-
+«[తెలుగు](../te/#bpn11000)» 
 
 
 
@@ -297,7 +297,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10998)
 
 
-
+«[తెలుగు](../te/#bpn10998)» 
 
 
 
@@ -330,7 +330,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11015)
 
 
-
+«[తెలుగు](../te/#bpn11015)» 
 
 
 
@@ -346,7 +346,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10994)
 
 
-
+«[తెలుగు](../te/#bpn10994)» 
 
 
 
@@ -358,7 +358,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10995)
 
 
-
+«[తెలుగు](../te/#bpn10995)» 
 
 
 
@@ -370,7 +370,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10996)
 
 
-
+«[తెలుగు](../te/#bpn10996)» 
 
 
 
@@ -382,7 +382,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10997)
 
 
-
+«[తెలుగు](../te/#bpn10997)» 
 
 
 
@@ -403,7 +403,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11001)
 
 
-
+«[తెలుగు](../te/#bpn11001)» 
 
 
 
@@ -415,7 +415,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11002)
 
 
-
+«[తెలుగు](../te/#bpn11002)» 
 
 
 
@@ -427,7 +427,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11003)
 
 
-
+«[తెలుగు](../te/#bpn11003)» 
 
 
 
@@ -439,7 +439,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11004)
 
 
-
+«[తెలుగు](../te/#bpn11004)» 
 
 
 
@@ -451,7 +451,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11005)
 
 
-
+«[తెలుగు](../te/#bpn11005)» 
 
 
 
@@ -463,7 +463,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11006)
 
 
-
+«[తెలుగు](../te/#bpn11006)» 
 
 
 
@@ -477,7 +477,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11007)
 
 
-
+«[తెలుగు](../te/#bpn11007)» 
 
 
 
@@ -489,7 +489,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11008)
 
 
-
+«[తెలుగు](../te/#bpn11008)» 
 
 
 
@@ -501,7 +501,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11009)
 
 
-
+«[తెలుగు](../te/#bpn11009)» 
 
 
 
@@ -517,7 +517,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11010)
 
 
-
+«[తెలుగు](../te/#bpn11010)» 
 
 
 
@@ -529,7 +529,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11011)
 
 
-
+«[తెలుగు](../te/#bpn11011)» 
 
 
 
@@ -541,7 +541,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11012)
 
 
-
+«[తెలుగు](../te/#bpn11012)» 
 
 
 
@@ -555,7 +555,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 11013)
 
 
-
+«[తెలుగు](../te/#bpn11013)» 
 
 
 
@@ -571,7 +571,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10991)
 
 
-
+«[తెలుగు](../te/#bpn10991)» 
 
 
 
@@ -591,7 +591,7 @@ tags = ['lang=te', 'prayerbook']
 (Bahaiprayers.net ID: 10989)
 
 
-
+«[తెలుగు](../te/#bpn10989)» 
 
 
 

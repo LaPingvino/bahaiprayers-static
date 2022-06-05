@@ -52,7 +52,7 @@ O Kewu.  Ni deguc kaiwe ya mepêsi gênzua.  Imuac yomuhuc zêʒua, ni ic nenesi
 (Bahaiprayers.net ID: 13034)
 
 
-
+«[Kube](../kgf/#bpn13034)» 
 
 
 
@@ -68,7 +68,7 @@ Zêzê sêgisêgi mepê qepêsi Kewu geŋga moru haʒac.  O Kewu Yanda:  Nini yo
 (Bahaiprayers.net ID: 13039)
 
 
-
+«[Kube](../kgf/#bpn13039)» 
 
 
 
@@ -86,7 +86,7 @@ Imi hêlacnec, nini moczoŋ Kewu nêŋêna Ewa siŋ hêna zêyec imuacnec mênda
 (Bahaiprayers.net ID: 13038)
 
 
-
+«[Kube](../kgf/#bpn13038)» 
 
 
 
@@ -102,7 +102,7 @@ Yomuhuc zêʒua.  O Kewu.  Kewu na orucna asacmararaŋ ganêŋ qezericna orucna 
 (Bahaiprayers.net ID: 13044)
 
 
-
+«[Kube](../kgf/#bpn13044)» 
 
 
 
@@ -151,7 +151,7 @@ Imi hêlacnec, neŋaŋ Kewuguc bênzêŋ kecni.
 (Bahaiprayers.net ID: 13041)
 
 
-
+«[Kube](../kgf/#bpn13041)» 
 
 
 
@@ -167,7 +167,7 @@ O Nemu Yanda.  O Kewuna.  Gi hêna oriŋga ninicna sêcgêʒac imi meseli nênê
 (Bahaiprayers.net ID: 13048)
 
 
-
+«[Kube](../kgf/#bpn13048)» 
 
 
 
@@ -183,7 +183,7 @@ O Kewu, geŋgaoc zêra bêra gêsina.  Baec iguc ic kuc mêŋŋê hia mênda nes
 (Bahaiprayers.net ID: 13035)
 
 
-
+«[Kube](../kgf/#bpn13035)» 
 
 
 
@@ -199,7 +199,7 @@ O Kewu.  Kekec hêna hiabia nêʒêna hêmba galeŋgê nênna asacmararaŋ gaŋ�
 (Bahaiprayers.net ID: 13040)
 
 
-
+«[Kube](../kgf/#bpn13040)» 
 
 
 
@@ -217,7 +217,7 @@ O Kewu, guac uŋwambuŋ.  Ni sêwina wac kekec imi mênda ninʒêŋ geʒua.  Ni 
 (Bahaiprayers.net ID: 13042)
 
 
-
+«[Kube](../kgf/#bpn13042)» 
 
 
 
@@ -233,7 +233,7 @@ O Kewuna!  O Kewuna!  Hêna oriŋga ewa nina qutulaŋgêna ac koazêcgawac hêni
 (Bahaiprayers.net ID: 13036)
 
 
-
+«[Kube](../kgf/#bpn13036)» 
 
 
 
@@ -251,7 +251,7 @@ O Nemu Yanda, Ni ewa qerina melemba geŋgamoru tilêŋtilêŋ kucgawac qeru haʒ
 (Bahaiprayers.net ID: 13046)
 
 
-
+«[Kube](../kgf/#bpn13046)» 
 
 
 
@@ -267,7 +267,7 @@ O Kewu Na.  Gi nuac maŋgocna.  Ni guac ewana kunen yanda heʒac.  Ai icga ni si
 (Bahaiprayers.net ID: 13045)
 
 
-
+«[Kube](../kgf/#bpn13045)» 
 
 
 
@@ -283,7 +283,7 @@ O Kewu Yanda, tilêŋtilêŋ miŋŋina.  Ni ewa hia nimma mepêsi gênzua.  Nêm
 (Bahaiprayers.net ID: 13047)
 
 
-
+«[Kube](../kgf/#bpn13047)» 
 
 
 
@@ -299,7 +299,7 @@ Kewu uŋwambuŋga baecsêc, amaiguc, ama qeru qutulaŋ amaiguc, ic embac qeri ig
 (Bahaiprayers.net ID: 13033)
 
 
-
+«[Kube](../kgf/#bpn13033)» 
 
 
 
@@ -315,7 +315,7 @@ O Kewu kunenna.  O Kewu kunenna.  Ai icga youmi imi kifaga geŋga uŋagawac uŋw
 (Bahaiprayers.net ID: 13043)
 
 
-
+«[Kube](../kgf/#bpn13043)» 
 
 
 
@@ -331,7 +331,7 @@ O Kewuna.  Qacga iminêŋ nuac sacmasi wamma hafina nesimac.  Ni imuhuc ninzêŋ
 (Bahaiprayers.net ID: 13037)
 
 
-
+«[Kube](../kgf/#bpn13037)» 
 
 
 

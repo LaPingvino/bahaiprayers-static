@@ -92,7 +92,7 @@ Siya ang Hari, ang Nasayod sa tanan, ang Maalam!
 (Bahaiprayers.net ID: 13425)
 
 
-
+«[Cebuano](../ceb/#bpn13425)» 
 
 
 
@@ -109,7 +109,7 @@ O Diyos, akong Diyos! Kining Imong babayeng alagad nagtawag Kanimo, nagasalig Ka
 (Bahaiprayers.net ID: 13537)
 
 
-
+«[Cebuano](../ceb/#bpn13537)» 
 
 
 
@@ -125,7 +125,7 @@ O Diyos, tudloi kining mga kabataan. Kining mga kabataan mga tanum sa Imong tana
 (Bahaiprayers.net ID: 13538)
 
 
-
+«[Cebuano](../ceb/#bpn13538)» 
 
 
 
@@ -141,7 +141,7 @@ Nakita Mo O Ginoo, ang among mga mapangamuyoong kamot gibayaw padulong sa langit
 (Bahaiprayers.net ID: 13534)
 
 
-
+«[Cebuano](../ceb/#bpn13534)» 
 
 
 
@@ -153,7 +153,7 @@ Bulahan siyang mohinumdom sa iyang mga ginikanan samtang siya nakigsulti sa Diyo
 (Bahaiprayers.net ID: 13533)
 
 
-
+«[Cebuano](../ceb/#bpn13533)» 
 
 
 
@@ -165,7 +165,7 @@ O Ginoo! Niining Labing Bantugang Kapanahunan modawat Ka sa pangamuyo sa mga ana
 (Bahaiprayers.net ID: 13535)
 
 
-
+«[Cebuano](../ceb/#bpn13535)» 
 
 
 
@@ -182,7 +182,7 @@ Akong Ginoo! Akong Ginoo! Ako nagdalayeg Kanimo ug ako nagpasalamat Kanimo nga I
 (Bahaiprayers.net ID: 13536)
 
 
-
+«[Cebuano](../ceb/#bpn13536)» 
 
 
 
@@ -243,7 +243,7 @@ Siya ang Moalim, ang Motagbaw, ang Motabang, ang Hingpit nga Mopasaylo, ang Laba
 (Bahaiprayers.net ID: 13541)
 
 
-
+«[Cebuano](../ceb/#bpn13541)» 
 
 
 
@@ -435,7 +435,7 @@ Himayaon ta ang atong Ginoo, ang Labing Halangdon!
 (Bahaiprayers.net ID: 13543)
 
 
-
+«[Cebuano](../ceb/#bpn13543)» 
 
 
 
@@ -501,7 +501,7 @@ Sa Ngalan sa Diyos, ang Labing Karaan, ang Labing Dungganan.
 (Bahaiprayers.net ID: 13542)
 
 
-
+«[Cebuano](../ceb/#bpn13542)» 
 
 
 
@@ -518,7 +518,7 @@ O Ginoo ko! Himoa ang Imong katahum nga maakong pagkaon, ug ang Imong pag-atuban
 (Bahaiprayers.net ID: 13530)
 
 
-
+«[Cebuano](../ceb/#bpn13530)» 
 
 
 
@@ -534,7 +534,7 @@ Ang mga hiyas ug kinaiyahan kalabot sa Diyos dayag ug tataw, ug sila gihisgotan 
 (Bahaiprayers.net ID: 13428)
 
 
-
+«[Cebuano](../ceb/#bpn13428)» 
 
 
 
@@ -546,7 +546,7 @@ Ikaw mao Siya nga mopuli pinaagi sa Iyang kabubut-on sa kaulawanan ngadto sa him
 (Bahaiprayers.net ID: 13429)
 
 
-
+«[Cebuano](../ceb/#bpn13429)» 
 
 
 
@@ -558,7 +558,7 @@ Dili kini mga adlaw sa kauswagan ug kadaogan. Ang tanang katawhan nalikosan sa m
 (Bahaiprayers.net ID: 13430)
 
 
-
+«[Cebuano](../ceb/#bpn13430)» 
 
 
 
@@ -570,7 +570,7 @@ O kamong mga minahal nga higala! Ang kalibotan anaa sa  kagubot ug ang katawhan 
 (Bahaiprayers.net ID: 13431)
 
 
-
+«[Cebuano](../ceb/#bpn13431)» 
 
 
 
@@ -583,7 +583,7 @@ Pagmalig-on kamo sama sa mga hataas nga bukid, sama sa mga bituon nga misubang i
 (Bahaiprayers.net ID: 13432)
 
 
-
+«[Cebuano](../ceb/#bpn13432)» 
 
 
 
@@ -599,7 +599,7 @@ O Ikaw Kansang mga pagsulay maoy makaalim nga tambal nilang haduol kanimo, Kansa
 (Bahaiprayers.net ID: 13513)
 
 
-
+«[Cebuano](../ceb/#bpn13513)» 
 
 
 
@@ -611,7 +611,7 @@ Gipangamuyo ko Kanimo pinaagi sa Imong gahum, O Diyos ko! Wala untay kadaot nga 
 (Bahaiprayers.net ID: 13514)
 
 
-
+«[Cebuano](../ceb/#bpn13514)» 
 
 
 
@@ -625,7 +625,7 @@ O Ginoo ko! Nahibaloan Mo nga ang katawhan nalikusan sa kasakit ug mga katalagma
 (Bahaiprayers.net ID: 13515)
 
 
-
+«[Cebuano](../ceb/#bpn13515)» 
 
 
 
@@ -664,7 +664,7 @@ Sa Ngalan sa Diyos, ang Dalayegon, ang Labing Halangdon.
 (Bahaiprayers.net ID: 13544)
 
 
-
+«[Cebuano](../ceb/#bpn13544)» 
 
 
 
@@ -682,7 +682,7 @@ O Diyos, akong Diyos! Nangaliyupo ako kanimo pinaagi sa lawod sa Imong pag-alim,
 (Bahaiprayers.net ID: 13517)
 
 
-
+«[Cebuano](../ceb/#bpn13517)» 
 
 
 
@@ -695,7 +695,7 @@ Ang himaya maanaa kanimo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa 
 (Bahaiprayers.net ID: 13518)
 
 
-
+«[Cebuano](../ceb/#bpn13518)» 
 
 
 
@@ -707,7 +707,7 @@ Ang Imong Ngalan maoy makaalim Kanako, O Diyos ko, ug ang paghandum Kanimo maoy 
 (Bahaiprayers.net ID: 13519)
 
 
-
+«[Cebuano](../ceb/#bpn13519)» 
 
 
 
@@ -737,7 +737,7 @@ Ikaw ang Kusgan ug ang Makagagahom, Ikaw ang Mapasayluon ug Ikaw ang Tigpasaylo 
 (Bahaiprayers.net ID: 13433)
 
 
-
+«[Cebuano](../ceb/#bpn13433)» 
 
 
 
@@ -754,7 +754,7 @@ Ang Diyos mopanghimatuod sa kausahan sa Iyang Pagka-Diyos ug sa pagkausa lamang 
 (Bahaiprayers.net ID: 13498)
 
 
-
+«[Cebuano](../ceb/#bpn13498)» 
 
 
 
@@ -768,7 +768,7 @@ Dalayegon ang Imong ngalan, O Diyos ko! Saksihan ko nga walay hunahuna alang Kan
 (Bahaiprayers.net ID: 13499)
 
 
-
+«[Cebuano](../ceb/#bpn13499)» 
 
 
 
@@ -781,7 +781,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Sa matag panahon nga ako mosugod paghisgot Ka
 (Bahaiprayers.net ID: 13500)
 
 
-
+«[Cebuano](../ceb/#bpn13500)» 
 
 
 
@@ -794,7 +794,7 @@ Akong Diyos, akong Gisimba, akong Hari, akong Tinguha! Unsang dila ang makalitok
 (Bahaiprayers.net ID: 13501)
 
 
-
+«[Cebuano](../ceb/#bpn13501)» 
 
 
 
@@ -807,7 +807,7 @@ Ang tanang pagdalayeg maanaa kanimo, O Diyos ko, nga Mao ang Tinubdan sa tanang 
 (Bahaiprayers.net ID: 13502)
 
 
-
+«[Cebuano](../ceb/#bpn13502)» 
 
 
 
@@ -823,7 +823,7 @@ Gipangamuyo Namo sa Diyos nga mabinationg mabuligan silang nahisalaag aron magma
 (Bahaiprayers.net ID: 13525)
 
 
-
+«[Cebuano](../ceb/#bpn13525)» 
 
 
 
@@ -841,7 +841,7 @@ Dalayegon  Ka, O Ginoo akong Diyos! Nangamuyo ako Kanimo pinaagi Kaniya nga Mao 
 (Bahaiprayers.net ID: 13503)
 
 
-
+«[Cebuano](../ceb/#bpn13503)» 
 
 
 
@@ -854,7 +854,7 @@ Ang himaya maanaa Kanimo, nga nakaaghat sa tanang balaang Linalang sa pagmatuod 
 (Bahaiprayers.net ID: 13504)
 
 
-
+«[Cebuano](../ceb/#bpn13504)» 
 
 
 
@@ -868,7 +868,7 @@ Dalayegon ang ngalan Mo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa I
 (Bahaiprayers.net ID: 13505)
 
 
-
+«[Cebuano](../ceb/#bpn13505)» 
 
 
 
@@ -883,7 +883,7 @@ Ang himaya maanaa Kanimo, O Ikawng Ginoo sa kalibutan ug Tinguha sa mga nasud. O
 (Bahaiprayers.net ID: 13506)
 
 
-
+«[Cebuano](../ceb/#bpn13506)» 
 
 
 
@@ -901,7 +901,7 @@ Unsaon ko paghikatulog, O Diyos, akong Diyos, kun ang mga mata nilang nangandoy 
 (Bahaiprayers.net ID: 13524)
 
 
-
+«[Cebuano](../ceb/#bpn13524)» 
 
 
 
@@ -919,7 +919,7 @@ Dalayegon ang ngalan Mo, O Diyos ko, nga Ikaw nagpadayag sa Adlaw nga maoy Hari 
 (Bahaiprayers.net ID: 13510)
 
 
-
+«[Cebuano](../ceb/#bpn13510)» 
 
 
 
@@ -931,7 +931,7 @@ O Diyos ko, akong Ginoo ug akong Agalon! Mibulag ako sa akong kabanayan ug nanga
 (Bahaiprayers.net ID: 13511)
 
 
-
+«[Cebuano](../ceb/#bpn13511)» 
 
 
 
@@ -947,7 +947,7 @@ O Ginoo! Nganha Kanimo ako mangitag pasilongan, ug diha sa tanan Nimo nga timaan
 (Bahaiprayers.net ID: 13512)
 
 
-
+«[Cebuano](../ceb/#bpn13512)» 
 
 
 
@@ -966,7 +966,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Nangaliyupo ako Kanimo, pinaagi sa Imong Ngal
 (Bahaiprayers.net ID: 13507)
 
 
-
+«[Cebuano](../ceb/#bpn13507)» 
 
 
 
@@ -980,7 +980,7 @@ O Ikawng dili ikatanding Diyos! O Ikawng Ginoo sa Gingharian! Kining mga kalag I
 (Bahaiprayers.net ID: 13508)
 
 
-
+«[Cebuano](../ceb/#bpn13508)» 
 
 
 
@@ -997,7 +997,7 @@ O Ikaw Kansang nawong maoy tumong sa akong pagsimba, Kansang katahum maoy akong 
 (Bahaiprayers.net ID: 13516)
 
 
-
+«[Cebuano](../ceb/#bpn13516)» 
 
 
 
@@ -1013,7 +1013,7 @@ O Ikaw nga Ginoo sa mga Ginoo! Saksihan kong Ikaw ang Ginoo sa tanang kabinuhata
 (Bahaiprayers.net ID: 13532)
 
 
-
+«[Cebuano](../ceb/#bpn13532)» 
 
 
 
@@ -1025,7 +1025,7 @@ O Ikaw nga Maloloy-ong Ginoo! Ikaw nga mahatagon ug takus! Kami Imong mga alagad
 (Bahaiprayers.net ID: 13522)
 
 
-
+«[Cebuano](../ceb/#bpn13522)» 
 
 
 
@@ -1037,7 +1037,7 @@ O Maloloy-ong Ginoo! Ikaw ang manggihatagon ug maloloy-on! Kami mga alagad sa Im
 (Bahaiprayers.net ID: 13523)
 
 
-
+«[Cebuano](../ceb/#bpn13523)» 
 
 
 
@@ -1059,7 +1059,7 @@ Ipalayo usab siya, O Diyos ko, gikan sa tanang kasakit ug kalisdanan, O Ikaw Nga
 (Bahaiprayers.net ID: 13426)
 
 
-
+«[Cebuano](../ceb/#bpn13426)» 
 
 
 
@@ -1071,7 +1071,7 @@ Kon moabot ang makahahadlok nga katalagman sa kinaiyahan, hinumdomi ang gahom ug
 (Bahaiprayers.net ID: 13434)
 
 
-
+«[Cebuano](../ceb/#bpn13434)» 
 
 
 
@@ -1083,7 +1083,7 @@ Sa panahon nga moabot na ang kadaugan, ang matag usa moangkon nga siya tumotuo u
 (Bahaiprayers.net ID: 13435)
 
 
-
+«[Cebuano](../ceb/#bpn13435)» 
 
 
 
@@ -1096,7 +1096,7 @@ Dili masukod ang Imong kahalangdon, O Ginoo! Panalipdi kami gikan niadtong anaa 
 (Bahaiprayers.net ID: 13427)
 
 
-
+«[Cebuano](../ceb/#bpn13427)» 
 
 
 
@@ -1110,7 +1110,7 @@ Kon ang katalagman moabot, pagmapailobon ug dili-matugaw. Bisan unsa kabug-at sa
 (Bahaiprayers.net ID: 13436)
 
 
-
+«[Cebuano](../ceb/#bpn13436)» 
 
 
 
@@ -1135,7 +1135,7 @@ O Diyos ko! Kini ang Imong alagad ug ang anak sa Imong alagad nga mituo Kanimo u
 (Bahaiprayers.net ID: 13520)
 
 
-
+«[Cebuano](../ceb/#bpn13520)» 
 
 
 
@@ -1149,7 +1149,7 @@ O Diyos ko! O Ikaw nga tigpasaylo sa mga kasal-anan, ang maghahatag sa mga gasa,
 (Bahaiprayers.net ID: 13521)
 
 
-
+«[Cebuano](../ceb/#bpn13521)» 
 
 
 
@@ -1166,7 +1166,7 @@ Isulti: Ang Diyos paigo alang kanako. Siya Mao ang nagkupot pinaagi sa Iyang kam
 (Bahaiprayers.net ID: 13509)
 
 
-
+«[Cebuano](../ceb/#bpn13509)» 
 
 
 
@@ -1184,7 +1184,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa Imong mga Pi
 (Bahaiprayers.net ID: 13528)
 
 
-
+«[Cebuano](../ceb/#bpn13528)» 
 
 
 
@@ -1196,7 +1196,7 @@ Nakita Mo ako, O Ginoo ko, nga ang akong nawong nagtan-aw sa langit sa Imong pag
 (Bahaiprayers.net ID: 13529)
 
 
-
+«[Cebuano](../ceb/#bpn13529)» 
 
 
 
@@ -1208,7 +1208,7 @@ O Diyos ko, O Ginoo ko, O akong Agalon! Gipangamuyo ko Kanimo ang pagpasaylo kan
 (Bahaiprayers.net ID: 13526)
 
 
-
+«[Cebuano](../ceb/#bpn13526)» 
 
 
 
@@ -1220,7 +1220,7 @@ Dalayegon Ka, O Ginoo. Pasayloa kami sa among mga kasal-anan, malooy Ka kanamo u
 (Bahaiprayers.net ID: 13527)
 
 
-
+«[Cebuano](../ceb/#bpn13527)» 
 
 
 
@@ -1236,7 +1236,7 @@ O Diyosnong Paghatag! Samtang ako nagpuasa sa mga kahinam sa lawas ug nagdumili 
 (Bahaiprayers.net ID: 13539)
 
 
-
+«[Cebuano](../ceb/#bpn13539)» 
 
 
 
@@ -1260,7 +1260,7 @@ O Diyosnong Paghatag! Samtang ako nagpuasa sa mga kahinam sa lawas ug nagdumili 
 (Bahaiprayers.net ID: 13540)
 
 
-
+«[Cebuano](../ceb/#bpn13540)» 
 
 
 
@@ -1276,7 +1276,7 @@ O Diyos! Sa pagkatinuod, kami nagkatigum dinhi ubos sa alimyon sa Imong gugma. M
 (Bahaiprayers.net ID: 13531)
 
 
-
+«[Cebuano](../ceb/#bpn13531)» 
 
 
 

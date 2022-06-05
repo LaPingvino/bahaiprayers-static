@@ -120,7 +120,7 @@ Lạy Thượng Đế, con xin dâng trọn đời con cho Ngài.
 (Bahaiprayers.net ID: 4977)
 
 
-
+«[Tiếng Việt](../vi/#bpn4977)» 
 
 
 
@@ -138,7 +138,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Duy nhất, Đấng 
 (Bahaiprayers.net ID: 4978)
 
 
-
+«[Tiếng Việt](../vi/#bpn4978)» 
 
 
 
@@ -151,7 +151,7 @@ Lạy Thượng Đế của con, con trở dậy trong sự phò trì của Ngà
 (Bahaiprayers.net ID: 4979)
 
 
-
+«[Tiếng Việt](../vi/#bpn4979)» 
 
 
 
@@ -170,7 +170,7 @@ Ngài không bao giờ làm thất vọng những kẻ tìm kiếm Ngài và kh�
 (Bahaiprayers.net ID: 4980)
 
 
-
+«[Tiếng Việt](../vi/#bpn4980)» 
 
 
 
@@ -183,7 +183,7 @@ Lạy Thượng Đế, Thượng Đế của con! Con rời khỏi nhà con, tro
 (Bahaiprayers.net ID: 4981)
 
 
-
+«[Tiếng Việt](../vi/#bpn4981)» 
 
 
 
@@ -196,7 +196,7 @@ Lạy Ngài là Đấng Thượng Đế Đại Từ bi! Xin ban cho con trái ti
 (Bahaiprayers.net ID: 4982)
 
 
-
+«[Tiếng Việt](../vi/#bpn4982)» 
 
 
 
@@ -215,7 +215,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng
 (Bahaiprayers.net ID: 4983)
 
 
-
+«[Tiếng Việt](../vi/#bpn4983)» 
 
 
 
@@ -230,7 +230,7 @@ Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của c
 (Bahaiprayers.net ID: 4984)
 
 
-
+«[Tiếng Việt](../vi/#bpn4984)» 
 
 
 
@@ -247,7 +247,7 @@ Ngài là Đấng Hùng mạnh, Đấng Cao cả, Đấng Tự tồn, Đấng Ba
 (Bahaiprayers.net ID: 4985)
 
 
-
+«[Tiếng Việt](../vi/#bpn4985)» 
 
 
 
@@ -263,7 +263,7 @@ Lạy Thượng Đế, Ngài thấy đôi tay khẩn cầu của chúng con vư�
 (Bahaiprayers.net ID: 4988)
 
 
-
+«[Tiếng Việt](../vi/#bpn4988)» 
 
 
 
@@ -275,7 +275,7 @@ Phước cho ai nhớ tới cha mẹ mình khi thông công với Thượng Đ�
 (Bahaiprayers.net ID: 4987)
 
 
-
+«[Tiếng Việt](../vi/#bpn4987)» 
 
 
 
@@ -287,7 +287,7 @@ Lạy Thượng Đế! Trong Kỳ Cứu độ Tối đại này Ngài đã chấ
 (Bahaiprayers.net ID: 4989)
 
 
-
+«[Tiếng Việt](../vi/#bpn4989)» 
 
 
 
@@ -304,7 +304,7 @@ Ngài là Đấng Toàn tri, Đấng Toàn giác.
 (Bahaiprayers.net ID: 4990)
 
 
-
+«[Tiếng Việt](../vi/#bpn4990)» 
 
 
 
@@ -318,7 +318,7 @@ Quả thật, Ngài là Đấng Đại lượng và là Đấng Vua Vương qu�
 (Bahaiprayers.net ID: 4991)
 
 
-
+«[Tiếng Việt](../vi/#bpn4991)» 
 
 
 
@@ -333,7 +333,7 @@ Quả thật, Ngài là Đấng Thượng Đế của tất cả các thế gi�
 (Bahaiprayers.net ID: 4992)
 
 
-
+«[Tiếng Việt](../vi/#bpn4992)» 
 
 
 
@@ -357,7 +357,7 @@ L
 (Bahaiprayers.net ID: 4993)
 
 
-
+«[Tiếng Việt](../vi/#bpn4993)» 
 
 
 
@@ -374,7 +374,7 @@ Quả thật, Ngài là Đấng Đại từ  Đại bi, Đấng Toàn tri, Đấ
 (Bahaiprayers.net ID: 4994)
 
 
-
+«[Tiếng Việt](../vi/#bpn4994)» 
 
 
 
@@ -388,7 +388,7 @@ Ngài có quyền năng làm điều Ngài muốn. Không có Thượng Đế n�
 (Bahaiprayers.net ID: 4995)
 
 
-
+«[Tiếng Việt](../vi/#bpn4995)» 
 
 
 
@@ -402,7 +402,7 @@ Quả thật, Ngài là Đấng Thượng Đế đời này và đời sau. Ngà
 (Bahaiprayers.net ID: 4996)
 
 
-
+«[Tiếng Việt](../vi/#bpn4996)» 
 
 
 
@@ -613,7 +613,7 @@ Quả thật, Ngài là Đấng Hùng mạnh, Đấng Đầy đủ Nhất, Đấ
 (Bahaiprayers.net ID: 4997)
 
 
-
+«[Tiếng Việt](../vi/#bpn4997)» 
 
 
 
@@ -633,7 +633,7 @@ Quả thật, Ngài là Đấng Từ bi, Đấng Toàn năng Toàn thắng. Khô
 (Bahaiprayers.net ID: 4999)
 
 
-
+«[Tiếng Việt](../vi/#bpn4999)» 
 
 
 
@@ -653,7 +653,7 @@ Lạy Thượng Đế Từ bi vô lượng, xin Ngài thấm nhuần trái tim c
 (Bahaiprayers.net ID: 4986)
 
 
-
+«[Tiếng Việt](../vi/#bpn4986)» 
 
 
 
@@ -670,7 +670,7 @@ Quả thực, Ngài là Vua cả nhân loại. Không có Thượng Đế nào k
 (Bahaiprayers.net ID: 5000)
 
 
-
+«[Tiếng Việt](../vi/#bpn5000)» 
 
 
 
@@ -684,7 +684,7 @@ Lạy Thượng Đế của con, xin đừng để con rời xa ánh sáng huy h
 (Bahaiprayers.net ID: 5001)
 
 
-
+«[Tiếng Việt](../vi/#bpn5001)» 
 
 
 
@@ -699,7 +699,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Hùng mạnh, Đấn
 (Bahaiprayers.net ID: 5002)
 
 
-
+«[Tiếng Việt](../vi/#bpn5002)» 
 
 
 
@@ -788,7 +788,7 @@ Lạy Thượng Đế của con, con xin làm chứng cho những điều mà c�
 (Bahaiprayers.net ID: 4976)
 
 
-
+«[Tiếng Việt](../vi/#bpn4976)» 
 
 
 
@@ -844,7 +844,7 @@ Thượng Đế chứng nhận rằng không có Thượng Đế nào khác ngo�
 (Bahaiprayers.net ID: 4975)
 
 
-
+«[Tiếng Việt](../vi/#bpn4975)» 
 
 
 
@@ -866,7 +866,7 @@ Ngài thực sự là Đấng Toàn năng, Đấng Toàn tri, Đấng Toàn giá
 (Bahaiprayers.net ID: 5004)
 
 
-
+«[Tiếng Việt](../vi/#bpn5004)» 
 
 
 
@@ -882,7 +882,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin Ngài ban cho những tôi
 (Bahaiprayers.net ID: 5003)
 
 
-
+«[Tiếng Việt](../vi/#bpn5003)» 
 
 
 
@@ -899,7 +899,7 @@ Lạy Ngài là Đấng Thượng Đế của con, Danh Ngài thật đáng ca n
 (Bahaiprayers.net ID: 5005)
 
 
-
+«[Tiếng Việt](../vi/#bpn5005)» 
 
 
 
@@ -919,7 +919,7 @@ Quả thật, Ngài là Đấng Ban cho, Đấng Đại lượng, Đấng Khoan 
 (Bahaiprayers.net ID: 5012)
 
 
-
+«[Tiếng Việt](../vi/#bpn5012)» 
 
 
 
@@ -941,7 +941,7 @@ Lạy Thượng Đế! Xin ban cho con phần con theo ý Ngài và khiến con 
 (Bahaiprayers.net ID: 5013)
 
 
-
+«[Tiếng Việt](../vi/#bpn5013)» 
 
 
 
@@ -960,7 +960,7 @@ Vĩ đại thay vinh quang Ngài, Ngài dạy: “Hỡi dân chúng, hãy bướ
 (Bahaiprayers.net ID: 5018)
 
 
-
+«[Tiếng Việt](../vi/#bpn5018)» 
 
 
 
@@ -973,7 +973,7 @@ Quả thực, Ngài là Đấng Toàn tri, Đấng Hằng hữu, Đấng Toàn n
 (Bahaiprayers.net ID: 5019)
 
 
-
+«[Tiếng Việt](../vi/#bpn5019)» 
 
 
 
@@ -989,7 +989,7 @@ Lạy Thượng Đế, Thượng Đế của chúng con! Chúng con là tôi t�
 (Bahaiprayers.net ID: 5014)
 
 
-
+«[Tiếng Việt](../vi/#bpn5014)» 
 
 
 
@@ -1005,7 +1005,7 @@ Lạy Ngài là Đấng Xót thương, Đấng Toàn năng! Những linh hồn t
 (Bahaiprayers.net ID: 5015)
 
 
-
+«[Tiếng Việt](../vi/#bpn5015)» 
 
 
 
@@ -1021,7 +1021,7 @@ Chúng con yếu đuối, Ngài thì hùng mạnh; chúng con nghèo nàn, Ngài
 (Bahaiprayers.net ID: 5016)
 
 
-
+«[Tiếng Việt](../vi/#bpn5016)» 
 
 
 
@@ -1035,7 +1035,7 @@ Ngài là Đấng Ban cho của vạn vật! Ngài là Đấng Khoan dung! Ngài
 (Bahaiprayers.net ID: 5017)
 
 
-
+«[Tiếng Việt](../vi/#bpn5017)» 
 
 
 
@@ -1067,7 +1067,7 @@ Sự thực, Ngài là Đấng Khoan dung, Đấng Từ bi. Lành thay Thượng
 (Bahaiprayers.net ID: 5024)
 
 
-
+«[Tiếng Việt](../vi/#bpn5024)» 
 
 
 
@@ -1096,7 +1096,7 @@ Cao cả thay Đấng Thượng Đế của cả nhân loại, mà mỗi khi Dan
 (Bahaiprayers.net ID: 5025)
 
 
-
+«[Tiếng Việt](../vi/#bpn5025)» 
 
 
 
@@ -1128,7 +1128,7 @@ Mọi người phải bày tỏ sự lịch thiệp và tôn kính đối với 
 (Bahaiprayers.net ID: 5026)
 
 
-
+«[Tiếng Việt](../vi/#bpn5026)» 
 
 
 
@@ -1147,7 +1147,7 @@ Quả thật, Ngài là Đấng Cứu khổ, Đấng Tự tồn.
 (Bahaiprayers.net ID: 5020)
 
 
-
+«[Tiếng Việt](../vi/#bpn5020)» 
 
 
 
@@ -1161,7 +1161,7 @@ Tất cả lời ca ngợi xin dâng lên Ngài bất cứ lúc nào, bất cứ
 (Bahaiprayers.net ID: 5021)
 
 
-
+«[Tiếng Việt](../vi/#bpn5021)» 
 
 
 
@@ -1176,7 +1176,7 @@ Quả thật, Ngài là Đấng Toàn năng, Đấng Toàn vinh, Đấng Ban ph�
 (Bahaiprayers.net ID: 5022)
 
 
-
+«[Tiếng Việt](../vi/#bpn5022)» 
 
 
 
@@ -1191,7 +1191,7 @@ Lạy Thượng Đế của con, vì Ngài đã dắt dẫn họ đến những 
 (Bahaiprayers.net ID: 5023)
 
 
-
+«[Tiếng Việt](../vi/#bpn5023)» 
 
 
 
@@ -1346,7 +1346,7 @@ Hãy ca ngợi Thượng Đế đã mặc khải bản Kinh này, để các ng�
 (Bahaiprayers.net ID: 5027)
 
 
-
+«[Tiếng Việt](../vi/#bpn5027)» 
 
 
 
@@ -1367,7 +1367,7 @@ Ngài có quyền năng làm điều Ngài thích. Quả thật, Ngài là Đấ
 (Bahaiprayers.net ID: 5028)
 
 
-
+«[Tiếng Việt](../vi/#bpn5028)» 
 
 
 
@@ -1384,7 +1384,7 @@ Lạy Thượng Đế của con, con xin dâng lên Ngài sinh vật trong bụn
 (Bahaiprayers.net ID: 5029)
 
 
-
+«[Tiếng Việt](../vi/#bpn5029)» 
 
 
 
@@ -1408,7 +1408,7 @@ Quả thật, Ngài là Đấng Toàn tri, Đấng Toàn trí.
 (Bahaiprayers.net ID: 5030)
 
 
-
+«[Tiếng Việt](../vi/#bpn5030)» 
 
 
 
@@ -1432,7 +1432,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Cứu nạn, Đấng
 (Bahaiprayers.net ID: 4974)
 
 
-
+«[Tiếng Việt](../vi/#bpn4974)» 
 
 
 
@@ -1449,7 +1449,7 @@ Lạy Thượng Đế! Ngài là Đấng Toàn năng! Ngài là Đấng Tha th�
 (Bahaiprayers.net ID: 5031)
 
 
-
+«[Tiếng Việt](../vi/#bpn5031)» 
 
 
 
@@ -1465,7 +1465,7 @@ Chúng con cầu xin Thượng Đế độ lượng giúp cho những người l
 (Bahaiprayers.net ID: 5032)
 
 
-
+«[Tiếng Việt](../vi/#bpn5032)» 
 
 
 
@@ -1482,7 +1482,7 @@ Con là một trong những nữ tì của Ngài, lạy Thượng Đế của co
 (Bahaiprayers.net ID: 5033)
 
 
-
+«[Tiếng Việt](../vi/#bpn5033)» 
 
 
 
@@ -1500,7 +1500,7 @@ Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của t�
 (Bahaiprayers.net ID: 5034)
 
 
-
+«[Tiếng Việt](../vi/#bpn5034)» 
 
 
 
@@ -1514,7 +1514,7 @@ Lạy Thượng Đế của con, bởi Đấng là Danh Ngài và Đấng, do Đ
 (Bahaiprayers.net ID: 5035)
 
 
-
+«[Tiếng Việt](../vi/#bpn5035)» 
 
 
 
@@ -1528,7 +1528,7 @@ Lạy Thượng Đế của con, bởi quyền năng sự tôn nghiêm vô hạn
 (Bahaiprayers.net ID: 5036)
 
 
-
+«[Tiếng Việt](../vi/#bpn5036)» 
 
 
 
@@ -1542,7 +1542,7 @@ Quả thật, Ngài là Đấng Cứu giúp trong cảnh hiểm nghèo bởi uy 
 (Bahaiprayers.net ID: 5037)
 
 
-
+«[Tiếng Việt](../vi/#bpn5037)» 
 
 
 
@@ -1556,7 +1556,7 @@ Ngài là Đấng Thượng Đế quyền uy, vinh quang và từ bi. Không có
 (Bahaiprayers.net ID: 5038)
 
 
-
+«[Tiếng Việt](../vi/#bpn5038)» 
 
 
 
@@ -1569,7 +1569,7 @@ Lạy Thượng Đế! Xin Ngài hãy là Đấng cứu giúp và nâng đỡ h�
 (Bahaiprayers.net ID: 5039)
 
 
-
+«[Tiếng Việt](../vi/#bpn5039)» 
 
 
 
@@ -1587,7 +1587,7 @@ Dù thân thể con bị đau đớn vì những tai ương do Ngài ban xuống
 (Bahaiprayers.net ID: 5040)
 
 
-
+«[Tiếng Việt](../vi/#bpn5040)» 
 
 
 
@@ -1605,7 +1605,7 @@ Cây hy vọng sẽ trổ xanh. Chất đồng miệt thị và khinh rẻ sẽ 
 (Bahaiprayers.net ID: 5041)
 
 
-
+«[Tiếng Việt](../vi/#bpn5041)» 
 
 
 
@@ -1632,7 +1632,7 @@ Hỡi Ngòi bút, trong Ngày này ngươi có thể tìm thấy ai khác ngoài
 (Bahaiprayers.net ID: 5042)
 
 
-
+«[Tiếng Việt](../vi/#bpn5042)» 
 
 
 
@@ -1652,7 +1652,7 @@ Quả thật, Ngài là Thượng Đế và là Vua của mọi người; vạn 
 (Bahaiprayers.net ID: 10469)
 
 
-
+«[Tiếng Việt](../vi/#bpn10469)» 
 
 
 
@@ -1669,7 +1669,7 @@ Quả thật, Ngài là Đấng Cứu giúp và là Thượng Đế của họ.
 (Bahaiprayers.net ID: 10468)
 
 
-
+«[Tiếng Việt](../vi/#bpn10468)» 
 
 
 
@@ -1685,7 +1685,7 @@ Sự chết đem đến cho mỗi tín đồ chiếc cốc sự sống thật s�
 (Bahaiprayers.net ID: 5046)
 
 
-
+«[Tiếng Việt](../vi/#bpn5046)» 
 
 
 
@@ -1699,7 +1699,7 @@ Ngài có quyền năng hành động theo tôn ý Ngài.
 (Bahaiprayers.net ID: 5047)
 
 
-
+«[Tiếng Việt](../vi/#bpn5047)» 
 
 
 
@@ -1713,7 +1713,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng An bài Tối cao, �
 (Bahaiprayers.net ID: 5048)
 
 
-
+«[Tiếng Việt](../vi/#bpn5048)» 
 
 
 
@@ -1736,7 +1736,7 @@ QUẢ THẬT, TẤT CẢ CHÚNG CON ĐỀU BỀN LÒNG TRONG THƯỢNG ĐẾ.
 (Bahaiprayers.net ID: 5049)
 
 
-
+«[Tiếng Việt](../vi/#bpn5049)» 
 
 
 
@@ -1749,7 +1749,7 @@ Lạy Thượng Đế của con! Xin thanh tẩy những quá phạm của ngư�
 (Bahaiprayers.net ID: 5050)
 
 
-
+«[Tiếng Việt](../vi/#bpn5050)» 
 
 
 
@@ -1765,7 +1765,7 @@ Lạy Thượng Đế! Xin Ngài khiến người thanh niên này trở nên tr
 (Bahaiprayers.net ID: 5051)
 
 
-
+«[Tiếng Việt](../vi/#bpn5051)» 
 
 
 
@@ -1784,7 +1784,7 @@ Ngài là Đấng Toàn năng, Đấng Bác ái.
 (Bahaiprayers.net ID: 5052)
 
 
-
+«[Tiếng Việt](../vi/#bpn5052)» 
 
 
 
@@ -1797,7 +1797,7 @@ Lạy Thượng Đế của con, xin soi sáng mắt các tôi tớ Ngài và l�
 (Bahaiprayers.net ID: 5053)
 
 
-
+«[Tiếng Việt](../vi/#bpn5053)» 
 
 
 
@@ -1812,7 +1812,7 @@ Bởi mắt của những kẻ chiêm ngưỡng Ngài khi Ngài ngự trị trê
 (Bahaiprayers.net ID: 5054)
 
 
-
+«[Tiếng Việt](../vi/#bpn5054)» 
 
 
 
@@ -1825,7 +1825,7 @@ Ngài có quyền tối thượng ở trên các tôi tớ Ngài và Ngài ngự
 (Bahaiprayers.net ID: 5055)
 
 
-
+«[Tiếng Việt](../vi/#bpn5055)» 
 
 
 
@@ -1852,7 +1852,7 @@ C
 (Bahaiprayers.net ID: 5056)
 
 
-
+«[Tiếng Việt](../vi/#bpn5056)» 
 
 
 
@@ -1870,7 +1870,7 @@ Lạy Thượng Đế của con, xin củng cố bước chân chúng con trong 
 (Bahaiprayers.net ID: 5057)
 
 
-
+«[Tiếng Việt](../vi/#bpn5057)» 
 
 
 
@@ -1884,7 +1884,7 @@ Lạy Thượng Đế của con, vì họ và vì tiếng thổn thức mà lòn
 (Bahaiprayers.net ID: 5058)
 
 
-
+«[Tiếng Việt](../vi/#bpn5058)» 
 
 
 
@@ -1897,7 +1897,7 @@ Con cầu xin Ngài giúp con giữ chặt tình yêu của Ngài và sự tư�
 (Bahaiprayers.net ID: 5059)
 
 
-
+«[Tiếng Việt](../vi/#bpn5059)» 
 
 
 
@@ -1910,7 +1910,7 @@ Máu của Con vẫn hằng kêu gào với Con: “Hỡi Ngài, chính Ngài l�
 (Bahaiprayers.net ID: 5060)
 
 
-
+«[Tiếng Việt](../vi/#bpn5060)» 
 
 
 
@@ -1924,7 +1924,7 @@ Bởi Tối Đại Danh của Ngài và bởi quyền ngự trị tối cổ c�
 (Bahaiprayers.net ID: 5061)
 
 
-
+«[Tiếng Việt](../vi/#bpn5061)» 
 
 
 
@@ -1937,7 +1937,7 @@ Không có ai ngoài Ngài là Thượng Đế, Đấng Giáo hộ, Đấng Tự
 (Bahaiprayers.net ID: 5062)
 
 
-
+«[Tiếng Việt](../vi/#bpn5062)» 
 
 
 
@@ -1952,7 +1952,7 @@ Ngài có đủ quyền năng làm diều Ngài thích. Quả thật, Ngài là 
 (Bahaiprayers.net ID: 5063)
 
 
-
+«[Tiếng Việt](../vi/#bpn5063)» 
 
 
 
@@ -1967,7 +1967,7 @@ Ngài có quyền năng làm điều Ngài thích, không có Thượng Đế n�
 (Bahaiprayers.net ID: 5064)
 
 
-
+«[Tiếng Việt](../vi/#bpn5064)» 
 
 
 
@@ -1979,7 +1979,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin đừng ở xa con bởi v
 (Bahaiprayers.net ID: 5065)
 
 
-
+«[Tiếng Việt](../vi/#bpn5065)» 
 
 
 
@@ -1992,7 +1992,7 @@ Xin chấp thuận cho con hướng về Ngài hoàn toàn, đặt nơi Ngài s�
 (Bahaiprayers.net ID: 5066)
 
 
-
+«[Tiếng Việt](../vi/#bpn5066)» 
 
 
 
@@ -2006,7 +2006,7 @@ Quả thật, Ngài là Đấng đã lấy ân phúc Ngài dắt dẫn họ vào
 (Bahaiprayers.net ID: 5067)
 
 
-
+«[Tiếng Việt](../vi/#bpn5067)» 
 
 
 
@@ -2020,7 +2020,7 @@ Và sau hết, con cầu xin Ngài lấy ánh sáng Thánh nhan Ngài ban phúc 
 (Bahaiprayers.net ID: 5068)
 
 
-
+«[Tiếng Việt](../vi/#bpn5068)» 
 
 
 
@@ -2040,7 +2040,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn tri, Đấng T
 (Bahaiprayers.net ID: 5069)
 
 
-
+«[Tiếng Việt](../vi/#bpn5069)» 
 
 
 
@@ -2058,7 +2058,7 @@ Quả thật, Ngài là Đấng Thượng Đế Quyền uy, Đấng Cứu nạn,
 (Bahaiprayers.net ID: 5075)
 
 
-
+«[Tiếng Việt](../vi/#bpn5075)» 
 
 
 
@@ -2073,7 +2073,7 @@ Quả thật, Ngài là Đấng Thượng Đế của sức mạnh và quyền n
 (Bahaiprayers.net ID: 5076)
 
 
-
+«[Tiếng Việt](../vi/#bpn5076)» 
 
 
 
@@ -2091,7 +2091,7 @@ Quả thật, Ngài là Đấng Tối cao của toàn thể các thế giới v�
 (Bahaiprayers.net ID: 5077)
 
 
-
+«[Tiếng Việt](../vi/#bpn5077)» 
 
 
 
@@ -2106,7 +2106,7 @@ Lạy Thượng Đế! Quả thật, chúng con yếu đuối nhưng Ngài hùng
 (Bahaiprayers.net ID: 5078)
 
 
-
+«[Tiếng Việt](../vi/#bpn5078)» 
 
 
 
@@ -2124,7 +2124,7 @@ Quả thực, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Toàn vi
 (Bahaiprayers.net ID: 5079)
 
 
-
+«[Tiếng Việt](../vi/#bpn5079)» 
 
 
 
@@ -2138,7 +2138,7 @@ Lạy Thượng Đế! Con là kẻ cô độc, đơn chiếc và thấp hèn. �
 (Bahaiprayers.net ID: 5080)
 
 
-
+«[Tiếng Việt](../vi/#bpn5080)» 
 
 
 
@@ -2156,7 +2156,7 @@ Lạy Thượng Đế của con, xin Ngài cũng ban cho cháu bé điều lành
 (Bahaiprayers.net ID: 5074)
 
 
-
+«[Tiếng Việt](../vi/#bpn5074)» 
 
 
 
@@ -2168,7 +2168,7 @@ Lạy Thượng Đế của con, xin Ngài dắt dẫn con, che chở con, thắ
 (Bahaiprayers.net ID: 5070)
 
 
-
+«[Tiếng Việt](../vi/#bpn5070)» 
 
 
 
@@ -2180,7 +2180,7 @@ Lạy Thượng Đế! Xin giáo dục các cháu bé này. Các cháu là cây 
 (Bahaiprayers.net ID: 5071)
 
 
-
+«[Tiếng Việt](../vi/#bpn5071)» 
 
 
 
@@ -2192,7 +2192,7 @@ Lạy Thượng Đế! Xin nuôi dưỡng cháu hài nhi này trong lồng ngự
 (Bahaiprayers.net ID: 5072)
 
 
-
+«[Tiếng Việt](../vi/#bpn5072)» 
 
 
 
@@ -2204,7 +2204,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 (Bahaiprayers.net ID: 5073)
 
 
-
+«[Tiếng Việt](../vi/#bpn5073)» 
 
 
 
@@ -2220,7 +2220,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 (Bahaiprayers.net ID: 5043)
 
 
-
+«[Tiếng Việt](../vi/#bpn5043)» 
 
 
 
@@ -2236,7 +2236,7 @@ Quả thật, Ngài là Đấng Cứu nạn, Đấng Tự tồn.
 (Bahaiprayers.net ID: 5044)
 
 
-
+«[Tiếng Việt](../vi/#bpn5044)» 
 
 
 
@@ -2249,7 +2249,7 @@ Ngài là Đấng Toàn năng, Đấng Chí tôn, Đấng Toàn vinh, Đấng Đ
 (Bahaiprayers.net ID: 5045)
 
 
-
+«[Tiếng Việt](../vi/#bpn5045)» 
 
 
 
@@ -2275,7 +2275,7 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng luôn luôn tha th�
 (Bahaiprayers.net ID: 5081)
 
 
-
+«[Tiếng Việt](../vi/#bpn5081)» 
 
 
 
@@ -2293,7 +2293,7 @@ Quả thật, Ngài là Đấng Nuôi dưỡng, Đấng Cứu giúp, Đấng Đ�
 (Bahaiprayers.net ID: 5006)
 
 
-
+«[Tiếng Việt](../vi/#bpn5006)» 
 
 
 
@@ -2311,7 +2311,7 @@ Quả thực, Ngài là Đấng Toàn năng, Đấng Quang vinh vô hạn, Đấ
 (Bahaiprayers.net ID: 5007)
 
 
-
+«[Tiếng Việt](../vi/#bpn5007)» 
 
 
 
@@ -2325,7 +2325,7 @@ Lạy Đấng Bạn đường của con, xin đem lại cho con sự an tỉnh b
 (Bahaiprayers.net ID: 5008)
 
 
-
+«[Tiếng Việt](../vi/#bpn5008)» 
 
 
 
@@ -2341,7 +2341,7 @@ Quả thực, Ngài là Đấng Hùng mạnh Nhất, Đấng Tối cao, Đấng 
 (Bahaiprayers.net ID: 5009)
 
 
-
+«[Tiếng Việt](../vi/#bpn5009)» 
 
 
 
@@ -2370,7 +2370,7 @@ Ngài có quyền năng làm điều Ngài muốn. Quả thật, Ngài là Đấ
 (Bahaiprayers.net ID: 5010)
 
 
-
+«[Tiếng Việt](../vi/#bpn5010)» 
 
 
 
@@ -2385,7 +2385,7 @@ Ngài có quyền năng hành động theo tôn ý của Ngài. Không có Thư�
 (Bahaiprayers.net ID: 5011)
 
 
-
+«[Tiếng Việt](../vi/#bpn5011)» 
 
 
 
@@ -2397,7 +2397,7 @@ Hãy tụng: Lạy Thượng Đế, Thượng Đế của con! Xin trang sức �
 (Bahaiprayers.net ID: 4998)
 
 
-
+«[Tiếng Việt](../vi/#bpn4998)» 
 
 
 

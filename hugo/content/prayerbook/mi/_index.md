@@ -100,7 +100,7 @@ E Koe tōku Ariki ngākau māhaki! Tukua mai ki ahau te kaha e āhei ai ahau ki 
 (Bahaiprayers.net ID: 10246)
 
 
-
+«[Māori](../mi/#bpn10246)» 
 
 
 
@@ -116,7 +116,7 @@ E te Atua Manaaki. Ko tēnei huihuinga ko Ōu hoa kua aukumea ki tō ātaahua, k
 (Bahaiprayers.net ID: 10190)
 
 
-
+«[Māori](../mi/#bpn10190)» 
 
 
 
@@ -133,7 +133,7 @@ Kāore he Atua tua atu i a Koe, te Kaha Rawa, te Whakamārie Rawa, te Takahuriha
 (Bahaiprayers.net ID: 10184)
 
 
-
+«[Māori](../mi/#bpn10184)» 
 
 
 
@@ -149,7 +149,7 @@ Kua whakaarahia nei ahau ki raro i Tāu maru, e tōku Atua, ā, he taunga nōna 
 (Bahaiprayers.net ID: 10185)
 
 
-
+«[Māori](../mi/#bpn10185)» 
 
 
 
@@ -186,7 +186,7 @@ Ko tātou katoa, tūturu, e hūmārire ana i roto i Te Atua (x19)
 (Bahaiprayers.net ID: 10191)
 
 
-
+«[Māori](../mi/#bpn10191)» 
 
 
 
@@ -220,7 +220,7 @@ Kāore he Atua i tua atu i a Koe, te Kotahi, te Takitahi, te Pūkaha, te Mātau-
 (Bahaiprayers.net ID: 10192)
 
 
-
+«[Māori](../mi/#bpn10192)» 
 
 
 
@@ -236,7 +236,7 @@ Kei tōku Atua! Kia horoia rātou i ngā hara, kia mahea ō rātou pōkē, kia t
 (Bahaiprayers.net ID: 10193)
 
 
-
+«[Māori](../mi/#bpn10193)» 
 
 
 
@@ -252,7 +252,7 @@ E Koe te Ariki ngākau māhaki! Tukua mai koa ētahi parirau e rua mai i te rang
 (Bahaiprayers.net ID: 10201)
 
 
-
+«[Māori](../mi/#bpn10201)» 
 
 
 
@@ -266,7 +266,7 @@ Ko Koe te Poutuku, te Rauaroha-Katoa.
 (Bahaiprayers.net ID: 10202)
 
 
-
+«[Māori](../mi/#bpn10202)» 
 
 
 
@@ -278,7 +278,7 @@ E Te Ariki! Meinga tēnei taiohi kia kōpura, hōmai rā Tāu manaaki ki runga k
 (Bahaiprayers.net ID: 10203)
 
 
-
+«[Māori](../mi/#bpn10203)» 
 
 
 
@@ -296,7 +296,7 @@ Ko Koe te Pūkaha-Katoa, te Korōria-Katoa, te Kaha Rawa.
 (Bahaiprayers.net ID: 10204)
 
 
-
+«[Māori](../mi/#bpn10204)» 
 
 
 
@@ -314,7 +314,7 @@ Tēnei ahau te inoi nei ki a Koe mā Tōu ingoa, e taea ai e te katoa te whakawh
 (Bahaiprayers.net ID: 10206)
 
 
-
+«[Māori](../mi/#bpn10206)» 
 
 
 
@@ -326,7 +326,7 @@ E Te Atua! Whakaakona ēnei tamariki. Ko aua tamariki nei ngā tupunga o Tāu m�
 (Bahaiprayers.net ID: 10207)
 
 
-
+«[Māori](../mi/#bpn10207)» 
 
 
 
@@ -338,7 +338,7 @@ E Te Atua, ārahina ahau, tiakina mai, kia meinga ahau hei rama pīataata, hei w
 (Bahaiprayers.net ID: 10208)
 
 
-
+«[Māori](../mi/#bpn10208)» 
 
 
 
@@ -354,7 +354,7 @@ Ko Koe te Pūkaha, te Rauaroha-Katoa.
 (Bahaiprayers.net ID: 10209)
 
 
-
+«[Māori](../mi/#bpn10209)» 
 
 
 
@@ -366,7 +366,7 @@ Ko Ia Te Atua! e Te Atua, tōku Atua! Tukua mai ki ahau te manawa parakore, he �
 (Bahaiprayers.net ID: 10210)
 
 
-
+«[Māori](../mi/#bpn10210)» 
 
 
 
@@ -379,7 +379,7 @@ Ko Koe te Mananui me te Pūkaha, ā, ko Koe te Rauaroha-Katoa, te Mōhio-Katoa, 
 (Bahaiprayers.net ID: 10211)
 
 
-
+«[Māori](../mi/#bpn10211)» 
 
 
 
@@ -391,7 +391,7 @@ E Koe te Āriki korōria tonu! Meinga tēnei hāwini iti Nāu kia whakapaingia k
 (Bahaiprayers.net ID: 10212)
 
 
-
+«[Māori](../mi/#bpn10212)» 
 
 
 
@@ -411,7 +411,7 @@ Ko Koe, tūturu, te Ariki o te Rā Whakawā.
 (Bahaiprayers.net ID: 10197)
 
 
-
+«[Māori](../mi/#bpn10197)» 
 
 
 
@@ -429,7 +429,7 @@ Pūkaha ai Koe ki te mahi i tāu e hiahia ai. Ko Koe, tūturu, te Mōhio-Katoa, 
 (Bahaiprayers.net ID: 10195)
 
 
-
+«[Māori](../mi/#bpn10195)» 
 
 
 
@@ -447,7 +447,7 @@ Kei a Koe te kaha e taea ai Tāu e hiahia ai, Tāu e tohungia ai, Tāu e pai ai.
 (Bahaiprayers.net ID: 10196)
 
 
-
+«[Māori](../mi/#bpn10196)» 
 
 
 
@@ -466,7 +466,7 @@ Kāore kau he Atua i tua atu i a Koe, te Atua mananui, te Atua korōria, te Atua
 (Bahaiprayers.net ID: 10198)
 
 
-
+«[Māori](../mi/#bpn10198)» 
 
 
 
@@ -480,7 +480,7 @@ Tukua mai ki tō hāwini e Te Atua, ngā kakara tapu i pupū mai i te wairua o T
 (Bahaiprayers.net ID: 10194)
 
 
-
+«[Māori](../mi/#bpn10194)» 
 
 
 
@@ -492,7 +492,7 @@ E tōku Ariki, tōku Tōmina! Tauhoatia mai ahau me taku kaha moke, haere ngāta
 (Bahaiprayers.net ID: 10199)
 
 
-
+«[Māori](../mi/#bpn10199)» 
 
 
 
@@ -510,7 +510,7 @@ e tōku Ariki, ka tapaea e ahau te hua o tōku kōpū ki a Koe. Māu rā pea ia 
 (Bahaiprayers.net ID: 10200)
 
 
-
+«[Māori](../mi/#bpn10200)» 
 
 
 
@@ -540,7 +540,7 @@ Ko Koe te Mananui me te Pūkaha. Ko Koe te Murunga Hara ko Koe anō te Pouwhakar
 (Bahaiprayers.net ID: 10213)
 
 
-
+«[Māori](../mi/#bpn10213)» 
 
 
 
@@ -556,7 +556,7 @@ Tūturu ko Koe te Pūkaha, te Kaitiaki, Te Mananui, te Pouwawao, te Mananui, Te 
 (Bahaiprayers.net ID: 10214)
 
 
-
+«[Māori](../mi/#bpn10214)» 
 
 
 
@@ -572,7 +572,7 @@ E tōku Atua! e tōku Atua! Whakakotahitia ngā ngākau o Āu pononga, whakaatur
 (Bahaiprayers.net ID: 10219)
 
 
-
+«[Māori](../mi/#bpn10219)» 
 
 
 
@@ -592,7 +592,7 @@ Tūturu, ko Koe te Kaharawa, te Matua-Kore Ora Tonu Ake, te Pouhōmai, te Tohu A
 (Bahaiprayers.net ID: 10220)
 
 
-
+«[Māori](../mi/#bpn10220)» 
 
 
 
@@ -610,7 +610,7 @@ Nō reira tāku tino inoi ki a Koe, mā Tōu ingoa Nāna Tāu whakatinanatanga i
 (Bahaiprayers.net ID: 10215)
 
 
-
+«[Māori](../mi/#bpn10215)» 
 
 
 
@@ -624,7 +624,7 @@ Kōrōria ki a Koe, e te Tino Tau, horahia ki runga ki a ia ngā konakona o Tāu
 (Bahaiprayers.net ID: 10216)
 
 
-
+«[Māori](../mi/#bpn10216)» 
 
 
 
@@ -636,7 +636,7 @@ E Koe Te Ariki kotahi tonu! Tukua tēnei kōhungahunga kia ngote ki te ū o Tāu
 (Bahaiprayers.net ID: 10217)
 
 
-
+«[Māori](../mi/#bpn10217)» 
 
 
 
@@ -648,7 +648,7 @@ E Te Atua! Whakatupuria tēnei pēpē ki te uma o Tōu aroha, whāngotehia ki te
 (Bahaiprayers.net ID: 10218)
 
 
-
+«[Māori](../mi/#bpn10218)» 
 
 
 
@@ -670,7 +670,7 @@ Tūturu ko Koe te Poumurunga Hara, Te Mākoha, ko Koe te Marere, te Tau!
 (Bahaiprayers.net ID: 10223)
 
 
-
+«[Māori](../mi/#bpn10223)» 
 
 
 
@@ -682,7 +682,7 @@ Ete Ariki murunga hara! Ko Koe te piringa o te katoa o Ōu pononga. e mōhio ana
 (Bahaiprayers.net ID: 10224)
 
 
-
+«[Māori](../mi/#bpn10224)» 
 
 
 
@@ -704,7 +704,7 @@ Ko Koe te Pouhōmai Nui, te Tohu Atawhai i ngā wā katoa, te Mākoha Rawa.
 (Bahaiprayers.net ID: 10258)
 
 
-
+«[Māori](../mi/#bpn10258)» 
 
 
 
@@ -734,7 +734,7 @@ E Koe Te Ariki atawhai! Kia meinga e Koe tēnei mārena kia whai hua ā-kāoa ā
 (Bahaiprayers.net ID: 10222)
 
 
-
+«[Māori](../mi/#bpn10222)» 
 
 
 
@@ -756,7 +756,7 @@ Awhinatia mai rātou, e tōku Atua, kia tukua ki a Koe te wikitōria, kia whakak
 (Bahaiprayers.net ID: 10221)
 
 
-
+«[Māori](../mi/#bpn10221)» 
 
 
 
@@ -774,7 +774,7 @@ Ko ahau rā ia, e tōku Ariki, tēnei te wareware nei ki te katoa i tua atu i a 
 (Bahaiprayers.net ID: 10225)
 
 
-
+«[Māori](../mi/#bpn10225)» 
 
 
 
@@ -788,7 +788,7 @@ Tūturu, ko Koe te Ariki o ngā ariki, te Pono Mananui, te Pouāwhina i ngā Wā
 (Bahaiprayers.net ID: 10226)
 
 
-
+«[Māori](../mi/#bpn10226)» 
 
 
 
@@ -800,7 +800,7 @@ E Te Ariki tōku Atua! Āwhinatia mai ngā tau o Tōu ate kia pūmau ki Tō Whak
 (Bahaiprayers.net ID: 10227)
 
 
-
+«[Māori](../mi/#bpn10227)» 
 
 
 
@@ -820,7 +820,7 @@ Whaikaha ai Koe ki te mahi i tāu e hiahia ai. Kāore he Atua i tua atu i a Koe,
 (Bahaiprayers.net ID: 10228)
 
 
-
+«[Māori](../mi/#bpn10228)» 
 
 
 
@@ -842,7 +842,7 @@ Tūturu, Ko Koe te Poumanaaki, te Pouāwhina, te Marere, te Whairawa, te Poutuku
 (Bahaiprayers.net ID: 10229)
 
 
-
+«[Māori](../mi/#bpn10229)» 
 
 
 
@@ -860,7 +860,7 @@ E Te Atua, tōku Atua! Ko mātou he pononga Nāu kua tahuri me te piripono ki T�
 (Bahaiprayers.net ID: 10230)
 
 
-
+«[Māori](../mi/#bpn10230)» 
 
 
 
@@ -878,7 +878,7 @@ Haumarutia ki Tōu tiakitanga, e Koe te Wairua o te parakore, ā, ko Koe Te Pouh
 (Bahaiprayers.net ID: 10231)
 
 
-
+«[Māori](../mi/#bpn10231)» 
 
 
 
@@ -898,7 +898,7 @@ Ko Koe, tūturu, te Kaharawa, te Whaikorōria rawa, te Poumurunga-Hara i ngā W�
 (Bahaiprayers.net ID: 10232)
 
 
-
+«[Māori](../mi/#bpn10232)» 
 
 
 
@@ -910,7 +910,7 @@ E Te Atua, tōku Atua! Kua wehe ahau i tōku whare, e pupuri ana i te aho o Tōu
 (Bahaiprayers.net ID: 10233)
 
 
-
+«[Māori](../mi/#bpn10233)» 
 
 
 
@@ -928,7 +928,7 @@ Mai i te kakara o ngā wai o Tōu mutungakore, hōmai ki ahau hei inu, e tōku A
 (Bahaiprayers.net ID: 10234)
 
 
-
+«[Māori](../mi/#bpn10234)» 
 
 
 
@@ -940,7 +940,7 @@ Hangaia mai ki roto i a ahau he ngākau parakore, e tōku Atua, whakahoungia he 
 (Bahaiprayers.net ID: 10235)
 
 
-
+«[Māori](../mi/#bpn10235)» 
 
 
 
@@ -954,7 +954,7 @@ Ko Koe, tūturu, te Kaharawa, te Korōria-Rawa, ko koe te Tino Pūkaha Rawa Atu.
 (Bahaiprayers.net ID: 10236)
 
 
-
+«[Māori](../mi/#bpn10236)» 
 
 
 
@@ -974,7 +974,7 @@ Ko Koe tūturu te Kaharawa, te Poumuru hara, te Mākoha.
 (Bahaiprayers.net ID: 10237)
 
 
-
+«[Māori](../mi/#bpn10237)» 
 
 
 
@@ -986,7 +986,7 @@ Tēnei tāku inoi ki a Koe, e tōku Atua, mā te korōria matakite o Tōu Ingoa,
 (Bahaiprayers.net ID: 10240)
 
 
-
+«[Māori](../mi/#bpn10240)» 
 
 
 
@@ -1000,7 +1000,7 @@ e Te Atua! Hoa nui kē atu Koe i ahau ki ahau anō. Kua tāpae atu ahau i ahau a
 (Bahaiprayers.net ID: 10238)
 
 
-
+«[Māori](../mi/#bpn10238)» 
 
 
 
@@ -1012,7 +1012,7 @@ E Tōku Ariki! e Tōku Ariki! He rama tēnei kua ngiha mai i te ahi o Tōu aroha
 (Bahaiprayers.net ID: 10239)
 
 
-
+«[Māori](../mi/#bpn10239)» 
 
 
 
@@ -1038,7 +1038,7 @@ Kāore he Atua i tua atu i a Koe, te Kaha rawa, te Māhaki rawa.
 (Bahaiprayers.net ID: 10243)
 
 
-
+«[Māori](../mi/#bpn10243)» 
 
 
 
@@ -1062,7 +1062,7 @@ Tūturu, ko Koe te Pūkaha, te Mananui me te Kaha Rawa me te Pūkaha Nui, ā ko 
 (Bahaiprayers.net ID: 10244)
 
 
-
+«[Māori](../mi/#bpn10244)» 
 
 
 
@@ -1080,7 +1080,7 @@ Ko Koe te Kaha Rawa me te Poumahi o Tāu e hiahia ai.
 (Bahaiprayers.net ID: 10245)
 
 
-
+«[Māori](../mi/#bpn10245)» 
 
 
 
@@ -1097,7 +1097,7 @@ Whakangihangia mai, e te Ariki, ngā kanohi o Āu pononga, ka kite ai rātou i a
 (Bahaiprayers.net ID: 10247)
 
 
-
+«[Māori](../mi/#bpn10247)» 
 
 
 
@@ -1117,7 +1117,7 @@ Pūkaha ai Koe ki te mahi i Tāu e hiahia ai. Kāore he Atua i tua atu i a Koe, 
 (Bahaiprayers.net ID: 10248)
 
 
-
+«[Māori](../mi/#bpn10248)» 
 
 
 
@@ -1129,7 +1129,7 @@ Ko Tō ingoa tōku whakaoranga, e tōku Atua ā, ko te maumahara ki a Koe tōku 
 (Bahaiprayers.net ID: 10249)
 
 
-
+«[Māori](../mi/#bpn10249)» 
 
 
 
@@ -1145,7 +1145,7 @@ Ko tāku tono ki a Koe ki Tōu kaha, e tōku Atua! Kia kaua ahau e whara i ngā 
 (Bahaiprayers.net ID: 10251)
 
 
-
+«[Māori](../mi/#bpn10251)» 
 
 
 
@@ -1157,7 +1157,7 @@ He Pouwetewete i te raruraru i tua atu i Te Atua? Meatia: Korōria ki Te Atua! K
 (Bahaiprayers.net ID: 10250)
 
 
-
+«[Māori](../mi/#bpn10250)» 
 
 
 
@@ -1173,7 +1173,7 @@ E Te Ariki! Ki tēnei Whakawāteatanga Nui Whakaharahara Rawa Atu kua whakaaea e
 (Bahaiprayers.net ID: 10252)
 
 
-
+«[Māori](../mi/#bpn10252)» 
 
 
 
@@ -1190,7 +1190,7 @@ Ko Koe, tūturu, te Kīngi o ngā tāngata katoa. Kāhore he Atua i tua atu i a 
 (Bahaiprayers.net ID: 10187)
 
 
-
+«[Māori](../mi/#bpn10187)» 
 
 
 
@@ -1202,7 +1202,7 @@ E Tōku Atua, tōku Pūaroha, tōku Kīngi, tōku Tōmina! Mā tēwhea arero e k
 (Bahaiprayers.net ID: 10188)
 
 
-
+«[Māori](../mi/#bpn10188)» 
 
 
 
@@ -1214,7 +1214,7 @@ Kī atu: Ko Te Atua ko Ia te whakatutukinga o ngā mea katoa o runga o ngā mea 
 (Bahaiprayers.net ID: 10189)
 
 
-
+«[Māori](../mi/#bpn10189)» 
 
 
 
@@ -1234,7 +1234,7 @@ Ko Koe te Poumuru hara, te Tohu Tūpore.
 (Bahaiprayers.net ID: 10241)
 
 
-
+«[Māori](../mi/#bpn10241)» 
 
 
 
@@ -1250,7 +1250,7 @@ Ko Koe te Mākoha, te Tohu Atawhai. Ko Koe Te Atua Marere Nui.
 (Bahaiprayers.net ID: 10242)
 
 
-
+«[Māori](../mi/#bpn10242)» 
 
 
 
@@ -1271,7 +1271,7 @@ Tūturu, ko Koe te Pouhōmai, te Marere, te Tohu Atawhai, te Poumurunga Hara.
 (Bahaiprayers.net ID: 10186)
 
 
-
+«[Māori](../mi/#bpn10186)» 
 
 
 
@@ -1301,7 +1301,7 @@ Kia whakapaingia Koe, e te Ariki tōku Atua, te Rākau-Rote Tapu me ōna raurau,
 (Bahaiprayers.net ID: 10256)
 
 
-
+«[Māori](../mi/#bpn10256)» 
 
 
 
@@ -1326,7 +1326,7 @@ Ko Koe te Poutuku, te Whaiaroha, Te Tino Poumanaaki, te Tohu Tūpore, te Tohu At
 (Bahaiprayers.net ID: 10257)
 
 
-
+«[Māori](../mi/#bpn10257)» 
 
 
 
@@ -1346,7 +1346,7 @@ Tēnei ahau te whakaatu nei, E tōku Atua, Nāu ahau i hanga kia mōhio ahau ki 
 (Bahaiprayers.net ID: 10181)
 
 
-
+«[Māori](../mi/#bpn10181)» 
 
 
 
@@ -1417,7 +1417,7 @@ Tēnei ahau te whakaatu nei e tōku Atua, ki tērā nā Ō Kōwhiringa i whakaat
 (Bahaiprayers.net ID: 10183)
 
 
-
+«[Māori](../mi/#bpn10183)» 
 
 
 
@@ -1451,7 +1451,7 @@ Tēnei ahau te kaiwhakaatu o Tōu kotahitanga pū, ā, ko Koe Te Atua, kāhore h
 (Bahaiprayers.net ID: 10182)
 
 
-
+«[Māori](../mi/#bpn10182)» 
 
 
 
@@ -1570,7 +1570,7 @@ Mā te pānuitanga e ngā pononga katoa, mā te aro ki a ia, kātahi ka ngiha ai
 (Bahaiprayers.net ID: 10254)
 
 
-
+«[Māori](../mi/#bpn10254)» 
 
 
 
@@ -1624,7 +1624,7 @@ Tūturu, ko Ia te Tohu Atawhai, te Mākoha. Korōria ki Te Atua, te Ariki o ngā
 (Bahaiprayers.net ID: 10253)
 
 
-
+«[Māori](../mi/#bpn10253)» 
 
 
 
@@ -1648,7 +1648,7 @@ Whakatapua ana te Ariki o ngā tāngata katoa, ki te whakatātakitanga o Tōna i
 (Bahaiprayers.net ID: 10255)
 
 
-
+«[Māori](../mi/#bpn10255)» 
 
 
 
@@ -1666,7 +1666,7 @@ Whakanui akehia ai Koe, e Te Ariki o te orokohanganga katoa, kia tahuri ngā mea
 (Bahaiprayers.net ID: 10205)
 
 
-
+«[Māori](../mi/#bpn10205)» 
 
 
 

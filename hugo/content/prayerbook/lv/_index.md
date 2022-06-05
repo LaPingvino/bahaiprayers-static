@@ -81,7 +81,7 @@ Savā neizmērojamā cēlumā pasargā viņu no visa, kas nav Tev pieņemams. Tu
 (Bahaiprayers.net ID: 2354)
 
 
-
+«[Latviešu](../lv/#bpn2354)» 
 
 
 
@@ -94,7 +94,7 @@ Tu Savā spēkā esi sargājis Savus mīļotos no vieglprātīgajiem un samaitā
 (Bahaiprayers.net ID: 2355)
 
 
-
+«[Latviešu](../lv/#bpn2355)» 
 
 
 
@@ -110,7 +110,7 @@ Patiesi, Tu esi Visgodātais, Visdāsnais.
 (Bahaiprayers.net ID: 2356)
 
 
-
+«[Latviešu](../lv/#bpn2356)» 
 
 
 
@@ -124,7 +124,7 @@ Tu, patiesi, esi Visvarenais, Visaugstais, mūžam Piedodošais, Visdāsnais.
 (Bahaiprayers.net ID: 2357)
 
 
-
+«[Latviešu](../lv/#bpn2357)» 
 
 
 
@@ -137,7 +137,7 @@ Tu esi Visdāsnais, Aizstāvis, Visvarenais, Visžēlīgais.
 (Bahaiprayers.net ID: 2358)
 
 
-
+«[Latviešu](../lv/#bpn2358)» 
 
 
 
@@ -151,7 +151,7 @@ Patiesi, Tu esi Aizstāvis, Sargs, Saglabātājs, Apgādātājs, un Tu esi Visž
 (Bahaiprayers.net ID: 2359)
 
 
-
+«[Latviešu](../lv/#bpn2359)» 
 
 
 
@@ -169,7 +169,7 @@ Es teicu Tavu slavu, ko Tu pats esi Sev radījis, un cildinu Tavu Būtību, kā 
 (Bahaiprayers.net ID: 2360)
 
 
-
+«[Latviešu](../lv/#bpn2360)» 
 
 
 
@@ -183,7 +183,7 @@ Patiesi, Tu esi visas cilvēces Valdnieks, un Tev pieder šī pasaule un tā, ka
 (Bahaiprayers.net ID: 2361)
 
 
-
+«[Latviešu](../lv/#bpn2361)» 
 
 
 
@@ -197,7 +197,7 @@ Tu, patiesi, esi pasauļu Valdnieks un Dievs visam, kas ir debesīs un uz zemes.
 (Bahaiprayers.net ID: 2362)
 
 
-
+«[Latviešu](../lv/#bpn2362)» 
 
 
 
@@ -212,7 +212,7 @@ Tava vara, tik tiešām, ir augstāka par visu.
 (Bahaiprayers.net ID: 2363)
 
 
-
+«[Latviešu](../lv/#bpn2363)» 
 
 
 
@@ -227,7 +227,7 @@ Tev ir tā vara piepildīt Savu gribu. Patiesi, Tu esi Visstiprais un Visaugstsi
 (Bahaiprayers.net ID: 2364)
 
 
-
+«[Latviešu](../lv/#bpn2364)» 
 
 
 
@@ -243,7 +243,7 @@ Nav cita Dieva bez Tevis, Visvarenā, Labdarīgā.
 (Bahaiprayers.net ID: 2365)
 
 
-
+«[Latviešu](../lv/#bpn2365)» 
 
 
 
@@ -257,7 +257,7 @@ Tu esi Visvarenais, Neredzamais, Visspēcīgais.
 (Bahaiprayers.net ID: 2366)
 
 
-
+«[Latviešu](../lv/#bpn2366)» 
 
 
 
@@ -275,7 +275,7 @@ Svētī, ak Dievs, mans Kungs, To, Kuru esi pacēlis pāri Saviem visaugstākaji
 (Bahaiprayers.net ID: 2367)
 
 
-
+«[Latviešu](../lv/#bpn2367)» 
 
 
 
@@ -291,7 +291,7 @@ Ak Dievs, vadi mani, sargā mani, dedz manā sirdī gaismu, lai es kļūstu kā 
 (Bahaiprayers.net ID: 2368)
 
 
-
+«[Latviešu](../lv/#bpn2368)» 
 
 
 
@@ -304,7 +304,7 @@ Ak Tu, Kam līdzīga nav. Ļauj man liecināt par Tavu neredzamo Ķēniņvalsti.
 (Bahaiprayers.net ID: 2369)
 
 
-
+«[Latviešu](../lv/#bpn2369)» 
 
 
 
@@ -317,7 +317,7 @@ Patiesi, Tu esi Spēcīgais, Varenais, visu Redzošais, visu Dzirdošais.
 (Bahaiprayers.net ID: 2370)
 
 
-
+«[Latviešu](../lv/#bpn2370)» 
 
 
 
@@ -330,7 +330,7 @@ Tu esi Dāsnais, Tu esi Līdzjūtīgais!
 (Bahaiprayers.net ID: 2371)
 
 
-
+«[Latviešu](../lv/#bpn2371)» 
 
 
 
@@ -343,7 +343,7 @@ Tu esi spēcīgs un laipns, Tu esi Devējs un Apveltītājs, visaugstākās svē
 (Bahaiprayers.net ID: 2372)
 
 
-
+«[Latviešu](../lv/#bpn2372)» 
 
 
 
@@ -361,7 +361,7 @@ Tu esi varas, slavas un dāsnuma Dievs. Nav cita Dieva bez Tevis, visaugstākā 
 (Bahaiprayers.net ID: 2373)
 
 
-
+«[Latviešu](../lv/#bpn2373)» 
 
 
 
@@ -374,7 +374,7 @@ Apgaismo, ak Kungs, Savu kalpu sejas, lai viņi spētu ieraudzīt Tevi; apskaidr
 (Bahaiprayers.net ID: 2374)
 
 
-
+«[Latviešu](../lv/#bpn2374)» 
 
 
 
@@ -387,7 +387,7 @@ Tu esi Visvarenais, Visaugstais, Visgodātais, Vismīlošais.
 (Bahaiprayers.net ID: 2375)
 
 
-
+«[Latviešu](../lv/#bpn2375)» 
 
 
 
@@ -401,7 +401,7 @@ Esi slavēts un cildināts! Visa radība liecina, ka Tu esi viens vienīgs, un n
 (Bahaiprayers.net ID: 2376)
 
 
-
+«[Latviešu](../lv/#bpn2376)» 
 
 
 
@@ -419,7 +419,7 @@ Visi ir nabadzīgi un trūcīgi, un Tev, patiesi, pieder viss, Tev pakļaujas vi
 (Bahaiprayers.net ID: 2377)
 
 
-
+«[Latviešu](../lv/#bpn2377)» 
 
 
 
@@ -435,7 +435,7 @@ Tev ir tas spēks piepildīt Savu gribu. Patiesi, Tu esi Palīgs briesmās, Pats
 (Bahaiprayers.net ID: 2378)
 
 
-
+«[Latviešu](../lv/#bpn2378)» 
 
 
 
@@ -452,7 +452,7 @@ Es lūdzu Tevi, ak mans Kungs, un piesaucu Viņa vārdu, ap kuru pielūgsmē ri�
 (Bahaiprayers.net ID: 2382)
 
 
-
+«[Latviešu](../lv/#bpn2382)» 
 
 
 
@@ -466,7 +466,7 @@ Tu esi Devējs, Tu esi Žēlotājs.
 (Bahaiprayers.net ID: 2379)
 
 
-
+«[Latviešu](../lv/#bpn2379)» 
 
 
 
@@ -479,7 +479,7 @@ Patiesi, Tu esi Devējs, Tu esi Mīlošais, un Tu esi Visvarenais.
 (Bahaiprayers.net ID: 2380)
 
 
-
+«[Latviešu](../lv/#bpn2380)» 
 
 
 
@@ -491,7 +491,7 @@ Ak labsirdīgais Kungs! Tu esi radījis visu cilvēci no vienas saknes. Tu esi n
 (Bahaiprayers.net ID: 2381)
 
 
-
+«[Latviešu](../lv/#bpn2381)» 
 
 
 
@@ -509,7 +509,7 @@ Tev ir tā vara piepildīt Savu gribu. Nav neviena cita Dieva bez Tevis, Mūžam
 (Bahaiprayers.net ID: 2383)
 
 
-
+«[Latviešu](../lv/#bpn2383)» 
 
 
 
@@ -522,7 +522,7 @@ Tu, patiesi, esi Dziednieks, Sargātājs, Palīgs, Visvarenais, Spēcīgais, Vis
 (Bahaiprayers.net ID: 2386)
 
 
-
+«[Latviešu](../lv/#bpn2386)» 
 
 
 
@@ -536,7 +536,7 @@ Tu, patiesi, pacelies pāri visam un visiem, tik Sev vien nē. Tu esi, patiesi, 
 (Bahaiprayers.net ID: 2387)
 
 
-
+«[Latviešu](../lv/#bpn2387)» 
 
 
 
@@ -549,7 +549,7 @@ Patiesi, Tu esi Visdāsnais, Viszinošais, Visgudrais.
 (Bahaiprayers.net ID: 2384)
 
 
-
+«[Latviešu](../lv/#bpn2384)» 
 
 
 
@@ -563,7 +563,7 @@ Patiesi, Tu esi Kungs šai dzīvē un tajā, kas vēl nāks. Tu esi, patiesi, m�
 (Bahaiprayers.net ID: 2385)
 
 
-
+«[Latviešu](../lv/#bpn2385)» 
 
 
 
@@ -640,7 +640,7 @@ Es apliecinu, ak mans Dievs, to, ko apliecinājuši ir Tavi Izredzētie, un es a
 (Bahaiprayers.net ID: 2350)
 
 
-
+«[Latviešu](../lv/#bpn2350)» 
 
 
 
@@ -658,7 +658,7 @@ Patiesi, Tu esi Visuvarenais, Visspēcīgais, Viszinošais, Visgudrais.
 (Bahaiprayers.net ID: 2388)
 
 
-
+«[Latviešu](../lv/#bpn2388)» 
 
 
 
@@ -670,7 +670,7 @@ Ak Dievs, atspirdzini un iepriecini manu garu. Šķīsti manu sirdi. Apgaismo ma
 (Bahaiprayers.net ID: 2389)
 
 
-
+«[Latviešu](../lv/#bpn2389)» 
 
 
 
@@ -685,7 +685,7 @@ Patiesi, Tu esi Žēlsirdīgais, un, patiesi, Tu esi augstsirdīgais Palīgs.
 (Bahaiprayers.net ID: 2390)
 
 
-
+«[Latviešu](../lv/#bpn2390)» 
 
 
 
@@ -698,7 +698,7 @@ Tik tiešām, Tu esi Apstiprinātājs, Nodrošinātājs, Varenais, Augstsirdīga
 (Bahaiprayers.net ID: 2391)
 
 
-
+«[Latviešu](../lv/#bpn2391)» 
 
 
 
@@ -711,7 +711,7 @@ Patiesi, Tu esi Vislabvēlīgais, pārpilnas vēlības Kungs. Nav cita Dieva bez
 (Bahaiprayers.net ID: 2392)
 
 
-
+«[Latviešu](../lv/#bpn2392)» 
 
 
 
@@ -727,7 +727,7 @@ Patiesi, Tu esi Žēlīgais, Visdāsnais!
 (Bahaiprayers.net ID: 2393)
 
 
-
+«[Latviešu](../lv/#bpn2393)» 
 
 
 
@@ -743,7 +743,7 @@ Patiesi, Tu sēdi Savā visaugstās žēlastības tronī, nav cita Dieva bez Tev
 (Bahaiprayers.net ID: 2394)
 
 
-
+«[Latviešu](../lv/#bpn2394)» 
 
 
 
@@ -761,7 +761,7 @@ Patiesi, Tu esi Visvarenais, visu Piedevējs, Līdzjūtīgais.
 (Bahaiprayers.net ID: 2395)
 
 
-
+«[Latviešu](../lv/#bpn2395)» 
 
 
 
@@ -781,7 +781,7 @@ Tu esi Žēlīgais, Dāsnais, Devējs, Visvarenais, Visžēlsirdīgais, Līdzjū
 (Bahaiprayers.net ID: 2445)
 
 
-
+«[Latviešu](../lv/#bpn2445)» 
 
 
 
@@ -798,7 +798,7 @@ Patiesi, Tu esi Augstsirdīgais un Žēlīgais! Tu esi Labdarīgais, un, patiesi
 (Bahaiprayers.net ID: 2446)
 
 
-
+«[Latviešu](../lv/#bpn2446)» 
 
 
 
@@ -832,7 +832,7 @@ Pie Tevis Paša un pie Tavām zīmēm, un pie nepārprotamiem Taviem apliecināj
 (Bahaiprayers.net ID: 2448)
 
 
-
+«[Latviešu](../lv/#bpn2448)» 
 
 
 
@@ -856,7 +856,7 @@ Tev ir tas spēks piepildīt Savu gribu. Nav cita Dieva bez Tevis, Visvarenā, V
 (Bahaiprayers.net ID: 2450)
 
 
-
+«[Latviešu](../lv/#bpn2450)» 
 
 
 
@@ -876,7 +876,7 @@ Savai Mācībai nes uzvaru, ak mans Kungs, un liec Taviem naidniekiem krist. Tad
 (Bahaiprayers.net ID: 2449)
 
 
-
+«[Latviešu](../lv/#bpn2449)» 
 
 
 
@@ -894,7 +894,7 @@ Un vēl es lūdzu Tevi, ar Sava vaiga gaismu svētī manus darbus, izpērc manus
 (Bahaiprayers.net ID: 2396)
 
 
-
+«[Latviešu](../lv/#bpn2396)» 
 
 
 
@@ -908,7 +908,7 @@ Patiesi, Tu esi Visvarenais, Visgodātais, Visdāsnais.
 (Bahaiprayers.net ID: 2397)
 
 
-
+«[Latviešu](../lv/#bpn2397)» 
 
 
 
@@ -920,7 +920,7 @@ Ak Tu, Kura pārbaudījumi nes dziedināšanu Tev tuvajiem, Kura zobenu ilgojas 
 (Bahaiprayers.net ID: 2398)
 
 
-
+«[Latviešu](../lv/#bpn2398)» 
 
 
 
@@ -936,7 +936,7 @@ Tev ir tā vara piepildīt visu, ko vēlies. Nav cita Dieva bez Tevis, Palīga b
 (Bahaiprayers.net ID: 2399)
 
 
-
+«[Latviešu](../lv/#bpn2399)» 
 
 
 
@@ -950,7 +950,7 @@ Pieminot viņus un viņu siržu nopūtas tālumā no Tevis, es Tevi lūdzu, sarg
 (Bahaiprayers.net ID: 2400)
 
 
-
+«[Latviešu](../lv/#bpn2400)» 
 
 
 
@@ -962,7 +962,7 @@ Vai ir vēl kāds cits, kas spēj grūtības novērst, kā Dievs? Saki: Lai slav
 (Bahaiprayers.net ID: 2401)
 
 
-
+«[Latviešu](../lv/#bpn2401)» 
 
 
 
@@ -974,7 +974,7 @@ Saki: Pār visām lietām Dievs ir piepildījums, un nav apmierinājuma bez Diev
 (Bahaiprayers.net ID: 2402)
 
 
-
+«[Latviešu](../lv/#bpn2402)» 
 
 
 
@@ -988,7 +988,7 @@ Ak Dievs, mans Dievs! Tu redzi mani. Tu zini mani. Tu esi mana Osta un Patvērum
 (Bahaiprayers.net ID: 2403)
 
 
-
+«[Latviešu](../lv/#bpn2403)» 
 
 
 
@@ -1006,7 +1006,7 @@ Tu, patiesi, esi Žēlīgais, Godātais, Varenais, Visspēcīgais!
 (Bahaiprayers.net ID: 2404)
 
 
-
+«[Latviešu](../lv/#bpn2404)» 
 
 
 
@@ -1019,7 +1019,7 @@ Patiesi, Tu esi Žēlīgais, Augstsirdīgais!
 (Bahaiprayers.net ID: 2405)
 
 
-
+«[Latviešu](../lv/#bpn2405)» 
 
 
 
@@ -1041,7 +1041,7 @@ Patiesi, Tu esi Viszinošais, Visgudrais.
 (Bahaiprayers.net ID: 2451)
 
 
-
+«[Latviešu](../lv/#bpn2451)» 
 
 
 
@@ -1064,7 +1064,7 @@ Un, kad Viņam labpatika izrādīt pret cilvēkiem žēlastību un labvēlību, 
 (Bahaiprayers.net ID: 2452)
 
 
-
+«[Latviešu](../lv/#bpn2452)» 
 
 
 
@@ -1080,7 +1080,7 @@ Patiesi, Tu esi Visstiprais, Visdiženais, mūžam Piedodošais.
 (Bahaiprayers.net ID: 2453)
 
 
-
+«[Latviešu](../lv/#bpn2453)» 
 
 
 
@@ -1093,7 +1093,7 @@ Patiesi, Tu esi Visvarenais, visur Esošais, Visspēcīgais.
 (Bahaiprayers.net ID: 2454)
 
 
-
+«[Latviešu](../lv/#bpn2454)» 
 
 
 
@@ -1115,7 +1115,7 @@ Patiesi, Tu esi Visvarenais un Viszinošais.
 (Bahaiprayers.net ID: 2447)
 
 
-
+«[Latviešu](../lv/#bpn2447)» 
 
 
 
@@ -1133,7 +1133,7 @@ Tu, patiesi, esi Visvarenais, Visaugstais, Viszinošais, Visgudrais.
 (Bahaiprayers.net ID: 2408)
 
 
-
+«[Latviešu](../lv/#bpn2408)» 
 
 
 
@@ -1148,7 +1148,7 @@ Es Tevi lūdzu, Tu esamības Valdniek un visa redzamā un neredzamā Aizstāvi, 
 (Bahaiprayers.net ID: 2409)
 
 
-
+«[Latviešu](../lv/#bpn2409)» 
 
 
 
@@ -1163,7 +1163,7 @@ Tu, patiesi, esi varenais un spēcīgais Dievs, Kas spēj atbildēt uz Savu lūd
 (Bahaiprayers.net ID: 2410)
 
 
-
+«[Latviešu](../lv/#bpn2410)» 
 
 
 
@@ -1176,7 +1176,7 @@ Patiesi, Tu esi Visžēlīgais, Visdāsnais, Visspēcīgais.
 (Bahaiprayers.net ID: 2407)
 
 
-
+«[Latviešu](../lv/#bpn2407)» 
 
 
 
@@ -1193,7 +1193,7 @@ Ak Dievišķais Likteni! Visa radība ceļas no Tava dāsnuma. Neliedz tai Savas
 (Bahaiprayers.net ID: 2411)
 
 
-
+«[Latviešu](../lv/#bpn2411)» 
 
 
 
@@ -1205,7 +1205,7 @@ Ak mans Dievs! Piesaucot Tavu cildeno Vārdu, es lūdzu Tevi palīdzēt man dar�
 (Bahaiprayers.net ID: 2412)
 
 
-
+«[Latviešu](../lv/#bpn2412)» 
 
 
 
@@ -1218,7 +1218,7 @@ Patiesi, Tu esi visu cilvēku Ķēniņš. Nav cita Dieva bez Tevis, allaž visu 
 (Bahaiprayers.net ID: 2416)
 
 
-
+«[Latviešu](../lv/#bpn2416)» 
 
 
 
@@ -1231,7 +1231,7 @@ Tu esi Spēcīgais, Žēlīgais, Pats par Sevi Pastāvošais, Dāsnais, Līdzjū
 (Bahaiprayers.net ID: 2413)
 
 
-
+«[Latviešu](../lv/#bpn2413)» 
 
 
 
@@ -1246,7 +1246,7 @@ Tu esi Visvarenais, visus Mīlošais, un Tu gādā par visu cilvēci.
 (Bahaiprayers.net ID: 2414)
 
 
-
+«[Latviešu](../lv/#bpn2414)» 
 
 
 
@@ -1260,7 +1260,7 @@ Tik tiešām, Tu esi Viens un Vienīgs, Visvarenais, Viszinošais, Visgudrais Di
 (Bahaiprayers.net ID: 2415)
 
 
-
+«[Latviešu](../lv/#bpn2415)» 
 
 
 
@@ -1278,7 +1278,7 @@ Cildināms, bezgala cildināms Tu esi! Sava patiesīguma dēļ Tu tieci dievinā
 (Bahaiprayers.net ID: 2351)
 
 
-
+«[Latviešu](../lv/#bpn2351)» 
 
 
 
@@ -1301,7 +1301,7 @@ Nav neviena cita Dieva bez Tevis, Viena Vienīgā, Varenā, Zinošā, Dāsnā!
 (Bahaiprayers.net ID: 2353)
 
 
-
+«[Latviešu](../lv/#bpn2353)» 
 
 
 
@@ -1313,7 +1313,7 @@ Ak mans Dievs! Ak Tu grēku Piedevējs! Dāvanu Devējs! Bēdu Kliedētājs! Tik
 (Bahaiprayers.net ID: 2352)
 
 
-
+«[Latviešu](../lv/#bpn2352)» 
 
 
 
@@ -1330,7 +1330,7 @@ Es esmu, ak mans Dievs, Tavs kalps un Tava kalpa dēls. Es esmu apjautis Tavu pa
 (Bahaiprayers.net ID: 2417)
 
 
-
+«[Latviešu](../lv/#bpn2417)» 
 
 
 
@@ -1342,7 +1342,7 @@ Tu redzi mani, ak mans Kungs, raugāmies uz Tava dāsnuma debesīm un Tavas labe
 (Bahaiprayers.net ID: 2418)
 
 
-
+«[Latviešu](../lv/#bpn2418)» 
 
 
 
@@ -1357,7 +1357,7 @@ Piedod, ak mans Kungs, Saviem kalpiem un kalponēm. Tu, patiesi, esi Vispiedodo�
 (Bahaiprayers.net ID: 2419)
 
 
-
+«[Latviešu](../lv/#bpn2419)» 
 
 
 
@@ -1370,7 +1370,7 @@ Tu esi Augstsirdīgais! Tu esi Maigais! Tu esi Žēlīgais!
 (Bahaiprayers.net ID: 2420)
 
 
-
+«[Latviešu](../lv/#bpn2420)» 
 
 
 
@@ -1386,7 +1386,7 @@ Es esmu atmodies, Tevis pasargāts, ak mans Dievs, un tas, kas pēc Tavas sargā
 (Bahaiprayers.net ID: 2421)
 
 
-
+«[Latviešu](../lv/#bpn2421)» 
 
 
 
@@ -1399,7 +1399,7 @@ Nav neviena cita Dieva bez Tevis, Vienīgā, Nesalīdzināmā, Viszinošā, Visg
 (Bahaiprayers.net ID: 2422)
 
 
-
+«[Latviešu](../lv/#bpn2422)» 
 
 
 
@@ -1415,7 +1415,7 @@ Tu neliec vilties nevienam, kas ir Tevi meklējis. Nevienu, kas ir Tevis ilgojie
 (Bahaiprayers.net ID: 2423)
 
 
-
+«[Latviešu](../lv/#bpn2423)» 
 
 
 
@@ -1433,7 +1433,7 @@ Pie Tevis Paša un pie Tiem, Kurus Tu sūtīji Savu Būtību un Savu skaidro Vā
 (Bahaiprayers.net ID: 2424)
 
 
-
+«[Latviešu](../lv/#bpn2424)» 
 
 
 
@@ -1446,7 +1446,7 @@ Ak Dievs, ņem mūs Savā gādībā! Tu esi stiprs! Tu esi Devējs. Tu esi laba 
 (Bahaiprayers.net ID: 2425)
 
 
-
+«[Latviešu](../lv/#bpn2425)» 
 
 
 
@@ -1460,7 +1460,7 @@ Tu esi varens. Tu esi spēcīgs. Tu esi Devējs, Tu esi mūžam Dāsnais.
 (Bahaiprayers.net ID: 2426)
 
 
-
+«[Latviešu](../lv/#bpn2426)» 
 
 
 
@@ -1473,7 +1473,7 @@ Patiesi, Tu esi Dāsnais. Patiesi, Tu esi Žēlsirdīgais. Patiesi, Tu esi Godā
 (Bahaiprayers.net ID: 2427)
 
 
-
+«[Latviešu](../lv/#bpn2427)» 
 
 
 
@@ -1486,7 +1486,7 @@ Tu esi Visvarenais, Tu esi Visžēlīgais, un Tu esi Dāsnais.
 (Bahaiprayers.net ID: 2428)
 
 
-
+«[Latviešu](../lv/#bpn2428)» 
 
 
 
@@ -1511,7 +1511,7 @@ Patiesi, Tu esi Visdāsnais, un Tava žēlastība ir nebeidzama. Nav cita Dieva 
 (Bahaiprayers.net ID: 2443)
 
 
-
+«[Latviešu](../lv/#bpn2443)» 
 
 
 
@@ -1531,7 +1531,7 @@ Tu esi Devējs, Žēlotājs, Visdāsnais, Svētītājs, Līdzjūtīgais.
 (Bahaiprayers.net ID: 2444)
 
 
-
+«[Latviešu](../lv/#bpn2444)» 
 
 
 
@@ -1549,7 +1549,7 @@ Patiesi, Tu esi Spēcīgais, Visvarenais, Viszinošais, Visgudrais, Dzirdošais 
 (Bahaiprayers.net ID: 2406)
 
 
-
+«[Latviešu](../lv/#bpn2406)» 
 
 
 
@@ -1567,7 +1567,7 @@ Patiesi, Tu dod svētību, kam vien Tu gribi, darbiem, kurus Tu izvēlies. Patie
 (Bahaiprayers.net ID: 4093)
 
 
-
+«[Latviešu](../lv/#bpn4093)» 
 
 
 
@@ -1587,7 +1587,7 @@ Patiesi, Tu esi Maigais, Spēcīgais, Varenais, Visžēlīgais no Žēlīgajiem!
 (Bahaiprayers.net ID: 4094)
 
 
-
+«[Latviešu](../lv/#bpn4094)» 
 
 
 
@@ -1611,7 +1611,7 @@ Patiesi, Tu esi Maigais un Cēlsirdīgais. Patiesi, Tu esi Līdzjūtīgais un Ž
 (Bahaiprayers.net ID: 4095)
 
 
-
+«[Latviešu](../lv/#bpn4095)» 
 
 
 
@@ -1629,7 +1629,7 @@ Patiesi, Tu esi Spēcīgais, Varenais, Gudrais un Redzošais.
 (Bahaiprayers.net ID: 4096)
 
 
-
+«[Latviešu](../lv/#bpn4096)» 
 
 
 
@@ -1645,7 +1645,7 @@ Ak mans Kungs! Savā lielajā un uzvarošajā varenībā palīdzi man, lai mana 
 (Bahaiprayers.net ID: 4097)
 
 
-
+«[Latviešu](../lv/#bpn4097)» 
 
 
 
@@ -1663,7 +1663,7 @@ Patiesi, Tu esi Varenais, Stiprais, Neierobežotais.
 (Bahaiprayers.net ID: 4098)
 
 
-
+«[Latviešu](../lv/#bpn4098)» 
 
 
 
@@ -1677,7 +1677,7 @@ Patiesi, Tu esi nabadzīgo Aizstāvis un, patiesi, Tu esi Stiprais, Varenais, Ne
 (Bahaiprayers.net ID: 4099)
 
 
-
+«[Latviešu](../lv/#bpn4099)» 
 
 
 
@@ -1691,7 +1691,7 @@ Patiesi, Tu esi Visstiprais, Visaugstais, Piedodošais, Žēlojošais.
 (Bahaiprayers.net ID: 4100)
 
 
-
+«[Latviešu](../lv/#bpn4100)» 
 
 
 
@@ -1710,7 +1710,7 @@ Patiesi, Tu esi Visspēcīgais un Visvarenais!
 (Bahaiprayers.net ID: 4101)
 
 
-
+«[Latviešu](../lv/#bpn4101)» 
 
 
 
@@ -1729,7 +1729,7 @@ Nav cita Dieva bez Tevis, Visvarenā, Visgudrā.
 (Bahaiprayers.net ID: 2429)
 
 
-
+«[Latviešu](../lv/#bpn2429)» 
 
 
 
@@ -1744,7 +1744,7 @@ Savā vēlībā dāvā man, ak Kungs, to, kas ļaus man plaukt un zelt šajā un
 (Bahaiprayers.net ID: 2430)
 
 
-
+«[Latviešu](../lv/#bpn2430)» 
 
 
 
@@ -1762,7 +1762,7 @@ Patiesi, Tu esi varenais Dievs, Palīgs briesmās, Visgodātais, Visspēcīgais.
 (Bahaiprayers.net ID: 2431)
 
 
-
+«[Latviešu](../lv/#bpn2431)» 
 
 
 
@@ -1775,7 +1775,7 @@ Es lūdzu Tevi, ļauj man cieši turēties pie Tavas mīlestības un vienmēr at
 (Bahaiprayers.net ID: 2432)
 
 
-
+«[Latviešu](../lv/#bpn2432)» 
 
 
 
@@ -1793,7 +1793,7 @@ Nav cita Dieva bez Tevis, Visvarenā, Visu Pakļāvēja, Neatkarīgā.
 (Bahaiprayers.net ID: 2437)
 
 
-
+«[Latviešu](../lv/#bpn2437)» 
 
 
 
@@ -1807,7 +1807,7 @@ Pie Tavas varenības! Vai esmu nomodā, vai guļu, es lūdzu tikai to, kas tīka
 (Bahaiprayers.net ID: 2438)
 
 
-
+«[Latviešu](../lv/#bpn2438)» 
 
 
 
@@ -1820,7 +1820,7 @@ Tu esi Spēcīgais, Žēlīgais, Pats par Sevi Pastāvošais, Līdzjūtīgais, V
 (Bahaiprayers.net ID: 2433)
 
 
-
+«[Latviešu](../lv/#bpn2433)» 
 
 
 
@@ -1834,7 +1834,7 @@ Tu esi Piedevējs, Tu esi Žēlotājs.
 (Bahaiprayers.net ID: 2434)
 
 
-
+«[Latviešu](../lv/#bpn2434)» 
 
 
 
@@ -1852,7 +1852,7 @@ Es lūdzu Tevi, ak visas esības Kungs, un visa redzamā un neredzamā Ķēniņ�
 (Bahaiprayers.net ID: 2435)
 
 
-
+«[Latviešu](../lv/#bpn2435)» 
 
 
 
@@ -1866,7 +1866,7 @@ Aiztaupi man smagus pārbaudījumus un dod man pajumti, un sargā mani Savā sti
 (Bahaiprayers.net ID: 2436)
 
 
-
+«[Latviešu](../lv/#bpn2436)» 
 
 
 
@@ -1881,7 +1881,7 @@ Patiesi, Tu esi Devējs, Dāsnais, Žēlīgais, Piedodošais!
 (Bahaiprayers.net ID: 2439)
 
 
-
+«[Latviešu](../lv/#bpn2439)» 
 
 
 
@@ -1930,7 +1930,7 @@ Es apliecinu Tavu vienību un vienesmi, un to, ka Tu esi Dievs un ka nav cita Di
 (Bahaiprayers.net ID: 2349)
 
 
-
+«[Latviešu](../lv/#bpn2349)» 
 
 
 
@@ -1947,7 +1947,7 @@ Patiesi, Tu esi viņu Palīgs un viņu Kungs.
 (Bahaiprayers.net ID: 2440)
 
 
-
+«[Latviešu](../lv/#bpn2440)» 
 
 
 
@@ -1960,7 +1960,7 @@ Patiesi, Tu esi Varenais, Pats par Sevi Pastāvošais, Devējs, Piedevējs, Atta
 (Bahaiprayers.net ID: 2441)
 
 
-
+«[Latviešu](../lv/#bpn2441)» 
 
 
 
@@ -1994,7 +1994,7 @@ Patiesi, Viņš ir Žēlīgais, Viņš ir Līdzcietīgais. Slava Dievam, visu Pa
 (Bahaiprayers.net ID: 2442)
 
 
-
+«[Latviešu](../lv/#bpn2442)» 
 
 
 
@@ -2017,7 +2017,7 @@ Nav neviena cita Dieva bez Tevis, Palīga briesmās, Paša par Sevi Pastāvošā
 (Bahaiprayers.net ID: 2348)
 
 
-
+«[Latviešu](../lv/#bpn2348)» 
 
 
 

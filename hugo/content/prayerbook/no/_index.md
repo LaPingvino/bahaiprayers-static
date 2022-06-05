@@ -96,7 +96,7 @@ Ved din makt! Hva enten jeg sover eller er våken, ber jeg ikke om annet enn det
 (Bahaiprayers.net ID: 3491)
 
 
-
+«[Norsk](../no/#bpn3491)» 
 
 
 
@@ -112,7 +112,7 @@ Ingen annen Gud er der enn deg, den allmektige, den altbetvingende, den absolutt
 (Bahaiprayers.net ID: 3492)
 
 
-
+«[Norsk](../no/#bpn3492)» 
 
 
 
@@ -164,7 +164,7 @@ Sannelig, han er den barmhjertige, den medlidende. Lovet være Gud, Herren over 
 (Bahaiprayers.net ID: 3585)
 
 
-
+«[Norsk](../no/#bpn3585)» 
 
 
 
@@ -184,7 +184,7 @@ Du er i sannhet den evig tilgivende, den mest barmhjertige.
 (Bahaiprayers.net ID: 3493)
 
 
-
+«[Norsk](../no/#bpn3493)» 
 
 
 
@@ -206,7 +206,7 @@ Lovet være Gud, Herren over alle verdener.
 (Bahaiprayers.net ID: 3494)
 
 
-
+«[Norsk](../no/#bpn3494)» 
 
 
 
@@ -218,7 +218,7 @@ O Gud, led meg, beskytt meg, gjør meg til en skinnende lampe og til en tindrend
 (Bahaiprayers.net ID: 3495)
 
 
-
+«[Norsk](../no/#bpn3495)» 
 
 
 
@@ -230,7 +230,7 @@ O Gud! Oppdra dette spebarn i din kjærlighets skjød, og gi det melk fra ditt f
 (Bahaiprayers.net ID: 3496)
 
 
-
+«[Norsk](../no/#bpn3496)» 
 
 
 
@@ -242,7 +242,7 @@ O Gud! Opplær disse barn. Disse barn er plantene i din frukthave, blomstene på
 (Bahaiprayers.net ID: 3497)
 
 
-
+«[Norsk](../no/#bpn3497)» 
 
 
 
@@ -256,7 +256,7 @@ O du den selvbestående Gud! Gjør meg fortrolig med det usettes rike. Sannelig,
 (Bahaiprayers.net ID: 3498)
 
 
-
+«[Norsk](../no/#bpn3498)» 
 
 
 
@@ -272,7 +272,7 @@ Sannelig, du er den sterke, den mektige, den seende, den hørende.
 (Bahaiprayers.net ID: 3499)
 
 
-
+«[Norsk](../no/#bpn3499)» 
 
 
 
@@ -307,7 +307,7 @@ Sannelig, vi er alle tålmodige i Gud.
 (Bahaiprayers.net ID: 3588)
 
 
-
+«[Norsk](../no/#bpn3588)» 
 
 
 
@@ -325,7 +325,7 @@ Der er ingen annen Gud enn deg, den ene, den uforlignelige, den allvitende, den 
 (Bahaiprayers.net ID: 3501)
 
 
-
+«[Norsk](../no/#bpn3501)» 
 
 
 
@@ -339,7 +339,7 @@ Beskytt ham også, o min Gud, ved din umåtelige veldes makt, mot alt som du avs
 (Bahaiprayers.net ID: 3502)
 
 
-
+«[Norsk](../no/#bpn3502)» 
 
 
 
@@ -361,7 +361,7 @@ Lovet være du, som er hele skapningens Herre.
 (Bahaiprayers.net ID: 3503)
 
 
-
+«[Norsk](../no/#bpn3503)» 
 
 
 
@@ -377,7 +377,7 @@ Du er sannelig den allmektige, den mest opphøyede, den evig tilgivende, den mes
 (Bahaiprayers.net ID: 3504)
 
 
-
+«[Norsk](../no/#bpn3504)» 
 
 
 
@@ -396,7 +396,7 @@ Umåtelig opphøyet er du, o Herre! Beskytt oss mot det som ligger foran oss og 
 (Bahaiprayers.net ID: 3500)
 
 
-
+«[Norsk](../no/#bpn3500)» 
 
 
 
@@ -408,7 +408,7 @@ O Gud, min Gud! Vern dine betrodde tjenere mot selvets og begjærets onder, besk
 (Bahaiprayers.net ID: 3505)
 
 
-
+«[Norsk](../no/#bpn3505)» 
 
 
 
@@ -438,7 +438,7 @@ Velsign du, o Herre min Gud, det Guddommelige Lotustre og dets blader og dets gr
 (Bahaiprayers.net ID: 3586)
 
 
-
+«[Norsk](../no/#bpn3586)» 
 
 
 
@@ -468,7 +468,7 @@ Du er giveren, den medfølende, den mest gavmilde, den nådige, den barmhjertige
 (Bahaiprayers.net ID: 3589)
 
 
-
+«[Norsk](../no/#bpn3589)» 
 
 
 
@@ -488,7 +488,7 @@ Lovpriset, umåtelig lovpriset er du! Du er elsket i din sannhet, og sannelig, d
 (Bahaiprayers.net ID: 3506)
 
 
-
+«[Norsk](../no/#bpn3506)» 
 
 
 
@@ -520,7 +520,7 @@ Der er ingen annen Gud enn deg, den ene, den eneste, den sterke, den allvitende,
 (Bahaiprayers.net ID: 3507)
 
 
-
+«[Norsk](../no/#bpn3507)» 
 
 
 
@@ -536,7 +536,7 @@ O min Herre! Rens dem for overtredelser, fordriv deres sorger, og gjør deres m�
 (Bahaiprayers.net ID: 3508)
 
 
-
+«[Norsk](../no/#bpn3508)» 
 
 
 
@@ -552,7 +552,7 @@ O min Gud! O min Gud! Foren dine tjeneres hjerter, og åpenbar for dem ditt stor
 (Bahaiprayers.net ID: 3509)
 
 
-
+«[Norsk](../no/#bpn3509)» 
 
 
 
@@ -572,7 +572,7 @@ Sannelig, du er den allmektige, den selvbestående, giveren, den tilgivende, den
 (Bahaiprayers.net ID: 3510)
 
 
-
+«[Norsk](../no/#bpn3510)» 
 
 
 
@@ -601,7 +601,7 @@ Der er ingen annen Gud enn deg, den allvitende, den allvise. All ære være Gud,
 (Bahaiprayers.net ID: 3590)
 
 
-
+«[Norsk](../no/#bpn3590)» 
 
 
 
@@ -617,7 +617,7 @@ Ditt navn er min helbredelse, o min Gud, og ihukommelse av deg er mitt legemidde
 (Bahaiprayers.net ID: 3511)
 
 
-
+«[Norsk](../no/#bpn3511)» 
 
 
 
@@ -631,7 +631,7 @@ Jeg bønnfaller deg derfor ved ditt navn hvorved du åpenbarte din guddom og opp
 (Bahaiprayers.net ID: 3512)
 
 
-
+«[Norsk](../no/#bpn3512)» 
 
 
 
@@ -729,7 +729,7 @@ Du er i sannhet den sterke, den evig fyldestgjørende, den helbredende, beskytte
 (Bahaiprayers.net ID: 3513)
 
 
-
+«[Norsk](../no/#bpn3513)» 
 
 
 
@@ -745,7 +745,7 @@ Du er i sannhet Herren over dette liv og over det neste. Du er, i sannhet, den e
 (Bahaiprayers.net ID: 3514)
 
 
-
+«[Norsk](../no/#bpn3514)» 
 
 
 
@@ -761,7 +761,7 @@ Mektig er du til å gjøre det som behager deg. Der er ikke noen annen Gud enn d
 (Bahaiprayers.net ID: 3515)
 
 
-
+«[Norsk](../no/#bpn3515)» 
 
 
 
@@ -775,7 +775,7 @@ Du er i sannhet helbrederen, beskytteren, hjelperen, den allmektige, den sterke,
 (Bahaiprayers.net ID: 3516)
 
 
-
+«[Norsk](../no/#bpn3516)» 
 
 
 
@@ -793,7 +793,7 @@ Du, i sannhet, er umåtelig opphøyet over alt annet enn deg selv. Du er sanneli
 (Bahaiprayers.net ID: 3517)
 
 
-
+«[Norsk](../no/#bpn3517)» 
 
 
 
@@ -811,7 +811,7 @@ O guddommelige forsyn! Alt som er til er unnfanget ved din nåde; berøv det ikk
 (Bahaiprayers.net ID: 3518)
 
 
-
+«[Norsk](../no/#bpn3518)» 
 
 
 
@@ -825,7 +825,7 @@ Du, i sannhet, er alle menneskers Konge. Der er ingen annen Gud enn deg, den evi
 (Bahaiprayers.net ID: 3519)
 
 
-
+«[Norsk](../no/#bpn3519)» 
 
 
 
@@ -941,7 +941,7 @@ Skulle alle tjenerne lese og overveie dette, så vil det i deres årer tennes en
 (Bahaiprayers.net ID: 3587)
 
 
-
+«[Norsk](../no/#bpn3587)» 
 
 
 
@@ -969,7 +969,7 @@ Du er i sannhet den allmektige, den allvitende, den best underrettede.
 (Bahaiprayers.net ID: 3591)
 
 
-
+«[Norsk](../no/#bpn3591)» 
 
 
 
@@ -993,7 +993,7 @@ Der er ingen annen Gud enn deg, hjelperen i fare, den selvbestående.
 (Bahaiprayers.net ID: 3488)
 
 
-
+«[Norsk](../no/#bpn3488)» 
 
 
 
@@ -1054,7 +1054,7 @@ Jeg vitner, o min Gud, om det som dine utvalgte har vitnet om, og erkjenner det 
 (Bahaiprayers.net ID: 3490)
 
 
-
+«[Norsk](../no/#bpn3490)» 
 
 
 
@@ -1070,7 +1070,7 @@ Vi ber til Gud om at han nådigst må hjelpe dem som er ført vill til å være 
 (Bahaiprayers.net ID: 3520)
 
 
-
+«[Norsk](../no/#bpn3520)» 
 
 
 
@@ -1088,7 +1088,7 @@ O Gud, tenn i dine elskedes hjerter din kjærlighets ild, slik at den kan fortæ
 (Bahaiprayers.net ID: 3521)
 
 
-
+«[Norsk](../no/#bpn3521)» 
 
 
 
@@ -1108,7 +1108,7 @@ Om mitt legeme enn pines av de prøvelser som vederfares meg fra deg, om det enn
 (Bahaiprayers.net ID: 3522)
 
 
-
+«[Norsk](../no/#bpn3522)» 
 
 
 
@@ -1133,7 +1133,7 @@ Jeg bønnfaller deg, o min Herre, ved ditt Største Navn hvorved du skilte lys f
 (Bahaiprayers.net ID: 3523)
 
 
-
+«[Norsk](../no/#bpn3523)» 
 
 
 
@@ -1151,7 +1151,7 @@ Hva som enn måtte hende oss, så bønnfaller vi om din urgamle tilgivelse, og s
 (Bahaiprayers.net ID: 3524)
 
 
-
+«[Norsk](../no/#bpn3524)» 
 
 
 
@@ -1171,7 +1171,7 @@ Vi er dine tjenere, o min Herre, og er i din makt. Om du straffer oss med den st
 (Bahaiprayers.net ID: 3525)
 
 
-
+«[Norsk](../no/#bpn3525)» 
 
 
 
@@ -1187,7 +1187,7 @@ Mektig er du til å gjøre det som behager deg. Du, i sannhet, er den overmåte 
 (Bahaiprayers.net ID: 3526)
 
 
-
+«[Norsk](../no/#bpn3526)» 
 
 
 
@@ -1207,7 +1207,7 @@ Du, i sannhet, er hele menneskehetens Herre og besitteren av denne verden og av 
 (Bahaiprayers.net ID: 3528)
 
 
-
+«[Norsk](../no/#bpn3528)» 
 
 
 
@@ -1221,7 +1221,7 @@ Jeg trygler deg enn videre, o min Gud, om å forordne for meg det som vil gjøre
 (Bahaiprayers.net ID: 3529)
 
 
-
+«[Norsk](../no/#bpn3529)» 
 
 
 
@@ -1237,7 +1237,7 @@ Du er i sannhet Herre over alle verdener og Gud over alle som er i himmelen og a
 (Bahaiprayers.net ID: 3530)
 
 
-
+«[Norsk](../no/#bpn3530)» 
 
 
 
@@ -1253,7 +1253,7 @@ Forherliget være ditt navn, o du som er alle kongers Konge!
 (Bahaiprayers.net ID: 3531)
 
 
-
+«[Norsk](../no/#bpn3531)» 
 
 
 
@@ -1273,7 +1273,7 @@ Hos deg ligger den absolutte myndighet til å befale.
 (Bahaiprayers.net ID: 3527)
 
 
-
+«[Norsk](../no/#bpn3527)» 
 
 
 
@@ -1293,7 +1293,7 @@ Alle er bare fattige og trengende, og du er i sannhet den altbesittende, den alt
 (Bahaiprayers.net ID: 3533)
 
 
-
+«[Norsk](../no/#bpn3533)» 
 
 
 
@@ -1311,7 +1311,7 @@ Du er den overmåte gavmilde, den nådige.
 (Bahaiprayers.net ID: 3534)
 
 
-
+«[Norsk](../no/#bpn3534)» 
 
 
 
@@ -1323,7 +1323,7 @@ O du som er herrenes Herre! Jeg bevitner at du er hele skapningens Herre, og opp
 (Bahaiprayers.net ID: 3535)
 
 
-
+«[Norsk](../no/#bpn3535)» 
 
 
 
@@ -1337,7 +1337,7 @@ Fra uminnelige tider har du vært mektig til å gjøre hva deg behager og suvere
 (Bahaiprayers.net ID: 3532)
 
 
-
+«[Norsk](../no/#bpn3532)» 
 
 
 
@@ -1363,7 +1363,7 @@ Du er den mektige og sterke, du er den tilgivende, og du er den som bærer over 
 (Bahaiprayers.net ID: 3536)
 
 
-
+«[Norsk](../no/#bpn3536)» 
 
 
 
@@ -1400,7 +1400,7 @@ Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er 
 (Bahaiprayers.net ID: 3489)
 
 
-
+«[Norsk](../no/#bpn3489)» 
 
 
 
@@ -1420,7 +1420,7 @@ Sannelig, du er giveren, den gavmilde, den barmhjertige, den tilgivende.
 (Bahaiprayers.net ID: 3537)
 
 
-
+«[Norsk](../no/#bpn3537)» 
 
 
 
@@ -1442,7 +1442,7 @@ O Gud! Betenk oss med ditt forsyn. Du er den sterke. Du er giveren. Du er den go
 (Bahaiprayers.net ID: 3593)
 
 
-
+«[Norsk](../no/#bpn3593)» 
 
 
 
@@ -1460,7 +1460,7 @@ Du er mektig. Du er sterk. Du er giveren, og du er den evig gavmilde.
 (Bahaiprayers.net ID: 3594)
 
 
-
+«[Norsk](../no/#bpn3594)» 
 
 
 
@@ -1476,7 +1476,7 @@ O Gud, min Gud! Vi er dine tjenere som har  end toss med hengivenhet mot ditt he
 (Bahaiprayers.net ID: 3595)
 
 
-
+«[Norsk](../no/#bpn3595)» 
 
 
 
@@ -1493,7 +1493,7 @@ Du er den tilgivende, den nådige.
 (Bahaiprayers.net ID: 3592)
 
 
-
+«[Norsk](../no/#bpn3592)» 
 
 
 
@@ -1521,7 +1521,7 @@ Du er i sannhet den allvitende, den allvise.
 (Bahaiprayers.net ID: 3596)
 
 
-
+«[Norsk](../no/#bpn3596)» 
 
 
 
@@ -1539,7 +1539,7 @@ Jeg har våknet under din beskyttelse, o min Gud, og det sømmer seg for den som
 (Bahaiprayers.net ID: 3538)
 
 
-
+«[Norsk](../no/#bpn3538)» 
 
 
 
@@ -1557,7 +1557,7 @@ Du er i sannhet alle menneskers Herre og Konge og har makt over alle ting.
 (Bahaiprayers.net ID: 3539)
 
 
-
+«[Norsk](../no/#bpn3539)» 
 
 
 
@@ -1581,7 +1581,7 @@ Du er i sannhet skaperverkets Herre. Ingen Gud er der utenom deg, den evig tilgi
 (Bahaiprayers.net ID: 3542)
 
 
-
+«[Norsk](../no/#bpn3542)» 
 
 
 
@@ -1593,7 +1593,7 @@ O du hvis prøvelser er et middel til legedom for dem som er deg nær, hvis sver
 (Bahaiprayers.net ID: 3543)
 
 
-
+«[Norsk](../no/#bpn3543)» 
 
 
 
@@ -1607,7 +1607,7 @@ La meg så vende meg helt og fullt mot deg, sette all min lit til deg, søke deg
 (Bahaiprayers.net ID: 3544)
 
 
-
+«[Norsk](../no/#bpn3544)» 
 
 
 
@@ -1625,7 +1625,7 @@ Mektig er du til å gjøre det som behager deg. Ingen annen Gud er der enn deg, 
 (Bahaiprayers.net ID: 3545)
 
 
-
+«[Norsk](../no/#bpn3545)» 
 
 
 
@@ -1637,7 +1637,7 @@ Finnes det noen som fjerner vanskeligheter uten Gud? Si: Lovet være Gud! Han er
 (Bahaiprayers.net ID: 3540)
 
 
-
+«[Norsk](../no/#bpn3540)» 
 
 
 
@@ -1649,7 +1649,7 @@ Si: Gud er alle ting tilstrekkelig fremfor alle ting, og intet i himlene eller p
 (Bahaiprayers.net ID: 3541)
 
 
-
+«[Norsk](../no/#bpn3541)» 
 
 
 
@@ -1665,7 +1665,7 @@ Ta under din beskyttelse, o du renhetens ånd, du som er den overmåte gavmilde 
 (Bahaiprayers.net ID: 3546)
 
 
-
+«[Norsk](../no/#bpn3546)» 
 
 
 
@@ -1681,7 +1681,7 @@ Si: O Gud, min Gud! Pryd mitt hode med rettferdighetens krone og ikle mitt tempe
 (Bahaiprayers.net ID: 3547)
 
 
-
+«[Norsk](../no/#bpn3547)» 
 
 
 
@@ -1697,7 +1697,7 @@ Lys og herlighet, hyllest og lovprisning være over hans Saks Hender, ved hvem s
 (Bahaiprayers.net ID: 3597)
 
 
-
+«[Norsk](../no/#bpn3597)» 
 
 
 
@@ -1717,7 +1717,7 @@ Lovet være du, o du som er elsket av dem som har kjent deg!
 (Bahaiprayers.net ID: 3548)
 
 
-
+«[Norsk](../no/#bpn3548)» 
 
 
 
@@ -1733,7 +1733,7 @@ Du er sannelig maktens Gud, hjelperen i fare, den overmåte herlige, den allmekt
 (Bahaiprayers.net ID: 3549)
 
 
-
+«[Norsk](../no/#bpn3549)» 
 
 
 
@@ -1749,7 +1749,7 @@ Du er den medlidende, den barmhjertige. Du er den store, velgjørende Gud.
 (Bahaiprayers.net ID: 3550)
 
 
-
+«[Norsk](../no/#bpn3550)» 
 
 
 
@@ -1767,7 +1767,7 @@ O min Herre, jeg vier det  uns t I mitt morsliv til deg. Gjør det derfor til et
 (Bahaiprayers.net ID: 3599)
 
 
-
+«[Norsk](../no/#bpn3599)» 
 
 
 
@@ -1783,7 +1783,7 @@ Du ser meg, o min Herre, med mitt ansikt vendt mot din gavmildhets himmel og din
 (Bahaiprayers.net ID: 3552)
 
 
-
+«[Norsk](../no/#bpn3552)» 
 
 
 
@@ -1797,7 +1797,7 @@ Jeg er, o min Gud, din tjener og sønn av din tjener. Jeg har erkjent din sannhe
 (Bahaiprayers.net ID: 3553)
 
 
-
+«[Norsk](../no/#bpn3553)» 
 
 
 
@@ -1813,7 +1813,7 @@ Tilgi så, o min Herre, dine tjenere og dine tjenerinner. Du er i sannhet den ev
 (Bahaiprayers.net ID: 3554)
 
 
-
+«[Norsk](../no/#bpn3554)» 
 
 
 
@@ -1825,7 +1825,7 @@ Lovet være du, o Herre. Tilgi oss våre synder, ha barmhjertighet med oss og gj
 (Bahaiprayers.net ID: 3551)
 
 
-
+«[Norsk](../no/#bpn3551)» 
 
 
 
@@ -1843,7 +1843,7 @@ Gjør dine tjeneres ansikter forklaret, o Herre, slik at de kan skue deg; og ren
 (Bahaiprayers.net ID: 3557)
 
 
-
+«[Norsk](../no/#bpn3557)» 
 
 
 
@@ -1859,7 +1859,7 @@ Siden du har ledet dem, o min Herre, til din nådes levende vann, så gi ved din
 (Bahaiprayers.net ID: 3558)
 
 
-
+«[Norsk](../no/#bpn3558)» 
 
 
 
@@ -1877,7 +1877,7 @@ Du er i sannhet styrkens og maktens Gud, som er den rette til å svare dem som b
 (Bahaiprayers.net ID: 3559)
 
 
-
+«[Norsk](../no/#bpn3559)» 
 
 
 
@@ -1889,7 +1889,7 @@ O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil 
 (Bahaiprayers.net ID: 3560)
 
 
-
+«[Norsk](../no/#bpn3560)» 
 
 
 
@@ -1901,7 +1901,7 @@ O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil 
 (Bahaiprayers.net ID: 3561)
 
 
-
+«[Norsk](../no/#bpn3561)» 
 
 
 
@@ -1919,7 +1919,7 @@ Jeg ber deg inderlig, o du tilværelsens Konge og beskytter av det sette og det 
 (Bahaiprayers.net ID: 3562)
 
 
-
+«[Norsk](../no/#bpn3562)» 
 
 
 
@@ -1931,7 +1931,7 @@ Priset være ditt navn, o Gud. Du er i sannhet vår Herre; du er oppmerksom på 
 (Bahaiprayers.net ID: 3555)
 
 
-
+«[Norsk](../no/#bpn3555)» 
 
 
 
@@ -1949,7 +1949,7 @@ Gi du, o Herre, at deres hjerter -gjennom troskap mot denne din ukrenkelige tro 
 (Bahaiprayers.net ID: 3556)
 
 
-
+«[Norsk](../no/#bpn3556)» 
 
 
 
@@ -1967,7 +1967,7 @@ Sannelig, du er den sterke, den mektige, den vise og den seende.
 (Bahaiprayers.net ID: 3563)
 
 
-
+«[Norsk](../no/#bpn3563)» 
 
 
 
@@ -1983,7 +1983,7 @@ Sannelig, du er den sterke, den veldige og den allmektige, og du er den vise, de
 (Bahaiprayers.net ID: 3564)
 
 
-
+«[Norsk](../no/#bpn3564)» 
 
 
 
@@ -2001,7 +2001,7 @@ Sannelig, du bestyrker hvem du vil i det som du ønsker, og sannelig, du er den 
 (Bahaiprayers.net ID: 3565)
 
 
-
+«[Norsk](../no/#bpn3565)» 
 
 
 
@@ -2020,7 +2020,7 @@ Sannelig, du er den milde, den sterke, den mektige, og den nådigste av de nådi
 (Bahaiprayers.net ID: 3566)
 
 
-
+«[Norsk](../no/#bpn3566)» 
 
 
 
@@ -2034,7 +2034,7 @@ O Herre! Jeg er enslig, alene og ubetydelig. For meg er der ingen annen støtte 
 (Bahaiprayers.net ID: 3567)
 
 
-
+«[Norsk](../no/#bpn3567)» 
 
 
 
@@ -2048,7 +2048,7 @@ Du er den allmektige og den som gjør hva du enn vil.
 (Bahaiprayers.net ID: 3568)
 
 
-
+«[Norsk](../no/#bpn3568)» 
 
 
 
@@ -2066,7 +2066,7 @@ Naken er jeg, o min Gud! Kle meg med dine kjærlige velsignelsers kappe. Jeg er 
 (Bahaiprayers.net ID: 3570)
 
 
-
+«[Norsk](../no/#bpn3570)» 
 
 
 
@@ -2082,7 +2082,7 @@ Du er i sannhet den evig tilgivende, den mest medlidende.
 (Bahaiprayers.net ID: 3571)
 
 
-
+«[Norsk](../no/#bpn3571)» 
 
 
 
@@ -2096,7 +2096,7 @@ Forherliget er du, o Herre! I sannhet er jeg fattig mens du visselig er rik; i s
 (Bahaiprayers.net ID: 3569)
 
 
-
+«[Norsk](../no/#bpn3569)» 
 
 
 
@@ -2118,7 +2118,7 @@ Og da han ønsket å vise nåde og velgjørenhet overfor menneskene, og å skape
 (Bahaiprayers.net ID: 3600)
 
 
-
+«[Norsk](../no/#bpn3600)» 
 
 
 
@@ -2133,7 +2133,7 @@ O min Herre, jeg vier det  uns t I mitt morsliv til deg. Gjør det derfor til et
 (Bahaiprayers.net ID: 3598)
 
 
-
+«[Norsk](../no/#bpn3598)» 
 
 
 
@@ -2147,7 +2147,7 @@ O du gode Herre! La du dette ekteskap frembringe koraller og perler. Du er i san
 (Bahaiprayers.net ID: 3601)
 
 
-
+«[Norsk](../no/#bpn3601)» 
 
 
 
@@ -2159,7 +2159,7 @@ O du gode Herre! La du dette ekteskap frembringe koraller og perler. Du er i san
 (Bahaiprayers.net ID: 3602)
 
 
-
+«[Norsk](../no/#bpn3602)» 
 
 
 
@@ -2177,7 +2177,7 @@ Mektig er du til å gjøre det som deg behager. Du er i sannhet den mest opphøy
 (Bahaiprayers.net ID: 3574)
 
 
-
+«[Norsk](../no/#bpn3574)» 
 
 
 
@@ -2195,7 +2195,7 @@ Mektig er du til å gjøre det som deg behager. Du er i sannhet den allmektige, 
 (Bahaiprayers.net ID: 3575)
 
 
-
+«[Norsk](../no/#bpn3575)» 
 
 
 
@@ -2211,7 +2211,7 @@ Jeg er idel ynkelighet, o min Herre, og du er den sterkeste, den allmektige. For
 (Bahaiprayers.net ID: 3576)
 
 
-
+«[Norsk](../no/#bpn3576)» 
 
 
 
@@ -2231,7 +2231,7 @@ Der er ingen annen Gud enn deg, den allmektige, den velgjørende.
 (Bahaiprayers.net ID: 3577)
 
 
-
+«[Norsk](../no/#bpn3577)» 
 
 
 
@@ -2245,7 +2245,7 @@ Tillat denne tjener, bønnfaller jeg deg, å nå frem til det som er kilden til 
 (Bahaiprayers.net ID: 3578)
 
 
-
+«[Norsk](../no/#bpn3578)» 
 
 
 
@@ -2259,7 +2259,7 @@ Du er i sannhet den allmektige, den overmåte herlige, den sterkeste.
 (Bahaiprayers.net ID: 3579)
 
 
-
+«[Norsk](../no/#bpn3579)» 
 
 
 
@@ -2271,7 +2271,7 @@ Skap i meg et rent hjerte, o min Gud, og gi meg på ny en rolig samvittighet, o 
 (Bahaiprayers.net ID: 3580)
 
 
-
+«[Norsk](../no/#bpn3580)» 
 
 
 
@@ -2293,7 +2293,7 @@ Sannelig, du er den overmåte sterke, beskytteren, den allmektige, den selvbest�
 (Bahaiprayers.net ID: 3572)
 
 
-
+«[Norsk](../no/#bpn3572)» 
 
 
 
@@ -2309,7 +2309,7 @@ Sannelig, der finnes ingen kraft eller styrke uten i deg.
 (Bahaiprayers.net ID: 3573)
 
 
-
+«[Norsk](../no/#bpn3573)» 
 
 
 
@@ -2323,7 +2323,7 @@ O Gud! Du er en bedre venn for meg enn jeg selv er. Jeg vier meg til deg, o Herr
 (Bahaiprayers.net ID: 3581)
 
 
-
+«[Norsk](../no/#bpn3581)» 
 
 
 
@@ -2337,7 +2337,7 @@ Sannelig, du er den mest gavmilde, den overmåte nådige Herre. Der er ingen ann
 (Bahaiprayers.net ID: 3582)
 
 
-
+«[Norsk](../no/#bpn3582)» 
 
 
 
@@ -2349,7 +2349,7 @@ O min Herre! O min Herre! Dette er en lampe som er tent av din kjærlighets ild 
 (Bahaiprayers.net ID: 3583)
 
 
-
+«[Norsk](../no/#bpn3583)» 
 
 
 
@@ -2361,7 +2361,7 @@ O min herlige Herre! Hjelp meg til å avstå fra enhver avvikende tilbøyelighet
 (Bahaiprayers.net ID: 3584)
 
 
-
+«[Norsk](../no/#bpn3584)» 
 
 
 

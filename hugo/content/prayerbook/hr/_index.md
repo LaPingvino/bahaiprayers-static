@@ -80,7 +80,7 @@ On je Darovatelj, Dobrostivi! Hvaljen bio Bog, Drevni, Vjekovječni, Nepromjenjl
 (Bahaiprayers.net ID: 3891)
 
 
-
+«[Hrvatski](../hr/#bpn3891)» 
 
 
 
@@ -92,7 +92,7 @@ Slava Tebi, o, Bože moj! Doista ovaj sluga Tvoj i službenica Tvoja udružili s
 (Bahaiprayers.net ID: 3892)
 
 
-
+«[Hrvatski](../hr/#bpn3892)» 
 
 
 
@@ -104,7 +104,7 @@ On je Bog! O, Gospode Neusporedivi! U Tvojoj svemogućoj mudrosti podario si lju
 (Bahaiprayers.net ID: 3893)
 
 
-
+«[Hrvatski](../hr/#bpn3893)» 
 
 
 
@@ -120,7 +120,7 @@ Stvori me čista srca, o, Bože moj, i obnovi moju mirnu savjest, o, Nado moja! 
 (Bahaiprayers.net ID: 3898)
 
 
-
+«[Hrvatski](../hr/#bpn3898)» 
 
 
 
@@ -138,7 +138,7 @@ O, Božanska Providnosti! Sve što postoji začeto je Tvojom dobrotom; ne uskrat
 (Bahaiprayers.net ID: 3899)
 
 
-
+«[Hrvatski](../hr/#bpn3899)» 
 
 
 
@@ -154,7 +154,7 @@ Ime Tvoje moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvoj
 (Bahaiprayers.net ID: 3900)
 
 
-
+«[Hrvatski](../hr/#bpn3900)» 
 
 
 
@@ -170,7 +170,7 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih slugu i otkrij im Svoj veliki ci
 (Bahaiprayers.net ID: 3901)
 
 
-
+«[Hrvatski](../hr/#bpn3901)» 
 
 
 
@@ -188,7 +188,7 @@ Otkrij nam, o, Bože, Svoju uzvišenu vječnost- da si Ti oduvijek bio i da će�
 (Bahaiprayers.net ID: 3902)
 
 
-
+«[Hrvatski](../hr/#bpn3902)» 
 
 
 
@@ -208,7 +208,7 @@ Doista, Ti si Svemogući, Samodovoljni, Darovatelj, Oprostitelj, Ti Praštaš, S
 (Bahaiprayers.net ID: 3903)
 
 
-
+«[Hrvatski](../hr/#bpn3903)» 
 
 
 
@@ -224,7 +224,7 @@ Probudih se u Tvom zaklonu, o, moj Bože, a onome koji Taj zaklon traži prilič
 (Bahaiprayers.net ID: 3904)
 
 
-
+«[Hrvatski](../hr/#bpn3904)» 
 
 
 
@@ -240,7 +240,7 @@ Oboružanog snagom Tvog imena ništa me nikada ne može povrijediti, s Tvojom lj
 (Bahaiprayers.net ID: 3905)
 
 
-
+«[Hrvatski](../hr/#bpn3905)» 
 
 
 
@@ -252,7 +252,7 @@ Ima li drugog Otklonitelja poteškoća osim Boga? Recite: Hvaljen bio Bog! On je
 (Bahaiprayers.net ID: 3906)
 
 
-
+«[Hrvatski](../hr/#bpn3906)» 
 
 
 
@@ -264,7 +264,7 @@ Recite: Bog dostaje svim stvarima iznad svih stvari, i ništa u nebu ili na zeml
 (Bahaiprayers.net ID: 3907)
 
 
-
+«[Hrvatski](../hr/#bpn3907)» 
 
 
 
@@ -276,7 +276,7 @@ Zaklinjem Te Tvojom moći, o, moj Bože! Ne daj da me zadesi ikakvo zlo u doba k
 (Bahaiprayers.net ID: 3908)
 
 
-
+«[Hrvatski](../hr/#bpn3908)» 
 
 
 
@@ -306,7 +306,7 @@ Oslobodi jezik moj da bi hvalio Tvoje Ime među Tvojim narodom, da bi se moj gla
 (Bahaiprayers.net ID: 3909)
 
 
-
+«[Hrvatski](../hr/#bpn3909)» 
 
 
 
@@ -322,7 +322,7 @@ O, Bože! Ozari ovog mladca i prenesi dobrotu Svoju na ovo jadno stvorenje. Poda
 (Bahaiprayers.net ID: 3910)
 
 
-
+«[Hrvatski](../hr/#bpn3910)» 
 
 
 
@@ -342,7 +342,7 @@ O, moj Gospodine! Digni koprenu s očiju njegovih. Izlij na njega dobrotu Svoju,
 (Bahaiprayers.net ID: 3911)
 
 
-
+«[Hrvatski](../hr/#bpn3911)» 
 
 
 
@@ -362,7 +362,7 @@ Tvoje mi moći! Ne tražim ništa ni u snu niti na javi, do li onoga što Ti že
 (Bahaiprayers.net ID: 3912)
 
 
-
+«[Hrvatski](../hr/#bpn3912)» 
 
 
 
@@ -378,7 +378,7 @@ O, Bože, moj Bože! Preklinjem Te krvlju onih koji Te istinski ljube, koji su s
 (Bahaiprayers.net ID: 3913)
 
 
-
+«[Hrvatski](../hr/#bpn3913)» 
 
 
 
@@ -394,7 +394,7 @@ Blagoslovi me, o, Bože moj, i one koji će vjerovati u Tvoje znamenje na određ
 (Bahaiprayers.net ID: 3914)
 
 
-
+«[Hrvatski](../hr/#bpn3914)» 
 
 
 
@@ -414,7 +414,7 @@ Preklinjem Te, o, moj Gospodine, Njime Koji je Tvoje Ime, Koji se, snagom Tvog v
 (Bahaiprayers.net ID: 3915)
 
 
-
+«[Hrvatski](../hr/#bpn3915)» 
 
 
 
@@ -426,7 +426,7 @@ O, moj Bože, moj Gospode i moj Gospodaru! Odvojio sam se od svoje rodbine i nas
 (Bahaiprayers.net ID: 3916)
 
 
-
+«[Hrvatski](../hr/#bpn3916)» 
 
 
 
@@ -450,7 +450,7 @@ Neka se moje srce ispuni radošću i duhom potvrde iz Tvog Kraljevstva, a moje o
 (Bahaiprayers.net ID: 3917)
 
 
-
+«[Hrvatski](../hr/#bpn3917)» 
 
 
 
@@ -472,7 +472,7 @@ Ti imaš moć činiti što poželiš; nema Boga osim Tebe, Sveslavnog, koji vje�
 (Bahaiprayers.net ID: 3918)
 
 
-
+«[Hrvatski](../hr/#bpn3918)» 
 
 
 
@@ -484,7 +484,7 @@ Slava Tebi, o, Gospode. Oprosti nam grijehe naše, smiluj nam se i pomozi nam da
 (Bahaiprayers.net ID: 3919)
 
 
-
+«[Hrvatski](../hr/#bpn3919)» 
 
 
 
@@ -496,7 +496,7 @@ O, Ti, Gospode koji praštaš! Ti si zaklon svih ovih slugu Tvojih. Ti znaš taj
 (Bahaiprayers.net ID: 3920)
 
 
-
+«[Hrvatski](../hr/#bpn3920)» 
 
 
 
@@ -518,7 +518,7 @@ Ti, uistinu, jesi Kralj svih ljudi, nema drugog Boga do li Tebe, Koji sve prašt
 (Bahaiprayers.net ID: 3921)
 
 
-
+«[Hrvatski](../hr/#bpn3921)» 
 
 
 
@@ -534,7 +534,7 @@ Oprosti tad, o, moj Gospode, Svojim slugama i službenicama. Ti uistinu jesi Ona
 (Bahaiprayers.net ID: 3922)
 
 
-
+«[Hrvatski](../hr/#bpn3922)» 
 
 
 
@@ -546,7 +546,7 @@ O, Gospodine, Bože moj! Pomozi svojim ljubljenima da budu čvrsti u Tvojoj Vjer
 (Bahaiprayers.net ID: 3923)
 
 
-
+«[Hrvatski](../hr/#bpn3923)» 
 
 
 
@@ -562,7 +562,7 @@ Daj nam kruh naš svagdašnji i udovolji našim životnim potrebama da ne ovisim
 (Bahaiprayers.net ID: 3924)
 
 
-
+«[Hrvatski](../hr/#bpn3924)» 
 
 
 
@@ -578,7 +578,7 @@ Ti si, doista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
 (Bahaiprayers.net ID: 3925)
 
 
-
+«[Hrvatski](../hr/#bpn3925)» 
 
 
 
@@ -598,7 +598,7 @@ Uistinu, Ti si davalac, Velikodušni, Milosrdni, Oprostitelj.
 (Bahaiprayers.net ID: 3926)
 
 
-
+«[Hrvatski](../hr/#bpn3926)» 
 
 
 
@@ -614,7 +614,7 @@ O, Moj Bože i moja Nado! Pomozi svojim ljubljenima da budu postojani u Tvojoj m
 (Bahaiprayers.net ID: 3927)
 
 
-
+«[Hrvatski](../hr/#bpn3927)» 
 
 
 
@@ -630,7 +630,7 @@ Ti si Oprostitelj, Milosrdni.
 (Bahaiprayers.net ID: 3928)
 
 
-
+«[Hrvatski](../hr/#bpn3928)» 
 
 
 
@@ -646,7 +646,7 @@ Bit svega što Smo ti otkrili jest Pravda, dana je čovjeku da bi se oslobodio j
 (Bahaiprayers.net ID: 3929)
 
 
-
+«[Hrvatski](../hr/#bpn3929)» 
 
 
 
@@ -658,7 +658,7 @@ Recite: O, Bože, moj Bože! Okiti moju glavu krunom pravde, a moj hram uresom p
 (Bahaiprayers.net ID: 3930)
 
 
-
+«[Hrvatski](../hr/#bpn3930)» 
 
 
 
@@ -674,7 +674,7 @@ Smrt nudi svakom odanom vjerniku pehar koji je uistinu život… Ona daje dar ž
 (Bahaiprayers.net ID: 3931)
 
 
-
+«[Hrvatski](../hr/#bpn3931)» 
 
 
 
@@ -686,7 +686,7 @@ O, Bože moj! O, Ti, Oprostitelju grijeha! O, Davatelju darova! Otklonitelju jad
 (Bahaiprayers.net ID: 3932)
 
 
-
+«[Hrvatski](../hr/#bpn3932)» 
 
 
 
@@ -702,7 +702,7 @@ Pristaje im da kao najbolju opremu za put odaberu uzdanje u Boga i zaogrnu se lj
 (Bahaiprayers.net ID: 3933)
 
 
-
+«[Hrvatski](../hr/#bpn3933)» 
 
 
 
@@ -714,7 +714,7 @@ O, Bože, moj Bože! Krenuh iz svog doma čvrsto se držeći niti Tvoje ljubavi 
 (Bahaiprayers.net ID: 3934)
 
 
-
+«[Hrvatski](../hr/#bpn3934)» 
 
 
 
@@ -730,7 +730,7 @@ Ti vidiš, o, Gospode, naše molećive ruke podignute ka nebu Tvoje naklonosti i
 (Bahaiprayers.net ID: 3936)
 
 
-
+«[Hrvatski](../hr/#bpn3936)» 
 
 
 
@@ -742,7 +742,7 @@ Blagoslovljen onaj koji se sjeća svojih roditelja u razgovoru s Bogom.
 (Bahaiprayers.net ID: 3935)
 
 
-
+«[Hrvatski](../hr/#bpn3935)» 
 
 
 
@@ -756,7 +756,7 @@ O, Bože moj! Potaknuo si dušu moju da Ti uputi ovu molbu, i da nije radi Tebe,
 (Bahaiprayers.net ID: 3937)
 
 
-
+«[Hrvatski](../hr/#bpn3937)» 
 
 
 
@@ -768,7 +768,7 @@ O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoj
 (Bahaiprayers.net ID: 3938)
 
 
-
+«[Hrvatski](../hr/#bpn3938)» 
 
 
 
@@ -781,7 +781,7 @@ O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoj
 (Bahaiprayers.net ID: 3939)
 
 
-
+«[Hrvatski](../hr/#bpn3939)» 
 
 
 
@@ -797,7 +797,7 @@ O, Bože! Doista, okupili smo se ovdje u miomirisu Tvoje ljubavi. Okrenusmo se T
 (Bahaiprayers.net ID: 3940)
 
 
-
+«[Hrvatski](../hr/#bpn3940)» 
 
 
 
@@ -820,7 +820,7 @@ Nema Boga osim Tebe, Svemoćnog, Svevišnjeg, Sveslavnog, Samoopstojnog.
 (Bahaiprayers.net ID: 3941)
 
 
-
+«[Hrvatski](../hr/#bpn3941)» 
 
 
 
@@ -834,7 +834,7 @@ Dopusti da budem jedna od službenica Tvojih koje radost Tvoju dosegnuše. Uisti
 (Bahaiprayers.net ID: 3942)
 
 
-
+«[Hrvatski](../hr/#bpn3942)» 
 
 
 
@@ -848,7 +848,7 @@ Ti si darovatelj, Ti ljubiš.
 (Bahaiprayers.net ID: 3943)
 
 
-
+«[Hrvatski](../hr/#bpn3943)» 
 
 
 
@@ -870,7 +870,7 @@ Moćan si Ti činiti što Te volja. Ti si, doista, Pomoć u Nevolji, Samoodržav
 (Bahaiprayers.net ID: 3944)
 
 
-
+«[Hrvatski](../hr/#bpn3944)» 
 
 
 
@@ -884,7 +884,7 @@ Od pamtivijeka Ti si moćan činiti što Ti se sviđa i nadilaziš sve.
 (Bahaiprayers.net ID: 3945)
 
 
-
+«[Hrvatski](../hr/#bpn3945)» 
 
 
 
@@ -900,7 +900,7 @@ O, službenice Milosrdnoga! Dano vam je u dužnost odgajati djecu od najranije d
 (Bahaiprayers.net ID: 3946)
 
 
-
+«[Hrvatski](../hr/#bpn3946)» 
 
 
 
@@ -914,7 +914,7 @@ O, Gospode moj, Tebi posvećujem ono što je u utrobi mojoj. Tvojom naklonošću
 (Bahaiprayers.net ID: 3947)
 
 
-
+«[Hrvatski](../hr/#bpn3947)» 
 
 
 
@@ -936,7 +936,7 @@ Molimo Te, o, Providnosti, da pokažeš Svij put svim ljudima i da ih vodiš pra
 (Bahaiprayers.net ID: 3948)
 
 
-
+«[Hrvatski](../hr/#bpn3948)» 
 
 
 
@@ -948,7 +948,7 @@ Molimo Boga da milostivo pomogne onima koji skrenuše s puta da postanu pravedni
 (Bahaiprayers.net ID: 3949)
 
 
-
+«[Hrvatski](../hr/#bpn3949)» 
 
 
 
@@ -960,7 +960,7 @@ Slavljen si, o, Gospodine moj Bože! Izlij, preklinjem Te, iz oblaka Tvoje obiln
 (Bahaiprayers.net ID: 3950)
 
 
-
+«[Hrvatski](../hr/#bpn3950)» 
 
 
 
@@ -980,7 +980,7 @@ Ti si doista Svemogući, Svevišnji, Uvijek praštaš i Najvelikodušniji.
 (Bahaiprayers.net ID: 3951)
 
 
-
+«[Hrvatski](../hr/#bpn3951)» 
 
 
 
@@ -992,7 +992,7 @@ Ti si doista Svemogući, Svevišnji, Uvijek praštaš i Najvelikodušniji.
 (Bahaiprayers.net ID: 3953)
 
 
-
+«[Hrvatski](../hr/#bpn3953)» 
 
 
 
@@ -1008,7 +1008,7 @@ Uistinu, Ti si Zaštitnik, Čuvar, Branilac, Udovoljitelj I, doista, Ti si Milos
 (Bahaiprayers.net ID: 3952)
 
 
-
+«[Hrvatski](../hr/#bpn3952)» 
 
 
 
@@ -1028,7 +1028,7 @@ Ti si moćni i snažni, Ti praštaš i Onaj si koji previđa mane čovječanstva
 (Bahaiprayers.net ID: 3894)
 
 
-
+«[Hrvatski](../hr/#bpn3894)» 
 
 
 
@@ -1040,7 +1040,7 @@ O, Bože! Slabi smo; daj nam snage. siromašni smo, udijeli nam Svoja bezgranič
 (Bahaiprayers.net ID: 3895)
 
 
-
+«[Hrvatski](../hr/#bpn3895)» 
 
 
 
@@ -1054,7 +1054,7 @@ O, Bože, vodi me, učini me sjajnom svjetiljkom i blistavom zvijezdom. Ti si Mo
 (Bahaiprayers.net ID: 3896)
 
 
-
+«[Hrvatski](../hr/#bpn3896)» 
 
 
 
@@ -1066,7 +1066,7 @@ O, Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na Tv
 (Bahaiprayers.net ID: 3897)
 
 
-
+«[Hrvatski](../hr/#bpn3897)» 
 
 
 

@@ -67,7 +67,7 @@ hath been made, and His praise glorified.
 (Bahaiprayers.net ID: 6846)
 
 
-
+«[American Indian](../nai-US/#bpn6846)» 
 
 
 
@@ -81,7 +81,7 @@ O Son of Spirit!  My first counsel is this: Possess a pure, kindly and radiant
 (Bahaiprayers.net ID: 5406)
 
 
-
+«[American Indian](../nai-US/#bpn5406)» 
 
 
 
@@ -97,7 +97,7 @@ O Gitchi - Manitou! Kegagwetchemin chiminut, ni - manitoum chi - min - ain - dun
 (Bahaiprayers.net ID: 5405)
 
 
-
+«[American Indian](../nai-US/#bpn5405)» 
 
 
 
@@ -116,7 +116,7 @@ Osi vitte Kueichanchyo, netitinihsha, Nit tsut, Kititihchya tenitenitutula. Kenj
 (Bahaiprayers.net ID: 4156)
 
 
-
+«[American Indian](../nai-US/#bpn4156)» 
 
 
 
@@ -130,7 +130,7 @@ Ma Mi-shitz-pul quootch-man, O Myha, puy me-cha Myha coo-see-eye. Hull-pie r Myh
 (Bahaiprayers.net ID: 4154)
 
 
-
+«[American Indian](../nai-US/#bpn4154)» 
 
 
 
@@ -144,7 +144,7 @@ My-shin ta-pow mauw Ma-eye Myha cum-lie Anusch? Keye Myha a-chan! Ne-ip Myah! Ne
 (Bahaiprayers.net ID: 4155)
 
 
-
+«[American Indian](../nai-US/#bpn4155)» 
 
 
 
@@ -161,7 +161,7 @@ Qua-han, Myha Muk-u-wik Myha Quaw-tie.
 (Bahaiprayers.net ID: 4153)
 
 
-
+«[American Indian](../nai-US/#bpn4153)» 
 
 
 
@@ -199,7 +199,7 @@ Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟaw
 (Bahaiprayers.net ID: 8003)
 
 
-
+«[American Indian](../nai-US/#bpn8003)» 
 
 
 
@@ -226,7 +226,7 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 4275)
 
 
-
+«[American Indian](../nai-US/#bpn4275)» 
 
 
 
@@ -248,7 +248,7 @@ Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičhúŋhaŋ waw
 (Bahaiprayers.net ID: 4142)
 
 
-
+«[American Indian](../nai-US/#bpn4142)» 
 
 
 
@@ -262,7 +262,7 @@ Nita Caje he woakisni mitawa, o mita Wakan Tanka, na ciksuye ki han he ookiye mi
 (Bahaiprayers.net ID: 4274)
 
 
-
+«[American Indian](../nai-US/#bpn4274)» 
 
 
 
@@ -277,7 +277,7 @@ Awicalustanpiktesni, tka, Nita wooslolye oiyoyanpa ogna siowepi cankuwicayayinkt
 (Bahaiprayers.net ID: 4273)
 
 
-
+«[American Indian](../nai-US/#bpn4273)» 
 
 
 
@@ -289,7 +289,7 @@ Oyáŋke kiŋ na thípi kiŋ yawáštepi na owáŋka kiŋ, na otȟúŋwahe kiŋ 
 (Bahaiprayers.net ID: 4139)
 
 
-
+«[American Indian](../nai-US/#bpn4139)» 
 
 
 
@@ -303,7 +303,7 @@ Wakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú.  Heyá po: Wakȟá�
 (Bahaiprayers.net ID: 4140)
 
 
-
+«[American Indian](../nai-US/#bpn4140)» 
 
 
 
@@ -318,7 +318,7 @@ Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wí
 (Bahaiprayers.net ID: 4141)
 
 
-
+«[American Indian](../nai-US/#bpn4141)» 
 
 
 
@@ -337,7 +337,7 @@ Bikeguidan ne na sha: Bikeguidan nibika’ nshinzti negusií, ashi ni chi itedis
 (Bahaiprayers.net ID: 4161)
 
 
-
+«[American Indian](../nai-US/#bpn4161)» 
 
 
 
@@ -356,7 +356,7 @@ Kiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.
 (Bahaiprayers.net ID: 4145)
 
 
-
+«[American Indian](../nai-US/#bpn4145)» 
 
 
 
@@ -370,7 +370,7 @@ Iwásh: Manto wustô tapi cáqansh wámi wáwápi cáqansh wámi qa mucáq ayôm
 (Bahaiprayers.net ID: 4144)
 
 
-
+«[American Indian](../nai-US/#bpn4144)» 
 
 
 
@@ -384,7 +384,7 @@ Qutaháwowi Kuqunôhqusuw, O Manto! Pohqasunan wucina matôpáwôk wuci áyhqapi
 (Bahaiprayers.net ID: 4143)
 
 
-
+«[American Indian](../nai-US/#bpn4143)» 
 
 
 
@@ -403,7 +403,7 @@ Nu vo ada han e cuda e Tanawa Tanawa e wap pie-it nush ta Weed cada my a too Wee
 (Bahaiprayers.net ID: 4164)
 
 
-
+«[American Indian](../nai-US/#bpn4164)» 
 
 
 
@@ -424,7 +424,7 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 4171)
 
 
-
+«[American Indian](../nai-US/#bpn4171)» 
 
 
 
@@ -441,7 +441,7 @@ Ni, t’áá ‘aní, t’áá ‘altsoní Baanidlee’ t’áá ‘altsóní  N
 (Bahaiprayers.net ID: 4170)
 
 
-
+«[American Indian](../nai-US/#bpn4170)» 
 
 
 
@@ -458,7 +458,7 @@ T’áá “aaníí, Ni bíká ‘anánílwo’í í Nílí áádóó Binanit’
 (Bahaiprayers.net ID: 4169)
 
 
-
+«[American Indian](../nai-US/#bpn4169)» 
 
 
 
@@ -472,7 +472,7 @@ Bik’ihojidlíigo haz’á lahgo, ‘índa dahooghangóó dóó dabinaagóó d�
 (Bahaiprayers.net ID: 4167)
 
 
-
+«[American Indian](../nai-US/#bpn4167)» 
 
 
 
@@ -486,7 +486,7 @@ Aláahdi Diyin Nilíinii ts’ídá daats’í ’éí t’éiyá yá’át’é
 (Bahaiprayers.net ID: 4168)
 
 
-
+«[American Indian](../nai-US/#bpn4168)» 
 
 
 
@@ -505,7 +505,7 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 4278)
 
 
-
+«[American Indian](../nai-US/#bpn4278)» 
 
 
 
@@ -523,7 +523,7 @@ NA SOON DI SEEKH, DEAS DA GANIH, DEAS SOOKH DEAS DA SOH GANIH, DEAS DA BEYUH, DE
 (Bahaiprayers.net ID: 4277)
 
 
-
+«[American Indian](../nai-US/#bpn4277)» 
 
 
 
@@ -538,7 +538,7 @@ SEMES DA-NEH-MEH-NEH HA BEYUH MEH, DEAS MA-DE-ZA-POING DA BE-YAH NA-HA-NEE-DOH S
 (Bahaiprayers.net ID: 4276)
 
 
-
+«[American Indian](../nai-US/#bpn4276)» 
 
 
 

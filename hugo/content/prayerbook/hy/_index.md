@@ -100,7 +100,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4591)
 
 
-
+«[հայերեն](../hy/#bpn4591)» 
 
 
 
@@ -115,7 +115,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4592)
 
 
-
+«[հայերեն](../hy/#bpn4592)» 
 
 
 
@@ -130,7 +130,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4593)
 
 
-
+«[հայերեն](../hy/#bpn4593)» 
 
 
 
@@ -142,7 +142,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4594)
 
 
-
+«[հայերեն](../hy/#bpn4594)» 
 
 
 
@@ -157,7 +157,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4595)
 
 
-
+«[հայերեն](../hy/#bpn4595)» 
 
 
 
@@ -173,7 +173,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4596)
 
 
-
+«[հայերեն](../hy/#bpn4596)» 
 
 
 
@@ -185,7 +185,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4597)
 
 
-
+«[հայերեն](../hy/#bpn4597)» 
 
 
 
@@ -200,7 +200,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4598)
 
 
-
+«[հայերեն](../hy/#bpn4598)» 
 
 
 
@@ -214,7 +214,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4599)
 
 
-
+«[հայերեն](../hy/#bpn4599)» 
 
 
 
@@ -244,7 +244,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4632)
 
 
-
+«[հայերեն](../hy/#bpn4632)» 
 
 
 
@@ -269,7 +269,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4633)
 
 
-
+«[հայերեն](../hy/#bpn4633)» 
 
 
 
@@ -288,7 +288,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4634)
 
 
-
+«[հայերեն](../hy/#bpn4634)» 
 
 
 
@@ -306,7 +306,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4635)
 
 
-
+«[հայերեն](../hy/#bpn4635)» 
 
 
 
@@ -324,7 +324,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4636)
 
 
-
+«[հայերեն](../hy/#bpn4636)» 
 
 
 
@@ -339,7 +339,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4637)
 
 
-
+«[հայերեն](../hy/#bpn4637)» 
 
 
 
@@ -358,7 +358,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4638)
 
 
-
+«[հայերեն](../hy/#bpn4638)» 
 
 
 
@@ -377,7 +377,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4641)
 
 
-
+«[հայերեն](../hy/#bpn4641)» 
 
 
 
@@ -404,7 +404,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4676)
 
 
-
+«[հայերեն](../hy/#bpn4676)» 
 
 
 
@@ -418,7 +418,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4677)
 
 
-
+«[հայերեն](../hy/#bpn4677)» 
 
 
 
@@ -430,7 +430,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4678)
 
 
-
+«[հայերեն](../hy/#bpn4678)» 
 
 
 
@@ -452,7 +452,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4583)
 
 
-
+«[հայերեն](../hy/#bpn4583)» 
 
 
 
@@ -465,7 +465,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4584)
 
 
-
+«[հայերեն](../hy/#bpn4584)» 
 
 
 
@@ -479,7 +479,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4585)
 
 
-
+«[հայերեն](../hy/#bpn4585)» 
 
 
 
@@ -492,7 +492,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4586)
 
 
-
+«[հայերեն](../hy/#bpn4586)» 
 
 
 
@@ -505,7 +505,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4587)
 
 
-
+«[հայերեն](../hy/#bpn4587)» 
 
 
 
@@ -517,7 +517,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4588)
 
 
-
+«[հայերեն](../hy/#bpn4588)» 
 
 
 
@@ -530,7 +530,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4589)
 
 
-
+«[հայերեն](../hy/#bpn4589)» 
 
 
 
@@ -544,7 +544,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4590)
 
 
-
+«[հայերեն](../hy/#bpn4590)» 
 
 
 
@@ -560,7 +560,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4579)
 
 
-
+«[հայերեն](../hy/#bpn4579)» 
 
 
 
@@ -574,7 +574,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4580)
 
 
-
+«[հայերեն](../hy/#bpn4580)» 
 
 
 
@@ -587,7 +587,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4581)
 
 
-
+«[հայերեն](../hy/#bpn4581)» 
 
 
 
@@ -605,7 +605,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4600)
 
 
-
+«[հայերեն](../hy/#bpn4600)» 
 
 
 
@@ -621,7 +621,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4601)
 
 
-
+«[հայերեն](../hy/#bpn4601)» 
 
 
 
@@ -633,7 +633,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4602)
 
 
-
+«[հայերեն](../hy/#bpn4602)» 
 
 
 
@@ -645,7 +645,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4603)
 
 
-
+«[հայերեն](../hy/#bpn4603)» 
 
 
 
@@ -657,7 +657,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4604)
 
 
-
+«[հայերեն](../hy/#bpn4604)» 
 
 
 
@@ -669,7 +669,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4605)
 
 
-
+«[հայերեն](../hy/#bpn4605)» 
 
 
 
@@ -683,7 +683,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4606)
 
 
-
+«[հայերեն](../hy/#bpn4606)» 
 
 
 
@@ -705,7 +705,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4607)
 
 
-
+«[հայերեն](../hy/#bpn4607)» 
 
 
 
@@ -718,7 +718,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4608)
 
 
-
+«[հայերեն](../hy/#bpn4608)» 
 
 
 
@@ -734,7 +734,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4662)
 
 
-
+«[հայերեն](../hy/#bpn4662)» 
 
 
 
@@ -750,7 +750,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4663)
 
 
-
+«[հայերեն](../hy/#bpn4663)» 
 
 
 
@@ -766,7 +766,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4547)
 
 
-
+«[հայերեն](../hy/#bpn4547)» 
 
 
 
@@ -785,7 +785,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4651)
 
 
-
+«[հայերեն](../hy/#bpn4651)» 
 
 
 
@@ -798,7 +798,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4652)
 
 
-
+«[հայերեն](../hy/#bpn4652)» 
 
 
 
@@ -815,7 +815,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12378)
 
 
-
+«[հայերեն](../hy/#bpn12378)» 
 
 
 
@@ -832,7 +832,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4664)
 
 
-
+«[հայերեն](../hy/#bpn4664)» 
 
 
 
@@ -845,7 +845,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4665)
 
 
-
+«[հայերեն](../hy/#bpn4665)» 
 
 
 
@@ -857,7 +857,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4666)
 
 
-
+«[հայերեն](../hy/#bpn4666)» 
 
 
 
@@ -874,7 +874,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4667)
 
 
-
+«[հայերեն](../hy/#bpn4667)» 
 
 
 
@@ -890,7 +890,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4653)
 
 
-
+«[հայերեն](../hy/#bpn4653)» 
 
 
 
@@ -904,7 +904,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4654)
 
 
-
+«[հայերեն](../hy/#bpn4654)» 
 
 
 
@@ -918,7 +918,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4655)
 
 
-
+«[հայերեն](../hy/#bpn4655)» 
 
 
 
@@ -934,7 +934,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4548)
 
 
-
+«[հայերեն](../hy/#bpn4548)» 
 
 
 
@@ -946,7 +946,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4549)
 
 
-
+«[հայերեն](../hy/#bpn4549)» 
 
 
 
@@ -959,7 +959,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4550)
 
 
-
+«[հայերեն](../hy/#bpn4550)» 
 
 
 
@@ -972,7 +972,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4551)
 
 
-
+«[հայերեն](../hy/#bpn4551)» 
 
 
 
@@ -985,7 +985,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4552)
 
 
-
+«[հայերեն](../hy/#bpn4552)» 
 
 
 
@@ -997,7 +997,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4553)
 
 
-
+«[հայերեն](../hy/#bpn4553)» 
 
 
 
@@ -1011,7 +1011,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12380)
 
 
-
+«[հայերեն](../hy/#bpn12380)» 
 
 
 
@@ -1024,7 +1024,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12381)
 
 
-
+«[հայերեն](../hy/#bpn12381)» 
 
 
 
@@ -1036,7 +1036,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12382)
 
 
-
+«[հայերեն](../hy/#bpn12382)» 
 
 
 
@@ -1055,7 +1055,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4544)
 
 
-
+«[հայերեն](../hy/#bpn4544)» 
 
 
 
@@ -1069,7 +1069,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4545)
 
 
-
+«[հայերեն](../hy/#bpn4545)» 
 
 
 
@@ -1084,7 +1084,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4546)
 
 
-
+«[հայերեն](../hy/#bpn4546)» 
 
 
 
@@ -1146,7 +1146,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4582)
 
 
-
+«[հայերեն](../hy/#bpn4582)» 
 
 
 
@@ -1222,7 +1222,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4543)
 
 
-
+«[հայերեն](../hy/#bpn4543)» 
 
 
 
@@ -1245,7 +1245,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4679)
 
 
-
+«[հայերեն](../hy/#bpn4679)» 
 
 
 
@@ -1262,7 +1262,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4639)
 
 
-
+«[հայերեն](../hy/#bpn4639)» 
 
 
 
@@ -1279,7 +1279,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4643)
 
 
-
+«[հայերեն](../hy/#bpn4643)» 
 
 
 
@@ -1293,7 +1293,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4644)
 
 
-
+«[հայերեն](../hy/#bpn4644)» 
 
 
 
@@ -1306,7 +1306,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4645)
 
 
-
+«[հայերեն](../hy/#bpn4645)» 
 
 
 
@@ -1320,7 +1320,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4647)
 
 
-
+«[հայերեն](../hy/#bpn4647)» 
 
 
 
@@ -1335,7 +1335,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4642)
 
 
-
+«[հայերեն](../hy/#bpn4642)» 
 
 
 
@@ -1348,7 +1348,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4646)
 
 
-
+«[հայերեն](../hy/#bpn4646)» 
 
 
 
@@ -1364,7 +1364,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4640)
 
 
-
+«[հայերեն](../hy/#bpn4640)» 
 
 
 
@@ -1381,7 +1381,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4648)
 
 
-
+«[հայերեն](../hy/#bpn4648)» 
 
 
 
@@ -1395,7 +1395,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4649)
 
 
-
+«[հայերեն](../hy/#bpn4649)» 
 
 
 
@@ -1407,7 +1407,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4650)
 
 
-
+«[հայերեն](../hy/#bpn4650)» 
 
 
 
@@ -1426,7 +1426,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4541)
 
 
-
+«[հայերեն](../hy/#bpn4541)» 
 
 
 
@@ -1446,7 +1446,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4675)
 
 
-
+«[հայերեն](../hy/#bpn4675)» 
 
 
 
@@ -1464,7 +1464,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4566)
 
 
-
+«[հայերեն](../hy/#bpn4566)» 
 
 
 
@@ -1482,7 +1482,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4567)
 
 
-
+«[հայերեն](../hy/#bpn4567)» 
 
 
 
@@ -1499,7 +1499,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4554)
 
 
-
+«[հայերեն](../hy/#bpn4554)» 
 
 
 
@@ -1512,7 +1512,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4555)
 
 
-
+«[հայերեն](../hy/#bpn4555)» 
 
 
 
@@ -1524,7 +1524,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4556)
 
 
-
+«[հայերեն](../hy/#bpn4556)» 
 
 
 
@@ -1539,7 +1539,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4557)
 
 
-
+«[հայերեն](../hy/#bpn4557)» 
 
 
 
@@ -1552,7 +1552,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4558)
 
 
-
+«[հայերեն](../hy/#bpn4558)» 
 
 
 
@@ -1566,7 +1566,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4559)
 
 
-
+«[հայերեն](../hy/#bpn4559)» 
 
 
 
@@ -1581,7 +1581,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4560)
 
 
-
+«[հայերեն](../hy/#bpn4560)» 
 
 
 
@@ -1596,7 +1596,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4561)
 
 
-
+«[հայերեն](../hy/#bpn4561)» 
 
 
 
@@ -1609,7 +1609,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4562)
 
 
-
+«[հայերեն](../hy/#bpn4562)» 
 
 
 
@@ -1621,7 +1621,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4563)
 
 
-
+«[հայերեն](../hy/#bpn4563)» 
 
 
 
@@ -1635,7 +1635,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4564)
 
 
-
+«[հայերեն](../hy/#bpn4564)» 
 
 
 
@@ -1649,7 +1649,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4565)
 
 
-
+«[հայերեն](../hy/#bpn4565)» 
 
 
 
@@ -1666,7 +1666,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4668)
 
 
-
+«[հայերեն](../hy/#bpn4668)» 
 
 
 
@@ -1690,7 +1690,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4684)
 
 
-
+«[հայերեն](../hy/#bpn4684)» 
 
 
 
@@ -1710,7 +1710,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4685)
 
 
-
+«[հայերեն](../hy/#bpn4685)» 
 
 
 
@@ -1872,7 +1872,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4686)
 
 
-
+«[հայերեն](../hy/#bpn4686)» 
 
 
 
@@ -1902,7 +1902,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4656)
 
 
-
+«[հայերեն](../hy/#bpn4656)» 
 
 
 
@@ -1916,7 +1916,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4657)
 
 
-
+«[հայերեն](../hy/#bpn4657)» 
 
 
 
@@ -1938,7 +1938,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4658)
 
 
-
+«[հայերեն](../hy/#bpn4658)» 
 
 
 
@@ -1952,7 +1952,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4659)
 
 
-
+«[հայերեն](../hy/#bpn4659)» 
 
 
 
@@ -1966,7 +1966,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4660)
 
 
-
+«[հայերեն](../hy/#bpn4660)» 
 
 
 
@@ -1980,7 +1980,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4661)
 
 
-
+«[հայերեն](../hy/#bpn4661)» 
 
 
 
@@ -1998,7 +1998,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4669)
 
 
-
+«[հայերեն](../hy/#bpn4669)» 
 
 
 
@@ -2013,7 +2013,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4670)
 
 
-
+«[հայերեն](../hy/#bpn4670)» 
 
 
 
@@ -2026,7 +2026,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4671)
 
 
-
+«[հայերեն](../hy/#bpn4671)» 
 
 
 
@@ -2045,7 +2045,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4672)
 
 
-
+«[հայերեն](../hy/#bpn4672)» 
 
 
 
@@ -2057,7 +2057,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4673)
 
 
-
+«[հայերեն](../hy/#bpn4673)» 
 
 
 
@@ -2069,7 +2069,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4674)
 
 
-
+«[հայերեն](../hy/#bpn4674)» 
 
 
 
@@ -2086,7 +2086,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4568)
 
 
-
+«[հայերեն](../hy/#bpn4568)» 
 
 
 
@@ -2101,7 +2101,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4569)
 
 
-
+«[հայերեն](../hy/#bpn4569)» 
 
 
 
@@ -2116,7 +2116,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4570)
 
 
-
+«[հայերեն](../hy/#bpn4570)» 
 
 
 
@@ -2128,7 +2128,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4571)
 
 
-
+«[հայերեն](../hy/#bpn4571)» 
 
 
 
@@ -2170,7 +2170,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4542)
 
 
-
+«[հայերեն](../hy/#bpn4542)» 
 
 
 
@@ -2192,7 +2192,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4620)
 
 
-
+«[հայերեն](../hy/#bpn4620)» 
 
 
 
@@ -2206,7 +2206,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4621)
 
 
-
+«[հայերեն](../hy/#bpn4621)» 
 
 
 
@@ -2219,7 +2219,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4622)
 
 
-
+«[հայերեն](../hy/#bpn4622)» 
 
 
 
@@ -2235,7 +2235,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4623)
 
 
-
+«[հայերեն](../hy/#bpn4623)» 
 
 
 
@@ -2249,7 +2249,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4624)
 
 
-
+«[հայերեն](../hy/#bpn4624)» 
 
 
 
@@ -2261,7 +2261,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4625)
 
 
-
+«[հայերեն](../hy/#bpn4625)» 
 
 
 
@@ -2273,7 +2273,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4626)
 
 
-
+«[հայերեն](../hy/#bpn4626)» 
 
 
 
@@ -2285,7 +2285,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4627)
 
 
-
+«[հայերեն](../hy/#bpn4627)» 
 
 
 
@@ -2298,7 +2298,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4628)
 
 
-
+«[հայերեն](../hy/#bpn4628)» 
 
 
 
@@ -2310,7 +2310,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4629)
 
 
-
+«[հայերեն](../hy/#bpn4629)» 
 
 
 
@@ -2332,7 +2332,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4682)
 
 
-
+«[հայերեն](../hy/#bpn4682)» 
 
 
 
@@ -2363,7 +2363,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4683)
 
 
-
+«[հայերեն](../hy/#bpn4683)» 
 
 
 
@@ -2380,7 +2380,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4630)
 
 
-
+«[հայերեն](../hy/#bpn4630)» 
 
 
 
@@ -2392,7 +2392,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4631)
 
 
-
+«[հայերեն](../hy/#bpn4631)» 
 
 
 
@@ -2410,7 +2410,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4572)
 
 
-
+«[հայերեն](../hy/#bpn4572)» 
 
 
 
@@ -2423,7 +2423,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4573)
 
 
-
+«[հայերեն](../hy/#bpn4573)» 
 
 
 
@@ -2438,7 +2438,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4574)
 
 
-
+«[հայերեն](../hy/#bpn4574)» 
 
 
 
@@ -2451,7 +2451,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4575)
 
 
-
+«[հայերեն](../hy/#bpn4575)» 
 
 
 
@@ -2466,7 +2466,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4576)
 
 
-
+«[հայերեն](../hy/#bpn4576)» 
 
 
 
@@ -2478,7 +2478,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4577)
 
 
-
+«[հայերեն](../hy/#bpn4577)» 
 
 
 
@@ -2492,7 +2492,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4578)
 
 
-
+«[հայերեն](../hy/#bpn4578)» 
 
 
 
@@ -2513,7 +2513,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4680)
 
 
-
+«[հայերեն](../hy/#bpn4680)» 
 
 
 
@@ -2529,7 +2529,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4681)
 
 
-
+«[հայերեն](../hy/#bpn4681)» 
 
 
 
@@ -2546,7 +2546,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4609)
 
 
-
+«[հայերեն](../hy/#bpn4609)» 
 
 
 
@@ -2559,7 +2559,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4610)
 
 
-
+«[հայերեն](../hy/#bpn4610)» 
 
 
 
@@ -2573,7 +2573,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4611)
 
 
-
+«[հայերեն](../hy/#bpn4611)» 
 
 
 
@@ -2585,7 +2585,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4612)
 
 
-
+«[հայերեն](../hy/#bpn4612)» 
 
 
 
@@ -2599,7 +2599,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4613)
 
 
-
+«[հայերեն](../hy/#bpn4613)» 
 
 
 
@@ -2612,7 +2612,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4614)
 
 
-
+«[հայերեն](../hy/#bpn4614)» 
 
 
 
@@ -2626,7 +2626,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4615)
 
 
-
+«[հայերեն](../hy/#bpn4615)» 
 
 
 
@@ -2638,7 +2638,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4616)
 
 
-
+«[հայերեն](../hy/#bpn4616)» 
 
 
 
@@ -2652,7 +2652,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4617)
 
 
-
+«[հայերեն](../hy/#bpn4617)» 
 
 
 
@@ -2666,7 +2666,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4618)
 
 
-
+«[հայերեն](../hy/#bpn4618)» 
 
 
 
@@ -2679,7 +2679,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 4619)
 
 
-
+«[հայերեն](../hy/#bpn4619)» 
 
 
 
@@ -2692,7 +2692,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12379)
 
 
-
+«[հայերեն](../hy/#bpn12379)» 
 
 
 
@@ -2706,7 +2706,7 @@ tags = ['lang=hy', 'prayerbook']
 (Bahaiprayers.net ID: 12383)
 
 
-
+«[հայերեն](../hy/#bpn12383)» 
 
 
 

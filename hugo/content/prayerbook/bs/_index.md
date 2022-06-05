@@ -114,7 +114,7 @@ Uistinu, On je Milosrdni, Saosjećajni. Hvaljen Bog, Gospodar svih svjetova.
 (Bahaiprayers.net ID: 5322)
 
 
-
+«[Bosanski](../bs/#bpn5322)» 
 
 
 
@@ -138,7 +138,7 @@ Kada je poželio objaviti milost i blagonaklonost ljudima i dovesti svijet u re
 (Bahaiprayers.net ID: 5220)
 
 
-
+«[Bosanski](../bs/#bpn5220)» 
 
 
 
@@ -151,7 +151,7 @@ Uistinu, Tvoj vjernik i Tvoja vjernica sastaju se u sjeni Tvoje milosti i ujedin
 (Bahaiprayers.net ID: 5221)
 
 
-
+«[Bosanski](../bs/#bpn5221)» 
 
 
 
@@ -164,7 +164,7 @@ O Blagi Bože! Daj da ovaj brak urodi koralima i biserima. Ti si uistinu Svemog
 (Bahaiprayers.net ID: 5222)
 
 
-
+«[Bosanski](../bs/#bpn5222)» 
 
 
 
@@ -182,7 +182,7 @@ Svi smo slabi i oskudjevamo, dok si Ti uistinu Sveobuhvatajući, Svepokoravajuc
 (Bahaiprayers.net ID: 5224)
 
 
-
+«[Bosanski](../bs/#bpn5224)» 
 
 
 
@@ -202,7 +202,7 @@ Ti si Moćni i Snažni. Ti Praštaš i Previđaš mane cijelog čovječan
 (Bahaiprayers.net ID: 5223)
 
 
-
+«[Bosanski](../bs/#bpn5223)» 
 
 
 
@@ -218,7 +218,7 @@ OBože, vodi me, zaštiti me, učini me sjajnom svjetiljkom i blistavom zvije
 (Bahaiprayers.net ID: 5225)
 
 
-
+«[Bosanski](../bs/#bpn5225)» 
 
 
 
@@ -230,7 +230,7 @@ On je Bog! O Bože, moj Bože! Daruj mi srce čisto poput bisera.
 (Bahaiprayers.net ID: 5226)
 
 
-
+«[Bosanski](../bs/#bpn5226)» 
 
 
 
@@ -242,7 +242,7 @@ Ti neuporedivi Bože! Odhrani ovo novorođenče na grudima Tvoje blagonaklonos
 (Bahaiprayers.net ID: 5227)
 
 
-
+«[Bosanski](../bs/#bpn5227)» 
 
 
 
@@ -254,7 +254,7 @@ OBože! Odgoji ovo dijete na njedrima Tvoje ljubavi i napoji ga mlijekom iz gru
 (Bahaiprayers.net ID: 5228)
 
 
-
+«[Bosanski](../bs/#bpn5228)» 
 
 
 
@@ -266,7 +266,7 @@ Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvijeće Tvoje
 (Bahaiprayers.net ID: 5229)
 
 
-
+«[Bosanski](../bs/#bpn5229)» 
 
 
 
@@ -279,7 +279,7 @@ Ti si Dobrostiv i Pun Ljubavi.
 (Bahaiprayers.net ID: 5230)
 
 
-
+«[Bosanski](../bs/#bpn5230)» 
 
 
 
@@ -292,7 +292,7 @@ iz dubine pehara Tvoje ljubavi, kako bi mogla biti ispunjena zanosom i oduševl
 (Bahaiprayers.net ID: 5231)
 
 
-
+«[Bosanski](../bs/#bpn5231)» 
 
 
 
@@ -306,7 +306,7 @@ Uistinu, Ti si Moćni, Snažni, Ti Vidiš i Čuješ.
 (Bahaiprayers.net ID: 5232)
 
 
-
+«[Bosanski](../bs/#bpn5232)» 
 
 
 
@@ -319,7 +319,7 @@ Ozari ovog mladića i blagoslovi ovo slabašno biće. Podari mu znanje i doda
 (Bahaiprayers.net ID: 5233)
 
 
-
+«[Bosanski](../bs/#bpn5233)» 
 
 
 
@@ -400,7 +400,7 @@ Svjedočim, moj Bože, ono što su potvrdili Tvoji Odabrani, i priznajem ono 
 (Bahaiprayers.net ID: 5219)
 
 
-
+«[Bosanski](../bs/#bpn5219)» 
 
 
 
@@ -416,7 +416,7 @@ Daruj mi čisto srce, Bože moj, i obnovi moju mirnu savjest, Nado moja! Duhom
 (Bahaiprayers.net ID: 5234)
 
 
-
+«[Bosanski](../bs/#bpn5234)» 
 
 
 
@@ -429,7 +429,7 @@ Ti si uistinu Svemogući, Sve-Slavljeni, Najmoćniji.
 (Bahaiprayers.net ID: 5235)
 
 
-
+«[Bosanski](../bs/#bpn5235)» 
 
 
 
@@ -444,7 +444,7 @@ Hvaljen Bog, Gospodar svjetova.
 (Bahaiprayers.net ID: 5236)
 
 
-
+«[Bosanski](../bs/#bpn5236)» 
 
 
 
@@ -459,7 +459,7 @@ Uistinu, ako ti se prohtije nagraditi slugu otklonićeš iz njegovog srca spom
 (Bahaiprayers.net ID: 5237)
 
 
-
+«[Bosanski](../bs/#bpn5237)» 
 
 
 
@@ -472,7 +472,7 @@ O Bože! Ti si mi bolji prijatelj nego što sam ja samome sebi. Posvećujem s
 (Bahaiprayers.net ID: 5238)
 
 
-
+«[Bosanski](../bs/#bpn5238)» 
 
 
 
@@ -487,7 +487,7 @@ Uistinu, Ti si Milosrdni. Uistinu, Ti si Najvelikodušniji i onaj Čiju pomoc�
 (Bahaiprayers.net ID: 5239)
 
 
-
+«[Bosanski](../bs/#bpn5239)» 
 
 
 
@@ -500,7 +500,7 @@ Moj Gospodaru! Pojačaj njen žar, toplinu i plamen, vatrom koja je zapaljena 
 (Bahaiprayers.net ID: 5240)
 
 
-
+«[Bosanski](../bs/#bpn5240)» 
 
 
 
@@ -525,7 +525,7 @@ O Skrbniče! Pošalji nam Svoju pomoć, da bi svaki od ovdje prisutnih postao
 (Bahaiprayers.net ID: 5241)
 
 
-
+«[Bosanski](../bs/#bpn5241)» 
 
 
 
@@ -537,7 +537,7 @@ Bože! Odagnaj sve uzroke nesloge i propiši za nas sve ono što donosi jedin
 (Bahaiprayers.net ID: 5242)
 
 
-
+«[Bosanski](../bs/#bpn5242)» 
 
 
 
@@ -549,7 +549,7 @@ OBože, moj Bože! Mi smo Tvoje sluge koje se odano okreću prema Tvom Svetom
 (Bahaiprayers.net ID: 5243)
 
 
-
+«[Bosanski](../bs/#bpn5243)» 
 
 
 
@@ -567,7 +567,7 @@ Uistinu, Ti si Velikodušni, Milosrdni. Ti Posjeduješ silnu dobrotu i, uistin
 (Bahaiprayers.net ID: 5244)
 
 
-
+«[Bosanski](../bs/#bpn5244)» 
 
 
 
@@ -584,7 +584,7 @@ Božansko Proviđenje! Sve što postoji je začeto Tvojom darežljivošću
 (Bahaiprayers.net ID: 5245)
 
 
-
+«[Bosanski](../bs/#bpn5245)» 
 
 
 
@@ -597,7 +597,7 @@ O Gospodaru, obasjaj lica svojih sluga kako bi Te mogli vidjeti; očisti njihov
 (Bahaiprayers.net ID: 5246)
 
 
-
+«[Bosanski](../bs/#bpn5246)» 
 
 
 
@@ -612,7 +612,7 @@ Sva hvala i slava pripada Tebi, o, Ti o kojem je sve što postoji posvjedočil
 (Bahaiprayers.net ID: 5247)
 
 
-
+«[Bosanski](../bs/#bpn5247)» 
 
 
 
@@ -626,7 +626,7 @@ Ti si Bog moći, slave i dobrote. Nema Boga osim Tebe, Vrhovnog Vladara, Svesla
 (Bahaiprayers.net ID: 5248)
 
 
-
+«[Bosanski](../bs/#bpn5248)» 
 
 
 
@@ -639,7 +639,7 @@ Ti si Svemogući, Najuzvišeniji, Sveslavljeni, Onaj Koji Sviju Voli.
 (Bahaiprayers.net ID: 5249)
 
 
-
+«[Bosanski](../bs/#bpn5249)» 
 
 
 
@@ -659,7 +659,7 @@ Moćan si činiti što god poželiš. Nema Boga osim Tebe, Koji Vječno Pr
 (Bahaiprayers.net ID: 5254)
 
 
-
+«[Bosanski](../bs/#bpn5254)» 
 
 
 
@@ -671,7 +671,7 @@ Tvoje Ime moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvo
 (Bahaiprayers.net ID: 5255)
 
 
-
+«[Bosanski](../bs/#bpn5255)» 
 
 
 
@@ -686,7 +686,7 @@ Ti si uistinu uzvišen daleko iznad sviju osim samog Sebe. Ti si, zaista, Iscje
 (Bahaiprayers.net ID: 5256)
 
 
-
+«[Bosanski](../bs/#bpn5256)» 
 
 
 
@@ -743,7 +743,7 @@ Ti si uistinu Moćni, Udovoljitelj, Iscjeljitelj, Zaštitnik, Darivatelj, Sami
 (Bahaiprayers.net ID: 5257)
 
 
-
+«[Bosanski](../bs/#bpn5257)» 
 
 
 
@@ -759,7 +759,7 @@ Naoružanog snagom Tvoga imena nikad me ništa ne može povrijediti, s Tvojom
 (Bahaiprayers.net ID: 5250)
 
 
-
+«[Bosanski](../bs/#bpn5250)» 
 
 
 
@@ -773,7 +773,7 @@ O moj Bože, zaklinjem Te njima i vapajima koji dopiru iz njihovih srca zbog od
 (Bahaiprayers.net ID: 5251)
 
 
-
+«[Bosanski](../bs/#bpn5251)» 
 
 
 
@@ -788,7 +788,7 @@ Moćan si činiti što god poželiš. Nema Boga sem Tebe, Pomoći u Nevolj
 (Bahaiprayers.net ID: 5253)
 
 
-
+«[Bosanski](../bs/#bpn5253)» 
 
 
 
@@ -802,7 +802,7 @@ Daleko si uzvišen, Gospodaru zemlje i nebesa, iznad hvale svih ljudi. Daruj sp
 (Bahaiprayers.net ID: 5252)
 
 
-
+«[Bosanski](../bs/#bpn5252)» 
 
 
 
@@ -818,7 +818,7 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih sluga i otkrij im Svoj veliki 
 (Bahaiprayers.net ID: 5258)
 
 
-
+«[Bosanski](../bs/#bpn5258)» 
 
 
 
@@ -831,7 +831,7 @@ Daj Bože da svjetlost jedinstva obasja cijelu zemlju i da pečat sa znakom �
 (Bahaiprayers.net ID: 5259)
 
 
-
+«[Bosanski](../bs/#bpn5259)» 
 
 
 
@@ -846,7 +846,7 @@ Otkrij nam, Bože, Svoju uzvišenu vječnost. Objavi da si oduvijek postojao,
 (Bahaiprayers.net ID: 5261)
 
 
-
+«[Bosanski](../bs/#bpn5261)» 
 
 
 
@@ -862,7 +862,7 @@ Zaista, Ti si Svemogući, Samodovoljni, Darivatelj, Oprostitelj, Pomilovatelj, 
 (Bahaiprayers.net ID: 5260)
 
 
-
+«[Bosanski](../bs/#bpn5260)» 
 
 
 
@@ -878,7 +878,7 @@ Probudih se pod Tvojom zaštitom, moj Bože, a onome koji traži Tvoje skloni
 (Bahaiprayers.net ID: 5262)
 
 
-
+«[Bosanski](../bs/#bpn5262)» 
 
 
 
@@ -891,7 +891,7 @@ Nema drugog Boga sem Tebe, Jedinog, Neuporedivog, Sveznajućeg, Onoga Koji je N
 (Bahaiprayers.net ID: 5263)
 
 
-
+«[Bosanski](../bs/#bpn5263)» 
 
 
 
@@ -907,7 +907,7 @@ Ti nećeš razočarati nikoga ko za Tobom traga, niti ćeš se okrenuti od 
 (Bahaiprayers.net ID: 5264)
 
 
-
+«[Bosanski](../bs/#bpn5264)» 
 
 
 
@@ -932,7 +932,7 @@ Nema drugog Boga osim Tebe, Pomoći u nevolji, Samopostojnog.
 (Bahaiprayers.net ID: 5217)
 
 
-
+«[Bosanski](../bs/#bpn5217)» 
 
 
 
@@ -951,7 +951,7 @@ Zaista, Ti si Onaj Dragocijeni, Vječni Darivalac, Dlan Otvoreni.
 (Bahaiprayers.net ID: 5265)
 
 
-
+«[Bosanski](../bs/#bpn5265)» 
 
 
 
@@ -977,7 +977,7 @@ Ti si, uistinu, Sveznajući, Premudri.
 (Bahaiprayers.net ID: 5323)
 
 
-
+«[Bosanski](../bs/#bpn5323)» 
 
 
 
@@ -995,7 +995,7 @@ Tvoje mi moći! Ja ne tražim ništa, ni u snu ni na javi, sem onoga što Ti
 (Bahaiprayers.net ID: 5266)
 
 
-
+«[Bosanski](../bs/#bpn5266)» 
 
 
 
@@ -1014,7 +1014,7 @@ Tvoja moć, uistinu, jednaka je moći svih stvari.
 (Bahaiprayers.net ID: 5267)
 
 
-
+«[Bosanski](../bs/#bpn5267)» 
 
 
 
@@ -1028,7 +1028,7 @@ Ti si, uistinu, Onaj Koji Vječito Prašta, Najmilosrdniji.
 (Bahaiprayers.net ID: 5268)
 
 
-
+«[Bosanski](../bs/#bpn5268)» 
 
 
 
@@ -1042,7 +1042,7 @@ Slavljeno neka je ime Tvoje, o, Ti Koji si Kralj svih Kraljeva!
 (Bahaiprayers.net ID: 5269)
 
 
-
+«[Bosanski](../bs/#bpn5269)» 
 
 
 
@@ -1055,7 +1055,7 @@ i uvijek biti spreman primiti ono što je vrijedno hvale u Tvojim očima. Daru
 (Bahaiprayers.net ID: 5270)
 
 
-
+«[Bosanski](../bs/#bpn5270)» 
 
 
 
@@ -1070,7 +1070,7 @@ Tvoje je potpuno pravo da zapovijedaš.
 (Bahaiprayers.net ID: 5271)
 
 
-
+«[Bosanski](../bs/#bpn5271)» 
 
 
 
@@ -1086,7 +1086,7 @@ Svepokoravajući.
 (Bahaiprayers.net ID: 5273)
 
 
-
+«[Bosanski](../bs/#bpn5273)» 
 
 
 
@@ -1101,7 +1101,7 @@ Ti si, uistinu, Svemogući, Sveslavljeni, Svemoćni.
 (Bahaiprayers.net ID: 5272)
 
 
-
+«[Bosanski](../bs/#bpn5272)» 
 
 
 
@@ -1116,7 +1116,7 @@ svijet.
 (Bahaiprayers.net ID: 5274)
 
 
-
+«[Bosanski](../bs/#bpn5274)» 
 
 
 
@@ -1135,7 +1135,7 @@ Niko osim Tebe, o, moj Bože mi ne koristi a bliskost s bilo kim sem s Tobom ni
 (Bahaiprayers.net ID: 5275)
 
 
-
+«[Bosanski](../bs/#bpn5275)» 
 
 
 
@@ -1149,7 +1149,7 @@ Prašta.
 (Bahaiprayers.net ID: 5276)
 
 
-
+«[Bosanski](../bs/#bpn5276)» 
 
 
 
@@ -1161,7 +1161,7 @@ Molim Te da mi oprostiš, moj Gospodaru, svaki spomen osim spomena Tebe, svaku 
 (Bahaiprayers.net ID: 5277)
 
 
-
+«[Bosanski](../bs/#bpn5277)» 
 
 
 
@@ -1173,7 +1173,7 @@ Hvaljen budi Ti, Gospodaru. Oprosti nam naše grijehe, smiluj nam se i pomozi n
 (Bahaiprayers.net ID: 5278)
 
 
-
+«[Bosanski](../bs/#bpn5278)» 
 
 
 
@@ -1196,7 +1196,7 @@ služim.
 (Bahaiprayers.net ID: 5279)
 
 
-
+«[Bosanski](../bs/#bpn5279)» 
 
 
 
@@ -1223,7 +1223,7 @@ Blagoslovi, o, Gospodaru, Bože moj, Božansko drvo Lot, njegovo lišće, gr
 (Bahaiprayers.net ID: 5319)
 
 
-
+«[Bosanski](../bs/#bpn5319)» 
 
 
 
@@ -1251,7 +1251,7 @@ Ti si Darivatelj, Saosjećajni, Najdobrostiviji, Plemeniti, Milosrdni, Samilosn
 (Bahaiprayers.net ID: 5320)
 
 
-
+«[Bosanski](../bs/#bpn5320)» 
 
 
 
@@ -1320,7 +1320,7 @@ Kada bi sve sluge ove riječi pročitale i o njima razmislile, u njihovim vena
 (Bahaiprayers.net ID: 5321)
 
 
-
+«[Bosanski](../bs/#bpn5321)» 
 
 
 
@@ -1336,7 +1336,7 @@ O Bože moj! Zaklinjem Te Tvojim najuzvišenijim imenom, pomozi mi u onome š
 (Bahaiprayers.net ID: 5283)
 
 
-
+«[Bosanski](../bs/#bpn5283)» 
 
 
 
@@ -1349,7 +1349,7 @@ Ti si, uistinu, Kralj svih ljudi. Nema Boga osim Tebe, Vječnog Oprostitelja, N
 (Bahaiprayers.net ID: 5284)
 
 
-
+«[Bosanski](../bs/#bpn5284)» 
 
 
 
@@ -1363,7 +1363,7 @@ Ima li drugog Otklonitelja teškoća osim Boga? Recite: Hvaljen bio Bog! On je
 (Bahaiprayers.net ID: 5280)
 
 
-
+«[Bosanski](../bs/#bpn5280)» 
 
 
 
@@ -1375,7 +1375,7 @@ Recite: Bog udovoljava svim stvarima, iznad svih stari, i niko na nebesima ni na
 (Bahaiprayers.net ID: 5281)
 
 
-
+«[Bosanski](../bs/#bpn5281)» 
 
 
 
@@ -1387,7 +1387,7 @@ Zaklinjem Te Tvojom moći, Bože moj! Ne daj da me zadesi nevolja u doba iskus
 (Bahaiprayers.net ID: 5282)
 
 
-
+«[Bosanski](../bs/#bpn5282)» 
 
 
 
@@ -1409,7 +1409,7 @@ Ti si, uistinu, Milostivi, Slavljeni, Moćni, Svemogući.
 (Bahaiprayers.net ID: 5285)
 
 
-
+«[Bosanski](../bs/#bpn5285)» 
 
 
 
@@ -1421,7 +1421,7 @@ Moj Gospodaru, moj Voljeni, Željo moja! Budi mi drug u samoći i pratilac u p
 (Bahaiprayers.net ID: 5286)
 
 
-
+«[Bosanski](../bs/#bpn5286)» 
 
 
 
@@ -1433,7 +1433,7 @@ O Gospodaru, Bože moj! Pomozi svojim voljenima da budu čvrsti u Tvojoj Vjeri
 (Bahaiprayers.net ID: 5287)
 
 
-
+«[Bosanski](../bs/#bpn5287)» 
 
 
 
@@ -1447,7 +1447,7 @@ Daruj nam kruh svagdašnji i udovolji našim životnim potrebama da ne ovisim
 (Bahaiprayers.net ID: 5288)
 
 
-
+«[Bosanski](../bs/#bpn5288)» 
 
 
 
@@ -1463,7 +1463,7 @@ Ti si, uistinu, Jedan, Jedini, Moćni, Sveznajući,Premudri.
 (Bahaiprayers.net ID: 5289)
 
 
-
+«[Bosanski](../bs/#bpn5289)» 
 
 
 
@@ -1482,7 +1482,7 @@ Uistinu, Ti si Darovatelj, Velikodušni, Milosrdni, Oprostitelj.
 (Bahaiprayers.net ID: 5290)
 
 
-
+«[Bosanski](../bs/#bpn5290)» 
 
 
 
@@ -1499,7 +1499,7 @@ Blagoslovi, moj Bože, mene i one koji će povjerovati u Tvoje znake na određ
 (Bahaiprayers.net ID: 5291)
 
 
-
+«[Bosanski](../bs/#bpn5291)» 
 
 
 
@@ -1531,7 +1531,7 @@ Nema Boga osim Tebe, Sveznajućeg, Najmudrijega. Sva hvala pripada Bogu, Gospod
 (Bahaiprayers.net ID: 5324)
 
 
-
+«[Bosanski](../bs/#bpn5324)» 
 
 
 
@@ -1554,7 +1554,7 @@ Zaklinjem Te, o, moj Gospodaru, Tobom, Tvojim znamenjem i Tvojim jasnim znacima,
 (Bahaiprayers.net ID: 5325)
 
 
-
+«[Bosanski](../bs/#bpn5325)» 
 
 
 
@@ -1574,7 +1574,7 @@ Učini Svoju Vjeru pobjedonosnom, Gospodaru moj, i pokori Svoje neprijatelje. D
 (Bahaiprayers.net ID: 5326)
 
 
-
+«[Bosanski](../bs/#bpn5326)» 
 
 
 
@@ -1591,7 +1591,7 @@ Uistinu, Ti si Nepobjedivi, Svemogući, Svemoćni.
 (Bahaiprayers.net ID: 5292)
 
 
-
+«[Bosanski](../bs/#bpn5292)» 
 
 
 
@@ -1605,7 +1605,7 @@ Ti si Oprostitelj, Milosrdni.
 (Bahaiprayers.net ID: 5293)
 
 
-
+«[Bosanski](../bs/#bpn5293)» 
 
 
 
@@ -1621,7 +1621,7 @@ Omoj Bože, moj Bože! Napustih svoj dom uzdajući se u Tvoju ljubav, i u pot
 (Bahaiprayers.net ID: 5299)
 
 
-
+«[Bosanski](../bs/#bpn5299)» 
 
 
 
@@ -1636,7 +1636,7 @@ Uistinu, Ti si Snažni, Silni i Svemogući. Ti si Mudri, Čuješ i Vidiš.
 (Bahaiprayers.net ID: 5294)
 
 
-
+«[Bosanski](../bs/#bpn5294)» 
 
 
 
@@ -1648,7 +1648,7 @@ O Bože, moj Bože! Pomozi Svojim vjernim slugama da budu blaga i nježna src
 (Bahaiprayers.net ID: 5295)
 
 
-
+«[Bosanski](../bs/#bpn5295)» 
 
 
 
@@ -1661,7 +1661,7 @@ Ti si, uistinu, Velikodušni, Oprostitelj.
 (Bahaiprayers.net ID: 5296)
 
 
-
+«[Bosanski](../bs/#bpn5296)» 
 
 
 
@@ -1679,7 +1679,7 @@ Recite: O Bože, moj Bože! Ukrasi mi glavu krunom pravde, a moje tijelo okiti
 (Bahaiprayers.net ID: 5297)
 
 
-
+«[Bosanski](../bs/#bpn5297)» 
 
 
 
@@ -1698,7 +1698,7 @@ OBože! Otjeraj sve uzroke nesloge i daruj nam sve ono što donosi jedinstvo i
 (Bahaiprayers.net ID: 5298)
 
 
-
+«[Bosanski](../bs/#bpn5298)» 
 
 
 
@@ -1714,7 +1714,7 @@ OBože, moj Bože! Preklinjem Te krvlju onih koji Te istinski vole, koji su se
 (Bahaiprayers.net ID: 5300)
 
 
-
+«[Bosanski](../bs/#bpn5300)» 
 
 
 
@@ -1727,7 +1727,7 @@ O moj Bože! Ti si nadahnuo moju dušu da Ti se pokloni, i da nije radi Tebe, 
 (Bahaiprayers.net ID: 5301)
 
 
-
+«[Bosanski](../bs/#bpn5301)» 
 
 
 
@@ -1739,7 +1739,7 @@ O Gospodaru! Ti u ovoj Najvećoj Objavi prihvataš zalaganje djece u ime njiho
 (Bahaiprayers.net ID: 5302)
 
 
-
+«[Bosanski](../bs/#bpn5302)» 
 
 
 
@@ -1755,7 +1755,7 @@ Omoj Bože, moj Bože! Uistinu, ove sluge se prema Tebi okreću, klanjajući
 (Bahaiprayers.net ID: 5303)
 
 
-
+«[Bosanski](../bs/#bpn5303)» 
 
 
 
@@ -1799,7 +1799,7 @@ Svjedočim o Tvom jedinstvu i Tvojoj jednosti, i da Ti si Bog, i da nema nijedn
 (Bahaiprayers.net ID: 5218)
 
 
-
+«[Bosanski](../bs/#bpn5218)» 
 
 
 
@@ -1817,7 +1817,7 @@ Moćan si činiti što Te volja. Ti si, uistinu, Pomoćnik u Nevolji, Samoop
 (Bahaiprayers.net ID: 5304)
 
 
-
+«[Bosanski](../bs/#bpn5304)» 
 
 
 
@@ -1836,7 +1836,7 @@ O Gospodaru moj, Tebi posvećujem ono što je u mojoj utrobi. Zato Svojom nakl
 (Bahaiprayers.net ID: 5305)
 
 
-
+«[Bosanski](../bs/#bpn5305)» 
 
 
 
@@ -1863,7 +1863,7 @@ Mi svi, uistinu, strpljenje u Bogu nalazimo.
 (Bahaiprayers.net ID: 5306)
 
 
-
+«[Bosanski](../bs/#bpn5306)» 
 
 
 
@@ -1880,7 +1880,7 @@ O moj Gospodaru! Očisti ih od grijeha, odagnaj im tugu i zamijeni njihovu tamu
 (Bahaiprayers.net ID: 5307)
 
 
-
+«[Bosanski](../bs/#bpn5307)» 
 
 
 
@@ -1896,7 +1896,7 @@ Kada bi spoznala slatkoću zvanja ‚ O Vjernice Moja‛, odvojila bi se od č
 (Bahaiprayers.net ID: 5308)
 
 
-
+«[Bosanski](../bs/#bpn5308)» 
 
 
 
@@ -1910,7 +1910,7 @@ Zahvali se Bogu, jer ti je On na ovaj dan pomogao, objavio ti jasne riječi ove
 (Bahaiprayers.net ID: 5309)
 
 
-
+«[Bosanski](../bs/#bpn5309)» 
 
 
 
@@ -1924,7 +1924,7 @@ Ti si zaista Onaj koji vječno prašta, Najmilosrdniji.
 (Bahaiprayers.net ID: 5310)
 
 
-
+«[Bosanski](../bs/#bpn5310)» 
 
 
 
@@ -1939,7 +1939,7 @@ Nema Boga osim Tebe, Gospodara moći, Gospodara slave, Gospodara znanja i mudro
 (Bahaiprayers.net ID: 5311)
 
 
-
+«[Bosanski](../bs/#bpn5311)» 
 
 
 
@@ -1953,7 +1953,7 @@ Nema Boga osim Tebe, Svemogućega, Najuzvišenijega, Najslavnijega, Onoga koji
 (Bahaiprayers.net ID: 5313)
 
 
-
+«[Bosanski](../bs/#bpn5313)» 
 
 
 
@@ -1967,7 +1967,7 @@ Oprosti, Gospodaru moj, Tvojim slugama i vjernicama. Ti si, uistinu, Onaj koji v
 (Bahaiprayers.net ID: 5314)
 
 
-
+«[Bosanski](../bs/#bpn5314)» 
 
 
 
@@ -1981,7 +1981,7 @@ Zaklinjem te vapajima onih čije duše za Tobom uzdišu zbog udaljenosti od T
 (Bahaiprayers.net ID: 5315)
 
 
-
+«[Bosanski](../bs/#bpn5315)» 
 
 
 
@@ -1995,7 +1995,7 @@ Moćan si Ti činiti što te volja. Nema drugog Boga osim Tebe, Svemogućega
 (Bahaiprayers.net ID: 5316)
 
 
-
+«[Bosanski](../bs/#bpn5316)» 
 
 
 
@@ -2008,7 +2008,7 @@ Ti si Moćan.
 (Bahaiprayers.net ID: 5312)
 
 
-
+«[Bosanski](../bs/#bpn5312)» 
 
 
 
@@ -2027,7 +2027,7 @@ Molimo Te, o, Proviđenje, da pokažeš svoj put svim ljudima i da ih vodiš 
 (Bahaiprayers.net ID: 5317)
 
 
-
+«[Bosanski](../bs/#bpn5317)» 
 
 
 
@@ -2049,7 +2049,7 @@ Neizmjerno si uzvišen, o, Gospodaru! Zaštiti nas od onoga što je pred nama
 (Bahaiprayers.net ID: 5318)
 
 
-
+«[Bosanski](../bs/#bpn5318)» 
 
 
 

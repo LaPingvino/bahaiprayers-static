@@ -266,7 +266,7 @@ Om alle tjenerne læste og overvejede dette, vil der i deres årer blive tændt 
 (Bahaiprayers.net ID: 8148)
 
 
-
+«[Dansk](../da/#bpn8148)» 
 
 
 
@@ -284,7 +284,7 @@ Ingen Gud er der uden Dig, Den Almægtige, Den Altbesejrende, Den Ubetingede.
 (Bahaiprayers.net ID: 8006)
 
 
-
+«[Dansk](../da/#bpn8006)» 
 
 
 
@@ -302,7 +302,7 @@ Dette er mit oprigtige håb og håbet for dem, der kan glæde sig ved at være D
 (Bahaiprayers.net ID: 8007)
 
 
-
+«[Dansk](../da/#bpn8007)» 
 
 
 
@@ -318,7 +318,7 @@ O Herre, oplys mit syn ved at skue Dine lys i denne mørke nat og gør mig glad 
 (Bahaiprayers.net ID: 8008)
 
 
-
+«[Dansk](../da/#bpn8008)» 
 
 
 
@@ -346,7 +346,7 @@ Du er i sandhed Den Alherlige, Den Mest Gavmilde.
 (Bahaiprayers.net ID: 8009)
 
 
-
+«[Dansk](../da/#bpn8009)» 
 
 
 
@@ -360,7 +360,7 @@ Bevar ham også sikkert, o min Gud, ved kraften i Din ubegrænsede storhed, for 
 (Bahaiprayers.net ID: 8010)
 
 
-
+«[Dansk](../da/#bpn8010)» 
 
 
 
@@ -374,7 +374,7 @@ Bevar Dine tjenere og Dine tjenerinder, o min Herre, mod tomme drømme og forfæ
 (Bahaiprayers.net ID: 8011)
 
 
-
+«[Dansk](../da/#bpn8011)» 
 
 
 
@@ -388,7 +388,7 @@ Du er i sandhed Den Almægtige, Hjælpen i Fare, den Selvbestående.
 (Bahaiprayers.net ID: 8012)
 
 
-
+«[Dansk](../da/#bpn8012)» 
 
 
 
@@ -408,7 +408,7 @@ Der er ingen magt eller styrke undtagen hos Gud, Den Mest Ophøjede, Den Mægtig
 (Bahaiprayers.net ID: 8013)
 
 
-
+«[Dansk](../da/#bpn8013)» 
 
 
 
@@ -422,7 +422,7 @@ Skænk Din tilgivelse til mig og til de troende, der har besvaret Din kalden. V�
 (Bahaiprayers.net ID: 8014)
 
 
-
+«[Dansk](../da/#bpn8014)» 
 
 
 
@@ -440,7 +440,7 @@ Uendelig ophøjet er Du, o Herre! Beskærm os mod det, der ligger foran os og ba
 (Bahaiprayers.net ID: 8015)
 
 
-
+«[Dansk](../da/#bpn8015)» 
 
 
 
@@ -454,7 +454,7 @@ O Gud, min Gud! Værn Dine betroede tjenere mod selvets og lidenskabens onder, b
 (Bahaiprayers.net ID: 8029)
 
 
-
+«[Dansk](../da/#bpn8029)» 
 
 
 
@@ -468,7 +468,7 @@ I sandhed, Du er Beskytteren, Vogteren, Bevareren, Den Fyldestgørende, og sande
 (Bahaiprayers.net ID: 8030)
 
 
-
+«[Dansk](../da/#bpn8030)» 
 
 
 
@@ -500,7 +500,7 @@ Velsign Du, o Herre min Gud, Det Guddommelige Lotustræ og dets blade og dets gr
 (Bahaiprayers.net ID: 8150)
 
 
-
+«[Dansk](../da/#bpn8150)» 
 
 
 
@@ -526,7 +526,7 @@ Du er Giveren, Den Medlidende, Den mest Gavmilde, Den Nådige, Den Barmhjertige,
 (Bahaiprayers.net ID: 8151)
 
 
-
+«[Dansk](../da/#bpn8151)» 
 
 
 
@@ -578,7 +578,7 @@ I sandhed, Han er Den Barmhjertige, Den Medfølende. Lovet være Gud, Herren ove
 (Bahaiprayers.net ID: 8149)
 
 
-
+«[Dansk](../da/#bpn8149)» 
 
 
 
@@ -598,7 +598,7 @@ I sandhed, Du er Den Magtfulde, Den Mægtige og Den Almægtige, og Du er Den Vis
 (Bahaiprayers.net ID: 8154)
 
 
-
+«[Dansk](../da/#bpn8154)» 
 
 
 
@@ -618,7 +618,7 @@ Sandelig, Du er Bekræfteren, for hvem Du end vil det, i hvad Du ønsker, og san
 (Bahaiprayers.net ID: 8155)
 
 
-
+«[Dansk](../da/#bpn8155)» 
 
 
 
@@ -640,7 +640,7 @@ I sandhed, Du er Den Milde, Den Magtfulde, Den Mægtige og Den Mest Barmhjertige
 (Bahaiprayers.net ID: 8156)
 
 
-
+«[Dansk](../da/#bpn8156)» 
 
 
 
@@ -674,7 +674,7 @@ I sandhed, Du er Den Mest Gavmilde, Herren af rig nåde og i sandhed, Du er Den 
 (Bahaiprayers.net ID: 8157)
 
 
-
+«[Dansk](../da/#bpn8157)» 
 
 
 
@@ -696,7 +696,7 @@ Sandelig, Du er Den Magtfulde, Den Mægtige, Den Vise og Den Seende.
 (Bahaiprayers.net ID: 8158)
 
 
-
+«[Dansk](../da/#bpn8158)» 
 
 
 
@@ -716,7 +716,7 @@ Du er Den Almægtige og den der gør, hvad Du vil.
 (Bahaiprayers.net ID: 8159)
 
 
-
+«[Dansk](../da/#bpn8159)» 
 
 
 
@@ -734,7 +734,7 @@ O Herre! Jeg er svag, styrk mig ved Din kraft og magt. Min tunge svigter, lad mi
 (Bahaiprayers.net ID: 8160)
 
 
-
+«[Dansk](../da/#bpn8160)» 
 
 
 
@@ -750,7 +750,7 @@ O Herre! Jeg er ensom, alene og ringe. For mig findes der ingen støtte undtagen
 (Bahaiprayers.net ID: 8161)
 
 
-
+«[Dansk](../da/#bpn8161)» 
 
 
 
@@ -766,7 +766,7 @@ I sandhed, Du er Den Almægtige, Den Mest Ophøjede, Den Evigt Tilgivende, Den A
 (Bahaiprayers.net ID: 8162)
 
 
-
+«[Dansk](../da/#bpn8162)» 
 
 
 
@@ -786,7 +786,7 @@ Sandelig, Du er Den Magtfulde, Den Mægtige og Den Almægtige.
 (Bahaiprayers.net ID: 8163)
 
 
-
+«[Dansk](../da/#bpn8163)» 
 
 
 
@@ -806,7 +806,7 @@ Priset være Du, o min Mest Elskede, før de søde dufte fra Din overjordiske ga
 (Bahaiprayers.net ID: 8031)
 
 
-
+«[Dansk](../da/#bpn8031)» 
 
 
 
@@ -818,7 +818,7 @@ O Du uforlignelige Herre! Lad dette spæde barn blive næret ved Din kærlige om
 (Bahaiprayers.net ID: 8032)
 
 
-
+«[Dansk](../da/#bpn8032)» 
 
 
 
@@ -830,7 +830,7 @@ O Gud! Lad dette lille barn blive opfostret i Din kærligheds favn og giv det m�
 (Bahaiprayers.net ID: 8033)
 
 
-
+«[Dansk](../da/#bpn8033)» 
 
 
 
@@ -844,7 +844,7 @@ Lad Din brise forfriske dem, at de kan blive opøvet, vokse og udvikle sig og fr
 (Bahaiprayers.net ID: 8034)
 
 
-
+«[Dansk](../da/#bpn8034)» 
 
 
 
@@ -856,7 +856,7 @@ O Du gode Herre! Disse dejlige børn er hvad Din krafts hænder har formet og de
 (Bahaiprayers.net ID: 8035)
 
 
-
+«[Dansk](../da/#bpn8035)» 
 
 
 
@@ -872,7 +872,7 @@ Du er den Magtfulde, den der elsker alle.
 (Bahaiprayers.net ID: 8036)
 
 
-
+«[Dansk](../da/#bpn8036)» 
 
 
 
@@ -884,7 +884,7 @@ O Gud, led mig, beskyt mig, gør mig til en lysende lampe og en tindrende stjern
 (Bahaiprayers.net ID: 8037)
 
 
-
+«[Dansk](../da/#bpn8037)» 
 
 
 
@@ -900,7 +900,7 @@ I sandhed, Du er Den Magtfulde, Den Mægtige, Den Seende, Den Hørende.
 (Bahaiprayers.net ID: 8038)
 
 
-
+«[Dansk](../da/#bpn8038)» 
 
 
 
@@ -912,7 +912,7 @@ O Uforlignelige Herre! Vær du et ly for dette arme barn og en god og tilgivende
 (Bahaiprayers.net ID: 8039)
 
 
-
+«[Dansk](../da/#bpn8039)» 
 
 
 
@@ -926,7 +926,7 @@ Giv ham kundskab, skænk ham fornyet styrke ved hvert morgengry og våg over ham
 (Bahaiprayers.net ID: 8040)
 
 
-
+«[Dansk](../da/#bpn8040)» 
 
 
 
@@ -946,7 +946,7 @@ Forherliget, uendelig forherliget være Du! Du bliver tilbedt i Din sandhed, og 
 (Bahaiprayers.net ID: 8041)
 
 
-
+«[Dansk](../da/#bpn8041)» 
 
 
 
@@ -978,7 +978,7 @@ Der er ingen anden Gud end Dig, Den Ene, Den Eneste, Den Magtfulde, Den Alvidend
 (Bahaiprayers.net ID: 8042)
 
 
-
+«[Dansk](../da/#bpn8042)» 
 
 
 
@@ -992,7 +992,7 @@ O min Herre! Rens dem for overtrædelser, fjern deres sorger og vend deres mørk
 (Bahaiprayers.net ID: 8043)
 
 
-
+«[Dansk](../da/#bpn8043)» 
 
 
 
@@ -1008,7 +1008,7 @@ I sandhed, Du er Den Gavmilde, Den Magtfulde, Tilgiveren og Giveren.
 (Bahaiprayers.net ID: 8044)
 
 
-
+«[Dansk](../da/#bpn8044)» 
 
 
 
@@ -1246,7 +1246,7 @@ sønderrev deres klæder, slog sig i ansigtet, glemte deres glæde, udgød tåre
 (Bahaiprayers.net ID: 8169)
 
 
-
+«[Dansk](../da/#bpn8169)» 
 
 
 
@@ -1262,7 +1262,7 @@ O min Gud! O min Gud! Foren Dine tjeneres hjerter og åbenbar for dem Dit store 
 (Bahaiprayers.net ID: 8045)
 
 
-
+«[Dansk](../da/#bpn8045)» 
 
 
 
@@ -1282,7 +1282,7 @@ I sandhed, Du er Den Almægtige, Den Selvbestående, Giveren, Den Tilgivende, De
 (Bahaiprayers.net ID: 8046)
 
 
-
+«[Dansk](../da/#bpn8046)» 
 
 
 
@@ -1302,7 +1302,7 @@ Velsign mig, o min Gud, og den der vil tro på Dine tegn på den forudbestemte d
 (Bahaiprayers.net ID: 8047)
 
 
-
+«[Dansk](../da/#bpn8047)» 
 
 
 
@@ -1316,7 +1316,7 @@ O min Gud! Du har opildnet min sjæl til at rette sin bønfaldelse mod Dig, og v
 (Bahaiprayers.net ID: 8048)
 
 
-
+«[Dansk](../da/#bpn8048)» 
 
 
 
@@ -1330,7 +1330,7 @@ Dette er en af de særlige umådelige gaver i denne orden. Derfor, o du gode Her
 (Bahaiprayers.net ID: 8049)
 
 
-
+«[Dansk](../da/#bpn8049)» 
 
 
 
@@ -1348,7 +1348,7 @@ I sandhed, Du er Den Dyrebare, den Evigt Givende, Den Gavmilde.
 (Bahaiprayers.net ID: 8050)
 
 
-
+«[Dansk](../da/#bpn8050)» 
 
 
 
@@ -1362,7 +1362,7 @@ O min Herre! Jeg tilegner Dig det, der er i mit skød. Lad det da blive et prisv
 (Bahaiprayers.net ID: 8051)
 
 
-
+«[Dansk](../da/#bpn8051)» 
 
 
 
@@ -1410,7 +1410,7 @@ Jeg bønfalder Dig, o min Herre, ved Dig selv og ved Dine tegn og Dine klare vid
 (Bahaiprayers.net ID: 8181)
 
 
-
+«[Dansk](../da/#bpn8181)» 
 
 
 
@@ -1440,7 +1440,7 @@ Gør Din sag sejrrig, o min Herre, og ydmyg Dine fjender. Nedskriv da for os det
 (Bahaiprayers.net ID: 8182)
 
 
-
+«[Dansk](../da/#bpn8182)» 
 
 
 
@@ -1482,7 +1482,7 @@ Ingen Gud er der ud over Dig, Den Almægtige, Den Alherlige, den hvis hjælp sø
 (Bahaiprayers.net ID: 8183)
 
 
-
+«[Dansk](../da/#bpn8183)» 
 
 
 
@@ -1508,7 +1508,7 @@ Sandelig, Du er Opretholderen, Hjælperen, Den Gavmilde, Den Nådige, Den evigt 
 (Bahaiprayers.net ID: 8153)
 
 
-
+«[Dansk](../da/#bpn8153)» 
 
 
 
@@ -1546,7 +1546,7 @@ Vi er i sandhed alle tålmodige over for Gud.
 (Bahaiprayers.net ID: 8152)
 
 
-
+«[Dansk](../da/#bpn8152)» 
 
 
 
@@ -1566,7 +1566,7 @@ Forherliget være Dit navn, o Du, som er Kongen over alle Konger!
 (Bahaiprayers.net ID: 8052)
 
 
-
+«[Dansk](../da/#bpn8052)» 
 
 
 
@@ -1582,7 +1582,7 @@ Du er sandelig hele menneskehedens Herre og Besidderen af denne verden og den n�
 (Bahaiprayers.net ID: 8053)
 
 
-
+«[Dansk](../da/#bpn8053)» 
 
 
 
@@ -1598,7 +1598,7 @@ Du er, i sandhed, verdenernes Herre og Gud for alle, der er i himlen, og alle, d
 (Bahaiprayers.net ID: 8054)
 
 
-
+«[Dansk](../da/#bpn8054)» 
 
 
 
@@ -1616,7 +1616,7 @@ Din magt kan, i sandhed, måle sig med alle ting.
 (Bahaiprayers.net ID: 8055)
 
 
-
+«[Dansk](../da/#bpn8055)» 
 
 
 
@@ -1634,7 +1634,7 @@ Magtfuld er Du til at handle, som det behager Dig. Du er i sandhed Den Almægtig
 (Bahaiprayers.net ID: 8056)
 
 
-
+«[Dansk](../da/#bpn8056)» 
 
 
 
@@ -1656,7 +1656,7 @@ Der er ingen anden Gud end Dig, Den Almægtige, Den Godgørende.
 (Bahaiprayers.net ID: 8057)
 
 
-
+«[Dansk](../da/#bpn8057)» 
 
 
 
@@ -1674,7 +1674,7 @@ Skænk Dine velsignelser, o min Herre, til budbringerne, de hellige og de retfæ
 (Bahaiprayers.net ID: 8058)
 
 
-
+«[Dansk](../da/#bpn8058)» 
 
 
 
@@ -1694,7 +1694,7 @@ Dig tilhører den absolutte myndighed til at befale.
 (Bahaiprayers.net ID: 8059)
 
 
-
+«[Dansk](../da/#bpn8059)» 
 
 
 
@@ -1712,7 +1712,7 @@ Du er i sandhed Den Almægtige, Den Alherlige, Den Mest Magtfulde.
 (Bahaiprayers.net ID: 8060)
 
 
-
+«[Dansk](../da/#bpn8060)» 
 
 
 
@@ -1728,7 +1728,7 @@ Du er i sandhed Den Magtfulde, Den Evigt Givende, Den Formående, Den Altbehersk
 (Bahaiprayers.net ID: 8061)
 
 
-
+«[Dansk](../da/#bpn8061)» 
 
 
 
@@ -1748,7 +1748,7 @@ Magtfuld er Du til at gøre det, der behager Dig. Der er ingen Gud undtagen Dig,
 (Bahaiprayers.net ID: 8062)
 
 
-
+«[Dansk](../da/#bpn8062)» 
 
 
 
@@ -1760,7 +1760,7 @@ Dit navn er min helbredelse, O min Gud, og ihukommelse af Dig er min lægedom. A
 (Bahaiprayers.net ID: 8063)
 
 
-
+«[Dansk](../da/#bpn8063)» 
 
 
 
@@ -1774,7 +1774,7 @@ Du er i sandhed Helbrederen, Bevareren, Hjælperen, Den Almægtige, Den Magtfuld
 (Bahaiprayers.net ID: 8064)
 
 
-
+«[Dansk](../da/#bpn8064)» 
 
 
 
@@ -1792,7 +1792,7 @@ Du er sandelig Herren over dette liv og over det næste. Du er i sandhed Den Evi
 (Bahaiprayers.net ID: 8065)
 
 
-
+«[Dansk](../da/#bpn8065)» 
 
 
 
@@ -1810,7 +1810,7 @@ Du er i sandhed umådeligt ophøjet over alt undtagen Dig selv. Du er sandelig H
 (Bahaiprayers.net ID: 8066)
 
 
-
+«[Dansk](../da/#bpn8066)» 
 
 
 
@@ -1828,7 +1828,7 @@ Du er i sandhed Kongen over alle mennesker. Der er ingen Gud undtagen Dig, Den E
 (Bahaiprayers.net ID: 8067)
 
 
-
+«[Dansk](../da/#bpn8067)» 
 
 
 
@@ -1840,7 +1840,7 @@ Min Gud, min Tilbedte, min Konge, min Attrå! Hvilket tungemål kan udtrykke min
 (Bahaiprayers.net ID: 8068)
 
 
-
+«[Dansk](../da/#bpn8068)» 
 
 
 
@@ -1860,7 +1860,7 @@ Alle udfører Hans bud, og alle jordens og himlens beboere fejrer Hans pris, og 
 (Bahaiprayers.net ID: 8069)
 
 
-
+«[Dansk](../da/#bpn8069)» 
 
 
 
@@ -1872,7 +1872,7 @@ O min Gud, min Herre og min Mester! Jeg har frigjort mig fra min slægt og har g
 (Bahaiprayers.net ID: 8070)
 
 
-
+«[Dansk](../da/#bpn8070)» 
 
 
 
@@ -1888,7 +1888,7 @@ Giv os vort daglige brød og tildel os Din forøgelse af livets fornødenheder, 
 (Bahaiprayers.net ID: 8071)
 
 
-
+«[Dansk](../da/#bpn8071)» 
 
 
 
@@ -1902,7 +1902,7 @@ O Du Forsyn, o Du Tilgiver! Skænk os Din nåde og Din kærlige omsorg, Dine gav
 (Bahaiprayers.net ID: 8072)
 
 
-
+«[Dansk](../da/#bpn8072)» 
 
 
 
@@ -1918,7 +1918,7 @@ Du er i sandhed Den Ene, Den Eneste, Den Mægtige, Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8073)
 
 
-
+«[Dansk](../da/#bpn8073)» 
 
 
 
@@ -1948,7 +1948,7 @@ Du er sandelig Den Almægtige, Den Alvidende, Den Altoplyste.
 (Bahaiprayers.net ID: 8180)
 
 
-
+«[Dansk](../da/#bpn8180)» 
 
 
 
@@ -1974,7 +1974,7 @@ Der er ingen anden Gud end Dig, hjælpen i fare, Den Selvbestående.
 (Bahaiprayers.net ID: 8145)
 
 
-
+«[Dansk](../da/#bpn8145)» 
 
 
 
@@ -2082,7 +2082,7 @@ Du er i sandhed Den Magtfulde, Den Alt Fyldestgørende, Den Helbredende, Den Bes
 (Bahaiprayers.net ID: 8185)
 
 
-
+«[Dansk](../da/#bpn8185)» 
 
 
 
@@ -2160,7 +2160,7 @@ Jeg vidner, o min Gud, om det, som Dine udvalgte har vidnet om, og erkender det,
 (Bahaiprayers.net ID: 8147)
 
 
-
+«[Dansk](../da/#bpn8147)» 
 
 
 
@@ -2178,7 +2178,7 @@ Oplys, o Herre, Dine tjeneres ansigter at de kan se Dig; og rens deres hjerter a
 (Bahaiprayers.net ID: 8074)
 
 
-
+«[Dansk](../da/#bpn8074)» 
 
 
 
@@ -2204,7 +2204,7 @@ Jeg bønfalder Dig, o min Herre, ved Dit største Navn, hvorved Du adskilte lys 
 (Bahaiprayers.net ID: 8076)
 
 
-
+«[Dansk](../da/#bpn8076)» 
 
 
 
@@ -2226,7 +2226,7 @@ Jeg tilbeder Dig, fordi Du har kaldet mig til Dig, thi havde det ikke været for
 (Bahaiprayers.net ID: 8077)
 
 
-
+«[Dansk](../da/#bpn8077)» 
 
 
 
@@ -2246,7 +2246,7 @@ Højt priset og forherliget være Du, om hvem alle ting vidner, at Du er én, og
 (Bahaiprayers.net ID: 8075)
 
 
-
+«[Dansk](../da/#bpn8075)» 
 
 
 
@@ -2266,7 +2266,7 @@ Alle er kun fattige og nødlidende, og Du er sandelig Den Altbesiddende, Den Alt
 (Bahaiprayers.net ID: 8078)
 
 
-
+«[Dansk](../da/#bpn8078)» 
 
 
 
@@ -2284,7 +2284,7 @@ Foren os og sammenføj vore hjerter med Dit uløselige bånd. I sandhed, Du er G
 (Bahaiprayers.net ID: 8079)
 
 
-
+«[Dansk](../da/#bpn8079)» 
 
 
 
@@ -2296,7 +2296,7 @@ O Du gode Herre! O Du som er storsindet og barmhjertig! Vi er tjenerne ved Din T
 (Bahaiprayers.net ID: 8080)
 
 
-
+«[Dansk](../da/#bpn8080)» 
 
 
 
@@ -2322,7 +2322,7 @@ Du er Den Mægtige og Magtfulde, Du er Den Tilgivende, og Du er den der bærer o
 (Bahaiprayers.net ID: 8081)
 
 
-
+«[Dansk](../da/#bpn8081)» 
 
 
 
@@ -2370,7 +2370,7 @@ Du har i sandhed åbenbaret Din sag, fuldbyrdet Din pagt og åbnet Din nådes d�
 (Bahaiprayers.net ID: 8146)
 
 
-
+«[Dansk](../da/#bpn8146)» 
 
 
 
@@ -2392,7 +2392,7 @@ Du er i sandhed Herren og Kongen over alle mennesker, og Du har magt over alt.
 (Bahaiprayers.net ID: 8082)
 
 
-
+«[Dansk](../da/#bpn8082)» 
 
 
 
@@ -2404,7 +2404,7 @@ Jeg er vågnet i Din varetægt, o min Gud, og det tilkommer den, der søger den 
 (Bahaiprayers.net ID: 8083)
 
 
-
+«[Dansk](../da/#bpn8083)» 
 
 
 
@@ -2418,7 +2418,7 @@ Der er ingen anden Gud end Dig, Den Ene, Den Uforlignelige, Den Alvidende, Den A
 (Bahaiprayers.net ID: 8084)
 
 
-
+«[Dansk](../da/#bpn8084)» 
 
 
 
@@ -2440,7 +2440,7 @@ Bestem Du for mig det der sømmer sig for Din gavmildheds himmel og Din nådes h
 (Bahaiprayers.net ID: 8085)
 
 
-
+«[Dansk](../da/#bpn8085)» 
 
 
 
@@ -2460,7 +2460,7 @@ Du er i sandhed Hjælpen i fare, Den Utilgængelige, Den Almægtige, Den Mest Ga
 (Bahaiprayers.net ID: 8086)
 
 
-
+«[Dansk](../da/#bpn8086)» 
 
 
 
@@ -2480,7 +2480,7 @@ O Gud! Udrust os med Dit forsyn. Du er Den Magtfulde. Du er Giveren. Du er Den G
 (Bahaiprayers.net ID: 8087)
 
 
-
+«[Dansk](../da/#bpn8087)» 
 
 
 
@@ -2494,7 +2494,7 @@ O Gud! Vi er som planter, og Din nåde er som regnen, forfrisk disse planter og 
 (Bahaiprayers.net ID: 8088)
 
 
-
+«[Dansk](../da/#bpn8088)» 
 
 
 
@@ -2508,7 +2508,7 @@ I sandhed, Du er Den Gavmilde. I sandhed, Du er Den Barmhjertige, i sandhed, Du 
 (Bahaiprayers.net ID: 8089)
 
 
-
+«[Dansk](../da/#bpn8089)» 
 
 
 
@@ -2528,7 +2528,7 @@ Du er Den Magtfulde, Den Almægtige, Den Barmhjertige, og Du er Den Godgørende,
 (Bahaiprayers.net ID: 8090)
 
 
-
+«[Dansk](../da/#bpn8090)» 
 
 
 
@@ -2540,7 +2540,7 @@ O Guddommelige Forsyn! Denne forsamling er sammensat af Dine venner, der drages 
 (Bahaiprayers.net ID: 8091)
 
 
-
+«[Dansk](../da/#bpn8091)» 
 
 
 
@@ -2568,7 +2568,7 @@ Du er i sandhed Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8184)
 
 
-
+«[Dansk](../da/#bpn8184)» 
 
 
 
@@ -2590,7 +2590,7 @@ Ingen Gud er der undtagen Dig, Den Almægtige, Den Alvise.
 (Bahaiprayers.net ID: 8164)
 
 
-
+«[Dansk](../da/#bpn8164)» 
 
 
 
@@ -2610,7 +2610,7 @@ Bestem for mig i kraft af Din nåde, o Herre, det, der skal gavne mig i denne ve
 (Bahaiprayers.net ID: 8165)
 
 
-
+«[Dansk](../da/#bpn8165)» 
 
 
 
@@ -2628,7 +2628,7 @@ Du er Tilgiveren, Den Nådige.
 (Bahaiprayers.net ID: 8166)
 
 
-
+«[Dansk](../da/#bpn8166)» 
 
 
 
@@ -2644,7 +2644,7 @@ Du er Den Medfølende, Den Barmhjertige. Du er Den Store, Givende Gud.
 (Bahaiprayers.net ID: 8167)
 
 
-
+«[Dansk](../da/#bpn8167)» 
 
 
 
@@ -2658,7 +2658,7 @@ I sandhed er Du Den Uovervindelige, Den Almægtige, Den Almagtsfulde.
 (Bahaiprayers.net ID: 8168)
 
 
-
+«[Dansk](../da/#bpn8168)» 
 
 
 
@@ -2674,7 +2674,7 @@ O Du hvis prøvelser er en helbredende lægedom for dem, der er Dig nær, hvis s
 (Bahaiprayers.net ID: 8092)
 
 
-
+«[Dansk](../da/#bpn8092)» 
 
 
 
@@ -2692,7 +2692,7 @@ Magtfuld er Du til at gøre, som det behager dig. Ingen Gud er der uden Dig, Hj�
 (Bahaiprayers.net ID: 8093)
 
 
-
+«[Dansk](../da/#bpn8093)» 
 
 
 
@@ -2708,7 +2708,7 @@ Jeg bønfalder Dig, o min Gud, ved dem og ved sukkene, som deres hjerter udstød
 (Bahaiprayers.net ID: 8094)
 
 
-
+«[Dansk](../da/#bpn8094)» 
 
 
 
@@ -2724,7 +2724,7 @@ Og endelig beder jeg Dig ved Dit åsyns lys at velsigne mine forehavender og eft
 (Bahaiprayers.net ID: 8095)
 
 
-
+«[Dansk](../da/#bpn8095)» 
 
 
 
@@ -2738,7 +2738,7 @@ Lad mig da vende mig helt til Dig, sætte hele min lid til Dig, opsøge Dig, som
 (Bahaiprayers.net ID: 8096)
 
 
-
+«[Dansk](../da/#bpn8096)» 
 
 
 
@@ -2754,7 +2754,7 @@ Umådelig ophøjet er Du, o Herre, over himlene og jorden, over alle menneskers 
 (Bahaiprayers.net ID: 8097)
 
 
-
+«[Dansk](../da/#bpn8097)» 
 
 
 
@@ -2766,7 +2766,7 @@ Er der nogen, der kan fjerne vanskeligheder undtagen Gud? Sig: Lovet være Gud! 
 (Bahaiprayers.net ID: 8098)
 
 
-
+«[Dansk](../da/#bpn8098)» 
 
 
 
@@ -2778,7 +2778,7 @@ Sig: Gud er frem for alt fyldestgørende for alle ting, og intet i himlene eller
 (Bahaiprayers.net ID: 8099)
 
 
-
+«[Dansk](../da/#bpn8099)» 
 
 
 
@@ -2790,7 +2790,7 @@ Jeg besværger Dig ved Din magt, o min Gud! Lad intet ondt indkredse mig i prøv
 (Bahaiprayers.net ID: 8100)
 
 
-
+«[Dansk](../da/#bpn8100)» 
 
 
 
@@ -2802,7 +2802,7 @@ O Herre! Du borttager enhver lidelse og ophæver enhver prøvelse. Du er den, de
 (Bahaiprayers.net ID: 8101)
 
 
-
+«[Dansk](../da/#bpn8101)» 
 
 
 
@@ -2832,7 +2832,7 @@ Du er i sandhed Den Nådige, Den Herliggjorte, Den Mægtige, Den Almagtsfulde.
 (Bahaiprayers.net ID: 8102)
 
 
-
+«[Dansk](../da/#bpn8102)» 
 
 
 
@@ -2848,7 +2848,7 @@ Bevar under Din beskyttelse, o Du Renheds Ånd, Du som er Den Alnådige Forsørg
 (Bahaiprayers.net ID: 8103)
 
 
-
+«[Dansk](../da/#bpn8103)» 
 
 
 
@@ -2860,7 +2860,7 @@ O min Herre, min Elskede, min Attrå! Vær i min ensomhed min ven og ledsag mig 
 (Bahaiprayers.net ID: 8104)
 
 
-
+«[Dansk](../da/#bpn8104)» 
 
 
 
@@ -2888,7 +2888,7 @@ Du er i sandhed Magtens Gud, Hjælpen i Fare, den Alherlige, den Almægtige.
 (Bahaiprayers.net ID: 8105)
 
 
-
+«[Dansk](../da/#bpn8105)» 
 
 
 
@@ -2912,7 +2912,7 @@ Jeg beder Dig, O Herre over alle skabninger og Konge over det sete og det usete,
 (Bahaiprayers.net ID: 8106)
 
 
-
+«[Dansk](../da/#bpn8106)» 
 
 
 
@@ -2926,7 +2926,7 @@ Jeg anråber Dig om at lade mig holde fast ved Din kærlighed og Din ihukommelse
 (Bahaiprayers.net ID: 8107)
 
 
-
+«[Dansk](../da/#bpn8107)» 
 
 
 
@@ -2948,7 +2948,7 @@ Sandelig, Du er Den Høje Hersker, Den Eneherskende Sandhed, Hjælpen i fare, De
 (Bahaiprayers.net ID: 8108)
 
 
-
+«[Dansk](../da/#bpn8108)» 
 
 
 
@@ -2960,7 +2960,7 @@ O Herre min Gud! Hjælp Dine elskede at være faste i Din tro, at vandre ad Dine
 (Bahaiprayers.net ID: 8109)
 
 
-
+«[Dansk](../da/#bpn8109)» 
 
 
 
@@ -2976,7 +2976,7 @@ I sandhed, Du er Den Gavmilde, Den Altid Givende, Den Dyrebare, Den Mest Velgør
 (Bahaiprayers.net ID: 8110)
 
 
-
+«[Dansk](../da/#bpn8110)» 
 
 
 
@@ -2994,7 +2994,7 @@ Jeg er, o min Gud, Din tjener og søn af Din tjener. Jeg har erkendt Din sandhed
 (Bahaiprayers.net ID: 8111)
 
 
-
+«[Dansk](../da/#bpn8111)» 
 
 
 
@@ -3008,7 +3008,7 @@ Hjælp mig, o min Herre, at vende mig til Dig og lytte til stemmen fra Dine elsk
 (Bahaiprayers.net ID: 8112)
 
 
-
+«[Dansk](../da/#bpn8112)» 
 
 
 
@@ -3024,7 +3024,7 @@ Tilgiv da, o min Herre, Dine tjenere og Dine tjenerinder. Du er i sandhed Den Ev
 (Bahaiprayers.net ID: 8113)
 
 
-
+«[Dansk](../da/#bpn8113)» 
 
 
 
@@ -3042,7 +3042,7 @@ Du er Den øverste Hersker, Den store Skaber, Den Ophøjede, Den Alt Elskende.
 (Bahaiprayers.net ID: 8114)
 
 
-
+«[Dansk](../da/#bpn8114)» 
 
 
 
@@ -3054,7 +3054,7 @@ Lovet være Du, o Herre. Tilgiv os vore synder, hav barmhjertighed med os og få
 (Bahaiprayers.net ID: 8115)
 
 
-
+«[Dansk](../da/#bpn8115)» 
 
 
 
@@ -3066,7 +3066,7 @@ Jeg beder Dig tilgive mig, o min Herre, enhver tale undtagen talen om Dig, og en
 (Bahaiprayers.net ID: 8116)
 
 
-
+«[Dansk](../da/#bpn8116)» 
 
 
 
@@ -3080,7 +3080,7 @@ Forherliget er Du, o Herre, Du tilgiver til alle tider de tjenere deres synder, 
 (Bahaiprayers.net ID: 8117)
 
 
-
+«[Dansk](../da/#bpn8117)» 
 
 
 
@@ -3094,7 +3094,7 @@ Du er Den Milde, Du er den Venlige.
 (Bahaiprayers.net ID: 8118)
 
 
-
+«[Dansk](../da/#bpn8118)» 
 
 
 
@@ -3116,7 +3116,7 @@ Magtfuld er Du til at gøre, som det behager Dig. Du er sandelig Hjælpen i fare
 (Bahaiprayers.net ID: 8170)
 
 
-
+«[Dansk](../da/#bpn8170)» 
 
 
 
@@ -3134,7 +3134,7 @@ Giv Du, O Herre, at deres hjerter gennem trofasthed mod denne Din ukrænkelige t
 (Bahaiprayers.net ID: 8171)
 
 
-
+«[Dansk](../da/#bpn8171)» 
 
 
 
@@ -3148,7 +3148,7 @@ Stor er velsignelsen for dem, med hvis blod Du har valgt at vande Din bekræftel
 (Bahaiprayers.net ID: 8172)
 
 
-
+«[Dansk](../da/#bpn8172)» 
 
 
 
@@ -3166,7 +3166,7 @@ Sandelig, Du er vor Herre og Herren over alt. I Dine hænder overgiver vi os i l
 (Bahaiprayers.net ID: 8173)
 
 
-
+«[Dansk](../da/#bpn8173)» 
 
 
 
@@ -3178,7 +3178,7 @@ O Herre! Lad alle jordens folk få adgang til Din tros paradis, således at inte
 (Bahaiprayers.net ID: 8174)
 
 
-
+«[Dansk](../da/#bpn8174)» 
 
 
 
@@ -3196,7 +3196,7 @@ Sandelig Du er Den Givende, Den Tilgivende, Den Evigt Givende. Sandelig er Du De
 (Bahaiprayers.net ID: 8175)
 
 
-
+«[Dansk](../da/#bpn8175)» 
 
 
 
@@ -3218,7 +3218,7 @@ Herre! Tænd Du i deres hjerter Din guddommelige tiltræknings flamme og giv, at
 (Bahaiprayers.net ID: 8176)
 
 
-
+«[Dansk](../da/#bpn8176)» 
 
 
 
@@ -3246,7 +3246,7 @@ Du er i sandhed Den Mest Magtfulde, Den Højeste, Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8119)
 
 
-
+«[Dansk](../da/#bpn8119)» 
 
 
 
@@ -3266,7 +3266,7 @@ Der er ingen Gud undtagen Dig, Den Ene, Den Uforlignelige, Beskytteren, Den Selv
 (Bahaiprayers.net ID: 8120)
 
 
-
+«[Dansk](../da/#bpn8120)» 
 
 
 
@@ -3284,7 +3284,7 @@ Du er i sandhed styrkens og magtens Gud, der er skikket til at svare dem, der be
 (Bahaiprayers.net ID: 8121)
 
 
-
+«[Dansk](../da/#bpn8121)» 
 
 
 
@@ -3298,7 +3298,7 @@ Du er sandelig Den Gavmilde, Den Tilgivende.
 (Bahaiprayers.net ID: 8122)
 
 
-
+«[Dansk](../da/#bpn8122)» 
 
 
 
@@ -3310,7 +3310,7 @@ O Gud, min Gud! Hjælp Dine betroede tjenere til at eje kærlige og milde hjerte
 (Bahaiprayers.net ID: 8123)
 
 
-
+«[Dansk](../da/#bpn8123)» 
 
 
 
@@ -3328,7 +3328,7 @@ I sandhed, Du er Ham, hvis nåde findes i overflod. Der er ingen anden Gud uden 
 (Bahaiprayers.net ID: 8124)
 
 
-
+«[Dansk](../da/#bpn8124)» 
 
 
 
@@ -3344,7 +3344,7 @@ Fra Din evigheds sødt duftende strømme giv mig at drikke, o min Gud, og af fru
 (Bahaiprayers.net ID: 8129)
 
 
-
+«[Dansk](../da/#bpn8129)» 
 
 
 
@@ -3356,7 +3356,7 @@ Skab i mig et rent hjerte, o min Gud, og giv mig påny en rolig samvittighed, o 
 (Bahaiprayers.net ID: 8130)
 
 
-
+«[Dansk](../da/#bpn8130)» 
 
 
 
@@ -3376,7 +3376,7 @@ der er ingen anden Gud end Dig, Den Ene, Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8131)
 
 
-
+«[Dansk](../da/#bpn8131)» 
 
 
 
@@ -3390,7 +3390,7 @@ Du er i sandhed Den Almægtige, Den Allerherligste, Den Mest Magtfulde.
 (Bahaiprayers.net ID: 8132)
 
 
-
+«[Dansk](../da/#bpn8132)» 
 
 
 
@@ -3404,7 +3404,7 @@ Lad denne tjener, derom bønfalder jeg Dig, opnå det, der er årsag til hans fr
 (Bahaiprayers.net ID: 8133)
 
 
-
+«[Dansk](../da/#bpn8133)» 
 
 
 
@@ -3426,7 +3426,7 @@ Du er sandelig Den Almægtige, Den Tilgivende, Den Medfølende.
 (Bahaiprayers.net ID: 8134)
 
 
-
+«[Dansk](../da/#bpn8134)» 
 
 
 
@@ -3442,7 +3442,7 @@ Jeg er, o min Gud, blot et lille frø, som Du har sået i Din kærligheds jord o
 (Bahaiprayers.net ID: 8135)
 
 
-
+«[Dansk](../da/#bpn8135)» 
 
 
 
@@ -3460,7 +3460,7 @@ I sandhed, skulle Du ønske at skænke velsignelse til en tjener, da ville Du fr
 (Bahaiprayers.net ID: 8136)
 
 
-
+«[Dansk](../da/#bpn8136)» 
 
 
 
@@ -3474,7 +3474,7 @@ O Gud! Du er en bedre ven for mig end jeg er for mig selv. Jeg overgiver mig til
 (Bahaiprayers.net ID: 8137)
 
 
-
+«[Dansk](../da/#bpn8137)» 
 
 
 
@@ -3492,7 +3492,7 @@ I sandhed, Du er barmhjertig, og Du er, sandelig, Den Mest Gavmilde, hvis hjælp
 (Bahaiprayers.net ID: 8138)
 
 
-
+«[Dansk](../da/#bpn8138)» 
 
 
 
@@ -3504,7 +3504,7 @@ O min Herre, O min Herre! Dette er en lampe, der er tændt ved Din kærligheds i
 (Bahaiprayers.net ID: 8139)
 
 
-
+«[Dansk](../da/#bpn8139)» 
 
 
 
@@ -3518,7 +3518,7 @@ Sandelig, Du er den Mest Gavmilde, Herren af rig nåde. Der er ingen anden Gud e
 (Bahaiprayers.net ID: 8140)
 
 
-
+«[Dansk](../da/#bpn8140)» 
 
 
 
@@ -3536,7 +3536,7 @@ I sandhed, Du er Den Mægtige, Den Magtfulde, Beskytteren, Den Stærke, Den Godg
 (Bahaiprayers.net ID: 8141)
 
 
-
+«[Dansk](../da/#bpn8141)» 
 
 
 
@@ -3552,7 +3552,7 @@ Du er sandelig Den Mægtige, Den Ophøjede, Den Magtfulde, Han der alene forbliv
 (Bahaiprayers.net ID: 8142)
 
 
-
+«[Dansk](../da/#bpn8142)» 
 
 
 
@@ -3570,7 +3570,7 @@ O Herre, min Gud! Ydmyge er disse Dine tjenere, ophøj dem i Dit rige i det høj
 (Bahaiprayers.net ID: 8143)
 
 
-
+«[Dansk](../da/#bpn8143)» 
 
 
 
@@ -3588,7 +3588,7 @@ Du er Den Mægtige, Den Magtfulde, og Du er styrkens Gud, Den Almægtige, Den Al
 (Bahaiprayers.net ID: 8144)
 
 
-
+«[Dansk](../da/#bpn8144)» 
 
 
 
@@ -3606,7 +3606,7 @@ O Gud, min Gud! Vi er Dine tjenere, der med hengivenhed har vendt sig til Dit he
 (Bahaiprayers.net ID: 8177)
 
 
-
+«[Dansk](../da/#bpn8177)» 
 
 
 
@@ -3622,7 +3622,7 @@ O Du vor Forsørger! Nedsend Din hjælp at enhver, der er samlet her, kan blive 
 (Bahaiprayers.net ID: 8178)
 
 
-
+«[Dansk](../da/#bpn8178)» 
 
 
 
@@ -3642,7 +3642,7 @@ I sandhed, Du er Den Storsindede, Den Barmhjertige. Du er Besidderen af stor gav
 (Bahaiprayers.net ID: 8179)
 
 
-
+«[Dansk](../da/#bpn8179)» 
 
 
 
@@ -3670,7 +3670,7 @@ Han siger, stor er Hans herlighed: "Indgå ægteskab, o mennesker, at der fra je
 (Bahaiprayers.net ID: 8125)
 
 
-
+«[Dansk](../da/#bpn8125)» 
 
 
 
@@ -3686,7 +3686,7 @@ Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds re
 (Bahaiprayers.net ID: 8126)
 
 
-
+«[Dansk](../da/#bpn8126)» 
 
 
 
@@ -3702,7 +3702,7 @@ Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds re
 (Bahaiprayers.net ID: 8127)
 
 
-
+«[Dansk](../da/#bpn8127)» 
 
 
 
@@ -3716,7 +3716,7 @@ Sandelig, Du er Den Storsindede. Sandelig, Du er den Almægtige. Sandelig, Du er
 (Bahaiprayers.net ID: 8128)
 
 
-
+«[Dansk](../da/#bpn8128)» 
 
 
 

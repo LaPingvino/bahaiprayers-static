@@ -121,7 +121,7 @@ O ty, który krążysz w adoracji w pobliżu tego Miejsca, wokół którego krą
 (Bahaiprayers.net ID: 12877)
 
 
-
+«[Polski](../pl/#bpn12877)» 
 
 
 
@@ -133,7 +133,7 @@ O Ty, niewidzialny Przyjacielu! O Pragnienie wszystkich w tym świecie i w świe
 (Bahaiprayers.net ID: 12878)
 
 
-
+«[Polski](../pl/#bpn12878)» 
 
 
 
@@ -146,7 +146,7 @@ O Panie Królestwa! Wybaw nas z tego świata próżnych złudzeń i zaprowadź n
 (Bahaiprayers.net ID: 12879)
 
 
-
+«[Polski](../pl/#bpn12879)» 
 
 
 
@@ -159,7 +159,7 @@ O Ty, Panie Wszechmogący! Zalicz mnie do mieszkańców Królestwa. Ten śmierte
 (Bahaiprayers.net ID: 12880)
 
 
-
+«[Polski](../pl/#bpn12880)» 
 
 
 
@@ -174,7 +174,7 @@ O Ty, dobry i umiłowany Panie! Oni są jako ciało, a Ty jesteś Duchem życia.
 (Bahaiprayers.net ID: 12881)
 
 
-
+«[Polski](../pl/#bpn12881)» 
 
 
 
@@ -186,7 +186,7 @@ O Opatrzności Boża! Niezrozumiałe trudności się pojawiły i ogromne powsta�
 (Bahaiprayers.net ID: 12882)
 
 
-
+«[Polski](../pl/#bpn12882)» 
 
 
 
@@ -199,7 +199,7 @@ O Boska Opatrzności! Udziel mi siły do niesienia tego ciężkiego brzemienia i
 (Bahaiprayers.net ID: 12883)
 
 
-
+«[Polski](../pl/#bpn12883)» 
 
 
 
@@ -212,7 +212,7 @@ Chociaż jestem pokorny, poniżony i ubogi, Ty jesteś moją przystanią i schro
 (Bahaiprayers.net ID: 12884)
 
 
-
+«[Polski](../pl/#bpn12884)» 
 
 
 
@@ -226,7 +226,7 @@ O Boże, mój Boże! Pomóż mi i wesprzyj swoją mocą uzdrawiania chorych. Zap
 (Bahaiprayers.net ID: 12885)
 
 
-
+«[Polski](../pl/#bpn12885)» 
 
 
 
@@ -238,7 +238,7 @@ O Panie! Udziel mi miary swej łaski i miłościwej życzliwości, swej opieki i
 (Bahaiprayers.net ID: 12886)
 
 
-
+«[Polski](../pl/#bpn12886)» 
 
 
 
@@ -251,7 +251,7 @@ O Ty, Niezrównany Panie! Udziel swego przebaczenia i czułej opieki, tak aby ta
 (Bahaiprayers.net ID: 12887)
 
 
-
+«[Polski](../pl/#bpn12887)» 
 
 
 
@@ -264,7 +264,7 @@ O Ty, przebaczający Panie! Słudzy ci byli szlachetnymi duszami i te promienne 
 (Bahaiprayers.net ID: 12888)
 
 
-
+«[Polski](../pl/#bpn12888)» 
 
 
 
@@ -276,7 +276,7 @@ O Boska Opatrzności! Zanurz ojca i matkę tego sługi progu Twego w oceanie Twe
 (Bahaiprayers.net ID: 12889)
 
 
-
+«[Polski](../pl/#bpn12889)» 
 
 
 
@@ -288,7 +288,7 @@ O Ty życzliwy Panie! Oczyść me serce z wszelkiego przywiązania a duszę mą 
 (Bahaiprayers.net ID: 12890)
 
 
-
+«[Polski](../pl/#bpn12890)» 
 
 
 
@@ -301,7 +301,7 @@ O Wszechmocny, który obdarzasz źdźbło słomy mocą góry i umożliwiasz drob
 (Bahaiprayers.net ID: 12891)
 
 
-
+«[Polski](../pl/#bpn12891)» 
 
 
 
@@ -313,7 +313,7 @@ O Ty Wszechmogący Panie! Wszyscy znajdujemy się w potężnym uścisku Twojej m
 (Bahaiprayers.net ID: 12892)
 
 
-
+«[Polski](../pl/#bpn12892)» 
 
 
 
@@ -328,7 +328,7 @@ O Panie! Łaskawie wspomagaj mnie i szczere sługi Twoje w naszej służbie Twem
 (Bahaiprayers.net ID: 12893)
 
 
-
+«[Polski](../pl/#bpn12893)» 
 
 
 
@@ -341,7 +341,7 @@ O Panie! Wybaw nas od przywiązań do świata i jego narodów, od występków pr
 (Bahaiprayers.net ID: 12894)
 
 
-
+«[Polski](../pl/#bpn12894)» 
 
 
 
@@ -355,7 +355,7 @@ O Boska Opatrzności! Jesteśmy słabi, a Ty jesteś Najpotężniejszym. Jesteś
 (Bahaiprayers.net ID: 12895)
 
 
-
+«[Polski](../pl/#bpn12895)» 
 
 
 
@@ -368,7 +368,7 @@ O mój Panie, mój Królu, mój Władco i mój Suwerenie! Wzywam Cię moim języ
 (Bahaiprayers.net ID: 12896)
 
 
-
+«[Polski](../pl/#bpn12896)» 
 
 
 
@@ -381,7 +381,7 @@ O Boska Opatrzności! Obdarz ich swoją przychylnością, prowadź ich właściw
 (Bahaiprayers.net ID: 12897)
 
 
-
+«[Polski](../pl/#bpn12897)» 
 
 
 
@@ -394,7 +394,7 @@ O Boska Opatrzności, o przebaczający Panie! Jakże mogę godnie opiewać Twoj�
 (Bahaiprayers.net ID: 12898)
 
 
-
+«[Polski](../pl/#bpn12898)» 
 
 
 
@@ -406,7 +406,7 @@ O Boska Opatrzności, Tyś jest Zawsze Przebaczającym! O Ty, Wszechmocny Boże,
 (Bahaiprayers.net ID: 12899)
 
 
-
+«[Polski](../pl/#bpn12899)» 
 
 
 
@@ -418,7 +418,7 @@ O Ty, niezrównany Boże! Jesteśmy Twoimi uniżonymi sługami, a Ty jesteś Wsz
 (Bahaiprayers.net ID: 12900)
 
 
-
+«[Polski](../pl/#bpn12900)» 
 
 
 
@@ -433,7 +433,7 @@ O Panie, mój Boże! Bądź im towarzyszem w samotności, a w chwilach udręki o
 (Bahaiprayers.net ID: 12901)
 
 
-
+«[Polski](../pl/#bpn12901)» 
 
 
 
@@ -467,7 +467,7 @@ Z miłosierdzia swego czułego skrzydła nowe stwórz.
 (Bahaiprayers.net ID: 12902)
 
 
-
+«[Polski](../pl/#bpn12902)» 
 
 
 
@@ -487,7 +487,7 @@ Tyś prawdziwie jest Zawsze Przebaczającym, Najbardziej Współczującym.
 (Bahaiprayers.net ID: 7270)
 
 
-
+«[Polski](../pl/#bpn7270)» 
 
 
 
@@ -499,7 +499,7 @@ Zaprawdę, jestem Twym sługą, o mój Boże, Twym ubogim, Twym błagającym i T
 (Bahaiprayers.net ID: 7271)
 
 
-
+«[Polski](../pl/#bpn7271)» 
 
 
 
@@ -515,7 +515,7 @@ O mój Boże! Błagam Cię na dowody Twojej łaski, abym mógł przybliżyć si�
 (Bahaiprayers.net ID: 7272)
 
 
-
+«[Polski](../pl/#bpn7272)» 
 
 
 
@@ -527,7 +527,7 @@ O Boże, mój Boże, mój Umiłowany, Pragnienie mego serca.
 (Bahaiprayers.net ID: 7273)
 
 
-
+«[Polski](../pl/#bpn7273)» 
 
 
 
@@ -559,7 +559,7 @@ Tyś wszakże jest Łaskawym, Wysławianym, Potężnym, Wszechmogącym.
 (Bahaiprayers.net ID: 7274)
 
 
-
+«[Polski](../pl/#bpn7274)» 
 
 
 
@@ -573,7 +573,7 @@ Otocz swoją opieką, o Ty, Duchu czystości, Ty, któryś jest Najhojniejszym O
 (Bahaiprayers.net ID: 7275)
 
 
-
+«[Polski](../pl/#bpn7275)» 
 
 
 
@@ -601,7 +601,7 @@ Tyś prawdziwie jest Wszechmocnym, Wszechwiedzącym, o Wszystkim Poinformowanym.
 (Bahaiprayers.net ID: 7463)
 
 
-
+«[Polski](../pl/#bpn7463)» 
 
 
 
@@ -619,7 +619,7 @@ Błagam Cię na Twoje imię, przez które każdy ma możność dotarcia do celu 
 (Bahaiprayers.net ID: 7276)
 
 
-
+«[Polski](../pl/#bpn7276)» 
 
 
 
@@ -631,7 +631,7 @@ O Boże! Wychowuj te dzieci. Te dzieci są roślinami Twojego sadu, kwiatami Two
 (Bahaiprayers.net ID: 7277)
 
 
-
+«[Polski](../pl/#bpn7277)» 
 
 
 
@@ -645,7 +645,7 @@ Tyś jest Łaskawym, Wszechmiłującym.
 (Bahaiprayers.net ID: 7278)
 
 
-
+«[Polski](../pl/#bpn7278)» 
 
 
 
@@ -661,7 +661,7 @@ Tyś jest Potężnym, Wszechmiłującym.
 (Bahaiprayers.net ID: 7279)
 
 
-
+«[Polski](../pl/#bpn7279)» 
 
 
 
@@ -673,7 +673,7 @@ On jest Bogiem! O Boże, mój Boże! Obdarz mnie czystym sercem, czystym jak per
 (Bahaiprayers.net ID: 7280)
 
 
-
+«[Polski](../pl/#bpn7280)» 
 
 
 
@@ -687,7 +687,7 @@ O Boże, prowadź mnie, ochraniaj mnie, uczyń mnie świecącą lampą i promien
 (Bahaiprayers.net ID: 7281)
 
 
-
+«[Polski](../pl/#bpn7281)» 
 
 
 
@@ -703,7 +703,7 @@ Zaprawdę, Ty jesteś Mocnym, Potężnym, Widzącym, Słyszącym.
 (Bahaiprayers.net ID: 7282)
 
 
-
+«[Polski](../pl/#bpn7282)» 
 
 
 
@@ -715,7 +715,7 @@ O Niezrównany Panie! Bądź schronieniem dla tego biednego dziecka oraz życzli
 (Bahaiprayers.net ID: 7283)
 
 
-
+«[Polski](../pl/#bpn7283)» 
 
 
 
@@ -729,7 +729,7 @@ O Boże, nasz Panie! Wyśpiewujemy Twoją chwałę, dajemy świadectwo Twojej ś
 (Bahaiprayers.net ID: 7284)
 
 
-
+«[Polski](../pl/#bpn7284)» 
 
 
 
@@ -743,7 +743,7 @@ Tyś jest Potężnym i Mocnym, i Tyś jest Wszechmiłującym, Wszechwiedzącym, 
 (Bahaiprayers.net ID: 7285)
 
 
-
+«[Polski](../pl/#bpn7285)» 
 
 
 
@@ -755,7 +755,7 @@ O Ty, najchwalebniejszy Panie! Uczyń Twoją małą służebnicę błogosławion
 (Bahaiprayers.net ID: 7286)
 
 
-
+«[Polski](../pl/#bpn7286)» 
 
 
 
@@ -826,7 +826,7 @@ Daję świadectwo, o mój Boże, temu, o czym świadczyli Twoi wybrani i uznaję
 (Bahaiprayers.net ID: 7269)
 
 
-
+«[Polski](../pl/#bpn7269)» 
 
 
 
@@ -1012,7 +1012,7 @@ Tyś zaprawdę jest Potężnym, Wszechwystarczającym, Uzdrawiającym, Ochraniaj
 (Bahaiprayers.net ID: 7428)
 
 
-
+«[Polski](../pl/#bpn7428)» 
 
 
 
@@ -1028,7 +1028,7 @@ Tyś zaprawdę jest Potężnym, Wszechwystarczającym, Uzdrawiającym, Ochraniaj
 (Bahaiprayers.net ID: 7290)
 
 
-
+«[Polski](../pl/#bpn7290)» 
 
 
 
@@ -1044,7 +1044,7 @@ Zaiste, Tyś jest Podtrzymującym, Pomagającym, Hojnym, Łaskawym, Zawsze Obdar
 (Bahaiprayers.net ID: 7291)
 
 
-
+«[Polski](../pl/#bpn7291)» 
 
 
 
@@ -1060,7 +1060,7 @@ O mój Boże! O mój Boże! Zjednocz serca sług Twoich i objaw im swój wielki 
 (Bahaiprayers.net ID: 7292)
 
 
-
+«[Polski](../pl/#bpn7292)» 
 
 
 
@@ -1080,7 +1080,7 @@ Zaiste, Tyś jest Wszechmocnym, Samoistnym, Dającym, Przebaczającym, Odpuszcza
 (Bahaiprayers.net ID: 7293)
 
 
-
+«[Polski](../pl/#bpn7293)» 
 
 
 
@@ -1102,7 +1102,7 @@ Nie ma Boga poza Tobą, Potężnym, Zawsze Trwającym, Najszczodrzejszym, Najhoj
 (Bahaiprayers.net ID: 7294)
 
 
-
+«[Polski](../pl/#bpn7294)» 
 
 
 
@@ -1120,7 +1120,7 @@ Mocen jesteś czynić wedle swego upodobania. Tyś jest zaiste Wszystkowiedzący
 (Bahaiprayers.net ID: 7295)
 
 
-
+«[Polski](../pl/#bpn7295)» 
 
 
 
@@ -1136,7 +1136,7 @@ Tyś jest zaiste Zawsze Przebaczającym, Najbardziej Miłosiernym.
 (Bahaiprayers.net ID: 7296)
 
 
-
+«[Polski](../pl/#bpn7296)» 
 
 
 
@@ -1154,7 +1154,7 @@ Tyś doprawdy jest Bogiem potęgi, siły i chwały.
 (Bahaiprayers.net ID: 7297)
 
 
-
+«[Polski](../pl/#bpn7297)» 
 
 
 
@@ -1172,7 +1172,7 @@ Nie ma innego Boga poza Tobą, Bogiem mocy, Bogiem chwały, Bogiem wiedzy i mąd
 (Bahaiprayers.net ID: 7298)
 
 
-
+«[Polski](../pl/#bpn7298)» 
 
 
 
@@ -1188,7 +1188,7 @@ Mocen jesteś czynić to, w czym masz upodobanie. Nie ma Boga poza Tobą, Wszech
 (Bahaiprayers.net ID: 7299)
 
 
-
+«[Polski](../pl/#bpn7299)» 
 
 
 
@@ -1200,7 +1200,7 @@ O mój Panie, mój Umiłowany, Pragnienie moje! Bądź mi przyjacielem w moim os
 (Bahaiprayers.net ID: 7300)
 
 
-
+«[Polski](../pl/#bpn7300)» 
 
 
 
@@ -1218,7 +1218,7 @@ O mój Panie, poświęcam Ci to, co jest w moim łonie. Spraw więc, by to dziec
 (Bahaiprayers.net ID: 7301)
 
 
-
+«[Polski](../pl/#bpn7301)» 
 
 
 
@@ -1232,7 +1232,7 @@ Tyś zaprawdę jest Potężnym, Współczującym, Hojnym, Miłosiernym.
 (Bahaiprayers.net ID: 7452)
 
 
-
+«[Polski](../pl/#bpn7452)» 
 
 
 
@@ -1246,7 +1246,7 @@ Obdarz swoją niebiańską służebnicę, o Boże, świętą wonią zrodzoną z 
 (Bahaiprayers.net ID: 7453)
 
 
-
+«[Polski](../pl/#bpn7453)» 
 
 
 
@@ -1262,7 +1262,7 @@ O Panie! Jesteśmy grzeszni, lecz Tyś jest Przebaczającym. Jesteśmy zanurzeni
 (Bahaiprayers.net ID: 7454)
 
 
-
+«[Polski](../pl/#bpn7454)» 
 
 
 
@@ -1282,7 +1282,7 @@ Nie ma innego Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
 (Bahaiprayers.net ID: 7267)
 
 
-
+«[Polski](../pl/#bpn7267)» 
 
 
 
@@ -1302,7 +1302,7 @@ Wszyscy są ubodzy i potrzebujący, a Tyś zaiste jest Wszechposiadającym, Wsze
 (Bahaiprayers.net ID: 7302)
 
 
-
+«[Polski](../pl/#bpn7302)» 
 
 
 
@@ -1314,7 +1314,7 @@ O Ty, współczujący Panie, Ty, któryś jest hojny i wszechzdolny! Jesteśmy T
 (Bahaiprayers.net ID: 7303)
 
 
-
+«[Polski](../pl/#bpn7303)» 
 
 
 
@@ -1326,7 +1326,7 @@ O Ty, łaskawy Panie! O Ty, któryś jest hojny i miłosierny! Jesteśmy sługam
 (Bahaiprayers.net ID: 7304)
 
 
-
+«[Polski](../pl/#bpn7304)» 
 
 
 
@@ -1342,7 +1342,7 @@ Zaiste, Tyś jest Mocnym, Opiekunem, Silnym, Obrońcą, Potężnym, Najhojniejsz
 (Bahaiprayers.net ID: 7306)
 
 
-
+«[Polski](../pl/#bpn7306)» 
 
 
 
@@ -1368,7 +1368,7 @@ Tyś jest Mocnym i Potężnym, Tyś jest Przebaczającym i Tyś jest Tym, który
 (Bahaiprayers.net ID: 7305)
 
 
-
+«[Polski](../pl/#bpn7305)» 
 
 
 
@@ -1394,7 +1394,7 @@ A kiedy zapragnął okazać ludziom swoją łaskę i szczodrość i wprowadzić 
 (Bahaiprayers.net ID: 7308)
 
 
-
+«[Polski](../pl/#bpn7308)» 
 
 
 
@@ -1412,7 +1412,7 @@ O Panie łaskawy! Spraw, aby to małżeństwo wydało korale i perły. Tyś zapr
 (Bahaiprayers.net ID: 7307)
 
 
-
+«[Polski](../pl/#bpn7307)» 
 
 
 
@@ -1424,7 +1424,7 @@ Chwała niechaj Ci będzie, o mój Boże! Zaprawdę, ten oto Twój sługa i ta o
 (Bahaiprayers.net ID: 7309)
 
 
-
+«[Polski](../pl/#bpn7309)» 
 
 
 
@@ -1438,7 +1438,7 @@ Zaprawdę, Tyś jest Hojnym. Zaprawdę, Tyś jest Wszechmocnym. Zaprawdę, Tyś 
 (Bahaiprayers.net ID: 7310)
 
 
-
+«[Polski](../pl/#bpn7310)» 
 
 
 
@@ -1475,7 +1475,7 @@ Zaprawdę, wszyscy jesteśmy cierpliwi w Bogu.
 (Bahaiprayers.net ID: 7447)
 
 
-
+«[Polski](../pl/#bpn7447)» 
 
 
 
@@ -1505,7 +1505,7 @@ Zaprawdę, Tyś jest Hojnym, Potężnym, Wszechmogącym, Nieograniczonym. Nie ma
 (Bahaiprayers.net ID: 7466)
 
 
-
+«[Polski](../pl/#bpn7466)» 
 
 
 
@@ -1527,7 +1527,7 @@ Zaprawdę, Tyś jest Bezcennym, Zawsze Obdarowującym, Tym, którego Dłonie są
 (Bahaiprayers.net ID: 7380)
 
 
-
+«[Polski](../pl/#bpn7380)» 
 
 
 
@@ -1547,7 +1547,7 @@ O Ty, życzliwy Panie! Pozwól, aby ta młoda osoba mogła osiągnąć to, co je
 (Bahaiprayers.net ID: 7311)
 
 
-
+«[Polski](../pl/#bpn7311)» 
 
 
 
@@ -1563,7 +1563,7 @@ Tyś jest Potężnym i Mocnym; Tyś jest Obdarowującym i Wszechmiłującym.
 (Bahaiprayers.net ID: 7312)
 
 
-
+«[Polski](../pl/#bpn7312)» 
 
 
 
@@ -1577,7 +1577,7 @@ Tyś jest Obdarowującym, Wszechmiłującym.
 (Bahaiprayers.net ID: 7313)
 
 
-
+«[Polski](../pl/#bpn7313)» 
 
 
 
@@ -1589,7 +1589,7 @@ O Panie! Uczyń tego młodzieńca promiennym i udziel swojej łaski tej biednej 
 (Bahaiprayers.net ID: 7314)
 
 
-
+«[Polski](../pl/#bpn7314)» 
 
 
 
@@ -1607,7 +1607,7 @@ Tyś jest Wszechmocnym, Wszechłaskawym, Wszechwiedzącym.
 (Bahaiprayers.net ID: 7315)
 
 
-
+«[Polski](../pl/#bpn7315)» 
 
 
 
@@ -1631,7 +1631,7 @@ Skoro poprowadziłeś ich, o mój Panie, ku żywym wodom swej łaski, swą szczo
 (Bahaiprayers.net ID: 7316)
 
 
-
+«[Polski](../pl/#bpn7316)» 
 
 
 
@@ -1649,7 +1649,7 @@ Tyś zaiste jest Najpotężniejszym, Najwyższym, Wszechwiedzącym i Wszechmądr
 (Bahaiprayers.net ID: 7317)
 
 
-
+«[Polski](../pl/#bpn7317)» 
 
 
 
@@ -1667,7 +1667,7 @@ Błagam Cię, o Królu istnienia i Obrońco tego, co widzialne i niewidzialne, a
 (Bahaiprayers.net ID: 7318)
 
 
-
+«[Polski](../pl/#bpn7318)» 
 
 
 
@@ -1685,7 +1685,7 @@ Tyś zaprawdę jest Bogiem siły i mocy, który gotów jest odpowiedzieć tym, k
 (Bahaiprayers.net ID: 7319)
 
 
-
+«[Polski](../pl/#bpn7319)» 
 
 
 
@@ -1701,7 +1701,7 @@ Zaiste, mocen jesteś czynić cokolwiek zechcesz i w swoim uścisku trzymasz kr�
 (Bahaiprayers.net ID: 7320)
 
 
-
+«[Polski](../pl/#bpn7320)» 
 
 
 
@@ -1715,7 +1715,7 @@ Tyś zaprawdę jest Hojnym, Przebaczającym.
 (Bahaiprayers.net ID: 7321)
 
 
-
+«[Polski](../pl/#bpn7321)» 
 
 
 
@@ -1733,7 +1733,7 @@ Zaprawdę, Tyś jest Tym, który obfituje w łaski. Nie ma innego Boga poza Tob�
 (Bahaiprayers.net ID: 7323)
 
 
-
+«[Polski](../pl/#bpn7323)» 
 
 
 
@@ -1749,7 +1749,7 @@ O Boże! Chroń mnie od testów. Ty dobrze wiesz, że odwróciłem się od wszys
 (Bahaiprayers.net ID: 7324)
 
 
-
+«[Polski](../pl/#bpn7324)» 
 
 
 
@@ -1761,7 +1761,7 @@ O Boże, mój Boże! Pomóż Twoim zaufanym sługom mieć miłujące i czułe se
 (Bahaiprayers.net ID: 7322)
 
 
-
+«[Polski](../pl/#bpn7322)» 
 
 
 
@@ -1789,7 +1789,7 @@ Tyś zaprawdę jest Wszechwiedzącym, Wszechmądrym.
 (Bahaiprayers.net ID: 7467)
 
 
-
+«[Polski](../pl/#bpn7467)» 
 
 
 
@@ -1807,7 +1807,7 @@ Pochwalony bądź, o mój Najukochańszy, tchnij w to dziecię słodkie zapachy 
 (Bahaiprayers.net ID: 7287)
 
 
-
+«[Polski](../pl/#bpn7287)» 
 
 
 
@@ -1821,7 +1821,7 @@ Błagam Cię zatem, na Twoje imię, poprzez które Tyś objawił swoją Boskoś�
 (Bahaiprayers.net ID: 7427)
 
 
-
+«[Polski](../pl/#bpn7427)» 
 
 
 
@@ -1833,7 +1833,7 @@ O Ty, niezrównany Panie! Spraw, aby to dzieciątko karmione było piersią Twej
 (Bahaiprayers.net ID: 7288)
 
 
-
+«[Polski](../pl/#bpn7288)» 
 
 
 
@@ -1845,7 +1845,7 @@ O Boże! Wychowuj to małe dziecię na łonie Twojej miłości i napój je mleki
 (Bahaiprayers.net ID: 7289)
 
 
-
+«[Polski](../pl/#bpn7289)» 
 
 
 
@@ -1869,7 +1869,7 @@ Tyś jest zaprawdę Najchwalebniejszym, Najłaskawszym.
 (Bahaiprayers.net ID: 7335)
 
 
-
+«[Polski](../pl/#bpn7335)» 
 
 
 
@@ -1883,7 +1883,7 @@ Uchroń go także, o mój Boże, potęgą swojego niezmierzonego majestatu od ws
 (Bahaiprayers.net ID: 7336)
 
 
-
+«[Polski](../pl/#bpn7336)» 
 
 
 
@@ -1899,7 +1899,7 @@ Tyś prawdziwie jest Wszechmocnym, Najbardziej Wywyższonym, Zawsze Przebaczają
 (Bahaiprayers.net ID: 7337)
 
 
-
+«[Polski](../pl/#bpn7337)» 
 
 
 
@@ -1915,7 +1915,7 @@ O Ty, Królu Królów! O Ty, łaskawy Panie! O Ty, Źródło pradawnej szczodro�
 (Bahaiprayers.net ID: 7338)
 
 
-
+«[Polski](../pl/#bpn7338)» 
 
 
 
@@ -1933,7 +1933,7 @@ Nie ma siły ni mocy prócz tej, która jest w Bogu, Najwznioślejszym, Najpotę
 (Bahaiprayers.net ID: 7339)
 
 
-
+«[Polski](../pl/#bpn7339)» 
 
 
 
@@ -1947,7 +1947,7 @@ Udziel swojego przebaczenia mnie i wiernym, którzy odpowiedzieli na Twoje Woła
 (Bahaiprayers.net ID: 7340)
 
 
-
+«[Polski](../pl/#bpn7340)» 
 
 
 
@@ -1965,7 +1965,7 @@ Niezmiernie wywyższony jesteś, o Panie! Ochraniaj nas przed wszystkim, co jest
 (Bahaiprayers.net ID: 7341)
 
 
-
+«[Polski](../pl/#bpn7341)» 
 
 
 
@@ -1981,7 +1981,7 @@ Zaprawdę, Tyś jest Obrońcą, Opiekunem, Ochroną, Wystarczającym, i Tyś zap
 (Bahaiprayers.net ID: 7343)
 
 
-
+«[Polski](../pl/#bpn7343)» 
 
 
 
@@ -2007,7 +2007,7 @@ O Ty, Boska Opatrzności, zachowaj i ochraniaj nas! O Ty, któryś jest naszą T
 (Bahaiprayers.net ID: 7344)
 
 
-
+«[Polski](../pl/#bpn7344)» 
 
 
 
@@ -2019,7 +2019,7 @@ O Boże, mój Boże! Osłaniaj swoje zaufane sługi przed złem egoizmu i namię
 (Bahaiprayers.net ID: 7342)
 
 
-
+«[Polski](../pl/#bpn7342)» 
 
 
 
@@ -2039,7 +2039,7 @@ Pochwalony, niezmiernie pochwalony jesteś! Uwielbiony jesteś w swojej prawdzie
 (Bahaiprayers.net ID: 7448)
 
 
-
+«[Polski](../pl/#bpn7448)» 
 
 
 
@@ -2055,7 +2055,7 @@ O mój Panie! Oczyść ich z przewinień, rozwiej smutki i zamień ich ciemnośc
 (Bahaiprayers.net ID: 7449)
 
 
-
+«[Polski](../pl/#bpn7449)» 
 
 
 
@@ -2071,7 +2071,7 @@ Zaprawdę, Tyś jest Hojnym, Potężnym, Przebaczającym i Obdarowującym.
 (Bahaiprayers.net ID: 7450)
 
 
-
+«[Polski](../pl/#bpn7450)» 
 
 
 
@@ -2087,7 +2087,7 @@ Tyś jest Wybaczającym, Dającym Światło i Wszechmocnym.
 (Bahaiprayers.net ID: 7451)
 
 
-
+«[Polski](../pl/#bpn7451)» 
 
 
 
@@ -2205,7 +2205,7 @@ Cytaty z Koranu: Koran, PWN Warszawa 1986
 (Bahaiprayers.net ID: 7483)
 
 
-
+«[Polski](../pl/#bpn7483)» 
 
 
 
@@ -2221,7 +2221,7 @@ O Boże, mój Boże! Wyruszyłem z mego domu, trzymając się mocno więzi Twoje
 (Bahaiprayers.net ID: 7345)
 
 
-
+«[Polski](../pl/#bpn7345)» 
 
 
 
@@ -2235,7 +2235,7 @@ Nie ma innego Boga poza Tobą, Jedynym, Niezrównanym, Wszechwiedzącym i Wszech
 (Bahaiprayers.net ID: 7346)
 
 
-
+«[Polski](../pl/#bpn7346)» 
 
 
 
@@ -2253,7 +2253,7 @@ Ty, zaprawdę, jesteś Królem wszystkich ludzi. Nie ma innego Boga poza Tobą, 
 (Bahaiprayers.net ID: 7347)
 
 
-
+«[Polski](../pl/#bpn7347)» 
 
 
 
@@ -2267,7 +2267,7 @@ O Boska Opatrzności! Dzięki Twojej szczodrobliwości zaistniało wszelkie stwo
 (Bahaiprayers.net ID: 7348)
 
 
-
+«[Polski](../pl/#bpn7348)» 
 
 
 
@@ -2285,7 +2285,7 @@ Powiedz: Bóg zaiste jest Twórcą wszystkich rzeczy. On darzy obfitością swej
 (Bahaiprayers.net ID: 7349)
 
 
-
+«[Polski](../pl/#bpn7349)» 
 
 
 
@@ -2297,7 +2297,7 @@ O mój Boże, mój Panie i mój Mistrzu! Odłączyłem się od mych bliskich i w
 (Bahaiprayers.net ID: 7350)
 
 
-
+«[Polski](../pl/#bpn7350)» 
 
 
 
@@ -2313,7 +2313,7 @@ Daj nam chleba naszego powszedniego i udziel swoich obfitszych darów w potrzeba
 (Bahaiprayers.net ID: 7351)
 
 
-
+«[Polski](../pl/#bpn7351)» 
 
 
 
@@ -2327,7 +2327,7 @@ O Ty, Żywicielu, o Ty, Przebaczający! Udziel nam swej łaski i serdecznej dobr
 (Bahaiprayers.net ID: 7352)
 
 
-
+«[Polski](../pl/#bpn7352)» 
 
 
 
@@ -2343,7 +2343,7 @@ Tyś zaiste jest Jedynym, w Jednej Osobie, Mocnym, Wszechwiedzącym, Wszechmądr
 (Bahaiprayers.net ID: 7353)
 
 
-
+«[Polski](../pl/#bpn7353)» 
 
 
 
@@ -2365,7 +2365,7 @@ Tyś jest prawdziwie Panem i Królem wszystkich ludzi, posiadającym władzę na
 (Bahaiprayers.net ID: 7354)
 
 
-
+«[Polski](../pl/#bpn7354)» 
 
 
 
@@ -2377,7 +2377,7 @@ Obudziłem się w Twoim schronieniu, o mój Boże, a temu, który szuka tego sch
 (Bahaiprayers.net ID: 7355)
 
 
-
+«[Polski](../pl/#bpn7355)» 
 
 
 
@@ -2397,7 +2397,7 @@ Ty nie zawiedziesz nikogo, kto Cię szuka, ani nie oddalisz tego, kto Ciebie pra
 (Bahaiprayers.net ID: 7356)
 
 
-
+«[Polski](../pl/#bpn7356)» 
 
 
 
@@ -2421,7 +2421,7 @@ Pomóż im, o mój Boże, uczynić Cię zwycięskim i wywyższyć Twoje Słowo. 
 (Bahaiprayers.net ID: 7468)
 
 
-
+«[Polski](../pl/#bpn7468)» 
 
 
 
@@ -2433,7 +2433,7 @@ W Imię Tego, który został obiecany w Księgach Boga, Wszechwiedzącego, Powia
 (Bahaiprayers.net ID: 7469)
 
 
-
+«[Polski](../pl/#bpn7469)» 
 
 
 
@@ -2471,7 +2471,7 @@ Błagam Cię, o mój Panie, przez wzgląd na Ciebie samego i na Twoje znaki i Tw
 (Bahaiprayers.net ID: 7470)
 
 
-
+«[Polski](../pl/#bpn7470)» 
 
 
 
@@ -2499,7 +2499,7 @@ Uczyń Twoją Sprawę zwycięską, o mój Panie, a poniż Twoich nieprzyjaciół
 (Bahaiprayers.net ID: 7471)
 
 
-
+«[Polski](../pl/#bpn7471)» 
 
 
 
@@ -2535,7 +2535,7 @@ Pochwalony bądź, o mój Boże, za to, żeś nam pomógł Go rozpoznać i umił
 (Bahaiprayers.net ID: 7472)
 
 
-
+«[Polski](../pl/#bpn7472)» 
 
 
 
@@ -2547,7 +2547,7 @@ Pochwalony bądź, o Boże, mój Boże! Oto są dni, podczas których Tyś nakaz
 (Bahaiprayers.net ID: 7473)
 
 
-
+«[Polski](../pl/#bpn7473)» 
 
 
 
@@ -2567,7 +2567,7 @@ Nie ma nikogo, o mój Panie, kto postąpiłby ze mną łaskawie, do kogo mógłb
 (Bahaiprayers.net ID: 7366)
 
 
-
+«[Polski](../pl/#bpn7366)» 
 
 
 
@@ -2581,7 +2581,7 @@ Jestem, o mój Boże, Twoim sługą i synem Twojego sługi. Rozpoznałem Twoją 
 (Bahaiprayers.net ID: 7367)
 
 
-
+«[Polski](../pl/#bpn7367)» 
 
 
 
@@ -2593,7 +2593,7 @@ Ty widzisz mnie, o mój Panie, z twarzą zwróconą w stronę nieba Twojej szczo
 (Bahaiprayers.net ID: 7368)
 
 
-
+«[Polski](../pl/#bpn7368)» 
 
 
 
@@ -2613,7 +2613,7 @@ Chwała niechaj będzie Bogu, Panu światów!
 (Bahaiprayers.net ID: 7369)
 
 
-
+«[Polski](../pl/#bpn7369)» 
 
 
 
@@ -2629,7 +2629,7 @@ Przebacz zatem, o Panie mój, swym sługom i swoim służebnicom. Zaprawdę, Ty�
 (Bahaiprayers.net ID: 7370)
 
 
-
+«[Polski](../pl/#bpn7370)» 
 
 
 
@@ -2647,7 +2647,7 @@ Tyś jest Najwyższym Władcą, Potężnym Czyniącym, Wzniosłym, Wszechmiłuj�
 (Bahaiprayers.net ID: 7371)
 
 
-
+«[Polski](../pl/#bpn7371)» 
 
 
 
@@ -2659,7 +2659,7 @@ Błagam Cię, abyś wybaczył mi, o mój Panie, każde wspominanie, które nie j
 (Bahaiprayers.net ID: 7373)
 
 
-
+«[Polski](../pl/#bpn7373)» 
 
 
 
@@ -2673,7 +2673,7 @@ Wysławiony bądź, o Panie! Ty zawsze przebaczasz grzechy tym ze sług swoich, 
 (Bahaiprayers.net ID: 7374)
 
 
-
+«[Polski](../pl/#bpn7374)» 
 
 
 
@@ -2687,7 +2687,7 @@ O Panie! Jeśli Ty mi nie przebaczysz, któż tedy udzieli mi przebaczenia, i je
 (Bahaiprayers.net ID: 7375)
 
 
-
+«[Polski](../pl/#bpn7375)» 
 
 
 
@@ -2699,7 +2699,7 @@ Chwała bądź Tobie, o Panie. Przebacz nam nasze grzechy, miej litość nad nam
 (Bahaiprayers.net ID: 7372)
 
 
-
+«[Polski](../pl/#bpn7372)» 
 
 
 
@@ -2711,7 +2711,7 @@ O Ty, przebaczający Panie! Ty jesteś schronieniem dla tych oto Twoich służeb
 (Bahaiprayers.net ID: 7376)
 
 
-
+«[Polski](../pl/#bpn7376)» 
 
 
 
@@ -2727,7 +2727,7 @@ O Ty, którego próby są uzdrawiającym lekarstwem dla znajdujących się blisk
 (Bahaiprayers.net ID: 7357)
 
 
-
+«[Polski](../pl/#bpn7357)» 
 
 
 
@@ -2745,7 +2745,7 @@ Mocen jesteś czynić wedle swego upodobania. Nie ma Boga poza Tobą, Pomocą w 
 (Bahaiprayers.net ID: 7358)
 
 
-
+«[Polski](../pl/#bpn7358)» 
 
 
 
@@ -2761,7 +2761,7 @@ Błagam Cię, o mój Boże, na nich samych i na westchnienia, które ich serca w
 (Bahaiprayers.net ID: 7359)
 
 
-
+«[Polski](../pl/#bpn7359)» 
 
 
 
@@ -2777,7 +2777,7 @@ Na koniec błagam Cię na światło Twego oblicza, abyś pobłogosławił moim s
 (Bahaiprayers.net ID: 7360)
 
 
-
+«[Polski](../pl/#bpn7360)» 
 
 
 
@@ -2791,7 +2791,7 @@ Spraw zatem, abym całkowicie zwrócił się ku Tobie, abym Tobie w pełni zaufa
 (Bahaiprayers.net ID: 7361)
 
 
-
+«[Polski](../pl/#bpn7361)» 
 
 
 
@@ -2803,7 +2803,7 @@ Czyż jest inny Wybawiciel od trudności niźli Bóg? Powiedz: Chwała niech bę
 (Bahaiprayers.net ID: 7362)
 
 
-
+«[Polski](../pl/#bpn7362)» 
 
 
 
@@ -2819,7 +2819,7 @@ Tyś jest nieskończenie wzniosłym, o Panie nieba i ziemi, ponad wychwalanie ws
 (Bahaiprayers.net ID: 7363)
 
 
-
+«[Polski](../pl/#bpn7363)» 
 
 
 
@@ -2831,7 +2831,7 @@ Zaklinam Cię na Twą moc, o mój Boże! Nie pozwól, by w chwilach próby spotk
 (Bahaiprayers.net ID: 7364)
 
 
-
+«[Polski](../pl/#bpn7364)» 
 
 
 
@@ -2843,7 +2843,7 @@ O Panie! Jesteś Tym, który usuwa wszelkie boleści i oddala wszystkie cierpien
 (Bahaiprayers.net ID: 7365)
 
 
-
+«[Polski](../pl/#bpn7365)» 
 
 
 
@@ -2863,7 +2863,7 @@ Zaprawdę, Tyś jest Dającym, Hojnym, Miłosiernym, Przebaczającym.
 (Bahaiprayers.net ID: 7431)
 
 
-
+«[Polski](../pl/#bpn7431)» 
 
 
 
@@ -2881,7 +2881,7 @@ O mój Boże! Tyś natchnął mą duszę, aby zanosiła do Ciebie modły i jedyn
 (Bahaiprayers.net ID: 7378)
 
 
-
+«[Polski](../pl/#bpn7378)» 
 
 
 
@@ -2893,7 +2893,7 @@ O Panie! W tym Największym Objawieniu Ty przyjmujesz wstawiennictwo dzieci za i
 (Bahaiprayers.net ID: 7379)
 
 
-
+«[Polski](../pl/#bpn7379)» 
 
 
 
@@ -2913,7 +2913,7 @@ Pobłogosław mnie, o mój Boże, i tych, którzy uwierzą w Twoje znaki w wyzna
 (Bahaiprayers.net ID: 7377)
 
 
-
+«[Polski](../pl/#bpn7377)» 
 
 
 
@@ -2931,7 +2931,7 @@ Mocen jesteś czynić wedle swego upodobania. Tyś zaiste jest Najwznioślejszym
 (Bahaiprayers.net ID: 7381)
 
 
-
+«[Polski](../pl/#bpn7381)» 
 
 
 
@@ -2943,7 +2943,7 @@ Obdarz mnie czystym sercem, o mój Boże, i przywróć mi spokojne sumienie, o m
 (Bahaiprayers.net ID: 7382)
 
 
-
+«[Polski](../pl/#bpn7382)» 
 
 
 
@@ -2961,7 +2961,7 @@ Panie! Nie odprawiaj mnie od oceanu swoich bogactw ani od nieba swojego miłosie
 (Bahaiprayers.net ID: 7383)
 
 
-
+«[Polski](../pl/#bpn7383)» 
 
 
 
@@ -2975,7 +2975,7 @@ Zaprawdę, Tyś jest Wszechmocnym, Najchwalebniejszym i Najpotężniejszym.
 (Bahaiprayers.net ID: 7384)
 
 
-
+«[Polski](../pl/#bpn7384)» 
 
 
 
@@ -2991,7 +2991,7 @@ Tyś prawdziwie jest Pomocą w Niebezpieczeństwie, dzięki potędze swej wszech
 (Bahaiprayers.net ID: 7385)
 
 
-
+«[Polski](../pl/#bpn7385)» 
 
 
 
@@ -3005,7 +3005,7 @@ Błagam Cię, dozwól temu słudze osiągnąć to, co stanie się przyczyną jeg
 (Bahaiprayers.net ID: 7386)
 
 
-
+«[Polski](../pl/#bpn7386)» 
 
 
 
@@ -3027,7 +3027,7 @@ Tyś zaprawdę jest Wszechmogącym, Wybaczającym, Współczującym.
 (Bahaiprayers.net ID: 7387)
 
 
-
+«[Polski](../pl/#bpn7387)» 
 
 
 
@@ -3045,7 +3045,7 @@ Chwała niech będzie Bogu, Panu wszystkich światów.
 (Bahaiprayers.net ID: 7388)
 
 
-
+«[Polski](../pl/#bpn7388)» 
 
 
 
@@ -3057,7 +3057,7 @@ Błagam Cię, o mój Boże, przez całą najwyższą chwałę Twojego Imienia, a
 (Bahaiprayers.net ID: 7389)
 
 
-
+«[Polski](../pl/#bpn7389)» 
 
 
 
@@ -3075,7 +3075,7 @@ W istocie, gdybyś zapragnął zesłać błogosławieństwa na sługę, starłby
 (Bahaiprayers.net ID: 7390)
 
 
-
+«[Polski](../pl/#bpn7390)» 
 
 
 
@@ -3093,7 +3093,7 @@ Zaprawdę, Tyś jest Miłosiernym i zaprawdę Tyś jest Najhojniejszym, którego
 (Bahaiprayers.net ID: 7391)
 
 
-
+«[Polski](../pl/#bpn7391)» 
 
 
 
@@ -3105,7 +3105,7 @@ O Panie mój! O Panie mój! Oto kaganek zapalony ogniem Twojej miłości i gorej
 (Bahaiprayers.net ID: 7392)
 
 
-
+«[Polski](../pl/#bpn7392)» 
 
 
 
@@ -3119,7 +3119,7 @@ Zaprawdę, Tyś jest Najhojniejszym, Panem obfitej łaski. Nie ma innego Boga po
 (Bahaiprayers.net ID: 7393)
 
 
-
+«[Polski](../pl/#bpn7393)» 
 
 
 
@@ -3137,7 +3137,7 @@ Zaprawdę, Tyś jest Mocnym, Potężnym, Chroniącym, Silnym, Dobroczynnym! Zapr
 (Bahaiprayers.net ID: 7394)
 
 
-
+«[Polski](../pl/#bpn7394)» 
 
 
 
@@ -3153,7 +3153,7 @@ Tyś jest zaprawdę, Mocnym, Wywyższonym, Potężnym, Tym, który jako jedyny w
 (Bahaiprayers.net ID: 7395)
 
 
-
+«[Polski](../pl/#bpn7395)» 
 
 
 
@@ -3171,7 +3171,7 @@ O Panie, Boże mój! Uniżeni są ci słudzy Twoi, wywyższyj ich w swoim króle
 (Bahaiprayers.net ID: 7396)
 
 
-
+«[Polski](../pl/#bpn7396)» 
 
 
 
@@ -3189,7 +3189,7 @@ Tyś jest Mocnym, Potężnym. Tyś Bogiem siły, Wszechmogącym, Wszystkowidząc
 (Bahaiprayers.net ID: 7397)
 
 
-
+«[Polski](../pl/#bpn7397)» 
 
 
 
@@ -3207,7 +3207,7 @@ Błagam Cię, na Ciebie samego i na Tego, któregoś ustanowił Objawicielem swe
 (Bahaiprayers.net ID: 7400)
 
 
-
+«[Polski](../pl/#bpn7400)» 
 
 
 
@@ -3225,7 +3225,7 @@ O Boże! Wspomóż nas swoją opatrznością. Tyś jest Potężnym. Tyś jest Da
 (Bahaiprayers.net ID: 7401)
 
 
-
+«[Polski](../pl/#bpn7401)» 
 
 
 
@@ -3241,7 +3241,7 @@ Tyś jest Potężnym. Tyś jest Mocnym. Tyś jest Dającym i Tyś jest Zawsze Ho
 (Bahaiprayers.net ID: 7402)
 
 
-
+«[Polski](../pl/#bpn7402)» 
 
 
 
@@ -3255,7 +3255,7 @@ Zaprawdę, Tyś jest Hojnym. Zaprawdę, Tyś jest Miłosiernym. Zaprawdę, Tyś 
 (Bahaiprayers.net ID: 7403)
 
 
-
+«[Polski](../pl/#bpn7403)» 
 
 
 
@@ -3275,7 +3275,7 @@ Tyś jest Mocnym, Wszechmogącym, Miłosiernym, i Tyś jest Hojnym, Dobroczynnym
 (Bahaiprayers.net ID: 7404)
 
 
-
+«[Polski](../pl/#bpn7404)» 
 
 
 
@@ -3289,7 +3289,7 @@ Zaprawdę, Tyś jest Wszechmogącym i Wszechpotężnym!
 (Bahaiprayers.net ID: 7405)
 
 
-
+«[Polski](../pl/#bpn7405)» 
 
 
 
@@ -3303,7 +3303,7 @@ Tyś jest Dającym, Obdarowującym, Zawsze Miłującym.
 (Bahaiprayers.net ID: 7406)
 
 
-
+«[Polski](../pl/#bpn7406)» 
 
 
 
@@ -3325,7 +3325,7 @@ Nie ma Boga poza Tobą, Wszechmocnym, Wszechmądrym.
 (Bahaiprayers.net ID: 7408)
 
 
-
+«[Polski](../pl/#bpn7408)» 
 
 
 
@@ -3343,7 +3343,7 @@ Przeznacz dla mnie, przez Twoją hojność, o Panie, to, co zapewni mi pomyślno
 (Bahaiprayers.net ID: 7409)
 
 
-
+«[Polski](../pl/#bpn7409)» 
 
 
 
@@ -3359,7 +3359,7 @@ Tyś jest Przebaczającym, Łaskawym.
 (Bahaiprayers.net ID: 7410)
 
 
-
+«[Polski](../pl/#bpn7410)» 
 
 
 
@@ -3375,7 +3375,7 @@ Tyś jest Współczującym, Miłosiernym. Tyś jest Wielkim Dobroczynnym Bogiem.
 (Bahaiprayers.net ID: 7411)
 
 
-
+«[Polski](../pl/#bpn7411)» 
 
 
 
@@ -3389,7 +3389,7 @@ Zaprawdę, Tyś jest Niezwyciężonym, Wszechmocnym, Wszechpotężnym.
 (Bahaiprayers.net ID: 7412)
 
 
-
+«[Polski](../pl/#bpn7412)» 
 
 
 
@@ -3407,7 +3407,7 @@ Błagam Cię ponadto, o mój Boże, abyś ustanowił dla mnie to, co uczyni mnie
 (Bahaiprayers.net ID: 7398)
 
 
-
+«[Polski](../pl/#bpn7398)» 
 
 
 
@@ -3433,7 +3433,7 @@ Tyś zaiste jest Wszechmogącym, Najbardziej Wywyższonym, Wszystkowiedzącym, W
 (Bahaiprayers.net ID: 7399)
 
 
-
+«[Polski](../pl/#bpn7399)» 
 
 
 
@@ -3485,7 +3485,7 @@ Zaprawdę, On jest Miłosiernym, Litościwym. Chwała niech będzie Bogu, Panu w
 (Bahaiprayers.net ID: 7479)
 
 
-
+«[Polski](../pl/#bpn7479)» 
 
 
 
@@ -3601,7 +3601,7 @@ Jeżeli wszyscy służebnicy przeczytają i rozważą to, w ich żyłach zapłon
 (Bahaiprayers.net ID: 7480)
 
 
-
+«[Polski](../pl/#bpn7480)» 
 
 
 
@@ -3650,7 +3650,7 @@ Błogosławiony człowiek, którego poruszyły słodkie wonie ponownego spotkani
 (Bahaiprayers.net ID: 7482)
 
 
-
+«[Polski](../pl/#bpn7482)» 
 
 
 
@@ -3899,7 +3899,7 @@ Wysławiony niech będzie nasz Pan, Przenajwyższy!
 (Bahaiprayers.net ID: 7481)
 
 
-
+«[Polski](../pl/#bpn7481)» 
 
 
 
@@ -3929,7 +3929,7 @@ Błogosław, o Panie, mój Boże, Boskie Drzewo Lote oraz jego liście, i jego k
 (Bahaiprayers.net ID: 7474)
 
 
-
+«[Polski](../pl/#bpn7474)» 
 
 
 
@@ -3955,7 +3955,7 @@ Tyś jest Obdarowującym, Litościwym, Najhojniejszym, Łaskawym, Miłosiernym, 
 (Bahaiprayers.net ID: 7475)
 
 
-
+«[Polski](../pl/#bpn7475)» 
 
 
 
@@ -3975,7 +3975,7 @@ Pochwalone bądź Imię Twoje, o Ty, który jesteś Królem wszystkich Królów!
 (Bahaiprayers.net ID: 7413)
 
 
-
+«[Polski](../pl/#bpn7413)» 
 
 
 
@@ -3991,7 +3991,7 @@ Tyś prawdziwie jest Panem całej ludzkości, który w swoim posiadaniu ma ten �
 (Bahaiprayers.net ID: 7414)
 
 
-
+«[Polski](../pl/#bpn7414)» 
 
 
 
@@ -4007,7 +4007,7 @@ Tyś, w samej prawdzie, jest Panem światów i Bogiem wszystkich, którzy są w 
 (Bahaiprayers.net ID: 7415)
 
 
-
+«[Polski](../pl/#bpn7415)» 
 
 
 
@@ -4025,7 +4025,7 @@ Twoja moc, zaiste, może wszystko sprawić.
 (Bahaiprayers.net ID: 7416)
 
 
-
+«[Polski](../pl/#bpn7416)» 
 
 
 
@@ -4043,7 +4043,7 @@ Mocen jesteś czynić wedle Twego upodobania. Tyś jest zaprawdę Wszechpotężn
 (Bahaiprayers.net ID: 7417)
 
 
-
+«[Polski](../pl/#bpn7417)» 
 
 
 
@@ -4063,7 +4063,7 @@ Nie ma innego Boga poza Tobą, Wszechmogącym, Dobroczynnym.
 (Bahaiprayers.net ID: 7418)
 
 
-
+«[Polski](../pl/#bpn7418)» 
 
 
 
@@ -4081,7 +4081,7 @@ Udziel swych błogosławieństw, o mój Panie, Posłańcom, świętym i prawym. 
 (Bahaiprayers.net ID: 7419)
 
 
-
+«[Polski](../pl/#bpn7419)» 
 
 
 
@@ -4093,7 +4093,7 @@ Powiedz: Bóg wystarcza wszelkiemu stworzeniu ponad wszystko i nic w niebie ani 
 (Bahaiprayers.net ID: 7421)
 
 
-
+«[Polski](../pl/#bpn7421)» 
 
 
 
@@ -4113,7 +4113,7 @@ Twoją jest wszelka władza rozkazywania.
 (Bahaiprayers.net ID: 7420)
 
 
-
+«[Polski](../pl/#bpn7420)» 
 
 
 
@@ -4131,7 +4131,7 @@ Ty jesteś, zaprawdę, Wszechmocnym, Wszechsławnym, Wszechpotężnym.
 (Bahaiprayers.net ID: 7422)
 
 
-
+«[Polski](../pl/#bpn7422)» 
 
 
 
@@ -4147,7 +4147,7 @@ Tyś zaprawdę jest Potężnym, Nieustannie Dającym, Mogącym, Wszechmocnym.
 (Bahaiprayers.net ID: 7423)
 
 
-
+«[Polski](../pl/#bpn7423)» 
 
 
 
@@ -4167,7 +4167,7 @@ Mocen jesteś czynić wszystko wedle swego upodobania. Nie ma innego Boga poza T
 (Bahaiprayers.net ID: 7424)
 
 
-
+«[Polski](../pl/#bpn7424)» 
 
 
 
@@ -4181,7 +4181,7 @@ Tyś zaprawdę jest Uzdrawiającym, Ocalającym, Pomagającym, Wszechmogącym, P
 (Bahaiprayers.net ID: 7426)
 
 
-
+«[Polski](../pl/#bpn7426)» 
 
 
 
@@ -4193,7 +4193,7 @@ Twoje imię jest moim uzdrowieniem, o mój Boże, a pamięć o Tobie jest moim l
 (Bahaiprayers.net ID: 7425)
 
 
-
+«[Polski](../pl/#bpn7425)» 
 
 
 
@@ -4213,7 +4213,7 @@ Nie ma innego Boga poza Tobą, Wszechmocnym, Wszechujarzmiającym, Nieuwarunkowa
 (Bahaiprayers.net ID: 7429)
 
 
-
+«[Polski](../pl/#bpn7429)» 
 
 
 
@@ -4229,7 +4229,7 @@ Na Twoją moc, we śnie czy na jawie, o nic innego nie proszę prócz tego, czeg
 (Bahaiprayers.net ID: 7430)
 
 
-
+«[Polski](../pl/#bpn7430)» 
 
 
 
@@ -4247,7 +4247,7 @@ Oświeć twarze swoich służebników, o Panie, aby mogli ujrzeć Ciebie; oraz o
 (Bahaiprayers.net ID: 7432)
 
 
-
+«[Polski](../pl/#bpn7432)» 
 
 
 
@@ -4265,7 +4265,7 @@ Wszelka cześć i chwała niech będą Tobie, o którym wszystkie rzeczy dają �
 (Bahaiprayers.net ID: 7433)
 
 
-
+«[Polski](../pl/#bpn7433)» 
 
 
 
@@ -4281,7 +4281,7 @@ Tyś jest Bogiem mocy, chwały i szczodrobliwości. Nie ma innego Boga poza Tob�
 (Bahaiprayers.net ID: 7434)
 
 
-
+«[Polski](../pl/#bpn7434)» 
 
 
 
@@ -4295,7 +4295,7 @@ Tyś jest Wszechmocnym, Najwznioślejszym, Najchwalebniejszym, Wszechmiłującym
 (Bahaiprayers.net ID: 7435)
 
 
-
+«[Polski](../pl/#bpn7435)» 
 
 
 
@@ -4309,7 +4309,7 @@ Błagam Cię, o mój Panie, przez Twoje Największe Imię, z pomocą którego ro
 (Bahaiprayers.net ID: 7436)
 
 
-
+«[Polski](../pl/#bpn7436)» 
 
 
 
@@ -4345,7 +4345,7 @@ Wszelka łaska jest Twoja, o Ty, który jesteś Panem łaski i Władcą łaski, 
 (Bahaiprayers.net ID: 7437)
 
 
-
+«[Polski](../pl/#bpn7437)» 
 
 
 
@@ -4361,7 +4361,7 @@ Chwała Tobie, wywyższony jesteś ponad opis kogokolwiek poza swoim, albowiem s
 (Bahaiprayers.net ID: 7438)
 
 
-
+«[Polski](../pl/#bpn7438)» 
 
 
 
@@ -4379,7 +4379,7 @@ Zaprawdę, Tyś jest Panem Siły, mocen jesteś ustanowić to, czego tylko zapra
 (Bahaiprayers.net ID: 7439)
 
 
-
+«[Polski](../pl/#bpn7439)» 
 
 
 
@@ -4395,7 +4395,7 @@ Chwała niechaj będzie Tobie, o Ty, któryś jest Umiłowanym tych, którzy Ci�
 (Bahaiprayers.net ID: 7440)
 
 
-
+«[Polski](../pl/#bpn7440)» 
 
 
 
@@ -4411,7 +4411,7 @@ Tyś zaprawdę jest Bogiem Mocy, Pomocą w Niebezpieczeństwie, Najchwalebniejsz
 (Bahaiprayers.net ID: 7441)
 
 
-
+«[Polski](../pl/#bpn7441)» 
 
 
 
@@ -4435,7 +4435,7 @@ Proszę Cię, o Panie wszelkiego istnienia i Królu rzeczy widzialnych i niewidz
 (Bahaiprayers.net ID: 7442)
 
 
-
+«[Polski](../pl/#bpn7442)» 
 
 
 
@@ -4449,7 +4449,7 @@ Racz sprawić, o mój Boże, abym nie został zaliczony do tych, których uszy s
 (Bahaiprayers.net ID: 7443)
 
 
-
+«[Polski](../pl/#bpn7443)» 
 
 
 
@@ -4463,7 +4463,7 @@ Zaprawdę, Tyś jest najwyższym Władcą, Panującą Prawdą, Pomocą w Niebezp
 (Bahaiprayers.net ID: 7444)
 
 
-
+«[Polski](../pl/#bpn7444)» 
 
 
 
@@ -4475,7 +4475,7 @@ O Panie, Boże mój! Pomóż swoim umiłowanym, aby byli mocni w Twojej Wierze, 
 (Bahaiprayers.net ID: 7445)
 
 
-
+«[Polski](../pl/#bpn7445)» 
 
 
 
@@ -4491,7 +4491,7 @@ Zaprawdę, Tyś jest Hojnym, Nieustannie Dającym, Drogocennym, Najłaskawszym. 
 (Bahaiprayers.net ID: 7446)
 
 
-
+«[Polski](../pl/#bpn7446)» 
 
 
 
@@ -4511,7 +4511,7 @@ Zaiste, Tyś jest Potężnym, Mocnym i Wszechmogącym; Tyś jest Mądrym, Słysz
 (Bahaiprayers.net ID: 7325)
 
 
-
+«[Polski](../pl/#bpn7325)» 
 
 
 
@@ -4531,7 +4531,7 @@ Zaprawdę, Ty umacniasz kogokolwiek zechcesz w tym, czego pragniesz, i zaprawdę
 (Bahaiprayers.net ID: 7326)
 
 
-
+«[Polski](../pl/#bpn7326)» 
 
 
 
@@ -4553,7 +4553,7 @@ Zaprawdę, Tyś jest Łaskawym, Potężnym, Mocnym i Najmiłosierniejszym z mił
 (Bahaiprayers.net ID: 7327)
 
 
-
+«[Polski](../pl/#bpn7327)» 
 
 
 
@@ -4587,7 +4587,7 @@ Zaprawdę, Tyś jest Najhojniejszym, Panem obfitych łask i zaprawdę Tyś jest 
 (Bahaiprayers.net ID: 7328)
 
 
-
+«[Polski](../pl/#bpn7328)» 
 
 
 
@@ -4607,7 +4607,7 @@ Zaprawdę, Tyś jest Mocnym, Potężnym, Mądrym i Widzącym.
 (Bahaiprayers.net ID: 7329)
 
 
-
+«[Polski](../pl/#bpn7329)» 
 
 
 
@@ -4623,7 +4623,7 @@ Tyś jest Wszechmocnym i Czyniącym wedle swojego upodobania.
 (Bahaiprayers.net ID: 7330)
 
 
-
+«[Polski](../pl/#bpn7330)» 
 
 
 
@@ -4641,7 +4641,7 @@ O Panie! Jestem słaby, umocnij mnie swoją potęgą i mocą. Język mój słabn
 (Bahaiprayers.net ID: 7331)
 
 
-
+«[Polski](../pl/#bpn7331)» 
 
 
 
@@ -4657,7 +4657,7 @@ O Panie! Jestem sam, opuszczony i uniżony. Nie mam innej podpory oprócz Ciebie
 (Bahaiprayers.net ID: 7332)
 
 
-
+«[Polski](../pl/#bpn7332)» 
 
 
 
@@ -4673,7 +4673,7 @@ Zaprawdę, Tyś jest Wszechpotężnym, Najbardziej Wywyższonym, Zawsze Przebacz
 (Bahaiprayers.net ID: 7333)
 
 
-
+«[Polski](../pl/#bpn7333)» 
 
 
 
@@ -4693,7 +4693,7 @@ Zaprawdę, Tyś jest Potężnym, Mocnym, Wszechmogącym.
 (Bahaiprayers.net ID: 7334)
 
 
-
+«[Polski](../pl/#bpn7334)» 
 
 
 
@@ -4711,7 +4711,7 @@ O Boże, mój Boże! My słudzy Twoi zwracamy się z oddaniem ku Twojemu Święt
 (Bahaiprayers.net ID: 7476)
 
 
-
+«[Polski](../pl/#bpn7476)» 
 
 
 
@@ -4727,7 +4727,7 @@ O Ty, nasz Dobrodzieju! Ześlij nam swoją pomoc, aby każdy tu obecny stał si�
 (Bahaiprayers.net ID: 7477)
 
 
-
+«[Polski](../pl/#bpn7477)» 
 
 
 
@@ -4747,7 +4747,7 @@ Zaprawdę, Tyś jest Hojnym, Miłosiernym. Ty posiadasz wielkie łaski i zaprawd
 (Bahaiprayers.net ID: 7478)
 
 
-
+«[Polski](../pl/#bpn7478)» 
 
 
 
@@ -4767,7 +4767,7 @@ Mocen jesteś czynić wedle swego upodobania. Nie ma Boga poza Tobą, Wszystkowi
 (Bahaiprayers.net ID: 7455)
 
 
-
+«[Polski](../pl/#bpn7455)» 
 
 
 
@@ -4781,7 +4781,7 @@ Zaprawdę, Tyś jest Wszechmocnym, Zawsze Przebaczającym, Najhojniejszym.
 (Bahaiprayers.net ID: 7456)
 
 
-
+«[Polski](../pl/#bpn7456)» 
 
 
 
@@ -4799,7 +4799,7 @@ Spraw, o Panie, aby dzięki posłuszeństwu wobec Twojej nienaruszalnej Wiary se
 (Bahaiprayers.net ID: 7457)
 
 
-
+«[Polski](../pl/#bpn7457)» 
 
 
 
@@ -4813,7 +4813,7 @@ Wielkie jest błogosławieństwo tych, których krew Tyś wybrał do podlewania 
 (Bahaiprayers.net ID: 7458)
 
 
-
+«[Polski](../pl/#bpn7458)» 
 
 
 
@@ -4829,7 +4829,7 @@ Zaprawdę, Tyś jest naszym Panem i Panem wszechrzeczy. Oddajemy się w ręce Tw
 (Bahaiprayers.net ID: 7459)
 
 
-
+«[Polski](../pl/#bpn7459)» 
 
 
 
@@ -4843,7 +4843,7 @@ Od niepamiętnych czasów mocen jesteś czynić wedle swego upodobania i góruje
 (Bahaiprayers.net ID: 7460)
 
 
-
+«[Polski](../pl/#bpn7460)» 
 
 
 
@@ -4859,7 +4859,7 @@ Zaprawdę, Tyś jest Dającym, Przebaczającym, Zawsze Obdarowującym. Zaprawdę
 (Bahaiprayers.net ID: 7461)
 
 
-
+«[Polski](../pl/#bpn7461)» 
 
 
 
@@ -4877,7 +4877,7 @@ Chwała chwał spoczywa na tych, którzy są stali i mocni.
 (Bahaiprayers.net ID: 7462)
 
 
-
+«[Polski](../pl/#bpn7462)» 
 
 
 
@@ -4917,7 +4917,7 @@ Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest 
 (Bahaiprayers.net ID: 7268)
 
 
-
+«[Polski](../pl/#bpn7268)» 
 
 
 
@@ -4933,7 +4933,7 @@ O Boże! Rozprosz wszelkie przyczyny niezgody a przygotuj dla nas to, co wiedzie
 (Bahaiprayers.net ID: 7407)
 
 
-
+«[Polski](../pl/#bpn7407)» 
 
 
 
@@ -4951,7 +4951,7 @@ Tyś wywyższony jest, o Panie całego stworzenia, Ty, ku któremu muszą zwróc
 (Bahaiprayers.net ID: 7464)
 
 
-
+«[Polski](../pl/#bpn7464)» 
 
 
 
@@ -4967,7 +4967,7 @@ Błagam Cię, o Panie wszystkich imion i Stwórco niebios, abyś dzięki swej wz
 (Bahaiprayers.net ID: 7465)
 
 
-
+«[Polski](../pl/#bpn7465)» 
 
 
 

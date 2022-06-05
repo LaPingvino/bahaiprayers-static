@@ -92,7 +92,7 @@ Vegsamað sé nafn Þitt, ó Þú sem ert konungur allra konunga.
 (Bahaiprayers.net ID: 1603)
 
 
-
+«[Íslenska](../is/#bpn1603)» 
 
 
 
@@ -106,7 +106,7 @@ Skrýð Þú, ó Drottinn minn, bæði innri og ytri verund mína búningi hylli
 (Bahaiprayers.net ID: 1604)
 
 
-
+«[Íslenska](../is/#bpn1604)» 
 
 
 
@@ -120,7 +120,7 @@ Lofað sé nafn Þitt, ó Guð minn! Ég sárbæni Þig við ilminn af klæðum 
 (Bahaiprayers.net ID: 1605)
 
 
-
+«[Íslenska](../is/#bpn1605)» 
 
 
 
@@ -135,7 +135,7 @@ Máttur Þinn er að sönnu jafnoki alls sem er.
 (Bahaiprayers.net ID: 1606)
 
 
-
+«[Íslenska](../is/#bpn1606)» 
 
 
 
@@ -150,7 +150,7 @@ Sumum gerðir Þú kleift, ó Guð minn, með styrkj­andi náð Þinni að nál
 (Bahaiprayers.net ID: 1607)
 
 
-
+«[Íslenska](../is/#bpn1607)» 
 
 
 
@@ -166,7 +166,7 @@ Enginn er Guð nema Þú, hinn almáttugi og bless­unarríki.
 (Bahaiprayers.net ID: 1608)
 
 
-
+«[Íslenska](../is/#bpn1608)» 
 
 
 
@@ -179,7 +179,7 @@ Tendra einnig í brjósti mér, ó Guð minn, eld ástar Þinnar, svo logar hans
 (Bahaiprayers.net ID: 1609)
 
 
-
+«[Íslenska](../is/#bpn1609)» 
 
 
 
@@ -194,7 +194,7 @@ Lát mig ekki, ó Drottinn minn, fara á mis við að þekkja Þig á dögum Þ�
 (Bahaiprayers.net ID: 1610)
 
 
-
+«[Íslenska](../is/#bpn1610)» 
 
 
 
@@ -208,7 +208,7 @@ Veit blessanir Þínar, ó Drottinn minn, sendi­boðum Þínum, hinum heilögu 
 (Bahaiprayers.net ID: 1611)
 
 
-
+«[Íslenska](../is/#bpn1611)» 
 
 
 
@@ -224,7 +224,7 @@ Veit mér hjálp Þína, sem ein nægir mér, svo að ég verði óháður öllu
 (Bahaiprayers.net ID: 1612)
 
 
-
+«[Íslenska](../is/#bpn1612)» 
 
 
 
@@ -239,7 +239,7 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1613)
 
 
-
+«[Íslenska](../is/#bpn1613)» 
 
 
 
@@ -253,7 +253,7 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1614)
 
 
-
+«[Íslenska](../is/#bpn1614)» 
 
 
 
@@ -271,7 +271,7 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1615)
 
 
-
+«[Íslenska](../is/#bpn1615)» 
 
 
 
@@ -285,7 +285,7 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1616)
 
 
-
+«[Íslenska](../is/#bpn1616)» 
 
 
 
@@ -301,7 +301,7 @@ Sannlega ert Þú hinn örláti og miskunnsami. Þú ert eigandi mikillar hylli 
 (Bahaiprayers.net ID: 1617)
 
 
-
+«[Íslenska](../is/#bpn1617)» 
 
 
 
@@ -318,7 +318,7 @@ Gef mér að drekka af ilmsætum straumi eilífðar Þinnar, ó Guð minn. Og ge
 (Bahaiprayers.net ID: 1585)
 
 
-
+«[Íslenska](../is/#bpn1585)» 
 
 
 
@@ -330,7 +330,7 @@ Skapa í mér hreint hjarta, ó Guð minn, og end­ur­nýja kyrrláta samvisku 
 (Bahaiprayers.net ID: 1586)
 
 
-
+«[Íslenska](../is/#bpn1586)» 
 
 
 
@@ -345,7 +345,7 @@ Drottinn! Snú mér ekki burt frá úthafi auðæfa Þinna og himni náðar Þin
 (Bahaiprayers.net ID: 1587)
 
 
-
+«[Íslenska](../is/#bpn1587)» 
 
 
 
@@ -358,7 +358,7 @@ Drottinn! Snú mér ekki burt frá úthafi auðæfa Þinna og himni náðar Þin
 (Bahaiprayers.net ID: 1588)
 
 
-
+«[Íslenska](../is/#bpn1588)» 
 
 
 
@@ -370,7 +370,7 @@ Seg: ó Guð, Guð minn! Krýn höfuð mitt kórónu réttlætisins og musteri m
 (Bahaiprayers.net ID: 1589)
 
 
-
+«[Íslenska](../is/#bpn1589)» 
 
 
 
@@ -384,7 +384,7 @@ Lofað sé nafn Þitt, ó Drottinn Guð minn! Ég er þjónn Þinn sem hef teki�
 (Bahaiprayers.net ID: 1590)
 
 
-
+«[Íslenska](../is/#bpn1590)» 
 
 
 
@@ -397,7 +397,7 @@ Lofað sé nafn Þitt, ó Drottinn Guð minn! Ég er þjónn Þinn sem hef teki�
 (Bahaiprayers.net ID: 1591)
 
 
-
+«[Íslenska](../is/#bpn1591)» 
 
 
 
@@ -414,7 +414,7 @@ Við yfirráð Þín, ó Þú sem ert vegsamaður í hjörtum manna! Ég hef lei
 (Bahaiprayers.net ID: 1592)
 
 
-
+«[Íslenska](../is/#bpn1592)» 
 
 
 
@@ -429,7 +429,7 @@ Lof sé Guði, Drottni allra veraldanna.
 (Bahaiprayers.net ID: 1593)
 
 
-
+«[Íslenska](../is/#bpn1593)» 
 
 
 
@@ -441,7 +441,7 @@ Gef mér, ó Guð minn, fullan mæli ástar Þinnar og velþóknunar og ger hjö
 (Bahaiprayers.net ID: 1594)
 
 
-
+«[Íslenska](../is/#bpn1594)» 
 
 
 
@@ -454,7 +454,7 @@ Gef mér, ó Guð minn, fullan mæli ástar Þinnar og velþóknunar og ger hjö
 (Bahaiprayers.net ID: 1595)
 
 
-
+«[Íslenska](../is/#bpn1595)» 
 
 
 
@@ -469,7 +469,7 @@ Sannlega ert Þú miskunnsamur og sannlega ert Þú hinn örlátasti, sá sem al
 (Bahaiprayers.net ID: 1596)
 
 
-
+«[Íslenska](../is/#bpn1596)» 
 
 
 
@@ -481,7 +481,7 @@ Sannlega ert Þú miskunnsamur og sannlega ert Þú hinn örlátasti, sá sem al
 (Bahaiprayers.net ID: 1597)
 
 
-
+«[Íslenska](../is/#bpn1597)» 
 
 
 
@@ -494,7 +494,7 @@ Sannlega ert Þú hinn örlátasti, Drottinn ríku­legrar náðar. Enginn er Gu
 (Bahaiprayers.net ID: 1598)
 
 
-
+«[Íslenska](../is/#bpn1598)» 
 
 
 
@@ -510,7 +510,7 @@ Sannlega ert Þú Drottinn allra miskunnsemda.
 (Bahaiprayers.net ID: 1599)
 
 
-
+«[Íslenska](../is/#bpn1599)» 
 
 
 
@@ -524,7 +524,7 @@ Sannlega ert Þú Drottinn allra miskunnsemda.
 (Bahaiprayers.net ID: 1600)
 
 
-
+«[Íslenska](../is/#bpn1600)» 
 
 
 
@@ -539,7 +539,7 @@ Skýl þeim í virki verndar Þinnar og öryggis, og varðveit þá í vökulli 
 (Bahaiprayers.net ID: 1601)
 
 
-
+«[Íslenska](../is/#bpn1601)» 
 
 
 
@@ -554,7 +554,7 @@ Skýl þeim í virki verndar Þinnar og öryggis, og varðveit þá í vökulli 
 (Bahaiprayers.net ID: 1602)
 
 
-
+«[Íslenska](../is/#bpn1602)» 
 
 
 
@@ -579,7 +579,7 @@ Guð minn, eldur minn og ljós! Dagarnir sem Þú hefur nefnt Ayyám-i-Há¹ í 
 (Bahaiprayers.net ID: 1766)
 
 
-
+«[Íslenska](../is/#bpn1766)» 
 
 
 
@@ -596,7 +596,7 @@ Guð minn, eldur minn og ljós! Dagarnir sem Þú hefur nefnt Ayyám-i-Há¹ í 
 (Bahaiprayers.net ID: 1578)
 
 
-
+«[Íslenska](../is/#bpn1578)» 
 
 
 
@@ -609,7 +609,7 @@ Guð minn, Þú sem ég tilbið, konungur minn, þrá mín! Hvaða tunga fær tj
 (Bahaiprayers.net ID: 1579)
 
 
-
+«[Íslenska](../is/#bpn1579)» 
 
 
 
@@ -624,7 +624,7 @@ Seg: Guð er að sönnu skapari allra hluta. Hann gefur ríkulega næringu þeim
 (Bahaiprayers.net ID: 1580)
 
 
-
+«[Íslenska](../is/#bpn1580)» 
 
 
 
@@ -636,7 +636,7 @@ Seg: Guð er að sönnu skapari allra hluta. Hann gefur ríkulega næringu þeim
 (Bahaiprayers.net ID: 1581)
 
 
-
+«[Íslenska](../is/#bpn1581)» 
 
 
 
@@ -650,7 +650,7 @@ Gef okkur daglegt brauð og aukið lífsviðurværi, svo að við megum vera óh
 (Bahaiprayers.net ID: 1582)
 
 
-
+«[Íslenska](../is/#bpn1582)» 
 
 
 
@@ -663,7 +663,7 @@ Gef okkur daglegt brauð og aukið lífsviðurværi, svo að við megum vera óh
 (Bahaiprayers.net ID: 1583)
 
 
-
+«[Íslenska](../is/#bpn1583)» 
 
 
 
@@ -677,7 +677,7 @@ Drottinn! Snú Þú þjakandi áhyggjum Þinna heilögu í rósemi, erfiðleikum
 (Bahaiprayers.net ID: 1584)
 
 
-
+«[Íslenska](../is/#bpn1584)» 
 
 
 
@@ -689,7 +689,7 @@ Drottinn! Snú Þú þjakandi áhyggjum Þinna heilögu í rósemi, erfiðleikum
 (Bahaiprayers.net ID: 8374)
 
 
-
+«[Íslenska](../is/#bpn8374)» 
 
 
 
@@ -720,7 +720,7 @@ Sannlega erum við öll þolinmóð í Guði.
 (Bahaiprayers.net ID: 1632)
 
 
-
+«[Íslenska](../is/#bpn1632)» 
 
 
 
@@ -734,7 +734,7 @@ Dýrlegur, ómælanlega dýrlegur ert Þú! Þú ert vegsamaður í sannleika Þ
 (Bahaiprayers.net ID: 1633)
 
 
-
+«[Íslenska](../is/#bpn1633)» 
 
 
 
@@ -756,7 +756,7 @@ Enginn er Guð nema Þú, hinn eini og einstæði, hinn voldugi og alvitri, hinn
 (Bahaiprayers.net ID: 1634)
 
 
-
+«[Íslenska](../is/#bpn1634)» 
 
 
 
@@ -769,7 +769,7 @@ Enginn er Guð nema Þú, hinn eini og einstæði, hinn voldugi og alvitri, hinn
 (Bahaiprayers.net ID: 1635)
 
 
-
+«[Íslenska](../is/#bpn1635)» 
 
 
 
@@ -783,7 +783,7 @@ Vissulega ert Þú hinn örláti og voldugi, fyrir­gef­andinn og veitandinn
 (Bahaiprayers.net ID: 1636)
 
 
-
+«[Íslenska](../is/#bpn1636)» 
 
 
 
@@ -797,7 +797,7 @@ Vissulega ert Þú hinn örláti og voldugi, fyrir­gef­andinn og veitandinn
 (Bahaiprayers.net ID: 1637)
 
 
-
+«[Íslenska](../is/#bpn1637)» 
 
 
 
@@ -814,7 +814,7 @@ Lofaður sért Þú, ó ástvinur minn. Lát berast yfir hann ljúfan ilm Þinna
 (Bahaiprayers.net ID: 1618)
 
 
-
+«[Íslenska](../is/#bpn1618)» 
 
 
 
@@ -830,7 +830,7 @@ Lofaður sért Þú, ó ástvinur minn. Lát berast yfir hann ljúfan ilm Þinna
 (Bahaiprayers.net ID: 8375)
 
 
-
+«[Íslenska](../is/#bpn8375)» 
 
 
 
@@ -842,7 +842,7 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 1627)
 
 
-
+«[Íslenska](../is/#bpn1627)» 
 
 
 
@@ -854,7 +854,7 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 1628)
 
 
-
+«[Íslenska](../is/#bpn1628)» 
 
 
 
@@ -868,7 +868,7 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 1619)
 
 
-
+«[Íslenska](../is/#bpn1619)» 
 
 
 
@@ -881,7 +881,7 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 8376)
 
 
-
+«[Íslenska](../is/#bpn8376)» 
 
 
 
@@ -896,7 +896,7 @@ Reis því upp, ó Andi hreinleika, sálir sem líkt og þessar helguðu verur v
 (Bahaiprayers.net ID: 8377)
 
 
-
+«[Íslenska](../is/#bpn8377)» 
 
 
 
@@ -909,7 +909,7 @@ Megi dýrð Guðs hvíla yfir fylgjendum Bahá!
 (Bahaiprayers.net ID: 1620)
 
 
-
+«[Íslenska](../is/#bpn1620)» 
 
 
 
@@ -922,7 +922,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1621)
 
 
-
+«[Íslenska](../is/#bpn1621)» 
 
 
 
@@ -934,7 +934,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1622)
 
 
-
+«[Íslenska](../is/#bpn1622)» 
 
 
 
@@ -946,7 +946,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1623)
 
 
-
+«[Íslenska](../is/#bpn1623)» 
 
 
 
@@ -958,7 +958,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1624)
 
 
-
+«[Íslenska](../is/#bpn1624)» 
 
 
 
@@ -971,7 +971,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1625)
 
 
-
+«[Íslenska](../is/#bpn1625)» 
 
 
 
@@ -985,7 +985,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1626)
 
 
-
+«[Íslenska](../is/#bpn1626)» 
 
 
 
@@ -997,7 +997,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1629)
 
 
-
+«[Íslenska](../is/#bpn1629)» 
 
 
 
@@ -1009,7 +1009,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1630)
 
 
-
+«[Íslenska](../is/#bpn1630)» 
 
 
 
@@ -1021,7 +1021,7 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1631)
 
 
-
+«[Íslenska](../is/#bpn1631)» 
 
 
 
@@ -1037,7 +1037,7 @@ Guð gefi að ljós einingarinnar megi umlykja alla jörðina og innsiglinu „R
 (Bahaiprayers.net ID: 1639)
 
 
-
+«[Íslenska](../is/#bpn1639)» 
 
 
 
@@ -1049,7 +1049,7 @@ Guð gefi að ljós einingarinnar megi umlykja alla jörðina og innsiglinu „R
 (Bahaiprayers.net ID: 1638)
 
 
-
+«[Íslenska](../is/#bpn1638)» 
 
 
 
@@ -1065,7 +1065,7 @@ Sannlega ert Þú hinn almáttugi og sjálfumnógi, gjafarinn, fyrirgefandinn, s
 (Bahaiprayers.net ID: 1640)
 
 
-
+«[Íslenska](../is/#bpn1640)» 
 
 
 
@@ -1131,7 +1131,7 @@ Ef allir þjónarnir lesa og hugleiða þetta, verður glæddur eldur í æðum 
 (Bahaiprayers.net ID: 1763)
 
 
-
+«[Íslenska](../is/#bpn1763)» 
 
 
 
@@ -1147,7 +1147,7 @@ Prófraunir Þínar, Ó Guð minn, eru læknislyf þeim sem eru Þér nálægir,
 (Bahaiprayers.net ID: 1641)
 
 
-
+«[Íslenska](../is/#bpn1641)» 
 
 
 
@@ -1162,7 +1162,7 @@ Reis Þú upp, þess bið ég Þig ó Guð minn, til aðstoðar þessari opinber
 (Bahaiprayers.net ID: 1642)
 
 
-
+«[Íslenska](../is/#bpn1642)» 
 
 
 
@@ -1176,7 +1176,7 @@ Mér þykir sem lampi ástar Þinnar skíni í hjörtum þeirra og ljós blíðu
 (Bahaiprayers.net ID: 1643)
 
 
-
+«[Íslenska](../is/#bpn1643)» 
 
 
 
@@ -1190,7 +1190,7 @@ Styrk hjarta mitt, ó Guð minn, í ást Þinni og í hlýðni við Þig og gef 
 (Bahaiprayers.net ID: 1644)
 
 
-
+«[Íslenska](../is/#bpn1644)» 
 
 
 
@@ -1222,7 +1222,7 @@ Styrk hjarta mitt, ó Guð minn, í ást Þinni og í hlýðni við Þig og gef 
 (Bahaiprayers.net ID: 1767)
 
 
-
+«[Íslenska](../is/#bpn1767)» 
 
 
 
@@ -1237,7 +1237,7 @@ Enginn er Guð nema Þú, hinn alvitri, hinn alvísi. Allt lof sé Guði, Drottn
 (Bahaiprayers.net ID: 1768)
 
 
-
+«[Íslenska](../is/#bpn1768)» 
 
 
 
@@ -1257,7 +1257,7 @@ Ger málstað Þinn sigursælan, ó Drottinn minn, og niðurlæg óvini Þína. 
 (Bahaiprayers.net ID: 1769)
 
 
-
+«[Íslenska](../is/#bpn1769)» 
 
 
 
@@ -1280,7 +1280,7 @@ Lofaður sért Þú, ó Guð minn, því að Þú hefur hjálpað okkur til að 
 (Bahaiprayers.net ID: 1770)
 
 
-
+«[Íslenska](../is/#bpn1770)» 
 
 
 
@@ -1298,7 +1298,7 @@ Blessaðu mig, ó Guð minn, og þá sem trúa á tákn Þín á hinum tilskipa�
 (Bahaiprayers.net ID: 1645)
 
 
-
+«[Íslenska](../is/#bpn1645)» 
 
 
 
@@ -1311,7 +1311,7 @@ Blessaðu mig, ó Guð minn, og þá sem trúa á tákn Þín á hinum tilskipa�
 (Bahaiprayers.net ID: 1646)
 
 
-
+«[Íslenska](../is/#bpn1646)» 
 
 
 
@@ -1323,7 +1323,7 @@ Blessaðu mig, ó Guð minn, og þá sem trúa á tákn Þín á hinum tilskipa�
 (Bahaiprayers.net ID: 1647)
 
 
-
+«[Íslenska](../is/#bpn1647)» 
 
 
 
@@ -1338,7 +1338,7 @@ Vissulega ert Þú hinn dýrmæti, sá sem ætíð gefur, hinn örláti.
 (Bahaiprayers.net ID: 1648)
 
 
-
+«[Íslenska](../is/#bpn1648)» 
 
 
 
@@ -1351,7 +1351,7 @@ Drottinn minn! Ég helga Þér það, sem er í kviði mínum. Lát það því 
 (Bahaiprayers.net ID: 1649)
 
 
-
+«[Íslenska](../is/#bpn1649)» 
 
 
 
@@ -1368,7 +1368,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1650)
 
 
-
+«[Íslenska](../is/#bpn1650)» 
 
 
 
@@ -1381,7 +1381,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1651)
 
 
-
+«[Íslenska](../is/#bpn1651)» 
 
 
 
@@ -1395,7 +1395,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1652)
 
 
-
+«[Íslenska](../is/#bpn1652)» 
 
 
 
@@ -1407,7 +1407,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1653)
 
 
-
+«[Íslenska](../is/#bpn1653)» 
 
 
 
@@ -1423,7 +1423,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1654)
 
 
-
+«[Íslenska](../is/#bpn1654)» 
 
 
 
@@ -1436,7 +1436,7 @@ Sannlega ert Þú hinn almáttugi og alvaldi.
 (Bahaiprayers.net ID: 1655)
 
 
-
+«[Íslenska](../is/#bpn1655)» 
 
 
 
@@ -1454,7 +1454,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 (Bahaiprayers.net ID: 1656)
 
 
-
+«[Íslenska](../is/#bpn1656)» 
 
 
 
@@ -1467,7 +1467,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 (Bahaiprayers.net ID: 1657)
 
 
-
+«[Íslenska](../is/#bpn1657)» 
 
 
 
@@ -1479,7 +1479,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 (Bahaiprayers.net ID: 1658)
 
 
-
+«[Íslenska](../is/#bpn1658)» 
 
 
 
@@ -1495,7 +1495,7 @@ Lofaður sé Guð, Drottinn veraldanna!
 (Bahaiprayers.net ID: 1659)
 
 
-
+«[Íslenska](../is/#bpn1659)» 
 
 
 
@@ -1509,7 +1509,7 @@ Fyrirgef því, ó Drottinn minn, þjónum Þínum og þjónustumeyjum. Þú ert
 (Bahaiprayers.net ID: 1660)
 
 
-
+«[Íslenska](../is/#bpn1660)» 
 
 
 
@@ -1524,7 +1524,7 @@ Drottinn. Ég hef flúið undan réttvísi Þinni og leitað náðar Þinnar, sn
 (Bahaiprayers.net ID: 1661)
 
 
-
+«[Íslenska](../is/#bpn1661)» 
 
 
 
@@ -1539,7 +1539,7 @@ Drottinn. Ég hef flúið undan réttvísi Þinni og leitað náðar Þinnar, sn
 (Bahaiprayers.net ID: 1662)
 
 
-
+«[Íslenska](../is/#bpn1662)» 
 
 
 
@@ -1551,7 +1551,7 @@ Lof sé Þér, ó Drottinn. Fyrirgef syndir okkar, auðsýn okkur miskunn og ger
 (Bahaiprayers.net ID: 1663)
 
 
-
+«[Íslenska](../is/#bpn1663)» 
 
 
 
@@ -1563,7 +1563,7 @@ Lof sé Þér, ó Drottinn. Fyrirgef syndir okkar, auðsýn okkur miskunn og ger
 (Bahaiprayers.net ID: 1664)
 
 
-
+«[Íslenska](../is/#bpn1664)» 
 
 
 
@@ -1575,7 +1575,7 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 (Bahaiprayers.net ID: 1665)
 
 
-
+«[Íslenska](../is/#bpn1665)» 
 
 
 
@@ -1587,7 +1587,7 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 (Bahaiprayers.net ID: 1666)
 
 
-
+«[Íslenska](../is/#bpn1666)» 
 
 
 
@@ -1605,7 +1605,7 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 (Bahaiprayers.net ID: 1667)
 
 
-
+«[Íslenska](../is/#bpn1667)» 
 
 
 
@@ -1617,7 +1617,7 @@ Nafn Þitt er lækning mín, ó Guð minn, og minn­ingin um Þig er mér heilsu
 (Bahaiprayers.net ID: 1668)
 
 
-
+«[Íslenska](../is/#bpn1668)» 
 
 
 
@@ -1630,7 +1630,7 @@ Dýrð sé Þér, ó Drottinn Guð minn! Ég sárbæni Þig við nafn Þitt sem 
 (Bahaiprayers.net ID: 1669)
 
 
-
+«[Íslenska](../is/#bpn1669)» 
 
 
 
@@ -1644,7 +1644,7 @@ Vegsamaður sért Þú, ó Drottinn Guð minn! Ég sárbæni Þig við Þitt mes
 (Bahaiprayers.net ID: 1670)
 
 
-
+«[Íslenska](../is/#bpn1670)» 
 
 
 
@@ -1657,7 +1657,7 @@ Nöfn Þín, ó Guð minn, eru líkn sjúkum og læknisdómur þjáðum, svaladr
 (Bahaiprayers.net ID: 1671)
 
 
-
+«[Íslenska](../is/#bpn1671)» 
 
 
 
@@ -1715,7 +1715,7 @@ Helgaður ert Þú, ó Guð minn! Ég grátbæni Þig vegna örlætis Þíns, se
 (Bahaiprayers.net ID: 1672)
 
 
-
+«[Íslenska](../is/#bpn1672)» 
 
 
 
@@ -1728,7 +1728,7 @@ Helgaður ert Þú, ó Guð minn! Ég grátbæni Þig vegna örlætis Þíns, se
 (Bahaiprayers.net ID: 9107)
 
 
-
+«[Íslenska](../is/#bpn9107)» 
 
 
 
@@ -1746,7 +1746,7 @@ Og loks bið ég Þig við ljós ásýndar Þinnar, að blessa málefni mín, gr
 (Bahaiprayers.net ID: 1673)
 
 
-
+«[Íslenska](../is/#bpn1673)» 
 
 
 
@@ -1759,7 +1759,7 @@ Lát mig síðan leita heilshugar til Þín, setja allt traust mitt á Þig, lei
 (Bahaiprayers.net ID: 1674)
 
 
-
+«[Íslenska](../is/#bpn1674)» 
 
 
 
@@ -1771,7 +1771,7 @@ Er nokkur sá er firrir erfiðleikum nema Guð? Seg: Lof sé Guði, Hann er Guð
 (Bahaiprayers.net ID: 1675)
 
 
-
+«[Íslenska](../is/#bpn1675)» 
 
 
 
@@ -1783,7 +1783,7 @@ Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema
 (Bahaiprayers.net ID: 1676)
 
 
-
+«[Íslenska](../is/#bpn1676)» 
 
 
 
@@ -1795,7 +1795,7 @@ Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema
 (Bahaiprayers.net ID: 1677)
 
 
-
+«[Íslenska](../is/#bpn1677)» 
 
 
 
@@ -1816,7 +1816,7 @@ Leys tungu mína svo hún geti lofað nafn Þitt meðal fólks Þíns, að ég m
 (Bahaiprayers.net ID: 1678)
 
 
-
+«[Íslenska](../is/#bpn1678)» 
 
 
 
@@ -1829,7 +1829,7 @@ Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert fra
 (Bahaiprayers.net ID: 1679)
 
 
-
+«[Íslenska](../is/#bpn1679)» 
 
 
 
@@ -1841,7 +1841,7 @@ Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert fra
 (Bahaiprayers.net ID: 1680)
 
 
-
+«[Íslenska](../is/#bpn1680)» 
 
 
 
@@ -1855,7 +1855,7 @@ Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert fra
 (Bahaiprayers.net ID: 1681)
 
 
-
+«[Íslenska](../is/#bpn1681)» 
 
 
 
@@ -1871,7 +1871,7 @@ Vissulega ert Þú hinn mildi, hinn voldugi og mátt­ugi, og miskunnsamastur þ
 (Bahaiprayers.net ID: 1682)
 
 
-
+«[Íslenska](../is/#bpn1682)» 
 
 
 
@@ -1891,7 +1891,7 @@ Vissulega ert Þú hinn mildi, hinn voldugi og mátt­ugi, og miskunnsamastur þ
 (Bahaiprayers.net ID: 1684)
 
 
-
+«[Íslenska](../is/#bpn1684)» 
 
 
 
@@ -1905,7 +1905,7 @@ Og er Hann vildi opinbera góðvild og miskunn meðal manna og koma reglu á hei
 (Bahaiprayers.net ID: 10118)
 
 
-
+«[Íslenska](../is/#bpn10118)» 
 
 
 
@@ -1917,7 +1917,7 @@ Og er Hann vildi opinbera góðvild og miskunn meðal manna og koma reglu á hei
 (Bahaiprayers.net ID: 1683)
 
 
-
+«[Íslenska](../is/#bpn1683)» 
 
 
 
@@ -1933,7 +1933,7 @@ Hann er Guð! Ó óviðjafnanlegi Drottinn! Í al­mátt­ugri visku Þinni he
 (Bahaiprayers.net ID: 1685)
 
 
-
+«[Íslenska](../is/#bpn1685)» 
 
 
 
@@ -1947,7 +1947,7 @@ Vissulega ert Þú hinn alvaldi, hinn allstaðar­nálægi og almáttugi.
 (Bahaiprayers.net ID: 1686)
 
 
-
+«[Íslenska](../is/#bpn1686)» 
 
 
 
@@ -1960,7 +1960,7 @@ Vissulega er Þú hinn örláti. Vissulega ert Þú hinn almáttugi. Vissulega e
 (Bahaiprayers.net ID: 1687)
 
 
-
+«[Íslenska](../is/#bpn1687)» 
 
 
 
@@ -1978,7 +1978,7 @@ Miklað sé nafn Þitt, ó Guð minn, að Þú hefur birt daginn sem er konungur
 (Bahaiprayers.net ID: 1688)
 
 
-
+«[Íslenska](../is/#bpn1688)» 
 
 
 
@@ -1993,7 +1993,7 @@ Fyrirhuga mér það sem hæfir mikilleika tignar Þinnar ó Guð minn, og aðst
 (Bahaiprayers.net ID: 1689)
 
 
-
+«[Íslenska](../is/#bpn1689)» 
 
 
 
@@ -2008,7 +2008,7 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur
 (Bahaiprayers.net ID: 1690)
 
 
-
+«[Íslenska](../is/#bpn1690)» 
 
 
 
@@ -2023,7 +2023,7 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur
 (Bahaiprayers.net ID: 1691)
 
 
-
+«[Íslenska](../is/#bpn1691)» 
 
 
 
@@ -2036,7 +2036,7 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur
 (Bahaiprayers.net ID: 1692)
 
 
-
+«[Íslenska](../is/#bpn1692)» 
 
 
 
@@ -2051,7 +2051,7 @@ Enginn er Guð nema Þú, Guð valds, Guð dýrðar og visku.
 (Bahaiprayers.net ID: 1693)
 
 
-
+«[Íslenska](../is/#bpn1693)» 
 
 
 
@@ -2063,7 +2063,7 @@ Enginn er Guð nema Þú, Guð valds, Guð dýrðar og visku.
 (Bahaiprayers.net ID: 1694)
 
 
-
+«[Íslenska](../is/#bpn1694)» 
 
 
 
@@ -2075,7 +2075,7 @@ Dýrð sé Þér sem fengið hefur alla heilaga til að játa vanmátt sinn fram
 (Bahaiprayers.net ID: 1695)
 
 
-
+«[Íslenska](../is/#bpn1695)» 
 
 
 
@@ -2089,7 +2089,7 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 (Bahaiprayers.net ID: 1696)
 
 
-
+«[Íslenska](../is/#bpn1696)» 
 
 
 
@@ -2102,7 +2102,7 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 (Bahaiprayers.net ID: 1697)
 
 
-
+«[Íslenska](../is/#bpn1697)» 
 
 
 
@@ -2114,7 +2114,7 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 (Bahaiprayers.net ID: 1698)
 
 
-
+«[Íslenska](../is/#bpn1698)» 
 
 
 
@@ -2129,7 +2129,7 @@ Sannlega ert Þú sá sem sýnir ríkulega náð. Enginn er Guð nema Þú, hinn
 (Bahaiprayers.net ID: 1699)
 
 
-
+«[Íslenska](../is/#bpn1699)» 
 
 
 
@@ -2142,7 +2142,7 @@ Sannlega ert Þú sá sem sýnir ríkulega náð. Enginn er Guð nema Þú, hinn
 (Bahaiprayers.net ID: 1700)
 
 
-
+«[Íslenska](../is/#bpn1700)» 
 
 
 
@@ -2157,7 +2157,7 @@ Vissulega staðfestir Þú hvern þann er Þú vilt í hverju sem Þér líst, o
 (Bahaiprayers.net ID: 1701)
 
 
-
+«[Íslenska](../is/#bpn1701)» 
 
 
 
@@ -2170,7 +2170,7 @@ Vissulega staðfestir Þú hvern þann er Þú vilt í hverju sem Þér líst, o
 (Bahaiprayers.net ID: 1702)
 
 
-
+«[Íslenska](../is/#bpn1702)» 
 
 
 
@@ -2184,7 +2184,7 @@ Vissulega ert Þú hinn voldugi og máttugi, hinn alvaldi, og Þú ert hinn vís
 (Bahaiprayers.net ID: 1703)
 
 
-
+«[Íslenska](../is/#bpn1703)» 
 
 
 
@@ -2199,7 +2199,7 @@ Vissulega ert Þú hinn voldugi og máttugi, hinn vísi og sjáandi.
 (Bahaiprayers.net ID: 1704)
 
 
-
+«[Íslenska](../is/#bpn1704)» 
 
 
 
@@ -2217,7 +2217,7 @@ Enginn er Guð nema Þú, hinn almáttugi og al­knýjandi, hinn óskilyrti.
 (Bahaiprayers.net ID: 1705)
 
 
-
+«[Íslenska](../is/#bpn1705)» 
 
 
 
@@ -2231,7 +2231,7 @@ Við mátt Þinn! Ég óska ekki, hvort heldur í svefni eða vöku, annars en �
 (Bahaiprayers.net ID: 1706)
 
 
-
+«[Íslenska](../is/#bpn1706)» 
 
 
 
@@ -2246,7 +2246,7 @@ Sannarlega ert Þú gjafarinn, hinn örláti og mis­kunnsami, fyrirgefandinn.
 (Bahaiprayers.net ID: 1707)
 
 
-
+«[Íslenska](../is/#bpn1707)» 
 
 
 
@@ -2275,7 +2275,7 @@ Bregst Þú ekki, ó Guð minn, vonum þess sem hefur tekið biðjandi fingrum �
 (Bahaiprayers.net ID: 1577)
 
 
-
+«[Íslenska](../is/#bpn1577)» 
 
 
 
@@ -2322,7 +2322,7 @@ Lof sé Þér, ó Guð okkar, að Þú hefur sent það niður til okkar sem fæ
 (Bahaiprayers.net ID: 4375)
 
 
-
+«[Íslenska](../is/#bpn4375)» 
 
 
 
@@ -2346,7 +2346,7 @@ og lofgjörð Hans vegsömuð
 (Bahaiprayers.net ID: 8373)
 
 
-
+«[Íslenska](../is/#bpn8373)» 
 
 
 
@@ -2359,7 +2359,7 @@ Uppljóma, ó Drottinn, andlit þjóna Þinna að þeir fái litið Þig augum, 
 (Bahaiprayers.net ID: 1708)
 
 
-
+«[Íslenska](../is/#bpn1708)» 
 
 
 
@@ -2374,7 +2374,7 @@ Allt lof og dýrð sé Þér, ó Þú sem allt sem skapað er vitnar um að ert 
 (Bahaiprayers.net ID: 1709)
 
 
-
+«[Íslenska](../is/#bpn1709)» 
 
 
 
@@ -2386,7 +2386,7 @@ Við dýrð Þína! Í hvert sinn sem ég horfi til himins minnist ég hátignar
 (Bahaiprayers.net ID: 10178)
 
 
-
+«[Íslenska](../is/#bpn10178)» 
 
 
 
@@ -2400,7 +2400,7 @@ Vegsamað sé nafn Þitt, ó Drottinn Guð minn! Þú ert sá sem tilbeðinn er 
 (Bahaiprayers.net ID: 1710)
 
 
-
+«[Íslenska](../is/#bpn1710)» 
 
 
 
@@ -2415,7 +2415,7 @@ Og hvenær sem penni minn eignar einhverju nafna Þinna dýrð, er mér sem ég 
 (Bahaiprayers.net ID: 1711)
 
 
-
+«[Íslenska](../is/#bpn1711)» 
 
 
 
@@ -2428,7 +2428,7 @@ Vef því eigi saman, ó Drottinn minn, sem breitt hefur verið út í Þínu na
 (Bahaiprayers.net ID: 1713)
 
 
-
+«[Íslenska](../is/#bpn1713)» 
 
 
 
@@ -2444,7 +2444,7 @@ Við erum þjónar Þínir, ó Drottinn minn, og í höndum valds Þíns. Ef Þ�
 (Bahaiprayers.net ID: 1714)
 
 
-
+«[Íslenska](../is/#bpn1714)» 
 
 
 
@@ -2457,7 +2457,7 @@ Hann er æðri þjónum sínum og ofar skepnum sínum. Í hendi sér hefur Hann 
 (Bahaiprayers.net ID: 1715)
 
 
-
+«[Íslenska](../is/#bpn1715)» 
 
 
 
@@ -2471,7 +2471,7 @@ Vald hefur Þú til að gera það sem Þér þóknast. Þú ert að sönnu hinn
 (Bahaiprayers.net ID: 1716)
 
 
-
+«[Íslenska](../is/#bpn1716)» 
 
 
 
@@ -2486,7 +2486,7 @@ Hvert sem hlutskipti okkar verður leitum við Þinnar ævafornu fyrirgefningar,
 (Bahaiprayers.net ID: 1717)
 
 
-
+«[Íslenska](../is/#bpn1717)» 
 
 
 
@@ -2502,7 +2502,7 @@ Miklað sé nafn Þitt, ó Þú sem hefur í greip Þér stjórntauma sálna all
 (Bahaiprayers.net ID: 1718)
 
 
-
+«[Íslenska](../is/#bpn1718)» 
 
 
 
@@ -2519,7 +2519,7 @@ Dýrð sé Þér, Þú ert upphafinn yfir lýsingu allra nema sjálfs Þín þv�
 (Bahaiprayers.net ID: 1712)
 
 
-
+«[Íslenska](../is/#bpn1712)» 
 
 
 
@@ -2537,7 +2537,7 @@ Allir eru snauðir og þurfandi, og Þú ert vissulega eigandi alls, sá er öll
 (Bahaiprayers.net ID: 1719)
 
 
-
+«[Íslenska](../is/#bpn1719)» 
 
 
 
@@ -2550,7 +2550,7 @@ Sannarlega ert Þú gjafarinn, hinn mildi og al­máttugi.
 (Bahaiprayers.net ID: 1720)
 
 
-
+«[Íslenska](../is/#bpn1720)» 
 
 
 
@@ -2562,7 +2562,7 @@ Sannarlega ert Þú gjafarinn, hinn mildi og al­máttugi.
 (Bahaiprayers.net ID: 1721)
 
 
-
+«[Íslenska](../is/#bpn1721)» 
 
 
 
@@ -2581,7 +2581,7 @@ Bind hjörtun traustum böndum, ó Guð.
 (Bahaiprayers.net ID: 1722)
 
 
-
+«[Íslenska](../is/#bpn1722)» 
 
 
 
@@ -2598,7 +2598,7 @@ Bind hjörtun traustum böndum, ó Guð.
 (Bahaiprayers.net ID: 1723)
 
 
-
+«[Íslenska](../is/#bpn1723)» 
 
 
 
@@ -2616,7 +2616,7 @@ Dýrð sé Þér, ó Guð, fyrir að opinbera mannkyni ást Þína! Ó Þú sem 
 (Bahaiprayers.net ID: 1724)
 
 
-
+«[Íslenska](../is/#bpn1724)» 
 
 
 
@@ -2629,7 +2629,7 @@ Nakinn er ég, ó Guð minn! Klæð mig kyrtli mildrar miskunnar Þinnar. Ég er
 (Bahaiprayers.net ID: 1725)
 
 
-
+«[Íslenska](../is/#bpn1725)» 
 
 
 
@@ -2642,7 +2642,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sár­bæni Þig að láta þv�
 (Bahaiprayers.net ID: 10179)
 
 
-
+«[Íslenska](../is/#bpn10179)» 
 
 
 
@@ -2654,7 +2654,7 @@ Við biðjum Guð að hjálpa þeim af náð sinni sem fara villir vegar að ver
 (Bahaiprayers.net ID: 1726)
 
 
-
+«[Íslenska](../is/#bpn1726)» 
 
 
 
@@ -2668,7 +2668,7 @@ Við biðjum Guð að hjálpa þeim af náð sinni sem fara villir vegar að ver
 (Bahaiprayers.net ID: 11242)
 
 
-
+«[Íslenska](../is/#bpn11242)» 
 
 
 
@@ -2682,7 +2682,7 @@ Veit blessanir Þínar, ó Drottinn minn, boð­ber­un­um, hinum heilögu og r
 (Bahaiprayers.net ID: 1728)
 
 
-
+«[Íslenska](../is/#bpn1728)» 
 
 
 
@@ -2695,7 +2695,7 @@ Veit blessanir Þínar, ó Drottinn minn, boð­ber­un­um, hinum heilögu og r
 (Bahaiprayers.net ID: 1727)
 
 
-
+«[Íslenska](../is/#bpn1727)» 
 
 
 
@@ -2707,7 +2707,7 @@ Veit blessanir Þínar, ó Drottinn minn, boð­ber­un­um, hinum heilögu og r
 (Bahaiprayers.net ID: 1729)
 
 
-
+«[Íslenska](../is/#bpn1729)» 
 
 
 
@@ -2726,7 +2726,7 @@ Blessa Þú, ó Drottinn Guð minn, Hann sem Þú hefur sett yfir ágætustu naf
 (Bahaiprayers.net ID: 1730)
 
 
-
+«[Íslenska](../is/#bpn1730)» 
 
 
 
@@ -2739,7 +2739,7 @@ Enginn er Guð nema Þú, hinn eini og óvið­jafnanlegi, sá sem allt þekkir,
 (Bahaiprayers.net ID: 1732)
 
 
-
+«[Íslenska](../is/#bpn1732)» 
 
 
 
@@ -2755,7 +2755,7 @@ Fyrirhuga mér með upphafnasta penna Þínum, ó Drottinn minn, gæði þessa h
 (Bahaiprayers.net ID: 1733)
 
 
-
+«[Íslenska](../is/#bpn1733)» 
 
 
 
@@ -2767,7 +2767,7 @@ Fyrirhuga mér með upphafnasta penna Þínum, ó Drottinn minn, gæði þessa h
 (Bahaiprayers.net ID: 1731)
 
 
-
+«[Íslenska](../is/#bpn1731)» 
 
 
 
@@ -2789,7 +2789,7 @@ Hann sem er grein Þín og allir félagar Þínir, ó Drottinn minn, hafa rofið
 (Bahaiprayers.net ID: 1771)
 
 
-
+«[Íslenska](../is/#bpn1771)» 
 
 
 
@@ -2807,7 +2807,7 @@ Dýrlegur ert Þú, ó vorkunnláti Drottinn minn. Ég bið Þig við ólgandi �
 (Bahaiprayers.net ID: 1772)
 
 
-
+«[Íslenska](../is/#bpn1772)» 
 
 
 
@@ -2826,7 +2826,7 @@ Gef, ó Drottinn, að sakir hollustunnar við þessa ólýtanlegu trú Þína me
 (Bahaiprayers.net ID: 1739)
 
 
-
+«[Íslenska](../is/#bpn1739)» 
 
 
 
@@ -2839,7 +2839,7 @@ Mikil er blessun þess sem Þú útvaldir til að vökva tré staðfestingar Þi
 (Bahaiprayers.net ID: 1740)
 
 
-
+«[Íslenska](../is/#bpn1740)» 
 
 
 
@@ -2853,7 +2853,7 @@ Sannlega ert Þú Drottinn okkar og Drottinn alls sem er. Við felum okkur í Þ
 (Bahaiprayers.net ID: 1741)
 
 
-
+«[Íslenska](../is/#bpn1741)» 
 
 
 
@@ -2866,7 +2866,7 @@ Frá ómunatíð hefur Þú verið þess megnugur að gera það sem Þér þók
 (Bahaiprayers.net ID: 1742)
 
 
-
+«[Íslenska](../is/#bpn1742)» 
 
 
 
@@ -2884,7 +2884,7 @@ Sannlega ert Þú gjafarinn, fyrirgefandinn, sá sem allt gefur. Sannlega ert Þ
 (Bahaiprayers.net ID: 1743)
 
 
-
+«[Íslenska](../is/#bpn1743)» 
 
 
 
@@ -2899,7 +2899,7 @@ Dýrð dýrða hvíli yfir þeim sem eru tryggir og staðfastir.
 (Bahaiprayers.net ID: 1744)
 
 
-
+«[Íslenska](../is/#bpn1744)» 
 
 
 
@@ -2918,7 +2918,7 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 (Bahaiprayers.net ID: 1745)
 
 
-
+«[Íslenska](../is/#bpn1745)» 
 
 
 
@@ -2936,7 +2936,7 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 (Bahaiprayers.net ID: 1746)
 
 
-
+«[Íslenska](../is/#bpn1746)» 
 
 
 
@@ -2954,7 +2954,7 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 (Bahaiprayers.net ID: 1747)
 
 
-
+«[Íslenska](../is/#bpn1747)» 
 
 
 
@@ -2967,7 +2967,7 @@ Gef, ó Drottinn minn, að ég megi ekki teljast til þeirra sem sviptir eru sj�
 (Bahaiprayers.net ID: 1748)
 
 
-
+«[Íslenska](../is/#bpn1748)» 
 
 
 
@@ -2980,7 +2980,7 @@ Vissulega ert Þú hinn æðsti stjórnandi, hinn full­valda sannleikur, hjálp
 (Bahaiprayers.net ID: 1749)
 
 
-
+«[Íslenska](../is/#bpn1749)» 
 
 
 
@@ -2992,7 +2992,7 @@ Vissulega ert Þú hinn æðsti stjórnandi, hinn full­valda sannleikur, hjálp
 (Bahaiprayers.net ID: 1750)
 
 
-
+«[Íslenska](../is/#bpn1750)» 
 
 
 
@@ -3006,7 +3006,7 @@ Vissulega ert Þú hinn örláti, sá sem ætíð gefur, hinn dýrmæti og gjafm
 (Bahaiprayers.net ID: 1751)
 
 
-
+«[Íslenska](../is/#bpn1751)» 
 
 
 
@@ -3020,7 +3020,7 @@ Vissulega ert Þú hinn örláti, sá sem ætíð gefur, hinn dýrmæti og gjafm
 (Bahaiprayers.net ID: 1752)
 
 
-
+«[Íslenska](../is/#bpn1752)» 
 
 
 
@@ -3048,7 +3048,7 @@ Enginn er Guð nema Þú, hjálpin í nauðum, hinn sjálfumnógi.
 (Bahaiprayers.net ID: 1576)
 
 
-
+«[Íslenska](../is/#bpn1576)» 
 
 
 
@@ -3067,7 +3067,7 @@ Enginn er Guð nema Þú, hinn almáttugi og alvísi.
 (Bahaiprayers.net ID: 1734)
 
 
-
+«[Íslenska](../is/#bpn1734)» 
 
 
 
@@ -3082,7 +3082,7 @@ Hann er hinn máttugi, fyrirgefandinn, hinn vor­kunnláti!
 (Bahaiprayers.net ID: 1735)
 
 
-
+«[Íslenska](../is/#bpn1735)» 
 
 
 
@@ -3096,7 +3096,7 @@ Drottinn! Þetta eru þjónar sem haldið hafa af festu og einurð við sáttmá
 (Bahaiprayers.net ID: 1736)
 
 
-
+«[Íslenska](../is/#bpn1736)» 
 
 
 
@@ -3110,7 +3110,7 @@ Drottinn! Þetta eru þjónar sem haldið hafa af festu og einurð við sáttmá
 (Bahaiprayers.net ID: 1737)
 
 
-
+«[Íslenska](../is/#bpn1737)» 
 
 
 
@@ -3123,7 +3123,7 @@ Sannlega ert Þú hinn ósigrandi og almáttugi, hinn alvoldugi.
 (Bahaiprayers.net ID: 1738)
 
 
-
+«[Íslenska](../is/#bpn1738)» 
 
 
 
@@ -3154,7 +3154,7 @@ Lof sé Guði, Drottni allra veraldanna.
 (Bahaiprayers.net ID: 1762)
 
 
-
+«[Íslenska](../is/#bpn1762)» 
 
 
 
@@ -3285,7 +3285,7 @@ Og þegar þær sáu hvernig hún var á sig komin og skildu orð af frásögn �
 (Bahaiprayers.net ID: 1773)
 
 
-
+«[Íslenska](../is/#bpn1773)» 
 
 
 
@@ -3305,7 +3305,7 @@ Send því niður, ó Drottinn minn, yfir mig og ástvini mína það sem ver ok
 (Bahaiprayers.net ID: 1753)
 
 
-
+«[Íslenska](../is/#bpn1753)» 
 
 
 
@@ -3318,7 +3318,7 @@ Vernda hann einnig, ó Guð minn, með afli ómæl­istignar Þinnar gegn öllu 
 (Bahaiprayers.net ID: 1754)
 
 
-
+«[Íslenska](../is/#bpn1754)» 
 
 
 
@@ -3332,7 +3332,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Ó Þú sem ert Guð minn og meistari
 (Bahaiprayers.net ID: 1755)
 
 
-
+«[Íslenska](../is/#bpn1755)» 
 
 
 
@@ -3344,7 +3344,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Ó Þú sem ert Guð minn og meistari
 (Bahaiprayers.net ID: 1756)
 
 
-
+«[Íslenska](../is/#bpn1756)» 
 
 
 
@@ -3359,7 +3359,7 @@ Vald og styrkur er aðeins hjá Guði, hinum upp­hafnasta og máttugasta.
 (Bahaiprayers.net ID: 1757)
 
 
-
+«[Íslenska](../is/#bpn1757)» 
 
 
 
@@ -3372,7 +3372,7 @@ Veit mér og þeim átrúendum sem hafa svarað kalli Þínu fyrirgefningu Þín
 (Bahaiprayers.net ID: 1758)
 
 
-
+«[Íslenska](../is/#bpn1758)» 
 
 
 
@@ -3384,7 +3384,7 @@ Veit mér og þeim átrúendum sem hafa svarað kalli Þínu fyrirgefningu Þín
 (Bahaiprayers.net ID: 6847)
 
 
-
+«[Íslenska](../is/#bpn6847)» 
 
 
 
@@ -3402,7 +3402,7 @@ Seg: Guð nægir mér. Hann er sá sem hefur í hendi sér ríki alls sem er. Ha
 (Bahaiprayers.net ID: 1759)
 
 
-
+«[Íslenska](../is/#bpn1759)» 
 
 
 
@@ -3414,7 +3414,7 @@ Seg: Guð nægir mér. Hann er sá sem hefur í hendi sér ríki alls sem er. Ha
 (Bahaiprayers.net ID: 1760)
 
 
-
+«[Íslenska](../is/#bpn1760)» 
 
 
 
@@ -3428,7 +3428,7 @@ Vissulega ert Þú vörðurinn, sá er verndar og varð­veitir, nægjandinn, og
 (Bahaiprayers.net ID: 1761)
 
 
-
+«[Íslenska](../is/#bpn1761)» 
 
 
 
@@ -3458,7 +3458,7 @@ Enginn er Guð nema Þú, sá sem ætíð fyrirgefur, hinn örlátasti.
 (Bahaiprayers.net ID: 1764)
 
 
-
+«[Íslenska](../is/#bpn1764)» 
 
 
 
@@ -3479,7 +3479,7 @@ Drottinn! Hann er snauður og auðmjúkur þjónn Þinn, undirgefinn og sárbið
 (Bahaiprayers.net ID: 1765)
 
 
-
+«[Íslenska](../is/#bpn1765)» 
 
 
 

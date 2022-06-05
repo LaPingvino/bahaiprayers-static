@@ -96,7 +96,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4076)
 
 
-
+«[Кыргыз](../ky/#bpn4076)» 
 
 
 
@@ -114,7 +114,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4077)
 
 
-
+«[Кыргыз](../ky/#bpn4077)» 
 
 
 
@@ -128,7 +128,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4078)
 
 
-
+«[Кыргыз](../ky/#bpn4078)» 
 
 
 
@@ -154,7 +154,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4079)
 
 
-
+«[Кыргыз](../ky/#bpn4079)» 
 
 
 
@@ -172,7 +172,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4080)
 
 
-
+«[Кыргыз](../ky/#bpn4080)» 
 
 
 
@@ -188,7 +188,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4081)
 
 
-
+«[Кыргыз](../ky/#bpn4081)» 
 
 
 
@@ -204,7 +204,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3991)
 
 
-
+«[Кыргыз](../ky/#bpn3991)» 
 
 
 
@@ -220,7 +220,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3992)
 
 
-
+«[Кыргыз](../ky/#bpn3992)» 
 
 
 
@@ -232,7 +232,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3993)
 
 
-
+«[Кыргыз](../ky/#bpn3993)» 
 
 
 
@@ -248,7 +248,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3994)
 
 
-
+«[Кыргыз](../ky/#bpn3994)» 
 
 
 
@@ -264,7 +264,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4004)
 
 
-
+«[Кыргыз](../ky/#bpn4004)» 
 
 
 
@@ -282,7 +282,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4005)
 
 
-
+«[Кыргыз](../ky/#bpn4005)» 
 
 
 
@@ -301,7 +301,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4006)
 
 
-
+«[Кыргыз](../ky/#bpn4006)» 
 
 
 
@@ -313,7 +313,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4007)
 
 
-
+«[Кыргыз](../ky/#bpn4007)» 
 
 
 
@@ -335,7 +335,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4008)
 
 
-
+«[Кыргыз](../ky/#bpn4008)» 
 
 
 
@@ -357,7 +357,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4009)
 
 
-
+«[Кыргыз](../ky/#bpn4009)» 
 
 
 
@@ -371,7 +371,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4010)
 
 
-
+«[Кыргыз](../ky/#bpn4010)» 
 
 
 
@@ -385,7 +385,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4011)
 
 
-
+«[Кыргыз](../ky/#bpn4011)» 
 
 
 
@@ -403,7 +403,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4072)
 
 
-
+«[Кыргыз](../ky/#bpn4072)» 
 
 
 
@@ -421,7 +421,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4073)
 
 
-
+«[Кыргыз](../ky/#bpn4073)» 
 
 
 
@@ -443,7 +443,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4074)
 
 
-
+«[Кыргыз](../ky/#bpn4074)» 
 
 
 
@@ -467,7 +467,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4082)
 
 
-
+«[Кыргыз](../ky/#bpn4082)» 
 
 
 
@@ -479,7 +479,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4083)
 
 
-
+«[Кыргыз](../ky/#bpn4083)» 
 
 
 
@@ -495,7 +495,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4084)
 
 
-
+«[Кыргыз](../ky/#bpn4084)» 
 
 
 
@@ -509,7 +509,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4085)
 
 
-
+«[Кыргыз](../ky/#bpn4085)» 
 
 
 
@@ -555,7 +555,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4089)
 
 
-
+«[Кыргыз](../ky/#bpn4089)» 
 
 
 
@@ -571,7 +571,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3962)
 
 
-
+«[Кыргыз](../ky/#bpn3962)» 
 
 
 
@@ -583,7 +583,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3963)
 
 
-
+«[Кыргыз](../ky/#bpn3963)» 
 
 
 
@@ -597,7 +597,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3964)
 
 
-
+«[Кыргыз](../ky/#bpn3964)» 
 
 
 
@@ -609,7 +609,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3965)
 
 
-
+«[Кыргыз](../ky/#bpn3965)» 
 
 
 
@@ -623,7 +623,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3966)
 
 
-
+«[Кыргыз](../ky/#bpn3966)» 
 
 
 
@@ -635,7 +635,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3967)
 
 
-
+«[Кыргыз](../ky/#bpn3967)» 
 
 
 
@@ -653,7 +653,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3983)
 
 
-
+«[Кыргыз](../ky/#bpn3983)» 
 
 
 
@@ -671,7 +671,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3984)
 
 
-
+«[Кыргыз](../ky/#bpn3984)» 
 
 
 
@@ -689,7 +689,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3985)
 
 
-
+«[Кыргыз](../ky/#bpn3985)» 
 
 
 
@@ -701,7 +701,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3986)
 
 
-
+«[Кыргыз](../ky/#bpn3986)» 
 
 
 
@@ -719,7 +719,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3980)
 
 
-
+«[Кыргыз](../ky/#bpn3980)» 
 
 
 
@@ -733,7 +733,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3981)
 
 
-
+«[Кыргыз](../ky/#bpn3981)» 
 
 
 
@@ -751,7 +751,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3982)
 
 
-
+«[Кыргыз](../ky/#bpn3982)» 
 
 
 
@@ -769,7 +769,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3968)
 
 
-
+«[Кыргыз](../ky/#bpn3968)» 
 
 
 
@@ -783,7 +783,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3969)
 
 
-
+«[Кыргыз](../ky/#bpn3969)» 
 
 
 
@@ -795,7 +795,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3970)
 
 
-
+«[Кыргыз](../ky/#bpn3970)» 
 
 
 
@@ -811,7 +811,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3971)
 
 
-
+«[Кыргыз](../ky/#bpn3971)» 
 
 
 
@@ -825,7 +825,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3972)
 
 
-
+«[Кыргыз](../ky/#bpn3972)» 
 
 
 
@@ -841,7 +841,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3973)
 
 
-
+«[Кыргыз](../ky/#bpn3973)» 
 
 
 
@@ -859,7 +859,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3974)
 
 
-
+«[Кыргыз](../ky/#bpn3974)» 
 
 
 
@@ -875,7 +875,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3975)
 
 
-
+«[Кыргыз](../ky/#bpn3975)» 
 
 
 
@@ -889,7 +889,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3976)
 
 
-
+«[Кыргыз](../ky/#bpn3976)» 
 
 
 
@@ -901,7 +901,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3977)
 
 
-
+«[Кыргыз](../ky/#bpn3977)» 
 
 
 
@@ -919,7 +919,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3978)
 
 
-
+«[Кыргыз](../ky/#bpn3978)» 
 
 
 
@@ -935,7 +935,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3979)
 
 
-
+«[Кыргыз](../ky/#bpn3979)» 
 
 
 
@@ -953,7 +953,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4021)
 
 
-
+«[Кыргыз](../ky/#bpn4021)» 
 
 
 
@@ -967,7 +967,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4022)
 
 
-
+«[Кыргыз](../ky/#bpn4022)» 
 
 
 
@@ -983,7 +983,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4023)
 
 
-
+«[Кыргыз](../ky/#bpn4023)» 
 
 
 
@@ -995,7 +995,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4024)
 
 
-
+«[Кыргыз](../ky/#bpn4024)» 
 
 
 
@@ -1011,7 +1011,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4025)
 
 
-
+«[Кыргыз](../ky/#bpn4025)» 
 
 
 
@@ -1027,7 +1027,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4026)
 
 
-
+«[Кыргыз](../ky/#bpn4026)» 
 
 
 
@@ -1043,7 +1043,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4027)
 
 
-
+«[Кыргыз](../ky/#bpn4027)» 
 
 
 
@@ -1055,7 +1055,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4028)
 
 
-
+«[Кыргыз](../ky/#bpn4028)» 
 
 
 
@@ -1069,7 +1069,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4029)
 
 
-
+«[Кыргыз](../ky/#bpn4029)» 
 
 
 
@@ -1089,7 +1089,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4053)
 
 
-
+«[Кыргыз](../ky/#bpn4053)» 
 
 
 
@@ -1107,7 +1107,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4054)
 
 
-
+«[Кыргыз](../ky/#bpn4054)» 
 
 
 
@@ -1123,7 +1123,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4055)
 
 
-
+«[Кыргыз](../ky/#bpn4055)» 
 
 
 
@@ -1135,7 +1135,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4056)
 
 
-
+«[Кыргыз](../ky/#bpn4056)» 
 
 
 
@@ -1153,7 +1153,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4052)
 
 
-
+«[Кыргыз](../ky/#bpn4052)» 
 
 
 
@@ -1171,7 +1171,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3958)
 
 
-
+«[Кыргыз](../ky/#bpn3958)» 
 
 
 
@@ -1187,7 +1187,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3959)
 
 
-
+«[Кыргыз](../ky/#bpn3959)» 
 
 
 
@@ -1203,7 +1203,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3960)
 
 
-
+«[Кыргыз](../ky/#bpn3960)» 
 
 
 
@@ -1229,7 +1229,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4030)
 
 
-
+«[Кыргыз](../ky/#bpn4030)» 
 
 
 
@@ -1243,7 +1243,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4031)
 
 
-
+«[Кыргыз](../ky/#bpn4031)» 
 
 
 
@@ -1263,7 +1263,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4032)
 
 
-
+«[Кыргыз](../ky/#bpn4032)» 
 
 
 
@@ -1279,7 +1279,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4033)
 
 
-
+«[Кыргыз](../ky/#bpn4033)» 
 
 
 
@@ -1291,7 +1291,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4034)
 
 
-
+«[Кыргыз](../ky/#bpn4034)» 
 
 
 
@@ -1303,7 +1303,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4035)
 
 
-
+«[Кыргыз](../ky/#bpn4035)» 
 
 
 
@@ -1315,7 +1315,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4036)
 
 
-
+«[Кыргыз](../ky/#bpn4036)» 
 
 
 
@@ -1329,7 +1329,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4037)
 
 
-
+«[Кыргыз](../ky/#bpn4037)» 
 
 
 
@@ -1341,7 +1341,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4038)
 
 
-
+«[Кыргыз](../ky/#bpn4038)» 
 
 
 
@@ -1369,7 +1369,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4086)
 
 
-
+«[Кыргыз](../ky/#bpn4086)» 
 
 
 
@@ -1389,7 +1389,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3987)
 
 
-
+«[Кыргыз](../ky/#bpn3987)» 
 
 
 
@@ -1423,7 +1423,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3988)
 
 
-
+«[Кыргыз](../ky/#bpn3988)» 
 
 
 
@@ -1435,7 +1435,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3989)
 
 
-
+«[Кыргыз](../ky/#bpn3989)» 
 
 
 
@@ -1451,7 +1451,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3990)
 
 
-
+«[Кыргыз](../ky/#bpn3990)» 
 
 
 
@@ -1467,7 +1467,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3961)
 
 
-
+«[Кыргыз](../ky/#bpn3961)» 
 
 
 
@@ -1489,7 +1489,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4041)
 
 
-
+«[Кыргыз](../ky/#bpn4041)» 
 
 
 
@@ -1510,7 +1510,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4042)
 
 
-
+«[Кыргыз](../ky/#bpn4042)» 
 
 
 
@@ -1545,7 +1545,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4043)
 
 
-
+«[Кыргыз](../ky/#bpn4043)» 
 
 
 
@@ -1562,7 +1562,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4044)
 
 
-
+«[Кыргыз](../ky/#bpn4044)» 
 
 
 
@@ -1581,7 +1581,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4045)
 
 
-
+«[Кыргыз](../ky/#bpn4045)» 
 
 
 
@@ -1603,7 +1603,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4060)
 
 
-
+«[Кыргыз](../ky/#bpn4060)» 
 
 
 
@@ -1619,7 +1619,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4061)
 
 
-
+«[Кыргыз](../ky/#bpn4061)» 
 
 
 
@@ -1635,7 +1635,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4062)
 
 
-
+«[Кыргыз](../ky/#bpn4062)» 
 
 
 
@@ -1651,7 +1651,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4063)
 
 
-
+«[Кыргыз](../ky/#bpn4063)» 
 
 
 
@@ -1667,7 +1667,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4064)
 
 
-
+«[Кыргыз](../ky/#bpn4064)» 
 
 
 
@@ -1683,7 +1683,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3954)
 
 
-
+«[Кыргыз](../ky/#bpn3954)» 
 
 
 
@@ -1705,7 +1705,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4051)
 
 
-
+«[Кыргыз](../ky/#bpn4051)» 
 
 
 
@@ -1743,7 +1743,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4065)
 
 
-
+«[Кыргыз](../ky/#bpn4065)» 
 
 
 
@@ -1759,7 +1759,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4066)
 
 
-
+«[Кыргыз](../ky/#bpn4066)» 
 
 
 
@@ -1791,7 +1791,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4067)
 
 
-
+«[Кыргыз](../ky/#bpn4067)» 
 
 
 
@@ -1805,7 +1805,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4068)
 
 
-
+«[Кыргыз](../ky/#bpn4068)» 
 
 
 
@@ -1821,7 +1821,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4069)
 
 
-
+«[Кыргыз](../ky/#bpn4069)» 
 
 
 
@@ -1835,7 +1835,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4070)
 
 
-
+«[Кыргыз](../ky/#bpn4070)» 
 
 
 
@@ -1855,7 +1855,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4012)
 
 
-
+«[Кыргыз](../ky/#bpn4012)» 
 
 
 
@@ -1869,7 +1869,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4013)
 
 
-
+«[Кыргыз](../ky/#bpn4013)» 
 
 
 
@@ -1881,7 +1881,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4014)
 
 
-
+«[Кыргыз](../ky/#bpn4014)» 
 
 
 
@@ -1893,7 +1893,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4015)
 
 
-
+«[Кыргыз](../ky/#bpn4015)» 
 
 
 
@@ -1905,7 +1905,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4016)
 
 
-
+«[Кыргыз](../ky/#bpn4016)» 
 
 
 
@@ -1919,7 +1919,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4017)
 
 
-
+«[Кыргыз](../ky/#bpn4017)» 
 
 
 
@@ -1935,7 +1935,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4018)
 
 
-
+«[Кыргыз](../ky/#bpn4018)» 
 
 
 
@@ -1969,7 +1969,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4019)
 
 
-
+«[Кыргыз](../ky/#bpn4019)» 
 
 
 
@@ -1985,7 +1985,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4020)
 
 
-
+«[Кыргыз](../ky/#bpn4020)» 
 
 
 
@@ -2003,7 +2003,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4039)
 
 
-
+«[Кыргыз](../ky/#bpn4039)» 
 
 
 
@@ -2015,7 +2015,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4040)
 
 
-
+«[Кыргыз](../ky/#bpn4040)» 
 
 
 
@@ -2037,7 +2037,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4087)
 
 
-
+«[Кыргыз](../ky/#bpn4087)» 
 
 
 
@@ -2057,7 +2057,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4088)
 
 
-
+«[Кыргыз](../ky/#bpn4088)» 
 
 
 
@@ -2103,7 +2103,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3955)
 
 
-
+«[Кыргыз](../ky/#bpn3955)» 
 
 
 
@@ -2125,7 +2125,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4057)
 
 
-
+«[Кыргыз](../ky/#bpn4057)» 
 
 
 
@@ -2139,7 +2139,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4058)
 
 
-
+«[Кыргыз](../ky/#bpn4058)» 
 
 
 
@@ -2151,7 +2151,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4059)
 
 
-
+«[Кыргыз](../ky/#bpn4059)» 
 
 
 
@@ -2339,7 +2339,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4092)
 
 
-
+«[Кыргыз](../ky/#bpn4092)» 
 
 
 
@@ -2367,7 +2367,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3996)
 
 
-
+«[Кыргыз](../ky/#bpn3996)» 
 
 
 
@@ -2381,7 +2381,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3997)
 
 
-
+«[Кыргыз](../ky/#bpn3997)» 
 
 
 
@@ -2397,7 +2397,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3998)
 
 
-
+«[Кыргыз](../ky/#bpn3998)» 
 
 
 
@@ -2413,7 +2413,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3999)
 
 
-
+«[Кыргыз](../ky/#bpn3999)» 
 
 
 
@@ -2429,7 +2429,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4000)
 
 
-
+«[Кыргыз](../ky/#bpn4000)» 
 
 
 
@@ -2441,7 +2441,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4001)
 
 
-
+«[Кыргыз](../ky/#bpn4001)» 
 
 
 
@@ -2455,7 +2455,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4002)
 
 
-
+«[Кыргыз](../ky/#bpn4002)» 
 
 
 
@@ -2473,7 +2473,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4003)
 
 
-
+«[Кыргыз](../ky/#bpn4003)» 
 
 
 
@@ -2581,7 +2581,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3995)
 
 
-
+«[Кыргыз](../ky/#bpn3995)» 
 
 
 
@@ -2663,7 +2663,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3956)
 
 
-
+«[Кыргыз](../ky/#bpn3956)» 
 
 
 
@@ -2755,7 +2755,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 3957)
 
 
-
+«[Кыргыз](../ky/#bpn3957)» 
 
 
 
@@ -2773,7 +2773,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4049)
 
 
-
+«[Кыргыз](../ky/#bpn4049)» 
 
 
 
@@ -2787,7 +2787,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4050)
 
 
-
+«[Кыргыз](../ky/#bpn4050)» 
 
 
 
@@ -2805,7 +2805,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4046)
 
 
-
+«[Кыргыз](../ky/#bpn4046)» 
 
 
 
@@ -2822,7 +2822,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4047)
 
 
-
+«[Кыргыз](../ky/#bpn4047)» 
 
 
 
@@ -2844,7 +2844,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4048)
 
 
-
+«[Кыргыз](../ky/#bpn4048)» 
 
 
 
@@ -2864,7 +2864,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4075)
 
 
-
+«[Кыргыз](../ky/#bpn4075)» 
 
 
 
@@ -2896,7 +2896,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4090)
 
 
-
+«[Кыргыз](../ky/#bpn4090)» 
 
 
 
@@ -2920,7 +2920,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4091)
 
 
-
+«[Кыргыз](../ky/#bpn4091)» 
 
 
 
@@ -2944,7 +2944,7 @@ tags = ['lang=ky', 'prayerbook']
 (Bahaiprayers.net ID: 4071)
 
 
-
+«[Кыргыз](../ky/#bpn4071)» 
 
 
 

@@ -44,7 +44,7 @@ Wat aimagam irani Maman Ge inagap.  Iwa Ge dun ganat, koa mentarin, Ge yaibobot 
 (Bahaiprayers.net ID: 13006)
 
 
-
+«[Daga](../dgz/#bpn13006)» 
 
 
 
@@ -60,7 +60,7 @@ Maman!  Maman! Nao gega taine nagire tobot ta amba Ge nao Gega kanamawa pauwa me
 (Bahaiprayers.net ID: 12997)
 
 
-
+«[Daga](../dgz/#bpn12997)» 
 
 
 
@@ -105,7 +105,7 @@ Nu uruga ipiri Kwataem momon Maman inap taiyanit. (19)
 (Bahaiprayers.net ID: 13002)
 
 
-
+«[Daga](../dgz/#bpn13002)» 
 
 
 
@@ -117,7 +117,7 @@ Maman!  Ge koewa imuwarat apanewa.  Puraput nunianawa.  Wat tondak apanewa.  Ipi
 (Bahaiprayers.net ID: 13003)
 
 
-
+«[Daga](../dgz/#bpn13003)» 
 
 
 
@@ -133,7 +133,7 @@ Ne mumaget ao yon waingen Ge aeamat gega gapan.  Mamanawa!  Amba at pa nega aeve
 (Bahaiprayers.net ID: 13007)
 
 
-
+«[Daga](../dgz/#bpn13007)» 
 
 
 
@@ -151,7 +151,7 @@ Wat taragat irani kwiman Ayop ge inagap.  Ne ao bariangin Ge inagap aroe gan sis
 (Bahaiprayers.net ID: 13004)
 
 
-
+«[Daga](../dgz/#bpn13004)» 
 
 
 
@@ -165,7 +165,7 @@ Ne esuna ewat mega virip taiyangin taba ge kaum den virip taiyangin.  Ap menan b
 (Bahaiprayers.net ID: 13005)
 
 
-
+«[Daga](../dgz/#bpn13005)» 
 
 
 
@@ -181,7 +181,7 @@ Endi koewa toborapen apane Maman?  Wata ge:  Maman wat taragasepen.  Me Maman di
 (Bahaiprayers.net ID: 12996)
 
 
-
+«[Daga](../dgz/#bpn12996)» 
 
 
 
@@ -211,7 +211,7 @@ Ne ipiri wakakayatsiagin endi mari, ne aroyan uon amba Ge amun gega gapan. Ne vi
 (Bahaiprayers.net ID: 12995)
 
 
-
+«[Daga](../dgz/#bpn12995)» 
 
 
 
@@ -229,7 +229,7 @@ Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup
 (Bahaiprayers.net ID: 13085)
 
 
-
+«[Daga](../dgz/#bpn13085)» 
 
 
 
@@ -249,7 +249,7 @@ Wat Ganatam Iragi, Maman!  Ipiri ma ge nao gega apanewa amba Ge nao gega waenewa
 (Bahaiprayers.net ID: 12999)
 
 
-
+«[Daga](../dgz/#bpn12999)» 
 
 
 
@@ -265,7 +265,7 @@ Maman!  Tamanam nimanek, kwayup tanek, dun mine wat ganatam nimanek amba buwanae
 (Bahaiprayers.net ID: 13000)
 
 
-
+«[Daga](../dgz/#bpn13000)» 
 
 
 
@@ -277,7 +277,7 @@ Maman!  Otasin gega ma asik mun, mu irani Ge naewa gegawa. guwa, Ge dinip rarema
 (Bahaiprayers.net ID: 13084)
 
 
-
+«[Daga](../dgz/#bpn13084)» 
 
 
 
@@ -289,7 +289,7 @@ Ayop negawa!  Ayop negawa!.  Ne orup osu bodu nega arita uon.  Ne ge am gega kak
 (Bahaiprayers.net ID: 13001)
 
 
-
+«[Daga](../dgz/#bpn13001)» 
 
 
 
@@ -305,7 +305,7 @@ Ge yauga ne dom gigit negawa, Maman! amba genan anuinawa ap ne inak neniwan.  Ma
 (Bahaiprayers.net ID: 12998)
 
 
-
+«[Daga](../dgz/#bpn12998)» 
 
 
 
@@ -321,7 +321,7 @@ Maman! Ge om gega da uon!  Ge Ayop wande iram!  Iyan ma Ge kwiman ita dun gegawa
 (Bahaiprayers.net ID: 13008)
 
 
-
+«[Daga](../dgz/#bpn13008)» 
 
 
 
@@ -337,7 +337,7 @@ Wat aimagam uruga at outu koewa, at pa, amba pa sewa, amba at bumaggewa, amba su
 (Bahaiprayers.net ID: 12994)
 
 
-
+«[Daga](../dgz/#bpn12994)» 
 
 
 

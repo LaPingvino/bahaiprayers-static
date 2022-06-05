@@ -117,7 +117,7 @@ Odista, On je Milosrdni, Saosećajni. Slava Bogu, Gospodu svih svetova.
 (Bahaiprayers.net ID: 10795)
 
 
-
+«[Srpski српски](../sr/#bpn10795)» 
 
 
 
@@ -140,7 +140,7 @@ Uistinu, Ti si Velikodušni. Vaistinu, Ti si Svemogući. Doista, Ti si Saosećaj
 (Bahaiprayers.net ID: 10734)
 
 
-
+«[Srpski српски](../sr/#bpn10734)» 
 
 
 
@@ -156,7 +156,7 @@ O Bože, vodi me, zaštiti me, načini od mene blistavu svetiljku i sjajnu zvezd
 (Bahaiprayers.net ID: 10735)
 
 
-
+«[Srpski српски](../sr/#bpn10735)» 
 
 
 
@@ -170,7 +170,7 @@ Ti si Darežljivi, Koji Sve Voliš.
 (Bahaiprayers.net ID: 10736)
 
 
-
+«[Srpski српски](../sr/#bpn10736)» 
 
 
 
@@ -186,7 +186,7 @@ O Ti dobri Gospode! Učini da ovaj mladić stigne do onoga što je najviša aspi
 (Bahaiprayers.net ID: 10737)
 
 
-
+«[Srpski српски](../sr/#bpn10737)» 
 
 
 
@@ -263,7 +263,7 @@ Svedočim, O moj Bože, onome čemu su svedočili Tvoji Izabrani, i potvrđujem 
 (Bahaiprayers.net ID: 10791)
 
 
-
+«[Srpski српски](../sr/#bpn10791)» 
 
 
 
@@ -405,7 +405,7 @@ Vaistinu Ti si Moćni, Svedovoljni, Isceljujući, Zaštitnik, Darivajući, Saose
 (Bahaiprayers.net ID: 10798)
 
 
-
+«[Srpski српски](../sr/#bpn10798)» 
 
 
 
@@ -425,7 +425,7 @@ O, Ti Opskrbitelju naš! Pošalji nam pomoć Svoju, da svako od nas ovde okuplje
 (Bahaiprayers.net ID: 10746)
 
 
-
+«[Srpski српски](../sr/#bpn10746)» 
 
 
 
@@ -451,7 +451,7 @@ Tvoja je sila, uistinu, ravna svim stvarima.
 (Bahaiprayers.net ID: 10747)
 
 
-
+«[Srpski српски](../sr/#bpn10747)» 
 
 
 
@@ -467,7 +467,7 @@ Tvoja je vladavina neprikosnovena.
 (Bahaiprayers.net ID: 10748)
 
 
-
+«[Srpski српски](../sr/#bpn10748)» 
 
 
 
@@ -482,7 +482,7 @@ Ti si Onaj Koji prašta, Milostivi.
 (Bahaiprayers.net ID: 10749)
 
 
-
+«[Srpski српски](../sr/#bpn10749)» 
 
 
 
@@ -498,7 +498,7 @@ Stvori u meni čisto srce, O moj Bože, i obnovi mi mirnu savest, O moja Nado! O
 (Bahaiprayers.net ID: 10738)
 
 
-
+«[Srpski српски](../sr/#bpn10738)» 
 
 
 
@@ -512,7 +512,7 @@ Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
 (Bahaiprayers.net ID: 10739)
 
 
-
+«[Srpski српски](../sr/#bpn10739)» 
 
 
 
@@ -533,7 +533,7 @@ Ti imaš Moć da činiš šta Ti se svidi. Ti si, odista, Najuzvišeniji, Najsla
 (Bahaiprayers.net ID: 10740)
 
 
-
+«[Srpski српски](../sr/#bpn10740)» 
 
 
 
@@ -547,7 +547,7 @@ O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se Teb
 (Bahaiprayers.net ID: 10741)
 
 
-
+«[Srpski српски](../sr/#bpn10741)» 
 
 
 
@@ -560,7 +560,7 @@ Uistinu, Ti si Milosrdni, Velikodušni.
 (Bahaiprayers.net ID: 10742)
 
 
-
+«[Srpski српски](../sr/#bpn10742)» 
 
 
 
@@ -575,7 +575,7 @@ Ti si Saosećajni, Milosrdni. Ti si Veliki Blagorodni Bog.
 (Bahaiprayers.net ID: 10743)
 
 
-
+«[Srpski српски](../sr/#bpn10743)» 
 
 
 
@@ -589,7 +589,7 @@ O Gospode! Ja sam bez ikog, usamljen i bedan. Nema za mene druge potpore sem Teb
 (Bahaiprayers.net ID: 10744)
 
 
-
+«[Srpski српски](../sr/#bpn10744)» 
 
 
 
@@ -602,7 +602,7 @@ Ti si, zaista, Velikodušni, Onaj Koji prašta.
 (Bahaiprayers.net ID: 10745)
 
 
-
+«[Srpski српски](../sr/#bpn10745)» 
 
 
 
@@ -622,7 +622,7 @@ Ti imaš moć da činiš šta god poželiš. Nema drugog Boga osim Tebe, Koji Sv
 (Bahaiprayers.net ID: 10750)
 
 
-
+«[Srpski српски](../sr/#bpn10750)» 
 
 
 
@@ -634,7 +634,7 @@ Tvoje me ime isceljuje, O moj Bože, i pomen na Tebe me leči. Tvoja blizina je 
 (Bahaiprayers.net ID: 10751)
 
 
-
+«[Srpski српски](../sr/#bpn10751)» 
 
 
 
@@ -650,7 +650,7 @@ Neka Bog dâ da svetlost jedinstva obavije čitavu planetu, i da se pečat, "Ovo
 (Bahaiprayers.net ID: 10753)
 
 
-
+«[Srpski српски](../sr/#bpn10753)» 
 
 
 
@@ -662,7 +662,7 @@ O moj Bože! O moj Bože! Sjedini srca Svojih slugu, i otkri im Svoju veliku nam
 (Bahaiprayers.net ID: 10752)
 
 
-
+«[Srpski српски](../sr/#bpn10752)» 
 
 
 
@@ -681,7 +681,7 @@ Ti si Silni i Moćni, Ti si Onaj Koji prašta i Onaj Koji prelazi preko mana či
 (Bahaiprayers.net ID: 10754)
 
 
-
+«[Srpski српски](../sr/#bpn10754)» 
 
 
 
@@ -693,7 +693,7 @@ O Bože! Mi smo slabi; daj nam snage. Siromašni smo; podari nam Svoje neizmerno
 (Bahaiprayers.net ID: 10755)
 
 
-
+«[Srpski српски](../sr/#bpn10755)» 
 
 
 
@@ -705,7 +705,7 @@ O Bože! Uistinu smo se okupili ovde gde se širi miris Tvoje ljubavi. Okrenuli 
 (Bahaiprayers.net ID: 10756)
 
 
-
+«[Srpski српски](../sr/#bpn10756)» 
 
 
 
@@ -721,7 +721,7 @@ Probudio sam se u Tvom utočištu, O moj Bože, a priliči onome koji za tim uto
 (Bahaiprayers.net ID: 10757)
 
 
-
+«[Srpski српски](../sr/#bpn10757)» 
 
 
 
@@ -744,7 +744,7 @@ Nema Boga osim Tebe, Pomagača u nevolji, Samodovoljnog.
 (Bahaiprayers.net ID: 10789)
 
 
-
+«[Srpski српски](../sr/#bpn10789)» 
 
 
 
@@ -763,7 +763,7 @@ O Gospode, Ti si Svemoguć, Ti si Milostiv, Ti si Blag, Ti si Dobar!
 (Bahaiprayers.net ID: 10733)
 
 
-
+«[Srpski српски](../sr/#bpn10733)» 
 
 
 
@@ -783,7 +783,7 @@ Ti si, uistinu, Sveznajući, Svemudri.
 (Bahaiprayers.net ID: 10793)
 
 
-
+«[Srpski српски](../sr/#bpn10793)» 
 
 
 
@@ -801,7 +801,7 @@ Nema drugog Boga osim Tebe, Svemogućeg, Koji sve pokoravaš, Bezuslovnog.
 (Bahaiprayers.net ID: 10758)
 
 
-
+«[Srpski српски](../sr/#bpn10758)» 
 
 
 
@@ -817,7 +817,7 @@ Odista, Ti si Darodavac, Velikodušni, Milostivi, Onaj koji prašta.
 (Bahaiprayers.net ID: 10759)
 
 
-
+«[Srpski српски](../sr/#bpn10759)» 
 
 
 
@@ -834,7 +834,7 @@ Ja sam, O moj Bože, Tvoj sluga i sin Tvoga sluge. Prihvatio sam Tvoju istinu u 
 (Bahaiprayers.net ID: 10760)
 
 
-
+«[Srpski српски](../sr/#bpn10760)» 
 
 
 
@@ -847,7 +847,7 @@ Ti si zaista Pomoć u Opasnosti, Samosvojni.
 (Bahaiprayers.net ID: 10761)
 
 
-
+«[Srpski српски](../sr/#bpn10761)» 
 
 
 
@@ -859,7 +859,7 @@ O, Ti milostivi Gospode! Ti si utočište za sve svoje sluge. Znaš tajne i sves
 (Bahaiprayers.net ID: 10762)
 
 
-
+«[Srpski српски](../sr/#bpn10762)» 
 
 
 
@@ -876,7 +876,7 @@ Od pamtiveka si Ti bio moćan da činiš kako Ti je drago i natpojavan iznad sve
 (Bahaiprayers.net ID: 10763)
 
 
-
+«[Srpski српски](../sr/#bpn10763)» 
 
 
 
@@ -888,7 +888,7 @@ O Gospode! Otvori vrata, daj sredstva, pripremi put, učini stazu bezbednom da b
 (Bahaiprayers.net ID: 10764)
 
 
-
+«[Srpski српски](../sr/#bpn10764)» 
 
 
 
@@ -904,7 +904,7 @@ O moj Bože! Molim Te Tvojim najslavnijim imenom, da mi pomogneš u onim poduhva
 (Bahaiprayers.net ID: 10765)
 
 
-
+«[Srpski српски](../sr/#bpn10765)» 
 
 
 
@@ -917,7 +917,7 @@ Ti si, uistini, Kralj svim ljudima. Nema nijednog Boga sem Tebe,  Svepraštajuć
 (Bahaiprayers.net ID: 10766)
 
 
-
+«[Srpski српски](../sr/#bpn10766)» 
 
 
 
@@ -933,7 +933,7 @@ Nahrani nas hlebom danas, i u životnim potrepštinama daj nam više, da ne zavi
 (Bahaiprayers.net ID: 10767)
 
 
-
+«[Srpski српски](../sr/#bpn10767)» 
 
 
 
@@ -948,7 +948,7 @@ Ti si, uistinu, Jedan, Jedini, Moćni, Sveznajući, Najmudriji.
 (Bahaiprayers.net ID: 10768)
 
 
-
+«[Srpski српски](../sr/#bpn10768)» 
 
 
 
@@ -976,7 +976,7 @@ Nema Boga osim Tebe, Sveznajućeg, Svemudrog. Sva hvala neka je Bogu, Gospodu sv
 (Bahaiprayers.net ID: 10792)
 
 
-
+«[Srpski српски](../sr/#bpn10792)» 
 
 
 
@@ -992,7 +992,7 @@ O Bože, moj Bože! Krenuo sam od kuće, držeći se čvrsto za uže Tvoje ljuba
 (Bahaiprayers.net ID: 10771)
 
 
-
+«[Srpski српски](../sr/#bpn10771)» 
 
 
 
@@ -1008,7 +1008,7 @@ Ti vidiš, O Gospode, naše ruke uzdignute u molitvi ka nebu Tvoje blagonaklonos
 (Bahaiprayers.net ID: 10772)
 
 
-
+«[Srpski српски](../sr/#bpn10772)» 
 
 
 
@@ -1026,7 +1026,7 @@ Ozari svetlom, O Gospode, lica svojih slugu, da mogu da Te ugledaju; pročisti i
 (Bahaiprayers.net ID: 10773)
 
 
-
+«[Srpski српски](../sr/#bpn10773)» 
 
 
 
@@ -1066,7 +1066,7 @@ Svedočim o Tvom jedinstvu i Tvojoj jedinstvenosti, da si Ti Bog, i da nema Boga
 (Bahaiprayers.net ID: 10790)
 
 
-
+«[Srpski српски](../sr/#bpn10790)» 
 
 
 
@@ -1102,7 +1102,7 @@ O Bože! Ukloni sve ono što je uzrok nesklada, i spremi za nas sve ono što je 
 (Bahaiprayers.net ID: 10774)
 
 
-
+«[Srpski српски](../sr/#bpn10774)» 
 
 
 
@@ -1133,7 +1133,7 @@ Blagoslovi, O Gospode moj Bože, Božansko Drvo Lot, njegovo lišće i granje, i
 (Bahaiprayers.net ID: 10797)
 
 
-
+«[Srpski српски](../sr/#bpn10797)» 
 
 
 
@@ -1295,7 +1295,7 @@ Budu li sve sluge čitale i promišljale ovo, u njihovim venama zaiskriće se va
 (Bahaiprayers.net ID: 10796)
 
 
-
+«[Srpski српски](../sr/#bpn10796)» 
 
 
 
@@ -1335,7 +1335,7 @@ Tako opojno deluju reči Božije na Onoga Koji Objavljuje Njegove nepobitne doka
 (Bahaiprayers.net ID: 10794)
 
 
-
+«[Srpski српски](../sr/#bpn10794)» 
 
 
 
@@ -1355,7 +1355,7 @@ Preklinjem Te, O moj Bože, u njihovo ime i zarad uzdaha koji im se otima iz gru
 (Bahaiprayers.net ID: 10775)
 
 
-
+«[Srpski српски](../sr/#bpn10775)» 
 
 
 
@@ -1367,7 +1367,7 @@ Bog je meni dovoljan. On uistinu svemu dostaje. U Njega neka se verni uzdaju.
 (Bahaiprayers.net ID: 10781)
 
 
-
+«[Srpski српски](../sr/#bpn10781)» 
 
 
 
@@ -1385,7 +1385,7 @@ Moćan si Ti da činiš kako Ti volja. Nema Boga osim Tebe, Pomagača u nevolji,
 (Bahaiprayers.net ID: 10782)
 
 
-
+«[Srpski српски](../sr/#bpn10782)» 
 
 
 
@@ -1397,7 +1397,7 @@ Ima li ikog sem Boga ko može ukloniti nedaće? Recite: Hvala Bogu! On je Bog! S
 (Bahaiprayers.net ID: 10776)
 
 
-
+«[Srpski српски](../sr/#bpn10776)» 
 
 
 
@@ -1409,7 +1409,7 @@ Recite: Bog je dovoljan u svim stvarima i iznad svih stvari, i ništa na nebesim
 (Bahaiprayers.net ID: 10777)
 
 
-
+«[Srpski српски](../sr/#bpn10777)» 
 
 
 
@@ -1421,7 +1421,7 @@ Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u trenucima isku
 (Bahaiprayers.net ID: 10778)
 
 
-
+«[Srpski српски](../sr/#bpn10778)» 
 
 
 
@@ -1433,7 +1433,7 @@ O Gospode! Ti uklanjaš svaku patnju i izbavljaš od svakog jada. Ti si Onaj Koj
 (Bahaiprayers.net ID: 10779)
 
 
-
+«[Srpski српски](../sr/#bpn10779)» 
 
 
 
@@ -1455,7 +1455,7 @@ Ti si, odista, Milostivi, Slavljeni, Silni, Svemoćni!
 (Bahaiprayers.net ID: 10780)
 
 
-
+«[Srpski српски](../sr/#bpn10780)» 
 
 
 
@@ -1471,7 +1471,7 @@ Molimo se Bogu da milosrdno pomogne zabludelima da postanu pravični i nepristra
 (Bahaiprayers.net ID: 10783)
 
 
-
+«[Srpski српски](../sr/#bpn10783)» 
 
 
 
@@ -1489,7 +1489,7 @@ Ti si, zaista, Bog moći, snage i slave.
 (Bahaiprayers.net ID: 10784)
 
 
-
+«[Srpski српски](../sr/#bpn10784)» 
 
 
 
@@ -1528,7 +1528,7 @@ Slavljen, neizmerno slavljen si Ti! Obožavamo Te u Tvojoj istini i Tebi se svi,
 (Bahaiprayers.net ID: 10769)
 
 
-
+«[Srpski српски](../sr/#bpn10769)» 
 
 
 
@@ -1543,7 +1543,7 @@ O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, i njihovu tamu pre
 (Bahaiprayers.net ID: 10770)
 
 
-
+«[Srpski српски](../sr/#bpn10770)» 
 
 
 
@@ -1561,7 +1561,7 @@ Ti si, odista, Svemoćni, Najuzvišeniji, Onaj koji uvek prašta, Najvelikodušn
 (Bahaiprayers.net ID: 10785)
 
 
-
+«[Srpski српски](../sr/#bpn10785)» 
 
 
 
@@ -1581,7 +1581,7 @@ Neizmerno uzvišen si Ti, O Gospode! Zaštiti nas od onoga što je ispred nas i 
 (Bahaiprayers.net ID: 10786)
 
 
-
+«[Srpski српски](../sr/#bpn10786)» 
 
 
 
@@ -1597,7 +1597,7 @@ Uistinu, Ti si Zaštitnik, Čuvar, Onaj koji održava život, Koji zadovoljava, 
 (Bahaiprayers.net ID: 10787)
 
 
-
+«[Srpski српски](../sr/#bpn10787)» 
 
 
 
@@ -1609,7 +1609,7 @@ O Ti božansko Proviđenje, mi smo bedni, priteci nam u pomoć; beskućnici smo 
 (Bahaiprayers.net ID: 10788)
 
 
-
+«[Srpski српски](../sr/#bpn10788)» 
 
 
 

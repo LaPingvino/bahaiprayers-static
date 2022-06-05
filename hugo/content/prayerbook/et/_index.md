@@ -54,7 +54,7 @@ Hajuta minu mure oma helduse ja suuremeelsusega, oo Jumal mu Jumal, ning peleta 
 (Bahaiprayers.net ID: 3683)
 
 
-
+«[Eesti](../et/#bpn3683)» 
 
 
 
@@ -67,7 +67,7 @@ Oo Jumalik Kaitselmus! Kõik olemasolev on tekkinud Sinu heldusest, ära jäta s
 (Bahaiprayers.net ID: 3684)
 
 
-
+«[Eesti](../et/#bpn3684)» 
 
 
 
@@ -82,7 +82,7 @@ Oo Jumal! Hüvita neile, kes taluvad kannatlikult Sinu päevil ja tugevda nende 
 (Bahaiprayers.net ID: 3685)
 
 
-
+«[Eesti](../et/#bpn3685)» 
 
 
 
@@ -94,7 +94,7 @@ Oo Jumal! Hüvita neile, kes taluvad kannatlikult Sinu päevil ja tugevda nende 
 (Bahaiprayers.net ID: 3686)
 
 
-
+«[Eesti](../et/#bpn3686)» 
 
 
 
@@ -106,7 +106,7 @@ Issand! Oleme haletsusväärsed, luba meile oma soosingut. Oleme vaesed, anneta 
 (Bahaiprayers.net ID: 3687)
 
 
-
+«[Eesti](../et/#bpn3687)» 
 
 
 
@@ -123,7 +123,7 @@ Sina oled tõesti Võimukas, Kõikjalolev ja Kõigevägevam.
 (Bahaiprayers.net ID: 3721)
 
 
-
+«[Eesti](../et/#bpn3721)» 
 
 
 
@@ -142,7 +142,7 @@ Sina oled tõesti Kallis, Alatiannetav, Avali Käega.
 (Bahaiprayers.net ID: 3722)
 
 
-
+«[Eesti](../et/#bpn3722)» 
 
 
 
@@ -160,7 +160,7 @@ Pole kedagi, oo mu Issand, kes võiks mind kohelda heldelt, kelle poole võiksin
 (Bahaiprayers.net ID: 3688)
 
 
-
+«[Eesti](../et/#bpn3688)» 
 
 
 
@@ -173,7 +173,7 @@ Andesta siis, oo mu Issand, oma teenritele ja ümmardajatele. Sina oled tõesti 
 (Bahaiprayers.net ID: 3689)
 
 
-
+«[Eesti](../et/#bpn3689)» 
 
 
 
@@ -185,7 +185,7 @@ Oo mu Jumal, oo mu Issand, oo mu Meister! Ma palun Sul andestada mulle, et olen 
 (Bahaiprayers.net ID: 3690)
 
 
-
+«[Eesti](../et/#bpn3690)» 
 
 
 
@@ -197,7 +197,7 @@ Kiitus olgu Sulle, oo Issand! Andesta meile meie patud, halasta meie peale ja v�
 (Bahaiprayers.net ID: 3691)
 
 
-
+«[Eesti](../et/#bpn3691)» 
 
 
 
@@ -209,7 +209,7 @@ Ma anun Sind, et Sa andestaksid mulle, oo mu Issand, iga mainimise eest peale Si
 (Bahaiprayers.net ID: 3692)
 
 
-
+«[Eesti](../et/#bpn3692)» 
 
 
 
@@ -224,7 +224,7 @@ Sina oled tõesti Andestaja, Kaastundlik, Sina oled Helde, Armastatu!
 (Bahaiprayers.net ID: 3693)
 
 
-
+«[Eesti](../et/#bpn3693)» 
 
 
 
@@ -236,7 +236,7 @@ Oo Sina andestav Issand! Sina oled kõigi nende teenrite varjupaik. Sina tead sa
 (Bahaiprayers.net ID: 3694)
 
 
-
+«[Eesti](../et/#bpn3694)» 
 
 
 
@@ -252,7 +252,7 @@ Luba mul, oo mu Jumal, läheneda Sinule ja viibida Su õuel, sest eemalolek Sinu
 (Bahaiprayers.net ID: 3695)
 
 
-
+«[Eesti](../et/#bpn3695)» 
 
 
 
@@ -267,7 +267,7 @@ Lausun Sulle tänu, oo mu Jumal, et Sa oled äratanud mind mu unest ja innustanu
 (Bahaiprayers.net ID: 3696)
 
 
-
+«[Eesti](../et/#bpn3696)» 
 
 
 
@@ -281,7 +281,7 @@ Anneta mulle mu osa, oo Issand, nii nagu Sa soovid ning luba mul olla rahul kõi
 (Bahaiprayers.net ID: 3697)
 
 
-
+«[Eesti](../et/#bpn3697)» 
 
 
 
@@ -296,7 +296,7 @@ Sina oled tõesti Vägevaim, Kõikhiilgav, Kõikvõimas.
 (Bahaiprayers.net ID: 3698)
 
 
-
+«[Eesti](../et/#bpn3698)» 
 
 
 
@@ -312,7 +312,7 @@ Olen ärganud Sinu kaitse all, oo mu Jumal, ja temal, kes otsib seda kaitset, s�
 (Bahaiprayers.net ID: 3699)
 
 
-
+«[Eesti](../et/#bpn3699)» 
 
 
 
@@ -325,7 +325,7 @@ Pole muud Jumalat kui Sina, Ainus, Võrreldamatu, Kõiketeadev, Kõiges Tark.
 (Bahaiprayers.net ID: 3700)
 
 
-
+«[Eesti](../et/#bpn3700)» 
 
 
 
@@ -340,7 +340,7 @@ Sina oled tõepoolest kõigi inimeste Issand ja Kuningas ning omad võimu kõiki
 (Bahaiprayers.net ID: 3701)
 
 
-
+«[Eesti](../et/#bpn3701)» 
 
 
 
@@ -358,7 +358,7 @@ Kõik on vaid vaesed ja puuduses, kuid Sina oled tõesti Kõikeomav, Kõikealist
 (Bahaiprayers.net ID: 3702)
 
 
-
+«[Eesti](../et/#bpn3702)» 
 
 
 
@@ -370,7 +370,7 @@ Oo Sina hea Issand! Oo Sina suuremeelne ja halastav! Me oleme Sinu läve teenrid
 (Bahaiprayers.net ID: 3703)
 
 
-
+«[Eesti](../et/#bpn3703)» 
 
 
 
@@ -387,7 +387,7 @@ Sina oled Vägev ja Võimas, Sina oled Andestav ja Sina oled see, kes ei pööra
 (Bahaiprayers.net ID: 3704)
 
 
-
+«[Eesti](../et/#bpn3704)» 
 
 
 
@@ -404,7 +404,7 @@ Luba minule ja neile usklikele, kes on vastanud Sinu kutsele, oma andestust. Ole
 (Bahaiprayers.net ID: 3705)
 
 
-
+«[Eesti](../et/#bpn3705)» 
 
 
 
@@ -416,7 +416,7 @@ Oo Jumal, mu Jumal! Varja oma usaldatud teenreid isekuse ja kire pahede eest, ho
 (Bahaiprayers.net ID: 3706)
 
 
-
+«[Eesti](../et/#bpn3706)» 
 
 
 
@@ -428,7 +428,7 @@ Oo Sina jumalik Kaitselmus, hoia ja varja meid! Oo Sina, kes Sa oled meie kilp, 
 (Bahaiprayers.net ID: 3707)
 
 
-
+«[Eesti](../et/#bpn3707)» 
 
 
 
@@ -442,7 +442,7 @@ Sina oled tõesti Turvaja, Kaitsja, Hoidja, Rahuldaja, ja Sina oled tõesti armu
 (Bahaiprayers.net ID: 3708)
 
 
-
+«[Eesti](../et/#bpn3708)» 
 
 
 
@@ -458,7 +458,7 @@ Oo Jumal, mu Jumal! Ära ole minust kaugel, sest katsumus katsumuse järel on ko
 (Bahaiprayers.net ID: 3709)
 
 
-
+«[Eesti](../et/#bpn3709)» 
 
 
 
@@ -470,7 +470,7 @@ Oo Sina, kelle katsumused on tervendavaks ravimiks neile, kes on Sinu lähedal, 
 (Bahaiprayers.net ID: 3710)
 
 
-
+«[Eesti](../et/#bpn3710)» 
 
 
 
@@ -483,7 +483,7 @@ Valgusta, oo Issand, oma teenrite palgeid, et nad võiksid Sind näha, ning puha
 (Bahaiprayers.net ID: 3716)
 
 
-
+«[Eesti](../et/#bpn3716)» 
 
 
 
@@ -501,7 +501,7 @@ Sina oled võimu, auhiilguse ja helduse Jumal. Pole teist Jumalat kui Sina, Üli
 (Bahaiprayers.net ID: 3717)
 
 
-
+«[Eesti](../et/#bpn3717)» 
 
 
 
@@ -513,7 +513,7 @@ Kas on kedagi raskuste kõrvaldajat peale Jumala? Ütle: Kiidetud olgu Jumal! Te
 (Bahaiprayers.net ID: 3711)
 
 
-
+«[Eesti](../et/#bpn3711)» 
 
 
 
@@ -525,7 +525,7 @@ Anun Sind Sinu väe nimel, oo mu Jumal! Ära lase mulle katsumuste aegadel juhtu
 (Bahaiprayers.net ID: 3712)
 
 
-
+«[Eesti](../et/#bpn3712)» 
 
 
 
@@ -537,7 +537,7 @@ Oo Issand! Sina oled kõikide piinade Kõrvaldaja ja kõikide hädade Hajutaja. 
 (Bahaiprayers.net ID: 3713)
 
 
-
+«[Eesti](../et/#bpn3713)» 
 
 
 
@@ -551,7 +551,7 @@ Mõõtmatult kõrgemal oled Sina, oo taeva ja maa Issand, kõikide inimeste kiit
 (Bahaiprayers.net ID: 3714)
 
 
-
+«[Eesti](../et/#bpn3714)» 
 
 
 
@@ -573,7 +573,7 @@ Sina oled tõepoolest Armuline, Ülistatud, Vägev, Kõikvõimas.
 (Bahaiprayers.net ID: 3715)
 
 
-
+«[Eesti](../et/#bpn3715)» 
 
 
 
@@ -592,7 +592,7 @@ Sina oled tõepoolest Armuline, Ülistatud, Vägev, Kõikvõimas.
 (Bahaiprayers.net ID: 3718)
 
 
-
+«[Eesti](../et/#bpn3718)» 
 
 
 
@@ -614,7 +614,7 @@ Pole muud Jumalat kui Sina, Üks, Ainus, Võimas, Kõiketeadev, Helde.
 (Bahaiprayers.net ID: 3719)
 
 
-
+«[Eesti](../et/#bpn3719)» 
 
 
 
@@ -629,7 +629,7 @@ veega ja luba neil näha Sinu hiilgust kõige kõrgemal mäel.
 (Bahaiprayers.net ID: 3720)
 
 
-
+«[Eesti](../et/#bpn3720)» 
 
 
 
@@ -645,7 +645,7 @@ Oo Jumal! Kasvata seda väikest lapsukest oma armastuse põues ja anna talle pii
 (Bahaiprayers.net ID: 3723)
 
 
-
+«[Eesti](../et/#bpn3723)» 
 
 
 
@@ -657,7 +657,7 @@ Oo Jumal! Hari neid lapsi. Need lapsed on Sinu puuviljaaia taimed, Sinu niidu li
 (Bahaiprayers.net ID: 3724)
 
 
-
+«[Eesti](../et/#bpn3724)» 
 
 
 
@@ -669,7 +669,7 @@ Oo Jumal, juhata mind, kaitse mind, tee minust hiilgav lamp ja särav täht. Sin
 (Bahaiprayers.net ID: 3725)
 
 
-
+«[Eesti](../et/#bpn3725)» 
 
 
 
@@ -681,7 +681,7 @@ Oo mu Issand! Oo mu Issand! Ma olen õrnas eas laps. Toida mind oma halastuse ri
 (Bahaiprayers.net ID: 3726)
 
 
-
+«[Eesti](../et/#bpn3726)» 
 
 
 
@@ -693,7 +693,7 @@ Oo Issand! Tee see nooruk kiirgavaks ja osuta sellele vaesele olendile oma heldu
 (Bahaiprayers.net ID: 3727)
 
 
-
+«[Eesti](../et/#bpn3727)» 
 
 
 
@@ -710,7 +710,7 @@ Oo mu Issand, pühendan Sinule selle, mis on minu rüpes. Lase tal siis olla kii
 (Bahaiprayers.net ID: 3728)
 
 
-
+«[Eesti](../et/#bpn3728)» 
 
 
 
@@ -728,7 +728,7 @@ Sinul on võim teha seda, mis Sulle meeldib. Ei ole muud Jumalat kui Sina, Alati
 (Bahaiprayers.net ID: 3731)
 
 
-
+«[Eesti](../et/#bpn3731)» 
 
 
 
@@ -740,7 +740,7 @@ Sinu nimi on minu tervendus, oo mu Jumal, ja Sinu meenutamine on minu ravim. Sin
 (Bahaiprayers.net ID: 3732)
 
 
-
+«[Eesti](../et/#bpn3732)» 
 
 
 
@@ -753,7 +753,7 @@ Seepärast palun ma Sind Sinu nime juures, mille kaudu Sa ilmutasid oma Jumalust
 (Bahaiprayers.net ID: 3733)
 
 
-
+«[Eesti](../et/#bpn3733)» 
 
 
 
@@ -772,7 +772,7 @@ Sina oled tõesti Andja, Suuremeelne, Halastav, Andestav.
 (Bahaiprayers.net ID: 3734)
 
 
-
+«[Eesti](../et/#bpn3734)» 
 
 
 
@@ -789,7 +789,7 @@ Sinul on võim teha seda, mis Sinule meeldib. Sina oled tõesti Ülevaim, Kõige
 (Bahaiprayers.net ID: 3735)
 
 
-
+«[Eesti](../et/#bpn3735)» 
 
 
 
@@ -801,7 +801,7 @@ Loo mulle puhas süda, oo mu Jumal, ja taasta minus rahulik südametunnistus, oo
 (Bahaiprayers.net ID: 3736)
 
 
-
+«[Eesti](../et/#bpn3736)» 
 
 
 
@@ -813,7 +813,7 @@ Loo mulle puhas süda, oo mu Jumal, ja taasta minus rahulik südametunnistus, oo
 (Bahaiprayers.net ID: 3737)
 
 
-
+«[Eesti](../et/#bpn3737)» 
 
 
 
@@ -825,7 +825,7 @@ Oo mu Jumal! Tee oma ilu mu toiduks ja oma juuresolek mu joogiks ning oma meeleh
 (Bahaiprayers.net ID: 3738)
 
 
-
+«[Eesti](../et/#bpn3738)» 
 
 
 
@@ -839,7 +839,7 @@ Tõepoolest, kui Sa peaksid soovima õnnistada seda teenrit, siis kustutad Sa te
 (Bahaiprayers.net ID: 3739)
 
 
-
+«[Eesti](../et/#bpn3739)» 
 
 
 
@@ -852,7 +852,7 @@ Oo Jumal! Sina oled mulle suuremaks sõbraks kui ma ise. Pühendan end Sulle, oo
 (Bahaiprayers.net ID: 3740)
 
 
-
+«[Eesti](../et/#bpn3740)» 
 
 
 
@@ -868,7 +868,7 @@ Sina näed, oo Issand, meie härdalt paluvaid käsi sirutatuna üles Sinu heatah
 (Bahaiprayers.net ID: 3729)
 
 
-
+«[Eesti](../et/#bpn3729)» 
 
 
 
@@ -881,7 +881,7 @@ Oo mu Jumal! Sa oled innustanud mu hinge esitama Sulle oma härrast palvet ning 
 (Bahaiprayers.net ID: 3730)
 
 
-
+«[Eesti](../et/#bpn3730)» 
 
 
 
@@ -899,7 +899,7 @@ Pole muud Jumalat kui Sina, Kõigevägevam, Kõikealistav, Tingimatu.
 (Bahaiprayers.net ID: 3741)
 
 
-
+«[Eesti](../et/#bpn3741)» 
 
 
 
@@ -913,7 +913,7 @@ Sinu väe nimel! Ma ei palu muud, olgu unes või ilmsi, kui vaid seda, mida soov
 (Bahaiprayers.net ID: 3742)
 
 
-
+«[Eesti](../et/#bpn3742)» 
 
 
 
@@ -932,7 +932,7 @@ Avalda meile, oo Jumal, oma ülev igavik – et Sina oled alati olnud ja jääd 
 (Bahaiprayers.net ID: 3743)
 
 
-
+«[Eesti](../et/#bpn3743)» 
 
 
 
@@ -944,7 +944,7 @@ Oo mu Jumal! Oo mu Jumal! Liida ühte oma teenrite südamed ja avalda neile oma 
 (Bahaiprayers.net ID: 3744)
 
 
-
+«[Eesti](../et/#bpn3744)» 
 
 
 
@@ -960,7 +960,7 @@ Sina oled tõesti Kõigevägevam, Iseolev, Andja, Andestav, Andeksandja, Kõiket
 (Bahaiprayers.net ID: 3745)
 
 
-
+«[Eesti](../et/#bpn3745)» 
 
 
 

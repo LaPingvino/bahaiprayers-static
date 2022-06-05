@@ -29,7 +29,7 @@ E ku'u Akua! ˇO ˇOe ku'u hoaloha i oi aku ma mua o ko'u maika'i ia'u iho. Ke h
 (Bahaiprayers.net ID: 6214)
 
 
-
+«[Hawaiian](../haw/#bpn6214)» 
 
 
 
@@ -57,7 +57,7 @@ a ho'omaika'i ˇia Kona nani.
 (Bahaiprayers.net ID: 6210)
 
 
-
+«[Hawaiian](../haw/#bpn6210)» 
 
 
 
@@ -74,7 +74,7 @@ Kou inoa ku'u ho'ola, e ku'u Akua, a me ka ho'omana'o ˇana ia ˇOe ku'u la'au. 
 (Bahaiprayers.net ID: 6213)
 
 
-
+«[Hawaiian](../haw/#bpn6213)» 
 
 
 
@@ -90,7 +90,7 @@ E ho'oho (a'e) ˇoukou me ka'i ˇana: E hi'ilani ˇia ke Akua! ˇOia wale no ke 
 (Bahaiprayers.net ID: 6212)
 
 
-
+«[Hawaiian](../haw/#bpn6212)» 
 
 
 
@@ -105,7 +105,7 @@ E ke Akua Hemolele a me ka Mana Loa! E ku'u Akua ˇOlu'olu! E ha'awi mai i ke ik
 (Bahaiprayers.net ID: 6215)
 
 
-
+«[Hawaiian](../haw/#bpn6215)» 
 
 
 
@@ -126,7 +126,7 @@ E ke Akua Hemolele a me ka Mana Loa! E ku'u Akua ˇOlu'olu! E ha'awi mai i ke ik
 (Bahaiprayers.net ID: 6211)
 
 
-
+«[Hawaiian](../haw/#bpn6211)» 
 
 
 

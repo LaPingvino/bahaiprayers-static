@@ -103,7 +103,9 @@ Te suplico, oh mi Señor, por Tu Más Grande Nombre, mediante el cual separaste 
 (Bahaiprayers.net ID: 11456)
 
 
+«[Español](../es/#BH07661)» 
 
+«[English](../en/#BH07661)» 
 
 
 
@@ -118,7 +120,7 @@ Toda alabanza y gloria sean para Ti, de Quien todas las cosas han atestiguado qu
 (Bahaiprayers.net ID: 11457)
 
 
-
+«[Español](../es/#bpn11457)» 
 
 
 
@@ -131,7 +133,7 @@ Tú eres el Todopoderoso, el Más Exaltado, el Todoglorioso, el Amoroso.
 (Bahaiprayers.net ID: 11458)
 
 
-
+«[Español](../es/#bpn11458)» 
 
 
 
@@ -145,7 +147,7 @@ Tú eres el Dios de poder, de gloria y de munificencia. No hay Dios sino Tú, el
 (Bahaiprayers.net ID: 11459)
 
 
-
+«[Español](../es/#bpn11459)» 
 
 
 
@@ -169,7 +171,7 @@ Toda generosidad es Tuya, oh Tú que eres el Señor de la generosidad, y el Sobe
 (Bahaiprayers.net ID: 11460)
 
 
-
+«[Español](../es/#bpn11460)» 
 
 
 
@@ -183,7 +185,7 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 (Bahaiprayers.net ID: 11461)
 
 
-
+«[Español](../es/#bpn11461)» 
 
 
 
@@ -201,7 +203,7 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 (Bahaiprayers.net ID: 12578)
 
 
-
+«[Español](../es/#bpn12578)» 
 
 
 
@@ -219,7 +221,7 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 (Bahaiprayers.net ID: 11675)
 
 
-
+«[Español](../es/#bpn11675)» 
 
 
 
@@ -236,7 +238,7 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 (Bahaiprayers.net ID: 11676)
 
 
-
+«[Español](../es/#bpn11676)» 
 
 
 
@@ -251,7 +253,7 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 (Bahaiprayers.net ID: 11677)
 
 
-
+«[Español](../es/#bpn11677)» 
 
 
 
@@ -268,7 +270,7 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 (Bahaiprayers.net ID: 11462)
 
 
-
+«[Español](../es/#bpn11462)» 
 
 
 
@@ -281,7 +283,7 @@ Te suplico, por Tu propio Ser, y por Aquel a Quien Tú has designado como la Man
 (Bahaiprayers.net ID: 11463)
 
 
-
+«[Español](../es/#bpn11463)» 
 
 
 
@@ -296,7 +298,7 @@ Di: Dios es, en verdad, el Hacedor de todas las cosas. Él da sustento en abunda
 (Bahaiprayers.net ID: 11464)
 
 
-
+«[Español](../es/#bpn11464)» 
 
 
 
@@ -308,7 +310,7 @@ Di: Dios es, en verdad, el Hacedor de todas las cosas. Él da sustento en abunda
 (Bahaiprayers.net ID: 11465)
 
 
-
+«[Español](../es/#bpn11465)» 
 
 
 
@@ -321,7 +323,7 @@ Haz descender Tu lluvia celestial con copiosa abundancia. Tú eres el Poderoso, 
 (Bahaiprayers.net ID: 11469)
 
 
-
+«[Español](../es/#bpn11469)» 
 
 
 
@@ -334,7 +336,7 @@ Haz descender Tu lluvia celestial con copiosa abundancia. Tú eres el Poderoso, 
 (Bahaiprayers.net ID: 11466)
 
 
-
+«[Español](../es/#bpn11466)» 
 
 
 
@@ -348,7 +350,11 @@ Tú eres, verdaderamente, el Único, el Indiviso, el Fuerte, el Omnisciente, el 
 (Bahaiprayers.net ID: 11468)
 
 
+«[Nederlands](../nl/#AB10275)» 
 
+«[Español](../es/#AB10275)» 
+
+«[English](../en/#AB10275)» 
 
 
 
@@ -362,7 +368,7 @@ Danos nuestro pan de cada día y confiérenos Tu abundancia en las necesidades d
 (Bahaiprayers.net ID: 11467)
 
 
-
+«[Español](../es/#bpn11467)» 
 
 
 
@@ -378,7 +384,7 @@ Tú, ciertamente, ayudas a quienquiera que desees, y Tú eres, verdaderamente, e
 (Bahaiprayers.net ID: 11470)
 
 
-
+«[Español](../es/#bpn11470)» 
 
 
 
@@ -399,7 +405,7 @@ Ayúdales, oh mi Dios, a hacerte victorioso y a exaltar Tu Palabra. Permite, pue
 (Bahaiprayers.net ID: 11678)
 
 
-
+«[Español](../es/#bpn11678)» 
 
 
 
@@ -411,7 +417,7 @@ Ayúdales, oh mi Dios, a hacerte victorioso y a exaltar Tu Palabra. Permite, pue
 (Bahaiprayers.net ID: 11679)
 
 
-
+«[Español](../es/#bpn11679)» 
 
 
 
@@ -423,7 +429,7 @@ Ayúdales, oh mi Dios, a hacerte victorioso y a exaltar Tu Palabra. Permite, pue
 (Bahaiprayers.net ID: 11680)
 
 
-
+«[Español](../es/#bpn11680)» 
 
 
 
@@ -438,7 +444,7 @@ No hay Dios sino Tú, el Omnisciente, el Sapientísimo. Toda alabanza sea para D
 (Bahaiprayers.net ID: 11681)
 
 
-
+«[Español](../es/#bpn11681)» 
 
 
 
@@ -450,7 +456,7 @@ No hay Dios sino Tú, el Omnisciente, el Sapientísimo. Toda alabanza sea para D
 (Bahaiprayers.net ID: 11682)
 
 
-
+«[Español](../es/#bpn11682)» 
 
 
 
@@ -474,7 +480,11 @@ Alabado seas, oh mi Dios, por habernos ayudado a reconocerle y amarle. Por tanto
 (Bahaiprayers.net ID: 11683)
 
 
+«[Nederlands](../nl/#BH00778)» 
 
+«[Español](../es/#BH00778)» 
+
+«[English](../en/#BH00778)» 
 
 
 
@@ -494,7 +504,7 @@ Haz victoriosa a Tu Causa, oh mi Señor, y humilla a Tus enemigos. Decreta, pues
 (Bahaiprayers.net ID: 11684)
 
 
-
+«[Español](../es/#bpn11684)» 
 
 
 
@@ -519,7 +529,15 @@ Te imploro, oh mi Señor, por Ti mismo, por Tus señales, por Tus claros testimo
 (Bahaiprayers.net ID: 11685)
 
 
+«[Français](../fr/#BH01125)» 
 
+«[Italiano](../it/#BH01125)» 
+
+«[Nederlands](../nl/#BH01125)» 
+
+«[Español](../es/#BH01125)» 
+
+«[English](../en/#BH01125)» 
 
 
 
@@ -535,7 +553,7 @@ Tú ves, oh Señor, nuestras manos suplicantes levantadas hacia el cielo de Tu f
 (Bahaiprayers.net ID: 11686)
 
 
-
+«[Español](../es/#bpn11686)» 
 
 
 
@@ -547,7 +565,7 @@ Tú ves, oh Señor, nuestras manos suplicantes levantadas hacia el cielo de Tu f
 (Bahaiprayers.net ID: 11687)
 
 
-
+«[Español](../es/#bpn11687)» 
 
 
 
@@ -576,7 +594,7 @@ Te suplico, oh Señor, por Él y por ellos, y por Aquel a Quien has establecido 
 (Bahaiprayers.net ID: 11688)
 
 
-
+«[Español](../es/#bpn11688)» 
 
 
 
@@ -594,7 +612,7 @@ En verdad, Tú eres Quien siempre perdona, el Más Compasivo.
 (Bahaiprayers.net ID: 11472)
 
 
-
+«[Español](../es/#bpn11472)» 
 
 
 
@@ -607,7 +625,7 @@ Te suplico, oh Tú que eres el Señor del reino de los nombres y el Hacedor de l
 (Bahaiprayers.net ID: 11473)
 
 
-
+«[Español](../es/#bpn11473)» 
 
 
 
@@ -620,7 +638,7 @@ Te suplico, oh Tú que eres el Señor del reino de los nombres y el Hacedor de l
 (Bahaiprayers.net ID: 11474)
 
 
-
+«[Español](../es/#bpn11474)» 
 
 
 
@@ -635,7 +653,7 @@ Potente eres Tú para hacer lo que deseas. Tú eres, ciertamente, el Omnipotente
 (Bahaiprayers.net ID: 11471)
 
 
-
+«[Español](../es/#bpn11471)» 
 
 
 
@@ -647,7 +665,7 @@ Verdaderamente, soy Tu siervo, oh mi Dios, y Tu necesitado, y Tu suplicante, y T
 (Bahaiprayers.net ID: 11475)
 
 
-
+«[Español](../es/#bpn11475)» 
 
 
 
@@ -661,7 +679,7 @@ Verdaderamente, soy Tu siervo, oh mi Dios, y Tu necesitado, y Tu suplicante, y T
 (Bahaiprayers.net ID: 11476)
 
 
-
+«[Español](../es/#bpn11476)» 
 
 
 
@@ -673,7 +691,7 @@ Oh Dios, mi Dios, mi Bienamado, el Deseo de mi corazón.
 (Bahaiprayers.net ID: 11477)
 
 
-
+«[Español](../es/#bpn11477)» 
 
 
 
@@ -695,7 +713,7 @@ Te pido, oh Señor de todos los seres y Rey de lo visible y lo invisible, por Tu
 (Bahaiprayers.net ID: 11478)
 
 
-
+«[Español](../es/#bpn11478)» 
 
 
 
@@ -709,7 +727,7 @@ En Ti he puesto toda mi confianza, hacia Ti he vuelto mi rostro, a la cuerda de 
 (Bahaiprayers.net ID: 11479)
 
 
-
+«[Español](../es/#bpn11479)» 
 
 
 
@@ -722,7 +740,13 @@ Te suplico que me permitas asirme fuertemente a Tu amor y a Tu recuerdo. Ciertam
 (Bahaiprayers.net ID: 11480)
 
 
+«[Español](../es/#BH08822)» 
 
+«[Esperanto](../eo/#BH08822)» 
+
+«[Português (BR)](../pt/#BH08822)» 
+
+«[English](../en/#BH08822)» 
 
 
 
@@ -736,7 +760,7 @@ Tú eres, verdaderamente, el Dios de Poder, Quien ayuda en el peligro, el Todogl
 (Bahaiprayers.net ID: 11481)
 
 
-
+«[Español](../es/#bpn11481)» 
 
 
 
@@ -749,7 +773,7 @@ Verdaderamente, Tú eres el Señor de la Fuerza, Tú eres potente para ordenar l
 (Bahaiprayers.net ID: 11482)
 
 
-
+«[Español](../es/#bpn11482)» 
 
 
 
@@ -762,7 +786,7 @@ En verdad, Tú eres poderoso para hacer todo cuanto sea Tu voluntad, y en Tu pu�
 (Bahaiprayers.net ID: 11483)
 
 
-
+«[Español](../es/#bpn11483)» 
 
 
 
@@ -775,7 +799,9 @@ En verdad, Tú eres el Gobernante Supremo, la Verdad Soberana, Quien ayuda en el
 (Bahaiprayers.net ID: 11484)
 
 
+«[Español](../es/#BB00621)» 
 
+«[English](../en/#BB00621)» 
 
 
 
@@ -787,7 +813,7 @@ En verdad, Tú eres el Gobernante Supremo, la Verdad Soberana, Quien ayuda en el
 (Bahaiprayers.net ID: 11485)
 
 
-
+«[Español](../es/#bpn11485)» 
 
 
 
@@ -801,7 +827,7 @@ En verdad, Tú eres el Generoso, el Eterno Dador, el Preciado, el Más Generoso.
 (Bahaiprayers.net ID: 11486)
 
 
-
+«[Español](../es/#bpn11486)» 
 
 
 
@@ -815,7 +841,7 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Compasivo.
 (Bahaiprayers.net ID: 11487)
 
 
-
+«[Español](../es/#bpn11487)» 
 
 
 
@@ -832,7 +858,7 @@ Permite, Te lo suplico, que este siervo alcance lo que sea causa de su salvació
 (Bahaiprayers.net ID: 11488)
 
 
-
+«[Español](../es/#bpn11488)» 
 
 
 
@@ -845,7 +871,11 @@ Tú eres Quien tiene poder de hacer lo que Le plazca y Quien sujeta con Su mano 
 (Bahaiprayers.net ID: 11489)
 
 
+«[Nederlands](../nl/#BH00531TRA)» 
 
+«[Español](../es/#BH00531TRA)» 
+
+«[English](../en/#BH00531TRA)» 
 
 
 
@@ -858,7 +888,7 @@ Potente eres Tú para hacer lo que Te place. Tú eres, en verdad, el Más Exalta
 (Bahaiprayers.net ID: 11492)
 
 
-
+«[Español](../es/#bpn11492)» 
 
 
 
@@ -873,7 +903,7 @@ Soy testigo en este momento, oh mi Dios, de mi impotencia y de Tu soberanía, de
 (Bahaiprayers.net ID: 11493)
 
 
-
+«[Español](../es/#bpn11493)» 
 
 
 
@@ -888,7 +918,7 @@ Estos son los primeros días de mi vida, oh mi Dios, que Tú has vinculado a Tus
 (Bahaiprayers.net ID: 11494)
 
 
-
+«[Español](../es/#bpn11494)» 
 
 
 
@@ -901,7 +931,7 @@ Tú eres, verdaderamente, el Todopoderoso, el Todoglorioso, el Omnipotente.
 (Bahaiprayers.net ID: 11491)
 
 
-
+«[Español](../es/#bpn11491)» 
 
 
 
@@ -913,7 +943,7 @@ Crea en mí un corazón puro, oh mi Dios, y renueva una conciencia tranquila den
 (Bahaiprayers.net ID: 11490)
 
 
-
+«[Español](../es/#bpn11490)» 
 
 
 
@@ -928,7 +958,9 @@ En verdad, si desearas otorgar bendiciones a un siervo, borrarías del dominio d
 (Bahaiprayers.net ID: 11495)
 
 
+«[Español](../es/#BB00374)» 
 
+«[English](../en/#BB00374)» 
 
 
 
@@ -943,7 +975,7 @@ Tú eres el Fuerte, el Poderoso, y Tú eres el Dios de fuerza, el Omnipotente, Q
 (Bahaiprayers.net ID: 11496)
 
 
-
+«[Español](../es/#bpn11496)» 
 
 
 
@@ -958,7 +990,7 @@ Ampáralos dentro de la fortaleza de Tu protección y seguridad; resguárdalos c
 (Bahaiprayers.net ID: 11497)
 
 
-
+«[Español](../es/#bpn11497)» 
 
 
 
@@ -972,7 +1004,13 @@ Tú eres, verdaderamente, el Fuerte, el Exaltado, el Poderoso, Aquel que es el �
 (Bahaiprayers.net ID: 11498)
 
 
+«[Español](../es/#AB00128FEE)» 
 
+«[Português (BR)](../pt/#AB00128FEE)» 
+
+«[Português (BR)](../pt/#AB00128FEE)» 
+
+«[English](../en/#AB00128FEE)» 
 
 
 
@@ -987,7 +1025,11 @@ Verdaderamente, Tú eres misericordioso y, verdaderamente, Tú eres el Más Gene
 (Bahaiprayers.net ID: 11499)
 
 
+«[Nederlands](../nl/#AB07709CON)» 
 
+«[Español](../es/#AB07709CON)» 
+
+«[English](../en/#AB07709CON)» 
 
 
 
@@ -1000,7 +1042,7 @@ Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante. No hay
 (Bahaiprayers.net ID: 11500)
 
 
-
+«[Español](../es/#bpn11500)» 
 
 
 
@@ -1012,7 +1054,7 @@ Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante. No hay
 (Bahaiprayers.net ID: 11501)
 
 
-
+«[Español](../es/#bpn11501)» 
 
 
 
@@ -1034,7 +1076,7 @@ Tú eres, verdaderamente, el Benévolo, el Glorificado, el Poderoso, el Omnipote
 (Bahaiprayers.net ID: 11502)
 
 
-
+«[Español](../es/#bpn11502)» 
 
 
 
@@ -1049,7 +1091,7 @@ Tú eres, verdaderamente, el Benévolo, el Glorificado, el Poderoso, el Omnipote
 (Bahaiprayers.net ID: 11503)
 
 
-
+«[Español](../es/#bpn11503)» 
 
 
 
@@ -1067,7 +1109,7 @@ Tú eres, verdaderamente, el Señor de esta vida y de la venidera. Tú eres, en 
 (Bahaiprayers.net ID: 11504)
 
 
-
+«[Español](../es/#bpn11504)» 
 
 
 
@@ -1080,7 +1122,7 @@ Tú eres, en verdad, el Sanador, el Preservador, el Auxiliador, el Todopoderoso,
 (Bahaiprayers.net ID: 11505)
 
 
-
+«[Español](../es/#bpn11505)» 
 
 
 
@@ -1094,7 +1136,7 @@ Poderoso eres Tú para hacer lo que Te place. No hay otro Dios sino Tú, Quien s
 (Bahaiprayers.net ID: 11506)
 
 
-
+«[Español](../es/#bpn11506)» 
 
 
 
@@ -1109,7 +1151,7 @@ Te imploro, pues, por Tu nombre, mediante el cual manifestaste Tu Deidad y exalt
 (Bahaiprayers.net ID: 11508)
 
 
-
+«[Español](../es/#bpn11508)» 
 
 
 
@@ -1126,7 +1168,7 @@ Tú, en verdad, estás inmensamente por encima de todo cuanto no seas Tú mismo.
 (Bahaiprayers.net ID: 11509)
 
 
-
+«[Español](../es/#bpn11509)» 
 
 
 
@@ -1186,7 +1228,7 @@ Tú eres, en verdad, el Poderoso, el Suficiente, el Sanador, el Protector, el Da
 (Bahaiprayers.net ID: 11510)
 
 
-
+«[Español](../es/#bpn11510)» 
 
 
 
@@ -1198,7 +1240,17 @@ Tu nombre es mi curación, oh mi Dios, y el recuerdo de Ti es mi remedio. La pro
 (Bahaiprayers.net ID: 11507)
 
 
+«[Nederlands](../nl/#BH01313NAM)» 
 
+«[Español](../es/#BH01313NAM)» 
+
+«[Esperanto](../eo/#BH01313NAM)» 
+
+«[Português (BR)](../pt/#BH01313NAM)» 
+
+«[English](../en/#BH01313NAM)» 
+
+«[Frysk](../fy/#BH01313NAM)» 
 
 
 
@@ -1216,7 +1268,11 @@ Tú eres, en verdad, el Señor de los mundos y el Dios de todos los que están e
 (Bahaiprayers.net ID: 11511)
 
 
+«[Español](../es/#BH09864)» 
 
+«[Português (BR)](../pt/#BH09864)» 
+
+«[English](../en/#BH09864)» 
 
 
 
@@ -1230,7 +1286,7 @@ Verdaderamente, Tú eres el Señor de toda la humanidad y el Poseedor de este mu
 (Bahaiprayers.net ID: 11512)
 
 
-
+«[Español](../es/#bpn11512)» 
 
 
 
@@ -1245,7 +1301,15 @@ En verdad, Tu poder es suficiente para todo.
 (Bahaiprayers.net ID: 11513)
 
 
+«[Nederlands](../nl/#BH09024)» 
 
+«[Afrikaans](../af/#BH09024)» 
+
+«[Español](../es/#BH09024)» 
+
+«[Esperanto](../eo/#BH09024)» 
+
+«[English](../en/#BH09024)» 
 
 
 
@@ -1264,7 +1328,7 @@ Tú, ciertamente, eres el Todopoderoso, el Más Exaltado, el Omnisciente, el Sap
 (Bahaiprayers.net ID: 11514)
 
 
-
+«[Español](../es/#bpn11514)» 
 
 
 
@@ -1278,7 +1342,7 @@ Te imploro, por la alabanza con que Te alabas a Ti mismo y la gloria con que glo
 (Bahaiprayers.net ID: 11515)
 
 
-
+«[Español](../es/#bpn11515)» 
 
 
 
@@ -1294,7 +1358,7 @@ No hay otro Dios sino Tú, el Todopoderoso, el Benéfico.
 (Bahaiprayers.net ID: 11516)
 
 
-
+«[Español](../es/#bpn11516)» 
 
 
 
@@ -1306,7 +1370,7 @@ No hay otro Dios sino Tú, el Todopoderoso, el Benéfico.
 (Bahaiprayers.net ID: 11517)
 
 
-
+«[Español](../es/#bpn11517)» 
 
 
 
@@ -1322,7 +1386,11 @@ Tú tienes autoridad absoluta para ordenar.
 (Bahaiprayers.net ID: 11518)
 
 
+«[Italiano](../it/#BB00522)» 
 
+«[Español](../es/#BB00522)» 
+
+«[English](../en/#BB00522)» 
 
 
 
@@ -1337,7 +1405,7 @@ Tú eres, en verdad, el Todopoderoso, el Todoglorioso, el Omnipotente.
 (Bahaiprayers.net ID: 11520)
 
 
-
+«[Español](../es/#bpn11520)» 
 
 
 
@@ -1363,7 +1431,7 @@ No hay otro Dios más que Tú, el Único, el Indiviso, el Poderoso, el Omniscien
 (Bahaiprayers.net ID: 11521)
 
 
-
+«[Español](../es/#bpn11521)» 
 
 
 
@@ -1377,7 +1445,7 @@ No hay otro Dios más que Tú, el Único, el Indiviso, el Poderoso, el Omniscien
 (Bahaiprayers.net ID: 11522)
 
 
-
+«[Español](../es/#bpn11522)» 
 
 
 
@@ -1404,7 +1472,7 @@ Todos, en verdad, somos pacientes en Dios.
 (Bahaiprayers.net ID: 11531)
 
 
-
+«[Español](../es/#bpn11531)» 
 
 
 
@@ -1418,7 +1486,7 @@ En verdad, Tú eres el Generoso, el Poderoso, el Perdonador y el Donador.
 (Bahaiprayers.net ID: 11523)
 
 
-
+«[Español](../es/#bpn11523)» 
 
 
 
@@ -1431,7 +1499,15 @@ En verdad, Tú eres el Generoso, el Poderoso, el Perdonador y el Donador.
 (Bahaiprayers.net ID: 11524)
 
 
+«[Nederlands](../nl/#AB11094)» 
 
+«[Español](../es/#AB11094)» 
+
+«[Esperanto](../eo/#AB11094)» 
+
+«[English](../en/#AB11094)» 
+
+«[Frysk](../fy/#AB11094)» 
 
 
 
@@ -1444,7 +1520,7 @@ Tú eres el Perdonador, el Iluminador, el Omnipotente.
 (Bahaiprayers.net ID: 11525)
 
 
-
+«[Español](../es/#bpn11525)» 
 
 
 
@@ -1458,7 +1534,7 @@ Tú eres el Señor de tierno amor, Tú eres la meta final del corazón anhelante
 (Bahaiprayers.net ID: 11526)
 
 
-
+«[Español](../es/#bpn11526)» 
 
 
 
@@ -1471,7 +1547,7 @@ Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordio
 (Bahaiprayers.net ID: 11527)
 
 
-
+«[Español](../es/#bpn11527)» 
 
 
 
@@ -1483,7 +1559,7 @@ Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordio
 (Bahaiprayers.net ID: 11528)
 
 
-
+«[Español](../es/#bpn11528)» 
 
 
 
@@ -1497,7 +1573,7 @@ Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordio
 (Bahaiprayers.net ID: 11529)
 
 
-
+«[Español](../es/#bpn11529)» 
 
 
 
@@ -1511,7 +1587,7 @@ Verdaderamente, Tú eres el Perdonador, el Donador y el Bondadoso.
 (Bahaiprayers.net ID: 11530)
 
 
-
+«[Español](../es/#bpn11530)» 
 
 
 
@@ -1533,7 +1609,7 @@ Tú eres, verdaderamente, el Todopoderoso, el Omnisciente, el Informado de todo.
 (Bahaiprayers.net ID: 11689)
 
 
-
+«[Español](../es/#bpn11689)» 
 
 
 
@@ -1552,7 +1628,9 @@ Tú eres, en verdad, el Dios de fuerza y poder, y estás dispuesto a responder a
 (Bahaiprayers.net ID: 11532)
 
 
+«[Español](../es/#BH08363)» 
 
+«[English](../en/#BH08363)» 
 
 
 
@@ -1566,7 +1644,7 @@ Te suplico, por esa Palabra, mediante la cual fue perfeccionada Tu prueba entre 
 (Bahaiprayers.net ID: 11533)
 
 
-
+«[Español](../es/#bpn11533)» 
 
 
 
@@ -1580,7 +1658,7 @@ Oh mi Señor, ya que los has guiado hasta las aguas vivas de Tu gracia, permite,
 (Bahaiprayers.net ID: 11534)
 
 
-
+«[Español](../es/#bpn11534)» 
 
 
 
@@ -1594,7 +1672,7 @@ Verdaderamente, potente eres Tú para hacer cuanto Te place y en Tu mano sostien
 (Bahaiprayers.net ID: 11535)
 
 
-
+«[Español](../es/#bpn11535)» 
 
 
 
@@ -1606,7 +1684,7 @@ Verdaderamente, potente eres Tú para hacer cuanto Te place y en Tu mano sostien
 (Bahaiprayers.net ID: 11536)
 
 
-
+«[Español](../es/#bpn11536)» 
 
 
 
@@ -1618,7 +1696,7 @@ Alabado seas, oh Señor mi Dios, por guiarme al horizonte de Tu Revelación y ha
 (Bahaiprayers.net ID: 11537)
 
 
-
+«[Español](../es/#bpn11537)» 
 
 
 
@@ -1633,7 +1711,7 @@ Tú eres Quien todo lo sabe y todo lo ve. En mi amor por Ti, no tengo deseo algu
 (Bahaiprayers.net ID: 11538)
 
 
-
+«[Español](../es/#bpn11538)» 
 
 
 
@@ -1645,7 +1723,7 @@ Tú eres Quien todo lo sabe y todo lo ve. En mi amor por Ti, no tengo deseo algu
 (Bahaiprayers.net ID: 11539)
 
 
-
+«[Español](../es/#bpn11539)» 
 
 
 
@@ -1658,7 +1736,7 @@ Tú eres, verdaderamente, el Generoso, el Perdonador.
 (Bahaiprayers.net ID: 11540)
 
 
-
+«[Español](../es/#bpn11540)» 
 
 
 
@@ -1673,7 +1751,7 @@ En verdad, Tú estás dotado de abundante gracia. No hay otro Dios más que Tú,
 (Bahaiprayers.net ID: 11541)
 
 
-
+«[Español](../es/#bpn11541)» 
 
 
 
@@ -1693,7 +1771,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso, el Omnipotente.
 (Bahaiprayers.net ID: 11551)
 
 
-
+«[Español](../es/#bpn11551)» 
 
 
 
@@ -1710,7 +1788,7 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 (Bahaiprayers.net ID: 11550)
 
 
-
+«[Español](../es/#bpn11550)» 
 
 
 
@@ -1728,7 +1806,7 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 (Bahaiprayers.net ID: 11549)
 
 
-
+«[Español](../es/#bpn11549)» 
 
 
 
@@ -1747,7 +1825,7 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 (Bahaiprayers.net ID: 11548)
 
 
-
+«[Español](../es/#bpn11548)» 
 
 
 
@@ -1765,7 +1843,7 @@ Tú eres el Omnipotente y Quien hace lo que Le place.
 (Bahaiprayers.net ID: 11547)
 
 
-
+«[Español](../es/#bpn11547)» 
 
 
 
@@ -1785,7 +1863,7 @@ En verdad, Tú eres el Potente, el Poderoso, el Sabio y el que ve.
 (Bahaiprayers.net ID: 11546)
 
 
-
+«[Español](../es/#bpn11546)» 
 
 
 
@@ -1811,7 +1889,7 @@ Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante y, verd
 (Bahaiprayers.net ID: 11545)
 
 
-
+«[Español](../es/#bpn11545)» 
 
 
 
@@ -1832,7 +1910,7 @@ Verdaderamente, Tú eres el Clemente, el Potente, el Poderoso y el Más Miserico
 (Bahaiprayers.net ID: 11544)
 
 
-
+«[Español](../es/#bpn11544)» 
 
 
 
@@ -1852,7 +1930,7 @@ Verdaderamente, Tú confirmas a quien quieres en lo que Tú deseas y, en verdad,
 (Bahaiprayers.net ID: 11543)
 
 
-
+«[Español](../es/#bpn11543)» 
 
 
 
@@ -1868,7 +1946,7 @@ Verdaderamente, Tú confirmas a quien quieres en lo que Tú deseas y, en verdad,
 (Bahaiprayers.net ID: 11542)
 
 
-
+«[Español](../es/#bpn11542)» 
 
 
 
@@ -1887,7 +1965,7 @@ Verdaderamente, Tú eres el Señor de la rectitud, el Exaltadísimo.
 (Bahaiprayers.net ID: 11552)
 
 
-
+«[Español](../es/#bpn11552)» 
 
 
 
@@ -1900,7 +1978,7 @@ Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú dese
 (Bahaiprayers.net ID: 11553)
 
 
-
+«[Español](../es/#bpn11553)» 
 
 
 
@@ -1912,7 +1990,7 @@ Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú dese
 (Bahaiprayers.net ID: 11554)
 
 
-
+«[Español](../es/#bpn11554)» 
 
 
 
@@ -1931,7 +2009,7 @@ Decreta para mí, por Tu generosidad, oh Señor, aquello que me haga prosperar e
 (Bahaiprayers.net ID: 11555)
 
 
-
+«[Español](../es/#bpn11555)» 
 
 
 
@@ -1946,7 +2024,11 @@ No hay Dios sino Tú, el Todopoderoso, el Sapientísimo.
 (Bahaiprayers.net ID: 11556)
 
 
+«[Nederlands](../nl/#BH07683)» 
 
+«[Español](../es/#BH07683)» 
+
+«[English](../en/#BH07683)» 
 
 
 
@@ -1961,7 +2043,7 @@ Tú eres el Compasivo, el Misericordioso. Tú eres el Gran Dios Benéfico.
 (Bahaiprayers.net ID: 11557)
 
 
-
+«[Español](../es/#bpn11557)» 
 
 
 
@@ -1974,7 +2056,7 @@ No consientas, oh mi Dios, que sea contado entre aquellos cuyos oídos están so
 (Bahaiprayers.net ID: 11558)
 
 
-
+«[Español](../es/#bpn11558)» 
 
 
 
@@ -1987,7 +2069,7 @@ Verdaderamente, Tú eres el Invencible, el Todopoderoso, el Omnipotente.
 (Bahaiprayers.net ID: 11559)
 
 
-
+«[Español](../es/#bpn11559)» 
 
 
 
@@ -2001,7 +2083,13 @@ Tú eres el Perdonador, el Benévolo.
 (Bahaiprayers.net ID: 11560)
 
 
+«[Deutsch](../de/#AB06211)» 
 
+«[Español](../es/#AB06211)» 
+
+«[Português (BR)](../pt/#AB06211)» 
+
+«[English](../en/#AB06211)» 
 
 
 
@@ -2013,7 +2101,7 @@ Tú eres el Perdonador, el Benévolo.
 (Bahaiprayers.net ID: 11561)
 
 
-
+«[Español](../es/#bpn11561)» 
 
 
 
@@ -2034,7 +2122,7 @@ Verdaderamente, Tú eres el Sostenedor, el Auxiliador, el Generoso, el Munífico
 (Bahaiprayers.net ID: 11562)
 
 
-
+«[Español](../es/#bpn11562)» 
 
 
 
@@ -2052,7 +2140,7 @@ Todos son pobres y necesitados, y Tú eres, en verdad, Quien todo lo posee, Quie
 (Bahaiprayers.net ID: 11563)
 
 
-
+«[Español](../es/#bpn11563)» 
 
 
 
@@ -2065,7 +2153,7 @@ Verdaderamente, Tú eres el Donador, Tú eres el Bondadoso y Tú eres el Todopod
 (Bahaiprayers.net ID: 11564)
 
 
-
+«[Español](../es/#bpn11564)» 
 
 
 
@@ -2084,7 +2172,7 @@ Tú eres el Poderoso y el Fuerte. Tú eres el Perdonador y Tú eres Quien pasa p
 (Bahaiprayers.net ID: 11565)
 
 
-
+«[Español](../es/#bpn11565)» 
 
 
 
@@ -2098,7 +2186,7 @@ Tú eres, en verdad, el Poderoso, el Protector, el Potente, el Defensor, el Fuer
 (Bahaiprayers.net ID: 11566)
 
 
-
+«[Español](../es/#bpn11566)» 
 
 
 
@@ -2115,7 +2203,7 @@ Ilumina, oh Señor, los rostros de Tus siervos para que puedan verte, y limpia s
 (Bahaiprayers.net ID: 11567)
 
 
-
+«[Español](../es/#bpn11567)» 
 
 
 
@@ -2127,7 +2215,7 @@ Ilumina, oh Señor, los rostros de Tus siervos para que puedan verte, y limpia s
 (Bahaiprayers.net ID: 11568)
 
 
-
+«[Español](../es/#bpn11568)» 
 
 
 
@@ -2139,7 +2227,7 @@ Ilumina, oh Señor, los rostros de Tus siervos para que puedan verte, y limpia s
 (Bahaiprayers.net ID: 11569)
 
 
-
+«[Español](../es/#bpn11569)» 
 
 
 
@@ -2157,7 +2245,7 @@ Haz que aparezcan, pues, oh espíritu de Pureza, almas que, al igual que esos se
 (Bahaiprayers.net ID: 11570)
 
 
-
+«[Español](../es/#bpn11570)» 
 
 
 
@@ -2170,7 +2258,7 @@ Haz que aparezcan, pues, oh espíritu de Pureza, almas que, al igual que esos se
 (Bahaiprayers.net ID: 11571)
 
 
-
+«[Español](../es/#bpn11571)» 
 
 
 
@@ -2183,7 +2271,9 @@ Tú eres el Otorgador, el Amoroso.
 (Bahaiprayers.net ID: 11572)
 
 
+«[Nederlands](../nl/#AB10492)» 
 
+«[Español](../es/#AB10492)» 
 
 
 
@@ -2195,7 +2285,7 @@ Tú eres el Otorgador, el Amoroso.
 (Bahaiprayers.net ID: 11573)
 
 
-
+«[Español](../es/#bpn11573)» 
 
 
 
@@ -2211,7 +2301,7 @@ Tú eres el Todopoderoso, el Todoglorioso, el Omnipotente.
 (Bahaiprayers.net ID: 11574)
 
 
-
+«[Español](../es/#bpn11574)» 
 
 
 
@@ -2225,7 +2315,7 @@ Tú eres el Otorgador, el Más Amoroso, el Más Esplendoroso, el Más Resplandec
 (Bahaiprayers.net ID: 11575)
 
 
-
+«[Español](../es/#bpn11575)» 
 
 
 
@@ -2237,7 +2327,7 @@ Tú eres el Otorgador, el Más Amoroso, el Más Esplendoroso, el Más Resplandec
 (Bahaiprayers.net ID: 11576)
 
 
-
+«[Español](../es/#bpn11576)» 
 
 
 
@@ -2256,7 +2346,7 @@ Verdaderamente, Tú eres el Preciado, el Eterno Donador, el Munífico.
 (Bahaiprayers.net ID: 11595)
 
 
-
+«[Español](../es/#bpn11595)» 
 
 
 
@@ -2293,7 +2383,7 @@ Y cuando deseó manifestar gracia y beneficencia a los seres humanos y poner el 
 (Bahaiprayers.net ID: 11581)
 
 
-
+«[Español](../es/#bpn11581)» 
 
 
 
@@ -2306,7 +2396,7 @@ Y cuando deseó manifestar gracia y beneficencia a los seres humanos y poner el 
 (Bahaiprayers.net ID: 11582)
 
 
-
+«[Español](../es/#bpn11582)» 
 
 
 
@@ -2319,7 +2409,7 @@ Verdaderamente, Tú eres el Omnipotente, el Omnipresente y el Todopoderoso.
 (Bahaiprayers.net ID: 11583)
 
 
-
+«[Español](../es/#bpn11583)» 
 
 
 
@@ -2332,7 +2422,9 @@ En verdad, Tú eres el Generoso. En verdad, Tú eres el Compasivo, el Todomiseri
 (Bahaiprayers.net ID: 11584)
 
 
+«[Español](../es/#AB02596)» 
 
+«[English](../en/#AB02596)» 
 
 
 
@@ -2348,7 +2440,7 @@ He despertado bajo Tu amparo, oh mi Dios, y corresponde a quien busca ese amparo
 (Bahaiprayers.net ID: 11577)
 
 
-
+«[Español](../es/#bpn11577)» 
 
 
 
@@ -2361,7 +2453,7 @@ No hay otro Dios más que Tú, el Único, el Incomparable, el Omnisciente, el Sa
 (Bahaiprayers.net ID: 11578)
 
 
-
+«[Español](../es/#bpn11578)» 
 
 
 
@@ -2377,7 +2469,7 @@ Tú no decepcionas a nadie que Te haya buscado, ni apartas a quien Te haya desea
 (Bahaiprayers.net ID: 11579)
 
 
-
+«[Español](../es/#bpn11579)» 
 
 
 
@@ -2392,7 +2484,7 @@ Tú eres, en verdad, el Señor y Rey de todos los seres, y eres poderoso sobre t
 (Bahaiprayers.net ID: 11580)
 
 
-
+«[Español](../es/#bpn11580)» 
 
 
 
@@ -2411,7 +2503,11 @@ No hay Dios fuera de Ti, el Poderoso, el Perdurable, el Munífico, el Más Gener
 (Bahaiprayers.net ID: 11585)
 
 
+«[Nederlands](../nl/#BH09162)» 
 
+«[Español](../es/#BH09162)» 
+
+«[English](../en/#BH09162)» 
 
 
 
@@ -2425,7 +2521,9 @@ No hay Dios sino Tú, el Todopoderoso, el Más Exaltado, el Todoglorioso, Quien 
 (Bahaiprayers.net ID: 11586)
 
 
+«[Español](../es/#BH09399)» 
 
+«[English](../en/#BH09399)» 
 
 
 
@@ -2440,7 +2538,7 @@ Tú eres, en verdad, el Dios de poder, de fortaleza y de gloria.
 (Bahaiprayers.net ID: 11587)
 
 
-
+«[Español](../es/#bpn11587)» 
 
 
 
@@ -2455,7 +2553,7 @@ No hay Dios sino Tú, el Dios de poder, el Dios de gloria, el Dios de conocimien
 (Bahaiprayers.net ID: 11588)
 
 
-
+«[Español](../es/#bpn11588)» 
 
 
 
@@ -2469,7 +2567,9 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, el Todopodero
 (Bahaiprayers.net ID: 11589)
 
 
+«[Español](../es/#BH10231)» 
 
+«[English](../en/#BH10231)» 
 
 
 
@@ -2485,7 +2585,7 @@ En verdad, Tú eres el Rey de todos los seres. No hay Dios sino Tú, Quien siemp
 (Bahaiprayers.net ID: 11590)
 
 
-
+«[Español](../es/#bpn11590)» 
 
 
 
@@ -2497,7 +2597,7 @@ En verdad, Tú eres el Rey de todos los seres. No hay Dios sino Tú, Quien siemp
 (Bahaiprayers.net ID: 11591)
 
 
-
+«[Español](../es/#bpn11591)» 
 
 
 
@@ -2511,7 +2611,9 @@ Verdaderamente, Tú eres el Poderoso, el Eterno Dador, el Capaz, el Omnipotente.
 (Bahaiprayers.net ID: 11592)
 
 
+«[Español](../es/#AB00553)» 
 
+«[English](../en/#AB00553)» 
 
 
 
@@ -2524,7 +2626,7 @@ Tú eres el Poderoso.
 (Bahaiprayers.net ID: 11593)
 
 
-
+«[Español](../es/#bpn11593)» 
 
 
 
@@ -2538,7 +2640,7 @@ Verdaderamente, Tú eres el Generoso. Verdaderamente, Tú eres el Señor de Gran
 (Bahaiprayers.net ID: 11594)
 
 
-
+«[Español](../es/#bpn11594)» 
 
 
 
@@ -2560,7 +2662,7 @@ Verdaderamente, Tú eres el Munífico, el Poderoso, el Omnipotente, el Libre. No
 (Bahaiprayers.net ID: 11692)
 
 
-
+«[Español](../es/#bpn11692)» 
 
 
 
@@ -2580,7 +2682,7 @@ Tú eres, en verdad, el Omnisciente, el Sapientísimo.
 (Bahaiprayers.net ID: 11693)
 
 
-
+«[Español](../es/#bpn11693)» 
 
 
 
@@ -2597,7 +2699,7 @@ Te imploro, por Tu nombre, el cual permite a todos alcanzar el objeto de su dese
 (Bahaiprayers.net ID: 11596)
 
 
-
+«[Español](../es/#bpn11596)» 
 
 
 
@@ -2613,7 +2715,9 @@ No dejes que se encomiende al cuidado de nadie salvo de Ti, puesto que Tú mismo
 (Bahaiprayers.net ID: 11617)
 
 
+«[Español](../es/#BH09855)» 
 
+«[English](../en/#BH09855)» 
 
 
 
@@ -2628,7 +2732,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11519)
 
 
-
+«[Español](../es/#bpn11519)» 
 
 
 
@@ -2640,7 +2744,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11597)
 
 
-
+«[Español](../es/#bpn11597)» 
 
 
 
@@ -2652,7 +2756,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11598)
 
 
-
+«[Español](../es/#bpn11598)» 
 
 
 
@@ -2664,7 +2768,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11599)
 
 
-
+«[Español](../es/#bpn11599)» 
 
 
 
@@ -2676,7 +2780,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11600)
 
 
-
+«[Español](../es/#bpn11600)» 
 
 
 
@@ -2688,7 +2792,7 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11601)
 
 
-
+«[Español](../es/#bpn11601)» 
 
 
 
@@ -2701,7 +2805,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso, Quien ve y Quien oye.
 (Bahaiprayers.net ID: 11602)
 
 
-
+«[Español](../es/#bpn11602)» 
 
 
 
@@ -2713,7 +2817,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso, Quien ve y Quien oye.
 (Bahaiprayers.net ID: 11603)
 
 
-
+«[Español](../es/#bpn11603)» 
 
 
 
@@ -2727,7 +2831,11 @@ Tú eres el Poderoso, el Más Amoroso.
 (Bahaiprayers.net ID: 11604)
 
 
+«[Nederlands](../nl/#AB10701)» 
 
+«[Español](../es/#AB10701)» 
+
+«[English](../en/#AB10701)» 
 
 
 
@@ -2740,7 +2848,7 @@ Tú eres el Munífico, el Más Amoroso.
 (Bahaiprayers.net ID: 11605)
 
 
-
+«[Español](../es/#bpn11605)» 
 
 
 
@@ -2753,7 +2861,7 @@ Tú eres el Fuerte y el Poderoso.
 (Bahaiprayers.net ID: 11606)
 
 
-
+«[Español](../es/#bpn11606)» 
 
 
 
@@ -2767,7 +2875,7 @@ Verdaderamente, Tú eres el Todoglorioso.
 (Bahaiprayers.net ID: 11607)
 
 
-
+«[Español](../es/#bpn11607)» 
 
 
 
@@ -2782,7 +2890,7 @@ Tú eres el Otorgador, el Munífico, el Más Amoroso.
 (Bahaiprayers.net ID: 11608)
 
 
-
+«[Español](../es/#bpn11608)» 
 
 
 
@@ -2797,7 +2905,7 @@ Tú eres el Fuerte y el Poderoso.
 (Bahaiprayers.net ID: 11609)
 
 
-
+«[Español](../es/#bpn11609)» 
 
 
 
@@ -2811,7 +2919,7 @@ En verdad, Tú eres el Otorgador, el Misericordioso, el Compasivo.
 (Bahaiprayers.net ID: 11610)
 
 
-
+«[Español](../es/#bpn11610)» 
 
 
 
@@ -2824,7 +2932,7 @@ Concédenos nuevas bendiciones. Confiérenos el frescor de la primavera. Somos r
 (Bahaiprayers.net ID: 11611)
 
 
-
+«[Español](../es/#bpn11611)» 
 
 
 
@@ -2838,7 +2946,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso.
 (Bahaiprayers.net ID: 11612)
 
 
-
+«[Español](../es/#bpn11612)» 
 
 
 
@@ -2852,7 +2960,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso.
 (Bahaiprayers.net ID: 11613)
 
 
-
+«[Español](../es/#bpn11613)» 
 
 
 
@@ -2864,7 +2972,7 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso.
 (Bahaiprayers.net ID: 11614)
 
 
-
+«[Español](../es/#bpn11614)» 
 
 
 
@@ -2880,7 +2988,7 @@ Tú eres el Perdonador, el Resplandeciente, el Amoroso.
 (Bahaiprayers.net ID: 11615)
 
 
-
+«[Español](../es/#bpn11615)» 
 
 
 
@@ -2892,7 +3000,7 @@ Tú eres el Perdonador, el Resplandeciente, el Amoroso.
 (Bahaiprayers.net ID: 11616)
 
 
-
+«[Español](../es/#bpn11616)» 
 
 
 
@@ -2906,7 +3014,7 @@ Tú eres poderoso y bondadoso, y Tú eres el Otorgador, el Magnánimo, el Señor
 (Bahaiprayers.net ID: 11618)
 
 
-
+«[Español](../es/#bpn11618)» 
 
 
 
@@ -2919,7 +3027,7 @@ Tú eres poderoso y bondadoso, y Tú eres el Otorgador, el Magnánimo, el Señor
 (Bahaiprayers.net ID: 11619)
 
 
-
+«[Español](../es/#bpn11619)» 
 
 
 
@@ -2937,7 +3045,7 @@ No hay Dios sino Tú, el Todopoderoso, Quien todo lo subyuga, el Incondicionado.
 (Bahaiprayers.net ID: 11620)
 
 
-
+«[Español](../es/#bpn11620)» 
 
 
 
@@ -2951,7 +3059,7 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11621)
 
 
-
+«[Español](../es/#bpn11621)» 
 
 
 
@@ -2965,7 +3073,15 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11622)
 
 
+«[Deutsch](../de/#AB06528MID)» 
 
+«[Italiano](../it/#AB06528MID)» 
+
+«[Español](../es/#AB06528MID)» 
+
+«[Esperanto](../eo/#AB06528MID)» 
+
+«[English](../en/#AB06528MID)» 
 
 
 
@@ -2982,7 +3098,7 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11623)
 
 
-
+«[Español](../es/#bpn11623)» 
 
 
 
@@ -2995,7 +3111,7 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11624)
 
 
-
+«[Español](../es/#bpn11624)» 
 
 
 
@@ -3019,7 +3135,7 @@ No hay otro Dios sino Tú, Quien ayuda en el peligro, Quien subsiste por Sí mis
 (Bahaiprayers.net ID: 11453)
 
 
-
+«[Español](../es/#bpn11453)» 
 
 
 
@@ -3096,7 +3212,7 @@ Atestiguo, oh mi Dios, lo que han atestiguado Tus Elegidos, y reconozco lo que h
 (Bahaiprayers.net ID: 11455)
 
 
-
+«[Español](../es/#bpn11455)» 
 
 
 
@@ -3138,7 +3254,7 @@ Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios y no hay otro 
 (Bahaiprayers.net ID: 11454)
 
 
-
+«[Español](../es/#bpn11454)» 
 
 
 
@@ -3155,7 +3271,7 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 11625)
 
 
-
+«[Español](../es/#bpn11625)» 
 
 
 
@@ -3168,7 +3284,11 @@ Soy aquel, oh mi Señor, que ha vuelto el rostro hacia Ti y ha fijado su esperan
 (Bahaiprayers.net ID: 11626)
 
 
+«[Nederlands](../nl/#BH08600FAC)» 
 
+«[Español](../es/#BH08600FAC)» 
+
+«[English](../en/#BH08600FAC)» 
 
 
 
@@ -3182,7 +3302,7 @@ Perdona, pues, oh mi Señor, a Tus siervos y a Tus siervas. Tú eres, en verdad,
 (Bahaiprayers.net ID: 11627)
 
 
-
+«[Español](../es/#bpn11627)» 
 
 
 
@@ -3194,7 +3314,7 @@ Perdona, pues, oh mi Señor, a Tus siervos y a Tus siervas. Tú eres, en verdad,
 (Bahaiprayers.net ID: 11628)
 
 
-
+«[Español](../es/#bpn11628)» 
 
 
 
@@ -3209,7 +3329,7 @@ Tú eres el Gobernante Supremo, el Poderoso Hacedor, el Exaltado, Quien todo lo 
 (Bahaiprayers.net ID: 11629)
 
 
-
+«[Español](../es/#bpn11629)» 
 
 
 
@@ -3222,7 +3342,7 @@ Glorificado eres, oh Señor. Tú perdonas en todo momento los pecados de aquello
 (Bahaiprayers.net ID: 11630)
 
 
-
+«[Español](../es/#bpn11630)» 
 
 
 
@@ -3234,7 +3354,7 @@ Te ruego, oh mi Señor, que me perdones por toda mención que no sea la mención
 (Bahaiprayers.net ID: 11631)
 
 
-
+«[Español](../es/#bpn11631)» 
 
 
 
@@ -3247,7 +3367,7 @@ Soy consciente, oh Señor, de que mis transgresiones me han cubierto el rostro d
 (Bahaiprayers.net ID: 11632)
 
 
-
+«[Español](../es/#bpn11632)» 
 
 
 
@@ -3259,7 +3379,13 @@ Soy consciente, oh Señor, de que mis transgresiones me han cubierto el rostro d
 (Bahaiprayers.net ID: 11633)
 
 
+«[Français](../fr/#ABU0030SHE)» 
 
+«[Español](../es/#ABU0030SHE)» 
+
+«[Esperanto](../eo/#ABU0030SHE)» 
+
+«[English](../en/#ABU0030SHE)» 
 
 
 
@@ -3277,7 +3403,13 @@ Tú eres, en verdad, el Todopoderoso, el Exaltadísimo, Quien siempre perdona, e
 (Bahaiprayers.net ID: 11634)
 
 
+«[Italiano](../it/#BH10578)» 
 
+«[Español](../es/#BH10578)» 
+
+«[Esperanto](../eo/#BH10578)» 
+
+«[English](../en/#BH10578)» 
 
 
 
@@ -3290,7 +3422,7 @@ Protégelo también, oh mi Dios, mediante el poder de Tu inmensurable majestad, 
 (Bahaiprayers.net ID: 11635)
 
 
-
+«[Español](../es/#bpn11635)» 
 
 
 
@@ -3306,7 +3438,7 @@ Tú eres, verdaderamente, el Todoglorioso, el Más Generoso.
 (Bahaiprayers.net ID: 11636)
 
 
-
+«[Español](../es/#bpn11636)» 
 
 
 
@@ -3318,7 +3450,7 @@ Tú eres, verdaderamente, el Todoglorioso, el Más Generoso.
 (Bahaiprayers.net ID: 11637)
 
 
-
+«[Español](../es/#bpn11637)» 
 
 
 
@@ -3332,7 +3464,9 @@ Tú eres, verdaderamente, el Todoglorioso, el Más Generoso.
 (Bahaiprayers.net ID: 11638)
 
 
+«[Español](../es/#BH05801)» 
 
+«[English](../en/#BH05801)» 
 
 
 
@@ -3346,7 +3480,7 @@ Tú, verdaderamente, eres Quien ayuda en el peligro mediante el poder de Tu sobe
 (Bahaiprayers.net ID: 11639)
 
 
-
+«[Español](../es/#bpn11639)» 
 
 
 
@@ -3359,7 +3493,7 @@ Tú, verdaderamente, eres Quien ayuda en el peligro mediante el poder de Tu sobe
 (Bahaiprayers.net ID: 11640)
 
 
-
+«[Español](../es/#bpn11640)» 
 
 
 
@@ -3372,7 +3506,7 @@ Concédenos Tu perdón, a mí y a todos los creyentes que respondieron a Tu Llam
 (Bahaiprayers.net ID: 11641)
 
 
-
+«[Español](../es/#bpn11641)» 
 
 
 
@@ -3387,7 +3521,7 @@ Di: Dios me es suficiente. Él es Quien sostiene en Su puño el reino de todas l
 (Bahaiprayers.net ID: 11642)
 
 
-
+«[Español](../es/#bpn11642)» 
 
 
 
@@ -3402,7 +3536,7 @@ No hay poder ni fortaleza salvo en Dios, el Exaltadísimo, el Más Poderoso.
 (Bahaiprayers.net ID: 11643)
 
 
-
+«[Español](../es/#bpn11643)» 
 
 
 
@@ -3414,7 +3548,11 @@ No hay poder ni fortaleza salvo en Dios, el Exaltadísimo, el Más Poderoso.
 (Bahaiprayers.net ID: 11644)
 
 
+«[Español](../es/#AB00001SHI)» 
 
+«[Esperanto](../eo/#AB00001SHI)» 
+
+«[English](../en/#AB00001SHI)» 
 
 
 
@@ -3428,7 +3566,7 @@ No hay poder ni fortaleza salvo en Dios, el Exaltadísimo, el Más Poderoso.
 (Bahaiprayers.net ID: 11645)
 
 
-
+«[Español](../es/#bpn11645)» 
 
 
 
@@ -3447,7 +3585,7 @@ Los tiranos están al acecho como lobos, y el rebaño, agraviado e inocente, no 
 (Bahaiprayers.net ID: 11646)
 
 
-
+«[Español](../es/#bpn11646)» 
 
 
 
@@ -3461,7 +3599,7 @@ Los tiranos están al acecho como lobos, y el rebaño, agraviado e inocente, no 
 (Bahaiprayers.net ID: 11647)
 
 
-
+«[Español](../es/#bpn11647)» 
 
 
 
@@ -3478,7 +3616,7 @@ Haz, por tanto, que me vuelva completamente hacia Ti, que ponga en Ti toda mi co
 (Bahaiprayers.net ID: 11648)
 
 
-
+«[Español](../es/#bpn11648)» 
 
 
 
@@ -3492,7 +3630,7 @@ Te imploro, oh mi Dios, por ellos y por los suspiros que exhalan sus corazones e
 (Bahaiprayers.net ID: 11650)
 
 
-
+«[Español](../es/#bpn11650)» 
 
 
 
@@ -3504,7 +3642,7 @@ Te imploro, oh mi Dios, por ellos y por los suspiros que exhalan sus corazones e
 (Bahaiprayers.net ID: 11651)
 
 
-
+«[Español](../es/#bpn11651)» 
 
 
 
@@ -3518,7 +3656,7 @@ Y, finalmente, Te pido, por la luz de Tu semblante, que bendigas mis asuntos, re
 (Bahaiprayers.net ID: 11652)
 
 
-
+«[Español](../es/#bpn11652)» 
 
 
 
@@ -3535,7 +3673,7 @@ Tú eres, verdaderamente, el Todopoderoso, el Perdonador, el Compasivo.
 (Bahaiprayers.net ID: 11653)
 
 
-
+«[Español](../es/#bpn11653)» 
 
 
 
@@ -3547,7 +3685,7 @@ Tú eres, verdaderamente, el Todopoderoso, el Perdonador, el Compasivo.
 (Bahaiprayers.net ID: 11658)
 
 
-
+«[Español](../es/#bpn11658)» 
 
 
 
@@ -3562,7 +3700,9 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, Quien ayuda e
 (Bahaiprayers.net ID: 11649)
 
 
+«[Español](../es/#BH02524)» 
 
+«[English](../en/#BH02524)» 
 
 
 
@@ -3574,7 +3714,7 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, Quien ayuda e
 (Bahaiprayers.net ID: 11654)
 
 
-
+«[Español](../es/#bpn11654)» 
 
 
 
@@ -3586,7 +3726,7 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, Quien ayuda e
 (Bahaiprayers.net ID: 11655)
 
 
-
+«[Español](../es/#bpn11655)» 
 
 
 
@@ -3600,7 +3740,7 @@ Inmensamente por encima de toda alabanza estás Tú, oh Señor de los cielos y d
 (Bahaiprayers.net ID: 11657)
 
 
-
+«[Español](../es/#bpn11657)» 
 
 
 
@@ -3613,7 +3753,7 @@ Di: ¡Bendito sea Dios! ¡Él es Dios! ¡Todos son Sus siervos y todos se atiene
 (Bahaiprayers.net ID: 11656)
 
 
-
+«[Español](../es/#bpn11656)» 
 
 
 
@@ -3630,7 +3770,7 @@ Di: ¡Bendito sea Dios! ¡Él es Dios! ¡Todos son Sus siervos y todos se atiene
 (Bahaiprayers.net ID: 11659)
 
 
-
+«[Español](../es/#bpn11659)» 
 
 
 
@@ -3644,7 +3784,11 @@ Tú eres fuerte. Tú eres poderoso. Tú eres el Donador y Tú eres el Siempre Mu
 (Bahaiprayers.net ID: 11660)
 
 
+«[Español](../es/#ABU0070GAT)» 
 
+«[Esperanto](../eo/#ABU0070GAT)» 
+
+«[English](../en/#ABU0070GAT)» 
 
 
 
@@ -3659,7 +3803,7 @@ Tú eres fuerte. Tú eres poderoso. Tú eres el Donador y Tú eres el Siempre Mu
 (Bahaiprayers.net ID: 11661)
 
 
-
+«[Español](../es/#bpn11661)» 
 
 
 
@@ -3675,7 +3819,7 @@ Tú eres el Poderoso, el Omnipotente, el Misericordioso, y Tú eres el Generoso,
 (Bahaiprayers.net ID: 11662)
 
 
-
+«[Español](../es/#bpn11662)» 
 
 
 
@@ -3689,7 +3833,7 @@ Tú eres el Donador, el Otorgador, el Siempre Amoroso.
 (Bahaiprayers.net ID: 11663)
 
 
-
+«[Español](../es/#bpn11663)» 
 
 
 
@@ -3701,7 +3845,7 @@ Tú eres el Donador, el Otorgador, el Siempre Amoroso.
 (Bahaiprayers.net ID: 11664)
 
 
-
+«[Español](../es/#bpn11664)» 
 
 
 
@@ -3735,7 +3879,7 @@ Verdaderamente, Él es el Misericordioso, el Compasivo. ¡Alabado sea Dios, el S
 (Bahaiprayers.net ID: 11694)
 
 
-
+«[Español](../es/#bpn11694)» 
 
 
 
@@ -3759,7 +3903,7 @@ Bendice, oh Señor, mi Dios, el divino Árbol del Loto, y sus hojas, y sus vást
 (Bahaiprayers.net ID: 11697)
 
 
-
+«[Español](../es/#bpn11697)» 
 
 
 
@@ -3782,7 +3926,7 @@ Con esta oración Tu siervo Te llama al amanecer y durante la noche. Cumple el d
 (Bahaiprayers.net ID: 11698)
 
 
-
+«[Español](../es/#bpn11698)» 
 
 
 
@@ -3848,7 +3992,7 @@ Si todos los siervos leen y meditan sobre esto, se les encenderá en las venas u
 (Bahaiprayers.net ID: 11695)
 
 
-
+«[Español](../es/#bpn11695)» 
 
 
 
@@ -3984,7 +4128,7 @@ Y, al contemplar su estado y comprender una palabra del relato contado por el Jo
 (Bahaiprayers.net ID: 11696)
 
 
-
+«[Español](../es/#bpn11696)» 
 
 
 
@@ -4003,7 +4147,7 @@ Potente eres Tú para hacer lo que desees. No hay Dios sino Tú, el Omnisciente,
 (Bahaiprayers.net ID: 11665)
 
 
-
+«[Español](../es/#bpn11665)» 
 
 
 
@@ -4016,7 +4160,9 @@ Potente eres Tú para hacer lo que Te place. Tú eres, en verdad, Quien ayuda en
 (Bahaiprayers.net ID: 11666)
 
 
+«[Español](../es/#BH11278RIV)» 
 
+«[English](../en/#BH11278RIV)» 
 
 
 
@@ -4030,7 +4176,7 @@ Verdaderamente, Tú eres el Todopoderoso, Quien siempre perdona, el Más Generos
 (Bahaiprayers.net ID: 11667)
 
 
-
+«[Español](../es/#bpn11667)» 
 
 
 
@@ -4044,7 +4190,11 @@ Verdaderamente, Tú eres nuestro Señor y el Señor de todas las cosas. A Ti nos
 (Bahaiprayers.net ID: 11668)
 
 
+«[Nederlands](../nl/#BB00543VIC)» 
 
+«[Español](../es/#BB00543VIC)» 
+
+«[English](../en/#BB00543VIC)» 
 
 
 
@@ -4057,7 +4207,7 @@ Grande es la bienaventuranza de aquellos cuya sangre has escogido para regar el 
 (Bahaiprayers.net ID: 11669)
 
 
-
+«[Español](../es/#bpn11669)» 
 
 
 
@@ -4070,7 +4220,7 @@ Desde tiempo inmemorial, Tú has sido potente para hacer Tu voluntad, y libre de
 (Bahaiprayers.net ID: 11670)
 
 
-
+«[Español](../es/#bpn11670)» 
 
 
 
@@ -4085,7 +4235,11 @@ Tú eres su Señor, el Señor de los cielos y de la tierra, el Señor de todos l
 (Bahaiprayers.net ID: 11671)
 
 
+«[Español](../es/#BB00004REN)» 
 
+«[Esperanto](../eo/#BB00004REN)» 
+
+«[English](../en/#BB00004REN)» 
 
 
 
@@ -4100,7 +4254,7 @@ La gloria de las glorias sea con aquellos que son fieles y firmes.
 (Bahaiprayers.net ID: 11672)
 
 
-
+«[Español](../es/#bpn11672)» 
 
 
 
@@ -4114,7 +4268,7 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Eterno Conferidor. Verdad
 (Bahaiprayers.net ID: 11673)
 
 
-
+«[Español](../es/#bpn11673)» 
 
 
 
@@ -4130,7 +4284,7 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Eterno Conferidor. Verdad
 (Bahaiprayers.net ID: 11674)
 
 
-
+«[Español](../es/#bpn11674)» 
 
 
 
@@ -4150,7 +4304,7 @@ Magnificado seas Tú, oh Señor de la creación entera, Aquel a Quien han de vol
 (Bahaiprayers.net ID: 11690)
 
 
-
+«[Español](../es/#bpn11690)» 
 
 
 
@@ -4164,7 +4318,7 @@ Te imploro, oh Señor de todos los nombres y Creador de los cielos, que me ayude
 (Bahaiprayers.net ID: 11691)
 
 
-
+«[Español](../es/#bpn11691)» 
 
 
 

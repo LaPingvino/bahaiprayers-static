@@ -76,7 +76,7 @@ E dina sara, O i Kemuni na Dauveivukei. E dina sara, O i Kemuni na Dauveinanumi.
 (Bahaiprayers.net ID: 6950)
 
 
-
+«[Fiji](../fj/#bpn6950)» 
 
 
 
@@ -92,7 +92,7 @@ Mo ni sa vakatubura mada e lomaqu e dua na yalo sa savasava Sara, O i Kemuni na 
 (Bahaiprayers.net ID: 6951)
 
 
-
+«[Fiji](../fj/#bpn6951)» 
 
 
 
@@ -106,7 +106,7 @@ Sa tu vei Kemuni na kaukauwa kei na qaqa Mo ni vakayacora kina na ka e taleitaka
 (Bahaiprayers.net ID: 6952)
 
 
-
+«[Fiji](../fj/#bpn6952)» 
 
 
 
@@ -120,7 +120,7 @@ O i Kemuni na Kalou! O ni sa noqu i tokani voleka cake sara ka yawa o i au ki ve
 (Bahaiprayers.net ID: 6953)
 
 
-
+«[Fiji](../fj/#bpn6953)» 
 
 
 
@@ -140,7 +140,7 @@ E dina ga, ni O i Kemuni sa kaukauwa, na iGu Cecekia, na Dauveirairaici, na Dauv
 (Bahaiprayers.net ID: 6954)
 
 
-
+«[Fiji](../fj/#bpn6954)» 
 
 
 
@@ -152,7 +152,7 @@ O i Kemuni na Kalou! Ni vakatavulici ira mada na gone oqo. O ira na gone oqo era
 (Bahaiprayers.net ID: 6955)
 
 
-
+«[Fiji](../fj/#bpn6955)» 
 
 
 
@@ -164,7 +164,7 @@ O i Kemuni na Kalou, Ni tuberi au, taqomaki au, qisi au me u cina ramase ka me u
 (Bahaiprayers.net ID: 6956)
 
 
-
+«[Fiji](../fj/#bpn6956)» 
 
 
 
@@ -176,7 +176,7 @@ O i Kemuni na Turaga! Qisi koya mada na gone oqo e na veivakararamataki, ka vaka
 (Bahaiprayers.net ID: 6957)
 
 
-
+«[Fiji](../fj/#bpn6957)» 
 
 
 
@@ -209,7 +209,7 @@ Sa i Kemuni, e dina, na Vu ni iGu Cecekia, na Vu ni Vuku, na Vu ni Vakatakila.
 (Bahaiprayers.net ID: 6988)
 
 
-
+«[Fiji](../fj/#bpn6988)» 
 
 
 
@@ -242,7 +242,7 @@ Sa i Kemuni ga na Dauveisaututaki, na Dauveinanumi, na Dauloloma Soli wale Duadu
 (Bahaiprayers.net ID: 6987)
 
 
-
+«[Fiji](../fj/#bpn6987)» 
 
 
 
@@ -258,7 +258,7 @@ O i Kemuni na Kalou! Na noqu Kalou! O i keimami na Nomuni tamata ka vakanamata e
 (Bahaiprayers.net ID: 6958)
 
 
-
+«[Fiji](../fj/#bpn6958)» 
 
 
 
@@ -276,7 +276,7 @@ Sa sega tale ni dua na Kalou Oi Kemuni ga, na Duabau, O Koya e Sega ni Vakatauta
 (Bahaiprayers.net ID: 6959)
 
 
-
+«[Fiji](../fj/#bpn6959)» 
 
 
 
@@ -288,7 +288,7 @@ Au sa yadra cake mai na loma ni Nomuni veivakarurugi, O i Kemuni na noqu Kalou, 
 (Bahaiprayers.net ID: 6960)
 
 
-
+«[Fiji](../fj/#bpn6960)» 
 
 
 
@@ -306,7 +306,7 @@ O i Kemuni, dina, na Turaga kei na Tui ni matatamata kece ga, ka kaukauwa vei ir
 (Bahaiprayers.net ID: 6961)
 
 
-
+«[Fiji](../fj/#bpn6961)» 
 
 
 
@@ -322,7 +322,7 @@ O i Kemuni na Turaga yalololoma! O i Kemuni sa dau lomasoli ka rawata na veika k
 (Bahaiprayers.net ID: 6962)
 
 
-
+«[Fiji](../fj/#bpn6962)» 
 
 
 
@@ -348,7 +348,7 @@ Sa i Kemuni na iGu Cecekia kei na kaukauwa, sa i Kemuni na Dauveivosoti ka sa i 
 (Bahaiprayers.net ID: 6963)
 
 
-
+«[Fiji](../fj/#bpn6963)» 
 
 
 
@@ -364,7 +364,7 @@ I noqu Kalou! I noqu Kalou! Ni vakaduavatataka mada na utodra na Nomuni tamata, 
 (Bahaiprayers.net ID: 6964)
 
 
-
+«[Fiji](../fj/#bpn6964)» 
 
 
 
@@ -416,7 +416,7 @@ E dina, sa i Koya ga na Dauveivosoti, na Dauloloma. Me vakacaucautaki tiko ga na
 (Bahaiprayers.net ID: 6986)
 
 
-
+«[Fiji](../fj/#bpn6986)» 
 
 
 
@@ -475,7 +475,7 @@ Au masuti Kemuni, I noqu Kalou, e na Vukumuni kei na vuku ni Nomuni vakatakilaki
 (Bahaiprayers.net ID: 6989)
 
 
-
+«[Fiji](../fj/#bpn6989)» 
 
 
 
@@ -493,7 +493,7 @@ Sa sega tale ni dua na Kalou sa i Kemuni ga, na Vu ni Kilaka, na Vu ni Vuku. Mo 
 (Bahaiprayers.net ID: 6990)
 
 
-
+«[Fiji](../fj/#bpn6990)» 
 
 
 
@@ -572,7 +572,7 @@ Au sa vakadinata, O i Kemuni na noqu Kalou, na veika era sa vakadinadinataka na 
 (Bahaiprayers.net ID: 6949)
 
 
-
+«[Fiji](../fj/#bpn6949)» 
 
 
 
@@ -619,7 +619,7 @@ Au sa kune i vakadinadina e na Nomuni duavata kei na Nomuni duabau, ka ni O ni s
 (Bahaiprayers.net ID: 6948)
 
 
-
+«[Fiji](../fj/#bpn6948)» 
 
 
 
@@ -643,7 +643,7 @@ Sa sega tale ni dua na Kalou ia o Kemuni ga, na Dauveivukei e na Gauna ni Leqa, 
 (Bahaiprayers.net ID: 6947)
 
 
-
+«[Fiji](../fj/#bpn6947)» 
 
 
 
@@ -663,7 +663,7 @@ Mo ni sa vakalagilagi, ka vakalagilagi vakalevu sara O i Kemuni! O ni sa rokovi 
 (Bahaiprayers.net ID: 6965)
 
 
-
+«[Fiji](../fj/#bpn6965)» 
 
 
 
@@ -695,7 +695,7 @@ Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.
 (Bahaiprayers.net ID: 6966)
 
 
-
+«[Fiji](../fj/#bpn6966)» 
 
 
 
@@ -711,7 +711,7 @@ Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.
 (Bahaiprayers.net ID: 6967)
 
 
-
+«[Fiji](../fj/#bpn6967)» 
 
 
 
@@ -733,7 +733,7 @@ Sa dina ga, na Nomuni kaukauwa, sa vakatautauvatataki kei na veika kece ga.
 (Bahaiprayers.net ID: 6970)
 
 
-
+«[Fiji](../fj/#bpn6970)» 
 
 
 
@@ -753,7 +753,7 @@ Sa sega tale ni dua na Kalou O i Kemuni ga, na Vu ni iGu Cecekia, na Dauveivakal
 (Bahaiprayers.net ID: 6971)
 
 
-
+«[Fiji](../fj/#bpn6971)» 
 
 
 
@@ -769,7 +769,7 @@ Sa vu ni bula vei au na Yacamuni, O i Kemuni na noqu Kalou, ka u sa vakabulai e 
 (Bahaiprayers.net ID: 6972)
 
 
-
+«[Fiji](../fj/#bpn6972)» 
 
 
 
@@ -789,7 +789,7 @@ O ni sa kaukauwa Mo ni vakayacora na veika sa Lomamuni. Sa i Kemuni, dina ga, na
 (Bahaiprayers.net ID: 6973)
 
 
-
+«[Fiji](../fj/#bpn6973)» 
 
 
 
@@ -805,7 +805,7 @@ Sa i Kemuni ga na Kalou ni qaqa, ni lagilagi kei na sautu. Sa sega tale ni dua n
 (Bahaiprayers.net ID: 6974)
 
 
-
+«[Fiji](../fj/#bpn6974)» 
 
 
 
@@ -825,7 +825,7 @@ O i Kemuni ga na Yalololoma, na Dauveivosoti. O i Kemuni na Kalou e Levu na Nomu
 (Bahaiprayers.net ID: 6975)
 
 
-
+«[Fiji](../fj/#bpn6975)» 
 
 
 
@@ -847,7 +847,7 @@ Sa i Kemuni, dina ga, na Kalou ni qaqa kei na kaukauwa, o Koya sa dau sotava ka 
 (Bahaiprayers.net ID: 6978)
 
 
-
+«[Fiji](../fj/#bpn6978)» 
 
 
 
@@ -863,7 +863,7 @@ O i Kemuni sa kaukauwa duadua ga ka Vu ni veika kece ga O ni sa virikotora.
 (Bahaiprayers.net ID: 6977)
 
 
-
+«[Fiji](../fj/#bpn6977)» 
 
 
 
@@ -879,7 +879,7 @@ E dina sara, ni sa i Kemuni ga na kaukauwa, na iGu Cecekia Duadua ka Uasivi Duad
 (Bahaiprayers.net ID: 6979)
 
 
-
+«[Fiji](../fj/#bpn6979)» 
 
 
 
@@ -895,7 +895,7 @@ O i Kemuni o Koya na Nona veivakatovolei e dau wai ni veivakabulai vei ira era s
 (Bahaiprayers.net ID: 6976)
 
 
-
+«[Fiji](../fj/#bpn6976)» 
 
 
 
@@ -917,7 +917,7 @@ O i Kemuni dina ga na Vu ni Sautu, na Dauloloma.
 (Bahaiprayers.net ID: 6980)
 
 
-
+«[Fiji](../fj/#bpn6980)» 
 
 
 
@@ -937,7 +937,7 @@ Mo ni solia mai vei keimami na keimami madrai e na veisiga, ka Mo ni tosoya cake
 (Bahaiprayers.net ID: 6981)
 
 
-
+«[Fiji](../fj/#bpn6981)» 
 
 
 
@@ -953,7 +953,7 @@ O cei li na Dauveivakacegui e na gauna ni leqa me tautauvata kei na Kalou? Mo ka
 (Bahaiprayers.net ID: 6982)
 
 
-
+«[Fiji](../fj/#bpn6982)» 
 
 
 
@@ -965,7 +965,7 @@ Mo kaya tiko ga: Sa uasivi duadua na Kalou e na veika kece ga, ka sa sega tale n
 (Bahaiprayers.net ID: 6983)
 
 
-
+«[Fiji](../fj/#bpn6983)» 
 
 
 
@@ -997,7 +997,7 @@ Sa i Kemuni, e na dina taucoko, sa Dauloloma, na Lagilagi, na iGu Cecekia, na ka
 (Bahaiprayers.net ID: 6984)
 
 
-
+«[Fiji](../fj/#bpn6984)» 
 
 
 
@@ -1017,7 +1017,7 @@ Mo ni sa vakalagilagi O i Kemuni, I noqu Kalou! E dina, ni oqo na Nomuni turaga 
 (Bahaiprayers.net ID: 6968)
 
 
-
+«[Fiji](../fj/#bpn6968)» 
 
 
 
@@ -1037,7 +1037,7 @@ O i Kemuni na Turaga yalo vinaka! Ni vakalougatataka na vakamau oqo me vure mai 
 (Bahaiprayers.net ID: 6969)
 
 
-
+«[Fiji](../fj/#bpn6969)» 
 
 
 
@@ -1065,7 +1065,7 @@ Sa i Kemuni, e dina, na Vu ni Kilaka, na Vu ni Vuku.
 (Bahaiprayers.net ID: 6991)
 
 
-
+«[Fiji](../fj/#bpn6991)» 
 
 
 
@@ -1085,7 +1085,7 @@ E na vuku ni Nomuni igu! Au sega ni rawa ni kerea e na gauna ni noqu moce se gau
 (Bahaiprayers.net ID: 6985)
 
 
-
+«[Fiji](../fj/#bpn6985)» 
 
 
 

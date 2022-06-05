@@ -48,7 +48,7 @@ Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nim
 (Bahaiprayers.net ID: 11208)
 
 
-
+«[Kiswahili](../sw/#bpn11208)» 
 
 
 
@@ -64,7 +64,7 @@ Nimeamka katika himaya Yako, Ee Mungu wangu, na imembidi Yule ambaye anatafuta h
 (Bahaiprayers.net ID: 11209)
 
 
-
+«[Kiswahili](../sw/#bpn11209)» 
 
 
 
@@ -78,7 +78,7 @@ Nimeamka asubuhi hii kwa rehema Yako, Ee Mungu wangu, na nimeacha maskani yangu 
 (Bahaiprayers.net ID: 11210)
 
 
-
+«[Kiswahili](../sw/#bpn11210)» 
 
 
 
@@ -100,7 +100,7 @@ Tufunulie, Ee Mungu, milele Yako iliyotukuka – kwamba Wewe umekuwako, na utaku
 (Bahaiprayers.net ID: 11223)
 
 
-
+«[Kiswahili](../sw/#bpn11223)» 
 
 
 
@@ -112,7 +112,7 @@ Ee Mungu wangu!  Ee Mungu wangu!  Unganisha mioyo ya watumishi Wako na uwafunuli
 (Bahaiprayers.net ID: 11224)
 
 
-
+«[Kiswahili](../sw/#bpn11224)» 
 
 
 
@@ -124,7 +124,7 @@ Sema:  Ee Mungu, Mungu wangu!  Vika kichwa changu kwa taji la haki na paji la us
 (Bahaiprayers.net ID: 11225)
 
 
-
+«[Kiswahili](../sw/#bpn11225)» 
 
 
 
@@ -136,7 +136,7 @@ Ee, Mungu wangu!  Nakuomba kwa Jina Lako tukufu kabisa, kunisaidia katika lile l
 (Bahaiprayers.net ID: 11226)
 
 
-
+«[Kiswahili](../sw/#bpn11226)» 
 
 
 
@@ -148,7 +148,7 @@ Mungu jalia kwamba nuru ya umoja iweze kufunika dunia yote, na kwamba mhuri, “
 (Bahaiprayers.net ID: 11227)
 
 
-
+«[Kiswahili](../sw/#bpn11227)» 
 
 
 
@@ -160,7 +160,7 @@ Kuna mwondoa shida yeyote isipokuwa Mungu?  Sema: Mungu asifiwe!  Yeye ni Mungu!
 (Bahaiprayers.net ID: 11228)
 
 
-
+«[Kiswahili](../sw/#bpn11228)» 
 
 
 
@@ -174,7 +174,7 @@ Ee Mungu! Wewe U rafiki kwangu zaidi ya mimi nilivyo mweneyewe kwangu. Najitoa m
 (Bahaiprayers.net ID: 11229)
 
 
-
+«[Kiswahili](../sw/#bpn11229)» 
 
 
 
@@ -186,7 +186,7 @@ Ee Bwana wangu, Mpendwa wangu, Haja yangu!  Nifanye rafiki katika ukiwa wangu na
 (Bahaiprayers.net ID: 11230)
 
 
-
+«[Kiswahili](../sw/#bpn11230)» 
 
 
 
@@ -198,7 +198,7 @@ Ee Bwana Mungu wangu!  Wasaidie wapendwa Wako kuwa imara katika Imani Yako, kute
 (Bahaiprayers.net ID: 11231)
 
 
-
+«[Kiswahili](../sw/#bpn11231)» 
 
 
 
@@ -214,7 +214,7 @@ Utupe hakula chetu cha kila siku na utuongezee maisha yetu, ili tusitegemee yeyo
 (Bahaiprayers.net ID: 11232)
 
 
-
+«[Kiswahili](../sw/#bpn11232)» 
 
 
 
@@ -226,7 +226,7 @@ Ee Bwana!  Sisi tu wanyonge; tuimarishe.  Ee Mungu! Tu wajinga; tufanye wajuzi. 
 (Bahaiprayers.net ID: 11233)
 
 
-
+«[Kiswahili](../sw/#bpn11233)» 
 
 
 
@@ -238,7 +238,7 @@ Ee Mungu, Mungu wangu!  Wakinge watumishi Wako waaminifu na maovu ya tamaa walin
 (Bahaiprayers.net ID: 11234)
 
 
-
+«[Kiswahili](../sw/#bpn11234)» 
 
 
 
@@ -252,7 +252,7 @@ Ewe Bwana!  Mimi ni pweke, mmoja na aliye chini.  Kwangu mimi sina wa kutegemea 
 (Bahaiprayers.net ID: 11235)
 
 
-
+«[Kiswahili](../sw/#bpn11235)» 
 
 
 
@@ -270,7 +270,7 @@ Ee Mungu, Mungu wangu! Sisi tu watumishi Wako ambao wameugeukia kwa moyo uso Wak
 (Bahaiprayers.net ID: 11215)
 
 
-
+«[Kiswahili](../sw/#bpn11215)» 
 
 
 
@@ -290,7 +290,7 @@ Hayupo Mungu ila Wewe, Mwenyezi, mtiisha kabisa, Asiyeshurutishwa.
 (Bahaiprayers.net ID: 11211)
 
 
-
+«[Kiswahili](../sw/#bpn11211)» 
 
 
 
@@ -306,7 +306,7 @@ Jina Lako ndilo kuponywa kwangu, Ee Mungu wangu, na kukukumbuka Wewe ni dawa yan
 (Bahaiprayers.net ID: 11214)
 
 
-
+«[Kiswahili](../sw/#bpn11214)» 
 
 
 
@@ -328,7 +328,7 @@ Hakika Wewe ndiye Mhifadhi, Msaidizi, Karimu, Mwenye Baraka, Mpaji daima.
 (Bahaiprayers.net ID: 11220)
 
 
-
+«[Kiswahili](../sw/#bpn11220)» 
 
 
 
@@ -350,7 +350,7 @@ Hakuna Mungu ila Wewe, Ajuaye yote, Mwenye hekima zote.  Sifa zote ziwe kwa Mung
 (Bahaiprayers.net ID: 11212)
 
 
-
+«[Kiswahili](../sw/#bpn11212)» 
 
 
 
@@ -366,7 +366,7 @@ Utukufu uwe Kwako, Ee Mungu wangu!  Hakika mtumishi Wako huyu na mjakazi Wako hu
 (Bahaiprayers.net ID: 11213)
 
 
-
+«[Kiswahili](../sw/#bpn11213)» 
 
 
 
@@ -388,7 +388,7 @@ Utukufu uwe Kwako, Ee Mungu wangu!  Hakika mtumishi Wako huyu na mjakazi Wako hu
 (Bahaiprayers.net ID: 11207)
 
 
-
+«[Kiswahili](../sw/#bpn11207)» 
 
 
 
@@ -419,7 +419,7 @@ Sisi sote, hakika, tu wenye subira katika Mungu.
 (Bahaiprayers.net ID: 11221)
 
 
-
+«[Kiswahili](../sw/#bpn11221)» 
 
 
 
@@ -435,7 +435,7 @@ Ee Bwana wangu!  Uwatakase kutokana na makosa, ondoa huzuni zao, na ubadilshe gi
 (Bahaiprayers.net ID: 11222)
 
 
-
+«[Kiswahili](../sw/#bpn11222)» 
 
 
 
@@ -451,7 +451,7 @@ Ee Mungu!  Mlee mtoto huyu mchanga katika moyo wa upendo Wako, na umpe maziwa ku
 (Bahaiprayers.net ID: 11216)
 
 
-
+«[Kiswahili](../sw/#bpn11216)» 
 
 
 
@@ -463,7 +463,7 @@ Ee Mungu! Wafundishe watoto hawa.  Watoto hawa ni miche ya kiunga Chako cha miti
 (Bahaiprayers.net ID: 11217)
 
 
-
+«[Kiswahili](../sw/#bpn11217)» 
 
 
 
@@ -476,7 +476,7 @@ Wewe ndiye Mwenye uwezo na Mwenye nguvu.
 (Bahaiprayers.net ID: 11218)
 
 
-
+«[Kiswahili](../sw/#bpn11218)» 
 
 
 
@@ -488,7 +488,7 @@ Ee Mungu, niongoze, nilinde, nifanye taa inayowaka na nyota ing’aayo.  Wewe ni
 (Bahaiprayers.net ID: 11219)
 
 
-
+«[Kiswahili](../sw/#bpn11219)» 
 
 
 

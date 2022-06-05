@@ -79,7 +79,7 @@ Ayi Mukama wange!  Ogyewo ekifuKu maaso ge, Omuyiweko omukisa gwo, omunywese omu
 (Bahaiprayers.net ID: 6252)
 
 
-
+«[Luganda](../lg/#bpn6252)» 
 
 
 
@@ -96,7 +96,7 @@ Ayi Mukama wange, nteeka mu mikono gyo, ekyo ekiri mu lubuto lwange.  Kale kiyam
 (Bahaiprayers.net ID: 6238)
 
 
-
+«[Luganda](../lg/#bpn6238)» 
 
 
 
@@ -118,7 +118,7 @@ Ggwe ddala Oli w'Amaanyi, Ow'obuyinza; Ggwe oli Musonyiyi, era azibira ebyonoono
 (Bahaiprayers.net ID: 6255)
 
 
-
+«[Luganda](../lg/#bpn6255)» 
 
 
 
@@ -132,7 +132,7 @@ Ggwe Asonyiwa bulijjo!  Ggwe Ayinza byonna.
 (Bahaiprayers.net ID: 6256)
 
 
-
+«[Luganda](../lg/#bpn6256)» 
 
 
 
@@ -148,7 +148,7 @@ Ayi Mukama!  Fuula omuvubuka ono omusanyufu, era osse emikisa Gyo ku kitonde kin
 (Bahaiprayers.net ID: 6232)
 
 
-
+«[Luganda](../lg/#bpn6232)» 
 
 
 
@@ -167,7 +167,7 @@ Ggwe olabira ddala, Ayi Mukama wange nga emikono gyaffe giyimusirizibbwa eri egg
 (Bahaiprayers.net ID: 6266)
 
 
-
+«[Luganda](../lg/#bpn6266)» 
 
 
 
@@ -179,7 +179,7 @@ Ayi Mukama!  Mu mutembe guno ogusingira ddala, gyonna , Okirizza abaana okw'egay
 (Bahaiprayers.net ID: 6267)
 
 
-
+«[Luganda](../lg/#bpn6267)» 
 
 
 
@@ -196,7 +196,7 @@ Ggwe olabira ddala Ayi Mukama wange, emitawaana egintuuseeko mu naku Zo.  Nkwega
 (Bahaiprayers.net ID: 6287)
 
 
-
+«[Luganda](../lg/#bpn6287)» 
 
 
 
@@ -208,7 +208,7 @@ Nkwegayirira kulwa'amaanyi Go, Ayi Katonda wange, tokiriza mitawaana kunnumba mu
 (Bahaiprayers.net ID: 6288)
 
 
-
+«[Luganda](../lg/#bpn6288)» 
 
 
 
@@ -220,7 +220,7 @@ Ayi Mukama, Ggwe ajawo buli nyiike era agoba okulumwa obujiji.  Ggwe ajawo okubo
 (Bahaiprayers.net ID: 6289)
 
 
-
+«[Luganda](../lg/#bpn6289)» 
 
 
 
@@ -238,7 +238,7 @@ Tewali Katonda mulala wabula Ggwe, Ow'amaanyi, Asinga bonna, Atakugirwa.
 (Bahaiprayers.net ID: 6263)
 
 
-
+«[Luganda](../lg/#bpn6263)» 
 
 
 
@@ -252,7 +252,7 @@ Kulw'amaanyi Go, sikusaba kwebaka oba kutunula naye nsaba ekyo kyokka Ggwe Ky'oy
 (Bahaiprayers.net ID: 6264)
 
 
-
+«[Luganda](../lg/#bpn6264)» 
 
 
 
@@ -272,7 +272,7 @@ Omusana n'ekitiibwa, okulamusa n'ettendo bibeere eri Empagi z'enzikiriza Ye, mu 
 (Bahaiprayers.net ID: 6248)
 
 
-
+«[Luganda](../lg/#bpn6248)» 
 
 
 
@@ -289,7 +289,7 @@ Ogulumizibwe, Ayi Omwagalwa wange asinga, muyiweeko obuwoowo obulungi, obw'emiki
 (Bahaiprayers.net ID: 6224)
 
 
-
+«[Luganda](../lg/#bpn6224)» 
 
 
 
@@ -301,7 +301,7 @@ Ayi Ggwe Mukama asingira ddala ekitiibwa!  Yamba omuzaana wo ono omulo okuba ow'
 (Bahaiprayers.net ID: 6225)
 
 
-
+«[Luganda](../lg/#bpn6225)» 
 
 
 
@@ -313,7 +313,7 @@ Ayi Ggwe Mukama atagerageranyizibwa!  Yamba omwana ono ayonka akulire ku mabeere
 (Bahaiprayers.net ID: 6226)
 
 
-
+«[Luganda](../lg/#bpn6226)» 
 
 
 
@@ -325,7 +325,7 @@ Ayi Katonda! Omwana ono omuto mulerere mu kwagala kwo era omugabirire amabeere a
 (Bahaiprayers.net ID: 6227)
 
 
-
+«[Luganda](../lg/#bpn6227)» 
 
 
 
@@ -337,7 +337,7 @@ Ayi Katonda, Onkulembere, Onkuume, Onfuule ettala n'emunyenye eby'akayakana.  Gg
 (Bahaiprayers.net ID: 6228)
 
 
-
+«[Luganda](../lg/#bpn6228)» 
 
 
 
@@ -349,7 +349,7 @@ Ayi Katonda, yigiriza abaana bano.  Abaana bano bye bisimbe byomulusuku Lwo, ebi
 (Bahaiprayers.net ID: 6229)
 
 
-
+«[Luganda](../lg/#bpn6229)» 
 
 
 
@@ -361,7 +361,7 @@ Ayi Ggwe Mukama ow'ekisa!  Abaanabano abatungi gye mirimugy'emikono Gyo, era obu
 (Bahaiprayers.net ID: 6230)
 
 
-
+«[Luganda](../lg/#bpn6230)» 
 
 
 
@@ -373,7 +373,7 @@ Ayi Mukama!  Mukama wange!  Ndi mwana ow'emyaka emitono.  Ongabirire amabeere ag
 (Bahaiprayers.net ID: 6231)
 
 
-
+«[Luganda](../lg/#bpn6231)» 
 
 
 
@@ -404,7 +404,7 @@ Mazima ffena ddala tuli baguminkiriza mu Katonda. ( x19)
 (Bahaiprayers.net ID: 6235)
 
 
-
+«[Luganda](../lg/#bpn6235)» 
 
 
 
@@ -418,7 +418,7 @@ Oli wakitiibwa, Ggwe Oli wakitiibwa ekitayogerekeka!  Ggwe eyegombebwa mu mazima
 (Bahaiprayers.net ID: 6236)
 
 
-
+«[Luganda](../lg/#bpn6236)» 
 
 
 
@@ -432,7 +432,7 @@ Ayi Mukama wange!  Banaazeeko ebyonoono byabwe, omalewo okunyolwa kwabwe, era ek
 (Bahaiprayers.net ID: 6237)
 
 
-
+«[Luganda](../lg/#bpn6237)» 
 
 
 
@@ -513,7 +513,7 @@ Mpa obujulirizi, Ayi Katonda wange, kwekyo abalonde Bo kyebajulira, era nzikiriz
 (Bahaiprayers.net ID: 6218)
 
 
-
+«[Luganda](../lg/#bpn6218)» 
 
 
 
@@ -537,7 +537,7 @@ Tewali Katonda mulala wabula Ggwe, Omuyambi mu kabi, Eyemaririra.
 (Bahaiprayers.net ID: 6216)
 
 
-
+«[Luganda](../lg/#bpn6216)» 
 
 
 
@@ -579,7 +579,7 @@ Mpa obujulizi ku bumu Bwo, n'obwa namunigina Bwo, nti Ggwe Katonda, era nti tewa
 (Bahaiprayers.net ID: 6217)
 
 
-
+«[Luganda](../lg/#bpn6217)» 
 
 
 
@@ -597,7 +597,7 @@ Ayi Mukama, nkyusiza obwenyi bwange eri obw'akabaka bw'obumu Bwo, era nnenyise m
 (Bahaiprayers.net ID: 6265)
 
 
-
+«[Luganda](../lg/#bpn6265)» 
 
 
 
@@ -615,7 +615,7 @@ Ayi Ggwe omusaasizi, Ayinza byonna!  Emyoyo gino egikungaanidde awamu, gikwegayi
 (Bahaiprayers.net ID: 6258)
 
 
-
+«[Luganda](../lg/#bpn6258)» 
 
 
 
@@ -627,7 +627,7 @@ Ayi Katonda!  Ddala ddala tukunganidde wano mu kawoowo k'okwagala Kwo.  Tukyukid
 (Bahaiprayers.net ID: 6259)
 
 
-
+«[Luganda](../lg/#bpn6259)» 
 
 
 
@@ -639,7 +639,7 @@ Ayi Ggwe omugabirizi Ow'ekisa!  Olukungaana luno lujudde abagalwa Bo abo abasiki
 (Bahaiprayers.net ID: 6260)
 
 
-
+«[Luganda](../lg/#bpn6260)» 
 
 
 
@@ -659,7 +659,7 @@ Ggwe mu mazima, Ggwe Mukama era Kabaka w'abantu bonna, era oli wa buyinza, eri e
 (Bahaiprayers.net ID: 6261)
 
 
-
+«[Luganda](../lg/#bpn6261)» 
 
 
 
@@ -671,7 +671,7 @@ Ngolokokedde mu bukuumi Bwo, Ayi Katonda wange, era nga kimugwanidde oyo anonya 
 (Bahaiprayers.net ID: 6262)
 
 
-
+«[Luganda](../lg/#bpn6262)» 
 
 
 
@@ -692,7 +692,7 @@ Ekitiibwa kibe Gyoli Ayi Katonda wange, ddala ddala omuddu wo ono n'omuzaana wo 
 (Bahaiprayers.net ID: 6257)
 
 
-
+«[Luganda](../lg/#bpn6257)» 
 
 
 
@@ -710,7 +710,7 @@ Ggwe mu mazima, Oli wamaanyi, Asingira ddala okugulumizibwa, Asonyiwa bulijjo, A
 (Bahaiprayers.net ID: 6270)
 
 
-
+«[Luganda](../lg/#bpn6270)» 
 
 
 
@@ -722,7 +722,7 @@ Ayi Ggwe Omutukuvu atugabira by'etwetaga tujudde okunyolwa otusasire. Tubungeta,
 (Bahaiprayers.net ID: 6271)
 
 
-
+«[Luganda](../lg/#bpn6271)» 
 
 
 
@@ -740,7 +740,7 @@ Ddala ddala, Ggwe Oli Mugabi, Ggwe Oli wa maanyi, Ayinza byonna, Atakugirwa.  Te
 (Bahaiprayers.net ID: 6272)
 
 
-
+«[Luganda](../lg/#bpn6272)» 
 
 
 
@@ -752,7 +752,7 @@ Ayi Katonda, Katonda wange!  Kugira abaagalwa bo, okuva ku ndowooza embi, n'okwe
 (Bahaiprayers.net ID: 6273)
 
 
-
+«[Luganda](../lg/#bpn6273)» 
 
 
 
@@ -765,7 +765,7 @@ Omuddu Wo ono gw'omulisizza muwe obubuddamo n'okukuuma Kwo, Ayi Ggwe omwoyo omut
 (Bahaiprayers.net ID: 6274)
 
 
-
+«[Luganda](../lg/#bpn6274)» 
 
 
 
@@ -781,7 +781,7 @@ Ayi Katonda wange, nkusaba kulw'erinya Lyo erisingira ddala ekitiibwa, onyambe m
 (Bahaiprayers.net ID: 6219)
 
 
-
+«[Luganda](../lg/#bpn6219)» 
 
 
 
@@ -793,7 +793,7 @@ Waliwo ayinza okujawo ebizibu okujako Katonda?  Yatula nti Katonda atenderezebwe
 (Bahaiprayers.net ID: 6220)
 
 
-
+«[Luganda](../lg/#bpn6220)» 
 
 
 
@@ -805,7 +805,7 @@ Yatula nti: Katonda amala mu buli kimu okusinga ebintu byonna, era tewali kintu 
 (Bahaiprayers.net ID: 6221)
 
 
-
+«[Luganda](../lg/#bpn6221)» 
 
 
 
@@ -817,7 +817,7 @@ Ayi Mukama, tuli banaku, tuwe omukisa gwo; tuli baavutu bunduguleko omugabo okuv
 (Bahaiprayers.net ID: 6222)
 
 
-
+«[Luganda](../lg/#bpn6222)» 
 
 
 
@@ -829,7 +829,7 @@ Ayi Mukama Katonda wange!  Yambaabagaalwa Bo okunywerera mu Ddini yo; okutambuli
 (Bahaiprayers.net ID: 6223)
 
 
-
+«[Luganda](../lg/#bpn6223)» 
 
 
 
@@ -846,7 +846,7 @@ Ayi Katonda, Ggwe Oli wa kisa gyendi okusinga Nze bwe nnyinza okwekwatirwa ekisa
 (Bahaiprayers.net ID: 6278)
 
 
-
+«[Luganda](../lg/#bpn6278)» 
 
 
 
@@ -860,7 +860,7 @@ Ayi Mukama!  Ggwe Oli wa maanyi, nyi Katonda! Ggwe Oli musonyiyi!  Ayi Mukama, G
 (Bahaiprayers.net ID: 6279)
 
 
-
+«[Luganda](../lg/#bpn6279)» 
 
 
 
@@ -873,7 +873,7 @@ Ggwe mu mazima ddala Oli wamaanyi, Nnyini kitiibwa kyonna, Ayinza byonna.
 (Bahaiprayers.net ID: 6280)
 
 
-
+«[Luganda](../lg/#bpn6280)» 
 
 
 
@@ -885,7 +885,7 @@ Ayi Mukama wange, Omwagalwa wange, Okwegomba kwange!  Beera mukwano gwange mu ki
 (Bahaiprayers.net ID: 6281)
 
 
-
+«[Luganda](../lg/#bpn6281)» 
 
 
 
@@ -901,7 +901,7 @@ Tusaba Katonda, kulw'ekisa Kye, ayambe abo ababuziddwabuziddwa, basobole okuba a
 (Bahaiprayers.net ID: 6241)
 
 
-
+«[Luganda](../lg/#bpn6241)» 
 
 
 
@@ -919,7 +919,7 @@ Ggwe oli Musonyiyi, Ow'ekisa.
 (Bahaiprayers.net ID: 6239)
 
 
-
+«[Luganda](../lg/#bpn6239)» 
 
 
 
@@ -931,7 +931,7 @@ Ayi Mukama wange era essuubilwange!  Yamba abagalwa bo okubaabanywevu mu Ndagaan
 (Bahaiprayers.net ID: 6240)
 
 
-
+«[Luganda](../lg/#bpn6240)» 
 
 
 
@@ -947,7 +947,7 @@ Erinya Lyo litenderezebwe, Ayi Mukama Katonda wange!  Ggwe Ondabira ddala nga am
 (Bahaiprayers.net ID: 6282)
 
 
-
+«[Luganda](../lg/#bpn6282)» 
 
 
 
@@ -959,7 +959,7 @@ Ayi Katonda, Ayi Katonda!  Eno yennyonyi emenyefu y'ekiwawatiro, era n'okubuuka 
 (Bahaiprayers.net ID: 6283)
 
 
-
+«[Luganda](../lg/#bpn6283)» 
 
 
 
@@ -972,7 +972,7 @@ Ggwe ddala ddala Oli Mugabi, Omusonyiyi.
 (Bahaiprayers.net ID: 6284)
 
 
-
+«[Luganda](../lg/#bpn6284)» 
 
 
 
@@ -985,7 +985,7 @@ Ggwe Oli wa Buyinza, Owa Maanyi, Ayinza byonna, Oli wa Magezi, Awulira era Alaba
 (Bahaiprayers.net ID: 6285)
 
 
-
+«[Luganda](../lg/#bpn6285)» 
 
 
 
@@ -998,7 +998,7 @@ Ddala ddala, Ggwe Oli wa Maanyi, Ow'obuyinza, Nantamegwa, Afuga byonna, Omugabi 
 (Bahaiprayers.net ID: 6286)
 
 
-
+«[Luganda](../lg/#bpn6286)» 
 
 
 
@@ -1019,7 +1019,7 @@ Ddala ddala, Ggwe oti wa maanyi, Omugabi.  Tewali Katonda mulala wabula Ggwe, Ay
 (Bahaiprayers.net ID: 6242)
 
 
-
+«[Luganda](../lg/#bpn6242)» 
 
 
 
@@ -1032,7 +1032,7 @@ Ddala ddala, Ggwe Muyambi mukabi, Eyemalirira.
 (Bahaiprayers.net ID: 6243)
 
 
-
+«[Luganda](../lg/#bpn6243)» 
 
 
 
@@ -1044,7 +1044,7 @@ Ayi Katonda wange, Ayi Mukamawange!  Nkusaba onsonyiwe olw'okunoonya essanyu edd
 (Bahaiprayers.net ID: 6244)
 
 
-
+«[Luganda](../lg/#bpn6244)» 
 
 
 
@@ -1056,7 +1056,7 @@ Ayi Ggwe Mukama Asonyiwa ebibi! Ggwe ekiddukiro ky'abaddu Bo bonna. Ggwe omanyi 
 (Bahaiprayers.net ID: 6245)
 
 
-
+«[Luganda](../lg/#bpn6245)» 
 
 
 
@@ -1073,7 +1073,7 @@ Tewali Katonda mulala wabula Ggwe wekka, Omu, Atagerageranyizibwa, Amanyi byonna
 (Bahaiprayers.net ID: 6253)
 
 
-
+«[Luganda](../lg/#bpn6253)» 
 
 
 
@@ -1085,7 +1085,7 @@ Ayi Katonda, Katonda wange!  Nvudde mumaka gange, nga n'ekwatidde ddala ku wwuzi
 (Bahaiprayers.net ID: 6254)
 
 
-
+«[Luganda](../lg/#bpn6254)» 
 
 
 
@@ -1102,7 +1102,7 @@ Zibula Ayi Mukama amaaso g'abaddu bo basobole okukulaba; naaza emitima gy'abwe b
 (Bahaiprayers.net ID: 6268)
 
 
-
+«[Luganda](../lg/#bpn6268)» 
 
 
 
@@ -1116,7 +1116,7 @@ Ggwe Oli Musaasizi, Ow'ekisa, Ggwe Katonda Asingira ddala obugabi.
 (Bahaiprayers.net ID: 6269)
 
 
-
+«[Luganda](../lg/#bpn6269)» 
 
 
 
@@ -1132,7 +1132,7 @@ Abagalwa ba Katonda bateekwa okuwaayo mu nsawo y'enzikiriza ne bwe kaba katono k
 (Bahaiprayers.net ID: 6246)
 
 
-
+«[Luganda](../lg/#bpn6246)» 
 
 
 
@@ -1146,7 +1146,7 @@ Ddala ddala, Ggwe oli Muwanirizi, Oli Muyambi, Oli Mugabi, Oli wa mukisa, Agaba 
 (Bahaiprayers.net ID: 6247)
 
 
-
+«[Luganda](../lg/#bpn6247)» 
 
 
 
@@ -1162,7 +1162,7 @@ Erinya Lyo kwe kuwona kwange, Ayi Mukama wange, era okukujukira, lye ddagala lya
 (Bahaiprayers.net ID: 6250)
 
 
-
+«[Luganda](../lg/#bpn6250)» 
 
 
 
@@ -1175,7 +1175,7 @@ N'olwekyo nkwegayirira kulw'erinya Lyo, eryo mwewalagira obwaKatonda Bwo, era mw
 (Bahaiprayers.net ID: 6251)
 
 
-
+«[Luganda](../lg/#bpn6251)» 
 
 
 
@@ -1187,7 +1187,7 @@ Essaala ezabikulwa okusaba okuwonyezebwa zikozesebwa okusaba okuwonya okw'omubir
 (Bahaiprayers.net ID: 6249)
 
 
-
+«[Luganda](../lg/#bpn6249)» 
 
 
 
@@ -1207,7 +1207,7 @@ Obuyinza Bwo bw'ankalakalira.
 (Bahaiprayers.net ID: 6233)
 
 
-
+«[Luganda](../lg/#bpn6233)» 
 
 
 
@@ -1219,7 +1219,7 @@ Ayi Katonda wange era Mukama wange!  Negyekubange, era nga mpita mu Ggwe, noonya
 (Bahaiprayers.net ID: 6234)
 
 
-
+«[Luganda](../lg/#bpn6234)» 
 
 
 
@@ -1237,7 +1237,7 @@ Ggwe oli wakisa, Omugabi, Omutonyi, Asingira ddala amaanyi, Alaga ekisa, Omusaas
 (Bahaiprayers.net ID: 6275)
 
 
-
+«[Luganda](../lg/#bpn6275)» 
 
 
 
@@ -1251,7 +1251,7 @@ Ayi Ggwe omugabirizi, tuwereeza obuyambi Bwo.  Olwo buli omu kuffe abakungaanidd
 (Bahaiprayers.net ID: 6276)
 
 
-
+«[Luganda](../lg/#bpn6276)» 
 
 
 
@@ -1267,7 +1267,7 @@ Ddala ddala, Ggwe Oli Mugabi, atukwatirwa ekisa, Ggwe alina ebirungi byonna, era
 (Bahaiprayers.net ID: 6277)
 
 
-
+«[Luganda](../lg/#bpn6277)» 
 
 
 

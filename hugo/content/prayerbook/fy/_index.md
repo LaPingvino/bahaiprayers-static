@@ -53,7 +53,15 @@ Jo binne de Machtige en de Krêftige.
 (Bahaiprayers.net ID: 6018)
 
 
+«[Nederlands](../nl/#AB04427LMP)» 
 
+«[Esperanto](../eo/#AB04427LMP)» 
+
+«[Papiamentu](../pap/#AB04427LMP)» 
+
+«[English](../en/#AB04427LMP)» 
+
+«[Frysk](../fy/#AB04427LMP)» 
 
 
 
@@ -66,7 +74,7 @@ O Jo, bûtenwenstige God! Meitsje my de fertrouling fan it Keninkryk fan de Unsj
 (Bahaiprayers.net ID: 6019)
 
 
-
+«[Frysk](../fy/#bpn6019)» 
 
 
 
@@ -82,7 +90,17 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 (Bahaiprayers.net ID: 6020)
 
 
+«[Français](../fr/#BB00623)» 
 
+«[Esperanto](../eo/#BB00623)» 
+
+«[Português (BR)](../pt/#BB00623)» 
+
+«[Papiamentu](../pap/#BB00623)» 
+
+«[English](../en/#BB00623)» 
+
+«[Frysk](../fy/#BB00623)» 
 
 
 
@@ -95,7 +113,17 @@ Wierliken, Hy is yn Himsels de Wittende, de Helper, de Almachtige.
 (Bahaiprayers.net ID: 6021)
 
 
+«[Français](../fr/#BB00015SUF)» 
 
+«[Nederlands](../nl/#BB00015SUF)» 
+
+«[Esperanto](../eo/#BB00015SUF)» 
+
+«[Papiamentu](../pap/#BB00015SUF)» 
+
+«[English](../en/#BB00015SUF)» 
+
+«[Frysk](../fy/#BB00015SUF)» 
 
 
 
@@ -126,7 +154,11 @@ Wierliken, wy allegearre binne geduldich yn God. (19 x)
 (Bahaiprayers.net ID: 6023)
 
 
+«[Nederlands](../nl/#BH09085)» 
 
+«[English](../en/#BH09085)» 
+
+«[Frysk](../fy/#BH09085)» 
 
 
 
@@ -140,7 +172,15 @@ O myn Hear! Suverje harren fan oertrêdings, ferdriuw harren fertriet en feroarj
 (Bahaiprayers.net ID: 6022)
 
 
+«[Nederlands](../nl/#AB11094)» 
 
+«[Español](../es/#AB11094)» 
+
+«[Esperanto](../eo/#AB11094)» 
+
+«[English](../en/#AB11094)» 
+
+«[Frysk](../fy/#AB11094)» 
 
 
 
@@ -156,7 +196,13 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 (Bahaiprayers.net ID: 6024)
 
 
+«[Nederlands](../nl/#BH04421HEA)» 
 
+«[Esperanto](../eo/#BH04421HEA)» 
+
+«[English](../en/#BH04421HEA)» 
+
+«[Frysk](../fy/#BH04421HEA)» 
 
 
 
@@ -168,7 +214,7 @@ O Jo , barmhertich God! Skink my in hert dat allyk in spegel strielet mei it ljo
 (Bahaiprayers.net ID: 6025)
 
 
-
+«[Frysk](../fy/#bpn6025)» 
 
 
 
@@ -181,7 +227,7 @@ OGod, help my rjochtfeardich te wêzen, ferhef my boppe de oseaan fan byleauwe e
 (Bahaiprayers.net ID: 6026)
 
 
-
+«[Frysk](../fy/#bpn6026)» 
 
 
 
@@ -200,7 +246,9 @@ O Jo, ús Fersoarger! Stjoer Jo bystân del, dat elk dy't hjir sammele is as in 
 (Bahaiprayers.net ID: 6027)
 
 
+«[English](../en/#AB00774SAB)» 
 
+«[Frysk](../fy/#AB00774SAB)» 
 
 
 
@@ -217,7 +265,17 @@ Jo, wierliken, binne de Alfoldedige, de Alwittende, de Alwize.
 (Bahaiprayers.net ID: 6028)
 
 
+«[Nederlands](../nl/#BH01313NAM)» 
 
+«[Español](../es/#BH01313NAM)» 
+
+«[Esperanto](../eo/#BH01313NAM)» 
+
+«[Português (BR)](../pt/#BH01313NAM)» 
+
+«[English](../en/#BH01313NAM)» 
+
+«[Frysk](../fy/#BH01313NAM)» 
 
 
 
@@ -234,7 +292,7 @@ Jo binne de Alwittende, de alles Kennende.
 (Bahaiprayers.net ID: 6029)
 
 
-
+«[Frysk](../fy/#bpn6029)» 
 
 
 
@@ -247,7 +305,13 @@ Jo, wierliken, binne de Kening fan alle minsken. Der is gjin God as Jo, de Jimme
 (Bahaiprayers.net ID: 6030)
 
 
+«[Nederlands](../nl/#BH10973)» 
 
+«[Esperanto](../eo/#BH10973)» 
+
+«[English](../en/#BH10973)» 
+
+«[Frysk](../fy/#BH10973)» 
 
 
 
@@ -265,7 +329,11 @@ Wierliken, Jo binne de Almogende, de Alomtsjintwurdige, de Almachtige.
 (Bahaiprayers.net ID: 6031)
 
 
+«[Nederlands](../nl/#AB07158)» 
 
+«[English](../en/#AB07158)» 
+
+«[Frysk](../fy/#AB07158)» 
 
 
 
@@ -283,7 +351,13 @@ Wierliken, Jo binne harren Helper en harren Hear.
 (Bahaiprayers.net ID: 6032)
 
 
+«[Esperanto](../eo/#BH10505)» 
 
+«[Papiamentu](../pap/#BH10505)» 
+
+«[English](../en/#BH10505)» 
+
+«[Frysk](../fy/#BH10505)» 
 
 
 
@@ -300,7 +374,11 @@ Jo binne de Machtige en de Krêftige! Jo binne de Ferjouwende en Jo binne Dyjing
 (Bahaiprayers.net ID: 6033)
 
 
+«[Esperanto](../eo/#ABU0137ALL)» 
 
+«[English](../en/#ABU0137ALL)» 
+
+«[Frysk](../fy/#ABU0137ALL)» 
 
 
 
@@ -319,7 +397,13 @@ Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
 (Bahaiprayers.net ID: 6017)
 
 
+«[Esperanto](../eo/#BH11209)» 
 
+«[Papiamentu](../pap/#BH11209)» 
+
+«[English](../en/#BH11209)» 
+
+«[Frysk](../fy/#BH11209)» 
 
 
 
@@ -337,7 +421,13 @@ Der is gjin God as Jo, de Almachtige, de Albehearsker, de Unbetinge.
 (Bahaiprayers.net ID: 6034)
 
 
+«[Esperanto](../eo/#BH00009SER)» 
 
+«[Português (BR)](../pt/#BH00009SER)» 
+
+«[English](../en/#BH00009SER)» 
+
+«[Frysk](../fy/#BH00009SER)» 
 
 
 
@@ -353,7 +443,11 @@ Ik bin ûnder Jo beskutting wekker wurden,o myn God, en it past him dy't dy besk
 (Bahaiprayers.net ID: 6035)
 
 
+«[Esperanto](../eo/#BH00009SHE)» 
 
+«[English](../en/#BH00009SHE)» 
+
+«[Frysk](../fy/#BH00009SHE)» 
 
 
 
@@ -372,7 +466,11 @@ Jo binne, wierliken, de Almachtige, de Almogende.
 (Bahaiprayers.net ID: 6036)
 
 
+«[Nederlands](../nl/#BH00009AWA)» 
 
+«[English](../en/#BH00009AWA)» 
+
+«[Frysk](../fy/#BH00009AWA)» 
 
 
 
@@ -400,7 +498,11 @@ Jo, yn wierheid, binne de Alwittende, de Alwize.
 (Bahaiprayers.net ID: 6037)
 
 
+«[Português (BR)](../pt/#BH03908)» 
 
+«[English](../en/#BH03908)» 
+
+«[Frysk](../fy/#BH03908)» 
 
 
 
@@ -418,7 +520,7 @@ Jo binne de Krêftige, de Genedige, de Troch-Himsels-Besteande, de Skinker, de M
 (Bahaiprayers.net ID: 6041)
 
 
-
+«[Frysk](../fy/#bpn6041)» 
 
 
 
@@ -457,7 +559,11 @@ Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâ
 (Bahaiprayers.net ID: 6040)
 
 
+«[Esperanto](../eo/#BH02022)» 
 
+«[English](../en/#BH02022)» 
+
+«[Frysk](../fy/#BH02022)» 
 
 
 
@@ -473,7 +579,7 @@ Hy is God! Oanskôgje ús, o Hear, gearkommen om dizze tafel, tankber foar Jo go
 (Bahaiprayers.net ID: 6038)
 
 
-
+«[Frysk](../fy/#bpn6038)» 
 
 
 
@@ -490,7 +596,7 @@ Machtich binne Jo te dwaan nei Jins gefallichheid. Der is gjin oare God as Jo, d
 (Bahaiprayers.net ID: 6039)
 
 
-
+«[Frysk](../fy/#bpn6039)» 
 
 
 

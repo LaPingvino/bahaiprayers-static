@@ -90,7 +90,7 @@ Ingen Gud finns utom Du, den Allsmäktige, den Allbetvingande, den Obundne.
 (Bahaiprayers.net ID: 10265)
 
 
-
+«[Svenska](../sv/#bpn10265)» 
 
 
 
@@ -104,7 +104,7 @@ Vid Din makt! Vare sig jag sover eller är vaken, ber jag icke om något annat �
 (Bahaiprayers.net ID: 10266)
 
 
-
+«[Svenska](../sv/#bpn10266)» 
 
 
 
@@ -118,7 +118,7 @@ Sannerligen, Du är Givaren, den Givmilde, den Barmhärtige, den Förlåtande.
 (Bahaiprayers.net ID: 10267)
 
 
-
+«[Svenska](../sv/#bpn10267)» 
 
 
 
@@ -134,7 +134,7 @@ Skapa i mig ett rent hjärta, o min Gud, och skänk mig åter ett lugnt samvete,
 (Bahaiprayers.net ID: 10268)
 
 
-
+«[Svenska](../sv/#bpn10268)» 
 
 
 
@@ -149,7 +149,7 @@ Du är i sanning maktens, styrkans och härlighetens Gud.
 (Bahaiprayers.net ID: 10269)
 
 
-
+«[Svenska](../sv/#bpn10269)» 
 
 
 
@@ -161,7 +161,7 @@ Säg: O Gud, min Gud! Pryd mitt huvud  med rättvisans krona och min kropp med
 (Bahaiprayers.net ID: 10270)
 
 
-
+«[Svenska](../sv/#bpn10270)» 
 
 
 
@@ -173,7 +173,7 @@ Jag bönfaller Dig, o min Gud, vid Ditt namns upphöjda härlighet, att ikläda 
 (Bahaiprayers.net ID: 10271)
 
 
-
+«[Svenska](../sv/#bpn10271)» 
 
 
 
@@ -186,7 +186,7 @@ Tänd då, o min Gud, Din kärleks eld i mitt bröst så att dess flamma må fö
 (Bahaiprayers.net ID: 10272)
 
 
-
+«[Svenska](../sv/#bpn10272)» 
 
 
 
@@ -199,7 +199,7 @@ Mäktig är Du att göra vad Dig behagar. Du är i sanning den mest Upphöjde, d
 (Bahaiprayers.net ID: 10273)
 
 
-
+«[Svenska](../sv/#bpn10273)» 
 
 
 
@@ -214,7 +214,7 @@ Herre! Vänd mig icke bort från Din rikedoms ocean och Din barmhärtighets himm
 (Bahaiprayers.net ID: 10274)
 
 
-
+«[Svenska](../sv/#bpn10274)» 
 
 
 
@@ -227,7 +227,7 @@ O Gud! Du är en bättre vän till mig än vad jag är till mig själv. Jag öve
 (Bahaiprayers.net ID: 10275)
 
 
-
+«[Svenska](../sv/#bpn10275)» 
 
 
 
@@ -242,7 +242,7 @@ Sannerligen, Du är barmhärtig och sannerligen, Du är den mest Frikostige, var
 (Bahaiprayers.net ID: 10276)
 
 
-
+«[Svenska](../sv/#bpn10276)» 
 
 
 
@@ -256,7 +256,7 @@ Du är sannerligen den Mäktige, den Upphöjde, den Kraftfulle, Den som allena �
 (Bahaiprayers.net ID: 10277)
 
 
-
+«[Svenska](../sv/#bpn10277)» 
 
 
 
@@ -273,7 +273,7 @@ O Gud, min Gud! Vi är Dina tjänare som hängivet vänt oss mot Ditt heliga anl
 (Bahaiprayers.net ID: 10370)
 
 
-
+«[Svenska](../sv/#bpn10370)» 
 
 
 
@@ -286,7 +286,7 @@ O Du konungarikets Herre! Fastän våra kroppar är samlade här, är likväl v�
 (Bahaiprayers.net ID: 10371)
 
 
-
+«[Svenska](../sv/#bpn10371)» 
 
 
 
@@ -302,7 +302,7 @@ Sannerligen, Du är den Givmilde, den Barmhärtige! Du är besittaren av stora g
 (Bahaiprayers.net ID: 10372)
 
 
-
+«[Svenska](../sv/#bpn10372)» 
 
 
 
@@ -320,7 +320,7 @@ Du är i sanning världarnas Herre, och Gud för alla som är i himmelen och all
 (Bahaiprayers.net ID: 10278)
 
 
-
+«[Svenska](../sv/#bpn10278)» 
 
 
 
@@ -336,7 +336,7 @@ Mäktig är Du att göra vad Dig behagar. Du är sannerligen den Allsmäktige, d
 (Bahaiprayers.net ID: 10279)
 
 
-
+«[Svenska](../sv/#bpn10279)» 
 
 
 
@@ -351,7 +351,7 @@ Din makt kan i sanning mäta sig med allt.
 (Bahaiprayers.net ID: 10280)
 
 
-
+«[Svenska](../sv/#bpn10280)» 
 
 
 
@@ -366,7 +366,7 @@ Du är i sanning den Allsmäktige, den Allhärlige, den Allstarke.
 (Bahaiprayers.net ID: 10281)
 
 
-
+«[Svenska](../sv/#bpn10281)» 
 
 
 
@@ -380,7 +380,7 @@ Du är i sanning den Starke, den Allgivande, den Fullkomlige, den Allsmäktige.
 (Bahaiprayers.net ID: 10282)
 
 
-
+«[Svenska](../sv/#bpn10282)» 
 
 
 
@@ -397,7 +397,7 @@ Lovad vare Du, o min mest älskade! Låt de ljuva dofterna från Dina överjordi
 (Bahaiprayers.net ID: 10283)
 
 
-
+«[Svenska](../sv/#bpn10283)» 
 
 
 
@@ -409,7 +409,7 @@ O Gud! Uppfostra dessa barn. Dessa barn är plantor i Din örtagård, blommor p�
 (Bahaiprayers.net ID: 10284)
 
 
-
+«[Svenska](../sv/#bpn10284)» 
 
 
 
@@ -421,7 +421,7 @@ O Du oförliknelige Gud! Låt detta spädbarn näras vid Din godhets bröst, vak
 (Bahaiprayers.net ID: 10286)
 
 
-
+«[Svenska](../sv/#bpn10286)» 
 
 
 
@@ -433,7 +433,7 @@ O Gud! Låt detta späda barn födas upp i Din kärleks famn och giv det mjölk 
 (Bahaiprayers.net ID: 10287)
 
 
-
+«[Svenska](../sv/#bpn10287)» 
 
 
 
@@ -446,7 +446,7 @@ Du är den Ynnestrike, den Alltälskande.
 (Bahaiprayers.net ID: 10288)
 
 
-
+«[Svenska](../sv/#bpn10288)» 
 
 
 
@@ -459,7 +459,7 @@ Du är den Mäktige, den Alltälskande.
 (Bahaiprayers.net ID: 10289)
 
 
-
+«[Svenska](../sv/#bpn10289)» 
 
 
 
@@ -472,7 +472,7 @@ Sannerligen, Du är den Starke, den Mäktige, den Seende, den Hörande!
 (Bahaiprayers.net ID: 10290)
 
 
-
+«[Svenska](../sv/#bpn10290)» 
 
 
 
@@ -485,7 +485,7 @@ O Du oförliknelige Gud! Gör mig förtrogen med den Osynliges konungarike! Sann
 (Bahaiprayers.net ID: 10291)
 
 
-
+«[Svenska](../sv/#bpn10291)» 
 
 
 
@@ -497,7 +497,7 @@ O min Gud, o min Gud! Du ser dessa barn. Dessa barn är grenarna på livets trä
 (Bahaiprayers.net ID: 10292)
 
 
-
+«[Svenska](../sv/#bpn10292)» 
 
 
 
@@ -509,7 +509,7 @@ O Herre! Upplys denna unga människa och förläna denna ringa varelse Din ynnes
 (Bahaiprayers.net ID: 10293)
 
 
-
+«[Svenska](../sv/#bpn10293)» 
 
 
 
@@ -523,7 +523,7 @@ O Du gode Herre! Bevilja att denna unga människa uppnår det som är de heliga 
 (Bahaiprayers.net ID: 10294)
 
 
-
+«[Svenska](../sv/#bpn10294)» 
 
 
 
@@ -536,7 +536,7 @@ Du är den Mäktige och den Starke.
 (Bahaiprayers.net ID: 10285)
 
 
-
+«[Svenska](../sv/#bpn10285)» 
 
 
 
@@ -565,7 +565,7 @@ Vi är alla i sanning tålmodiga inför Gud.
 (Bahaiprayers.net ID: 10374)
 
 
-
+«[Svenska](../sv/#bpn10374)» 
 
 
 
@@ -581,7 +581,7 @@ O Gud, min Gud! Jag har lämnat mitt hem och håller fast vid Din kärleks band,
 (Bahaiprayers.net ID: 10295)
 
 
-
+«[Svenska](../sv/#bpn10295)» 
 
 
 
@@ -595,7 +595,7 @@ Du är i sanning den Allsmäktige,  den mest Upphöjde, den evigt Förlåtande
 (Bahaiprayers.net ID: 10296)
 
 
-
+«[Svenska](../sv/#bpn10296)» 
 
 
 
@@ -608,7 +608,7 @@ De har väntat, o min Gud, vid Din nåds dörr. Upplåt den inför deras ansikte
 (Bahaiprayers.net ID: 10297)
 
 
-
+«[Svenska](../sv/#bpn10297)» 
 
 
 
@@ -620,7 +620,7 @@ O Gud, min Gud! Värna Dina betrodda tjänare mot själviskhetens och begärens 
 (Bahaiprayers.net ID: 10298)
 
 
-
+«[Svenska](../sv/#bpn10298)» 
 
 
 
@@ -633,7 +633,7 @@ Beskydda under Ditt hägn, o Du renhetens ande, Du som är den allgivande Förs�
 (Bahaiprayers.net ID: 10299)
 
 
-
+«[Svenska](../sv/#bpn10299)» 
 
 
 
@@ -657,7 +657,7 @@ Välsigna, o Herre min Gud, det gudomliga Lotusträdet och dess blad, dess grena
 (Bahaiprayers.net ID: 10362)
 
 
-
+«[Svenska](../sv/#bpn10362)» 
 
 
 
@@ -676,7 +676,7 @@ Du är Förlänaren, Förbarmaren, den mest Givmilde, den Nåderike, den Barmhä
 (Bahaiprayers.net ID: 10363)
 
 
-
+«[Svenska](../sv/#bpn10363)» 
 
 
 
@@ -693,7 +693,7 @@ Du är i sanning alla människors Konung. Det finns ingen Gud utom Du, den evigt
 (Bahaiprayers.net ID: 10300)
 
 
-
+«[Svenska](../sv/#bpn10300)» 
 
 
 
@@ -708,7 +708,7 @@ Det finns ingen Gud jämte Dig, den Allhärlige, den store Givaren, den Förlåt
 (Bahaiprayers.net ID: 10301)
 
 
-
+«[Svenska](../sv/#bpn10301)» 
 
 
 
@@ -723,7 +723,7 @@ Mäktig är Du att göra vad Dig behagar. Du är i sanning den Allvetande, den A
 (Bahaiprayers.net ID: 10302)
 
 
-
+«[Svenska](../sv/#bpn10302)» 
 
 
 
@@ -738,7 +738,7 @@ Bevärdiga då Din tjänare, o min Gud, godtagandet av det som han har framvisat
 (Bahaiprayers.net ID: 10303)
 
 
-
+«[Svenska](../sv/#bpn10303)» 
 
 
 
@@ -753,7 +753,7 @@ Det finns ingen Gud utom Du, maktens Gud, härlighetens Gud, kunskapens och vish
 (Bahaiprayers.net ID: 10304)
 
 
-
+«[Svenska](../sv/#bpn10304)» 
 
 
 
@@ -766,7 +766,7 @@ O gudomliga Försyn! All tillvaro har frambragts av Din givmildhet; beröva den 
 (Bahaiprayers.net ID: 10305)
 
 
-
+«[Svenska](../sv/#bpn10305)» 
 
 
 
@@ -780,7 +780,7 @@ Giv oss vårt dagliga bröd och bestå oss mer än livets nödtorft, så att vi 
 (Bahaiprayers.net ID: 10306)
 
 
-
+«[Svenska](../sv/#bpn10306)» 
 
 
 
@@ -842,7 +842,7 @@ Du är sannerligen den Mäktige, den Allförsörjande, den Helande, Beskyddaren,
 (Bahaiprayers.net ID: 10376)
 
 
-
+«[Svenska](../sv/#bpn10376)» 
 
 
 
@@ -907,7 +907,7 @@ Skulle alla tjänare läsa och begrunda detta, så skall i deras ådror tändas 
 (Bahaiprayers.net ID: 10377)
 
 
-
+«[Svenska](../sv/#bpn10377)» 
 
 
 
@@ -923,7 +923,7 @@ O min Gud! O min Gud! Förena Dina tjänares hjärtan och uppenbara för dem Dit
 (Bahaiprayers.net ID: 10311)
 
 
-
+«[Svenska](../sv/#bpn10311)» 
 
 
 
@@ -942,7 +942,7 @@ Sannerligen, Du är den Nåderike! Sannerligen, Du är de rikliga gåvornas Herr
 (Bahaiprayers.net ID: 10312)
 
 
-
+«[Svenska](../sv/#bpn10312)» 
 
 
 
@@ -955,7 +955,7 @@ O Herre! I denna största gudomliga lära godtar Du barns förbön för sina fö
 (Bahaiprayers.net ID: 10313)
 
 
-
+«[Svenska](../sv/#bpn10313)» 
 
 
 
@@ -967,7 +967,7 @@ O Du gode Herre! O Du som är givmild och barmhärtig! Vi är tjänare vid Din t
 (Bahaiprayers.net ID: 10314)
 
 
-
+«[Svenska](../sv/#bpn10314)» 
 
 
 
@@ -982,7 +982,7 @@ O Gud, uppenbara för oss Din upphöjda evighet - att Du alltid har varit och al
 (Bahaiprayers.net ID: 10315)
 
 
-
+«[Svenska](../sv/#bpn10315)» 
 
 
 
@@ -1015,7 +1015,7 @@ Jag bönfaller Dig, o min Herre, vid Dig och vid Dina tecken och Dina tydliga be
 (Bahaiprayers.net ID: 10365)
 
 
-
+«[Svenska](../sv/#bpn10365)» 
 
 
 
@@ -1034,7 +1034,7 @@ Ingen Gud finns utom Du, den Allsmäktige, den Allvise.
 (Bahaiprayers.net ID: 10316)
 
 
-
+«[Svenska](../sv/#bpn10316)» 
 
 
 
@@ -1049,7 +1049,7 @@ Förordna för mig, vid Din nåd, o Herre, allt det som skall gagna mig i denna 
 (Bahaiprayers.net ID: 10317)
 
 
-
+«[Svenska](../sv/#bpn10317)» 
 
 
 
@@ -1067,7 +1067,7 @@ Jag ber Dig, o Herre över all tillvaro och Konung över det synliga och det osy
 (Bahaiprayers.net ID: 10318)
 
 
-
+«[Svenska](../sv/#bpn10318)» 
 
 
 
@@ -1080,7 +1080,7 @@ Du är den Starke, den Nådefulle, den Självbestående, den Givmilde, den Medli
 (Bahaiprayers.net ID: 10319)
 
 
-
+«[Svenska](../sv/#bpn10319)» 
 
 
 
@@ -1093,7 +1093,7 @@ Sannerligen, Du är den Oövervinnerlige, den Allsmäktige, den Allstarke.
 (Bahaiprayers.net ID: 10320)
 
 
-
+«[Svenska](../sv/#bpn10320)» 
 
 
 
@@ -1107,7 +1107,7 @@ Du är den Förlåtande, den Nåderike.
 (Bahaiprayers.net ID: 10321)
 
 
-
+«[Svenska](../sv/#bpn10321)» 
 
 
 
@@ -1121,7 +1121,7 @@ Du är den Medlidsamme, den Barmhärtige. Du är Gud, den Store, den Välgörand
 (Bahaiprayers.net ID: 10322)
 
 
-
+«[Svenska](../sv/#bpn10322)» 
 
 
 
@@ -1141,7 +1141,7 @@ Sannerligen, Du är den Stödjande, Hjälparen, den Givmilde, den Frikostige, de
 (Bahaiprayers.net ID: 10373)
 
 
-
+«[Svenska](../sv/#bpn10373)» 
 
 
 
@@ -1159,7 +1159,7 @@ Lovprisad, oändligt lovprisad vare Du! Du är dyrkad i Din sanning och sannerli
 (Bahaiprayers.net ID: 10307)
 
 
-
+«[Svenska](../sv/#bpn10307)» 
 
 
 
@@ -1181,7 +1181,7 @@ Det finns ingen Gud utom Du, den Ende,  den Allenarådande, den Starke, den Al
 (Bahaiprayers.net ID: 10308)
 
 
-
+«[Svenska](../sv/#bpn10308)» 
 
 
 
@@ -1195,7 +1195,7 @@ O min Herre! Rena dem från synd, skingra deras sorg och omvandla deras mörker 
 (Bahaiprayers.net ID: 10309)
 
 
-
+«[Svenska](../sv/#bpn10309)» 
 
 
 
@@ -1208,7 +1208,7 @@ O min Gud, o Du som förlåter synder och undanröjer lidande! O Du som är för
 (Bahaiprayers.net ID: 10310)
 
 
-
+«[Svenska](../sv/#bpn10310)» 
 
 
 
@@ -1227,7 +1227,7 @@ Förlåt då, o min Herre, Dina tjänare och  Dina tjänarinnor. Du är sanner
 (Bahaiprayers.net ID: 10323)
 
 
-
+«[Svenska](../sv/#bpn10323)» 
 
 
 
@@ -1240,7 +1240,7 @@ Skänk Din förlåtelse till mig och de troende som svarat på Din kallelse. Var
 (Bahaiprayers.net ID: 10324)
 
 
-
+«[Svenska](../sv/#bpn10324)» 
 
 
 
@@ -1253,7 +1253,7 @@ O Herre! Se icke till våra brister. Behandla oss efter Din nåd och givmildhet.
 (Bahaiprayers.net ID: 10325)
 
 
-
+«[Svenska](../sv/#bpn10325)» 
 
 
 
@@ -1271,7 +1271,7 @@ Då Du, o min Herre, har lett dem till Din nåds levande vatten, bevilja i Din f
 (Bahaiprayers.net ID: 10326)
 
 
-
+«[Svenska](../sv/#bpn10326)» 
 
 
 
@@ -1290,7 +1290,7 @@ Mäktig är Du att göra vad Dig behagar. Det finns ingen Gud utom Du, den evigt
 (Bahaiprayers.net ID: 10327)
 
 
-
+«[Svenska](../sv/#bpn10327)» 
 
 
 
@@ -1302,7 +1302,7 @@ Ditt namn är min läkedom, o min Gud,  och hågkomsten av Dig mitt botemedel.
 (Bahaiprayers.net ID: 10328)
 
 
-
+«[Svenska](../sv/#bpn10328)» 
 
 
 
@@ -1317,7 +1317,7 @@ Ditt namn är min läkedom, o min Gud,  och hågkomsten av Dig mitt botemedel.
 (Bahaiprayers.net ID: 10329)
 
 
-
+«[Svenska](../sv/#bpn10329)» 
 
 
 
@@ -1347,7 +1347,7 @@ Det finns ingen Gud utom Du, Hjälpen i farans stund, Den i sig själv varande.
 (Bahaiprayers.net ID: 10262)
 
 
-
+«[Svenska](../sv/#bpn10262)» 
 
 
 
@@ -1396,7 +1396,7 @@ Jag vittnar, o min Gud, om det varom Dina utvalda har vittnat och erkänner det,
 (Bahaiprayers.net ID: 10264)
 
 
-
+«[Svenska](../sv/#bpn10264)» 
 
 
 
@@ -1418,7 +1418,7 @@ Sannerligen, Du är den Givmilde, den Mäktige, den Allsmäktige, den Obundne. D
 (Bahaiprayers.net ID: 10375)
 
 
-
+«[Svenska](../sv/#bpn10375)» 
 
 
 
@@ -1461,7 +1461,7 @@ Om någon i stället för den långa versen väljer att läsa dessa ord: ”Gud 
 (Bahaiprayers.net ID: 10263)
 
 
-
+«[Svenska](../sv/#bpn10263)» 
 
 
 
@@ -1477,7 +1477,7 @@ Jag har vaknat i Ditt beskydd, o min Gud, och det tillkommer den som söker dett
 (Bahaiprayers.net ID: 10330)
 
 
-
+«[Svenska](../sv/#bpn10330)» 
 
 
 
@@ -1490,7 +1490,7 @@ Det finns ingen Gud utom Du, den Ende, den Oförliknelige, den Allvetande, den A
 (Bahaiprayers.net ID: 10331)
 
 
-
+«[Svenska](../sv/#bpn10331)» 
 
 
 
@@ -1508,7 +1508,7 @@ Alla är ju fattiga och behövande och  Du är sannerligen den Allbesittande, 
 (Bahaiprayers.net ID: 10332)
 
 
-
+«[Svenska](../sv/#bpn10332)» 
 
 
 
@@ -1523,7 +1523,7 @@ Mäktig är Du att göra vad Dig behagar.  Du är i sanning Hjälpen i farans 
 (Bahaiprayers.net ID: 10333)
 
 
-
+«[Svenska](../sv/#bpn10333)» 
 
 
 
@@ -1543,7 +1543,7 @@ Du är den Mäktige och Starke, Du är den Förlåtande och Du är Den som över
 (Bahaiprayers.net ID: 10334)
 
 
-
+«[Svenska](../sv/#bpn10334)» 
 
 
 
@@ -1561,7 +1561,7 @@ Du är sannerligen Hjälpen i farans stund,  den Ouppnåelige, den Allsmäktig
 (Bahaiprayers.net ID: 10335)
 
 
-
+«[Svenska](../sv/#bpn10335)» 
 
 
 
@@ -1574,7 +1574,7 @@ Sannerligen, Du är den Givmilde. Sannerligen, Du är den Barmhärtige. Sannerli
 (Bahaiprayers.net ID: 10336)
 
 
-
+«[Svenska](../sv/#bpn10336)» 
 
 
 
@@ -1591,7 +1591,7 @@ Du är den Starke, den Allsmäktige, den Barmhärtige och Du är den Givmilde, d
 (Bahaiprayers.net ID: 10337)
 
 
-
+«[Svenska](../sv/#bpn10337)» 
 
 
 
@@ -1612,7 +1612,7 @@ Han som är Din gren och alla Dina följeslagare, o min Gud, har denna dag bruti
 (Bahaiprayers.net ID: 10366)
 
 
-
+«[Svenska](../sv/#bpn10366)» 
 
 
 
@@ -1631,7 +1631,7 @@ Och slutligen ber jag Dig vid Ditt anletes ljus att välsigna mina angelägenhet
 (Bahaiprayers.net ID: 10338)
 
 
-
+«[Svenska](../sv/#bpn10338)» 
 
 
 
@@ -1646,7 +1646,7 @@ Mäktig är Du att göra vad Dig behagar. Ingen Gud finns utom Du, Hjälpen i fa
 (Bahaiprayers.net ID: 10339)
 
 
-
+«[Svenska](../sv/#bpn10339)» 
 
 
 
@@ -1660,7 +1660,7 @@ Jag bönfaller Dig, o min Gud, vid dem och vid de suckar deras hjärtan utstöte
 (Bahaiprayers.net ID: 10340)
 
 
-
+«[Svenska](../sv/#bpn10340)» 
 
 
 
@@ -1672,7 +1672,7 @@ O Du vars prövningar är ett läkande botemedel för dem som är nära Dig,  
 (Bahaiprayers.net ID: 10341)
 
 
-
+«[Svenska](../sv/#bpn10341)» 
 
 
 
@@ -1689,7 +1689,7 @@ Du är i sanning skapelsens Herre. Det finns ingen Gud jämte Dig, den evigt Fö
 (Bahaiprayers.net ID: 10342)
 
 
-
+«[Svenska](../sv/#bpn10342)» 
 
 
 
@@ -1701,7 +1701,7 @@ Finns det någon befriare från svårigheter utom Gud! Säg: Prisad vare Gud! Ha
 (Bahaiprayers.net ID: 10343)
 
 
-
+«[Svenska](../sv/#bpn10343)» 
 
 
 
@@ -1713,7 +1713,7 @@ Säg: Gud tillfredsställer allt över allting  och ingenting i himlarna eller
 (Bahaiprayers.net ID: 10344)
 
 
-
+«[Svenska](../sv/#bpn10344)» 
 
 
 
@@ -1736,7 +1736,7 @@ Du är i sanning den Nådefulle, den Förhärligade, den Starke, den Allsmäktig
 (Bahaiprayers.net ID: 10345)
 
 
-
+«[Svenska](../sv/#bpn10345)» 
 
 
 
@@ -1749,7 +1749,7 @@ Sannerligen, Du är den Nåderike, den Givmilde.
 (Bahaiprayers.net ID: 10346)
 
 
-
+«[Svenska](../sv/#bpn10346)» 
 
 
 
@@ -1765,7 +1765,7 @@ Jag bönfaller Dig vid Din kraft, o min Gud!  Låt ingen skada drabba mig i pr
 (Bahaiprayers.net ID: 10347)
 
 
-
+«[Svenska](../sv/#bpn10347)» 
 
 
 
@@ -1781,7 +1781,7 @@ Du har oinskränkt myndighet att befalla.
 (Bahaiprayers.net ID: 10348)
 
 
-
+«[Svenska](../sv/#bpn10348)» 
 
 
 
@@ -1802,7 +1802,7 @@ Du är sannerligen den Allsmäktige, den Allvetande, den Allunderrättade.
 (Bahaiprayers.net ID: 10364)
 
 
-
+«[Svenska](../sv/#bpn10364)» 
 
 
 
@@ -1852,7 +1852,7 @@ Sannerligen, Han är den Barmhärtige, den Medlidsamme. Pris vare Gud, alla vär
 (Bahaiprayers.net ID: 10361)
 
 
-
+«[Svenska](../sv/#bpn10361)» 
 
 
 
@@ -1869,7 +1869,7 @@ Lys upp, o Herre, Dina tjänares anleten att de må skåda Dig, och rena deras h
 (Bahaiprayers.net ID: 10349)
 
 
-
+«[Svenska](../sv/#bpn10349)» 
 
 
 
@@ -1885,7 +1885,7 @@ Det finns ingen Gud utom Du, den Nåderike, den Starke, den Högste.
 (Bahaiprayers.net ID: 10350)
 
 
-
+«[Svenska](../sv/#bpn10350)» 
 
 
 
@@ -1905,7 +1905,7 @@ O min Herre! Du ser dem klamra sig fast vid Din nåds band och hålla fast vid f
 (Bahaiprayers.net ID: 10351)
 
 
-
+«[Svenska](../sv/#bpn10351)» 
 
 
 
@@ -1920,7 +1920,7 @@ Du är i sanning styrkans och maktens Gud, som är skickad att svara dem som åk
 (Bahaiprayers.net ID: 10352)
 
 
-
+«[Svenska](../sv/#bpn10352)» 
 
 
 
@@ -1933,7 +1933,7 @@ Mäktig är Du att genomföra Din vilja. Det finns ingen Gud utom Du, den Mäkti
 (Bahaiprayers.net ID: 10353)
 
 
-
+«[Svenska](../sv/#bpn10353)» 
 
 
 
@@ -1946,7 +1946,7 @@ Du är i sanning den Givmilde, den Förlåtande.
 (Bahaiprayers.net ID: 10354)
 
 
-
+«[Svenska](../sv/#bpn10354)» 
 
 
 
@@ -1961,7 +1961,7 @@ Sannerligen, Du är den Mäktige, den Starke och den Allsmäktige och Du är den
 (Bahaiprayers.net ID: 10355)
 
 
-
+«[Svenska](../sv/#bpn10355)» 
 
 
 
@@ -1977,7 +1977,7 @@ Sannerligen, Du är Den som skänker bekräftelse åt vemhelst Du vill för det 
 (Bahaiprayers.net ID: 10356)
 
 
-
+«[Svenska](../sv/#bpn10356)» 
 
 
 
@@ -1994,7 +1994,7 @@ Sannerligen, Du är den Nådefulle, den Starke, den Mäktige och den mest barmh�
 (Bahaiprayers.net ID: 10357)
 
 
-
+«[Svenska](../sv/#bpn10357)» 
 
 
 
@@ -2010,7 +2010,7 @@ Sannerligen, Du är den Starke, den Mäktige, den Vise och den Seende.
 (Bahaiprayers.net ID: 10358)
 
 
-
+«[Svenska](../sv/#bpn10358)» 
 
 
 
@@ -2024,7 +2024,7 @@ Du är den Allsmäktige och Den som gör vadhelst han önskar.
 (Bahaiprayers.net ID: 10359)
 
 
-
+«[Svenska](../sv/#bpn10359)» 
 
 
 
@@ -2038,7 +2038,7 @@ O Herre! Jag är ensam, utlämnad och ringa. För mig finns inget annat stöd ä
 (Bahaiprayers.net ID: 10360)
 
 
-
+«[Svenska](../sv/#bpn10360)» 
 
 
 
@@ -2059,7 +2059,7 @@ Och när Han önskade visa människorna sin nåd och välvilja och införa ordni
 (Bahaiprayers.net ID: 10367)
 
 
-
+«[Svenska](../sv/#bpn10367)» 
 
 
 
@@ -2073,7 +2073,7 @@ O Du gode Herre! Låt detta äktenskap frambringa koraller och pärlor. Du är s
 (Bahaiprayers.net ID: 10368)
 
 
-
+«[Svenska](../sv/#bpn10368)» 
 
 
 
@@ -2086,7 +2086,7 @@ denna Din tjänarinna har inträtt i Din barmhärtighets skugga och är förenad
 (Bahaiprayers.net ID: 10369)
 
 
-
+«[Svenska](../sv/#bpn10369)» 
 
 
 

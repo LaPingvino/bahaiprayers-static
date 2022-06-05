@@ -51,7 +51,7 @@ Ene Jainkoa! Ni neure buruarena baino adiskideago zatzait. Zeuretzat eskaintzen 
 (Bahaiprayers.net ID: 6144)
 
 
-
+«[Euskara](../eu/#bpn6144)» 
 
 
 
@@ -70,7 +70,7 @@ Benetan, Zeu zara euren Laguntza eta Jauna
 (Bahaiprayers.net ID: 6140)
 
 
-
+«[Euskara](../eu/#bpn6140)» 
 
 
 
@@ -89,7 +89,7 @@ Zeure ahalaren indarrez Zeuk erabaki duzuna bakarrik nahi duena naiz ni. Neuretz
 (Bahaiprayers.net ID: 6158)
 
 
-
+«[Euskara](../eu/#bpn6158)» 
 
 
 
@@ -111,7 +111,7 @@ Zeure izatez irauten duzuna, arriskuan laguntzailea, ez dago Zu ez beste Jainkor
 (Bahaiprayers.net ID: 6159)
 
 
-
+«[Euskara](../eu/#bpn6159)» 
 
 
 
@@ -130,7 +130,7 @@ Behartsuak eta txiroak baino ez dira guztiak, eta Zu, guztia duena zara benetan,
 (Bahaiprayers.net ID: 6139)
 
 
-
+«[Euskara](../eu/#bpn6139)» 
 
 
 
@@ -149,7 +149,7 @@ Ez dago Zu ez beste Jainkorik, Ahalguztiduna, Guztiaren Menderatzailea, Jaraina.
 (Bahaiprayers.net ID: 6148)
 
 
-
+«[Euskara](../eu/#bpn6148)» 
 
 
 
@@ -167,7 +167,7 @@ Guztientzat emankorra zara Zu, guztientzat ardura izan duzu Zuk, guztiei babespe
 (Bahaiprayers.net ID: 6138)
 
 
-
+«[Euskara](../eu/#bpn6138)» 
 
 
 
@@ -184,7 +184,7 @@ Ez dago Zu ez beste Jainkorik, Zu zara Bakarra, Paregabea, Orojakituna, jakintsu
 (Bahaiprayers.net ID: 6149)
 
 
-
+«[Euskara](../eu/#bpn6149)» 
 
 
 
@@ -200,7 +200,7 @@ Goratua izan bedi Zure Izena, ene Jainko Jauna! Sorturiko guztiak gurtzen zaitue
 (Bahaiprayers.net ID: 6135)
 
 
-
+«[Euskara](../eu/#bpn6135)» 
 
 
 
@@ -214,7 +214,7 @@ Zure emaitza gurien itsasotik baztertzen ez nazazu utzi, ez eta Zure hurbiltasun
 (Bahaiprayers.net ID: 6136)
 
 
-
+«[Euskara](../eu/#bpn6136)» 
 
 
 
@@ -242,7 +242,7 @@ Nahi duzuna egiteko Ahaltsua zara Zu,benetan Goralduena, Aintzaguztiduna, Goreng
 (Bahaiprayers.net ID: 6137)
 
 
-
+«[Euskara](../eu/#bpn6137)» 
 
 
 
@@ -258,7 +258,7 @@ Ene Jainkoa! Zeure maitasunaren sabelean hazi erazi ezazu sorkaritxo hau, eta ze
 (Bahaiprayers.net ID: 6150)
 
 
-
+«[Euskara](../eu/#bpn6150)» 
 
 
 
@@ -270,7 +270,7 @@ Ene Jainkoa! Hezi itzazu ume hauek. Zeure baratzeko landarak, zeure larrako lore
 (Bahaiprayers.net ID: 6151)
 
 
-
+«[Euskara](../eu/#bpn6151)» 
 
 
 
@@ -282,7 +282,7 @@ Ene Jauna! Ene Jauna! Adin txikidun ume bat naiz. Zeure errukitasunezko ugatzez 
 (Bahaiprayers.net ID: 6152)
 
 
-
+«[Euskara](../eu/#bpn6152)» 
 
 
 
@@ -294,7 +294,7 @@ Bideratu eta lagundu nazazu ene Jainkoa, nire bihotzeko kriseilua argiztatu ezaz
 (Bahaiprayers.net ID: 6153)
 
 
-
+«[Euskara](../eu/#bpn6153)» 
 
 
 
@@ -310,7 +310,7 @@ Ene Jainkoa! Bekatuen barkatzaile Hori, dohai emaile, atsekabeak aienatzen dituz
 (Bahaiprayers.net ID: 6157)
 
 
-
+«[Euskara](../eu/#bpn6157)» 
 
 
 
@@ -326,7 +326,7 @@ Nork askatzen du oztopoetatik Jainkoak ez bada? Esan: Goraldua izan bedi Jainkoa
 (Bahaiprayers.net ID: 6141)
 
 
-
+«[Euskara](../eu/#bpn6141)» 
 
 
 
@@ -339,7 +339,7 @@ Benetan, Bera da Beregan, Ezagutzailea, Euslea, Ahalguztiduna.
 (Bahaiprayers.net ID: 6142)
 
 
-
+«[Euskara](../eu/#bpn6142)» 
 
 
 
@@ -358,7 +358,7 @@ Zeu zara benetan, Ahalguztiduna, Aintzaguztiduna, Ahaltsuen artean Ahaltsuena
 (Bahaiprayers.net ID: 6143)
 
 
-
+«[Euskara](../eu/#bpn6143)» 
 
 
 
@@ -377,7 +377,7 @@ Nahi duzuna egiteko Ahaltsua zara Zu. Ez dago Zu ez beste Jainkorik, Beti Barkat
 (Bahaiprayers.net ID: 6155)
 
 
-
+«[Euskara](../eu/#bpn6155)» 
 
 
 
@@ -391,7 +391,7 @@ Izan ere, Zure indarrak gauza guztiei aurre eman diezaieke. Benetan, Zeu zara Ah
 (Bahaiprayers.net ID: 6156)
 
 
-
+«[Euskara](../eu/#bpn6156)» 
 
 
 
@@ -403,7 +403,7 @@ Zure Izena da nire sendaketa, ene Jainkoa, eta Zure oroitza da niretzako sendaga
 (Bahaiprayers.net ID: 6154)
 
 
-
+«[Euskara](../eu/#bpn6154)» 
 
 
 
@@ -419,7 +419,7 @@ Bihotz garbi bat irazan ezazu nire baitan, ene Jainkoa, eta barru lasaitasuna be
 (Bahaiprayers.net ID: 6145)
 
 
-
+«[Euskara](../eu/#bpn6145)» 
 
 
 
@@ -432,7 +432,7 @@ Izaki guztien Jauna zaren Horri, ikusi daitezken nahiz ezin daitezken gauza guzt
 (Bahaiprayers.net ID: 6146)
 
 
-
+«[Euskara](../eu/#bpn6146)» 
 
 
 
@@ -444,7 +444,7 @@ Ene Jainkoa! Ez zaitez nigandik urrundu, zoritxarrez inguraturik bait nago. Ene 
 (Bahaiprayers.net ID: 6147)
 
 
-
+«[Euskara](../eu/#bpn6147)» 
 
 
 

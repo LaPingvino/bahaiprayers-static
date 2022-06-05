@@ -50,7 +50,7 @@ Anatu nga numan wengdui ulg e kona kelkel bila pora tetem, mawaga, kona na kona 
 (Bahaiprayers.net ID: 13032)
 
 
-
+«[Melpa](../med/#bpn13032)» 
 
 
 
@@ -66,7 +66,7 @@ Anutu O, na nombolga bä wakadui:  Nanga mundmong enga lamb ela rängalg ngana n
 (Bahaiprayers.net ID: 13025)
 
 
-
+«[Melpa](../med/#bpn13025)» 
 
 
 
@@ -82,7 +82,7 @@ Nanga Anutu nem bi panka.  Nimnga numan wengdui ugl, wamp numan ngui na wamp ki 
 (Bahaiprayers.net ID: 13026)
 
 
-
+«[Melpa](../med/#bpn13026)» 
 
 
 
@@ -98,7 +98,7 @@ Nanga Anatu O, Nemnga bi ent na etepa tetim.  Wete Neme pilip ko mund dam, Nem p
 (Bahaiprayers.net ID: 13028)
 
 
-
+«[Melpa](../med/#bpn13028)» 
 
 
 
@@ -114,7 +114,7 @@ Anatu Ye, Nanga min iyä etikin kont mondokon numan e orong etiken kai pinti.  N
 (Bahaiprayers.net ID: 13019)
 
 
-
+«[Melpa](../med/#bpn13019)» 
 
 
 
@@ -130,7 +130,7 @@ Nanga Anatu O!  Na nem nga ki kaemb ela rot nemb kai mondond.  Wamb ti ent nem n
 (Bahaiprayers.net ID: 13022)
 
 
-
+«[Melpa](../med/#bpn13022)» 
 
 
 
@@ -146,7 +146,7 @@ Anatu elem ent nit bä pentipa kelimba.  Mel elepa mat ent kongon emel etemba mo
 (Bahaiprayers.net ID: 13030)
 
 
-
+«[Melpa](../med/#bpn13030)» 
 
 
 
@@ -162,7 +162,7 @@ Na Neminga, mondopa pili ela rot niti nanga Anatu O, Nem kin pora mondop pilip n
 (Bahaiprayers.net ID: 13020)
 
 
-
+«[Melpa](../med/#bpn13020)» 
 
 
 
@@ -178,7 +178,7 @@ Nanga wuta Anatu O!  Neminga numan ngoron wamb tik rapandana, Nemnga miti ela ro
 (Bahaiprayers.net ID: 13018)
 
 
-
+«[Melpa](../med/#bpn13018)» 
 
 
 
@@ -194,7 +194,7 @@ Wä Nuim O!  Na Nemnga tep mumuk ropa, tenta iti ulg eya tip oldong ngolgmba Nem
 (Bahaiprayers.net ID: 13021)
 
 
-
+«[Melpa](../med/#bpn13021)» 
 
 
 
@@ -212,7 +212,7 @@ Ugla nga wipip ropa ngui wa na akap king nga kum pinti mel bä wak rop, nu na r�
 (Bahaiprayers.net ID: 13023)
 
 
-
+«[Melpa](../med/#bpn13023)» 
 
 
 
@@ -230,7 +230,7 @@ Na para dop nent, Anatu, nem ent na mim eteken, na peliken kandaken i eten ni na
 (Bahaiprayers.net ID: 13031)
 
 
-
+«[Melpa](../med/#bpn13031)» 
 
 
 
@@ -246,7 +246,7 @@ O Anatu O!   Nem wamb ti ken kapalga mon!  Anatu Nem tip mumukrui kona enga ami.
 (Bahaiprayers.net ID: 13017)
 
 
-
+«[Melpa](../med/#bpn13017)» 
 
 
 
@@ -292,7 +292,7 @@ Ten pora kopa Anatu ken raka nemp moromon.(19)
 (Bahaiprayers.net ID: 13024)
 
 
-
+«[Melpa](../med/#bpn13024)» 
 
 
 
@@ -308,7 +308,7 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 (Bahaiprayers.net ID: 13029)
 
 
-
+«[Melpa](../med/#bpn13029)» 
 
 
 
@@ -326,7 +326,7 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 (Bahaiprayers.net ID: 13027)
 
 
-
+«[Melpa](../med/#bpn13027)» 
 
 
 

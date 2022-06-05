@@ -141,7 +141,7 @@ Engkau, sesungguhnya, adalah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 (Bahaiprayers.net ID: 12192)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12192)» 
 
 
 
@@ -157,7 +157,7 @@ Ya Tuhanku! Aku memohon kepada-Mu, dengan Nama-Mu yang teragung, untuk membantuk
 (Bahaiprayers.net ID: 12039)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12039)» 
 
 
 
@@ -169,7 +169,7 @@ Diagungkanlah Nama-Mu, Ya Tuhan, Tuhanku! Akulah yang telah memalingkan wajahku 
 (Bahaiprayers.net ID: 12040)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12040)» 
 
 
 
@@ -181,7 +181,7 @@ Ya Engkau Yang wajah-Nya adalah tujuan pujaanku, Yang keindahan-Nya adalah tempa
 (Bahaiprayers.net ID: 12041)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12041)» 
 
 
 
@@ -196,7 +196,7 @@ Berpuaslah engkau dengan Daku dan janganlah mencari penolong yang lain. Kerana t
 (Bahaiprayers.net ID: 12042)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12042)» 
 
 
 
@@ -208,7 +208,7 @@ Adakah penghalau kesukaran-kesukaran selain Tuhan? Katakanlah: Terpujilah Tuhan!
 (Bahaiprayers.net ID: 12043)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12043)» 
 
 
 
@@ -220,7 +220,7 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tidak ada 
 (Bahaiprayers.net ID: 12044)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12044)» 
 
 
 
@@ -232,7 +232,7 @@ Ya Tuhanku, Rajaku dan Tuanku! Aku telah memisahkan diriku daripada saudaraku da
 (Bahaiprayers.net ID: 12045)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12045)» 
 
 
 
@@ -244,7 +244,7 @@ Ya Tuhan! Izinkanlah semua manusia dunia ini untuk mendapat tempat dalam Syurga 
 (Bahaiprayers.net ID: 12046)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12046)» 
 
 
 
@@ -260,7 +260,7 @@ Berikanlah makanan harian kami, dan kurniakanlah daripada-Mu peningkatan dalam k
 (Bahaiprayers.net ID: 12047)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12047)» 
 
 
 
@@ -272,7 +272,7 @@ Ya Tuhan, Tuhanku! Bantulah kekasih-kekasih-Mu untuk teguh dalam Akidah-Mu, untu
 (Bahaiprayers.net ID: 12048)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12048)» 
 
 
 
@@ -284,7 +284,7 @@ Ya Engkau Pembekal yang ilahi, kasihanilah kami, berikanlah pertolongan-Mu; peng
 (Bahaiprayers.net ID: 12049)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12049)» 
 
 
 
@@ -302,7 +302,7 @@ Diluhurkanlah Engkau, Ya Kekasihku Yang Tercinta, tiupkanlah kepadanya keharuman
 (Bahaiprayers.net ID: 12036)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12036)» 
 
 
 
@@ -314,7 +314,7 @@ Ya Tuhan yang tiada bandingan! Biarlah bayi yang sedang menyusu ini disusui dari
 (Bahaiprayers.net ID: 12037)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12037)» 
 
 
 
@@ -326,7 +326,7 @@ Ya Tuhan! Peliharalah bayi ini dalam dada cinta-Mu, dan berilah dia susu daripad
 (Bahaiprayers.net ID: 12038)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12038)» 
 
 
 
@@ -344,7 +344,7 @@ Oleh sebab itu, aku memohon kepada-Mu, demi nama-Mu yang melaluinya Engkau telah
 (Bahaiprayers.net ID: 12050)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12050)» 
 
 
 
@@ -360,7 +360,7 @@ Diberkatilah  dia yang dalam kemuncak zaman belianya dan kegemilangan hidupnya b
 (Bahaiprayers.net ID: 12051)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12051)» 
 
 
 
@@ -372,7 +372,7 @@ Ya Tuhan! Jadikanlah pemuda ini cemerlang, dan kurniakanlah rahmat-Mu kepada ins
 (Bahaiprayers.net ID: 12052)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12052)» 
 
 
 
@@ -388,7 +388,7 @@ Engkaulah yang Maha Kuat dan Berkuasa; Engkaulah Pemberi dan Yang Maha Penyayang
 (Bahaiprayers.net ID: 12053)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12053)» 
 
 
 
@@ -404,7 +404,7 @@ Diberkatilah titik, dan rumah, dan tempat, dan kota, dan hati, dan gunung, dan p
 (Bahaiprayers.net ID: 12054)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12054)» 
 
 
 
@@ -420,7 +420,7 @@ Kita berdoa kepada Tuhan agar dengan murah hati membantu mereka yang sudah terse
 (Bahaiprayers.net ID: 12055)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12055)» 
 
 
 
@@ -434,7 +434,7 @@ Bebaskanlah mereka daripada minuman-minuman dan tembakau yang memabukkan, jagala
 (Bahaiprayers.net ID: 12056)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12056)» 
 
 
 
@@ -446,7 +446,7 @@ Maka kerahkanlah usaha yang besar agar kemurnian dan kesucian, yang disukai 'Abd
 (Bahaiprayers.net ID: 12057)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12057)» 
 
 
 
@@ -464,7 +464,7 @@ Maka, sebabkanlah daku menghadap sepenuhnya kepada-Mu, dengan meletakkan keperca
 (Bahaiprayers.net ID: 12058)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12058)» 
 
 
 
@@ -482,7 +482,7 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Tiada Tuhan melainkan 
 (Bahaiprayers.net ID: 12059)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12059)» 
 
 
 
@@ -498,7 +498,7 @@ Dan akhirnya, aku merayu kepada-Mu demi cahaya wajah-Mu untuk memberkati hal ehw
 (Bahaiprayers.net ID: 12060)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12060)» 
 
 
 
@@ -510,7 +510,7 @@ Ya Engkau Yang cubaan-cubaan-Nya adalah ubat penyembuh bagi mereka yang dekat ke
 (Bahaiprayers.net ID: 12061)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12061)» 
 
 
 
@@ -530,7 +530,7 @@ Ya Engkau Yang cubaan-cubaan-Nya adalah ubat penyembuh bagi mereka yang dekat ke
 (Bahaiprayers.net ID: 12064)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12064)» 
 
 
 
@@ -542,7 +542,7 @@ Aku merayu kepada-Mu demi kekuatan-Mu, Ya Tuhanku! Janganlah membiarkan kecelaka
 (Bahaiprayers.net ID: 12062)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12062)» 
 
 
 
@@ -554,7 +554,7 @@ Ya Tuhan! Engkaulah Penghapus setiap kesengsaraan dan Penghalau setiap penderita
 (Bahaiprayers.net ID: 12063)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12063)» 
 
 
 
@@ -570,7 +570,7 @@ Sesungguhnya, Engkaulah Pelindung, Penjaga, Pemelihara, Pencukup, dan sesungguhn
 (Bahaiprayers.net ID: 12065)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12065)» 
 
 
 
@@ -582,7 +582,7 @@ Sesungguhnya, Engkaulah Pelindung, Penjaga, Pemelihara, Pencukup, dan sesungguhn
 (Bahaiprayers.net ID: 12066)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12066)» 
 
 
 
@@ -598,7 +598,7 @@ Sesungguhnya, Engkaulah Pelindung, Penjaga, Pemelihara, Pencukup, dan sesungguhn
 (Bahaiprayers.net ID: 12067)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12067)» 
 
 
 
@@ -617,7 +617,7 @@ Sesungguhnya, Engkaulah Pembekal, Penolong, Dermawan, Maha Rahim, Maha Pemberi.
 (Bahaiprayers.net ID: 12068)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12068)» 
 
 
 
@@ -654,7 +654,7 @@ Kami semua, sesungguhnya, bersabar demi Tuhan.
 (Bahaiprayers.net ID: 12187)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12187)» 
 
 
 
@@ -761,7 +761,7 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Mencukupi, Sang Penyembuh, Pe
 (Bahaiprayers.net ID: 12115)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12115)» 
 
 
 
@@ -781,7 +781,7 @@ Sesungguhnya, Engkaulah Pemberi, Yang Dermawan, Penyayang, Pengampun!
 (Bahaiprayers.net ID: 12129)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12129)» 
 
 
 
@@ -823,7 +823,7 @@ Sesungguhnya, Engkaulah Pemberi, Yang Dermawan, Penyayang, Pengampun!
 (Bahaiprayers.net ID: 12034)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12034)» 
 
 
 
@@ -892,7 +892,7 @@ Ya Tuhan, Tuhanku! Belakangku telah dibongkokkan oleh beban dosaku dan kelalaian
 (Bahaiprayers.net ID: 12035)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12035)» 
 
 
 
@@ -926,7 +926,7 @@ Ya Tuhan, Tuhanku! Belakangku telah dibongkokkan oleh beban dosaku dan kelalaian
 (Bahaiprayers.net ID: 12033)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12033)» 
 
 
 
@@ -949,7 +949,7 @@ Sesungguhnya, Engkaulah Pengesah kepada sesiapa pun yang Engkau kehendaki dalam 
 (Bahaiprayers.net ID: 12147)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12147)» 
 
 
 
@@ -973,7 +973,7 @@ Sesungguhnya, Engkaulah Maha Pengampun, Yang Maha Kuasa, Yang Maha Kuat dan Yang
 (Bahaiprayers.net ID: 12148)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12148)» 
 
 
 
@@ -993,7 +993,7 @@ Engkaulah Maha Kuasa dan Pembuat apa sahaja yang Engkau kehendaki.
 (Bahaiprayers.net ID: 12202)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12202)» 
 
 
 
@@ -1015,7 +1015,7 @@ Sesungguhnya, Engkau Tuhan dan Raja sekalian manusia dan berkuasa ke atas segala
 (Bahaiprayers.net ID: 12069)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12069)» 
 
 
 
@@ -1031,7 +1031,7 @@ Sesungguhnya, Engkau Tuhan dan Raja sekalian manusia dan berkuasa ke atas segala
 (Bahaiprayers.net ID: 12070)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12070)» 
 
 
 
@@ -1047,7 +1047,7 @@ Engkau lihat, Ya Tuhan, tangan rendah diri kami diangkatkan ke arah syurga kurni
 (Bahaiprayers.net ID: 12073)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12073)» 
 
 
 
@@ -1059,7 +1059,7 @@ Engkau lihat, Ya Tuhan, tangan rendah diri kami diangkatkan ke arah syurga kurni
 (Bahaiprayers.net ID: 12074)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12074)» 
 
 
 
@@ -1071,7 +1071,7 @@ Aku memohon kemaafan-Mu, Ya Tuhanku, dan merayu pengampunan-Mu sebagaimana Engka
 (Bahaiprayers.net ID: 12075)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12075)» 
 
 
 
@@ -1084,7 +1084,7 @@ Ya Tuhan! Dalam Dispensasi yang Maha Agung ini Engkau telah menerima permohonan 
 (Bahaiprayers.net ID: 12076)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12076)» 
 
 
 
@@ -1096,7 +1096,7 @@ Ya Tuhan! Dalam Dispensasi yang Maha Agung ini Engkau telah menerima permohonan 
 (Bahaiprayers.net ID: 12077)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12077)» 
 
 
 
@@ -1114,7 +1114,7 @@ Aku memohon kepada-Mu demi Nama-Mu, dengannya semua orang dibolehkan untuk menca
 (Bahaiprayers.net ID: 12078)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12078)» 
 
 
 
@@ -1130,7 +1130,7 @@ Aku memohon kepada-Mu demi Nama-Mu, dengannya semua orang dibolehkan untuk menca
 (Bahaiprayers.net ID: 12079)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12079)» 
 
 
 
@@ -1142,7 +1142,7 @@ Ya Tuhan, bimbinglah daku, lindungilah daku, jadikanlah daku satu lampu bersinar
 (Bahaiprayers.net ID: 12080)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12080)» 
 
 
 
@@ -1154,7 +1154,7 @@ Dialah Tuhan! Ya Tuhan, Tuhanku! Kurniakanlah ke atas daku hati yang murni, baga
 (Bahaiprayers.net ID: 12081)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12081)» 
 
 
 
@@ -1169,7 +1169,7 @@ Yá Bahá’u’l-Abhá!
 (Bahaiprayers.net ID: 12082)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12082)» 
 
 
 
@@ -1183,7 +1183,7 @@ Sesungguhnya, Engkau adalah Yang Berkuasa, Yang Kuat, Yang Melihat, Yang Mendeng
 (Bahaiprayers.net ID: 12083)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12083)» 
 
 
 
@@ -1195,7 +1195,7 @@ Ya Tuhan yang Tiada Bandingan! Jadilah Engkau tempat teduh kepada kanak-kanak ya
 (Bahaiprayers.net ID: 12084)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12084)» 
 
 
 
@@ -1207,7 +1207,7 @@ Ya Engkau Tuhan yang maha mulia! Jadikanlah dayang-Mu yang muda ini diberkati da
 (Bahaiprayers.net ID: 12085)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12085)» 
 
 
 
@@ -1219,7 +1219,7 @@ Ya Tuhan! Didiklah kanak-kanak ini. Kanak-kanak ini ialah pohon-pohon dalam kebu
 (Bahaiprayers.net ID: 12086)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12086)» 
 
 
 
@@ -1235,7 +1235,7 @@ Engkau Yang Maha Kuasa, Yang Maha Pengasih.
 (Bahaiprayers.net ID: 12087)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12087)» 
 
 
 
@@ -1247,7 +1247,7 @@ Ya Tuhan yang Pengasih! Kanak-kanak comel ini adalah karya jari-jari-Mu yang ber
 (Bahaiprayers.net ID: 12088)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12088)» 
 
 
 
@@ -1259,7 +1259,7 @@ Ya Tuhan yang Pengasih! Kanak-kanak comel ini adalah karya jari-jari-Mu yang ber
 (Bahaiprayers.net ID: 12089)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12089)» 
 
 
 
@@ -1279,7 +1279,7 @@ Sesungguhnya, Engkaulah Pemaaf Selalu, Yang Paling Mengasihani.
 (Bahaiprayers.net ID: 12090)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12090)» 
 
 
 
@@ -1293,7 +1293,7 @@ Naungilah di bawah perlindungan-Mu, Ya Engkau Semangat kesucian, Engkau Yang ada
 (Bahaiprayers.net ID: 12091)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12091)» 
 
 
 
@@ -1317,7 +1317,7 @@ Naungilah di bawah perlindungan-Mu, Ya Engkau Semangat kesucian, Engkau Yang ada
 (Bahaiprayers.net ID: 12092)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12092)» 
 
 
 
@@ -1331,7 +1331,7 @@ Ya Tuhan! Engkaulah Maha Perkasa! Engkaulah Maha Pengasih! Engkaulah Maha Pengam
 (Bahaiprayers.net ID: 12093)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12093)» 
 
 
 
@@ -1343,7 +1343,7 @@ Ya Tuhan! Kami lemah; perkuatkanlah kami. Ya Tuhan! Kami jahil; jadikanlah kami 
 (Bahaiprayers.net ID: 12094)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12094)» 
 
 
 
@@ -1362,7 +1362,7 @@ Sesungguhnya, Engkaulah Tuhan seluruh umat manusia, dan Pemilik dunia ini dan ak
 (Bahaiprayers.net ID: 12095)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12095)» 
 
 
 
@@ -1376,7 +1376,7 @@ Ya Tuhanku! Biarkanlah curahan dari pemberian dan rahmat-Mu turun kepada rumah-r
 (Bahaiprayers.net ID: 12096)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12096)» 
 
 
 
@@ -1388,7 +1388,7 @@ Ya Tuhanku! Biarkanlah curahan dari pemberian dan rahmat-Mu turun kepada rumah-r
 (Bahaiprayers.net ID: 12097)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12097)» 
 
 
 
@@ -1406,7 +1406,7 @@ Berkuasalah Engkau untuk membuat apa yang Engkau redai. Sesungguhnya, Engkaulah 
 (Bahaiprayers.net ID: 12098)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12098)» 
 
 
 
@@ -1424,7 +1424,7 @@ Bolehkanlah, Ya Tuhan, agar kalbu-kalbu mereka menjadi lebih kuat daripada apa p
 (Bahaiprayers.net ID: 12099)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12099)» 
 
 
 
@@ -1438,7 +1438,7 @@ Sejak azali Engkau berkuasa untuk membuat apa yang Engkau redai dan maha tinggi 
 (Bahaiprayers.net ID: 12100)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12100)» 
 
 
 
@@ -1454,7 +1454,7 @@ Ya Tuhan! Hilangkanlah semua unsur-unsur yang menyebabkan perselisihan, dan sedi
 (Bahaiprayers.net ID: 12169)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12169)» 
 
 
 
@@ -1478,7 +1478,7 @@ Ya Tuhan! Hilangkanlah semua unsur-unsur yang menyebabkan perselisihan, dan sedi
 (Bahaiprayers.net ID: 12101)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12101)» 
 
 
 
@@ -1491,7 +1491,7 @@ Jadikanlah daku bersedia, dalam segala keadaan, Ya Tuhanku, untuk mengabdi kepad
 (Bahaiprayers.net ID: 12102)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12102)» 
 
 
 
@@ -1505,7 +1505,7 @@ Wujudkanlah dalam diriku hati yang suci, Ya Tuhanku, dan baharuilah satu suara h
 (Bahaiprayers.net ID: 12103)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12103)» 
 
 
 
@@ -1517,7 +1517,7 @@ Ya Tuhan! Segarkan dan riangkanlah  jiwaku, murnikanlah hatiku, terangilah kuasa
 (Bahaiprayers.net ID: 12104)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12104)» 
 
 
 
@@ -1533,7 +1533,7 @@ Sesungguhnya, Engkaulah Maha Perkasa, Yang Maha Mulia dan Yang Maha Kuasa.
 (Bahaiprayers.net ID: 12105)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12105)» 
 
 
 
@@ -1549,7 +1549,7 @@ Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah ke
 (Bahaiprayers.net ID: 12106)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12106)» 
 
 
 
@@ -1563,7 +1563,7 @@ Ya Tuhan, ciptakanlah dalam kalbu-kalbu kekasih-Mu api cinta-Mu, agar ia dapat m
 (Bahaiprayers.net ID: 12107)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12107)» 
 
 
 
@@ -1575,7 +1575,7 @@ Tuhan mengurniakan agar cahaya kesatuan dapat menyelubungi seluruh bumi, dan aga
 (Bahaiprayers.net ID: 12108)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12108)» 
 
 
 
@@ -1587,7 +1587,7 @@ Tuhan mengurniakan agar cahaya kesatuan dapat menyelubungi seluruh bumi, dan aga
 (Bahaiprayers.net ID: 12109)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12109)» 
 
 
 
@@ -1605,7 +1605,7 @@ Ya Raja, Tuhan! Jadikanlah kami sebagai ombak di laut, bunga-bunga di taman, ber
 (Bahaiprayers.net ID: 12110)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12110)» 
 
 
 
@@ -1621,7 +1621,7 @@ Nama-Mu adalah kesembuhanku, Ya Tuhanku, dan mengenang Engkau adalah penawarku. 
 (Bahaiprayers.net ID: 12111)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12111)» 
 
 
 
@@ -1635,7 +1635,7 @@ Berkuasalah Engkau untuk melakukan apa yang     Engkau hasratkan. Tiada Tuhan se
 (Bahaiprayers.net ID: 12112)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12112)» 
 
 
 
@@ -1651,7 +1651,7 @@ Engkaulah sesungguhnya Tuhan kehidupan ini dan yang seterusnya. Sesungguhnya, En
 (Bahaiprayers.net ID: 12113)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12113)» 
 
 
 
@@ -1663,7 +1663,7 @@ Engkaulah sesungguhnya Tuhan kehidupan ini dan yang seterusnya. Sesungguhnya, En
 (Bahaiprayers.net ID: 12114)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12114)» 
 
 
 
@@ -1687,7 +1687,7 @@ Tiada Tuhan lain kecuali Engkau, Yang Maha Berkuasa, Yang Dermawan.
 (Bahaiprayers.net ID: 12116)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12116)» 
 
 
 
@@ -1703,7 +1703,7 @@ Dimuliakanlah nama-Mu, Ya Engkau Raja kepada Segala Raja!
 (Bahaiprayers.net ID: 12117)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12117)» 
 
 
 
@@ -1719,7 +1719,7 @@ Sesungguhnya, Engkau adalah Tuhan segala dunia, dan Tuhan kepada semua yang ada 
 (Bahaiprayers.net ID: 12118)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12118)» 
 
 
 
@@ -1737,7 +1737,7 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Sesungguhnya, Engkaula
 (Bahaiprayers.net ID: 12119)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12119)» 
 
 
 
@@ -1753,7 +1753,7 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Sesungguhnya, Engkaula
 (Bahaiprayers.net ID: 12121)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12121)» 
 
 
 
@@ -1773,7 +1773,7 @@ Engkaulah memiliki kekuasaan mutlak untuk memerintahkan.
 (Bahaiprayers.net ID: 12120)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12120)» 
 
 
 
@@ -1790,7 +1790,7 @@ Sesungguhnya, Engkaulah Yang Berkuasa, Pemberi Sentiasa, Yang Mampu, Yang Maha K
 (Bahaiprayers.net ID: 12122)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12122)» 
 
 
 
@@ -1814,7 +1814,7 @@ Perintahkanlah kepadaku, demi rahmat-Mu, Ya Tuhan, apa yang akan memperkaya daku
 (Bahaiprayers.net ID: 12123)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12123)» 
 
 
 
@@ -1830,7 +1830,7 @@ Engkau adalah Pengampun, Yang Rahim.
 (Bahaiprayers.net ID: 12124)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12124)» 
 
 
 
@@ -1846,7 +1846,7 @@ Sesungguhnya, Engkaulah Pemberi, Pengampun, Pengasih.
 (Bahaiprayers.net ID: 12125)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12125)» 
 
 
 
@@ -1860,7 +1860,7 @@ Sesungguhnya, Engkaulah Yang Tak Terhalang, Yang Maha Kuat, Yang Maha Kuasa.
 (Bahaiprayers.net ID: 12126)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12126)» 
 
 
 
@@ -1911,7 +1911,7 @@ Sesungguhnya, Dia Yang Maha Pengasih, Maha Penyayang. Pujian bagi Tuhan, Raja se
 (Bahaiprayers.net ID: 12198)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12198)» 
 
 
 
@@ -2034,7 +2034,7 @@ Seandainya semua hamba membaca dan merenungkan ini, maka dalam urat darah mereka
 (Bahaiprayers.net ID: 12201)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12201)» 
 
 
 
@@ -2064,7 +2064,7 @@ Bergembiralah dengan kebahagiaan yang amat, wahai umat Bahá, apabila engkau men
 (Bahaiprayers.net ID: 12197)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12197)» 
 
 
 
@@ -2100,7 +2100,7 @@ Berkatilah lagi, Ya Tuhan, Tuhanku, hamba-hamba-Mu dan dayang-dayang-Mu yang tel
 (Bahaiprayers.net ID: 12200)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12200)» 
 
 
 
@@ -2132,7 +2132,7 @@ Engkau Penganugerah, Yang Mengasihani, Yang Maha Dermawan, Yang Maha Rahim, Yang
 (Bahaiprayers.net ID: 12199)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12199)» 
 
 
 
@@ -2152,7 +2152,7 @@ Tiada Tuhan kecuali Engkau, Yang Maha Kuat, Yang Maha Menakluki, Yang Tak Terbat
 (Bahaiprayers.net ID: 12127)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12127)» 
 
 
 
@@ -2168,7 +2168,7 @@ Demi kekuatan-Mu! Aku tak meminta apa pun, baik waktu tidur mahupun terjaga, mel
 (Bahaiprayers.net ID: 12128)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12128)» 
 
 
 
@@ -2188,7 +2188,7 @@ Kerana Engkau telah membimbing mereka, Ya Tuhanku, ke samudera kehidupan rahmat-
 (Bahaiprayers.net ID: 12130)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12130)» 
 
 
 
@@ -2204,7 +2204,7 @@ Takdirkanlah bagiku, Ya Tuhanku, apa yang layak bagi kebesaran keagungan-Mu, dan
 (Bahaiprayers.net ID: 12131)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12131)» 
 
 
 
@@ -2218,7 +2218,7 @@ Segala pujian bagi Tuhan, Raja sekalian alam.
 (Bahaiprayers.net ID: 12132)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12132)» 
 
 
 
@@ -2235,7 +2235,7 @@ Aku merayu kepada-Mu, Ya Engkau Raja kewujudan dan Pelindung apa yang dapat dili
 (Bahaiprayers.net ID: 12139)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12139)» 
 
 
 
@@ -2253,7 +2253,7 @@ Sesungguhnya, Engkau adalah Tuhan kekuatan dan kekuasaan, Yang layak untuk menja
 (Bahaiprayers.net ID: 12140)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12140)» 
 
 
 
@@ -2269,7 +2269,7 @@ Sesungguhnya, berkuasalah Engkau untuk melakukan apa yang Engkau kehendaki, dan 
 (Bahaiprayers.net ID: 12141)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12141)» 
 
 
 
@@ -2285,7 +2285,7 @@ Sesungguhnya, berkuasalah Engkau untuk melakukan apa yang Engkau kehendaki, dan 
 (Bahaiprayers.net ID: 12142)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12142)» 
 
 
 
@@ -2299,7 +2299,7 @@ Ya Tuhan! Aku tunggal, keseorangan dan lemah. Bagiku tiada sokongan selain Engka
 (Bahaiprayers.net ID: 12133)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12133)» 
 
 
 
@@ -2315,7 +2315,7 @@ Sesungguhnya, Engkaulah Yang Maha Kuat, Yang Maha Perkasa dan Yang Maha Berkuasa
 (Bahaiprayers.net ID: 12134)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12134)» 
 
 
 
@@ -2329,7 +2329,7 @@ Engkaulah, sesungguhnya, Pemurah, Pengampun.
 (Bahaiprayers.net ID: 12135)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12135)» 
 
 
 
@@ -2341,7 +2341,7 @@ Ya Tuhan, Tuhanku! Bantulah Engkau hamba-hamba-Mu yang dipercayai untuk memiliki
 (Bahaiprayers.net ID: 12136)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12136)» 
 
 
 
@@ -2359,7 +2359,7 @@ Sesungguhnya, Engkaulah Dia yang memiliki kurnia yang melimpah ruah. Tiada Tuhan
 (Bahaiprayers.net ID: 12137)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12137)» 
 
 
 
@@ -2371,7 +2371,7 @@ Ya Tuhan! Bukakanlah Engkau pintu, sediakanlah caranya, berikanlah laluannya, ja
 (Bahaiprayers.net ID: 12138)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12138)» 
 
 
 
@@ -2395,7 +2395,7 @@ Engkau, sesungguhnya, adalah Yang Maha Tahu dan Yang Maha Arif.
 (Bahaiprayers.net ID: 12196)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12196)» 
 
 
 
@@ -2411,7 +2411,7 @@ Aku telah bangun di bawah naungan-Mu, Ya Tuhanku, dan layak bagi dia yang mencar
 (Bahaiprayers.net ID: 12143)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12143)» 
 
 
 
@@ -2431,7 +2431,7 @@ Engkau tidak menghampakan sesiapa pun yang telah mencari-Mu, mahupun Engkau menj
 (Bahaiprayers.net ID: 12144)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12144)» 
 
 
 
@@ -2443,7 +2443,7 @@ Engkau tidak menghampakan sesiapa pun yang telah mencari-Mu, mahupun Engkau menj
 (Bahaiprayers.net ID: 12145)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12145)» 
 
 
 
@@ -2463,7 +2463,7 @@ Ya Tuhan! Lindungilah daku daripada cubaan-cubaan. Engkau ketahui penuh jelas ba
 (Bahaiprayers.net ID: 12146)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12146)» 
 
 
 
@@ -2489,7 +2489,7 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Dermawan! Tiada Tuhan kecuali
 (Bahaiprayers.net ID: 12149)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12149)» 
 
 
 
@@ -2503,7 +2503,7 @@ Ya Tuhanku, tiada yang lain kecuali Engkau yang menguntungkan daku, dan tiada fa
 (Bahaiprayers.net ID: 12150)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12150)» 
 
 
 
@@ -2515,7 +2515,7 @@ Kemuliaan kepada-Mu, Ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan bo
 (Bahaiprayers.net ID: 12151)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12151)» 
 
 
 
@@ -2527,7 +2527,7 @@ Ya Tuhanku, Ya Rajaku, Ya Tuanku! Aku merayu kepada-Mu untuk mengampuni daku ker
 (Bahaiprayers.net ID: 12152)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12152)» 
 
 
 
@@ -2539,7 +2539,7 @@ Aku merayu kepada-Mu untuk mengampuni daku, Ya Tuhanku, kerana setiap pengingata
 (Bahaiprayers.net ID: 12153)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12153)» 
 
 
 
@@ -2551,7 +2551,7 @@ Ya Engkau Tuhan Yang Pengampun! Engkau adalah Pelindung bagi semua hamba-hamba-M
 (Bahaiprayers.net ID: 12154)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12154)» 
 
 
 
@@ -2567,7 +2567,7 @@ Aku telah bangun pagi ini kerana rahmat-Mu, Ya Tuhanku, dan telah meninggalkan r
 (Bahaiprayers.net ID: 12155)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12155)» 
 
 
 
@@ -2579,7 +2579,7 @@ Ya Tuhan, Tuhanku! Aku telah meninggalkan rumahku, berpegang teguh kepada tali c
 (Bahaiprayers.net ID: 12156)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12156)» 
 
 
 
@@ -2608,7 +2608,7 @@ Dan apabila Dia berhasrat untuk menjelmakan rahmat dan kurnia kepada manusia, se
 (Bahaiprayers.net ID: 12157)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12157)» 
 
 
 
@@ -2620,7 +2620,7 @@ Kemuliaan kepada-Mu, Ya Tuhanku! Sesungguhnya, hamba-Mu ini dan dayang-Mu ini te
 (Bahaiprayers.net ID: 12158)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12158)» 
 
 
 
@@ -2634,7 +2634,7 @@ Sesungguhnya, Engkaulah yang Dermawan. Sesungguhnya, Engkaulah yang Maha Kuat. S
 (Bahaiprayers.net ID: 12159)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12159)» 
 
 
 
@@ -2654,7 +2654,7 @@ Engkau, sesungguhnya, adalah Yang Maha Kuat, Yang Maha Luhur, Pemaaf Selalu, Yan
 (Bahaiprayers.net ID: 12160)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12160)» 
 
 
 
@@ -2670,7 +2670,7 @@ Ya Engkau Raja segala Raja! Ya Engkau Tuhan yang baik hati! Ya Engkau Sumber rah
 (Bahaiprayers.net ID: 12161)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12161)» 
 
 
 
@@ -2684,7 +2684,7 @@ Mereka sendiri, Ya Tuhanku, telah menunggu di depan pintu kurnia-Mu. Bukakanlahn
 (Bahaiprayers.net ID: 12162)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12162)» 
 
 
 
@@ -2698,7 +2698,7 @@ Kurniakanlah kemaafan-Mu kepadaku dan kepada penganut-penganut yang telah menyah
 (Bahaiprayers.net ID: 12163)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12163)» 
 
 
 
@@ -2710,7 +2710,7 @@ Ya Tuhan, Tuhanku! Lindungilah hamba-hamba-Mu yang dipercayai daripada kejahatan
 (Bahaiprayers.net ID: 12164)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12164)» 
 
 
 
@@ -2730,7 +2730,7 @@ Engkau adalah Kuat. Engkau adalah Berkuasa. Engkau adalah Pemberi, dan Engkau Pe
 (Bahaiprayers.net ID: 12165)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12165)» 
 
 
 
@@ -2744,7 +2744,7 @@ Sesungguhnya, Engkau adalah Pemurah. Sesungguhnya, Engkau adalah Berbelas Kasiha
 (Bahaiprayers.net ID: 12166)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12166)» 
 
 
 
@@ -2758,7 +2758,7 @@ Engkau adalah Pemberi, Pemurah, dan Pengasih Selalu.
 (Bahaiprayers.net ID: 12167)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12167)» 
 
 
 
@@ -2772,7 +2772,7 @@ Sesungguhnya, Engkau adalah Yang Maha Kuasa, Yang Maha Kuat.
 (Bahaiprayers.net ID: 12168)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12168)» 
 
 
 
@@ -2790,7 +2790,7 @@ Engkau adalah, sesungguhnya, Yang Maha Kuat, Yang Maha Mulia, Yang Maha Berkuasa
 (Bahaiprayers.net ID: 12170)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12170)» 
 
 
 
@@ -2802,7 +2802,7 @@ Katakanlah: Ya Tuhan, Tuhanku! Hiasilah kepalaku dengan mahkota keadilan, dan tu
 (Bahaiprayers.net ID: 12171)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12171)» 
 
 
 
@@ -2818,7 +2818,7 @@ Sebabkanlah hamba ini, Aku merayu kepada-Mu, untuk mencapai apa yang adalah punc
 (Bahaiprayers.net ID: 12172)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12172)» 
 
 
 
@@ -2830,7 +2830,7 @@ Aku merayu kepada-Mu, Ya Tuhanku, demi segala keagungan Nama-Mu yang unggul, unt
 (Bahaiprayers.net ID: 12173)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12173)» 
 
 
 
@@ -2848,7 +2848,7 @@ Sesungguhnya, Engkau adalah yang berbelas kasihan dan, sesungguhnya, Engkau adal
 (Bahaiprayers.net ID: 12174)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12174)» 
 
 
 
@@ -2860,7 +2860,7 @@ Ya Tuhanku! Ya Tuhanku! Ini adalah lampu yang dinyalakan oleh api cinta-Mu dan d
 (Bahaiprayers.net ID: 12175)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12175)» 
 
 
 
@@ -2874,7 +2874,7 @@ Sesungguhnya, Engkau adalah Yang Maha Dermawan, Tuhan rahmat yang tak terhingga.
 (Bahaiprayers.net ID: 12176)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12176)» 
 
 
 
@@ -2890,7 +2890,7 @@ Sesungguhnya, Engkau adalah Yang Maha Dermawan, Tuhan rahmat yang tak terhingga.
 (Bahaiprayers.net ID: 12193)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12193)» 
 
 
 
@@ -2904,7 +2904,7 @@ Terpujilah Engkau, Ya Tuhan, Tuhanku! Kami telah mematuhi Puasa mengikut perinta
 (Bahaiprayers.net ID: 12194)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12194)» 
 
 
 
@@ -2916,7 +2916,7 @@ Ya Pembekal Ilahi! Sambil aku mengelakkan diri daripada hawa nafsu dan tidak mak
 (Bahaiprayers.net ID: 12195)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12195)» 
 
 
 
@@ -2934,7 +2934,7 @@ Terangilah, Ya Tuhan, wajah hamba-hamba-Mu, agar mereka dapat melihat Engkau; da
 (Bahaiprayers.net ID: 12177)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12177)» 
 
 
 
@@ -2948,7 +2948,7 @@ Ya Pemberi Ilahi! Segala kewujudan adalah kerana kemurahan-Mu; janganlah menjauh
 (Bahaiprayers.net ID: 12178)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12178)» 
 
 
 
@@ -2969,7 +2969,7 @@ Sesungguhnya, Engkaulah Yang Disanjungi, Pemberi Selalu, Tangan yang Terbuka.
 (Bahaiprayers.net ID: 12179)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12179)» 
 
 
 
@@ -2985,7 +2985,7 @@ Ya Engkau Tuhan yang Pengasih, Engkaulah Yang dermawan dan kaya! Kami adalah ham
 (Bahaiprayers.net ID: 12180)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12180)» 
 
 
 
@@ -3010,7 +3010,7 @@ Engkau adalah Kuat dan Berkuasa, Engkau adalah Pemaaf dan Engkau Adalah Dia Yang
 (Bahaiprayers.net ID: 12181)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12181)» 
 
 
 
@@ -3026,7 +3026,7 @@ Engkau sesungguhnya adalah Berkuasa, Pelindung, Kuat, Pembela, Perkasa, Yang Mah
 (Bahaiprayers.net ID: 12182)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12182)» 
 
 
 
@@ -3043,7 +3043,7 @@ Izinkanlah, Ya Tuhanku, mereka yang telah naik kepada-Mu agar dipulihkan oleh Di
 (Bahaiprayers.net ID: 12183)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12183)» 
 
 
 
@@ -3059,7 +3059,7 @@ Ya Tuhanku! Sucikanlah mereka daripada kesalahan, hapuskanlah kedukaan mereka, d
 (Bahaiprayers.net ID: 12184)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12184)» 
 
 
 
@@ -3075,7 +3075,7 @@ Engkau adalah Pemaaf, Pemberi Cahaya dan Maha Kuasa.
 (Bahaiprayers.net ID: 12185)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12185)» 
 
 
 
@@ -3091,7 +3091,7 @@ Engkau adalah, sesungguhnya, Yang Kuat, Yang Pengasih, Pemurah, Yang Berbelas Ka
 (Bahaiprayers.net ID: 12186)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12186)» 
 
 
 
@@ -3107,7 +3107,7 @@ Ya Tuhan! Bantulah puteri Kerajaan-Mu ini untuk diluhurkan dalam kedua-dua dunia
 (Bahaiprayers.net ID: 12188)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12188)» 
 
 
 
@@ -3119,7 +3119,7 @@ Ya Tuhanku, Kekasihku dan Hasratku! Bersahabatlah dengan daku dalam kesepianku d
 (Bahaiprayers.net ID: 12189)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12189)» 
 
 
 
@@ -3137,7 +3137,7 @@ Ya Tuhanku, aku mempersembahkan kepada-Mu apa yang ada di dalam kandunganku. Lal
 (Bahaiprayers.net ID: 12190)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12190)» 
 
 
 
@@ -3158,7 +3158,7 @@ Engkau, sesungguhnya, jauh lebih luhur atas segala sesuatu kecuali Dirimu Sendir
 (Bahaiprayers.net ID: 12191)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12191)» 
 
 
 
@@ -3177,7 +3177,7 @@ Dimuliakanlah Engkau, Ya Tuhan segala ciptaan, kepada Engkaulah harus segala ben
 (Bahaiprayers.net ID: 12071)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12071)» 
 
 
 
@@ -3193,7 +3193,7 @@ Dimuliakanlah Engkau, Ya Tuhan segala ciptaan, kepada Engkaulah harus segala ben
 (Bahaiprayers.net ID: 12072)
 
 
-
+«[Bahasa Melayu](../ms/#bpn12072)» 
 
 
 

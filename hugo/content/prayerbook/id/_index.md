@@ -118,7 +118,7 @@ Sesungguhnya, Engkaulah yang sejak dahulu telah berkuasa untuk berbuat apa yang 
 (Bahaiprayers.net ID: 5092)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5092)» 
 
 
 
@@ -130,7 +130,7 @@ Ya Tuhan, bimbinglah hamba, lindungilah hamba, jadikanlah hamba laksana lampu ya
 (Bahaiprayers.net ID: 5093)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5093)» 
 
 
 
@@ -144,7 +144,7 @@ Ya Engkau Tuhan Yang Berdiri Sendiri! Jadikanlah aku teman karib Kerajaan Yang G
 (Bahaiprayers.net ID: 5094)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5094)» 
 
 
 
@@ -158,7 +158,7 @@ Ya Tuhan! Anak-anak ini bagaikan mutiara, peliharalah mereka dalam kerang kasih 
 (Bahaiprayers.net ID: 5095)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5095)» 
 
 
 
@@ -170,7 +170,7 @@ Ya Tuhanku! Ya Tuhanku! Aku seorang anak kecil. Berilah aku susu dari dada rahma
 (Bahaiprayers.net ID: 5096)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5096)» 
 
 
 
@@ -184,7 +184,7 @@ Ya Tuhan Yang Maha Pengasih! Aku adalah seorang anak kecil, muliakanlah daku den
 (Bahaiprayers.net ID: 5097)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5097)» 
 
 
 
@@ -198,7 +198,7 @@ Kokohkanlah kami supaya ketika menginjak dewasa, kami dapat mengabdi kepada Kera
 (Bahaiprayers.net ID: 5098)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5098)» 
 
 
 
@@ -210,7 +210,7 @@ Ya Tuhan! Aku adalah anak kecil, mungkinkanlah daku tumbuh di bawah naungan cint
 (Bahaiprayers.net ID: 5099)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5099)» 
 
 
 
@@ -222,7 +222,7 @@ Ya Tuhan didiklah anak-anak ini. Mereka itu pohon-pohon dalam kebun-Mu, bunga-bu
 (Bahaiprayers.net ID: 5100)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5100)» 
 
 
 
@@ -241,7 +241,7 @@ Karena Engkau telah membimbing mereka ya Tuhanku, ke samudera kehidupan rahmat-M
 (Bahaiprayers.net ID: 5133)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5133)» 
 
 
 
@@ -255,7 +255,7 @@ Takdirkanlah bagiku, ya Tuhanku, apa yang layak bagi kebesaran keagungan-Mu dan 
 (Bahaiprayers.net ID: 5134)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5134)» 
 
 
 
@@ -272,7 +272,7 @@ Ya Tuhanku! Jadikanlah hamba seorang yang terlepas dari segala sesuatu kecuali E
 (Bahaiprayers.net ID: 5135)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5135)» 
 
 
 
@@ -290,7 +290,7 @@ Ya Tuhan! Aku hanyalah seorang diri, sendirian serta rendah. Bagiku tiada penduk
 (Bahaiprayers.net ID: 5136)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5136)» 
 
 
 
@@ -305,7 +305,7 @@ Ya Tuhan! Jadilah Engkau Pendukung dan Penolong mereka itu; dan di gurun, di gun
 (Bahaiprayers.net ID: 5137)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5137)» 
 
 
 
@@ -333,7 +333,7 @@ Sesungguhnya Engkaulah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 (Bahaiprayers.net ID: 5208)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5208)» 
 
 
 
@@ -351,7 +351,7 @@ Diluhurkanlah Engkau, ya Kekasihku Yang Tercinta, tiupkanlah kepadanya kesedapan
 (Bahaiprayers.net ID: 5101)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5101)» 
 
 
 
@@ -363,7 +363,7 @@ Ya Tuhan! Asuhlah bayi yang kecil ini dalam dada cinta-Mu dan berilah ia susu da
 (Bahaiprayers.net ID: 5102)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5102)» 
 
 
 
@@ -375,7 +375,7 @@ Ya Tuhan yang tiada banding taranya! Biarlah bayi yang sedang menyusu ini disusu
 (Bahaiprayers.net ID: 5103)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5103)» 
 
 
 
@@ -395,7 +395,7 @@ Sesungguhnya, segala-galanya dalam genggaman kekuasaan-Mu. Engkau sesungguhnya, 
 (Bahaiprayers.net ID: 5104)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5104)» 
 
 
 
@@ -407,7 +407,7 @@ Sesungguhnya, segala-galanya dalam genggaman kekuasaan-Mu. Engkau sesungguhnya, 
 (Bahaiprayers.net ID: 5105)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5105)» 
 
 
 
@@ -419,7 +419,7 @@ Sesungguhnya, segala-galanya dalam genggaman kekuasaan-Mu. Engkau sesungguhnya, 
 (Bahaiprayers.net ID: 5106)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5106)» 
 
 
 
@@ -437,7 +437,7 @@ Kami berdoa kepada Tuhan agar sudilah membantu mereka yang telah disesatkan supa
 (Bahaiprayers.net ID: 5126)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5126)» 
 
 
 
@@ -455,7 +455,7 @@ Aku memohon kepada-Mu, ya Tuhanku, bangkitkanlah sebagai penolong bagi Wahyu ini
 (Bahaiprayers.net ID: 5107)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5107)» 
 
 
 
@@ -467,7 +467,7 @@ Ya Engkau, yang cobaan-cobaan-Nya adalah obat penyembuh bagi mereka yang dekat k
 (Bahaiprayers.net ID: 5108)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5108)» 
 
 
 
@@ -480,7 +480,7 @@ Tuhanku! Janganlah mengizinkan kerugian menimpa diriku dalam masa-masa cobaan da
 (Bahaiprayers.net ID: 5109)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5109)» 
 
 
 
@@ -494,7 +494,7 @@ Bantulah dia di dunia wujud ini agar ia tetap teguh dan kukuh dalam cinta-Mu dan
 (Bahaiprayers.net ID: 5110)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5110)» 
 
 
 
@@ -518,7 +518,7 @@ Dengan doa ini hamba-Mu memanggil Dikau pada waktu fajar dan malam hari. Kabulka
 (Bahaiprayers.net ID: 5207)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5207)» 
 
 
 
@@ -540,7 +540,7 @@ Ya Tuhan mungkinkanlah daku berhubungan dengan Engkau dalam kesepianku dan teman
 (Bahaiprayers.net ID: 5138)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5138)» 
 
 
 
@@ -562,7 +562,7 @@ dan mengenakan perisai cinta-Nya, maka Yang Maha Kuasa akan membuatnya menang me
 (Bahaiprayers.net ID: 5139)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5139)» 
 
 
 
@@ -578,7 +578,7 @@ Ya Tuhanku! Ya Tuhanku! Engkau melihat aku dalam kerendahan dan kelemahanku, sib
 (Bahaiprayers.net ID: 5140)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5140)» 
 
 
 
@@ -594,7 +594,7 @@ Ya Tuhan! Segarkanlah dan riangkanlah jiwa hamba, murnikanlah hati hamba, terang
 (Bahaiprayers.net ID: 5111)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5111)» 
 
 
 
@@ -618,7 +618,7 @@ Biarlah aku berbesar hati dengan kebahagiaan melalui roh kekuatan dari kerajaan-
 (Bahaiprayers.net ID: 5112)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5112)» 
 
 
 
@@ -638,7 +638,7 @@ Ya Tuhan! Engkaulah Maha Perkasa! Engkaulah Maha Pengasih! Engkaulah Maha Pengam
 (Bahaiprayers.net ID: 5113)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5113)» 
 
 
 
@@ -650,7 +650,7 @@ Ya Tuhan! Kami ini lemah; kuatkanlah kami. Ya Tuhan! Kami ini bodoh; berikanlah 
 (Bahaiprayers.net ID: 5114)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5114)» 
 
 
 
@@ -671,7 +671,7 @@ segala nama dan sifat! Engkau adalah Dia yang dari keabadian telah mentakdirkan 
 (Bahaiprayers.net ID: 5115)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5115)» 
 
 
 
@@ -689,7 +689,7 @@ Sesungguhnya, Engkaulah Tuhan seluruh umat manusia, dan Pemilik dunia dan akhira
 (Bahaiprayers.net ID: 5116)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5116)» 
 
 
 
@@ -709,7 +709,7 @@ Ya Tuhanku! Biarkanlah curahan-curahan dari pemberian dan rahmat-Mu turun kepada
 (Bahaiprayers.net ID: 5117)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5117)» 
 
 
 
@@ -735,7 +735,7 @@ Mungkinkanlah ya Tuhan, kalbu-kalbu mereka menjadi lebih kuat dari apa pun yang 
 (Bahaiprayers.net ID: 5118)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5118)» 
 
 
 
@@ -754,7 +754,7 @@ Aku memohon kepada-Mu, ya Engkau Pembentuk bangsa-bangsa dan Raja keabadian, unt
 (Bahaiprayers.net ID: 5201)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5201)» 
 
 
 
@@ -779,7 +779,7 @@ Ya Tuhan! Perkuatlah mereka dengan rahmat-Mu oleh suatu semangat baru; terangila
 (Bahaiprayers.net ID: 5119)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5119)» 
 
 
 
@@ -797,7 +797,7 @@ Aku memohon kepada-Mu agar memungkinkan daku untuk tetap teguh melekat pada kasi
 (Bahaiprayers.net ID: 5120)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5120)» 
 
 
 
@@ -813,7 +813,7 @@ Berkuasalah Engkau berbuat sekehendak-Mu. Sesungguhnya, Engkaulah Yang Maha Luhu
 (Bahaiprayers.net ID: 5121)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5121)» 
 
 
 
@@ -826,7 +826,7 @@ Kepada-Mu telah aku letakkan seluruh keyakinanku dan kepada-Mulah aku menghadapk
 (Bahaiprayers.net ID: 5122)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5122)» 
 
 
 
@@ -839,7 +839,7 @@ Aku adalah dia, ya Tuhanku, yang telah melupakan segala-galanya kecuali Engkau d
 (Bahaiprayers.net ID: 5123)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5123)» 
 
 
 
@@ -852,7 +852,7 @@ Ya Engkau, Tuhan Yang Pengasih. Berilah aku hati, yang seperti cermin dapat dite
 (Bahaiprayers.net ID: 5124)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5124)» 
 
 
 
@@ -867,7 +867,7 @@ Ya Rabi Tuhanku! Bantulah kekasih-kekasih-Mu untuk tetap teguh dalam Agama-Mu, u
 (Bahaiprayers.net ID: 5125)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5125)» 
 
 
 
@@ -885,7 +885,7 @@ Bukalah tabir dari mataku ya Tuhanku, agar hendaknya, aku dapat mengenal apa yan
 (Bahaiprayers.net ID: 5127)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5127)» 
 
 
 
@@ -899,7 +899,7 @@ Tiada Tuhan selain Engkau, Yang Maha Kuasa, Penolong Dalam Bahaya, Yang Berdiri 
 (Bahaiprayers.net ID: 5128)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5128)» 
 
 
 
@@ -922,7 +922,7 @@ Yang Maha Dermawan.
 (Bahaiprayers.net ID: 5129)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5129)» 
 
 
 
@@ -963,7 +963,7 @@ Sesungguhnya, Ia Yang Maha Pengasih dan Maha Penyayang. Pujian bagi Tuhan, Raja 
 (Bahaiprayers.net ID: 5202)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5202)» 
 
 
 
@@ -1101,7 +1101,7 @@ Seandainya semua hamba membaca dan merenung- kan ini, maka dalam urat darah mere
 (Bahaiprayers.net ID: 5203)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5203)» 
 
 
 
@@ -1127,7 +1127,7 @@ Maha Sucilah Raja sekalian umat manusia, yang apabila menyebut nama-Nya, semua a
 (Bahaiprayers.net ID: 5216)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5216)» 
 
 
 
@@ -1344,7 +1344,7 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Maha Mencukupi, Sang Penyembuh, Pelindu
 (Bahaiprayers.net ID: 5204)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5204)» 
 
 
 
@@ -1366,7 +1366,7 @@ Aku memohon kepada-Mu demi kemuliaan Perwujudan-Mu dan demi kekuatan kekuasaan-M
 (Bahaiprayers.net ID: 5205)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5205)» 
 
 
 
@@ -1399,7 +1399,7 @@ Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
 (Bahaiprayers.net ID: 5206)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5206)» 
 
 
 
@@ -1416,7 +1416,7 @@ Aku memohon kepada-Mu, ya Tuhanku, demi mata- Mu yang tak tidur, untuk menjaga m
 (Bahaiprayers.net ID: 5130)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5130)» 
 
 
 
@@ -1434,7 +1434,7 @@ Demi kekuasaan-Mu! Aku tak meminta apa pun, baik waktu tidur maupun terjaga, mel
 (Bahaiprayers.net ID: 5131)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5131)» 
 
 
 
@@ -1480,7 +1480,7 @@ Demikianlah pengaruh mabuk dari firman-firman Tuhan terhadap Dia, Pewahyu bukti-
 (Bahaiprayers.net ID: 5215)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5215)» 
 
 
 
@@ -1498,7 +1498,7 @@ Ya Tuhan, Engkau melihat tangan permohonan kami telah diangkat ke arah langit ra
 (Bahaiprayers.net ID: 5141)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5141)» 
 
 
 
@@ -1512,7 +1512,7 @@ Ya Tuhanku, Engkau telah mengilhami jiwaku untuk memohon kepada-Mu dan jika tida
 (Bahaiprayers.net ID: 5142)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5142)» 
 
 
 
@@ -1525,7 +1525,7 @@ ini, Engkau telah menerima permohonan anak-anak untuk orang tua mereka. Ini adal
 (Bahaiprayers.net ID: 5143)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5143)» 
 
 
 
@@ -1556,7 +1556,7 @@ Aku naik saksi, ya Tuhanku, bahwa Engkau telah memerintahkan kepada manusia untu
 (Bahaiprayers.net ID: 5144)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5144)» 
 
 
 
@@ -1577,7 +1577,7 @@ Dimuliakanlah, dimuliakanlah Engkau setinggi- tingginya! Engkau dipuja karena ha
 (Bahaiprayers.net ID: 5146)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5146)» 
 
 
 
@@ -1602,7 +1602,7 @@ Sesungguhnya, kami semua bersabar demi Tuhan.
 (Bahaiprayers.net ID: 5147)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5147)» 
 
 
 
@@ -1615,7 +1615,7 @@ Ya Tuhanku! Sucikanlah mereka dari segala kesalahan, hapuskanlah kesedihan merek
 (Bahaiprayers.net ID: 5145)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5145)» 
 
 
 
@@ -1640,7 +1640,7 @@ Berkatilah, ya Rabi Tuhanku, Dia yang telah Engkau kuasakan dengan Gelar-gelar-M
 (Bahaiprayers.net ID: 5148)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5148)» 
 
 
 
@@ -1652,7 +1652,7 @@ Ya Tuhanku! Aku telah bangun di bawah naungan- Mu, dan layak bagi dia yang menca
 (Bahaiprayers.net ID: 5149)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5149)» 
 
 
 
@@ -1673,7 +1673,7 @@ Engkau tidak mengecewakan siapa pun yang telah mencari Dikau, tak pula Engkau me
 (Bahaiprayers.net ID: 5150)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5150)» 
 
 
 
@@ -1692,7 +1692,7 @@ Ya Tuhan! Jadikanlah pemuda ini cemerlang dan kurniakanlah rahmat-Mu pada insan 
 (Bahaiprayers.net ID: 5151)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5151)» 
 
 
 
@@ -1718,7 +1718,7 @@ Aku memohon kepada-Mu demi Dia, Raja segala Nama yang berdaulat agar menetapkan 
 (Bahaiprayers.net ID: 5152)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5152)» 
 
 
 
@@ -1733,7 +1733,7 @@ Engkau adalah Dia yang kekuasaan-Nya berlangsung dari keabadian sampai keabadian
 (Bahaiprayers.net ID: 5153)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5153)» 
 
 
 
@@ -1747,7 +1747,7 @@ Engkau adalah Dia yang telah mewujudkan sekalian makhluk, dan telah memancarkan 
 (Bahaiprayers.net ID: 5154)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5154)» 
 
 
 
@@ -1760,7 +1760,7 @@ Ya Tuhanku, tiada yang lain kecuali Engkau yang menguntungkan daku; dan tak ada 
 (Bahaiprayers.net ID: 5155)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5155)» 
 
 
 
@@ -1772,7 +1772,7 @@ Nama-Mu kesembuhanku, ya Tuhanku, dan mengenang Dikau obatku. Dekat pada-Mu hara
 (Bahaiprayers.net ID: 5158)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5158)» 
 
 
 
@@ -1787,7 +1787,7 @@ Maha Dermawan.
 (Bahaiprayers.net ID: 5159)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5159)» 
 
 
 
@@ -1801,7 +1801,7 @@ Sesungguhnya, Engkaulah Tuhan kehidupan ini dan kehidupan yang akan datang. Sesu
 (Bahaiprayers.net ID: 5160)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5160)» 
 
 
 
@@ -1818,7 +1818,7 @@ Maha Tahu.
 (Bahaiprayers.net ID: 5161)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5161)» 
 
 
 
@@ -1833,7 +1833,7 @@ Pujian bagi-Mu, ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan mungkin
 (Bahaiprayers.net ID: 5156)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5156)» 
 
 
 
@@ -1846,7 +1846,7 @@ Anugerahilah kekayaan kepada yang miskin dan berilah ketentraman dan keamanan ke
 (Bahaiprayers.net ID: 5157)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5157)» 
 
 
 
@@ -1862,7 +1862,7 @@ Aku telah bangun pagi ini karena rahmat-Mu, ya Tuhanku, dan meninggalkan rumahku
 (Bahaiprayers.net ID: 5162)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5162)» 
 
 
 
@@ -1874,7 +1874,7 @@ Ya Tuhan, Tuhanku! Aku telah berangkat dari rumahku dengan memegang teguh pada t
 (Bahaiprayers.net ID: 5163)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5163)» 
 
 
 
@@ -1897,7 +1897,7 @@ Dan apabila Ia menghendaki menjelmakan rahmat dan derma kepada manusia serta men
 (Bahaiprayers.net ID: 5164)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5164)» 
 
 
 
@@ -1910,7 +1910,7 @@ Ya Tuhan! Mereka sedang memohon ke kerajaan rahmat-Mu dan ke alam keesaan-Mu. Se
 (Bahaiprayers.net ID: 5165)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5165)» 
 
 
 
@@ -1935,7 +1935,7 @@ Ya Tuhan Yang Penyayang! Jadikanlah perkawinan ini melahirkan mutiara dan ratna.
 (Bahaiprayers.net ID: 5166)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5166)» 
 
 
 
@@ -1952,7 +1952,7 @@ Selamatkanlah dia juga ya Tuhanku, dengan kekuasaan keagungan-Mu yang tak terbil
 (Bahaiprayers.net ID: 5167)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5167)» 
 
 
 
@@ -1965,7 +1965,7 @@ Selamatkanlah hamba-hamba-Mu dan hamba-hamba wanita-Mu, ya Tuhanku, dari panah-p
 (Bahaiprayers.net ID: 5168)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5168)» 
 
 
 
@@ -1977,7 +1977,7 @@ Ya Tuhan, Tuhanku! Lindungilah hamba-hamba- Mu yang dipercayai dari kejahatan ha
 (Bahaiprayers.net ID: 5169)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5169)» 
 
 
 
@@ -1993,7 +1993,7 @@ Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah ke
 (Bahaiprayers.net ID: 5170)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5170)» 
 
 
 
@@ -2006,7 +2006,7 @@ Ya Tuhan, ciptakanlah dalam kalbu-kalbu kekasih-Mu api cinta-Mu, agar ia dapat m
 (Bahaiprayers.net ID: 5171)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5171)» 
 
 
 
@@ -2024,7 +2024,7 @@ Ya Tuhan! Kibarkanlah panji-panji kesatuan manusia. Ya Tuhan! Dirikanlah Perdama
 (Bahaiprayers.net ID: 5172)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5172)» 
 
 
 
@@ -2047,7 +2047,7 @@ Tuhan! Bantulah kami agar menjadi lautan-lautan yang bergelora dengan gelombang-
 (Bahaiprayers.net ID: 5173)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5173)» 
 
 
 
@@ -2066,7 +2066,7 @@ Sesungguhnya, Engkaulah Maha Dermawan, Maha Pemurah! Engkaulah Pemilik anugerah 
 (Bahaiprayers.net ID: 5174)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5174)» 
 
 
 
@@ -2080,7 +2080,7 @@ Ya Tuhan yang pemurah! Anugerahkanlah berkat- berkat-Mu. Janganlah melihat pada 
 (Bahaiprayers.net ID: 5175)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5175)» 
 
 
 
@@ -2093,7 +2093,7 @@ Yang Maha Kuasa! Janganlah memandang pada dosa-dosa kami, tetapi pandanglah kami
 (Bahaiprayers.net ID: 5176)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5176)» 
 
 
 
@@ -2111,7 +2111,7 @@ Dan terakhir aku memohon kepada-Mu demi sinar- sinar Wajah-Mu, agar hendaknya En
 (Bahaiprayers.net ID: 5177)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5177)» 
 
 
 
@@ -2124,7 +2124,7 @@ Lalu, mungkinkanlah daku menghadap sepenuhnya kepada-Mu, meletakkan kepercayaank
 (Bahaiprayers.net ID: 5178)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5178)» 
 
 
 
@@ -2136,7 +2136,7 @@ Ya Engkau yang wajah-Nya adalah tujuan pujaanku, yang keindahan-Nya adalah tempa
 (Bahaiprayers.net ID: 5179)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5179)» 
 
 
 
@@ -2148,7 +2148,7 @@ Ya Tuhan! Engkau adalah Penghalau setiap kesedihan yang dalam dan Penghilang set
 (Bahaiprayers.net ID: 5180)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5180)» 
 
 
 
@@ -2161,7 +2161,7 @@ Tuhan? Katakanlah: Terpujilah Tuhan! Ia Tuhan! Semua hamba-Nya dan semua tunduk 
 (Bahaiprayers.net ID: 5181)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5181)» 
 
 
 
@@ -2175,7 +2175,7 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tak ada di
 (Bahaiprayers.net ID: 5182)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5182)» 
 
 
 
@@ -2191,7 +2191,7 @@ Ciptakanlah dalam diriku kalbu yang suci, ya Tuhanku, dan perbaruilah dalam diri
 (Bahaiprayers.net ID: 5183)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5183)» 
 
 
 
@@ -2203,7 +2203,7 @@ Ya Tuhanku! Jadikanlah keindahan-Mu makananku, dan kehadiran-Mu minumanku, dan k
 (Bahaiprayers.net ID: 5184)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5184)» 
 
 
 
@@ -2218,7 +2218,7 @@ Ya Tuhanku, aku hanyalah sebutir biji kecil yang telah Engkau taburkan di atas t
 (Bahaiprayers.net ID: 5185)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5185)» 
 
 
 
@@ -2230,7 +2230,7 @@ Ya Tuhanku, Tuhan kedermawanan dan kerahmanan! Engkau Raja yang melalui kata per
 (Bahaiprayers.net ID: 5186)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5186)» 
 
 
 
@@ -2244,7 +2244,7 @@ Engkau adalah Dia yang untuk selama-lamanya, maha tinggi di atas segala sesuatu 
 (Bahaiprayers.net ID: 5187)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5187)» 
 
 
 
@@ -2262,7 +2262,7 @@ Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan t
 (Bahaiprayers.net ID: 5188)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5188)» 
 
 
 
@@ -2294,7 +2294,7 @@ Berilah kemenangan pada Agama-Mu, ya Tuhanku, dan tundukkanlah musuh-musuh-Mu. K
 (Bahaiprayers.net ID: 5209)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5209)» 
 
 
 
@@ -2321,7 +2321,7 @@ berpegang kuatkepadaperintah-perintah-Mudantelah melaksanakan apa yang telah Eng
 (Bahaiprayers.net ID: 5210)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5210)» 
 
 
 
@@ -2337,7 +2337,7 @@ Tiada Tuhan kecuali Engkau, Yang Maha Tahu, Yang Maha Arif. Segala pujian bagi T
 (Bahaiprayers.net ID: 5211)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5211)» 
 
 
 
@@ -2360,7 +2360,7 @@ Ia yang menjadi Cabang-Mu dan semua mereka yang ada di sekeliling-Mu, ya Tuhanku
 (Bahaiprayers.net ID: 5213)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5213)» 
 
 
 
@@ -2383,7 +2383,7 @@ Ia yang menjadi Cabang-Mu dan semua mereka yang ada di sekeliling-Mu, ya Tuhanku
 (Bahaiprayers.net ID: 5214)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5214)» 
 
 
 
@@ -2395,7 +2395,7 @@ Ya Tuhan Yang Maha Kuasa! Sucikanlah dan murnikanlah kalbu hamba dari cinta kepa
 (Bahaiprayers.net ID: 5212)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5212)» 
 
 
 
@@ -2412,7 +2412,7 @@ Ya Tuhan Yang Maha Kuasa! Segala yang ada ini terjadi karena kemurahan-Mu! Janga
 (Bahaiprayers.net ID: 5189)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5189)» 
 
 
 
@@ -2426,7 +2426,7 @@ Aku ini hina dina, ya Tuhanku, dan Engkaulah Maha Kuat dan Maha Kuasa. Kasihanil
 (Bahaiprayers.net ID: 5190)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5190)» 
 
 
 
@@ -2441,7 +2441,7 @@ Aku bersyukur kepada-Mu, ya Tuhanku, karena Engkau telah membangunkan daku dari 
 (Bahaiprayers.net ID: 5191)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5191)» 
 
 
 
@@ -2454,7 +2454,7 @@ Terangilah, ya Tuhan, wajah-wajah hamba-hamba- Mu, agar mereka dapat melihat Eng
 (Bahaiprayers.net ID: 5192)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5192)» 
 
 
 
@@ -2473,7 +2473,7 @@ Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 (Bahaiprayers.net ID: 5193)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5193)» 
 
 
 
@@ -2493,7 +2493,7 @@ Ya Tuhanku! Tetapkanlah bagi mereka bagian yang berlimpah-limpah dan imbalan yan
 (Bahaiprayers.net ID: 5194)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5194)» 
 
 
 
@@ -2520,7 +2520,7 @@ Ya Tuhan! Hilangkanlah semua hal-hal yang menjadi penyebab perselisihan, dan sed
 (Bahaiprayers.net ID: 5195)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5195)» 
 
 
 
@@ -2571,7 +2571,7 @@ Sendiri.
 (Bahaiprayers.net ID: 5090)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5090)» 
 
 
 
@@ -2659,7 +2659,7 @@ Aku naik saksi, ya Tuhanku, pada apa yang disak-sikan oleh Hamba-hamba-Mu yang t
 (Bahaiprayers.net ID: 5089)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5089)» 
 
 
 
@@ -2681,7 +2681,7 @@ Tiada Tuhan selain Engkau, Penolong Dalam Bencana, Yang Berdiri Sendiri.
 (Bahaiprayers.net ID: 5091)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5091)» 
 
 
 
@@ -2700,7 +2700,7 @@ cahaya pengetahuan-Mu, dekatkanlah pikiran dia kepada keindahan-Mu yang bersinar
 (Bahaiprayers.net ID: 5196)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5196)» 
 
 
 
@@ -2720,7 +2720,7 @@ Ya Tuhan, aku telah menghadapkan wajahku pada kerajaan keesaan-Mu dan tenggelam 
 (Bahaiprayers.net ID: 5132)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5132)» 
 
 
 
@@ -2741,7 +2741,7 @@ Ya Tuhanku, Engkau adalah Dia yang telah menamakan Dirinya Tuhan Yang Maha Penga
 (Bahaiprayers.net ID: 5197)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5197)» 
 
 
 
@@ -2757,7 +2757,7 @@ Ya Engkau, yang wajah-Nya adalah titik pujaanku, yang keindahan-Nya adalah tempa
 (Bahaiprayers.net ID: 5198)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5198)» 
 
 
 
@@ -2769,7 +2769,7 @@ Ya Tuhanku, Kekasihku dan Hasratku! Jadilah Engkau sahabatku dalam kesepianku da
 (Bahaiprayers.net ID: 5199)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5199)» 
 
 
 
@@ -2788,7 +2788,7 @@ Ya Tuhanku, aku mempersembahkan kepada-Mu apa yang ada di dalam kandunganku. Ole
 (Bahaiprayers.net ID: 5200)
 
 
-
+«[Bahasa Indonesia](../id/#bpn5200)» 
 
 
 
