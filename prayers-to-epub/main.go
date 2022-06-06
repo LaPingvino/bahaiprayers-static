@@ -31,7 +31,10 @@ var Local string = APILINK
 
 type Author int
 
-var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`
+var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`% Bahá'í Prayers in many languages
+% from bahaiprayers.net
+% via devotional.gq
+
 {{$cl := .CrossLink}}
 {{$ll := .Languages}}
 {{range $code, $name := $ll}}
@@ -40,15 +43,18 @@ var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`
 
 {{range $lang, $prayers := .ByLanguage}}
 <a id="{{$lang}}"></a>
+
 ## {{index $ll $lang}}
 
 {{range $cat, $discard := .ByCategory}}
-[{{$cat}}](#{{$lang}}-{{$cat}})
+[{{html $cat}}](#{{$lang}}-{{urlquery $cat}})
 {{end}}
 
 {{range $cat, $prayer := .ByCategory}}
-<a id="{{$lang}}-{{$cat}}"></a> 
+<a id="{{$lang}}-{{urlquery $cat}}"></a> 
+
 ### {{$cat}}
+
 {{range $prayer}}
 <a id="{{.PrayerCode}}-{{$lang}}"></a> 
 {{.Text}}
