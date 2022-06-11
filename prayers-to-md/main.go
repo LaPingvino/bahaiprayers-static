@@ -51,15 +51,15 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 {{$cl := .CrossLink}}
 
 {{range $cat, $discard := .ByCategory}}
-[{{$cat}}](#{{$cat}})
+[{{html $cat}}](#{{urlquery $cat}})
 {{end}}
 
 {{range $cat, $prayer := .ByCategory}}
-<a id="{{$cat}}"></a> 
-## {{$cat}}
+<a id="{{urlquery $cat}}"></a> 
+## {{html $cat}}
 {{range $prayer}}
 <a id="{{.PrayerCode}}"></a> 
-{{.Text}}
+{{html .Text}}
 
 -- {{.Author}}
 
@@ -446,7 +446,9 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 				"https://bahaiprayers.net/Book/Single/"+strconv.Itoa(prayer.LanguageId)+"/"+strconv.Itoa(int(prayer.Id)),
 				prayer.Title,
 				prayer.Author.String(),
-				prayer.Text)
+				// Sanitize the text
+				template.HTMLEscapeString(prayer.Text))
+			)
 			if err != nil {
 				panic(err.Error())
 			}

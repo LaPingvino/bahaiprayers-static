@@ -57,7 +57,7 @@ var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`% Bahá'í Pr
 
 {{range $prayer}}
 <a id="{{.PrayerCode}}-{{$lang}}"></a> 
-{{.Text}}
+{{html .Text}}
 
 -- {{.Author}}
 
