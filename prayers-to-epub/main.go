@@ -23,6 +23,7 @@ import (
 	"strconv"
 	"sync"
 	"text/template"
+	"unicode"
 )
 
 const APILINK = "https://BahaiPrayers.net/api/prayer/"
@@ -69,6 +70,17 @@ var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`% Bahá'í Pr
 {{end}}
 {{end}}
 `))
+
+// Printablize returns a string with every character that is not unicode.IsGraphic removed
+func Printablize(s string) string {
+	var b []rune
+	for _, r := range s {
+		if unicode.IsGraphic(r) {
+			b = append(b, r)
+		}
+	}
+	return string(b)
+}
 
 func (a Author) String() string {
 	if a > 0 && a < 4 {
@@ -315,6 +327,7 @@ func main() {
 			prayer.LanguageName = name
 			prayer.PrayerCode = PrayerCode(prayer.Id, true)
 			prayer.PrayerCodeTag = PrayerCode(prayer.Id, false)
+			prayer.Text = Printablize(prayer.Text)
 			prayers.Prayers[i] = prayer
 		}
 		// Save the prayers to the map

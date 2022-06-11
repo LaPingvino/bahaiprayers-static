@@ -23,6 +23,7 @@ import (
 	"strconv"
 	"sync"
 	"text/template"
+	"unicode"
 
 	_ "modernc.org/sqlite"
 )
@@ -71,6 +72,17 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 {{end}}
 
 `))
+
+// Printablize returns a string with all characters that are not unicode.IsGraphic removed
+func Printablize(s string) string {
+	var b []rune
+	for _, r := range s {
+		if unicode.IsGraphic(r) {
+			b = append(b, r)
+		}
+	}
+	return string(b)
+}
 
 func (a Author) String() string {
 	if a > 0 && a < 4 {
@@ -520,6 +532,7 @@ func main() {
 			prayer.PrayerCode = PrayerCode(prayer.Id, true)
 			prayer.PrayerCodeTag = PrayerCode(prayer.Id, false)
 			prayer.ENCategory = CategoryByPrayer(PrayerCode(prayer.Id, true))
+			prayer.Text = Printablize(prayer.Text)
 			prayers.Prayers[i] = prayer
 		}
 		// Save the prayers to the map
