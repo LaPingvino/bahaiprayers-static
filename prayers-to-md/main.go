@@ -447,7 +447,7 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 				prayer.Title,
 				prayer.Author.String(),
 				// Sanitize the text
-				template.HTMLEscapeString(prayer.Text))
+				template.HTMLEscapeString(prayer.Text),
 			)
 			if err != nil {
 				panic(err.Error())
