@@ -5,39 +5,39 @@ tags = ['lang=ho', 'prayerbook']
 
 
 
-[BAHÁ’Í TORETORE HELAGADIA HAIDA](#BAHÁ’Í TORETORE HELAGADIA HAIDA)
+[BAHÁ’Í TORETORE HELAGADIA HAIDA](#BAH%C3%81%E2%80%99%C3%8D+TORETORE+HELAGADIA+HAIDA)
 
-[DABAI GURIGURI](#DABAI GURIGURI)
+[DABAI GURIGURI](#DABAI+GURIGURI)
 
-[DINA IBOUNAI KARAIA GURIGURI KWADOGINA](#DINA IBOUNAI KARAIA GURIGURI KWADOGINA)
+[DINA IBOUNAI KARAIA GURIGURI KWADOGINA](#DINA+IBOUNAI+KARAIA+GURIGURI+KWADOGINA)
 
-[DIRAVA ENA HEDURU GURIGURI](#DIRAVA ENA HEDURU GURIGURI)
+[DIRAVA ENA HEDURU GURIGURI](#DIRAVA+ENA+HEDURU+GURIGURI)
 
-[DIRAVA HANAMOA GURIGURI](#DIRAVA HANAMOA GURIGURI)
+[DIRAVA HANAMOA GURIGURI](#DIRAVA+HANAMOA+GURIGURI)
 
-[EREGABE TAUDIA EDIA GURIGURI](#EREGABE TAUDIA EDIA GURIGURI)
+[EREGABE TAUDIA EDIA GURIGURI](#EREGABE+TAUDIA+EDIA+GURIGURI)
 
-[GINI AUKA DIRAVA ENA MISINI DEKENAI](#GINI AUKA DIRAVA ENA MISINI DEKENAI)
+[GINI AUKA DIRAVA ENA MISINI DEKENAI](#GINI+AUKA+DIRAVA+ENA+MISINI+DEKENAI)
 
-[GORERE HANAMOA GURIGURI](#GORERE HANAMOA GURIGURI)
+[GORERE HANAMOA GURIGURI](#GORERE+HANAMOA+GURIGURI)
 
-[HANUABOI GURIGURI](#HANUABOI GURIGURI)
+[HANUABOI GURIGURI](#HANUABOI+GURIGURI)
 
-[KEKENI TAUDIA EDIA GURIGURI](#KEKENI TAUDIA EDIA GURIGURI)
+[KEKENI TAUDIA EDIA GURIGURI](#KEKENI+TAUDIA+EDIA+GURIGURI)
 
-[LAUMA HATUBUA GURIGURI](#LAUMA HATUBUA GURIGURI)
+[LAUMA HATUBUA GURIGURI](#LAUMA+HATUBUA+GURIGURI)
 
-[MAOROMAORO KARA ENA GURIGURI](#MAOROMAORO KARA ENA GURIGURI)
+[MAOROMAORO KARA ENA GURIGURI](#MAOROMAORO+KARA+ENA+GURIGURI)
 
-[NATUDIA EDIA GURIGURI](#NATUDIA EDIA GURIGURI)
+[NATUDIA EDIA GURIGURI](#NATUDIA+EDIA+GURIGURI)
 
-[TAMADIA BONA SINADIA EDIA GURIGURI](#TAMADIA BONA SINADIA EDIA GURIGURI)
+[TAMADIA BONA SINADIA EDIA GURIGURI](#TAMADIA+BONA+SINADIA+EDIA+GURIGURI)
 
-[TAUNIMANIMA HATAMONAIA GURIGURI](#TAUNIMANIMA HATAMONAIA GURIGURI)
+[TAUNIMANIMA HATAMONAIA GURIGURI](#TAUNIMANIMA+HATAMONAIA+GURIGURI)
 
 
 
-<a id="BAHÁ’Í TORETORE HELAGADIA HAIDA"></a> 
+<a id="BAH%C3%81%E2%80%99%C3%8D+TORETORE+HELAGADIA+HAIDA"></a> 
 ## BAHÁ’Í TORETORE HELAGADIA HAIDA
 
 <a id="bpn13049"></a> 
@@ -61,8 +61,7 @@ bpn13050 «[Hiri Motu](../ho/prayers/#bpn13050)»
 
 
 <a id="bpn13051"></a> 
-Noho Natuna e!
-Dina ta ta dekenai oi karaia kara oi lalodia, badina gabeai oiemu kara gwaurai hedinarai nega do ia ginidai…
+Noho Natuna e!Dina ta ta dekenai oi karaia kara oi lalodia, badina gabeai oiemu kara gwaurai hedinarai nega do ia ginidai…
 
 -- Bahá'u'lláh
 
@@ -142,7 +141,7 @@ bpn13058 «[Hiri Motu](../ho/prayers/#bpn13058)»
 
 
 <a id="bpn13059"></a> 
-"…hereva murinai kara ese kudouna ena diari ia habodoa bona lauma ena mauri ia hamasea."
+&#34;…hereva murinai kara ese kudouna ena diari ia habodoa bona lauma ena mauri ia hamasea.&#34;
 
 -- Bahá'u'lláh
 
@@ -222,7 +221,7 @@ bpn13066 «[Hiri Motu](../ho/prayers/#bpn13066)»
 
 
 
-<a id="DABAI GURIGURI"></a> 
+<a id="DABAI+GURIGURI"></a> 
 ## DABAI GURIGURI
 
 <a id="bpn13080"></a> 
@@ -236,13 +235,11 @@ bpn13080 «[Hiri Motu](../ho/prayers/#bpn13080)»
 
 
 
-<a id="DINA IBOUNAI KARAIA GURIGURI KWADOGINA"></a> 
+<a id="DINA+IBOUNAI+KARAIA+GURIGURI+KWADOGINA"></a> 
 ## DINA IBOUNAI KARAIA GURIGURI KWADOGINA
 
 <a id="bpn13067"></a> 
-Momokani lau hereva lauegu Dirava e,  Oi ese lau Oi karaia Oi lau diba bona lau tomadiho henia totona.  Lau gwauraia, harihari, lauegu manoka bona Oiemu goada dekenai, lauegu ogogami bona Oiemu kohu dekenai.
-
-Dirava ta be lasi, Oi sibona,  Durua Dika dekenai, Sibona Noho Diravana.
+Momokani lau hereva lauegu Dirava e,  Oi ese lau Oi karaia Oi lau diba bona lau tomadiho henia totona.  Lau gwauraia, harihari, lauegu manoka bona Oiemu goada dekenai, lauegu ogogami bona Oiemu kohu dekenai.Dirava ta be lasi, Oi sibona,  Durua Dika dekenai, Sibona Noho Diravana.
 
 -- Bahá'u'lláh
 
@@ -252,7 +249,7 @@ bpn13067 «[Hiri Motu](../ho/prayers/#bpn13067)»
 
 
 
-<a id="DIRAVA ENA HEDURU GURIGURI"></a> 
+<a id="DIRAVA+ENA+HEDURU+GURIGURI"></a> 
 ## DIRAVA ENA HEDURU GURIGURI
 
 <a id="bpn13068"></a> 
@@ -266,7 +263,7 @@ bpn13068 «[Hiri Motu](../ho/prayers/#bpn13068)»
 
 
 
-<a id="DIRAVA HANAMOA GURIGURI"></a> 
+<a id="DIRAVA+HANAMOA+GURIGURI"></a> 
 ## DIRAVA HANAMOA GURIGURI
 
 <a id="bpn13070"></a> 
@@ -280,7 +277,7 @@ bpn13070 «[Hiri Motu](../ho/prayers/#bpn13070)»
 
 
 
-<a id="EREGABE TAUDIA EDIA GURIGURI"></a> 
+<a id="EREGABE+TAUDIA+EDIA+GURIGURI"></a> 
 ## EREGABE TAUDIA EDIA GURIGURI
 
 <a id="bpn13076"></a> 
@@ -294,7 +291,7 @@ bpn13076 «[Hiri Motu](../ho/prayers/#bpn13076)»
 
 
 
-<a id="GINI AUKA DIRAVA ENA MISINI DEKENAI"></a> 
+<a id="GINI+AUKA+DIRAVA+ENA+MISINI+DEKENAI"></a> 
 ## GINI AUKA DIRAVA ENA MISINI DEKENAI
 
 <a id="bpn13082"></a> 
@@ -308,7 +305,7 @@ bpn13082 «[Hiri Motu](../ho/prayers/#bpn13082)»
 
 
 
-<a id="GORERE HANAMOA GURIGURI"></a> 
+<a id="GORERE+HANAMOA+GURIGURI"></a> 
 ## GORERE HANAMOA GURIGURI
 
 <a id="bpn13079"></a> 
@@ -322,15 +319,11 @@ bpn13079 «[Hiri Motu](../ho/prayers/#bpn13079)»
 
 
 
-<a id="HANUABOI GURIGURI"></a> 
+<a id="HANUABOI+GURIGURI"></a> 
 ## HANUABOI GURIGURI
 
 <a id="bpn13081"></a> 
-Lauegu Dirava e, lauegu Biaguna, lauegu ura ena Tahua Gauna!  Oiemu hesiai tauna ia ura mahuta Oiemu bogahisihisi ena keruma henunai.  Ia ura laga ani Oiemu hariharibada ena palai henunai bona Oi ia noinoi Oi naria bona Oi gimaia totona. 
-
-Lau noinoi lauegu Lohia e,  Oiemu mahuta lasi matana dekenai, lauegu matana Oi gimaia hegeregere gau ta lau itaia lasi, Oi sibona do lau itaia diba.   Vadaeni, lauegu matana Oi hagoadaia, hegeregere Oiemu toana bona Oiemu Hedinarai Gaudia ena guba bona tano dokona do lau itaia.    Oiemu siahu bada herea Oi hedinaraia neganai, siahu gaudia ibounai idia heudeheude. 
- 
-Dirava ta be lasi, Oi sibona, Siahu Ibounai Diravana.  Oi be gau ibounai Oi haduaia, bona gau ta do ia hegeregere lasi, Oi ia haduaia.
+Lauegu Dirava e, lauegu Biaguna, lauegu ura ena Tahua Gauna!  Oiemu hesiai tauna ia ura mahuta Oiemu bogahisihisi ena keruma henunai.  Ia ura laga ani Oiemu hariharibada ena palai henunai bona Oi ia noinoi Oi naria bona Oi gimaia totona. Lau noinoi lauegu Lohia e,  Oiemu mahuta lasi matana dekenai, lauegu matana Oi gimaia hegeregere gau ta lau itaia lasi, Oi sibona do lau itaia diba.   Vadaeni, lauegu matana Oi hagoadaia, hegeregere Oiemu toana bona Oiemu Hedinarai Gaudia ena guba bona tano dokona do lau itaia.    Oiemu siahu bada herea Oi hedinaraia neganai, siahu gaudia ibounai idia heudeheude.  Dirava ta be lasi, Oi sibona, Siahu Ibounai Diravana.  Oi be gau ibounai Oi haduaia, bona gau ta do ia hegeregere lasi, Oi ia haduaia.
 
 -- Bahá'u'lláh
 
@@ -340,7 +333,7 @@ bpn13081 «[Hiri Motu](../ho/prayers/#bpn13081)»
 
 
 
-<a id="KEKENI TAUDIA EDIA GURIGURI"></a> 
+<a id="KEKENI+TAUDIA+EDIA+GURIGURI"></a> 
 ## KEKENI TAUDIA EDIA GURIGURI
 
 <a id="bpn13075"></a> 
@@ -354,12 +347,11 @@ bpn13075 «[Hiri Motu](../ho/prayers/#bpn13075)»
 
 
 
-<a id="LAUMA HATUBUA GURIGURI"></a> 
+<a id="LAUMA+HATUBUA+GURIGURI"></a> 
 ## LAUMA HATUBUA GURIGURI
 
 <a id="bpn13078"></a> 
-Dirava e! Lauegu lauma Oi hanamoa bona hamoalea.  Lauegu kudouna Oi hagoevaia bona lauegu lalona Oi hadiaria.  Lauegu mauri gaudia ibounai lau henia Oiemu imana dekenai.  Oi be lauegu Hakaua Tauna bona Durua Tauna.  Do lau bogahisi bona lalohisi lasi, lau moale sibona.  Dirava e! do lau laloa momo lasi bona kerere ese ia hahisigu lasi.  Tanobada ena gau dikadia dekenai do lau laloa momo lasi.  
-Dirava e!  Oiemu lalokau lau dekenai be lauegu lalokau lau sibogu dekenai gauna ia hanaia.  Lauegu mauri lau henia Oi dekenai, Lohiabada e.
+Dirava e! Lauegu lauma Oi hanamoa bona hamoalea.  Lauegu kudouna Oi hagoevaia bona lauegu lalona Oi hadiaria.  Lauegu mauri gaudia ibounai lau henia Oiemu imana dekenai.  Oi be lauegu Hakaua Tauna bona Durua Tauna.  Do lau bogahisi bona lalohisi lasi, lau moale sibona.  Dirava e! do lau laloa momo lasi bona kerere ese ia hahisigu lasi.  Tanobada ena gau dikadia dekenai do lau laloa momo lasi.  Dirava e!  Oiemu lalokau lau dekenai be lauegu lalokau lau sibogu dekenai gauna ia hanaia.  Lauegu mauri lau henia Oi dekenai, Lohiabada e.
 
 -- Abdu'l-Bahá
 
@@ -369,7 +361,7 @@ bpn13078 «[Hiri Motu](../ho/prayers/#bpn13078)»
 
 
 
-<a id="MAOROMAORO KARA ENA GURIGURI"></a> 
+<a id="MAOROMAORO+KARA+ENA+GURIGURI"></a> 
 ## MAOROMAORO KARA ENA GURIGURI
 
 <a id="bpn13069"></a> 
@@ -383,7 +375,7 @@ bpn13069 «[Hiri Motu](../ho/prayers/#bpn13069)»
 
 
 
-<a id="NATUDIA EDIA GURIGURI"></a> 
+<a id="NATUDIA+EDIA+GURIGURI"></a> 
 ## NATUDIA EDIA GURIGURI
 
 <a id="bpn13072"></a> 
@@ -407,9 +399,7 @@ bpn13073 «[Hiri Motu](../ho/prayers/#bpn13073)»
 
 
 <a id="bpn13074"></a> 
-Lauegu Lohia e! Lauegu Lohia e!
-Lau be natuna maragina.  Lau Oi ubua Oiemu bogahisihisi ena rata dekenai.  Lau Oi hadibaia Oiemu lalokau ena kemena dekenai.  Oiemu sikuli dekenai lau Oi hadibaia bona  lau Oi hatubua dae namonamo, Oiemu hariharibada ena laulau henunai.  Dibura amo Oi atogu siri. Lamepa mai diaridiari dekenai Oi halaogu. Lalohisi dekena amo Oi ruhaigu.  Palauapalaua ta Oiemu palauapalaua uma dekenai Oi halaogu.  Lau Oi haduaia hegeregere lau be hesiai tauna Oiemu Iduara dekenai bona maoromaoro taudia edia ura bona edia kara Oi henigu.  Tanobada taunimanima durua tauna ta Oi halaogu, bona lauegu kwarana latanai mauri hanaihanai ena korona Oi atoa!  
-Momokani, Oi be mai Siahu, mai Goada, Itaia bona Kamonai Diravana.
+Lauegu Lohia e! Lauegu Lohia e!Lau be natuna maragina.  Lau Oi ubua Oiemu bogahisihisi ena rata dekenai.  Lau Oi hadibaia Oiemu lalokau ena kemena dekenai.  Oiemu sikuli dekenai lau Oi hadibaia bona  lau Oi hatubua dae namonamo, Oiemu hariharibada ena laulau henunai.  Dibura amo Oi atogu siri. Lamepa mai diaridiari dekenai Oi halaogu. Lalohisi dekena amo Oi ruhaigu.  Palauapalaua ta Oiemu palauapalaua uma dekenai Oi halaogu.  Lau Oi haduaia hegeregere lau be hesiai tauna Oiemu Iduara dekenai bona maoromaoro taudia edia ura bona edia kara Oi henigu.  Tanobada taunimanima durua tauna ta Oi halaogu, bona lauegu kwarana latanai mauri hanaihanai ena korona Oi atoa!  Momokani, Oi be mai Siahu, mai Goada, Itaia bona Kamonai Diravana.
 
 -- Abdu'l-Bahá
 
@@ -419,7 +409,7 @@ bpn13074 «[Hiri Motu](../ho/prayers/#bpn13074)»
 
 
 
-<a id="TAMADIA BONA SINADIA EDIA GURIGURI"></a> 
+<a id="TAMADIA+BONA+SINADIA+EDIA+GURIGURI"></a> 
 ## TAMADIA BONA SINADIA EDIA GURIGURI
 
 <a id="bpn13071"></a> 
@@ -433,7 +423,7 @@ bpn13071 «[Hiri Motu](../ho/prayers/#bpn13071)»
 
 
 
-<a id="TAUNIMANIMA HATAMONAIA GURIGURI"></a> 
+<a id="TAUNIMANIMA+HATAMONAIA+GURIGURI"></a> 
 ## TAUNIMANIMA HATAMONAIA GURIGURI
 
 <a id="bpn13077"></a> 

@@ -5,37 +5,37 @@ tags = ['lang=lt', 'prayerbook']
 
 
 
-[Asamblėja](#Asamblėja)
+[Asamblėja](#Asambl%C4%97ja)
 
 [Atleidimas](#Atleidimas)
 
-[Atsiribojimas ir sutvirtinimas](#Atsiribojimas ir sutvirtinimas)
+[Atsiribojimas ir sutvirtinimas](#Atsiribojimas+ir+sutvirtinimas)
 
-[Dvasinis tobulėjimas](#Dvasinis tobulėjimas)
+[Dvasinis tobulėjimas](#Dvasinis+tobul%C4%97jimas)
 
 [Gydymas](#Gydymas)
 
-[Išbandymai ir sunkumai](#Išbandymai ir sunkumai)
+[Išbandymai ir sunkumai](#I%C5%A1bandymai+ir+sunkumai)
 
 [Santuoka](#Santuoka)
 
 [Tarnavimas](#Tarnavimas)
 
-[Trumpa privalomoji malda](#Trumpa privalomoji malda)
+[Trumpa privalomoji malda](#Trumpa+privalomoji+malda)
 
-[Tėvai](#Tėvai)
+[Tėvai](#T%C4%97vai)
 
-[Už mirusiuosius](#Už mirusiuosius)
+[Už mirusiuosius](#U%C5%BE+mirusiuosius)
 
-[Vadovavimas ir pagalba](#Vadovavimas ir pagalba)
+[Vadovavimas ir pagalba](#Vadovavimas+ir+pagalba)
 
 [Vaikai](#Vaikai)
 
-[Žmonija](#Žmonija)
+[Žmonija](#%C5%BDmonija)
 
 
 
-<a id="Asamblėja"></a> 
+<a id="Asambl%C4%97ja"></a> 
 ## Asamblėja
 
 <a id="bpn8204"></a> 
@@ -53,8 +53,7 @@ bpn8204 «[Lietuvių](../lt/prayers/#bpn8204)»
 ## Atleidimas
 
 <a id="bpn8203"></a> 
-O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trūkumų, bet Tu esi Gailestingasis! Aš esu klaidų tamsybėje, bet Tu esi Atleidimo Šviesa!
-	Todėl, o Tu, Palankusis Dieve, atleisk mano nuodėmes, dovanok Tavo dovanas, nepastebėk mano trūkumų, suteik man prieglobstį, panardink mane į Savo Kantrybės Šaltinį ir pagydyk mane nuo visų ligų ir negalių. Apvalyk ir pašventink mane. Suteik man dalį Savo šventumo vandenų, kad išnyktų liūdesys ir sielvartas, atsirastų džiaugsmas ir laimė, nusiminimas ir beviltiškumas virstų džiugesiu ir pasitikėjimu, o narsa nugalėtų baimę. Iš tiesų Tu esi Atleidžiantis, Užjaučiantis, Tu esi Dosnusis, Mylimasis!
+O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trūkumų, bet Tu esi Gailestingasis! Aš esu klaidų tamsybėje, bet Tu esi Atleidimo Šviesa!Todėl, o Tu, Palankusis Dieve, atleisk mano nuodėmes, dovanok Tavo dovanas, nepastebėk mano trūkumų, suteik man prieglobstį, panardink mane į Savo Kantrybės Šaltinį ir pagydyk mane nuo visų ligų ir negalių. Apvalyk ir pašventink mane. Suteik man dalį Savo šventumo vandenų, kad išnyktų liūdesys ir sielvartas, atsirastų džiaugsmas ir laimė, nusiminimas ir beviltiškumas virstų džiugesiu ir pasitikėjimu, o narsa nugalėtų baimę. Iš tiesų Tu esi Atleidžiantis, Užjaučiantis, Tu esi Dosnusis, Mylimasis!
 
 -- Abdu'l-Bahá
 
@@ -64,13 +63,11 @@ bpn8203 «[Lietuvių](../lt/prayers/#bpn8203)»
 
 
 
-<a id="Atsiribojimas ir sutvirtinimas"></a> 
+<a id="Atsiribojimas+ir+sutvirtinimas"></a> 
 ## Atsiribojimas ir sutvirtinimas
 
 <a id="bpn8205"></a> 
-O Dieve, mano Dieve! Tu esi mano Viltis ir mano Mylimasis, mano aukščiausias Tikslas ir Troškimas! Didžiai nusižeminęs ir visiškai atsidavęs aš meldžiu Tave: paversk mane Savo meilės minaretu Tavo žemėje, Tavo pažinimo žiburiu tarp Tavo sutvėrimų ir dieviškojo dosnumo vėliava Tavo valdose. 
-Priskirk mane prie Savo tarnų, kurie išsižadėjo visko, išskyrus Tave, atsiribojo nuo praeinančių šio pasaulio dalykų ir išsilaisvino nuo tuščius prasimanymus skelbiančių pagundų. 
-Tegu mano širdį užplūsta džiaugsmas per Tavo karalystės sutvirtinimo dvasią, praskaidrink mano akis, matančias, kaip iš Tavo visagalės šlovės Karalystės nusileidžia dieviškosios pagalbos pulkai. Tu iš tiesų esi Visagalis, Visų Šlovingiausias, Visų Stipriausias.
+O Dieve, mano Dieve! Tu esi mano Viltis ir mano Mylimasis, mano aukščiausias Tikslas ir Troškimas! Didžiai nusižeminęs ir visiškai atsidavęs aš meldžiu Tave: paversk mane Savo meilės minaretu Tavo žemėje, Tavo pažinimo žiburiu tarp Tavo sutvėrimų ir dieviškojo dosnumo vėliava Tavo valdose. Priskirk mane prie Savo tarnų, kurie išsižadėjo visko, išskyrus Tave, atsiribojo nuo praeinančių šio pasaulio dalykų ir išsilaisvino nuo tuščius prasimanymus skelbiančių pagundų. Tegu mano širdį užplūsta džiaugsmas per Tavo karalystės sutvirtinimo dvasią, praskaidrink mano akis, matančias, kaip iš Tavo visagalės šlovės Karalystės nusileidžia dieviškosios pagalbos pulkai. Tu iš tiesų esi Visagalis, Visų Šlovingiausias, Visų Stipriausias.
 
 -- Abdu'l-Bahá
 
@@ -80,7 +77,7 @@ bpn8205 «[Lietuvių](../lt/prayers/#bpn8205)»
 
 
 
-<a id="Dvasinis tobulėjimas"></a> 
+<a id="Dvasinis+tobul%C4%97jimas"></a> 
 ## Dvasinis tobulėjimas
 
 <a id="bpn8189"></a> 
@@ -94,8 +91,7 @@ bpn8189 «[Lietuvių](../lt/prayers/#bpn8189)»
 
 
 <a id="bpn8190"></a> 
-O Dieve! Atgaivink ir pradžiugink mano sielą. Pašventink mano širdį. Apšviesk mano protą. Patikiu visus savo reikalus Tavo valiai. Tu esi mano Vadovas ir mano Prieglobstis. Daugiau nebeliūdėsiu ir nesielvartausiu, būsiu laiminga ir džiaugsminga būtybė. O Dieve, nuo šiol neleisiu nerimui ir rūpesčiams savęs slėgti, nepasiduosiu gyvenimo negandoms. 
-O Dieve! Tu esi man geresnis draugas už mane patį. Pasišvenčiu Tau, O Viešpatie!
+O Dieve! Atgaivink ir pradžiugink mano sielą. Pašventink mano širdį. Apšviesk mano protą. Patikiu visus savo reikalus Tavo valiai. Tu esi mano Vadovas ir mano Prieglobstis. Daugiau nebeliūdėsiu ir nesielvartausiu, būsiu laiminga ir džiaugsminga būtybė. O Dieve, nuo šiol neleisiu nerimui ir rūpesčiams savęs slėgti, nepasiduosiu gyvenimo negandoms. O Dieve! Tu esi man geresnis draugas už mane patį. Pasišvenčiu Tau, O Viešpatie!
 
 -- Abdu'l-Bahá
 
@@ -129,10 +125,7 @@ bpn8195 «[Lietuvių](../lt/prayers/#bpn8195)»
 
 
 <a id="bpn8196"></a> 
-Šlovė tebūnie Tau, o Viešpatie, mano Dieve! Aš maldauju Tave vardan Tavo Vardo, per kurį Tas, Kuris yra Tavo Grožis, buvo įkurdintas Tavo Reikalo soste, Tavo Vardo, per kurį Tu keiti ir surenki draugėn visus dalykus, ir kvieti juos atsiskaityti, ir atlygini jiems, ir išsaugai juos visus, ir visus išlaikai, ‒ aš maldauju Tave saugoti šią tarnaitę, kuri ieškojo prieglobsčio Tavyje, siekė To, Kuriame Tu Pats apsireiškei, paguodos ir visiškai pasitikėjo bei pasikliovė Tavimi. 
-Ji serga, o mano Dieve, ir įžengė į Tavo gydymo Medžio šešėlį; kenčianti ji rado priebėgą Tavo saugumo Mieste; ligota ji ieškojo Tavo malonių Šaltinio; visiškai suirzusi ji skubėjo pasiekti Tavo ramybės Upelį; apsunkusi nuo nuodėmių ji atsuko veidą į Tavo atlaidumo teismą.
-Apdovanok ją dėl Savo aukščiausiosios valdžios ir maloningo gerumo, o mano Dieve ir mano Mylimasis, Tavo paguodos ir išgydymo apdaru ir priversk ją gerti iš Tavo gailestingumo ir malonių taurės. Saugok ją taip pat nuo visų sunkumų ir negalių, nuo viso skausmo ir ligų, nuo bet ko, kas Tau galėtų būti atgrasu. 
-Tu iš tiesų esi labiausiai išaukštintas virš visko, išskyrus Tave. Tu išties esi Gydytojas, Visa Suteikiantis, Saugotojas, Visa Atleidžiantis, Gailestingiausias.
+Šlovė tebūnie Tau, o Viešpatie, mano Dieve! Aš maldauju Tave vardan Tavo Vardo, per kurį Tas, Kuris yra Tavo Grožis, buvo įkurdintas Tavo Reikalo soste, Tavo Vardo, per kurį Tu keiti ir surenki draugėn visus dalykus, ir kvieti juos atsiskaityti, ir atlygini jiems, ir išsaugai juos visus, ir visus išlaikai, ‒ aš maldauju Tave saugoti šią tarnaitę, kuri ieškojo prieglobsčio Tavyje, siekė To, Kuriame Tu Pats apsireiškei, paguodos ir visiškai pasitikėjo bei pasikliovė Tavimi. Ji serga, o mano Dieve, ir įžengė į Tavo gydymo Medžio šešėlį; kenčianti ji rado priebėgą Tavo saugumo Mieste; ligota ji ieškojo Tavo malonių Šaltinio; visiškai suirzusi ji skubėjo pasiekti Tavo ramybės Upelį; apsunkusi nuo nuodėmių ji atsuko veidą į Tavo atlaidumo teismą.Apdovanok ją dėl Savo aukščiausiosios valdžios ir maloningo gerumo, o mano Dieve ir mano Mylimasis, Tavo paguodos ir išgydymo apdaru ir priversk ją gerti iš Tavo gailestingumo ir malonių taurės. Saugok ją taip pat nuo visų sunkumų ir negalių, nuo viso skausmo ir ligų, nuo bet ko, kas Tau galėtų būti atgrasu. Tu iš tiesų esi labiausiai išaukštintas virš visko, išskyrus Tave. Tu išties esi Gydytojas, Visa Suteikiantis, Saugotojas, Visa Atleidžiantis, Gailestingiausias.
 
 -- Bahá'u'lláh
 
@@ -142,7 +135,7 @@ bpn8196 «[Lietuvių](../lt/prayers/#bpn8196)»
 
 
 
-<a id="Išbandymai ir sunkumai"></a> 
+<a id="I%C5%A1bandymai+ir+sunkumai"></a> 
 ## Išbandymai ir sunkumai
 
 <a id="bpn8192"></a> 
@@ -166,9 +159,7 @@ bpn8193 «[Lietuvių](../lt/prayers/#bpn8193)»
 
 
 <a id="bpn8194"></a> 
-Jis yra Gailiaširdis, Maloningiausiasis! 
-O Dieve, mano Dieve! Tu matai mane, Tu pažįsti mane. Tu esi mano Prieglobstis ir mano Išsigelbėjimas. Nieko aš neieškojau ir nieko neieškosiu –tik Tavęs; nėjau ir neisiu jokiu kitu tik Tavo meilės keliu. Tamsioje nusivylimo naktyje mano akys, su tikėjimu ir viltimi, nukreiptos į Tavo begalinės malonės rytą, auštant mano nuliūdusi siela atgyja ir sustiprėja prisiminusi Tavo grožį ir tobulybę. Tas, kuriam padeda Tavo gailestingumo malonė, nors jis tebūtų lašelis, pavirs bekraščiu vandenynu, o mažiausia dalelė, kuriai padeda Tavo meilingas gerumas, švytės kaip spinduliuojanti žvaigždė. 
-Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis Teikėjas, šį sužavėtą ir įkvėptą Tavo tarną. Padėk jam šiame žemiškame pasaulyje išlikti tvirtam ir nepajudinamam Tavo meilėje ir pasirūpink, kad šis paukštis sulaužytu sparnu rastų išsigelbėjimą ir prieglobstį Tavo dieviškame lizde, susuktame dangiškame medyje.
+Jis yra Gailiaširdis, Maloningiausiasis! O Dieve, mano Dieve! Tu matai mane, Tu pažįsti mane. Tu esi mano Prieglobstis ir mano Išsigelbėjimas. Nieko aš neieškojau ir nieko neieškosiu –tik Tavęs; nėjau ir neisiu jokiu kitu tik Tavo meilės keliu. Tamsioje nusivylimo naktyje mano akys, su tikėjimu ir viltimi, nukreiptos į Tavo begalinės malonės rytą, auštant mano nuliūdusi siela atgyja ir sustiprėja prisiminusi Tavo grožį ir tobulybę. Tas, kuriam padeda Tavo gailestingumo malonė, nors jis tebūtų lašelis, pavirs bekraščiu vandenynu, o mažiausia dalelė, kuriai padeda Tavo meilingas gerumas, švytės kaip spinduliuojanti žvaigždė. Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis Teikėjas, šį sužavėtą ir įkvėptą Tavo tarną. Padėk jam šiame žemiškame pasaulyje išlikti tvirtam ir nepajudinamam Tavo meilėje ir pasirūpink, kad šis paukštis sulaužytu sparnu rastų išsigelbėjimą ir prieglobstį Tavo dieviškame lizde, susuktame dangiškame medyje.
 
 -- Abdu'l-Bahá
 
@@ -206,15 +197,11 @@ bpn8201 «[Lietuvių](../lt/prayers/#bpn8201)»
 
 
 
-<a id="Trumpa privalomoji malda"></a> 
+<a id="Trumpa+privalomoji+malda"></a> 
 ## Trumpa privalomoji malda
 
 <a id="bpn8207"></a> 
-##Trumpa privalomoji malda
-
-*(Turi būti sakoma vieną kartą per dieną tarp vidurdienio ir saulėlydžio.)
-	Aš tvirtinu, o mano Dieve: Tu sukūrei mane, kad pažinčiau ir garbinčiau Tave. Aš byloju šią akimirką apie savo bejėgiškumą ir Tavo galią, apie savo skurdą ir Tavo turtą. 
-	Nėra kito Dievo, tik Tu, Pagalba Pavojuje, Savaime Esąs.
+##Trumpa privalomoji malda*(Turi būti sakoma vieną kartą per dieną tarp vidurdienio ir saulėlydžio.)Aš tvirtinu, o mano Dieve: Tu sukūrei mane, kad pažinčiau ir garbinčiau Tave. Aš byloju šią akimirką apie savo bejėgiškumą ir Tavo galią, apie savo skurdą ir Tavo turtą. Nėra kito Dievo, tik Tu, Pagalba Pavojuje, Savaime Esąs.
 
 -- Bahá'u'lláh
 
@@ -224,7 +211,7 @@ bpn8207 «[Lietuvių](../lt/prayers/#bpn8207)»
 
 
 
-<a id="Tėvai"></a> 
+<a id="T%C4%97vai"></a> 
 ## Tėvai
 
 <a id="bpn8199"></a> 
@@ -238,13 +225,11 @@ bpn8199 «[Lietuvių](../lt/prayers/#bpn8199)»
 
 
 
-<a id="Už mirusiuosius"></a> 
+<a id="U%C5%BE+mirusiuosius"></a> 
 ## Už mirusiuosius
 
 <a id="bpn8200"></a> 
-O mano Dieve! O Tu, nuodėmių atleidėjau, dovanų teikėjau, sielvarto išsklaidytojau! 
-Iš tiesų aš meldžiu Tave atleisti nuodėmes tų, kurie paliko savo fizinį apdarą ir pakilo į dvasinį pasaulį.
-O mano Viešpatie! Apvalyk juos nuo nuodėmių, išsklaidyk jų liūdesį, paversk jų tamsybes į šviesą. Leisk jiems įžengti į laimės sodą, nuprausk juos tyriausiu vandeniu ir leisk pažvelgti į Tavo puikumą ant didingiausiojo kalno.
+O mano Dieve! O Tu, nuodėmių atleidėjau, dovanų teikėjau, sielvarto išsklaidytojau! Iš tiesų aš meldžiu Tave atleisti nuodėmes tų, kurie paliko savo fizinį apdarą ir pakilo į dvasinį pasaulį.O mano Viešpatie! Apvalyk juos nuo nuodėmių, išsklaidyk jų liūdesį, paversk jų tamsybes į šviesą. Leisk jiems įžengti į laimės sodą, nuprausk juos tyriausiu vandeniu ir leisk pažvelgti į Tavo puikumą ant didingiausiojo kalno.
 
 -- Abdu'l-Bahá
 
@@ -254,18 +239,11 @@ bpn8200 «[Lietuvių](../lt/prayers/#bpn8200)»
 
 
 
-<a id="Vadovavimas ir pagalba"></a> 
+<a id="Vadovavimas+ir+pagalba"></a> 
 ## Vadovavimas ir pagalba
 
 <a id="bpn8187"></a> 
-O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš kreipiu savo širdį.
-O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitikiu Tavimi.
-	Todėl suteiki man Savo pagalbą, kad tapčiau nepriklausomas nuo nieko, o Tu, Kuris esi nepralenkiamas Savo gailestingumu!
-	Suteiki man mano dalį, o Viešpatie, pagal Tavo norą ir padėk man džiaugtis viskuo, ką bepaskirtum.
-	Tu turi neribotą valdžios galią.
- Babas
-
-	O Dieve, vesk mane, saugok mane, paversk mane šviečiančiu žiburiu ir spindinčia žvaigžde. Tu esi Galingas ir Stiprus
+O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš kreipiu savo širdį.O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitikiu Tavimi.Todėl suteiki man Savo pagalbą, kad tapčiau nepriklausomas nuo nieko, o Tu, Kuris esi nepralenkiamas Savo gailestingumu!Suteiki man mano dalį, o Viešpatie, pagal Tavo norą ir padėk man džiaugtis viskuo, ką bepaskirtum.Tu turi neribotą valdžios galią. BabasO Dieve, vesk mane, saugok mane, paversk mane šviečiančiu žiburiu ir spindinčia žvaigžde. Tu esi Galingas ir Stiprus
 
 -- Abdu'l-Bahá
 
@@ -309,18 +287,11 @@ bpn8198 «[Lietuvių](../lt/prayers/#bpn8198)»
 
 
 
-<a id="Žmonija"></a> 
+<a id="%C5%BDmonija"></a> 
 ## Žmonija
 
 <a id="bpn8202"></a> 
-O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norėdamas, kad visi būtų viena šeima. Jie yra Tavo šventosios Esybės tarnai ir visa žmonija yra Tavo globoje po Tavo Priedanga. Visi susibūrę prie Tavo dosnaus stalo ir visi apšviesti Tavo Apvaizdos spinduliuojančia šviesa. 
-	O Dieve! Tu esi maloningas visiems, Tu aprūpini visus, Tu priglaudi visus, Tu visiems suteiki gyvybę. Tu apdovanojai visus gabumais ir talentais, visi yra pasinėrę į Tavo Malonės Vandenyną.
-	O maloningasis Viešpatie! Suvienyk visus, sutaikyk visas religijas, suteik vienybę visoms tautoms. Tegul visi jaučiasi vienos šeimos nariais, tebūnie visa žemė kaip vieni namai. Tebendrauja jie vieningumo ir santarvės dvasioje. 
-	O Dieve! Iškelk žmonijos vienybės vėliavą! 
-	O Dieve! Padėk Didžiosios Taikos pamatus! 
-	Sujunk visas širdis, o Dieve! 
-	O maloningasis Tėve, Dieve! Pradžiugink mūsų širdis Savo meilės aromatu! Apšviesk mūsų akis Savo Vadovavimo šviesa, pradžiugink mūsų klausą Savo Žodžio muzika ir suteik mums prieglobstį Tavo Apvaizdos Tvirtovėje. 
-	Tu esi Galingas ir Visagalis! Tu atleidi žmonių silpnybes.
+O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norėdamas, kad visi būtų viena šeima. Jie yra Tavo šventosios Esybės tarnai ir visa žmonija yra Tavo globoje po Tavo Priedanga. Visi susibūrę prie Tavo dosnaus stalo ir visi apšviesti Tavo Apvaizdos spinduliuojančia šviesa. O Dieve! Tu esi maloningas visiems, Tu aprūpini visus, Tu priglaudi visus, Tu visiems suteiki gyvybę. Tu apdovanojai visus gabumais ir talentais, visi yra pasinėrę į Tavo Malonės Vandenyną.O maloningasis Viešpatie! Suvienyk visus, sutaikyk visas religijas, suteik vienybę visoms tautoms. Tegul visi jaučiasi vienos šeimos nariais, tebūnie visa žemė kaip vieni namai. Tebendrauja jie vieningumo ir santarvės dvasioje. O Dieve! Iškelk žmonijos vienybės vėliavą! O Dieve! Padėk Didžiosios Taikos pamatus! Sujunk visas širdis, o Dieve! O maloningasis Tėve, Dieve! Pradžiugink mūsų širdis Savo meilės aromatu! Apšviesk mūsų akis Savo Vadovavimo šviesa, pradžiugink mūsų klausą Savo Žodžio muzika ir suteik mums prieglobstį Tavo Apvaizdos Tvirtovėje. Tu esi Galingas ir Visagalis! Tu atleidi žmonių silpnybes.
 
 -- Abdu'l-Bahá
 

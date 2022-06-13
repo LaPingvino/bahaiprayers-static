@@ -5,35 +5,35 @@ tags = ['lang=dgz', 'prayerbook']
 
 
 
-[Ayop Was Taragasepen U’uraewa (Praise)](#Ayop Was Taragasepen U’uraewa (Praise))
+[Ayop Was Taragasepen U’uraewa (Praise)](#Ayop+Was+Taragasepen+U%E2%80%99uraewa+%28Praise%29)
 
-[Baigan U’uraewa (Unity)](#Baigan U’uraewa (Unity))
+[Baigan U’uraewa (Unity)](#Baigan+U%E2%80%99uraewa+%28Unity%29)
 
-[Bop U’uraewa (Burial)](#Bop U’uraewa (Burial))
+[Bop U’uraewa (Burial)](#Bop+U%E2%80%99uraewa+%28Burial%29)
 
-[Daiyo Manimani U’uraewa (Travel)](#Daiyo Manimani U’uraewa (Travel))
+[Daiyo Manimani U’uraewa (Travel)](#Daiyo+Manimani+U%E2%80%99uraewa+%28Travel%29)
 
-[Ewat Virip Tapen U’uraewa (The Fast)](#Ewat Virip Tapen U’uraewa (The Fast))
+[Ewat Virip Tapen U’uraewa (The Fast)](#Ewat+Virip+Tapen+U%E2%80%99uraewa+%28The+Fast%29)
 
-[Koewa Toborapen U’uraewa (Assistance)](#Koewa Toborapen U’uraewa (Assistance))
+[Koewa Toborapen U’uraewa (Assistance)](#Koewa+Toborapen+U%E2%80%99uraewa+%28Assistance%29)
 
-[Marek Iyanupe U’uraewa (Short Obligatory Prayer)](#Marek Iyanupe U’uraewa (Short Obligatory Prayer))
+[Marek Iyanupe U’uraewa (Short Obligatory Prayer)](#Marek+Iyanupe+U%E2%80%99uraewa+%28Short+Obligatory+Prayer%29)
 
-[Nainit (Wedding Vow)](#Nainit (Wedding Vow))
+[Nainit (Wedding Vow)](#Nainit+%28Wedding+Vow%29)
 
-[Nainit U’uraewa  (Marriage)](#Nainit U’uraewa  (Marriage))
+[Nainit U’uraewa  (Marriage)](#Nainit+U%E2%80%99uraewa++%28Marriage%29)
 
-[Orup Otua U'ura Mugawa  (Children)](#Orup Otua U'ura Mugawa  (Children))
+[Orup Otua U&#39;ura Mugawa  (Children)](#Orup+Otua+U%27ura+Mugawa++%28Children%29)
 
-[Vek Waeto U’uraaea (Healing)](#Vek Waeto U’uraaea (Healing))
+[Vek Waeto U’uraaea (Healing)](#Vek+Waeto+U%E2%80%99uraaea+%28Healing%29)
 
-[Wadidi I’uraewa (Teaching)](#Wadidi I’uraewa (Teaching))
+[Wadidi I’uraewa (Teaching)](#Wadidi+I%E2%80%99uraewa+%28Teaching%29)
 
-[Wat Aimagam U’uraewa (Blessed Is the Spot)](#Wat Aimagam U’uraewa (Blessed Is the Spot))
+[Wat Aimagam U’uraewa (Blessed Is the Spot)](#Wat+Aimagam+U%E2%80%99uraewa+%28Blessed+Is+the+Spot%29)
 
 
 
-<a id="Ayop Was Taragasepen U’uraewa (Praise)"></a> 
+<a id="Ayop+Was+Taragasepen+U%E2%80%99uraewa+%28Praise%29"></a> 
 ## Ayop Was Taragasepen U’uraewa (Praise)
 
 <a id="bpn13006"></a> 
@@ -47,7 +47,7 @@ bpn13006 «[Daga](../dgz/prayers/#bpn13006)»
 
 
 
-<a id="Baigan U’uraewa (Unity)"></a> 
+<a id="Baigan+U%E2%80%99uraewa+%28Unity%29"></a> 
 ## Baigan U’uraewa (Unity)
 
 <a id="bpn12997"></a> 
@@ -61,40 +61,11 @@ bpn12997 «[Daga](../dgz/prayers/#bpn12997)»
 
 
 
-<a id="Bop U’uraewa (Burial)"></a> 
+<a id="Bop+U%E2%80%99uraewa+%28Burial%29"></a> 
 ## Bop U’uraewa (Burial)
 
 <a id="bpn13002"></a> 
-*Bop U’uraewa ma orup bodu muga aonagaet nani yambun uon tan (15) mugenat den wain amba wa munain.  U’ura ma megenat Bahá’í uruga iyam iyam ta wain.  Ma orup daiton megenat wapi amba uruga ao paina yonain.  At bowarewa gambena eya toenta nain.  (Kitáb-i-Aqdas)
-
-
-Maman!  Ma Ge nao gega apanewa osuwa, Ge anusumat tageni amba Ge pauwa gega den, amba gine namu genan toentanen dim dim uruga imuwarat tan Ge gegenat anusumat taiga.  Ge gegenat ipiri, bagusisi nunan anuianawa.  Irewa yao, Ge Da bigip muga imu warat taianawa amba ta bambam nuga wat wagianawa, Ge gese upuru Gega pae pose gapan dotauvep.  Me yaibobot wandep.  Maman da siya uon, Ge gegenat, koewa imuwarat taiyanawa, wamwam nunianawa puiman mine inap ta, amba piup ge kiman eya venaseni Ge bagusisi gega kanama apa wanden.  Maman ra den siga uon Ge gegenat taedi wamwam koewa nuga Imuwarat taianawa, Uruga Nunianawa. 
-
-*Ma den wapen pauwa nani yamben daiton (6) gaun Alláh-u-Abhá wata amba den pauwa (19) mugenat nop ma daiton daiton wa vitait.
-
-Alláh-u-Abhá! 
-
- Nu uruga ipiri kaut maman inap enuinit. (19)
-
-Alláh-u-Abhá!
-
-Nu uruga ipiri omaninu Maman inap poponagianit. (19)
-
-Alláh-u-Abhá!
-
-Nu uruga ipiri bumaganu Maman wanianit.(19)
-
-Alláh-u-Abhá !
-
-Nu uruga ipiri wat taragat Maman wat taragasinit. (19)
-
-Alláh-u-Abhá!
-
-Nu uruga ipiri gaun Maman inap waiyanit. (19)
-
-Alláh-u-Abhá!
-
-Nu uruga ipiri Kwataem momon Maman inap taiyanit. (19)
+*Bop U’uraewa ma orup bodu muga aonagaet nani yambun uon tan (15) mugenat den wain amba wa munain.  U’ura ma megenat Bahá’í uruga iyam iyam ta wain.  Ma orup daiton megenat wapi amba uruga ao paina yonain.  At bowarewa gambena eya toenta nain.  (Kitáb-i-Aqdas)Maman!  Ma Ge nao gega apanewa osuwa, Ge anusumat tageni amba Ge pauwa gega den, amba gine namu genan toentanen dim dim uruga imuwarat tan Ge gegenat anusumat taiga.  Ge gegenat ipiri, bagusisi nunan anuianawa.  Irewa yao, Ge Da bigip muga imu warat taianawa amba ta bambam nuga wat wagianawa, Ge gese upuru Gega pae pose gapan dotauvep.  Me yaibobot wandep.  Maman da siya uon, Ge gegenat, koewa imuwarat taiyanawa, wamwam nunianawa puiman mine inap ta, amba piup ge kiman eya venaseni Ge bagusisi gega kanama apa wanden.  Maman ra den siga uon Ge gegenat taedi wamwam koewa nuga Imuwarat taianawa, Uruga Nunianawa. *Ma den wapen pauwa nani yamben daiton (6) gaun Alláh-u-Abhá wata amba den pauwa (19) mugenat nop ma daiton daiton wa vitait.Alláh-u-Abhá!  Nu uruga ipiri kaut maman inap enuinit. (19)Alláh-u-Abhá!Nu uruga ipiri omaninu Maman inap poponagianit. (19)Alláh-u-Abhá!Nu uruga ipiri bumaganu Maman wanianit.(19)Alláh-u-Abhá !Nu uruga ipiri wat taragat Maman wat taragasinit. (19)Alláh-u-Abhá!Nu uruga ipiri gaun Maman inap waiyanit. (19)Alláh-u-Abhá!Nu uruga ipiri Kwataem momon Maman inap taiyanit. (19)
 
 -- Bahá'u'lláh
 
@@ -114,7 +85,7 @@ bpn13003 «[Daga](../dgz/prayers/#bpn13003)»
 
 
 
-<a id="Daiyo Manimani U’uraewa (Travel)"></a> 
+<a id="Daiyo+Manimani+U%E2%80%99uraewa+%28Travel%29"></a> 
 ## Daiyo Manimani U’uraewa (Travel)
 
 <a id="bpn13007"></a> 
@@ -128,13 +99,11 @@ bpn13007 «[Daga](../dgz/prayers/#bpn13007)»
 
 
 
-<a id="Ewat Virip Tapen U’uraewa (The Fast)"></a> 
+<a id="Ewat+Virip+Tapen+U%E2%80%99uraewa+%28The+Fast%29"></a> 
 ## Ewat Virip Tapen U’uraewa (The Fast)
 
 <a id="bpn13004"></a> 
-Wat taragat iragi kwiman Ayop ge inagap.  Iwa Ge wam sisip ma potap ganat wat magatam baran.  Ap menan den nop gega ase wat aroga baran menan amba da ne den wat ago tanek.
-
-Wat taragat irani kwiman Ayop ge inagap.  Ne ao bariangin Ge inagap aroe gan sisip iniram toentane ganat venasen Dima opata yaunewa ge ibari ap gapan amnata yonana amba ise magatam tan amba den ase wat arogamean.  Ap menan oyama wasuena vise ne aiganap amba mu aigamup den waenapan ansena tobot taton negin daiton anitoniwa nagirewa.  Ao yone nu ago nune ainagat nimanep magunu mine venasep ao kwiman pae pose dune ganase potap unun anet.  Ap mepe nu bigip madoga nuga iragi ise bigiwaranep, baigan yaunewa tamanam nun.  Ne Ayop negawa! Ne orup ap di nonup baigan gega taniwa ginap watnatan amba Ge bagusisi ge aton gega den inamup.  Maman Ge dimat tamanam tane amba den ne imuna potana wareni nagire dere piup ma kakaewa megawa amba piup namunupe tau wepi den.
+Wat taragat iragi kwiman Ayop ge inagap.  Iwa Ge wam sisip ma potap ganat wat magatam baran.  Ap menan den nop gega ase wat aroga baran menan amba da ne den wat ago tanek.Wat taragat irani kwiman Ayop ge inagap.  Ne ao bariangin Ge inagap aroe gan sisip iniram toentane ganat venasen Dima opata yaunewa ge ibari ap gapan amnata yonana amba ise magatam tan amba den ase wat arogamean.  Ap menan oyama wasuena vise ne aiganap amba mu aigamup den waenapan ansena tobot taton negin daiton anitoniwa nagirewa.  Ao yone nu ago nune ainagat nimanep magunu mine venasep ao kwiman pae pose dune ganase potap unun anet.  Ap mepe nu bigip madoga nuga iragi ise bigiwaranep, baigan yaunewa tamanam nun.  Ne Ayop negawa! Ne orup ap di nonup baigan gega taniwa ginap watnatan amba Ge bagusisi ge aton gega den inamup.  Maman Ge dimat tamanam tane amba den ne imuna potana wareni nagire dere piup ma kakaewa megawa amba piup namunupe tau wepi den.
 
 -- Bahá'u'lláh
 
@@ -144,9 +113,7 @@ bpn13004 «[Daga](../dgz/prayers/#bpn13004)»
 
 
 <a id="bpn13005"></a> 
-*Ewat virip tapen siragam `Alá (Aigap) wam derewa (2) gapan aepi wam apane daiton (20) gapan uon tata.  Yaumak ap gapan ewat go kaum da marek eya dotauvepi gapan nata aepi wam geyarepi pauwa.  Yaumak ma guwanu aro wanapen, ao wasupen wamewa.  Orup en muga (15) gauwarap virip eya tain, waen bagurenawa, orup am nainiwa vek denawa, amba waenapan tanewa den.
-
-Ne esuna ewat mega virip taiyangin taba ge kaum den virip taiyangin.  Ap menan bumagana bigi wat, wat aimagam ona da ugupe men eya anup mek Gegenat taet di, anut koewa tantanewa okom taunek, ae amat tanek Ge gaup gega kakaewa ne guwana kwayup tap, amba ap Ge iwa Gegenat genan ae amat Gega tain.
+*Ewat virip tapen siragam `Alá (Aigap) wam derewa (2) gapan aepi wam apane daiton (20) gapan uon tata.  Yaumak ap gapan ewat go kaum da marek eya dotauvepi gapan nata aepi wam geyarepi pauwa.  Yaumak ma guwanu aro wanapen, ao wasupen wamewa.  Orup en muga (15) gauwarap virip eya tain, waen bagurenawa, orup am nainiwa vek denawa, amba waenapan tanewa den.Ne esuna ewat mega virip taiyangin taba ge kaum den virip taiyangin.  Ap menan bumagana bigi wat, wat aimagam ona da ugupe men eya anup mek Gegenat taet di, anut koewa tantanewa okom taunek, ae amat tanek Ge gaup gega kakaewa ne guwana kwayup tap, amba ap Ge iwa Gegenat genan ae amat Gega tain.
 
 -- Abdu'l-Bahá
 
@@ -156,7 +123,7 @@ bpn13005 «[Daga](../dgz/prayers/#bpn13005)»
 
 
 
-<a id="Koewa Toborapen U’uraewa (Assistance)"></a> 
+<a id="Koewa+Toborapen+U%E2%80%99uraewa+%28Assistance%29"></a> 
 ## Koewa Toborapen U’uraewa (Assistance)
 
 <a id="bpn12996"></a> 
@@ -170,25 +137,11 @@ bpn12996 «[Daga](../dgz/prayers/#bpn12996)»
 
 
 
-<a id="Marek Iyanupe U’uraewa (Short Obligatory Prayer)"></a> 
+<a id="Marek+Iyanupe+U%E2%80%99uraewa+%28Short+Obligatory+Prayer%29"></a> 
 ## Marek Iyanupe U’uraewa (Short Obligatory Prayer)
 
 <a id="bpn12995"></a> 
-*U’ura ma marek iyanupe wainapen.  Marek iyanupe aeni usu marek ae visen.  Iwa Maman iup megawa.  Namu pusin nanin ge ginan namun bigi warat amba toentanet tanam arige gambenaen yonat wat.
-
-Ne ipiri wakakayatsiagin, O Ayop negawa Ge tavenat nimanegeyan menan, Ge ne imuwasuat negawa inagap amba Genan aeamat taigain.
-
-
-
-
-
-
-
-
-
-
-
-Ne ipiri wakakayatsiagin endi mari, ne aroyan uon amba Ge amun gega gapan. Ne vidi gorowa orup da amba Ge enpuraput iapanewa. Ayop raren siga uon ap Ge Gegenat ri, koewa wamewa nenan Aeamat amba Ge Yaibobot.
+*U’ura ma marek iyanupe wainapen.  Marek iyanupe aeni usu marek ae visen.  Iwa Maman iup megawa.  Namu pusin nanin ge ginan namun bigi warat amba toentanet tanam arige gambenaen yonat wat.Ne ipiri wakakayatsiagin, O Ayop negawa Ge tavenat nimanegeyan menan, Ge ne imuwasuat negawa inagap amba Genan aeamat taigain.Ne ipiri wakakayatsiagin endi mari, ne aroyan uon amba Ge amun gega gapan. Ne vidi gorowa orup da amba Ge enpuraput iapanewa. Ayop raren siga uon ap Ge Gegenat ri, koewa wamewa nenan Aeamat amba Ge Yaibobot.
 
 -- Bahá'u'lláh
 
@@ -198,13 +151,11 @@ bpn12995 «[Daga](../dgz/prayers/#bpn12995)»
 
 
 
-<a id="Nainit (Wedding Vow)"></a> 
+<a id="Nainit+%28Wedding+Vow%29"></a> 
 ## Nainit (Wedding Vow)
 
 <a id="bpn13085"></a> 
-Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas)
-
-“Nu uruga, Ipiwa gapan Maman iup mega ae amat tait.”
+Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas)“Nu uruga, Ipiwa gapan Maman iup mega ae amat tait.”
 
 -- Bahá'u'lláh
 
@@ -214,15 +165,11 @@ bpn13085 «[Daga](../dgz/prayers/#bpn13085)»
 
 
 
-<a id="Nainit U’uraewa  (Marriage)"></a> 
+<a id="Nainit+U%E2%80%99uraewa++%28Marriage%29"></a> 
 ## Nainit U’uraewa  (Marriage)
 
 <a id="bpn12999"></a> 
-* Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas)
-
- 
-
-Wat Ganatam Iragi, Maman!  Ipiri ma ge nao gega apanewa amba Ge nao gega waenewa iyam iyam taiyamun, Ge iyan tantan ge, Ge bagusisi gega gam amba mu baigan Ge anumunana gapan wanumop.  Ayop! Wat ago mun piup ma gapan amba yaibobot Gega arewa gam mu wat aimagam mum Ge gese upuru gega gapan.  Ayop! Gindak mun amba wat ago mumigan ae nao gega tap.  Tamanam mum mu ge nao gega wat matagamep, Ge piup gega gapan amba kwayup Gega gan naumo ak, yon sum eya tap piup ma gapan amba namumupe.  Ayop! Mu sitatao kayawan.  Ge gegenat inagap waiamun.  Ipiri mu nainit Ge Iup gega wana gapan ae amat tain.  Amat tamo amba mu baigan wae uon ta amoinuman wam muga uwewa pauwa gapan.  Ipiri Ge gegenat yonbot apanewa, Wandebobot apanewa amba Aro apanewa.
+* Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas) Wat Ganatam Iragi, Maman!  Ipiri ma ge nao gega apanewa amba Ge nao gega waenewa iyam iyam taiyamun, Ge iyan tantan ge, Ge bagusisi gega gam amba mu baigan Ge anumunana gapan wanumop.  Ayop! Wat ago mun piup ma gapan amba yaibobot Gega arewa gam mu wat aimagam mum Ge gese upuru gega gapan.  Ayop! Gindak mun amba wat ago mumigan ae nao gega tap.  Tamanam mum mu ge nao gega wat matagamep, Ge piup gega gapan amba kwayup Gega gan naumo ak, yon sum eya tap piup ma gapan amba namumupe.  Ayop! Mu sitatao kayawan.  Ge gegenat inagap waiamun.  Ipiri mu nainit Ge Iup gega wana gapan ae amat tain.  Amat tamo amba mu baigan wae uon ta amoinuman wam muga uwewa pauwa gapan.  Ipiri Ge gegenat yonbot apanewa, Wandebobot apanewa amba Aro apanewa.
 
 -- Abdu'l-Bahá
 
@@ -232,8 +179,8 @@ bpn12999 «[Daga](../dgz/prayers/#bpn12999)»
 
 
 
-<a id="Orup Otua U'ura Mugawa  (Children)"></a> 
-## Orup Otua U'ura Mugawa  (Children)
+<a id="Orup+Otua+U%27ura+Mugawa++%28Children%29"></a> 
+## Orup Otua U&#39;ura Mugawa  (Children)
 
 <a id="bpn13000"></a> 
 Maman!  Tamanam nimanek, kwayup tanek, dun mine wat ganatam nimanek amba buwanae ganase mine tap.  Ge aro amba Ge amun.
@@ -266,7 +213,7 @@ bpn13001 «[Daga](../dgz/prayers/#bpn13001)»
 
 
 
-<a id="Vek Waeto U’uraaea (Healing)"></a> 
+<a id="Vek+Waeto+U%E2%80%99uraaea+%28Healing%29"></a> 
 ## Vek Waeto U’uraaea (Healing)
 
 <a id="bpn12998"></a> 
@@ -280,7 +227,7 @@ bpn12998 «[Daga](../dgz/prayers/#bpn12998)»
 
 
 
-<a id="Wadidi I’uraewa (Teaching)"></a> 
+<a id="Wadidi+I%E2%80%99uraewa+%28Teaching%29"></a> 
 ## Wadidi I’uraewa (Teaching)
 
 <a id="bpn13008"></a> 
@@ -294,7 +241,7 @@ bpn13008 «[Daga](../dgz/prayers/#bpn13008)»
 
 
 
-<a id="Wat Aimagam U’uraewa (Blessed Is the Spot)"></a> 
+<a id="Wat+Aimagam+U%E2%80%99uraewa+%28Blessed+Is+the+Spot%29"></a> 
 ## Wat Aimagam U’uraewa (Blessed Is the Spot)
 
 <a id="bpn12994"></a> 

@@ -5,47 +5,45 @@ tags = ['lang=kgf', 'prayerbook']
 
 
 
-[Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu](#Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu)
+[Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu](#Ac+Mosoc+Hoto%C5%8B%C5%8Ba+Kaiwe+S%C3%AAc+Mep%C3%AAsima+Kecmu)
 
-[Eu Iniŋ Onac Memeseli Ac Mosoc](#Eu Iniŋ Onac Memeseli Ac Mosoc)
+[Eu Iniŋ Onac Memeseli Ac Mosoc](#Eu+Ini%C5%8B+Onac+Memeseli+Ac+Mosoc)
 
-[Eu Iniŋ Onac Memeseli Mosoc Ara](#Eu Iniŋ Onac Memeseli Mosoc Ara)
+[Eu Iniŋ Onac Memeseli Mosoc Ara](#Eu+Ini%C5%8B+Onac+Memeseli+Mosoc+Ara)
 
-[Ewa Niŋ Gêsiac Ac Mosoc](#Ewa Niŋ Gêsiac Ac Mosoc)
+[Ewa Niŋ Gêsiac Ac Mosoc](#Ewa+Ni%C5%8B+G%C3%AAsiac+Ac+Mosoc)
 
-[Humuc Zêzêtec Ac Mosoc](#Humuc Zêzêtec Ac Mosoc)
+[Humuc Zêzêtec Ac Mosoc](#Humuc+Z%C3%AAz%C3%AAtec+Ac+Mosoc)
 
-[Hêna Hiawac Ac Mosoc](#Hêna Hiawac Ac Mosoc)
+[Hêna Hiawac Ac Mosoc](#H%C3%AAna+Hiawac+Ac+Mosoc)
 
-[Kêpêsic Zêzêtec Ac Mosoc](#Kêpêsic Zêzêtec Ac Mosoc)
+[Kêpêsic Zêzêtec Ac Mosoc](#K%C3%AAp%C3%AAsic+Z%C3%AAz%C3%AAtec+Ac+Mosoc)
 
-[Merac Onac Kewu Mosoc](#Merac Onac Kewu Mosoc)
+[Merac Onac Kewu Mosoc](#Merac+Onac+Kewu+Mosoc)
 
-[Nene Sigi Kekec Imuac Ac Mosoc](#Nene Sigi Kekec Imuac Ac Mosoc)
+[Nene Sigi Kekec Imuac Ac Mosoc](#Nene+Sigi+Kekec+Imuac+Ac+Mosoc)
 
-[Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc](#Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc)
+[Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc](#Qutula%C5%8B+Ewa+Momac+Kekec+Imuac+Ac+Mosoc)
 
-[Siŋi Horuwia Wac Ac Mosoc](#Siŋi Horuwia Wac Ac Mosoc)
+[Siŋi Horuwia Wac Ac Mosoc](#Si%C5%8Bi+Horuwia+Wac+Ac+Mosoc)
 
-[Siŋiawac Ac Mosoc](#Siŋiawac Ac Mosoc)
+[Siŋiawac Ac Mosoc](#Si%C5%8Biawac+Ac+Mosoc)
 
-[Siŋunec Ac Mosoc](#Siŋunec Ac Mosoc)
+[Siŋunec Ac Mosoc](#Si%C5%8Bunec+Ac+Mosoc)
 
-[Uŋwambuŋga Baecsêc](#Uŋwambuŋga Baecsêc)
+[Uŋwambuŋga Baecsêc](#U%C5%8Bwambu%C5%8Bga+Baecs%C3%AAc)
 
-[Uŋŋa Memeseli Ac Mosoc](#Uŋŋa Memeseli Ac Mosoc)
+[Uŋŋa Memeseli Ac Mosoc](#U%C5%8B%C5%8Ba+Memeseli+Ac+Mosoc)
 
-[Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Yaŋ Hafi Nesimac Imuac Ac Mosoc)
+[Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc)
 
 
 
-<a id="Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu"></a> 
+<a id="Ac+Mosoc+Hoto%C5%8B%C5%8Ba+Kaiwe+S%C3%AAc+Mep%C3%AAsima+Kecmu"></a> 
 ## Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu
 
 <a id="bpn13034"></a> 
-*Imuac hêna ara yomi hêmma mêndacmu.  Bahá’í keczu momacmomac keczu kaiwe sêc ac yomi zêkecmu hatac momacguc.  Naleiguc.  Zêma maria kaiwe kiwa hiŋgacmac imi tecgêmac.  Mêraga zuacma.  Kicga zuacma, wêsêgina meleŋgic kaiwe memea iguc keŋŋu namma ac youmi olommu.
-
-O Kewu.  Ni deguc kaiwe ya mepêsi gênzua.  Imuac yomuhuc zêʒua, ni ic nenesicya wamba geŋgaoc nêpêsiʒaŋ.  Gi kecna andegu mêŋ mênda keczac.  Geŋgacnec keczaŋ zêra hicŋi nêmbac niŋac galeŋgê nêŋna.  Gi geŋgaocnec galeŋgê amuʒaŋ.
+*Imuac hêna ara yomi hêmma mêndacmu.  Bahá’í keczu momacmomac keczu kaiwe sêc ac yomi zêkecmu hatac momacguc.  Naleiguc.  Zêma maria kaiwe kiwa hiŋgacmac imi tecgêmac.  Mêraga zuacma.  Kicga zuacma, wêsêgina meleŋgic kaiwe memea iguc keŋŋu namma ac youmi olommu.O Kewu.  Ni deguc kaiwe ya mepêsi gênzua.  Imuac yomuhuc zêʒua, ni ic nenesicya wamba geŋgaoc nêpêsiʒaŋ.  Gi kecna andegu mêŋ mênda keczac.  Geŋgacnec keczaŋ zêra hicŋi nêmbac niŋac galeŋgê nêŋna.  Gi geŋgaocnec galeŋgê amuʒaŋ.
 
 -- Bahá'u'lláh
 
@@ -55,7 +53,7 @@ bpn13034 «[Kube](../kgf/prayers/#bpn13034)»
 
 
 
-<a id="Eu Iniŋ Onac Memeseli Ac Mosoc"></a> 
+<a id="Eu+Ini%C5%8B+Onac+Memeseli+Ac+Mosoc"></a> 
 ## Eu Iniŋ Onac Memeseli Ac Mosoc
 
 <a id="bpn13039"></a> 
@@ -69,13 +67,11 @@ bpn13039 «[Kube](../kgf/prayers/#bpn13039)»
 
 
 
-<a id="Eu Iniŋ Onac Memeseli Mosoc Ara"></a> 
+<a id="Eu+Ini%C5%8B+Onac+Memeseli+Mosoc+Ara"></a> 
 ## Eu Iniŋ Onac Memeseli Mosoc Ara
 
 <a id="bpn13038"></a> 
-*Hêna ara youmi hêmma mêndacmu.  Eu iniŋ memeseli ara mutulaŋgê êrêc miwiŋ zêma Eu iniŋ orac zêzêtec memeseli ara ic kiwa hêna oriŋ kic iguc zêselimaoc.  Ic koaya eneŋ Bahá’u’lláh wac ac zêra imuacnec mêndacma zêma meseli êrêcmimac.  Ac imi Kitáb-i-Aqdas, iguc heʒac.  Imi yomuhuc heʒac.
-
-Imi hêlacnec, nini moczoŋ Kewu nêŋêna Ewa siŋ hêna zêyec imuacnec mêndacbiŋ.
+*Hêna ara youmi hêmma mêndacmu.  Eu iniŋ memeseli ara mutulaŋgê êrêc miwiŋ zêma Eu iniŋ orac zêzêtec memeseli ara ic kiwa hêna oriŋ kic iguc zêselimaoc.  Ic koaya eneŋ Bahá’u’lláh wac ac zêra imuacnec mêndacma zêma meseli êrêcmimac.  Ac imi Kitáb-i-Aqdas, iguc heʒac.  Imi yomuhuc heʒac.Imi hêlacnec, nini moczoŋ Kewu nêŋêna Ewa siŋ hêna zêyec imuacnec mêndacbiŋ.
 
 -- Bahá'u'lláh
 
@@ -85,7 +81,7 @@ bpn13038 «[Kube](../kgf/prayers/#bpn13038)»
 
 
 
-<a id="Ewa Niŋ Gêsiac Ac Mosoc"></a> 
+<a id="Ewa+Ni%C5%8B+G%C3%AAsiac+Ac+Mosoc"></a> 
 ## Ewa Niŋ Gêsiac Ac Mosoc
 
 <a id="bpn13044"></a> 
@@ -99,44 +95,11 @@ bpn13044 «[Kube](../kgf/prayers/#bpn13044)»
 
 
 
-<a id="Humuc Zêzêtec Ac Mosoc"></a> 
+<a id="Humuc+Z%C3%AAz%C3%AAtec+Ac+Mosoc"></a> 
 ## Humuc Zêzêtec Ac Mosoc
 
 <a id="bpn13041"></a> 
-*Hêna ara yomuhuc.  Qamoc haiwing imi walac Kewu mosoc zêtecgêmu.  Andia iguc qamoc haimu, qamoc imi, Embacŋŋê waŋŋu zêmu.  Ai Embac youmi ai embac gawac merac.  Imi zêma qamoc baec iguc haimu.
-
-O Kewu Yanda.  Youmi ai icgawac merac.  Ai icga imi geŋga sac ninzêŋ gêgêŋ anzac.  Zêma mepêsigêŋanzac degucmi wêsêya meleŋu geŋga moru haʒac.  Sêwêlawac kekec baec iguc kekec andê qema geŋga mêru haʒac.  O Kewu, hiagaŋê baec iguc kekec hia imi ogicdaczac.  Uŋaninawac ninzêŋ ninzêŋ imiŋê sêwiac kekec ninzêŋ ninzêŋ imi ogicdaczac.  Gi kêpêcsic waiwai kewuna.  Uŋawac kekec mindiŋ mindiŋŋi Kewu Yanda.  Kurumeŋ gawac kekec asacmararaŋ gaŋŋê qezericna uŋwambuŋ gawac siri temboŋa qeru kecmac.  Kekecseli nagu yanda auna wêsêgu hayu Kewu goi hei hei Luaega baec kurumeŋ mênda hicŋiyu imuaru nec heyec ac heʒac hemakecmac.  Kewu gi kecna andegu mêŋ mênda keczac.  Gi gengacnec kecnec imuhu yanec keczaŋ.  Waŋŋu meŋuc kecbêsêmaŋ.  Gi kêpêcsic waiwai miŋina.  Gi uŋa kekec mêriaŋ miŋina keczaŋ.
-
-*Ac youmi zêgic 6 wammac Alláh-u-Abhá.  Ac boŋa 6 yomi nanzu imi ac boŋa momacmomac oloŋma zêgic 19 wammac: 
-
-Alláh-u-Abhá 
-
-Imi hêlacnec, neŋaŋ Kewu mepêsini.
-(19 wammac)
-
-Alláh-u-Abhá
-
-Imi hêlacnec, neŋaŋ Kewu simiŋ heimini.
-(19 wammac)
-
-Alláh-u-Abhá 
-
-Imi hêlacnec, neŋaŋ Kewu mêndac mini.
-(19 wammac)
-Alláh-u-Abhá 
-
-Imi hêlacnec, neŋaŋ Kewu buŋaya meyacni.
-(19 wammac)
-
-Alláh-u-Abhá 
-
-Imi hêlacnec, neŋaŋ Kewu saiwap zêmini.
-(19 wammac)
-
-Alláh-u-Abhá
-
-Imi hêlacnec, neŋaŋ Kewuguc bênzêŋ kecni.
-(19 wammac)
+*Hêna ara yomuhuc.  Qamoc haiwing imi walac Kewu mosoc zêtecgêmu.  Andia iguc qamoc haimu, qamoc imi, Embacŋŋê waŋŋu zêmu.  Ai Embac youmi ai embac gawac merac.  Imi zêma qamoc baec iguc haimu.O Kewu Yanda.  Youmi ai icgawac merac.  Ai icga imi geŋga sac ninzêŋ gêgêŋ anzac.  Zêma mepêsigêŋanzac degucmi wêsêya meleŋu geŋga moru haʒac.  Sêwêlawac kekec baec iguc kekec andê qema geŋga mêru haʒac.  O Kewu, hiagaŋê baec iguc kekec hia imi ogicdaczac.  Uŋaninawac ninzêŋ ninzêŋ imiŋê sêwiac kekec ninzêŋ ninzêŋ imi ogicdaczac.  Gi kêpêcsic waiwai kewuna.  Uŋawac kekec mindiŋ mindiŋŋi Kewu Yanda.  Kurumeŋ gawac kekec asacmararaŋ gaŋŋê qezericna uŋwambuŋ gawac siri temboŋa qeru kecmac.  Kekecseli nagu yanda auna wêsêgu hayu Kewu goi hei hei Luaega baec kurumeŋ mênda hicŋiyu imuaru nec heyec ac heʒac hemakecmac.  Kewu gi kecna andegu mêŋ mênda keczac.  Gi gengacnec kecnec imuhu yanec keczaŋ.  Waŋŋu meŋuc kecbêsêmaŋ.  Gi kêpêcsic waiwai miŋina.  Gi uŋa kekec mêriaŋ miŋina keczaŋ.*Ac youmi zêgic 6 wammac Alláh-u-Abhá.  Ac boŋa 6 yomi nanzu imi ac boŋa momacmomac oloŋma zêgic 19 wammac: Alláh-u-Abhá Imi hêlacnec, neŋaŋ Kewu mepêsini.(19 wammac)Alláh-u-AbháImi hêlacnec, neŋaŋ Kewu simiŋ heimini.(19 wammac)Alláh-u-Abhá Imi hêlacnec, neŋaŋ Kewu mêndac mini.(19 wammac)Alláh-u-Abhá Imi hêlacnec, neŋaŋ Kewu buŋaya meyacni.(19 wammac)Alláh-u-Abhá Imi hêlacnec, neŋaŋ Kewu saiwap zêmini.(19 wammac)Alláh-u-AbháImi hêlacnec, neŋaŋ Kewuguc bênzêŋ kecni.(19 wammac)
 
 -- Bahá'u'lláh
 
@@ -146,7 +109,7 @@ bpn13041 «[Kube](../kgf/prayers/#bpn13041)»
 
 
 
-<a id="Hêna Hiawac Ac Mosoc"></a> 
+<a id="H%C3%AAna+Hiawac+Ac+Mosoc"></a> 
 ## Hêna Hiawac Ac Mosoc
 
 <a id="bpn13048"></a> 
@@ -160,7 +123,7 @@ bpn13048 «[Kube](../kgf/prayers/#bpn13048)»
 
 
 
-<a id="Kêpêsic Zêzêtec Ac Mosoc"></a> 
+<a id="K%C3%AAp%C3%AAsic+Z%C3%AAz%C3%AAtec+Ac+Mosoc"></a> 
 ## Kêpêsic Zêzêtec Ac Mosoc
 
 <a id="bpn13035"></a> 
@@ -174,7 +137,7 @@ bpn13035 «[Kube](../kgf/prayers/#bpn13035)»
 
 
 
-<a id="Merac Onac Kewu Mosoc"></a> 
+<a id="Merac+Onac+Kewu+Mosoc"></a> 
 ## Merac Onac Kewu Mosoc
 
 <a id="bpn13040"></a> 
@@ -188,13 +151,11 @@ bpn13040 «[Kube](../kgf/prayers/#bpn13040)»
 
 
 
-<a id="Nene Sigi Kekec Imuac Ac Mosoc"></a> 
+<a id="Nene+Sigi+Kekec+Imuac+Ac+Mosoc"></a> 
 ## Nene Sigi Kekec Imuac Ac Mosoc
 
 <a id="bpn13042"></a> 
-*So imuac henia yomuhuc mêndacmu.  Maso nale qara `Alá ou Mas 2 hênima kemma Mas 20 tecgêmac kaiwe 19.  Imi kaiwe kiwa mênda êrêyu yaka nemu.  Êrêʒac imi eŋ kecmu kenkecma hiŋgaru nenedoku nemu.  Ic Embac selia ŋê kecmu.  Yanda – hafiguc – meracguc – hêriguc imi qahac.  Ic Embac hiaselia ŋê hia sigi kecmu.  Imuac uŋwambuŋ kuc meseli ênêcmimac.  Imi sigunec kaiwe êrêyu keŋkecma hiŋgaru tecgêmac siŋŋia nenedoku hia nemu.
-
-O Kewu, guac uŋwambuŋ.  Ni sêwina wac kekec imi mênda ninʒêŋ geʒua.  Ni guac ac tohoma nene sigi kecmaŋ.  Nenedoku waima kecmaŋ.  Imuac nuac qerina zuacna asarima têrêya wamma guac sing nuac moru hemac.  Waŋŋu galeŋgê nênna uŋana siŋ ikora iguc mênda kecmac.  Uŋana geŋga luhuc têrêya iminêŋ me-effiyu têrêya wammac.  Waŋŋu nuac uŋana kekec ikora imi waidacma geŋga ac koazêcga hêla imisac hêntegicma imuac sêc mêndacma kecmaŋ geŋga wêsêga iguc.
+*So imuac henia yomuhuc mêndacmu.  Maso nale qara `Alá ou Mas 2 hênima kemma Mas 20 tecgêmac kaiwe 19.  Imi kaiwe kiwa mênda êrêyu yaka nemu.  Êrêʒac imi eŋ kecmu kenkecma hiŋgaru nenedoku nemu.  Ic Embac selia ŋê kecmu.  Yanda – hafiguc – meracguc – hêriguc imi qahac.  Ic Embac hiaselia ŋê hia sigi kecmu.  Imuac uŋwambuŋ kuc meseli ênêcmimac.  Imi sigunec kaiwe êrêyu keŋkecma hiŋgaru tecgêmac siŋŋia nenedoku hia nemu.O Kewu, guac uŋwambuŋ.  Ni sêwina wac kekec imi mênda ninʒêŋ geʒua.  Ni guac ac tohoma nene sigi kecmaŋ.  Nenedoku waima kecmaŋ.  Imuac nuac qerina zuacna asarima têrêya wamma guac sing nuac moru hemac.  Waŋŋu galeŋgê nênna uŋana siŋ ikora iguc mênda kecmac.  Uŋana geŋga luhuc têrêya iminêŋ me-effiyu têrêya wammac.  Waŋŋu nuac uŋana kekec ikora imi waidacma geŋga ac koazêcga hêla imisac hêntegicma imuac sêc mêndacma kecmaŋ geŋga wêsêga iguc.
 
 -- Abdu'l-Bahá
 
@@ -204,7 +165,7 @@ bpn13042 «[Kube](../kgf/prayers/#bpn13042)»
 
 
 
-<a id="Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc"></a> 
+<a id="Qutula%C5%8B+Ewa+Momac+Kekec+Imuac+Ac+Mosoc"></a> 
 ## Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc
 
 <a id="bpn13036"></a> 
@@ -218,13 +179,11 @@ bpn13036 «[Kube](../kgf/prayers/#bpn13036)»
 
 
 
-<a id="Siŋi Horuwia Wac Ac Mosoc"></a> 
+<a id="Si%C5%8Bi+Horuwia+Wac+Ac+Mosoc"></a> 
 ## Siŋi Horuwia Wac Ac Mosoc
 
 <a id="bpn13046"></a> 
-*Ic mêŋŋê ac hêla hocmac.  imuac kewu nêŋ uŋa kicga aumac zêma gi kewu selia nec qesi mima niŋ selima hêmbipia iguc tacma qesi mina:
-
-O Nemu Yanda, Ni ewa qerina melemba geŋgamoru tilêŋtilêŋ kucgawac qeru haʒac geŋga moru sac hiwa haʒac waŋŋu geŋga kucyandaga qeriaguc hiwa haʒac.  O Nemu, hia mindiŋŋina uŋanawac kiwa hiwa hayu geŋga asac gaŋŋê qerina wac kifaya ze asariyiu siŋi yomuaru uŋana niniŋ kuc hiabia memac.  Waŋŋu mindiŋŋina tilêŋtilêŋ  kucga sêcgê nêmmac.  Waŋŋu ni sêgisêgi yanda mihicŋimaŋ.  O Nemu Yanda. Gezacna mindiŋŋina nuruʒaŋ imi nimba kurumeŋ nagu auna hiaga hêmba kekec hia wac kuc ganêŋ hêrê nêŋŋu.  Imi hêla, geŋaoc asacmararaŋ miŋŋina geŋga hiaiguc nopocna.  Geŋga tilêŋtilêŋ qeru kecmaŋ.
+*Ic mêŋŋê ac hêla hocmac.  imuac kewu nêŋ uŋa kicga aumac zêma gi kewu selia nec qesi mima niŋ selima hêmbipia iguc tacma qesi mina:O Nemu Yanda, Ni ewa qerina melemba geŋgamoru tilêŋtilêŋ kucgawac qeru haʒac geŋga moru sac hiwa haʒac waŋŋu geŋga kucyandaga qeriaguc hiwa haʒac.  O Nemu, hia mindiŋŋina uŋanawac kiwa hiwa hayu geŋga asac gaŋŋê qerina wac kifaya ze asariyiu siŋi yomuaru uŋana niniŋ kuc hiabia memac.  Waŋŋu mindiŋŋina tilêŋtilêŋ  kucga sêcgê nêmmac.  Waŋŋu ni sêgisêgi yanda mihicŋimaŋ.  O Nemu Yanda. Gezacna mindiŋŋina nuruʒaŋ imi nimba kurumeŋ nagu auna hiaga hêmba kekec hia wac kuc ganêŋ hêrê nêŋŋu.  Imi hêla, geŋaoc asacmararaŋ miŋŋina geŋga hiaiguc nopocna.  Geŋga tilêŋtilêŋ qeru kecmaŋ.
 
 -- Abdu'l-Bahá
 
@@ -234,7 +193,7 @@ bpn13046 «[Kube](../kgf/prayers/#bpn13046)»
 
 
 
-<a id="Siŋiawac Ac Mosoc"></a> 
+<a id="Si%C5%8Biawac+Ac+Mosoc"></a> 
 ## Siŋiawac Ac Mosoc
 
 <a id="bpn13045"></a> 
@@ -248,7 +207,7 @@ bpn13045 «[Kube](../kgf/prayers/#bpn13045)»
 
 
 
-<a id="Siŋunec Ac Mosoc"></a> 
+<a id="Si%C5%8Bunec+Ac+Mosoc"></a> 
 ## Siŋunec Ac Mosoc
 
 <a id="bpn13047"></a> 
@@ -262,7 +221,7 @@ bpn13047 «[Kube](../kgf/prayers/#bpn13047)»
 
 
 
-<a id="Uŋwambuŋga Baecsêc"></a> 
+<a id="U%C5%8Bwambu%C5%8Bga+Baecs%C3%AAc"></a> 
 ## Uŋwambuŋga Baecsêc
 
 <a id="bpn13033"></a> 
@@ -276,7 +235,7 @@ bpn13033 «[Kube](../kgf/prayers/#bpn13033)»
 
 
 
-<a id="Uŋŋa Memeseli Ac Mosoc"></a> 
+<a id="U%C5%8B%C5%8Ba+Memeseli+Ac+Mosoc"></a> 
 ## Uŋŋa Memeseli Ac Mosoc
 
 <a id="bpn13043"></a> 
@@ -290,7 +249,7 @@ bpn13043 «[Kube](../kgf/prayers/#bpn13043)»
 
 
 
-<a id="Yaŋ Hafi Nesimac Imuac Ac Mosoc"></a> 
+<a id="Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc"></a> 
 ## Yaŋ Hafi Nesimac Imuac Ac Mosoc
 
 <a id="bpn13037"></a> 

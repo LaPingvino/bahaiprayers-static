@@ -9,23 +9,23 @@ tags = ['lang=se', 'prayerbook']
 
 [Eahket](#Eahket)
 
-[Geahččalusat ja váttisvuođat](#Geahččalusat ja váttisvuođat)
+[Geahččalusat ja váttisvuođat](#Geah%C4%8D%C4%8Dalusat+ja+v%C3%A1ttisvuo%C4%91at)
 
 [Geatnegasvuohta](#Geatnegasvuohta)
 
-[Iđit](#Iđit)
+[Iđit](#I%C4%91it)
 
-[Lagašvuohta Ipmilii](#Lagašvuohta Ipmilii)
+[Lagašvuohta Ipmilii](#Laga%C5%A1vuohta+Ipmilii)
 
 [Luovvaneapmi](#Luovvaneapmi)
 
-[Mánát](#Mánát)
+[Mánát](#M%C3%A1n%C3%A1t)
 
 [Oktavuohta](#Oktavuohta)
 
-[Váinniid beales](#Váinniid beales)
+[Váinniid beales](#V%C3%A1inniid+beales)
 
-[Čoahkkaneapmi](#Čoahkkaneapmi)
+[Čoahkkaneapmi](#%C4%8Coahkkaneapmi)
 
 
 
@@ -57,7 +57,7 @@ bpn12207 «[Sámi](../se/prayers/#bpn12207)»
 
 
 
-<a id="Geahččalusat ja váttisvuođat"></a> 
+<a id="Geah%C4%8D%C4%8Dalusat+ja+v%C3%A1ttisvuo%C4%91at"></a> 
 ## Geahččalusat ja váttisvuođat
 
 <a id="bpn12216"></a> 
@@ -115,7 +115,7 @@ bpn12204 «[Sámi](../se/prayers/#bpn12204)»
 
 
 
-<a id="Iđit"></a> 
+<a id="I%C4%91it"></a> 
 ## Iđit
 
 <a id="bpn12206"></a> 
@@ -129,11 +129,11 @@ bpn12206 «[Sámi](../se/prayers/#bpn12206)»
 
 
 
-<a id="Lagašvuohta Ipmilii"></a> 
+<a id="Laga%C5%A1vuohta+Ipmilii"></a> 
 ## Lagašvuohta Ipmilii
 
 <a id="bpn12208"></a> 
-Du njálgga hájat agálašvuođa rávnnjiin atte mu juhkat, O Ipmilan, ja Du leahkima muora heđemiid divtte mu smáhket, O Doaivun. Du ráhkisvuođa kristállagálduin divtte mu juhkat, O Gudnán, ja Du agibai' bisti láđisvuođa suoivanii divtte mu ásaiduvvat, O Čuovgan. Du lagašvuođa niittuin, Du leahkima ovddas divtte mu nagodit vádjolit, O Ráhkásan, ja Du árpmu ruvnnu olgešgieđa bealde atte munnje čohkkánsaji, O Hállun. Du njálggahájat ilu vuoiŋŋanasaid divtte bossut badjelasan, O Ulbmilan, ja Du duohtavuođa paradiissa allodagaide divtte mu beassat sisa, O mu Hervošeami mearri. Du oktavuođa duvvá šuoŋaid atte mu gullat, O Don guhte leat čuovgi, ja Du fámu vuoiŋŋa ja mávtta bokte ealáskahte mu, O Sállejeaddján. Du ráhkisvuođa vuoiŋŋain doala mu nanusin, O mu Biebmi ja Du miellabuori bálgá alde daga lávkkiidan sihkkarin, O Sivdnideaddján! Jápmemeahttunvuođat šaddogárddis, Du čábbodaga ovddas, divtte mu orodit agibeaivve, O Don guhte leat árbmugas munnje, ja Du gudni čohkkánsaji ala bija mu, O Don guhte leat mu Oamasteaddji. Du ráhkisteaddji láđisvuođa albmái bajit mu, O mu Ealáskahtti, ja Du oahpistusa guovssonásttiin láide mu, O Don mu Geasuheaddji. Atte mu leat Du oaidnemeahttun almmustusa ovddas, O Don guhte leat mu álgu ja stuorimus doaivva, ja Du čábbodaga njálgga hájaid sisa, maid Don almmustuhtát, divtte mu máhccat, O Don guhte leat mu Ipmil. Fámolaš leat Don dahkat dan, maid háliidat. Don leat duođalaččat Rámiduvvon, Šearradamos, Buot Alimus.
+Du njálgga hájat agálašvuođa rávnnjiin atte mu juhkat, O Ipmilan, ja Du leahkima muora heđemiid divtte mu smáhket, O Doaivun. Du ráhkisvuođa kristállagálduin divtte mu juhkat, O Gudnán, ja Du agibai&#39; bisti láđisvuođa suoivanii divtte mu ásaiduvvat, O Čuovgan. Du lagašvuođa niittuin, Du leahkima ovddas divtte mu nagodit vádjolit, O Ráhkásan, ja Du árpmu ruvnnu olgešgieđa bealde atte munnje čohkkánsaji, O Hállun. Du njálggahájat ilu vuoiŋŋanasaid divtte bossut badjelasan, O Ulbmilan, ja Du duohtavuođa paradiissa allodagaide divtte mu beassat sisa, O mu Hervošeami mearri. Du oktavuođa duvvá šuoŋaid atte mu gullat, O Don guhte leat čuovgi, ja Du fámu vuoiŋŋa ja mávtta bokte ealáskahte mu, O Sállejeaddján. Du ráhkisvuođa vuoiŋŋain doala mu nanusin, O mu Biebmi ja Du miellabuori bálgá alde daga lávkkiidan sihkkarin, O Sivdnideaddján! Jápmemeahttunvuođat šaddogárddis, Du čábbodaga ovddas, divtte mu orodit agibeaivve, O Don guhte leat árbmugas munnje, ja Du gudni čohkkánsaji ala bija mu, O Don guhte leat mu Oamasteaddji. Du ráhkisteaddji láđisvuođa albmái bajit mu, O mu Ealáskahtti, ja Du oahpistusa guovssonásttiin láide mu, O Don mu Geasuheaddji. Atte mu leat Du oaidnemeahttun almmustusa ovddas, O Don guhte leat mu álgu ja stuorimus doaivva, ja Du čábbodaga njálgga hájaid sisa, maid Don almmustuhtát, divtte mu máhccat, O Don guhte leat mu Ipmil. Fámolaš leat Don dahkat dan, maid háliidat. Don leat duođalaččat Rámiduvvon, Šearradamos, Buot Alimus.
 
 -- Bahá'u'lláh
 
@@ -187,12 +187,11 @@ bpn12220 «[Sámi](../se/prayers/#bpn12220)»
 
 
 
-<a id="Mánát"></a> 
+<a id="M%C3%A1n%C3%A1t"></a> 
 ## Mánát
 
 <a id="bpn12212"></a> 
-O Ipmil! Čuvge dáid mánáid. Dát mánát leat Du heđengárddi šattut, Du niittu rásit, Du
-šaddogárddi ruvssut. Divtte arvvát láktadit sin; atte Duohtavuođa Beaivváža ráhkisvuođainat báitit sin ala. Divtte Vuoiŋŋanasat virkkosmahttit sin nu, ahte sii ahtanuššet, šaddet ja ovdánit ja čuvget geažehis čábbodagas. Don leat árvvas. Don leat láđisváimmot.
+O Ipmil! Čuvge dáid mánáid. Dát mánát leat Du heđengárddi šattut, Du niittu rásit, Dušaddogárddi ruvssut. Divtte arvvát láktadit sin; atte Duohtavuođa Beaivváža ráhkisvuođainat báitit sin ala. Divtte Vuoiŋŋanasat virkkosmahttit sin nu, ahte sii ahtanuššet, šaddet ja ovdánit ja čuvget geažehis čábbodagas. Don leat árvvas. Don leat láđisváimmot.
 
 -- Abdu'l-Bahá
 
@@ -236,7 +235,7 @@ bpn12215 «[Sámi](../se/prayers/#bpn12215)»
 
 
 
-<a id="Váinniid beales"></a> 
+<a id="V%C3%A1inniid+beales"></a> 
 ## Váinniid beales
 
 <a id="bpn12222"></a> 
@@ -250,7 +249,7 @@ bpn12222 «[Sámi](../se/prayers/#bpn12222)»
 
 
 
-<a id="Čoahkkaneapmi"></a> 
+<a id="%C4%8Coahkkaneapmi"></a> 
 ## Čoahkkaneapmi
 
 <a id="bpn12205"></a> 

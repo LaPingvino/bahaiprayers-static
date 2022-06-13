@@ -5,45 +5,45 @@ tags = ['lang=fo', 'prayerbook']
 
 
 
-[Andligur vøkstur](#Andligur vøkstur)
+[Andligur vøkstur](#Andligur+v%C3%B8kstur)
 
-[Brúdleyp](#Brúdleyp)
+[Brúdleyp](#Br%C3%BAdleyp)
 
 [Eind](#Eind)
 
 [Fundir](#Fundir)
 
-[Fyri børn](#Fyri børn)
+[Fyri børn](#Fyri+b%C3%B8rn)
 
-[Fyri teimum deyðu](#Fyri teimum deyðu)
+[Fyri teimum deyðu](#Fyri+teimum+dey%C3%B0u)
 
-[Fyri ungdóm](#Fyri ungdóm)
+[Fyri ungdóm](#Fyri+ungd%C3%B3m)
 
-[Grøðing](#Grøðing)
+[Grøðing](#Gr%C3%B8%C3%B0ing)
 
-[Hjálp og stuðul](#Hjálp og stuðul)
+[Hjálp og stuðul](#Hj%C3%A1lp+og+stu%C3%B0ul)
 
 [Kunning](#Kunning)
 
-[Lovprísan og takksemi](#Lovprísan og takksemi)
+[Lovprísan og takksemi](#Lovpr%C3%ADsan+og+takksemi)
 
-[Lýdni](#Lýdni)
+[Lýdni](#L%C3%BDdni)
 
-[Naw-Rúz](#Naw-Rúz)
+[Naw-Rúz](#Naw-R%C3%BAz)
 
-[Royndir og Trupulleikar](#Royndir og Trupulleikar)
+[Royndir og Trupulleikar](#Royndir+og+Trupulleikar)
 
-[Skyldu bøn](#Skyldu bøn)
+[Skyldu bøn](#Skyldu+b%C3%B8n)
 
-[Talva Ahmads](#Talva Ahmads)
+[Talva Ahmads](#Talva+Ahmads)
 
-[Tænasta](#Tænasta)
+[Tænasta](#T%C3%A6nasta)
 
 [Vernd](#Vernd)
 
 
 
-<a id="Andligur vøkstur"></a> 
+<a id="Andligur+v%C3%B8kstur"></a> 
 ## Andligur vøkstur
 
 <a id="bpn13550"></a> 
@@ -67,7 +67,7 @@ bpn13551 «[Føroyar](../fo/prayers/#bpn13551)»
 
 
 
-<a id="Brúdleyp"></a> 
+<a id="Br%C3%BAdleyp"></a> 
 ## Brúdleyp
 
 <a id="bpn13568"></a> 
@@ -119,7 +119,7 @@ bpn13557 «[Føroyar](../fo/prayers/#bpn13557)»
 
 
 
-<a id="Fyri børn"></a> 
+<a id="Fyri+b%C3%B8rn"></a> 
 ## Fyri børn
 
 <a id="bpn13562"></a> 
@@ -143,8 +143,7 @@ bpn13563 «[Føroyar](../fo/prayers/#bpn13563)»
 
 
 <a id="bpn13564"></a> 
-O Harri mín! O Harri mín! Eg eri eitt barn av eymum árum. Gev mær føðslu úr brósti minskunnar Tínar, lær meg í føvningi kærleiks Tíns, útbúgv meg í skúla vegleiðingar Tínar og menn meg undir skugganum av Tínum gávumildni. Bjarga mær úr myrkrinum, ger meg til eitt glampandi ljós; fría meg frá óeydnusemi, ger meg til eina blómu í rósugarðinum; lat meg sleppa at gerast til ein tænara av gátt Tínari og signa meg við sinnalag og lyndi teirra rættvísu; lat meg gerast orsøk til gávumildni fyri tann menniskjaliga heimin og krýn høvur mítt við høvuðprýði ævigs lívs! 
-	Sanniliga, Tú ert tann Máttmikli, tann Veldigi, tann Síggjandi, tann Hoyrandi.
+O Harri mín! O Harri mín! Eg eri eitt barn av eymum árum. Gev mær føðslu úr brósti minskunnar Tínar, lær meg í føvningi kærleiks Tíns, útbúgv meg í skúla vegleiðingar Tínar og menn meg undir skugganum av Tínum gávumildni. Bjarga mær úr myrkrinum, ger meg til eitt glampandi ljós; fría meg frá óeydnusemi, ger meg til eina blómu í rósugarðinum; lat meg sleppa at gerast til ein tænara av gátt Tínari og signa meg við sinnalag og lyndi teirra rættvísu; lat meg gerast orsøk til gávumildni fyri tann menniskjaliga heimin og krýn høvur mítt við høvuðprýði ævigs lívs! Sanniliga, Tú ert tann Máttmikli, tann Veldigi, tann Síggjandi, tann Hoyrandi.
 
 -- Abdu'l-Bahá
 
@@ -184,13 +183,11 @@ bpn13567 «[Føroyar](../fo/prayers/#bpn13567)»
 
 
 
-<a id="Fyri teimum deyðu"></a> 
+<a id="Fyri+teimum+dey%C3%B0u"></a> 
 ## Fyri teimum deyðu
 
 <a id="bpn13558"></a> 
-O Gud mín! O Tú syndanna fyrigevari, veitari av gávum! Burturbeinari av tvørleikum!
-	Sanniliga bøni eg Teg um at fyrigeva syndir teirra ið hava latið frá sær tann alisliga klædningin og eru stigin upp í tann andliga heimin.
-	O Harri mín! Reinsa tey frá misbrotum, burturbein sorgir teirra og umbroyt myrkur teirra til ljós. Fá tey at stíga inn í urtagarð eydnunnar, reinska tey við hinum reinasta vatni, og gev at tey kunnu skoða glitur Tíni á hinum hægsta tindi.
+O Gud mín! O Tú syndanna fyrigevari, veitari av gávum! Burturbeinari av tvørleikum!Sanniliga bøni eg Teg um at fyrigeva syndir teirra ið hava latið frá sær tann alisliga klædningin og eru stigin upp í tann andliga heimin.O Harri mín! Reinsa tey frá misbrotum, burturbein sorgir teirra og umbroyt myrkur teirra til ljós. Fá tey at stíga inn í urtagarð eydnunnar, reinska tey við hinum reinasta vatni, og gev at tey kunnu skoða glitur Tíni á hinum hægsta tindi.
 
 -- Abdu'l-Bahá
 
@@ -200,7 +197,7 @@ bpn13558 «[Føroyar](../fo/prayers/#bpn13558)»
 
 
 
-<a id="Fyri ungdóm"></a> 
+<a id="Fyri+ungd%C3%B3m"></a> 
 ## Fyri ungdóm
 
 <a id="bpn13561"></a> 
@@ -214,7 +211,7 @@ bpn13561 «[Føroyar](../fo/prayers/#bpn13561)»
 
 
 
-<a id="Grøðing"></a> 
+<a id="Gr%C3%B8%C3%B0ing"></a> 
 ## Grøðing
 
 <a id="bpn13552"></a> 
@@ -228,7 +225,7 @@ bpn13552 «[Føroyar](../fo/prayers/#bpn13552)»
 
 
 
-<a id="Hjálp og stuðul"></a> 
+<a id="Hj%C3%A1lp+og+stu%C3%B0ul"></a> 
 ## Hjálp og stuðul
 
 <a id="bpn13553"></a> 
@@ -266,12 +263,11 @@ bpn13556 «[Føroyar](../fo/prayers/#bpn13556)»
 
 
 
-<a id="Lovprísan og takksemi"></a> 
+<a id="Lovpr%C3%ADsan+og+takksemi"></a> 
 ## Lovprísan og takksemi
 
 <a id="bpn13560"></a> 
-Øll  lovprísan, O  mín Gud, veri  Tær sum  er Kelda  allar dýrdar og hátignar, stórleiks  og æru, ræðis  og harradømis, hábæris  og náðar, ærufryktar og máttar. Hvønn enn ið  Tú vilt  fært  Tú at verða  drignan nær til  hitt  Mest  Mikla  Hav, og hvørjum  enn ið Tær líkar gevur  Tú ta  æru at  viðurkenna  Títt  Mest  Forna  Navn. Av øllum  sum  eru í  himli  og á  jørð, kann eingin standa  ímóti virki  Tíns  ráðandi  Vilja. Frá  øllum  ævinleikum  stýrdi  Tú yvir allari  skapanini, og  Tú fer at  halda  fram  um  allar tíðir at  útinna Títt  harradømi  yvir øllum  skapaðum lutum. Eingin annar Gud er uttan Tú, tann  Alvaldandi, tann Mest  Upphevjaði, tann Almáttugi, tann  Alvísi.   
-	Upplýs, O  Harri, andlit  tænara  Tína, at  teir kunnu skoða  Teg;  og reinska  hjørtu teirra, at  teir kunnu venda  sær til  garðin av  Tínum himmalsku vælvildum  og viðurkenna  Hann Sum  er Birting Sjálvs  Tíns  og  Vársól  Kjarna  Tíns. Sanniliga, tú ert  Harrin yvir øllum  heimum. Eingin Gud er uttan  Tú, tann Óavmarkaði, tann  Alt-Stjórnandi.
+Øll  lovprísan, O  mín Gud, veri  Tær sum  er Kelda  allar dýrdar og hátignar, stórleiks  og æru, ræðis  og harradømis, hábæris  og náðar, ærufryktar og máttar. Hvønn enn ið  Tú vilt  fært  Tú at verða  drignan nær til  hitt  Mest  Mikla  Hav, og hvørjum  enn ið Tær líkar gevur  Tú ta  æru at  viðurkenna  Títt  Mest  Forna  Navn. Av øllum  sum  eru í  himli  og á  jørð, kann eingin standa  ímóti virki  Tíns  ráðandi  Vilja. Frá  øllum  ævinleikum  stýrdi  Tú yvir allari  skapanini, og  Tú fer at  halda  fram  um  allar tíðir at  útinna Títt  harradømi  yvir øllum  skapaðum lutum. Eingin annar Gud er uttan Tú, tann  Alvaldandi, tann Mest  Upphevjaði, tann Almáttugi, tann  Alvísi.   Upplýs, O  Harri, andlit  tænara  Tína, at  teir kunnu skoða  Teg;  og reinska  hjørtu teirra, at  teir kunnu venda  sær til  garðin av  Tínum himmalsku vælvildum  og viðurkenna  Hann Sum  er Birting Sjálvs  Tíns  og  Vársól  Kjarna  Tíns. Sanniliga, tú ert  Harrin yvir øllum  heimum. Eingin Gud er uttan  Tú, tann Óavmarkaði, tann  Alt-Stjórnandi.
 
 -- Bahá'u'lláh
 
@@ -281,7 +277,7 @@ bpn13560 «[Føroyar](../fo/prayers/#bpn13560)»
 
 
 
-<a id="Lýdni"></a> 
+<a id="L%C3%BDdni"></a> 
 ## Lýdni
 
 <a id="bpn13549"></a> 
@@ -295,19 +291,11 @@ bpn13549 «[Føroyar](../fo/prayers/#bpn13549)»
 
 
 
-<a id="Naw-Rúz"></a> 
+<a id="Naw-R%C3%BAz"></a> 
 ## Naw-Rúz
 
 <a id="bpn13571"></a> 
-*Naw-Rúz er tann fyrsti dagurin á Baha'i árinum.
- 
-
-
-Prísaður veri Tú, O mín Gud, at Tú hevur fyriskipað Naw-Rúz sum eina høgtíð fyri tey ið hava hildið føstuna av kærleika fyri Tær og afturhildið seg frá øllum tí sum er Tær andstygd. Gev, O mín Harri, at eldur kærleiks Tíns og hitin framleiddur av føstuni áløgd av Tær kann seta tey í loga í Søk Tínari, og fáa tey at gerast upptikin av Tínari lovprísan og av minning um Teg. 
-	Síðani Tú hevur skrýtt tey, O mín Harri, við skrúði føstunnar fyriskrivað av Tær, prýð Tú tey eisini við prýði góðtøku Tínar, gjøgnum Tína náði og gávumildu vælvild. Tí gerðir manna eru heftar av Tínari góðfragd, og eru treytaðar av Tínum boði. Skuldi Tú áskoðað tann ið hevur brotið føstuna sum ein ið hevur hildið hana, ein slíkur maður hevði verðið roknaður millum teirra ið frá ævinleika altíð høvdu hildið føstuna. Og skuldi Tú ásett at hann ið hevur hildið føstuna hevur brotið hana, tann persónur hevði verðið taldur millum slík ið hava fingið Klædning Tínar Opinberingar at dálkast við dusti, og hevði verið fjart fluttur frá hinum kristallkendu vøtnum av hesari livandi Keldu. 
-	Tú ert Hann gjøgnum Hvønn bannarin “Verdigur at prísa ert Tú í verkum Tínum” er breiddur út, og merkið “Aktaður ert Tú í Tínum boði” er vundið upp. Ger kent hetta stig Títt, O mín Gud, fyri tænarum Tínum, at teir kunnu verða gjørdir varugir við at hátign alla luta er heft av boðum Tínum og orði Tínum, og dygd alla gerninga er treytað av loyvi Tínum og teirri góðu fragd vilja Tíns, og kunnu viðurkenna at teymar mannagerninga eru hildnir í taki góðtøku Tínar og boðorðs Tíns. Ger hetta kent fyri teimum, at einki yvirhøvur kann steingja teir úti frá Tínum Fagurleika, í hesum døgum har Kristus mælir: “Alt harradømi er Títt, O Tú Framalari Andans (Jesusar)”; og Vinur Tín (Mohammed) rópar út: “Dýrd veri Tær, O Tú tann Hægst- Elskaði, fyri at Tú hevur avdúkað tín Fagurleika, og skrivað niður fyri Tínum útvaldu hvat skal fáa tey at náa fram til sætið av opinbering Tíns Mest Mikla Navns, gjøgnum hvørt øll fólk hava venað seg uttan slík ið hava loyst síni bond frá øllum øðrum uttan Tær, og miðað seg móti Honum Sum er Opinberarin av Tær og Sjónliggerðin av øllum Tínum eginleikum.” 
-	Hann Sum er Grein Tín og alt Títt fylgi, O mín Harri, hava hendan dag brotið føstu sína, aftaná at hava hildið hana innan fyri umráði garðs Tíns, og í sínum ivri at gleða Teg. Fyriskipa Tú fyri Honum, og fyri teimum, og fyri øllum slíkum ið eru komin inn í nærveru Tína á hesum døgum alt tað góða Tú tilætlaði í Bók Tínari. Veit teimum, so, tað ið verður teimum at gagni, í bæði hesum lívi og í lívinum hinumegin. 
-	Tú ert, av sonnum, tann Alvitandi, tann Alvísi.
+*Naw-Rúz er tann fyrsti dagurin á Baha&#39;i árinum. Prísaður veri Tú, O mín Gud, at Tú hevur fyriskipað Naw-Rúz sum eina høgtíð fyri tey ið hava hildið føstuna av kærleika fyri Tær og afturhildið seg frá øllum tí sum er Tær andstygd. Gev, O mín Harri, at eldur kærleiks Tíns og hitin framleiddur av føstuni áløgd av Tær kann seta tey í loga í Søk Tínari, og fáa tey at gerast upptikin av Tínari lovprísan og av minning um Teg. Síðani Tú hevur skrýtt tey, O mín Harri, við skrúði føstunnar fyriskrivað av Tær, prýð Tú tey eisini við prýði góðtøku Tínar, gjøgnum Tína náði og gávumildu vælvild. Tí gerðir manna eru heftar av Tínari góðfragd, og eru treytaðar av Tínum boði. Skuldi Tú áskoðað tann ið hevur brotið føstuna sum ein ið hevur hildið hana, ein slíkur maður hevði verðið roknaður millum teirra ið frá ævinleika altíð høvdu hildið føstuna. Og skuldi Tú ásett at hann ið hevur hildið føstuna hevur brotið hana, tann persónur hevði verðið taldur millum slík ið hava fingið Klædning Tínar Opinberingar at dálkast við dusti, og hevði verið fjart fluttur frá hinum kristallkendu vøtnum av hesari livandi Keldu. Tú ert Hann gjøgnum Hvønn bannarin “Verdigur at prísa ert Tú í verkum Tínum” er breiddur út, og merkið “Aktaður ert Tú í Tínum boði” er vundið upp. Ger kent hetta stig Títt, O mín Gud, fyri tænarum Tínum, at teir kunnu verða gjørdir varugir við at hátign alla luta er heft av boðum Tínum og orði Tínum, og dygd alla gerninga er treytað av loyvi Tínum og teirri góðu fragd vilja Tíns, og kunnu viðurkenna at teymar mannagerninga eru hildnir í taki góðtøku Tínar og boðorðs Tíns. Ger hetta kent fyri teimum, at einki yvirhøvur kann steingja teir úti frá Tínum Fagurleika, í hesum døgum har Kristus mælir: “Alt harradømi er Títt, O Tú Framalari Andans (Jesusar)”; og Vinur Tín (Mohammed) rópar út: “Dýrd veri Tær, O Tú tann Hægst- Elskaði, fyri at Tú hevur avdúkað tín Fagurleika, og skrivað niður fyri Tínum útvaldu hvat skal fáa tey at náa fram til sætið av opinbering Tíns Mest Mikla Navns, gjøgnum hvørt øll fólk hava venað seg uttan slík ið hava loyst síni bond frá øllum øðrum uttan Tær, og miðað seg móti Honum Sum er Opinberarin av Tær og Sjónliggerðin av øllum Tínum eginleikum.” Hann Sum er Grein Tín og alt Títt fylgi, O mín Harri, hava hendan dag brotið føstu sína, aftaná at hava hildið hana innan fyri umráði garðs Tíns, og í sínum ivri at gleða Teg. Fyriskipa Tú fyri Honum, og fyri teimum, og fyri øllum slíkum ið eru komin inn í nærveru Tína á hesum døgum alt tað góða Tú tilætlaði í Bók Tínari. Veit teimum, so, tað ið verður teimum at gagni, í bæði hesum lívi og í lívinum hinumegin. Tú ert, av sonnum, tann Alvitandi, tann Alvísi.
 
 -- Bahá'u'lláh
 
@@ -317,7 +305,7 @@ bpn13571 «[Føroyar](../fo/prayers/#bpn13571)»
 
 
 
-<a id="Royndir og Trupulleikar"></a> 
+<a id="Royndir+og+Trupulleikar"></a> 
 ## Royndir og Trupulleikar
 
 <a id="bpn13547"></a> 
@@ -341,16 +329,11 @@ bpn13546 «[Føroyar](../fo/prayers/#bpn13546)»
 
 
 
-<a id="Skyldu bøn"></a> 
+<a id="Skyldu+b%C3%B8n"></a> 
 ## Skyldu bøn
 
 <a id="bpn13545"></a> 
-*At siga fram eina ferð hvørjar 24 tímar, millum middag og sólsetur.
- 
-
-
-Eg vitni, O Gud mín, at Tú hevur skapað meg til at kenna Teg og tilbiðja Teg. Eg sanni, í hesari løtu, mítt máttloysi og Tína megi, mína fátækt og Títt ríkidømi.
-	Eingin annar Gud er uttan Tú, Hjálpin í Neyðini, tann Sjálv-Uppihaldandi.
+*At siga fram eina ferð hvørjar 24 tímar, millum middag og sólsetur. Eg vitni, O Gud mín, at Tú hevur skapað meg til at kenna Teg og tilbiðja Teg. Eg sanni, í hesari løtu, mítt máttloysi og Tína megi, mína fátækt og Títt ríkidømi.Eingin annar Gud er uttan Tú, Hjálpin í Neyðini, tann Sjálv-Uppihaldandi.
 
 -- Bahá'u'lláh
 
@@ -360,27 +343,11 @@ bpn13545 «[Føroyar](../fo/prayers/#bpn13545)»
 
 
 
-<a id="Talva Ahmads"></a> 
+<a id="Talva+Ahmads"></a> 
 ## Talva Ahmads
 
 <a id="bpn13570"></a> 
-Hann er Kongurin, hin Alvitandi, hin Vísi.
-	Hoyr, Náttargali Paradísins syngur uppi á kvistinum á Træi Ævinleikans, við heiløgum og søtum løgum, yvirlýsandi fyri teimum reinmeintu tey fróu tíðindini um nærveru Guds, kallandi tey ið trúgva á ta Guddómiligu Eindina til skálan av Hjáveru hins Gávumilda, upplýsandi tey fráskildu um boðskapin sum er opinberaður av Gudi, Konginum, hinum Dýrdarliga, hinum Makaleysa, vegleiðandi tey elskandi til sæti heilagleikans og til hendan skæra Fagurleikan. 
-	Sanniliga er hetta hin Mest Mikli Fagurleikin, spáddur um í Bókum Boðberanna, ígjøgnum Hvønn sannleiki skal verða skildur frá villu og vísdómurin í hvørjum boði skal verða royndur. Sanniliga er Hann Træ Lívsins ið elur fram fruktir Guds, hins Upphevjaða, hins Máttuga, hins Mikla.
-	O Ahmad! Ber tú vitnisburð um at Hann sanniliga er Gud, og eingin Gud er uttan Hann, Kongurin, Verjin, hin Ósamanberiligi, hin Almáttugi. Og at Tann Eini ið Hann hevur sent, ‘Alí á navni, var tann Sanni frá Gudi, Hvørs boðum vit øll laga okkum eftir.
-	Sig: O fólk verið lýðin móti fyriskipanum Guds, sum eru  vorðnar álagdar í Bayánini av hinum Dýrdarliga, hinum Vísa. Hann er sanniliga Kongur Boðberanna og bók Hansara er Uppruna Bókin, høvdu tit bert vitað.
-	Soleiðis ber Náttargalin upp á mál Sítt kall til tín úr hesum fangahúsi. Hann skal bert veita henda greiða boðskap. Hvør enn ið ynskir tað, lat hann venda sær frá hesum ráðum og hvør enn ið ynskir tað lat hann velja vegin til Harra sín.
-	O fólk, um tit avnokta hesi vers, við hvørjum prógvi hava tit tá trúð á Gud? Leggið tað fram, O samkoma av følskum.
-	Nei, við Tann í Hvørs hond mín sál er, tey eru ikki, og fara aldri at vera før fyri tí, sjálvt um tey høvdu lagt saman til tess at hjálpt hvørjum øðrum.
-	O Ahmad! Gloym ikki Mínar náðigávur meðan Eg eri burturi. Minst í tínum døgum til Mínar dagar, og Mína sorg og útlegd í hesum fjarskotna fangahúsi. Og ver tú so stinnur í kærleika Mínum at hjarta títt ikki skal sløðra, enntá hóast høggini frá svørðum fíggindanna regna niður yvir teg og allir himlarnir og jørðin reisast ímóti tær.
-	Ver tú sum elds logi móti Mínum fíggindum og sum á av ævigum lívi fyri Míni elskaðu, og ver ikki ein teirra ið ivast.
-	Og um tú verður fyri líðingum á Mínum vegi, ella eyðmýking fyri Mína skuld, so lat teg ei nerva av tí.
-	Lít á Gud, tín Gud og Harra fedra tína. Tí fólkið reikar eftir gøtum villingarsjónar, uttan skynsemi til at síggja Gud við sínum egnu eygum, ella hoyra Hansara Songlag við sínum egnu oyrum. Soleiðis hava Vit funnið tey, sum tú eisini ert vitni til.
-	Soleiðis er teirra pátrúgv vorðin til slør millum tey og teirra egnu hjørtu og hevur hildið tey frá gøtu Guds, hins Upphevjaða, hins Mikla.
-	Ver tú í sjálvum tær vísur í at sanniliga, hann ið vendir sær burtur frá hesum Fagurleika hevur somuleiðis vent sær frá fortíðarinnar Boðberum og vísir stoltleika ímóti Gudi frá øllum ævum til allar ævir.
-	Lær hesa Talvu væl, O Ahmad. Tjanta hana í tínum døgum og halt teg ikki frá tí. Tí sanniliga, Gud hevur fyriskipað fyri tann ið tjantar hana, samsýning hundrað pínslavátta og eina tænastu í báðum heimum. Hesar vælvildir hava Vit givið tær sum gávu frá Okkum av og miskunn frá hjárveru Okkara, at tú kanst vera ein teirra ið eru takksom.
-	Við Gud! Skuldi ein ið er raktur av líðing ella sorg lisið hesa Talvu við avgjørdum reinlyndi, so fer Gud at burturbeina hansara syrgni, loysa hansara trupulleikar og fáa hansara líðingar at hvørva.
-	Sanniliga, Hann er hin Miskunnsami, hin Samkennandi. Lovaður veri Gud, Harrin yvir øllum heimunum.
+Hann er Kongurin, hin Alvitandi, hin Vísi.Hoyr, Náttargali Paradísins syngur uppi á kvistinum á Træi Ævinleikans, við heiløgum og søtum løgum, yvirlýsandi fyri teimum reinmeintu tey fróu tíðindini um nærveru Guds, kallandi tey ið trúgva á ta Guddómiligu Eindina til skálan av Hjáveru hins Gávumilda, upplýsandi tey fráskildu um boðskapin sum er opinberaður av Gudi, Konginum, hinum Dýrdarliga, hinum Makaleysa, vegleiðandi tey elskandi til sæti heilagleikans og til hendan skæra Fagurleikan. Sanniliga er hetta hin Mest Mikli Fagurleikin, spáddur um í Bókum Boðberanna, ígjøgnum Hvønn sannleiki skal verða skildur frá villu og vísdómurin í hvørjum boði skal verða royndur. Sanniliga er Hann Træ Lívsins ið elur fram fruktir Guds, hins Upphevjaða, hins Máttuga, hins Mikla.O Ahmad! Ber tú vitnisburð um at Hann sanniliga er Gud, og eingin Gud er uttan Hann, Kongurin, Verjin, hin Ósamanberiligi, hin Almáttugi. Og at Tann Eini ið Hann hevur sent, ‘Alí á navni, var tann Sanni frá Gudi, Hvørs boðum vit øll laga okkum eftir.Sig: O fólk verið lýðin móti fyriskipanum Guds, sum eru  vorðnar álagdar í Bayánini av hinum Dýrdarliga, hinum Vísa. Hann er sanniliga Kongur Boðberanna og bók Hansara er Uppruna Bókin, høvdu tit bert vitað.Soleiðis ber Náttargalin upp á mál Sítt kall til tín úr hesum fangahúsi. Hann skal bert veita henda greiða boðskap. Hvør enn ið ynskir tað, lat hann venda sær frá hesum ráðum og hvør enn ið ynskir tað lat hann velja vegin til Harra sín.O fólk, um tit avnokta hesi vers, við hvørjum prógvi hava tit tá trúð á Gud? Leggið tað fram, O samkoma av følskum.Nei, við Tann í Hvørs hond mín sál er, tey eru ikki, og fara aldri at vera før fyri tí, sjálvt um tey høvdu lagt saman til tess at hjálpt hvørjum øðrum.O Ahmad! Gloym ikki Mínar náðigávur meðan Eg eri burturi. Minst í tínum døgum til Mínar dagar, og Mína sorg og útlegd í hesum fjarskotna fangahúsi. Og ver tú so stinnur í kærleika Mínum at hjarta títt ikki skal sløðra, enntá hóast høggini frá svørðum fíggindanna regna niður yvir teg og allir himlarnir og jørðin reisast ímóti tær.Ver tú sum elds logi móti Mínum fíggindum og sum á av ævigum lívi fyri Míni elskaðu, og ver ikki ein teirra ið ivast.Og um tú verður fyri líðingum á Mínum vegi, ella eyðmýking fyri Mína skuld, so lat teg ei nerva av tí.Lít á Gud, tín Gud og Harra fedra tína. Tí fólkið reikar eftir gøtum villingarsjónar, uttan skynsemi til at síggja Gud við sínum egnu eygum, ella hoyra Hansara Songlag við sínum egnu oyrum. Soleiðis hava Vit funnið tey, sum tú eisini ert vitni til.Soleiðis er teirra pátrúgv vorðin til slør millum tey og teirra egnu hjørtu og hevur hildið tey frá gøtu Guds, hins Upphevjaða, hins Mikla.Ver tú í sjálvum tær vísur í at sanniliga, hann ið vendir sær burtur frá hesum Fagurleika hevur somuleiðis vent sær frá fortíðarinnar Boðberum og vísir stoltleika ímóti Gudi frá øllum ævum til allar ævir.Lær hesa Talvu væl, O Ahmad. Tjanta hana í tínum døgum og halt teg ikki frá tí. Tí sanniliga, Gud hevur fyriskipað fyri tann ið tjantar hana, samsýning hundrað pínslavátta og eina tænastu í báðum heimum. Hesar vælvildir hava Vit givið tær sum gávu frá Okkum av og miskunn frá hjárveru Okkara, at tú kanst vera ein teirra ið eru takksom.Við Gud! Skuldi ein ið er raktur av líðing ella sorg lisið hesa Talvu við avgjørdum reinlyndi, so fer Gud at burturbeina hansara syrgni, loysa hansara trupulleikar og fáa hansara líðingar at hvørva.Sanniliga, Hann er hin Miskunnsami, hin Samkennandi. Lovaður veri Gud, Harrin yvir øllum heimunum.
 
 -- Bahá'u'lláh
 
@@ -390,7 +357,7 @@ bpn13570 «[Føroyar](../fo/prayers/#bpn13570)»
 
 
 
-<a id="Tænasta"></a> 
+<a id="T%C3%A6nasta"></a> 
 ## Tænasta
 
 <a id="bpn13555"></a> 

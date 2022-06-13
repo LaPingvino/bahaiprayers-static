@@ -5,41 +5,41 @@ tags = ['lang=med', 'prayerbook']
 
 
 
-[ANATU TEK OUDUI ENGA ATENGA E](#ANATU TEK OUDUI ENGA ATENGA E)
+[ANATU TEK OUDUI ENGA ATENGA E](#ANATU+TEK+OUDUI+ENGA+ATENGA+E)
 
-[KANG AMPÄGLA BÄNGA ATENGA](#KANG AMPÄGLA BÄNGA ATENGA)
+[KANG AMPÄGLA BÄNGA ATENGA](#KANG+AMP%C3%84GLA+B%C3%84NGA+ATENGA)
 
-[KIKONTA ATENGA](#KIKONTA ATENGA)
+[KIKONTA ATENGA](#KIKONTA+ATENGA)
 
-[KUI MÄN ATENGA](#KUI MÄN ATENGA)
+[KUI MÄN ATENGA](#KUI+M%C3%84N+ATENGA)
 
-[MIN E TIP RAPDAMBA ENGA ATENGA](#MIN E TIP RAPDAMBA ENGA ATENGA)
+[MIN E TIP RAPDAMBA ENGA ATENGA](#MIN+E+TIP+RAPDAMBA+ENGA+ATENGA)
 
-[MUKULMÄ WINTNGA ATENGA](#MUKULMÄ WINTNGA ATENGA)
+[MUKULMÄ WINTNGA ATENGA](#MUKULM%C3%84+WINTNGA+ATENGA)
 
-[NIT BÄ PENTIP KILI ENGA ATENGA](#NIT BÄ PENTIP KILI ENGA ATENGA)
+[NIT BÄ PENTIP KILI ENGA ATENGA](#NIT+B%C3%84+PENTIP+KILI+ENGA+ATENGA)
 
-[NOMBALGA ÄNDING ENGA ATENGA](#NOMBALGA ÄNDING ENGA ATENGA)
+[NOMBALGA ÄNDING ENGA ATENGA](#NOMBALGA+%C3%84NDING+ENGA+ATENGA)
 
-[NOMBOLGA ORADUI ENGA ATENGA E](#NOMBOLGA ORADUI ENGA ATENGA E)
+[NOMBOLGA ORADUI ENGA ATENGA E](#NOMBOLGA+ORADUI+ENGA+ATENGA+E)
 
-[RUMBULG RUI ENGA ATENGA E](#RUMBULG RUI ENGA ATENGA E)
+[RUMBULG RUI ENGA ATENGA E](#RUMBULG+RUI+ENGA+ATENGA+E)
 
-[RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL](#RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL)
+[RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL](#R%C3%84NG+WAKRAP+ANATU+KEN+ATENGA+RUMIN+EMEL)
 
-[TENGDUI ATENGA KINTINGA](#TENGDUI ATENGA KINTINGA)
+[TENGDUI ATENGA KINTINGA](#TENGDUI+ATENGA+KINTINGA)
 
-[WAMB DOIMB RUNDING ENGA ATANGE E](#WAMB DOIMB RUNDING ENGA ATANGE E)
+[WAMB DOIMB RUNDING ENGA ATANGE E](#WAMB+DOIMB+RUNDING+ENGA+ATANGE+E)
 
-[WAMP ON ITENG ATENGA E](#WAMP ON ITENG ATENGA E)
+[WAMP ON ITENG ATENGA E](#WAMP+ON+ITENG+ATENGA+E)
 
-[WAMP TEPA TENTA MUNDI ATENGA](#WAMP TEPA TENTA MUNDI ATENGA)
+[WAMP TEPA TENTA MUNDI ATENGA](#WAMP+TEPA+TENTA+MUNDI+ATENGA)
 
-[WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK](#WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK)
+[WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK](#W%C3%84+AMP+KIKONTA+TEPA+RONDOGL+MUNDI+IK)
 
 
 
-<a id="ANATU TEK OUDUI ENGA ATENGA E"></a> 
+<a id="ANATU+TEK+OUDUI+ENGA+ATENGA+E"></a> 
 ## ANATU TEK OUDUI ENGA ATENGA E
 
 <a id="bpn13032"></a> 
@@ -53,7 +53,7 @@ bpn13032 «[Melpa](../med/prayers/#bpn13032)»
 
 
 
-<a id="KANG AMPÄGLA BÄNGA ATENGA"></a> 
+<a id="KANG+AMP%C3%84GLA+B%C3%84NGA+ATENGA"></a> 
 ## KANG AMPÄGLA BÄNGA ATENGA
 
 <a id="bpn13025"></a> 
@@ -67,7 +67,7 @@ bpn13025 «[Melpa](../med/prayers/#bpn13025)»
 
 
 
-<a id="KIKONTA ATENGA"></a> 
+<a id="KIKONTA+ATENGA"></a> 
 ## KIKONTA ATENGA
 
 <a id="bpn13026"></a> 
@@ -81,7 +81,7 @@ bpn13026 «[Melpa](../med/prayers/#bpn13026)»
 
 
 
-<a id="KUI MÄN ATENGA"></a> 
+<a id="KUI+M%C3%84N+ATENGA"></a> 
 ## KUI MÄN ATENGA
 
 <a id="bpn13028"></a> 
@@ -95,7 +95,7 @@ bpn13028 «[Melpa](../med/prayers/#bpn13028)»
 
 
 
-<a id="MIN E TIP RAPDAMBA ENGA ATENGA"></a> 
+<a id="MIN+E+TIP+RAPDAMBA+ENGA+ATENGA"></a> 
 ## MIN E TIP RAPDAMBA ENGA ATENGA
 
 <a id="bpn13019"></a> 
@@ -109,7 +109,7 @@ bpn13019 «[Melpa](../med/prayers/#bpn13019)»
 
 
 
-<a id="MUKULMÄ WINTNGA ATENGA"></a> 
+<a id="MUKULM%C3%84+WINTNGA+ATENGA"></a> 
 ## MUKULMÄ WINTNGA ATENGA
 
 <a id="bpn13022"></a> 
@@ -123,7 +123,7 @@ bpn13022 «[Melpa](../med/prayers/#bpn13022)»
 
 
 
-<a id="NIT BÄ PENTIP KILI ENGA ATENGA"></a> 
+<a id="NIT+B%C3%84+PENTIP+KILI+ENGA+ATENGA"></a> 
 ## NIT BÄ PENTIP KILI ENGA ATENGA
 
 <a id="bpn13030"></a> 
@@ -137,7 +137,7 @@ bpn13030 «[Melpa](../med/prayers/#bpn13030)»
 
 
 
-<a id="NOMBALGA ÄNDING ENGA ATENGA"></a> 
+<a id="NOMBALGA+%C3%84NDING+ENGA+ATENGA"></a> 
 ## NOMBALGA ÄNDING ENGA ATENGA
 
 <a id="bpn13020"></a> 
@@ -151,7 +151,7 @@ bpn13020 «[Melpa](../med/prayers/#bpn13020)»
 
 
 
-<a id="NOMBOLGA ORADUI ENGA ATENGA E"></a> 
+<a id="NOMBOLGA+ORADUI+ENGA+ATENGA+E"></a> 
 ## NOMBOLGA ORADUI ENGA ATENGA E
 
 <a id="bpn13018"></a> 
@@ -165,7 +165,7 @@ bpn13018 «[Melpa](../med/prayers/#bpn13018)»
 
 
 
-<a id="RUMBULG RUI ENGA ATENGA E"></a> 
+<a id="RUMBULG+RUI+ENGA+ATENGA+E"></a> 
 ## RUMBULG RUI ENGA ATENGA E
 
 <a id="bpn13021"></a> 
@@ -179,13 +179,11 @@ bpn13021 «[Melpa](../med/prayers/#bpn13021)»
 
 
 
-<a id="RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL"></a> 
+<a id="R%C3%84NG+WAKRAP+ANATU+KEN+ATENGA+RUMIN+EMEL"></a> 
 ## RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL
 
 <a id="bpn13023"></a> 
-*Räng wak ruing wi e kalemp Mas 2 ba 20 pora etemba.  Rukting ila, mukuma wunt ba rumbulrui wamp ti räng na nu na ti naning.  Wi e atenga ropon, min rop kont mondop itim wi e.  Nombogla rugl andang wamp na, wagl pana 15 nga mana orong na , kui wamp na wamp rondogla na amp wagl mam na bä ya räng wak rui wi ela rukurung näting.
-
-Ugla nga wipip ropa ngui wa na akap king nga kum pinti mel bä wak rop, nu na räng kitim ila pinapenem emel ku nang mundu mong a uglmi rokon eteken keakagla tena wamp elpa bä numan mundi ugle e wak ramp.  Ugl kit bä numan pinti na, satan nga ugl bila nanga min e ninim ent kumpa polkon ekit teken eteken bongon tana nanga min a remnga mulguga wingti eken rup ropa ugle elpa bä ok tepa nimnga bi ila ment muglanka.
+*Räng wak ruing wi e kalemp Mas 2 ba 20 pora etemba.  Rukting ila, mukuma wunt ba rumbulrui wamp ti räng na nu na ti naning.  Wi e atenga ropon, min rop kont mondop itim wi e.  Nombogla rugl andang wamp na, wagl pana 15 nga mana orong na , kui wamp na wamp rondogla na amp wagl mam na bä ya räng wak rui wi ela rukurung näting.Ugla nga wipip ropa ngui wa na akap king nga kum pinti mel bä wak rop, nu na räng kitim ila pinapenem emel ku nang mundu mong a uglmi rokon eteken keakagla tena wamp elpa bä numan mundi ugle e wak ramp.  Ugl kit bä numan pinti na, satan nga ugl bila nanga min e ninim ent kumpa polkon ekit teken eteken bongon tana nanga min a remnga mulguga wingti eken rup ropa ugle elpa bä ok tepa nimnga bi ila ment muglanka.
 
 -- Abdu'l-Bahá
 
@@ -195,13 +193,11 @@ bpn13023 «[Melpa](../med/prayers/#bpn13023)»
 
 
 
-<a id="TENGDUI ATENGA KINTINGA"></a> 
+<a id="TENGDUI+ATENGA+KINTINGA"></a> 
 ## TENGDUI ATENGA KINTINGA
 
 <a id="bpn13031"></a> 
-*Atenga kägl ant keng orong pomena, Bahá’í wamp pora tenta tenta nek näi.  Koemp keta na ki na pora uglumi rokon Bahá’u’lláh nga alta morom illa koemp keta orong dokon molkon atenga rui.
-
-Na para dop nent, Anatu, nem ent na mim eteken, na peliken kandaken i eten ni na nim rop potontip neken.  Nanga rondogl ti mon.  Na wa koropa ent nem wa nuim rondogl we eken para dop nent.  Na tikipugli bä nga tepa rapundi wä e.
+*Atenga kägl ant keng orong pomena, Bahá’í wamp pora tenta tenta nek näi.  Koemp keta na ki na pora uglumi rokon Bahá’u’lláh nga alta morom illa koemp keta orong dokon molkon atenga rui.Na para dop nent, Anatu, nem ent na mim eteken, na peliken kandaken i eten ni na nim rop potontip neken.  Nanga rondogl ti mon.  Na wa koropa ent nem wa nuim rondogl we eken para dop nent.  Na tikipugli bä nga tepa rapundi wä e.
 
 -- Bahá'u'lláh
 
@@ -211,7 +207,7 @@ bpn13031 «[Melpa](../med/prayers/#bpn13031)»
 
 
 
-<a id="WAMB DOIMB RUNDING ENGA ATANGE E"></a> 
+<a id="WAMB+DOIMB+RUNDING+ENGA+ATANGE+E"></a> 
 ## WAMB DOIMB RUNDING ENGA ATANGE E
 
 <a id="bpn13017"></a> 
@@ -225,41 +221,11 @@ bpn13017 «[Melpa](../med/prayers/#bpn13017)»
 
 
 
-<a id="WAMP ON ITENG ATENGA E"></a> 
+<a id="WAMP+ON+ITENG+ATENGA+E"></a> 
 ## WAMP ON ITENG ATENGA E
 
 <a id="bpn13024"></a> 
-*Ya eia, Baha'i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.
-
-Nanga Anatu, Ya eia, nemnga kentmant wä e, nimnga kentmant wä enga kangem e, nim mondep pelepa, nimnga ugl bä kantepa kon etepa, nin tepa olong ngopa, mel we bä pora tepa bugl ngorom.  Nim wamp numa weng doromen bä keen numan weng doron.
-
-Nim wi mugl kona ila numan wengdui ugl a mim kota mel kapolga muglanga wamp bä nga nit bä penteken kelekon pund mong bä panda rokon eten ni mel a wamp e eteken ti.  Numan weng dokon kond kolkon ninim rukurung ti.  Nimng wamp kond kul ugl a mugl mai ragl napi ken pitim.  Wä Anatu we ti namboromen, nim mendepogl.  Wamp numan wengdui wate wamp kingui wä e nim mendopolg.
-
-Atenga rom wamp ent, a ik mong e nempa etanga Alláh-u-Abhá.  Ya mana kigl wema 19 etanga.
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatu rop potdenmon.  (19)
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatunga koemp ketal rumagli penemon.  (19)
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatu ken mundu mong e ngonomen.  (19)
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatunga bi paka ronomon.(19)
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatu ken aenge nenemon.(19)
-
-Alláh-u-Abhá!
-
-Ten pora kopa Anatu ken raka nemp moromon.(19)
+*Ya eia, Baha&#39;i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.Nanga Anatu, Ya eia, nemnga kentmant wä e, nimnga kentmant wä enga kangem e, nim mondep pelepa, nimnga ugl bä kantepa kon etepa, nin tepa olong ngopa, mel we bä pora tepa bugl ngorom.  Nim wamp numa weng doromen bä keen numan weng doron.Nim wi mugl kona ila numan wengdui ugl a mim kota mel kapolga muglanga wamp bä nga nit bä penteken kelekon pund mong bä panda rokon eten ni mel a wamp e eteken ti.  Numan weng dokon kond kolkon ninim rukurung ti.  Nimng wamp kond kul ugl a mugl mai ragl napi ken pitim.  Wä Anatu we ti namboromen, nim mendepogl.  Wamp numan wengdui wate wamp kingui wä e nim mendopolg.Atenga rom wamp ent, a ik mong e nempa etanga Alláh-u-Abhá.  Ya mana kigl wema 19 etanga.Alláh-u-Abhá!Ten pora kopa Anatu rop potdenmon.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga koemp ketal rumagli penemon.  (19)Alláh-u-Abhá!Ten pora kopa Anatu ken mundu mong e ngonomen.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga bi paka ronomon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken aenge nenemon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken raka nemp moromon.(19)
 
 -- Bahá'u'lláh
 
@@ -269,7 +235,7 @@ bpn13024 «[Melpa](../med/prayers/#bpn13024)»
 
 
 
-<a id="WAMP TEPA TENTA MUNDI ATENGA"></a> 
+<a id="WAMP+TEPA+TENTA+MUNDI+ATENGA"></a> 
 ## WAMP TEPA TENTA MUNDI ATENGA
 
 <a id="bpn13029"></a> 
@@ -283,13 +249,11 @@ bpn13029 «[Melpa](../med/prayers/#bpn13029)»
 
 
 
-<a id="WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK"></a> 
+<a id="W%C3%84+AMP+KIKONTA+TEPA+RONDOGL+MUNDI+IK"></a> 
 ## WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK
 
 <a id="bpn13027"></a> 
-*Ya kikonta ik e Bahá’í mondop pili wamp ragl nga koemp keta ila kikonta ruingil wä eken ämp eken ningil ik e ya Kitáb-i-Aqdas wingti ila rorong petem emel:
-
-"Tel pora, Anutu nga numan petem emel pora pep rop muglu mbil.”
+*Ya kikonta ik e Bahá’í mondop pili wamp ragl nga koemp keta ila kikonta ruingil wä eken ämp eken ningil ik e ya Kitáb-i-Aqdas wingti ila rorong petem emel:&#34;Tel pora, Anutu nga numan petem emel pora pep rop muglu mbil.”
 
 -- Bahá'u'lláh
 

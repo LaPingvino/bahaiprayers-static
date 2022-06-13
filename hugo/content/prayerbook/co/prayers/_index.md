@@ -13,11 +13,11 @@ tags = ['lang=co', 'prayerbook']
 
 [Matina](#Matina)
 
-[Preghera dì tutti i ghjorni](#Preghera dì tutti i ghjorni)
+[Preghera dì tutti i ghjorni](#Preghera+d%C3%AC+tutti+i+ghjorni)
 
-[Preghere per i morti](#Preghere per i morti)
+[Preghere per i morti](#Preghere+per+i+morti)
 
-[Qualità Spirituale](#Qualità Spirituale)
+[Qualità Spirituale](#Qualit%C3%A0+Spirituale)
 
 [Unita](#Unita)
 
@@ -111,7 +111,7 @@ bpn9411 «[Corsica](../co/prayers/#bpn9411)»
 
 
 
-<a id="Preghera dì tutti i ghjorni"></a> 
+<a id="Preghera+d%C3%AC+tutti+i+ghjorni"></a> 
 ## Preghera dì tutti i ghjorni
 
 <a id="bpn9408"></a> 
@@ -125,7 +125,7 @@ bpn9408 «[Corsica](../co/prayers/#bpn9408)»
 
 
 
-<a id="Preghere per i morti"></a> 
+<a id="Preghere+per+i+morti"></a> 
 ## Preghere per i morti
 
 <a id="bpn9422"></a> 
@@ -149,7 +149,7 @@ bpn9423 «[Corsica](../co/prayers/#bpn9423)»
 
 
 
-<a id="Qualità Spirituale"></a> 
+<a id="Qualit%C3%A0+Spirituale"></a> 
 ## Qualità Spirituale
 
 <a id="bpn9412"></a> 

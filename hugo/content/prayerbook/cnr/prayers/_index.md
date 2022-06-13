@@ -7,23 +7,23 @@ tags = ['lang=cnr', 'prayerbook']
 
 [Djeca](#Djeca)
 
-[Duhovne Vrline](#Duhovne Vrline)
+[Duhovne Vrline](#Duhovne+Vrline)
 
 [Iscjeljenje](#Iscjeljenje)
 
-[Jedinstvo i Mir](#Jedinstvo i Mir)
+[Jedinstvo i Mir](#Jedinstvo+i+Mir)
 
 [Jutro](#Jutro)
 
-[Noć](#Noć)
+[Noć](#Noc%CC%81)
 
-[Pomoć](#Pomoć)
+[Pomoć](#Pomoc%CC%81)
 
-[Slava Bogu](#Slava Bogu)
+[Slava Bogu](#Slava+Bogu)
 
-[Teškoće](#Teškoće)
+[Teškoće](#Tes%CC%8Ckoc%CC%81e)
 
-[Za Preminule](#Za Preminule)
+[Za Preminule](#Za+Preminule)
 
 
 
@@ -51,12 +51,11 @@ bpn5342 «[Montenegrin](../cnr/prayers/#bpn5342)»
 
 
 
-<a id="Duhovne Vrline"></a> 
+<a id="Duhovne+Vrline"></a> 
 ## Duhovne Vrline
 
 <a id="bpn5331"></a> 
-O moj Gospode! Daj da mi Tvoja ljepota bude hrana, a Tvoje prisustvo piće, mogućnost da Ti ugodim moja nada, moje djelanje da bude veličanje Tebe, pomen na Tebe moj sadrug, moć Tvoje vlasti moja potpora,Tvoje prebivalište moj dom, a postojbina moja sjedište oslobođeno od ograničenja nametnutih onima koji kao da su velom odvojeni od Tebe.
-Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
+O moj Gospode! Daj da mi Tvoja ljepota bude hrana, a Tvoje prisustvo piće, mogućnost da Ti ugodim moja nada, moje djelanje da bude veličanje Tebe, pomen na Tebe moj sadrug, moć Tvoje vlasti moja potpora,Tvoje prebivalište moj dom, a postojbina moja sjedište oslobođeno od ograničenja nametnutih onima koji kao da su velom odvojeni od Tebe.Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
 
 -- Abdu'l-Bahá
 
@@ -76,8 +75,7 @@ bpn5332 «[Montenegrin](../cnr/prayers/#bpn5332)»
 
 
 <a id="bpn5333"></a> 
-O Bože! Osvježi mi i razgali dušu. Očisti mi srce. Prosvijetli moje moći. Sve svoje poslove polažem u Tvoje ruke. Ti si mi Vodič i Utočište. Više neću biti nesrećan i pun jada; postaću zadovoljan i srećan. O Bože! Više neću biti pun strepnje, niti ću dopustiti da me muče brige. Neću biti zaokupljen neprijatnim stvarima u životu.
-O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se Tebi, O Gospode.
+O Bože! Osvježi mi i razgali dušu. Očisti mi srce. Prosvijetli moje moći. Sve svoje poslove polažem u Tvoje ruke. Ti si mi Vodič i Utočište. Više neću biti nesrećan i pun jada; postaću zadovoljan i srećan. O Bože! Više neću biti pun strepnje, niti ću dopustiti da me muče brige. Neću biti zaokupljen neprijatnim stvarima u životu.O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se Tebi, O Gospode.
 
 -- Abdu'l-Bahá
 
@@ -101,8 +99,7 @@ bpn5337 «[Montenegrin](../cnr/prayers/#bpn5337)»
 
 
 <a id="bpn5338"></a> 
-O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih iscjeljiteljskih moći, i sjajnom Danicom Tvog milosrđa, i Tvojim Imenom kojem se pokoravaju Tvoje sluge, i sveprožimajućom snagom Tvoje najuzvišenije Riječi, i silom Tvog najdivnijeg Pera, i Tvojom milošću, koja je prethodila stvaranju svega što obitava na nebu i na zemlji, pročisti me vodom svoje dobrote, speri sa mene svaku nesreću i bolest, svaku slabost i nemoć.
-Ti vidiš, O moj Gospode, molioca koji čeka pred vratima Tvoje darežljivosti, onoga koji je svu svoju nadu položio u Tebe, držeći se za uže Tvoje plemenitosti. Preklinjem Te da mu ne uskratiš ono što traži od Okeana Tvoje milosti i od Danice Tvog saosjećanja. Ti imaš moć da činiš šta god poželiš. Nema drugog Boga osim Tebe, Koji sve praštaš, Najvelikodušnijeg.
+O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih iscjeljiteljskih moći, i sjajnom Danicom Tvog milosrđa, i Tvojim Imenom kojem se pokoravaju Tvoje sluge, i sveprožimajućom snagom Tvoje najuzvišenije Riječi, i silom Tvog najdivnijeg Pera, i Tvojom milošću, koja je prethodila stvaranju svega što obitava na nebu i na zemlji, pročisti me vodom svoje dobrote, speri sa mene svaku nesreću i bolest, svaku slabost i nemoć.Ti vidiš, O moj Gospode, molioca koji čeka pred vratima Tvoje darežljivosti, onoga koji je svu svoju nadu položio u Tebe, držeći se za uže Tvoje plemenitosti. Preklinjem Te da mu ne uskratiš ono što traži od Okeana Tvoje milosti i od Danice Tvog saosjećanja. Ti imaš moć da činiš šta god poželiš. Nema drugog Boga osim Tebe, Koji sve praštaš, Najvelikodušnijeg.
 
 -- Bahá'u'lláh
 
@@ -112,7 +109,7 @@ bpn5338 «[Montenegrin](../cnr/prayers/#bpn5338)»
 
 
 
-<a id="Jedinstvo i Mir"></a> 
+<a id="Jedinstvo+i+Mir"></a> 
 ## Jedinstvo i Mir
 
 <a id="bpn5344"></a> 
@@ -150,13 +147,11 @@ bpn5339 «[Montenegrin](../cnr/prayers/#bpn5339)»
 
 
 
-<a id="Noć"></a> 
+<a id="Noc%CC%81"></a> 
 ## Noć
 
 <a id="bpn5340"></a> 
-O moj Bože, Učitelju moj, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne da zaspi u skloništu tvoga milosrđa, i da otpočine pod baldahinom Tvoje milosti, preklinjući Te da se o njemu brineš i da ga štitiš.
-Molim Te, O moj Gospode, tako Ti oka Tvoga koje nikad ne spava, čuvaj moje oči da ne gledaju ni u šta drugo do u Tebe. Izoštri mi, dakle, vid, da mogu razaznavati Tvoje znake i ugledati Horizont Tvog Otkrovenja. Ti si Onaj pred čijim je otkrovenjima svemoći zadrhtala i sama suština moći.
-Nema drugog Boga osim Tebe, Svemogućeg, Onog Koji sve pokorava, Neuslovljenog.
+O moj Bože, Učitelju moj, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne da zaspi u skloništu tvoga milosrđa, i da otpočine pod baldahinom Tvoje milosti, preklinjući Te da se o njemu brineš i da ga štitiš.Molim Te, O moj Gospode, tako Ti oka Tvoga koje nikad ne spava, čuvaj moje oči da ne gledaju ni u šta drugo do u Tebe. Izoštri mi, dakle, vid, da mogu razaznavati Tvoje znake i ugledati Horizont Tvog Otkrovenja. Ti si Onaj pred čijim je otkrovenjima svemoći zadrhtala i sama suština moći.Nema drugog Boga osim Tebe, Svemogućeg, Onog Koji sve pokorava, Neuslovljenog.
 
 -- Bahá'u'lláh
 
@@ -166,7 +161,7 @@ bpn5340 «[Montenegrin](../cnr/prayers/#bpn5340)»
 
 
 
-<a id="Pomoć"></a> 
+<a id="Pomoc%CC%81"></a> 
 ## Pomoć
 
 <a id="bpn5334"></a> 
@@ -180,11 +175,7 @@ bpn5334 «[Montenegrin](../cnr/prayers/#bpn5334)»
 
 
 <a id="bpn5335"></a> 
-Gospode! Jadni smo, podari nam naklonost Svoju; siroti smo, udijeli nam iz okeana blaga Svoga; nemamo šta nam je potrebno, Ti zadovolji naše potrebe; poniženi smo, podaj nam Svoju slavu. Ptice na nebu i zvijeri u polju svakoga dana dobijaju hranu od Tebe i sva bića imaju udjela u Tvojoj brizi i božanskoj ljubavi.
-
-Ne lišavaj ovog nejakog stvora Svoje čudotvorne milosti i, po sili Svojoj, udostoji ovu bespomoćnu dušu Svoje dobrote.
-Hljeb naš nasušni daj nam danas, i podaj nam više od životnih potrepština tako da ne zavisimo ni od koga drugog do od Tebe; da se u potpunosti možemo družiti s Tobom, da možemo hoditi Tvojim stazama i objavljivati Tvoje tajne.
-Ti si Svemogući, Onaj koji ljubi i brine se za čitavo čovječanstvo.
+Gospode! Jadni smo, podari nam naklonost Svoju; siroti smo, udijeli nam iz okeana blaga Svoga; nemamo šta nam je potrebno, Ti zadovolji naše potrebe; poniženi smo, podaj nam Svoju slavu. Ptice na nebu i zvijeri u polju svakoga dana dobijaju hranu od Tebe i sva bića imaju udjela u Tvojoj brizi i božanskoj ljubavi.Ne lišavaj ovog nejakog stvora Svoje čudotvorne milosti i, po sili Svojoj, udostoji ovu bespomoćnu dušu Svoje dobrote.Hljeb naš nasušni daj nam danas, i podaj nam više od životnih potrepština tako da ne zavisimo ni od koga drugog do od Tebe; da se u potpunosti možemo družiti s Tobom, da možemo hoditi Tvojim stazama i objavljivati Tvoje tajne.Ti si Svemogući, Onaj koji ljubi i brine se za čitavo čovječanstvo.
 
 -- Abdu'l-Bahá
 
@@ -194,9 +185,7 @@ bpn5335 «[Montenegrin](../cnr/prayers/#bpn5335)»
 
 
 <a id="bpn5336"></a> 
-Ne sklanjaj, o Gospode, prazničnu trpezu koja je postavljena u Tvoje Ime, i ne gasi plamen koji je razgorjela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode što žubori pjesmom Tvoje slave i Tvoga pomena, i ne lišavaj Svoje sluge Svojih slasnih miomirisa što donose daške Tvoje ljubavi.
-Gospode! Preobrazi opterećujuće brige Tvojih svetih u olakšanje, njihove patnje u utjehu, njihovo poniženje u slavu, njihovu tugu u blaženu radost, o Ti koji Svojom rukom upravljaš čitavim ljudskim rodom!
-Ti si, zaista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
+Ne sklanjaj, o Gospode, prazničnu trpezu koja je postavljena u Tvoje Ime, i ne gasi plamen koji je razgorjela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode što žubori pjesmom Tvoje slave i Tvoga pomena, i ne lišavaj Svoje sluge Svojih slasnih miomirisa što donose daške Tvoje ljubavi.Gospode! Preobrazi opterećujuće brige Tvojih svetih u olakšanje, njihove patnje u utjehu, njihovo poniženje u slavu, njihovu tugu u blaženu radost, o Ti koji Svojom rukom upravljaš čitavim ljudskim rodom!Ti si, zaista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
 
 -- Abdu'l-Bahá
 
@@ -206,12 +195,11 @@ bpn5336 «[Montenegrin](../cnr/prayers/#bpn5336)»
 
 
 
-<a id="Slava Bogu"></a> 
+<a id="Slava+Bogu"></a> 
 ## Slava Bogu
 
 <a id="bpn5330"></a> 
-Neka je sva hvala Tebi, O moj Bože, koji si Izvor svake slave i uzvišenosti, veličine i časti, vlasti i gospodstva, dostojanstva i milosti, strahopoštovanja i moći. Ti privlačiš koga hoćeš do blizine Najuzvišenijeg Okeana, i kome god že- liš ukazuješ čast da prepozna Tvoje Najdrevnije Ime. Niko na nebu i na zemlji, ne može odoljeti djelovanju Tvoje vrhovne Volje. Od vječnosti Ti vladaš čitavim stvorenim svijetom i zauvjek ćeš gospodariti svime što je stvoreno. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Najsilnijeg, Najmudrijeg.
-Ozari svijetlom, O Gospode, lica svojih slugu, da Te mogu gledati; i srca im pročisti, da bi se okrenuli ka dvoru Tvoje nebeske dobrote i prepoznali Onoga Koji je Objava Tebe Samoga i Osvit Tvoje Suštine. Ti, odista, jesi Gospodar svih svijetova. Nema drugog Boga osim Tebe, Neograničenog, Kome se sve pokorava.
+Neka je sva hvala Tebi, O moj Bože, koji si Izvor svake slave i uzvišenosti, veličine i časti, vlasti i gospodstva, dostojanstva i milosti, strahopoštovanja i moći. Ti privlačiš koga hoćeš do blizine Najuzvišenijeg Okeana, i kome god že- liš ukazuješ čast da prepozna Tvoje Najdrevnije Ime. Niko na nebu i na zemlji, ne može odoljeti djelovanju Tvoje vrhovne Volje. Od vječnosti Ti vladaš čitavim stvorenim svijetom i zauvjek ćeš gospodariti svime što je stvoreno. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Najsilnijeg, Najmudrijeg.Ozari svijetlom, O Gospode, lica svojih slugu, da Te mogu gledati; i srca im pročisti, da bi se okrenuli ka dvoru Tvoje nebeske dobrote i prepoznali Onoga Koji je Objava Tebe Samoga i Osvit Tvoje Suštine. Ti, odista, jesi Gospodar svih svijetova. Nema drugog Boga osim Tebe, Neograničenog, Kome se sve pokorava.
 
 -- Bahá'u'lláh
 
@@ -221,15 +209,11 @@ bpn5330 «[Montenegrin](../cnr/prayers/#bpn5330)»
 
 
 
-<a id="Teškoće"></a> 
+<a id="Tes%CC%8Ckoc%CC%81e"></a> 
 ## Teškoće
 
 <a id="bpn5348"></a> 
-Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi se oni što Te istinski ljube mogli prepoznati; i da nema kušnji što se trpe zarad ljubavi Tvoje, kako bi se uzvišenost onih koji za Tobom žude mogla pokazati? Tvoja moć mi je svjedok! Družbenice svih koji Te ljube su suze što se prolivaju, a utjehe onih koji Te traže su jauci njihovi, dok je hrana onih koji k Tebi hitaju od komadića njihovih slomljenih srca.
-Kako li je slatka mojim nepcima gorčina smrti podnesene na Tvome putu, a dragocjenost meni najveća, izloženost kopljima Tvojih neprijatelja radi uzdizanja riječi Tvoje! Daj mi da u Vjeri Tvojoj okusim, o moj Bože, šta god Ti poželiš, i u ljubavi Svojoj daj mi ono što si Ti odredio.
-Tako mi Slave Tvoje! Želim samo ono što Ti želiš i volim samo ono što Ti voliš. U svakom trenutku u Tebe sam polagao svu nadu svoju, u Tebe se potpuno uzdao. Ti si odista Gospodar Svega, Najviši.
-Preklinjem Te, O moj Bože, podstakni pomoćnike ovom Otkrovenju koji su takvi da će se smatrati dostojnima Tvoga imena i Tvoje Svevlasti, da će Te spominjati među Tvojim stvorenjima i podizati barjake Tvoje pobjede u zemlji Tvojoj i zaodjeni ih vrlinama i zapovjestima Tvojim.
-Moćan si Ti da činiš kako Ti volja. Nema drugog Boga osim Tebe, Pomagača u nevolji, Samodovoljnog.
+Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi se oni što Te istinski ljube mogli prepoznati; i da nema kušnji što se trpe zarad ljubavi Tvoje, kako bi se uzvišenost onih koji za Tobom žude mogla pokazati? Tvoja moć mi je svjedok! Družbenice svih koji Te ljube su suze što se prolivaju, a utjehe onih koji Te traže su jauci njihovi, dok je hrana onih koji k Tebi hitaju od komadića njihovih slomljenih srca.Kako li je slatka mojim nepcima gorčina smrti podnesene na Tvome putu, a dragocjenost meni najveća, izloženost kopljima Tvojih neprijatelja radi uzdizanja riječi Tvoje! Daj mi da u Vjeri Tvojoj okusim, o moj Bože, šta god Ti poželiš, i u ljubavi Svojoj daj mi ono što si Ti odredio.Tako mi Slave Tvoje! Želim samo ono što Ti želiš i volim samo ono što Ti voliš. U svakom trenutku u Tebe sam polagao svu nadu svoju, u Tebe se potpuno uzdao. Ti si odista Gospodar Svega, Najviši.Preklinjem Te, O moj Bože, podstakni pomoćnike ovom Otkrovenju koji su takvi da će se smatrati dostojnima Tvoga imena i Tvoje Svevlasti, da će Te spominjati među Tvojim stvorenjima i podizati barjake Tvoje pobjede u zemlji Tvojoj i zaodjeni ih vrlinama i zapovjestima Tvojim.Moćan si Ti da činiš kako Ti volja. Nema drugog Boga osim Tebe, Pomagača u nevolji, Samodovoljnog.
 
 -- Bahá'u'lláh
 
@@ -259,13 +243,11 @@ bpn5347 «[Montenegrin](../cnr/prayers/#bpn5347)»
 
 
 
-<a id="Za Preminule"></a> 
+<a id="Za+Preminule"></a> 
 ## Za Preminule
 
 <a id="bpn5343"></a> 
-O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ patnje!
-Najiskrenije Ti se molim da oprostiš grijehe onima koji su napustili svoje tjelesno ruho i uznijeli se u duhovni svijet.
-O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, a njihovu tamu pretvori u svjetlost. Daj da uđu u vrt sreće, operi ih najčistijom vodom, i podaj im da ugledaju Tvoj sjaj na najvišoj gori.
+O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ patnje!Najiskrenije Ti se molim da oprostiš grijehe onima koji su napustili svoje tjelesno ruho i uznijeli se u duhovni svijet.O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, a njihovu tamu pretvori u svjetlost. Daj da uđu u vrt sreće, operi ih najčistijom vodom, i podaj im da ugledaju Tvoj sjaj na najvišoj gori.
 
 -- Abdu'l-Bahá
 
