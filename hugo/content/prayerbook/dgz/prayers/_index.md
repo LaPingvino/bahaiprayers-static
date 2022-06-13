@@ -5,6 +5,7 @@ tags = ['lang=dgz', 'prayerbook']
 
 
 
+
 [Ayop Was Taragasepen U’uraewa (Praise)](#Ayop+Was+Taragasepen+U%E2%80%99uraewa+%28Praise%29)
 
 [Baigan U’uraewa (Unity)](#Baigan+U%E2%80%99uraewa+%28Unity%29)
@@ -41,7 +42,7 @@ Wat aimagam irani Maman Ge inagap.  Iwa Ge dun ganat, koa mentarin, Ge yaibobot 
 
 -- Bahá'u'lláh
 
-bpn13006 «[Daga](../dgz/prayers/#bpn13006)» 
+bpn13006 
 
 ----
 
@@ -55,7 +56,7 @@ Maman!  Maman! Nao gega taine nagire tobot ta amba Ge nao Gega kanamawa pauwa me
 
 -- Bahá'u'lláh
 
-bpn12997 «[Daga](../dgz/prayers/#bpn12997)» 
+bpn12997 
 
 ----
 
@@ -69,7 +70,7 @@ bpn12997 «[Daga](../dgz/prayers/#bpn12997)»
 
 -- Bahá'u'lláh
 
-bpn13002 «[Daga](../dgz/prayers/#bpn13002)» 
+bpn13002 
 
 ----
 
@@ -79,7 +80,7 @@ Maman!  Ge koewa imuwarat apanewa.  Puraput nunianawa.  Wat tondak apanewa.  Ipi
 
 -- Abdu'l-Bahá
 
-bpn13003 «[Daga](../dgz/prayers/#bpn13003)» 
+bpn13003 
 
 ----
 
@@ -93,7 +94,7 @@ Ne mumaget ao yon waingen Ge aeamat gega gapan.  Mamanawa!  Amba at pa nega aeve
 
 -- Bahá'u'lláh
 
-bpn13007 «[Daga](../dgz/prayers/#bpn13007)» 
+bpn13007 
 
 ----
 
@@ -107,7 +108,7 @@ Wat taragat iragi kwiman Ayop ge inagap.  Iwa Ge wam sisip ma potap ganat wat ma
 
 -- Bahá'u'lláh
 
-bpn13004 «[Daga](../dgz/prayers/#bpn13004)» 
+bpn13004 
 
 ----
 
@@ -117,7 +118,7 @@ bpn13004 «[Daga](../dgz/prayers/#bpn13004)»
 
 -- Abdu'l-Bahá
 
-bpn13005 «[Daga](../dgz/prayers/#bpn13005)» 
+bpn13005 
 
 ----
 
@@ -131,7 +132,7 @@ Endi koewa toborapen apane Maman?  Wata ge:  Maman wat taragasepen.  Me Maman di
 
 -- Báb
 
-bpn12996 «[Daga](../dgz/prayers/#bpn12996)» 
+bpn12996 
 
 ----
 
@@ -145,7 +146,7 @@ bpn12996 «[Daga](../dgz/prayers/#bpn12996)»
 
 -- Bahá'u'lláh
 
-bpn12995 «[Daga](../dgz/prayers/#bpn12995)» 
+bpn12995 
 
 ----
 
@@ -159,7 +160,7 @@ Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup
 
 -- Bahá'u'lláh
 
-bpn13085 «[Daga](../dgz/prayers/#bpn13085)» 
+bpn13085 
 
 ----
 
@@ -173,7 +174,7 @@ bpn13085 «[Daga](../dgz/prayers/#bpn13085)»
 
 -- Abdu'l-Bahá
 
-bpn12999 «[Daga](../dgz/prayers/#bpn12999)» 
+bpn12999 
 
 ----
 
@@ -187,7 +188,7 @@ Maman!  Tamanam nimanek, kwayup tanek, dun mine wat ganatam nimanek amba buwanae
 
 -- Bahá'u'lláh
 
-bpn13000 «[Daga](../dgz/prayers/#bpn13000)» 
+bpn13000 
 
 ----
 
@@ -197,7 +198,7 @@ Maman!  Otasin gega ma asik mun, mu irani Ge naewa gegawa. guwa, Ge dinip rarema
 
 -- Bahá'u'lláh
 
-bpn13084 «[Daga](../dgz/prayers/#bpn13084)» 
+bpn13084 
 
 ----
 
@@ -207,7 +208,7 @@ Ayop negawa!  Ayop negawa!.  Ne orup osu bodu nega arita uon.  Ne ge am gega kak
 
 -- Abdu'l-Bahá
 
-bpn13001 «[Daga](../dgz/prayers/#bpn13001)» 
+bpn13001 
 
 ----
 
@@ -221,7 +222,7 @@ Ge yauga ne dom gigit negawa, Maman! amba genan anuinawa ap ne inak neniwan.  Ma
 
 -- Bahá'u'lláh
 
-bpn12998 «[Daga](../dgz/prayers/#bpn12998)» 
+bpn12998 
 
 ----
 
@@ -235,7 +236,7 @@ Maman! Ge om gega da uon!  Ge Ayop wande iram!  Iyan ma Ge kwiman ita dun gegawa
 
 -- Abdu'l-Bahá
 
-bpn13008 «[Daga](../dgz/prayers/#bpn13008)» 
+bpn13008 
 
 ----
 
@@ -249,7 +250,7 @@ Wat aimagam uruga at outu koewa, at pa, amba pa sewa, amba at bumaggewa, amba su
 
 -- Bahá'u'lláh
 
-bpn12994 «[Daga](../dgz/prayers/#bpn12994)» 
+bpn12994 
 
 ----
 

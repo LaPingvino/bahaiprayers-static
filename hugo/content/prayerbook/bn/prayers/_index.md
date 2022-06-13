@@ -5,6 +5,7 @@ tags = ['lang=bn', 'prayerbook']
 
 
 
+
 [অগ্নি ফলকলিপি](#%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BF+%E0%A6%AB%E0%A6%B2%E0%A6%95%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BF)
 
 [অটলতার জন্য প্রার্থনা](#%E0%A6%85%E0%A6%9F%E0%A6%B2%E0%A6%A4%E0%A6%BE%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE)
@@ -107,7 +108,7 @@ tags = ['lang=bn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn8476 «[বাংলা](../bn/prayers/#bpn8476)» 
+bpn8476 
 
 ----
 
@@ -121,7 +122,7 @@ bpn8476 «[বাংলা](../bn/prayers/#bpn8476)»
 
 -- Bahá'u'lláh
 
-bpn8391 «[বাংলা](../bn/prayers/#bpn8391)» 
+bpn8391 
 
 ----
 
@@ -131,7 +132,7 @@ bpn8391 «[বাংলা](../bn/prayers/#bpn8391)»
 
 -- Bahá'u'lláh
 
-bpn8392 «[বাংলা](../bn/prayers/#bpn8392)» 
+bpn8392 
 
 ----
 
@@ -141,7 +142,7 @@ bpn8392 «[বাংলা](../bn/prayers/#bpn8392)»
 
 -- Bahá'u'lláh
 
-bpn8397 «[বাংলা](../bn/prayers/#bpn8397)» 
+bpn8397 
 
 ----
 
@@ -155,7 +156,7 @@ bpn8397 «[বাংলা](../bn/prayers/#bpn8397)»
 
 -- Abdu'l-Bahá
 
-bpn8393 «[বাংলা](../bn/prayers/#bpn8393)» 
+bpn8393 
 
 ----
 
@@ -169,7 +170,7 @@ bpn8393 «[বাংলা](../bn/prayers/#bpn8393)»
 
 -- Bahá'u'lláh
 
-bpn8470 «[বাংলা](../bn/prayers/#bpn8470)» 
+bpn8470 
 
 ----
 
@@ -183,7 +184,7 @@ bpn8470 «[বাংলা](../bn/prayers/#bpn8470)»
 
 -- Bahá'u'lláh
 
-bpn8406 «[বাংলা](../bn/prayers/#bpn8406)» 
+bpn8406 
 
 ----
 
@@ -193,7 +194,7 @@ bpn8406 «[বাংলা](../bn/prayers/#bpn8406)»
 
 -- Abdu'l-Bahá
 
-bpn8409 «[বাংলা](../bn/prayers/#bpn8409)» 
+bpn8409 
 
 ----
 
@@ -203,7 +204,7 @@ bpn8409 «[বাংলা](../bn/prayers/#bpn8409)»
 
 -- Abdu'l-Bahá
 
-bpn8410 «[বাংলা](../bn/prayers/#bpn8410)» 
+bpn8410 
 
 ----
 
@@ -213,7 +214,7 @@ bpn8410 «[বাংলা](../bn/prayers/#bpn8410)»
 
 -- Abdu'l-Bahá
 
-bpn8411 «[বাংলা](../bn/prayers/#bpn8411)» 
+bpn8411 
 
 ----
 
@@ -223,7 +224,7 @@ bpn8411 «[বাংলা](../bn/prayers/#bpn8411)»
 
 -- Abdu'l-Bahá
 
-bpn8415 «[বাংলা](../bn/prayers/#bpn8415)» 
+bpn8415 
 
 ----
 
@@ -233,7 +234,7 @@ bpn8415 «[বাংলা](../bn/prayers/#bpn8415)»
 
 -- Abdu'l-Bahá
 
-bpn8407 «[বাংলা](../bn/prayers/#bpn8407)» 
+bpn8407 
 
 ----
 
@@ -247,7 +248,7 @@ bpn8407 «[বাংলা](../bn/prayers/#bpn8407)»
 
 -- Abdu'l-Bahá
 
-bpn8421 «[বাংলা](../bn/prayers/#bpn8421)» 
+bpn8421 
 
 ----
 
@@ -261,7 +262,7 @@ bpn8421 «[বাংলা](../bn/prayers/#bpn8421)»
 
 -- Bahá'u'lláh
 
-bpn8403 «[বাংলা](../bn/prayers/#bpn8403)» 
+bpn8403 
 
 ----
 
@@ -271,7 +272,7 @@ bpn8403 «[বাংলা](../bn/prayers/#bpn8403)»
 
 -- Bahá'u'lláh
 
-bpn8404 «[বাংলা](../bn/prayers/#bpn8404)» 
+bpn8404 
 
 ----
 
@@ -285,7 +286,7 @@ bpn8404 «[বাংলা](../bn/prayers/#bpn8404)»
 
 -- Bahá'u'lláh
 
-bpn8464 «[বাংলা](../bn/prayers/#bpn8464)» 
+bpn8464 
 
 ----
 
@@ -299,7 +300,7 @@ bpn8464 «[বাংলা](../bn/prayers/#bpn8464)»
 
 -- Bahá'u'lláh
 
-bpn8457 «[বাংলা](../bn/prayers/#bpn8457)» 
+bpn8457 
 
 ----
 
@@ -309,7 +310,7 @@ bpn8457 «[বাংলা](../bn/prayers/#bpn8457)»
 
 -- Bahá'u'lláh
 
-bpn8473 «[বাংলা](../bn/prayers/#bpn8473)» 
+bpn8473 
 
 ----
 
@@ -323,7 +324,7 @@ bpn8473 «[বাংলা](../bn/prayers/#bpn8473)»
 
 -- Bahá'u'lláh
 
-bpn8472 «[বাংলা](../bn/prayers/#bpn8472)» 
+bpn8472 
 
 ----
 
@@ -337,7 +338,7 @@ bpn8472 «[বাংলা](../bn/prayers/#bpn8472)»
 
 -- Bahá'u'lláh
 
-bpn8412 «[বাংলা](../bn/prayers/#bpn8412)» 
+bpn8412 
 
 ----
 
@@ -347,7 +348,7 @@ bpn8412 «[বাংলা](../bn/prayers/#bpn8412)»
 
 -- Abdu'l-Bahá
 
-bpn8417 «[বাংলা](../bn/prayers/#bpn8417)» 
+bpn8417 
 
 ----
 
@@ -357,7 +358,7 @@ bpn8417 «[বাংলা](../bn/prayers/#bpn8417)»
 
 -- Abdu'l-Bahá
 
-bpn8418 «[বাংলা](../bn/prayers/#bpn8418)» 
+bpn8418 
 
 ----
 
@@ -367,7 +368,7 @@ bpn8418 «[বাংলা](../bn/prayers/#bpn8418)»
 
 -- Abdu'l-Bahá
 
-bpn8414 «[বাংলা](../bn/prayers/#bpn8414)» 
+bpn8414 
 
 ----
 
@@ -377,7 +378,7 @@ bpn8414 «[বাংলা](../bn/prayers/#bpn8414)»
 
 -- Abdu'l-Bahá
 
-bpn8416 «[বাংলা](../bn/prayers/#bpn8416)» 
+bpn8416 
 
 ----
 
@@ -391,7 +392,7 @@ bpn8416 «[বাংলা](../bn/prayers/#bpn8416)»
 
 -- Bahá'u'lláh
 
-bpn8479 «[বাংলা](../bn/prayers/#bpn8479)» 
+bpn8479 
 
 ----
 
@@ -405,7 +406,7 @@ bpn8479 «[বাংলা](../bn/prayers/#bpn8479)»
 
 -- Bahá'u'lláh
 
-bpn8401 «[বাংলা](../bn/prayers/#bpn8401)» 
+bpn8401 
 
 ----
 
@@ -415,7 +416,7 @@ bpn8401 «[বাংলা](../bn/prayers/#bpn8401)»
 
 -- Abdu'l-Bahá
 
-bpn8402 «[বাংলা](../bn/prayers/#bpn8402)» 
+bpn8402 
 
 ----
 
@@ -429,7 +430,7 @@ bpn8402 «[বাংলা](../bn/prayers/#bpn8402)»
 
 -- Abdu'l-Bahá
 
-bpn8420 «[বাংলা](../bn/prayers/#bpn8420)» 
+bpn8420 
 
 ----
 
@@ -443,7 +444,7 @@ bpn8420 «[বাংলা](../bn/prayers/#bpn8420)»
 
 -- Bahá'u'lláh
 
-bpn8434 «[বাংলা](../bn/prayers/#bpn8434)» 
+bpn8434 
 
 ----
 
@@ -457,7 +458,7 @@ bpn8434 «[বাংলা](../bn/prayers/#bpn8434)»
 
 -- Bahá'u'lláh
 
-bpn8485 «[বাংলা](../bn/prayers/#bpn8485)» 
+bpn8485 
 
 ----
 
@@ -471,7 +472,7 @@ bpn8485 «[বাংলা](../bn/prayers/#bpn8485)»
 
 -- Bahá'u'lláh
 
-bpn8447 «[বাংলা](../bn/prayers/#bpn8447)» 
+bpn8447 
 
 ----
 
@@ -481,7 +482,7 @@ bpn8447 «[বাংলা](../bn/prayers/#bpn8447)»
 
 -- Bahá'u'lláh
 
-bpn8448 «[বাংলা](../bn/prayers/#bpn8448)» 
+bpn8448 
 
 ----
 
@@ -491,7 +492,7 @@ bpn8448 «[বাংলা](../bn/prayers/#bpn8448)»
 
 -- Bahá'u'lláh
 
-bpn8445 «[বাংলা](../bn/prayers/#bpn8445)» 
+bpn8445 
 
 ----
 
@@ -501,7 +502,7 @@ bpn8445 «[বাংলা](../bn/prayers/#bpn8445)»
 
 -- Bahá'u'lláh
 
-bpn8446 «[বাংলা](../bn/prayers/#bpn8446)» 
+bpn8446 
 
 ----
 
@@ -515,7 +516,7 @@ bpn8446 «[বাংলা](../bn/prayers/#bpn8446)»
 
 -- Bahá'u'lláh
 
-bpn8475 «[বাংলা](../bn/prayers/#bpn8475)» 
+bpn8475 
 
 ----
 
@@ -529,7 +530,7 @@ bpn8475 «[বাংলা](../bn/prayers/#bpn8475)»
 
 -- Bahá'u'lláh
 
-bpn8449 «[বাংলা](../bn/prayers/#bpn8449)» 
+bpn8449 
 
 ----
 
@@ -543,7 +544,7 @@ bpn8449 «[বাংলা](../bn/prayers/#bpn8449)»
 
 -- Bahá'u'lláh
 
-bpn8474 «[বাংলা](../bn/prayers/#bpn8474)» 
+bpn8474 
 
 ----
 
@@ -557,7 +558,7 @@ bpn8474 «[বাংলা](../bn/prayers/#bpn8474)»
 
 -- Abdu'l-Bahá
 
-bpn8419 «[বাংলা](../bn/prayers/#bpn8419)» 
+bpn8419 
 
 ----
 
@@ -571,7 +572,7 @@ bpn8419 «[বাংলা](../bn/prayers/#bpn8419)»
 
 -- Abdu'l-Bahá
 
-bpn8405 «[বাংলা](../bn/prayers/#bpn8405)» 
+bpn8405 
 
 ----
 
@@ -585,7 +586,7 @@ bpn8405 «[বাংলা](../bn/prayers/#bpn8405)»
 
 -- Bahá'u'lláh
 
-bpn8430 «[বাংলা](../bn/prayers/#bpn8430)» 
+bpn8430 
 
 ----
 
@@ -599,7 +600,7 @@ bpn8430 «[বাংলা](../bn/prayers/#bpn8430)»
 
 -- Bahá'u'lláh
 
-bpn8471 «[বাংলা](../bn/prayers/#bpn8471)» 
+bpn8471 
 
 ----
 
@@ -609,7 +610,7 @@ bpn8471 «[বাংলা](../bn/prayers/#bpn8471)»
 
 -- Abdu'l-Bahá
 
-bpn8455 «[বাংলা](../bn/prayers/#bpn8455)» 
+bpn8455 
 
 ----
 
@@ -619,7 +620,7 @@ bpn8455 «[বাংলা](../bn/prayers/#bpn8455)»
 
 -- Abdu'l-Bahá
 
-bpn8460 «[বাংলা](../bn/prayers/#bpn8460)» 
+bpn8460 
 
 ----
 
@@ -629,7 +630,7 @@ bpn8460 «[বাংলা](../bn/prayers/#bpn8460)»
 
 -- Abdu'l-Bahá
 
-bpn8462 «[বাংলা](../bn/prayers/#bpn8462)» 
+bpn8462 
 
 ----
 
@@ -639,7 +640,7 @@ bpn8462 «[বাংলা](../bn/prayers/#bpn8462)»
 
 -- Abdu'l-Bahá
 
-bpn8463 «[বাংলা](../bn/prayers/#bpn8463)» 
+bpn8463 
 
 ----
 
@@ -653,7 +654,7 @@ bpn8463 «[বাংলা](../bn/prayers/#bpn8463)»
 
 -- Bahá'u'lláh
 
-bpn8459 «[বাংলা](../bn/prayers/#bpn8459)» 
+bpn8459 
 
 ----
 
@@ -667,7 +668,7 @@ bpn8459 «[বাংলা](../bn/prayers/#bpn8459)»
 
 -- Bahá'u'lláh
 
-bpn8422 «[বাংলা](../bn/prayers/#bpn8422)» 
+bpn8422 
 
 ----
 
@@ -677,7 +678,7 @@ bpn8422 «[বাংলা](../bn/prayers/#bpn8422)»
 
 -- Báb
 
-bpn8425 «[বাংলা](../bn/prayers/#bpn8425)» 
+bpn8425 
 
 ----
 
@@ -687,7 +688,7 @@ bpn8425 «[বাংলা](../bn/prayers/#bpn8425)»
 
 -- Báb
 
-bpn8423 «[বাংলা](../bn/prayers/#bpn8423)» 
+bpn8423 
 
 ----
 
@@ -697,7 +698,7 @@ bpn8423 «[বাংলা](../bn/prayers/#bpn8423)»
 
 -- Báb
 
-bpn8424 «[বাংলা](../bn/prayers/#bpn8424)» 
+bpn8424 
 
 ----
 
@@ -711,7 +712,7 @@ bpn8424 «[বাংলা](../bn/prayers/#bpn8424)»
 
 -- Abdu'l-Bahá
 
-bpn8437 «[বাংলা](../bn/prayers/#bpn8437)» 
+bpn8437 
 
 ----
 
@@ -725,7 +726,7 @@ bpn8437 «[বাংলা](../bn/prayers/#bpn8437)»
 
 -- Bahá'u'lláh
 
-bpn8388 «[বাংলা](../bn/prayers/#bpn8388)» 
+bpn8388 
 
 ----
 
@@ -739,7 +740,7 @@ bpn8388 «[বাংলা](../bn/prayers/#bpn8388)»
 
 -- Bahá'u'lláh
 
-bpn8488 «[বাংলা](../bn/prayers/#bpn8488)» 
+bpn8488 
 
 ----
 
@@ -753,7 +754,7 @@ bpn8488 «[বাংলা](../bn/prayers/#bpn8488)»
 
 -- Bahá'u'lláh
 
-bpn8487 «[বাংলা](../bn/prayers/#bpn8487)» 
+bpn8487 
 
 ----
 
@@ -767,7 +768,7 @@ bpn8487 «[বাংলা](../bn/prayers/#bpn8487)»
 
 -- Bahá'u'lláh
 
-bpn8450 «[বাংলা](../bn/prayers/#bpn8450)» 
+bpn8450 
 
 ----
 
@@ -777,7 +778,7 @@ bpn8450 «[বাংলা](../bn/prayers/#bpn8450)»
 
 -- Abdu'l-Bahá
 
-bpn8451 «[বাংলা](../bn/prayers/#bpn8451)» 
+bpn8451 
 
 ----
 
@@ -791,7 +792,7 @@ bpn8451 «[বাংলা](../bn/prayers/#bpn8451)»
 
 -- Abdu'l-Bahá
 
-bpn8442 «[বাংলা](../bn/prayers/#bpn8442)» 
+bpn8442 
 
 ----
 
@@ -805,7 +806,7 @@ bpn8442 «[বাংলা](../bn/prayers/#bpn8442)»
 
 -- Bahá'u'lláh
 
-bpn8482 «[বাংলা](../bn/prayers/#bpn8482)» 
+bpn8482 
 
 ----
 
@@ -819,7 +820,7 @@ bpn8482 «[বাংলা](../bn/prayers/#bpn8482)»
 
 -- Bahá'u'lláh
 
-bpn8484 «[বাংলা](../bn/prayers/#bpn8484)» 
+bpn8484 
 
 ----
 
@@ -833,7 +834,7 @@ bpn8484 «[বাংলা](../bn/prayers/#bpn8484)»
 
 -- Bahá'u'lláh
 
-bpn8480 «[বাংলা](../bn/prayers/#bpn8480)» 
+bpn8480 
 
 ----
 
@@ -847,7 +848,7 @@ bpn8480 «[বাংলা](../bn/prayers/#bpn8480)»
 
 -- Bahá'u'lláh
 
-bpn8483 «[বাংলা](../bn/prayers/#bpn8483)» 
+bpn8483 
 
 ----
 
@@ -861,7 +862,7 @@ bpn8483 «[বাংলা](../bn/prayers/#bpn8483)»
 
 -- Bahá'u'lláh
 
-bpn8436 «[বাংলা](../bn/prayers/#bpn8436)» 
+bpn8436 
 
 ----
 
@@ -875,7 +876,7 @@ bpn8436 «[বাংলা](../bn/prayers/#bpn8436)»
 
 -- Bahá'u'lláh
 
-bpn8435 «[বাংলা](../bn/prayers/#bpn8435)» 
+bpn8435 
 
 ----
 
@@ -885,7 +886,7 @@ bpn8435 «[বাংলা](../bn/prayers/#bpn8435)»
 
 -- Abdu'l-Bahá
 
-bpn8427 «[বাংলা](../bn/prayers/#bpn8427)» 
+bpn8427 
 
 ----
 
@@ -895,7 +896,7 @@ bpn8427 «[বাংলা](../bn/prayers/#bpn8427)»
 
 -- Abdu'l-Bahá
 
-bpn8428 «[বাংলা](../bn/prayers/#bpn8428)» 
+bpn8428 
 
 ----
 
@@ -909,7 +910,7 @@ bpn8428 «[বাংলা](../bn/prayers/#bpn8428)»
 
 -- Bahá'u'lláh
 
-bpn8439 «[বাংলা](../bn/prayers/#bpn8439)» 
+bpn8439 
 
 ----
 
@@ -923,7 +924,7 @@ bpn8439 «[বাংলা](../bn/prayers/#bpn8439)»
 
 -- Bahá'u'lláh
 
-bpn8389 «[বাংলা](../bn/prayers/#bpn8389)» 
+bpn8389 
 
 ----
 
@@ -933,7 +934,7 @@ bpn8389 «[বাংলা](../bn/prayers/#bpn8389)»
 
 -- Bahá'u'lláh
 
-bpn8390 «[বাংলা](../bn/prayers/#bpn8390)» 
+bpn8390 
 
 ----
 
@@ -947,7 +948,7 @@ bpn8390 «[বাংলা](../bn/prayers/#bpn8390)»
 
 -- Abdu'l-Bahá
 
-bpn8444 «[বাংলা](../bn/prayers/#bpn8444)» 
+bpn8444 
 
 ----
 
@@ -957,7 +958,7 @@ bpn8444 «[বাংলা](../bn/prayers/#bpn8444)»
 
 -- Abdu'l-Bahá
 
-bpn8441 «[বাংলা](../bn/prayers/#bpn8441)» 
+bpn8441 
 
 ----
 
@@ -967,7 +968,7 @@ bpn8441 «[বাংলা](../bn/prayers/#bpn8441)»
 
 -- Abdu'l-Bahá
 
-bpn8443 «[বাংলা](../bn/prayers/#bpn8443)» 
+bpn8443 
 
 ----
 
@@ -981,7 +982,7 @@ bpn8443 «[বাংলা](../bn/prayers/#bpn8443)»
 
 -- Bahá'u'lláh
 
-bpn8466 «[বাংলা](../bn/prayers/#bpn8466)» 
+bpn8466 
 
 ----
 
@@ -991,7 +992,7 @@ bpn8466 «[বাংলা](../bn/prayers/#bpn8466)»
 
 -- Abdu'l-Bahá
 
-bpn8468 «[বাংলা](../bn/prayers/#bpn8468)» 
+bpn8468 
 
 ----
 
@@ -1005,7 +1006,7 @@ bpn8468 «[বাংলা](../bn/prayers/#bpn8468)»
 
 -- Bahá'u'lláh
 
-bpn8396 «[বাংলা](../bn/prayers/#bpn8396)» 
+bpn8396 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn8396 «[বাংলা](../bn/prayers/#bpn8396)»
 
 -- Bahá'u'lláh
 
-bpn8432 «[বাংলা](../bn/prayers/#bpn8432)» 
+bpn8432 
 
 ----
 
@@ -1033,7 +1034,7 @@ bpn8432 «[বাংলা](../bn/prayers/#bpn8432)»
 
 -- Bahá'u'lláh
 
-bpn8398 «[বাংলা](../bn/prayers/#bpn8398)» 
+bpn8398 
 
 ----
 
@@ -1043,7 +1044,7 @@ bpn8398 «[বাংলা](../bn/prayers/#bpn8398)»
 
 -- Bahá'u'lláh
 
-bpn8399 «[বাংলা](../bn/prayers/#bpn8399)» 
+bpn8399 
 
 ----
 
@@ -1053,7 +1054,7 @@ bpn8399 «[বাংলা](../bn/prayers/#bpn8399)»
 
 -- Bahá'u'lláh
 
-bpn8400 «[বাংলা](../bn/prayers/#bpn8400)» 
+bpn8400 
 
 ----
 
@@ -1067,7 +1068,7 @@ bpn8400 «[বাংলা](../bn/prayers/#bpn8400)»
 
 -- Abdu'l-Bahá
 
-bpn8452 «[বাংলা](../bn/prayers/#bpn8452)» 
+bpn8452 
 
 ----
 

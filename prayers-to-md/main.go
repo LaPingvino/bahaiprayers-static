@@ -50,6 +50,7 @@ title = "{{.LanguageName}}"
 tags = ['lang={{.LanguageCode}}', 'prayerbook']
 +++
 {{$cl := .CrossLink}}
+{{$lc := .LanguageCode}}
 
 {{range $cat, $discard := .ByCategory}}
 [{{html $cat}}](#{{urlquery $cat}})
@@ -64,7 +65,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 -- {{.Author}}
 
-{{.PrayerCode}} {{range (index $cl .PrayerCode)}}«[{{.LanguageName}}](../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}
+{{.PrayerCode}} {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=kl', 'prayerbook']
 
 
 
+
 [Aalajaassuseq](#Aalajaassuseq)
 
 [Ahmad-imut Allakkat](#Ahmad-imut+Allakkat)
@@ -93,7 +94,7 @@ Guuti-aa, Guutiga! Peqqissimillunga Ilinnut saassimavunga, ilumullu Illit tassaa
 
 -- Bahá'u'lláh
 
-bpn7020 «[Kalaallisut](../kl/prayers/#bpn7020)» 
+bpn7020 
 
 ----
 
@@ -103,7 +104,7 @@ Naalagara, Guutiga! Asasatit ikiukkit Illit Upperisanni qularunnaartillugit, Siu
 
 -- Abdu'l-Bahá
 
-bpn7021 «[Kalaallisut](../kl/prayers/#bpn7021)» 
+bpn7021 
 
 ----
 
@@ -117,7 +118,7 @@ bpn7021 «[Kalaallisut](../kl/prayers/#bpn7021)»
 
 -- Bahá'u'lláh
 
-bpn7610 «[Kalaallisut](../kl/prayers/#bpn7610)» 
+bpn7610 
 
 ----
 
@@ -131,7 +132,7 @@ Allanik Guutiunngitsumik ajornartorsiutinut ajugaasinnaasoqarnerluni? Oqarit: Gu
 
 -- Báb
 
-bpn7022 «[Kalaallisut](../kl/prayers/#bpn7022)» 
+bpn7022 
 
 ----
 
@@ -141,7 +142,7 @@ Oqarit: Guuti tamanut naammattuuvoq tamanit, qilanni tamanit nunamiluunniit tama
 
 -- Báb
 
-bpn7023 «[Kalaallisut](../kl/prayers/#bpn7023)» 
+bpn7023 
 
 ----
 
@@ -151,7 +152,7 @@ Pissaanerit pillugu qinnuigaakkit Guutiga-aa! Misilinneqarfiit nalaanni ajoquseq
 
 -- Báb
 
-bpn7024 «[Kalaallisut](../kl/prayers/#bpn7024)» 
+bpn7024 
 
 ----
 
@@ -161,7 +162,7 @@ Naalagaq-aa! Tassaavutit anniaatinik tamanik Qimagutsitsisoq naalliuutinillu Pee
 
 -- Báb
 
-bpn7025 «[Kalaallisut](../kl/prayers/#bpn7025)» 
+bpn7025 
 
 ----
 
@@ -171,7 +172,7 @@ Ilisimalluarpat, Guutiga-aa, misiligaaffiit sumit tamaanngaanniit takkusoorfigis
 
 -- Báb
 
-bpn7026 «[Kalaallisut](../kl/prayers/#bpn7026)» 
+bpn7026 
 
 ----
 
@@ -181,7 +182,7 @@ Tassaavoq Misiginneqataasoq, Tukkusooq. Guuti-aa, Guutiga! Isigaarma nalunngilar
 
 -- Abdu'l-Bahá
 
-bpn7040 «[Kalaallisut](../kl/prayers/#bpn7040)» 
+bpn7040 
 
 ----
 
@@ -191,7 +192,7 @@ Naalagaq-aa, Guutiga naalliunnermit nalaarneqaraangama qimarravigisartagara. Ali
 
 -- Abdu'l-Bahá
 
-bpn7041 «[Kalaallisut](../kl/prayers/#bpn7041)» 
+bpn7041 
 
 ----
 
@@ -205,7 +206,7 @@ Aqqit katsorsaatigaara Guutiga-aa, Ilinnik eqqaamanninneq uannut katsorsaataavoq
 
 -- Bahá'u'lláh
 
-bpn7019 «[Kalaallisut](../kl/prayers/#bpn7019)» 
+bpn7019 
 
 ----
 
@@ -215,7 +216,7 @@ Tassaavoq Ajorunnaarsitsisoq, taanna Naammassisitsisoq, Ikiorti, Tamanik Isumakk
 
 -- Bahá'u'lláh
 
-bpn8372 «[Kalaallisut](../kl/prayers/#bpn8372)» 
+bpn8372 
 
 ----
 
@@ -229,7 +230,7 @@ bpn8372 «[Kalaallisut](../kl/prayers/#bpn8372)»
 
 -- Abdu'l-Bahá
 
-bpn12570 «[Kalaallisut](../kl/prayers/#bpn12570)» 
+bpn12570 
 
 ----
 
@@ -239,7 +240,7 @@ Anersaakkut Isumasioqatigiiffiup ataatsimeereernerani qinnut: Guuti-aa! Guuti-aa
 
 -- Abdu'l-Bahá
 
-bpn12571 «[Kalaallisut](../kl/prayers/#bpn12571)» 
+bpn12571 
 
 ----
 
@@ -253,7 +254,7 @@ Naalagara! Kusanassutsit inuussutigilara Qanissutsillu imeruersaatigalugu; Iluar
 
 -- Bahá'u'lláh
 
-bpn7018 «[Kalaallisut](../kl/prayers/#bpn7018)» 
+bpn7018 
 
 ----
 
@@ -263,7 +264,7 @@ bpn7018 «[Kalaallisut](../kl/prayers/#bpn7018)»
 
 -- Abdu'l-Bahá
 
-bpn6863 «[Kalaallisut](../kl/prayers/#bpn6863)» 
+bpn6863 
 
 ----
 
@@ -277,7 +278,7 @@ Illit Aqqutinni allornigut aalajaatsunngortikkit, Naalagaq-aa, Ilinnullu naalann
 
 -- Abdu'l-Bahá
 
-bpn7017 «[Kalaallisut](../kl/prayers/#bpn7017)» 
+bpn7017 
 
 ----
 
@@ -291,7 +292,7 @@ Guuti-aa, Guutiga! Asannitsivit ilumoortut qaavi qaammarsakkit, ajugaanerullu qu
 
 -- Abdu'l-Bahá
 
-bpn9114 «[Kalaallisut](../kl/prayers/#bpn9114)» 
+bpn9114 
 
 ----
 
@@ -305,7 +306,7 @@ Guutiga! Guutiga! Kiffavit uummataat peqatigiilersikkit Anguniakkavillu pissaasu
 
 -- Bahá'u'lláh
 
-bpn7255 «[Kalaallisut](../kl/prayers/#bpn7255)» 
+bpn7255 
 
 ----
 
@@ -315,7 +316,7 @@ Guutiga-aa! Guutiga-aa! Ilumut torlorfigaakkit qinnuigalutillu Alloriusarpit saa
 
 -- Abdu'l-Bahá
 
-bpn7256 «[Kalaallisut](../kl/prayers/#bpn7256)» 
+bpn7256 
 
 ----
 
@@ -329,7 +330,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa! Saammaassuinerpit anoraasigut ano
 
 -- Bahá'u'lláh
 
-bpn12579 «[Kalaallisut](../kl/prayers/#bpn12579)» 
+bpn12579 
 
 ----
 
@@ -339,7 +340,7 @@ Illit-aa Guuti nallittuisoq! Illit-aa pissaaneqarlutillu nakuusutit! Illit-aa At
 
 -- Abdu'l-Bahá
 
-bpn12572 «[Kalaallisut](../kl/prayers/#bpn12572)» 
+bpn12572 
 
 ----
 
@@ -349,7 +350,7 @@ Illit-aa Naalagaq ajunngitsoq! Uku tassa kiffatit, ataatsimiinnermut matumunnga 
 
 -- Abdu'l-Bahá
 
-bpn12573 «[Kalaallisut](../kl/prayers/#bpn12573)» 
+bpn12573 
 
 ----
 
@@ -359,7 +360,7 @@ Guutiga-aa! Guutiga-aa! Ilumut uku kiffatit Ilinnut saapput nallittuinerpillu na
 
 -- Abdu'l-Bahá
 
-bpn12574 «[Kalaallisut](../kl/prayers/#bpn12574)» 
+bpn12574 
 
 ----
 
@@ -373,7 +374,7 @@ Guutip Aqqani, Taanna Pisoqarsuusoq, Anginersaasoq. Ilumut unneqqarissut uummata
 
 -- Bahá'u'lláh
 
-bpn9984 «[Kalaallisut](../kl/prayers/#bpn9984)» 
+bpn9984 
 
 ----
 
@@ -387,7 +388,7 @@ bpn9984 «[Kalaallisut](../kl/prayers/#bpn9984)»
 
 -- Abdu'l-Bahá
 
-bpn12867 «[Kalaallisut](../kl/prayers/#bpn12867)» 
+bpn12867 
 
 ----
 
@@ -397,7 +398,7 @@ bpn12867 «[Kalaallisut](../kl/prayers/#bpn12867)»
 
 -- Abdu'l-Bahá
 
-bpn6864 «[Kalaallisut](../kl/prayers/#bpn6864)» 
+bpn6864 
 
 ----
 
@@ -411,7 +412,7 @@ bpn6864 «[Kalaallisut](../kl/prayers/#bpn6864)»
 
 -- Bahá'u'lláh
 
-bpn9979 «[Kalaallisut](../kl/prayers/#bpn9979)» 
+bpn9979 
 
 ----
 
@@ -421,7 +422,7 @@ Ataqqinartitaagit Illit, Naalagaq Guutiga-aa! Makku tassaapput ullut Illit inunn
 
 -- Bahá'u'lláh
 
-bpn9981 «[Kalaallisut](../kl/prayers/#bpn9981)» 
+bpn9981 
 
 ----
 
@@ -431,7 +432,7 @@ Ullut makku, Guutiga-aa, tassaapput Illit kiffannut peqqusinikkut iisinnginniarn
 
 -- Bahá'u'lláh
 
-bpn9980 «[Kalaallisut](../kl/prayers/#bpn9980)» 
+bpn9980 
 
 ----
 
@@ -441,7 +442,7 @@ Guuti-aa! Timip piumasai qimallugit iisinnginniartillunga nerinermik imernermill
 
 -- Abdu'l-Bahá
 
-bpn9982 «[Kalaallisut](../kl/prayers/#bpn9982)» 
+bpn9982 
 
 ----
 
@@ -455,7 +456,7 @@ Guutiga, Qinnuiga, Naalagara, Maqaasisara! Oqqap suup Ilinnut qujaniarnera oqaat
 
 -- Bahá'u'lláh
 
-bpn7257 «[Kalaallisut](../kl/prayers/#bpn7257)» 
+bpn7257 
 
 ----
 
@@ -469,7 +470,7 @@ Naalagara! Naalagara! Unnersiutigaakkit, qutsavigaakkillu kiffannut arnamut mani
 
 -- Abdu'l-Bahá
 
-bpn7258 «[Kalaallisut](../kl/prayers/#bpn7258)» 
+bpn7258 
 
 ----
 
@@ -483,7 +484,7 @@ Naalannartitaagit, Naalagaq-aa Guutiga! Qinnuigaakkit uanga Upperisavillu tapers
 
 -- Báb
 
-bpn7259 «[Kalaallisut](../kl/prayers/#bpn7259)» 
+bpn7259 
 
 ----
 
@@ -493,7 +494,7 @@ Naalagaq-aa! Uani upperisami ataqatigiissami anginersaasumi meeqqat angajoqqaami
 
 -- Abdu'l-Bahá
 
-bpn7260 «[Kalaallisut](../kl/prayers/#bpn7260)» 
+bpn7260 
 
 ----
 
@@ -507,7 +508,7 @@ Guuti-aa, Guutiga! Kiffat manna arnaq Ilinnik qaaqqusivoq, Ilinnik tatiginnillun
 
 -- Abdu'l-Bahá
 
-bpn7261 «[Kalaallisut](../kl/prayers/#bpn7261)» 
+bpn7261 
 
 ----
 
@@ -521,7 +522,7 @@ Guutiga! Qinnuigaakkit atikkut qaammarinnersaasukkut ikioqqullunga kiffavit suli
 
 -- Bahá'u'lláh
 
-bpn7262 «[Kalaallisut](../kl/prayers/#bpn7262)» 
+bpn7262 
 
 ----
 
@@ -531,7 +532,7 @@ Guuti, Saqqummersitanik tamanik Pinngortitsisoq, Aallaavinnullu tamanut Aallaavi
 
 -- Bahá'u'lláh
 
-bpn7263 «[Kalaallisut](../kl/prayers/#bpn7263)» 
+bpn7263 
 
 ----
 
@@ -541,7 +542,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa!Qinnuigaakkit Illit, Saqqummerneq 
 
 -- Bahá'u'lláh
 
-bpn12580 «[Kalaallisut](../kl/prayers/#bpn12580)» 
+bpn12580 
 
 ----
 
@@ -551,7 +552,7 @@ Guutiga-aa, Illit Kiffat Oqaatsip qullartinnissaanut ikioruk, pisuusaarnerup per
 
 -- Abdu'l-Bahá
 
-bpn7264 «[Kalaallisut](../kl/prayers/#bpn7264)» 
+bpn7264 
 
 ----
 
@@ -561,7 +562,7 @@ Guuti-aa, Guutiga! Kiffatit tatigisatit sallaatsumik asannittumillu uummateqaqqu
 
 -- Abdu'l-Bahá
 
-bpn7265 «[Kalaallisut](../kl/prayers/#bpn7265)» 
+bpn7265 
 
 ----
 
@@ -575,7 +576,7 @@ bpn7265 «[Kalaallisut](../kl/prayers/#bpn7265)»
 
 -- Abdu'l-Bahá
 
-bpn9115 «[Kalaallisut](../kl/prayers/#bpn9115)» 
+bpn9115 
 
 ----
 
@@ -585,7 +586,7 @@ bpn9115 «[Kalaallisut](../kl/prayers/#bpn9115)»
 
 -- Abdu'l-Bahá
 
-bpn9116 «[Kalaallisut](../kl/prayers/#bpn9116)» 
+bpn9116 
 
 ----
 
@@ -595,7 +596,7 @@ Guuti-aa, Guutiga! Isigaat qanoq taarnersuup nunat tamaasa ulissimagai, nunat ta
 
 -- Abdu'l-Bahá
 
-bpn9118 «[Kalaallisut](../kl/prayers/#bpn9118)» 
+bpn9118 
 
 ----
 
@@ -605,7 +606,7 @@ bpn9118 «[Kalaallisut](../kl/prayers/#bpn9118)»
 
 -- Abdu'l-Bahá
 
-bpn9122 «[Kalaallisut](../kl/prayers/#bpn9122)» 
+bpn9122 
 
 ----
 
@@ -615,7 +616,7 @@ bpn9122 «[Kalaallisut](../kl/prayers/#bpn9122)»
 
 -- Abdu'l-Bahá
 
-bpn9124 «[Kalaallisut](../kl/prayers/#bpn9124)» 
+bpn9124 
 
 ----
 
@@ -625,7 +626,7 @@ Illit-aa Guuti asseqanngitsutit! Illit-aa Naalagaaffiup Naalagaa! Tarnit makku t
 
 -- Abdu'l-Bahá
 
-bpn9117 «[Kalaallisut](../kl/prayers/#bpn9117)» 
+bpn9117 
 
 ----
 
@@ -635,7 +636,7 @@ bpn9117 «[Kalaallisut](../kl/prayers/#bpn9117)»
 
 -- Abdu'l-Bahá
 
-bpn9123 «[Kalaallisut](../kl/prayers/#bpn9123)» 
+bpn9123 
 
 ----
 
@@ -649,7 +650,7 @@ Illit Naalagaq saamasutit! Inuit tamaasa naggueqatigiilersillugit Pinngortissima
 
 -- Abdu'l-Bahá
 
-bpn7266 «[Kalaallisut](../kl/prayers/#bpn7266)» 
+bpn7266 
 
 ----
 
@@ -663,7 +664,7 @@ Guutiga tassaavutit Atikkut napparsimasunik Ajorunnaarsitsisartoq, sanngiitsunik
 
 -- Bahá'u'lláh
 
-bpn9960 «[Kalaallisut](../kl/prayers/#bpn9960)» 
+bpn9960 
 
 ----
 
@@ -673,7 +674,7 @@ Isigaarma, Naalagara-aa, kiinara tukkussutsivit qilaata tungaanut tunissutivillu
 
 -- Bahá'u'lláh
 
-bpn9961 «[Kalaallisut](../kl/prayers/#bpn9961)» 
+bpn9961 
 
 ----
 
@@ -683,7 +684,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa! Sapiiserlunga Ilinnik oqaluuseqar
 
 -- Bahá'u'lláh
 
-bpn9962 «[Kalaallisut](../kl/prayers/#bpn9962)» 
+bpn9962 
 
 ----
 
@@ -693,7 +694,7 @@ Aqqit unnersiutigisaali, Guutiga-aa suut tamarmik Guutiat, Naalannassutaatiga su
 
 -- Bahá'u'lláh
 
-bpn9963 «[Kalaallisut](../kl/prayers/#bpn9963)» 
+bpn9963 
 
 ----
 
@@ -703,7 +704,7 @@ Uanga taannaavunga, Naalagara-aa, kiinnaminik Ilinnut saattoq, neriuumminillu Il
 
 -- Bahá'u'lláh
 
-bpn7015 «[Kalaallisut](../kl/prayers/#bpn7015)» 
+bpn7015 
 
 ----
 
@@ -713,7 +714,7 @@ Illernarsisitaagit Illit, Naalagaq Guutiga-aa! Qinikkakkut tatigisakkullu Taassu
 
 -- Bahá'u'lláh
 
-bpn7016 «[Kalaallisut](../kl/prayers/#bpn7016)» 
+bpn7016 
 
 ----
 
@@ -723,7 +724,7 @@ Guuti-aa Naalagarput! Saammaannikkut illersortigut tamanut Ilinnut akerliusunut,
 
 -- Báb
 
-bpn9964 «[Kalaallisut](../kl/prayers/#bpn9964)» 
+bpn9964 
 
 ----
 
@@ -733,7 +734,7 @@ Unnersiutigisaagit Illit, Naalagaq-aa. Ajortuliavut isumakkeerfigikkit, nalligit
 
 -- Báb
 
-bpn9965 «[Kalaallisut](../kl/prayers/#bpn9965)» 
+bpn9965 
 
 ----
 
@@ -743,7 +744,7 @@ Qinnuigaakkit isumakkeerfigeqqullunga, Naalagara-aa, oqalunnermut sumulluunniit 
 
 -- Báb
 
-bpn9966 «[Kalaallisut](../kl/prayers/#bpn9966)» 
+bpn9966 
 
 ----
 
@@ -753,7 +754,7 @@ Ataqqinarsisitaagit Illit, Guuti-aa, Qanoq ilillunga Illit oqaluuserissavakkit I
 
 -- Báb
 
-bpn9967 «[Kalaallisut](../kl/prayers/#bpn9967)» 
+bpn9967 
 
 ----
 
@@ -763,7 +764,7 @@ Isumakkeerfiginninnissat qinnutigaara, Guutiga-aa, isumakkiigaanerlu qinnutigalu
 
 -- Báb
 
-bpn9968 «[Kalaallisut](../kl/prayers/#bpn9968)» 
+bpn9968 
 
 ----
 
@@ -773,7 +774,7 @@ Illit Ajugaqanngitsutit! Ajortiliuvunga isumakkeerfigaarmali. Amigaateqaqaanga n
 
 -- Abdu'l-Bahá
 
-bpn9969 «[Kalaallisut](../kl/prayers/#bpn9969)» 
+bpn9969 
 
 ----
 
@@ -783,7 +784,7 @@ Naalagara, Illit-aa Inuit neriuutaat! Tassaavutit kiffannut makkununnga tamanut 
 
 -- Abdu'l-Bahá
 
-bpn9970 «[Kalaallisut](../kl/prayers/#bpn9970)» 
+bpn9970 
 
 ----
 
@@ -797,7 +798,7 @@ Pilluaqqunneqarli manna, illu, sumiiffillu, illoqarfillu, uummallu, qaqqarlu, to
 
 -- Bahá'u'lláh
 
-bpn9120 «[Kalaallisut](../kl/prayers/#bpn9120)» 
+bpn9120 
 
 ----
 
@@ -811,7 +812,7 @@ bpn9120 «[Kalaallisut](../kl/prayers/#bpn9120)»
 
 -- Bahá'u'lláh
 
-bpn9971 «[Kalaallisut](../kl/prayers/#bpn9971)» 
+bpn9971 
 
 ----
 
@@ -821,7 +822,7 @@ bpn9971 «[Kalaallisut](../kl/prayers/#bpn9971)»
 
 -- Bahá'u'lláh
 
-bpn12575 «[Kalaallisut](../kl/prayers/#bpn12575)» 
+bpn12575 
 
 ----
 
@@ -831,7 +832,7 @@ Naalannartinneqarit Guutiga-aa! Ilumut, kiffat una kiffallu arnaq una Naakkinnin
 
 -- Abdu'l-Bahá
 
-bpn9972 «[Kalaallisut](../kl/prayers/#bpn9972)» 
+bpn9972 
 
 ----
 
@@ -841,7 +842,7 @@ Guutiuvoq!Naalagaq-aa asseqanngitsoq! Ilisimassutsikkut pissaaneqarnerpaakkut in
 
 -- Abdu'l-Bahá
 
-bpn12576 «[Kalaallisut](../kl/prayers/#bpn12576)» 
+bpn12576 
 
 ----
 
@@ -855,7 +856,7 @@ Ilisimanngilara, Guutiga-aa, Inneq sunaanersoq Illit Nunanni ikissimasat. Nunars
 
 -- Bahá'u'lláh
 
-bpn7014 «[Kalaallisut](../kl/prayers/#bpn7014)» 
+bpn7014 
 
 ----
 
@@ -869,7 +870,7 @@ Guutiga-aa, tassaannaavunga naatsiiassannguaq, asanninnerpit nunaani AssannitTuk
 
 -- Bahá'u'lláh
 
-bpn10521 «[Kalaallisut](../kl/prayers/#bpn10521)» 
+bpn10521 
 
 ----
 
@@ -879,7 +880,7 @@ Oqarit :&#34;Guuti-aa, Guutiga! Niaqora eqqortuliornerup niaqorutaanik qaaraluna
 
 -- Bahá'u'lláh
 
-bpn10522 «[Kalaallisut](../kl/prayers/#bpn10522)» 
+bpn10522 
 
 ----
 
@@ -889,7 +890,7 @@ Guuti-aa! Siulersunnga, illersunnga, uummatima qullia qaammarsarukullorianngorti
 
 -- Abdu'l-Bahá
 
-bpn10523 «[Kalaallisut](../kl/prayers/#bpn10523)» 
+bpn10523 
 
 ----
 
@@ -899,7 +900,7 @@ Naalagara! Naalagara! Meeraavunga pinngorlaaq. Naakkinnissutsivit sakiaanitinuus
 
 -- Abdu'l-Bahá
 
-bpn10524 «[Kalaallisut](../kl/prayers/#bpn10524)» 
+bpn10524 
 
 ----
 
@@ -909,7 +910,7 @@ Guuti-aa! Meerannguaq una Asanninnerpit pakkussinerata iluani perorsaruk, Siuler
 
 -- Abdu'l-Bahá
 
-bpn10525 «[Kalaallisut](../kl/prayers/#bpn10525)» 
+bpn10525 
 
 ----
 
@@ -919,7 +920,7 @@ Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinnipaarnaqut
 
 -- Abdu'l-Bahá
 
-bpn10526 «[Kalaallisut](../kl/prayers/#bpn10526)» 
+bpn10526 
 
 ----
 
@@ -929,7 +930,7 @@ Naalagaq-aa! Inuusuttoq una qaammarissunngortiguk, pinngortitarlu nallinnartoq m
 
 -- Abdu'l-Bahá
 
-bpn10527 «[Kalaallisut](../kl/prayers/#bpn10527)» 
+bpn10527 
 
 ----
 
@@ -943,7 +944,7 @@ bpn10527 «[Kalaallisut](../kl/prayers/#bpn10527)»
 
 -- Bahá'u'lláh
 
-bpn9986 «[Kalaallisut](../kl/prayers/#bpn9986)» 
+bpn9986 
 
 ----
 
@@ -953,7 +954,7 @@ bpn9986 «[Kalaallisut](../kl/prayers/#bpn9986)»
 
 -- Abdu'l-Bahá
 
-bpn9987 «[Kalaallisut](../kl/prayers/#bpn9987)» 
+bpn9987 
 
 ----
 
@@ -967,7 +968,7 @@ bpn9987 «[Kalaallisut](../kl/prayers/#bpn9987)»
 
 -- Bahá'u'lláh
 
-bpn6849 «[Kalaallisut](../kl/prayers/#bpn6849)» 
+bpn6849 
 
 ----
 
@@ -981,7 +982,7 @@ bpn6849 «[Kalaallisut](../kl/prayers/#bpn6849)»
 
 -- Bahá'u'lláh
 
-bpn9959 «[Kalaallisut](../kl/prayers/#bpn9959)» 
+bpn9959 
 
 ----
 
@@ -995,7 +996,7 @@ bpn9959 «[Kalaallisut](../kl/prayers/#bpn9959)»
 
 -- Bahá'u'lláh
 
-bpn9113 «[Kalaallisut](../kl/prayers/#bpn9113)» 
+bpn9113 
 
 ----
 
@@ -1009,7 +1010,7 @@ Aqqit Unnersiutaali, Naalagaq Guutiga-aa! Illit Atikkut qinnuigaakkit nalunaaqut
 
 -- Bahá'u'lláh
 
-bpn10529 «[Kalaallisut](../kl/prayers/#bpn10529)» 
+bpn10529 
 
 ----
 
@@ -1019,7 +1020,7 @@ Guuti-aa, Guutiga! Angerlarsimaffiga qimassimavara, Asanninnerpilli qilerutaaipe
 
 -- Bahá'u'lláh
 
-bpn10530 «[Kalaallisut](../kl/prayers/#bpn10530)» 
+bpn10530 
 
 ----
 
@@ -1029,7 +1030,7 @@ Naalannartinneqarit Guuti-aa! Guutiuvutit suut tamaasa sioqqullugit piusimasoq,s
 
 -- Báb
 
-bpn10528 «[Kalaallisut](../kl/prayers/#bpn10528)» 
+bpn10528 
 
 ----
 
@@ -1039,7 +1040,7 @@ Uannut aalajangeruk, Naalagara-aa, Ilinnullu upperinnittunut Illit isinni uatsin
 
 -- Báb
 
-bpn10531 «[Kalaallisut](../kl/prayers/#bpn10531)» 
+bpn10531 
 
 ----
 
@@ -1049,7 +1050,7 @@ Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginni
 
 -- Báb
 
-bpn10533 «[Kalaallisut](../kl/prayers/#bpn10533)» 
+bpn10533 
 
 ----
 
@@ -1059,7 +1060,7 @@ Naalagara-aa! Nalunngilat inuiaat anniaammik ajunaarnermillu nalaanneqarsimasut,
 
 -- Abdu'l-Bahá
 
-bpn10532 «[Kalaallisut](../kl/prayers/#bpn10532)» 
+bpn10532 
 
 ----
 
@@ -1073,7 +1074,7 @@ Guutiuvoq, nersorneqangaarli asannilluni isumassuinerup tukkussutsillu Naalagaa!
 
 -- Bahá'u'lláh
 
-bpn9105 «[Kalaallisut](../kl/prayers/#bpn9105)» 
+bpn9105 
 
 ----
 
@@ -1083,7 +1084,7 @@ bpn9105 «[Kalaallisut](../kl/prayers/#bpn9105)»
 
 -- Bahá'u'lláh
 
-bpn12577 «[Kalaallisut](../kl/prayers/#bpn12577)» 
+bpn12577 
 
 ----
 
@@ -1093,7 +1094,7 @@ Guutiga-aa! Illit ajortulianik isumakkeerisoq, tunissutinik tunisisoq, naalliuut
 
 -- Abdu'l-Bahá
 
-bpn9121 «[Kalaallisut](../kl/prayers/#bpn9121)» 
+bpn9121 
 
 ----
 
@@ -1107,7 +1108,7 @@ bpn9121 «[Kalaallisut](../kl/prayers/#bpn9121)»
 
 -- Bahá'u'lláh
 
-bpn9983 «[Kalaallisut](../kl/prayers/#bpn9983)» 
+bpn9983 
 
 ----
 
@@ -1121,7 +1122,7 @@ Illit paaqqinninnikkut iterpunga, Guutiga-aa, paaqqinninnernillu qinerlertup pis
 
 -- Bahá'u'lláh
 
-bpn10534 «[Kalaallisut](../kl/prayers/#bpn10534)» 
+bpn10534 
 
 ----
 
@@ -1131,7 +1132,7 @@ Ullaami maani Saammaassinikkut makissimavunga, Guutiga-aa, angerlarsimaffigalu q
 
 -- Bahá'u'lláh
 
-bpn10535 «[Kalaallisut](../kl/prayers/#bpn10535)» 
+bpn10535 
 
 ----
 
@@ -1141,7 +1142,7 @@ Unnersiutigaakkit, Guutiga-aa, sininnit itertikkamma, qimagusimaninnillu sassart
 
 -- Bahá'u'lláh
 
-bpn10536 «[Kalaallisut](../kl/prayers/#bpn10536)» 
+bpn10536 
 
 ----
 
@@ -1155,7 +1156,7 @@ Ullut Tapiliussat, februarip 26-anniit martsip aallaqqaataanut, ullut taakku ila
 
 -- Bahá'u'lláh
 
-bpn9978 «[Kalaallisut](../kl/prayers/#bpn9978)» 
+bpn9978 
 
 ----
 
@@ -1169,7 +1170,7 @@ bpn9978 «[Kalaallisut](../kl/prayers/#bpn9978)»
 
 -- Bahá'u'lláh
 
-bpn9985 «[Kalaallisut](../kl/prayers/#bpn9985)» 
+bpn9985 
 
 ----
 
@@ -1183,7 +1184,7 @@ Kiffaq-aa, Guutimit taallat ilinnut saqqummiunneqarsimasut appikkit, soorlu Guut
 
 -- Bahá'u'lláh
 
-bpn9119 «[Kalaallisut](../kl/prayers/#bpn9119)» 
+bpn9119 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn9119 «[Kalaallisut](../kl/prayers/#bpn9119)»
 
 -- Abdu'l-Bahá
 
-bpn9973 «[Kalaallisut](../kl/prayers/#bpn9973)» 
+bpn9973 
 
 ----
 
@@ -1211,7 +1212,7 @@ Guutiga-aa, Naalagara, kipisanerma Anguniagaa! Una kiffat naakkinnissuserpit oqq
 
 -- Bahá'u'lláh
 
-bpn9974 «[Kalaallisut](../kl/prayers/#bpn9974)» 
+bpn9974 
 
 ----
 
@@ -1225,7 +1226,7 @@ Naalagaq-aa! Ataasiussutsivit guuterpaluttup Orpia sukkasuumik ineriartorsinnaaq
 
 -- Báb
 
-bpn9976 «[Kalaallisut](../kl/prayers/#bpn9976)» 
+bpn9976 
 
 ----
 
@@ -1235,7 +1236,7 @@ Naalagaq-aa! Nunarsuup inuiai tamaasa Upperisavit Paradiisianut isersinnaanissaa
 
 -- Báb
 
-bpn9975 «[Kalaallisut](../kl/prayers/#bpn9975)» 
+bpn9975 
 
 ----
 
@@ -1245,7 +1246,7 @@ Guuti-aa, Guutiga! Naalannarsisitaagit asanninnerup guuterpaluttup innera Orpimm
 
 -- Abdu'l-Bahá
 
-bpn9977 «[Kalaallisut](../kl/prayers/#bpn9977)» 
+bpn9977 
 
 ----
 

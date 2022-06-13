@@ -5,6 +5,7 @@ tags = ['lang=uk', 'prayerbook']
 
 
 
+
 [Близькість до Бога](#%D0%91%D0%BB%D0%B8%D0%B7%D1%8C%D0%BA%D1%96%D1%81%D1%82%D1%8C+%D0%B4%D0%BE+%D0%91%D0%BE%D0%B3%D0%B0)
 
 [Вечір](#%D0%92%D0%B5%D1%87%D1%96%D1%80)
@@ -69,7 +70,7 @@ tags = ['lang=uk', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn13298 «[Україна](../uk/prayers/#bpn13298)» 
+bpn13298 
 
 ----
 
@@ -83,7 +84,7 @@ bpn13298 «[Україна](../uk/prayers/#bpn13298)»
 
 -- Bahá'u'lláh
 
-bpn13315 «[Україна](../uk/prayers/#bpn13315)» 
+bpn13315 
 
 ----
 
@@ -97,7 +98,7 @@ bpn13315 «[Україна](../uk/prayers/#bpn13315)»
 
 -- Báb
 
-bpn13266 «[Україна](../uk/prayers/#bpn13266)» 
+bpn13266 
 
 ----
 
@@ -107,7 +108,7 @@ bpn13266 «[Україна](../uk/prayers/#bpn13266)»
 
 -- Báb
 
-bpn13688 «[Україна](../uk/prayers/#bpn13688)» 
+bpn13688 
 
 ----
 
@@ -121,7 +122,7 @@ bpn13688 «[Україна](../uk/prayers/#bpn13688)»
 
 -- Bahá'u'lláh
 
-bpn13692 «[Україна](../uk/prayers/#bpn13692)» 
+bpn13692 
 
 ----
 
@@ -135,7 +136,7 @@ bpn13692 «[Україна](../uk/prayers/#bpn13692)»
 
 -- Bahá'u'lláh
 
-bpn13264 «[Україна](../uk/prayers/#bpn13264)» 
+bpn13264 
 
 ----
 
@@ -145,7 +146,7 @@ bpn13264 «[Україна](../uk/prayers/#bpn13264)»
 
 -- Báb
 
-bpn13312 «[Україна](../uk/prayers/#bpn13312)» 
+bpn13312 
 
 ----
 
@@ -155,7 +156,7 @@ bpn13312 «[Україна](../uk/prayers/#bpn13312)»
 
 -- Abdu'l-Bahá
 
-bpn13265 «[Україна](../uk/prayers/#bpn13265)» 
+bpn13265 
 
 ----
 
@@ -165,7 +166,7 @@ bpn13265 «[Україна](../uk/prayers/#bpn13265)»
 
 -- Abdu'l-Bahá
 
-bpn13313 «[Україна](../uk/prayers/#bpn13313)» 
+bpn13313 
 
 ----
 
@@ -179,7 +180,7 @@ bpn13313 «[Україна](../uk/prayers/#bpn13313)»
 
 -- Bahá'u'lláh
 
-bpn13283 «[Україна](../uk/prayers/#bpn13283)» 
+bpn13283 
 
 ----
 
@@ -189,7 +190,7 @@ bpn13283 «[Україна](../uk/prayers/#bpn13283)»
 
 -- Bahá'u'lláh
 
-bpn13284 «[Україна](../uk/prayers/#bpn13284)» 
+bpn13284 
 
 ----
 
@@ -199,7 +200,7 @@ bpn13284 «[Україна](../uk/prayers/#bpn13284)»
 
 -- Bahá'u'lláh
 
-bpn13310 «[Україна](../uk/prayers/#bpn13310)» 
+bpn13310 
 
 ----
 
@@ -209,7 +210,7 @@ bpn13310 «[Україна](../uk/prayers/#bpn13310)»
 
 -- Bahá'u'lláh
 
-bpn13311 «[Україна](../uk/prayers/#bpn13311)» 
+bpn13311 
 
 ----
 
@@ -219,7 +220,7 @@ bpn13311 «[Україна](../uk/prayers/#bpn13311)»
 
 -- Abdu'l-Bahá
 
-bpn13285 «[Україна](../uk/prayers/#bpn13285)» 
+bpn13285 
 
 ----
 
@@ -229,7 +230,7 @@ bpn13285 «[Україна](../uk/prayers/#bpn13285)»
 
 -- Abdu'l-Bahá
 
-bpn13286 «[Україна](../uk/prayers/#bpn13286)» 
+bpn13286 
 
 ----
 
@@ -239,7 +240,7 @@ bpn13286 «[Україна](../uk/prayers/#bpn13286)»
 
 -- Abdu'l-Bahá
 
-bpn13287 «[Україна](../uk/prayers/#bpn13287)» 
+bpn13287 
 
 ----
 
@@ -249,7 +250,7 @@ bpn13287 «[Україна](../uk/prayers/#bpn13287)»
 
 -- Abdu'l-Bahá
 
-bpn13690 «[Україна](../uk/prayers/#bpn13690)» 
+bpn13690 
 
 ----
 
@@ -263,7 +264,7 @@ bpn13690 «[Україна](../uk/prayers/#bpn13690)»
 
 -- Abdu'l-Bahá
 
-bpn13300 «[Україна](../uk/prayers/#bpn13300)» 
+bpn13300 
 
 ----
 
@@ -273,7 +274,7 @@ bpn13300 «[Україна](../uk/prayers/#bpn13300)»
 
 -- Abdu'l-Bahá
 
-bpn13301 «[Україна](../uk/prayers/#bpn13301)» 
+bpn13301 
 
 ----
 
@@ -283,7 +284,7 @@ bpn13301 «[Україна](../uk/prayers/#bpn13301)»
 
 -- Abdu'l-Bahá
 
-bpn13302 «[Україна](../uk/prayers/#bpn13302)» 
+bpn13302 
 
 ----
 
@@ -293,7 +294,7 @@ bpn13302 «[Україна](../uk/prayers/#bpn13302)»
 
 -- Abdu'l-Bahá
 
-bpn13314 «[Україна](../uk/prayers/#bpn13314)» 
+bpn13314 
 
 ----
 
@@ -307,7 +308,7 @@ bpn13314 «[Україна](../uk/prayers/#bpn13314)»
 
 -- Bahá'u'lláh
 
-bpn13303 «[Україна](../uk/prayers/#bpn13303)» 
+bpn13303 
 
 ----
 
@@ -317,7 +318,7 @@ bpn13303 «[Україна](../uk/prayers/#bpn13303)»
 
 -- Abdu'l-Bahá
 
-bpn13277 «[Україна](../uk/prayers/#bpn13277)» 
+bpn13277 
 
 ----
 
@@ -327,7 +328,7 @@ bpn13277 «[Україна](../uk/prayers/#bpn13277)»
 
 -- Abdu'l-Bahá
 
-bpn13306 «[Україна](../uk/prayers/#bpn13306)» 
+bpn13306 
 
 ----
 
@@ -341,7 +342,7 @@ bpn13306 «[Україна](../uk/prayers/#bpn13306)»
 
 -- Abdu'l-Bahá
 
-bpn13271 «[Україна](../uk/prayers/#bpn13271)» 
+bpn13271 
 
 ----
 
@@ -355,7 +356,7 @@ bpn13271 «[Україна](../uk/prayers/#bpn13271)»
 
 -- Bahá'u'lláh
 
-bpn13293 «[Україна](../uk/prayers/#bpn13293)» 
+bpn13293 
 
 ----
 
@@ -365,7 +366,7 @@ bpn13293 «[Україна](../uk/prayers/#bpn13293)»
 
 -- Abdu'l-Bahá
 
-bpn13697 «[Україна](../uk/prayers/#bpn13697)» 
+bpn13697 
 
 ----
 
@@ -379,7 +380,7 @@ bpn13697 «[Україна](../uk/prayers/#bpn13697)»
 
 -- Abdu'l-Bahá
 
-bpn13289 «[Україна](../uk/prayers/#bpn13289)» 
+bpn13289 
 
 ----
 
@@ -389,7 +390,7 @@ bpn13289 «[Україна](../uk/prayers/#bpn13289)»
 
 -- Abdu'l-Bahá
 
-bpn13290 «[Україна](../uk/prayers/#bpn13290)» 
+bpn13290 
 
 ----
 
@@ -399,7 +400,7 @@ bpn13290 «[Україна](../uk/prayers/#bpn13290)»
 
 -- Abdu'l-Bahá
 
-bpn13291 «[Україна](../uk/prayers/#bpn13291)» 
+bpn13291 
 
 ----
 
@@ -413,7 +414,7 @@ bpn13291 «[Україна](../uk/prayers/#bpn13291)»
 
 -- Abdu'l-Bahá
 
-bpn13267 «[Україна](../uk/prayers/#bpn13267)» 
+bpn13267 
 
 ----
 
@@ -423,7 +424,7 @@ bpn13267 «[Україна](../uk/prayers/#bpn13267)»
 
 -- Abdu'l-Bahá
 
-bpn13268 «[Україна](../uk/prayers/#bpn13268)» 
+bpn13268 
 
 ----
 
@@ -437,7 +438,7 @@ bpn13268 «[Україна](../uk/prayers/#bpn13268)»
 
 -- Bahá'u'lláh
 
-bpn13278 «[Україна](../uk/prayers/#bpn13278)» 
+bpn13278 
 
 ----
 
@@ -447,7 +448,7 @@ bpn13278 «[Україна](../uk/prayers/#bpn13278)»
 
 -- Bahá'u'lláh
 
-bpn13279 «[Україна](../uk/prayers/#bpn13279)» 
+bpn13279 
 
 ----
 
@@ -457,7 +458,7 @@ bpn13279 «[Україна](../uk/prayers/#bpn13279)»
 
 -- Bahá'u'lláh
 
-bpn13280 «[Україна](../uk/prayers/#bpn13280)» 
+bpn13280 
 
 ----
 
@@ -467,7 +468,7 @@ bpn13280 «[Україна](../uk/prayers/#bpn13280)»
 
 -- Bahá'u'lláh
 
-bpn13695 «[Україна](../uk/prayers/#bpn13695)» 
+bpn13695 
 
 ----
 
@@ -477,7 +478,7 @@ bpn13695 «[Україна](../uk/prayers/#bpn13695)»
 
 -- Báb
 
-bpn13281 «[Україна](../uk/prayers/#bpn13281)» 
+bpn13281 
 
 ----
 
@@ -487,7 +488,7 @@ bpn13281 «[Україна](../uk/prayers/#bpn13281)»
 
 -- Abdu'l-Bahá
 
-bpn13282 «[Україна](../uk/prayers/#bpn13282)» 
+bpn13282 
 
 ----
 
@@ -501,7 +502,7 @@ bpn13282 «[Україна](../uk/prayers/#bpn13282)»
 
 -- Bahá'u'lláh
 
-bpn13572 «[Україна](../uk/prayers/#bpn13572)» 
+bpn13572 
 
 ----
 
@@ -511,7 +512,7 @@ bpn13572 «[Україна](../uk/prayers/#bpn13572)»
 
 -- Bahá'u'lláh
 
-bpn13573 «[Україна](../uk/prayers/#bpn13573)» 
+bpn13573 
 
 ----
 
@@ -521,7 +522,7 @@ bpn13573 «[Україна](../uk/prayers/#bpn13573)»
 
 -- Bahá'u'lláh
 
-bpn13668 «[Україна](../uk/prayers/#bpn13668)» 
+bpn13668 
 
 ----
 
@@ -531,7 +532,7 @@ bpn13668 «[Україна](../uk/prayers/#bpn13668)»
 
 -- Bahá'u'lláh
 
-bpn13669 «[Україна](../uk/prayers/#bpn13669)» 
+bpn13669 
 
 ----
 
@@ -541,7 +542,7 @@ bpn13669 «[Україна](../uk/prayers/#bpn13669)»
 
 -- Bahá'u'lláh
 
-bpn13693 «[Україна](../uk/prayers/#bpn13693)» 
+bpn13693 
 
 ----
 
@@ -551,7 +552,7 @@ bpn13693 «[Україна](../uk/prayers/#bpn13693)»
 
 -- Bahá'u'lláh
 
-bpn13694 «[Україна](../uk/prayers/#bpn13694)» 
+bpn13694 
 
 ----
 
@@ -561,7 +562,7 @@ bpn13694 «[Україна](../uk/prayers/#bpn13694)»
 
 -- Báb
 
-bpn13269 «[Україна](../uk/prayers/#bpn13269)» 
+bpn13269 
 
 ----
 
@@ -571,7 +572,7 @@ bpn13269 «[Україна](../uk/prayers/#bpn13269)»
 
 -- Báb
 
-bpn13317 «[Україна](../uk/prayers/#bpn13317)» 
+bpn13317 
 
 ----
 
@@ -581,7 +582,7 @@ bpn13317 «[Україна](../uk/prayers/#bpn13317)»
 
 -- Abdu'l-Bahá
 
-bpn13270 «[Україна](../uk/prayers/#bpn13270)» 
+bpn13270 
 
 ----
 
@@ -595,7 +596,7 @@ bpn13270 «[Україна](../uk/prayers/#bpn13270)»
 
 -- Bahá'u'lláh
 
-bpn13275 «[Україна](../uk/prayers/#bpn13275)» 
+bpn13275 
 
 ----
 
@@ -605,7 +606,7 @@ bpn13275 «[Україна](../uk/prayers/#bpn13275)»
 
 -- Bahá'u'lláh
 
-bpn13276 «[Україна](../uk/prayers/#bpn13276)» 
+bpn13276 
 
 ----
 
@@ -619,7 +620,7 @@ bpn13276 «[Україна](../uk/prayers/#bpn13276)»
 
 -- Abdu'l-Bahá
 
-bpn13273 «[Україна](../uk/prayers/#bpn13273)» 
+bpn13273 
 
 ----
 
@@ -629,7 +630,7 @@ bpn13273 «[Україна](../uk/prayers/#bpn13273)»
 
 -- Abdu'l-Bahá
 
-bpn13274 «[Україна](../uk/prayers/#bpn13274)» 
+bpn13274 
 
 ----
 
@@ -639,7 +640,7 @@ bpn13274 «[Україна](../uk/prayers/#bpn13274)»
 
 -- Abdu'l-Bahá
 
-bpn13437 «[Україна](../uk/prayers/#bpn13437)» 
+bpn13437 
 
 ----
 
@@ -653,7 +654,7 @@ bpn13437 «[Україна](../uk/prayers/#bpn13437)»
 
 -- Bahá'u'lláh
 
-bpn13263 «[Україна](../uk/prayers/#bpn13263)» 
+bpn13263 
 
 ----
 
@@ -667,7 +668,7 @@ bpn13263 «[Україна](../uk/prayers/#bpn13263)»
 
 -- Abdu'l-Bahá
 
-bpn13696 «[Україна](../uk/prayers/#bpn13696)» 
+bpn13696 
 
 ----
 
@@ -681,7 +682,7 @@ bpn13696 «[Україна](../uk/prayers/#bpn13696)»
 
 -- Abdu'l-Bahá
 
-bpn13272 «[Україна](../uk/prayers/#bpn13272)» 
+bpn13272 
 
 ----
 
@@ -695,7 +696,7 @@ bpn13272 «[Україна](../uk/prayers/#bpn13272)»
 
 -- Bahá'u'lláh
 
-bpn13295 «[Україна](../uk/prayers/#bpn13295)» 
+bpn13295 
 
 ----
 
@@ -705,7 +706,7 @@ bpn13295 «[Україна](../uk/prayers/#bpn13295)»
 
 -- Báb
 
-bpn13296 «[Україна](../uk/prayers/#bpn13296)» 
+bpn13296 
 
 ----
 
@@ -715,7 +716,7 @@ bpn13296 «[Україна](../uk/prayers/#bpn13296)»
 
 -- Báb
 
-bpn13297 «[Україна](../uk/prayers/#bpn13297)» 
+bpn13297 
 
 ----
 
@@ -725,7 +726,7 @@ bpn13297 «[Україна](../uk/prayers/#bpn13297)»
 
 -- Abdu'l-Bahá
 
-bpn13299 «[Україна](../uk/prayers/#bpn13299)» 
+bpn13299 
 
 ----
 
@@ -739,7 +740,7 @@ bpn13299 «[Україна](../uk/prayers/#bpn13299)»
 
 -- Abdu'l-Bahá
 
-bpn13316 «[Україна](../uk/prayers/#bpn13316)» 
+bpn13316 
 
 ----
 
@@ -753,7 +754,7 @@ bpn13316 «[Україна](../uk/prayers/#bpn13316)»
 
 -- Bahá'u'lláh
 
-bpn13304 «[Україна](../uk/prayers/#bpn13304)» 
+bpn13304 
 
 ----
 
@@ -763,7 +764,7 @@ bpn13304 «[Україна](../uk/prayers/#bpn13304)»
 
 -- Bahá'u'lláh
 
-bpn13305 «[Україна](../uk/prayers/#bpn13305)» 
+bpn13305 
 
 ----
 
@@ -777,7 +778,7 @@ bpn13305 «[Україна](../uk/prayers/#bpn13305)»
 
 -- Bahá'u'lláh
 
-bpn13698 «[Україна](../uk/prayers/#bpn13698)» 
+bpn13698 
 
 ----
 
@@ -791,7 +792,7 @@ bpn13698 «[Україна](../uk/prayers/#bpn13698)»
 
 -- Bahá'u'lláh
 
-bpn13294 «[Україна](../uk/prayers/#bpn13294)» 
+bpn13294 
 
 ----
 
@@ -805,7 +806,7 @@ bpn13294 «[Україна](../uk/prayers/#bpn13294)»
 
 -- Bahá'u'lláh
 
-bpn13307 «[Україна](../uk/prayers/#bpn13307)» 
+bpn13307 
 
 ----
 
@@ -815,7 +816,7 @@ bpn13307 «[Україна](../uk/prayers/#bpn13307)»
 
 -- Abdu'l-Bahá
 
-bpn13288 «[Україна](../uk/prayers/#bpn13288)» 
+bpn13288 
 
 ----
 
@@ -825,7 +826,7 @@ bpn13288 «[Україна](../uk/prayers/#bpn13288)»
 
 -- Abdu'l-Bahá
 
-bpn13308 «[Україна](../uk/prayers/#bpn13308)» 
+bpn13308 
 
 ----
 
@@ -839,7 +840,7 @@ bpn13308 «[Україна](../uk/prayers/#bpn13308)»
 
 -- Bahá'u'lláh
 
-bpn13689 «[Україна](../uk/prayers/#bpn13689)» 
+bpn13689 
 
 ----
 
@@ -849,7 +850,7 @@ bpn13689 «[Україна](../uk/prayers/#bpn13689)»
 
 -- Abdu'l-Bahá
 
-bpn13292 «[Україна](../uk/prayers/#bpn13292)» 
+bpn13292 
 
 ----
 
@@ -863,7 +864,7 @@ bpn13292 «[Україна](../uk/prayers/#bpn13292)»
 
 -- Bahá'u'lláh
 
-bpn13309 «[Україна](../uk/prayers/#bpn13309)» 
+bpn13309 
 
 ----
 

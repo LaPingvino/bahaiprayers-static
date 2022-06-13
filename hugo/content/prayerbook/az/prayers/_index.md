@@ -5,6 +5,7 @@ tags = ['lang=az', 'prayerbook']
 
 
 
+
 [Ailələr](#Ail%C9%99l%C9%99r)
 
 [Allaha yaxınlıq üçün dualar](#Allaha+yax%C4%B1nl%C4%B1q+%C3%BC%C3%A7%C3%BCn+dualar)
@@ -95,7 +96,7 @@ tags = ['lang=az', 'prayerbook']
 
 -- Báb
 
-bpn4690 «[Azərbaycan](../az/prayers/#bpn4690)» 
+bpn4690 
 
 ----
 
@@ -105,7 +106,7 @@ Alqış Sənə, Ey Rəbbim, mənim Allahım! Yalvarıram Sənə, məni və Səni
 
 -- Báb
 
-bpn4692 «[Azərbaycan](../az/prayers/#bpn4692)» 
+bpn4692 
 
 ----
 
@@ -115,7 +116,7 @@ Yalvarıram, bağışla məni, Ey mənim Allahım və Özün bəndələrinin Sə
 
 -- Báb
 
-bpn4706 «[Azərbaycan](../az/prayers/#bpn4706)» 
+bpn4706 
 
 ----
 
@@ -125,7 +126,7 @@ Ya Rəbb! Bu Ən Əzəmətli Zühurda Sən uşaqların öz valideyinləri üçü
 
 -- Abdu'l-Bahá
 
-bpn4707 «[Azərbaycan](../az/prayers/#bpn4707)» 
+bpn4707 
 
 ----
 
@@ -135,7 +136,7 @@ Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır,
 
 -- Abdu'l-Bahá
 
-bpn4708 «[Azərbaycan](../az/prayers/#bpn4708)» 
+bpn4708 
 
 ----
 
@@ -149,7 +150,7 @@ Alqış olsun Sənə, Ey mənim Allahım! Hərarətli aşıqlərinin Sənin hicr
 
 -- Bahá'u'lláh
 
-bpn4693 «[Azərbaycan](../az/prayers/#bpn4693)» 
+bpn4693 
 
 ----
 
@@ -159,7 +160,7 @@ Həqiqətən, mən Sənin bəndənəm, Ey mənim Allahım, Sənin fəqir, yalvar
 
 -- Báb
 
-bpn4711 «[Azərbaycan](../az/prayers/#bpn4711)» 
+bpn4711 
 
 ----
 
@@ -169,7 +170,7 @@ Ey mənim Allahım! Səndən başqa bir kimsə yoxdur ki, mənim qəlbimin möhn
 
 -- Báb
 
-bpn4712 «[Azərbaycan](../az/prayers/#bpn4712)» 
+bpn4712 
 
 ----
 
@@ -179,7 +180,7 @@ Ey Allah, mənim Allahım, mənim Məhbubum, mənim ürəyimin Arzusu.
 
 -- Báb
 
-bpn4713 «[Azərbaycan](../az/prayers/#bpn4713)» 
+bpn4713 
 
 ----
 
@@ -189,7 +190,7 @@ Odur Şəfqətli, Ən Səxavətli! Ey Allah, mənim Allahım! Sən görürsən m
 
 -- Abdu'l-Bahá
 
-bpn4714 «[Azərbaycan](../az/prayers/#bpn4714)» 
+bpn4714 
 
 ----
 
@@ -203,7 +204,7 @@ Hər şeyi Bilən və Hər şeydən Xəbərdar Olan Allahın Kitabında Vəd olu
 
 -- Bahá'u'lláh
 
-bpn4882 «[Azərbaycan](../az/prayers/#bpn4882)» 
+bpn4882 
 
 ----
 
@@ -213,7 +214,7 @@ Təriflər olsun Sənə, Ey Allah, mənim Allahım! Bu o günlərdir ki, Sən Ö
 
 -- Bahá'u'lláh
 
-bpn4883 «[Azərbaycan](../az/prayers/#bpn4883)» 
+bpn4883 
 
 ----
 
@@ -223,7 +224,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Bunlar o günlərdir ki, Sən bütün
 
 -- Bahá'u'lláh
 
-bpn4884 «[Azərbaycan](../az/prayers/#bpn4884)» 
+bpn4884 
 
 ----
 
@@ -233,7 +234,7 @@ Bunlar, Ey mənim Allahım, Öz bəndələrinə oruc tutmağı fərz buyurduğun
 
 -- Bahá'u'lláh
 
-bpn4885 «[Azərbaycan](../az/prayers/#bpn4885)» 
+bpn4885 
 
 ----
 
@@ -243,7 +244,7 @@ bpn4885 «[Azərbaycan](../az/prayers/#bpn4885)»
 
 -- Bahá'u'lláh
 
-bpn4886 «[Azərbaycan](../az/prayers/#bpn4886)» 
+bpn4886 
 
 ----
 
@@ -253,7 +254,7 @@ bpn4886 «[Azərbaycan](../az/prayers/#bpn4886)»
 
 -- Bahá'u'lláh
 
-bpn4893 «[Azərbaycan](../az/prayers/#bpn4893)» 
+bpn4893 
 
 ----
 
@@ -263,7 +264,7 @@ bpn4893 «[Azərbaycan](../az/prayers/#bpn4893)»
 
 -- Bahá'u'lláh
 
-bpn4894 «[Azərbaycan](../az/prayers/#bpn4894)» 
+bpn4894 
 
 ----
 
@@ -273,7 +274,7 @@ bpn4894 «[Azərbaycan](../az/prayers/#bpn4894)»
 
 -- Bahá'u'lláh
 
-bpn4895 «[Azərbaycan](../az/prayers/#bpn4895)» 
+bpn4895 
 
 ----
 
@@ -287,7 +288,7 @@ Ey mənim Allahım, mənim Mövlam, mənim Məqsudum! Sənin bu bəndən Sənin 
 
 -- Bahá'u'lláh
 
-bpn4691 «[Azərbaycan](../az/prayers/#bpn4691)» 
+bpn4691 
 
 ----
 
@@ -297,7 +298,7 @@ Mən necə yata bilərəm, Ey Allah, mənim Allahım, Sənin həsrətini çəkə
 
 -- Bahá'u'lláh
 
-bpn4709 «[Azərbaycan](../az/prayers/#bpn4709)» 
+bpn4709 
 
 ----
 
@@ -307,7 +308,7 @@ bpn4709 «[Azərbaycan](../az/prayers/#bpn4709)»
 
 -- Abdu'l-Bahá
 
-bpn4710 «[Azərbaycan](../az/prayers/#bpn4710)» 
+bpn4710 
 
 ----
 
@@ -321,7 +322,7 @@ bpn4710 «[Azərbaycan](../az/prayers/#bpn4710)»
 
 -- Abdu'l-Bahá
 
-bpn4899 «[Azərbaycan](../az/prayers/#bpn4899)» 
+bpn4899 
 
 ----
 
@@ -331,7 +332,7 @@ Hüvəllah! Ey Ələst piyaləsindən məstHüvəllah! Ey Ələst piyaləsindən
 
 -- Abdu'l-Bahá
 
-bpn4900 «[Azərbaycan](../az/prayers/#bpn4900)» 
+bpn4900 
 
 ----
 
@@ -341,7 +342,7 @@ bpn4900 «[Azərbaycan](../az/prayers/#bpn4900)»
 
 -- Abdu'l-Bahá
 
-bpn4901 «[Azərbaycan](../az/prayers/#bpn4901)» 
+bpn4901 
 
 ----
 
@@ -355,7 +356,7 @@ Həmd-səna olsun Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm Öz Seç
 
 -- Bahá'u'lláh
 
-bpn4694 «[Azərbaycan](../az/prayers/#bpn4694)» 
+bpn4694 
 
 ----
 
@@ -365,7 +366,7 @@ Ey mənim Allahım, Məhbubum, məni hərəkətə Gətirən, Qütb Ulduzum, qəl
 
 -- Bahá'u'lláh
 
-bpn4715 «[Azərbaycan](../az/prayers/#bpn4715)» 
+bpn4715 
 
 ----
 
@@ -375,7 +376,7 @@ Mən o kəsəm ki, İlahi, üzünü Sənə tutub, ümidini Sənin fəzlinin möc
 
 -- Bahá'u'lláh
 
-bpn4716 «[Azərbaycan](../az/prayers/#bpn4716)» 
+bpn4716 
 
 ----
 
@@ -385,7 +386,7 @@ Sən görürsən məni, İlahi, Səndən başqa hər şeydən uzaqlaşaraq üzü
 
 -- Bahá'u'lláh
 
-bpn4717 «[Azərbaycan](../az/prayers/#bpn4717)» 
+bpn4717 
 
 ----
 
@@ -395,7 +396,7 @@ Alqış olsun Sənə, Ey Allah, mənim Allahım! Hər dəfə mən Səni zikr etm
 
 -- Bahá'u'lláh
 
-bpn4718 «[Azərbaycan](../az/prayers/#bpn4718)» 
+bpn4718 
 
 ----
 
@@ -405,7 +406,7 @@ Ucalsın Sənin adın, Ey mənim Allahım və bütün şeylərin Allahı, mənim
 
 -- Bahá'u'lláh
 
-bpn4719 «[Azərbaycan](../az/prayers/#bpn4719)» 
+bpn4719 
 
 ----
 
@@ -415,7 +416,7 @@ Sən, Ey Bağışlayan Rəbb! Sənsən bütün bu bəndələrin sığınacağı.
 
 -- Bahá'u'lláh
 
-bpn4725 «[Azərbaycan](../az/prayers/#bpn4725)» 
+bpn4725 
 
 ----
 
@@ -425,7 +426,7 @@ Ey bizim Rəbbimiz Allah! Sənin razı qalmadığın hər şeydən Öz fəzlinl�
 
 -- Báb
 
-bpn4720 «[Azərbaycan](../az/prayers/#bpn4720)» 
+bpn4720 
 
 ----
 
@@ -435,7 +436,7 @@ bpn4720 «[Azərbaycan](../az/prayers/#bpn4720)»
 
 -- Báb
 
-bpn4721 «[Azərbaycan](../az/prayers/#bpn4721)» 
+bpn4721 
 
 ----
 
@@ -445,7 +446,7 @@ Yalvarıram Sənə, İlahi, bağışla məni, Sənin zikrindən başqa hər bir 
 
 -- Báb
 
-bpn4722 «[Azərbaycan](../az/prayers/#bpn4722)» 
+bpn4722 
 
 ----
 
@@ -455,7 +456,7 @@ bpn4722 «[Azərbaycan](../az/prayers/#bpn4722)»
 
 -- Báb
 
-bpn4723 «[Azərbaycan](../az/prayers/#bpn4723)» 
+bpn4723 
 
 ----
 
@@ -465,7 +466,7 @@ Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qa
 
 -- Báb
 
-bpn4724 «[Azərbaycan](../az/prayers/#bpn4724)» 
+bpn4724 
 
 ----
 
@@ -479,7 +480,7 @@ Ey mənim Allahım, Ey mənim Allahım! Sənə xıdmət edənlərin qəlblərini
 
 -- Bahá'u'lláh
 
-bpn4696 «[Azərbaycan](../az/prayers/#bpn4696)» 
+bpn4696 
 
 ----
 
@@ -489,7 +490,7 @@ Ey mənim Allahım! Ey mənim Allahım! Doğurdan da, Səni çağırıram və S�
 
 -- Abdu'l-Bahá
 
-bpn4730 «[Azərbaycan](../az/prayers/#bpn4730)» 
+bpn4730 
 
 ----
 
@@ -503,7 +504,7 @@ bpn4730 «[Azərbaycan](../az/prayers/#bpn4730)»
 
 -- Bahá'u'lláh
 
-bpn4689 «[Azərbaycan](../az/prayers/#bpn4689)» 
+bpn4689 
 
 ----
 
@@ -517,7 +518,7 @@ Mənim Allahım, Qibləgahım və Səcdəgahım! Sənin birliyinə və təkliyin
 
 -- Bahá'u'lláh
 
-bpn4695 «[Azərbaycan](../az/prayers/#bpn4695)» 
+bpn4695 
 
 ----
 
@@ -527,7 +528,7 @@ Sən Ey Şəfqətli Allah, Sən Ey Səxavətli və Qadir! Biz Sənin İlahi qüv
 
 -- Abdu'l-Bahá
 
-bpn4726 «[Azərbaycan](../az/prayers/#bpn4726)» 
+bpn4726 
 
 ----
 
@@ -537,7 +538,7 @@ Sən Ey Mehriban Allah! Sən Ey Səxavətli və Mərhəmətli! Biz Sənin astana
 
 -- Abdu'l-Bahá
 
-bpn4727 «[Azərbaycan](../az/prayers/#bpn4727)» 
+bpn4727 
 
 ----
 
@@ -547,7 +548,7 @@ Sən Ey Mehriban Allah! Sən bütün bəşəri bir kökdən yaratmısan. Sən h�
 
 -- Abdu'l-Bahá
 
-bpn4728 «[Azərbaycan](../az/prayers/#bpn4728)» 
+bpn4728 
 
 ----
 
@@ -557,7 +558,7 @@ Ey Allah, Sən O Allahsan ki, bilik və hidayətin parlaq şüalarını insanlar
 
 -- Abdu'l-Bahá
 
-bpn4729 «[Azərbaycan](../az/prayers/#bpn4729)» 
+bpn4729 
 
 ----
 
@@ -571,7 +572,7 @@ bpn4729 «[Azərbaycan](../az/prayers/#bpn4729)»
 
 -- Bahá'u'lláh
 
-bpn4755 «[Azərbaycan](../az/prayers/#bpn4755)» 
+bpn4755 
 
 ----
 
@@ -581,7 +582,7 @@ Sübhansan Sən, Ey mənim Allahım! Sənə şükr edirəm ki, mənə Zühurunun
 
 -- Bahá'u'lláh
 
-bpn4756 «[Azərbaycan](../az/prayers/#bpn4756)» 
+bpn4756 
 
 ----
 
@@ -591,7 +592,7 @@ Ucalsın Sənin Adın, Ey mənim Allahım! Səni and verirəm fəzl köynəyinin
 
 -- Bahá'u'lláh
 
-bpn4757 «[Azərbaycan](../az/prayers/#bpn4757)» 
+bpn4757 
 
 ----
 
@@ -601,7 +602,7 @@ Neçə-neçə buz bağlamış ürək, Ey mənim Allahım, Sənin Əmrinin atəş
 
 -- Bahá'u'lláh
 
-bpn4758 «[Azərbaycan](../az/prayers/#bpn4758)» 
+bpn4758 
 
 ----
 
@@ -611,7 +612,7 @@ Bilmirəm, Ey mənim Allahim, o nə Oddur ki, Sən Öz ölkəndə qalamısan. N�
 
 -- Bahá'u'lláh
 
-bpn4759 «[Azərbaycan](../az/prayers/#bpn4759)» 
+bpn4759 
 
 ----
 
@@ -621,7 +622,7 @@ Alqış Sənə, Ey mənim Allahım! Mən Sənə və Sənin əlamətlərinə iman
 
 -- Bahá'u'lláh
 
-bpn4760 «[Azərbaycan](../az/prayers/#bpn4760)» 
+bpn4760 
 
 ----
 
@@ -631,7 +632,7 @@ Ya Rəbb! Sənə pənah gətirirəm və könlümü büsbütün Sənin nişanəl�
 
 -- Báb
 
-bpn4761 «[Azərbaycan](../az/prayers/#bpn4761)» 
+bpn4761 
 
 ----
 
@@ -641,7 +642,7 @@ Söylə: Allah hər üstün şeydən üstün Kifayətedicidir, yerdə və göyd�
 
 -- Báb
 
-bpn4762 «[Azərbaycan](../az/prayers/#bpn4762)» 
+bpn4762 
 
 ----
 
@@ -651,7 +652,7 @@ Ey Allah, mənim Allahım! Sən mənim Ümidim və Məhbubumsan. Mənim Məqsudu
 
 -- Abdu'l-Bahá
 
-bpn4763 «[Azərbaycan](../az/prayers/#bpn4763)» 
+bpn4763 
 
 ----
 
@@ -661,7 +662,7 @@ Ey Allah, mənim Allahım! Mənim üçün inqita piyaləsini doldur və Sənin c
 
 -- Abdu'l-Bahá
 
-bpn4764 «[Azərbaycan](../az/prayers/#bpn4764)» 
+bpn4764 
 
 ----
 
@@ -675,7 +676,7 @@ Sən Ey Mehriban Rəbbim! İnqita üfüqündən Sən elə ruhlar zahir etmisən 
 
 -- Abdu'l-Bahá
 
-bpn4736 «[Azərbaycan](../az/prayers/#bpn4736)» 
+bpn4736 
 
 ----
 
@@ -685,7 +686,7 @@ Sən Ey Mehriban Allah! Mərhəmətlə bu körpə quşların hər birinə bir c�
 
 -- Abdu'l-Bahá
 
-bpn4737 «[Azərbaycan](../az/prayers/#bpn4737)» 
+bpn4737 
 
 ----
 
@@ -695,7 +696,7 @@ Sən Ey mehriban Allah! Bu mələkut qızına Öz səmavi təyidini bəxş eylə
 
 -- Abdu'l-Bahá
 
-bpn4738 «[Azərbaycan](../az/prayers/#bpn4738)» 
+bpn4738 
 
 ----
 
@@ -705,7 +706,7 @@ Alqış və şükrlər olsun Sənə, Ya Rəbb, mənim Allahım! Bu seçilmiş bi
 
 -- Abdu'l-Bahá
 
-bpn4739 «[Azərbaycan](../az/prayers/#bpn4739)» 
+bpn4739 
 
 ----
 
@@ -715,7 +716,7 @@ Ya Rəbb! Bu gənci işıq saçan eylə və Öz nemətini bu fəqir varlığın 
 
 -- Abdu'l-Bahá
 
-bpn4740 «[Azərbaycan](../az/prayers/#bpn4740)» 
+bpn4740 
 
 ----
 
@@ -729,7 +730,7 @@ Təriflər olsun Sənə, Ya Rəbb, mənim Allahım! Sən görürsən və bilirs�
 
 -- Bahá'u'lláh
 
-bpn4741 «[Azərbaycan](../az/prayers/#bpn4741)» 
+bpn4741 
 
 ----
 
@@ -739,7 +740,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Bu Sənin bəndəndir ki, Sənin fəz
 
 -- Bahá'u'lláh
 
-bpn4742 «[Azərbaycan](../az/prayers/#bpn4742)» 
+bpn4742 
 
 ----
 
@@ -749,7 +750,7 @@ Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım! Səni and verirəm O Adına ki
 
 -- Bahá'u'lláh
 
-bpn4743 «[Azərbaycan](../az/prayers/#bpn4743)» 
+bpn4743 
 
 ----
 
@@ -759,7 +760,7 @@ Ey Allah, mənim Allahım! Mən öz evimdən Sənin məhəbbət ipindən tutaraq
 
 -- Bahá'u'lláh
 
-bpn4744 «[Azərbaycan](../az/prayers/#bpn4744)» 
+bpn4744 
 
 ----
 
@@ -769,7 +770,7 @@ Onun Adı ilə, Ən Uca, Ən Ali, Ən Əzəmətli! Şanlısan Sən, Ya Rəbb, m�
 
 -- Bahá'u'lláh
 
-bpn4745 «[Azərbaycan](../az/prayers/#bpn4745)» 
+bpn4745 
 
 ----
 
@@ -779,7 +780,7 @@ Ey mənim Rəbbim, mənə və Sənə inananlara, Ana Kitabda müəyyən olunduğ
 
 -- Báb
 
-bpn4746 «[Azərbaycan](../az/prayers/#bpn4746)» 
+bpn4746 
 
 ----
 
@@ -789,7 +790,7 @@ Alqış Sənə, Ey Allah! Sən O Allahsan ki, hər şeydən öncə var olmuş, s
 
 -- Báb
 
-bpn4747 «[Azərbaycan](../az/prayers/#bpn4747)» 
+bpn4747 
 
 ----
 
@@ -799,7 +800,7 @@ Ulular Ulusu, Qalibiyyətli Allahın Adı ilə! Hökmranlıq mənbəyi əlində 
 
 -- Báb
 
-bpn4748 «[Azərbaycan](../az/prayers/#bpn4748)» 
+bpn4748 
 
 ----
 
@@ -809,7 +810,7 @@ Ey Allah, mənim Allahım! Nəfs və ehtirasın şərinə qarşı Öz mömin bə
 
 -- Abdu'l-Bahá
 
-bpn4749 «[Azərbaycan](../az/prayers/#bpn4749)» 
+bpn4749 
 
 ----
 
@@ -819,7 +820,7 @@ Ey mənim Rəbbim! Sən bilirsən ki, insanlar dərd-bəla və fəlakətlərlə 
 
 -- Abdu'l-Bahá
 
-bpn4750 «[Azərbaycan](../az/prayers/#bpn4750)» 
+bpn4750 
 
 ----
 
@@ -829,7 +830,7 @@ Ey mehriban və sevgili Allah! Şərq həyəcandadır, qərb isə dənizin daimi
 
 -- Abdu'l-Bahá
 
-bpn4751 «[Azərbaycan](../az/prayers/#bpn4751)» 
+bpn4751 
 
 ----
 
@@ -843,7 +844,7 @@ bpn4751 «[Azərbaycan](../az/prayers/#bpn4751)»
 
 -- Bahá'u'lláh
 
-bpn4887 «[Azərbaycan](../az/prayers/#bpn4887)» 
+bpn4887 
 
 ----
 
@@ -853,7 +854,7 @@ Alqış Sənə, Ey mənim Şəfqətli Rəbbim! Səni and verirəm Sənin müqəd
 
 -- Bahá'u'lláh
 
-bpn4888 «[Azərbaycan](../az/prayers/#bpn4888)» 
+bpn4888 
 
 ----
 
@@ -867,7 +868,7 @@ bpn4888 «[Azərbaycan](../az/prayers/#bpn4888)»
 
 -- Bahá'u'lláh
 
-bpn4896 «[Azərbaycan](../az/prayers/#bpn4896)» 
+bpn4896 
 
 ----
 
@@ -881,7 +882,7 @@ bpn4896 «[Azərbaycan](../az/prayers/#bpn4896)»
 
 -- Abdu'l-Bahá
 
-bpn4897 «[Azərbaycan](../az/prayers/#bpn4897)» 
+bpn4897 
 
 ----
 
@@ -895,7 +896,7 @@ Ey üzü qibləm, camalı Məbədim, dərgahı məqsədim, tərifi ümidim, ist�
 
 -- Bahá'u'lláh
 
-bpn4765 «[Azərbaycan](../az/prayers/#bpn4765)» 
+bpn4765 
 
 ----
 
@@ -905,7 +906,7 @@ Mənim Allahım, Məbudum, Sultanım, Məqsudum! Sənə şükrlərimi hansı dil
 
 -- Bahá'u'lláh
 
-bpn4766 «[Azərbaycan](../az/prayers/#bpn4766)» 
+bpn4766 
 
 ----
 
@@ -915,7 +916,7 @@ Ucalsın Sənin Adın, ya Rəbb, bizim Allahımız! Sən həqiqətən, görünm�
 
 -- Báb
 
-bpn4767 «[Azərbaycan](../az/prayers/#bpn4767)» 
+bpn4767 
 
 ----
 
@@ -925,7 +926,7 @@ Ey mənim Allahım, mənim Rəbbim və mənim Mövlam! Mən yaxınlarımdan ayr�
 
 -- Báb
 
-bpn4768 «[Azərbaycan](../az/prayers/#bpn4768)» 
+bpn4768 
 
 ----
 
@@ -935,7 +936,7 @@ bpn4768 «[Azərbaycan](../az/prayers/#bpn4768)»
 
 -- Abdu'l-Bahá
 
-bpn4769 «[Azərbaycan](../az/prayers/#bpn4769)» 
+bpn4769 
 
 ----
 
@@ -945,7 +946,7 @@ Sən Ey mehriban Allah! Biz Sənin astananın bəndələriyik, Sənin müqəddə
 
 -- Abdu'l-Bahá
 
-bpn4770 «[Azərbaycan](../az/prayers/#bpn4770)» 
+bpn4770 
 
 ----
 
@@ -955,7 +956,7 @@ Yığma, İlahi, Sənin adınla açılmış bayram süfrəsini və Sənin sönm�
 
 -- Abdu'l-Bahá
 
-bpn4771 «[Azərbaycan](../az/prayers/#bpn4771)» 
+bpn4771 
 
 ----
 
@@ -969,7 +970,7 @@ bpn4771 «[Azərbaycan](../az/prayers/#bpn4771)»
 
 -- Bahá'u'lláh
 
-bpn4780 «[Azərbaycan](../az/prayers/#bpn4780)» 
+bpn4780 
 
 ----
 
@@ -979,7 +980,7 @@ Odur Allah! Ey misilsiz Rəbb! Öz qüdrətli hikmətinlə Sən ümmətlərə ni
 
 -- Abdu'l-Bahá
 
-bpn4781 «[Azərbaycan](../az/prayers/#bpn4781)» 
+bpn4781 
 
 ----
 
@@ -989,7 +990,7 @@ Alqış Sənə, Ey mənim Allahım! Həqiqətən, Sənin bu bəndən və bu kən
 
 -- Abdu'l-Bahá
 
-bpn4782 «[Azərbaycan](../az/prayers/#bpn4782)» 
+bpn4782 
 
 ----
 
@@ -999,7 +1000,7 @@ Ey mənim Allahim, Ey mənim Allahim! Bu iki gözəl ay tək nurlanmiş bəndəl
 
 -- Abdu'l-Bahá
 
-bpn4783 «[Azərbaycan](../az/prayers/#bpn4783)» 
+bpn4783 
 
 ----
 
@@ -1013,7 +1014,7 @@ Ey Allah! İxtilafa səbəb olan bütün ünsürləri dağıt, bizə birlik və 
 
 -- Abdu'l-Bahá
 
-bpn4784 «[Azərbaycan](../az/prayers/#bpn4784)» 
+bpn4784 
 
 ----
 
@@ -1027,7 +1028,7 @@ bpn4784 «[Azərbaycan](../az/prayers/#bpn4784)»
 
 -- Bahá'u'lláh
 
-bpn4688 «[Azərbaycan](../az/prayers/#bpn4688)» 
+bpn4688 
 
 ----
 
@@ -1041,7 +1042,7 @@ Hüvəl-Əbha! İlahi! Zülməte-firğət afaqı qapladı və atəşe-həsrət �
 
 -- Abdu'l-Bahá
 
-bpn4898 «[Azərbaycan](../az/prayers/#bpn4898)» 
+bpn4898 
 
 ----
 
@@ -1055,7 +1056,7 @@ Alqış Sənə, Ey mənin Allahım! Sənə və Sənin əlamətlərinə iman gət
 
 -- Bahá'u'lláh
 
-bpn4772 «[Azərbaycan](../az/prayers/#bpn4772)» 
+bpn4772 
 
 ----
 
@@ -1065,7 +1066,7 @@ Sən görürsən, Ey mənim Allahım, Sənə arxa çevirmiş məxluqatının tö
 
 -- Bahá'u'lláh
 
-bpn4773 «[Azərbaycan](../az/prayers/#bpn4773)» 
+bpn4773 
 
 ----
 
@@ -1075,7 +1076,7 @@ Sən Ey üzü Sənin həsrətini çəkənlərin sitayiş yeri, liqası Sənin ir
 
 -- Bahá'u'lláh
 
-bpn4774 «[Azərbaycan](../az/prayers/#bpn4774)» 
+bpn4774 
 
 ----
 
@@ -1085,7 +1086,7 @@ Alqış Sənə, ey mənim Allahım! Mənim üzüm Sənin üzünə yönəlmişdir
 
 -- Bahá'u'lláh
 
-bpn4775 «[Azərbaycan](../az/prayers/#bpn4775)» 
+bpn4775 
 
 ----
 
@@ -1095,7 +1096,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Sən O Kəssən ki, məhəbbətinin a
 
 -- Bahá'u'lláh
 
-bpn4776 «[Azərbaycan](../az/prayers/#bpn4776)» 
+bpn4776 
 
 ----
 
@@ -1105,7 +1106,7 @@ Sən Ey əzəmətli qüdrətindən bütün şeyləri lərzəyə salan Kəs, büt
 
 -- Bahá'u'lláh
 
-bpn4777 «[Azərbaycan](../az/prayers/#bpn4777)» 
+bpn4777 
 
 ----
 
@@ -1115,7 +1116,7 @@ Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim d
 
 -- Abdu'l-Bahá
 
-bpn4778 «[Azərbaycan](../az/prayers/#bpn4778)» 
+bpn4778 
 
 ----
 
@@ -1125,7 +1126,7 @@ bpn4778 «[Azərbaycan](../az/prayers/#bpn4778)»
 
 -- Abdu'l-Bahá
 
-bpn4779 «[Azərbaycan](../az/prayers/#bpn4779)» 
+bpn4779 
 
 ----
 
@@ -1139,7 +1140,7 @@ bpn4779 «[Azərbaycan](../az/prayers/#bpn4779)»
 
 -- Bahá'u'lláh
 
-bpn4687 «[Azərbaycan](../az/prayers/#bpn4687)» 
+bpn4687 
 
 ----
 
@@ -1153,7 +1154,7 @@ bpn4687 «[Azərbaycan](../az/prayers/#bpn4687)»
 
 -- Abdu'l-Bahá
 
-bpn4890 «[Azərbaycan](../az/prayers/#bpn4890)» 
+bpn4890 
 
 ----
 
@@ -1163,7 +1164,7 @@ bpn4890 «[Azərbaycan](../az/prayers/#bpn4890)»
 
 -- Abdu'l-Bahá
 
-bpn4891 «[Azərbaycan](../az/prayers/#bpn4891)» 
+bpn4891 
 
 ----
 
@@ -1173,7 +1174,7 @@ bpn4891 «[Azərbaycan](../az/prayers/#bpn4891)»
 
 -- Abdu'l-Bahá
 
-bpn4892 «[Azərbaycan](../az/prayers/#bpn4892)» 
+bpn4892 
 
 ----
 
@@ -1187,7 +1188,7 @@ Məndə təmiz bir ürək yarat, Ey mənim Allahım və sakit bir vicdan oyat, E
 
 -- Bahá'u'lláh
 
-bpn4785 «[Azərbaycan](../az/prayers/#bpn4785)» 
+bpn4785 
 
 ----
 
@@ -1197,7 +1198,7 @@ Ey mənim Rəbbim! Gözəlliyini ruzim, hüzurunu suyum, razılığını ümidim
 
 -- Bahá'u'lláh
 
-bpn4786 «[Azərbaycan](../az/prayers/#bpn4786)» 
+bpn4786 
 
 ----
 
@@ -1207,7 +1208,7 @@ Ucalsın Sənin Adın, Ya Rəbb mənim Allahım! Mən Sənin bir bəndənəm ki,
 
 -- Bahá'u'lláh
 
-bpn4787 «[Azərbaycan](../az/prayers/#bpn4787)» 
+bpn4787 
 
 ----
 
@@ -1217,7 +1218,7 @@ Səni and verirəm, Ey mənim Allahım, Sənin Adının ən yüksək cəlalına,
 
 -- Bahá'u'lláh
 
-bpn4788 «[Azərbaycan](../az/prayers/#bpn4788)» 
+bpn4788 
 
 ----
 
@@ -1227,7 +1228,7 @@ bpn4788 «[Azərbaycan](../az/prayers/#bpn4788)»
 
 -- Bahá'u'lláh
 
-bpn4789 «[Azərbaycan](../az/prayers/#bpn4789)» 
+bpn4789 
 
 ----
 
@@ -1237,7 +1238,7 @@ O Fəzl Sahibi, Ən Səxavətlidir! Ey Allah, mənim Allahım! Sənin nidan mən
 
 -- Bahá'u'lláh
 
-bpn4790 «[Azərbaycan](../az/prayers/#bpn4790)» 
+bpn4790 
 
 ----
 
@@ -1247,7 +1248,7 @@ Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun
 
 -- Bahá'u'lláh
 
-bpn4791 «[Azərbaycan](../az/prayers/#bpn4791)» 
+bpn4791 
 
 ----
 
@@ -1257,7 +1258,7 @@ O duanı Eşidən, ona cavab Verən Allahdır! And olsun cəlalına, Ey Məhbub,
 
 -- Bahá'u'lláh
 
-bpn4792 «[Azərbaycan](../az/prayers/#bpn4792)» 
+bpn4792 
 
 ----
 
@@ -1267,7 +1268,7 @@ Lütf eylə mənə, Ey mənim Allahım, Sənin məhəbbətindən və Sənin raz�
 
 -- Báb
 
-bpn4793 «[Azərbaycan](../az/prayers/#bpn4793)» 
+bpn4793 
 
 ----
 
@@ -1277,7 +1278,7 @@ Ey mənim Allahım, Ey mənim Allahım! Təriflər olsun Sənə, çünki Sənin 
 
 -- Abdu'l-Bahá
 
-bpn4794 «[Azərbaycan](../az/prayers/#bpn4794)» 
+bpn4794 
 
 ----
 
@@ -1287,7 +1288,7 @@ bpn4794 «[Azərbaycan](../az/prayers/#bpn4794)»
 
 -- Abdu'l-Bahá
 
-bpn4795 «[Azərbaycan](../az/prayers/#bpn4795)» 
+bpn4795 
 
 ----
 
@@ -1297,7 +1298,7 @@ bpn4795 «[Azərbaycan](../az/prayers/#bpn4795)»
 
 -- Abdu'l-Bahá
 
-bpn4796 «[Azərbaycan](../az/prayers/#bpn4796)» 
+bpn4796 
 
 ----
 
@@ -1307,7 +1308,7 @@ Ey Allah, mənim Allahım! Bu Sənin nurlu bəndən və ruhani köləndir, o kə
 
 -- Abdu'l-Bahá
 
-bpn4797 «[Azərbaycan](../az/prayers/#bpn4797)» 
+bpn4797 
 
 ----
 
@@ -1317,7 +1318,7 @@ Ey Allah, mənim Allahım! Bunlar Sənin zəif bəndələrindir, bunlar Sənin U
 
 -- Abdu'l-Bahá
 
-bpn4798 «[Azərbaycan](../az/prayers/#bpn4798)» 
+bpn4798 
 
 ----
 
@@ -1327,7 +1328,7 @@ Odur Allah! Ey Allah, mənim Allahım! Bunlar Sənin bəndələrindir ki, Sənin
 
 -- Abdu'l-Bahá
 
-bpn4799 «[Azərbaycan](../az/prayers/#bpn4799)» 
+bpn4799 
 
 ----
 
@@ -1337,7 +1338,7 @@ Sən Ey Ruzi Verən! Sən Qərbdəki dostların üzərinə Müqəddəs Ruhun rah
 
 -- Abdu'l-Bahá
 
-bpn4800 «[Azərbaycan](../az/prayers/#bpn4800)» 
+bpn4800 
 
 ----
 
@@ -1347,7 +1348,7 @@ Ey Allah! Mənim ruhumu təravətləndir və sevindir. Mənim ürəyimi pak eyl�
 
 -- Abdu'l-Bahá
 
-bpn4801 «[Azərbaycan](../az/prayers/#bpn4801)» 
+bpn4801 
 
 ----
 
@@ -1361,7 +1362,7 @@ Mən Sənin Adını ucaldıram, Ey mənim Allahım və Sənə şükr edirəm, Ey
 
 -- Bahá'u'lláh
 
-bpn4802 «[Azərbaycan](../az/prayers/#bpn4802)» 
+bpn4802 
 
 ----
 
@@ -1371,7 +1372,7 @@ Alqış Sənin Adına, Ya Rəbb, mənim Allahım! Səni and verirəm bütün yar
 
 -- Bahá'u'lláh
 
-bpn4803 «[Azərbaycan](../az/prayers/#bpn4803)» 
+bpn4803 
 
 ----
 
@@ -1381,7 +1382,7 @@ Sən Ey yaxınlığı muradım, vüsalı ümidim, zikri diləyim, əzəmət dər
 
 -- Bahá'u'lláh
 
-bpn4804 «[Azərbaycan](../az/prayers/#bpn4804)» 
+bpn4804 
 
 ----
 
@@ -1391,7 +1392,7 @@ Ey Allah, mənim Allahım! Günahlarımı etiraf edərək peşimançılıqla Sə
 
 -- Bahá'u'lláh
 
-bpn4805 «[Azərbaycan](../az/prayers/#bpn4805)» 
+bpn4805 
 
 ----
 
@@ -1401,7 +1402,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm O Kəsə ki, Səni
 
 -- Bahá'u'lláh
 
-bpn4806 «[Azərbaycan](../az/prayers/#bpn4806)» 
+bpn4806 
 
 ----
 
@@ -1411,7 +1412,7 @@ Təriflər olsun Sənə, Ya Rəbb, mənim Məhbubum! Əmrində məni sabit eylə
 
 -- Báb
 
-bpn4807 «[Azərbaycan](../az/prayers/#bpn4807)» 
+bpn4807 
 
 ----
 
@@ -1421,7 +1422,7 @@ Alqış və təriflər olsun Sənə, Ey Allah! Sənin müqəddəs hüzuruna yeti
 
 -- Báb
 
-bpn4808 «[Azərbaycan](../az/prayers/#bpn4808)» 
+bpn4808 
 
 ----
 
@@ -1431,7 +1432,7 @@ Ya Rəbb, mənim Allahım! Sevimlilərinə Öz Dinində mətin olmaqda, Sənin y
 
 -- Abdu'l-Bahá
 
-bpn4809 «[Azərbaycan](../az/prayers/#bpn4809)» 
+bpn4809 
 
 ----
 
@@ -1441,7 +1442,7 @@ Sən Ey mənim Allahım, Ey axtaranları doğru yola Yönəldən, Ey sərgərdan
 
 -- Abdu'l-Bahá
 
-bpn4810 «[Azərbaycan](../az/prayers/#bpn4810)» 
+bpn4810 
 
 ----
 
@@ -1455,7 +1456,7 @@ Sən Ey sınağı, Sənə yaxın olanların dərmanı; qılıncı, aşiqlərinin
 
 -- Bahá'u'lláh
 
-bpn4815 «[Azərbaycan](../az/prayers/#bpn4815)» 
+bpn4815 
 
 ----
 
@@ -1465,7 +1466,7 @@ Alqış Sənə, Ey mənim Allahım! Yolunda çəkilən bəlalar olmasaydı, Sən
 
 -- Bahá'u'lláh
 
-bpn4816 «[Azərbaycan](../az/prayers/#bpn4816)» 
+bpn4816 
 
 ----
 
@@ -1475,7 +1476,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Hər bir bəsirət sahibi Sənin səl
 
 -- Bahá'u'lláh
 
-bpn4817 «[Azərbaycan](../az/prayers/#bpn4817)» 
+bpn4817 
 
 ----
 
@@ -1485,7 +1486,7 @@ Ey Allah, mənim Allahım! Öz səxavətin və bəxşişinlə mənim kədərimi 
 
 -- Bahá'u'lláh
 
-bpn4818 «[Azərbaycan](../az/prayers/#bpn4818)» 
+bpn4818 
 
 ----
 
@@ -1495,7 +1496,7 @@ Varmıdır Allahdan başqa çətinliklərdən Qurtaran? Söylə: Sübhandır All
 
 -- Báb
 
-bpn4819 «[Azərbaycan](../az/prayers/#bpn4819)» 
+bpn4819 
 
 ----
 
@@ -1505,7 +1506,7 @@ Sən yaxşı bilirsən, Ey mənim Allahım, bəlalar hər tərəfdən mənim üs
 
 -- Báb
 
-bpn4820 «[Azərbaycan](../az/prayers/#bpn4820)» 
+bpn4820 
 
 ----
 
@@ -1515,7 +1516,7 @@ Sənin Qüdrətinə and verirəm, Ey mənim Allahım! Qoyma sınaqlar zamanı m�
 
 -- Báb
 
-bpn4821 «[Azərbaycan](../az/prayers/#bpn4821)» 
+bpn4821 
 
 ----
 
@@ -1525,7 +1526,7 @@ Ya Rəbb! Sənsən hər bir dərdi Qaldıran və hər bir kədəri Dağıdan. S�
 
 -- Báb
 
-bpn4822 «[Azərbaycan](../az/prayers/#bpn4822)» 
+bpn4822 
 
 ----
 
@@ -1535,7 +1536,7 @@ Alqiş və tərif Sənə, Ey mənim Allahım! And verirəm Sənin aşiqlərinin 
 
 -- Abdu'l-Bahá
 
-bpn4823 «[Azərbaycan](../az/prayers/#bpn4823)» 
+bpn4823 
 
 ----
 
@@ -1549,7 +1550,7 @@ Odur Allah! Sən bizi görürsən, ey mənim Allahım, bu süfrə ətrafında to
 
 -- Abdu'l-Bahá
 
-bpn4824 «[Azərbaycan](../az/prayers/#bpn4824)» 
+bpn4824 
 
 ----
 
@@ -1559,7 +1560,7 @@ Odur Allah! Biz Sənə necə şükr edə bilərik, İlahi? Sənin nemətlərin h
 
 -- Abdu'l-Bahá
 
-bpn4825 «[Azərbaycan](../az/prayers/#bpn4825)» 
+bpn4825 
 
 ----
 
@@ -1573,7 +1574,7 @@ Ey mənim Allahım və mənim Mövlam! Mən Sənin bəndənəm və bəndənin o�
 
 -- Bahá'u'lláh
 
-bpn4811 «[Azərbaycan](../az/prayers/#bpn4811)» 
+bpn4811 
 
 ----
 
@@ -1583,7 +1584,7 @@ Sənin sığınacağında yuxudan qalxmışam, Ey mənim Allahım və o sığın
 
 -- Bahá'u'lláh
 
-bpn4812 «[Azərbaycan](../az/prayers/#bpn4812)» 
+bpn4812 
 
 ----
 
@@ -1593,7 +1594,7 @@ Sənin mərhəmətinlə bu səhər yuxudan qalxmışam, Ey mənim Allahım. Büt
 
 -- Bahá'u'lláh
 
-bpn4813 «[Azərbaycan](../az/prayers/#bpn4813)» 
+bpn4813 
 
 ----
 
@@ -1603,7 +1604,7 @@ Sənə şükr edirəm, Ey mənim Allahım! Sən məni yuxudan oyatdın, yoxluğu
 
 -- Bahá'u'lláh
 
-bpn4814 «[Azərbaycan](../az/prayers/#bpn4814)» 
+bpn4814 
 
 ----
 
@@ -1617,7 +1618,7 @@ Sən görürsən, Ey mənim Allahım, Sənin sevimlilərin Sənin məxluqların 
 
 -- Bahá'u'lláh
 
-bpn4697 «[Azərbaycan](../az/prayers/#bpn4697)» 
+bpn4697 
 
 ----
 
@@ -1627,7 +1628,7 @@ Alqış Sənə, Ya Rəbb mənim Allahım! Sənin hökmran qüdrətinin çayları
 
 -- Bahá'u'lláh
 
-bpn4698 «[Azərbaycan](../az/prayers/#bpn4698)» 
+bpn4698 
 
 ----
 
@@ -1637,7 +1638,7 @@ bpn4698 «[Azərbaycan](../az/prayers/#bpn4698)»
 
 -- Bahá'u'lláh
 
-bpn4699 «[Azərbaycan](../az/prayers/#bpn4699)» 
+bpn4699 
 
 ----
 
@@ -1647,7 +1648,7 @@ Ya Rəbb! Sənin ilahi Birlik Ağacının tez böyüməsinin qayğısına qal; s
 
 -- Báb
 
-bpn4700 «[Azərbaycan](../az/prayers/#bpn4700)» 
+bpn4700 
 
 ----
 
@@ -1657,7 +1658,7 @@ Ya Rəbb! Sənin günlərində səbrli olan bəndələrinə layiqli qələbələ
 
 -- Báb
 
-bpn4701 «[Azərbaycan](../az/prayers/#bpn4701)» 
+bpn4701 
 
 ----
 
@@ -1667,7 +1668,7 @@ Ya Rəbb! Yer üzünün bütün xalqlarını Sənin Dininin Cənnətinə daxil o
 
 -- Báb
 
-bpn4702 «[Azərbaycan](../az/prayers/#bpn4702)» 
+bpn4702 
 
 ----
 
@@ -1677,7 +1678,7 @@ Alqış Sənə, Ya Rəbb, Sən Ey bütün yaranmış şeyləri Öz əmrinin qüd
 
 -- Báb
 
-bpn4703 «[Azərbaycan](../az/prayers/#bpn4703)» 
+bpn4703 
 
 ----
 
@@ -1687,7 +1688,7 @@ Ey Allah, mənim Allahım! Təriflər olsun Sənə, cünki Sən ən uca dağın 
 
 -- Abdu'l-Bahá
 
-bpn4704 «[Azərbaycan](../az/prayers/#bpn4704)» 
+bpn4704 
 
 ----
 
@@ -1697,7 +1698,7 @@ Odur Allah! Ya Rəbb, mənim Allahım, mənim Məhbubum! Bunlar Sənin o bəndə
 
 -- Abdu'l-Bahá
 
-bpn4705 «[Azərbaycan](../az/prayers/#bpn4705)» 
+bpn4705 
 
 ----
 
@@ -1711,7 +1712,7 @@ Ucasan Sən, Ya Rəbb, mənim Allahım! Səni and verirəm Sənin fəzl yelləri
 
 -- Bahá'u'lláh
 
-bpn4853 «[Azərbaycan](../az/prayers/#bpn4853)» 
+bpn4853 
 
 ----
 
@@ -1721,7 +1722,7 @@ Sən Ey Mərhəmətli Allah! Sən Ey Qüdrətli və Qüvvətli! Sən Ey Ən Mehr
 
 -- Abdu'l-Bahá
 
-bpn4854 «[Azərbaycan](../az/prayers/#bpn4854)» 
+bpn4854 
 
 ----
 
@@ -1731,7 +1732,7 @@ Sən Ey Mehriban Rəbb! Bunlar Sənin bəndələrindir ki, bu məclisdə toplaş
 
 -- Abdu'l-Bahá
 
-bpn4855 «[Azərbaycan](../az/prayers/#bpn4855)» 
+bpn4855 
 
 ----
 
@@ -1741,7 +1742,7 @@ Ey mənim Allahım, Ey mənim Allahım! Həqiqətən, bu bəndələr Sənə üz 
 
 -- Abdu'l-Bahá
 
-bpn4856 «[Azərbaycan](../az/prayers/#bpn4856)» 
+bpn4856 
 
 ----
 
@@ -1751,7 +1752,7 @@ Sən Ey Bağışlayan Allah! Bu bəndələr Sənin Mələkutuna üz tutublar, S�
 
 -- Abdu'l-Bahá
 
-bpn4857 «[Azərbaycan](../az/prayers/#bpn4857)» 
+bpn4857 
 
 ----
 
@@ -1761,7 +1762,7 @@ Sən Ey hidayət Edən İlahi Qüvvə! Bu məclis Sənin sevimli dostlarından i
 
 -- Abdu'l-Bahá
 
-bpn4858 «[Azərbaycan](../az/prayers/#bpn4858)» 
+bpn4858 
 
 ----
 
@@ -1771,7 +1772,7 @@ Sən Ey mehriban Pərvərdigar! Bu ruhlar Mələkutun nidasını eşitmiş və g
 
 -- Abdu'l-Bahá
 
-bpn4859 «[Azərbaycan](../az/prayers/#bpn4859)» 
+bpn4859 
 
 ----
 
@@ -1785,7 +1786,7 @@ Ey Rəbbim, mənim Allahım! Bu bir uşaqdır ki, Sənin bəndələrinin birind�
 
 -- Bahá'u'lláh
 
-bpn4860 «[Azərbaycan](../az/prayers/#bpn4860)» 
+bpn4860 
 
 ----
 
@@ -1795,7 +1796,7 @@ Alqış Sənə, Ey mənim Rəbbim Allah! Bu körpəni Öz mərhəmət və inayə
 
 -- Bahá'u'lláh
 
-bpn4871 «[Azərbaycan](../az/prayers/#bpn4871)» 
+bpn4871 
 
 ----
 
@@ -1805,7 +1806,7 @@ bpn4871 «[Azərbaycan](../az/prayers/#bpn4871)»
 
 -- Abdu'l-Bahá
 
-bpn4861 «[Azərbaycan](../az/prayers/#bpn4861)» 
+bpn4861 
 
 ----
 
@@ -1815,7 +1816,7 @@ Sən Ey mehriban Rəbb! Bu nazənin uşaqlar Sənin qüdrət barmaqlarının əs
 
 -- Abdu'l-Bahá
 
-bpn4862 «[Azərbaycan](../az/prayers/#bpn4862)» 
+bpn4862 
 
 ----
 
@@ -1825,7 +1826,7 @@ Ya Rəbb! Bu uşaqları ən gözəl fidanlar eylə. Onları Öz Əhdi-Peyman ba�
 
 -- Abdu'l-Bahá
 
-bpn4863 «[Azərbaycan](../az/prayers/#bpn4863)» 
+bpn4863 
 
 ----
 
@@ -1835,7 +1836,7 @@ Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta ey
 
 -- Abdu'l-Bahá
 
-bpn4864 «[Azərbaycan](../az/prayers/#bpn4864)» 
+bpn4864 
 
 ----
 
@@ -1845,7 +1846,7 @@ Ey Allah, mənə yol göstər, məni qoru, məni şölə saçan bir çıraq və 
 
 -- Abdu'l-Bahá
 
-bpn4865 «[Azərbaycan](../az/prayers/#bpn4865)» 
+bpn4865 
 
 ----
 
@@ -1855,7 +1856,7 @@ bpn4865 «[Azərbaycan](../az/prayers/#bpn4865)»
 
 -- Abdu'l-Bahá
 
-bpn4866 «[Azərbaycan](../az/prayers/#bpn4866)» 
+bpn4866 
 
 ----
 
@@ -1865,7 +1866,7 @@ Ey Bənzərsiz Allah! Bu yazıq uşağa pənah ol. Bu xətalı və qəmgin ruha 
 
 -- Abdu'l-Bahá
 
-bpn4867 «[Azərbaycan](../az/prayers/#bpn4867)» 
+bpn4867 
 
 ----
 
@@ -1875,7 +1876,7 @@ Ey mənim Allahım, Ey mənim Allahım! Sən bu uşaqları görürsən – onlar
 
 -- Abdu'l-Bahá
 
-bpn4868 «[Azərbaycan](../az/prayers/#bpn4868)» 
+bpn4868 
 
 ----
 
@@ -1885,7 +1886,7 @@ Ya Rəbb! Mən bir uşağam; Məni Öz inayət kölgəndə böyüt. Mən zərif 
 
 -- Abdu'l-Bahá
 
-bpn4869 «[Azərbaycan](../az/prayers/#bpn4869)» 
+bpn4869 
 
 ----
 
@@ -1895,7 +1896,7 @@ Sən Ey mənim Cəlallı Rəbbim! Özünün bu balaca kənizini xoşhal və bəx
 
 -- Abdu'l-Bahá
 
-bpn4870 «[Azərbaycan](../az/prayers/#bpn4870)» 
+bpn4870 
 
 ----
 
@@ -1909,7 +1910,7 @@ bpn4870 «[Azərbaycan](../az/prayers/#bpn4870)»
 
 -- Bahá'u'lláh
 
-bpn4872 «[Azərbaycan](../az/prayers/#bpn4872)» 
+bpn4872 
 
 ----
 
@@ -1919,7 +1920,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Öz əzəli hökmranlığının ğüc
 
 -- Bahá'u'lláh
 
-bpn4873 «[Azərbaycan](../az/prayers/#bpn4873)» 
+bpn4873 
 
 ----
 
@@ -1929,7 +1930,7 @@ Odur Allah, Ucadır O, İnayət və kəramət Mövlası Odur! Sübhansan, Sən, 
 
 -- Bahá'u'lláh
 
-bpn4874 «[Azərbaycan](../az/prayers/#bpn4874)» 
+bpn4874 
 
 ----
 
@@ -1939,7 +1940,7 @@ Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən,
 
 -- Abdu'l-Bahá
 
-bpn4875 «[Azərbaycan](../az/prayers/#bpn4875)» 
+bpn4875 
 
 ----
 
@@ -1949,7 +1950,7 @@ Sən Ey Bağışlayan Allah! Baxmayarq ki, bəzi ruhlar öz həyatlarını qəfl
 
 -- Abdu'l-Bahá
 
-bpn4876 «[Azərbaycan](../az/prayers/#bpn4876)» 
+bpn4876 
 
 ----
 
@@ -1959,7 +1960,7 @@ Ey mənim Allahım, Ey günahları Bağışlayan və qəm-qüssəni Dağıdan! S
 
 -- Abdu'l-Bahá
 
-bpn4877 «[Azərbaycan](../az/prayers/#bpn4877)» 
+bpn4877 
 
 ----
 
@@ -1969,7 +1970,7 @@ Ya Rəbb! Sən Ey mərhəməti hamını saran, rəhmi böyük, kəraməti yüks�
 
 -- Abdu'l-Bahá
 
-bpn4878 «[Azərbaycan](../az/prayers/#bpn4878)» 
+bpn4878 
 
 ----
 
@@ -1979,7 +1980,7 @@ Sən Ey mehriban Allah! Bu əziz kənizin Sənə cəzb olunmuşdu, ağıl və f�
 
 -- Abdu'l-Bahá
 
-bpn4879 «[Azərbaycan](../az/prayers/#bpn4879)» 
+bpn4879 
 
 ----
 
@@ -1993,7 +1994,7 @@ bpn4879 «[Azərbaycan](../az/prayers/#bpn4879)»
 
 -- Abdu'l-Bahá
 
-bpn4754 «[Azərbaycan](../az/prayers/#bpn4754)» 
+bpn4754 
 
 ----
 
@@ -2007,7 +2008,7 @@ Ey Allah, Ey bütün Zühurları Yaradan, bütün Mənbələrin Mənbəyi, büt�
 
 -- Bahá'u'lláh
 
-bpn4834 «[Azərbaycan](../az/prayers/#bpn4834)» 
+bpn4834 
 
 ----
 
@@ -2017,7 +2018,7 @@ Söylə: Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım. Səni and verirəm o 
 
 -- Bahá'u'lláh
 
-bpn4835 «[Azərbaycan](../az/prayers/#bpn4835)» 
+bpn4835 
 
 ----
 
@@ -2027,7 +2028,7 @@ Ucalsın Sənin Adın, Ey mənim Allahım, çünki Sən o günü aşkar etdin ki
 
 -- Bahá'u'lláh
 
-bpn4836 «[Azərbaycan](../az/prayers/#bpn4836)» 
+bpn4836 
 
 ----
 
@@ -2037,7 +2038,7 @@ Təriflər olsun Sənə, Ya Rəbb mənim Allahım! And verirəm Sənin o adına 
 
 -- Bahá'u'lláh
 
-bpn4837 «[Azərbaycan](../az/prayers/#bpn4837)» 
+bpn4837 
 
 ----
 
@@ -2047,7 +2048,7 @@ Alqış Sənə, Ey aləmin Rəbbi və millətlərin Məqsudu, Sən Ey Ən Böyü
 
 -- Bahá'u'lláh
 
-bpn4838 «[Azərbaycan](../az/prayers/#bpn4838)» 
+bpn4838 
 
 ----
 
@@ -2057,7 +2058,7 @@ Sən bilirsən, ey Allah və şahidsən ki, mənim ürəyimdə Sənin razılığ
 
 -- Abdu'l-Bahá
 
-bpn4839 «[Azərbaycan](../az/prayers/#bpn4839)» 
+bpn4839 
 
 ----
 
@@ -2067,7 +2068,7 @@ Ey mənim Allahım, Öz bəndənə kömək et ki, Sənin Sözünü ucaltsın, bi
 
 -- Abdu'l-Bahá
 
-bpn4840 «[Azərbaycan](../az/prayers/#bpn4840)» 
+bpn4840 
 
 ----
 
@@ -2077,7 +2078,7 @@ Ey Allah, mənim Allahım! Öz etibarlı bəndələrinə kömək eylə ki, mehri
 
 -- Abdu'l-Bahá
 
-bpn4841 «[Azərbaycan](../az/prayers/#bpn4841)» 
+bpn4841 
 
 ----
 
@@ -2087,7 +2088,7 @@ Görürsən məni, Ey mənim Allahım, mütiliklə təzim etmiş, hökmlərin qa
 
 -- Abdu'l-Bahá
 
-bpn4842 «[Azərbaycan](../az/prayers/#bpn4842)» 
+bpn4842 
 
 ----
 
@@ -2097,7 +2098,7 @@ Sən Ey Bənzərsiz Allah! Sən Ey Mələkutun Rəbbi! Bu ruhlar Sənin səmavi 
 
 -- Abdu'l-Bahá
 
-bpn4843 «[Azərbaycan](../az/prayers/#bpn4843)» 
+bpn4843 
 
 ----
 
@@ -2107,7 +2108,7 @@ Ey Allah, mənim Allahım! Sən məni görürsən, Sənin Əbha Mələkutuna mə
 
 -- Abdu'l-Bahá
 
-bpn4844 «[Azərbaycan](../az/prayers/#bpn4844)» 
+bpn4844 
 
 ----
 
@@ -2117,7 +2118,7 @@ bpn4844 «[Azərbaycan](../az/prayers/#bpn4844)»
 
 -- Abdu'l-Bahá
 
-bpn4845 «[Azərbaycan](../az/prayers/#bpn4845)» 
+bpn4845 
 
 ----
 
@@ -2127,7 +2128,7 @@ Ey Allah, mənim Allahım! Sən görürsən, qara zülmət bütün diyarları ne
 
 -- Abdu'l-Bahá
 
-bpn4846 «[Azərbaycan](../az/prayers/#bpn4846)» 
+bpn4846 
 
 ----
 
@@ -2137,7 +2138,7 @@ Sən Ey Mehriban Allah! Təriflər olsun Sənə ki, hidayət yollarını bizə g
 
 -- Abdu'l-Bahá
 
-bpn4847 «[Azərbaycan](../az/prayers/#bpn4847)» 
+bpn4847 
 
 ----
 
@@ -2147,7 +2148,7 @@ Ey mənim Allahım! Ey mənim Allahım! Heçliyim və zəifiyimlə Sən məni g�
 
 -- Abdu'l-Bahá
 
-bpn4848 «[Azərbaycan](../az/prayers/#bpn4848)» 
+bpn4848 
 
 ----
 
@@ -2157,7 +2158,7 @@ Ya Rəbb, mənim Allahım! Sənə tərif və şükrlər olsun ki, məni mələku
 
 -- Abdu'l-Bahá
 
-bpn4849 «[Azərbaycan](../az/prayers/#bpn4849)» 
+bpn4849 
 
 ----
 
@@ -2167,7 +2168,7 @@ Ey Allah! Ey Allah! Bu qanadı sınıq bir quşdur və onun uçuşu çox zəifdi
 
 -- Abdu'l-Bahá
 
-bpn4850 «[Azərbaycan](../az/prayers/#bpn4850)» 
+bpn4850 
 
 ----
 
@@ -2177,7 +2178,7 @@ Təriflər olsun Sənə, Ey mənim Allahım! Bunlar Sənin o bəndələrindir ki
 
 -- Abdu'l-Bahá
 
-bpn4851 «[Azərbaycan](../az/prayers/#bpn4851)» 
+bpn4851 
 
 ----
 
@@ -2187,7 +2188,7 @@ Ey Allah, mənim Allahım! Sən bu zəif kimsəni görürsən ki, səmavi qüvv�
 
 -- Abdu'l-Bahá
 
-bpn4852 «[Azərbaycan](../az/prayers/#bpn4852)» 
+bpn4852 
 
 ----
 
@@ -2201,7 +2202,7 @@ Ey Allah, bütün Adların Allahı və göyləri Yaradan! Səni and verirəm o A
 
 -- Bahá'u'lláh
 
-bpn4752 «[Azərbaycan](../az/prayers/#bpn4752)» 
+bpn4752 
 
 ----
 
@@ -2211,7 +2212,7 @@ Alqış söyləyirəm Sənə, Ey mənim Allahım, Sənin inayətinin rayihələr
 
 -- Bahá'u'lláh
 
-bpn4753 «[Azərbaycan](../az/prayers/#bpn4753)» 
+bpn4753 
 
 ----
 
@@ -2225,7 +2226,7 @@ Bütün təriflər, Ey mənim Allahım, Sənə olsun, Ey cəlal və möhtəşəm
 
 -- Bahá'u'lláh
 
-bpn4830 «[Azərbaycan](../az/prayers/#bpn4830)» 
+bpn4830 
 
 ----
 
@@ -2235,7 +2236,7 @@ bpn4830 «[Azərbaycan](../az/prayers/#bpn4830)»
 
 -- Bahá'u'lláh
 
-bpn4831 «[Azərbaycan](../az/prayers/#bpn4831)» 
+bpn4831 
 
 ----
 
@@ -2245,7 +2246,7 @@ Sübhansan Sən, Ya Rəbb, mənim Allahım! Şükr edirəm Sənə, çünki məni
 
 -- Bahá'u'lláh
 
-bpn4832 «[Azərbaycan](../az/prayers/#bpn4832)» 
+bpn4832 
 
 ----
 
@@ -2255,7 +2256,7 @@ Bütün əzəmət və bəha, Ey mənim Allahım, bütün hökmranlıq və nur, e
 
 -- Báb
 
-bpn4833 «[Azərbaycan](../az/prayers/#bpn4833)» 
+bpn4833 
 
 ----
 
@@ -2269,7 +2270,7 @@ Ey Allah, mənim Allahım! Sənin şəfaverici dəryanla, fəzl Günəşinin par
 
 -- Bahá'u'lláh
 
-bpn4826 «[Azərbaycan](../az/prayers/#bpn4826)» 
+bpn4826 
 
 ----
 
@@ -2279,7 +2280,7 @@ Sənin adın mənim şəfamdır, Ey mənim Allahım, Səni zikr etmək mənim d�
 
 -- Bahá'u'lláh
 
-bpn4827 «[Azərbaycan](../az/prayers/#bpn4827)» 
+bpn4827 
 
 ----
 
@@ -2289,7 +2290,7 @@ Alqış Sənə, Ey mənim Rəbbim Allah! And verirəm Sənin o adına ki, onunla
 
 -- Bahá'u'lláh
 
-bpn4828 «[Azərbaycan](../az/prayers/#bpn4828)» 
+bpn4828 
 
 ----
 
@@ -2299,7 +2300,7 @@ Təriflər olsun Sənə, Ey mənim Rəbbim Allah! Sənin ən Böyük Adına and 
 
 -- Bahá'u'lláh
 
-bpn4829 «[Azərbaycan](../az/prayers/#bpn4829)» 
+bpn4829 
 
 ----
 
@@ -2313,7 +2314,7 @@ Odur Allah! Ya Rəbb mənim Allahım! Sən Ey Sənə üz tutan zəiflərin Köm�
 
 -- Abdu'l-Bahá
 
-bpn4889 «[Azərbaycan](../az/prayers/#bpn4889)» 
+bpn4889 
 
 ----
 
@@ -2327,7 +2328,7 @@ Alqış Sənə, Ey əbədiyyət Sultanı, ümmətlərin Xaliqi və hər bir çü
 
 -- Bahá'u'lláh
 
-bpn4731 «[Azərbaycan](../az/prayers/#bpn4731)» 
+bpn4731 
 
 ----
 
@@ -2337,7 +2338,7 @@ O, Qüdrətli, Əfv Edən və Şəfqətlidir! Ey Allah, mənim Allahım! Sən b�
 
 -- Bahá'u'lláh
 
-bpn4732 «[Azərbaycan](../az/prayers/#bpn4732)» 
+bpn4732 
 
 ----
 
@@ -2347,7 +2348,7 @@ bpn4732 «[Azərbaycan](../az/prayers/#bpn4732)»
 
 -- Abdu'l-Bahá
 
-bpn4733 «[Azərbaycan](../az/prayers/#bpn4733)» 
+bpn4733 
 
 ----
 
@@ -2357,7 +2358,7 @@ Ey Şəfqətli Allah! Şükürlər Sənə, məni ayıltdın və huşyar etdin. G
 
 -- Abdu'l-Bahá
 
-bpn4734 «[Azərbaycan](../az/prayers/#bpn4734)» 
+bpn4734 
 
 ----
 
@@ -2367,7 +2368,7 @@ Ey mənim Rəbbim və mənim Ümidim! Öz sevimlilərinə kömək eylə ki, Sən
 
 -- Abdu'l-Bahá
 
-bpn4735 «[Azərbaycan](../az/prayers/#bpn4735)» 
+bpn4735 
 
 ----
 
@@ -2381,7 +2382,7 @@ bpn4735 «[Azərbaycan](../az/prayers/#bpn4735)»
 
 -- Bahá'u'lláh
 
-bpn4880 «[Azərbaycan](../az/prayers/#bpn4880)» 
+bpn4880 
 
 ----
 
@@ -2391,7 +2392,7 @@ bpn4880 «[Azərbaycan](../az/prayers/#bpn4880)»
 
 -- Bahá'u'lláh
 
-bpn4881 «[Azərbaycan](../az/prayers/#bpn4881)» 
+bpn4881 
 
 ----
 

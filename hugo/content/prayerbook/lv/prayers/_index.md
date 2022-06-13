@@ -5,6 +5,7 @@ tags = ['lang=lv', 'prayerbook']
 
 
 
+
 [Aizsardzība](#Aizsardz%C4%ABba)
 
 [Atsacīšanās](#Atsac%C4%AB%C5%A1an%C4%81s)
@@ -77,7 +78,7 @@ Esi slavēts, ak Dievs, mans Kungs! Šeit ir Tavs kalps, kas no Tavām žēlīga
 
 -- Bahá'u'lláh
 
-bpn2354 «[Latviešu](../lv/prayers/#bpn2354)» 
+bpn2354 
 
 ----
 
@@ -87,7 +88,7 @@ Ak Dievs, mans Dievs! Es esmu devies ceļā prom no mājām, un, turoties cieši
 
 -- Bahá'u'lláh
 
-bpn2355 «[Latviešu](../lv/prayers/#bpn2355)» 
+bpn2355 
 
 ----
 
@@ -97,7 +98,7 @@ Lai slava Tev, ak Dievs, mans Kungs! Tu redzi un zini, ka es esmu aicinājis Tav
 
 -- Bahá'u'lláh
 
-bpn2356 «[Latviešu](../lv/prayers/#bpn2356)» 
+bpn2356 
 
 ----
 
@@ -107,7 +108,7 @@ Lai slavēts top Tavs Vārds, ak Dievs, mans Kungs! Piesaucot Tavu Vārdu, kas l
 
 -- Bahá'u'lláh
 
-bpn2357 «[Latviešu](../lv/prayers/#bpn2357)» 
+bpn2357 
 
 ----
 
@@ -117,7 +118,7 @@ Ak Dievs, mans Dievs! Atvairi no Saviem uzticamajiem kalpiem visu ļauno, kas n�
 
 -- Abdu'l-Bahá
 
-bpn2358 «[Latviešu](../lv/prayers/#bpn2358)» 
+bpn2358 
 
 ----
 
@@ -127,7 +128,7 @@ Ak mans Kungs! Tu zini, ka sāpes un ciešanas apņem cilvēkus, ka visapkārt v
 
 -- Abdu'l-Bahá
 
-bpn2359 «[Latviešu](../lv/prayers/#bpn2359)» 
+bpn2359 
 
 ----
 
@@ -141,7 +142,7 @@ Atļauj man, ak mans Dievs, tiekties Tava tuvuma un mājot Tava Galma lokā, jo 
 
 -- Bahá'u'lláh
 
-bpn2360 «[Latviešu](../lv/prayers/#bpn2360)» 
+bpn2360 
 
 ----
 
@@ -151,7 +152,7 @@ Lai slava Tev, ak mans Dievs! Es pateicos Tev, ka Tu man esi atklājis Viņu, Ka
 
 -- Bahá'u'lláh
 
-bpn2361 «[Latviešu](../lv/prayers/#bpn2361)» 
+bpn2361 
 
 ----
 
@@ -161,7 +162,7 @@ Lai cildināts top Tavs Vārds, ak mans Dievs! Tik tiešām, kā uz Tavu pavēli
 
 -- Bahá'u'lláh
 
-bpn2362 «[Latviešu](../lv/prayers/#bpn2362)» 
+bpn2362 
 
 ----
 
@@ -171,7 +172,7 @@ Ak mans Dievs! Tava Mācība ir iekvēlinājusi daudz vēsu siržu, un Tavas bal
 
 -- Bahá'u'lláh
 
-bpn2363 «[Latviešu](../lv/prayers/#bpn2363)» 
+bpn2363 
 
 ----
 
@@ -181,7 +182,7 @@ Es nezinu, ak mans Dievs, kas tā ir par uguni, ko Tu esi iededzis Savā zemē. 
 
 -- Bahá'u'lláh
 
-bpn2364 «[Latviešu](../lv/prayers/#bpn2364)» 
+bpn2364 
 
 ----
 
@@ -191,7 +192,7 @@ Lai slava Tev, ak mans Dievs! Es esmu viens no Taviem kalpiem, kas ir ticējis T
 
 -- Bahá'u'lláh
 
-bpn2365 «[Latviešu](../lv/prayers/#bpn2365)» 
+bpn2365 
 
 ----
 
@@ -201,7 +202,7 @@ Mans Dievs! Mans Dievs! Tu esi mana Cerība un mana Mīlestība, mans Mērķis u
 
 -- Abdu'l-Bahá
 
-bpn2366 «[Latviešu](../lv/prayers/#bpn2366)» 
+bpn2366 
 
 ----
 
@@ -215,7 +216,7 @@ Ak mans Dievs un mans Valdniek! Es esmu Tavs kalps un Tava kalpa dēls. Es esmu 
 
 -- Bahá'u'lláh
 
-bpn2367 «[Latviešu](../lv/prayers/#bpn2367)» 
+bpn2367 
 
 ----
 
@@ -229,7 +230,7 @@ Ak Dievs, vadi mani, sargā mani, dedz manā sirdī gaismu, lai es kļūstu kā 
 
 -- Abdu'l-Bahá
 
-bpn2368 «[Latviešu](../lv/prayers/#bpn2368)» 
+bpn2368 
 
 ----
 
@@ -239,7 +240,7 @@ Ak Tu Šķīstības Dievs! Es esmu mazs bērns, dāvā man miera ostu Savā dās
 
 -- Abdu'l-Bahá
 
-bpn2369 «[Latviešu](../lv/prayers/#bpn2369)» 
+bpn2369 
 
 ----
 
@@ -249,7 +250,7 @@ Ak mans Kungs! Ak mans Kungs! Es esmu mazs bērns. Baro mani no Savas žēlsird�
 
 -- Abdu'l-Bahá
 
-bpn2370 «[Latviešu](../lv/prayers/#bpn2370)» 
+bpn2370 
 
 ----
 
@@ -259,7 +260,7 @@ Ak Dievs! Audzini šos bērnus. Šie bērni ir stādiņi Tavā dārzā, ziediņi
 
 -- Abdu'l-Bahá
 
-bpn2371 «[Latviešu](../lv/prayers/#bpn2371)» 
+bpn2371 
 
 ----
 
@@ -269,7 +270,7 @@ Ak Dievs! Audzini šo bērniņu Savas mīlas azotē, sniedz viņam pienu no Sava
 
 -- Abdu'l-Bahá
 
-bpn2372 «[Latviešu](../lv/prayers/#bpn2372)» 
+bpn2372 
 
 ----
 
@@ -283,7 +284,7 @@ Lai slavēts Tavs vārds, ak Dievs, mans Kungs! Tevi visi pielūdz, bet Tu nepie
 
 -- Bahá'u'lláh
 
-bpn2373 «[Latviešu](../lv/prayers/#bpn2373)» 
+bpn2373 
 
 ----
 
@@ -293,7 +294,7 @@ Lai slava Tev, ak mans Dievs! Tu esi majestātiskuma un slavas, diženuma un god
 
 -- Bahá'u'lláh
 
-bpn2374 «[Latviešu](../lv/prayers/#bpn2374)» 
+bpn2374 
 
 ----
 
@@ -303,7 +304,7 @@ Esi slavēts, ak Dievs, mans Kungs! Es pateicos Tev par to, ka esi ļāvis man a
 
 -- Bahá'u'lláh
 
-bpn2375 «[Latviešu](../lv/prayers/#bpn2375)» 
+bpn2375 
 
 ----
 
@@ -313,7 +314,7 @@ Visaugstā Dieva vārdā! Esi slavēts un cildināts, Visvarenais Kungs! Tu, Kur
 
 -- Abdu'l-Bahá
 
-bpn2376 «[Latviešu](../lv/prayers/#bpn2376)» 
+bpn2376 
 
 ----
 
@@ -327,7 +328,7 @@ Mans Dievs, dievinātais un pielūgtais! Es apliecinu, ka Tu esi viens un vienī
 
 -- Bahá'u'lláh
 
-bpn2377 «[Latviešu](../lv/prayers/#bpn2377)» 
+bpn2377 
 
 ----
 
@@ -337,7 +338,7 @@ Lai slavēts ir Tavs Vārds, ak Dievs, mans Kungs!Tumsa ir nolaidusies pār vis�
 
 -- Bahá'u'lláh
 
-bpn2378 «[Latviešu](../lv/prayers/#bpn2378)» 
+bpn2378 
 
 ----
 
@@ -351,7 +352,7 @@ Lai daudzināts top Tavs Vārds, ak mans Dievs, par to, ka esi darījis zināmu 
 
 -- Bahá'u'lláh
 
-bpn2382 «[Latviešu](../lv/prayers/#bpn2382)» 
+bpn2382 
 
 ----
 
@@ -361,7 +362,7 @@ Ak laipnais Kungs, žēlīgais un vēlīgais! Mēs esam kalpi pie Tava sliekšņ
 
 -- Abdu'l-Bahá
 
-bpn2379 «[Latviešu](../lv/prayers/#bpn2379)» 
+bpn2379 
 
 ----
 
@@ -371,7 +372,7 @@ Mēs esam Tavi kalpi Tava likteņa pavēnī. Apveltī mūs ar labvēlīgu skatu.
 
 -- Abdu'l-Bahá
 
-bpn2380 «[Latviešu](../lv/prayers/#bpn2380)» 
+bpn2380 
 
 ----
 
@@ -381,7 +382,7 @@ Ak labsirdīgais Kungs! Tu esi radījis visu cilvēci no vienas saknes. Tu esi n
 
 -- Abdu'l-Bahá
 
-bpn2381 «[Latviešu](../lv/prayers/#bpn2381)» 
+bpn2381 
 
 ----
 
@@ -395,7 +396,7 @@ Ak Dievs, mans Dievs! Pie Tavas dziedināšanas jūras, pie Tavas žēlsirdības
 
 -- Bahá'u'lláh
 
-bpn2383 «[Latviešu](../lv/prayers/#bpn2383)» 
+bpn2383 
 
 ----
 
@@ -405,7 +406,7 @@ Lai slava Tev, ak Dievs, mans Kungs! Piesaucot Tavu vārdu, kuru Tu pacēli kā 
 
 -- Bahá'u'lláh
 
-bpn2386 «[Latviešu](../lv/prayers/#bpn2386)» 
+bpn2386 
 
 ----
 
@@ -415,7 +416,7 @@ Esi slavēts, ak Dievs, mans Kungs! Piesaucot Tavu vārdu, caur kuru Tava Daile 
 
 -- Bahá'u'lláh
 
-bpn2387 «[Latviešu](../lv/prayers/#bpn2387)» 
+bpn2387 
 
 ----
 
@@ -425,7 +426,7 @@ Tavs Vārds ir mana dziedināšana, ak mans Kungs, un Tevis pieminēšana ir man
 
 -- Bahá'u'lláh
 
-bpn2384 «[Latviešu](../lv/prayers/#bpn2384)» 
+bpn2384 
 
 ----
 
@@ -435,7 +436,7 @@ Esi slavēts, ak Dievs, mans Kungs! Piesaucot Tavu Visdiženo Vārdu, caur kuru 
 
 -- Bahá'u'lláh
 
-bpn2385 «[Latviešu](../lv/prayers/#bpn2385)» 
+bpn2385 
 
 ----
 
@@ -449,7 +450,7 @@ bpn2385 «[Latviešu](../lv/prayers/#bpn2385)»
 
 -- Bahá'u'lláh
 
-bpn2350 «[Latviešu](../lv/prayers/#bpn2350)» 
+bpn2350 
 
 ----
 
@@ -463,7 +464,7 @@ Ak mans Dievs, dāsnais un žēlīgais Dievs! Tu esi tas Ķēniņš, Kā pavēlo
 
 -- Bahá'u'lláh
 
-bpn2388 «[Latviešu](../lv/prayers/#bpn2388)» 
+bpn2388 
 
 ----
 
@@ -473,7 +474,7 @@ Ak Dievs, atspirdzini un iepriecini manu garu. Šķīsti manu sirdi. Apgaismo ma
 
 -- Abdu'l-Bahá
 
-bpn2389 «[Latviešu](../lv/prayers/#bpn2389)» 
+bpn2389 
 
 ----
 
@@ -483,7 +484,7 @@ Ak mans Dievs! Ak mans Dievs! Lai slava Tev par to, ka esi man licis atzīt Tavu
 
 -- Abdu'l-Bahá
 
-bpn2390 «[Latviešu](../lv/prayers/#bpn2390)» 
+bpn2390 
 
 ----
 
@@ -493,7 +494,7 @@ Ak mans Kungs! Ak mans Kungs! Es esmu kā lampa, kas dod gaismu caur Tavas mīle
 
 -- Abdu'l-Bahá
 
-bpn2391 «[Latviešu](../lv/prayers/#bpn2391)» 
+bpn2391 
 
 ----
 
@@ -503,7 +504,7 @@ Ak mans Dievs! Ak mans Dievs! Šeit ir Tavs kalps, kas ir tiecies uz Tevi un sav
 
 -- Abdu'l-Bahá
 
-bpn2392 «[Latviešu](../lv/prayers/#bpn2392)» 
+bpn2392 
 
 ----
 
@@ -513,7 +514,7 @@ Viņš ir Dievs!Ak Dievs, mans Dievs! Šeit ir Tavās dienās Tava svētuma sald
 
 -- Abdu'l-Bahá
 
-bpn2393 «[Latviešu](../lv/prayers/#bpn2393)» 
+bpn2393 
 
 ----
 
@@ -523,7 +524,7 @@ Viņš ir Žēlīgais, Visdāsnais!Ak Dievs, mans Dievs! Tavs aicinājums ir sas
 
 -- Abdu'l-Bahá
 
-bpn2394 «[Latviešu](../lv/prayers/#bpn2394)» 
+bpn2394 
 
 ----
 
@@ -533,7 +534,7 @@ Viņš ir Dievs, Kas uzklausa lūgšanas un atbild uz tām!Lai Tev slava, ak Vis
 
 -- Abdu'l-Bahá
 
-bpn2395 «[Latviešu](../lv/prayers/#bpn2395)» 
+bpn2395 
 
 ----
 
@@ -547,7 +548,7 @@ bpn2395 «[Latviešu](../lv/prayers/#bpn2395)»
 
 -- Abdu'l-Bahá
 
-bpn2445 «[Latviešu](../lv/prayers/#bpn2445)» 
+bpn2445 
 
 ----
 
@@ -557,7 +558,7 @@ bpn2445 «[Latviešu](../lv/prayers/#bpn2445)»
 
 -- Abdu'l-Bahá
 
-bpn2446 «[Latviešu](../lv/prayers/#bpn2446)» 
+bpn2446 
 
 ----
 
@@ -571,7 +572,7 @@ bpn2446 «[Latviešu](../lv/prayers/#bpn2446)»
 
 -- Bahá'u'lláh
 
-bpn2448 «[Latviešu](../lv/prayers/#bpn2448)» 
+bpn2448 
 
 ----
 
@@ -581,7 +582,7 @@ Lai slava Tev, ak Dievs, mans Kungs. Šīs ir tās dienas, kurās Tu visiem cilv
 
 -- Bahá'u'lláh
 
-bpn2450 «[Latviešu](../lv/prayers/#bpn2450)» 
+bpn2450 
 
 ----
 
@@ -591,7 +592,7 @@ bpn2450 «[Latviešu](../lv/prayers/#bpn2450)»
 
 -- Bahá'u'lláh
 
-bpn2449 «[Latviešu](../lv/prayers/#bpn2449)» 
+bpn2449 
 
 ----
 
@@ -605,7 +606,7 @@ Kliedē manas bēdas Savā augstsirdībā un dāsnumā, ak Dievs, mans Dievs, un
 
 -- Bahá'u'lláh
 
-bpn2396 «[Latviešu](../lv/prayers/#bpn2396)» 
+bpn2396 
 
 ----
 
@@ -615,7 +616,7 @@ Esi slavēts un cildināts, ak mans Kungs! Pie to nopūtām un izlietajām asar�
 
 -- Bahá'u'lláh
 
-bpn2397 «[Latviešu](../lv/prayers/#bpn2397)» 
+bpn2397 
 
 ----
 
@@ -625,7 +626,7 @@ Ak Tu, Kura pārbaudījumi nes dziedināšanu Tev tuvajiem, Kura zobenu ilgojas 
 
 -- Bahá'u'lláh
 
-bpn2398 «[Latviešu](../lv/prayers/#bpn2398)» 
+bpn2398 
 
 ----
 
@@ -635,7 +636,7 @@ Esi slavēts, ak mans Dievs! Ja tiem, kas Tevi no sirds mīl, nebūtu likstu, Ta
 
 -- Bahá'u'lláh
 
-bpn2399 «[Latviešu](../lv/prayers/#bpn2399)» 
+bpn2399 
 
 ----
 
@@ -645,7 +646,7 @@ Esi slavēts, ak Dievs, mans Kungs! Katrs vērīgais atzīst Tavu varu un valdī
 
 -- Bahá'u'lláh
 
-bpn2400 «[Latviešu](../lv/prayers/#bpn2400)» 
+bpn2400 
 
 ----
 
@@ -655,7 +656,7 @@ Vai ir vēl kāds cits, kas spēj grūtības novērst, kā Dievs? Saki: Lai slav
 
 -- Báb
 
-bpn2401 «[Latviešu](../lv/prayers/#bpn2401)» 
+bpn2401 
 
 ----
 
@@ -665,7 +666,7 @@ Saki: Pār visām lietām Dievs ir piepildījums, un nav apmierinājuma bez Diev
 
 -- Báb
 
-bpn2402 «[Latviešu](../lv/prayers/#bpn2402)» 
+bpn2402 
 
 ----
 
@@ -675,7 +676,7 @@ Viņš ir Līdzjūtīgais, Viņš ir Augstsirdīgais.Ak Dievs, mans Dievs! Tu re
 
 -- Abdu'l-Bahá
 
-bpn2403 «[Latviešu](../lv/prayers/#bpn2403)» 
+bpn2403 
 
 ----
 
@@ -685,7 +686,7 @@ Ak Dievs, mans Kungs, un mana Osta ciešanu vētrā. Mans Vairogs un mans Aizseg
 
 -- Abdu'l-Bahá
 
-bpn2404 «[Latviešu](../lv/prayers/#bpn2404)» 
+bpn2404 
 
 ----
 
@@ -695,7 +696,7 @@ Ak mans Kungs, mans Mīļotais, mans Ilgojums! Manā vientulībā pieņem mani, 
 
 -- Abdu'l-Bahá
 
-bpn2405 «[Latviešu](../lv/prayers/#bpn2405)» 
+bpn2405 
 
 ----
 
@@ -709,7 +710,7 @@ bpn2405 «[Latviešu](../lv/prayers/#bpn2405)»
 
 -- Bahá'u'lláh
 
-bpn2451 «[Latviešu](../lv/prayers/#bpn2451)» 
+bpn2451 
 
 ----
 
@@ -723,7 +724,7 @@ bpn2451 «[Latviešu](../lv/prayers/#bpn2451)»
 
 -- Bahá'u'lláh
 
-bpn2452 «[Latviešu](../lv/prayers/#bpn2452)» 
+bpn2452 
 
 ----
 
@@ -733,7 +734,7 @@ bpn2452 «[Latviešu](../lv/prayers/#bpn2452)»
 
 -- Abdu'l-Bahá
 
-bpn2453 «[Latviešu](../lv/prayers/#bpn2453)» 
+bpn2453 
 
 ----
 
@@ -743,7 +744,7 @@ Lai Tev slava, ak mans Dievs! Patiesi, Tavs kalps un Tava kalpone ir nākuši ko
 
 -- Abdu'l-Bahá
 
-bpn2454 «[Latviešu](../lv/prayers/#bpn2454)» 
+bpn2454 
 
 ----
 
@@ -757,7 +758,7 @@ bpn2454 «[Latviešu](../lv/prayers/#bpn2454)»
 
 -- Abdu'l-Bahá
 
-bpn2447 «[Latviešu](../lv/prayers/#bpn2447)» 
+bpn2447 
 
 ----
 
@@ -771,7 +772,7 @@ Lai slava Tev, ak Dievs, mans Kungs! Es lūdzu Tevi un piesaucu Tavu Vārdu, kur
 
 -- Bahá'u'lláh
 
-bpn2408 «[Latviešu](../lv/prayers/#bpn2408)» 
+bpn2408 
 
 ----
 
@@ -781,7 +782,7 @@ Lai slava Tev, visas pasaules Dievs un visu tautu Ilgojums! Ak Tu, Kas atklājie
 
 -- Bahá'u'lláh
 
-bpn2409 «[Latviešu](../lv/prayers/#bpn2409)» 
+bpn2409 
 
 ----
 
@@ -791,7 +792,7 @@ Ak Dievs, Tu esi visu Savu Izpausmju Cēlonis, visu Pirmsākumu Pirmsākums, vis
 
 -- Bahá'u'lláh
 
-bpn2410 «[Latviešu](../lv/prayers/#bpn2410)» 
+bpn2410 
 
 ----
 
@@ -801,7 +802,7 @@ Ak Kungs! Atver plaši durvis, dāvā iespējas, sagatavo ceļu, novērs briesma
 
 -- Abdu'l-Bahá
 
-bpn2407 «[Latviešu](../lv/prayers/#bpn2407)» 
+bpn2407 
 
 ----
 
@@ -815,7 +816,7 @@ Mans Dievs, mans Pielūgtais, mans Ķēniņš, mana karstākā Vēlēšanās! K�
 
 -- Bahá'u'lláh
 
-bpn2411 «[Latviešu](../lv/prayers/#bpn2411)» 
+bpn2411 
 
 ----
 
@@ -825,7 +826,7 @@ Ak mans Dievs! Piesaucot Tavu cildeno Vārdu, es lūdzu Tevi palīdzēt man dar�
 
 -- Bahá'u'lláh
 
-bpn2412 «[Latviešu](../lv/prayers/#bpn2412)» 
+bpn2412 
 
 ----
 
@@ -835,7 +836,7 @@ Ak Tu, Kā vaigs ir manas pielūgsmes tēls, Kā skaistums ir mans patvērums, K
 
 -- Bahá'u'lláh
 
-bpn2416 «[Latviešu](../lv/prayers/#bpn2416)» 
+bpn2416 
 
 ----
 
@@ -845,7 +846,7 @@ Ak Kungs, mans Dievs! Palīdzi Saviem mīļotajiem būt stipriem Tavā ticībā,
 
 -- Abdu'l-Bahá
 
-bpn2413 «[Latviešu](../lv/prayers/#bpn2413)» 
+bpn2413 
 
 ----
 
@@ -855,7 +856,7 @@ Kungs! Nožēlojami mēs esam, sniedz mums Savu atbalstu, nabagi mēs esam, dod 
 
 -- Abdu'l-Bahá
 
-bpn2414 «[Latviešu](../lv/prayers/#bpn2414)» 
+bpn2414 
 
 ----
 
@@ -865,7 +866,7 @@ Neatņem mums, ak Kungs, to svētku galdu, kas ir Tavā vārdā klāts, un nesl�
 
 -- Abdu'l-Bahá
 
-bpn2415 «[Latviešu](../lv/prayers/#bpn2415)» 
+bpn2415 
 
 ----
 
@@ -879,7 +880,7 @@ Lai slava Tev, ak Dievs, mans Kungs! Nepazemo to, ko Savas mūžīgās valdīša
 
 -- Bahá'u'lláh
 
-bpn2351 «[Latviešu](../lv/prayers/#bpn2351)» 
+bpn2351 
 
 ----
 
@@ -889,7 +890,7 @@ Viņš ir Dievs, cildens Viņš ir, mīloši žēlīgais un dāsnais Kungs!Lai s
 
 -- Bahá'u'lláh
 
-bpn2353 «[Latviešu](../lv/prayers/#bpn2353)» 
+bpn2353 
 
 ----
 
@@ -899,7 +900,7 @@ Ak mans Dievs! Ak Tu grēku Piedevējs! Dāvanu Devējs! Bēdu Kliedētājs! Tik
 
 -- Abdu'l-Bahá
 
-bpn2352 «[Latviešu](../lv/prayers/#bpn2352)» 
+bpn2352 
 
 ----
 
@@ -913,7 +914,7 @@ Uz Tevi, ak mans Kungs, es paceļu skatu, no Tavas žēlastības es ceru pieredz
 
 -- Bahá'u'lláh
 
-bpn2417 «[Latviešu](../lv/prayers/#bpn2417)» 
+bpn2417 
 
 ----
 
@@ -923,7 +924,7 @@ Tu redzi mani, ak mans Kungs, raugāmies uz Tava dāsnuma debesīm un Tavas labe
 
 -- Bahá'u'lláh
 
-bpn2418 «[Latviešu](../lv/prayers/#bpn2418)» 
+bpn2418 
 
 ----
 
@@ -933,7 +934,7 @@ Slavēts lai ir Tavs vārds, ak mans Dievs un visas radības Dievs, mana Godība
 
 -- Bahá'u'lláh
 
-bpn2419 «[Latviešu](../lv/prayers/#bpn2419)» 
+bpn2419 
 
 ----
 
@@ -943,7 +944,7 @@ Ak Kungs, Tu cilvēku cerība. Tu esi patvērums visiem tiem, kas Tev kalpo. Tav
 
 -- Abdu'l-Bahá
 
-bpn2420 «[Latviešu](../lv/prayers/#bpn2420)» 
+bpn2420 
 
 ----
 
@@ -957,7 +958,7 @@ Es esmu atmodies, Tevis pasargāts, ak mans Dievs, un tas, kas pēc Tavas sargā
 
 -- Bahá'u'lláh
 
-bpn2421 «[Latviešu](../lv/prayers/#bpn2421)» 
+bpn2421 
 
 ----
 
@@ -967,7 +968,7 @@ Es esmu cēlies šorīt caur Tavu žēlastību, ak mans Dievs, un izgājis no m�
 
 -- Bahá'u'lláh
 
-bpn2422 «[Latviešu](../lv/prayers/#bpn2422)» 
+bpn2422 
 
 ----
 
@@ -977,7 +978,7 @@ Es teicu Tevi, ak mans Dievs, ka Tu esi modinājis mani no miega un aizmirstība
 
 -- Bahá'u'lláh
 
-bpn2423 «[Latviešu](../lv/prayers/#bpn2423)» 
+bpn2423 
 
 ----
 
@@ -991,7 +992,7 @@ Esi slavēts, ak Dievs, mans Kungs! Pie Tavas visaptverošās žēlsirdības vē
 
 -- Abdu'l-Bahá
 
-bpn2424 «[Latviešu](../lv/prayers/#bpn2424)» 
+bpn2424 
 
 ----
 
@@ -1001,7 +1002,7 @@ Ak žēlīgais Dievs! Ak Tu varenais un spēcīgais! Ak Tu labsirdīgais Tēvs! 
 
 -- Abdu'l-Bahá
 
-bpn2425 «[Latviešu](../lv/prayers/#bpn2425)» 
+bpn2425 
 
 ----
 
@@ -1011,7 +1012,7 @@ Ak Tu žēlīgais Kungs! Šie ir Tavi kalpi, kas pulcējušies šai saietā, pie
 
 -- Abdu'l-Bahá
 
-bpn2426 «[Latviešu](../lv/prayers/#bpn2426)» 
+bpn2426 
 
 ----
 
@@ -1021,7 +1022,7 @@ Ak mans Dievs! Ak mans Dievs! Patiesi, Tavi kalpi griežas pie Tevis un lūdz Ta
 
 -- Abdu'l-Bahá
 
-bpn2427 «[Latviešu](../lv/prayers/#bpn2427)» 
+bpn2427 
 
 ----
 
@@ -1031,7 +1032,7 @@ Ak Tu piedodošais Dievs! Šie kalpi raugās uz Tavu Ķēniņvalsti un ilgojas T
 
 -- Abdu'l-Bahá
 
-bpn2428 «[Latviešu](../lv/prayers/#bpn2428)» 
+bpn2428 
 
 ----
 
@@ -1045,7 +1046,7 @@ bpn2428 «[Latviešu](../lv/prayers/#bpn2428)»
 
 -- Bahá'u'lláh
 
-bpn2443 «[Latviešu](../lv/prayers/#bpn2443)» 
+bpn2443 
 
 ----
 
@@ -1055,7 +1056,7 @@ bpn2443 «[Latviešu](../lv/prayers/#bpn2443)»
 
 -- Abdu'l-Bahá
 
-bpn2444 «[Latviešu](../lv/prayers/#bpn2444)» 
+bpn2444 
 
 ----
 
@@ -1069,7 +1070,7 @@ Ak Tu vienīgais nesalīdzināmais Dievs! Ak Tu Ķēniņvalsts Valdniek! Šīs d
 
 -- Abdu'l-Bahá
 
-bpn2406 «[Latviešu](../lv/prayers/#bpn2406)» 
+bpn2406 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn2406 «[Latviešu](../lv/prayers/#bpn2406)»
 
 -- Abdu'l-Bahá
 
-bpn4093 «[Latviešu](../lv/prayers/#bpn4093)» 
+bpn4093 
 
 ----
 
@@ -1089,7 +1090,7 @@ bpn4093 «[Latviešu](../lv/prayers/#bpn4093)»
 
 -- Abdu'l-Bahá
 
-bpn4094 «[Latviešu](../lv/prayers/#bpn4094)» 
+bpn4094 
 
 ----
 
@@ -1099,7 +1100,7 @@ Ak Dievs! Ak Dievs! Tu redzi, kā drūma tumsa apņem visas zemes, deg tās str�
 
 -- Abdu'l-Bahá
 
-bpn4095 «[Latviešu](../lv/prayers/#bpn4095)» 
+bpn4095 
 
 ----
 
@@ -1109,7 +1110,7 @@ bpn4095 «[Latviešu](../lv/prayers/#bpn4095)»
 
 -- Abdu'l-Bahá
 
-bpn4096 «[Latviešu](../lv/prayers/#bpn4096)» 
+bpn4096 
 
 ----
 
@@ -1119,7 +1120,7 @@ bpn4096 «[Latviešu](../lv/prayers/#bpn4096)»
 
 -- Abdu'l-Bahá
 
-bpn4097 «[Latviešu](../lv/prayers/#bpn4097)» 
+bpn4097 
 
 ----
 
@@ -1129,7 +1130,7 @@ bpn4097 «[Latviešu](../lv/prayers/#bpn4097)»
 
 -- Abdu'l-Bahá
 
-bpn4098 «[Latviešu](../lv/prayers/#bpn4098)» 
+bpn4098 
 
 ----
 
@@ -1139,7 +1140,7 @@ Ak Dievs! Ak Dievs! Tavā priekšā ir putns ar aizlauztiem spārniem, un viņa 
 
 -- Abdu'l-Bahá
 
-bpn4099 «[Latviešu](../lv/prayers/#bpn4099)» 
+bpn4099 
 
 ----
 
@@ -1149,7 +1150,7 @@ Lai slava Tev, ak Dievs! Patiesi, šeit ir Tavi kalpi, kurus pievelk Tavas žēl
 
 -- Abdu'l-Bahá
 
-bpn4100 «[Latviešu](../lv/prayers/#bpn4100)» 
+bpn4100 
 
 ----
 
@@ -1159,7 +1160,7 @@ bpn4100 «[Latviešu](../lv/prayers/#bpn4100)»
 
 -- Abdu'l-Bahá
 
-bpn4101 «[Latviešu](../lv/prayers/#bpn4101)» 
+bpn4101 
 
 ----
 
@@ -1173,7 +1174,7 @@ Lai slava Tev, Mūžības Ķēniņ, tautu Radītāj, ikviena mirstīgā miesas V
 
 -- Bahá'u'lláh
 
-bpn2429 «[Latviešu](../lv/prayers/#bpn2429)» 
+bpn2429 
 
 ----
 
@@ -1183,7 +1184,7 @@ Viņš ir Varenais, Piedevējs, Līdzjūtīgais!Ak Dievs, mans Dievs! Tu redzi S
 
 -- Abdu'l-Bahá
 
-bpn2430 «[Latviešu](../lv/prayers/#bpn2430)» 
+bpn2430 
 
 ----
 
@@ -1197,7 +1198,7 @@ Ak Tu, Kā tuvums ir mana vēlēšanās, Kā klātbūtne ir mana cerība, Kā pi
 
 -- Bahá'u'lláh
 
-bpn2431 «[Latviešu](../lv/prayers/#bpn2431)» 
+bpn2431 
 
 ----
 
@@ -1207,7 +1208,7 @@ Esi slavēts, ak Dievs, mans Kungs! Tā vārdā Kas ir Visdižākais no Taviem V
 
 -- Bahá'u'lláh
 
-bpn2432 «[Latviešu](../lv/prayers/#bpn2432)» 
+bpn2432 
 
 ----
 
@@ -1221,7 +1222,7 @@ Ak mans Dievs, mans Pavēlniek, mans Ilgojums! Tavs kalps meklē mieru Tavas ž�
 
 -- Bahá'u'lláh
 
-bpn2437 «[Latviešu](../lv/prayers/#bpn2437)» 
+bpn2437 
 
 ----
 
@@ -1231,7 +1232,7 @@ Kā gan man gulēt, ak Dievs, mans Dievs, ja acis ir nomodā tiem, kas atšķirt
 
 -- Bahá'u'lláh
 
-bpn2438 «[Latviešu](../lv/prayers/#bpn2438)» 
+bpn2438 
 
 ----
 
@@ -1241,7 +1242,7 @@ Ak Dievs, mans Kungs! Palīdzi Saviem mīļajiem būt stingriem Tavā Ticībā, 
 
 -- Abdu'l-Bahá
 
-bpn2433 «[Latviešu](../lv/prayers/#bpn2433)» 
+bpn2433 
 
 ----
 
@@ -1251,7 +1252,7 @@ Dari stingrus mūsu soļus, ak Kungs, Tavu ceļu ejot, un dari mūsu sirdis stip
 
 -- Abdu'l-Bahá
 
-bpn2434 «[Latviešu](../lv/prayers/#bpn2434)» 
+bpn2434 
 
 ----
 
@@ -1261,7 +1262,7 @@ Ak Dievs, mans Dievs! Es esmu griezies pie Tevis grēku nožēlā, un, patiesi, 
 
 -- Abdu'l-Bahá
 
-bpn2435 «[Latviešu](../lv/prayers/#bpn2435)» 
+bpn2435 
 
 ----
 
@@ -1271,7 +1272,7 @@ Ak līdzjūtīgais Dievs! Lai Tev pateicība par to, ka esi atmodinājis mani un
 
 -- Abdu'l-Bahá
 
-bpn2436 «[Latviešu](../lv/prayers/#bpn2436)» 
+bpn2436 
 
 ----
 
@@ -1281,7 +1282,7 @@ bpn2436 «[Latviešu](../lv/prayers/#bpn2436)»
 
 -- Abdu'l-Bahá
 
-bpn2439 «[Latviešu](../lv/prayers/#bpn2439)» 
+bpn2439 
 
 ----
 
@@ -1295,7 +1296,7 @@ bpn2439 «[Latviešu](../lv/prayers/#bpn2439)»
 
 -- Bahá'u'lláh
 
-bpn2349 «[Latviešu](../lv/prayers/#bpn2349)» 
+bpn2349 
 
 ----
 
@@ -1309,7 +1310,7 @@ Ak mans Dievs! Ak mans Dievs! Apvieno Savu kalpu sirdis un atklāj viņiem Savu 
 
 -- Bahá'u'lláh
 
-bpn2440 «[Latviešu](../lv/prayers/#bpn2440)» 
+bpn2440 
 
 ----
 
@@ -1319,7 +1320,7 @@ Ak mans Dievs, ak mans Dievs! Patiesi, es piesaucu Tevi un lūdzu pie Tava sliek
 
 -- Abdu'l-Bahá
 
-bpn2441 «[Latviešu](../lv/prayers/#bpn2441)» 
+bpn2441 
 
 ----
 
@@ -1333,7 +1334,7 @@ bpn2441 «[Latviešu](../lv/prayers/#bpn2441)»
 
 -- Bahá'u'lláh
 
-bpn2442 «[Latviešu](../lv/prayers/#bpn2442)» 
+bpn2442 
 
 ----
 
@@ -1347,7 +1348,7 @@ bpn2442 «[Latviešu](../lv/prayers/#bpn2442)»
 
 -- Bahá'u'lláh
 
-bpn2348 «[Latviešu](../lv/prayers/#bpn2348)» 
+bpn2348 
 
 ----
 

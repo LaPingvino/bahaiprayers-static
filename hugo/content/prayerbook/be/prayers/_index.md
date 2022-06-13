@@ -5,6 +5,7 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
 [Аб вылячэнні](#%D0%90%D0%B1+%D0%B2%D1%8B%D0%BB%D1%8F%D1%87%D1%8D%D0%BD%D0%BD%D1%96)
 
 [Аб дапамозе](#%D0%90%D0%B1+%D0%B4%D0%B0%D0%BF%D0%B0%D0%BC%D0%BE%D0%B7%D0%B5)
@@ -59,7 +60,7 @@ tags = ['lang=be', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2336 «[Беларускі](../be/prayers/#bpn2336)» 
+bpn2336 
 
 ----
 
@@ -73,7 +74,7 @@ bpn2336 «[Беларускі](../be/prayers/#bpn2336)»
 
 -- Bahá'u'lláh
 
-bpn2337 «[Беларускі](../be/prayers/#bpn2337)» 
+bpn2337 
 
 ----
 
@@ -87,7 +88,7 @@ bpn2337 «[Беларускі](../be/prayers/#bpn2337)»
 
 -- Abdu'l-Bahá
 
-bpn2339 «[Беларускі](../be/prayers/#bpn2339)» 
+bpn2339 
 
 ----
 
@@ -101,7 +102,7 @@ bpn2339 «[Беларускі](../be/prayers/#bpn2339)»
 
 -- Bahá'u'lláh
 
-bpn2335 «[Беларускі](../be/prayers/#bpn2335)» 
+bpn2335 
 
 ----
 
@@ -115,7 +116,7 @@ bpn2335 «[Беларускі](../be/prayers/#bpn2335)»
 
 -- Abdu'l-Bahá
 
-bpn2326 «[Беларускі](../be/prayers/#bpn2326)» 
+bpn2326 
 
 ----
 
@@ -129,7 +130,7 @@ bpn2326 «[Беларускі](../be/prayers/#bpn2326)»
 
 -- Báb
 
-bpn2338 «[Беларускі](../be/prayers/#bpn2338)» 
+bpn2338 
 
 ----
 
@@ -143,7 +144,7 @@ bpn2338 «[Беларускі](../be/prayers/#bpn2338)»
 
 -- Bahá'u'lláh
 
-bpn2329 «[Беларускі](../be/prayers/#bpn2329)» 
+bpn2329 
 
 ----
 
@@ -157,7 +158,7 @@ bpn2329 «[Беларускі](../be/prayers/#bpn2329)»
 
 -- Bahá'u'lláh
 
-bpn2334 «[Беларускі](../be/prayers/#bpn2334)» 
+bpn2334 
 
 ----
 
@@ -171,7 +172,7 @@ bpn2334 «[Беларускі](../be/prayers/#bpn2334)»
 
 -- Báb
 
-bpn2340 «[Беларускі](../be/prayers/#bpn2340)» 
+bpn2340 
 
 ----
 
@@ -185,7 +186,7 @@ bpn2340 «[Беларускі](../be/prayers/#bpn2340)»
 
 -- Abdu'l-Bahá
 
-bpn2341 «[Беларускі](../be/prayers/#bpn2341)» 
+bpn2341 
 
 ----
 
@@ -199,7 +200,7 @@ bpn2341 «[Беларускі](../be/prayers/#bpn2341)»
 
 -- Abdu'l-Bahá
 
-bpn2331 «[Беларускі](../be/prayers/#bpn2331)» 
+bpn2331 
 
 ----
 
@@ -213,7 +214,7 @@ bpn2331 «[Беларускі](../be/prayers/#bpn2331)»
 
 -- Abdu'l-Bahá
 
-bpn2333 «[Беларускі](../be/prayers/#bpn2333)» 
+bpn2333 
 
 ----
 
@@ -227,7 +228,7 @@ bpn2333 «[Беларускі](../be/prayers/#bpn2333)»
 
 -- Abdu'l-Bahá
 
-bpn2342 «[Беларускі](../be/prayers/#bpn2342)» 
+bpn2342 
 
 ----
 
@@ -241,7 +242,7 @@ bpn2342 «[Беларускі](../be/prayers/#bpn2342)»
 
 -- Bahá'u'lláh
 
-bpn2327 «[Беларускі](../be/prayers/#bpn2327)» 
+bpn2327 
 
 ----
 
@@ -255,7 +256,7 @@ bpn2327 «[Беларускі](../be/prayers/#bpn2327)»
 
 -- Abdu'l-Bahá
 
-bpn2346 «[Беларускі](../be/prayers/#bpn2346)» 
+bpn2346 
 
 ----
 
@@ -269,7 +270,7 @@ bpn2346 «[Беларускі](../be/prayers/#bpn2346)»
 
 -- Abdu'l-Bahá
 
-bpn2330 «[Беларускі](../be/prayers/#bpn2330)» 
+bpn2330 
 
 ----
 
@@ -283,7 +284,7 @@ bpn2330 «[Беларускі](../be/prayers/#bpn2330)»
 
 -- Abdu'l-Bahá
 
-bpn2332 «[Беларускі](../be/prayers/#bpn2332)» 
+bpn2332 
 
 ----
 
@@ -297,7 +298,7 @@ bpn2332 «[Беларускі](../be/prayers/#bpn2332)»
 
 -- Abdu'l-Bahá
 
-bpn2345 «[Беларускі](../be/prayers/#bpn2345)» 
+bpn2345 
 
 ----
 
@@ -311,7 +312,7 @@ bpn2345 «[Беларускі](../be/prayers/#bpn2345)»
 
 -- Bahá'u'lláh
 
-bpn2347 «[Беларускі](../be/prayers/#bpn2347)» 
+bpn2347 
 
 ----
 
@@ -325,7 +326,7 @@ bpn2347 «[Беларускі](../be/prayers/#bpn2347)»
 
 -- Bahá'u'lláh
 
-bpn2328 «[Беларускі](../be/prayers/#bpn2328)» 
+bpn2328 
 
 ----
 
@@ -339,7 +340,7 @@ bpn2328 «[Беларускі](../be/prayers/#bpn2328)»
 
 -- Bahá'u'lláh
 
-bpn2343 «[Беларускі](../be/prayers/#bpn2343)» 
+bpn2343 
 
 ----
 
@@ -353,7 +354,7 @@ bpn2343 «[Беларускі](../be/prayers/#bpn2343)»
 
 -- Abdu'l-Bahá
 
-bpn2344 «[Беларускі](../be/prayers/#bpn2344)» 
+bpn2344 
 
 ----
 

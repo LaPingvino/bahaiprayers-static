@@ -5,6 +5,7 @@ tags = ['lang=fo', 'prayerbook']
 
 
 
+
 [Andligur vøkstur](#Andligur+v%C3%B8kstur)
 
 [Brúdleyp](#Br%C3%BAdleyp)
@@ -51,7 +52,7 @@ Skapa í mær eitt reint hjarta, O mín Gud, og endurnýggja eina friðfulla sam
 
 -- Bahá'u'lláh
 
-bpn13550 «[Føroyar](../fo/prayers/#bpn13550)» 
+bpn13550 
 
 ----
 
@@ -61,7 +62,7 @@ Eg bøni Teg, O Gud mín, við alla yvirjarðligu dýrd Navns Tíns, um at klæ�
 
 -- Bahá'u'lláh
 
-bpn13551 «[Føroyar](../fo/prayers/#bpn13551)» 
+bpn13551 
 
 ----
 
@@ -75,7 +76,7 @@ Vit fara, øll, vissuliga, at gera eftir Vilja Guds.
 
 -- Bahá'u'lláh
 
-bpn13568 «[Føroyar](../fo/prayers/#bpn13568)» 
+bpn13568 
 
 ----
 
@@ -85,7 +86,7 @@ Dýrd veri Tær, O Gud mín! Sanniliga, hesin tænari Tín og hendan tænastukvi
 
 -- Abdu'l-Bahá
 
-bpn13569 «[Føroyar](../fo/prayers/#bpn13569)» 
+bpn13569 
 
 ----
 
@@ -99,7 +100,7 @@ O mín Gud! O mín Gud! Sameina hjørtuni hjá tænarum Tínum og opinbera fyri 
 
 -- Bahá'u'lláh
 
-bpn13548 «[Føroyar](../fo/prayers/#bpn13548)» 
+bpn13548 
 
 ----
 
@@ -113,7 +114,7 @@ O mín Gud! O mín Gud! Sanniliga, hesir tænarar venda sær til Tín, við inni
 
 -- Abdu'l-Bahá
 
-bpn13557 «[Føroyar](../fo/prayers/#bpn13557)» 
+bpn13557 
 
 ----
 
@@ -127,7 +128,7 @@ Eg eri vaknaður í skjóli Tínum, O mín Gud, og tað sømir seg honum ið lei
 
 -- Bahá'u'lláh
 
-bpn13562 «[Føroyar](../fo/prayers/#bpn13562)» 
+bpn13562 
 
 ----
 
@@ -137,7 +138,7 @@ O Gud, leið meg, verj meg, upplýs hjartalampu mína og ger meg til eina stála
 
 -- Abdu'l-Bahá
 
-bpn13563 «[Føroyar](../fo/prayers/#bpn13563)» 
+bpn13563 
 
 ----
 
@@ -147,7 +148,7 @@ O Harri mín! O Harri mín! Eg eri eitt barn av eymum árum. Gev mær føðslu �
 
 -- Abdu'l-Bahá
 
-bpn13564 «[Føroyar](../fo/prayers/#bpn13564)» 
+bpn13564 
 
 ----
 
@@ -157,7 +158,7 @@ O Gud! Gev hesum børnum lærdóm. Hesi børn eru plantur aldingarðs Tíns, bl�
 
 -- Abdu'l-Bahá
 
-bpn13565 «[Føroyar](../fo/prayers/#bpn13565)» 
+bpn13565 
 
 ----
 
@@ -167,7 +168,7 @@ O Gud! Al upp hetta lítla pinkubarn í føvningi kærleiks Tíns, og gev tí mj
 
 -- Abdu'l-Bahá
 
-bpn13566 «[Føroyar](../fo/prayers/#bpn13566)» 
+bpn13566 
 
 ----
 
@@ -177,7 +178,7 @@ Ger stig okkara føst, O Harri, á gøtu Tíni og styrk Tú hjørtu okkara í l�
 
 -- Abdu'l-Bahá
 
-bpn13567 «[Føroyar](../fo/prayers/#bpn13567)» 
+bpn13567 
 
 ----
 
@@ -191,7 +192,7 @@ O Gud mín! O Tú syndanna fyrigevari, veitari av gávum! Burturbeinari av tvør
 
 -- Abdu'l-Bahá
 
-bpn13558 «[Føroyar](../fo/prayers/#bpn13558)» 
+bpn13558 
 
 ----
 
@@ -205,7 +206,7 @@ O Harri! Ger hendan ungdóm strálandi, og veit hesum neyðars skapningi Títt g
 
 -- Abdu'l-Bahá
 
-bpn13561 «[Føroyar](../fo/prayers/#bpn13561)» 
+bpn13561 
 
 ----
 
@@ -219,7 +220,7 @@ Navn Títt er mín grøðing, O mín Gud, og at minnast til Tín er mín heiliv�
 
 -- Bahá'u'lláh
 
-bpn13552 «[Føroyar](../fo/prayers/#bpn13552)» 
+bpn13552 
 
 ----
 
@@ -233,7 +234,7 @@ O Tú Hvørs andlit er mið mínar dýrmetingar, Hvørs fagurleiki er mítt halg
 
 -- Bahá'u'lláh
 
-bpn13553 «[Føroyar](../fo/prayers/#bpn13553)» 
+bpn13553 
 
 ----
 
@@ -243,7 +244,7 @@ O Harri mín! Ger fagurleika Tín til føði mína, og nærveru Tína drykk mín
 
 -- Bahá'u'lláh
 
-bpn13554 «[Føroyar](../fo/prayers/#bpn13554)» 
+bpn13554 
 
 ----
 
@@ -257,7 +258,7 @@ O Gud, mín Gud! Hjálp Tú Tínum tiltrúnu tænarum at hava kærleiksfull og e
 
 -- Abdu'l-Bahá
 
-bpn13556 «[Føroyar](../fo/prayers/#bpn13556)» 
+bpn13556 
 
 ----
 
@@ -271,7 +272,7 @@ bpn13556 «[Føroyar](../fo/prayers/#bpn13556)»
 
 -- Bahá'u'lláh
 
-bpn13560 «[Føroyar](../fo/prayers/#bpn13560)» 
+bpn13560 
 
 ----
 
@@ -285,7 +286,7 @@ Eg bøni Teg, O Gud mín, við Títt mest upphevjaða Orð ið Tú hevur fyriskr
 
 -- Bahá'u'lláh
 
-bpn13549 «[Føroyar](../fo/prayers/#bpn13549)» 
+bpn13549 
 
 ----
 
@@ -299,7 +300,7 @@ bpn13549 «[Føroyar](../fo/prayers/#bpn13549)»
 
 -- Bahá'u'lláh
 
-bpn13571 «[Føroyar](../fo/prayers/#bpn13571)» 
+bpn13571 
 
 ----
 
@@ -313,7 +314,7 @@ Eg bøni Teg við veldi Títt, O mín Gud! Lat ongan skaða falla á meg í tí�
 
 -- Báb
 
-bpn13547 «[Føroyar](../fo/prayers/#bpn13547)» 
+bpn13547 
 
 ----
 
@@ -323,7 +324,7 @@ Er nakar Loysari trupulleika uttan Gud? Sig: Lovaður veri Gud! Hann er Gud! Øl
 
 -- Báb
 
-bpn13546 «[Føroyar](../fo/prayers/#bpn13546)» 
+bpn13546 
 
 ----
 
@@ -337,7 +338,7 @@ bpn13546 «[Føroyar](../fo/prayers/#bpn13546)»
 
 -- Bahá'u'lláh
 
-bpn13545 «[Føroyar](../fo/prayers/#bpn13545)» 
+bpn13545 
 
 ----
 
@@ -351,7 +352,7 @@ Hann er Kongurin, hin Alvitandi, hin Vísi.Hoyr, Náttargali Paradísins syngur 
 
 -- Bahá'u'lláh
 
-bpn13570 «[Føroyar](../fo/prayers/#bpn13570)» 
+bpn13570 
 
 ----
 
@@ -365,7 +366,7 @@ Dýrd veri Tær, Sum hevur fingið øll tey Heiløgu at játta sítt hjálparloy
 
 -- Bahá'u'lláh
 
-bpn13555 «[Føroyar](../fo/prayers/#bpn13555)» 
+bpn13555 
 
 ----
 
@@ -379,7 +380,7 @@ O Gud, mín Gud! Eg vitni um eind Tína og um einleika Tín. Eg bøni Teg, O Tú
 
 -- Bahá'u'lláh
 
-bpn13559 «[Føroyar](../fo/prayers/#bpn13559)» 
+bpn13559 
 
 ----
 

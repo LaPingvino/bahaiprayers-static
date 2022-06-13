@@ -5,6 +5,7 @@ tags = ['lang=ar', 'prayerbook']
 
 
 
+
 [أدعية الصّيام](#%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9+%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%A7%D9%85)
 
 [أدعية لطلب المغفرة للمتوفّين](#%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9+%D9%84%D8%B7%D9%84%D8%A8+%D8%A7%D9%84%D9%85%D8%BA%D9%81%D8%B1%D8%A9+%D9%84%D9%84%D9%85%D8%AA%D9%88%D9%81%D9%91%D9%8A%D9%86)
@@ -105,7 +106,7 @@ tags = ['lang=ar', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6368 «[العربية](../ar/prayers/#bpn6368)» 
+bpn6368 
 
 ----
 
@@ -115,7 +116,7 @@ bpn6368 «[العربية](../ar/prayers/#bpn6368)»
 
 -- Bahá'u'lláh
 
-bpn9946 «[العربية](../ar/prayers/#bpn9946)» 
+bpn9946 
 
 ----
 
@@ -125,7 +126,7 @@ bpn9946 «[العربية](../ar/prayers/#bpn9946)»
 
 -- Bahá'u'lláh
 
-bpn9947 «[العربية](../ar/prayers/#bpn9947)» 
+bpn9947 
 
 ----
 
@@ -135,7 +136,7 @@ bpn9947 «[العربية](../ar/prayers/#bpn9947)»
 
 -- Bahá'u'lláh
 
-bpn9948 «[العربية](../ar/prayers/#bpn9948)» 
+bpn9948 
 
 ----
 
@@ -145,7 +146,7 @@ bpn9948 «[العربية](../ar/prayers/#bpn9948)»
 
 -- Bahá'u'lláh
 
-bpn9949 «[العربية](../ar/prayers/#bpn9949)» 
+bpn9949 
 
 ----
 
@@ -155,7 +156,7 @@ bpn9949 «[العربية](../ar/prayers/#bpn9949)»
 
 -- Bahá'u'lláh
 
-bpn9950 «[العربية](../ar/prayers/#bpn9950)» 
+bpn9950 
 
 ----
 
@@ -165,7 +166,7 @@ bpn9950 «[العربية](../ar/prayers/#bpn9950)»
 
 -- Bahá'u'lláh
 
-bpn9951 «[العربية](../ar/prayers/#bpn9951)» 
+bpn9951 
 
 ----
 
@@ -175,7 +176,7 @@ bpn9951 «[العربية](../ar/prayers/#bpn9951)»
 
 -- Bahá'u'lláh
 
-bpn9952 «[العربية](../ar/prayers/#bpn9952)» 
+bpn9952 
 
 ----
 
@@ -185,7 +186,7 @@ bpn9952 «[العربية](../ar/prayers/#bpn9952)»
 
 -- Bahá'u'lláh
 
-bpn9953 «[العربية](../ar/prayers/#bpn9953)» 
+bpn9953 
 
 ----
 
@@ -195,7 +196,7 @@ bpn9953 «[العربية](../ar/prayers/#bpn9953)»
 
 -- Bahá'u'lláh
 
-bpn9954 «[العربية](../ar/prayers/#bpn9954)» 
+bpn9954 
 
 ----
 
@@ -205,7 +206,7 @@ bpn9954 «[العربية](../ar/prayers/#bpn9954)»
 
 -- Bahá'u'lláh
 
-bpn9955 «[العربية](../ar/prayers/#bpn9955)» 
+bpn9955 
 
 ----
 
@@ -215,7 +216,7 @@ bpn9955 «[العربية](../ar/prayers/#bpn9955)»
 
 -- Bahá'u'lláh
 
-bpn9956 «[العربية](../ar/prayers/#bpn9956)» 
+bpn9956 
 
 ----
 
@@ -225,7 +226,7 @@ bpn9956 «[العربية](../ar/prayers/#bpn9956)»
 
 -- Bahá'u'lláh
 
-bpn9957 «[العربية](../ar/prayers/#bpn9957)» 
+bpn9957 
 
 ----
 
@@ -239,7 +240,7 @@ bpn9957 «[العربية](../ar/prayers/#bpn9957)»
 
 -- Bahá'u'lláh
 
-bpn8757 «[العربية](../ar/prayers/#bpn8757)» 
+bpn8757 
 
 ----
 
@@ -249,7 +250,7 @@ bpn8757 «[العربية](../ar/prayers/#bpn8757)»
 
 -- Bahá'u'lláh
 
-bpn8758 «[العربية](../ar/prayers/#bpn8758)» 
+bpn8758 
 
 ----
 
@@ -259,7 +260,7 @@ bpn8758 «[العربية](../ar/prayers/#bpn8758)»
 
 -- Bahá'u'lláh
 
-bpn8759 «[العربية](../ar/prayers/#bpn8759)» 
+bpn8759 
 
 ----
 
@@ -269,7 +270,7 @@ bpn8759 «[العربية](../ar/prayers/#bpn8759)»
 
 -- Abdu'l-Bahá
 
-bpn8760 «[العربية](../ar/prayers/#bpn8760)» 
+bpn8760 
 
 ----
 
@@ -279,7 +280,7 @@ bpn8760 «[العربية](../ar/prayers/#bpn8760)»
 
 -- Abdu'l-Bahá
 
-bpn8761 «[العربية](../ar/prayers/#bpn8761)» 
+bpn8761 
 
 ----
 
@@ -289,7 +290,7 @@ bpn8761 «[العربية](../ar/prayers/#bpn8761)»
 
 -- Abdu'l-Bahá
 
-bpn8762 «[العربية](../ar/prayers/#bpn8762)» 
+bpn8762 
 
 ----
 
@@ -299,7 +300,7 @@ bpn8762 «[العربية](../ar/prayers/#bpn8762)»
 
 -- Abdu'l-Bahá
 
-bpn8763 «[العربية](../ar/prayers/#bpn8763)» 
+bpn8763 
 
 ----
 
@@ -309,7 +310,7 @@ bpn8763 «[العربية](../ar/prayers/#bpn8763)»
 
 -- Abdu'l-Bahá
 
-bpn8764 «[العربية](../ar/prayers/#bpn8764)» 
+bpn8764 
 
 ----
 
@@ -319,7 +320,7 @@ bpn8764 «[العربية](../ar/prayers/#bpn8764)»
 
 -- Abdu'l-Bahá
 
-bpn8765 «[العربية](../ar/prayers/#bpn8765)» 
+bpn8765 
 
 ----
 
@@ -329,7 +330,7 @@ bpn8765 «[العربية](../ar/prayers/#bpn8765)»
 
 -- Abdu'l-Bahá
 
-bpn8766 «[العربية](../ar/prayers/#bpn8766)» 
+bpn8766 
 
 ----
 
@@ -339,7 +340,7 @@ bpn8766 «[العربية](../ar/prayers/#bpn8766)»
 
 -- Abdu'l-Bahá
 
-bpn8767 «[العربية](../ar/prayers/#bpn8767)» 
+bpn8767 
 
 ----
 
@@ -349,7 +350,7 @@ bpn8767 «[العربية](../ar/prayers/#bpn8767)»
 
 -- Abdu'l-Bahá
 
-bpn8768 «[العربية](../ar/prayers/#bpn8768)» 
+bpn8768 
 
 ----
 
@@ -359,7 +360,7 @@ bpn8768 «[العربية](../ar/prayers/#bpn8768)»
 
 -- Abdu'l-Bahá
 
-bpn8769 «[العربية](../ar/prayers/#bpn8769)» 
+bpn8769 
 
 ----
 
@@ -369,7 +370,7 @@ bpn8769 «[العربية](../ar/prayers/#bpn8769)»
 
 -- Abdu'l-Bahá
 
-bpn8770 «[العربية](../ar/prayers/#bpn8770)» 
+bpn8770 
 
 ----
 
@@ -383,7 +384,7 @@ bpn8770 «[العربية](../ar/prayers/#bpn8770)»
 
 -- Bahá'u'lláh
 
-bpn9521 «[العربية](../ar/prayers/#bpn9521)» 
+bpn9521 
 
 ----
 
@@ -393,7 +394,7 @@ bpn9521 «[العربية](../ar/prayers/#bpn9521)»
 
 -- Bahá'u'lláh
 
-bpn9522 «[العربية](../ar/prayers/#bpn9522)» 
+bpn9522 
 
 ----
 
@@ -403,7 +404,7 @@ bpn9522 «[العربية](../ar/prayers/#bpn9522)»
 
 -- Bahá'u'lláh
 
-bpn9523 «[العربية](../ar/prayers/#bpn9523)» 
+bpn9523 
 
 ----
 
@@ -417,7 +418,7 @@ bpn9523 «[العربية](../ar/prayers/#bpn9523)»
 
 -- Abdu'l-Bahá
 
-bpn6370 «[العربية](../ar/prayers/#bpn6370)» 
+bpn6370 
 
 ----
 
@@ -427,7 +428,7 @@ bpn6370 «[العربية](../ar/prayers/#bpn6370)»
 
 -- Abdu'l-Bahá
 
-bpn6444 «[العربية](../ar/prayers/#bpn6444)» 
+bpn6444 
 
 ----
 
@@ -437,7 +438,7 @@ bpn6444 «[العربية](../ar/prayers/#bpn6444)»
 
 -- Abdu'l-Bahá
 
-bpn6445 «[العربية](../ar/prayers/#bpn6445)» 
+bpn6445 
 
 ----
 
@@ -447,7 +448,7 @@ bpn6445 «[العربية](../ar/prayers/#bpn6445)»
 
 -- Abdu'l-Bahá
 
-bpn6446 «[العربية](../ar/prayers/#bpn6446)» 
+bpn6446 
 
 ----
 
@@ -457,7 +458,7 @@ bpn6446 «[العربية](../ar/prayers/#bpn6446)»
 
 -- Abdu'l-Bahá
 
-bpn6448 «[العربية](../ar/prayers/#bpn6448)» 
+bpn6448 
 
 ----
 
@@ -467,7 +468,7 @@ bpn6448 «[العربية](../ar/prayers/#bpn6448)»
 
 -- Abdu'l-Bahá
 
-bpn6369 «[العربية](../ar/prayers/#bpn6369)» 
+bpn6369 
 
 ----
 
@@ -477,7 +478,7 @@ bpn6369 «[العربية](../ar/prayers/#bpn6369)»
 
 -- Abdu'l-Bahá
 
-bpn6447 «[العربية](../ar/prayers/#bpn6447)» 
+bpn6447 
 
 ----
 
@@ -491,7 +492,7 @@ bpn6447 «[العربية](../ar/prayers/#bpn6447)»
 
 -- Bahá'u'lláh
 
-bpn9405 «[العربية](../ar/prayers/#bpn9405)» 
+bpn9405 
 
 ----
 
@@ -505,7 +506,7 @@ bpn9405 «[العربية](../ar/prayers/#bpn9405)»
 
 -- Bahá'u'lláh
 
-bpn3266 «[العربية](../ar/prayers/#bpn3266)» 
+bpn3266 
 
 ----
 
@@ -515,7 +516,7 @@ bpn3266 «[العربية](../ar/prayers/#bpn3266)»
 
 -- Bahá'u'lláh
 
-bpn3267 «[العربية](../ar/prayers/#bpn3267)» 
+bpn3267 
 
 ----
 
@@ -529,7 +530,7 @@ bpn3267 «[العربية](../ar/prayers/#bpn3267)»
 
 -- Abdu'l-Bahá
 
-bpn2649 «[العربية](../ar/prayers/#bpn2649)» 
+bpn2649 
 
 ----
 
@@ -539,7 +540,7 @@ bpn2649 «[العربية](../ar/prayers/#bpn2649)»
 
 -- Abdu'l-Bahá
 
-bpn2650 «[العربية](../ar/prayers/#bpn2650)» 
+bpn2650 
 
 ----
 
@@ -549,7 +550,7 @@ bpn2650 «[العربية](../ar/prayers/#bpn2650)»
 
 -- Abdu'l-Bahá
 
-bpn3296 «[العربية](../ar/prayers/#bpn3296)» 
+bpn3296 
 
 ----
 
@@ -563,7 +564,7 @@ bpn3296 «[العربية](../ar/prayers/#bpn3296)»
 
 -- Bahá'u'lláh
 
-bpn3259 «[العربية](../ar/prayers/#bpn3259)» 
+bpn3259 
 
 ----
 
@@ -573,7 +574,7 @@ bpn3259 «[العربية](../ar/prayers/#bpn3259)»
 
 -- Bahá'u'lláh
 
-bpn3268 «[العربية](../ar/prayers/#bpn3268)» 
+bpn3268 
 
 ----
 
@@ -583,7 +584,7 @@ bpn3268 «[العربية](../ar/prayers/#bpn3268)»
 
 -- Bahá'u'lláh
 
-bpn2648 «[العربية](../ar/prayers/#bpn2648)» 
+bpn2648 
 
 ----
 
@@ -593,7 +594,7 @@ bpn2648 «[العربية](../ar/prayers/#bpn2648)»
 
 -- Bahá'u'lláh
 
-bpn3264 «[العربية](../ar/prayers/#bpn3264)» 
+bpn3264 
 
 ----
 
@@ -603,7 +604,7 @@ bpn3264 «[العربية](../ar/prayers/#bpn3264)»
 
 -- Bahá'u'lláh
 
-bpn3258 «[العربية](../ar/prayers/#bpn3258)» 
+bpn3258 
 
 ----
 
@@ -613,7 +614,7 @@ bpn3258 «[العربية](../ar/prayers/#bpn3258)»
 
 -- Báb
 
-bpn3001 «[العربية](../ar/prayers/#bpn3001)» 
+bpn3001 
 
 ----
 
@@ -623,7 +624,7 @@ bpn3001 «[العربية](../ar/prayers/#bpn3001)»
 
 -- Báb
 
-bpn2921 «[العربية](../ar/prayers/#bpn2921)» 
+bpn2921 
 
 ----
 
@@ -633,7 +634,7 @@ bpn2921 «[العربية](../ar/prayers/#bpn2921)»
 
 -- Báb
 
-bpn3011 «[العربية](../ar/prayers/#bpn3011)» 
+bpn3011 
 
 ----
 
@@ -643,7 +644,7 @@ bpn3011 «[العربية](../ar/prayers/#bpn3011)»
 
 -- Abdu'l-Bahá
 
-bpn3298 «[العربية](../ar/prayers/#bpn3298)» 
+bpn3298 
 
 ----
 
@@ -653,7 +654,7 @@ bpn3298 «[العربية](../ar/prayers/#bpn3298)»
 
 -- Abdu'l-Bahá
 
-bpn3286 «[العربية](../ar/prayers/#bpn3286)» 
+bpn3286 
 
 ----
 
@@ -667,7 +668,7 @@ bpn3286 «[العربية](../ar/prayers/#bpn3286)»
 
 -- Bahá'u'lláh
 
-bpn3254 «[العربية](../ar/prayers/#bpn3254)» 
+bpn3254 
 
 ----
 
@@ -677,7 +678,7 @@ bpn3254 «[العربية](../ar/prayers/#bpn3254)»
 
 -- Bahá'u'lláh
 
-bpn7936 «[العربية](../ar/prayers/#bpn7936)» 
+bpn7936 
 
 ----
 
@@ -687,7 +688,7 @@ bpn7936 «[العربية](../ar/prayers/#bpn7936)»
 
 -- Bahá'u'lláh
 
-bpn7937 «[العربية](../ar/prayers/#bpn7937)» 
+bpn7937 
 
 ----
 
@@ -697,7 +698,7 @@ bpn7937 «[العربية](../ar/prayers/#bpn7937)»
 
 -- Bahá'u'lláh
 
-bpn7938 «[العربية](../ar/prayers/#bpn7938)» 
+bpn7938 
 
 ----
 
@@ -707,7 +708,7 @@ bpn7938 «[العربية](../ar/prayers/#bpn7938)»
 
 -- Bahá'u'lláh
 
-bpn7939 «[العربية](../ar/prayers/#bpn7939)» 
+bpn7939 
 
 ----
 
@@ -717,7 +718,7 @@ bpn7939 «[العربية](../ar/prayers/#bpn7939)»
 
 -- Abdu'l-Bahá
 
-bpn3290 «[العربية](../ar/prayers/#bpn3290)» 
+bpn3290 
 
 ----
 
@@ -727,7 +728,7 @@ bpn3290 «[العربية](../ar/prayers/#bpn3290)»
 
 -- Abdu'l-Bahá
 
-bpn3291 «[العربية](../ar/prayers/#bpn3291)» 
+bpn3291 
 
 ----
 
@@ -741,7 +742,7 @@ bpn3291 «[العربية](../ar/prayers/#bpn3291)»
 
 -- Bahá'u'lláh
 
-bpn3260 «[العربية](../ar/prayers/#bpn3260)» 
+bpn3260 
 
 ----
 
@@ -751,7 +752,7 @@ bpn3260 «[العربية](../ar/prayers/#bpn3260)»
 
 -- Bahá'u'lláh
 
-bpn3261 «[العربية](../ar/prayers/#bpn3261)» 
+bpn3261 
 
 ----
 
@@ -761,7 +762,7 @@ bpn3261 «[العربية](../ar/prayers/#bpn3261)»
 
 -- Abdu'l-Bahá
 
-bpn3284 «[العربية](../ar/prayers/#bpn3284)» 
+bpn3284 
 
 ----
 
@@ -775,7 +776,7 @@ bpn3284 «[العربية](../ar/prayers/#bpn3284)»
 
 -- Abdu'l-Bahá
 
-bpn3283 «[العربية](../ar/prayers/#bpn3283)» 
+bpn3283 
 
 ----
 
@@ -785,7 +786,7 @@ bpn3283 «[العربية](../ar/prayers/#bpn3283)»
 
 -- Abdu'l-Bahá
 
-bpn3293 «[العربية](../ar/prayers/#bpn3293)» 
+bpn3293 
 
 ----
 
@@ -795,7 +796,7 @@ bpn3293 «[العربية](../ar/prayers/#bpn3293)»
 
 -- Abdu'l-Bahá
 
-bpn3294 «[العربية](../ar/prayers/#bpn3294)» 
+bpn3294 
 
 ----
 
@@ -805,7 +806,7 @@ bpn3294 «[العربية](../ar/prayers/#bpn3294)»
 
 -- Abdu'l-Bahá
 
-bpn3295 «[العربية](../ar/prayers/#bpn3295)» 
+bpn3295 
 
 ----
 
@@ -819,7 +820,7 @@ bpn3295 «[العربية](../ar/prayers/#bpn3295)»
 
 -- Bahá'u'lláh
 
-bpn3250 «[العربية](../ar/prayers/#bpn3250)» 
+bpn3250 
 
 ----
 
@@ -829,7 +830,7 @@ bpn3250 «[العربية](../ar/prayers/#bpn3250)»
 
 -- Bahá'u'lláh
 
-bpn3256 «[العربية](../ar/prayers/#bpn3256)» 
+bpn3256 
 
 ----
 
@@ -839,7 +840,7 @@ bpn3256 «[العربية](../ar/prayers/#bpn3256)»
 
 -- Bahá'u'lláh
 
-bpn2944 «[العربية](../ar/prayers/#bpn2944)» 
+bpn2944 
 
 ----
 
@@ -849,7 +850,7 @@ bpn2944 «[العربية](../ar/prayers/#bpn2944)»
 
 -- Bahá'u'lláh
 
-bpn2603 «[العربية](../ar/prayers/#bpn2603)» 
+bpn2603 
 
 ----
 
@@ -859,7 +860,7 @@ bpn2603 «[العربية](../ar/prayers/#bpn2603)»
 
 -- Báb
 
-bpn2942 «[العربية](../ar/prayers/#bpn2942)» 
+bpn2942 
 
 ----
 
@@ -873,7 +874,7 @@ bpn2942 «[العربية](../ar/prayers/#bpn2942)»
 
 -- Abdu'l-Bahá
 
-bpn3289 «[العربية](../ar/prayers/#bpn3289)» 
+bpn3289 
 
 ----
 
@@ -883,7 +884,7 @@ bpn3289 «[العربية](../ar/prayers/#bpn3289)»
 
 -- Abdu'l-Bahá
 
-bpn2652 «[العربية](../ar/prayers/#bpn2652)» 
+bpn2652 
 
 ----
 
@@ -893,7 +894,7 @@ bpn2652 «[العربية](../ar/prayers/#bpn2652)»
 
 -- Abdu'l-Bahá
 
-bpn3287 «[العربية](../ar/prayers/#bpn3287)» 
+bpn3287 
 
 ----
 
@@ -907,7 +908,7 @@ bpn3287 «[العربية](../ar/prayers/#bpn3287)»
 
 -- Bahá'u'lláh
 
-bpn3255 «[العربية](../ar/prayers/#bpn3255)» 
+bpn3255 
 
 ----
 
@@ -917,7 +918,7 @@ bpn3255 «[العربية](../ar/prayers/#bpn3255)»
 
 -- Bahá'u'lláh
 
-bpn2606 «[العربية](../ar/prayers/#bpn2606)» 
+bpn2606 
 
 ----
 
@@ -927,7 +928,7 @@ bpn2606 «[العربية](../ar/prayers/#bpn2606)»
 
 -- Báb
 
-bpn2936 «[العربية](../ar/prayers/#bpn2936)» 
+bpn2936 
 
 ----
 
@@ -941,7 +942,7 @@ bpn2936 «[العربية](../ar/prayers/#bpn2936)»
 
 -- Bahá'u'lláh
 
-bpn3252 «[العربية](../ar/prayers/#bpn3252)» 
+bpn3252 
 
 ----
 
@@ -951,7 +952,7 @@ bpn3252 «[العربية](../ar/prayers/#bpn3252)»
 
 -- Bahá'u'lláh
 
-bpn3253 «[العربية](../ar/prayers/#bpn3253)» 
+bpn3253 
 
 ----
 
@@ -961,7 +962,7 @@ bpn3253 «[العربية](../ar/prayers/#bpn3253)»
 
 -- Bahá'u'lláh
 
-bpn2647 «[العربية](../ar/prayers/#bpn2647)» 
+bpn2647 
 
 ----
 
@@ -975,7 +976,7 @@ bpn2647 «[العربية](../ar/prayers/#bpn2647)»
 
 -- Abdu'l-Bahá
 
-bpn2644 «[العربية](../ar/prayers/#bpn2644)» 
+bpn2644 
 
 ----
 
@@ -989,7 +990,7 @@ bpn2644 «[العربية](../ar/prayers/#bpn2644)»
 
 -- Bahá'u'lláh
 
-bpn5327 «[العربية](../ar/prayers/#bpn5327)» 
+bpn5327 
 
 ----
 
@@ -999,7 +1000,7 @@ bpn5327 «[العربية](../ar/prayers/#bpn5327)»
 
 -- Bahá'u'lláh
 
-bpn5328 «[العربية](../ar/prayers/#bpn5328)» 
+bpn5328 
 
 ----
 
@@ -1009,7 +1010,7 @@ bpn5328 «[العربية](../ar/prayers/#bpn5328)»
 
 -- Bahá'u'lláh
 
-bpn5329 «[العربية](../ar/prayers/#bpn5329)» 
+bpn5329 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn5329 «[العربية](../ar/prayers/#bpn5329)»
 
 -- Bahá'u'lláh
 
-bpn2605 «[العربية](../ar/prayers/#bpn2605)» 
+bpn2605 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn2605 «[العربية](../ar/prayers/#bpn2605)»
 
 -- Bahá'u'lláh
 
-bpn2601 «[العربية](../ar/prayers/#bpn2601)» 
+bpn2601 
 
 ----
 
@@ -1043,7 +1044,7 @@ bpn2601 «[العربية](../ar/prayers/#bpn2601)»
 
 -- Bahá'u'lláh
 
-bpn3248 «[العربية](../ar/prayers/#bpn3248)» 
+bpn3248 
 
 ----
 
@@ -1057,7 +1058,7 @@ bpn3248 «[العربية](../ar/prayers/#bpn3248)»
 
 -- Bahá'u'lláh
 
-bpn3249 «[العربية](../ar/prayers/#bpn3249)» 
+bpn3249 
 
 ----
 
@@ -1071,7 +1072,7 @@ bpn3249 «[العربية](../ar/prayers/#bpn3249)»
 
 -- Bahá'u'lláh
 
-bpn3262 «[العربية](../ar/prayers/#bpn3262)» 
+bpn3262 
 
 ----
 
@@ -1081,7 +1082,7 @@ bpn3262 «[العربية](../ar/prayers/#bpn3262)»
 
 -- Bahá'u'lláh
 
-bpn3265 «[العربية](../ar/prayers/#bpn3265)» 
+bpn3265 
 
 ----
 
@@ -1091,7 +1092,7 @@ bpn3265 «[العربية](../ar/prayers/#bpn3265)»
 
 -- Bahá'u'lláh
 
-bpn3263 «[العربية](../ar/prayers/#bpn3263)» 
+bpn3263 
 
 ----
 
@@ -1101,7 +1102,7 @@ bpn3263 «[العربية](../ar/prayers/#bpn3263)»
 
 -- Abdu'l-Bahá
 
-bpn3292 «[العربية](../ar/prayers/#bpn3292)» 
+bpn3292 
 
 ----
 
@@ -1115,7 +1116,7 @@ bpn3292 «[العربية](../ar/prayers/#bpn3292)»
 
 -- Bahá'u'lláh
 
-bpn2602 «[العربية](../ar/prayers/#bpn2602)» 
+bpn2602 
 
 ----
 
@@ -1129,7 +1130,7 @@ bpn2602 «[العربية](../ar/prayers/#bpn2602)»
 
 -- Bahá'u'lláh
 
-bpn6478 «[العربية](../ar/prayers/#bpn6478)» 
+bpn6478 
 
 ----
 
@@ -1143,7 +1144,7 @@ bpn6478 «[العربية](../ar/prayers/#bpn6478)»
 
 -- Bahá'u'lláh
 
-bpn8771 «[العربية](../ar/prayers/#bpn8771)» 
+bpn8771 
 
 ----
 
@@ -1157,7 +1158,7 @@ bpn8771 «[العربية](../ar/prayers/#bpn8771)»
 
 -- Bahá'u'lláh
 
-bpn2962 «[العربية](../ar/prayers/#bpn2962)» 
+bpn2962 
 
 ----
 
@@ -1171,7 +1172,7 @@ bpn2962 «[العربية](../ar/prayers/#bpn2962)»
 
 -- Bahá'u'lláh
 
-bpn3270 «[العربية](../ar/prayers/#bpn3270)» 
+bpn3270 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn3270 «[العربية](../ar/prayers/#bpn3270)»
 
 -- Bahá'u'lláh
 
-bpn3247 «[العربية](../ar/prayers/#bpn3247)» 
+bpn3247 
 
 ----
 
@@ -1195,7 +1196,7 @@ bpn3247 «[العربية](../ar/prayers/#bpn3247)»
 
 -- Bahá'u'lláh
 
-bpn7940 «[العربية](../ar/prayers/#bpn7940)» 
+bpn7940 
 
 ----
 
@@ -1205,7 +1206,7 @@ bpn7940 «[العربية](../ar/prayers/#bpn7940)»
 
 -- Bahá'u'lláh
 
-bpn7941 «[العربية](../ar/prayers/#bpn7941)» 
+bpn7941 
 
 ----
 
@@ -1215,7 +1216,7 @@ bpn7941 «[العربية](../ar/prayers/#bpn7941)»
 
 -- Abdu'l-Bahá
 
-bpn3280 «[العربية](../ar/prayers/#bpn3280)» 
+bpn3280 
 
 ----
 
@@ -1225,7 +1226,7 @@ bpn3280 «[العربية](../ar/prayers/#bpn3280)»
 
 -- Abdu'l-Bahá
 
-bpn3281 «[العربية](../ar/prayers/#bpn3281)» 
+bpn3281 
 
 ----
 
@@ -1235,7 +1236,7 @@ bpn3281 «[العربية](../ar/prayers/#bpn3281)»
 
 -- Abdu'l-Bahá
 
-bpn2988 «[العربية](../ar/prayers/#bpn2988)» 
+bpn2988 
 
 ----
 
@@ -1249,7 +1250,7 @@ bpn2988 «[العربية](../ar/prayers/#bpn2988)»
 
 -- Bahá'u'lláh
 
-bpn9942 «[العربية](../ar/prayers/#bpn9942)» 
+bpn9942 
 
 ----
 
@@ -1259,7 +1260,7 @@ bpn9942 «[العربية](../ar/prayers/#bpn9942)»
 
 -- Bahá'u'lláh
 
-bpn9943 «[العربية](../ar/prayers/#bpn9943)» 
+bpn9943 
 
 ----
 
@@ -1269,7 +1270,7 @@ bpn9943 «[العربية](../ar/prayers/#bpn9943)»
 
 -- Bahá'u'lláh
 
-bpn9944 «[العربية](../ar/prayers/#bpn9944)» 
+bpn9944 
 
 ----
 
@@ -1279,7 +1280,7 @@ bpn9944 «[العربية](../ar/prayers/#bpn9944)»
 
 -- Bahá'u'lláh
 
-bpn9945 «[العربية](../ar/prayers/#bpn9945)» 
+bpn9945 
 
 ----
 
@@ -1293,7 +1294,7 @@ bpn9945 «[العربية](../ar/prayers/#bpn9945)»
 
 -- Bahá'u'lláh
 
-bpn3251 «[العربية](../ar/prayers/#bpn3251)» 
+bpn3251 
 
 ----
 
@@ -1307,7 +1308,7 @@ bpn3251 «[العربية](../ar/prayers/#bpn3251)»
 
 -- Abdu'l-Bahá
 
-bpn3297 «[العربية](../ar/prayers/#bpn3297)» 
+bpn3297 
 
 ----
 
@@ -1321,7 +1322,7 @@ bpn3297 «[العربية](../ar/prayers/#bpn3297)»
 
 -- Bahá'u'lláh
 
-bpn10180 «[العربية](../ar/prayers/#bpn10180)» 
+bpn10180 
 
 ----
 
@@ -1335,7 +1336,7 @@ bpn10180 «[العربية](../ar/prayers/#bpn10180)»
 
 -- Bahá'u'lláh
 
-bpn3257 «[العربية](../ar/prayers/#bpn3257)» 
+bpn3257 
 
 ----
 
@@ -1345,7 +1346,7 @@ bpn3257 «[العربية](../ar/prayers/#bpn3257)»
 
 -- Abdu'l-Bahá
 
-bpn2651 «[العربية](../ar/prayers/#bpn2651)» 
+bpn2651 
 
 ----
 
@@ -1355,7 +1356,7 @@ bpn2651 «[العربية](../ar/prayers/#bpn2651)»
 
 -- Abdu'l-Bahá
 
-bpn3282 «[العربية](../ar/prayers/#bpn3282)» 
+bpn3282 
 
 ----
 
@@ -1365,7 +1366,7 @@ bpn3282 «[العربية](../ar/prayers/#bpn3282)»
 
 -- Abdu'l-Bahá
 
-bpn3285 «[العربية](../ar/prayers/#bpn3285)» 
+bpn3285 
 
 ----
 
@@ -1375,7 +1376,7 @@ bpn3285 «[العربية](../ar/prayers/#bpn3285)»
 
 -- Abdu'l-Bahá
 
-bpn3288 «[العربية](../ar/prayers/#bpn3288)» 
+bpn3288 
 
 ----
 
@@ -1389,7 +1390,7 @@ bpn3288 «[العربية](../ar/prayers/#bpn3288)»
 
 -- Abdu'l-Bahá
 
-bpn3299 «[العربية](../ar/prayers/#bpn3299)» 
+bpn3299 
 
 ----
 
@@ -1403,7 +1404,7 @@ bpn3299 «[العربية](../ar/prayers/#bpn3299)»
 
 -- Bahá'u'lláh
 
-bpn3271 «[العربية](../ar/prayers/#bpn3271)» 
+bpn3271 
 
 ----
 
@@ -1417,7 +1418,7 @@ bpn3271 «[العربية](../ar/prayers/#bpn3271)»
 
 -- Bahá'u'lláh
 
-bpn3274 «[العربية](../ar/prayers/#bpn3274)» 
+bpn3274 
 
 ----
 
@@ -1431,7 +1432,7 @@ bpn3274 «[العربية](../ar/prayers/#bpn3274)»
 
 -- Bahá'u'lláh
 
-bpn3276 «[العربية](../ar/prayers/#bpn3276)» 
+bpn3276 
 
 ----
 
@@ -1445,7 +1446,7 @@ bpn3276 «[العربية](../ar/prayers/#bpn3276)»
 
 -- Bahá'u'lláh
 
-bpn2604 «[العربية](../ar/prayers/#bpn2604)» 
+bpn2604 
 
 ----
 
@@ -1459,7 +1460,7 @@ bpn2604 «[العربية](../ar/prayers/#bpn2604)»
 
 -- Bahá'u'lláh
 
-bpn3278 «[العربية](../ar/prayers/#bpn3278)» 
+bpn3278 
 
 ----
 
@@ -1473,7 +1474,7 @@ bpn3278 «[العربية](../ar/prayers/#bpn3278)»
 
 -- Bahá'u'lláh
 
-bpn2645 «[العربية](../ar/prayers/#bpn2645)» 
+bpn2645 
 
 ----
 
@@ -1487,7 +1488,7 @@ bpn2645 «[العربية](../ar/prayers/#bpn2645)»
 
 -- Bahá'u'lláh
 
-bpn3275 «[العربية](../ar/prayers/#bpn3275)» 
+bpn3275 
 
 ----
 
@@ -1501,7 +1502,7 @@ bpn3275 «[العربية](../ar/prayers/#bpn3275)»
 
 -- Abdu'l-Bahá
 
-bpn4968 «[العربية](../ar/prayers/#bpn4968)» 
+bpn4968 
 
 ----
 
@@ -1511,7 +1512,7 @@ bpn4968 «[العربية](../ar/prayers/#bpn4968)»
 
 -- Abdu'l-Bahá
 
-bpn4970 «[العربية](../ar/prayers/#bpn4970)» 
+bpn4970 
 
 ----
 
@@ -1521,7 +1522,7 @@ bpn4970 «[العربية](../ar/prayers/#bpn4970)»
 
 -- Abdu'l-Bahá
 
-bpn4971 «[العربية](../ar/prayers/#bpn4971)» 
+bpn4971 
 
 ----
 
@@ -1531,7 +1532,7 @@ bpn4971 «[العربية](../ar/prayers/#bpn4971)»
 
 -- Abdu'l-Bahá
 
-bpn4969 «[العربية](../ar/prayers/#bpn4969)» 
+bpn4969 
 
 ----
 
@@ -1541,7 +1542,7 @@ bpn4969 «[العربية](../ar/prayers/#bpn4969)»
 
 -- Abdu'l-Bahá
 
-bpn4973 «[العربية](../ar/prayers/#bpn4973)» 
+bpn4973 
 
 ----
 
@@ -1551,7 +1552,7 @@ bpn4973 «[العربية](../ar/prayers/#bpn4973)»
 
 -- Abdu'l-Bahá
 
-bpn4967 «[العربية](../ar/prayers/#bpn4967)» 
+bpn4967 
 
 ----
 
@@ -1561,7 +1562,7 @@ bpn4967 «[العربية](../ar/prayers/#bpn4967)»
 
 -- Abdu'l-Bahá
 
-bpn4972 «[العربية](../ar/prayers/#bpn4972)» 
+bpn4972 
 
 ----
 
@@ -1575,7 +1576,7 @@ bpn4972 «[العربية](../ar/prayers/#bpn4972)»
 
 -- Bahá'u'lláh
 
-bpn3272 «[العربية](../ar/prayers/#bpn3272)» 
+bpn3272 
 
 ----
 
@@ -1589,7 +1590,7 @@ bpn3272 «[العربية](../ar/prayers/#bpn3272)»
 
 -- Bahá'u'lláh
 
-bpn3273 «[العربية](../ar/prayers/#bpn3273)» 
+bpn3273 
 
 ----
 
@@ -1603,7 +1604,7 @@ bpn3273 «[العربية](../ar/prayers/#bpn3273)»
 
 -- Bahá'u'lláh
 
-bpn3269 «[العربية](../ar/prayers/#bpn3269)» 
+bpn3269 
 
 ----
 
@@ -1617,7 +1618,7 @@ bpn3269 «[العربية](../ar/prayers/#bpn3269)»
 
 -- Abdu'l-Bahá
 
-bpn3279 «[العربية](../ar/prayers/#bpn3279)» 
+bpn3279 
 
 ----
 
@@ -1631,7 +1632,7 @@ bpn3279 «[العربية](../ar/prayers/#bpn3279)»
 
 -- Abdu'l-Bahá
 
-bpn3300 «[العربية](../ar/prayers/#bpn3300)» 
+bpn3300 
 
 ----
 

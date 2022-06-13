@@ -5,6 +5,7 @@ tags = ['lang=vi', 'prayerbook']
 
 
 
+
 [An Ủi](#An+%E1%BB%A6i)
 
 [Buổi Sáng](#Bu%E1%BB%95i+S%C3%A1ng)
@@ -115,7 +116,7 @@ Lạy Thượng Đế! Xin Ngài làm cho tâm hồn con tươi mát, thảnh th
 
 -- Bahá'u'lláh
 
-bpn4977 «[Tiếng Việt](../vi/prayers/#bpn4977)» 
+bpn4977 
 
 ----
 
@@ -129,7 +130,7 @@ Lạy Thượng Đế của con, sáng nay nhờ ân phúc Ngài con thức dậ
 
 -- Bahá'u'lláh
 
-bpn4978 «[Tiếng Việt](../vi/prayers/#bpn4978)» 
+bpn4978 
 
 ----
 
@@ -139,7 +140,7 @@ Lạy Thượng Đế của con, con trở dậy trong sự phò trì của Ngà
 
 -- Bahá'u'lláh
 
-bpn4979 «[Tiếng Việt](../vi/prayers/#bpn4979)» 
+bpn4979 
 
 ----
 
@@ -149,7 +150,7 @@ Lạy Thượng Đế của con, con xin dâng lời cảm tạ vì Ngài đã t
 
 -- Bahá'u'lláh
 
-bpn4980 «[Tiếng Việt](../vi/prayers/#bpn4980)» 
+bpn4980 
 
 ----
 
@@ -159,7 +160,7 @@ Lạy Thượng Đế, Thượng Đế của con! Con rời khỏi nhà con, tro
 
 -- Bahá'u'lláh
 
-bpn4981 «[Tiếng Việt](../vi/prayers/#bpn4981)» 
+bpn4981 
 
 ----
 
@@ -169,7 +170,7 @@ Lạy Thượng Đế Đại Từ bi, con cảm tạ Ngài đã thức tỉnh co
 
 -- Abdu'l-Bahá
 
-bpn4982 «[Tiếng Việt](../vi/prayers/#bpn4982)» 
+bpn4982 
 
 ----
 
@@ -183,7 +184,7 @@ Lạy Thượng Đế của con, lạy Đấng Tôn sư của con, Ngài là Tô
 
 -- Bahá'u'lláh
 
-bpn4983 «[Tiếng Việt](../vi/prayers/#bpn4983)» 
+bpn4983 
 
 ----
 
@@ -193,7 +194,7 @@ Lạy Thượng Đế, Thượng Đế của con, làm sao con có thể an ngh�
 
 -- Bahá'u'lláh
 
-bpn4984 «[Tiếng Việt](../vi/prayers/#bpn4984)» 
+bpn4984 
 
 ----
 
@@ -207,7 +208,7 @@ Lạy Ngài là Đấng Thượng Đế của con! Xin giúp các con thương y
 
 -- Abdu'l-Bahá
 
-bpn4985 «[Tiếng Việt](../vi/prayers/#bpn4985)» 
+bpn4985 
 
 ----
 
@@ -221,7 +222,7 @@ Lạy Thượng Đế, Ngài thấy đôi tay khẩn cầu của chúng con vư�
 
 -- Bahá'u'lláh
 
-bpn4988 «[Tiếng Việt](../vi/prayers/#bpn4988)» 
+bpn4988 
 
 ----
 
@@ -231,7 +232,7 @@ Phước cho ai nhớ tới cha mẹ mình khi thông công với Thượng Đ�
 
 -- Báb
 
-bpn4987 «[Tiếng Việt](../vi/prayers/#bpn4987)» 
+bpn4987 
 
 ----
 
@@ -241,7 +242,7 @@ Lạy Thượng Đế! Trong Kỳ Cứu độ Tối đại này Ngài đã chấ
 
 -- Abdu'l-Bahá
 
-bpn4989 «[Tiếng Việt](../vi/prayers/#bpn4989)» 
+bpn4989 
 
 ----
 
@@ -255,7 +256,7 @@ Hãy tụng: Vinh quang thay, Ngài đã làm tất cả các vị thánh thú n
 
 -- Bahá'u'lláh
 
-bpn4990 «[Tiếng Việt](../vi/prayers/#bpn4990)» 
+bpn4990 
 
 ----
 
@@ -265,7 +266,7 @@ Lạy Thượng Đế của con, Đấng Thờ phượng của con, Đấng Vua 
 
 -- Bahá'u'lláh
 
-bpn4991 «[Tiếng Việt](../vi/prayers/#bpn4991)» 
+bpn4991 
 
 ----
 
@@ -275,7 +276,7 @@ Lạy Thượng Đế của con, tất cả những lời ca tụng xin dâng l�
 
 -- Bahá'u'lláh
 
-bpn4992 «[Tiếng Việt](../vi/prayers/#bpn4992)» 
+bpn4992 
 
 ----
 
@@ -285,7 +286,7 @@ Tất cả những lời ca ngợi xin dâng lên Ngài, lạy Ngài là Đấng
 
 -- Bahá'u'lláh
 
-bpn4993 «[Tiếng Việt](../vi/prayers/#bpn4993)» 
+bpn4993 
 
 ----
 
@@ -299,7 +300,7 @@ Lạy Thượng Đế của con, Danh Ngài là sự chữa bệnh cho con, sự
 
 -- Bahá'u'lláh
 
-bpn4994 «[Tiếng Việt](../vi/prayers/#bpn4994)» 
+bpn4994 
 
 ----
 
@@ -309,7 +310,7 @@ Lạy Thượng Đế, Thượng Đế của con! Con khẩn cầu Ngài, xin l�
 
 -- Bahá'u'lláh
 
-bpn4995 «[Tiếng Việt](../vi/prayers/#bpn4995)» 
+bpn4995 
 
 ----
 
@@ -319,7 +320,7 @@ Vinh quang thuộc về Ngài, lạy Ngài là Đấng Thượng Đế của con
 
 -- Bahá'u'lláh
 
-bpn4996 «[Tiếng Việt](../vi/prayers/#bpn4996)» 
+bpn4996 
 
 ----
 
@@ -329,7 +330,7 @@ bpn4996 «[Tiếng Việt](../vi/prayers/#bpn4996)»
 
 -- Bahá'u'lláh
 
-bpn4997 «[Tiếng Việt](../vi/prayers/#bpn4997)» 
+bpn4997 
 
 ----
 
@@ -343,7 +344,7 @@ Lạy Thượng Đế của con, lạy Đấng Thỉnh cầu của kẻ yếu h�
 
 -- Abdu'l-Bahá
 
-bpn4999 «[Tiếng Việt](../vi/prayers/#bpn4999)» 
+bpn4999 
 
 ----
 
@@ -357,7 +358,7 @@ Lạy Đấng Từ bi Chí tôn, Ngài đã tạo ra nhân loại cùng một b�
 
 -- Abdu'l-Bahá
 
-bpn4986 «[Tiếng Việt](../vi/prayers/#bpn4986)» 
+bpn4986 
 
 ----
 
@@ -371,7 +372,7 @@ Lạy Thượng Đế, Thiên nhan Ngài là đối tượng tôn thờ của co
 
 -- Bahá'u'lláh
 
-bpn5000 «[Tiếng Việt](../vi/prayers/#bpn5000)» 
+bpn5000 
 
 ----
 
@@ -381,7 +382,7 @@ Lạy Ngài là Đấng Thượng Đế của con! Bởi Đấng Tối Đại Da
 
 -- Bahá'u'lláh
 
-bpn5001 «[Tiếng Việt](../vi/prayers/#bpn5001)» 
+bpn5001 
 
 ----
 
@@ -391,7 +392,7 @@ Lạy Thượng Đế, Thánh nhan Ngài là Đối tượng tôn thờ của t�
 
 -- Bahá'u'lláh
 
-bpn5002 «[Tiếng Việt](../vi/prayers/#bpn5002)» 
+bpn5002 
 
 ----
 
@@ -405,7 +406,7 @@ bpn5002 «[Tiếng Việt](../vi/prayers/#bpn5002)»
 
 -- Bahá'u'lláh
 
-bpn4976 «[Tiếng Việt](../vi/prayers/#bpn4976)» 
+bpn4976 
 
 ----
 
@@ -419,7 +420,7 @@ bpn4976 «[Tiếng Việt](../vi/prayers/#bpn4976)»
 
 -- Bahá'u'lláh
 
-bpn4975 «[Tiếng Việt](../vi/prayers/#bpn4975)» 
+bpn4975 
 
 ----
 
@@ -433,7 +434,7 @@ bpn4975 «[Tiếng Việt](../vi/prayers/#bpn4975)»
 
 -- Bahá'u'lláh
 
-bpn5004 «[Tiếng Việt](../vi/prayers/#bpn5004)» 
+bpn5004 
 
 ----
 
@@ -447,7 +448,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin Ngài ban cho những tôi
 
 -- Abdu'l-Bahá
 
-bpn5003 «[Tiếng Việt](../vi/prayers/#bpn5003)» 
+bpn5003 
 
 ----
 
@@ -461,7 +462,7 @@ Lạy Ngài là Đấng Thượng Đế của con, Danh Ngài thật đáng ca n
 
 -- Bahá'u'lláh
 
-bpn5005 «[Tiếng Việt](../vi/prayers/#bpn5005)» 
+bpn5005 
 
 ----
 
@@ -475,7 +476,7 @@ bpn5005 «[Tiếng Việt](../vi/prayers/#bpn5005)»
 
 -- Abdu'l-Bahá
 
-bpn5012 «[Tiếng Việt](../vi/prayers/#bpn5012)» 
+bpn5012 
 
 ----
 
@@ -489,7 +490,7 @@ Lạy Thượng Đế! Con hướng về Ngài để tìm nơi trú ẩn và con
 
 -- Báb
 
-bpn5013 «[Tiếng Việt](../vi/prayers/#bpn5013)» 
+bpn5013 
 
 ----
 
@@ -503,7 +504,7 @@ Ngài là Đấng Đại lượng, Đấng Thượng Đế Từ ái hoàn toàn!
 
 -- Bahá'u'lláh
 
-bpn5018 «[Tiếng Việt](../vi/prayers/#bpn5018)» 
+bpn5018 
 
 ----
 
@@ -513,7 +514,7 @@ Lạy Thượng Đế của con, Ngài thật là vinh quang! Quả thực, đâ
 
 -- Abdu'l-Bahá
 
-bpn5019 «[Tiếng Việt](../vi/prayers/#bpn5019)» 
+bpn5019 
 
 ----
 
@@ -527,7 +528,7 @@ Lạy Thượng Đế, Thượng Đế của chúng con! Chúng con là tôi t�
 
 -- Abdu'l-Bahá
 
-bpn5014 «[Tiếng Việt](../vi/prayers/#bpn5014)» 
+bpn5014 
 
 ----
 
@@ -541,7 +542,7 @@ Lạy Ngài là Đấng Xót thương, Đấng Toàn năng! Những linh hồn t
 
 -- Abdu'l-Bahá
 
-bpn5015 «[Tiếng Việt](../vi/prayers/#bpn5015)» 
+bpn5015 
 
 ----
 
@@ -551,7 +552,7 @@ Lạy Ngài là Đấng Thượng Đế Bác ái! Lạy Ngài là Đấng Thư�
 
 -- Abdu'l-Bahá
 
-bpn5016 «[Tiếng Việt](../vi/prayers/#bpn5016)» 
+bpn5016 
 
 ----
 
@@ -561,7 +562,7 @@ Lạy Thượng Đế, Đấng Khoan dung! Lạy Đấng Giáo dục Thiêng li�
 
 -- Abdu'l-Bahá
 
-bpn5017 «[Tiếng Việt](../vi/prayers/#bpn5017)» 
+bpn5017 
 
 ----
 
@@ -575,7 +576,7 @@ bpn5017 «[Tiếng Việt](../vi/prayers/#bpn5017)»
 
 -- Bahá'u'lláh
 
-bpn5024 «[Tiếng Việt](../vi/prayers/#bpn5024)» 
+bpn5024 
 
 ----
 
@@ -589,7 +590,7 @@ bpn5024 «[Tiếng Việt](../vi/prayers/#bpn5024)»
 
 -- Bahá'u'lláh
 
-bpn5025 «[Tiếng Việt](../vi/prayers/#bpn5025)» 
+bpn5025 
 
 ----
 
@@ -603,7 +604,7 @@ bpn5025 «[Tiếng Việt](../vi/prayers/#bpn5025)»
 
 -- Bahá'u'lláh
 
-bpn5026 «[Tiếng Việt](../vi/prayers/#bpn5026)» 
+bpn5026 
 
 ----
 
@@ -617,7 +618,7 @@ Lạy Thượng Đế của con, Danh Ngài đáng được ca ngợi! Bởi thi
 
 -- Bahá'u'lláh
 
-bpn5020 «[Tiếng Việt](../vi/prayers/#bpn5020)» 
+bpn5020 
 
 ----
 
@@ -627,7 +628,7 @@ Danh Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế c�
 
 -- Bahá'u'lláh
 
-bpn5021 «[Tiếng Việt](../vi/prayers/#bpn5021)» 
+bpn5021 
 
 ----
 
@@ -637,7 +638,7 @@ Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca ngợi! Ngài
 
 -- Bahá'u'lláh
 
-bpn5022 «[Tiếng Việt](../vi/prayers/#bpn5022)» 
+bpn5022 
 
 ----
 
@@ -647,7 +648,7 @@ Lạy Thượng Đế của con, Danh Ngài thật vinh quang, vì Ngài đã l�
 
 -- Bahá'u'lláh
 
-bpn5023 «[Tiếng Việt](../vi/prayers/#bpn5023)» 
+bpn5023 
 
 ----
 
@@ -661,7 +662,7 @@ bpn5023 «[Tiếng Việt](../vi/prayers/#bpn5023)»
 
 -- Bahá'u'lláh
 
-bpn5027 «[Tiếng Việt](../vi/prayers/#bpn5027)» 
+bpn5027 
 
 ----
 
@@ -675,7 +676,7 @@ bpn5027 «[Tiếng Việt](../vi/prayers/#bpn5027)»
 
 -- Bahá'u'lláh
 
-bpn5028 «[Tiếng Việt](../vi/prayers/#bpn5028)» 
+bpn5028 
 
 ----
 
@@ -689,7 +690,7 @@ Lạy Thượng Đế của con! Lạy Thượng Đế của con! Con ca ngợi 
 
 -- Abdu'l-Bahá
 
-bpn5029 «[Tiếng Việt](../vi/prayers/#bpn5029)» 
+bpn5029 
 
 ----
 
@@ -703,7 +704,7 @@ bpn5029 «[Tiếng Việt](../vi/prayers/#bpn5029)»
 
 -- Bahá'u'lláh
 
-bpn5030 «[Tiếng Việt](../vi/prayers/#bpn5030)» 
+bpn5030 
 
 ----
 
@@ -717,7 +718,7 @@ bpn5030 «[Tiếng Việt](../vi/prayers/#bpn5030)»
 
 -- Bahá'u'lláh
 
-bpn4974 «[Tiếng Việt](../vi/prayers/#bpn4974)» 
+bpn4974 
 
 ----
 
@@ -731,7 +732,7 @@ Lạy Thượng Đế! Chúng con yếu đuối, xin Ngài ban cho chúng con s�
 
 -- Abdu'l-Bahá
 
-bpn5031 «[Tiếng Việt](../vi/prayers/#bpn5031)» 
+bpn5031 
 
 ----
 
@@ -745,7 +746,7 @@ Chúng con cầu xin Thượng Đế độ lượng giúp cho những người l
 
 -- Bahá'u'lláh
 
-bpn5032 «[Tiếng Việt](../vi/prayers/#bpn5032)» 
+bpn5032 
 
 ----
 
@@ -759,7 +760,7 @@ Ngài thật là vĩ đại, lạy Ngài là Đấng Thượng Đế của con! 
 
 -- Bahá'u'lláh
 
-bpn5033 «[Tiếng Việt](../vi/prayers/#bpn5033)» 
+bpn5033 
 
 ----
 
@@ -769,7 +770,7 @@ Lạy Thượng Đế của con, Ngài thật đáng ca tụng! Ngài là Đấn
 
 -- Bahá'u'lláh
 
-bpn5034 «[Tiếng Việt](../vi/prayers/#bpn5034)» 
+bpn5034 
 
 ----
 
@@ -779,7 +780,7 @@ Lạy Thượng Đế của con, biết bao tâm hồn băng giá đã được 
 
 -- Bahá'u'lláh
 
-bpn5035 «[Tiếng Việt](../vi/prayers/#bpn5035)» 
+bpn5035 
 
 ----
 
@@ -789,7 +790,7 @@ Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của con
 
 -- Bahá'u'lláh
 
-bpn5036 «[Tiếng Việt](../vi/prayers/#bpn5036)» 
+bpn5036 
 
 ----
 
@@ -799,7 +800,7 @@ Thánh Danh Ngài thật đáng ca ngợi, lạy Ngài là Đấng Thượng Đ�
 
 -- Bahá'u'lláh
 
-bpn5037 «[Tiếng Việt](../vi/prayers/#bpn5037)» 
+bpn5037 
 
 ----
 
@@ -809,7 +810,7 @@ Danh Ngài thật đáng tán tụng, lạy Ngài, Đấng Thượng Đế của
 
 -- Bahá'u'lláh
 
-bpn5038 «[Tiếng Việt](../vi/prayers/#bpn5038)» 
+bpn5038 
 
 ----
 
@@ -819,7 +820,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Lạy Ngài là Vua của Vư�
 
 -- Abdu'l-Bahá
 
-bpn5039 «[Tiếng Việt](../vi/prayers/#bpn5039)» 
+bpn5039 
 
 ----
 
@@ -833,7 +834,7 @@ Lạy Thượng Đế của con, Ngài thật vinh quang! Ngài thấy đó, đ�
 
 -- Bahá'u'lláh
 
-bpn5040 «[Tiếng Việt](../vi/prayers/#bpn5040)» 
+bpn5040 
 
 ----
 
@@ -847,7 +848,7 @@ Bóng tối của đêm sầu thảm này rồi sẽ qua đi. Một lần nữa 
 
 -- Abdu'l-Bahá
 
-bpn5041 «[Tiếng Việt](../vi/prayers/#bpn5041)» 
+bpn5041 
 
 ----
 
@@ -861,7 +862,7 @@ bpn5041 «[Tiếng Việt](../vi/prayers/#bpn5041)»
 
 -- Bahá'u'lláh
 
-bpn5042 «[Tiếng Việt](../vi/prayers/#bpn5042)» 
+bpn5042 
 
 ----
 
@@ -875,7 +876,7 @@ Lạy Thượng Đế của con, lạy Đấng Tôn sư của con! Con là tôi 
 
 -- Bahá'u'lláh
 
-bpn10469 «[Tiếng Việt](../vi/prayers/#bpn10469)» 
+bpn10469 
 
 ----
 
@@ -889,7 +890,7 @@ Lạy Thượng Đế của con! Lạy Thượng Đế của con! Xin kết hợ
 
 -- Bahá'u'lláh
 
-bpn10468 «[Tiếng Việt](../vi/prayers/#bpn10468)» 
+bpn10468 
 
 ----
 
@@ -903,7 +904,7 @@ Sự chết đem đến cho mỗi tín đồ chiếc cốc sự sống thật s�
 
 -- Bahá'u'lláh
 
-bpn5046 «[Tiếng Việt](../vi/prayers/#bpn5046)» 
+bpn5046 
 
 ----
 
@@ -913,7 +914,7 @@ Lạy Thượng Đế của con, xin cho những người về với Ngài đư�
 
 -- Bahá'u'lláh
 
-bpn5047 «[Tiếng Việt](../vi/prayers/#bpn5047)» 
+bpn5047 
 
 ----
 
@@ -923,7 +924,7 @@ Hãy tụng: Lạy Thượng Đế của con, lạy Thượng Đế của con! N
 
 -- Bahá'u'lláh
 
-bpn5048 «[Tiếng Việt](../vi/prayers/#bpn5048)» 
+bpn5048 
 
 ----
 
@@ -933,7 +934,7 @@ Lạy Thượng Đế của con! Đây là tôi tớ Ngài, và là con của t�
 
 -- Bahá'u'lláh
 
-bpn5049 «[Tiếng Việt](../vi/prayers/#bpn5049)» 
+bpn5049 
 
 ----
 
@@ -943,7 +944,7 @@ Lạy Thượng Đế của con! Lạy Ngài là Đấng Xá tội! Đấng Ban 
 
 -- Abdu'l-Bahá
 
-bpn5050 «[Tiếng Việt](../vi/prayers/#bpn5050)» 
+bpn5050 
 
 ----
 
@@ -957,7 +958,7 @@ Lạy Thượng Đế! Xin Ngài khiến người thanh niên này trở nên tr
 
 -- Abdu'l-Bahá
 
-bpn5051 «[Tiếng Việt](../vi/prayers/#bpn5051)» 
+bpn5051 
 
 ----
 
@@ -971,7 +972,7 @@ Lạy Thượng Đế của con, vinh quang thuộc về Ngài; lạy Thượng 
 
 -- Bahá'u'lláh
 
-bpn5052 «[Tiếng Việt](../vi/prayers/#bpn5052)» 
+bpn5052 
 
 ----
 
@@ -981,7 +982,7 @@ Lạy Thượng Đế của con, bởi sức mạnh, uy lực và quyền tối 
 
 -- Bahá'u'lláh
 
-bpn5053 «[Tiếng Việt](../vi/prayers/#bpn5053)» 
+bpn5053 
 
 ----
 
@@ -991,7 +992,7 @@ Lạy Thượng Đế của con, Ngài thấy Ngôi Sao Mai thánh ngôn Ngài c
 
 -- Bahá'u'lláh
 
-bpn5054 «[Tiếng Việt](../vi/prayers/#bpn5054)» 
+bpn5054 
 
 ----
 
@@ -1001,7 +1002,7 @@ Thượng Đế chứng nhận rằng thần tính của Ngài là duy nhất v�
 
 -- Bahá'u'lláh
 
-bpn5055 «[Tiếng Việt](../vi/prayers/#bpn5055)» 
+bpn5055 
 
 ----
 
@@ -1011,7 +1012,7 @@ Lạy Thượng Đế của con, là Đấng con tôn kính và thờ phượng!
 
 -- Bahá'u'lláh
 
-bpn5056 «[Tiếng Việt](../vi/prayers/#bpn5056)» 
+bpn5056 
 
 ----
 
@@ -1025,7 +1026,7 @@ Lạy Ngài là Đấng đã ban sự thử thách làm liều thuốc linh nghi
 
 -- Bahá'u'lláh
 
-bpn5057 «[Tiếng Việt](../vi/prayers/#bpn5057)» 
+bpn5057 
 
 ----
 
@@ -1035,7 +1036,7 @@ Ngài vinh quang thay, lạy Ngài là Đấng Thượng Đế của con! Mọi 
 
 -- Bahá'u'lláh
 
-bpn5058 «[Tiếng Việt](../vi/prayers/#bpn5058)» 
+bpn5058 
 
 ----
 
@@ -1045,7 +1046,7 @@ Ngài thật vinh quang, lạy Ngài là Đấng Thượng Đế của con! Bở
 
 -- Bahá'u'lláh
 
-bpn5059 «[Tiếng Việt](../vi/prayers/#bpn5059)» 
+bpn5059 
 
 ----
 
@@ -1055,7 +1056,7 @@ Vinh quang thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của Con! N
 
 -- Bahá'u'lláh
 
-bpn5060 «[Tiếng Việt](../vi/prayers/#bpn5060)» 
+bpn5060 
 
 ----
 
@@ -1065,7 +1066,7 @@ Danh Ngài thật đáng ca ngợi, lạy Ngài là Đấng Thượng Đế củ
 
 -- Bahá'u'lláh
 
-bpn5061 «[Tiếng Việt](../vi/prayers/#bpn5061)» 
+bpn5061 
 
 ----
 
@@ -1075,7 +1076,7 @@ Vinh thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của thiên đàn
 
 -- Bahá'u'lláh
 
-bpn5062 «[Tiếng Việt](../vi/prayers/#bpn5062)» 
+bpn5062 
 
 ----
 
@@ -1085,7 +1086,7 @@ Danh Ngài đáng được ca ngợi, lạy Ngài là Đấng Thượng Đế c�
 
 -- Bahá'u'lláh
 
-bpn5063 «[Tiếng Việt](../vi/prayers/#bpn5063)» 
+bpn5063 
 
 ----
 
@@ -1095,7 +1096,7 @@ Vinh quang thuộc về Ngài, lạy Thượng Đế của Con! Làm sao ngườ
 
 -- Bahá'u'lláh
 
-bpn5064 «[Tiếng Việt](../vi/prayers/#bpn5064)» 
+bpn5064 
 
 ----
 
@@ -1105,7 +1106,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin đừng ở xa con bởi v
 
 -- Bahá'u'lláh
 
-bpn5065 «[Tiếng Việt](../vi/prayers/#bpn5065)» 
+bpn5065 
 
 ----
 
@@ -1115,7 +1116,7 @@ Sự ca tụng và vinh quang thuộc về Ngài, lạy Thượng Đế của co
 
 -- Bahá'u'lláh
 
-bpn5066 «[Tiếng Việt](../vi/prayers/#bpn5066)» 
+bpn5066 
 
 ----
 
@@ -1125,7 +1126,7 @@ Ngài thật đáng ca ngợi, lạy Ngài là Thượng Đế của con. Bởi 
 
 -- Bahá'u'lláh
 
-bpn5067 «[Tiếng Việt](../vi/prayers/#bpn5067)» 
+bpn5067 
 
 ----
 
@@ -1135,7 +1136,7 @@ Lạy Thượng Đế, Thượng Đế của con, bởi đức từ ái và lư�
 
 -- Bahá'u'lláh
 
-bpn5068 «[Tiếng Việt](../vi/prayers/#bpn5068)» 
+bpn5068 
 
 ----
 
@@ -1149,7 +1150,7 @@ Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của c
 
 -- Bahá'u'lláh
 
-bpn5069 «[Tiếng Việt](../vi/prayers/#bpn5069)» 
+bpn5069 
 
 ----
 
@@ -1163,7 +1164,7 @@ Lạy Thượng Đế của con, sự gần gũi Ngài là điều mong muốn c
 
 -- Bahá'u'lláh
 
-bpn5075 «[Tiếng Việt](../vi/prayers/#bpn5075)» 
+bpn5075 
 
 ----
 
@@ -1173,7 +1174,7 @@ Lạy Thượng Đế, Ngài là Đấng Phát sinh mọi Biểu hiện, là Ngu
 
 -- Bahá'u'lláh
 
-bpn5076 «[Tiếng Việt](../vi/prayers/#bpn5076)» 
+bpn5076 
 
 ----
 
@@ -1187,7 +1188,7 @@ Lạy Thượng Đế của con, Danh Ngài thật đáng ca ngợi! Bởi hươ
 
 -- Bahá'u'lláh
 
-bpn5077 «[Tiếng Việt](../vi/prayers/#bpn5077)» 
+bpn5077 
 
 ----
 
@@ -1197,7 +1198,7 @@ Lạy Ngài là Đấng Thượng Đế Khoan dung! Những kẻ tôi tớ này 
 
 -- Abdu'l-Bahá
 
-bpn5078 «[Tiếng Việt](../vi/prayers/#bpn5078)» 
+bpn5078 
 
 ----
 
@@ -1211,7 +1212,7 @@ Lạy Thượng Đế của con, vinh thay Danh Ngài!Nay Ngài đã cho phép c
 
 -- Bahá'u'lláh
 
-bpn5079 «[Tiếng Việt](../vi/prayers/#bpn5079)» 
+bpn5079 
 
 ----
 
@@ -1221,7 +1222,7 @@ Lạy Thượng Đế, lạy Thượng Đế của con!Đây là con chim bị g
 
 -- Abdu'l-Bahá
 
-bpn5080 «[Tiếng Việt](../vi/prayers/#bpn5080)» 
+bpn5080 
 
 ----
 
@@ -1235,7 +1236,7 @@ Lạy Thượng Đế của con, Ngài là Đấng mà các Danh đem lại sự
 
 -- Bahá'u'lláh
 
-bpn5074 «[Tiếng Việt](../vi/prayers/#bpn5074)» 
+bpn5074 
 
 ----
 
@@ -1245,7 +1246,7 @@ Lạy Thượng Đế của con, xin Ngài dắt dẫn con, che chở con, thắ
 
 -- Abdu'l-Bahá
 
-bpn5070 «[Tiếng Việt](../vi/prayers/#bpn5070)» 
+bpn5070 
 
 ----
 
@@ -1255,7 +1256,7 @@ Lạy Thượng Đế! Xin giáo dục các cháu bé này. Các cháu là cây 
 
 -- Abdu'l-Bahá
 
-bpn5071 «[Tiếng Việt](../vi/prayers/#bpn5071)» 
+bpn5071 
 
 ----
 
@@ -1265,7 +1266,7 @@ Lạy Thượng Đế! Xin nuôi dưỡng cháu hài nhi này trong lồng ngự
 
 -- Abdu'l-Bahá
 
-bpn5072 «[Tiếng Việt](../vi/prayers/#bpn5072)» 
+bpn5072 
 
 ----
 
@@ -1275,7 +1276,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 
 -- Abdu'l-Bahá
 
-bpn5073 «[Tiếng Việt](../vi/prayers/#bpn5073)» 
+bpn5073 
 
 ----
 
@@ -1289,7 +1290,7 @@ bpn5073 «[Tiếng Việt](../vi/prayers/#bpn5073)»
 
 -- Bahá'u'lláh
 
-bpn5043 «[Tiếng Việt](../vi/prayers/#bpn5043)» 
+bpn5043 
 
 ----
 
@@ -1299,7 +1300,7 @@ Ngài thật đáng ca ngợi, lạy Thượng Đế của Con! Con cảm tạ N
 
 -- Bahá'u'lláh
 
-bpn5044 «[Tiếng Việt](../vi/prayers/#bpn5044)» 
+bpn5044 
 
 ----
 
@@ -1309,7 +1310,7 @@ Lạy Ngài là Đấng Thượng Đế của con, Ngài thật là vinh quang! 
 
 -- Bahá'u'lláh
 
-bpn5045 «[Tiếng Việt](../vi/prayers/#bpn5045)» 
+bpn5045 
 
 ----
 
@@ -1323,7 +1324,7 @@ bpn5045 «[Tiếng Việt](../vi/prayers/#bpn5045)»
 
 -- Bahá'u'lláh
 
-bpn5081 «[Tiếng Việt](../vi/prayers/#bpn5081)» 
+bpn5081 
 
 ----
 
@@ -1337,7 +1338,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin soi sáng vầng trán nh�
 
 -- Abdu'l-Bahá
 
-bpn5006 «[Tiếng Việt](../vi/prayers/#bpn5006)» 
+bpn5006 
 
 ----
 
@@ -1351,7 +1352,7 @@ Lạy Thượng Đế của con! Xin cho vẻ Mỹ lệ Ngài làm thức ăn c�
 
 -- Bahá'u'lláh
 
-bpn5007 «[Tiếng Việt](../vi/prayers/#bpn5007)» 
+bpn5007 
 
 ----
 
@@ -1361,7 +1362,7 @@ Lạy Thượng Đế của con, xin tạo cho con trái tim trong sạch. Lạy
 
 -- Bahá'u'lláh
 
-bpn5008 «[Tiếng Việt](../vi/prayers/#bpn5008)» 
+bpn5008 
 
 ----
 
@@ -1371,7 +1372,7 @@ Tất cả những lời ca tụng xin dâng lên Ngài, lạy Ngài là Đấng
 
 -- Bahá'u'lláh
 
-bpn5009 «[Tiếng Việt](../vi/prayers/#bpn5009)» 
+bpn5009 
 
 ----
 
@@ -1381,7 +1382,7 @@ Lạy Thượng Đế của con, xin cho con được giải khát bằng nhữn
 
 -- Bahá'u'lláh
 
-bpn5010 «[Tiếng Việt](../vi/prayers/#bpn5010)» 
+bpn5010 
 
 ----
 
@@ -1391,7 +1392,7 @@ Vinh quang thuộc về Ngài, Đấng Thượng Đế của tất cả các th�
 
 -- Bahá'u'lláh
 
-bpn5011 «[Tiếng Việt](../vi/prayers/#bpn5011)» 
+bpn5011 
 
 ----
 
@@ -1401,7 +1402,7 @@ Hãy tụng: Lạy Thượng Đế, Thượng Đế của con! Xin trang sức �
 
 -- Bahá'u'lláh
 
-bpn4998 «[Tiếng Việt](../vi/prayers/#bpn4998)» 
+bpn4998 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=cs', 'prayerbook']
 
 
 
+
 [Chvála a vděčnost](#Chv%C3%A1la+a+vd%C4%9B%C4%8Dnost)
 
 [Jednota](#Jednota)
@@ -41,7 +42,7 @@ Všechna chvála, ó můj Pane, budiž Tobě, Jenž jsi Pramen vší slávy a vz
 
 -- Bahá'u'lláh
 
-bpn2869 «[Česky](../cs/prayers/#bpn2869)» 
+bpn2869 
 
 ----
 
@@ -55,7 +56,7 @@ bpn2869 «[Česky](../cs/prayers/#bpn2869)»
 
 -- Bahá'u'lláh
 
-bpn2868 «[Česky](../cs/prayers/#bpn2868)» 
+bpn2868 
 
 ----
 
@@ -69,7 +70,7 @@ Dosvědčuji, ó můj Bože, že jsi mne stvořil, abych Tě znal a uctíval.Doz
 
 -- Bahá'u'lláh
 
-bpn2865 «[Česky](../cs/prayers/#bpn2865)» 
+bpn2865 
 
 ----
 
@@ -83,7 +84,7 @@ bpn2865 «[Česky](../cs/prayers/#bpn2865)»
 
 -- Abdu'l-Bahá
 
-bpn2884 «[Česky](../cs/prayers/#bpn2884)» 
+bpn2884 
 
 ----
 
@@ -97,7 +98,7 @@ Můj Pane! Můj Pane! Vzdávám Ti chválu a díky za to, čím jsi vyznamenal S
 
 -- Abdu'l-Bahá
 
-bpn2882 «[Česky](../cs/prayers/#bpn2882)» 
+bpn2882 
 
 ----
 
@@ -111,7 +112,7 @@ bpn2882 «[Česky](../cs/prayers/#bpn2882)»
 
 -- Báb
 
-bpn2870 «[Česky](../cs/prayers/#bpn2870)» 
+bpn2870 
 
 ----
 
@@ -125,7 +126,7 @@ Jsem ten, ó můj Pane, který k Tobě obrací tvář a upíná naděje na zázr
 
 -- Bahá'u'lláh
 
-bpn2871 «[Česky](../cs/prayers/#bpn2871)» 
+bpn2871 
 
 ----
 
@@ -135,7 +136,7 @@ Snažně Tě prosím, ó můj Pane, odpust mi každou zmínku, jež není zmínk
 
 -- Báb
 
-bpn2872 «[Česky](../cs/prayers/#bpn2872)» 
+bpn2872 
 
 ----
 
@@ -149,7 +150,7 @@ bpn2872 «[Česky](../cs/prayers/#bpn2872)»
 
 -- Bahá'u'lláh
 
-bpn2873 «[Česky](../cs/prayers/#bpn2873)» 
+bpn2873 
 
 ----
 
@@ -159,7 +160,7 @@ Je nějaký Vysvoboditel z těžkostí kromě Boha?Rci: Chválen bud Bůh! On je
 
 -- Báb
 
-bpn2874 «[Česky](../cs/prayers/#bpn2874)» 
+bpn2874 
 
 ----
 
@@ -169,7 +170,7 @@ Rci: Bůh postačuje všem věcem a nade vše a nic na nebesích ani na zemi nep
 
 -- Báb
 
-bpn2875 «[Česky](../cs/prayers/#bpn2875)» 
+bpn2875 
 
 ----
 
@@ -179,7 +180,7 @@ bpn2875 «[Česky](../cs/prayers/#bpn2875)»
 
 -- Abdu'l-Bahá
 
-bpn2876 «[Česky](../cs/prayers/#bpn2876)» 
+bpn2876 
 
 ----
 
@@ -193,7 +194,7 @@ Stvoř ve mně čisté srdce, ó můj Bože, a obnov ve mně klidné svědomí, 
 
 -- Bahá'u'lláh
 
-bpn2866 «[Česky](../cs/prayers/#bpn2866)» 
+bpn2866 
 
 ----
 
@@ -203,7 +204,7 @@ bpn2866 «[Česky](../cs/prayers/#bpn2866)»
 
 -- Abdu'l-Bahá
 
-bpn2867 «[Česky](../cs/prayers/#bpn2867)» 
+bpn2867 
 
 ----
 
@@ -217,7 +218,7 @@ Vidíš, Ó Pane, naše ruce pozvednuté v pokorné prosbě k nebi Tvé přízn�
 
 -- Bahá'u'lláh
 
-bpn2880 «[Česky](../cs/prayers/#bpn2880)» 
+bpn2880 
 
 ----
 
@@ -227,7 +228,7 @@ bpn2880 «[Česky](../cs/prayers/#bpn2880)»
 
 -- Abdu'l-Bahá
 
-bpn2881 «[Česky](../cs/prayers/#bpn2881)» 
+bpn2881 
 
 ----
 
@@ -241,7 +242,7 @@ On je Bůh!Ó nedostižný Pane! Ve Své všemohoucí moudrosti jsi uložil lide
 
 -- Abdu'l-Bahá
 
-bpn2883 «[Česky](../cs/prayers/#bpn2883)» 
+bpn2883 
 
 ----
 
@@ -255,7 +256,7 @@ Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá b
 
 -- Bahá'u'lláh
 
-bpn2879 «[Česky](../cs/prayers/#bpn2879)» 
+bpn2879 
 
 ----
 
@@ -269,7 +270,7 @@ bpn2879 «[Česky](../cs/prayers/#bpn2879)»
 
 -- Bahá'u'lláh
 
-bpn2877 «[Česky](../cs/prayers/#bpn2877)» 
+bpn2877 
 
 ----
 
@@ -279,7 +280,7 @@ Rozptyl můj zármutek Svou štědrostí a šlechetností, ó Bože, můj Bože,
 
 -- Bahá'u'lláh
 
-bpn2878 «[Česky](../cs/prayers/#bpn2878)» 
+bpn2878 
 
 ----
 

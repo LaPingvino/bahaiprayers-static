@@ -5,6 +5,7 @@ tags = ['lang=ml', 'prayerbook']
 
 
 
+
 [19 ദിനോത്സവം](#19+%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B5%8B%E0%B4%A4%E0%B5%8D%E0%B4%B8%E0%B4%B5%E0%B4%82)
 
 [അഗ്നി കുറിപ്പ്](#%E0%B4%85%E0%B4%97%E0%B5%8D%E0%B4%A8%E0%B4%BF+%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D)
@@ -111,7 +112,7 @@ tags = ['lang=ml', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn9903 «[മലയാളം](../ml/prayers/#bpn9903)» 
+bpn9903 
 
 ----
 
@@ -125,7 +126,7 @@ bpn9903 «[മലയാളം](../ml/prayers/#bpn9903)»
 
 -- Bahá'u'lláh
 
-bpn9892 «[മലയാളം](../ml/prayers/#bpn9892)» 
+bpn9892 
 
 ----
 
@@ -139,7 +140,7 @@ bpn9892 «[മലയാളം](../ml/prayers/#bpn9892)»
 
 -- Abdu'l-Bahá
 
-bpn9891 «[മലയാളം](../ml/prayers/#bpn9891)» 
+bpn9891 
 
 ----
 
@@ -153,7 +154,7 @@ bpn9891 «[മലയാളം](../ml/prayers/#bpn9891)»
 
 -- Bahá'u'lláh
 
-bpn9889 «[മലയാളം](../ml/prayers/#bpn9889)» 
+bpn9889 
 
 ----
 
@@ -167,7 +168,7 @@ bpn9889 «[മലയാളം](../ml/prayers/#bpn9889)»
 
 -- Bahá'u'lláh
 
-bpn9841 «[മലയാളം](../ml/prayers/#bpn9841)» 
+bpn9841 
 
 ----
 
@@ -177,7 +178,7 @@ bpn9841 «[മലയാളം](../ml/prayers/#bpn9841)»
 
 -- Bahá'u'lláh
 
-bpn9842 «[മലയാളം](../ml/prayers/#bpn9842)» 
+bpn9842 
 
 ----
 
@@ -187,7 +188,7 @@ bpn9842 «[മലയാളം](../ml/prayers/#bpn9842)»
 
 -- Bahá'u'lláh
 
-bpn9844 «[മലയാളം](../ml/prayers/#bpn9844)» 
+bpn9844 
 
 ----
 
@@ -197,7 +198,7 @@ bpn9844 «[മലയാളം](../ml/prayers/#bpn9844)»
 
 -- Bahá'u'lláh
 
-bpn9840 «[മലയാളം](../ml/prayers/#bpn9840)» 
+bpn9840 
 
 ----
 
@@ -207,7 +208,7 @@ bpn9840 «[മലയാളം](../ml/prayers/#bpn9840)»
 
 -- Bahá'u'lláh
 
-bpn9843 «[മലയാളം](../ml/prayers/#bpn9843)» 
+bpn9843 
 
 ----
 
@@ -217,7 +218,7 @@ bpn9843 «[മലയാളം](../ml/prayers/#bpn9843)»
 
 -- Abdu'l-Bahá
 
-bpn9845 «[മലയാളം](../ml/prayers/#bpn9845)» 
+bpn9845 
 
 ----
 
@@ -227,7 +228,7 @@ bpn9845 «[മലയാളം](../ml/prayers/#bpn9845)»
 
 -- Abdu'l-Bahá
 
-bpn9846 «[മലയാളം](../ml/prayers/#bpn9846)» 
+bpn9846 
 
 ----
 
@@ -237,7 +238,7 @@ bpn9846 «[മലയാളം](../ml/prayers/#bpn9846)»
 
 -- Abdu'l-Bahá
 
-bpn9847 «[മലയാളം](../ml/prayers/#bpn9847)» 
+bpn9847 
 
 ----
 
@@ -247,7 +248,7 @@ bpn9847 «[മലയാളം](../ml/prayers/#bpn9847)»
 
 -- Abdu'l-Bahá
 
-bpn9848 «[മലയാളം](../ml/prayers/#bpn9848)» 
+bpn9848 
 
 ----
 
@@ -261,7 +262,7 @@ bpn9848 «[മലയാളം](../ml/prayers/#bpn9848)»
 
 -- Abdu'l-Bahá
 
-bpn9837 «[മലയാളം](../ml/prayers/#bpn9837)» 
+bpn9837 
 
 ----
 
@@ -271,7 +272,7 @@ bpn9837 «[മലയാളം](../ml/prayers/#bpn9837)»
 
 -- Abdu'l-Bahá
 
-bpn9838 «[മലയാളം](../ml/prayers/#bpn9838)» 
+bpn9838 
 
 ----
 
@@ -281,7 +282,7 @@ bpn9838 «[മലയാളം](../ml/prayers/#bpn9838)»
 
 -- Abdu'l-Bahá
 
-bpn9839 «[മലയാളം](../ml/prayers/#bpn9839)» 
+bpn9839 
 
 ----
 
@@ -295,7 +296,7 @@ bpn9839 «[മലയാളം](../ml/prayers/#bpn9839)»
 
 -- Bahá'u'lláh
 
-bpn9783 «[മലയാളം](../ml/prayers/#bpn9783)» 
+bpn9783 
 
 ----
 
@@ -305,7 +306,7 @@ bpn9783 «[മലയാളം](../ml/prayers/#bpn9783)»
 
 -- Abdu'l-Bahá
 
-bpn9784 «[മലയാളം](../ml/prayers/#bpn9784)» 
+bpn9784 
 
 ----
 
@@ -315,7 +316,7 @@ bpn9784 «[മലയാളം](../ml/prayers/#bpn9784)»
 
 -- Abdu'l-Bahá
 
-bpn9785 «[മലയാളം](../ml/prayers/#bpn9785)» 
+bpn9785 
 
 ----
 
@@ -329,7 +330,7 @@ bpn9785 «[മലയാളം](../ml/prayers/#bpn9785)»
 
 -- Bahá'u'lláh
 
-bpn9885 «[മലയാളം](../ml/prayers/#bpn9885)» 
+bpn9885 
 
 ----
 
@@ -339,7 +340,7 @@ bpn9885 «[മലയാളം](../ml/prayers/#bpn9885)»
 
 -- Abdu'l-Bahá
 
-bpn9886 «[മലയാളം](../ml/prayers/#bpn9886)» 
+bpn9886 
 
 ----
 
@@ -353,7 +354,7 @@ bpn9886 «[മലയാളം](../ml/prayers/#bpn9886)»
 
 -- Bahá'u'lláh
 
-bpn9875 «[മലയാളം](../ml/prayers/#bpn9875)» 
+bpn9875 
 
 ----
 
@@ -363,7 +364,7 @@ bpn9875 «[മലയാളം](../ml/prayers/#bpn9875)»
 
 -- Bahá'u'lláh
 
-bpn9876 «[മലയാളം](../ml/prayers/#bpn9876)» 
+bpn9876 
 
 ----
 
@@ -373,7 +374,7 @@ bpn9876 «[മലയാളം](../ml/prayers/#bpn9876)»
 
 -- Bahá'u'lláh
 
-bpn9877 «[മലയാളം](../ml/prayers/#bpn9877)» 
+bpn9877 
 
 ----
 
@@ -383,7 +384,7 @@ bpn9877 «[മലയാളം](../ml/prayers/#bpn9877)»
 
 -- Bahá'u'lláh
 
-bpn9878 «[മലയാളം](../ml/prayers/#bpn9878)» 
+bpn9878 
 
 ----
 
@@ -397,7 +398,7 @@ bpn9878 «[മലയാളം](../ml/prayers/#bpn9878)»
 
 -- Bahá'u'lláh
 
-bpn9902 «[മലയാളം](../ml/prayers/#bpn9902)» 
+bpn9902 
 
 ----
 
@@ -411,7 +412,7 @@ bpn9902 «[മലയാളം](../ml/prayers/#bpn9902)»
 
 -- Báb
 
-bpn9782 «[മലയാളം](../ml/prayers/#bpn9782)» 
+bpn9782 
 
 ----
 
@@ -425,7 +426,7 @@ bpn9782 «[മലയാളം](../ml/prayers/#bpn9782)»
 
 -- Abdu'l-Bahá
 
-bpn9764 «[മലയാളം](../ml/prayers/#bpn9764)» 
+bpn9764 
 
 ----
 
@@ -435,7 +436,7 @@ bpn9764 «[മലയാളം](../ml/prayers/#bpn9764)»
 
 -- Abdu'l-Bahá
 
-bpn9765 «[മലയാളം](../ml/prayers/#bpn9765)» 
+bpn9765 
 
 ----
 
@@ -445,7 +446,7 @@ bpn9765 «[മലയാളം](../ml/prayers/#bpn9765)»
 
 -- Abdu'l-Bahá
 
-bpn9766 «[മലയാളം](../ml/prayers/#bpn9766)» 
+bpn9766 
 
 ----
 
@@ -455,7 +456,7 @@ bpn9766 «[മലയാളം](../ml/prayers/#bpn9766)»
 
 -- Abdu'l-Bahá
 
-bpn9767 «[മലയാളം](../ml/prayers/#bpn9767)» 
+bpn9767 
 
 ----
 
@@ -465,7 +466,7 @@ bpn9767 «[മലയാളം](../ml/prayers/#bpn9767)»
 
 -- Abdu'l-Bahá
 
-bpn9768 «[മലയാളം](../ml/prayers/#bpn9768)» 
+bpn9768 
 
 ----
 
@@ -475,7 +476,7 @@ bpn9768 «[മലയാളം](../ml/prayers/#bpn9768)»
 
 -- Abdu'l-Bahá
 
-bpn9769 «[മലയാളം](../ml/prayers/#bpn9769)» 
+bpn9769 
 
 ----
 
@@ -485,7 +486,7 @@ bpn9769 «[മലയാളം](../ml/prayers/#bpn9769)»
 
 -- Abdu'l-Bahá
 
-bpn9770 «[മലയാളം](../ml/prayers/#bpn9770)» 
+bpn9770 
 
 ----
 
@@ -499,7 +500,7 @@ bpn9770 «[മലയാളം](../ml/prayers/#bpn9770)»
 
 -- Abdu'l-Bahá
 
-bpn9781 «[മലയാളം](../ml/prayers/#bpn9781)» 
+bpn9781 
 
 ----
 
@@ -513,7 +514,7 @@ bpn9781 «[മലയാളം](../ml/prayers/#bpn9781)»
 
 -- Bahá'u'lláh
 
-bpn9881 «[മലയാളം](../ml/prayers/#bpn9881)» 
+bpn9881 
 
 ----
 
@@ -527,7 +528,7 @@ bpn9881 «[മലയാളം](../ml/prayers/#bpn9881)»
 
 -- Bahá'u'lláh
 
-bpn9849 «[മലയാളം](../ml/prayers/#bpn9849)» 
+bpn9849 
 
 ----
 
@@ -537,7 +538,7 @@ bpn9849 «[മലയാളം](../ml/prayers/#bpn9849)»
 
 -- Bahá'u'lláh
 
-bpn9850 «[മലയാളം](../ml/prayers/#bpn9850)» 
+bpn9850 
 
 ----
 
@@ -547,7 +548,7 @@ bpn9850 «[മലയാളം](../ml/prayers/#bpn9850)»
 
 -- Bahá'u'lláh
 
-bpn9851 «[മലയാളം](../ml/prayers/#bpn9851)» 
+bpn9851 
 
 ----
 
@@ -557,7 +558,7 @@ bpn9851 «[മലയാളം](../ml/prayers/#bpn9851)»
 
 -- Báb
 
-bpn9852 «[മലയാളം](../ml/prayers/#bpn9852)» 
+bpn9852 
 
 ----
 
@@ -567,7 +568,7 @@ bpn9852 «[മലയാളം](../ml/prayers/#bpn9852)»
 
 -- Abdu'l-Bahá
 
-bpn9853 «[മലയാളം](../ml/prayers/#bpn9853)» 
+bpn9853 
 
 ----
 
@@ -577,7 +578,7 @@ bpn9853 «[മലയാളം](../ml/prayers/#bpn9853)»
 
 -- Abdu'l-Bahá
 
-bpn9854 «[മലയാളം](../ml/prayers/#bpn9854)» 
+bpn9854 
 
 ----
 
@@ -591,7 +592,7 @@ bpn9854 «[മലയാളം](../ml/prayers/#bpn9854)»
 
 -- Bahá'u'lláh
 
-bpn9874 «[മലയാളം](../ml/prayers/#bpn9874)» 
+bpn9874 
 
 ----
 
@@ -601,7 +602,7 @@ bpn9874 «[മലയാളം](../ml/prayers/#bpn9874)»
 
 -- Báb
 
-bpn9873 «[മലയാളം](../ml/prayers/#bpn9873)» 
+bpn9873 
 
 ----
 
@@ -615,7 +616,7 @@ bpn9873 «[മലയാളം](../ml/prayers/#bpn9873)»
 
 -- Bahá'u'lláh
 
-bpn9800 «[മലയാളം](../ml/prayers/#bpn9800)» 
+bpn9800 
 
 ----
 
@@ -629,7 +630,7 @@ bpn9800 «[മലയാളം](../ml/prayers/#bpn9800)»
 
 -- Bahá'u'lláh
 
-bpn9869 «[മലയാളം](../ml/prayers/#bpn9869)» 
+bpn9869 
 
 ----
 
@@ -639,7 +640,7 @@ bpn9869 «[മലയാളം](../ml/prayers/#bpn9869)»
 
 -- Báb
 
-bpn9870 «[മലയാളം](../ml/prayers/#bpn9870)» 
+bpn9870 
 
 ----
 
@@ -649,7 +650,7 @@ bpn9870 «[മലയാളം](../ml/prayers/#bpn9870)»
 
 -- Báb
 
-bpn9871 «[മലയാളം](../ml/prayers/#bpn9871)» 
+bpn9871 
 
 ----
 
@@ -659,7 +660,7 @@ bpn9871 «[മലയാളം](../ml/prayers/#bpn9871)»
 
 -- Abdu'l-Bahá
 
-bpn9872 «[മലയാളം](../ml/prayers/#bpn9872)» 
+bpn9872 
 
 ----
 
@@ -673,7 +674,7 @@ bpn9872 «[മലയാളം](../ml/prayers/#bpn9872)»
 
 -- Bahá'u'lláh
 
-bpn9887 «[മലയാളം](../ml/prayers/#bpn9887)» 
+bpn9887 
 
 ----
 
@@ -687,7 +688,7 @@ bpn9887 «[മലയാളം](../ml/prayers/#bpn9887)»
 
 -- Bahá'u'lláh
 
-bpn9775 «[മലയാളം](../ml/prayers/#bpn9775)» 
+bpn9775 
 
 ----
 
@@ -697,7 +698,7 @@ bpn9775 «[മലയാളം](../ml/prayers/#bpn9775)»
 
 -- Bahá'u'lláh
 
-bpn9776 «[മലയാളം](../ml/prayers/#bpn9776)» 
+bpn9776 
 
 ----
 
@@ -707,7 +708,7 @@ bpn9776 «[മലയാളം](../ml/prayers/#bpn9776)»
 
 -- Bahá'u'lláh
 
-bpn9777 «[മലയാളം](../ml/prayers/#bpn9777)» 
+bpn9777 
 
 ----
 
@@ -717,7 +718,7 @@ bpn9777 «[മലയാളം](../ml/prayers/#bpn9777)»
 
 -- Báb
 
-bpn9778 «[മലയാളം](../ml/prayers/#bpn9778)» 
+bpn9778 
 
 ----
 
@@ -727,7 +728,7 @@ bpn9778 «[മലയാളം](../ml/prayers/#bpn9778)»
 
 -- Báb
 
-bpn9779 «[മലയാളം](../ml/prayers/#bpn9779)» 
+bpn9779 
 
 ----
 
@@ -737,7 +738,7 @@ bpn9779 «[മലയാളം](../ml/prayers/#bpn9779)»
 
 -- Abdu'l-Bahá
 
-bpn9780 «[മലയാളം](../ml/prayers/#bpn9780)» 
+bpn9780 
 
 ----
 
@@ -751,7 +752,7 @@ bpn9780 «[മലയാളം](../ml/prayers/#bpn9780)»
 
 -- Bahá'u'lláh
 
-bpn9883 «[മലയാളം](../ml/prayers/#bpn9883)» 
+bpn9883 
 
 ----
 
@@ -765,7 +766,7 @@ bpn9883 «[മലയാളം](../ml/prayers/#bpn9883)»
 
 -- Bahá'u'lláh
 
-bpn9809 «[മലയാളം](../ml/prayers/#bpn9809)» 
+bpn9809 
 
 ----
 
@@ -779,7 +780,7 @@ bpn9809 «[മലയാളം](../ml/prayers/#bpn9809)»
 
 -- Abdu'l-Bahá
 
-bpn9827 «[മലയാളം](../ml/prayers/#bpn9827)» 
+bpn9827 
 
 ----
 
@@ -793,7 +794,7 @@ bpn9827 «[മലയാളം](../ml/prayers/#bpn9827)»
 
 -- Bahá'u'lláh
 
-bpn9862 «[മലയാളം](../ml/prayers/#bpn9862)» 
+bpn9862 
 
 ----
 
@@ -803,7 +804,7 @@ bpn9862 «[മലയാളം](../ml/prayers/#bpn9862)»
 
 -- Bahá'u'lláh
 
-bpn9863 «[മലയാളം](../ml/prayers/#bpn9863)» 
+bpn9863 
 
 ----
 
@@ -813,7 +814,7 @@ bpn9863 «[മലയാളം](../ml/prayers/#bpn9863)»
 
 -- Báb
 
-bpn9864 «[മലയാളം](../ml/prayers/#bpn9864)» 
+bpn9864 
 
 ----
 
@@ -823,7 +824,7 @@ bpn9864 «[മലയാളം](../ml/prayers/#bpn9864)»
 
 -- Báb
 
-bpn9865 «[മലയാളം](../ml/prayers/#bpn9865)» 
+bpn9865 
 
 ----
 
@@ -833,7 +834,7 @@ bpn9865 «[മലയാളം](../ml/prayers/#bpn9865)»
 
 -- Báb
 
-bpn9866 «[മലയാളം](../ml/prayers/#bpn9866)» 
+bpn9866 
 
 ----
 
@@ -843,7 +844,7 @@ bpn9866 «[മലയാളം](../ml/prayers/#bpn9866)»
 
 -- Báb
 
-bpn9867 «[മലയാളം](../ml/prayers/#bpn9867)» 
+bpn9867 
 
 ----
 
@@ -853,7 +854,7 @@ bpn9867 «[മലയാളം](../ml/prayers/#bpn9867)»
 
 -- Abdu'l-Bahá
 
-bpn9868 «[മലയാളം](../ml/prayers/#bpn9868)» 
+bpn9868 
 
 ----
 
@@ -867,7 +868,7 @@ bpn9868 «[മലയാളം](../ml/prayers/#bpn9868)»
 
 -- Bahá'u'lláh
 
-bpn9855 «[മലയാളം](../ml/prayers/#bpn9855)» 
+bpn9855 
 
 ----
 
@@ -877,7 +878,7 @@ bpn9855 «[മലയാളം](../ml/prayers/#bpn9855)»
 
 -- Bahá'u'lláh
 
-bpn9856 «[മലയാളം](../ml/prayers/#bpn9856)» 
+bpn9856 
 
 ----
 
@@ -887,7 +888,7 @@ bpn9856 «[മലയാളം](../ml/prayers/#bpn9856)»
 
 -- Abdu'l-Bahá
 
-bpn9857 «[മലയാളം](../ml/prayers/#bpn9857)» 
+bpn9857 
 
 ----
 
@@ -897,7 +898,7 @@ bpn9857 «[മലയാളം](../ml/prayers/#bpn9857)»
 
 -- Abdu'l-Bahá
 
-bpn9858 «[മലയാളം](../ml/prayers/#bpn9858)» 
+bpn9858 
 
 ----
 
@@ -907,7 +908,7 @@ bpn9858 «[മലയാളം](../ml/prayers/#bpn9858)»
 
 -- Abdu'l-Bahá
 
-bpn9859 «[മലയാളം](../ml/prayers/#bpn9859)» 
+bpn9859 
 
 ----
 
@@ -917,7 +918,7 @@ bpn9859 «[മലയാളം](../ml/prayers/#bpn9859)»
 
 -- Abdu'l-Bahá
 
-bpn9860 «[മലയാളം](../ml/prayers/#bpn9860)» 
+bpn9860 
 
 ----
 
@@ -927,7 +928,7 @@ bpn9860 «[മലയാളം](../ml/prayers/#bpn9860)»
 
 -- Abdu'l-Bahá
 
-bpn9861 «[മലയാളം](../ml/prayers/#bpn9861)» 
+bpn9861 
 
 ----
 
@@ -941,7 +942,7 @@ bpn9861 «[മലയാളം](../ml/prayers/#bpn9861)»
 
 -- Bahá'u'lláh
 
-bpn9818 «[മലയാളം](../ml/prayers/#bpn9818)» 
+bpn9818 
 
 ----
 
@@ -951,7 +952,7 @@ bpn9818 «[മലയാളം](../ml/prayers/#bpn9818)»
 
 -- Bahá'u'lláh
 
-bpn9819 «[മലയാളം](../ml/prayers/#bpn9819)» 
+bpn9819 
 
 ----
 
@@ -961,7 +962,7 @@ bpn9819 «[മലയാളം](../ml/prayers/#bpn9819)»
 
 -- Bahá'u'lláh
 
-bpn9820 «[മലയാളം](../ml/prayers/#bpn9820)» 
+bpn9820 
 
 ----
 
@@ -975,7 +976,7 @@ bpn9820 «[മലയാളം](../ml/prayers/#bpn9820)»
 
 -- Bahá'u'lláh
 
-bpn9897 «[മലയാളം](../ml/prayers/#bpn9897)» 
+bpn9897 
 
 ----
 
@@ -985,7 +986,7 @@ bpn9897 «[മലയാളം](../ml/prayers/#bpn9897)»
 
 -- Bahá'u'lláh
 
-bpn9898 «[മലയാളം](../ml/prayers/#bpn9898)» 
+bpn9898 
 
 ----
 
@@ -995,7 +996,7 @@ bpn9898 «[മലയാളം](../ml/prayers/#bpn9898)»
 
 -- Bahá'u'lláh
 
-bpn9899 «[മലയാളം](../ml/prayers/#bpn9899)» 
+bpn9899 
 
 ----
 
@@ -1005,7 +1006,7 @@ bpn9899 «[മലയാളം](../ml/prayers/#bpn9899)»
 
 -- Bahá'u'lláh
 
-bpn9900 «[മലയാളം](../ml/prayers/#bpn9900)» 
+bpn9900 
 
 ----
 
@@ -1015,7 +1016,7 @@ bpn9900 «[മലയാളം](../ml/prayers/#bpn9900)»
 
 -- Bahá'u'lláh
 
-bpn9901 «[മലയാളം](../ml/prayers/#bpn9901)» 
+bpn9901 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn9901 «[മലയാളം](../ml/prayers/#bpn9901)»
 
 -- Abdu'l-Bahá
 
-bpn9806 «[മലയാളം](../ml/prayers/#bpn9806)» 
+bpn9806 
 
 ----
 
@@ -1043,7 +1044,7 @@ bpn9806 «[മലയാളം](../ml/prayers/#bpn9806)»
 
 -- Bahá'u'lláh
 
-bpn9882 «[മലയാളം](../ml/prayers/#bpn9882)» 
+bpn9882 
 
 ----
 
@@ -1057,7 +1058,7 @@ bpn9882 «[മലയാളം](../ml/prayers/#bpn9882)»
 
 -- Bahá'u'lláh
 
-bpn9810 «[മലയാളം](../ml/prayers/#bpn9810)» 
+bpn9810 
 
 ----
 
@@ -1067,7 +1068,7 @@ bpn9810 «[മലയാളം](../ml/prayers/#bpn9810)»
 
 -- Abdu'l-Bahá
 
-bpn9811 «[മലയാളം](../ml/prayers/#bpn9811)» 
+bpn9811 
 
 ----
 
@@ -1077,7 +1078,7 @@ bpn9811 «[മലയാളം](../ml/prayers/#bpn9811)»
 
 -- Abdu'l-Bahá
 
-bpn9812 «[മലയാളം](../ml/prayers/#bpn9812)» 
+bpn9812 
 
 ----
 
@@ -1087,7 +1088,7 @@ bpn9812 «[മലയാളം](../ml/prayers/#bpn9812)»
 
 -- Abdu'l-Bahá
 
-bpn9813 «[മലയാളം](../ml/prayers/#bpn9813)» 
+bpn9813 
 
 ----
 
@@ -1101,7 +1102,7 @@ bpn9813 «[മലയാളം](../ml/prayers/#bpn9813)»
 
 -- Bahá'u'lláh
 
-bpn9824 «[മലയാളം](../ml/prayers/#bpn9824)» 
+bpn9824 
 
 ----
 
@@ -1111,7 +1112,7 @@ bpn9824 «[മലയാളം](../ml/prayers/#bpn9824)»
 
 -- Báb
 
-bpn9825 «[മലയാളം](../ml/prayers/#bpn9825)» 
+bpn9825 
 
 ----
 
@@ -1121,7 +1122,7 @@ bpn9825 «[മലയാളം](../ml/prayers/#bpn9825)»
 
 -- Abdu'l-Bahá
 
-bpn9826 «[മലയാളം](../ml/prayers/#bpn9826)» 
+bpn9826 
 
 ----
 
@@ -1135,7 +1136,7 @@ bpn9826 «[മലയാളം](../ml/prayers/#bpn9826)»
 
 -- Bahá'u'lláh
 
-bpn9786 «[മലയാളം](../ml/prayers/#bpn9786)» 
+bpn9786 
 
 ----
 
@@ -1145,7 +1146,7 @@ bpn9786 «[മലയാളം](../ml/prayers/#bpn9786)»
 
 -- Bahá'u'lláh
 
-bpn9787 «[മലയാളം](../ml/prayers/#bpn9787)» 
+bpn9787 
 
 ----
 
@@ -1155,7 +1156,7 @@ bpn9787 «[മലയാളം](../ml/prayers/#bpn9787)»
 
 -- Bahá'u'lláh
 
-bpn9788 «[മലയാളം](../ml/prayers/#bpn9788)» 
+bpn9788 
 
 ----
 
@@ -1165,7 +1166,7 @@ bpn9788 «[മലയാളം](../ml/prayers/#bpn9788)»
 
 -- Bahá'u'lláh
 
-bpn9789 «[മലയാളം](../ml/prayers/#bpn9789)» 
+bpn9789 
 
 ----
 
@@ -1175,7 +1176,7 @@ bpn9789 «[മലയാളം](../ml/prayers/#bpn9789)»
 
 -- Báb
 
-bpn9790 «[മലയാളം](../ml/prayers/#bpn9790)» 
+bpn9790 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn9790 «[മലയാളം](../ml/prayers/#bpn9790)»
 
 -- Abdu'l-Bahá
 
-bpn9791 «[മലയാളം](../ml/prayers/#bpn9791)» 
+bpn9791 
 
 ----
 
@@ -1199,7 +1200,7 @@ bpn9791 «[മലയാളം](../ml/prayers/#bpn9791)»
 
 -- Bahá'u'lláh
 
-bpn9792 «[മലയാളം](../ml/prayers/#bpn9792)» 
+bpn9792 
 
 ----
 
@@ -1209,7 +1210,7 @@ bpn9792 «[മലയാളം](../ml/prayers/#bpn9792)»
 
 -- Bahá'u'lláh
 
-bpn9793 «[മലയാളം](../ml/prayers/#bpn9793)» 
+bpn9793 
 
 ----
 
@@ -1219,7 +1220,7 @@ bpn9793 «[മലയാളം](../ml/prayers/#bpn9793)»
 
 -- Bahá'u'lláh
 
-bpn9794 «[മലയാളം](../ml/prayers/#bpn9794)» 
+bpn9794 
 
 ----
 
@@ -1233,7 +1234,7 @@ bpn9794 «[മലയാളം](../ml/prayers/#bpn9794)»
 
 -- Bahá'u'lláh
 
-bpn9807 «[മലയാളം](../ml/prayers/#bpn9807)» 
+bpn9807 
 
 ----
 
@@ -1243,7 +1244,7 @@ bpn9807 «[മലയാളം](../ml/prayers/#bpn9807)»
 
 -- Bahá'u'lláh
 
-bpn9808 «[മലയാളം](../ml/prayers/#bpn9808)» 
+bpn9808 
 
 ----
 
@@ -1257,7 +1258,7 @@ bpn9808 «[മലയാളം](../ml/prayers/#bpn9808)»
 
 -- Abdu'l-Bahá
 
-bpn9879 «[മലയാളം](../ml/prayers/#bpn9879)» 
+bpn9879 
 
 ----
 
@@ -1267,7 +1268,7 @@ bpn9879 «[മലയാളം](../ml/prayers/#bpn9879)»
 
 -- Abdu'l-Bahá
 
-bpn9880 «[മലയാളം](../ml/prayers/#bpn9880)» 
+bpn9880 
 
 ----
 
@@ -1281,7 +1282,7 @@ bpn9880 «[മലയാളം](../ml/prayers/#bpn9880)»
 
 -- Abdu'l-Bahá
 
-bpn9814 «[മലയാളം](../ml/prayers/#bpn9814)» 
+bpn9814 
 
 ----
 
@@ -1291,7 +1292,7 @@ bpn9814 «[മലയാളം](../ml/prayers/#bpn9814)»
 
 -- Abdu'l-Bahá
 
-bpn9815 «[മലയാളം](../ml/prayers/#bpn9815)» 
+bpn9815 
 
 ----
 
@@ -1301,7 +1302,7 @@ bpn9815 «[മലയാളം](../ml/prayers/#bpn9815)»
 
 -- Abdu'l-Bahá
 
-bpn9816 «[മലയാളം](../ml/prayers/#bpn9816)» 
+bpn9816 
 
 ----
 
@@ -1311,7 +1312,7 @@ bpn9816 «[മലയാളം](../ml/prayers/#bpn9816)»
 
 -- Abdu'l-Bahá
 
-bpn9817 «[മലയാളം](../ml/prayers/#bpn9817)» 
+bpn9817 
 
 ----
 
@@ -1325,7 +1326,7 @@ bpn9817 «[മലയാളം](../ml/prayers/#bpn9817)»
 
 -- Bahá'u'lláh
 
-bpn9832 «[മലയാളം](../ml/prayers/#bpn9832)» 
+bpn9832 
 
 ----
 
@@ -1335,7 +1336,7 @@ bpn9832 «[മലയാളം](../ml/prayers/#bpn9832)»
 
 -- Bahá'u'lláh
 
-bpn9833 «[മലയാളം](../ml/prayers/#bpn9833)» 
+bpn9833 
 
 ----
 
@@ -1345,7 +1346,7 @@ bpn9833 «[മലയാളം](../ml/prayers/#bpn9833)»
 
 -- Abdu'l-Bahá
 
-bpn9834 «[മലയാളം](../ml/prayers/#bpn9834)» 
+bpn9834 
 
 ----
 
@@ -1355,7 +1356,7 @@ bpn9834 «[മലയാളം](../ml/prayers/#bpn9834)»
 
 -- Abdu'l-Bahá
 
-bpn9835 «[മലയാളം](../ml/prayers/#bpn9835)» 
+bpn9835 
 
 ----
 
@@ -1365,7 +1366,7 @@ bpn9835 «[മലയാളം](../ml/prayers/#bpn9835)»
 
 -- Abdu'l-Bahá
 
-bpn9836 «[മലയാളം](../ml/prayers/#bpn9836)» 
+bpn9836 
 
 ----
 
@@ -1379,7 +1380,7 @@ bpn9836 «[മലയാളം](../ml/prayers/#bpn9836)»
 
 -- Bahá'u'lláh
 
-bpn9821 «[മലയാളം](../ml/prayers/#bpn9821)» 
+bpn9821 
 
 ----
 
@@ -1389,7 +1390,7 @@ bpn9821 «[മലയാളം](../ml/prayers/#bpn9821)»
 
 -- Bahá'u'lláh
 
-bpn9822 «[മലയാളം](../ml/prayers/#bpn9822)» 
+bpn9822 
 
 ----
 
@@ -1399,7 +1400,7 @@ bpn9822 «[മലയാളം](../ml/prayers/#bpn9822)»
 
 -- Abdu'l-Bahá
 
-bpn9823 «[മലയാളം](../ml/prayers/#bpn9823)» 
+bpn9823 
 
 ----
 
@@ -1413,7 +1414,7 @@ bpn9823 «[മലയാളം](../ml/prayers/#bpn9823)»
 
 -- Bahá'u'lláh
 
-bpn9801 «[മലയാളം](../ml/prayers/#bpn9801)» 
+bpn9801 
 
 ----
 
@@ -1423,7 +1424,7 @@ bpn9801 «[മലയാളം](../ml/prayers/#bpn9801)»
 
 -- Bahá'u'lláh
 
-bpn9802 «[മലയാളം](../ml/prayers/#bpn9802)» 
+bpn9802 
 
 ----
 
@@ -1433,7 +1434,7 @@ bpn9802 «[മലയാളം](../ml/prayers/#bpn9802)»
 
 -- Bahá'u'lláh
 
-bpn9803 «[മലയാളം](../ml/prayers/#bpn9803)» 
+bpn9803 
 
 ----
 
@@ -1443,7 +1444,7 @@ bpn9803 «[മലയാളം](../ml/prayers/#bpn9803)»
 
 -- Bahá'u'lláh
 
-bpn9804 «[മലയാളം](../ml/prayers/#bpn9804)» 
+bpn9804 
 
 ----
 
@@ -1453,7 +1454,7 @@ bpn9804 «[മലയാളം](../ml/prayers/#bpn9804)»
 
 -- Bahá'u'lláh
 
-bpn9805 «[മലയാളം](../ml/prayers/#bpn9805)» 
+bpn9805 
 
 ----
 
@@ -1467,7 +1468,7 @@ bpn9805 «[മലയാളം](../ml/prayers/#bpn9805)»
 
 -- Bahá'u'lláh
 
-bpn9896 «[മലയാളം](../ml/prayers/#bpn9896)» 
+bpn9896 
 
 ----
 
@@ -1481,7 +1482,7 @@ bpn9896 «[മലയാളം](../ml/prayers/#bpn9896)»
 
 -- Bahá'u'lláh
 
-bpn9888 «[മലയാളം](../ml/prayers/#bpn9888)» 
+bpn9888 
 
 ----
 
@@ -1495,7 +1496,7 @@ bpn9888 «[മലയാളം](../ml/prayers/#bpn9888)»
 
 -- Bahá'u'lláh
 
-bpn9771 «[മലയാളം](../ml/prayers/#bpn9771)» 
+bpn9771 
 
 ----
 
@@ -1505,7 +1506,7 @@ bpn9771 «[മലയാളം](../ml/prayers/#bpn9771)»
 
 -- Bahá'u'lláh
 
-bpn9772 «[മലയാളം](../ml/prayers/#bpn9772)» 
+bpn9772 
 
 ----
 
@@ -1515,7 +1516,7 @@ bpn9772 «[മലയാളം](../ml/prayers/#bpn9772)»
 
 -- Bahá'u'lláh
 
-bpn9773 «[മലയാളം](../ml/prayers/#bpn9773)» 
+bpn9773 
 
 ----
 
@@ -1525,7 +1526,7 @@ bpn9773 «[മലയാളം](../ml/prayers/#bpn9773)»
 
 -- Abdu'l-Bahá
 
-bpn9774 «[മലയാളം](../ml/prayers/#bpn9774)» 
+bpn9774 
 
 ----
 
@@ -1539,7 +1540,7 @@ bpn9774 «[മലയാളം](../ml/prayers/#bpn9774)»
 
 -- Bahá'u'lláh
 
-bpn9893 «[മലയാളം](../ml/prayers/#bpn9893)» 
+bpn9893 
 
 ----
 
@@ -1549,7 +1550,7 @@ bpn9893 «[മലയാളം](../ml/prayers/#bpn9893)»
 
 -- Abdu'l-Bahá
 
-bpn9894 «[മലയാളം](../ml/prayers/#bpn9894)» 
+bpn9894 
 
 ----
 
@@ -1559,7 +1560,7 @@ bpn9894 «[മലയാളം](../ml/prayers/#bpn9894)»
 
 -- Abdu'l-Bahá
 
-bpn9895 «[മലയാളം](../ml/prayers/#bpn9895)» 
+bpn9895 
 
 ----
 
@@ -1573,7 +1574,7 @@ bpn9895 «[മലയാളം](../ml/prayers/#bpn9895)»
 
 -- Bahá'u'lláh
 
-bpn9890 «[മലയാളം](../ml/prayers/#bpn9890)» 
+bpn9890 
 
 ----
 
@@ -1587,7 +1588,7 @@ bpn9890 «[മലയാളം](../ml/prayers/#bpn9890)»
 
 -- Bahá'u'lláh
 
-bpn9758 «[മലയാളം](../ml/prayers/#bpn9758)» 
+bpn9758 
 
 ----
 
@@ -1597,7 +1598,7 @@ bpn9758 «[മലയാളം](../ml/prayers/#bpn9758)»
 
 -- Bahá'u'lláh
 
-bpn9759 «[മലയാളം](../ml/prayers/#bpn9759)» 
+bpn9759 
 
 ----
 
@@ -1607,7 +1608,7 @@ bpn9759 «[മലയാളം](../ml/prayers/#bpn9759)»
 
 -- Bahá'u'lláh
 
-bpn9760 «[മലയാളം](../ml/prayers/#bpn9760)» 
+bpn9760 
 
 ----
 
@@ -1617,7 +1618,7 @@ bpn9760 «[മലയാളം](../ml/prayers/#bpn9760)»
 
 -- Abdu'l-Bahá
 
-bpn9761 «[മലയാളം](../ml/prayers/#bpn9761)» 
+bpn9761 
 
 ----
 
@@ -1627,7 +1628,7 @@ bpn9761 «[മലയാളം](../ml/prayers/#bpn9761)»
 
 -- Abdu'l-Bahá
 
-bpn9762 «[മലയാളം](../ml/prayers/#bpn9762)» 
+bpn9762 
 
 ----
 
@@ -1637,7 +1638,7 @@ bpn9762 «[മലയാളം](../ml/prayers/#bpn9762)»
 
 -- Abdu'l-Bahá
 
-bpn9763 «[മലയാളം](../ml/prayers/#bpn9763)» 
+bpn9763 
 
 ----
 
@@ -1651,7 +1652,7 @@ bpn9763 «[മലയാളം](../ml/prayers/#bpn9763)»
 
 -- Bahá'u'lláh
 
-bpn9795 «[മലയാളം](../ml/prayers/#bpn9795)» 
+bpn9795 
 
 ----
 
@@ -1661,7 +1662,7 @@ bpn9795 «[മലയാളം](../ml/prayers/#bpn9795)»
 
 -- Bahá'u'lláh
 
-bpn9796 «[മലയാളം](../ml/prayers/#bpn9796)» 
+bpn9796 
 
 ----
 
@@ -1671,7 +1672,7 @@ bpn9796 «[മലയാളം](../ml/prayers/#bpn9796)»
 
 -- Abdu'l-Bahá
 
-bpn9797 «[മലയാളം](../ml/prayers/#bpn9797)» 
+bpn9797 
 
 ----
 
@@ -1681,7 +1682,7 @@ bpn9797 «[മലയാളം](../ml/prayers/#bpn9797)»
 
 -- Abdu'l-Bahá
 
-bpn9798 «[മലയാളം](../ml/prayers/#bpn9798)» 
+bpn9798 
 
 ----
 
@@ -1691,7 +1692,7 @@ bpn9798 «[മലയാളം](../ml/prayers/#bpn9798)»
 
 -- Abdu'l-Bahá
 
-bpn9799 «[മലയാളം](../ml/prayers/#bpn9799)» 
+bpn9799 
 
 ----
 
@@ -1705,7 +1706,7 @@ bpn9799 «[മലയാളം](../ml/prayers/#bpn9799)»
 
 -- Bahá'u'lláh
 
-bpn9828 «[മലയാളം](../ml/prayers/#bpn9828)» 
+bpn9828 
 
 ----
 
@@ -1715,7 +1716,7 @@ bpn9828 «[മലയാളം](../ml/prayers/#bpn9828)»
 
 -- Bahá'u'lláh
 
-bpn9829 «[മലയാളം](../ml/prayers/#bpn9829)» 
+bpn9829 
 
 ----
 
@@ -1725,7 +1726,7 @@ bpn9829 «[മലയാളം](../ml/prayers/#bpn9829)»
 
 -- Bahá'u'lláh
 
-bpn9830 «[മലയാളം](../ml/prayers/#bpn9830)» 
+bpn9830 
 
 ----
 
@@ -1735,7 +1736,7 @@ bpn9830 «[മലയാളം](../ml/prayers/#bpn9830)»
 
 -- Bahá'u'lláh
 
-bpn9831 «[മലയാളം](../ml/prayers/#bpn9831)» 
+bpn9831 
 
 ----
 
@@ -1749,7 +1750,7 @@ bpn9831 «[മലയാളം](../ml/prayers/#bpn9831)»
 
 -- Bahá'u'lláh
 
-bpn9884 «[മലയാളം](../ml/prayers/#bpn9884)» 
+bpn9884 
 
 ----
 

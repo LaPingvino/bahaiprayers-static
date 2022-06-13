@@ -5,6 +5,7 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
 [ለሕፃናት  (Infants)](#%E1%88%88%E1%88%95%E1%8D%83%E1%8A%93%E1%89%B5++%28Infants%29)
 
 [ለመንፈሳዊ ጉባኤ ስብሰባ (Assemblies)](#%E1%88%88%E1%88%98%E1%8A%95%E1%8D%88%E1%88%B3%E1%8B%8A+%E1%8C%89%E1%89%A3%E1%8A%A4+%E1%88%B5%E1%89%A5%E1%88%B0%E1%89%A3+%28Assemblies%29)
@@ -83,7 +84,7 @@ tags = ['lang=am', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn9921 «[አማርኛ.](../am/prayers/#bpn9921)» 
+bpn9921 
 
 ----
 
@@ -97,7 +98,7 @@ bpn9921 «[አማርኛ.](../am/prayers/#bpn9921)»
 
 -- Bahá'u'lláh
 
-bpn9922 «[አማርኛ.](../am/prayers/#bpn9922)» 
+bpn9922 
 
 ----
 
@@ -111,7 +112,7 @@ bpn9922 «[አማርኛ.](../am/prayers/#bpn9922)»
 
 -- Bahá'u'lláh
 
-bpn9912 «[አማርኛ.](../am/prayers/#bpn9912)» 
+bpn9912 
 
 ----
 
@@ -125,7 +126,7 @@ bpn9912 «[አማርኛ.](../am/prayers/#bpn9912)»
 
 -- Bahá'u'lláh
 
-bpn9923 «[አማርኛ.](../am/prayers/#bpn9923)» 
+bpn9923 
 
 ----
 
@@ -139,7 +140,7 @@ bpn9923 «[አማርኛ.](../am/prayers/#bpn9923)»
 
 -- Bahá'u'lláh
 
-bpn9924 «[አማርኛ.](../am/prayers/#bpn9924)» 
+bpn9924 
 
 ----
 
@@ -153,7 +154,7 @@ bpn9924 «[አማርኛ.](../am/prayers/#bpn9924)»
 
 -- Bahá'u'lláh
 
-bpn9910 «[አማርኛ.](../am/prayers/#bpn9910)» 
+bpn9910 
 
 ----
 
@@ -167,7 +168,7 @@ bpn9910 «[አማርኛ.](../am/prayers/#bpn9910)»
 
 -- Bahá'u'lláh
 
-bpn9919 «[አማርኛ.](../am/prayers/#bpn9919)» 
+bpn9919 
 
 ----
 
@@ -181,7 +182,7 @@ bpn9919 «[አማርኛ.](../am/prayers/#bpn9919)»
 
 -- Bahá'u'lláh
 
-bpn9925 «[አማርኛ.](../am/prayers/#bpn9925)» 
+bpn9925 
 
 ----
 
@@ -195,7 +196,7 @@ bpn9925 «[አማርኛ.](../am/prayers/#bpn9925)»
 
 -- Bahá'u'lláh
 
-bpn9917 «[አማርኛ.](../am/prayers/#bpn9917)» 
+bpn9917 
 
 ----
 
@@ -209,7 +210,7 @@ bpn9917 «[አማርኛ.](../am/prayers/#bpn9917)»
 
 -- Bahá'u'lláh
 
-bpn9915 «[አማርኛ.](../am/prayers/#bpn9915)» 
+bpn9915 
 
 ----
 
@@ -223,7 +224,7 @@ bpn9915 «[አማርኛ.](../am/prayers/#bpn9915)»
 
 -- Bahá'u'lláh
 
-bpn9926 «[አማርኛ.](../am/prayers/#bpn9926)» 
+bpn9926 
 
 ----
 
@@ -237,7 +238,7 @@ bpn9926 «[አማርኛ.](../am/prayers/#bpn9926)»
 
 -- Bahá'u'lláh
 
-bpn9911 «[አማርኛ.](../am/prayers/#bpn9911)» 
+bpn9911 
 
 ----
 
@@ -251,7 +252,7 @@ bpn9911 «[አማርኛ.](../am/prayers/#bpn9911)»
 
 -- Bahá'u'lláh
 
-bpn9927 «[አማርኛ.](../am/prayers/#bpn9927)» 
+bpn9927 
 
 ----
 
@@ -265,7 +266,7 @@ bpn9927 «[አማርኛ.](../am/prayers/#bpn9927)»
 
 -- Bahá'u'lláh
 
-bpn9916 «[አማርኛ.](../am/prayers/#bpn9916)» 
+bpn9916 
 
 ----
 
@@ -279,7 +280,7 @@ bpn9916 «[አማርኛ.](../am/prayers/#bpn9916)»
 
 -- Bahá'u'lláh
 
-bpn9928 «[አማርኛ.](../am/prayers/#bpn9928)» 
+bpn9928 
 
 ----
 
@@ -293,7 +294,7 @@ bpn9928 «[አማርኛ.](../am/prayers/#bpn9928)»
 
 -- Bahá'u'lláh
 
-bpn9929 «[አማርኛ.](../am/prayers/#bpn9929)» 
+bpn9929 
 
 ----
 
@@ -307,7 +308,7 @@ bpn9929 «[አማርኛ.](../am/prayers/#bpn9929)»
 
 -- Bahá'u'lláh
 
-bpn9914 «[አማርኛ.](../am/prayers/#bpn9914)» 
+bpn9914 
 
 ----
 
@@ -321,7 +322,7 @@ bpn9914 «[አማርኛ.](../am/prayers/#bpn9914)»
 
 -- Bahá'u'lláh
 
-bpn9936 «[አማርኛ.](../am/prayers/#bpn9936)» 
+bpn9936 
 
 ----
 
@@ -335,7 +336,7 @@ bpn9936 «[አማርኛ.](../am/prayers/#bpn9936)»
 
 -- Bahá'u'lláh
 
-bpn9930 «[አማርኛ.](../am/prayers/#bpn9930)» 
+bpn9930 
 
 ----
 
@@ -345,7 +346,7 @@ bpn9930 «[አማርኛ.](../am/prayers/#bpn9930)»
 
 -- Bahá'u'lláh
 
-bpn9931 «[አማርኛ.](../am/prayers/#bpn9931)» 
+bpn9931 
 
 ----
 
@@ -359,7 +360,7 @@ bpn9931 «[አማርኛ.](../am/prayers/#bpn9931)»
 
 -- Bahá'u'lláh
 
-bpn9905 «[አማርኛ.](../am/prayers/#bpn9905)» 
+bpn9905 
 
 ----
 
@@ -373,7 +374,7 @@ bpn9905 «[አማርኛ.](../am/prayers/#bpn9905)»
 
 -- Bahá'u'lláh
 
-bpn9937 «[አማርኛ.](../am/prayers/#bpn9937)» 
+bpn9937 
 
 ----
 
@@ -387,7 +388,7 @@ bpn9937 «[አማርኛ.](../am/prayers/#bpn9937)»
 
 -- Bahá'u'lláh
 
-bpn9906 «[አማርኛ.](../am/prayers/#bpn9906)» 
+bpn9906 
 
 ----
 
@@ -401,7 +402,7 @@ bpn9906 «[አማርኛ.](../am/prayers/#bpn9906)»
 
 -- Bahá'u'lláh
 
-bpn9932 «[አማርኛ.](../am/prayers/#bpn9932)» 
+bpn9932 
 
 ----
 
@@ -415,7 +416,7 @@ bpn9932 «[አማርኛ.](../am/prayers/#bpn9932)»
 
 -- Bahá'u'lláh
 
-bpn9904 «[አማርኛ.](../am/prayers/#bpn9904)» 
+bpn9904 
 
 ----
 
@@ -429,7 +430,7 @@ bpn9904 «[አማርኛ.](../am/prayers/#bpn9904)»
 
 -- Bahá'u'lláh
 
-bpn9918 «[አማርኛ.](../am/prayers/#bpn9918)» 
+bpn9918 
 
 ----
 
@@ -443,7 +444,7 @@ bpn9918 «[አማርኛ.](../am/prayers/#bpn9918)»
 
 -- Bahá'u'lláh
 
-bpn9907 «[አማርኛ.](../am/prayers/#bpn9907)» 
+bpn9907 
 
 ----
 
@@ -457,7 +458,7 @@ bpn9907 «[አማርኛ.](../am/prayers/#bpn9907)»
 
 -- Bahá'u'lláh
 
-bpn9908 «[አማርኛ.](../am/prayers/#bpn9908)» 
+bpn9908 
 
 ----
 
@@ -471,7 +472,7 @@ bpn9908 «[አማርኛ.](../am/prayers/#bpn9908)»
 
 -- Bahá'u'lláh
 
-bpn9913 «[አማርኛ.](../am/prayers/#bpn9913)» 
+bpn9913 
 
 ----
 
@@ -485,7 +486,7 @@ bpn9913 «[አማርኛ.](../am/prayers/#bpn9913)»
 
 -- Bahá'u'lláh
 
-bpn9939 «[አማርኛ.](../am/prayers/#bpn9939)» 
+bpn9939 
 
 ----
 
@@ -499,7 +500,7 @@ bpn9939 «[አማርኛ.](../am/prayers/#bpn9939)»
 
 -- Bahá'u'lláh
 
-bpn9933 «[አማርኛ.](../am/prayers/#bpn9933)» 
+bpn9933 
 
 ----
 
@@ -513,7 +514,7 @@ bpn9933 «[አማርኛ.](../am/prayers/#bpn9933)»
 
 -- Bahá'u'lláh
 
-bpn9920 «[አማርኛ.](../am/prayers/#bpn9920)» 
+bpn9920 
 
 ----
 
@@ -523,7 +524,7 @@ bpn9920 «[አማርኛ.](../am/prayers/#bpn9920)»
 
 -- Bahá'u'lláh
 
-bpn9938 «[አማርኛ.](../am/prayers/#bpn9938)» 
+bpn9938 
 
 ----
 
@@ -533,7 +534,7 @@ bpn9938 «[አማርኛ.](../am/prayers/#bpn9938)»
 
 -- Bahá'u'lláh
 
-bpn9941 «[አማርኛ.](../am/prayers/#bpn9941)» 
+bpn9941 
 
 ----
 
@@ -547,7 +548,7 @@ bpn9941 «[አማርኛ.](../am/prayers/#bpn9941)»
 
 -- Bahá'u'lláh
 
-bpn9909 «[አማርኛ.](../am/prayers/#bpn9909)» 
+bpn9909 
 
 ----
 
@@ -557,7 +558,7 @@ bpn9909 «[አማርኛ.](../am/prayers/#bpn9909)»
 
 -- Bahá'u'lláh
 
-bpn9934 «[አማርኛ.](../am/prayers/#bpn9934)» 
+bpn9934 
 
 ----
 
@@ -571,7 +572,7 @@ bpn9934 «[አማርኛ.](../am/prayers/#bpn9934)»
 
 -- Bahá'u'lláh
 
-bpn9940 «[አማርኛ.](../am/prayers/#bpn9940)» 
+bpn9940 
 
 ----
 
@@ -585,7 +586,7 @@ bpn9940 «[አማርኛ.](../am/prayers/#bpn9940)»
 
 -- Bahá'u'lláh
 
-bpn9935 «[አማርኛ.](../am/prayers/#bpn9935)» 
+bpn9935 
 
 ----
 

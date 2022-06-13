@@ -5,6 +5,7 @@ tags = ['lang=zh-Hant', 'prayerbook']
 
 
 
+
 [中 國](#%E4%B8%AD+%E5%9C%8B)
 
 [中篇必誦禱文](#%E4%B8%AD%E7%AF%87%E5%BF%85%E8%AA%A6%E7%A6%B1%E6%96%87)
@@ -99,7 +100,7 @@ tags = ['lang=zh-Hant', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn8947 «[繁體中文](../zh-Hant/prayers/#bpn8947)» 
+bpn8947 
 
 ----
 
@@ -113,7 +114,7 @@ bpn8947 «[繁體中文](../zh-Hant/prayers/#bpn8947)»
 
 -- Bahá'u'lláh
 
-bpn8773 «[繁體中文](../zh-Hant/prayers/#bpn8773)» 
+bpn8773 
 
 ----
 
@@ -127,7 +128,7 @@ bpn8773 «[繁體中文](../zh-Hant/prayers/#bpn8773)»
 
 -- Bahá'u'lláh
 
-bpn8846 «[繁體中文](../zh-Hant/prayers/#bpn8846)» 
+bpn8846 
 
 ----
 
@@ -137,7 +138,7 @@ bpn8846 «[繁體中文](../zh-Hant/prayers/#bpn8846)»
 
 -- Abdu'l-Bahá
 
-bpn8847 «[繁體中文](../zh-Hant/prayers/#bpn8847)» 
+bpn8847 
 
 ----
 
@@ -147,7 +148,7 @@ bpn8847 «[繁體中文](../zh-Hant/prayers/#bpn8847)»
 
 -- Abdu'l-Bahá
 
-bpn8848 «[繁體中文](../zh-Hant/prayers/#bpn8848)» 
+bpn8848 
 
 ----
 
@@ -157,7 +158,7 @@ bpn8848 «[繁體中文](../zh-Hant/prayers/#bpn8848)»
 
 -- Abdu'l-Bahá
 
-bpn8849 «[繁體中文](../zh-Hant/prayers/#bpn8849)» 
+bpn8849 
 
 ----
 
@@ -167,7 +168,7 @@ bpn8849 «[繁體中文](../zh-Hant/prayers/#bpn8849)»
 
 -- Abdu'l-Bahá
 
-bpn8850 «[繁體中文](../zh-Hant/prayers/#bpn8850)» 
+bpn8850 
 
 ----
 
@@ -181,7 +182,7 @@ bpn8850 «[繁體中文](../zh-Hant/prayers/#bpn8850)»
 
 -- Bahá'u'lláh
 
-bpn8909 «[繁體中文](../zh-Hant/prayers/#bpn8909)» 
+bpn8909 
 
 ----
 
@@ -191,7 +192,7 @@ bpn8909 «[繁體中文](../zh-Hant/prayers/#bpn8909)»
 
 -- Bahá'u'lláh
 
-bpn8910 «[繁體中文](../zh-Hant/prayers/#bpn8910)» 
+bpn8910 
 
 ----
 
@@ -201,7 +202,7 @@ bpn8910 «[繁體中文](../zh-Hant/prayers/#bpn8910)»
 
 -- Bahá'u'lláh
 
-bpn8911 «[繁體中文](../zh-Hant/prayers/#bpn8911)» 
+bpn8911 
 
 ----
 
@@ -211,7 +212,7 @@ bpn8911 «[繁體中文](../zh-Hant/prayers/#bpn8911)»
 
 -- Bahá'u'lláh
 
-bpn8912 «[繁體中文](../zh-Hant/prayers/#bpn8912)» 
+bpn8912 
 
 ----
 
@@ -221,7 +222,7 @@ bpn8912 «[繁體中文](../zh-Hant/prayers/#bpn8912)»
 
 -- Abdu'l-Bahá
 
-bpn8913 «[繁體中文](../zh-Hant/prayers/#bpn8913)» 
+bpn8913 
 
 ----
 
@@ -231,7 +232,7 @@ bpn8913 «[繁體中文](../zh-Hant/prayers/#bpn8913)»
 
 -- Abdu'l-Bahá
 
-bpn8914 «[繁體中文](../zh-Hant/prayers/#bpn8914)» 
+bpn8914 
 
 ----
 
@@ -241,7 +242,7 @@ bpn8914 «[繁體中文](../zh-Hant/prayers/#bpn8914)»
 
 -- Abdu'l-Bahá
 
-bpn8915 «[繁體中文](../zh-Hant/prayers/#bpn8915)» 
+bpn8915 
 
 ----
 
@@ -251,7 +252,7 @@ bpn8915 «[繁體中文](../zh-Hant/prayers/#bpn8915)»
 
 -- Abdu'l-Bahá
 
-bpn8916 «[繁體中文](../zh-Hant/prayers/#bpn8916)» 
+bpn8916 
 
 ----
 
@@ -261,7 +262,7 @@ bpn8916 «[繁體中文](../zh-Hant/prayers/#bpn8916)»
 
 -- Abdu'l-Bahá
 
-bpn8917 «[繁體中文](../zh-Hant/prayers/#bpn8917)» 
+bpn8917 
 
 ----
 
@@ -271,7 +272,7 @@ bpn8917 «[繁體中文](../zh-Hant/prayers/#bpn8917)»
 
 -- Abdu'l-Bahá
 
-bpn8918 «[繁體中文](../zh-Hant/prayers/#bpn8918)» 
+bpn8918 
 
 ----
 
@@ -281,7 +282,7 @@ bpn8918 «[繁體中文](../zh-Hant/prayers/#bpn8918)»
 
 -- Abdu'l-Bahá
 
-bpn8919 «[繁體中文](../zh-Hant/prayers/#bpn8919)» 
+bpn8919 
 
 ----
 
@@ -291,7 +292,7 @@ bpn8919 «[繁體中文](../zh-Hant/prayers/#bpn8919)»
 
 -- Abdu'l-Bahá
 
-bpn8920 «[繁體中文](../zh-Hant/prayers/#bpn8920)» 
+bpn8920 
 
 ----
 
@@ -301,7 +302,7 @@ bpn8920 «[繁體中文](../zh-Hant/prayers/#bpn8920)»
 
 -- Abdu'l-Bahá
 
-bpn8921 «[繁體中文](../zh-Hant/prayers/#bpn8921)» 
+bpn8921 
 
 ----
 
@@ -311,7 +312,7 @@ bpn8921 «[繁體中文](../zh-Hant/prayers/#bpn8921)»
 
 -- Abdu'l-Bahá
 
-bpn8922 «[繁體中文](../zh-Hant/prayers/#bpn8922)» 
+bpn8922 
 
 ----
 
@@ -321,7 +322,7 @@ bpn8922 «[繁體中文](../zh-Hant/prayers/#bpn8922)»
 
 -- Abdu'l-Bahá
 
-bpn8923 «[繁體中文](../zh-Hant/prayers/#bpn8923)» 
+bpn8923 
 
 ----
 
@@ -331,7 +332,7 @@ bpn8923 «[繁體中文](../zh-Hant/prayers/#bpn8923)»
 
 -- Abdu'l-Bahá
 
-bpn8924 «[繁體中文](../zh-Hant/prayers/#bpn8924)» 
+bpn8924 
 
 ----
 
@@ -341,7 +342,7 @@ bpn8924 «[繁體中文](../zh-Hant/prayers/#bpn8924)»
 
 -- Abdu'l-Bahá
 
-bpn8925 «[繁體中文](../zh-Hant/prayers/#bpn8925)» 
+bpn8925 
 
 ----
 
@@ -355,7 +356,7 @@ bpn8925 «[繁體中文](../zh-Hant/prayers/#bpn8925)»
 
 -- Bahá'u'lláh
 
-bpn8790 «[繁體中文](../zh-Hant/prayers/#bpn8790)» 
+bpn8790 
 
 ----
 
@@ -365,7 +366,7 @@ bpn8790 «[繁體中文](../zh-Hant/prayers/#bpn8790)»
 
 -- Abdu'l-Bahá
 
-bpn8791 «[繁體中文](../zh-Hant/prayers/#bpn8791)» 
+bpn8791 
 
 ----
 
@@ -375,7 +376,7 @@ bpn8791 «[繁體中文](../zh-Hant/prayers/#bpn8791)»
 
 -- Abdu'l-Bahá
 
-bpn8792 «[繁體中文](../zh-Hant/prayers/#bpn8792)» 
+bpn8792 
 
 ----
 
@@ -385,7 +386,7 @@ bpn8792 «[繁體中文](../zh-Hant/prayers/#bpn8792)»
 
 -- Abdu'l-Bahá
 
-bpn8793 «[繁體中文](../zh-Hant/prayers/#bpn8793)» 
+bpn8793 
 
 ----
 
@@ -395,7 +396,7 @@ bpn8793 «[繁體中文](../zh-Hant/prayers/#bpn8793)»
 
 -- Abdu'l-Bahá
 
-bpn8794 «[繁體中文](../zh-Hant/prayers/#bpn8794)» 
+bpn8794 
 
 ----
 
@@ -405,7 +406,7 @@ bpn8794 «[繁體中文](../zh-Hant/prayers/#bpn8794)»
 
 -- Abdu'l-Bahá
 
-bpn8795 «[繁體中文](../zh-Hant/prayers/#bpn8795)» 
+bpn8795 
 
 ----
 
@@ -415,7 +416,7 @@ bpn8795 «[繁體中文](../zh-Hant/prayers/#bpn8795)»
 
 -- Abdu'l-Bahá
 
-bpn8796 «[繁體中文](../zh-Hant/prayers/#bpn8796)» 
+bpn8796 
 
 ----
 
@@ -425,7 +426,7 @@ bpn8796 «[繁體中文](../zh-Hant/prayers/#bpn8796)»
 
 -- Abdu'l-Bahá
 
-bpn8797 «[繁體中文](../zh-Hant/prayers/#bpn8797)» 
+bpn8797 
 
 ----
 
@@ -435,7 +436,7 @@ bpn8797 «[繁體中文](../zh-Hant/prayers/#bpn8797)»
 
 -- Abdu'l-Bahá
 
-bpn8798 «[繁體中文](../zh-Hant/prayers/#bpn8798)» 
+bpn8798 
 
 ----
 
@@ -449,7 +450,7 @@ bpn8798 «[繁體中文](../zh-Hant/prayers/#bpn8798)»
 
 -- Abdu'l-Bahá
 
-bpn8926 «[繁體中文](../zh-Hant/prayers/#bpn8926)» 
+bpn8926 
 
 ----
 
@@ -463,7 +464,7 @@ bpn8926 «[繁體中文](../zh-Hant/prayers/#bpn8926)»
 
 -- Bahá'u'lláh
 
-bpn8942 «[繁體中文](../zh-Hant/prayers/#bpn8942)» 
+bpn8942 
 
 ----
 
@@ -477,7 +478,7 @@ bpn8942 «[繁體中文](../zh-Hant/prayers/#bpn8942)»
 
 -- Bahá'u'lláh
 
-bpn8938 «[繁體中文](../zh-Hant/prayers/#bpn8938)» 
+bpn8938 
 
 ----
 
@@ -487,7 +488,7 @@ bpn8938 «[繁體中文](../zh-Hant/prayers/#bpn8938)»
 
 -- Abdu'l-Bahá
 
-bpn8939 «[繁體中文](../zh-Hant/prayers/#bpn8939)» 
+bpn8939 
 
 ----
 
@@ -501,7 +502,7 @@ bpn8939 «[繁體中文](../zh-Hant/prayers/#bpn8939)»
 
 -- Bahá'u'lláh
 
-bpn8901 «[繁體中文](../zh-Hant/prayers/#bpn8901)» 
+bpn8901 
 
 ----
 
@@ -511,7 +512,7 @@ bpn8901 «[繁體中文](../zh-Hant/prayers/#bpn8901)»
 
 -- Bahá'u'lláh
 
-bpn8902 «[繁體中文](../zh-Hant/prayers/#bpn8902)» 
+bpn8902 
 
 ----
 
@@ -521,7 +522,7 @@ bpn8902 «[繁體中文](../zh-Hant/prayers/#bpn8902)»
 
 -- Bahá'u'lláh
 
-bpn8903 «[繁體中文](../zh-Hant/prayers/#bpn8903)» 
+bpn8903 
 
 ----
 
@@ -531,7 +532,7 @@ bpn8903 «[繁體中文](../zh-Hant/prayers/#bpn8903)»
 
 -- Bahá'u'lláh
 
-bpn8904 «[繁體中文](../zh-Hant/prayers/#bpn8904)» 
+bpn8904 
 
 ----
 
@@ -541,7 +542,7 @@ bpn8904 «[繁體中文](../zh-Hant/prayers/#bpn8904)»
 
 -- Abdu'l-Bahá
 
-bpn8907 «[繁體中文](../zh-Hant/prayers/#bpn8907)» 
+bpn8907 
 
 ----
 
@@ -551,7 +552,7 @@ bpn8907 «[繁體中文](../zh-Hant/prayers/#bpn8907)»
 
 -- Abdu'l-Bahá
 
-bpn8908 «[繁體中文](../zh-Hant/prayers/#bpn8908)» 
+bpn8908 
 
 ----
 
@@ -565,7 +566,7 @@ bpn8908 «[繁體中文](../zh-Hant/prayers/#bpn8908)»
 
 -- Bahá'u'lláh
 
-bpn8822 «[繁體中文](../zh-Hant/prayers/#bpn8822)» 
+bpn8822 
 
 ----
 
@@ -575,7 +576,7 @@ bpn8822 «[繁體中文](../zh-Hant/prayers/#bpn8822)»
 
 -- Bahá'u'lláh
 
-bpn8823 «[繁體中文](../zh-Hant/prayers/#bpn8823)» 
+bpn8823 
 
 ----
 
@@ -585,7 +586,7 @@ bpn8823 «[繁體中文](../zh-Hant/prayers/#bpn8823)»
 
 -- Báb
 
-bpn8905 «[繁體中文](../zh-Hant/prayers/#bpn8905)» 
+bpn8905 
 
 ----
 
@@ -595,7 +596,7 @@ bpn8905 «[繁體中文](../zh-Hant/prayers/#bpn8905)»
 
 -- Báb
 
-bpn8906 «[繁體中文](../zh-Hant/prayers/#bpn8906)» 
+bpn8906 
 
 ----
 
@@ -605,7 +606,7 @@ bpn8906 «[繁體中文](../zh-Hant/prayers/#bpn8906)»
 
 -- Abdu'l-Bahá
 
-bpn8824 «[繁體中文](../zh-Hant/prayers/#bpn8824)» 
+bpn8824 
 
 ----
 
@@ -615,7 +616,7 @@ bpn8824 «[繁體中文](../zh-Hant/prayers/#bpn8824)»
 
 -- Abdu'l-Bahá
 
-bpn8825 «[繁體中文](../zh-Hant/prayers/#bpn8825)» 
+bpn8825 
 
 ----
 
@@ -625,7 +626,7 @@ bpn8825 «[繁體中文](../zh-Hant/prayers/#bpn8825)»
 
 -- Abdu'l-Bahá
 
-bpn8826 «[繁體中文](../zh-Hant/prayers/#bpn8826)» 
+bpn8826 
 
 ----
 
@@ -639,7 +640,7 @@ bpn8826 «[繁體中文](../zh-Hant/prayers/#bpn8826)»
 
 -- Abdu'l-Bahá
 
-bpn8838 «[繁體中文](../zh-Hant/prayers/#bpn8838)» 
+bpn8838 
 
 ----
 
@@ -653,7 +654,7 @@ bpn8838 «[繁體中文](../zh-Hant/prayers/#bpn8838)»
 
 -- Bahá'u'lláh
 
-bpn8851 «[繁體中文](../zh-Hant/prayers/#bpn8851)» 
+bpn8851 
 
 ----
 
@@ -663,7 +664,7 @@ bpn8851 «[繁體中文](../zh-Hant/prayers/#bpn8851)»
 
 -- Abdu'l-Bahá
 
-bpn8852 «[繁體中文](../zh-Hant/prayers/#bpn8852)» 
+bpn8852 
 
 ----
 
@@ -673,7 +674,7 @@ bpn8852 «[繁體中文](../zh-Hant/prayers/#bpn8852)»
 
 -- Abdu'l-Bahá
 
-bpn8853 «[繁體中文](../zh-Hant/prayers/#bpn8853)» 
+bpn8853 
 
 ----
 
@@ -683,7 +684,7 @@ bpn8853 «[繁體中文](../zh-Hant/prayers/#bpn8853)»
 
 -- Abdu'l-Bahá
 
-bpn8854 «[繁體中文](../zh-Hant/prayers/#bpn8854)» 
+bpn8854 
 
 ----
 
@@ -697,7 +698,7 @@ bpn8854 «[繁體中文](../zh-Hant/prayers/#bpn8854)»
 
 -- Bahá'u'lláh
 
-bpn8815 «[繁體中文](../zh-Hant/prayers/#bpn8815)» 
+bpn8815 
 
 ----
 
@@ -707,7 +708,7 @@ bpn8815 «[繁體中文](../zh-Hant/prayers/#bpn8815)»
 
 -- Báb
 
-bpn8816 «[繁體中文](../zh-Hant/prayers/#bpn8816)» 
+bpn8816 
 
 ----
 
@@ -717,7 +718,7 @@ bpn8816 «[繁體中文](../zh-Hant/prayers/#bpn8816)»
 
 -- Báb
 
-bpn8817 «[繁體中文](../zh-Hant/prayers/#bpn8817)» 
+bpn8817 
 
 ----
 
@@ -727,7 +728,7 @@ bpn8817 «[繁體中文](../zh-Hant/prayers/#bpn8817)»
 
 -- Báb
 
-bpn8818 «[繁體中文](../zh-Hant/prayers/#bpn8818)» 
+bpn8818 
 
 ----
 
@@ -737,7 +738,7 @@ bpn8818 «[繁體中文](../zh-Hant/prayers/#bpn8818)»
 
 -- Abdu'l-Bahá
 
-bpn8819 «[繁體中文](../zh-Hant/prayers/#bpn8819)» 
+bpn8819 
 
 ----
 
@@ -747,7 +748,7 @@ bpn8819 «[繁體中文](../zh-Hant/prayers/#bpn8819)»
 
 -- Abdu'l-Bahá
 
-bpn8820 «[繁體中文](../zh-Hant/prayers/#bpn8820)» 
+bpn8820 
 
 ----
 
@@ -757,7 +758,7 @@ bpn8820 «[繁體中文](../zh-Hant/prayers/#bpn8820)»
 
 -- Abdu'l-Bahá
 
-bpn8821 «[繁體中文](../zh-Hant/prayers/#bpn8821)» 
+bpn8821 
 
 ----
 
@@ -771,7 +772,7 @@ bpn8821 «[繁體中文](../zh-Hant/prayers/#bpn8821)»
 
 -- Bahá'u'lláh
 
-bpn8812 «[繁體中文](../zh-Hant/prayers/#bpn8812)» 
+bpn8812 
 
 ----
 
@@ -781,7 +782,7 @@ bpn8812 «[繁體中文](../zh-Hant/prayers/#bpn8812)»
 
 -- Bahá'u'lláh
 
-bpn8813 «[繁體中文](../zh-Hant/prayers/#bpn8813)» 
+bpn8813 
 
 ----
 
@@ -791,7 +792,7 @@ bpn8813 «[繁體中文](../zh-Hant/prayers/#bpn8813)»
 
 -- Abdu'l-Bahá
 
-bpn8814 «[繁體中文](../zh-Hant/prayers/#bpn8814)» 
+bpn8814 
 
 ----
 
@@ -805,7 +806,7 @@ bpn8814 «[繁體中文](../zh-Hant/prayers/#bpn8814)»
 
 -- Bahá'u'lláh
 
-bpn8862 «[繁體中文](../zh-Hant/prayers/#bpn8862)» 
+bpn8862 
 
 ----
 
@@ -815,7 +816,7 @@ bpn8862 «[繁體中文](../zh-Hant/prayers/#bpn8862)»
 
 -- Bahá'u'lláh
 
-bpn8863 «[繁體中文](../zh-Hant/prayers/#bpn8863)» 
+bpn8863 
 
 ----
 
@@ -825,7 +826,7 @@ bpn8863 «[繁體中文](../zh-Hant/prayers/#bpn8863)»
 
 -- Bahá'u'lláh
 
-bpn8864 «[繁體中文](../zh-Hant/prayers/#bpn8864)» 
+bpn8864 
 
 ----
 
@@ -835,7 +836,7 @@ bpn8864 «[繁體中文](../zh-Hant/prayers/#bpn8864)»
 
 -- Bahá'u'lláh
 
-bpn8865 «[繁體中文](../zh-Hant/prayers/#bpn8865)» 
+bpn8865 
 
 ----
 
@@ -849,7 +850,7 @@ bpn8865 «[繁體中文](../zh-Hant/prayers/#bpn8865)»
 
 -- Bahá'u'lláh
 
-bpn8945 «[繁體中文](../zh-Hant/prayers/#bpn8945)» 
+bpn8945 
 
 ----
 
@@ -859,7 +860,7 @@ bpn8945 «[繁體中文](../zh-Hant/prayers/#bpn8945)»
 
 -- Abdu'l-Bahá
 
-bpn8946 «[繁體中文](../zh-Hant/prayers/#bpn8946)» 
+bpn8946 
 
 ----
 
@@ -873,7 +874,7 @@ bpn8946 «[繁體中文](../zh-Hant/prayers/#bpn8946)»
 
 -- Abdu'l-Bahá
 
-bpn8955 «[繁體中文](../zh-Hant/prayers/#bpn8955)» 
+bpn8955 
 
 ----
 
@@ -887,7 +888,7 @@ bpn8955 «[繁體中文](../zh-Hant/prayers/#bpn8955)»
 
 -- Bahá'u'lláh
 
-bpn8799 «[繁體中文](../zh-Hant/prayers/#bpn8799)» 
+bpn8799 
 
 ----
 
@@ -897,7 +898,7 @@ bpn8799 «[繁體中文](../zh-Hant/prayers/#bpn8799)»
 
 -- Bahá'u'lláh
 
-bpn8800 «[繁體中文](../zh-Hant/prayers/#bpn8800)» 
+bpn8800 
 
 ----
 
@@ -907,7 +908,7 @@ bpn8800 «[繁體中文](../zh-Hant/prayers/#bpn8800)»
 
 -- Bahá'u'lláh
 
-bpn8801 «[繁體中文](../zh-Hant/prayers/#bpn8801)» 
+bpn8801 
 
 ----
 
@@ -921,7 +922,7 @@ bpn8801 «[繁體中文](../zh-Hant/prayers/#bpn8801)»
 
 -- Bahá'u'lláh
 
-bpn8772 «[繁體中文](../zh-Hant/prayers/#bpn8772)» 
+bpn8772 
 
 ----
 
@@ -935,7 +936,7 @@ bpn8772 «[繁體中文](../zh-Hant/prayers/#bpn8772)»
 
 -- Bahá'u'lláh
 
-bpn8827 «[繁體中文](../zh-Hant/prayers/#bpn8827)» 
+bpn8827 
 
 ----
 
@@ -945,7 +946,7 @@ bpn8827 «[繁體中文](../zh-Hant/prayers/#bpn8827)»
 
 -- Bahá'u'lláh
 
-bpn8828 «[繁體中文](../zh-Hant/prayers/#bpn8828)» 
+bpn8828 
 
 ----
 
@@ -955,7 +956,7 @@ bpn8828 «[繁體中文](../zh-Hant/prayers/#bpn8828)»
 
 -- Bahá'u'lláh
 
-bpn8829 «[繁體中文](../zh-Hant/prayers/#bpn8829)» 
+bpn8829 
 
 ----
 
@@ -965,7 +966,7 @@ bpn8829 «[繁體中文](../zh-Hant/prayers/#bpn8829)»
 
 -- Bahá'u'lláh
 
-bpn8830 «[繁體中文](../zh-Hant/prayers/#bpn8830)» 
+bpn8830 
 
 ----
 
@@ -975,7 +976,7 @@ bpn8830 «[繁體中文](../zh-Hant/prayers/#bpn8830)»
 
 -- Bahá'u'lláh
 
-bpn8831 «[繁體中文](../zh-Hant/prayers/#bpn8831)» 
+bpn8831 
 
 ----
 
@@ -985,7 +986,7 @@ bpn8831 «[繁體中文](../zh-Hant/prayers/#bpn8831)»
 
 -- Báb
 
-bpn8832 «[繁體中文](../zh-Hant/prayers/#bpn8832)» 
+bpn8832 
 
 ----
 
@@ -995,7 +996,7 @@ bpn8832 «[繁體中文](../zh-Hant/prayers/#bpn8832)»
 
 -- Báb
 
-bpn8833 «[繁體中文](../zh-Hant/prayers/#bpn8833)» 
+bpn8833 
 
 ----
 
@@ -1005,7 +1006,7 @@ bpn8833 «[繁體中文](../zh-Hant/prayers/#bpn8833)»
 
 -- Báb
 
-bpn8834 «[繁體中文](../zh-Hant/prayers/#bpn8834)» 
+bpn8834 
 
 ----
 
@@ -1015,7 +1016,7 @@ bpn8834 «[繁體中文](../zh-Hant/prayers/#bpn8834)»
 
 -- Báb
 
-bpn8835 «[繁體中文](../zh-Hant/prayers/#bpn8835)» 
+bpn8835 
 
 ----
 
@@ -1025,7 +1026,7 @@ bpn8835 «[繁體中文](../zh-Hant/prayers/#bpn8835)»
 
 -- Báb
 
-bpn8836 «[繁體中文](../zh-Hant/prayers/#bpn8836)» 
+bpn8836 
 
 ----
 
@@ -1035,7 +1036,7 @@ bpn8836 «[繁體中文](../zh-Hant/prayers/#bpn8836)»
 
 -- Abdu'l-Bahá
 
-bpn8837 «[繁體中文](../zh-Hant/prayers/#bpn8837)» 
+bpn8837 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn8837 «[繁體中文](../zh-Hant/prayers/#bpn8837)»
 
 -- Bahá'u'lláh
 
-bpn8873 «[繁體中文](../zh-Hant/prayers/#bpn8873)» 
+bpn8873 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn8873 «[繁體中文](../zh-Hant/prayers/#bpn8873)»
 
 -- Bahá'u'lláh
 
-bpn8874 «[繁體中文](../zh-Hant/prayers/#bpn8874)» 
+bpn8874 
 
 ----
 
@@ -1069,7 +1070,7 @@ bpn8874 «[繁體中文](../zh-Hant/prayers/#bpn8874)»
 
 -- Bahá'u'lláh
 
-bpn8875 «[繁體中文](../zh-Hant/prayers/#bpn8875)» 
+bpn8875 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn8875 «[繁體中文](../zh-Hant/prayers/#bpn8875)»
 
 -- Bahá'u'lláh
 
-bpn8876 «[繁體中文](../zh-Hant/prayers/#bpn8876)» 
+bpn8876 
 
 ----
 
@@ -1089,7 +1090,7 @@ bpn8876 «[繁體中文](../zh-Hant/prayers/#bpn8876)»
 
 -- Báb
 
-bpn8877 «[繁體中文](../zh-Hant/prayers/#bpn8877)» 
+bpn8877 
 
 ----
 
@@ -1099,7 +1100,7 @@ bpn8877 «[繁體中文](../zh-Hant/prayers/#bpn8877)»
 
 -- Báb
 
-bpn8878 «[繁體中文](../zh-Hant/prayers/#bpn8878)» 
+bpn8878 
 
 ----
 
@@ -1109,7 +1110,7 @@ bpn8878 «[繁體中文](../zh-Hant/prayers/#bpn8878)»
 
 -- Báb
 
-bpn8879 «[繁體中文](../zh-Hant/prayers/#bpn8879)» 
+bpn8879 
 
 ----
 
@@ -1123,7 +1124,7 @@ bpn8879 «[繁體中文](../zh-Hant/prayers/#bpn8879)»
 
 -- Bahá'u'lláh
 
-bpn8839 «[繁體中文](../zh-Hant/prayers/#bpn8839)» 
+bpn8839 
 
 ----
 
@@ -1133,7 +1134,7 @@ bpn8839 «[繁體中文](../zh-Hant/prayers/#bpn8839)»
 
 -- Bahá'u'lláh
 
-bpn8840 «[繁體中文](../zh-Hant/prayers/#bpn8840)» 
+bpn8840 
 
 ----
 
@@ -1143,7 +1144,7 @@ bpn8840 «[繁體中文](../zh-Hant/prayers/#bpn8840)»
 
 -- Bahá'u'lláh
 
-bpn8841 «[繁體中文](../zh-Hant/prayers/#bpn8841)» 
+bpn8841 
 
 ----
 
@@ -1153,7 +1154,7 @@ bpn8841 «[繁體中文](../zh-Hant/prayers/#bpn8841)»
 
 -- Bahá'u'lláh
 
-bpn8842 «[繁體中文](../zh-Hant/prayers/#bpn8842)» 
+bpn8842 
 
 ----
 
@@ -1163,7 +1164,7 @@ bpn8842 «[繁體中文](../zh-Hant/prayers/#bpn8842)»
 
 -- Bahá'u'lláh
 
-bpn8843 «[繁體中文](../zh-Hant/prayers/#bpn8843)» 
+bpn8843 
 
 ----
 
@@ -1173,7 +1174,7 @@ bpn8843 «[繁體中文](../zh-Hant/prayers/#bpn8843)»
 
 -- Bahá'u'lláh
 
-bpn8844 «[繁體中文](../zh-Hant/prayers/#bpn8844)» 
+bpn8844 
 
 ----
 
@@ -1183,7 +1184,7 @@ bpn8844 «[繁體中文](../zh-Hant/prayers/#bpn8844)»
 
 -- Abdu'l-Bahá
 
-bpn8880 «[繁體中文](../zh-Hant/prayers/#bpn8880)» 
+bpn8880 
 
 ----
 
@@ -1193,7 +1194,7 @@ bpn8880 «[繁體中文](../zh-Hant/prayers/#bpn8880)»
 
 -- Abdu'l-Bahá
 
-bpn8881 «[繁體中文](../zh-Hant/prayers/#bpn8881)» 
+bpn8881 
 
 ----
 
@@ -1207,7 +1208,7 @@ bpn8881 «[繁體中文](../zh-Hant/prayers/#bpn8881)»
 
 -- Bahá'u'lláh
 
-bpn8775 «[繁體中文](../zh-Hant/prayers/#bpn8775)» 
+bpn8775 
 
 ----
 
@@ -1217,7 +1218,7 @@ bpn8775 «[繁體中文](../zh-Hant/prayers/#bpn8775)»
 
 -- Bahá'u'lláh
 
-bpn8776 «[繁體中文](../zh-Hant/prayers/#bpn8776)» 
+bpn8776 
 
 ----
 
@@ -1227,7 +1228,7 @@ bpn8776 «[繁體中文](../zh-Hant/prayers/#bpn8776)»
 
 -- Báb
 
-bpn8777 «[繁體中文](../zh-Hant/prayers/#bpn8777)» 
+bpn8777 
 
 ----
 
@@ -1237,7 +1238,7 @@ bpn8777 «[繁體中文](../zh-Hant/prayers/#bpn8777)»
 
 -- Báb
 
-bpn8778 «[繁體中文](../zh-Hant/prayers/#bpn8778)» 
+bpn8778 
 
 ----
 
@@ -1247,7 +1248,7 @@ bpn8778 «[繁體中文](../zh-Hant/prayers/#bpn8778)»
 
 -- Abdu'l-Bahá
 
-bpn8779 «[繁體中文](../zh-Hant/prayers/#bpn8779)» 
+bpn8779 
 
 ----
 
@@ -1257,7 +1258,7 @@ bpn8779 «[繁體中文](../zh-Hant/prayers/#bpn8779)»
 
 -- Abdu'l-Bahá
 
-bpn8780 «[繁體中文](../zh-Hant/prayers/#bpn8780)» 
+bpn8780 
 
 ----
 
@@ -1267,7 +1268,7 @@ bpn8780 «[繁體中文](../zh-Hant/prayers/#bpn8780)»
 
 -- Abdu'l-Bahá
 
-bpn8781 «[繁體中文](../zh-Hant/prayers/#bpn8781)» 
+bpn8781 
 
 ----
 
@@ -1281,7 +1282,7 @@ bpn8781 «[繁體中文](../zh-Hant/prayers/#bpn8781)»
 
 -- Bahá'u'lláh
 
-bpn8941 «[繁體中文](../zh-Hant/prayers/#bpn8941)» 
+bpn8941 
 
 ----
 
@@ -1295,7 +1296,7 @@ bpn8941 «[繁體中文](../zh-Hant/prayers/#bpn8941)»
 
 -- Bahá'u'lláh
 
-bpn8944 «[繁體中文](../zh-Hant/prayers/#bpn8944)» 
+bpn8944 
 
 ----
 
@@ -1309,7 +1310,7 @@ bpn8944 «[繁體中文](../zh-Hant/prayers/#bpn8944)»
 
 -- Bahá'u'lláh
 
-bpn8872 «[繁體中文](../zh-Hant/prayers/#bpn8872)» 
+bpn8872 
 
 ----
 
@@ -1323,7 +1324,7 @@ bpn8872 «[繁體中文](../zh-Hant/prayers/#bpn8872)»
 
 -- Bahá'u'lláh
 
-bpn8931 «[繁體中文](../zh-Hant/prayers/#bpn8931)» 
+bpn8931 
 
 ----
 
@@ -1333,7 +1334,7 @@ bpn8931 «[繁體中文](../zh-Hant/prayers/#bpn8931)»
 
 -- Báb
 
-bpn8932 «[繁體中文](../zh-Hant/prayers/#bpn8932)» 
+bpn8932 
 
 ----
 
@@ -1343,7 +1344,7 @@ bpn8932 «[繁體中文](../zh-Hant/prayers/#bpn8932)»
 
 -- Báb
 
-bpn8933 «[繁體中文](../zh-Hant/prayers/#bpn8933)» 
+bpn8933 
 
 ----
 
@@ -1353,7 +1354,7 @@ bpn8933 «[繁體中文](../zh-Hant/prayers/#bpn8933)»
 
 -- Báb
 
-bpn8934 «[繁體中文](../zh-Hant/prayers/#bpn8934)» 
+bpn8934 
 
 ----
 
@@ -1363,7 +1364,7 @@ bpn8934 «[繁體中文](../zh-Hant/prayers/#bpn8934)»
 
 -- Báb
 
-bpn8935 «[繁體中文](../zh-Hant/prayers/#bpn8935)» 
+bpn8935 
 
 ----
 
@@ -1373,7 +1374,7 @@ bpn8935 «[繁體中文](../zh-Hant/prayers/#bpn8935)»
 
 -- Abdu'l-Bahá
 
-bpn8936 «[繁體中文](../zh-Hant/prayers/#bpn8936)» 
+bpn8936 
 
 ----
 
@@ -1383,7 +1384,7 @@ bpn8936 «[繁體中文](../zh-Hant/prayers/#bpn8936)»
 
 -- Abdu'l-Bahá
 
-bpn8937 «[繁體中文](../zh-Hant/prayers/#bpn8937)» 
+bpn8937 
 
 ----
 
@@ -1397,7 +1398,7 @@ bpn8937 «[繁體中文](../zh-Hant/prayers/#bpn8937)»
 
 -- Bahá'u'lláh
 
-bpn8855 «[繁體中文](../zh-Hant/prayers/#bpn8855)» 
+bpn8855 
 
 ----
 
@@ -1407,7 +1408,7 @@ bpn8855 «[繁體中文](../zh-Hant/prayers/#bpn8855)»
 
 -- Abdu'l-Bahá
 
-bpn8856 «[繁體中文](../zh-Hant/prayers/#bpn8856)» 
+bpn8856 
 
 ----
 
@@ -1417,7 +1418,7 @@ bpn8856 «[繁體中文](../zh-Hant/prayers/#bpn8856)»
 
 -- Abdu'l-Bahá
 
-bpn8857 «[繁體中文](../zh-Hant/prayers/#bpn8857)» 
+bpn8857 
 
 ----
 
@@ -1427,7 +1428,7 @@ bpn8857 «[繁體中文](../zh-Hant/prayers/#bpn8857)»
 
 -- Abdu'l-Bahá
 
-bpn8858 «[繁體中文](../zh-Hant/prayers/#bpn8858)» 
+bpn8858 
 
 ----
 
@@ -1437,7 +1438,7 @@ bpn8858 «[繁體中文](../zh-Hant/prayers/#bpn8858)»
 
 -- Abdu'l-Bahá
 
-bpn8859 «[繁體中文](../zh-Hant/prayers/#bpn8859)» 
+bpn8859 
 
 ----
 
@@ -1447,7 +1448,7 @@ bpn8859 «[繁體中文](../zh-Hant/prayers/#bpn8859)»
 
 -- Abdu'l-Bahá
 
-bpn8860 «[繁體中文](../zh-Hant/prayers/#bpn8860)» 
+bpn8860 
 
 ----
 
@@ -1457,7 +1458,7 @@ bpn8860 «[繁體中文](../zh-Hant/prayers/#bpn8860)»
 
 -- Abdu'l-Bahá
 
-bpn8861 «[繁體中文](../zh-Hant/prayers/#bpn8861)» 
+bpn8861 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn8861 «[繁體中文](../zh-Hant/prayers/#bpn8861)»
 
 -- Bahá'u'lláh
 
-bpn8940 «[繁體中文](../zh-Hant/prayers/#bpn8940)» 
+bpn8940 
 
 ----
 
@@ -1485,7 +1486,7 @@ bpn8940 «[繁體中文](../zh-Hant/prayers/#bpn8940)»
 
 -- Abdu'l-Bahá
 
-bpn8956 «[繁體中文](../zh-Hant/prayers/#bpn8956)» 
+bpn8956 
 
 ----
 
@@ -1499,7 +1500,7 @@ bpn8956 «[繁體中文](../zh-Hant/prayers/#bpn8956)»
 
 -- Bahá'u'lláh
 
-bpn8782 «[繁體中文](../zh-Hant/prayers/#bpn8782)» 
+bpn8782 
 
 ----
 
@@ -1509,7 +1510,7 @@ bpn8782 «[繁體中文](../zh-Hant/prayers/#bpn8782)»
 
 -- Bahá'u'lláh
 
-bpn8783 «[繁體中文](../zh-Hant/prayers/#bpn8783)» 
+bpn8783 
 
 ----
 
@@ -1519,7 +1520,7 @@ bpn8783 «[繁體中文](../zh-Hant/prayers/#bpn8783)»
 
 -- Báb
 
-bpn8784 «[繁體中文](../zh-Hant/prayers/#bpn8784)» 
+bpn8784 
 
 ----
 
@@ -1529,7 +1530,7 @@ bpn8784 «[繁體中文](../zh-Hant/prayers/#bpn8784)»
 
 -- Báb
 
-bpn8785 «[繁體中文](../zh-Hant/prayers/#bpn8785)» 
+bpn8785 
 
 ----
 
@@ -1539,7 +1540,7 @@ bpn8785 «[繁體中文](../zh-Hant/prayers/#bpn8785)»
 
 -- Báb
 
-bpn8786 «[繁體中文](../zh-Hant/prayers/#bpn8786)» 
+bpn8786 
 
 ----
 
@@ -1549,7 +1550,7 @@ bpn8786 «[繁體中文](../zh-Hant/prayers/#bpn8786)»
 
 -- Abdu'l-Bahá
 
-bpn8787 «[繁體中文](../zh-Hant/prayers/#bpn8787)» 
+bpn8787 
 
 ----
 
@@ -1559,7 +1560,7 @@ bpn8787 «[繁體中文](../zh-Hant/prayers/#bpn8787)»
 
 -- Abdu'l-Bahá
 
-bpn8788 «[繁體中文](../zh-Hant/prayers/#bpn8788)» 
+bpn8788 
 
 ----
 
@@ -1569,7 +1570,7 @@ bpn8788 «[繁體中文](../zh-Hant/prayers/#bpn8788)»
 
 -- Abdu'l-Bahá
 
-bpn8789 «[繁體中文](../zh-Hant/prayers/#bpn8789)» 
+bpn8789 
 
 ----
 
@@ -1583,7 +1584,7 @@ bpn8789 «[繁體中文](../zh-Hant/prayers/#bpn8789)»
 
 -- Bahá'u'lláh
 
-bpn8927 «[繁體中文](../zh-Hant/prayers/#bpn8927)» 
+bpn8927 
 
 ----
 
@@ -1593,7 +1594,7 @@ bpn8927 «[繁體中文](../zh-Hant/prayers/#bpn8927)»
 
 -- Bahá'u'lláh
 
-bpn8928 «[繁體中文](../zh-Hant/prayers/#bpn8928)» 
+bpn8928 
 
 ----
 
@@ -1603,7 +1604,7 @@ bpn8928 «[繁體中文](../zh-Hant/prayers/#bpn8928)»
 
 -- Bahá'u'lláh
 
-bpn8929 «[繁體中文](../zh-Hant/prayers/#bpn8929)» 
+bpn8929 
 
 ----
 
@@ -1613,7 +1614,7 @@ bpn8929 «[繁體中文](../zh-Hant/prayers/#bpn8929)»
 
 -- Báb
 
-bpn8930 «[繁體中文](../zh-Hant/prayers/#bpn8930)» 
+bpn8930 
 
 ----
 
@@ -1627,7 +1628,7 @@ bpn8930 «[繁體中文](../zh-Hant/prayers/#bpn8930)»
 
 -- Bahá'u'lláh
 
-bpn8954 «[繁體中文](../zh-Hant/prayers/#bpn8954)» 
+bpn8954 
 
 ----
 
@@ -1641,7 +1642,7 @@ bpn8954 «[繁體中文](../zh-Hant/prayers/#bpn8954)»
 
 -- Bahá'u'lláh
 
-bpn8866 «[繁體中文](../zh-Hant/prayers/#bpn8866)» 
+bpn8866 
 
 ----
 
@@ -1651,7 +1652,7 @@ bpn8866 «[繁體中文](../zh-Hant/prayers/#bpn8866)»
 
 -- Bahá'u'lláh
 
-bpn8867 «[繁體中文](../zh-Hant/prayers/#bpn8867)» 
+bpn8867 
 
 ----
 
@@ -1661,7 +1662,7 @@ bpn8867 «[繁體中文](../zh-Hant/prayers/#bpn8867)»
 
 -- Bahá'u'lláh
 
-bpn8868 «[繁體中文](../zh-Hant/prayers/#bpn8868)» 
+bpn8868 
 
 ----
 
@@ -1671,7 +1672,7 @@ bpn8868 «[繁體中文](../zh-Hant/prayers/#bpn8868)»
 
 -- Bahá'u'lláh
 
-bpn8869 «[繁體中文](../zh-Hant/prayers/#bpn8869)» 
+bpn8869 
 
 ----
 
@@ -1681,7 +1682,7 @@ bpn8869 «[繁體中文](../zh-Hant/prayers/#bpn8869)»
 
 -- Bahá'u'lláh
 
-bpn8870 «[繁體中文](../zh-Hant/prayers/#bpn8870)» 
+bpn8870 
 
 ----
 
@@ -1691,7 +1692,7 @@ bpn8870 «[繁體中文](../zh-Hant/prayers/#bpn8870)»
 
 -- Báb
 
-bpn8871 «[繁體中文](../zh-Hant/prayers/#bpn8871)» 
+bpn8871 
 
 ----
 
@@ -1705,7 +1706,7 @@ bpn8871 «[繁體中文](../zh-Hant/prayers/#bpn8871)»
 
 -- Bahá'u'lláh
 
-bpn8802 «[繁體中文](../zh-Hant/prayers/#bpn8802)» 
+bpn8802 
 
 ----
 
@@ -1715,7 +1716,7 @@ bpn8802 «[繁體中文](../zh-Hant/prayers/#bpn8802)»
 
 -- Bahá'u'lláh
 
-bpn8803 «[繁體中文](../zh-Hant/prayers/#bpn8803)» 
+bpn8803 
 
 ----
 
@@ -1725,7 +1726,7 @@ bpn8803 «[繁體中文](../zh-Hant/prayers/#bpn8803)»
 
 -- Bahá'u'lláh
 
-bpn8804 «[繁體中文](../zh-Hant/prayers/#bpn8804)» 
+bpn8804 
 
 ----
 
@@ -1735,7 +1736,7 @@ bpn8804 «[繁體中文](../zh-Hant/prayers/#bpn8804)»
 
 -- Bahá'u'lláh
 
-bpn8805 «[繁體中文](../zh-Hant/prayers/#bpn8805)» 
+bpn8805 
 
 ----
 
@@ -1745,7 +1746,7 @@ bpn8805 «[繁體中文](../zh-Hant/prayers/#bpn8805)»
 
 -- Bahá'u'lláh
 
-bpn8806 «[繁體中文](../zh-Hant/prayers/#bpn8806)» 
+bpn8806 
 
 ----
 
@@ -1755,7 +1756,7 @@ bpn8806 «[繁體中文](../zh-Hant/prayers/#bpn8806)»
 
 -- Bahá'u'lláh
 
-bpn8807 «[繁體中文](../zh-Hant/prayers/#bpn8807)» 
+bpn8807 
 
 ----
 
@@ -1765,7 +1766,7 @@ bpn8807 «[繁體中文](../zh-Hant/prayers/#bpn8807)»
 
 -- Báb
 
-bpn8808 «[繁體中文](../zh-Hant/prayers/#bpn8808)» 
+bpn8808 
 
 ----
 
@@ -1775,7 +1776,7 @@ bpn8808 «[繁體中文](../zh-Hant/prayers/#bpn8808)»
 
 -- Báb
 
-bpn8809 «[繁體中文](../zh-Hant/prayers/#bpn8809)» 
+bpn8809 
 
 ----
 
@@ -1785,7 +1786,7 @@ bpn8809 «[繁體中文](../zh-Hant/prayers/#bpn8809)»
 
 -- Abdu'l-Bahá
 
-bpn8810 «[繁體中文](../zh-Hant/prayers/#bpn8810)» 
+bpn8810 
 
 ----
 
@@ -1795,7 +1796,7 @@ bpn8810 «[繁體中文](../zh-Hant/prayers/#bpn8810)»
 
 -- Abdu'l-Bahá
 
-bpn8811 «[繁體中文](../zh-Hant/prayers/#bpn8811)» 
+bpn8811 
 
 ----
 
@@ -1809,7 +1810,7 @@ bpn8811 «[繁體中文](../zh-Hant/prayers/#bpn8811)»
 
 -- Bahá'u'lláh
 
-bpn8943 «[繁體中文](../zh-Hant/prayers/#bpn8943)» 
+bpn8943 
 
 ----
 
@@ -1823,7 +1824,7 @@ bpn8943 «[繁體中文](../zh-Hant/prayers/#bpn8943)»
 
 -- Bahá'u'lláh
 
-bpn8774 «[繁體中文](../zh-Hant/prayers/#bpn8774)» 
+bpn8774 
 
 ----
 
@@ -1837,7 +1838,7 @@ bpn8774 «[繁體中文](../zh-Hant/prayers/#bpn8774)»
 
 -- Bahá'u'lláh
 
-bpn8845 «[繁體中文](../zh-Hant/prayers/#bpn8845)» 
+bpn8845 
 
 ----
 
@@ -1851,7 +1852,7 @@ bpn8845 «[繁體中文](../zh-Hant/prayers/#bpn8845)»
 
 -- Bahá'u'lláh
 
-bpn8948 «[繁體中文](../zh-Hant/prayers/#bpn8948)» 
+bpn8948 
 
 ----
 
@@ -1865,7 +1866,7 @@ bpn8948 «[繁體中文](../zh-Hant/prayers/#bpn8948)»
 
 -- Bahá'u'lláh
 
-bpn8884 «[繁體中文](../zh-Hant/prayers/#bpn8884)» 
+bpn8884 
 
 ----
 
@@ -1875,7 +1876,7 @@ bpn8884 «[繁體中文](../zh-Hant/prayers/#bpn8884)»
 
 -- Bahá'u'lláh
 
-bpn8885 «[繁體中文](../zh-Hant/prayers/#bpn8885)» 
+bpn8885 
 
 ----
 
@@ -1885,7 +1886,7 @@ bpn8885 «[繁體中文](../zh-Hant/prayers/#bpn8885)»
 
 -- Bahá'u'lláh
 
-bpn8886 «[繁體中文](../zh-Hant/prayers/#bpn8886)» 
+bpn8886 
 
 ----
 
@@ -1895,7 +1896,7 @@ bpn8886 «[繁體中文](../zh-Hant/prayers/#bpn8886)»
 
 -- Bahá'u'lláh
 
-bpn8887 «[繁體中文](../zh-Hant/prayers/#bpn8887)» 
+bpn8887 
 
 ----
 
@@ -1905,7 +1906,7 @@ bpn8887 «[繁體中文](../zh-Hant/prayers/#bpn8887)»
 
 -- Bahá'u'lláh
 
-bpn8888 «[繁體中文](../zh-Hant/prayers/#bpn8888)» 
+bpn8888 
 
 ----
 
@@ -1915,7 +1916,7 @@ bpn8888 «[繁體中文](../zh-Hant/prayers/#bpn8888)»
 
 -- Bahá'u'lláh
 
-bpn8889 «[繁體中文](../zh-Hant/prayers/#bpn8889)» 
+bpn8889 
 
 ----
 
@@ -1925,7 +1926,7 @@ bpn8889 «[繁體中文](../zh-Hant/prayers/#bpn8889)»
 
 -- Bahá'u'lláh
 
-bpn8890 «[繁體中文](../zh-Hant/prayers/#bpn8890)» 
+bpn8890 
 
 ----
 
@@ -1935,7 +1936,7 @@ bpn8890 «[繁體中文](../zh-Hant/prayers/#bpn8890)»
 
 -- Bahá'u'lláh
 
-bpn8891 «[繁體中文](../zh-Hant/prayers/#bpn8891)» 
+bpn8891 
 
 ----
 
@@ -1945,7 +1946,7 @@ bpn8891 «[繁體中文](../zh-Hant/prayers/#bpn8891)»
 
 -- Báb
 
-bpn8892 «[繁體中文](../zh-Hant/prayers/#bpn8892)» 
+bpn8892 
 
 ----
 
@@ -1955,7 +1956,7 @@ bpn8892 «[繁體中文](../zh-Hant/prayers/#bpn8892)»
 
 -- Abdu'l-Bahá
 
-bpn8893 «[繁體中文](../zh-Hant/prayers/#bpn8893)» 
+bpn8893 
 
 ----
 
@@ -1965,7 +1966,7 @@ bpn8893 «[繁體中文](../zh-Hant/prayers/#bpn8893)»
 
 -- Abdu'l-Bahá
 
-bpn8894 «[繁體中文](../zh-Hant/prayers/#bpn8894)» 
+bpn8894 
 
 ----
 
@@ -1975,7 +1976,7 @@ bpn8894 «[繁體中文](../zh-Hant/prayers/#bpn8894)»
 
 -- Abdu'l-Bahá
 
-bpn8895 «[繁體中文](../zh-Hant/prayers/#bpn8895)» 
+bpn8895 
 
 ----
 
@@ -1985,7 +1986,7 @@ bpn8895 «[繁體中文](../zh-Hant/prayers/#bpn8895)»
 
 -- Abdu'l-Bahá
 
-bpn8896 «[繁體中文](../zh-Hant/prayers/#bpn8896)» 
+bpn8896 
 
 ----
 
@@ -1995,7 +1996,7 @@ bpn8896 «[繁體中文](../zh-Hant/prayers/#bpn8896)»
 
 -- Abdu'l-Bahá
 
-bpn8897 «[繁體中文](../zh-Hant/prayers/#bpn8897)» 
+bpn8897 
 
 ----
 
@@ -2005,7 +2006,7 @@ bpn8897 «[繁體中文](../zh-Hant/prayers/#bpn8897)»
 
 -- Abdu'l-Bahá
 
-bpn8898 «[繁體中文](../zh-Hant/prayers/#bpn8898)» 
+bpn8898 
 
 ----
 
@@ -2015,7 +2016,7 @@ bpn8898 «[繁體中文](../zh-Hant/prayers/#bpn8898)»
 
 -- Abdu'l-Bahá
 
-bpn8899 «[繁體中文](../zh-Hant/prayers/#bpn8899)» 
+bpn8899 
 
 ----
 
@@ -2025,7 +2026,7 @@ bpn8899 «[繁體中文](../zh-Hant/prayers/#bpn8899)»
 
 -- Abdu'l-Bahá
 
-bpn8900 «[繁體中文](../zh-Hant/prayers/#bpn8900)» 
+bpn8900 
 
 ----
 
@@ -2039,7 +2040,7 @@ bpn8900 «[繁體中文](../zh-Hant/prayers/#bpn8900)»
 
 -- Abdu'l-Bahá
 
-bpn8882 «[繁體中文](../zh-Hant/prayers/#bpn8882)» 
+bpn8882 
 
 ----
 
@@ -2049,7 +2050,7 @@ bpn8882 «[繁體中文](../zh-Hant/prayers/#bpn8882)»
 
 -- Abdu'l-Bahá
 
-bpn8883 «[繁體中文](../zh-Hant/prayers/#bpn8883)» 
+bpn8883 
 
 ----
 
@@ -2063,7 +2064,7 @@ bpn8883 «[繁體中文](../zh-Hant/prayers/#bpn8883)»
 
 -- Bahá'u'lláh
 
-bpn8949 «[繁體中文](../zh-Hant/prayers/#bpn8949)» 
+bpn8949 
 
 ----
 
@@ -2073,7 +2074,7 @@ bpn8949 «[繁體中文](../zh-Hant/prayers/#bpn8949)»
 
 -- Bahá'u'lláh
 
-bpn8950 «[繁體中文](../zh-Hant/prayers/#bpn8950)» 
+bpn8950 
 
 ----
 
@@ -2083,7 +2084,7 @@ bpn8950 «[繁體中文](../zh-Hant/prayers/#bpn8950)»
 
 -- Bahá'u'lláh
 
-bpn8951 «[繁體中文](../zh-Hant/prayers/#bpn8951)» 
+bpn8951 
 
 ----
 
@@ -2093,7 +2094,7 @@ bpn8951 «[繁體中文](../zh-Hant/prayers/#bpn8951)»
 
 -- Bahá'u'lláh
 
-bpn8952 «[繁體中文](../zh-Hant/prayers/#bpn8952)» 
+bpn8952 
 
 ----
 
@@ -2103,7 +2104,7 @@ bpn8952 «[繁體中文](../zh-Hant/prayers/#bpn8952)»
 
 -- Abdu'l-Bahá
 
-bpn8953 «[繁體中文](../zh-Hant/prayers/#bpn8953)» 
+bpn8953 
 
 ----
 

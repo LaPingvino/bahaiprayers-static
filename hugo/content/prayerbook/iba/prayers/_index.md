@@ -5,6 +5,7 @@ tags = ['lang=iba', 'prayerbook']
 
 
 
+
 [ANAKMIT](#ANAKMIT)
 
 [ANEMBIAK](#ANEMBIAK)
@@ -101,7 +102,7 @@ O Petara! Tupi anakmit tu dalam ruang dada pengerinduNuan, lalu beri iya tusu ar
 
 -- Abdu'l-Bahá
 
-bpn12611 «[Iban](../iba/prayers/#bpn12611)» 
+bpn12611 
 
 ----
 
@@ -111,7 +112,7 @@ O Nuan Tuhan ti nadai banding! Asuh anakmit tu nusu ba ruang dada pengerindu-pen
 
 -- Abdu'l-Bahá
 
-bpn12612 «[Iban](../iba/prayers/#bpn12612)» 
+bpn12612 
 
 ----
 
@@ -121,7 +122,7 @@ O Nuan Tuhan ti Nelap! Bala anakmit ti manah tu endang asil pengawa tunjuk peneg
 
 -- Abdu'l-Bahá
 
-bpn12613 «[Iban](../iba/prayers/#bpn12613)» 
+bpn12613 
 
 ----
 
@@ -131,7 +132,7 @@ O Petara! Ajar sida anakmit tu. Sida anakmit tu utai tanam ba madang buah Nuan, 
 
 -- Abdu'l-Bahá
 
-bpn12614 «[Iban](../iba/prayers/#bpn12614)» 
+bpn12614 
 
 ----
 
@@ -141,7 +142,7 @@ O Tuhan aku, O Tuhan aku!Aku tu anakmit ti agi biak. Tupi aku ari dada pengasih 
 
 -- Abdu'l-Bahá
 
-bpn12615 «[Iban](../iba/prayers/#bpn12615)» 
+bpn12615 
 
 ----
 
@@ -151,7 +152,7 @@ O Nuan Tuhan ti pemadu bemulia! Gaga pengasuh induNuan ti mit tu beberekat seret
 
 -- Abdu'l-Bahá
 
-bpn12616 «[Iban](../iba/prayers/#bpn12616)» 
+bpn12616 
 
 ----
 
@@ -161,7 +162,7 @@ O Tuhan! Gaga bala anakmit tu nyadi kayu ti lati. Asuh sida tumbuh sereta mansan
 
 -- Abdu'l-Bahá
 
-bpn12617 «[Iban](../iba/prayers/#bpn12617)» 
+bpn12617 
 
 ----
 
@@ -171,7 +172,7 @@ O Petara, iring aku, jaga aku, gaga aku nyadi lampu ti terang enggau bintang ti 
 
 -- Abdu'l-Bahá
 
-bpn12618 «[Iban](../iba/prayers/#bpn12618)» 
+bpn12618 
 
 ----
 
@@ -185,7 +186,7 @@ O Nuan Tuhan ti nelap! Ari bingkai-langit pengingkasNuan udah ngayanka bala seme
 
 -- Abdu'l-Bahá
 
-bpn12619 «[Iban](../iba/prayers/#bpn12619)» 
+bpn12619 
 
 ----
 
@@ -195,7 +196,7 @@ O Nuan Tuhan ti nelap! Enggau pengasih sikap sepasang sayap serega ngagai tiap a
 
 -- Abdu'l-Bahá
 
-bpn12620 «[Iban](../iba/prayers/#bpn12620)» 
+bpn12620 
 
 ----
 
@@ -205,7 +206,7 @@ O Nuan Tuhan ti nelap! Sikap penetap serega ba anak indu tu ba perintah, lalu en
 
 -- Abdu'l-Bahá
 
-bpn12621 «[Iban](../iba/prayers/#bpn12621)» 
+bpn12621 
 
 ----
 
@@ -215,7 +216,7 @@ O Tuhan! Asuh anembiak tu terang, lalu chirika pemisiNuan ba utai tempa ti seran
 
 -- Abdu'l-Bahá
 
-bpn12622 «[Iban](../iba/prayers/#bpn12622)» 
+bpn12622 
 
 ----
 
@@ -225,7 +226,7 @@ Puji enggau mulia meh ngagai Nuan, O Tuhan Petara aku! Tu meh paung pilih ke uda
 
 -- Abdu'l-Bahá
 
-bpn12623 «[Iban](../iba/prayers/#bpn12623)» 
+bpn12623 
 
 ----
 
@@ -239,7 +240,7 @@ bpn12623 «[Iban](../iba/prayers/#bpn12623)»
 
 -- Bahá'u'lláh
 
-bpn12725 «[Iban](../iba/prayers/#bpn12725)» 
+bpn12725 
 
 ----
 
@@ -253,7 +254,7 @@ Nuan meda, O Tuhan, jari peminta kami diangkat ngadap serega pengasih enggau pem
 
 -- Bahá'u'lláh
 
-bpn12626 «[Iban](../iba/prayers/#bpn12626)» 
+bpn12626 
 
 ----
 
@@ -263,7 +264,7 @@ bpn12626 «[Iban](../iba/prayers/#bpn12626)»
 
 -- Báb
 
-bpn12624 «[Iban](../iba/prayers/#bpn12624)» 
+bpn12624 
 
 ----
 
@@ -273,7 +274,7 @@ Aku minta pengampun Nuan, O Petara aku, lalu minta tembang nitihka gaya peneka N
 
 -- Báb
 
-bpn12625 «[Iban](../iba/prayers/#bpn12625)» 
+bpn12625 
 
 ----
 
@@ -283,7 +284,7 @@ Tuhan aku! Tuhan aku! Aku muji Nuan sereta beterima kasih ngagai Nuan laban Nuan
 
 -- Abdu'l-Bahá
 
-bpn12627 «[Iban](../iba/prayers/#bpn12627)» 
+bpn12627 
 
 ----
 
@@ -293,7 +294,7 @@ O Petara, Petara aku! Tu pengasuh- indu Nuan minta ngagai Nuan, arap ba Nuan, nu
 
 -- Abdu'l-Bahá
 
-bpn12628 «[Iban](../iba/prayers/#bpn12628)» 
+bpn12628 
 
 ----
 
@@ -303,7 +304,7 @@ O Tuhan! Dalam Rambau ti Pemadu Tebangkar tu Nuan nerima peminta ari bala anak t
 
 -- Abdu'l-Bahá
 
-bpn12629 «[Iban](../iba/prayers/#bpn12629)» 
+bpn12629 
 
 ----
 
@@ -317,7 +318,7 @@ Dimuliaka meh Nuan, O Tuhan Petara aku! Aku minta ngagai Nuan ngena pangka ribut
 
 -- Bahá'u'lláh
 
-bpn12630 «[Iban](../iba/prayers/#bpn12630)» 
+bpn12630 
 
 ----
 
@@ -327,7 +328,7 @@ Nuan Petara ti pengasih! O Nuan Siku ti tegap sereta bekuasa! O Nuan Apai ti pem
 
 -- Abdu'l-Bahá
 
-bpn12631 «[Iban](../iba/prayers/#bpn12631)» 
+bpn12631 
 
 ----
 
@@ -337,7 +338,7 @@ Nuan Tuhan ti nelap! Tu bala pengasuh Nuan ti udah begempuru ba aum tu, ngadap p
 
 -- Abdu'l-Bahá
 
-bpn12632 «[Iban](../iba/prayers/#bpn12632)» 
+bpn12632 
 
 ----
 
@@ -347,7 +348,7 @@ Nuan Petara ti Pengampun! Bala pengasuh tu ngadap perintah Nuan lalu ngiga penga
 
 -- Abdu'l-Bahá
 
-bpn12633 «[Iban](../iba/prayers/#bpn12633)» 
+bpn12633 
 
 ----
 
@@ -357,7 +358,7 @@ O Nuan Pemekal ti bepengerindu! Semua semengat tu udah ninga kangau Perintah Pet
 
 -- Abdu'l-Bahá
 
-bpn12634 «[Iban](../iba/prayers/#bpn12634)» 
+bpn12634 
 
 ----
 
@@ -371,7 +372,7 @@ Semua bala pangan Petara… patut meri enggau naka ulih, enda ngira penyampau ia
 
 -- Abdu'l-Bahá
 
-bpn12635 «[Iban](../iba/prayers/#bpn12635)» 
+bpn12635 
 
 ----
 
@@ -381,7 +382,7 @@ O Petara, Petara aku! Terangka kening semua bala ti amat rindu ke Nuan, lalu tul
 
 -- Abdu'l-Bahá
 
-bpn12636 «[Iban](../iba/prayers/#bpn12636)» 
+bpn12636 
 
 ----
 
@@ -395,7 +396,7 @@ O Petara,enggauPetarakesemuaNama,enggauPengaga semua serega! Aku minta Nuan neng
 
 -- Bahá'u'lláh
 
-bpn12637 «[Iban](../iba/prayers/#bpn12637)» 
+bpn12637 
 
 ----
 
@@ -409,7 +410,7 @@ O Nuan ti benung nungaka mua ngadap Petara! Pejamka mata nuan ngagai semua utai 
 
 -- Abdu'l-Bahá
 
-bpn12747 «[Iban](../iba/prayers/#bpn12747)» 
+bpn12747 
 
 ----
 
@@ -419,7 +420,7 @@ O nuan ti nguing ngadap Perintah Petara!Aku bisi dipadah pasal undan surat nuan 
 
 -- Abdu'l-Bahá
 
-bpn12748 «[Iban](../iba/prayers/#bpn12748)» 
+bpn12748 
 
 ----
 
@@ -433,7 +434,7 @@ Pemajik Jeman udah ngemendarka diri dirantai ngambika bansa mensia tau dilepas a
 
 -- Bahá'u'lláh
 
-bpn12744 «[Iban](../iba/prayers/#bpn12744)» 
+bpn12744 
 
 ----
 
@@ -443,7 +444,7 @@ Nyadi mentas dalam pengeraja, lalu beterima kasih dalam penusah. Nyadi lumau dik
 
 -- Bahá'u'lláh
 
-bpn12745 «[Iban](../iba/prayers/#bpn12745)» 
+bpn12745 
 
 ----
 
@@ -453,7 +454,7 @@ Ungkup kereja ti keterubah sereta pemadu dulu ti udah dipadah ngagai mensia, pen
 
 -- Bahá'u'lláh
 
-bpn12746 «[Iban](../iba/prayers/#bpn12746)» 
+bpn12746 
 
 ----
 
@@ -467,7 +468,7 @@ bpn12746 «[Iban](../iba/prayers/#bpn12746)»
 
 -- Bahá'u'lláh
 
-bpn12742 «[Iban](../iba/prayers/#bpn12742)» 
+bpn12742 
 
 ----
 
@@ -477,7 +478,7 @@ Ba hari keterubah Pemajik Jeman niki Maligai Iya tiPemadu Bekuasa dalam kebun ti
 
 -- Bahá'u'lláh
 
-bpn12743 «[Iban](../iba/prayers/#bpn12743)» 
+bpn12743 
 
 ----
 
@@ -491,7 +492,7 @@ bpn12743 «[Iban](../iba/prayers/#bpn12743)»
 
 -- Bahá'u'lláh
 
-bpn12723 «[Iban](../iba/prayers/#bpn12723)» 
+bpn12723 
 
 ----
 
@@ -501,7 +502,7 @@ Dikemulia meh Nuan, O Tuhan aku ti penyinu ! Aku minta kasih Nuan nengah gelingg
 
 -- Bahá'u'lláh
 
-bpn12724 «[Iban](../iba/prayers/#bpn12724)» 
+bpn12724 
 
 ----
 
@@ -515,7 +516,7 @@ bpn12724 «[Iban](../iba/prayers/#bpn12724)»
 
 -- Bahá'u'lláh
 
-bpn12638 «[Iban](../iba/prayers/#bpn12638)» 
+bpn12638 
 
 ----
 
@@ -525,7 +526,7 @@ O Petara aku, Tuan aku, Juluk ati pengingin aku! Tu, pengasuh Nuan, ngiga penind
 
 -- Bahá'u'lláh
 
-bpn12639 «[Iban](../iba/prayers/#bpn12639)» 
+bpn12639 
 
 ----
 
@@ -535,7 +536,7 @@ O Tuhan, aku udah nungaka mua aku ngadap perintah penyatu Nuan lalu nyelamka dir
 
 -- Abdu'l-Bahá
 
-bpn12640 «[Iban](../iba/prayers/#bpn12640)» 
+bpn12640 
 
 ----
 
@@ -549,7 +550,7 @@ Petara aku, Iya ti disembah sereta disayau aku! Aku besaksi ke penyerakup Nuan e
 
 -- Bahá'u'lláh
 
-bpn12641 «[Iban](../iba/prayers/#bpn12641)» 
+bpn12641 
 
 ----
 
@@ -559,7 +560,7 @@ O Nuan Tuhan ti penyinu, Nuan ti amat mentas sereta bepengulih! Kami tu pengasuh
 
 -- Abdu'l-Bahá
 
-bpn12642 «[Iban](../iba/prayers/#bpn12642)» 
+bpn12642 
 
 ----
 
@@ -569,7 +570,7 @@ O Nuan Tuhan ti nelap! Nuan udah nempa semua mensia ari asal ti sama. Nuan udah 
 
 -- Abdu'l-Bahá
 
-bpn12643 «[Iban](../iba/prayers/#bpn12643)» 
+bpn12643 
 
 ----
 
@@ -579,7 +580,7 @@ O Nuan Tuhan ti nelap! O Nuan Siku ti mentas sereta penyinu! Kami tu bala pengas
 
 -- Abdu'l-Bahá
 
-bpn12644 «[Iban](../iba/prayers/#bpn12644)» 
+bpn12644 
 
 ----
 
@@ -593,7 +594,7 @@ bpn12644 «[Iban](../iba/prayers/#bpn12644)»
 
 -- Bahá'u'lláh
 
-bpn12733 «[Iban](../iba/prayers/#bpn12733)» 
+bpn12733 
 
 ----
 
@@ -607,7 +608,7 @@ MuliamehkeNuan,OTuhankedunyaenggauPengingin ke semua menua, O Nuan ti udah dipeg
 
 -- Bahá'u'lláh
 
-bpn12645 «[Iban](../iba/prayers/#bpn12645)» 
+bpn12645 
 
 ----
 
@@ -617,7 +618,7 @@ Puji meh nama Nuan, O Tuhan Petara aku! Nuan medabakani perening aku dituju ngag
 
 -- Bahá'u'lláh
 
-bpn12646 «[Iban](../iba/prayers/#bpn12646)» 
+bpn12646 
 
 ----
 
@@ -627,7 +628,7 @@ O Petara aku, bantu ulih Nuan pengasuh Nuan nerantangka Leka Jaku, lalu nyakal i
 
 -- Abdu'l-Bahá
 
-bpn12647 «[Iban](../iba/prayers/#bpn12647)» 
+bpn12647 
 
 ----
 
@@ -637,7 +638,7 @@ O Petara, Petara aku! Bantu ulih Nuan bala pengasuh ti dikarap Nuan ngembuan ati
 
 -- Abdu'l-Bahá
 
-bpn12648 «[Iban](../iba/prayers/#bpn12648)» 
+bpn12648 
 
 ----
 
@@ -647,7 +648,7 @@ Diambi ari Papan Tulis Pelen Petara O NuanPetaratinadaibanding!ONuanTuhankePerin
 
 -- Abdu'l-Bahá
 
-bpn12649 «[Iban](../iba/prayers/#bpn12649)» 
+bpn12649 
 
 ----
 
@@ -657,7 +658,7 @@ Barang sapa ti ngejangka menua diri bejalai ngajar ngagai dini-dini tempat, uji 
 
 -- Abdu'l-Bahá
 
-bpn12650 «[Iban](../iba/prayers/#bpn12650)» 
+bpn12650 
 
 ----
 
@@ -667,7 +668,7 @@ Uji barang sapa ti deka bejalai ngajar ngagai tempat bukai, bacha enggau silik s
 
 -- Abdu'l-Bahá
 
-bpn12651 «[Iban](../iba/prayers/#bpn12651)» 
+bpn12651 
 
 ----
 
@@ -677,7 +678,7 @@ O Petara, Petara aku! Nuan meda bakani pemetang ngeleti udah mungkur semua tempa
 
 -- Abdu'l-Bahá
 
-bpn12652 «[Iban](../iba/prayers/#bpn12652)» 
+bpn12652 
 
 ----
 
@@ -687,7 +688,7 @@ Leka sampi entudi tu patut dibacha bala pengajar enggau bala pangan ninting hari
 
 -- Abdu'l-Bahá
 
-bpn12653 «[Iban](../iba/prayers/#bpn12653)» 
+bpn12653 
 
 ----
 
@@ -697,7 +698,7 @@ Genap iku semengat ti bejalai nengah nengeri, tumpuk enggau genturung pendiau ba
 
 -- Abdu'l-Bahá
 
-bpn12654 «[Iban](../iba/prayers/#bpn12654)» 
+bpn12654 
 
 ----
 
@@ -707,7 +708,7 @@ Awakka sida ti ngerembaika bau rengut Petara nyebut sambiang tu tiap pagi. O Tuh
 
 -- Abdu'l-Bahá
 
-bpn12655 «[Iban](../iba/prayers/#bpn12655)» 
+bpn12655 
 
 ----
 
@@ -717,7 +718,7 @@ O Petara! O Petara! Tu siku burung ti patah sayap lalu penerebai iya kelalu luba
 
 -- Abdu'l-Bahá
 
-bpn12656 «[Iban](../iba/prayers/#bpn12656)» 
+bpn12656 
 
 ----
 
@@ -727,7 +728,7 @@ Puji meh ngagai Nuan, O Petara aku! Tu bala pengasuhNuan ti udah ditarit ulih re
 
 -- Abdu'l-Bahá
 
-bpn12657 «[Iban](../iba/prayers/#bpn12657)» 
+bpn12657 
 
 ----
 
@@ -737,7 +738,7 @@ Bala ti ngerembaika rengut Petara patut nyampika sambiang tu tetiap pagi. O Peta
 
 -- Abdu'l-Bahá
 
-bpn12658 «[Iban](../iba/prayers/#bpn12658)» 
+bpn12658 
 
 ----
 
@@ -751,7 +752,7 @@ Dikemulia meh Nuan, O Petara aku! Aku beterima kasih ngagai Nuan laban Nuan udah
 
 -- Bahá'u'lláh
 
-bpn12659 «[Iban](../iba/prayers/#bpn12659)» 
+bpn12659 
 
 ----
 
@@ -761,7 +762,7 @@ Dipuji meh nama Nuan, O Petara aku! Aku minta Nuan ngena rengut Kelambi berekat 
 
 -- Bahá'u'lláh
 
-bpn12660 «[Iban](../iba/prayers/#bpn12660)» 
+bpn12660 
 
 ----
 
@@ -771,7 +772,7 @@ O Tuhan! Ngagai Nuan aku ngiga pengenduh lalu ngagai semua tanda Nuan aku nungak
 
 -- Báb
 
-bpn12661 «[Iban](../iba/prayers/#bpn12661)» 
+bpn12661 
 
 ----
 
@@ -781,7 +782,7 @@ Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, tiSemua-Penyukup, ti Pemadu Ti
 
 -- Báb
 
-bpn12662 «[Iban](../iba/prayers/#bpn12662)» 
+bpn12662 
 
 ----
 
@@ -791,7 +792,7 @@ Sebut: Petara chukup ba semua utai ngelui ari semua utai, lalu nadai utai dalam 
 
 -- Báb
 
-bpn12663 «[Iban](../iba/prayers/#bpn12663)» 
+bpn12663 
 
 ----
 
@@ -801,7 +802,7 @@ O Petara, Petara aku! Nuan meh Pengandal aku enggauSiku-dikerindu aku, tuchung J
 
 -- Abdu'l-Bahá
 
-bpn12664 «[Iban](../iba/prayers/#bpn12664)» 
+bpn12664 
 
 ----
 
@@ -815,7 +816,7 @@ O Petara aku enggau Tuan aku! Aku tu pengasuh Nuan lalu anak pengasuh Nuan. Aku 
 
 -- Bahá'u'lláh
 
-bpn12665 «[Iban](../iba/prayers/#bpn12665)» 
+bpn12665 
 
 ----
 
@@ -825,7 +826,7 @@ Aku udah dani dalam ibun Nuan, O Petara aku, lalu nyadi iya ti ngiga pengelindun
 
 -- Bahá'u'lláh
 
-bpn12666 «[Iban](../iba/prayers/#bpn12666)» 
+bpn12666 
 
 ----
 
@@ -835,7 +836,7 @@ Aku udah angkat pagi tu ngena pengasih Nuan, O Petara aku, lalu ninggalka rumah 
 
 -- Bahá'u'lláh
 
-bpn12667 «[Iban](../iba/prayers/#bpn12667)» 
+bpn12667 
 
 ----
 
@@ -849,7 +850,7 @@ bpn12667 «[Iban](../iba/prayers/#bpn12667)»
 
 -- Bahá'u'lláh
 
-bpn12737 «[Iban](../iba/prayers/#bpn12737)» 
+bpn12737 
 
 ----
 
@@ -863,7 +864,7 @@ Tempa dalam aku ati ti tuchi, O Petara aku, lalu kemaruka pengasai ti jenuh dala
 
 -- Bahá'u'lláh
 
-bpn12668 «[Iban](../iba/prayers/#bpn12668)» 
+bpn12668 
 
 ----
 
@@ -873,7 +874,7 @@ O Tuhan aku! Gaga pemajik Nuan nyadika pemakai aku, lalu penatai Nuan nyadika ai
 
 -- Bahá'u'lláh
 
-bpn12669 «[Iban](../iba/prayers/#bpn12669)» 
+bpn12669 
 
 ----
 
@@ -883,7 +884,7 @@ O Petara aku, Petara ke pemisi enggau penyinu! Nuan nya meh Raja ke alai jaku-pe
 
 -- Bahá'u'lláh
 
-bpn12670 «[Iban](../iba/prayers/#bpn12670)» 
+bpn12670 
 
 ----
 
@@ -893,7 +894,7 @@ bpn12670 «[Iban](../iba/prayers/#bpn12670)»
 
 -- Abdu'l-Bahá
 
-bpn12671 «[Iban](../iba/prayers/#bpn12671)» 
+bpn12671 
 
 ----
 
@@ -903,7 +904,7 @@ O Tuhan!Kamitulemah;keringkakami.OPetara!Kami tu lansang; asuh kami nemu. O Tuha
 
 -- Abdu'l-Bahá
 
-bpn12672 «[Iban](../iba/prayers/#bpn12672)» 
+bpn12672 
 
 ----
 
@@ -913,7 +914,7 @@ O Tuhan aku! O Tuhan aku! Tu siti lampu ti diidup ngena api pengerindu Nuan lalu
 
 -- Abdu'l-Bahá
 
-bpn12673 «[Iban](../iba/prayers/#bpn12673)» 
+bpn12673 
 
 ----
 
@@ -927,7 +928,7 @@ Mulia meh ke Nuan, O Tuhan Petara aku! Pegarika sungai penegap kuasa-raja Nuan, 
 
 -- Bahá'u'lláh
 
-bpn12680 «[Iban](../iba/prayers/#bpn12680)» 
+bpn12680 
 
 ----
 
@@ -937,7 +938,7 @@ Anang nagang aku, O Petara, Petara aku, ari serega pemisi Nuan enggau bintang-si
 
 -- Bahá'u'lláh
 
-bpn12681 «[Iban](../iba/prayers/#bpn12681)» 
+bpn12681 
 
 ----
 
@@ -947,7 +948,7 @@ O Tuhan!BekalkepenyampatpemansangKayuPenyerakup Suchi Nuan; udah nya panjah ia, 
 
 -- Báb
 
-bpn12682 «[Iban](../iba/prayers/#bpn12682)» 
+bpn12682 
 
 ----
 
@@ -957,7 +958,7 @@ Iya meh Petara!O Tuhan, Petara aku, ti Amat-Dikerindu aku! Tu bala pengasuh Nuan
 
 -- Abdu'l-Bahá
 
-bpn12683 «[Iban](../iba/prayers/#bpn12683)» 
+bpn12683 
 
 ----
 
@@ -971,7 +972,7 @@ Aku ngemesaika Nama Nuan, O Petara aku, lalu meri terima kasih ngagai Nuan, O Pe
 
 -- Bahá'u'lláh
 
-bpn12684 «[Iban](../iba/prayers/#bpn12684)» 
+bpn12684 
 
 ----
 
@@ -981,7 +982,7 @@ Dipuji sereta dimuliaka meh Nuan, O Petara!Kemendar awakka hari ke alai bulih pe
 
 -- Báb
 
-bpn12685 «[Iban](../iba/prayers/#bpn12685)» 
+bpn12685 
 
 ----
 
@@ -991,7 +992,7 @@ O Tuhan, Petara aku! Tulung bala ti dikerindu Nuan nyadi teguh dalam Pengarap Nu
 
 -- Abdu'l-Bahá
 
-bpn12686 «[Iban](../iba/prayers/#bpn12686)» 
+bpn12686 
 
 ----
 
@@ -1005,7 +1006,7 @@ Lebuh orang ti bedosa nemu diri empu diingkas lengis sereta lepas ari semua utai
 
 -- Bahá'u'lláh
 
-bpn12687 «[Iban](../iba/prayers/#bpn12687)» 
+bpn12687 
 
 ----
 
@@ -1015,7 +1016,7 @@ Puji meh ke Nuan, O Tuhan. Ampun dosa kami, bisi penyinu meh ke kami lalu asuh k
 
 -- Báb
 
-bpn12688 «[Iban](../iba/prayers/#bpn12688)» 
+bpn12688 
 
 ----
 
@@ -1025,7 +1026,7 @@ O Petara aku, O Tuhan aku, O Tuan aku! Aku mintaNuan ngampun aku laban ngiga pen
 
 -- Báb
 
-bpn12689 «[Iban](../iba/prayers/#bpn12689)» 
+bpn12689 
 
 ----
 
@@ -1035,7 +1036,7 @@ O Nuan Tuhan ti Pengampun! Nuan meh pengelindung ke semua pengasuh Nuan tu. Nuan
 
 -- Abdu'l-Bahá
 
-bpn12690 «[Iban](../iba/prayers/#bpn12690)» 
+bpn12690 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn12690 «[Iban](../iba/prayers/#bpn12690)»
 
 -- Bahá'u'lláh
 
-bpn12691 «[Iban](../iba/prayers/#bpn12691)» 
+bpn12691 
 
 ----
 
@@ -1059,7 +1060,7 @@ Nama Nuan nyadika pengerai aku, O Petara aku, lalu pengingat Nuan nyadika ubat a
 
 -- Bahá'u'lláh
 
-bpn12692 «[Iban](../iba/prayers/#bpn12692)» 
+bpn12692 
 
 ----
 
@@ -1069,7 +1070,7 @@ Ke Anakmit Nuan endang Iya, O Petara aku, ti bempu Nama ke ulih nyuman sereta mu
 
 -- Bahá'u'lláh
 
-bpn12693 «[Iban](../iba/prayers/#bpn12693)» 
+bpn12693 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn12693 «[Iban](../iba/prayers/#bpn12693)»
 
 -- Bahá'u'lláh
 
-bpn12694 «[Iban](../iba/prayers/#bpn12694)» 
+bpn12694 
 
 ----
 
@@ -1093,7 +1094,7 @@ O Nuan ke alai penguji Iya nyadi ubat penyuman ke sida ti semak ngagai Nuan, ke 
 
 -- Bahá'u'lláh
 
-bpn12695 «[Iban](../iba/prayers/#bpn12695)» 
+bpn12695 
 
 ----
 
@@ -1103,7 +1104,7 @@ Buai penusah ati aku ngena pemisi Nuan enggau pementas Nuan, O Petara, Petara ak
 
 -- Bahá'u'lláh
 
-bpn12696 «[Iban](../iba/prayers/#bpn12696)» 
+bpn12696 
 
 ----
 
@@ -1113,7 +1114,7 @@ Dimuliaka meh Nuan. O Tuhan Petara aku! Tiap iku mensia ti beseling ngaku kuasa-
 
 -- Bahá'u'lláh
 
-bpn12697 «[Iban](../iba/prayers/#bpn12697)» 
+bpn12697 
 
 ----
 
@@ -1123,7 +1124,7 @@ bpn12697 «[Iban](../iba/prayers/#bpn12697)»
 
 -- Báb
 
-bpn12698 «[Iban](../iba/prayers/#bpn12698)» 
+bpn12698 
 
 ----
 
@@ -1133,7 +1134,7 @@ Kati bisi Pemuai pemerinsa bukai kelimpah ari Petara?Sebut: Puji Petara! Iya ti 
 
 -- Báb
 
-bpn12699 «[Iban](../iba/prayers/#bpn12699)» 
+bpn12699 
 
 ----
 
@@ -1147,7 +1148,7 @@ Puji ngagai Nuan, O Tuhan Petara aku! Nuan meda sereta nemu ianya Aku udah ngang
 
 -- Bahá'u'lláh
 
-bpn12700 «[Iban](../iba/prayers/#bpn12700)» 
+bpn12700 
 
 ----
 
@@ -1157,7 +1158,7 @@ O Petara, Petara aku! Aku udah bekejang ari rumah aku, bepegai teguh ba tali pen
 
 -- Bahá'u'lláh
 
-bpn12701 «[Iban](../iba/prayers/#bpn12701)» 
+bpn12701 
 
 ----
 
@@ -1167,7 +1168,7 @@ DalamNamaIya,tiDiangkat,tiPemaduTinggi,tiMemelan!Dimulia meh Nuan, O Tuhan Petar
 
 -- Bahá'u'lláh
 
-bpn12702 «[Iban](../iba/prayers/#bpn12702)» 
+bpn12702 
 
 ----
 
@@ -1177,7 +1178,7 @@ Letak ke aku, O Tuhan aku, enggau ke sida ti arapkaNuan utai ti diaku manah ke k
 
 -- Báb
 
-bpn12703 «[Iban](../iba/prayers/#bpn12703)» 
+bpn12703 
 
 ----
 
@@ -1187,7 +1188,7 @@ O Petara! O Petara aku! Terabai bala pengasuh ti dikarapNuan ari semua penyai di
 
 -- Abdu'l-Bahá
 
-bpn12704 «[Iban](../iba/prayers/#bpn12704)» 
+bpn12704 
 
 ----
 
@@ -1197,7 +1198,7 @@ O Tuhan aku! Nuan nemu mensia udah dikelulung pemedis enggau rabat besai lalu di
 
 -- Abdu'l-Bahá
 
-bpn12705 «[Iban](../iba/prayers/#bpn12705)» 
+bpn12705 
 
 ----
 
@@ -1211,7 +1212,7 @@ bpn12705 «[Iban](../iba/prayers/#bpn12705)»
 
 -- Bahá'u'lláh
 
-bpn12706 «[Iban](../iba/prayers/#bpn12706)» 
+bpn12706 
 
 ----
 
@@ -1225,7 +1226,7 @@ Petara aku, Siku Disayau aku, Raja aku, Dikingin aku!Nama dilah ti ulih dikena a
 
 -- Bahá'u'lláh
 
-bpn12707 «[Iban](../iba/prayers/#bpn12707)» 
+bpn12707 
 
 ----
 
@@ -1235,7 +1236,7 @@ O Petara aku, Tuhan aku enggau Tuan aku! Aku udah ngingkas diri ari kaban-belaya
 
 -- Báb
 
-bpn12708 «[Iban](../iba/prayers/#bpn12708)» 
+bpn12708 
 
 ----
 
@@ -1245,7 +1246,7 @@ Dipuji meh Nama Nuan, O Tuhan Petara kami! Nuan endang dalam pengamat Pengelala 
 
 -- Báb
 
-bpn12709 «[Iban](../iba/prayers/#bpn12709)» 
+bpn12709 
 
 ----
 
@@ -1255,7 +1256,7 @@ Tuhan! Sinu amat kami, kemendarka pengasih Nuan ba kami; seranta, sikap ba kami 
 
 -- Abdu'l-Bahá
 
-bpn12710 «[Iban](../iba/prayers/#bpn12710)» 
+bpn12710 
 
 ----
 
@@ -1269,7 +1270,7 @@ bpn12710 «[Iban](../iba/prayers/#bpn12710)»
 
 -- Bahá'u'lláh
 
-bpn12726 «[Iban](../iba/prayers/#bpn12726)» 
+bpn12726 
 
 ----
 
@@ -1279,7 +1280,7 @@ Dalam Nama Iya Siku ti udah disemaya ba semua BupPetara, ti Nemu Semua, ti Dipad
 
 -- Bahá'u'lláh
 
-bpn12727 «[Iban](../iba/prayers/#bpn12727)» 
+bpn12727 
 
 ----
 
@@ -1289,7 +1290,7 @@ Puji meh Nuan, O Tuhan Petara aku! Aku minta ngagaiNuan nengah Revelasyen tu ke 
 
 -- Bahá'u'lláh
 
-bpn12728 «[Iban](../iba/prayers/#bpn12728)» 
+bpn12728 
 
 ----
 
@@ -1299,7 +1300,7 @@ Tu meh, O Petara aku, hari alai Nuan udah ngeletak bala pengasuh Nuan ngintu Pua
 
 -- Bahá'u'lláh
 
-bpn12729 «[Iban](../iba/prayers/#bpn12729)» 
+bpn12729 
 
 ----
 
@@ -1309,7 +1310,7 @@ Tau disebut sebedau muka puasa Puji meh ngagai Nuan, O Tuhan Petara aku! Kami ud
 
 -- Bahá'u'lláh
 
-bpn12730 «[Iban](../iba/prayers/#bpn12730)» 
+bpn12730 
 
 ----
 
@@ -1319,7 +1320,7 @@ Puji meh Nuan, O Petara, Petara aku! Tu meh hari alaiNuan udah ngeletak bala ke 
 
 -- Bahá'u'lláh
 
-bpn12731 «[Iban](../iba/prayers/#bpn12731)» 
+bpn12731 
 
 ----
 
@@ -1329,7 +1330,7 @@ O Pemekal Kudus! Laban aku tu mentin diri ari semua pengingin tubuh lalu enda ng
 
 -- Abdu'l-Bahá
 
-bpn12732 «[Iban](../iba/prayers/#bpn12732)» 
+bpn12732 
 
 ----
 
@@ -1343,7 +1344,7 @@ Semua puji, O Petara aku, ngagai Nuan ti Pun Penatai semua kuasa-perintah enggau
 
 -- Bahá'u'lláh
 
-bpn12711 «[Iban](../iba/prayers/#bpn12711)» 
+bpn12711 
 
 ----
 
@@ -1357,7 +1358,7 @@ Dalam Nama Petara, ti Pemadu Jeman, ti Pemadu Tegap.Sigi amat ati orang ti lurus
 
 -- Bahá'u'lláh
 
-bpn12738 «[Iban](../iba/prayers/#bpn12738)» 
+bpn12738 
 
 ----
 
@@ -1371,7 +1372,7 @@ Semua mulia ngagai Hari tu, Hari ke endur rengut pengasih udah ditiup ngagai sem
 
 -- Bahá'u'lláh
 
-bpn12741 «[Iban](../iba/prayers/#bpn12741)» 
+bpn12741 
 
 ----
 
@@ -1385,7 +1386,7 @@ bpn12741 «[Iban](../iba/prayers/#bpn12741)»
 
 -- Bahá'u'lláh
 
-bpn12739 «[Iban](../iba/prayers/#bpn12739)» 
+bpn12739 
 
 ----
 
@@ -1399,7 +1400,7 @@ bpn12739 «[Iban](../iba/prayers/#bpn12739)»
 
 -- Abdu'l-Bahá
 
-bpn12740 «[Iban](../iba/prayers/#bpn12740)» 
+bpn12740 
 
 ----
 
@@ -1413,7 +1414,7 @@ O Penginang Kudus! Sikap Nuan penulin enggau pemeresi ke semua utai ba orang Bah
 
 -- Abdu'l-Bahá
 
-bpn12749 «[Iban](../iba/prayers/#bpn12749)» 
+bpn12749 
 
 ----
 
@@ -1423,7 +1424,7 @@ Nguji bebendar meh kita, awakka penuchi enggau pengudus ngelui ari semua utai, t
 
 -- Abdu'l-Bahá
 
-bpn12750 «[Iban](../iba/prayers/#bpn12750)» 
+bpn12750 
 
 ----
 
@@ -1437,7 +1438,7 @@ bpn12750 «[Iban](../iba/prayers/#bpn12750)»
 
 -- Abdu'l-Bahá
 
-bpn12734 «[Iban](../iba/prayers/#bpn12734)» 
+bpn12734 
 
 ----
 
@@ -1447,7 +1448,7 @@ Datai meh kita begelumu dalam pengaga ti tulin, lalu dikena ngepunka aum, sebut 
 
 -- Abdu'l-Bahá
 
-bpn12735 «[Iban](../iba/prayers/#bpn12735)» 
+bpn12735 
 
 ----
 
@@ -1457,7 +1458,7 @@ Sambiang disebut ba penutup aum Raban Gelumu O Petara! O Petara! Ari perintah pe
 
 -- Abdu'l-Bahá
 
-bpn12736 «[Iban](../iba/prayers/#bpn12736)» 
+bpn12736 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn12736 «[Iban](../iba/prayers/#bpn12736)»
 
 -- Bahá'u'lláh
 
-bpn12609 «[Iban](../iba/prayers/#bpn12609)» 
+bpn12609 
 
 ----
 
@@ -1485,7 +1486,7 @@ bpn12609 «[Iban](../iba/prayers/#bpn12609)»
 
 -- Bahá'u'lláh
 
-bpn12608 «[Iban](../iba/prayers/#bpn12608)» 
+bpn12608 
 
 ----
 
@@ -1499,7 +1500,7 @@ bpn12608 «[Iban](../iba/prayers/#bpn12608)»
 
 -- Bahá'u'lláh
 
-bpn12610 «[Iban](../iba/prayers/#bpn12610)» 
+bpn12610 
 
 ----
 
@@ -1513,7 +1514,7 @@ bpn12610 «[Iban](../iba/prayers/#bpn12610)»
 
 -- Bahá'u'lláh
 
-bpn12674 «[Iban](../iba/prayers/#bpn12674)» 
+bpn12674 
 
 ----
 
@@ -1523,7 +1524,7 @@ Sambiang bukai ke Orang ti udah Mati Mulia meh Nuan, O Tuhan Petara aku! Anang n
 
 -- Bahá'u'lláh
 
-bpn12675 «[Iban](../iba/prayers/#bpn12675)» 
+bpn12675 
 
 ----
 
@@ -1533,7 +1534,7 @@ Iya meh Petara, tinggi meh Iya, Tuhan ke pengerindu pengasih enggau pemisi!Mulia
 
 -- Bahá'u'lláh
 
-bpn12676 «[Iban](../iba/prayers/#bpn12676)» 
+bpn12676 
 
 ----
 
@@ -1543,7 +1544,7 @@ O Petara aku! O Petara aku! Amat bendar, pengasuhNuan, ngemaruhka diri ba kuasa-
 
 -- Abdu'l-Bahá
 
-bpn12677 «[Iban](../iba/prayers/#bpn12677)» 
+bpn12677 
 
 ----
 
@@ -1553,7 +1554,7 @@ O Petara aku! O Nuan pengampun dosa, ti ngenataika pemeri, pemuai semua pemedis!
 
 -- Abdu'l-Bahá
 
-bpn12678 «[Iban](../iba/prayers/#bpn12678)» 
+bpn12678 
 
 ----
 
@@ -1563,7 +1564,7 @@ O Nuan Tuhan ti pengampun!Taja sekeda semengat masau pengidup sida ketegal penge
 
 -- Abdu'l-Bahá
 
-bpn12679 «[Iban](../iba/prayers/#bpn12679)» 
+bpn12679 
 
 ----
 
@@ -1577,7 +1578,7 @@ Mulia meh Nuan, O Petara aku! Nuan ninga bala suluNuan ti amat keran ke Nuan mer
 
 -- Bahá'u'lláh
 
-bpn12712 «[Iban](../iba/prayers/#bpn12712)» 
+bpn12712 
 
 ----
 
@@ -1587,7 +1588,7 @@ Amat bendar aku tu pengasuh Nuan, O Petara aku, siku nembiak Nuan ti seranta eng
 
 -- Báb
 
-bpn12713 «[Iban](../iba/prayers/#bpn12713)» 
+bpn12713 
 
 ----
 
@@ -1597,7 +1598,7 @@ Iya meh ti Penyinu, ti Pemadu Pemisi! O Petara, Petara aku!Nuanmedaaku,Nuannemua
 
 -- Abdu'l-Bahá
 
-bpn12714 «[Iban](../iba/prayers/#bpn12714)» 
+bpn12714 
 
 ----
 
@@ -1607,7 +1608,7 @@ O Tuhan, Petara aku enggau Pengenduh aku lebuh maya penusahaku!TerabaiakuenggauP
 
 -- Abdu'l-Bahá
 
-bpn12715 «[Iban](../iba/prayers/#bpn12715)» 
+bpn12715 
 
 ----
 
@@ -1621,7 +1622,7 @@ O Petara aku! O Petara aku! Gempung ati bala pengasuhNuan, lalu pegarika ngagai 
 
 -- Bahá'u'lláh
 
-bpn12716 «[Iban](../iba/prayers/#bpn12716)» 
+bpn12716 
 
 ----
 
@@ -1635,7 +1636,7 @@ Mulia meh ke Nuan, O Raja ti meruan belama, enggauPengaga semua menua, lalu Penu
 
 -- Bahá'u'lláh
 
-bpn12717 «[Iban](../iba/prayers/#bpn12717)» 
+bpn12717 
 
 ----
 
@@ -1645,7 +1646,7 @@ O Tuhan aku enggau Pengandal aku! Tulung bala ti dikerindu Nuan nyadi teguh dala
 
 -- Abdu'l-Bahá
 
-bpn12718 «[Iban](../iba/prayers/#bpn12718)» 
+bpn12718 
 
 ----
 
@@ -1655,7 +1656,7 @@ O Petara ti penyinu! Terima kasih ke Nuan laban Nuan udah ngenani lalu ngasuh ak
 
 -- Abdu'l-Bahá
 
-bpn12719 «[Iban](../iba/prayers/#bpn12719)» 
+bpn12719 
 
 ----
 
@@ -1665,7 +1666,7 @@ Gaga teguh singkang kami, O Tuhan dalam menasanNuan lalu keringka ulih Nuan ati 
 
 -- Abdu'l-Bahá
 
-bpn12720 «[Iban](../iba/prayers/#bpn12720)» 
+bpn12720 
 
 ----
 
@@ -1679,7 +1680,7 @@ bpn12720 «[Iban](../iba/prayers/#bpn12720)»
 
 -- Abdu'l-Bahá
 
-bpn12721 «[Iban](../iba/prayers/#bpn12721)» 
+bpn12721 
 
 ----
 
@@ -1689,7 +1690,7 @@ Mulia meh Nuan, O Petara aku! Amat bendar, pengasuhNuan tu enggau pengasuh indu 
 
 -- Abdu'l-Bahá
 
-bpn12722 «[Iban](../iba/prayers/#bpn12722)» 
+bpn12722 
 
 ----
 

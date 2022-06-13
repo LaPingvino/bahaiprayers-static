@@ -5,6 +5,7 @@ tags = ['lang=ik', 'prayerbook']
 
 
 
+
 [Iñupiaq - North Slope Dialect](#I%C3%B1upiaq+-+North+Slope+Dialect)
 
 
@@ -17,7 +18,7 @@ tags = ['lang=ik', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn9104 «[Alaska Native](../ik/prayers/#bpn9104)» 
+bpn9104 
 
 ----
 
@@ -27,7 +28,7 @@ bpn9104 «[Alaska Native](../ik/prayers/#bpn9104)»
 
 -- Bahá'u'lláh
 
-bpn9099 «[Alaska Native](../ik/prayers/#bpn9099)» 
+bpn9099 
 
 ----
 
@@ -37,7 +38,7 @@ bpn9099 «[Alaska Native](../ik/prayers/#bpn9099)»
 
 -- Bahá'u'lláh
 
-bpn9095 «[Alaska Native](../ik/prayers/#bpn9095)» 
+bpn9095 
 
 ----
 
@@ -47,7 +48,7 @@ bpn9095 «[Alaska Native](../ik/prayers/#bpn9095)»
 
 -- Bahá'u'lláh
 
-bpn12873 «[Alaska Native](../ik/prayers/#bpn12873)» 
+bpn12873 
 
 ----
 
@@ -57,7 +58,7 @@ bpn12873 «[Alaska Native](../ik/prayers/#bpn12873)»
 
 -- Bahá'u'lláh
 
-bpn12876 «[Alaska Native](../ik/prayers/#bpn12876)» 
+bpn12876 
 
 ----
 
@@ -67,7 +68,7 @@ bpn12876 «[Alaska Native](../ik/prayers/#bpn12876)»
 
 -- Báb
 
-bpn9103 «[Alaska Native](../ik/prayers/#bpn9103)» 
+bpn9103 
 
 ----
 
@@ -77,7 +78,7 @@ bpn9103 «[Alaska Native](../ik/prayers/#bpn9103)»
 
 -- Báb
 
-bpn12870 «[Alaska Native](../ik/prayers/#bpn12870)» 
+bpn12870 
 
 ----
 
@@ -87,7 +88,7 @@ bpn12870 «[Alaska Native](../ik/prayers/#bpn12870)»
 
 -- Báb
 
-bpn12875 «[Alaska Native](../ik/prayers/#bpn12875)» 
+bpn12875 
 
 ----
 
@@ -97,7 +98,7 @@ bpn12875 «[Alaska Native](../ik/prayers/#bpn12875)»
 
 -- Abdu'l-Bahá
 
-bpn9102 «[Alaska Native](../ik/prayers/#bpn9102)» 
+bpn9102 
 
 ----
 
@@ -107,7 +108,7 @@ bpn9102 «[Alaska Native](../ik/prayers/#bpn9102)»
 
 -- Abdu'l-Bahá
 
-bpn9098 «[Alaska Native](../ik/prayers/#bpn9098)» 
+bpn9098 
 
 ----
 
@@ -117,7 +118,7 @@ bpn9098 «[Alaska Native](../ik/prayers/#bpn9098)»
 
 -- Abdu'l-Bahá
 
-bpn9100 «[Alaska Native](../ik/prayers/#bpn9100)» 
+bpn9100 
 
 ----
 
@@ -127,7 +128,7 @@ bpn9100 «[Alaska Native](../ik/prayers/#bpn9100)»
 
 -- Abdu'l-Bahá
 
-bpn9097 «[Alaska Native](../ik/prayers/#bpn9097)» 
+bpn9097 
 
 ----
 
@@ -137,7 +138,7 @@ bpn9097 «[Alaska Native](../ik/prayers/#bpn9097)»
 
 -- Abdu'l-Bahá
 
-bpn10177 «[Alaska Native](../ik/prayers/#bpn10177)» 
+bpn10177 
 
 ----
 

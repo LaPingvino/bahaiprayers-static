@@ -5,6 +5,7 @@ tags = ['lang=el', 'prayerbook']
 
 
 
+
 [ΑΠΟ∆ΕΣΜΕΥΣΗΣ](#%CE%91%CE%A0%CE%9F%E2%88%86%CE%95%CE%A3%CE%9C%CE%95%CE%A5%CE%A3%CE%97%CE%A3)
 
 [ΒΟΗΘΕΙΑΣ](#%CE%92%CE%9F%CE%97%CE%98%CE%95%CE%99%CE%91%CE%A3)
@@ -101,7 +102,7 @@ tags = ['lang=el', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn7054 «[ελληνικά](../el/prayers/#bpn7054)» 
+bpn7054 
 
 ----
 
@@ -111,7 +112,7 @@ bpn7054 «[ελληνικά](../el/prayers/#bpn7054)»
 
 -- Bahá'u'lláh
 
-bpn7055 «[ελληνικά](../el/prayers/#bpn7055)» 
+bpn7055 
 
 ----
 
@@ -121,7 +122,7 @@ bpn7055 «[ελληνικά](../el/prayers/#bpn7055)»
 
 -- Bahá'u'lláh
 
-bpn7056 «[ελληνικά](../el/prayers/#bpn7056)» 
+bpn7056 
 
 ----
 
@@ -131,7 +132,7 @@ bpn7056 «[ελληνικά](../el/prayers/#bpn7056)»
 
 -- Bahá'u'lláh
 
-bpn7057 «[ελληνικά](../el/prayers/#bpn7057)» 
+bpn7057 
 
 ----
 
@@ -141,7 +142,7 @@ bpn7057 «[ελληνικά](../el/prayers/#bpn7057)»
 
 -- Bahá'u'lláh
 
-bpn7058 «[ελληνικά](../el/prayers/#bpn7058)» 
+bpn7058 
 
 ----
 
@@ -151,7 +152,7 @@ bpn7058 «[ελληνικά](../el/prayers/#bpn7058)»
 
 -- Bahá'u'lláh
 
-bpn7059 «[ελληνικά](../el/prayers/#bpn7059)» 
+bpn7059 
 
 ----
 
@@ -161,7 +162,7 @@ bpn7059 «[ελληνικά](../el/prayers/#bpn7059)»
 
 -- Báb
 
-bpn7060 «[ελληνικά](../el/prayers/#bpn7060)» 
+bpn7060 
 
 ----
 
@@ -171,7 +172,7 @@ bpn7060 «[ελληνικά](../el/prayers/#bpn7060)»
 
 -- Báb
 
-bpn7061 «[ελληνικά](../el/prayers/#bpn7061)» 
+bpn7061 
 
 ----
 
@@ -181,7 +182,7 @@ bpn7061 «[ελληνικά](../el/prayers/#bpn7061)»
 
 -- Báb
 
-bpn7062 «[ελληνικά](../el/prayers/#bpn7062)» 
+bpn7062 
 
 ----
 
@@ -191,7 +192,7 @@ bpn7062 «[ελληνικά](../el/prayers/#bpn7062)»
 
 -- Abdu'l-Bahá
 
-bpn7063 «[ελληνικά](../el/prayers/#bpn7063)» 
+bpn7063 
 
 ----
 
@@ -201,7 +202,7 @@ bpn7063 «[ελληνικά](../el/prayers/#bpn7063)»
 
 -- Abdu'l-Bahá
 
-bpn7064 «[ελληνικά](../el/prayers/#bpn7064)» 
+bpn7064 
 
 ----
 
@@ -215,7 +216,7 @@ bpn7064 «[ελληνικά](../el/prayers/#bpn7064)»
 
 -- Bahá'u'lláh
 
-bpn7065 «[ελληνικά](../el/prayers/#bpn7065)» 
+bpn7065 
 
 ----
 
@@ -225,7 +226,7 @@ bpn7065 «[ελληνικά](../el/prayers/#bpn7065)»
 
 -- Bahá'u'lláh
 
-bpn7066 «[ελληνικά](../el/prayers/#bpn7066)» 
+bpn7066 
 
 ----
 
@@ -235,7 +236,7 @@ bpn7066 «[ελληνικά](../el/prayers/#bpn7066)»
 
 -- Báb
 
-bpn7067 «[ελληνικά](../el/prayers/#bpn7067)» 
+bpn7067 
 
 ----
 
@@ -245,7 +246,7 @@ bpn7067 «[ελληνικά](../el/prayers/#bpn7067)»
 
 -- Báb
 
-bpn7068 «[ελληνικά](../el/prayers/#bpn7068)» 
+bpn7068 
 
 ----
 
@@ -255,7 +256,7 @@ bpn7068 «[ελληνικά](../el/prayers/#bpn7068)»
 
 -- Abdu'l-Bahá
 
-bpn7069 «[ελληνικά](../el/prayers/#bpn7069)» 
+bpn7069 
 
 ----
 
@@ -265,7 +266,7 @@ bpn7069 «[ελληνικά](../el/prayers/#bpn7069)»
 
 -- Abdu'l-Bahá
 
-bpn7070 «[ελληνικά](../el/prayers/#bpn7070)» 
+bpn7070 
 
 ----
 
@@ -275,7 +276,7 @@ bpn7070 «[ελληνικά](../el/prayers/#bpn7070)»
 
 -- Abdu'l-Bahá
 
-bpn7071 «[ελληνικά](../el/prayers/#bpn7071)» 
+bpn7071 
 
 ----
 
@@ -289,7 +290,7 @@ bpn7071 «[ελληνικά](../el/prayers/#bpn7071)»
 
 -- Abdu'l-Bahá
 
-bpn7074 «[ελληνικά](../el/prayers/#bpn7074)» 
+bpn7074 
 
 ----
 
@@ -303,7 +304,7 @@ bpn7074 «[ελληνικά](../el/prayers/#bpn7074)»
 
 -- Bahá'u'lláh
 
-bpn7072 «[ελληνικά](../el/prayers/#bpn7072)» 
+bpn7072 
 
 ----
 
@@ -313,7 +314,7 @@ bpn7072 «[ελληνικά](../el/prayers/#bpn7072)»
 
 -- Bahá'u'lláh
 
-bpn7073 «[ελληνικά](../el/prayers/#bpn7073)» 
+bpn7073 
 
 ----
 
@@ -327,7 +328,7 @@ bpn7073 «[ελληνικά](../el/prayers/#bpn7073)»
 
 -- Bahá'u'lláh
 
-bpn7232 «[ελληνικά](../el/prayers/#bpn7232)» 
+bpn7232 
 
 ----
 
@@ -337,7 +338,7 @@ bpn7232 «[ελληνικά](../el/prayers/#bpn7232)»
 
 -- Bahá'u'lláh
 
-bpn7233 «[ελληνικά](../el/prayers/#bpn7233)» 
+bpn7233 
 
 ----
 
@@ -347,7 +348,7 @@ bpn7233 «[ελληνικά](../el/prayers/#bpn7233)»
 
 -- Bahá'u'lláh
 
-bpn7234 «[ελληνικά](../el/prayers/#bpn7234)» 
+bpn7234 
 
 ----
 
@@ -357,7 +358,7 @@ bpn7234 «[ελληνικά](../el/prayers/#bpn7234)»
 
 -- Abdu'l-Bahá
 
-bpn7235 «[ελληνικά](../el/prayers/#bpn7235)» 
+bpn7235 
 
 ----
 
@@ -371,7 +372,7 @@ bpn7235 «[ελληνικά](../el/prayers/#bpn7235)»
 
 -- Bahá'u'lláh
 
-bpn7128 «[ελληνικά](../el/prayers/#bpn7128)» 
+bpn7128 
 
 ----
 
@@ -381,7 +382,7 @@ bpn7128 «[ελληνικά](../el/prayers/#bpn7128)»
 
 -- Bahá'u'lláh
 
-bpn7129 «[ελληνικά](../el/prayers/#bpn7129)» 
+bpn7129 
 
 ----
 
@@ -391,7 +392,7 @@ bpn7129 «[ελληνικά](../el/prayers/#bpn7129)»
 
 -- Abdu'l-Bahá
 
-bpn7130 «[ελληνικά](../el/prayers/#bpn7130)» 
+bpn7130 
 
 ----
 
@@ -401,7 +402,7 @@ bpn7130 «[ελληνικά](../el/prayers/#bpn7130)»
 
 -- Abdu'l-Bahá
 
-bpn7131 «[ελληνικά](../el/prayers/#bpn7131)» 
+bpn7131 
 
 ----
 
@@ -411,7 +412,7 @@ bpn7131 «[ελληνικά](../el/prayers/#bpn7131)»
 
 -- Abdu'l-Bahá
 
-bpn7132 «[ελληνικά](../el/prayers/#bpn7132)» 
+bpn7132 
 
 ----
 
@@ -425,7 +426,7 @@ bpn7132 «[ελληνικά](../el/prayers/#bpn7132)»
 
 -- Abdu'l-Bahá
 
-bpn7083 «[ελληνικά](../el/prayers/#bpn7083)» 
+bpn7083 
 
 ----
 
@@ -439,7 +440,7 @@ bpn7083 «[ελληνικά](../el/prayers/#bpn7083)»
 
 -- Abdu'l-Bahá
 
-bpn7133 «[ελληνικά](../el/prayers/#bpn7133)» 
+bpn7133 
 
 ----
 
@@ -449,7 +450,7 @@ bpn7133 «[ελληνικά](../el/prayers/#bpn7133)»
 
 -- Abdu'l-Bahá
 
-bpn7134 «[ελληνικά](../el/prayers/#bpn7134)» 
+bpn7134 
 
 ----
 
@@ -459,7 +460,7 @@ bpn7134 «[ελληνικά](../el/prayers/#bpn7134)»
 
 -- Abdu'l-Bahá
 
-bpn7135 «[ελληνικά](../el/prayers/#bpn7135)» 
+bpn7135 
 
 ----
 
@@ -469,7 +470,7 @@ bpn7135 «[ελληνικά](../el/prayers/#bpn7135)»
 
 -- Abdu'l-Bahá
 
-bpn7136 «[ελληνικά](../el/prayers/#bpn7136)» 
+bpn7136 
 
 ----
 
@@ -479,7 +480,7 @@ bpn7136 «[ελληνικά](../el/prayers/#bpn7136)»
 
 -- Abdu'l-Bahá
 
-bpn7137 «[ελληνικά](../el/prayers/#bpn7137)» 
+bpn7137 
 
 ----
 
@@ -489,7 +490,7 @@ bpn7137 «[ελληνικά](../el/prayers/#bpn7137)»
 
 -- Abdu'l-Bahá
 
-bpn7138 «[ελληνικά](../el/prayers/#bpn7138)» 
+bpn7138 
 
 ----
 
@@ -499,7 +500,7 @@ bpn7138 «[ελληνικά](../el/prayers/#bpn7138)»
 
 -- Abdu'l-Bahá
 
-bpn7139 «[ελληνικά](../el/prayers/#bpn7139)» 
+bpn7139 
 
 ----
 
@@ -509,7 +510,7 @@ bpn7139 «[ελληνικά](../el/prayers/#bpn7139)»
 
 -- Abdu'l-Bahá
 
-bpn7140 «[ελληνικά](../el/prayers/#bpn7140)» 
+bpn7140 
 
 ----
 
@@ -523,7 +524,7 @@ bpn7140 «[ελληνικά](../el/prayers/#bpn7140)»
 
 -- Abdu'l-Bahá
 
-bpn7144 «[ελληνικά](../el/prayers/#bpn7144)» 
+bpn7144 
 
 ----
 
@@ -537,7 +538,7 @@ bpn7144 «[ελληνικά](../el/prayers/#bpn7144)»
 
 -- Bahá'u'lláh
 
-bpn7049 «[ελληνικά](../el/prayers/#bpn7049)» 
+bpn7049 
 
 ----
 
@@ -547,7 +548,7 @@ bpn7049 «[ελληνικά](../el/prayers/#bpn7049)»
 
 -- Abdu'l-Bahá
 
-bpn7050 «[ελληνικά](../el/prayers/#bpn7050)» 
+bpn7050 
 
 ----
 
@@ -557,7 +558,7 @@ bpn7050 «[ελληνικά](../el/prayers/#bpn7050)»
 
 -- Abdu'l-Bahá
 
-bpn7051 «[ελληνικά](../el/prayers/#bpn7051)» 
+bpn7051 
 
 ----
 
@@ -567,7 +568,7 @@ bpn7051 «[ελληνικά](../el/prayers/#bpn7051)»
 
 -- Abdu'l-Bahá
 
-bpn7052 «[ελληνικά](../el/prayers/#bpn7052)» 
+bpn7052 
 
 ----
 
@@ -577,7 +578,7 @@ bpn7052 «[ελληνικά](../el/prayers/#bpn7052)»
 
 -- Abdu'l-Bahá
 
-bpn7053 «[ελληνικά](../el/prayers/#bpn7053)» 
+bpn7053 
 
 ----
 
@@ -591,7 +592,7 @@ bpn7053 «[ελληνικά](../el/prayers/#bpn7053)»
 
 -- Bahá'u'lláh
 
-bpn7188 «[ελληνικά](../el/prayers/#bpn7188)» 
+bpn7188 
 
 ----
 
@@ -601,7 +602,7 @@ bpn7188 «[ελληνικά](../el/prayers/#bpn7188)»
 
 -- Bahá'u'lláh
 
-bpn7189 «[ελληνικά](../el/prayers/#bpn7189)» 
+bpn7189 
 
 ----
 
@@ -611,7 +612,7 @@ bpn7189 «[ελληνικά](../el/prayers/#bpn7189)»
 
 -- Bahá'u'lláh
 
-bpn7190 «[ελληνικά](../el/prayers/#bpn7190)» 
+bpn7190 
 
 ----
 
@@ -621,7 +622,7 @@ bpn7190 «[ελληνικά](../el/prayers/#bpn7190)»
 
 -- Bahá'u'lláh
 
-bpn7191 «[ελληνικά](../el/prayers/#bpn7191)» 
+bpn7191 
 
 ----
 
@@ -635,7 +636,7 @@ bpn7191 «[ελληνικά](../el/prayers/#bpn7191)»
 
 -- Abdu'l-Bahá
 
-bpn7210 «[ελληνικά](../el/prayers/#bpn7210)» 
+bpn7210 
 
 ----
 
@@ -649,7 +650,7 @@ bpn7210 «[ελληνικά](../el/prayers/#bpn7210)»
 
 -- Bahá'u'lláh
 
-bpn7075 «[ελληνικά](../el/prayers/#bpn7075)» 
+bpn7075 
 
 ----
 
@@ -659,7 +660,7 @@ bpn7075 «[ελληνικά](../el/prayers/#bpn7075)»
 
 -- Bahá'u'lláh
 
-bpn7076 «[ελληνικά](../el/prayers/#bpn7076)» 
+bpn7076 
 
 ----
 
@@ -669,7 +670,7 @@ bpn7076 «[ελληνικά](../el/prayers/#bpn7076)»
 
 -- Bahá'u'lláh
 
-bpn7077 «[ελληνικά](../el/prayers/#bpn7077)» 
+bpn7077 
 
 ----
 
@@ -679,7 +680,7 @@ bpn7077 «[ελληνικά](../el/prayers/#bpn7077)»
 
 -- Bahá'u'lláh
 
-bpn7078 «[ελληνικά](../el/prayers/#bpn7078)» 
+bpn7078 
 
 ----
 
@@ -689,7 +690,7 @@ bpn7078 «[ελληνικά](../el/prayers/#bpn7078)»
 
 -- Bahá'u'lláh
 
-bpn7079 «[ελληνικά](../el/prayers/#bpn7079)» 
+bpn7079 
 
 ----
 
@@ -699,7 +700,7 @@ bpn7079 «[ελληνικά](../el/prayers/#bpn7079)»
 
 -- Bahá'u'lláh
 
-bpn7080 «[ελληνικά](../el/prayers/#bpn7080)» 
+bpn7080 
 
 ----
 
@@ -709,7 +710,7 @@ bpn7080 «[ελληνικά](../el/prayers/#bpn7080)»
 
 -- Bahá'u'lláh
 
-bpn7081 «[ελληνικά](../el/prayers/#bpn7081)» 
+bpn7081 
 
 ----
 
@@ -719,7 +720,7 @@ bpn7081 «[ελληνικά](../el/prayers/#bpn7081)»
 
 -- Abdu'l-Bahá
 
-bpn7082 «[ελληνικά](../el/prayers/#bpn7082)» 
+bpn7082 
 
 ----
 
@@ -733,7 +734,7 @@ bpn7082 «[ελληνικά](../el/prayers/#bpn7082)»
 
 -- Bahá'u'lláh
 
-bpn7108 «[ελληνικά](../el/prayers/#bpn7108)» 
+bpn7108 
 
 ----
 
@@ -743,7 +744,7 @@ bpn7108 «[ελληνικά](../el/prayers/#bpn7108)»
 
 -- Báb
 
-bpn7109 «[ελληνικά](../el/prayers/#bpn7109)» 
+bpn7109 
 
 ----
 
@@ -753,7 +754,7 @@ bpn7109 «[ελληνικά](../el/prayers/#bpn7109)»
 
 -- Báb
 
-bpn7110 «[ελληνικά](../el/prayers/#bpn7110)» 
+bpn7110 
 
 ----
 
@@ -763,7 +764,7 @@ bpn7110 «[ελληνικά](../el/prayers/#bpn7110)»
 
 -- Báb
 
-bpn7111 «[ελληνικά](../el/prayers/#bpn7111)» 
+bpn7111 
 
 ----
 
@@ -773,7 +774,7 @@ bpn7111 «[ελληνικά](../el/prayers/#bpn7111)»
 
 -- Abdu'l-Bahá
 
-bpn7112 «[ελληνικά](../el/prayers/#bpn7112)» 
+bpn7112 
 
 ----
 
@@ -783,7 +784,7 @@ bpn7112 «[ελληνικά](../el/prayers/#bpn7112)»
 
 -- Abdu'l-Bahá
 
-bpn7113 «[ελληνικά](../el/prayers/#bpn7113)» 
+bpn7113 
 
 ----
 
@@ -797,7 +798,7 @@ bpn7113 «[ελληνικά](../el/prayers/#bpn7113)»
 
 -- Bahá'u'lláh
 
-bpn7114 «[ελληνικά](../el/prayers/#bpn7114)» 
+bpn7114 
 
 ----
 
@@ -807,7 +808,7 @@ bpn7114 «[ελληνικά](../el/prayers/#bpn7114)»
 
 -- Abdu'l-Bahá
 
-bpn7115 «[ελληνικά](../el/prayers/#bpn7115)» 
+bpn7115 
 
 ----
 
@@ -821,7 +822,7 @@ bpn7115 «[ελληνικά](../el/prayers/#bpn7115)»
 
 -- Bahá'u'lláh
 
-bpn7116 «[ελληνικά](../el/prayers/#bpn7116)» 
+bpn7116 
 
 ----
 
@@ -835,7 +836,7 @@ bpn7116 «[ελληνικά](../el/prayers/#bpn7116)»
 
 -- Bahá'u'lláh
 
-bpn7117 «[ελληνικά](../el/prayers/#bpn7117)» 
+bpn7117 
 
 ----
 
@@ -845,7 +846,7 @@ bpn7117 «[ελληνικά](../el/prayers/#bpn7117)»
 
 -- Bahá'u'lláh
 
-bpn7118 «[ελληνικά](../el/prayers/#bpn7118)» 
+bpn7118 
 
 ----
 
@@ -855,7 +856,7 @@ bpn7118 «[ελληνικά](../el/prayers/#bpn7118)»
 
 -- Bahá'u'lláh
 
-bpn7119 «[ελληνικά](../el/prayers/#bpn7119)» 
+bpn7119 
 
 ----
 
@@ -865,7 +866,7 @@ bpn7119 «[ελληνικά](../el/prayers/#bpn7119)»
 
 -- Báb
 
-bpn7120 «[ελληνικά](../el/prayers/#bpn7120)» 
+bpn7120 
 
 ----
 
@@ -875,7 +876,7 @@ bpn7120 «[ελληνικά](../el/prayers/#bpn7120)»
 
 -- Báb
 
-bpn7121 «[ελληνικά](../el/prayers/#bpn7121)» 
+bpn7121 
 
 ----
 
@@ -885,7 +886,7 @@ bpn7121 «[ελληνικά](../el/prayers/#bpn7121)»
 
 -- Báb
 
-bpn7122 «[ελληνικά](../el/prayers/#bpn7122)» 
+bpn7122 
 
 ----
 
@@ -895,7 +896,7 @@ bpn7122 «[ελληνικά](../el/prayers/#bpn7122)»
 
 -- Báb
 
-bpn7123 «[ελληνικά](../el/prayers/#bpn7123)» 
+bpn7123 
 
 ----
 
@@ -905,7 +906,7 @@ bpn7123 «[ελληνικά](../el/prayers/#bpn7123)»
 
 -- Abdu'l-Bahá
 
-bpn7124 «[ελληνικά](../el/prayers/#bpn7124)» 
+bpn7124 
 
 ----
 
@@ -915,7 +916,7 @@ bpn7124 «[ελληνικά](../el/prayers/#bpn7124)»
 
 -- Abdu'l-Bahá
 
-bpn7125 «[ελληνικά](../el/prayers/#bpn7125)» 
+bpn7125 
 
 ----
 
@@ -929,7 +930,7 @@ bpn7125 «[ελληνικά](../el/prayers/#bpn7125)»
 
 -- Abdu'l-Bahá
 
-bpn7126 «[ελληνικά](../el/prayers/#bpn7126)» 
+bpn7126 
 
 ----
 
@@ -943,7 +944,7 @@ bpn7126 «[ελληνικά](../el/prayers/#bpn7126)»
 
 -- Bahá'u'lláh
 
-bpn7048 «[ελληνικά](../el/prayers/#bpn7048)» 
+bpn7048 
 
 ----
 
@@ -957,7 +958,7 @@ bpn7048 «[ελληνικά](../el/prayers/#bpn7048)»
 
 -- Bahá'u'lláh
 
-bpn7046 «[ελληνικά](../el/prayers/#bpn7046)» 
+bpn7046 
 
 ----
 
@@ -971,7 +972,7 @@ bpn7046 «[ελληνικά](../el/prayers/#bpn7046)»
 
 -- Bahá'u'lláh
 
-bpn7045 «[ελληνικά](../el/prayers/#bpn7045)» 
+bpn7045 
 
 ----
 
@@ -985,7 +986,7 @@ bpn7045 «[ελληνικά](../el/prayers/#bpn7045)»
 
 -- Bahá'u'lláh
 
-bpn7044 «[ελληνικά](../el/prayers/#bpn7044)» 
+bpn7044 
 
 ----
 
@@ -999,7 +1000,7 @@ bpn7044 «[ελληνικά](../el/prayers/#bpn7044)»
 
 -- Bahá'u'lláh
 
-bpn7223 «[ελληνικά](../el/prayers/#bpn7223)» 
+bpn7223 
 
 ----
 
@@ -1009,7 +1010,7 @@ bpn7223 «[ελληνικά](../el/prayers/#bpn7223)»
 
 -- Bahá'u'lláh
 
-bpn7224 «[ελληνικά](../el/prayers/#bpn7224)» 
+bpn7224 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn7224 «[ελληνικά](../el/prayers/#bpn7224)»
 
 -- Bahá'u'lláh
 
-bpn7225 «[ελληνικά](../el/prayers/#bpn7225)» 
+bpn7225 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn7225 «[ελληνικά](../el/prayers/#bpn7225)»
 
 -- Bahá'u'lláh
 
-bpn7226 «[ελληνικά](../el/prayers/#bpn7226)» 
+bpn7226 
 
 ----
 
@@ -1039,7 +1040,7 @@ bpn7226 «[ελληνικά](../el/prayers/#bpn7226)»
 
 -- Bahá'u'lláh
 
-bpn7227 «[ελληνικά](../el/prayers/#bpn7227)» 
+bpn7227 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn7227 «[ελληνικά](../el/prayers/#bpn7227)»
 
 -- Bahá'u'lláh
 
-bpn7228 «[ελληνικά](../el/prayers/#bpn7228)» 
+bpn7228 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn7228 «[ελληνικά](../el/prayers/#bpn7228)»
 
 -- Abdu'l-Bahá
 
-bpn7229 «[ελληνικά](../el/prayers/#bpn7229)» 
+bpn7229 
 
 ----
 
@@ -1073,7 +1074,7 @@ bpn7229 «[ελληνικά](../el/prayers/#bpn7229)»
 
 -- Bahá'u'lláh
 
-bpn7231 «[ελληνικά](../el/prayers/#bpn7231)» 
+bpn7231 
 
 ----
 
@@ -1087,7 +1088,7 @@ bpn7231 «[ελληνικά](../el/prayers/#bpn7231)»
 
 -- Báb
 
-bpn7141 «[ελληνικά](../el/prayers/#bpn7141)» 
+bpn7141 
 
 ----
 
@@ -1097,7 +1098,7 @@ bpn7141 «[ελληνικά](../el/prayers/#bpn7141)»
 
 -- Báb
 
-bpn7142 «[ελληνικά](../el/prayers/#bpn7142)» 
+bpn7142 
 
 ----
 
@@ -1107,7 +1108,7 @@ bpn7142 «[ελληνικά](../el/prayers/#bpn7142)»
 
 -- Abdu'l-Bahá
 
-bpn7143 «[ελληνικά](../el/prayers/#bpn7143)» 
+bpn7143 
 
 ----
 
@@ -1121,7 +1122,7 @@ bpn7143 «[ελληνικά](../el/prayers/#bpn7143)»
 
 -- Bahá'u'lláh
 
-bpn7230 «[ελληνικά](../el/prayers/#bpn7230)» 
+bpn7230 
 
 ----
 
@@ -1135,7 +1136,7 @@ bpn7230 «[ελληνικά](../el/prayers/#bpn7230)»
 
 -- Bahá'u'lláh
 
-bpn7047 «[ελληνικά](../el/prayers/#bpn7047)» 
+bpn7047 
 
 ----
 
@@ -1149,7 +1150,7 @@ bpn7047 «[ελληνικά](../el/prayers/#bpn7047)»
 
 -- Bahá'u'lláh
 
-bpn7241 «[ελληνικά](../el/prayers/#bpn7241)» 
+bpn7241 
 
 ----
 
@@ -1159,7 +1160,7 @@ bpn7241 «[ελληνικά](../el/prayers/#bpn7241)»
 
 -- Báb
 
-bpn7240 «[ελληνικά](../el/prayers/#bpn7240)» 
+bpn7240 
 
 ----
 
@@ -1173,7 +1174,7 @@ bpn7240 «[ελληνικά](../el/prayers/#bpn7240)»
 
 -- Bahá'u'lláh
 
-bpn7242 «[ελληνικά](../el/prayers/#bpn7242)» 
+bpn7242 
 
 ----
 
@@ -1187,7 +1188,7 @@ bpn7242 «[ελληνικά](../el/prayers/#bpn7242)»
 
 -- Bahá'u'lláh
 
-bpn7243 «[ελληνικά](../el/prayers/#bpn7243)» 
+bpn7243 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn7243 «[ελληνικά](../el/prayers/#bpn7243)»
 
 -- Abdu'l-Bahá
 
-bpn7244 «[ελληνικά](../el/prayers/#bpn7244)» 
+bpn7244 
 
 ----
 
@@ -1211,7 +1212,7 @@ bpn7244 «[ελληνικά](../el/prayers/#bpn7244)»
 
 -- Abdu'l-Bahá
 
-bpn7245 «[ελληνικά](../el/prayers/#bpn7245)» 
+bpn7245 
 
 ----
 
@@ -1221,7 +1222,7 @@ bpn7245 «[ελληνικά](../el/prayers/#bpn7245)»
 
 -- Abdu'l-Bahá
 
-bpn7246 «[ελληνικά](../el/prayers/#bpn7246)» 
+bpn7246 
 
 ----
 
@@ -1231,7 +1232,7 @@ bpn7246 «[ελληνικά](../el/prayers/#bpn7246)»
 
 -- Abdu'l-Bahá
 
-bpn7247 «[ελληνικά](../el/prayers/#bpn7247)» 
+bpn7247 
 
 ----
 
@@ -1241,7 +1242,7 @@ bpn7247 «[ελληνικά](../el/prayers/#bpn7247)»
 
 -- Abdu'l-Bahá
 
-bpn7248 «[ελληνικά](../el/prayers/#bpn7248)» 
+bpn7248 
 
 ----
 
@@ -1251,7 +1252,7 @@ bpn7248 «[ελληνικά](../el/prayers/#bpn7248)»
 
 -- Abdu'l-Bahá
 
-bpn7249 «[ελληνικά](../el/prayers/#bpn7249)» 
+bpn7249 
 
 ----
 
@@ -1261,7 +1262,7 @@ bpn7249 «[ελληνικά](../el/prayers/#bpn7249)»
 
 -- Abdu'l-Bahá
 
-bpn7250 «[ελληνικά](../el/prayers/#bpn7250)» 
+bpn7250 
 
 ----
 
@@ -1271,7 +1272,7 @@ bpn7250 «[ελληνικά](../el/prayers/#bpn7250)»
 
 -- Abdu'l-Bahá
 
-bpn7251 «[ελληνικά](../el/prayers/#bpn7251)» 
+bpn7251 
 
 ----
 
@@ -1281,7 +1282,7 @@ bpn7251 «[ελληνικά](../el/prayers/#bpn7251)»
 
 -- Abdu'l-Bahá
 
-bpn7252 «[ελληνικά](../el/prayers/#bpn7252)» 
+bpn7252 
 
 ----
 
@@ -1291,7 +1292,7 @@ bpn7252 «[ελληνικά](../el/prayers/#bpn7252)»
 
 -- Abdu'l-Bahá
 
-bpn7253 «[ελληνικά](../el/prayers/#bpn7253)» 
+bpn7253 
 
 ----
 
@@ -1301,7 +1302,7 @@ bpn7253 «[ελληνικά](../el/prayers/#bpn7253)»
 
 -- Abdu'l-Bahá
 
-bpn7254 «[ελληνικά](../el/prayers/#bpn7254)» 
+bpn7254 
 
 ----
 
@@ -1315,7 +1316,7 @@ bpn7254 «[ελληνικά](../el/prayers/#bpn7254)»
 
 -- Bahá'u'lláh
 
-bpn7158 «[ελληνικά](../el/prayers/#bpn7158)» 
+bpn7158 
 
 ----
 
@@ -1325,7 +1326,7 @@ bpn7158 «[ελληνικά](../el/prayers/#bpn7158)»
 
 -- Bahá'u'lláh
 
-bpn7159 «[ελληνικά](../el/prayers/#bpn7159)» 
+bpn7159 
 
 ----
 
@@ -1335,7 +1336,7 @@ bpn7159 «[ελληνικά](../el/prayers/#bpn7159)»
 
 -- Bahá'u'lláh
 
-bpn7160 «[ελληνικά](../el/prayers/#bpn7160)» 
+bpn7160 
 
 ----
 
@@ -1345,7 +1346,7 @@ bpn7160 «[ελληνικά](../el/prayers/#bpn7160)»
 
 -- Bahá'u'lláh
 
-bpn7161 «[ελληνικά](../el/prayers/#bpn7161)» 
+bpn7161 
 
 ----
 
@@ -1355,7 +1356,7 @@ bpn7161 «[ελληνικά](../el/prayers/#bpn7161)»
 
 -- Bahá'u'lláh
 
-bpn7162 «[ελληνικά](../el/prayers/#bpn7162)» 
+bpn7162 
 
 ----
 
@@ -1365,7 +1366,7 @@ bpn7162 «[ελληνικά](../el/prayers/#bpn7162)»
 
 -- Bahá'u'lláh
 
-bpn7163 «[ελληνικά](../el/prayers/#bpn7163)» 
+bpn7163 
 
 ----
 
@@ -1375,7 +1376,7 @@ bpn7163 «[ελληνικά](../el/prayers/#bpn7163)»
 
 -- Bahá'u'lláh
 
-bpn7164 «[ελληνικά](../el/prayers/#bpn7164)» 
+bpn7164 
 
 ----
 
@@ -1385,7 +1386,7 @@ bpn7164 «[ελληνικά](../el/prayers/#bpn7164)»
 
 -- Bahá'u'lláh
 
-bpn7165 «[ελληνικά](../el/prayers/#bpn7165)» 
+bpn7165 
 
 ----
 
@@ -1395,7 +1396,7 @@ bpn7165 «[ελληνικά](../el/prayers/#bpn7165)»
 
 -- Bahá'u'lláh
 
-bpn7166 «[ελληνικά](../el/prayers/#bpn7166)» 
+bpn7166 
 
 ----
 
@@ -1405,7 +1406,7 @@ bpn7166 «[ελληνικά](../el/prayers/#bpn7166)»
 
 -- Bahá'u'lláh
 
-bpn7167 «[ελληνικά](../el/prayers/#bpn7167)» 
+bpn7167 
 
 ----
 
@@ -1415,7 +1416,7 @@ bpn7167 «[ελληνικά](../el/prayers/#bpn7167)»
 
 -- Báb
 
-bpn7168 «[ελληνικά](../el/prayers/#bpn7168)» 
+bpn7168 
 
 ----
 
@@ -1425,7 +1426,7 @@ bpn7168 «[ελληνικά](../el/prayers/#bpn7168)»
 
 -- Abdu'l-Bahá
 
-bpn7145 «[ελληνικά](../el/prayers/#bpn7145)» 
+bpn7145 
 
 ----
 
@@ -1435,7 +1436,7 @@ bpn7145 «[ελληνικά](../el/prayers/#bpn7145)»
 
 -- Abdu'l-Bahá
 
-bpn7146 «[ελληνικά](../el/prayers/#bpn7146)» 
+bpn7146 
 
 ----
 
@@ -1445,7 +1446,7 @@ bpn7146 «[ελληνικά](../el/prayers/#bpn7146)»
 
 -- Abdu'l-Bahá
 
-bpn7147 «[ελληνικά](../el/prayers/#bpn7147)» 
+bpn7147 
 
 ----
 
@@ -1455,7 +1456,7 @@ bpn7147 «[ελληνικά](../el/prayers/#bpn7147)»
 
 -- Abdu'l-Bahá
 
-bpn7148 «[ελληνικά](../el/prayers/#bpn7148)» 
+bpn7148 
 
 ----
 
@@ -1465,7 +1466,7 @@ bpn7148 «[ελληνικά](../el/prayers/#bpn7148)»
 
 -- Abdu'l-Bahá
 
-bpn7149 «[ελληνικά](../el/prayers/#bpn7149)» 
+bpn7149 
 
 ----
 
@@ -1475,7 +1476,7 @@ bpn7149 «[ελληνικά](../el/prayers/#bpn7149)»
 
 -- Abdu'l-Bahá
 
-bpn7150 «[ελληνικά](../el/prayers/#bpn7150)» 
+bpn7150 
 
 ----
 
@@ -1485,7 +1486,7 @@ bpn7150 «[ελληνικά](../el/prayers/#bpn7150)»
 
 -- Abdu'l-Bahá
 
-bpn7151 «[ελληνικά](../el/prayers/#bpn7151)» 
+bpn7151 
 
 ----
 
@@ -1495,7 +1496,7 @@ bpn7151 «[ελληνικά](../el/prayers/#bpn7151)»
 
 -- Abdu'l-Bahá
 
-bpn7152 «[ελληνικά](../el/prayers/#bpn7152)» 
+bpn7152 
 
 ----
 
@@ -1505,7 +1506,7 @@ bpn7152 «[ελληνικά](../el/prayers/#bpn7152)»
 
 -- Abdu'l-Bahá
 
-bpn7153 «[ελληνικά](../el/prayers/#bpn7153)» 
+bpn7153 
 
 ----
 
@@ -1515,7 +1516,7 @@ bpn7153 «[ελληνικά](../el/prayers/#bpn7153)»
 
 -- Abdu'l-Bahá
 
-bpn7154 «[ελληνικά](../el/prayers/#bpn7154)» 
+bpn7154 
 
 ----
 
@@ -1525,7 +1526,7 @@ bpn7154 «[ελληνικά](../el/prayers/#bpn7154)»
 
 -- Abdu'l-Bahá
 
-bpn7155 «[ελληνικά](../el/prayers/#bpn7155)» 
+bpn7155 
 
 ----
 
@@ -1535,7 +1536,7 @@ bpn7155 «[ελληνικά](../el/prayers/#bpn7155)»
 
 -- Abdu'l-Bahá
 
-bpn7156 «[ελληνικά](../el/prayers/#bpn7156)» 
+bpn7156 
 
 ----
 
@@ -1545,7 +1546,7 @@ bpn7156 «[ελληνικά](../el/prayers/#bpn7156)»
 
 -- Abdu'l-Bahá
 
-bpn7157 «[ελληνικά](../el/prayers/#bpn7157)» 
+bpn7157 
 
 ----
 
@@ -1555,7 +1556,7 @@ bpn7157 «[ελληνικά](../el/prayers/#bpn7157)»
 
 -- Abdu'l-Bahá
 
-bpn7169 «[ελληνικά](../el/prayers/#bpn7169)» 
+bpn7169 
 
 ----
 
@@ -1565,7 +1566,7 @@ bpn7169 «[ελληνικά](../el/prayers/#bpn7169)»
 
 -- Abdu'l-Bahá
 
-bpn7170 «[ελληνικά](../el/prayers/#bpn7170)» 
+bpn7170 
 
 ----
 
@@ -1575,7 +1576,7 @@ bpn7170 «[ελληνικά](../el/prayers/#bpn7170)»
 
 -- Abdu'l-Bahá
 
-bpn7171 «[ελληνικά](../el/prayers/#bpn7171)» 
+bpn7171 
 
 ----
 
@@ -1585,7 +1586,7 @@ bpn7171 «[ελληνικά](../el/prayers/#bpn7171)»
 
 -- Abdu'l-Bahá
 
-bpn7172 «[ελληνικά](../el/prayers/#bpn7172)» 
+bpn7172 
 
 ----
 
@@ -1595,7 +1596,7 @@ bpn7172 «[ελληνικά](../el/prayers/#bpn7172)»
 
 -- Abdu'l-Bahá
 
-bpn7173 «[ελληνικά](../el/prayers/#bpn7173)» 
+bpn7173 
 
 ----
 
@@ -1605,7 +1606,7 @@ bpn7173 «[ελληνικά](../el/prayers/#bpn7173)»
 
 -- Abdu'l-Bahá
 
-bpn7174 «[ελληνικά](../el/prayers/#bpn7174)» 
+bpn7174 
 
 ----
 
@@ -1615,7 +1616,7 @@ bpn7174 «[ελληνικά](../el/prayers/#bpn7174)»
 
 -- Abdu'l-Bahá
 
-bpn7175 «[ελληνικά](../el/prayers/#bpn7175)» 
+bpn7175 
 
 ----
 
@@ -1625,7 +1626,7 @@ bpn7175 «[ελληνικά](../el/prayers/#bpn7175)»
 
 -- Abdu'l-Bahá
 
-bpn7176 «[ελληνικά](../el/prayers/#bpn7176)» 
+bpn7176 
 
 ----
 
@@ -1639,7 +1640,7 @@ bpn7176 «[ελληνικά](../el/prayers/#bpn7176)»
 
 -- Bahá'u'lláh
 
-bpn7236 «[ελληνικά](../el/prayers/#bpn7236)» 
+bpn7236 
 
 ----
 
@@ -1649,7 +1650,7 @@ bpn7236 «[ελληνικά](../el/prayers/#bpn7236)»
 
 -- Abdu'l-Bahá
 
-bpn7237 «[ελληνικά](../el/prayers/#bpn7237)» 
+bpn7237 
 
 ----
 
@@ -1659,7 +1660,7 @@ bpn7237 «[ελληνικά](../el/prayers/#bpn7237)»
 
 -- Abdu'l-Bahá
 
-bpn7238 «[ελληνικά](../el/prayers/#bpn7238)» 
+bpn7238 
 
 ----
 
@@ -1669,7 +1670,7 @@ bpn7238 «[ελληνικά](../el/prayers/#bpn7238)»
 
 -- Abdu'l-Bahá
 
-bpn7239 «[ελληνικά](../el/prayers/#bpn7239)» 
+bpn7239 
 
 ----
 
@@ -1683,7 +1684,7 @@ bpn7239 «[ελληνικά](../el/prayers/#bpn7239)»
 
 -- Bahá'u'lláh
 
-bpn7177 «[ελληνικά](../el/prayers/#bpn7177)» 
+bpn7177 
 
 ----
 
@@ -1693,7 +1694,7 @@ bpn7177 «[ελληνικά](../el/prayers/#bpn7177)»
 
 -- Bahá'u'lláh
 
-bpn7178 «[ελληνικά](../el/prayers/#bpn7178)» 
+bpn7178 
 
 ----
 
@@ -1703,7 +1704,7 @@ bpn7178 «[ελληνικά](../el/prayers/#bpn7178)»
 
 -- Bahá'u'lláh
 
-bpn7179 «[ελληνικά](../el/prayers/#bpn7179)» 
+bpn7179 
 
 ----
 
@@ -1713,7 +1714,7 @@ bpn7179 «[ελληνικά](../el/prayers/#bpn7179)»
 
 -- Bahá'u'lláh
 
-bpn7180 «[ελληνικά](../el/prayers/#bpn7180)» 
+bpn7180 
 
 ----
 
@@ -1723,7 +1724,7 @@ bpn7180 «[ελληνικά](../el/prayers/#bpn7180)»
 
 -- Bahá'u'lláh
 
-bpn7181 «[ελληνικά](../el/prayers/#bpn7181)» 
+bpn7181 
 
 ----
 
@@ -1733,7 +1734,7 @@ bpn7181 «[ελληνικά](../el/prayers/#bpn7181)»
 
 -- Báb
 
-bpn7182 «[ελληνικά](../el/prayers/#bpn7182)» 
+bpn7182 
 
 ----
 
@@ -1743,7 +1744,7 @@ bpn7182 «[ελληνικά](../el/prayers/#bpn7182)»
 
 -- Báb
 
-bpn7183 «[ελληνικά](../el/prayers/#bpn7183)» 
+bpn7183 
 
 ----
 
@@ -1753,7 +1754,7 @@ bpn7183 «[ελληνικά](../el/prayers/#bpn7183)»
 
 -- Báb
 
-bpn7184 «[ελληνικά](../el/prayers/#bpn7184)» 
+bpn7184 
 
 ----
 
@@ -1763,7 +1764,7 @@ bpn7184 «[ελληνικά](../el/prayers/#bpn7184)»
 
 -- Abdu'l-Bahá
 
-bpn7185 «[ελληνικά](../el/prayers/#bpn7185)» 
+bpn7185 
 
 ----
 
@@ -1773,7 +1774,7 @@ bpn7185 «[ελληνικά](../el/prayers/#bpn7185)»
 
 -- Abdu'l-Bahá
 
-bpn7186 «[ελληνικά](../el/prayers/#bpn7186)» 
+bpn7186 
 
 ----
 
@@ -1783,7 +1784,7 @@ bpn7186 «[ελληνικά](../el/prayers/#bpn7186)»
 
 -- Abdu'l-Bahá
 
-bpn7187 «[ελληνικά](../el/prayers/#bpn7187)» 
+bpn7187 
 
 ----
 
@@ -1797,7 +1798,7 @@ bpn7187 «[ελληνικά](../el/prayers/#bpn7187)»
 
 -- Bahá'u'lláh
 
-bpn7192 «[ελληνικά](../el/prayers/#bpn7192)» 
+bpn7192 
 
 ----
 
@@ -1807,7 +1808,7 @@ bpn7192 «[ελληνικά](../el/prayers/#bpn7192)»
 
 -- Bahá'u'lláh
 
-bpn7193 «[ελληνικά](../el/prayers/#bpn7193)» 
+bpn7193 
 
 ----
 
@@ -1817,7 +1818,7 @@ bpn7193 «[ελληνικά](../el/prayers/#bpn7193)»
 
 -- Báb
 
-bpn7197 «[ελληνικά](../el/prayers/#bpn7197)» 
+bpn7197 
 
 ----
 
@@ -1827,7 +1828,7 @@ bpn7197 «[ελληνικά](../el/prayers/#bpn7197)»
 
 -- Báb
 
-bpn7198 «[ελληνικά](../el/prayers/#bpn7198)» 
+bpn7198 
 
 ----
 
@@ -1837,7 +1838,7 @@ bpn7198 «[ελληνικά](../el/prayers/#bpn7198)»
 
 -- Abdu'l-Bahá
 
-bpn7194 «[ελληνικά](../el/prayers/#bpn7194)» 
+bpn7194 
 
 ----
 
@@ -1847,7 +1848,7 @@ bpn7194 «[ελληνικά](../el/prayers/#bpn7194)»
 
 -- Abdu'l-Bahá
 
-bpn7195 «[ελληνικά](../el/prayers/#bpn7195)» 
+bpn7195 
 
 ----
 
@@ -1857,7 +1858,7 @@ bpn7195 «[ελληνικά](../el/prayers/#bpn7195)»
 
 -- Abdu'l-Bahá
 
-bpn7196 «[ελληνικά](../el/prayers/#bpn7196)» 
+bpn7196 
 
 ----
 
@@ -1871,7 +1872,7 @@ bpn7196 «[ελληνικά](../el/prayers/#bpn7196)»
 
 -- Bahá'u'lláh
 
-bpn7199 «[ελληνικά](../el/prayers/#bpn7199)» 
+bpn7199 
 
 ----
 
@@ -1881,7 +1882,7 @@ bpn7199 «[ελληνικά](../el/prayers/#bpn7199)»
 
 -- Bahá'u'lláh
 
-bpn7200 «[ελληνικά](../el/prayers/#bpn7200)» 
+bpn7200 
 
 ----
 
@@ -1891,7 +1892,7 @@ bpn7200 «[ελληνικά](../el/prayers/#bpn7200)»
 
 -- Abdu'l-Bahá
 
-bpn7201 «[ελληνικά](../el/prayers/#bpn7201)» 
+bpn7201 
 
 ----
 
@@ -1901,7 +1902,7 @@ bpn7201 «[ελληνικά](../el/prayers/#bpn7201)»
 
 -- Abdu'l-Bahá
 
-bpn7202 «[ελληνικά](../el/prayers/#bpn7202)» 
+bpn7202 
 
 ----
 
@@ -1911,7 +1912,7 @@ bpn7202 «[ελληνικά](../el/prayers/#bpn7202)»
 
 -- Abdu'l-Bahá
 
-bpn7203 «[ελληνικά](../el/prayers/#bpn7203)» 
+bpn7203 
 
 ----
 
@@ -1925,7 +1926,7 @@ bpn7203 «[ελληνικά](../el/prayers/#bpn7203)»
 
 -- Abdu'l-Bahá
 
-bpn7204 «[ελληνικά](../el/prayers/#bpn7204)» 
+bpn7204 
 
 ----
 
@@ -1935,7 +1936,7 @@ bpn7204 «[ελληνικά](../el/prayers/#bpn7204)»
 
 -- Abdu'l-Bahá
 
-bpn7205 «[ελληνικά](../el/prayers/#bpn7205)» 
+bpn7205 
 
 ----
 
@@ -1945,7 +1946,7 @@ bpn7205 «[ελληνικά](../el/prayers/#bpn7205)»
 
 -- Abdu'l-Bahá
 
-bpn7206 «[ελληνικά](../el/prayers/#bpn7206)» 
+bpn7206 
 
 ----
 
@@ -1955,7 +1956,7 @@ bpn7206 «[ελληνικά](../el/prayers/#bpn7206)»
 
 -- Abdu'l-Bahá
 
-bpn7207 «[ελληνικά](../el/prayers/#bpn7207)» 
+bpn7207 
 
 ----
 
@@ -1965,7 +1966,7 @@ bpn7207 «[ελληνικά](../el/prayers/#bpn7207)»
 
 -- Abdu'l-Bahá
 
-bpn7208 «[ελληνικά](../el/prayers/#bpn7208)» 
+bpn7208 
 
 ----
 
@@ -1975,7 +1976,7 @@ bpn7208 «[ελληνικά](../el/prayers/#bpn7208)»
 
 -- Abdu'l-Bahá
 
-bpn7209 «[ελληνικά](../el/prayers/#bpn7209)» 
+bpn7209 
 
 ----
 
@@ -1989,7 +1990,7 @@ bpn7209 «[ελληνικά](../el/prayers/#bpn7209)»
 
 -- Bahá'u'lláh
 
-bpn7211 «[ελληνικά](../el/prayers/#bpn7211)» 
+bpn7211 
 
 ----
 
@@ -1999,7 +2000,7 @@ bpn7211 «[ελληνικά](../el/prayers/#bpn7211)»
 
 -- Bahá'u'lláh
 
-bpn7212 «[ελληνικά](../el/prayers/#bpn7212)» 
+bpn7212 
 
 ----
 
@@ -2009,7 +2010,7 @@ bpn7212 «[ελληνικά](../el/prayers/#bpn7212)»
 
 -- Bahá'u'lláh
 
-bpn7213 «[ελληνικά](../el/prayers/#bpn7213)» 
+bpn7213 
 
 ----
 
@@ -2019,7 +2020,7 @@ bpn7213 «[ελληνικά](../el/prayers/#bpn7213)»
 
 -- Bahá'u'lláh
 
-bpn7214 «[ελληνικά](../el/prayers/#bpn7214)» 
+bpn7214 
 
 ----
 
@@ -2029,7 +2030,7 @@ bpn7214 «[ελληνικά](../el/prayers/#bpn7214)»
 
 -- Báb
 
-bpn7215 «[ελληνικά](../el/prayers/#bpn7215)» 
+bpn7215 
 
 ----
 
@@ -2039,7 +2040,7 @@ bpn7215 «[ελληνικά](../el/prayers/#bpn7215)»
 
 -- Báb
 
-bpn7216 «[ελληνικά](../el/prayers/#bpn7216)» 
+bpn7216 
 
 ----
 
@@ -2049,7 +2050,7 @@ bpn7216 «[ελληνικά](../el/prayers/#bpn7216)»
 
 -- Báb
 
-bpn7217 «[ελληνικά](../el/prayers/#bpn7217)» 
+bpn7217 
 
 ----
 
@@ -2059,7 +2060,7 @@ bpn7217 «[ελληνικά](../el/prayers/#bpn7217)»
 
 -- Báb
 
-bpn7218 «[ελληνικά](../el/prayers/#bpn7218)» 
+bpn7218 
 
 ----
 
@@ -2069,7 +2070,7 @@ bpn7218 «[ελληνικά](../el/prayers/#bpn7218)»
 
 -- Báb
 
-bpn7219 «[ελληνικά](../el/prayers/#bpn7219)» 
+bpn7219 
 
 ----
 
@@ -2079,7 +2080,7 @@ bpn7219 «[ελληνικά](../el/prayers/#bpn7219)»
 
 -- Abdu'l-Bahá
 
-bpn7220 «[ελληνικά](../el/prayers/#bpn7220)» 
+bpn7220 
 
 ----
 
@@ -2093,7 +2094,7 @@ bpn7220 «[ελληνικά](../el/prayers/#bpn7220)»
 
 -- Bahá'u'lláh
 
-bpn7221 «[ελληνικά](../el/prayers/#bpn7221)» 
+bpn7221 
 
 ----
 
@@ -2103,7 +2104,7 @@ bpn7221 «[ελληνικά](../el/prayers/#bpn7221)»
 
 -- Bahá'u'lláh
 
-bpn7222 «[ελληνικά](../el/prayers/#bpn7222)» 
+bpn7222 
 
 ----
 
@@ -2117,7 +2118,7 @@ bpn7222 «[ελληνικά](../el/prayers/#bpn7222)»
 
 -- Bahá'u'lláh
 
-bpn7127 «[ελληνικά](../el/prayers/#bpn7127)» 
+bpn7127 
 
 ----
 
@@ -2131,7 +2132,7 @@ bpn7127 «[ελληνικά](../el/prayers/#bpn7127)»
 
 -- Bahá'u'lláh
 
-bpn7084 «[ελληνικά](../el/prayers/#bpn7084)» 
+bpn7084 
 
 ----
 
@@ -2141,7 +2142,7 @@ bpn7084 «[ελληνικά](../el/prayers/#bpn7084)»
 
 -- Bahá'u'lláh
 
-bpn7085 «[ελληνικά](../el/prayers/#bpn7085)» 
+bpn7085 
 
 ----
 
@@ -2151,7 +2152,7 @@ bpn7085 «[ελληνικά](../el/prayers/#bpn7085)»
 
 -- Bahá'u'lláh
 
-bpn7086 «[ελληνικά](../el/prayers/#bpn7086)» 
+bpn7086 
 
 ----
 
@@ -2161,7 +2162,7 @@ bpn7086 «[ελληνικά](../el/prayers/#bpn7086)»
 
 -- Bahá'u'lláh
 
-bpn7087 «[ελληνικά](../el/prayers/#bpn7087)» 
+bpn7087 
 
 ----
 
@@ -2171,7 +2172,7 @@ bpn7087 «[ελληνικά](../el/prayers/#bpn7087)»
 
 -- Bahá'u'lláh
 
-bpn7088 «[ελληνικά](../el/prayers/#bpn7088)» 
+bpn7088 
 
 ----
 
@@ -2181,7 +2182,7 @@ bpn7088 «[ελληνικά](../el/prayers/#bpn7088)»
 
 -- Abdu'l-Bahá
 
-bpn7089 «[ελληνικά](../el/prayers/#bpn7089)» 
+bpn7089 
 
 ----
 
@@ -2191,7 +2192,7 @@ bpn7089 «[ελληνικά](../el/prayers/#bpn7089)»
 
 -- Abdu'l-Bahá
 
-bpn7090 «[ελληνικά](../el/prayers/#bpn7090)» 
+bpn7090 
 
 ----
 
@@ -2201,7 +2202,7 @@ bpn7090 «[ελληνικά](../el/prayers/#bpn7090)»
 
 -- Abdu'l-Bahá
 
-bpn7091 «[ελληνικά](../el/prayers/#bpn7091)» 
+bpn7091 
 
 ----
 
@@ -2211,7 +2212,7 @@ bpn7091 «[ελληνικά](../el/prayers/#bpn7091)»
 
 -- Abdu'l-Bahá
 
-bpn7092 «[ελληνικά](../el/prayers/#bpn7092)» 
+bpn7092 
 
 ----
 
@@ -2225,7 +2226,7 @@ bpn7092 «[ελληνικά](../el/prayers/#bpn7092)»
 
 -- Bahá'u'lláh
 
-bpn7093 «[ελληνικά](../el/prayers/#bpn7093)» 
+bpn7093 
 
 ----
 
@@ -2235,7 +2236,7 @@ bpn7093 «[ελληνικά](../el/prayers/#bpn7093)»
 
 -- Bahá'u'lláh
 
-bpn7094 «[ελληνικά](../el/prayers/#bpn7094)» 
+bpn7094 
 
 ----
 
@@ -2245,7 +2246,7 @@ bpn7094 «[ελληνικά](../el/prayers/#bpn7094)»
 
 -- Bahá'u'lláh
 
-bpn7095 «[ελληνικά](../el/prayers/#bpn7095)» 
+bpn7095 
 
 ----
 
@@ -2255,7 +2256,7 @@ bpn7095 «[ελληνικά](../el/prayers/#bpn7095)»
 
 -- Bahá'u'lláh
 
-bpn7096 «[ελληνικά](../el/prayers/#bpn7096)» 
+bpn7096 
 
 ----
 
@@ -2265,7 +2266,7 @@ bpn7096 «[ελληνικά](../el/prayers/#bpn7096)»
 
 -- Bahá'u'lláh
 
-bpn7097 «[ελληνικά](../el/prayers/#bpn7097)» 
+bpn7097 
 
 ----
 
@@ -2275,7 +2276,7 @@ bpn7097 «[ελληνικά](../el/prayers/#bpn7097)»
 
 -- Báb
 
-bpn7098 «[ελληνικά](../el/prayers/#bpn7098)» 
+bpn7098 
 
 ----
 
@@ -2285,7 +2286,7 @@ bpn7098 «[ελληνικά](../el/prayers/#bpn7098)»
 
 -- Báb
 
-bpn7099 «[ελληνικά](../el/prayers/#bpn7099)» 
+bpn7099 
 
 ----
 
@@ -2295,7 +2296,7 @@ bpn7099 «[ελληνικά](../el/prayers/#bpn7099)»
 
 -- Báb
 
-bpn7100 «[ελληνικά](../el/prayers/#bpn7100)» 
+bpn7100 
 
 ----
 
@@ -2305,7 +2306,7 @@ bpn7100 «[ελληνικά](../el/prayers/#bpn7100)»
 
 -- Báb
 
-bpn7101 «[ελληνικά](../el/prayers/#bpn7101)» 
+bpn7101 
 
 ----
 
@@ -2319,7 +2320,7 @@ bpn7101 «[ελληνικά](../el/prayers/#bpn7101)»
 
 -- Bahá'u'lláh
 
-bpn7102 «[ελληνικά](../el/prayers/#bpn7102)» 
+bpn7102 
 
 ----
 
@@ -2329,7 +2330,7 @@ bpn7102 «[ελληνικά](../el/prayers/#bpn7102)»
 
 -- Bahá'u'lláh
 
-bpn7103 «[ελληνικά](../el/prayers/#bpn7103)» 
+bpn7103 
 
 ----
 
@@ -2339,7 +2340,7 @@ bpn7103 «[ελληνικά](../el/prayers/#bpn7103)»
 
 -- Bahá'u'lláh
 
-bpn7104 «[ελληνικά](../el/prayers/#bpn7104)» 
+bpn7104 
 
 ----
 
@@ -2349,7 +2350,7 @@ bpn7104 «[ελληνικά](../el/prayers/#bpn7104)»
 
 -- Bahá'u'lláh
 
-bpn7105 «[ελληνικά](../el/prayers/#bpn7105)» 
+bpn7105 
 
 ----
 
@@ -2359,7 +2360,7 @@ bpn7105 «[ελληνικά](../el/prayers/#bpn7105)»
 
 -- Bahá'u'lláh
 
-bpn7107 «[ελληνικά](../el/prayers/#bpn7107)» 
+bpn7107 
 
 ----
 
@@ -2369,7 +2370,7 @@ bpn7107 «[ελληνικά](../el/prayers/#bpn7107)»
 
 -- Báb
 
-bpn7106 «[ελληνικά](../el/prayers/#bpn7106)» 
+bpn7106 
 
 ----
 

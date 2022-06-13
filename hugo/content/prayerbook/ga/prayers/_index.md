@@ -5,6 +5,7 @@ tags = ['lang=ga', 'prayerbook']
 
 
 
+
 [General](#General)
 
 
@@ -17,7 +18,7 @@ tags = ['lang=ga', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6016 «[Irish](../ga/prayers/#bpn6016)» 
+bpn6016 
 
 ----
 
@@ -27,7 +28,7 @@ bpn6016 «[Irish](../ga/prayers/#bpn6016)»
 
 -- Báb
 
-bpn6015 «[Irish](../ga/prayers/#bpn6015)» 
+bpn6015 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=mg', 'prayerbook']
 
 
 
+
 [ANDRO MANELANELANA](#ANDRO+MANELANELANA)
 
 [ANKIZY](#ANKIZY)
@@ -73,7 +74,7 @@ tags = ['lang=mg', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn9368 «[Malagasy](../mg/prayers/#bpn9368)» 
+bpn9368 
 
 ----
 
@@ -87,7 +88,7 @@ Ry Andriamanitro! Tariho aho, arovy aho, hazavao ny jiron’ny foko ary ataovy t
 
 -- Abdu'l-Bahá
 
-bpn9395 «[Malagasy](../mg/prayers/#bpn9395)» 
+bpn9395 
 
 ----
 
@@ -97,7 +98,7 @@ Ry Andriamanitra! Beazo ireto zaza ireto. Ireo zaza ireo dia volin’ny Saham-bo
 
 -- Abdu'l-Bahá
 
-bpn9396 «[Malagasy](../mg/prayers/#bpn9396)» 
+bpn9396 
 
 ----
 
@@ -107,7 +108,7 @@ Ry Andriamanitro! Tezao ity zaza menavava ity eo an-Tratram-pitiavanao ary omeo 
 
 -- Abdu'l-Bahá
 
-bpn9397 «[Malagasy](../mg/prayers/#bpn9397)» 
+bpn9397 
 
 ----
 
@@ -117,7 +118,7 @@ Ry Tompoko ô! Ry Tompoko ô! Zaza mbola kely aho. Velomy amin’ny tratran’ny
 
 -- Abdu'l-Bahá
 
-bpn9398 «[Malagasy](../mg/prayers/#bpn9398)» 
+bpn9398 
 
 ----
 
@@ -131,7 +132,7 @@ O Ianao Tompo be fitiavana! Ireto ny mpanomponao izay mivory eto amin’ity Ante
 
 -- Abdu'l-Bahá
 
-bpn9402 «[Malagasy](../mg/prayers/#bpn9402)» 
+bpn9402 
 
 ----
 
@@ -141,7 +142,7 @@ Raha miditra ao amin’ny efitrano filan-kevitra ianareo, manaova ity vavaka ity
 
 -- Abdu'l-Bahá
 
-bpn9403 «[Malagasy](../mg/prayers/#bpn9403)» 
+bpn9403 
 
 ----
 
@@ -155,7 +156,7 @@ bpn9403 «[Malagasy](../mg/prayers/#bpn9403)»
 
 -- Bahá'u'lláh
 
-bpn9360 «[Malagasy](../mg/prayers/#bpn9360)» 
+bpn9360 
 
 ----
 
@@ -165,7 +166,7 @@ bpn9360 «[Malagasy](../mg/prayers/#bpn9360)»
 
 -- Bahá'u'lláh
 
-bpn9361 «[Malagasy](../mg/prayers/#bpn9361)» 
+bpn9361 
 
 ----
 
@@ -175,7 +176,7 @@ Andriamanitra Izy, Ilay Deraina, Ilay Tompon’ny Halemem-panahy sy ny fangoraha
 
 -- Bahá'u'lláh
 
-bpn9362 «[Malagasy](../mg/prayers/#bpn9362)» 
+bpn9362 
 
 ----
 
@@ -185,7 +186,7 @@ Ry Andriamanitro ô! O Ianao izay mamela heloka, izay mizara ny soa, izay manais
 
 -- Abdu'l-Bahá
 
-bpn9399 «[Malagasy](../mg/prayers/#bpn9399)» 
+bpn9399 
 
 ----
 
@@ -199,7 +200,7 @@ Lazao: Ry Andriamanitra ô! Ry Andriamanitro! Ravaho ny satro-boninahitry ny fah
 
 -- Bahá'u'lláh
 
-bpn9358 «[Malagasy](../mg/prayers/#bpn9358)» 
+bpn9358 
 
 ----
 
@@ -209,7 +210,7 @@ Izy Ilay Mpanome, Ilay Onena olona!Dera ho an’Andriamanitra, Ilay Fahagola, Il
 
 -- Bahá'u'lláh
 
-bpn9359 «[Malagasy](../mg/prayers/#bpn9359)» 
+bpn9359 
 
 ----
 
@@ -223,7 +224,7 @@ Ankalazaina anie ny Anaranao, ry Andriamanitro ô sy Ilay Andriamanitr’izao re
 
 -- Bahá'u'lláh
 
-bpn9339 «[Malagasy](../mg/prayers/#bpn9339)» 
+bpn9339 
 
 ----
 
@@ -233,7 +234,7 @@ Izaho, ry Andriamanitro, ilay  izay nampitodika ny tavako eny Aminao sy nametrak
 
 -- Bahá'u'lláh
 
-bpn9340 «[Malagasy](../mg/prayers/#bpn9340)» 
+bpn9340 
 
 ----
 
@@ -243,7 +244,7 @@ Fantatro ry Tompo, fa ireo fahotako dia nandrakotra henatra ny tavako teo Anatre
 
 -- Báb
 
-bpn9317 «[Malagasy](../mg/prayers/#bpn9317)» 
+bpn9317 
 
 ----
 
@@ -253,7 +254,7 @@ Mangataka ny indrafonao aho, ry Andriamanitro, ary mitalaho ny famelanao araka n
 
 -- Báb
 
-bpn9318 «[Malagasy](../mg/prayers/#bpn9318)» 
+bpn9318 
 
 ----
 
@@ -263,7 +264,7 @@ Deraina anie Ianao, ry Tompo. Mamela ny helokay, mamindra fo aminay ary avelao i
 
 -- Báb
 
-bpn9319 «[Malagasy](../mg/prayers/#bpn9319)» 
+bpn9319 
 
 ----
 
@@ -273,7 +274,7 @@ Ry Andriamanitro, ry Tompoko, ry Mpampianatro! Miangavy Anao aho hamela ny helok
 
 -- Báb
 
-bpn9320 «[Malagasy](../mg/prayers/#bpn9320)» 
+bpn9320 
 
 ----
 
@@ -283,7 +284,7 @@ Ry Tompo mpamindra fo ô! Ianao no Fialofan’ny mpanomponao rehetra. Ianao maha
 
 -- Abdu'l-Bahá
 
-bpn9378 «[Malagasy](../mg/prayers/#bpn9378)» 
+bpn9378 
 
 ----
 
@@ -293,7 +294,7 @@ Ry Tsitoaha! Mpanota aho, nefa Ianao Ilay izay mamela heloka! Malemy aho eo anat
 
 -- Abdu'l-Bahá
 
-bpn9379 «[Malagasy](../mg/prayers/#bpn9379)» 
+bpn9379 
 
 ----
 
@@ -307,7 +308,7 @@ Ry Andriamanitro ô! Ianao Ilay Mpamorona ny Fanehoana rehetra, Loharanon’ny l
 
 -- Bahá'u'lláh
 
-bpn9355 «[Malagasy](../mg/prayers/#bpn9355)» 
+bpn9355 
 
 ----
 
@@ -317,7 +318,7 @@ O Ianao Andriamanitra Tsy manan-tsahala! Ianao, ry Tompon’ny Fanapahana! Ireto
 
 -- Abdu'l-Bahá
 
-bpn9386 «[Malagasy](../mg/prayers/#bpn9386)» 
+bpn9386 
 
 ----
 
@@ -327,7 +328,7 @@ Ry Andriamanitro ô! Andriamanitro! Hitanao aho amin’ny fanetren-tenako sy ny 
 
 -- Abdu'l-Bahá
 
-bpn9387 «[Malagasy](../mg/prayers/#bpn9387)» 
+bpn9387 
 
 ----
 
@@ -337,7 +338,7 @@ Ry Tompo ô! Ry Tompoko! Saotra ho Anao! Notarihanao teny amin’ny lalam-ben’
 
 -- Abdu'l-Bahá
 
-bpn9388 «[Malagasy](../mg/prayers/#bpn9388)» 
+bpn9388 
 
 ----
 
@@ -347,7 +348,7 @@ Ry Andriamanitra ô! Andriamanitra! Hitanao aho raiki-pitia sy voasinton’ny Fa
 
 -- Abdu'l-Bahá
 
-bpn9389 «[Malagasy](../mg/prayers/#bpn9389)» 
+bpn9389 
 
 ----
 
@@ -357,7 +358,7 @@ Ry Andriamanitra ô! Andriamanitro! Hitanao ny fahalemeko, ny fanadinoako ny ten
 
 -- Abdu'l-Bahá
 
-bpn9390 «[Malagasy](../mg/prayers/#bpn9390)» 
+bpn9390 
 
 ----
 
@@ -367,7 +368,7 @@ Dera ho Anao, ry Andriamanitro ô! Marina tokoa, ireto ny mpanomponao voasariky 
 
 -- Abdu'l-Bahá
 
-bpn9391 «[Malagasy](../mg/prayers/#bpn9391)» 
+bpn9391 
 
 ----
 
@@ -381,7 +382,7 @@ bpn9391 «[Malagasy](../mg/prayers/#bpn9391)»
 
 -- Abdu'l-Bahá
 
-bpn9394 «[Malagasy](../mg/prayers/#bpn9394)» 
+bpn9394 
 
 ----
 
@@ -395,7 +396,7 @@ Esory ny fahasahiranako noho ny Halemem-panahinao sy ny Fangorahanao, ry Andriam
 
 -- Bahá'u'lláh
 
-bpn9353 «[Malagasy](../mg/prayers/#bpn9353)» 
+bpn9353 
 
 ----
 
@@ -405,7 +406,7 @@ O Ianao, Izay ny Endrikao no fototry ny fiderako, ny Hatsaran-tarehinao no fialo
 
 -- Bahá'u'lláh
 
-bpn9354 «[Malagasy](../mg/prayers/#bpn9354)» 
+bpn9354 
 
 ----
 
@@ -415,7 +416,7 @@ Aza esorina, ry Tompo ô, ny latabatrin’ny fanasana izay novelarina tamin’ny
 
 -- Abdu'l-Bahá
 
-bpn9382 «[Malagasy](../mg/prayers/#bpn9382)» 
+bpn9382 
 
 ----
 
@@ -425,7 +426,7 @@ Ry Tompo! Mahonena izahay, omeo ny Fahasoavanao; mahantra izahay, tolory anjara 
 
 -- Abdu'l-Bahá
 
-bpn9383 «[Malagasy](../mg/prayers/#bpn9383)» 
+bpn9383 
 
 ----
 
@@ -435,7 +436,7 @@ Izy Ilay Mpangoraka! Ilay Malemy fanahy Indrindra!Ry Andriamanitro ô! Andriaman
 
 -- Abdu'l-Bahá
 
-bpn9384 «[Malagasy](../mg/prayers/#bpn9384)» 
+bpn9384 
 
 ----
 
@@ -445,7 +446,7 @@ Ry Tompo ô, Andriamanitro sy fiereko ao anaty ny fijaliako. Ampingako sy fialof
 
 -- Abdu'l-Bahá
 
-bpn9385 «[Malagasy](../mg/prayers/#bpn9385)» 
+bpn9385 
 
 ----
 
@@ -459,7 +460,7 @@ Ny Anaranao no fahasitranako, ry Andriamanitro ô, ary ny fahatsiarovana anao no
 
 -- Bahá'u'lláh
 
-bpn9341 «[Malagasy](../mg/prayers/#bpn9341)» 
+bpn9341 
 
 ----
 
@@ -469,7 +470,7 @@ Ry Andriamanitra ô, ry Andriamanitro! Mangataka Aminao aho, noho ny ranomasimbe
 
 -- Bahá'u'lláh
 
-bpn9342 «[Malagasy](../mg/prayers/#bpn9342)» 
+bpn9342 
 
 ----
 
@@ -479,7 +480,7 @@ Ianao, ry Andriamanitro ô, no Ilay izay ny Anarany no mitondra fahasitranana ho
 
 -- Bahá'u'lláh
 
-bpn9343 «[Malagasy](../mg/prayers/#bpn9343)» 
+bpn9343 
 
 ----
 
@@ -489,7 +490,7 @@ Ankalazaina Ianao, ry Tompo Andriamanitro ô! Mitalaho Aminao aho, noho ny Anara
 
 -- Bahá'u'lláh
 
-bpn9344 «[Malagasy](../mg/prayers/#bpn9344)» 
+bpn9344 
 
 ----
 
@@ -503,7 +504,7 @@ Deraina Ianao, ry Andriamanitro ô! Ianao Ilay, tamin’ny teny indraim-bava mon
 
 -- Bahá'u'lláh
 
-bpn9345 «[Malagasy](../mg/prayers/#bpn9345)» 
+bpn9345 
 
 ----
 
@@ -513,7 +514,7 @@ Fo mangatsiaka firifiry, ry Andriamanitro, no niredareda tamin’ny afon’ny Fo
 
 -- Bahá'u'lláh
 
-bpn9346 «[Malagasy](../mg/prayers/#bpn9346)» 
+bpn9346 
 
 ----
 
@@ -523,7 +524,7 @@ Deraina Ianao, ry Tompo Andriamanitro ô! Ity ny mpanomponao izay nisotro avy ta
 
 -- Bahá'u'lláh
 
-bpn9347 «[Malagasy](../mg/prayers/#bpn9347)» 
+bpn9347 
 
 ----
 
@@ -533,7 +534,7 @@ Tariho, Andriamanitra, ireo mpanomponao hatrany androvan’ny Fahasoavanao sy ny
 
 -- Bahá'u'lláh
 
-bpn9348 «[Malagasy](../mg/prayers/#bpn9348)» 
+bpn9348 
 
 ----
 
@@ -543,7 +544,7 @@ Ry Tompoko ô! Fantatrao fa voahodidin’ny fijaliana sy ny lozabe ny olombelona
 
 -- Abdu'l-Bahá
 
-bpn9380 «[Malagasy](../mg/prayers/#bpn9380)» 
+bpn9380 
 
 ----
 
@@ -553,7 +554,7 @@ Ry Andriamanitra Mpangoraka! Fisaorana no atolotra Anao, satria nanaitra sy namp
 
 -- Abdu'l-Bahá
 
-bpn9381 «[Malagasy](../mg/prayers/#bpn9381)» 
+bpn9381 
 
 ----
 
@@ -567,7 +568,7 @@ Ry Andriamanitro, Deraiko Indrindra, Mpanjakako, Faniriako! Amin’ny fiteny toy
 
 -- Bahá'u'lláh
 
-bpn9327 «[Malagasy](../mg/prayers/#bpn9327)» 
+bpn9327 
 
 ----
 
@@ -577,7 +578,7 @@ Ny fiderana rehetra anie ho Anao, ry Andriamanitro ô, izay loharanon’ny vonin
 
 -- Bahá'u'lláh
 
-bpn9328 «[Malagasy](../mg/prayers/#bpn9328)» 
+bpn9328 
 
 ----
 
@@ -587,7 +588,7 @@ Lazao: Voninahitra ho Anao izay nahatonga ny olona masina rehetra hiaiky ny faha
 
 -- Bahá'u'lláh
 
-bpn9329 «[Malagasy](../mg/prayers/#bpn9329)» 
+bpn9329 
 
 ----
 
@@ -597,7 +598,7 @@ Ankalazaina anie ny Anaranao, ry Tompo Andriamanitro!  Ianao  Ilay ankalazain’
 
 -- Bahá'u'lláh
 
-bpn9330 «[Malagasy](../mg/prayers/#bpn9330)» 
+bpn9330 
 
 ----
 
@@ -607,7 +608,7 @@ Deraina anie Ianao, ry Tompo Andriamanitro! Manolotra fisaorana ho Anao aho noho
 
 -- Bahá'u'lláh
 
-bpn9331 «[Malagasy](../mg/prayers/#bpn9331)» 
+bpn9331 
 
 ----
 
@@ -617,7 +618,7 @@ Deraina anie ny Anaranao, ry Andriamanitra. Ianao marina tokoa no Tomponay. Hain
 
 -- Báb
 
-bpn9313 «[Malagasy](../mg/prayers/#bpn9313)» 
+bpn9313 
 
 ----
 
@@ -627,7 +628,7 @@ Deraina sy omem-boninahitra anie Ianao, ry Andriamanitra! Aoka ho avy haingana n
 
 -- Báb
 
-bpn9314 «[Malagasy](../mg/prayers/#bpn9314)» 
+bpn9314 
 
 ----
 
@@ -637,7 +638,7 @@ Amin’ny Anaran’Andriamanitra, Ilay Avo indrindra! Deraina sy omem-boninahitr
 
 -- Abdu'l-Bahá
 
-bpn9371 «[Malagasy](../mg/prayers/#bpn9371)» 
+bpn9371 
 
 ----
 
@@ -651,7 +652,7 @@ Dera ho Anao ry Tompo Andriamanitro ô! Mitalaho Aminao aho, noho ity Fanambaran
 
 -- Bahá'u'lláh
 
-bpn9369 «[Malagasy](../mg/prayers/#bpn9369)» 
+bpn9369 
 
 ----
 
@@ -665,7 +666,7 @@ Ry Andriamanitro ô! Ry Andriamanitro ô! Ampiraiso ny fon’ny mpanomponao ary 
 
 -- Bahá'u'lláh
 
-bpn9356 «[Malagasy](../mg/prayers/#bpn9356)» 
+bpn9356 
 
 ----
 
@@ -675,7 +676,7 @@ Anao ny voninahitra, ry Andriamanitro ô, ary Anao ny laza, ry Tompoko ô!Mangat
 
 -- Bahá'u'lláh
 
-bpn9357 «[Malagasy](../mg/prayers/#bpn9357)» 
+bpn9357 
 
 ----
 
@@ -685,7 +686,7 @@ Ry Andriamanitro ô! Ry Andriamanitro! Marina tokoa, miantso Anao aho sy mitalah
 
 -- Abdu'l-Bahá
 
-bpn9392 «[Malagasy](../mg/prayers/#bpn9392)» 
+bpn9392 
 
 ----
 
@@ -699,7 +700,7 @@ O Ianao, Izay ny fitsapàna dia fanafody mahasitrana ho an’ireo izay eo akaiki
 
 -- Bahá'u'lláh
 
-bpn9349 «[Malagasy](../mg/prayers/#bpn9349)» 
+bpn9349 
 
 ----
 
@@ -709,7 +710,7 @@ Voninahitra ho Anao, ry Andriamanitro ô! Raha tsy ny fijaliana izay iaretany eo
 
 -- Bahá'u'lláh
 
-bpn9350 «[Malagasy](../mg/prayers/#bpn9350)» 
+bpn9350 
 
 ----
 
@@ -719,7 +720,7 @@ Ry Andriamanitra, ry Andriamanitro! Aza manalavitra ahy, satria ny fahoriana dia
 
 -- Bahá'u'lláh
 
-bpn9351 «[Malagasy](../mg/prayers/#bpn9351)» 
+bpn9351 
 
 ----
 
@@ -729,7 +730,7 @@ Ankalazaina sy omem-boninahitra Ianao, ry Andriamanitro ô! Mitalaho Aminao aho 
 
 -- Bahá'u'lláh
 
-bpn9352 «[Malagasy](../mg/prayers/#bpn9352)» 
+bpn9352 
 
 ----
 
@@ -739,7 +740,7 @@ Iza, afa-tsy Andriamanitra, no manaisotra ny fahasahiranana?Lazao: Deraina anie 
 
 -- Báb
 
-bpn9310 «[Malagasy](../mg/prayers/#bpn9310)» 
+bpn9310 
 
 ----
 
@@ -749,7 +750,7 @@ Lazao: Andriamanitra no sahaza amin’ny zavatra rehetra, ambonin’ny zavatra r
 
 -- Báb
 
-bpn9311 «[Malagasy](../mg/prayers/#bpn9311)» 
+bpn9311 
 
 ----
 
@@ -759,7 +760,7 @@ Amin’ny anaran’ny Tompo, Ilay Mpandresy amin’ny mpandresy dia manambara fa
 
 -- Báb
 
-bpn9312 «[Malagasy](../mg/prayers/#bpn9312)» 
+bpn9312 
 
 ----
 
@@ -773,7 +774,7 @@ O Ianao, Andriamanitry ny famindrampo ô! Ianao Ilay Mahefa sy Mahery! Ô Ianao,
 
 -- Abdu'l-Bahá
 
-bpn9401 «[Malagasy](../mg/prayers/#bpn9401)» 
+bpn9401 
 
 ----
 
@@ -787,7 +788,7 @@ Ry Andriamanitro ô, Tompoko, Anton’ny faniriako! Ity ny mpanomponao izay mani
 
 -- Bahá'u'lláh
 
-bpn9325 «[Malagasy](../mg/prayers/#bpn9325)» 
+bpn9325 
 
 ----
 
@@ -797,7 +798,7 @@ Ataoko ahoana no hisafidy ny hatory, ry Andriamanitra, ry Andriamanitro ô, raha
 
 -- Bahá'u'lláh
 
-bpn9326 «[Malagasy](../mg/prayers/#bpn9326)» 
+bpn9326 
 
 ----
 
@@ -811,7 +812,7 @@ Ry Andriamanitra ô sy Tompoko! Mpanomponao aho ary zanakin’ny mpanomponao. Ni
 
 -- Bahá'u'lláh
 
-bpn9321 «[Malagasy](../mg/prayers/#bpn9321)» 
+bpn9321 
 
 ----
 
@@ -825,7 +826,7 @@ Nifoha aho izao maraina, nohon’ny Fahasoavanao, ry Andriamanitro ô, ary nanda
 
 -- Bahá'u'lláh
 
-bpn9322 «[Malagasy](../mg/prayers/#bpn9322)» 
+bpn9322 
 
 ----
 
@@ -835,7 +836,7 @@ Midera Anao aho, ry Andriamanitro ô, noho ny namohazanao ahy tamin’ny torimas
 
 -- Bahá'u'lláh
 
-bpn9323 «[Malagasy](../mg/prayers/#bpn9323)» 
+bpn9323 
 
 ----
 
@@ -845,7 +846,7 @@ Nifoha tao anatin’ny Fialofanao aho, ry Andriamanitro ô, ary adidin’izay mi
 
 -- Bahá'u'lláh
 
-bpn9324 «[Malagasy](../mg/prayers/#bpn9324)» 
+bpn9324 
 
 ----
 
@@ -859,7 +860,7 @@ Ry Tompo, natodiko teny amin’ny Fanjakan’ny maha-iray Anao ny endriko ary ni
 
 -- Abdu'l-Bahá
 
-bpn9372 «[Malagasy](../mg/prayers/#bpn9372)» 
+bpn9372 
 
 ----
 
@@ -873,7 +874,7 @@ bpn9372 «[Malagasy](../mg/prayers/#bpn9372)»
 
 -- Bahá'u'lláh
 
-bpn9363 «[Malagasy](../mg/prayers/#bpn9363)» 
+bpn9363 
 
 ----
 
@@ -883,7 +884,7 @@ bpn9363 «[Malagasy](../mg/prayers/#bpn9363)»
 
 -- Abdu'l-Bahá
 
-bpn9400 «[Malagasy](../mg/prayers/#bpn9400)» 
+bpn9400 
 
 ----
 
@@ -897,7 +898,7 @@ bpn9400 «[Malagasy](../mg/prayers/#bpn9400)»
 
 -- Bahá'u'lláh
 
-bpn12866 «[Malagasy](../mg/prayers/#bpn12866)» 
+bpn12866 
 
 ----
 
@@ -911,7 +912,7 @@ Izy no Mpanjaka, Ilay Mpahalala ny zavatra rehetra, Ilay Hendry!Jereo ange  ny R
 
 -- Bahá'u'lláh
 
-bpn9367 «[Malagasy](../mg/prayers/#bpn9367)» 
+bpn9367 
 
 ----
 
@@ -925,7 +926,7 @@ Dera ho Anao, ry Andriamanitro ô, noho ny nandidianao ny Naw-Rúz ho androm-pir
 
 -- Bahá'u'lláh
 
-bpn9370 «[Malagasy](../mg/prayers/#bpn9370)» 
+bpn9370 
 
 ----
 
@@ -939,7 +940,7 @@ Ry Tompoko ô! Aoka ny hatsaran’ny Endrikao ho sakafoko, ary ny fanatrehanao h
 
 -- Bahá'u'lláh
 
-bpn9332 «[Malagasy](../mg/prayers/#bpn9332)» 
+bpn9332 
 
 ----
 
@@ -949,7 +950,7 @@ Amorony fo madio ao anatiko, ry Andriamanitro ô, ary havaozy ao anatiko ny sain
 
 -- Bahá'u'lláh
 
-bpn9333 «[Malagasy](../mg/prayers/#bpn9333)» 
+bpn9333 
 
 ----
 
@@ -959,7 +960,7 @@ Ho Anao ny fiderana, ry Tompo Andriamanitro ô! Mitalaho Aminao aho noho ny Anar
 
 -- Bahá'u'lláh
 
-bpn9334 «[Malagasy](../mg/prayers/#bpn9334)» 
+bpn9334 
 
 ----
 
@@ -969,7 +970,7 @@ Eo amin’ny alon-drano mamerovero ny Mandrakizainao, avelao aho hiala hetaheta,
 
 -- Bahá'u'lláh
 
-bpn9335 «[Malagasy](../mg/prayers/#bpn9335)» 
+bpn9335 
 
 ----
 
@@ -979,7 +980,7 @@ Omem-boninahitra Ianao, ry Tompo Andriamanitro ô! Misaotra Anao aho noho izay n
 
 -- Bahá'u'lláh
 
-bpn9336 «[Malagasy](../mg/prayers/#bpn9336)» 
+bpn9336 
 
 ----
 
@@ -989,7 +990,7 @@ Voninahitra ho Anao, o Ianao izay Tompon’izao rehetra izao sy Malalan’ireo i
 
 -- Bahá'u'lláh
 
-bpn9337 «[Malagasy](../mg/prayers/#bpn9337)» 
+bpn9337 
 
 ----
 
@@ -999,7 +1000,7 @@ Ry Andriamanitro, noho ny herinao sy ny fiandriananao izay mandrakotra ireo rehe
 
 -- Bahá'u'lláh
 
-bpn9338 «[Malagasy](../mg/prayers/#bpn9338)» 
+bpn9338 
 
 ----
 
@@ -1009,7 +1010,7 @@ Miangavy Anao aho hamela ny heloko, ry Tompo, noho ny fanambarana hafa afa-tsy n
 
 -- Báb
 
-bpn9315 «[Malagasy](../mg/prayers/#bpn9315)» 
+bpn9315 
 
 ----
 
@@ -1019,7 +1020,7 @@ Voninahitra ho Anao, ry Tompo Andriamanitro! Tsy misy afaka amin’ny Fahalalana
 
 -- Báb
 
-bpn9316 «[Malagasy](../mg/prayers/#bpn9316)» 
+bpn9316 
 
 ----
 
@@ -1029,7 +1030,7 @@ Ry Tompoko ô! Ry Tompoko ô! Ity dia jiro iray nazavaina tamin’ny afon’ny F
 
 -- Abdu'l-Bahá
 
-bpn9373 «[Malagasy](../mg/prayers/#bpn9373)» 
+bpn9373 
 
 ----
 
@@ -1039,7 +1040,7 @@ Ry Tompoko ô, Malalako, Faniriako! Aoka ho namako amin’ny fanireriko ary miar
 
 -- Abdu'l-Bahá
 
-bpn9374 «[Malagasy](../mg/prayers/#bpn9374)» 
+bpn9374 
 
 ----
 
@@ -1049,7 +1050,7 @@ Ry Andriamanitra! Andriamanitro! Arovy ireo mpanomponao mahatoky amin’ny fahar
 
 -- Abdu'l-Bahá
 
-bpn9375 «[Malagasy](../mg/prayers/#bpn9375)» 
+bpn9375 
 
 ----
 
@@ -1059,7 +1060,7 @@ Ry Andriamanitra! Velombelomy sy ampiravoravoy ny fanahiko. Diovy ny foko. Hazav
 
 -- Abdu'l-Bahá
 
-bpn9376 «[Malagasy](../mg/prayers/#bpn9376)» 
+bpn9376 
 
 ----
 
@@ -1069,7 +1070,7 @@ Ry Andriamanitro ô, Andriamanitro! Fanantenako Ianao ary Malalako, Faniriako am
 
 -- Abdu'l-Bahá
 
-bpn9377 «[Malagasy](../mg/prayers/#bpn9377)» 
+bpn9377 
 
 ----
 
@@ -1083,7 +1084,7 @@ Ry Andriamanitro ô, Andriamanitro! Avy any amin’ny Fanjakanan’ny maha-Tokan
 
 -- Abdu'l-Bahá
 
-bpn9404 «[Malagasy](../mg/prayers/#bpn9404)» 
+bpn9404 
 
 ----
 
@@ -1097,7 +1098,7 @@ bpn9404 «[Malagasy](../mg/prayers/#bpn9404)»
 
 -- Abdu'l-Bahá
 
-bpn9393 «[Malagasy](../mg/prayers/#bpn9393)» 
+bpn9393 
 
 ----
 
@@ -1111,7 +1112,7 @@ bpn9393 «[Malagasy](../mg/prayers/#bpn9393)»
 
 -- Bahá'u'lláh
 
-bpn12864 «[Malagasy](../mg/prayers/#bpn12864)» 
+bpn12864 
 
 ----
 
@@ -1121,7 +1122,7 @@ bpn12864 «[Malagasy](../mg/prayers/#bpn12864)»
 
 -- Bahá'u'lláh
 
-bpn12865 «[Malagasy](../mg/prayers/#bpn12865)» 
+bpn12865 
 
 ----
 
@@ -1135,7 +1136,7 @@ bpn12865 «[Malagasy](../mg/prayers/#bpn12865)»
 
 -- Bahá'u'lláh
 
-bpn9364 «[Malagasy](../mg/prayers/#bpn9364)» 
+bpn9364 
 
 ----
 
@@ -1145,7 +1146,7 @@ bpn9364 «[Malagasy](../mg/prayers/#bpn9364)»
 
 -- Bahá'u'lláh
 
-bpn9365 «[Malagasy](../mg/prayers/#bpn9365)» 
+bpn9365 
 
 ----
 
@@ -1155,7 +1156,7 @@ bpn9365 «[Malagasy](../mg/prayers/#bpn9365)»
 
 -- Bahá'u'lláh
 
-bpn9366 «[Malagasy](../mg/prayers/#bpn9366)» 
+bpn9366 
 
 ----
 

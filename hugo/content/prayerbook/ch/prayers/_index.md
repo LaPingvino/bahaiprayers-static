@@ -5,6 +5,7 @@ tags = ['lang=ch', 'prayerbook']
 
 
 
+
 [DINAÑA’ ESPIRITUAT](#DINAN%CC%83A%E2%80%99+ESPIRITUAT)
 
 [HINEMLO’](#HINEMLO%E2%80%99)
@@ -39,7 +40,7 @@ tags = ['lang=ch', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6114 «[Chamorro](../ch/prayers/#bpn6114)» 
+bpn6114 
 
 ----
 
@@ -53,7 +54,7 @@ bpn6114 «[Chamorro](../ch/prayers/#bpn6114)»
 
 -- Bahá'u'lláh
 
-bpn6113 «[Chamorro](../ch/prayers/#bpn6113)» 
+bpn6113 
 
 ----
 
@@ -67,7 +68,7 @@ bpn6113 «[Chamorro](../ch/prayers/#bpn6113)»
 
 -- Bahá'u'lláh
 
-bpn6111 «[Chamorro](../ch/prayers/#bpn6111)» 
+bpn6111 
 
 ----
 
@@ -81,7 +82,7 @@ bpn6111 «[Chamorro](../ch/prayers/#bpn6111)»
 
 -- Abdu'l-Bahá
 
-bpn6112 «[Chamorro](../ch/prayers/#bpn6112)» 
+bpn6112 
 
 ----
 
@@ -95,7 +96,7 @@ bpn6112 «[Chamorro](../ch/prayers/#bpn6112)»
 
 -- Abdu'l-Bahá
 
-bpn6119 «[Chamorro](../ch/prayers/#bpn6119)» 
+bpn6119 
 
 ----
 
@@ -109,7 +110,7 @@ bpn6119 «[Chamorro](../ch/prayers/#bpn6119)»
 
 -- Bahá'u'lláh
 
-bpn6107 «[Chamorro](../ch/prayers/#bpn6107)» 
+bpn6107 
 
 ----
 
@@ -123,7 +124,7 @@ bpn6107 «[Chamorro](../ch/prayers/#bpn6107)»
 
 -- Bahá'u'lláh
 
-bpn6108 «[Chamorro](../ch/prayers/#bpn6108)» 
+bpn6108 
 
 ----
 
@@ -133,7 +134,7 @@ Makmata yo’ este na ogga’an ginen i grasia- Mu, O Yu’os-Hu, ya hu dingu i 
 
 -- Bahá'u'lláh
 
-bpn6109 «[Chamorro](../ch/prayers/#bpn6109)» 
+bpn6109 
 
 ----
 
@@ -147,7 +148,7 @@ bpn6109 «[Chamorro](../ch/prayers/#bpn6109)»
 
 -- Bahá'u'lláh
 
-bpn6122 «[Chamorro](../ch/prayers/#bpn6122)» 
+bpn6122 
 
 ----
 
@@ -157,7 +158,7 @@ O Yu’os-hu! O Yu’os-hu! Na’fandaña’ i kora- son todu i setbente-Mu ya 
 
 -- Bahá'u'lláh
 
-bpn6123 «[Chamorro](../ch/prayers/#bpn6123)» 
+bpn6123 
 
 ----
 
@@ -167,7 +168,7 @@ Sangan: “O Yu’os, Yu’os-hu! Muda i ilu-hu ni koronan hustisia, yan adotno 
 
 -- Bahá'u'lláh
 
-bpn6124 «[Chamorro](../ch/prayers/#bpn6124)» 
+bpn6124 
 
 ----
 
@@ -177,7 +178,7 @@ Yu’os na’huyong na i kandet dinaña’ u inina todu i tano’, ya i fino’
 
 -- Bahá'u'lláh
 
-bpn6126 «[Chamorro](../ch/prayers/#bpn6126)» 
+bpn6126 
 
 ----
 
@@ -187,7 +188,7 @@ O Yu’os-hu, hu fafaisen Hao ginen i mas gloiosu na Na’an-Mu, na Un ayuda yo�
 
 -- Bahá'u'lláh
 
-bpn6125 «[Chamorro](../ch/prayers/#bpn6125)» 
+bpn6125 
 
 ----
 
@@ -197,7 +198,7 @@ Kao guaha Na’suhan minappot fuera ki si Yu’os? Sangan: Matuna si Yu’os, Yu
 
 -- Báb
 
-bpn6127 «[Chamorro](../ch/prayers/#bpn6127)» 
+bpn6127 
 
 ----
 
@@ -207,7 +208,7 @@ O Yu’os-hu, i Guinaiya-ku, i Tinanga-hu! Fa’amigu-Mu yo’ gi minahalang-hu 
 
 -- Abdu'l-Bahá
 
-bpn6129 «[Chamorro](../ch/prayers/#bpn6129)» 
+bpn6129 
 
 ----
 
@@ -217,7 +218,7 @@ Saina Yu’os-hu! Asiste i manguinaya-Mu na u fanmetgot gi Hinengge-Mu, u fanmam
 
 -- Abdu'l-Bahá
 
-bpn6130 «[Chamorro](../ch/prayers/#bpn6130)» 
+bpn6130 
 
 ----
 
@@ -227,7 +228,7 @@ O Asaina! Mandebet ham; na’i ham animu. O Yu’os! Mantaitiningo’ ham, na’
 
 -- Abdu'l-Bahá
 
-bpn6132 «[Chamorro](../ch/prayers/#bpn6132)» 
+bpn6132 
 
 ----
 
@@ -237,7 +238,7 @@ O Yu’os,! O Yu’os! Guiya este i paluma ni mahlok papa-ña ya i hinanao-ña
 
 -- Abdu'l-Bahá
 
-bpn6134 «[Chamorro](../ch/prayers/#bpn6134)» 
+bpn6134 
 
 ----
 
@@ -247,7 +248,7 @@ O Yu’os, Yu’os-hu. Pattang i manangokkuyon na setbente-Mu gi i baba i tinail
 
 -- Abdu'l-Bahá
 
-bpn6133 «[Chamorro](../ch/prayers/#bpn6133)» 
+bpn6133 
 
 ----
 
@@ -257,7 +258,7 @@ Asaina! Manna’ma’ase’ ham, na’i ham ni fabot-Mu; mamopble ham, na’i ha
 
 -- Abdu'l-Bahá
 
-bpn6131 «[Chamorro](../ch/prayers/#bpn6131)» 
+bpn6131 
 
 ----
 
@@ -267,7 +268,7 @@ O Yu’os! Na’fresko yan na’minagof i espiritu- hu. Na’gasgas i korason-hu
 
 -- Abdu'l-Bahá
 
-bpn6128 «[Chamorro](../ch/prayers/#bpn6128)» 
+bpn6128 
 
 ----
 
@@ -281,7 +282,7 @@ bpn6128 «[Chamorro](../ch/prayers/#bpn6128)»
 
 -- Bahá'u'lláh
 
-bpn6120 «[Chamorro](../ch/prayers/#bpn6120)» 
+bpn6120 
 
 ----
 
@@ -291,7 +292,7 @@ O Yu’os-hu! Hagu i manasisi’i ni’ isao, i mannana’i guinaha, yan sasatba
 
 -- Abdu'l-Bahá
 
-bpn6121 «[Chamorro](../ch/prayers/#bpn6121)» 
+bpn6121 
 
 ----
 
@@ -305,7 +306,7 @@ bpn6121 «[Chamorro](../ch/prayers/#bpn6121)»
 
 -- Bahá'u'lláh
 
-bpn6110 «[Chamorro](../ch/prayers/#bpn6110)» 
+bpn6110 
 
 ----
 
@@ -319,7 +320,7 @@ bpn6110 «[Chamorro](../ch/prayers/#bpn6110)»
 
 -- Bahá'u'lláh
 
-bpn6106 «[Chamorro](../ch/prayers/#bpn6106)» 
+bpn6106 
 
 ----
 
@@ -333,7 +334,7 @@ bpn6106 «[Chamorro](../ch/prayers/#bpn6106)»
 
 -- Abdu'l-Bahá
 
-bpn6115 «[Chamorro](../ch/prayers/#bpn6115)» 
+bpn6115 
 
 ----
 
@@ -343,7 +344,7 @@ O Yu’os! Eduka este siha na famagu’on. Este siha na famagu’on tinanom siha
 
 -- Abdu'l-Bahá
 
-bpn6116 «[Chamorro](../ch/prayers/#bpn6116)» 
+bpn6116 
 
 ----
 
@@ -353,7 +354,7 @@ O Asaina! Na’fanma’lak este na hoben, yan na’i ni’ guinaha-Mu este na po
 
 -- Abdu'l-Bahá
 
-bpn6117 «[Chamorro](../ch/prayers/#bpn6117)» 
+bpn6117 
 
 ----
 
@@ -363,7 +364,7 @@ O Yu’os, giha yo’, protehi yo’, po’lo yo’ kulan un maninila’ na kand
 
 -- Abdu'l-Bahá
 
-bpn6118 «[Chamorro](../ch/prayers/#bpn6118)» 
+bpn6118 
 
 ----
 

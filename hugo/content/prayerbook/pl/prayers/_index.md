@@ -5,6 +5,7 @@ tags = ['lang=pl', 'prayerbook']
 
 
 
+
 [26 nowych modlitw &#39;Abdu&#39;l-Bahy](#26+nowych+modlitw+%27Abdu%27l-Bahy)
 
 [Bliskość Boga](#Blisko%C5%9B%C4%87+Boga)
@@ -117,7 +118,7 @@ On jest Bogiem.O ty, który krążysz w adoracji w pobliżu tego Miejsca, wokó�
 
 -- Abdu'l-Bahá
 
-bpn12877 «[Polski](../pl/prayers/#bpn12877)» 
+bpn12877 
 
 ----
 
@@ -127,7 +128,7 @@ O Ty, niewidzialny Przyjacielu! O Pragnienie wszystkich w tym świecie i w świe
 
 -- Abdu'l-Bahá
 
-bpn12878 «[Polski](../pl/prayers/#bpn12878)» 
+bpn12878 
 
 ----
 
@@ -137,7 +138,7 @@ O Ty, niezrównany i miłujący Panie! Choć brakuje zdolności i prawości i ni
 
 -- Abdu'l-Bahá
 
-bpn12879 «[Polski](../pl/prayers/#bpn12879)» 
+bpn12879 
 
 ----
 
@@ -147,7 +148,7 @@ O mój wieczny Ukochany i mój uwielbiony Przyjacielu! Jak długo jeszcze pozbaw
 
 -- Abdu'l-Bahá
 
-bpn12880 «[Polski](../pl/prayers/#bpn12880)» 
+bpn12880 
 
 ----
 
@@ -157,7 +158,7 @@ O Ty życzliwy Panie! Dusze te są Twoimi przyjaciółmi, którzy zgromadzili si
 
 -- Abdu'l-Bahá
 
-bpn12881 «[Polski](../pl/prayers/#bpn12881)» 
+bpn12881 
 
 ----
 
@@ -167,7 +168,7 @@ O Opatrzności Boża! Niezrozumiałe trudności się pojawiły i ogromne powsta�
 
 -- Abdu'l-Bahá
 
-bpn12882 «[Polski](../pl/prayers/#bpn12882)» 
+bpn12882 
 
 ----
 
@@ -177,7 +178,7 @@ O Boże Miłosierdzia! O Ty, Wszechmogący! Jestem tylko marnym sługą, słabym
 
 -- Abdu'l-Bahá
 
-bpn12883 «[Polski](../pl/prayers/#bpn12883)» 
+bpn12883 
 
 ----
 
@@ -187,7 +188,7 @@ O Boska Opatrzności! Obudź mnie i uczyń mnie świadomym. Spraw, abym uniezale
 
 -- Abdu'l-Bahá
 
-bpn12884 «[Polski](../pl/prayers/#bpn12884)» 
+bpn12884 
 
 ----
 
@@ -197,7 +198,7 @@ On jest Bogiem.O Boże, mój Boże! Zwróciłem twarz ku Tobie i błagam o potok
 
 -- Abdu'l-Bahá
 
-bpn12885 «[Polski](../pl/prayers/#bpn12885)» 
+bpn12885 
 
 ----
 
@@ -207,7 +208,7 @@ O Panie! Udziel mi miary swej łaski i miłościwej życzliwości, swej opieki i
 
 -- Abdu'l-Bahá
 
-bpn12886 «[Polski](../pl/prayers/#bpn12886)» 
+bpn12886 
 
 ----
 
@@ -217,7 +218,7 @@ O Ty, Żywicielu, O Ty, Przebaczający! Szlachetna dusza wstąpiła do Królestw
 
 -- Abdu'l-Bahá
 
-bpn12887 «[Polski](../pl/prayers/#bpn12887)» 
+bpn12887 
 
 ----
 
@@ -227,7 +228,7 @@ On jest Bogiem.O Ty, przebaczający Panie! Słudzy ci byli szlachetnymi duszami 
 
 -- Abdu'l-Bahá
 
-bpn12888 «[Polski](../pl/prayers/#bpn12888)» 
+bpn12888 
 
 ----
 
@@ -237,7 +238,7 @@ O Boska Opatrzności! Zanurz ojca i matkę tego sługi progu Twego w oceanie Twe
 
 -- Abdu'l-Bahá
 
-bpn12889 «[Polski](../pl/prayers/#bpn12889)» 
+bpn12889 
 
 ----
 
@@ -247,7 +248,7 @@ O Ty życzliwy Panie! Oczyść me serce z wszelkiego przywiązania a duszę mą 
 
 -- Abdu'l-Bahá
 
-bpn12890 «[Polski](../pl/prayers/#bpn12890)» 
+bpn12890 
 
 ----
 
@@ -257,7 +258,7 @@ O Panie! Jakimże to potokiem szczodrobliwości obdarowałeś i jakąż powódź
 
 -- Abdu'l-Bahá
 
-bpn12891 «[Polski](../pl/prayers/#bpn12891)» 
+bpn12891 
 
 ----
 
@@ -267,7 +268,7 @@ O Ty Wszechmogący Panie! Wszyscy znajdujemy się w potężnym uścisku Twojej m
 
 -- Abdu'l-Bahá
 
-bpn12892 «[Polski](../pl/prayers/#bpn12892)» 
+bpn12892 
 
 ----
 
@@ -277,7 +278,7 @@ On jest Najświętszy, Najchwalebniejszy!W imię Boga, Współczującego, Miłos
 
 -- Abdu'l-Bahá
 
-bpn12893 «[Polski](../pl/prayers/#bpn12893)» 
+bpn12893 
 
 ----
 
@@ -287,7 +288,7 @@ O Panie, Boże nasz! Jesteśmy bezradni; Ty jesteś Panem siły i mocy. Jesteśm
 
 -- Abdu'l-Bahá
 
-bpn12894 «[Polski](../pl/prayers/#bpn12894)» 
+bpn12894 
 
 ----
 
@@ -297,7 +298,7 @@ On jest Bogiem.O Ty życzliwy i umiłowany Panie! Ci przyjaciele upojeni są win
 
 -- Abdu'l-Bahá
 
-bpn12895 «[Polski](../pl/prayers/#bpn12895)» 
+bpn12895 
 
 ----
 
@@ -307,7 +308,7 @@ On jest Wszechchwalebnym.O mój Panie, mój Królu, mój Władco i mój Suwereni
 
 -- Abdu'l-Bahá
 
-bpn12896 «[Polski](../pl/prayers/#bpn12896)» 
+bpn12896 
 
 ----
 
@@ -317,7 +318,7 @@ O mój życzliwy Panie, o Ty, pragnienie duszy i serca mego! Obdarz swych przyja
 
 -- Abdu'l-Bahá
 
-bpn12897 «[Polski](../pl/prayers/#bpn12897)» 
+bpn12897 
 
 ----
 
@@ -327,7 +328,7 @@ On jest Najchwalebniejszym, Najjaśniejszym!O Boska Opatrzności, o przebaczają
 
 -- Abdu'l-Bahá
 
-bpn12898 «[Polski](../pl/prayers/#bpn12898)» 
+bpn12898 
 
 ----
 
@@ -337,7 +338,7 @@ O Boska Opatrzności, Tyś jest Zawsze Przebaczającym! O Ty, Wszechmocny Boże,
 
 -- Abdu'l-Bahá
 
-bpn12899 «[Polski](../pl/prayers/#bpn12899)» 
+bpn12899 
 
 ----
 
@@ -347,7 +348,7 @@ O Ty, niezrównany Boże! Jesteśmy Twoimi uniżonymi sługami, a Ty jesteś Wsz
 
 -- Abdu'l-Bahá
 
-bpn12900 «[Polski](../pl/prayers/#bpn12900)» 
+bpn12900 
 
 ----
 
@@ -357,7 +358,7 @@ On jest Bogiem.O Boże, mój Boże! Z całkowitym uniżeniem i żarliwością, p
 
 -- Abdu'l-Bahá
 
-bpn12901 «[Polski](../pl/prayers/#bpn12901)» 
+bpn12901 
 
 ----
 
@@ -367,7 +368,7 @@ O Panie tak bogaty szczodrością, tak łaską przepełniony,Którego wiedza obe
 
 -- Abdu'l-Bahá
 
-bpn12902 «[Polski](../pl/prayers/#bpn12902)» 
+bpn12902 
 
 ----
 
@@ -381,7 +382,7 @@ Chwała niechaj będzie Tobie, o mój Boże! Ty słyszysz swoich żarliwych mił
 
 -- Bahá'u'lláh
 
-bpn7270 «[Polski](../pl/prayers/#bpn7270)» 
+bpn7270 
 
 ----
 
@@ -391,7 +392,7 @@ Zaprawdę, jestem Twym sługą, o mój Boże, Twym ubogim, Twym błagającym i T
 
 -- Báb
 
-bpn7271 «[Polski](../pl/prayers/#bpn7271)» 
+bpn7271 
 
 ----
 
@@ -401,7 +402,7 @@ O mój Boże! Nie ma nikogo prócz Ciebie, by ukoić cierpienie mojej duszy i Ty
 
 -- Báb
 
-bpn7272 «[Polski](../pl/prayers/#bpn7272)» 
+bpn7272 
 
 ----
 
@@ -411,7 +412,7 @@ O Boże, mój Boże, mój Umiłowany, Pragnienie mego serca.
 
 -- Báb
 
-bpn7273 «[Polski](../pl/prayers/#bpn7273)» 
+bpn7273 
 
 ----
 
@@ -421,7 +422,7 @@ O Panie, Boże mój i Przystani moja w niebezpieczeństwie! Moja Tarczo i Schron
 
 -- Abdu'l-Bahá
 
-bpn7274 «[Polski](../pl/prayers/#bpn7274)» 
+bpn7274 
 
 ----
 
@@ -431,7 +432,7 @@ On jest Współczującym, Wszechłaskawym! O Boże, mój Boże! Ty mnie widzisz;
 
 -- Abdu'l-Bahá
 
-bpn7275 «[Polski](../pl/prayers/#bpn7275)» 
+bpn7275 
 
 ----
 
@@ -445,7 +446,7 @@ bpn7275 «[Polski](../pl/prayers/#bpn7275)»
 
 -- Bahá'u'lláh
 
-bpn7463 «[Polski](../pl/prayers/#bpn7463)» 
+bpn7463 
 
 ----
 
@@ -459,7 +460,7 @@ O Panie, Boże mój! Oto dziecię zrodzone z lędźwi jednego z Twoich sług, kt
 
 -- Bahá'u'lláh
 
-bpn7276 «[Polski](../pl/prayers/#bpn7276)» 
+bpn7276 
 
 ----
 
@@ -469,7 +470,7 @@ O Boże! Wychowuj te dzieci. Te dzieci są roślinami Twojego sadu, kwiatami Two
 
 -- Abdu'l-Bahá
 
-bpn7277 «[Polski](../pl/prayers/#bpn7277)» 
+bpn7277 
 
 ----
 
@@ -479,7 +480,7 @@ O Ty, życzliwy Panie! Te urocze dzieci są dziełem palców Twojej mocy oraz cu
 
 -- Abdu'l-Bahá
 
-bpn7278 «[Polski](../pl/prayers/#bpn7278)» 
+bpn7278 
 
 ----
 
@@ -489,7 +490,7 @@ O Panie! Uczyń te dzieci wspaniałymi roślinami. Spraw, aby wzrastały i rozwi
 
 -- Abdu'l-Bahá
 
-bpn7279 «[Polski](../pl/prayers/#bpn7279)» 
+bpn7279 
 
 ----
 
@@ -499,7 +500,7 @@ On jest Bogiem! O Boże, mój Boże! Obdarz mnie czystym sercem, czystym jak per
 
 -- Abdu'l-Bahá
 
-bpn7280 «[Polski](../pl/prayers/#bpn7280)» 
+bpn7280 
 
 ----
 
@@ -509,7 +510,7 @@ O Boże, prowadź mnie, ochraniaj mnie, uczyń mnie świecącą lampą i promien
 
 -- Abdu'l-Bahá
 
-bpn7281 «[Polski](../pl/prayers/#bpn7281)» 
+bpn7281 
 
 ----
 
@@ -519,7 +520,7 @@ O mój Panie! O mój Panie!   Jestem jedynie małym dzieckiem. Karm mnie piersi�
 
 -- Abdu'l-Bahá
 
-bpn7282 «[Polski](../pl/prayers/#bpn7282)» 
+bpn7282 
 
 ----
 
@@ -529,7 +530,7 @@ O Niezrównany Panie! Bądź schronieniem dla tego biednego dziecka oraz życzli
 
 -- Abdu'l-Bahá
 
-bpn7283 «[Polski](../pl/prayers/#bpn7283)» 
+bpn7283 
 
 ----
 
@@ -539,7 +540,7 @@ O mój Boże! O mój Boże! Ty widzisz te dzieci, które są gałązkami drzewa 
 
 -- Abdu'l-Bahá
 
-bpn7284 «[Polski](../pl/prayers/#bpn7284)» 
+bpn7284 
 
 ----
 
@@ -549,7 +550,7 @@ O Panie! Jestem dzieckiem, pozwól mi rosnąć w cieniu Twojej serdecznej życzl
 
 -- Abdu'l-Bahá
 
-bpn7285 «[Polski](../pl/prayers/#bpn7285)» 
+bpn7285 
 
 ----
 
@@ -559,7 +560,7 @@ O Ty, najchwalebniejszy Panie! Uczyń Twoją małą służebnicę błogosławion
 
 -- Abdu'l-Bahá
 
-bpn7286 «[Polski](../pl/prayers/#bpn7286)» 
+bpn7286 
 
 ----
 
@@ -573,7 +574,7 @@ bpn7286 «[Polski](../pl/prayers/#bpn7286)»
 
 -- Bahá'u'lláh
 
-bpn7269 «[Polski](../pl/prayers/#bpn7269)» 
+bpn7269 
 
 ----
 
@@ -587,7 +588,7 @@ On jest Uzdrowicielem, Wystarczającym, Pomagającym, Wszystko Przebaczającym, 
 
 -- Bahá'u'lláh
 
-bpn7428 «[Polski](../pl/prayers/#bpn7428)» 
+bpn7428 
 
 ----
 
@@ -601,7 +602,7 @@ bpn7428 «[Polski](../pl/prayers/#bpn7428)»
 
 -- Abdu'l-Bahá
 
-bpn7290 «[Polski](../pl/prayers/#bpn7290)» 
+bpn7290 
 
 ----
 
@@ -611,7 +612,7 @@ O Boże, mój Boże! Rozjaśnij czoła prawdziwie miłujących Ciebie i wspomaga
 
 -- Abdu'l-Bahá
 
-bpn7291 «[Polski](../pl/prayers/#bpn7291)» 
+bpn7291 
 
 ----
 
@@ -625,7 +626,7 @@ O mój Boże! O mój Boże! Zjednocz serca sług Twoich i objaw im swój wielki 
 
 -- Bahá'u'lláh
 
-bpn7292 «[Polski](../pl/prayers/#bpn7292)» 
+bpn7292 
 
 ----
 
@@ -635,7 +636,7 @@ O mój Boże! O mój Boże! Zaprawdę, wzywam Cię i błagam u Twego progu, pros
 
 -- Abdu'l-Bahá
 
-bpn7293 «[Polski](../pl/prayers/#bpn7293)» 
+bpn7293 
 
 ----
 
@@ -649,7 +650,7 @@ O Ty, którego oblicze jest przedmiotem uwielbienia wszystkich tęskniących za 
 
 -- Bahá'u'lláh
 
-bpn7294 «[Polski](../pl/prayers/#bpn7294)» 
+bpn7294 
 
 ----
 
@@ -659,7 +660,7 @@ Pochwalony bądź, o Panie, mój Boże! Jesteś Tym, którego ogień miłości r
 
 -- Bahá'u'lláh
 
-bpn7295 «[Polski](../pl/prayers/#bpn7295)» 
+bpn7295 
 
 ----
 
@@ -669,7 +670,7 @@ Wysławione niechaj będzie Twoje imię, o Panie, mój Boże! Spójrz na me oko,
 
 -- Bahá'u'lláh
 
-bpn7296 «[Polski](../pl/prayers/#bpn7296)» 
+bpn7296 
 
 ----
 
@@ -679,7 +680,7 @@ O Ty, przed którego przejmującym majestatem zadrżało wszelkie stworzenie, w 
 
 -- Bahá'u'lláh
 
-bpn7297 «[Polski](../pl/prayers/#bpn7297)» 
+bpn7297 
 
 ----
 
@@ -689,7 +690,7 @@ Chwała Tobie, o mój Boże! Jedna z Twych służebnic, która uwierzyła w Cieb
 
 -- Bahá'u'lláh
 
-bpn7298 «[Polski](../pl/prayers/#bpn7298)» 
+bpn7298 
 
 ----
 
@@ -699,7 +700,7 @@ Ty widzisz, o mój Boże, jak nieprawości czynione przez te Twoje stworzenia, k
 
 -- Bahá'u'lláh
 
-bpn7299 «[Polski](../pl/prayers/#bpn7299)» 
+bpn7299 
 
 ----
 
@@ -709,7 +710,7 @@ O mój Panie, mój Umiłowany, Pragnienie moje! Bądź mi przyjacielem w moim os
 
 -- Abdu'l-Bahá
 
-bpn7300 «[Polski](../pl/prayers/#bpn7300)» 
+bpn7300 
 
 ----
 
@@ -719,7 +720,7 @@ Matki oczekujące dziecka       Mój Panie! Mój Panie! Wysławiam Cię i dzięk
 
 -- Abdu'l-Bahá
 
-bpn7301 «[Polski](../pl/prayers/#bpn7301)» 
+bpn7301 
 
 ----
 
@@ -729,7 +730,7 @@ O mój Boże, o Przebaczający grzechy i Rozpraszający nieszczęścia! O Ty, kt
 
 -- Abdu'l-Bahá
 
-bpn7452 «[Polski](../pl/prayers/#bpn7452)» 
+bpn7452 
 
 ----
 
@@ -739,7 +740,7 @@ O Panie, o Ty, którego miłosierdzie objęło wszystko, którego przebaczenie p
 
 -- Abdu'l-Bahá
 
-bpn7453 «[Polski](../pl/prayers/#bpn7453)» 
+bpn7453 
 
 ----
 
@@ -749,7 +750,7 @@ O Ty, Życzliwy Panie! Ta oto wielce umiłowana służebnica w Tobie znalazła u
 
 -- Abdu'l-Bahá
 
-bpn7454 «[Polski](../pl/prayers/#bpn7454)» 
+bpn7454 
 
 ----
 
@@ -763,7 +764,7 @@ bpn7454 «[Polski](../pl/prayers/#bpn7454)»
 
 -- Bahá'u'lláh
 
-bpn7267 «[Polski](../pl/prayers/#bpn7267)» 
+bpn7267 
 
 ----
 
@@ -777,7 +778,7 @@ Boże mój, którego czczę i wielbię! Daję świadectwo Twojej jedności i jed
 
 -- Bahá'u'lláh
 
-bpn7302 «[Polski](../pl/prayers/#bpn7302)» 
+bpn7302 
 
 ----
 
@@ -787,7 +788,7 @@ O Ty, współczujący Panie, Ty, któryś jest hojny i wszechzdolny! Jesteśmy T
 
 -- Abdu'l-Bahá
 
-bpn7303 «[Polski](../pl/prayers/#bpn7303)» 
+bpn7303 
 
 ----
 
@@ -797,7 +798,7 @@ O Ty, łaskawy Panie! O Ty, któryś jest hojny i miłosierny! Jesteśmy sługam
 
 -- Abdu'l-Bahá
 
-bpn7304 «[Polski](../pl/prayers/#bpn7304)» 
+bpn7304 
 
 ----
 
@@ -807,7 +808,7 @@ O Boże, o Ty, któryś zesłał swoją wspaniałość na świetlaną rzeczywist
 
 -- Abdu'l-Bahá
 
-bpn7306 «[Polski](../pl/prayers/#bpn7306)» 
+bpn7306 
 
 ----
 
@@ -817,7 +818,7 @@ O Panie łaskawy! Tyś ulepił całą ludzkość z tej samej gliny. Tyś nakaza�
 
 -- Abdu'l-Bahá
 
-bpn7305 «[Polski](../pl/prayers/#bpn7305)» 
+bpn7305 
 
 ----
 
@@ -831,7 +832,7 @@ bpn7305 «[Polski](../pl/prayers/#bpn7305)»
 
 -- Bahá'u'lláh
 
-bpn7308 «[Polski](../pl/prayers/#bpn7308)» 
+bpn7308 
 
 ----
 
@@ -841,7 +842,7 @@ bpn7308 «[Polski](../pl/prayers/#bpn7308)»
 
 -- Abdu'l-Bahá
 
-bpn7307 «[Polski](../pl/prayers/#bpn7307)» 
+bpn7307 
 
 ----
 
@@ -851,7 +852,7 @@ Chwała niechaj Ci będzie, o mój Boże! Zaprawdę, ten oto Twój sługa i ta o
 
 -- Abdu'l-Bahá
 
-bpn7309 «[Polski](../pl/prayers/#bpn7309)» 
+bpn7309 
 
 ----
 
@@ -861,7 +862,7 @@ O Panie mój, o Panie mój! Te dwa jasne słońca łączą się węzłem małże
 
 -- Abdu'l-Bahá
 
-bpn7310 «[Polski](../pl/prayers/#bpn7310)» 
+bpn7310 
 
 ----
 
@@ -875,7 +876,7 @@ bpn7310 «[Polski](../pl/prayers/#bpn7310)»
 
 -- Bahá'u'lláh
 
-bpn7447 «[Polski](../pl/prayers/#bpn7447)» 
+bpn7447 
 
 ----
 
@@ -889,7 +890,7 @@ On jest Bogiem!    O Panie, mój Boże! O Ty, Pomagający słabym, Wspomożyciel
 
 -- Abdu'l-Bahá
 
-bpn7466 «[Polski](../pl/prayers/#bpn7466)» 
+bpn7466 
 
 ----
 
@@ -903,7 +904,7 @@ O Boże, mój Boże! Ta oto służebnica wzywa Ciebie, ufając Tobie, zwróciwsz
 
 -- Abdu'l-Bahá
 
-bpn7380 «[Polski](../pl/prayers/#bpn7380)» 
+bpn7380 
 
 ----
 
@@ -917,7 +918,7 @@ O Ty, życzliwy Panie! Z horyzontu uniezależnienia Tyś objawił dusze, które 
 
 -- Abdu'l-Bahá
 
-bpn7311 «[Polski](../pl/prayers/#bpn7311)» 
+bpn7311 
 
 ----
 
@@ -927,7 +928,7 @@ O Ty, dobry Panie! Łaskawie obdarz parą niebiańskich skrzydeł każde z tych 
 
 -- Abdu'l-Bahá
 
-bpn7312 «[Polski](../pl/prayers/#bpn7312)» 
+bpn7312 
 
 ----
 
@@ -937,7 +938,7 @@ O Ty, życzliwy Panie! Obdarz tę córkę Królestwa niebiańskim umocnieniem i 
 
 -- Abdu'l-Bahá
 
-bpn7313 «[Polski](../pl/prayers/#bpn7313)» 
+bpn7313 
 
 ----
 
@@ -947,7 +948,7 @@ O Panie! Uczyń tego młodzieńca promiennym i udziel swojej łaski tej biednej 
 
 -- Abdu'l-Bahá
 
-bpn7314 «[Polski](../pl/prayers/#bpn7314)» 
+bpn7314 
 
 ----
 
@@ -957,7 +958,7 @@ Cześć i chwała niechaj będą Tobie, o Panie, mój Boże! Oto przednie drzewk
 
 -- Abdu'l-Bahá
 
-bpn7315 «[Polski](../pl/prayers/#bpn7315)» 
+bpn7315 
 
 ----
 
@@ -971,7 +972,7 @@ Ogólne modlitwy o pomoc w nauczaniu        Wywyższone niechaj będzie Imię Tw
 
 -- Bahá'u'lláh
 
-bpn7316 «[Polski](../pl/prayers/#bpn7316)» 
+bpn7316 
 
 ----
 
@@ -981,7 +982,7 @@ Chwała niechaj będzie Tobie, o Panie, Boże mój! Błagam Cię na Twoje Imię,
 
 -- Bahá'u'lláh
 
-bpn7317 «[Polski](../pl/prayers/#bpn7317)» 
+bpn7317 
 
 ----
 
@@ -991,7 +992,7 @@ Chwała niechaj będzie Tobie, o Panie świata i Upragnienie narodów, o Ty, kt�
 
 -- Bahá'u'lláh
 
-bpn7318 «[Polski](../pl/prayers/#bpn7318)» 
+bpn7318 
 
 ----
 
@@ -1001,7 +1002,7 @@ O Boże, któryś jest Autorem wszystkich Uosobień, Początkiem wszystkich Pocz
 
 -- Bahá'u'lláh
 
-bpn7319 «[Polski](../pl/prayers/#bpn7319)» 
+bpn7319 
 
 ----
 
@@ -1011,7 +1012,7 @@ Powiedz: Wywyższone niechaj będzie Imię Twoje, o Panie, mój Boże! Błagam C
 
 -- Bahá'u'lláh
 
-bpn7320 «[Polski](../pl/prayers/#bpn7320)» 
+bpn7320 
 
 ----
 
@@ -1021,7 +1022,7 @@ O mój Boże, dopomóż swemu słudze podjąć Słowo, odrzucić wszystko, co je
 
 -- Abdu'l-Bahá
 
-bpn7321 «[Polski](../pl/prayers/#bpn7321)» 
+bpn7321 
 
 ----
 
@@ -1031,7 +1032,7 @@ Ty widzisz mnie, o mój Boże, pokornie pochylonego, ukorzonego przed Twoimi prz
 
 -- Abdu'l-Bahá
 
-bpn7323 «[Polski](../pl/prayers/#bpn7323)» 
+bpn7323 
 
 ----
 
@@ -1041,7 +1042,7 @@ Ty wiesz, o Boże, i jesteś moim świadkiem, że nie mam żadnego pragnienia w 
 
 -- Abdu'l-Bahá
 
-bpn7324 «[Polski](../pl/prayers/#bpn7324)» 
+bpn7324 
 
 ----
 
@@ -1051,7 +1052,7 @@ O Boże, mój Boże! Pomóż Twoim zaufanym sługom mieć miłujące i czułe se
 
 -- Abdu'l-Bahá
 
-bpn7322 «[Polski](../pl/prayers/#bpn7322)» 
+bpn7322 
 
 ----
 
@@ -1065,7 +1066,7 @@ bpn7322 «[Polski](../pl/prayers/#bpn7322)»
 
 -- Bahá'u'lláh
 
-bpn7467 «[Polski](../pl/prayers/#bpn7467)» 
+bpn7467 
 
 ----
 
@@ -1079,7 +1080,7 @@ Chwała Ci, o Panie, Boże mój! Dozwól łaskawie, aby to dziecię było karmio
 
 -- Bahá'u'lláh
 
-bpn7287 «[Polski](../pl/prayers/#bpn7287)» 
+bpn7287 
 
 ----
 
@@ -1089,7 +1090,7 @@ Jesteś Tym, o mój Boże, przez którego imiona chorzy zostają uzdrowieni i bo
 
 -- Bahá'u'lláh
 
-bpn7427 «[Polski](../pl/prayers/#bpn7427)» 
+bpn7427 
 
 ----
 
@@ -1099,7 +1100,7 @@ O Ty, niezrównany Panie! Spraw, aby to dzieciątko karmione było piersią Twej
 
 -- Abdu'l-Bahá
 
-bpn7288 «[Polski](../pl/prayers/#bpn7288)» 
+bpn7288 
 
 ----
 
@@ -1109,7 +1110,7 @@ O Boże! Wychowuj to małe dziecię na łonie Twojej miłości i napój je mleki
 
 -- Abdu'l-Bahá
 
-bpn7289 «[Polski](../pl/prayers/#bpn7289)» 
+bpn7289 
 
 ----
 
@@ -1123,7 +1124,7 @@ Chwała bądź Tobie, o Panie, Boże mój! Ty widzisz i wiesz, że nawoływałem
 
 -- Bahá'u'lláh
 
-bpn7335 «[Polski](../pl/prayers/#bpn7335)» 
+bpn7335 
 
 ----
 
@@ -1133,7 +1134,7 @@ Pochwalony bądź, o Panie, Boże mój! Oto Twój sługa, który wychylił wino 
 
 -- Bahá'u'lláh
 
-bpn7336 «[Polski](../pl/prayers/#bpn7336)» 
+bpn7336 
 
 ----
 
@@ -1143,7 +1144,7 @@ Wysławione bądź Twoje Imię, o Panie, Boże mój! Błagam Cię na Twoje Imię
 
 -- Bahá'u'lláh
 
-bpn7337 «[Polski](../pl/prayers/#bpn7337)» 
+bpn7337 
 
 ----
 
@@ -1153,7 +1154,7 @@ W Imię Jego, Wywyższonego, Najwyższego, Najbardziej Wzniosłego!   Pochwalony
 
 -- Bahá'u'lláh
 
-bpn7338 «[Polski](../pl/prayers/#bpn7338)» 
+bpn7338 
 
 ----
 
@@ -1163,7 +1164,7 @@ Przeznacz dla mnie, o mój Panie, i dla tych, którzy wierzą w Ciebie, to, co w
 
 -- Báb
 
-bpn7339 «[Polski](../pl/prayers/#bpn7339)» 
+bpn7339 
 
 ----
 
@@ -1173,7 +1174,7 @@ Chwała bądź Tobie, o Boże! Tyś jest Bogiem, co istniał przed wszelkim stwo
 
 -- Báb
 
-bpn7340 «[Polski](../pl/prayers/#bpn7340)» 
+bpn7340 
 
 ----
 
@@ -1183,7 +1184,7 @@ W Imię Boga, Pana przemożnego majestatu, Nieodpartego!   Uświęcony niechaj b
 
 -- Báb
 
-bpn7341 «[Polski](../pl/prayers/#bpn7341)» 
+bpn7341 
 
 ----
 
@@ -1193,7 +1194,7 @@ O mój Panie! Ty wiesz, że ludzi otoczyły cierpienia oraz klęski i okrążył
 
 -- Abdu'l-Bahá
 
-bpn7343 «[Polski](../pl/prayers/#bpn7343)» 
+bpn7343 
 
 ----
 
@@ -1203,7 +1204,7 @@ O Ty, dobra i miłująca Opatrzności! Wschód jest poruszony, a Zachód wzbiera
 
 -- Abdu'l-Bahá
 
-bpn7344 «[Polski](../pl/prayers/#bpn7344)» 
+bpn7344 
 
 ----
 
@@ -1213,7 +1214,7 @@ O Boże, mój Boże! Osłaniaj swoje zaufane sługi przed złem egoizmu i namię
 
 -- Abdu'l-Bahá
 
-bpn7342 «[Polski](../pl/prayers/#bpn7342)» 
+bpn7342 
 
 ----
 
@@ -1227,7 +1228,7 @@ Chwała niechaj będzie Tobie, o Panie, mój Boże! Nie poniżaj tego, którego�
 
 -- Bahá'u'lláh
 
-bpn7448 «[Polski](../pl/prayers/#bpn7448)» 
+bpn7448 
 
 ----
 
@@ -1237,7 +1238,7 @@ O mój Boże! O Ty, który odpuszczasz grzechy, rozdajesz dary i usuwasz nieszcz
 
 -- Abdu'l-Bahá
 
-bpn7449 «[Polski](../pl/prayers/#bpn7449)» 
+bpn7449 
 
 ----
 
@@ -1247,7 +1248,7 @@ O mój Boże! O mój Boże! Zaprawdę, ten oto Twój sługa pokorny przed majest
 
 -- Abdu'l-Bahá
 
-bpn7450 «[Polski](../pl/prayers/#bpn7450)» 
+bpn7450 
 
 ----
 
@@ -1257,7 +1258,7 @@ O Ty, przebaczający Panie!    Choć niektóre dusze przeżyły dni swojego życ
 
 -- Abdu'l-Bahá
 
-bpn7451 «[Polski](../pl/prayers/#bpn7451)» 
+bpn7451 
 
 ----
 
@@ -1271,7 +1272,7 @@ bpn7451 «[Polski](../pl/prayers/#bpn7451)»
 
 -- Bahá'u'lláh
 
-bpn7483 «[Polski](../pl/prayers/#bpn7483)» 
+bpn7483 
 
 ----
 
@@ -1285,7 +1286,7 @@ O Boże, mój Boże! Wyruszyłem z mego domu, trzymając się mocno więzi Twoje
 
 -- Bahá'u'lláh
 
-bpn7345 «[Polski](../pl/prayers/#bpn7345)» 
+bpn7345 
 
 ----
 
@@ -1295,7 +1296,7 @@ Wstałem tego ranka dzięki Twojej łasce, o Boże mój, i opuściłem mój dom 
 
 -- Bahá'u'lláh
 
-bpn7346 «[Polski](../pl/prayers/#bpn7346)» 
+bpn7346 
 
 ----
 
@@ -1309,7 +1310,7 @@ O Ty, którego oblicze jest przedmiotem mego uwielbienia, którego piękno jest 
 
 -- Bahá'u'lláh
 
-bpn7347 «[Polski](../pl/prayers/#bpn7347)» 
+bpn7347 
 
 ----
 
@@ -1319,7 +1320,7 @@ Mój Boże, mój Uwielbiony, mój Królu, Upragnienie moje! Jakiż język zdoła
 
 -- Bahá'u'lláh
 
-bpn7348 «[Polski](../pl/prayers/#bpn7348)» 
+bpn7348 
 
 ----
 
@@ -1329,7 +1330,7 @@ Niech będzie wysławione Imię Twoje, o Panie, Boże nasz! Tyś zaprawdę jest 
 
 -- Báb
 
-bpn7349 «[Polski](../pl/prayers/#bpn7349)» 
+bpn7349 
 
 ----
 
@@ -1339,7 +1340,7 @@ O mój Boże, mój Panie i mój Mistrzu! Odłączyłem się od mych bliskich i w
 
 -- Báb
 
-bpn7350 «[Polski](../pl/prayers/#bpn7350)» 
+bpn7350 
 
 ----
 
@@ -1349,7 +1350,7 @@ O Panie! Jesteśmy godni pożałowania, udziel nam swoich łask; jesteśmy biedn
 
 -- Abdu'l-Bahá
 
-bpn7351 «[Polski](../pl/prayers/#bpn7351)» 
+bpn7351 
 
 ----
 
@@ -1359,7 +1360,7 @@ O Ty, łaskawy Panie! Jesteśmy sługami u Twego Progu, chroniącymi się u Twoi
 
 -- Abdu'l-Bahá
 
-bpn7352 «[Polski](../pl/prayers/#bpn7352)» 
+bpn7352 
 
 ----
 
@@ -1369,7 +1370,7 @@ Nie usuwaj, o Panie, świątecznego stołu, który został nakryty w Imię Twoje
 
 -- Abdu'l-Bahá
 
-bpn7353 «[Polski](../pl/prayers/#bpn7353)» 
+bpn7353 
 
 ----
 
@@ -1383,7 +1384,7 @@ O Boże mój i mój Mistrzu! Jestem Twoim sługą i synem Twojego sługi. Podnio
 
 -- Bahá'u'lláh
 
-bpn7354 «[Polski](../pl/prayers/#bpn7354)» 
+bpn7354 
 
 ----
 
@@ -1393,7 +1394,7 @@ Obudziłem się w Twoim schronieniu, o mój Boże, a temu, który szuka tego sch
 
 -- Bahá'u'lláh
 
-bpn7355 «[Polski](../pl/prayers/#bpn7355)» 
+bpn7355 
 
 ----
 
@@ -1403,7 +1404,7 @@ Wysławiam Cię, o mój Boże, za to, żeś przebudził mnie ze snu, przywróci�
 
 -- Bahá'u'lláh
 
-bpn7356 «[Polski](../pl/prayers/#bpn7356)» 
+bpn7356 
 
 ----
 
@@ -1417,7 +1418,7 @@ bpn7356 «[Polski](../pl/prayers/#bpn7356)»
 
 -- Bahá'u'lláh
 
-bpn7468 «[Polski](../pl/prayers/#bpn7468)» 
+bpn7468 
 
 ----
 
@@ -1427,7 +1428,7 @@ W Imię Tego, który został obiecany w Księgach Boga, Wszechwiedzącego, Powia
 
 -- Bahá'u'lláh
 
-bpn7469 «[Polski](../pl/prayers/#bpn7469)» 
+bpn7469 
 
 ----
 
@@ -1437,7 +1438,7 @@ Błagam Cię, o mój Boże, na Twój potężny Znak i na objawienie się Twojej 
 
 -- Bahá'u'lláh
 
-bpn7470 «[Polski](../pl/prayers/#bpn7470)» 
+bpn7470 
 
 ----
 
@@ -1447,7 +1448,7 @@ To są, o mój Boże, te dni, w których Tyś nakazał sługom swoim zachowywać
 
 -- Bahá'u'lláh
 
-bpn7471 «[Polski](../pl/prayers/#bpn7471)» 
+bpn7471 
 
 ----
 
@@ -1457,7 +1458,7 @@ Chwała bądź Tobie, o Panie, Boże mój! Oto są dni, w których nakazałeś w
 
 -- Bahá'u'lláh
 
-bpn7472 «[Polski](../pl/prayers/#bpn7472)» 
+bpn7472 
 
 ----
 
@@ -1467,7 +1468,7 @@ Pochwalony bądź, o Boże, mój Boże! Oto są dni, podczas których Tyś nakaz
 
 -- Bahá'u'lláh
 
-bpn7473 «[Polski](../pl/prayers/#bpn7473)» 
+bpn7473 
 
 ----
 
@@ -1481,7 +1482,7 @@ Wysławiony jesteś, o Panie, Boże mój! Błagam Cię na Twoich Wybrańców i n
 
 -- Bahá'u'lláh
 
-bpn7366 «[Polski](../pl/prayers/#bpn7366)» 
+bpn7366 
 
 ----
 
@@ -1491,7 +1492,7 @@ Jestem tym, o mój Panie, który zwrócił swoją twarz ku Tobie i złożył nad
 
 -- Bahá'u'lláh
 
-bpn7367 «[Polski](../pl/prayers/#bpn7367)» 
+bpn7367 
 
 ----
 
@@ -1501,7 +1502,7 @@ Ty widzisz mnie, o mój Panie, z twarzą zwróconą w stronę nieba Twojej szczo
 
 -- Bahá'u'lláh
 
-bpn7368 «[Polski](../pl/prayers/#bpn7368)» 
+bpn7368 
 
 ----
 
@@ -1511,7 +1512,7 @@ Bądź pochwalony, Panie Boże mój! Za każdym razem, gdy ośmielam się wspomi
 
 -- Bahá'u'lláh
 
-bpn7369 «[Polski](../pl/prayers/#bpn7369)» 
+bpn7369 
 
 ----
 
@@ -1521,7 +1522,7 @@ Pochwalone bądź Imię Twoje, o mój Boże i Boże wszelkiego stworzenia, moja 
 
 -- Bahá'u'lláh
 
-bpn7370 «[Polski](../pl/prayers/#bpn7370)» 
+bpn7370 
 
 ----
 
@@ -1531,7 +1532,7 @@ O Boże, Panie nasz! Chroń nas swoją łaską od wszystkiego, co mogłoby wzbud
 
 -- Báb
 
-bpn7371 «[Polski](../pl/prayers/#bpn7371)» 
+bpn7371 
 
 ----
 
@@ -1541,7 +1542,7 @@ Błagam Cię, abyś wybaczył mi, o mój Panie, każde wspominanie, które nie j
 
 -- Báb
 
-bpn7373 «[Polski](../pl/prayers/#bpn7373)» 
+bpn7373 
 
 ----
 
@@ -1551,7 +1552,7 @@ Chwała bądź Tobie, o Boże! Jakże mogę wspominać Ciebie, skoro Tyś uświ�
 
 -- Báb
 
-bpn7374 «[Polski](../pl/prayers/#bpn7374)» 
+bpn7374 
 
 ----
 
@@ -1561,7 +1562,7 @@ Jestem świadom, o Panie, że przewinienia moje okryły twarz moją wstydem w Tw
 
 -- Báb
 
-bpn7375 «[Polski](../pl/prayers/#bpn7375)» 
+bpn7375 
 
 ----
 
@@ -1571,7 +1572,7 @@ Chwała bądź Tobie, o Panie. Przebacz nam nasze grzechy, miej litość nad nam
 
 -- Báb
 
-bpn7372 «[Polski](../pl/prayers/#bpn7372)» 
+bpn7372 
 
 ----
 
@@ -1581,7 +1582,7 @@ O Ty, przebaczający Panie! Ty jesteś schronieniem dla tych oto Twoich służeb
 
 -- Abdu'l-Bahá
 
-bpn7376 «[Polski](../pl/prayers/#bpn7376)» 
+bpn7376 
 
 ----
 
@@ -1595,7 +1596,7 @@ O Ty, którego próby są uzdrawiającym lekarstwem dla znajdujących się blisk
 
 -- Bahá'u'lláh
 
-bpn7357 «[Polski](../pl/prayers/#bpn7357)» 
+bpn7357 
 
 ----
 
@@ -1605,7 +1606,7 @@ Chwała Ci, o mój Boże! Gdyby nie udręki doznawane na Twojej ścieżce, jak m
 
 -- Bahá'u'lláh
 
-bpn7358 «[Polski](../pl/prayers/#bpn7358)» 
+bpn7358 
 
 ----
 
@@ -1615,7 +1616,7 @@ Pochwalony bądź, o Panie, Boże mój! Każdy wnikliwy człowiek uznaje Twoją 
 
 -- Bahá'u'lláh
 
-bpn7359 «[Polski](../pl/prayers/#bpn7359)» 
+bpn7359 
 
 ----
 
@@ -1625,7 +1626,7 @@ Rozwiej mój smutek Twoją szczodrością i hojnością, o Boże, mój Boże, i 
 
 -- Bahá'u'lláh
 
-bpn7360 «[Polski](../pl/prayers/#bpn7360)» 
+bpn7360 
 
 ----
 
@@ -1635,7 +1636,7 @@ Pochwalony i wysławiony jesteś, o mój Boże! Błagam Cię na westchnienia mi�
 
 -- Bahá'u'lláh
 
-bpn7361 «[Polski](../pl/prayers/#bpn7361)» 
+bpn7361 
 
 ----
 
@@ -1645,7 +1646,7 @@ Czyż jest inny Wybawiciel od trudności niźli Bóg? Powiedz: Chwała niech bę
 
 -- Báb
 
-bpn7362 «[Polski](../pl/prayers/#bpn7362)» 
+bpn7362 
 
 ----
 
@@ -1655,7 +1656,7 @@ Ty wiesz doskonale, o mój Boże, że ze wszystkich stron spadł na mnie deszcz 
 
 -- Báb
 
-bpn7363 «[Polski](../pl/prayers/#bpn7363)» 
+bpn7363 
 
 ----
 
@@ -1665,7 +1666,7 @@ Zaklinam Cię na Twą moc, o mój Boże! Nie pozwól, by w chwilach próby spotk
 
 -- Báb
 
-bpn7364 «[Polski](../pl/prayers/#bpn7364)» 
+bpn7364 
 
 ----
 
@@ -1675,7 +1676,7 @@ O Panie! Jesteś Tym, który usuwa wszelkie boleści i oddala wszystkie cierpien
 
 -- Báb
 
-bpn7365 «[Polski](../pl/prayers/#bpn7365)» 
+bpn7365 
 
 ----
 
@@ -1689,7 +1690,7 @@ O ty, który poszukujesz Prawdy! Jeżeli pragniesz, aby Bóg otworzył ci oczy, 
 
 -- Abdu'l-Bahá
 
-bpn7431 «[Polski](../pl/prayers/#bpn7431)» 
+bpn7431 
 
 ----
 
@@ -1703,7 +1704,7 @@ Błagam o Twoje przebaczenie, o mój Boże, i upraszam o odpuszczenie win, w tak
 
 -- Báb
 
-bpn7378 «[Polski](../pl/prayers/#bpn7378)» 
+bpn7378 
 
 ----
 
@@ -1713,7 +1714,7 @@ O Panie! W tym Największym Objawieniu Ty przyjmujesz wstawiennictwo dzieci za i
 
 -- Abdu'l-Bahá
 
-bpn7379 «[Polski](../pl/prayers/#bpn7379)» 
+bpn7379 
 
 ----
 
@@ -1727,7 +1728,7 @@ Chwała bądź Tobie, o Panie mój, Boże! Błagam Cię, abyś przebaczył mnie 
 
 -- Báb
 
-bpn7377 «[Polski](../pl/prayers/#bpn7377)» 
+bpn7377 
 
 ----
 
@@ -1741,7 +1742,7 @@ Ze słodko pachnących strumieni Twojej wieczności dozwól mi pić, o Boże mó
 
 -- Bahá'u'lláh
 
-bpn7381 «[Polski](../pl/prayers/#bpn7381)» 
+bpn7381 
 
 ----
 
@@ -1751,7 +1752,7 @@ Obdarz mnie czystym sercem, o mój Boże, i przywróć mi spokojne sumienie, o m
 
 -- Bahá'u'lláh
 
-bpn7382 «[Polski](../pl/prayers/#bpn7382)» 
+bpn7382 
 
 ----
 
@@ -1761,7 +1762,7 @@ On jest Łaskawym, Wszechszczodrym!    O Boże, mój Boże! Twoje wołanie przyc
 
 -- Bahá'u'lláh
 
-bpn7383 «[Polski](../pl/prayers/#bpn7383)» 
+bpn7383 
 
 ----
 
@@ -1771,7 +1772,7 @@ O Panie mój! Niechaj Twe piękno stanie się moim pokarmem, Twoja obecność mo
 
 -- Bahá'u'lláh
 
-bpn7384 «[Polski](../pl/prayers/#bpn7384)» 
+bpn7384 
 
 ----
 
@@ -1781,7 +1782,7 @@ Niechaj będzie pochwalone Imię Twoje, o Panie, Boże mój! Jestem Twoim sług�
 
 -- Bahá'u'lláh
 
-bpn7385 «[Polski](../pl/prayers/#bpn7385)» 
+bpn7385 
 
 ----
 
@@ -1791,7 +1792,7 @@ O Boże mój, Boże szczodrości i miłosierdzia! Tyś jest tym Królem, z któr
 
 -- Bahá'u'lláh
 
-bpn7386 «[Polski](../pl/prayers/#bpn7386)» 
+bpn7386 
 
 ----
 
@@ -1801,7 +1802,7 @@ On jest Bogiem, który słucha modlitw i na modlitwy odpowiada!    Na Twoją chw
 
 -- Bahá'u'lláh
 
-bpn7387 «[Polski](../pl/prayers/#bpn7387)» 
+bpn7387 
 
 ----
 
@@ -1811,7 +1812,7 @@ Chwała Tobie, o Panie, Boże mój! Dzięki Ci składam za to, żeś powołał m
 
 -- Bahá'u'lláh
 
-bpn7388 «[Polski](../pl/prayers/#bpn7388)» 
+bpn7388 
 
 ----
 
@@ -1821,7 +1822,7 @@ Błagam Cię, o mój Boże, przez całą najwyższą chwałę Twojego Imienia, a
 
 -- Bahá'u'lláh
 
-bpn7389 «[Polski](../pl/prayers/#bpn7389)» 
+bpn7389 
 
 ----
 
@@ -1831,7 +1832,7 @@ Zaszczyć mnie, o mój Boże, pełną miarą Twojej miłości i Twojego zadowole
 
 -- Báb
 
-bpn7390 «[Polski](../pl/prayers/#bpn7390)» 
+bpn7390 
 
 ----
 
@@ -1841,7 +1842,7 @@ O mój Boże! O mój Boże! Chwała bądź Tobie, za to żeś upewnił mnie, bym
 
 -- Abdu'l-Bahá
 
-bpn7391 «[Polski](../pl/prayers/#bpn7391)» 
+bpn7391 
 
 ----
 
@@ -1851,7 +1852,7 @@ O Panie mój! O Panie mój! Oto kaganek zapalony ogniem Twojej miłości i gorej
 
 -- Abdu'l-Bahá
 
-bpn7392 «[Polski](../pl/prayers/#bpn7392)» 
+bpn7392 
 
 ----
 
@@ -1861,7 +1862,7 @@ O mój Boże! O mój Boże! Ten oto Twój sługa zbliżył się do Ciebie, z zam
 
 -- Abdu'l-Bahá
 
-bpn7393 «[Polski](../pl/prayers/#bpn7393)» 
+bpn7393 
 
 ----
 
@@ -1871,7 +1872,7 @@ O Boże, mój Boże! Oto Twój promienny sługa, Twój duchowy niewolnik, który
 
 -- Abdu'l-Bahá
 
-bpn7394 «[Polski](../pl/prayers/#bpn7394)» 
+bpn7394 
 
 ----
 
@@ -1881,7 +1882,7 @@ O Boże, mój Boże! Oto Twoi biedni słudzy, oto Twoi wierni poddani i Twoje s�
 
 -- Abdu'l-Bahá
 
-bpn7395 «[Polski](../pl/prayers/#bpn7395)» 
+bpn7395 
 
 ----
 
@@ -1891,7 +1892,7 @@ On jest Bogiem!    O Boże, mój Boże! Oto słudzy przywiedzeni w dniach Twoich
 
 -- Abdu'l-Bahá
 
-bpn7396 «[Polski](../pl/prayers/#bpn7396)» 
+bpn7396 
 
 ----
 
@@ -1901,7 +1902,7 @@ O Żywicielu! Tyś tchnął słodką woń Ducha Świętego na przyjaciół na Za
 
 -- Abdu'l-Bahá
 
-bpn7397 «[Polski](../pl/prayers/#bpn7397)» 
+bpn7397 
 
 ----
 
@@ -1915,7 +1916,7 @@ Pochwalony bądź, o Panie, Boże mój! Błagam Cię na porywy wiatru Twojej ła
 
 -- Bahá'u'lláh
 
-bpn7400 «[Polski](../pl/prayers/#bpn7400)» 
+bpn7400 
 
 ----
 
@@ -1925,7 +1926,7 @@ O Ty, miłosierny Boże! O Ty, któryś jest mocny i potężny! O Ty, najżyczli
 
 -- Abdu'l-Bahá
 
-bpn7401 «[Polski](../pl/prayers/#bpn7401)» 
+bpn7401 
 
 ----
 
@@ -1935,7 +1936,7 @@ O Ty, łaskawy Panie! Oto słudzy Twoi zebrani na tym spotkaniu zwracają się k
 
 -- Abdu'l-Bahá
 
-bpn7402 «[Polski](../pl/prayers/#bpn7402)» 
+bpn7402 
 
 ----
 
@@ -1945,7 +1946,7 @@ O Boże mój! O Boże mój! Zaprawdę, ci oto słudzy zwracają się do Ciebie, 
 
 -- Abdu'l-Bahá
 
-bpn7403 «[Polski](../pl/prayers/#bpn7403)» 
+bpn7403 
 
 ----
 
@@ -1955,7 +1956,7 @@ O Ty, przebaczający Boże! Ci oto słudzy zwracają się w stronę Twojego kró
 
 -- Abdu'l-Bahá
 
-bpn7404 «[Polski](../pl/prayers/#bpn7404)» 
+bpn7404 
 
 ----
 
@@ -1965,7 +1966,7 @@ O Boska Opatrzności! To zgromadzenie tworzą Twoi przyjaciele, których zachwyc
 
 -- Abdu'l-Bahá
 
-bpn7405 «[Polski](../pl/prayers/#bpn7405)» 
+bpn7405 
 
 ----
 
@@ -1975,7 +1976,7 @@ O Ty, miłujący Żywicielu! Te dusze wsłuchały się w wezwania Królestwa i w
 
 -- Abdu'l-Bahá
 
-bpn7406 «[Polski](../pl/prayers/#bpn7406)» 
+bpn7406 
 
 ----
 
@@ -1989,7 +1990,7 @@ Chwała bądź Tobie, o Królu wieczności i Stworzycielu narodów, Ty, który k
 
 -- Bahá'u'lláh
 
-bpn7408 «[Polski](../pl/prayers/#bpn7408)» 
+bpn7408 
 
 ----
 
@@ -1999,7 +2000,7 @@ On jest Potężnym, Wybaczającym i Współczującym!    O Boże, mój Boże! Ty
 
 -- Bahá'u'lláh
 
-bpn7409 «[Polski](../pl/prayers/#bpn7409)» 
+bpn7409 
 
 ----
 
@@ -2009,7 +2010,7 @@ Upewnij nasze kroki na swej ścieżce, o Panie, i umocnij serca nasze w posłusz
 
 -- Abdu'l-Bahá
 
-bpn7410 «[Polski](../pl/prayers/#bpn7410)» 
+bpn7410 
 
 ----
 
@@ -2019,7 +2020,7 @@ O Boże litościwy! Dzięki ci składam, żeś mnie rozbudził i dał mi świado
 
 -- Abdu'l-Bahá
 
-bpn7411 «[Polski](../pl/prayers/#bpn7411)» 
+bpn7411 
 
 ----
 
@@ -2029,7 +2030,7 @@ O mój Panie i moja Nadziejo! Dopomóż swoim umiłowanym, aby byli wytrwali w T
 
 -- Abdu'l-Bahá
 
-bpn7412 «[Polski](../pl/prayers/#bpn7412)» 
+bpn7412 
 
 ----
 
@@ -2043,7 +2044,7 @@ O Boże i Boże wszystkich Imion, i Stwórco niebios! Błagam Cię na Twoje Imi�
 
 -- Bahá'u'lláh
 
-bpn7398 «[Polski](../pl/prayers/#bpn7398)» 
+bpn7398 
 
 ----
 
@@ -2053,7 +2054,7 @@ Oddaję Ci cześć, o mój Boże, za to, że zachwycił mnie zapach Twojej serde
 
 -- Bahá'u'lláh
 
-bpn7399 «[Polski](../pl/prayers/#bpn7399)» 
+bpn7399 
 
 ----
 
@@ -2067,7 +2068,7 @@ bpn7399 «[Polski](../pl/prayers/#bpn7399)»
 
 -- Bahá'u'lláh
 
-bpn7479 «[Polski](../pl/prayers/#bpn7479)» 
+bpn7479 
 
 ----
 
@@ -2081,7 +2082,7 @@ W Imię Boga, Odwiecznego, Największego.    Zaprawdę, serca prawych trawi ogie
 
 -- Bahá'u'lláh
 
-bpn7480 «[Polski](../pl/prayers/#bpn7480)» 
+bpn7480 
 
 ----
 
@@ -2095,7 +2096,7 @@ bpn7480 «[Polski](../pl/prayers/#bpn7480)»
 
 -- Bahá'u'lláh
 
-bpn7482 «[Polski](../pl/prayers/#bpn7482)» 
+bpn7482 
 
 ----
 
@@ -2109,7 +2110,7 @@ bpn7482 «[Polski](../pl/prayers/#bpn7482)»
 
 -- Bahá'u'lláh
 
-bpn7481 «[Polski](../pl/prayers/#bpn7481)» 
+bpn7481 
 
 ----
 
@@ -2123,7 +2124,7 @@ Tablica ta bywa czytana w Świątyniach, w których Bahá’u’lláh i Báb są
 
 -- Bahá'u'lláh
 
-bpn7474 «[Polski](../pl/prayers/#bpn7474)» 
+bpn7474 
 
 ----
 
@@ -2133,7 +2134,7 @@ Następującą modlitwę, objawioną przez ʿAbdu’l-Bahę, czyta się w Świą
 
 -- Abdu'l-Bahá
 
-bpn7475 «[Polski](../pl/prayers/#bpn7475)» 
+bpn7475 
 
 ----
 
@@ -2147,7 +2148,7 @@ Pozwól mi, o mój Boże, zbliżyć się do Ciebie i przebywać w otoczeniu Twoj
 
 -- Bahá'u'lláh
 
-bpn7413 «[Polski](../pl/prayers/#bpn7413)» 
+bpn7413 
 
 ----
 
@@ -2157,7 +2158,7 @@ Pochwalony bądź, o mój Boże! Dzięki Ci składam za to, żeś dał mi pozna�
 
 -- Bahá'u'lláh
 
-bpn7414 «[Polski](../pl/prayers/#bpn7414)» 
+bpn7414 
 
 ----
 
@@ -2167,7 +2168,7 @@ Niech będzie pochwalone Imię Twoje, o mój Boże! Błagam Cię na wonności sz
 
 -- Bahá'u'lláh
 
-bpn7415 «[Polski](../pl/prayers/#bpn7415)» 
+bpn7415 
 
 ----
 
@@ -2177,7 +2178,7 @@ Wiele oziębłych serc, o mój Boże, rozpalił ogień Twojej Sprawy i wielu uś
 
 -- Bahá'u'lláh
 
-bpn7416 «[Polski](../pl/prayers/#bpn7416)» 
+bpn7416 
 
 ----
 
@@ -2187,7 +2188,7 @@ Nie wiem, o mój Boże, jakiż to Ogień roznieciłeś w swojej krainie. Ziemia 
 
 -- Bahá'u'lláh
 
-bpn7417 «[Polski](../pl/prayers/#bpn7417)» 
+bpn7417 
 
 ----
 
@@ -2197,7 +2198,7 @@ Pochwalony bądź, o mój Boże! Jestem jednym z Twoich służebników, którzy 
 
 -- Bahá'u'lláh
 
-bpn7418 «[Polski](../pl/prayers/#bpn7418)» 
+bpn7418 
 
 ----
 
@@ -2207,7 +2208,7 @@ W Imię Twego Pana, Stwórcy, Władcy, Wszechwystarczającego i Najwznioślejsze
 
 -- Báb
 
-bpn7419 «[Polski](../pl/prayers/#bpn7419)» 
+bpn7419 
 
 ----
 
@@ -2217,7 +2218,7 @@ Powiedz: Bóg wystarcza wszelkiemu stworzeniu ponad wszystko i nic w niebie ani 
 
 -- Báb
 
-bpn7421 «[Polski](../pl/prayers/#bpn7421)» 
+bpn7421 
 
 ----
 
@@ -2227,7 +2228,7 @@ O Panie! U Ciebie szukam schronienia i ku wszystkim Twoim znakom kieruję serce 
 
 -- Báb
 
-bpn7420 «[Polski](../pl/prayers/#bpn7420)» 
+bpn7420 
 
 ----
 
@@ -2237,7 +2238,7 @@ O Boże, mój Boże! Ty jesteś moją Nadzieją i moim Umiłowanym, moim najwyż
 
 -- Abdu'l-Bahá
 
-bpn7422 «[Polski](../pl/prayers/#bpn7422)» 
+bpn7422 
 
 ----
 
@@ -2247,7 +2248,7 @@ O Boże, mój Boże! Napełnij dla mnie czarę niezależności od wszelkich rzec
 
 -- Abdu'l-Bahá
 
-bpn7423 «[Polski](../pl/prayers/#bpn7423)» 
+bpn7423 
 
 ----
 
@@ -2261,7 +2262,7 @@ O Boże, mój Boże! Błagam Cię na ocean Twego uzdrowienia, na wspaniałość 
 
 -- Bahá'u'lláh
 
-bpn7424 «[Polski](../pl/prayers/#bpn7424)» 
+bpn7424 
 
 ----
 
@@ -2271,7 +2272,7 @@ Chwała bądź Tobie, o mój Boże! Błagam Cię na Twoje Imię, przez któreś 
 
 -- Bahá'u'lláh
 
-bpn7426 «[Polski](../pl/prayers/#bpn7426)» 
+bpn7426 
 
 ----
 
@@ -2281,7 +2282,7 @@ Twoje imię jest moim uzdrowieniem, o mój Boże, a pamięć o Tobie jest moim l
 
 -- Bahá'u'lláh
 
-bpn7425 «[Polski](../pl/prayers/#bpn7425)» 
+bpn7425 
 
 ----
 
@@ -2295,7 +2296,7 @@ O mój Boże, mój Mistrzu i Celu mojego pragnienia! Ten oto sługa Twój szuka 
 
 -- Bahá'u'lláh
 
-bpn7429 «[Polski](../pl/prayers/#bpn7429)» 
+bpn7429 
 
 ----
 
@@ -2305,7 +2306,7 @@ Jakże mogę wybrać sen, o Boże, mój Boże, gdy oczy tych, którzy za Tobą t
 
 -- Bahá'u'lláh
 
-bpn7430 «[Polski](../pl/prayers/#bpn7430)» 
+bpn7430 
 
 ----
 
@@ -2319,7 +2320,7 @@ Wszelka cześć bądź Tobie, o mój Boże, któryś jest Źródłem wszelkiej c
 
 -- Bahá'u'lláh
 
-bpn7432 «[Polski](../pl/prayers/#bpn7432)» 
+bpn7432 
 
 ----
 
@@ -2329,7 +2330,7 @@ W Imię Boga, Najwyższego! Wysławiony i pochwalony bądź, Panie, Boże Wszech
 
 -- Bahá'u'lláh
 
-bpn7433 «[Polski](../pl/prayers/#bpn7433)» 
+bpn7433 
 
 ----
 
@@ -2339,7 +2340,7 @@ Wysławione niechaj będzie Imię Twoje, o Panie, Boże mój! Ty jesteś Tym, kt
 
 -- Bahá'u'lláh
 
-bpn7434 «[Polski](../pl/prayers/#bpn7434)» 
+bpn7434 
 
 ----
 
@@ -2349,7 +2350,7 @@ Pochwalony bądź, o Panie, mój Boże! Dzięki Ci składam za to, żeś pozwoli
 
 -- Bahá'u'lláh
 
-bpn7435 «[Polski](../pl/prayers/#bpn7435)» 
+bpn7435 
 
 ----
 
@@ -2359,7 +2360,7 @@ Pochwalony bądź, o Panie, mój Boże! Ilekroć próbuję Cię wspominać, pows
 
 -- Bahá'u'lláh
 
-bpn7436 «[Polski](../pl/prayers/#bpn7436)» 
+bpn7436 
 
 ----
 
@@ -2369,7 +2370,7 @@ On jest Bogiem, wywyższony jest On, Pan potęgi i majestatu!    O Boże, mój B
 
 -- Bahá'u'lláh
 
-bpn7437 «[Polski](../pl/prayers/#bpn7437)» 
+bpn7437 
 
 ----
 
@@ -2379,7 +2380,7 @@ Wszelki majestat i chwała, o Boże mój, wszelkie panowanie i światłość, i 
 
 -- Báb
 
-bpn7438 «[Polski](../pl/prayers/#bpn7438)» 
+bpn7438 
 
 ----
 
@@ -2393,7 +2394,7 @@ Wysławiam Twoje Imię, o mój Boże, i Tobie składam dziękczynienie, o moje P
 
 -- Bahá'u'lláh
 
-bpn7439 «[Polski](../pl/prayers/#bpn7439)» 
+bpn7439 
 
 ----
 
@@ -2403,7 +2404,7 @@ Pochwalone niechaj będzie imię Twoje, o Panie, Boże mój! Błagam Cię na Two
 
 -- Bahá'u'lláh
 
-bpn7440 «[Polski](../pl/prayers/#bpn7440)» 
+bpn7440 
 
 ----
 
@@ -2413,7 +2414,7 @@ O Ty, którego bliskość jest moim życzeniem, którego obecność jest moją n
 
 -- Bahá'u'lláh
 
-bpn7441 «[Polski](../pl/prayers/#bpn7441)» 
+bpn7441 
 
 ----
 
@@ -2423,7 +2424,7 @@ O Boże, mój Boże! Zwróciłem się do Ciebie ze skruchą, a Tyś zaprawdę je
 
 -- Bahá'u'lláh
 
-bpn7442 «[Polski](../pl/prayers/#bpn7442)» 
+bpn7442 
 
 ----
 
@@ -2433,7 +2434,7 @@ Chwała bądź Tobie, o Panie, o mój najbardziej Umiłowany! Uczyń mnie wytrwa
 
 -- Báb
 
-bpn7443 «[Polski](../pl/prayers/#bpn7443)» 
+bpn7443 
 
 ----
 
@@ -2443,7 +2444,7 @@ Wysławiony i pochwalony bądź, o Boże! Spraw, aby szybko nadszedł dzień dos
 
 -- Báb
 
-bpn7444 «[Polski](../pl/prayers/#bpn7444)» 
+bpn7444 
 
 ----
 
@@ -2453,7 +2454,7 @@ O Panie, Boże mój! Pomóż swoim umiłowanym, aby byli mocni w Twojej Wierze, 
 
 -- Abdu'l-Bahá
 
-bpn7445 «[Polski](../pl/prayers/#bpn7445)» 
+bpn7445 
 
 ----
 
@@ -2463,7 +2464,7 @@ O Ty, mój Boże, który prowadzisz poszukującego na właściwą drogę, który
 
 -- Abdu'l-Bahá
 
-bpn7446 «[Polski](../pl/prayers/#bpn7446)» 
+bpn7446 
 
 ----
 
@@ -2477,7 +2478,7 @@ O Niezrównany Boże! O Ty, Panie Królestwa! Te oto dusze są Twoją niebiańsk
 
 -- Abdu'l-Bahá
 
-bpn7325 «[Polski](../pl/prayers/#bpn7325)» 
+bpn7325 
 
 ----
 
@@ -2487,7 +2488,7 @@ Ktokolwiek wybiera się w podróż do jakiegoś miejsca, aby nauczać, niechaj w
 
 -- Abdu'l-Bahá
 
-bpn7326 «[Polski](../pl/prayers/#bpn7326)» 
+bpn7326 
 
 ----
 
@@ -2497,7 +2498,7 @@ Ktokolwiek podróżuje w różne strony, żeby nauczać, niechaj odmawia tę mod
 
 -- Abdu'l-Bahá
 
-bpn7327 «[Polski](../pl/prayers/#bpn7327)» 
+bpn7327 
 
 ----
 
@@ -2507,7 +2508,7 @@ O Boże, mój Boże! Ty widzisz, jak głębokie ciemności ogarnęły wszystkie 
 
 -- Abdu'l-Bahá
 
-bpn7328 «[Polski](../pl/prayers/#bpn7328)» 
+bpn7328 
 
 ----
 
@@ -2517,7 +2518,7 @@ Nauczający i przyjaciele powinni codziennie czytać następującą modlitwę:  
 
 -- Abdu'l-Bahá
 
-bpn7329 «[Polski](../pl/prayers/#bpn7329)» 
+bpn7329 
 
 ----
 
@@ -2527,7 +2528,7 @@ Każdy, kto podróżuje poprzez miasta, wioski i osady (…) rozsiewając Boskie
 
 -- Abdu'l-Bahá
 
-bpn7330 «[Polski](../pl/prayers/#bpn7330)» 
+bpn7330 
 
 ----
 
@@ -2537,7 +2538,7 @@ Niechaj ci, którzy rozsiewają Boskie aromaty, recytują każdego ranka tę oto
 
 -- Abdu'l-Bahá
 
-bpn7331 «[Polski](../pl/prayers/#bpn7331)» 
+bpn7331 
 
 ----
 
@@ -2547,7 +2548,7 @@ Następującą modlitwę powinno się czytać (…) każdego dnia:   O Boże! O 
 
 -- Abdu'l-Bahá
 
-bpn7332 «[Polski](../pl/prayers/#bpn7332)» 
+bpn7332 
 
 ----
 
@@ -2557,7 +2558,7 @@ Chwała bądź Tobie, o Boże mój! Oto są Twoi słudzy, zwabieni wonią Twojej
 
 -- Abdu'l-Bahá
 
-bpn7333 «[Polski](../pl/prayers/#bpn7333)» 
+bpn7333 
 
 ----
 
@@ -2567,7 +2568,7 @@ Ci, którzy rozprzestrzeniają Boskie wonie, powinni recytować każdego ranka n
 
 -- Abdu'l-Bahá
 
-bpn7334 «[Polski](../pl/prayers/#bpn7334)» 
+bpn7334 
 
 ----
 
@@ -2581,7 +2582,7 @@ Kiedykolwiek wkraczacie do izby narad, odmawiajcie tę modlitwę z sercem tętni
 
 -- Abdu'l-Bahá
 
-bpn7476 «[Polski](../pl/prayers/#bpn7476)» 
+bpn7476 
 
 ----
 
@@ -2591,7 +2592,7 @@ Zgromadźcie się w niezmąconej radości i na początku każdego zebrania odmó
 
 -- Abdu'l-Bahá
 
-bpn7477 «[Polski](../pl/prayers/#bpn7477)» 
+bpn7477 
 
 ----
 
@@ -2601,7 +2602,7 @@ Modlitwę tę należy odmawiać na zakończenie zebrania Zgromadzenia Duchowego.
 
 -- Abdu'l-Bahá
 
-bpn7478 «[Polski](../pl/prayers/#bpn7478)» 
+bpn7478 
 
 ----
 
@@ -2615,7 +2616,7 @@ Ty widzisz, o mój Boże, jak Twoi umiłowani osaczeni są przez zbuntowanych po
 
 -- Bahá'u'lláh
 
-bpn7455 «[Polski](../pl/prayers/#bpn7455)» 
+bpn7455 
 
 ----
 
@@ -2625,7 +2626,7 @@ Nie pozwól, o Boże, mój Boże, abym pozostawał z dala od niebios Twoich dar�
 
 -- Bahá'u'lláh
 
-bpn7456 «[Polski](../pl/prayers/#bpn7456)» 
+bpn7456 
 
 ----
 
@@ -2635,7 +2636,7 @@ Chwała bądź Tobie, o Panie, o Ty, któryś mocą swego rozkazu powołał do �
 
 -- Báb
 
-bpn7457 «[Polski](../pl/prayers/#bpn7457)» 
+bpn7457 
 
 ----
 
@@ -2645,7 +2646,7 @@ O Panie! Zapewnij szybkie wzrastanie Drzewa Twojej Boskiej Jedności; podlewaj j
 
 -- Báb
 
-bpn7458 «[Polski](../pl/prayers/#bpn7458)» 
+bpn7458 
 
 ----
 
@@ -2655,7 +2656,7 @@ O Panie! Uczyń zwycięskimi swoich cierpliwych służebników w dniach Twoich, 
 
 -- Báb
 
-bpn7459 «[Polski](../pl/prayers/#bpn7459)» 
+bpn7459 
 
 ----
 
@@ -2665,7 +2666,7 @@ O Panie! Pozwól wszystkim ludziom na ziemi osiągnąć wstęp do Raju Twojej Wi
 
 -- Báb
 
-bpn7460 «[Polski](../pl/prayers/#bpn7460)» 
+bpn7460 
 
 ----
 
@@ -2675,7 +2676,7 @@ O Boże, mój Boże! Chwała bądź Tobie za to, żeś rozniecił ogień Boskiej
 
 -- Abdu'l-Bahá
 
-bpn7461 «[Polski](../pl/prayers/#bpn7461)» 
+bpn7461 
 
 ----
 
@@ -2685,7 +2686,7 @@ On jest Bogiem!    O Panie, mój Boże, mój Umiłowany! Oto są Twoi słudzy, k
 
 -- Abdu'l-Bahá
 
-bpn7462 «[Polski](../pl/prayers/#bpn7462)» 
+bpn7462 
 
 ----
 
@@ -2699,7 +2700,7 @@ bpn7462 «[Polski](../pl/prayers/#bpn7462)»
 
 -- Bahá'u'lláh
 
-bpn7268 «[Polski](../pl/prayers/#bpn7268)» 
+bpn7268 
 
 ----
 
@@ -2713,7 +2714,7 @@ O Boże! Rozprosz wszelkie przyczyny niezgody a przygotuj dla nas to, co wiedzie
 
 -- Abdu'l-Bahá
 
-bpn7407 «[Polski](../pl/prayers/#bpn7407)» 
+bpn7407 
 
 ----
 
@@ -2727,7 +2728,7 @@ bpn7407 «[Polski](../pl/prayers/#bpn7407)»
 
 -- Bahá'u'lláh
 
-bpn7464 «[Polski](../pl/prayers/#bpn7464)» 
+bpn7464 
 
 ----
 
@@ -2737,7 +2738,7 @@ Pochwalony bądź, o mój współczujący Panie! Błagam Cię na tumult oceanu T
 
 -- Bahá'u'lláh
 
-bpn7465 «[Polski](../pl/prayers/#bpn7465)» 
+bpn7465 
 
 ----
 

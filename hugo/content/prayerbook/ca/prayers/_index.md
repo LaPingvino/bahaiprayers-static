@@ -5,6 +5,7 @@ tags = ['lang=ca', 'prayerbook']
 
 
 
+
 [Agraïment](#Agra%C3%AFment)
 
 [Ajuda](#Ajuda)
@@ -93,7 +94,7 @@ Lloat siguis, oh Senyor Déu meu! Cada vegada que intento fer esment de Tu, m’
 
 -- Bahá'u'lláh
 
-bpn5783 «[Català](../ca/prayers/#bpn5783)» 
+bpn5783 
 
 ----
 
@@ -103,7 +104,7 @@ En el Nom de Déu, l’Altissim! Lloat i Glorificat ets Tu, Senyor Déu Omnipote
 
 -- Bahá'u'lláh
 
-bpn5784 «[Català](../ca/prayers/#bpn5784)» 
+bpn5784 
 
 ----
 
@@ -113,7 +114,7 @@ Glorificat siguis Tu, oh Déu meu Senyor! Et dono gràcies per haver-me permès 
 
 -- Bahá'u'lláh
 
-bpn5785 «[Català](../ca/prayers/#bpn5785)» 
+bpn5785 
 
 ----
 
@@ -123,7 +124,7 @@ Déu meu, el meu Adorat el meu Rei, el meu desig! Quina llengua pot expressar el
 
 -- Bahá'u'lláh
 
-bpn5792 «[Català](../ca/prayers/#bpn5792)» 
+bpn5792 
 
 ----
 
@@ -133,7 +134,7 @@ Tota majestat i glòria, oh Déu meu, i tot domini, llum, grandesa i esplendor s
 
 -- Báb
 
-bpn5786 «[Català](../ca/prayers/#bpn5786)» 
+bpn5786 
 
 ----
 
@@ -143,7 +144,7 @@ Oh estimat de la meva ànima i del meu cor! No tinc empara sinó Tu A l’alba n
 
 -- Abdu'l-Bahá
 
-bpn5793 «[Català](../ca/prayers/#bpn5793)» 
+bpn5793 
 
 ----
 
@@ -157,7 +158,7 @@ Oh Tu, El rostre del Qual és l’objecte de la meva adoració, de Qui la belles
 
 -- Bahá'u'lláh
 
-bpn5787 «[Català](../ca/prayers/#bpn5787)» 
+bpn5787 
 
 ----
 
@@ -167,7 +168,7 @@ Lloat sigui el Teu Nom, oh Senyor nostre Déu! Tu ets, en veritat el Coneixedor 
 
 -- Báb
 
-bpn5788 «[Català](../ca/prayers/#bpn5788)» 
+bpn5788 
 
 ----
 
@@ -177,7 +178,7 @@ Oh Tu bondadós senyor! Som serfs del Teu Llindar, que ens hem posat a l’empar
 
 -- Abdu'l-Bahá
 
-bpn5789 «[Català](../ca/prayers/#bpn5789)» 
+bpn5789 
 
 ----
 
@@ -187,7 +188,7 @@ Senyor! Dignes de llàstima som, concedeix-nos, el teu favor; pobres som; conced
 
 -- Abdu'l-Bahá
 
-bpn5790 «[Català](../ca/prayers/#bpn5790)» 
+bpn5790 
 
 ----
 
@@ -197,7 +198,7 @@ No desparis oh Senyor, la taula festiva què ha estat parada en el Teu Nom, ni a
 
 -- Abdu'l-Bahá
 
-bpn5791 «[Català](../ca/prayers/#bpn5791)» 
+bpn5791 
 
 ----
 
@@ -211,7 +212,7 @@ bpn5791 «[Català](../ca/prayers/#bpn5791)»
 
 -- Abdu'l-Bahá
 
-bpn5780 «[Català](../ca/prayers/#bpn5780)» 
+bpn5780 
 
 ----
 
@@ -221,7 +222,7 @@ Oració per a ser recitada en acabar la reunió de l’Assemblea Espiritual.Oh D
 
 -- Abdu'l-Bahá
 
-bpn5781 «[Català](../ca/prayers/#bpn5781)» 
+bpn5781 
 
 ----
 
@@ -231,7 +232,7 @@ Reuniu-vos amb alegria sens màcula, i reciteu aquesta oració al principi de la
 
 -- Abdu'l-Bahá
 
-bpn5782 «[Català](../ca/prayers/#bpn5782)» 
+bpn5782 
 
 ----
 
@@ -245,7 +246,7 @@ bpn5782 «[Català](../ca/prayers/#bpn5782)»
 
 -- Abdu'l-Bahá
 
-bpn5832 «[Català](../ca/prayers/#bpn5832)» 
+bpn5832 
 
 ----
 
@@ -255,7 +256,7 @@ Qualsevol què emprengui un viatge d’ensenyança a qualsevol lloc, que reciti 
 
 -- Abdu'l-Bahá
 
-bpn5833 «[Català](../ca/prayers/#bpn5833)» 
+bpn5833 
 
 ----
 
@@ -265,7 +266,7 @@ Qualsevol qui viatgi per diferents llocs per ensenyar, que llegeixi amb atenció
 
 -- Abdu'l-Bahá
 
-bpn5834 «[Català](../ca/prayers/#bpn5834)» 
+bpn5834 
 
 ----
 
@@ -275,7 +276,7 @@ Oh Déu, Déu meu! Tu veus com la negra foscor envolta a totes les regions, com 
 
 -- Abdu'l-Bahá
 
-bpn5835 «[Català](../ca/prayers/#bpn5835)» 
+bpn5835 
 
 ----
 
@@ -285,7 +286,7 @@ bpn5835 «[Català](../ca/prayers/#bpn5835)»
 
 -- Abdu'l-Bahá
 
-bpn5836 «[Català](../ca/prayers/#bpn5836)» 
+bpn5836 
 
 ----
 
@@ -295,7 +296,7 @@ bpn5836 «[Català](../ca/prayers/#bpn5836)»
 
 -- Abdu'l-Bahá
 
-bpn5837 «[Català](../ca/prayers/#bpn5837)» 
+bpn5837 
 
 ----
 
@@ -305,7 +306,7 @@ bpn5837 «[Català](../ca/prayers/#bpn5837)»
 
 -- Abdu'l-Bahá
 
-bpn5838 «[Català](../ca/prayers/#bpn5838)» 
+bpn5838 
 
 ----
 
@@ -315,7 +316,7 @@ bpn5838 «[Català](../ca/prayers/#bpn5838)»
 
 -- Abdu'l-Bahá
 
-bpn5839 «[Català](../ca/prayers/#bpn5839)» 
+bpn5839 
 
 ----
 
@@ -325,7 +326,7 @@ bpn5839 «[Català](../ca/prayers/#bpn5839)»
 
 -- Abdu'l-Bahá
 
-bpn5840 «[Català](../ca/prayers/#bpn5840)» 
+bpn5840 
 
 ----
 
@@ -335,7 +336,7 @@ Els qui difonguin les fragàncies de Déu han de recitar aquesta oració cada ma
 
 -- Abdu'l-Bahá
 
-bpn5841 «[Català](../ca/prayers/#bpn5841)» 
+bpn5841 
 
 ----
 
@@ -349,7 +350,7 @@ bpn5841 «[Català](../ca/prayers/#bpn5841)»
 
 -- Bahá'u'lláh
 
-bpn5772 «[Català](../ca/prayers/#bpn5772)» 
+bpn5772 
 
 ----
 
@@ -359,7 +360,7 @@ Lloances a Tu, oh Senyor Déu meu! Hem observat el dejuni de conformitat amb el 
 
 -- Bahá'u'lláh
 
-bpn5773 «[Català](../ca/prayers/#bpn5773)» 
+bpn5773 
 
 ----
 
@@ -369,7 +370,7 @@ Lloat siguis, oh Déu meu! Aquests són els dies en què has ordenat als Teus el
 
 -- Bahá'u'lláh
 
-bpn5774 «[Català](../ca/prayers/#bpn5774)» 
+bpn5774 
 
 ----
 
@@ -379,7 +380,7 @@ Lloat siguis, oh Senyor, Déu meu! T’imploro per aquesta Revelació, mitjança
 
 -- Bahá'u'lláh
 
-bpn5775 «[Català](../ca/prayers/#bpn5775)» 
+bpn5775 
 
 ----
 
@@ -389,7 +390,7 @@ En el Nom del Qui ha estat promès als Llibres de Déu, l’Omniscient, l’Info
 
 -- Bahá'u'lláh
 
-bpn5776 «[Català](../ca/prayers/#bpn5776)» 
+bpn5776 
 
 ----
 
@@ -399,7 +400,7 @@ Glòria sigui a Tu, oh Senyor Deu meu! Aquests són els dies en què Tu has orde
 
 -- Bahá'u'lláh
 
-bpn5777 «[Català](../ca/prayers/#bpn5777)» 
+bpn5777 
 
 ----
 
@@ -409,7 +410,7 @@ Aquests són, oh Déu meu, els dies en què Tu vas ordenar als Teus serfs observ
 
 -- Bahá'u'lláh
 
-bpn5778 «[Català](../ca/prayers/#bpn5778)» 
+bpn5778 
 
 ----
 
@@ -419,7 +420,7 @@ T’imploro, oh Déu meu, pel Teu poderós signe i per la revelació de la Teva 
 
 -- Bahá'u'lláh
 
-bpn5779 «[Català](../ca/prayers/#bpn5779)» 
+bpn5779 
 
 ----
 
@@ -433,7 +434,7 @@ Lloat sigui el teu Nom, oh Déu meu! T’imploro per les fragàncies de la vesti
 
 -- Bahá'u'lláh
 
-bpn5794 «[Català](../ca/prayers/#bpn5794)» 
+bpn5794 
 
 ----
 
@@ -443,7 +444,7 @@ Glorificat siguis Tu, oh Déu meu! Et dono gràcies per haver-me fet conèixer a
 
 -- Bahá'u'lláh
 
-bpn5795 «[Català](../ca/prayers/#bpn5795)» 
+bpn5795 
 
 ----
 
@@ -453,7 +454,7 @@ Molts cors erts, oh Déu meu, s’han encès amb el foc de la teva Causa i molts
 
 -- Bahá'u'lláh
 
-bpn5796 «[Català](../ca/prayers/#bpn5796)» 
+bpn5796 
 
 ----
 
@@ -463,7 +464,7 @@ No se, oh Déu meu, quin foc és el que encengueres en el teu domini. La terra n
 
 -- Bahá'u'lláh
 
-bpn5797 «[Català](../ca/prayers/#bpn5797)» 
+bpn5797 
 
 ----
 
@@ -473,7 +474,7 @@ Jo t’imploro oh Senyor meu pel Teu Nom, els resplendors del qual han circumdat
 
 -- Bahá'u'lláh
 
-bpn5798 «[Català](../ca/prayers/#bpn5798)» 
+bpn5798 
 
 ----
 
@@ -483,7 +484,7 @@ bpn5798 «[Català](../ca/prayers/#bpn5798)»
 
 -- Bahá'u'lláh
 
-bpn5803 «[Català](../ca/prayers/#bpn5803)» 
+bpn5803 
 
 ----
 
@@ -493,7 +494,7 @@ En nom del Teu Senyor, el Creador, el Sobirà, el que a Tot és Suficient, el M�
 
 -- Báb
 
-bpn5799 «[Català](../ca/prayers/#bpn5799)» 
+bpn5799 
 
 ----
 
@@ -503,7 +504,7 @@ bpn5799 «[Català](../ca/prayers/#bpn5799)»
 
 -- Báb
 
-bpn5802 «[Català](../ca/prayers/#bpn5802)» 
+bpn5802 
 
 ----
 
@@ -513,7 +514,7 @@ Oh Déu, Déu meu! Tu ets la meva esperança i el meu Benamat, el meu més eleva
 
 -- Abdu'l-Bahá
 
-bpn5800 «[Català](../ca/prayers/#bpn5800)» 
+bpn5800 
 
 ----
 
@@ -523,7 +524,7 @@ Oh Déu, Déu meu! Omple’m la copa del despreniment de totes les coses i alegr
 
 -- Abdu'l-Bahá
 
-bpn5801 «[Català](../ca/prayers/#bpn5801)» 
+bpn5801 
 
 ----
 
@@ -537,7 +538,7 @@ bpn5801 «[Català](../ca/prayers/#bpn5801)»
 
 -- Bahá'u'lláh
 
-bpn5771 «[Català](../ca/prayers/#bpn5771)» 
+bpn5771 
 
 ----
 
@@ -551,7 +552,7 @@ Ell és Déu! Exaltat sigui Ell, Senyor d’amorosa bondat i generositat!Glòria
 
 -- Bahá'u'lláh
 
-bpn5804 «[Català](../ca/prayers/#bpn5804)» 
+bpn5804 
 
 ----
 
@@ -561,7 +562,7 @@ Glòria sigui a Tu, oh Senyor Déu meu! No humiliïs  als qui Tu has exaltat mit
 
 -- Bahá'u'lláh
 
-bpn5805 «[Català](../ca/prayers/#bpn5805)» 
+bpn5805 
 
 ----
 
@@ -571,7 +572,7 @@ bpn5805 «[Català](../ca/prayers/#bpn5805)»
 
 -- Bahá'u'lláh
 
-bpn5812 «[Català](../ca/prayers/#bpn5812)» 
+bpn5812 
 
 ----
 
@@ -581,7 +582,7 @@ Oh Déu meu! Oh Déu meu! Veritablement, el Teu serf, humil davant la majestat d
 
 -- Abdu'l-Bahá
 
-bpn5806 «[Català](../ca/prayers/#bpn5806)» 
+bpn5806 
 
 ----
 
@@ -591,7 +592,7 @@ Oh, Déu meu! Oh Tu, perdonador dels pecats! El qui confereix els dons, i El qui
 
 -- Abdu'l-Bahá
 
-bpn5807 «[Català](../ca/prayers/#bpn5807)» 
+bpn5807 
 
 ----
 
@@ -601,7 +602,7 @@ Oh Tu, Senyor perdonador! Encara que algunes ànimes han passat els dies de la s
 
 -- Abdu'l-Bahá
 
-bpn5808 «[Català](../ca/prayers/#bpn5808)» 
+bpn5808 
 
 ----
 
@@ -611,7 +612,7 @@ bpn5808 «[Català](../ca/prayers/#bpn5808)»
 
 -- Abdu'l-Bahá
 
-bpn5809 «[Català](../ca/prayers/#bpn5809)» 
+bpn5809 
 
 ----
 
@@ -621,7 +622,7 @@ Oh Senyor, la misericòrdia del Qual ha envoltat a tots, la indulgència del Qua
 
 -- Abdu'l-Bahá
 
-bpn5810 «[Català](../ca/prayers/#bpn5810)» 
+bpn5810 
 
 ----
 
@@ -631,7 +632,7 @@ Oh amable Senyor! Aquesta estimadíssima serva fou atreta cap a Tu, i per reflex
 
 -- Abdu'l-Bahá
 
-bpn5811 «[Català](../ca/prayers/#bpn5811)» 
+bpn5811 
 
 ----
 
@@ -645,7 +646,7 @@ bpn5811 «[Català](../ca/prayers/#bpn5811)»
 
 -- Bahá'u'lláh
 
-bpn5813 «[Català](../ca/prayers/#bpn5813)» 
+bpn5813 
 
 ----
 
@@ -655,7 +656,7 @@ Glòria sia a Tu, oh Déu meu! El meu rostre s’ha dirigit cap al Teu rostre, i
 
 -- Bahá'u'lláh
 
-bpn5814 «[Català](../ca/prayers/#bpn5814)» 
+bpn5814 
 
 ----
 
@@ -665,7 +666,7 @@ Glorificat ets Tu, oh Senyor Déu meu! Tu ets Aquell, el foc de l’amor del Qua
 
 -- Bahá'u'lláh
 
-bpn5815 «[Català](../ca/prayers/#bpn5815)» 
+bpn5815 
 
 ----
 
@@ -675,7 +676,7 @@ Magnificat sigui el Teu nom, oh Senyor Déu meu! Vet ací el meu ull expectant p
 
 -- Bahá'u'lláh
 
-bpn5816 «[Català](../ca/prayers/#bpn5816)» 
+bpn5816 
 
 ----
 
@@ -685,7 +686,7 @@ Oh Tu, davant la terrible majestat del Qual totes les coses s’han estremit, en
 
 -- Bahá'u'lláh
 
-bpn5817 «[Català](../ca/prayers/#bpn5817)» 
+bpn5817 
 
 ----
 
@@ -695,7 +696,7 @@ Glòria a Tu, oh Déu meu! Una de les Teves serves, què ha cregut en Tu i en el
 
 -- Bahá'u'lláh
 
-bpn5818 «[Català](../ca/prayers/#bpn5818)» 
+bpn5818 
 
 ----
 
@@ -705,7 +706,7 @@ Tu veus, oh Déu meu, com els mals comesos per aquelles de les Teves criatures q
 
 -- Bahá'u'lláh
 
-bpn5819 «[Català](../ca/prayers/#bpn5819)» 
+bpn5819 
 
 ----
 
@@ -715,7 +716,7 @@ Oh Senyor meu, el meu Estimat, el meu Desig! Sigues el meu amic en la soledat i 
 
 -- Abdu'l-Bahá
 
-bpn5820 «[Català](../ca/prayers/#bpn5820)» 
+bpn5820 
 
 ----
 
@@ -725,7 +726,7 @@ bpn5820 «[Català](../ca/prayers/#bpn5820)»
 
 -- Abdu'l-Bahá
 
-bpn5821 «[Català](../ca/prayers/#bpn5821)» 
+bpn5821 
 
 ----
 
@@ -735,7 +736,7 @@ bpn5821 «[Català](../ca/prayers/#bpn5821)»
 
 -- Abdu'l-Bahá
 
-bpn5822 «[Català](../ca/prayers/#bpn5822)» 
+bpn5822 
 
 ----
 
@@ -749,7 +750,7 @@ Tu saps, oh Déu, i ets el  meu testimoni de que no alimento cap desig al meu co
 
 -- Abdu'l-Bahá
 
-bpn5828 «[Català](../ca/prayers/#bpn5828)» 
+bpn5828 
 
 ----
 
@@ -759,7 +760,7 @@ Oh Déu,Déu meu! Ajuda als Teus serfs lleials a tenir cors afectuosos i sensibl
 
 -- Abdu'l-Bahá
 
-bpn5829 «[Català](../ca/prayers/#bpn5829)» 
+bpn5829 
 
 ----
 
@@ -769,7 +770,7 @@ Oh Déu meu, ajuda al Teu serf a exaltar la Paraula i a refutar el què és va i
 
 -- Abdu'l-Bahá
 
-bpn5830 «[Català](../ca/prayers/#bpn5830)» 
+bpn5830 
 
 ----
 
@@ -779,7 +780,7 @@ Tu em veus, oh Déu meu, postrat en submissió, humiliant-me davant els Teus man
 
 -- Abdu'l-Bahá
 
-bpn5831 «[Català](../ca/prayers/#bpn5831)» 
+bpn5831 
 
 ----
 
@@ -793,7 +794,7 @@ Glòria sia a Tu, Oh Senyor Déu meu! Jo Et suplico que em perdonis a mi i a aqu
 
 -- Báb
 
-bpn5842 «[Català](../ca/prayers/#bpn5842)» 
+bpn5842 
 
 ----
 
@@ -803,7 +804,7 @@ Suplico la Teva misericòrdia, oh Déu meu, i imploro perdó segons la manera en
 
 -- Báb
 
-bpn5843 «[Català](../ca/prayers/#bpn5843)» 
+bpn5843 
 
 ----
 
@@ -813,7 +814,7 @@ bpn5843 «[Català](../ca/prayers/#bpn5843)»
 
 -- Abdu'l-Bahá
 
-bpn5844 «[Català](../ca/prayers/#bpn5844)» 
+bpn5844 
 
 ----
 
@@ -827,7 +828,7 @@ Oh Déu, Déu meu! M’he girat penedit cap a Tu i veritablement Tu ets el Perdo
 
 -- Bahá'u'lláh
 
-bpn5845 «[Català](../ca/prayers/#bpn5845)» 
+bpn5845 
 
 ----
 
@@ -837,7 +838,7 @@ Glorificat sia el Teu Nom, oh Senyor Déu meu! Jo et suplico pel Teu Poder que h
 
 -- Bahá'u'lláh
 
-bpn5846 «[Català](../ca/prayers/#bpn5846)» 
+bpn5846 
 
 ----
 
@@ -847,7 +848,7 @@ Glorificat siguis Tu, oh Senyor Déu meu! T’imploro, per Aquell qui és el Teu
 
 -- Bahá'u'lláh
 
-bpn5847 «[Català](../ca/prayers/#bpn5847)» 
+bpn5847 
 
 ----
 
@@ -857,7 +858,7 @@ Oh tu la proximitat del Qual és el meu desig, la presència del Qual és la mev
 
 -- Bahá'u'lláh
 
-bpn5848 «[Català](../ca/prayers/#bpn5848)» 
+bpn5848 
 
 ----
 
@@ -867,7 +868,7 @@ Magnifico  el Teu Nom, oh Déu meu, i Et dono gràcies, oh Desig meu, per quant 
 
 -- Bahá'u'lláh
 
-bpn5849 «[Català](../ca/prayers/#bpn5849)» 
+bpn5849 
 
 ----
 
@@ -877,7 +878,7 @@ bpn5849 «[Català](../ca/prayers/#bpn5849)»
 
 -- Bahá'u'lláh
 
-bpn5854 «[Català](../ca/prayers/#bpn5854)» 
+bpn5854 
 
 ----
 
@@ -887,7 +888,7 @@ Glòria a Tu, oh Rei de l’eternitat, Faedor de nacions i Modelador de cada os 
 
 -- Bahá'u'lláh
 
-bpn5855 «[Català](../ca/prayers/#bpn5855)» 
+bpn5855 
 
 ----
 
@@ -897,7 +898,7 @@ Lloat i glorificat ets Tu, oh Déu! Permet que el dia de l’arribada a la Teva 
 
 -- Báb
 
-bpn5850 «[Català](../ca/prayers/#bpn5850)» 
+bpn5850 
 
 ----
 
@@ -907,7 +908,7 @@ Lloances Et siguin dades, oh Senyor, el meu benamat! Fes-me ferm en la Teva Caus
 
 -- Báb
 
-bpn5851 «[Català](../ca/prayers/#bpn5851)» 
+bpn5851 
 
 ----
 
@@ -917,7 +918,7 @@ Oh Senyor Déu meu! Ajuda els Teus estimats a ser ferms en la Teva Fe, a caminar
 
 -- Abdu'l-Bahá
 
-bpn5852 «[Català](../ca/prayers/#bpn5852)» 
+bpn5852 
 
 ----
 
@@ -927,7 +928,7 @@ Oh Tu, Déu meu, què guies al buscador cap el camí què condueix rectament, qu
 
 -- Abdu'l-Bahá
 
-bpn5853 «[Català](../ca/prayers/#bpn5853)» 
+bpn5853 
 
 ----
 
@@ -937,7 +938,7 @@ Oh Déu compassiu! Et dono gràcies per haver-me despertat i fet conscient. Tu m
 
 -- Abdu'l-Bahá
 
-bpn5856 «[Català](../ca/prayers/#bpn5856)» 
+bpn5856 
 
 ----
 
@@ -947,7 +948,7 @@ Oh Senyor i la meva esperança! Ajuda els Teus estimats a ser ferms en la Teva p
 
 -- Abdu'l-Bahá
 
-bpn5857 «[Català](../ca/prayers/#bpn5857)» 
+bpn5857 
 
 ----
 
@@ -957,7 +958,7 @@ Fes ferms les nostres passes, oh Senyor, al Teu camí i enforteix els nostres co
 
 -- Abdu'l-Bahá
 
-bpn5858 «[Català](../ca/prayers/#bpn5858)» 
+bpn5858 
 
 ----
 
@@ -971,7 +972,7 @@ bpn5858 «[Català](../ca/prayers/#bpn5858)»
 
 -- Abdu'l-Bahá
 
-bpn5859 «[Català](../ca/prayers/#bpn5859)» 
+bpn5859 
 
 ----
 
@@ -985,7 +986,7 @@ Lloat siguis Tu, oh Senyor Déu meu! T’imploro pel teu Nom Més Gran, pel qual
 
 -- Bahá'u'lláh
 
-bpn5860 «[Català](../ca/prayers/#bpn5860)» 
+bpn5860 
 
 ----
 
@@ -995,7 +996,7 @@ Glòria sigui a Tu, oh Senyor Déu meu! T’imploro pel teu Nom, mitjançant el 
 
 -- Bahá'u'lláh
 
-bpn5861 «[Català](../ca/prayers/#bpn5861)» 
+bpn5861 
 
 ----
 
@@ -1005,7 +1006,7 @@ Oh Déu, Déu meu! Jo et demano per l’oceà del Teu guariment, pels esplendors
 
 -- Bahá'u'lláh
 
-bpn5862 «[Català](../ca/prayers/#bpn5862)» 
+bpn5862 
 
 ----
 
@@ -1015,7 +1016,7 @@ El Teu  nom és el meu guariment, oh Déu meu, i el record de Tu és la meva esp
 
 -- Bahá'u'lláh
 
-bpn5863 «[Català](../ca/prayers/#bpn5863)» 
+bpn5863 
 
 ----
 
@@ -1025,7 +1026,7 @@ bpn5863 «[Català](../ca/prayers/#bpn5863)»
 
 -- Bahá'u'lláh
 
-bpn5864 «[Català](../ca/prayers/#bpn5864)» 
+bpn5864 
 
 ----
 
@@ -1035,7 +1036,7 @@ bpn5864 «[Català](../ca/prayers/#bpn5864)»
 
 -- Bahá'u'lláh
 
-bpn5865 «[Català](../ca/prayers/#bpn5865)» 
+bpn5865 
 
 ----
 
@@ -1045,7 +1046,7 @@ bpn5865 «[Català](../ca/prayers/#bpn5865)»
 
 -- Bahá'u'lláh
 
-bpn5866 «[Català](../ca/prayers/#bpn5866)» 
+bpn5866 
 
 ----
 
@@ -1059,7 +1060,7 @@ Déu meu, a qui venero i adoro! Soc testimoni de la Teva unitat i de la Teva uni
 
 -- Bahá'u'lláh
 
-bpn5867 «[Català](../ca/prayers/#bpn5867)» 
+bpn5867 
 
 ----
 
@@ -1069,7 +1070,7 @@ Oh Tu bondadós Senyor! Oh Tu què ets generós i misericordiós! Som els Teus s
 
 -- Abdu'l-Bahá
 
-bpn5868 «[Català](../ca/prayers/#bpn5868)» 
+bpn5868 
 
 ----
 
@@ -1079,7 +1080,7 @@ Oh Tu Senyor compassiu, Tu què ets generós i capaç! Som serfs Teus al redós 
 
 -- Abdu'l-Bahá
 
-bpn5869 «[Català](../ca/prayers/#bpn5869)» 
+bpn5869 
 
 ----
 
@@ -1089,7 +1090,7 @@ Oh Tu bondadós Senyor! Tu has creat tota la humanitat d’un mateix llinatge. T
 
 -- Abdu'l-Bahá
 
-bpn5870 «[Català](../ca/prayers/#bpn5870)» 
+bpn5870 
 
 ----
 
@@ -1099,7 +1100,7 @@ Oh Déu, Oh Tu què has vessat el Teu esplendor sobre les realitats lluminoses d
 
 -- Abdu'l-Bahá
 
-bpn5871 «[Català](../ca/prayers/#bpn5871)» 
+bpn5871 
 
 ----
 
@@ -1113,7 +1114,7 @@ bpn5871 «[Català](../ca/prayers/#bpn5871)»
 
 -- Bahá'u'lláh
 
-bpn5768 «[Català](../ca/prayers/#bpn5768)» 
+bpn5768 
 
 ----
 
@@ -1123,7 +1124,7 @@ Magnificat ets Tu, oh Senyor de tota la creació, Aquell a Qui tot ha de tornar-
 
 -- Bahá'u'lláh
 
-bpn5769 «[Català](../ca/prayers/#bpn5769)» 
+bpn5769 
 
 ----
 
@@ -1133,7 +1134,7 @@ Glorificat ets, oh Senyor meu compassiu! Et suplico, per l’agitació de l’oc
 
 -- Bahá'u'lláh
 
-bpn5770 «[Català](../ca/prayers/#bpn5770)» 
+bpn5770 
 
 ----
 
@@ -1143,7 +1144,7 @@ Lloat siguis, oh Senyor Déu meu! T’imploro pel Teu Nom, que ningú ha reconeg
 
 -- Bahá'u'lláh
 
-bpn5823 «[Català](../ca/prayers/#bpn5823)» 
+bpn5823 
 
 ----
 
@@ -1153,7 +1154,7 @@ Oh Déu Tu ets l’Autor de totes les Manifestacions, l’Origen de tots els Or�
 
 -- Bahá'u'lláh
 
-bpn5824 «[Català](../ca/prayers/#bpn5824)» 
+bpn5824 
 
 ----
 
@@ -1163,7 +1164,7 @@ Glòria a Tu, oh Senyor del món i Desig de les nacions, oh Tu què T’has fet 
 
 -- Bahá'u'lláh
 
-bpn5825 «[Català](../ca/prayers/#bpn5825)» 
+bpn5825 
 
 ----
 
@@ -1173,7 +1174,7 @@ Magnificat sigui el teu nom, oh Déu meu, per quant has manifestat el Dia que é
 
 -- Bahá'u'lláh
 
-bpn5826 «[Català](../ca/prayers/#bpn5826)» 
+bpn5826 
 
 ----
 
@@ -1183,7 +1184,7 @@ Digués: Magnificat sigui el Teu Nom, oh Senyor Déu meu! Et prego pel Teu Nom, 
 
 -- Bahá'u'lláh
 
-bpn5827 «[Català](../ca/prayers/#bpn5827)» 
+bpn5827 
 
 ----
 
@@ -1197,7 +1198,7 @@ La lloança sia per Tu, oh Déu meu! Soc un dels Teus serfs què han cregut en T
 
 -- Bahá'u'lláh
 
-bpn5872 «[Català](../ca/prayers/#bpn5872)» 
+bpn5872 
 
 ----
 
@@ -1207,7 +1208,7 @@ bpn5872 «[Català](../ca/prayers/#bpn5872)»
 
 -- Bahá'u'lláh
 
-bpn5873 «[Català](../ca/prayers/#bpn5873)» 
+bpn5873 
 
 ----
 
@@ -1221,7 +1222,7 @@ Oh Senyor, Déu meu! Aquest és un nen què ha nascut del ventre d’una de les 
 
 -- Bahá'u'lláh
 
-bpn5874 «[Català](../ca/prayers/#bpn5874)» 
+bpn5874 
 
 ----
 
@@ -1231,7 +1232,7 @@ bpn5874 «[Català](../ca/prayers/#bpn5874)»
 
 -- Bahá'u'lláh
 
-bpn5888 «[Català](../ca/prayers/#bpn5888)» 
+bpn5888 
 
 ----
 
@@ -1241,7 +1242,7 @@ Oh Déu meu! Tu veus aquests nens què són els rebrots de l’arbre de la vida,
 
 -- Abdu'l-Bahá
 
-bpn5875 «[Català](../ca/prayers/#bpn5875)» 
+bpn5875 
 
 ----
 
@@ -1251,7 +1252,7 @@ Oh Senyor! Sóc un infant; permet que creixi a l’ombra de la Teva bondat. Sóc
 
 -- Abdu'l-Bahá
 
-bpn5876 «[Català](../ca/prayers/#bpn5876)» 
+bpn5876 
 
 ----
 
@@ -1261,7 +1262,7 @@ Oh Tu gloriosíssim Senyor! Beneeix i fes feliç a aquesta petita serva Teva; fe
 
 -- Abdu'l-Bahá
 
-bpn5877 «[Català](../ca/prayers/#bpn5877)» 
+bpn5877 
 
 ----
 
@@ -1271,7 +1272,7 @@ Ell és Déu! Oh Déu, Déu meu! Concedeix-me un cor pur, com una perla.Oh Déu!
 
 -- Abdu'l-Bahá
 
-bpn5878 «[Català](../ca/prayers/#bpn5878)» 
+bpn5878 
 
 ----
 
@@ -1281,7 +1282,7 @@ Oh Déu! Guiem, protegeix-me, fes de mi una llàntia brillant i una estrella res
 
 -- Abdu'l-Bahá
 
-bpn5879 «[Català](../ca/prayers/#bpn5879)» 
+bpn5879 
 
 ----
 
@@ -1291,7 +1292,7 @@ Oh Senyor meu! Oh Senyor meu! Sóc un nen de tendra edat. Nodreix-me del pit de 
 
 -- Abdu'l-Bahá
 
-bpn5880 «[Català](../ca/prayers/#bpn5880)» 
+bpn5880 
 
 ----
 
@@ -1301,7 +1302,7 @@ Oh Senyor incomparable! Sigues Tu un refugi per aquest pobre infant, un Mestre b
 
 -- Abdu'l-Bahá
 
-bpn5881 «[Català](../ca/prayers/#bpn5881)» 
+bpn5881 
 
 ----
 
@@ -1311,7 +1312,7 @@ Oh Senyor! Fes d’aquests infants plantes excel·lents. Fes que creixin i es de
 
 -- Abdu'l-Bahá
 
-bpn5882 «[Català](../ca/prayers/#bpn5882)» 
+bpn5882 
 
 ----
 
@@ -1321,7 +1322,7 @@ Oh Tu, Déu bondadós! Aquests infants encantadors són obra dels dits del Teu p
 
 -- Abdu'l-Bahá
 
-bpn5883 «[Català](../ca/prayers/#bpn5883)» 
+bpn5883 
 
 ----
 
@@ -1331,7 +1332,7 @@ Oh Senyor! Sóc un infant; permet-me créixer a l’ombra de la Teva bondat. Só
 
 -- Abdu'l-Bahá
 
-bpn5884 «[Català](../ca/prayers/#bpn5884)» 
+bpn5884 
 
 ----
 
@@ -1341,7 +1342,7 @@ Oh gloriosíssim Senyor! Fes benaurada i feliç aquesta serva Teva; fes-la estim
 
 -- Abdu'l-Bahá
 
-bpn5885 «[Català](../ca/prayers/#bpn5885)» 
+bpn5885 
 
 ----
 
@@ -1351,7 +1352,7 @@ Oh Déu! Cria aquest infant petit al si del Teu amor i dóna-li llet del pit de 
 
 -- Abdu'l-Bahá
 
-bpn5886 «[Català](../ca/prayers/#bpn5886)» 
+bpn5886 
 
 ----
 
@@ -1361,7 +1362,7 @@ Oh Tu, Déu incomparable! Fes que aquest infant de pit es nodreixi de la sina de
 
 -- Abdu'l-Bahá
 
-bpn5887 «[Català](../ca/prayers/#bpn5887)» 
+bpn5887 
 
 ----
 
@@ -1375,7 +1376,7 @@ Oh Senyor fes que aquest jove sigui radiant i confereix la Teva gràcia a aquest
 
 -- Abdu'l-Bahá
 
-bpn5889 «[Català](../ca/prayers/#bpn5889)» 
+bpn5889 
 
 ----
 
@@ -1385,7 +1386,7 @@ Oh amable Senyor! A l’horitzó del despreniment has manifestat ànimes que, co
 
 -- Abdu'l-Bahá
 
-bpn5890 «[Català](../ca/prayers/#bpn5890)» 
+bpn5890 
 
 ----
 
@@ -1395,7 +1396,7 @@ Oh amable Senyor! Confereix per la Teva gràcia un parell d’ales celestials a 
 
 -- Abdu'l-Bahá
 
-bpn5891 «[Català](../ca/prayers/#bpn5891)» 
+bpn5891 
 
 ----
 
@@ -1405,7 +1406,7 @@ Oh amable Senyor! Atorga confirmació celestial a aquesta filla del regne, i aju
 
 -- Abdu'l-Bahá
 
-bpn5892 «[Català](../ca/prayers/#bpn5892)» 
+bpn5892 
 
 ----
 
@@ -1415,7 +1416,7 @@ Lloança i glòria siguin per Tu, ho Senyor, Déu meu! Aquest és un selecte arb
 
 -- Abdu'l-Bahá
 
-bpn5893 «[Català](../ca/prayers/#bpn5893)» 
+bpn5893 
 
 ----
 
@@ -1429,7 +1430,7 @@ bpn5893 «[Català](../ca/prayers/#bpn5893)»
 
 -- Bahá'u'lláh
 
-bpn5898 «[Català](../ca/prayers/#bpn5898)» 
+bpn5898 
 
 ----
 
@@ -1443,7 +1444,7 @@ He despertat sota la Teva empara, ho Déu meu, i correspon a qui cerca aquesta e
 
 -- Bahá'u'lláh
 
-bpn5894 «[Català](../ca/prayers/#bpn5894)» 
+bpn5894 
 
 ----
 
@@ -1453,7 +1454,7 @@ M’he llevat aquest matí per la Teva gràcia, oh Déu meu, i he deixat la meva
 
 -- Bahá'u'lláh
 
-bpn5895 «[Català](../ca/prayers/#bpn5895)» 
+bpn5895 
 
 ----
 
@@ -1463,7 +1464,7 @@ T’alabo, oh Déu meu, per haver-me despertat del meu somni, per haver-me expos
 
 -- Bahá'u'lláh
 
-bpn5896 «[Català](../ca/prayers/#bpn5896)» 
+bpn5896 
 
 ----
 
@@ -1473,7 +1474,7 @@ bpn5896 «[Català](../ca/prayers/#bpn5896)»
 
 -- Bahá'u'lláh
 
-bpn5897 «[Català](../ca/prayers/#bpn5897)» 
+bpn5897 
 
 ----
 
@@ -1487,7 +1488,7 @@ bpn5897 «[Català](../ca/prayers/#bpn5897)»
 
 -- Abdu'l-Bahá
 
-bpn5767 «[Català](../ca/prayers/#bpn5767)» 
+bpn5767 
 
 ----
 
@@ -1501,7 +1502,7 @@ bpn5767 «[Català](../ca/prayers/#bpn5767)»
 
 -- Bahá'u'lláh
 
-bpn5766 «[Català](../ca/prayers/#bpn5766)» 
+bpn5766 
 
 ----
 
@@ -1515,7 +1516,7 @@ Oh Déu meu, el meu Mestre, i l’Objecte del meu desig! Aquest serf Teu, desitj
 
 -- Bahá'u'lláh
 
-bpn5902 «[Català](../ca/prayers/#bpn5902)» 
+bpn5902 
 
 ----
 
@@ -1525,7 +1526,7 @@ bpn5902 «[Català](../ca/prayers/#bpn5902)»
 
 -- Bahá'u'lláh
 
-bpn5903 «[Català](../ca/prayers/#bpn5903)» 
+bpn5903 
 
 ----
 
@@ -1535,7 +1536,7 @@ Ell és Déu!Oh Senyor incomparable! En la Teva potent saviesa has ordenat el ma
 
 -- Abdu'l-Bahá
 
-bpn5899 «[Català](../ca/prayers/#bpn5899)» 
+bpn5899 
 
 ----
 
@@ -1545,7 +1546,7 @@ Glòria sigui a Tu, oh Déu meu! Veritablement, aquet serf Teu i aquesta serva T
 
 -- Abdu'l-Bahá
 
-bpn5900 «[Català](../ca/prayers/#bpn5900)» 
+bpn5900 
 
 ----
 
@@ -1555,7 +1556,7 @@ Oh Senyor meu, oh Senyor meu! Aquests dos astres brillants estan esposats en el 
 
 -- Abdu'l-Bahá
 
-bpn5901 «[Català](../ca/prayers/#bpn5901)» 
+bpn5901 
 
 ----
 
@@ -1565,7 +1566,7 @@ bpn5901 «[Català](../ca/prayers/#bpn5901)»
 
 -- Abdu'l-Bahá
 
-bpn5904 «[Català](../ca/prayers/#bpn5904)» 
+bpn5904 
 
 ----
 
@@ -1579,7 +1580,7 @@ bpn5904 «[Català](../ca/prayers/#bpn5904)»
 
 -- Bahá'u'lláh
 
-bpn5758 «[Català](../ca/prayers/#bpn5758)» 
+bpn5758 
 
 ----
 
@@ -1593,7 +1594,7 @@ bpn5758 «[Català](../ca/prayers/#bpn5758)»
 
 -- Bahá'u'lláh
 
-bpn5760 «[Català](../ca/prayers/#bpn5760)» 
+bpn5760 
 
 ----
 
@@ -1607,7 +1608,7 @@ bpn5760 «[Català](../ca/prayers/#bpn5760)»
 
 -- Bahá'u'lláh
 
-bpn5759 «[Català](../ca/prayers/#bpn5759)» 
+bpn5759 
 
 ----
 
@@ -1621,7 +1622,7 @@ Tu em veus,oh Senyor meu, amb el rostre girat cap al cel de la Teva munificènci
 
 -- Bahá'u'lláh
 
-bpn5905 «[Català](../ca/prayers/#bpn5905)» 
+bpn5905 
 
 ----
 
@@ -1631,7 +1632,7 @@ Jo soc aquell, oh Senyor meu, què ha girat el seu rostre envers Tu i ha fixat l
 
 -- Bahá'u'lláh
 
-bpn5906 «[Català](../ca/prayers/#bpn5906)» 
+bpn5906 
 
 ----
 
@@ -1641,7 +1642,7 @@ bpn5906 «[Català](../ca/prayers/#bpn5906)»
 
 -- Bahá'u'lláh
 
-bpn5907 «[Català](../ca/prayers/#bpn5907)» 
+bpn5907 
 
 ----
 
@@ -1651,7 +1652,7 @@ Glorificat ets Tu, oh Déu meu Senyor! Cada vegada que goso de fer esment de Tu,
 
 -- Bahá'u'lláh
 
-bpn5908 «[Català](../ca/prayers/#bpn5908)» 
+bpn5908 
 
 ----
 
@@ -1661,7 +1662,7 @@ Glorificat ets Tu, oh Senyor meu! Et suplico pels Teus elegits i pels portadors 
 
 -- Bahá'u'lláh
 
-bpn5909 «[Català](../ca/prayers/#bpn5909)» 
+bpn5909 
 
 ----
 
@@ -1671,7 +1672,7 @@ Lloat siguis Tu, oh Senyor! Perdona’ns els nostres pecats, tingues misericòrd
 
 -- Báb
 
-bpn5910 «[Català](../ca/prayers/#bpn5910)» 
+bpn5910 
 
 ----
 
@@ -1681,7 +1682,7 @@ Oh Déu nostre Senyor! Protegeix-nos, mitjançant la Teva gràcia, de tot quant 
 
 -- Báb
 
-bpn5911 «[Català](../ca/prayers/#bpn5911)» 
+bpn5911 
 
 ----
 
@@ -1691,7 +1692,7 @@ Glòria sia a Tu; oh Déu. Com puc fer menció de Tu quan Tu estàs per sobre de
 
 -- Báb
 
-bpn5912 «[Català](../ca/prayers/#bpn5912)» 
+bpn5912 
 
 ----
 
@@ -1701,7 +1702,7 @@ Et prego, oh Senyor meu, que em perdonis per qualsevol menció feta apart de la 
 
 -- Báb
 
-bpn5913 «[Català](../ca/prayers/#bpn5913)» 
+bpn5913 
 
 ----
 
@@ -1711,7 +1712,7 @@ Soc conscient oh Senyor, de que les meves transgressions han cobert el meu rostr
 
 -- Báb
 
-bpn5914 «[Català](../ca/prayers/#bpn5914)» 
+bpn5914 
 
 ----
 
@@ -1721,7 +1722,7 @@ Oh Tu, Senyor perdonador! Tu ets el refugi de tots aquests serfs Teus. Tu coneix
 
 -- Abdu'l-Bahá
 
-bpn5915 «[Català](../ca/prayers/#bpn5915)» 
+bpn5915 
 
 ----
 
@@ -1735,7 +1736,7 @@ Lloat sia el Teu Nom, oh Senyor Déu meu! Et suplico pel Teu Nom -mitjançant el
 
 -- Bahá'u'lláh
 
-bpn5916 «[Català](../ca/prayers/#bpn5916)» 
+bpn5916 
 
 ----
 
@@ -1745,7 +1746,7 @@ Lloat siguis Tu, oh Senyor Déu meu! Aquest és el Teu serf, que ha begut de les
 
 -- Bahá'u'lláh
 
-bpn5917 «[Català](../ca/prayers/#bpn5917)» 
+bpn5917 
 
 ----
 
@@ -1755,7 +1756,7 @@ Lloat siguis, oh Senyor Déu meu! Tu veus i saps què he cridat als Teus serfs a
 
 -- Bahá'u'lláh
 
-bpn5918 «[Català](../ca/prayers/#bpn5918)» 
+bpn5918 
 
 ----
 
@@ -1765,7 +1766,7 @@ Oh Déu, Déu meu! He deixat la meva llar agafant-me fortament a la corda del Te
 
 -- Bahá'u'lláh
 
-bpn5919 «[Català](../ca/prayers/#bpn5919)» 
+bpn5919 
 
 ----
 
@@ -1775,7 +1776,7 @@ bpn5919 «[Català](../ca/prayers/#bpn5919)»
 
 -- Bahá'u'lláh
 
-bpn5927 «[Català](../ca/prayers/#bpn5927)» 
+bpn5927 
 
 ----
 
@@ -1785,7 +1786,7 @@ Glòria sia a Tu,oh Senyor! Tu ets el Déu què ha existit abans de totes les co
 
 -- Báb
 
-bpn5920 «[Català](../ca/prayers/#bpn5920)» 
+bpn5920 
 
 ----
 
@@ -1795,7 +1796,7 @@ En el nom de Déu, el Senyor d’aclaparadora majestat, l’Imponent. Santificat
 
 -- Báb
 
-bpn5921 «[Català](../ca/prayers/#bpn5921)» 
+bpn5921 
 
 ----
 
@@ -1805,7 +1806,7 @@ Ordena per mi, oh Senyor meu, i per aquells què creuen en Tu, el què consideri
 
 -- Báb
 
-bpn5922 «[Català](../ca/prayers/#bpn5922)» 
+bpn5922 
 
 ----
 
@@ -1815,7 +1816,7 @@ Oh Déu, Déu meu! Escuda els Teus serfs lleials contra els mals de l’egoisme 
 
 -- Abdu'l-Bahá
 
-bpn5923 «[Català](../ca/prayers/#bpn5923)» 
+bpn5923 
 
 ----
 
@@ -1825,7 +1826,7 @@ Oh Senyor meu! Tu saps que la gent està encerclada de dolor i calamitats i envo
 
 -- Abdu'l-Bahá
 
-bpn5924 «[Català](../ca/prayers/#bpn5924)» 
+bpn5924 
 
 ----
 
@@ -1835,7 +1836,7 @@ Oh Tu, bondadosa i amant Providència; L’Orient està en moviment i l’Occide
 
 -- Abdu'l-Bahá
 
-bpn5925 «[Català](../ca/prayers/#bpn5925)» 
+bpn5925 
 
 ----
 
@@ -1845,7 +1846,7 @@ bpn5925 «[Català](../ca/prayers/#bpn5925)»
 
 -- Abdu'l-Bahá
 
-bpn5926 «[Català](../ca/prayers/#bpn5926)» 
+bpn5926 
 
 ----
 
@@ -1859,7 +1860,7 @@ Lloat i glorificat siguis, oh Déu meu! Et suplico pels sospirs dels Teus amants
 
 -- Bahá'u'lláh
 
-bpn5928 «[Català](../ca/prayers/#bpn5928)» 
+bpn5928 
 
 ----
 
@@ -1869,7 +1870,7 @@ Glòria sia a Tu, oh Déu meu! Si no fos per les tribulacions patides al Teu cam
 
 -- Bahá'u'lláh
 
-bpn5929 «[Català](../ca/prayers/#bpn5929)» 
+bpn5929 
 
 ----
 
@@ -1879,7 +1880,7 @@ Glorificat siguis Tu, oh Senyor, Déu meu! Tot home de discerniment confessa la 
 
 -- Bahá'u'lláh
 
-bpn5930 «[Català](../ca/prayers/#bpn5930)» 
+bpn5930 
 
 ----
 
@@ -1889,7 +1890,7 @@ Oh Tu, les proves del qual són la medicina guaridora pels qui estan prop Teu, l
 
 -- Bahá'u'lláh
 
-bpn5931 «[Català](../ca/prayers/#bpn5931)» 
+bpn5931 
 
 ----
 
@@ -1899,7 +1900,7 @@ Dissipa els meus pesars per la Teva munificència i generositat, oh Déu, el meu
 
 -- Bahá'u'lláh
 
-bpn5932 «[Català](../ca/prayers/#bpn5932)» 
+bpn5932 
 
 ----
 
@@ -1909,7 +1910,7 @@ Glòria a Tu, oh Déu meu! Tu sents lamentar-se als Teus apassionats amants degu
 
 -- Bahá'u'lláh
 
-bpn5933 «[Català](../ca/prayers/#bpn5933)» 
+bpn5933 
 
 ----
 
@@ -1919,7 +1920,7 @@ Veritablement soc el Teu serf, oh Déu meu, i el Teu captaire i el Teu suplicant
 
 -- Báb
 
-bpn5934 «[Català](../ca/prayers/#bpn5934)» 
+bpn5934 
 
 ----
 
@@ -1929,7 +1930,7 @@ Oh Déu meu! A ningú tinc tret de a Tu què pugui calmar l’ànsia de la meva 
 
 -- Báb
 
-bpn5935 «[Català](../ca/prayers/#bpn5935)» 
+bpn5935 
 
 ----
 
@@ -1939,7 +1940,7 @@ Oh Deu,Déu meu, el meu Benamat, el desig del meu cor.
 
 -- Báb
 
-bpn5936 «[Català](../ca/prayers/#bpn5936)» 
+bpn5936 
 
 ----
 
@@ -1949,7 +1950,7 @@ Oh Senyor! Tu ets Qui dissipa totes les penes i elimina totes les afliccions. Tu
 
 -- Báb
 
-bpn5937 «[Català](../ca/prayers/#bpn5937)» 
+bpn5937 
 
 ----
 
@@ -1959,7 +1960,7 @@ Et suplico pel Teu poder, oh Déu meu! No permetis que cap mal m’empaiti a l�
 
 -- Báb
 
-bpn5938 «[Català](../ca/prayers/#bpn5938)» 
+bpn5938 
 
 ----
 
@@ -1969,7 +1970,7 @@ Hi ha algú que ens lliuri de les dificultats tret de Déu? Digues: Lloat sia D�
 
 -- Báb
 
-bpn5939 «[Català](../ca/prayers/#bpn5939)» 
+bpn5939 
 
 ----
 
@@ -1979,7 +1980,7 @@ Digues: Déu és suficient a totes les coses per sobre totes les coses, i res al
 
 -- Báb
 
-bpn5940 «[Català](../ca/prayers/#bpn5940)» 
+bpn5940 
 
 ----
 
@@ -1989,7 +1990,7 @@ Tu coneixes, oh Déu meu les tribulacions què han plogut sobre meu des de totes
 
 -- Báb
 
-bpn5941 «[Català](../ca/prayers/#bpn5941)» 
+bpn5941 
 
 ----
 
@@ -2003,7 +2004,7 @@ Ell és el Déu què escolta i contesta les oracions!Per la Teva glòria, oh ben
 
 -- Bahá'u'lláh
 
-bpn5942 «[Català](../ca/prayers/#bpn5942)» 
+bpn5942 
 
 ----
 
@@ -2013,7 +2014,7 @@ Oh Déu, Déu de munificència i misericòrdia! Tu ets aquell Rei, la paraula im
 
 -- Bahá'u'lláh
 
-bpn5943 «[Català](../ca/prayers/#bpn5943)» 
+bpn5943 
 
 ----
 
@@ -2023,7 +2024,7 @@ T’imploro, oh Déu meu per tota la glòria transcendent del Teu nom, què vest
 
 -- Bahá'u'lláh
 
-bpn5944 «[Català](../ca/prayers/#bpn5944)» 
+bpn5944 
 
 ----
 
@@ -2033,7 +2034,7 @@ bpn5944 «[Català](../ca/prayers/#bpn5944)»
 
 -- Bahá'u'lláh
 
-bpn5954 «[Català](../ca/prayers/#bpn5954)» 
+bpn5954 
 
 ----
 
@@ -2043,7 +2044,7 @@ bpn5954 «[Català](../ca/prayers/#bpn5954)»
 
 -- Bahá'u'lláh
 
-bpn5955 «[Català](../ca/prayers/#bpn5955)» 
+bpn5955 
 
 ----
 
@@ -2053,7 +2054,7 @@ Dels perfumats corrents de la Teva eternitat dóna’m a beure, oh Déu meu, i d
 
 -- Bahá'u'lláh
 
-bpn5956 «[Català](../ca/prayers/#bpn5956)» 
+bpn5956 
 
 ----
 
@@ -2063,7 +2064,7 @@ bpn5956 «[Català](../ca/prayers/#bpn5956)»
 
 -- Bahá'u'lláh
 
-bpn5957 «[Català](../ca/prayers/#bpn5957)» 
+bpn5957 
 
 ----
 
@@ -2073,7 +2074,7 @@ bpn5957 «[Català](../ca/prayers/#bpn5957)»
 
 -- Bahá'u'lláh
 
-bpn5958 «[Català](../ca/prayers/#bpn5958)» 
+bpn5958 
 
 ----
 
@@ -2083,7 +2084,7 @@ Concedeix-me, oh Déu meu, amb plenitud  el Teu amor i la Teva complaença, i ex
 
 -- Báb
 
-bpn5945 «[Català](../ca/prayers/#bpn5945)» 
+bpn5945 
 
 ----
 
@@ -2093,7 +2094,7 @@ Oh Tu, Proveïdor! Tu has exhalat sobre amics d’Occident la dolça fragància 
 
 -- Abdu'l-Bahá
 
-bpn5946 «[Català](../ca/prayers/#bpn5946)» 
+bpn5946 
 
 ----
 
@@ -2103,7 +2104,7 @@ Ell és Déu!Oh Déu, Déu meu! Aquests són els Teus serfs atrets en els Teus d
 
 -- Abdu'l-Bahá
 
-bpn5947 «[Català](../ca/prayers/#bpn5947)» 
+bpn5947 
 
 ----
 
@@ -2113,7 +2114,7 @@ Oh Déu, Déu meu! Aquests són els Teus dèbils serfs; ells són els Teus escla
 
 -- Abdu'l-Bahá
 
-bpn5948 «[Català](../ca/prayers/#bpn5948)» 
+bpn5948 
 
 ----
 
@@ -2123,7 +2124,7 @@ Oh Déu meu, oh Déu meu! Glòria a Tu per quant m’has atret cap a la paraula 
 
 -- Abdu'l-Bahá
 
-bpn5949 «[Català](../ca/prayers/#bpn5949)» 
+bpn5949 
 
 ----
 
@@ -2133,7 +2134,7 @@ bpn5949 «[Català](../ca/prayers/#bpn5949)»
 
 -- Abdu'l-Bahá
 
-bpn5950 «[Català](../ca/prayers/#bpn5950)» 
+bpn5950 
 
 ----
 
@@ -2143,7 +2144,7 @@ Oh Déu Refresca i alegra el meu esperit. Purifica el meu cor. Il·lumina els me
 
 -- Abdu'l-Bahá
 
-bpn5951 «[Català](../ca/prayers/#bpn5951)» 
+bpn5951 
 
 ----
 
@@ -2153,7 +2154,7 @@ Oh Déu meu, oh Déu meu! Aquest serf Teu ha avançat cap a Tu, vaga apassionada
 
 -- Abdu'l-Bahá
 
-bpn5952 «[Català](../ca/prayers/#bpn5952)» 
+bpn5952 
 
 ----
 
@@ -2163,7 +2164,7 @@ Oh Senyor meu! Oh Senyor meu! Aquesta és una llàntia encesa amb el foc del Teu
 
 -- Abdu'l-Bahá
 
-bpn5953 «[Català](../ca/prayers/#bpn5953)» 
+bpn5953 
 
 ----
 
@@ -2173,7 +2174,7 @@ bpn5953 «[Català](../ca/prayers/#bpn5953)»
 
 -- Abdu'l-Bahá
 
-bpn5959 «[Català](../ca/prayers/#bpn5959)» 
+bpn5959 
 
 ----
 
@@ -2187,7 +2188,7 @@ Oh Divina Providència! Aquesta reunió està composta pels Teus amics, que es s
 
 -- Abdu'l-Bahá
 
-bpn5960 «[Català](../ca/prayers/#bpn5960)» 
+bpn5960 
 
 ----
 
@@ -2197,7 +2198,7 @@ Oh Déu meu! Oh Déu meu! Veritablement aquests serfs es tornen cap a Tu, suplic
 
 -- Abdu'l-Bahá
 
-bpn5961 «[Català](../ca/prayers/#bpn5961)» 
+bpn5961 
 
 ----
 
@@ -2207,7 +2208,7 @@ Oh Tu, Bondadós Senyor! Aquests són els Teus serfs què han concorregut a aque
 
 -- Abdu'l-Bahá
 
-bpn5962 «[Català](../ca/prayers/#bpn5962)» 
+bpn5962 
 
 ----
 
@@ -2217,7 +2218,7 @@ Oh Tu, Déu misericordiós! Oh Tu qui ets fort i poderós! Oh Tu bondadosíssim 
 
 -- Abdu'l-Bahá
 
-bpn5963 «[Català](../ca/prayers/#bpn5963)» 
+bpn5963 
 
 ----
 
@@ -2227,7 +2228,7 @@ Oh Tu, Déu perdonador! Aquests serfs es giren cap al Teu regne i busquen la Tev
 
 -- Abdu'l-Bahá
 
-bpn5964 «[Català](../ca/prayers/#bpn5964)» 
+bpn5964 
 
 ----
 
@@ -2237,7 +2238,7 @@ Oh Proveïdor amorós! Aquestes ànimes han escoltat la crida del regne i han mi
 
 -- Abdu'l-Bahá
 
-bpn5965 «[Català](../ca/prayers/#bpn5965)» 
+bpn5965 
 
 ----
 
@@ -2247,7 +2248,7 @@ bpn5965 «[Català](../ca/prayers/#bpn5965)»
 
 -- Abdu'l-Bahá
 
-bpn5966 «[Català](../ca/prayers/#bpn5966)» 
+bpn5966 
 
 ----
 
@@ -2261,7 +2262,7 @@ bpn5966 «[Català](../ca/prayers/#bpn5966)»
 
 -- Bahá'u'lláh
 
-bpn5764 «[Català](../ca/prayers/#bpn5764)» 
+bpn5764 
 
 ----
 
@@ -2275,7 +2276,7 @@ bpn5764 «[Català](../ca/prayers/#bpn5764)»
 
 -- Bahá'u'lláh
 
-bpn5763 «[Català](../ca/prayers/#bpn5763)» 
+bpn5763 
 
 ----
 
@@ -2289,7 +2290,7 @@ bpn5763 «[Català](../ca/prayers/#bpn5763)»
 
 -- Bahá'u'lláh
 
-bpn5765 «[Català](../ca/prayers/#bpn5765)» 
+bpn5765 
 
 ----
 
@@ -2303,7 +2304,7 @@ bpn5765 «[Català](../ca/prayers/#bpn5765)»
 
 -- Bahá'u'lláh
 
-bpn5761 «[Català](../ca/prayers/#bpn5761)» 
+bpn5761 
 
 ----
 
@@ -2317,7 +2318,7 @@ bpn5761 «[Català](../ca/prayers/#bpn5761)»
 
 -- Abdu'l-Bahá
 
-bpn5762 «[Català](../ca/prayers/#bpn5762)» 
+bpn5762 
 
 ----
 
@@ -2331,7 +2332,7 @@ Tu veus, oh Déu meu, com els Teus estimats han estat envoltats pels rebels entr
 
 -- Bahá'u'lláh
 
-bpn5967 «[Català](../ca/prayers/#bpn5967)» 
+bpn5967 
 
 ----
 
@@ -2341,7 +2342,7 @@ Glòria sia a Tu, oh Senyor Déu meu! Fes manifestos els rius del Teu poder sobi
 
 -- Bahá'u'lláh
 
-bpn5968 «[Català](../ca/prayers/#bpn5968)» 
+bpn5968 
 
 ----
 
@@ -2351,7 +2352,7 @@ No permetis, oh Déu, Déu meu, que em mantingui allunyat del cel dels Teus dons
 
 -- Bahá'u'lláh
 
-bpn5969 «[Català](../ca/prayers/#bpn5969)» 
+bpn5969 
 
 ----
 
@@ -2361,7 +2362,7 @@ Oh Senyor! Fes victoriosos els Teus pacients serfs i concedeix-los un merescut t
 
 -- Báb
 
-bpn5970 «[Català](../ca/prayers/#bpn5970)» 
+bpn5970 
 
 ----
 
@@ -2371,7 +2372,7 @@ Oh Senyor! Permet que l’Arbre de la Teva divina Unitat creixi amb rapidesa Reg
 
 -- Báb
 
-bpn5971 «[Català](../ca/prayers/#bpn5971)» 
+bpn5971 
 
 ----
 
@@ -2381,7 +2382,7 @@ Oh Senyor! Permet que els pobles de la terra siguin admesos en el Paradís de la
 
 -- Báb
 
-bpn5972 «[Català](../ca/prayers/#bpn5972)» 
+bpn5972 
 
 ----
 
@@ -2391,7 +2392,7 @@ Glòria sia a Tu, oh Senyor, Tu has donat vida a totes les coses creades, mitjan
 
 -- Báb
 
-bpn5973 «[Català](../ca/prayers/#bpn5973)» 
+bpn5973 
 
 ----
 
@@ -2401,7 +2402,7 @@ Ell és Déu!Oh Senyor, Déu meu, Benamat! Aquests són els Teus serfs, què han
 
 -- Abdu'l-Bahá
 
-bpn5974 «[Català](../ca/prayers/#bpn5974)» 
+bpn5974 
 
 ----
 
@@ -2411,7 +2412,7 @@ Oh Déu, Déu meu! La lloança sia per Tu per haver encès el foc de l’amor di
 
 -- Abdu'l-Bahá
 
-bpn5975 «[Català](../ca/prayers/#bpn5975)» 
+bpn5975 
 
 ----
 
@@ -2425,7 +2426,7 @@ Oh Déu meu, oh Déu meu Veritablement T’invoco i suplico davant el Teu llinda
 
 -- Abdu'l-Bahá
 
-bpn5976 «[Català](../ca/prayers/#bpn5976)» 
+bpn5976 
 
 ----
 

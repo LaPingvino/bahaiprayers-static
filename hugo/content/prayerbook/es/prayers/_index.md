@@ -5,6 +5,7 @@ tags = ['lang=es', 'prayerbook']
 
 
 
+
 [Agradecimiento y alabanza](#Agradecimiento+y+alabanza)
 
 [América](#Am%C3%A9rica)
@@ -99,7 +100,7 @@ tags = ['lang=es', 'prayerbook']
 
 -- Bahá'u'lláh
 
-BH07661 «[Español](../es/prayers/#BH07661)» «[English](../en/prayers/#BH07661)» 
+BH07661 «[English](../en/prayers/#BH07661)» 
 
 ----
 
@@ -109,7 +110,7 @@ BH07661 «[Español](../es/prayers/#BH07661)» «[English](../en/prayers/#BH0766
 
 -- Bahá'u'lláh
 
-bpn11457 «[Español](../es/prayers/#bpn11457)» 
+bpn11457 
 
 ----
 
@@ -119,7 +120,7 @@ bpn11457 «[Español](../es/prayers/#bpn11457)»
 
 -- Bahá'u'lláh
 
-bpn11458 «[Español](../es/prayers/#bpn11458)» 
+bpn11458 
 
 ----
 
@@ -129,7 +130,7 @@ bpn11458 «[Español](../es/prayers/#bpn11458)»
 
 -- Bahá'u'lláh
 
-bpn11459 «[Español](../es/prayers/#bpn11459)» 
+bpn11459 
 
 ----
 
@@ -139,7 +140,7 @@ bpn11459 «[Español](../es/prayers/#bpn11459)»
 
 -- Bahá'u'lláh
 
-bpn11460 «[Español](../es/prayers/#bpn11460)» 
+bpn11460 
 
 ----
 
@@ -149,7 +150,7 @@ Toda majestad y gloria, oh mi Dios, y todo dominio, luz, grandeza y esplendor se
 
 -- Báb
 
-bpn11461 «[Español](../es/prayers/#bpn11461)» 
+bpn11461 
 
 ----
 
@@ -163,7 +164,7 @@ bpn11461 «[Español](../es/prayers/#bpn11461)»
 
 -- Abdu'l-Bahá
 
-bpn12578 «[Español](../es/prayers/#bpn12578)» 
+bpn12578 
 
 ----
 
@@ -177,7 +178,7 @@ bpn12578 «[Español](../es/prayers/#bpn12578)»
 
 -- Abdu'l-Bahá
 
-bpn11675 «[Español](../es/prayers/#bpn11675)» 
+bpn11675 
 
 ----
 
@@ -187,7 +188,7 @@ bpn11675 «[Español](../es/prayers/#bpn11675)»
 
 -- Abdu'l-Bahá
 
-bpn11676 «[Español](../es/prayers/#bpn11676)» 
+bpn11676 
 
 ----
 
@@ -197,7 +198,7 @@ bpn11676 «[Español](../es/prayers/#bpn11676)»
 
 -- Abdu'l-Bahá
 
-bpn11677 «[Español](../es/prayers/#bpn11677)» 
+bpn11677 
 
 ----
 
@@ -211,7 +212,7 @@ bpn11677 «[Español](../es/prayers/#bpn11677)»
 
 -- Bahá'u'lláh
 
-bpn11462 «[Español](../es/prayers/#bpn11462)» 
+bpn11462 
 
 ----
 
@@ -221,7 +222,7 @@ bpn11462 «[Español](../es/prayers/#bpn11462)»
 
 -- Bahá'u'lláh
 
-bpn11463 «[Español](../es/prayers/#bpn11463)» 
+bpn11463 
 
 ----
 
@@ -231,7 +232,7 @@ bpn11463 «[Español](../es/prayers/#bpn11463)»
 
 -- Báb
 
-bpn11464 «[Español](../es/prayers/#bpn11464)» 
+bpn11464 
 
 ----
 
@@ -241,7 +242,7 @@ bpn11464 «[Español](../es/prayers/#bpn11464)»
 
 -- Báb
 
-bpn11465 «[Español](../es/prayers/#bpn11465)» 
+bpn11465 
 
 ----
 
@@ -251,7 +252,7 @@ bpn11465 «[Español](../es/prayers/#bpn11465)»
 
 -- Abdu'l-Bahá
 
-bpn11469 «[Español](../es/prayers/#bpn11469)» 
+bpn11469 
 
 ----
 
@@ -261,7 +262,7 @@ bpn11469 «[Español](../es/prayers/#bpn11469)»
 
 -- Abdu'l-Bahá
 
-bpn11466 «[Español](../es/prayers/#bpn11466)» 
+bpn11466 
 
 ----
 
@@ -271,7 +272,7 @@ No retires, oh Señor, la mesa festiva que ha sido puesta en Tu Nombre, y no apa
 
 -- Abdu'l-Bahá
 
-AB10275 «[Nederlands](../nl/prayers/#AB10275)» «[Português (BR)](../pt/prayers/#AB10275)» «[Español](../es/prayers/#AB10275)» «[English](../en/prayers/#AB10275)» 
+AB10275 «[Português (BR)](../pt/prayers/#AB10275)» «[Nederlands](../nl/prayers/#AB10275)» «[English](../en/prayers/#AB10275)» 
 
 ----
 
@@ -281,7 +282,7 @@ AB10275 «[Nederlands](../nl/prayers/#AB10275)» «[Português (BR)](../pt/praye
 
 -- Abdu'l-Bahá
 
-bpn11467 «[Español](../es/prayers/#bpn11467)» 
+bpn11467 
 
 ----
 
@@ -291,7 +292,7 @@ bpn11467 «[Español](../es/prayers/#bpn11467)»
 
 -- Abdu'l-Bahá
 
-bpn11470 «[Español](../es/prayers/#bpn11470)» 
+bpn11470 
 
 ----
 
@@ -305,7 +306,7 @@ bpn11470 «[Español](../es/prayers/#bpn11470)»
 
 -- Bahá'u'lláh
 
-bpn11678 «[Español](../es/prayers/#bpn11678)» 
+bpn11678 
 
 ----
 
@@ -315,7 +316,7 @@ bpn11678 «[Español](../es/prayers/#bpn11678)»
 
 -- Bahá'u'lláh
 
-bpn11679 «[Español](../es/prayers/#bpn11679)» 
+bpn11679 
 
 ----
 
@@ -325,7 +326,7 @@ bpn11679 «[Español](../es/prayers/#bpn11679)»
 
 -- Bahá'u'lláh
 
-bpn11680 «[Español](../es/prayers/#bpn11680)» 
+bpn11680 
 
 ----
 
@@ -335,7 +336,7 @@ bpn11680 «[Español](../es/prayers/#bpn11680)»
 
 -- Bahá'u'lláh
 
-bpn11681 «[Español](../es/prayers/#bpn11681)» 
+bpn11681 
 
 ----
 
@@ -345,7 +346,7 @@ bpn11681 «[Español](../es/prayers/#bpn11681)»
 
 -- Bahá'u'lláh
 
-bpn11682 «[Español](../es/prayers/#bpn11682)» 
+bpn11682 
 
 ----
 
@@ -355,7 +356,7 @@ bpn11682 «[Español](../es/prayers/#bpn11682)»
 
 -- Bahá'u'lláh
 
-BH00778 «[Nederlands](../nl/prayers/#BH00778)» «[Español](../es/prayers/#BH00778)» «[English](../en/prayers/#BH00778)» 
+BH00778 «[Nederlands](../nl/prayers/#BH00778)» «[English](../en/prayers/#BH00778)» 
 
 ----
 
@@ -365,7 +366,7 @@ BH00778 «[Nederlands](../nl/prayers/#BH00778)» «[Español](../es/prayers/#BH0
 
 -- Bahá'u'lláh
 
-bpn11684 «[Español](../es/prayers/#bpn11684)» 
+bpn11684 
 
 ----
 
@@ -375,7 +376,7 @@ Te imploro, oh mi Dios, por Tu poderoso Signo y por la revelación de Tu gracia 
 
 -- Bahá'u'lláh
 
-BH01125 «[Français](../fr/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» «[English](../en/prayers/#BH01125)» 
+BH01125 «[Français](../fr/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[English](../en/prayers/#BH01125)» 
 
 ----
 
@@ -385,7 +386,7 @@ Tú ves, oh Dios de Misericordia, oh Tú Cuyo poder penetra todas las cosas crea
 
 -- Bahá'u'lláh
 
-bpn11686 «[Español](../es/prayers/#bpn11686)» 
+bpn11686 
 
 ----
 
@@ -395,7 +396,7 @@ bpn11686 «[Español](../es/prayers/#bpn11686)»
 
 -- Bahá'u'lláh
 
-bpn11687 «[Español](../es/prayers/#bpn11687)» 
+bpn11687 
 
 ----
 
@@ -405,7 +406,7 @@ bpn11687 «[Español](../es/prayers/#bpn11687)»
 
 -- Bahá'u'lláh
 
-bpn11688 «[Español](../es/prayers/#bpn11688)» 
+bpn11688 
 
 ----
 
@@ -419,7 +420,7 @@ bpn11688 «[Español](../es/prayers/#bpn11688)»
 
 -- Bahá'u'lláh
 
-bpn11472 «[Español](../es/prayers/#bpn11472)» 
+bpn11472 
 
 ----
 
@@ -429,7 +430,7 @@ bpn11472 «[Español](../es/prayers/#bpn11472)»
 
 -- Bahá'u'lláh
 
-bpn11473 «[Español](../es/prayers/#bpn11473)» 
+bpn11473 
 
 ----
 
@@ -439,7 +440,7 @@ bpn11473 «[Español](../es/prayers/#bpn11473)»
 
 -- Bahá'u'lláh
 
-bpn11474 «[Español](../es/prayers/#bpn11474)» 
+bpn11474 
 
 ----
 
@@ -449,7 +450,7 @@ No sé, oh mi Dios, qué Fuego es el que encendiste en Tu tierra. El polvo no po
 
 -- Bahá'u'lláh
 
-bpn11471 «[Español](../es/prayers/#bpn11471)» 
+bpn11471 
 
 ----
 
@@ -459,7 +460,7 @@ Verdaderamente, soy Tu siervo, oh mi Dios, y Tu necesitado, y Tu suplicante, y T
 
 -- Báb
 
-bpn11475 «[Español](../es/prayers/#bpn11475)» 
+bpn11475 
 
 ----
 
@@ -469,7 +470,7 @@ bpn11475 «[Español](../es/prayers/#bpn11475)»
 
 -- Báb
 
-bpn11476 «[Español](../es/prayers/#bpn11476)» 
+bpn11476 
 
 ----
 
@@ -479,7 +480,7 @@ Oh Dios, mi Dios, mi Bienamado, el Deseo de mi corazón.
 
 -- Báb
 
-bpn11477 «[Español](../es/prayers/#bpn11477)» 
+bpn11477 
 
 ----
 
@@ -493,7 +494,7 @@ bpn11477 «[Español](../es/prayers/#bpn11477)»
 
 -- Bahá'u'lláh
 
-bpn11478 «[Español](../es/prayers/#bpn11478)» 
+bpn11478 
 
 ----
 
@@ -503,7 +504,7 @@ bpn11478 «[Español](../es/prayers/#bpn11478)»
 
 -- Bahá'u'lláh
 
-bpn11479 «[Español](../es/prayers/#bpn11479)» 
+bpn11479 
 
 ----
 
@@ -513,7 +514,7 @@ bpn11479 «[Español](../es/prayers/#bpn11479)»
 
 -- Bahá'u'lláh
 
-BH08822 «[Português (BR)](../pt/prayers/#BH08822)» «[Español](../es/prayers/#BH08822)» «[Esperanto](../eo/prayers/#BH08822)» «[English](../en/prayers/#BH08822)» 
+BH08822 «[Esperanto](../eo/prayers/#BH08822)» «[Português (BR)](../pt/prayers/#BH08822)» «[English](../en/prayers/#BH08822)» 
 
 ----
 
@@ -523,7 +524,7 @@ BH08822 «[Português (BR)](../pt/prayers/#BH08822)» «[Español](../es/prayers
 
 -- Bahá'u'lláh
 
-bpn11481 «[Español](../es/prayers/#bpn11481)» 
+bpn11481 
 
 ----
 
@@ -533,7 +534,7 @@ Magnifico Tu Nombre, oh mi Dios, y Te doy gracias, oh mi Deseo, por cuanto me ha
 
 -- Bahá'u'lláh
 
-bpn11482 «[Español](../es/prayers/#bpn11482)» 
+bpn11482 
 
 ----
 
@@ -543,7 +544,7 @@ bpn11482 «[Español](../es/prayers/#bpn11482)»
 
 -- Bahá'u'lláh
 
-bpn11483 «[Español](../es/prayers/#bpn11483)» 
+bpn11483 
 
 ----
 
@@ -553,7 +554,7 @@ bpn11483 «[Español](../es/prayers/#bpn11483)»
 
 -- Báb
 
-BB00621 «[Español](../es/prayers/#BB00621)» «[English](../en/prayers/#BB00621)» 
+BB00621 «[English](../en/prayers/#BB00621)» 
 
 ----
 
@@ -563,7 +564,7 @@ BB00621 «[Español](../es/prayers/#BB00621)» «[English](../en/prayers/#BB0062
 
 -- Abdu'l-Bahá
 
-bpn11485 «[Español](../es/prayers/#bpn11485)» 
+bpn11485 
 
 ----
 
@@ -573,7 +574,7 @@ bpn11485 «[Español](../es/prayers/#bpn11485)»
 
 -- Abdu'l-Bahá
 
-bpn11486 «[Español](../es/prayers/#bpn11486)» 
+bpn11486 
 
 ----
 
@@ -583,7 +584,7 @@ bpn11486 «[Español](../es/prayers/#bpn11486)»
 
 -- Abdu'l-Bahá
 
-bpn11487 «[Español](../es/prayers/#bpn11487)» 
+bpn11487 
 
 ----
 
@@ -597,7 +598,7 @@ bpn11487 «[Español](../es/prayers/#bpn11487)»
 
 -- Bahá'u'lláh
 
-bpn11488 «[Español](../es/prayers/#bpn11488)» 
+bpn11488 
 
 ----
 
@@ -607,7 +608,7 @@ Te imploro, oh mi Dios, por toda la gloria trascendente de Tu Nombre, que ataví
 
 -- Bahá'u'lláh
 
-BH00531TRA «[Nederlands](../nl/prayers/#BH00531TRA)» «[Español](../es/prayers/#BH00531TRA)» «[English](../en/prayers/#BH00531TRA)» 
+BH00531TRA «[Nederlands](../nl/prayers/#BH00531TRA)» «[English](../en/prayers/#BH00531TRA)» 
 
 ----
 
@@ -617,7 +618,7 @@ De las perfumadas corrientes de Tu eternidad, dame de beber, oh mi Dios, y de lo
 
 -- Bahá'u'lláh
 
-bpn11492 «[Español](../es/prayers/#bpn11492)» 
+bpn11492 
 
 ----
 
@@ -627,7 +628,7 @@ bpn11492 «[Español](../es/prayers/#bpn11492)»
 
 -- Bahá'u'lláh
 
-bpn11493 «[Español](../es/prayers/#bpn11493)» 
+bpn11493 
 
 ----
 
@@ -637,7 +638,7 @@ bpn11493 «[Español](../es/prayers/#bpn11493)»
 
 -- Bahá'u'lláh
 
-bpn11494 «[Español](../es/prayers/#bpn11494)» 
+bpn11494 
 
 ----
 
@@ -647,7 +648,7 @@ bpn11494 «[Español](../es/prayers/#bpn11494)»
 
 -- Bahá'u'lláh
 
-bpn11491 «[Español](../es/prayers/#bpn11491)» 
+bpn11491 
 
 ----
 
@@ -657,7 +658,7 @@ Crea en mí un corazón puro, oh mi Dios, y renueva una conciencia tranquila den
 
 -- Bahá'u'lláh
 
-bpn11490 «[Español](../es/prayers/#bpn11490)» 
+bpn11490 
 
 ----
 
@@ -667,7 +668,7 @@ Concédeme, oh mi Dios, la plenitud de Tu amor y Tu complacencia, y, con la atra
 
 -- Báb
 
-BB00374 «[Español](../es/prayers/#BB00374)» «[English](../en/prayers/#BB00374)» 
+BB00374 «[English](../en/prayers/#BB00374)» 
 
 ----
 
@@ -677,7 +678,7 @@ BB00374 «[Español](../es/prayers/#BB00374)» «[English](../en/prayers/#BB0037
 
 -- Abdu'l-Bahá
 
-bpn11496 «[Español](../es/prayers/#bpn11496)» 
+bpn11496 
 
 ----
 
@@ -687,7 +688,7 @@ bpn11496 «[Español](../es/prayers/#bpn11496)»
 
 -- Abdu'l-Bahá
 
-bpn11497 «[Español](../es/prayers/#bpn11497)» 
+bpn11497 
 
 ----
 
@@ -697,7 +698,7 @@ bpn11497 «[Español](../es/prayers/#bpn11497)»
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» «[English](../en/prayers/#AB00128FEE)» 
+AB00128FEE «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[English](../en/prayers/#AB00128FEE)» 
 
 ----
 
@@ -707,7 +708,7 @@ AB00128FEE «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](
 
 -- Abdu'l-Bahá
 
-AB07709CON «[Nederlands](../nl/prayers/#AB07709CON)» «[Español](../es/prayers/#AB07709CON)» «[English](../en/prayers/#AB07709CON)» 
+AB07709CON «[Nederlands](../nl/prayers/#AB07709CON)» «[English](../en/prayers/#AB07709CON)» 
 
 ----
 
@@ -717,7 +718,7 @@ AB07709CON «[Nederlands](../nl/prayers/#AB07709CON)» «[Español](../es/prayer
 
 -- Abdu'l-Bahá
 
-bpn11500 «[Español](../es/prayers/#bpn11500)» 
+bpn11500 
 
 ----
 
@@ -727,7 +728,7 @@ bpn11500 «[Español](../es/prayers/#bpn11500)»
 
 -- Abdu'l-Bahá
 
-bpn11501 «[Español](../es/prayers/#bpn11501)» 
+bpn11501 
 
 ----
 
@@ -737,7 +738,7 @@ bpn11501 «[Español](../es/prayers/#bpn11501)»
 
 -- Abdu'l-Bahá
 
-bpn11502 «[Español](../es/prayers/#bpn11502)» 
+bpn11502 
 
 ----
 
@@ -747,7 +748,7 @@ bpn11502 «[Español](../es/prayers/#bpn11502)»
 
 -- Abdu'l-Bahá
 
-bpn11503 «[Español](../es/prayers/#bpn11503)» 
+bpn11503 
 
 ----
 
@@ -761,7 +762,7 @@ bpn11503 «[Español](../es/prayers/#bpn11503)»
 
 -- Bahá'u'lláh
 
-bpn11504 «[Español](../es/prayers/#bpn11504)» 
+bpn11504 
 
 ----
 
@@ -771,7 +772,7 @@ bpn11504 «[Español](../es/prayers/#bpn11504)»
 
 -- Bahá'u'lláh
 
-bpn11505 «[Español](../es/prayers/#bpn11505)» 
+bpn11505 
 
 ----
 
@@ -781,7 +782,7 @@ bpn11505 «[Español](../es/prayers/#bpn11505)»
 
 -- Bahá'u'lláh
 
-bpn11506 «[Español](../es/prayers/#bpn11506)» 
+bpn11506 
 
 ----
 
@@ -791,7 +792,7 @@ bpn11506 «[Español](../es/prayers/#bpn11506)»
 
 -- Bahá'u'lláh
 
-bpn11508 «[Español](../es/prayers/#bpn11508)» 
+bpn11508 
 
 ----
 
@@ -801,7 +802,7 @@ bpn11508 «[Español](../es/prayers/#bpn11508)»
 
 -- Bahá'u'lláh
 
-bpn11509 «[Español](../es/prayers/#bpn11509)» 
+bpn11509 
 
 ----
 
@@ -811,7 +812,7 @@ bpn11509 «[Español](../es/prayers/#bpn11509)»
 
 -- Bahá'u'lláh
 
-bpn11510 «[Español](../es/prayers/#bpn11510)» 
+bpn11510 
 
 ----
 
@@ -821,7 +822,7 @@ Tu nombre es mi curación, oh mi Dios, y el recuerdo de Ti es mi remedio. La pro
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Nederlands](../nl/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» «[English](../en/prayers/#BH01313NAM)» 
+BH01313NAM «[Esperanto](../eo/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[English](../en/prayers/#BH01313NAM)» 
 
 ----
 
@@ -835,7 +836,7 @@ BH01313NAM «[Nederlands](../nl/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#
 
 -- Bahá'u'lláh
 
-BH09864 «[Português (BR)](../pt/prayers/#BH09864)» «[Español](../es/prayers/#BH09864)» «[English](../en/prayers/#BH09864)» 
+BH09864 «[Português (BR)](../pt/prayers/#BH09864)» «[English](../en/prayers/#BH09864)» 
 
 ----
 
@@ -845,7 +846,7 @@ BH09864 «[Português (BR)](../pt/prayers/#BH09864)» «[Español](../es/prayers
 
 -- Bahá'u'lláh
 
-bpn11512 «[Español](../es/prayers/#bpn11512)» 
+bpn11512 
 
 ----
 
@@ -855,7 +856,7 @@ Muchos corazones yertos, oh mi Dios, han sido encendidos con el fuego de Tu Caus
 
 -- Bahá'u'lláh
 
-BH09024 «[Nederlands](../nl/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[English](../en/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» 
+BH09024 «[Esperanto](../eo/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[English](../en/prayers/#BH09024)» 
 
 ----
 
@@ -865,7 +866,7 @@ Te rindo alabanzas, oh mi Dios, pues la fragancia de Tu bondad me ha cautivado y
 
 -- Bahá'u'lláh
 
-bpn11514 «[Español](../es/prayers/#bpn11514)» 
+bpn11514 
 
 ----
 
@@ -875,7 +876,7 @@ Oh mi Dios, permíteme acercarme a Ti y habitar dentro de los recintos de Tu cor
 
 -- Bahá'u'lláh
 
-bpn11515 «[Español](../es/prayers/#bpn11515)» 
+bpn11515 
 
 ----
 
@@ -885,7 +886,7 @@ bpn11515 «[Español](../es/prayers/#bpn11515)»
 
 -- Bahá'u'lláh
 
-bpn11516 «[Español](../es/prayers/#bpn11516)» 
+bpn11516 
 
 ----
 
@@ -895,7 +896,7 @@ bpn11516 «[Español](../es/prayers/#bpn11516)»
 
 -- Bahá'u'lláh
 
-bpn11517 «[Español](../es/prayers/#bpn11517)» 
+bpn11517 
 
 ----
 
@@ -905,7 +906,7 @@ bpn11517 «[Español](../es/prayers/#bpn11517)»
 
 -- Báb
 
-BB00522 «[Italiano](../it/prayers/#BB00522)» «[Español](../es/prayers/#BB00522)» «[English](../en/prayers/#BB00522)» 
+BB00522 «[Italiano](../it/prayers/#BB00522)» «[English](../en/prayers/#BB00522)» 
 
 ----
 
@@ -915,7 +916,7 @@ BB00522 «[Italiano](../it/prayers/#BB00522)» «[Español](../es/prayers/#BB005
 
 -- Abdu'l-Bahá
 
-bpn11520 «[Español](../es/prayers/#bpn11520)» 
+bpn11520 
 
 ----
 
@@ -929,7 +930,7 @@ bpn11520 «[Español](../es/prayers/#bpn11520)»
 
 -- Bahá'u'lláh
 
-bpn11521 «[Español](../es/prayers/#bpn11521)» 
+bpn11521 
 
 ----
 
@@ -939,7 +940,7 @@ bpn11521 «[Español](../es/prayers/#bpn11521)»
 
 -- Bahá'u'lláh
 
-bpn11522 «[Español](../es/prayers/#bpn11522)» 
+bpn11522 
 
 ----
 
@@ -949,7 +950,7 @@ bpn11522 «[Español](../es/prayers/#bpn11522)»
 
 -- Bahá'u'lláh
 
-bpn11531 «[Español](../es/prayers/#bpn11531)» 
+bpn11531 
 
 ----
 
@@ -959,7 +960,7 @@ bpn11531 «[Español](../es/prayers/#bpn11531)»
 
 -- Abdu'l-Bahá
 
-bpn11523 «[Español](../es/prayers/#bpn11523)» 
+bpn11523 
 
 ----
 
@@ -969,7 +970,7 @@ bpn11523 «[Español](../es/prayers/#bpn11523)»
 
 -- Abdu'l-Bahá
 
-AB11094 «[Nederlands](../nl/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» «[Esperanto](../eo/prayers/#AB11094)» «[English](../en/prayers/#AB11094)» 
+AB11094 «[Esperanto](../eo/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Nederlands](../nl/prayers/#AB11094)» «[English](../en/prayers/#AB11094)» 
 
 ----
 
@@ -979,7 +980,7 @@ Aunque algunas almas han pasado los días de su vida en la ignorancia y se han d
 
 -- Abdu'l-Bahá
 
-bpn11525 «[Español](../es/prayers/#bpn11525)» 
+bpn11525 
 
 ----
 
@@ -989,7 +990,7 @@ bpn11525 «[Español](../es/prayers/#bpn11525)»
 
 -- Abdu'l-Bahá
 
-bpn11526 «[Español](../es/prayers/#bpn11526)» 
+bpn11526 
 
 ----
 
@@ -999,7 +1000,7 @@ bpn11526 «[Español](../es/prayers/#bpn11526)»
 
 -- Abdu'l-Bahá
 
-bpn11527 «[Español](../es/prayers/#bpn11527)» 
+bpn11527 
 
 ----
 
@@ -1009,7 +1010,7 @@ bpn11527 «[Español](../es/prayers/#bpn11527)»
 
 -- Abdu'l-Bahá
 
-bpn11528 «[Español](../es/prayers/#bpn11528)» 
+bpn11528 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn11528 «[Español](../es/prayers/#bpn11528)»
 
 -- Abdu'l-Bahá
 
-bpn11529 «[Español](../es/prayers/#bpn11529)» 
+bpn11529 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn11529 «[Español](../es/prayers/#bpn11529)»
 
 -- Abdu'l-Bahá
 
-bpn11530 «[Español](../es/prayers/#bpn11530)» 
+bpn11530 
 
 ----
 
@@ -1043,7 +1044,7 @@ bpn11530 «[Español](../es/prayers/#bpn11530)»
 
 -- Bahá'u'lláh
 
-bpn11689 «[Español](../es/prayers/#bpn11689)» 
+bpn11689 
 
 ----
 
@@ -1057,7 +1058,7 @@ bpn11689 «[Español](../es/prayers/#bpn11689)»
 
 -- Bahá'u'lláh
 
-BH08363 «[Español](../es/prayers/#BH08363)» «[English](../en/prayers/#BH08363)» 
+BH08363 «[English](../en/prayers/#BH08363)» 
 
 ----
 
@@ -1067,7 +1068,7 @@ Gloria sea a Ti, oh Señor del mundo y Deseo de las naciones; oh Tú que Te has 
 
 -- Bahá'u'lláh
 
-bpn11533 «[Español](../es/prayers/#bpn11533)» 
+bpn11533 
 
 ----
 
@@ -1077,7 +1078,7 @@ Magnificado sea Tu nombre, oh mi Dios, por cuanto has manifestado el Día que es
 
 -- Bahá'u'lláh
 
-bpn11534 «[Español](../es/prayers/#bpn11534)» 
+bpn11534 
 
 ----
 
@@ -1087,7 +1088,7 @@ Di: ¡Magnificado sea Tu Nombre, oh Señor mi Dios! Te ruego, por Tu Nombre, med
 
 -- Bahá'u'lláh
 
-bpn11535 «[Español](../es/prayers/#bpn11535)» 
+bpn11535 
 
 ----
 
@@ -1097,7 +1098,7 @@ bpn11535 «[Español](../es/prayers/#bpn11535)»
 
 -- Bahá'u'lláh
 
-bpn11536 «[Español](../es/prayers/#bpn11536)» 
+bpn11536 
 
 ----
 
@@ -1107,7 +1108,7 @@ Alabado seas, oh Señor mi Dios, por guiarme al horizonte de Tu Revelación y ha
 
 -- Bahá'u'lláh
 
-bpn11537 «[Español](../es/prayers/#bpn11537)» 
+bpn11537 
 
 ----
 
@@ -1117,7 +1118,7 @@ Tú sabes, oh Dios, y eres mi testigo de que no albergo otro deseo en mi corazó
 
 -- Abdu'l-Bahá
 
-bpn11538 «[Español](../es/prayers/#bpn11538)» 
+bpn11538 
 
 ----
 
@@ -1127,7 +1128,7 @@ bpn11538 «[Español](../es/prayers/#bpn11538)»
 
 -- Abdu'l-Bahá
 
-bpn11539 «[Español](../es/prayers/#bpn11539)» 
+bpn11539 
 
 ----
 
@@ -1137,7 +1138,7 @@ Oh mi Dios, ayuda a Tu siervo a ensalzar la Palabra y a refutar lo que es ilusor
 
 -- Abdu'l-Bahá
 
-bpn11540 «[Español](../es/prayers/#bpn11540)» 
+bpn11540 
 
 ----
 
@@ -1147,7 +1148,7 @@ Tú me ves, oh mi Dios, inclinado en sumisión, humilde ante Tus mandamientos, s
 
 -- Abdu'l-Bahá
 
-bpn11541 «[Español](../es/prayers/#bpn11541)» 
+bpn11541 
 
 ----
 
@@ -1157,7 +1158,7 @@ bpn11541 «[Español](../es/prayers/#bpn11541)»
 
 -- Abdu'l-Bahá
 
-bpn11551 «[Español](../es/prayers/#bpn11551)» 
+bpn11551 
 
 ----
 
@@ -1167,7 +1168,7 @@ bpn11551 «[Español](../es/prayers/#bpn11551)»
 
 -- Abdu'l-Bahá
 
-bpn11550 «[Español](../es/prayers/#bpn11550)» 
+bpn11550 
 
 ----
 
@@ -1177,7 +1178,7 @@ bpn11550 «[Español](../es/prayers/#bpn11550)»
 
 -- Abdu'l-Bahá
 
-bpn11549 «[Español](../es/prayers/#bpn11549)» 
+bpn11549 
 
 ----
 
@@ -1187,7 +1188,7 @@ bpn11549 «[Español](../es/prayers/#bpn11549)»
 
 -- Abdu'l-Bahá
 
-bpn11548 «[Español](../es/prayers/#bpn11548)» 
+bpn11548 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn11548 «[Español](../es/prayers/#bpn11548)»
 
 -- Abdu'l-Bahá
 
-bpn11547 «[Español](../es/prayers/#bpn11547)» 
+bpn11547 
 
 ----
 
@@ -1207,7 +1208,7 @@ bpn11547 «[Español](../es/prayers/#bpn11547)»
 
 -- Abdu'l-Bahá
 
-bpn11546 «[Español](../es/prayers/#bpn11546)» 
+bpn11546 
 
 ----
 
@@ -1217,7 +1218,7 @@ bpn11546 «[Español](../es/prayers/#bpn11546)»
 
 -- Abdu'l-Bahá
 
-bpn11545 «[Español](../es/prayers/#bpn11545)» 
+bpn11545 
 
 ----
 
@@ -1227,7 +1228,7 @@ bpn11545 «[Español](../es/prayers/#bpn11545)»
 
 -- Abdu'l-Bahá
 
-bpn11544 «[Español](../es/prayers/#bpn11544)» 
+bpn11544 
 
 ----
 
@@ -1237,7 +1238,7 @@ bpn11544 «[Español](../es/prayers/#bpn11544)»
 
 -- Abdu'l-Bahá
 
-bpn11543 «[Español](../es/prayers/#bpn11543)» 
+bpn11543 
 
 ----
 
@@ -1247,7 +1248,7 @@ bpn11543 «[Español](../es/prayers/#bpn11543)»
 
 -- Abdu'l-Bahá
 
-bpn11542 «[Español](../es/prayers/#bpn11542)» 
+bpn11542 
 
 ----
 
@@ -1261,7 +1262,7 @@ bpn11542 «[Español](../es/prayers/#bpn11542)»
 
 -- Báb
 
-bpn11552 «[Español](../es/prayers/#bpn11552)» 
+bpn11552 
 
 ----
 
@@ -1271,7 +1272,7 @@ Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú dese
 
 -- Báb
 
-bpn11553 «[Español](../es/prayers/#bpn11553)» 
+bpn11553 
 
 ----
 
@@ -1281,7 +1282,7 @@ bpn11553 «[Español](../es/prayers/#bpn11553)»
 
 -- Abdu'l-Bahá
 
-bpn11554 «[Español](../es/prayers/#bpn11554)» 
+bpn11554 
 
 ----
 
@@ -1295,7 +1296,7 @@ bpn11554 «[Español](../es/prayers/#bpn11554)»
 
 -- Bahá'u'lláh
 
-bpn11555 «[Español](../es/prayers/#bpn11555)» 
+bpn11555 
 
 ----
 
@@ -1305,7 +1306,7 @@ bpn11555 «[Español](../es/prayers/#bpn11555)»
 
 -- Bahá'u'lláh
 
-BH07683 «[Nederlands](../nl/prayers/#BH07683)» «[Español](../es/prayers/#BH07683)» «[English](../en/prayers/#BH07683)» 
+BH07683 «[Nederlands](../nl/prayers/#BH07683)» «[English](../en/prayers/#BH07683)» 
 
 ----
 
@@ -1315,7 +1316,7 @@ BH07683 «[Nederlands](../nl/prayers/#BH07683)» «[Español](../es/prayers/#BH0
 
 -- Bahá'u'lláh
 
-bpn11557 «[Español](../es/prayers/#bpn11557)» 
+bpn11557 
 
 ----
 
@@ -1325,7 +1326,7 @@ bpn11557 «[Español](../es/prayers/#bpn11557)»
 
 -- Báb
 
-bpn11558 «[Español](../es/prayers/#bpn11558)» 
+bpn11558 
 
 ----
 
@@ -1335,7 +1336,7 @@ bpn11558 «[Español](../es/prayers/#bpn11558)»
 
 -- Abdu'l-Bahá
 
-bpn11559 «[Español](../es/prayers/#bpn11559)» 
+bpn11559 
 
 ----
 
@@ -1345,7 +1346,7 @@ Haz firmes nuestros pasos, oh Señor, en Tu sendero y fortalece nuestros corazon
 
 -- Abdu'l-Bahá
 
-AB06211 «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» «[English](../en/prayers/#AB06211)» 
+AB06211 «[Português (BR)](../pt/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[English](../en/prayers/#AB06211)» 
 
 ----
 
@@ -1355,7 +1356,7 @@ AB06211 «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/
 
 -- Abdu'l-Bahá
 
-bpn11561 «[Español](../es/prayers/#bpn11561)» 
+bpn11561 
 
 ----
 
@@ -1369,7 +1370,7 @@ bpn11561 «[Español](../es/prayers/#bpn11561)»
 
 -- Abdu'l-Bahá
 
-bpn11562 «[Español](../es/prayers/#bpn11562)» 
+bpn11562 
 
 ----
 
@@ -1383,7 +1384,7 @@ bpn11562 «[Español](../es/prayers/#bpn11562)»
 
 -- Bahá'u'lláh
 
-bpn11563 «[Español](../es/prayers/#bpn11563)» 
+bpn11563 
 
 ----
 
@@ -1393,7 +1394,7 @@ bpn11563 «[Español](../es/prayers/#bpn11563)»
 
 -- Abdu'l-Bahá
 
-bpn11564 «[Español](../es/prayers/#bpn11564)» 
+bpn11564 
 
 ----
 
@@ -1403,7 +1404,7 @@ bpn11564 «[Español](../es/prayers/#bpn11564)»
 
 -- Abdu'l-Bahá
 
-bpn11565 «[Español](../es/prayers/#bpn11565)» 
+bpn11565 
 
 ----
 
@@ -1413,7 +1414,7 @@ bpn11565 «[Español](../es/prayers/#bpn11565)»
 
 -- Abdu'l-Bahá
 
-bpn11566 «[Español](../es/prayers/#bpn11566)» 
+bpn11566 
 
 ----
 
@@ -1427,7 +1428,7 @@ Toda alabanza sea para Ti, oh mi Dios, Quien eres la Fuente de toda gloria y maj
 
 -- Bahá'u'lláh
 
-bpn11567 «[Español](../es/prayers/#bpn11567)» 
+bpn11567 
 
 ----
 
@@ -1437,7 +1438,7 @@ bpn11567 «[Español](../es/prayers/#bpn11567)»
 
 -- Bahá'u'lláh
 
-bpn11568 «[Español](../es/prayers/#bpn11568)» 
+bpn11568 
 
 ----
 
@@ -1447,7 +1448,7 @@ bpn11568 «[Español](../es/prayers/#bpn11568)»
 
 -- Abdu'l-Bahá
 
-bpn11569 «[Español](../es/prayers/#bpn11569)» 
+bpn11569 
 
 ----
 
@@ -1461,7 +1462,7 @@ bpn11569 «[Español](../es/prayers/#bpn11569)»
 
 -- Abdu'l-Bahá
 
-bpn11570 «[Español](../es/prayers/#bpn11570)» 
+bpn11570 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn11570 «[Español](../es/prayers/#bpn11570)»
 
 -- Abdu'l-Bahá
 
-bpn11571 «[Español](../es/prayers/#bpn11571)» 
+bpn11571 
 
 ----
 
@@ -1481,7 +1482,7 @@ bpn11571 «[Español](../es/prayers/#bpn11571)»
 
 -- Abdu'l-Bahá
 
-AB10492 «[Nederlands](../nl/prayers/#AB10492)» «[Español](../es/prayers/#AB10492)» 
+AB10492 «[Nederlands](../nl/prayers/#AB10492)» 
 
 ----
 
@@ -1491,7 +1492,7 @@ AB10492 «[Nederlands](../nl/prayers/#AB10492)» «[Español](../es/prayers/#AB1
 
 -- Abdu'l-Bahá
 
-bpn11573 «[Español](../es/prayers/#bpn11573)» 
+bpn11573 
 
 ----
 
@@ -1501,7 +1502,7 @@ bpn11573 «[Español](../es/prayers/#bpn11573)»
 
 -- Abdu'l-Bahá
 
-bpn11574 «[Español](../es/prayers/#bpn11574)» 
+bpn11574 
 
 ----
 
@@ -1511,7 +1512,7 @@ bpn11574 «[Español](../es/prayers/#bpn11574)»
 
 -- Abdu'l-Bahá
 
-bpn11575 «[Español](../es/prayers/#bpn11575)» 
+bpn11575 
 
 ----
 
@@ -1521,7 +1522,7 @@ bpn11575 «[Español](../es/prayers/#bpn11575)»
 
 -- Abdu'l-Bahá
 
-bpn11576 «[Español](../es/prayers/#bpn11576)» 
+bpn11576 
 
 ----
 
@@ -1535,7 +1536,7 @@ bpn11576 «[Español](../es/prayers/#bpn11576)»
 
 -- Abdu'l-Bahá
 
-bpn11595 «[Español](../es/prayers/#bpn11595)» 
+bpn11595 
 
 ----
 
@@ -1549,7 +1550,7 @@ bpn11595 «[Español](../es/prayers/#bpn11595)»
 
 -- Bahá'u'lláh
 
-bpn11581 «[Español](../es/prayers/#bpn11581)» 
+bpn11581 
 
 ----
 
@@ -1559,7 +1560,7 @@ bpn11581 «[Español](../es/prayers/#bpn11581)»
 
 -- Abdu'l-Bahá
 
-bpn11582 «[Español](../es/prayers/#bpn11582)» 
+bpn11582 
 
 ----
 
@@ -1569,7 +1570,7 @@ bpn11582 «[Español](../es/prayers/#bpn11582)»
 
 -- Abdu'l-Bahá
 
-bpn11583 «[Español](../es/prayers/#bpn11583)» 
+bpn11583 
 
 ----
 
@@ -1579,7 +1580,7 @@ bpn11583 «[Español](../es/prayers/#bpn11583)»
 
 -- Abdu'l-Bahá
 
-AB02596 «[Español](../es/prayers/#AB02596)» «[English](../en/prayers/#AB02596)» 
+AB02596 «[English](../en/prayers/#AB02596)» 
 
 ----
 
@@ -1593,7 +1594,7 @@ He despertado bajo Tu amparo, oh mi Dios, y corresponde a quien busca ese amparo
 
 -- Bahá'u'lláh
 
-bpn11577 «[Español](../es/prayers/#bpn11577)» 
+bpn11577 
 
 ----
 
@@ -1603,7 +1604,7 @@ Me he levantado esta mañana por Tu gracia, oh mi Dios, y he dejado mi hogar con
 
 -- Bahá'u'lláh
 
-bpn11578 «[Español](../es/prayers/#bpn11578)» 
+bpn11578 
 
 ----
 
@@ -1613,7 +1614,7 @@ Te doy gracias, oh mi Dios, por haberme despertado de mi sueño, por haberme tra
 
 -- Bahá'u'lláh
 
-bpn11579 «[Español](../es/prayers/#bpn11579)» 
+bpn11579 
 
 ----
 
@@ -1623,7 +1624,7 @@ bpn11579 «[Español](../es/prayers/#bpn11579)»
 
 -- Bahá'u'lláh
 
-bpn11580 «[Español](../es/prayers/#bpn11580)» 
+bpn11580 
 
 ----
 
@@ -1637,7 +1638,7 @@ bpn11580 «[Español](../es/prayers/#bpn11580)»
 
 -- Bahá'u'lláh
 
-BH09162 «[Nederlands](../nl/prayers/#BH09162)» «[Español](../es/prayers/#BH09162)» «[English](../en/prayers/#BH09162)» 
+BH09162 «[Nederlands](../nl/prayers/#BH09162)» «[English](../en/prayers/#BH09162)» 
 
 ----
 
@@ -1647,7 +1648,7 @@ BH09162 «[Nederlands](../nl/prayers/#BH09162)» «[Español](../es/prayers/#BH0
 
 -- Bahá'u'lláh
 
-BH09399 «[Español](../es/prayers/#BH09399)» «[English](../en/prayers/#BH09399)» 
+BH09399 «[English](../en/prayers/#BH09399)» 
 
 ----
 
@@ -1657,7 +1658,7 @@ BH09399 «[Español](../es/prayers/#BH09399)» «[English](../en/prayers/#BH0939
 
 -- Bahá'u'lláh
 
-bpn11587 «[Español](../es/prayers/#bpn11587)» 
+bpn11587 
 
 ----
 
@@ -1667,7 +1668,7 @@ bpn11587 «[Español](../es/prayers/#bpn11587)»
 
 -- Bahá'u'lláh
 
-bpn11588 «[Español](../es/prayers/#bpn11588)» 
+bpn11588 
 
 ----
 
@@ -1677,7 +1678,7 @@ Tú ves, oh mi Dios, cómo los males cometidos por aquellas de Tus criaturas que
 
 -- Bahá'u'lláh
 
-BH10231 «[Español](../es/prayers/#BH10231)» «[English](../en/prayers/#BH10231)» 
+BH10231 «[English](../en/prayers/#BH10231)» 
 
 ----
 
@@ -1687,7 +1688,7 @@ BH10231 «[Español](../es/prayers/#BH10231)» «[English](../en/prayers/#BH1023
 
 -- Bahá'u'lláh
 
-bpn11590 «[Español](../es/prayers/#bpn11590)» 
+bpn11590 
 
 ----
 
@@ -1697,7 +1698,7 @@ bpn11590 «[Español](../es/prayers/#bpn11590)»
 
 -- Abdu'l-Bahá
 
-bpn11591 «[Español](../es/prayers/#bpn11591)» 
+bpn11591 
 
 ----
 
@@ -1707,7 +1708,7 @@ bpn11591 «[Español](../es/prayers/#bpn11591)»
 
 -- Abdu'l-Bahá
 
-AB00553 «[Español](../es/prayers/#AB00553)» «[English](../en/prayers/#AB00553)» 
+AB00553 «[English](../en/prayers/#AB00553)» 
 
 ----
 
@@ -1717,7 +1718,7 @@ AB00553 «[Español](../es/prayers/#AB00553)» «[English](../en/prayers/#AB0055
 
 -- Abdu'l-Bahá
 
-bpn11593 «[Español](../es/prayers/#bpn11593)» 
+bpn11593 
 
 ----
 
@@ -1727,7 +1728,7 @@ bpn11593 «[Español](../es/prayers/#bpn11593)»
 
 -- Abdu'l-Bahá
 
-bpn11594 «[Español](../es/prayers/#bpn11594)» 
+bpn11594 
 
 ----
 
@@ -1741,7 +1742,7 @@ bpn11594 «[Español](../es/prayers/#bpn11594)»
 
 -- Abdu'l-Bahá
 
-bpn11692 «[Español](../es/prayers/#bpn11692)» 
+bpn11692 
 
 ----
 
@@ -1755,7 +1756,7 @@ Alabado seas, oh mi Dios, por haber ordenado Naw-Rúz como festividad para aquel
 
 -- Bahá'u'lláh
 
-bpn11693 «[Español](../es/prayers/#bpn11693)» 
+bpn11693 
 
 ----
 
@@ -1769,7 +1770,7 @@ bpn11693 «[Español](../es/prayers/#bpn11693)»
 
 -- Bahá'u'lláh
 
-bpn11596 «[Español](../es/prayers/#bpn11596)» 
+bpn11596 
 
 ----
 
@@ -1779,7 +1780,7 @@ bpn11596 «[Español](../es/prayers/#bpn11596)»
 
 -- Bahá'u'lláh
 
-BH09855 «[Español](../es/prayers/#BH09855)» «[English](../en/prayers/#BH09855)» 
+BH09855 «[English](../en/prayers/#BH09855)» 
 
 ----
 
@@ -1789,7 +1790,7 @@ En el Nombre de Tu Señor, el Creador, el Soberano, el Suficiente, el Exaltadís
 
 -- Báb
 
-bpn11519 «[Español](../es/prayers/#bpn11519)» 
+bpn11519 
 
 ----
 
@@ -1799,7 +1800,7 @@ bpn11519 «[Español](../es/prayers/#bpn11519)»
 
 -- Abdu'l-Bahá
 
-bpn11597 «[Español](../es/prayers/#bpn11597)» 
+bpn11597 
 
 ----
 
@@ -1809,7 +1810,7 @@ bpn11597 «[Español](../es/prayers/#bpn11597)»
 
 -- Abdu'l-Bahá
 
-bpn11598 «[Español](../es/prayers/#bpn11598)» 
+bpn11598 
 
 ----
 
@@ -1819,7 +1820,7 @@ bpn11598 «[Español](../es/prayers/#bpn11598)»
 
 -- Abdu'l-Bahá
 
-bpn11599 «[Español](../es/prayers/#bpn11599)» 
+bpn11599 
 
 ----
 
@@ -1829,7 +1830,7 @@ bpn11599 «[Español](../es/prayers/#bpn11599)»
 
 -- Abdu'l-Bahá
 
-bpn11600 «[Español](../es/prayers/#bpn11600)» 
+bpn11600 
 
 ----
 
@@ -1839,7 +1840,7 @@ bpn11600 «[Español](../es/prayers/#bpn11600)»
 
 -- Abdu'l-Bahá
 
-bpn11601 «[Español](../es/prayers/#bpn11601)» 
+bpn11601 
 
 ----
 
@@ -1849,7 +1850,7 @@ bpn11601 «[Español](../es/prayers/#bpn11601)»
 
 -- Abdu'l-Bahá
 
-bpn11602 «[Español](../es/prayers/#bpn11602)» 
+bpn11602 
 
 ----
 
@@ -1859,7 +1860,7 @@ bpn11602 «[Español](../es/prayers/#bpn11602)»
 
 -- Abdu'l-Bahá
 
-bpn11603 «[Español](../es/prayers/#bpn11603)» 
+bpn11603 
 
 ----
 
@@ -1869,7 +1870,7 @@ bpn11603 «[Español](../es/prayers/#bpn11603)»
 
 -- Abdu'l-Bahá
 
-AB10701 «[Nederlands](../nl/prayers/#AB10701)» «[Español](../es/prayers/#AB10701)» «[English](../en/prayers/#AB10701)» 
+AB10701 «[Nederlands](../nl/prayers/#AB10701)» «[English](../en/prayers/#AB10701)» 
 
 ----
 
@@ -1879,7 +1880,7 @@ AB10701 «[Nederlands](../nl/prayers/#AB10701)» «[Español](../es/prayers/#AB1
 
 -- Abdu'l-Bahá
 
-bpn11605 «[Español](../es/prayers/#bpn11605)» 
+bpn11605 
 
 ----
 
@@ -1889,7 +1890,7 @@ bpn11605 «[Español](../es/prayers/#bpn11605)»
 
 -- Abdu'l-Bahá
 
-bpn11606 «[Español](../es/prayers/#bpn11606)» 
+bpn11606 
 
 ----
 
@@ -1899,7 +1900,7 @@ bpn11606 «[Español](../es/prayers/#bpn11606)»
 
 -- Abdu'l-Bahá
 
-bpn11607 «[Español](../es/prayers/#bpn11607)» 
+bpn11607 
 
 ----
 
@@ -1909,7 +1910,7 @@ bpn11607 «[Español](../es/prayers/#bpn11607)»
 
 -- Abdu'l-Bahá
 
-bpn11608 «[Español](../es/prayers/#bpn11608)» 
+bpn11608 
 
 ----
 
@@ -1919,7 +1920,7 @@ bpn11608 «[Español](../es/prayers/#bpn11608)»
 
 -- Abdu'l-Bahá
 
-bpn11609 «[Español](../es/prayers/#bpn11609)» 
+bpn11609 
 
 ----
 
@@ -1929,7 +1930,7 @@ bpn11609 «[Español](../es/prayers/#bpn11609)»
 
 -- Abdu'l-Bahá
 
-bpn11610 «[Español](../es/prayers/#bpn11610)» 
+bpn11610 
 
 ----
 
@@ -1939,7 +1940,7 @@ bpn11610 «[Español](../es/prayers/#bpn11610)»
 
 -- Abdu'l-Bahá
 
-bpn11611 «[Español](../es/prayers/#bpn11611)» 
+bpn11611 
 
 ----
 
@@ -1949,7 +1950,7 @@ bpn11611 «[Español](../es/prayers/#bpn11611)»
 
 -- Abdu'l-Bahá
 
-bpn11612 «[Español](../es/prayers/#bpn11612)» 
+bpn11612 
 
 ----
 
@@ -1959,7 +1960,7 @@ bpn11612 «[Español](../es/prayers/#bpn11612)»
 
 -- Abdu'l-Bahá
 
-bpn11613 «[Español](../es/prayers/#bpn11613)» 
+bpn11613 
 
 ----
 
@@ -1969,7 +1970,7 @@ bpn11613 «[Español](../es/prayers/#bpn11613)»
 
 -- Abdu'l-Bahá
 
-bpn11614 «[Español](../es/prayers/#bpn11614)» 
+bpn11614 
 
 ----
 
@@ -1979,7 +1980,7 @@ bpn11614 «[Español](../es/prayers/#bpn11614)»
 
 -- Abdu'l-Bahá
 
-bpn11615 «[Español](../es/prayers/#bpn11615)» 
+bpn11615 
 
 ----
 
@@ -1989,7 +1990,7 @@ bpn11615 «[Español](../es/prayers/#bpn11615)»
 
 -- Abdu'l-Bahá
 
-bpn11616 «[Español](../es/prayers/#bpn11616)» 
+bpn11616 
 
 ----
 
@@ -1999,7 +2000,7 @@ bpn11616 «[Español](../es/prayers/#bpn11616)»
 
 -- Abdu'l-Bahá
 
-bpn11618 «[Español](../es/prayers/#bpn11618)» 
+bpn11618 
 
 ----
 
@@ -2009,7 +2010,7 @@ bpn11618 «[Español](../es/prayers/#bpn11618)»
 
 -- Abdu'l-Bahá
 
-bpn11619 «[Español](../es/prayers/#bpn11619)» 
+bpn11619 
 
 ----
 
@@ -2023,7 +2024,7 @@ bpn11619 «[Español](../es/prayers/#bpn11619)»
 
 -- Bahá'u'lláh
 
-bpn11620 «[Español](../es/prayers/#bpn11620)» 
+bpn11620 
 
 ----
 
@@ -2033,7 +2034,7 @@ bpn11620 «[Español](../es/prayers/#bpn11620)»
 
 -- Bahá'u'lláh
 
-bpn11621 «[Español](../es/prayers/#bpn11621)» 
+bpn11621 
 
 ----
 
@@ -2043,7 +2044,7 @@ bpn11621 «[Español](../es/prayers/#bpn11621)»
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Deutsch](../de/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» 
+AB06528MID «[Esperanto](../eo/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» 
 
 ----
 
@@ -2057,7 +2058,7 @@ AB06528MID «[Deutsch](../de/prayers/#AB06528MID)» «[Italiano](../it/prayers/#
 
 -- Bahá'u'lláh
 
-bpn11623 «[Español](../es/prayers/#bpn11623)» 
+bpn11623 
 
 ----
 
@@ -2067,7 +2068,7 @@ bpn11623 «[Español](../es/prayers/#bpn11623)»
 
 -- Bahá'u'lláh
 
-bpn11624 «[Español](../es/prayers/#bpn11624)» 
+bpn11624 
 
 ----
 
@@ -2081,7 +2082,7 @@ bpn11624 «[Español](../es/prayers/#bpn11624)»
 
 -- Bahá'u'lláh
 
-bpn11453 «[Español](../es/prayers/#bpn11453)» 
+bpn11453 
 
 ----
 
@@ -2095,7 +2096,7 @@ bpn11453 «[Español](../es/prayers/#bpn11453)»
 
 -- Bahá'u'lláh
 
-bpn11455 «[Español](../es/prayers/#bpn11455)» 
+bpn11455 
 
 ----
 
@@ -2109,7 +2110,7 @@ bpn11455 «[Español](../es/prayers/#bpn11455)»
 
 -- Bahá'u'lláh
 
-bpn11454 «[Español](../es/prayers/#bpn11454)» 
+bpn11454 
 
 ----
 
@@ -2123,7 +2124,7 @@ Tú me ves, oh mi Señor, con el rostro vuelto hacia el cielo de Tu munificencia
 
 -- Bahá'u'lláh
 
-bpn11625 «[Español](../es/prayers/#bpn11625)» 
+bpn11625 
 
 ----
 
@@ -2133,7 +2134,7 @@ Soy aquel, oh mi Señor, que ha vuelto el rostro hacia Ti y ha fijado su esperan
 
 -- Bahá'u'lláh
 
-BH08600FAC «[Nederlands](../nl/prayers/#BH08600FAC)» «[Español](../es/prayers/#BH08600FAC)» «[English](../en/prayers/#BH08600FAC)» 
+BH08600FAC «[Nederlands](../nl/prayers/#BH08600FAC)» «[English](../en/prayers/#BH08600FAC)» 
 
 ----
 
@@ -2143,7 +2144,7 @@ BH08600FAC «[Nederlands](../nl/prayers/#BH08600FAC)» «[Español](../es/prayer
 
 -- Bahá'u'lláh
 
-bpn11627 «[Español](../es/prayers/#bpn11627)» 
+bpn11627 
 
 ----
 
@@ -2153,7 +2154,7 @@ bpn11627 «[Español](../es/prayers/#bpn11627)»
 
 -- Báb
 
-bpn11628 «[Español](../es/prayers/#bpn11628)» 
+bpn11628 
 
 ----
 
@@ -2163,7 +2164,7 @@ bpn11628 «[Español](../es/prayers/#bpn11628)»
 
 -- Báb
 
-bpn11629 «[Español](../es/prayers/#bpn11629)» 
+bpn11629 
 
 ----
 
@@ -2173,7 +2174,7 @@ Gloria sea a Ti, oh Dios. ¿Cómo puedo hacer mención de Ti, en tanto que Tú e
 
 -- Báb
 
-bpn11630 «[Español](../es/prayers/#bpn11630)» 
+bpn11630 
 
 ----
 
@@ -2183,7 +2184,7 @@ Te ruego, oh mi Señor, que me perdones por toda mención que no sea la mención
 
 -- Báb
 
-bpn11631 «[Español](../es/prayers/#bpn11631)» 
+bpn11631 
 
 ----
 
@@ -2193,7 +2194,7 @@ Soy consciente, oh Señor, de que mis transgresiones me han cubierto el rostro d
 
 -- Báb
 
-bpn11632 «[Español](../es/prayers/#bpn11632)» 
+bpn11632 
 
 ----
 
@@ -2203,7 +2204,7 @@ bpn11632 «[Español](../es/prayers/#bpn11632)»
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[Français](../fr/prayers/#ABU0030SHE)» «[Español](../es/prayers/#ABU0030SHE)» «[Esperanto](../eo/prayers/#ABU0030SHE)» «[English](../en/prayers/#ABU0030SHE)» 
+ABU0030SHE «[Esperanto](../eo/prayers/#ABU0030SHE)» «[Français](../fr/prayers/#ABU0030SHE)» «[English](../en/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -2217,7 +2218,7 @@ ABU0030SHE «[Français](../fr/prayers/#ABU0030SHE)» «[Español](../es/prayers
 
 -- Bahá'u'lláh
 
-BH10578 «[Italiano](../it/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[English](../en/prayers/#BH10578)» 
+BH10578 «[Esperanto](../eo/prayers/#BH10578)» «[Italiano](../it/prayers/#BH10578)» «[English](../en/prayers/#BH10578)» 
 
 ----
 
@@ -2227,7 +2228,7 @@ BH10578 «[Italiano](../it/prayers/#BH10578)» «[Español](../es/prayers/#BH105
 
 -- Bahá'u'lláh
 
-bpn11635 «[Español](../es/prayers/#bpn11635)» 
+bpn11635 
 
 ----
 
@@ -2237,7 +2238,7 @@ bpn11635 «[Español](../es/prayers/#bpn11635)»
 
 -- Bahá'u'lláh
 
-bpn11636 «[Español](../es/prayers/#bpn11636)» 
+bpn11636 
 
 ----
 
@@ -2247,7 +2248,7 @@ bpn11636 «[Español](../es/prayers/#bpn11636)»
 
 -- Bahá'u'lláh
 
-bpn11637 «[Español](../es/prayers/#bpn11637)» 
+bpn11637 
 
 ----
 
@@ -2257,7 +2258,7 @@ bpn11637 «[Español](../es/prayers/#bpn11637)»
 
 -- Bahá'u'lláh
 
-BH05801 «[Español](../es/prayers/#BH05801)» «[English](../en/prayers/#BH05801)» 
+BH05801 «[English](../en/prayers/#BH05801)» 
 
 ----
 
@@ -2267,7 +2268,7 @@ BH05801 «[Español](../es/prayers/#BH05801)» «[English](../en/prayers/#BH0580
 
 -- Bahá'u'lláh
 
-bpn11639 «[Español](../es/prayers/#bpn11639)» 
+bpn11639 
 
 ----
 
@@ -2277,7 +2278,7 @@ bpn11639 «[Español](../es/prayers/#bpn11639)»
 
 -- Bahá'u'lláh
 
-bpn11640 «[Español](../es/prayers/#bpn11640)» 
+bpn11640 
 
 ----
 
@@ -2287,7 +2288,7 @@ bpn11640 «[Español](../es/prayers/#bpn11640)»
 
 -- Báb
 
-bpn11641 «[Español](../es/prayers/#bpn11641)» 
+bpn11641 
 
 ----
 
@@ -2297,7 +2298,7 @@ bpn11641 «[Español](../es/prayers/#bpn11641)»
 
 -- Báb
 
-bpn11642 «[Español](../es/prayers/#bpn11642)» 
+bpn11642 
 
 ----
 
@@ -2307,7 +2308,7 @@ Decreta para mí, oh mi Señor, y para aquellos que creen en Ti lo que a Tu juic
 
 -- Báb
 
-bpn11643 «[Español](../es/prayers/#bpn11643)» 
+bpn11643 
 
 ----
 
@@ -2317,7 +2318,7 @@ bpn11643 «[Español](../es/prayers/#bpn11643)»
 
 -- Abdu'l-Bahá
 
-AB00001SHI «[Español](../es/prayers/#AB00001SHI)» «[Esperanto](../eo/prayers/#AB00001SHI)» «[English](../en/prayers/#AB00001SHI)» 
+AB00001SHI «[Esperanto](../eo/prayers/#AB00001SHI)» «[English](../en/prayers/#AB00001SHI)» 
 
 ----
 
@@ -2327,7 +2328,7 @@ AB00001SHI «[Español](../es/prayers/#AB00001SHI)» «[Esperanto](../eo/prayers
 
 -- Abdu'l-Bahá
 
-bpn11645 «[Español](../es/prayers/#bpn11645)» 
+bpn11645 
 
 ----
 
@@ -2337,7 +2338,7 @@ bpn11645 «[Español](../es/prayers/#bpn11645)»
 
 -- Abdu'l-Bahá
 
-bpn11646 «[Español](../es/prayers/#bpn11646)» 
+bpn11646 
 
 ----
 
@@ -2347,7 +2348,7 @@ bpn11646 «[Español](../es/prayers/#bpn11646)»
 
 -- Abdu'l-Bahá
 
-bpn11647 «[Español](../es/prayers/#bpn11647)» 
+bpn11647 
 
 ----
 
@@ -2361,7 +2362,7 @@ bpn11647 «[Español](../es/prayers/#bpn11647)»
 
 -- Bahá'u'lláh
 
-bpn11648 «[Español](../es/prayers/#bpn11648)» 
+bpn11648 
 
 ----
 
@@ -2371,7 +2372,7 @@ bpn11648 «[Español](../es/prayers/#bpn11648)»
 
 -- Bahá'u'lláh
 
-bpn11650 «[Español](../es/prayers/#bpn11650)» 
+bpn11650 
 
 ----
 
@@ -2381,7 +2382,7 @@ bpn11650 «[Español](../es/prayers/#bpn11650)»
 
 -- Bahá'u'lláh
 
-bpn11651 «[Español](../es/prayers/#bpn11651)» 
+bpn11651 
 
 ----
 
@@ -2391,7 +2392,7 @@ Disipa mi pena por Tu munificencia y generosidad, oh Dios, mi Dios, y destierra 
 
 -- Bahá'u'lláh
 
-bpn11652 «[Español](../es/prayers/#bpn11652)» 
+bpn11652 
 
 ----
 
@@ -2401,7 +2402,7 @@ bpn11652 «[Español](../es/prayers/#bpn11652)»
 
 -- Bahá'u'lláh
 
-bpn11653 «[Español](../es/prayers/#bpn11653)» 
+bpn11653 
 
 ----
 
@@ -2411,7 +2412,7 @@ bpn11653 «[Español](../es/prayers/#bpn11653)»
 
 -- Bahá'u'lláh
 
-bpn11658 «[Español](../es/prayers/#bpn11658)» 
+bpn11658 
 
 ----
 
@@ -2421,7 +2422,7 @@ bpn11658 «[Español](../es/prayers/#bpn11658)»
 
 -- Bahá'u'lláh
 
-BH02524 «[Português (BR)](../pt/prayers/#BH02524)» «[Español](../es/prayers/#BH02524)» «[English](../en/prayers/#BH02524)» 
+BH02524 «[Português (BR)](../pt/prayers/#BH02524)» «[English](../en/prayers/#BH02524)» 
 
 ----
 
@@ -2431,7 +2432,7 @@ BH02524 «[Português (BR)](../pt/prayers/#BH02524)» «[Español](../es/prayers
 
 -- Báb
 
-bpn11654 «[Español](../es/prayers/#bpn11654)» 
+bpn11654 
 
 ----
 
@@ -2441,7 +2442,7 @@ bpn11654 «[Español](../es/prayers/#bpn11654)»
 
 -- Báb
 
-bpn11655 «[Español](../es/prayers/#bpn11655)» 
+bpn11655 
 
 ----
 
@@ -2451,7 +2452,7 @@ Tú bien sabes, oh mi Dios, que las tribulaciones han llovido sobre mí desde to
 
 -- Báb
 
-bpn11657 «[Español](../es/prayers/#bpn11657)» 
+bpn11657 
 
 ----
 
@@ -2461,7 +2462,7 @@ bpn11657 «[Español](../es/prayers/#bpn11657)»
 
 -- Báb
 
-bpn11656 «[Español](../es/prayers/#bpn11656)» 
+bpn11656 
 
 ----
 
@@ -2475,7 +2476,7 @@ bpn11656 «[Español](../es/prayers/#bpn11656)»
 
 -- Abdu'l-Bahá
 
-bpn11659 «[Español](../es/prayers/#bpn11659)» 
+bpn11659 
 
 ----
 
@@ -2485,7 +2486,7 @@ bpn11659 «[Español](../es/prayers/#bpn11659)»
 
 -- Abdu'l-Bahá
 
-ABU0070GAT «[Español](../es/prayers/#ABU0070GAT)» «[Esperanto](../eo/prayers/#ABU0070GAT)» «[English](../en/prayers/#ABU0070GAT)» 
+ABU0070GAT «[Esperanto](../eo/prayers/#ABU0070GAT)» «[English](../en/prayers/#ABU0070GAT)» 
 
 ----
 
@@ -2495,7 +2496,7 @@ ABU0070GAT «[Español](../es/prayers/#ABU0070GAT)» «[Esperanto](../eo/prayers
 
 -- Abdu'l-Bahá
 
-bpn11661 «[Español](../es/prayers/#bpn11661)» 
+bpn11661 
 
 ----
 
@@ -2505,7 +2506,7 @@ bpn11661 «[Español](../es/prayers/#bpn11661)»
 
 -- Abdu'l-Bahá
 
-bpn11662 «[Español](../es/prayers/#bpn11662)» 
+bpn11662 
 
 ----
 
@@ -2515,7 +2516,7 @@ bpn11662 «[Español](../es/prayers/#bpn11662)»
 
 -- Abdu'l-Bahá
 
-bpn11663 «[Español](../es/prayers/#bpn11663)» 
+bpn11663 
 
 ----
 
@@ -2525,7 +2526,7 @@ bpn11663 «[Español](../es/prayers/#bpn11663)»
 
 -- Abdu'l-Bahá
 
-bpn11664 «[Español](../es/prayers/#bpn11664)» 
+bpn11664 
 
 ----
 
@@ -2539,7 +2540,7 @@ bpn11664 «[Español](../es/prayers/#bpn11664)»
 
 -- Bahá'u'lláh
 
-bpn11694 «[Español](../es/prayers/#bpn11694)» 
+bpn11694 
 
 ----
 
@@ -2553,7 +2554,7 @@ bpn11694 «[Español](../es/prayers/#bpn11694)»
 
 -- Bahá'u'lláh
 
-bpn11697 «[Español](../es/prayers/#bpn11697)» 
+bpn11697 
 
 ----
 
@@ -2563,7 +2564,7 @@ bpn11697 «[Español](../es/prayers/#bpn11697)»
 
 -- Abdu'l-Bahá
 
-bpn11698 «[Español](../es/prayers/#bpn11698)» 
+bpn11698 
 
 ----
 
@@ -2577,7 +2578,7 @@ En el Nombre de Dios, el Más Antiguo, el Más Grande.En verdad, los corazones d
 
 -- Bahá'u'lláh
 
-bpn11695 «[Español](../es/prayers/#bpn11695)» 
+bpn11695 
 
 ----
 
@@ -2591,7 +2592,7 @@ bpn11695 «[Español](../es/prayers/#bpn11695)»
 
 -- Bahá'u'lláh
 
-bpn11696 «[Español](../es/prayers/#bpn11696)» 
+bpn11696 
 
 ----
 
@@ -2605,7 +2606,7 @@ Tú ves, oh mi Dios, cómo Tus amados han sido rodeados por los rebeldes de entr
 
 -- Bahá'u'lláh
 
-bpn11665 «[Español](../es/prayers/#bpn11665)» 
+bpn11665 
 
 ----
 
@@ -2615,7 +2616,7 @@ bpn11665 «[Español](../es/prayers/#bpn11665)»
 
 -- Bahá'u'lláh
 
-BH11278RIV «[Español](../es/prayers/#BH11278RIV)» «[English](../en/prayers/#BH11278RIV)» 
+BH11278RIV «[English](../en/prayers/#BH11278RIV)» 
 
 ----
 
@@ -2625,7 +2626,7 @@ No permitas, oh Dios, mi Dios, que me quede alejado del cielo de Tus dádivas y 
 
 -- Bahá'u'lláh
 
-bpn11667 «[Español](../es/prayers/#bpn11667)» 
+bpn11667 
 
 ----
 
@@ -2635,7 +2636,7 @@ bpn11667 «[Español](../es/prayers/#bpn11667)»
 
 -- Báb
 
-BB00543VIC «[Nederlands](../nl/prayers/#BB00543VIC)» «[Español](../es/prayers/#BB00543VIC)» «[English](../en/prayers/#BB00543VIC)» 
+BB00543VIC «[Nederlands](../nl/prayers/#BB00543VIC)» «[English](../en/prayers/#BB00543VIC)» 
 
 ----
 
@@ -2645,7 +2646,7 @@ BB00543VIC «[Nederlands](../nl/prayers/#BB00543VIC)» «[Español](../es/prayer
 
 -- Báb
 
-bpn11669 «[Español](../es/prayers/#bpn11669)» 
+bpn11669 
 
 ----
 
@@ -2655,7 +2656,7 @@ bpn11669 «[Español](../es/prayers/#bpn11669)»
 
 -- Báb
 
-bpn11670 «[Español](../es/prayers/#bpn11670)» 
+bpn11670 
 
 ----
 
@@ -2665,7 +2666,7 @@ Gloria sea a Ti, oh Señor, Tú que has traído a la existencia todas las cosas 
 
 -- Báb
 
-BB00004REN «[Español](../es/prayers/#BB00004REN)» «[Esperanto](../eo/prayers/#BB00004REN)» «[English](../en/prayers/#BB00004REN)» 
+BB00004REN «[Esperanto](../eo/prayers/#BB00004REN)» «[English](../en/prayers/#BB00004REN)» 
 
 ----
 
@@ -2675,7 +2676,7 @@ BB00004REN «[Español](../es/prayers/#BB00004REN)» «[Esperanto](../eo/prayers
 
 -- Abdu'l-Bahá
 
-bpn11672 «[Español](../es/prayers/#bpn11672)» 
+bpn11672 
 
 ----
 
@@ -2685,7 +2686,7 @@ bpn11672 «[Español](../es/prayers/#bpn11672)»
 
 -- Abdu'l-Bahá
 
-bpn11673 «[Español](../es/prayers/#bpn11673)» 
+bpn11673 
 
 ----
 
@@ -2699,7 +2700,7 @@ bpn11673 «[Español](../es/prayers/#bpn11673)»
 
 -- Bahá'u'lláh
 
-bpn11674 «[Español](../es/prayers/#bpn11674)» 
+bpn11674 
 
 ----
 
@@ -2713,7 +2714,7 @@ bpn11674 «[Español](../es/prayers/#bpn11674)»
 
 -- Bahá'u'lláh
 
-bpn11690 «[Español](../es/prayers/#bpn11690)» 
+bpn11690 
 
 ----
 
@@ -2723,7 +2724,7 @@ bpn11690 «[Español](../es/prayers/#bpn11690)»
 
 -- Bahá'u'lláh
 
-bpn11691 «[Español](../es/prayers/#bpn11691)» 
+bpn11691 
 
 ----
 

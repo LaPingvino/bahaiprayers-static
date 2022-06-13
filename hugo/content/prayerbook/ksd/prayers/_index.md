@@ -5,6 +5,7 @@ tags = ['lang=ksd', 'prayerbook']
 
 
 
+
 [A NIARING AIRA UMANA MINAT](#A+NIARING+AIRA+UMANA+MINAT)
 
 [A NIARING UPI RA MARAMARAVUT](#A+NIARING+UPI+RA+MARAMARAVUT)
@@ -35,7 +36,7 @@ tags = ['lang=ksd', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12991 «[Kuanua](../ksd/prayers/#bpn12991)» 
+bpn12991 
 
 ----
 
@@ -45,7 +46,7 @@ bpn12991 «[Kuanua](../ksd/prayers/#bpn12991)»
 
 -- Bahá'u'lláh
 
-bpn12992 «[Kuanua](../ksd/prayers/#bpn12992)» 
+bpn12992 
 
 ----
 
@@ -59,7 +60,7 @@ I - ia ra Luluai nina na takvue ra umana vartup?  Da vatangia: Pite pa u a Lulua
 
 -- Báb
 
-bpn12985 «[Kuanua](../ksd/prayers/#bpn12985)» 
+bpn12985 
 
 ----
 
@@ -73,7 +74,7 @@ Kaugu Luluai! Kaugu Luluai! Viguve ra buai kaum umana Kudakudar, ma vakapa diat 
 
 -- Bahá'u'lláh
 
-bpn12986 «[Kuanua](../ksd/prayers/#bpn12986)» 
+bpn12986 
 
 ----
 
@@ -87,7 +88,7 @@ U l.uluai. mataure iau, balaure iau; mal iau dari ra birao na lam ma a matotona 
 
 -- Abdu'l-Bahá
 
-bpn12990 «[Kuanua](../ksd/prayers/#bpn12990)» 
+bpn12990 
 
 ----
 
@@ -101,7 +102,7 @@ A ruru tam ra Luluai, U Kaugu Luluai I Atuna gon, Koum bul kudar ma Koum vavina 
 
 -- Abdu'l-Bahá
 
-bpn12989 «[Kuanua](../ksd/prayers/#bpn12989)» 
+bpn12989 
 
 ----
 
@@ -115,7 +116,7 @@ A iangim ia kaugu varvalagar, U kaugu Luluai,  ma Kaum varvanuknuk ia ra gu varv
 
 -- Bahá'u'lláh
 
-bpn12987 «[Kuanua](../ksd/prayers/#bpn12987)» 
+bpn12987 
 
 ----
 
@@ -129,7 +130,7 @@ bpn12987 «[Kuanua](../ksd/prayers/#bpn12987)»
 
 -- Abdu'l-Bahá
 
-bpn12993 «[Kuanua](../ksd/prayers/#bpn12993)» 
+bpn12993 
 
 ----
 
@@ -143,7 +144,7 @@ bpn12993 «[Kuanua](../ksd/prayers/#bpn12993)»
 
 -- Bahá'u'lláh
 
-bpn12984 «[Kuanua](../ksd/prayers/#bpn12984)» 
+bpn12984 
 
 ----
 
@@ -157,7 +158,7 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 
 -- Bahá'u'lláh
 
-bpn12983 «[Kuanua](../ksd/prayers/#bpn12983)» 
+bpn12983 
 
 ----
 
@@ -171,7 +172,7 @@ bpn12983 «[Kuanua](../ksd/prayers/#bpn12983)»
 
 -- Bahá'u'lláh
 
-bpn12988 «[Kuanua](../ksd/prayers/#bpn12988)» 
+bpn12988 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=sw', 'prayerbook']
 
 
 
+
 [ALFAJIRI](#ALFAJIRI)
 
 [ASUBUHI](#ASUBUHI)
@@ -39,7 +40,7 @@ Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nim
 
 -- Bahá'u'lláh
 
-bpn11208 «[Kiswahili](../sw/prayers/#bpn11208)» 
+bpn11208 
 
 ----
 
@@ -53,7 +54,7 @@ Nimeamka katika himaya Yako, Ee Mungu wangu, na imembidi Yule ambaye anatafuta h
 
 -- Bahá'u'lláh
 
-bpn11209 «[Kiswahili](../sw/prayers/#bpn11209)» 
+bpn11209 
 
 ----
 
@@ -63,7 +64,7 @@ Nimeamka asubuhi hii kwa rehema Yako, Ee Mungu wangu, na nimeacha maskani yangu 
 
 -- Bahá'u'lláh
 
-bpn11210 «[Kiswahili](../sw/prayers/#bpn11210)» 
+bpn11210 
 
 ----
 
@@ -77,7 +78,7 @@ Utukufu uwe Kwako Ee Mungu, kwa ajili ya Ufunuo wa Pendo lako kwa wanadamu!  Ee 
 
 -- Bahá'u'lláh
 
-bpn11223 «[Kiswahili](../sw/prayers/#bpn11223)» 
+bpn11223 
 
 ----
 
@@ -87,7 +88,7 @@ Ee Mungu wangu!  Ee Mungu wangu!  Unganisha mioyo ya watumishi Wako na uwafunuli
 
 -- Bahá'u'lláh
 
-bpn11224 «[Kiswahili](../sw/prayers/#bpn11224)» 
+bpn11224 
 
 ----
 
@@ -97,7 +98,7 @@ Sema:  Ee Mungu, Mungu wangu!  Vika kichwa changu kwa taji la haki na paji la us
 
 -- Bahá'u'lláh
 
-bpn11225 «[Kiswahili](../sw/prayers/#bpn11225)» 
+bpn11225 
 
 ----
 
@@ -107,7 +108,7 @@ Ee, Mungu wangu!  Nakuomba kwa Jina Lako tukufu kabisa, kunisaidia katika lile l
 
 -- Bahá'u'lláh
 
-bpn11226 «[Kiswahili](../sw/prayers/#bpn11226)» 
+bpn11226 
 
 ----
 
@@ -117,7 +118,7 @@ Mungu jalia kwamba nuru ya umoja iweze kufunika dunia yote, na kwamba mhuri, “
 
 -- Bahá'u'lláh
 
-bpn11227 «[Kiswahili](../sw/prayers/#bpn11227)» 
+bpn11227 
 
 ----
 
@@ -127,7 +128,7 @@ Kuna mwondoa shida yeyote isipokuwa Mungu?  Sema: Mungu asifiwe!  Yeye ni Mungu!
 
 -- Báb
 
-bpn11228 «[Kiswahili](../sw/prayers/#bpn11228)» 
+bpn11228 
 
 ----
 
@@ -137,7 +138,7 @@ Ee Mungu, changamsha na uifurahishe roho yangu.  Takasa moyo wangu.  Ng’arisha
 
 -- Abdu'l-Bahá
 
-bpn11229 «[Kiswahili](../sw/prayers/#bpn11229)» 
+bpn11229 
 
 ----
 
@@ -147,7 +148,7 @@ Ee Bwana wangu, Mpendwa wangu, Haja yangu!  Nifanye rafiki katika ukiwa wangu na
 
 -- Abdu'l-Bahá
 
-bpn11230 «[Kiswahili](../sw/prayers/#bpn11230)» 
+bpn11230 
 
 ----
 
@@ -157,7 +158,7 @@ Ee Bwana Mungu wangu!  Wasaidie wapendwa Wako kuwa imara katika Imani Yako, kute
 
 -- Abdu'l-Bahá
 
-bpn11231 «[Kiswahili](../sw/prayers/#bpn11231)» 
+bpn11231 
 
 ----
 
@@ -167,7 +168,7 @@ Bwana, sisi tu watu wa kuhurumiwa, utupe kibali Chako; tu maskini, utupe fungu k
 
 -- Abdu'l-Bahá
 
-bpn11232 «[Kiswahili](../sw/prayers/#bpn11232)» 
+bpn11232 
 
 ----
 
@@ -177,7 +178,7 @@ Ee Bwana!  Sisi tu wanyonge; tuimarishe.  Ee Mungu! Tu wajinga; tufanye wajuzi. 
 
 -- Abdu'l-Bahá
 
-bpn11233 «[Kiswahili](../sw/prayers/#bpn11233)» 
+bpn11233 
 
 ----
 
@@ -187,7 +188,7 @@ Ee Mungu, Mungu wangu!  Wakinge watumishi Wako waaminifu na maovu ya tamaa walin
 
 -- Abdu'l-Bahá
 
-bpn11234 «[Kiswahili](../sw/prayers/#bpn11234)» 
+bpn11234 
 
 ----
 
@@ -197,7 +198,7 @@ Ewe Mungu!  Ewe Mungu!  Huyu ni ndege aliyevunjika mabawa yake na kuruka kwake n
 
 -- Abdu'l-Bahá
 
-bpn11235 «[Kiswahili](../sw/prayers/#bpn11235)» 
+bpn11235 
 
 ----
 
@@ -211,7 +212,7 @@ bpn11235 «[Kiswahili](../sw/prayers/#bpn11235)»
 
 -- Abdu'l-Bahá
 
-bpn11215 «[Kiswahili](../sw/prayers/#bpn11215)» 
+bpn11215 
 
 ----
 
@@ -225,7 +226,7 @@ Ee Mungu wangu, Bwana wangu, Lengo la shauku yangu!  Mtumishi wako huyu, atazami
 
 -- Bahá'u'lláh
 
-bpn11211 «[Kiswahili](../sw/prayers/#bpn11211)» 
+bpn11211 
 
 ----
 
@@ -239,7 +240,7 @@ Jina Lako ndilo kuponywa kwangu, Ee Mungu wangu, na kukukumbuka Wewe ni dawa yan
 
 -- Bahá'u'lláh
 
-bpn11214 «[Kiswahili](../sw/prayers/#bpn11214)» 
+bpn11214 
 
 ----
 
@@ -253,7 +254,7 @@ bpn11214 «[Kiswahili](../sw/prayers/#bpn11214)»
 
 -- Abdu'l-Bahá
 
-bpn11220 «[Kiswahili](../sw/prayers/#bpn11220)» 
+bpn11220 
 
 ----
 
@@ -267,7 +268,7 @@ Sifa iwe Kwako, Ee Bwana Mungu wangu!  Nakusihi Wewe kwa Ufunuo huu ambao kwao g
 
 -- Bahá'u'lláh
 
-bpn11212 «[Kiswahili](../sw/prayers/#bpn11212)» 
+bpn11212 
 
 ----
 
@@ -281,7 +282,7 @@ Utukufu uwe Kwako, Ee Mungu wangu!  Hakika mtumishi Wako huyu na mjakazi Wako hu
 
 -- Abdu'l-Bahá
 
-bpn11213 «[Kiswahili](../sw/prayers/#bpn11213)» 
+bpn11213 
 
 ----
 
@@ -295,7 +296,7 @@ bpn11213 «[Kiswahili](../sw/prayers/#bpn11213)»
 
 -- Bahá'u'lláh
 
-bpn11207 «[Kiswahili](../sw/prayers/#bpn11207)» 
+bpn11207 
 
 ----
 
@@ -309,7 +310,7 @@ Ee Mungu wangu!  Huyu ni mtumishi Wako na mwana wa mtumishi Wako ambaye amekuami
 
 -- Bahá'u'lláh
 
-bpn11221 «[Kiswahili](../sw/prayers/#bpn11221)» 
+bpn11221 
 
 ----
 
@@ -319,7 +320,7 @@ Ee Mungu wangu!  Ee Ewe msamehe dhambi, Mpaji thawabu, mwondoa huzuni!   Hakika,
 
 -- Abdu'l-Bahá
 
-bpn11222 «[Kiswahili](../sw/prayers/#bpn11222)» 
+bpn11222 
 
 ----
 
@@ -333,7 +334,7 @@ Ee Mungu!  Mlee mtoto huyu mchanga katika moyo wa upendo Wako, na umpe maziwa ku
 
 -- Abdu'l-Bahá
 
-bpn11216 «[Kiswahili](../sw/prayers/#bpn11216)» 
+bpn11216 
 
 ----
 
@@ -343,7 +344,7 @@ Ee Mungu! Wafundishe watoto hawa.  Watoto hawa ni miche ya kiunga Chako cha miti
 
 -- Abdu'l-Bahá
 
-bpn11217 «[Kiswahili](../sw/prayers/#bpn11217)» 
+bpn11217 
 
 ----
 
@@ -353,7 +354,7 @@ Ee Bwana!  Mfanye kijana huyu mwangavu na ujalie Baraka Yako juu ya kiumbe huyu 
 
 -- Abdu'l-Bahá
 
-bpn11218 «[Kiswahili](../sw/prayers/#bpn11218)» 
+bpn11218 
 
 ----
 
@@ -363,7 +364,7 @@ Ee Mungu, niongoze, nilinde, nifanye taa inayowaka na nyota ing’aayo.  Wewe ni
 
 -- Abdu'l-Bahá
 
-bpn11219 «[Kiswahili](../sw/prayers/#bpn11219)» 
+bpn11219 
 
 ----
 

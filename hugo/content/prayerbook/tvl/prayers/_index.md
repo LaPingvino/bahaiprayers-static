@@ -5,6 +5,7 @@ tags = ['lang=tvl', 'prayerbook']
 
 
 
+
 [AFIAFI](#AFIAFI)
 
 [AMELIKA](#AMELIKA)
@@ -135,7 +136,7 @@ O te Atua, toku Matai, te Koulu o toku Faka-moemoeega!  Mea nei, ko Tau tavini, 
 
 -- Bahá'u'lláh
 
-bpn10909 «[Tuvalu](../tvl/prayers/#bpn10909)» 
+bpn10909 
 
 ----
 
@@ -145,7 +146,7 @@ E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e 
 
 -- Bahá'u'lláh
 
-bpn10910 «[Tuvalu](../tvl/prayers/#bpn10910)» 
+bpn10910 
 
 ----
 
@@ -155,7 +156,7 @@ O toku Aliki!  Au ko fakapilipili atu kia Koe, i te pokooga o te valuapo pouli t
 
 -- Abdu'l-Bahá
 
-bpn10911 «[Tuvalu](../tvl/prayers/#bpn10911)» 
+bpn10911 
 
 ----
 
@@ -169,7 +170,7 @@ O Koe ko te Aliki alofa!  Ko fuli atu kia Koe ate fakatasiiga tenei.  A loto kon
 
 -- Abdu'l-Bahá
 
-bpn10870 «[Tuvalu](../tvl/prayers/#bpn10870)» 
+bpn10870 
 
 ----
 
@@ -179,7 +180,7 @@ Fakamanauia e Koe, O te Tupu o Tupu, te fakai lasi o Niu Ioki!  Fai aka a taugas
 
 -- Abdu'l-Bahá
 
-bpn10871 «[Tuvalu](../tvl/prayers/#bpn10871)» 
+bpn10871 
 
 ----
 
@@ -189,7 +190,7 @@ O te Atua, toku Atua!  Au e akai kia Koe mo te loto polepole mo loimata e to ki 
 
 -- Abdu'l-Bahá
 
-bpn10872 «[Tuvalu](../tvl/prayers/#bpn10872)» 
+bpn10872 
 
 ----
 
@@ -203,7 +204,7 @@ bpn10872 «[Tuvalu](../tvl/prayers/#bpn10872)»
 
 -- Bahá'u'lláh
 
-bpn10970 «[Tuvalu](../tvl/prayers/#bpn10970)» 
+bpn10970 
 
 ----
 
@@ -217,7 +218,7 @@ O te Atua, toku Atua!  A ia tenei ko Tau tavini fafine e kalaga atu kia luga ia 
 
 -- Abdu'l-Bahá
 
-bpn10916 «[Tuvalu](../tvl/prayers/#bpn10916)» 
+bpn10916 
 
 ----
 
@@ -231,7 +232,7 @@ O ko Ou mata ko te pogai o te tapuakiiga o latou katoa ko la e finafinau kia Koe
 
 -- Bahá'u'lláh
 
-bpn12347 «[Tuvalu](../tvl/prayers/#bpn12347)» 
+bpn12347 
 
 ----
 
@@ -241,7 +242,7 @@ Matagofie e io Koe, O toku Atua! Oku mata ko oti ne fakammau tonu ki luga I Ou m
 
 -- Bahá'u'lláh
 
-bpn12348 «[Tuvalu](../tvl/prayers/#bpn12348)» 
+bpn12348 
 
 ----
 
@@ -251,7 +252,7 @@ E tapuaki gina a Koe, O te Aliki toku Atua!  A Koe ko Ia Tela a te afi o Tena al
 
 -- Bahá'u'lláh
 
-bpn12349 «[Tuvalu](../tvl/prayers/#bpn12349)» 
+bpn12349 
 
 ----
 
@@ -261,7 +262,7 @@ Faka-lauefa a Tou igoa, O te Aliki toku Atua!  Taofi aka ne Koe toku mata e faka
 
 -- Bahá'u'lláh
 
-bpn12350 «[Tuvalu](../tvl/prayers/#bpn12350)» 
+bpn12350 
 
 ----
 
@@ -271,7 +272,7 @@ O ko Koe, Tela ko Tau afioga faka-mataku a mea katoa ne polepole i te mataku, Te
 
 -- Bahá'u'lláh
 
-bpn12351 «[Tuvalu](../tvl/prayers/#bpn12351)» 
+bpn12351 
 
 ----
 
@@ -281,7 +282,7 @@ Te Matagofie e ia Koe, O toku Atua!  Tokotasi o Au tavini fafine, teka ne talito
 
 -- Bahá'u'lláh
 
-bpn12352 «[Tuvalu](../tvl/prayers/#bpn12352)» 
+bpn12352 
 
 ----
 
@@ -291,7 +292,7 @@ E lavea mai ne Koe, O toku Atua, me e pefea a mea se ne fai ne Au mea faiite ko 
 
 -- Bahá'u'lláh
 
-bpn12353 «[Tuvalu](../tvl/prayers/#bpn12353)» 
+bpn12353 
 
 ----
 
@@ -301,7 +302,7 @@ O te Atua!  A tofooga ne aumai ne Koe pe la me se sinu ki mea pakia o latou kato
 
 -- Bahá'u'lláh
 
-bpn12354 «[Tuvalu](../tvl/prayers/#bpn12354)» 
+bpn12354 
 
 ----
 
@@ -311,7 +312,7 @@ Faka-lauefagia a Koe, O te Aliki toku Atua! Au e akai kia Koe i Tou Igoa te la k
 
 -- Bahá'u'lláh
 
-bpn12355 «[Tuvalu](../tvl/prayers/#bpn12355)» 
+bpn12355 
 
 ----
 
@@ -321,7 +322,7 @@ E vikiia a Koe, O te Aliki toku Atua!  Koe ko Ia Tela ne faiite a mea katoa mai 
 
 -- Bahá'u'lláh
 
-bpn12356 «[Tuvalu](../tvl/prayers/#bpn12356)» 
+bpn12356 
 
 ----
 
@@ -331,7 +332,7 @@ Faka-lauefagina a Tou igoa, O Koe te la ei Ou lima ko agaaga o latou katoa ko la
 
 -- Bahá'u'lláh
 
-bpn12357 «[Tuvalu](../tvl/prayers/#bpn12357)» 
+bpn12357 
 
 ----
 
@@ -341,7 +342,7 @@ O toku Aliki, toku Fagasele, toku Manakoga!  Faka-taugasoa mai au i toku nofo to
 
 -- Abdu'l-Bahá
 
-bpn12358 «[Tuvalu](../tvl/prayers/#bpn12358)» 
+bpn12358 
 
 ----
 
@@ -355,7 +356,7 @@ A Tou fakatasitasi-fealofani e se mafai o fakamatalagina, O toku Atua, kia latou
 
 -- Bahá'u'lláh
 
-bpn12224 «[Tuvalu](../tvl/prayers/#bpn12224)» 
+bpn12224 
 
 ----
 
@@ -365,7 +366,7 @@ E maluga a Tou igoa, O te Aliki toku Atua!  E molimau ne Koe me ia Koe e silia a
 
 -- Bahá'u'lláh
 
-bpn12225 «[Tuvalu](../tvl/prayers/#bpn12225)» 
+bpn12225 
 
 ----
 
@@ -375,7 +376,7 @@ E lauefa a Tou igoa, O te Aliki toku Atua, pe la loa mo te faiga ne Koe au ke fa
 
 -- Bahá'u'lláh
 
-bpn12226 «[Tuvalu](../tvl/prayers/#bpn12226)» 
+bpn12226 
 
 ----
 
@@ -385,7 +386,7 @@ Vikiiga e Koe, O te Aliki toku Atua!  I taimi katoa e masaua ne au a Koe kae maf
 
 -- Bahá'u'lláh
 
-bpn12227 «[Tuvalu](../tvl/prayers/#bpn12227)» 
+bpn12227 
 
 ----
 
@@ -395,7 +396,7 @@ E maluga a Tou igoa, O toku Atua!  Au ko to kavegina ne te agiagi malielie o te 
 
 -- Bahá'u'lláh
 
-bpn12228 «[Tuvalu](../tvl/prayers/#bpn12228)» 
+bpn12228 
 
 ----
 
@@ -405,7 +406,7 @@ Vikia a Koe, O te Aliki toku Atua! Au e akai kia Koe mai ia Latou Ko la ko Tapan
 
 -- Bahá'u'lláh
 
-bpn12229 «[Tuvalu](../tvl/prayers/#bpn12229)» 
+bpn12229 
 
 ----
 
@@ -415,7 +416,7 @@ Vikiiga i Tou igoa, O te Aliki toku Atua!  Au e molimau ia Koe se Kope funa e uf
 
 -- Bahá'u'lláh
 
-bpn12230 «[Tuvalu](../tvl/prayers/#bpn12230)» 
+bpn12230 
 
 ----
 
@@ -429,7 +430,7 @@ O God my God! I beg of Thee...O te Atua toku Atua!  Au e akai kia Koe i te vasa 
 
 -- Bahá'u'lláh
 
-bpn10947 «[Tuvalu](../tvl/prayers/#bpn10947)» 
+bpn10947 
 
 ----
 
@@ -439,7 +440,7 @@ Te matagofie e o Koe, O te Aliki toku Atua! Au e akai totuli kia Koe mai i luga 
 
 -- Bahá'u'lláh
 
-bpn10948 «[Tuvalu](../tvl/prayers/#bpn10948)» 
+bpn10948 
 
 ----
 
@@ -449,7 +450,7 @@ O te Atamai Kilo-Mao faka-te-lagi!Tavaega e o Koe, O te Aliki toku Atua!  Au e a
 
 -- Bahá'u'lláh
 
-bpn10949 «[Tuvalu](../tvl/prayers/#bpn10949)» 
+bpn10949 
 
 ----
 
@@ -459,7 +460,7 @@ O te Atamai Kilo-Mao faka-te-lagi!  Tuku mai ne Koe i mea katoa a te ma-takaleka
 
 -- Abdu'l-Bahá
 
-bpn10950 «[Tuvalu](../tvl/prayers/#bpn10950)» 
+bpn10950 
 
 ----
 
@@ -473,7 +474,7 @@ Ko Koe ko te Matagofie, O te Aliki toku Atua!  Au e akai totuli kia Koe, mai ia 
 
 -- Bahá'u'lláh
 
-bpn10922 «[Tuvalu](../tvl/prayers/#bpn10922)» 
+bpn10922 
 
 ----
 
@@ -483,7 +484,7 @@ Au ko ia, O toku Atua, tela ko oti ne agai atu ona mata kia Koe, kae fakmmau ana
 
 -- Bahá'u'lláh
 
-bpn10923 «[Tuvalu](../tvl/prayers/#bpn10923)» 
+bpn10923 
 
 ----
 
@@ -493,7 +494,7 @@ A Koe e lavea mai au, O toku Aliki, mo oku mata e fuli ki te lagi o Tou mau-kolo
 
 -- Bahá'u'lláh
 
-bpn10924 «[Tuvalu](../tvl/prayers/#bpn10924)» 
+bpn10924 
 
 ----
 
@@ -503,7 +504,7 @@ E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a K
 
 -- Bahá'u'lláh
 
-bpn10925 «[Tuvalu](../tvl/prayers/#bpn10925)» 
+bpn10925 
 
 ----
 
@@ -513,7 +514,7 @@ E maluga a Tou Igoa, O toku Atua mote Atua o mea katoa, toku Matagofie mo te Mat
 
 -- Bahá'u'lláh
 
-bpn10926 «[Tuvalu](../tvl/prayers/#bpn10926)» 
+bpn10926 
 
 ----
 
@@ -523,7 +524,7 @@ O te Atua ko te omotou Aliki!  Puipui mai matou i Tou alofa fataua mai i so se m
 
 -- Báb
 
-bpn10927 «[Tuvalu](../tvl/prayers/#bpn10927)» 
+bpn10927 
 
 ----
 
@@ -533,7 +534,7 @@ Tavaeega e i luga ia Koe, O te Aliki.  Fakamagalo mai a omotou agasala, kilo alo
 
 -- Báb
 
-bpn10928 «[Tuvalu](../tvl/prayers/#bpn10928)» 
+bpn10928 
 
 ----
 
@@ -543,7 +544,7 @@ A u e akai kia Koe ke fakamagalo mai au, O toku Aliki, ona ko te takutaku o isi 
 
 -- Báb
 
-bpn10929 «[Tuvalu](../tvl/prayers/#bpn10929)» 
+bpn10929 
 
 ----
 
@@ -553,7 +554,7 @@ Ko te Matagofie e i luga ia Koe, O te Atua.  E mafai pefea ne au o taku a Koe ak
 
 -- Báb
 
-bpn10930 «[Tuvalu](../tvl/prayers/#bpn10930)» 
+bpn10930 
 
 ----
 
@@ -563,7 +564,7 @@ Au e atafia ne au, O te Aliki, ia aku soli-tuakoi ko oti ne kava i ei oku mata i
 
 -- Báb
 
-bpn10931 «[Tuvalu](../tvl/prayers/#bpn10931)» 
+bpn10931 
 
 ----
 
@@ -573,7 +574,7 @@ O ko Koe ko te Aliki fakamagalo!  A Koe ko te fakamalu o Au tavini katoa konei. 
 
 -- Abdu'l-Bahá
 
-bpn10932 «[Tuvalu](../tvl/prayers/#bpn10932)» 
+bpn10932 
 
 ----
 
@@ -583,7 +584,7 @@ O te Aliki mana! O ko te Aliki o te alofa-kaimalie!  Matou ko olo fakaatea mai i
 
 -- Abdu'l-Bahá
 
-bpn10933 «[Tuvalu](../tvl/prayers/#bpn10933)» 
+bpn10933 
 
 ----
 
@@ -597,7 +598,7 @@ Ko te Matagofie e io Koe, O toku Atua!  E lagona ne Koe a Au tavini maalosi e ta
 
 -- Bahá'u'lláh
 
-bpn12234 «[Tuvalu](../tvl/prayers/#bpn12234)» 
+bpn12234 
 
 ----
 
@@ -607,7 +608,7 @@ E tonu au ko Tau tavini, O toku Atua, mo Tau tokotasi mativa mo Tau fakaalofa mo
 
 -- Báb
 
-bpn12235 «[Tuvalu](../tvl/prayers/#bpn12235)» 
+bpn12235 
 
 ----
 
@@ -617,7 +618,7 @@ O toku Atua! E seai aka se tokotasi vagana ko Koe e kave keatea a tigaina o toku
 
 -- Báb
 
-bpn12236 «[Tuvalu](../tvl/prayers/#bpn12236)» 
+bpn12236 
 
 ----
 
@@ -627,7 +628,7 @@ O te Aliki, toku Atua mo toku Lafiiga in toku fanoanoa!  Toku Pui mo Toku Malu i
 
 -- Abdu'l-Bahá
 
-bpn12237 «[Tuvalu](../tvl/prayers/#bpn12237)» 
+bpn12237 
 
 ----
 
@@ -637,7 +638,7 @@ A  Ia ko te Atafai, ko te Maukoloa-Katoatoa! O toku Atua, toku Atua! E lavea au 
 
 -- Abdu'l-Bahá
 
-bpn12238 «[Tuvalu](../tvl/prayers/#bpn12238)» 
+bpn12238 
 
 ----
 
@@ -651,7 +652,7 @@ E fakamalugina a Koe, O te Aliki toku Atua! Au e fakamolemole kia Koe ki te mata
 
 -- Bahá'u'lláh
 
-bpn10937 «[Tuvalu](../tvl/prayers/#bpn10937)» 
+bpn10937 
 
 ----
 
@@ -661,7 +662,7 @@ O ko Koe ko te Atua alofa-kaimalieO ko Koe ko te Atua alofa-kaimalie!  O ko Koe 
 
 -- Abdu'l-Bahá
 
-bpn10938 «[Tuvalu](../tvl/prayers/#bpn10938)» 
+bpn10938 
 
 ----
 
@@ -671,7 +672,7 @@ O ko Koe ko te Aliki alofa!  Mea nei ko Au tavini ko luku i te fonotaga tenei, k
 
 -- Abdu'l-Bahá
 
-bpn10939 «[Tuvalu](../tvl/prayers/#bpn10939)» 
+bpn10939 
 
 ----
 
@@ -681,7 +682,7 @@ O toku Atua! O toku Atua!  E tonu a tavini konei ko fuli atu kia Koe, fai talosa
 
 -- Abdu'l-Bahá
 
-bpn10940 «[Tuvalu](../tvl/prayers/#bpn10940)» 
+bpn10940 
 
 ----
 
@@ -691,7 +692,7 @@ O Koe ko te Atua fakamagalo!  Au tavini konei ko fuli atu ki Tou maalo kae salas
 
 -- Abdu'l-Bahá
 
-bpn10941 «[Tuvalu](../tvl/prayers/#bpn10941)» 
+bpn10941 
 
 ----
 
@@ -701,7 +702,7 @@ O ko te Atamai Faka-te-Lagi!  A te Lukuuga tenei e aofia i ei Ou taugasoa ko la 
 
 -- Abdu'l-Bahá
 
-bpn10942 «[Tuvalu](../tvl/prayers/#bpn10942)» 
+bpn10942 
 
 ----
 
@@ -711,7 +712,7 @@ O ko Koe a te Fakasoasoa atafai!  A agaaga konei ko oti ne fakavave atu ki kalag
 
 -- Abdu'l-Bahá
 
-bpn10943 «[Tuvalu](../tvl/prayers/#bpn10943)» 
+bpn10943 
 
 ----
 
@@ -725,7 +726,7 @@ E maluga a Tou igoa, O toku Atua! E lavea au mai ne Koe i lima o oku fili.  I ta
 
 -- Bahá'u'lláh
 
-bpn12252 «[Tuvalu](../tvl/prayers/#bpn12252)» 
+bpn12252 
 
 ----
 
@@ -735,7 +736,7 @@ E matagofie e i Tou igoa, O te Aliki toku Atua!  E lavea ne Koe a toku kogaa-kog
 
 -- Bahá'u'lláh
 
-bpn12253 «[Tuvalu](../tvl/prayers/#bpn12253)» 
+bpn12253 
 
 ----
 
@@ -745,7 +746,7 @@ E maluga a Tou Igoa, O ko Koe Tela e lavea a mea katoa kae e lilo foki mai i mea
 
 -- Bahá'u'lláh
 
-bpn12254 «[Tuvalu](../tvl/prayers/#bpn12254)» 
+bpn12254 
 
 ----
 
@@ -755,7 +756,7 @@ E lavea mai ne Koe, O toku Atua, ko te Fetu-Ao o Tau Muna e maina mai i luga i t
 
 -- Bahá'u'lláh
 
-bpn12255 «[Tuvalu](../tvl/prayers/#bpn12255)» 
+bpn12255 
 
 ----
 
@@ -765,7 +766,7 @@ Tavaeega e io Koe, O te Aliki toku Atua!  Au e akai kia Koe e auala atu i Tou Ga
 
 -- Bahá'u'lláh
 
-bpn12256 «[Tuvalu](../tvl/prayers/#bpn12256)» 
+bpn12256 
 
 ----
 
@@ -775,7 +776,7 @@ E lavea ne Koe, O toku Atua, a Tau tavini tela e nofo i te fale-puipui tenei, e 
 
 -- Bahá'u'lláh
 
-bpn12257 «[Tuvalu](../tvl/prayers/#bpn12257)» 
+bpn12257 
 
 ----
 
@@ -785,7 +786,7 @@ Tavaeega e io Koe, O toku Atua, e Lavea mai au ne Koe e loka i te Falepuipui ten
 
 -- Bahá'u'lláh
 
-bpn12258 «[Tuvalu](../tvl/prayers/#bpn12258)» 
+bpn12258 
 
 ----
 
@@ -795,7 +796,7 @@ E   lavea ne Koe, O toku Aliki, a toku kogaa-koga nofo kanoloto o te mauga teni 
 
 -- Báb
 
-bpn12259 «[Tuvalu](../tvl/prayers/#bpn12259)» 
+bpn12259 
 
 ----
 
@@ -805,7 +806,7 @@ E mafai pefea ne au o tavae a Koe, O te Aliki, aua i fakatalitouuga o te mafi o 
 
 -- Báb
 
-bpn12260 «[Tuvalu](../tvl/prayers/#bpn12260)» 
+bpn12260 
 
 ----
 
@@ -819,7 +820,7 @@ O toku Atua! O toku Atua! Fusi tasi loto o Au tavini kae fakaasi kia latou Tau f
 
 -- Bahá'u'lláh
 
-bpn12345 «[Tuvalu](../tvl/prayers/#bpn12345)» 
+bpn12345 
 
 ----
 
@@ -829,7 +830,7 @@ O toku Atua! O toku Atua! E tonu, e tagi atu au kia Koe kae akai totuli i mua o 
 
 -- Abdu'l-Bahá
 
-bpn12346 «[Tuvalu](../tvl/prayers/#bpn12346)» 
+bpn12346 
 
 ----
 
@@ -843,7 +844,7 @@ O Koe ko te Aliki o te lavea mo te se-lavea, mo te Fakamaina o te foafoaaga kato
 
 -- Bahá'u'lláh
 
-bpn12239 «[Tuvalu](../tvl/prayers/#bpn12239)» 
+bpn12239 
 
 ----
 
@@ -853,7 +854,7 @@ T avaeega katoa e io Koe, O te Aliki, toku Atua!  E seiloa ne au o usu pefea a O
 
 -- Bahá'u'lláh
 
-bpn12240 «[Tuvalu](../tvl/prayers/#bpn12240)» 
+bpn12240 
 
 ----
 
@@ -863,7 +864,7 @@ O toku Aua, O toku Aliki, O toku Matai!  Au e akai kia Koe ke fakamagalo mai au 
 
 -- Báb
 
-bpn12241 «[Tuvalu](../tvl/prayers/#bpn12241)» 
+bpn12241 
 
 ----
 
@@ -873,7 +874,7 @@ Ko Koe ko te Atua, e seai aka foki se Atua na ko Koe.    E maluga kae matagofie 
 
 -- Báb
 
-bpn12242 «[Tuvalu](../tvl/prayers/#bpn12242)» 
+bpn12242 
 
 ----
 
@@ -883,7 +884,7 @@ Ko tavaeega katoa e io te Atua Tela ko ne leva ne Nofo-mai-i-Anamua loa tela ne 
 
 -- Báb
 
-bpn12243 «[Tuvalu](../tvl/prayers/#bpn12243)» 
+bpn12243 
 
 ----
 
@@ -897,7 +898,7 @@ O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaai
 
 -- Abdu'l-Bahá
 
-bpn10958 «[Tuvalu](../tvl/prayers/#bpn10958)» 
+bpn10958 
 
 ----
 
@@ -907,7 +908,7 @@ O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai
 
 -- Abdu'l-Bahá
 
-bpn10959 «[Tuvalu](../tvl/prayers/#bpn10959)» 
+bpn10959 
 
 ----
 
@@ -921,7 +922,7 @@ O te Atua, mo te Atua o Igoa katoa, mo te Tofuga o lagi!  Au e akai totuli kia K
 
 -- Bahá'u'lláh
 
-bpn12277 «[Tuvalu](../tvl/prayers/#bpn12277)» 
+bpn12277 
 
 ----
 
@@ -931,7 +932,7 @@ Au e vikia a Koe, O toku Atua, i te manogi gali o Tou alofa-kaimalie ko piki vak
 
 -- Bahá'u'lláh
 
-bpn12278 «[Tuvalu](../tvl/prayers/#bpn12278)» 
+bpn12278 
 
 ----
 
@@ -945,7 +946,7 @@ bpn12278 «[Tuvalu](../tvl/prayers/#bpn12278)»
 
 -- Bahá'u'lláh
 
-bpn10935 «[Tuvalu](../tvl/prayers/#bpn10935)» 
+bpn10935 
 
 ----
 
@@ -955,7 +956,7 @@ E matagofie a Koe, O toku Aliki atafai!  Au e fakamolemole kia Koe mai i te tumu
 
 -- Bahá'u'lláh
 
-bpn10936 «[Tuvalu](../tvl/prayers/#bpn10936)» 
+bpn10936 
 
 ----
 
@@ -965,7 +966,7 @@ A te Huqúqu’lláh (Te Saolotoga o te Atua) se tulafono.  E manakogina ko tino
 
 -- Bahá'u'lláh
 
-bpn10972 «[Tuvalu](../tvl/prayers/#bpn10972)» 
+bpn10972 
 
 ----
 
@@ -975,7 +976,7 @@ E maluga silisili a Koe, O toku Aliki alofa atafai!E maluga silisili a Koe, O to
 
 -- Bahá'u'lláh
 
-bpn10973 «[Tuvalu](../tvl/prayers/#bpn10973)» 
+bpn10973 
 
 ----
 
@@ -989,7 +990,7 @@ Matagofie e io Koe, O te Aliki toku Atua! Au e akai kia Koe ke fakamagalo mai au
 
 -- Báb
 
-bpn10913 «[Tuvalu](../tvl/prayers/#bpn10913)» 
+bpn10913 
 
 ----
 
@@ -1003,7 +1004,7 @@ O te Atua!  Fakaseai katoa a mea e pogai ki ei a te va se lei, kae fakatoka mai 
 
 -- Abdu'l-Bahá
 
-bpn10944 «[Tuvalu](../tvl/prayers/#bpn10944)» 
+bpn10944 
 
 ----
 
@@ -1017,7 +1018,7 @@ Mainaaga mo te matagofie, talofaaga mo tavaega e i luga i Lima o Tena Fakatokaag
 
 -- Bahá'u'lláh
 
-bpn10975 «[Tuvalu](../tvl/prayers/#bpn10975)» 
+bpn10975 
 
 ----
 
@@ -1031,7 +1032,7 @@ E faka-lauefa ne au a Tou Igoa, O toku Atua, kae siki atu a te fakafetai kia Koe
 
 -- Bahá'u'lláh
 
-bpn12295 «[Tuvalu](../tvl/prayers/#bpn12295)» 
+bpn12295 
 
 ----
 
@@ -1041,7 +1042,7 @@ O Koe ko Tou pili mai ko toku manakoga…    O Koe ko Tou pili mai ko toku loto,
 
 -- Bahá'u'lláh
 
-bpn12296 «[Tuvalu](../tvl/prayers/#bpn12296)» 
+bpn12296 
 
 ----
 
@@ -1051,7 +1052,7 @@ O te Atua, toku Atua!  Ko oti au ne fuli atu i toku salamo kia Koe, kae e tonu a
 
 -- Bahá'u'lláh
 
-bpn12297 «[Tuvalu](../tvl/prayers/#bpn12297)» 
+bpn12297 
 
 ----
 
@@ -1061,7 +1062,7 @@ Ko te matagofie e io Koe, O te Aliki toku Atua!  Au e akai fakamolemole kia Koe 
 
 -- Bahá'u'lláh
 
-bpn12298 «[Tuvalu](../tvl/prayers/#bpn12298)» 
+bpn12298 
 
 ----
 
@@ -1071,7 +1072,7 @@ Tavaeega e ia Koe, O te Aliki, toku Fagasele Tafasili i te Llei!  Fai aka au ke 
 
 -- Báb
 
-bpn12299 «[Tuvalu](../tvl/prayers/#bpn12299)» 
+bpn12299 
 
 ----
 
@@ -1081,7 +1082,7 @@ Tavaeega mo te matagofie e ia Koe, O te Atua!  Talia mai ko te aso e oko atu i e
 
 -- Báb
 
-bpn12300 «[Tuvalu](../tvl/prayers/#bpn12300)» 
+bpn12300 
 
 ----
 
@@ -1091,7 +1092,7 @@ O te Aliki toku Atua!  Fesoasoani ki Au fagasele ke mautaki i Tau Talitonuuga, k
 
 -- Abdu'l-Bahá
 
-bpn12301 «[Tuvalu](../tvl/prayers/#bpn12301)» 
+bpn12301 
 
 ----
 
@@ -1101,7 +1102,7 @@ O ko Koe, toku Atua, Te la e takitaki a ia te la e salasala ki te auala te la e 
 
 -- Abdu'l-Bahá
 
-bpn12302 «[Tuvalu](../tvl/prayers/#bpn12302)» 
+bpn12302 
 
 ----
 
@@ -1115,7 +1116,7 @@ A  Ia ko te Atua!  E lavea mai ne Koe a matou, O toku Atua, e nofo siomia fakata
 
 -- Abdu'l-Bahá
 
-bpn10945 «[Tuvalu](../tvl/prayers/#bpn10945)» 
+bpn10945 
 
 ----
 
@@ -1125,7 +1126,7 @@ A Ia ko te Atua!  E mafai pefea o siki atu a fakafetai kia Koe, o te Aliki?  Au 
 
 -- Abdu'l-Bahá
 
-bpn10946 «[Tuvalu](../tvl/prayers/#bpn10946)» 
+bpn10946 
 
 ----
 
@@ -1139,7 +1140,7 @@ I so se taimi e ulufale atu koe ki loto i te potu fono, fai ate talo tenei mo to
 
 -- Abdu'l-Bahá
 
-bpn10976 «[Tuvalu](../tvl/prayers/#bpn10976)» 
+bpn10976 
 
 ----
 
@@ -1149,7 +1150,7 @@ bpn10976 «[Tuvalu](../tvl/prayers/#bpn10976)»
 
 -- Abdu'l-Bahá
 
-bpn10977 «[Tuvalu](../tvl/prayers/#bpn10977)» 
+bpn10977 
 
 ----
 
@@ -1159,7 +1160,7 @@ Aumai fakatasi koutou i te fiafia matakalekale mo te kamataaga o te fonotaga, fa
 
 -- Abdu'l-Bahá
 
-bpn10978 «[Tuvalu](../tvl/prayers/#bpn10978)» 
+bpn10978 
 
 ----
 
@@ -1169,7 +1170,7 @@ Talo ke fai i te ponoga o te fonotaga a te Lukuuga Faka-te-Agaaga.O te Atua! O t
 
 -- Abdu'l-Bahá
 
-bpn10979 «[Tuvalu](../tvl/prayers/#bpn10979)» 
+bpn10979 
 
 ----
 
@@ -1183,7 +1184,7 @@ Au e akai fakamolemole ki Tau fakamagalo, O toku Atua, kae akai totuli atu ki te
 
 -- Báb
 
-bpn10914 «[Tuvalu](../tvl/prayers/#bpn10914)» 
+bpn10914 
 
 ----
 
@@ -1193,7 +1194,7 @@ O te Aliki!  I te Vaataimi tafasili i te Takutakua tenei ko oti ne talia ne Koe 
 
 -- Abdu'l-Bahá
 
-bpn10915 «[Tuvalu](../tvl/prayers/#bpn10915)» 
+bpn10915 
 
 ----
 
@@ -1207,7 +1208,7 @@ E lavea ne Koe, O toku Atua, me ne aofia pefea a Au taugasoa fakapelepele ne lat
 
 -- Bahá'u'lláh
 
-bpn12336 «[Tuvalu](../tvl/prayers/#bpn12336)» 
+bpn12336 
 
 ----
 
@@ -1217,7 +1218,7 @@ Se fakamae gina au, O te Atua, toku Atua, o taofi mai i te lagi o Au koloa lauef
 
 -- Bahá'u'lláh
 
-bpn12337 «[Tuvalu](../tvl/prayers/#bpn12337)» 
+bpn12337 
 
 ----
 
@@ -1227,7 +1228,7 @@ Tavaeega maluga e i Tou igoa, O te Aliki toku Atua!  A te pogisa koi i luga i fe
 
 -- Bahá'u'lláh
 
-bpn12338 «[Tuvalu](../tvl/prayers/#bpn12338)» 
+bpn12338 
 
 ----
 
@@ -1237,7 +1238,7 @@ Te Matagofie e io Koe, O te Aliki,Ko Koe Tela ne aumai kae fakafoliga a mea ola 
 
 -- Báb
 
-bpn12339 «[Tuvalu](../tvl/prayers/#bpn12339)» 
+bpn12339 
 
 ----
 
@@ -1247,7 +1248,7 @@ O te Aliki!  Faka-soasoa aka mo te ola kimua fakavave o te Lakau Ola o Tau Tafat
 
 -- Báb
 
-bpn12340 «[Tuvalu](../tvl/prayers/#bpn12340)» 
+bpn12340 
 
 ----
 
@@ -1257,7 +1258,7 @@ O te Aliki!  Fai aka Au tavini onosai i Ou aso ke manumaalo mai i luga i te tali
 
 -- Báb
 
-bpn12341 «[Tuvalu](../tvl/prayers/#bpn12341)» 
+bpn12341 
 
 ----
 
@@ -1267,7 +1268,7 @@ O te Aliki! Fai aka ko tino katoa o te lalolagi ke maua se avanoaaga ki loto i t
 
 -- Báb
 
-bpn12342 «[Tuvalu](../tvl/prayers/#bpn12342)» 
+bpn12342 
 
 ----
 
@@ -1277,7 +1278,7 @@ O te Atua, toku Atua! Tavaeega e ia Koe i te tafutafuuga o te afi o te alofa fak
 
 -- Abdu'l-Bahá
 
-bpn12343 «[Tuvalu](../tvl/prayers/#bpn12343)» 
+bpn12343 
 
 ----
 
@@ -1287,7 +1288,7 @@ A Ia ko te Atua!    O te Aliki, toku Atua, toku Fakasele Gali! A mea konei ko Au
 
 -- Abdu'l-Bahá
 
-bpn12344 «[Tuvalu](../tvl/prayers/#bpn12344)» 
+bpn12344 
 
 ----
 
@@ -1301,7 +1302,7 @@ Toku Aliki! Toku Aliki! E tavae ne au a Koe kae fakafetai au kia Koe mo Au mea-a
 
 -- Abdu'l-Bahá
 
-bpn12359 «[Tuvalu](../tvl/prayers/#bpn12359)» 
+bpn12359 
 
 ----
 
@@ -1315,7 +1316,7 @@ O te Aliki toku Atua! O Koe ko te Fesoasoani ki tino vaaivai, ko te Atafai o lat
 
 -- Abdu'l-Bahá
 
-bpn10974 «[Tuvalu](../tvl/prayers/#bpn10974)» 
+bpn10974 
 
 ----
 
@@ -1329,7 +1330,7 @@ Ko te Matagofie e io Koe, O ko te Tupu o te favavau, mo te Tufuga o atu-fenua, m
 
 -- Bahá'u'lláh
 
-bpn10917 «[Tuvalu](../tvl/prayers/#bpn10917)» 
+bpn10917 
 
 ----
 
@@ -1339,7 +1340,7 @@ A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!     O te Atua, toku Atua!  E la
 
 -- Bahá'u'lláh
 
-bpn10918 «[Tuvalu](../tvl/prayers/#bpn10918)» 
+bpn10918 
 
 ----
 
@@ -1349,7 +1350,7 @@ Fai aka ke mmau a omotou kalafaga, O te Aliki, i Tou auala kae fakamaalosi aka n
 
 -- Abdu'l-Bahá
 
-bpn10919 «[Tuvalu](../tvl/prayers/#bpn10919)» 
+bpn10919 
 
 ----
 
@@ -1359,7 +1360,7 @@ O ko te Atua atafai!  Fakafetai kia Koe me ne fago kae ne fakafoki mai ne Koe a 
 
 -- Abdu'l-Bahá
 
-bpn10920 «[Tuvalu](../tvl/prayers/#bpn10920)» 
+bpn10920 
 
 ----
 
@@ -1369,7 +1370,7 @@ O toku Aliki mo toku Fakamoemoega!  Feasoasoani mai Koe ko Au fagasele ke tummau
 
 -- Abdu'l-Bahá
 
-bpn10921 «[Tuvalu](../tvl/prayers/#bpn10921)» 
+bpn10921 
 
 ----
 
@@ -1383,7 +1384,7 @@ bpn10921 «[Tuvalu](../tvl/prayers/#bpn10921)»
 
 -- Bahá'u'lláh
 
-bpn10887 «[Tuvalu](../tvl/prayers/#bpn10887)» 
+bpn10887 
 
 ----
 
@@ -1393,7 +1394,7 @@ E mana e ia Koe, O te Aliki toku Atua!  Se fakafoliki a ia te la ko oti ne fakam
 
 -- Bahá'u'lláh
 
-bpn10888 «[Tuvalu](../tvl/prayers/#bpn10888)» 
+bpn10888 
 
 ----
 
@@ -1403,7 +1404,7 @@ A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!   
 
 -- Bahá'u'lláh
 
-bpn10889 «[Tuvalu](../tvl/prayers/#bpn10889)» 
+bpn10889 
 
 ----
 
@@ -1413,7 +1414,7 @@ O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave
 
 -- Abdu'l-Bahá
 
-bpn10890 «[Tuvalu](../tvl/prayers/#bpn10890)» 
+bpn10890 
 
 ----
 
@@ -1423,7 +1424,7 @@ O toku Atua! O toku Atua! E tonu, tau tavini, maulalo i mua o te afioga o Tou ma
 
 -- Abdu'l-Bahá
 
-bpn10891 «[Tuvalu](../tvl/prayers/#bpn10891)» 
+bpn10891 
 
 ----
 
@@ -1433,7 +1434,7 @@ O Koe ko te Aliki fakamagalo! E uiloa a nisi agaaga ne fakammaumau a aso o oloto
 
 -- Abdu'l-Bahá
 
-bpn10892 «[Tuvalu](../tvl/prayers/#bpn10892)» 
+bpn10892 
 
 ----
 
@@ -1447,7 +1448,7 @@ Ke tigaina au, O toku Atua, ke pilipili atu au kia Koe, ke nofo au i loto i Tou 
 
 -- Bahá'u'lláh
 
-bpn10896 «[Tuvalu](../tvl/prayers/#bpn10896)» 
+bpn10896 
 
 ----
 
@@ -1457,7 +1458,7 @@ E malu silisili e o Koe, O Toku Atua!  Ko tuku atu kia Koe a fakafetai, me ko ot
 
 -- Bahá'u'lláh
 
-bpn10897 «[Tuvalu](../tvl/prayers/#bpn10897)» 
+bpn10897 
 
 ----
 
@@ -1467,7 +1468,7 @@ E maluga Tou igoa, O toku Atua!  O toku Atua! Au e fakamolemole kia Koe ki te pu
 
 -- Bahá'u'lláh
 
-bpn10898 «[Tuvalu](../tvl/prayers/#bpn10898)» 
+bpn10898 
 
 ----
 
@@ -1477,7 +1478,7 @@ E uke a loto ne mokotia, O toku Atua, ko oti ne fakaka ki te afi o Tau Fakatokaa
 
 -- Bahá'u'lláh
 
-bpn10899 «[Tuvalu](../tvl/prayers/#bpn10899)» 
+bpn10899 
 
 ----
 
@@ -1487,7 +1488,7 @@ Seiloa ne au, O toku Atua, me sea ate Afi tenei e fakaka ne Koe i Tou fenua.  A 
 
 -- Bahá'u'lláh
 
-bpn10900 «[Tuvalu](../tvl/prayers/#bpn10900)» 
+bpn10900 
 
 ----
 
@@ -1497,7 +1498,7 @@ Tavaeega e iluga ia Koe, O toku Atua!  Au se tokotasi o Au tavini, te la e talit
 
 -- Bahá'u'lláh
 
-bpn10901 «[Tuvalu](../tvl/prayers/#bpn10901)» 
+bpn10901 
 
 ----
 
@@ -1507,7 +1508,7 @@ I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Malu
 
 -- Báb
 
-bpn10902 «[Tuvalu](../tvl/prayers/#bpn10902)» 
+bpn10902 
 
 ----
 
@@ -1517,7 +1518,7 @@ O te Aliki! Kia Koe e fuli atu au mo se lafiiga, kae ko oti ne fakasino a toku l
 
 -- Báb
 
-bpn10903 «[Tuvalu](../tvl/prayers/#bpn10903)» 
+bpn10903 
 
 ----
 
@@ -1527,7 +1528,7 @@ Fai atu: Te Atua e lava i mea katoa, kae e seai se mea i lagi mo te lalolagi na 
 
 -- Báb
 
-bpn10904 «[Tuvalu](../tvl/prayers/#bpn10904)» 
+bpn10904 
 
 ----
 
@@ -1537,7 +1538,7 @@ O te Atua, toku Atua! Koe ko toku Fakamoemoega mo taku Fagasele, taku Kiloga mo 
 
 -- Abdu'l-Bahá
 
-bpn10905 «[Tuvalu](../tvl/prayers/#bpn10905)» 
+bpn10905 
 
 ----
 
@@ -1547,7 +1548,7 @@ O te Atua, toku Atua, Fakafonu aka mo au ate ipu o te motu mai i mea katoa, kae 
 
 -- Abdu'l-Bahá
 
-bpn10906 «[Tuvalu](../tvl/prayers/#bpn10906)» 
+bpn10906 
 
 ----
 
@@ -1561,7 +1562,7 @@ Kia Koe ko tavaeega, O te Aliki toku Atua! Au e akai totuli kia Koe, mai i Au fa
 
 -- Bahá'u'lláh
 
-bpn12244 «[Tuvalu](../tvl/prayers/#bpn12244)» 
+bpn12244 
 
 ----
 
@@ -1571,7 +1572,7 @@ Ko matafi nei ko mea katoa ko oti ne ola llei kii anamua i te Palataiso o Tou ta
 
 -- Bahá'u'lláh
 
-bpn12245 «[Tuvalu](../tvl/prayers/#bpn12245)» 
+bpn12245 
 
 ----
 
@@ -1581,7 +1582,7 @@ E faka-aloalogia a Koe, O te Aliki toku Atua!  Ko oti a Koe, i Tou Palataiso taf
 
 -- Bahá'u'lláh
 
-bpn12246 «[Tuvalu](../tvl/prayers/#bpn12246)» 
+bpn12246 
 
 ----
 
@@ -1591,7 +1592,7 @@ Te matagofie e i luga ia Koe, O te Aliki toku Atua!  E seai se mea e tasi e seke
 
 -- Báb
 
-bpn12247 «[Tuvalu](../tvl/prayers/#bpn12247)» 
+bpn12247 
 
 ----
 
@@ -1605,7 +1606,7 @@ Tavaeega e Koe, O te Aliki toku Atua!  Tuku atu faka-alofalofa kia ia tenei ke f
 
 -- Bahá'u'lláh
 
-bpn10884 «[Tuvalu](../tvl/prayers/#bpn10884)» 
+bpn10884 
 
 ----
 
@@ -1615,7 +1616,7 @@ O Koe ko te Aliki e silia i sose tulaga!  Fakasaoloto aka a te pepe tenei ke fa-
 
 -- Abdu'l-Bahá
 
-bpn10885 «[Tuvalu](../tvl/prayers/#bpn10885)» 
+bpn10885 
 
 ----
 
@@ -1625,7 +1626,7 @@ O te Atua!  Puti aka ate pepe tenei ite Tou alofa atafai, kae tuku atu kia ia at
 
 -- Abdu'l-Bahá
 
-bpn10886 «[Tuvalu](../tvl/prayers/#bpn10886)» 
+bpn10886 
 
 ----
 
@@ -1639,7 +1640,7 @@ Vikiiga ia Koe, O te Aliki toku Atua!  Mea nei ko Tau tavini te la ko oti ne inu
 
 -- Bahá'u'lláh
 
-bpn12261 «[Tuvalu](../tvl/prayers/#bpn12261)» 
+bpn12261 
 
 ----
 
@@ -1649,7 +1650,7 @@ E tavaegina Tou igoa, O te Aliki toku Atua!  Au e akai totuli kia Koe i Tou Igoa
 
 -- Bahá'u'lláh
 
-bpn12262 «[Tuvalu](../tvl/prayers/#bpn12262)» 
+bpn12262 
 
 ----
 
@@ -1659,7 +1660,7 @@ O te Atua, toku Atua! Ko oti ne liakina ne au a toku fale, kae piki mmau au ki t
 
 -- Bahá'u'lláh
 
-bpn12263 «[Tuvalu](../tvl/prayers/#bpn12263)» 
+bpn12263 
 
 ----
 
@@ -1669,7 +1670,7 @@ I Tena Igoa, ko te Maluga, ko te Tafasili i te Maluga, ko te Tafasili i te Gali!
 
 -- Bahá'u'lláh
 
-bpn12264 «[Tuvalu](../tvl/prayers/#bpn12264)» 
+bpn12264 
 
 ----
 
@@ -1679,7 +1680,7 @@ Fakaeke mai kia au, O toku Aliki, mo latou foki ko la e talitonu ia Koe a te mea
 
 -- Báb
 
-bpn12265 «[Tuvalu](../tvl/prayers/#bpn12265)» 
+bpn12265 
 
 ----
 
@@ -1689,7 +1690,7 @@ Matagofie ea ia Koe, O te Atua!  Koe ko te Atua Tela ne ola mai mua o mea katoa,
 
 -- Báb
 
-bpn12266 «[Tuvalu](../tvl/prayers/#bpn12266)» 
+bpn12266 
 
 ----
 
@@ -1699,7 +1700,7 @@ I te Igoa o te Atua, te Aliki ko silia kese a te malu mo te matagofie, te  Fakai
 
 -- Báb
 
-bpn12267 «[Tuvalu](../tvl/prayers/#bpn12267)» 
+bpn12267 
 
 ----
 
@@ -1709,7 +1710,7 @@ O te Atua, toku Atua!  Pui Au tavini faka-tuanakigina mai i te masei o te manatu
 
 -- Abdu'l-Bahá
 
-bpn12268 «[Tuvalu](../tvl/prayers/#bpn12268)» 
+bpn12268 
 
 ----
 
@@ -1719,7 +1720,7 @@ O toku Aliki! E iloa ne Koe i tino ko mafatia ne te mae mo faka-lavelave lasi ka
 
 -- Abdu'l-Bahá
 
-bpn12269 «[Tuvalu](../tvl/prayers/#bpn12269)» 
+bpn12269 
 
 ----
 
@@ -1729,7 +1730,7 @@ O Koe ko te kaimalie mo te Takitakiiga Faka-te-Lagi alofa!  A te sopogala ko ala
 
 -- Abdu'l-Bahá
 
-bpn12270 «[Tuvalu](../tvl/prayers/#bpn12270)» 
+bpn12270 
 
 ----
 
@@ -1743,7 +1744,7 @@ O toku Atua mo toku Matai!  Au ko Tau tavini mo te tama tagata a Tau tavini.  Au
 
 -- Bahá'u'lláh
 
-bpn12231 «[Tuvalu](../tvl/prayers/#bpn12231)» 
+bpn12231 
 
 ----
 
@@ -1753,7 +1754,7 @@ Au ko oti ne ala i Tou malu, O toku Atua, kae ko fai a ia tela e salasala ke nof
 
 -- Bahá'u'lláh
 
-bpn12232 «[Tuvalu](../tvl/prayers/#bpn12232)» 
+bpn12232 
 
 ----
 
@@ -1763,7 +1764,7 @@ Au e avatu a tavaeega kia Koe, O toku Atua, ona ko Koe ko oti ne fago au mai i t
 
 -- Bahá'u'lláh
 
-bpn12233 «[Tuvalu](../tvl/prayers/#bpn12233)» 
+bpn12233 
 
 ----
 
@@ -1777,7 +1778,7 @@ E fakalauefa-gia a Tou igoa, O toku Atua, ona ko te mea te la ko oti ne fakaasi 
 
 -- Bahá'u'lláh
 
-bpn12303 «[Tuvalu](../tvl/prayers/#bpn12303)» 
+bpn12303 
 
 ----
 
@@ -1787,7 +1788,7 @@ Tavaeega e ia Koe, Te Aliki toku Atua!  Au e fakamolemole kia Koe, mai i Tou Igo
 
 -- Bahá'u'lláh
 
-bpn12304 «[Tuvalu](../tvl/prayers/#bpn12304)» 
+bpn12304 
 
 ----
 
@@ -1797,7 +1798,7 @@ Matagofie e i luga ia Koe, O te Aliki o te lalolagi mo te Manakoga o maalo, O ko
 
 -- Bahá'u'lláh
 
-bpn12305 «[Tuvalu](../tvl/prayers/#bpn12305)» 
+bpn12305 
 
 ----
 
@@ -1807,7 +1808,7 @@ O ko te Atua, Tela ko Ia a te Tino Tusi o Faifekau katoa, ko te Kamataga o Kamat
 
 -- Bahá'u'lláh
 
-bpn12306 «[Tuvalu](../tvl/prayers/#bpn12306)» 
+bpn12306 
 
 ----
 
@@ -1817,7 +1818,7 @@ Fai atu: Ke faka-lasiigina a Tou Igoa, O te Aliki toku Atua!  Au e akai totuli k
 
 -- Bahá'u'lláh
 
-bpn12307 «[Tuvalu](../tvl/prayers/#bpn12307)» 
+bpn12307 
 
 ----
 
@@ -1827,7 +1828,7 @@ O toku Atua, fesoasoani mai Koe ki Tau tavini o avaka a te Muna, kae ke teke atu
 
 -- Abdu'l-Bahá
 
-bpn12308 «[Tuvalu](../tvl/prayers/#bpn12308)» 
+bpn12308 
 
 ----
 
@@ -1837,7 +1838,7 @@ O te Atua, toku Atua! Fesoasoani mai Koe ki Au tavini fakamaoni ke maua ia latou
 
 -- Abdu'l-Bahá
 
-bpn12309 «[Tuvalu](../tvl/prayers/#bpn12309)» 
+bpn12309 
 
 ----
 
@@ -1847,7 +1848,7 @@ E lavea ne Koe au, O toku Aua, e ifo ki lalo mo te maulalo, kae totuli au i mua 
 
 -- Abdu'l-Bahá
 
-bpn12310 «[Tuvalu](../tvl/prayers/#bpn12310)» 
+bpn12310 
 
 ----
 
@@ -1857,7 +1858,7 @@ E iloa ne Koe, O te Atua, ia Koe ko taku molimau ia au e seai soku fakamoemoega 
 
 -- Abdu'l-Bahá
 
-bpn12311 «[Tuvalu](../tvl/prayers/#bpn12311)» 
+bpn12311 
 
 ----
 
@@ -1871,7 +1872,7 @@ O ko Koe a te Aliki alofa!  Mai i te sikulagi o te motu mai keatea ko Koe ko oti
 
 -- Abdu'l-Bahá
 
-bpn12360 «[Tuvalu](../tvl/prayers/#bpn12360)» 
+bpn12360 
 
 ----
 
@@ -1881,7 +1882,7 @@ O ko Koe te Aliki alofa! Mo te alofa tuku mai a se avaa kapakau faka-te-lagi kia
 
 -- Abdu'l-Bahá
 
-bpn12361 «[Tuvalu](../tvl/prayers/#bpn12361)» 
+bpn12361 
 
 ----
 
@@ -1891,7 +1892,7 @@ O ko Koe a te Aliki alofa! Tuku mai a fakamanuiaaga faka-te-lagi ki te tama fafi
 
 -- Abdu'l-Bahá
 
-bpn12362 «[Tuvalu](../tvl/prayers/#bpn12362)» 
+bpn12362 
 
 ----
 
@@ -1901,7 +1902,7 @@ O te Aliki! Fai aka a te talavou tenei ke tupu ola, kae avatu a Tau fakamanuiaag
 
 -- Abdu'l-Bahá
 
-bpn12363 «[Tuvalu](../tvl/prayers/#bpn12363)» 
+bpn12363 
 
 ----
 
@@ -1911,7 +1912,7 @@ Vikiiga mo te matagofie e ia Koe, O te Aliki toku Atua! A te mea nei se tega fil
 
 -- Abdu'l-Bahá
 
-bpn12364 «[Tuvalu](../tvl/prayers/#bpn12364)» 
+bpn12364 
 
 ----
 
@@ -1925,7 +1926,7 @@ bpn12364 «[Tuvalu](../tvl/prayers/#bpn12364)»
 
 -- Bahá'u'lláh
 
-bpn10861 «[Tuvalu](../tvl/prayers/#bpn10861)» 
+bpn10861 
 
 ----
 
@@ -1939,7 +1940,7 @@ bpn10861 «[Tuvalu](../tvl/prayers/#bpn10861)»
 
 -- Bahá'u'lláh
 
-bpn10860 «[Tuvalu](../tvl/prayers/#bpn10860)» 
+bpn10860 
 
 ----
 
@@ -1953,7 +1954,7 @@ bpn10860 «[Tuvalu](../tvl/prayers/#bpn10860)»
 
 -- Bahá'u'lláh
 
-bpn10862 «[Tuvalu](../tvl/prayers/#bpn10862)» 
+bpn10862 
 
 ----
 
@@ -1967,7 +1968,7 @@ bpn10862 «[Tuvalu](../tvl/prayers/#bpn10862)»
 
 -- Abdu'l-Bahá
 
-bpn12312 «[Tuvalu](../tvl/prayers/#bpn12312)» 
+bpn12312 
 
 ----
 
@@ -1977,7 +1978,7 @@ bpn12312 «[Tuvalu](../tvl/prayers/#bpn12312)»
 
 -- Abdu'l-Bahá
 
-bpn12313 «[Tuvalu](../tvl/prayers/#bpn12313)» 
+bpn12313 
 
 ----
 
@@ -1987,7 +1988,7 @@ bpn12313 «[Tuvalu](../tvl/prayers/#bpn12313)»
 
 -- Abdu'l-Bahá
 
-bpn12314 «[Tuvalu](../tvl/prayers/#bpn12314)» 
+bpn12314 
 
 ----
 
@@ -1997,7 +1998,7 @@ bpn12314 «[Tuvalu](../tvl/prayers/#bpn12314)»
 
 -- Abdu'l-Bahá
 
-bpn12315 «[Tuvalu](../tvl/prayers/#bpn12315)» 
+bpn12315 
 
 ----
 
@@ -2007,7 +2008,7 @@ bpn12315 «[Tuvalu](../tvl/prayers/#bpn12315)»
 
 -- Abdu'l-Bahá
 
-bpn12316 «[Tuvalu](../tvl/prayers/#bpn12316)» 
+bpn12316 
 
 ----
 
@@ -2017,7 +2018,7 @@ bpn12316 «[Tuvalu](../tvl/prayers/#bpn12316)»
 
 -- Abdu'l-Bahá
 
-bpn12317 «[Tuvalu](../tvl/prayers/#bpn12317)» 
+bpn12317 
 
 ----
 
@@ -2027,7 +2028,7 @@ bpn12317 «[Tuvalu](../tvl/prayers/#bpn12317)»
 
 -- Abdu'l-Bahá
 
-bpn12318 «[Tuvalu](../tvl/prayers/#bpn12318)» 
+bpn12318 
 
 ----
 
@@ -2037,7 +2038,7 @@ bpn12318 «[Tuvalu](../tvl/prayers/#bpn12318)»
 
 -- Abdu'l-Bahá
 
-bpn12319 «[Tuvalu](../tvl/prayers/#bpn12319)» 
+bpn12319 
 
 ----
 
@@ -2047,7 +2048,7 @@ bpn12319 «[Tuvalu](../tvl/prayers/#bpn12319)»
 
 -- Abdu'l-Bahá
 
-bpn12320 «[Tuvalu](../tvl/prayers/#bpn12320)» 
+bpn12320 
 
 ----
 
@@ -2057,7 +2058,7 @@ bpn12320 «[Tuvalu](../tvl/prayers/#bpn12320)»
 
 -- Abdu'l-Bahá
 
-bpn12321 «[Tuvalu](../tvl/prayers/#bpn12321)» 
+bpn12321 
 
 ----
 
@@ -2071,7 +2072,7 @@ O te Aliki, toku Atua! Mea nei se tamaliki ne vau i kanofi o se isi o Au tavini 
 
 -- Bahá'u'lláh
 
-bpn10873 «[Tuvalu](../tvl/prayers/#bpn10873)» 
+bpn10873 
 
 ----
 
@@ -2081,7 +2082,7 @@ O te Atua!  Akoako a tamaliki konei.  Tamaliki konei ko lakau o Tou laukele, ko 
 
 -- Abdu'l-Bahá
 
-bpn10874 «[Tuvalu](../tvl/prayers/#bpn10874)» 
+bpn10874 
 
 ----
 
@@ -2091,7 +2092,7 @@ Au se tamaliki koi tupu aka.  Fagai mai au mai ite susu o Tou alofa kaimalie, ak
 
 -- Abdu'l-Bahá
 
-bpn10875 «[Tuvalu](../tvl/prayers/#bpn10875)» 
+bpn10875 
 
 ----
 
@@ -2101,7 +2102,7 @@ O te Aliki Silisiliese! A Koe ke fi pela me se lafiiga mo te tamaliki se lava te
 
 -- Abdu'l-Bahá
 
-bpn10876 «[Tuvalu](../tvl/prayers/#bpn10876)» 
+bpn10876 
 
 ----
 
@@ -2111,7 +2112,7 @@ O toku Atua! O toku Atua! E lavea ne Koe a tamaliki konei ko aka ote lakau ote o
 
 -- Abdu'l-Bahá
 
-bpn10877 «[Tuvalu](../tvl/prayers/#bpn10877)» 
+bpn10877 
 
 ----
 
@@ -2121,7 +2122,7 @@ O te Aliki! Au se tamaliki; fai aka au ke tupu aka i lalo ote malu o Tou alofa-k
 
 -- Abdu'l-Bahá
 
-bpn10878 «[Tuvalu](../tvl/prayers/#bpn10878)» 
+bpn10878 
 
 ----
 
@@ -2131,7 +2132,7 @@ O Koe ko te toe Aliki matagofie!  Fai aka ate tavini fafine foliki a Koe tenei k
 
 -- Abdu'l-Bahá
 
-bpn10879 «[Tuvalu](../tvl/prayers/#bpn10879)» 
+bpn10879 
 
 ----
 
@@ -2141,7 +2142,7 @@ O ko Koe ko te Aliki alofa! A tamaliki gali konei ko fakafuaga o maikao o Tou ma
 
 -- Abdu'l-Bahá
 
-bpn10880 «[Tuvalu](../tvl/prayers/#bpn10880)» 
+bpn10880 
 
 ----
 
@@ -2151,7 +2152,7 @@ O te Aliki!  Fai aka tamaliki konei ke pe la me ne lakau ola lei.  Fai latou ke 
 
 -- Abdu'l-Bahá
 
-bpn10881 «[Tuvalu](../tvl/prayers/#bpn10881)» 
+bpn10881 
 
 ----
 
@@ -2161,7 +2162,7 @@ A Ia kote Atua! O te Atua, toku Atua!  Tuku mai kia au ate loto maa, ke pela me 
 
 -- Abdu'l-Bahá
 
-bpn10882 «[Tuvalu](../tvl/prayers/#bpn10882)» 
+bpn10882 
 
 ----
 
@@ -2171,7 +2172,7 @@ O te Atua, takitaki mai au, puipui mai au, fakamaina mai au pela me se lamepa ma
 
 -- Abdu'l-Bahá
 
-bpn10883 «[Tuvalu](../tvl/prayers/#bpn10883)» 
+bpn10883 
 
 ----
 
@@ -2185,7 +2186,7 @@ bpn10883 «[Tuvalu](../tvl/prayers/#bpn10883)»
 
 -- Bahá'u'lláh
 
-bpn10980 «[Tuvalu](../tvl/prayers/#bpn10980)» 
+bpn10980 
 
 ----
 
@@ -2199,7 +2200,7 @@ bpn10980 «[Tuvalu](../tvl/prayers/#bpn10980)»
 
 -- Bahá'u'lláh
 
-bpn10982 «[Tuvalu](../tvl/prayers/#bpn10982)» 
+bpn10982 
 
 ----
 
@@ -2213,7 +2214,7 @@ I te Igoa o te Atua, ko te Tafasili i te Favavau, ko te tafasili i te Lasi.  E t
 
 -- Bahá'u'lláh
 
-bpn10981 «[Tuvalu](../tvl/prayers/#bpn10981)» 
+bpn10981 
 
 ----
 
@@ -2227,7 +2228,7 @@ bpn10981 «[Tuvalu](../tvl/prayers/#bpn10981)»
 
 -- Bahá'u'lláh
 
-bpn10983 «[Tuvalu](../tvl/prayers/#bpn10983)» 
+bpn10983 
 
 ----
 
@@ -2241,7 +2242,7 @@ bpn10983 «[Tuvalu](../tvl/prayers/#bpn10983)»
 
 -- Abdu'l-Bahá
 
-bpn10984 «[Tuvalu](../tvl/prayers/#bpn10984)» 
+bpn10984 
 
 ----
 
@@ -2255,7 +2256,7 @@ bpn10984 «[Tuvalu](../tvl/prayers/#bpn10984)»
 
 -- Bahá'u'lláh
 
-bpn10971 «[Tuvalu](../tvl/prayers/#bpn10971)» 
+bpn10971 
 
 ----
 
@@ -2269,7 +2270,7 @@ Ko vikiiga katoa, O toku Atua, e o Koe Tela ko te Puna o matagofie silisili ese 
 
 -- Bahá'u'lláh
 
-bpn12248 «[Tuvalu](../tvl/prayers/#bpn12248)» 
+bpn12248 
 
 ----
 
@@ -2279,7 +2280,7 @@ E fakaaloalogina a Koe, O te Aliki toku Atua! Au e tuku atu kia Koe a te fakafet
 
 -- Bahá'u'lláh
 
-bpn12249 «[Tuvalu](../tvl/prayers/#bpn12249)» 
+bpn12249 
 
 ----
 
@@ -2289,7 +2290,7 @@ T avaeega e io Koe, o te Aliki toku Atua!  I taimi katoa e taumafai au o taku a 
 
 -- Bahá'u'lláh
 
-bpn12250 «[Tuvalu](../tvl/prayers/#bpn12250)» 
+bpn12250 
 
 ----
 
@@ -2299,7 +2300,7 @@ Afioga mo mana katoa, O toku Atua, mo maalo katoa mo te mainaaga pela foki mo te
 
 -- Báb
 
-bpn12251 «[Tuvalu](../tvl/prayers/#bpn12251)» 
+bpn12251 
 
 ----
 
@@ -2313,7 +2314,7 @@ E lauefa Tou Igoa, o te Atua, te Aliki o te lagi!  Fakaeke aka toku fogaulu ki t
 
 -- Bahá'u'lláh
 
-bpn12271 «[Tuvalu](../tvl/prayers/#bpn12271)» 
+bpn12271 
 
 ----
 
@@ -2323,7 +2324,7 @@ Au e avatu tavaeega kia Koe, O toku Atua, ko te manogi gali o Tou alofaatafai te
 
 -- Bahá'u'lláh
 
-bpn12272 «[Tuvalu](../tvl/prayers/#bpn12272)» 
+bpn12272 
 
 ----
 
@@ -2333,7 +2334,7 @@ Vikiiga kia Koe, O te Aliki toku Atua! Au ko te tasi ne sala atu ki fiafiaaga le
 
 -- Bahá'u'lláh
 
-bpn12273 «[Tuvalu](../tvl/prayers/#bpn12273)» 
+bpn12273 
 
 ----
 
@@ -2343,7 +2344,7 @@ E pefea a te tokouke o agaaga ola ko la ne fakaola olotou ola ne pokotia kii ne 
 
 -- Báb
 
-bpn12274 «[Tuvalu](../tvl/prayers/#bpn12274)» 
+bpn12274 
 
 ----
 
@@ -2353,7 +2354,7 @@ Te matagofie e ia Koe, O te Aliki!  E uiloa a Koe e mafai o fai se tino ke mativ
 
 -- Báb
 
-bpn12275 «[Tuvalu](../tvl/prayers/#bpn12275)» 
+bpn12275 
 
 ----
 
@@ -2363,7 +2364,7 @@ O te Atamai Kilo-mao Faka-te-Lagi!  Avaka ki gutu o Au fagasele a te ipu fonu i 
 
 -- Abdu'l-Bahá
 
-bpn12276 «[Tuvalu](../tvl/prayers/#bpn12276)» 
+bpn12276 
 
 ----
 
@@ -2377,7 +2378,7 @@ bpn12276 «[Tuvalu](../tvl/prayers/#bpn12276)»
 
 -- Bahá'u'lláh
 
-bpn10960 «[Tuvalu](../tvl/prayers/#bpn10960)» 
+bpn10960 
 
 ----
 
@@ -2387,7 +2388,7 @@ I te Igoa o Ia Te la ko oti ne feagaiiga mai i Tusi ate Atua, te Iloa-Katoatoa, 
 
 -- Bahá'u'lláh
 
-bpn10961 «[Tuvalu](../tvl/prayers/#bpn10961)» 
+bpn10961 
 
 ----
 
@@ -2397,7 +2398,7 @@ Au e akai totuli kia Koe, O toku Atua, ona ko Tau Fakailoga mafi, mo te fakaasii
 
 -- Bahá'u'lláh
 
-bpn10962 «[Tuvalu](../tvl/prayers/#bpn10962)» 
+bpn10962 
 
 ----
 
@@ -2407,7 +2408,7 @@ Ke Tavaegina Koe, O te Aliki toku Atua! Au e akai faka-maulalo kia Koe i te Faka
 
 -- Bahá'u'lláh
 
-bpn10963 «[Tuvalu](../tvl/prayers/#bpn10963)» 
+bpn10963 
 
 ----
 
@@ -2417,7 +2418,7 @@ Mea nei, O toku Atua, ko aso ko la ko oti ne fakatonu mai ne Koe ko Au tavini ke
 
 -- Bahá'u'lláh
 
-bpn10964 «[Tuvalu](../tvl/prayers/#bpn10964)» 
+bpn10964 
 
 ----
 
@@ -2427,7 +2428,7 @@ Te Matagofie ea ia Koe, O te Aliki toku Atua!   Mea nei ko aso ko la ko oti ne f
 
 -- Bahá'u'lláh
 
-bpn10965 «[Tuvalu](../tvl/prayers/#bpn10965)» 
+bpn10965 
 
 ----
 
@@ -2437,7 +2438,7 @@ Tavaeega e i luga ia Koe, O te Aliki toku Atua! Ko oti ne tautali matou ki te An
 
 -- Bahá'u'lláh
 
-bpn10966 «[Tuvalu](../tvl/prayers/#bpn10966)» 
+bpn10966 
 
 ----
 
@@ -2447,7 +2448,7 @@ Tavaeega kia Koe, O te Atua, toku Atua! Mea nei ko aso ko la ko oti ne fakasino 
 
 -- Bahá'u'lláh
 
-bpn10967 «[Tuvalu](../tvl/prayers/#bpn10967)» 
+bpn10967 
 
 ----
 
@@ -2457,7 +2458,7 @@ O toku Atua mo toku Matai!  E lavea ne Koe au i vasia o Au mea faiite ko la ne t
 
 -- Bahá'u'lláh
 
-bpn10968 «[Tuvalu](../tvl/prayers/#bpn10968)» 
+bpn10968 
 
 ----
 
@@ -2467,7 +2468,7 @@ E malu e o Koe, O te Aliki toku Atua!  Au e akai totuli kia Koe ona ko latou ko 
 
 -- Bahá'u'lláh
 
-bpn10969 «[Tuvalu](../tvl/prayers/#bpn10969)» 
+bpn10969 
 
 ----
 
@@ -2481,7 +2482,7 @@ O ko Ou Mata Ko la ko te pogai o oku fakamoemoega, Tena gali ko toku lafiiga, Te
 
 -- Bahá'u'lláh
 
-bpn10863 «[Tuvalu](../tvl/prayers/#bpn10863)» 
+bpn10863 
 
 ----
 
@@ -2491,7 +2492,7 @@ Toku Atua, toku Atua Fagasele, toku Tupu, toku Fakamoemoega!  Se a ate laulaufai
 
 -- Bahá'u'lláh
 
-bpn10864 «[Tuvalu](../tvl/prayers/#bpn10864)» 
+bpn10864 
 
 ----
 
@@ -2501,7 +2502,7 @@ E vikia Tou Igoa, O te Aliki te motou Atua!  A Koe i te tonuuga ko te Iloa o mea
 
 -- Báb
 
-bpn10865 «[Tuvalu](../tvl/prayers/#bpn10865)» 
+bpn10865 
 
 ----
 
@@ -2511,7 +2512,7 @@ O toku Atua, toku Aliki mo toku Matai! Ko oti au ne motu mai ia latou ko la e pi
 
 -- Báb
 
-bpn10866 «[Tuvalu](../tvl/prayers/#bpn10866)» 
+bpn10866 
 
 ----
 
@@ -2521,7 +2522,7 @@ Te Aliki! Matou e faka-alofa, faka-mealofa mai matou i Ou alofaaga; mativa, tuku
 
 -- Abdu'l-Bahá
 
-bpn10867 «[Tuvalu](../tvl/prayers/#bpn10867)» 
+bpn10867 
 
 ----
 
@@ -2531,7 +2532,7 @@ O Koe ko te Aliki alofa! Matou ko Au tavini i Tou Auala, e lafi i Tou Mataloa ma
 
 -- Abdu'l-Bahá
 
-bpn10868 «[Tuvalu](../tvl/prayers/#bpn10868)» 
+bpn10868 
 
 ----
 
@@ -2541,7 +2542,7 @@ Se avea keatea, O te Aliki, a te epa fiafia tenei ko fola i Tou Igoa, kae se tam
 
 -- Abdu'l-Bahá
 
-bpn10869 «[Tuvalu](../tvl/prayers/#bpn10869)» 
+bpn10869 
 
 ----
 
@@ -2555,7 +2556,7 @@ bpn10869 «[Tuvalu](../tvl/prayers/#bpn10869)»
 
 -- Abdu'l-Bahá
 
-bpn10934 «[Tuvalu](../tvl/prayers/#bpn10934)» 
+bpn10934 
 
 ----
 
@@ -2569,7 +2570,7 @@ Toku Atua Tela e tapuaki kae ifo ne au!  E molimau au ki Tou tafatasi mo Tou fak
 
 -- Bahá'u'lláh
 
-bpn10954 «[Tuvalu](../tvl/prayers/#bpn10954)» 
+bpn10954 
 
 ----
 
@@ -2579,7 +2580,7 @@ O ko Koe a te Aliki kilo-alofa, ko Koe Tela e kaimalie kae fai mea mafai!  Matou
 
 -- Abdu'l-Bahá
 
-bpn10955 «[Tuvalu](../tvl/prayers/#bpn10955)» 
+bpn10955 
 
 ----
 
@@ -2589,7 +2590,7 @@ O ko Koe ko te Aliki alofa!  O ko Koe tela e alofa kae kaimalie!  Matou ko tavin
 
 -- Abdu'l-Bahá
 
-bpn10956 «[Tuvalu](../tvl/prayers/#bpn10956)» 
+bpn10956 
 
 ----
 
@@ -2599,7 +2600,7 @@ O te Atua, O ko Koe Tela ne tuku atu a Tou gali ki luga i te mainaaga o te tina 
 
 -- Abdu'l-Bahá
 
-bpn10957 «[Tuvalu](../tvl/prayers/#bpn10957)» 
+bpn10957 
 
 ----
 
@@ -2613,7 +2614,7 @@ E faka-lauefagia a Tou igoa, O te Aliki toku Atua!  Au e seiloa ne au me se aa t
 
 -- Bahá'u'lláh
 
-bpn12330 «[Tuvalu](../tvl/prayers/#bpn12330)» 
+bpn12330 
 
 ----
 
@@ -2623,7 +2624,7 @@ E fakamalugia a Tou igoa, O toku Atua!  E lavea ne Koe me e pefea a matagi maalo
 
 -- Bahá'u'lláh
 
-bpn12331 «[Tuvalu](../tvl/prayers/#bpn12331)» 
+bpn12331 
 
 ----
 
@@ -2633,7 +2634,7 @@ Ko tavaeega katoa e io Koe, O toku Atua! E lavea mai ne Koe a toku fakaalofa mot
 
 -- Bahá'u'lláh
 
-bpn12332 «[Tuvalu](../tvl/prayers/#bpn12332)» 
+bpn12332 
 
 ----
 
@@ -2643,7 +2644,7 @@ Kia Koe ke tavaegia, O ko Koe Te la ne fakalogo mai a Tou taliga ki manavaaga o 
 
 -- Bahá'u'lláh
 
-bpn12333 «[Tuvalu](../tvl/prayers/#bpn12333)» 
+bpn12333 
 
 ----
 
@@ -2653,7 +2654,7 @@ E maluga e ia Koe, O te Aliki toku Atua!  E tuku atu ne au kia Koe a te fakafeta
 
 -- Bahá'u'lláh
 
-bpn12334 «[Tuvalu](../tvl/prayers/#bpn12334)» 
+bpn12334 
 
 ----
 
@@ -2663,7 +2664,7 @@ O te Atua, Toku Atua! Sa fakamao a Koe mo au, aua i fakalavelave mo fakalave ko 
 
 -- Bahá'u'lláh
 
-bpn12335 «[Tuvalu](../tvl/prayers/#bpn12335)» 
+bpn12335 
 
 ----
 
@@ -2677,7 +2678,7 @@ Ko Koe ko Au tofotofoga ko vailakau fakagata masaki mo latou ko la e pili atu ki
 
 -- Bahá'u'lláh
 
-bpn12322 «[Tuvalu](../tvl/prayers/#bpn12322)» 
+bpn12322 
 
 ----
 
@@ -2687,7 +2688,7 @@ Te mana e io Koe, O toku Atua!  Kae ona ko fakalavelave ko la e tumau i Tou aual
 
 -- Bahá'u'lláh
 
-bpn12323 «[Tuvalu](../tvl/prayers/#bpn12323)» 
+bpn12323 
 
 ----
 
@@ -2697,7 +2698,7 @@ Ave keatea a toku fanoanoa ne Tou maukoloa mo Tou kaimalie, O te Atua, toku Atua
 
 -- Bahá'u'lláh
 
-bpn12324 «[Tuvalu](../tvl/prayers/#bpn12324)» 
+bpn12324 
 
 ----
 
@@ -2707,7 +2708,7 @@ E maluga kae e matagofie a Koe, O toku Atua!  Au e akai faka-molemole kia Koe i 
 
 -- Bahá'u'lláh
 
-bpn12325 «[Tuvalu](../tvl/prayers/#bpn12325)» 
+bpn12325 
 
 ----
 
@@ -2717,7 +2718,7 @@ E isi e Ave ne Ia a mea faigata na ko te Atua?  Fai atu: Vikia a te Atua! A Ia k
 
 -- Báb
 
-bpn12326 «[Tuvalu](../tvl/prayers/#bpn12326)» 
+bpn12326 
 
 ----
 
@@ -2727,7 +2728,7 @@ E iloa fakallei ne Koe, O toku Atua, i fakalavelave ko oti ne vaiua ifo ki luga 
 
 -- Báb
 
-bpn12327 «[Tuvalu](../tvl/prayers/#bpn12327)» 
+bpn12327 
 
 ----
 
@@ -2737,7 +2738,7 @@ Au e fakasaga tonu kia Koe ona ko Tou mafi, O toku Atua!  Ke aunoa se faigata e 
 
 -- Báb
 
-bpn12328 «[Tuvalu](../tvl/prayers/#bpn12328)» 
+bpn12328 
 
 ----
 
@@ -2747,7 +2748,7 @@ O te Aliki! Koe ko te Ave-Keatea o so se tigaina mo te Fakaseai o so se pokotiaa
 
 -- Báb
 
-bpn12329 «[Tuvalu](../tvl/prayers/#bpn12329)» 
+bpn12329 
 
 ----
 
@@ -2761,7 +2762,7 @@ Mai i te manogi gali o te vai e tafe o Tou favavau tuku mai kia au ke inu, O tok
 
 -- Bahá'u'lláh
 
-bpn12279 «[Tuvalu](../tvl/prayers/#bpn12279)» 
+bpn12279 
 
 ----
 
@@ -2771,7 +2772,7 @@ Faiite aka ia au a te loto e maa takalekale, O toku Atua, kae fakafoou se mafauf
 
 -- Bahá'u'lláh
 
-bpn12280 «[Tuvalu](../tvl/prayers/#bpn12280)» 
+bpn12280 
 
 ----
 
@@ -2781,7 +2782,7 @@ O te Atua, toku Atua! A Tau kalaga e fakapili atu ne ia au, a ko te leo o Tau Pe
 
 -- Bahá'u'lláh
 
-bpn12281 «[Tuvalu](../tvl/prayers/#bpn12281)» 
+bpn12281 
 
 ----
 
@@ -2791,7 +2792,7 @@ O toku Aliki! Fai aka Tou gali mo fai a taku meakai, a ko Tou nofo-mai mo fai a 
 
 -- Bahá'u'lláh
 
-bpn12282 «[Tuvalu](../tvl/prayers/#bpn12282)» 
+bpn12282 
 
 ----
 
@@ -2801,7 +2802,7 @@ O toku Atua, te Atua o te manuia mo ate alofa-kaimalie    (29)    O toku Atua, k
 
 -- Bahá'u'lláh
 
-bpn12283 «[Tuvalu](../tvl/prayers/#bpn12283)» 
+bpn12283 
 
 ----
 
@@ -2811,7 +2812,7 @@ Mai i Tou matagofie, O te Fagasele Tokotasi, Koe ko te tuku atu ote mainaaga ki 
 
 -- Bahá'u'lláh
 
-bpn12284 «[Tuvalu](../tvl/prayers/#bpn12284)» 
+bpn12284 
 
 ----
 
@@ -2821,7 +2822,7 @@ E mana a Koe, O te Aliki toku Atua! O te Aliki toku Atua!  E tuku atua kia Koe a
 
 -- Bahá'u'lláh
 
-bpn12285 «[Tuvalu](../tvl/prayers/#bpn12285)» 
+bpn12285 
 
 ----
 
@@ -2831,7 +2832,7 @@ Au e akai faka-maulalo kia Koe, O toku Atua, mo te matagofie lasi o Tou Igoa, o 
 
 -- Bahá'u'lláh
 
-bpn12286 «[Tuvalu](../tvl/prayers/#bpn12286)» 
+bpn12286 
 
 ----
 
@@ -2841,7 +2842,7 @@ Tuku mai kia au, O toku Atua, a Tou alofa katoatoa mo Tou fiafiaaga-lei, tela ma
 
 -- Báb
 
-bpn12287 «[Tuvalu](../tvl/prayers/#bpn12287)» 
+bpn12287 
 
 ----
 
@@ -2851,7 +2852,7 @@ O te Atua! Fakafou kae faka-fiafia toku agaaga.  Fakamaa toku loto.  Fakamaina t
 
 -- Abdu'l-Bahá
 
-bpn12288 «[Tuvalu](../tvl/prayers/#bpn12288)» 
+bpn12288 
 
 ----
 
@@ -2861,7 +2862,7 @@ O toku Atua! O toku Atua!  Te matagofie i luga ia Koe aua ia au ko oti ne faka-t
 
 -- Abdu'l-Bahá
 
-bpn12289 «[Tuvalu](../tvl/prayers/#bpn12289)» 
+bpn12289 
 
 ----
 
@@ -2871,7 +2872,7 @@ O toku Aliki! O toku Aiki! Mea nei se lamepa ne faka kaa ne te afi o Tou alofa a
 
 -- Abdu'l-Bahá
 
-bpn12290 «[Tuvalu](../tvl/prayers/#bpn12290)» 
+bpn12290 
 
 ----
 
@@ -2881,7 +2882,7 @@ O toku Atua! O toku Atua! Mea nei, ko Tau tavini ko oti ne fanatu kia Koe, kae k
 
 -- Abdu'l-Bahá
 
-bpn12291 «[Tuvalu](../tvl/prayers/#bpn12291)» 
+bpn12291 
 
 ----
 
@@ -2891,7 +2892,7 @@ O te Atua, toku Atua!  Mea nei ko Au tavini vaaivai; a latou ko Au Tavini tagata
 
 -- Abdu'l-Bahá
 
-bpn12292 «[Tuvalu](../tvl/prayers/#bpn12292)» 
+bpn12292 
 
 ----
 
@@ -2901,7 +2902,7 @@ A Ia ko te Atua! O toku Atua!  Mea ne ko tavini e fiafia i Ou aso ki te manogi o
 
 -- Abdu'l-Bahá
 
-bpn12293 «[Tuvalu](../tvl/prayers/#bpn12293)» 
+bpn12293 
 
 ----
 
@@ -2911,7 +2912,7 @@ O Koe ko te Fakasoasoa!  Ko oti a Koe ne manava mai i luga i taugasoa i te Togal
 
 -- Abdu'l-Bahá
 
-bpn12294 «[Tuvalu](../tvl/prayers/#bpn12294)» 
+bpn12294 
 
 ----
 
@@ -2925,7 +2926,7 @@ A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakam
 
 -- Bahá'u'lláh
 
-bpn10953 «[Tuvalu](../tvl/prayers/#bpn10953)» 
+bpn10953 
 
 ----
 
@@ -2939,7 +2940,7 @@ Te Matagofie e a Koe, O toku Atua!  A gasuesuenga muamua loa o te vasia taimi te
 
 -- Bahá'u'lláh
 
-bpn10907 «[Tuvalu](../tvl/prayers/#bpn10907)» 
+bpn10907 
 
 ----
 
@@ -2949,7 +2950,7 @@ E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola 
 
 -- Bahá'u'lláh
 
-bpn10908 «[Tuvalu](../tvl/prayers/#bpn10908)» 
+bpn10908 
 
 ----
 
@@ -2963,7 +2964,7 @@ bpn10908 «[Tuvalu](../tvl/prayers/#bpn10908)»
 
 -- Abdu'l-Bahá
 
-bpn10912 «[Tuvalu](../tvl/prayers/#bpn10912)» 
+bpn10912 
 
 ----
 
@@ -2977,7 +2978,7 @@ Te matagofie e o Koe, O te Aliki toku a Atua!  Au e akai atu kia Koe i Tou Igoa 
 
 -- Bahá'u'lláh
 
-bpn10951 «[Tuvalu](../tvl/prayers/#bpn10951)» 
+bpn10951 
 
 ----
 
@@ -2987,7 +2988,7 @@ O toku Atua, O te Fakamagalo o agasala mo te Ave-Keatea o mea faigata! O ko Koe 
 
 -- Abdu'l-Bahá
 
-bpn10893 «[Tuvalu](../tvl/prayers/#bpn10893)» 
+bpn10893 
 
 ----
 
@@ -2997,7 +2998,7 @@ O te Aliki, O ko Tou alofa-kaimalie ko siomia i ei a tino katoa, Tena fakamagalo
 
 -- Abdu'l-Bahá
 
-bpn10894 «[Tuvalu](../tvl/prayers/#bpn10894)» 
+bpn10894 
 
 ----
 
@@ -3007,7 +3008,7 @@ O Koe te Aliki Alofa!  A tau tavini fafine faka-alofa ne manako kia Koe, kae mai
 
 -- Abdu'l-Bahá
 
-bpn10895 «[Tuvalu](../tvl/prayers/#bpn10895)» 
+bpn10895 
 
 ----
 
@@ -3021,7 +3022,7 @@ A Koe ko Ia, O toku Atua, te la i Ona igoa a masaki ne fakalei a olotou masaki a
 
 -- Bahá'u'lláh
 
-bpn10952 «[Tuvalu](../tvl/prayers/#bpn10952)» 
+bpn10952 
 
 ----
 

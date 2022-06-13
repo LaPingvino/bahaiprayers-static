@@ -5,6 +5,7 @@ tags = ['lang=sq', 'prayerbook']
 
 
 
+
 [Agjërimi](#Agj%C3%ABrimi)
 
 [Asambleja shpirtërore](#Asambleja+shpirt%C3%ABrore)
@@ -99,7 +100,7 @@ tags = ['lang=sq', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2851 «[Shqip](../sq/prayers/#bpn2851)» 
+bpn2851 
 
 ----
 
@@ -109,7 +110,7 @@ bpn2851 «[Shqip](../sq/prayers/#bpn2851)»
 
 -- Bahá'u'lláh
 
-bpn2853 «[Shqip](../sq/prayers/#bpn2853)» 
+bpn2853 
 
 ----
 
@@ -119,7 +120,7 @@ O Providencë Hyjnore! Edhe pse unë po përmbahem nga dëshirat trupore dhe nuk
 
 -- Abdu'l-Bahá
 
-bpn2852 «[Shqip](../sq/prayers/#bpn2852)» 
+bpn2852 
 
 ----
 
@@ -133,7 +134,7 @@ Sa herë hyni në dhomën e konsultimit, thuajeni këtë lutje me zemrën që ju
 
 -- Abdu'l-Bahá
 
-bpn2759 «[Shqip](../sq/prayers/#bpn2759)» 
+bpn2759 
 
 ----
 
@@ -143,7 +144,7 @@ Mblidhuni së bashku me gëzim të pastër dhe, në fillim të mbledhjes, thoni 
 
 -- Abdu'l-Bahá
 
-bpn2760 «[Shqip](../sq/prayers/#bpn2760)» 
+bpn2760 
 
 ----
 
@@ -153,7 +154,7 @@ Lutje që duhet thënë në mbyllje të mbledhjes së Asamblesë Shpirtërore:O 
 
 -- Abdu'l-Bahá
 
-bpn2761 «[Shqip](../sq/prayers/#bpn2761)» 
+bpn2761 
 
 ----
 
@@ -167,7 +168,7 @@ O Perëndi, Perëndia im! Kjo shërbëtore Jotja të thërret Ty, beson në Ty, 
 
 -- Abdu'l-Bahá
 
-bpn2762 «[Shqip](../sq/prayers/#bpn2762)» 
+bpn2762 
 
 ----
 
@@ -181,7 +182,7 @@ Ditët e shtuara (nga 26 shkurti deri më 1 mars) duhet të jenë ditë përgati
 
 -- Bahá'u'lláh
 
-bpn2850 «[Shqip](../sq/prayers/#bpn2850)» 
+bpn2850 
 
 ----
 
@@ -195,7 +196,7 @@ bpn2850 «[Shqip](../sq/prayers/#bpn2850)»
 
 -- Bahá'u'lláh
 
-bpn2763 «[Shqip](../sq/prayers/#bpn2763)» 
+bpn2763 
 
 ----
 
@@ -209,7 +210,7 @@ Lëvduar qofsh Ti, O Zot, Perëndia im! Bëj mirësisht që kjo foshnjë të më
 
 -- Bahá'u'lláh
 
-bpn2768 «[Shqip](../sq/prayers/#bpn2768)» 
+bpn2768 
 
 ----
 
@@ -219,7 +220,7 @@ O Ti Zot i pashoq! le të mëkohet kjo foshnjë e vogël nga gjiri i dashamirës
 
 -- Abdu'l-Bahá
 
-bpn2769 «[Shqip](../sq/prayers/#bpn2769)» 
+bpn2769 
 
 ----
 
@@ -229,7 +230,7 @@ O Perëndi! Rrite këtë foshnjë të vogël në prehërin e dashurisë Sate, dh
 
 -- Abdu'l-Bahá
 
-bpn2770 «[Shqip](../sq/prayers/#bpn2770)» 
+bpn2770 
 
 ----
 
@@ -239,7 +240,7 @@ O Perëndi, më udhëhiq, më mbro, më bëj një llambë ndriçuese e një yll 
 
 -- Abdu'l-Bahá
 
-bpn2771 «[Shqip](../sq/prayers/#bpn2771)» 
+bpn2771 
 
 ----
 
@@ -249,7 +250,7 @@ O Perëndi! Edukoji këta fëmijë. Këta fëmijë janë bimët e pemishtes Sate
 
 -- Abdu'l-Bahá
 
-bpn2772 «[Shqip](../sq/prayers/#bpn2772)» 
+bpn2772 
 
 ----
 
@@ -259,7 +260,7 @@ O Ti Zot i mirë! Këta fëmijë të këndshëm janë vepra e gishtave të fuqis
 
 -- Abdu'l-Bahá
 
-bpn2773 «[Shqip](../sq/prayers/#bpn2773)» 
+bpn2773 
 
 ----
 
@@ -269,7 +270,7 @@ O Zoti im! O Zoti im!Unë jam një fëmijë i njomë. Më ushqe nga gjiri i mës
 
 -- Abdu'l-Bahá
 
-bpn2774 «[Shqip](../sq/prayers/#bpn2774)» 
+bpn2774 
 
 ----
 
@@ -279,7 +280,7 @@ O Ti, më i lavdishmi Zot! Bëje të bekuar e të lumtur shërbëtoren Tënde t�
 
 -- Abdu'l-Bahá
 
-bpn2775 «[Shqip](../sq/prayers/#bpn2775)» 
+bpn2775 
 
 ----
 
@@ -289,7 +290,7 @@ Të rinjtëO Zot! Bëje këtë të ri që të shkëlqejë dhe dhuroji bujarinë 
 
 -- Abdu'l-Bahá
 
-bpn2776 «[Shqip](../sq/prayers/#bpn2776)» 
+bpn2776 
 
 ----
 
@@ -303,7 +304,7 @@ I Madhërishëm je Ti, O Zot i të gjithë Krijimit, Ai tek i Cili duhet të kth
 
 -- Bahá'u'lláh
 
-bpn2778 «[Shqip](../sq/prayers/#bpn2778)» 
+bpn2778 
 
 ----
 
@@ -313,7 +314,7 @@ I lavdëruar je Ti, O Zoti im i dhembshur! Unë të lutem për vrumbullitjen e O
 
 -- Bahá'u'lláh
 
-bpn2779 «[Shqip](../sq/prayers/#bpn2779)» 
+bpn2779 
 
 ----
 
@@ -327,7 +328,7 @@ Të gjithë miqtë e Perëndisë... duhet të kontribuojnë sa të kenë mundës
 
 -- Abdu'l-Bahá
 
-bpn2777 «[Shqip](../sq/prayers/#bpn2777)» 
+bpn2777 
 
 ----
 
@@ -341,7 +342,7 @@ Të gjitha lavdërimet, O Perëndia im, qofshin mbi Ty që je burimi i çdo lavd
 
 -- Bahá'u'lláh
 
-bpn2780 «[Shqip](../sq/prayers/#bpn2780)» 
+bpn2780 
 
 ----
 
@@ -351,7 +352,7 @@ O Perëndi zemërdhembshur! Të falënderoj, sepse Ti më ke hapur sytë e më k
 
 -- Abdu'l-Bahá
 
-bpn2781 «[Shqip](../sq/prayers/#bpn2781)» 
+bpn2781 
 
 ----
 
@@ -365,7 +366,7 @@ bpn2781 «[Shqip](../sq/prayers/#bpn2781)»
 
 -- Bahá'u'lláh
 
-bpn2756 «[Shqip](../sq/prayers/#bpn2756)» 
+bpn2756 
 
 ----
 
@@ -379,7 +380,7 @@ Të thuhet një herë në njëzet e katër orëCilido që dëshiron ta thotë k�
 
 -- Bahá'u'lláh
 
-bpn2758 «[Shqip](../sq/prayers/#bpn2758)» 
+bpn2758 
 
 ----
 
@@ -393,7 +394,7 @@ Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,Ai që Fal Gjithçka, Mëshirëpl
 
 -- Bahá'u'lláh
 
-bpn2860 «[Shqip](../sq/prayers/#bpn2860)» 
+bpn2860 
 
 ----
 
@@ -403,7 +404,7 @@ Lutja më e pranueshme është ajo që ofrohet me gjithë shpirt e me gëzimin m
 
 -- Báb
 
-bpn2861 «[Shqip](../sq/prayers/#bpn2861)» 
+bpn2861 
 
 ----
 
@@ -417,7 +418,7 @@ Të thuhet çdo ditë në mëngjes, në mesditë e në mbrëmjeCilido që dëshi
 
 -- Bahá'u'lláh
 
-bpn2757 «[Shqip](../sq/prayers/#bpn2757)» 
+bpn2757 
 
 ----
 
@@ -431,7 +432,7 @@ Ti e di, O Perëndi, dhe je dëshmitari im, se unë nuk kam dëshirë tjetër n�
 
 -- Abdu'l-Bahá
 
-bpn2782 «[Shqip](../sq/prayers/#bpn2782)» 
+bpn2782 
 
 ----
 
@@ -445,7 +446,7 @@ bpn2782 «[Shqip](../sq/prayers/#bpn2782)»
 
 -- Abdu'l-Bahá
 
-bpn2783 «[Shqip](../sq/prayers/#bpn2783)» 
+bpn2783 
 
 ----
 
@@ -459,7 +460,7 @@ O Ti zemërdhembshur, Ti i Gjithëfuqishmi! Ky grumbullim njerëzish i ka kthyer
 
 -- Abdu'l-Bahá
 
-bpn2784 «[Shqip](../sq/prayers/#bpn2784)» 
+bpn2784 
 
 ----
 
@@ -469,7 +470,7 @@ O Perëndi! Me të vërtetë, ne jemi mbledhur këtu në aromën e dashurisë Sa
 
 -- Abdu'l-Bahá
 
-bpn2785 «[Shqip](../sq/prayers/#bpn2785)» 
+bpn2785 
 
 ----
 
@@ -479,7 +480,7 @@ O Providencë Hyjnore! Ky kuvend përbëhet prej miqve të Tu, që i ka tërhequ
 
 -- Abdu'l-Bahá
 
-bpn2786 «[Shqip](../sq/prayers/#bpn2786)» 
+bpn2786 
 
 ----
 
@@ -489,7 +490,7 @@ Sa herë që një grup njerëzish do të mblidhen në një vend takimi, do të l
 
 -- Abdu'l-Bahá
 
-bpn2787 «[Shqip](../sq/prayers/#bpn2787)» 
+bpn2787 
 
 ----
 
@@ -503,7 +504,7 @@ Lëvduar qoftë Emri Yt, O Zot Perëndia im! Unë të përgjërohem, për Emrin 
 
 -- Bahá'u'lláh
 
-bpn2788 «[Shqip](../sq/prayers/#bpn2788)» 
+bpn2788 
 
 ----
 
@@ -513,7 +514,7 @@ Në Emër të Tij, të Lavdëruarit, Më të Lartit, Më Fisnikut!I lavdëruar j
 
 -- Bahá'u'lláh
 
-bpn2793 «[Shqip](../sq/prayers/#bpn2793)» 
+bpn2793 
 
 ----
 
@@ -523,7 +524,7 @@ O Ti Providencë hyjnore, ne jemi për të të ardhur keq, na jep mbështetjen T
 
 -- Abdu'l-Bahá
 
-bpn2789 «[Shqip](../sq/prayers/#bpn2789)» 
+bpn2789 
 
 ----
 
@@ -533,7 +534,7 @@ Ai është PerëndiaO Zot, Perëndia im! O Ti Ndihmuesi i të dobtëve, Mbështe
 
 -- Abdu'l-Bahá
 
-bpn2790 «[Shqip](../sq/prayers/#bpn2790)» 
+bpn2790 
 
 ----
 
@@ -543,7 +544,7 @@ O Perëndi, Perëndia im! Ruaji shërbëtorët e Tu të besuar nga e keqja e ego
 
 -- Abdu'l-Bahá
 
-bpn2791 «[Shqip](../sq/prayers/#bpn2791)» 
+bpn2791 
 
 ----
 
@@ -553,7 +554,7 @@ Ai është Zemërdhembshuri, Bujariploti! O Perëndi, Perëndia im! Ti më sheh,
 
 -- Abdu'l-Bahá
 
-bpn2792 «[Shqip](../sq/prayers/#bpn2792)» 
+bpn2792 
 
 ----
 
@@ -567,7 +568,7 @@ O kërkues i së Vërtetës! Po qe se dëshiron që Perëndia të t&#39;i hapë 
 
 -- Abdu'l-Bahá
 
-bpn2804 «[Shqip](../sq/prayers/#bpn2804)» 
+bpn2804 
 
 ----
 
@@ -581,7 +582,7 @@ O Perëndia im dhe Mjeshtri im! Unë jam shërbëtori Yt e bir i shërbëtorit T
 
 -- Bahá'u'lláh
 
-bpn2794 «[Shqip](../sq/prayers/#bpn2794)» 
+bpn2794 
 
 ----
 
@@ -591,7 +592,7 @@ U zgjova nën strehën Tënde, O Perëndia im, dhe u bëra ai që e kërkon kët
 
 -- Bahá'u'lláh
 
-bpn2795 «[Shqip](../sq/prayers/#bpn2795)» 
+bpn2795 
 
 ----
 
@@ -605,7 +606,7 @@ Lëvduar qoftë Emri Yt, O Zot, Perëndia im! Ti e sheh sesi vështrimi im ësht
 
 -- Bahá'u'lláh
 
-bpn2796 «[Shqip](../sq/prayers/#bpn2796)» 
+bpn2796 
 
 ----
 
@@ -615,7 +616,7 @@ O Perëndi! O Perëndi! Ky është një zog krahëthyer dhe fluturimi i tij ësh
 
 -- Abdu'l-Bahá
 
-bpn2797 «[Shqip](../sq/prayers/#bpn2797)» 
+bpn2797 
 
 ----
 
@@ -625,7 +626,7 @@ O Perëndia im, ndihmoje shërbëtorin Tënd të shpallë Fjalën e të flakë a
 
 -- Abdu'l-Bahá
 
-bpn2798 «[Shqip](../sq/prayers/#bpn2798)» 
+bpn2798 
 
 ----
 
@@ -635,7 +636,7 @@ O Ti Perëndi i pakrahasueshëm! O Ti Zoti i Mbretërisë! Këta shpirtra janë 
 
 -- Abdu'l-Bahá
 
-bpn2799 «[Shqip](../sq/prayers/#bpn2799)» 
+bpn2799 
 
 ----
 
@@ -645,7 +646,7 @@ O Perëndi, Perëndia im! Ndihmoji shërbëtorët e Tu të besuar që të kenë 
 
 -- Abdu'l-Bahá
 
-bpn2800 «[Shqip](../sq/prayers/#bpn2800)» 
+bpn2800 
 
 ----
 
@@ -655,7 +656,7 @@ bpn2800 «[Shqip](../sq/prayers/#bpn2800)»
 
 -- Abdu'l-Bahá
 
-bpn2801 «[Shqip](../sq/prayers/#bpn2801)» 
+bpn2801 
 
 ----
 
@@ -669,7 +670,7 @@ O Perëndia im, Mjeshtri im, Qëllimi i dëshirës sime! Ky, shërbëtori Yt, k�
 
 -- Bahá'u'lláh
 
-bpn2802 «[Shqip](../sq/prayers/#bpn2802)» 
+bpn2802 
 
 ----
 
@@ -679,7 +680,7 @@ Si mund të zgjedh gjumin, O Perëndi, Perëndia im, kur sytë e atyre që dësh
 
 -- Bahá'u'lláh
 
-bpn2803 «[Shqip](../sq/prayers/#bpn2803)» 
+bpn2803 
 
 ----
 
@@ -693,7 +694,7 @@ O Perëndia im! Të kërkoj Ty, për Emrin Tënd më të lavdishëm, të më ndi
 
 -- Bahá'u'lláh
 
-bpn2805 «[Shqip](../sq/prayers/#bpn2805)» 
+bpn2805 
 
 ----
 
@@ -703,7 +704,7 @@ O Ti, sprovat e të Cilit janë ilaç shërues për ata që ndodhen pranë Teje,
 
 -- Bahá'u'lláh
 
-bpn2806 «[Shqip](../sq/prayers/#bpn2806)» 
+bpn2806 
 
 ----
 
@@ -713,7 +714,7 @@ Jini të duruar në të gjitha kushtet dhe mbështeteni tërësisht besimin e sh
 
 -- Bahá'u'lláh
 
-bpn2807 «[Shqip](../sq/prayers/#bpn2807)» 
+bpn2807 
 
 ----
 
@@ -723,7 +724,7 @@ A ka ndonjë Largues të vështirësive veç Perëndisë? Thuaj: Lëvduar qoftë
 
 -- Báb
 
-bpn2808 «[Shqip](../sq/prayers/#bpn2808)» 
+bpn2808 
 
 ----
 
@@ -733,7 +734,7 @@ Thuaj: Perëndia është i mjaftueshëm në gjithçka e mbi gjithçka, dhe asgj�
 
 -- Báb
 
-bpn2809 «[Shqip](../sq/prayers/#bpn2809)» 
+bpn2809 
 
 ----
 
@@ -743,7 +744,7 @@ O Zot! Për të të ardhur keq jemi ne, dhurona favorin Tënd; të varfër jemi,
 
 -- Abdu'l-Bahá
 
-bpn2810 «[Shqip](../sq/prayers/#bpn2810)» 
+bpn2810 
 
 ----
 
@@ -753,7 +754,7 @@ O Zot, Perëndia im! Ndihmoji të dashurit e Tu të jenë të vendosur në Besim
 
 -- Abdu'l-Bahá
 
-bpn2811 «[Shqip](../sq/prayers/#bpn2811)» 
+bpn2811 
 
 ----
 
@@ -767,7 +768,7 @@ bpn2811 «[Shqip](../sq/prayers/#bpn2811)»
 
 -- Bahá'u'lláh
 
-bpn2764 «[Shqip](../sq/prayers/#bpn2764)» 
+bpn2764 
 
 ----
 
@@ -777,7 +778,7 @@ Lëvduar qofsh Ti, O Zot. Na i fal mëkatet tona, ki mëshirë për ne dhe bëna
 
 -- Báb
 
-bpn2765 «[Shqip](../sq/prayers/#bpn2765)» 
+bpn2765 
 
 ----
 
@@ -787,7 +788,7 @@ O Perëndia im, O Zoti im, O Mjeshtri im! Unë të lutem të më falësh që kam
 
 -- Báb
 
-bpn2766 «[Shqip](../sq/prayers/#bpn2766)» 
+bpn2766 
 
 ----
 
@@ -797,7 +798,7 @@ O Ti Zot që fal! Ti je streha e të gjithë shërbëtorëve të Tu. Ti i di të
 
 -- Abdu'l-Bahá
 
-bpn2767 «[Shqip](../sq/prayers/#bpn2767)» 
+bpn2767 
 
 ----
 
@@ -811,7 +812,7 @@ O Perëndi! Ne jemi të dobët; jepna fuqi. Ne jemi të varfër; dhurona thesare
 
 -- Abdu'l-Bahá
 
-bpn2814 «[Shqip](../sq/prayers/#bpn2814)» 
+bpn2814 
 
 ----
 
@@ -821,7 +822,7 @@ O Ti Zot i mirë! Ti e ke krijuar gjithë njerëzimin nga i njëjti material. Ti
 
 -- Abdu'l-Bahá
 
-bpn2813 «[Shqip](../sq/prayers/#bpn2813)» 
+bpn2813 
 
 ----
 
@@ -835,7 +836,7 @@ bpn2813 «[Shqip](../sq/prayers/#bpn2813)»
 
 -- Bahá'u'lláh
 
-bpn2854 «[Shqip](../sq/prayers/#bpn2854)» 
+bpn2854 
 
 ----
 
@@ -849,7 +850,7 @@ Zoti im! Zoti im! Të lëvdoj e të falënderoj për ato që i ke dhënë shërb
 
 -- Abdu'l-Bahá
 
-bpn2812 «[Shqip](../sq/prayers/#bpn2812)» 
+bpn2812 
 
 ----
 
@@ -863,7 +864,7 @@ Ti i shikon, O Zot, duart tona që luten të shtrira drejt qiellit të favorit e
 
 -- Bahá'u'lláh
 
-bpn2818 «[Shqip](../sq/prayers/#bpn2818)» 
+bpn2818 
 
 ----
 
@@ -873,7 +874,7 @@ O Zot! Në këtë Dispensacion Më të Madh, Ti e pranon ndërhyrjen e fëmijëv
 
 -- Abdu'l-Bahá
 
-bpn2819 «[Shqip](../sq/prayers/#bpn2819)» 
+bpn2819 
 
 ----
 
@@ -887,7 +888,7 @@ bpn2819 «[Shqip](../sq/prayers/#bpn2819)»
 
 -- Bahá'u'lláh
 
-bpn2815 «[Shqip](../sq/prayers/#bpn2815)» 
+bpn2815 
 
 ----
 
@@ -897,7 +898,7 @@ Lavdia qoftë mbi Ty, O Zot, Perëndia im! Mos e poshtëro atë që Ti e ke lart
 
 -- Bahá'u'lláh
 
-bpn2816 «[Shqip](../sq/prayers/#bpn2816)» 
+bpn2816 
 
 ----
 
@@ -907,7 +908,7 @@ bpn2816 «[Shqip](../sq/prayers/#bpn2816)»
 
 -- Abdu'l-Bahá
 
-bpn2817 «[Shqip](../sq/prayers/#bpn2817)» 
+bpn2817 
 
 ----
 
@@ -921,7 +922,7 @@ Krijo tek unë një zemër të kulluar, O Perëndia im, dhe përtëri një ndër
 
 -- Bahá'u'lláh
 
-bpn2820 «[Shqip](../sq/prayers/#bpn2820)» 
+bpn2820 
 
 ----
 
@@ -931,7 +932,7 @@ Perëndia im, i Adhuruari im, Mbreti im, Dëshira ime! Cila gjuhë mund t&#39;i 
 
 -- Bahá'u'lláh
 
-bpn2821 «[Shqip](../sq/prayers/#bpn2821)» 
+bpn2821 
 
 ----
 
@@ -941,7 +942,7 @@ Thuaj: O Perëndi, Perëndia im! Stolise kokën time me kurorën e drejtësisë 
 
 -- Bahá'u'lláh
 
-bpn2822 «[Shqip](../sq/prayers/#bpn2822)» 
+bpn2822 
 
 ----
 
@@ -951,7 +952,7 @@ O Zoti im! Bëje bukurinë Tënde ushqimin tim, dhe praninë Tënde pijen time, 
 
 -- Bahá'u'lláh
 
-bpn2827 «[Shqip](../sq/prayers/#bpn2827)» 
+bpn2827 
 
 ----
 
@@ -961,7 +962,7 @@ O Perëndi, freskoje e gëzoje shpirtin tim. Dëlire zemrën time. Ndriçoji aft
 
 -- Abdu'l-Bahá
 
-bpn2823 «[Shqip](../sq/prayers/#bpn2823)» 
+bpn2823 
 
 ----
 
@@ -971,7 +972,7 @@ O Zot! Ne jemi të dobët; forcona. O Perëndi! Ne jemi injorantë; bëna të di
 
 -- Abdu'l-Bahá
 
-bpn2824 «[Shqip](../sq/prayers/#bpn2824)» 
+bpn2824 
 
 ----
 
@@ -981,7 +982,7 @@ O Perëndi, Perëndia im! Ti je Shpresa ime dhe i Shumëdashuri im, Qëllimi dhe
 
 -- Abdu'l-Bahá
 
-bpn2825 «[Shqip](../sq/prayers/#bpn2825)» 
+bpn2825 
 
 ----
 
@@ -991,7 +992,7 @@ O Zoti im, i Shumëdashuri im, Dëshira ime! Më ji mik në vetminë time dhe sh
 
 -- Abdu'l-Bahá
 
-bpn2826 «[Shqip](../sq/prayers/#bpn2826)» 
+bpn2826 
 
 ----
 
@@ -1005,7 +1006,7 @@ O Zot! Ty të drejtohem për strehë dhe ndaj të gjitha shenjave të Tua e kthe
 
 -- Báb
 
-bpn2836 «[Shqip](../sq/prayers/#bpn2836)» 
+bpn2836 
 
 ----
 
@@ -1015,7 +1016,7 @@ O Perëndia im, Zoti im dhe Mjeshtri im! Unë e kam shkëputur veten nga të af�
 
 -- Báb
 
-bpn2837 «[Shqip](../sq/prayers/#bpn2837)» 
+bpn2837 
 
 ----
 
@@ -1029,7 +1030,7 @@ Emri Yt është shërimi im, O Perëndia im, dhe kujtimi Yt është ilaçi im. A
 
 -- Bahá'u'lláh
 
-bpn2834 «[Shqip](../sq/prayers/#bpn2834)» 
+bpn2834 
 
 ----
 
@@ -1039,7 +1040,7 @@ Ti je Ai, O Perëndia im, përmes emrave të të Cilit të sëmurët shërohen d
 
 -- Bahá'u'lláh
 
-bpn2835 «[Shqip](../sq/prayers/#bpn2835)» 
+bpn2835 
 
 ----
 
@@ -1053,7 +1054,7 @@ Largoje brengën time me bujarinë e zemërgjerësinë Tënde, O Perëndi, Perë
 
 -- Bahá'u'lláh
 
-bpn2828 «[Shqip](../sq/prayers/#bpn2828)» 
+bpn2828 
 
 ----
 
@@ -1063,7 +1064,7 @@ I armatosur me fuqinë e emrit Tënd, asgjë nuk mund të më dëmtojë kurrë, 
 
 -- Bahá'u'lláh
 
-bpn2833 «[Shqip](../sq/prayers/#bpn2833)» 
+bpn2833 
 
 ----
 
@@ -1073,7 +1074,7 @@ Unë të përgjërohem, për fuqinë Tënde, O Perëndia im! Asnjë dëm të mos
 
 -- Báb
 
-bpn2829 «[Shqip](../sq/prayers/#bpn2829)» 
+bpn2829 
 
 ----
 
@@ -1083,7 +1084,7 @@ O Zot! Ti je Larguesi i çdo ankthi e Davaritësi i çdo të keqeje. Ti je Ai q�
 
 -- Báb
 
-bpn2830 «[Shqip](../sq/prayers/#bpn2830)» 
+bpn2830 
 
 ----
 
@@ -1093,7 +1094,7 @@ O Zoti im! Ti e di se njerëzit janë të rrethuar me dhembje e fatkeqësi dhe j
 
 -- Abdu'l-Bahá
 
-bpn2831 «[Shqip](../sq/prayers/#bpn2831)» 
+bpn2831 
 
 ----
 
@@ -1103,7 +1104,7 @@ O Zot, Perëndia im dhe Streha ime në hallet e mia! Mburoja ime dhe Tenda ime n
 
 -- Abdu'l-Bahá
 
-bpn2832 «[Shqip](../sq/prayers/#bpn2832)» 
+bpn2832 
 
 ----
 
@@ -1117,7 +1118,7 @@ bpn2832 «[Shqip](../sq/prayers/#bpn2832)»
 
 -- Bahá'u'lláh
 
-bpn2856 «[Shqip](../sq/prayers/#bpn2856)» 
+bpn2856 
 
 ----
 
@@ -1131,7 +1132,7 @@ bpn2856 «[Shqip](../sq/prayers/#bpn2856)»
 
 -- Bahá'u'lláh
 
-bpn2855 «[Shqip](../sq/prayers/#bpn2855)» 
+bpn2855 
 
 ----
 
@@ -1145,7 +1146,7 @@ bpn2855 «[Shqip](../sq/prayers/#bpn2855)»
 
 -- Bahá'u'lláh
 
-bpn2859 «[Shqip](../sq/prayers/#bpn2859)» 
+bpn2859 
 
 ----
 
@@ -1159,7 +1160,7 @@ bpn2859 «[Shqip](../sq/prayers/#bpn2859)»
 
 -- Abdu'l-Bahá
 
-bpn2858 «[Shqip](../sq/prayers/#bpn2858)» 
+bpn2858 
 
 ----
 
@@ -1173,7 +1174,7 @@ bpn2858 «[Shqip](../sq/prayers/#bpn2858)»
 
 -- Bahá'u'lláh
 
-bpn2857 «[Shqip](../sq/prayers/#bpn2857)» 
+bpn2857 
 
 ----
 
@@ -1187,7 +1188,7 @@ Të lutem Ty, O Perëndia im, për pushtetin Tënd dhe për fuqinë Tënde, dhe 
 
 -- Bahá'u'lláh
 
-bpn2838 «[Shqip](../sq/prayers/#bpn2838)» 
+bpn2838 
 
 ----
 
@@ -1201,7 +1202,7 @@ U ngrita këtë mëngjes falë hirit Tënd, O Perëndia im, dhe e lashë shtëpi
 
 -- Bahá'u'lláh
 
-bpn2839 «[Shqip](../sq/prayers/#bpn2839)» 
+bpn2839 
 
 ----
 
@@ -1211,7 +1212,7 @@ O Perëndi, Perëndia im! Unë dola nga shtëpia ime duke u mbajtur fort pas fil
 
 -- Bahá'u'lláh
 
-bpn2840 «[Shqip](../sq/prayers/#bpn2840)» 
+bpn2840 
 
 ----
 
@@ -1225,7 +1226,7 @@ Dhëntë Zoti që drita e unitetit të përfshijë gjithë botën dhe që vula &
 
 -- Bahá'u'lláh
 
-bpn2841 «[Shqip](../sq/prayers/#bpn2841)» 
+bpn2841 
 
 ----
 
@@ -1235,7 +1236,7 @@ O Perëndia im! O Perëndia im! Bashkoji zemrat e shërbëtorëve të Tu dhe zbu
 
 -- Bahá'u'lláh
 
-bpn2842 «[Shqip](../sq/prayers/#bpn2842)» 
+bpn2842 
 
 ----
 
@@ -1245,7 +1246,7 @@ Lavdia qoftë mbi Ty, O Perëndi, për shfaqjen e dashurisë Sate për njerëzim
 
 -- Bahá'u'lláh
 
-bpn2843 «[Shqip](../sq/prayers/#bpn2843)» 
+bpn2843 
 
 ----
 
@@ -1255,7 +1256,7 @@ O Ti Që je Zoti i Zotave! Unë dëshmoj se Ti je Zoti i gjithë krijimit dhe Ed
 
 -- Bahá'u'lláh
 
-bpn2844 «[Shqip](../sq/prayers/#bpn2844)» 
+bpn2844 
 
 ----
 
@@ -1265,7 +1266,7 @@ Dhëntë Zoti që drita e unitetit të mbështjellë gjithë tokën dhe që vula
 
 -- Bahá'u'lláh
 
-bpn2845 «[Shqip](../sq/prayers/#bpn2845)» 
+bpn2845 
 
 ----
 
@@ -1275,7 +1276,7 @@ O Ti Dhënësi! Dëshira më e shtrenjtë e këtij shërbëtori të Pragut Tënd
 
 -- Abdu'l-Bahá
 
-bpn2846 «[Shqip](../sq/prayers/#bpn2846)» 
+bpn2846 
 
 ----
 
@@ -1289,7 +1290,7 @@ Udhëheqje për ata që shkojnë në rrugë të gabuarNe i lutemi Zotit t&#39;i 
 
 -- Bahá'u'lláh
 
-bpn2849 «[Shqip](../sq/prayers/#bpn2849)» 
+bpn2849 
 
 ----
 
@@ -1299,7 +1300,7 @@ Bëji të vendosur hapat tanë, O Zot, në rrugën Tënde dhe forcoji zemrat ton
 
 -- Abdu'l-Bahá
 
-bpn2847 «[Shqip](../sq/prayers/#bpn2847)» 
+bpn2847 
 
 ----
 
@@ -1309,7 +1310,7 @@ O Zoti im dhe Shpresa ime! Ndihmoji të dashurit e Tu që të jenë të patundur
 
 -- Abdu'l-Bahá
 
-bpn2848 «[Shqip](../sq/prayers/#bpn2848)» 
+bpn2848 
 
 ----
 
@@ -1323,7 +1324,7 @@ I bekuar është trualli, dhe shtëpia,dhe vendi, dhe qyteti,dhe zemra, dhe mali
 
 -- Bahá'u'lláh
 
-bpn2862 «[Shqip](../sq/prayers/#bpn2862)» 
+bpn2862 
 
 ----
 
@@ -1333,7 +1334,7 @@ KËNDOJI, O shërbëtori Im, vargjet e Perëndisë, që ti ke marrë, ashtu siç
 
 -- Bahá'u'lláh
 
-bpn2863 «[Shqip](../sq/prayers/#bpn2863)» 
+bpn2863 
 
 ----
 
@@ -1343,7 +1344,7 @@ O Perëndi, Perëndia im, i Shumëdashuri im, Dëshira e zemrës sime.
 
 -- Báb
 
-bpn2864 «[Shqip](../sq/prayers/#bpn2864)» 
+bpn2864 
 
 ----
 

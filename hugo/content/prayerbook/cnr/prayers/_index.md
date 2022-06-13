@@ -5,6 +5,7 @@ tags = ['lang=cnr', 'prayerbook']
 
 
 
+
 [Djeca](#Djeca)
 
 [Duhovne Vrline](#Duhovne+Vrline)
@@ -35,7 +36,7 @@ O Bože,vodi me, zaštiti me, načini od mene sjajnu svjetiljku i blistavu zv
 
 -- Abdu'l-Bahá
 
-bpn5341 «[Montenegrin](../cnr/prayers/#bpn5341)» 
+bpn5341 
 
 ----
 
@@ -45,7 +46,7 @@ O Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na T
 
 -- Abdu'l-Bahá
 
-bpn5342 «[Montenegrin](../cnr/prayers/#bpn5342)» 
+bpn5342 
 
 ----
 
@@ -59,7 +60,7 @@ O moj Gospode! Daj da mi Tvoja ljepota bude hrana, a Tvoje prisustvo piće, mog
 
 -- Abdu'l-Bahá
 
-bpn5331 «[Montenegrin](../cnr/prayers/#bpn5331)» 
+bpn5331 
 
 ----
 
@@ -69,7 +70,7 @@ Stvori u meni čisto srce, o moj Bože, i mirnu savjest obnovi u meni, o Nado 
 
 -- Abdu'l-Bahá
 
-bpn5332 «[Montenegrin](../cnr/prayers/#bpn5332)» 
+bpn5332 
 
 ----
 
@@ -79,7 +80,7 @@ O Bože! Osvježi mi i razgali dušu. Očisti mi srce. Prosvijetli moje moc�
 
 -- Abdu'l-Bahá
 
-bpn5333 «[Montenegrin](../cnr/prayers/#bpn5333)» 
+bpn5333 
 
 ----
 
@@ -93,7 +94,7 @@ Tvoje ime je moje iscjeljenje, o Bože moj, pomen na Tebe moj je lijek. Tvoja b
 
 -- Bahá'u'lláh
 
-bpn5337 «[Montenegrin](../cnr/prayers/#bpn5337)» 
+bpn5337 
 
 ----
 
@@ -103,7 +104,7 @@ O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih iscjeljiteljskih moći, i sj
 
 -- Bahá'u'lláh
 
-bpn5338 «[Montenegrin](../cnr/prayers/#bpn5338)» 
+bpn5338 
 
 ----
 
@@ -117,7 +118,7 @@ O Bože moj! O Bože moj! Ujedini srca Svojih slugu, i otkrij im Svoju veliku 
 
 -- Bahá'u'lláh
 
-bpn5344 «[Montenegrin](../cnr/prayers/#bpn5344)» 
+bpn5344 
 
 ----
 
@@ -127,7 +128,7 @@ O Bože! Mi smo slabi; daj nam snage.Siromašni smo; podari nam Svoje neizmjer
 
 -- Abdu'l-Bahá
 
-bpn5345 «[Montenegrin](../cnr/prayers/#bpn5345)» 
+bpn5345 
 
 ----
 
@@ -141,7 +142,7 @@ Probudio sam se u Tvom okrilju, O moj Bože, a priliči onome koji za tim utoc
 
 -- Bahá'u'lláh
 
-bpn5339 «[Montenegrin](../cnr/prayers/#bpn5339)» 
+bpn5339 
 
 ----
 
@@ -155,7 +156,7 @@ O moj Bože, Učitelju moj, Odredištu za kojim žudim! Ovaj Tvoj sluga če
 
 -- Bahá'u'lláh
 
-bpn5340 «[Montenegrin](../cnr/prayers/#bpn5340)» 
+bpn5340 
 
 ----
 
@@ -169,7 +170,7 @@ O moj Bože! Molim Te da mi, po Svom Preslavnom Imenu, pomogneš u onome što
 
 -- Bahá'u'lláh
 
-bpn5334 «[Montenegrin](../cnr/prayers/#bpn5334)» 
+bpn5334 
 
 ----
 
@@ -179,7 +180,7 @@ Gospode! Jadni smo, podari nam naklonost Svoju; siroti smo, udijeli nam iz okean
 
 -- Abdu'l-Bahá
 
-bpn5335 «[Montenegrin](../cnr/prayers/#bpn5335)» 
+bpn5335 
 
 ----
 
@@ -189,7 +190,7 @@ Ne sklanjaj, o Gospode, prazničnu trpezu koja je postavljena u Tvoje Ime, i ne
 
 -- Abdu'l-Bahá
 
-bpn5336 «[Montenegrin](../cnr/prayers/#bpn5336)» 
+bpn5336 
 
 ----
 
@@ -203,7 +204,7 @@ Neka je sva hvala Tebi, O moj Bože, koji si Izvor svake slave i uzvišenosti,
 
 -- Bahá'u'lláh
 
-bpn5330 «[Montenegrin](../cnr/prayers/#bpn5330)» 
+bpn5330 
 
 ----
 
@@ -217,7 +218,7 @@ Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi se oni što Te i
 
 -- Bahá'u'lláh
 
-bpn5348 «[Montenegrin](../cnr/prayers/#bpn5348)» 
+bpn5348 
 
 ----
 
@@ -227,7 +228,7 @@ Ima li drugog Uklonitelja teškoća osim Boga?Recite: Neka je hvaljen Bog! On 
 
 -- Báb
 
-bpn5346 «[Montenegrin](../cnr/prayers/#bpn5346)» 
+bpn5346 
 
 ----
 
@@ -237,7 +238,7 @@ Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u vremenima is
 
 -- Báb
 
-bpn5347 «[Montenegrin](../cnr/prayers/#bpn5347)» 
+bpn5347 
 
 ----
 
@@ -251,7 +252,7 @@ O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ p
 
 -- Abdu'l-Bahá
 
-bpn5343 «[Montenegrin](../cnr/prayers/#bpn5343)» 
+bpn5343 
 
 ----
 

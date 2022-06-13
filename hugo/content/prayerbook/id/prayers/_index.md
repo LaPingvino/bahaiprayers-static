@@ -5,6 +5,7 @@ tags = ['lang=id', 'prayerbook']
 
 
 
+
 [Anak-Anak](#Anak-Anak)
 
 [Anugerah Terbesar](#Anugerah+Terbesar)
@@ -111,7 +112,7 @@ Ya Rabi Tuhanku! Inilah anak yang telah lahir dari kandungan hamba-Mu, yang tela
 
 -- Bahá'u'lláh
 
-bpn5092 «[Bahasa Indonesia](../id/prayers/#bpn5092)» 
+bpn5092 
 
 ----
 
@@ -121,7 +122,7 @@ Ya Tuhan, bimbinglah hamba, lindungilah hamba, jadikanlah hamba laksana lampu ya
 
 -- Abdu'l-Bahá
 
-bpn5093 «[Bahasa Indonesia](../id/prayers/#bpn5093)» 
+bpn5093 
 
 ----
 
@@ -131,7 +132,7 @@ Ya Tuhan Yang Maha Suci! Aku adalah anak kecil; biarlah susu kasih sayang-Mu men
 
 -- Abdu'l-Bahá
 
-bpn5094 «[Bahasa Indonesia](../id/prayers/#bpn5094)» 
+bpn5094 
 
 ----
 
@@ -141,7 +142,7 @@ Ya Tuhan Yang Penyayang! Anak-anak yang manis ini adalah karya jari-jari-Mu yang
 
 -- Abdu'l-Bahá
 
-bpn5095 «[Bahasa Indonesia](../id/prayers/#bpn5095)» 
+bpn5095 
 
 ----
 
@@ -151,7 +152,7 @@ Ya Tuhanku! Ya Tuhanku! Aku seorang anak kecil. Berilah aku susu dari dada rahma
 
 -- Abdu'l-Bahá
 
-bpn5096 «[Bahasa Indonesia](../id/prayers/#bpn5096)» 
+bpn5096 
 
 ----
 
@@ -161,7 +162,7 @@ Ya Tuhan! Jadikanlah anak-anak ini pohon-pohon yang tiada banding taranya. Biark
 
 -- Abdu'l-Bahá
 
-bpn5097 «[Bahasa Indonesia](../id/prayers/#bpn5097)» 
+bpn5097 
 
 ----
 
@@ -171,7 +172,7 @@ Ya Tuhan Yang Maha Penyayang! Ya Rabi Sarwa Sekalian Alam! Pujian bagi-Mu karena
 
 -- Abdu'l-Bahá
 
-bpn5098 «[Bahasa Indonesia](../id/prayers/#bpn5098)» 
+bpn5098 
 
 ----
 
@@ -181,7 +182,7 @@ Ya Tuhan! Aku adalah anak kecil, mungkinkanlah daku tumbuh di bawah naungan cint
 
 -- Abdu'l-Bahá
 
-bpn5099 «[Bahasa Indonesia](../id/prayers/#bpn5099)» 
+bpn5099 
 
 ----
 
@@ -191,7 +192,7 @@ Ya Tuhan didiklah anak-anak ini. Mereka itu pohon-pohon dalam kebun-Mu, bunga-bu
 
 -- Abdu'l-Bahá
 
-bpn5100 «[Bahasa Indonesia](../id/prayers/#bpn5100)» 
+bpn5100 
 
 ----
 
@@ -205,7 +206,7 @@ Dibesarkanlah nama-Mu, ya Tuhanku, karenaEngkau telah menjelmakan Hari yang meru
 
 -- Abdu'l-Bahá
 
-bpn5133 «[Bahasa Indonesia](../id/prayers/#bpn5133)» 
+bpn5133 
 
 ----
 
@@ -215,7 +216,7 @@ Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak seo
 
 -- Abdu'l-Bahá
 
-bpn5134 «[Bahasa Indonesia](../id/prayers/#bpn5134)» 
+bpn5134 
 
 ----
 
@@ -225,7 +226,7 @@ bpn5134 «[Bahasa Indonesia](../id/prayers/#bpn5134)»
 
 -- Abdu'l-Bahá
 
-bpn5135 «[Bahasa Indonesia](../id/prayers/#bpn5135)» 
+bpn5135 
 
 ----
 
@@ -235,7 +236,7 @@ bpn5135 «[Bahasa Indonesia](../id/prayers/#bpn5135)»
 
 -- Abdu'l-Bahá
 
-bpn5136 «[Bahasa Indonesia](../id/prayers/#bpn5136)» 
+bpn5136 
 
 ----
 
@@ -245,7 +246,7 @@ Ya Engkau, Tuhan Yang Tiada Banding Taranya! Ya Engkau, Raja Kerajaan! Jiwa-jiwa
 
 -- Abdu'l-Bahá
 
-bpn5137 «[Bahasa Indonesia](../id/prayers/#bpn5137)» 
+bpn5137 
 
 ----
 
@@ -259,7 +260,7 @@ bpn5137 «[Bahasa Indonesia](../id/prayers/#bpn5137)»
 
 -- Bahá'u'lláh
 
-bpn5208 «[Bahasa Indonesia](../id/prayers/#bpn5208)» 
+bpn5208 
 
 ----
 
@@ -273,7 +274,7 @@ Terpujilah Engkau, ya Rabi Tuhanku! Beri makanlah bayi ini dari susu kurnia dan 
 
 -- Bahá'u'lláh
 
-bpn5101 «[Bahasa Indonesia](../id/prayers/#bpn5101)» 
+bpn5101 
 
 ----
 
@@ -283,7 +284,7 @@ Ya Tuhan! Asuhlah bayi yang kecil ini dalam dada cinta-Mu dan berilah ia susu da
 
 -- Abdu'l-Bahá
 
-bpn5102 «[Bahasa Indonesia](../id/prayers/#bpn5102)» 
+bpn5102 
 
 ----
 
@@ -293,7 +294,7 @@ Ya Tuhan yang tiada banding taranya! Biarlah bayi yang sedang menyusu ini disusu
 
 -- Abdu'l-Bahá
 
-bpn5103 «[Bahasa Indonesia](../id/prayers/#bpn5103)» 
+bpn5103 
 
 ----
 
@@ -307,7 +308,7 @@ Engkau adalah Dia, ya Tuhanku, yang berkat nama-nama-Nya si sakit menjadi sembuh
 
 -- Bahá'u'lláh
 
-bpn5104 «[Bahasa Indonesia](../id/prayers/#bpn5104)» 
+bpn5104 
 
 ----
 
@@ -317,7 +318,7 @@ bpn5104 «[Bahasa Indonesia](../id/prayers/#bpn5104)»
 
 -- Bahá'u'lláh
 
-bpn5105 «[Bahasa Indonesia](../id/prayers/#bpn5105)» 
+bpn5105 
 
 ----
 
@@ -327,7 +328,7 @@ bpn5105 «[Bahasa Indonesia](../id/prayers/#bpn5105)»
 
 -- Abdu'l-Bahá
 
-bpn5106 «[Bahasa Indonesia](../id/prayers/#bpn5106)» 
+bpn5106 
 
 ----
 
@@ -341,7 +342,7 @@ Kami berdoa kepada Tuhan agar sudilah membantu mereka yang telah disesatkan supa
 
 -- Bahá'u'lláh
 
-bpn5126 «[Bahasa Indonesia](../id/prayers/#bpn5126)» 
+bpn5126 
 
 ----
 
@@ -355,7 +356,7 @@ Kemuliaan bagi-Mu, ya Tuhan-Ku! Jika tak ada malapetaka-malapetaka yang menimpa 
 
 -- Bahá'u'lláh
 
-bpn5107 «[Bahasa Indonesia](../id/prayers/#bpn5107)» 
+bpn5107 
 
 ----
 
@@ -365,7 +366,7 @@ Ya Engkau, yang cobaan-cobaan-Nya adalah obat penyembuh bagi mereka yang dekat k
 
 -- Bahá'u'lláh
 
-bpn5108 «[Bahasa Indonesia](../id/prayers/#bpn5108)» 
+bpn5108 
 
 ----
 
@@ -375,7 +376,7 @@ Aku memohon kepada-Mu demi kekuatan-Mu, yaTuhanku! Janganlah mengizinkan kerugia
 
 -- Báb
 
-bpn5109 «[Bahasa Indonesia](../id/prayers/#bpn5109)» 
+bpn5109 
 
 ----
 
@@ -385,7 +386,7 @@ Dialah Yang Maha Penyayang dan Maha Dermawan! Ya Tuhan, Tuhanku! Engkau melihat 
 
 -- Abdu'l-Bahá
 
-bpn5110 «[Bahasa Indonesia](../id/prayers/#bpn5110)» 
+bpn5110 
 
 ----
 
@@ -399,7 +400,7 @@ Ya Rabi Tuhanku! Dengan rendah hati dan mencucurkan air mata, aku mengangkat tan
 
 -- Abdu'l-Bahá
 
-bpn5207 «[Bahasa Indonesia](../id/prayers/#bpn5207)» 
+bpn5207 
 
 ----
 
@@ -413,7 +414,7 @@ bpn5207 «[Bahasa Indonesia](../id/prayers/#bpn5207)»
 
 -- Bahá'u'lláh
 
-bpn5138 «[Bahasa Indonesia](../id/prayers/#bpn5138)» 
+bpn5138 
 
 ----
 
@@ -423,7 +424,7 @@ bpn5138 «[Bahasa Indonesia](../id/prayers/#bpn5138)»
 
 -- Bahá'u'lláh
 
-bpn5139 «[Bahasa Indonesia](../id/prayers/#bpn5139)» 
+bpn5139 
 
 ----
 
@@ -433,7 +434,7 @@ bpn5139 «[Bahasa Indonesia](../id/prayers/#bpn5139)»
 
 -- Bahá'u'lláh
 
-bpn5140 «[Bahasa Indonesia](../id/prayers/#bpn5140)» 
+bpn5140 
 
 ----
 
@@ -447,7 +448,7 @@ Ya Tuhan! Segarkanlah dan riangkanlah jiwa hamba, murnikanlah hati hamba, terang
 
 -- Abdu'l-Bahá
 
-bpn5111 «[Bahasa Indonesia](../id/prayers/#bpn5111)» 
+bpn5111 
 
 ----
 
@@ -457,7 +458,7 @@ Ya Tuhan, Tuhanku! Engkau adalah Harapanku dan Kekasihku, Tujuanku dan Hasratku 
 
 -- Abdu'l-Bahá
 
-bpn5112 «[Bahasa Indonesia](../id/prayers/#bpn5112)» 
+bpn5112 
 
 ----
 
@@ -471,7 +472,7 @@ Ya Tuhan! Kami ini lemah; berilah kami kekuatan. Kami ini miskin; anugerahilah k
 
 -- Abdu'l-Bahá
 
-bpn5113 «[Bahasa Indonesia](../id/prayers/#bpn5113)» 
+bpn5113 
 
 ----
 
@@ -481,7 +482,7 @@ Ya Tuhan! Kami ini lemah; kuatkanlah kami. Ya Tuhan! Kami ini bodoh; berikanlah 
 
 -- Abdu'l-Bahá
 
-bpn5114 «[Bahasa Indonesia](../id/prayers/#bpn5114)» 
+bpn5114 
 
 ----
 
@@ -491,7 +492,7 @@ Aku hanyalah makhluk yang hina, ya Tuhanku, danEngkau Yang Maha Memiliki, Yang M
 
 -- Abdu'l-Bahá
 
-bpn5115 «[Bahasa Indonesia](../id/prayers/#bpn5115)» 
+bpn5115 
 
 ----
 
@@ -505,7 +506,7 @@ Maha Mulialah Engkau, ya Tuhanku! Aku bersyukur kepada-Mu karena Engkau telah me
 
 -- Bahá'u'lláh
 
-bpn5116 «[Bahasa Indonesia](../id/prayers/#bpn5116)» 
+bpn5116 
 
 ----
 
@@ -515,7 +516,7 @@ Kemuliaan bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu agar mengampuni daku d
 
 -- Báb
 
-bpn5117 «[Bahasa Indonesia](../id/prayers/#bpn5117)» 
+bpn5117 
 
 ----
 
@@ -529,7 +530,7 @@ Kemuliaan bagi-Mu, ya Tuhanku, Engkaulah yang telah mewujudkan segala sesuatu ya
 
 -- Báb
 
-bpn5118 «[Bahasa Indonesia](../id/prayers/#bpn5118)» 
+bpn5118 
 
 ----
 
@@ -543,7 +544,7 @@ Aku memohon kepada-Mu, ya Engkau Pembentuk bangsa-bangsa dan Raja keabadian, unt
 
 -- Bahá'u'lláh
 
-bpn5201 «[Bahasa Indonesia](../id/prayers/#bpn5201)» 
+bpn5201 
 
 ----
 
@@ -557,7 +558,7 @@ bpn5201 «[Bahasa Indonesia](../id/prayers/#bpn5201)»
 
 -- Abdu'l-Bahá
 
-bpn5119 «[Bahasa Indonesia](../id/prayers/#bpn5119)» 
+bpn5119 
 
 ----
 
@@ -571,7 +572,7 @@ Dimuliakanlah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Dia, Nama-Mu Y
 
 -- Bahá'u'lláh
 
-bpn5120 «[Bahasa Indonesia](../id/prayers/#bpn5120)» 
+bpn5120 
 
 ----
 
@@ -581,7 +582,7 @@ Berilah aku minum dari sungai-sungai keabadian- Mu yang harum semerbak, ya Tuhan
 
 -- Bahá'u'lláh
 
-bpn5121 «[Bahasa Indonesia](../id/prayers/#bpn5121)» 
+bpn5121 
 
 ----
 
@@ -591,7 +592,7 @@ Dimuliakanlah nama-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi kekuasaan-Mu 
 
 -- Bahá'u'lláh
 
-bpn5122 «[Bahasa Indonesia](../id/prayers/#bpn5122)» 
+bpn5122 
 
 ----
 
@@ -601,7 +602,7 @@ Ya Engkau yang kedekatan-Nya adalah keinginanku, yang kehadiran-Nya adalah harap
 
 -- Bahá'u'lláh
 
-bpn5123 «[Bahasa Indonesia](../id/prayers/#bpn5123)» 
+bpn5123 
 
 ----
 
@@ -611,7 +612,7 @@ Ya Tuhan Yang Maha Pengasih! Aku bersyukur kepada-Mu karena Engkau telah membang
 
 -- Abdu'l-Bahá
 
-bpn5124 «[Bahasa Indonesia](../id/prayers/#bpn5124)» 
+bpn5124 
 
 ----
 
@@ -621,7 +622,7 @@ Ya Rabi Tuhanku! Bantulah kekasih-kekasih-Mu untuk tetap teguh dalam Agama-Mu, u
 
 -- Abdu'l-Bahá
 
-bpn5125 «[Bahasa Indonesia](../id/prayers/#bpn5125)» 
+bpn5125 
 
 ----
 
@@ -635,7 +636,7 @@ Terpujilah Engkau, ya Tuhanku! Aku seorang hamba-Mu, yang telah percaya akan Dik
 
 -- Bahá'u'lláh
 
-bpn5127 «[Bahasa Indonesia](../id/prayers/#bpn5127)» 
+bpn5127 
 
 ----
 
@@ -645,7 +646,7 @@ Ya Tuhanku, biarkanlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, ka
 
 -- Bahá'u'lláh
 
-bpn5128 «[Bahasa Indonesia](../id/prayers/#bpn5128)» 
+bpn5128 
 
 ----
 
@@ -655,7 +656,7 @@ Aku tak tahu, ya Tuhanku, Api apakah yang Engkau nyalakan di negeri-Mu. Bumi tak
 
 -- Bahá'u'lláh
 
-bpn5129 «[Bahasa Indonesia](../id/prayers/#bpn5129)» 
+bpn5129 
 
 ----
 
@@ -669,7 +670,7 @@ bpn5129 «[Bahasa Indonesia](../id/prayers/#bpn5129)»
 
 -- Bahá'u'lláh
 
-bpn5202 «[Bahasa Indonesia](../id/prayers/#bpn5202)» 
+bpn5202 
 
 ----
 
@@ -683,7 +684,7 @@ bpn5202 «[Bahasa Indonesia](../id/prayers/#bpn5202)»
 
 -- Bahá'u'lláh
 
-bpn5203 «[Bahasa Indonesia](../id/prayers/#bpn5203)» 
+bpn5203 
 
 ----
 
@@ -697,7 +698,7 @@ bpn5203 «[Bahasa Indonesia](../id/prayers/#bpn5203)»
 
 -- Bahá'u'lláh
 
-bpn5216 «[Bahasa Indonesia](../id/prayers/#bpn5216)» 
+bpn5216 
 
 ----
 
@@ -711,7 +712,7 @@ bpn5216 «[Bahasa Indonesia](../id/prayers/#bpn5216)»
 
 -- Bahá'u'lláh
 
-bpn5204 «[Bahasa Indonesia](../id/prayers/#bpn5204)» 
+bpn5204 
 
 ----
 
@@ -725,7 +726,7 @@ bpn5204 «[Bahasa Indonesia](../id/prayers/#bpn5204)»
 
 -- Bahá'u'lláh
 
-bpn5205 «[Bahasa Indonesia](../id/prayers/#bpn5205)» 
+bpn5205 
 
 ----
 
@@ -739,7 +740,7 @@ bpn5205 «[Bahasa Indonesia](../id/prayers/#bpn5205)»
 
 -- Bahá'u'lláh
 
-bpn5206 «[Bahasa Indonesia](../id/prayers/#bpn5206)» 
+bpn5206 
 
 ----
 
@@ -753,7 +754,7 @@ Ya Tuhanku, Penguasaku, Tujuan cita-citaku. Hamba-Mu ini hendak tidur di bawah p
 
 -- Bahá'u'lláh
 
-bpn5130 «[Bahasa Indonesia](../id/prayers/#bpn5130)» 
+bpn5130 
 
 ----
 
@@ -763,7 +764,7 @@ Bagaimana aku dapat tidur, ya Rabi Tuhanku, apabila mata mereka yang merindukan 
 
 -- Bahá'u'lláh
 
-bpn5131 «[Bahasa Indonesia](../id/prayers/#bpn5131)» 
+bpn5131 
 
 ----
 
@@ -777,7 +778,7 @@ bpn5131 «[Bahasa Indonesia](../id/prayers/#bpn5131)»
 
 -- Bahá'u'lláh
 
-bpn5215 «[Bahasa Indonesia](../id/prayers/#bpn5215)» 
+bpn5215 
 
 ----
 
@@ -791,7 +792,7 @@ bpn5215 «[Bahasa Indonesia](../id/prayers/#bpn5215)»
 
 -- Bahá'u'lláh
 
-bpn5141 «[Bahasa Indonesia](../id/prayers/#bpn5141)» 
+bpn5141 
 
 ----
 
@@ -801,7 +802,7 @@ Aku memohon pemaafan-Mu, Ya Tuhanku, dan meminta dengan sangat pengampunan-Mu, s
 
 -- Báb
 
-bpn5142 «[Bahasa Indonesia](../id/prayers/#bpn5142)» 
+bpn5142 
 
 ----
 
@@ -811,7 +812,7 @@ Ya Tuhan! Dalam Kurun Zaman yang Maha Agungini, Engkau telah menerima permohonan
 
 -- Abdu'l-Bahá
 
-bpn5143 «[Bahasa Indonesia](../id/prayers/#bpn5143)» 
+bpn5143 
 
 ----
 
@@ -825,7 +826,7 @@ Ya Tuhan, diluhurkanlah Dia, Tuhan kasih sayang dan kedermawanan! Kemuliaan bagi
 
 -- Bahá'u'lláh
 
-bpn5144 «[Bahasa Indonesia](../id/prayers/#bpn5144)» 
+bpn5144 
 
 ----
 
@@ -835,7 +836,7 @@ Kemuliaan bagi-Mu, ya Rabi Tuhanku! Janganlah merendahkan dia yang telah Engkau 
 
 -- Bahá'u'lláh
 
-bpn5146 «[Bahasa Indonesia](../id/prayers/#bpn5146)» 
+bpn5146 
 
 ----
 
@@ -845,7 +846,7 @@ bpn5146 «[Bahasa Indonesia](../id/prayers/#bpn5146)»
 
 -- Bahá'u'lláh
 
-bpn5147 «[Bahasa Indonesia](../id/prayers/#bpn5147)» 
+bpn5147 
 
 ----
 
@@ -855,7 +856,7 @@ Ya Tuhanku! Ya Engkau Pengampun dosa-dosa, Penganugerah pemberian-pemberian, Pen
 
 -- Abdu'l-Bahá
 
-bpn5145 «[Bahasa Indonesia](../id/prayers/#bpn5145)» 
+bpn5145 
 
 ----
 
@@ -869,7 +870,7 @@ bpn5145 «[Bahasa Indonesia](../id/prayers/#bpn5145)»
 
 -- Bahá'u'lláh
 
-bpn5148 «[Bahasa Indonesia](../id/prayers/#bpn5148)» 
+bpn5148 
 
 ----
 
@@ -879,7 +880,7 @@ Ya Tuhanku! Aku telah bangun di bawah naungan- Mu, dan layak bagi dia yang menca
 
 -- Bahá'u'lláh
 
-bpn5149 «[Bahasa Indonesia](../id/prayers/#bpn5149)» 
+bpn5149 
 
 ----
 
@@ -889,7 +890,7 @@ Aku memberikan pujian kepada-Mu, ya Tuhan-ku, karena Engkau telah membangunkan d
 
 -- Bahá'u'lláh
 
-bpn5150 «[Bahasa Indonesia](../id/prayers/#bpn5150)» 
+bpn5150 
 
 ----
 
@@ -903,7 +904,7 @@ Ya Tuhan! Jadikanlah pemuda ini cemerlang dan kurniakanlah rahmat-Mu pada insan 
 
 -- Abdu'l-Bahá
 
-bpn5151 «[Bahasa Indonesia](../id/prayers/#bpn5151)» 
+bpn5151 
 
 ----
 
@@ -917,7 +918,7 @@ bpn5151 «[Bahasa Indonesia](../id/prayers/#bpn5151)»
 
 -- Bahá'u'lláh
 
-bpn5152 «[Bahasa Indonesia](../id/prayers/#bpn5152)» 
+bpn5152 
 
 ----
 
@@ -927,7 +928,7 @@ Dimuliakanlah Engkau, ya Rabi Tuhanku! Setiap kali aku berusaha untuk menyebut D
 
 -- Bahá'u'lláh
 
-bpn5153 «[Bahasa Indonesia](../id/prayers/#bpn5153)» 
+bpn5153 
 
 ----
 
@@ -937,7 +938,7 @@ Ya Rabi Tuhanku! Kurnia-Mu telah memberanikan daku namun keadilan-Mu telah memen
 
 -- Bahá'u'lláh
 
-bpn5154 «[Bahasa Indonesia](../id/prayers/#bpn5154)» 
+bpn5154 
 
 ----
 
@@ -947,7 +948,7 @@ Terpujilah Nama-Mu, ya Tuhanku dan Tuhan alam semesta, Kejayaanku dan Kejayaan s
 
 -- Bahá'u'lláh
 
-bpn5155 «[Bahasa Indonesia](../id/prayers/#bpn5155)» 
+bpn5155 
 
 ----
 
@@ -957,7 +958,7 @@ Nama-Mu kesembuhanku, ya Tuhanku, dan mengenang Dikau obatku. Dekat pada-Mu hara
 
 -- Bahá'u'lláh
 
-bpn5158 «[Bahasa Indonesia](../id/prayers/#bpn5158)» 
+bpn5158 
 
 ----
 
@@ -967,7 +968,7 @@ Ya Tuhanku! Ya Tuhanku! Aku memohon kepada- Mu demi samudra penyembuhan-Mu, dan 
 
 -- Bahá'u'lláh
 
-bpn5159 «[Bahasa Indonesia](../id/prayers/#bpn5159)» 
+bpn5159 
 
 ----
 
@@ -977,7 +978,7 @@ Terpujilah Engkau, ya Rabi, Tuhanku! Aku memohon kepada-Mu, demi Nama-Mu Yang Ma
 
 -- Bahá'u'lláh
 
-bpn5160 «[Bahasa Indonesia](../id/prayers/#bpn5160)» 
+bpn5160 
 
 ----
 
@@ -987,7 +988,7 @@ Kemuliaan bagi-Mu ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melal
 
 -- Bahá'u'lláh
 
-bpn5161 «[Bahasa Indonesia](../id/prayers/#bpn5161)» 
+bpn5161 
 
 ----
 
@@ -997,7 +998,7 @@ Pujian bagi-Mu, ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan mungkin
 
 -- Báb
 
-bpn5156 «[Bahasa Indonesia](../id/prayers/#bpn5156)» 
+bpn5156 
 
 ----
 
@@ -1007,7 +1008,7 @@ Ya Tuhan Yang Maha Pengasih! Engkau adalah Pelindung bagi semua hamba-hamba-Mu i
 
 -- Abdu'l-Bahá
 
-bpn5157 «[Bahasa Indonesia](../id/prayers/#bpn5157)» 
+bpn5157 
 
 ----
 
@@ -1021,7 +1022,7 @@ Aku telah bangun pagi ini karena rahmat-Mu, ya Tuhanku, dan meninggalkan rumahku
 
 -- Bahá'u'lláh
 
-bpn5162 «[Bahasa Indonesia](../id/prayers/#bpn5162)» 
+bpn5162 
 
 ----
 
@@ -1031,7 +1032,7 @@ Ya Tuhan, Tuhanku! Aku telah berangkat dari rumahku dengan memegang teguh pada t
 
 -- Bahá'u'lláh
 
-bpn5163 «[Bahasa Indonesia](../id/prayers/#bpn5163)» 
+bpn5163 
 
 ----
 
@@ -1045,7 +1046,7 @@ bpn5163 «[Bahasa Indonesia](../id/prayers/#bpn5163)»
 
 -- Bahá'u'lláh
 
-bpn5164 «[Bahasa Indonesia](../id/prayers/#bpn5164)» 
+bpn5164 
 
 ----
 
@@ -1055,7 +1056,7 @@ Kemuliaan kepunyaan-Mu, ya Tuhanku! Sesungguhnya hamba-Mu ini dan hamba wanita-M
 
 -- Abdu'l-Bahá
 
-bpn5165 «[Bahasa Indonesia](../id/prayers/#bpn5165)» 
+bpn5165 
 
 ----
 
@@ -1065,7 +1066,7 @@ Ialah Tuhan!Ya Tuhan yang tiada banding tara-Nya! Dalam kearifan-Mu yang maha ku
 
 -- Abdu'l-Bahá
 
-bpn5166 «[Bahasa Indonesia](../id/prayers/#bpn5166)» 
+bpn5166 
 
 ----
 
@@ -1079,7 +1080,7 @@ Terpujilah Engkau, ya Rabi Tuhanku! Inilah hamba-Mu yang telah minum anggur kurn
 
 -- Bahá'u'lláh
 
-bpn5167 «[Bahasa Indonesia](../id/prayers/#bpn5167)» 
+bpn5167 
 
 ----
 
@@ -1089,7 +1090,7 @@ Diluhurkanlah nama-Mu, Ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang 
 
 -- Bahá'u'lláh
 
-bpn5168 «[Bahasa Indonesia](../id/prayers/#bpn5168)» 
+bpn5168 
 
 ----
 
@@ -1099,7 +1100,7 @@ Ya Tuhan, Tuhanku! Lindungilah hamba-hamba- Mu yang dipercayai dari kejahatan ha
 
 -- Abdu'l-Bahá
 
-bpn5169 «[Bahasa Indonesia](../id/prayers/#bpn5169)» 
+bpn5169 
 
 ----
 
@@ -1113,7 +1114,7 @@ Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah ke
 
 -- Bahá'u'lláh
 
-bpn5170 «[Bahasa Indonesia](../id/prayers/#bpn5170)» 
+bpn5170 
 
 ----
 
@@ -1123,7 +1124,7 @@ Kemuliaan bagi-Mu, ya Tuhan, atas penjelmaan cinta-Mu kepada manusia! Ya Engkau,
 
 -- Bahá'u'lláh
 
-bpn5171 «[Bahasa Indonesia](../id/prayers/#bpn5171)» 
+bpn5171 
 
 ----
 
@@ -1133,7 +1134,7 @@ Ya Tuhan Yang Maha Pengasih! Engkau telah menjadikan semua manusia dari keturuna
 
 -- Abdu'l-Bahá
 
-bpn5172 «[Bahasa Indonesia](../id/prayers/#bpn5172)» 
+bpn5172 
 
 ----
 
@@ -1147,7 +1148,7 @@ bpn5172 «[Bahasa Indonesia](../id/prayers/#bpn5172)»
 
 -- Bahá'u'lláh
 
-bpn5173 «[Bahasa Indonesia](../id/prayers/#bpn5173)» 
+bpn5173 
 
 ----
 
@@ -1157,7 +1158,7 @@ bpn5173 «[Bahasa Indonesia](../id/prayers/#bpn5173)»
 
 -- Abdu'l-Bahá
 
-bpn5174 «[Bahasa Indonesia](../id/prayers/#bpn5174)» 
+bpn5174 
 
 ----
 
@@ -1167,7 +1168,7 @@ Ya Engkau Tuhan Yang Maha Pengasih! Ya Engkau Yang Maha Kuasa dan Maha Kuat! Ya 
 
 -- Abdu'l-Bahá
 
-bpn5175 «[Bahasa Indonesia](../id/prayers/#bpn5175)» 
+bpn5175 
 
 ----
 
@@ -1177,7 +1178,7 @@ Ya Engkau Tuhan Yang Pengasih! Kami telah berkumpul dalam pertemuan kerohanian i
 
 -- Abdu'l-Bahá
 
-bpn5176 «[Bahasa Indonesia](../id/prayers/#bpn5176)» 
+bpn5176 
 
 ----
 
@@ -1191,7 +1192,7 @@ Ya Tuhan, Tuhanku! Hilangkanlah kesedihanku dengan kedermawanan dan pemberian-Mu
 
 -- Bahá'u'lláh
 
-bpn5177 «[Bahasa Indonesia](../id/prayers/#bpn5177)» 
+bpn5177 
 
 ----
 
@@ -1201,7 +1202,7 @@ Diluhurkanlah dan dimuliakanlah Engkau, ya Tuhanku! Aku memohon kepada-Mu demi k
 
 -- Bahá'u'lláh
 
-bpn5178 «[Bahasa Indonesia](../id/prayers/#bpn5178)» 
+bpn5178 
 
 ----
 
@@ -1211,7 +1212,7 @@ Ya Engkau yang wajah-Nya adalah tujuan pujaanku, yang keindahan-Nya adalah tempa
 
 -- Bahá'u'lláh
 
-bpn5179 «[Bahasa Indonesia](../id/prayers/#bpn5179)» 
+bpn5179 
 
 ----
 
@@ -1221,7 +1222,7 @@ Ya Tuhan! Engkau adalah Penghalau setiap kesedihan yang dalam dan Penghilang set
 
 -- Báb
 
-bpn5180 «[Bahasa Indonesia](../id/prayers/#bpn5180)» 
+bpn5180 
 
 ----
 
@@ -1231,7 +1232,7 @@ Adakah penghalau kesukaran-kesukaran selainTuhan? Katakanlah: Terpujilah Tuhan! 
 
 -- Báb
 
-bpn5181 «[Bahasa Indonesia](../id/prayers/#bpn5181)» 
+bpn5181 
 
 ----
 
@@ -1241,7 +1242,7 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tak ada di
 
 -- Báb
 
-bpn5182 «[Bahasa Indonesia](../id/prayers/#bpn5182)» 
+bpn5182 
 
 ----
 
@@ -1255,7 +1256,7 @@ Ciptakanlah dalam diriku kalbu yang suci, ya Tuhanku, dan perbaruilah dalam diri
 
 -- Bahá'u'lláh
 
-bpn5183 «[Bahasa Indonesia](../id/prayers/#bpn5183)» 
+bpn5183 
 
 ----
 
@@ -1265,7 +1266,7 @@ Ya Tuhanku! Jadikanlah keindahan-Mu makananku, dan kehadiran-Mu minumanku, dan k
 
 -- Bahá'u'lláh
 
-bpn5184 «[Bahasa Indonesia](../id/prayers/#bpn5184)» 
+bpn5184 
 
 ----
 
@@ -1275,7 +1276,7 @@ Maha mulialah Engkau, ya Rabi Tuhanku! Aku bersyukur kepada-Mu, karena Engkau te
 
 -- Bahá'u'lláh
 
-bpn5185 «[Bahasa Indonesia](../id/prayers/#bpn5185)» 
+bpn5185 
 
 ----
 
@@ -1285,7 +1286,7 @@ Ya Tuhanku, Tuhan kedermawanan dan kerahmanan! Engkau Raja yang melalui kata per
 
 -- Bahá'u'lláh
 
-bpn5186 «[Bahasa Indonesia](../id/prayers/#bpn5186)» 
+bpn5186 
 
 ----
 
@@ -1295,7 +1296,7 @@ Segala Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi tanda-tanda-M
 
 -- Bahá'u'lláh
 
-bpn5187 «[Bahasa Indonesia](../id/prayers/#bpn5187)» 
+bpn5187 
 
 ----
 
@@ -1305,7 +1306,7 @@ Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan t
 
 -- Bahá'u'lláh
 
-bpn5188 «[Bahasa Indonesia](../id/prayers/#bpn5188)» 
+bpn5188 
 
 ----
 
@@ -1319,7 +1320,7 @@ bpn5188 «[Bahasa Indonesia](../id/prayers/#bpn5188)»
 
 -- Bahá'u'lláh
 
-bpn5209 «[Bahasa Indonesia](../id/prayers/#bpn5209)» 
+bpn5209 
 
 ----
 
@@ -1329,7 +1330,7 @@ Aku memohon kepada-Mu, ya Tuhanku, demiTanda-Mu yang perkasa dan demi penjelmaan
 
 -- Bahá'u'lláh
 
-bpn5210 «[Bahasa Indonesia](../id/prayers/#bpn5210)» 
+bpn5210 
 
 ----
 
@@ -1339,7 +1340,7 @@ Terpujilah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu, demi Wahyu ini, yang 
 
 -- Bahá'u'lláh
 
-bpn5211 «[Bahasa Indonesia](../id/prayers/#bpn5211)» 
+bpn5211 
 
 ----
 
@@ -1349,7 +1350,7 @@ bpn5211 «[Bahasa Indonesia](../id/prayers/#bpn5211)»
 
 -- Bahá'u'lláh
 
-bpn5213 «[Bahasa Indonesia](../id/prayers/#bpn5213)» 
+bpn5213 
 
 ----
 
@@ -1359,7 +1360,7 @@ bpn5213 «[Bahasa Indonesia](../id/prayers/#bpn5213)»
 
 -- Bahá'u'lláh
 
-bpn5214 «[Bahasa Indonesia](../id/prayers/#bpn5214)» 
+bpn5214 
 
 ----
 
@@ -1369,7 +1370,7 @@ Ya Tuhan Yang Maha Kuasa! Sucikanlah dan murnikanlah kalbu hamba dari cinta kepa
 
 -- Abdu'l-Bahá
 
-bpn5212 «[Bahasa Indonesia](../id/prayers/#bpn5212)» 
+bpn5212 
 
 ----
 
@@ -1383,7 +1384,7 @@ Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa 
 
 -- Bahá'u'lláh
 
-bpn5189 «[Bahasa Indonesia](../id/prayers/#bpn5189)» 
+bpn5189 
 
 ----
 
@@ -1393,7 +1394,7 @@ Pujian bagi-Mu, ya Rabi, Tuhanku! Aku naik saksi bahwa dari keabadian, Engkau di
 
 -- Bahá'u'lláh
 
-bpn5190 «[Bahasa Indonesia](../id/prayers/#bpn5190)» 
+bpn5190 
 
 ----
 
@@ -1403,7 +1404,7 @@ Terpujilah Engkau, ya Tuhanku! Aku salah seorang hamba-Mu, yang telah percaya ke
 
 -- Bahá'u'lláh
 
-bpn5191 «[Bahasa Indonesia](../id/prayers/#bpn5191)» 
+bpn5191 
 
 ----
 
@@ -1413,7 +1414,7 @@ Segala pujian bagi-Mu, ya Tuhanku, Sumber segala kemuliaan dan keagungan, kebesa
 
 -- Bahá'u'lláh
 
-bpn5192 «[Bahasa Indonesia](../id/prayers/#bpn5192)» 
+bpn5192 
 
 ----
 
@@ -1423,7 +1424,7 @@ Terpujilah Engkau, ya Tuhanku! Bagaimanakah aku dapat bersyukur kepada-Mu karena
 
 -- Bahá'u'lláh
 
-bpn5193 «[Bahasa Indonesia](../id/prayers/#bpn5193)» 
+bpn5193 
 
 ----
 
@@ -1437,7 +1438,7 @@ Ya Tuhanku! Ya Tuhanku! Terangilah kening pencinta-pencinta-Mu dan bantulah mere
 
 -- Abdu'l-Bahá
 
-bpn5194 «[Bahasa Indonesia](../id/prayers/#bpn5194)» 
+bpn5194 
 
 ----
 
@@ -1451,7 +1452,7 @@ bpn5194 «[Bahasa Indonesia](../id/prayers/#bpn5194)»
 
 -- Abdu'l-Bahá
 
-bpn5195 «[Bahasa Indonesia](../id/prayers/#bpn5195)» 
+bpn5195 
 
 ----
 
@@ -1465,7 +1466,7 @@ bpn5195 «[Bahasa Indonesia](../id/prayers/#bpn5195)»
 
 -- Bahá'u'lláh
 
-bpn5090 «[Bahasa Indonesia](../id/prayers/#bpn5090)» 
+bpn5090 
 
 ----
 
@@ -1479,7 +1480,7 @@ bpn5090 «[Bahasa Indonesia](../id/prayers/#bpn5090)»
 
 -- Bahá'u'lláh
 
-bpn5089 «[Bahasa Indonesia](../id/prayers/#bpn5089)» 
+bpn5089 
 
 ----
 
@@ -1493,7 +1494,7 @@ bpn5089 «[Bahasa Indonesia](../id/prayers/#bpn5089)»
 
 -- Bahá'u'lláh
 
-bpn5091 «[Bahasa Indonesia](../id/prayers/#bpn5091)» 
+bpn5091 
 
 ----
 
@@ -1507,7 +1508,7 @@ Hamba wanita-Mu ini sedang memanggil-Mu, sedang percaya kepada-Mu, sedang mengha
 
 -- Abdu'l-Bahá
 
-bpn5196 «[Bahasa Indonesia](../id/prayers/#bpn5196)» 
+bpn5196 
 
 ----
 
@@ -1521,7 +1522,7 @@ bpn5196 «[Bahasa Indonesia](../id/prayers/#bpn5196)»
 
 -- Abdu'l-Bahá
 
-bpn5132 «[Bahasa Indonesia](../id/prayers/#bpn5132)» 
+bpn5132 
 
 ----
 
@@ -1535,7 +1536,7 @@ Dimuliakanlah Nama-Mu, Ya Rabi Tuhanku.Lihatlah mataku yang dengan penuh harapan
 
 -- Bahá'u'lláh
 
-bpn5197 «[Bahasa Indonesia](../id/prayers/#bpn5197)» 
+bpn5197 
 
 ----
 
@@ -1545,7 +1546,7 @@ Dimuliakanlah Engkau, ya Engkau yang menggenggam kendali jiwa-jiwa semua yang te
 
 -- Bahá'u'lláh
 
-bpn5198 «[Bahasa Indonesia](../id/prayers/#bpn5198)» 
+bpn5198 
 
 ----
 
@@ -1555,7 +1556,7 @@ Ya Tuhanku, Kekasihku dan Hasratku! Jadilah Engkau sahabatku dalam kesepianku da
 
 -- Abdu'l-Bahá
 
-bpn5199 «[Bahasa Indonesia](../id/prayers/#bpn5199)» 
+bpn5199 
 
 ----
 
@@ -1569,7 +1570,7 @@ Ya Tuhan! Ya Tuhan! Aku memuji dan bersyukur kepada-Mu, sebab Engkau telah membe
 
 -- Abdu'l-Bahá
 
-bpn5200 «[Bahasa Indonesia](../id/prayers/#bpn5200)» 
+bpn5200 
 
 ----
 
