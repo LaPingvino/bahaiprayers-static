@@ -518,7 +518,6 @@ func main() {
 
 	re := regexp.MustCompile(`^(#+)([^#])`)
 	sanitize := func(s string) string {
-		s = strings.Replace(s, "\n", "\n\n", -1)
 		s = re.ReplaceAllString(s, "##$1 $2")
 		return s
 	}
@@ -527,7 +526,7 @@ func main() {
 	fmt.Println("Starting download...")
 	for i, v := range languages() {
 		lang, name, _ := Language(v)
-		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
+		b := GetFile("prayersystembylanguage?html=true&languageid=" + strconv.Itoa(v))
 		// Parse the file
 		var prayers = Prayerfile{}
 		err := json.Unmarshal(b, &prayers)

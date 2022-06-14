@@ -14,7 +14,7 @@ tags = ['lang=ga', 'prayerbook']
 ## General
 
 <a id="bpn6016"></a> 
-#### Blessed is the SpotIs beannaithe an ball, agus an teach,agus an áit, agus an chathair,agus an croí, agus an sliabh,agus an dídean, agus an uaimh,agus an gleann, agus an tír,agus an mhuir, agus an t-oileán,agus an móinéar inar tráchtadh ar aimn Déagus inar móradh a ghlóir.
+<h2>Blessed is the Spot</h2><p class='dropCap'>Is beannaithe an ball, agus an teach,</p><p>agus an áit, agus an chathair,</p><p>agus an croí, agus an sliabh,</p><p>agus an dídean, agus an uaimh,</p><p>agus an gleann, agus an tír,</p><p>agus an mhuir, agus an t-oileán,</p><p>agus an móinéar inar tráchtadh ar aimn Dé</p><p>agus inar móradh a ghlóir.</p>
 
 -- Bahá'u'lláh
 
@@ -24,7 +24,7 @@ bpn6016
 
 
 <a id="bpn6015"></a> 
-#### Remover of Difficulties An bhfuil aon duine chun fadhbanna a réiteach ach Dia amháin! Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann cách a Bhriathar'
+<h2>Remover of Difficulties </h2><p class='dropCap'>An bhfuil aon duine chun fadhbanna a réiteach ach Dia amháin! </p><p>Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann cách a Bhriathar'</p>
 
 -- Báb
 
