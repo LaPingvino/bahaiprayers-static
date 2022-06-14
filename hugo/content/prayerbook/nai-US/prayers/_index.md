@@ -108,7 +108,7 @@ bpn4153
 ## Lakota
 
 <a id="bpn8003"></a> 
-##O God Guide MeWakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.Waníš’akiŋ na wíyoyakihi.##Blessed is the SpotOyáŋke kiŋ na thípi kiŋ yawáštepina owáŋka kiŋ, na otȟúŋwahe kiŋna čhaŋté kiŋ, na ȟé kiŋna oónakižiŋ kiŋ, na iǧúǧa oȟlóka kiŋ na ósmaka kiŋ, na makȟóčhe kiŋna mniwáŋča kiŋ, na wíta kiŋna obláye waŋ ektáWakȟáŋ Tȟáŋka káǧapi k’uŋ hé,na ektá tȟawóyawašte wóčhažeyalyapi.##Short Obligatory PrayerWakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ. Miyé wíyowakihi šni na niyé níš waníš’aka, na miyé wamáȟpaničiŋ na niyé níš wínižiča čha hená blatȟáŋiŋ.Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičhúŋhaŋ wawóyakiye, oníč’ihi.##Remover of DifficultiesWakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú. Heyá po: Wakȟáŋ Tȟáŋka yawášte po. Wakȟáŋ Tȟáŋka kiŋ hé é.Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟawáčhiŋ ognáyaŋ úŋpi.
+#### O God Guide MeWakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.Waníš’akiŋ na wíyoyakihi.##Blessed is the SpotOyáŋke kiŋ na thípi kiŋ yawáštepina owáŋka kiŋ, na otȟúŋwahe kiŋna čhaŋté kiŋ, na ȟé kiŋna oónakižiŋ kiŋ, na iǧúǧa oȟlóka kiŋ na ósmaka kiŋ, na makȟóčhe kiŋna mniwáŋča kiŋ, na wíta kiŋna obláye waŋ ektáWakȟáŋ Tȟáŋka káǧapi k’uŋ hé,na ektá tȟawóyawašte wóčhažeyalyapi.##Short Obligatory PrayerWakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ. Miyé wíyowakihi šni na niyé níš waníš’aka, na miyé wamáȟpaničiŋ na niyé níš wínižiča čha hená blatȟáŋiŋ.Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičhúŋhaŋ wawóyakiye, oníč’ihi.##Remover of DifficultiesWakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú. Heyá po: Wakȟáŋ Tȟáŋka yawášte po. Wakȟáŋ Tȟáŋka kiŋ hé é.Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟawáčhiŋ ognáyaŋ úŋpi.
 
 -- Bahá'u'lláh
 
@@ -206,7 +206,7 @@ bpn4161
 ## Mohegan-Pequot
 
 <a id="bpn4145"></a> 
-#For the DepartedKiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.*We all come from God, and unto Him will we return.
+### For the DepartedKiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.*We all come from God, and unto Him will we return.
 
 -- Báb
 

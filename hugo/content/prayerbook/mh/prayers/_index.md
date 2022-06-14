@@ -78,7 +78,7 @@ bpn6206
 ## BAMLE
 
 <a id="bpn6190"></a> 
-##BAMLE *(FAMILY)Ij oware jolok bwid eo Am, O ao Anij, im kajitok kin jolok bwid ilo wewen eo Kwoknan bwe dri jerbal ro Am ren jede Ibbam kake. Ij oware Yuk bwe Kwon jeerlok jerawiwi ko am ekkar nan Am Iroij, im jolok ao bwid, an jino im jema, im ro ilo lomnak eo Am bwe emoj air drelone waj imon yokwe eo Am ilo wewen eo ejejet im ekkar nan Kajur potata eo Am ellalok jen men otemjij im ejjejet nan aibuijuij in Kajur eo Am ilan.O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar juon inaj kir nane ijelokin wot Kwe. Kwo utiej im aibuijuij; ij nebar Yuk toon wot Am kallikar Yuk nan io, im oware Yuk bwe Kwon jolok ao bwid, einwot ke iar likjab jen ao jela kin Yuk, im jab etetal ilo ial in yokwe eo Am.
+#### BAMLE *(FAMILY)Ij oware jolok bwid eo Am, O ao Anij, im kajitok kin jolok bwid ilo wewen eo Kwoknan bwe dri jerbal ro Am ren jede Ibbam kake. Ij oware Yuk bwe Kwon jeerlok jerawiwi ko am ekkar nan Am Iroij, im jolok ao bwid, an jino im jema, im ro ilo lomnak eo Am bwe emoj air drelone waj imon yokwe eo Am ilo wewen eo ejejet im ekkar nan Kajur potata eo Am ellalok jen men otemjij im ejjejet nan aibuijuij in Kajur eo Am ilan.O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar juon inaj kir nane ijelokin wot Kwe. Kwo utiej im aibuijuij; ij nebar Yuk toon wot Am kallikar Yuk nan io, im oware Yuk bwe Kwon jolok ao bwid, einwot ke iar likjab jen ao jela kin Yuk, im jab etetal ilo ial in yokwe eo Am.
 
 -- Bahá'u'lláh
 
@@ -160,7 +160,7 @@ bpn6200
 ## JAR EO EKADU
 
 <a id="bpn6189"></a> 
-##JAR EO EKADU*(SHORT OBLIGATORY PRAYER)*Jar kake juon allen ilo 24 awa otemjij, ilo raelebIj kamol, O ao Anij, bwe Kwar kommane io bwe in jela kin Yuk im kabun nan Yuk. Ij kwalok, ilo ien in, ao mojno im Am kajur, ao jeramol im Am jeramon. Ejelok bar Anij Ijelokim, Eo ej jiban ilo ien uota, Eo ej mour kin E make.
+#### JAR EO EKADU*(SHORT OBLIGATORY PRAYER)*Jar kake juon allen ilo 24 awa otemjij, ilo raelebIj kamol, O ao Anij, bwe Kwar kommane io bwe in jela kin Yuk im kabun nan Yuk. Ij kwalok, ilo ien in, ao mojno im Am kajur, ao jeramol im Am jeramon. Ejelok bar Anij Ijelokim, Eo ej jiban ilo ien uota, Eo ej mour kin E make.
 
 -- Bahá'u'lláh
 

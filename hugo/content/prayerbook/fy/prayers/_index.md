@@ -50,7 +50,7 @@ O God! Lied my en hoedzje my; ferljochtsje de lampe fan myn hert en meitsje my t
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[English](../../en/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» 
+AB04427LMP «[English](../../en/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» 
 
 ----
 
@@ -74,7 +74,7 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 
 -- Báb
 
-BB00623 «[English](../../en/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» 
+BB00623 «[English](../../en/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» 
 
 ----
 
@@ -84,7 +84,7 @@ Sis: God foldocht alle dingen boppe alle dingen en neat yn de himelen of op ierd
 
 -- Báb
 
-BB00015SUF «[English](../../en/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» 
+BB00015SUF «[English](../../en/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» 
 
 ----
 
@@ -98,7 +98,7 @@ O myn God! Dit is Jins tsjinneres en de dochter fan Jins tsjinneres, dy't yn Jo 
 
 -- Bahá'u'lláh
 
-BH09085 «[English](../../en/prayers/#BH09085)» «[Nederlands](../../nl/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
+BH09085 «[English](../../en/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» «[Nederlands](../../nl/prayers/#BH09085)» 
 
 ----
 
@@ -108,7 +108,7 @@ O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smert
 
 -- Abdu'l-Bahá
 
-AB11094 «[English](../../en/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» 
+AB11094 «[English](../../en/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» 
 
 ----
 
@@ -122,7 +122,7 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[English](../../en/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» 
+BH04421HEA «[English](../../en/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» 
 
 ----
 
@@ -170,7 +170,7 @@ Jo namme is myn genêzing, o myn God, en it Jo te betinken is myn medisyn, Jo ne
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../../en/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» 
+BH01313NAM «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» 
 
 ----
 
@@ -194,7 +194,7 @@ O Jo, waans antlit it doel is fan myn oanbidding, Waans skientme myn hillichdom,
 
 -- Bahá'u'lláh
 
-BH10973 «[English](../../en/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» 
+BH10973 «[English](../../en/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» 
 
 ----
 
@@ -222,7 +222,7 @@ O myn God! O myn God! Ferienigje de herten fan Jo tsjinners en iepenbierje oan h
 
 -- Bahá'u'lláh
 
-BH10505 «[English](../../en/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» 
+BH10505 «[English](../../en/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» 
 
 ----
 
@@ -242,11 +242,11 @@ ABU0137ALL «[English](../../en/prayers/#ABU0137ALL)» «[Esperanto](../../eo/pr
 ## It Koarte Ferplichte
 
 <a id="BH11209"></a> 
-##It Koarte FerplichteIk tsjûgje, o myn God, dat Jo my skepen hawwe om Jo te kennen en te oanbidden. Ik betsjûgje op dit pas myn machteleazens en Jo macht, myn earmoede en Jo rykdom.Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
+#### It Koarte FerplichteIk tsjûgje, o myn God, dat Jo my skepen hawwe om Jo te kennen en te oanbidden. Ik betsjûgje op dit pas myn machteleazens en Jo macht, myn earmoede en Jo rykdom.Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
 
 -- Bahá'u'lláh
 
-BH11209 «[English](../../en/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» 
+BH11209 «[English](../../en/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» 
 
 ----
 
@@ -260,7 +260,7 @@ O myn God, myn Master. Doel fan myn langstme! Dizze Jo tsjinner besiket te sliep
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» 
+BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» 
 
 ----
 
@@ -294,7 +294,7 @@ BH00009AWA «[English](../../en/prayers/#BH00009AWA)» «[Nederlands](../../nl/p
 ## Naw-Ruz
 
 <a id="BH03908"></a> 
-##Naw-Ruz*(Naw-Rúz, 21 maart, de earste dei fan it Bahá'í jier, is in dei fan freugde)Priizge binne Jo, o myn God, dat Jo Naw-Rúz ynsteld hawwe as in feestdei foar harren dy't de fêste neikommen binne út leafde foar Jo en harren ûnthâlden hawwe fan al wat Jo wearzget. Stean ta, o myn Hear, dat it fjoer fan Jo leafde en de gloede, feroarsake troch de fan Jo opleine fêste, harren foar Jo Saak ûntflamje litte mei en lit harren dwaande wêze Jo te earjen en te betinken.Om't Jo harren toaid hawwe, o myn Hear, mei it sieraad fan de fan Jo foarskreaune fêste, toai harren allyksa mei it sieraad fan Jo oanfurdiging troch Jo genede en goederjouske geunst. Want it dwaan en litten fan de minsken is hielendal ôfhinklik fan Jo wolbehagen en is troch Jo gebod bepaald. Bywannear't Jo him dy't de fêste brutsen hat beskôgje as ien dy't him hâlden hat, sil dizze minske rekkene wurde ta harren dy't yn alle ivichheid de fêste hâlden hawwe. En bywannear't Jo befelje, dat hy dy't de fêste hâlden hat him brutsen hat, sil dy minske rekkene wurde ta harren dy't oarsaak west hawwe fan it mei túch besmoargjen fan it Kleed fan Jo iepenbiering en dy't fier ferwidere binne fan de kristalkleare wetters fan dizze libbene Boarne.Jo binne Dejinge troch wa't it findel: "Pryslik binne Jo yn Jo wurken" heve is en de standert: "Opfolge wurde Jo yn Jo gebod" ûntrôle is. Meitsje Jo steat bekend, o myn God, oan Jo tsjinners, dat hja gewaar wurde meie dat de treflikheid fan alle dingen ôfhinklik is fan Jo gebod en Jo wurd, en it nut fan elke hanneling ôfhinklik is fan Jo ferlof en it wolbehagen fan Jo wil, en dat hja erkenne meie dat de leien fan de hannelingen fan de minsken yn de greep lizze fan Jo goedkarring en Jo gebod. Meitsje dit bekend oan harren, dat perfoarst neat harren útslute sil fan Jo Skientme, yn dizze dagen dér't Christus yn útropt: "Alle hearskippij is oan Jo, o Jo de Oansetter fan de Geast*", en Jo Freon** útropt: "Gloarje is oan Jo, o Jo de Leafste, want Jo hawwe Jo Skientme oan't ljocht brocht en Jo hawwe foar Jo útkarden delskreaun wat harren yn steat stelle sil de sit te berikken fan de iepenbiering fan Jo Grutste Namme, dêr't alle minsken troch lamentearren, behalve hja dy't harren ûnthecht hawwe fan alles útsein Jo en harren keard hawwe ta Him dy't de Iepenbierder is fan Josels en de Manifestaasje fan Jo eigenskippen".Hy dy't Jo Tûke is, en allegearre dy't mei Jo binne, o myn Hear, hawwe op dizze dei in ein, makke oan harren fêste, nei't hja it neikommnen binne, binnen de grinzen fan Jo hôf en yn ynlikst ferlangst om Jo te haagjen. Bestimme Jo foar him, en foar harren, en foar allegearre dy't yn dizze dagen Jo oanwêzigens berikt hawwe al it goede dat Jo yn Jo boek beskikt hawwe. Jou harren dan, wat harren te'n goede komme sil sawol yn dit libben as yn it libben hjirnei.Jo, yn wierheid, binne de Alwittende, de Alwize.* Jezus** Mohammed
+#### Naw-Ruz*(Naw-Rúz, 21 maart, de earste dei fan it Bahá'í jier, is in dei fan freugde)Priizge binne Jo, o myn God, dat Jo Naw-Rúz ynsteld hawwe as in feestdei foar harren dy't de fêste neikommen binne út leafde foar Jo en harren ûnthâlden hawwe fan al wat Jo wearzget. Stean ta, o myn Hear, dat it fjoer fan Jo leafde en de gloede, feroarsake troch de fan Jo opleine fêste, harren foar Jo Saak ûntflamje litte mei en lit harren dwaande wêze Jo te earjen en te betinken.Om't Jo harren toaid hawwe, o myn Hear, mei it sieraad fan de fan Jo foarskreaune fêste, toai harren allyksa mei it sieraad fan Jo oanfurdiging troch Jo genede en goederjouske geunst. Want it dwaan en litten fan de minsken is hielendal ôfhinklik fan Jo wolbehagen en is troch Jo gebod bepaald. Bywannear't Jo him dy't de fêste brutsen hat beskôgje as ien dy't him hâlden hat, sil dizze minske rekkene wurde ta harren dy't yn alle ivichheid de fêste hâlden hawwe. En bywannear't Jo befelje, dat hy dy't de fêste hâlden hat him brutsen hat, sil dy minske rekkene wurde ta harren dy't oarsaak west hawwe fan it mei túch besmoargjen fan it Kleed fan Jo iepenbiering en dy't fier ferwidere binne fan de kristalkleare wetters fan dizze libbene Boarne.Jo binne Dejinge troch wa't it findel: "Pryslik binne Jo yn Jo wurken" heve is en de standert: "Opfolge wurde Jo yn Jo gebod" ûntrôle is. Meitsje Jo steat bekend, o myn God, oan Jo tsjinners, dat hja gewaar wurde meie dat de treflikheid fan alle dingen ôfhinklik is fan Jo gebod en Jo wurd, en it nut fan elke hanneling ôfhinklik is fan Jo ferlof en it wolbehagen fan Jo wil, en dat hja erkenne meie dat de leien fan de hannelingen fan de minsken yn de greep lizze fan Jo goedkarring en Jo gebod. Meitsje dit bekend oan harren, dat perfoarst neat harren útslute sil fan Jo Skientme, yn dizze dagen dér't Christus yn útropt: "Alle hearskippij is oan Jo, o Jo de Oansetter fan de Geast*", en Jo Freon** útropt: "Gloarje is oan Jo, o Jo de Leafste, want Jo hawwe Jo Skientme oan't ljocht brocht en Jo hawwe foar Jo útkarden delskreaun wat harren yn steat stelle sil de sit te berikken fan de iepenbiering fan Jo Grutste Namme, dêr't alle minsken troch lamentearren, behalve hja dy't harren ûnthecht hawwe fan alles útsein Jo en harren keard hawwe ta Him dy't de Iepenbierder is fan Josels en de Manifestaasje fan Jo eigenskippen".Hy dy't Jo Tûke is, en allegearre dy't mei Jo binne, o myn Hear, hawwe op dizze dei in ein, makke oan harren fêste, nei't hja it neikommnen binne, binnen de grinzen fan Jo hôf en yn ynlikst ferlangst om Jo te haagjen. Bestimme Jo foar him, en foar harren, en foar allegearre dy't yn dizze dagen Jo oanwêzigens berikt hawwe al it goede dat Jo yn Jo boek beskikt hawwe. Jou harren dan, wat harren te'n goede komme sil sawol yn dit libben as yn it libben hjirnei.Jo, yn wierheid, binne de Alwittende, de Alwize.* Jezus** Mohammed
 
 -- Bahá'u'lláh
 
@@ -322,11 +322,11 @@ bpn6041
 ## Tafel Fan Ahmad
 
 <a id="BH02022"></a> 
-##Tafel Fan Ahmad"Dizze deistige ferplichte gebedens mei inkelde spesjale, lykas it Genêzingsgebed en de Tafel van Ahmad hat Bahá'u'lláh in bysûndere krêft en betsjutting jûn en dy moatte dêrom sa oannommen wurde. De leauwenden moatte dy gebedens sizze mei folslein leauwe en betrouwen, dat hja hjirtroch komme meie ta in neiere omgong mei God en harren hieltyd mear indentifisearje sille mei Syn wetten en foarskriften."Út in brief, dy't skreaun is út namme fan Shogi Effendi, sjoch: Bahá'í News, septimber 1951.Hy is de Kening, de Alwittende, de Wize!Sjoch, de Geal fan it Paradys sjongt op de twigen fan de Beam fan Ivichheid mei hillige en leaflike meldij. Hy ferkundiget oan de oprjochten de blide tynge fan de neite fan God, ropt de leauwenden yn de godlike Ienheid op ta it hôf fan de Oanwêzigens fan de Grutmoedige, lit de ûnthechten it boadskip witte dat iepenbiere is troch God, de Kening, de Gloarje-rike, de Bûtenwenstige, en liedt de leafsten ta de sit fan hillichheid en ta dizze strieljende Skientme.Wierliken, dit is dy grutste Skientme, foarsein yn de Boeken fan de Boadskippers, troch Wa't wierheidûnderskieden wurde sil fan dwaling en de wiisheid fan elk gebod hifke wurde sil. Wierliken, Hy is de Beam fan it Libben dy't de fruchten jout fan God, de Ferhevene, de Machtige, de Grutte.O Ahmad! Tsjûgje dat Hy, wierliken, God is en der gjin God is bûten Him, de Kening, de Beskermer, de Bûtenwenstige, de Almachtige. En dat Dejinge Dy't Hy útstjoerd hat ûnder de namme 'Ali ( de Báb ) wierlik fan God kaam, nei Waans geboaden wy ús allegearre foegje.Sis: O folk, wês hearrich oan de foarskriften fan God, dy't oplein binne yn de Bayán troch de Gloarjerike, de Wize. Wierliken, Hy is de Kening fan de Boadskippers en Syn Boek is it Memmeboek - witsto it mar.Sa lit út dizze finzenis de Geal dy Syn rop hearre. Hy hat inkeld dit klear boadskip te bringen. Al wa't dit winsket lit dy him ôfkeare fan dizze ried en al wa't dit winsket lit dy de wei kieze nei syn Hear.O minsken, as jimme dizze fersen fersaakje, troch hokker bewiis hawwe jimme yn God leaud? Lit it sjen, o jimme trouweleazen.Nee, by Him yn Waans hân myn siel is, hja binne net en sille nea by steat wêze, dit te dwaan, sels net al soene hja harren ferbine om elkoar te helpen.O Ahmad! Ferjit Myn woldieden net wylst Ik ôfwêzich bin. Betink Myn dagen yn dyn dagen en Myn smert en ferbanning yn dizze efterôf finzenis. En wês sa stânfêstich yn Myn leafde, dat dyn hert net wifelje sil, sels as de swurden fan de fijannen slaggen op dy del reine litte en al de himelen en de ierde tsjin dy opstean.Wês as in fjoergloede foar Myn fijannen en in rivier fan ivich libben foar Myn leafsten en hear net ta dejingen dy't twifelje.En asto oerfallen wurdst troch besikingen op Myn paad of fernederingen foar Myn saak, sit dêr net oer yn.Fertrou op God, dyn God en de Hear fan dyn foarfaars. Want de minsken geane dwaalwegen, berôve fan it ûnderskiedingsfermogen om God mei eigen eagen te sjen of mei eigen earen Syn meldij te hearren. Sa fûnen Wy harren, lykasto ek tsjûgest. Sa waard harren byleauwe in wale tusken harren en harren eigen herte en hâlde harren ôf fan it paad fan God, de Ferhevene, de Grutte.Wês der yn dysels wis fan dat wierliken hy dy't him fan dizze Skientme ôfkeart, him ek fan de Boadskippers yn it ferline ôfkeard hat en fan ivichheid oant ivichheid fol heechmoed is foar God oer.Lear dizze Tafel goed, o Ahmad. Sis har yn dyn dagen en ûntwyn dy der net oan. Want wierliken, God ornearre foar dejinge dy't har seit de beleanning fan hûndert en ien martlers en tsjinstberens yn beide wrâlden. Dizze geunsten hawwe Wy dy skonken as in woldied fan Us kant en in genede fan Us oanwêzigens.datsto hearst ta harren dy't tankber binne.By God! Lêst immen dy't yn smert of kommer is, yn folsleine oprjochtens dizze Tafel, dan sil God syn fertriet ferdriuwe, syn swierrichheden oplosse en syn besikingen weinimme.Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâlden.
+#### Tafel Fan Ahmad"Dizze deistige ferplichte gebedens mei inkelde spesjale, lykas it Genêzingsgebed en de Tafel van Ahmad hat Bahá'u'lláh in bysûndere krêft en betsjutting jûn en dy moatte dêrom sa oannommen wurde. De leauwenden moatte dy gebedens sizze mei folslein leauwe en betrouwen, dat hja hjirtroch komme meie ta in neiere omgong mei God en harren hieltyd mear indentifisearje sille mei Syn wetten en foarskriften."Út in brief, dy't skreaun is út namme fan Shogi Effendi, sjoch: Bahá'í News, septimber 1951.Hy is de Kening, de Alwittende, de Wize!Sjoch, de Geal fan it Paradys sjongt op de twigen fan de Beam fan Ivichheid mei hillige en leaflike meldij. Hy ferkundiget oan de oprjochten de blide tynge fan de neite fan God, ropt de leauwenden yn de godlike Ienheid op ta it hôf fan de Oanwêzigens fan de Grutmoedige, lit de ûnthechten it boadskip witte dat iepenbiere is troch God, de Kening, de Gloarje-rike, de Bûtenwenstige, en liedt de leafsten ta de sit fan hillichheid en ta dizze strieljende Skientme.Wierliken, dit is dy grutste Skientme, foarsein yn de Boeken fan de Boadskippers, troch Wa't wierheidûnderskieden wurde sil fan dwaling en de wiisheid fan elk gebod hifke wurde sil. Wierliken, Hy is de Beam fan it Libben dy't de fruchten jout fan God, de Ferhevene, de Machtige, de Grutte.O Ahmad! Tsjûgje dat Hy, wierliken, God is en der gjin God is bûten Him, de Kening, de Beskermer, de Bûtenwenstige, de Almachtige. En dat Dejinge Dy't Hy útstjoerd hat ûnder de namme 'Ali ( de Báb ) wierlik fan God kaam, nei Waans geboaden wy ús allegearre foegje.Sis: O folk, wês hearrich oan de foarskriften fan God, dy't oplein binne yn de Bayán troch de Gloarjerike, de Wize. Wierliken, Hy is de Kening fan de Boadskippers en Syn Boek is it Memmeboek - witsto it mar.Sa lit út dizze finzenis de Geal dy Syn rop hearre. Hy hat inkeld dit klear boadskip te bringen. Al wa't dit winsket lit dy him ôfkeare fan dizze ried en al wa't dit winsket lit dy de wei kieze nei syn Hear.O minsken, as jimme dizze fersen fersaakje, troch hokker bewiis hawwe jimme yn God leaud? Lit it sjen, o jimme trouweleazen.Nee, by Him yn Waans hân myn siel is, hja binne net en sille nea by steat wêze, dit te dwaan, sels net al soene hja harren ferbine om elkoar te helpen.O Ahmad! Ferjit Myn woldieden net wylst Ik ôfwêzich bin. Betink Myn dagen yn dyn dagen en Myn smert en ferbanning yn dizze efterôf finzenis. En wês sa stânfêstich yn Myn leafde, dat dyn hert net wifelje sil, sels as de swurden fan de fijannen slaggen op dy del reine litte en al de himelen en de ierde tsjin dy opstean.Wês as in fjoergloede foar Myn fijannen en in rivier fan ivich libben foar Myn leafsten en hear net ta dejingen dy't twifelje.En asto oerfallen wurdst troch besikingen op Myn paad of fernederingen foar Myn saak, sit dêr net oer yn.Fertrou op God, dyn God en de Hear fan dyn foarfaars. Want de minsken geane dwaalwegen, berôve fan it ûnderskiedingsfermogen om God mei eigen eagen te sjen of mei eigen earen Syn meldij te hearren. Sa fûnen Wy harren, lykasto ek tsjûgest. Sa waard harren byleauwe in wale tusken harren en harren eigen herte en hâlde harren ôf fan it paad fan God, de Ferhevene, de Grutte.Wês der yn dysels wis fan dat wierliken hy dy't him fan dizze Skientme ôfkeart, him ek fan de Boadskippers yn it ferline ôfkeard hat en fan ivichheid oant ivichheid fol heechmoed is foar God oer.Lear dizze Tafel goed, o Ahmad. Sis har yn dyn dagen en ûntwyn dy der net oan. Want wierliken, God ornearre foar dejinge dy't har seit de beleanning fan hûndert en ien martlers en tsjinstberens yn beide wrâlden. Dizze geunsten hawwe Wy dy skonken as in woldied fan Us kant en in genede fan Us oanwêzigens.datsto hearst ta harren dy't tankber binne.By God! Lêst immen dy't yn smert of kommer is, yn folsleine oprjochtens dizze Tafel, dan sil God syn fertriet ferdriuwe, syn swierrichheden oplosse en syn besikingen weinimme.Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâlden.
 
 -- Bahá'u'lláh
 
-BH02022 «[English](../../en/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
+BH02022 «[English](../../en/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» 
 
 ----
 

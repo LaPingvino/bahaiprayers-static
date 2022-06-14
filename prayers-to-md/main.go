@@ -453,13 +453,6 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 		panic(err.Error())
 	}
 
-	re := regexp.MustCompile(`^(#+)([^#])`)
-	sanitize := func(s string) string {
-		s = strings.Replace(s, "\n", "\n\n", -1)
-		s = re.ReplaceAllString(s, "##$1 $2")
-		return s
-	}
-
 	// Insert all the rows
 	for lang, prayerfile := range prayermap {
 		for _, prayer := range prayerfile.Prayers {
@@ -469,7 +462,7 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 				"https://bahaiprayers.net/Book/Single/"+strconv.Itoa(prayer.LanguageId)+"/"+strconv.Itoa(int(prayer.Id)),
 				prayer.Title,
 				prayer.Author.String(),
-				sanitize(prayer.Text),
+				template.HTMLEscapeString(prayer.Text),
 			)
 			if err != nil {
 				panic(err.Error())
@@ -522,6 +515,14 @@ func main() {
 		}
 		defer db.Close()
 	}
+
+	re := regexp.MustCompile(`^(#+)([^#])`)
+	sanitize := func(s string) string {
+		s = strings.Replace(s, "\n", "\n\n", -1)
+		s = re.ReplaceAllString(s, "##$1 $2")
+		return s
+	}
+
 	prayerMap := make(map[string]Prayerfile) // map of language code to prayer file
 	fmt.Println("Starting download...")
 	for i, v := range languages() {
@@ -542,7 +543,7 @@ func main() {
 			prayer.PrayerCode = PrayerCode(prayer.Id, true)
 			prayer.PrayerCodeTag = PrayerCode(prayer.Id, false)
 			prayer.ENCategory = CategoryByPrayer(PrayerCode(prayer.Id, true))
-			prayer.Text = Printablize(prayer.Text)
+			prayer.Text = Printablize(sanitize(prayer.Text))
 			prayers.Prayers[i] = prayer
 		}
 		// Save the prayers to the map
