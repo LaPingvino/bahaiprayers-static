@@ -458,7 +458,7 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 		// Sanitize the text, add a <br> after each line and correct the header #s, adding a space after the last and adding ## in front of the first #
 		s = strings.Replace(s, "\n", "<br>", -1)
 		s = re.ReplaceAllString(s, "##$1 $2")
-		return template.HTMLEscapeString(s)
+		return s
 	}
 
 	// Insert all the rows
