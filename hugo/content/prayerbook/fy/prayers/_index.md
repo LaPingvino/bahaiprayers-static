@@ -50,7 +50,7 @@ O God! Lied my en hoedzje my; ferljochtsje de lampe fan myn hert en meitsje my t
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[English](../../en/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» 
+AB04427LMP «[English](../../en/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» 
 
 ----
 
@@ -74,7 +74,7 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 
 -- Báb
 
-BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» 
+BB00623 «[English](../../en/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» 
 
 ----
 
@@ -84,7 +84,7 @@ Sis: God foldocht alle dingen boppe alle dingen en neat yn de himelen of op ierd
 
 -- Báb
 
-BB00015SUF «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» 
+BB00015SUF «[English](../../en/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -98,7 +98,7 @@ O myn God! Dit is Jins tsjinneres en de dochter fan Jins tsjinneres, dy't yn Jo 
 
 -- Bahá'u'lláh
 
-BH09085 «[Nederlands](../../nl/prayers/#BH09085)» «[English](../../en/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
+BH09085 «[English](../../en/prayers/#BH09085)» «[Nederlands](../../nl/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 ----
 
@@ -108,7 +108,7 @@ O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smert
 
 -- Abdu'l-Bahá
 
-AB11094 «[Español](../../es/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» 
+AB11094 «[English](../../en/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» 
 
 ----
 
@@ -122,7 +122,7 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Nederlands](../../nl/prayers/#BH04421HEA)» «[English](../../en/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» 
+BH04421HEA «[English](../../en/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» 
 
 ----
 
@@ -170,7 +170,7 @@ Jo namme is myn genêzing, o myn God, en it Jo te betinken is myn medisyn, Jo ne
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» 
+BH01313NAM «[English](../../en/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» 
 
 ----
 
@@ -194,7 +194,7 @@ O Jo, waans antlit it doel is fan myn oanbidding, Waans skientme myn hillichdom,
 
 -- Bahá'u'lláh
 
-BH10973 «[Nederlands](../../nl/prayers/#BH10973)» «[English](../../en/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» 
+BH10973 «[English](../../en/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» 
 
 ----
 
@@ -208,7 +208,7 @@ Gloarje is oan Jo, o myn God! Wierliken, dizze Jo tsjinstfeint en dizze Jo tsjin
 
 -- Abdu'l-Bahá
 
-AB07158 «[Nederlands](../../nl/prayers/#AB07158)» «[English](../../en/prayers/#AB07158)» 
+AB07158 «[English](../../en/prayers/#AB07158)» «[Nederlands](../../nl/prayers/#AB07158)» 
 
 ----
 
@@ -222,7 +222,7 @@ O myn God! O myn God! Ferienigje de herten fan Jo tsjinners en iepenbierje oan h
 
 -- Bahá'u'lláh
 
-BH10505 «[Papiamentu](../../pap/prayers/#BH10505)» «[English](../../en/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» 
+BH10505 «[English](../../en/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» 
 
 ----
 
@@ -246,7 +246,7 @@ ABU0137ALL «[English](../../en/prayers/#ABU0137ALL)» «[Esperanto](../../eo/pr
 
 -- Bahá'u'lláh
 
-BH11209 «[Papiamentu](../../pap/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» 
+BH11209 «[English](../../en/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» 
 
 ----
 
@@ -260,7 +260,7 @@ O myn God, myn Master. Doel fan myn langstme! Dizze Jo tsjinner besiket te sliep
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» 
+BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» 
 
 ----
 
@@ -284,7 +284,7 @@ Ik priizgje Jo, o myn God, dat Jo my út 'e sliep wekker makke hawwe en my út m
 
 -- Bahá'u'lláh
 
-BH00009AWA «[Nederlands](../../nl/prayers/#BH00009AWA)» «[English](../../en/prayers/#BH00009AWA)» 
+BH00009AWA «[English](../../en/prayers/#BH00009AWA)» «[Nederlands](../../nl/prayers/#BH00009AWA)» 
 
 ----
 
@@ -326,7 +326,7 @@ bpn6041
 
 -- Bahá'u'lláh
 
-BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» 
+BH02022 «[English](../../en/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
 
 ----
 
