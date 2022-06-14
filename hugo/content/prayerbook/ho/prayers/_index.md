@@ -35,7 +35,6 @@ tags = ['lang=ho', 'prayerbook']
 
 [TAUNIMANIMA HATAMONAIA GURIGURI](#TAUNIMANIMA+HATAMONAIA+GURIGURI)
 
-[TAUNIMANIMA HATAMONAIA GURIGURI](#TAUNIMANIMA+HATAMONAIA+GURIGURI)
 
 
 <a id="BAH%C3%81%E2%80%99%C3%8D+TORETORE+HELAGADIA+HAIDA"></a> 
@@ -46,7 +45,7 @@ Tanobada hanamoa dalana be goevagoeva kara namodia bona hegeregere karadia karai
 
 -- Bahá'u'lláh
 
-bpn13049 
+bpn13049 «[Hiri Motu](../ho/prayers/#bpn13049)» 
 
 ----
 
@@ -56,7 +55,7 @@ Naria Bahá taunimanima e!  umui ese taunimanima haida, daika be edia hereva bon
 
 -- Bahá'u'lláh
 
-bpn13050 
+bpn13050 «[Hiri Motu](../ho/prayers/#bpn13050)» 
 
 ----
 
@@ -66,7 +65,7 @@ Noho Natuna e!Dina ta ta dekenai oi karaia kara oi lalodia, badina gabeai oiemu 
 
 -- Bahá'u'lláh
 
-bpn13051 
+bpn13051 «[Hiri Motu](../ho/prayers/#bpn13051)» 
 
 ----
 
@@ -76,7 +75,7 @@ Gwau, varavara e! Umuiemui herahera gaudia be kara namodia amo umui karaia, herv
 
 -- Bahá'u'lláh
 
-bpn13052 
+bpn13052 «[Hiri Motu](../ho/prayers/#bpn13052)» 
 
 ----
 
@@ -86,7 +85,7 @@ Hereva helagadia bona kara namodia be ia daekau lao Dirava ena mai hairai gubana
 
 -- Bahá'u'lláh
 
-bpn13053 
+bpn13053 «[Hiri Motu](../ho/prayers/#bpn13053)» 
 
 ----
 
@@ -96,7 +95,7 @@ Umuiemui malana umui hahenamolaia, taunimanima e! hereva momokani dekenai bona e
 
 -- Bahá'u'lláh
 
-bpn13054 
+bpn13054 «[Hiri Motu](../ho/prayers/#bpn13054)» 
 
 ----
 
@@ -106,7 +105,7 @@ Ia namo bema oiemu matana be goevagoeva, oiemu imana be mai abidadama, oiemu mal
 
 -- Bahá'u'lláh
 
-bpn13055 
+bpn13055 «[Hiri Motu](../ho/prayers/#bpn13055)» 
 
 ----
 
@@ -116,7 +115,7 @@ Daika be Dirava ena palai ruma dekenai idia noho, bona idia helai, hanaihanai no
 
 -- Bahá'u'lláh
 
-bpn13056 
+bpn13056 «[Hiri Motu](../ho/prayers/#bpn13056)» 
 
 ----
 
@@ -126,7 +125,7 @@ Mai hebogahisihisi malana be auri ia veria mai gauna bamona, do taunimanima ena 
 
 -- Bahá'u'lláh
 
-bpn13057 
+bpn13057 «[Hiri Motu](../ho/prayers/#bpn13057)» 
 
 ----
 
@@ -136,7 +135,7 @@ Gau ta inai Dina dekenai be hegeregere lasi Dirava ena Misini do ia hadikaia, to
 
 -- Bahá'u'lláh
 
-bpn13058 
+bpn13058 «[Hiri Motu](../ho/prayers/#bpn13058)» 
 
 ----
 
@@ -146,7 +145,7 @@ bpn13058
 
 -- Bahá'u'lláh
 
-bpn13059 
+bpn13059 «[Hiri Motu](../ho/prayers/#bpn13059)» 
 
 ----
 
@@ -156,7 +155,7 @@ Oi sibona danu be kara dika tauna neganai, haida edia kara dikadia oi herevalaia
 
 -- Bahá'u'lláh
 
-bpn13060 
+bpn13060 «[Hiri Motu](../ho/prayers/#bpn13060)» 
 
 ----
 
@@ -166,7 +165,7 @@ Hereva dikana ta oi herevalaia lasi, vadaeni taunimanima haida ese hereva dikadi
 
 -- Bahá'u'lláh
 
-bpn13061 
+bpn13061 «[Hiri Motu](../ho/prayers/#bpn13061)» 
 
 ----
 
@@ -176,7 +175,7 @@ Hereva momokani kara be taunimanima edia kara namodia ibounai ena badina.
 
 -- Abdu'l-Bahá
 
-bpn13062 
+bpn13062 «[Hiri Motu](../ho/prayers/#bpn13062)» 
 
 ----
 
@@ -186,7 +185,7 @@ Bema hereva momokani kara lasi neganai, tau ta do ia tubu lasi bona kwalimu do i
 
 -- Abdu'l-Bahá
 
-bpn13063 
+bpn13063 «[Hiri Motu](../ho/prayers/#bpn13063)» 
 
 ----
 
@@ -196,7 +195,7 @@ Lohiabada ena lalokau taudia e,  Inai Nega helaga dekenai heatu bona hepapahuahu
 
 -- Abdu'l-Bahá
 
-bpn13064 
+bpn13064 «[Hiri Motu](../ho/prayers/#bpn13064)» 
 
 ----
 
@@ -206,7 +205,7 @@ Turana karaia kara, hereva sibona dekenai hahedinaraia oi lalo namo lasi.  Ia na
 
 -- Abdu'l-Bahá
 
-bpn13065 
+bpn13065 «[Hiri Motu](../ho/prayers/#bpn13065)» 
 
 ----
 
@@ -216,7 +215,7 @@ Bema tuari henia ena laloa ia abimu neganai maino ena kahanai oi laloa bada.  La
 
 -- Abdu'l-Bahá
 
-bpn13066 
+bpn13066 «[Hiri Motu](../ho/prayers/#bpn13066)» 
 
 ----
 
@@ -230,7 +229,7 @@ Oiemu keruma henunai lau noga, lauegu Dirava e! bona ia namo bema Oiemu henari i
 
 -- Bahá'u'lláh
 
-bpn13080 
+bpn13080 «[Hiri Motu](../ho/prayers/#bpn13080)» 
 
 ----
 
@@ -244,7 +243,7 @@ Momokani lau hereva lauegu Dirava e,  Oi ese lau Oi karaia Oi lau diba bona lau 
 
 -- Bahá'u'lláh
 
-bpn13067 
+bpn13067 «[Hiri Motu](../ho/prayers/#bpn13067)» 
 
 ----
 
@@ -258,7 +257,7 @@ Kerere kokia tauna ta ia noho, eiava  Dirava sibona?  Gwau:  Hanamoa be Dirava! 
 
 -- Báb
 
-bpn13068 
+bpn13068 «[Hiri Motu](../ho/prayers/#bpn13068)» 
 
 ----
 
@@ -272,7 +271,7 @@ Inai bamona hereva:  Dirava ese gau ibounai Ia hahegeregerea bona Ia be gau ibou
 
 -- Báb
 
-bpn13070 
+bpn13070 «[Hiri Motu](../ho/prayers/#bpn13070)» 
 
 ----
 
@@ -286,7 +285,7 @@ Lohiabada e!  Inai eregabe Oi hadiaria, bona Oiemu hariharibada Oi henia inai og
 
 -- Abdu'l-Bahá
 
-bpn13076 
+bpn13076 «[Hiri Motu](../ho/prayers/#bpn13076)» 
 
 ----
 
@@ -300,7 +299,7 @@ Lohiabada, lauegu Dirava e!  Oiemu lalokau taudia Oi durudia, Oiemu Misini deken
 
 -- Abdu'l-Bahá
 
-bpn13082 
+bpn13082 «[Hiri Motu](../ho/prayers/#bpn13082)» 
 
 ----
 
@@ -314,7 +313,7 @@ Oiemu ladana be lau ia hanamoa Lauegu Dirava e, bona lau laloa Oi dekenai be lau
 
 -- Bahá'u'lláh
 
-bpn13079 
+bpn13079 «[Hiri Motu](../ho/prayers/#bpn13079)» 
 
 ----
 
@@ -328,7 +327,7 @@ Lauegu Dirava e, lauegu Biaguna, lauegu ura ena Tahua Gauna!  Oiemu hesiai tauna
 
 -- Bahá'u'lláh
 
-bpn13081 
+bpn13081 «[Hiri Motu](../ho/prayers/#bpn13081)» 
 
 ----
 
@@ -342,7 +341,7 @@ Mai Hairai Ibounai Lohiabada e! Inai hesiai kekeni maragina Oi hanamoa bona hamo
 
 -- Abdu'l-Bahá
 
-bpn13075 
+bpn13075 «[Hiri Motu](../ho/prayers/#bpn13075)» 
 
 ----
 
@@ -356,7 +355,7 @@ Dirava e! Lauegu lauma Oi hanamoa bona hamoalea.  Lauegu kudouna Oi hagoevaia bo
 
 -- Abdu'l-Bahá
 
-bpn13078 
+bpn13078 «[Hiri Motu](../ho/prayers/#bpn13078)» 
 
 ----
 
@@ -370,7 +369,7 @@ Gwau:  Dirava e, lauegu Dirava!  Maoromaoro kara ena kwara gauna Oi atoa lauegu 
 
 -- Bahá'u'lláh
 
-bpn13069 
+bpn13069 «[Hiri Motu](../ho/prayers/#bpn13069)» 
 
 ----
 
@@ -384,7 +383,7 @@ Dirava e!  Oi hakaugu, Oi narigu.   Lamepa diaridiari ta bona hisiu hairaina ta 
 
 -- Abdu'l-Bahá
 
-bpn13072 
+bpn13072 «[Hiri Motu](../ho/prayers/#bpn13072)» 
 
 ----
 
@@ -394,7 +393,7 @@ Dirava e!  Inai natudia Oi hasikulidia.  Inai natudia be au, Oiemu au huahua had
 
 -- Abdu'l-Bahá
 
-bpn13073 
+bpn13073 «[Hiri Motu](../ho/prayers/#bpn13073)» 
 
 ----
 
@@ -404,7 +403,7 @@ Lauegu Lohia e! Lauegu Lohia e!Lau be natuna maragina.  Lau Oi ubua Oiemu bogahi
 
 -- Abdu'l-Bahá
 
-bpn13074 
+bpn13074 «[Hiri Motu](../ho/prayers/#bpn13074)» 
 
 ----
 
@@ -418,7 +417,7 @@ Lohiabada e!  Oi itaia, aiemai imana ai abiaisi Oiemu lalokau bona hariharibada 
 
 -- Bahá'u'lláh
 
-bpn13071 
+bpn13071 «[Hiri Motu](../ho/prayers/#bpn13071)» 
 
 ----
 
@@ -432,7 +431,7 @@ Lauegu Dirava e!  Lauegu Dirava e!  Oiemu gaukara taudia edia lalona Oi hatamona
 
 -- Bahá'u'lláh
 
-bpn13077 
+bpn13077 «[Hiri Motu](../ho/prayers/#bpn13077)» 
 
 ----
 

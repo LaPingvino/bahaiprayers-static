@@ -43,7 +43,7 @@ O Iroij! Komman bwe ajri rein ren menin edrok ko reweppen. Komman bwe ren edrok 
 
 -- Abdu'l-Bahá
 
-bpn6195 
+bpn6195 «[Marshallese](../mh/prayers/#bpn6195)» 
 
 ----
 
@@ -53,7 +53,7 @@ O Anij! Kojelalokjen ajri rein. Ajri rein rej ine in jikin kallib in wijki eo Am
 
 -- Abdu'l-Bahá
 
-bpn6196 
+bpn6196 «[Marshallese](../mh/prayers/#bpn6196)» 
 
 ----
 
@@ -67,7 +67,7 @@ O Kwe Iroij in jouij, Kwe Eo Kwojouij im maron! Kimij Drijilkam im emoj am koonw
 
 -- Abdu'l-Bahá
 
-bpn6206 
+bpn6206 «[Marshallese](../mh/prayers/#bpn6206)» 
 
 ----
 
@@ -81,7 +81,7 @@ bpn6206
 
 -- Bahá'u'lláh
 
-bpn6190 
+bpn6190 «[Marshallese](../mh/prayers/#bpn6190)» 
 
 ----
 
@@ -91,7 +91,7 @@ Ij oware jolok bwid eo Am, O ao Anij, im kajitok kin jolok bwid ilo wewen eo Kwo
 
 -- Báb
 
-bpn6202 
+bpn6202 «[Marshallese](../mh/prayers/#bpn6202)» 
 
 ----
 
@@ -105,7 +105,7 @@ Kabin bunten ne ko neem, O Iroij, ilo ial eo Am im kakajur buruem ilo am kibilie
 
 -- Abdu'l-Bahá
 
-bpn6203 
+bpn6203 «[Marshallese](../mh/prayers/#bpn6203)» 
 
 ----
 
@@ -115,7 +115,7 @@ O Anij in tiriamo! Lewoj kamolol nan Kwe bwe Kwar karuj im kemour io. Emoj am le
 
 -- Abdu'l-Bahá
 
-bpn6204 
+bpn6204 «[Marshallese](../mh/prayers/#bpn6204)» 
 
 ----
 
@@ -129,7 +129,7 @@ Jiban io, O ao Anij, bwe in bed ebake Yuk, im jokwe iloan melan ko ilo oror eo A
 
 -- Bahá'u'lláh
 
-bpn6198 
+bpn6198 «[Marshallese](../mh/prayers/#bpn6198)» 
 
 ----
 
@@ -139,7 +139,7 @@ O Iroij! Ilo Kwe ij bukot kejbarok eo Am, im nan aolepen kokkale ko Am ij aje wa
 
 -- Báb
 
-bpn6199 
+bpn6199 «[Marshallese](../mh/prayers/#bpn6199)» 
 
 ----
 
@@ -149,7 +149,7 @@ O Anij, ao Anij! Kwoj ao Kejatdrikdrik im ao Jitenburu, ao Kotobar eo Eutiej tat
 
 -- Abdu'l-Bahá
 
-bpn6200 
+bpn6200 «[Marshallese](../mh/prayers/#bpn6200)» 
 
 ----
 
@@ -163,7 +163,7 @@ bpn6200
 
 -- Bahá'u'lláh
 
-bpn6189 
+bpn6189 «[Marshallese](../mh/prayers/#bpn6189)» 
 
 ----
 
@@ -177,7 +177,7 @@ O Kwe eo im Turin mejen ej unjen ao kabun, im aibuijuij eo An ej jikin ao kone, 
 
 -- Bahá'u'lláh
 
-bpn6191 
+bpn6191 «[Marshallese](../mh/prayers/#bpn6191)» 
 
 ----
 
@@ -187,7 +187,7 @@ Ao Anij, Eo ij kabun im kautiej E, ao King, Eo buruo eaikuiji ! Loo, ta emaron k
 
 -- Bahá'u'lláh
 
-bpn6192 
+bpn6192 «[Marshallese](../mh/prayers/#bpn6192)» 
 
 ----
 
@@ -201,7 +201,7 @@ O ao Anij im ao Master! Na ij dri jelkam im nejin dri jelkam. Emoj ao ruj tok je
 
 -- Bahá'u'lláh
 
-bpn6209 
+bpn6209 «[Marshallese](../mh/prayers/#bpn6209)» 
 
 ----
 
@@ -215,7 +215,7 @@ Ekijkan ao maron kiki, O Anij, ao Anij, elane mej ko mejen ro rej on kake Yuk re
 
 -- Bahá'u'lláh
 
-bpn6201 
+bpn6201 «[Marshallese](../mh/prayers/#bpn6201)» 
 
 ----
 
@@ -229,7 +229,7 @@ Et eo Etam ej menin kemour io, O ao Anij, im ao kemejmej Yuk ej menin kejmour io
 
 -- Bahá'u'lláh
 
-bpn6205 
+bpn6205 «[Marshallese](../mh/prayers/#bpn6205)» 
 
 ----
 
@@ -243,7 +243,7 @@ O ao Anij! O ao Anij! Emol, dri jerbal rein Am rej oktak waj nan Kwe, bukot jiba
 
 -- Abdu'l-Bahá
 
-bpn6208 
+bpn6208 «[Marshallese](../mh/prayers/#bpn6208)» 
 
 ----
 
@@ -257,7 +257,7 @@ Ewor ke bar juon Dri jolok aban ko ijelokin Anij? Jen ba: Nebar Anij! E Ej Anij!
 
 -- Báb
 
-bpn6193 
+bpn6193 «[Marshallese](../mh/prayers/#bpn6193)» 
 
 ----
 
@@ -267,7 +267,7 @@ O Iroij! Kwoj Dri jolok aolep menin buromoj, im Dri namejlan aolep menin aban. K
 
 -- Báb
 
-bpn6194 
+bpn6194 «[Marshallese](../mh/prayers/#bpn6194)» 
 
 ----
 
@@ -281,7 +281,7 @@ Kwoaibuijuij, O ao Anij! Emol, dri jerbal rein Am rej kobatok iumin ailurlur in 
 
 -- Abdu'l-Bahá
 
-bpn6207 
+bpn6207 «[Marshallese](../mh/prayers/#bpn6207)» 
 
 ----
 
@@ -295,7 +295,7 @@ O ao Anij! O Kwe Ri-jolok bwid ko, ri-letok menin lelok ko, ri-jolok aban ko!Ij 
 
 -- Abdu'l-Bahá
 
-bpn6197 
+bpn6197 «[Marshallese](../mh/prayers/#bpn6197)» 
 
 ----
 

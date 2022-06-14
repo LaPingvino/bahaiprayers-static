@@ -21,7 +21,6 @@ tags = ['lang=nal', 'prayerbook']
 
 [A Vaaroving sin a Funalik Naat (Children)](#A+Vaaroving+sin+a+Funalik+Naat+%28Children%29)
 
-[A Vaaroving sin a Funalik Naat (Children)](#A+Vaaroving+sin+a+Funalik+Naat+%28Children%29)
 
 
 <a id="A+Vaaratulaaiing+sin+Ahm%C3%A1d+%28Tablet+of+Ahm%C3%A1d%29"></a> 
@@ -32,7 +31,7 @@ Naan be a Xalxaal, ka mazaam a mun saan mumupis ma a mazampes.  Ei mbasaan, a Ro
 
 -- Bahá'u'lláh
 
-bpn13016 
+bpn13016 «[Nalik](../nal/prayers/#bpn13016)» 
 
 ----
 
@@ -46,7 +45,7 @@ bpn13016
 
 -- Bahá'u'lláh
 
-bpn13009 
+bpn13009 «[Nalik](../nal/prayers/#bpn13009)» 
 
 ----
 
@@ -60,7 +59,7 @@ Saaule Nakmai!  Saaule Nakmai!  Fatuing a mun mamaangon a yaanakilaaing Sunum.  
 
 -- Bahá'u'lláh
 
-bpn13011 
+bpn13011 «[Nalik](../nal/prayers/#bpn13011)» 
 
 ----
 
@@ -74,7 +73,7 @@ bpn13011
 
 -- Bahá'u'lláh
 
-bpn13015 
+bpn13015 «[Nalik](../nal/prayers/#bpn13015)» 
 
 ----
 
@@ -88,7 +87,7 @@ Saaule Nakmai!  Pan a Izaam ka malasing a virviraing ku ni. Pan a nonomaaing pan
 
 -- Bahá'u'lláh
 
-bpn13012 
+bpn13012 «[Nalik](../nal/prayers/#bpn13012)» 
 
 ----
 
@@ -102,7 +101,7 @@ bpn13012
 
 -- Bahá'u'lláh
 
-bpn13013 
+bpn13013 «[Nalik](../nal/prayers/#bpn13013)» 
 
 ----
 
@@ -116,7 +115,7 @@ Tamon a mun saan di yaalaxaaf di na paazaai be wan a Nakmai?  Fakilaan: a vavisf
 
 -- Báb
 
-bpn13010 
+bpn13010 «[Nalik](../nal/prayers/#bpn13010)» 
 
 ----
 
@@ -130,7 +129,7 @@ Saaule Nakmai, famazaam a funalik aakare.  A funalik aakare a fnuaai i la maskan
 
 -- Abdu'l-Bahá
 
-bpn13014 
+bpn13014 «[Nalik](../nal/prayers/#bpn13014)» 
 
 ----
 

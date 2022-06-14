@@ -95,7 +95,7 @@ Te Atua, ae Atuau! Kaotai moaia Am koraki ake a Tatangiriko ni koaua, ao buokiia
 
 -- Abdu'l-Bahá
 
-bpn10412 
+bpn10412 «[Kiribati](../gil/prayers/#bpn10412)» 
 
 ----
 
@@ -109,7 +109,7 @@ Au Uea, au Tangira, Maamaten nanou!  Raonai i nanon maroaau ao irai ni kanakoaki
 
 -- Abdu'l-Bahá
 
-bpn10451 
+bpn10451 «[Kiribati](../gil/prayers/#bpn10451)» 
 
 ----
 
@@ -119,7 +119,7 @@ Au Uea!  Au Uea!  I Neboiko ao I Katituaraoiko bwa Ko a tia n nanoangaa Am toro 
 
 -- Abdu'l-Bahá
 
-bpn10452 
+bpn10452 «[Kiribati](../gil/prayers/#bpn10452)» 
 
 ----
 
@@ -133,7 +133,7 @@ Te Atua!  Reireiniia ataei aikai.  Ataei aikai bon aroka n Am onaroka, Ueen Am t
 
 -- Abdu'l-Bahá
 
-bpn10397 
+bpn10397 «[Kiribati](../gil/prayers/#bpn10397)» 
 
 ----
 
@@ -143,7 +143,7 @@ Atuau! Kairai ao kaawakinai. Kaotaa riki tauran nanou ao karikai bwa te itoi ae 
 
 -- Abdu'l-Bahá
 
-bpn10398 
+bpn10398 «[Kiribati](../gil/prayers/#bpn10398)» 
 
 ----
 
@@ -153,7 +153,7 @@ Au Uea!  Au Uea! Ngai te teei ae e karako au ririki. Kamarikeai man mmamman Am a
 
 -- Abdu'l-Bahá
 
-bpn10399 
+bpn10399 «[Kiribati](../gil/prayers/#bpn10399)» 
 
 ----
 
@@ -163,7 +163,7 @@ Te Uea ae akea Kabotauana! I bukin Te teei are e aki konabwai naba Ngkoe te Tia 
 
 -- Abdu'l-Bahá
 
-bpn10400 
+bpn10400 «[Kiribati](../gil/prayers/#bpn10400)» 
 
 ----
 
@@ -173,7 +173,7 @@ Te Atua, karikirakea te teei aei i nanon Tangiram, anganna te amwarake teuana ma
 
 -- Abdu'l-Bahá
 
-bpn10401 
+bpn10401 «[Kiribati](../gil/prayers/#bpn10401)» 
 
 ----
 
@@ -187,7 +187,7 @@ Ngkoe Te Atua ae Moan te Itiaki ao te Katoki ni Mwaaka!  Bon au Uea Ngkoe ae moa
 
 -- Abdu'l-Bahá
 
-bpn10453 
+bpn10453 «[Kiribati](../gil/prayers/#bpn10453)» 
 
 ----
 
@@ -201,7 +201,7 @@ Te Atua ae E Nanoanga! Tooro aikai a rairaki nakon Am abanuea n ukoukora Am titu
 
 -- Abdu'l-Bahá
 
-bpn10413 
+bpn10413 «[Kiribati](../gil/prayers/#bpn10413)» 
 
 ----
 
@@ -211,7 +211,7 @@ Ngkoe Te Atua ae te atataiaomata! Ngkoe are Ko korakora ma ni mwaaka!  Ngkoe are
 
 -- Abdu'l-Bahá
 
-bpn10414 
+bpn10414 «[Kiribati](../gil/prayers/#bpn10414)» 
 
 ----
 
@@ -225,7 +225,7 @@ bpn10414
 
 -- Abdu'l-Bahá
 
-bpn10463 
+bpn10463 «[Kiribati](../gil/prayers/#bpn10463)» 
 
 ----
 
@@ -235,7 +235,7 @@ bpn10463
 
 -- Abdu'l-Bahá
 
-bpn10464 
+bpn10464 «[Kiribati](../gil/prayers/#bpn10464)» 
 
 ----
 
@@ -249,7 +249,7 @@ Ngkoe ara Uea ae e aakoi! Ko a tia ni karika te botannaomata nako man te riki ae
 
 -- Abdu'l-Bahá
 
-bpn10416 
+bpn10416 «[Kiribati](../gil/prayers/#bpn10416)» 
 
 ----
 
@@ -263,7 +263,7 @@ bpn10416
 
 -- Bahá'u'lláh
 
-bpn10462 
+bpn10462 «[Kiribati](../gil/prayers/#bpn10462)» 
 
 ----
 
@@ -277,7 +277,7 @@ I a tia  n teirake n te ingabong aei man Nanom n aakoi, Atuau, ao ni kiitana mwe
 
 -- Bahá'u'lláh
 
-bpn10420 
+bpn10420 «[Kiribati](../gil/prayers/#bpn10420)» 
 
 ----
 
@@ -287,7 +287,7 @@ Atuau, I a tia ni uti i nanon Am katantan, ao I a riki bwa teuare e bubutii kata
 
 -- Bahá'u'lláh
 
-bpn10421 
+bpn10421 «[Kiribati](../gil/prayers/#bpn10421)» 
 
 ----
 
@@ -297,7 +297,7 @@ Atuau ao au Toka! Bon Ngai Am toro ao ana nati te mwaane Am toro. I a tia n teir
 
 -- Bahá'u'lláh
 
-bpn10422 
+bpn10422 «[Kiribati](../gil/prayers/#bpn10422)» 
 
 ----
 
@@ -311,7 +311,7 @@ Au Uea, ao Atuau ao au Tabo ni Motirawa man korakaiu! Otangau ao te Tia Kakaawak
 
 -- Abdu'l-Bahá
 
-bpn10423 
+bpn10423 «[Kiribati](../gil/prayers/#bpn10423)» 
 
 ----
 
@@ -325,7 +325,7 @@ Te nebonebo Nakoim, O te Uea ae Atuau! I a Butiiko n Aram  are akea ae e a tia n
 
 -- Bahá'u'lláh
 
-bpn10434 
+bpn10434 «[Kiribati](../gil/prayers/#bpn10434)» 
 
 ----
 
@@ -335,7 +335,7 @@ Atuau, buoka Am toro aei bwa e na karietaa te Taeka, ao n ekanakoa are akea nano
 
 -- Abdu'l-Bahá
 
-bpn10435 
+bpn10435 «[Kiribati](../gil/prayers/#bpn10435)» 
 
 ----
 
@@ -345,7 +345,7 @@ O te Atua ae Atuau!  Buokiia Am toro aika Ko onimakiniia bwa a na tatangira ma n
 
 -- Abdu'l-Bahá
 
-bpn10436 
+bpn10436 «[Kiribati](../gil/prayers/#bpn10436)» 
 
 ----
 
@@ -355,7 +355,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada O Ngkoe te
 
 -- Abdu'l-Bahá
 
-bpn10437 
+bpn10437 «[Kiribati](../gil/prayers/#bpn10437)» 
 
 ----
 
@@ -365,7 +365,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada *Ibukiia a
 
 -- Abdu'l-Bahá
 
-bpn10438 
+bpn10438 «[Kiribati](../gil/prayers/#bpn10438)» 
 
 ----
 
@@ -375,7 +375,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada *Are e mwa
 
 -- Abdu'l-Bahá
 
-bpn10439 
+bpn10439 «[Kiribati](../gil/prayers/#bpn10439)» 
 
 ----
 
@@ -385,7 +385,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada O te Atua,
 
 -- Abdu'l-Bahá
 
-bpn10440 
+bpn10440 «[Kiribati](../gil/prayers/#bpn10440)» 
 
 ----
 
@@ -395,7 +395,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Meangmainiku *Te bubuti ae inano e ko
 
 -- Abdu'l-Bahá
 
-bpn10441 
+bpn10441 «[Kiribati](../gil/prayers/#bpn10441)» 
 
 ----
 
@@ -405,7 +405,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Maiaki *Ni kabane tamnei ake a mwanan
 
 -- Abdu'l-Bahá
 
-bpn10442 
+bpn10442 «[Kiribati](../gil/prayers/#bpn10442)» 
 
 ----
 
@@ -415,7 +415,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Nuka *A kona taan kabutanakoa boiarar
 
 -- Abdu'l-Bahá
 
-bpn10443 
+bpn10443 «[Kiribati](../gil/prayers/#bpn10443)» 
 
 ----
 
@@ -425,7 +425,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Maeao *Te maroro ae inano e kona ni w
 
 -- Abdu'l-Bahá
 
-bpn10444 
+bpn10444 «[Kiribati](../gil/prayers/#bpn10444)» 
 
 ----
 
@@ -435,7 +435,7 @@ Kaotaki nakoia kaain te Bahá’í iaon Canada ao i GreenlandKo na neboaki Ngkoe
 
 -- Abdu'l-Bahá
 
-bpn10445 
+bpn10445 «[Kiribati](../gil/prayers/#bpn10445)» 
 
 ----
 
@@ -445,7 +445,7 @@ Kaotaki nakoia kaain te Bahá’í iaon Canada ao i Greenland *Taan kauamaea boi
 
 -- Abdu'l-Bahá
 
-bpn10446 
+bpn10446 «[Kiribati](../gil/prayers/#bpn10446)» 
 
 ----
 
@@ -459,7 +459,7 @@ Ko noorai, au Uea, ma moau are e rairaki nakon karawan Am tituaraoi ao marawan A
 
 -- Bahá'u'lláh
 
-bpn10411 
+bpn10411 «[Kiribati](../gil/prayers/#bpn10411)» 
 
 ----
 
@@ -473,7 +473,7 @@ Te Atua ae Atuau!  I a tia n teirake ao ni kitana mweengau, ao n teimatoa n taua
 
 -- Bahá'u'lláh
 
-bpn10425 
+bpn10425 «[Kiribati](../gil/prayers/#bpn10425)» 
 
 ----
 
@@ -483,7 +483,7 @@ Au Uea!  Ko bon ataia bwa aomata a bane n otabwaniniaki n taian kammaraki ao n t
 
 -- Abdu'l-Bahá
 
-bpn10426 
+bpn10426 «[Kiribati](../gil/prayers/#bpn10426)» 
 
 ----
 
@@ -497,7 +497,7 @@ Atongnga:  Te Atua bon mwiokon bwaai ni kabane.  Akea i karawa ke i aon te aba a
 
 -- Báb
 
-bpn10405 
+bpn10405 «[Kiribati](../gil/prayers/#bpn10405)» 
 
 ----
 
@@ -511,7 +511,7 @@ Am bwai te mimitong; Atuau!  Ma ngke akea karawawata ake a uotaki ni Kawaim, ao 
 
 -- Bahá'u'lláh
 
-bpn10447 
+bpn10447 «[Kiribati](../gil/prayers/#bpn10447)» 
 
 ----
 
@@ -521,7 +521,7 @@ Ti Te Atua ke iai ae E konaa ni kanakoi kangaanga?   Atongnga: E na neboaki Te A
 
 -- Báb
 
-bpn10448 
+bpn10448 «[Kiribati](../gil/prayers/#bpn10448)» 
 
 ----
 
@@ -531,7 +531,7 @@ Ko ataia ni koaua, Ngkoe Atuau, bwa a bon tia ni bwakarai taian kangaanga man it
 
 -- Báb
 
-bpn10449 
+bpn10449 «[Kiribati](../gil/prayers/#bpn10449)» 
 
 ----
 
@@ -545,7 +545,7 @@ Atuau! Atuau! Katiteuanai nanoia Am toro, ao kaoti nakoia bukin Am Waaki ae e ka
 
 -- Bahá'u'lláh
 
-bpn10450 
+bpn10450 «[Kiribati](../gil/prayers/#bpn10450)» 
 
 ----
 
@@ -559,7 +559,7 @@ Te tataro ibukin te mate e kakabonganaaki i bukiia kaain te Baha’i ake e a tia
 
 -- Bahá'u'lláh
 
-bpn10402 
+bpn10402 «[Kiribati](../gil/prayers/#bpn10402)» 
 
 ----
 
@@ -569,7 +569,7 @@ Am bwai te mimitong te Uea ae Atuau! Tai kamangora teuare Ko a tia ni karietaata
 
 -- Bahá'u'lláh
 
-bpn10403 
+bpn10403 «[Kiribati](../gil/prayers/#bpn10403)» 
 
 ----
 
@@ -579,7 +579,7 @@ Atuau!  Ngkoe ae te Tia Kabwarai buure, te Tia Tituaraoi, ao te Tia Kabebetei na
 
 -- Abdu'l-Bahá
 
-bpn10404 
+bpn10404 «[Kiribati](../gil/prayers/#bpn10404)» 
 
 ----
 
@@ -593,7 +593,7 @@ Nebonebo ni kabane, Atuau, bon Nakoim are boni Ngkoe Rikin te Mimitong ni kabane
 
 -- Bahá'u'lláh
 
-bpn10424 
+bpn10424 «[Kiribati](../gil/prayers/#bpn10424)» 
 
 ----
 
@@ -607,7 +607,7 @@ Au Uea!  Karaoa Tamaroam bwa kanau, ao ike iai Ngkoe iai bwa nimau, ao Kukureim 
 
 -- Bahá'u'lláh
 
-bpn10427 
+bpn10427 «[Kiribati](../gil/prayers/#bpn10427)» 
 
 ----
 
@@ -617,7 +617,7 @@ Kamooai, O Ngkoe Atuau,  man karewen boiararan karaangan Am aki tootoki, ao kata
 
 -- Bahá'u'lláh
 
-bpn10428 
+bpn10428 «[Kiribati](../gil/prayers/#bpn10428)» 
 
 ----
 
@@ -627,7 +627,7 @@ Atuau!  Atuau!  Am toro aei, e a tia ni waaki Nakoim, n nanomatoa n tiotio nako 
 
 -- Abdu'l-Bahá
 
-bpn10429 
+bpn10429 «[Kiribati](../gil/prayers/#bpn10429)» 
 
 ----
 
@@ -641,7 +641,7 @@ Te ota ao te mimitong, te kamauri ao te kamoamoa a na tikuriia Tabonibain Ana Wa
 
 -- Bahá'u'lláh
 
-bpn10467 
+bpn10467 «[Kiribati](../gil/prayers/#bpn10467)» 
 
 ----
 
@@ -655,7 +655,7 @@ bpn10467
 
 -- Bahá'u'lláh
 
-bpn11239 
+bpn11239 «[Kiribati](../gil/prayers/#bpn11239)» 
 
 ----
 
@@ -669,7 +669,7 @@ bpn11239
 
 -- Bahá'u'lláh
 
-bpn10455 
+bpn10455 «[Kiribati](../gil/prayers/#bpn10455)» 
 
 ----
 
@@ -683,7 +683,7 @@ N aran te Atua, Bwain Ngkoa Ngkoa, te Kabanea ni Korakora.Ni koaua ao nanoia naa
 
 -- Bahá'u'lláh
 
-bpn11237 
+bpn11237 «[Kiribati](../gil/prayers/#bpn11237)» 
 
 ----
 
@@ -697,7 +697,7 @@ Atuau!  Atuau!  Nna kanga n rinea matuu ngkai a taratara mataia naake a mate ni 
 
 -- Bahá'u'lláh
 
-bpn10406 
+bpn10406 «[Kiribati](../gil/prayers/#bpn10406)» 
 
 ----
 
@@ -707,7 +707,7 @@ bpn10406
 
 -- Abdu'l-Bahá
 
-bpn10407 
+bpn10407 «[Kiribati](../gil/prayers/#bpn10407)» 
 
 ----
 
@@ -721,7 +721,7 @@ E kabwaia te nne, ma te auti, ma te tabo, ma te kaawa, ma te nano, ma te maunga,
 
 -- Bahá'u'lláh
 
-bpn10381 
+bpn10381 «[Kiribati](../gil/prayers/#bpn10381)» 
 
 ----
 
@@ -731,7 +731,7 @@ Katakei, ngkoe Au toro, Ana kibu nako Te Atua ake a tia ni karekeaki iroum, n ar
 
 -- Bahá'u'lláh
 
-bpn10382 
+bpn10382 «[Kiribati](../gil/prayers/#bpn10382)» 
 
 ----
 
@@ -745,7 +745,7 @@ bpn10382
 
 -- Bahá'u'lláh
 
-bpn10458 
+bpn10458 «[Kiribati](../gil/prayers/#bpn10458)» 
 
 ----
 
@@ -755,7 +755,7 @@ Ko na neboaki, te Uea ae Atuau.  I bubutii Nakoim ma te nanorinano n te Kaotioti
 
 -- Bahá'u'lláh
 
-bpn10459 
+bpn10459 «[Kiribati](../gil/prayers/#bpn10459)» 
 
 ----
 
@@ -765,7 +765,7 @@ Aikai boong, Atuau, are Ko a tia ni katauia Am toro bwa a na taua bukin te akima
 
 -- Bahá'u'lláh
 
-bpn10460 
+bpn10460 «[Kiribati](../gil/prayers/#bpn10460)» 
 
 ----
 
@@ -775,7 +775,7 @@ Te nebonebo nakoim O te Uea ae Atuau. Ti a tia n ira nanon te Aki Mamatam ni kae
 
 -- Bahá'u'lláh
 
-bpn10461 
+bpn10461 «[Kiribati](../gil/prayers/#bpn10461)» 
 
 ----
 
@@ -785,7 +785,7 @@ Te mimitong Nakoim, O te Uea Atuau! Aikai bong are Ko a tia ni kataua bwa ni kab
 
 -- Bahá'u'lláh
 
-bpn11236 
+bpn11236 «[Kiribati](../gil/prayers/#bpn11236)» 
 
 ----
 
@@ -799,7 +799,7 @@ First line: O Thou Whose face is the object of my adorationO Ngkoe Are Moamoam b
 
 -- Bahá'u'lláh
 
-bpn10383 
+bpn10383 «[Kiribati](../gil/prayers/#bpn10383)» 
 
 ----
 
@@ -809,7 +809,7 @@ Atuau, Maamaten Nanou, Au Uea, Au Tangira! Te newe ra ae e kona n atong au karab
 
 -- Bahá'u'lláh
 
-bpn10384 
+bpn10384 «[Kiribati](../gil/prayers/#bpn10384)» 
 
 ----
 
@@ -819,7 +819,7 @@ Atonga: Mimitong Nakoim Are Ko a tia ni karikiia Naake a Tabu bwa a na kaotii ai
 
 -- Bahá'u'lláh
 
-bpn10385 
+bpn10385 «[Kiribati](../gil/prayers/#bpn10385)» 
 
 ----
 
@@ -829,7 +829,7 @@ O Ngkoe Atuau! I butiko, n Aram ae moan te mimitong, ni buokai ni bwaai ake a na
 
 -- Bahá'u'lláh
 
-bpn10386 
+bpn10386 «[Kiribati](../gil/prayers/#bpn10386)» 
 
 ----
 
@@ -839,7 +839,7 @@ Atuau, Boton au tangira, Kourun nanou, te Kabanea n Tituaraoi, te Kabanea n Nano
 
 -- Bahá'u'lláh
 
-bpn10387 
+bpn10387 «[Kiribati](../gil/prayers/#bpn10387)» 
 
 ----
 
@@ -849,7 +849,7 @@ Te kamoamoa Nakoim, O Ngkoe te Uea Atuau, au Mwatita! Ko ongo ikenrawaia naake a
 
 -- Bahá'u'lláh
 
-bpn10388 
+bpn10388 «[Kiribati](../gil/prayers/#bpn10388)» 
 
 ----
 
@@ -859,7 +859,7 @@ First line: Laude be Thy Name, O Lord, our God! Thou art in truth the KnowerE na
 
 -- Báb
 
-bpn10389 
+bpn10389 «[Kiribati](../gil/prayers/#bpn10389)» 
 
 ----
 
@@ -869,7 +869,7 @@ O Atuau, au Uea ao Au Mwatita! I a tia ni kamwawaai mai irouia au utu ao ni ukou
 
 -- Báb
 
-bpn10390 
+bpn10390 «[Kiribati](../gil/prayers/#bpn10390)» 
 
 ----
 
@@ -879,7 +879,7 @@ Te Uea! Ti nanorawawata, anganiira nanom; ti kainnano, kamenaa i aora te tibwang
 
 -- Abdu'l-Bahá
 
-bpn10391 
+bpn10391 «[Kiribati](../gil/prayers/#bpn10391)» 
 
 ----
 
@@ -889,7 +889,7 @@ O Ngkoe te Uea ae Akoi! Ngaira am toro n Atibun Am Mataroa, ae I kamanoai n Am M
 
 -- Abdu'l-Bahá
 
-bpn10392 
+bpn10392 «[Kiribati](../gil/prayers/#bpn10392)» 
 
 ----
 
@@ -899,7 +899,7 @@ Tai kamwawaanako, O te Uea, te taibora ni kimwareirei are e a tia ni katauraoaki
 
 -- Abdu'l-Bahá
 
-bpn10393 
+bpn10393 «[Kiribati](../gil/prayers/#bpn10393)» 
 
 ----
 
@@ -909,7 +909,7 @@ O te Uea! Ti bon ngore; kakorakoraira. O te Atua! Ti bon bangabwaai; karikiira b
 
 -- Abdu'l-Bahá
 
-bpn10394 
+bpn10394 «[Kiribati](../gil/prayers/#bpn10394)» 
 
 ----
 
@@ -919,7 +919,7 @@ O ngkoe are ko tabe n raira moam nakon te Atua! Kaina matam nakon bwaai ni kaban
 
 -- Abdu'l-Bahá
 
-bpn10395 
+bpn10395 «[Kiribati](../gil/prayers/#bpn10395)» 
 
 ----
 
@@ -929,7 +929,7 @@ O Ngkoe te Tia Kamanomano ni karawa, ti kananoanga, anganiira Am ibuobuoki; taan
 
 -- Abdu'l-Bahá
 
-bpn10396 
+bpn10396 «[Kiribati](../gil/prayers/#bpn10396)» 
 
 ----
 
@@ -943,7 +943,7 @@ Atuau, bon katokan aorakiu Aram, ao bon au bwai n aoraki Uringam. Tikum i rariki
 
 -- Bahá'u'lláh
 
-bpn10415 
+bpn10415 «[Kiribati](../gil/prayers/#bpn10415)» 
 
 ----
 
@@ -957,7 +957,7 @@ bpn10415
 
 -- Bahá'u'lláh
 
-bpn10417 
+bpn10417 «[Kiribati](../gil/prayers/#bpn10417)» 
 
 ----
 
@@ -967,7 +967,7 @@ Boni Ngaia Te Atua! Ae Akea Kabotauana, n Rabakaum ae mwaaka Ko a tia ni kariaia
 
 -- Abdu'l-Bahá
 
-bpn10418 
+bpn10418 «[Kiribati](../gil/prayers/#bpn10418)» 
 
 ----
 
@@ -977,7 +977,7 @@ Ko na neboaki Ngkoe Atuau!  Bon Am toro ni koaua aei ao Am toro naba te aine aei
 
 -- Abdu'l-Bahá
 
-bpn10419 
+bpn10419 «[Kiribati](../gil/prayers/#bpn10419)» 
 
 ----
 
@@ -991,7 +991,7 @@ bpn10419
 
 -- Bahá'u'lláh
 
-bpn10454 
+bpn10454 «[Kiribati](../gil/prayers/#bpn10454)» 
 
 ----
 
@@ -1005,7 +1005,7 @@ bpn10454
 
 -- Bahá'u'lláh
 
-bpn10456 
+bpn10456 «[Kiribati](../gil/prayers/#bpn10456)» 
 
 ----
 
@@ -1015,7 +1015,7 @@ bpn10456
 
 -- Abdu'l-Bahá
 
-bpn10457 
+bpn10457 «[Kiribati](../gil/prayers/#bpn10457)» 
 
 ----
 
@@ -1029,7 +1029,7 @@ bpn10457
 
 -- Bahá'u'lláh
 
-bpn10380 
+bpn10380 «[Kiribati](../gil/prayers/#bpn10380)» 
 
 ----
 
@@ -1043,7 +1043,7 @@ E na anaaki ni katoa bong, n te ingaabong, te tawanou ao te tairiki*(Are e kan t
 
 -- Bahá'u'lláh
 
-bpn10379 
+bpn10379 «[Kiribati](../gil/prayers/#bpn10379)» 
 
 ----
 
@@ -1057,7 +1057,7 @@ E riai n anaaki te tataro aei te taina i nanon uabwi ma aua te aoa, n te tawanou
 
 -- Bahá'u'lláh
 
-bpn10378 
+bpn10378 «[Kiribati](../gil/prayers/#bpn10378)» 
 
 ----
 
@@ -1071,7 +1071,7 @@ Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwar
 
 -- Bahá'u'lláh
 
-bpn11238 
+bpn11238 «[Kiribati](../gil/prayers/#bpn11238)» 
 
 ----
 
@@ -1085,7 +1085,7 @@ Te Atua ae Atuau! Am tabonibai te aine aio e Tabotaboiko, e Onimakiniko, e raira
 
 -- Abdu'l-Bahá
 
-bpn10408 
+bpn10408 «[Kiribati](../gil/prayers/#bpn10408)» 
 
 ----
 
@@ -1099,7 +1099,7 @@ bpn10408
 
 -- Bahá'u'lláh
 
-bpn10466 
+bpn10466 «[Kiribati](../gil/prayers/#bpn10466)» 
 
 ----
 
@@ -1113,7 +1113,7 @@ E na neboaki Aram, au Uea ae Atuau.  I Bubutiiko ni Mwaakam are e rabwati bwaai 
 
 -- Bahá'u'lláh
 
-bpn10430 
+bpn10430 «[Kiribati](../gil/prayers/#bpn10430)» 
 
 ----
 
@@ -1123,7 +1123,7 @@ Kaanim Ngkoe i rarikiu, bon nanou ao Kaotim bon katokan botuu, Nnem ae mimitong 
 
 -- Bahá'u'lláh
 
-bpn10431 
+bpn10431 «[Kiribati](../gil/prayers/#bpn10431)» 
 
 ----
 
@@ -1133,7 +1133,7 @@ Te neboaki ao te kamimitongaki Ngkoe, Te Atua!  Kataua bwa e na konaa ni waekoa 
 
 -- Báb
 
-bpn10432 
+bpn10432 «[Kiribati](../gil/prayers/#bpn10432)» 
 
 ----
 
@@ -1143,7 +1143,7 @@ Te Uea ae Atuau!  Buokiia aika a tangiraki Iroum bwa a na teimatoa n Am Aro, n n
 
 -- Abdu'l-Bahá
 
-bpn10433 
+bpn10433 «[Kiribati](../gil/prayers/#bpn10433)» 
 
 ----
 
@@ -1157,7 +1157,7 @@ Ko na neboaki, te Uea n aki toki ao te Tia Karikiia tautaeka, ao te Tia Katamaro
 
 -- Bahá'u'lláh
 
-bpn10409 
+bpn10409 «[Kiribati](../gil/prayers/#bpn10409)» 
 
 ----
 
@@ -1167,7 +1167,7 @@ Ngkoe ae Atuan te Aakoi!  Bon Am bwai te karabwaaki bwa Ko a tia ni kautai ma n 
 
 -- Abdu'l-Bahá
 
-bpn10410 
+bpn10410 «[Kiribati](../gil/prayers/#bpn10410)» 
 
 ----
 
@@ -1181,7 +1181,7 @@ Atuau au Ai ao au Oota! Boong ake ko a tia n ingoanii bwa te Ayyám-i-Ha inanon 
 
 -- Bahá'u'lláh
 
-bpn10465 
+bpn10465 «[Kiribati](../gil/prayers/#bpn10465)» 
 
 ----
 

@@ -5,7 +5,6 @@ tags = ['lang=no', 'prayerbook']
 
 
 
-
 [Aften](#Aften)
 
 [Ahmads tavle](#Ahmads+tavle)
@@ -90,7 +89,7 @@ Hvordan kan jeg velge å sove, o Gud, min Gud, når de som lengter etter deg ikk
 
 -- Bahá'u'lláh
 
-bpn3491 
+bpn3491 «[Norsk](../no/prayers/#bpn3491)» 
 
 ----
 
@@ -100,7 +99,7 @@ O min Gud, min Mester, mine lengslers mål! Denne din tjener søker å sove i di
 
 -- Bahá'u'lláh
 
-bpn3492 
+bpn3492 «[Norsk](../no/prayers/#bpn3492)» 
 
 ----
 
@@ -128,7 +127,7 @@ Lovpriset være ditt navn, o Herre min Gud! Se -mitt øye venter på å kunne sk
 
 -- Bahá'u'lláh
 
-bpn3493 
+bpn3493 «[Norsk](../no/prayers/#bpn3493)» 
 
 ----
 
@@ -142,7 +141,7 @@ Forherliget er du, o Herre min Gud! Jeg takker deg fordi du har skapt meg i dine
 
 -- Bahá'u'lláh
 
-bpn3494 
+bpn3494 «[Norsk](../no/prayers/#bpn3494)» 
 
 ----
 
@@ -152,7 +151,7 @@ O Gud, led meg, beskytt meg, gjør meg til en skinnende lampe og til en tindrend
 
 -- Abdu'l-Bahá
 
-bpn3495 
+bpn3495 «[Norsk](../no/prayers/#bpn3495)» 
 
 ----
 
@@ -162,7 +161,7 @@ O Gud! Oppdra dette spebarn i din kjærlighets skjød, og gi det melk fra ditt f
 
 -- Abdu'l-Bahá
 
-bpn3496 
+bpn3496 «[Norsk](../no/prayers/#bpn3496)» 
 
 ----
 
@@ -172,7 +171,7 @@ O Gud! Opplær disse barn. Disse barn er plantene i din frukthave, blomstene på
 
 -- Abdu'l-Bahá
 
-bpn3497 
+bpn3497 «[Norsk](../no/prayers/#bpn3497)» 
 
 ----
 
@@ -182,7 +181,7 @@ O du fullkomne Gud! Jeg er et lite barn; gi at din kjærlige omsorgs bryst må b
 
 -- Abdu'l-Bahá
 
-bpn3498 
+bpn3498 «[Norsk](../no/prayers/#bpn3498)» 
 
 ----
 
@@ -192,7 +191,7 @@ O min Herre! O min Herre! Jeg er et lite barn. Gi meg næring fra din barmhjerti
 
 -- Abdu'l-Bahá
 
-bpn3499 
+bpn3499 «[Norsk](../no/prayers/#bpn3499)» 
 
 ----
 
@@ -206,7 +205,7 @@ bpn3499
 
 -- Bahá'u'lláh
 
-bpn3588 
+bpn3588 «[Norsk](../no/prayers/#bpn3588)» 
 
 ----
 
@@ -220,7 +219,7 @@ Jeg stod opp denne morgen ved din nåde, o min Gud, og forlot mitt hjem i full f
 
 -- Bahá'u'lláh
 
-bpn3501 
+bpn3501 «[Norsk](../no/prayers/#bpn3501)» 
 
 ----
 
@@ -230,7 +229,7 @@ Lovet være du, o Herre min Gud! Dette er din tjener som har drukket dypt av din
 
 -- Bahá'u'lláh
 
-bpn3502 
+bpn3502 «[Norsk](../no/prayers/#bpn3502)» 
 
 ----
 
@@ -240,7 +239,7 @@ Lovet være du, o min Gud! Du er den som ved et ord fra din munn fullstendig har
 
 -- Bahá'u'lláh
 
-bpn3503 
+bpn3503 «[Norsk](../no/prayers/#bpn3503)» 
 
 ----
 
@@ -250,7 +249,7 @@ Priset være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved ditt navn ved h
 
 -- Bahá'u'lláh
 
-bpn3504 
+bpn3504 «[Norsk](../no/prayers/#bpn3504)» 
 
 ----
 
@@ -260,7 +259,7 @@ I Guds navn, den overveldende storhets Herre, den altbetvingende. Helliget være
 
 -- Báb
 
-bpn3500 
+bpn3500 «[Norsk](../no/prayers/#bpn3500)» 
 
 ----
 
@@ -270,7 +269,7 @@ O Gud, min Gud! Vern dine betrodde tjenere mot selvets og begjærets onder, besk
 
 -- Abdu'l-Bahá
 
-bpn3505 
+bpn3505 «[Norsk](../no/prayers/#bpn3505)» 
 
 ----
 
@@ -284,7 +283,7 @@ Denne tavlen leses ved Bahá&#39;u&#39;lláhs og Bábs gravmæler. Den brukes og
 
 -- Bahá'u'lláh
 
-bpn3586 
+bpn3586 «[Norsk](../no/prayers/#bpn3586)» 
 
 ----
 
@@ -298,7 +297,7 @@ bpn3586
 
 -- Abdu'l-Bahá
 
-bpn3589 
+bpn3589 «[Norsk](../no/prayers/#bpn3589)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn3589
 
 -- Bahá'u'lláh
 
-bpn3506 
+bpn3506 «[Norsk](../no/prayers/#bpn3506)» 
 
 ----
 
@@ -322,7 +321,7 @@ Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre! Ære være d
 
 -- Bahá'u'lláh
 
-bpn3507 
+bpn3507 «[Norsk](../no/prayers/#bpn3507)» 
 
 ----
 
@@ -332,7 +331,7 @@ O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser! San
 
 -- Abdu'l-Bahá
 
-bpn3508 
+bpn3508 «[Norsk](../no/prayers/#bpn3508)» 
 
 ----
 
@@ -346,7 +345,7 @@ O min Gud! O min Gud! Foren dine tjeneres hjerter, og åpenbar for dem ditt stor
 
 -- Bahá'u'lláh
 
-bpn3509 
+bpn3509 «[Norsk](../no/prayers/#bpn3509)» 
 
 ----
 
@@ -356,7 +355,7 @@ O min Gud! O min Gud! Sannelig, jeg påkaller deg og bønnfaller foran din tersk
 
 -- Abdu'l-Bahá
 
-bpn3510 
+bpn3510 «[Norsk](../no/prayers/#bpn3510)» 
 
 ----
 
@@ -370,7 +369,7 @@ bpn3510
 
 -- Bahá'u'lláh
 
-bpn3590 
+bpn3590 «[Norsk](../no/prayers/#bpn3590)» 
 
 ----
 
@@ -384,7 +383,7 @@ Ditt navn er min helbredelse, o min Gud, og ihukommelse av deg er mitt legemidde
 
 -- Bahá'u'lláh
 
-bpn3511 
+bpn3511 «[Norsk](../no/prayers/#bpn3511)» 
 
 ----
 
@@ -394,7 +393,7 @@ Du er den, o min Gud, ved hvis navn de syke blir helbredet, og de svakelige finn
 
 -- Bahá'u'lláh
 
-bpn3512 
+bpn3512 «[Norsk](../no/prayers/#bpn3512)» 
 
 ----
 
@@ -414,7 +413,7 @@ Lovet være du, o Herre min Gud! Jeg bønnfaller deg, ved ditt Største Navn hvo
 
 -- Bahá'u'lláh
 
-bpn3514 
+bpn3514 «[Norsk](../no/prayers/#bpn3514)» 
 
 ----
 
@@ -424,7 +423,7 @@ O Gud, min Gud! Jeg bønnfaller deg, ved din helbredelses osean, og ved glansen 
 
 -- Bahá'u'lláh
 
-bpn3515 
+bpn3515 «[Norsk](../no/prayers/#bpn3515)» 
 
 ----
 
@@ -434,7 +433,7 @@ bpn3515
 
 -- Bahá'u'lláh
 
-bpn3516 
+bpn3516 «[Norsk](../no/prayers/#bpn3516)» 
 
 ----
 
@@ -444,7 +443,7 @@ bpn3516
 
 -- Bahá'u'lláh
 
-bpn3517 
+bpn3517 «[Norsk](../no/prayers/#bpn3517)» 
 
 ----
 
@@ -458,7 +457,7 @@ Min Gud, min tilbedte, min Konge, min lengsel! Hvilke ord kan uttrykke min takk 
 
 -- Bahá'u'lláh
 
-bpn3518 
+bpn3518 «[Norsk](../no/prayers/#bpn3518)» 
 
 ----
 
@@ -468,7 +467,7 @@ O du hvis åsyn er gjenstand for min tilbedelse, hvis skjønnhet er min helligdo
 
 -- Bahá'u'lláh
 
-bpn3519 
+bpn3519 «[Norsk](../no/prayers/#bpn3519)» 
 
 ----
 
@@ -496,7 +495,7 @@ De innskutte dager, fra og med 26. februar til og med 1. mars, bør være en tid
 
 -- Bahá'u'lláh
 
-bpn3591 
+bpn3591 «[Norsk](../no/prayers/#bpn3591)» 
 
 ----
 
@@ -510,7 +509,7 @@ bpn3591
 
 -- Bahá'u'lláh
 
-bpn3488 
+bpn3488 «[Norsk](../no/prayers/#bpn3488)» 
 
 ----
 
@@ -538,7 +537,7 @@ Vi ber til Gud om at han nådigst må hjelpe dem som er ført vill til å være 
 
 -- Bahá'u'lláh
 
-bpn3520 
+bpn3520 «[Norsk](../no/prayers/#bpn3520)» 
 
 ----
 
@@ -548,7 +547,7 @@ bpn3520
 
 -- Bahá'u'lláh
 
-bpn3521 
+bpn3521 «[Norsk](../no/prayers/#bpn3521)» 
 
 ----
 
@@ -562,7 +561,7 @@ Forherliget være du, o min Gud! Se -mitt hode er rede til å falle for din vilj
 
 -- Bahá'u'lláh
 
-bpn3522 
+bpn3522 «[Norsk](../no/prayers/#bpn3522)» 
 
 ----
 
@@ -576,7 +575,7 @@ Gud bevitner at han er en i sin guddommelighet og ett i sitt vesen. Fra evighete
 
 -- Bahá'u'lláh
 
-bpn3523 
+bpn3523 «[Norsk](../no/prayers/#bpn3523)» 
 
 ----
 
@@ -586,7 +585,7 @@ Min Gud, du som jeg ærer og tilber, du som er sterkest! Jeg bevitner at ingen s
 
 -- Bahá'u'lláh
 
-bpn3524 
+bpn3524 «[Norsk](../no/prayers/#bpn3524)» 
 
 ----
 
@@ -596,7 +595,7 @@ O du hvis ihukommelse er sjelens fryd for alle dem som lengter etter deg, hvis n
 
 -- Bahá'u'lláh
 
-bpn3525 
+bpn3525 «[Norsk](../no/prayers/#bpn3525)» 
 
 ----
 
@@ -606,7 +605,7 @@ Priset være ditt navn, o min Gud! Jeg bevitner at ingen forestilling om deg, hv
 
 -- Bahá'u'lláh
 
-bpn3526 
+bpn3526 «[Norsk](../no/prayers/#bpn3526)» 
 
 ----
 
@@ -620,7 +619,7 @@ Forherliget er du, o min Gud! Jeg takker deg for at du har gjort kjent for meg h
 
 -- Bahá'u'lláh
 
-bpn3528 
+bpn3528 «[Norsk](../no/prayers/#bpn3528)» 
 
 ----
 
@@ -630,7 +629,7 @@ O Gud, og alle navns Gud, og himlenes skaper! Jeg bønnfaller deg ved ditt navn 
 
 -- Bahá'u'lláh
 
-bpn3529 
+bpn3529 «[Norsk](../no/prayers/#bpn3529)» 
 
 ----
 
@@ -640,7 +639,7 @@ Priset være ditt navn, o min Gud! Jeg bønnfaller deg ved duften fra din nådes
 
 -- Bahá'u'lláh
 
-bpn3530 
+bpn3530 «[Norsk](../no/prayers/#bpn3530)» 
 
 ----
 
@@ -650,7 +649,7 @@ Tillat meg, o min Gud, å komme deg nær og å dvele innenfor ditt kongesetes en
 
 -- Bahá'u'lláh
 
-bpn3531 
+bpn3531 «[Norsk](../no/prayers/#bpn3531)» 
 
 ----
 
@@ -660,7 +659,7 @@ O Herre! Hen til deg tyr jeg for å finne tilflukt, og henimot alle dine tegn ve
 
 -- Báb
 
-bpn3527 
+bpn3527 «[Norsk](../no/prayers/#bpn3527)» 
 
 ----
 
@@ -674,7 +673,7 @@ Min Gud, som jeg tilber og ærer! Jeg bevitner din enhet og at du er en, og erkj
 
 -- Bahá'u'lláh
 
-bpn3533 
+bpn3533 «[Norsk](../no/prayers/#bpn3533)» 
 
 ----
 
@@ -684,7 +683,7 @@ O Gud, min Gud! Din nåde har gjort meg dristig, og din rettferdighet har fylt m
 
 -- Bahá'u'lláh
 
-bpn3534 
+bpn3534 «[Norsk](../no/prayers/#bpn3534)» 
 
 ----
 
@@ -694,7 +693,7 @@ O du som er herrenes Herre! Jeg bevitner at du er hele skapningens Herre, og opp
 
 -- Bahá'u'lláh
 
-bpn3535 
+bpn3535 «[Norsk](../no/prayers/#bpn3535)» 
 
 ----
 
@@ -704,7 +703,7 @@ O Herre! Gjør det mulig for alle jordens folkeslag å oppnå adgang til din tro
 
 -- Báb
 
-bpn3532 
+bpn3532 «[Norsk](../no/prayers/#bpn3532)» 
 
 ----
 
@@ -714,7 +713,7 @@ O du gode Herre! Du har frembragt hele menneskeslekten fra samme stamfar. Du har
 
 -- Abdu'l-Bahá
 
-bpn3536 
+bpn3536 «[Norsk](../no/prayers/#bpn3536)» 
 
 ----
 
@@ -728,7 +727,7 @@ bpn3536
 
 -- Bahá'u'lláh
 
-bpn3489 
+bpn3489 «[Norsk](../no/prayers/#bpn3489)» 
 
 ----
 
@@ -742,7 +741,7 @@ O sannhetssøker! Hvis du ønsker at Gud skal åpne ditt øye, må du bønnfalle
 
 -- Abdu'l-Bahá
 
-bpn3537 
+bpn3537 «[Norsk](../no/prayers/#bpn3537)» 
 
 ----
 
@@ -756,7 +755,7 @@ O du barmhjertige Gud! O du  end t mektig og sterk! O du kjærligste Far! Disse 
 
 -- Abdu'l-Bahá
 
-bpn3593 
+bpn3593 «[Norsk](../no/prayers/#bpn3593)» 
 
 ----
 
@@ -766,7 +765,7 @@ O du gode Herre! Dette er dine tjenere som har samlet seg I dette møte, har ven
 
 -- Abdu'l-Bahá
 
-bpn3594 
+bpn3594 «[Norsk](../no/prayers/#bpn3594)» 
 
 ----
 
@@ -776,7 +775,7 @@ O Gud, min Gud! Vi er dine tjenere som har  end tossNår dere går inn I rådsv�
 
 -- Abdu'l-Bahá
 
-bpn3595 
+bpn3595 «[Norsk](../no/prayers/#bpn3595)» 
 
 ----
 
@@ -786,7 +785,7 @@ Gjør våre trinn faste på din vei, o Herre,og styrk du våre hjerter i lydighe
 
 -- Abdu'l-Bahá
 
-bpn3592 
+bpn3592 «[Norsk](../no/prayers/#bpn3592)» 
 
 ----
 
@@ -800,7 +799,7 @@ bpn3592
 
 -- Bahá'u'lláh
 
-bpn3596 
+bpn3596 «[Norsk](../no/prayers/#bpn3596)» 
 
 ----
 
@@ -814,7 +813,7 @@ Morgen Jeg har våknet under din beskyttelse, o min Gud, og det sømmer seg for 
 
 -- Bahá'u'lláh
 
-bpn3538 
+bpn3538 «[Norsk](../no/prayers/#bpn3538)» 
 
 ----
 
@@ -824,7 +823,7 @@ O min Gud og min Mester! Jeg er din tjener og sønn av din tjener. Jeg stod opp 
 
 -- Bahá'u'lláh
 
-bpn3539 
+bpn3539 «[Norsk](../no/prayers/#bpn3539)» 
 
 ----
 
@@ -838,7 +837,7 @@ Lovpriset være ditt navn, o du som har grepet sjelens tøyler hos alle dem som 
 
 -- Bahá'u'lláh
 
-bpn3542 
+bpn3542 «[Norsk](../no/prayers/#bpn3542)» 
 
 ----
 
@@ -848,7 +847,7 @@ O du hvis prøvelser er et middel til legedom for dem som er deg nær, hvis sver
 
 -- Bahá'u'lláh
 
-bpn3543 
+bpn3543 «[Norsk](../no/prayers/#bpn3543)» 
 
 ----
 
@@ -858,7 +857,7 @@ Priset og forherliget er du, o min Gud! Jeg trygler deg ved sukkene fra dem som 
 
 -- Bahá'u'lláh
 
-bpn3544 
+bpn3544 «[Norsk](../no/prayers/#bpn3544)» 
 
 ----
 
@@ -868,7 +867,7 @@ bpn3544
 
 -- Bahá'u'lláh
 
-bpn3545 
+bpn3545 «[Norsk](../no/prayers/#bpn3545)» 
 
 ----
 
@@ -878,7 +877,7 @@ Finnes det noen som fjerner vanskeligheter uten Gud? Si: Lovet være Gud! Han er
 
 -- Báb
 
-bpn3540 
+bpn3540 «[Norsk](../no/prayers/#bpn3540)» 
 
 ----
 
@@ -888,7 +887,7 @@ Si: Gud er alle ting tilstrekkelig fremfor alle ting, og intet i himlene eller p
 
 -- Báb
 
-bpn3541 
+bpn3541 «[Norsk](../no/prayers/#bpn3541)» 
 
 ----
 
@@ -898,7 +897,7 @@ Han er den medlidende, den overmåte gavmilde! O Gud, min Gud! Du ser meg, du kj
 
 -- Abdu'l-Bahá
 
-bpn3546 
+bpn3546 «[Norsk](../no/prayers/#bpn3546)» 
 
 ----
 
@@ -912,7 +911,7 @@ Si: O Gud, min Gud! Pryd mitt hode med rettferdighetens krone og ikle mitt tempe
 
 -- Bahá'u'lláh
 
-bpn3547 
+bpn3547 «[Norsk](../no/prayers/#bpn3547)» 
 
 ----
 
@@ -926,7 +925,7 @@ Lys og herlighet, hyllest og lovprisning være over hans Saks Hender, ved hvem s
 
 -- Bahá'u'lláh
 
-bpn3597 
+bpn3597 «[Norsk](../no/prayers/#bpn3597)» 
 
 ----
 
@@ -940,7 +939,7 @@ Forherliget være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved din makt s
 
 -- Bahá'u'lláh
 
-bpn3548 
+bpn3548 «[Norsk](../no/prayers/#bpn3548)» 
 
 ----
 
@@ -950,7 +949,7 @@ O du hvis nærhet er mitt ønske, hvis nærvær er mitt håp, hvis ihukommelse e
 
 -- Bahá'u'lláh
 
-bpn3549 
+bpn3549 «[Norsk](../no/prayers/#bpn3549)» 
 
 ----
 
@@ -960,7 +959,7 @@ O medlidende Gud! Deg skje takk for at du har vekket meg og gjort meg bevisst. D
 
 -- Abdu'l-Bahá
 
-bpn3550 
+bpn3550 «[Norsk](../no/prayers/#bpn3550)» 
 
 ----
 
@@ -974,7 +973,7 @@ Min Herre! Min Herre! Jeg priser deg og jeg takker deg for det hvormed du har be
 
 -- Abdu'l-Bahá
 
-bpn3599 
+bpn3599 «[Norsk](../no/prayers/#bpn3599)» 
 
 ----
 
@@ -988,7 +987,7 @@ Du ser meg, o min Herre, med mitt ansikt vendt mot din gavmildhets himmel og din
 
 -- Bahá'u'lláh
 
-bpn3552 
+bpn3552 «[Norsk](../no/prayers/#bpn3552)» 
 
 ----
 
@@ -998,7 +997,7 @@ Jeg er, o min Herre, den som har vendt sitt ansikt mot deg og satt sitt håp til
 
 -- Bahá'u'lláh
 
-bpn3553 
+bpn3553 «[Norsk](../no/prayers/#bpn3553)» 
 
 ----
 
@@ -1008,7 +1007,7 @@ Priset være ditt navn, o min Gud og alle tings Gud, min herlighet og alle tings
 
 -- Bahá'u'lláh
 
-bpn3554 
+bpn3554 «[Norsk](../no/prayers/#bpn3554)» 
 
 ----
 
@@ -1018,7 +1017,7 @@ Lovet være du, o Herre. Tilgi oss våre synder, ha barmhjertighet med oss og gj
 
 -- Báb
 
-bpn3551 
+bpn3551 «[Norsk](../no/prayers/#bpn3551)» 
 
 ----
 
@@ -1032,7 +1031,7 @@ All ære være deg, o min Gud, som er kilden til all herlighet og velde, til sto
 
 -- Bahá'u'lláh
 
-bpn3557 
+bpn3557 «[Norsk](../no/prayers/#bpn3557)» 
 
 ----
 
@@ -1042,7 +1041,7 @@ Lovpriset være ditt navn, o min Gud, for at du har åpenbart den Dag som er dag
 
 -- Bahá'u'lláh
 
-bpn3558 
+bpn3558 «[Norsk](../no/prayers/#bpn3558)» 
 
 ----
 
@@ -1052,7 +1051,7 @@ O Gud, som er opphavet til alle manifestasjoner, kilden til alle kilder, opprinn
 
 -- Bahá'u'lláh
 
-bpn3559 
+bpn3559 «[Norsk](../no/prayers/#bpn3559)» 
 
 ----
 
@@ -1062,7 +1061,7 @@ O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil 
 
 -- Bahá'u'lláh
 
-bpn3560 
+bpn3560 «[Norsk](../no/prayers/#bpn3560)» 
 
 ----
 
@@ -1072,7 +1071,7 @@ bpn3560
 
 -- Bahá'u'lláh
 
-bpn3561 
+bpn3561 «[Norsk](../no/prayers/#bpn3561)» 
 
 ----
 
@@ -1082,7 +1081,7 @@ bpn3561
 
 -- Bahá'u'lláh
 
-bpn3562 
+bpn3562 «[Norsk](../no/prayers/#bpn3562)» 
 
 ----
 
@@ -1092,7 +1091,7 @@ Priset være ditt navn, o Gud. Du er i sannhet vår Herre; du er oppmerksom på 
 
 -- Báb
 
-bpn3555 
+bpn3555 «[Norsk](../no/prayers/#bpn3555)» 
 
 ----
 
@@ -1102,7 +1101,7 @@ bpn3555
 
 -- Báb
 
-bpn3556 
+bpn3556 «[Norsk](../no/prayers/#bpn3556)» 
 
 ----
 
@@ -1112,7 +1111,7 @@ O du gode Herre! Lovet være du for at du har vist oss ledelsens vei, åpnet rik
 
 -- Abdu'l-Bahá
 
-bpn3563 
+bpn3563 «[Norsk](../no/prayers/#bpn3563)» 
 
 ----
 
@@ -1122,7 +1121,7 @@ O du uforlignelige Gud! O du kongerikets Herre! Disse sjeler er din himmelske h�
 
 -- Abdu'l-Bahá
 
-bpn3564 
+bpn3564 «[Norsk](../no/prayers/#bpn3564)» 
 
 ----
 
@@ -1132,7 +1131,7 @@ O Gud, min Gud! Du ser meg - jeg er henrevet og drages mot ditt herlige rike, je
 
 -- Abdu'l-Bahá
 
-bpn3565 
+bpn3565 «[Norsk](../no/prayers/#bpn3565)» 
 
 ----
 
@@ -1142,7 +1141,7 @@ O Gud! O Gud! Du ser min svakhet, beskjedenhet og ydmykhet overfor dine skapning
 
 -- Abdu'l-Bahá
 
-bpn3566 
+bpn3566 «[Norsk](../no/prayers/#bpn3566)» 
 
 ----
 
@@ -1152,7 +1151,7 @@ O Gud! O Gud! Dette er en vingestekket fugl, og dens flukt er meget langsom. Hje
 
 -- Abdu'l-Bahá
 
-bpn3567 
+bpn3567 «[Norsk](../no/prayers/#bpn3567)» 
 
 ----
 
@@ -1162,7 +1161,7 @@ O min Gud! O min Gud! Du ser meg i min ringhet og svakhet, beskjeftiget med dett
 
 -- Abdu'l-Bahá
 
-bpn3568 
+bpn3568 «[Norsk](../no/prayers/#bpn3568)» 
 
 ----
 
@@ -1176,7 +1175,7 @@ Lovet være du, o Herre min Gud, min Mester! Du hører de klagende sukk fra dem 
 
 -- Bahá'u'lláh
 
-bpn3570 
+bpn3570 «[Norsk](../no/prayers/#bpn3570)» 
 
 ----
 
@@ -1186,7 +1185,7 @@ bpn3570
 
 -- Bahá'u'lláh
 
-bpn3571 
+bpn3571 «[Norsk](../no/prayers/#bpn3571)» 
 
 ----
 
@@ -1196,7 +1195,7 @@ Jeg bønnfaller deg ved lysglansen fra ditt herlige åsyn, ved din urgamle storh
 
 -- Báb
 
-bpn3569 
+bpn3569 «[Norsk](../no/prayers/#bpn3569)» 
 
 ----
 
@@ -1210,7 +1209,7 @@ bpn3569
 
 -- Bahá'u'lláh
 
-bpn3600 
+bpn3600 «[Norsk](../no/prayers/#bpn3600)» 
 
 ----
 
@@ -1220,7 +1219,7 @@ SvangerskapMin Herre! Min Herre! Jeg priser deg og jeg takker deg for det hvorme
 
 -- Abdu'l-Bahá
 
-bpn3598 
+bpn3598 «[Norsk](../no/prayers/#bpn3598)» 
 
 ----
 
@@ -1230,7 +1229,7 @@ Han er Gud! O uforlignelige Herre! I din allmektige visdom har du pålagt folken
 
 -- Abdu'l-Bahá
 
-bpn3601 
+bpn3601 «[Norsk](../no/prayers/#bpn3601)» 
 
 ----
 
@@ -1240,7 +1239,7 @@ bpn3601
 
 -- Abdu'l-Bahá
 
-bpn3602 
+bpn3602 «[Norsk](../no/prayers/#bpn3602)» 
 
 ----
 
@@ -1254,7 +1253,7 @@ Av din evighets mildt angende strømmer gi meg å drikke, o min Gud, og av frukt
 
 -- Bahá'u'lláh
 
-bpn3574 
+bpn3574 «[Norsk](../no/prayers/#bpn3574)» 
 
 ----
 
@@ -1264,7 +1263,7 @@ Jeg vet ikke, o min Gud, hva slags ild du tente i ditt land. Jord kan aldri ford
 
 -- Bahá'u'lláh
 
-bpn3575 
+bpn3575 «[Norsk](../no/prayers/#bpn3575)» 
 
 ----
 
@@ -1274,7 +1273,7 @@ Lovet være du, o Herre min Gud! Jeg bevitner at du fra evighet var opphøyet i 
 
 -- Bahá'u'lláh
 
-bpn3576 
+bpn3576 «[Norsk](../no/prayers/#bpn3576)» 
 
 ----
 
@@ -1284,7 +1283,7 @@ Lovet være du, o min Gud! Jeg er en av dine tjenere, som har trodd på deg og p
 
 -- Bahá'u'lláh
 
-bpn3577 
+bpn3577 «[Norsk](../no/prayers/#bpn3577)» 
 
 ----
 
@@ -1294,7 +1293,7 @@ O min Gud, gavmildhetens og barmhjertighetens Gud! Du er den Konge ved hvis byde
 
 -- Bahá'u'lláh
 
-bpn3578 
+bpn3578 «[Norsk](../no/prayers/#bpn3578)» 
 
 ----
 
@@ -1304,7 +1303,7 @@ O min Herre! La din skjønnhet være min føde, og ditt nærvær mitt drikke, og
 
 -- Bahá'u'lláh
 
-bpn3579 
+bpn3579 «[Norsk](../no/prayers/#bpn3579)» 
 
 ----
 
@@ -1314,7 +1313,7 @@ Skap i meg et rent hjerte, o min Gud, og gi meg på ny en rolig samvittighet, o 
 
 -- Bahá'u'lláh
 
-bpn3580 
+bpn3580 «[Norsk](../no/prayers/#bpn3580)» 
 
 ----
 
@@ -1324,7 +1323,7 @@ Du er Gud, ingen annen Gud er der enn deg. Priset og forherliget er du, o Herre 
 
 -- Báb
 
-bpn3572 
+bpn3572 «[Norsk](../no/prayers/#bpn3572)» 
 
 ----
 
@@ -1334,7 +1333,7 @@ Forherliget være ditt navn, o Herre! Hos hvem skal jeg finne tilflukt når du i
 
 -- Báb
 
-bpn3573 
+bpn3573 «[Norsk](../no/prayers/#bpn3573)» 
 
 ----
 
@@ -1344,7 +1343,7 @@ O Gud! Forfrisk og gled min ånd. Rens mitt hjerte. Styrk mine evner. Alt hva me
 
 -- Abdu'l-Bahá
 
-bpn3581 
+bpn3581 «[Norsk](../no/prayers/#bpn3581)» 
 
 ----
 
@@ -1354,7 +1353,7 @@ O min Gud! O min Gud! Denne din tjener har gått fremover mot deg, vandrer liden
 
 -- Abdu'l-Bahá
 
-bpn3582 
+bpn3582 «[Norsk](../no/prayers/#bpn3582)» 
 
 ----
 
@@ -1364,7 +1363,7 @@ O min Herre! O min Herre! Dette er en lampe som er tent av din kjærlighets ild 
 
 -- Abdu'l-Bahá
 
-bpn3583 
+bpn3583 «[Norsk](../no/prayers/#bpn3583)» 
 
 ----
 
@@ -1374,7 +1373,7 @@ O min herlige Herre! Hjelp meg til å avstå fra enhver avvikende tilbøyelighet
 
 -- Abdu'l-Bahá
 
-bpn3584 
+bpn3584 «[Norsk](../no/prayers/#bpn3584)» 
 
 ----
 

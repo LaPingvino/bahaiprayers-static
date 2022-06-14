@@ -73,7 +73,6 @@ tags = ['lang=ne', 'prayerbook']
 
 [साँझँ](#%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9D%E0%A4%81)
 
-[साँझँ](#%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9D%E0%A4%81)
 
 
 <a id="%E0%A4%85%E0%A4%9F%E0%A4%B2%E0%A4%A4%E0%A4%BE"></a> 
@@ -84,7 +83,7 @@ tags = ['lang=ne', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11160 
+bpn11160 «[नेपाली](../ne/prayers/#bpn11160)» 
 
 ----
 
@@ -94,7 +93,7 @@ bpn11160
 
 -- Bahá'u'lláh
 
-bpn11161 
+bpn11161 «[नेपाली](../ne/prayers/#bpn11161)» 
 
 ----
 
@@ -104,7 +103,7 @@ bpn11161
 
 -- Bahá'u'lláh
 
-bpn11162 
+bpn11162 «[नेपाली](../ne/prayers/#bpn11162)» 
 
 ----
 
@@ -114,7 +113,7 @@ bpn11162
 
 -- Bahá'u'lláh
 
-bpn11163 
+bpn11163 «[नेपाली](../ne/prayers/#bpn11163)» 
 
 ----
 
@@ -124,7 +123,7 @@ bpn11163
 
 -- Abdu'l-Bahá
 
-bpn11164 
+bpn11164 «[नेपाली](../ne/prayers/#bpn11164)» 
 
 ----
 
@@ -134,7 +133,7 @@ bpn11164
 
 -- Abdu'l-Bahá
 
-bpn11165 
+bpn11165 «[नेपाली](../ne/prayers/#bpn11165)» 
 
 ----
 
@@ -144,7 +143,7 @@ bpn11165
 
 -- Abdu'l-Bahá
 
-bpn11166 
+bpn11166 «[नेपाली](../ne/prayers/#bpn11166)» 
 
 ----
 
@@ -154,7 +153,7 @@ bpn11166
 
 -- Abdu'l-Bahá
 
-bpn11167 
+bpn11167 «[नेपाली](../ne/prayers/#bpn11167)» 
 
 ----
 
@@ -168,7 +167,7 @@ bpn11167
 
 -- Abdu'l-Bahá
 
-bpn11200 
+bpn11200 «[नेपाली](../ne/prayers/#bpn11200)» 
 
 ----
 
@@ -182,7 +181,7 @@ bpn11200
 
 -- Bahá'u'lláh
 
-bpn11198 
+bpn11198 «[नेपाली](../ne/prayers/#bpn11198)» 
 
 ----
 
@@ -196,7 +195,7 @@ bpn11198
 
 -- Bahá'u'lláh
 
-bpn11149 
+bpn11149 «[नेपाली](../ne/prayers/#bpn11149)» 
 
 ----
 
@@ -206,7 +205,7 @@ bpn11149
 
 -- Bahá'u'lláh
 
-bpn11150 
+bpn11150 «[नेपाली](../ne/prayers/#bpn11150)» 
 
 ----
 
@@ -216,7 +215,7 @@ bpn11150
 
 -- Bahá'u'lláh
 
-bpn11151 
+bpn11151 «[नेपाली](../ne/prayers/#bpn11151)» 
 
 ----
 
@@ -226,7 +225,7 @@ bpn11151
 
 -- Bahá'u'lláh
 
-bpn11152 
+bpn11152 «[नेपाली](../ne/prayers/#bpn11152)» 
 
 ----
 
@@ -236,7 +235,7 @@ bpn11152
 
 -- Bahá'u'lláh
 
-bpn11153 
+bpn11153 «[नेपाली](../ne/prayers/#bpn11153)» 
 
 ----
 
@@ -246,7 +245,7 @@ bpn11153
 
 -- Abdu'l-Bahá
 
-bpn11157 
+bpn11157 «[नेपाली](../ne/prayers/#bpn11157)» 
 
 ----
 
@@ -256,7 +255,7 @@ bpn11157
 
 -- Abdu'l-Bahá
 
-bpn11154 
+bpn11154 «[नेपाली](../ne/prayers/#bpn11154)» 
 
 ----
 
@@ -266,7 +265,7 @@ bpn11154
 
 -- Abdu'l-Bahá
 
-bpn11155 
+bpn11155 «[नेपाली](../ne/prayers/#bpn11155)» 
 
 ----
 
@@ -276,7 +275,7 @@ bpn11155
 
 -- Abdu'l-Bahá
 
-bpn11156 
+bpn11156 «[नेपाली](../ne/prayers/#bpn11156)» 
 
 ----
 
@@ -286,7 +285,7 @@ bpn11156
 
 -- Abdu'l-Bahá
 
-bpn11158 
+bpn11158 «[नेपाली](../ne/prayers/#bpn11158)» 
 
 ----
 
@@ -296,7 +295,7 @@ bpn11158
 
 -- Abdu'l-Bahá
 
-bpn11159 
+bpn11159 «[नेपाली](../ne/prayers/#bpn11159)» 
 
 ----
 
@@ -310,7 +309,7 @@ bpn11159
 
 -- Abdu'l-Bahá
 
-bpn11195 
+bpn11195 «[नेपाली](../ne/prayers/#bpn11195)» 
 
 ----
 
@@ -320,7 +319,7 @@ bpn11195
 
 -- Abdu'l-Bahá
 
-bpn11196 
+bpn11196 «[नेपाली](../ne/prayers/#bpn11196)» 
 
 ----
 
@@ -330,7 +329,7 @@ bpn11196
 
 -- Abdu'l-Bahá
 
-bpn11197 
+bpn11197 «[नेपाली](../ne/prayers/#bpn11197)» 
 
 ----
 
@@ -344,7 +343,7 @@ bpn11197
 
 -- Abdu'l-Bahá
 
-bpn11139 
+bpn11139 «[नेपाली](../ne/prayers/#bpn11139)» 
 
 ----
 
@@ -354,7 +353,7 @@ bpn11139
 
 -- Abdu'l-Bahá
 
-bpn11140 
+bpn11140 «[नेपाली](../ne/prayers/#bpn11140)» 
 
 ----
 
@@ -368,7 +367,7 @@ bpn11140
 
 -- Bahá'u'lláh
 
-bpn11191 
+bpn11191 «[नेपाली](../ne/prayers/#bpn11191)» 
 
 ----
 
@@ -378,7 +377,7 @@ bpn11191
 
 -- Bahá'u'lláh
 
-bpn11192 
+bpn11192 «[नेपाली](../ne/prayers/#bpn11192)» 
 
 ----
 
@@ -392,7 +391,7 @@ bpn11192
 
 -- Bahá'u'lláh
 
-bpn11188 
+bpn11188 «[नेपाली](../ne/prayers/#bpn11188)» 
 
 ----
 
@@ -402,7 +401,7 @@ bpn11188
 
 -- Bahá'u'lláh
 
-bpn11189 
+bpn11189 «[नेपाली](../ne/prayers/#bpn11189)» 
 
 ----
 
@@ -412,7 +411,7 @@ bpn11189
 
 -- Abdu'l-Bahá
 
-bpn11190 
+bpn11190 «[नेपाली](../ne/prayers/#bpn11190)» 
 
 ----
 
@@ -426,7 +425,7 @@ bpn11190
 
 -- Abdu'l-Bahá
 
-bpn7004 
+bpn7004 «[नेपाली](../ne/prayers/#bpn7004)» 
 
 ----
 
@@ -436,7 +435,7 @@ bpn7004
 
 -- Abdu'l-Bahá
 
-bpn11092 
+bpn11092 «[नेपाली](../ne/prayers/#bpn11092)» 
 
 ----
 
@@ -446,7 +445,7 @@ bpn11092
 
 -- Abdu'l-Bahá
 
-bpn11093 
+bpn11093 «[नेपाली](../ne/prayers/#bpn11093)» 
 
 ----
 
@@ -456,7 +455,7 @@ bpn11093
 
 -- Abdu'l-Bahá
 
-bpn11088 
+bpn11088 «[नेपाली](../ne/prayers/#bpn11088)» 
 
 ----
 
@@ -466,7 +465,7 @@ bpn11088
 
 -- Abdu'l-Bahá
 
-bpn11089 
+bpn11089 «[नेपाली](../ne/prayers/#bpn11089)» 
 
 ----
 
@@ -476,7 +475,7 @@ bpn11089
 
 -- Abdu'l-Bahá
 
-bpn11090 
+bpn11090 «[नेपाली](../ne/prayers/#bpn11090)» 
 
 ----
 
@@ -486,7 +485,7 @@ bpn11090
 
 -- Abdu'l-Bahá
 
-bpn11091 
+bpn11091 «[नेपाली](../ne/prayers/#bpn11091)» 
 
 ----
 
@@ -496,7 +495,7 @@ bpn11091
 
 -- Abdu'l-Bahá
 
-bpn11094 
+bpn11094 «[नेपाली](../ne/prayers/#bpn11094)» 
 
 ----
 
@@ -510,7 +509,7 @@ bpn11094
 
 -- Abdu'l-Bahá
 
-bpn11116 
+bpn11116 «[नेपाली](../ne/prayers/#bpn11116)» 
 
 ----
 
@@ -524,7 +523,7 @@ bpn11116
 
 -- Bahá'u'lláh
 
-bpn11111 
+bpn11111 «[नेपाली](../ne/prayers/#bpn11111)» 
 
 ----
 
@@ -534,7 +533,7 @@ bpn11111
 
 -- Bahá'u'lláh
 
-bpn11112 
+bpn11112 «[नेपाली](../ne/prayers/#bpn11112)» 
 
 ----
 
@@ -544,7 +543,7 @@ bpn11112
 
 -- Bahá'u'lláh
 
-bpn11113 
+bpn11113 «[नेपाली](../ne/prayers/#bpn11113)» 
 
 ----
 
@@ -554,7 +553,7 @@ bpn11113
 
 -- Bahá'u'lláh
 
-bpn11114 
+bpn11114 «[नेपाली](../ne/prayers/#bpn11114)» 
 
 ----
 
@@ -564,7 +563,7 @@ bpn11114
 
 -- Abdu'l-Bahá
 
-bpn11115 
+bpn11115 «[नेपाली](../ne/prayers/#bpn11115)» 
 
 ----
 
@@ -578,7 +577,7 @@ bpn11115
 
 -- Bahá'u'lláh
 
-bpn7003 
+bpn7003 «[नेपाली](../ne/prayers/#bpn7003)» 
 
 ----
 
@@ -592,7 +591,7 @@ bpn7003
 
 -- Bahá'u'lláh
 
-bpn11199 
+bpn11199 «[नेपाली](../ne/prayers/#bpn11199)» 
 
 ----
 
@@ -606,7 +605,7 @@ bpn11199
 
 -- Bahá'u'lláh
 
-bpn11194 
+bpn11194 «[नेपाली](../ne/prayers/#bpn11194)» 
 
 ----
 
@@ -620,7 +619,7 @@ bpn11194
 
 -- Bahá'u'lláh
 
-bpn11105 
+bpn11105 «[नेपाली](../ne/prayers/#bpn11105)» 
 
 ----
 
@@ -634,7 +633,7 @@ bpn11105
 
 -- Bahá'u'lláh
 
-bpn11141 
+bpn11141 «[नेपाली](../ne/prayers/#bpn11141)» 
 
 ----
 
@@ -644,7 +643,7 @@ bpn11141
 
 -- Bahá'u'lláh
 
-bpn11142 
+bpn11142 «[नेपाली](../ne/prayers/#bpn11142)» 
 
 ----
 
@@ -654,7 +653,7 @@ bpn11142
 
 -- Bahá'u'lláh
 
-bpn11143 
+bpn11143 «[नेपाली](../ne/prayers/#bpn11143)» 
 
 ----
 
@@ -664,7 +663,7 @@ bpn11143
 
 -- Abdu'l-Bahá
 
-bpn11144 
+bpn11144 «[नेपाली](../ne/prayers/#bpn11144)» 
 
 ----
 
@@ -678,7 +677,7 @@ bpn11144
 
 -- Bahá'u'lláh
 
-bpn11168 
+bpn11168 «[नेपाली](../ne/prayers/#bpn11168)» 
 
 ----
 
@@ -688,7 +687,7 @@ bpn11168
 
 -- Bahá'u'lláh
 
-bpn11169 
+bpn11169 «[नेपाली](../ne/prayers/#bpn11169)» 
 
 ----
 
@@ -698,7 +697,7 @@ bpn11169
 
 -- Bahá'u'lláh
 
-bpn11170 
+bpn11170 «[नेपाली](../ne/prayers/#bpn11170)» 
 
 ----
 
@@ -708,7 +707,7 @@ bpn11170
 
 -- Bahá'u'lláh
 
-bpn11171 
+bpn11171 «[नेपाली](../ne/prayers/#bpn11171)» 
 
 ----
 
@@ -718,7 +717,7 @@ bpn11171
 
 -- Bahá'u'lláh
 
-bpn11172 
+bpn11172 «[नेपाली](../ne/prayers/#bpn11172)» 
 
 ----
 
@@ -728,7 +727,7 @@ bpn11172
 
 -- Abdu'l-Bahá
 
-bpn11173 
+bpn11173 «[नेपाली](../ne/prayers/#bpn11173)» 
 
 ----
 
@@ -738,7 +737,7 @@ bpn11173
 
 -- Abdu'l-Bahá
 
-bpn11174 
+bpn11174 «[नेपाली](../ne/prayers/#bpn11174)» 
 
 ----
 
@@ -748,7 +747,7 @@ bpn11174
 
 -- Abdu'l-Bahá
 
-bpn11175 
+bpn11175 «[नेपाली](../ne/prayers/#bpn11175)» 
 
 ----
 
@@ -758,7 +757,7 @@ bpn11175
 
 -- Abdu'l-Bahá
 
-bpn11176 
+bpn11176 «[नेपाली](../ne/prayers/#bpn11176)» 
 
 ----
 
@@ -768,7 +767,7 @@ bpn11176
 
 -- Abdu'l-Bahá
 
-bpn11177 
+bpn11177 «[नेपाली](../ne/prayers/#bpn11177)» 
 
 ----
 
@@ -778,7 +777,7 @@ bpn11177
 
 -- Abdu'l-Bahá
 
-bpn11178 
+bpn11178 «[नेपाली](../ne/prayers/#bpn11178)» 
 
 ----
 
@@ -788,7 +787,7 @@ bpn11178
 
 -- Abdu'l-Bahá
 
-bpn11179 
+bpn11179 «[नेपाली](../ne/prayers/#bpn11179)» 
 
 ----
 
@@ -802,7 +801,7 @@ bpn11179
 
 -- Bahá'u'lláh
 
-bpn7010 
+bpn7010 «[नेपाली](../ne/prayers/#bpn7010)» 
 
 ----
 
@@ -812,7 +811,7 @@ bpn7010
 
 -- Bahá'u'lláh
 
-bpn11136 
+bpn11136 «[नेपाली](../ne/prayers/#bpn11136)» 
 
 ----
 
@@ -822,7 +821,7 @@ bpn11136
 
 -- Bahá'u'lláh
 
-bpn11137 
+bpn11137 «[नेपाली](../ne/prayers/#bpn11137)» 
 
 ----
 
@@ -832,7 +831,7 @@ bpn11137
 
 -- Bahá'u'lláh
 
-bpn11138 
+bpn11138 «[नेपाली](../ne/prayers/#bpn11138)» 
 
 ----
 
@@ -846,7 +845,7 @@ bpn11138
 
 -- Bahá'u'lláh
 
-bpn11117 
+bpn11117 «[नेपाली](../ne/prayers/#bpn11117)» 
 
 ----
 
@@ -856,7 +855,7 @@ bpn11117
 
 -- Abdu'l-Bahá
 
-bpn11118 
+bpn11118 «[नेपाली](../ne/prayers/#bpn11118)» 
 
 ----
 
@@ -866,7 +865,7 @@ bpn11118
 
 -- Abdu'l-Bahá
 
-bpn11119 
+bpn11119 «[नेपाली](../ne/prayers/#bpn11119)» 
 
 ----
 
@@ -876,7 +875,7 @@ bpn11119
 
 -- Abdu'l-Bahá
 
-bpn11120 
+bpn11120 «[नेपाली](../ne/prayers/#bpn11120)» 
 
 ----
 
@@ -886,7 +885,7 @@ bpn11120
 
 -- Abdu'l-Bahá
 
-bpn11121 
+bpn11121 «[नेपाली](../ne/prayers/#bpn11121)» 
 
 ----
 
@@ -896,7 +895,7 @@ bpn11121
 
 -- Abdu'l-Bahá
 
-bpn11122 
+bpn11122 «[नेपाली](../ne/prayers/#bpn11122)» 
 
 ----
 
@@ -910,7 +909,7 @@ bpn11122
 
 -- Bahá'u'lláh
 
-bpn11081 
+bpn11081 «[नेपाली](../ne/prayers/#bpn11081)» 
 
 ----
 
@@ -924,7 +923,7 @@ bpn11081
 
 -- Bahá'u'lláh
 
-bpn11193 
+bpn11193 «[नेपाली](../ne/prayers/#bpn11193)» 
 
 ----
 
@@ -938,7 +937,7 @@ bpn11193
 
 -- Bahá'u'lláh
 
-bpn11126 
+bpn11126 «[नेपाली](../ne/prayers/#bpn11126)» 
 
 ----
 
@@ -952,7 +951,7 @@ bpn11126
 
 -- Bahá'u'lláh
 
-bpn11128 
+bpn11128 «[नेपाली](../ne/prayers/#bpn11128)» 
 
 ----
 
@@ -962,7 +961,7 @@ bpn11128
 
 -- Abdu'l-Bahá
 
-bpn11129 
+bpn11129 «[नेपाली](../ne/prayers/#bpn11129)» 
 
 ----
 
@@ -972,7 +971,7 @@ bpn11129
 
 -- Abdu'l-Bahá
 
-bpn11130 
+bpn11130 «[नेपाली](../ne/prayers/#bpn11130)» 
 
 ----
 
@@ -982,7 +981,7 @@ bpn11130
 
 -- Abdu'l-Bahá
 
-bpn11131 
+bpn11131 «[नेपाली](../ne/prayers/#bpn11131)» 
 
 ----
 
@@ -996,7 +995,7 @@ bpn11131
 
 -- Bahá'u'lláh
 
-bpn11095 
+bpn11095 «[नेपाली](../ne/prayers/#bpn11095)» 
 
 ----
 
@@ -1006,7 +1005,7 @@ bpn11095
 
 -- Bahá'u'lláh
 
-bpn11096 
+bpn11096 «[नेपाली](../ne/prayers/#bpn11096)» 
 
 ----
 
@@ -1016,7 +1015,7 @@ bpn11096
 
 -- Bahá'u'lláh
 
-bpn11097 
+bpn11097 «[नेपाली](../ne/prayers/#bpn11097)» 
 
 ----
 
@@ -1026,7 +1025,7 @@ bpn11097
 
 -- Bahá'u'lláh
 
-bpn11098 
+bpn11098 «[नेपाली](../ne/prayers/#bpn11098)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ bpn11098
 
 -- Bahá'u'lláh
 
-bpn11099 
+bpn11099 «[नेपाली](../ne/prayers/#bpn11099)» 
 
 ----
 
@@ -1046,7 +1045,7 @@ bpn11099
 
 -- Bahá'u'lláh
 
-bpn11100 
+bpn11100 «[नेपाली](../ne/prayers/#bpn11100)» 
 
 ----
 
@@ -1056,7 +1055,7 @@ bpn11100
 
 -- Báb
 
-bpn11101 
+bpn11101 «[नेपाली](../ne/prayers/#bpn11101)» 
 
 ----
 
@@ -1066,7 +1065,7 @@ bpn11101
 
 -- Abdu'l-Bahá
 
-bpn7011 
+bpn7011 «[नेपाली](../ne/prayers/#bpn7011)» 
 
 ----
 
@@ -1080,7 +1079,7 @@ bpn7011
 
 -- Bahá'u'lláh
 
-bpn7009 
+bpn7009 «[नेपाली](../ne/prayers/#bpn7009)» 
 
 ----
 
@@ -1094,7 +1093,7 @@ bpn7009
 
 -- Bahá'u'lláh
 
-bpn7007 
+bpn7007 «[नेपाली](../ne/prayers/#bpn7007)» 
 
 ----
 
@@ -1104,7 +1103,7 @@ bpn7007
 
 -- Bahá'u'lláh
 
-bpn11123 
+bpn11123 «[नेपाली](../ne/prayers/#bpn11123)» 
 
 ----
 
@@ -1114,7 +1113,7 @@ bpn11123
 
 -- Bahá'u'lláh
 
-bpn11124 
+bpn11124 «[नेपाली](../ne/prayers/#bpn11124)» 
 
 ----
 
@@ -1124,7 +1123,7 @@ bpn11124
 
 -- Bahá'u'lláh
 
-bpn11125 
+bpn11125 «[नेपाली](../ne/prayers/#bpn11125)» 
 
 ----
 
@@ -1138,7 +1137,7 @@ bpn11125
 
 -- Bahá'u'lláh
 
-bpn11127 
+bpn11127 «[नेपाली](../ne/prayers/#bpn11127)» 
 
 ----
 
@@ -1152,7 +1151,7 @@ bpn11127
 
 -- Bahá'u'lláh
 
-bpn11082 
+bpn11082 «[नेपाली](../ne/prayers/#bpn11082)» 
 
 ----
 
@@ -1166,7 +1165,7 @@ bpn11082
 
 -- Bahá'u'lláh
 
-bpn11132 
+bpn11132 «[नेपाली](../ne/prayers/#bpn11132)» 
 
 ----
 
@@ -1176,7 +1175,7 @@ bpn11132
 
 -- Bahá'u'lláh
 
-bpn11133 
+bpn11133 «[नेपाली](../ne/prayers/#bpn11133)» 
 
 ----
 
@@ -1186,7 +1185,7 @@ bpn11133
 
 -- Abdu'l-Bahá
 
-bpn11134 
+bpn11134 «[नेपाली](../ne/prayers/#bpn11134)» 
 
 ----
 
@@ -1196,7 +1195,7 @@ bpn11134
 
 -- Abdu'l-Bahá
 
-bpn11135 
+bpn11135 «[नेपाली](../ne/prayers/#bpn11135)» 
 
 ----
 
@@ -1210,7 +1209,7 @@ bpn11135
 
 -- Bahá'u'lláh
 
-bpn11181 
+bpn11181 «[नेपाली](../ne/prayers/#bpn11181)» 
 
 ----
 
@@ -1220,7 +1219,7 @@ bpn11181
 
 -- Bahá'u'lláh
 
-bpn11180 
+bpn11180 «[नेपाली](../ne/prayers/#bpn11180)» 
 
 ----
 
@@ -1230,7 +1229,7 @@ bpn11180
 
 -- Bahá'u'lláh
 
-bpn11182 
+bpn11182 «[नेपाली](../ne/prayers/#bpn11182)» 
 
 ----
 
@@ -1240,7 +1239,7 @@ bpn11182
 
 -- Bahá'u'lláh
 
-bpn11183 
+bpn11183 «[नेपाली](../ne/prayers/#bpn11183)» 
 
 ----
 
@@ -1250,7 +1249,7 @@ bpn11183
 
 -- Báb
 
-bpn11184 
+bpn11184 «[नेपाली](../ne/prayers/#bpn11184)» 
 
 ----
 
@@ -1260,7 +1259,7 @@ bpn11184
 
 -- Báb
 
-bpn7013 
+bpn7013 «[नेपाली](../ne/prayers/#bpn7013)» 
 
 ----
 
@@ -1270,7 +1269,7 @@ bpn7013
 
 -- Báb
 
-bpn11185 
+bpn11185 «[नेपाली](../ne/prayers/#bpn11185)» 
 
 ----
 
@@ -1280,7 +1279,7 @@ bpn11185
 
 -- Báb
 
-bpn11186 
+bpn11186 «[नेपाली](../ne/prayers/#bpn11186)» 
 
 ----
 
@@ -1290,7 +1289,7 @@ bpn11186
 
 -- Abdu'l-Bahá
 
-bpn11187 
+bpn11187 «[नेपाली](../ne/prayers/#bpn11187)» 
 
 ----
 
@@ -1304,7 +1303,7 @@ bpn11187
 
 -- Bahá'u'lláh
 
-bpn11145 
+bpn11145 «[नेपाली](../ne/prayers/#bpn11145)» 
 
 ----
 
@@ -1314,7 +1313,7 @@ bpn11145
 
 -- Bahá'u'lláh
 
-bpn11146 
+bpn11146 «[नेपाली](../ne/prayers/#bpn11146)» 
 
 ----
 
@@ -1324,7 +1323,7 @@ bpn11146
 
 -- Abdu'l-Bahá
 
-bpn11147 
+bpn11147 «[नेपाली](../ne/prayers/#bpn11147)» 
 
 ----
 
@@ -1334,7 +1333,7 @@ bpn11147
 
 -- Abdu'l-Bahá
 
-bpn11148 
+bpn11148 «[नेपाली](../ne/prayers/#bpn11148)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ bpn11148
 
 -- Bahá'u'lláh
 
-bpn11108 
+bpn11108 «[नेपाली](../ne/prayers/#bpn11108)» 
 
 ----
 
@@ -1358,7 +1357,7 @@ bpn11108
 
 -- Bahá'u'lláh
 
-bpn11109 
+bpn11109 «[नेपाली](../ne/prayers/#bpn11109)» 
 
 ----
 
@@ -1368,7 +1367,7 @@ bpn11109
 
 -- Abdu'l-Bahá
 
-bpn11110 
+bpn11110 «[नेपाली](../ne/prayers/#bpn11110)» 
 
 ----
 
@@ -1382,7 +1381,7 @@ bpn11110
 
 -- Bahá'u'lláh
 
-bpn11083 
+bpn11083 «[नेपाली](../ne/prayers/#bpn11083)» 
 
 ----
 
@@ -1392,7 +1391,7 @@ bpn11083
 
 -- Bahá'u'lláh
 
-bpn11084 
+bpn11084 «[नेपाली](../ne/prayers/#bpn11084)» 
 
 ----
 
@@ -1402,7 +1401,7 @@ bpn11084
 
 -- Báb
 
-bpn11102 
+bpn11102 «[नेपाली](../ne/prayers/#bpn11102)» 
 
 ----
 
@@ -1412,7 +1411,7 @@ bpn11102
 
 -- Abdu'l-Bahá
 
-bpn11085 
+bpn11085 «[नेपाली](../ne/prayers/#bpn11085)» 
 
 ----
 
@@ -1422,7 +1421,7 @@ bpn11085
 
 -- Abdu'l-Bahá
 
-bpn11086 
+bpn11086 «[नेपाली](../ne/prayers/#bpn11086)» 
 
 ----
 
@@ -1432,7 +1431,7 @@ bpn11086
 
 -- Abdu'l-Bahá
 
-bpn11087 
+bpn11087 «[नेपाली](../ne/prayers/#bpn11087)» 
 
 ----
 
@@ -1442,7 +1441,7 @@ bpn11087
 
 -- Abdu'l-Bahá
 
-bpn11103 
+bpn11103 «[नेपाली](../ne/prayers/#bpn11103)» 
 
 ----
 
@@ -1452,7 +1451,7 @@ bpn11103
 
 -- Abdu'l-Bahá
 
-bpn11104 
+bpn11104 «[नेपाली](../ne/prayers/#bpn11104)» 
 
 ----
 
@@ -1466,7 +1465,7 @@ bpn11104
 
 -- Bahá'u'lláh
 
-bpn11106 
+bpn11106 «[नेपाली](../ne/prayers/#bpn11106)» 
 
 ----
 
@@ -1476,7 +1475,7 @@ bpn11106
 
 -- Bahá'u'lláh
 
-bpn11107 
+bpn11107 «[नेपाली](../ne/prayers/#bpn11107)» 
 
 ----
 

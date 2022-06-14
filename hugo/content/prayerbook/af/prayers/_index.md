@@ -5,7 +5,6 @@ tags = ['lang=af', 'prayerbook']
 
 
 
-
 [Aand](#Aand)
 
 [Afsnyding](#Afsnyding)
@@ -78,7 +77,7 @@ O my God, my Meester, die Doel van my begeerte! Hierdie dienskneg van U verlang 
 
 -- Bahá'u'lláh
 
-bpn3145 
+bpn3145 «[Afrikaans](../af/prayers/#bpn3145)» 
 
 ----
 
@@ -88,7 +87,7 @@ O soeker van die Waarheid! As u verlang dat God u oog mag oopmaak, moet u God sm
 
 -- Bahá'u'lláh
 
-bpn3147 
+bpn3147 «[Afrikaans](../af/prayers/#bpn3147)» 
 
 ----
 
@@ -98,7 +97,7 @@ Hoe kan ek verkies om te slaap, o God, my God, terwyl die oë van diegene wat na
 
 -- Bahá'u'lláh
 
-bpn3146 
+bpn3146 «[Afrikaans](../af/prayers/#bpn3146)» 
 
 ----
 
@@ -112,7 +111,7 @@ Laat my, o my God, nader na U trek, en binne die grense van U hof vertoef, want 
 
 -- Bahá'u'lláh
 
-bpn3180 
+bpn3180 «[Afrikaans](../af/prayers/#bpn3180)» 
 
 ----
 
@@ -122,7 +121,7 @@ Verheerlik is U, o my God! Ek lewer U dank dat U Hom Wat die Daeraad van U barmh
 
 -- Bahá'u'lláh
 
-bpn3181 
+bpn3181 «[Afrikaans](../af/prayers/#bpn3181)» 
 
 ----
 
@@ -132,7 +131,7 @@ Geloof sy U Naam, o my God! Ek smeek U by die geure van die Gewaad van u guns, w
 
 -- Bahá'u'lláh
 
-bpn3182 
+bpn3182 «[Afrikaans](../af/prayers/#bpn3182)» 
 
 ----
 
@@ -142,7 +141,7 @@ Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gestee
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../en/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» 
+BH09024 «[English](../en/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» 
 
 ----
 
@@ -152,7 +151,7 @@ Ek weet nie, o my God, wat die Vuur is wat U in U land aangesteek het nie. Aarde
 
 -- Bahá'u'lláh
 
-bpn3184 
+bpn3184 «[Afrikaans](../af/prayers/#bpn3184)» 
 
 ----
 
@@ -162,7 +161,7 @@ Lof sy aan U, o my God! Ek is een van U dienaars wat aan U en U tekens geglo het
 
 -- Bahá'u'lláh
 
-bpn3185 
+bpn3185 «[Afrikaans](../af/prayers/#bpn3185)» 
 
 ----
 
@@ -172,7 +171,7 @@ O God, my God! U is my Hoop en my Beminde, my hoogste Oogmerk en Begeerte! Met g
 
 -- Abdu'l-Bahá
 
-bpn3186 
+bpn3186 «[Afrikaans](../af/prayers/#bpn3186)» 
 
 ----
 
@@ -186,7 +185,7 @@ bpn3186
 
 -- Bahá'u'lláh
 
-bpn3246 
+bpn3246 «[Afrikaans](../af/prayers/#bpn3246)» 
 
 ----
 
@@ -200,7 +199,7 @@ Geloof sy U, o Here my God! Hierdie is U dienaar wat uit die hande van U genade 
 
 -- Bahá'u'lláh
 
-bpn3174 
+bpn3174 «[Afrikaans](../af/prayers/#bpn3174)» 
 
 ----
 
@@ -210,7 +209,7 @@ O God, my God! Ek het my huis verlaat, hou vas aan die koord van U liefde, en he
 
 -- Bahá'u'lláh
 
-bpn3175 
+bpn3175 «[Afrikaans](../af/prayers/#bpn3175)» 
 
 ----
 
@@ -220,7 +219,7 @@ Geloof sy U, o Here my God! U sien en weet dat ek &#39;n beroep op U dienaars ge
 
 -- Bahá'u'lláh
 
-bpn3176 
+bpn3176 «[Afrikaans](../af/prayers/#bpn3176)» 
 
 ----
 
@@ -230,7 +229,7 @@ Verheerlik sy U Naam, o Here my God! Ek smeek U by U Naam waardeur die uur aange
 
 -- Bahá'u'lláh
 
-bpn3177 
+bpn3177 «[Afrikaans](../af/prayers/#bpn3177)» 
 
 ----
 
@@ -240,7 +239,7 @@ O God, my God! Beskut U vertroude dienaars teen die euwels van self en hartstog,
 
 -- Abdu'l-Bahá
 
-bpn3178 
+bpn3178 «[Afrikaans](../af/prayers/#bpn3178)» 
 
 ----
 
@@ -250,7 +249,7 @@ O my Here! U weet dat die mense omring is met smart en rampe, en omsingel is met
 
 -- Abdu'l-Bahá
 
-bpn3179 
+bpn3179 «[Afrikaans](../af/prayers/#bpn3179)» 
 
 ----
 
@@ -264,7 +263,7 @@ My God, my Vereerde Een, my Koning, my Begeerte! Watter tong kan my dank aan U t
 
 -- Bahá'u'lláh
 
-bpn3131 
+bpn3131 «[Afrikaans](../af/prayers/#bpn3131)» 
 
 ----
 
@@ -274,7 +273,7 @@ O U Wie se aangesig die oogmerk van my huldiging is, Wie se prag my toevlugsoord
 
 -- Bahá'u'lláh
 
-bpn3132 
+bpn3132 «[Afrikaans](../af/prayers/#bpn3132)» 
 
 ----
 
@@ -284,7 +283,7 @@ Here! Armsalig is ons, verleen ons U guns; arm, skenk ons &#39;n gedeelte van di
 
 -- Abdu'l-Bahá
 
-bpn3133 
+bpn3133 «[Afrikaans](../af/prayers/#bpn3133)» 
 
 ----
 
@@ -294,7 +293,7 @@ Verwyder nie, o Here, die feestelike tafel wat in U naam gesprei is nie, en doof
 
 -- Abdu'l-Bahá
 
-bpn3134 
+bpn3134 «[Afrikaans](../af/prayers/#bpn3134)» 
 
 ----
 
@@ -308,7 +307,7 @@ Verheerlik sy U Naam, o my God, omdat U die Dag geopenbaar het wat die Koning va
 
 -- Bahá'u'lláh
 
-bpn3141 
+bpn3141 «[Afrikaans](../af/prayers/#bpn3141)» 
 
 ----
 
@@ -322,7 +321,7 @@ O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hi
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../en/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» 
+BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» 
 
 ----
 
@@ -336,7 +335,7 @@ BH02848 «[English](../en/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH028
 
 -- Bahá'u'lláh
 
-bpn3244 
+bpn3244 «[Afrikaans](../af/prayers/#bpn3244)» 
 
 ----
 
@@ -346,7 +345,7 @@ Hy is God! O weergalose Here! In U almagtige wysheid het U die huwelik aan die v
 
 -- Abdu'l-Bahá
 
-bpn3245 
+bpn3245 «[Afrikaans](../af/prayers/#bpn3245)» 
 
 ----
 
@@ -360,7 +359,7 @@ My God, Wat ek aanbid en vereer! Ek getuig van U eenheid en U enkelvoudigheid, e
 
 -- Bahá'u'lláh
 
-bpn3160 
+bpn3160 «[Afrikaans](../af/prayers/#bpn3160)» 
 
 ----
 
@@ -370,7 +369,7 @@ Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte
 
 -- Bahá'u'lláh
 
-bpn3161 
+bpn3161 «[Afrikaans](../af/prayers/#bpn3161)» 
 
 ----
 
@@ -380,7 +379,7 @@ O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U 
 
 -- Abdu'l-Bahá
 
-bpn3157 
+bpn3157 «[Afrikaans](../af/prayers/#bpn3157)» 
 
 ----
 
@@ -390,7 +389,7 @@ O U medelydende Here, U Wat vrygewig en bekwaam is! Ons is dienaars van U wat on
 
 -- Abdu'l-Bahá
 
-bpn3158 
+bpn3158 «[Afrikaans](../af/prayers/#bpn3158)» 
 
 ----
 
@@ -400,7 +399,7 @@ O U vriendelike Here! U het die hele mensheid van dieselfde oorspronklike stam g
 
 -- Abdu'l-Bahá
 
-bpn3159 
+bpn3159 «[Afrikaans](../af/prayers/#bpn3159)» 
 
 ----
 
@@ -414,7 +413,7 @@ bpn3159
 
 -- Bahá'u'lláh
 
-bpn3222 
+bpn3222 «[Afrikaans](../af/prayers/#bpn3222)» 
 
 ----
 
@@ -428,7 +427,7 @@ bpn3222
 
 -- Bahá'u'lláh
 
-bpn3223 
+bpn3223 «[Afrikaans](../af/prayers/#bpn3223)» 
 
 ----
 
@@ -438,7 +437,7 @@ bpn3223
 
 -- Abdu'l-Bahá
 
-bpn3224 
+bpn3224 «[Afrikaans](../af/prayers/#bpn3224)» 
 
 ----
 
@@ -452,7 +451,7 @@ O God die onvergelyklike! O U die Here van die Koninkryk! Hierdie siele is U hem
 
 -- Abdu'l-Bahá
 
-bpn3227 
+bpn3227 «[Afrikaans](../af/prayers/#bpn3227)» 
 
 ----
 
@@ -462,7 +461,7 @@ O God, my God! U sien my verruk en aangetrek na U glorieryke koninkryk, onder di
 
 -- Abdu'l-Bahá
 
-bpn3228 
+bpn3228 «[Afrikaans](../af/prayers/#bpn3228)» 
 
 ----
 
@@ -472,7 +471,7 @@ O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; 
 
 -- Abdu'l-Bahá
 
-bpn3229 
+bpn3229 «[Afrikaans](../af/prayers/#bpn3229)» 
 
 ----
 
@@ -482,7 +481,7 @@ O God, my God! U sien hoe die swart donkerheid alle streke omhul, hoe alle lande
 
 -- Abdu'l-Bahá
 
-bpn3230 
+bpn3230 «[Afrikaans](../af/prayers/#bpn3230)» 
 
 ----
 
@@ -492,7 +491,7 @@ O U liefdevolle Here! Lof sy aan U dat U ons die hoofweg van leiding gewys het, 
 
 -- Abdu'l-Bahá
 
-bpn3231 
+bpn3231 «[Afrikaans](../af/prayers/#bpn3231)» 
 
 ----
 
@@ -502,7 +501,7 @@ O my God! O my God! U sien my in my nederigheid en swakheid, besig met die groot
 
 -- Abdu'l-Bahá
 
-bpn3232 
+bpn3232 «[Afrikaans](../af/prayers/#bpn3232)» 
 
 ----
 
@@ -512,7 +511,7 @@ O Here, my God! Lof en danksegging sy aan U want U het my na die hoofweg van die
 
 -- Abdu'l-Bahá
 
-bpn3233 
+bpn3233 «[Afrikaans](../af/prayers/#bpn3233)» 
 
 ----
 
@@ -522,7 +521,7 @@ O God! O God! Hierdie is &#39;n voël met &#39;n gebroke vlerk en sy vlug is bai
 
 -- Abdu'l-Bahá
 
-bpn3234 
+bpn3234 «[Afrikaans](../af/prayers/#bpn3234)» 
 
 ----
 
@@ -532,7 +531,7 @@ Lof sy aan U, o my God! Hierdie is U dienaars wat na die geure van U barmhartigh
 
 -- Abdu'l-Bahá
 
-bpn3235 
+bpn3235 «[Afrikaans](../af/prayers/#bpn3235)» 
 
 ----
 
@@ -542,7 +541,7 @@ O God, my God! U sien hierdie swak een om hemelse sterkte smeek, hierdie arm een
 
 -- Abdu'l-Bahá
 
-bpn3236 
+bpn3236 «[Afrikaans](../af/prayers/#bpn3236)» 
 
 ----
 
@@ -556,7 +555,7 @@ bpn3236
 
 -- Bahá'u'lláh
 
-bpn3239 
+bpn3239 «[Afrikaans](../af/prayers/#bpn3239)» 
 
 ----
 
@@ -566,7 +565,7 @@ Lof sy aan U, o Here my God! Ek smeek U by hierdie Openbaring waardeur duisterni
 
 -- Bahá'u'lláh
 
-bpn3240 
+bpn3240 «[Afrikaans](../af/prayers/#bpn3240)» 
 
 ----
 
@@ -576,7 +575,7 @@ Hierdie, o my Here, is die dae waarop U U dienaars gelas het om die vas te onder
 
 -- Bahá'u'lláh
 
-bpn3241 
+bpn3241 «[Afrikaans](../af/prayers/#bpn3241)» 
 
 ----
 
@@ -586,7 +585,7 @@ Roem sy aan U, o Here my God! Dit is die dae waarop U alle mense gebied het om d
 
 -- Bahá'u'lláh
 
-bpn3242 
+bpn3242 «[Afrikaans](../af/prayers/#bpn3242)» 
 
 ----
 
@@ -600,7 +599,7 @@ O my God! O my God! Verenig die harte van U dienaars en openbaar aan hulle U gro
 
 -- Bahá'u'lláh
 
-bpn3217 
+bpn3217 «[Afrikaans](../af/prayers/#bpn3217)» 
 
 ----
 
@@ -610,7 +609,7 @@ O my God! O my God! Voorwaar, ek roep aan en smeek U voor U drumpel, en vra U da
 
 -- Abdu'l-Bahá
 
-bpn3218 
+bpn3218 «[Afrikaans](../af/prayers/#bpn3218)» 
 
 ----
 
@@ -624,7 +623,7 @@ Skep in my &#39;n suiwer hart, o my God, en vernuwe in my &#39;n rustige gewete,
 
 -- Bahá'u'lláh
 
-bpn3187 
+bpn3187 «[Afrikaans](../af/prayers/#bpn3187)» 
 
 ----
 
@@ -634,7 +633,7 @@ Van die welriekende strome van U ewigheid, gee my te drink, o my God, en van die
 
 -- Bahá'u'lláh
 
-bpn3188 
+bpn3188 «[Afrikaans](../af/prayers/#bpn3188)» 
 
 ----
 
@@ -644,7 +643,7 @@ O my Here! Maak U prag my voedsel, en U teenwoordigheid my drank, en U welgevall
 
 -- Bahá'u'lláh
 
-bpn3189 
+bpn3189 «[Afrikaans](../af/prayers/#bpn3189)» 
 
 ----
 
@@ -654,7 +653,7 @@ O my God, die God van mildheid en genade! U is daardie Koning deur Wie se gebied
 
 -- Bahá'u'lláh
 
-bpn3190 
+bpn3190 «[Afrikaans](../af/prayers/#bpn3190)» 
 
 ----
 
@@ -664,7 +663,7 @@ Geloof sy U Naam, o Here my God! Ek is U dienaar wat die koord van U tere seëni
 
 -- Bahá'u'lláh
 
-bpn3191 
+bpn3191 «[Afrikaans](../af/prayers/#bpn3191)» 
 
 ----
 
@@ -674,7 +673,7 @@ Hy is die Barmhartige, die Almilddadige!O God, my God! U roepstem het my aangetr
 
 -- Bahá'u'lláh
 
-bpn3192 
+bpn3192 «[Afrikaans](../af/prayers/#bpn3192)» 
 
 ----
 
@@ -684,7 +683,7 @@ Hy is die gebed-horende, gebed-verhorende God!By U heerlikheid, o Beminde Een, U
 
 -- Bahá'u'lláh
 
-bpn3193 
+bpn3193 «[Afrikaans](../af/prayers/#bpn3193)» 
 
 ----
 
@@ -694,7 +693,7 @@ O God! Verkwik en verbly my gees. Reinig my hart. Verlig my vermoë. Ek lê al m
 
 -- Abdu'l-Bahá
 
-bpn3194 
+bpn3194 «[Afrikaans](../af/prayers/#bpn3194)» 
 
 ----
 
@@ -704,7 +703,7 @@ O my God! O my God! Heerlikheid sy aan U omdat U my aan die belydenis van U eenh
 
 -- Abdu'l-Bahá
 
-bpn3195 
+bpn3195 «[Afrikaans](../af/prayers/#bpn3195)» 
 
 ----
 
@@ -714,7 +713,7 @@ O my Here! O my Here! Hierdie is &#39;n lamp wat deur die vuur van U liefde aang
 
 -- Abdu'l-Bahá
 
-bpn3196 
+bpn3196 «[Afrikaans](../af/prayers/#bpn3196)» 
 
 ----
 
@@ -724,7 +723,7 @@ O my God! O my God! Hierdie dienaar van U het genader tot U, swerf geesdriftig i
 
 -- Abdu'l-Bahá
 
-bpn3197 
+bpn3197 «[Afrikaans](../af/prayers/#bpn3197)» 
 
 ----
 
@@ -734,7 +733,7 @@ Hy is God!O God, my God! Hierdie is dienaars aangetrek in U dae deur die geure v
 
 -- Abdu'l-Bahá
 
-bpn3198 
+bpn3198 «[Afrikaans](../af/prayers/#bpn3198)» 
 
 ----
 
@@ -748,7 +747,7 @@ bpn3198
 
 -- Abdu'l-Bahá
 
-bpn3237 
+bpn3237 «[Afrikaans](../af/prayers/#bpn3237)» 
 
 ----
 
@@ -758,7 +757,7 @@ bpn3237
 
 -- Abdu'l-Bahá
 
-bpn3238 
+bpn3238 «[Afrikaans](../af/prayers/#bpn3238)» 
 
 ----
 
@@ -772,7 +771,7 @@ O God, my God! Ek smeek U by die oseaan van U genesing, en by die luister van di
 
 -- Bahá'u'lláh
 
-bpn3153 
+bpn3153 «[Afrikaans](../af/prayers/#bpn3153)» 
 
 ----
 
@@ -782,7 +781,7 @@ U naam is my genesing, o my God, en aandenking aan U is my geneesmiddel. Nabyhei
 
 -- Bahá'u'lláh
 
-bpn3154 
+bpn3154 «[Afrikaans](../af/prayers/#bpn3154)» 
 
 ----
 
@@ -792,7 +791,7 @@ Geloof sy U, o Here my God! Ek smeek U by U Allergrootste Naam, waardeur U U die
 
 -- Bahá'u'lláh
 
-bpn3155 
+bpn3155 «[Afrikaans](../af/prayers/#bpn3155)» 
 
 ----
 
@@ -802,7 +801,7 @@ Glorie sy aan U, o Here my God! Ek smeek U by U Naam, waardeur U die vaandels va
 
 -- Bahá'u'lláh
 
-bpn3156 
+bpn3156 «[Afrikaans](../af/prayers/#bpn3156)» 
 
 ----
 
@@ -816,7 +815,7 @@ O God, lei my, beskerm my, verlig die lamp van my hart, en maak my &#39;n skitte
 
 -- Abdu'l-Bahá
 
-bpn3135 
+bpn3135 «[Afrikaans](../af/prayers/#bpn3135)» 
 
 ----
 
@@ -826,7 +825,7 @@ O U suiwere God! Ek is &#39;n klein kind; gee dat die bors van U vriendelike goe
 
 -- Abdu'l-Bahá
 
-bpn3136 
+bpn3136 «[Afrikaans](../af/prayers/#bpn3136)» 
 
 ----
 
@@ -836,7 +835,7 @@ O my Here! O my Here!Ek is &#39;n kind van teer jare. Voed my uit die bors van U
 
 -- Abdu'l-Bahá
 
-bpn3137 
+bpn3137 «[Afrikaans](../af/prayers/#bpn3137)» 
 
 ----
 
@@ -846,7 +845,7 @@ O God! Voed hierdie kinders op. Hierdie kinders is die plante van U boord, die b
 
 -- Abdu'l-Bahá
 
-bpn3138 
+bpn3138 «[Afrikaans](../af/prayers/#bpn3138)» 
 
 ----
 
@@ -856,7 +855,7 @@ O God! Maak hierdie klein Bába groot in die boesem van U liefde en gee dit melk
 
 -- Abdu'l-Bahá
 
-bpn3139 
+bpn3139 «[Afrikaans](../af/prayers/#bpn3139)» 
 
 ----
 
@@ -870,7 +869,7 @@ bpn3139
 
 -- Bahá'u'lláh
 
-bpn3221 
+bpn3221 «[Afrikaans](../af/prayers/#bpn3221)» 
 
 ----
 
@@ -884,7 +883,7 @@ bpn3221
 
 -- Bahá'u'lláh
 
-bpn3220 
+bpn3220 «[Afrikaans](../af/prayers/#bpn3220)» 
 
 ----
 
@@ -898,7 +897,7 @@ Verheerlik sy U Naam, o Here my God! U is Hy Wat alle dinge aanbid en Wat nieman
 
 -- Bahá'u'lláh
 
-bpn3169 
+bpn3169 «[Afrikaans](../af/prayers/#bpn3169)» 
 
 ----
 
@@ -908,7 +907,7 @@ Alle lof, o my God, sy aan U Wat die Bron van alle glorie en majesteit is, van g
 
 -- Bahá'u'lláh
 
-bpn3170 
+bpn3170 «[Afrikaans](../af/prayers/#bpn3170)» 
 
 ----
 
@@ -918,7 +917,7 @@ Verheerlik sy U, o Here my God! Ek gee U dank dat U my in staat gestel het om di
 
 -- Bahá'u'lláh
 
-bpn3171 
+bpn3171 «[Afrikaans](../af/prayers/#bpn3171)» 
 
 ----
 
@@ -928,7 +927,7 @@ In die Naam van God, die Allerhoogste! Verheerlik en geprys sy U, Here, God, die
 
 -- Bahá'u'lláh
 
-bpn3172 
+bpn3172 «[Afrikaans](../af/prayers/#bpn3172)» 
 
 ----
 
@@ -938,7 +937,7 @@ God getuig van die eenheid van Sy Godheid en van die enkelvoudigheid van Sy eie 
 
 -- Bahá'u'lláh
 
-bpn3173 
+bpn3173 «[Afrikaans](../af/prayers/#bpn3173)» 
 
 ----
 
@@ -952,7 +951,7 @@ bpn3173
 
 -- Bahá'u'lláh
 
-bpn3219 
+bpn3219 «[Afrikaans](../af/prayers/#bpn3219)» 
 
 ----
 
@@ -966,7 +965,7 @@ bpn3219
 
 -- Bahá'u'lláh
 
-bpn3243 
+bpn3243 «[Afrikaans](../af/prayers/#bpn3243)» 
 
 ----
 
@@ -980,7 +979,7 @@ Ek het onder U beskutting ontwaak, o my God, en dit pas hom wat daardie beskutti
 
 -- Bahá'u'lláh
 
-bpn3166 
+bpn3166 «[Afrikaans](../af/prayers/#bpn3166)» 
 
 ----
 
@@ -990,7 +989,7 @@ Ek het vanoggend deur U genade opgestaan, o my God, het my huis verlaat, vol ver
 
 -- Bahá'u'lláh
 
-bpn3167 
+bpn3167 «[Afrikaans](../af/prayers/#bpn3167)» 
 
 ----
 
@@ -1000,7 +999,7 @@ Ek gee lof aan U, o my God, dat U my uit my slaap wakker gemaak het, en my ná m
 
 -- Bahá'u'lláh
 
-bpn3168 
+bpn3168 «[Afrikaans](../af/prayers/#bpn3168)» 
 
 ----
 
@@ -1014,7 +1013,7 @@ Geloof sy Y, o Here my God! Ek smeek U, by U Naam wat niemand passend geëien he
 
 -- Bahá'u'lláh
 
-bpn3204 
+bpn3204 «[Afrikaans](../af/prayers/#bpn3204)» 
 
 ----
 
@@ -1024,7 +1023,7 @@ Lof sy aan U, o Here van die wêreld en die Begeerte van die nasies, o U Wat in 
 
 -- Bahá'u'lláh
 
-bpn3205 
+bpn3205 «[Afrikaans](../af/prayers/#bpn3205)» 
 
 ----
 
@@ -1034,7 +1033,7 @@ O God, Wat die Maker van alle Openbaarwordinge is, die Bron van alle Bronne, die
 
 -- Bahá'u'lláh
 
-bpn3206 
+bpn3206 «[Afrikaans](../af/prayers/#bpn3206)» 
 
 ----
 
@@ -1048,7 +1047,7 @@ O U Wie se nabyheid my wens is, Wie se teenwoordigheid my hoop is, Wie se aanden
 
 -- Bahá'u'lláh
 
-BH08604 «[English](../../en/prayers/#BH08604)» 
+BH08604 «[English](../en/prayers/#BH08604)» «[Afrikaans](../af/prayers/#BH08604)» 
 
 ----
 
@@ -1058,7 +1057,7 @@ O God, my God! Ek het met berou na U gekeer, en voorwaar U is die Vryspreker, di
 
 -- Bahá'u'lláh
 
-bpn3200 
+bpn3200 «[Afrikaans](../af/prayers/#bpn3200)» 
 
 ----
 
@@ -1068,7 +1067,7 @@ O Here my God! Help U geliefdes om onwankelbaar in U Geloof te wees, om in U we�
 
 -- Abdu'l-Bahá
 
-bpn3201 
+bpn3201 «[Afrikaans](../af/prayers/#bpn3201)» 
 
 ----
 
@@ -1078,7 +1077,7 @@ Maak ons voetstappe stewig, o Here, in U weg, en versterk U ons harte in gehoors
 
 -- Abdu'l-Bahá
 
-bpn3202 
+bpn3202 «[Afrikaans](../af/prayers/#bpn3202)» 
 
 ----
 
@@ -1088,7 +1087,7 @@ O medelydende God! Dank su aan U want U het my wakker en bewus gemaak. U het my 
 
 -- Abdu'l-Bahá
 
-bpn3203 
+bpn3203 «[Afrikaans](../af/prayers/#bpn3203)» 
 
 ----
 
@@ -1102,7 +1101,7 @@ Roem sy aan U, o Koning van die ewigheid, en die Maker van nasies, en die Vormer
 
 -- Bahá'u'lláh
 
-bpn3225 
+bpn3225 «[Afrikaans](../af/prayers/#bpn3225)» 
 
 ----
 
@@ -1112,7 +1111,7 @@ Hy is die Magtige, die Vryspreker, die Medelydende!O God, my God! U sien U diena
 
 -- Bahá'u'lláh
 
-bpn3226 
+bpn3226 «[Afrikaans](../af/prayers/#bpn3226)» 
 
 ----
 
@@ -1126,7 +1125,7 @@ Verdryf my leed deur U mildheid en U vrygewigheid, o God, my God, en verban my a
 
 -- Bahá'u'lláh
 
-bpn3207 
+bpn3207 «[Afrikaans](../af/prayers/#bpn3207)» 
 
 ----
 
@@ -1136,7 +1135,7 @@ Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebb
 
 -- Bahá'u'lláh
 
-BH05071 «[English](../../en/prayers/#BH05071)» 
+BH05071 «[English](../en/prayers/#BH05071)» «[Afrikaans](../af/prayers/#BH05071)» 
 
 ----
 
@@ -1146,7 +1145,7 @@ O U Wie se toetse &#39;n genesende medisyne is vir diegene wat naby U is, Wie se
 
 -- Bahá'u'lláh
 
-bpn3209 
+bpn3209 «[Afrikaans](../af/prayers/#bpn3209)» 
 
 ----
 
@@ -1156,7 +1155,7 @@ Lof sy aan U, o my God! Was dit nie vir die beproewinge at in U weg opgedoen wor
 
 -- Bahá'u'lláh
 
-bpn3210 
+bpn3210 «[Afrikaans](../af/prayers/#bpn3210)» 
 
 ----
 
@@ -1166,7 +1165,7 @@ Verheerlik word U, o Here my God! Elke mens van insig bely U oppermag en U heers
 
 -- Bahá'u'lláh
 
-bpn3211 
+bpn3211 «[Afrikaans](../af/prayers/#bpn3211)» 
 
 ----
 
@@ -1176,7 +1175,7 @@ Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is 
 
 -- Báb
 
-bpn3212 
+bpn3212 «[Afrikaans](../af/prayers/#bpn3212)» 
 
 ----
 
@@ -1186,7 +1185,7 @@ Sê: God is voldoende vir alles bo alles, en niks in die hemele of op aarde maar
 
 -- Báb
 
-bpn3213 
+bpn3213 «[Afrikaans](../af/prayers/#bpn3213)» 
 
 ----
 
@@ -1196,7 +1195,7 @@ Hy is die Medelydende, die Goedertierendste!O God, my God! U sien my, U ken my; 
 
 -- Abdu'l-Bahá
 
-bpn3214 
+bpn3214 «[Afrikaans](../af/prayers/#bpn3214)» 
 
 ----
 
@@ -1206,7 +1205,7 @@ O Here, my God en my Hawe in my nood! My Skild en my Skuilplek in my smarte! My 
 
 -- Abdu'l-Bahá
 
-bpn3215 
+bpn3215 «[Afrikaans](../af/prayers/#bpn3215)» 
 
 ----
 
@@ -1216,7 +1215,7 @@ O my Here, my Beminde, my Begeerte! Betoon vriendskap aan my in my eensaamheid e
 
 -- Abdu'l-Bahá
 
-bpn3216 
+bpn3216 «[Afrikaans](../af/prayers/#bpn3216)» 
 
 ----
 
@@ -1230,7 +1229,7 @@ O U barmhartige God! O U Wat magtig en kragtig is! O U die mees vriendelike Vade
 
 -- Abdu'l-Bahá
 
-bpn3162 
+bpn3162 «[Afrikaans](../af/prayers/#bpn3162)» 
 
 ----
 
@@ -1240,7 +1239,7 @@ O U vriendelike Here! Hierdie is U dienaars wat in hierdie vergadering bymekaar 
 
 -- Abdu'l-Bahá
 
-bpn3163 
+bpn3163 «[Afrikaans](../af/prayers/#bpn3163)» 
 
 ----
 
@@ -1250,7 +1249,7 @@ O my God! O my God! Voorwaar, hierdie dienaars keer na U toe, en smeek U koninkr
 
 -- Abdu'l-Bahá
 
-bpn3164 
+bpn3164 «[Afrikaans](../af/prayers/#bpn3164)» 
 
 ----
 
@@ -1260,7 +1259,7 @@ O U vergewende God! Hierdie dienaars wend hulle na U koninkryk, soekende na U ge
 
 -- Abdu'l-Bahá
 
-bpn3165 
+bpn3165 «[Afrikaans](../af/prayers/#bpn3165)» 
 
 ----
 
@@ -1274,7 +1273,7 @@ Verheerlik sy U, o Here my God! Ek smeek U by U Uitverkorenes, en by die Draers 
 
 -- Bahá'u'lláh
 
-bpn3148 
+bpn3148 «[Afrikaans](../af/prayers/#bpn3148)» 
 
 ----
 
@@ -1284,7 +1283,7 @@ Ek is hy, o me Here, wat sy aangesig teenoor U gerig het, en sy hoop op die wond
 
 -- Bahá'u'lláh
 
-bpn3149 
+bpn3149 «[Afrikaans](../af/prayers/#bpn3149)» 
 
 ----
 
@@ -1294,7 +1293,7 @@ U sien my, O my Here, met my aangesig na die hemel van U mildheid en na die osea
 
 -- Bahá'u'lláh
 
-bpn3150 
+bpn3150 «[Afrikaans](../af/prayers/#bpn3150)» 
 
 ----
 
@@ -1304,7 +1303,7 @@ Verheerlik sy U Naam, o my God en die God van alle dinge, my Glorie en die Glori
 
 -- Bahá'u'lláh
 
-bpn3151 
+bpn3151 «[Afrikaans](../af/prayers/#bpn3151)» 
 
 ----
 
@@ -1314,7 +1313,7 @@ O U vergewende Here! U is die skuilplek van al hierdie U diensknegte. U ken die 
 
 -- Abdu'l-Bahá
 
-bpn3152 
+bpn3152 «[Afrikaans](../af/prayers/#bpn3152)» 
 
 ----
 
@@ -1328,7 +1327,7 @@ Glorie sy aan U, o Here my God! Verneder nie hom wat U deur die krag van U ewigd
 
 -- Bahá'u'lláh
 
-bpn3142 
+bpn3142 «[Afrikaans](../af/prayers/#bpn3142)» 
 
 ----
 
@@ -1338,7 +1337,7 @@ Hy is God, verhewe is Hy, die Here van vriendelike goedheid en mildheid!Glorie s
 
 -- Bahá'u'lláh
 
-bpn3143 
+bpn3143 «[Afrikaans](../af/prayers/#bpn3143)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!Voo
 
 -- Abdu'l-Bahá
 
-bpn3144 
+bpn3144 «[Afrikaans](../af/prayers/#bpn3144)» 
 
 ----
 

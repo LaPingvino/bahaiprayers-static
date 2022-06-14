@@ -89,7 +89,6 @@ tags = ['lang=zh-Hans', 'prayerbook']
 
 [闰日祷文](#%E9%97%B0%E6%97%A5%E7%A5%B7%E6%96%87)
 
-[闰日祷文](#%E9%97%B0%E6%97%A5%E7%A5%B7%E6%96%87)
 
 
 <a id="%E4%B8%AD%E5%9B%BD"></a> 
@@ -100,7 +99,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn8671 
+bpn8671 «[简体中文](../zh-Hans/prayers/#bpn8671)» 
 
 ----
 
@@ -114,7 +113,7 @@ bpn8671
 
 -- Bahá'u'lláh
 
-bpn8496 
+bpn8496 «[简体中文](../zh-Hans/prayers/#bpn8496)» 
 
 ----
 
@@ -128,7 +127,7 @@ bpn8496
 
 -- Abdu'l-Bahá
 
-bpn8679 
+bpn8679 «[简体中文](../zh-Hans/prayers/#bpn8679)» 
 
 ----
 
@@ -142,7 +141,7 @@ bpn8679
 
 -- Bahá'u'lláh
 
-bpn8519 
+bpn8519 «[简体中文](../zh-Hans/prayers/#bpn8519)» 
 
 ----
 
@@ -152,7 +151,7 @@ bpn8519
 
 -- Bahá'u'lláh
 
-bpn8520 
+bpn8520 «[简体中文](../zh-Hans/prayers/#bpn8520)» 
 
 ----
 
@@ -162,7 +161,7 @@ bpn8520
 
 -- Bahá'u'lláh
 
-bpn8521 
+bpn8521 «[简体中文](../zh-Hans/prayers/#bpn8521)» 
 
 ----
 
@@ -172,7 +171,7 @@ bpn8521
 
 -- Abdu'l-Bahá
 
-bpn8524 
+bpn8524 «[简体中文](../zh-Hans/prayers/#bpn8524)» 
 
 ----
 
@@ -182,7 +181,7 @@ bpn8524
 
 -- Abdu'l-Bahá
 
-bpn8523 
+bpn8523 «[简体中文](../zh-Hans/prayers/#bpn8523)» 
 
 ----
 
@@ -192,7 +191,7 @@ bpn8523
 
 -- Abdu'l-Bahá
 
-bpn8522 
+bpn8522 «[简体中文](../zh-Hans/prayers/#bpn8522)» 
 
 ----
 
@@ -206,7 +205,7 @@ bpn8522
 
 -- Bahá'u'lláh
 
-bpn8569 
+bpn8569 «[简体中文](../zh-Hans/prayers/#bpn8569)» 
 
 ----
 
@@ -216,7 +215,7 @@ bpn8569
 
 -- Abdu'l-Bahá
 
-bpn8570 
+bpn8570 «[简体中文](../zh-Hans/prayers/#bpn8570)» 
 
 ----
 
@@ -226,7 +225,7 @@ bpn8570
 
 -- Abdu'l-Bahá
 
-bpn8571 
+bpn8571 «[简体中文](../zh-Hans/prayers/#bpn8571)» 
 
 ----
 
@@ -236,7 +235,7 @@ bpn8571
 
 -- Abdu'l-Bahá
 
-bpn8572 
+bpn8572 «[简体中文](../zh-Hans/prayers/#bpn8572)» 
 
 ----
 
@@ -246,7 +245,7 @@ bpn8572
 
 -- Abdu'l-Bahá
 
-bpn8573 
+bpn8573 «[简体中文](../zh-Hans/prayers/#bpn8573)» 
 
 ----
 
@@ -260,7 +259,7 @@ bpn8573
 
 -- Bahá'u'lláh
 
-bpn8633 
+bpn8633 «[简体中文](../zh-Hans/prayers/#bpn8633)» 
 
 ----
 
@@ -270,7 +269,7 @@ bpn8633
 
 -- Bahá'u'lláh
 
-bpn8634 
+bpn8634 «[简体中文](../zh-Hans/prayers/#bpn8634)» 
 
 ----
 
@@ -280,7 +279,7 @@ bpn8634
 
 -- Bahá'u'lláh
 
-bpn8635 
+bpn8635 «[简体中文](../zh-Hans/prayers/#bpn8635)» 
 
 ----
 
@@ -290,7 +289,7 @@ bpn8635
 
 -- Bahá'u'lláh
 
-bpn8636 
+bpn8636 «[简体中文](../zh-Hans/prayers/#bpn8636)» 
 
 ----
 
@@ -300,7 +299,7 @@ bpn8636
 
 -- Abdu'l-Bahá
 
-bpn8637 
+bpn8637 «[简体中文](../zh-Hans/prayers/#bpn8637)» 
 
 ----
 
@@ -310,7 +309,7 @@ bpn8637
 
 -- Abdu'l-Bahá
 
-bpn8638 
+bpn8638 «[简体中文](../zh-Hans/prayers/#bpn8638)» 
 
 ----
 
@@ -320,7 +319,7 @@ bpn8638
 
 -- Abdu'l-Bahá
 
-bpn8639 
+bpn8639 «[简体中文](../zh-Hans/prayers/#bpn8639)» 
 
 ----
 
@@ -330,7 +329,7 @@ bpn8639
 
 -- Abdu'l-Bahá
 
-bpn8640 
+bpn8640 «[简体中文](../zh-Hans/prayers/#bpn8640)» 
 
 ----
 
@@ -340,7 +339,7 @@ bpn8640
 
 -- Abdu'l-Bahá
 
-bpn8641 
+bpn8641 «[简体中文](../zh-Hans/prayers/#bpn8641)» 
 
 ----
 
@@ -350,7 +349,7 @@ bpn8641
 
 -- Abdu'l-Bahá
 
-bpn8642 
+bpn8642 «[简体中文](../zh-Hans/prayers/#bpn8642)» 
 
 ----
 
@@ -360,7 +359,7 @@ bpn8642
 
 -- Abdu'l-Bahá
 
-bpn8643 
+bpn8643 «[简体中文](../zh-Hans/prayers/#bpn8643)» 
 
 ----
 
@@ -370,7 +369,7 @@ bpn8643
 
 -- Abdu'l-Bahá
 
-bpn8644 
+bpn8644 «[简体中文](../zh-Hans/prayers/#bpn8644)» 
 
 ----
 
@@ -380,7 +379,7 @@ bpn8644
 
 -- Abdu'l-Bahá
 
-bpn8645 
+bpn8645 «[简体中文](../zh-Hans/prayers/#bpn8645)» 
 
 ----
 
@@ -390,7 +389,7 @@ bpn8645
 
 -- Abdu'l-Bahá
 
-bpn8646 
+bpn8646 «[简体中文](../zh-Hans/prayers/#bpn8646)» 
 
 ----
 
@@ -400,7 +399,7 @@ bpn8646
 
 -- Abdu'l-Bahá
 
-bpn8647 
+bpn8647 «[简体中文](../zh-Hans/prayers/#bpn8647)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn8647
 
 -- Abdu'l-Bahá
 
-bpn8648 
+bpn8648 «[简体中文](../zh-Hans/prayers/#bpn8648)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn8648
 
 -- Abdu'l-Bahá
 
-bpn8649 
+bpn8649 «[简体中文](../zh-Hans/prayers/#bpn8649)» 
 
 ----
 
@@ -434,7 +433,7 @@ bpn8649
 
 -- Bahá'u'lláh
 
-bpn8510 
+bpn8510 «[简体中文](../zh-Hans/prayers/#bpn8510)» 
 
 ----
 
@@ -444,7 +443,7 @@ bpn8510
 
 -- Abdu'l-Bahá
 
-bpn8511 
+bpn8511 «[简体中文](../zh-Hans/prayers/#bpn8511)» 
 
 ----
 
@@ -454,7 +453,7 @@ bpn8511
 
 -- Abdu'l-Bahá
 
-bpn8512 
+bpn8512 «[简体中文](../zh-Hans/prayers/#bpn8512)» 
 
 ----
 
@@ -464,7 +463,7 @@ bpn8512
 
 -- Abdu'l-Bahá
 
-bpn8513 
+bpn8513 «[简体中文](../zh-Hans/prayers/#bpn8513)» 
 
 ----
 
@@ -474,7 +473,7 @@ bpn8513
 
 -- Abdu'l-Bahá
 
-bpn8514 
+bpn8514 «[简体中文](../zh-Hans/prayers/#bpn8514)» 
 
 ----
 
@@ -484,7 +483,7 @@ bpn8514
 
 -- Abdu'l-Bahá
 
-bpn8515 
+bpn8515 «[简体中文](../zh-Hans/prayers/#bpn8515)» 
 
 ----
 
@@ -494,7 +493,7 @@ bpn8515
 
 -- Abdu'l-Bahá
 
-bpn8516 
+bpn8516 «[简体中文](../zh-Hans/prayers/#bpn8516)» 
 
 ----
 
@@ -504,7 +503,7 @@ bpn8516
 
 -- Abdu'l-Bahá
 
-bpn8517 
+bpn8517 «[简体中文](../zh-Hans/prayers/#bpn8517)» 
 
 ----
 
@@ -514,7 +513,7 @@ bpn8517
 
 -- Abdu'l-Bahá
 
-bpn8518 
+bpn8518 «[简体中文](../zh-Hans/prayers/#bpn8518)» 
 
 ----
 
@@ -524,7 +523,7 @@ bpn8518
 
 -- Abdu'l-Bahá
 
-bpn8742 
+bpn8742 «[简体中文](../zh-Hans/prayers/#bpn8742)» 
 
 ----
 
@@ -534,7 +533,7 @@ bpn8742
 
 -- Abdu'l-Bahá
 
-bpn8743 
+bpn8743 «[简体中文](../zh-Hans/prayers/#bpn8743)» 
 
 ----
 
@@ -544,7 +543,7 @@ bpn8743
 
 -- Abdu'l-Bahá
 
-bpn8744 
+bpn8744 «[简体中文](../zh-Hans/prayers/#bpn8744)» 
 
 ----
 
@@ -558,7 +557,7 @@ bpn8744
 
 -- Abdu'l-Bahá
 
-bpn8650 
+bpn8650 «[简体中文](../zh-Hans/prayers/#bpn8650)» 
 
 ----
 
@@ -572,7 +571,7 @@ bpn8650
 
 -- Bahá'u'lláh
 
-bpn8666 
+bpn8666 «[简体中文](../zh-Hans/prayers/#bpn8666)» 
 
 ----
 
@@ -586,7 +585,7 @@ bpn8666
 
 -- Bahá'u'lláh
 
-bpn8662 
+bpn8662 «[简体中文](../zh-Hans/prayers/#bpn8662)» 
 
 ----
 
@@ -596,7 +595,7 @@ bpn8662
 
 -- Abdu'l-Bahá
 
-bpn8663 
+bpn8663 «[简体中文](../zh-Hans/prayers/#bpn8663)» 
 
 ----
 
@@ -638,7 +637,7 @@ bpn8668 «[简体中文](../zh-Hans/prayers/#bpn8668)»
 
 -- Bahá'u'lláh
 
-bpn8596 
+bpn8596 «[简体中文](../zh-Hans/prayers/#bpn8596)» 
 
 ----
 
@@ -652,7 +651,7 @@ bpn8596
 
 -- Bahá'u'lláh
 
-bpn8655 
+bpn8655 «[简体中文](../zh-Hans/prayers/#bpn8655)» 
 
 ----
 
@@ -662,7 +661,7 @@ bpn8655
 
 -- Báb
 
-bpn8656 
+bpn8656 «[简体中文](../zh-Hans/prayers/#bpn8656)» 
 
 ----
 
@@ -672,7 +671,7 @@ bpn8656
 
 -- Báb
 
-bpn8657 
+bpn8657 «[简体中文](../zh-Hans/prayers/#bpn8657)» 
 
 ----
 
@@ -682,7 +681,7 @@ bpn8657
 
 -- Báb
 
-bpn8658 
+bpn8658 «[简体中文](../zh-Hans/prayers/#bpn8658)» 
 
 ----
 
@@ -692,7 +691,7 @@ bpn8658
 
 -- Báb
 
-bpn8659 
+bpn8659 «[简体中文](../zh-Hans/prayers/#bpn8659)» 
 
 ----
 
@@ -702,7 +701,7 @@ bpn8659
 
 -- Abdu'l-Bahá
 
-bpn8660 
+bpn8660 «[简体中文](../zh-Hans/prayers/#bpn8660)» 
 
 ----
 
@@ -712,7 +711,7 @@ bpn8660
 
 -- Abdu'l-Bahá
 
-bpn8661 
+bpn8661 «[简体中文](../zh-Hans/prayers/#bpn8661)» 
 
 ----
 
@@ -726,7 +725,7 @@ bpn8661
 
 -- Bahá'u'lláh
 
-bpn8625 
+bpn8625 «[简体中文](../zh-Hans/prayers/#bpn8625)» 
 
 ----
 
@@ -736,7 +735,7 @@ bpn8625
 
 -- Bahá'u'lláh
 
-bpn8626 
+bpn8626 «[简体中文](../zh-Hans/prayers/#bpn8626)» 
 
 ----
 
@@ -746,7 +745,7 @@ bpn8626
 
 -- Bahá'u'lláh
 
-bpn8627 
+bpn8627 «[简体中文](../zh-Hans/prayers/#bpn8627)» 
 
 ----
 
@@ -756,7 +755,7 @@ bpn8627
 
 -- Bahá'u'lláh
 
-bpn8628 
+bpn8628 «[简体中文](../zh-Hans/prayers/#bpn8628)» 
 
 ----
 
@@ -766,7 +765,7 @@ bpn8628
 
 -- Báb
 
-bpn8629 
+bpn8629 «[简体中文](../zh-Hans/prayers/#bpn8629)» 
 
 ----
 
@@ -776,7 +775,7 @@ bpn8629
 
 -- Báb
 
-bpn8630 
+bpn8630 «[简体中文](../zh-Hans/prayers/#bpn8630)» 
 
 ----
 
@@ -786,7 +785,7 @@ bpn8630
 
 -- Abdu'l-Bahá
 
-bpn8631 
+bpn8631 «[简体中文](../zh-Hans/prayers/#bpn8631)» 
 
 ----
 
@@ -796,7 +795,7 @@ bpn8631
 
 -- Abdu'l-Bahá
 
-bpn8632 
+bpn8632 «[简体中文](../zh-Hans/prayers/#bpn8632)» 
 
 ----
 
@@ -810,7 +809,7 @@ bpn8632
 
 -- Abdu'l-Bahá
 
-bpn8545 
+bpn8545 «[简体中文](../zh-Hans/prayers/#bpn8545)» 
 
 ----
 
@@ -820,7 +819,7 @@ bpn8545
 
 -- Abdu'l-Bahá
 
-bpn8546 
+bpn8546 «[简体中文](../zh-Hans/prayers/#bpn8546)» 
 
 ----
 
@@ -830,7 +829,7 @@ bpn8546
 
 -- Abdu'l-Bahá
 
-bpn8547 
+bpn8547 «[简体中文](../zh-Hans/prayers/#bpn8547)» 
 
 ----
 
@@ -840,7 +839,7 @@ bpn8547
 
 -- Abdu'l-Bahá
 
-bpn8548 
+bpn8548 «[简体中文](../zh-Hans/prayers/#bpn8548)» 
 
 ----
 
@@ -850,7 +849,7 @@ bpn8548
 
 -- Abdu'l-Bahá
 
-bpn8549 
+bpn8549 «[简体中文](../zh-Hans/prayers/#bpn8549)» 
 
 ----
 
@@ -864,7 +863,7 @@ bpn8549
 
 -- Abdu'l-Bahá
 
-bpn8561 
+bpn8561 «[简体中文](../zh-Hans/prayers/#bpn8561)» 
 
 ----
 
@@ -878,7 +877,7 @@ bpn8561
 
 -- Abdu'l-Bahá
 
-bpn8574 
+bpn8574 «[简体中文](../zh-Hans/prayers/#bpn8574)» 
 
 ----
 
@@ -888,7 +887,7 @@ bpn8574
 
 -- Abdu'l-Bahá
 
-bpn8575 
+bpn8575 «[简体中文](../zh-Hans/prayers/#bpn8575)» 
 
 ----
 
@@ -898,7 +897,7 @@ bpn8575
 
 -- Abdu'l-Bahá
 
-bpn8576 
+bpn8576 «[简体中文](../zh-Hans/prayers/#bpn8576)» 
 
 ----
 
@@ -908,7 +907,7 @@ bpn8576
 
 -- Abdu'l-Bahá
 
-bpn8577 
+bpn8577 «[简体中文](../zh-Hans/prayers/#bpn8577)» 
 
 ----
 
@@ -918,7 +917,7 @@ bpn8577
 
 -- Abdu'l-Bahá
 
-bpn8578 
+bpn8578 «[简体中文](../zh-Hans/prayers/#bpn8578)» 
 
 ----
 
@@ -932,7 +931,7 @@ bpn8578
 
 -- Bahá'u'lláh
 
-bpn8538 
+bpn8538 «[简体中文](../zh-Hans/prayers/#bpn8538)» 
 
 ----
 
@@ -942,7 +941,7 @@ bpn8538
 
 -- Báb
 
-bpn8539 
+bpn8539 «[简体中文](../zh-Hans/prayers/#bpn8539)» 
 
 ----
 
@@ -952,7 +951,7 @@ bpn8539
 
 -- Báb
 
-bpn8540 
+bpn8540 «[简体中文](../zh-Hans/prayers/#bpn8540)» 
 
 ----
 
@@ -962,7 +961,7 @@ bpn8540
 
 -- Báb
 
-bpn8541 
+bpn8541 «[简体中文](../zh-Hans/prayers/#bpn8541)» 
 
 ----
 
@@ -972,7 +971,7 @@ bpn8541
 
 -- Abdu'l-Bahá
 
-bpn8542 
+bpn8542 «[简体中文](../zh-Hans/prayers/#bpn8542)» 
 
 ----
 
@@ -982,7 +981,7 @@ bpn8542
 
 -- Abdu'l-Bahá
 
-bpn8543 
+bpn8543 «[简体中文](../zh-Hans/prayers/#bpn8543)» 
 
 ----
 
@@ -992,7 +991,7 @@ bpn8543
 
 -- Abdu'l-Bahá
 
-bpn8544 
+bpn8544 «[简体中文](../zh-Hans/prayers/#bpn8544)» 
 
 ----
 
@@ -1006,7 +1005,7 @@ bpn8544
 
 -- Bahá'u'lláh
 
-bpn8673 
+bpn8673 «[简体中文](../zh-Hans/prayers/#bpn8673)» 
 
 ----
 
@@ -1016,7 +1015,7 @@ bpn8673
 
 -- Bahá'u'lláh
 
-bpn8674 
+bpn8674 «[简体中文](../zh-Hans/prayers/#bpn8674)» 
 
 ----
 
@@ -1026,7 +1025,7 @@ bpn8674
 
 -- Bahá'u'lláh
 
-bpn8675 
+bpn8675 «[简体中文](../zh-Hans/prayers/#bpn8675)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ bpn8675
 
 -- Bahá'u'lláh
 
-bpn8676 
+bpn8676 «[简体中文](../zh-Hans/prayers/#bpn8676)» 
 
 ----
 
@@ -1046,7 +1045,7 @@ bpn8676
 
 -- Abdu'l-Bahá
 
-bpn8677 
+bpn8677 «[简体中文](../zh-Hans/prayers/#bpn8677)» 
 
 ----
 
@@ -1060,7 +1059,7 @@ bpn8677
 
 -- Bahá'u'lláh
 
-bpn8536 
+bpn8536 «[简体中文](../zh-Hans/prayers/#bpn8536)» 
 
 ----
 
@@ -1070,7 +1069,7 @@ bpn8536
 
 -- Bahá'u'lláh
 
-bpn8535 
+bpn8535 «[简体中文](../zh-Hans/prayers/#bpn8535)» 
 
 ----
 
@@ -1080,7 +1079,7 @@ bpn8535
 
 -- Abdu'l-Bahá
 
-bpn8537 
+bpn8537 «[简体中文](../zh-Hans/prayers/#bpn8537)» 
 
 ----
 
@@ -1094,7 +1093,7 @@ bpn8537
 
 -- Bahá'u'lláh
 
-bpn8586 
+bpn8586 «[简体中文](../zh-Hans/prayers/#bpn8586)» 
 
 ----
 
@@ -1104,7 +1103,7 @@ bpn8586
 
 -- Bahá'u'lláh
 
-bpn8587 
+bpn8587 «[简体中文](../zh-Hans/prayers/#bpn8587)» 
 
 ----
 
@@ -1114,7 +1113,7 @@ bpn8587
 
 -- Bahá'u'lláh
 
-bpn8588 
+bpn8588 «[简体中文](../zh-Hans/prayers/#bpn8588)» 
 
 ----
 
@@ -1124,7 +1123,7 @@ bpn8588
 
 -- Bahá'u'lláh
 
-bpn8589 
+bpn8589 «[简体中文](../zh-Hans/prayers/#bpn8589)» 
 
 ----
 
@@ -1138,7 +1137,7 @@ bpn8589
 
 -- Bahá'u'lláh
 
-bpn8669 
+bpn8669 «[简体中文](../zh-Hans/prayers/#bpn8669)» 
 
 ----
 
@@ -1148,7 +1147,7 @@ bpn8669
 
 -- Abdu'l-Bahá
 
-bpn8670 
+bpn8670 «[简体中文](../zh-Hans/prayers/#bpn8670)» 
 
 ----
 
@@ -1162,7 +1161,7 @@ bpn8670
 
 -- Bahá'u'lláh
 
-bpn8608 
+bpn8608 «[简体中文](../zh-Hans/prayers/#bpn8608)» 
 
 ----
 
@@ -1172,7 +1171,7 @@ bpn8608
 
 -- Bahá'u'lláh
 
-bpn8609 
+bpn8609 «[简体中文](../zh-Hans/prayers/#bpn8609)» 
 
 ----
 
@@ -1182,7 +1181,7 @@ bpn8609
 
 -- Bahá'u'lláh
 
-bpn8610 
+bpn8610 «[简体中文](../zh-Hans/prayers/#bpn8610)» 
 
 ----
 
@@ -1192,7 +1191,7 @@ bpn8610
 
 -- Bahá'u'lláh
 
-bpn8611 
+bpn8611 «[简体中文](../zh-Hans/prayers/#bpn8611)» 
 
 ----
 
@@ -1202,7 +1201,7 @@ bpn8611
 
 -- Bahá'u'lláh
 
-bpn8612 
+bpn8612 «[简体中文](../zh-Hans/prayers/#bpn8612)» 
 
 ----
 
@@ -1212,7 +1211,7 @@ bpn8612
 
 -- Bahá'u'lláh
 
-bpn8613 
+bpn8613 «[简体中文](../zh-Hans/prayers/#bpn8613)» 
 
 ----
 
@@ -1222,7 +1221,7 @@ bpn8613
 
 -- Bahá'u'lláh
 
-bpn8614 
+bpn8614 «[简体中文](../zh-Hans/prayers/#bpn8614)» 
 
 ----
 
@@ -1232,7 +1231,7 @@ bpn8614
 
 -- Bahá'u'lláh
 
-bpn8615 
+bpn8615 «[简体中文](../zh-Hans/prayers/#bpn8615)» 
 
 ----
 
@@ -1242,7 +1241,7 @@ bpn8615
 
 -- Báb
 
-bpn8616 
+bpn8616 «[简体中文](../zh-Hans/prayers/#bpn8616)» 
 
 ----
 
@@ -1252,7 +1251,7 @@ bpn8616
 
 -- Abdu'l-Bahá
 
-bpn8617 
+bpn8617 «[简体中文](../zh-Hans/prayers/#bpn8617)» 
 
 ----
 
@@ -1262,7 +1261,7 @@ bpn8617
 
 -- Abdu'l-Bahá
 
-bpn8618 
+bpn8618 «[简体中文](../zh-Hans/prayers/#bpn8618)» 
 
 ----
 
@@ -1272,7 +1271,7 @@ bpn8618
 
 -- Abdu'l-Bahá
 
-bpn8619 
+bpn8619 «[简体中文](../zh-Hans/prayers/#bpn8619)» 
 
 ----
 
@@ -1282,7 +1281,7 @@ bpn8619
 
 -- Abdu'l-Bahá
 
-bpn8620 
+bpn8620 «[简体中文](../zh-Hans/prayers/#bpn8620)» 
 
 ----
 
@@ -1292,7 +1291,7 @@ bpn8620
 
 -- Abdu'l-Bahá
 
-bpn8621 
+bpn8621 «[简体中文](../zh-Hans/prayers/#bpn8621)» 
 
 ----
 
@@ -1302,7 +1301,7 @@ bpn8621
 
 -- Abdu'l-Bahá
 
-bpn8622 
+bpn8622 «[简体中文](../zh-Hans/prayers/#bpn8622)» 
 
 ----
 
@@ -1312,7 +1311,7 @@ bpn8622
 
 -- Abdu'l-Bahá
 
-bpn8623 
+bpn8623 «[简体中文](../zh-Hans/prayers/#bpn8623)» 
 
 ----
 
@@ -1322,7 +1321,7 @@ bpn8623
 
 -- Abdu'l-Bahá
 
-bpn8624 
+bpn8624 «[简体中文](../zh-Hans/prayers/#bpn8624)» 
 
 ----
 
@@ -1336,7 +1335,7 @@ bpn8624
 
 -- Abdu'l-Bahá
 
-bpn8606 
+bpn8606 «[简体中文](../zh-Hans/prayers/#bpn8606)» 
 
 ----
 
@@ -1346,7 +1345,7 @@ bpn8606
 
 -- Abdu'l-Bahá
 
-bpn8607 
+bpn8607 «[简体中文](../zh-Hans/prayers/#bpn8607)» 
 
 ----
 
@@ -1360,7 +1359,7 @@ bpn8607
 
 -- Bahá'u'lláh
 
-bpn8495 
+bpn8495 «[简体中文](../zh-Hans/prayers/#bpn8495)» 
 
 ----
 
@@ -1374,7 +1373,7 @@ bpn8495
 
 -- Bahá'u'lláh
 
-bpn8562 
+bpn8562 «[简体中文](../zh-Hans/prayers/#bpn8562)» 
 
 ----
 
@@ -1384,7 +1383,7 @@ bpn8562
 
 -- Bahá'u'lláh
 
-bpn8563 
+bpn8563 «[简体中文](../zh-Hans/prayers/#bpn8563)» 
 
 ----
 
@@ -1394,7 +1393,7 @@ bpn8563
 
 -- Bahá'u'lláh
 
-bpn8564 
+bpn8564 «[简体中文](../zh-Hans/prayers/#bpn8564)» 
 
 ----
 
@@ -1404,7 +1403,7 @@ bpn8564
 
 -- Bahá'u'lláh
 
-bpn8565 
+bpn8565 «[简体中文](../zh-Hans/prayers/#bpn8565)» 
 
 ----
 
@@ -1414,7 +1413,7 @@ bpn8565
 
 -- Bahá'u'lláh
 
-bpn8566 
+bpn8566 «[简体中文](../zh-Hans/prayers/#bpn8566)» 
 
 ----
 
@@ -1424,7 +1423,7 @@ bpn8566
 
 -- Bahá'u'lláh
 
-bpn8567 
+bpn8567 «[简体中文](../zh-Hans/prayers/#bpn8567)» 
 
 ----
 
@@ -1438,7 +1437,7 @@ bpn8567
 
 -- Bahá'u'lláh
 
-bpn8550 
+bpn8550 «[简体中文](../zh-Hans/prayers/#bpn8550)» 
 
 ----
 
@@ -1448,7 +1447,7 @@ bpn8550
 
 -- Bahá'u'lláh
 
-bpn8551 
+bpn8551 «[简体中文](../zh-Hans/prayers/#bpn8551)» 
 
 ----
 
@@ -1458,7 +1457,7 @@ bpn8551
 
 -- Bahá'u'lláh
 
-bpn8552 
+bpn8552 «[简体中文](../zh-Hans/prayers/#bpn8552)» 
 
 ----
 
@@ -1468,7 +1467,7 @@ bpn8552
 
 -- Bahá'u'lláh
 
-bpn8553 
+bpn8553 «[简体中文](../zh-Hans/prayers/#bpn8553)» 
 
 ----
 
@@ -1478,7 +1477,7 @@ bpn8553
 
 -- Bahá'u'lláh
 
-bpn8554 
+bpn8554 «[简体中文](../zh-Hans/prayers/#bpn8554)» 
 
 ----
 
@@ -1488,7 +1487,7 @@ bpn8554
 
 -- Báb
 
-bpn8555 
+bpn8555 «[简体中文](../zh-Hans/prayers/#bpn8555)» 
 
 ----
 
@@ -1498,7 +1497,7 @@ bpn8555
 
 -- Báb
 
-bpn8556 
+bpn8556 «[简体中文](../zh-Hans/prayers/#bpn8556)» 
 
 ----
 
@@ -1508,7 +1507,7 @@ bpn8556
 
 -- Báb
 
-bpn8557 
+bpn8557 «[简体中文](../zh-Hans/prayers/#bpn8557)» 
 
 ----
 
@@ -1518,7 +1517,7 @@ bpn8557
 
 -- Báb
 
-bpn8558 
+bpn8558 «[简体中文](../zh-Hans/prayers/#bpn8558)» 
 
 ----
 
@@ -1528,7 +1527,7 @@ bpn8558
 
 -- Báb
 
-bpn8559 
+bpn8559 «[简体中文](../zh-Hans/prayers/#bpn8559)» 
 
 ----
 
@@ -1538,7 +1537,7 @@ bpn8559
 
 -- Abdu'l-Bahá
 
-bpn8560 
+bpn8560 «[简体中文](../zh-Hans/prayers/#bpn8560)» 
 
 ----
 
@@ -1552,7 +1551,7 @@ bpn8560
 
 -- Bahá'u'lláh
 
-bpn8597 
+bpn8597 «[简体中文](../zh-Hans/prayers/#bpn8597)» 
 
 ----
 
@@ -1562,7 +1561,7 @@ bpn8597
 
 -- Bahá'u'lláh
 
-bpn8598 
+bpn8598 «[简体中文](../zh-Hans/prayers/#bpn8598)» 
 
 ----
 
@@ -1572,7 +1571,7 @@ bpn8598
 
 -- Bahá'u'lláh
 
-bpn8599 
+bpn8599 «[简体中文](../zh-Hans/prayers/#bpn8599)» 
 
 ----
 
@@ -1582,7 +1581,7 @@ bpn8599
 
 -- Bahá'u'lláh
 
-bpn8600 
+bpn8600 «[简体中文](../zh-Hans/prayers/#bpn8600)» 
 
 ----
 
@@ -1592,7 +1591,7 @@ bpn8600
 
 -- Báb
 
-bpn8601 
+bpn8601 «[简体中文](../zh-Hans/prayers/#bpn8601)» 
 
 ----
 
@@ -1602,7 +1601,7 @@ bpn8601
 
 -- Báb
 
-bpn8602 
+bpn8602 «[简体中文](../zh-Hans/prayers/#bpn8602)» 
 
 ----
 
@@ -1612,7 +1611,7 @@ bpn8602
 
 -- Báb
 
-bpn8603 
+bpn8603 «[简体中文](../zh-Hans/prayers/#bpn8603)» 
 
 ----
 
@@ -1622,7 +1621,7 @@ bpn8603
 
 -- Abdu'l-Bahá
 
-bpn8604 
+bpn8604 «[简体中文](../zh-Hans/prayers/#bpn8604)» 
 
 ----
 
@@ -1632,7 +1631,7 @@ bpn8604
 
 -- Abdu'l-Bahá
 
-bpn8605 
+bpn8605 «[简体中文](../zh-Hans/prayers/#bpn8605)» 
 
 ----
 
@@ -1646,7 +1645,7 @@ bpn8605
 
 -- Bahá'u'lláh
 
-bpn8493 
+bpn8493 «[简体中文](../zh-Hans/prayers/#bpn8493)» 
 
 ----
 
@@ -1656,7 +1655,7 @@ bpn8493
 
 -- Bahá'u'lláh
 
-bpn8494 
+bpn8494 «[简体中文](../zh-Hans/prayers/#bpn8494)» 
 
 ----
 
@@ -1666,7 +1665,7 @@ bpn8494
 
 -- Báb
 
-bpn8497 
+bpn8497 «[简体中文](../zh-Hans/prayers/#bpn8497)» 
 
 ----
 
@@ -1676,7 +1675,7 @@ bpn8497
 
 -- Báb
 
-bpn8498 
+bpn8498 «[简体中文](../zh-Hans/prayers/#bpn8498)» 
 
 ----
 
@@ -1686,7 +1685,7 @@ bpn8498
 
 -- Abdu'l-Bahá
 
-bpn8499 
+bpn8499 «[简体中文](../zh-Hans/prayers/#bpn8499)» 
 
 ----
 
@@ -1696,7 +1695,7 @@ bpn8499
 
 -- Abdu'l-Bahá
 
-bpn8500 
+bpn8500 «[简体中文](../zh-Hans/prayers/#bpn8500)» 
 
 ----
 
@@ -1706,7 +1705,7 @@ bpn8500
 
 -- Abdu'l-Bahá
 
-bpn8501 
+bpn8501 «[简体中文](../zh-Hans/prayers/#bpn8501)» 
 
 ----
 
@@ -1720,7 +1719,7 @@ bpn8501
 
 -- Bahá'u'lláh
 
-bpn8579 
+bpn8579 «[简体中文](../zh-Hans/prayers/#bpn8579)» 
 
 ----
 
@@ -1730,7 +1729,7 @@ bpn8579
 
 -- Abdu'l-Bahá
 
-bpn8580 
+bpn8580 «[简体中文](../zh-Hans/prayers/#bpn8580)» 
 
 ----
 
@@ -1740,7 +1739,7 @@ bpn8580
 
 -- Abdu'l-Bahá
 
-bpn8581 
+bpn8581 «[简体中文](../zh-Hans/prayers/#bpn8581)» 
 
 ----
 
@@ -1750,7 +1749,7 @@ bpn8581
 
 -- Abdu'l-Bahá
 
-bpn8582 
+bpn8582 «[简体中文](../zh-Hans/prayers/#bpn8582)» 
 
 ----
 
@@ -1760,7 +1759,7 @@ bpn8582
 
 -- Abdu'l-Bahá
 
-bpn8583 
+bpn8583 «[简体中文](../zh-Hans/prayers/#bpn8583)» 
 
 ----
 
@@ -1770,7 +1769,7 @@ bpn8583
 
 -- Abdu'l-Bahá
 
-bpn8584 
+bpn8584 «[简体中文](../zh-Hans/prayers/#bpn8584)» 
 
 ----
 
@@ -1780,7 +1779,7 @@ bpn8584
 
 -- Abdu'l-Bahá
 
-bpn8585 
+bpn8585 «[简体中文](../zh-Hans/prayers/#bpn8585)» 
 
 ----
 
@@ -1794,7 +1793,7 @@ bpn8585
 
 -- Bahá'u'lláh
 
-bpn8664 
+bpn8664 «[简体中文](../zh-Hans/prayers/#bpn8664)» 
 
 ----
 
@@ -1808,7 +1807,7 @@ bpn8664
 
 -- Abdu'l-Bahá
 
-bpn8680 
+bpn8680 «[简体中文](../zh-Hans/prayers/#bpn8680)» 
 
 ----
 
@@ -1822,7 +1821,7 @@ bpn8680
 
 -- Bahá'u'lláh
 
-bpn8651 
+bpn8651 «[简体中文](../zh-Hans/prayers/#bpn8651)» 
 
 ----
 
@@ -1832,7 +1831,7 @@ bpn8651
 
 -- Bahá'u'lláh
 
-bpn8652 
+bpn8652 «[简体中文](../zh-Hans/prayers/#bpn8652)» 
 
 ----
 
@@ -1842,7 +1841,7 @@ bpn8652
 
 -- Bahá'u'lláh
 
-bpn8653 
+bpn8653 «[简体中文](../zh-Hans/prayers/#bpn8653)» 
 
 ----
 
@@ -1852,7 +1851,7 @@ bpn8653
 
 -- Báb
 
-bpn8654 
+bpn8654 «[简体中文](../zh-Hans/prayers/#bpn8654)» 
 
 ----
 
@@ -1866,7 +1865,7 @@ bpn8654
 
 -- Bahá'u'lláh
 
-bpn8502 
+bpn8502 «[简体中文](../zh-Hans/prayers/#bpn8502)» 
 
 ----
 
@@ -1876,7 +1875,7 @@ bpn8502
 
 -- Bahá'u'lláh
 
-bpn8503 
+bpn8503 «[简体中文](../zh-Hans/prayers/#bpn8503)» 
 
 ----
 
@@ -1886,7 +1885,7 @@ bpn8503
 
 -- Báb
 
-bpn8504 
+bpn8504 «[简体中文](../zh-Hans/prayers/#bpn8504)» 
 
 ----
 
@@ -1896,7 +1895,7 @@ bpn8504
 
 -- Báb
 
-bpn8505 
+bpn8505 «[简体中文](../zh-Hans/prayers/#bpn8505)» 
 
 ----
 
@@ -1906,7 +1905,7 @@ bpn8505
 
 -- Báb
 
-bpn8506 
+bpn8506 «[简体中文](../zh-Hans/prayers/#bpn8506)» 
 
 ----
 
@@ -1916,7 +1915,7 @@ bpn8506
 
 -- Báb
 
-bpn8741 
+bpn8741 «[简体中文](../zh-Hans/prayers/#bpn8741)» 
 
 ----
 
@@ -1926,7 +1925,7 @@ bpn8741
 
 -- Abdu'l-Bahá
 
-bpn8507 
+bpn8507 «[简体中文](../zh-Hans/prayers/#bpn8507)» 
 
 ----
 
@@ -1936,7 +1935,7 @@ bpn8507
 
 -- Abdu'l-Bahá
 
-bpn8508 
+bpn8508 «[简体中文](../zh-Hans/prayers/#bpn8508)» 
 
 ----
 
@@ -1946,7 +1945,7 @@ bpn8508
 
 -- Abdu'l-Bahá
 
-bpn8509 
+bpn8509 «[简体中文](../zh-Hans/prayers/#bpn8509)» 
 
 ----
 
@@ -1960,7 +1959,7 @@ bpn8509
 
 -- Bahá'u'lláh
 
-bpn8678 
+bpn8678 «[简体中文](../zh-Hans/prayers/#bpn8678)» 
 
 ----
 
@@ -1974,7 +1973,7 @@ bpn8678
 
 -- Bahá'u'lláh
 
-bpn8590 
+bpn8590 «[简体中文](../zh-Hans/prayers/#bpn8590)» 
 
 ----
 
@@ -1984,7 +1983,7 @@ bpn8590
 
 -- Bahá'u'lláh
 
-bpn8591 
+bpn8591 «[简体中文](../zh-Hans/prayers/#bpn8591)» 
 
 ----
 
@@ -1994,7 +1993,7 @@ bpn8591
 
 -- Bahá'u'lláh
 
-bpn8592 
+bpn8592 «[简体中文](../zh-Hans/prayers/#bpn8592)» 
 
 ----
 
@@ -2004,7 +2003,7 @@ bpn8592
 
 -- Bahá'u'lláh
 
-bpn8593 
+bpn8593 «[简体中文](../zh-Hans/prayers/#bpn8593)» 
 
 ----
 
@@ -2014,7 +2013,7 @@ bpn8593
 
 -- Bahá'u'lláh
 
-bpn8594 
+bpn8594 «[简体中文](../zh-Hans/prayers/#bpn8594)» 
 
 ----
 
@@ -2024,7 +2023,7 @@ bpn8594
 
 -- Báb
 
-bpn8595 
+bpn8595 «[简体中文](../zh-Hans/prayers/#bpn8595)» 
 
 ----
 
@@ -2038,7 +2037,7 @@ bpn8595
 
 -- Bahá'u'lláh
 
-bpn8525 
+bpn8525 «[简体中文](../zh-Hans/prayers/#bpn8525)» 
 
 ----
 
@@ -2048,7 +2047,7 @@ bpn8525
 
 -- Bahá'u'lláh
 
-bpn8526 
+bpn8526 «[简体中文](../zh-Hans/prayers/#bpn8526)» 
 
 ----
 
@@ -2058,7 +2057,7 @@ bpn8526
 
 -- Bahá'u'lláh
 
-bpn8527 
+bpn8527 «[简体中文](../zh-Hans/prayers/#bpn8527)» 
 
 ----
 
@@ -2068,7 +2067,7 @@ bpn8527
 
 -- Bahá'u'lláh
 
-bpn8528 
+bpn8528 «[简体中文](../zh-Hans/prayers/#bpn8528)» 
 
 ----
 
@@ -2078,7 +2077,7 @@ bpn8528
 
 -- Bahá'u'lláh
 
-bpn8529 
+bpn8529 «[简体中文](../zh-Hans/prayers/#bpn8529)» 
 
 ----
 
@@ -2088,7 +2087,7 @@ bpn8529
 
 -- Bahá'u'lláh
 
-bpn8530 
+bpn8530 «[简体中文](../zh-Hans/prayers/#bpn8530)» 
 
 ----
 
@@ -2098,7 +2097,7 @@ bpn8530
 
 -- Báb
 
-bpn8531 
+bpn8531 «[简体中文](../zh-Hans/prayers/#bpn8531)» 
 
 ----
 
@@ -2108,7 +2107,7 @@ bpn8531
 
 -- Báb
 
-bpn8532 
+bpn8532 «[简体中文](../zh-Hans/prayers/#bpn8532)» 
 
 ----
 
@@ -2118,7 +2117,7 @@ bpn8532
 
 -- Abdu'l-Bahá
 
-bpn8533 
+bpn8533 «[简体中文](../zh-Hans/prayers/#bpn8533)» 
 
 ----
 
@@ -2128,7 +2127,7 @@ bpn8533
 
 -- Abdu'l-Bahá
 
-bpn8534 
+bpn8534 «[简体中文](../zh-Hans/prayers/#bpn8534)» 
 
 ----
 
@@ -2142,7 +2141,7 @@ bpn8534
 
 -- Bahá'u'lláh
 
-bpn8667 
+bpn8667 «[简体中文](../zh-Hans/prayers/#bpn8667)» 
 
 ----
 
@@ -2184,7 +2183,7 @@ bpn8492 «[简体中文](../zh-Hans/prayers/#bpn8492)»
 
 -- Bahá'u'lláh
 
-bpn8672 
+bpn8672 «[简体中文](../zh-Hans/prayers/#bpn8672)» 
 
 ----
 

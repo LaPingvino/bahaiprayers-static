@@ -87,7 +87,7 @@ I Guds Navn, Den Allerældste, Den Største.*I sandhed, de oprigtiges hjerter fo
 
 -- Bahá'u'lláh
 
-bpn8148 
+bpn8148 «[Dansk](../da/prayers/#bpn8148)» 
 
 ----
 
@@ -101,7 +101,7 @@ O min Gud, min Mester, Målet for min længsel! Denne Din tjener søger at sove 
 
 -- Bahá'u'lláh
 
-bpn8006 
+bpn8006 «[Dansk](../da/prayers/#bpn8006)» 
 
 ----
 
@@ -111,7 +111,7 @@ Hvordan kan jeg vælge at sove, o Gud, min Gud, når de, der længes efter Dig, 
 
 -- Bahá'u'lláh
 
-bpn8007 
+bpn8007 «[Dansk](../da/prayers/#bpn8007)» 
 
 ----
 
@@ -121,7 +121,7 @@ O du sandhedssøgende! Hvis du ønsker, at Gud skal åbne dine øjne, må du anr
 
 -- Abdu'l-Bahá
 
-bpn8008 
+bpn8008 «[Dansk](../da/prayers/#bpn8008)» 
 
 ----
 
@@ -135,7 +135,7 @@ Lovet være Du, o Herre min Gud! Du ser og ved, at jeg har opfordret Dine tjener
 
 -- Bahá'u'lláh
 
-bpn8009 
+bpn8009 «[Dansk](../da/prayers/#bpn8009)» 
 
 ----
 
@@ -145,7 +145,7 @@ Lovpriset være Du, o Herre min Gud! Dette er Din tjener, der af Din nådes hæn
 
 -- Bahá'u'lláh
 
-bpn8010 
+bpn8010 «[Dansk](../da/prayers/#bpn8010)» 
 
 ----
 
@@ -155,7 +155,7 @@ Priset være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Dit navn, hvorved
 
 -- Bahá'u'lláh
 
-bpn8011 
+bpn8011 «[Dansk](../da/prayers/#bpn8011)» 
 
 ----
 
@@ -165,7 +165,7 @@ O Gud, min Gud! Jeg har begivet mig bort fra mit hjem, medens jeg holder fast ve
 
 -- Bahá'u'lláh
 
-bpn8012 
+bpn8012 «[Dansk](../da/prayers/#bpn8012)» 
 
 ----
 
@@ -175,7 +175,7 @@ Bestem for mig, O min Herre, og for dem der tror på Dig det, der synes bedst fo
 
 -- Báb
 
-bpn8013 
+bpn8013 «[Dansk](../da/prayers/#bpn8013)» 
 
 ----
 
@@ -185,7 +185,7 @@ bpn8013
 
 -- Báb
 
-bpn8014 
+bpn8014 «[Dansk](../da/prayers/#bpn8014)» 
 
 ----
 
@@ -195,7 +195,7 @@ I Guds Navn, Herren af overvældende majestæt, Den Almagtsfulde.Helliget være 
 
 -- Báb
 
-bpn8015 
+bpn8015 «[Dansk](../da/prayers/#bpn8015)» 
 
 ----
 
@@ -205,7 +205,7 @@ O Gud, min Gud! Værn Dine betroede tjenere mod selvets og lidenskabens onder, b
 
 -- Abdu'l-Bahá
 
-bpn8029 
+bpn8029 «[Dansk](../da/prayers/#bpn8029)» 
 
 ----
 
@@ -215,7 +215,7 @@ O min Herre! Du ved, at folket er indkredset af smerte og ulykker og omgivet af 
 
 -- Abdu'l-Bahá
 
-bpn8030 
+bpn8030 «[Dansk](../da/prayers/#bpn8030)» 
 
 ----
 
@@ -229,7 +229,7 @@ bpn8030
 
 -- Bahá'u'lláh
 
-bpn8150 
+bpn8150 «[Dansk](../da/prayers/#bpn8150)» 
 
 ----
 
@@ -239,7 +239,7 @@ Denne bøn, åbenbaret af ’Abdu’l-Bahá læses ved hans gravmæle. Den benyt
 
 -- Abdu'l-Bahá
 
-bpn8151 
+bpn8151 «[Dansk](../da/prayers/#bpn8151)» 
 
 ----
 
@@ -253,7 +253,7 @@ bpn8151
 
 -- Bahá'u'lláh
 
-bpn8149 
+bpn8149 «[Dansk](../da/prayers/#bpn8149)» 
 
 ----
 
@@ -267,7 +267,7 @@ O Du uforlignelige Gud! O Du Kongerigets Herre! Disse sjæle er Din himmelske h�
 
 -- Abdu'l-Bahá
 
-bpn8154 
+bpn8154 «[Dansk](../da/prayers/#bpn8154)» 
 
 ----
 
@@ -277,7 +277,7 @@ Den der begiver sig ud på en undervisningsrejse til et hvilket som helst sted s
 
 -- Abdu'l-Bahá
 
-bpn8155 
+bpn8155 «[Dansk](../da/prayers/#bpn8155)» 
 
 ----
 
@@ -287,7 +287,7 @@ Lad enhver, der rejser i forskellige egne for at undervise læse denne bøn over
 
 -- Abdu'l-Bahá
 
-bpn8156 
+bpn8156 «[Dansk](../da/prayers/#bpn8156)» 
 
 ----
 
@@ -297,7 +297,7 @@ O Gud, min Gud! Du ser, hvordan tæt mørke indhyller alle egne, hvordan alle la
 
 -- Abdu'l-Bahá
 
-bpn8157 
+bpn8157 «[Dansk](../da/prayers/#bpn8157)» 
 
 ----
 
@@ -307,7 +307,7 @@ Den følgende bøn skal læsesdagligt af lærerne og vennerne.O Du gode Herre! P
 
 -- Abdu'l-Bahá
 
-bpn8158 
+bpn8158 «[Dansk](../da/prayers/#bpn8158)» 
 
 ----
 
@@ -317,7 +317,7 @@ Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget
 
 -- Abdu'l-Bahá
 
-bpn8159 
+bpn8159 «[Dansk](../da/prayers/#bpn8159)» 
 
 ----
 
@@ -327,7 +327,7 @@ Lad dem, der spreder Guds vellugte, fremsige denne bøn hver morgen.O Herre, min
 
 -- Abdu'l-Bahá
 
-bpn8160 
+bpn8160 «[Dansk](../da/prayers/#bpn8160)» 
 
 ----
 
@@ -337,7 +337,7 @@ Den følgende bøn skal læses... hver dag.O Gud! O Gud! Dette er en vingeskudt 
 
 -- Abdu'l-Bahá
 
-bpn8161 
+bpn8161 «[Dansk](../da/prayers/#bpn8161)» 
 
 ----
 
@@ -347,7 +347,7 @@ Priset være Du, o min Gud! Disse er Dine tjenere, der er tiltrukket af Din barm
 
 -- Abdu'l-Bahá
 
-bpn8162 
+bpn8162 «[Dansk](../da/prayers/#bpn8162)» 
 
 ----
 
@@ -357,7 +357,7 @@ De, der spreder Guds dufte, skal fremsige denne bøn hver morgen.O Gud, min Gud!
 
 -- Abdu'l-Bahá
 
-bpn8163 
+bpn8163 «[Dansk](../da/prayers/#bpn8163)» 
 
 ----
 
@@ -371,7 +371,7 @@ Lovet være Du, o Herre min Gud! Giv nådigt at dette spæde barn må få nærin
 
 -- Bahá'u'lláh
 
-bpn8031 
+bpn8031 «[Dansk](../da/prayers/#bpn8031)» 
 
 ----
 
@@ -381,7 +381,7 @@ O Du uforlignelige Herre! Lad dette spæde barn blive næret ved Din kærlige om
 
 -- Abdu'l-Bahá
 
-bpn8032 
+bpn8032 «[Dansk](../da/prayers/#bpn8032)» 
 
 ----
 
@@ -391,7 +391,7 @@ O Gud! Lad dette lille barn blive opfostret i Din kærligheds favn og giv det m�
 
 -- Abdu'l-Bahá
 
-bpn8033 
+bpn8033 «[Dansk](../da/prayers/#bpn8033)» 
 
 ----
 
@@ -401,7 +401,7 @@ O Gud! Oplær disse børn. Disse børn er planterne i Din frugthave, blomsterne 
 
 -- Abdu'l-Bahá
 
-bpn8034 
+bpn8034 «[Dansk](../da/prayers/#bpn8034)» 
 
 ----
 
@@ -411,7 +411,7 @@ O Du gode Herre! Disse dejlige børn er hvad Din krafts hænder har formet og de
 
 -- Abdu'l-Bahá
 
-bpn8035 
+bpn8035 «[Dansk](../da/prayers/#bpn8035)» 
 
 ----
 
@@ -421,7 +421,7 @@ O Herre! Gør disse børn til udsøgte planter. Lad dem vokse og udvikle sig i D
 
 -- Abdu'l-Bahá
 
-bpn8036 
+bpn8036 «[Dansk](../da/prayers/#bpn8036)» 
 
 ----
 
@@ -431,7 +431,7 @@ O Gud, led mig, beskyt mig, gør mig til en lysende lampe og en tindrende stjern
 
 -- Abdu'l-Bahá
 
-bpn8037 
+bpn8037 «[Dansk](../da/prayers/#bpn8037)» 
 
 ----
 
@@ -441,7 +441,7 @@ O min Herre, o min Herre!Jeg er et barn i den spæde alder. Giv mig næring fra 
 
 -- Abdu'l-Bahá
 
-bpn8038 
+bpn8038 «[Dansk](../da/prayers/#bpn8038)» 
 
 ----
 
@@ -451,7 +451,7 @@ O Uforlignelige Herre! Vær du et ly for dette arme barn og en god og tilgivende
 
 -- Abdu'l-Bahá
 
-bpn8039 
+bpn8039 «[Dansk](../da/prayers/#bpn8039)» 
 
 ----
 
@@ -461,7 +461,7 @@ O Herre! Gør dette unge menneske strålende og skænk Din gavmildhed til denne 
 
 -- Abdu'l-Bahá
 
-bpn8040 
+bpn8040 «[Dansk](../da/prayers/#bpn8040)» 
 
 ----
 
@@ -475,7 +475,7 @@ bpn8040
 
 -- Bahá'u'lláh
 
-bpn8041 
+bpn8041 «[Dansk](../da/prayers/#bpn8041)» 
 
 ----
 
@@ -485,7 +485,7 @@ Han er Gud, ophøjet er Han, kærlig omsorgs og gavmildheds Herre!Ære være Dig
 
 -- Bahá'u'lláh
 
-bpn8042 
+bpn8042 «[Dansk](../da/prayers/#bpn8042)» 
 
 ----
 
@@ -495,7 +495,7 @@ O min Gud! O Du der tilgiver synder, skænker gaver, fjerner lidelser! I sandhed
 
 -- Abdu'l-Bahá
 
-bpn8043 
+bpn8043 «[Dansk](../da/prayers/#bpn8043)» 
 
 ----
 
@@ -505,7 +505,7 @@ O min Gud! O min Gud! I sandhed, din tjener har, ydmyg over for overmagten i Din
 
 -- Abdu'l-Bahá
 
-bpn8044 
+bpn8044 «[Dansk](../da/prayers/#bpn8044)» 
 
 ----
 
@@ -659,7 +659,7 @@ bpn8153 «[Dansk](../da/prayers/#bpn8153)»
 
 -- Bahá'u'lláh
 
-bpn8152 
+bpn8152 «[Dansk](../da/prayers/#bpn8152)» 
 
 ----
 
@@ -673,7 +673,7 @@ Lad mig, O min Gud, drage Dig nær og forblive inden for Din boligs enemærker, 
 
 -- Bahá'u'lláh
 
-bpn8052 
+bpn8052 «[Dansk](../da/prayers/#bpn8052)» 
 
 ----
 
@@ -683,7 +683,7 @@ Forherliget være Du, o min Gud! Jeg skænker Dig tak, fordi Du har givet mig ke
 
 -- Bahá'u'lláh
 
-bpn8053 
+bpn8053 «[Dansk](../da/prayers/#bpn8053)» 
 
 ----
 
@@ -693,7 +693,7 @@ Lovet være Dit navn, O min Gud! Jeg bønfalder Dig ved duften fra Din nådes kl
 
 -- Bahá'u'lláh
 
-bpn8054 
+bpn8054 «[Dansk](../da/prayers/#bpn8054)» 
 
 ----
 
@@ -703,7 +703,7 @@ Mangt et koldt hjerte, o min Gud, er blevet antændt af ilden i Din sag, og mang
 
 -- Bahá'u'lláh
 
-bpn8055 
+bpn8055 «[Dansk](../da/prayers/#bpn8055)» 
 
 ----
 
@@ -713,7 +713,7 @@ Jeg ved ikke, o min Gud, hvad det er for en ild Du har antændt i Dit land. Jord
 
 -- Bahá'u'lláh
 
-bpn8056 
+bpn8056 «[Dansk](../da/prayers/#bpn8056)» 
 
 ----
 
@@ -723,7 +723,7 @@ Lovet være Du, o min Gud! Jeg er en af Dine tjenere, der har troet på Dig og p
 
 -- Bahá'u'lláh
 
-bpn8057 
+bpn8057 «[Dansk](../da/prayers/#bpn8057)» 
 
 ----
 
@@ -733,7 +733,7 @@ I Din Herres navn, Skaberen, Kongen, Den Fyldestgørende, Den Mest Ophøjede, de
 
 -- Báb
 
-bpn8058 
+bpn8058 «[Dansk](../da/prayers/#bpn8058)» 
 
 ----
 
@@ -743,7 +743,7 @@ O Herre! Hos Dig søger jeg tilflugt og mod alle Dine tegn retter jeg mit hjerte
 
 -- Báb
 
-bpn8059 
+bpn8059 «[Dansk](../da/prayers/#bpn8059)» 
 
 ----
 
@@ -753,7 +753,7 @@ O Gud, min Gud! Du er mit Håb og min Elskede, mit højeste mål og ønske! I st
 
 -- Abdu'l-Bahá
 
-bpn8060 
+bpn8060 «[Dansk](../da/prayers/#bpn8060)» 
 
 ----
 
@@ -763,7 +763,7 @@ O Gud, min Gud! Fyld mit bæger med løsrivelse fra alt og til forsamlingen til 
 
 -- Abdu'l-Bahá
 
-bpn8061 
+bpn8061 «[Dansk](../da/prayers/#bpn8061)» 
 
 ----
 
@@ -777,7 +777,7 @@ O Gud, min Gud! Jeg beder Dig ved Din lægedoms hav og ved glansen fra Din nåde
 
 -- Bahá'u'lláh
 
-bpn8062 
+bpn8062 «[Dansk](../da/prayers/#bpn8062)» 
 
 ----
 
@@ -787,7 +787,7 @@ Dit navn er min helbredelse, O min Gud, og ihukommelse af Dig er min lægedom. A
 
 -- Bahá'u'lláh
 
-bpn8063 
+bpn8063 «[Dansk](../da/prayers/#bpn8063)» 
 
 ----
 
@@ -797,7 +797,7 @@ bpn8063
 
 -- Bahá'u'lláh
 
-bpn8064 
+bpn8064 «[Dansk](../da/prayers/#bpn8064)» 
 
 ----
 
@@ -807,7 +807,7 @@ Lovet være Du, o Herre min Gud! Jeg bønfalder Dig ved Dit Allerstørste Navn, 
 
 -- Bahá'u'lláh
 
-bpn8065 
+bpn8065 «[Dansk](../da/prayers/#bpn8065)» 
 
 ----
 
@@ -817,7 +817,7 @@ bpn8065
 
 -- Bahá'u'lláh
 
-bpn8066 
+bpn8066 «[Dansk](../da/prayers/#bpn8066)» 
 
 ----
 
@@ -831,7 +831,7 @@ O Du, hvis ansigt er genstanden for min tilbedelse, hvis skønhed er min helligd
 
 -- Bahá'u'lláh
 
-bpn8067 
+bpn8067 «[Dansk](../da/prayers/#bpn8067)» 
 
 ----
 
@@ -947,7 +947,7 @@ bpn8185 «[Dansk](../da/prayers/#bpn8185)»
 
 -- Bahá'u'lláh
 
-bpn8147 
+bpn8147 «[Dansk](../da/prayers/#bpn8147)» 
 
 ----
 
@@ -961,7 +961,7 @@ Al lovprisning, o min Gud, være Dig til del, der er kilden til al herlighed og 
 
 -- Bahá'u'lláh
 
-bpn8074 
+bpn8074 «[Dansk](../da/prayers/#bpn8074)» 
 
 ----
 
@@ -971,7 +971,7 @@ Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og
 
 -- Bahá'u'lláh
 
-bpn8076 
+bpn8076 «[Dansk](../da/prayers/#bpn8076)» 
 
 ----
 
@@ -981,7 +981,7 @@ Al majestæt og ære, o min Gud, og al magt og lys og storhed og glans hører Di
 
 -- Báb
 
-bpn8077 
+bpn8077 «[Dansk](../da/prayers/#bpn8077)» 
 
 ----
 
@@ -991,7 +991,7 @@ I Guds navn, Den Højeste! Lovet og priset være Du, Herre, Almægtige Gud! Du, 
 
 -- Abdu'l-Bahá
 
-bpn8075 
+bpn8075 «[Dansk](../da/prayers/#bpn8075)» 
 
 ----
 
@@ -1005,7 +1005,7 @@ Min Gud, som jeg tilbeder og elsker! Jeg vidner om Din enhed og Din helhed og an
 
 -- Bahá'u'lláh
 
-bpn8078 
+bpn8078 «[Dansk](../da/prayers/#bpn8078)» 
 
 ----
 
@@ -1015,7 +1015,7 @@ O Du medfølende Herre, Du som er storsindet og har magt! Vi er Dine tjenere, sk
 
 -- Abdu'l-Bahá
 
-bpn8079 
+bpn8079 «[Dansk](../da/prayers/#bpn8079)» 
 
 ----
 
@@ -1025,7 +1025,7 @@ O Du gode Herre! O Du som er storsindet og barmhjertig! Vi er tjenerne ved Din T
 
 -- Abdu'l-Bahá
 
-bpn8080 
+bpn8080 «[Dansk](../da/prayers/#bpn8080)» 
 
 ----
 
@@ -1035,7 +1035,7 @@ O Du gode Herre! Du har skabt hele menneskeheden fra den samme stamme. Du har be
 
 -- Abdu'l-Bahá
 
-bpn8081 
+bpn8081 «[Dansk](../da/prayers/#bpn8081)» 
 
 ----
 
@@ -1049,7 +1049,7 @@ bpn8081
 
 -- Bahá'u'lláh
 
-bpn8146 
+bpn8146 «[Dansk](../da/prayers/#bpn8146)» 
 
 ----
 
@@ -1063,7 +1063,7 @@ O min Gud og min Mester! Jeg er Din tjener og søn af Din tjener. Jeg har rejst 
 
 -- Bahá'u'lláh
 
-bpn8082 
+bpn8082 «[Dansk](../da/prayers/#bpn8082)» 
 
 ----
 
@@ -1073,7 +1073,7 @@ Jeg er vågnet i Din varetægt, o min Gud, og det tilkommer den, der søger den 
 
 -- Bahá'u'lláh
 
-bpn8083 
+bpn8083 «[Dansk](../da/prayers/#bpn8083)» 
 
 ----
 
@@ -1083,7 +1083,7 @@ Jeg har rejst mig denne morgen ved Din nåde, o min Gud, og har forladt mit hjem
 
 -- Bahá'u'lláh
 
-bpn8084 
+bpn8084 «[Dansk](../da/prayers/#bpn8084)» 
 
 ----
 
@@ -1093,7 +1093,7 @@ Jeg priser Dig, o min Gud, fordi Du har vækket mig af min søvn og draget mig f
 
 -- Bahá'u'lláh
 
-bpn8085 
+bpn8085 «[Dansk](../da/prayers/#bpn8085)» 
 
 ----
 
@@ -1107,7 +1107,7 @@ Lovpriset være Du, o Herre min Gud! Jeg bønfalder Dig ved Din nådes frembruse
 
 -- Bahá'u'lláh
 
-bpn8086 
+bpn8086 «[Dansk](../da/prayers/#bpn8086)» 
 
 ----
 
@@ -1117,7 +1117,7 @@ O Du barmhjertige Gud! O Du som er mægtig og stærk! O Du mest kærlige Fader! 
 
 -- Abdu'l-Bahá
 
-bpn8087 
+bpn8087 «[Dansk](../da/prayers/#bpn8087)» 
 
 ----
 
@@ -1127,7 +1127,7 @@ O Du gode Herre! Disse er Dine tjenere, der er forsamlet i dette møde, har vend
 
 -- Abdu'l-Bahá
 
-bpn8088 
+bpn8088 «[Dansk](../da/prayers/#bpn8088)» 
 
 ----
 
@@ -1137,7 +1137,7 @@ O min Gud! O min Gud! Sandelig disse tjenere vender sig til Dig og anråber Din 
 
 -- Abdu'l-Bahá
 
-bpn8089 
+bpn8089 «[Dansk](../da/prayers/#bpn8089)» 
 
 ----
 
@@ -1147,7 +1147,7 @@ O Du tilgivende Gud! Disse tjenere vender sig til Dit rige og søger Din nåde o
 
 -- Abdu'l-Bahá
 
-bpn8090 
+bpn8090 «[Dansk](../da/prayers/#bpn8090)» 
 
 ----
 
@@ -1157,7 +1157,7 @@ O Guddommelige Forsyn! Denne forsamling er sammensat af Dine venner, der drages 
 
 -- Abdu'l-Bahá
 
-bpn8091 
+bpn8091 «[Dansk](../da/prayers/#bpn8091)» 
 
 ----
 
@@ -1171,7 +1171,7 @@ bpn8091
 
 -- Bahá'u'lláh
 
-bpn8184 
+bpn8184 «[Dansk](../da/prayers/#bpn8184)» 
 
 ----
 
@@ -1185,7 +1185,7 @@ bpn8184
 
 -- Bahá'u'lláh
 
-bpn8164 
+bpn8164 «[Dansk](../da/prayers/#bpn8164)» 
 
 ----
 
@@ -1195,7 +1195,7 @@ Han er Den Mægtige, Tilgiveren, Den Medfølende!O Gud, min Gud! Du ser Dine tje
 
 -- Bahá'u'lláh
 
-bpn8165 
+bpn8165 «[Dansk](../da/prayers/#bpn8165)» 
 
 ----
 
@@ -1205,7 +1205,7 @@ Gør vore trin faste, o Herre, på Din vej og styrk Du vore hjerter i lydighed m
 
 -- Abdu'l-Bahá
 
-bpn8166 
+bpn8166 «[Dansk](../da/prayers/#bpn8166)» 
 
 ----
 
@@ -1215,7 +1215,7 @@ O Du medfølende Gud! Du være takket for at have vækket mig og gjort mig klart
 
 -- Abdu'l-Bahá
 
-bpn8167 
+bpn8167 «[Dansk](../da/prayers/#bpn8167)» 
 
 ----
 
@@ -1225,7 +1225,7 @@ O min Herre og mit Håb! Hjælp Dine elskede til at være trofaste i Din mægtig
 
 -- Abdu'l-Bahá
 
-bpn8168 
+bpn8168 «[Dansk](../da/prayers/#bpn8168)» 
 
 ----
 
@@ -1239,7 +1239,7 @@ O Du hvis prøvelser er en helbredende lægedom for dem, der er Dig nær, hvis s
 
 -- Bahá'u'lláh
 
-bpn8092 
+bpn8092 «[Dansk](../da/prayers/#bpn8092)» 
 
 ----
 
@@ -1249,7 +1249,7 @@ bpn8092
 
 -- Bahá'u'lláh
 
-bpn8093 
+bpn8093 «[Dansk](../da/prayers/#bpn8093)» 
 
 ----
 
@@ -1259,7 +1259,7 @@ Lovpriset være Du, O Herre min Gud! Hvert menneske med indsigt erkender Dit her
 
 -- Bahá'u'lláh
 
-bpn8094 
+bpn8094 «[Dansk](../da/prayers/#bpn8094)» 
 
 ----
 
@@ -1269,7 +1269,7 @@ Få min sorg til at svinde ved Din nåde og gavmildhed, o Herre min Gud, og fjer
 
 -- Bahá'u'lláh
 
-bpn8095 
+bpn8095 «[Dansk](../da/prayers/#bpn8095)» 
 
 ----
 
@@ -1279,7 +1279,7 @@ Lovet og forherliget være Du, o min Gud! Jeg bønfalder Dig ved Dine elskedes s
 
 -- Bahá'u'lláh
 
-bpn8096 
+bpn8096 «[Dansk](../da/prayers/#bpn8096)» 
 
 ----
 
@@ -1289,7 +1289,7 @@ Du er vel vidende, o min Gud, om de lidelser, der er strømmet ned over mig fra 
 
 -- Báb
 
-bpn8097 
+bpn8097 «[Dansk](../da/prayers/#bpn8097)» 
 
 ----
 
@@ -1299,7 +1299,7 @@ Er der nogen, der kan fjerne vanskeligheder undtagen Gud? Sig: Lovet være Gud! 
 
 -- Báb
 
-bpn8098 
+bpn8098 «[Dansk](../da/prayers/#bpn8098)» 
 
 ----
 
@@ -1309,7 +1309,7 @@ Sig: Gud er frem for alt fyldestgørende for alle ting, og intet i himlene eller
 
 -- Báb
 
-bpn8099 
+bpn8099 «[Dansk](../da/prayers/#bpn8099)» 
 
 ----
 
@@ -1319,7 +1319,7 @@ Jeg besværger Dig ved Din magt, o min Gud! Lad intet ondt indkredse mig i prøv
 
 -- Báb
 
-bpn8100 
+bpn8100 «[Dansk](../da/prayers/#bpn8100)» 
 
 ----
 
@@ -1329,7 +1329,7 @@ O Herre! Du borttager enhver lidelse og ophæver enhver prøvelse. Du er den, de
 
 -- Báb
 
-bpn8101 
+bpn8101 «[Dansk](../da/prayers/#bpn8101)» 
 
 ----
 
@@ -1339,7 +1339,7 @@ O Herre, min Gud og min tilflugt i min ulykke! Mit skjold og mit ly i min sorg! 
 
 -- Abdu'l-Bahá
 
-bpn8102 
+bpn8102 «[Dansk](../da/prayers/#bpn8102)» 
 
 ----
 
@@ -1349,7 +1349,7 @@ Han er Den Medfølende, Den Alnådige!O Gud, min Gud! Du ser mig og Du kender mi
 
 -- Abdu'l-Bahá
 
-bpn8103 
+bpn8103 «[Dansk](../da/prayers/#bpn8103)» 
 
 ----
 
@@ -1359,7 +1359,7 @@ O min Herre, min Elskede, min Attrå! Vær i min ensomhed min ven og ledsag mig 
 
 -- Abdu'l-Bahá
 
-bpn8104 
+bpn8104 «[Dansk](../da/prayers/#bpn8104)» 
 
 ----
 
@@ -1373,7 +1373,7 @@ Forherliget være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Din magt, de
 
 -- Bahá'u'lláh
 
-bpn8105 
+bpn8105 «[Dansk](../da/prayers/#bpn8105)» 
 
 ----
 
@@ -1383,7 +1383,7 @@ O Gud, min Gud! Jeg har vendt mig til Dig med anger, og Du er i sandhed Tilgiver
 
 -- Bahá'u'lláh
 
-bpn8106 
+bpn8106 «[Dansk](../da/prayers/#bpn8106)» 
 
 ----
 
@@ -1393,7 +1393,7 @@ Forherliget være Du, o Herre min Gud! Jeg bønfalder Dig ved ham, der er Dit Al
 
 -- Bahá'u'lláh
 
-bpn8107 
+bpn8107 «[Dansk](../da/prayers/#bpn8107)» 
 
 ----
 
@@ -1403,7 +1403,7 @@ Lovpriset være Du, o Herre, min Mest Elskede! Gør mig trofast i Din sag og giv
 
 -- Báb
 
-bpn8108 
+bpn8108 «[Dansk](../da/prayers/#bpn8108)» 
 
 ----
 
@@ -1413,7 +1413,7 @@ O Herre min Gud! Hjælp Dine elskede at være faste i Din tro, at vandre ad Dine
 
 -- Abdu'l-Bahá
 
-bpn8109 
+bpn8109 «[Dansk](../da/prayers/#bpn8109)» 
 
 ----
 
@@ -1423,7 +1423,7 @@ O Du min Gud, der leder den søgende til den sti, der fører ham på rette vej, 
 
 -- Abdu'l-Bahá
 
-bpn8110 
+bpn8110 «[Dansk](../da/prayers/#bpn8110)» 
 
 ----
 
@@ -1437,7 +1437,7 @@ Jeg er den, o min Herre, der har vendt sit ansigt til Dig og har fæstnet sit h�
 
 -- Bahá'u'lláh
 
-bpn8111 
+bpn8111 «[Dansk](../da/prayers/#bpn8111)» 
 
 ----
 
@@ -1447,7 +1447,7 @@ Du ser mig, o min Herre, med mit ansigt vendt mod Din gavmildheds himmel og Dine
 
 -- Bahá'u'lláh
 
-bpn8112 
+bpn8112 «[Dansk](../da/prayers/#bpn8112)» 
 
 ----
 
@@ -1457,7 +1457,7 @@ Lovet være Dit navn, o min Gud og alle tings Gud, min herlighed og alle tings h
 
 -- Bahá'u'lláh
 
-bpn8113 
+bpn8113 «[Dansk](../da/prayers/#bpn8113)» 
 
 ----
 
@@ -1467,7 +1467,7 @@ O Gud vor Herre! Beskyt os gennem Din nåde mod alt hvad der må være Dig imod,
 
 -- Báb
 
-bpn8114 
+bpn8114 «[Dansk](../da/prayers/#bpn8114)» 
 
 ----
 
@@ -1477,7 +1477,7 @@ Lovet være Du, o Herre. Tilgiv os vore synder, hav barmhjertighed med os og få
 
 -- Báb
 
-bpn8115 
+bpn8115 «[Dansk](../da/prayers/#bpn8115)» 
 
 ----
 
@@ -1487,7 +1487,7 @@ Jeg beder Dig tilgive mig, o min Herre, enhver tale undtagen talen om Dig, og en
 
 -- Báb
 
-bpn8116 
+bpn8116 «[Dansk](../da/prayers/#bpn8116)» 
 
 ----
 
@@ -1497,7 +1497,7 @@ bpn8116
 
 -- Báb
 
-bpn8117 
+bpn8117 «[Dansk](../da/prayers/#bpn8117)» 
 
 ----
 
@@ -1507,7 +1507,7 @@ O Du tilgivende Herre! Du er tilflugten for alle disse Dine tjenere. Du kender h
 
 -- Abdu'l-Bahá
 
-bpn8118 
+bpn8118 «[Dansk](../da/prayers/#bpn8118)» 
 
 ----
 
@@ -1521,7 +1521,7 @@ Lovet være Dit navn, o Herre min Gud! Mørke er faldet over alle lande, og onde
 
 -- Bahá'u'lláh
 
-bpn8170 
+bpn8170 «[Dansk](../da/prayers/#bpn8170)» 
 
 ----
 
@@ -1531,7 +1531,7 @@ bpn8170
 
 -- Báb
 
-bpn8171 
+bpn8171 «[Dansk](../da/prayers/#bpn8171)» 
 
 ----
 
@@ -1541,7 +1541,7 @@ O Herre! Drag omsorg for den hastige vækst i Din guddommelige enheds træ; vand
 
 -- Báb
 
-bpn8172 
+bpn8172 «[Dansk](../da/prayers/#bpn8172)» 
 
 ----
 
@@ -1551,7 +1551,7 @@ O Herre! Gør Dine tålmodige tjenere sejrrige i Dine dage ved at skænke dem en
 
 -- Báb
 
-bpn8173 
+bpn8173 «[Dansk](../da/prayers/#bpn8173)» 
 
 ----
 
@@ -1561,7 +1561,7 @@ O Herre! Lad alle jordens folk få adgang til Din tros paradis, således at inte
 
 -- Báb
 
-bpn8174 
+bpn8174 «[Dansk](../da/prayers/#bpn8174)» 
 
 ----
 
@@ -1571,7 +1571,7 @@ O Gud, min Gud! Lovpriset være Du for at have tændt den guddommelige kærlighe
 
 -- Abdu'l-Bahá
 
-bpn8175 
+bpn8175 «[Dansk](../da/prayers/#bpn8175)» 
 
 ----
 
@@ -1581,7 +1581,7 @@ Han er Gud!O Herre, min Gud, min Højest Elskede! Disse er Dine tjenere, der har
 
 -- Abdu'l-Bahá
 
-bpn8176 
+bpn8176 «[Dansk](../da/prayers/#bpn8176)» 
 
 ----
 
@@ -1595,7 +1595,7 @@ Forherliget være Dit navn, o min Gud, fordi Du har manifesteret den dag, der er
 
 -- Bahá'u'lláh
 
-bpn8119 
+bpn8119 «[Dansk](../da/prayers/#bpn8119)» 
 
 ----
 
@@ -1605,7 +1605,7 @@ Forherliget er Du, o verdens Herre og nationernes attrå, o Du, der er blevet ma
 
 -- Bahá'u'lláh
 
-bpn8120 
+bpn8120 «[Dansk](../da/prayers/#bpn8120)» 
 
 ----
 
@@ -1615,7 +1615,7 @@ O Gud, som er Skaberen af alle manifestationer, kilden til alle kilder, oprindel
 
 -- Bahá'u'lláh
 
-bpn8121 
+bpn8121 «[Dansk](../da/prayers/#bpn8121)» 
 
 ----
 
@@ -1625,7 +1625,7 @@ O min Gud, hjælp Din tjener at opløfte Ordet og modbevise, hvad der er forfæn
 
 -- Abdu'l-Bahá
 
-bpn8122 
+bpn8122 «[Dansk](../da/prayers/#bpn8122)» 
 
 ----
 
@@ -1635,7 +1635,7 @@ O Gud, min Gud! Hjælp Dine betroede tjenere til at eje kærlige og milde hjerte
 
 -- Abdu'l-Bahá
 
-bpn8123 
+bpn8123 «[Dansk](../da/prayers/#bpn8123)» 
 
 ----
 
@@ -1645,7 +1645,7 @@ Du ser mig, O min Gud, nedbøjet i min ringhed, ydmyg over for Dine bud, idet je
 
 -- Abdu'l-Bahá
 
-bpn8124 
+bpn8124 «[Dansk](../da/prayers/#bpn8124)» 
 
 ----
 
@@ -1659,7 +1659,7 @@ Fra Din evigheds sødt duftende strømme giv mig at drikke, o min Gud, og af fru
 
 -- Bahá'u'lláh
 
-bpn8129 
+bpn8129 «[Dansk](../da/prayers/#bpn8129)» 
 
 ----
 
@@ -1669,7 +1669,7 @@ Skab i mig et rent hjerte, o min Gud, og giv mig påny en rolig samvittighed, o 
 
 -- Bahá'u'lláh
 
-bpn8130 
+bpn8130 «[Dansk](../da/prayers/#bpn8130)» 
 
 ----
 
@@ -1679,7 +1679,7 @@ Han er Den Nådige, den Algavmilde!O Gud, min Gud! Din kalden har tiltrukket mig
 
 -- Bahá'u'lláh
 
-bpn8131 
+bpn8131 «[Dansk](../da/prayers/#bpn8131)» 
 
 ----
 
@@ -1689,7 +1689,7 @@ O min Herre! Lad Din skønhed være min føde og Din nærværelse min drik og Di
 
 -- Bahá'u'lláh
 
-bpn8132 
+bpn8132 «[Dansk](../da/prayers/#bpn8132)» 
 
 ----
 
@@ -1699,7 +1699,7 @@ O min Gud, gavmildheds og barmhjertigheds Gud! Du er den konge, på hvis bud hel
 
 -- Bahá'u'lláh
 
-bpn8133 
+bpn8133 «[Dansk](../da/prayers/#bpn8133)» 
 
 ----
 
@@ -1709,7 +1709,7 @@ Han er den bønhørende Gud, den der besvarer bønner.Ved Din herlighed, o du El
 
 -- Bahá'u'lláh
 
-bpn8134 
+bpn8134 «[Dansk](../da/prayers/#bpn8134)» 
 
 ----
 
@@ -1719,7 +1719,7 @@ Forherliget er Du, o Herre min Gud! Jeg takker Dig for at Du har givet mig liv i
 
 -- Bahá'u'lláh
 
-bpn8135 
+bpn8135 «[Dansk](../da/prayers/#bpn8135)» 
 
 ----
 
@@ -1729,7 +1729,7 @@ Skænk mig, o min Gud, det fulde mål af Din kærlighed og Din glæde og lyksali
 
 -- Báb
 
-bpn8136 
+bpn8136 «[Dansk](../da/prayers/#bpn8136)» 
 
 ----
 
@@ -1739,7 +1739,7 @@ O Gud! Genopfrisk og glæd min ånd. Rens mit hjerte. Oplys mine evner. Jeg læg
 
 -- Abdu'l-Bahá
 
-bpn8137 
+bpn8137 «[Dansk](../da/prayers/#bpn8137)» 
 
 ----
 
@@ -1749,7 +1749,7 @@ O min Gud! O min Gud! Æret være Du fordi Du har bekræftet mig i erkendelsen a
 
 -- Abdu'l-Bahá
 
-bpn8138 
+bpn8138 «[Dansk](../da/prayers/#bpn8138)» 
 
 ----
 
@@ -1759,7 +1759,7 @@ O min Herre, O min Herre! Dette er en lampe, der er tændt ved Din kærligheds i
 
 -- Abdu'l-Bahá
 
-bpn8139 
+bpn8139 «[Dansk](../da/prayers/#bpn8139)» 
 
 ----
 
@@ -1769,7 +1769,7 @@ O min Gud! O min Gud! Denne Din tjener er kommet Dig imøde, vandrer med lidensk
 
 -- Abdu'l-Bahá
 
-bpn8140 
+bpn8140 «[Dansk](../da/prayers/#bpn8140)» 
 
 ----
 
@@ -1779,7 +1779,7 @@ O Gud, min Gud! Dette er Din lyksalige tjener, Din åndelige træl, der er drage
 
 -- Abdu'l-Bahá
 
-bpn8141 
+bpn8141 «[Dansk](../da/prayers/#bpn8141)» 
 
 ----
 
@@ -1789,7 +1789,7 @@ O Gud, min Gud! Disse er Dine svage tjenere; de er Dine trofaste trælle og Dine
 
 -- Abdu'l-Bahá
 
-bpn8142 
+bpn8142 «[Dansk](../da/prayers/#bpn8142)» 
 
 ----
 
@@ -1799,7 +1799,7 @@ Han er Gud!O Gud, min Gud! Disse er tjenere, der er tiltrukket af Din helligheds
 
 -- Abdu'l-Bahá
 
-bpn8143 
+bpn8143 «[Dansk](../da/prayers/#bpn8143)» 
 
 ----
 
@@ -1809,7 +1809,7 @@ O Du Forsørger! Du har ladet de sødmefulde dufte fra Helligånden blæse hen o
 
 -- Abdu'l-Bahá
 
-bpn8144 
+bpn8144 «[Dansk](../da/prayers/#bpn8144)» 
 
 ----
 
@@ -1823,7 +1823,7 @@ Når som helst I går ind i rådsværelset fremsig da denne bøn med et hjerte, 
 
 -- Abdu'l-Bahá
 
-bpn8177 
+bpn8177 «[Dansk](../da/prayers/#bpn8177)» 
 
 ----
 
@@ -1833,7 +1833,7 @@ Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:O Du kon
 
 -- Abdu'l-Bahá
 
-bpn8178 
+bpn8178 «[Dansk](../da/prayers/#bpn8178)» 
 
 ----
 
@@ -1843,7 +1843,7 @@ Bøn til afslutning af møde i det åndelige råd:O Gud! O Gud! Fra Din enheds u
 
 -- Abdu'l-Bahá
 
-bpn8179 
+bpn8179 «[Dansk](../da/prayers/#bpn8179)» 
 
 ----
 
@@ -1857,7 +1857,7 @@ bpn8179
 
 -- Bahá'u'lláh
 
-bpn8125 
+bpn8125 «[Dansk](../da/prayers/#bpn8125)» 
 
 ----
 
@@ -1867,7 +1867,7 @@ Han er Gud!O uforlignelige Herre! I Din almægtige visdom har Du påbudt mennesk
 
 -- Abdu'l-Bahá
 
-bpn8126 
+bpn8126 «[Dansk](../da/prayers/#bpn8126)» 
 
 ----
 
@@ -1877,7 +1877,7 @@ bpn8126
 
 -- Abdu'l-Bahá
 
-bpn8127 
+bpn8127 «[Dansk](../da/prayers/#bpn8127)» 
 
 ----
 
@@ -1887,7 +1887,7 @@ O min Herre! O min Herre! Disse to lysende måner er viet i Din kærlighed, fore
 
 -- Abdu'l-Bahá
 
-bpn8128 
+bpn8128 «[Dansk](../da/prayers/#bpn8128)» 
 
 ----
 

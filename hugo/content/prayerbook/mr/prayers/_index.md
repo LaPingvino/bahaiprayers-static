@@ -53,7 +53,6 @@ tags = ['lang=mr', 'prayerbook']
 
 [संरक्षण](#%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3)
 
-[संरक्षण](#%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3)
 
 
 <a id="%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%A6%E0%A4%9A%E0%A5%80+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE"></a> 
@@ -64,7 +63,7 @@ tags = ['lang=mr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12528 
+bpn12528 «[मराठी](../mr/prayers/#bpn12528)» 
 
 ----
 
@@ -78,7 +77,7 @@ bpn12528
 
 -- Abdu'l-Bahá
 
-bpn12522 
+bpn12522 «[मराठी](../mr/prayers/#bpn12522)» 
 
 ----
 
@@ -88,7 +87,7 @@ bpn12522
 
 -- Abdu'l-Bahá
 
-bpn12523 
+bpn12523 «[मराठी](../mr/prayers/#bpn12523)» 
 
 ----
 
@@ -98,7 +97,7 @@ bpn12523
 
 -- Abdu'l-Bahá
 
-bpn12524 
+bpn12524 «[मराठी](../mr/prayers/#bpn12524)» 
 
 ----
 
@@ -112,7 +111,7 @@ bpn12524
 
 -- Abdu'l-Bahá
 
-bpn12507 
+bpn12507 «[मराठी](../mr/prayers/#bpn12507)» 
 
 ----
 
@@ -126,7 +125,7 @@ bpn12507
 
 -- Bahá'u'lláh
 
-bpn12506 
+bpn12506 «[मराठी](../mr/prayers/#bpn12506)» 
 
 ----
 
@@ -140,7 +139,7 @@ bpn12506
 
 -- Bahá'u'lláh
 
-bpn12504 
+bpn12504 «[मराठी](../mr/prayers/#bpn12504)» 
 
 ----
 
@@ -154,7 +153,7 @@ bpn12504
 
 -- Bahá'u'lláh
 
-bpn12500 
+bpn12500 «[मराठी](../mr/prayers/#bpn12500)» 
 
 ----
 
@@ -168,7 +167,7 @@ bpn12500
 
 -- Bahá'u'lláh
 
-bpn12515 
+bpn12515 «[मराठी](../mr/prayers/#bpn12515)» 
 
 ----
 
@@ -178,7 +177,7 @@ bpn12515
 
 -- Bahá'u'lláh
 
-bpn12516 
+bpn12516 «[मराठी](../mr/prayers/#bpn12516)» 
 
 ----
 
@@ -188,7 +187,7 @@ bpn12516
 
 -- Bahá'u'lláh
 
-bpn12517 
+bpn12517 «[मराठी](../mr/prayers/#bpn12517)» 
 
 ----
 
@@ -202,7 +201,7 @@ bpn12517
 
 -- Abdu'l-Bahá
 
-bpn12525 
+bpn12525 «[मराठी](../mr/prayers/#bpn12525)» 
 
 ----
 
@@ -216,7 +215,7 @@ bpn12525
 
 -- Báb
 
-bpn12521 
+bpn12521 «[मराठी](../mr/prayers/#bpn12521)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn12521
 
 -- Bahá'u'lláh
 
-bpn12499 
+bpn12499 «[मराठी](../mr/prayers/#bpn12499)» 
 
 ----
 
@@ -244,7 +243,7 @@ bpn12499
 
 -- Bahá'u'lláh
 
-bpn12518 
+bpn12518 «[मराठी](../mr/prayers/#bpn12518)» 
 
 ----
 
@@ -258,7 +257,7 @@ bpn12518
 
 -- Bahá'u'lláh
 
-bpn12502 
+bpn12502 «[मराठी](../mr/prayers/#bpn12502)» 
 
 ----
 
@@ -272,7 +271,7 @@ bpn12502
 
 -- Abdu'l-Bahá
 
-bpn12527 
+bpn12527 «[मराठी](../mr/prayers/#bpn12527)» 
 
 ----
 
@@ -286,7 +285,7 @@ bpn12527
 
 -- Bahá'u'lláh
 
-bpn12501 
+bpn12501 «[मराठी](../mr/prayers/#bpn12501)» 
 
 ----
 
@@ -300,7 +299,7 @@ bpn12501
 
 -- Abdu'l-Bahá
 
-bpn12512 
+bpn12512 «[मराठी](../mr/prayers/#bpn12512)» 
 
 ----
 
@@ -314,7 +313,7 @@ bpn12512
 
 -- Abdu'l-Bahá
 
-bpn12508 
+bpn12508 «[मराठी](../mr/prayers/#bpn12508)» 
 
 ----
 
@@ -324,7 +323,7 @@ bpn12508
 
 -- Abdu'l-Bahá
 
-bpn12509 
+bpn12509 «[मराठी](../mr/prayers/#bpn12509)» 
 
 ----
 
@@ -334,7 +333,7 @@ bpn12509
 
 -- Abdu'l-Bahá
 
-bpn12510 
+bpn12510 «[मराठी](../mr/prayers/#bpn12510)» 
 
 ----
 
@@ -348,7 +347,7 @@ bpn12510
 
 -- Bahá'u'lláh
 
-bpn12519 
+bpn12519 «[मराठी](../mr/prayers/#bpn12519)» 
 
 ----
 
@@ -358,7 +357,7 @@ bpn12519
 
 -- Abdu'l-Bahá
 
-bpn12520 
+bpn12520 «[मराठी](../mr/prayers/#bpn12520)» 
 
 ----
 
@@ -372,7 +371,7 @@ bpn12520
 
 -- Bahá'u'lláh
 
-bpn12498 
+bpn12498 «[मराठी](../mr/prayers/#bpn12498)» 
 
 ----
 
@@ -386,7 +385,7 @@ bpn12498
 
 -- Bahá'u'lláh
 
-bpn12513 
+bpn12513 «[मराठी](../mr/prayers/#bpn12513)» 
 
 ----
 
@@ -396,7 +395,7 @@ bpn12513
 
 -- Abdu'l-Bahá
 
-bpn12514 
+bpn12514 «[मराठी](../mr/prayers/#bpn12514)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn12514
 
 -- Abdu'l-Bahá
 
-bpn12511 
+bpn12511 «[मराठी](../mr/prayers/#bpn12511)» 
 
 ----
 
@@ -424,7 +423,7 @@ bpn12511
 
 -- Bahá'u'lláh
 
-bpn12503 
+bpn12503 «[मराठी](../mr/prayers/#bpn12503)» 
 
 ----
 
@@ -438,7 +437,7 @@ bpn12503
 
 -- Bahá'u'lláh
 
-bpn12497 
+bpn12497 «[मराठी](../mr/prayers/#bpn12497)» 
 
 ----
 
@@ -452,7 +451,7 @@ bpn12497
 
 -- Abdu'l-Bahá
 
-bpn12505 
+bpn12505 «[मराठी](../mr/prayers/#bpn12505)» 
 
 ----
 
@@ -466,7 +465,7 @@ bpn12505
 
 -- Abdu'l-Bahá
 
-bpn12526 
+bpn12526 «[मराठी](../mr/prayers/#bpn12526)» 
 
 ----
 

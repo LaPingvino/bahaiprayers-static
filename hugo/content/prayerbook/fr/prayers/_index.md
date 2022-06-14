@@ -83,7 +83,7 @@ Il est Dieu. Ô toi qui, en adoration, tournes autour du Lieu autour duquel grav
 
 -- Abdu'l-Bahá
 
-bpn12904 
+bpn12904 «[Français](../fr/prayers/#bpn12904)» 
 
 ----
 
@@ -93,7 +93,7 @@ bpn12904
 
 -- Abdu'l-Bahá
 
-bpn12905 
+bpn12905 «[Français](../fr/prayers/#bpn12905)» 
 
 ----
 
@@ -103,7 +103,7 @@ bpn12905
 
 -- Abdu'l-Bahá
 
-bpn12906 
+bpn12906 «[Français](../fr/prayers/#bpn12906)» 
 
 ----
 
@@ -113,7 +113,7 @@ bpn12906
 
 -- Abdu'l-Bahá
 
-bpn12907 
+bpn12907 «[Français](../fr/prayers/#bpn12907)» 
 
 ----
 
@@ -123,7 +123,7 @@ bpn12907
 
 -- Abdu'l-Bahá
 
-bpn12908 
+bpn12908 «[Français](../fr/prayers/#bpn12908)» 
 
 ----
 
@@ -133,7 +133,7 @@ bpn12908
 
 -- Abdu'l-Bahá
 
-bpn12909 
+bpn12909 «[Français](../fr/prayers/#bpn12909)» 
 
 ----
 
@@ -143,7 +143,7 @@ bpn12909
 
 -- Abdu'l-Bahá
 
-bpn12910 
+bpn12910 «[Français](../fr/prayers/#bpn12910)» 
 
 ----
 
@@ -153,7 +153,7 @@ bpn12910
 
 -- Abdu'l-Bahá
 
-bpn12911 
+bpn12911 «[Français](../fr/prayers/#bpn12911)» 
 
 ----
 
@@ -163,7 +163,7 @@ Il est Dieu. Ô Dieu, mon Dieu! Je tourne mon visage vers toi et je te supplie d
 
 -- Abdu'l-Bahá
 
-bpn12912 
+bpn12912 «[Français](../fr/prayers/#bpn12912)» 
 
 ----
 
@@ -173,7 +173,7 @@ bpn12912
 
 -- Abdu'l-Bahá
 
-bpn12913 
+bpn12913 «[Français](../fr/prayers/#bpn12913)» 
 
 ----
 
@@ -183,7 +183,7 @@ bpn12913
 
 -- Abdu'l-Bahá
 
-bpn12914 
+bpn12914 «[Français](../fr/prayers/#bpn12914)» 
 
 ----
 
@@ -193,7 +193,7 @@ Il est Dieu. Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles �
 
 -- Abdu'l-Bahá
 
-bpn12915 
+bpn12915 «[Français](../fr/prayers/#bpn12915)» 
 
 ----
 
@@ -203,7 +203,7 @@ bpn12915
 
 -- Abdu'l-Bahá
 
-bpn12916 
+bpn12916 «[Français](../fr/prayers/#bpn12916)» 
 
 ----
 
@@ -213,7 +213,7 @@ bpn12916
 
 -- Abdu'l-Bahá
 
-bpn12917 
+bpn12917 «[Français](../fr/prayers/#bpn12917)» 
 
 ----
 
@@ -223,7 +223,7 @@ bpn12917
 
 -- Abdu'l-Bahá
 
-bpn12918 
+bpn12918 «[Français](../fr/prayers/#bpn12918)» 
 
 ----
 
@@ -233,7 +233,7 @@ bpn12918
 
 -- Abdu'l-Bahá
 
-bpn12919 
+bpn12919 «[Français](../fr/prayers/#bpn12919)» 
 
 ----
 
@@ -243,7 +243,7 @@ Il est le Très-Saint, le Très-Glorieux. Au nom de Dieu, le Compatissant, le Mi
 
 -- Abdu'l-Bahá
 
-bpn12920 
+bpn12920 «[Français](../fr/prayers/#bpn12920)» 
 
 ----
 
@@ -253,7 +253,7 @@ bpn12920
 
 -- Abdu'l-Bahá
 
-bpn12921 
+bpn12921 «[Français](../fr/prayers/#bpn12921)» 
 
 ----
 
@@ -263,7 +263,7 @@ Il est Dieu. Ô toi, Seigneur bienveillant et bien-aimé! Ces amis sont enivrés
 
 -- Abdu'l-Bahá
 
-bpn12922 
+bpn12922 «[Français](../fr/prayers/#bpn12922)» 
 
 ----
 
@@ -273,7 +273,7 @@ Il est le Très-Glorieux. Ô mon Seigneur, mon roi, mon maître, mon souverain! 
 
 -- Abdu'l-Bahá
 
-bpn12923 
+bpn12923 «[Français](../fr/prayers/#bpn12923)» 
 
 ----
 
@@ -283,7 +283,7 @@ bpn12923
 
 -- Abdu'l-Bahá
 
-bpn12924 
+bpn12924 «[Français](../fr/prayers/#bpn12924)» 
 
 ----
 
@@ -293,7 +293,7 @@ Il est le Très-Glorieux, le Très-Lumineux. Ô divine Providence, ô Seigneur q
 
 -- Abdu'l-Bahá
 
-bpn12925 
+bpn12925 «[Français](../fr/prayers/#bpn12925)» 
 
 ----
 
@@ -303,7 +303,7 @@ bpn12925
 
 -- Abdu'l-Bahá
 
-bpn12926 
+bpn12926 «[Français](../fr/prayers/#bpn12926)» 
 
 ----
 
@@ -313,7 +313,7 @@ bpn12926
 
 -- Abdu'l-Bahá
 
-bpn12927 
+bpn12927 «[Français](../fr/prayers/#bpn12927)» 
 
 ----
 
@@ -323,7 +323,7 @@ Il est Dieu. Ô Dieu, mon Dieu! Totalement soumis et avec une ferveur, une humil
 
 -- Abdu'l-Bahá
 
-bpn12928 
+bpn12928 «[Français](../fr/prayers/#bpn12928)» 
 
 ----
 
@@ -333,7 +333,7 @@ Si généreux, si plein de grâce, ô toi, Seigneur, Qui connais les tréfonds d
 
 -- Abdu'l-Bahá
 
-bpn12929 
+bpn12929 «[Français](../fr/prayers/#bpn12929)» 
 
 ----
 
@@ -347,7 +347,7 @@ bpn12929
 
 -- Abdu'l-Bahá
 
-bpn9129 
+bpn9129 «[Français](../fr/prayers/#bpn9129)» 
 
 ----
 
@@ -357,7 +357,7 @@ bpn9129
 
 -- Abdu'l-Bahá
 
-bpn9130 
+bpn9130 «[Français](../fr/prayers/#bpn9130)» 
 
 ----
 
@@ -367,7 +367,7 @@ bpn9130
 
 -- Abdu'l-Bahá
 
-bpn9131 
+bpn9131 «[Français](../fr/prayers/#bpn9131)» 
 
 ----
 
@@ -381,7 +381,7 @@ bpn9131
 
 -- Bahá'u'lláh
 
-bpn9132 
+bpn9132 «[Français](../fr/prayers/#bpn9132)» 
 
 ----
 
@@ -391,7 +391,7 @@ Gloire à toi, ô Seigneur, mon Dieu ! N’abaisse pas celui que tu élèves par
 
 -- Bahá'u'lláh
 
-bpn9134 
+bpn9134 «[Français](../fr/prayers/#bpn9134)» 
 
 ----
 
@@ -401,7 +401,7 @@ Mon Dieu, mon adoré, mon roi, mon désir, quelle langue peut exprimer ma gratit
 
 -- Bahá'u'lláh
 
-bpn9133 
+bpn9133 «[Français](../fr/prayers/#bpn9133)» 
 
 ----
 
@@ -411,7 +411,7 @@ Loué soit ton nom, ô Seigneur, notre Dieu ! En vérité, tu connais ce qui est
 
 -- Báb
 
-bpn9135 
+bpn9135 «[Français](../fr/prayers/#bpn9135)» 
 
 ----
 
@@ -421,7 +421,7 @@ bpn9135
 
 -- Báb
 
-bpn9136 
+bpn9136 «[Français](../fr/prayers/#bpn9136)» 
 
 ----
 
@@ -431,7 +431,7 @@ Seigneur, nous inspirons la pitié, accorde-nous ta faveur ; nous sommes pauvres
 
 -- Abdu'l-Bahá
 
-bpn9137 
+bpn9137 «[Français](../fr/prayers/#bpn9137)» 
 
 ----
 
@@ -441,7 +441,7 @@ bpn9137
 
 -- Abdu'l-Bahá
 
-bpn9138 
+bpn9138 «[Français](../fr/prayers/#bpn9138)» 
 
 ----
 
@@ -451,7 +451,7 @@ bpn9138
 
 -- Abdu'l-Bahá
 
-bpn9139 
+bpn9139 «[Français](../fr/prayers/#bpn9139)» 
 
 ----
 
@@ -465,7 +465,7 @@ bpn9139
 
 -- Bahá'u'lláh
 
-bpn9303 
+bpn9303 «[Français](../fr/prayers/#bpn9303)» 
 
 ----
 
@@ -479,7 +479,7 @@ Glorifié soit ton nom, ô Seigneur, mon Dieu ! Par ton pouvoir qui contient tou
 
 -- Bahá'u'lláh
 
-bpn9140 
+bpn9140 «[Français](../fr/prayers/#bpn9140)» 
 
 ----
 
@@ -489,7 +489,7 @@ bpn9140
 
 -- Bahá'u'lláh
 
-bpn9141 
+bpn9141 «[Français](../fr/prayers/#bpn9141)» 
 
 ----
 
@@ -499,7 +499,7 @@ Dieu, mon Dieu, je me tourne en repentir vers toi et tu es en vérité l’Indul
 
 -- Bahá'u'lláh
 
-bpn9142 
+bpn9142 «[Français](../fr/prayers/#bpn9142)» 
 
 ----
 
@@ -509,7 +509,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Par celui qui est ton Plus-Grand-Nom, qui
 
 -- Bahá'u'lláh
 
-bpn9143 
+bpn9143 «[Français](../fr/prayers/#bpn9143)» 
 
 ----
 
@@ -519,7 +519,7 @@ Loué sois-tu, ô Seigneur, mon Bien-Aimé ! Rends-moi ferme dans ta cause et co
 
 -- Báb
 
-bpn9144 
+bpn9144 «[Français](../fr/prayers/#bpn9144)» 
 
 ----
 
@@ -529,7 +529,7 @@ Loué et glorifié sois-tu, ô Seigneur ! Fais qu’approche rapidement le jour 
 
 -- Báb
 
-bpn9145 
+bpn9145 «[Français](../fr/prayers/#bpn9145)» 
 
 ----
 
@@ -539,7 +539,7 @@ bpn9145
 
 -- Abdu'l-Bahá
 
-bpn9146 
+bpn9146 «[Français](../fr/prayers/#bpn9146)» 
 
 ----
 
@@ -549,7 +549,7 @@ bpn9146
 
 -- Abdu'l-Bahá
 
-bpn9147 
+bpn9147 «[Français](../fr/prayers/#bpn9147)» 
 
 ----
 
@@ -563,7 +563,7 @@ bpn9147
 
 -- Abdu'l-Bahá
 
-bpn9148 
+bpn9148 «[Français](../fr/prayers/#bpn9148)» 
 
 ----
 
@@ -573,7 +573,7 @@ bpn9148
 
 -- Abdu'l-Bahá
 
-bpn9149 
+bpn9149 «[Français](../fr/prayers/#bpn9149)» 
 
 ----
 
@@ -587,7 +587,7 @@ bpn9149
 
 -- Bahá'u'lláh
 
-bpn9150 
+bpn9150 «[Français](../fr/prayers/#bpn9150)» 
 
 ----
 
@@ -597,7 +597,7 @@ Glorifié sois-tu, ô mon Dieu ! Je te rends grâce de m’avoir fait connaître
 
 -- Bahá'u'lláh
 
-bpn9151 
+bpn9151 «[Français](../fr/prayers/#bpn9151)» 
 
 ----
 
@@ -607,7 +607,7 @@ Loué soit ton nom, ô mon Dieu ! Par les fragrances du manteau de ta grâce qui
 
 -- Bahá'u'lláh
 
-bpn9152 
+bpn9152 «[Français](../fr/prayers/#bpn9152)» 
 
 ----
 
@@ -617,7 +617,7 @@ Que de cœurs glacés s’embrasent au feu de ta cause, ô mon Dieu, et que d’
 
 -- Bahá'u'lláh
 
-bpn9153 
+bpn9153 «[Français](../fr/prayers/#bpn9153)» 
 
 ----
 
@@ -627,7 +627,7 @@ bpn9153
 
 -- Bahá'u'lláh
 
-bpn9154 
+bpn9154 «[Français](../fr/prayers/#bpn9154)» 
 
 ----
 
@@ -637,7 +637,7 @@ Louange à toi, ô mon Dieu ! Je suis l’un de tes serviteurs, je crois en toi 
 
 -- Bahá'u'lláh
 
-bpn9155 
+bpn9155 «[Français](../fr/prayers/#bpn9155)» 
 
 ----
 
@@ -647,7 +647,7 @@ Au nom de ton Seigneur, le Créateur, le Souverain, Celui qui suffit à tout, le
 
 -- Báb
 
-bpn9156 
+bpn9156 «[Français](../fr/prayers/#bpn9156)» 
 
 ----
 
@@ -657,7 +657,7 @@ bpn9156
 
 -- Báb
 
-bpn9157 
+bpn9157 «[Français](../fr/prayers/#bpn9157)» 
 
 ----
 
@@ -667,7 +667,7 @@ bpn9157
 
 -- Abdu'l-Bahá
 
-bpn9158 
+bpn9158 «[Français](../fr/prayers/#bpn9158)» 
 
 ----
 
@@ -677,7 +677,7 @@ bpn9158
 
 -- Abdu'l-Bahá
 
-bpn9159 
+bpn9159 «[Français](../fr/prayers/#bpn9159)» 
 
 ----
 
@@ -691,7 +691,7 @@ bpn9159
 
 -- Abdu'l-Bahá
 
-bpn9160 
+bpn9160 «[Français](../fr/prayers/#bpn9160)» 
 
 ----
 
@@ -701,7 +701,7 @@ bpn9160
 
 -- Abdu'l-Bahá
 
-bpn9161 
+bpn9161 «[Français](../fr/prayers/#bpn9161)» 
 
 ----
 
@@ -711,7 +711,7 @@ bpn9161
 
 -- Abdu'l-Bahá
 
-bpn9162 
+bpn9162 «[Français](../fr/prayers/#bpn9162)» 
 
 ----
 
@@ -721,7 +721,7 @@ bpn9162
 
 -- Abdu'l-Bahá
 
-AB10714 «[English](../en/prayers/#AB10714)» «[Nederlands](../nl/prayers/#AB10714)» «[Français](../fr/prayers/#AB10714)» 
+AB10714 «[English](../en/prayers/#AB10714)» «[Français](../fr/prayers/#AB10714)» «[Nederlands](../nl/prayers/#AB10714)» 
 
 ----
 
@@ -731,7 +731,7 @@ AB10714 «[English](../en/prayers/#AB10714)» «[Nederlands](../nl/prayers/#AB10
 
 -- Abdu'l-Bahá
 
-bpn9164 
+bpn9164 «[Français](../fr/prayers/#bpn9164)» 
 
 ----
 
@@ -741,7 +741,7 @@ Il est Dieu ! Ô Dieu, mon Dieu, accorde-moi un cœur pur, pareil à une perle.
 
 -- Abdu'l-Bahá
 
-bpn9165 
+bpn9165 «[Français](../fr/prayers/#bpn9165)» 
 
 ----
 
@@ -751,7 +751,7 @@ bpn9165
 
 -- Abdu'l-Bahá
 
-bpn9167 
+bpn9167 «[Français](../fr/prayers/#bpn9167)» 
 
 ----
 
@@ -761,7 +761,7 @@ bpn9167
 
 -- Abdu'l-Bahá
 
-bpn9168 
+bpn9168 «[Français](../fr/prayers/#bpn9168)» 
 
 ----
 
@@ -771,7 +771,7 @@ bpn9168
 
 -- Abdu'l-Bahá
 
-bpn9169 
+bpn9169 «[Français](../fr/prayers/#bpn9169)» 
 
 ----
 
@@ -781,7 +781,7 @@ Mon Dieu, guide-moi, protège-moi, illumine la lampe de mon cœur et fais de moi
 
 -- Abdu'l-Bahá
 
-bpn9166 
+bpn9166 «[Français](../fr/prayers/#bpn9166)» 
 
 ----
 
@@ -805,7 +805,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Je te supplie par ton Nom que personne n�
 
 -- Bahá'u'lláh
 
-bpn9171 
+bpn9171 «[Français](../fr/prayers/#bpn9171)» 
 
 ----
 
@@ -815,7 +815,7 @@ Gloire à toi, ô Seigneur du monde et Désir des nations ! Tu t’es manifesté
 
 -- Bahá'u'lláh
 
-bpn9172 
+bpn9172 «[Français](../fr/prayers/#bpn9172)» 
 
 ----
 
@@ -825,7 +825,7 @@ bpn9172
 
 -- Bahá'u'lláh
 
-bpn9173 
+bpn9173 «[Français](../fr/prayers/#bpn9173)» 
 
 ----
 
@@ -835,7 +835,7 @@ bpn9173
 
 -- Abdu'l-Bahá
 
-bpn9174 
+bpn9174 «[Français](../fr/prayers/#bpn9174)» 
 
 ----
 
@@ -845,7 +845,7 @@ bpn9174
 
 -- Abdu'l-Bahá
 
-bpn9175 
+bpn9175 «[Français](../fr/prayers/#bpn9175)» 
 
 ----
 
@@ -855,7 +855,7 @@ bpn9175
 
 -- Abdu'l-Bahá
 
-bpn9176 
+bpn9176 «[Français](../fr/prayers/#bpn9176)» 
 
 ----
 
@@ -865,7 +865,7 @@ bpn9176
 
 -- Abdu'l-Bahá
 
-bpn9177 
+bpn9177 «[Français](../fr/prayers/#bpn9177)» 
 
 ----
 
@@ -879,7 +879,7 @@ Béni est le lieu, la maison et l’endroit,la ville et le cœur,la montagne et 
 
 -- Bahá'u'lláh
 
-BH00074BLE «[Papiamentu](../pap/prayers/#BH00074BLE)» «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» 
+BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Português (BR)](../pt/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» 
 
 ----
 
@@ -889,7 +889,7 @@ Gloire à toi, ô Seigneur, mon Dieu ! Pardonnemoi, je t’en supplie, et pardon
 
 -- Báb
 
-bpn9182 
+bpn9182 «[Français](../fr/prayers/#bpn9182)» 
 
 ----
 
@@ -899,7 +899,7 @@ bpn9182
 
 -- Báb
 
-BB00018FOR «[English](../en/prayers/#BB00018FOR)» «[Nederlands](../nl/prayers/#BB00018FOR)» «[Français](../fr/prayers/#BB00018FOR)» 
+BB00018FOR «[English](../en/prayers/#BB00018FOR)» «[Français](../fr/prayers/#BB00018FOR)» «[Nederlands](../nl/prayers/#BB00018FOR)» 
 
 ----
 
@@ -909,7 +909,7 @@ BB00018FOR «[English](../en/prayers/#BB00018FOR)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn9184 
+bpn9184 «[Français](../fr/prayers/#bpn9184)» 
 
 ----
 
@@ -919,7 +919,7 @@ bpn9184
 
 -- Abdu'l-Bahá
 
-bpn9185 
+bpn9185 «[Français](../fr/prayers/#bpn9185)» 
 
 ----
 
@@ -929,7 +929,7 @@ Mon Seigneur, mon Seigneur, je te glorifie et te remercie pour les faveurs que t
 
 -- Abdu'l-Bahá
 
-bpn9186 
+bpn9186 «[Français](../fr/prayers/#bpn9186)» 
 
 ----
 
@@ -943,7 +943,7 @@ Gloire à toi, ô Roi de l’éternité, Bâtisseur de nations et Façonneur de 
 
 -- Abdu'l-Bahá
 
-bpn9187 
+bpn9187 «[Français](../fr/prayers/#bpn9187)» 
 
 ----
 
@@ -953,7 +953,7 @@ Il est le Puissant, le Clément, le Compatissant Ô Dieu, mon Dieu, tu vois tes 
 
 -- Abdu'l-Bahá
 
-bpn9188 
+bpn9188 «[Français](../fr/prayers/#bpn9188)» 
 
 ----
 
@@ -963,7 +963,7 @@ Affermis nos pas dans ton sentier, ô Seigneur, et en nos cœurs renforce notre 
 
 -- Abdu'l-Bahá
 
-bpn9189 
+bpn9189 «[Français](../fr/prayers/#bpn9189)» 
 
 ----
 
@@ -973,7 +973,7 @@ bpn9189
 
 -- Abdu'l-Bahá
 
-bpn9191 
+bpn9191 «[Français](../fr/prayers/#bpn9191)» 
 
 ----
 
@@ -983,7 +983,7 @@ bpn9191
 
 -- Abdu'l-Bahá
 
-bpn9190 
+bpn9190 «[Français](../fr/prayers/#bpn9190)» 
 
 ----
 
@@ -997,7 +997,7 @@ bpn9190
 
 -- Bahá'u'lláh
 
-bpn9192 
+bpn9192 «[Français](../fr/prayers/#bpn9192)» 
 
 ----
 
@@ -1017,7 +1017,7 @@ bpn9194 «[Français](../fr/prayers/#bpn9194)»
 
 -- Bahá'u'lláh
 
-bpn9196 
+bpn9196 «[Français](../fr/prayers/#bpn9196)» 
 
 ----
 
@@ -1027,7 +1027,7 @@ En son nom, l’Éminent, le Très-Haut, le Sublime, sois glorifié, ô Seigneur
 
 -- Bahá'u'lláh
 
-bpn9195 
+bpn9195 «[Français](../fr/prayers/#bpn9195)» 
 
 ----
 
@@ -1037,7 +1037,7 @@ Ton nom est ma guérison, ô mon Dieu, ton souvenir mon remède. Ta présence es
 
 -- Bahá'u'lláh
 
-bpn9193 
+bpn9193 «[Français](../fr/prayers/#bpn9193)» 
 
 ----
 
@@ -1051,7 +1051,7 @@ bpn9193
 
 -- Bahá'u'lláh
 
-bpn9197 
+bpn9197 «[Français](../fr/prayers/#bpn9197)» 
 
 ----
 
@@ -1061,7 +1061,7 @@ Au nom du Seigneur, le Suprême, tu es loué et glorifié, Seigneur, Dieu omnipo
 
 -- Bahá'u'lláh
 
-bpn9198 
+bpn9198 «[Français](../fr/prayers/#bpn9198)» 
 
 ----
 
@@ -1071,7 +1071,7 @@ Magnifié soit ton nom, ô Seigneur, mon Dieu !Tu es celui que toutes choses ado
 
 -- Bahá'u'lláh
 
-BH09960 «[English](../en/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» 
+BH09960 «[English](../en/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» 
 
 ----
 
@@ -1081,7 +1081,7 @@ Gloire à toi, ô Seigneur, mon Dieu ! Grâce te soit rendue, car tu m’as perm
 
 -- Bahá'u'lláh
 
-bpn9200 
+bpn9200 «[Français](../fr/prayers/#bpn9200)» 
 
 ----
 
@@ -1091,7 +1091,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Chaque fois que je tente de mentionner to
 
 -- Bahá'u'lláh
 
-bpn9201 
+bpn9201 «[Français](../fr/prayers/#bpn9201)» 
 
 ----
 
@@ -1101,7 +1101,7 @@ Dis : Gloire à toi qui amènes tous les saints à confesser leur impuissance de
 
 -- Bahá'u'lláh
 
-bpn9202 
+bpn9202 «[Français](../fr/prayers/#bpn9202)» 
 
 ----
 
@@ -1111,7 +1111,7 @@ Louange à toi, ô Seigneur, mon Dieu ! Par ton Plus-Grand-Nom, incarcéré dans
 
 -- Bahá'u'lláh
 
-bpn9203 
+bpn9203 «[Français](../fr/prayers/#bpn9203)» 
 
 ----
 
@@ -1121,7 +1121,7 @@ Gloire à toi, ô toi qui es le Seigneur de tous les mondes et le Bien-Aimé de 
 
 -- Bahá'u'lláh
 
-bpn9204 
+bpn9204 «[Français](../fr/prayers/#bpn9204)» 
 
 ----
 
@@ -1131,7 +1131,7 @@ Toute gloire et majesté, toute autorité et lumière, toute grandeur et splende
 
 -- Báb
 
-bpn9205 
+bpn9205 «[Français](../fr/prayers/#bpn9205)» 
 
 ----
 
@@ -1141,7 +1141,7 @@ bpn9205
 
 -- Abdu'l-Bahá
 
-bpn9206 
+bpn9206 «[Français](../fr/prayers/#bpn9206)» 
 
 ----
 
@@ -1155,7 +1155,7 @@ Lumière et gloire, salut et louange aux Mains de sa cause ! Ce sont elles qui f
 
 -- Bahá'u'lláh
 
-bpn9309 
+bpn9309 «[Français](../fr/prayers/#bpn9309)» 
 
 ----
 
@@ -1169,7 +1169,7 @@ bpn9309
 
 -- Bahá'u'lláh
 
-bpn9207 
+bpn9207 «[Français](../fr/prayers/#bpn9207)» 
 
 ----
 
@@ -1179,7 +1179,7 @@ Il est Dieu ! Ô Seigneur incomparable, en ta suprême sagesse, tu as enjoint au
 
 -- Abdu'l-Bahá
 
-bpn9208 
+bpn9208 «[Français](../fr/prayers/#bpn9208)» 
 
 ----
 
@@ -1189,7 +1189,7 @@ Gloire à toi, ô mon Dieu ! En vérité, ton serviteur et ta servante que voici
 
 -- Abdu'l-Bahá
 
-bpn9209 
+bpn9209 «[Français](../fr/prayers/#bpn9209)» 
 
 ----
 
@@ -1199,7 +1199,7 @@ bpn9209
 
 -- Abdu'l-Bahá
 
-bpn9210 
+bpn9210 «[Français](../fr/prayers/#bpn9210)» 
 
 ----
 
@@ -1213,7 +1213,7 @@ bpn9210
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../en/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» 
+BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» 
 
 ----
 
@@ -1223,7 +1223,7 @@ Je me suis éveillé dans ton refuge, ô mon Dieu, et il convient à celui qui r
 
 -- Bahá'u'lláh
 
-bpn9212 
+bpn9212 «[Français](../fr/prayers/#bpn9212)» 
 
 ----
 
@@ -1233,7 +1233,7 @@ Je me suis levé ce matin par ta grâce, ô mon Dieu, et entièrement confiant e
 
 -- Bahá'u'lláh
 
-bpn9213 
+bpn9213 «[Français](../fr/prayers/#bpn9213)» 
 
 ----
 
@@ -1243,7 +1243,7 @@ Grâce te soit rendue, ô mon Dieu ! Tu m’as réveillé, tu m’as fait renaî
 
 -- Bahá'u'lláh
 
-bpn9214 
+bpn9214 «[Français](../fr/prayers/#bpn9214)» 
 
 ----
 
@@ -1257,7 +1257,7 @@ bpn9214
 
 -- Bahá'u'lláh
 
-bpn9307 
+bpn9307 «[Français](../fr/prayers/#bpn9307)» 
 
 ----
 
@@ -1271,7 +1271,7 @@ Glorifié sois-tu, ô Seigneur, mon Dieu ! Par tes élus, par les dépositaires 
 
 -- Bahá'u'lláh
 
-bpn9221 
+bpn9221 «[Français](../fr/prayers/#bpn9221)» 
 
 ----
 
@@ -1281,7 +1281,7 @@ bpn9221
 
 -- Bahá'u'lláh
 
-bpn9222 
+bpn9222 «[Français](../fr/prayers/#bpn9222)» 
 
 ----
 
@@ -1291,7 +1291,7 @@ bpn9222
 
 -- Bahá'u'lláh
 
-bpn9223 
+bpn9223 «[Français](../fr/prayers/#bpn9223)» 
 
 ----
 
@@ -1301,7 +1301,7 @@ Glorifié sois-tu, ô Seigneur, mon Dieu ! Chaque fois que j’ose te mentionner
 
 -- Bahá'u'lláh
 
-bpn9224 
+bpn9224 «[Français](../fr/prayers/#bpn9224)» 
 
 ----
 
@@ -1311,7 +1311,7 @@ Loué soit ton nom, ô mon Dieu et le Dieu de toutes choses, ma gloire et la glo
 
 -- Bahá'u'lláh
 
-bpn9225 
+bpn9225 «[Français](../fr/prayers/#bpn9225)» 
 
 ----
 
@@ -1321,7 +1321,7 @@ bpn9225
 
 -- Báb
 
-bpn9226 
+bpn9226 «[Français](../fr/prayers/#bpn9226)» 
 
 ----
 
@@ -1331,7 +1331,7 @@ Louange à toi, ô Seigneur ! Pardonne nos péchés, aie pitié de nous et perme
 
 -- Báb
 
-bpn9227 
+bpn9227 «[Français](../fr/prayers/#bpn9227)» 
 
 ----
 
@@ -1341,7 +1341,7 @@ bpn9227
 
 -- Báb
 
-bpn9228 
+bpn9228 «[Français](../fr/prayers/#bpn9228)» 
 
 ----
 
@@ -1351,7 +1351,7 @@ Gloire à toi, ô mon Dieu ! Comment puis-je te mentionner alors que tu transcen
 
 -- Báb
 
-bpn9229 
+bpn9229 «[Français](../fr/prayers/#bpn9229)» 
 
 ----
 
@@ -1361,7 +1361,7 @@ bpn9229
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[English](../en/prayers/#ABU0030SHE)» «[Español](../es/prayers/#ABU0030SHE)» «[Esperanto](../eo/prayers/#ABU0030SHE)» «[Français](../fr/prayers/#ABU0030SHE)» 
+ABU0030SHE «[English](../en/prayers/#ABU0030SHE)» «[Esperanto](../eo/prayers/#ABU0030SHE)» «[Français](../fr/prayers/#ABU0030SHE)» «[Español](../es/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -1375,7 +1375,7 @@ Il est Dieu ! Ô Seigneur, mon Dieu, toi qui aides le faible, secours le pauvre 
 
 -- Abdu'l-Bahá
 
-bpn9308 
+bpn9308 «[Français](../fr/prayers/#bpn9308)» 
 
 ----
 
@@ -1389,7 +1389,7 @@ bpn9308
 
 -- Bahá'u'lláh
 
-bpn9301 
+bpn9301 «[Français](../fr/prayers/#bpn9301)» 
 
 ----
 
@@ -1399,7 +1399,7 @@ bpn9301
 
 -- Abdu'l-Bahá
 
-bpn9302 
+bpn9302 «[Français](../fr/prayers/#bpn9302)» 
 
 ----
 
@@ -1413,7 +1413,7 @@ bpn9302
 
 -- Bahá'u'lláh
 
-BH01125 «[Italiano](../it/prayers/#BH01125)» «[English](../en/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» 
+BH01125 «[English](../en/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» 
 
 ----
 
@@ -1423,7 +1423,7 @@ BH01125 «[Italiano](../it/prayers/#BH01125)» «[English](../en/prayers/#BH0112
 
 -- Bahá'u'lláh
 
-bpn9305 
+bpn9305 «[Français](../fr/prayers/#bpn9305)» 
 
 ----
 
@@ -1433,7 +1433,7 @@ Gloire à toi, ô Seigneur, mon Dieu ! En ces jours, tu enjoins à tous les homm
 
 -- Bahá'u'lláh
 
-bpn9306 
+bpn9306 «[Français](../fr/prayers/#bpn9306)» 
 
 ----
 
@@ -1447,7 +1447,7 @@ bpn9306
 
 -- Bahá'u'lláh
 
-bpn9128 
+bpn9128 «[Français](../fr/prayers/#bpn9128)» 
 
 ----
 
@@ -1457,7 +1457,7 @@ bpn9128
 
 -- Bahá'u'lláh
 
-bpn9215 
+bpn9215 «[Français](../fr/prayers/#bpn9215)» 
 
 ----
 
@@ -1467,7 +1467,7 @@ Dis : ô Dieu, mon Dieu, tu m’as confié ce gage et selon ta volonté, tu as v
 
 -- Bahá'u'lláh
 
-bpn9216 
+bpn9216 «[Français](../fr/prayers/#bpn9216)» 
 
 ----
 
@@ -1477,7 +1477,7 @@ Il est Dieu ! Loué soit Dieu, le Seigneur de tendre bonté et de générosité 
 
 -- Bahá'u'lláh
 
-BH03109KIN «[Italiano](../it/prayers/#BH03109KIN)» «[English](../en/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» 
+BH03109KIN «[English](../en/prayers/#BH03109KIN)» «[Italiano](../it/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» 
 
 ----
 
@@ -1487,7 +1487,7 @@ BH03109KIN «[Italiano](../it/prayers/#BH03109KIN)» «[English](../en/prayers/#
 
 -- Abdu'l-Bahá
 
-bpn9219 
+bpn9219 «[Français](../fr/prayers/#bpn9219)» 
 
 ----
 
@@ -1497,7 +1497,7 @@ bpn9219
 
 -- Abdu'l-Bahá
 
-bpn9220 
+bpn9220 «[Français](../fr/prayers/#bpn9220)» 
 
 ----
 
@@ -1507,7 +1507,7 @@ bpn9220
 
 -- Abdu'l-Bahá
 
-bpn9218 
+bpn9218 «[Français](../fr/prayers/#bpn9218)» 
 
 ----
 
@@ -1521,7 +1521,7 @@ bpn9218
 
 -- Bahá'u'lláh
 
-bpn9125 
+bpn9125 «[Français](../fr/prayers/#bpn9125)» 
 
 ----
 
@@ -1531,7 +1531,7 @@ bpn9125
 
 -- Bahá'u'lláh
 
-bpn9126 
+bpn9126 «[Français](../fr/prayers/#bpn9126)» 
 
 ----
 
@@ -1541,7 +1541,7 @@ bpn9126
 
 -- Bahá'u'lláh
 
-bpn9127 
+bpn9127 «[Français](../fr/prayers/#bpn9127)» 
 
 ----
 
@@ -1555,7 +1555,7 @@ Loué soit ton nom, ô Seigneur, mon Dieu ! Les ténèbres enveloppent le monde 
 
 -- Bahá'u'lláh
 
-bpn9231 
+bpn9231 «[Français](../fr/prayers/#bpn9231)» 
 
 ----
 
@@ -1565,7 +1565,7 @@ Gloire à toi, ô Seigneur, toi qui animes toutes choses créées par le pouvoir
 
 -- Báb
 
-bpn9232 
+bpn9232 «[Français](../fr/prayers/#bpn9232)» 
 
 ----
 
@@ -1575,7 +1575,7 @@ bpn9232
 
 -- Báb
 
-bpn9233 
+bpn9233 «[Français](../fr/prayers/#bpn9233)» 
 
 ----
 
@@ -1585,7 +1585,7 @@ bpn9233
 
 -- Báb
 
-bpn9234 
+bpn9234 «[Français](../fr/prayers/#bpn9234)» 
 
 ----
 
@@ -1595,7 +1595,7 @@ bpn9234
 
 -- Báb
 
-bpn9235 
+bpn9235 «[Français](../fr/prayers/#bpn9235)» 
 
 ----
 
@@ -1605,7 +1605,7 @@ bpn9235
 
 -- Abdu'l-Bahá
 
-bpn9236 
+bpn9236 «[Français](../fr/prayers/#bpn9236)» 
 
 ----
 
@@ -1615,7 +1615,7 @@ Il est Dieu ! Ô Seigneur, mon Dieu, mon Bien-Aimé, tes serviteurs que voici on
 
 -- Abdu'l-Bahá
 
-bpn9237 
+bpn9237 «[Français](../fr/prayers/#bpn9237)» 
 
 ----
 
@@ -1629,7 +1629,7 @@ Louange à toi, ô Seigneur, mon Dieu ! Tu sais que j’ai appelé tes serviteur
 
 -- Bahá'u'lláh
 
-bpn9238 
+bpn9238 «[Français](../fr/prayers/#bpn9238)» 
 
 ----
 
@@ -1639,7 +1639,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Voici ton serviteur qui, des mains de ta 
 
 -- Bahá'u'lláh
 
-bpn9239 
+bpn9239 «[Français](../fr/prayers/#bpn9239)» 
 
 ----
 
@@ -1649,7 +1649,7 @@ bpn9239
 
 -- Bahá'u'lláh
 
-bpn9240 
+bpn9240 «[Français](../fr/prayers/#bpn9240)» 
 
 ----
 
@@ -1659,7 +1659,7 @@ Magnifié sois-tu, ô Seigneur, mon Dieu ! Par ton nom que tu as placé au-dessu
 
 -- Bahá'u'lláh
 
-bpn9241 
+bpn9241 «[Français](../fr/prayers/#bpn9241)» 
 
 ----
 
@@ -1669,7 +1669,7 @@ Loué sois-tu, ô mon Dieu, toi qui, d’un mot de tes lèvres, bouleverses tout
 
 -- Bahá'u'lláh
 
-bpn9242 
+bpn9242 «[Français](../fr/prayers/#bpn9242)» 
 
 ----
 
@@ -1679,7 +1679,7 @@ Louange à toi, ô Seigneur, mon Dieu ! J’ai recherché ton bon plaisir et dir
 
 -- Bahá'u'lláh
 
-bpn9243 
+bpn9243 «[Français](../fr/prayers/#bpn9243)» 
 
 ----
 
@@ -1689,7 +1689,7 @@ Tu es glorifié, ô Seigneur, mon Dieu ! Par ton nom, Celui qui fixe les limites
 
 -- Bahá'u'lláh
 
-bpn9244 
+bpn9244 «[Français](../fr/prayers/#bpn9244)» 
 
 ----
 
@@ -1699,7 +1699,7 @@ bpn9244
 
 -- Bahá'u'lláh
 
-bpn9245 
+bpn9245 «[Français](../fr/prayers/#bpn9245)» 
 
 ----
 
@@ -1709,7 +1709,7 @@ Louange à toi, ô Seigneur, mon Dieu ! Je le jure par ta puissance. Des calamit
 
 -- Bahá'u'lláh
 
-bpn9246 
+bpn9246 «[Français](../fr/prayers/#bpn9246)» 
 
 ----
 
@@ -1719,7 +1719,7 @@ bpn9246
 
 -- Bahá'u'lláh
 
-bpn9247 
+bpn9247 «[Français](../fr/prayers/#bpn9247)» 
 
 ----
 
@@ -1729,7 +1729,7 @@ Magnifié soit ton nom, ô mon Dieu ! Par ce nom qu’aucun écrit ne peut conte
 
 -- Bahá'u'lláh
 
-bpn9248 
+bpn9248 «[Français](../fr/prayers/#bpn9248)» 
 
 ----
 
@@ -1739,7 +1739,7 @@ bpn9248
 
 -- Bahá'u'lláh
 
-bpn9249 
+bpn9249 «[Français](../fr/prayers/#bpn9249)» 
 
 ----
 
@@ -1749,7 +1749,7 @@ bpn9249
 
 -- Bahá'u'lláh
 
-bpn9250 
+bpn9250 «[Français](../fr/prayers/#bpn9250)» 
 
 ----
 
@@ -1759,7 +1759,7 @@ bpn9250
 
 -- Bahá'u'lláh
 
-bpn9251 
+bpn9251 «[Français](../fr/prayers/#bpn9251)» 
 
 ----
 
@@ -1769,7 +1769,7 @@ Dieu atteste l’unité de sa divinité et l’unicité de son Etre. Du trône d
 
 -- Bahá'u'lláh
 
-bpn9252 
+bpn9252 «[Français](../fr/prayers/#bpn9252)» 
 
 ----
 
@@ -1779,7 +1779,7 @@ bpn9252
 
 -- Báb
 
-bpn9253 
+bpn9253 «[Français](../fr/prayers/#bpn9253)» 
 
 ----
 
@@ -1789,7 +1789,7 @@ Gloire à toi, ô Dieu ! Tu existas avant toutes choses, tu existeras après tou
 
 -- Báb
 
-bpn9254 
+bpn9254 «[Français](../fr/prayers/#bpn9254)» 
 
 ----
 
@@ -1799,7 +1799,7 @@ A u nom de Dieu, le Seigneur de majesté toute puissante, l’Irrésistible, san
 
 -- Báb
 
-bpn9255 
+bpn9255 «[Français](../fr/prayers/#bpn9255)» 
 
 ----
 
@@ -1809,7 +1809,7 @@ bpn9255
 
 -- Abdu'l-Bahá
 
-bpn9256 
+bpn9256 «[Français](../fr/prayers/#bpn9256)» 
 
 ----
 
@@ -1823,7 +1823,7 @@ Aux flots parfumés de ton éternité, laisse-moi m’abreuver, ô mon Dieu, et 
 
 -- Bahá'u'lláh
 
-bpn9257 
+bpn9257 «[Français](../fr/prayers/#bpn9257)» 
 
 ----
 
@@ -1833,7 +1833,7 @@ Crée en moi un cœur pur, ô mon Dieu et ranime en moi une conscience paisible,
 
 -- Bahá'u'lláh
 
-bpn9258 
+bpn9258 «[Français](../fr/prayers/#bpn9258)» 
 
 ----
 
@@ -1843,7 +1843,7 @@ Dis : ô Dieu, mon Dieu ! Pare ma tête de la couronne de la justice et mon temp
 
 -- Bahá'u'lláh
 
-bpn9259 
+bpn9259 «[Français](../fr/prayers/#bpn9259)» 
 
 ----
 
@@ -1853,7 +1853,7 @@ Il est le Miséricordieux, le Très-Généreux ! Ô Dieu, mon Dieu, ton appel m�
 
 -- Bahá'u'lláh
 
-bpn9260 
+bpn9260 «[Français](../fr/prayers/#bpn9260)» 
 
 ----
 
@@ -1863,7 +1863,7 @@ bpn9260
 
 -- Bahá'u'lláh
 
-bpn9261 
+bpn9261 «[Français](../fr/prayers/#bpn9261)» 
 
 ----
 
@@ -1873,7 +1873,7 @@ bpn9261
 
 -- Bahá'u'lláh
 
-bpn9262 
+bpn9262 «[Français](../fr/prayers/#bpn9262)» 
 
 ----
 
@@ -1883,7 +1883,7 @@ Il est Dieu ! Il entend les prières et les exauce. Par ta gloire, ô Bien-Aimé
 
 -- Bahá'u'lláh
 
-bpn9263 
+bpn9263 «[Français](../fr/prayers/#bpn9263)» 
 
 ----
 
@@ -1893,7 +1893,7 @@ Glorifié es-tu, ô Seigneur, mon Dieu ! Je te rends grâce, car tu m’as appel
 
 -- Bahá'u'lláh
 
-bpn9264 
+bpn9264 «[Français](../fr/prayers/#bpn9264)» 
 
 ----
 
@@ -1903,7 +1903,7 @@ bpn9264
 
 -- Báb
 
-bpn9265 
+bpn9265 «[Français](../fr/prayers/#bpn9265)» 
 
 ----
 
@@ -1913,7 +1913,7 @@ bpn9265
 
 -- Abdu'l-Bahá
 
-bpn9266 
+bpn9266 «[Français](../fr/prayers/#bpn9266)» 
 
 ----
 
@@ -1923,7 +1923,7 @@ bpn9266
 
 -- Abdu'l-Bahá
 
-bpn9267 
+bpn9267 «[Français](../fr/prayers/#bpn9267)» 
 
 ----
 
@@ -1933,7 +1933,7 @@ bpn9267
 
 -- Abdu'l-Bahá
 
-bpn9268 
+bpn9268 «[Français](../fr/prayers/#bpn9268)» 
 
 ----
 
@@ -1943,7 +1943,7 @@ bpn9268
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../en/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» 
+AB09139 «[English](../en/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» 
 
 ----
 
@@ -1953,7 +1953,7 @@ Voici que ton serviteur radieux, ton captif spirituel vient vers toi et se rappr
 
 -- Abdu'l-Bahá
 
-bpn9270 
+bpn9270 «[Français](../fr/prayers/#bpn9270)» 
 
 ----
 
@@ -1963,7 +1963,7 @@ bpn9270
 
 -- Abdu'l-Bahá
 
-bpn9271 
+bpn9271 «[Français](../fr/prayers/#bpn9271)» 
 
 ----
 
@@ -1973,7 +1973,7 @@ Il est Dieu ! Ô Dieu, mon Dieu, voici, en tes jours, tes serviteurs attirés pa
 
 -- Abdu'l-Bahá
 
-bpn9272 
+bpn9272 «[Français](../fr/prayers/#bpn9272)» 
 
 ----
 
@@ -1983,7 +1983,7 @@ bpn9272
 
 -- Abdu'l-Bahá
 
-bpn9273 
+bpn9273 «[Français](../fr/prayers/#bpn9273)» 
 
 ----
 
@@ -1997,7 +1997,7 @@ bpn9273
 
 -- Bahá'u'lláh
 
-bpn9274 
+bpn9274 «[Français](../fr/prayers/#bpn9274)» 
 
 ----
 
@@ -2007,7 +2007,7 @@ Loué et glorifié sois-tu, ô mon Dieu ! Par les soupirs de ceux qui t’aiment
 
 -- Bahá'u'lláh
 
-bpn9275 
+bpn9275 «[Français](../fr/prayers/#bpn9275)» 
 
 ----
 
@@ -2017,7 +2017,7 @@ Par ta puissance je t’adjure, ô mon Dieu ! Qu’aucun mal ne m’assaille dan
 
 -- Báb
 
-bpn9278 
+bpn9278 «[Français](../fr/prayers/#bpn9278)» 
 
 ----
 
@@ -2027,7 +2027,7 @@ bpn9278
 
 -- Báb
 
-bpn9279 
+bpn9279 «[Français](../fr/prayers/#bpn9279)» 
 
 ----
 
@@ -2037,7 +2037,7 @@ Dis : Dieu suffit à tout, au-delà de tout, et rien, ni dans les cieux ni sur l
 
 -- Báb
 
-BB00015SUF «[Papiamentu](../pap/prayers/#BB00015SUF)» «[English](../en/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» 
+BB00015SUF «[English](../en/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -2047,7 +2047,7 @@ Qui, hormis Dieu, dissipe les difficultés ? Dis : Loué soit Dieu ! Lui seul es
 
 -- Báb
 
-BB00623 «[Papiamentu](../pap/prayers/#BB00623)» «[English](../en/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» 
+BB00623 «[English](../en/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Tuvalu](../tvl/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
 
 ----
 
@@ -2057,7 +2057,7 @@ BB00623 «[Papiamentu](../pap/prayers/#BB00623)» «[English](../en/prayers/#BB0
 
 -- Abdu'l-Bahá
 
-bpn9280 
+bpn9280 «[Français](../fr/prayers/#bpn9280)» 
 
 ----
 
@@ -2067,7 +2067,7 @@ Il est le Compatissant, le Très-Généreux ! Ô Dieu, mon Dieu, tu me vois, tu 
 
 -- Abdu'l-Bahá
 
-bpn9281 
+bpn9281 «[Français](../fr/prayers/#bpn9281)» 
 
 ----
 
@@ -2077,7 +2077,7 @@ bpn9281
 
 -- Abdu'l-Bahá
 
-bpn9282 
+bpn9282 «[Français](../fr/prayers/#bpn9282)» 
 
 ----
 
@@ -2091,7 +2091,7 @@ Glorifié es-tu, ô Seigneur, mon Dieu ! Par les souffles impétueux de ta grâc
 
 -- Bahá'u'lláh
 
-bpn9283 
+bpn9283 «[Français](../fr/prayers/#bpn9283)» 
 
 ----
 
@@ -2101,7 +2101,7 @@ bpn9283
 
 -- Abdu'l-Bahá
 
-bpn9284 
+bpn9284 «[Français](../fr/prayers/#bpn9284)» 
 
 ----
 
@@ -2111,7 +2111,7 @@ bpn9284
 
 -- Abdu'l-Bahá
 
-bpn9285 
+bpn9285 «[Français](../fr/prayers/#bpn9285)» 
 
 ----
 
@@ -2121,7 +2121,7 @@ bpn9285
 
 -- Abdu'l-Bahá
 
-bpn9286 
+bpn9286 «[Français](../fr/prayers/#bpn9286)» 
 
 ----
 
@@ -2131,7 +2131,7 @@ bpn9286
 
 -- Abdu'l-Bahá
 
-bpn9287 
+bpn9287 «[Français](../fr/prayers/#bpn9287)» 
 
 ----
 
@@ -2141,7 +2141,7 @@ bpn9287
 
 -- Abdu'l-Bahá
 
-bpn9288 
+bpn9288 «[Français](../fr/prayers/#bpn9288)» 
 
 ----
 
@@ -2155,7 +2155,7 @@ bpn9288
 
 -- Bahá'u'lláh
 
-bpn9289 
+bpn9289 «[Français](../fr/prayers/#bpn9289)» 
 
 ----
 
@@ -2165,7 +2165,7 @@ bpn9289
 
 -- Bahá'u'lláh
 
-BH00009HOW «[English](../../en/prayers/#BH00009HOW)» 
+BH00009HOW «[English](../en/prayers/#BH00009HOW)» «[Français](../fr/prayers/#BH00009HOW)» 
 
 ----
 
@@ -2175,7 +2175,7 @@ BH00009HOW «[English](../../en/prayers/#BH00009HOW)»
 
 -- Abdu'l-Bahá
 
-bpn9291 
+bpn9291 «[Français](../fr/prayers/#bpn9291)» 
 
 ----
 
@@ -2217,7 +2217,7 @@ bpn9299 «[Français](../fr/prayers/#bpn9299)»
 
 -- Bahá'u'lláh
 
-bpn9298 
+bpn9298 «[Français](../fr/prayers/#bpn9298)» 
 
 ----
 
@@ -2231,7 +2231,7 @@ Mon Dieu que je vénère et que j’adore !  J’atteste ton unité et ton unici
 
 -- Bahá'u'lláh
 
-bpn9292 
+bpn9292 «[Français](../fr/prayers/#bpn9292)» 
 
 ----
 
@@ -2241,7 +2241,7 @@ bpn9292
 
 -- Bahá'u'lláh
 
-bpn9293 
+bpn9293 «[Français](../fr/prayers/#bpn9293)» 
 
 ----
 
@@ -2251,7 +2251,7 @@ bpn9293
 
 -- Abdu'l-Bahá
 
-bpn9294 
+bpn9294 «[Français](../fr/prayers/#bpn9294)» 
 
 ----
 
@@ -2261,7 +2261,7 @@ bpn9294
 
 -- Abdu'l-Bahá
 
-bpn9295 
+bpn9295 «[Français](../fr/prayers/#bpn9295)» 
 
 ----
 
@@ -2271,7 +2271,7 @@ bpn9295
 
 -- Abdu'l-Bahá
 
-bpn9296 
+bpn9296 «[Français](../fr/prayers/#bpn9296)» 
 
 ----
 
@@ -2281,7 +2281,7 @@ bpn9296
 
 -- Abdu'l-Bahá
 
-bpn9297 
+bpn9297 «[Français](../fr/prayers/#bpn9297)» 
 
 ----
 
@@ -2295,7 +2295,7 @@ bpn9297
 
 -- Bahá'u'lláh
 
-bpn9178 
+bpn9178 «[Français](../fr/prayers/#bpn9178)» 
 
 ----
 
@@ -2305,7 +2305,7 @@ Gloire à toi, ô mon Dieu ! Sans les tribulations endurées dans ton chemin, co
 
 -- Bahá'u'lláh
 
-bpn9179 
+bpn9179 «[Français](../fr/prayers/#bpn9179)» 
 
 ----
 
@@ -2315,7 +2315,7 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Tout homme perspicace atteste ta souverai
 
 -- Bahá'u'lláh
 
-bpn9180 
+bpn9180 «[Français](../fr/prayers/#bpn9180)» 
 
 ----
 
@@ -2325,7 +2325,7 @@ Tu sais parfaitement, ô mon Dieu, que les tribulations pleuvent sur moi de tous
 
 -- Báb
 
-bpn9181 
+bpn9181 «[Français](../fr/prayers/#bpn9181)» 
 
 ----
 

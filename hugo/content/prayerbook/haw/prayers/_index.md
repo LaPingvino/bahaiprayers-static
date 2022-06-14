@@ -9,7 +9,6 @@ tags = ['lang=haw', 'prayerbook']
 
 [He Pule Koi Pˆkole](#He+Pule+Koi+P%CB%86kole)
 
-[He Pule Koi Pˆkole](#He+Pule+Koi+P%CB%86kole)
 
 
 <a id="General+Prayers"></a> 
@@ -20,7 +19,7 @@ tags = ['lang=haw', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6214 
+bpn6214 «[Hawaiian](../haw/prayers/#bpn6214)» 
 
 ----
 
@@ -30,7 +29,7 @@ bpn6214
 
 -- Bahá'u'lláh
 
-bpn6210 
+bpn6210 «[Hawaiian](../haw/prayers/#bpn6210)» 
 
 ----
 
@@ -40,7 +39,7 @@ bpn6210
 
 -- Bahá'u'lláh
 
-bpn6213 
+bpn6213 «[Hawaiian](../haw/prayers/#bpn6213)» 
 
 ----
 
@@ -50,7 +49,7 @@ bpn6213
 
 -- Báb
 
-bpn6212 
+bpn6212 «[Hawaiian](../haw/prayers/#bpn6212)» 
 
 ----
 
@@ -60,7 +59,7 @@ bpn6212
 
 -- Abdu'l-Bahá
 
-bpn6215 
+bpn6215 «[Hawaiian](../haw/prayers/#bpn6215)» 
 
 ----
 
@@ -74,7 +73,7 @@ bpn6215
 
 -- Bahá'u'lláh
 
-bpn6211 
+bpn6211 «[Hawaiian](../haw/prayers/#bpn6211)» 
 
 ----
 

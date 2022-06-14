@@ -51,7 +51,7 @@ Kitsíneh’ka-seemee tóXta-sókimoX-see, áh-yoh Apistotokee, ki ikúmoks-tay-
 
 -- Bahá'u'lláh
 
-bpn4150 
+bpn4150 «[Canadian Indigenous](../nai-CA/prayers/#bpn4150)» 
 
 ----
 
@@ -61,7 +61,7 @@ Atsée-moyeh’kapee un-óm, ki kokónahn, keetáw-pop, ki akápeeyoyis, kyoos-k
 
 -- Bahá'u'lláh
 
-bpn4149 
+bpn4149 «[Canadian Indigenous](../nai-CA/prayers/#bpn4149)» 
 
 ----
 
@@ -71,7 +71,7 @@ Apistotokeewa keeták-oXkotspómok-owa, kútat-sits-eéh’pa keeták-oXkot-spom
 
 -- Báb
 
-bpn4148 
+bpn4148 «[Canadian Indigenous](../nai-CA/prayers/#bpn4148)» 
 
 ----
 
@@ -85,7 +85,7 @@ Sigakundjigauso peendji okitahgisiwinug dibishko wigiwam, gahyay o-ahbinass, oda
 
 -- Bahá'u'lláh
 
-bpn4151 
+bpn4151 «[Canadian Indigenous](../nai-CA/prayers/#bpn4151)» 
 
 ----
 
@@ -99,7 +99,7 @@ He He Tu i&#39; nul, &#39;i&#39; thu lelum&#39;, &#39;i&#39; thu shhw&#39; i, &#
 
 -- Bahá'u'lláh
 
-bpn4138 
+bpn4138 «[Canadian Indigenous](../nai-CA/prayers/#bpn4138)» 
 
 ----
 
@@ -113,7 +113,7 @@ Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag
 
 -- Bahá'u'lláh
 
-bpn4152 
+bpn4152 «[Canadian Indigenous](../nai-CA/prayers/#bpn4152)» 
 
 ----
 
@@ -127,7 +127,7 @@ bpn4152
 
 -- Bahá'u'lláh
 
-bpn6851 
+bpn6851 «[Canadian Indigenous](../nai-CA/prayers/#bpn6851)» 
 
 ----
 
@@ -141,7 +141,7 @@ Xe Xe Tsitsulth siem xe xe uy un st’i’wi’ulthNilth nuw ‘uy’ nu slhexun
 
 -- Bahá'u'lláh
 
-bpn8005 
+bpn8005 «[Canadian Indigenous](../nai-CA/prayers/#bpn8005)» 
 
 ----
 
@@ -151,7 +151,7 @@ bpn8005
 
 -- Bahá'u'lláh
 
-bpn8004 
+bpn8004 «[Canadian Indigenous](../nai-CA/prayers/#bpn8004)» 
 
 ----
 
@@ -165,7 +165,7 @@ Sah-sén-na ne se-wa-kie-wen-tá-kwa O a-ge-Ni-yo, ta-non, ji-kon-yeh-ya-ráh-kw
 
 -- Bahá'u'lláh
 
-bpn4158 
+bpn4158 «[Canadian Indigenous](../nai-CA/prayers/#bpn4158)» 
 
 ----
 
@@ -175,7 +175,7 @@ Yo-tás-kat ka-non-ni-yo-kweń-ra-re noń-kwe ji-ka-non-so-te ó-ni ji-ye-ná-ke
 
 -- Bahá'u'lláh
 
-bpn4157 
+bpn4157 «[Canadian Indigenous](../nai-CA/prayers/#bpn4157)» 
 
 ----
 
@@ -185,7 +185,7 @@ Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne we
 
 -- Báb
 
-bpn4159 
+bpn4159 «[Canadian Indigenous](../nai-CA/prayers/#bpn4159)» 
 
 ----
 
@@ -199,7 +199,7 @@ O NISKAMINU! O NISKAMINU! MAWA’TU UKKAMLAMUNWAL KTLUKOWINUMK, AQQ KINUA’TU T
 
 -- Abdu'l-Bahá
 
-bpn4162 
+bpn4162 «[Canadian Indigenous](../nai-CA/prayers/#bpn4162)» 
 
 ----
 
@@ -213,7 +213,7 @@ Wa-geh-ni-wha-gwa-risi, Ook Nkyo, Neh Ihse dá-ká-dis-son ne á-gon/yen-dé-rih
 
 -- Bahá'u'lláh
 
-bpn4163 
+bpn4163 «[Canadian Indigenous](../nai-CA/prayers/#bpn4163)» 
 
 ----
 
@@ -227,7 +227,7 @@ bpn4163
 
 -- Bahá'u'lláh
 
-bpn6852 
+bpn6852 «[Canadian Indigenous](../nai-CA/prayers/#bpn6852)» 
 
 ----
 
@@ -241,7 +241,7 @@ yodásgats ji? yojisdóhgwale? kale? ji nú niganuhzode?, kale ji? ganådáyΛ? 
 
 -- Bahá'u'lláh
 
-bpn4172 
+bpn4172 «[Canadian Indigenous](../nai-CA/prayers/#bpn4172)» 
 
 ----
 
@@ -251,7 +251,7 @@ gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniy
 
 -- Báb
 
-bpn4173 
+bpn4173 «[Canadian Indigenous](../nai-CA/prayers/#bpn4173)» 
 
 ----
 
@@ -265,7 +265,7 @@ bpn4173
 
 -- Bahá'u'lláh
 
-bpn6859 
+bpn6859 «[Canadian Indigenous](../nai-CA/prayers/#bpn6859)» 
 
 ----
 
@@ -275,7 +275,7 @@ bpn6859
 
 -- Abdu'l-Bahá
 
-bpn6858 
+bpn6858 «[Canadian Indigenous](../nai-CA/prayers/#bpn6858)» 
 
 ----
 
@@ -285,7 +285,7 @@ Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`
 
 -- Abdu'l-Bahá
 
-bpn4146 
+bpn4146 «[Canadian Indigenous](../nai-CA/prayers/#bpn4146)» 
 
 ----
 
@@ -299,7 +299,7 @@ Oh kw shet hegus, Poleset toh nehs, kweh eh sheet, hega tah ah yehs, nehs klumes
 
 -- Bahá'u'lláh
 
-bpn4147 
+bpn4147 «[Canadian Indigenous](../nai-CA/prayers/#bpn4147)» 
 
 ----
 
@@ -313,7 +313,7 @@ bpn4147
 
 -- Bahá'u'lláh
 
-bpn6856 
+bpn6856 «[Canadian Indigenous](../nai-CA/prayers/#bpn6856)» 
 
 ----
 
@@ -327,7 +327,7 @@ O Miyaani Da&#39;a&#39;ntgi Lusndaamti sü gugweelksm laawksi ada so goy&#39;p&#
 
 -- Abdu'l-Bahá
 
-bpn4137 
+bpn4137 «[Canadian Indigenous](../nai-CA/prayers/#bpn4137)» 
 
 ----
 
@@ -341,7 +341,7 @@ bpn4137
 
 -- Bahá'u'lláh
 
-bpn6853 
+bpn6853 «[Canadian Indigenous](../nai-CA/prayers/#bpn6853)» 
 
 ----
 
@@ -351,7 +351,7 @@ bpn6853
 
 -- Abdu'l-Bahá
 
-bpn6857 
+bpn6857 «[Canadian Indigenous](../nai-CA/prayers/#bpn6857)» 
 
 ----
 
@@ -365,7 +365,7 @@ bpn6857
 
 -- Bahá'u'lláh
 
-bpn6855 
+bpn6855 «[Canadian Indigenous](../nai-CA/prayers/#bpn6855)» 
 
 ----
 
@@ -379,7 +379,7 @@ bpn6855
 
 -- Bahá'u'lláh
 
-bpn6854 
+bpn6854 «[Canadian Indigenous](../nai-CA/prayers/#bpn6854)» 
 
 ----
 

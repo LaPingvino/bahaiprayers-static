@@ -43,7 +43,7 @@ O Tu, gailestingasis Dieve! O Tu, Kuris esi galingas ir stiprus! O Tu, maloningi
 
 -- Abdu'l-Bahá
 
-bpn8204 
+bpn8204 «[Lietuvių](../lt/prayers/#bpn8204)» 
 
 ----
 
@@ -57,7 +57,7 @@ O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trū
 
 -- Abdu'l-Bahá
 
-bpn8203 
+bpn8203 «[Lietuvių](../lt/prayers/#bpn8203)» 
 
 ----
 
@@ -71,7 +71,7 @@ O Dieve, mano Dieve! Tu esi mano Viltis ir mano Mylimasis, mano aukščiausias T
 
 -- Abdu'l-Bahá
 
-bpn8205 
+bpn8205 «[Lietuvių](../lt/prayers/#bpn8205)» 
 
 ----
 
@@ -85,7 +85,7 @@ Sukurk manyje tyrą širdį, o mano Dieve, ir atgaivink mano sąžinės ramybę,
 
 -- Bahá'u'lláh
 
-bpn8189 
+bpn8189 «[Lietuvių](../lt/prayers/#bpn8189)» 
 
 ----
 
@@ -95,7 +95,7 @@ O Dieve! Atgaivink ir pradžiugink mano sielą. Pašventink mano širdį. Apšvi
 
 -- Abdu'l-Bahá
 
-bpn8190 
+bpn8190 «[Lietuvių](../lt/prayers/#bpn8190)» 
 
 ----
 
@@ -105,7 +105,7 @@ O Dieve, mano Dieve! Saugok Savo patikimus tarnus nuo savanaudiškumo ir aistros
 
 -- Abdu'l-Bahá
 
-bpn8191 
+bpn8191 «[Lietuvių](../lt/prayers/#bpn8191)» 
 
 ----
 
@@ -119,7 +119,7 @@ Tavo vardas gydo mane, o mano Dieve, Tavo prisiminimas yra mano vaistai. Tavo ar
 
 -- Bahá'u'lláh
 
-bpn8195 
+bpn8195 «[Lietuvių](../lt/prayers/#bpn8195)» 
 
 ----
 
@@ -129,7 +129,7 @@ bpn8195
 
 -- Bahá'u'lláh
 
-bpn8196 
+bpn8196 «[Lietuvių](../lt/prayers/#bpn8196)» 
 
 ----
 
@@ -143,7 +143,7 @@ Kas kitas, jei ne Dievas, pašalina sunkumus? Sakyk: tebūnie pagarbintas Dievas
 
 -- Báb
 
-bpn8192 
+bpn8192 «[Lietuvių](../lt/prayers/#bpn8192)» 
 
 ----
 
@@ -153,7 +153,7 @@ Aš maldauju Tave vardan Tavo galios, o mano Dieve! Tegu blogis nepakenkia man i
 
 -- Báb
 
-bpn8193 
+bpn8193 «[Lietuvių](../lt/prayers/#bpn8193)» 
 
 ----
 
@@ -163,7 +163,7 @@ Jis yra Gailiaširdis, Maloningiausiasis! O Dieve, mano Dieve! Tu matai mane, Tu
 
 -- Abdu'l-Bahá
 
-bpn8194 
+bpn8194 «[Lietuvių](../lt/prayers/#bpn8194)» 
 
 ----
 
@@ -177,7 +177,7 @@ bpn8194
 
 -- Abdu'l-Bahá
 
-bpn8206 
+bpn8206 «[Lietuvių](../lt/prayers/#bpn8206)» 
 
 ----
 
@@ -191,7 +191,7 @@ O mano Dieve! Aš prašau Tavęs, vardan Tavo šlovingiausiojo vardo paremk mane
 
 -- Bahá'u'lláh
 
-bpn8201 
+bpn8201 «[Lietuvių](../lt/prayers/#bpn8201)» 
 
 ----
 
@@ -205,7 +205,7 @@ bpn8201
 
 -- Bahá'u'lláh
 
-bpn8207 
+bpn8207 «[Lietuvių](../lt/prayers/#bpn8207)» 
 
 ----
 
@@ -219,7 +219,7 @@ Tu matai, o Viešpatie, mūsų maldai sudėtas rankas, iškeltas į Tavo maloni�
 
 -- Bahá'u'lláh
 
-bpn8199 
+bpn8199 «[Lietuvių](../lt/prayers/#bpn8199)» 
 
 ----
 
@@ -233,7 +233,7 @@ O mano Dieve! O Tu, nuodėmių atleidėjau, dovanų teikėjau, sielvarto išskla
 
 -- Abdu'l-Bahá
 
-bpn8200 
+bpn8200 «[Lietuvių](../lt/prayers/#bpn8200)» 
 
 ----
 
@@ -247,7 +247,7 @@ O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš k
 
 -- Abdu'l-Bahá
 
-bpn8187 
+bpn8187 «[Lietuvių](../lt/prayers/#bpn8187)» 
 
 ----
 
@@ -257,7 +257,7 @@ O Viešpatie! Mes esame silpni, sustiprink mus. O Dieve! Mes nieko nežinome, su
 
 -- Abdu'l-Bahá
 
-bpn8188 
+bpn8188 «[Lietuvių](../lt/prayers/#bpn8188)» 
 
 ----
 
@@ -271,7 +271,7 @@ O Dieve! Auklėk šiuos vaikus. Šie vaikai yra Tavo vaisių sodo augalai, Tavo 
 
 -- Abdu'l-Bahá
 
-bpn8197 
+bpn8197 «[Lietuvių](../lt/prayers/#bpn8197)» 
 
 ----
 
@@ -281,7 +281,7 @@ O Tu, gerasis Viešpatie! Šie mieli vaikai yra Tavo galios pirštų darbas ir n
 
 -- Abdu'l-Bahá
 
-bpn8198 
+bpn8198 «[Lietuvių](../lt/prayers/#bpn8198)» 
 
 ----
 
@@ -295,7 +295,7 @@ O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norė
 
 -- Abdu'l-Bahá
 
-bpn8202 
+bpn8202 «[Lietuvių](../lt/prayers/#bpn8202)» 
 
 ----
 

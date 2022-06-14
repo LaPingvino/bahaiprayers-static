@@ -85,7 +85,6 @@ tags = ['lang=hi', 'prayerbook']
 
 [स्तुति और कृतज्ञता](#%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%A4%E0%A4%BE)
 
-[स्तुति और कृतज्ञता](#%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%A4%E0%A4%BE)
 
 
 <a id="%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF+%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80"></a> 
@@ -120,7 +119,7 @@ bpn8746 «[हिंदी](../hi/prayers/#bpn8746)»
 
 -- Bahá'u'lláh
 
-bpn8751 
+bpn8751 «[हिंदी](../hi/prayers/#bpn8751)» 
 
 ----
 
@@ -134,7 +133,7 @@ bpn8751
 
 -- Bahá'u'lláh
 
-bpn8218 
+bpn8218 «[हिंदी](../hi/prayers/#bpn8218)» 
 
 ----
 
@@ -144,7 +143,7 @@ bpn8218
 
 -- Bahá'u'lláh
 
-bpn8219 
+bpn8219 «[हिंदी](../hi/prayers/#bpn8219)» 
 
 ----
 
@@ -154,7 +153,7 @@ bpn8219
 
 -- Bahá'u'lláh
 
-bpn8220 
+bpn8220 «[हिंदी](../hi/prayers/#bpn8220)» 
 
 ----
 
@@ -164,7 +163,7 @@ bpn8220
 
 -- Bahá'u'lláh
 
-bpn8221 
+bpn8221 «[हिंदी](../hi/prayers/#bpn8221)» 
 
 ----
 
@@ -174,7 +173,7 @@ bpn8221
 
 -- Bahá'u'lláh
 
-bpn8222 
+bpn8222 «[हिंदी](../hi/prayers/#bpn8222)» 
 
 ----
 
@@ -184,7 +183,7 @@ bpn8222
 
 -- Bahá'u'lláh
 
-bpn8231 
+bpn8231 «[हिंदी](../hi/prayers/#bpn8231)» 
 
 ----
 
@@ -194,7 +193,7 @@ bpn8231
 
 -- Báb
 
-bpn8224 
+bpn8224 «[हिंदी](../hi/prayers/#bpn8224)» 
 
 ----
 
@@ -204,7 +203,7 @@ bpn8224
 
 -- Báb
 
-bpn8225 
+bpn8225 «[हिंदी](../hi/prayers/#bpn8225)» 
 
 ----
 
@@ -214,7 +213,7 @@ bpn8225
 
 -- Abdu'l-Bahá
 
-bpn8228 
+bpn8228 «[हिंदी](../hi/prayers/#bpn8228)» 
 
 ----
 
@@ -224,7 +223,7 @@ bpn8228
 
 -- Abdu'l-Bahá
 
-bpn8229 
+bpn8229 «[हिंदी](../hi/prayers/#bpn8229)» 
 
 ----
 
@@ -238,7 +237,7 @@ bpn8229
 
 -- Bahá'u'lláh
 
-bpn6861 
+bpn6861 «[हिंदी](../hi/prayers/#bpn6861)» 
 
 ----
 
@@ -248,7 +247,7 @@ bpn6861
 
 -- Bahá'u'lláh
 
-bpn8745 
+bpn8745 «[हिंदी](../hi/prayers/#bpn8745)» 
 
 ----
 
@@ -262,7 +261,7 @@ bpn8745
 
 -- Bahá'u'lláh
 
-bpn8275 
+bpn8275 «[हिंदी](../hi/prayers/#bpn8275)» 
 
 ----
 
@@ -272,7 +271,7 @@ bpn8275
 
 -- Bahá'u'lláh
 
-bpn8276 
+bpn8276 «[हिंदी](../hi/prayers/#bpn8276)» 
 
 ----
 
@@ -282,7 +281,7 @@ bpn8276
 
 -- Bahá'u'lláh
 
-bpn8277 
+bpn8277 «[हिंदी](../hi/prayers/#bpn8277)» 
 
 ----
 
@@ -292,7 +291,7 @@ bpn8277
 
 -- Bahá'u'lláh
 
-bpn8278 
+bpn8278 «[हिंदी](../hi/prayers/#bpn8278)» 
 
 ----
 
@@ -302,7 +301,7 @@ bpn8278
 
 -- Bahá'u'lláh
 
-bpn8279 
+bpn8279 «[हिंदी](../hi/prayers/#bpn8279)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn8279
 
 -- Bahá'u'lláh
 
-bpn8280 
+bpn8280 «[हिंदी](../hi/prayers/#bpn8280)» 
 
 ----
 
@@ -322,7 +321,7 @@ bpn8280
 
 -- Abdu'l-Bahá
 
-bpn8273 
+bpn8273 «[हिंदी](../hi/prayers/#bpn8273)» 
 
 ----
 
@@ -332,7 +331,7 @@ bpn8273
 
 -- Abdu'l-Bahá
 
-bpn8274 
+bpn8274 «[हिंदी](../hi/prayers/#bpn8274)» 
 
 ----
 
@@ -346,7 +345,7 @@ bpn8274
 
 -- Abdu'l-Bahá
 
-bpn8281 
+bpn8281 «[हिंदी](../hi/prayers/#bpn8281)» 
 
 ----
 
@@ -356,7 +355,7 @@ bpn8281
 
 -- Abdu'l-Bahá
 
-bpn8282 
+bpn8282 «[हिंदी](../hi/prayers/#bpn8282)» 
 
 ----
 
@@ -366,7 +365,7 @@ bpn8282
 
 -- Abdu'l-Bahá
 
-bpn8284 
+bpn8284 «[हिंदी](../hi/prayers/#bpn8284)» 
 
 ----
 
@@ -380,7 +379,7 @@ bpn8284
 
 -- Bahá'u'lláh
 
-bpn8287 
+bpn8287 «[हिंदी](../hi/prayers/#bpn8287)» 
 
 ----
 
@@ -390,7 +389,7 @@ bpn8287
 
 -- Bahá'u'lláh
 
-bpn8288 
+bpn8288 «[हिंदी](../hi/prayers/#bpn8288)» 
 
 ----
 
@@ -400,7 +399,7 @@ bpn8288
 
 -- Bahá'u'lláh
 
-bpn8286 
+bpn8286 «[हिंदी](../hi/prayers/#bpn8286)» 
 
 ----
 
@@ -448,7 +447,7 @@ bpn8748 «[हिंदी](../hi/prayers/#bpn8748)»
 
 -- Bahá'u'lláh
 
-bpn8752 
+bpn8752 «[हिंदी](../hi/prayers/#bpn8752)» 
 
 ----
 
@@ -458,7 +457,7 @@ bpn8752
 
 -- Bahá'u'lláh
 
-bpn8753 
+bpn8753 «[हिंदी](../hi/prayers/#bpn8753)» 
 
 ----
 
@@ -468,7 +467,7 @@ bpn8753
 
 -- Abdu'l-Bahá
 
-bpn8754 
+bpn8754 «[हिंदी](../hi/prayers/#bpn8754)» 
 
 ----
 
@@ -482,7 +481,7 @@ bpn8754
 
 -- Bahá'u'lláh
 
-bpn8297 
+bpn8297 «[हिंदी](../hi/prayers/#bpn8297)» 
 
 ----
 
@@ -492,7 +491,7 @@ bpn8297
 
 -- Bahá'u'lláh
 
-bpn8298 
+bpn8298 «[हिंदी](../hi/prayers/#bpn8298)» 
 
 ----
 
@@ -502,7 +501,7 @@ bpn8298
 
 -- Bahá'u'lláh
 
-bpn8299 
+bpn8299 «[हिंदी](../hi/prayers/#bpn8299)» 
 
 ----
 
@@ -512,7 +511,7 @@ bpn8299
 
 -- Bahá'u'lláh
 
-bpn8304 
+bpn8304 «[हिंदी](../hi/prayers/#bpn8304)» 
 
 ----
 
@@ -522,7 +521,7 @@ bpn8304
 
 -- Bahá'u'lláh
 
-bpn8292 
+bpn8292 «[हिंदी](../hi/prayers/#bpn8292)» 
 
 ----
 
@@ -532,7 +531,7 @@ bpn8292
 
 -- Abdu'l-Bahá
 
-bpn8303 
+bpn8303 «[हिंदी](../hi/prayers/#bpn8303)» 
 
 ----
 
@@ -546,7 +545,7 @@ bpn8303
 
 -- Bahá'u'lláh
 
-bpn8756 
+bpn8756 «[हिंदी](../hi/prayers/#bpn8756)» 
 
 ----
 
@@ -560,7 +559,7 @@ bpn8756
 
 -- Abdu'l-Bahá
 
-bpn8308 
+bpn8308 «[हिंदी](../hi/prayers/#bpn8308)» 
 
 ----
 
@@ -570,7 +569,7 @@ bpn8308
 
 -- Abdu'l-Bahá
 
-bpn8309 
+bpn8309 «[हिंदी](../hi/prayers/#bpn8309)» 
 
 ----
 
@@ -584,7 +583,7 @@ bpn8309
 
 -- Bahá'u'lláh
 
-bpn8728 
+bpn8728 «[हिंदी](../hi/prayers/#bpn8728)» 
 
 ----
 
@@ -594,7 +593,7 @@ bpn8728
 
 -- Bahá'u'lláh
 
-bpn8729 
+bpn8729 «[हिंदी](../hi/prayers/#bpn8729)» 
 
 ----
 
@@ -604,7 +603,7 @@ bpn8729
 
 -- Bahá'u'lláh
 
-bpn8730 
+bpn8730 «[हिंदी](../hi/prayers/#bpn8730)» 
 
 ----
 
@@ -614,7 +613,7 @@ bpn8730
 
 -- Báb
 
-bpn8731 
+bpn8731 «[हिंदी](../hi/prayers/#bpn8731)» 
 
 ----
 
@@ -624,7 +623,7 @@ bpn8731
 
 -- Báb
 
-bpn8732 
+bpn8732 «[हिंदी](../hi/prayers/#bpn8732)» 
 
 ----
 
@@ -634,7 +633,7 @@ bpn8732
 
 -- Báb
 
-bpn8733 
+bpn8733 «[हिंदी](../hi/prayers/#bpn8733)» 
 
 ----
 
@@ -644,7 +643,7 @@ bpn8733
 
 -- Báb
 
-bpn8734 
+bpn8734 «[हिंदी](../hi/prayers/#bpn8734)» 
 
 ----
 
@@ -654,7 +653,7 @@ bpn8734
 
 -- Abdu'l-Bahá
 
-bpn8735 
+bpn8735 «[हिंदी](../hi/prayers/#bpn8735)» 
 
 ----
 
@@ -668,7 +667,7 @@ bpn8735
 
 -- Abdu'l-Bahá
 
-bpn8330 
+bpn8330 «[हिंदी](../hi/prayers/#bpn8330)» 
 
 ----
 
@@ -678,7 +677,7 @@ bpn8330
 
 -- Abdu'l-Bahá
 
-bpn8331 
+bpn8331 «[हिंदी](../hi/prayers/#bpn8331)» 
 
 ----
 
@@ -692,7 +691,7 @@ bpn8331
 
 -- Bahá'u'lláh
 
-bpn8351 
+bpn8351 «[हिंदी](../hi/prayers/#bpn8351)» 
 
 ----
 
@@ -706,7 +705,7 @@ bpn8351
 
 -- Abdu'l-Bahá
 
-bpn8749 
+bpn8749 «[हिंदी](../hi/prayers/#bpn8749)» 
 
 ----
 
@@ -716,7 +715,7 @@ bpn8749
 
 -- Abdu'l-Bahá
 
-bpn8750 
+bpn8750 «[हिंदी](../hi/prayers/#bpn8750)» 
 
 ----
 
@@ -730,7 +729,7 @@ bpn8750
 
 -- Bahá'u'lláh
 
-bpn6848 
+bpn6848 «[हिंदी](../hi/prayers/#bpn6848)» 
 
 ----
 
@@ -744,7 +743,7 @@ bpn6848
 
 -- Bahá'u'lláh
 
-bpn8316 
+bpn8316 «[हिंदी](../hi/prayers/#bpn8316)» 
 
 ----
 
@@ -754,7 +753,7 @@ bpn8316
 
 -- Bahá'u'lláh
 
-bpn8317 
+bpn8317 «[हिंदी](../hi/prayers/#bpn8317)» 
 
 ----
 
@@ -764,7 +763,7 @@ bpn8317
 
 -- Bahá'u'lláh
 
-bpn8318 
+bpn8318 «[हिंदी](../hi/prayers/#bpn8318)» 
 
 ----
 
@@ -774,7 +773,7 @@ bpn8318
 
 -- Abdu'l-Bahá
 
-bpn8320 
+bpn8320 «[हिंदी](../hi/prayers/#bpn8320)» 
 
 ----
 
@@ -788,7 +787,7 @@ bpn8320
 
 -- Abdu'l-Bahá
 
-bpn8687 
+bpn8687 «[हिंदी](../hi/prayers/#bpn8687)» 
 
 ----
 
@@ -798,7 +797,7 @@ bpn8687
 
 -- Abdu'l-Bahá
 
-bpn8688 
+bpn8688 «[हिंदी](../hi/prayers/#bpn8688)» 
 
 ----
 
@@ -808,7 +807,7 @@ bpn8688
 
 -- Abdu'l-Bahá
 
-bpn8689 
+bpn8689 «[हिंदी](../hi/prayers/#bpn8689)» 
 
 ----
 
@@ -818,7 +817,7 @@ bpn8689
 
 -- Abdu'l-Bahá
 
-bpn8690 
+bpn8690 «[हिंदी](../hi/prayers/#bpn8690)» 
 
 ----
 
@@ -828,7 +827,7 @@ bpn8690
 
 -- Abdu'l-Bahá
 
-bpn8691 
+bpn8691 «[हिंदी](../hi/prayers/#bpn8691)» 
 
 ----
 
@@ -842,7 +841,7 @@ bpn8691
 
 -- Bahá'u'lláh
 
-bpn8310 
+bpn8310 «[हिंदी](../hi/prayers/#bpn8310)» 
 
 ----
 
@@ -852,7 +851,7 @@ bpn8310
 
 -- Bahá'u'lláh
 
-bpn8311 
+bpn8311 «[हिंदी](../hi/prayers/#bpn8311)» 
 
 ----
 
@@ -862,7 +861,7 @@ bpn8311
 
 -- Bahá'u'lláh
 
-bpn8312 
+bpn8312 «[हिंदी](../hi/prayers/#bpn8312)» 
 
 ----
 
@@ -872,7 +871,7 @@ bpn8312
 
 -- Báb
 
-bpn8313 
+bpn8313 «[हिंदी](../hi/prayers/#bpn8313)» 
 
 ----
 
@@ -882,7 +881,7 @@ bpn8313
 
 -- Báb
 
-bpn8314 
+bpn8314 «[हिंदी](../hi/prayers/#bpn8314)» 
 
 ----
 
@@ -892,7 +891,7 @@ bpn8314
 
 -- Abdu'l-Bahá
 
-bpn8315 
+bpn8315 «[हिंदी](../hi/prayers/#bpn8315)» 
 
 ----
 
@@ -906,7 +905,7 @@ bpn8315
 
 -- Abdu'l-Bahá
 
-bpn8322 
+bpn8322 «[हिंदी](../hi/prayers/#bpn8322)» 
 
 ----
 
@@ -920,7 +919,7 @@ bpn8322
 
 -- Bahá'u'lláh
 
-bpn8333 
+bpn8333 «[हिंदी](../hi/prayers/#bpn8333)» 
 
 ----
 
@@ -930,7 +929,7 @@ bpn8333
 
 -- Báb
 
-bpn8336 
+bpn8336 «[हिंदी](../hi/prayers/#bpn8336)» 
 
 ----
 
@@ -940,7 +939,7 @@ bpn8336
 
 -- Báb
 
-bpn8338 
+bpn8338 «[हिंदी](../hi/prayers/#bpn8338)» 
 
 ----
 
@@ -950,7 +949,7 @@ bpn8338
 
 -- Báb
 
-bpn8335 
+bpn8335 «[हिंदी](../hi/prayers/#bpn8335)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn8335
 
 -- Báb
 
-bpn8337 
+bpn8337 «[हिंदी](../hi/prayers/#bpn8337)» 
 
 ----
 
@@ -970,7 +969,7 @@ bpn8337
 
 -- Abdu'l-Bahá
 
-bpn8340 
+bpn8340 «[हिंदी](../hi/prayers/#bpn8340)» 
 
 ----
 
@@ -980,7 +979,7 @@ bpn8340
 
 -- Abdu'l-Bahá
 
-bpn8341 
+bpn8341 «[हिंदी](../hi/prayers/#bpn8341)» 
 
 ----
 
@@ -990,7 +989,7 @@ bpn8341
 
 -- Abdu'l-Bahá
 
-bpn8343 
+bpn8343 «[हिंदी](../hi/prayers/#bpn8343)» 
 
 ----
 
@@ -1000,7 +999,7 @@ bpn8343
 
 -- Abdu'l-Bahá
 
-bpn8347 
+bpn8347 «[हिंदी](../hi/prayers/#bpn8347)» 
 
 ----
 
@@ -1014,7 +1013,7 @@ bpn8347
 
 -- Bahá'u'lláh
 
-bpn8342 
+bpn8342 «[हिंदी](../hi/prayers/#bpn8342)» 
 
 ----
 
@@ -1024,7 +1023,7 @@ bpn8342
 
 -- Bahá'u'lláh
 
-bpn8344 
+bpn8344 «[हिंदी](../hi/prayers/#bpn8344)» 
 
 ----
 
@@ -1034,7 +1033,7 @@ bpn8344
 
 -- Bahá'u'lláh
 
-bpn8345 
+bpn8345 «[हिंदी](../hi/prayers/#bpn8345)» 
 
 ----
 
@@ -1044,7 +1043,7 @@ bpn8345
 
 -- Báb
 
-bpn8346 
+bpn8346 «[हिंदी](../hi/prayers/#bpn8346)» 
 
 ----
 
@@ -1058,7 +1057,7 @@ bpn8346
 
 -- Bahá'u'lláh
 
-bpn8348 
+bpn8348 «[हिंदी](../hi/prayers/#bpn8348)» 
 
 ----
 
@@ -1068,7 +1067,7 @@ bpn8348
 
 -- Bahá'u'lláh
 
-bpn8349 
+bpn8349 «[हिंदी](../hi/prayers/#bpn8349)» 
 
 ----
 
@@ -1078,7 +1077,7 @@ bpn8349
 
 -- Bahá'u'lláh
 
-bpn8352 
+bpn8352 «[हिंदी](../hi/prayers/#bpn8352)» 
 
 ----
 
@@ -1088,7 +1087,7 @@ bpn8352
 
 -- Bahá'u'lláh
 
-bpn8353 
+bpn8353 «[हिंदी](../hi/prayers/#bpn8353)» 
 
 ----
 
@@ -1098,7 +1097,7 @@ bpn8353
 
 -- Bahá'u'lláh
 
-bpn8357 
+bpn8357 «[हिंदी](../hi/prayers/#bpn8357)» 
 
 ----
 
@@ -1108,7 +1107,7 @@ bpn8357
 
 -- Bahá'u'lláh
 
-bpn8358 
+bpn8358 «[हिंदी](../hi/prayers/#bpn8358)» 
 
 ----
 
@@ -1118,7 +1117,7 @@ bpn8358
 
 -- Bahá'u'lláh
 
-bpn8359 
+bpn8359 «[हिंदी](../hi/prayers/#bpn8359)» 
 
 ----
 
@@ -1128,7 +1127,7 @@ bpn8359
 
 -- Bahá'u'lláh
 
-bpn8362 
+bpn8362 «[हिंदी](../hi/prayers/#bpn8362)» 
 
 ----
 
@@ -1138,7 +1137,7 @@ bpn8362
 
 -- Bahá'u'lláh
 
-bpn8366 
+bpn8366 «[हिंदी](../hi/prayers/#bpn8366)» 
 
 ----
 
@@ -1148,7 +1147,7 @@ bpn8366
 
 -- Bahá'u'lláh
 
-bpn8369 
+bpn8369 «[हिंदी](../hi/prayers/#bpn8369)» 
 
 ----
 
@@ -1162,7 +1161,7 @@ bpn8369
 
 -- Bahá'u'lláh
 
-bpn8355 
+bpn8355 «[हिंदी](../hi/prayers/#bpn8355)» 
 
 ----
 
@@ -1172,7 +1171,7 @@ bpn8355
 
 -- Bahá'u'lláh
 
-bpn8361 
+bpn8361 «[हिंदी](../hi/prayers/#bpn8361)» 
 
 ----
 
@@ -1182,7 +1181,7 @@ bpn8361
 
 -- Bahá'u'lláh
 
-bpn8367 
+bpn8367 «[हिंदी](../hi/prayers/#bpn8367)» 
 
 ----
 
@@ -1192,7 +1191,7 @@ bpn8367
 
 -- Báb
 
-bpn8360 
+bpn8360 «[हिंदी](../hi/prayers/#bpn8360)» 
 
 ----
 
@@ -1202,7 +1201,7 @@ bpn8360
 
 -- Báb
 
-bpn8363 
+bpn8363 «[हिंदी](../hi/prayers/#bpn8363)» 
 
 ----
 
@@ -1212,7 +1211,7 @@ bpn8363
 
 -- Báb
 
-bpn8365 
+bpn8365 «[हिंदी](../hi/prayers/#bpn8365)» 
 
 ----
 
@@ -1222,7 +1221,7 @@ bpn8365
 
 -- Báb
 
-bpn8370 
+bpn8370 «[हिंदी](../hi/prayers/#bpn8370)» 
 
 ----
 
@@ -1232,7 +1231,7 @@ bpn8370
 
 -- Abdu'l-Bahá
 
-bpn8368 
+bpn8368 «[हिंदी](../hi/prayers/#bpn8368)» 
 
 ----
 
@@ -1246,7 +1245,7 @@ bpn8368
 
 -- Bahá'u'lláh
 
-bpn8378 
+bpn8378 «[हिंदी](../hi/prayers/#bpn8378)» 
 
 ----
 
@@ -1256,7 +1255,7 @@ bpn8378
 
 -- Abdu'l-Bahá
 
-bpn8379 
+bpn8379 «[हिंदी](../hi/prayers/#bpn8379)» 
 
 ----
 
@@ -1266,7 +1265,7 @@ bpn8379
 
 -- Abdu'l-Bahá
 
-bpn8380 
+bpn8380 «[हिंदी](../hi/prayers/#bpn8380)» 
 
 ----
 
@@ -1276,7 +1275,7 @@ bpn8380
 
 -- Abdu'l-Bahá
 
-bpn8381 
+bpn8381 «[हिंदी](../hi/prayers/#bpn8381)» 
 
 ----
 
@@ -1286,7 +1285,7 @@ bpn8381
 
 -- Abdu'l-Bahá
 
-bpn8383 
+bpn8383 «[हिंदी](../hi/prayers/#bpn8383)» 
 
 ----
 
@@ -1296,7 +1295,7 @@ bpn8383
 
 -- Abdu'l-Bahá
 
-bpn8382 
+bpn8382 «[हिंदी](../hi/prayers/#bpn8382)» 
 
 ----
 
@@ -1310,7 +1309,7 @@ bpn8382
 
 -- Bahá'u'lláh
 
-bpn8738 
+bpn8738 «[हिंदी](../hi/prayers/#bpn8738)» 
 
 ----
 
@@ -1324,7 +1323,7 @@ bpn8738
 
 -- Abdu'l-Bahá
 
-bpn8692 
+bpn8692 «[हिंदी](../hi/prayers/#bpn8692)» 
 
 ----
 
@@ -1338,7 +1337,7 @@ bpn8692
 
 -- Bahá'u'lláh
 
-bpn8326 
+bpn8326 «[हिंदी](../hi/prayers/#bpn8326)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ bpn8326
 
 -- Báb
 
-bpn8328 
+bpn8328 «[हिंदी](../hi/prayers/#bpn8328)» 
 
 ----
 
@@ -1358,7 +1357,7 @@ bpn8328
 
 -- Abdu'l-Bahá
 
-bpn8324 
+bpn8324 «[हिंदी](../hi/prayers/#bpn8324)» 
 
 ----
 
@@ -1372,7 +1371,7 @@ bpn8324
 
 -- Bahá'u'lláh
 
-bpn8755 
+bpn8755 «[हिंदी](../hi/prayers/#bpn8755)» 
 
 ----
 
@@ -1386,7 +1385,7 @@ bpn8755
 
 -- Bahá'u'lláh
 
-bpn8736 
+bpn8736 «[हिंदी](../hi/prayers/#bpn8736)» 
 
 ----
 
@@ -1414,7 +1413,7 @@ bpn8740 «[हिंदी](../hi/prayers/#bpn8740)»
 
 -- Abdu'l-Bahá
 
-bpn8384 
+bpn8384 «[हिंदी](../hi/prayers/#bpn8384)» 
 
 ----
 
@@ -1424,7 +1423,7 @@ bpn8384
 
 -- Abdu'l-Bahá
 
-bpn8385 
+bpn8385 «[हिंदी](../hi/prayers/#bpn8385)» 
 
 ----
 
@@ -1434,7 +1433,7 @@ bpn8385
 
 -- Abdu'l-Bahá
 
-bpn8386 
+bpn8386 «[हिंदी](../hi/prayers/#bpn8386)» 
 
 ----
 
@@ -1444,7 +1443,7 @@ bpn8386
 
 -- Abdu'l-Bahá
 
-bpn8387 
+bpn8387 «[हिंदी](../hi/prayers/#bpn8387)» 
 
 ----
 
@@ -1458,7 +1457,7 @@ bpn8387
 
 -- Bahá'u'lláh
 
-bpn8681 
+bpn8681 «[हिंदी](../hi/prayers/#bpn8681)» 
 
 ----
 
@@ -1468,7 +1467,7 @@ bpn8681
 
 -- Bahá'u'lláh
 
-bpn8682 
+bpn8682 «[हिंदी](../hi/prayers/#bpn8682)» 
 
 ----
 
@@ -1482,7 +1481,7 @@ bpn8682
 
 -- Bahá'u'lláh
 
-bpn8683 
+bpn8683 «[हिंदी](../hi/prayers/#bpn8683)» 
 
 ----
 
@@ -1492,7 +1491,7 @@ bpn8683
 
 -- Bahá'u'lláh
 
-bpn8684 
+bpn8684 «[हिंदी](../hi/prayers/#bpn8684)» 
 
 ----
 
@@ -1502,7 +1501,7 @@ bpn8684
 
 -- Abdu'l-Bahá
 
-bpn8685 
+bpn8685 «[हिंदी](../hi/prayers/#bpn8685)» 
 
 ----
 
@@ -1512,7 +1511,7 @@ bpn8685
 
 -- Abdu'l-Bahá
 
-bpn8686 
+bpn8686 «[हिंदी](../hi/prayers/#bpn8686)» 
 
 ----
 
@@ -1526,7 +1525,7 @@ bpn8686
 
 -- Bahá'u'lláh
 
-bpn8721 
+bpn8721 «[हिंदी](../hi/prayers/#bpn8721)» 
 
 ----
 
@@ -1536,7 +1535,7 @@ bpn8721
 
 -- Bahá'u'lláh
 
-bpn8722 
+bpn8722 «[हिंदी](../hi/prayers/#bpn8722)» 
 
 ----
 
@@ -1546,7 +1545,7 @@ bpn8722
 
 -- Bahá'u'lláh
 
-bpn8723 
+bpn8723 «[हिंदी](../hi/prayers/#bpn8723)» 
 
 ----
 
@@ -1556,7 +1555,7 @@ bpn8723
 
 -- Báb
 
-bpn8724 
+bpn8724 «[हिंदी](../hi/prayers/#bpn8724)» 
 
 ----
 
@@ -1566,7 +1565,7 @@ bpn8724
 
 -- Báb
 
-bpn8725 
+bpn8725 «[हिंदी](../hi/prayers/#bpn8725)» 
 
 ----
 
@@ -1576,7 +1575,7 @@ bpn8725
 
 -- Báb
 
-bpn8726 
+bpn8726 «[हिंदी](../hi/prayers/#bpn8726)» 
 
 ----
 
@@ -1586,7 +1585,7 @@ bpn8726
 
 -- Abdu'l-Bahá
 
-bpn8727 
+bpn8727 «[हिंदी](../hi/prayers/#bpn8727)» 
 
 ----
 
@@ -1600,7 +1599,7 @@ bpn8727
 
 -- Bahá'u'lláh
 
-bpn8715 
+bpn8715 «[हिंदी](../hi/prayers/#bpn8715)» 
 
 ----
 
@@ -1610,7 +1609,7 @@ bpn8715
 
 -- Bahá'u'lláh
 
-bpn8716 
+bpn8716 «[हिंदी](../hi/prayers/#bpn8716)» 
 
 ----
 
@@ -1620,7 +1619,7 @@ bpn8716
 
 -- Bahá'u'lláh
 
-bpn8717 
+bpn8717 «[हिंदी](../hi/prayers/#bpn8717)» 
 
 ----
 
@@ -1630,7 +1629,7 @@ bpn8717
 
 -- Abdu'l-Bahá
 
-bpn8718 
+bpn8718 «[हिंदी](../hi/prayers/#bpn8718)» 
 
 ----
 
@@ -1640,7 +1639,7 @@ bpn8718
 
 -- Abdu'l-Bahá
 
-bpn8719 
+bpn8719 «[हिंदी](../hi/prayers/#bpn8719)» 
 
 ----
 
@@ -1650,7 +1649,7 @@ bpn8719
 
 -- Abdu'l-Bahá
 
-bpn8720 
+bpn8720 «[हिंदी](../hi/prayers/#bpn8720)» 
 
 ----
 
@@ -1664,7 +1663,7 @@ bpn8720
 
 -- Bahá'u'lláh
 
-bpn8697 
+bpn8697 «[हिंदी](../hi/prayers/#bpn8697)» 
 
 ----
 
@@ -1674,7 +1673,7 @@ bpn8697
 
 -- Abdu'l-Bahá
 
-bpn8698 
+bpn8698 «[हिंदी](../hi/prayers/#bpn8698)» 
 
 ----
 
@@ -1684,7 +1683,7 @@ bpn8698
 
 -- Abdu'l-Bahá
 
-bpn8699 
+bpn8699 «[हिंदी](../hi/prayers/#bpn8699)» 
 
 ----
 
@@ -1694,7 +1693,7 @@ bpn8699
 
 -- Abdu'l-Bahá
 
-bpn8700 
+bpn8700 «[हिंदी](../hi/prayers/#bpn8700)» 
 
 ----
 
@@ -1704,7 +1703,7 @@ bpn8700
 
 -- Abdu'l-Bahá
 
-bpn8701 
+bpn8701 «[हिंदी](../hi/prayers/#bpn8701)» 
 
 ----
 
@@ -1714,7 +1713,7 @@ bpn8701
 
 -- Abdu'l-Bahá
 
-bpn8702 
+bpn8702 «[हिंदी](../hi/prayers/#bpn8702)» 
 
 ----
 
@@ -1728,7 +1727,7 @@ bpn8702
 
 -- Bahá'u'lláh
 
-bpn8703 
+bpn8703 «[हिंदी](../hi/prayers/#bpn8703)» 
 
 ----
 
@@ -1738,7 +1737,7 @@ bpn8703
 
 -- Bahá'u'lláh
 
-bpn8704 
+bpn8704 «[हिंदी](../hi/prayers/#bpn8704)» 
 
 ----
 
@@ -1748,7 +1747,7 @@ bpn8704
 
 -- Bahá'u'lláh
 
-bpn8707 
+bpn8707 «[हिंदी](../hi/prayers/#bpn8707)» 
 
 ----
 
@@ -1758,7 +1757,7 @@ bpn8707
 
 -- Bahá'u'lláh
 
-bpn8706 
+bpn8706 «[हिंदी](../hi/prayers/#bpn8706)» 
 
 ----
 
@@ -1768,7 +1767,7 @@ bpn8706
 
 -- Báb
 
-bpn8705 
+bpn8705 «[हिंदी](../hi/prayers/#bpn8705)» 
 
 ----
 
@@ -1778,7 +1777,7 @@ bpn8705
 
 -- Abdu'l-Bahá
 
-bpn8708 
+bpn8708 «[हिंदी](../hi/prayers/#bpn8708)» 
 
 ----
 
@@ -1788,7 +1787,7 @@ bpn8708
 
 -- Abdu'l-Bahá
 
-bpn8709 
+bpn8709 «[हिंदी](../hi/prayers/#bpn8709)» 
 
 ----
 
@@ -1798,7 +1797,7 @@ bpn8709
 
 -- Abdu'l-Bahá
 
-bpn8710 
+bpn8710 «[हिंदी](../hi/prayers/#bpn8710)» 
 
 ----
 
@@ -1808,7 +1807,7 @@ bpn8710
 
 -- Abdu'l-Bahá
 
-bpn8711 
+bpn8711 «[हिंदी](../hi/prayers/#bpn8711)» 
 
 ----
 
@@ -1818,7 +1817,7 @@ bpn8711
 
 -- Abdu'l-Bahá
 
-bpn8712 
+bpn8712 «[हिंदी](../hi/prayers/#bpn8712)» 
 
 ----
 
@@ -1828,7 +1827,7 @@ bpn8712
 
 -- Abdu'l-Bahá
 
-bpn8713 
+bpn8713 «[हिंदी](../hi/prayers/#bpn8713)» 
 
 ----
 
@@ -1838,7 +1837,7 @@ bpn8713
 
 -- Abdu'l-Bahá
 
-bpn8714 
+bpn8714 «[हिंदी](../hi/prayers/#bpn8714)» 
 
 ----
 
@@ -1852,7 +1851,7 @@ bpn8714
 
 -- Bahá'u'lláh
 
-bpn8693 
+bpn8693 «[हिंदी](../hi/prayers/#bpn8693)» 
 
 ----
 
@@ -1862,7 +1861,7 @@ bpn8693
 
 -- Bahá'u'lláh
 
-bpn8694 
+bpn8694 «[हिंदी](../hi/prayers/#bpn8694)» 
 
 ----
 
@@ -1872,7 +1871,7 @@ bpn8694
 
 -- Bahá'u'lláh
 
-bpn8695 
+bpn8695 «[हिंदी](../hi/prayers/#bpn8695)» 
 
 ----
 
@@ -1882,7 +1881,7 @@ bpn8695
 
 -- Bahá'u'lláh
 
-bpn8696 
+bpn8696 «[हिंदी](../hi/prayers/#bpn8696)» 
 
 ----
 

@@ -93,7 +93,7 @@ tags = ['lang=bs', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn5322 
+bpn5322 «[Bosanski](../bs/prayers/#bpn5322)» 
 
 ----
 
@@ -107,7 +107,7 @@ bpn5322
 
 -- Bahá'u'lláh
 
-bpn5220 
+bpn5220 «[Bosanski](../bs/prayers/#bpn5220)» 
 
 ----
 
@@ -117,7 +117,7 @@ Slava Tebi, o, Bože moj!Uistinu, Tvoj vjernik i Tvoja vjernica sastaju se u sj
 
 -- Abdu'l-Bahá
 
-bpn5221 
+bpn5221 «[Bosanski](../bs/prayers/#bpn5221)» 
 
 ----
 
@@ -127,7 +127,7 @@ On je Bog! O neuporedivi Gospodaru! Svojom svemoćnom mudrošću podario si l
 
 -- Abdu'l-Bahá
 
-bpn5222 
+bpn5222 «[Bosanski](../bs/prayers/#bpn5222)» 
 
 ----
 
@@ -141,7 +141,7 @@ Moj Bože, kojeg poštujem i obožavam! Svjedočim o Tvome jedinstvu i jedno
 
 -- Bahá'u'lláh
 
-bpn5224 
+bpn5224 «[Bosanski](../bs/prayers/#bpn5224)» 
 
 ----
 
@@ -151,7 +151,7 @@ Oblagi Bože! Stvorio si sve ljude iz istog roda. Odredio si da svi pripadaju i
 
 -- Abdu'l-Bahá
 
-bpn5223 
+bpn5223 «[Bosanski](../bs/prayers/#bpn5223)» 
 
 ----
 
@@ -165,7 +165,7 @@ OBože, vodi me, zaštiti me, učini me sjajnom svjetiljkom i blistavom zvije
 
 -- Abdu'l-Bahá
 
-bpn5225 
+bpn5225 «[Bosanski](../bs/prayers/#bpn5225)» 
 
 ----
 
@@ -175,7 +175,7 @@ On je Bog! O Bože, moj Bože! Daruj mi srce čisto poput bisera.
 
 -- Abdu'l-Bahá
 
-bpn5226 
+bpn5226 «[Bosanski](../bs/prayers/#bpn5226)» 
 
 ----
 
@@ -185,7 +185,7 @@ Ti neuporedivi Bože! Odhrani ovo novorođenče na grudima Tvoje blagonaklonos
 
 -- Abdu'l-Bahá
 
-bpn5227 
+bpn5227 «[Bosanski](../bs/prayers/#bpn5227)» 
 
 ----
 
@@ -195,7 +195,7 @@ OBože! Odgoji ovo dijete na njedrima Tvoje ljubavi i napoji ga mlijekom iz gru
 
 -- Abdu'l-Bahá
 
-bpn5228 
+bpn5228 «[Bosanski](../bs/prayers/#bpn5228)» 
 
 ----
 
@@ -205,7 +205,7 @@ Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvijeće Tvoje
 
 -- Abdu'l-Bahá
 
-bpn5229 
+bpn5229 «[Bosanski](../bs/prayers/#bpn5229)» 
 
 ----
 
@@ -215,7 +215,7 @@ OTi blagi Bože! Ova divna djeca tvorevina su prstiju Tvoje moći i čudesni 
 
 -- Abdu'l-Bahá
 
-bpn5230 
+bpn5230 «[Bosanski](../bs/prayers/#bpn5230)» 
 
 ----
 
@@ -225,7 +225,7 @@ O najslavniji Gospodaru! Učini ovu malenu vjernicu blagoslovljenom i sretnom; 
 
 -- Abdu'l-Bahá
 
-bpn5231 
+bpn5231 «[Bosanski](../bs/prayers/#bpn5231)» 
 
 ----
 
@@ -235,7 +235,7 @@ Gospodaru Moj! O Gospodaru!Dijete sam krhkih godina. Othrani me na grudima Tvoje
 
 -- Abdu'l-Bahá
 
-bpn5232 
+bpn5232 «[Bosanski](../bs/prayers/#bpn5232)» 
 
 ----
 
@@ -245,7 +245,7 @@ Gospodaru!Ozari ovog mladića i blagoslovi ovo slabašno biće. Podari mu zna
 
 -- Abdu'l-Bahá
 
-bpn5233 
+bpn5233 «[Bosanski](../bs/prayers/#bpn5233)» 
 
 ----
 
@@ -259,7 +259,7 @@ bpn5233
 
 -- Bahá'u'lláh
 
-bpn5219 
+bpn5219 «[Bosanski](../bs/prayers/#bpn5219)» 
 
 ----
 
@@ -273,7 +273,7 @@ Daruj mi čisto srce, Bože moj, i obnovi moju mirnu savjest, Nado moja! Duhom
 
 -- Bahá'u'lláh
 
-bpn5234 
+bpn5234 «[Bosanski](../bs/prayers/#bpn5234)» 
 
 ----
 
@@ -283,7 +283,7 @@ Moj Gospodaru! Neka mi Tvoja ljepota bude hrana a Tvoje prisustvo moje piće, T
 
 -- Bahá'u'lláh
 
-bpn5235 
+bpn5235 «[Bosanski](../bs/prayers/#bpn5235)» 
 
 ----
 
@@ -293,7 +293,7 @@ Slavljen si, o Gospodaru moj Bože! Zahvaljujem Ti jer si me dozvao u život u
 
 -- Bahá'u'lláh
 
-bpn5236 
+bpn5236 «[Bosanski](../bs/prayers/#bpn5236)» 
 
 ----
 
@@ -303,7 +303,7 @@ Udijeli mi, Bože moj, obilni udio Svoje ljubavi i blagonaklonosti, a sjajem Sv
 
 -- Báb
 
-bpn5237 
+bpn5237 «[Bosanski](../bs/prayers/#bpn5237)» 
 
 ----
 
@@ -313,7 +313,7 @@ OBože! Okrijepi i obraduj moju dušu. Pročisti mi srce. Ojačaj moje moć
 
 -- Abdu'l-Bahá
 
-bpn5238 
+bpn5238 «[Bosanski](../bs/prayers/#bpn5238)» 
 
 ----
 
@@ -323,7 +323,7 @@ Omoj Bože! Moj Bože! Slavljen si jer me učvrsti u priznanju Tvoje jednosti
 
 -- Abdu'l-Bahá
 
-bpn5239 
+bpn5239 «[Bosanski](../bs/prayers/#bpn5239)» 
 
 ----
 
@@ -333,7 +333,7 @@ O Moj Gospodaru! Moj Gospodaru! Ovo je svjetiljka upaljena vatrom Tvoje ljubavi,
 
 -- Abdu'l-Bahá
 
-bpn5240 
+bpn5240 «[Bosanski](../bs/prayers/#bpn5240)» 
 
 ----
 
@@ -347,7 +347,7 @@ bpn5240
 
 -- Abdu'l-Bahá
 
-bpn5241 
+bpn5241 «[Bosanski](../bs/prayers/#bpn5241)» 
 
 ----
 
@@ -357,7 +357,7 @@ Bože! Odagnaj sve uzroke nesloge i propiši za nas sve ono što donosi jedin
 
 -- Abdu'l-Bahá
 
-bpn5242 
+bpn5242 «[Bosanski](../bs/prayers/#bpn5242)» 
 
 ----
 
@@ -367,7 +367,7 @@ OBože, moj Bože! Mi smo Tvoje sluge koje se odano okreću prema Tvom Svetom
 
 -- Abdu'l-Bahá
 
-bpn5243 
+bpn5243 «[Bosanski](../bs/prayers/#bpn5243)» 
 
 ----
 
@@ -377,7 +377,7 @@ bpn5243
 
 -- Abdu'l-Bahá
 
-bpn5244 
+bpn5244 «[Bosanski](../bs/prayers/#bpn5244)» 
 
 ----
 
@@ -391,7 +391,7 @@ Bože moj! Obožavani! Kralju! Čežnjo moja! Koji jezik može iskazati moj
 
 -- Bahá'u'lláh
 
-bpn5245 
+bpn5245 «[Bosanski](../bs/prayers/#bpn5245)» 
 
 ----
 
@@ -401,7 +401,7 @@ Sva hvala, O moj Bože, pripada Tebi Koji si Izvor sve slave i veličanstva, v
 
 -- Bahá'u'lláh
 
-bpn5246 
+bpn5246 «[Bosanski](../bs/prayers/#bpn5246)» 
 
 ----
 
@@ -411,7 +411,7 @@ UIme Boga, Najuzvišenijeg! Veličan i slavljen si Ti, Gospodaru, Svemoćni B
 
 -- Bahá'u'lláh
 
-bpn5247 
+bpn5247 «[Bosanski](../bs/prayers/#bpn5247)» 
 
 ----
 
@@ -421,7 +421,7 @@ Veličano je ime Tvoje, Gospodaru moj Bože! Ti si Onaj Kojeg svi obožavaju 
 
 -- Bahá'u'lláh
 
-bpn5248 
+bpn5248 «[Bosanski](../bs/prayers/#bpn5248)» 
 
 ----
 
@@ -431,7 +431,7 @@ Slavljen si, Gospodaru moj Bože! Zahvaljujem Ti što si mi omogućio da prep
 
 -- Bahá'u'lláh
 
-bpn5249 
+bpn5249 «[Bosanski](../bs/prayers/#bpn5249)» 
 
 ----
 
@@ -445,7 +445,7 @@ bpn5249
 
 -- Bahá'u'lláh
 
-bpn5254 
+bpn5254 «[Bosanski](../bs/prayers/#bpn5254)» 
 
 ----
 
@@ -455,7 +455,7 @@ Tvoje Ime moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvo
 
 -- Bahá'u'lláh
 
-bpn5255 
+bpn5255 «[Bosanski](../bs/prayers/#bpn5255)» 
 
 ----
 
@@ -465,7 +465,7 @@ Slava Tebi, o Gospodaru, Bože moj! Zaklinjem Te Tvojim Imenom kroz koje je Tvo
 
 -- Bahá'u'lláh
 
-bpn5256 
+bpn5256 «[Bosanski](../bs/prayers/#bpn5256)» 
 
 ----
 
@@ -475,7 +475,7 @@ On je Izlječitelj, Skrbnik, Pomoćnik, Oprostitelj, Najmilosrdniji.Dozivam Te
 
 -- Bahá'u'lláh
 
-bpn5257 
+bpn5257 «[Bosanski](../bs/prayers/#bpn5257)» 
 
 ----
 
@@ -489,7 +489,7 @@ Naoružanog snagom Tvoga imena nikad me ništa ne može povrijediti, s Tvojom
 
 -- Bahá'u'lláh
 
-bpn5250 
+bpn5250 «[Bosanski](../bs/prayers/#bpn5250)» 
 
 ----
 
@@ -499,7 +499,7 @@ Slavljen si, Gospodaru moj Bože! Svaki razborit čovjek priznaje Tvoju vrhovn
 
 -- Bahá'u'lláh
 
-bpn5251 
+bpn5251 «[Bosanski](../bs/prayers/#bpn5251)» 
 
 ----
 
@@ -509,7 +509,7 @@ Slava Tebi, o, moj Bože! Da nije teškoća podnesenih na Tvom putu, kako bi 
 
 -- Bahá'u'lláh
 
-bpn5253 
+bpn5253 «[Bosanski](../bs/prayers/#bpn5253)» 
 
 ----
 
@@ -519,7 +519,7 @@ Ti dobro znaš, O moj Bože, da su na mene navukle poteškoće sa svih stran
 
 -- Báb
 
-bpn5252 
+bpn5252 «[Bosanski](../bs/prayers/#bpn5252)» 
 
 ----
 
@@ -533,7 +533,7 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih sluga i otkrij im Svoj veliki 
 
 -- Bahá'u'lláh
 
-bpn5258 
+bpn5258 «[Bosanski](../bs/prayers/#bpn5258)» 
 
 ----
 
@@ -543,7 +543,7 @@ Daj Bože da svjetlost jedinstva obasja cijelu zemlju i da pečat sa znakom �
 
 -- Bahá'u'lláh
 
-bpn5259 
+bpn5259 «[Bosanski](../bs/prayers/#bpn5259)» 
 
 ----
 
@@ -553,7 +553,7 @@ Slava Tebi, Bože, zbog Tvoje objave ljubavi čovječanstvu! O, Ti Koji si na
 
 -- Bahá'u'lláh
 
-bpn5261 
+bpn5261 «[Bosanski](../bs/prayers/#bpn5261)» 
 
 ----
 
@@ -563,7 +563,7 @@ Bože moj! Bože moj! Iskreno Te dozivam i klanjam Ti se na Tvome pragu molec�
 
 -- Abdu'l-Bahá
 
-bpn5260 
+bpn5260 «[Bosanski](../bs/prayers/#bpn5260)» 
 
 ----
 
@@ -577,7 +577,7 @@ Probudih se pod Tvojom zaštitom, moj Bože, a onome koji traži Tvoje skloni
 
 -- Bahá'u'lláh
 
-bpn5262 
+bpn5262 «[Bosanski](../bs/prayers/#bpn5262)» 
 
 ----
 
@@ -587,7 +587,7 @@ Probudih se jutros zbog Tvoje milosti, moj Bože. Napustih svoj dom potpuno vje
 
 -- Bahá'u'lláh
 
-bpn5263 
+bpn5263 «[Bosanski](../bs/prayers/#bpn5263)» 
 
 ----
 
@@ -597,7 +597,7 @@ Zahvaljujem Ti se, Moj Bože, jer si me probudio iz sna, oživio nakon nestank
 
 -- Bahá'u'lláh
 
-bpn5264 
+bpn5264 «[Bosanski](../bs/prayers/#bpn5264)» 
 
 ----
 
@@ -611,7 +611,7 @@ bpn5264
 
 -- Bahá'u'lláh
 
-bpn5217 
+bpn5217 «[Bosanski](../bs/prayers/#bpn5217)» 
 
 ----
 
@@ -625,7 +625,7 @@ OBože, moj Bože! Tvoja vjernica Te doziva, uzdajući se u Tebe, usmjerivš
 
 -- Abdu'l-Bahá
 
-bpn5265 
+bpn5265 «[Bosanski](../bs/prayers/#bpn5265)» 
 
 ----
 
@@ -639,7 +639,7 @@ bpn5265
 
 -- Bahá'u'lláh
 
-bpn5323 
+bpn5323 «[Bosanski](../bs/prayers/#bpn5323)» 
 
 ----
 
@@ -653,7 +653,7 @@ Kako da zaspim, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budn
 
 -- Bahá'u'lláh
 
-bpn5266 
+bpn5266 «[Bosanski](../bs/prayers/#bpn5266)» 
 
 ----
 
@@ -667,7 +667,7 @@ Brojna se hladna srca, o, moj Bože zapališe iskrom Tvoje Vjere i mnoge je us
 
 -- Bahá'u'lláh
 
-bpn5267 
+bpn5267 «[Bosanski](../bs/prayers/#bpn5267)» 
 
 ----
 
@@ -677,7 +677,7 @@ Veličam Ime Tvoje, Gospodaru, Bože moj! Osvrni se na moje oči koje željn
 
 -- Bahá'u'lláh
 
-bpn5268 
+bpn5268 «[Bosanski](../bs/prayers/#bpn5268)» 
 
 ----
 
@@ -687,7 +687,7 @@ Dozvoli mi, moj Gospodaru, da Ti se približim i da boravim unutar zidova Tvog 
 
 -- Bahá'u'lláh
 
-bpn5269 
+bpn5269 «[Bosanski](../bs/prayers/#bpn5269)» 
 
 ----
 
@@ -697,7 +697,7 @@ O moj Bože, moj Gospode i Gospodaru! Odvojio sam se od svoje rodbine i kroz Te
 
 -- Báb
 
-bpn5270 
+bpn5270 «[Bosanski](../bs/prayers/#bpn5270)» 
 
 ----
 
@@ -707,7 +707,7 @@ Gospodaru! U Tebi tražim utočište i prema Tvome znamenju okrećem svoje s
 
 -- Báb
 
-bpn5271 
+bpn5271 «[Bosanski](../bs/prayers/#bpn5271)» 
 
 ----
 
@@ -717,7 +717,7 @@ U ime Gospodara, Stvoritelja, Vrhovnog, Samodovoljnog, Najuzvišenijeg, Onoga c
 
 -- Báb
 
-bpn5273 
+bpn5273 «[Bosanski](../bs/prayers/#bpn5273)» 
 
 ----
 
@@ -727,7 +727,7 @@ OBože, moj Bože! Ti si moja Nada i moj Voljeni, moja najviša Težnja i Z�
 
 -- Abdu'l-Bahá
 
-bpn5272 
+bpn5272 «[Bosanski](../bs/prayers/#bpn5272)» 
 
 ----
 
@@ -737,7 +737,7 @@ Omoj Bože! O moj Bože!Slavljen si jer si me učvrstio u priznanju Tvoje jed
 
 -- Abdu'l-Bahá
 
-bpn5274 
+bpn5274 «[Bosanski](../bs/prayers/#bpn5274)» 
 
 ----
 
@@ -751,7 +751,7 @@ bpn5274
 
 -- Bahá'u'lláh
 
-bpn5275 
+bpn5275 «[Bosanski](../bs/prayers/#bpn5275)» 
 
 ----
 
@@ -761,7 +761,7 @@ Ja sam onaj, moj Gospodaru, koji je okrenuo svoje lice prema Tebi, usmjerio svoj
 
 -- Bahá'u'lláh
 
-bpn5276 
+bpn5276 «[Bosanski](../bs/prayers/#bpn5276)» 
 
 ----
 
@@ -771,7 +771,7 @@ Molim Te da mi oprostiš, moj Gospodaru, svaki spomen osim spomena Tebe, svaku 
 
 -- Báb
 
-bpn5277 
+bpn5277 «[Bosanski](../bs/prayers/#bpn5277)» 
 
 ----
 
@@ -781,7 +781,7 @@ Hvaljen budi Ti, Gospodaru. Oprosti nam naše grijehe, smiluj nam se i pomozi n
 
 -- Báb
 
-bpn5278 
+bpn5278 «[Bosanski](../bs/prayers/#bpn5278)» 
 
 ----
 
@@ -795,7 +795,7 @@ bpn5278
 
 -- Bahá'u'lláh
 
-bpn5279 
+bpn5279 «[Bosanski](../bs/prayers/#bpn5279)» 
 
 ----
 
@@ -809,7 +809,7 @@ bpn5279
 
 -- Bahá'u'lláh
 
-bpn5319 
+bpn5319 «[Bosanski](../bs/prayers/#bpn5319)» 
 
 ----
 
@@ -823,7 +823,7 @@ bpn5319
 
 -- Abdu'l-Bahá
 
-bpn5320 
+bpn5320 «[Bosanski](../bs/prayers/#bpn5320)» 
 
 ----
 
@@ -837,7 +837,7 @@ bpn5320
 
 -- Bahá'u'lláh
 
-bpn5321 
+bpn5321 «[Bosanski](../bs/prayers/#bpn5321)» 
 
 ----
 
@@ -851,7 +851,7 @@ O Bože moj! Zaklinjem Te Tvojim najuzvišenijim imenom, pomozi mi u onome š
 
 -- Bahá'u'lláh
 
-bpn5283 
+bpn5283 «[Bosanski](../bs/prayers/#bpn5283)» 
 
 ----
 
@@ -861,7 +861,7 @@ OTi Čije je lice predmet mog obožavanja, Čija je ljepota moje svetište, 
 
 -- Bahá'u'lláh
 
-bpn5284 
+bpn5284 «[Bosanski](../bs/prayers/#bpn5284)» 
 
 ----
 
@@ -871,7 +871,7 @@ bpn5284
 
 -- Báb
 
-bpn5280 
+bpn5280 «[Bosanski](../bs/prayers/#bpn5280)» 
 
 ----
 
@@ -881,7 +881,7 @@ Recite: Bog udovoljava svim stvarima, iznad svih stari, i niko na nebesima ni na
 
 -- Báb
 
-bpn5281 
+bpn5281 «[Bosanski](../bs/prayers/#bpn5281)» 
 
 ----
 
@@ -891,7 +891,7 @@ Zaklinjem Te Tvojom moći, Bože moj! Ne daj da me zadesi nevolja u doba iskus
 
 -- Báb
 
-bpn5282 
+bpn5282 «[Bosanski](../bs/prayers/#bpn5282)» 
 
 ----
 
@@ -901,7 +901,7 @@ Gospodaru, Bože, Utočište u mojoj boli! Zaštito u mom nemiru. Spasu u te
 
 -- Abdu'l-Bahá
 
-bpn5285 
+bpn5285 «[Bosanski](../bs/prayers/#bpn5285)» 
 
 ----
 
@@ -911,7 +911,7 @@ Moj Gospodaru, moj Voljeni, Željo moja! Budi mi drug u samoći i pratilac u p
 
 -- Abdu'l-Bahá
 
-bpn5286 
+bpn5286 «[Bosanski](../bs/prayers/#bpn5286)» 
 
 ----
 
@@ -921,7 +921,7 @@ O Gospodaru, Bože moj! Pomozi svojim voljenima da budu čvrsti u Tvojoj Vjeri
 
 -- Abdu'l-Bahá
 
-bpn5287 
+bpn5287 «[Bosanski](../bs/prayers/#bpn5287)» 
 
 ----
 
@@ -931,7 +931,7 @@ O Gospodaru! Jadni smo, daruj nam Svoju naklonost; siromašni smo, daj nam udio
 
 -- Abdu'l-Bahá
 
-bpn5288 
+bpn5288 «[Bosanski](../bs/prayers/#bpn5288)» 
 
 ----
 
@@ -941,7 +941,7 @@ Gospodaru, ne sklanjaj sto svečano postavljen u Tvoje Ime i ne gasi žarki pl
 
 -- Abdu'l-Bahá
 
-bpn5289 
+bpn5289 «[Bosanski](../bs/prayers/#bpn5289)» 
 
 ----
 
@@ -955,7 +955,7 @@ bpn5289
 
 -- Abdu'l-Bahá
 
-bpn5290 
+bpn5290 «[Bosanski](../bs/prayers/#bpn5290)» 
 
 ----
 
@@ -969,7 +969,7 @@ Slava Tebi, Gospodaru, Bože moj! Preklinjem Te da oprostiš meni i onima koji
 
 -- Báb
 
-bpn5291 
+bpn5291 «[Bosanski](../bs/prayers/#bpn5291)» 
 
 ----
 
@@ -983,7 +983,7 @@ bpn5291
 
 -- Bahá'u'lláh
 
-bpn5324 
+bpn5324 «[Bosanski](../bs/prayers/#bpn5324)» 
 
 ----
 
@@ -993,7 +993,7 @@ Zaklinjem Te, o, moj Bože, Tvojim Moćnim Znakom i objavom Tvoje milosti ljud
 
 -- Bahá'u'lláh
 
-bpn5325 
+bpn5325 «[Bosanski](../bs/prayers/#bpn5325)» 
 
 ----
 
@@ -1003,7 +1003,7 @@ Ovo su, o, moj Bože, dani koje si odredio Svojim slugama da poštivaju post. 
 
 -- Bahá'u'lláh
 
-bpn5326 
+bpn5326 «[Bosanski](../bs/prayers/#bpn5326)» 
 
 ----
 
@@ -1017,7 +1017,7 @@ Moj Gospodaru i moja Nado! Pomozi Svojim voljenim da budu postojani u Tvom moć
 
 -- Abdu'l-Bahá
 
-bpn5292 
+bpn5292 «[Bosanski](../bs/prayers/#bpn5292)» 
 
 ----
 
@@ -1027,7 +1027,7 @@ Gospodaru, očvrsni naše korake na Tvome putu i ojačaj nam srca u pokornost
 
 -- Abdu'l-Bahá
 
-bpn5293 
+bpn5293 «[Bosanski](../bs/prayers/#bpn5293)» 
 
 ----
 
@@ -1041,7 +1041,7 @@ Omoj Bože, moj Bože! Napustih svoj dom uzdajući se u Tvoju ljubav, i u pot
 
 -- Bahá'u'lláh
 
-bpn5299 
+bpn5299 «[Bosanski](../bs/prayers/#bpn5299)» 
 
 ----
 
@@ -1051,7 +1051,7 @@ O neuporedivi Bože! Gospodaru Kraljevstva! Ove duše su Tvoja nebeska vojska.
 
 -- Abdu'l-Bahá
 
-bpn5294 
+bpn5294 «[Bosanski](../bs/prayers/#bpn5294)» 
 
 ----
 
@@ -1061,7 +1061,7 @@ O Bože, moj Bože! Pomozi Svojim vjernim slugama da budu blaga i nježna src
 
 -- Abdu'l-Bahá
 
-bpn5295 
+bpn5295 «[Bosanski](../bs/prayers/#bpn5295)» 
 
 ----
 
@@ -1071,7 +1071,7 @@ Omoj Bože! Pomozi Svom slugi da digne Glas i ospori sve što je isprazno i la
 
 -- Abdu'l-Bahá
 
-bpn5296 
+bpn5296 «[Bosanski](../bs/prayers/#bpn5296)» 
 
 ----
 
@@ -1085,7 +1085,7 @@ bpn5296
 
 -- Bahá'u'lláh
 
-bpn5297 
+bpn5297 «[Bosanski](../bs/prayers/#bpn5297)» 
 
 ----
 
@@ -1099,7 +1099,7 @@ bpn5297
 
 -- Abdu'l-Bahá
 
-bpn5298 
+bpn5298 «[Bosanski](../bs/prayers/#bpn5298)» 
 
 ----
 
@@ -1113,7 +1113,7 @@ OBože, moj Bože! Preklinjem Te krvlju onih koji Te istinski vole, koji su se
 
 -- Bahá'u'lláh
 
-bpn5300 
+bpn5300 «[Bosanski](../bs/prayers/#bpn5300)» 
 
 ----
 
@@ -1123,7 +1123,7 @@ Molim za oprost, Moj Bože, a molim Te onako kako Ti želiš da Ti se sluge o
 
 -- Báb
 
-bpn5301 
+bpn5301 «[Bosanski](../bs/prayers/#bpn5301)» 
 
 ----
 
@@ -1133,7 +1133,7 @@ O Gospodaru! Ti u ovoj Najvećoj Objavi prihvataš zalaganje djece u ime njiho
 
 -- Abdu'l-Bahá
 
-bpn5302 
+bpn5302 «[Bosanski](../bs/prayers/#bpn5302)» 
 
 ----
 
@@ -1147,7 +1147,7 @@ Omoj Bože, moj Bože! Uistinu, ove sluge se prema Tebi okreću, klanjajući
 
 -- Abdu'l-Bahá
 
-bpn5303 
+bpn5303 «[Bosanski](../bs/prayers/#bpn5303)» 
 
 ----
 
@@ -1161,7 +1161,7 @@ bpn5303
 
 -- Bahá'u'lláh
 
-bpn5218 
+bpn5218 «[Bosanski](../bs/prayers/#bpn5218)» 
 
 ----
 
@@ -1175,7 +1175,7 @@ Hvaljeno neka je Ime Tvoje, Gospodaru moj Bože! Tama je prekrila svaku zemlju,
 
 -- Bahá'u'lláh
 
-bpn5304 
+bpn5304 «[Bosanski](../bs/prayers/#bpn5304)» 
 
 ----
 
@@ -1189,7 +1189,7 @@ bpn5304
 
 -- Abdu'l-Bahá
 
-bpn5305 
+bpn5305 «[Bosanski](../bs/prayers/#bpn5305)» 
 
 ----
 
@@ -1203,7 +1203,7 @@ bpn5305
 
 -- Bahá'u'lláh
 
-bpn5306 
+bpn5306 «[Bosanski](../bs/prayers/#bpn5306)» 
 
 ----
 
@@ -1213,7 +1213,7 @@ O moj Bože! Oprostitelju grijeha, udjelitelju darova, otklonitelju tuge!Uistin
 
 -- Abdu'l-Bahá
 
-bpn5307 
+bpn5307 «[Bosanski](../bs/prayers/#bpn5307)» 
 
 ----
 
@@ -1227,7 +1227,7 @@ Kada bi spoznala slatkoću zvanja ‚ O Vjernice Moja‛, odvojila bi se od č
 
 -- Bahá'u'lláh
 
-bpn5308 
+bpn5308 «[Bosanski](../bs/prayers/#bpn5308)» 
 
 ----
 
@@ -1237,7 +1237,7 @@ Oizabrana ženo! On je Bog; slavljena neka je divota Njegovog svjetla.Riječi 
 
 -- Bahá'u'lláh
 
-bpn5309 
+bpn5309 «[Bosanski](../bs/prayers/#bpn5309)» 
 
 ----
 
@@ -1247,7 +1247,7 @@ Uzvišeno neka je Ime Tvoje, Gospodaru moj Bože! Pogledaj me kako iščekuj
 
 -- Bahá'u'lláh
 
-bpn5310 
+bpn5310 «[Bosanski](../bs/prayers/#bpn5310)» 
 
 ----
 
@@ -1257,7 +1257,7 @@ Slavim Te, o, Bože moj! Tvoja vjernica koja je vjerovala u Tebe i u Tvoje znak
 
 -- Bahá'u'lláh
 
-bpn5311 
+bpn5311 «[Bosanski](../bs/prayers/#bpn5311)» 
 
 ----
 
@@ -1267,7 +1267,7 @@ Slava Tebi, moj Bože! Moje lice je okrenuto prema Tvome licu, a moje lice je z
 
 -- Bahá'u'lláh
 
-bpn5313 
+bpn5313 «[Bosanski](../bs/prayers/#bpn5313)» 
 
 ----
 
@@ -1277,7 +1277,7 @@ Hvaljeno neka je ime Tvoje, o moj Bože i Gospodaru svih stvari, Slava moja i S
 
 -- Bahá'u'lláh
 
-bpn5314 
+bpn5314 «[Bosanski](../bs/prayers/#bpn5314)» 
 
 ----
 
@@ -1287,7 +1287,7 @@ OBože! Iskušenja koja šalješ su spas dušama onih koji su posvećeni T
 
 -- Bahá'u'lláh
 
-bpn5315 
+bpn5315 «[Bosanski](../bs/prayers/#bpn5315)» 
 
 ----
 
@@ -1297,7 +1297,7 @@ Ti vidiš, Gospodaru moj, kako se zlodjela koja počiniše oni koji su Ti le�
 
 -- Bahá'u'lláh
 
-bpn5316 
+bpn5316 «[Bosanski](../bs/prayers/#bpn5316)» 
 
 ----
 
@@ -1307,7 +1307,7 @@ Gospodaru! Pomozi ovoj kćeri Kraljevstva da bude uzvišena u oba svijeta. Uc�
 
 -- Abdu'l-Bahá
 
-bpn5312 
+bpn5312 «[Bosanski](../bs/prayers/#bpn5312)» 
 
 ----
 
@@ -1321,7 +1321,7 @@ Bože moj, Predmetu mog obožavanja, Cilju moje čežnje, Svedarežljivi, N
 
 -- Bahá'u'lláh
 
-bpn5317 
+bpn5317 «[Bosanski](../bs/prayers/#bpn5317)» 
 
 ----
 
@@ -1335,7 +1335,7 @@ U ime Boga, Gospodara nedokučive veličanstvenosti, Svepokoravajućeg.Slavlj
 
 -- Báb
 
-bpn5318 
+bpn5318 «[Bosanski](../bs/prayers/#bpn5318)» 
 
 ----
 

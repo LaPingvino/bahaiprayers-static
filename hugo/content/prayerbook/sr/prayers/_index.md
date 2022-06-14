@@ -77,7 +77,7 @@ tags = ['lang=sr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn10795 
+bpn10795 «[Srpski српски](../sr/prayers/#bpn10795)» 
 
 ----
 
@@ -91,7 +91,7 @@ bpn10795
 
 -- Abdu'l-Bahá
 
-bpn10734 
+bpn10734 «[Srpski српски](../sr/prayers/#bpn10734)» 
 
 ----
 
@@ -105,7 +105,7 @@ O Bože, vodi me, zaštiti me, načini od mene blistavu svetiljku i sjajnu zvezd
 
 -- Abdu'l-Bahá
 
-bpn10735 
+bpn10735 «[Srpski српски](../sr/prayers/#bpn10735)» 
 
 ----
 
@@ -115,7 +115,7 @@ O dobri Gospode! Ova divna deca su rukotvorina koju su ispleli prsti Tvoje sile,
 
 -- Abdu'l-Bahá
 
-bpn10736 
+bpn10736 «[Srpski српски](../sr/prayers/#bpn10736)» 
 
 ----
 
@@ -125,7 +125,7 @@ O Ti dobri Gospode! Sa horizonta nezavisnosti doneo si duše, koje poput sjajnog
 
 -- Abdu'l-Bahá
 
-bpn10737 
+bpn10737 «[Srpski српски](../sr/prayers/#bpn10737)» 
 
 ----
 
@@ -139,7 +139,7 @@ bpn10737
 
 -- Bahá'u'lláh
 
-bpn10791 
+bpn10791 «[Srpski српски](../sr/prayers/#bpn10791)» 
 
 ----
 
@@ -153,7 +153,7 @@ On je Iscelitelj, Udovoljitelj, Pomagač, Svepraštajući, Svemilosrdni.Prizvam 
 
 -- Bahá'u'lláh
 
-bpn10798 
+bpn10798 «[Srpski српски](../sr/prayers/#bpn10798)» 
 
 ----
 
@@ -167,7 +167,7 @@ bpn10798
 
 -- Abdu'l-Bahá
 
-bpn10746 
+bpn10746 «[Srpski српски](../sr/prayers/#bpn10746)» 
 
 ----
 
@@ -181,7 +181,7 @@ U mnogim se sleđenim srcima, O moj Bože, razbuktala vatra Tvoje Vere, i mnoge 
 
 -- Bahá'u'lláh
 
-bpn10747 
+bpn10747 «[Srpski српски](../sr/prayers/#bpn10747)» 
 
 ----
 
@@ -191,7 +191,7 @@ O Gospode! Tebi se obraćam za utočište, i ka svim Tvojim znacima usmeravam sr
 
 -- Báb
 
-bpn10748 
+bpn10748 «[Srpski српски](../sr/prayers/#bpn10748)» 
 
 ----
 
@@ -201,7 +201,7 @@ Učvrsti nam korake, O Gospode, na Tvojoj stazi i osnaži nam srca u poslušnost
 
 -- Abdu'l-Bahá
 
-bpn10749 
+bpn10749 «[Srpski српски](../sr/prayers/#bpn10749)» 
 
 ----
 
@@ -215,7 +215,7 @@ Stvori u meni čisto srce, O moj Bože, i obnovi mi mirnu savest, O moja Nado! O
 
 -- Bahá'u'lláh
 
-bpn10738 
+bpn10738 «[Srpski српски](../sr/prayers/#bpn10738)» 
 
 ----
 
@@ -225,7 +225,7 @@ O moj Gospode! Daj da se hranim Tvojom lepotom, i da se napojim Tvojim prisustvo
 
 -- Bahá'u'lláh
 
-bpn10739 
+bpn10739 «[Srpski српски](../sr/prayers/#bpn10739)» 
 
 ----
 
@@ -235,7 +235,7 @@ Daj da se napojim na miomirisnim potocima Tvoje večnosti , O moj Bože, i dopus
 
 -- Bahá'u'lláh
 
-bpn10740 
+bpn10740 «[Srpski српски](../sr/prayers/#bpn10740)» 
 
 ----
 
@@ -245,7 +245,7 @@ O Bože! Osveži mi i razgali dušu. Očisti mi srce. Prosvetli me da spoznam sv
 
 -- Abdu'l-Bahá
 
-bpn10741 
+bpn10741 «[Srpski српски](../sr/prayers/#bpn10741)» 
 
 ----
 
@@ -255,7 +255,7 @@ O moj Gospode, Voljeni moj, moja Žudnjo! Budi mi prijatelj u samoći i sadrug u
 
 -- Abdu'l-Bahá
 
-bpn10742 
+bpn10742 «[Srpski српски](../sr/prayers/#bpn10742)» 
 
 ----
 
@@ -265,7 +265,7 @@ O Samilosni Bože! Hvala Ti što si me probudio i osvestio. Podario si mi oči k
 
 -- Abdu'l-Bahá
 
-bpn10743 
+bpn10743 «[Srpski српски](../sr/prayers/#bpn10743)» 
 
 ----
 
@@ -275,7 +275,7 @@ O Bože! O Bože! Evo jedne ptice slomljenog krila čiji je let veoma spor – p
 
 -- Abdu'l-Bahá
 
-bpn10744 
+bpn10744 «[Srpski српски](../sr/prayers/#bpn10744)» 
 
 ----
 
@@ -285,7 +285,7 @@ O moj Bože, pomozi svom slugi da uzdigne Reč, i da odbaci svaku taštinu i la�
 
 -- Abdu'l-Bahá
 
-bpn10745 
+bpn10745 «[Srpski српски](../sr/prayers/#bpn10745)» 
 
 ----
 
@@ -299,7 +299,7 @@ O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih isceliteljskih moći, i sjajnom
 
 -- Bahá'u'lláh
 
-bpn10750 
+bpn10750 «[Srpski српски](../sr/prayers/#bpn10750)» 
 
 ----
 
@@ -309,7 +309,7 @@ Tvoje me ime isceljuje, O moj Bože, i pomen na Tebe me leči. Tvoja blizina je 
 
 -- Bahá'u'lláh
 
-bpn10751 
+bpn10751 «[Srpski српски](../sr/prayers/#bpn10751)» 
 
 ----
 
@@ -323,7 +323,7 @@ Neka Bog dâ da svetlost jedinstva obavije čitavu planetu, i da se pečat, &#34
 
 -- Bahá'u'lláh
 
-bpn10753 
+bpn10753 «[Srpski српски](../sr/prayers/#bpn10753)» 
 
 ----
 
@@ -333,7 +333,7 @@ O moj Bože! O moj Bože! Sjedini srca Svojih slugu, i otkri im Svoju veliku nam
 
 -- Bahá'u'lláh
 
-bpn10752 
+bpn10752 «[Srpski српски](../sr/prayers/#bpn10752)» 
 
 ----
 
@@ -343,7 +343,7 @@ O Ti dobri Gospode! Ti si sazdao čitavo čovečanstvo od iste loze. Ti si nalo�
 
 -- Abdu'l-Bahá
 
-bpn10754 
+bpn10754 «[Srpski српски](../sr/prayers/#bpn10754)» 
 
 ----
 
@@ -353,7 +353,7 @@ O Bože! Mi smo slabi; daj nam snage. Siromašni smo; podari nam Svoje neizmerno
 
 -- Abdu'l-Bahá
 
-bpn10755 
+bpn10755 «[Srpski српски](../sr/prayers/#bpn10755)» 
 
 ----
 
@@ -363,7 +363,7 @@ O Bože! Uistinu smo se okupili ovde gde se širi miris Tvoje ljubavi. Okrenuli 
 
 -- Abdu'l-Bahá
 
-bpn10756 
+bpn10756 «[Srpski српски](../sr/prayers/#bpn10756)» 
 
 ----
 
@@ -377,7 +377,7 @@ Probudio sam se u Tvom utočištu, O moj Bože, a priliči onome koji za tim uto
 
 -- Bahá'u'lláh
 
-bpn10757 
+bpn10757 «[Srpski српски](../sr/prayers/#bpn10757)» 
 
 ----
 
@@ -391,7 +391,7 @@ bpn10757
 
 -- Bahá'u'lláh
 
-bpn10789 
+bpn10789 «[Srpski српски](../sr/prayers/#bpn10789)» 
 
 ----
 
@@ -405,7 +405,7 @@ O Ti Plemeniti, Svemogući , pred tronom milosrđa  preklinjemo Te za milost za 
 
 -- Abdu'l-Bahá
 
-bpn10733 
+bpn10733 «[Srpski српски](../sr/prayers/#bpn10733)» 
 
 ----
 
@@ -419,7 +419,7 @@ Slavljen da si, O moj Bože, jer si odredio da No Ruz bude svetkovina onima koji
 
 -- Bahá'u'lláh
 
-bpn10793 
+bpn10793 «[Srpski српски](../sr/prayers/#bpn10793)» 
 
 ----
 
@@ -433,7 +433,7 @@ O moj Bože, moj Učitelju, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne d
 
 -- Bahá'u'lláh
 
-bpn10758 
+bpn10758 «[Srpski српски](../sr/prayers/#bpn10758)» 
 
 ----
 
@@ -443,7 +443,7 @@ bpn10758
 
 -- Abdu'l-Bahá
 
-bpn10759 
+bpn10759 «[Srpski српски](../sr/prayers/#bpn10759)» 
 
 ----
 
@@ -457,7 +457,7 @@ Ja sam onaj, O moj Gospode, koji je okrenuo lice ka Tebi, i utemeljio svoju nadu
 
 -- Bahá'u'lláh
 
-bpn10760 
+bpn10760 «[Srpski српски](../sr/prayers/#bpn10760)» 
 
 ----
 
@@ -467,7 +467,7 @@ Hvalimo Te, O Gospode. Oprosti nam naše grehe, smiluj se na nas i pomozi nam da
 
 -- Báb
 
-bpn10761 
+bpn10761 «[Srpski српски](../sr/prayers/#bpn10761)» 
 
 ----
 
@@ -477,7 +477,7 @@ O, Ti milostivi Gospode! Ti si utočište za sve svoje sluge. Znaš tajne i sves
 
 -- Abdu'l-Bahá
 
-bpn10762 
+bpn10762 «[Srpski српски](../sr/prayers/#bpn10762)» 
 
 ----
 
@@ -491,7 +491,7 @@ O Gospode! Osposobi sve narode na zemlji da zadobiju pristup Raju Tvoje Vere, ta
 
 -- Báb
 
-bpn10763 
+bpn10763 «[Srpski српски](../sr/prayers/#bpn10763)» 
 
 ----
 
@@ -501,7 +501,7 @@ O Gospode! Otvori vrata, daj sredstva, pripremi put, učini stazu bezbednom da b
 
 -- Abdu'l-Bahá
 
-bpn10764 
+bpn10764 «[Srpski српски](../sr/prayers/#bpn10764)» 
 
 ----
 
@@ -515,7 +515,7 @@ O moj Bože! Molim Te Tvojim najslavnijim imenom, da mi pomogneš u onim poduhva
 
 -- Bahá'u'lláh
 
-bpn10765 
+bpn10765 «[Srpski српски](../sr/prayers/#bpn10765)» 
 
 ----
 
@@ -525,7 +525,7 @@ O Ti Čije je lice predmet mog obožavanja, Čija je lepota meni utočište, Či
 
 -- Bahá'u'lláh
 
-bpn10766 
+bpn10766 «[Srpski српски](../sr/prayers/#bpn10766)» 
 
 ----
 
@@ -535,7 +535,7 @@ Gospode! Ništavni smo mi, podari nam naklonost Svoju; siroti smo, daruj nam deo
 
 -- Abdu'l-Bahá
 
-bpn10767 
+bpn10767 «[Srpski српски](../sr/prayers/#bpn10767)» 
 
 ----
 
@@ -545,7 +545,7 @@ Ne uklanjaj, O Gospode, prazničnu trpezu koja je razastrta u Tvoje Ime, i ne ut
 
 -- Abdu'l-Bahá
 
-bpn10768 
+bpn10768 «[Srpski српски](../sr/prayers/#bpn10768)» 
 
 ----
 
@@ -559,7 +559,7 @@ bpn10768
 
 -- Bahá'u'lláh
 
-bpn10792 
+bpn10792 «[Srpski српски](../sr/prayers/#bpn10792)» 
 
 ----
 
@@ -573,7 +573,7 @@ O Bože, moj Bože! Krenuo sam od kuće, držeći se čvrsto za uže Tvoje ljuba
 
 -- Bahá'u'lláh
 
-bpn10771 
+bpn10771 «[Srpski српски](../sr/prayers/#bpn10771)» 
 
 ----
 
@@ -587,7 +587,7 @@ Ti vidiš, O Gospode, naše ruke uzdignute u molitvi ka nebu Tvoje blagonaklonos
 
 -- Bahá'u'lláh
 
-bpn10772 
+bpn10772 «[Srpski српски](../sr/prayers/#bpn10772)» 
 
 ----
 
@@ -601,7 +601,7 @@ Sva slava, O moj Bože, pripada Tebi Koji si Izvor svega divnog i uzvišenog, ve
 
 -- Bahá'u'lláh
 
-bpn10773 
+bpn10773 «[Srpski српски](../sr/prayers/#bpn10773)» 
 
 ----
 
@@ -615,7 +615,7 @@ bpn10773
 
 -- Bahá'u'lláh
 
-bpn10790 
+bpn10790 «[Srpski српски](../sr/prayers/#bpn10790)» 
 
 ----
 
@@ -629,7 +629,7 @@ bpn10790
 
 -- Abdu'l-Bahá
 
-bpn10774 
+bpn10774 «[Srpski српски](../sr/prayers/#bpn10774)» 
 
 ----
 
@@ -643,7 +643,7 @@ bpn10774
 
 -- Bahá'u'lláh
 
-bpn10797 
+bpn10797 «[Srpski српски](../sr/prayers/#bpn10797)» 
 
 ----
 
@@ -657,7 +657,7 @@ U ime Boga, Najdrevnijega, Najvećega.Doista srca iskrenih proždrta su vatrom r
 
 -- Bahá'u'lláh
 
-bpn10796 
+bpn10796 «[Srpski српски](../sr/prayers/#bpn10796)» 
 
 ----
 
@@ -671,7 +671,7 @@ bpn10796
 
 -- Bahá'u'lláh
 
-bpn10794 
+bpn10794 «[Srpski српски](../sr/prayers/#bpn10794)» 
 
 ----
 
@@ -685,7 +685,7 @@ Slavljen si Ti, O Gospode moj Bože! Svaki čovek koji je imao duhovni uvid priz
 
 -- Bahá'u'lláh
 
-bpn10775 
+bpn10775 «[Srpski српски](../sr/prayers/#bpn10775)» 
 
 ----
 
@@ -695,7 +695,7 @@ Bog je meni dovoljan. On uistinu svemu dostaje. U Njega neka se verni uzdaju.
 
 -- Bahá'u'lláh
 
-bpn10781 
+bpn10781 «[Srpski српски](../sr/prayers/#bpn10781)» 
 
 ----
 
@@ -705,7 +705,7 @@ Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi oni koji Te istins
 
 -- Bahá'u'lláh
 
-bpn10782 
+bpn10782 «[Srpski српски](../sr/prayers/#bpn10782)» 
 
 ----
 
@@ -715,7 +715,7 @@ Ima li ikog sem Boga ko može ukloniti nedaće? Recite: Hvala Bogu! On je Bog! S
 
 -- Báb
 
-bpn10776 
+bpn10776 «[Srpski српски](../sr/prayers/#bpn10776)» 
 
 ----
 
@@ -725,7 +725,7 @@ Recite: Bog je dovoljan u svim stvarima i iznad svih stvari, i ništa na nebesim
 
 -- Báb
 
-bpn10777 
+bpn10777 «[Srpski српски](../sr/prayers/#bpn10777)» 
 
 ----
 
@@ -735,7 +735,7 @@ Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u trenucima isku
 
 -- Báb
 
-bpn10778 
+bpn10778 «[Srpski српски](../sr/prayers/#bpn10778)» 
 
 ----
 
@@ -745,7 +745,7 @@ O Gospode! Ti uklanjaš svaku patnju i izbavljaš od svakog jada. Ti si Onaj Koj
 
 -- Báb
 
-bpn10779 
+bpn10779 «[Srpski српски](../sr/prayers/#bpn10779)» 
 
 ----
 
@@ -755,7 +755,7 @@ O Gospode, moj Bože i moje Utočište u nevolji! Moj Štitu i Zaklonu od jada! 
 
 -- Abdu'l-Bahá
 
-bpn10780 
+bpn10780 «[Srpski српски](../sr/prayers/#bpn10780)» 
 
 ----
 
@@ -769,7 +769,7 @@ Molimo se Bogu da milosrdno pomogne zabludelima da postanu pravični i nepristra
 
 -- Bahá'u'lláh
 
-bpn10783 
+bpn10783 «[Srpski српски](../sr/prayers/#bpn10783)» 
 
 ----
 
@@ -779,7 +779,7 @@ O Ti, pred Čijim je zastrašujućim veličanstvom sve drhtalo, u Čijim su ruka
 
 -- Bahá'u'lláh
 
-bpn10784 
+bpn10784 «[Srpski српски](../sr/prayers/#bpn10784)» 
 
 ----
 
@@ -793,7 +793,7 @@ bpn10784
 
 -- Bahá'u'lláh
 
-bpn10769 
+bpn10769 «[Srpski српски](../sr/prayers/#bpn10769)» 
 
 ----
 
@@ -803,7 +803,7 @@ O moj Bože! O Ti, koji praštaš grehe! Darodavče! Ti Koji odagnavaš patnju!I
 
 -- Abdu'l-Bahá
 
-bpn10770 
+bpn10770 «[Srpski српски](../sr/prayers/#bpn10770)» 
 
 ----
 
@@ -817,7 +817,7 @@ Hvaljeno bilo Tvoje ime, O Gospode, moj Bože! Preklinjem Te, tako Ti Tvog Imena
 
 -- Bahá'u'lláh
 
-bpn10785 
+bpn10785 «[Srpski српски](../sr/prayers/#bpn10785)» 
 
 ----
 
@@ -827,7 +827,7 @@ bpn10785
 
 -- Báb
 
-bpn10786 
+bpn10786 «[Srpski српски](../sr/prayers/#bpn10786)» 
 
 ----
 
@@ -837,7 +837,7 @@ O moj Gospode! Ti znaš da su ljudi okruženi bolom i razaranjem, da su svuda ok
 
 -- Abdu'l-Bahá
 
-bpn10787 
+bpn10787 «[Srpski српски](../sr/prayers/#bpn10787)» 
 
 ----
 
@@ -847,7 +847,7 @@ O Ti božansko Proviđenje, mi smo bedni, priteci nam u pomoć; beskućnici smo 
 
 -- Abdu'l-Bahá
 
-bpn10788 
+bpn10788 «[Srpski српски](../sr/prayers/#bpn10788)» 
 
 ----
 

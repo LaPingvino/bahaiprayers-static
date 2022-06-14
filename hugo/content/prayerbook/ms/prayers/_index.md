@@ -125,7 +125,7 @@ tags = ['lang=ms', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12192 
+bpn12192 «[Bahasa Melayu](../ms/prayers/#bpn12192)» 
 
 ----
 
@@ -139,7 +139,7 @@ Ya Tuhanku! Aku memohon kepada-Mu, dengan Nama-Mu yang teragung, untuk membantuk
 
 -- Bahá'u'lláh
 
-bpn12039 
+bpn12039 «[Bahasa Melayu](../ms/prayers/#bpn12039)» 
 
 ----
 
@@ -149,7 +149,7 @@ Diagungkanlah Nama-Mu, Ya Tuhan, Tuhanku! Akulah yang telah memalingkan wajahku 
 
 -- Bahá'u'lláh
 
-bpn12040 
+bpn12040 «[Bahasa Melayu](../ms/prayers/#bpn12040)» 
 
 ----
 
@@ -159,7 +159,7 @@ Ya Engkau Yang wajah-Nya adalah tujuan pujaanku, Yang keindahan-Nya adalah tempa
 
 -- Bahá'u'lláh
 
-bpn12041 
+bpn12041 «[Bahasa Melayu](../ms/prayers/#bpn12041)» 
 
 ----
 
@@ -169,7 +169,7 @@ Letakkanlah segala kepercayaan dan keyakinanmu kepada Tuhan yang telah menciptak
 
 -- Bahá'u'lláh
 
-bpn12042 
+bpn12042 «[Bahasa Melayu](../ms/prayers/#bpn12042)» 
 
 ----
 
@@ -179,7 +179,7 @@ Adakah penghalau kesukaran-kesukaran selain Tuhan? Katakanlah: Terpujilah Tuhan!
 
 -- Báb
 
-bpn12043 
+bpn12043 «[Bahasa Melayu](../ms/prayers/#bpn12043)» 
 
 ----
 
@@ -189,7 +189,7 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tidak ada 
 
 -- Báb
 
-bpn12044 
+bpn12044 «[Bahasa Melayu](../ms/prayers/#bpn12044)» 
 
 ----
 
@@ -199,7 +199,7 @@ Ya Tuhanku, Rajaku dan Tuanku! Aku telah memisahkan diriku daripada saudaraku da
 
 -- Báb
 
-bpn12045 
+bpn12045 «[Bahasa Melayu](../ms/prayers/#bpn12045)» 
 
 ----
 
@@ -209,7 +209,7 @@ Ya Tuhan! Izinkanlah semua manusia dunia ini untuk mendapat tempat dalam Syurga 
 
 -- Báb
 
-bpn12046 
+bpn12046 «[Bahasa Melayu](../ms/prayers/#bpn12046)» 
 
 ----
 
@@ -219,7 +219,7 @@ Tuhan! Kasihanilah kami, berikanlah berkat-Mu; miskin, kurniakanlah kami sebahag
 
 -- Abdu'l-Bahá
 
-bpn12047 
+bpn12047 «[Bahasa Melayu](../ms/prayers/#bpn12047)» 
 
 ----
 
@@ -229,7 +229,7 @@ Ya Tuhan, Tuhanku! Bantulah kekasih-kekasih-Mu untuk teguh dalam Akidah-Mu, untu
 
 -- Abdu'l-Bahá
 
-bpn12048 
+bpn12048 «[Bahasa Melayu](../ms/prayers/#bpn12048)» 
 
 ----
 
@@ -239,7 +239,7 @@ Ya Engkau Pembekal yang ilahi, kasihanilah kami, berikanlah pertolongan-Mu; peng
 
 -- Abdu'l-Bahá
 
-bpn12049 
+bpn12049 «[Bahasa Melayu](../ms/prayers/#bpn12049)» 
 
 ----
 
@@ -253,7 +253,7 @@ Terpujilah Engkau, Ya Tuhan, Tuhanku! Berikanlah bayi ini susu daripada dada bel
 
 -- Bahá'u'lláh
 
-bpn12036 
+bpn12036 «[Bahasa Melayu](../ms/prayers/#bpn12036)» 
 
 ----
 
@@ -263,7 +263,7 @@ Ya Tuhan yang tiada bandingan! Biarlah bayi yang sedang menyusu ini disusui dari
 
 -- Abdu'l-Bahá
 
-bpn12037 
+bpn12037 «[Bahasa Melayu](../ms/prayers/#bpn12037)» 
 
 ----
 
@@ -273,7 +273,7 @@ Ya Tuhan! Peliharalah bayi ini dalam dada cinta-Mu, dan berilah dia susu daripad
 
 -- Abdu'l-Bahá
 
-bpn12038 
+bpn12038 «[Bahasa Melayu](../ms/prayers/#bpn12038)» 
 
 ----
 
@@ -287,7 +287,7 @@ Engkau adalah Dia, Ya Tuhanku, melalui nama-nama-Nya yang sakit disembuhkan dan 
 
 -- Bahá'u'lláh
 
-bpn12050 
+bpn12050 «[Bahasa Melayu](../ms/prayers/#bpn12050)» 
 
 ----
 
@@ -301,7 +301,7 @@ Diberkatilah  dia yang dalam kemuncak zaman belianya dan kegemilangan hidupnya b
 
 -- Bahá'u'lláh
 
-bpn12051 
+bpn12051 «[Bahasa Melayu](../ms/prayers/#bpn12051)» 
 
 ----
 
@@ -311,7 +311,7 @@ Ya Tuhan! Jadikanlah pemuda ini cemerlang, dan kurniakanlah rahmat-Mu kepada ins
 
 -- Abdu'l-Bahá
 
-bpn12052 
+bpn12052 «[Bahasa Melayu](../ms/prayers/#bpn12052)» 
 
 ----
 
@@ -321,7 +321,7 @@ Ya Engkau Tuhan yang Penyayang! Dengan kemurahan hati kurniailah sepasang sayap 
 
 -- Abdu'l-Bahá
 
-bpn12053 
+bpn12053 «[Bahasa Melayu](../ms/prayers/#bpn12053)» 
 
 ----
 
@@ -335,7 +335,7 @@ Diberkatilah titik, dan rumah, dan tempat, dan kota, dan hati, dan gunung, dan p
 
 -- Bahá'u'lláh
 
-bpn12054 
+bpn12054 «[Bahasa Melayu](../ms/prayers/#bpn12054)» 
 
 ----
 
@@ -349,7 +349,7 @@ Kita berdoa kepada Tuhan agar dengan murah hati membantu mereka yang sudah terse
 
 -- Bahá'u'lláh
 
-bpn12055 
+bpn12055 «[Bahasa Melayu](../ms/prayers/#bpn12055)» 
 
 ----
 
@@ -359,7 +359,7 @@ Ya Engkau Pembekal Suci! Kurniailah Engkau dalam segala benda kesucian dan keber
 
 -- Abdu'l-Bahá
 
-bpn12056 
+bpn12056 «[Bahasa Melayu](../ms/prayers/#bpn12056)» 
 
 ----
 
@@ -369,7 +369,7 @@ Maka kerahkanlah usaha yang besar agar kemurnian dan kesucian, yang disukai &#39
 
 -- Abdu'l-Bahá
 
-bpn12057 
+bpn12057 «[Bahasa Melayu](../ms/prayers/#bpn12057)» 
 
 ----
 
@@ -383,7 +383,7 @@ Diluhurkanlah dan dimuliakanlah Engkau, Ya Tuhanku! Aku memohon kepada-Mu demi k
 
 -- Bahá'u'lláh
 
-bpn12058 
+bpn12058 «[Bahasa Melayu](../ms/prayers/#bpn12058)» 
 
 ----
 
@@ -393,7 +393,7 @@ Dimuliakanlah Engkau, Ya Tuhanku! Jika bukan kerana kesukaran yang telah ditahan
 
 -- Bahá'u'lláh
 
-bpn12059 
+bpn12059 «[Bahasa Melayu](../ms/prayers/#bpn12059)» 
 
 ----
 
@@ -403,7 +403,7 @@ Hilangkanlah duka laraku dengan rahmat-Mu dan kedermawanan-Mu, Ya Tuhan, Tuhanku
 
 -- Bahá'u'lláh
 
-bpn12060 
+bpn12060 «[Bahasa Melayu](../ms/prayers/#bpn12060)» 
 
 ----
 
@@ -413,7 +413,7 @@ Ya Engkau Yang cubaan-cubaan-Nya adalah ubat penyembuh bagi mereka yang dekat ke
 
 -- Bahá'u'lláh
 
-bpn12061 
+bpn12061 «[Bahasa Melayu](../ms/prayers/#bpn12061)» 
 
 ----
 
@@ -423,7 +423,7 @@ bpn12061
 
 -- Bahá'u'lláh
 
-bpn12064 
+bpn12064 «[Bahasa Melayu](../ms/prayers/#bpn12064)» 
 
 ----
 
@@ -433,7 +433,7 @@ Aku merayu kepada-Mu demi kekuatan-Mu, Ya Tuhanku! Janganlah membiarkan kecelaka
 
 -- Báb
 
-bpn12062 
+bpn12062 «[Bahasa Melayu](../ms/prayers/#bpn12062)» 
 
 ----
 
@@ -443,7 +443,7 @@ Ya Tuhan! Engkaulah Penghapus setiap kesengsaraan dan Penghalau setiap penderita
 
 -- Báb
 
-bpn12063 
+bpn12063 «[Bahasa Melayu](../ms/prayers/#bpn12063)» 
 
 ----
 
@@ -453,7 +453,7 @@ Ya Tuhanku! Engkau ketahui bahawa manusia dikelilingi dengan kesakitan dan malap
 
 -- Abdu'l-Bahá
 
-bpn12065 
+bpn12065 «[Bahasa Melayu](../ms/prayers/#bpn12065)» 
 
 ----
 
@@ -463,7 +463,7 @@ bpn12065
 
 -- Abdu'l-Bahá
 
-bpn12066 
+bpn12066 «[Bahasa Melayu](../ms/prayers/#bpn12066)» 
 
 ----
 
@@ -477,7 +477,7 @@ bpn12066
 
 -- Bahá'u'lláh
 
-bpn12067 
+bpn12067 «[Bahasa Melayu](../ms/prayers/#bpn12067)» 
 
 ----
 
@@ -487,7 +487,7 @@ Semua rakan Tuhan… harus menyumbang sebanyak yang boleh, tak kira betapa kecil
 
 -- Abdu'l-Bahá
 
-bpn12068 
+bpn12068 «[Bahasa Melayu](../ms/prayers/#bpn12068)» 
 
 ----
 
@@ -501,7 +501,7 @@ bpn12068
 
 -- Bahá'u'lláh
 
-bpn12187 
+bpn12187 «[Bahasa Melayu](../ms/prayers/#bpn12187)» 
 
 ----
 
@@ -515,7 +515,7 @@ Dia adalah Penyembuh, Yang Mencukupi, Penolong, Yang Maha Pengampun, Yang Maha R
 
 -- Bahá'u'lláh
 
-bpn12115 
+bpn12115 «[Bahasa Melayu](../ms/prayers/#bpn12115)» 
 
 ----
 
@@ -529,7 +529,7 @@ Wahai pencari Kebenaran! Jika engkau menginginkan agar Tuhan membuka mata rohani
 
 -- Abdu'l-Bahá
 
-bpn12129 
+bpn12129 «[Bahasa Melayu](../ms/prayers/#bpn12129)» 
 
 ----
 
@@ -543,7 +543,7 @@ bpn12129
 
 -- Bahá'u'lláh
 
-bpn12034 
+bpn12034 «[Bahasa Melayu](../ms/prayers/#bpn12034)» 
 
 ----
 
@@ -557,7 +557,7 @@ bpn12034
 
 -- Bahá'u'lláh
 
-bpn12035 
+bpn12035 «[Bahasa Melayu](../ms/prayers/#bpn12035)» 
 
 ----
 
@@ -571,7 +571,7 @@ bpn12035
 
 -- Bahá'u'lláh
 
-bpn12033 
+bpn12033 «[Bahasa Melayu](../ms/prayers/#bpn12033)» 
 
 ----
 
@@ -585,7 +585,7 @@ bpn12033
 
 -- Abdu'l-Bahá
 
-bpn12147 
+bpn12147 «[Bahasa Melayu](../ms/prayers/#bpn12147)» 
 
 ----
 
@@ -595,7 +595,7 @@ bpn12147
 
 -- Abdu'l-Bahá
 
-bpn12148 
+bpn12148 «[Bahasa Melayu](../ms/prayers/#bpn12148)» 
 
 ----
 
@@ -609,7 +609,7 @@ bpn12148
 
 -- Abdu'l-Bahá
 
-bpn12202 
+bpn12202 «[Bahasa Melayu](../ms/prayers/#bpn12202)» 
 
 ----
 
@@ -623,7 +623,7 @@ Ya Tuhanku dan Rajaku! Aku adalah hamba-Mu dan putera hamba-Mu. Aku telah bangun
 
 -- Bahá'u'lláh
 
-bpn12069 
+bpn12069 «[Bahasa Melayu](../ms/prayers/#bpn12069)» 
 
 ----
 
@@ -633,7 +633,7 @@ bpn12069
 
 -- Bahá'u'lláh
 
-bpn12070 
+bpn12070 «[Bahasa Melayu](../ms/prayers/#bpn12070)» 
 
 ----
 
@@ -647,7 +647,7 @@ Engkau lihat, Ya Tuhan, tangan rendah diri kami diangkatkan ke arah syurga kurni
 
 -- Bahá'u'lláh
 
-bpn12073 
+bpn12073 «[Bahasa Melayu](../ms/prayers/#bpn12073)» 
 
 ----
 
@@ -657,7 +657,7 @@ bpn12073
 
 -- Báb
 
-bpn12074 
+bpn12074 «[Bahasa Melayu](../ms/prayers/#bpn12074)» 
 
 ----
 
@@ -667,7 +667,7 @@ Aku memohon kemaafan-Mu, Ya Tuhanku, dan merayu pengampunan-Mu sebagaimana Engka
 
 -- Báb
 
-bpn12075 
+bpn12075 «[Bahasa Melayu](../ms/prayers/#bpn12075)» 
 
 ----
 
@@ -677,7 +677,7 @@ Ya Tuhan! Dalam Dispensasi yang Maha Agung ini Engkau telah menerima permohonan 
 
 -- Abdu'l-Bahá
 
-bpn12076 
+bpn12076 «[Bahasa Melayu](../ms/prayers/#bpn12076)» 
 
 ----
 
@@ -687,7 +687,7 @@ bpn12076
 
 -- Abdu'l-Bahá
 
-bpn12077 
+bpn12077 «[Bahasa Melayu](../ms/prayers/#bpn12077)» 
 
 ----
 
@@ -701,7 +701,7 @@ Ya Tuhan, Tuhanku! Ini adalah anak yang telah dilahirkan daripada loin salah seo
 
 -- Bahá'u'lláh
 
-bpn12078 
+bpn12078 «[Bahasa Melayu](../ms/prayers/#bpn12078)» 
 
 ----
 
@@ -711,7 +711,7 @@ bpn12078
 
 -- Bahá'u'lláh
 
-bpn12079 
+bpn12079 «[Bahasa Melayu](../ms/prayers/#bpn12079)» 
 
 ----
 
@@ -721,7 +721,7 @@ Ya Tuhan, bimbinglah daku, lindungilah daku, jadikanlah daku satu lampu bersinar
 
 -- Abdu'l-Bahá
 
-bpn12080 
+bpn12080 «[Bahasa Melayu](../ms/prayers/#bpn12080)» 
 
 ----
 
@@ -731,7 +731,7 @@ Dialah Tuhan! Ya Tuhan, Tuhanku! Kurniakanlah ke atas daku hati yang murni, baga
 
 -- Abdu'l-Bahá
 
-bpn12081 
+bpn12081 «[Bahasa Melayu](../ms/prayers/#bpn12081)» 
 
 ----
 
@@ -741,7 +741,7 @@ Ya Tuhanku! Ya Tuhanku! Engkau melihat kanak-kanak ini yang adalah dahan daripad
 
 -- Abdu'l-Bahá
 
-bpn12082 
+bpn12082 «[Bahasa Melayu](../ms/prayers/#bpn12082)» 
 
 ----
 
@@ -751,7 +751,7 @@ Ya Tuhanku! Ya Tuhanku! Aku adalah anak yang muda. Asuhlah daku daripada dada be
 
 -- Abdu'l-Bahá
 
-bpn12083 
+bpn12083 «[Bahasa Melayu](../ms/prayers/#bpn12083)» 
 
 ----
 
@@ -761,7 +761,7 @@ Ya Tuhan yang Tiada Bandingan! Jadilah Engkau tempat teduh kepada kanak-kanak ya
 
 -- Abdu'l-Bahá
 
-bpn12084 
+bpn12084 «[Bahasa Melayu](../ms/prayers/#bpn12084)» 
 
 ----
 
@@ -771,7 +771,7 @@ Ya Engkau Tuhan yang maha mulia! Jadikanlah dayang-Mu yang muda ini diberkati da
 
 -- Abdu'l-Bahá
 
-bpn12085 
+bpn12085 «[Bahasa Melayu](../ms/prayers/#bpn12085)» 
 
 ----
 
@@ -781,7 +781,7 @@ Ya Tuhan! Didiklah kanak-kanak ini. Kanak-kanak ini ialah pohon-pohon dalam kebu
 
 -- Abdu'l-Bahá
 
-bpn12086 
+bpn12086 «[Bahasa Melayu](../ms/prayers/#bpn12086)» 
 
 ----
 
@@ -791,7 +791,7 @@ Ya Tuhan! Jadikanlah kanak-kanak ini tumbuh-tumbuhan yang cemerlang. Biarlah mer
 
 -- Abdu'l-Bahá
 
-bpn12087 
+bpn12087 «[Bahasa Melayu](../ms/prayers/#bpn12087)» 
 
 ----
 
@@ -801,7 +801,7 @@ Ya Tuhan yang Pengasih! Kanak-kanak comel ini adalah karya jari-jari-Mu yang ber
 
 -- Abdu'l-Bahá
 
-bpn12088 
+bpn12088 «[Bahasa Melayu](../ms/prayers/#bpn12088)» 
 
 ----
 
@@ -811,7 +811,7 @@ bpn12088
 
 -- Abdu'l-Bahá
 
-bpn12089 
+bpn12089 «[Bahasa Melayu](../ms/prayers/#bpn12089)» 
 
 ----
 
@@ -825,7 +825,7 @@ Terpujilah Engkau, Ya Tuhanku! Engkau mendengar kekasih-Mu yang sejati meratap d
 
 -- Bahá'u'lláh
 
-bpn12090 
+bpn12090 «[Bahasa Melayu](../ms/prayers/#bpn12090)» 
 
 ----
 
@@ -835,7 +835,7 @@ Dia adalah Belas Kasihan, Yang Maha Rahim! Ya Tuhan, Tuhanku! Engkau melihatku, 
 
 -- Abdu'l-Bahá
 
-bpn12091 
+bpn12091 «[Bahasa Melayu](../ms/prayers/#bpn12091)» 
 
 ----
 
@@ -849,7 +849,7 @@ bpn12091
 
 -- Bahá'u'lláh
 
-bpn12092 
+bpn12092 «[Bahasa Melayu](../ms/prayers/#bpn12092)» 
 
 ----
 
@@ -859,7 +859,7 @@ Ya Tuhan! Kami lemah; berilah kami kekuatan. Kami miskin; anugerahilah kami deng
 
 -- Abdu'l-Bahá
 
-bpn12093 
+bpn12093 «[Bahasa Melayu](../ms/prayers/#bpn12093)» 
 
 ----
 
@@ -869,7 +869,7 @@ Ya Tuhan! Kami lemah; perkuatkanlah kami. Ya Tuhan! Kami jahil; jadikanlah kami 
 
 -- Abdu'l-Bahá
 
-bpn12094 
+bpn12094 «[Bahasa Melayu](../ms/prayers/#bpn12094)» 
 
 ----
 
@@ -883,7 +883,7 @@ Maha Mulialah Engkau, Ya Tuhanku! Aku bersyukur kepada-Mu kerana Engkau telah   
 
 -- Bahá'u'lláh
 
-bpn12095 
+bpn12095 «[Bahasa Melayu](../ms/prayers/#bpn12095)» 
 
 ----
 
@@ -893,7 +893,7 @@ Kemuliaan bagi-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu agar mengampuni daku
 
 -- Báb
 
-bpn12096 
+bpn12096 «[Bahasa Melayu](../ms/prayers/#bpn12096)» 
 
 ----
 
@@ -903,7 +903,7 @@ bpn12096
 
 -- Abdu'l-Bahá
 
-bpn12097 
+bpn12097 «[Bahasa Melayu](../ms/prayers/#bpn12097)» 
 
 ----
 
@@ -917,7 +917,7 @@ Dimuliakanlah Engkau, Ya Tuhan, Tuhanku! Jelmakanlah sungai-sungai kekuatan-Mu y
 
 -- Bahá'u'lláh
 
-bpn12098 
+bpn12098 «[Bahasa Melayu](../ms/prayers/#bpn12098)» 
 
 ----
 
@@ -927,7 +927,7 @@ Kemuliaan bagi-Mu, Ya Tuhanku, Engkaulah yang telah mewujudkan segala benda terc
 
 -- Báb
 
-bpn12099 
+bpn12099 «[Bahasa Melayu](../ms/prayers/#bpn12099)» 
 
 ----
 
@@ -937,7 +937,7 @@ Ya Tuhan! Bolehkanlah semua manusia di bumi untuk memasuki Syurga Akidah-Mu, aga
 
 -- Báb
 
-bpn12100 
+bpn12100 «[Bahasa Melayu](../ms/prayers/#bpn12100)» 
 
 ----
 
@@ -951,7 +951,7 @@ Ya Tuhan! Hilangkanlah semua unsur-unsur yang menyebabkan perselisihan, dan sedi
 
 -- Bahá'u'lláh
 
-bpn12169 
+bpn12169 «[Bahasa Melayu](../ms/prayers/#bpn12169)» 
 
 ----
 
@@ -965,7 +965,7 @@ bpn12169
 
 -- Bahá'u'lláh
 
-bpn12101 
+bpn12101 «[Bahasa Melayu](../ms/prayers/#bpn12101)» 
 
 ----
 
@@ -975,7 +975,7 @@ Jadikanlah daku bersedia, dalam segala keadaan, Ya Tuhanku, untuk mengabdi kepad
 
 -- Bahá'u'lláh
 
-bpn12102 
+bpn12102 «[Bahasa Melayu](../ms/prayers/#bpn12102)» 
 
 ----
 
@@ -985,7 +985,7 @@ Wujudkanlah dalam diriku hati yang suci, Ya Tuhanku, dan baharuilah satu suara h
 
 -- Bahá'u'lláh
 
-bpn12103 
+bpn12103 «[Bahasa Melayu](../ms/prayers/#bpn12103)» 
 
 ----
 
@@ -995,7 +995,7 @@ Ya Tuhan! Segarkan dan riangkanlah  jiwaku, murnikanlah hatiku, terangilah kuasa
 
 -- Abdu'l-Bahá
 
-bpn12104 
+bpn12104 «[Bahasa Melayu](../ms/prayers/#bpn12104)» 
 
 ----
 
@@ -1005,7 +1005,7 @@ Ya Tuhan, Tuhanku! Engkaulah Harapanku dan Kekasihku, Tujuanku dan Hasratku yang
 
 -- Abdu'l-Bahá
 
-bpn12105 
+bpn12105 «[Bahasa Melayu](../ms/prayers/#bpn12105)» 
 
 ----
 
@@ -1019,7 +1019,7 @@ Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah ke
 
 -- Bahá'u'lláh
 
-bpn12106 
+bpn12106 «[Bahasa Melayu](../ms/prayers/#bpn12106)» 
 
 ----
 
@@ -1029,7 +1029,7 @@ Kemuliaan bagi-Mu, Ya Tuhan, atas         penjelmaan cinta-Mu kepada manusia! Ya
 
 -- Bahá'u'lláh
 
-bpn12107 
+bpn12107 «[Bahasa Melayu](../ms/prayers/#bpn12107)» 
 
 ----
 
@@ -1039,7 +1039,7 @@ Tuhan mengurniakan agar cahaya kesatuan dapat menyelubungi seluruh bumi, dan aga
 
 -- Bahá'u'lláh
 
-bpn12108 
+bpn12108 «[Bahasa Melayu](../ms/prayers/#bpn12108)» 
 
 ----
 
@@ -1049,7 +1049,7 @@ bpn12108
 
 -- Bahá'u'lláh
 
-bpn12109 
+bpn12109 «[Bahasa Melayu](../ms/prayers/#bpn12109)» 
 
 ----
 
@@ -1059,7 +1059,7 @@ Ya Tuhanku! Ya Tuhanku! Sesungguhnya, aku memohon kepada-Mu dan merayu di hadapa
 
 -- Abdu'l-Bahá
 
-bpn12110 
+bpn12110 «[Bahasa Melayu](../ms/prayers/#bpn12110)» 
 
 ----
 
@@ -1073,7 +1073,7 @@ Nama-Mu adalah kesembuhanku, Ya Tuhanku, dan mengenang Engkau adalah penawarku. 
 
 -- Bahá'u'lláh
 
-bpn12111 
+bpn12111 «[Bahasa Melayu](../ms/prayers/#bpn12111)» 
 
 ----
 
@@ -1083,7 +1083,7 @@ Ya Tuhan, Tuhanku! Aku merayu kepada-Mu demi samudera penyembuhan-Mu, demi kecem
 
 -- Bahá'u'lláh
 
-bpn12112 
+bpn12112 «[Bahasa Melayu](../ms/prayers/#bpn12112)» 
 
 ----
 
@@ -1093,7 +1093,7 @@ Terpujilah Engkau, Ya Tuhan, Tuhanku! Aku merayu kepada-Mu, demi Nama-Mu Yang Te
 
 -- Bahá'u'lláh
 
-bpn12113 
+bpn12113 «[Bahasa Melayu](../ms/prayers/#bpn12113)» 
 
 ----
 
@@ -1103,7 +1103,7 @@ bpn12113
 
 -- Abdu'l-Bahá
 
-bpn12114 
+bpn12114 «[Bahasa Melayu](../ms/prayers/#bpn12114)» 
 
 ----
 
@@ -1117,7 +1117,7 @@ Terpujilah Engkau, Ya Tuhanku! Aku salah seorang hamba-Mu, yang telah percaya ke
 
 -- Bahá'u'lláh
 
-bpn12116 
+bpn12116 «[Bahasa Melayu](../ms/prayers/#bpn12116)» 
 
 ----
 
@@ -1127,7 +1127,7 @@ Ya Tuhanku, biarlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, keran
 
 -- Bahá'u'lláh
 
-bpn12117 
+bpn12117 «[Bahasa Melayu](../ms/prayers/#bpn12117)» 
 
 ----
 
@@ -1137,7 +1137,7 @@ Terpujilah nama-Mu, Ya Tuhanku! Aku memohon kepada-Mu demi keharuman pakaian bel
 
 -- Bahá'u'lláh
 
-bpn12118 
+bpn12118 «[Bahasa Melayu](../ms/prayers/#bpn12118)» 
 
 ----
 
@@ -1147,7 +1147,7 @@ Aku tidak mengetahui, Ya Tuhanku, apakah Api yang telah Engkau nyalakan di bumi-
 
 -- Bahá'u'lláh
 
-bpn12119 
+bpn12119 «[Bahasa Melayu](../ms/prayers/#bpn12119)» 
 
 ----
 
@@ -1157,7 +1157,7 @@ bpn12119
 
 -- Bahá'u'lláh
 
-bpn12121 
+bpn12121 «[Bahasa Melayu](../ms/prayers/#bpn12121)» 
 
 ----
 
@@ -1167,7 +1167,7 @@ Ya Tuhan! Kepada Engkau aku mencari perlindungan dan menuju ke semua tanda-Mu ak
 
 -- Báb
 
-bpn12120 
+bpn12120 «[Bahasa Melayu](../ms/prayers/#bpn12120)» 
 
 ----
 
@@ -1177,7 +1177,7 @@ Ya Tuhan, Tuhanku! Penuhilah daku satu cawan ketakterikatan kepada segala benda,
 
 -- Abdu'l-Bahá
 
-bpn12122 
+bpn12122 «[Bahasa Melayu](../ms/prayers/#bpn12122)» 
 
 ----
 
@@ -1191,7 +1191,7 @@ bpn12122
 
 -- Bahá'u'lláh
 
-bpn12123 
+bpn12123 «[Bahasa Melayu](../ms/prayers/#bpn12123)» 
 
 ----
 
@@ -1201,7 +1201,7 @@ Perteguhkanlah langkah-langkah kami, Ya Tuhan, di jalan-Mu dan perkuatkanlah Eng
 
 -- Abdu'l-Bahá
 
-bpn12124 
+bpn12124 «[Bahasa Melayu](../ms/prayers/#bpn12124)» 
 
 ----
 
@@ -1211,7 +1211,7 @@ Ya Engkau kekasih hatiku dan rohku! Aku tidak mempunyai perlindungan kecuali dar
 
 -- Abdu'l-Bahá
 
-bpn12125 
+bpn12125 «[Bahasa Melayu](../ms/prayers/#bpn12125)» 
 
 ----
 
@@ -1221,7 +1221,7 @@ Ya Tuhanku dan Harapanku! Bantulah Engkau kekasih-kekasih-Mu untuk kekal teguh d
 
 -- Abdu'l-Bahá
 
-bpn12126 
+bpn12126 «[Bahasa Melayu](../ms/prayers/#bpn12126)» 
 
 ----
 
@@ -1235,7 +1235,7 @@ bpn12126
 
 -- Bahá'u'lláh
 
-bpn12198 
+bpn12198 «[Bahasa Melayu](../ms/prayers/#bpn12198)» 
 
 ----
 
@@ -1249,7 +1249,7 @@ bpn12198
 
 -- Bahá'u'lláh
 
-bpn12201 
+bpn12201 «[Bahasa Melayu](../ms/prayers/#bpn12201)» 
 
 ----
 
@@ -1263,7 +1263,7 @@ bpn12201
 
 -- Bahá'u'lláh
 
-bpn12197 
+bpn12197 «[Bahasa Melayu](../ms/prayers/#bpn12197)» 
 
 ----
 
@@ -1277,7 +1277,7 @@ bpn12197
 
 -- Bahá'u'lláh
 
-bpn12200 
+bpn12200 «[Bahasa Melayu](../ms/prayers/#bpn12200)» 
 
 ----
 
@@ -1291,7 +1291,7 @@ bpn12200
 
 -- Abdu'l-Bahá
 
-bpn12199 
+bpn12199 «[Bahasa Melayu](../ms/prayers/#bpn12199)» 
 
 ----
 
@@ -1305,7 +1305,7 @@ Ya Tuhanku, Rajaku, Tujuan hasratku. Hamba-Mu ini, hendak tidur di bawah perlind
 
 -- Bahá'u'lláh
 
-bpn12127 
+bpn12127 «[Bahasa Melayu](../ms/prayers/#bpn12127)» 
 
 ----
 
@@ -1315,7 +1315,7 @@ Bagaimana aku memilih untuk tidur, Ya Tuhan, Tuhanku, apabila mata mereka yang m
 
 -- Bahá'u'lláh
 
-bpn12128 
+bpn12128 «[Bahasa Melayu](../ms/prayers/#bpn12128)» 
 
 ----
 
@@ -1329,7 +1329,7 @@ Dibesarkanlah nama-Mu, Ya Tuhanku, kerana Engkau telah menjelmakan Hari yang mer
 
 -- Bahá'u'lláh
 
-bpn12130 
+bpn12130 «[Bahasa Melayu](../ms/prayers/#bpn12130)» 
 
 ----
 
@@ -1339,7 +1339,7 @@ Pujian bagi-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak s
 
 -- Bahá'u'lláh
 
-bpn12131 
+bpn12131 «[Bahasa Melayu](../ms/prayers/#bpn12131)» 
 
 ----
 
@@ -1349,7 +1349,7 @@ Dimuliakanlah nama-Mu, Ya Tuhan, Tuhanku! Engkau melihat bagaimana pandanganku t
 
 -- Bahá'u'lláh
 
-bpn12132 
+bpn12132 «[Bahasa Melayu](../ms/prayers/#bpn12132)» 
 
 ----
 
@@ -1359,7 +1359,7 @@ Dimuliakanlah Engkau, Ya Raja dunia dan Hasrat segala bangsa, Ya Engkau Yang tel
 
 -- Bahá'u'lláh
 
-bpn12139 
+bpn12139 «[Bahasa Melayu](../ms/prayers/#bpn12139)» 
 
 ----
 
@@ -1369,7 +1369,7 @@ Ya Tuhan, Engkaulah Pencipta semua Manifestasi, Sumber kepada segala Sumber, Sum
 
 -- Bahá'u'lláh
 
-bpn12140 
+bpn12140 «[Bahasa Melayu](../ms/prayers/#bpn12140)» 
 
 ----
 
@@ -1379,7 +1379,7 @@ Katakanlah: Dibesarkanlah Nama-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi
 
 -- Bahá'u'lláh
 
-bpn12141 
+bpn12141 «[Bahasa Melayu](../ms/prayers/#bpn12141)» 
 
 ----
 
@@ -1389,7 +1389,7 @@ bpn12141
 
 -- Bahá'u'lláh
 
-bpn12142 
+bpn12142 «[Bahasa Melayu](../ms/prayers/#bpn12142)» 
 
 ----
 
@@ -1399,7 +1399,7 @@ Ya Tuhan! Ya Tuhan! Ini seekor burung yang patah sayapnya dan terbangnya sangat 
 
 -- Abdu'l-Bahá
 
-bpn12133 
+bpn12133 «[Bahasa Melayu](../ms/prayers/#bpn12133)» 
 
 ----
 
@@ -1409,7 +1409,7 @@ Ya Engkau Tuhan Yang Tiada Bandingan! Ya Engkau Tuhan Kerajaan! Jiwa-jiwa ini ad
 
 -- Abdu'l-Bahá
 
-bpn12134 
+bpn12134 «[Bahasa Melayu](../ms/prayers/#bpn12134)» 
 
 ----
 
@@ -1419,7 +1419,7 @@ Ya Tuhanku, bantulah Engkau hamba-hamba-Mu untuk meluhurkan Kalimat, dan untuk m
 
 -- Abdu'l-Bahá
 
-bpn12135 
+bpn12135 «[Bahasa Melayu](../ms/prayers/#bpn12135)» 
 
 ----
 
@@ -1429,7 +1429,7 @@ Ya Tuhan, Tuhanku! Bantulah Engkau hamba-hamba-Mu yang dipercayai untuk memiliki
 
 -- Abdu'l-Bahá
 
-bpn12136 
+bpn12136 «[Bahasa Melayu](../ms/prayers/#bpn12136)» 
 
 ----
 
@@ -1439,7 +1439,7 @@ Engkau melihat daku, Ya Tuhanku, bersujud dengan penuh rendah hati, merendahkan 
 
 -- Abdu'l-Bahá
 
-bpn12137 
+bpn12137 «[Bahasa Melayu](../ms/prayers/#bpn12137)» 
 
 ----
 
@@ -1449,7 +1449,7 @@ Ya Tuhan! Bukakanlah Engkau pintu, sediakanlah caranya, berikanlah laluannya, ja
 
 -- Abdu'l-Bahá
 
-bpn12138 
+bpn12138 «[Bahasa Melayu](../ms/prayers/#bpn12138)» 
 
 ----
 
@@ -1463,7 +1463,7 @@ Pujian bagi-Mu, Ya Tuhanku, kerana Engkau telah menetapkan Naw-Rúz sebagai satu
 
 -- Bahá'u'lláh
 
-bpn12196 
+bpn12196 «[Bahasa Melayu](../ms/prayers/#bpn12196)» 
 
 ----
 
@@ -1477,7 +1477,7 @@ Aku telah bangun di bawah naungan-Mu, Ya Tuhanku, dan layak bagi dia yang mencar
 
 -- Bahá'u'lláh
 
-bpn12143 
+bpn12143 «[Bahasa Melayu](../ms/prayers/#bpn12143)» 
 
 ----
 
@@ -1487,7 +1487,7 @@ Aku memberikan pujian kepada-Mu, Ya Tuhanku, kerana Engkau telah membangunkan da
 
 -- Bahá'u'lláh
 
-bpn12144 
+bpn12144 «[Bahasa Melayu](../ms/prayers/#bpn12144)» 
 
 ----
 
@@ -1497,7 +1497,7 @@ bpn12144
 
 -- Bahá'u'lláh
 
-bpn12145 
+bpn12145 «[Bahasa Melayu](../ms/prayers/#bpn12145)» 
 
 ----
 
@@ -1511,7 +1511,7 @@ Engkau ketahui, Ya Tuhan, dan naik saksi bahawa aku tidak mempunyai hasrat dalam
 
 -- Abdu'l-Bahá
 
-bpn12146 
+bpn12146 «[Bahasa Melayu](../ms/prayers/#bpn12146)» 
 
 ----
 
@@ -1525,7 +1525,7 @@ Orang yang berdosa apabila dalam keadaan yang mana dia mendapati dirinya bebas d
 
 -- Bahá'u'lláh
 
-bpn12149 
+bpn12149 «[Bahasa Melayu](../ms/prayers/#bpn12149)» 
 
 ----
 
@@ -1535,7 +1535,7 @@ Terpujilah Nama-Mu, Ya Tuhanku dan Tuhan segala benda, Kemuliaanku dan Kemuliaan
 
 -- Bahá'u'lláh
 
-bpn12150 
+bpn12150 «[Bahasa Melayu](../ms/prayers/#bpn12150)» 
 
 ----
 
@@ -1545,7 +1545,7 @@ Kemuliaan kepada-Mu, Ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan bo
 
 -- Báb
 
-bpn12151 
+bpn12151 «[Bahasa Melayu](../ms/prayers/#bpn12151)» 
 
 ----
 
@@ -1555,7 +1555,7 @@ Ya Tuhanku, Ya Rajaku, Ya Tuanku! Aku merayu kepada-Mu untuk mengampuni daku ker
 
 -- Báb
 
-bpn12152 
+bpn12152 «[Bahasa Melayu](../ms/prayers/#bpn12152)» 
 
 ----
 
@@ -1565,7 +1565,7 @@ Aku merayu kepada-Mu untuk mengampuni daku, Ya Tuhanku, kerana setiap pengingata
 
 -- Báb
 
-bpn12153 
+bpn12153 «[Bahasa Melayu](../ms/prayers/#bpn12153)» 
 
 ----
 
@@ -1575,7 +1575,7 @@ Ya Engkau Tuhan Yang Pengampun! Engkau adalah Pelindung bagi semua hamba-hamba-M
 
 -- Abdu'l-Bahá
 
-bpn12154 
+bpn12154 «[Bahasa Melayu](../ms/prayers/#bpn12154)» 
 
 ----
 
@@ -1589,7 +1589,7 @@ Aku telah bangun pagi ini kerana rahmat-Mu, Ya Tuhanku, dan telah meninggalkan r
 
 -- Bahá'u'lláh
 
-bpn12155 
+bpn12155 «[Bahasa Melayu](../ms/prayers/#bpn12155)» 
 
 ----
 
@@ -1599,7 +1599,7 @@ Ya Tuhan, Tuhanku! Aku telah meninggalkan rumahku, berpegang teguh kepada tali c
 
 -- Bahá'u'lláh
 
-bpn12156 
+bpn12156 «[Bahasa Melayu](../ms/prayers/#bpn12156)» 
 
 ----
 
@@ -1613,7 +1613,7 @@ bpn12156
 
 -- Bahá'u'lláh
 
-bpn12157 
+bpn12157 «[Bahasa Melayu](../ms/prayers/#bpn12157)» 
 
 ----
 
@@ -1623,7 +1623,7 @@ Kemuliaan kepada-Mu, Ya Tuhanku! Sesungguhnya, hamba-Mu ini dan dayang-Mu ini te
 
 -- Abdu'l-Bahá
 
-bpn12158 
+bpn12158 «[Bahasa Melayu](../ms/prayers/#bpn12158)» 
 
 ----
 
@@ -1633,7 +1633,7 @@ Ya Tuhanku, Ya Tuhanku! Kedua-dua bola mata yang cemerlang ini telah dikahwinkan
 
 -- Abdu'l-Bahá
 
-bpn12159 
+bpn12159 «[Bahasa Melayu](../ms/prayers/#bpn12159)» 
 
 ----
 
@@ -1647,7 +1647,7 @@ Terpujilah nama-Mu, Ya Tuhan, Tuhanku! Aku merayu Engkau demi nama-Mu melaluinya
 
 -- Bahá'u'lláh
 
-bpn12160 
+bpn12160 «[Bahasa Melayu](../ms/prayers/#bpn12160)» 
 
 ----
 
@@ -1657,7 +1657,7 @@ Dalam Nama-Nya, Yang Luhur, Yang Tertinggi, Yang Paling Suci!Terpujilah Engkau, 
 
 -- Bahá'u'lláh
 
-bpn12161 
+bpn12161 «[Bahasa Melayu](../ms/prayers/#bpn12161)» 
 
 ----
 
@@ -1667,7 +1667,7 @@ Terpujilah Engkau, Ya Tuhanku! Aku merayu kepada-Mu demi nama-Mu, Yang Paling Be
 
 -- Bahá'u'lláh
 
-bpn12162 
+bpn12162 «[Bahasa Melayu](../ms/prayers/#bpn12162)» 
 
 ----
 
@@ -1677,7 +1677,7 @@ Terpujilah Engkau, Ya Tuhan! Engkau adalah Tuhan yang telah wujud sebelum segala
 
 -- Báb
 
-bpn12163 
+bpn12163 «[Bahasa Melayu](../ms/prayers/#bpn12163)» 
 
 ----
 
@@ -1687,7 +1687,7 @@ Ya Tuhan, Tuhanku! Lindungilah hamba-hamba-Mu yang dipercayai daripada kejahatan
 
 -- Abdu'l-Bahá
 
-bpn12164 
+bpn12164 «[Bahasa Melayu](../ms/prayers/#bpn12164)» 
 
 ----
 
@@ -1701,7 +1701,7 @@ Ya Engkau Tuhan yang Pemurah! Hamba-hamba ini telah berkumpul dalam pertemuan in
 
 -- Abdu'l-Bahá
 
-bpn12165 
+bpn12165 «[Bahasa Melayu](../ms/prayers/#bpn12165)» 
 
 ----
 
@@ -1711,7 +1711,7 @@ Ya Tuhanku! Ya Tuhanku! Sesungguhnya, hamba-hamba ini sedang berpaling kepada-Mu
 
 -- Abdu'l-Bahá
 
-bpn12166 
+bpn12166 «[Bahasa Melayu](../ms/prayers/#bpn12166)» 
 
 ----
 
@@ -1721,7 +1721,7 @@ Ya Engkau Pemberi yang pengasih! Jiwa-jiwa ini telah mendengar perintah daripada
 
 -- Abdu'l-Bahá
 
-bpn12167 
+bpn12167 «[Bahasa Melayu](../ms/prayers/#bpn12167)» 
 
 ----
 
@@ -1731,7 +1731,7 @@ Ya Pemberi Ilahi! Perhimpunan ini mengandungi rakan-rakan-Mu yang telah tertarik
 
 -- Abdu'l-Bahá
 
-bpn12168 
+bpn12168 «[Bahasa Melayu](../ms/prayers/#bpn12168)» 
 
 ----
 
@@ -1745,7 +1745,7 @@ Ya Tuhanku! Jadikanlah keindahan-Mu makananku, dan kehadiran-Mu minumanku, dan k
 
 -- Bahá'u'lláh
 
-bpn12170 
+bpn12170 «[Bahasa Melayu](../ms/prayers/#bpn12170)» 
 
 ----
 
@@ -1755,7 +1755,7 @@ Katakanlah: Ya Tuhan, Tuhanku! Hiasilah kepalaku dengan mahkota keadilan, dan tu
 
 -- Bahá'u'lláh
 
-bpn12171 
+bpn12171 «[Bahasa Melayu](../ms/prayers/#bpn12171)» 
 
 ----
 
@@ -1765,7 +1765,7 @@ Ya Tuhanku, Tuhan rahmat dan belas kasihan!Engkau adalah Raja yang kata perintah
 
 -- Bahá'u'lláh
 
-bpn12172 
+bpn12172 «[Bahasa Melayu](../ms/prayers/#bpn12172)» 
 
 ----
 
@@ -1775,7 +1775,7 @@ Aku merayu kepada-Mu, Ya Tuhanku, demi segala keagungan Nama-Mu yang unggul, unt
 
 -- Bahá'u'lláh
 
-bpn12173 
+bpn12173 «[Bahasa Melayu](../ms/prayers/#bpn12173)» 
 
 ----
 
@@ -1785,7 +1785,7 @@ Ya Tuhanku! Ya Tuhanku! Dimuliakanlah Engkau kerana Engkau telah mengesahkan dak
 
 -- Bahá'u'lláh
 
-bpn12174 
+bpn12174 «[Bahasa Melayu](../ms/prayers/#bpn12174)» 
 
 ----
 
@@ -1795,7 +1795,7 @@ Ya Tuhanku! Ya Tuhanku! Ini adalah lampu yang dinyalakan oleh api cinta-Mu dan d
 
 -- Abdu'l-Bahá
 
-bpn12175 
+bpn12175 «[Bahasa Melayu](../ms/prayers/#bpn12175)» 
 
 ----
 
@@ -1805,7 +1805,7 @@ Ya Tuhanku! Ya Tuhanku! Ini hamba-Mu, telah maju ke arah-Mu, mengembara dengan p
 
 -- Abdu'l-Bahá
 
-bpn12176 
+bpn12176 «[Bahasa Melayu](../ms/prayers/#bpn12176)» 
 
 ----
 
@@ -1819,7 +1819,7 @@ bpn12176
 
 -- Bahá'u'lláh
 
-bpn12193 
+bpn12193 «[Bahasa Melayu](../ms/prayers/#bpn12193)» 
 
 ----
 
@@ -1829,7 +1829,7 @@ bpn12193
 
 -- Bahá'u'lláh
 
-bpn12194 
+bpn12194 «[Bahasa Melayu](../ms/prayers/#bpn12194)» 
 
 ----
 
@@ -1839,7 +1839,7 @@ Ya Pembekal Ilahi! Sambil aku mengelakkan diri daripada hawa nafsu dan tidak mak
 
 -- Abdu'l-Bahá
 
-bpn12195 
+bpn12195 «[Bahasa Melayu](../ms/prayers/#bpn12195)» 
 
 ----
 
@@ -1853,7 +1853,7 @@ Segala pujian bagi-Mu, Ya Tuhanku, Yang adalah Sumber segala kemuliaan dan keagu
 
 -- Bahá'u'lláh
 
-bpn12177 
+bpn12177 «[Bahasa Melayu](../ms/prayers/#bpn12177)» 
 
 ----
 
@@ -1863,7 +1863,7 @@ Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa 
 
 -- Bahá'u'lláh
 
-bpn12178 
+bpn12178 «[Bahasa Melayu](../ms/prayers/#bpn12178)» 
 
 ----
 
@@ -1877,7 +1877,7 @@ Ya Tuhan, Tuhanku! Dayang-Mu ini sedang memanggil-Mu, percaya kepada-Mu, menghad
 
 -- Abdu'l-Bahá
 
-bpn12179 
+bpn12179 «[Bahasa Melayu](../ms/prayers/#bpn12179)» 
 
 ----
 
@@ -1891,7 +1891,7 @@ Ya Engkau Tuhan yang Pengasih, Engkaulah Yang dermawan dan kaya! Kami adalah ham
 
 -- Abdu'l-Bahá
 
-bpn12180 
+bpn12180 «[Bahasa Melayu](../ms/prayers/#bpn12180)» 
 
 ----
 
@@ -1901,7 +1901,7 @@ Ya Engkau Tuhan yang baik hati! Engkau telah menciptakan semua manusia daripada 
 
 -- Abdu'l-Bahá
 
-bpn12181 
+bpn12181 «[Bahasa Melayu](../ms/prayers/#bpn12181)» 
 
 ----
 
@@ -1911,7 +1911,7 @@ Ya Tuhan, Ya Engkau Yang telah memancarkan sinaran-Mu ke atas realiti manusia ya
 
 -- Abdu'l-Bahá
 
-bpn12182 
+bpn12182 «[Bahasa Melayu](../ms/prayers/#bpn12182)» 
 
 ----
 
@@ -1925,7 +1925,7 @@ Izinkanlah, Ya Tuhanku, mereka yang telah naik kepada-Mu agar dipulihkan oleh Di
 
 -- Bahá'u'lláh
 
-bpn12183 
+bpn12183 «[Bahasa Melayu](../ms/prayers/#bpn12183)» 
 
 ----
 
@@ -1935,7 +1935,7 @@ Ya Tuhanku! Ya Engkau pengampun dosa, pemberi anugerah, penghapus kesengsaraan!S
 
 -- Abdu'l-Bahá
 
-bpn12184 
+bpn12184 «[Bahasa Melayu](../ms/prayers/#bpn12184)» 
 
 ----
 
@@ -1945,7 +1945,7 @@ Ya Engkau Tuhan yang Pengampun!Walaupun beberapa jiwa yang menghabiskan waktu ke
 
 -- Abdu'l-Bahá
 
-bpn12185 
+bpn12185 «[Bahasa Melayu](../ms/prayers/#bpn12185)» 
 
 ----
 
@@ -1955,7 +1955,7 @@ Untuk Wanita Yang Meninggal DuniaYa Tuhanku, Ya Pengampun dosa dan Penghapus kes
 
 -- Abdu'l-Bahá
 
-bpn12186 
+bpn12186 «[Bahasa Melayu](../ms/prayers/#bpn12186)» 
 
 ----
 
@@ -1969,7 +1969,7 @@ Ya Tuhan! Bantulah puteri Kerajaan-Mu ini untuk diluhurkan dalam kedua-dua dunia
 
 -- Abdu'l-Bahá
 
-bpn12188 
+bpn12188 «[Bahasa Melayu](../ms/prayers/#bpn12188)» 
 
 ----
 
@@ -1979,7 +1979,7 @@ Ya Tuhanku, Kekasihku dan Hasratku! Bersahabatlah dengan daku dalam kesepianku d
 
 -- Abdu'l-Bahá
 
-bpn12189 
+bpn12189 «[Bahasa Melayu](../ms/prayers/#bpn12189)» 
 
 ----
 
@@ -1993,7 +1993,7 @@ Ya Tuhan! Ya Tuhan! Aku memuji-Mu dan bersyukur kepada-Mu kerana Engkau telah   
 
 -- Abdu'l-Bahá
 
-bpn12190 
+bpn12190 «[Bahasa Melayu](../ms/prayers/#bpn12190)» 
 
 ----
 
@@ -2007,7 +2007,7 @@ Kemuliaan kepada-Mu, Ya Tuhan, Tuhanku! Aku merayu kepada-Mu demi Nama-Mu yang m
 
 -- Bahá'u'lláh
 
-bpn12191 
+bpn12191 «[Bahasa Melayu](../ms/prayers/#bpn12191)» 
 
 ----
 
@@ -2021,7 +2021,7 @@ bpn12191
 
 -- Bahá'u'lláh
 
-bpn12071 
+bpn12071 «[Bahasa Melayu](../ms/prayers/#bpn12071)» 
 
 ----
 
@@ -2031,7 +2031,7 @@ bpn12071
 
 -- Bahá'u'lláh
 
-bpn12072 
+bpn12072 «[Bahasa Melayu](../ms/prayers/#bpn12072)» 
 
 ----
 

@@ -81,7 +81,7 @@ O God! Tekemaot ol samting we i mekem se mifala i faet. Mekem redi blong mifala 
 
 -- Abdu'l-Bahá
 
-bpn4952 
+bpn4952 «[Vanuatu](../bi/prayers/#bpn4952)» 
 
 ----
 
@@ -95,7 +95,7 @@ Ol preis i go long Yu, O Masta.  Plis Yu fogivim ol sin blong mifala.  Plis Yu s
 
 -- Báb
 
-bpn4940 
+bpn4940 «[Vanuatu](../bi/prayers/#bpn4940)» 
 
 ----
 
@@ -105,7 +105,7 @@ O Masta we Yu fogivim ol man oltaem! Yu Yu olsem wan sef ples we ol wokman blong
 
 -- Abdu'l-Bahá
 
-bpn4939 
+bpn4939 «[Vanuatu](../bi/prayers/#bpn4939)» 
 
 ----
 
@@ -119,7 +119,7 @@ O Yu we mi lavem fes blong Yu tumas, Yu we naesfala lukluk blong Yu i olsem wan 
 
 -- Bahá'u'lláh
 
-bpn4928 
+bpn4928 «[Vanuatu](../bi/prayers/#bpn4928)» 
 
 ----
 
@@ -133,7 +133,7 @@ O God blong mi! Hemia i wokman blong Yu, mo boe blong wokman blong Yu. Hem i bin
 
 -- Bahá'u'lláh
 
-bpn4926 
+bpn4926 «[Vanuatu](../bi/prayers/#bpn4926)» 
 
 ----
 
@@ -143,7 +143,7 @@ O God blong mi! Yu Yu fogivim ol sin! Yu Yu givim ol presen! Yu Yu tekemaot ol t
 
 -- Abdu'l-Bahá
 
-bpn4927 
+bpn4927 «[Vanuatu](../bi/prayers/#bpn4927)» 
 
 ----
 
@@ -157,7 +157,7 @@ bpn4927
 
 -- Abdu'l-Bahá
 
-bpn4925 
+bpn4925 «[Vanuatu](../bi/prayers/#bpn4925)» 
 
 ----
 
@@ -171,7 +171,7 @@ Ol preis i go long Yu, O God mo Masta blong mi!  Naoia wan niufala Mesej i kam w
 
 -- Bahá'u'lláh
 
-bpn4945 
+bpn4945 «[Vanuatu](../bi/prayers/#bpn4945)» 
 
 ----
 
@@ -181,7 +181,7 @@ Ol preis i go long Yu, O God mo God blong mi! Hemia i ol dei we Yu bin askem lon
 
 -- Bahá'u'lláh
 
-bpn4946 
+bpn4946 «[Vanuatu](../bi/prayers/#bpn4946)» 
 
 ----
 
@@ -191,7 +191,7 @@ Long Nem blong Hem we olgeta Buk blong God i bin promisim, Hem we i save Evri Sa
 
 -- Bahá'u'lláh
 
-bpn4947 
+bpn4947 «[Vanuatu](../bi/prayers/#bpn4947)» 
 
 ----
 
@@ -201,7 +201,7 @@ Ol preis i go long Yu, O Lod mo God blong mi!  Mifala i bin holem Fast folem wan
 
 -- Bahá'u'lláh
 
-bpn4948 
+bpn4948 «[Vanuatu](../bi/prayers/#bpn4948)» 
 
 ----
 
@@ -211,7 +211,7 @@ O God blong mi mo Masta blong mi!  Yu  lukim se mi mi stap long medel long olget
 
 -- Bahá'u'lláh
 
-bpn4949 
+bpn4949 «[Vanuatu](../bi/prayers/#bpn4949)» 
 
 ----
 
@@ -225,7 +225,7 @@ O God!  O God blong Mi.  Hemia wan wokwoman blong Yu we i singaotem Yu.  Hem i t
 
 -- Abdu'l-Bahá
 
-bpn4922 
+bpn4922 «[Vanuatu](../bi/prayers/#bpn4922)» 
 
 ----
 
@@ -239,7 +239,7 @@ O God!  O God blong mi!  Mi bin tanem mi i go long Yu, from we mi sem mo mi sori
 
 -- Bahá'u'lláh
 
-bpn4935 
+bpn4935 «[Vanuatu](../bi/prayers/#bpn4935)» 
 
 ----
 
@@ -253,7 +253,7 @@ bpn4935
 
 -- Bahá'u'lláh
 
-bpn4904 
+bpn4904 «[Vanuatu](../bi/prayers/#bpn4904)» 
 
 ----
 
@@ -267,7 +267,7 @@ God blong mi!  God blong mi!  Mi preisem Yu mo mi talem tangkyu long Yu from pre
 
 -- Abdu'l-Bahá
 
-bpn4921 
+bpn4921 «[Vanuatu](../bi/prayers/#bpn4921)» 
 
 ----
 
@@ -281,7 +281,7 @@ Ol glori i go long Yu, O God blong mi. I tru se man mo woman ia i tufala wokman 
 
 -- Abdu'l-Bahá
 
-bpn4920 
+bpn4920 «[Vanuatu](../bi/prayers/#bpn4920)» 
 
 ----
 
@@ -295,7 +295,7 @@ bpn4920
 
 -- Bahá'u'lláh
 
-bpn4903 
+bpn4903 «[Vanuatu](../bi/prayers/#bpn4903)» 
 
 ----
 
@@ -309,7 +309,7 @@ O Yu Kaen Masta! Olgeta we i wok long Yu i kam tugeta long miting ia, mo oli luk
 
 -- Abdu'l-Bahá
 
-bpn4911 
+bpn4911 «[Vanuatu](../bi/prayers/#bpn4911)» 
 
 ----
 
@@ -323,7 +323,7 @@ Mi jes wekap andanit long strong paoa blong Yu, O God blong mi. Mo from we mi no
 
 -- Bahá'u'lláh
 
-bpn4906 
+bpn4906 «[Vanuatu](../bi/prayers/#bpn4906)» 
 
 ----
 
@@ -333,7 +333,7 @@ O God blong mi! Yu bin letem se mi save gerap long moning ia. Mi bin lego long h
 
 -- Bahá'u'lláh
 
-bpn4907 
+bpn4907 «[Vanuatu](../bi/prayers/#bpn4907)» 
 
 ----
 
@@ -343,7 +343,7 @@ O God blong mi mo Masta blong mi! Mi mi wan wokman blong Yu, mo pikinini blong w
 
 -- Bahá'u'lláh
 
-bpn4908 
+bpn4908 «[Vanuatu](../bi/prayers/#bpn4908)» 
 
 ----
 
@@ -357,7 +357,7 @@ O God blong mi, mo Masta blong mi! Yu Yu fas samting we mi laekem tumas long har
 
 -- Bahá'u'lláh
 
-bpn4909 
+bpn4909 «[Vanuatu](../bi/prayers/#bpn4909)» 
 
 ----
 
@@ -371,7 +371,7 @@ O God!  Mifala i wik tumas.  Plis Yu save mekem se mifala i kam strong.  Mifala 
 
 -- Abdu'l-Bahá
 
-bpn4924 
+bpn4924 «[Vanuatu](../bi/prayers/#bpn4924)» 
 
 ----
 
@@ -385,7 +385,7 @@ O God!  Yu save gud mo Yu lukluk se hart blong mi i wantem nomo se Yu Yu glad lo
 
 -- Abdu'l-Bahá
 
-bpn4951 
+bpn4951 «[Vanuatu](../bi/prayers/#bpn4951)» 
 
 ----
 
@@ -399,7 +399,7 @@ O God! Mekem smol bebe ia i gro klosap long lav blong Yu, mo givim hem ol melek 
 
 -- Abdu'l-Bahá
 
-bpn4912 
+bpn4912 «[Vanuatu](../bi/prayers/#bpn4912)» 
 
 ----
 
@@ -409,7 +409,7 @@ O God! Trenem ol pikinini ia.  Ol pikinini ia i ol smolsmol tri long plantesen b
 
 -- Abdu'l-Bahá
 
-bpn4913 
+bpn4913 «[Vanuatu](../bi/prayers/#bpn4913)» 
 
 ----
 
@@ -419,7 +419,7 @@ O Masta! Mekem yangfala ia i glad tumas! Putum ol gud samting blong Yu i go long
 
 -- Abdu'l-Bahá
 
-bpn4914 
+bpn4914 «[Vanuatu](../bi/prayers/#bpn4914)» 
 
 ----
 
@@ -429,7 +429,7 @@ O God! Go fas taem long mi, blong mi mi folem Yu. Lukaot gud long mi. Mekem laet
 
 -- Abdu'l-Bahá
 
-bpn4915 
+bpn4915 «[Vanuatu](../bi/prayers/#bpn4915)» 
 
 ----
 
@@ -439,7 +439,7 @@ O Masta blong mi!  O Masta blong mi!  Mi wan pikinini we i yang tumas. Plis Yu f
 
 -- Abdu'l-Bahá
 
-bpn4916 
+bpn4916 «[Vanuatu](../bi/prayers/#bpn4916)» 
 
 ----
 
@@ -453,7 +453,7 @@ O God blong mi, Yu we mi lavem tumas, Yu we Yu King blong mi, Yu we mi wantem tu
 
 -- Bahá'u'lláh
 
-bpn4936 
+bpn4936 «[Vanuatu](../bi/prayers/#bpn4936)» 
 
 ----
 
@@ -467,7 +467,7 @@ O God blong mi, God we i givimaot ol samting long yumi mo i gat bigfala sori lon
 
 -- Abdu'l-Bahá
 
-bpn4923 
+bpn4923 «[Vanuatu](../bi/prayers/#bpn4923)» 
 
 ----
 
@@ -481,7 +481,7 @@ O God!  O God blong mi! Mi bin kamaot long haos blong mi mo mi bin hang strong l
 
 -- Bahá'u'lláh
 
-bpn4950 
+bpn4950 «[Vanuatu](../bi/prayers/#bpn4950)» 
 
 ----
 
@@ -495,7 +495,7 @@ Ol glori i go long Yu, O God, from we Yu bin soemaot lav blong Yu long ol man! O
 
 -- Bahá'u'lláh
 
-bpn4953 
+bpn4953 «[Vanuatu](../bi/prayers/#bpn4953)» 
 
 ----
 
@@ -505,7 +505,7 @@ O God blong mi! Long nem blong Yu we i gat fulap glori, mi askem Yu blong helpem
 
 -- Bahá'u'lláh
 
-bpn4954 
+bpn4954 «[Vanuatu](../bi/prayers/#bpn4954)» 
 
 ----
 
@@ -515,7 +515,7 @@ Talemaot: O God! O God blong mi! Putum hat blong jastis antap long hed blong mi,
 
 -- Abdu'l-Bahá
 
-bpn4955 
+bpn4955 «[Vanuatu](../bi/prayers/#bpn4955)» 
 
 ----
 
@@ -525,7 +525,7 @@ Mi plis long God blong letem laet blong yuniti i go raon long hol wol, mo blong 
 
 -- Abdu'l-Bahá
 
-bpn4956 
+bpn4956 «[Vanuatu](../bi/prayers/#bpn4956)» 
 
 ----
 
@@ -535,7 +535,7 @@ O Masta! Mifala i wik. Mekem mifala i kam strong! O God! Mifala i no gat save. M
 
 -- Abdu'l-Bahá
 
-bpn4957 
+bpn4957 «[Vanuatu](../bi/prayers/#bpn4957)» 
 
 ----
 
@@ -545,7 +545,7 @@ Hem i God! Lukluk long mifala, O Masta, we mifala i kam tugeta long tisfala teib
 
 -- Abdu'l-Bahá
 
-bpn4958 
+bpn4958 «[Vanuatu](../bi/prayers/#bpn4958)» 
 
 ----
 
@@ -555,7 +555,7 @@ Masta! Mifala i smol tumas. Lukluk gud long mifala.  Mifala i poa. Givim long mi
 
 -- Abdu'l-Bahá
 
-bpn4959 
+bpn4959 «[Vanuatu](../bi/prayers/#bpn4959)» 
 
 ----
 
@@ -565,7 +565,7 @@ O God! Mi plis long Yu blong Yu mekem se spirit blong mi i kam niu bakagen mo Yu
 
 -- Abdu'l-Bahá
 
-bpn4960 
+bpn4960 «[Vanuatu](../bi/prayers/#bpn4960)» 
 
 ----
 
@@ -575,7 +575,7 @@ O God! O God blong mi! Lukaotem ol wokman blong Yu we Yu Yu trastem olgeta. Prot
 
 -- Abdu'l-Bahá
 
-bpn4961 
+bpn4961 «[Vanuatu](../bi/prayers/#bpn4961)» 
 
 ----
 
@@ -585,7 +585,7 @@ O Masta mo God blong mi! Helpem olgeta we Yu lavem olgeta blong oli kam strong l
 
 -- Abdu'l-Bahá
 
-bpn4962 
+bpn4962 «[Vanuatu](../bi/prayers/#bpn4962)» 
 
 ----
 
@@ -595,7 +595,7 @@ O God! O God! Hemia wan pijin we han blong hem i brok, mo hem i flae i go sloslo
 
 -- Abdu'l-Bahá
 
-bpn4963 
+bpn4963 «[Vanuatu](../bi/prayers/#bpn4963)» 
 
 ----
 
@@ -609,7 +609,7 @@ bpn4963
 
 -- Bahá'u'lláh
 
-bpn4902 
+bpn4902 «[Vanuatu](../bi/prayers/#bpn4902)» 
 
 ----
 
@@ -623,7 +623,7 @@ bpn4902
 
 -- Bahá'u'lláh
 
-bpn4910 
+bpn4910 «[Vanuatu](../bi/prayers/#bpn4910)» 
 
 ----
 
@@ -637,7 +637,7 @@ Hem i Sori long ol man, mo Hem i Givim Evri Samting!   O God, God blong mi! Yu s
 
 -- Abdu'l-Bahá
 
-bpn4944 
+bpn4944 «[Vanuatu](../bi/prayers/#bpn4944)» 
 
 ----
 
@@ -651,7 +651,7 @@ O God blong mi!  Tru long bigfala paoa blong Yu, mi askem mo mi plis strong long
 
 -- Báb
 
-bpn4917 
+bpn4917 «[Vanuatu](../bi/prayers/#bpn4917)» 
 
 ----
 
@@ -661,7 +661,7 @@ Hu bakegen i save tekemaot ol trabol be God nomo i save? Hemia mi save sua: Yumi
 
 -- Báb
 
-bpn4918 
+bpn4918 «[Vanuatu](../bi/prayers/#bpn4918)» 
 
 ----
 
@@ -675,7 +675,7 @@ O God!  O God blong mi! Mi plis long Yu blong Yu klinimaot evri sori mo siknes b
 
 -- Bahá'u'lláh
 
-bpn4941 
+bpn4941 «[Vanuatu](../bi/prayers/#bpn4941)» 
 
 ----
 
@@ -685,7 +685,7 @@ O God blong mi! Tru long ol nem blong Yu, ol sik blong ol sik man i finis, ol wi
 
 -- Bahá'u'lláh
 
-bpn4942 
+bpn4942 «[Vanuatu](../bi/prayers/#bpn4942)» 
 
 ----
 
@@ -695,7 +695,7 @@ Nem blong Yu i mekem sik blong mi i gowei, O God blong mi. Mo taem mi tingting l
 
 -- Bahá'u'lláh
 
-bpn4943 
+bpn4943 «[Vanuatu](../bi/prayers/#bpn4943)» 
 
 ----
 
@@ -709,7 +709,7 @@ O Yu we mak blong Yu i moa hae bitim eni narafala samting!  O Yu we Yu nao Yu Ma
 
 -- Abdu'l-Bahá
 
-bpn4929 
+bpn4929 «[Vanuatu](../bi/prayers/#bpn4929)» 
 
 ----
 
@@ -719,7 +719,7 @@ O God!  Yu save gud mo Yu Yu witnes blong mi se mi gat wan tingting nomo long ha
 
 -- Abdu'l-Bahá
 
-bpn4930 
+bpn4930 «[Vanuatu](../bi/prayers/#bpn4930)» 
 
 ----
 
@@ -729,7 +729,7 @@ O God!  O God blong Mi!  Plis Yu lukluk long tisfala man we hem i no gat paoa, h
 
 -- Abdu'l-Bahá
 
-bpn4931 
+bpn4931 «[Vanuatu](../bi/prayers/#bpn4931)» 
 
 ----
 
@@ -739,7 +739,7 @@ O God! O God!  Yu Yu stap lukluk se mi no gat paoa mo mi stap daon long fored bl
 
 -- Abdu'l-Bahá
 
-bpn4932 
+bpn4932 «[Vanuatu](../bi/prayers/#bpn4932)» 
 
 ----
 
@@ -749,7 +749,7 @@ O God blong Mi! O God blong Mi!  Yu Yu stap lukluk long mi long taem we mi stap 
 
 -- Abdu'l-Bahá
 
-bpn4933 
+bpn4933 «[Vanuatu](../bi/prayers/#bpn4933)» 
 
 ----
 
@@ -759,7 +759,7 @@ O God! O God blong mi!  Plis Yu helpem ol wokman blong Yu we Yu trastem olgeta b
 
 -- Abdu'l-Bahá
 
-bpn4934 
+bpn4934 «[Vanuatu](../bi/prayers/#bpn4934)» 
 
 ----
 
@@ -773,7 +773,7 @@ bpn4934
 
 -- Bahá'u'lláh
 
-bpn4905 
+bpn4905 «[Vanuatu](../bi/prayers/#bpn4905)» 
 
 ----
 
@@ -787,7 +787,7 @@ bpn4905
 
 -- Abdu'l-Bahá
 
-bpn4965 
+bpn4965 «[Vanuatu](../bi/prayers/#bpn4965)» 
 
 ----
 
@@ -801,7 +801,7 @@ bpn4965
 
 -- Bahá'u'lláh
 
-bpn4964 
+bpn4964 «[Vanuatu](../bi/prayers/#bpn4964)» 
 
 ----
 
@@ -815,7 +815,7 @@ O Masta blong mi! Mi lavem Yu tumas, mo mi wantem Yu.  Lukaotem mi olsem wan fre
 
 -- Abdu'l-Bahá
 
-bpn4919 
+bpn4919 «[Vanuatu](../bi/prayers/#bpn4919)» 
 
 ----
 
@@ -829,7 +829,7 @@ O God blong mi! O God blong mi! Joenem i kam wan ples olgeta hart blong ol wokma
 
 -- Bahá'u'lláh
 
-bpn4937 
+bpn4937 «[Vanuatu](../bi/prayers/#bpn4937)» 
 
 ----
 
@@ -839,7 +839,7 @@ O Masta we Yu kaen tumas! Yu Yu bin krieitem olgeta pipol blong wol aot long sem
 
 -- Bahá'u'lláh
 
-bpn4938 
+bpn4938 «[Vanuatu](../bi/prayers/#bpn4938)» 
 
 ----
 

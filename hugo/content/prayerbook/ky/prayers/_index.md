@@ -79,7 +79,6 @@ tags = ['lang=ky', 'prayerbook']
 
 [Эртең менен](#%D0%AD%D1%80%D1%82%D0%B5%D2%A3+%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD)
 
-[Эртең менен](#%D0%AD%D1%80%D1%82%D0%B5%D2%A3+%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD)
 
 
 <a id="%D0%90%D0%B4%D0%B0%D0%BC%D0%B7%D0%B0%D1%82"></a> 
@@ -90,7 +89,7 @@ tags = ['lang=ky', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn4076 
+bpn4076 «[Кыргыз](../ky/prayers/#bpn4076)» 
 
 ----
 
@@ -100,7 +99,7 @@ bpn4076
 
 -- Bahá'u'lláh
 
-bpn4077 
+bpn4077 «[Кыргыз](../ky/prayers/#bpn4077)» 
 
 ----
 
@@ -110,7 +109,7 @@ bpn4077
 
 -- Báb
 
-bpn4078 
+bpn4078 «[Кыргыз](../ky/prayers/#bpn4078)» 
 
 ----
 
@@ -120,7 +119,7 @@ bpn4078
 
 -- Abdu'l-Bahá
 
-bpn4079 
+bpn4079 «[Кыргыз](../ky/prayers/#bpn4079)» 
 
 ----
 
@@ -130,7 +129,7 @@ bpn4079
 
 -- Abdu'l-Bahá
 
-bpn4080 
+bpn4080 «[Кыргыз](../ky/prayers/#bpn4080)» 
 
 ----
 
@@ -140,7 +139,7 @@ bpn4080
 
 -- Abdu'l-Bahá
 
-bpn4081 
+bpn4081 «[Кыргыз](../ky/prayers/#bpn4081)» 
 
 ----
 
@@ -154,7 +153,7 @@ bpn4081
 
 -- Bahá'u'lláh
 
-bpn3991 
+bpn3991 «[Кыргыз](../ky/prayers/#bpn3991)» 
 
 ----
 
@@ -164,7 +163,7 @@ bpn3991
 
 -- Bahá'u'lláh
 
-bpn3992 
+bpn3992 «[Кыргыз](../ky/prayers/#bpn3992)» 
 
 ----
 
@@ -174,7 +173,7 @@ bpn3992
 
 -- Bahá'u'lláh
 
-bpn3993 
+bpn3993 «[Кыргыз](../ky/prayers/#bpn3993)» 
 
 ----
 
@@ -184,7 +183,7 @@ bpn3993
 
 -- Bahá'u'lláh
 
-bpn3994 
+bpn3994 «[Кыргыз](../ky/prayers/#bpn3994)» 
 
 ----
 
@@ -194,7 +193,7 @@ bpn3994
 
 -- Bahá'u'lláh
 
-bpn4004 
+bpn4004 «[Кыргыз](../ky/prayers/#bpn4004)» 
 
 ----
 
@@ -204,7 +203,7 @@ bpn4004
 
 -- Bahá'u'lláh
 
-bpn4005 
+bpn4005 «[Кыргыз](../ky/prayers/#bpn4005)» 
 
 ----
 
@@ -214,7 +213,7 @@ bpn4005
 
 -- Bahá'u'lláh
 
-bpn4006 
+bpn4006 «[Кыргыз](../ky/prayers/#bpn4006)» 
 
 ----
 
@@ -224,7 +223,7 @@ bpn4006
 
 -- Bahá'u'lláh
 
-bpn4007 
+bpn4007 «[Кыргыз](../ky/prayers/#bpn4007)» 
 
 ----
 
@@ -234,7 +233,7 @@ bpn4007
 
 -- Báb
 
-bpn4008 
+bpn4008 «[Кыргыз](../ky/prayers/#bpn4008)» 
 
 ----
 
@@ -244,7 +243,7 @@ bpn4008
 
 -- Báb
 
-bpn4009 
+bpn4009 «[Кыргыз](../ky/prayers/#bpn4009)» 
 
 ----
 
@@ -254,7 +253,7 @@ bpn4009
 
 -- Abdu'l-Bahá
 
-bpn4010 
+bpn4010 «[Кыргыз](../ky/prayers/#bpn4010)» 
 
 ----
 
@@ -264,7 +263,7 @@ bpn4010
 
 -- Abdu'l-Bahá
 
-bpn4011 
+bpn4011 «[Кыргыз](../ky/prayers/#bpn4011)» 
 
 ----
 
@@ -278,7 +277,7 @@ bpn4011
 
 -- Bahá'u'lláh
 
-bpn4072 
+bpn4072 «[Кыргыз](../ky/prayers/#bpn4072)» 
 
 ----
 
@@ -288,7 +287,7 @@ bpn4072
 
 -- Bahá'u'lláh
 
-bpn4073 
+bpn4073 «[Кыргыз](../ky/prayers/#bpn4073)» 
 
 ----
 
@@ -298,7 +297,7 @@ bpn4073
 
 -- Báb
 
-bpn4074 
+bpn4074 «[Кыргыз](../ky/prayers/#bpn4074)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn4074
 
 -- Bahá'u'lláh
 
-bpn4082 
+bpn4082 «[Кыргыз](../ky/prayers/#bpn4082)» 
 
 ----
 
@@ -322,7 +321,7 @@ bpn4082
 
 -- Abdu'l-Bahá
 
-bpn4083 
+bpn4083 «[Кыргыз](../ky/prayers/#bpn4083)» 
 
 ----
 
@@ -332,7 +331,7 @@ bpn4083
 
 -- Abdu'l-Bahá
 
-bpn4084 
+bpn4084 «[Кыргыз](../ky/prayers/#bpn4084)» 
 
 ----
 
@@ -342,7 +341,7 @@ bpn4084
 
 -- Abdu'l-Bahá
 
-bpn4085 
+bpn4085 «[Кыргыз](../ky/prayers/#bpn4085)» 
 
 ----
 
@@ -356,7 +355,7 @@ bpn4085
 
 -- Bahá'u'lláh
 
-bpn4089 
+bpn4089 «[Кыргыз](../ky/prayers/#bpn4089)» 
 
 ----
 
@@ -370,7 +369,7 @@ bpn4089
 
 -- Abdu'l-Bahá
 
-bpn3962 
+bpn3962 «[Кыргыз](../ky/prayers/#bpn3962)» 
 
 ----
 
@@ -380,7 +379,7 @@ bpn3962
 
 -- Abdu'l-Bahá
 
-bpn3963 
+bpn3963 «[Кыргыз](../ky/prayers/#bpn3963)» 
 
 ----
 
@@ -390,7 +389,7 @@ bpn3963
 
 -- Abdu'l-Bahá
 
-bpn3964 
+bpn3964 «[Кыргыз](../ky/prayers/#bpn3964)» 
 
 ----
 
@@ -400,7 +399,7 @@ bpn3964
 
 -- Abdu'l-Bahá
 
-bpn3965 
+bpn3965 «[Кыргыз](../ky/prayers/#bpn3965)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn3965
 
 -- Abdu'l-Bahá
 
-bpn3966 
+bpn3966 «[Кыргыз](../ky/prayers/#bpn3966)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn3966
 
 -- Abdu'l-Bahá
 
-bpn3967 
+bpn3967 «[Кыргыз](../ky/prayers/#bpn3967)» 
 
 ----
 
@@ -434,7 +433,7 @@ bpn3967
 
 -- Bahá'u'lláh
 
-bpn3983 
+bpn3983 «[Кыргыз](../ky/prayers/#bpn3983)» 
 
 ----
 
@@ -444,7 +443,7 @@ bpn3983
 
 -- Bahá'u'lláh
 
-bpn3984 
+bpn3984 «[Кыргыз](../ky/prayers/#bpn3984)» 
 
 ----
 
@@ -454,7 +453,7 @@ bpn3984
 
 -- Abdu'l-Bahá
 
-bpn3985 
+bpn3985 «[Кыргыз](../ky/prayers/#bpn3985)» 
 
 ----
 
@@ -464,7 +463,7 @@ bpn3985
 
 -- Abdu'l-Bahá
 
-bpn3986 
+bpn3986 «[Кыргыз](../ky/prayers/#bpn3986)» 
 
 ----
 
@@ -478,7 +477,7 @@ bpn3986
 
 -- Bahá'u'lláh
 
-bpn3980 
+bpn3980 «[Кыргыз](../ky/prayers/#bpn3980)» 
 
 ----
 
@@ -488,7 +487,7 @@ bpn3980
 
 -- Abdu'l-Bahá
 
-bpn3981 
+bpn3981 «[Кыргыз](../ky/prayers/#bpn3981)» 
 
 ----
 
@@ -498,7 +497,7 @@ bpn3981
 
 -- Abdu'l-Bahá
 
-bpn3982 
+bpn3982 «[Кыргыз](../ky/prayers/#bpn3982)» 
 
 ----
 
@@ -512,7 +511,7 @@ bpn3982
 
 -- Bahá'u'lláh
 
-bpn3968 
+bpn3968 «[Кыргыз](../ky/prayers/#bpn3968)» 
 
 ----
 
@@ -522,7 +521,7 @@ bpn3968
 
 -- Bahá'u'lláh
 
-bpn3969 
+bpn3969 «[Кыргыз](../ky/prayers/#bpn3969)» 
 
 ----
 
@@ -532,7 +531,7 @@ bpn3969
 
 -- Bahá'u'lláh
 
-bpn3970 
+bpn3970 «[Кыргыз](../ky/prayers/#bpn3970)» 
 
 ----
 
@@ -542,7 +541,7 @@ bpn3970
 
 -- Bahá'u'lláh
 
-bpn3971 
+bpn3971 «[Кыргыз](../ky/prayers/#bpn3971)» 
 
 ----
 
@@ -552,7 +551,7 @@ bpn3971
 
 -- Bahá'u'lláh
 
-bpn3972 
+bpn3972 «[Кыргыз](../ky/prayers/#bpn3972)» 
 
 ----
 
@@ -562,7 +561,7 @@ bpn3972
 
 -- Bahá'u'lláh
 
-bpn3973 
+bpn3973 «[Кыргыз](../ky/prayers/#bpn3973)» 
 
 ----
 
@@ -572,7 +571,7 @@ bpn3973
 
 -- Bahá'u'lláh
 
-bpn3974 
+bpn3974 «[Кыргыз](../ky/prayers/#bpn3974)» 
 
 ----
 
@@ -582,7 +581,7 @@ bpn3974
 
 -- Báb
 
-bpn3975 
+bpn3975 «[Кыргыз](../ky/prayers/#bpn3975)» 
 
 ----
 
@@ -592,7 +591,7 @@ bpn3975
 
 -- Abdu'l-Bahá
 
-bpn3976 
+bpn3976 «[Кыргыз](../ky/prayers/#bpn3976)» 
 
 ----
 
@@ -602,7 +601,7 @@ bpn3976
 
 -- Abdu'l-Bahá
 
-bpn3977 
+bpn3977 «[Кыргыз](../ky/prayers/#bpn3977)» 
 
 ----
 
@@ -612,7 +611,7 @@ bpn3977
 
 -- Abdu'l-Bahá
 
-bpn3978 
+bpn3978 «[Кыргыз](../ky/prayers/#bpn3978)» 
 
 ----
 
@@ -622,7 +621,7 @@ bpn3978
 
 -- Abdu'l-Bahá
 
-bpn3979 
+bpn3979 «[Кыргыз](../ky/prayers/#bpn3979)» 
 
 ----
 
@@ -636,7 +635,7 @@ bpn3979
 
 -- Bahá'u'lláh
 
-bpn4021 
+bpn4021 «[Кыргыз](../ky/prayers/#bpn4021)» 
 
 ----
 
@@ -646,7 +645,7 @@ bpn4021
 
 -- Bahá'u'lláh
 
-bpn4022 
+bpn4022 «[Кыргыз](../ky/prayers/#bpn4022)» 
 
 ----
 
@@ -656,7 +655,7 @@ bpn4022
 
 -- Bahá'u'lláh
 
-bpn4023 
+bpn4023 «[Кыргыз](../ky/prayers/#bpn4023)» 
 
 ----
 
@@ -666,7 +665,7 @@ bpn4023
 
 -- Báb
 
-bpn4024 
+bpn4024 «[Кыргыз](../ky/prayers/#bpn4024)» 
 
 ----
 
@@ -676,7 +675,7 @@ bpn4024
 
 -- Abdu'l-Bahá
 
-bpn4025 
+bpn4025 «[Кыргыз](../ky/prayers/#bpn4025)» 
 
 ----
 
@@ -686,7 +685,7 @@ bpn4025
 
 -- Abdu'l-Bahá
 
-bpn4026 
+bpn4026 «[Кыргыз](../ky/prayers/#bpn4026)» 
 
 ----
 
@@ -696,7 +695,7 @@ bpn4026
 
 -- Abdu'l-Bahá
 
-bpn4027 
+bpn4027 «[Кыргыз](../ky/prayers/#bpn4027)» 
 
 ----
 
@@ -706,7 +705,7 @@ bpn4027
 
 -- Abdu'l-Bahá
 
-bpn4028 
+bpn4028 «[Кыргыз](../ky/prayers/#bpn4028)» 
 
 ----
 
@@ -716,7 +715,7 @@ bpn4028
 
 -- Abdu'l-Bahá
 
-bpn4029 
+bpn4029 «[Кыргыз](../ky/prayers/#bpn4029)» 
 
 ----
 
@@ -730,7 +729,7 @@ bpn4029
 
 -- Bahá'u'lláh
 
-bpn4053 
+bpn4053 «[Кыргыз](../ky/prayers/#bpn4053)» 
 
 ----
 
@@ -740,7 +739,7 @@ bpn4053
 
 -- Abdu'l-Bahá
 
-bpn4054 
+bpn4054 «[Кыргыз](../ky/prayers/#bpn4054)» 
 
 ----
 
@@ -750,7 +749,7 @@ bpn4054
 
 -- Abdu'l-Bahá
 
-bpn4055 
+bpn4055 «[Кыргыз](../ky/prayers/#bpn4055)» 
 
 ----
 
@@ -760,7 +759,7 @@ bpn4055
 
 -- Abdu'l-Bahá
 
-bpn4056 
+bpn4056 «[Кыргыз](../ky/prayers/#bpn4056)» 
 
 ----
 
@@ -774,7 +773,7 @@ bpn4056
 
 -- Abdu'l-Bahá
 
-bpn4052 
+bpn4052 «[Кыргыз](../ky/prayers/#bpn4052)» 
 
 ----
 
@@ -788,7 +787,7 @@ bpn4052
 
 -- Bahá'u'lláh
 
-bpn3958 
+bpn3958 «[Кыргыз](../ky/prayers/#bpn3958)» 
 
 ----
 
@@ -798,7 +797,7 @@ bpn3958
 
 -- Bahá'u'lláh
 
-bpn3959 
+bpn3959 «[Кыргыз](../ky/prayers/#bpn3959)» 
 
 ----
 
@@ -808,7 +807,7 @@ bpn3959
 
 -- Abdu'l-Bahá
 
-bpn3960 
+bpn3960 «[Кыргыз](../ky/prayers/#bpn3960)» 
 
 ----
 
@@ -822,7 +821,7 @@ bpn3960
 
 -- Bahá'u'lláh
 
-bpn4030 
+bpn4030 «[Кыргыз](../ky/prayers/#bpn4030)» 
 
 ----
 
@@ -832,7 +831,7 @@ bpn4030
 
 -- Bahá'u'lláh
 
-bpn4031 
+bpn4031 «[Кыргыз](../ky/prayers/#bpn4031)» 
 
 ----
 
@@ -842,7 +841,7 @@ bpn4031
 
 -- Bahá'u'lláh
 
-bpn4032 
+bpn4032 «[Кыргыз](../ky/prayers/#bpn4032)» 
 
 ----
 
@@ -852,7 +851,7 @@ bpn4032
 
 -- Bahá'u'lláh
 
-bpn4033 
+bpn4033 «[Кыргыз](../ky/prayers/#bpn4033)» 
 
 ----
 
@@ -862,7 +861,7 @@ bpn4033
 
 -- Bahá'u'lláh
 
-bpn4034 
+bpn4034 «[Кыргыз](../ky/prayers/#bpn4034)» 
 
 ----
 
@@ -872,7 +871,7 @@ bpn4034
 
 -- Báb
 
-bpn4035 
+bpn4035 «[Кыргыз](../ky/prayers/#bpn4035)» 
 
 ----
 
@@ -882,7 +881,7 @@ bpn4035
 
 -- Báb
 
-bpn4036 
+bpn4036 «[Кыргыз](../ky/prayers/#bpn4036)» 
 
 ----
 
@@ -892,7 +891,7 @@ bpn4036
 
 -- Báb
 
-bpn4037 
+bpn4037 «[Кыргыз](../ky/prayers/#bpn4037)» 
 
 ----
 
@@ -902,7 +901,7 @@ bpn4037
 
 -- Abdu'l-Bahá
 
-bpn4038 
+bpn4038 «[Кыргыз](../ky/prayers/#bpn4038)» 
 
 ----
 
@@ -916,7 +915,7 @@ bpn4038
 
 -- Bahá'u'lláh
 
-bpn4086 
+bpn4086 «[Кыргыз](../ky/prayers/#bpn4086)» 
 
 ----
 
@@ -930,7 +929,7 @@ bpn4086
 
 -- Bahá'u'lláh
 
-bpn3987 
+bpn3987 «[Кыргыз](../ky/prayers/#bpn3987)» 
 
 ----
 
@@ -940,7 +939,7 @@ bpn3987
 
 -- Báb
 
-bpn3988 
+bpn3988 «[Кыргыз](../ky/prayers/#bpn3988)» 
 
 ----
 
@@ -950,7 +949,7 @@ bpn3988
 
 -- Abdu'l-Bahá
 
-bpn3989 
+bpn3989 «[Кыргыз](../ky/prayers/#bpn3989)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn3989
 
 -- Abdu'l-Bahá
 
-bpn3990 
+bpn3990 «[Кыргыз](../ky/prayers/#bpn3990)» 
 
 ----
 
@@ -974,7 +973,7 @@ bpn3990
 
 -- Bahá'u'lláh
 
-bpn3961 
+bpn3961 «[Кыргыз](../ky/prayers/#bpn3961)» 
 
 ----
 
@@ -988,7 +987,7 @@ bpn3961
 
 -- Abdu'l-Bahá
 
-bpn4041 
+bpn4041 «[Кыргыз](../ky/prayers/#bpn4041)» 
 
 ----
 
@@ -998,7 +997,7 @@ bpn4041
 
 -- Abdu'l-Bahá
 
-bpn4042 
+bpn4042 «[Кыргыз](../ky/prayers/#bpn4042)» 
 
 ----
 
@@ -1008,7 +1007,7 @@ bpn4042
 
 -- Abdu'l-Bahá
 
-bpn4043 
+bpn4043 «[Кыргыз](../ky/prayers/#bpn4043)» 
 
 ----
 
@@ -1018,7 +1017,7 @@ bpn4043
 
 -- Abdu'l-Bahá
 
-bpn4044 
+bpn4044 «[Кыргыз](../ky/prayers/#bpn4044)» 
 
 ----
 
@@ -1028,7 +1027,7 @@ bpn4044
 
 -- Abdu'l-Bahá
 
-bpn4045 
+bpn4045 «[Кыргыз](../ky/prayers/#bpn4045)» 
 
 ----
 
@@ -1042,7 +1041,7 @@ bpn4045
 
 -- Bahá'u'lláh
 
-bpn4060 
+bpn4060 «[Кыргыз](../ky/prayers/#bpn4060)» 
 
 ----
 
@@ -1052,7 +1051,7 @@ bpn4060
 
 -- Báb
 
-bpn4061 
+bpn4061 «[Кыргыз](../ky/prayers/#bpn4061)» 
 
 ----
 
@@ -1066,7 +1065,7 @@ bpn4061
 
 -- Bahá'u'lláh
 
-bpn4062 
+bpn4062 «[Кыргыз](../ky/prayers/#bpn4062)» 
 
 ----
 
@@ -1076,7 +1075,7 @@ bpn4062
 
 -- Bahá'u'lláh
 
-bpn4063 
+bpn4063 «[Кыргыз](../ky/prayers/#bpn4063)» 
 
 ----
 
@@ -1086,7 +1085,7 @@ bpn4063
 
 -- Báb
 
-bpn4064 
+bpn4064 «[Кыргыз](../ky/prayers/#bpn4064)» 
 
 ----
 
@@ -1100,7 +1099,7 @@ bpn4064
 
 -- Bahá'u'lláh
 
-bpn3954 
+bpn3954 «[Кыргыз](../ky/prayers/#bpn3954)» 
 
 ----
 
@@ -1114,7 +1113,7 @@ bpn3954
 
 -- Abdu'l-Bahá
 
-bpn4051 
+bpn4051 «[Кыргыз](../ky/prayers/#bpn4051)» 
 
 ----
 
@@ -1128,7 +1127,7 @@ bpn4051
 
 -- Bahá'u'lláh
 
-bpn4065 
+bpn4065 «[Кыргыз](../ky/prayers/#bpn4065)» 
 
 ----
 
@@ -1138,7 +1137,7 @@ bpn4065
 
 -- Bahá'u'lláh
 
-bpn4066 
+bpn4066 «[Кыргыз](../ky/prayers/#bpn4066)» 
 
 ----
 
@@ -1148,7 +1147,7 @@ bpn4066
 
 -- Bahá'u'lláh
 
-bpn4067 
+bpn4067 «[Кыргыз](../ky/prayers/#bpn4067)» 
 
 ----
 
@@ -1158,7 +1157,7 @@ bpn4067
 
 -- Abdu'l-Bahá
 
-bpn4068 
+bpn4068 «[Кыргыз](../ky/prayers/#bpn4068)» 
 
 ----
 
@@ -1168,7 +1167,7 @@ bpn4068
 
 -- Abdu'l-Bahá
 
-bpn4069 
+bpn4069 «[Кыргыз](../ky/prayers/#bpn4069)» 
 
 ----
 
@@ -1178,7 +1177,7 @@ bpn4069
 
 -- Abdu'l-Bahá
 
-bpn4070 
+bpn4070 «[Кыргыз](../ky/prayers/#bpn4070)» 
 
 ----
 
@@ -1192,7 +1191,7 @@ bpn4070
 
 -- Bahá'u'lláh
 
-bpn4012 
+bpn4012 «[Кыргыз](../ky/prayers/#bpn4012)» 
 
 ----
 
@@ -1202,7 +1201,7 @@ bpn4012
 
 -- Bahá'u'lláh
 
-bpn4013 
+bpn4013 «[Кыргыз](../ky/prayers/#bpn4013)» 
 
 ----
 
@@ -1212,7 +1211,7 @@ bpn4013
 
 -- Bahá'u'lláh
 
-bpn4014 
+bpn4014 «[Кыргыз](../ky/prayers/#bpn4014)» 
 
 ----
 
@@ -1222,7 +1221,7 @@ bpn4014
 
 -- Báb
 
-bpn4015 
+bpn4015 «[Кыргыз](../ky/prayers/#bpn4015)» 
 
 ----
 
@@ -1232,7 +1231,7 @@ bpn4015
 
 -- Báb
 
-bpn4016 
+bpn4016 «[Кыргыз](../ky/prayers/#bpn4016)» 
 
 ----
 
@@ -1242,7 +1241,7 @@ bpn4016
 
 -- Báb
 
-bpn4017 
+bpn4017 «[Кыргыз](../ky/prayers/#bpn4017)» 
 
 ----
 
@@ -1252,7 +1251,7 @@ bpn4017
 
 -- Báb
 
-bpn4018 
+bpn4018 «[Кыргыз](../ky/prayers/#bpn4018)» 
 
 ----
 
@@ -1262,7 +1261,7 @@ bpn4018
 
 -- Abdu'l-Bahá
 
-bpn4019 
+bpn4019 «[Кыргыз](../ky/prayers/#bpn4019)» 
 
 ----
 
@@ -1272,7 +1271,7 @@ bpn4019
 
 -- Abdu'l-Bahá
 
-bpn4020 
+bpn4020 «[Кыргыз](../ky/prayers/#bpn4020)» 
 
 ----
 
@@ -1286,7 +1285,7 @@ bpn4020
 
 -- Abdu'l-Bahá
 
-bpn4039 
+bpn4039 «[Кыргыз](../ky/prayers/#bpn4039)» 
 
 ----
 
@@ -1296,7 +1295,7 @@ bpn4039
 
 -- Abdu'l-Bahá
 
-bpn4040 
+bpn4040 «[Кыргыз](../ky/prayers/#bpn4040)» 
 
 ----
 
@@ -1310,7 +1309,7 @@ bpn4040
 
 -- Bahá'u'lláh
 
-bpn4087 
+bpn4087 «[Кыргыз](../ky/prayers/#bpn4087)» 
 
 ----
 
@@ -1320,7 +1319,7 @@ bpn4087
 
 -- Bahá'u'lláh
 
-bpn4088 
+bpn4088 «[Кыргыз](../ky/prayers/#bpn4088)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ bpn3955 «[Кыргыз](../ky/prayers/#bpn3955)»
 
 -- Bahá'u'lláh
 
-bpn4057 
+bpn4057 «[Кыргыз](../ky/prayers/#bpn4057)» 
 
 ----
 
@@ -1358,7 +1357,7 @@ bpn4057
 
 -- Abdu'l-Bahá
 
-bpn4058 
+bpn4058 «[Кыргыз](../ky/prayers/#bpn4058)» 
 
 ----
 
@@ -1368,7 +1367,7 @@ bpn4058
 
 -- Abdu'l-Bahá
 
-bpn4059 
+bpn4059 «[Кыргыз](../ky/prayers/#bpn4059)» 
 
 ----
 
@@ -1382,7 +1381,7 @@ bpn4059
 
 -- Bahá'u'lláh
 
-bpn4092 
+bpn4092 «[Кыргыз](../ky/prayers/#bpn4092)» 
 
 ----
 
@@ -1396,7 +1395,7 @@ bpn4092
 
 -- Bahá'u'lláh
 
-bpn3996 
+bpn3996 «[Кыргыз](../ky/prayers/#bpn3996)» 
 
 ----
 
@@ -1406,7 +1405,7 @@ bpn3996
 
 -- Bahá'u'lláh
 
-bpn3997 
+bpn3997 «[Кыргыз](../ky/prayers/#bpn3997)» 
 
 ----
 
@@ -1416,7 +1415,7 @@ bpn3997
 
 -- Bahá'u'lláh
 
-bpn3998 
+bpn3998 «[Кыргыз](../ky/prayers/#bpn3998)» 
 
 ----
 
@@ -1426,7 +1425,7 @@ bpn3998
 
 -- Báb
 
-bpn3999 
+bpn3999 «[Кыргыз](../ky/prayers/#bpn3999)» 
 
 ----
 
@@ -1436,7 +1435,7 @@ bpn3999
 
 -- Báb
 
-bpn4000 
+bpn4000 «[Кыргыз](../ky/prayers/#bpn4000)» 
 
 ----
 
@@ -1446,7 +1445,7 @@ bpn4000
 
 -- Báb
 
-bpn4001 
+bpn4001 «[Кыргыз](../ky/prayers/#bpn4001)» 
 
 ----
 
@@ -1456,7 +1455,7 @@ bpn4001
 
 -- Báb
 
-bpn4002 
+bpn4002 «[Кыргыз](../ky/prayers/#bpn4002)» 
 
 ----
 
@@ -1466,7 +1465,7 @@ bpn4002
 
 -- Báb
 
-bpn4003 
+bpn4003 «[Кыргыз](../ky/prayers/#bpn4003)» 
 
 ----
 
@@ -1480,7 +1479,7 @@ bpn4003
 
 -- Bahá'u'lláh
 
-bpn3995 
+bpn3995 «[Кыргыз](../ky/prayers/#bpn3995)» 
 
 ----
 
@@ -1494,7 +1493,7 @@ bpn3995
 
 -- Bahá'u'lláh
 
-bpn3956 
+bpn3956 «[Кыргыз](../ky/prayers/#bpn3956)» 
 
 ----
 
@@ -1504,7 +1503,7 @@ bpn3956
 
 -- Bahá'u'lláh
 
-bpn3957 
+bpn3957 «[Кыргыз](../ky/prayers/#bpn3957)» 
 
 ----
 
@@ -1518,7 +1517,7 @@ bpn3957
 
 -- Báb
 
-bpn4049 
+bpn4049 «[Кыргыз](../ky/prayers/#bpn4049)» 
 
 ----
 
@@ -1528,7 +1527,7 @@ bpn4049
 
 -- Abdu'l-Bahá
 
-bpn4050 
+bpn4050 «[Кыргыз](../ky/prayers/#bpn4050)» 
 
 ----
 
@@ -1542,7 +1541,7 @@ bpn4050
 
 -- Abdu'l-Bahá
 
-bpn4046 
+bpn4046 «[Кыргыз](../ky/prayers/#bpn4046)» 
 
 ----
 
@@ -1552,7 +1551,7 @@ bpn4046
 
 -- Abdu'l-Bahá
 
-bpn4047 
+bpn4047 «[Кыргыз](../ky/prayers/#bpn4047)» 
 
 ----
 
@@ -1562,7 +1561,7 @@ bpn4047
 
 -- Abdu'l-Bahá
 
-bpn4048 
+bpn4048 «[Кыргыз](../ky/prayers/#bpn4048)» 
 
 ----
 
@@ -1576,7 +1575,7 @@ bpn4048
 
 -- Bahá'u'lláh
 
-bpn4075 
+bpn4075 «[Кыргыз](../ky/prayers/#bpn4075)» 
 
 ----
 
@@ -1590,7 +1589,7 @@ bpn4075
 
 -- Bahá'u'lláh
 
-bpn4090 
+bpn4090 «[Кыргыз](../ky/prayers/#bpn4090)» 
 
 ----
 
@@ -1600,7 +1599,7 @@ bpn4090
 
 -- Abdu'l-Bahá
 
-bpn4091 
+bpn4091 «[Кыргыз](../ky/prayers/#bpn4091)» 
 
 ----
 
@@ -1614,7 +1613,7 @@ bpn4091
 
 -- Bahá'u'lláh
 
-bpn4071 
+bpn4071 «[Кыргыз](../ky/prayers/#bpn4071)» 
 
 ----
 

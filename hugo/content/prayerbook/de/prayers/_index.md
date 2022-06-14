@@ -5,7 +5,6 @@ tags = ['lang=de', 'prayerbook']
 
 
 
-
 [Abend](#Abend)
 
 [Allgemein](#Allgemein)
@@ -100,7 +99,7 @@ Wie kann ich den Schlaf suchen, o Gott, mein Gott, da die Augen derer, die sich 
 
 -- Bahá'u'lláh
 
-bpn518 
+bpn518 «[Deutsch](../de/prayers/#bpn518)» 
 
 ----
 
@@ -110,7 +109,7 @@ O mein Gott, mein Meister, Du Ziel meiner Sehnsucht. Dein Diener möchte schlafe
 
 -- Bahá'u'lláh
 
-bpn517 
+bpn517 «[Deutsch](../de/prayers/#bpn517)» 
 
 ----
 
@@ -120,7 +119,7 @@ O Wahrheitssucher! Wenn du wünschest, dass Gott dein geistiges Auge öffne, so 
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../it/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» 
+AB06528MID «[English](../en/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» 
 
 ----
 
@@ -134,7 +133,7 @@ Selig der Ort und das Haus und der Platz und die Stadt und das Herz und der Berg
 
 -- Bahá'u'lláh
 
-bpn519 
+bpn519 «[Deutsch](../de/prayers/#bpn519)» 
 
 ----
 
@@ -144,7 +143,7 @@ Singe die Verse Gottes, o Mein Diener, die du empfangen, wie jene sie singen, di
 
 -- Bahá'u'lláh
 
-bpn520 
+bpn520 «[Deutsch](../de/prayers/#bpn520)» 
 
 ----
 
@@ -158,7 +157,7 @@ Verherrlicht sei Dein Name, o Du, in Dessen Griff die Zügel aller Seelen sind, 
 
 -- Bahá'u'lláh
 
-bpn522 
+bpn522 «[Deutsch](../de/prayers/#bpn522)» 
 
 ----
 
@@ -168,7 +167,7 @@ Ich flehe Dich an bei eben diesem Wort, das vom Horizonte Deines Willens hervorl
 
 -- Bahá'u'lláh
 
-bpn523 
+bpn523 «[Deutsch](../de/prayers/#bpn523)» 
 
 ----
 
@@ -178,7 +177,7 @@ Gerühmt sei Dein Name, o Herr mein Gott! Du bist es, den alle Dinge anbeten und
 
 -- Bahá'u'lláh
 
-bpn524 
+bpn524 «[Deutsch](../de/prayers/#bpn524)» 
 
 ----
 
@@ -188,7 +187,7 @@ Gott bezeugt die Einheit Seiner Gottheit und die Einzigartigkeit Seines Wesens. 
 
 -- Bahá'u'lláh
 
-bpn525 
+bpn525 «[Deutsch](../de/prayers/#bpn525)» 
 
 ----
 
@@ -198,7 +197,7 @@ Sei gelobt, o Herr mein Gott! Wann immer ich von Dir zu sprechen wage, werde ich
 
 -- Bahá'u'lláh
 
-bpn527 
+bpn527 «[Deutsch](../de/prayers/#bpn527)» 
 
 ----
 
@@ -208,7 +207,7 @@ Im Namen Gottes, des Höchsten! Gepriesen und verherrlicht seiest Du, Herr, allm
 
 -- Bahá'u'lláh
 
-bpn521 
+bpn521 «[Deutsch](../de/prayers/#bpn521)» 
 
 ----
 
@@ -218,7 +217,7 @@ O Mein Gott, Du meiner Anbetung und meiner Sehnsucht Ziel, Du Allgütiger, Mitle
 
 -- Bahá'u'lláh
 
-bpn526 
+bpn526 «[Deutsch](../de/prayers/#bpn526)» 
 
 ----
 
@@ -228,7 +227,7 @@ Im Namen Gottes, des Herrn überwältigender Majestät, des Allbezwingenden.Gehe
 
 -- Báb
 
-bpn639 
+bpn639 «[Deutsch](../de/prayers/#bpn639)» 
 
 ----
 
@@ -238,7 +237,7 @@ Alle Herrlichkeit und Majestät, o mein Gott, alle Herrschaft, alle Erhabenheit 
 
 -- Báb
 
-bpn638 
+bpn638 «[Deutsch](../de/prayers/#bpn638)» 
 
 ----
 
@@ -252,7 +251,7 @@ O Gott, mein Feuer und mein Licht! Die Tage, die Du in Deinem Buche die Ayyám-i
 
 -- Bahá'u'lláh
 
-bpn670 
+bpn670 «[Deutsch](../de/prayers/#bpn670)» 
 
 ----
 
@@ -266,7 +265,7 @@ Mein Gott, dem ich diene und den ich anbete! Ich bezeuge Deine Einheit und Einzi
 
 -- Bahá'u'lláh
 
-bpn528 
+bpn528 «[Deutsch](../de/prayers/#bpn528)» 
 
 ----
 
@@ -276,7 +275,7 @@ O Du, zu Dessen Antlitz sich meine Anbetung erhebt! Deine Schönheit ist mein He
 
 -- Bahá'u'lláh
 
-bpn529 
+bpn529 «[Deutsch](../de/prayers/#bpn529)» 
 
 ----
 
@@ -286,7 +285,7 @@ Auf Dich, o mein Gott, richte ich mein Angesicht, auf die Wunder Deiner Gnade un
 
 -- Bahá'u'lláh
 
-bpn530 
+bpn530 «[Deutsch](../de/prayers/#bpn530)» 
 
 ----
 
@@ -296,7 +295,7 @@ Ruhm sei Dir, o mein Gott! Du lässt die, welche Dich inbrünstig lieben, wehkla
 
 -- Bahá'u'lláh
 
-bpn531 
+bpn531 «[Deutsch](../de/prayers/#bpn531)» 
 
 ----
 
@@ -306,7 +305,7 @@ Gelobt sei Dein Name, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, durc
 
 -- Bahá'u'lláh
 
-bpn532 
+bpn532 «[Deutsch](../de/prayers/#bpn532)» 
 
 ----
 
@@ -316,7 +315,7 @@ O mein Gott! Ich bitte Dich bei Deinem erhabensten Namen, hilf mir zu tun, was d
 
 -- Bahá'u'lláh
 
-bpn533 
+bpn533 «[Deutsch](../de/prayers/#bpn533)» 
 
 ----
 
@@ -326,7 +325,7 @@ Sprich: Ruhm sei Dir, der Du alle Heiligen ihre Hilflosigkeit vor den mannigfalt
 
 -- Bahá'u'lláh
 
-bpn534 
+bpn534 «[Deutsch](../de/prayers/#bpn534)» 
 
 ----
 
@@ -336,7 +335,7 @@ Preis sei Dir, o mein Herr, dass Du mich die Manifestation Deiner Selbst erkenne
 
 -- Bahá'u'lláh
 
-bpn535 
+bpn535 «[Deutsch](../de/prayers/#bpn535)» 
 
 ----
 
@@ -346,7 +345,7 @@ Sprich: Verherrlicht bist Du, o mein Gott! Ich flehe Dich an bei dem Dämmerorte
 
 -- Bahá'u'lláh
 
-bpn536 
+bpn536 «[Deutsch](../de/prayers/#bpn536)» 
 
 ----
 
@@ -356,7 +355,7 @@ Preis sei Dir, o Herr mein Gott, mein Meister! Du vernimmst die Seufzer derer, d
 
 -- Bahá'u'lláh
 
-bpn537 
+bpn537 «[Deutsch](../de/prayers/#bpn537)» 
 
 ----
 
@@ -366,7 +365,7 @@ Im Namen Deines Herrn, des Schöpfers, des Herrschers, des Allgenügenden, des E
 
 -- Báb
 
-bpn641 
+bpn641 «[Deutsch](../de/prayers/#bpn641)» 
 
 ----
 
@@ -376,7 +375,7 @@ O Herr! Zu Dir nehme ich Zuflucht und auf Deine Zeichen richte ich mein Herz.O H
 
 -- Báb
 
-bpn642 
+bpn642 «[Deutsch](../de/prayers/#bpn642)» 
 
 ----
 
@@ -386,7 +385,7 @@ Sprich: Gott genügt allen Dingen über alle Dinge hinaus, und nichts in den Him
 
 -- Báb
 
-bpn640 
+bpn640 «[Deutsch](../de/prayers/#bpn640)» 
 
 ----
 
@@ -396,7 +395,7 @@ O Herr! Wir sind schwach; gib uns Kraft. O Gott! Wir sind unwissend, verleihe un
 
 -- Abdu'l-Bahá
 
-bpn441 
+bpn441 «[Deutsch](../de/prayers/#bpn441)» 
 
 ----
 
@@ -406,7 +405,7 @@ O Gott, mein Gott! Hier ist Dein strahlender Diener, Dein geistiger Knecht, der 
 
 -- Abdu'l-Bahá
 
-bpn442 
+bpn442 «[Deutsch](../de/prayers/#bpn442)» 
 
 ----
 
@@ -416,7 +415,7 @@ O Du gütiger Herr! Wir sind Diener an Deiner Schwelle, die an Deinem heiligen T
 
 -- Abdu'l-Bahá
 
-bpn443 
+bpn443 «[Deutsch](../de/prayers/#bpn443)» 
 
 ----
 
@@ -426,7 +425,7 @@ O mein Gott, mein Geliebter, mein Verlangen! Steh mir bei in meiner Einsamkeit u
 
 -- Abdu'l-Bahá
 
-bpn444 
+bpn444 «[Deutsch](../de/prayers/#bpn444)» 
 
 ----
 
@@ -436,7 +435,7 @@ Räume die festliche Tafel nicht ab, o Herr, die in Deinem Namen gedeckt ist, un
 
 -- Abdu'l-Bahá
 
-bpn445 
+bpn445 «[Deutsch](../de/prayers/#bpn445)» 
 
 ----
 
@@ -446,7 +445,7 @@ Herr! Wir sind bemitleidenswert, gewähre uns Deine Gunst; wir sind arm, schenke
 
 -- Abdu'l-Bahá
 
-bpn446 
+bpn446 «[Deutsch](../de/prayers/#bpn446)» 
 
 ----
 
@@ -460,7 +459,7 @@ bpn446
 
 -- Bahá'u'lláh
 
-bpn675 
+bpn675 «[Deutsch](../de/prayers/#bpn675)» 
 
 ----
 
@@ -474,7 +473,7 @@ bpn675
 
 -- Bahá'u'lláh
 
-bpn663 
+bpn663 «[Deutsch](../de/prayers/#bpn663)» 
 
 ----
 
@@ -502,7 +501,7 @@ bpn665 «[Deutsch](../de/prayers/#bpn665)»
 
 -- Bahá'u'lláh
 
-bpn664 
+bpn664 «[Deutsch](../de/prayers/#bpn664)» 
 
 ----
 
@@ -516,7 +515,7 @@ O unser Gott! Wir bitten Dich beim König der Namen, dem Schöpfer von Himmel un
 
 -- Bahá'u'lláh
 
-bpn538 
+bpn538 «[Deutsch](../de/prayers/#bpn538)» 
 
 ----
 
@@ -526,7 +525,7 @@ Verherrlicht sei Dein Name, o Herr mein Gott! Dir kehre ich mein Angesicht zu, u
 
 -- Bahá'u'lláh
 
-bpn539 
+bpn539 «[Deutsch](../de/prayers/#bpn539)» 
 
 ----
 
@@ -536,7 +535,7 @@ O mein Herr! Du siehst, wie sie sich an das Seil Deiner Gnade klammern, wie sie 
 
 -- Bahá'u'lláh
 
-bpn540 
+bpn540 «[Deutsch](../de/prayers/#bpn540)» 
 
 ----
 
@@ -546,7 +545,7 @@ O Gott, der Du der Schöpfer aller Manifestationen bist, der Born aller Borne, d
 
 -- Bahá'u'lláh
 
-bpn541 
+bpn541 «[Deutsch](../de/prayers/#bpn541)» 
 
 ----
 
@@ -556,7 +555,7 @@ Ruhm sei Dir, o Herr mein Gott! Nichts, was es auch sei, entgeht Deinem Wissen, 
 
 -- Báb
 
-bpn643 
+bpn643 «[Deutsch](../de/prayers/#bpn643)» 
 
 ----
 
@@ -570,7 +569,7 @@ O mein Gott, o mein Gott! Einige die Herzen Deiner Diener und enthülle ihnen De
 
 -- Bahá'u'lláh
 
-bpn542 
+bpn542 «[Deutsch](../de/prayers/#bpn542)» 
 
 ----
 
@@ -580,7 +579,7 @@ Gebe Gott, dass das Licht der Einheit die ganze Erde umfasse und das Siegel „D
 
 -- Bahá'u'lláh
 
-bpn543 
+bpn543 «[Deutsch](../de/prayers/#bpn543)» 
 
 ----
 
@@ -590,7 +589,7 @@ O Du unser Versorger! Du hast über die Freunde im Westen des Heiligen Geistes D
 
 -- Abdu'l-Bahá
 
-bpn447 
+bpn447 «[Deutsch](../de/prayers/#bpn447)» 
 
 ----
 
@@ -600,7 +599,7 @@ O Du gütiger Gott! O Du, der Du freigebig und barmherzig bist! Wir sind Diener 
 
 -- Abdu'l-Bahá
 
-bpn449 
+bpn449 «[Deutsch](../de/prayers/#bpn449)» 
 
 ----
 
@@ -610,7 +609,7 @@ O Gott, mein Gott! Wahrlich, ich rufe Dich an und flehe an Deiner Schwelle, lass
 
 -- Abdu'l-Bahá
 
-bpn448 
+bpn448 «[Deutsch](../de/prayers/#bpn448)» 
 
 ----
 
@@ -624,7 +623,7 @@ O Herr! In dieser größten Sendung nimmst Du die Fürbitte der Kinder für ihre
 
 -- Abdu'l-Bahá
 
-bpn450 
+bpn450 «[Deutsch](../de/prayers/#bpn450)» 
 
 ----
 
@@ -634,7 +633,7 @@ Mein Herr! Mein Herr! Preis und Dank sei Dir für die Gnade, die Du Deiner ergeb
 
 -- Abdu'l-Bahá
 
-bpn452 
+bpn452 «[Deutsch](../de/prayers/#bpn452)» 
 
 ----
 
@@ -644,7 +643,7 @@ O Gott, mein Gott! Deine Magd ruft Dich an, wendet vertrauensvoll ihr Angesicht 
 
 -- Abdu'l-Bahá
 
-bpn451 
+bpn451 «[Deutsch](../de/prayers/#bpn451)» 
 
 ----
 
@@ -658,7 +657,7 @@ Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei dieser Offenbarung, durch
 
 -- Bahá'u'lláh
 
-bpn678 
+bpn678 «[Deutsch](../de/prayers/#bpn678)» 
 
 ----
 
@@ -668,7 +667,7 @@ Dies sind die Tage, o mein Gott, da Du Deinen Dienern das Fasten gebotest. Mit i
 
 -- Bahá'u'lláh
 
-bpn679 
+bpn679 «[Deutsch](../de/prayers/#bpn679)» 
 
 ----
 
@@ -688,7 +687,7 @@ O Gott! So wie ich mich fleischlicher Wünsche enthalte und Speise und Trank ent
 
 -- Abdu'l-Bahá
 
-bpn666 
+bpn666 «[Deutsch](../de/prayers/#bpn666)» 
 
 ----
 
@@ -702,7 +701,7 @@ Ruhm sei Dir, o König der Ewigkeit, der Du die Völker schufest und jedem verg�
 
 -- Bahá'u'lláh
 
-bpn544 
+bpn544 «[Deutsch](../de/prayers/#bpn544)» 
 
 ----
 
@@ -712,7 +711,7 @@ Er ist der Mächtige, der Vergeber, der Mitleidvolle!O Gott, mein Gott! Du siehs
 
 -- Bahá'u'lláh
 
-bpn545 
+bpn545 «[Deutsch](../de/prayers/#bpn545)» 
 
 ----
 
@@ -722,7 +721,7 @@ Preis sei Dir, o Herr, mein Meistgeliebter! Mache mich standhaft in Deiner Sache
 
 -- Báb
 
-bpn644 
+bpn644 «[Deutsch](../de/prayers/#bpn644)» 
 
 ----
 
@@ -732,7 +731,7 @@ O mein Herr und meine Hoffnung! Hilf Du Deinen Geliebten, standhaft in Deinem m�
 
 -- Abdu'l-Bahá
 
-bpn453 
+bpn453 «[Deutsch](../de/prayers/#bpn453)» 
 
 ----
 
@@ -742,7 +741,7 @@ O Du mitleidvoller Gott! Dank sei Dir, denn Du erwecktest mich und schenktest mi
 
 -- Abdu'l-Bahá
 
-bpn454 
+bpn454 «[Deutsch](../de/prayers/#bpn454)» 
 
 ----
 
@@ -752,7 +751,7 @@ Mache unsere Schritte fest auf Deinem Pfad, o Herr, und stärke unsere Herzen in
 
 -- Abdu'l-Bahá
 
-AB06211 «[English](../en/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» 
+AB06211 «[English](../en/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» 
 
 ----
 
@@ -762,7 +761,7 @@ O mein geliebter Gott! Hier sind Deine Diener, die Deine Stimme vernehmen, Deine
 
 -- Abdu'l-Bahá
 
-bpn456 
+bpn456 «[Deutsch](../de/prayers/#bpn456)» 
 
 ----
 
@@ -776,7 +775,7 @@ Die Freunde Gottes ... sollten spenden, soviel sie können, wie bescheiden auch 
 
 -- Abdu'l-Bahá
 
-bpn457 
+bpn457 «[Deutsch](../de/prayers/#bpn457)» 
 
 ----
 
@@ -790,7 +789,7 @@ O Gott, o Gott! Du siehst, wie schwarze Finsternis alle Lande umfängt, wie alle
 
 -- Abdu'l-Bahá
 
-bpn458 
+bpn458 «[Deutsch](../de/prayers/#bpn458)» 
 
 ----
 
@@ -804,7 +803,7 @@ Ich bitte Dich, o mein Gott, bei Deiner Kraft und Deiner Macht und Deiner Herrsc
 
 -- Bahá'u'lláh
 
-bpn546 
+bpn546 «[Deutsch](../de/prayers/#bpn546)» 
 
 ----
 
@@ -814,7 +813,7 @@ Gelobt sei Dein Name, o Herr mein Gott! Du siehst mich Dir zugewandt, mein Anges
 
 -- Bahá'u'lláh
 
-bpn547 
+bpn547 «[Deutsch](../de/prayers/#bpn547)» 
 
 ----
 
@@ -824,7 +823,7 @@ Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinen Zeichen, welche di
 
 -- Bahá'u'lláh
 
-bpn548 
+bpn548 «[Deutsch](../de/prayers/#bpn548)» 
 
 ----
 
@@ -834,7 +833,7 @@ Er ist der Gnädige, der Allgroßmütige!O Gott, mein Gott! Dein Ruf hat mich an
 
 -- Bahá'u'lláh
 
-bpn549 
+bpn549 «[Deutsch](../de/prayers/#bpn549)» 
 
 ----
 
@@ -844,7 +843,7 @@ Preis sei Dir, o mein Gott! Ich bin Dein Diener, der an Dich und Deine Zeichen g
 
 -- Bahá'u'lláh
 
-bpn550 
+bpn550 «[Deutsch](../de/prayers/#bpn550)» 
 
 ----
 
@@ -854,7 +853,7 @@ Ruhm sei Dir, o Gott, für Deine Offenbarung der Liebe zur Menschheit. O Du, der
 
 -- Bahá'u'lláh
 
-bpn551 
+bpn551 «[Deutsch](../de/prayers/#bpn551)» 
 
 ----
 
@@ -864,7 +863,7 @@ O Gott, Du Gott aller Namen, Du Schöpfer des Himmels! Ich flehe Dich an bei dei
 
 -- Bahá'u'lláh
 
-bpn552 
+bpn552 «[Deutsch](../de/prayers/#bpn552)» 
 
 ----
 
@@ -874,7 +873,7 @@ Verherrlicht sei Dein Name, o Herr mein Gott! Siehe, mein Auge harrt, die Wunder
 
 -- Bahá'u'lláh
 
-bpn553 
+bpn553 «[Deutsch](../de/prayers/#bpn553)» 
 
 ----
 
@@ -884,7 +883,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei den heranbrausen
 
 -- Bahá'u'lláh
 
-bpn554 
+bpn554 «[Deutsch](../de/prayers/#bpn554)» 
 
 ----
 
@@ -894,7 +893,7 @@ Gestatte, o mein Gott, dass ich mich Dir nähere und im Bereich Deines Hofes woh
 
 -- Bahá'u'lláh
 
-bpn555 
+bpn555 «[Deutsch](../de/prayers/#bpn555)» 
 
 ----
 
@@ -904,7 +903,7 @@ Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an, lass aus den Wolken D
 
 -- Bahá'u'lláh
 
-bpn556 
+bpn556 «[Deutsch](../de/prayers/#bpn556)» 
 
 ----
 
@@ -914,7 +913,7 @@ Gewähre mir, o mein Gott, das volle Maß Deiner Liebe und Deines Wohlgefallens 
 
 -- Báb
 
-bpn645 
+bpn645 «[Deutsch](../de/prayers/#bpn645)» 
 
 ----
 
@@ -924,7 +923,7 @@ O mein Herr! O mein Herr! Diese Lampe ist erleuchtet vom Feuer Deiner Liebe und 
 
 -- Abdu'l-Bahá
 
-bpn459 
+bpn459 «[Deutsch](../de/prayers/#bpn459)» 
 
 ----
 
@@ -934,7 +933,7 @@ O Gott, mein Gott! Dies sind Deine schwachen Diener, Deine ergebenen Knechte und
 
 -- Abdu'l-Bahá
 
-bpn460 
+bpn460 «[Deutsch](../de/prayers/#bpn460)» 
 
 ----
 
@@ -944,7 +943,7 @@ O mein Gott! O mein Gott! Ruhm sei Dir, dass Du mich stärkst, Deine Einheit zu 
 
 -- Abdu'l-Bahá
 
-bpn461 
+bpn461 «[Deutsch](../de/prayers/#bpn461)» 
 
 ----
 
@@ -954,7 +953,7 @@ O mein Gott! O mein Gott! Wahrlich, diese Diener wenden sich zu Dir und flehen d
 
 -- Abdu'l-Bahá
 
-bpn462 
+bpn462 «[Deutsch](../de/prayers/#bpn462)» 
 
 ----
 
@@ -964,7 +963,7 @@ O mein Gott! O mein Gott! Dein Diener nähert sich Dir. Er zieht voll Leidenscha
 
 -- Abdu'l-Bahá
 
-bpn463 
+bpn463 «[Deutsch](../de/prayers/#bpn463)» 
 
 ----
 
@@ -974,7 +973,7 @@ Er ist Gott!O Gott, mein Gott! Diese Diener sind in Deinen Tagen angezogen von d
 
 -- Abdu'l-Bahá
 
-bpn464 
+bpn464 «[Deutsch](../de/prayers/#bpn464)» 
 
 ----
 
@@ -988,7 +987,7 @@ bpn464
 
 -- Bahá'u'lláh
 
-bpn676 
+bpn676 «[Deutsch](../de/prayers/#bpn676)» 
 
 ----
 
@@ -1002,7 +1001,7 @@ Versammelt euch in ungetrübter Freude und sprecht zum Beginn der Sitzung dieses
 
 -- Abdu'l-Bahá
 
-bpn667 
+bpn667 «[Deutsch](../de/prayers/#bpn667)» 
 
 ----
 
@@ -1012,7 +1011,7 @@ Wenn ihr den Beratungsraum betretet, sprecht dieses Gebet mit einem Herzen, das 
 
 -- Abdu'l-Bahá
 
-bpn668 
+bpn668 «[Deutsch](../de/prayers/#bpn668)» 
 
 ----
 
@@ -1022,7 +1021,7 @@ Ein Gebet, zum Abschluss einer Sitzung des Geistigen Rates zu sprechen:O Gott! O
 
 -- Abdu'l-Bahá
 
-bpn669 
+bpn669 «[Deutsch](../de/prayers/#bpn669)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ O Gott, mein Gott! Ich bitte Dich bei dem Weltmeer Deiner Heilung, bei Deiner Gn
 
 -- Bahá'u'lláh
 
-bpn563 
+bpn563 «[Deutsch](../de/prayers/#bpn563)» 
 
 ----
 
@@ -1046,7 +1045,7 @@ Im Namen Gottes, des Heilers, des Genügenden, des Helfers! Preis sei Dir, o Got
 
 -- Bahá'u'lláh
 
-bpn564 
+bpn564 «[Deutsch](../de/prayers/#bpn564)» 
 
 ----
 
@@ -1056,7 +1055,7 @@ In Deinem Namen, der Genügende, der Heiler, der Vollender, der Erhabenste, der 
 
 -- Bahá'u'lláh
 
-bpn565 
+bpn565 «[Deutsch](../de/prayers/#bpn565)» 
 
 ----
 
@@ -1066,7 +1065,7 @@ Ruhm sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, durch den Du
 
 -- Bahá'u'lláh
 
-BH07721 «[English](../../en/prayers/#BH07721)» 
+BH07721 «[English](../en/prayers/#BH07721)» «[Deutsch](../de/prayers/#BH07721)» 
 
 ----
 
@@ -1076,7 +1075,7 @@ Gepriesen seiest Du, o Herr mein Gott! Ich flehe Dich an bei Deinem Größten Na
 
 -- Bahá'u'lláh
 
-bpn567 
+bpn567 «[Deutsch](../de/prayers/#bpn567)» 
 
 ----
 
@@ -1096,7 +1095,7 @@ Preis sei Dir, o Herr mein Gott! Ich bitte Dich bei Deinem Namen, durch den Er, 
 
 -- Bahá'u'lláh
 
-bpn569 
+bpn569 «[Deutsch](../de/prayers/#bpn569)» 
 
 ----
 
@@ -1106,7 +1105,7 @@ Du bist es, o mein Gott, der durch Seine Namen die Kranken heilt und die Leidend
 
 -- Bahá'u'lláh
 
-bpn570 
+bpn570 «[Deutsch](../de/prayers/#bpn570)» 
 
 ----
 
@@ -1116,7 +1115,7 @@ Dein Name ist meine Heilung, o mein Gott, Dein Gedenken meine Arznei, Deine Näh
 
 -- Bahá'u'lláh
 
-bpn562 
+bpn562 «[Deutsch](../de/prayers/#bpn562)» 
 
 ----
 
@@ -1130,7 +1129,7 @@ Er ist der Spender, der Gabenreiche!Preis sei Gott, dem Urewigen, dem Immerbeste
 
 -- Bahá'u'lláh
 
-bpn571 
+bpn571 «[Deutsch](../de/prayers/#bpn571)» 
 
 ----
 
@@ -1140,7 +1139,7 @@ Er ist Gott! O Du unvergleichlicher Herr! In Deiner allmächtigen Weisheit hast 
 
 -- Abdu'l-Bahá
 
-bpn467 
+bpn467 «[Deutsch](../de/prayers/#bpn467)» 
 
 ----
 
@@ -1150,7 +1149,7 @@ O mein Herr, o mein Herr! Diese beiden hellen Sterne sind in Deiner Liebe vermä
 
 -- Abdu'l-Bahá
 
-bpn468 
+bpn468 «[Deutsch](../de/prayers/#bpn468)» 
 
 ----
 
@@ -1160,7 +1159,7 @@ Ruhm sei Dir, o mein Gott! Wahrlich, Dein Knecht und Deine Magd haben unter dem 
 
 -- Abdu'l-Bahá
 
-bpn469 
+bpn469 «[Deutsch](../de/prayers/#bpn469)» 
 
 ----
 
@@ -1174,7 +1173,7 @@ O Herr! Lass diesen jungen Menschen strahlen, erweise diesem armen Geschöpf Dei
 
 -- Abdu'l-Bahá
 
-bpn475 
+bpn475 «[Deutsch](../de/prayers/#bpn475)» 
 
 ----
 
@@ -1184,7 +1183,7 @@ O Du gütiger Herr! Vom Horizont der Loslösung hast Du Seelen offenbart die, wi
 
 -- Abdu'l-Bahá
 
-bpn10259 
+bpn10259 «[Deutsch](../de/prayers/#bpn10259)» 
 
 ----
 
@@ -1194,7 +1193,7 @@ O Du gütiger Herr! Verleihe gnädiglich jedem dieser jungen Vögel himmlische F
 
 -- Abdu'l-Bahá
 
-bpn10260 
+bpn10260 «[Deutsch](../de/prayers/#bpn10260)» 
 
 ----
 
@@ -1204,7 +1203,7 @@ Lobpreis und Ruhm sei Dir, O Herr mein Gott! Dies ist Dein erlesener Setzling, w
 
 -- Abdu'l-Bahá
 
-bpn10261 
+bpn10261 «[Deutsch](../de/prayers/#bpn10261)» 
 
 ----
 
@@ -1218,7 +1217,7 @@ Preis sei Dir, o Herr mein Gott! Gib gnädiglich, dass dieses Kind an der Brust 
 
 -- Bahá'u'lláh
 
-bpn573 
+bpn573 «[Deutsch](../de/prayers/#bpn573)» 
 
 ----
 
@@ -1228,7 +1227,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Ich danke Dir, dass Du mich in Deinen 
 
 -- Bahá'u'lláh
 
-bpn572 
+bpn572 «[Deutsch](../de/prayers/#bpn572)» 
 
 ----
 
@@ -1238,7 +1237,7 @@ O Gott! Erziehe diese Kinder. Sie sind die Pflanzen Deines Haines, die Blumen De
 
 -- Abdu'l-Bahá
 
-bpn470 
+bpn470 «[Deutsch](../de/prayers/#bpn470)» 
 
 ----
 
@@ -1248,7 +1247,7 @@ O Du gütiger Herr! Diese lieblichen Kinder sind das Werk Deiner machtvollen Han
 
 -- Abdu'l-Bahá
 
-bpn471 
+bpn471 «[Deutsch](../de/prayers/#bpn471)» 
 
 ----
 
@@ -1258,7 +1257,7 @@ O Herr! Lass diese Kinder zu prachtvollen Pflanzen werden. Lass sie wachsen und 
 
 -- Abdu'l-Bahá
 
-bpn472 
+bpn472 «[Deutsch](../de/prayers/#bpn472)» 
 
 ----
 
@@ -1268,7 +1267,7 @@ O Gott! Führe mich, beschütze mich, erleuchte die Lampe meines Herzens und mac
 
 -- Abdu'l-Bahá
 
-bpn473 
+bpn473 «[Deutsch](../de/prayers/#bpn473)» 
 
 ----
 
@@ -1278,7 +1277,7 @@ O mein Herr! O mein Herr!Ich bin ein Kind in zartem Alter. Nähre mich an der Br
 
 -- Abdu'l-Bahá
 
-bpn474 
+bpn474 «[Deutsch](../de/prayers/#bpn474)» 
 
 ----
 
@@ -1288,7 +1287,7 @@ O Du unvergleichlicher Herr! Sei Du diesem armen Kinde ein Schutz, sei dieser ir
 
 -- Abdu'l-Bahá
 
-bpn476 
+bpn476 «[Deutsch](../de/prayers/#bpn476)» 
 
 ----
 
@@ -1298,7 +1297,7 @@ O Du reiner Gott! Ich bin ein kleines Kind; gib, dass ich mich an die Brust Dein
 
 -- Abdu'l-Bahá
 
-bpn477 
+bpn477 «[Deutsch](../de/prayers/#bpn477)» 
 
 ----
 
@@ -1308,7 +1307,7 @@ O Du unvergleichlicher Herr! Gib diesem Säugling Nahrung aus der Brust Deiner G
 
 -- Abdu'l-Bahá
 
-bpn478 
+bpn478 «[Deutsch](../de/prayers/#bpn478)» 
 
 ----
 
@@ -1318,7 +1317,7 @@ O Gott! Erziehe dieses Kind im Schoße Deiner Liebe, und gib ihm Milch aus der B
 
 -- Abdu'l-Bahá
 
-bpn479 
+bpn479 «[Deutsch](../de/prayers/#bpn479)» 
 
 ----
 
@@ -1332,7 +1331,7 @@ Preis sei Dir, o mein Gott! Du hast mich zum Horizont Deiner Manifestation gefü
 
 -- Bahá'u'lláh
 
-bpn574 
+bpn574 «[Deutsch](../de/prayers/#bpn574)» 
 
 ----
 
@@ -1342,7 +1341,7 @@ Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, den niemand
 
 -- Bahá'u'lláh
 
-bpn575 
+bpn575 «[Deutsch](../de/prayers/#bpn575)» 
 
 ----
 
@@ -1352,7 +1351,7 @@ Ruhm sei Dir, o Herr der Welt, Du Sehnsucht der Völker, der Du offenbar geworde
 
 -- Bahá'u'lláh
 
-bpn576 
+bpn576 «[Deutsch](../de/prayers/#bpn576)» 
 
 ----
 
@@ -1362,7 +1361,7 @@ Verherrlicht sei Dein Name, o mein Gott, denn Du hast den Tag offenbart, der der
 
 -- Bahá'u'lláh
 
-bpn577 
+bpn577 «[Deutsch](../de/prayers/#bpn577)» 
 
 ----
 
@@ -1372,7 +1371,7 @@ O mein Gott, hilf Deinen Dienern, Dein Wort zu erhöhen, alles zu verwerfen, was
 
 -- Abdu'l-Bahá
 
-bpn480 
+bpn480 «[Deutsch](../de/prayers/#bpn480)» 
 
 ----
 
@@ -1382,7 +1381,7 @@ O Gott, mein Gott! Stehe Deinen vertrauten Dienern bei, dass sie liebevolle, emp
 
 -- Abdu'l-Bahá
 
-bpn481 
+bpn481 «[Deutsch](../de/prayers/#bpn481)» 
 
 ----
 
@@ -1392,7 +1391,7 @@ O Du unvergleichlicher Gott! O Du Herr des Königreiches! Diese Seelen sind Dein
 
 -- Abdu'l-Bahá
 
-bpn482 
+bpn482 «[Deutsch](../de/prayers/#bpn482)» 
 
 ----
 
@@ -1402,7 +1401,7 @@ Wer sich, wohin auch immer, auf eine Lehrreise begibt, spreche auf seiner Reise 
 
 -- Abdu'l-Bahá
 
-bpn483 
+bpn483 «[Deutsch](../de/prayers/#bpn483)» 
 
 ----
 
@@ -1412,7 +1411,7 @@ Wer sich auf Lehrreise in verschiedene Gegenden begibt, der lese im Gebirg und i
 
 -- Abdu'l-Bahá
 
-bpn484 
+bpn484 «[Deutsch](../de/prayers/#bpn484)» 
 
 ----
 
@@ -1422,7 +1421,7 @@ Die Lehrer und Freunde sollen täglich dieses Bittgebet sprechen:O Du gütiger H
 
 -- Abdu'l-Bahá
 
-bpn485 
+bpn485 «[Deutsch](../de/prayers/#bpn485)» 
 
 ----
 
@@ -1432,7 +1431,7 @@ Wer auf der Reise durch die Städte, Dörfer und Weiler dieser Staaten Gottes s�
 
 -- Abdu'l-Bahá
 
-bpn486 
+bpn486 «[Deutsch](../de/prayers/#bpn486)» 
 
 ----
 
@@ -1442,7 +1441,7 @@ Wer die göttlichen Düfte verbreitet, soll jeden Morgen dieses Gebet sprechen:O
 
 -- Abdu'l-Bahá
 
-bpn487 
+bpn487 «[Deutsch](../de/prayers/#bpn487)» 
 
 ----
 
@@ -1452,7 +1451,7 @@ Folgendes Gebet soll täglich gesprochen werden:O Gott! O Gott! Hier ist ein Vog
 
 -- Abdu'l-Bahá
 
-bpn488 
+bpn488 «[Deutsch](../de/prayers/#bpn488)» 
 
 ----
 
@@ -1462,7 +1461,7 @@ Preis sei Dir, o mein Gott! Dies sind Deine Diener, angezogen von den Düften De
 
 -- Abdu'l-Bahá
 
-bpn489 
+bpn489 «[Deutsch](../de/prayers/#bpn489)» 
 
 ----
 
@@ -1472,7 +1471,7 @@ Wer die süßen Düfte Gottes verbreitet, soll jeden Morgen dieses Gebet spreche
 
 -- Abdu'l-Bahá
 
-bpn490 
+bpn490 «[Deutsch](../de/prayers/#bpn490)» 
 
 ----
 
@@ -1486,7 +1485,7 @@ Mein Gott, mein Angebeteter, mein König, meine Sehnsucht! Welche Zunge könnte 
 
 -- Bahá'u'lláh
 
-bpn578 
+bpn578 «[Deutsch](../de/prayers/#bpn578)» 
 
 ----
 
@@ -1496,7 +1495,7 @@ Gelobt sei Dein Name, o mein Gott, Du Gott aller Dinge, Du meine Herrlichkeit un
 
 -- Bahá'u'lláh
 
-bpn579 
+bpn579 «[Deutsch](../de/prayers/#bpn579)» 
 
 ----
 
@@ -1506,7 +1505,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Ich danke Dir, dass Du mich fähig mac
 
 -- Bahá'u'lláh
 
-bpn580 
+bpn580 «[Deutsch](../de/prayers/#bpn580)» 
 
 ----
 
@@ -1516,7 +1515,7 @@ O mein Gott! O mein Gott! Ich danke Dir, dass Du mich hin zu Dir lenkst, dass Du
 
 -- Bahá'u'lláh
 
-bpn581 
+bpn581 «[Deutsch](../de/prayers/#bpn581)» 
 
 ----
 
@@ -1526,7 +1525,7 @@ Aller Lobpreis sei Dir, o mein Gott, der Du der Quell bist aller Herrlichkeit un
 
 -- Bahá'u'lláh
 
-bpn582 
+bpn582 «[Deutsch](../de/prayers/#bpn582)» 
 
 ----
 
@@ -1540,7 +1539,7 @@ Ich flehe Dich an, o mein Gott, bei Deinem Namen, dessen Glanz Erde und Himmel u
 
 -- Bahá'u'lláh
 
-bpn583 
+bpn583 «[Deutsch](../de/prayers/#bpn583)» 
 
 ----
 
@@ -1550,7 +1549,7 @@ Ich weiß nicht, o mein Gott, was für ein Feuer Du in Deinem Lande entzündet h
 
 -- Bahá'u'lláh
 
-bpn584 
+bpn584 «[Deutsch](../de/prayers/#bpn584)» 
 
 ----
 
@@ -1560,7 +1559,7 @@ Gelobt sei Dein Name, o mein Gott! Ich flehe Dich an bei den Düften des Gewande
 
 -- Bahá'u'lláh
 
-bpn585 
+bpn585 «[Deutsch](../de/prayers/#bpn585)» 
 
 ----
 
@@ -1570,7 +1569,7 @@ Manch erstarrtes Herz, o mein Gott, wurde vom Feuer Deiner Sache entflammt, und 
 
 -- Bahá'u'lláh
 
-bpn586 
+bpn586 «[Deutsch](../de/prayers/#bpn586)» 
 
 ----
 
@@ -1580,7 +1579,7 @@ Verherrlicht seiest Du, o mein Gott! Dank sei Dir, dass Du mich Ihn, die Morgenr
 
 -- Bahá'u'lláh
 
-bpn587 
+bpn587 «[Deutsch](../de/prayers/#bpn587)» 
 
 ----
 
@@ -1590,7 +1589,7 @@ Sprich: O Gott, mein Gott! Du siehst, wie ich Deinen Willen umkreise, die Augen 
 
 -- Bahá'u'lláh
 
-bpn588 
+bpn588 «[Deutsch](../de/prayers/#bpn588)» 
 
 ----
 
@@ -1600,7 +1599,7 @@ O mein Gott, mein Herr und mein Meister! Ich habe mich von meiner Verwandtschaft
 
 -- Báb
 
-bpn646 
+bpn646 «[Deutsch](../de/prayers/#bpn646)» 
 
 ----
 
@@ -1610,7 +1609,7 @@ O Gott, mein Gott! Fülle mir den Kelch völliger Loslösung, und umgeben von De
 
 -- Abdu'l-Bahá
 
-bpn491 
+bpn491 «[Deutsch](../de/prayers/#bpn491)» 
 
 ----
 
@@ -1624,7 +1623,7 @@ O Du mitleidvoller Gott, Du, der Du freigebig bist und dazu die Macht hast! Wir 
 
 -- Abdu'l-Bahá
 
-bpn492 
+bpn492 «[Deutsch](../de/prayers/#bpn492)» 
 
 ----
 
@@ -1634,7 +1633,7 @@ O Du gütiger Herr! Du hast die ganze Menschheit aus dem gleichen Stamm erschaff
 
 -- Abdu'l-Bahá
 
-bpn493 
+bpn493 «[Deutsch](../de/prayers/#bpn493)» 
 
 ----
 
@@ -1648,7 +1647,7 @@ In Deiner Obhut bin ich erwacht, o mein Gott, und wer Deine Obhut sucht, dem ste
 
 -- Bahá'u'lláh
 
-bpn589 
+bpn589 «[Deutsch](../de/prayers/#bpn589)» 
 
 ----
 
@@ -1658,7 +1657,7 @@ Durch Deine Gnade, o mein Gott, habe ich mich heute morgen erhoben, ganz im Vert
 
 -- Bahá'u'lláh
 
-bpn590 
+bpn590 «[Deutsch](../de/prayers/#bpn590)» 
 
 ----
 
@@ -1668,7 +1667,7 @@ O mein Gott und Meister! Ich bin Dein Diener und Deines Dieners Sohn. Zur Morgen
 
 -- Bahá'u'lláh
 
-bpn591 
+bpn591 «[Deutsch](../de/prayers/#bpn591)» 
 
 ----
 
@@ -1678,7 +1677,7 @@ Dich preise ich, o mein Gott, denn Du erwecktest mich aus dem Schlafe, Du ließe
 
 -- Bahá'u'lláh
 
-bpn592 
+bpn592 «[Deutsch](../de/prayers/#bpn592)» 
 
 ----
 
@@ -1692,7 +1691,7 @@ Gepriesen seiest Du, o mein Gott, da Du Naw-Rúz denen zum Fest bestimmt hast, d
 
 -- Bahá'u'lláh
 
-bpn671 
+bpn671 «[Deutsch](../de/prayers/#bpn671)» 
 
 ----
 
@@ -1706,7 +1705,7 @@ Ruhm sei Dir, o mein Gott! Wie könnten Deine wahren Geliebten erkannt werden oh
 
 -- Bahá'u'lláh
 
-bpn593 
+bpn593 «[Deutsch](../de/prayers/#bpn593)» 
 
 ----
 
@@ -1716,7 +1715,7 @@ O Gott! Die Prüfungen, die Du sendest, sind Balsam für die Wunden aller, die D
 
 -- Bahá'u'lláh
 
-bpn594 
+bpn594 «[Deutsch](../de/prayers/#bpn594)» 
 
 ----
 
@@ -1726,7 +1725,7 @@ Zerstreue meinen Kummer durch Deine Güte und Großmut, o Gott, mein Gott, und b
 
 -- Bahá'u'lláh
 
-bpn595 
+bpn595 «[Deutsch](../de/prayers/#bpn595)» 
 
 ----
 
@@ -1736,7 +1735,7 @@ Lob und Preis seien Dir, o mein Gott! Ich flehe Dich an bei den Seufzern und Tr�
 
 -- Bahá'u'lláh
 
-bpn597 
+bpn597 «[Deutsch](../de/prayers/#bpn597)» 
 
 ----
 
@@ -1746,7 +1745,7 @@ O Du, Dessen Prüfungen denen zum Heilmittel werden, die Dir nahe sind; Dessen S
 
 -- Bahá'u'lláh
 
-bpn598 
+bpn598 «[Deutsch](../de/prayers/#bpn598)» 
 
 ----
 
@@ -1756,7 +1755,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Jeder Einsichtige bekennt Deine unumsc
 
 -- Bahá'u'lláh
 
-bpn599 
+bpn599 «[Deutsch](../de/prayers/#bpn599)» 
 
 ----
 
@@ -1766,7 +1765,7 @@ Gelobt sei Dein Name, o mein Gott! Du siehst, wie der Sturm der Prüfungen die i
 
 -- Bahá'u'lláh
 
-bpn600 
+bpn600 «[Deutsch](../de/prayers/#bpn600)» 
 
 ----
 
@@ -1776,7 +1775,7 @@ Verherrlicht sei Dein Name, o Herr mein Gott! Ich weiß nicht, welcher Art das W
 
 -- Bahá'u'lláh
 
-bpn601 
+bpn601 «[Deutsch](../de/prayers/#bpn601)» 
 
 ----
 
@@ -1786,7 +1785,7 @@ Gibt es einen Befreier von Schwierigkeiten außer Gott? Sprich: Gelobt sei Gott!
 
 -- Báb
 
-bpn647 
+bpn647 «[Deutsch](../de/prayers/#bpn647)» 
 
 ----
 
@@ -1796,7 +1795,7 @@ Ich beschwöre Dich bei Deiner Macht, o mein Gott! Lass kein Leid mich bedränge
 
 -- Báb
 
-bpn649 
+bpn649 «[Deutsch](../de/prayers/#bpn649)» 
 
 ----
 
@@ -1806,7 +1805,7 @@ Du weißt sehr wohl, o mein Gott, dass mich von allen Seiten Drangsal überkam, 
 
 -- Báb
 
-bpn650 
+bpn650 «[Deutsch](../de/prayers/#bpn650)» 
 
 ----
 
@@ -1816,7 +1815,7 @@ O Herr! Du vertreibst alle Qual und zerstreust jeden Kummer. Du bannst jedes Lei
 
 -- Báb
 
-bpn648 
+bpn648 «[Deutsch](../de/prayers/#bpn648)» 
 
 ----
 
@@ -1826,7 +1825,7 @@ O Herr, mein Gott, Du mein Hafen in meinem Elend, mein Schild und Schirm in mein
 
 -- Abdu'l-Bahá
 
-bpn494 
+bpn494 «[Deutsch](../de/prayers/#bpn494)» 
 
 ----
 
@@ -1836,7 +1835,7 @@ Er ist der Barmherzige, der Allgütige!O Gott, mein Gott! Du siehst mich, Du ken
 
 -- Abdu'l-Bahá
 
-bpn596 
+bpn596 «[Deutsch](../de/prayers/#bpn596)» 
 
 ----
 
@@ -1850,7 +1849,7 @@ Du siehst, o mein Herr, wie ich mein Angesicht dem Himmel Deiner Gnade und dem M
 
 -- Bahá'u'lláh
 
-bpn602 
+bpn602 «[Deutsch](../de/prayers/#bpn602)» 
 
 ----
 
@@ -1860,7 +1859,7 @@ O Gott, mein Gott! Deine Gnade macht mir Mut, doch Deine Gerechtigkeit versetzt 
 
 -- Bahá'u'lláh
 
-bpn603 
+bpn603 «[Deutsch](../de/prayers/#bpn603)» 
 
 ----
 
@@ -1870,7 +1869,7 @@ O Gott, mein Gott! Du siehst mich, wie ich vor der Tür Deiner Güte und Vergebu
 
 -- Bahá'u'lláh
 
-bpn604 
+bpn604 «[Deutsch](../de/prayers/#bpn604)» 
 
 ----
 
@@ -1880,7 +1879,7 @@ O Gott, mein Gott! Ich flehe Dich an beim Blute derer, die Dich wahrhaft liebten
 
 -- Bahá'u'lláh
 
-bpn605 
+bpn605 «[Deutsch](../de/prayers/#bpn605)» 
 
 ----
 
@@ -1890,7 +1889,7 @@ Die Milde Deiner Gnade, o mein Herr, überragt die Wut Deines Zornes, Deine Güt
 
 -- Bahá'u'lláh
 
-bpn606 
+bpn606 «[Deutsch](../de/prayers/#bpn606)» 
 
 ----
 
@@ -1900,7 +1899,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Wann immer ich wage, von Dir zu künde
 
 -- Bahá'u'lláh
 
-bpn607 
+bpn607 «[Deutsch](../de/prayers/#bpn607)» 
 
 ----
 
@@ -1910,7 +1909,7 @@ O Du, vor Dem alle Dinge in Furcht erschauern, vor Dessen strahlendem Antlitz al
 
 -- Bahá'u'lláh
 
-bpn608 
+bpn608 «[Deutsch](../de/prayers/#bpn608)» 
 
 ----
 
@@ -1920,7 +1919,7 @@ O Gott, mein Gott! Voll Reue wende ich mich Dir zu, und wahrlich, Du bist der Ve
 
 -- Bahá'u'lláh
 
-bpn609 
+bpn609 «[Deutsch](../de/prayers/#bpn609)» 
 
 ----
 
@@ -1930,7 +1929,7 @@ Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an bei Deinen Auserwählt
 
 -- Bahá'u'lláh
 
-bpn610 
+bpn610 «[Deutsch](../de/prayers/#bpn610)» 
 
 ----
 
@@ -1940,7 +1939,7 @@ Ruhm sei Dir, o Gott! Wie kann ich von Dir sprechen, da Du heilig bist über den
 
 -- Báb
 
-bpn651 
+bpn651 «[Deutsch](../de/prayers/#bpn651)» 
 
 ----
 
@@ -1950,7 +1949,7 @@ Ich bitte Dich, o mein Herr, vergib mir jedes Gedenken außer dem Deinen, jeden 
 
 -- Báb
 
-bpn652 
+bpn652 «[Deutsch](../de/prayers/#bpn652)» 
 
 ----
 
@@ -1960,7 +1959,7 @@ Ich erbitte Deine Vergebung, o mein Gott, und erflehe Deine Verzeihung, so wie D
 
 -- Báb
 
-bpn653 
+bpn653 «[Deutsch](../de/prayers/#bpn653)» 
 
 ----
 
@@ -1970,7 +1969,7 @@ Preis sei Dir, o Herr! Vergib uns unsere Sünden, erbarme Dich unser und mache u
 
 -- Báb
 
-bpn654 
+bpn654 «[Deutsch](../de/prayers/#bpn654)» 
 
 ----
 
@@ -1980,7 +1979,7 @@ Ruhm sei Dir, o Herr mein Gott! Ich bitte Dich, vergib mir und denen, die Deinen
 
 -- Báb
 
-bpn655 
+bpn655 «[Deutsch](../de/prayers/#bpn655)» 
 
 ----
 
@@ -1990,7 +1989,7 @@ O Du vergebender Herr! Wenn auch manch eine Seele in Unwissenheit, Entfremdung u
 
 -- Abdu'l-Bahá
 
-bpn495 
+bpn495 «[Deutsch](../de/prayers/#bpn495)» 
 
 ----
 
@@ -2000,7 +1999,7 @@ O Du Allmächtiger! Ich bin ein Sünder, doch Du bist der Vergeber! Ich bin voll
 
 -- Abdu'l-Bahá
 
-bpn496 
+bpn496 «[Deutsch](../de/prayers/#bpn496)» 
 
 ----
 
@@ -2010,7 +2009,7 @@ O Du vergebender Herr! Du bist aller Deiner Diener Zuflucht. Du kennst die Gehei
 
 -- Abdu'l-Bahá
 
-bpn497 
+bpn497 «[Deutsch](../de/prayers/#bpn497)» 
 
 ----
 
@@ -2024,7 +2023,7 @@ O Gott, mein Gott! Ich habe mich aus meinem Hause begeben, das Seil Deiner Liebe
 
 -- Bahá'u'lláh
 
-bpn611 
+bpn611 «[Deutsch](../de/prayers/#bpn611)» 
 
 ----
 
@@ -2034,7 +2033,7 @@ Preis sei Dir, o Herr mein Gott! Du siehst meine Tränen und meinen Jammer und h
 
 -- Bahá'u'lláh
 
-bpn612 
+bpn612 «[Deutsch](../de/prayers/#bpn612)» 
 
 ----
 
@@ -2044,7 +2043,7 @@ Gepriesen sei Dein Name, o Herr mein Gott! Ich bin Dein Diener, der das Seil Dei
 
 -- Bahá'u'lláh
 
-bpn613 
+bpn613 «[Deutsch](../de/prayers/#bpn613)» 
 
 ----
 
@@ -2054,7 +2053,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Ich bitte Dich bei Deinem Namen, den D
 
 -- Bahá'u'lláh
 
-bpn614 
+bpn614 «[Deutsch](../de/prayers/#bpn614)» 
 
 ----
 
@@ -2064,7 +2063,7 @@ Gelobt sei Dein Name, o Herr mein Gott! Finsternis hat sich auf alle Länder ges
 
 -- Bahá'u'lláh
 
-bpn615 
+bpn615 «[Deutsch](../de/prayers/#bpn615)» 
 
 ----
 
@@ -2074,7 +2073,7 @@ Preis sei Dir, o Herr mein Gott! Du siehst und weißt, ich habe Deinen Dienern g
 
 -- Bahá'u'lláh
 
-bpn616 
+bpn616 «[Deutsch](../de/prayers/#bpn616)» 
 
 ----
 
@@ -2084,7 +2083,7 @@ Gelobt sei Dein Name, o Herr mein Gott! Du bezeugst, dass Dein Wille über alles
 
 -- Bahá'u'lláh
 
-bpn617 
+bpn617 «[Deutsch](../de/prayers/#bpn617)» 
 
 ----
 
@@ -2094,7 +2093,7 @@ Ruhm sei Dir, o Gott! Du bist der Gott, der vor allem war, der nach allem sein w
 
 -- Báb
 
-bpn656 
+bpn656 «[Deutsch](../de/prayers/#bpn656)» 
 
 ----
 
@@ -2104,7 +2103,7 @@ Verordne für mich, o mein Herr, und für die, so an Dich glauben, was nach Dein
 
 -- Báb
 
-bpn657 
+bpn657 «[Deutsch](../de/prayers/#bpn657)» 
 
 ----
 
@@ -2114,7 +2113,7 @@ O Gott, unser Herr! Beschütze uns durch Deine Gnade vor allem, was Du verabsche
 
 -- Báb
 
-bpn658 
+bpn658 «[Deutsch](../de/prayers/#bpn658)» 
 
 ----
 
@@ -2124,7 +2123,7 @@ O Gott, mein Gott! Bewahre Deine vertrauten Diener vor den übeln der Selbstsuch
 
 -- Abdu'l-Bahá
 
-bpn498 
+bpn498 «[Deutsch](../de/prayers/#bpn498)» 
 
 ----
 
@@ -2134,7 +2133,7 @@ O mein Gott! Du weißt, dass die Menschen von Kummer und Unglück umzingelt, von
 
 -- Abdu'l-Bahá
 
-bpn499 
+bpn499 «[Deutsch](../de/prayers/#bpn499)» 
 
 ----
 
@@ -2148,7 +2147,7 @@ Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann sc
 
 -- Bahá'u'lláh
 
-bpn618 
+bpn618 «[Deutsch](../de/prayers/#bpn618)» 
 
 ----
 
@@ -2158,7 +2157,7 @@ Verherrlicht sei Dein Name, o mein Gott! Da Du mich diese Wahrheit erkennen lie�
 
 -- Bahá'u'lláh
 
-bpn619 
+bpn619 «[Deutsch](../de/prayers/#bpn619)» 
 
 ----
 
@@ -2168,7 +2167,7 @@ Ruhm sei Dir, o Herr aller Welten, Du Geliebter aller, die Dich erkannt haben! D
 
 -- Bahá'u'lláh
 
-bpn620 
+bpn620 «[Deutsch](../de/prayers/#bpn620)» 
 
 ----
 
@@ -2178,7 +2177,7 @@ O Herr! Lass alle Völker der Erde eintreten in das Paradies Deines Glaubens, so
 
 -- Báb
 
-bpn659 
+bpn659 «[Deutsch](../de/prayers/#bpn659)» 
 
 ----
 
@@ -2188,7 +2187,7 @@ O Herr! Gib, dass der Baum Deiner göttlichen Einheit rasch wachse; netze ihn, o
 
 -- Báb
 
-bpn660 
+bpn660 «[Deutsch](../de/prayers/#bpn660)» 
 
 ----
 
@@ -2198,7 +2197,7 @@ Verherrlicht seiest Du, o Herr, der Du alles Erschaffene durch die Macht Deines 
 
 -- Báb
 
-bpn661 
+bpn661 «[Deutsch](../de/prayers/#bpn661)» 
 
 ----
 
@@ -2208,7 +2207,7 @@ O Gott, mein Gott! Preis sei Dir, da Du das Feuer göttlicher Liebe im Heiligen 
 
 -- Abdu'l-Bahá
 
-bpn500 
+bpn500 «[Deutsch](../de/prayers/#bpn500)» 
 
 ----
 
@@ -2218,7 +2217,7 @@ Er ist Gott!O Herr, mein Gott, mein Vielgeliebter! Hier sind Deine Diener, die D
 
 -- Abdu'l-Bahá
 
-bpn501 
+bpn501 «[Deutsch](../de/prayers/#bpn501)» 
 
 ----
 
@@ -2232,7 +2231,7 @@ O Herr, erlöse uns von jeder Versuchung, Prüfung und bösen Einflüsterung der
 
 -- Bahá'u'lláh
 
-bpn621 
+bpn621 «[Deutsch](../de/prayers/#bpn621)» 
 
 ----
 
@@ -2242,7 +2241,7 @@ O Du, Dessen Nähe mein Verlangen, Dessen Gegenwart meine Hoffnung, Dessen Geden
 
 -- Bahá'u'lláh
 
-bpn622 
+bpn622 «[Deutsch](../de/prayers/#bpn622)» 
 
 ----
 
@@ -2252,7 +2251,7 @@ Ich verherrliche Deinen Namen, o mein Gott, und sage Dir Dank, o meine Sehnsucht
 
 -- Bahá'u'lláh
 
-bpn623 
+bpn623 «[Deutsch](../de/prayers/#bpn623)» 
 
 ----
 
@@ -2262,7 +2261,7 @@ Gelobt sei Dein Name, o mein Gott! Hilf Du mit Deiner stärkenden Gnade Deinen D
 
 -- Bahá'u'lláh
 
-bpn624 
+bpn624 «[Deutsch](../de/prayers/#bpn624)» 
 
 ----
 
@@ -2272,7 +2271,7 @@ Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei Ihm, der Dein Gr
 
 -- Bahá'u'lláh
 
-bpn625 
+bpn625 «[Deutsch](../de/prayers/#bpn625)» 
 
 ----
 
@@ -2282,7 +2281,7 @@ Verherrlicht sei Dein Name, o Herr mein Gott! Ich flehe Dich an bei Deiner Macht
 
 -- Bahá'u'lláh
 
-bpn626 
+bpn626 «[Deutsch](../de/prayers/#bpn626)» 
 
 ----
 
@@ -2292,7 +2291,7 @@ Verherrlicht bist Du, o Herr mein Gott! Ich bete zu Dir bei Ihm, der Morgenröte
 
 -- Bahá'u'lláh
 
-bpn627 
+bpn627 «[Deutsch](../de/prayers/#bpn627)» 
 
 ----
 
@@ -2302,7 +2301,7 @@ Gepriesen und verherrlicht seiest Du, o Gott! Lass den Tag nahen, da wir Deine h
 
 -- Báb
 
-bpn662 
+bpn662 «[Deutsch](../de/prayers/#bpn662)» 
 
 ----
 
@@ -2312,7 +2311,7 @@ O Herr, mein Gott! Stehe Deinen Geliebten bei, in Deinem Glauben fest zu sein, a
 
 -- Abdu'l-Bahá
 
-bpn502 
+bpn502 «[Deutsch](../de/prayers/#bpn502)» 
 
 ----
 
@@ -2322,7 +2321,7 @@ O mein Gott, der Du den Sucher auf den geraden Pfad führest, die verlorene, ver
 
 -- Abdu'l-Bahá
 
-bpn503 
+bpn503 «[Deutsch](../de/prayers/#bpn503)» 
 
 ----
 
@@ -2336,7 +2335,7 @@ Er ist der König, der Allwissende, der Weise.Siehe, die Nachtigall des Paradies
 
 -- Bahá'u'lláh
 
-bpn673 
+bpn672 «[Deutsch](../de/prayers/#bpn672)» 
 
 ----
 
@@ -2378,7 +2377,7 @@ Er ist Gott! Sieh uns, o Herr, an dieser Tafel versammelt, dankbar für Deine Gn
 
 -- Abdu'l-Bahá
 
-bpn505 
+bpn505 «[Deutsch](../de/prayers/#bpn505)» 
 
 ----
 
@@ -2388,7 +2387,7 @@ Er ist Gott! O Herr, wie sollen wir Dir danken! Grenzenlos ist Deine Großmut, u
 
 -- Abdu'l-Bahá
 
-bpn504 
+bpn504 «[Deutsch](../de/prayers/#bpn504)» 
 
 ----
 
@@ -2402,7 +2401,7 @@ Erschaffe in mir ein reines Herz, o mein Gott, und schenke mir wieder ein ruhige
 
 -- Bahá'u'lláh
 
-bpn628 
+bpn628 «[Deutsch](../de/prayers/#bpn628)» 
 
 ----
 
@@ -2412,7 +2411,7 @@ O mein Herr! Lass Deine Schönheit meine Speise sein, Deine Gegenwart mein Trank
 
 -- Bahá'u'lláh
 
-bpn629 
+bpn629 «[Deutsch](../de/prayers/#bpn629)» 
 
 ----
 
@@ -2422,7 +2421,7 @@ Von den duftenden Strömen Deiner Ewigkeit gib mir zu trinken, o mein Gott, und 
 
 -- Bahá'u'lláh
 
-bpn630 
+bpn630 «[Deutsch](../de/prayers/#bpn630)» 
 
 ----
 
@@ -2432,7 +2431,7 @@ Verherrlicht sei Dein Name, o mein Gott, durch den die Bäume im Garten Deiner O
 
 -- Bahá'u'lláh
 
-bpn631 
+bpn631 «[Deutsch](../de/prayers/#bpn631)» 
 
 ----
 
@@ -2442,7 +2441,7 @@ Sprich: O Gott, mein Gott! Schmücke mein Haupt mit der Krone des Rechts und mei
 
 -- Bahá'u'lláh
 
-bpn632 
+bpn632 «[Deutsch](../de/prayers/#bpn632)» 
 
 ----
 
@@ -2452,7 +2451,7 @@ Gelobt seiest Du, o Herr mein Gott! Dies ist Dein Diener, der in Deinen Tagen de
 
 -- Bahá'u'lláh
 
-bpn633 
+bpn633 «[Deutsch](../de/prayers/#bpn633)» 
 
 ----
 
@@ -2462,7 +2461,7 @@ O mein Gott, Du Gott der Gnadenfülle und des Erbarmens! Du bist der König, dur
 
 -- Bahá'u'lláh
 
-bpn634 
+bpn634 «[Deutsch](../de/prayers/#bpn634)» 
 
 ----
 
@@ -2472,7 +2471,7 @@ O mein Gott! Du siehst, wie wir nach Deinem Willen streben, den Blick auf den Ho
 
 -- Bahá'u'lláh
 
-bpn635 
+bpn635 «[Deutsch](../de/prayers/#bpn635)» 
 
 ----
 
@@ -2482,7 +2481,7 @@ O Gott, mein Gott! Du bist meine Hoffnung und mein Geliebter, mein höchstes Zie
 
 -- Abdu'l-Bahá
 
-bpn508 
+bpn508 «[Deutsch](../de/prayers/#bpn508)» 
 
 ----
 
@@ -2496,7 +2495,7 @@ Er ist Gott, der die Gebete hört und darauf antwortet!Bei Deiner Herrlichkeit, 
 
 -- Bahá'u'lláh
 
-bpn636 
+bpn636 «[Deutsch](../de/prayers/#bpn636)» 
 
 ----
 
@@ -2506,7 +2505,7 @@ Gepriesen sei Dein Name, o Du, der Du alles siehst und selbst allem verborgen bi
 
 -- Bahá'u'lláh
 
-bpn637 
+bpn637 «[Deutsch](../de/prayers/#bpn637)» 
 
 ----
 
@@ -2516,7 +2515,7 @@ Er ist Gott!O Herr, mein Gott! Du Helfer der Schwachen, Beistand der Bedürftige
 
 -- Abdu'l-Bahá
 
-bpn509 
+bpn509 «[Deutsch](../de/prayers/#bpn509)» 
 
 ----
 
@@ -2530,7 +2529,7 @@ O Herr! Bestätige diese Versammlung und stehe ihr bei. Bestätige diese Seelen 
 
 -- Abdu'l-Bahá
 
-bpn510 
+bpn510 «[Deutsch](../de/prayers/#bpn510)» 
 
 ----
 
@@ -2540,7 +2539,7 @@ O Du Mitleidvoller, Du Allmächtiger! Die hier versammelten Seelen wenden ihr An
 
 -- Abdu'l-Bahá
 
-bpn511 
+bpn511 «[Deutsch](../de/prayers/#bpn511)» 
 
 ----
 
@@ -2550,7 +2549,7 @@ O Du barmherziger Gott! O Du, der Du mächtig und gewaltig bist! O Du allgütige
 
 -- Abdu'l-Bahá
 
-bpn512 
+bpn512 «[Deutsch](../de/prayers/#bpn512)» 
 
 ----
 
@@ -2560,7 +2559,7 @@ O göttliche Vorsehung! Diese Versammlung Deiner Freunde ist von Deiner Schönhe
 
 -- Abdu'l-Bahá
 
-bpn513 
+bpn513 «[Deutsch](../de/prayers/#bpn513)» 
 
 ----
 
@@ -2570,7 +2569,7 @@ O Du gütiger Herr! Dies sind Deine Diener, die in dieser Versammlung zusammenge
 
 -- Abdu'l-Bahá
 
-bpn514 
+bpn514 «[Deutsch](../de/prayers/#bpn514)» 
 
 ----
 
@@ -2580,7 +2579,7 @@ O Gott! Banne alles, was zu Zwietracht führt, und bereite uns, was Einheit und 
 
 -- Abdu'l-Bahá
 
-bpn515 
+bpn515 «[Deutsch](../de/prayers/#bpn515)» 
 
 ----
 
@@ -2590,7 +2589,7 @@ O Du verzeihender Gott! Diese Diener wenden sich Deinem Königreich zu und streb
 
 -- Abdu'l-Bahá
 
-bpn516 
+bpn516 «[Deutsch](../de/prayers/#bpn516)» 
 
 ----
 
@@ -2604,7 +2603,7 @@ Gib, o mein Herr, dass die zu Dir Emporgestiegenen Zuflucht finden bei Ihm, dem 
 
 -- Bahá'u'lláh
 
-bpn558 
+bpn558 «[Deutsch](../de/prayers/#bpn558)» 
 
 ----
 
@@ -2614,7 +2613,7 @@ Sprich: O Gott, mein Gott! Du hast mir ein Pfand anvertraut, und nach Deines Wil
 
 -- Bahá'u'lláh
 
-bpn559 
+bpn559 «[Deutsch](../de/prayers/#bpn559)» 
 
 ----
 
@@ -2624,7 +2623,7 @@ Preis sei Dir, o Herr mein Gott! Erniedrige ihn nicht, den Du kraft Deiner unver
 
 -- Bahá'u'lláh
 
-bpn560 
+bpn560 «[Deutsch](../de/prayers/#bpn560)» 
 
 ----
 
@@ -2634,7 +2633,7 @@ Er ist Gott, erhaben ist Er, der Herr der Güte und Großmut!Ruhm sei Dir, o mei
 
 -- Bahá'u'lláh
 
-bpn561 
+bpn561 «[Deutsch](../de/prayers/#bpn561)» 
 
 ----
 
@@ -2644,7 +2643,7 @@ bpn561
 
 -- Bahá'u'lláh
 
-bpn557 
+bpn557 «[Deutsch](../de/prayers/#bpn557)» 
 
 ----
 
@@ -2654,7 +2653,7 @@ O mein Gott! Du Vergeber der Sünden, Verleiher der Gaben, Verbanner der Not!Wah
 
 -- Abdu'l-Bahá
 
-bpn465 
+bpn465 «[Deutsch](../de/prayers/#bpn465)» 
 
 ----
 
@@ -2664,7 +2663,7 @@ O mein Gott! O mein Gott! Wahrlich, Dein Diener, der demütig vor der Majestät 
 
 -- Abdu'l-Bahá
 
-bpn466 
+bpn466 «[Deutsch](../de/prayers/#bpn466)» 
 
 ----
 

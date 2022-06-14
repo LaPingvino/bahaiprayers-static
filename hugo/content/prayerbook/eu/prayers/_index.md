@@ -5,7 +5,6 @@ tags = ['lang=eu', 'prayerbook']
 
 
 
-
 [Alaitasuna](#Alaitasuna)
 
 [Babesa](#Babesa)
@@ -46,7 +45,7 @@ Ene Jainkoa!Nire gogoa alaitu eta girotu ezazu. Nire bihotza garbitu ezazu. Nire
 
 -- Abdu'l-Bahá
 
-bpn6144 
+bpn6144 «[Euskara](../eu/prayers/#bpn6144)» 
 
 ----
 
@@ -60,7 +59,7 @@ Ene Jainkoa, ene Jainkoa,Zeure zerbitzarien bihotzak alkartu itzazu eta Zure xed
 
 -- Bahá'u'lláh
 
-bpn6140 
+bpn6140 «[Euskara](../eu/prayers/#bpn6140)» 
 
 ----
 
@@ -74,7 +73,7 @@ Aintzaldua zara Zu, Jainko neure Jauna!Zure izena aipatzera ausartzen anizen bak
 
 -- Bahá'u'lláh
 
-bpn6158 
+bpn6158 «[Euskara](../eu/prayers/#bpn6158)» 
 
 ----
 
@@ -88,7 +87,7 @@ bpn6158
 
 -- Bahá'u'lláh
 
-bpn6159 
+bpn6159 «[Euskara](../eu/prayers/#bpn6159)» 
 
 ----
 
@@ -102,7 +101,7 @@ Gurtzen zaitudan ene Jainkoa!Zure batasunaren eta bakartasunaren lekuko nauzu et
 
 -- Bahá'u'lláh
 
-bpn6139 
+bpn6139 «[Euskara](../eu/prayers/#bpn6139)» 
 
 ----
 
@@ -116,7 +115,7 @@ Ene Jainkoa! Irakaslea eta Guraria!Zure errukiaren babespean lo egitea nahi du Z
 
 -- Bahá'u'lláh
 
-bpn6148 
+bpn6148 «[Euskara](../eu/prayers/#bpn6148)» 
 
 ----
 
@@ -130,7 +129,7 @@ Zeuk sortu duzu gizarte osoa, jatorri bereko gurasoengandik, eta zeuk erabakia d
 
 -- Abdu'l-Bahá
 
-bpn6138 
+bpn6138 «[Euskara](../eu/prayers/#bpn6138)» 
 
 ----
 
@@ -144,7 +143,7 @@ Zuri esker jeiki naiz goiz honetan, ene Jainkoa, eta Zure ardurapean jarriz eta 
 
 -- Bahá'u'lláh
 
-bpn6149 
+bpn6149 «[Euskara](../eu/prayers/#bpn6149)» 
 
 ----
 
@@ -158,7 +157,7 @@ Goratua izan bedi Zure Izena, ene Jainko Jauna! Sorturiko guztiak gurtzen zaitue
 
 -- Bahá'u'lláh
 
-bpn6135 
+bpn6135 «[Euskara](../eu/prayers/#bpn6135)» 
 
 ----
 
@@ -168,7 +167,7 @@ Goretsia izan bedi Zure Izena, ene Jainkoa eta gauza guztien Jainkoa, ene Aintza
 
 -- Bahá'u'lláh
 
-bpn6136 
+bpn6136 «[Euskara](../eu/prayers/#bpn6136)» 
 
 ----
 
@@ -178,7 +177,7 @@ Zeure betikotasunezko ur garden eta gozoetatik edaten emaidazu,ene Jauna,eta Zur
 
 -- Bahá'u'lláh
 
-bpn6137 
+bpn6137 «[Euskara](../eu/prayers/#bpn6137)» 
 
 ----
 
@@ -192,7 +191,7 @@ Ene Jainkoa! Zeure maitasunaren sabelean hazi erazi ezazu sorkaritxo hau, eta ze
 
 -- Abdu'l-Bahá
 
-bpn6150 
+bpn6150 «[Euskara](../eu/prayers/#bpn6150)» 
 
 ----
 
@@ -202,7 +201,7 @@ Ene Jainkoa! Hezi itzazu ume hauek. Zeure baratzeko landarak, zeure larrako lore
 
 -- Abdu'l-Bahá
 
-bpn6151 
+bpn6151 «[Euskara](../eu/prayers/#bpn6151)» 
 
 ----
 
@@ -212,7 +211,7 @@ Ene Jauna! Ene Jauna! Adin txikidun ume bat naiz. Zeure errukitasunezko ugatzez 
 
 -- Abdu'l-Bahá
 
-bpn6152 
+bpn6152 «[Euskara](../eu/prayers/#bpn6152)» 
 
 ----
 
@@ -222,7 +221,7 @@ Bideratu eta lagundu nazazu ene Jainkoa, nire bihotzeko kriseilua argiztatu ezaz
 
 -- Abdu'l-Bahá
 
-bpn6153 
+bpn6153 «[Euskara](../eu/prayers/#bpn6153)» 
 
 ----
 
@@ -236,7 +235,7 @@ Ene Jainkoa! Bekatuen barkatzaile Hori, dohai emaile, atsekabeak aienatzen dituz
 
 -- Abdu'l-Bahá
 
-bpn6157 
+bpn6157 «[Euskara](../eu/prayers/#bpn6157)» 
 
 ----
 
@@ -250,7 +249,7 @@ Nork askatzen du oztopoetatik Jainkoak ez bada? Esan: Goraldua izan bedi Jainkoa
 
 -- Báb
 
-bpn6141 
+bpn6141 «[Euskara](../eu/prayers/#bpn6141)» 
 
 ----
 
@@ -260,7 +259,7 @@ Deadar ezazue! Izaki guztiak duintzen ditu Jainkoak, gauza guztien gain, eta Zer
 
 -- Báb
 
-bpn6142 
+bpn6142 «[Euskara](../eu/prayers/#bpn6142)» 
 
 ----
 
@@ -274,7 +273,7 @@ bpn6142
 
 -- Bahá'u'lláh
 
-bpn6143 
+bpn6143 «[Euskara](../eu/prayers/#bpn6143)» 
 
 ----
 
@@ -288,7 +287,7 @@ Jainkoa! Ene Jainkoa!Zeure sendaketazko itsasoagatik eta Zeure adeizko Eguzkiare
 
 -- Bahá'u'lláh
 
-bpn6155 
+bpn6155 «[Euskara](../eu/prayers/#bpn6155)» 
 
 ----
 
@@ -298,7 +297,7 @@ Ene Jainkoa,Zure izenen bidez geisoak sendatuak izaten dira, eta nahigabetuak se
 
 -- Bahá'u'lláh
 
-bpn6156 
+bpn6156 «[Euskara](../eu/prayers/#bpn6156)» 
 
 ----
 
@@ -308,7 +307,7 @@ Zure Izena da nire sendaketa, ene Jainkoa, eta Zure oroitza da niretzako sendaga
 
 -- Abdu'l-Bahá
 
-bpn6154 
+bpn6154 «[Euskara](../eu/prayers/#bpn6154)» 
 
 ----
 
@@ -322,7 +321,7 @@ Bihotz garbi bat irazan ezazu nire baitan, ene Jainkoa, eta barru lasaitasuna be
 
 -- Bahá'u'lláh
 
-bpn6145 
+bpn6145 «[Euskara](../eu/prayers/#bpn6145)» 
 
 ----
 
@@ -332,7 +331,7 @@ Aienatu itzazu nire nahigabeak Zeure adeiaren eta Zure emankortasunaren bidez, E
 
 -- Bahá'u'lláh
 
-bpn6146 
+bpn6146 «[Euskara](../eu/prayers/#bpn6146)» 
 
 ----
 
@@ -342,7 +341,7 @@ Ene Jainkoa! Ez zaitez nigandik urrundu, zoritxarrez inguraturik bait nago. Ene 
 
 -- Bahá'u'lláh
 
-bpn6147 
+bpn6147 «[Euskara](../eu/prayers/#bpn6147)» 
 
 ----
 

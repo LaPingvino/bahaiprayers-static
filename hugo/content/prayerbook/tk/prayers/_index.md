@@ -99,7 +99,7 @@ Oldur Bilimli hem Dana Patyşa!    Ynha Bakyýet agajynyň pudaklarynda, Mukadde
 
 -- Bahá'u'lláh
 
-bpn12021 
+bpn12021 «[Türkmençe](../tk/prayers/#bpn12021)» 
 
 ----
 
@@ -113,7 +113,7 @@ bpn12021
 
 -- Bahá'u'lláh
 
-bpn11918 
+bpn11918 «[Türkmençe](../tk/prayers/#bpn11918)» 
 
 ----
 
@@ -123,7 +123,7 @@ Päk we Mukaddes Sen, Eý meniň Taňrym!    Barhudaýa! Sen ýaradylan däl, Ö
 
 -- Bahá'u'lláh
 
-bpn11917 
+bpn11917 «[Türkmençe](../tk/prayers/#bpn11917)» 
 
 ----
 
@@ -133,7 +133,7 @@ Hu’Alla!    Çoh Rähmetli Jomart bolan, Eý Hudaý! Janu-köňlüm, syrlarymy
 
 -- Abdu'l-Bahá
 
-bpn11919 
+bpn11919 «[Türkmençe](../tk/prayers/#bpn11919)» 
 
 ----
 
@@ -143,7 +143,7 @@ Hu’Alla.    Barhudaýa! Bu köňli we bu jany janana ýetireniň üçin hem-de
 
 -- Abdu'l-Bahá
 
-bpn11920 
+bpn11920 «[Türkmençe](../tk/prayers/#bpn11920)» 
 
 ----
 
@@ -153,7 +153,7 @@ Hu’äl-Äbha.    Alkyş Saňa laýykdyr, Eý meniň Taňrym!    Bu ýetimleri 
 
 -- Abdu'l-Bahá
 
-bpn11921 
+bpn11921 «[Türkmençe](../tk/prayers/#bpn11921)» 
 
 ----
 
@@ -163,7 +163,7 @@ Hu’äl-Äbha.    Eý Ýeke-Täk Dilber, Eý taýsyz Mahbup! Bu biçäre awaran
 
 -- Abdu'l-Bahá
 
-bpn11922 
+bpn11922 «[Türkmençe](../tk/prayers/#bpn11922)» 
 
 ----
 
@@ -177,7 +177,7 @@ Gadym we Ägirt uly bolan Allanyň Ady bilen.     Dogrudanam päk ýürekliler a
 
 -- Bahá'u'lláh
 
-bpn12023 
+bpn12023 «[Türkmençe](../tk/prayers/#bpn12023)» 
 
 ----
 
@@ -191,7 +191,7 @@ Hu’äl-Äbha.    Eý Perwerdigär! Biz biçärelere Sen merhemet eýle. Biz ga
 
 -- Abdu'l-Bahá
 
-bpn11923 
+bpn11923 «[Türkmençe](../tk/prayers/#bpn11923)» 
 
 ----
 
@@ -205,7 +205,7 @@ Oldur Gadyrly, Belent mertebe we Uly.    Eý Ylahy bilbiller! Peslik tikenligind
 
 -- Bahá'u'lláh
 
-bpn12025 
+bpn12025 «[Türkmençe](../tk/prayers/#bpn12025)» 
 
 ----
 
@@ -219,7 +219,7 @@ bpn12025
 
 -- Bahá'u'lláh
 
-bpn11928 
+bpn11928 «[Türkmençe](../tk/prayers/#bpn11928)» 
 
 ----
 
@@ -233,7 +233,7 @@ Hu-äl-Äbha.    Ylahy! Ylahy! Dogrudanam aýamy açyp, Saňa sary uzadýaryn. E
 
 -- Abdu'l-Bahá
 
-bpn12020 
+bpn12020 «[Türkmençe](../tk/prayers/#bpn12020)» 
 
 ----
 
@@ -247,7 +247,7 @@ Ylahy, Ylahy! Bendeleriň köňüllerini bir-birine bagla hem olaryň öz islegl
 
 -- Bahá'u'lláh
 
-bpn11929 
+bpn11929 «[Türkmençe](../tk/prayers/#bpn11929)» 
 
 ----
 
@@ -257,7 +257,7 @@ Eý Perwerdigär! Günbatarly ýaranlaryň goluny Gündogarly dostlaryň goýnun
 
 -- Abdu'l-Bahá
 
-bpn11933 
+bpn11933 «[Türkmençe](../tk/prayers/#bpn11933)» 
 
 ----
 
@@ -267,7 +267,7 @@ Hu’Alla.    Eý Mähriban Taňrym! Bary bir taýpanyň agzasy hem Seniň derg�
 
 -- Abdu'l-Bahá
 
-bpn11932 
+bpn11932 «[Türkmençe](../tk/prayers/#bpn11932)» 
 
 ----
 
@@ -277,7 +277,7 @@ Hu’Alla.    Eý meniň Mähriban Taňrym! Seniň Rähmetli saýaňa üýşen b
 
 -- Abdu'l-Bahá
 
-bpn11931 
+bpn11931 «[Türkmençe](../tk/prayers/#bpn11931)» 
 
 ----
 
@@ -287,7 +287,7 @@ Hu’Alla.    Eý Perwerdigär! Ýarlary wysala ýetir, olary Öz bendeligiňe h
 
 -- Abdu'l-Bahá
 
-bpn11930 
+bpn11930 «[Türkmençe](../tk/prayers/#bpn11930)» 
 
 ----
 
@@ -301,7 +301,7 @@ bpn11930
 
 -- Bahá'u'lláh
 
-bpn11934 
+bpn11934 «[Türkmençe](../tk/prayers/#bpn11934)» 
 
 ----
 
@@ -311,7 +311,7 @@ Hu’Alla.    Eý Perwerdigär! Seniň dergähiň bu bendesiniň ene-atasyny Rä
 
 -- Abdu'l-Bahá
 
-bpn11935 
+bpn11935 «[Türkmençe](../tk/prayers/#bpn11935)» 
 
 ----
 
@@ -325,7 +325,7 @@ bpn11935
 
 -- Bahá'u'lláh
 
-bpn11938 
+bpn11938 «[Türkmençe](../tk/prayers/#bpn11938)» 
 
 ----
 
@@ -335,7 +335,7 @@ Hu’äl-Äbha.    Eý Taýsyz Taňry! Biz Seniň şermende bendeleriň, Sen bol
 
 -- Abdu'l-Bahá
 
-bpn11940 
+bpn11940 «[Türkmençe](../tk/prayers/#bpn11940)» 
 
 ----
 
@@ -345,7 +345,7 @@ Hu’ Alla    Eý älemiň Dilberi! Didäm didaryňa röwşen bolany üçin meni
 
 -- Abdu'l-Bahá
 
-bpn11939 
+bpn11939 «[Türkmençe](../tk/prayers/#bpn11939)» 
 
 ----
 
@@ -355,7 +355,7 @@ Hu’Alla.    Eý Perwerdigär! Sen bu awaralary Öz saýaňa saldyň we olaryň
 
 -- Abdu'l-Bahá
 
-bpn11941 
+bpn11941 «[Türkmençe](../tk/prayers/#bpn11941)» 
 
 ----
 
@@ -369,7 +369,7 @@ bpn11941
 
 -- Bahá'u'lláh
 
-bpn11914 
+bpn11914 «[Türkmençe](../tk/prayers/#bpn11914)» 
 
 ----
 
@@ -383,7 +383,7 @@ Senden özge tagzym etmeli Alla ýokdur!    Alkyş diňe Saňa laýykdyr, Eý me
 
 -- Bahá'u'lláh
 
-bpn11943 
+bpn11943 «[Türkmençe](../tk/prayers/#bpn11943)» 
 
 ----
 
@@ -393,7 +393,7 @@ bpn11943
 
 -- Bahá'u'lláh
 
-bpn11944 
+bpn11944 «[Türkmençe](../tk/prayers/#bpn11944)» 
 
 ----
 
@@ -403,7 +403,7 @@ Eý Seniň Adyň bilen şadyýanlyk deňzi tolkunyp, begenç şemaly öwüsýän
 
 -- Bahá'u'lláh
 
-bpn11945 
+bpn11945 «[Türkmençe](../tk/prayers/#bpn11945)» 
 
 ----
 
@@ -413,7 +413,7 @@ bpn11945
 
 -- Bahá'u'lláh
 
-bpn11942 
+bpn11942 «[Türkmençe](../tk/prayers/#bpn11942)» 
 
 ----
 
@@ -423,7 +423,7 @@ bpn11942
 
 -- Bahá'u'lláh
 
-bpn11946 
+bpn11946 «[Türkmençe](../tk/prayers/#bpn11946)» 
 
 ----
 
@@ -433,7 +433,7 @@ bpn11946
 
 -- Bahá'u'lláh
 
-bpn11947 
+bpn11947 «[Türkmençe](../tk/prayers/#bpn11947)» 
 
 ----
 
@@ -443,7 +443,7 @@ bpn11947
 
 -- Abdu'l-Bahá
 
-bpn11948 
+bpn11948 «[Türkmençe](../tk/prayers/#bpn11948)» 
 
 ----
 
@@ -453,7 +453,7 @@ Hu’Alla.    Eý meniň Taňrym, Eý meniň Umydym!    Bu nygmatlar üçin Saň
 
 -- Abdu'l-Bahá
 
-bpn11950 
+bpn11950 «[Türkmençe](../tk/prayers/#bpn11950)» 
 
 ----
 
@@ -463,7 +463,7 @@ Hu’Alla.    Eý meniň Taňrym, Eý meniň Umydym! Bu ruhany nahary, bu ylahy 
 
 -- Abdu'l-Bahá
 
-bpn11949 
+bpn11949 «[Türkmençe](../tk/prayers/#bpn11949)» 
 
 ----
 
@@ -477,7 +477,7 @@ Gorky hem umyt berýäniň ady bilen.    Ýaradanyň Baş Sözi budur: Siz hapal
 
 -- Bahá'u'lláh
 
-bpn11952 
+bpn11952 «[Türkmençe](../tk/prayers/#bpn11952)» 
 
 ----
 
@@ -487,7 +487,7 @@ bpn11952
 
 -- Bahá'u'lláh
 
-bpn11951 
+bpn11951 «[Türkmençe](../tk/prayers/#bpn11951)» 
 
 ----
 
@@ -497,7 +497,7 @@ bpn11951
 
 -- Bahá'u'lláh
 
-bpn11953 
+bpn11953 «[Türkmençe](../tk/prayers/#bpn11953)» 
 
 ----
 
@@ -511,7 +511,7 @@ Hu-äl-Äbha.    Ýa Hezreti Aly Ekber!     Hezreti Babyň şehid bolan günüdi
 
 -- Abdu'l-Bahá
 
-bpn12026 
+bpn12026 «[Türkmençe](../tk/prayers/#bpn12026)» 
 
 ----
 
@@ -525,7 +525,7 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
 
 -- Bahá'u'lláh
 
-bpn12022 
+bpn12022 «[Türkmençe](../tk/prayers/#bpn12022)» 
 
 ----
 
@@ -539,7 +539,7 @@ bpn12022
 
 -- Abdu'l-Bahá
 
-bpn11954 
+bpn11954 «[Türkmençe](../tk/prayers/#bpn11954)» 
 
 ----
 
@@ -549,7 +549,7 @@ Hu’äl-Äbha    Eý jandan geçen binyşan ýar! Müňlerçe akyldar Onuň gö
 
 -- Abdu'l-Bahá
 
-bpn11956 
+bpn11956 «[Türkmençe](../tk/prayers/#bpn11956)» 
 
 ----
 
@@ -559,7 +559,7 @@ Hu’äl-Äbha.    Barhudaýa! Sen bize şeýle bir jomartlyk etdiň, Sen bize �
 
 -- Abdu'l-Bahá
 
-bpn11955 
+bpn11955 «[Türkmençe](../tk/prayers/#bpn11955)» 
 
 ----
 
@@ -573,7 +573,7 @@ Hu’Alla.    Eý Mähriban Ýar, Eý Mukaddes Hudaý! Tükeniksiz Jomartlygyňd
 
 -- Abdu'l-Bahá
 
-bpn11957 
+bpn11957 «[Türkmençe](../tk/prayers/#bpn11957)» 
 
 ----
 
@@ -587,7 +587,7 @@ Bu namaz, jemagat bolup okalýan ýeke-täk namazdyr. Bu namazy başgalar ümsü
 
 -- Bahá'u'lláh
 
-bpn12019 
+bpn12019 «[Türkmençe](../tk/prayers/#bpn12019)» 
 
 ----
 
@@ -601,7 +601,7 @@ Sensiň Alla we Senden başga Alla ýokdur.    Ýa Ylahym! Päk we Mukaddes Sen 
 
 -- Báb
 
-bpn11958 
+bpn11958 «[Türkmençe](../tk/prayers/#bpn11958)» 
 
 ----
 
@@ -611,7 +611,7 @@ Alladan başga, işlerde rowaçlyk döredýän barmy?    Sözle! Päk we Mukadde
 
 -- Báb
 
-bpn11960 
+bpn11960 «[Türkmençe](../tk/prayers/#bpn11960)» 
 
 ----
 
@@ -621,7 +621,7 @@ Barhudaýa! Dogrudanam gaýgylary ýeňledýän, jepalary azaldýan, gam-gusany 
 
 -- Báb
 
-bpn11959 
+bpn11959 «[Türkmençe](../tk/prayers/#bpn11959)» 
 
 ----
 
@@ -631,7 +631,7 @@ Hu’Alla    Eý Binyýaz Mahbup! Bu ynsanlar Seniň ýaranlaryň we Seniň gapy
 
 -- Abdu'l-Bahá
 
-bpn11961 
+bpn11961 «[Türkmençe](../tk/prayers/#bpn11961)» 
 
 ----
 
@@ -641,7 +641,7 @@ Allah-u’Äbha.    Eý Hudaýa ýüz tutan! Gözleriňi bar zatlardan sowup, Ä
 
 -- Abdu'l-Bahá
 
-bpn11962 
+bpn11962 «[Türkmençe](../tk/prayers/#bpn11962)» 
 
 ----
 
@@ -655,7 +655,7 @@ Hu’äl-Äbha.    Men günäkär, Sen Ýalkaýjy. Gaflat pyýalasyndan meý-mes
 
 -- Abdu'l-Bahá
 
-bpn11983 
+bpn11983 «[Türkmençe](../tk/prayers/#bpn11983)» 
 
 ----
 
@@ -665,7 +665,7 @@ Hu’Alla.    Eý meniň Binyýaz Taňrym, Eý meniň syrlarymyň Mähremi, eý 
 
 -- Abdu'l-Bahá
 
-bpn11984 
+bpn11984 «[Türkmençe](../tk/prayers/#bpn11984)» 
 
 ----
 
@@ -675,7 +675,7 @@ Hu’äl-Äbha.    Eý Ýalkaýjy Taňry! Meniň janym Seniň işigiň çaňyna 
 
 -- Abdu'l-Bahá
 
-bpn11985 
+bpn11985 «[Türkmençe](../tk/prayers/#bpn11985)» 
 
 ----
 
@@ -685,7 +685,7 @@ Barhudaýa!     Bu Eýýamyň soňy, başyndan has ýagşy bolar ýaly hem ýaş
 
 -- Abdu'l-Bahá
 
-bpn11982 
+bpn11982 «[Türkmençe](../tk/prayers/#bpn11982)» 
 
 ----
 
@@ -695,7 +695,7 @@ Hu’Alla.    Eý Taýsyz Taňrym! Eý bigäneden, garyndaşdan, baglanşykdan P
 
 -- Abdu'l-Bahá
 
-bpn11981 
+bpn11981 «[Türkmençe](../tk/prayers/#bpn11981)» 
 
 ----
 
@@ -709,7 +709,7 @@ bpn11981
 
 -- Bahá'u'lláh
 
-bpn11963 
+bpn11963 «[Türkmençe](../tk/prayers/#bpn11963)» 
 
 ----
 
@@ -719,7 +719,7 @@ Hu’Alla.    Eý Taýsyz Taňry! Bu eziz dostuňy kabul et, başyny Ýalkaw tel
 
 -- Abdu'l-Bahá
 
-bpn11965 
+bpn11965 «[Türkmençe](../tk/prayers/#bpn11965)» 
 
 ----
 
@@ -729,7 +729,7 @@ Hu’Alla.    Eý geçirimli Taňrym! Bu bendeler erkana ynsanlardyr. Bu parlak 
 
 -- Abdu'l-Bahá
 
-bpn11968 
+bpn11968 «[Türkmençe](../tk/prayers/#bpn11968)» 
 
 ----
 
@@ -739,7 +739,7 @@ Hu’äl-Äbha.    Eý Perwerdigär! Bu päk janlar, bu toprak dünýeden bizar 
 
 -- Abdu'l-Bahá
 
-bpn11969 
+bpn11969 «[Türkmençe](../tk/prayers/#bpn11969)» 
 
 ----
 
@@ -749,7 +749,7 @@ Hu’Alla.    Eý Mähriban Taňrym! Bu Seniň gapyň işiginiň bendesi, jany b
 
 -- Abdu'l-Bahá
 
-bpn11970 
+bpn11970 «[Türkmençe](../tk/prayers/#bpn11970)» 
 
 ----
 
@@ -759,7 +759,7 @@ Hu’äl-Äbha.    Eý Perwerdigär, Eý Mähriban! Bu dostlar Seniň gapyň iş
 
 -- Abdu'l-Bahá
 
-bpn11967 
+bpn11967 «[Türkmençe](../tk/prayers/#bpn11967)» 
 
 ----
 
@@ -769,7 +769,7 @@ Hu’äl-Äbha.    Eý Ýalkaýjy, Eý Mähriban! Bu päk janlar toprak zyndanyn
 
 -- Abdu'l-Bahá
 
-bpn11966 
+bpn11966 «[Türkmençe](../tk/prayers/#bpn11966)» 
 
 ----
 
@@ -779,7 +779,7 @@ Oldur Allatagala.    Eý Perwerdigär, eý Ýalkaýjy! Bir eziz ynsan Seniň äg
 
 -- Abdu'l-Bahá
 
-bpn11964 
+bpn11964 «[Türkmençe](../tk/prayers/#bpn11964)» 
 
 ----
 
@@ -793,7 +793,7 @@ Eý Perwerdigär! Bu baglan ýanýoldaşlyk nikaňy berk et we bu bendäň bilen
 
 -- Abdu'l-Bahá
 
-bpn12017 
+bpn12017 «[Türkmençe](../tk/prayers/#bpn12017)» 
 
 ----
 
@@ -803,7 +803,7 @@ Hu’Alla.    Eý Taýsyz Taňrym! Adamzat nesli barlyk äleminde dowam etsin di
 
 -- Abdu'l-Bahá
 
-bpn12018 
+bpn12018 «[Türkmençe](../tk/prayers/#bpn12018)» 
 
 ----
 
@@ -817,7 +817,7 @@ Allanyň Jomart we Baý Ady bilen.    Zowaly bolmadyk, ezelden ebedä çenli ü�
 
 -- Bahá'u'lláh
 
-bpn12016 
+bpn12016 «[Türkmençe](../tk/prayers/#bpn12016)» 
 
 ----
 
@@ -831,7 +831,7 @@ Hu’Alla.    Barhudaýa! Bu dostlar Seniň ýarlaryň hem ähdi-peýman jamyňd
 
 -- Abdu'l-Bahá
 
-bpn12012 
+bpn12012 «[Türkmençe](../tk/prayers/#bpn12012)» 
 
 ----
 
@@ -845,7 +845,7 @@ Oldur Ägirt Uly.    Eý meniň Taňrym! Seniň yşkyňda Oraza tutup, öz nebis
 
 -- Bahá'u'lláh
 
-bpn12011 
+bpn12011 «[Türkmençe](../tk/prayers/#bpn12011)» 
 
 ----
 
@@ -859,7 +859,7 @@ bpn12011
 
 -- Bahá'u'lláh
 
-bpn11915 
+bpn11915 «[Türkmençe](../tk/prayers/#bpn11915)» 
 
 ----
 
@@ -873,7 +873,7 @@ Hu’Alla.    Eý Perwerdigär! Bu jem Seniň dostuňdyr hem olar Seniň Jemaly�
 
 -- Abdu'l-Bahá
 
-bpn11980 
+bpn11980 «[Türkmençe](../tk/prayers/#bpn11980)» 
 
 ----
 
@@ -883,7 +883,7 @@ Hu’Alla.    Eý Mähriban Hudaý! Biçäreleriň dadyna ýetiş. Eý Päk Taň
 
 -- Abdu'l-Bahá
 
-bpn11979 
+bpn11979 «[Türkmençe](../tk/prayers/#bpn11979)» 
 
 ----
 
@@ -893,7 +893,7 @@ Hu’Alla    Barhudaýa! Dinleriň, taýpalaryň we milletleriň arasyndaky jeň
 
 -- Abdu'l-Bahá
 
-bpn11978 
+bpn11978 «[Türkmençe](../tk/prayers/#bpn11978)» 
 
 ----
 
@@ -907,7 +907,7 @@ Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy ba
 
 -- Bahá'u'lláh
 
-bpn12013 
+bpn12013 «[Türkmençe](../tk/prayers/#bpn12013)» 
 
 ----
 
@@ -921,7 +921,7 @@ Kalbyma päklik ber, Eý meniň Taňrym! Ruhuma ynjalyk ber, Eý meniň Umydym! 
 
 -- Bahá'u'lláh
 
-bpn11986 
+bpn11986 «[Türkmençe](../tk/prayers/#bpn11986)» 
 
 ----
 
@@ -931,7 +931,7 @@ Sowuk çesmeleriň joşgunyndan dolan, Ylahy derýalaryň suwundan meni gandyr, 
 
 -- Bahá'u'lláh
 
-bpn11987 
+bpn11987 «[Türkmençe](../tk/prayers/#bpn11987)» 
 
 ----
 
@@ -941,7 +941,7 @@ Hu’äl-Äbha.    Uçur bagyň ol guşlaryny! Bossanyň ol bilbillerini saýram
 
 -- Abdu'l-Bahá
 
-bpn11989 
+bpn11989 «[Türkmençe](../tk/prayers/#bpn11989)» 
 
 ----
 
@@ -951,7 +951,7 @@ Barhudaýa!     Ruhumy täzeläp meni şat eýle. Köňlümi päkle we güýçle
 
 -- Abdu'l-Bahá
 
-bpn11991 
+bpn11991 «[Türkmençe](../tk/prayers/#bpn11991)» 
 
 ----
 
@@ -961,7 +961,7 @@ Hu’äl-Äbha.    Eý meniň Mähriban Taňrym! Eý meniň Janym, Eý meniň Ja
 
 -- Abdu'l-Bahá
 
-bpn11988 
+bpn11988 «[Türkmençe](../tk/prayers/#bpn11988)» 
 
 ----
 
@@ -971,7 +971,7 @@ Oldur tabanlaryň Tabany.    Eý meniň Mukaddes Taňrym! Bu hemişelik bendäň
 
 -- Abdu'l-Bahá
 
-bpn11990 
+bpn11990 «[Türkmençe](../tk/prayers/#bpn11990)» 
 
 ----
 
@@ -985,7 +985,7 @@ Eý Allanyň eziz kenizi! Bu pany dünýede ylahy synaglary görüp umydyňy ýi
 
 -- Bahá'u'lláh
 
-bpn11992 
+bpn11992 «[Türkmençe](../tk/prayers/#bpn11992)» 
 
 ----
 
@@ -995,7 +995,7 @@ Hu’äl-Äbha.    Eý Ylahy yşkynyň bossanynyň ter we täze nahallary! Takdy
 
 -- Abdu'l-Bahá
 
-bpn11994 
+bpn11994 «[Türkmençe](../tk/prayers/#bpn11994)» 
 
 ----
 
@@ -1005,7 +1005,7 @@ Eý hormatly ene! Eziz çagam aýryldy diýip, tutulma, gamgyn bolma. Çydam dil
 
 -- Abdu'l-Bahá
 
-bpn11993 
+bpn11993 «[Türkmençe](../tk/prayers/#bpn11993)» 
 
 ----
 
@@ -1019,7 +1019,7 @@ Oldur Uly şanly we Başarjaň Alla.    Bu günler Syýam günleridir hem-de yns
 
 -- Bahá'u'lláh
 
-bpn12015 
+bpn12015 «[Türkmençe](../tk/prayers/#bpn12015)» 
 
 ----
 
@@ -1029,7 +1029,7 @@ Oldur Eziz hem Jomart.    Eý meniň Mähriban Taňrym we Eý barlyk jahanyň So
 
 -- Bahá'u'lláh
 
-bpn12014 
+bpn12014 «[Türkmençe](../tk/prayers/#bpn12014)» 
 
 ----
 
@@ -1043,7 +1043,7 @@ bpn12014
 
 -- Bahá'u'lláh
 
-bpn11916 
+bpn11916 «[Türkmençe](../tk/prayers/#bpn11916)» 
 
 ----
 
@@ -1057,7 +1057,7 @@ Hu’Alla.    Eý meniň Taňrym! Eý Ýalkaýjy! Bu ýygnak Seniň zikriňe bez
 
 -- Abdu'l-Bahá
 
-bpn12001 
+bpn12001 «[Türkmençe](../tk/prayers/#bpn12001)» 
 
 ----
 
@@ -1067,7 +1067,7 @@ Hu’Alla.    Eý Ylahy dostlarym! Begenç we şadyýanlyk wagtydyr hem Ylahy h�
 
 -- Abdu'l-Bahá
 
-bpn12002 
+bpn12002 «[Türkmençe](../tk/prayers/#bpn12002)» 
 
 ----
 
@@ -1077,7 +1077,7 @@ Hu’Alla.    Eý Perwerdigär! Bu jemi Öz Rahmany Mähriňe nyşan eýle, Ylah
 
 -- Abdu'l-Bahá
 
-bpn12000 
+bpn12000 «[Türkmençe](../tk/prayers/#bpn12000)» 
 
 ----
 
@@ -1087,7 +1087,7 @@ Eý dostlar! Hudaýa şükür, söýgi çölünde awara, Alla yşkynda sergezdan
 
 -- Abdu'l-Bahá
 
-bpn11999 
+bpn11999 «[Türkmençe](../tk/prayers/#bpn11999)» 
 
 ----
 
@@ -1101,7 +1101,7 @@ Päk we Mukaddes Sen Eý meniň Taňrym.    Ýa Ylahym! Hikmet nuruny röwşen e
 
 -- Bahá'u'lláh
 
-bpn12006 
+bpn12006 «[Türkmençe](../tk/prayers/#bpn12006)» 
 
 ----
 
@@ -1111,7 +1111,7 @@ Hu’Alla.    Eý Perwerdigär! Meni oýar, meni hüşgär eýle. Meni Özüňde
 
 -- Abdu'l-Bahá
 
-bpn12008 
+bpn12008 «[Türkmençe](../tk/prayers/#bpn12008)» 
 
 ----
 
@@ -1121,7 +1121,7 @@ Hu’Alla.    Ýa Reb, Ýa Reb! Biz ejizdiris, Sen Güýçli hem Başarjaňsyň.
 
 -- Abdu'l-Bahá
 
-bpn12009 
+bpn12009 «[Türkmençe](../tk/prayers/#bpn12009)» 
 
 ----
 
@@ -1131,7 +1131,7 @@ Hu’Alla.    Eý meniň Taýsyz Taňrym! Eý Melekutyň Allahy! Bu ynsanlar Sen
 
 -- Abdu'l-Bahá
 
-bpn12007 
+bpn12007 «[Türkmençe](../tk/prayers/#bpn12007)» 
 
 ----
 
@@ -1145,7 +1145,7 @@ Eý sözüne berk bolan!    Kengan Ýusuby aýyň arşyna ýetmezdi, guýyň dü
 
 -- Abdu'l-Bahá
 
-bpn11936 
+bpn11936 «[Türkmençe](../tk/prayers/#bpn11936)» 
 
 ----
 
@@ -1155,7 +1155,7 @@ Ylahym, Ylahym!    Maňa sahylyk jamyny içir we ýüzümi hedaýat nury bilen r
 
 -- Abdu'l-Bahá
 
-bpn11937 
+bpn11937 «[Türkmençe](../tk/prayers/#bpn11937)» 
 
 ----
 
@@ -1169,7 +1169,7 @@ Hu’Alla!    Eý Taýsyz Taňry! Bu süýt emýän çagany Öz enaýat göwsü�
 
 -- Abdu'l-Bahá
 
-bpn11924 
+bpn11924 «[Türkmençe](../tk/prayers/#bpn11924)» 
 
 ----
 
@@ -1179,7 +1179,7 @@ Hu’Alla.    Ýa Reb! Ýa Reb! Bir ýaş çaga men. Mähir göwsünden emdir we
 
 -- Abdu'l-Bahá
 
-bpn11926 
+bpn11926 «[Türkmençe](../tk/prayers/#bpn11926)» 
 
 ----
 
@@ -1189,7 +1189,7 @@ Barhudaýa! Bir bigünä çaga men. Penaňda sakla, ýalka, Merhemet eýle, terb
 
 -- Abdu'l-Bahá
 
-bpn11927 
+bpn11927 «[Türkmençe](../tk/prayers/#bpn11927)» 
 
 ----
 
@@ -1199,7 +1199,7 @@ Hu’Alla.    Barhudaýa! Bu nowjuwany nurana kyl, bu binowany nowaly eýle. Sen
 
 -- Abdu'l-Bahá
 
-bpn11925 
+bpn11925 «[Türkmençe](../tk/prayers/#bpn11925)» 
 
 ----
 
@@ -1213,7 +1213,7 @@ bpn11925
 
 -- Bahá'u'lláh
 
-bpn11973 
+bpn11973 «[Türkmençe](../tk/prayers/#bpn11973)» 
 
 ----
 
@@ -1223,7 +1223,7 @@ bpn11973
 
 -- Bahá'u'lláh
 
-bpn11971 
+bpn11971 «[Türkmençe](../tk/prayers/#bpn11971)» 
 
 ----
 
@@ -1233,7 +1233,7 @@ bpn11971
 
 -- Bahá'u'lláh
 
-bpn11972 
+bpn11972 «[Türkmençe](../tk/prayers/#bpn11972)» 
 
 ----
 
@@ -1243,7 +1243,7 @@ Hu’äl-Äbha.    Eý Perwerdigär! Men günäkär bolsamda, Seniň Rehimiňe u
 
 -- Abdu'l-Bahá
 
-bpn11976 
+bpn11976 «[Türkmençe](../tk/prayers/#bpn11976)» 
 
 ----
 
@@ -1253,7 +1253,7 @@ Hu’Alla.    Eý Mähriban Taňrym! Boýdan-başa günäli biz. Seniň ýoluň 
 
 -- Abdu'l-Bahá
 
-bpn11975 
+bpn11975 «[Türkmençe](../tk/prayers/#bpn11975)» 
 
 ----
 
@@ -1263,7 +1263,7 @@ Hu’Alla.    Eý Hudaýa ýüz tutan! Gözüňi gaýyp Melekutyň Ululyk Älemi
 
 -- Abdu'l-Bahá
 
-bpn11974 
+bpn11974 «[Türkmençe](../tk/prayers/#bpn11974)» 
 
 ----
 
@@ -1277,7 +1277,7 @@ Hu’Alla.    Barhudaýa! Seniň ýaranlaryňy ýatlamakdan, ýekeje dem asuda d
 
 -- Abdu'l-Bahá
 
-bpn11977 
+bpn11977 «[Türkmençe](../tk/prayers/#bpn11977)» 
 
 ----
 
@@ -1291,7 +1291,7 @@ Hu’Alla.    Eý Hakyň bendesi! Ýazgydyňa razy bol we Seniň takdyryňda nä
 
 -- Abdu'l-Bahá
 
-bpn12004 
+bpn12004 «[Türkmençe](../tk/prayers/#bpn12004)» 
 
 ----
 
@@ -1301,7 +1301,7 @@ Oldur Ebedi Alla.    Ylahy! Sen görýänsiň, ägäsiň. Sen söýeg hem penasy
 
 -- Abdu'l-Bahá
 
-bpn12003 
+bpn12003 «[Türkmençe](../tk/prayers/#bpn12003)» 
 
 ----
 
@@ -1311,7 +1311,7 @@ Hu’äl-Äbha.    Barhudaýa! Köňlümde hem ruhumda Seniň razylygyň arzuwyn
 
 -- Abdu'l-Bahá
 
-bpn12005 
+bpn12005 «[Türkmençe](../tk/prayers/#bpn12005)» 
 
 ----
 
@@ -1325,7 +1325,7 @@ bpn12005
 
 -- Bahá'u'lláh
 
-bpn11996 
+bpn11996 «[Türkmençe](../tk/prayers/#bpn11996)» 
 
 ----
 
@@ -1335,7 +1335,7 @@ bpn11996
 
 -- Bahá'u'lláh
 
-bpn11995 
+bpn11995 «[Türkmençe](../tk/prayers/#bpn11995)» 
 
 ----
 
@@ -1345,7 +1345,7 @@ Ylahym, Ylahym! Seniň Baýlyk gapyňy maksat edinen bu garyby görýänsiň. Se
 
 -- Bahá'u'lláh
 
-bpn11997 
+bpn11997 «[Türkmençe](../tk/prayers/#bpn11997)» 
 
 ----
 
@@ -1355,7 +1355,7 @@ Hu’Alla.    Eý Perwerdigär! Bu ýaşaýyş suwuna suwsany Dirilik çeşmesin
 
 -- Abdu'l-Bahá
 
-bpn11998 
+bpn11998 «[Türkmençe](../tk/prayers/#bpn11998)» 
 
 ----
 
@@ -1369,7 +1369,7 @@ Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.    Seni çagyrýa
 
 -- Bahá'u'lláh
 
-bpn12024 
+bpn12024 «[Türkmençe](../tk/prayers/#bpn12024)» 
 
 ----
 
@@ -1383,7 +1383,7 @@ Bismi-el-Agzam!    Eý meniň Taňrym, Eý Ataşym, Eý Yşygym! Eý atlaryň E�
 
 -- Bahá'u'lláh
 
-bpn12010 
+bpn12010 «[Türkmençe](../tk/prayers/#bpn12010)» 
 
 ----
 

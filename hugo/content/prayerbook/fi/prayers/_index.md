@@ -5,7 +5,6 @@ tags = ['lang=fi', 'prayerbook']
 
 
 
-
 [Aamu](#Aamu)
 
 [Anteeksianto](#Anteeksianto)
@@ -98,7 +97,7 @@ Olen herännyt Sinun suojassasi, oi Jumalani, ja sen, joka tuota suojaa etsii, t
 
 -- Bahá'u'lláh
 
-bpn7487 
+bpn7487 «[Suomi](../fi/prayers/#bpn7487)» 
 
 ----
 
@@ -108,7 +107,7 @@ Oi Jumalani ja Mestarini! Olen palvelijasi ja palvelijasi poika. Olen noussut vu
 
 -- Bahá'u'lláh
 
-bpn7489 
+bpn7489 «[Suomi](../fi/prayers/#bpn7489)» 
 
 ----
 
@@ -118,7 +117,7 @@ Sinun armostasi olen noussut tänä aamuna, oi Jumalani, ja lähtenyt kotoani t�
 
 -- Bahá'u'lláh
 
-bpn7488 
+bpn7488 «[Suomi](../fi/prayers/#bpn7488)» 
 
 ----
 
@@ -132,7 +131,7 @@ Minä olen se, oi Herrani, joka on kääntänyt kasvonsa Sinua kohti ja kiinnitt
 
 -- Bahá'u'lláh
 
-bpn7490 
+bpn7490 «[Suomi](../fi/prayers/#bpn7490)» 
 
 ----
 
@@ -142,7 +141,7 @@ Ylistetty olet Sinä, oi Herra minun Jumalani! Rukoilen Sinua valittujesi ja usk
 
 -- Bahá'u'lláh
 
-bpn7491 
+bpn7491 «[Suomi](../fi/prayers/#bpn7491)» 
 
 ----
 
@@ -152,7 +151,7 @@ Ylistetty olkoon nimesi, oi Herra minun Jumalani! Rukoilen Sinua valtasi kautta,
 
 -- Bahá'u'lláh
 
-bpn7492 
+bpn7492 «[Suomi](../fi/prayers/#bpn7492)» 
 
 ----
 
@@ -162,7 +161,7 @@ Rukoilen Sinua suomaan minulle anteeksi, oi Herrani, jokaisen maininnan paitsi S
 
 -- Báb
 
-bpn7493 
+bpn7493 «[Suomi](../fi/prayers/#bpn7493)» 
 
 ----
 
@@ -172,7 +171,7 @@ Ylistys olkoon Sinun, oi Herrani! Suo meille anteeksi syntimme, ole meille armol
 
 -- Báb
 
-bpn7494 
+bpn7494 «[Suomi](../fi/prayers/#bpn7494)» 
 
 ----
 
@@ -182,7 +181,7 @@ Olen tietoinen siitä, oi Herra, että syntini ovat peittäneet kasvoni häpeä�
 
 -- Báb
 
-bpn7495 
+bpn7495 «[Suomi](../fi/prayers/#bpn7495)» 
 
 ----
 
@@ -192,7 +191,7 @@ Oi Jumalani! Anna anteliaisuutesi ja siunaustesi vuodatusten virrata tyköäsi, 
 
 -- Báb
 
-bpn7496 
+bpn7496 «[Suomi](../fi/prayers/#bpn7496)» 
 
 ----
 
@@ -202,7 +201,7 @@ Oi sinä anteeksi antava Herra! Sinä olet kaikkien näiden palvelijoittesi turv
 
 -- Abdu'l-Bahá
 
-bpn7497 
+bpn7497 «[Suomi](../fi/prayers/#bpn7497)» 
 
 ----
 
@@ -212,7 +211,7 @@ Oi Jumalani! Oi Jumalani! Totisesti rukoilen Sinua ja kynnykselläsi anon nöyr�
 
 -- Abdu'l-Bahá
 
-bpn7498 
+bpn7498 «[Suomi](../fi/prayers/#bpn7498)» 
 
 ----
 
@@ -226,7 +225,7 @@ Kunnia Sinulle, oi Jumalani! Yksi palvelijattaristasi, joka on uskonut Sinuun ja
 
 -- Bahá'u'lláh
 
-bpn7499 
+bpn7499 «[Suomi](../fi/prayers/#bpn7499)» 
 
 ----
 
@@ -236,7 +235,7 @@ Kiitetty olkoon Sinun nimesi, oi Herra minun Jumalani! Pyydän Sinulta hartaasti
 
 -- Bahá'u'lláh
 
-bpn7501 
+bpn7501 «[Suomi](../fi/prayers/#bpn7501)» 
 
 ----
 
@@ -246,7 +245,7 @@ Ylistetty olet Sinä, oi Herra, minun Jumalani! Vetoan Sinuun armosi myrskyisten
 
 -- Bahá'u'lláh
 
-bpn7502 
+bpn7502 «[Suomi](../fi/prayers/#bpn7502)» 
 
 ----
 
@@ -256,7 +255,7 @@ Jumalani, jota palvon ja rakastan! Todistan Sinun ykseydestäsi ja ainoudestasi 
 
 -- Bahá'u'lláh
 
-bpn7503 
+bpn7503 «[Suomi](../fi/prayers/#bpn7503)» 
 
 ----
 
@@ -266,7 +265,7 @@ Oi Jumala, joka olet kaikkien ilmaisijoiden luoja, kaikkien lähteiden lähde, k
 
 -- Bahá'u'lláh
 
-bpn7504 
+bpn7504 «[Suomi](../fi/prayers/#bpn7504)» 
 
 ----
 
@@ -276,7 +275,7 @@ Kunnia olkoon Sinulle, oi Herra, minun Jumalani! Älä alenna sitä, jonka ianka
 
 -- Bahá'u'lláh
 
-bpn7505 
+bpn7505 «[Suomi](../fi/prayers/#bpn7505)» 
 
 ----
 
@@ -286,7 +285,7 @@ Oi Jumala, minun Jumalani! Anon Sinulta parannuksesi valtameren ja armosi Päiv�
 
 -- Bahá'u'lláh
 
-bpn7500 
+bpn7500 «[Suomi](../fi/prayers/#bpn7500)» 
 
 ----
 
@@ -296,7 +295,7 @@ Herra! Säälittäviä me olemme, suo meille suosiosi, köyhiä, anna meille osu
 
 -- Abdu'l-Bahá
 
-bpn7506 
+bpn7506 «[Suomi](../fi/prayers/#bpn7506)» 
 
 ----
 
@@ -306,7 +305,7 @@ Oi sääliväinen Jumala! Kiitos olkoon Sinun, että olet herättänyt minut ja 
 
 -- Abdu'l-Bahá
 
-bpn7507 
+bpn7507 «[Suomi](../fi/prayers/#bpn7507)» 
 
 ----
 
@@ -316,7 +315,7 @@ Oi Herra, minun Jumalani ja turvani hädässä! Kilpeni ja suojani vaikeuksissan
 
 -- Abdu'l-Bahá
 
-bpn7508 
+bpn7508 «[Suomi](../fi/prayers/#bpn7508)» 
 
 ----
 
@@ -330,7 +329,7 @@ Kunnia olkoon Sinulle, oi Jumalani! Rukoilen Sinua nimesi, Kaikkein armeliaimman
 
 -- Bahá'u'lláh
 
-bpn7509 
+bpn7509 «[Suomi](../fi/prayers/#bpn7509)» 
 
 ----
 
@@ -340,7 +339,7 @@ Kunnia olkoon Sinun, oi maailman Herra ja kansakuntain Kaivattu, oi Sinä, joka 
 
 -- Bahá'u'lláh
 
-bpn7510 
+bpn7510 «[Suomi](../fi/prayers/#bpn7510)» 
 
 ----
 
@@ -350,7 +349,7 @@ Ylistetty ja kunnioitettu olet Sinä, oi Jumala! Suo, että Sinun pyhän läheis
 
 -- Báb
 
-bpn7511 
+bpn7511 «[Suomi](../fi/prayers/#bpn7511)» 
 
 ----
 
@@ -360,7 +359,7 @@ Oi Herra! Tee kaikki maailman kansat kykeneviksi pääsemään Sinun uskosi para
 
 -- Báb
 
-bpn7512 
+bpn7512 «[Suomi](../fi/prayers/#bpn7512)» 
 
 ----
 
@@ -370,7 +369,7 @@ Hän on Jumala!Oi Herra, minun Jumalani, Rakastettuni! Nämä ovat palvelijoitas
 
 -- Abdu'l-Bahá
 
-bpn7513 
+bpn7513 «[Suomi](../fi/prayers/#bpn7513)» 
 
 ----
 
@@ -380,7 +379,7 @@ Oi Sinä hyvä Herra! Nämä ovat palvelijoitasi, jotka ovat tulleet yhteen täh
 
 -- Abdu'l-Bahá
 
-bpn7538 
+bpn7538 «[Suomi](../fi/prayers/#bpn7538)» 
 
 ----
 
@@ -394,7 +393,7 @@ Oi Jumalani! Oi Jumalani! Yhdistä palvelijoittesi sydämet ja paljasta heille s
 
 -- Bahá'u'lláh
 
-bpn7514 
+bpn7514 «[Suomi](../fi/prayers/#bpn7514)» 
 
 ----
 
@@ -404,7 +403,7 @@ Oi Jumalani, Herrani ja Mestarini! Olen irrottautunut sukulaisistani ja Sinun ka
 
 -- Báb
 
-bpn7515 
+bpn7515 «[Suomi](../fi/prayers/#bpn7515)» 
 
 ----
 
@@ -414,7 +413,7 @@ Ylistetty olkoon nimesi, oi Herra meidän Jumalamme! Sinä olet toden totta näk
 
 -- Báb
 
-bpn7516 
+bpn7516 «[Suomi](../fi/prayers/#bpn7516)» 
 
 ----
 
@@ -424,7 +423,7 @@ bpn7516
 
 -- Abdu'l-Bahá
 
-bpn7517 
+bpn7517 «[Suomi](../fi/prayers/#bpn7517)» 
 
 ----
 
@@ -434,7 +433,7 @@ Oi Sinä verraton Jumala! Oi Sinä valtakunnan Herra! Nämä sielut ovat Sinun t
 
 -- Abdu'l-Bahá
 
-bpn7518 
+bpn7518 «[Suomi](../fi/prayers/#bpn7518)» 
 
 ----
 
@@ -444,7 +443,7 @@ Seuraavaa rukousta opettajien ja ystävien on tarkoitus lukea päivittäin:Oi Si
 
 -- Abdu'l-Bahá
 
-bpn7519 
+bpn7519 «[Suomi](../fi/prayers/#bpn7519)» 
 
 ----
 
@@ -454,7 +453,7 @@ Ken matkustaa eri puolille opettamaan, lukekoon vuorilla, autiomaassa, maalla ja
 
 -- Abdu'l-Bahá
 
-bpn7520 
+bpn7520 «[Suomi](../fi/prayers/#bpn7520)» 
 
 ----
 
@@ -464,7 +463,7 @@ bpn7520
 
 -- Abdu'l-Bahá
 
-bpn7521 
+bpn7521 «[Suomi](../fi/prayers/#bpn7521)» 
 
 ----
 
@@ -474,7 +473,7 @@ Oi Sinä armollinen Jumala! Oi Sinä, joka olet mahtava ja voimakas! Oi Sinä ka
 
 -- Abdu'l-Bahá
 
-bpn7522 
+bpn7522 «[Suomi](../fi/prayers/#bpn7522)» 
 
 ----
 
@@ -488,7 +487,7 @@ bpn7522
 
 -- Bahá'u'lláh
 
-bpn7599 
+bpn7599 «[Suomi](../fi/prayers/#bpn7599)» 
 
 ----
 
@@ -498,7 +497,7 @@ Oi Herrani, oi Herrani! Nämä kaksi kirkasta taivaankappaletta vihitään Sinun
 
 -- Abdu'l-Bahá
 
-bpn7602 
+bpn7602 «[Suomi](../fi/prayers/#bpn7602)» 
 
 ----
 
@@ -508,7 +507,7 @@ Kunnia olkoon Sinulle, oi Jumalani! Totisesti tämä Sinun palvelijasi ja tämä
 
 -- Abdu'l-Bahá
 
-bpn7600 
+bpn7600 «[Suomi](../fi/prayers/#bpn7600)» 
 
 ----
 
@@ -518,7 +517,7 @@ Hän on Jumala! Oi verraton Herra! Kaikkivaltiaassa viisaudessasi olet määrän
 
 -- Abdu'l-Bahá
 
-bpn7601 
+bpn7601 «[Suomi](../fi/prayers/#bpn7601)» 
 
 ----
 
@@ -532,7 +531,7 @@ Oi Jumala, minun Jumalani! Pyydän Sinua hartaasti tosi rakastajiesi veren kautt
 
 -- Bahá'u'lláh
 
-bpn7523 
+bpn7523 «[Suomi](../fi/prayers/#bpn7523)» 
 
 ----
 
@@ -542,7 +541,7 @@ Oi Herra! Tässä kaikkein ylhäisimmässä uskontojärjestelmässä Sinä hyvä
 
 -- Abdu'l-Bahá
 
-bpn7524 
+bpn7524 «[Suomi](../fi/prayers/#bpn7524)» 
 
 ----
 
@@ -552,7 +551,7 @@ Oi Jumala, minun Jumalani! Tämä palvelijattaresi kutsuu Sinua luottaen Sinuun,
 
 -- Abdu'l-Bahá
 
-bpn7525 
+bpn7525 «[Suomi](../fi/prayers/#bpn7525)» 
 
 ----
 
@@ -562,7 +561,7 @@ Herrani! Herrani! Minä ylistän Sinua ja kiitän Sinua siitä, millä olet suos
 
 -- Abdu'l-Bahá
 
-bpn7526 
+bpn7526 «[Suomi](../fi/prayers/#bpn7526)» 
 
 ----
 
@@ -576,7 +575,7 @@ bpn7526
 
 -- Bahá'u'lláh
 
-bpn7592 
+bpn7592 «[Suomi](../fi/prayers/#bpn7592)» 
 
 ----
 
@@ -590,7 +589,7 @@ bpn7592
 
 -- Báb
 
-bpn7591 
+bpn7591 «[Suomi](../fi/prayers/#bpn7591)» 
 
 ----
 
@@ -604,7 +603,7 @@ bpn7591
 
 -- Abdu'l-Bahá
 
-bpn7596 
+bpn7596 «[Suomi](../fi/prayers/#bpn7596)» 
 
 ----
 
@@ -614,7 +613,7 @@ bpn7596
 
 -- Abdu'l-Bahá
 
-bpn7597 
+bpn7597 «[Suomi](../fi/prayers/#bpn7597)» 
 
 ----
 
@@ -628,7 +627,7 @@ Ikuisuutesi sulotuoksuisista virroista anna minun juoda, oi Jumalani, ja olemass
 
 -- Bahá'u'lláh
 
-bpn7527 
+bpn7527 «[Suomi](../fi/prayers/#bpn7527)» 
 
 ----
 
@@ -638,7 +637,7 @@ Luo minuun puhdas sydän, oi Jumalani, ja uudista omantuntoni rauha, oi Toivoni.
 
 -- Bahá'u'lláh
 
-bpn7528 
+bpn7528 «[Suomi](../fi/prayers/#bpn7528)» 
 
 ----
 
@@ -648,7 +647,7 @@ Oi Herrani! Tee kauneudestasi ravintoni ja läheisyydestäsi juomani ja suosiost
 
 -- Bahá'u'lláh
 
-bpn7529 
+bpn7529 «[Suomi](../fi/prayers/#bpn7529)» 
 
 ----
 
@@ -658,7 +657,7 @@ Sano: “Oi Jumala, minun Jumalani! Kaunista pääni oikeudenmukaisuuden kruunul
 
 -- Bahá'u'lláh
 
-bpn7530 
+bpn7530 «[Suomi](../fi/prayers/#bpn7530)» 
 
 ----
 
@@ -668,7 +667,7 @@ Oi totuuden etsijä! Jos halajat, että Jumala avaa silmäsi, sinun on anottava 
 
 -- Abdu'l-Bahá
 
-bpn7531 
+bpn7531 «[Suomi](../fi/prayers/#bpn7531)» 
 
 ----
 
@@ -678,7 +677,7 @@ Oi Jumala, virvoita ja ilahduta henkeäni. Puhdista sydämeni. Kirkasta kykyni. 
 
 -- Abdu'l-Bahá
 
-bpn7532 
+bpn7532 «[Suomi](../fi/prayers/#bpn7532)» 
 
 ----
 
@@ -688,7 +687,7 @@ Oi Jumala, minun Jumalani! Varjele uskottuja palvelijoitasi itsekkyyden ja intoh
 
 -- Abdu'l-Bahá
 
-bpn7533 
+bpn7533 «[Suomi](../fi/prayers/#bpn7533)» 
 
 ----
 
@@ -698,7 +697,7 @@ Oi Herra, auta rakastettujasi harjaantumaan tiedoissa, tieteissä ja taiteissa s
 
 -- Abdu'l-Bahá
 
-bpn7534 
+bpn7534 «[Suomi](../fi/prayers/#bpn7534)» 
 
 ----
 
@@ -708,7 +707,7 @@ Oi Jumala, minun Jumalani! Auta, että uskotuilla palvelijoillasi olisi rakastav
 
 -- Abdu'l-Bahá
 
-bpn7535 
+bpn7535 «[Suomi](../fi/prayers/#bpn7535)» 
 
 ----
 
@@ -718,7 +717,7 @@ Oi Jumalani! Oi Jumalani! Olen palvelija, joka Sinuun viehättyneenä lähestyy 
 
 -- Abdu'l-Bahá
 
-bpn7536 
+bpn7536 «[Suomi](../fi/prayers/#bpn7536)» 
 
 ----
 
@@ -728,7 +727,7 @@ Oi jumalallinen Kaitselmus! Tämä kokous koostuu ystävistäsi, jotka ovat kaun
 
 -- Abdu'l-Bahá
 
-bpn7537 
+bpn7537 «[Suomi](../fi/prayers/#bpn7537)» 
 
 ----
 
@@ -742,7 +741,7 @@ Oi Sinä hyvä Jumala! Olet luonut koko ihmiskunnan samoista esivanhemmista. Ole
 
 -- Abdu'l-Bahá
 
-bpn7539 
+bpn7539 «[Suomi](../fi/prayers/#bpn7539)» 
 
 ----
 
@@ -756,7 +755,7 @@ Oi Jumalani, Mestarini, kaipuuni Kohde. Tämä palvelijasi halajaa nukkua Sinun 
 
 -- Bahá'u'lláh
 
-bpn7540 
+bpn7540 «[Suomi](../fi/prayers/#bpn7540)» 
 
 ----
 
@@ -766,7 +765,7 @@ Kuinka voin nukkua, oi Jumala, minun Jumalani, kun Sinua kaipaavien silmät valv
 
 -- Bahá'u'lláh
 
-bpn7541 
+bpn7541 «[Suomi](../fi/prayers/#bpn7541)» 
 
 ----
 
@@ -776,7 +775,7 @@ Sinä olet se, oi Jumalani, jonka nimien kautta sairaat parannetaan, vaivaiset v
 
 -- Bahá'u'lláh
 
-bpn7542 
+bpn7542 «[Suomi](../fi/prayers/#bpn7542)» 
 
 ----
 
@@ -790,7 +789,7 @@ Ylistys olkoon Sinun, oi Herra, minun Jumalani! Pyydän Sinua hartaasti nimeesi,
 
 -- Bahá'u'lláh
 
-bpn7543 
+bpn7543 «[Suomi](../fi/prayers/#bpn7543)» 
 
 ----
 
@@ -800,7 +799,7 @@ Oi Jumalani, moni viilentynyt sydän on saatettu hehkumaan Sinun asiasi tulella 
 
 -- Bahá'u'lláh
 
-bpn7544 
+bpn7544 «[Suomi](../fi/prayers/#bpn7544)» 
 
 ----
 
@@ -810,7 +809,7 @@ Oi Herra! Sinulta etsin turvapaikkaa ja kaikkia Sinun merkkejäsi kohti viritän
 
 -- Báb
 
-bpn7545 
+bpn7545 «[Suomi](../fi/prayers/#bpn7545)» 
 
 ----
 
@@ -824,7 +823,7 @@ Ylistetty olet Sinä, oi sääliväinen Herrani. Rukoilen Sinua pyhän ilmaisusi
 
 -- Bahá'u'lláh
 
-bpn7546 
+bpn7546 «[Suomi](../fi/prayers/#bpn7546)» 
 
 ----
 
@@ -838,7 +837,7 @@ Alkuhenki, jonka kautta kaikki henget ilmaistiin, ja alkuvalo, jonka kautta kaik
 
 -- Bahá'u'lláh
 
-bpn7608 
+bpn7608 «[Suomi](../fi/prayers/#bpn7608)» 
 
 ----
 
@@ -848,7 +847,7 @@ Oi Navváb! ... Oi lehvä, joka on versonut Minun puustani ja ollut Minun kumppa
 
 -- Bahá'u'lláh
 
-bpn7609 
+bpn7609 «[Suomi](../fi/prayers/#bpn7609)» 
 
 ----
 
@@ -862,7 +861,7 @@ Minä anon Sinun mahtisi kautta, oi Jumalani! Älä anna minkään pahan ahdista
 
 -- Báb
 
-bpn7547 
+bpn7547 «[Suomi](../fi/prayers/#bpn7547)» 
 
 ----
 
@@ -872,7 +871,7 @@ Jumalan, ylivoimaisen majesteettiuden Herran, Kaikkivoittavan nimeen.Pyhitetty o
 
 -- Báb
 
-bpn7548 
+bpn7548 «[Suomi](../fi/prayers/#bpn7548)» 
 
 ----
 
@@ -882,7 +881,7 @@ Oi Herrani! Sinä tiedät, että ihmiset ovat tuskien ja onnettomuuksien saartam
 
 -- Abdu'l-Bahá
 
-bpn7549 
+bpn7549 «[Suomi](../fi/prayers/#bpn7549)» 
 
 ----
 
@@ -896,7 +895,7 @@ bpn7549
 
 -- Bahá'u'lláh
 
-bpn7485 
+bpn7485 «[Suomi](../fi/prayers/#bpn7485)» 
 
 ----
 
@@ -910,7 +909,7 @@ Oi Sinä, jonka koettelemukset ovat parantava lääke Sinua lähellä oleville, 
 
 -- Bahá'u'lláh
 
-bpn7550 
+bpn7550 «[Suomi](../fi/prayers/#bpn7550)» 
 
 ----
 
@@ -920,7 +919,7 @@ Kunnia olkoon Sinun, oi Jumalani! Mistä muusta kuin Sinun tielläsi koetuista k
 
 -- Bahá'u'lláh
 
-bpn7551 
+bpn7551 «[Suomi](../fi/prayers/#bpn7551)» 
 
 ----
 
@@ -930,7 +929,7 @@ Onko muuta vaikeuksien poistajaa kuin Jumala? Sano: Ylistetty olkoon Jumala! Hä
 
 -- Báb
 
-bpn7552 
+bpn7552 «[Suomi](../fi/prayers/#bpn7552)» 
 
 ----
 
@@ -944,7 +943,7 @@ Hän on ikuinen! Tämä on todistukseni hänestä, joka on kuullut ääneni ja v
 
 -- Bahá'u'lláh
 
-bpn7605 
+bpn7605 «[Suomi](../fi/prayers/#bpn7605)» 
 
 ----
 
@@ -954,7 +953,7 @@ bpn7605
 
 -- Abdu'l-Bahá
 
-bpn7606 
+bpn7606 «[Suomi](../fi/prayers/#bpn7606)» 
 
 ----
 
@@ -968,7 +967,7 @@ Oi Jumala! Kasvata tätä pientä lapsosta rakkautesi povella ja anna sille mait
 
 -- Abdu'l-Bahá
 
-bpn7553 
+bpn7553 «[Suomi](../fi/prayers/#bpn7553)» 
 
 ----
 
@@ -978,7 +977,7 @@ Oi Jumala, opasta minua, suojele minua, tee minusta loistava lamppu ja kirkas t�
 
 -- Abdu'l-Bahá
 
-bpn7554 
+bpn7554 «[Suomi](../fi/prayers/#bpn7554)» 
 
 ----
 
@@ -988,7 +987,7 @@ Oi verraton Herra! Ole suojana tälle poloiselle lapselle ja hyvä ja anteeksian
 
 -- Abdu'l-Bahá
 
-bpn7555 
+bpn7555 «[Suomi](../fi/prayers/#bpn7555)» 
 
 ----
 
@@ -998,7 +997,7 @@ Oi Jumala! Kasvata näitä lapsia. Nämä lapset ovat Sinun hedelmätarhasi taim
 
 -- Abdu'l-Bahá
 
-bpn7556 
+bpn7556 «[Suomi](../fi/prayers/#bpn7556)» 
 
 ----
 
@@ -1008,7 +1007,7 @@ Oi Herrani! Oi Herrani! Olen pieni lapsukainen. Ravitse minua armeliaisuutesi ri
 
 -- Abdu'l-Bahá
 
-bpn7557 
+bpn7557 «[Suomi](../fi/prayers/#bpn7557)» 
 
 ----
 
@@ -1018,7 +1017,7 @@ Oi Herra! Olen lapsi, suo minun kasvaa laupeutesi siimeksessä. Olen hento kasvi
 
 -- Abdu'l-Bahá
 
-bpn7558 
+bpn7558 «[Suomi](../fi/prayers/#bpn7558)» 
 
 ----
 
@@ -1028,7 +1027,7 @@ Oi Sinä hyvä Herra! Suo näiden puiden tulla Abhá-paratiisin kaunistuksiksi. 
 
 -- Abdu'l-Bahá
 
-bpn7559 
+bpn7559 «[Suomi](../fi/prayers/#bpn7559)» 
 
 ----
 
@@ -1038,7 +1037,7 @@ Oi Sinä tosi Jumala! Suo, että näistä ohjauksesi virran rannalla versoneista
 
 -- Abdu'l-Bahá
 
-bpn7560 
+bpn7560 «[Suomi](../fi/prayers/#bpn7560)» 
 
 ----
 
@@ -1048,7 +1047,7 @@ Oi Sinä säälivä Herra! Oi sotajoukkojen Herra! Ylistys olkoon Sinulle, että
 
 -- Abdu'l-Bahá
 
-bpn7561 
+bpn7561 «[Suomi](../fi/prayers/#bpn7561)» 
 
 ----
 
@@ -1058,7 +1057,7 @@ Oi Herra! Istuta tämä hento taimi runsaiden antimiesi puutarhaan, kastele sit�
 
 -- Abdu'l-Bahá
 
-bpn7562 
+bpn7562 «[Suomi](../fi/prayers/#bpn7562)» 
 
 ----
 
@@ -1068,7 +1067,7 @@ Oi Sinä hyvä Herra! Suo taivaallista vahvistusta tälle valtakunnan tyttärell
 
 -- Abdu'l-Bahá
 
-bpn7563 
+bpn7563 «[Suomi](../fi/prayers/#bpn7563)» 
 
 ----
 
@@ -1078,7 +1077,7 @@ Oi Sinä loistavin Herra! Tee tästä pienestä palvelijattarestasi siunattu ja 
 
 -- Abdu'l-Bahá
 
-bpn7580 
+bpn7580 «[Suomi](../fi/prayers/#bpn7580)» 
 
 ----
 
@@ -1088,7 +1087,7 @@ Ylistys ja kunnia olkoon Sinun, oi Herra minun Jumalani! Tämä on valiotaimi, j
 
 -- Abdu'l-Bahá
 
-bpn7581 
+bpn7581 «[Suomi](../fi/prayers/#bpn7581)» 
 
 ----
 
@@ -1102,7 +1101,7 @@ Minä rukoilen Sinua kaikkein korkeimman nimesi kautta avaamaan palvelijoittesi 
 
 -- Bahá'u'lláh
 
-bpn7564 
+bpn7564 «[Suomi](../fi/prayers/#bpn7564)» 
 
 ----
 
@@ -1112,7 +1111,7 @@ Hän on Jumala!Oi Herra minun Jumalani! Oi Sinä heikkojen auttaja, köyhien tuk
 
 -- Abdu'l-Bahá
 
-bpn7565 
+bpn7565 «[Suomi](../fi/prayers/#bpn7565)» 
 
 ----
 
@@ -1126,7 +1125,7 @@ bpn7565
 
 -- Bahá'u'lláh
 
-bpn7486 
+bpn7486 «[Suomi](../fi/prayers/#bpn7486)» 
 
 ----
 
@@ -1140,7 +1139,7 @@ Oi Jumala, minun Jumalani! Sinä näet rakkaittesi kääntävän sydämensä puo
 
 -- Bahá'u'lláh
 
-bpn7566 
+bpn7566 «[Suomi](../fi/prayers/#bpn7566)» 
 
 ----
 
@@ -1154,7 +1153,7 @@ Ylistetty olet Sinä, oi Jumalani, että olet määrännyt Naw-Rúzin juhlapyhä
 
 -- Bahá'u'lláh
 
-bpn7589 
+bpn7589 «[Suomi](../fi/prayers/#bpn7589)» 
 
 ----
 
@@ -1164,7 +1163,7 @@ Oi Herra, minun Herrani!Tämä on päivä, jonka Sinun Pyhä kielesi ja Kirkkaud
 
 -- Abdu'l-Bahá
 
-bpn7590 
+bpn7590 «[Suomi](../fi/prayers/#bpn7590)» 
 
 ----
 
@@ -1178,7 +1177,7 @@ Kaikki ylistys olkoon Sinulle, oi Jumalani, joka olet kaiken kirkkauden ja majes
 
 -- Bahá'u'lláh
 
-bpn7567 
+bpn7567 «[Suomi](../fi/prayers/#bpn7567)» 
 
 ----
 
@@ -1188,7 +1187,7 @@ Oi Jumalani, auta palvelijaasi edistämään sanaasi ja kumoamaan turhanpäiväi
 
 -- Abdu'l-Bahá
 
-bpn7568 
+bpn7568 «[Suomi](../fi/prayers/#bpn7568)» 
 
 ----
 
@@ -1202,7 +1201,7 @@ bpn7568
 
 -- Bahá'u'lláh
 
-bpn7584 
+bpn7584 «[Suomi](../fi/prayers/#bpn7584)» 
 
 ----
 
@@ -1212,7 +1211,7 @@ Rukoilen Sinua, oi Jumalani, mahtavan merkkisi kautta ja ihmisten keskuudessa il
 
 -- Bahá'u'lláh
 
-bpn7587 
+bpn7587 «[Suomi](../fi/prayers/#bpn7587)» 
 
 ----
 
@@ -1222,7 +1221,7 @@ Nämä ovat ne päivät, oi Jumalani, joina olet velvoittanut palvelijasi noudat
 
 -- Bahá'u'lláh
 
-bpn7586 
+bpn7586 «[Suomi](../fi/prayers/#bpn7586)» 
 
 ----
 
@@ -1232,7 +1231,7 @@ bpn7586
 
 -- Bahá'u'lláh
 
-bpn7585 
+bpn7585 «[Suomi](../fi/prayers/#bpn7585)» 
 
 ----
 
@@ -1242,7 +1241,7 @@ Oi Jumalallinen kaitselmus! Samalla kun kieltäydyn ruumiin pyyteistä ja lakkaa
 
 -- Abdu'l-Bahá
 
-bpn7588 
+bpn7588 «[Suomi](../fi/prayers/#bpn7588)» 
 
 ----
 
@@ -1256,7 +1255,7 @@ Ylistys olkoon Sinulle, oi Herra minun Jumalani! Anon Sinua nimeesi, jonka kautt
 
 -- Bahá'u'lláh
 
-bpn11241 
+bpn11241 «[Suomi](../fi/prayers/#bpn11241)» 
 
 ----
 
@@ -1266,7 +1265,7 @@ Nimesi on parannukseni, oi Jumalani, ja muistamisesi lääkkeeni. Olla Sinua lä
 
 -- Bahá'u'lláh
 
-bpn7569 
+bpn7569 «[Suomi](../fi/prayers/#bpn7569)» 
 
 ----
 
@@ -1280,7 +1279,7 @@ Hän on Parantaja, Tyydyttäjä, Auttaja, Kaiken anteeksi antava, Kaikkein armel
 
 -- Bahá'u'lláh
 
-bpn7594 
+bpn7594 «[Suomi](../fi/prayers/#bpn7594)» 
 
 ----
 
@@ -1294,7 +1293,7 @@ bpn7594
 
 -- Bahá'u'lláh
 
-bpn7484 
+bpn7484 «[Suomi](../fi/prayers/#bpn7484)» 
 
 ----
 
@@ -1308,7 +1307,7 @@ Hän on Jumala, ylistetty olkoon Hän, laupeuden ja anteliaisuuden Herra!Ylistys
 
 -- Bahá'u'lláh
 
-bpn7570 
+bpn7570 «[Suomi](../fi/prayers/#bpn7570)» 
 
 ----
 
@@ -1318,7 +1317,7 @@ Hän on Jumala!Oi verraton Herra! Ylistetty olet Sinä tuon valon sytyttämisest
 
 -- Abdu'l-Bahá
 
-bpn7571 
+bpn7571 «[Suomi](../fi/prayers/#bpn7571)» 
 
 ----
 
@@ -1328,7 +1327,7 @@ Oi Jumalani! Oi Sinä syntien anteeksi antaja, lahjojen jakaja, kärsimysten kar
 
 -- Abdu'l-Bahá
 
-bpn7572 
+bpn7572 «[Suomi](../fi/prayers/#bpn7572)» 
 
 ----
 
@@ -1338,7 +1337,7 @@ Oi Jumalani! Oi Jumalani! Totisesti Sinun palvelijasi, nöyränä jumalallisen y
 
 -- Abdu'l-Bahá
 
-bpn7573 
+bpn7573 «[Suomi](../fi/prayers/#bpn7573)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ Oi sinä anteeksi antava Herra! Vaikka tietyt sielut päättivät elon päivät 
 
 -- Abdu'l-Bahá
 
-bpn7574 
+bpn7574 «[Suomi](../fi/prayers/#bpn7574)» 
 
 ----
 
@@ -1362,7 +1361,7 @@ Sinun, oi Jumalan oksa, olkoon Jumalan muisteleminen ja Hänen ylistyksensä ja 
 
 -- Bahá'u'lláh
 
-bpn7607 
+bpn7607 «[Suomi](../fi/prayers/#bpn7607)» 
 
 ----
 
@@ -1376,7 +1375,7 @@ bpn7607
 
 -- Bahá'u'lláh
 
-bpn7595 
+bpn7595 «[Suomi](../fi/prayers/#bpn7595)» 
 
 ----
 
@@ -1390,7 +1389,7 @@ bpn7595
 
 -- Abdu'l-Bahá
 
-bpn7575 
+bpn7575 «[Suomi](../fi/prayers/#bpn7575)» 
 
 ----
 
@@ -1404,7 +1403,7 @@ Oi Jumalani! Tämä on palvelijasi ja palvelijasi poika, joka on uskonut Sinuun 
 
 -- Bahá'u'lláh
 
-bpn7603 
+bpn7603 «[Suomi](../fi/prayers/#bpn7603)» 
 
 ----
 
@@ -1418,7 +1417,7 @@ Korotettu olkoon Sinun nimesi, oi Herra minun Jumalani! Sinä olet Hän, jota ka
 
 -- Bahá'u'lláh
 
-bpn7576 
+bpn7576 «[Suomi](../fi/prayers/#bpn7576)» 
 
 ----
 
@@ -1428,7 +1427,7 @@ Anon Sinua, oi Jumalani, ylhäisimmän Sanasi kautta, jonka olet määrännyt ka
 
 -- Bahá'u'lláh
 
-bpn11240 
+bpn11240 «[Suomi](../fi/prayers/#bpn11240)» 
 
 ----
 
@@ -1438,7 +1437,7 @@ Sano: Jumala tyydyttää kaiken yli kaiken, eikä taivaissa eikä maan päällä
 
 -- Báb
 
-bpn7577 
+bpn7577 «[Suomi](../fi/prayers/#bpn7577)» 
 
 ----
 
@@ -1452,7 +1451,7 @@ Jumalan, Ikiaikaisimman, Suurimman, nimeen.Totisesti vilpittömäin sydäntä ku
 
 -- Bahá'u'lláh
 
-bpn7593 
+bpn7593 «[Suomi](../fi/prayers/#bpn7593)» 
 
 ----
 
@@ -1466,7 +1465,7 @@ Valkeus ja kirkkaus, tervehdys ja ylistys olkoot Hänen asiansa kätten pääll�
 
 -- Bahá'u'lláh
 
-bpn7578 
+bpn7578 «[Suomi](../fi/prayers/#bpn7578)» 
 
 ----
 
@@ -1480,7 +1479,7 @@ bpn7578
 
 -- Bahá'u'lláh
 
-bpn7582 
+bpn7582 «[Suomi](../fi/prayers/#bpn7582)» 
 
 ----
 
@@ -1490,7 +1489,7 @@ bpn7582
 
 -- Abdu'l-Bahá
 
-bpn7583 
+bpn7583 «[Suomi](../fi/prayers/#bpn7583)» 
 
 ----
 
@@ -1504,7 +1503,7 @@ bpn7583
 
 -- Abdu'l-Bahá
 
-bpn7598 
+bpn7598 «[Suomi](../fi/prayers/#bpn7598)» 
 
 ----
 
@@ -1518,7 +1517,7 @@ Ylistetty olkoon Sinun nimesi, oi Herra minun Jumalani! Todistan, että olit kä
 
 -- Bahá'u'lláh
 
-bpn7579 
+bpn7579 «[Suomi](../fi/prayers/#bpn7579)» 
 
 ----
 

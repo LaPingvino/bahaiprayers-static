@@ -9,7 +9,6 @@ tags = ['lang=km', 'prayerbook']
 
 [Short Obligatory Prayer](#Short+Obligatory+Prayer)
 
-[Short Obligatory Prayer](#Short+Obligatory+Prayer)
 
 
 <a id="General+Prayers"></a> 
@@ -20,7 +19,7 @@ tags = ['lang=km', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn9108 
+bpn9108 «[ភាសាខ្មែរ](../km/prayers/#bpn9108)» 
 
 ----
 
@@ -30,7 +29,7 @@ bpn9108
 
 -- Bahá'u'lláh
 
-bpn9109 
+bpn9109 «[ភាសាខ្មែរ](../km/prayers/#bpn9109)» 
 
 ----
 
@@ -40,7 +39,7 @@ bpn9109
 
 -- Báb
 
-bpn9111 
+bpn9111 «[ភាសាខ្មែរ](../km/prayers/#bpn9111)» 
 
 ----
 
@@ -50,7 +49,7 @@ bpn9111
 
 -- Báb
 
-bpn9112 
+bpn9112 «[ភាសាខ្មែរ](../km/prayers/#bpn9112)» 
 
 ----
 
@@ -64,7 +63,7 @@ bpn9112
 
 -- Bahá'u'lláh
 
-bpn9110 
+bpn9110 «[ភាសាខ្មែរ](../km/prayers/#bpn9110)» 
 
 ----
 

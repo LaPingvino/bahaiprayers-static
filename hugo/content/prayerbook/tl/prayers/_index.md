@@ -77,7 +77,7 @@ tags = ['lang=tl', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn4537 
+bpn4537 «[Filipino](../tl/prayers/#bpn4537)» 
 
 ----
 
@@ -87,7 +87,7 @@ Purihin Ka, O Panginoon kong Diyos! Sumasamo ako sa Iyo sa Rebelasyon na ito na 
 
 -- Bahá'u'lláh
 
-bpn4538 
+bpn4538 «[Filipino](../tl/prayers/#bpn4538)» 
 
 ----
 
@@ -97,7 +97,7 @@ Ang mga ito, O aking Diyos, ang mga araw na ang Iyong mga tagapaglingkod ay inat
 
 -- Bahá'u'lláh
 
-bpn4539 
+bpn4539 «[Filipino](../tl/prayers/#bpn4539)» 
 
 ----
 
@@ -111,7 +111,7 @@ Sa Ngalan ng Diyos, ang Napakatanda, ang Pinakadakila.Tunay na ang mga puso ng m
 
 -- Bahá'u'lláh
 
-bpn4532 
+bpn4532 «[Filipino](../tl/prayers/#bpn4532)» 
 
 ----
 
@@ -125,7 +125,7 @@ Ang Tabletang ito ay binabasa sa mga Dambana ni Bahá’u’lláh at ng Báb.
 
 -- Bahá'u'lláh
 
-bpn4534 
+bpn4534 «[Filipino](../tl/prayers/#bpn4534)» 
 
 ----
 
@@ -135,7 +135,7 @@ Ang dalanging ito, na inihayag ni ‘Abdu’l-Bahá, ay binabasa sa Kaniyang Da
 
 -- Abdu'l-Bahá
 
-bpn4535 
+bpn4535 «[Filipino](../tl/prayers/#bpn4535)» 
 
 ----
 
@@ -149,7 +149,7 @@ bpn4535
 
 -- Bahá'u'lláh
 
-bpn4533 
+bpn4533 «[Filipino](../tl/prayers/#bpn4533)» 
 
 ----
 
@@ -163,7 +163,7 @@ Luwalhatiin Ka, O Hari ng kawalang hanggan, at Maylikha ng mga bansa, at Mayhabi
 
 -- Bahá'u'lláh
 
-bpn4379 
+bpn4379 «[Filipino](../tl/prayers/#bpn4379)» 
 
 ----
 
@@ -173,7 +173,7 @@ Siya ang Makapangyarihan, ang Nagpapatawad, ang Mahabagin!O Diyos, aking Diyos! 
 
 -- Abdu'l-Bahá
 
-bpn4380 
+bpn4380 «[Filipino](../tl/prayers/#bpn4380)» 
 
 ----
 
@@ -183,7 +183,7 @@ Patatagin ang aming mga hakbang, O Panginoon, sa Iyong landas at palakasin Mo an
 
 -- Abdu'l-Bahá
 
-bpn4381 
+bpn4381 «[Filipino](../tl/prayers/#bpn4381)» 
 
 ----
 
@@ -193,7 +193,7 @@ O Mahabaging Diyos! Salamat sa Iyo dahil sa ginising Mo ako at binigyan ng kamal
 
 -- Abdu'l-Bahá
 
-bpn4382 
+bpn4382 «[Filipino](../tl/prayers/#bpn4382)» 
 
 ----
 
@@ -203,7 +203,7 @@ O aking Panginoon at aking Pag-asa! Tulungan Mo ang Iyong mga minamahal na magin
 
 -- Abdu'l-Bahá
 
-bpn4383 
+bpn4383 «[Filipino](../tl/prayers/#bpn4383)» 
 
 ----
 
@@ -217,7 +217,7 @@ Buhat sa humahalimuyak na mga batis ng Iyong kawalang-hanggan, bigyan Mo ako ng 
 
 -- Bahá'u'lláh
 
-bpn4394 
+bpn4394 «[Filipino](../tl/prayers/#bpn4394)» 
 
 ----
 
@@ -227,7 +227,7 @@ Likhain Mo sa akin ang isang pusong dalisay, O aking Diyos, at gawin Mong paniba
 
 -- Bahá'u'lláh
 
-bpn4395 
+bpn4395 «[Filipino](../tl/prayers/#bpn4395)» 
 
 ----
 
@@ -237,7 +237,7 @@ Siya ang Magandang-loob, ang Mapagpala sa Lahat!O Diyos, aking Diyos! Ang Iyong 
 
 -- Bahá'u'lláh
 
-bpn4396 
+bpn4396 «[Filipino](../tl/prayers/#bpn4396)» 
 
 ----
 
@@ -247,7 +247,7 @@ O Aking Panginoon! Ang Iyong kagandahan ay gawin Mong aking pagkain at ang pagka
 
 -- Bahá'u'lláh
 
-bpn4397 
+bpn4397 «[Filipino](../tl/prayers/#bpn4397)» 
 
 ----
 
@@ -257,7 +257,7 @@ Purihin nawa ang Iyong Pangalan, O Panginoon kong Diyos! Ako ang Iyong tagapagli
 
 -- Bahá'u'lláh
 
-bpn4398 
+bpn4398 «[Filipino](../tl/prayers/#bpn4398)» 
 
 ----
 
@@ -267,7 +267,7 @@ O aking Diyos, ang Diyos ng pagpapala at kahabagan! Ikaw yaong Haring sa pamamag
 
 -- Bahá'u'lláh
 
-bpn4399 
+bpn4399 «[Filipino](../tl/prayers/#bpn4399)» 
 
 ----
 
@@ -277,7 +277,7 @@ Siya ang Diyos na dumidinig sa dalangin, ang Diyos na tumutugon sa dalangin!Saks
 
 -- Bahá'u'lláh
 
-bpn4400 
+bpn4400 «[Filipino](../tl/prayers/#bpn4400)» 
 
 ----
 
@@ -287,7 +287,7 @@ Ipagkaloob sa akin, O aking Diyos, ang kabuuang sukat ng Iyong pag-ibig at Iyong
 
 -- Báb
 
-bpn4402 
+bpn4402 «[Filipino](../tl/prayers/#bpn4402)» 
 
 ----
 
@@ -297,7 +297,7 @@ O Diyos, aking Diyos! Ito ang Iyong mahihinang mga tagapaglingkod; sila ang Iyon
 
 -- Abdu'l-Bahá
 
-bpn4408 
+bpn4408 «[Filipino](../tl/prayers/#bpn4408)» 
 
 ----
 
@@ -307,7 +307,7 @@ O Diyos, panariwain at bigyang-galak ang aking espiritu. Dalisayin ang aking pus
 
 -- Abdu'l-Bahá
 
-bpn4403 
+bpn4403 «[Filipino](../tl/prayers/#bpn4403)» 
 
 ----
 
@@ -317,7 +317,7 @@ O aking Diyos! O aking Diyos! Luwalhatiin Ka dahil sa pinagtibay Mo ako sa pagha
 
 -- Abdu'l-Bahá
 
-bpn4404 
+bpn4404 «[Filipino](../tl/prayers/#bpn4404)» 
 
 ----
 
@@ -327,7 +327,7 @@ O aking Panginoon! O aking Panginoon! Ito ay isang ilawang pinagsindi ng apoy ng
 
 -- Abdu'l-Bahá
 
-bpn4405 
+bpn4405 «[Filipino](../tl/prayers/#bpn4405)» 
 
 ----
 
@@ -337,7 +337,7 @@ O aking Diyos! O aking Diyos! Ito ang Iyong tagapaglingkod, ay sumulong tungo sa
 
 -- Abdu'l-Bahá
 
-bpn4406 
+bpn4406 «[Filipino](../tl/prayers/#bpn4406)» 
 
 ----
 
@@ -347,7 +347,7 @@ O Diyos, aking Diyos! Ito ang Iyong nagniningning na tagapaglingkod, ang Iyong e
 
 -- Abdu'l-Bahá
 
-bpn4407 
+bpn4407 «[Filipino](../tl/prayers/#bpn4407)» 
 
 ----
 
@@ -357,7 +357,7 @@ Siya ay Diyos! O Diyos, aking Diyos! Ang mga ito ay tagapaglingkod Mo na naaakit
 
 -- Abdu'l-Bahá
 
-bpn4409 
+bpn4409 «[Filipino](../tl/prayers/#bpn4409)» 
 
 ----
 
@@ -367,7 +367,7 @@ O Ikaw na Nagkakaloob! Ihininga Mo sa mga kaibigan sa Kanluran ang matamis na sa
 
 -- Abdu'l-Bahá
 
-bpn4410 
+bpn4410 «[Filipino](../tl/prayers/#bpn4410)» 
 
 ----
 
@@ -381,7 +381,7 @@ O aking Diyos, aking Panginoon, Hantungan ng aking hangarin! Ito, ang Iyong taga
 
 -- Bahá'u'lláh
 
-bpn4411 
+bpn4411 «[Filipino](../tl/prayers/#bpn4411)» 
 
 ----
 
@@ -391,7 +391,7 @@ Paano ko mapipiling tumulog, O Diyos, aking Diyos, samantalang ang mga mata nila
 
 -- Bahá'u'lláh
 
-bpn4412 
+bpn4412 «[Filipino](../tl/prayers/#bpn4412)» 
 
 ----
 
@@ -401,7 +401,7 @@ bpn4412
 
 -- Abdu'l-Bahá
 
-bpn4413 
+bpn4413 «[Filipino](../tl/prayers/#bpn4413)» 
 
 ----
 
@@ -415,7 +415,7 @@ bpn4413
 
 -- Abdu'l-Bahá
 
-bpn4414 
+bpn4414 «[Filipino](../tl/prayers/#bpn4414)» 
 
 ----
 
@@ -425,7 +425,7 @@ Panginoon! Kahabag-habag kami, kaya’t pagkalooban Mo kami ng Iyong tangkilik; 
 
 -- Abdu'l-Bahá
 
-bpn4415 
+bpn4415 «[Filipino](../tl/prayers/#bpn4415)» 
 
 ----
 
@@ -439,7 +439,7 @@ Nasa kaluwalhatian Ka, O Panginoon kong Diyos! Ipinamamanhik Ko sa Iyo, sa pamam
 
 -- Bahá'u'lláh
 
-bpn4416 
+bpn4416 «[Filipino](../tl/prayers/#bpn4416)» 
 
 ----
 
@@ -449,7 +449,7 @@ Ako siya, O aking Panginoon, na nagtuon ng Kaniyang mukha tungo sa Iyo, at nagpa
 
 -- Bahá'u'lláh
 
-bpn4417 
+bpn4417 «[Filipino](../tl/prayers/#bpn4417)» 
 
 ----
 
@@ -459,7 +459,7 @@ Nakikita Mo ako, O aking Panginoon, na ang aking mukha ay nakabaling sa langit n
 
 -- Bahá'u'lláh
 
-bpn4418 
+bpn4418 «[Filipino](../tl/prayers/#bpn4418)» 
 
 ----
 
@@ -469,7 +469,7 @@ Luwalhatiin Ka nawa, O Panginoon kong Diyos! Tuwing nangangahas akong banggitin 
 
 -- Bahá'u'lláh
 
-bpn4419 
+bpn4419 «[Filipino](../tl/prayers/#bpn4419)» 
 
 ----
 
@@ -479,7 +479,7 @@ Purihin nawa ang Iyong Pangalan, O aking Diyos at Diyos ng lahat ng bagay, aking
 
 -- Bahá'u'lláh
 
-bpn4420 
+bpn4420 «[Filipino](../tl/prayers/#bpn4420)» 
 
 ----
 
@@ -489,7 +489,7 @@ Nagsusumamo ako na patawarin Mo ako, O aking Panginoon, sa bawat pagbanggit liba
 
 -- Báb
 
-bpn4423 
+bpn4423 «[Filipino](../tl/prayers/#bpn4423)» 
 
 ----
 
@@ -499,7 +499,7 @@ O Diyos na aming Panginoon! Pangalagaan kami sa pamamagitan ng Iyong biyaya mula
 
 -- Báb
 
-bpn4421 
+bpn4421 «[Filipino](../tl/prayers/#bpn4421)» 
 
 ----
 
@@ -509,7 +509,7 @@ Purihin Ka, O Panginoon! Patawarin kami sa aming mga kasalanan, kaawaan kami at 
 
 -- Báb
 
-bpn4422 
+bpn4422 «[Filipino](../tl/prayers/#bpn4422)» 
 
 ----
 
@@ -519,7 +519,7 @@ Luwalhati sa Iyo, O Diyos! Paano ako makababanggit ng ukol sa Iyo samantalang Ik
 
 -- Báb
 
-bpn4424 
+bpn4424 «[Filipino](../tl/prayers/#bpn4424)» 
 
 ----
 
@@ -529,7 +529,7 @@ O Ikaw na mapagpatawad na Panginoon! Ikaw ang kanlungan ng lahat ng mga ito na I
 
 -- Abdu'l-Bahá
 
-bpn4425 
+bpn4425 «[Filipino](../tl/prayers/#bpn4425)» 
 
 ----
 
@@ -543,7 +543,7 @@ Dapat usalin sa umaga, sa tanghali at sa gabi *Sinuman ang nagnanais manalangin,
 
 -- Bahá'u'lláh
 
-bpn4377 
+bpn4377 «[Filipino](../tl/prayers/#bpn4377)» 
 
 ----
 
@@ -557,7 +557,7 @@ O Ikaw na ang pagkalapit sa Iyo ay siyang aking nais, na ang pagkamalas sa Iyo a
 
 -- Bahá'u'lláh
 
-bpn4427 
+bpn4427 «[Filipino](../tl/prayers/#bpn4427)» 
 
 ----
 
@@ -567,7 +567,7 @@ O Diyos, aking Diyos! Buong pagbabalik-loob na nagbaling ako sa Iyo at tunay na 
 
 -- Bahá'u'lláh
 
-bpn4428 
+bpn4428 «[Filipino](../tl/prayers/#bpn4428)» 
 
 ----
 
@@ -577,7 +577,7 @@ Luwalhatiin nawa ang Iyong Panga lan, O Panginoon kong Diyos! Isinasamo ko sa Iy
 
 -- Bahá'u'lláh
 
-bpn4426 
+bpn4426 «[Filipino](../tl/prayers/#bpn4426)» 
 
 ----
 
@@ -587,7 +587,7 @@ Purihin Ka nawa, O Panginoon, aking Pinakamamahal! Gawin akong matatag sa Iyong 
 
 -- Báb
 
-bpn4429 
+bpn4429 «[Filipino](../tl/prayers/#bpn4429)» 
 
 ----
 
@@ -597,7 +597,7 @@ Purihin at luwalhatiin Ka, O Diyos! Tulutan na ang araw ng pagtatamo sa Iyong ba
 
 -- Báb
 
-bpn4430 
+bpn4430 «[Filipino](../tl/prayers/#bpn4430)» 
 
 ----
 
@@ -607,7 +607,7 @@ O Panginoon kong Diyos! Tulungan Mo ang Iyong mga minamahal na maging matatag sa
 
 -- Abdu'l-Bahá
 
-bpn4431 
+bpn4431 «[Filipino](../tl/prayers/#bpn4431)» 
 
 ----
 
@@ -617,7 +617,7 @@ O Ikaw, aking Diyos, Ikaw na namamatnubay sa naghahanap patungo sa landas na nag
 
 -- Abdu'l-Bahá
 
-bpn4432 
+bpn4432 «[Filipino](../tl/prayers/#bpn4432)» 
 
 ----
 
@@ -631,7 +631,7 @@ Dapat usalin minsan sa dalawampu&#39;t apat na oras*Sinumang nagnanais na umusal
 
 -- Bahá'u'lláh
 
-bpn4378 
+bpn4378 «[Filipino](../tl/prayers/#bpn4378)» 
 
 ----
 
@@ -641,7 +641,7 @@ bpn4378
 
 -- Bahá'u'lláh
 
-bpn4376 
+bpn4376 «[Filipino](../tl/prayers/#bpn4376)» 
 
 ----
 
@@ -655,7 +655,7 @@ Purihin ka nawa, O Panginoon aking Diyos! Magiliw na ipahintulot na ang sanggol 
 
 -- Bahá'u'lláh
 
-bpn4384 
+bpn4384 «[Filipino](../tl/prayers/#bpn4384)» 
 
 ----
 
@@ -665,7 +665,7 @@ Luwalhati Ka nawa, O Panginoon kong Diyos! Nagpapasalamat ako sa Iyo dahil nilik
 
 -- Bahá'u'lláh
 
-bpn4401 
+bpn4401 «[Filipino](../tl/prayers/#bpn4401)» 
 
 ----
 
@@ -675,7 +675,7 @@ O ikaw na walang kahambing na Panginoon! Tulutang maalagaan ang pasusuhing sangg
 
 -- Abdu'l-Bahá
 
-bpn4385 
+bpn4385 «[Filipino](../tl/prayers/#bpn4385)» 
 
 ----
 
@@ -685,7 +685,7 @@ O Diyos! Palakihin ang munting sanggol na ito sa sinapupunan ng Iyong pag-ibig a
 
 -- Abdu'l-Bahá
 
-bpn4386 
+bpn4386 «[Filipino](../tl/prayers/#bpn4386)» 
 
 ----
 
@@ -695,7 +695,7 @@ O Diyos! Turuan ang mga batang ito. Ang mga batang ito ang mga pananim sa Iyong 
 
 -- Abdu'l-Bahá
 
-bpn4387 
+bpn4387 «[Filipino](../tl/prayers/#bpn4387)» 
 
 ----
 
@@ -705,7 +705,7 @@ O Ikaw na matulunging na Pangnoon! Ang mga kaibig-ibig na mga batang ito ay gawa
 
 -- Abdu'l-Bahá
 
-bpn4388 
+bpn4388 «[Filipino](../tl/prayers/#bpn4388)» 
 
 ----
 
@@ -715,7 +715,7 @@ O Panginoon! Gawin ang mga batang ito na maging napakagaling na mga halaman. Hay
 
 -- Abdu'l-Bahá
 
-bpn4389 
+bpn4389 «[Filipino](../tl/prayers/#bpn4389)» 
 
 ----
 
@@ -725,7 +725,7 @@ Siya ay Diyos! O Diyos, aking Diyos! Pagkalooban Mo ako ng isang dalisay na puso
 
 -- Abdu'l-Bahá
 
-bpn4390 
+bpn4390 «[Filipino](../tl/prayers/#bpn4390)» 
 
 ----
 
@@ -735,7 +735,7 @@ O Diyos, patnubayan Mo ako, pangalagaan Mo ako, pagningasin ang tanglaw ng aking
 
 -- Abdu'l-Bahá
 
-bpn4391 
+bpn4391 «[Filipino](../tl/prayers/#bpn4391)» 
 
 ----
 
@@ -745,7 +745,7 @@ O aking Panginoon! O aking Panginoon!Ako ay isang batang may murang  gulang. Pas
 
 -- Abdu'l-Bahá
 
-bpn4392 
+bpn4392 «[Filipino](../tl/prayers/#bpn4392)» 
 
 ----
 
@@ -755,7 +755,7 @@ O Panginoon! Paningningin ang kabataan ito, at ipagkaloob ang Iyong biyaya sa ka
 
 -- Abdu'l-Bahá
 
-bpn4393 
+bpn4393 «[Filipino](../tl/prayers/#bpn4393)» 
 
 ----
 
@@ -769,7 +769,7 @@ O Ikaw na maawaing Diyos! O Ikaw na makapangyarihan at malakas! O Ikaw na pinaka
 
 -- Abdu'l-Bahá
 
-bpn4454 
+bpn4454 «[Filipino](../tl/prayers/#bpn4454)» 
 
 ----
 
@@ -779,7 +779,7 @@ O Ikaw na mahabaging Panginoon! Ito ay Iyong mga tagapaglingkod na nagsipagtipon
 
 -- Abdu'l-Bahá
 
-bpn4455 
+bpn4455 «[Filipino](../tl/prayers/#bpn4455)» 
 
 ----
 
@@ -789,7 +789,7 @@ O Ikaw na mapagpatawad na Diyos! Ang mga tagapaglingkod na ito ay nagsisibaling 
 
 -- Abdu'l-Bahá
 
-bpn4456 
+bpn4456 «[Filipino](../tl/prayers/#bpn4456)» 
 
 ----
 
@@ -799,7 +799,7 @@ O Banal ns Pagpapala! Ang lupong ito ay binubuo ng Iyong mga kaibigan na naaakit
 
 -- Abdu'l-Bahá
 
-bpn4457 
+bpn4457 «[Filipino](../tl/prayers/#bpn4457)» 
 
 ----
 
@@ -813,7 +813,7 @@ Luwalhatiin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo na patawarin Mo ako 
 
 -- Báb
 
-bpn4475 
+bpn4475 «[Filipino](../tl/prayers/#bpn4475)» 
 
 ----
 
@@ -823,7 +823,7 @@ Sumasamo ako sa Iyong kapatawaran, O aking Diyos, at nagsusumamo ng paumanhin tu
 
 -- Báb
 
-bpn4476 
+bpn4476 «[Filipino](../tl/prayers/#bpn4476)» 
 
 ----
 
@@ -833,7 +833,7 @@ O Panginoon! Sa Pinakadakilang Dispensasyon na ito ay tinatanggap Mo na mamagita
 
 -- Abdu'l-Bahá
 
-bpn4477 
+bpn4477 «[Filipino](../tl/prayers/#bpn4477)» 
 
 ----
 
@@ -843,7 +843,7 @@ O Diyos, aking Diyos! Itong Iyong babaeng naglilingkod ay tumatawag sa Iyo, nagt
 
 -- Abdu'l-Bahá
 
-bpn4478 
+bpn4478 «[Filipino](../tl/prayers/#bpn4478)» 
 
 ----
 
@@ -853,7 +853,7 @@ Aking Panginoon! Aking Panginoon! Pinupuri Kita at pinasasalamatan Kita para doo
 
 -- Abdu'l-Bahá
 
-bpn4479 
+bpn4479 «[Filipino](../tl/prayers/#bpn4479)» 
 
 ----
 
@@ -867,7 +867,7 @@ bpn4479
 
 -- Bahá'u'lláh
 
-bpn4540 
+bpn4540 «[Filipino](../tl/prayers/#bpn4540)» 
 
 ----
 
@@ -881,7 +881,7 @@ bpn4540
 
 -- Bahá'u'lláh
 
-bpn4433 
+bpn4433 «[Filipino](../tl/prayers/#bpn4433)» 
 
 ----
 
@@ -891,7 +891,7 @@ Luwalhati sa Iyo, O aking Diyos! Tunay, ang Iyong tagapaglingkod at Iyong babaen
 
 -- Abdu'l-Bahá
 
-bpn4434 
+bpn4434 «[Filipino](../tl/prayers/#bpn4434)» 
 
 ----
 
@@ -901,7 +901,7 @@ Siya ay Diyos! O walang kapantay na Panginoon! Sa Iyong dunong na makapangyariha
 
 -- Abdu'l-Bahá
 
-bpn4435 
+bpn4435 «[Filipino](../tl/prayers/#bpn4435)» 
 
 ----
 
@@ -911,7 +911,7 @@ O aking Panginoon, O aking Panginoon! Itong dalawang maningning na liwanag ay pi
 
 -- Abdu'l-Bahá
 
-bpn4436 
+bpn4436 «[Filipino](../tl/prayers/#bpn4436)» 
 
 ----
 
@@ -925,7 +925,7 @@ O aking Diyos! O aking Diyos! Tunay na tinatawagan Kita at naninikluhod ako sa I
 
 -- Abdu'l-Bahá
 
-bpn4438 
+bpn4438 «[Filipino](../tl/prayers/#bpn4438)» 
 
 ----
 
@@ -935,7 +935,7 @@ O aking Diyos! O aking Diyos! Pagkaisahin ang mga puso ng Iyong mga tagapaglingk
 
 -- Abdu'l-Bahá
 
-bpn4437 
+bpn4437 «[Filipino](../tl/prayers/#bpn4437)» 
 
 ----
 
@@ -949,7 +949,7 @@ Tulutan Mo, O aking Diyos, na makalapit ako sa Iyo, at makapanahan sa loob ng sa
 
 -- Bahá'u'lláh
 
-bpn4439 
+bpn4439 «[Filipino](../tl/prayers/#bpn4439)» 
 
 ----
 
@@ -959,7 +959,7 @@ Nasa kaluwalhatian Ka, O aking Diyos! Nagpapasalamat ako sa Iyo sapagkat ipinaki
 
 -- Bahá'u'lláh
 
-bpn4440 
+bpn4440 «[Filipino](../tl/prayers/#bpn4440)» 
 
 ----
 
@@ -969,7 +969,7 @@ Maraming malamig na puso, O aking Diyos, ang pinapagningas ng apoy ng Iyong Kapa
 
 -- Bahá'u'lláh
 
-bpn4441 
+bpn4441 «[Filipino](../tl/prayers/#bpn4441)» 
 
 ----
 
@@ -979,7 +979,7 @@ Hindi ko batid, O aking Diyos, kung ano ang Apoy na pinagningas Mo sa Iyong lupa
 
 -- Bahá'u'lláh
 
-bpn4442 
+bpn4442 «[Filipino](../tl/prayers/#bpn4442)» 
 
 ----
 
@@ -989,7 +989,7 @@ Luwalhatiin Ka, O aking Diyos! Ako ay isa sa Iyong mga tagapaglingkod na sumasam
 
 -- Bahá'u'lláh
 
-bpn4443 
+bpn4443 «[Filipino](../tl/prayers/#bpn4443)» 
 
 ----
 
@@ -999,7 +999,7 @@ Sa Pangalan ng Iyong Panginoon, ang Maylikha, ang Makapangyarihan, ang Nakasasap
 
 -- Báb
 
-bpn4444 
+bpn4444 «[Filipino](../tl/prayers/#bpn4444)» 
 
 ----
 
@@ -1009,7 +1009,7 @@ O Panginoon! Sa Iyo ako pumupunta upang magpakupkup at ang aking puso ay itinutu
 
 -- Báb
 
-bpn4445 
+bpn4445 «[Filipino](../tl/prayers/#bpn4445)» 
 
 ----
 
@@ -1019,7 +1019,7 @@ Diyos Ko! Diyos Ko! Ikaw ang aking pag-asa at ang aking Minamahal, ang aking pin
 
 -- Abdu'l-Bahá
 
-bpn4446 
+bpn4446 «[Filipino](../tl/prayers/#bpn4446)» 
 
 ----
 
@@ -1029,7 +1029,7 @@ O Diyos, aking Diyos! Punuin Mo para sa akin ang kopa ng pagkawalay sa lahat ng 
 
 -- Abdu'l-Bahá
 
-bpn4447 
+bpn4447 «[Filipino](../tl/prayers/#bpn4447)» 
 
 ----
 
@@ -1043,7 +1043,7 @@ O Diyos, aking Diyos! Isinasamo ko sa Iyo sa karagatan ng Iyong pagpapagaling, a
 
 -- Bahá'u'lláh
 
-bpn4448 
+bpn4448 «[Filipino](../tl/prayers/#bpn4448)» 
 
 ----
 
@@ -1053,7 +1053,7 @@ Luwalhati sa Iyo, O Panginoon kong Diyos! Isinasamo ko sa Iyo sa Iyong Pangalan,
 
 -- Bahá'u'lláh
 
-bpn4450 
+bpn4450 «[Filipino](../tl/prayers/#bpn4450)» 
 
 ----
 
@@ -1063,7 +1063,7 @@ Purihin Ka, O Panginoon kong Diyos! Sa pamamagitan ng Iyong Pinakadakilang Panga
 
 -- Bahá'u'lláh
 
-bpn4451 
+bpn4451 «[Filipino](../tl/prayers/#bpn4451)» 
 
 ----
 
@@ -1073,7 +1073,7 @@ Luwalhati sa Iyo, O Panginoon kong Diyos! Ipinamamanhik ko sa Iyo sa Iyong Panga
 
 -- Bahá'u'lláh
 
-bpn4452 
+bpn4452 «[Filipino](../tl/prayers/#bpn4452)» 
 
 ----
 
@@ -1083,7 +1083,7 @@ Siya ang Tagalunas, ang Nagbibigay ng Sapat, ang Katulong, ang Laging Nagpapataw
 
 -- Bahá'u'lláh
 
-bpn4453 
+bpn4453 «[Filipino](../tl/prayers/#bpn4453)» 
 
 ----
 
@@ -1093,7 +1093,7 @@ Ang Iyong Pangalan ang makapagpapagaling sa akin, O aking Diyos, at ang Iyong gu
 
 -- Bahá'u'lláh
 
-bpn4449 
+bpn4449 «[Filipino](../tl/prayers/#bpn4449)» 
 
 ----
 
@@ -1107,7 +1107,7 @@ Dakilain ang Iyong pangalan, O aking Diyos, sapagkat ipinamalas Mo ang Araw na S
 
 -- Bahá'u'lláh
 
-bpn4458 
+bpn4458 «[Filipino](../tl/prayers/#bpn4458)» 
 
 ----
 
@@ -1117,7 +1117,7 @@ Purihin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo, sa Iyong Pangalan na wa
 
 -- Bahá'u'lláh
 
-bpn4459 
+bpn4459 «[Filipino](../tl/prayers/#bpn4459)» 
 
 ----
 
@@ -1127,7 +1127,7 @@ Luwalhatiin Ka, O Ikaw na Diyos ng daigdig at Hangarin ng mga bansa, O Ikaw na n
 
 -- Bahá'u'lláh
 
-bpn4460 
+bpn4460 «[Filipino](../tl/prayers/#bpn4460)» 
 
 ----
 
@@ -1137,7 +1137,7 @@ O Diyos, na May-Akda ng Lahat ng Kahayagan, at Pinagmulan ng lahat ng mga Pinagm
 
 -- Bahá'u'lláh
 
-bpn4461 
+bpn4461 «[Filipino](../tl/prayers/#bpn4461)» 
 
 ----
 
@@ -1147,7 +1147,7 @@ O aking Diyos, tulungan Mo ang Iyong mga tagapaglingkod na itaguyod ang Salita, 
 
 -- Abdu'l-Bahá
 
-bpn4462 
+bpn4462 «[Filipino](../tl/prayers/#bpn4462)» 
 
 ----
 
@@ -1157,7 +1157,7 @@ O Diyos, aking Diyos! Tulungan Mo ang Iyong pinankakatiwalaang mga tagapaglingko
 
 -- Abdu'l-Bahá
 
-bpn4463 
+bpn4463 «[Filipino](../tl/prayers/#bpn4463)» 
 
 ----
 
@@ -1167,7 +1167,7 @@ Nakikita Mo ako, o aking Diyos, na nakayukod sa kababaan, nagpapakumbaba sa hara
 
 -- Abdu'l-Bahá
 
-bpn4464 
+bpn4464 «[Filipino](../tl/prayers/#bpn4464)» 
 
 ----
 
@@ -1177,7 +1177,7 @@ O Ikaw na walang kahambing na Diyos! O Ikaw na Panginoon ng Kaharian! Ang mga ka
 
 -- Abdu'l-Bahá
 
-bpn4465 
+bpn4465 «[Filipino](../tl/prayers/#bpn4465)» 
 
 ----
 
@@ -1187,7 +1187,7 @@ O Diyos! O Diyos! Nakikita Mo akong nababalani at naaakit sa Iyong kaharian, ang
 
 -- Abdu'l-Bahá
 
-bpn4466 
+bpn4466 «[Filipino](../tl/prayers/#bpn4466)» 
 
 ----
 
@@ -1197,7 +1197,7 @@ O Diyos, O Diyos! Nakikita Mo ang aking kahinaan, kababaan at pagkahamak sa hara
 
 -- Abdu'l-Bahá
 
-bpn4467 
+bpn4467 «[Filipino](../tl/prayers/#bpn4467)» 
 
 ----
 
@@ -1207,7 +1207,7 @@ O Diyos! O Diyos! Nakikita Mo na ang maitim na karimlan ay kumukubkob sa lahat n
 
 -- Abdu'l-Bahá
 
-bpn4468 
+bpn4468 «[Filipino](../tl/prayers/#bpn4468)» 
 
 ----
 
@@ -1217,7 +1217,7 @@ O Ikaw na maawaing Panginoon! Purihin Ka sa pagpapakita Mo sa amin ng malawak na
 
 -- Abdu'l-Bahá
 
-bpn4469 
+bpn4469 «[Filipino](../tl/prayers/#bpn4469)» 
 
 ----
 
@@ -1227,7 +1227,7 @@ O aking Diyos! O aking Diyos! Nakikita Mo ako sa aking kababaan at kahinaan, na 
 
 -- Abdu'l-Bahá
 
-bpn4470 
+bpn4470 «[Filipino](../tl/prayers/#bpn4470)» 
 
 ----
 
@@ -1237,7 +1237,7 @@ O Panginoon, aking Diyos! Ang papuri at pasasalamat ay suma-Iyo dahil sa pinamtn
 
 -- Abdu'l-Bahá
 
-bpn4471 
+bpn4471 «[Filipino](../tl/prayers/#bpn4471)» 
 
 ----
 
@@ -1247,7 +1247,7 @@ O Diyos, O Diyos! Ito ay isang ibong may baling bagwis at ang kaniyang paglipad 
 
 -- Abdu'l-Bahá
 
-bpn4472 
+bpn4472 «[Filipino](../tl/prayers/#bpn4472)» 
 
 ----
 
@@ -1257,7 +1257,7 @@ Luwalhatiin Ka, O aking Diyos! Ito ay Iyong mga tagapaglingkod, na naakit ng mga
 
 -- Abdu'l-Bahá
 
-bpn4473 
+bpn4473 «[Filipino](../tl/prayers/#bpn4473)» 
 
 ----
 
@@ -1267,7 +1267,7 @@ O Diyos, aking Diyos! Nakikita Mo ang mahinang ito na namamalimos ng makalangit 
 
 -- Abdu'l-Bahá
 
-bpn4474 
+bpn4474 «[Filipino](../tl/prayers/#bpn4474)» 
 
 ----
 
@@ -1281,7 +1281,7 @@ Purihin Ka, O Panginoon kong Diyos! Nakikita Mo ako at nababatid na tumawag ako 
 
 -- Bahá'u'lláh
 
-bpn4480 
+bpn4480 «[Filipino](../tl/prayers/#bpn4480)» 
 
 ----
 
@@ -1291,7 +1291,7 @@ Purihin Ka, O Panginoon kong Diyos! Ito ay Iyong tagapaglingkod na uminom buhat 
 
 -- Bahá'u'lláh
 
-bpn4481 
+bpn4481 «[Filipino](../tl/prayers/#bpn4481)» 
 
 ----
 
@@ -1301,7 +1301,7 @@ O Diyos, aking Diyos! Ako ay lumabas buhat sa aking tahanan, na nakahawak nang m
 
 -- Bahá'u'lláh
 
-bpn4482 
+bpn4482 «[Filipino](../tl/prayers/#bpn4482)» 
 
 ----
 
@@ -1311,7 +1311,7 @@ Iukol sa akin, O aking Panginoon, at sa mga naniniwala sa Iyo, ang siyang ipinal
 
 -- Báb
 
-bpn4483 
+bpn4483 «[Filipino](../tl/prayers/#bpn4483)» 
 
 ----
 
@@ -1321,7 +1321,7 @@ Luwalhatiin Ka, O Diyos! Ikaw ang Diyos na umiral bago pa ang lahat, Siya na iir
 
 -- Báb
 
-bpn4484 
+bpn4484 «[Filipino](../tl/prayers/#bpn4484)» 
 
 ----
 
@@ -1331,7 +1331,7 @@ Sa Ngalan ng Diyos, ang Panginoong may nag-uumapaw na kamaharlikaan, at Nananaig
 
 -- Báb
 
-bpn4485 
+bpn4485 «[Filipino](../tl/prayers/#bpn4485)» 
 
 ----
 
@@ -1341,7 +1341,7 @@ O Diyos, aking Diyos! Ipagsanggalang ang Iyong pinagkakatiwalaang mga tagapaglin
 
 -- Abdu'l-Bahá
 
-bpn4486 
+bpn4486 «[Filipino](../tl/prayers/#bpn4486)» 
 
 ----
 
@@ -1351,7 +1351,7 @@ O aking Panginoon, batid Mo na ang mga tao ay nalilibot ng dusa at kapahamakan a
 
 -- Abdu'l-Bahá
 
-bpn4487 
+bpn4487 «[Filipino](../tl/prayers/#bpn4487)» 
 
 ----
 
@@ -1365,7 +1365,7 @@ bpn4487
 
 -- Bahá'u'lláh
 
-bpn4536 
+bpn4536 «[Filipino](../tl/prayers/#bpn4536)» 
 
 ----
 
@@ -1379,7 +1379,7 @@ Lahat ng papuri, O aking Diyos ay suma-Iyo nawa, Ikaw na Pinagmumulan ng lahat n
 
 -- Bahá'u'lláh
 
-bpn4488 
+bpn4488 «[Filipino](../tl/prayers/#bpn4488)» 
 
 ----
 
@@ -1389,7 +1389,7 @@ Sa Pangalan ng Diyos, ang Kataas-taasan! Purihin at luwalhatiin Ka, Panginoon, D
 
 -- Bahá'u'lláh
 
-bpn4489 
+bpn4489 «[Filipino](../tl/prayers/#bpn4489)» 
 
 ----
 
@@ -1399,7 +1399,7 @@ Dumakila nawa ang Iyong Pangalan, O Panginoon kong Diyos! Ikaw yaong sinasamba n
 
 -- Bahá'u'lláh
 
-bpn4490 
+bpn4490 «[Filipino](../tl/prayers/#bpn4490)» 
 
 ----
 
@@ -1409,7 +1409,7 @@ Purihin Ka nawa, O Panginoon kong Diyos! Sa bawat sandaling sinusubukan kong ban
 
 -- Bahá'u'lláh
 
-bpn4491 
+bpn4491 «[Filipino](../tl/prayers/#bpn4491)» 
 
 ----
 
@@ -1419,7 +1419,7 @@ Lahat ng kamaharlikaan at kaluwalhatian, O aking Diyos, at lahat ng pamamahala a
 
 -- Báb
 
-bpn4492 
+bpn4492 «[Filipino](../tl/prayers/#bpn4492)» 
 
 ----
 
@@ -1433,7 +1433,7 @@ bpn4492
 
 -- Bahá'u'lláh
 
-bpn4527 
+bpn4527 «[Filipino](../tl/prayers/#bpn4527)» 
 
 ----
 
@@ -1443,7 +1443,7 @@ Luwalhati sa Iyo, O Panginoon kong Diyos! Huwag Mong abain siyang Iyong itinaas 
 
 -- Bahá'u'lláh
 
-bpn4528 
+bpn4528 «[Filipino](../tl/prayers/#bpn4528)» 
 
 ----
 
@@ -1453,7 +1453,7 @@ Siya ay Diyos, nasa kaluwalhatian Siya, ang Panginoon ng mapagmahal na kabutihan
 
 -- Bahá'u'lláh
 
-bpn6844 
+bpn6844 «[Filipino](../tl/prayers/#bpn6844)» 
 
 ----
 
@@ -1463,7 +1463,7 @@ O aking Diyos! O Ikaw na nagpapatawad ng mga kasalanan! Tagapagkaloob ng mga han
 
 -- Abdu'l-Bahá
 
-bpn4529 
+bpn4529 «[Filipino](../tl/prayers/#bpn4529)» 
 
 ----
 
@@ -1473,7 +1473,7 @@ O aking Diyos! O aking Diyos! Tunay, ang Iyong tagapaglingkod, hamak sa harap ng
 
 -- Abdu'l-Bahá
 
-bpn4530 
+bpn4530 «[Filipino](../tl/prayers/#bpn4530)» 
 
 ----
 
@@ -1483,7 +1483,7 @@ O Ikaw na mapagpatawad na Panginoon!Bagaman may mga kaluluwang pinalipas ang mga
 
 -- Abdu'l-Bahá
 
-bpn4531 
+bpn4531 «[Filipino](../tl/prayers/#bpn4531)» 
 
 ----
 
@@ -1497,7 +1497,7 @@ Aking Diyos, na dinadalanginan ko at sinasamba! Saksi ako sa Iyong kaisahan at s
 
 -- Bahá'u'lláh
 
-bpn4493 
+bpn4493 «[Filipino](../tl/prayers/#bpn4493)» 
 
 ----
 
@@ -1507,7 +1507,7 @@ O Ikaw na mahabaging Panginoon! Ikaw na magandang-loob at may kakayahan! Kami ay
 
 -- Abdu'l-Bahá
 
-bpn4494 
+bpn4494 «[Filipino](../tl/prayers/#bpn4494)» 
 
 ----
 
@@ -1517,7 +1517,7 @@ O Ikaw na mahabaging Panginoon! Nilalang Mo ang lahat ng sangkatauhan buhat sa i
 
 -- Abdu'l-Bahá
 
-bpn4495 
+bpn4495 «[Filipino](../tl/prayers/#bpn4495)» 
 
 ----
 
@@ -1527,7 +1527,7 @@ O Diyos, O Ikaw na nagsabog ng Iyong karingalan sa nagniningning na mga realidad
 
 -- Abdu'l-Bahá
 
-bpn4496 
+bpn4496 «[Filipino](../tl/prayers/#bpn4496)» 
 
 ----
 
@@ -1541,7 +1541,7 @@ bpn4496
 
 -- Abdu'l-Bahá
 
-bpn4497 
+bpn4497 «[Filipino](../tl/prayers/#bpn4497)» 
 
 ----
 
@@ -1551,7 +1551,7 @@ bpn4497
 
 -- Abdu'l-Bahá
 
-bpn4498 
+bpn4498 «[Filipino](../tl/prayers/#bpn4498)» 
 
 ----
 
@@ -1561,7 +1561,7 @@ bpn4498
 
 -- Abdu'l-Bahá
 
-bpn4499 
+bpn4499 «[Filipino](../tl/prayers/#bpn4499)» 
 
 ----
 
@@ -1575,7 +1575,7 @@ Luwalhati sa Iyo, O Panginoon, Ikaw na Siyang bumuo ng lahat ng mga nilikhang ba
 
 -- Báb
 
-bpn4500 
+bpn4500 «[Filipino](../tl/prayers/#bpn4500)» 
 
 ----
 
@@ -1585,7 +1585,7 @@ O Panginoon! Itadhana ang mabilis na paglaki ng Puno ng Iyong banal na pagkakais
 
 -- Báb
 
-bpn4501 
+bpn4501 «[Filipino](../tl/prayers/#bpn4501)» 
 
 ----
 
@@ -1595,7 +1595,7 @@ O Panginoon! Gawing matagumpay ang Iyong mapagtiis na mga tagapaglingkod sa Iyon
 
 -- Báb
 
-bpn4502 
+bpn4502 «[Filipino](../tl/prayers/#bpn4502)» 
 
 ----
 
@@ -1605,7 +1605,7 @@ O Panginoon! Tulutang makapsok ang lahat ng mga tao ng daigdig sa Paraiso ng Iyo
 
 -- Báb
 
-bpn4503 
+bpn4503 «[Filipino](../tl/prayers/#bpn4503)» 
 
 ----
 
@@ -1615,7 +1615,7 @@ O Diyos, aking Diyos! Purihin Ka nawa sa pagpaparikit ng apoy ng banal na pag-ib
 
 -- Abdu'l-Bahá
 
-bpn4504 
+bpn4504 «[Filipino](../tl/prayers/#bpn4504)» 
 
 ----
 
@@ -1625,7 +1625,7 @@ Siya ang Diyos! O Panginoon, aking Diyos, aking Pinakamamahal! Ito ang Iyong mga
 
 -- Abdu'l-Bahá
 
-bpn4505 
+bpn4505 «[Filipino](../tl/prayers/#bpn4505)» 
 
 ----
 
@@ -1639,7 +1639,7 @@ O Ikaw na ang mukha ay siyang hantungan ng aking pagsamba, na ang kagandahan ay 
 
 -- Bahá'u'lláh
 
-bpn4506 
+bpn4506 «[Filipino](../tl/prayers/#bpn4506)» 
 
 ----
 
@@ -1649,7 +1649,7 @@ Diyos ko, tanging aking Sinasamba, aking Hari, aking Hangarin! Anong wika ang ma
 
 -- Bahá'u'lláh
 
-bpn4507 
+bpn4507 «[Filipino](../tl/prayers/#bpn4507)» 
 
 ----
 
@@ -1659,7 +1659,7 @@ O aking Diyos, aking Panginoon, at aking Sinusunod! Inihiwalay ko ang aking sari
 
 -- Báb
 
-bpn4508 
+bpn4508 «[Filipino](../tl/prayers/#bpn4508)» 
 
 ----
 
@@ -1669,7 +1669,7 @@ O Ikaw na mabuting Panginoon!Kami ay mga tagapaglingkod sa Iyong Pintuan, nangan
 
 -- Abdu'l-Bahá
 
-bpn4509 
+bpn4509 «[Filipino](../tl/prayers/#bpn4509)» 
 
 ----
 
@@ -1679,7 +1679,7 @@ Huwag Mong alisin, O Panginoon, ang dulang na inilatag sa Iyong Pangalan at huwa
 
 -- Abdu'l-Bahá
 
-bpn4510 
+bpn4510 «[Filipino](../tl/prayers/#bpn4510)» 
 
 ----
 
@@ -1693,7 +1693,7 @@ Pawiin ang aking kalungkutan sa pamamagitan ng Iyong pagpapala at ng Iyong kagan
 
 -- Bahá'u'lláh
 
-bpn4511 
+bpn4511 «[Filipino](../tl/prayers/#bpn4511)» 
 
 ----
 
@@ -1703,7 +1703,7 @@ Pinupuri at niluluwalhati Ka, O aking Diyos! Isinasamo ko sa Iyo sa hinaing ng m
 
 -- Bahá'u'lláh
 
-bpn4512 
+bpn4512 «[Filipino](../tl/prayers/#bpn4512)» 
 
 ----
 
@@ -1713,7 +1713,7 @@ O Ikaw na ang mga pagsubok ay isang panlunas na gamot sa mga malapit sa Iyo, na 
 
 -- Bahá'u'lláh
 
-bpn4513 
+bpn4513 «[Filipino](../tl/prayers/#bpn4513)» 
 
 ----
 
@@ -1723,7 +1723,7 @@ Luwalhati sa Iyo, O aking Diyos! Kung hindi sa mga paghihirap na ibinalikat sa I
 
 -- Bahá'u'lláh
 
-bpn4514 
+bpn4514 «[Filipino](../tl/prayers/#bpn4514)» 
 
 ----
 
@@ -1733,7 +1733,7 @@ Mayroon bang Tagapag-alis ng mga kahirapan liban sa Diyos? Sabihin: Purihin ang 
 
 -- Báb
 
-bpn4515 
+bpn4515 «[Filipino](../tl/prayers/#bpn4515)» 
 
 ----
 
@@ -1743,7 +1743,7 @@ Sabihin: Ang Diyos ay sapat sa lahat ng bagay at higit sa anumang bagay, at wala
 
 -- Báb
 
-bpn4516 
+bpn4516 «[Filipino](../tl/prayers/#bpn4516)» 
 
 ----
 
@@ -1753,7 +1753,7 @@ Nagsusumamo ako sa Iyo sa pamamagitan ng Iyong lakas, O aking Diyos! Huwag hayaa
 
 -- Báb
 
-bpn4517 
+bpn4517 «[Filipino](../tl/prayers/#bpn4517)» 
 
 ----
 
@@ -1763,7 +1763,7 @@ O Panginoon! Ikaw ang Tagapag-alis ng bawat pagdurusa at tagapawi ng bawat dalam
 
 -- Báb
 
-bpn4518 
+bpn4518 «[Filipino](../tl/prayers/#bpn4518)» 
 
 ----
 
@@ -1773,7 +1773,7 @@ Alam na alam Mo, O aking Diyos, na ang mga paghihirap ay umulan sa akin buhat sa
 
 -- Báb
 
-bpn4519 
+bpn4519 «[Filipino](../tl/prayers/#bpn4519)» 
 
 ----
 
@@ -1783,7 +1783,7 @@ O Panginoon, aking Diyos at aking Kanlungan sa aking pagkabagabag! Aking Kalasag
 
 -- Abdu'l-Bahá
 
-bpn4520 
+bpn4520 «[Filipino](../tl/prayers/#bpn4520)» 
 
 ----
 
@@ -1793,7 +1793,7 @@ Siya ang Mahabagin, ang Mapagpala sa Lahat!O Diyos, aking Diyos! Nakikita Mo ako
 
 -- Abdu'l-Bahá
 
-bpn4521 
+bpn4521 «[Filipino](../tl/prayers/#bpn4521)» 
 
 ----
 
@@ -1803,7 +1803,7 @@ O Panginoon ko, aking Mahal, aking Hangarin! Kaibiganin Mo ako sa aking pangungu
 
 -- Abdu'l-Bahá
 
-bpn4522 
+bpn4522 «[Filipino](../tl/prayers/#bpn4522)» 
 
 ----
 
@@ -1817,7 +1817,7 @@ O aking Diyos at aking Panginoon! Ako ay Iyong tagapaglingkod at anak ng Iyong t
 
 -- Bahá'u'lláh
 
-bpn4523 
+bpn4523 «[Filipino](../tl/prayers/#bpn4523)» 
 
 ----
 
@@ -1827,7 +1827,7 @@ Nagising ako sa Iyong kanlungan, O aking Diyos, at marapat sa kaniyang naghahana
 
 -- Bahá'u'lláh
 
-bpn4524 
+bpn4524 «[Filipino](../tl/prayers/#bpn4524)» 
 
 ----
 
@@ -1837,7 +1837,7 @@ Nagbangon ako ngayong umaga sa Iyong biyaya, O aking Diyos, at nilisan ang aking
 
 -- Bahá'u'lláh
 
-bpn4525 
+bpn4525 «[Filipino](../tl/prayers/#bpn4525)» 
 
 ----
 
@@ -1847,7 +1847,7 @@ Nagbibigay-puri ako sa Iyo, O aking Diyos, sapagkat ginising Mo ako buhat sa aki
 
 -- Bahá'u'lláh
 
-bpn4526 
+bpn4526 «[Filipino](../tl/prayers/#bpn4526)» 
 
 ----
 

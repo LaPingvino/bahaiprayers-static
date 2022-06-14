@@ -5,7 +5,6 @@ tags = ['lang=hr', 'prayerbook']
 
 
 
-
 [Brak](#Brak)
 
 [Duhovne Kvalitete](#Duhovne+Kvalitete)
@@ -70,7 +69,7 @@ tags = ['lang=hr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3891 
+bpn3891 «[Hrvatski](../hr/prayers/#bpn3891)» 
 
 ----
 
@@ -80,7 +79,7 @@ Slava Tebi, o, Bože moj! Doista ovaj sluga Tvoj i službenica Tvoja udružili s
 
 -- Abdu'l-Bahá
 
-bpn3892 
+bpn3892 «[Hrvatski](../hr/prayers/#bpn3892)» 
 
 ----
 
@@ -90,7 +89,7 @@ On je Bog! O, Gospode Neusporedivi! U Tvojoj svemogućoj mudrosti podario si lju
 
 -- Abdu'l-Bahá
 
-bpn3893 
+bpn3893 «[Hrvatski](../hr/prayers/#bpn3893)» 
 
 ----
 
@@ -104,7 +103,7 @@ Stvori me čista srca, o, Bože moj, i obnovi moju mirnu savjest, o, Nado moja! 
 
 -- Bahá'u'lláh
 
-bpn3898 
+bpn3898 «[Hrvatski](../hr/prayers/#bpn3898)» 
 
 ----
 
@@ -118,7 +117,7 @@ Bože moj, Obožavani moj, Kralju moj, čežnjo moja! Koji jezik može izreæi z
 
 -- Bahá'u'lláh
 
-bpn3899 
+bpn3899 «[Hrvatski](../hr/prayers/#bpn3899)» 
 
 ----
 
@@ -132,7 +131,7 @@ Ime Tvoje moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvoj
 
 -- Bahá'u'lláh
 
-bpn3900 
+bpn3900 «[Hrvatski](../hr/prayers/#bpn3900)» 
 
 ----
 
@@ -146,7 +145,7 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih slugu i otkrij im Svoj veliki ci
 
 -- Bahá'u'lláh
 
-bpn3901 
+bpn3901 «[Hrvatski](../hr/prayers/#bpn3901)» 
 
 ----
 
@@ -156,7 +155,7 @@ Slava tebi, o, Bože, zbog Tvoje objave ljubavi čovječanstvu! O, Ti, Koji si n
 
 -- Bahá'u'lláh
 
-bpn3902 
+bpn3902 «[Hrvatski](../hr/prayers/#bpn3902)» 
 
 ----
 
@@ -166,7 +165,7 @@ O, Bože moj! O, Bože moj! Doista zazivam te i preklinjem na pragu Tvome i moli
 
 -- Abdu'l-Bahá
 
-bpn3903 
+bpn3903 «[Hrvatski](../hr/prayers/#bpn3903)» 
 
 ----
 
@@ -180,7 +179,7 @@ Probudih se u Tvom zaklonu, o, moj Bože, a onome koji Taj zaklon traži prilič
 
 -- Bahá'u'lláh
 
-bpn3904 
+bpn3904 «[Hrvatski](../hr/prayers/#bpn3904)» 
 
 ----
 
@@ -194,7 +193,7 @@ Oboružanog snagom Tvog imena ništa me nikada ne može povrijediti, s Tvojom lj
 
 -- Bahá'u'lláh
 
-bpn3905 
+bpn3905 «[Hrvatski](../hr/prayers/#bpn3905)» 
 
 ----
 
@@ -204,7 +203,7 @@ Ima li drugog Otklonitelja poteškoća osim Boga? Recite: Hvaljen bio Bog! On je
 
 -- Báb
 
-bpn3906 
+bpn3906 «[Hrvatski](../hr/prayers/#bpn3906)» 
 
 ----
 
@@ -214,7 +213,7 @@ Recite: Bog dostaje svim stvarima iznad svih stvari, i ništa u nebu ili na zeml
 
 -- Báb
 
-bpn3907 
+bpn3907 «[Hrvatski](../hr/prayers/#bpn3907)» 
 
 ----
 
@@ -224,7 +223,7 @@ Zaklinjem Te Tvojom moći, o, moj Bože! Ne daj da me zadesi ikakvo zlo u doba k
 
 -- Báb
 
-bpn3908 
+bpn3908 «[Hrvatski](../hr/prayers/#bpn3908)» 
 
 ----
 
@@ -234,7 +233,7 @@ O, Gospodine, Bože moj i Nebo moje u mojoj boli! Štite moj i Zaklone u mojim b
 
 -- Abdu'l-Bahá
 
-bpn3909 
+bpn3909 «[Hrvatski](../hr/prayers/#bpn3909)» 
 
 ----
 
@@ -248,7 +247,7 @@ O, Bože! Ozari ovog mladca i prenesi dobrotu Svoju na ovo jadno stvorenje. Poda
 
 -- Abdu'l-Bahá
 
-bpn3910 
+bpn3910 «[Hrvatski](../hr/prayers/#bpn3910)» 
 
 ----
 
@@ -262,7 +261,7 @@ O, Bože, Bože moj! Ova Te službenica Tvoja zaziva, vjeruje u Tebe, okreće li
 
 -- Abdu'l-Bahá
 
-bpn3911 
+bpn3911 «[Hrvatski](../hr/prayers/#bpn3911)» 
 
 ----
 
@@ -276,7 +275,7 @@ Kako da zaspim, o, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budne
 
 -- Bahá'u'lláh
 
-bpn3912 
+bpn3912 «[Hrvatski](../hr/prayers/#bpn3912)» 
 
 ----
 
@@ -290,7 +289,7 @@ O, Bože, moj Bože! Preklinjem Te krvlju onih koji Te istinski ljube, koji su s
 
 -- Bahá'u'lláh
 
-bpn3913 
+bpn3913 «[Hrvatski](../hr/prayers/#bpn3913)» 
 
 ----
 
@@ -300,7 +299,7 @@ Slava Tebi, o, Gospode Bože moj! Molim Te da oprostiš meni i onima koji podupi
 
 -- Báb
 
-bpn3914 
+bpn3914 «[Hrvatski](../hr/prayers/#bpn3914)» 
 
 ----
 
@@ -314,7 +313,7 @@ Mnoga su hladna srca, o, moj Bože, zaplamtjela vatrom Tvoje Stvari i mnoge je s
 
 -- Bahá'u'lláh
 
-bpn3915 
+bpn3915 «[Hrvatski](../hr/prayers/#bpn3915)» 
 
 ----
 
@@ -324,7 +323,7 @@ O, moj Bože, moj Gospode i moj Gospodaru! Odvojio sam se od svoje rodbine i nas
 
 -- Báb
 
-bpn3916 
+bpn3916 «[Hrvatski](../hr/prayers/#bpn3916)» 
 
 ----
 
@@ -334,7 +333,7 @@ O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.O
 
 -- Abdu'l-Bahá
 
-bpn3917 
+bpn3917 «[Hrvatski](../hr/prayers/#bpn3917)» 
 
 ----
 
@@ -348,7 +347,7 @@ bpn3917
 
 -- Bahá'u'lláh
 
-bpn3918 
+bpn3918 «[Hrvatski](../hr/prayers/#bpn3918)» 
 
 ----
 
@@ -358,7 +357,7 @@ Slava Tebi, o, Gospode. Oprosti nam grijehe naše, smiluj nam se i pomozi nam da
 
 -- Báb
 
-bpn3919 
+bpn3919 «[Hrvatski](../hr/prayers/#bpn3919)» 
 
 ----
 
@@ -368,7 +367,7 @@ O, Ti, Gospode koji praštaš! Ti si zaklon svih ovih slugu Tvojih. Ti znaš taj
 
 -- Abdu'l-Bahá
 
-bpn3920 
+bpn3920 «[Hrvatski](../hr/prayers/#bpn3920)» 
 
 ----
 
@@ -382,7 +381,7 @@ Budi strpljiv u svim okolnostima i daj svo svoje povjerenje i pouzdanje Bogu. Ba
 
 -- Bahá'u'lláh
 
-bpn3921 
+bpn3921 «[Hrvatski](../hr/prayers/#bpn3921)» 
 
 ----
 
@@ -392,7 +391,7 @@ Hvaljeno neka bude ime Tvoje, o, moj Bože i Bože svih stvari, moja Slavo i Sla
 
 -- Bahá'u'lláh
 
-bpn3922 
+bpn3922 «[Hrvatski](../hr/prayers/#bpn3922)» 
 
 ----
 
@@ -402,7 +401,7 @@ O, Gospodine, Bože moj! Pomozi svojim ljubljenima da budu čvrsti u Tvojoj Vjer
 
 -- Abdu'l-Bahá
 
-bpn3923 
+bpn3923 «[Hrvatski](../hr/prayers/#bpn3923)» 
 
 ----
 
@@ -412,7 +411,7 @@ Gospode! Kukavni smo, podari nam Svoju milost; siromašni smo, daruj nam udio iz
 
 -- Abdu'l-Bahá
 
-bpn3924 
+bpn3924 «[Hrvatski](../hr/prayers/#bpn3924)» 
 
 ----
 
@@ -422,7 +421,7 @@ Ne uklanjaj, o, Gospode stol svečano prostrt u Tvoje Ime i ne gasi žarki plame
 
 -- Abdu'l-Bahá
 
-bpn3925 
+bpn3925 «[Hrvatski](../hr/prayers/#bpn3925)» 
 
 ----
 
@@ -436,7 +435,7 @@ O, Tragaču za Istinom! Želiš li da Bog otvori tvoje oči, moraš Boga zaklinj
 
 -- Abdu'l-Bahá
 
-bpn3926 
+bpn3926 «[Hrvatski](../hr/prayers/#bpn3926)» 
 
 ----
 
@@ -450,7 +449,7 @@ O, Moj Bože i moja Nado! Pomozi svojim ljubljenima da budu postojani u Tvojoj m
 
 -- Abdu'l-Bahá
 
-bpn3927 
+bpn3927 «[Hrvatski](../hr/prayers/#bpn3927)» 
 
 ----
 
@@ -460,7 +459,7 @@ Učvrsti naše korake, o, Gospode, na Tvojoj stazi i osnaži naša srca u poslu�
 
 -- Abdu'l-Bahá
 
-bpn3928 
+bpn3928 «[Hrvatski](../hr/prayers/#bpn3928)» 
 
 ----
 
@@ -474,7 +473,7 @@ Bit svega što Smo ti otkrili jest Pravda, dana je čovjeku da bi se oslobodio j
 
 -- Bahá'u'lláh
 
-bpn3929 
+bpn3929 «[Hrvatski](../hr/prayers/#bpn3929)» 
 
 ----
 
@@ -484,7 +483,7 @@ Recite: O, Bože, moj Bože! Okiti moju glavu krunom pravde, a moj hram uresom p
 
 -- Bahá'u'lláh
 
-bpn3930 
+bpn3930 «[Hrvatski](../hr/prayers/#bpn3930)» 
 
 ----
 
@@ -498,7 +497,7 @@ Smrt nudi svakom odanom vjerniku pehar koji je uistinu život… Ona daje dar ž
 
 -- Bahá'u'lláh
 
-bpn3931 
+bpn3931 «[Hrvatski](../hr/prayers/#bpn3931)» 
 
 ----
 
@@ -508,7 +507,7 @@ O, Bože moj! O, Ti, Oprostitelju grijeha! O, Davatelju darova! Otklonitelju jad
 
 -- Abdu'l-Bahá
 
-bpn3932 
+bpn3932 «[Hrvatski](../hr/prayers/#bpn3932)» 
 
 ----
 
@@ -522,7 +521,7 @@ Pristaje im da kao najbolju opremu za put odaberu uzdanje u Boga i zaogrnu se lj
 
 -- Bahá'u'lláh
 
-bpn3933 
+bpn3933 «[Hrvatski](../hr/prayers/#bpn3933)» 
 
 ----
 
@@ -532,7 +531,7 @@ O, Bože, moj Bože! Krenuh iz svog doma čvrsto se držeći niti Tvoje ljubavi 
 
 -- Bahá'u'lláh
 
-bpn3934 
+bpn3934 «[Hrvatski](../hr/prayers/#bpn3934)» 
 
 ----
 
@@ -546,7 +545,7 @@ Ti vidiš, o, Gospode, naše molećive ruke podignute ka nebu Tvoje naklonosti i
 
 -- Bahá'u'lláh
 
-bpn3936 
+bpn3936 «[Hrvatski](../hr/prayers/#bpn3936)» 
 
 ----
 
@@ -556,7 +555,7 @@ Blagoslovljen onaj koji se sjeća svojih roditelja u razgovoru s Bogom.
 
 -- Báb
 
-bpn3935 
+bpn3935 «[Hrvatski](../hr/prayers/#bpn3935)» 
 
 ----
 
@@ -566,7 +565,7 @@ Molim Tvoje oproštenje, o, Bože moj, i tražim oproštaj, onako kako Ti želi�
 
 -- Báb
 
-bpn3937 
+bpn3937 «[Hrvatski](../hr/prayers/#bpn3937)» 
 
 ----
 
@@ -576,7 +575,7 @@ O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoj
 
 -- Abdu'l-Bahá
 
-bpn3938 
+bpn3938 «[Hrvatski](../hr/prayers/#bpn3938)» 
 
 ----
 
@@ -586,7 +585,7 @@ bpn3938
 
 -- Abdu'l-Bahá
 
-bpn3939 
+bpn3939 «[Hrvatski](../hr/prayers/#bpn3939)» 
 
 ----
 
@@ -600,7 +599,7 @@ O, Bože! Doista, okupili smo se ovdje u miomirisu Tvoje ljubavi. Okrenusmo se T
 
 -- Abdu'l-Bahá
 
-bpn3940 
+bpn3940 «[Hrvatski](../hr/prayers/#bpn3940)» 
 
 ----
 
@@ -614,7 +613,7 @@ Kad bi spoznala slast naslova &#34;O službenice moja!&#34; odvojila bi se od sv
 
 -- Bahá'u'lláh
 
-bpn3941 
+bpn3941 «[Hrvatski](../hr/prayers/#bpn3941)» 
 
 ----
 
@@ -624,7 +623,7 @@ O, moj Gospodine, Ljubljeni moj, Željo moja! Budi mi prijateljem u samoći i pr
 
 -- Abdu'l-Bahá
 
-bpn3942 
+bpn3942 «[Hrvatski](../hr/prayers/#bpn3942)» 
 
 ----
 
@@ -634,7 +633,7 @@ O, Ti blagi Gospodine! Podari nebesku potvrdu ovoj kćeri Kraljevstva i pomozi j
 
 -- Abdu'l-Bahá
 
-bpn3943 
+bpn3943 «[Hrvatski](../hr/prayers/#bpn3943)» 
 
 ----
 
@@ -648,7 +647,7 @@ Hvaljeno neka je Ime Tvoje, o, Gospode Bože moj! Tama se spustila na sve zemlje
 
 -- Bahá'u'lláh
 
-bpn3944 
+bpn3944 «[Hrvatski](../hr/prayers/#bpn3944)» 
 
 ----
 
@@ -658,7 +657,7 @@ O, Gospode! Daj da svim ljudima bude dopušteno ući u Raj Tvoje Vjere, tako da 
 
 -- Báb
 
-bpn3945 
+bpn3945 «[Hrvatski](../hr/prayers/#bpn3945)» 
 
 ----
 
@@ -672,7 +671,7 @@ O, službenice Milosrdnoga! Dano vam je u dužnost odgajati djecu od najranije d
 
 -- Abdu'l-Bahá
 
-bpn3946 
+bpn3946 «[Hrvatski](../hr/prayers/#bpn3946)» 
 
 ----
 
@@ -682,7 +681,7 @@ Gospode moj! Gospode moj! Hvalim Te i zahvaljujem Ti za ono čime Si obdario Tvo
 
 -- Abdu'l-Bahá
 
-bpn3947 
+bpn3947 «[Hrvatski](../hr/prayers/#bpn3947)» 
 
 ----
 
@@ -696,7 +695,7 @@ Bože moj, Predmete mojeg obožavanja, Cilju moje Čežnje, Svemilostivi, Presam
 
 -- Bahá'u'lláh
 
-bpn3948 
+bpn3948 «[Hrvatski](../hr/prayers/#bpn3948)» 
 
 ----
 
@@ -706,7 +705,7 @@ Molimo Boga da milostivo pomogne onima koji skrenuše s puta da postanu pravedni
 
 -- Bahá'u'lláh
 
-bpn3949 
+bpn3949 «[Hrvatski](../hr/prayers/#bpn3949)» 
 
 ----
 
@@ -716,7 +715,7 @@ Slavljen si, o, Gospodine moj Bože! Izlij, preklinjem Te, iz oblaka Tvoje obiln
 
 -- Bahá'u'lláh
 
-bpn3950 
+bpn3950 «[Hrvatski](../hr/prayers/#bpn3950)» 
 
 ----
 
@@ -730,7 +729,7 @@ Hvaljeno neka je Ime Tvoje, o, Gospode moj Bože! Preklinjem Te Imenom Tvojim kr
 
 -- Bahá'u'lláh
 
-bpn3951 
+bpn3951 «[Hrvatski](../hr/prayers/#bpn3951)» 
 
 ----
 
@@ -740,7 +739,7 @@ bpn3951
 
 -- Bahá'u'lláh
 
-bpn3953 
+bpn3953 «[Hrvatski](../hr/prayers/#bpn3953)» 
 
 ----
 
@@ -750,7 +749,7 @@ O, moj Bože! Ti znaš da su ljudi okruženi bolom i nedaćama i opkoljeni tešk
 
 -- Abdu'l-Bahá
 
-bpn3952 
+bpn3952 «[Hrvatski](../hr/prayers/#bpn3952)» 
 
 ----
 
@@ -764,7 +763,7 @@ bpn3952
 
 -- Abdu'l-Bahá
 
-bpn3894 
+bpn3894 «[Hrvatski](../hr/prayers/#bpn3894)» 
 
 ----
 
@@ -774,7 +773,7 @@ O, Bože! Slabi smo; daj nam snage. siromašni smo, udijeli nam Svoja bezgranič
 
 -- Abdu'l-Bahá
 
-bpn3895 
+bpn3895 «[Hrvatski](../hr/prayers/#bpn3895)» 
 
 ----
 
@@ -784,7 +783,7 @@ DJECAO, Bože, vodi me, učini me sjajnom svjetiljkom i blistavom zvijezdom. Ti 
 
 -- Abdu'l-Bahá
 
-bpn3896 
+bpn3896 «[Hrvatski](../hr/prayers/#bpn3896)» 
 
 ----
 
@@ -794,7 +793,7 @@ O, Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na Tv
 
 -- Abdu'l-Bahá
 
-bpn3897 
+bpn3897 «[Hrvatski](../hr/prayers/#bpn3897)» 
 
 ----
 

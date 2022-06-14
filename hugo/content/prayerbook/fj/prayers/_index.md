@@ -5,7 +5,6 @@ tags = ['lang=fj', 'prayerbook']
 
 
 
-
 [BOSE](#BOSE)
 
 [BULA VAKAYALO](#BULA+VAKAYALO)
@@ -72,7 +71,7 @@ I noqu Kalou! I noqu Kalou! E dina sara, ni o ira na dauveiqaravi oqo era sa vak
 
 -- Abdu'l-Bahá
 
-bpn6950 
+bpn6950 «[Fiji](../fj/prayers/#bpn6950)» 
 
 ----
 
@@ -86,7 +85,7 @@ Mo ni sa vakatubura mada e lomaqu e dua na yalo sa savasava Sara, O i Kemuni na 
 
 -- Bahá'u'lláh
 
-bpn6951 
+bpn6951 «[Fiji](../fj/prayers/#bpn6951)» 
 
 ----
 
@@ -96,7 +95,7 @@ Mai na wai drodro vakaisaluaki ni Nomuni bula tawamudu, Ni solia me u gunu mada 
 
 -- Bahá'u'lláh
 
-bpn6952 
+bpn6952 «[Fiji](../fj/prayers/#bpn6952)» 
 
 ----
 
@@ -106,7 +105,7 @@ O i Kemuni na Kalou! Ni vakabulabulataka mada ka vakamarautaka tale ga na yaloqu
 
 -- Abdu'l-Bahá
 
-bpn6953 
+bpn6953 «[Fiji](../fj/prayers/#bpn6953)» 
 
 ----
 
@@ -120,7 +119,7 @@ I noqu Kalou! I noqu Kalou!O i au e dua na gone yalowai. Ni vakani au mai e na l
 
 -- Abdu'l-Bahá
 
-bpn6954 
+bpn6954 «[Fiji](../fj/prayers/#bpn6954)» 
 
 ----
 
@@ -130,7 +129,7 @@ O i Kemuni na Kalou! Ni vakatavulici ira mada na gone oqo. O ira na gone oqo era
 
 -- Abdu'l-Bahá
 
-bpn6955 
+bpn6955 «[Fiji](../fj/prayers/#bpn6955)» 
 
 ----
 
@@ -140,7 +139,7 @@ O i Kemuni na Kalou, Ni tuberi au, taqomaki au, qisi au me u cina ramase ka me u
 
 -- Abdu'l-Bahá
 
-bpn6956 
+bpn6956 «[Fiji](../fj/prayers/#bpn6956)» 
 
 ----
 
@@ -150,7 +149,7 @@ O i Kemuni na Turaga! Qisi koya mada na gone oqo e na veivakararamataki, ka vaka
 
 -- Abdu'l-Bahá
 
-bpn6957 
+bpn6957 «[Fiji](../fj/prayers/#bpn6957)» 
 
 ----
 
@@ -164,7 +163,7 @@ bpn6957
 
 -- Bahá'u'lláh
 
-bpn6988 
+bpn6988 «[Fiji](../fj/prayers/#bpn6988)» 
 
 ----
 
@@ -178,7 +177,7 @@ bpn6988
 
 -- Abdu'l-Bahá
 
-bpn6987 
+bpn6987 «[Fiji](../fj/prayers/#bpn6987)» 
 
 ----
 
@@ -192,7 +191,7 @@ O i Kemuni na Kalou! Na noqu Kalou! O i keimami na Nomuni tamata ka vakanamata e
 
 -- Abdu'l-Bahá
 
-bpn6958 
+bpn6958 «[Fiji](../fj/prayers/#bpn6958)» 
 
 ----
 
@@ -206,7 +205,7 @@ Au a duri cake e na mataka e daidai e na Nomuni loloma, O i Kemuni na noqu Kalou
 
 -- Bahá'u'lláh
 
-bpn6959 
+bpn6959 «[Fiji](../fj/prayers/#bpn6959)» 
 
 ----
 
@@ -216,7 +215,7 @@ Au sa yadra cake mai na loma ni Nomuni veivakarurugi, O i Kemuni na noqu Kalou, 
 
 -- Bahá'u'lláh
 
-bpn6960 
+bpn6960 «[Fiji](../fj/prayers/#bpn6960)» 
 
 ----
 
@@ -226,7 +225,7 @@ Noqu Kalou ka noqu i Vakavuvuli! O i au na Nomuni tamata ka u luve ni Nomuni tam
 
 -- Bahá'u'lláh
 
-bpn6961 
+bpn6961 «[Fiji](../fj/prayers/#bpn6961)» 
 
 ----
 
@@ -240,7 +239,7 @@ O i Kemuni na Turaga yalololoma! O i Kemuni sa dau lomasoli ka rawata na veika k
 
 -- Abdu'l-Bahá
 
-bpn6962 
+bpn6962 «[Fiji](../fj/prayers/#bpn6962)» 
 
 ----
 
@@ -250,7 +249,7 @@ O i Kemuni na Turaga yalololoma! O ni sa buli ira na tamata mai na dua vata ga n
 
 -- Abdu'l-Bahá
 
-bpn6963 
+bpn6963 «[Fiji](../fj/prayers/#bpn6963)» 
 
 ----
 
@@ -264,7 +263,7 @@ I noqu Kalou! I noqu Kalou! Ni vakaduavatataka mada na utodra na Nomuni tamata, 
 
 -- Bahá'u'lláh
 
-bpn6964 
+bpn6964 «[Fiji](../fj/prayers/#bpn6964)» 
 
 ----
 
@@ -278,7 +277,7 @@ bpn6964
 
 -- Bahá'u'lláh
 
-bpn6986 
+bpn6986 «[Fiji](../fj/prayers/#bpn6986)» 
 
 ----
 
@@ -292,7 +291,7 @@ bpn6986
 
 -- Bahá'u'lláh
 
-bpn6989 
+bpn6989 «[Fiji](../fj/prayers/#bpn6989)» 
 
 ----
 
@@ -302,7 +301,7 @@ Mo ni sa vakalagilagi ga O i Kemuni Turaga na noqu Kalou! Au masuti Kemuni e na 
 
 -- Bahá'u'lláh
 
-bpn6990 
+bpn6990 «[Fiji](../fj/prayers/#bpn6990)» 
 
 ----
 
@@ -316,7 +315,7 @@ bpn6990
 
 -- Bahá'u'lláh
 
-bpn6949 
+bpn6949 «[Fiji](../fj/prayers/#bpn6949)» 
 
 ----
 
@@ -330,7 +329,7 @@ bpn6949
 
 -- Bahá'u'lláh
 
-bpn6948 
+bpn6948 «[Fiji](../fj/prayers/#bpn6948)» 
 
 ----
 
@@ -344,7 +343,7 @@ bpn6948
 
 -- Bahá'u'lláh
 
-bpn6947 
+bpn6947 «[Fiji](../fj/prayers/#bpn6947)» 
 
 ----
 
@@ -358,7 +357,7 @@ Mo ni sa vakalagilagi O i Kemuni, l Turaga na noqu Kalou! Ni kakua ni guilecavi 
 
 -- Bahá'u'lláh
 
-bpn6965 
+bpn6965 «[Fiji](../fj/prayers/#bpn6965)» 
 
 ----
 
@@ -368,7 +367,7 @@ bpn6965
 
 -- Bahá'u'lláh
 
-bpn6966 
+bpn6966 «[Fiji](../fj/prayers/#bpn6966)» 
 
 ----
 
@@ -382,7 +381,7 @@ bpn6966
 
 -- Abdu'l-Bahá
 
-bpn6967 
+bpn6967 «[Fiji](../fj/prayers/#bpn6967)» 
 
 ----
 
@@ -396,7 +395,7 @@ Era lewe vuqa na uto batabata, O i Kemuni na noqu Kalou, e sa vakatakatataki tu 
 
 -- Bahá'u'lláh
 
-bpn6970 
+bpn6970 «[Fiji](../fj/prayers/#bpn6970)» 
 
 ----
 
@@ -406,7 +405,7 @@ Mo ni vakalagilagi ga, O i Kemuni na noqu Kalou! O i au e dua vei ira na Nomuni 
 
 -- Bahá'u'lláh
 
-bpn6971 
+bpn6971 «[Fiji](../fj/prayers/#bpn6971)» 
 
 ----
 
@@ -420,7 +419,7 @@ Sa vu ni bula vei au na Yacamuni, O i Kemuni na noqu Kalou, ka u sa vakabulai e 
 
 -- Bahá'u'lláh
 
-bpn6972 
+bpn6972 «[Fiji](../fj/prayers/#bpn6972)» 
 
 ----
 
@@ -434,7 +433,7 @@ Me vakacaucautaki na Yacamuni, O i Kemuni na noqu Kalou! Au sa vakadinata ni seg
 
 -- Bahá'u'lláh
 
-bpn6973 
+bpn6973 «[Fiji](../fj/prayers/#bpn6973)» 
 
 ----
 
@@ -444,7 +443,7 @@ Me sa vakalevulevui na Yacamuni, O i Kemuni na Turaga na noqu Kalou! Sa i Kemuni
 
 -- Bahá'u'lláh
 
-bpn6974 
+bpn6974 «[Fiji](../fj/prayers/#bpn6974)» 
 
 ----
 
@@ -458,7 +457,7 @@ O i Kemuni na Kalou yalololoma! Au sa Vakavinavinaka vei Kemuni ni O ni sa vakay
 
 -- Abdu'l-Bahá
 
-bpn6975 
+bpn6975 «[Fiji](../fj/prayers/#bpn6975)» 
 
 ----
 
@@ -472,7 +471,7 @@ O i Kemuni na Kalou, O i Kemuni ka vakaivolataki ira na Parofita Lumuti kece ga,
 
 -- Bahá'u'lláh
 
-bpn6978 
+bpn6978 «[Fiji](../fj/prayers/#bpn6978)» 
 
 ----
 
@@ -482,7 +481,7 @@ bpn6978
 
 -- Abdu'l-Bahá
 
-bpn6977 
+bpn6977 «[Fiji](../fj/prayers/#bpn6977)» 
 
 ----
 
@@ -492,7 +491,7 @@ O i Kemuni na Kalou sa sega ni vakatautauvatani rawa! O i Kemuni na Turaga ni Ma
 
 -- Abdu'l-Bahá
 
-bpn6979 
+bpn6979 «[Fiji](../fj/prayers/#bpn6979)» 
 
 ----
 
@@ -506,7 +505,7 @@ O i Kemuni o Koya na Nona veivakatovolei e dau wai ni veivakabulai vei ira era s
 
 -- Bahá'u'lláh
 
-bpn6976 
+bpn6976 «[Fiji](../fj/prayers/#bpn6976)» 
 
 ----
 
@@ -520,7 +519,7 @@ O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma e sa vakayaloqaqataki au, k
 
 -- Bahá'u'lláh
 
-bpn6980 
+bpn6980 «[Fiji](../fj/prayers/#bpn6980)» 
 
 ----
 
@@ -534,7 +533,7 @@ O i Kemuni na Turaga! Keimami tamata vakaloloma, solia mada mai kivei keimami na
 
 -- Abdu'l-Bahá
 
-bpn6981 
+bpn6981 «[Fiji](../fj/prayers/#bpn6981)» 
 
 ----
 
@@ -548,7 +547,7 @@ O cei li na Dauveivakacegui e na gauna ni leqa me tautauvata kei na Kalou? Mo ka
 
 -- Báb
 
-bpn6982 
+bpn6982 «[Fiji](../fj/prayers/#bpn6982)» 
 
 ----
 
@@ -558,7 +557,7 @@ Mo kaya tiko ga: Sa uasivi duadua na Kalou e na veika kece ga, ka sa sega tale n
 
 -- Báb
 
-bpn6983 
+bpn6983 «[Fiji](../fj/prayers/#bpn6983)» 
 
 ----
 
@@ -568,7 +567,7 @@ O i Kemuni na Turaga, na noqu Kalou ka noqu i Vakavakacegu e na noqu lomabibi! O
 
 -- Abdu'l-Bahá
 
-bpn6984 
+bpn6984 «[Fiji](../fj/prayers/#bpn6984)» 
 
 ----
 
@@ -582,7 +581,7 @@ bpn6984
 
 -- Abdu'l-Bahá
 
-bpn6968 
+bpn6968 «[Fiji](../fj/prayers/#bpn6968)» 
 
 ----
 
@@ -592,7 +591,7 @@ O Koya na Kalou!O i Kemuni na Turaga sa sega ni vakatautauvatataki rawa! E na vu
 
 -- Abdu'l-Bahá
 
-bpn6969 
+bpn6969 «[Fiji](../fj/prayers/#bpn6969)» 
 
 ----
 
@@ -606,7 +605,7 @@ bpn6969
 
 -- Bahá'u'lláh
 
-bpn6991 
+bpn6991 «[Fiji](../fj/prayers/#bpn6991)» 
 
 ----
 
@@ -620,7 +619,7 @@ E na rawa li vakacava me u digitaka na moce, O i Kemuni na Kalou, na noqu Kalou,
 
 -- Bahá'u'lláh
 
-bpn6985 
+bpn6985 «[Fiji](../fj/prayers/#bpn6985)» 
 
 ----
 

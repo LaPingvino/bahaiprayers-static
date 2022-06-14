@@ -125,7 +125,7 @@ Glwa pou Ou, O Senyè tout mond la e Dezi tout nasyon yo, O Ou menm Ki te vin ma
 
 -- Bahá'u'lláh
 
-bpn7620 
+bpn7620 «[Kreyol Ayisyen](../ht/prayers/#bpn7620)» 
 
 ----
 
@@ -135,7 +135,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Non Ou pèsonn moun
 
 -- Bahá'u'lláh
 
-bpn7621 
+bpn7621 «[Kreyol Ayisyen](../ht/prayers/#bpn7621)» 
 
 ----
 
@@ -145,7 +145,7 @@ O Bondye, Ou menm Ki Pa Gen Parèy! O Ou menm Senyè Wayòm nan! Se nanm sa yo k
 
 -- Abdu'l-Bahá
 
-bpn7622 
+bpn7622 «[Kreyol Ayisyen](../ht/prayers/#bpn7622)» 
 
 ----
 
@@ -155,7 +155,7 @@ bpn7622
 
 -- Abdu'l-Bahá
 
-bpn7623 
+bpn7623 «[Kreyol Ayisyen](../ht/prayers/#bpn7623)» 
 
 ----
 
@@ -165,7 +165,7 @@ bpn7623
 
 -- Abdu'l-Bahá
 
-bpn7624 
+bpn7624 «[Kreyol Ayisyen](../ht/prayers/#bpn7624)» 
 
 ----
 
@@ -175,7 +175,7 @@ Lwanj pou Ou, O Bondye mwen! Sa yo se sèvitè Ou ki atire avèk pafen mizèrik�
 
 -- Abdu'l-Bahá
 
-bpn7625 
+bpn7625 «[Kreyol Ayisyen](../ht/prayers/#bpn7625)» 
 
 ----
 
@@ -185,7 +185,7 @@ bpn7625
 
 -- Abdu'l-Bahá
 
-bpn7626 
+bpn7626 «[Kreyol Ayisyen](../ht/prayers/#bpn7626)» 
 
 ----
 
@@ -195,7 +195,7 @@ O Bondye! O Bondye! Sa a se yon zwazo ki gen yon zèl kase, epi vòl li ralanti 
 
 -- Abdu'l-Bahá
 
-bpn7627 
+bpn7627 «[Kreyol Ayisyen](../ht/prayers/#bpn7627)» 
 
 ----
 
@@ -205,7 +205,7 @@ O Bondye mwen, voye èd Ou pou sèvitè Ou a kapab simaye Pawòl la, pou li kapa
 
 -- Abdu'l-Bahá
 
-bpn7628 
+bpn7628 «[Kreyol Ayisyen](../ht/prayers/#bpn7628)» 
 
 ----
 
@@ -215,7 +215,7 @@ O Bondye, Bondye mwen! Ede sèvitè Ou yo Ou fè konfyans gen kè ki plen lanmou
 
 -- Abdu'l-Bahá
 
-bpn7629 
+bpn7629 «[Kreyol Ayisyen](../ht/prayers/#bpn7629)» 
 
 ----
 
@@ -225,7 +225,7 @@ bpn7629
 
 -- Abdu'l-Bahá
 
-bpn7630 
+bpn7630 «[Kreyol Ayisyen](../ht/prayers/#bpn7630)» 
 
 ----
 
@@ -235,7 +235,7 @@ O Bondye, Bondye mwen! Bay èd Ou pou sèvitè fidèl Ou yo kapab genyen kè ki 
 
 -- Abdu'l-Bahá
 
-bpn7631 
+bpn7631 «[Kreyol Ayisyen](../ht/prayers/#bpn7631)» 
 
 ----
 
@@ -245,7 +245,7 @@ O Bondye mwen, ede sèvitè Ou yo pou yo leve onè Pawòl la, epi rejte sa ki sa
 
 -- Abdu'l-Bahá
 
-bpn7632 
+bpn7632 «[Kreyol Ayisyen](../ht/prayers/#bpn7632)» 
 
 ----
 
@@ -259,7 +259,7 @@ bpn7632
 
 -- Abdu'l-Bahá
 
-bpn7633 
+bpn7633 «[Kreyol Ayisyen](../ht/prayers/#bpn7633)» 
 
 ----
 
@@ -269,7 +269,7 @@ bpn7633
 
 -- Abdu'l-Bahá
 
-bpn7634 
+bpn7634 «[Kreyol Ayisyen](../ht/prayers/#bpn7634)» 
 
 ----
 
@@ -279,7 +279,7 @@ bpn7634
 
 -- Abdu'l-Bahá
 
-bpn7635 
+bpn7635 «[Kreyol Ayisyen](../ht/prayers/#bpn7635)» 
 
 ----
 
@@ -293,7 +293,7 @@ O Bondye mwen, Mèt mwen, Bi dezi mwen yo! Men sèvitè Ou, ki ta renmen dòmi n
 
 -- Bahá'u'lláh
 
-bpn7636 
+bpn7636 «[Kreyol Ayisyen](../ht/prayers/#bpn7636)» 
 
 ----
 
@@ -303,7 +303,7 @@ O Bondye, Bondye mwen! Kòman mwen kapab chwazi dòmi, lè sila yo ki anvi jwenn
 
 -- Bahá'u'lláh
 
-bpn7637 
+bpn7637 «[Kreyol Ayisyen](../ht/prayers/#bpn7637)» 
 
 ----
 
@@ -317,7 +317,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Avèk gras Ou, pèmèt ti bebe sa a bwè nan
 
 -- Bahá'u'lláh
 
-bpn7763 
+bpn7763 «[Kreyol Ayisyen](../ht/prayers/#bpn7763)» 
 
 ----
 
@@ -327,7 +327,7 @@ O Bondye! Elve ti bebe sa a nan kè lanmou Ou, ba li lèt nan tete Pwovidans Ou 
 
 -- Abdu'l-Bahá
 
-bpn7764 
+bpn7764 «[Kreyol Ayisyen](../ht/prayers/#bpn7764)» 
 
 ----
 
@@ -337,7 +337,7 @@ O Ou menm Senyè Ki pa gen parèy! Pèmèt ti bebe nourison sa a nouri nan tete 
 
 -- Abdu'l-Bahá
 
-bpn7765 
+bpn7765 «[Kreyol Ayisyen](../ht/prayers/#bpn7765)» 
 
 ----
 
@@ -351,7 +351,7 @@ bpn7765
 
 -- Bahá'u'lláh
 
-bpn7643 
+bpn7643 «[Kreyol Ayisyen](../ht/prayers/#bpn7643)» 
 
 ----
 
@@ -365,7 +365,7 @@ Lwanj pou Ou, O Bondye mwen! Mwen se youn nan sèvitè Ou yo ki te kwè nan Ou a
 
 -- Bahá'u'lláh
 
-bpn7639 
+bpn7639 «[Kreyol Ayisyen](../ht/prayers/#bpn7639)» 
 
 ----
 
@@ -375,7 +375,7 @@ O Bondye mwen! Pèmèt mwen avanse bò kote Ou, epi rete nan vwazinaj lakou Ou, 
 
 -- Bahá'u'lláh
 
-bpn7640 
+bpn7640 «[Kreyol Ayisyen](../ht/prayers/#bpn7640)» 
 
 ----
 
@@ -385,7 +385,7 @@ bpn7640
 
 -- Báb
 
-bpn7641 
+bpn7641 «[Kreyol Ayisyen](../ht/prayers/#bpn7641)» 
 
 ----
 
@@ -395,7 +395,7 @@ O Senyè! Bò kote Ou mwen chèche refij, e mwen fikse kè mwen nan direksyon to
 
 -- Báb
 
-bpn7642 
+bpn7642 «[Kreyol Ayisyen](../ht/prayers/#bpn7642)» 
 
 ----
 
@@ -409,7 +409,7 @@ O Bondye mwen, Mèt mwen! Mwen se sèvitè Ou ak pitit sèvitè Ou. Mwen kite ka
 
 -- Bahá'u'lláh
 
-bpn7709 
+bpn7709 «[Kreyol Ayisyen](../ht/prayers/#bpn7709)» 
 
 ----
 
@@ -437,7 +437,7 @@ O Ou menm Ki voye eprèv yo - moun ki rete pre Ou konsidere difikilte sa yo tank
 
 -- Bahá'u'lláh
 
-bpn7650 
+bpn7650 «[Kreyol Ayisyen](../ht/prayers/#bpn7650)» 
 
 ----
 
@@ -447,7 +447,7 @@ Se Ou menm Ki Glorifye, O Senyè Bondye mwen! Chak moun ki konprann ap deklare s
 
 -- Bahá'u'lláh
 
-bpn7651 
+bpn7651 «[Kreyol Ayisyen](../ht/prayers/#bpn7651)» 
 
 ----
 
@@ -457,7 +457,7 @@ O Bondye mwen, kè moun ki debòde ak dezi pou antre nan prezans Ou boule poutè
 
 -- Bahá'u'lláh
 
-bpn7652 
+bpn7652 «[Kreyol Ayisyen](../ht/prayers/#bpn7652)» 
 
 ----
 
@@ -467,7 +467,7 @@ Kiyès aprè Bondye ki kapab fè difikilte yo disparèt? Se pou nou di: Louwe Bo
 
 -- Báb
 
-bpn7653 
+bpn7653 «[Kreyol Ayisyen](../ht/prayers/#bpn7653)» 
 
 ----
 
@@ -477,7 +477,7 @@ O Bondye mwen, Ou konnen trè byen jan tribilasyon te soti nan tout direksyon po
 
 -- Báb
 
-bpn7654 
+bpn7654 «[Kreyol Ayisyen](../ht/prayers/#bpn7654)» 
 
 ----
 
@@ -491,7 +491,7 @@ Lwanj pou non Ou, O Senyè, Bondye mwen! Mwen sipliye Ou poutèt pouvwa Ou ki te
 
 -- Bahá'u'lláh
 
-bpn7661 
+bpn7661 «[Kreyol Ayisyen](../ht/prayers/#bpn7661)» 
 
 ----
 
@@ -501,7 +501,7 @@ O Senyè! Vwazinaj Ou se espwa mwen, prezans Ou se rèv mwen, souvni Ou se dezi 
 
 -- Bahá'u'lláh
 
-bpn7662 
+bpn7662 «[Kreyol Ayisyen](../ht/prayers/#bpn7662)» 
 
 ----
 
@@ -511,7 +511,7 @@ Glwa pou Ou, O Wa etènite a, Kreyatè nasyon yo, ak Mèt Ki fòme chak zo k’a
 
 -- Bahá'u'lláh
 
-bpn7663 
+bpn7663 «[Kreyol Ayisyen](../ht/prayers/#bpn7663)» 
 
 ----
 
@@ -521,7 +521,7 @@ Glwa pou Ou, O Senyè Bondye mwen! Mwen priye Ou fò poutèt Li menm Ki se Pi Gr
 
 -- Bahá'u'lláh
 
-bpn7664 
+bpn7664 «[Kreyol Ayisyen](../ht/prayers/#bpn7664)» 
 
 ----
 
@@ -531,7 +531,7 @@ Se Ou menm Ki louwe ak glorifye, O Bondye! Fè jou kote n’ap jwenn sen prezans
 
 -- Báb
 
-bpn7665 
+bpn7665 «[Kreyol Ayisyen](../ht/prayers/#bpn7665)» 
 
 ----
 
@@ -541,7 +541,7 @@ O Bondye Ki Gen Yon Kè Ki Sansib! Mwen remèsye Ou poutèt Ou te reveye mwen, f
 
 -- Abdu'l-Bahá
 
-bpn7666 
+bpn7666 «[Kreyol Ayisyen](../ht/prayers/#bpn7666)» 
 
 ----
 
@@ -551,7 +551,7 @@ O Ou menm, Bondye mwen, Ou menm K’ap gide chèchè a pou li jwenn chemen k’a
 
 -- Abdu'l-Bahá
 
-bpn7667 
+bpn7667 «[Kreyol Ayisyen](../ht/prayers/#bpn7667)» 
 
 ----
 
@@ -565,7 +565,7 @@ Se Li Ki Pisan an, Ki Padone, Ki Gen Kè Sansib!O Bondye, Bondye mwen! Ou wè s�
 
 -- Bahá'u'lláh
 
-bpn7655 
+bpn7655 «[Kreyol Ayisyen](../ht/prayers/#bpn7655)» 
 
 ----
 
@@ -575,7 +575,7 @@ Lwanj pou Ou, O Senyè, Byeneme mwen an! Fè mwen fèm nan Koz Ou a, e pa kite m
 
 -- Báb
 
-bpn7656 
+bpn7656 «[Kreyol Ayisyen](../ht/prayers/#bpn7656)» 
 
 ----
 
@@ -585,7 +585,7 @@ O Senyè Bondye mwen! Ede moun Ou renmen yo pou yo rete fèm nan Relijyon Ou, po
 
 -- Abdu'l-Bahá
 
-bpn7657 
+bpn7657 «[Kreyol Ayisyen](../ht/prayers/#bpn7657)» 
 
 ----
 
@@ -595,7 +595,7 @@ Fè nou mache avèk fèmte nan chemen Ou, O Senyè, e ranfòse kè nou nan obeyi
 
 -- Abdu'l-Bahá
 
-bpn7658 
+bpn7658 «[Kreyol Ayisyen](../ht/prayers/#bpn7658)» 
 
 ----
 
@@ -605,7 +605,7 @@ O Senyè mwen, Espwa mwen! Voye èd Ou pou byeneme Ou yo kapab fèm nan Alyans p
 
 -- Abdu'l-Bahá
 
-bpn7659 
+bpn7659 «[Kreyol Ayisyen](../ht/prayers/#bpn7659)» 
 
 ----
 
@@ -619,7 +619,7 @@ bpn7659
 
 -- Abdu'l-Bahá
 
-bpn7660 
+bpn7660 «[Kreyol Ayisyen](../ht/prayers/#bpn7660)» 
 
 ----
 
@@ -633,7 +633,7 @@ Se Ou menm, O Bondye mwen, Li menm Ki sèvi ak non Li yo pou geri malad yo ak re
 
 -- Bahá'u'lláh
 
-bpn7671 
+bpn7671 «[Kreyol Ayisyen](../ht/prayers/#bpn7671)» 
 
 ----
 
@@ -647,7 +647,7 @@ Non Ou se gerizon mwen, O Bondye, lè mwen sonje Ou mwen jwenn remèd mwen. Vwaz
 
 -- Bahá'u'lláh
 
-bpn7668 
+bpn7668 «[Kreyol Ayisyen](../ht/prayers/#bpn7668)» 
 
 ----
 
@@ -657,7 +657,7 @@ O Bondye, Bondye mwen! Mwen sipliye Ou poutèt oseyan gerizon Ou ak gran limyè 
 
 -- Bahá'u'lláh
 
-bpn7669 
+bpn7669 «[Kreyol Ayisyen](../ht/prayers/#bpn7669)» 
 
 ----
 
@@ -667,7 +667,7 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Pi Gran Non Ou an O
 
 -- Bahá'u'lláh
 
-bpn7783 
+bpn7783 «[Kreyol Ayisyen](../ht/prayers/#bpn7783)» 
 
 ----
 
@@ -681,7 +681,7 @@ Glwa pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou poutèt Non Ou, Non Ou te sè
 
 -- Bahá'u'lláh
 
-bpn7670 
+bpn7670 «[Kreyol Ayisyen](../ht/prayers/#bpn7670)» 
 
 ----
 
@@ -695,7 +695,7 @@ bpn7670
 
 -- Bahá'u'lláh
 
-bpn7672 
+bpn7672 «[Kreyol Ayisyen](../ht/prayers/#bpn7672)» 
 
 ----
 
@@ -705,7 +705,7 @@ Se Ou menm Ki glorifye, O Senyè Ki Gen Yon Kè Sansib! Mwen sipliye Ou avèk bo
 
 -- Bahá'u'lláh
 
-bpn7673 
+bpn7673 «[Kreyol Ayisyen](../ht/prayers/#bpn7673)» 
 
 ----
 
@@ -719,7 +719,7 @@ O Ou menm Senyè Ki janti! Voye fèmte selès la sou pitit fi wayòm sa a, ede l
 
 -- Abdu'l-Bahá
 
-bpn7777 
+bpn7777 «[Kreyol Ayisyen](../ht/prayers/#bpn7777)» 
 
 ----
 
@@ -733,7 +733,7 @@ Se Ou menm Ki glorifye, O Senyè Bondye mwen! Mwen remèsye Ou paske Ou te kreye
 
 -- Bahá'u'lláh
 
-bpn7782 
+bpn7782 «[Kreyol Ayisyen](../ht/prayers/#bpn7782)» 
 
 ----
 
@@ -743,7 +743,7 @@ O Senyè! Fè jèn sa a klere, e voye bonte Ou yo sou kreyati pòv sa a. Fè li 
 
 -- Abdu'l-Bahá
 
-bpn7674 
+bpn7674 «[Kreyol Ayisyen](../ht/prayers/#bpn7674)» 
 
 ----
 
@@ -753,7 +753,7 @@ Lwanj ak glwa pou Ou, O Senyè Bondye mwen! Sa a se yon jèn pyebwa espesyal Ou 
 
 -- Abdu'l-Bahá
 
-bpn7675 
+bpn7675 «[Kreyol Ayisyen](../ht/prayers/#bpn7675)» 
 
 ----
 
@@ -763,7 +763,7 @@ O Ou menm Senyè Ki janti! Avèk gras Ou, fè chak nan ti zwazo sa yo jwenn yon 
 
 -- Abdu'l-Bahá
 
-bpn7676 
+bpn7676 «[Kreyol Ayisyen](../ht/prayers/#bpn7676)» 
 
 ----
 
@@ -777,7 +777,7 @@ O Bondye mwen, Bondye Ki gen bonte ak mizèrikòd! Se Ou menm Ki Wa a Ki te rele
 
 -- Bahá'u'lláh
 
-bpn7677 
+bpn7677 «[Kreyol Ayisyen](../ht/prayers/#bpn7677)» 
 
 ----
 
@@ -787,7 +787,7 @@ Lwanj pou Non Ou, O Senyè Bondye mwen! Mwen se sèvitè Ou ki te rale Kòd dous
 
 -- Bahá'u'lláh
 
-bpn7678 
+bpn7678 «[Kreyol Ayisyen](../ht/prayers/#bpn7678)» 
 
 ----
 
@@ -797,7 +797,7 @@ Fè mwen bwè, O Bondye mwen, nan sous lavi Ou ki p’ap janm fini an e ki chaje
 
 -- Bahá'u'lláh
 
-bpn7679 
+bpn7679 «[Kreyol Ayisyen](../ht/prayers/#bpn7679)» 
 
 ----
 
@@ -807,7 +807,7 @@ Kreye nan mwen yon kè ki san tach, O Bondye mwen, e remete anndan mwen yon kons
 
 -- Bahá'u'lláh
 
-bpn7680 
+bpn7680 «[Kreyol Ayisyen](../ht/prayers/#bpn7680)» 
 
 ----
 
@@ -817,7 +817,7 @@ O Senyè mwen! Fè bèlte Ou tounen sa m’ap manje a, e prezans Ou sa a m’ap 
 
 -- Bahá'u'lláh
 
-bpn7681 
+bpn7681 «[Kreyol Ayisyen](../ht/prayers/#bpn7681)» 
 
 ----
 
@@ -827,7 +827,7 @@ Se pou nou di: O Bondye, Bondye mwen! Kouwone tèt mwen avèk kouwòn jistis la,
 
 -- Bahá'u'lláh
 
-bpn7682 
+bpn7682 «[Kreyol Ayisyen](../ht/prayers/#bpn7682)» 
 
 ----
 
@@ -837,7 +837,7 @@ Se Li menm Ki Plen Gras, Ki Gen Tout Bonte a!O Dye, Bondye mwen! Apèl Ou te ati
 
 -- Bahá'u'lláh
 
-bpn7683 
+bpn7683 «[Kreyol Ayisyen](../ht/prayers/#bpn7683)» 
 
 ----
 
@@ -847,7 +847,7 @@ Mwen sipliye Ou, O Bondye mwen, poutèt tout glwa a ki nan Non Ou ki pi wo pase 
 
 -- Bahá'u'lláh
 
-bpn7684 
+bpn7684 «[Kreyol Ayisyen](../ht/prayers/#bpn7684)» 
 
 ----
 
@@ -857,7 +857,7 @@ Asepte voye pou mwen, O Bondye mwen, tout pòsyon pa mwen nan lanmou Ou ak bon v
 
 -- Báb
 
-bpn7685 
+bpn7685 «[Kreyol Ayisyen](../ht/prayers/#bpn7685)» 
 
 ----
 
@@ -867,7 +867,7 @@ O Bondye mwen! O Bondye mwen! Sa a se sèvitè Ou ki te avanse nan direksyon Ou,
 
 -- Abdu'l-Bahá
 
-bpn7686 
+bpn7686 «[Kreyol Ayisyen](../ht/prayers/#bpn7686)» 
 
 ----
 
@@ -877,7 +877,7 @@ O Senyè mwen! O Senyè mwen! Sa a se yon lanp ki limen ak dife lanmou Ou e ki a
 
 -- Abdu'l-Bahá
 
-bpn7687 
+bpn7687 «[Kreyol Ayisyen](../ht/prayers/#bpn7687)» 
 
 ----
 
@@ -887,7 +887,7 @@ O Bondye, Bondye mwen! Sila a yo se sèvitè Ou yo ki fèb; yo se sèvitè fidè
 
 -- Abdu'l-Bahá
 
-bpn7688 
+bpn7688 «[Kreyol Ayisyen](../ht/prayers/#bpn7688)» 
 
 ----
 
@@ -897,7 +897,7 @@ O Senyè! Nou fèb; ban nou fòs. O Bondye! Nou inyoran; fè nou konprann. O Sen
 
 -- Abdu'l-Bahá
 
-bpn7689 
+bpn7689 «[Kreyol Ayisyen](../ht/prayers/#bpn7689)» 
 
 ----
 
@@ -911,7 +911,7 @@ bpn7689
 
 -- Abdu'l-Bahá
 
-bpn7690 
+bpn7690 «[Kreyol Ayisyen](../ht/prayers/#bpn7690)» 
 
 ----
 
@@ -925,7 +925,7 @@ bpn7690
 
 -- Bahá'u'lláh
 
-bpn7611 
+bpn7611 «[Kreyol Ayisyen](../ht/prayers/#bpn7611)» 
 
 ----
 
@@ -939,7 +939,7 @@ O Ou menm Senyè Ki gen kè sansib, Ou menm Ki gen men ki renmen bay e Ki gen po
 
 -- Abdu'l-Bahá
 
-bpn7691 
+bpn7691 «[Kreyol Ayisyen](../ht/prayers/#bpn7691)» 
 
 ----
 
@@ -949,7 +949,7 @@ O Ou menm Senyè a Ki bon! O Ou menm Ki renmen bay e Ki plen mizèrikòd! Nou se
 
 -- Abdu'l-Bahá
 
-bpn7692 
+bpn7692 «[Kreyol Ayisyen](../ht/prayers/#bpn7692)» 
 
 ----
 
@@ -959,7 +959,7 @@ O Ou menm Senyè a Ki bon! Ou te kreye tout limanite, fè yo soti nan menm rasin
 
 -- Abdu'l-Bahá
 
-bpn7693 
+bpn7693 «[Kreyol Ayisyen](../ht/prayers/#bpn7693)» 
 
 ----
 
@@ -973,7 +973,7 @@ O Bondye mwen! O Bondye mwen! Ini kè sèvitè Ou yo,  revele pou yo gran plan O
 
 -- Bahá'u'lláh
 
-bpn7694 
+bpn7694 «[Kreyol Ayisyen](../ht/prayers/#bpn7694)» 
 
 ----
 
@@ -983,7 +983,7 @@ O Bondye mwen! O Bondye mwen! An verite, m’ap envoke Ou e m’ap sipliye devan
 
 -- Abdu'l-Bahá
 
-bpn7695 
+bpn7695 «[Kreyol Ayisyen](../ht/prayers/#bpn7695)» 
 
 ----
 
@@ -997,7 +997,7 @@ bpn7695
 
 -- Bahá'u'lláh
 
-bpn7617 
+bpn7613 «[Kreyol Ayisyen](../ht/prayers/#bpn7613)» 
 
 ----
 
@@ -1025,7 +1025,7 @@ bpn7617 «[Kreyol Ayisyen](../ht/prayers/#bpn7617)»
 
 -- Bahá'u'lláh
 
-bpn7696 
+bpn7696 «[Kreyol Ayisyen](../ht/prayers/#bpn7696)» 
 
 ----
 
@@ -1035,7 +1035,7 @@ Lwanj pou non Ou, O Senyè Bondye mwen! Se Ou menm tout bagay adore men Ou menm 
 
 -- Bahá'u'lláh
 
-bpn7697 
+bpn7697 «[Kreyol Ayisyen](../ht/prayers/#bpn7697)» 
 
 ----
 
@@ -1045,7 +1045,7 @@ Nan Non Bondye, Pi Wo a! Se Ou menm Ki louwe ak glorifye, Senyè a, Bondye Toupi
 
 -- Bahá'u'lláh
 
-bpn7698 
+bpn7698 «[Kreyol Ayisyen](../ht/prayers/#bpn7698)» 
 
 ----
 
@@ -1055,7 +1055,7 @@ Glwa pou Ou, O Senyè Bondye mwen! Mwen remèsye Ou paske Ou te ede mwen rekonè
 
 -- Bahá'u'lláh
 
-bpn7699 
+bpn7699 «[Kreyol Ayisyen](../ht/prayers/#bpn7699)» 
 
 ----
 
@@ -1065,7 +1065,7 @@ Beni se kote a, kay la, zòn nan, vil la, kè a, montay la, refij la, gwòt la, 
 
 -- Bahá'u'lláh
 
-bpn7700 
+bpn7700 «[Kreyol Ayisyen](../ht/prayers/#bpn7700)» 
 
 ----
 
@@ -1075,7 +1075,7 @@ O Bondye mwen, tout majeste ak glwa, tout otorite ak limyè, tout grandè ak bè
 
 -- Báb
 
-bpn7701 
+bpn7701 «[Kreyol Ayisyen](../ht/prayers/#bpn7701)» 
 
 ----
 
@@ -1089,7 +1089,7 @@ bpn7701
 
 -- Bahá'u'lláh
 
-bpn7702 
+bpn7702 «[Kreyol Ayisyen](../ht/prayers/#bpn7702)» 
 
 ----
 
@@ -1099,7 +1099,7 @@ O Senyè mwen, O Senyè mwen! De kò selès ki klere sa yo ap marye nan lanmou O
 
 -- Abdu'l-Bahá
 
-bpn7703 
+bpn7703 «[Kreyol Ayisyen](../ht/prayers/#bpn7703)» 
 
 ----
 
@@ -1109,7 +1109,7 @@ Glwa pou Ou, O Bondye mwen! An verite, sèvitè Ou sa a ak sèvant Ou sa a te ra
 
 -- Abdu'l-Bahá
 
-bpn7704 
+bpn7704 «[Kreyol Ayisyen](../ht/prayers/#bpn7704)» 
 
 ----
 
@@ -1119,7 +1119,7 @@ Se Li menm Ki Bondye!O Senyè Ki pa gen parèy! Nan sajès Ou ki toupisan an, Ou
 
 -- Abdu'l-Bahá
 
-bpn7705 
+bpn7705 «[Kreyol Ayisyen](../ht/prayers/#bpn7705)» 
 
 ----
 
@@ -1133,7 +1133,7 @@ Mwen reveye anba abri Ou, O Bondye mwen, e li ta bon pou sila a ki ap chèche ab
 
 -- Bahá'u'lláh
 
-bpn7706 
+bpn7706 «[Kreyol Ayisyen](../ht/prayers/#bpn7706)» 
 
 ----
 
@@ -1143,7 +1143,7 @@ Mwen leve maten an akoz gras Ou, O Bondye mwen, epi mwen te kite lakay mwen ak t
 
 -- Bahá'u'lláh
 
-bpn7707 
+bpn7707 «[Kreyol Ayisyen](../ht/prayers/#bpn7707)» 
 
 ----
 
@@ -1153,7 +1153,7 @@ Mwen ba Ou lwanj, O Bondye mwen, poutèt Ou te reveye mwen fè mwen soti nan dò
 
 -- Bahá'u'lláh
 
-bpn7708 
+bpn7708 «[Kreyol Ayisyen](../ht/prayers/#bpn7708)» 
 
 ----
 
@@ -1167,7 +1167,7 @@ bpn7708
 
 -- Bahá'u'lláh
 
-bpn7638 
+bpn7638 «[Kreyol Ayisyen](../ht/prayers/#bpn7638)» 
 
 ----
 
@@ -1181,7 +1181,7 @@ bpn7638
 
 -- Bahá'u'lláh
 
-bpn7612 
+bpn7612 «[Kreyol Ayisyen](../ht/prayers/#bpn7612)» 
 
 ----
 
@@ -1195,7 +1195,7 @@ O Senyè mwen! Se mwen menm ki te vire figi mwen nan direksyon Ou, ki te fikse e
 
 -- Bahá'u'lláh
 
-bpn7710 
+bpn7710 «[Kreyol Ayisyen](../ht/prayers/#bpn7710)» 
 
 ----
 
@@ -1205,7 +1205,7 @@ Ou wè mwen, O Senyè mwen, avèk figi mwen vire nan direksyon paradi bonte Ou a
 
 -- Bahá'u'lláh
 
-bpn7711 
+bpn7711 «[Kreyol Ayisyen](../ht/prayers/#bpn7711)» 
 
 ----
 
@@ -1215,7 +1215,7 @@ Se pou Non Ou louwe, O Bondye mwen ak Bondye tout bagay, Glwa mwen ak Glwa tout 
 
 -- Bahá'u'lláh
 
-bpn7712 
+bpn7712 «[Kreyol Ayisyen](../ht/prayers/#bpn7712)» 
 
 ----
 
@@ -1225,7 +1225,7 @@ Lwanj pou Ou, O Senyè. Padone nou poutèt peche nou yo, gen mizèrikòd pou nou
 
 -- Báb
 
-bpn7713 
+bpn7713 «[Kreyol Ayisyen](../ht/prayers/#bpn7713)» 
 
 ----
 
@@ -1235,7 +1235,7 @@ Mwen sipliye Ou, O Senyè mwen, pou padone mwen poutèt tout pawòl mwen di ki n
 
 -- Báb
 
-bpn7714 
+bpn7714 «[Kreyol Ayisyen](../ht/prayers/#bpn7714)» 
 
 ----
 
@@ -1245,7 +1245,7 @@ Mwen mande gras Ou, O Bondye mwen, epi mwen sipliye padon Ou nan fason Ou vle s�
 
 -- Báb
 
-bpn7715 
+bpn7715 «[Kreyol Ayisyen](../ht/prayers/#bpn7715)» 
 
 ----
 
@@ -1255,7 +1255,7 @@ Glwa pou Ou, O Bondye. Kòman mwen ta kapab pale sou Ou pandan Ou menm Ou sannti
 
 -- Báb
 
-bpn7716 
+bpn7716 «[Kreyol Ayisyen](../ht/prayers/#bpn7716)» 
 
 ----
 
@@ -1265,7 +1265,7 @@ O Bondye Senyè nou! Pwoteje nou avèk gras Ou kont tout bagay Ou rayi, e voye p
 
 -- Báb
 
-bpn7717 
+bpn7717 «[Kreyol Ayisyen](../ht/prayers/#bpn7717)» 
 
 ----
 
@@ -1275,7 +1275,7 @@ O Ou menm Senyè mizèrikòdye a! Nou se sèvitè devan Papòt Ou, k’ap chèch
 
 -- Abdu'l-Bahá
 
-bpn7718 
+bpn7718 «[Kreyol Ayisyen](../ht/prayers/#bpn7718)» 
 
 ----
 
@@ -1285,7 +1285,7 @@ O Ou menm Senyè K’ap Padone! Se Ou menm Ki sèvi kòm pwoteksyon pou tout sè
 
 -- Abdu'l-Bahá
 
-bpn7719 
+bpn7719 «[Kreyol Ayisyen](../ht/prayers/#bpn7719)» 
 
 ----
 
@@ -1299,7 +1299,7 @@ O Senyè! Ou asepte, nan Pi Gran Epòk sa a, pou pitit yo sipliye Ou nan non par
 
 -- Abdu'l-Bahá
 
-bpn7721 
+bpn7721 «[Kreyol Ayisyen](../ht/prayers/#bpn7721)» 
 
 ----
 
@@ -1313,7 +1313,7 @@ Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!Men Wosinyòl Paradi a K’ap chant
 
 -- Bahá'u'lláh
 
-bpn7615 
+bpn7615 «[Kreyol Ayisyen](../ht/prayers/#bpn7615)» 
 
 ----
 
@@ -1327,7 +1327,7 @@ O Bondye, Bondye mwen! Sèvant sa a ap rele Ou, li mete konfyans li nan Ou, li v
 
 -- Abdu'l-Bahá
 
-bpn7726 
+bpn7726 «[Kreyol Ayisyen](../ht/prayers/#bpn7726)» 
 
 ----
 
@@ -1341,7 +1341,7 @@ bpn7726
 
 -- Bahá'u'lláh
 
-bpn7614 
+bpn7614 «[Kreyol Ayisyen](../ht/prayers/#bpn7614)» 
 
 ----
 
@@ -1355,7 +1355,7 @@ bpn7614
 
 -- Bahá'u'lláh
 
-bpn7618 
+bpn7618 «[Kreyol Ayisyen](../ht/prayers/#bpn7618)» 
 
 ----
 
@@ -1369,7 +1369,7 @@ bpn7618
 
 -- Abdu'l-Bahá
 
-bpn7619 
+bpn7619 «[Kreyol Ayisyen](../ht/prayers/#bpn7619)» 
 
 ----
 
@@ -1383,7 +1383,7 @@ bpn7619
 
 -- Abdu'l-Bahá
 
-bpn7768 
+bpn7768 «[Kreyol Ayisyen](../ht/prayers/#bpn7768)» 
 
 ----
 
@@ -1397,7 +1397,7 @@ Glwa pou non Ou, O Senyè Bondye mwen! Mwen mande Ou pou temwaye je mwen k’ap 
 
 -- Bahá'u'lláh
 
-bpn7722 
+bpn7722 «[Kreyol Ayisyen](../ht/prayers/#bpn7722)» 
 
 ----
 
@@ -1407,7 +1407,7 @@ O Bondye, Bondye mwen! Ranpli pou mwen tas lespri ki detache ak tout bagay, e re
 
 -- Abdu'l-Bahá
 
-bpn7723 
+bpn7723 «[Kreyol Ayisyen](../ht/prayers/#bpn7723)» 
 
 ----
 
@@ -1421,7 +1421,7 @@ Senyè mwen! Senyè mwen! Mwen louwe Ou epi mwen remèsye Ou poutèt benediksyon
 
 -- Abdu'l-Bahá
 
-bpn7725 
+bpn7725 «[Kreyol Ayisyen](../ht/prayers/#bpn7725)» 
 
 ----
 
@@ -1435,7 +1435,7 @@ O Bondye mwen, O Ou menm Ki padone peche yo e Ki elimine soufrans yo! O Ou menm 
 
 -- Abdu'l-Bahá
 
-bpn7731 
+bpn7731 «[Kreyol Ayisyen](../ht/prayers/#bpn7731)» 
 
 ----
 
@@ -1445,7 +1445,7 @@ O Ou menm Senyè Ki Gen Kè Dou! Sèvant Ou sa a ki chè pou nou te vle avanse n
 
 -- Abdu'l-Bahá
 
-bpn7732 
+bpn7732 «[Kreyol Ayisyen](../ht/prayers/#bpn7732)» 
 
 ----
 
@@ -1459,7 +1459,7 @@ bpn7732
 
 -- Bahá'u'lláh
 
-bpn7769 
+bpn7769 «[Kreyol Ayisyen](../ht/prayers/#bpn7769)» 
 
 ----
 
@@ -1469,7 +1469,7 @@ bpn7769
 
 -- Bahá'u'lláh
 
-bpn7770 
+bpn7770 «[Kreyol Ayisyen](../ht/prayers/#bpn7770)» 
 
 ----
 
@@ -1479,7 +1479,7 @@ bpn7770
 
 -- Bahá'u'lláh
 
-bpn7771 
+bpn7771 «[Kreyol Ayisyen](../ht/prayers/#bpn7771)» 
 
 ----
 
@@ -1489,7 +1489,7 @@ Lwanj pou Ou, O Bondye, Bondye mwen! Sa yo se jou Ou te kòmande sila yo Ou te c
 
 -- Bahá'u'lláh
 
-bpn7772 
+bpn7772 «[Kreyol Ayisyen](../ht/prayers/#bpn7772)» 
 
 ----
 
@@ -1499,7 +1499,7 @@ O Bondye mwen! Jou sa yo se jou kote Ou te mande sèvitè Ou yo pou yo fè Jèn 
 
 -- Bahá'u'lláh
 
-bpn7773 
+bpn7773 «[Kreyol Ayisyen](../ht/prayers/#bpn7773)» 
 
 ----
 
@@ -1509,7 +1509,7 @@ O Bondye Mizèrikòdye a, Ou menm Ki genyen pouvwa ki antoure tout bagay ki krey
 
 -- Bahá'u'lláh
 
-bpn7774 
+bpn7774 «[Kreyol Ayisyen](../ht/prayers/#bpn7774)» 
 
 ----
 
@@ -1519,7 +1519,7 @@ Glwa pou Ou, O Senyè, Bondye mwen! Men jou Ou te kòmande pou tout moun swiv j�
 
 -- Bahá'u'lláh
 
-bpn7775 
+bpn7775 «[Kreyol Ayisyen](../ht/prayers/#bpn7775)» 
 
 ----
 
@@ -1533,7 +1533,7 @@ Glwa pou Ou, O Senyè Bondye mwen! Pa abese moun Ou te egzalte avèk pouvwa souv
 
 -- Bahá'u'lláh
 
-bpn7727 
+bpn7727 «[Kreyol Ayisyen](../ht/prayers/#bpn7727)» 
 
 ----
 
@@ -1543,7 +1543,7 @@ Se Li menm Ki Bondye, Sila a Ki egzalte, Senyè a Ki gen yon jantiyès ki plen l
 
 -- Bahá'u'lláh
 
-bpn7728 
+bpn7728 «[Kreyol Ayisyen](../ht/prayers/#bpn7728)» 
 
 ----
 
@@ -1553,7 +1553,7 @@ O Ou menm, Senyè K’ap padone!Malgre kèk nanm te pase tout jou lavi yo nan in
 
 -- Abdu'l-Bahá
 
-bpn7729 
+bpn7729 «[Kreyol Ayisyen](../ht/prayers/#bpn7729)» 
 
 ----
 
@@ -1563,7 +1563,7 @@ O Bondye mwen! O Ou menm Ki padone peche yo, Ki bay favè yo, Ki fè soufrans yo
 
 -- Abdu'l-Bahá
 
-bpn7730 
+bpn7730 «[Kreyol Ayisyen](../ht/prayers/#bpn7730)» 
 
 ----
 
@@ -1573,7 +1573,7 @@ bpn7730
 
 -- Abdu'l-Bahá
 
-bpn7781 
+bpn7781 «[Kreyol Ayisyen](../ht/prayers/#bpn7781)» 
 
 ----
 
@@ -1587,7 +1587,7 @@ bpn7781
 
 -- Bahá'u'lláh
 
-bpn7776 
+bpn7776 «[Kreyol Ayisyen](../ht/prayers/#bpn7776)» 
 
 ----
 
@@ -1601,7 +1601,7 @@ bpn7776
 
 -- Bahá'u'lláh
 
-bpn7778 
+bpn7778 «[Kreyol Ayisyen](../ht/prayers/#bpn7778)» 
 
 ----
 
@@ -1615,7 +1615,7 @@ Lwanj pou Ou menm, O Senyè Bondye mwen! Sa a se sèvitè Ou ki te bwè nan men 
 
 -- Bahá'u'lláh
 
-bpn7733 
+bpn7733 «[Kreyol Ayisyen](../ht/prayers/#bpn7733)» 
 
 ----
 
@@ -1625,7 +1625,7 @@ Se pou non Ou louwe, O Senyè Bondye mwen! Mwen sipliye Ou avèk Non Ou ki te f�
 
 -- Bahá'u'lláh
 
-bpn7734 
+bpn7734 «[Kreyol Ayisyen](../ht/prayers/#bpn7734)» 
 
 ----
 
@@ -1635,7 +1635,7 @@ O Dye, Bondye mwen! Mwen te kite lakay mwen, pandan mwen t’ap kenbe fèm fil l
 
 -- Bahá'u'lláh
 
-bpn7735 
+bpn7735 «[Kreyol Ayisyen](../ht/prayers/#bpn7735)» 
 
 ----
 
@@ -1645,7 +1645,7 @@ bpn7735
 
 -- Báb
 
-bpn7736 
+bpn7736 «[Kreyol Ayisyen](../ht/prayers/#bpn7736)» 
 
 ----
 
@@ -1655,7 +1655,7 @@ Voye pou mwen, O Senyè mwen, ak pou moun ki kwè nan Ou, sa Ou estime k’ap pi
 
 -- Báb
 
-bpn7737 
+bpn7737 «[Kreyol Ayisyen](../ht/prayers/#bpn7737)» 
 
 ----
 
@@ -1665,7 +1665,7 @@ Glwa pou Ou, O Bondye! Se Ou menm Bondye Ki te egziste anvan tout bagay, Ki ap e
 
 -- Báb
 
-bpn7738 
+bpn7738 «[Kreyol Ayisyen](../ht/prayers/#bpn7738)» 
 
 ----
 
@@ -1675,7 +1675,7 @@ O Bondye, Bondye mwen! Defann sèvitè fidèl Ou yo kont mechanste egoyis ak pas
 
 -- Abdu'l-Bahá
 
-bpn7739 
+bpn7739 «[Kreyol Ayisyen](../ht/prayers/#bpn7739)» 
 
 ----
 
@@ -1685,7 +1685,7 @@ O Senyè mwen! Ou konnen pèp yo ansèkle ak doulè ak kalamite epi soufrans ak 
 
 -- Abdu'l-Bahá
 
-bpn7740 
+bpn7740 «[Kreyol Ayisyen](../ht/prayers/#bpn7740)» 
 
 ----
 
@@ -1699,7 +1699,7 @@ bpn7740
 
 -- Bahá'u'lláh
 
-bpn7741 
+bpn7741 «[Kreyol Ayisyen](../ht/prayers/#bpn7741)» 
 
 ----
 
@@ -1713,7 +1713,7 @@ O Ou menm Bondye Ki plen mizèrikòd la! O Ou menm Ki rete pisan e plen pouvwa! 
 
 -- Abdu'l-Bahá
 
-bpn7742 
+bpn7742 «[Kreyol Ayisyen](../ht/prayers/#bpn7742)» 
 
 ----
 
@@ -1723,7 +1723,7 @@ O Pwovidans Diven an! Rankont sa a regwoupe zanmi Ou ki atire ak bèlte Ou e k�
 
 -- Abdu'l-Bahá
 
-bpn7743 
+bpn7743 «[Kreyol Ayisyen](../ht/prayers/#bpn7743)» 
 
 ----
 
@@ -1733,7 +1733,7 @@ O Ou menm Senyè Ki gen kè sansib! Sèvitè Ou sa yo te reyini nan rankont sa a
 
 -- Abdu'l-Bahá
 
-bpn7744 
+bpn7744 «[Kreyol Ayisyen](../ht/prayers/#bpn7744)» 
 
 ----
 
@@ -1743,7 +1743,7 @@ bpn7744
 
 -- Abdu'l-Bahá
 
-bpn7780 
+bpn7780 «[Kreyol Ayisyen](../ht/prayers/#bpn7780)» 
 
 ----
 
@@ -1757,7 +1757,7 @@ Glwa pou Ou, O Bondye, poutèt Siyn Lanmou Ou bay limanite! O Ou menm, Ki se Lav
 
 -- Bahá'u'lláh
 
-bpn7748 
+bpn7748 «[Kreyol Ayisyen](../ht/prayers/#bpn7748)» 
 
 ----
 
@@ -1767,7 +1767,7 @@ Se Ou menm Ki Gloriye, O Senyè Bondye mwen! Chak fwa mwen eseye site Non Ou, mw
 
 -- Bahá'u'lláh
 
-bpn7749 
+bpn7749 «[Kreyol Ayisyen](../ht/prayers/#bpn7749)» 
 
 ----
 
@@ -1777,7 +1777,7 @@ Bondye mwen, Sila a mwen Adore a, Wa mwen, Dezi mwen! Ki lang ki kapab esplike r
 
 -- Bahá'u'lláh
 
-bpn7750 
+bpn7750 «[Kreyol Ayisyen](../ht/prayers/#bpn7750)» 
 
 ----
 
@@ -1787,7 +1787,7 @@ O Bondye, se figi Ou ki objektif lwanj mwen, se bèlte Ou ki azil mwen, se abita
 
 -- Bahá'u'lláh
 
-bpn7751 
+bpn7751 «[Kreyol Ayisyen](../ht/prayers/#bpn7751)» 
 
 ----
 
@@ -1797,7 +1797,7 @@ Lwanj pou Non Ou, O Senyè Bondye nou! Se sèl Ou menm vrèman Ki konnen bagay k
 
 -- Báb
 
-bpn7752 
+bpn7752 «[Kreyol Ayisyen](../ht/prayers/#bpn7752)» 
 
 ----
 
@@ -1807,7 +1807,7 @@ bpn7752
 
 -- Báb
 
-bpn7779 
+bpn7779 «[Kreyol Ayisyen](../ht/prayers/#bpn7779)» 
 
 ----
 
@@ -1817,7 +1817,7 @@ Gran Mèt! Nou merite pitye, ban nou favè Ou; nou pòv, ban nou yon pòsyon nan
 
 -- Abdu'l-Bahá
 
-bpn7753 
+bpn7753 «[Kreyol Ayisyen](../ht/prayers/#bpn7753)» 
 
 ----
 
@@ -1831,7 +1831,7 @@ O Bondye mwen! Nan Non Ou ki genyen tout glwa, mwen mande Ou pou ede mwen fè za
 
 -- Bahá'u'lláh
 
-bpn7745 
+bpn7745 «[Kreyol Ayisyen](../ht/prayers/#bpn7745)» 
 
 ----
 
@@ -1841,7 +1841,7 @@ O Bondye, Bondye tout Non yo, ak Kreyatè syèl yo! Mwen sipliye Ou avèk Non Ou
 
 -- Bahá'u'lláh
 
-bpn7746 
+bpn7746 «[Kreyol Ayisyen](../ht/prayers/#bpn7746)» 
 
 ----
 
@@ -1851,7 +1851,7 @@ O Senyè, Bondye mwen ak Fòterès mwen nan soufrans mwen! Defans mwen ak Abri m
 
 -- Abdu'l-Bahá
 
-bpn7747 
+bpn7747 «[Kreyol Ayisyen](../ht/prayers/#bpn7747)» 
 
 ----
 
@@ -1865,7 +1865,7 @@ O Senyè mwen, Byeneme mwen an, Dezi mwen! Rete yon zanmi pou mwen lè mwen sant
 
 -- Abdu'l-Bahá
 
-bpn7724 
+bpn7724 «[Kreyol Ayisyen](../ht/prayers/#bpn7724)» 
 
 ----
 
@@ -1879,7 +1879,7 @@ O Bondye! Edike timoun sa yo. Timoun sa yo se plant nan jaden fwi Ou, flè nan p
 
 -- Abdu'l-Bahá
 
-bpn7754 
+bpn7754 «[Kreyol Ayisyen](../ht/prayers/#bpn7754)» 
 
 ----
 
@@ -1889,7 +1889,7 @@ Se Li menm Ki Bondye! O Bondye, Bondye mwen! Voye sou mwen yon kè ki san tach, 
 
 -- Abdu'l-Bahá
 
-bpn7755 
+bpn7755 «[Kreyol Ayisyen](../ht/prayers/#bpn7755)» 
 
 ----
 
@@ -1899,7 +1899,7 @@ O Ou menm Senyè Ki janti! Bèl timoun sa yo se rezilta travay dwèt pisans Ou y
 
 -- Abdu'l-Bahá
 
-bpn7756 
+bpn7756 «[Kreyol Ayisyen](../ht/prayers/#bpn7756)» 
 
 ----
 
@@ -1909,7 +1909,7 @@ O Bondye, gide mwen, pwoteje mwen, limen lanp kè mwen e fè mwen tounen yon zet
 
 -- Abdu'l-Bahá
 
-bpn7757 
+bpn7757 «[Kreyol Ayisyen](../ht/prayers/#bpn7757)» 
 
 ----
 
@@ -1919,7 +1919,7 @@ O Senyè! Fè timoun sa yo vin tankou bèl flè yo. Pèmèt yo pouse ak devlope 
 
 -- Abdu'l-Bahá
 
-bpn7758 
+bpn7758 «[Kreyol Ayisyen](../ht/prayers/#bpn7758)» 
 
 ----
 
@@ -1929,7 +1929,7 @@ O Bondye mwen! O Bondye mwen! Ou wè timoun sa yo ki se tij nan pyebwa lavi a, z
 
 -- Abdu'l-Bahá
 
-bpn7759 
+bpn7759 «[Kreyol Ayisyen](../ht/prayers/#bpn7759)» 
 
 ----
 
@@ -1939,7 +1939,7 @@ O Senyè mwen! O Senyè mwen!Mwen se yon timoun ki pa gen anpil laj. Nouri mwen 
 
 -- Abdu'l-Bahá
 
-bpn7760 
+bpn7760 «[Kreyol Ayisyen](../ht/prayers/#bpn7760)» 
 
 ----
 
@@ -1949,7 +1949,7 @@ O Senyè! Mwen se yon timoun; pèmèt mwen grandi anba lonbraj jantiyès Ou an k
 
 -- Abdu'l-Bahá
 
-bpn7761 
+bpn7761 «[Kreyol Ayisyen](../ht/prayers/#bpn7761)» 
 
 ----
 
@@ -1963,7 +1963,7 @@ O Ou menm Senyè Ki pi gloriye a! Fè jèn sèvant Ou sa a beni e kontan; fè mo
 
 -- Abdu'l-Bahá
 
-bpn7762 
+bpn7762 «[Kreyol Ayisyen](../ht/prayers/#bpn7762)» 
 
 ----
 
@@ -1977,7 +1977,7 @@ Glwa pou Ou, O Senyè, Ou menm Ki te fè tout bagay ki te kreye parèt avèk pou
 
 -- Báb
 
-bpn7766 
+bpn7766 «[Kreyol Ayisyen](../ht/prayers/#bpn7766)» 
 
 ----
 
@@ -1987,7 +1987,7 @@ O Senyè! Pèmèt tout pèp ki sou latè antre nan Paradi Relijyon Ou, jiskaske 
 
 -- Báb
 
-bpn7767 
+bpn7767 «[Kreyol Ayisyen](../ht/prayers/#bpn7767)» 
 
 ----
 
@@ -2001,7 +2001,7 @@ Chase chagren mwen avèk fòs bonte Ou ak gran favè Ou yo, O Bondye, Bondye mwe
 
 -- Bahá'u'lláh
 
-bpn7644 
+bpn7644 «[Kreyol Ayisyen](../ht/prayers/#bpn7644)» 
 
 ----
 
@@ -2011,7 +2011,7 @@ Nou ba Ou lwanj ak glwa, O Bondye mwen! Mwen sipliye Ou, poutèt soupi amoure Ou
 
 -- Bahá'u'lláh
 
-bpn7645 
+bpn7645 «[Kreyol Ayisyen](../ht/prayers/#bpn7645)» 
 
 ----
 
@@ -2021,7 +2021,7 @@ bpn7645
 
 -- Báb
 
-bpn7646 
+bpn7646 «[Kreyol Ayisyen](../ht/prayers/#bpn7646)» 
 
 ----
 
@@ -2031,7 +2031,7 @@ O Senyè! Se Ou menm Ki fè chak doulè disparèt e Ki elimine tout soufrans. Se
 
 -- Báb
 
-bpn7647 
+bpn7647 «[Kreyol Ayisyen](../ht/prayers/#bpn7647)» 
 
 ----
 
@@ -2041,7 +2041,7 @@ O Bondye mwen! Ak tout kè m’, mwen mande Ou, avèk pisans Ou, pou pa kite oke
 
 -- Báb
 
-bpn7648 
+bpn7648 «[Kreyol Ayisyen](../ht/prayers/#bpn7648)» 
 
 ----
 
@@ -2051,7 +2051,7 @@ Se Li Ki Gen Konpasyon, Ki Gen Tout Bonte a! O Bondye, Bondye mwen! Ou wè mwen,
 
 -- Abdu'l-Bahá
 
-bpn7649 
+bpn7649 «[Kreyol Ayisyen](../ht/prayers/#bpn7649)» 
 
 ----
 

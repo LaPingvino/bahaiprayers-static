@@ -37,7 +37,6 @@ tags = ['lang=kgf', 'prayerbook']
 
 [Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc)
 
-[Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc)
 
 
 <a id="Ac+Mosoc+Hoto%C5%8B%C5%8Ba+Kaiwe+S%C3%AAc+Mep%C3%AAsima+Kecmu"></a> 
@@ -48,7 +47,7 @@ tags = ['lang=kgf', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn13034 
+bpn13034 «[Kube](../kgf/prayers/#bpn13034)» 
 
 ----
 
@@ -62,7 +61,7 @@ Zêzê sêgisêgi mepê qepêsi Kewu geŋga moru haʒac.  O Kewu Yanda:  Nini yo
 
 -- Abdu'l-Bahá
 
-bpn13039 
+bpn13039 «[Kube](../kgf/prayers/#bpn13039)» 
 
 ----
 
@@ -76,7 +75,7 @@ bpn13039
 
 -- Bahá'u'lláh
 
-bpn13038 
+bpn13038 «[Kube](../kgf/prayers/#bpn13038)» 
 
 ----
 
@@ -90,7 +89,7 @@ Yomuhuc zêʒua.  O Kewu.  Kewu na orucna asacmararaŋ ganêŋ qezericna orucna 
 
 -- Abdu'l-Bahá
 
-bpn13044 
+bpn13044 «[Kube](../kgf/prayers/#bpn13044)» 
 
 ----
 
@@ -104,7 +103,7 @@ bpn13044
 
 -- Bahá'u'lláh
 
-bpn13041 
+bpn13041 «[Kube](../kgf/prayers/#bpn13041)» 
 
 ----
 
@@ -118,7 +117,7 @@ O Nemu Yanda.  O Kewuna.  Gi hêna oriŋga ninicna sêcgêʒac imi meseli nênê
 
 -- Abdu'l-Bahá
 
-bpn13048 
+bpn13048 «[Kube](../kgf/prayers/#bpn13048)» 
 
 ----
 
@@ -132,7 +131,7 @@ O Kewu, geŋgaoc zêra bêra gêsina.  Baec iguc ic kuc mêŋŋê hia mênda nes
 
 -- Báb
 
-bpn13035 
+bpn13035 «[Kube](../kgf/prayers/#bpn13035)» 
 
 ----
 
@@ -146,7 +145,7 @@ O Kewu.  Kekec hêna hiabia nêʒêna hêmba galeŋgê nênna asacmararaŋ gaŋ�
 
 -- Abdu'l-Bahá
 
-bpn13040 
+bpn13040 «[Kube](../kgf/prayers/#bpn13040)» 
 
 ----
 
@@ -160,7 +159,7 @@ bpn13040
 
 -- Abdu'l-Bahá
 
-bpn13042 
+bpn13042 «[Kube](../kgf/prayers/#bpn13042)» 
 
 ----
 
@@ -174,7 +173,7 @@ O Kewuna!  O Kewuna!  Hêna oriŋga ewa nina qutulaŋgêna ac koazêcgawac hêni
 
 -- Bahá'u'lláh
 
-bpn13036 
+bpn13036 «[Kube](../kgf/prayers/#bpn13036)» 
 
 ----
 
@@ -188,7 +187,7 @@ bpn13036
 
 -- Abdu'l-Bahá
 
-bpn13046 
+bpn13046 «[Kube](../kgf/prayers/#bpn13046)» 
 
 ----
 
@@ -202,7 +201,7 @@ O Kewu Na.  Gi nuac maŋgocna.  Ni guac ewana kunen yanda heʒac.  Ai icga ni si
 
 -- Bahá'u'lláh
 
-bpn13045 
+bpn13045 «[Kube](../kgf/prayers/#bpn13045)» 
 
 ----
 
@@ -216,7 +215,7 @@ O Kewu Yanda, tilêŋtilêŋ miŋŋina.  Ni ewa hia nimma mepêsi gênzua.  Nêm
 
 -- Bahá'u'lláh
 
-bpn13047 
+bpn13047 «[Kube](../kgf/prayers/#bpn13047)» 
 
 ----
 
@@ -230,7 +229,7 @@ Kewu uŋwambuŋga baecsêc, amaiguc, ama qeru qutulaŋ amaiguc, ic embac qeri ig
 
 -- Bahá'u'lláh
 
-bpn13033 
+bpn13033 «[Kube](../kgf/prayers/#bpn13033)» 
 
 ----
 
@@ -244,7 +243,7 @@ O Kewu kunenna.  O Kewu kunenna.  Ai icga youmi imi kifaga geŋga uŋagawac uŋw
 
 -- Bahá'u'lláh
 
-bpn13043 
+bpn13043 «[Kube](../kgf/prayers/#bpn13043)» 
 
 ----
 
@@ -258,7 +257,7 @@ O Kewuna.  Qacga iminêŋ nuac sacmasi wamma hafina nesimac.  Ni imuhuc ninzêŋ
 
 -- Bahá'u'lláh
 
-bpn13037 
+bpn13037 «[Kube](../kgf/prayers/#bpn13037)» 
 
 ----
 

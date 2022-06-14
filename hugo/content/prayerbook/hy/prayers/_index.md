@@ -85,7 +85,6 @@ tags = ['lang=hy', 'prayerbook']
 
 [ՕԳՆՈՒԹՅՈՒՆ](#%D5%95%D4%B3%D5%86%D5%88%D5%92%D4%B9%D5%85%D5%88%D5%92%D5%86)
 
-[ՕԳՆՈՒԹՅՈՒՆ](#%D5%95%D4%B3%D5%86%D5%88%D5%92%D4%B9%D5%85%D5%88%D5%92%D5%86)
 
 
 <a id="%D4%B1%D4%B6%D4%B1%D5%8F%D5%88%D5%92%D5%84+%D4%B1%D5%87%D4%BD%D4%B1%D5%90%D5%80%D4%BB%D4%BF%D4%BB%D5%91"></a> 
@@ -96,7 +95,7 @@ tags = ['lang=hy', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn4591 
+bpn4591 «[հայերեն](../hy/prayers/#bpn4591)» 
 
 ----
 
@@ -106,7 +105,7 @@ bpn4591
 
 -- Bahá'u'lláh
 
-bpn4592 
+bpn4592 «[հայերեն](../hy/prayers/#bpn4592)» 
 
 ----
 
@@ -116,7 +115,7 @@ bpn4592
 
 -- Bahá'u'lláh
 
-bpn4593 
+bpn4593 «[հայերեն](../hy/prayers/#bpn4593)» 
 
 ----
 
@@ -126,7 +125,7 @@ bpn4593
 
 -- Bahá'u'lláh
 
-bpn4594 
+bpn4594 «[հայերեն](../hy/prayers/#bpn4594)» 
 
 ----
 
@@ -136,7 +135,7 @@ bpn4594
 
 -- Báb
 
-bpn4595 
+bpn4595 «[հայերեն](../hy/prayers/#bpn4595)» 
 
 ----
 
@@ -146,7 +145,7 @@ bpn4595
 
 -- Báb
 
-bpn4596 
+bpn4596 «[հայերեն](../hy/prayers/#bpn4596)» 
 
 ----
 
@@ -156,7 +155,7 @@ bpn4596
 
 -- Báb
 
-bpn4597 
+bpn4597 «[հայերեն](../hy/prayers/#bpn4597)» 
 
 ----
 
@@ -166,7 +165,7 @@ bpn4597
 
 -- Abdu'l-Bahá
 
-bpn4598 
+bpn4598 «[հայերեն](../hy/prayers/#bpn4598)» 
 
 ----
 
@@ -176,7 +175,7 @@ bpn4598
 
 -- Abdu'l-Bahá
 
-bpn4599 
+bpn4599 «[հայերեն](../hy/prayers/#bpn4599)» 
 
 ----
 
@@ -190,7 +189,7 @@ bpn4599
 
 -- Abdu'l-Bahá
 
-bpn4632 
+bpn4632 «[հայերեն](../hy/prayers/#bpn4632)» 
 
 ----
 
@@ -200,7 +199,7 @@ bpn4632
 
 -- Abdu'l-Bahá
 
-bpn4633 
+bpn4633 «[հայերեն](../hy/prayers/#bpn4633)» 
 
 ----
 
@@ -210,7 +209,7 @@ bpn4633
 
 -- Abdu'l-Bahá
 
-bpn4634 
+bpn4634 «[հայերեն](../hy/prayers/#bpn4634)» 
 
 ----
 
@@ -220,7 +219,7 @@ bpn4634
 
 -- Abdu'l-Bahá
 
-bpn4635 
+bpn4635 «[հայերեն](../hy/prayers/#bpn4635)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn4635
 
 -- Abdu'l-Bahá
 
-bpn4636 
+bpn4636 «[հայերեն](../hy/prayers/#bpn4636)» 
 
 ----
 
@@ -240,7 +239,7 @@ bpn4636
 
 -- Abdu'l-Bahá
 
-bpn4637 
+bpn4637 «[հայերեն](../hy/prayers/#bpn4637)» 
 
 ----
 
@@ -250,7 +249,7 @@ bpn4637
 
 -- Abdu'l-Bahá
 
-bpn4638 
+bpn4638 «[հայերեն](../hy/prayers/#bpn4638)» 
 
 ----
 
@@ -264,7 +263,7 @@ bpn4638
 
 -- Abdu'l-Bahá
 
-bpn4641 
+bpn4641 «[հայերեն](../hy/prayers/#bpn4641)» 
 
 ----
 
@@ -278,7 +277,7 @@ bpn4641
 
 -- Bahá'u'lláh
 
-bpn4676 
+bpn4676 «[հայերեն](../hy/prayers/#bpn4676)» 
 
 ----
 
@@ -288,7 +287,7 @@ bpn4676
 
 -- Abdu'l-Bahá
 
-bpn4677 
+bpn4677 «[հայերեն](../hy/prayers/#bpn4677)» 
 
 ----
 
@@ -298,7 +297,7 @@ bpn4677
 
 -- Abdu'l-Bahá
 
-bpn4678 
+bpn4678 «[հայերեն](../hy/prayers/#bpn4678)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn4678
 
 -- Bahá'u'lláh
 
-bpn4583 
+bpn4583 «[հայերեն](../hy/prayers/#bpn4583)» 
 
 ----
 
@@ -322,7 +321,7 @@ bpn4583
 
 -- Bahá'u'lláh
 
-bpn4584 
+bpn4584 «[հայերեն](../hy/prayers/#bpn4584)» 
 
 ----
 
@@ -332,7 +331,7 @@ bpn4584
 
 -- Bahá'u'lláh
 
-bpn4585 
+bpn4585 «[հայերեն](../hy/prayers/#bpn4585)» 
 
 ----
 
@@ -342,7 +341,7 @@ bpn4585
 
 -- Báb
 
-bpn4586 
+bpn4586 «[հայերեն](../hy/prayers/#bpn4586)» 
 
 ----
 
@@ -352,7 +351,7 @@ bpn4586
 
 -- Báb
 
-bpn4587 
+bpn4587 «[հայերեն](../hy/prayers/#bpn4587)» 
 
 ----
 
@@ -362,7 +361,7 @@ bpn4587
 
 -- Báb
 
-bpn4588 
+bpn4588 «[հայերեն](../hy/prayers/#bpn4588)» 
 
 ----
 
@@ -372,7 +371,7 @@ bpn4588
 
 -- Báb
 
-bpn4589 
+bpn4589 «[հայերեն](../hy/prayers/#bpn4589)» 
 
 ----
 
@@ -382,7 +381,7 @@ bpn4589
 
 -- Báb
 
-bpn4590 
+bpn4590 «[հայերեն](../hy/prayers/#bpn4590)» 
 
 ----
 
@@ -396,7 +395,7 @@ bpn4590
 
 -- Bahá'u'lláh
 
-bpn4579 
+bpn4579 «[հայերեն](../hy/prayers/#bpn4579)» 
 
 ----
 
@@ -406,7 +405,7 @@ bpn4579
 
 -- Bahá'u'lláh
 
-bpn4580 
+bpn4580 «[հայերեն](../hy/prayers/#bpn4580)» 
 
 ----
 
@@ -416,7 +415,7 @@ bpn4580
 
 -- Bahá'u'lláh
 
-bpn4581 
+bpn4581 «[հայերեն](../hy/prayers/#bpn4581)» 
 
 ----
 
@@ -430,7 +429,7 @@ bpn4581
 
 -- Bahá'u'lláh
 
-bpn4600 
+bpn4600 «[հայերեն](../hy/prayers/#bpn4600)» 
 
 ----
 
@@ -440,7 +439,7 @@ bpn4600
 
 -- Bahá'u'lláh
 
-bpn4601 
+bpn4601 «[հայերեն](../hy/prayers/#bpn4601)» 
 
 ----
 
@@ -450,7 +449,7 @@ bpn4601
 
 -- Báb
 
-bpn4602 
+bpn4602 «[հայերեն](../hy/prayers/#bpn4602)» 
 
 ----
 
@@ -460,7 +459,7 @@ bpn4602
 
 -- Báb
 
-bpn4603 
+bpn4603 «[հայերեն](../hy/prayers/#bpn4603)» 
 
 ----
 
@@ -470,7 +469,7 @@ bpn4603
 
 -- Báb
 
-bpn4604 
+bpn4604 «[հայերեն](../hy/prayers/#bpn4604)» 
 
 ----
 
@@ -480,7 +479,7 @@ bpn4604
 
 -- Báb
 
-bpn4605 
+bpn4605 «[հայերեն](../hy/prayers/#bpn4605)» 
 
 ----
 
@@ -490,7 +489,7 @@ bpn4605
 
 -- Báb
 
-bpn4606 
+bpn4606 «[հայերեն](../hy/prayers/#bpn4606)» 
 
 ----
 
@@ -500,7 +499,7 @@ bpn4606
 
 -- Abdu'l-Bahá
 
-bpn4607 
+bpn4607 «[հայերեն](../hy/prayers/#bpn4607)» 
 
 ----
 
@@ -510,7 +509,7 @@ bpn4607
 
 -- Abdu'l-Bahá
 
-bpn4608 
+bpn4608 «[հայերեն](../hy/prayers/#bpn4608)» 
 
 ----
 
@@ -524,7 +523,7 @@ bpn4608
 
 -- Bahá'u'lláh
 
-bpn4662 
+bpn4662 «[հայերեն](../hy/prayers/#bpn4662)» 
 
 ----
 
@@ -534,7 +533,7 @@ bpn4662
 
 -- Bahá'u'lláh
 
-bpn4663 
+bpn4663 «[հայերեն](../hy/prayers/#bpn4663)» 
 
 ----
 
@@ -548,7 +547,7 @@ bpn4663
 
 -- Bahá'u'lláh
 
-bpn4547 
+bpn4547 «[հայերեն](../hy/prayers/#bpn4547)» 
 
 ----
 
@@ -562,7 +561,7 @@ bpn4547
 
 -- Bahá'u'lláh
 
-bpn4651 
+bpn4651 «[հայերեն](../hy/prayers/#bpn4651)» 
 
 ----
 
@@ -572,7 +571,7 @@ bpn4651
 
 -- Báb
 
-bpn4652 
+bpn4652 «[հայերեն](../hy/prayers/#bpn4652)» 
 
 ----
 
@@ -586,7 +585,7 @@ bpn4652
 
 -- Bahá'u'lláh
 
-bpn12378 
+bpn12378 «[հայերեն](../hy/prayers/#bpn12378)» 
 
 ----
 
@@ -600,7 +599,7 @@ bpn12378
 
 -- Bahá'u'lláh
 
-bpn4664 
+bpn4664 «[հայերեն](../hy/prayers/#bpn4664)» 
 
 ----
 
@@ -610,7 +609,7 @@ bpn4664
 
 -- Bahá'u'lláh
 
-bpn4665 
+bpn4665 «[հայերեն](../hy/prayers/#bpn4665)» 
 
 ----
 
@@ -620,7 +619,7 @@ bpn4665
 
 -- Báb
 
-bpn4666 
+bpn4666 «[հայերեն](../hy/prayers/#bpn4666)» 
 
 ----
 
@@ -630,7 +629,7 @@ bpn4666
 
 -- Báb
 
-bpn4667 
+bpn4667 «[հայերեն](../hy/prayers/#bpn4667)» 
 
 ----
 
@@ -644,7 +643,7 @@ bpn4667
 
 -- Bahá'u'lláh
 
-bpn4653 
+bpn4653 «[հայերեն](../hy/prayers/#bpn4653)» 
 
 ----
 
@@ -654,7 +653,7 @@ bpn4653
 
 -- Bahá'u'lláh
 
-bpn4654 
+bpn4654 «[հայերեն](../hy/prayers/#bpn4654)» 
 
 ----
 
@@ -664,7 +663,7 @@ bpn4654
 
 -- Báb
 
-bpn4655 
+bpn4655 «[հայերեն](../hy/prayers/#bpn4655)» 
 
 ----
 
@@ -678,7 +677,7 @@ bpn4655
 
 -- Abdu'l-Bahá
 
-bpn4548 
+bpn4548 «[հայերեն](../hy/prayers/#bpn4548)» 
 
 ----
 
@@ -688,7 +687,7 @@ bpn4548
 
 -- Abdu'l-Bahá
 
-bpn4549 
+bpn4549 «[հայերեն](../hy/prayers/#bpn4549)» 
 
 ----
 
@@ -698,7 +697,7 @@ bpn4549
 
 -- Abdu'l-Bahá
 
-bpn4550 
+bpn4550 «[հայերեն](../hy/prayers/#bpn4550)» 
 
 ----
 
@@ -708,7 +707,7 @@ bpn4550
 
 -- Abdu'l-Bahá
 
-bpn4551 
+bpn4551 «[հայերեն](../hy/prayers/#bpn4551)» 
 
 ----
 
@@ -718,7 +717,7 @@ bpn4551
 
 -- Abdu'l-Bahá
 
-bpn4552 
+bpn4552 «[հայերեն](../hy/prayers/#bpn4552)» 
 
 ----
 
@@ -728,7 +727,7 @@ bpn4552
 
 -- Abdu'l-Bahá
 
-bpn4553 
+bpn4553 «[հայերեն](../hy/prayers/#bpn4553)» 
 
 ----
 
@@ -738,7 +737,7 @@ bpn4553
 
 -- Abdu'l-Bahá
 
-bpn12380 
+bpn12380 «[հայերեն](../hy/prayers/#bpn12380)» 
 
 ----
 
@@ -748,7 +747,7 @@ bpn12380
 
 -- Abdu'l-Bahá
 
-bpn12381 
+bpn12381 «[հայերեն](../hy/prayers/#bpn12381)» 
 
 ----
 
@@ -758,7 +757,7 @@ bpn12381
 
 -- Abdu'l-Bahá
 
-bpn12382 
+bpn12382 «[հայերեն](../hy/prayers/#bpn12382)» 
 
 ----
 
@@ -772,7 +771,7 @@ bpn12382
 
 -- Bahá'u'lláh
 
-bpn4544 
+bpn4544 «[հայերեն](../hy/prayers/#bpn4544)» 
 
 ----
 
@@ -782,7 +781,7 @@ bpn4544
 
 -- Bahá'u'lláh
 
-bpn4545 
+bpn4545 «[հայերեն](../hy/prayers/#bpn4545)» 
 
 ----
 
@@ -792,7 +791,7 @@ bpn4545
 
 -- Abdu'l-Bahá
 
-bpn4546 
+bpn4546 «[հայերեն](../hy/prayers/#bpn4546)» 
 
 ----
 
@@ -820,7 +819,7 @@ bpn4582 «[հայերեն](../hy/prayers/#bpn4582)»
 
 -- Bahá'u'lláh
 
-bpn4543 
+bpn4543 «[հայերեն](../hy/prayers/#bpn4543)» 
 
 ----
 
@@ -834,7 +833,7 @@ bpn4543
 
 -- Bahá'u'lláh
 
-bpn4679 
+bpn4679 «[հայերեն](../hy/prayers/#bpn4679)» 
 
 ----
 
@@ -848,7 +847,7 @@ bpn4679
 
 -- Báb
 
-bpn4639 
+bpn4639 «[հայերեն](../hy/prayers/#bpn4639)» 
 
 ----
 
@@ -862,7 +861,7 @@ bpn4639
 
 -- Bahá'u'lláh
 
-bpn4643 
+bpn4643 «[հայերեն](../hy/prayers/#bpn4643)» 
 
 ----
 
@@ -872,7 +871,7 @@ bpn4643
 
 -- Bahá'u'lláh
 
-bpn4644 
+bpn4644 «[հայերեն](../hy/prayers/#bpn4644)» 
 
 ----
 
@@ -882,7 +881,7 @@ bpn4644
 
 -- Bahá'u'lláh
 
-bpn4645 
+bpn4645 «[հայերեն](../hy/prayers/#bpn4645)» 
 
 ----
 
@@ -892,7 +891,7 @@ bpn4645
 
 -- Bahá'u'lláh
 
-bpn4647 
+bpn4647 «[հայերեն](../hy/prayers/#bpn4647)» 
 
 ----
 
@@ -902,7 +901,7 @@ bpn4647
 
 -- Abdu'l-Bahá
 
-bpn4642 
+bpn4642 «[հայերեն](../hy/prayers/#bpn4642)» 
 
 ----
 
@@ -912,7 +911,7 @@ bpn4642
 
 -- Abdu'l-Bahá
 
-bpn4646 
+bpn4646 «[հայերեն](../hy/prayers/#bpn4646)» 
 
 ----
 
@@ -926,7 +925,7 @@ bpn4646
 
 -- Abdu'l-Bahá
 
-bpn4640 
+bpn4640 «[հայերեն](../hy/prayers/#bpn4640)» 
 
 ----
 
@@ -940,7 +939,7 @@ bpn4640
 
 -- Abdu'l-Bahá
 
-bpn4648 
+bpn4648 «[հայերեն](../hy/prayers/#bpn4648)» 
 
 ----
 
@@ -950,7 +949,7 @@ bpn4648
 
 -- Abdu'l-Bahá
 
-bpn4649 
+bpn4649 «[հայերեն](../hy/prayers/#bpn4649)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn4649
 
 -- Abdu'l-Bahá
 
-bpn4650 
+bpn4650 «[հայերեն](../hy/prayers/#bpn4650)» 
 
 ----
 
@@ -974,7 +973,7 @@ bpn4650
 
 -- Bahá'u'lláh
 
-bpn4541 
+bpn4541 «[հայերեն](../hy/prayers/#bpn4541)» 
 
 ----
 
@@ -988,7 +987,7 @@ bpn4541
 
 -- Abdu'l-Bahá
 
-bpn4675 
+bpn4675 «[հայերեն](../hy/prayers/#bpn4675)» 
 
 ----
 
@@ -1002,7 +1001,7 @@ bpn4675
 
 -- Abdu'l-Bahá
 
-bpn4566 
+bpn4566 «[հայերեն](../hy/prayers/#bpn4566)» 
 
 ----
 
@@ -1012,7 +1011,7 @@ bpn4566
 
 -- Abdu'l-Bahá
 
-bpn4567 
+bpn4567 «[հայերեն](../hy/prayers/#bpn4567)» 
 
 ----
 
@@ -1026,7 +1025,7 @@ bpn4567
 
 -- Bahá'u'lláh
 
-bpn4554 
+bpn4554 «[հայերեն](../hy/prayers/#bpn4554)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ bpn4554
 
 -- Bahá'u'lláh
 
-bpn4555 
+bpn4555 «[հայերեն](../hy/prayers/#bpn4555)» 
 
 ----
 
@@ -1046,7 +1045,7 @@ bpn4555
 
 -- Bahá'u'lláh
 
-bpn4556 
+bpn4556 «[հայերեն](../hy/prayers/#bpn4556)» 
 
 ----
 
@@ -1056,7 +1055,7 @@ bpn4556
 
 -- Bahá'u'lláh
 
-bpn4557 
+bpn4557 «[հայերեն](../hy/prayers/#bpn4557)» 
 
 ----
 
@@ -1066,7 +1065,7 @@ bpn4557
 
 -- Bahá'u'lláh
 
-bpn4558 
+bpn4558 «[հայերեն](../hy/prayers/#bpn4558)» 
 
 ----
 
@@ -1076,7 +1075,7 @@ bpn4558
 
 -- Bahá'u'lláh
 
-bpn4559 
+bpn4559 «[հայերեն](../hy/prayers/#bpn4559)» 
 
 ----
 
@@ -1086,7 +1085,7 @@ bpn4559
 
 -- Bahá'u'lláh
 
-bpn4560 
+bpn4560 «[հայերեն](../hy/prayers/#bpn4560)» 
 
 ----
 
@@ -1096,7 +1095,7 @@ bpn4560
 
 -- Báb
 
-bpn4561 
+bpn4561 «[հայերեն](../hy/prayers/#bpn4561)» 
 
 ----
 
@@ -1106,7 +1105,7 @@ bpn4561
 
 -- Abdu'l-Bahá
 
-bpn4562 
+bpn4562 «[հայերեն](../hy/prayers/#bpn4562)» 
 
 ----
 
@@ -1116,7 +1115,7 @@ bpn4562
 
 -- Abdu'l-Bahá
 
-bpn4563 
+bpn4563 «[հայերեն](../hy/prayers/#bpn4563)» 
 
 ----
 
@@ -1126,7 +1125,7 @@ bpn4563
 
 -- Abdu'l-Bahá
 
-bpn4564 
+bpn4564 «[հայերեն](../hy/prayers/#bpn4564)» 
 
 ----
 
@@ -1136,7 +1135,7 @@ bpn4564
 
 -- Abdu'l-Bahá
 
-bpn4565 
+bpn4565 «[հայերեն](../hy/prayers/#bpn4565)» 
 
 ----
 
@@ -1150,7 +1149,7 @@ bpn4565
 
 -- Bahá'u'lláh
 
-bpn4668 
+bpn4668 «[հայերեն](../hy/prayers/#bpn4668)» 
 
 ----
 
@@ -1164,7 +1163,7 @@ bpn4668
 
 -- Bahá'u'lláh
 
-bpn4684 
+bpn4684 «[հայերեն](../hy/prayers/#bpn4684)» 
 
 ----
 
@@ -1174,7 +1173,7 @@ bpn4684
 
 -- Abdu'l-Bahá
 
-bpn4685 
+bpn4685 «[հայերեն](../hy/prayers/#bpn4685)» 
 
 ----
 
@@ -1188,7 +1187,7 @@ bpn4685
 
 -- Bahá'u'lláh
 
-bpn4686 
+bpn4686 «[հայերեն](../hy/prayers/#bpn4686)» 
 
 ----
 
@@ -1202,7 +1201,7 @@ bpn4686
 
 -- Bahá'u'lláh
 
-bpn4656 
+bpn4656 «[հայերեն](../hy/prayers/#bpn4656)» 
 
 ----
 
@@ -1212,7 +1211,7 @@ bpn4656
 
 -- Bahá'u'lláh
 
-bpn4657 
+bpn4657 «[հայերեն](../hy/prayers/#bpn4657)» 
 
 ----
 
@@ -1222,7 +1221,7 @@ bpn4657
 
 -- Bahá'u'lláh
 
-bpn4658 
+bpn4658 «[հայերեն](../hy/prayers/#bpn4658)» 
 
 ----
 
@@ -1232,7 +1231,7 @@ bpn4658
 
 -- Abdu'l-Bahá
 
-bpn4659 
+bpn4659 «[հայերեն](../hy/prayers/#bpn4659)» 
 
 ----
 
@@ -1242,7 +1241,7 @@ bpn4659
 
 -- Abdu'l-Bahá
 
-bpn4660 
+bpn4660 «[հայերեն](../hy/prayers/#bpn4660)» 
 
 ----
 
@@ -1252,7 +1251,7 @@ bpn4660
 
 -- Abdu'l-Bahá
 
-bpn4661 
+bpn4661 «[հայերեն](../hy/prayers/#bpn4661)» 
 
 ----
 
@@ -1266,7 +1265,7 @@ bpn4661
 
 -- Bahá'u'lláh
 
-bpn4669 
+bpn4669 «[հայերեն](../hy/prayers/#bpn4669)» 
 
 ----
 
@@ -1276,7 +1275,7 @@ bpn4669
 
 -- Bahá'u'lláh
 
-bpn4670 
+bpn4670 «[հայերեն](../hy/prayers/#bpn4670)» 
 
 ----
 
@@ -1286,7 +1285,7 @@ bpn4670
 
 -- Báb
 
-bpn4671 
+bpn4671 «[հայերեն](../hy/prayers/#bpn4671)» 
 
 ----
 
@@ -1296,7 +1295,7 @@ bpn4671
 
 -- Abdu'l-Bahá
 
-bpn4672 
+bpn4672 «[հայերեն](../hy/prayers/#bpn4672)» 
 
 ----
 
@@ -1306,7 +1305,7 @@ bpn4672
 
 -- Abdu'l-Bahá
 
-bpn4673 
+bpn4673 «[հայերեն](../hy/prayers/#bpn4673)» 
 
 ----
 
@@ -1316,7 +1315,7 @@ bpn4673
 
 -- Abdu'l-Bahá
 
-bpn4674 
+bpn4674 «[հայերեն](../hy/prayers/#bpn4674)» 
 
 ----
 
@@ -1330,7 +1329,7 @@ bpn4674
 
 -- Bahá'u'lláh
 
-bpn4568 
+bpn4568 «[հայերեն](../hy/prayers/#bpn4568)» 
 
 ----
 
@@ -1340,7 +1339,7 @@ bpn4568
 
 -- Bahá'u'lláh
 
-bpn4569 
+bpn4569 «[հայերեն](../hy/prayers/#bpn4569)» 
 
 ----
 
@@ -1350,7 +1349,7 @@ bpn4569
 
 -- Abdu'l-Bahá
 
-bpn4570 
+bpn4570 «[հայերեն](../hy/prayers/#bpn4570)» 
 
 ----
 
@@ -1360,7 +1359,7 @@ bpn4570
 
 -- Abdu'l-Bahá
 
-bpn4571 
+bpn4571 «[հայերեն](../hy/prayers/#bpn4571)» 
 
 ----
 
@@ -1374,7 +1373,7 @@ bpn4571
 
 -- Bahá'u'lláh
 
-bpn4542 
+bpn4542 «[հայերեն](../hy/prayers/#bpn4542)» 
 
 ----
 
@@ -1388,7 +1387,7 @@ bpn4542
 
 -- Bahá'u'lláh
 
-bpn4620 
+bpn4620 «[հայերեն](../hy/prayers/#bpn4620)» 
 
 ----
 
@@ -1398,7 +1397,7 @@ bpn4620
 
 -- Bahá'u'lláh
 
-bpn4621 
+bpn4621 «[հայերեն](../hy/prayers/#bpn4621)» 
 
 ----
 
@@ -1408,7 +1407,7 @@ bpn4621
 
 -- Bahá'u'lláh
 
-bpn4622 
+bpn4622 «[հայերեն](../hy/prayers/#bpn4622)» 
 
 ----
 
@@ -1418,7 +1417,7 @@ bpn4622
 
 -- Bahá'u'lláh
 
-bpn4623 
+bpn4623 «[հայերեն](../hy/prayers/#bpn4623)» 
 
 ----
 
@@ -1428,7 +1427,7 @@ bpn4623
 
 -- Bahá'u'lláh
 
-bpn4624 
+bpn4624 «[հայերեն](../hy/prayers/#bpn4624)» 
 
 ----
 
@@ -1438,7 +1437,7 @@ bpn4624
 
 -- Bahá'u'lláh
 
-bpn4625 
+bpn4625 «[հայերեն](../hy/prayers/#bpn4625)» 
 
 ----
 
@@ -1448,7 +1447,7 @@ bpn4625
 
 -- Báb
 
-bpn4626 
+bpn4626 «[հայերեն](../hy/prayers/#bpn4626)» 
 
 ----
 
@@ -1458,7 +1457,7 @@ bpn4626
 
 -- Báb
 
-bpn4627 
+bpn4627 «[հայերեն](../hy/prayers/#bpn4627)» 
 
 ----
 
@@ -1468,7 +1467,7 @@ bpn4627
 
 -- Báb
 
-bpn4628 
+bpn4628 «[հայերեն](../hy/prayers/#bpn4628)» 
 
 ----
 
@@ -1478,7 +1477,7 @@ bpn4628
 
 -- Abdu'l-Bahá
 
-bpn4629 
+bpn4629 «[հայերեն](../hy/prayers/#bpn4629)» 
 
 ----
 
@@ -1492,7 +1491,7 @@ bpn4629
 
 -- Bahá'u'lláh
 
-bpn4682 
+bpn4682 «[հայերեն](../hy/prayers/#bpn4682)» 
 
 ----
 
@@ -1506,7 +1505,7 @@ bpn4682
 
 -- Bahá'u'lláh
 
-bpn4683 
+bpn4683 «[հայերեն](../hy/prayers/#bpn4683)» 
 
 ----
 
@@ -1520,7 +1519,7 @@ bpn4683
 
 -- Abdu'l-Bahá
 
-bpn4630 
+bpn4630 «[հայերեն](../hy/prayers/#bpn4630)» 
 
 ----
 
@@ -1530,7 +1529,7 @@ bpn4630
 
 -- Abdu'l-Bahá
 
-bpn4631 
+bpn4631 «[հայերեն](../hy/prayers/#bpn4631)» 
 
 ----
 
@@ -1544,7 +1543,7 @@ bpn4631
 
 -- Bahá'u'lláh
 
-bpn4572 
+bpn4572 «[հայերեն](../hy/prayers/#bpn4572)» 
 
 ----
 
@@ -1554,7 +1553,7 @@ bpn4572
 
 -- Bahá'u'lláh
 
-bpn4573 
+bpn4573 «[հայերեն](../hy/prayers/#bpn4573)» 
 
 ----
 
@@ -1564,7 +1563,7 @@ bpn4573
 
 -- Báb
 
-bpn4574 
+bpn4574 «[հայերեն](../hy/prayers/#bpn4574)» 
 
 ----
 
@@ -1574,7 +1573,7 @@ bpn4574
 
 -- Báb
 
-bpn4575 
+bpn4575 «[հայերեն](../hy/prayers/#bpn4575)» 
 
 ----
 
@@ -1584,7 +1583,7 @@ bpn4575
 
 -- Báb
 
-bpn4576 
+bpn4576 «[հայերեն](../hy/prayers/#bpn4576)» 
 
 ----
 
@@ -1594,7 +1593,7 @@ bpn4576
 
 -- Abdu'l-Bahá
 
-bpn4577 
+bpn4577 «[հայերեն](../hy/prayers/#bpn4577)» 
 
 ----
 
@@ -1604,7 +1603,7 @@ bpn4577
 
 -- Abdu'l-Bahá
 
-bpn4578 
+bpn4578 «[հայերեն](../hy/prayers/#bpn4578)» 
 
 ----
 
@@ -1618,7 +1617,7 @@ bpn4578
 
 -- Bahá'u'lláh
 
-bpn4680 
+bpn4680 «[հայերեն](../hy/prayers/#bpn4680)» 
 
 ----
 
@@ -1628,7 +1627,7 @@ bpn4680
 
 -- Bahá'u'lláh
 
-bpn4681 
+bpn4681 «[հայերեն](../hy/prayers/#bpn4681)» 
 
 ----
 
@@ -1642,7 +1641,7 @@ bpn4681
 
 -- Bahá'u'lláh
 
-bpn4609 
+bpn4609 «[հայերեն](../hy/prayers/#bpn4609)» 
 
 ----
 
@@ -1652,7 +1651,7 @@ bpn4609
 
 -- Bahá'u'lláh
 
-bpn4610 
+bpn4610 «[հայերեն](../hy/prayers/#bpn4610)» 
 
 ----
 
@@ -1662,7 +1661,7 @@ bpn4610
 
 -- Bahá'u'lláh
 
-bpn4611 
+bpn4611 «[հայերեն](../hy/prayers/#bpn4611)» 
 
 ----
 
@@ -1672,7 +1671,7 @@ bpn4611
 
 -- Báb
 
-bpn4612 
+bpn4612 «[հայերեն](../hy/prayers/#bpn4612)» 
 
 ----
 
@@ -1682,7 +1681,7 @@ bpn4612
 
 -- Abdu'l-Bahá
 
-bpn4613 
+bpn4613 «[հայերեն](../hy/prayers/#bpn4613)» 
 
 ----
 
@@ -1692,7 +1691,7 @@ bpn4613
 
 -- Abdu'l-Bahá
 
-bpn4614 
+bpn4614 «[հայերեն](../hy/prayers/#bpn4614)» 
 
 ----
 
@@ -1702,7 +1701,7 @@ bpn4614
 
 -- Abdu'l-Bahá
 
-bpn4615 
+bpn4615 «[հայերեն](../hy/prayers/#bpn4615)» 
 
 ----
 
@@ -1712,7 +1711,7 @@ bpn4615
 
 -- Abdu'l-Bahá
 
-bpn4616 
+bpn4616 «[հայերեն](../hy/prayers/#bpn4616)» 
 
 ----
 
@@ -1722,7 +1721,7 @@ bpn4616
 
 -- Abdu'l-Bahá
 
-bpn4617 
+bpn4617 «[հայերեն](../hy/prayers/#bpn4617)» 
 
 ----
 
@@ -1732,7 +1731,7 @@ bpn4617
 
 -- Abdu'l-Bahá
 
-bpn4618 
+bpn4618 «[հայերեն](../hy/prayers/#bpn4618)» 
 
 ----
 
@@ -1742,7 +1741,7 @@ bpn4618
 
 -- Abdu'l-Bahá
 
-bpn4619 
+bpn4619 «[հայերեն](../hy/prayers/#bpn4619)» 
 
 ----
 
@@ -1752,7 +1751,7 @@ bpn4619
 
 -- Abdu'l-Bahá
 
-bpn12379 
+bpn12379 «[հայերեն](../hy/prayers/#bpn12379)» 
 
 ----
 
@@ -1762,7 +1761,7 @@ bpn12379
 
 -- Abdu'l-Bahá
 
-bpn12383 
+bpn12383 «[հայերեն](../hy/prayers/#bpn12383)» 
 
 ----
 

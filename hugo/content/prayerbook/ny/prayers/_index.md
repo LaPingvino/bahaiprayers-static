@@ -5,7 +5,6 @@ tags = ['lang=ny', 'prayerbook']
 
 
 
-
 [ANA](#ANA)
 
 [ANYAMATA](#ANYAMATA)
@@ -90,7 +89,7 @@ O Ambuye wanga! Pangani kukongola Kwanu kukhale chakudya changa, ndikupezeka Kwa
 
 -- Bahá'u'lláh
 
-bpn13449 
+bpn13449 «[Chichewa](../ny/prayers/#bpn13449)» 
 
 ----
 
@@ -100,7 +99,7 @@ O Inu a Chifundo Ambuye! Ndine mwana wamng’ono, ndikwezeni ine pondilora ine k
 
 -- Bahá'u'lláh
 
-bpn13450 
+bpn13450 «[Chichewa](../ny/prayers/#bpn13450)» 
 
 ----
 
@@ -110,7 +109,7 @@ O Mulungu wanga, Okondedwa wanga, khumbo la mtima wanga.
 
 -- Báb
 
-bpn13446 
+bpn13446 «[Chichewa](../ny/prayers/#bpn13446)» 
 
 ----
 
@@ -120,7 +119,7 @@ O Mulungu! Lelani kakhanda aka pa chifungatiro chachikondi Chanu, ndipo mukapats
 
 -- Abdu'l-Bahá
 
-bpn13447 
+bpn13447 «[Chichewa](../ny/prayers/#bpn13447)» 
 
 ----
 
@@ -130,7 +129,7 @@ O Mulungu! Phunzitsani ana awa. Ana awa ali zomera za m’munda Wanu wazipatso, 
 
 -- Abdu'l-Bahá
 
-bpn13448 
+bpn13448 «[Chichewa](../ny/prayers/#bpn13448)» 
 
 ----
 
@@ -140,7 +139,7 @@ O Ambuye anga! O Ambuye anga! Ine ndine mwana wa zaka zochepa. Ndidyetseni ine k
 
 -- Abdu'l-Bahá
 
-bpn13451 
+bpn13451 «[Chichewa](../ny/prayers/#bpn13451)» 
 
 ----
 
@@ -154,7 +153,7 @@ O Ambuye! Muwalitseni mnyamatayu ndipo mupatseni wolengedwa wosakayu chaulere Ch
 
 -- Abdu'l-Bahá
 
-bpn13452 
+bpn13452 «[Chichewa](../ny/prayers/#bpn13452)» 
 
 ----
 
@@ -168,7 +167,7 @@ bpn13452
 
 -- Abdu'l-Bahá
 
-bpn13453 
+bpn13453 «[Chichewa](../ny/prayers/#bpn13453)» 
 
 ----
 
@@ -178,7 +177,7 @@ bpn13453
 
 -- Abdu'l-Bahá
 
-bpn13454 
+bpn13454 «[Chichewa](../ny/prayers/#bpn13454)» 
 
 ----
 
@@ -192,7 +191,7 @@ O Inu Wamphamvu zonse! Ine ndine wochimwa, koma Inu Ndinu Wokhululukira! Ine ndi
 
 -- Abdu'l-Bahá
 
-bpn13455 
+bpn13455 «[Chichewa](../ny/prayers/#bpn13455)» 
 
 ----
 
@@ -206,7 +205,7 @@ O Ambuye wanga! Inu Mudziwa kuti wanthu azunguliridwa ndi zowawa ndi matsoka ndi
 
 -- Abdu'l-Bahá
 
-bpn13456 
+bpn13456 «[Chichewa](../ny/prayers/#bpn13456)» 
 
 ----
 
@@ -220,7 +219,7 @@ O Mulungu wanga! Ndikupemphani, kubzolera mdzina Lanu la Ulemelero, kundithandiz
 
 -- Bahá'u'lláh
 
-bpn13457 
+bpn13457 «[Chichewa](../ny/prayers/#bpn13457)» 
 
 ----
 
@@ -230,7 +229,7 @@ Ambuye! Ife ndife womvetsa chisoni, tipatseni chifundo Chanu; ndife wosauka, tip
 
 -- Abdu'l-Bahá
 
-bpn13458 
+bpn13458 «[Chichewa](../ny/prayers/#bpn13458)» 
 
 ----
 
@@ -244,7 +243,7 @@ O Mulungu! O Mulungu! Timwetseni ife kuchokera mchikho cha chaulere Chanu. Walit
 
 -- Abdu'l-Bahá
 
-bpn13459 
+bpn13459 «[Chichewa](../ny/prayers/#bpn13459)» 
 
 ----
 
@@ -254,7 +253,7 @@ O Mulungu, nditsogozeni, nditetezeni, ndipangeni kukhala nyali yowala ndi nyenye
 
 -- Abdu'l-Bahá
 
-bpn13460 
+bpn13460 «[Chichewa](../ny/prayers/#bpn13460)» 
 
 ----
 
@@ -268,7 +267,7 @@ Dzina Lanu ndilo kuchira kwanga, O Mulungu wanga, ndipo kukumbukira Inu ndi mank
 
 -- Bahá'u'lláh
 
-bpn13461 
+bpn13461 «[Chichewa](../ny/prayers/#bpn13461)» 
 
 ----
 
@@ -278,7 +277,7 @@ Ulemerero ukhale kwa Inu, O Mbuye Mulungu wanga! Ndikupemphani Inu m&#39;dzina L
 
 -- Bahá'u'lláh
 
-bpn13462 
+bpn13462 «[Chichewa](../ny/prayers/#bpn13462)» 
 
 ----
 
@@ -292,7 +291,7 @@ O Ambuye wanga, wokondedwa wanga, khumbo langa! Khalani bwenzi langa pamene ndil
 
 -- Abdu'l-Bahá
 
-bpn13463 
+bpn13463 «[Chichewa](../ny/prayers/#bpn13463)» 
 
 ----
 
@@ -302,7 +301,7 @@ O Ambuye wanga Wolemekezeka! Ndithandizeni kuleka malingaliro osayenera; kugonje
 
 -- Abdu'l-Bahá
 
-bpn13464 
+bpn13464 «[Chichewa](../ny/prayers/#bpn13464)» 
 
 ----
 
@@ -316,7 +315,7 @@ Mulungu pangeni kukhala bango la Mphako, mmene thima la kudzikonda lakolokotedwa
 
 -- Abdu'l-Bahá
 
-bpn13465 
+bpn13465 «[Chichewa](../ny/prayers/#bpn13465)» 
 
 ----
 
@@ -330,7 +329,7 @@ O Ambuye Mulungu Wanga! Thandizani wokondedwa Anu kukhala wolimba m’chikhulupi
 
 -- Abdu'l-Bahá
 
-bpn13466 
+bpn13466 «[Chichewa](../ny/prayers/#bpn13466)» 
 
 ----
 
@@ -344,7 +343,7 @@ O Mulungu! O Mulungu! Ino ndi mbalame yothyoka phiko ndipo kuwuluka kwake ndi kw
 
 -- Abdu'l-Bahá
 
-bpn13467 
+bpn13467 «[Chichewa](../ny/prayers/#bpn13467)» 
 
 ----
 
@@ -354,7 +353,7 @@ O Inu Mulungu Wosafaniziridwa! O Inu Ambuye wa Ufumu! Miyoyo iyi ndi ankhondo An
 
 -- Abdu'l-Bahá
 
-bpn13468 
+bpn13468 «[Chichewa](../ny/prayers/#bpn13468)» 
 
 ----
 
@@ -364,7 +363,7 @@ O Mulungu wanga! O Mulungu wanga! Inu mukundiona ine mukutsika kwanga ndi kufook
 
 -- Abdu'l-Bahá
 
-bpn13469 
+bpn13469 «[Chichewa](../ny/prayers/#bpn13469)» 
 
 ----
 
@@ -378,7 +377,7 @@ Mayamiko akhale kwa Inu, O Ambuye Mulungu wanga! Ndikupemphani Inu mwa Chibvumbu
 
 -- Bahá'u'lláh
 
-bpn13445 
+bpn13445 «[Chichewa](../ny/prayers/#bpn13445)» 
 
 ----
 
@@ -392,7 +391,7 @@ Likuzike Dzina Lanu, O Ambuye Mulungu wanga! Inu ndi Iye amene zinthu zonse zimp
 
 -- Bahá'u'lláh
 
-bpn13470 
+bpn13470 «[Chichewa](../ny/prayers/#bpn13470)» 
 
 ----
 
@@ -406,7 +405,7 @@ O Mulungu wanga, Mbuye wanga, mathero Achofuna changa, uyu, wantchito Wanu, afun
 
 -- Bahá'u'lláh
 
-bpn13443 
+bpn13443 «[Chichewa](../ny/prayers/#bpn13443)» 
 
 ----
 
@@ -416,7 +415,7 @@ bpn13443
 
 -- Abdu'l-Bahá
 
-bpn13444 
+bpn13444 «[Chichewa](../ny/prayers/#bpn13444)» 
 
 ----
 
@@ -430,7 +429,7 @@ Kuwala ndi ulemelero, malonje ndi mayamiko zikhale pa Manja a Ntchito Yake amene
 
 -- Bahá'u'lláh
 
-bpn13471 
+bpn13471 «[Chichewa](../ny/prayers/#bpn13471)» 
 
 ----
 
@@ -444,7 +443,7 @@ Inu Ambuye wachifundo! Awa ndi antchito Anu amene akumana mu msonkhano uno, atem
 
 -- Abdu'l-Bahá
 
-bpn13472 
+bpn13472 «[Chichewa](../ny/prayers/#bpn13472)» 
 
 ----
 
@@ -458,7 +457,7 @@ O Ambuye Wachisoni! Inu Amene Muli Wopatsa ndi Wachifundo! Ife tiri woperekera z
 
 -- Abdu'l-Bahá
 
-bpn13473 
+bpn13473 «[Chichewa](../ny/prayers/#bpn13473)» 
 
 ----
 
@@ -472,7 +471,7 @@ O Mulungu wanga ndi Mbuye wanga! Ine ndine wantchito Wanu, ndi mwana wantchito W
 
 -- Bahá'u'lláh
 
-bpn13441 
+bpn13441 «[Chichewa](../ny/prayers/#bpn13441)» 
 
 ----
 
@@ -486,7 +485,7 @@ Ndauka mu chifungatiro Chanu, O Mulungu wanga, ndipo ndikoyenera kwa iye wofuna 
 
 -- Bahá'u'lláh
 
-bpn13442 
+bpn13442 «[Chichewa](../ny/prayers/#bpn13442)» 
 
 ----
 
@@ -500,7 +499,7 @@ Ulemelero ukhale kwa Inu, O Ambuye Mulungu wanga! Musanyasidwe naye iye amene In
 
 -- Bahá'u'lláh
 
-bpn13474 
+bpn13474 «[Chichewa](../ny/prayers/#bpn13474)» 
 
 ----
 
@@ -510,7 +509,7 @@ Iye ndi Mulungu, ndi Iye Wokwezeka, Ambuye wokoma mtima ndi wa chaulere! Ulemele
 
 -- Bahá'u'lláh
 
-bpn13475 
+bpn13475 «[Chichewa](../ny/prayers/#bpn13475)» 
 
 ----
 
@@ -520,7 +519,7 @@ bpn13475
 
 -- Abdu'l-Bahá
 
-bpn13476 
+bpn13476 «[Chichewa](../ny/prayers/#bpn13476)» 
 
 ----
 
@@ -534,7 +533,7 @@ O Mulungu, Mulungu wanga! Atchingireni atumiki Anu wokhulupirika ku zoyipa za ku
 
 -- Abdu'l-Bahá
 
-bpn13477 
+bpn13477 «[Chichewa](../ny/prayers/#bpn13477)» 
 
 ----
 
@@ -548,7 +547,7 @@ Iye Ndiye Mfumu, Wodziwa zonse, Wanzeru! Taonani, Mbalame ya M’Paradiso iyimba
 
 -- Bahá'u'lláh
 
-bpn13478 
+bpn13478 «[Chichewa](../ny/prayers/#bpn13478)» 
 
 ----
 
@@ -562,7 +561,7 @@ Pemphero lowululidwa ndi Bahá’u’lláh lotchedwa “QadIhtaraqa ‘I-Mukhlis
 
 -- Bahá'u'lláh
 
-bpn13479 
+bpn13479 «[Chichewa](../ny/prayers/#bpn13479)» 
 
 ----
 
@@ -576,7 +575,7 @@ O Inu Ambuye wokoma mtima! Inu mwalenga mtundu wonse wa anthu kuchokera kwa khol
 
 -- Abdu'l-Bahá
 
-bpn13480 
+bpn13480 «[Chichewa](../ny/prayers/#bpn13480)» 
 
 ----
 
@@ -590,7 +589,7 @@ bpn13480
 
 -- Abdu'l-Bahá
 
-bpn13481 
+bpn13481 «[Chichewa](../ny/prayers/#bpn13481)» 
 
 ----
 
@@ -604,7 +603,7 @@ Ndichitira umboni, O Mulungu wanga, kuti Munandilenga ine, kuti ndikudziweni ndi
 
 -- Bahá'u'lláh
 
-bpn13438 
+bpn13438 «[Chichewa](../ny/prayers/#bpn13438)» 
 
 ----
 
@@ -618,7 +617,7 @@ bpn13438
 
 -- Bahá'u'lláh
 
-bpn13440 
+bpn13440 «[Chichewa](../ny/prayers/#bpn13440)» 
 
 ----
 
@@ -632,7 +631,7 @@ bpn13440
 
 -- Bahá'u'lláh
 
-bpn13439 
+bpn13439 «[Chichewa](../ny/prayers/#bpn13439)» 
 
 ----
 
@@ -646,7 +645,7 @@ O Mulungu! Chotsani izo zonse zoyambitsa kusagwirizana, ndipo tikonzereni ife to
 
 -- Abdu'l-Bahá
 
-bpn13482 
+bpn13482 «[Chichewa](../ny/prayers/#bpn13482)» 
 
 ----
 
@@ -660,7 +659,7 @@ Ulemelero ukhale kwa Inu, O Mulungu wanga! Indetu, wantchito Wanuyu ndi mdzakazi
 
 -- Abdu'l-Bahá
 
-bpn13483 
+bpn13483 «[Chichewa](../ny/prayers/#bpn13483)» 
 
 ----
 
@@ -674,7 +673,7 @@ Ndadzuka m’mawa uno ndi chisomo Chanu, O Mulungu wanga, ndikunyamuka pakhomo p
 
 -- Bahá'u'lláh
 
-bpn13484 
+bpn13484 «[Chichewa](../ny/prayers/#bpn13484)» 
 
 ----
 
@@ -684,7 +683,7 @@ O Mulungu, Mulungu wanga! Ndanyamuka pa khomo langa, kugwiritsitsa chingwe cha c
 
 -- Bahá'u'lláh
 
-bpn13485 
+bpn13485 «[Chichewa](../ny/prayers/#bpn13485)» 
 
 ----
 
@@ -698,7 +697,7 @@ O Mulungu wanga! O Mulungu wanga! Lumikizani mitima ya antchito Anu, ndipo Muwau
 
 -- Bahá'u'lláh
 
-bpn13486 
+bpn13486 «[Chichewa](../ny/prayers/#bpn13486)» 
 
 ----
 
@@ -708,7 +707,7 @@ Mulungu lolani kuti kuwala kwa mgwirizano kukutire dziko lonse lapansi, ndi chiz
 
 -- Bahá'u'lláh
 
-bpn13487 
+bpn13487 «[Chichewa](../ny/prayers/#bpn13487)» 
 
 ----
 
@@ -718,7 +717,7 @@ Ulemelero ukhale kwa Inu, O Mulungu, chifukwa chakuwonetsa chikondi Chanu kwa mt
 
 -- Bahá'u'lláh
 
-bpn13488 
+bpn13488 «[Chichewa](../ny/prayers/#bpn13488)» 
 
 ----
 
@@ -732,7 +731,7 @@ bpn13488
 
 -- Bahá'u'lláh
 
-bpn13491 
+bpn13491 «[Chichewa](../ny/prayers/#bpn13491)» 
 
 ----
 
@@ -742,7 +741,7 @@ Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu
 
 -- Báb
 
-bpn13489 
+bpn13489 «[Chichewa](../ny/prayers/#bpn13489)» 
 
 ----
 
@@ -752,7 +751,7 @@ bpn13489
 
 -- Báb
 
-bpn13490 
+bpn13490 «[Chichewa](../ny/prayers/#bpn13490)» 
 
 ----
 
@@ -762,7 +761,7 @@ Iye ndi Wachisoni, Wachaulere Chonse! O Mulungu, Mulungu wanga! Inu mukundiwona 
 
 -- Abdu'l-Bahá
 
-bpn13492 
+bpn13492 «[Chichewa](../ny/prayers/#bpn13492)» 
 
 ----
 
@@ -776,7 +775,7 @@ Yodalitsika ndiyo mbuto, ndi nyumba, ndi malo, ndi mzinda, ndi mtima, ndi phiri,
 
 -- Bahá'u'lláh
 
-bpn13493 
+bpn13493 «[Chichewa](../ny/prayers/#bpn13493)» 
 
 ----
 
@@ -790,7 +789,7 @@ Abwenzi onse a Mulungu …… ayenera kusonkha monga momwe angathere, chingakhal
 
 -- Abdu'l-Bahá
 
-bpn13494 
+bpn13494 «[Chichewa](../ny/prayers/#bpn13494)» 
 
 ----
 
@@ -804,7 +803,7 @@ Nenani: O Mulungu, Mulungu wanga! Bvekani mutu wanga ndi chisoti cha chilungamo,
 
 -- Bahá'u'lláh
 
-bpn13495 
+bpn13495 «[Chichewa](../ny/prayers/#bpn13495)» 
 
 ----
 
@@ -814,7 +813,7 @@ O Mulungu! Tsitsimutsani ndi kusangalatsa mzimu wanga. Yeretsani mtima wanga. Wa
 
 -- Abdu'l-Bahá
 
-bpn13496 
+bpn13496 «[Chichewa](../ny/prayers/#bpn13496)» 
 
 ----
 
@@ -824,7 +823,7 @@ O Ambuye! Ndife wofooka; tilimbikitseni. O Mulungu! Ndife mbuli; tipangeni kukha
 
 -- Abdu'l-Bahá
 
-bpn13497 
+bpn13497 «[Chichewa](../ny/prayers/#bpn13497)» 
 
 ----
 

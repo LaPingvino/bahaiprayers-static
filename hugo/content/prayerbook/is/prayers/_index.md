@@ -87,7 +87,7 @@ Leyf mér, ó Guð minn, að nálgast Þig og dvelja í forgarði hásætis Þí
 
 -- Bahá'u'lláh
 
-bpn1603 
+bpn1603 «[Íslenska](../is/prayers/#bpn1603)» 
 
 ----
 
@@ -97,7 +97,7 @@ Vegsamaður ert Þú, ó Guð minn! Ég flyt Þér þakkir fyrir að hafa kynnt 
 
 -- Bahá'u'lláh
 
-bpn1604 
+bpn1604 «[Íslenska](../is/prayers/#bpn1604)» 
 
 ----
 
@@ -107,7 +107,7 @@ Lofað sé nafn Þitt, ó Guð minn! Ég sárbæni Þig við ilminn af klæðum 
 
 -- Bahá'u'lláh
 
-bpn1605 
+bpn1605 «[Íslenska](../is/prayers/#bpn1605)» 
 
 ----
 
@@ -117,7 +117,7 @@ Mörg eru þau köldu hjörtu, ó Guð minn, sem hafa upptendrast af eldi málst
 
 -- Bahá'u'lláh
 
-bpn1606 
+bpn1606 «[Íslenska](../is/prayers/#bpn1606)» 
 
 ----
 
@@ -127,7 +127,7 @@ bpn1606
 
 -- Bahá'u'lláh
 
-bpn1607 
+bpn1607 «[Íslenska](../is/prayers/#bpn1607)» 
 
 ----
 
@@ -137,7 +137,7 @@ Lof sé Þér, ó Guð minn! Ég er einn þjóna Þinna sem hafa trúað á Þig
 
 -- Bahá'u'lláh
 
-bpn1608 
+bpn1608 «[Íslenska](../is/prayers/#bpn1608)» 
 
 ----
 
@@ -147,7 +147,7 @@ Miklað sé nafn Þitt, ó Drottinn Guð minn. Af þess völdum hafa trén í ga
 
 -- Bahá'u'lláh
 
-bpn1609 
+bpn1609 «[Íslenska](../is/prayers/#bpn1609)» 
 
 ----
 
@@ -157,7 +157,7 @@ Lof sé Þér, ó Drottinn Guð minn. Ég sárbæni Þig við tákn Þín sem ha
 
 -- Bahá'u'lláh
 
-bpn1610 
+bpn1610 «[Íslenska](../is/prayers/#bpn1610)» 
 
 ----
 
@@ -167,7 +167,7 @@ bpn1610
 
 -- Báb
 
-bpn1611 
+bpn1611 «[Íslenska](../is/prayers/#bpn1611)» 
 
 ----
 
@@ -177,7 +177,7 @@ bpn1611
 
 -- Báb
 
-bpn1612 
+bpn1612 «[Íslenska](../is/prayers/#bpn1612)» 
 
 ----
 
@@ -187,7 +187,7 @@ bpn1612
 
 -- Abdu'l-Bahá
 
-bpn1613 
+bpn1613 «[Íslenska](../is/prayers/#bpn1613)» 
 
 ----
 
@@ -197,7 +197,7 @@ bpn1613
 
 -- Abdu'l-Bahá
 
-bpn1614 
+bpn1614 «[Íslenska](../is/prayers/#bpn1614)» 
 
 ----
 
@@ -211,7 +211,7 @@ bpn1614
 
 -- Abdu'l-Bahá
 
-bpn1615 
+bpn1615 «[Íslenska](../is/prayers/#bpn1615)» 
 
 ----
 
@@ -221,7 +221,7 @@ bpn1615
 
 -- Abdu'l-Bahá
 
-bpn1616 
+bpn1616 «[Íslenska](../is/prayers/#bpn1616)» 
 
 ----
 
@@ -231,7 +231,7 @@ bpn1616
 
 -- Abdu'l-Bahá
 
-bpn1617 
+bpn1617 «[Íslenska](../is/prayers/#bpn1617)» 
 
 ----
 
@@ -245,7 +245,7 @@ Gef mér að drekka af ilmsætum straumi eilífðar Þinnar, ó Guð minn. Og ge
 
 -- Bahá'u'lláh
 
-bpn1585 
+bpn1585 «[Íslenska](../is/prayers/#bpn1585)» 
 
 ----
 
@@ -255,7 +255,7 @@ Skapa í mér hreint hjarta, ó Guð minn, og endurnýja kyrrláta samvisku í m
 
 -- Bahá'u'lláh
 
-bpn1586 
+bpn1586 «[Íslenska](../is/prayers/#bpn1586)» 
 
 ----
 
@@ -265,7 +265,7 @@ Hann er hinn náðugi og veglyndi.Ó Guð, Guð minn! Kall Þitt hefur heillað 
 
 -- Bahá'u'lláh
 
-bpn1587 
+bpn1587 «[Íslenska](../is/prayers/#bpn1587)» 
 
 ----
 
@@ -275,7 +275,7 @@ bpn1587
 
 -- Bahá'u'lláh
 
-bpn1588 
+bpn1588 «[Íslenska](../is/prayers/#bpn1588)» 
 
 ----
 
@@ -285,7 +285,7 @@ Seg: ó Guð, Guð minn! Krýn höfuð mitt kórónu réttlætisins og musteri m
 
 -- Bahá'u'lláh
 
-bpn1589 
+bpn1589 «[Íslenska](../is/prayers/#bpn1589)» 
 
 ----
 
@@ -295,7 +295,7 @@ Lofað sé nafn Þitt, ó Drottinn Guð minn! Ég er þjónn Þinn sem hef teki�
 
 -- Bahá'u'lláh
 
-bpn1590 
+bpn1590 «[Íslenska](../is/prayers/#bpn1590)» 
 
 ----
 
@@ -305,7 +305,7 @@ bpn1590
 
 -- Bahá'u'lláh
 
-bpn1591 
+bpn1591 «[Íslenska](../is/prayers/#bpn1591)» 
 
 ----
 
@@ -315,7 +315,7 @@ Hann er Guð, sá sem heyrir bænir og svarar þeim.Við dýrð Þína, ó ástv
 
 -- Bahá'u'lláh
 
-bpn1592 
+bpn1592 «[Íslenska](../is/prayers/#bpn1592)» 
 
 ----
 
@@ -325,7 +325,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Ég flyt Þér þökk fyrir að hafa 
 
 -- Bahá'u'lláh
 
-bpn1593 
+bpn1593 «[Íslenska](../is/prayers/#bpn1593)» 
 
 ----
 
@@ -335,7 +335,7 @@ Gef mér, ó Guð minn, fullan mæli ástar Þinnar og velþóknunar og ger hjö
 
 -- Báb
 
-bpn1594 
+bpn1594 «[Íslenska](../is/prayers/#bpn1594)» 
 
 ----
 
@@ -345,7 +345,7 @@ bpn1594
 
 -- Abdu'l-Bahá
 
-bpn1595 
+bpn1595 «[Íslenska](../is/prayers/#bpn1595)» 
 
 ----
 
@@ -355,7 +355,7 @@ bpn1595
 
 -- Abdu'l-Bahá
 
-bpn1596 
+bpn1596 «[Íslenska](../is/prayers/#bpn1596)» 
 
 ----
 
@@ -365,7 +365,7 @@ bpn1596
 
 -- Abdu'l-Bahá
 
-bpn1597 
+bpn1597 «[Íslenska](../is/prayers/#bpn1597)» 
 
 ----
 
@@ -375,7 +375,7 @@ bpn1597
 
 -- Abdu'l-Bahá
 
-bpn1598 
+bpn1598 «[Íslenska](../is/prayers/#bpn1598)» 
 
 ----
 
@@ -385,7 +385,7 @@ bpn1598
 
 -- Abdu'l-Bahá
 
-bpn1599 
+bpn1599 «[Íslenska](../is/prayers/#bpn1599)» 
 
 ----
 
@@ -395,7 +395,7 @@ bpn1599
 
 -- Abdu'l-Bahá
 
-bpn1600 
+bpn1600 «[Íslenska](../is/prayers/#bpn1600)» 
 
 ----
 
@@ -405,7 +405,7 @@ Hann er Guð!Ó Guð, Guð minn! Þetta eru þjónar Þínir sem á Þínum eigi
 
 -- Abdu'l-Bahá
 
-bpn1601 
+bpn1601 «[Íslenska](../is/prayers/#bpn1601)» 
 
 ----
 
@@ -415,7 +415,7 @@ bpn1601
 
 -- Abdu'l-Bahá
 
-bpn1602 
+bpn1602 «[Íslenska](../is/prayers/#bpn1602)» 
 
 ----
 
@@ -429,7 +429,7 @@ bpn1602
 
 -- Bahá'u'lláh
 
-bpn1766 
+bpn1766 «[Íslenska](../is/prayers/#bpn1766)» 
 
 ----
 
@@ -443,7 +443,7 @@ bpn1766
 
 -- Bahá'u'lláh
 
-bpn1578 
+bpn1578 «[Íslenska](../is/prayers/#bpn1578)» 
 
 ----
 
@@ -453,7 +453,7 @@ Guð minn, Þú sem ég tilbið, konungur minn, þrá mín! Hvaða tunga fær tj
 
 -- Bahá'u'lláh
 
-bpn1579 
+bpn1579 «[Íslenska](../is/prayers/#bpn1579)» 
 
 ----
 
@@ -463,7 +463,7 @@ Lofað sé nafn Þitt, ó Drottinn Guð okkar! Þú þekkir í sannleika hið ó
 
 -- Báb
 
-bpn1580 
+bpn1580 «[Íslenska](../is/prayers/#bpn1580)» 
 
 ----
 
@@ -473,7 +473,7 @@ bpn1580
 
 -- Báb
 
-bpn1581 
+bpn1581 «[Íslenska](../is/prayers/#bpn1581)» 
 
 ----
 
@@ -483,7 +483,7 @@ Drottinn! Aumkunarverð erum við, veit okkur hylli Þína; fátæk, gef okkur h
 
 -- Abdu'l-Bahá
 
-bpn1582 
+bpn1582 «[Íslenska](../is/prayers/#bpn1582)» 
 
 ----
 
@@ -493,7 +493,7 @@ bpn1582
 
 -- Abdu'l-Bahá
 
-bpn1583 
+bpn1583 «[Íslenska](../is/prayers/#bpn1583)» 
 
 ----
 
@@ -503,7 +503,7 @@ Tak ekki frá okkur, ó Drottinn, veisluföngin, sem reidd hafa verið fram í �
 
 -- Abdu'l-Bahá
 
-bpn1584 
+bpn1584 «[Íslenska](../is/prayers/#bpn1584)» 
 
 ----
 
@@ -513,7 +513,7 @@ bpn1584
 
 -- Abdu'l-Bahá
 
-bpn8374 
+bpn8374 «[Íslenska](../is/prayers/#bpn8374)» 
 
 ----
 
@@ -527,7 +527,7 @@ bpn8374
 
 -- Bahá'u'lláh
 
-bpn1632 
+bpn1632 «[Íslenska](../is/prayers/#bpn1632)» 
 
 ----
 
@@ -537,7 +537,7 @@ Dýrð sé Þér, ó Drottinn Guð minn! Niðurlæg ekki þann sem Þú hefur up
 
 -- Bahá'u'lláh
 
-bpn1633 
+bpn1633 «[Íslenska](../is/prayers/#bpn1633)» 
 
 ----
 
@@ -547,7 +547,7 @@ Hann er Guð, upphafinn er Hann, Drottinn ástúðar og örlætis!Dýrð sé Þ�
 
 -- Bahá'u'lláh
 
-bpn1634 
+bpn1634 «[Íslenska](../is/prayers/#bpn1634)» 
 
 ----
 
@@ -557,7 +557,7 @@ bpn1634
 
 -- Abdu'l-Bahá
 
-bpn1635 
+bpn1635 «[Íslenska](../is/prayers/#bpn1635)» 
 
 ----
 
@@ -567,7 +567,7 @@ bpn1635
 
 -- Abdu'l-Bahá
 
-bpn1636 
+bpn1636 «[Íslenska](../is/prayers/#bpn1636)» 
 
 ----
 
@@ -577,7 +577,7 @@ bpn1636
 
 -- Abdu'l-Bahá
 
-bpn1637 
+bpn1637 «[Íslenska](../is/prayers/#bpn1637)» 
 
 ----
 
@@ -591,7 +591,7 @@ Lof sér Þér, ó Drottinn Guð minn! Gef náðarsamlega að þessi hvítvoðun
 
 -- Bahá'u'lláh
 
-bpn1618 
+bpn1618 «[Íslenska](../is/prayers/#bpn1618)» 
 
 ----
 
@@ -601,7 +601,7 @@ bpn1618
 
 -- Bahá'u'lláh
 
-bpn8375 
+bpn8375 «[Íslenska](../is/prayers/#bpn8375)» 
 
 ----
 
@@ -611,7 +611,7 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 
 -- Abdu'l-Bahá
 
-bpn1627 
+bpn1627 «[Íslenska](../is/prayers/#bpn1627)» 
 
 ----
 
@@ -621,7 +621,7 @@ bpn1627
 
 -- Abdu'l-Bahá
 
-bpn1628 
+bpn1628 «[Íslenska](../is/prayers/#bpn1628)» 
 
 ----
 
@@ -631,7 +631,7 @@ bpn1628
 
 -- Abdu'l-Bahá
 
-bpn1619 
+bpn1619 «[Íslenska](../is/prayers/#bpn1619)» 
 
 ----
 
@@ -641,7 +641,7 @@ bpn1619
 
 -- Abdu'l-Bahá
 
-bpn8376 
+bpn8376 «[Íslenska](../is/prayers/#bpn8376)» 
 
 ----
 
@@ -651,7 +651,7 @@ bpn8376
 
 -- Abdu'l-Bahá
 
-bpn8377 
+bpn8377 «[Íslenska](../is/prayers/#bpn8377)» 
 
 ----
 
@@ -661,7 +661,7 @@ bpn8377
 
 -- Abdu'l-Bahá
 
-bpn1620 
+bpn1620 «[Íslenska](../is/prayers/#bpn1620)» 
 
 ----
 
@@ -671,7 +671,7 @@ bpn1620
 
 -- Abdu'l-Bahá
 
-bpn1621 
+bpn1621 «[Íslenska](../is/prayers/#bpn1621)» 
 
 ----
 
@@ -681,7 +681,7 @@ bpn1621
 
 -- Abdu'l-Bahá
 
-bpn1622 
+bpn1622 «[Íslenska](../is/prayers/#bpn1622)» 
 
 ----
 
@@ -691,7 +691,7 @@ bpn1622
 
 -- Abdu'l-Bahá
 
-bpn1623 
+bpn1623 «[Íslenska](../is/prayers/#bpn1623)» 
 
 ----
 
@@ -701,7 +701,7 @@ bpn1623
 
 -- Abdu'l-Bahá
 
-bpn1624 
+bpn1624 «[Íslenska](../is/prayers/#bpn1624)» 
 
 ----
 
@@ -711,7 +711,7 @@ bpn1624
 
 -- Abdu'l-Bahá
 
-bpn1625 
+bpn1625 «[Íslenska](../is/prayers/#bpn1625)» 
 
 ----
 
@@ -721,7 +721,7 @@ bpn1625
 
 -- Abdu'l-Bahá
 
-bpn1626 
+bpn1626 «[Íslenska](../is/prayers/#bpn1626)» 
 
 ----
 
@@ -731,7 +731,7 @@ bpn1626
 
 -- Abdu'l-Bahá
 
-bpn1629 
+bpn1629 «[Íslenska](../is/prayers/#bpn1629)» 
 
 ----
 
@@ -741,7 +741,7 @@ bpn1629
 
 -- Abdu'l-Bahá
 
-bpn1630 
+bpn1630 «[Íslenska](../is/prayers/#bpn1630)» 
 
 ----
 
@@ -751,7 +751,7 @@ bpn1630
 
 -- Abdu'l-Bahá
 
-bpn1631 
+bpn1631 «[Íslenska](../is/prayers/#bpn1631)» 
 
 ----
 
@@ -765,7 +765,7 @@ Guð gefi að ljós einingarinnar megi umlykja alla jörðina og innsiglinu „R
 
 -- Bahá'u'lláh
 
-bpn1639 
+bpn1639 «[Íslenska](../is/prayers/#bpn1639)» 
 
 ----
 
@@ -775,7 +775,7 @@ bpn1639
 
 -- Bahá'u'lláh
 
-bpn1638 
+bpn1638 «[Íslenska](../is/prayers/#bpn1638)» 
 
 ----
 
@@ -785,7 +785,7 @@ bpn1638
 
 -- Abdu'l-Bahá
 
-bpn1640 
+bpn1640 «[Íslenska](../is/prayers/#bpn1640)» 
 
 ----
 
@@ -813,7 +813,7 @@ Prófraunir Þínar, Ó Guð minn, eru læknislyf þeim sem eru Þér nálægir,
 
 -- Bahá'u'lláh
 
-bpn1641 
+bpn1641 «[Íslenska](../is/prayers/#bpn1641)» 
 
 ----
 
@@ -823,7 +823,7 @@ Dýrð sé Þér, ó Guð minn! Ef ekki væri fyrir þjáningarnar sem þolaðar
 
 -- Bahá'u'lláh
 
-bpn1642 
+bpn1642 «[Íslenska](../is/prayers/#bpn1642)» 
 
 ----
 
@@ -833,7 +833,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Sérhver maður sem gæddur er innsæ
 
 -- Bahá'u'lláh
 
-bpn1643 
+bpn1643 «[Íslenska](../is/prayers/#bpn1643)» 
 
 ----
 
@@ -843,7 +843,7 @@ bpn1643
 
 -- Báb
 
-bpn1644 
+bpn1644 «[Íslenska](../is/prayers/#bpn1644)» 
 
 ----
 
@@ -857,7 +857,7 @@ bpn1644
 
 -- Bahá'u'lláh
 
-bpn1767 
+bpn1767 «[Íslenska](../is/prayers/#bpn1767)» 
 
 ----
 
@@ -867,7 +867,7 @@ Lof sé Þér, ó Drottinn Guð minn! Ég bið Þig við þessa opinberun, sem h
 
 -- Bahá'u'lláh
 
-bpn1768 
+bpn1768 «[Íslenska](../is/prayers/#bpn1768)» 
 
 ----
 
@@ -877,7 +877,7 @@ bpn1768
 
 -- Bahá'u'lláh
 
-bpn1769 
+bpn1769 «[Íslenska](../is/prayers/#bpn1769)» 
 
 ----
 
@@ -887,7 +887,7 @@ Dýrð sé Þér, ó Drottinn Guð minn! Þetta eru þeir dagar er Þú hefur bo
 
 -- Bahá'u'lláh
 
-bpn1770 
+bpn1770 «[Íslenska](../is/prayers/#bpn1770)» 
 
 ----
 
@@ -901,7 +901,7 @@ Dýrð sé Þér, ó Drottinn Guð minn! Ég bið Þig að fyrirgefa mér og þe
 
 -- Báb
 
-bpn1645 
+bpn1645 «[Íslenska](../is/prayers/#bpn1645)» 
 
 ----
 
@@ -911,7 +911,7 @@ bpn1645
 
 -- Báb
 
-bpn1646 
+bpn1646 «[Íslenska](../is/prayers/#bpn1646)» 
 
 ----
 
@@ -921,7 +921,7 @@ bpn1646
 
 -- Abdu'l-Bahá
 
-bpn1647 
+bpn1647 «[Íslenska](../is/prayers/#bpn1647)» 
 
 ----
 
@@ -931,7 +931,7 @@ bpn1647
 
 -- Abdu'l-Bahá
 
-bpn1648 
+bpn1648 «[Íslenska](../is/prayers/#bpn1648)» 
 
 ----
 
@@ -941,7 +941,7 @@ Drottinn minn! Drottinn minn! Ég vegsama Þig og þakka Þér fyrir það, sem 
 
 -- Abdu'l-Bahá
 
-bpn1649 
+bpn1649 «[Íslenska](../is/prayers/#bpn1649)» 
 
 ----
 
@@ -955,7 +955,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 
 -- Bahá'u'lláh
 
-bpn1650 
+bpn1650 «[Íslenska](../is/prayers/#bpn1650)» 
 
 ----
 
@@ -965,7 +965,7 @@ bpn1650
 
 -- Abdu'l-Bahá
 
-bpn1651 
+bpn1651 «[Íslenska](../is/prayers/#bpn1651)» 
 
 ----
 
@@ -975,7 +975,7 @@ bpn1651
 
 -- Abdu'l-Bahá
 
-bpn1652 
+bpn1652 «[Íslenska](../is/prayers/#bpn1652)» 
 
 ----
 
@@ -985,7 +985,7 @@ bpn1652
 
 -- Abdu'l-Bahá
 
-bpn1653 
+bpn1653 «[Íslenska](../is/prayers/#bpn1653)» 
 
 ----
 
@@ -995,7 +995,7 @@ bpn1653
 
 -- Abdu'l-Bahá
 
-bpn1654 
+bpn1654 «[Íslenska](../is/prayers/#bpn1654)» 
 
 ----
 
@@ -1005,7 +1005,7 @@ bpn1654
 
 -- Abdu'l-Bahá
 
-bpn1655 
+bpn1655 «[Íslenska](../is/prayers/#bpn1655)» 
 
 ----
 
@@ -1019,7 +1019,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 
 -- Bahá'u'lláh
 
-bpn1656 
+bpn1656 «[Íslenska](../is/prayers/#bpn1656)» 
 
 ----
 
@@ -1029,7 +1029,7 @@ bpn1656
 
 -- Bahá'u'lláh
 
-bpn1657 
+bpn1657 «[Íslenska](../is/prayers/#bpn1657)» 
 
 ----
 
@@ -1039,7 +1039,7 @@ bpn1657
 
 -- Bahá'u'lláh
 
-bpn1658 
+bpn1658 «[Íslenska](../is/prayers/#bpn1658)» 
 
 ----
 
@@ -1049,7 +1049,7 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Í hvert sinn sem ég dirfist að nef
 
 -- Bahá'u'lláh
 
-bpn1659 
+bpn1659 «[Íslenska](../is/prayers/#bpn1659)» 
 
 ----
 
@@ -1059,7 +1059,7 @@ Lofað sé nafn Þitt, ó Guð minn og Guð alls sem er, dýrð mín og dýrð a
 
 -- Bahá'u'lláh
 
-bpn1660 
+bpn1660 «[Íslenska](../is/prayers/#bpn1660)» 
 
 ----
 
@@ -1069,7 +1069,7 @@ bpn1660
 
 -- Bahá'u'lláh
 
-bpn1661 
+bpn1661 «[Íslenska](../is/prayers/#bpn1661)» 
 
 ----
 
@@ -1079,7 +1079,7 @@ bpn1661
 
 -- Báb
 
-bpn1662 
+bpn1662 «[Íslenska](../is/prayers/#bpn1662)» 
 
 ----
 
@@ -1089,7 +1089,7 @@ Lof sé Þér, ó Drottinn. Fyrirgef syndir okkar, auðsýn okkur miskunn og ger
 
 -- Báb
 
-bpn1663 
+bpn1663 «[Íslenska](../is/prayers/#bpn1663)» 
 
 ----
 
@@ -1099,7 +1099,7 @@ bpn1663
 
 -- Báb
 
-bpn1664 
+bpn1664 «[Íslenska](../is/prayers/#bpn1664)» 
 
 ----
 
@@ -1109,7 +1109,7 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 
 -- Báb
 
-bpn1665 
+bpn1665 «[Íslenska](../is/prayers/#bpn1665)» 
 
 ----
 
@@ -1119,7 +1119,7 @@ bpn1665
 
 -- Abdu'l-Bahá
 
-bpn1666 
+bpn1666 «[Íslenska](../is/prayers/#bpn1666)» 
 
 ----
 
@@ -1133,7 +1133,7 @@ bpn1666
 
 -- Bahá'u'lláh
 
-bpn1667 
+bpn1667 «[Íslenska](../is/prayers/#bpn1667)» 
 
 ----
 
@@ -1143,7 +1143,7 @@ Nafn Þitt er lækning mín, ó Guð minn, og minningin um Þig er mér heilsuli
 
 -- Bahá'u'lláh
 
-bpn1668 
+bpn1668 «[Íslenska](../is/prayers/#bpn1668)» 
 
 ----
 
@@ -1153,7 +1153,7 @@ Dýrð sé Þér, ó Drottinn Guð minn! Ég sárbæni Þig við nafn Þitt sem 
 
 -- Bahá'u'lláh
 
-bpn1669 
+bpn1669 «[Íslenska](../is/prayers/#bpn1669)» 
 
 ----
 
@@ -1163,7 +1163,7 @@ Vegsamaður sért Þú, ó Drottinn Guð minn! Ég sárbæni Þig við Þitt mes
 
 -- Bahá'u'lláh
 
-bpn1670 
+bpn1670 «[Íslenska](../is/prayers/#bpn1670)» 
 
 ----
 
@@ -1173,7 +1173,7 @@ Nöfn Þín, ó Guð minn, eru líkn sjúkum og læknisdómur þjáðum, svaladr
 
 -- Bahá'u'lláh
 
-bpn1671 
+bpn1671 «[Íslenska](../is/prayers/#bpn1671)» 
 
 ----
 
@@ -1193,7 +1193,7 @@ bpn1672 «[Íslenska](../is/prayers/#bpn1672)»
 
 -- Abdu'l-Bahá
 
-bpn9107 
+bpn9107 «[Íslenska](../is/prayers/#bpn9107)» 
 
 ----
 
@@ -1207,7 +1207,7 @@ Tak frá mér sorg mína af veglyndi Þínu og örlæti, ó Guð, Guð minn, og 
 
 -- Bahá'u'lláh
 
-bpn1673 
+bpn1673 «[Íslenska](../is/prayers/#bpn1673)» 
 
 ----
 
@@ -1217,7 +1217,7 @@ Lofaður og dýrlegur ert Þú, ó Guð minn! Ég bið Þig við andvörp ástvi
 
 -- Bahá'u'lláh
 
-bpn1674 
+bpn1674 «[Íslenska](../is/prayers/#bpn1674)» 
 
 ----
 
@@ -1227,7 +1227,7 @@ Er nokkur sá er firrir erfiðleikum nema Guð? Seg: Lof sé Guði, Hann er Guð
 
 -- Báb
 
-bpn1675 
+bpn1675 «[Íslenska](../is/prayers/#bpn1675)» 
 
 ----
 
@@ -1237,7 +1237,7 @@ Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema
 
 -- Báb
 
-bpn1676 
+bpn1676 «[Íslenska](../is/prayers/#bpn1676)» 
 
 ----
 
@@ -1247,7 +1247,7 @@ bpn1676
 
 -- Báb
 
-bpn1677 
+bpn1677 «[Íslenska](../is/prayers/#bpn1677)» 
 
 ----
 
@@ -1257,7 +1257,7 @@ bpn1677
 
 -- Abdu'l-Bahá
 
-bpn1678 
+bpn1678 «[Íslenska](../is/prayers/#bpn1678)» 
 
 ----
 
@@ -1267,7 +1267,7 @@ Hann er hinn samúðarríki, sá sem allt gefur! Ó Guð, Guð minn! Þú sérð
 
 -- Abdu'l-Bahá
 
-bpn1679 
+bpn1679 «[Íslenska](../is/prayers/#bpn1679)» 
 
 ----
 
@@ -1277,7 +1277,7 @@ bpn1679
 
 -- Abdu'l-Bahá
 
-bpn1680 
+bpn1680 «[Íslenska](../is/prayers/#bpn1680)» 
 
 ----
 
@@ -1287,7 +1287,7 @@ bpn1680
 
 -- Abdu'l-Bahá
 
-bpn1681 
+bpn1681 «[Íslenska](../is/prayers/#bpn1681)» 
 
 ----
 
@@ -1297,7 +1297,7 @@ bpn1681
 
 -- Abdu'l-Bahá
 
-bpn1682 
+bpn1682 «[Íslenska](../is/prayers/#bpn1682)» 
 
 ----
 
@@ -1311,7 +1311,7 @@ bpn1682
 
 -- Bahá'u'lláh
 
-bpn1684 
+bpn1684 «[Íslenska](../is/prayers/#bpn1684)» 
 
 ----
 
@@ -1321,7 +1321,7 @@ Hann er gjafarinn, hinn veglyndi!Lof sé Guði, hinum aldna og ævarandi, óumbr
 
 -- Bahá'u'lláh
 
-bpn10118 
+bpn10118 «[Íslenska](../is/prayers/#bpn10118)» 
 
 ----
 
@@ -1331,7 +1331,7 @@ bpn10118
 
 -- Abdu'l-Bahá
 
-bpn1683 
+bpn1683 «[Íslenska](../is/prayers/#bpn1683)» 
 
 ----
 
@@ -1341,7 +1341,7 @@ Hann er Guð! Ó óviðjafnanlegi Drottinn! Í almáttugri visku Þinni hefur 
 
 -- Abdu'l-Bahá
 
-bpn1685 
+bpn1685 «[Íslenska](../is/prayers/#bpn1685)» 
 
 ----
 
@@ -1351,7 +1351,7 @@ Dýrð sé Þér, ó Guð Drottinn minn! Vissulega hafa þessi þjónn Þinn og 
 
 -- Abdu'l-Bahá
 
-bpn1686 
+bpn1686 «[Íslenska](../is/prayers/#bpn1686)» 
 
 ----
 
@@ -1361,7 +1361,7 @@ Drottinn minn, ó Drottinn minn! Þessir tveir björtu hnettir eru gefnir saman 
 
 -- Abdu'l-Bahá
 
-bpn1687 
+bpn1687 «[Íslenska](../is/prayers/#bpn1687)» 
 
 ----
 
@@ -1375,7 +1375,7 @@ Miklað sé nafn Þitt, ó Guð minn, að Þú hefur birt daginn sem er konungur
 
 -- Bahá'u'lláh
 
-bpn1688 
+bpn1688 «[Íslenska](../is/prayers/#bpn1688)» 
 
 ----
 
@@ -1385,7 +1385,7 @@ Lof sé Þér, ó Drottinn Guð minn! Ég sárbæni Þig við nafn Þitt sem eng
 
 -- Bahá'u'lláh
 
-bpn1689 
+bpn1689 «[Íslenska](../is/prayers/#bpn1689)» 
 
 ----
 
@@ -1395,7 +1395,7 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóðanna, ó Þú sem hefur b
 
 -- Bahá'u'lláh
 
-bpn1690 
+bpn1690 «[Íslenska](../is/prayers/#bpn1690)» 
 
 ----
 
@@ -1405,7 +1405,7 @@ bpn1690
 
 -- Bahá'u'lláh
 
-bpn1691 
+bpn1691 «[Íslenska](../is/prayers/#bpn1691)» 
 
 ----
 
@@ -1415,7 +1415,7 @@ bpn1691
 
 -- Bahá'u'lláh
 
-bpn1692 
+bpn1692 «[Íslenska](../is/prayers/#bpn1692)» 
 
 ----
 
@@ -1425,7 +1425,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn. Ég bið til Þín við Hann sem er
 
 -- Bahá'u'lláh
 
-bpn1693 
+bpn1693 «[Íslenska](../is/prayers/#bpn1693)» 
 
 ----
 
@@ -1435,7 +1435,7 @@ bpn1693
 
 -- Bahá'u'lláh
 
-bpn1694 
+bpn1694 «[Íslenska](../is/prayers/#bpn1694)» 
 
 ----
 
@@ -1445,7 +1445,7 @@ Dýrð sé Þér sem fengið hefur alla heilaga til að játa vanmátt sinn fram
 
 -- Bahá'u'lláh
 
-bpn1695 
+bpn1695 «[Íslenska](../is/prayers/#bpn1695)» 
 
 ----
 
@@ -1455,7 +1455,7 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 
 -- Bahá'u'lláh
 
-bpn1696 
+bpn1696 «[Íslenska](../is/prayers/#bpn1696)» 
 
 ----
 
@@ -1465,7 +1465,7 @@ bpn1696
 
 -- Abdu'l-Bahá
 
-bpn1697 
+bpn1697 «[Íslenska](../is/prayers/#bpn1697)» 
 
 ----
 
@@ -1475,7 +1475,7 @@ bpn1697
 
 -- Abdu'l-Bahá
 
-bpn1698 
+bpn1698 «[Íslenska](../is/prayers/#bpn1698)» 
 
 ----
 
@@ -1485,7 +1485,7 @@ bpn1698
 
 -- Abdu'l-Bahá
 
-bpn1699 
+bpn1699 «[Íslenska](../is/prayers/#bpn1699)» 
 
 ----
 
@@ -1495,7 +1495,7 @@ bpn1699
 
 -- Abdu'l-Bahá
 
-bpn1700 
+bpn1700 «[Íslenska](../is/prayers/#bpn1700)» 
 
 ----
 
@@ -1505,7 +1505,7 @@ bpn1700
 
 -- Abdu'l-Bahá
 
-bpn1701 
+bpn1701 «[Íslenska](../is/prayers/#bpn1701)» 
 
 ----
 
@@ -1515,7 +1515,7 @@ bpn1701
 
 -- Abdu'l-Bahá
 
-bpn1702 
+bpn1702 «[Íslenska](../is/prayers/#bpn1702)» 
 
 ----
 
@@ -1525,7 +1525,7 @@ bpn1702
 
 -- Abdu'l-Bahá
 
-bpn1703 
+bpn1703 «[Íslenska](../is/prayers/#bpn1703)» 
 
 ----
 
@@ -1535,7 +1535,7 @@ bpn1703
 
 -- Abdu'l-Bahá
 
-bpn1704 
+bpn1704 «[Íslenska](../is/prayers/#bpn1704)» 
 
 ----
 
@@ -1549,7 +1549,7 @@ bpn1704
 
 -- Bahá'u'lláh
 
-bpn1705 
+bpn1705 «[Íslenska](../is/prayers/#bpn1705)» 
 
 ----
 
@@ -1559,7 +1559,7 @@ Hvernig get ég óskað mér svefns, ó Guð, Guð minn, meðan augu þeirra sem
 
 -- Bahá'u'lláh
 
-bpn1706 
+bpn1706 «[Íslenska](../is/prayers/#bpn1706)» 
 
 ----
 
@@ -1569,7 +1569,7 @@ bpn1706
 
 -- Abdu'l-Bahá
 
-bpn1707 
+bpn1707 «[Íslenska](../is/prayers/#bpn1707)» 
 
 ----
 
@@ -1583,7 +1583,7 @@ bpn1707
 
 -- Bahá'u'lláh
 
-bpn1577 
+bpn1577 «[Íslenska](../is/prayers/#bpn1577)» 
 
 ----
 
@@ -1611,7 +1611,7 @@ Sæll er staðurinn og húsiðog svæðið og borginog hjartað og fjalliðog at
 
 -- Bahá'u'lláh
 
-bpn8373 
+bpn8373 «[Íslenska](../is/prayers/#bpn8373)» 
 
 ----
 
@@ -1621,7 +1621,7 @@ Allt lof sé Þér, ó Guð minn, sem ert uppspretta allrar dýrðar og tignar, 
 
 -- Bahá'u'lláh
 
-bpn1708 
+bpn1708 «[Íslenska](../is/prayers/#bpn1708)» 
 
 ----
 
@@ -1631,7 +1631,7 @@ bpn1708
 
 -- Bahá'u'lláh
 
-bpn1709 
+bpn1709 «[Íslenska](../is/prayers/#bpn1709)» 
 
 ----
 
@@ -1641,7 +1641,7 @@ Við dýrð Þína! Í hvert sinn sem ég horfi til himins minnist ég hátignar
 
 -- Bahá'u'lláh
 
-bpn10178 
+bpn10178 «[Íslenska](../is/prayers/#bpn10178)» 
 
 ----
 
@@ -1651,7 +1651,7 @@ Vegsamað sé nafn Þitt, ó Drottinn Guð minn! Þú ert sá sem tilbeðinn er 
 
 -- Bahá'u'lláh
 
-bpn1710 
+bpn1710 «[Íslenska](../is/prayers/#bpn1710)» 
 
 ----
 
@@ -1661,7 +1661,7 @@ Lofaður sért Þú, ó Drottinn, Guð minn! Í hvert sinn sem ég reyni að nef
 
 -- Bahá'u'lláh
 
-bpn1711 
+bpn1711 «[Íslenska](../is/prayers/#bpn1711)» 
 
 ----
 
@@ -1671,7 +1671,7 @@ bpn1711
 
 -- Bahá'u'lláh
 
-bpn1713 
+bpn1713 «[Íslenska](../is/prayers/#bpn1713)» 
 
 ----
 
@@ -1681,7 +1681,7 @@ bpn1713
 
 -- Bahá'u'lláh
 
-bpn1714 
+bpn1714 «[Íslenska](../is/prayers/#bpn1714)» 
 
 ----
 
@@ -1691,7 +1691,7 @@ Guð vitnar um einingu guðdóms síns og einstæði eigin verundar. Frá hásæ
 
 -- Bahá'u'lláh
 
-bpn1715 
+bpn1715 «[Íslenska](../is/prayers/#bpn1715)» 
 
 ----
 
@@ -1701,7 +1701,7 @@ Lofað sé nafn Þitt, ó Guð minn! Ég ber því vitni að engin hugsun um Þi
 
 -- Bahá'u'lláh
 
-bpn1716 
+bpn1716 «[Íslenska](../is/prayers/#bpn1716)» 
 
 ----
 
@@ -1711,7 +1711,7 @@ Guð minn, Þú sem ég tilbið og dái, hinn voldugasti! Ég ber því vitni a�
 
 -- Bahá'u'lláh
 
-bpn1717 
+bpn1717 «[Íslenska](../is/prayers/#bpn1717)» 
 
 ----
 
@@ -1721,7 +1721,7 @@ Miklað sé nafn Þitt, ó Þú sem hefur í greip Þér stjórntauma sálna all
 
 -- Bahá'u'lláh
 
-bpn1718 
+bpn1718 «[Íslenska](../is/prayers/#bpn1718)» 
 
 ----
 
@@ -1731,7 +1731,7 @@ bpn1718
 
 -- Báb
 
-bpn1712 
+bpn1712 «[Íslenska](../is/prayers/#bpn1712)» 
 
 ----
 
@@ -1745,7 +1745,7 @@ Guð minn sem ég tilbið og dái! Ég ber vitni einingu Þinni og einstæði og
 
 -- Bahá'u'lláh
 
-bpn1719 
+bpn1719 «[Íslenska](../is/prayers/#bpn1719)» 
 
 ----
 
@@ -1755,7 +1755,7 @@ bpn1719
 
 -- Abdu'l-Bahá
 
-bpn1720 
+bpn1720 «[Íslenska](../is/prayers/#bpn1720)» 
 
 ----
 
@@ -1765,7 +1765,7 @@ bpn1720
 
 -- Abdu'l-Bahá
 
-bpn1721 
+bpn1721 «[Íslenska](../is/prayers/#bpn1721)» 
 
 ----
 
@@ -1775,7 +1775,7 @@ bpn1721
 
 -- Abdu'l-Bahá
 
-bpn1722 
+bpn1722 «[Íslenska](../is/prayers/#bpn1722)» 
 
 ----
 
@@ -1785,7 +1785,7 @@ bpn1722
 
 -- Abdu'l-Bahá
 
-bpn1723 
+bpn1723 «[Íslenska](../is/prayers/#bpn1723)» 
 
 ----
 
@@ -1799,7 +1799,7 @@ Dýrð sé Þér, ó Guð, fyrir að opinbera mannkyni ást Þína! Ó Þú sem 
 
 -- Bahá'u'lláh
 
-bpn1724 
+bpn1724 «[Íslenska](../is/prayers/#bpn1724)» 
 
 ----
 
@@ -1809,7 +1809,7 @@ Lof sé Þér, ó Drottinn Guð minn, meistari minn! Þú heyrir andvörp þeirr
 
 -- Bahá'u'lláh
 
-bpn1725 
+bpn1725 «[Íslenska](../is/prayers/#bpn1725)» 
 
 ----
 
@@ -1819,7 +1819,7 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig að láta því 
 
 -- Bahá'u'lláh
 
-bpn10179 
+bpn10179 «[Íslenska](../is/prayers/#bpn10179)» 
 
 ----
 
@@ -1829,7 +1829,7 @@ Við biðjum Guð að hjálpa þeim af náð sinni sem fara villir vegar að ver
 
 -- Bahá'u'lláh
 
-bpn1726 
+bpn1726 «[Íslenska](../is/prayers/#bpn1726)» 
 
 ----
 
@@ -1839,7 +1839,7 @@ bpn1726
 
 -- Bahá'u'lláh
 
-bpn11242 
+bpn11242 «[Íslenska](../is/prayers/#bpn11242)» 
 
 ----
 
@@ -1849,7 +1849,7 @@ bpn11242
 
 -- Báb
 
-bpn1728 
+bpn1728 «[Íslenska](../is/prayers/#bpn1728)» 
 
 ----
 
@@ -1859,7 +1859,7 @@ bpn1728
 
 -- Báb
 
-bpn1727 
+bpn1727 «[Íslenska](../is/prayers/#bpn1727)» 
 
 ----
 
@@ -1869,7 +1869,7 @@ bpn1727
 
 -- Abdu'l-Bahá
 
-bpn1729 
+bpn1729 «[Íslenska](../is/prayers/#bpn1729)» 
 
 ----
 
@@ -1883,7 +1883,7 @@ bpn1729
 
 -- Bahá'u'lláh
 
-bpn1730 
+bpn1730 «[Íslenska](../is/prayers/#bpn1730)» 
 
 ----
 
@@ -1893,7 +1893,7 @@ bpn1730
 
 -- Bahá'u'lláh
 
-bpn1732 
+bpn1732 «[Íslenska](../is/prayers/#bpn1732)» 
 
 ----
 
@@ -1903,7 +1903,7 @@ bpn1732
 
 -- Bahá'u'lláh
 
-bpn1733 
+bpn1733 «[Íslenska](../is/prayers/#bpn1733)» 
 
 ----
 
@@ -1913,7 +1913,7 @@ bpn1733
 
 -- Bahá'u'lláh
 
-bpn1731 
+bpn1731 «[Íslenska](../is/prayers/#bpn1731)» 
 
 ----
 
@@ -1927,7 +1927,7 @@ bpn1731
 
 -- Bahá'u'lláh
 
-bpn1771 
+bpn1771 «[Íslenska](../is/prayers/#bpn1771)» 
 
 ----
 
@@ -1941,7 +1941,7 @@ Dýrlegur ert Þú, ó vorkunnláti Drottinn minn. Ég bið Þig við ólgandi �
 
 -- Bahá'u'lláh
 
-bpn1772 
+bpn1772 «[Íslenska](../is/prayers/#bpn1772)» 
 
 ----
 
@@ -1955,7 +1955,7 @@ Dýrð sé Þér, ó Drottinn, sem kallað hefur til verundar allt sem skapað e
 
 -- Báb
 
-bpn1739 
+bpn1739 «[Íslenska](../is/prayers/#bpn1739)» 
 
 ----
 
@@ -1965,7 +1965,7 @@ bpn1739
 
 -- Báb
 
-bpn1740 
+bpn1740 «[Íslenska](../is/prayers/#bpn1740)» 
 
 ----
 
@@ -1975,7 +1975,7 @@ bpn1740
 
 -- Báb
 
-bpn1741 
+bpn1741 «[Íslenska](../is/prayers/#bpn1741)» 
 
 ----
 
@@ -1985,7 +1985,7 @@ bpn1741
 
 -- Báb
 
-bpn1742 
+bpn1742 «[Íslenska](../is/prayers/#bpn1742)» 
 
 ----
 
@@ -1995,7 +1995,7 @@ bpn1742
 
 -- Abdu'l-Bahá
 
-bpn1743 
+bpn1743 «[Íslenska](../is/prayers/#bpn1743)» 
 
 ----
 
@@ -2005,7 +2005,7 @@ Hann er Guð!Ó Drottinn, Guð minn, ástvinur minn! Þessir eru þjónar Þíni
 
 -- Abdu'l-Bahá
 
-bpn1744 
+bpn1744 «[Íslenska](../is/prayers/#bpn1744)» 
 
 ----
 
@@ -2019,7 +2019,7 @@ bpn1744
 
 -- Abdu'l-Bahá
 
-bpn1745 
+bpn1745 «[Íslenska](../is/prayers/#bpn1745)» 
 
 ----
 
@@ -2033,7 +2033,7 @@ bpn1745
 
 -- Bahá'u'lláh
 
-bpn1746 
+bpn1746 «[Íslenska](../is/prayers/#bpn1746)» 
 
 ----
 
@@ -2043,7 +2043,7 @@ bpn1746
 
 -- Bahá'u'lláh
 
-bpn1747 
+bpn1747 «[Íslenska](../is/prayers/#bpn1747)» 
 
 ----
 
@@ -2053,7 +2053,7 @@ Lof sé Þér, ó Drottinn, besti ástvinur minn! Ger mig staðfastan í málsta
 
 -- Báb
 
-bpn1748 
+bpn1748 «[Íslenska](../is/prayers/#bpn1748)» 
 
 ----
 
@@ -2063,7 +2063,7 @@ Vegsamaður og dýrlegur sért Þú, ó Guð! Gef að sá dagur nálgist óðflu
 
 -- Báb
 
-bpn1749 
+bpn1749 «[Íslenska](../is/prayers/#bpn1749)» 
 
 ----
 
@@ -2073,7 +2073,7 @@ bpn1749
 
 -- Abdu'l-Bahá
 
-bpn1750 
+bpn1750 «[Íslenska](../is/prayers/#bpn1750)» 
 
 ----
 
@@ -2083,7 +2083,7 @@ bpn1750
 
 -- Abdu'l-Bahá
 
-bpn1751 
+bpn1751 «[Íslenska](../is/prayers/#bpn1751)» 
 
 ----
 
@@ -2093,7 +2093,7 @@ bpn1751
 
 -- Abdu'l-Bahá
 
-bpn1752 
+bpn1752 «[Íslenska](../is/prayers/#bpn1752)» 
 
 ----
 
@@ -2107,7 +2107,7 @@ bpn1752
 
 -- Bahá'u'lláh
 
-bpn1576 
+bpn1576 «[Íslenska](../is/prayers/#bpn1576)» 
 
 ----
 
@@ -2121,7 +2121,7 @@ Dýrð sé Þér, ó konungur eilífðar, skapari þjóðanna og sá sem mótar 
 
 -- Bahá'u'lláh
 
-bpn1734 
+bpn1734 «[Íslenska](../is/prayers/#bpn1734)» 
 
 ----
 
@@ -2131,7 +2131,7 @@ Hann er hinn máttugi, fyrirgefandinn, hinn vorkunnláti!Ó Guð, Guð minn! Þ�
 
 -- Bahá'u'lláh
 
-bpn1735 
+bpn1735 «[Íslenska](../is/prayers/#bpn1735)» 
 
 ----
 
@@ -2141,7 +2141,7 @@ Ger skref okkar stöðug, ó Drottinn, á vegi Þínum og styrk hjörtu okkar í
 
 -- Abdu'l-Bahá
 
-bpn1736 
+bpn1736 «[Íslenska](../is/prayers/#bpn1736)» 
 
 ----
 
@@ -2151,7 +2151,7 @@ bpn1736
 
 -- Abdu'l-Bahá
 
-bpn1737 
+bpn1737 «[Íslenska](../is/prayers/#bpn1737)» 
 
 ----
 
@@ -2161,7 +2161,7 @@ bpn1737
 
 -- Abdu'l-Bahá
 
-bpn1738 
+bpn1738 «[Íslenska](../is/prayers/#bpn1738)» 
 
 ----
 
@@ -2175,7 +2175,7 @@ bpn1738
 
 -- Bahá'u'lláh
 
-bpn1762 
+bpn1762 «[Íslenska](../is/prayers/#bpn1762)» 
 
 ----
 
@@ -2203,7 +2203,7 @@ Lof sé Þér, ó Drottinn Guð minn! Þú sérð og veist að ég hef hvatt þj
 
 -- Bahá'u'lláh
 
-bpn1753 
+bpn1753 «[Íslenska](../is/prayers/#bpn1753)» 
 
 ----
 
@@ -2213,7 +2213,7 @@ Lofaður sért Þú, ó Drottinn Guð minn! Þetta er þjónn Þinn sem teygað 
 
 -- Bahá'u'lláh
 
-bpn1754 
+bpn1754 «[Íslenska](../is/prayers/#bpn1754)» 
 
 ----
 
@@ -2223,7 +2223,7 @@ bpn1754
 
 -- Bahá'u'lláh
 
-bpn1755 
+bpn1755 «[Íslenska](../is/prayers/#bpn1755)» 
 
 ----
 
@@ -2233,7 +2233,7 @@ bpn1755
 
 -- Bahá'u'lláh
 
-bpn1756 
+bpn1756 «[Íslenska](../is/prayers/#bpn1756)» 
 
 ----
 
@@ -2243,7 +2243,7 @@ bpn1756
 
 -- Báb
 
-bpn1757 
+bpn1757 «[Íslenska](../is/prayers/#bpn1757)» 
 
 ----
 
@@ -2253,7 +2253,7 @@ Dýrð sé Þér, ó Guð! Þú ert sá Guð sem varst fyrir upphafið, sá sem 
 
 -- Báb
 
-bpn1758 
+bpn1758 «[Íslenska](../is/prayers/#bpn1758)» 
 
 ----
 
@@ -2263,7 +2263,7 @@ bpn1758
 
 -- Báb
 
-bpn6847 
+bpn6847 «[Íslenska](../is/prayers/#bpn6847)» 
 
 ----
 
@@ -2273,7 +2273,7 @@ bpn6847
 
 -- Báb
 
-bpn1759 
+bpn1759 «[Íslenska](../is/prayers/#bpn1759)» 
 
 ----
 
@@ -2283,7 +2283,7 @@ bpn1759
 
 -- Abdu'l-Bahá
 
-bpn1760 
+bpn1760 «[Íslenska](../is/prayers/#bpn1760)» 
 
 ----
 
@@ -2293,7 +2293,7 @@ bpn1760
 
 -- Abdu'l-Bahá
 
-bpn1761 
+bpn1761 «[Íslenska](../is/prayers/#bpn1761)» 
 
 ----
 
@@ -2307,7 +2307,7 @@ bpn1761
 
 -- Bahá'u'lláh
 
-bpn1764 
+bpn1764 «[Íslenska](../is/prayers/#bpn1764)» 
 
 ----
 
@@ -2317,7 +2317,7 @@ bpn1764
 
 -- Abdu'l-Bahá
 
-bpn1765 
+bpn1765 «[Íslenska](../is/prayers/#bpn1765)» 
 
 ----
 

@@ -85,7 +85,6 @@ tags = ['lang=ru', 'prayerbook']
 
 [Человечество](#%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE)
 
-[Человечество](#%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE)
 
 
 <a id="%D0%92%D0%B5%D1%80%D1%8B+%D0%B8%D0%B7+%D1%81%D0%BA%D1%80%D0%B8%D0%B6%D0%B0%D0%BB%D0%B5%D0%B9+%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D1%80%D0%B5%D0%B4%D0%BD%D0%B0%D1%87%D0%B5%D1%80%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"></a> 
@@ -96,7 +95,7 @@ tags = ['lang=ru', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn2470 
+bpn2470 «[Русский](../ru/prayers/#bpn2470)» 
 
 ----
 
@@ -106,7 +105,7 @@ bpn2470
 
 -- Abdu'l-Bahá
 
-bpn2471 
+bpn2471 «[Русский](../ru/prayers/#bpn2471)» 
 
 ----
 
@@ -116,7 +115,7 @@ bpn2471
 
 -- Abdu'l-Bahá
 
-bpn2472 
+bpn2472 «[Русский](../ru/prayers/#bpn2472)» 
 
 ----
 
@@ -126,7 +125,7 @@ bpn2472
 
 -- Abdu'l-Bahá
 
-bpn2473 
+bpn2473 «[Русский](../ru/prayers/#bpn2473)» 
 
 ----
 
@@ -136,7 +135,7 @@ bpn2473
 
 -- Abdu'l-Bahá
 
-bpn2474 
+bpn2474 «[Русский](../ru/prayers/#bpn2474)» 
 
 ----
 
@@ -146,7 +145,7 @@ bpn2474
 
 -- Abdu'l-Bahá
 
-bpn2475 
+bpn2475 «[Русский](../ru/prayers/#bpn2475)» 
 
 ----
 
@@ -160,7 +159,7 @@ bpn2475
 
 -- Bahá'u'lláh
 
-bpn2476 
+bpn2476 «[Русский](../ru/prayers/#bpn2476)» 
 
 ----
 
@@ -170,7 +169,7 @@ bpn2476
 
 -- Bahá'u'lláh
 
-bpn2477 
+bpn2477 «[Русский](../ru/prayers/#bpn2477)» 
 
 ----
 
@@ -180,7 +179,7 @@ bpn2477
 
 -- Abdu'l-Bahá
 
-bpn2478 
+bpn2478 «[Русский](../ru/prayers/#bpn2478)» 
 
 ----
 
@@ -194,7 +193,7 @@ bpn2478
 
 -- Bahá'u'lláh
 
-bpn2466 
+bpn2466 «[Русский](../ru/prayers/#bpn2466)» 
 
 ----
 
@@ -208,7 +207,7 @@ bpn2466
 
 -- Bahá'u'lláh
 
-bpn2479 
+bpn2479 «[Русский](../ru/prayers/#bpn2479)» 
 
 ----
 
@@ -222,7 +221,7 @@ bpn2479
 
 -- Abdu'l-Bahá
 
-bpn2480 
+bpn2480 «[Русский](../ru/prayers/#bpn2480)» 
 
 ----
 
@@ -232,7 +231,7 @@ bpn2480
 
 -- Abdu'l-Bahá
 
-bpn2481 
+bpn2481 «[Русский](../ru/prayers/#bpn2481)» 
 
 ----
 
@@ -242,7 +241,7 @@ bpn2481
 
 -- Abdu'l-Bahá
 
-bpn2482 
+bpn2482 «[Русский](../ru/prayers/#bpn2482)» 
 
 ----
 
@@ -252,7 +251,7 @@ bpn2482
 
 -- Abdu'l-Bahá
 
-bpn2483 
+bpn2483 «[Русский](../ru/prayers/#bpn2483)» 
 
 ----
 
@@ -262,7 +261,7 @@ bpn2483
 
 -- Abdu'l-Bahá
 
-bpn2484 
+bpn2484 «[Русский](../ru/prayers/#bpn2484)» 
 
 ----
 
@@ -272,7 +271,7 @@ bpn2484
 
 -- Abdu'l-Bahá
 
-bpn2485 
+bpn2485 «[Русский](../ru/prayers/#bpn2485)» 
 
 ----
 
@@ -286,7 +285,7 @@ bpn2485
 
 -- Bahá'u'lláh
 
-bpn2486 
+bpn2486 «[Русский](../ru/prayers/#bpn2486)» 
 
 ----
 
@@ -296,7 +295,7 @@ bpn2486
 
 -- Bahá'u'lláh
 
-bpn2487 
+bpn2487 «[Русский](../ru/prayers/#bpn2487)» 
 
 ----
 
@@ -306,7 +305,7 @@ bpn2487
 
 -- Bahá'u'lláh
 
-bpn2488 
+bpn2488 «[Русский](../ru/prayers/#bpn2488)» 
 
 ----
 
@@ -316,7 +315,7 @@ bpn2488
 
 -- Bahá'u'lláh
 
-bpn2489 
+bpn2489 «[Русский](../ru/prayers/#bpn2489)» 
 
 ----
 
@@ -326,7 +325,7 @@ bpn2489
 
 -- Bahá'u'lláh
 
-bpn2490 
+bpn2490 «[Русский](../ru/prayers/#bpn2490)» 
 
 ----
 
@@ -336,7 +335,7 @@ bpn2490
 
 -- Bahá'u'lláh
 
-bpn2491 
+bpn2491 «[Русский](../ru/prayers/#bpn2491)» 
 
 ----
 
@@ -346,7 +345,7 @@ bpn2491
 
 -- Bahá'u'lláh
 
-bpn2492 
+bpn2492 «[Русский](../ru/prayers/#bpn2492)» 
 
 ----
 
@@ -356,7 +355,7 @@ bpn2492
 
 -- Báb
 
-bpn2493 
+bpn2493 «[Русский](../ru/prayers/#bpn2493)» 
 
 ----
 
@@ -366,7 +365,7 @@ bpn2493
 
 -- Abdu'l-Bahá
 
-bpn2495 
+bpn2495 «[Русский](../ru/prayers/#bpn2495)» 
 
 ----
 
@@ -376,7 +375,7 @@ bpn2495
 
 -- Abdu'l-Bahá
 
-bpn2496 
+bpn2496 «[Русский](../ru/prayers/#bpn2496)» 
 
 ----
 
@@ -386,7 +385,7 @@ bpn2496
 
 -- Abdu'l-Bahá
 
-bpn2497 
+bpn2497 «[Русский](../ru/prayers/#bpn2497)» 
 
 ----
 
@@ -396,7 +395,7 @@ bpn2497
 
 -- Abdu'l-Bahá
 
-bpn2494 
+bpn2494 «[Русский](../ru/prayers/#bpn2494)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn2494
 
 -- Abdu'l-Bahá
 
-bpn2498 
+bpn2498 «[Русский](../ru/prayers/#bpn2498)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn2498
 
 -- Abdu'l-Bahá
 
-bpn2499 
+bpn2499 «[Русский](../ru/prayers/#bpn2499)» 
 
 ----
 
@@ -434,7 +433,7 @@ bpn2499
 
 -- Bahá'u'lláh
 
-bpn2500 
+bpn2500 «[Русский](../ru/prayers/#bpn2500)» 
 
 ----
 
@@ -444,7 +443,7 @@ bpn2500
 
 -- Bahá'u'lláh
 
-bpn2501 
+bpn2501 «[Русский](../ru/prayers/#bpn2501)» 
 
 ----
 
@@ -454,7 +453,7 @@ bpn2501
 
 -- Abdu'l-Bahá
 
-bpn2502 
+bpn2502 «[Русский](../ru/prayers/#bpn2502)» 
 
 ----
 
@@ -464,7 +463,7 @@ bpn2502
 
 -- Abdu'l-Bahá
 
-bpn2503 
+bpn2503 «[Русский](../ru/prayers/#bpn2503)» 
 
 ----
 
@@ -478,7 +477,7 @@ bpn2503
 
 -- Abdu'l-Bahá
 
-bpn2568 
+bpn2568 «[Русский](../ru/prayers/#bpn2568)» 
 
 ----
 
@@ -492,7 +491,7 @@ bpn2568
 
 -- Abdu'l-Bahá
 
-bpn2567 
+bpn2567 «[Русский](../ru/prayers/#bpn2567)» 
 
 ----
 
@@ -506,7 +505,7 @@ bpn2567
 
 -- Abdu'l-Bahá
 
-bpn2566 
+bpn2566 «[Русский](../ru/prayers/#bpn2566)» 
 
 ----
 
@@ -520,7 +519,7 @@ bpn2566
 
 -- Bahá'u'lláh
 
-bpn2504 
+bpn2504 «[Русский](../ru/prayers/#bpn2504)» 
 
 ----
 
@@ -530,7 +529,7 @@ bpn2504
 
 -- Bahá'u'lláh
 
-bpn2505 
+bpn2505 «[Русский](../ru/prayers/#bpn2505)» 
 
 ----
 
@@ -540,7 +539,7 @@ bpn2505
 
 -- Báb
 
-bpn2506 
+bpn2506 «[Русский](../ru/prayers/#bpn2506)» 
 
 ----
 
@@ -550,7 +549,7 @@ bpn2506
 
 -- Báb
 
-bpn2507 
+bpn2507 «[Русский](../ru/prayers/#bpn2507)» 
 
 ----
 
@@ -560,7 +559,7 @@ bpn2507
 
 -- Báb
 
-bpn2508 
+bpn2508 «[Русский](../ru/prayers/#bpn2508)» 
 
 ----
 
@@ -570,7 +569,7 @@ bpn2508
 
 -- Abdu'l-Bahá
 
-bpn2509 
+bpn2509 «[Русский](../ru/prayers/#bpn2509)» 
 
 ----
 
@@ -580,7 +579,7 @@ bpn2509
 
 -- Abdu'l-Bahá
 
-bpn2510 
+bpn2510 «[Русский](../ru/prayers/#bpn2510)» 
 
 ----
 
@@ -594,7 +593,7 @@ bpn2510
 
 -- Bahá'u'lláh
 
-bpn2511 
+bpn2511 «[Русский](../ru/prayers/#bpn2511)» 
 
 ----
 
@@ -604,7 +603,7 @@ bpn2511
 
 -- Bahá'u'lláh
 
-bpn2513 
+bpn2513 «[Русский](../ru/prayers/#bpn2513)» 
 
 ----
 
@@ -614,7 +613,7 @@ bpn2513
 
 -- Bahá'u'lláh
 
-bpn2553 
+bpn2553 «[Русский](../ru/prayers/#bpn2553)» 
 
 ----
 
@@ -624,7 +623,7 @@ bpn2553
 
 -- Bahá'u'lláh
 
-bpn2554 
+bpn2554 «[Русский](../ru/prayers/#bpn2554)» 
 
 ----
 
@@ -634,7 +633,7 @@ bpn2554
 
 -- Bahá'u'lláh
 
-bpn2555 
+bpn2555 «[Русский](../ru/prayers/#bpn2555)» 
 
 ----
 
@@ -644,7 +643,7 @@ bpn2555
 
 -- Bahá'u'lláh
 
-bpn2556 
+bpn2556 «[Русский](../ru/prayers/#bpn2556)» 
 
 ----
 
@@ -654,7 +653,7 @@ bpn2556
 
 -- Bahá'u'lláh
 
-bpn2557 
+bpn2557 «[Русский](../ru/prayers/#bpn2557)» 
 
 ----
 
@@ -664,7 +663,7 @@ bpn2557
 
 -- Bahá'u'lláh
 
-bpn2558 
+bpn2558 «[Русский](../ru/prayers/#bpn2558)» 
 
 ----
 
@@ -674,7 +673,7 @@ bpn2558
 
 -- Bahá'u'lláh
 
-bpn2512 
+bpn2512 «[Русский](../ru/prayers/#bpn2512)» 
 
 ----
 
@@ -688,7 +687,7 @@ bpn2512
 
 -- Bahá'u'lláh
 
-bpn2514 
+bpn2514 «[Русский](../ru/prayers/#bpn2514)» 
 
 ----
 
@@ -702,7 +701,7 @@ bpn2514
 
 -- Bahá'u'lláh
 
-bpn2456 
+bpn2456 «[Русский](../ru/prayers/#bpn2456)» 
 
 ----
 
@@ -716,7 +715,7 @@ bpn2456
 
 -- Bahá'u'lláh
 
-bpn2463 
+bpn2463 «[Русский](../ru/prayers/#bpn2463)» 
 
 ----
 
@@ -730,7 +729,7 @@ bpn2463
 
 -- Bahá'u'lláh
 
-bpn2515 
+bpn2515 «[Русский](../ru/prayers/#bpn2515)» 
 
 ----
 
@@ -740,7 +739,7 @@ bpn2515
 
 -- Bahá'u'lláh
 
-bpn2516 
+bpn2516 «[Русский](../ru/prayers/#bpn2516)» 
 
 ----
 
@@ -750,7 +749,7 @@ bpn2516
 
 -- Bahá'u'lláh
 
-bpn2517 
+bpn2517 «[Русский](../ru/prayers/#bpn2517)» 
 
 ----
 
@@ -760,7 +759,7 @@ bpn2517
 
 -- Báb
 
-bpn2518 
+bpn2518 «[Русский](../ru/prayers/#bpn2518)» 
 
 ----
 
@@ -770,7 +769,7 @@ bpn2518
 
 -- Báb
 
-bpn2519 
+bpn2519 «[Русский](../ru/prayers/#bpn2519)» 
 
 ----
 
@@ -780,7 +779,7 @@ bpn2519
 
 -- Báb
 
-bpn2520 
+bpn2520 «[Русский](../ru/prayers/#bpn2520)» 
 
 ----
 
@@ -790,7 +789,7 @@ bpn2520
 
 -- Báb
 
-bpn2521 
+bpn2521 «[Русский](../ru/prayers/#bpn2521)» 
 
 ----
 
@@ -800,7 +799,7 @@ bpn2521
 
 -- Báb
 
-bpn2522 
+bpn2522 «[Русский](../ru/prayers/#bpn2522)» 
 
 ----
 
@@ -814,7 +813,7 @@ bpn2522
 
 -- Bahá'u'lláh
 
-bpn2583 
+bpn2583 «[Русский](../ru/prayers/#bpn2583)» 
 
 ----
 
@@ -824,7 +823,7 @@ bpn2583
 
 -- Bahá'u'lláh
 
-bpn2584 
+bpn2584 «[Русский](../ru/prayers/#bpn2584)» 
 
 ----
 
@@ -834,7 +833,7 @@ bpn2584
 
 -- Bahá'u'lláh
 
-bpn2585 
+bpn2585 «[Русский](../ru/prayers/#bpn2585)» 
 
 ----
 
@@ -844,7 +843,7 @@ bpn2585
 
 -- Abdu'l-Bahá
 
-bpn2586 
+bpn2586 «[Русский](../ru/prayers/#bpn2586)» 
 
 ----
 
@@ -854,7 +853,7 @@ bpn2586
 
 -- Abdu'l-Bahá
 
-bpn2587 
+bpn2587 «[Русский](../ru/prayers/#bpn2587)» 
 
 ----
 
@@ -864,7 +863,7 @@ bpn2587
 
 -- Abdu'l-Bahá
 
-bpn2588 
+bpn2588 «[Русский](../ru/prayers/#bpn2588)» 
 
 ----
 
@@ -878,7 +877,7 @@ bpn2588
 
 -- Bahá'u'lláh
 
-bpn2459 
+bpn2459 «[Русский](../ru/prayers/#bpn2459)» 
 
 ----
 
@@ -892,7 +891,7 @@ bpn2459
 
 -- Bahá'u'lláh
 
-bpn2523 
+bpn2523 «[Русский](../ru/prayers/#bpn2523)» 
 
 ----
 
@@ -902,7 +901,7 @@ bpn2523
 
 -- Bahá'u'lláh
 
-bpn2524 
+bpn2524 «[Русский](../ru/prayers/#bpn2524)» 
 
 ----
 
@@ -912,7 +911,7 @@ bpn2524
 
 -- Bahá'u'lláh
 
-bpn2525 
+bpn2525 «[Русский](../ru/prayers/#bpn2525)» 
 
 ----
 
@@ -922,7 +921,7 @@ bpn2525
 
 -- Bahá'u'lláh
 
-bpn2526 
+bpn2526 «[Русский](../ru/prayers/#bpn2526)» 
 
 ----
 
@@ -932,7 +931,7 @@ bpn2526
 
 -- Báb
 
-bpn2527 
+bpn2527 «[Русский](../ru/prayers/#bpn2527)» 
 
 ----
 
@@ -942,7 +941,7 @@ bpn2527
 
 -- Báb
 
-bpn2528 
+bpn2528 «[Русский](../ru/prayers/#bpn2528)» 
 
 ----
 
@@ -952,7 +951,7 @@ bpn2528
 
 -- Báb
 
-bpn2529 
+bpn2529 «[Русский](../ru/prayers/#bpn2529)» 
 
 ----
 
@@ -962,7 +961,7 @@ bpn2529
 
 -- Abdu'l-Bahá
 
-bpn2530 
+bpn2530 «[Русский](../ru/prayers/#bpn2530)» 
 
 ----
 
@@ -972,7 +971,7 @@ bpn2530
 
 -- Abdu'l-Bahá
 
-bpn2531 
+bpn2531 «[Русский](../ru/prayers/#bpn2531)» 
 
 ----
 
@@ -986,7 +985,7 @@ bpn2531
 
 -- Bahá'u'lláh
 
-bpn2532 
+bpn2532 «[Русский](../ru/prayers/#bpn2532)» 
 
 ----
 
@@ -996,7 +995,7 @@ bpn2532
 
 -- Bahá'u'lláh
 
-bpn2533 
+bpn2533 «[Русский](../ru/prayers/#bpn2533)» 
 
 ----
 
@@ -1006,7 +1005,7 @@ bpn2533
 
 -- Bahá'u'lláh
 
-bpn2534 
+bpn2534 «[Русский](../ru/prayers/#bpn2534)» 
 
 ----
 
@@ -1016,7 +1015,7 @@ bpn2534
 
 -- Báb
 
-bpn2536 
+bpn2536 «[Русский](../ru/prayers/#bpn2536)» 
 
 ----
 
@@ -1026,7 +1025,7 @@ bpn2536
 
 -- Báb
 
-bpn2537 
+bpn2537 «[Русский](../ru/prayers/#bpn2537)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ bpn2537
 
 -- Báb
 
-bpn2538 
+bpn2538 «[Русский](../ru/prayers/#bpn2538)» 
 
 ----
 
@@ -1046,7 +1045,7 @@ bpn2538
 
 -- Báb
 
-bpn2539 
+bpn2539 «[Русский](../ru/prayers/#bpn2539)» 
 
 ----
 
@@ -1056,7 +1055,7 @@ bpn2539
 
 -- Báb
 
-bpn2535 
+bpn2535 «[Русский](../ru/prayers/#bpn2535)» 
 
 ----
 
@@ -1066,7 +1065,7 @@ bpn2535
 
 -- Abdu'l-Bahá
 
-bpn2540 
+bpn2540 «[Русский](../ru/prayers/#bpn2540)» 
 
 ----
 
@@ -1076,7 +1075,7 @@ bpn2540
 
 -- Abdu'l-Bahá
 
-bpn2541 
+bpn2541 «[Русский](../ru/prayers/#bpn2541)» 
 
 ----
 
@@ -1090,7 +1089,7 @@ bpn2541
 
 -- Bahá'u'lláh
 
-bpn2542 
+bpn2542 «[Русский](../ru/prayers/#bpn2542)» 
 
 ----
 
@@ -1100,7 +1099,7 @@ bpn2542
 
 -- Bahá'u'lláh
 
-bpn2543 
+bpn2543 «[Русский](../ru/prayers/#bpn2543)» 
 
 ----
 
@@ -1110,7 +1109,7 @@ bpn2543
 
 -- Bahá'u'lláh
 
-bpn2544 
+bpn2544 «[Русский](../ru/prayers/#bpn2544)» 
 
 ----
 
@@ -1120,7 +1119,7 @@ bpn2544
 
 -- Báb
 
-bpn2545 
+bpn2545 «[Русский](../ru/prayers/#bpn2545)» 
 
 ----
 
@@ -1130,7 +1129,7 @@ bpn2545
 
 -- Abdu'l-Bahá
 
-bpn2546 
+bpn2546 «[Русский](../ru/prayers/#bpn2546)» 
 
 ----
 
@@ -1140,7 +1139,7 @@ bpn2546
 
 -- Abdu'l-Bahá
 
-bpn2547 
+bpn2547 «[Русский](../ru/prayers/#bpn2547)» 
 
 ----
 
@@ -1150,7 +1149,7 @@ bpn2547
 
 -- Abdu'l-Bahá
 
-bpn2548 
+bpn2548 «[Русский](../ru/prayers/#bpn2548)» 
 
 ----
 
@@ -1160,7 +1159,7 @@ bpn2548
 
 -- Abdu'l-Bahá
 
-bpn2549 
+bpn2549 «[Русский](../ru/prayers/#bpn2549)» 
 
 ----
 
@@ -1170,7 +1169,7 @@ bpn2549
 
 -- Abdu'l-Bahá
 
-bpn2550 
+bpn2550 «[Русский](../ru/prayers/#bpn2550)» 
 
 ----
 
@@ -1180,7 +1179,7 @@ bpn2550
 
 -- Abdu'l-Bahá
 
-bpn2551 
+bpn2551 «[Русский](../ru/prayers/#bpn2551)» 
 
 ----
 
@@ -1190,7 +1189,7 @@ bpn2551
 
 -- Abdu'l-Bahá
 
-bpn2552 
+bpn2552 «[Русский](../ru/prayers/#bpn2552)» 
 
 ----
 
@@ -1204,7 +1203,7 @@ bpn2552
 
 -- Bahá'u'lláh
 
-bpn2462 
+bpn2462 «[Русский](../ru/prayers/#bpn2462)» 
 
 ----
 
@@ -1218,7 +1217,7 @@ bpn2462
 
 -- Bahá'u'lláh
 
-bpn2464 
+bpn2464 «[Русский](../ru/prayers/#bpn2464)» 
 
 ----
 
@@ -1228,7 +1227,7 @@ bpn2464
 
 -- Bahá'u'lláh
 
-bpn2465 
+bpn2465 «[Русский](../ru/prayers/#bpn2465)» 
 
 ----
 
@@ -1238,7 +1237,7 @@ bpn2465
 
 -- Abdu'l-Bahá
 
-bpn2469 
+bpn2469 «[Русский](../ru/prayers/#bpn2469)» 
 
 ----
 
@@ -1252,7 +1251,7 @@ bpn2469
 
 -- Bahá'u'lláh
 
-bpn2458 
+bpn2458 «[Русский](../ru/prayers/#bpn2458)» 
 
 ----
 
@@ -1266,7 +1265,7 @@ bpn2458
 
 -- Báb
 
-bpn2559 
+bpn2559 «[Русский](../ru/prayers/#bpn2559)» 
 
 ----
 
@@ -1276,7 +1275,7 @@ bpn2559
 
 -- Báb
 
-bpn2560 
+bpn2560 «[Русский](../ru/prayers/#bpn2560)» 
 
 ----
 
@@ -1286,7 +1285,7 @@ bpn2560
 
 -- Báb
 
-bpn2561 
+bpn2561 «[Русский](../ru/prayers/#bpn2561)» 
 
 ----
 
@@ -1296,7 +1295,7 @@ bpn2561
 
 -- Abdu'l-Bahá
 
-bpn2562 
+bpn2562 «[Русский](../ru/prayers/#bpn2562)» 
 
 ----
 
@@ -1310,7 +1309,7 @@ bpn2562
 
 -- Abdu'l-Bahá
 
-bpn2563 
+bpn2563 «[Русский](../ru/prayers/#bpn2563)» 
 
 ----
 
@@ -1320,7 +1319,7 @@ bpn2563
 
 -- Abdu'l-Bahá
 
-bpn2564 
+bpn2564 «[Русский](../ru/prayers/#bpn2564)» 
 
 ----
 
@@ -1334,7 +1333,7 @@ bpn2564
 
 -- Báb
 
-bpn2565 
+bpn2565 «[Русский](../ru/prayers/#bpn2565)» 
 
 ----
 
@@ -1348,7 +1347,7 @@ bpn2565
 
 -- Bahá'u'lláh
 
-bpn2460 
+bpn2460 «[Русский](../ru/prayers/#bpn2460)» 
 
 ----
 
@@ -1358,7 +1357,7 @@ bpn2460
 
 -- Abdu'l-Bahá
 
-bpn2461 
+bpn2461 «[Русский](../ru/prayers/#bpn2461)» 
 
 ----
 
@@ -1372,7 +1371,7 @@ bpn2461
 
 -- Bahá'u'lláh
 
-bpn2570 
+bpn2570 «[Русский](../ru/prayers/#bpn2570)» 
 
 ----
 
@@ -1382,7 +1381,7 @@ bpn2570
 
 -- Abdu'l-Bahá
 
-bpn2569 
+bpn2569 «[Русский](../ru/prayers/#bpn2569)» 
 
 ----
 
@@ -1392,7 +1391,7 @@ bpn2569
 
 -- Abdu'l-Bahá
 
-bpn2571 
+bpn2571 «[Русский](../ru/prayers/#bpn2571)» 
 
 ----
 
@@ -1402,7 +1401,7 @@ bpn2571
 
 -- Abdu'l-Bahá
 
-bpn2572 
+bpn2572 «[Русский](../ru/prayers/#bpn2572)» 
 
 ----
 
@@ -1412,7 +1411,7 @@ bpn2572
 
 -- Abdu'l-Bahá
 
-bpn2573 
+bpn2573 «[Русский](../ru/prayers/#bpn2573)» 
 
 ----
 
@@ -1426,7 +1425,7 @@ bpn2573
 
 -- Bahá'u'lláh
 
-bpn2467 
+bpn2467 «[Русский](../ru/prayers/#bpn2467)» 
 
 ----
 
@@ -1440,7 +1439,7 @@ bpn2467
 
 -- Bahá'u'lláh
 
-bpn2457 
+bpn2457 «[Русский](../ru/prayers/#bpn2457)» 
 
 ----
 
@@ -1454,7 +1453,7 @@ bpn2457
 
 -- Bahá'u'lláh
 
-bpn2574 
+bpn2574 «[Русский](../ru/prayers/#bpn2574)» 
 
 ----
 
@@ -1464,7 +1463,7 @@ bpn2574
 
 -- Abdu'l-Bahá
 
-bpn2575 
+bpn2575 «[Русский](../ru/prayers/#bpn2575)» 
 
 ----
 
@@ -1474,7 +1473,7 @@ bpn2575
 
 -- Abdu'l-Bahá
 
-bpn2576 
+bpn2576 «[Русский](../ru/prayers/#bpn2576)» 
 
 ----
 
@@ -1484,7 +1483,7 @@ bpn2576
 
 -- Abdu'l-Bahá
 
-bpn2577 
+bpn2577 «[Русский](../ru/prayers/#bpn2577)» 
 
 ----
 
@@ -1498,7 +1497,7 @@ bpn2577
 
 -- Bahá'u'lláh
 
-bpn2578 
+bpn2578 «[Русский](../ru/prayers/#bpn2578)» 
 
 ----
 
@@ -1508,7 +1507,7 @@ bpn2578
 
 -- Báb
 
-bpn2579 
+bpn2579 «[Русский](../ru/prayers/#bpn2579)» 
 
 ----
 
@@ -1522,7 +1521,7 @@ bpn2579
 
 -- Bahá'u'lláh
 
-bpn2580 
+bpn2580 «[Русский](../ru/prayers/#bpn2580)» 
 
 ----
 
@@ -1532,7 +1531,7 @@ bpn2580
 
 -- Bahá'u'lláh
 
-bpn2581 
+bpn2581 «[Русский](../ru/prayers/#bpn2581)» 
 
 ----
 
@@ -1542,7 +1541,7 @@ bpn2581
 
 -- Báb
 
-bpn2582 
+bpn2582 «[Русский](../ru/prayers/#bpn2582)» 
 
 ----
 
@@ -1556,7 +1555,7 @@ bpn2582
 
 -- Bahá'u'lláh
 
-bpn2589 
+bpn2589 «[Русский](../ru/prayers/#bpn2589)» 
 
 ----
 
@@ -1566,7 +1565,7 @@ bpn2589
 
 -- Bahá'u'lláh
 
-bpn2590 
+bpn2590 «[Русский](../ru/prayers/#bpn2590)» 
 
 ----
 
@@ -1580,7 +1579,7 @@ bpn2590
 
 -- Abdu'l-Bahá
 
-bpn2468 
+bpn2468 «[Русский](../ru/prayers/#bpn2468)» 
 
 ----
 
@@ -1594,7 +1593,7 @@ bpn2468
 
 -- Bahá'u'lláh
 
-bpn2591 
+bpn2591 «[Русский](../ru/prayers/#bpn2591)» 
 
 ----
 
@@ -1604,7 +1603,7 @@ bpn2591
 
 -- Bahá'u'lláh
 
-bpn2592 
+bpn2592 «[Русский](../ru/prayers/#bpn2592)» 
 
 ----
 
@@ -1614,7 +1613,7 @@ bpn2592
 
 -- Báb
 
-bpn2593 
+bpn2593 «[Русский](../ru/prayers/#bpn2593)» 
 
 ----
 
@@ -1624,7 +1623,7 @@ bpn2593
 
 -- Báb
 
-bpn2594 
+bpn2594 «[Русский](../ru/prayers/#bpn2594)» 
 
 ----
 
@@ -1638,7 +1637,7 @@ bpn2594
 
 -- Bahá'u'lláh
 
-bpn2595 
+bpn2595 «[Русский](../ru/prayers/#bpn2595)» 
 
 ----
 
@@ -1652,7 +1651,7 @@ bpn2595
 
 -- Bahá'u'lláh
 
-bpn2596 
+bpn2596 «[Русский](../ru/prayers/#bpn2596)» 
 
 ----
 
@@ -1662,7 +1661,7 @@ bpn2596
 
 -- Bahá'u'lláh
 
-bpn2597 
+bpn2597 «[Русский](../ru/prayers/#bpn2597)» 
 
 ----
 
@@ -1672,7 +1671,7 @@ bpn2597
 
 -- Báb
 
-bpn2600 
+bpn2600 «[Русский](../ru/prayers/#bpn2600)» 
 
 ----
 
@@ -1682,7 +1681,7 @@ bpn2600
 
 -- Abdu'l-Bahá
 
-bpn2598 
+bpn2598 «[Русский](../ru/prayers/#bpn2598)» 
 
 ----
 
@@ -1692,7 +1691,7 @@ bpn2598
 
 -- Abdu'l-Bahá
 
-bpn2599 
+bpn2599 «[Русский](../ru/prayers/#bpn2599)» 
 
 ----
 

@@ -75,7 +75,7 @@ Ayi Katonda, Katonda wange!  Omuzaana Wo ono akukowoola nga akwesiga, nga akyusi
 
 -- Abdu'l-Bahá
 
-bpn6252 
+bpn6252 «[Luganda](../lg/prayers/#bpn6252)» 
 
 ----
 
@@ -89,7 +89,7 @@ Mukama wange!  Mukama wange!  Nkutendereza era nkwebaza kubanga okwatiddwa omuza
 
 -- Abdu'l-Bahá
 
-bpn6238 
+bpn6238 «[Luganda](../lg/prayers/#bpn6238)» 
 
 ----
 
@@ -103,7 +103,7 @@ Ayi Ggwe Mukama ow&#39;ekisa!  Ggwe watonda abantu bonna nga bava mu bazzadde be
 
 -- Abdu'l-Bahá
 
-bpn6255 
+bpn6255 «[Luganda](../lg/prayers/#bpn6255)» 
 
 ----
 
@@ -113,7 +113,7 @@ Ayi Katonda! Tuli banafu, otuzeemu endasi.  Tulu bankuseere, otuwe omugabo Gwo o
 
 -- Abdu'l-Bahá
 
-bpn6256 
+bpn6256 «[Luganda](../lg/prayers/#bpn6256)» 
 
 ----
 
@@ -127,7 +127,7 @@ Ayi Mukama!  Fuula omuvubuka ono omusanyufu, era osse emikisa Gyo ku kitonde kin
 
 -- Abdu'l-Bahá
 
-bpn6232 
+bpn6232 «[Luganda](../lg/prayers/#bpn6232)» 
 
 ----
 
@@ -141,7 +141,7 @@ bpn6232
 
 -- Bahá'u'lláh
 
-bpn6266 
+bpn6266 «[Luganda](../lg/prayers/#bpn6266)» 
 
 ----
 
@@ -151,7 +151,7 @@ Ayi Mukama!  Mu mutembe guno ogusingira ddala, gyonna , Okirizza abaana okw&#39;
 
 -- Abdu'l-Bahá
 
-bpn6267 
+bpn6267 «[Luganda](../lg/prayers/#bpn6267)» 
 
 ----
 
@@ -165,7 +165,7 @@ Malawo obuyinike bwange kulw&#39;ekisa Kyo n&#39;obugabi Bwo, Ayi Katonda wange,
 
 -- Bahá'u'lláh
 
-bpn6287 
+bpn6287 «[Luganda](../lg/prayers/#bpn6287)» 
 
 ----
 
@@ -175,7 +175,7 @@ Nkwegayirira kulwa&#39;amaanyi Go, Ayi Katonda wange, tokiriza mitawaana kunnumb
 
 -- Báb
 
-bpn6288 
+bpn6288 «[Luganda](../lg/prayers/#bpn6288)» 
 
 ----
 
@@ -185,7 +185,7 @@ Ayi Mukama, Ggwe ajawo buli nyiike era agoba okulumwa obujiji.  Ggwe ajawo okubo
 
 -- Báb
 
-bpn6289 
+bpn6289 «[Luganda](../lg/prayers/#bpn6289)» 
 
 ----
 
@@ -199,7 +199,7 @@ Ayi Katonda wange, Mukama wange, ekigendererwa kyange era okw&#39;egomba kwange!
 
 -- Bahá'u'lláh
 
-bpn6263 
+bpn6263 «[Luganda](../lg/prayers/#bpn6263)» 
 
 ----
 
@@ -209,7 +209,7 @@ Nyinza ntya okusatawo okw&#39;ebaka, Ayi Katonda wange, nga abo abegomba okubeer
 
 -- Bahá'u'lláh
 
-bpn6264 
+bpn6264 «[Luganda](../lg/prayers/#bpn6264)» 
 
 ----
 
@@ -223,7 +223,7 @@ bpn6264
 
 -- Bahá'u'lláh
 
-bpn6248 
+bpn6248 «[Luganda](../lg/prayers/#bpn6248)» 
 
 ----
 
@@ -237,7 +237,7 @@ Ettendo libe gyoli, Ayi Mukama Katonda wange! Kulw&#39;ekisa kyo, kiriza omuwere
 
 -- Bahá'u'lláh
 
-bpn6224 
+bpn6224 «[Luganda](../lg/prayers/#bpn6224)» 
 
 ----
 
@@ -247,7 +247,7 @@ Ayi Ggwe Mukama asingira ddala ekitiibwa!  Yamba omuzaana wo ono omulo okuba ow&
 
 -- Bahá'u'lláh
 
-bpn6225 
+bpn6225 «[Luganda](../lg/prayers/#bpn6225)» 
 
 ----
 
@@ -257,7 +257,7 @@ Ayi Ggwe Mukama atagerageranyizibwa!  Yamba omwana ono ayonka akulire ku mabeere
 
 -- Abdu'l-Bahá
 
-bpn6226 
+bpn6226 «[Luganda](../lg/prayers/#bpn6226)» 
 
 ----
 
@@ -267,7 +267,7 @@ Ayi Katonda! Omwana ono omuto mulerere mu kwagala kwo era omugabirire amabeere a
 
 -- Abdu'l-Bahá
 
-bpn6227 
+bpn6227 «[Luganda](../lg/prayers/#bpn6227)» 
 
 ----
 
@@ -277,7 +277,7 @@ Ayi Katonda, Onkulembere, Onkuume, Onfuule ettala n&#39;emunyenye eby&#39;akayak
 
 -- Abdu'l-Bahá
 
-bpn6228 
+bpn6228 «[Luganda](../lg/prayers/#bpn6228)» 
 
 ----
 
@@ -287,7 +287,7 @@ Ayi Katonda, yigiriza abaana bano.  Abaana bano bye bisimbe byomulusuku Lwo, ebi
 
 -- Abdu'l-Bahá
 
-bpn6229 
+bpn6229 «[Luganda](../lg/prayers/#bpn6229)» 
 
 ----
 
@@ -297,7 +297,7 @@ Ayi Ggwe Mukama ow&#39;ekisa!  Abaanabano abatungi gye mirimugy&#39;emikono Gyo,
 
 -- Abdu'l-Bahá
 
-bpn6230 
+bpn6230 «[Luganda](../lg/prayers/#bpn6230)» 
 
 ----
 
@@ -307,7 +307,7 @@ Ayi Mukama!  Mukama wange!  Ndi mwana ow&#39;emyaka emitono.  Ongabirire amabeer
 
 -- Abdu'l-Bahá
 
-bpn6231 
+bpn6231 «[Luganda](../lg/prayers/#bpn6231)» 
 
 ----
 
@@ -321,7 +321,7 @@ bpn6231
 
 -- Bahá'u'lláh
 
-bpn6235 
+bpn6235 «[Luganda](../lg/prayers/#bpn6235)» 
 
 ----
 
@@ -331,7 +331,7 @@ Ekitiibwa kibe gyoli, Ayi MukamaKatonda wange!  Tomufeebya oyo gwewa gulumiziza 
 
 -- Bahá'u'lláh
 
-bpn6236 
+bpn6236 «[Luganda](../lg/prayers/#bpn6236)» 
 
 ----
 
@@ -341,7 +341,7 @@ Ayi Katonda wange!  Ayi Ggwe Omusonyiyi w&#39;ebyonoono, Omugabi w&#39;ebirabo, 
 
 -- Abdu'l-Bahá
 
-bpn6237 
+bpn6237 «[Luganda](../lg/prayers/#bpn6237)» 
 
 ----
 
@@ -355,7 +355,7 @@ bpn6237
 
 -- Bahá'u'lláh
 
-bpn6218 
+bpn6218 «[Luganda](../lg/prayers/#bpn6218)» 
 
 ----
 
@@ -369,7 +369,7 @@ bpn6218
 
 -- Bahá'u'lláh
 
-bpn6216 
+bpn6216 «[Luganda](../lg/prayers/#bpn6216)» 
 
 ----
 
@@ -383,7 +383,7 @@ bpn6216
 
 -- Bahá'u'lláh
 
-bpn6217 
+bpn6217 «[Luganda](../lg/prayers/#bpn6217)» 
 
 ----
 
@@ -397,7 +397,7 @@ bpn6217
 
 -- Abdu'l-Bahá
 
-bpn6265 
+bpn6265 «[Luganda](../lg/prayers/#bpn6265)» 
 
 ----
 
@@ -411,7 +411,7 @@ bpn6265
 
 -- Abdu'l-Bahá
 
-bpn6258 
+bpn6258 «[Luganda](../lg/prayers/#bpn6258)» 
 
 ----
 
@@ -421,7 +421,7 @@ Ayi Katonda!  Ddala ddala tukunganidde wano mu kawoowo k&#39;okwagala Kwo.  Tuky
 
 -- Abdu'l-Bahá
 
-bpn6259 
+bpn6259 «[Luganda](../lg/prayers/#bpn6259)» 
 
 ----
 
@@ -431,7 +431,7 @@ Ayi Ggwe omugabirizi Ow&#39;ekisa!  Olukungaana luno lujudde abagalwa Bo abo aba
 
 -- Abdu'l-Bahá
 
-bpn6260 
+bpn6260 «[Luganda](../lg/prayers/#bpn6260)» 
 
 ----
 
@@ -445,7 +445,7 @@ Ayi Katonda wange era Mukama wange!  Ndi muddu Wo era omwana w&#39;omuddu Wo.  N
 
 -- Bahá'u'lláh
 
-bpn6261 
+bpn6261 «[Luganda](../lg/prayers/#bpn6261)» 
 
 ----
 
@@ -455,7 +455,7 @@ Ngolokokedde mu bukuumi Bwo, Ayi Katonda wange, era nga kimugwanidde oyo anonya 
 
 -- Bahá'u'lláh
 
-bpn6262 
+bpn6262 «[Luganda](../lg/prayers/#bpn6262)» 
 
 ----
 
@@ -469,7 +469,7 @@ bpn6262
 
 -- Abdu'l-Bahá
 
-bpn6257 
+bpn6257 «[Luganda](../lg/prayers/#bpn6257)» 
 
 ----
 
@@ -483,7 +483,7 @@ Erinya lyo ligulumizibwe , Ayi Mukama Katonda wange!  Nkusaba kulw&#39;erinya ly
 
 -- Bahá'u'lláh
 
-bpn6270 
+bpn6270 «[Luganda](../lg/prayers/#bpn6270)» 
 
 ----
 
@@ -493,7 +493,7 @@ Ayi Ggwe Omutukuvu atugabira by&#39;etwetaga tujudde okunyolwa otusasire. Tubung
 
 -- Abdu'l-Bahá
 
-bpn6271 
+bpn6271 «[Luganda](../lg/prayers/#bpn6271)» 
 
 ----
 
@@ -503,7 +503,7 @@ Ye ye Katonda, Ayi Mukama, Katonda wange!  Ayi Ggwe omuyambi w&#39;abanafu, omuk
 
 -- Abdu'l-Bahá
 
-bpn6272 
+bpn6272 «[Luganda](../lg/prayers/#bpn6272)» 
 
 ----
 
@@ -513,7 +513,7 @@ Ayi Katonda, Katonda wange!  Kugira abaagalwa bo, okuva ku ndowooza embi, n&#39;
 
 -- Abdu'l-Bahá
 
-bpn6273 
+bpn6273 «[Luganda](../lg/prayers/#bpn6273)» 
 
 ----
 
@@ -523,7 +523,7 @@ Ye Musaasizi, Omugabi wa byonna.  Ayi Katonda, Katonda wange!  Ggwe ondaba Ggwe 
 
 -- Abdu'l-Bahá
 
-bpn6274 
+bpn6274 «[Luganda](../lg/prayers/#bpn6274)» 
 
 ----
 
@@ -537,7 +537,7 @@ Ayi Katonda wange, nkusaba kulw&#39;erinya Lyo erisingira ddala ekitiibwa, onyam
 
 -- Bahá'u'lláh
 
-bpn6219 
+bpn6219 «[Luganda](../lg/prayers/#bpn6219)» 
 
 ----
 
@@ -547,7 +547,7 @@ Waliwo ayinza okujawo ebizibu okujako Katonda?  Yatula nti Katonda atenderezebwe
 
 -- Báb
 
-bpn6220 
+bpn6220 «[Luganda](../lg/prayers/#bpn6220)» 
 
 ----
 
@@ -557,7 +557,7 @@ Yatula nti: Katonda amala mu buli kimu okusinga ebintu byonna, era tewali kintu 
 
 -- Báb
 
-bpn6221 
+bpn6221 «[Luganda](../lg/prayers/#bpn6221)» 
 
 ----
 
@@ -567,7 +567,7 @@ Ayi Mukama, tuli banaku, tuwe omukisa gwo; tuli baavutu bunduguleko omugabo okuv
 
 -- Abdu'l-Bahá
 
-bpn6222 
+bpn6222 «[Luganda](../lg/prayers/#bpn6222)» 
 
 ----
 
@@ -577,7 +577,7 @@ Ayi Mukama Katonda wange!  Yambaabagaalwa Bo okunywerera mu Ddini yo; okutambuli
 
 -- Abdu'l-Bahá
 
-bpn6223 
+bpn6223 «[Luganda](../lg/prayers/#bpn6223)» 
 
 ----
 
@@ -591,7 +591,7 @@ Ayi Katonda, Omwoyo gwange oguzeemu endasi era ogusanyuse.  Tukuza omutima gwang
 
 -- Abdu'l-Bahá
 
-bpn6278 
+bpn6278 «[Luganda](../lg/prayers/#bpn6278)» 
 
 ----
 
@@ -601,7 +601,7 @@ Ayi Mukama! Tuli banafu, tuzzemu amaanYi.  AYi Katonda! Tuli babuya, tuwe okuman
 
 -- Abdu'l-Bahá
 
-bpn6279 
+bpn6279 «[Luganda](../lg/prayers/#bpn6279)» 
 
 ----
 
@@ -611,7 +611,7 @@ Ayi Katonda, Katonda wange!  Ggwe oli ssuubi lyange, era omwagalwa wange, Ekigen
 
 -- Abdu'l-Bahá
 
-bpn6280 
+bpn6280 «[Luganda](../lg/prayers/#bpn6280)» 
 
 ----
 
@@ -621,7 +621,7 @@ Ayi Mukama wange, Omwagalwa wange, Okwegomba kwange!  Beera mukwano gwange mu ki
 
 -- Abdu'l-Bahá
 
-bpn6281 
+bpn6281 «[Luganda](../lg/prayers/#bpn6281)» 
 
 ----
 
@@ -635,7 +635,7 @@ Tusaba Katonda, kulw&#39;ekisa Kye, ayambe abo ababuziddwabuziddwa, basobole oku
 
 -- Bahá'u'lláh
 
-bpn6241 
+bpn6241 «[Luganda](../lg/prayers/#bpn6241)» 
 
 ----
 
@@ -649,7 +649,7 @@ Ebigere byaffe obifuule binyweevu mu kubo lyo Ayi Mukama, era onyweze emitima gy
 
 -- Abdu'l-Bahá
 
-bpn6239 
+bpn6239 «[Luganda](../lg/prayers/#bpn6239)» 
 
 ----
 
@@ -659,7 +659,7 @@ Ayi Mukama wange era essuubilwange!  Yamba abagalwa bo okubaabanywevu mu Ndagaan
 
 -- Abdu'l-Bahá
 
-bpn6240 
+bpn6240 «[Luganda](../lg/prayers/#bpn6240)» 
 
 ----
 
@@ -673,7 +673,7 @@ Erinya Lyo litenderezebwe, Ayi Mukama Katonda wange!  Ggwe Ondabira ddala nga am
 
 -- Bahá'u'lláh
 
-bpn6282 
+bpn6282 «[Luganda](../lg/prayers/#bpn6282)» 
 
 ----
 
@@ -683,7 +683,7 @@ Ayi Katonda, Ayi Katonda!  Eno yennyonyi emenyefu y&#39;ekiwawatiro, era n&#39;o
 
 -- Abdu'l-Bahá
 
-bpn6283 
+bpn6283 «[Luganda](../lg/prayers/#bpn6283)» 
 
 ----
 
@@ -693,7 +693,7 @@ Ayi Katonda, Yamba abaddu Bo okubunyisa ekigambo Kyo.  bawakanye ebitalimu, eby&
 
 -- Abdu'l-Bahá
 
-bpn6284 
+bpn6284 «[Luganda](../lg/prayers/#bpn6284)» 
 
 ----
 
@@ -703,7 +703,7 @@ Ayi Ggwe Katonda atagerageranyizibwa!  Ayi Ggwe Mukama ow&#39;obwakabaka!  Emyoy
 
 -- Abdu'l-Bahá
 
-bpn6285 
+bpn6285 «[Luganda](../lg/prayers/#bpn6285)» 
 
 ----
 
@@ -713,7 +713,7 @@ Ayi Katonda, Katonda wange!  Yamba abaddu Bo abesigwa okuba n&#39;emitima emikak
 
 -- Abdu'l-Bahá
 
-bpn6286 
+bpn6286 «[Luganda](../lg/prayers/#bpn6286)» 
 
 ----
 
@@ -727,7 +727,7 @@ bpn6286
 
 -- Bahá'u'lláh
 
-bpn6242 
+bpn6242 «[Luganda](../lg/prayers/#bpn6242)» 
 
 ----
 
@@ -737,7 +737,7 @@ Ettendo libe gyoli Ayi Mukama!  Otusonyiwe ebibi byaffe.  Otukwatirwe ekisa, era
 
 -- Báb
 
-bpn6243 
+bpn6243 «[Luganda](../lg/prayers/#bpn6243)» 
 
 ----
 
@@ -747,7 +747,7 @@ Ayi Katonda wange, Ayi Mukamawange!  Nkusaba onsonyiwe olw&#39;okunoonya essanyu
 
 -- Báb
 
-bpn6244 
+bpn6244 «[Luganda](../lg/prayers/#bpn6244)» 
 
 ----
 
@@ -757,7 +757,7 @@ Ayi Ggwe Mukama Asonyiwa ebibi! Ggwe ekiddukiro ky&#39;abaddu Bo bonna. Ggwe oma
 
 -- Abdu'l-Bahá
 
-bpn6245 
+bpn6245 «[Luganda](../lg/prayers/#bpn6245)» 
 
 ----
 
@@ -771,7 +771,7 @@ Ngolokose enkya ya leero lwa kisa Kyo, Ayi Katonda wange, era nvuddemumaka gange
 
 -- Bahá'u'lláh
 
-bpn6253 
+bpn6253 «[Luganda](../lg/prayers/#bpn6253)» 
 
 ----
 
@@ -781,7 +781,7 @@ Ayi Katonda, Katonda wange!  Nvudde mumaka gange, nga n&#39;ekwatidde ddala ku w
 
 -- Bahá'u'lláh
 
-bpn6254 
+bpn6254 «[Luganda](../lg/prayers/#bpn6254)» 
 
 ----
 
@@ -795,7 +795,7 @@ Ettendo lyonna, Ayi Katonda wange libe Gyoli, Ggwe ensibuko y&#39;ekitiibwa n&#3
 
 -- Bahá'u'lláh
 
-bpn6268 
+bpn6268 «[Luganda](../lg/prayers/#bpn6268)» 
 
 ----
 
@@ -805,7 +805,7 @@ Ayi Katonda omusaasizi!  Nkwebaza olw&#39;okunzukusa era n&#39;onfuula atageera.
 
 -- Abdu'l-Bahá
 
-bpn6269 
+bpn6269 «[Luganda](../lg/prayers/#bpn6269)» 
 
 ----
 
@@ -819,7 +819,7 @@ Abagalwa ba Katonda bateekwa okuwaayo mu nsawo y&#39;enzikiriza ne bwe kaba kato
 
 -- Abdu'l-Bahá
 
-bpn6246 
+bpn6246 «[Luganda](../lg/prayers/#bpn6246)» 
 
 ----
 
@@ -829,7 +829,7 @@ Ayi Katonda, Katonda wange!  Sanyusa emitima gy&#39;abagalwa Bo era obayambe nga
 
 -- Abdu'l-Bahá
 
-bpn6247 
+bpn6247 «[Luganda](../lg/prayers/#bpn6247)» 
 
 ----
 
@@ -843,7 +843,7 @@ Erinya Lyo kwe kuwona kwange, Ayi Mukama wange, era okukujukira, lye ddagala lya
 
 -- Bahá'u'lláh
 
-bpn6250 
+bpn6250 «[Luganda](../lg/prayers/#bpn6250)» 
 
 ----
 
@@ -853,7 +853,7 @@ Ggwe Oyo, Ayi Katonga wange, nga oyita mu manya Go, abalwadde bawonyezzebwa, era
 
 -- Bahá'u'lláh
 
-bpn6251 
+bpn6251 «[Luganda](../lg/prayers/#bpn6251)» 
 
 ----
 
@@ -863,7 +863,7 @@ Essaala ezabikulwa okusaba okuwonyezebwa zikozesebwa okusaba okuwonya okw&#39;om
 
 -- Abdu'l-Bahá
 
-bpn6249 
+bpn6249 «[Luganda](../lg/prayers/#bpn6249)» 
 
 ----
 
@@ -877,7 +877,7 @@ Ayi Mukama! Gyoli Ggwe, gyenoonyeza obubudamo, era omutima gwange gutunuulira ob
 
 -- Báb
 
-bpn6233 
+bpn6233 «[Luganda](../lg/prayers/#bpn6233)» 
 
 ----
 
@@ -887,7 +887,7 @@ Ayi Katonda wange era Mukama wange!  Negyekubange, era nga mpita mu Ggwe, noonya
 
 -- Báb
 
-bpn6234 
+bpn6234 «[Luganda](../lg/prayers/#bpn6234)» 
 
 ----
 
@@ -901,7 +901,7 @@ bpn6234
 
 -- Abdu'l-Bahá
 
-bpn6275 
+bpn6275 «[Luganda](../lg/prayers/#bpn6275)» 
 
 ----
 
@@ -911,7 +911,7 @@ bpn6275
 
 -- Abdu'l-Bahá
 
-bpn6276 
+bpn6276 «[Luganda](../lg/prayers/#bpn6276)» 
 
 ----
 
@@ -921,7 +921,7 @@ bpn6276
 
 -- Abdu'l-Bahá
 
-bpn6277 
+bpn6277 «[Luganda](../lg/prayers/#bpn6277)» 
 
 ----
 

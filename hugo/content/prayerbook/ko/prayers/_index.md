@@ -83,7 +83,6 @@ tags = ['lang=ko', 'prayerbook']
 
 [확고한 믿음](#%ED%99%95%EA%B3%A0%ED%95%9C+%EB%AF%BF%EC%9D%8C)
 
-[확고한 믿음](#%ED%99%95%EA%B3%A0%ED%95%9C+%EB%AF%BF%EC%9D%8C)
 
 
 <a id="%E3%80%8C%EC%95%84%ED%9D%90%EB%A7%88%EB%93%9C%E3%80%8D%EC%9D%98+%EC%84%9C%ED%95%9C"></a> 
@@ -94,7 +93,7 @@ tags = ['lang=ko', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6659 
+bpn6659 «[한국어](../ko/prayers/#bpn6659)» 
 
 ----
 
@@ -108,7 +107,7 @@ bpn6659
 
 -- Bahá'u'lláh
 
-bpn6485 
+bpn6485 «[한국어](../ko/prayers/#bpn6485)» 
 
 ----
 
@@ -118,7 +117,7 @@ bpn6485
 
 -- Bahá'u'lláh
 
-bpn6486 
+bpn6486 «[한국어](../ko/prayers/#bpn6486)» 
 
 ----
 
@@ -128,7 +127,7 @@ bpn6486
 
 -- Báb
 
-bpn6484 
+bpn6484 «[한국어](../ko/prayers/#bpn6484)» 
 
 ----
 
@@ -138,7 +137,7 @@ bpn6484
 
 -- Báb
 
-bpn6487 
+bpn6487 «[한국어](../ko/prayers/#bpn6487)» 
 
 ----
 
@@ -148,7 +147,7 @@ bpn6487
 
 -- Abdu'l-Bahá
 
-bpn6488 
+bpn6488 «[한국어](../ko/prayers/#bpn6488)» 
 
 ----
 
@@ -158,7 +157,7 @@ bpn6488
 
 -- Abdu'l-Bahá
 
-bpn6489 
+bpn6489 «[한국어](../ko/prayers/#bpn6489)» 
 
 ----
 
@@ -168,7 +167,7 @@ bpn6489
 
 -- Abdu'l-Bahá
 
-bpn6490 
+bpn6490 «[한국어](../ko/prayers/#bpn6490)» 
 
 ----
 
@@ -182,7 +181,7 @@ bpn6490
 
 -- Bahá'u'lláh
 
-bpn6492 
+bpn6492 «[한국어](../ko/prayers/#bpn6492)» 
 
 ----
 
@@ -192,7 +191,7 @@ bpn6492
 
 -- Abdu'l-Bahá
 
-bpn6493 
+bpn6493 «[한국어](../ko/prayers/#bpn6493)» 
 
 ----
 
@@ -202,7 +201,7 @@ bpn6493
 
 -- Abdu'l-Bahá
 
-bpn6494 
+bpn6494 «[한국어](../ko/prayers/#bpn6494)» 
 
 ----
 
@@ -216,7 +215,7 @@ bpn6494
 
 -- Abdu'l-Bahá
 
-bpn6495 
+bpn6495 «[한국어](../ko/prayers/#bpn6495)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn6495
 
 -- Bahá'u'lláh
 
-bpn6491 
+bpn6491 «[한국어](../ko/prayers/#bpn6491)» 
 
 ----
 
@@ -244,7 +243,7 @@ bpn6491
 
 -- Bahá'u'lláh
 
-bpn6652 
+bpn6652 «[한국어](../ko/prayers/#bpn6652)» 
 
 ----
 
@@ -254,7 +253,7 @@ bpn6652
 
 -- Bahá'u'lláh
 
-bpn6653 
+bpn6653 «[한국어](../ko/prayers/#bpn6653)» 
 
 ----
 
@@ -264,7 +263,7 @@ bpn6653
 
 -- Bahá'u'lláh
 
-bpn6654 
+bpn6654 «[한국어](../ko/prayers/#bpn6654)» 
 
 ----
 
@@ -274,7 +273,7 @@ bpn6654
 
 -- Bahá'u'lláh
 
-bpn6655 
+bpn6655 «[한국어](../ko/prayers/#bpn6655)» 
 
 ----
 
@@ -284,7 +283,7 @@ bpn6655
 
 -- Abdu'l-Bahá
 
-bpn6656 
+bpn6656 «[한국어](../ko/prayers/#bpn6656)» 
 
 ----
 
@@ -298,7 +297,7 @@ bpn6656
 
 -- Bahá'u'lláh
 
-bpn6481 
+bpn6481 «[한국어](../ko/prayers/#bpn6481)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn6481
 
 -- Bahá'u'lláh
 
-bpn6496 
+bpn6496 «[한국어](../ko/prayers/#bpn6496)» 
 
 ----
 
@@ -322,7 +321,7 @@ bpn6496
 
 -- Báb
 
-bpn6497 
+bpn6497 «[한국어](../ko/prayers/#bpn6497)» 
 
 ----
 
@@ -332,7 +331,7 @@ bpn6497
 
 -- Báb
 
-bpn6498 
+bpn6498 «[한국어](../ko/prayers/#bpn6498)» 
 
 ----
 
@@ -342,7 +341,7 @@ bpn6498
 
 -- Abdu'l-Bahá
 
-bpn6499 
+bpn6499 «[한국어](../ko/prayers/#bpn6499)» 
 
 ----
 
@@ -356,7 +355,7 @@ bpn6499
 
 -- Bahá'u'lláh
 
-bpn6500 
+bpn6500 «[한국어](../ko/prayers/#bpn6500)» 
 
 ----
 
@@ -370,7 +369,7 @@ bpn6500
 
 -- Bahá'u'lláh
 
-bpn6505 
+bpn6505 «[한국어](../ko/prayers/#bpn6505)» 
 
 ----
 
@@ -380,7 +379,7 @@ bpn6505
 
 -- Bahá'u'lláh
 
-bpn6506 
+bpn6506 «[한국어](../ko/prayers/#bpn6506)» 
 
 ----
 
@@ -390,7 +389,7 @@ bpn6506
 
 -- Bahá'u'lláh
 
-bpn6507 
+bpn6507 «[한국어](../ko/prayers/#bpn6507)» 
 
 ----
 
@@ -400,7 +399,7 @@ bpn6507
 
 -- Bahá'u'lláh
 
-bpn6508 
+bpn6508 «[한국어](../ko/prayers/#bpn6508)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn6508
 
 -- Báb
 
-bpn6509 
+bpn6509 «[한국어](../ko/prayers/#bpn6509)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn6509
 
 -- Báb
 
-bpn6510 
+bpn6510 «[한국어](../ko/prayers/#bpn6510)» 
 
 ----
 
@@ -430,7 +429,7 @@ bpn6510
 
 -- Báb
 
-bpn6511 
+bpn6511 «[한국어](../ko/prayers/#bpn6511)» 
 
 ----
 
@@ -440,7 +439,7 @@ bpn6511
 
 -- Abdu'l-Bahá
 
-bpn6512 
+bpn6512 «[한국어](../ko/prayers/#bpn6512)» 
 
 ----
 
@@ -450,7 +449,7 @@ bpn6512
 
 -- Abdu'l-Bahá
 
-bpn6513 
+bpn6513 «[한국어](../ko/prayers/#bpn6513)» 
 
 ----
 
@@ -464,7 +463,7 @@ bpn6513
 
 -- Bahá'u'lláh
 
-bpn6514 
+bpn6514 «[한국어](../ko/prayers/#bpn6514)» 
 
 ----
 
@@ -492,7 +491,7 @@ bpn6657 «[한국어](../ko/prayers/#bpn6657)»
 
 -- Bahá'u'lláh
 
-bpn6515 
+bpn6515 «[한국어](../ko/prayers/#bpn6515)» 
 
 ----
 
@@ -502,7 +501,7 @@ bpn6515
 
 -- Bahá'u'lláh
 
-bpn6516 
+bpn6516 «[한국어](../ko/prayers/#bpn6516)» 
 
 ----
 
@@ -512,7 +511,7 @@ bpn6516
 
 -- Bahá'u'lláh
 
-bpn6517 
+bpn6517 «[한국어](../ko/prayers/#bpn6517)» 
 
 ----
 
@@ -522,7 +521,7 @@ bpn6517
 
 -- Bahá'u'lláh
 
-bpn6518 
+bpn6518 «[한국어](../ko/prayers/#bpn6518)» 
 
 ----
 
@@ -532,7 +531,7 @@ bpn6518
 
 -- Abdu'l-Bahá
 
-bpn6519 
+bpn6519 «[한국어](../ko/prayers/#bpn6519)» 
 
 ----
 
@@ -542,7 +541,7 @@ bpn6519
 
 -- Abdu'l-Bahá
 
-bpn6520 
+bpn6520 «[한국어](../ko/prayers/#bpn6520)» 
 
 ----
 
@@ -552,7 +551,7 @@ bpn6520
 
 -- Abdu'l-Bahá
 
-bpn6521 
+bpn6521 «[한국어](../ko/prayers/#bpn6521)» 
 
 ----
 
@@ -562,7 +561,7 @@ bpn6521
 
 -- Abdu'l-Bahá
 
-bpn6522 
+bpn6522 «[한국어](../ko/prayers/#bpn6522)» 
 
 ----
 
@@ -572,7 +571,7 @@ bpn6522
 
 -- Abdu'l-Bahá
 
-bpn6523 
+bpn6523 «[한국어](../ko/prayers/#bpn6523)» 
 
 ----
 
@@ -582,7 +581,7 @@ bpn6523
 
 -- Abdu'l-Bahá
 
-bpn6524 
+bpn6524 «[한국어](../ko/prayers/#bpn6524)» 
 
 ----
 
@@ -592,7 +591,7 @@ bpn6524
 
 -- Abdu'l-Bahá
 
-bpn6525 
+bpn6525 «[한국어](../ko/prayers/#bpn6525)» 
 
 ----
 
@@ -602,7 +601,7 @@ bpn6525
 
 -- Abdu'l-Bahá
 
-bpn6526 
+bpn6526 «[한국어](../ko/prayers/#bpn6526)» 
 
 ----
 
@@ -612,7 +611,7 @@ bpn6526
 
 -- Abdu'l-Bahá
 
-bpn6527 
+bpn6527 «[한국어](../ko/prayers/#bpn6527)» 
 
 ----
 
@@ -622,7 +621,7 @@ bpn6527
 
 -- Abdu'l-Bahá
 
-bpn6528 
+bpn6528 «[한국어](../ko/prayers/#bpn6528)» 
 
 ----
 
@@ -650,7 +649,7 @@ bpn6658 «[한국어](../ko/prayers/#bpn6658)»
 
 -- Bahá'u'lláh
 
-bpn6529 
+bpn6529 «[한국어](../ko/prayers/#bpn6529)» 
 
 ----
 
@@ -660,7 +659,7 @@ bpn6529
 
 -- Bahá'u'lláh
 
-bpn6530 
+bpn6530 «[한국어](../ko/prayers/#bpn6530)» 
 
 ----
 
@@ -670,7 +669,7 @@ bpn6530
 
 -- Abdu'l-Bahá
 
-bpn6531 
+bpn6531 «[한국어](../ko/prayers/#bpn6531)» 
 
 ----
 
@@ -680,7 +679,7 @@ bpn6531
 
 -- Abdu'l-Bahá
 
-bpn6532 
+bpn6532 «[한국어](../ko/prayers/#bpn6532)» 
 
 ----
 
@@ -690,7 +689,7 @@ bpn6532
 
 -- Abdu'l-Bahá
 
-bpn6533 
+bpn6533 «[한국어](../ko/prayers/#bpn6533)» 
 
 ----
 
@@ -704,7 +703,7 @@ bpn6533
 
 -- Bahá'u'lláh
 
-bpn6534 
+bpn6534 «[한국어](../ko/prayers/#bpn6534)» 
 
 ----
 
@@ -714,7 +713,7 @@ bpn6534
 
 -- Bahá'u'lláh
 
-bpn6535 
+bpn6535 «[한국어](../ko/prayers/#bpn6535)» 
 
 ----
 
@@ -724,7 +723,7 @@ bpn6535
 
 -- Bahá'u'lláh
 
-bpn6536 
+bpn6536 «[한국어](../ko/prayers/#bpn6536)» 
 
 ----
 
@@ -734,7 +733,7 @@ bpn6536
 
 -- Bahá'u'lláh
 
-bpn6537 
+bpn6537 «[한국어](../ko/prayers/#bpn6537)» 
 
 ----
 
@@ -744,7 +743,7 @@ bpn6537
 
 -- Bahá'u'lláh
 
-bpn6538 
+bpn6538 «[한국어](../ko/prayers/#bpn6538)» 
 
 ----
 
@@ -754,7 +753,7 @@ bpn6538
 
 -- Báb
 
-bpn6539 
+bpn6539 «[한국어](../ko/prayers/#bpn6539)» 
 
 ----
 
@@ -764,7 +763,7 @@ bpn6539
 
 -- Báb
 
-bpn6540 
+bpn6540 «[한국어](../ko/prayers/#bpn6540)» 
 
 ----
 
@@ -774,7 +773,7 @@ bpn6540
 
 -- Abdu'l-Bahá
 
-bpn6541 
+bpn6541 «[한국어](../ko/prayers/#bpn6541)» 
 
 ----
 
@@ -788,7 +787,7 @@ bpn6541
 
 -- Bahá'u'lláh
 
-bpn6542 
+bpn6542 «[한국어](../ko/prayers/#bpn6542)» 
 
 ----
 
@@ -798,7 +797,7 @@ bpn6542
 
 -- Bahá'u'lláh
 
-bpn6543 
+bpn6543 «[한국어](../ko/prayers/#bpn6543)» 
 
 ----
 
@@ -808,7 +807,7 @@ bpn6543
 
 -- Abdu'l-Bahá
 
-bpn6544 
+bpn6544 «[한국어](../ko/prayers/#bpn6544)» 
 
 ----
 
@@ -818,7 +817,7 @@ bpn6544
 
 -- Abdu'l-Bahá
 
-bpn6545 
+bpn6545 «[한국어](../ko/prayers/#bpn6545)» 
 
 ----
 
@@ -832,7 +831,7 @@ bpn6545
 
 -- Bahá'u'lláh
 
-bpn6546 
+bpn6546 «[한국어](../ko/prayers/#bpn6546)» 
 
 ----
 
@@ -842,7 +841,7 @@ bpn6546
 
 -- Bahá'u'lláh
 
-bpn6547 
+bpn6547 «[한국어](../ko/prayers/#bpn6547)» 
 
 ----
 
@@ -852,7 +851,7 @@ bpn6547
 
 -- Bahá'u'lláh
 
-bpn6548 
+bpn6548 «[한국어](../ko/prayers/#bpn6548)» 
 
 ----
 
@@ -862,7 +861,7 @@ bpn6548
 
 -- Bahá'u'lláh
 
-bpn6549 
+bpn6549 «[한국어](../ko/prayers/#bpn6549)» 
 
 ----
 
@@ -872,7 +871,7 @@ bpn6549
 
 -- Bahá'u'lláh
 
-bpn6550 
+bpn6550 «[한국어](../ko/prayers/#bpn6550)» 
 
 ----
 
@@ -882,7 +881,7 @@ bpn6550
 
 -- Báb
 
-bpn6551 
+bpn6551 «[한국어](../ko/prayers/#bpn6551)» 
 
 ----
 
@@ -892,7 +891,7 @@ bpn6551
 
 -- Báb
 
-bpn6552 
+bpn6552 «[한국어](../ko/prayers/#bpn6552)» 
 
 ----
 
@@ -902,7 +901,7 @@ bpn6552
 
 -- Báb
 
-bpn6553 
+bpn6553 «[한국어](../ko/prayers/#bpn6553)» 
 
 ----
 
@@ -912,7 +911,7 @@ bpn6553
 
 -- Báb
 
-bpn6554 
+bpn6554 «[한국어](../ko/prayers/#bpn6554)» 
 
 ----
 
@@ -922,7 +921,7 @@ bpn6554
 
 -- Abdu'l-Bahá
 
-bpn6555 
+bpn6555 «[한국어](../ko/prayers/#bpn6555)» 
 
 ----
 
@@ -936,7 +935,7 @@ bpn6555
 
 -- Abdu'l-Bahá
 
-bpn6556 
+bpn6556 «[한국어](../ko/prayers/#bpn6556)» 
 
 ----
 
@@ -946,7 +945,7 @@ bpn6556
 
 -- Abdu'l-Bahá
 
-bpn6557 
+bpn6557 «[한국어](../ko/prayers/#bpn6557)» 
 
 ----
 
@@ -956,7 +955,7 @@ bpn6557
 
 -- Abdu'l-Bahá
 
-bpn6558 
+bpn6558 «[한국어](../ko/prayers/#bpn6558)» 
 
 ----
 
@@ -970,7 +969,7 @@ bpn6558
 
 -- Bahá'u'lláh
 
-bpn6559 
+bpn6559 «[한국어](../ko/prayers/#bpn6559)» 
 
 ----
 
@@ -980,7 +979,7 @@ bpn6559
 
 -- Bahá'u'lláh
 
-bpn6560 
+bpn6560 «[한국어](../ko/prayers/#bpn6560)» 
 
 ----
 
@@ -990,7 +989,7 @@ bpn6560
 
 -- Bahá'u'lláh
 
-bpn6561 
+bpn6561 «[한국어](../ko/prayers/#bpn6561)» 
 
 ----
 
@@ -1004,7 +1003,7 @@ bpn6561
 
 -- Bahá'u'lláh
 
-bpn6660 
+bpn6660 «[한국어](../ko/prayers/#bpn6660)» 
 
 ----
 
@@ -1014,7 +1013,7 @@ bpn6660
 
 -- Bahá'u'lláh
 
-bpn6662 
+bpn6662 «[한국어](../ko/prayers/#bpn6662)» 
 
 ----
 
@@ -1024,7 +1023,7 @@ bpn6662
 
 -- Abdu'l-Bahá
 
-bpn6661 
+bpn6661 «[한국어](../ko/prayers/#bpn6661)» 
 
 ----
 
@@ -1038,7 +1037,7 @@ bpn6661
 
 -- Bahá'u'lláh
 
-bpn6562 
+bpn6562 «[한국어](../ko/prayers/#bpn6562)» 
 
 ----
 
@@ -1048,7 +1047,7 @@ bpn6562
 
 -- Abdu'l-Bahá
 
-bpn6563 
+bpn6563 «[한국어](../ko/prayers/#bpn6563)» 
 
 ----
 
@@ -1058,7 +1057,7 @@ bpn6563
 
 -- Abdu'l-Bahá
 
-bpn6564 
+bpn6564 «[한국어](../ko/prayers/#bpn6564)» 
 
 ----
 
@@ -1068,7 +1067,7 @@ bpn6564
 
 -- Abdu'l-Bahá
 
-bpn6565 
+bpn6565 «[한국어](../ko/prayers/#bpn6565)» 
 
 ----
 
@@ -1078,7 +1077,7 @@ bpn6565
 
 -- Abdu'l-Bahá
 
-bpn6566 
+bpn6566 «[한국어](../ko/prayers/#bpn6566)» 
 
 ----
 
@@ -1088,7 +1087,7 @@ bpn6566
 
 -- Abdu'l-Bahá
 
-bpn6567 
+bpn6567 «[한국어](../ko/prayers/#bpn6567)» 
 
 ----
 
@@ -1098,7 +1097,7 @@ bpn6567
 
 -- Abdu'l-Bahá
 
-bpn6568 
+bpn6568 «[한국어](../ko/prayers/#bpn6568)» 
 
 ----
 
@@ -1108,7 +1107,7 @@ bpn6568
 
 -- Abdu'l-Bahá
 
-bpn6569 
+bpn6569 «[한국어](../ko/prayers/#bpn6569)» 
 
 ----
 
@@ -1118,7 +1117,7 @@ bpn6569
 
 -- Abdu'l-Bahá
 
-bpn6570 
+bpn6570 «[한국어](../ko/prayers/#bpn6570)» 
 
 ----
 
@@ -1132,7 +1131,7 @@ bpn6570
 
 -- Bahá'u'lláh
 
-bpn6571 
+bpn6571 «[한국어](../ko/prayers/#bpn6571)» 
 
 ----
 
@@ -1142,7 +1141,7 @@ bpn6571
 
 -- Bahá'u'lláh
 
-bpn6572 
+bpn6572 «[한국어](../ko/prayers/#bpn6572)» 
 
 ----
 
@@ -1156,7 +1155,7 @@ bpn6572
 
 -- Bahá'u'lláh
 
-bpn6573 
+bpn6573 «[한국어](../ko/prayers/#bpn6573)» 
 
 ----
 
@@ -1166,7 +1165,7 @@ bpn6573
 
 -- Bahá'u'lláh
 
-bpn6574 
+bpn6574 «[한국어](../ko/prayers/#bpn6574)» 
 
 ----
 
@@ -1176,7 +1175,7 @@ bpn6574
 
 -- Bahá'u'lláh
 
-bpn6575 
+bpn6575 «[한국어](../ko/prayers/#bpn6575)» 
 
 ----
 
@@ -1186,7 +1185,7 @@ bpn6575
 
 -- Bahá'u'lláh
 
-bpn6576 
+bpn6576 «[한국어](../ko/prayers/#bpn6576)» 
 
 ----
 
@@ -1196,7 +1195,7 @@ bpn6576
 
 -- Báb
 
-bpn6577 
+bpn6577 «[한국어](../ko/prayers/#bpn6577)» 
 
 ----
 
@@ -1206,7 +1205,7 @@ bpn6577
 
 -- Báb
 
-bpn6578 
+bpn6578 «[한국어](../ko/prayers/#bpn6578)» 
 
 ----
 
@@ -1216,7 +1215,7 @@ bpn6578
 
 -- Báb
 
-bpn6579 
+bpn6579 «[한국어](../ko/prayers/#bpn6579)» 
 
 ----
 
@@ -1226,7 +1225,7 @@ bpn6579
 
 -- Báb
 
-bpn6580 
+bpn6580 «[한국어](../ko/prayers/#bpn6580)» 
 
 ----
 
@@ -1236,7 +1235,7 @@ bpn6580
 
 -- Abdu'l-Bahá
 
-bpn6581 
+bpn6581 «[한국어](../ko/prayers/#bpn6581)» 
 
 ----
 
@@ -1250,7 +1249,7 @@ bpn6581
 
 -- Bahá'u'lláh
 
-bpn6582 
+bpn6582 «[한국어](../ko/prayers/#bpn6582)» 
 
 ----
 
@@ -1260,7 +1259,7 @@ bpn6582
 
 -- Bahá'u'lláh
 
-bpn6583 
+bpn6583 «[한국어](../ko/prayers/#bpn6583)» 
 
 ----
 
@@ -1270,7 +1269,7 @@ bpn6583
 
 -- Bahá'u'lláh
 
-bpn6584 
+bpn6584 «[한국어](../ko/prayers/#bpn6584)» 
 
 ----
 
@@ -1280,7 +1279,7 @@ bpn6584
 
 -- Báb
 
-bpn6585 
+bpn6585 «[한국어](../ko/prayers/#bpn6585)» 
 
 ----
 
@@ -1290,7 +1289,7 @@ bpn6585
 
 -- Báb
 
-bpn6586 
+bpn6586 «[한국어](../ko/prayers/#bpn6586)» 
 
 ----
 
@@ -1300,7 +1299,7 @@ bpn6586
 
 -- Báb
 
-bpn6587 
+bpn6587 «[한국어](../ko/prayers/#bpn6587)» 
 
 ----
 
@@ -1310,7 +1309,7 @@ bpn6587
 
 -- Abdu'l-Bahá
 
-bpn6588 
+bpn6588 «[한국어](../ko/prayers/#bpn6588)» 
 
 ----
 
@@ -1320,7 +1319,7 @@ bpn6588
 
 -- Abdu'l-Bahá
 
-bpn6589 
+bpn6589 «[한국어](../ko/prayers/#bpn6589)» 
 
 ----
 
@@ -1330,7 +1329,7 @@ bpn6589
 
 -- Abdu'l-Bahá
 
-bpn6590 
+bpn6590 «[한국어](../ko/prayers/#bpn6590)» 
 
 ----
 
@@ -1340,7 +1339,7 @@ bpn6590
 
 -- Abdu'l-Bahá
 
-bpn6591 
+bpn6591 «[한국어](../ko/prayers/#bpn6591)» 
 
 ----
 
@@ -1354,7 +1353,7 @@ bpn6591
 
 -- Bahá'u'lláh
 
-bpn6592 
+bpn6592 «[한국어](../ko/prayers/#bpn6592)» 
 
 ----
 
@@ -1364,7 +1363,7 @@ bpn6592
 
 -- Bahá'u'lláh
 
-bpn6593 
+bpn6593 «[한국어](../ko/prayers/#bpn6593)» 
 
 ----
 
@@ -1374,7 +1373,7 @@ bpn6593
 
 -- Bahá'u'lláh
 
-bpn6594 
+bpn6594 «[한국어](../ko/prayers/#bpn6594)» 
 
 ----
 
@@ -1384,7 +1383,7 @@ bpn6594
 
 -- Bahá'u'lláh
 
-bpn6595 
+bpn6595 «[한국어](../ko/prayers/#bpn6595)» 
 
 ----
 
@@ -1394,7 +1393,7 @@ bpn6595
 
 -- Abdu'l-Bahá
 
-bpn6596 
+bpn6596 «[한국어](../ko/prayers/#bpn6596)» 
 
 ----
 
@@ -1408,7 +1407,7 @@ bpn6596
 
 -- Bahá'u'lláh
 
-bpn6501 
+bpn6501 «[한국어](../ko/prayers/#bpn6501)» 
 
 ----
 
@@ -1418,7 +1417,7 @@ bpn6501
 
 -- Bahá'u'lláh
 
-bpn6502 
+bpn6502 «[한국어](../ko/prayers/#bpn6502)» 
 
 ----
 
@@ -1428,7 +1427,7 @@ bpn6502
 
 -- Abdu'l-Bahá
 
-bpn6503 
+bpn6503 «[한국어](../ko/prayers/#bpn6503)» 
 
 ----
 
@@ -1438,7 +1437,7 @@ bpn6503
 
 -- Abdu'l-Bahá
 
-bpn6504 
+bpn6504 «[한국어](../ko/prayers/#bpn6504)» 
 
 ----
 
@@ -1452,7 +1451,7 @@ bpn6504
 
 -- Bahá'u'lláh
 
-bpn6597 
+bpn6597 «[한국어](../ko/prayers/#bpn6597)» 
 
 ----
 
@@ -1462,7 +1461,7 @@ bpn6597
 
 -- Bahá'u'lláh
 
-bpn6598 
+bpn6598 «[한국어](../ko/prayers/#bpn6598)» 
 
 ----
 
@@ -1472,7 +1471,7 @@ bpn6598
 
 -- Bahá'u'lláh
 
-bpn6599 
+bpn6599 «[한국어](../ko/prayers/#bpn6599)» 
 
 ----
 
@@ -1486,7 +1485,7 @@ bpn6599
 
 -- Bahá'u'lláh
 
-bpn6600 
+bpn6600 «[한국어](../ko/prayers/#bpn6600)» 
 
 ----
 
@@ -1496,7 +1495,7 @@ bpn6600
 
 -- Abdu'l-Bahá
 
-bpn6601 
+bpn6601 «[한국어](../ko/prayers/#bpn6601)» 
 
 ----
 
@@ -1506,7 +1505,7 @@ bpn6601
 
 -- Abdu'l-Bahá
 
-bpn6602 
+bpn6602 «[한국어](../ko/prayers/#bpn6602)» 
 
 ----
 
@@ -1520,7 +1519,7 @@ bpn6602
 
 -- Bahá'u'lláh
 
-bpn6603 
+bpn6603 «[한국어](../ko/prayers/#bpn6603)» 
 
 ----
 
@@ -1530,7 +1529,7 @@ bpn6603
 
 -- Bahá'u'lláh
 
-bpn6604 
+bpn6604 «[한국어](../ko/prayers/#bpn6604)» 
 
 ----
 
@@ -1540,7 +1539,7 @@ bpn6604
 
 -- Abdu'l-Bahá
 
-bpn6605 
+bpn6605 «[한국어](../ko/prayers/#bpn6605)» 
 
 ----
 
@@ -1554,7 +1553,7 @@ bpn6605
 
 -- Bahá'u'lláh
 
-bpn6483 
+bpn6483 «[한국어](../ko/prayers/#bpn6483)» 
 
 ----
 
@@ -1568,7 +1567,7 @@ bpn6483
 
 -- Bahá'u'lláh
 
-bpn6606 
+bpn6606 «[한국어](../ko/prayers/#bpn6606)» 
 
 ----
 
@@ -1578,7 +1577,7 @@ bpn6606
 
 -- Bahá'u'lláh
 
-bpn6607 
+bpn6607 «[한국어](../ko/prayers/#bpn6607)» 
 
 ----
 
@@ -1588,7 +1587,7 @@ bpn6607
 
 -- Bahá'u'lláh
 
-bpn6608 
+bpn6608 «[한국어](../ko/prayers/#bpn6608)» 
 
 ----
 
@@ -1598,7 +1597,7 @@ bpn6608
 
 -- Bahá'u'lláh
 
-bpn6609 
+bpn6609 «[한국어](../ko/prayers/#bpn6609)» 
 
 ----
 
@@ -1608,7 +1607,7 @@ bpn6609
 
 -- Bahá'u'lláh
 
-bpn6610 
+bpn6610 «[한국어](../ko/prayers/#bpn6610)» 
 
 ----
 
@@ -1618,7 +1617,7 @@ bpn6610
 
 -- Bahá'u'lláh
 
-bpn6611 
+bpn6611 «[한국어](../ko/prayers/#bpn6611)» 
 
 ----
 
@@ -1628,7 +1627,7 @@ bpn6611
 
 -- Bahá'u'lláh
 
-bpn6612 
+bpn6612 «[한국어](../ko/prayers/#bpn6612)» 
 
 ----
 
@@ -1638,7 +1637,7 @@ bpn6612
 
 -- Bahá'u'lláh
 
-bpn6620 
+bpn6620 «[한국어](../ko/prayers/#bpn6620)» 
 
 ----
 
@@ -1648,7 +1647,7 @@ bpn6620
 
 -- Báb
 
-bpn6613 
+bpn6613 «[한국어](../ko/prayers/#bpn6613)» 
 
 ----
 
@@ -1658,7 +1657,7 @@ bpn6613
 
 -- Abdu'l-Bahá
 
-bpn6614 
+bpn6614 «[한국어](../ko/prayers/#bpn6614)» 
 
 ----
 
@@ -1668,7 +1667,7 @@ bpn6614
 
 -- Abdu'l-Bahá
 
-bpn6615 
+bpn6615 «[한국어](../ko/prayers/#bpn6615)» 
 
 ----
 
@@ -1678,7 +1677,7 @@ bpn6615
 
 -- Abdu'l-Bahá
 
-bpn6616 
+bpn6616 «[한국어](../ko/prayers/#bpn6616)» 
 
 ----
 
@@ -1688,7 +1687,7 @@ bpn6616
 
 -- Abdu'l-Bahá
 
-bpn6617 
+bpn6617 «[한국어](../ko/prayers/#bpn6617)» 
 
 ----
 
@@ -1698,7 +1697,7 @@ bpn6617
 
 -- Abdu'l-Bahá
 
-bpn6618 
+bpn6618 «[한국어](../ko/prayers/#bpn6618)» 
 
 ----
 
@@ -1708,7 +1707,7 @@ bpn6618
 
 -- Abdu'l-Bahá
 
-bpn6619 
+bpn6619 «[한국어](../ko/prayers/#bpn6619)» 
 
 ----
 
@@ -1722,7 +1721,7 @@ bpn6619
 
 -- Bahá'u'lláh
 
-bpn6482 
+bpn6482 «[한국어](../ko/prayers/#bpn6482)» 
 
 ----
 
@@ -1736,7 +1735,7 @@ bpn6482
 
 -- Bahá'u'lláh
 
-bpn6621 
+bpn6621 «[한국어](../ko/prayers/#bpn6621)» 
 
 ----
 
@@ -1746,7 +1745,7 @@ bpn6621
 
 -- Abdu'l-Bahá
 
-bpn6622 
+bpn6622 «[한국어](../ko/prayers/#bpn6622)» 
 
 ----
 
@@ -1756,7 +1755,7 @@ bpn6622
 
 -- Abdu'l-Bahá
 
-bpn6623 
+bpn6623 «[한국어](../ko/prayers/#bpn6623)» 
 
 ----
 
@@ -1766,7 +1765,7 @@ bpn6623
 
 -- Abdu'l-Bahá
 
-bpn6624 
+bpn6624 «[한국어](../ko/prayers/#bpn6624)» 
 
 ----
 
@@ -1776,7 +1775,7 @@ bpn6624
 
 -- Abdu'l-Bahá
 
-bpn6625 
+bpn6625 «[한국어](../ko/prayers/#bpn6625)» 
 
 ----
 
@@ -1790,7 +1789,7 @@ bpn6625
 
 -- Bahá'u'lláh
 
-bpn6626 
+bpn6626 «[한국어](../ko/prayers/#bpn6626)» 
 
 ----
 
@@ -1800,7 +1799,7 @@ bpn6626
 
 -- Bahá'u'lláh
 
-bpn6627 
+bpn6627 «[한국어](../ko/prayers/#bpn6627)» 
 
 ----
 
@@ -1810,7 +1809,7 @@ bpn6627
 
 -- Bahá'u'lláh
 
-bpn6628 
+bpn6628 «[한국어](../ko/prayers/#bpn6628)» 
 
 ----
 
@@ -1820,7 +1819,7 @@ bpn6628
 
 -- Bahá'u'lláh
 
-bpn6629 
+bpn6629 «[한국어](../ko/prayers/#bpn6629)» 
 
 ----
 
@@ -1830,7 +1829,7 @@ bpn6629
 
 -- Báb
 
-bpn6630 
+bpn6630 «[한국어](../ko/prayers/#bpn6630)» 
 
 ----
 
@@ -1844,7 +1843,7 @@ bpn6630
 
 -- Bahá'u'lláh
 
-bpn6631 
+bpn6631 «[한국어](../ko/prayers/#bpn6631)» 
 
 ----
 
@@ -1854,7 +1853,7 @@ bpn6631
 
 -- Bahá'u'lláh
 
-bpn6632 
+bpn6632 «[한국어](../ko/prayers/#bpn6632)» 
 
 ----
 
@@ -1864,7 +1863,7 @@ bpn6632
 
 -- Bahá'u'lláh
 
-bpn6633 
+bpn6633 «[한국어](../ko/prayers/#bpn6633)» 
 
 ----
 
@@ -1874,7 +1873,7 @@ bpn6633
 
 -- Bahá'u'lláh
 
-bpn6634 
+bpn6634 «[한국어](../ko/prayers/#bpn6634)» 
 
 ----
 
@@ -1884,7 +1883,7 @@ bpn6634
 
 -- Bahá'u'lláh
 
-bpn6635 
+bpn6635 «[한국어](../ko/prayers/#bpn6635)» 
 
 ----
 
@@ -1894,7 +1893,7 @@ bpn6635
 
 -- Bahá'u'lláh
 
-bpn6636 
+bpn6636 «[한국어](../ko/prayers/#bpn6636)» 
 
 ----
 
@@ -1918,7 +1917,7 @@ bpn6637 «[한국어](../ko/prayers/#bpn6637)»
 
 -- Bahá'u'lláh
 
-bpn6638 
+bpn6638 «[한국어](../ko/prayers/#bpn6638)» 
 
 ----
 
@@ -1928,7 +1927,7 @@ bpn6638
 
 -- Báb
 
-bpn6639 
+bpn6639 «[한국어](../ko/prayers/#bpn6639)» 
 
 ----
 
@@ -1938,7 +1937,7 @@ bpn6639
 
 -- Báb
 
-bpn6640 
+bpn6640 «[한국어](../ko/prayers/#bpn6640)» 
 
 ----
 
@@ -1948,7 +1947,7 @@ bpn6640
 
 -- Abdu'l-Bahá
 
-bpn6641 
+bpn6641 «[한국어](../ko/prayers/#bpn6641)» 
 
 ----
 
@@ -1958,7 +1957,7 @@ bpn6641
 
 -- Abdu'l-Bahá
 
-bpn6642 
+bpn6642 «[한국어](../ko/prayers/#bpn6642)» 
 
 ----
 
@@ -1972,7 +1971,7 @@ bpn6642
 
 -- Bahá'u'lláh
 
-bpn6643 
+bpn6643 «[한국어](../ko/prayers/#bpn6643)» 
 
 ----
 
@@ -1982,7 +1981,7 @@ bpn6643
 
 -- Bahá'u'lláh
 
-bpn6644 
+bpn6644 «[한국어](../ko/prayers/#bpn6644)» 
 
 ----
 
@@ -1996,7 +1995,7 @@ bpn6644
 
 -- Bahá'u'lláh
 
-bpn6645 
+bpn6645 «[한국어](../ko/prayers/#bpn6645)» 
 
 ----
 
@@ -2006,7 +2005,7 @@ bpn6645
 
 -- Bahá'u'lláh
 
-bpn6646 
+bpn6646 «[한국어](../ko/prayers/#bpn6646)» 
 
 ----
 
@@ -2016,7 +2015,7 @@ bpn6646
 
 -- Bahá'u'lláh
 
-bpn6647 
+bpn6647 «[한국어](../ko/prayers/#bpn6647)» 
 
 ----
 
@@ -2026,7 +2025,7 @@ bpn6647
 
 -- Bahá'u'lláh
 
-bpn6648 
+bpn6648 «[한국어](../ko/prayers/#bpn6648)» 
 
 ----
 
@@ -2036,7 +2035,7 @@ bpn6648
 
 -- Báb
 
-bpn6649 
+bpn6649 «[한국어](../ko/prayers/#bpn6649)» 
 
 ----
 
@@ -2046,7 +2045,7 @@ bpn6649
 
 -- Abdu'l-Bahá
 
-bpn6650 
+bpn6650 «[한국어](../ko/prayers/#bpn6650)» 
 
 ----
 
@@ -2056,7 +2055,7 @@ bpn6650
 
 -- Abdu'l-Bahá
 
-bpn6651 
+bpn6651 «[한국어](../ko/prayers/#bpn6651)» 
 
 ----
 

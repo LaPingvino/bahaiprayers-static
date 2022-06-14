@@ -37,7 +37,6 @@ tags = ['lang=ur', 'prayerbook']
 
 [گھر سے باہر جانے کی دُعا](#%DA%AF%DA%BE%D8%B1+%D8%B3%DB%92+%D8%A8%D8%A7%DB%81%D8%B1+%D8%AC%D8%A7%D9%86%DB%92+%DA%A9%DB%8C+%D8%AF%D9%8F%D8%B9%D8%A7)
 
-[گھر سے باہر جانے کی دُعا](#%DA%AF%DA%BE%D8%B1+%D8%B3%DB%92+%D8%A8%D8%A7%DB%81%D8%B1+%D8%AC%D8%A7%D9%86%DB%92+%DA%A9%DB%8C+%D8%AF%D9%8F%D8%B9%D8%A7)
 
 
 <a id="%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF+%DA%A9%DB%92+%D9%84%DB%8C%DB%92"></a> 
@@ -48,7 +47,7 @@ tags = ['lang=ur', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn8969 
+bpn8969 «[اُردُو](../ur/prayers/#bpn8969)» 
 
 ----
 
@@ -62,7 +61,7 @@ bpn8969
 
 -- Bahá'u'lláh
 
-bpn8963 
+bpn8963 «[اُردُو](../ur/prayers/#bpn8963)» 
 
 ----
 
@@ -90,7 +89,7 @@ bpn8966 «[اُردُو](../ur/prayers/#bpn8966)»
 
 -- Bahá'u'lláh
 
-bpn8973 
+bpn8973 «[اُردُو](../ur/prayers/#bpn8973)» 
 
 ----
 
@@ -100,7 +99,7 @@ bpn8973
 
 -- Bahá'u'lláh
 
-bpn8974 
+bpn8974 «[اُردُو](../ur/prayers/#bpn8974)» 
 
 ----
 
@@ -110,7 +109,7 @@ bpn8974
 
 -- Bahá'u'lláh
 
-bpn8975 
+bpn8975 «[اُردُو](../ur/prayers/#bpn8975)» 
 
 ----
 
@@ -120,7 +119,7 @@ bpn8975
 
 -- Bahá'u'lláh
 
-bpn8976 
+bpn8976 «[اُردُو](../ur/prayers/#bpn8976)» 
 
 ----
 
@@ -130,7 +129,7 @@ bpn8976
 
 -- Bahá'u'lláh
 
-bpn8977 
+bpn8977 «[اُردُو](../ur/prayers/#bpn8977)» 
 
 ----
 
@@ -140,7 +139,7 @@ bpn8977
 
 -- Bahá'u'lláh
 
-bpn8978 
+bpn8978 «[اُردُو](../ur/prayers/#bpn8978)» 
 
 ----
 
@@ -150,7 +149,7 @@ bpn8978
 
 -- Bahá'u'lláh
 
-bpn8979 
+bpn8979 «[اُردُو](../ur/prayers/#bpn8979)» 
 
 ----
 
@@ -160,7 +159,7 @@ bpn8979
 
 -- Bahá'u'lláh
 
-bpn8980 
+bpn8980 «[اُردُو](../ur/prayers/#bpn8980)» 
 
 ----
 
@@ -170,7 +169,7 @@ bpn8980
 
 -- Bahá'u'lláh
 
-bpn8981 
+bpn8981 «[اُردُو](../ur/prayers/#bpn8981)» 
 
 ----
 
@@ -180,7 +179,7 @@ bpn8981
 
 -- Bahá'u'lláh
 
-bpn8982 
+bpn8982 «[اُردُو](../ur/prayers/#bpn8982)» 
 
 ----
 
@@ -190,7 +189,7 @@ bpn8982
 
 -- Bahá'u'lláh
 
-bpn8983 
+bpn8983 «[اُردُو](../ur/prayers/#bpn8983)» 
 
 ----
 
@@ -200,7 +199,7 @@ bpn8983
 
 -- Bahá'u'lláh
 
-bpn8984 
+bpn8984 «[اُردُو](../ur/prayers/#bpn8984)» 
 
 ----
 
@@ -210,7 +209,7 @@ bpn8984
 
 -- Bahá'u'lláh
 
-bpn8985 
+bpn8985 «[اُردُو](../ur/prayers/#bpn8985)» 
 
 ----
 
@@ -220,7 +219,7 @@ bpn8985
 
 -- Bahá'u'lláh
 
-bpn8986 
+bpn8986 «[اُردُو](../ur/prayers/#bpn8986)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn8986
 
 -- Bahá'u'lláh
 
-bpn8987 
+bpn8987 «[اُردُو](../ur/prayers/#bpn8987)» 
 
 ----
 
@@ -240,7 +239,7 @@ bpn8987
 
 -- Bahá'u'lláh
 
-bpn8988 
+bpn8988 «[اُردُو](../ur/prayers/#bpn8988)» 
 
 ----
 
@@ -250,7 +249,7 @@ bpn8988
 
 -- Bahá'u'lláh
 
-bpn8989 
+bpn8989 «[اُردُو](../ur/prayers/#bpn8989)» 
 
 ----
 
@@ -260,7 +259,7 @@ bpn8989
 
 -- Bahá'u'lláh
 
-bpn8990 
+bpn8990 «[اُردُو](../ur/prayers/#bpn8990)» 
 
 ----
 
@@ -270,7 +269,7 @@ bpn8990
 
 -- Bahá'u'lláh
 
-bpn8991 
+bpn8991 «[اُردُو](../ur/prayers/#bpn8991)» 
 
 ----
 
@@ -280,7 +279,7 @@ bpn8991
 
 -- Bahá'u'lláh
 
-bpn8992 
+bpn8992 «[اُردُو](../ur/prayers/#bpn8992)» 
 
 ----
 
@@ -290,7 +289,7 @@ bpn8992
 
 -- Bahá'u'lláh
 
-bpn8993 
+bpn8993 «[اُردُو](../ur/prayers/#bpn8993)» 
 
 ----
 
@@ -300,7 +299,7 @@ bpn8993
 
 -- Bahá'u'lláh
 
-bpn8994 
+bpn8994 «[اُردُو](../ur/prayers/#bpn8994)» 
 
 ----
 
@@ -310,7 +309,7 @@ bpn8994
 
 -- Bahá'u'lláh
 
-bpn8995 
+bpn8995 «[اُردُو](../ur/prayers/#bpn8995)» 
 
 ----
 
@@ -320,7 +319,7 @@ bpn8995
 
 -- Bahá'u'lláh
 
-bpn8996 
+bpn8996 «[اُردُو](../ur/prayers/#bpn8996)» 
 
 ----
 
@@ -330,7 +329,7 @@ bpn8996
 
 -- Bahá'u'lláh
 
-bpn8997 
+bpn8997 «[اُردُو](../ur/prayers/#bpn8997)» 
 
 ----
 
@@ -340,7 +339,7 @@ bpn8997
 
 -- Bahá'u'lláh
 
-bpn8998 
+bpn8998 «[اُردُو](../ur/prayers/#bpn8998)» 
 
 ----
 
@@ -350,7 +349,7 @@ bpn8998
 
 -- Bahá'u'lláh
 
-bpn8999 
+bpn8999 «[اُردُو](../ur/prayers/#bpn8999)» 
 
 ----
 
@@ -360,7 +359,7 @@ bpn8999
 
 -- Bahá'u'lláh
 
-bpn9000 
+bpn9000 «[اُردُو](../ur/prayers/#bpn9000)» 
 
 ----
 
@@ -370,7 +369,7 @@ bpn9000
 
 -- Bahá'u'lláh
 
-bpn9001 
+bpn9001 «[اُردُو](../ur/prayers/#bpn9001)» 
 
 ----
 
@@ -380,7 +379,7 @@ bpn9001
 
 -- Bahá'u'lláh
 
-bpn9002 
+bpn9002 «[اُردُو](../ur/prayers/#bpn9002)» 
 
 ----
 
@@ -390,7 +389,7 @@ bpn9002
 
 -- Bahá'u'lláh
 
-bpn9003 
+bpn9003 «[اُردُو](../ur/prayers/#bpn9003)» 
 
 ----
 
@@ -400,7 +399,7 @@ bpn9003
 
 -- Bahá'u'lláh
 
-bpn9004 
+bpn9004 «[اُردُو](../ur/prayers/#bpn9004)» 
 
 ----
 
@@ -410,7 +409,7 @@ bpn9004
 
 -- Bahá'u'lláh
 
-bpn9005 
+bpn9005 «[اُردُو](../ur/prayers/#bpn9005)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn9005
 
 -- Bahá'u'lláh
 
-bpn9006 
+bpn9006 «[اُردُو](../ur/prayers/#bpn9006)» 
 
 ----
 
@@ -430,7 +429,7 @@ bpn9006
 
 -- Bahá'u'lláh
 
-bpn9007 
+bpn9007 «[اُردُو](../ur/prayers/#bpn9007)» 
 
 ----
 
@@ -440,7 +439,7 @@ bpn9007
 
 -- Bahá'u'lláh
 
-bpn9008 
+bpn9008 «[اُردُو](../ur/prayers/#bpn9008)» 
 
 ----
 
@@ -450,7 +449,7 @@ bpn9008
 
 -- Bahá'u'lláh
 
-bpn9009 
+bpn9009 «[اُردُو](../ur/prayers/#bpn9009)» 
 
 ----
 
@@ -460,7 +459,7 @@ bpn9009
 
 -- Bahá'u'lláh
 
-bpn9010 
+bpn9010 «[اُردُو](../ur/prayers/#bpn9010)» 
 
 ----
 
@@ -470,7 +469,7 @@ bpn9010
 
 -- Bahá'u'lláh
 
-bpn9011 
+bpn9011 «[اُردُو](../ur/prayers/#bpn9011)» 
 
 ----
 
@@ -480,7 +479,7 @@ bpn9011
 
 -- Bahá'u'lláh
 
-bpn9012 
+bpn9012 «[اُردُو](../ur/prayers/#bpn9012)» 
 
 ----
 
@@ -490,7 +489,7 @@ bpn9012
 
 -- Bahá'u'lláh
 
-bpn9013 
+bpn9013 «[اُردُو](../ur/prayers/#bpn9013)» 
 
 ----
 
@@ -500,7 +499,7 @@ bpn9013
 
 -- Bahá'u'lláh
 
-bpn9014 
+bpn9014 «[اُردُو](../ur/prayers/#bpn9014)» 
 
 ----
 
@@ -510,7 +509,7 @@ bpn9014
 
 -- Bahá'u'lláh
 
-bpn9015 
+bpn9015 «[اُردُو](../ur/prayers/#bpn9015)» 
 
 ----
 
@@ -520,7 +519,7 @@ bpn9015
 
 -- Bahá'u'lláh
 
-bpn9016 
+bpn9016 «[اُردُو](../ur/prayers/#bpn9016)» 
 
 ----
 
@@ -530,7 +529,7 @@ bpn9016
 
 -- Bahá'u'lláh
 
-bpn9017 
+bpn9017 «[اُردُو](../ur/prayers/#bpn9017)» 
 
 ----
 
@@ -540,7 +539,7 @@ bpn9017
 
 -- Bahá'u'lláh
 
-bpn9018 
+bpn9018 «[اُردُو](../ur/prayers/#bpn9018)» 
 
 ----
 
@@ -550,7 +549,7 @@ bpn9018
 
 -- Bahá'u'lláh
 
-bpn9019 
+bpn9019 «[اُردُو](../ur/prayers/#bpn9019)» 
 
 ----
 
@@ -560,7 +559,7 @@ bpn9019
 
 -- Bahá'u'lláh
 
-bpn9020 
+bpn9020 «[اُردُو](../ur/prayers/#bpn9020)» 
 
 ----
 
@@ -570,7 +569,7 @@ bpn9020
 
 -- Bahá'u'lláh
 
-bpn9021 
+bpn9021 «[اُردُو](../ur/prayers/#bpn9021)» 
 
 ----
 
@@ -580,7 +579,7 @@ bpn9021
 
 -- Bahá'u'lláh
 
-bpn9022 
+bpn9022 «[اُردُو](../ur/prayers/#bpn9022)» 
 
 ----
 
@@ -590,7 +589,7 @@ bpn9022
 
 -- Bahá'u'lláh
 
-bpn9023 
+bpn9023 «[اُردُو](../ur/prayers/#bpn9023)» 
 
 ----
 
@@ -600,7 +599,7 @@ bpn9023
 
 -- Bahá'u'lláh
 
-bpn9024 
+bpn9024 «[اُردُو](../ur/prayers/#bpn9024)» 
 
 ----
 
@@ -610,7 +609,7 @@ bpn9024
 
 -- Bahá'u'lláh
 
-bpn9025 
+bpn9025 «[اُردُو](../ur/prayers/#bpn9025)» 
 
 ----
 
@@ -620,7 +619,7 @@ bpn9025
 
 -- Bahá'u'lláh
 
-bpn9026 
+bpn9026 «[اُردُو](../ur/prayers/#bpn9026)» 
 
 ----
 
@@ -630,7 +629,7 @@ bpn9026
 
 -- Bahá'u'lláh
 
-bpn9027 
+bpn9027 «[اُردُو](../ur/prayers/#bpn9027)» 
 
 ----
 
@@ -640,7 +639,7 @@ bpn9027
 
 -- Bahá'u'lláh
 
-bpn9028 
+bpn9028 «[اُردُو](../ur/prayers/#bpn9028)» 
 
 ----
 
@@ -650,7 +649,7 @@ bpn9028
 
 -- Bahá'u'lláh
 
-bpn9029 
+bpn9029 «[اُردُو](../ur/prayers/#bpn9029)» 
 
 ----
 
@@ -660,7 +659,7 @@ bpn9029
 
 -- Bahá'u'lláh
 
-bpn9030 
+bpn9030 «[اُردُو](../ur/prayers/#bpn9030)» 
 
 ----
 
@@ -670,7 +669,7 @@ bpn9030
 
 -- Bahá'u'lláh
 
-bpn9031 
+bpn9031 «[اُردُو](../ur/prayers/#bpn9031)» 
 
 ----
 
@@ -680,7 +679,7 @@ bpn9031
 
 -- Bahá'u'lláh
 
-bpn9032 
+bpn9032 «[اُردُو](../ur/prayers/#bpn9032)» 
 
 ----
 
@@ -690,7 +689,7 @@ bpn9032
 
 -- Bahá'u'lláh
 
-bpn9033 
+bpn9033 «[اُردُو](../ur/prayers/#bpn9033)» 
 
 ----
 
@@ -700,7 +699,7 @@ bpn9033
 
 -- Bahá'u'lláh
 
-bpn9034 
+bpn9034 «[اُردُو](../ur/prayers/#bpn9034)» 
 
 ----
 
@@ -710,7 +709,7 @@ bpn9034
 
 -- Bahá'u'lláh
 
-bpn9035 
+bpn9035 «[اُردُو](../ur/prayers/#bpn9035)» 
 
 ----
 
@@ -720,7 +719,7 @@ bpn9035
 
 -- Bahá'u'lláh
 
-bpn9036 
+bpn9036 «[اُردُو](../ur/prayers/#bpn9036)» 
 
 ----
 
@@ -730,7 +729,7 @@ bpn9036
 
 -- Bahá'u'lláh
 
-bpn9037 
+bpn9037 «[اُردُو](../ur/prayers/#bpn9037)» 
 
 ----
 
@@ -740,7 +739,7 @@ bpn9037
 
 -- Bahá'u'lláh
 
-bpn9038 
+bpn9038 «[اُردُو](../ur/prayers/#bpn9038)» 
 
 ----
 
@@ -750,7 +749,7 @@ bpn9038
 
 -- Bahá'u'lláh
 
-bpn9039 
+bpn9039 «[اُردُو](../ur/prayers/#bpn9039)» 
 
 ----
 
@@ -760,7 +759,7 @@ bpn9039
 
 -- Bahá'u'lláh
 
-bpn9040 
+bpn9040 «[اُردُو](../ur/prayers/#bpn9040)» 
 
 ----
 
@@ -770,7 +769,7 @@ bpn9040
 
 -- Bahá'u'lláh
 
-bpn9041 
+bpn9041 «[اُردُو](../ur/prayers/#bpn9041)» 
 
 ----
 
@@ -780,7 +779,7 @@ bpn9041
 
 -- Bahá'u'lláh
 
-bpn9042 
+bpn9042 «[اُردُو](../ur/prayers/#bpn9042)» 
 
 ----
 
@@ -790,7 +789,7 @@ bpn9042
 
 -- Bahá'u'lláh
 
-bpn9043 
+bpn9043 «[اُردُو](../ur/prayers/#bpn9043)» 
 
 ----
 
@@ -800,7 +799,7 @@ bpn9043
 
 -- Bahá'u'lláh
 
-bpn9044 
+bpn9044 «[اُردُو](../ur/prayers/#bpn9044)» 
 
 ----
 
@@ -810,7 +809,7 @@ bpn9044
 
 -- Bahá'u'lláh
 
-bpn9045 
+bpn9045 «[اُردُو](../ur/prayers/#bpn9045)» 
 
 ----
 
@@ -820,7 +819,7 @@ bpn9045
 
 -- Bahá'u'lláh
 
-bpn9046 
+bpn9046 «[اُردُو](../ur/prayers/#bpn9046)» 
 
 ----
 
@@ -830,7 +829,7 @@ bpn9046
 
 -- Bahá'u'lláh
 
-bpn9047 
+bpn9047 «[اُردُو](../ur/prayers/#bpn9047)» 
 
 ----
 
@@ -840,7 +839,7 @@ bpn9047
 
 -- Bahá'u'lláh
 
-bpn9048 
+bpn9048 «[اُردُو](../ur/prayers/#bpn9048)» 
 
 ----
 
@@ -850,7 +849,7 @@ bpn9048
 
 -- Bahá'u'lláh
 
-bpn9049 
+bpn9049 «[اُردُو](../ur/prayers/#bpn9049)» 
 
 ----
 
@@ -860,7 +859,7 @@ bpn9049
 
 -- Bahá'u'lláh
 
-bpn9050 
+bpn9050 «[اُردُو](../ur/prayers/#bpn9050)» 
 
 ----
 
@@ -870,7 +869,7 @@ bpn9050
 
 -- Bahá'u'lláh
 
-bpn9051 
+bpn9051 «[اُردُو](../ur/prayers/#bpn9051)» 
 
 ----
 
@@ -880,7 +879,7 @@ bpn9051
 
 -- Bahá'u'lláh
 
-bpn9052 
+bpn9052 «[اُردُو](../ur/prayers/#bpn9052)» 
 
 ----
 
@@ -890,7 +889,7 @@ bpn9052
 
 -- Bahá'u'lláh
 
-bpn9053 
+bpn9053 «[اُردُو](../ur/prayers/#bpn9053)» 
 
 ----
 
@@ -900,7 +899,7 @@ bpn9053
 
 -- Bahá'u'lláh
 
-bpn9054 
+bpn9054 «[اُردُو](../ur/prayers/#bpn9054)» 
 
 ----
 
@@ -910,7 +909,7 @@ bpn9054
 
 -- Bahá'u'lláh
 
-bpn9055 
+bpn9055 «[اُردُو](../ur/prayers/#bpn9055)» 
 
 ----
 
@@ -920,7 +919,7 @@ bpn9055
 
 -- Bahá'u'lláh
 
-bpn9056 
+bpn9056 «[اُردُو](../ur/prayers/#bpn9056)» 
 
 ----
 
@@ -930,7 +929,7 @@ bpn9056
 
 -- Bahá'u'lláh
 
-bpn9057 
+bpn9057 «[اُردُو](../ur/prayers/#bpn9057)» 
 
 ----
 
@@ -940,7 +939,7 @@ bpn9057
 
 -- Bahá'u'lláh
 
-bpn9058 
+bpn9058 «[اُردُو](../ur/prayers/#bpn9058)» 
 
 ----
 
@@ -950,7 +949,7 @@ bpn9058
 
 -- Bahá'u'lláh
 
-bpn9059 
+bpn9059 «[اُردُو](../ur/prayers/#bpn9059)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn9059
 
 -- Bahá'u'lláh
 
-bpn9060 
+bpn9060 «[اُردُو](../ur/prayers/#bpn9060)» 
 
 ----
 
@@ -970,7 +969,7 @@ bpn9060
 
 -- Bahá'u'lláh
 
-bpn9061 
+bpn9061 «[اُردُو](../ur/prayers/#bpn9061)» 
 
 ----
 
@@ -980,7 +979,7 @@ bpn9061
 
 -- Bahá'u'lláh
 
-bpn9062 
+bpn9062 «[اُردُو](../ur/prayers/#bpn9062)» 
 
 ----
 
@@ -990,7 +989,7 @@ bpn9062
 
 -- Bahá'u'lláh
 
-bpn9063 
+bpn9063 «[اُردُو](../ur/prayers/#bpn9063)» 
 
 ----
 
@@ -1000,7 +999,7 @@ bpn9063
 
 -- Bahá'u'lláh
 
-bpn9064 
+bpn9064 «[اُردُو](../ur/prayers/#bpn9064)» 
 
 ----
 
@@ -1010,7 +1009,7 @@ bpn9064
 
 -- Bahá'u'lláh
 
-bpn9065 
+bpn9065 «[اُردُو](../ur/prayers/#bpn9065)» 
 
 ----
 
@@ -1020,7 +1019,7 @@ bpn9065
 
 -- Bahá'u'lláh
 
-bpn9066 
+bpn9066 «[اُردُو](../ur/prayers/#bpn9066)» 
 
 ----
 
@@ -1030,7 +1029,7 @@ bpn9066
 
 -- Bahá'u'lláh
 
-bpn9067 
+bpn9067 «[اُردُو](../ur/prayers/#bpn9067)» 
 
 ----
 
@@ -1040,7 +1039,7 @@ bpn9067
 
 -- Bahá'u'lláh
 
-bpn9068 
+bpn9068 «[اُردُو](../ur/prayers/#bpn9068)» 
 
 ----
 
@@ -1050,7 +1049,7 @@ bpn9068
 
 -- Bahá'u'lláh
 
-bpn9069 
+bpn9069 «[اُردُو](../ur/prayers/#bpn9069)» 
 
 ----
 
@@ -1060,7 +1059,7 @@ bpn9069
 
 -- Bahá'u'lláh
 
-bpn9070 
+bpn9070 «[اُردُو](../ur/prayers/#bpn9070)» 
 
 ----
 
@@ -1070,7 +1069,7 @@ bpn9070
 
 -- Bahá'u'lláh
 
-bpn9071 
+bpn9071 «[اُردُو](../ur/prayers/#bpn9071)» 
 
 ----
 
@@ -1080,7 +1079,7 @@ bpn9071
 
 -- Bahá'u'lláh
 
-bpn9072 
+bpn9072 «[اُردُو](../ur/prayers/#bpn9072)» 
 
 ----
 
@@ -1090,7 +1089,7 @@ bpn9072
 
 -- Bahá'u'lláh
 
-bpn9073 
+bpn9073 «[اُردُو](../ur/prayers/#bpn9073)» 
 
 ----
 
@@ -1100,7 +1099,7 @@ bpn9073
 
 -- Bahá'u'lláh
 
-bpn9074 
+bpn9074 «[اُردُو](../ur/prayers/#bpn9074)» 
 
 ----
 
@@ -1110,7 +1109,7 @@ bpn9074
 
 -- Bahá'u'lláh
 
-bpn9075 
+bpn9075 «[اُردُو](../ur/prayers/#bpn9075)» 
 
 ----
 
@@ -1120,7 +1119,7 @@ bpn9075
 
 -- Bahá'u'lláh
 
-bpn9076 
+bpn9076 «[اُردُو](../ur/prayers/#bpn9076)» 
 
 ----
 
@@ -1130,7 +1129,7 @@ bpn9076
 
 -- Bahá'u'lláh
 
-bpn9077 
+bpn9077 «[اُردُو](../ur/prayers/#bpn9077)» 
 
 ----
 
@@ -1140,7 +1139,7 @@ bpn9077
 
 -- Bahá'u'lláh
 
-bpn9078 
+bpn9078 «[اُردُو](../ur/prayers/#bpn9078)» 
 
 ----
 
@@ -1150,7 +1149,7 @@ bpn9078
 
 -- Bahá'u'lláh
 
-bpn9079 
+bpn9079 «[اُردُو](../ur/prayers/#bpn9079)» 
 
 ----
 
@@ -1160,7 +1159,7 @@ bpn9079
 
 -- Bahá'u'lláh
 
-bpn9080 
+bpn9080 «[اُردُو](../ur/prayers/#bpn9080)» 
 
 ----
 
@@ -1170,7 +1169,7 @@ bpn9080
 
 -- Bahá'u'lláh
 
-bpn9081 
+bpn9081 «[اُردُو](../ur/prayers/#bpn9081)» 
 
 ----
 
@@ -1180,7 +1179,7 @@ bpn9081
 
 -- Bahá'u'lláh
 
-bpn9082 
+bpn9082 «[اُردُو](../ur/prayers/#bpn9082)» 
 
 ----
 
@@ -1190,7 +1189,7 @@ bpn9082
 
 -- Bahá'u'lláh
 
-bpn9083 
+bpn9083 «[اُردُو](../ur/prayers/#bpn9083)» 
 
 ----
 
@@ -1200,7 +1199,7 @@ bpn9083
 
 -- Bahá'u'lláh
 
-bpn9084 
+bpn9084 «[اُردُو](../ur/prayers/#bpn9084)» 
 
 ----
 
@@ -1210,7 +1209,7 @@ bpn9084
 
 -- Bahá'u'lláh
 
-bpn9085 
+bpn9085 «[اُردُو](../ur/prayers/#bpn9085)» 
 
 ----
 
@@ -1220,7 +1219,7 @@ bpn9085
 
 -- Bahá'u'lláh
 
-bpn9086 
+bpn9086 «[اُردُو](../ur/prayers/#bpn9086)» 
 
 ----
 
@@ -1230,7 +1229,7 @@ bpn9086
 
 -- Bahá'u'lláh
 
-bpn9087 
+bpn9087 «[اُردُو](../ur/prayers/#bpn9087)» 
 
 ----
 
@@ -1240,7 +1239,7 @@ bpn9087
 
 -- Bahá'u'lláh
 
-bpn9088 
+bpn9088 «[اُردُو](../ur/prayers/#bpn9088)» 
 
 ----
 
@@ -1250,7 +1249,7 @@ bpn9088
 
 -- Bahá'u'lláh
 
-bpn9089 
+bpn9089 «[اُردُو](../ur/prayers/#bpn9089)» 
 
 ----
 
@@ -1260,7 +1259,7 @@ bpn9089
 
 -- Bahá'u'lláh
 
-bpn9090 
+bpn9090 «[اُردُو](../ur/prayers/#bpn9090)» 
 
 ----
 
@@ -1270,7 +1269,7 @@ bpn9090
 
 -- Bahá'u'lláh
 
-bpn9091 
+bpn9091 «[اُردُو](../ur/prayers/#bpn9091)» 
 
 ----
 
@@ -1280,7 +1279,7 @@ bpn9091
 
 -- Bahá'u'lláh
 
-bpn9092 
+bpn9092 «[اُردُو](../ur/prayers/#bpn9092)» 
 
 ----
 
@@ -1290,7 +1289,7 @@ bpn9092
 
 -- Bahá'u'lláh
 
-bpn9093 
+bpn9093 «[اُردُو](../ur/prayers/#bpn9093)» 
 
 ----
 
@@ -1300,7 +1299,7 @@ bpn9093
 
 -- Bahá'u'lláh
 
-bpn9094 
+bpn9094 «[اُردُو](../ur/prayers/#bpn9094)» 
 
 ----
 
@@ -1314,7 +1313,7 @@ bpn9094
 
 -- Abdu'l-Bahá
 
-bpn8961 
+bpn8961 «[اُردُو](../ur/prayers/#bpn8961)» 
 
 ----
 
@@ -1324,7 +1323,7 @@ bpn8961
 
 -- Abdu'l-Bahá
 
-bpn8962 
+bpn8962 «[اُردُو](../ur/prayers/#bpn8962)» 
 
 ----
 
@@ -1338,7 +1337,7 @@ bpn8962
 
 -- Bahá'u'lláh
 
-bpn8972 
+bpn8972 «[اُردُو](../ur/prayers/#bpn8972)» 
 
 ----
 
@@ -1352,7 +1351,7 @@ bpn8972
 
 -- Bahá'u'lláh
 
-bpn8971 
+bpn8971 «[اُردُو](../ur/prayers/#bpn8971)» 
 
 ----
 
@@ -1366,7 +1365,7 @@ bpn8971
 
 -- Bahá'u'lláh
 
-bpn8959 
+bpn8959 «[اُردُو](../ur/prayers/#bpn8959)» 
 
 ----
 
@@ -1380,7 +1379,7 @@ bpn8959
 
 -- Bahá'u'lláh
 
-bpn8960 
+bpn8960 «[اُردُو](../ur/prayers/#bpn8960)» 
 
 ----
 
@@ -1394,7 +1393,7 @@ bpn8960
 
 -- Bahá'u'lláh
 
-bpn8970 
+bpn8970 «[اُردُو](../ur/prayers/#bpn8970)» 
 
 ----
 
@@ -1408,7 +1407,7 @@ bpn8970
 
 -- Bahá'u'lláh
 
-bpn8967 
+bpn8967 «[اُردُو](../ur/prayers/#bpn8967)» 
 
 ----
 
@@ -1436,7 +1435,7 @@ bpn8958 «[اُردُو](../ur/prayers/#bpn8958)»
 
 -- Bahá'u'lláh
 
-bpn8957 
+bpn8957 «[اُردُو](../ur/prayers/#bpn8957)» 
 
 ----
 
@@ -1450,7 +1449,7 @@ bpn8957
 
 -- Bahá'u'lláh
 
-bpn8968 
+bpn8968 «[اُردُو](../ur/prayers/#bpn8968)» 
 
 ----
 
@@ -1464,7 +1463,7 @@ bpn8968
 
 -- Bahá'u'lláh
 
-bpn8964 
+bpn8964 «[اُردُو](../ur/prayers/#bpn8964)» 
 
 ----
 
@@ -1478,7 +1477,7 @@ bpn8964
 
 -- Abdu'l-Bahá
 
-bpn8965 
+bpn8965 «[اُردُو](../ur/prayers/#bpn8965)» 
 
 ----
 

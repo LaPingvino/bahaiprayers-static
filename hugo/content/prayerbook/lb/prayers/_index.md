@@ -95,7 +95,7 @@ Hien ass Gott.O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awu
 
 -- Abdu'l-Bahá
 
-bpn13400 
+bpn13400 «[Lëtzebuergesch](../lb/prayers/#bpn13400)» 
 
 ----
 
@@ -105,7 +105,7 @@ O Du onsiichtbare Frënd! O Verlaange vun allem an dëser Welt an der Welt, déi
 
 -- Abdu'l-Bahá
 
-bpn13401 
+bpn13401 «[Lëtzebuergesch](../lb/prayers/#bpn13401)» 
 
 ----
 
@@ -115,7 +115,7 @@ O Du onvergläichlechen Här, dee gär huet! Och wann et u Fäegkeet a Begabung 
 
 -- Abdu'l-Bahá
 
-bpn13402 
+bpn13402 «[Lëtzebuergesch](../lb/prayers/#bpn13402)» 
 
 ----
 
@@ -125,7 +125,7 @@ O Du mäin éiweg Beléiften an ugebiete Frënd! Wéi laang soll Deng Presenz mi
 
 -- Abdu'l-Bahá
 
-bpn13403 
+bpn13403 «[Lëtzebuergesch](../lb/prayers/#bpn13403)» 
 
 ----
 
@@ -135,7 +135,7 @@ O Du gudden Här! Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger L�
 
 -- Abdu'l-Bahá
 
-bpn13404 
+bpn13404 «[Lëtzebuergesch](../lb/prayers/#bpn13404)» 
 
 ----
 
@@ -145,7 +145,7 @@ O gëttlech Vorseeung! Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hinde
 
 -- Abdu'l-Bahá
 
-bpn13405 
+bpn13405 «[Lëtzebuergesch](../lb/prayers/#bpn13405)» 
 
 ----
 
@@ -155,7 +155,7 @@ O baarmhäerzege Gott!O Du, den Allmächtegen! Ech sinn nëmmen e schwaachen Dé
 
 -- Abdu'l-Bahá
 
-bpn13406 
+bpn13406 «[Lëtzebuergesch](../lb/prayers/#bpn13406)» 
 
 ----
 
@@ -165,7 +165,7 @@ O gëttlech Vorseeung! Erwäch mech a maach mech bewosst. Looss mech lassgeléis
 
 -- Abdu'l-Bahá
 
-bpn13407 
+bpn13407 «[Lëtzebuergesch](../lb/prayers/#bpn13407)» 
 
 ----
 
@@ -175,7 +175,7 @@ Hien ass Gott.OGott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden 
 
 -- Abdu'l-Bahá
 
-bpn13408 
+bpn13408 «[Lëtzebuergesch](../lb/prayers/#bpn13408)» 
 
 ----
 
@@ -185,7 +185,7 @@ O Här! Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an 
 
 -- Abdu'l-Bahá
 
-bpn13409 
+bpn13409 «[Lëtzebuergesch](../lb/prayers/#bpn13409)» 
 
 ----
 
@@ -195,7 +195,7 @@ O Du, dee gëtt, O Du, dee verzeit!  Eng nobel Séil ass an d’Kinnekräich vun
 
 -- Abdu'l-Bahá
 
-bpn13410 
+bpn13410 «[Lëtzebuergesch](../lb/prayers/#bpn13410)» 
 
 ----
 
@@ -205,7 +205,7 @@ Hien ass Gott.ODu verzeienden Här! Dës Dénger waren nobel Séilen, an dës st
 
 -- Abdu'l-Bahá
 
-bpn13411 
+bpn13411 «[Lëtzebuergesch](../lb/prayers/#bpn13411)» 
 
 ----
 
@@ -215,7 +215,7 @@ O gëttlech Vorseeung! Dauch de Papp an d’Mamm vun dësem Dénger un Denger Sc
 
 -- Abdu'l-Bahá
 
-bpn13412 
+bpn13412 «[Lëtzebuergesch](../lb/prayers/#bpn13412)» 
 
 ----
 
@@ -225,7 +225,7 @@ O du gudden Här! Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng S�
 
 -- Abdu'l-Bahá
 
-bpn13413 
+bpn13413 «[Lëtzebuergesch](../lb/prayers/#bpn13413)» 
 
 ----
 
@@ -235,7 +235,7 @@ O Här!Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut
 
 -- Abdu'l-Bahá
 
-bpn13414 
+bpn13414 «[Lëtzebuergesch](../lb/prayers/#bpn13414)» 
 
 ----
 
@@ -245,7 +245,7 @@ O Du Allmächtegen Här!Mir sinn all am mächtege Grëff vum Denger Muecht gehal
 
 -- Abdu'l-Bahá
 
-bpn13415 
+bpn13415 «[Lëtzebuergesch](../lb/prayers/#bpn13415)» 
 
 ----
 
@@ -255,7 +255,7 @@ Hien ass den Hellegsten, den Herrlechsten.Am Numm vu Gott, de Matleedvollen, de 
 
 -- Abdu'l-Bahá
 
-bpn13416 
+bpn13416 «[Lëtzebuergesch](../lb/prayers/#bpn13416)» 
 
 ----
 
@@ -265,7 +265,7 @@ O Här, eise Gott! Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. M
 
 -- Abdu'l-Bahá
 
-bpn13417 
+bpn13417 «[Lëtzebuergesch](../lb/prayers/#bpn13417)» 
 
 ----
 
@@ -275,7 +275,7 @@ Hien ass Gott.ODu gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch ma
 
 -- Abdu'l-Bahá
 
-bpn13418 
+bpn13418 «[Lëtzebuergesch](../lb/prayers/#bpn13418)» 
 
 ----
 
@@ -285,7 +285,7 @@ Hien ass den Allherrlechen.O mäin Här, mäi Kinnek, mäin Herrscher, a mäi So
 
 -- Abdu'l-Bahá
 
-bpn13419 
+bpn13419 «[Lëtzebuergesch](../lb/prayers/#bpn13419)» 
 
 ----
 
@@ -295,7 +295,7 @@ O mäi léiwen Här, o Du, de Wonsch vu mengem Häerz a menger Séil!Schenk Deng
 
 -- Abdu'l-Bahá
 
-bpn13420 
+bpn13420 «[Lëtzebuergesch](../lb/prayers/#bpn13420)» 
 
 ----
 
@@ -305,7 +305,7 @@ O gëttlech Vorseeung, Du bass den Ëmmerverzeienden! ODu allmächtege Gott, Du 
 
 -- Abdu'l-Bahá
 
-bpn13421 
+bpn13421 «[Lëtzebuergesch](../lb/prayers/#bpn13421)» 
 
 ----
 
@@ -315,7 +315,7 @@ O Du onvergläichleche Gott! Mir sinn Deng damiddeg Dénger an Du bass den Allm�
 
 -- Abdu'l-Bahá
 
-bpn13422 
+bpn13422 «[Lëtzebuergesch](../lb/prayers/#bpn13422)» 
 
 ----
 
@@ -325,7 +325,7 @@ Hien ass Gott.OGott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damidd
 
 -- Abdu'l-Bahá
 
-bpn13423 
+bpn13423 «[Lëtzebuergesch](../lb/prayers/#bpn13423)» 
 
 ----
 
@@ -335,7 +335,7 @@ O Här, sou räich u Guttheet a mat Gnod sou voll, Dat Wëssen, ech zudéifst an
 
 -- Abdu'l-Bahá
 
-bpn13424 
+bpn13424 «[Lëtzebuergesch](../lb/prayers/#bpn13424)» 
 
 ----
 
@@ -345,7 +345,7 @@ Hien ass den Allherrlechen, de Stralendsten.O gëttlech Vorseeung, o verzeienden
 
 -- Abdu'l-Bahá
 
-bpn13667 
+bpn13667 «[Lëtzebuergesch](../lb/prayers/#bpn13667)» 
 
 ----
 
@@ -359,7 +359,7 @@ bpn13667
 
 -- Bahá'u'lláh
 
-bpn13653 
+bpn13653 «[Lëtzebuergesch](../lb/prayers/#bpn13653)» 
 
 ----
 
@@ -373,7 +373,7 @@ bpn13653
 
 -- Bahá'u'lláh
 
-bpn13662 
+bpn13662 «[Lëtzebuergesch](../lb/prayers/#bpn13662)» 
 
 ----
 
@@ -387,7 +387,7 @@ bpn13662
 
 -- Abdu'l-Bahá
 
-bpn13663 
+bpn13663 «[Lëtzebuergesch](../lb/prayers/#bpn13663)» 
 
 ----
 
@@ -401,7 +401,7 @@ Verfesteg eis Schrëtt op Dengem Pad, o Här, a stäerk Du eis Häerzer andeems 
 
 -- Abdu'l-Bahá
 
-bpn13574 
+bpn13574 «[Lëtzebuergesch](../lb/prayers/#bpn13574)» 
 
 ----
 
@@ -415,7 +415,7 @@ Schaf a mir e rengt Häerz, o mäi Gott, a gëff mir op en Neits e rouegt Gewës
 
 -- Bahá'u'lláh
 
-bpn8213 
+bpn8213 «[Lëtzebuergesch](../lb/prayers/#bpn8213)» 
 
 ----
 
@@ -425,7 +425,7 @@ O Gott, mäi Gott! Du bass meng Hoffnung an Deen, deen ech gär hunn, mäin héc
 
 -- Abdu'l-Bahá
 
-bpn8217 
+bpn8217 «[Lëtzebuergesch](../lb/prayers/#bpn8217)» 
 
 ----
 
@@ -439,7 +439,7 @@ O mäi Gott, o mäi Gott! Vereeneg d’Häerzer vun Dengen Dénger a weis hinnen
 
 -- Bahá'u'lláh
 
-bpn8211 
+bpn8211 «[Lëtzebuergesch](../lb/prayers/#bpn8211)» 
 
 ----
 
@@ -449,7 +449,7 @@ O du gudden Här! Du hues d’ganz Mënschheet aus deem selwechte Stamm erschaf.
 
 -- Abdu'l-Bahá
 
-bpn13575 
+bpn13575 «[Lëtzebuergesch](../lb/prayers/#bpn13575)» 
 
 ----
 
@@ -463,7 +463,7 @@ Et gehéiert sech, dass den Dénger no all Gebiet Gott biet, sengen Elteren Erba
 
 -- Báb
 
-bpn13576 
+bpn13576 «[Lëtzebuergesch](../lb/prayers/#bpn13576)» 
 
 ----
 
@@ -473,7 +473,7 @@ O Här! An dëser gréisster Offenbarung akzeptéiers Du d’Gebieder vun de Kan
 
 -- Abdu'l-Bahá
 
-bpn13577 
+bpn13577 «[Lëtzebuergesch](../lb/prayers/#bpn13577)» 
 
 ----
 
@@ -483,7 +483,7 @@ O gëttlech Vorseeung!Dauch de Papp an d’Mamm vun dësem Dénger un Denger Sch
 
 -- Abdu'l-Bahá
 
-bpn13578 
+bpn13578 «[Lëtzebuergesch](../lb/prayers/#bpn13578)» 
 
 ----
 
@@ -497,7 +497,7 @@ O mäi Gott, hëllef Du Dengem Dénger Däi Wuert ze erhéijen, alles ze verwerf
 
 -- Abdu'l-Bahá
 
-bpn13579 
+bpn13579 «[Lëtzebuergesch](../lb/prayers/#bpn13579)» 
 
 ----
 
@@ -507,7 +507,7 @@ O Gott, mäi Gott! Hëllef Dengen treien Dénger, Häerzer ze hunn, déi voller 
 
 -- Abdu'l-Bahá
 
-bpn13580 
+bpn13580 «[Lëtzebuergesch](../lb/prayers/#bpn13580)» 
 
 ----
 
@@ -517,7 +517,7 @@ O Du onvergläichleche Gott! O Du Här vum Kinnekräich! Dës Séilen sinn Deng 
 
 -- Abdu'l-Bahá
 
-bpn13581 
+bpn13581 «[Lëtzebuergesch](../lb/prayers/#bpn13581)» 
 
 ----
 
@@ -527,7 +527,7 @@ O mäi Gott! O mäi Gott! Du gesäis, wéi ech mech, kleng a schwaach, mat der g
 
 -- Abdu'l-Bahá
 
-bpn13582 
+bpn13582 «[Lëtzebuergesch](../lb/prayers/#bpn13582)» 
 
 ----
 
@@ -537,7 +537,7 @@ O Gott, o Du, deen s Du Deng Herrlechkeet iwwer déi liichtend Wierklechkeete vu
 
 -- Abdu'l-Bahá
 
-bpn13583 
+bpn13583 «[Lëtzebuergesch](../lb/prayers/#bpn13583)» 
 
 ----
 
@@ -551,7 +551,7 @@ Gëtt et een, dee Schwieregkeeten ewechhëlt ausser Gott? So: Gelueft sief Gott!
 
 -- Báb
 
-bpn13584 
+bpn13584 «[Lëtzebuergesch](../lb/prayers/#bpn13584)» 
 
 ----
 
@@ -561,7 +561,7 @@ So: Gott geet allem duer, an iwwer alles ewech, an näischt an den Himmelen an o
 
 -- Báb
 
-bpn13585 
+bpn13585 «[Lëtzebuergesch](../lb/prayers/#bpn13585)» 
 
 ----
 
@@ -571,7 +571,7 @@ O gëttlech Vorseeung!Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hinder
 
 -- Abdu'l-Bahá
 
-bpn13586 
+bpn13586 «[Lëtzebuergesch](../lb/prayers/#bpn13586)» 
 
 ----
 
@@ -581,7 +581,7 @@ O Du onvergläichleche Gott!Mir sinn Deng damiddeg Dénger an Du bass den Allmä
 
 -- Abdu'l-Bahá
 
-bpn13587 
+bpn13587 «[Lëtzebuergesch](../lb/prayers/#bpn13587)» 
 
 ----
 
@@ -595,7 +595,7 @@ bpn13587
 
 -- Bahá'u'lláh
 
-bpn13654 
+bpn13654 «[Lëtzebuergesch](../lb/prayers/#bpn13654)» 
 
 ----
 
@@ -605,7 +605,7 @@ Glécklech sidd dir, dass dir dem Gebot vu Gott gefollegt an dëst Faaschten an 
 
 -- Abdu'l-Bahá
 
-bpn13655 
+bpn13655 «[Lëtzebuergesch](../lb/prayers/#bpn13655)» 
 
 ----
 
@@ -615,7 +615,7 @@ O Gott! Esou wéi ech mech vu kierperleche Wënsch enthalen a mech net mat Iesse
 
 -- Abdu'l-Bahá
 
-bpn13656 
+bpn13656 «[Lëtzebuergesch](../lb/prayers/#bpn13656)» 
 
 ----
 
@@ -629,7 +629,7 @@ O du matleedvolle Gott! Schenk mer en Häerz, dat wéi e Glas, mam Liicht vun De
 
 -- Abdu'l-Bahá
 
-bpn8210 
+bpn8210 «[Lëtzebuergesch](../lb/prayers/#bpn8210)» 
 
 ----
 
@@ -643,7 +643,7 @@ bpn8210
 
 -- Abdu'l-Bahá
 
-bpn13590 
+bpn13590 «[Lëtzebuergesch](../lb/prayers/#bpn13590)» 
 
 ----
 
@@ -657,7 +657,7 @@ O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vu
 
 -- Abdu'l-Bahá
 
-bpn13588 
+bpn13588 «[Lëtzebuergesch](../lb/prayers/#bpn13588)» 
 
 ----
 
@@ -667,7 +667,7 @@ O Här, eise Gott!Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. Mi
 
 -- Abdu'l-Bahá
 
-bpn13589 
+bpn13589 «[Lëtzebuergesch](../lb/prayers/#bpn13589)» 
 
 ----
 
@@ -681,7 +681,7 @@ Ech bieden Dech, o mäi Gott, bei all der transzendenter Éier vun Dengem Numm, 
 
 -- Bahá'u'lláh
 
-bpn13591 
+bpn13591 «[Lëtzebuergesch](../lb/prayers/#bpn13591)» 
 
 ----
 
@@ -691,7 +691,7 @@ Vun de séiss-doftege Stréimunge vun Denger Éiwegkeet gëff mer ze drénken, o
 
 -- Bahá'u'lláh
 
-bpn13592 
+bpn13592 «[Lëtzebuergesch](../lb/prayers/#bpn13592)» 
 
 ----
 
@@ -701,7 +701,7 @@ O mäin Här! Looss deng Schéinheet meng Narung ginn, Deng Präsenz mäi Gedré
 
 -- Bahá'u'lláh
 
-bpn13593 
+bpn13593 «[Lëtzebuergesch](../lb/prayers/#bpn13593)» 
 
 ----
 
@@ -711,7 +711,7 @@ Verherrlecht sief Däin Numm, o mäi Gott, duerch deen d’Beem am Gaart vun Den
 
 -- Bahá'u'lláh
 
-bpn13594 
+bpn13594 «[Lëtzebuergesch](../lb/prayers/#bpn13594)» 
 
 ----
 
@@ -721,7 +721,7 @@ O Här!Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut
 
 -- Abdu'l-Bahá
 
-bpn13595 
+bpn13595 «[Lëtzebuergesch](../lb/prayers/#bpn13595)» 
 
 ----
 
@@ -731,7 +731,7 @@ Hien ass Gott.O Du gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch m
 
 -- Abdu'l-Bahá
 
-bpn13596 
+bpn13596 «[Lëtzebuergesch](../lb/prayers/#bpn13596)» 
 
 ----
 
@@ -745,7 +745,7 @@ O Här! Erméiglech alle Vëlker vun der Äerd an d’Paradis vun Dengem Glawen 
 
 -- Báb
 
-bpn13597 
+bpn13597 «[Lëtzebuergesch](../lb/prayers/#bpn13597)» 
 
 ----
 
@@ -759,7 +759,7 @@ Däin Numm ass meng Heelung, o mäi Gott, an Denger ze gedenken ass meng Medezin
 
 -- Bahá'u'lláh
 
-bpn13598 
+bpn13598 «[Lëtzebuergesch](../lb/prayers/#bpn13598)» 
 
 ----
 
@@ -769,7 +769,7 @@ bpn13598
 
 -- Bahá'u'lláh
 
-bpn13599 
+bpn13599 «[Lëtzebuergesch](../lb/prayers/#bpn13599)» 
 
 ----
 
@@ -779,7 +779,7 @@ Wien de séissen Doft vu Gott verbreet, soll all Mueren dëst Gebiet soen:O Gott
 
 -- Abdu'l-Bahá
 
-bpn13600 
+bpn13600 «[Lëtzebuergesch](../lb/prayers/#bpn13600)» 
 
 ----
 
@@ -789,7 +789,7 @@ Hien ass Gott.O Gott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden
 
 -- Abdu'l-Bahá
 
-bpn13601 
+bpn13601 «[Lëtzebuergesch](../lb/prayers/#bpn13601)» 
 
 ----
 
@@ -803,7 +803,7 @@ bpn13601
 
 -- Bahá'u'lláh
 
-bpn13608 
+bpn13608 «[Lëtzebuergesch](../lb/prayers/#bpn13608)» 
 
 ----
 
@@ -817,7 +817,7 @@ Verherrlecht bass Du, o Här vun der ganzer Schëpfung, deen Een, deem sech alle
 
 -- Bahá'u'lláh
 
-bpn13657 
+bpn13657 «[Lëtzebuergesch](../lb/prayers/#bpn13657)» 
 
 ----
 
@@ -831,7 +831,7 @@ O Gott, Däin Ubléck ass d‘Zil vu menger Ubiedung! Deng Schéinheet ass helle
 
 -- Bahá'u'lláh
 
-bpn13602 
+bpn13602 «[Lëtzebuergesch](../lb/prayers/#bpn13602)» 
 
 ----
 
@@ -841,7 +841,7 @@ O mäi Gott! Ech froen dech, bei Dengem herrlechsten Numm, mir an deem ze hëlle
 
 -- Bahá'u'lláh
 
-bpn13603 
+bpn13603 «[Lëtzebuergesch](../lb/prayers/#bpn13603)» 
 
 ----
 
@@ -851,7 +851,7 @@ O Du Allmächtegen! Gëff Denge Schwaachen Deng Stäerkt, a belief déi, déi w�
 
 -- Bahá'u'lláh
 
-bpn13604 
+bpn13604 «[Lëtzebuergesch](../lb/prayers/#bpn13604)» 
 
 ----
 
@@ -861,7 +861,7 @@ Här! Mir si bematleedenswäert, schenk eis Deng Gonscht; mir sinn aarm, schenk 
 
 -- Abdu'l-Bahá
 
-bpn8214 
+bpn8214 «[Lëtzebuergesch](../lb/prayers/#bpn8214)» 
 
 ----
 
@@ -871,7 +871,7 @@ O Här, raum net de festlechen Dësch of, deen an Dengem Numm gedeckt ass, an er
 
 -- Abdu'l-Bahá
 
-bpn13605 
+bpn13605 «[Lëtzebuergesch](../lb/prayers/#bpn13605)» 
 
 ----
 
@@ -881,7 +881,7 @@ Hien ass de Baarmhäerzegen, de Ganzgeneréisen! O Gott, mäi Gott! Du gesäis m
 
 -- Abdu'l-Bahá
 
-bpn13606 
+bpn13606 «[Lëtzebuergesch](../lb/prayers/#bpn13606)» 
 
 ----
 
@@ -891,7 +891,7 @@ O Du onsiichtbare Frënd!O Verlaange vun allem an dëser Welt an der Welt, déi 
 
 -- Abdu'l-Bahá
 
-bpn13607 
+bpn13607 «[Lëtzebuergesch](../lb/prayers/#bpn13607)» 
 
 ----
 
@@ -905,7 +905,7 @@ O Här! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Gu
 
 -- Abdu'l-Bahá
 
-bpn13609 
+bpn13609 «[Lëtzebuergesch](../lb/prayers/#bpn13609)» 
 
 ----
 
@@ -919,7 +919,7 @@ Gelueft bass Du, o Här mäi Gott! Erméiglech, duerch Deng Gnod, dass dëst Kan
 
 -- Bahá'u'lláh
 
-bpn13610 
+bpn13610 «[Lëtzebuergesch](../lb/prayers/#bpn13610)» 
 
 ----
 
@@ -929,7 +929,7 @@ Verherrlecht bass Du, O Här mäi Gott! Ech soen Dir Merci, dass Du mech an Deng
 
 -- Bahá'u'lláh
 
-bpn13611 
+bpn13611 «[Lëtzebuergesch](../lb/prayers/#bpn13611)» 
 
 ----
 
@@ -939,7 +939,7 @@ O Du onvergläichlechen Här! Nier dëse Puppelchen un der Broscht vun Denger L�
 
 -- Abdu'l-Bahá
 
-bpn13612 
+bpn13612 «[Lëtzebuergesch](../lb/prayers/#bpn13612)» 
 
 ----
 
@@ -949,7 +949,7 @@ O Här! Maach aus dëse Kanner wonnerbar Planzen. Looss se wuessen a gedeien am 
 
 -- Abdu'l-Bahá
 
-bpn13613 
+bpn13613 «[Lëtzebuergesch](../lb/prayers/#bpn13613)» 
 
 ----
 
@@ -959,7 +959,7 @@ Hien ass Gott! O Gott, mäi Gott! Schenk mir en Häerz, sou reng wéi eng Pärel
 
 -- Abdu'l-Bahá
 
-bpn13614 
+bpn13614 «[Lëtzebuergesch](../lb/prayers/#bpn13614)» 
 
 ----
 
@@ -969,7 +969,7 @@ O Gott, leed mech, hal Deng Hand iwwer mech, maach aus mir eng stralend Luucht a
 
 -- Abdu'l-Bahá
 
-bpn13615 
+bpn13615 «[Lëtzebuergesch](../lb/prayers/#bpn13615)» 
 
 ----
 
@@ -979,7 +979,7 @@ O mäin Här! O mäin Här!Ech sinn e Kand am zaarten Alter. Nier mech un der Br
 
 -- Abdu'l-Bahá
 
-bpn13616 
+bpn13616 «[Lëtzebuergesch](../lb/prayers/#bpn13616)» 
 
 ----
 
@@ -989,7 +989,7 @@ O Gott! Erzéi dëst Këndchen am Schouss vun Denger Léift, a gëff him Mëllec
 
 -- Abdu'l-Bahá
 
-bpn13617 
+bpn13617 «[Lëtzebuergesch](../lb/prayers/#bpn13617)» 
 
 ----
 
@@ -999,7 +999,7 @@ O Gott! Erzéi dës Kanner. Dës Kanner sinn d’Planzen aus Dengem Bongert, d�
 
 -- Abdu'l-Bahá
 
-bpn13618 
+bpn13618 «[Lëtzebuergesch](../lb/prayers/#bpn13618)» 
 
 ----
 
@@ -1009,7 +1009,7 @@ O Du onvergläichlechen Här! Sief Du dësem aarme Kand e Schutz, an dëser veri
 
 -- Abdu'l-Bahá
 
-bpn13619 
+bpn13619 «[Lëtzebuergesch](../lb/prayers/#bpn13619)» 
 
 ----
 
@@ -1019,7 +1019,7 @@ O Du renge Gott! Ech sinn e klengt Kand; maach, dass ech d’Broscht vun Denger 
 
 -- Abdu'l-Bahá
 
-bpn13620 
+bpn13620 «[Lëtzebuergesch](../lb/prayers/#bpn13620)» 
 
 ----
 
@@ -1033,7 +1033,7 @@ O Du gudden Här! Dës häerzeg Kanner sinn d’Wierk vun Denger mächteger Hand
 
 -- Abdu'l-Bahá
 
-bpn8215 
+bpn8215 «[Lëtzebuergesch](../lb/prayers/#bpn8215)» 
 
 ----
 
@@ -1043,7 +1043,7 @@ O Här ! Ech si schwaach, stäerk mech mat Denger Kraaft a Muecht. Meng Zong zé
 
 -- Abdu'l-Bahá
 
-bpn8209 
+bpn8209 «[Lëtzebuergesch](../lb/prayers/#bpn8209)» 
 
 ----
 
@@ -1053,7 +1053,7 @@ O Här! Stäerk dës zaart  Beemercher, fir datt all eenzelne vun hinnen e Bam m
 
 -- Abdu'l-Bahá
 
-bpn8216 
+bpn8216 «[Lëtzebuergesch](../lb/prayers/#bpn8216)» 
 
 ----
 
@@ -1063,7 +1063,7 @@ O Här ! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng G
 
 -- Abdu'l-Bahá
 
-bpn8208 
+bpn8208 «[Lëtzebuergesch](../lb/prayers/#bpn8208)» 
 
 ----
 
@@ -1077,7 +1077,7 @@ bpn8208
 
 -- Bahá'u'lláh
 
-bpn13664 
+bpn13664 «[Lëtzebuergesch](../lb/prayers/#bpn13664)» 
 
 ----
 
@@ -1091,7 +1091,7 @@ bpn13664
 
 -- Bahá'u'lláh
 
-bpn13666 
+bpn13666 «[Lëtzebuergesch](../lb/prayers/#bpn13666)» 
 
 ----
 
@@ -1105,7 +1105,7 @@ Ech weess net, o mäi Gott, wat d’Feier ass, dat s Du an Dengem Land ugefaange
 
 -- Bahá'u'lláh
 
-bpn13621 
+bpn13621 «[Lëtzebuergesch](../lb/prayers/#bpn13621)» 
 
 ----
 
@@ -1115,7 +1115,7 @@ O gëttlech Vorseeung!Erwäch mech a maach mech bewosst. Looss mech lassgeléist
 
 -- Abdu'l-Bahá
 
-bpn13622 
+bpn13622 «[Lëtzebuergesch](../lb/prayers/#bpn13622)» 
 
 ----
 
@@ -1125,7 +1125,7 @@ O du gudden Här!Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Sé
 
 -- Abdu'l-Bahá
 
-bpn13623 
+bpn13623 «[Lëtzebuergesch](../lb/prayers/#bpn13623)» 
 
 ----
 
@@ -1139,7 +1139,7 @@ Mäi Gott, mäin Ugebieten, mäi Kinnek, mäi Begieren! Wéi eng Wierder kënne 
 
 -- Bahá'u'lláh
 
-bpn13624 
+bpn13624 «[Lëtzebuergesch](../lb/prayers/#bpn13624)» 
 
 ----
 
@@ -1149,7 +1149,7 @@ Hien ass Gott! O Här, wéi solle mir Dir Merci soen! Ouni Grenzen ass Deng Gutt
 
 -- Abdu'l-Bahá
 
-bpn13625 
+bpn13625 «[Lëtzebuergesch](../lb/prayers/#bpn13625)» 
 
 ----
 
@@ -1159,7 +1159,7 @@ Hien ass Gott.O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awu
 
 -- Abdu'l-Bahá
 
-bpn13626 
+bpn13626 «[Lëtzebuergesch](../lb/prayers/#bpn13626)» 
 
 ----
 
@@ -1169,7 +1169,7 @@ Hien ass den Allherrlechen, de Stralendsten.O gëttlech Vorseeung, o verzeienden
 
 -- Abdu'l-Bahá
 
-bpn13627 
+bpn13627 «[Lëtzebuergesch](../lb/prayers/#bpn13627)» 
 
 ----
 
@@ -1183,7 +1183,7 @@ Mäin Här! Mäin Här! Ech luewen Dech an ech sinn Dir dankbar fir d‘Gonscht 
 
 -- Abdu'l-Bahá
 
-bpn13628 
+bpn13628 «[Lëtzebuergesch](../lb/prayers/#bpn13628)» 
 
 ----
 
@@ -1197,7 +1197,7 @@ Looss all Moie besser si wéi den Owend virdrun an all neien Dag méi räich wé
 
 -- Abdu'l-Bahá
 
-bpn13630 
+bpn13630 «[Lëtzebuergesch](../lb/prayers/#bpn13630)» 
 
 ----
 
@@ -1207,7 +1207,7 @@ An Dengem Ënnerdaach sinn ech erwächt, o mäi Gott, an et gehéiert sech deem,
 
 -- Abdu'l-Bahá
 
-bpn13631 
+bpn13631 «[Lëtzebuergesch](../lb/prayers/#bpn13631)» 
 
 ----
 
@@ -1217,7 +1217,7 @@ O mäi Gott a mäi Meeschter! Ech sinn däin Dénger an de Jong vun dengem Déng
 
 -- Abdu'l-Bahá
 
-bpn13632 
+bpn13632 «[Lëtzebuergesch](../lb/prayers/#bpn13632)» 
 
 ----
 
@@ -1227,7 +1227,7 @@ Duerch Deng Gnod, o mäi Gott, sinn ech haut de Moien opgestan, a voll Vertrauen
 
 -- Abdu'l-Bahá
 
-bpn13633 
+bpn13633 «[Lëtzebuergesch](../lb/prayers/#bpn13633)» 
 
 ----
 
@@ -1237,7 +1237,7 @@ Ech luewen Dech, O mäi Gott, dass Du mech aus mengem Schlof erwächt hues an da
 
 -- Abdu'l-Bahá
 
-bpn13634 
+bpn13634 «[Lëtzebuergesch](../lb/prayers/#bpn13634)» 
 
 ----
 
@@ -1251,7 +1251,7 @@ bpn13634
 
 -- Bahá'u'lláh
 
-bpn13665 
+bpn13665 «[Lëtzebuergesch](../lb/prayers/#bpn13665)» 
 
 ----
 
@@ -1265,7 +1265,7 @@ O du, deen no der Wourecht sicht! Wann s du gär häss, dass Gott deng Aen opmé
 
 -- Abdu'l-Bahá
 
-bpn13629 
+bpn13629 «[Lëtzebuergesch](../lb/prayers/#bpn13629)» 
 
 ----
 
@@ -1279,7 +1279,7 @@ bpn13629
 
 -- Bahá'u'lláh
 
-bpn13658 
+bpn13658 «[Lëtzebuergesch](../lb/prayers/#bpn13658)» 
 
 ----
 
@@ -1293,7 +1293,7 @@ O mäi Gott, mäi Meeschter, d’Zil vu mengem Verlaangeren. Däin Dénger wëll
 
 -- Bahá'u'lláh
 
-bpn13635 
+bpn13635 «[Lëtzebuergesch](../lb/prayers/#bpn13635)» 
 
 ----
 
@@ -1303,7 +1303,7 @@ Wéi kann ech Schlof sichen, o Gott, mäi Gott, wann d’Ae vun deenen, déi no 
 
 -- Bahá'u'lláh
 
-bpn13636 
+bpn13636 «[Lëtzebuergesch](../lb/prayers/#bpn13636)» 
 
 ----
 
@@ -1317,7 +1317,7 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 
 -- Abdu'l-Bahá
 
-bpn8212 
+bpn8212 «[Lëtzebuergesch](../lb/prayers/#bpn8212)» 
 
 ----
 
@@ -1331,7 +1331,7 @@ bpn8212
 
 -- Bahá'u'lláh
 
-bpn13638 
+bpn13638 «[Lëtzebuergesch](../lb/prayers/#bpn13638)» 
 
 ----
 
@@ -1341,7 +1341,7 @@ bpn13638
 
 -- Báb
 
-bpn13637 
+bpn13637 «[Lëtzebuergesch](../lb/prayers/#bpn13637)» 
 
 ----
 
@@ -1351,7 +1351,7 @@ O mäin Här! Du weess dass d’Mënschen ëmzéngelt si vu Leed a Misär, an ë
 
 -- Abdu'l-Bahá
 
-bpn13639 
+bpn13639 «[Lëtzebuergesch](../lb/prayers/#bpn13639)» 
 
 ----
 
@@ -1361,7 +1361,7 @@ O Du gudden Här!Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger Lé
 
 -- Abdu'l-Bahá
 
-bpn13640 
+bpn13640 «[Lëtzebuergesch](../lb/prayers/#bpn13640)» 
 
 ----
 
@@ -1371,7 +1371,7 @@ Hien ass Gott.O Gott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damid
 
 -- Abdu'l-Bahá
 
-bpn13641 
+bpn13641 «[Lëtzebuergesch](../lb/prayers/#bpn13641)» 
 
 ----
 
@@ -1385,7 +1385,7 @@ O Här, mäi Gott! Stéi deene bäi, déi s Du gär hues, fir dass si fest an De
 
 -- Abdu'l-Bahá
 
-bpn13642 
+bpn13642 «[Lëtzebuergesch](../lb/prayers/#bpn13642)» 
 
 ----
 
@@ -1399,7 +1399,7 @@ bpn13642
 
 -- Bahá'u'lláh
 
-bpn13661 
+bpn13661 «[Lëtzebuergesch](../lb/prayers/#bpn13661)» 
 
 ----
 
@@ -1413,7 +1413,7 @@ Kommt zesummen a gréisster Freed a sot dëst Gebiet am Ufank vun der Versammlun
 
 -- Abdu'l-Bahá
 
-bpn13659 
+bpn13659 «[Lëtzebuergesch](../lb/prayers/#bpn13659)» 
 
 ----
 
@@ -1423,7 +1423,7 @@ Hien ass den Allherrlechen.O mäin Här, mäi Kinnek, mäin Herrscher, a mäi So
 
 -- Abdu'l-Bahá
 
-bpn13660 
+bpn13660 «[Lëtzebuergesch](../lb/prayers/#bpn13660)» 
 
 ----
 
@@ -1437,7 +1437,7 @@ bpn13660
 
 -- Bahá'u'lláh
 
-bpn13643 
+bpn13643 «[Lëtzebuergesch](../lb/prayers/#bpn13643)» 
 
 ----
 
@@ -1447,7 +1447,7 @@ O JONG VUN DER EXISTENZ! Lee dir selwer all Dag Rechenschaft of, éier s du zur 
 
 -- Bahá'u'lláh
 
-bpn13644 
+bpn13644 «[Lëtzebuergesch](../lb/prayers/#bpn13644)» 
 
 ----
 
@@ -1457,7 +1457,7 @@ Erlab, o mäin Här, dass déi, déi zu Dir eropkomm sinn, an Dir, dem beschte K
 
 -- Bahá'u'lláh
 
-bpn13645 
+bpn13645 «[Lëtzebuergesch](../lb/prayers/#bpn13645)» 
 
 ----
 
@@ -1467,7 +1467,7 @@ So: O Gott, mäi Gott! Du hues mengen Hänn e Schaz vun Dir uvertraut, an no Den
 
 -- Bahá'u'lláh
 
-bpn13646 
+bpn13646 «[Lëtzebuergesch](../lb/prayers/#bpn13646)» 
 
 ----
 
@@ -1477,7 +1477,7 @@ O Du, dee gëtt, O Du, dee verzeit!Eng nobel Séil ass an d’Kinnekräich vun d
 
 -- Abdu'l-Bahá
 
-bpn13647 
+bpn13647 «[Lëtzebuergesch](../lb/prayers/#bpn13647)» 
 
 ----
 
@@ -1487,7 +1487,7 @@ Hien ass Gott.O Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës s
 
 -- Abdu'l-Bahá
 
-bpn13648 
+bpn13648 «[Lëtzebuergesch](../lb/prayers/#bpn13648)» 
 
 ----
 
@@ -1497,7 +1497,7 @@ O gëttlech Vorseeung, Du bass den Ëmmerverzeienden!O Du allmächtege Gott, Du 
 
 -- Abdu'l-Bahá
 
-bpn13649 
+bpn13649 «[Lëtzebuergesch](../lb/prayers/#bpn13649)» 
 
 ----
 
@@ -1511,7 +1511,7 @@ Ech bieden Dech mir ze verzeien, o mäin Här, fir d‘Ernimme vun allem ausser 
 
 -- Báb
 
-bpn13650 
+bpn13650 «[Lëtzebuergesch](../lb/prayers/#bpn13650)» 
 
 ----
 
@@ -1521,7 +1521,7 @@ bpn13650
 
 -- Báb
 
-bpn13651 
+bpn13651 «[Lëtzebuergesch](../lb/prayers/#bpn13651)» 
 
 ----
 
@@ -1531,7 +1531,7 @@ O Här!Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an d
 
 -- Abdu'l-Bahá
 
-bpn13652 
+bpn13652 «[Lëtzebuergesch](../lb/prayers/#bpn13652)» 
 
 ----
 

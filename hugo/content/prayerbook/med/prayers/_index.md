@@ -37,7 +37,6 @@ tags = ['lang=med', 'prayerbook']
 
 [WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK](#W%C3%84+AMP+KIKONTA+TEPA+RONDOGL+MUNDI+IK)
 
-[WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK](#W%C3%84+AMP+KIKONTA+TEPA+RONDOGL+MUNDI+IK)
 
 
 <a id="ANATU+TEK+OUDUI+ENGA+ATENGA+E"></a> 
@@ -48,7 +47,7 @@ Anatu nga numan wengdui ulg e kona kelkel bila pora tetem, mawaga, kona na kona 
 
 -- Bahá'u'lláh
 
-bpn13032 
+bpn13032 «[Melpa](../med/prayers/#bpn13032)» 
 
 ----
 
@@ -62,7 +61,7 @@ Anutu O, na nombolga bä wakadui:  Nanga mundmong enga lamb ela rängalg ngana n
 
 -- Abdu'l-Bahá
 
-bpn13025 
+bpn13025 «[Melpa](../med/prayers/#bpn13025)» 
 
 ----
 
@@ -76,7 +75,7 @@ Nanga Anutu nem bi panka.  Nimnga numan wengdui ugl, wamp numan ngui na wamp ki 
 
 -- Abdu'l-Bahá
 
-bpn13026 
+bpn13026 «[Melpa](../med/prayers/#bpn13026)» 
 
 ----
 
@@ -90,7 +89,7 @@ Nanga Anatu O, Nemnga bi ent na etepa tetim.  Wete Neme pilip ko mund dam, Nem p
 
 -- Bahá'u'lláh
 
-bpn13028 
+bpn13028 «[Melpa](../med/prayers/#bpn13028)» 
 
 ----
 
@@ -104,7 +103,7 @@ Anatu Ye, Nanga min iyä etikin kont mondokon numan e orong etiken kai pinti.  N
 
 -- Abdu'l-Bahá
 
-bpn13019 
+bpn13019 «[Melpa](../med/prayers/#bpn13019)» 
 
 ----
 
@@ -118,7 +117,7 @@ Nanga Anatu O!  Na nem nga ki kaemb ela rot nemb kai mondond.  Wamb ti ent nem n
 
 -- Bahá'u'lláh
 
-bpn13022 
+bpn13022 «[Melpa](../med/prayers/#bpn13022)» 
 
 ----
 
@@ -132,7 +131,7 @@ Anatu elem ent nit bä pentipa kelimba.  Mel elepa mat ent kongon emel etemba mo
 
 -- Báb
 
-bpn13030 
+bpn13030 «[Melpa](../med/prayers/#bpn13030)» 
 
 ----
 
@@ -146,7 +145,7 @@ Na Neminga, mondopa pili ela rot niti nanga Anatu O, Nem kin pora mondop pilip n
 
 -- Bahá'u'lláh
 
-bpn13020 
+bpn13020 «[Melpa](../med/prayers/#bpn13020)» 
 
 ----
 
@@ -160,7 +159,7 @@ Nanga wuta Anatu O!  Neminga numan ngoron wamb tik rapandana, Nemnga miti ela ro
 
 -- Abdu'l-Bahá
 
-bpn13018 
+bpn13018 «[Melpa](../med/prayers/#bpn13018)» 
 
 ----
 
@@ -174,7 +173,7 @@ Wä Nuim O!  Na Nemnga tep mumuk ropa, tenta iti ulg eya tip oldong ngolgmba Nem
 
 -- Abdu'l-Bahá
 
-bpn13021 
+bpn13021 «[Melpa](../med/prayers/#bpn13021)» 
 
 ----
 
@@ -188,7 +187,7 @@ bpn13021
 
 -- Abdu'l-Bahá
 
-bpn13023 
+bpn13023 «[Melpa](../med/prayers/#bpn13023)» 
 
 ----
 
@@ -202,7 +201,7 @@ bpn13023
 
 -- Bahá'u'lláh
 
-bpn13031 
+bpn13031 «[Melpa](../med/prayers/#bpn13031)» 
 
 ----
 
@@ -216,7 +215,7 @@ O Anatu O!   Nem wamb ti ken kapalga mon!  Anatu Nem tip mumukrui kona enga ami.
 
 -- Abdu'l-Bahá
 
-bpn13017 
+bpn13017 «[Melpa](../med/prayers/#bpn13017)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn13017
 
 -- Bahá'u'lláh
 
-bpn13024 
+bpn13024 «[Melpa](../med/prayers/#bpn13024)» 
 
 ----
 
@@ -244,7 +243,7 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 
 -- Bahá'u'lláh
 
-bpn13029 
+bpn13029 «[Melpa](../med/prayers/#bpn13029)» 
 
 ----
 
@@ -258,7 +257,7 @@ bpn13029
 
 -- Bahá'u'lláh
 
-bpn13027 
+bpn13027 «[Melpa](../med/prayers/#bpn13027)» 
 
 ----
 

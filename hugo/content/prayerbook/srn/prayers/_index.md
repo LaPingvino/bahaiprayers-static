@@ -31,7 +31,7 @@ Blesi fu na kontren,nanga na oso,nanga na presi,nanga na foto,nanga na ati,nanga
 
 -- Bahá'u'lláh
 
-bpn6076 
+bpn6076 «[Sranan Tongo](../srn/prayers/#bpn6076)» 
 
 ----
 
@@ -41,7 +41,7 @@ bpn6076
 
 -- Bahá'u'lláh
 
-bpn6077 
+bpn6077 «[Sranan Tongo](../srn/prayers/#bpn6077)» 
 
 ----
 
@@ -51,7 +51,7 @@ bpn6077
 
 -- Bahá'u'lláh
 
-bpn6078 
+bpn6078 «[Sranan Tongo](../srn/prayers/#bpn6078)» 
 
 ----
 
@@ -61,7 +61,7 @@ bpn6078
 
 -- Bahá'u'lláh
 
-bpn6079 
+bpn6079 «[Sranan Tongo](../srn/prayers/#bpn6079)» 
 
 ----
 
@@ -71,7 +71,7 @@ bpn6079
 
 -- Bahá'u'lláh
 
-bpn6092 
+bpn6092 «[Sranan Tongo](../srn/prayers/#bpn6092)» 
 
 ----
 
@@ -81,7 +81,7 @@ bpn6092
 
 -- Bahá'u'lláh
 
-bpn6093 
+bpn6093 «[Sranan Tongo](../srn/prayers/#bpn6093)» 
 
 ----
 
@@ -91,7 +91,7 @@ bpn6093
 
 -- Bahá'u'lláh
 
-bpn6094 
+bpn6094 «[Sranan Tongo](../srn/prayers/#bpn6094)» 
 
 ----
 
@@ -101,7 +101,7 @@ bpn6094
 
 -- Abdu'l-Bahá
 
-bpn6104 
+bpn6104 «[Sranan Tongo](../srn/prayers/#bpn6104)» 
 
 ----
 
@@ -111,7 +111,7 @@ bpn6104
 
 -- Abdu'l-Bahá
 
-bpn6105 
+bpn6105 «[Sranan Tongo](../srn/prayers/#bpn6105)» 
 
 ----
 
@@ -125,7 +125,7 @@ bpn6105
 
 -- Bahá'u'lláh
 
-bpn6089 
+bpn6089 «[Sranan Tongo](../srn/prayers/#bpn6089)» 
 
 ----
 
@@ -135,7 +135,7 @@ bpn6089
 
 -- Bahá'u'lláh
 
-bpn6090 
+bpn6090 «[Sranan Tongo](../srn/prayers/#bpn6090)» 
 
 ----
 
@@ -145,7 +145,7 @@ bpn6090
 
 -- Bahá'u'lláh
 
-bpn6091 
+bpn6091 «[Sranan Tongo](../srn/prayers/#bpn6091)» 
 
 ----
 
@@ -159,7 +159,7 @@ bpn6091
 
 -- Abdu'l-Bahá
 
-bpn6101 
+bpn6101 «[Sranan Tongo](../srn/prayers/#bpn6101)» 
 
 ----
 
@@ -169,7 +169,7 @@ bpn6101
 
 -- Abdu'l-Bahá
 
-bpn6102 
+bpn6102 «[Sranan Tongo](../srn/prayers/#bpn6102)» 
 
 ----
 
@@ -179,7 +179,7 @@ bpn6102
 
 -- Abdu'l-Bahá
 
-bpn6103 
+bpn6103 «[Sranan Tongo](../srn/prayers/#bpn6103)» 
 
 ----
 
@@ -193,7 +193,7 @@ bpn6103
 
 -- Bahá'u'lláh
 
-bpn6083 
+bpn6083 «[Sranan Tongo](../srn/prayers/#bpn6083)» 
 
 ----
 
@@ -203,7 +203,7 @@ bpn6083
 
 -- Bahá'u'lláh
 
-bpn6084 
+bpn6084 «[Sranan Tongo](../srn/prayers/#bpn6084)» 
 
 ----
 
@@ -213,7 +213,7 @@ bpn6084
 
 -- Bahá'u'lláh
 
-bpn6085 
+bpn6085 «[Sranan Tongo](../srn/prayers/#bpn6085)» 
 
 ----
 
@@ -227,7 +227,7 @@ bpn6085
 
 -- Báb
 
-bpn6095 
+bpn6095 «[Sranan Tongo](../srn/prayers/#bpn6095)» 
 
 ----
 
@@ -237,7 +237,7 @@ bpn6095
 
 -- Báb
 
-bpn6096 
+bpn6096 «[Sranan Tongo](../srn/prayers/#bpn6096)» 
 
 ----
 
@@ -247,7 +247,7 @@ bpn6096
 
 -- Báb
 
-bpn6097 
+bpn6097 «[Sranan Tongo](../srn/prayers/#bpn6097)» 
 
 ----
 
@@ -261,7 +261,7 @@ bpn6097
 
 -- Abdu'l-Bahá
 
-bpn6098 
+bpn6098 «[Sranan Tongo](../srn/prayers/#bpn6098)» 
 
 ----
 
@@ -271,7 +271,7 @@ bpn6098
 
 -- Abdu'l-Bahá
 
-bpn6099 
+bpn6099 «[Sranan Tongo](../srn/prayers/#bpn6099)» 
 
 ----
 
@@ -281,7 +281,7 @@ bpn6099
 
 -- Abdu'l-Bahá
 
-bpn6100 
+bpn6100 «[Sranan Tongo](../srn/prayers/#bpn6100)» 
 
 ----
 
@@ -295,7 +295,7 @@ bpn6100
 
 -- Bahá'u'lláh
 
-bpn6080 
+bpn6080 «[Sranan Tongo](../srn/prayers/#bpn6080)» 
 
 ----
 
@@ -305,7 +305,7 @@ bpn6080
 
 -- Bahá'u'lláh
 
-bpn6081 
+bpn6081 «[Sranan Tongo](../srn/prayers/#bpn6081)» 
 
 ----
 
@@ -315,7 +315,7 @@ bpn6081
 
 -- Bahá'u'lláh
 
-bpn6082 
+bpn6082 «[Sranan Tongo](../srn/prayers/#bpn6082)» 
 
 ----
 
@@ -329,7 +329,7 @@ bpn6082
 
 -- Bahá'u'lláh
 
-bpn6086 
+bpn6086 «[Sranan Tongo](../srn/prayers/#bpn6086)» 
 
 ----
 
@@ -339,7 +339,7 @@ bpn6086
 
 -- Bahá'u'lláh
 
-bpn6087 
+bpn6087 «[Sranan Tongo](../srn/prayers/#bpn6087)» 
 
 ----
 
@@ -349,7 +349,7 @@ bpn6087
 
 -- Bahá'u'lláh
 
-bpn6088 
+bpn6088 «[Sranan Tongo](../srn/prayers/#bpn6088)» 
 
 ----
 

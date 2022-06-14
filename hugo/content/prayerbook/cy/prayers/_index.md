@@ -5,7 +5,6 @@ tags = ['lang=cy', 'prayerbook']
 
 
 
-
 [Assistance](#Assistance)
 
 [Children](#Children)
@@ -64,7 +63,7 @@ O fy Nuw!   Gofynnaf i Ti, trwy Dy Enw mwyaf gogoneddus i&#39;m cynorthwyo yn yr
 
 -- Bahá'u'lláh
 
-bpn13326 
+bpn13326 «[Cymraeg](../cy/prayers/#bpn13326)» 
 
 ----
 
@@ -74,7 +73,7 @@ A oes unrhyw Symudwr anawsterau ond Duw? Dywedwch: Clod i Dduw! Ef yw Duw! Mae p
 
 -- Báb
 
-bpn13324 
+bpn13324 «[Cymraeg](../cy/prayers/#bpn13324)» 
 
 ----
 
@@ -84,7 +83,7 @@ Dywedwch: Duw sydd yn bodloni pawb uwchlaw popeth, ac nid oes dim yn y nefoedd n
 
 -- Báb
 
-bpn13325 
+bpn13325 «[Cymraeg](../cy/prayers/#bpn13325)» 
 
 ----
 
@@ -94,7 +93,7 @@ O Arglwydd fy Nuw! Cynorthwya Dy anwyliaid i fod yn gadarn yn Dy Ffydd, i rodio 
 
 -- Abdu'l-Bahá
 
-bpn13327 
+bpn13327 «[Cymraeg](../cy/prayers/#bpn13327)» 
 
 ----
 
@@ -108,7 +107,7 @@ O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair. Ti yw&#3
 
 -- Abdu'l-Bahá
 
-bpn13330 
+bpn13330 «[Cymraeg](../cy/prayers/#bpn13330)» 
 
 ----
 
@@ -118,7 +117,7 @@ O Dduw!  Maga&#39;r baban hwn ym mynwes Dy gariad a rho laeth iddo o fron Dy Rag
 
 -- Abdu'l-Bahá
 
-bpn13328 
+bpn13328 «[Cymraeg](../cy/prayers/#bpn13328)» 
 
 ----
 
@@ -128,7 +127,7 @@ O Dydi Arglwydd digymar! Bydded i&#39;r plentyn sugno hwn ei fagu o fron Dy drug
 
 -- Abdu'l-Bahá
 
-bpn13329 
+bpn13329 «[Cymraeg](../cy/prayers/#bpn13329)» 
 
 ----
 
@@ -138,7 +137,7 @@ O Dduw! Addysga&#39;r plant yma. Y plant yma yw planhigion Dy berllan, blodau Dy
 
 -- Abdu'l-Bahá
 
-bpn13331 
+bpn13331 «[Cymraeg](../cy/prayers/#bpn13331)» 
 
 ----
 
@@ -148,7 +147,7 @@ O Arglwydd Caredig!  Plentyn bach wyf fi, dyrchafa fi trwy fy nerbyn i&#39;r dey
 
 -- Abdu'l-Bahá
 
-bpn13332 
+bpn13332 «[Cymraeg](../cy/prayers/#bpn13332)» 
 
 ----
 
@@ -158,7 +157,7 @@ O fy Arglwydd! O fy Arglwydd!  Plentyn bychan ydwyf fi.  Rho faeth i mi o fron D
 
 -- Abdu'l-Bahá
 
-bpn13333 
+bpn13333 «[Cymraeg](../cy/prayers/#bpn13333)» 
 
 ----
 
@@ -172,7 +171,7 @@ Gwynfydedig yw’r llecyn, a’r tŷa’r fangre, a’r ddinas,a’r galon, a’
 
 -- Bahá'u'lláh
 
-bpn13318 
+bpn13318 «[Cymraeg](../cy/prayers/#bpn13318)» 
 
 ----
 
@@ -182,7 +181,7 @@ Molwch bob dydd yr adnodau a ddatguddiwyd gan Dduw.  Bendigedig yw’r dyn sy’
 
 -- Bahá'u'lláh
 
-bpn13319 
+bpn13319 «[Cymraeg](../cy/prayers/#bpn13319)» 
 
 ----
 
@@ -192,7 +191,7 @@ Llarfargana, O Fy ngwas, adnodau Duw a dderbyniaist ti, fel llafarganwyd hwy gan
 
 -- Bahá'u'lláh
 
-bpn13320 
+bpn13320 «[Cymraeg](../cy/prayers/#bpn13320)» 
 
 ----
 
@@ -206,7 +205,7 @@ O fy Nuw a&#39;m Meistr!  Dy was ydwyf a mab Dy was.  Codais o&#39;m gorweddfan 
 
 -- Bahá'u'lláh
 
-bpn13323 
+bpn13323 «[Cymraeg](../cy/prayers/#bpn13323)» 
 
 ----
 
@@ -220,7 +219,7 @@ Pa fodd y gallaf gysgu, O Dduw, fy Nuw, pan fo llygaid y rhai a hiraethant amdan
 
 -- Bahá'u'lláh
 
-bpn13334 
+bpn13334 «[Cymraeg](../cy/prayers/#bpn13334)» 
 
 ----
 
@@ -230,7 +229,7 @@ O fy Arglwydd, rwyf wedi ymddiriedfy ysbryd a&#39;m holl fodolaeth i ddeheulaw D
 
 -- Bahá'u'lláh
 
-bpn13335 
+bpn13335 «[Cymraeg](../cy/prayers/#bpn13335)» 
 
 ----
 
@@ -244,7 +243,7 @@ bpn13335
 
 -- Bahá'u'lláh
 
-bpn13368 
+bpn13368 «[Cymraeg](../cy/prayers/#bpn13368)» 
 
 ----
 
@@ -254,7 +253,7 @@ O Arglwydd Rhadlon!  Ti, yr Hwn wyt yn hael ac yn drugarog!  Nyni ydym weision D
 
 -- Abdu'l-Bahá
 
-bpn13369 
+bpn13369 «[Cymraeg](../cy/prayers/#bpn13369)» 
 
 ----
 
@@ -264,7 +263,7 @@ O Arglwydd! Gwna i’r ifanc hwn lewyrchu a  thywallt gyfoeth Dy haelioni arno, 
 
 -- Abdu'l-Bahá
 
-bpn13370 
+bpn13370 «[Cymraeg](../cy/prayers/#bpn13370)» 
 
 ----
 
@@ -278,7 +277,7 @@ O fy Nuw, O f&#39;Arglwydd, O fy Meistr!  Erfyniaf arnat i faddau i mi am geisio
 
 -- Báb
 
-bpn13353 
+bpn13353 «[Cymraeg](../cy/prayers/#bpn13353)» 
 
 ----
 
@@ -288,7 +287,7 @@ Clod i Ti, O Arglwydd.Maddau i ni ein pechodau,bydd yn raslon tuag atoma galluog
 
 -- Báb
 
-bpn13354 
+bpn13354 «[Cymraeg](../cy/prayers/#bpn13354)» 
 
 ----
 
@@ -302,7 +301,7 @@ O fy Nuw!Na fydded i mi unrhyw ddrwgmewn cyfnodau o dreialon,ac mewn munudau dio
 
 -- Báb
 
-bpn13346 
+bpn13346 «[Cymraeg](../cy/prayers/#bpn13346)» 
 
 ----
 
@@ -312,7 +311,7 @@ Rho i mi fy nghyfran, O Arglwydd, yn ôl dy ddymuniad,a gwna fi&#39;n fodlon ar 
 
 -- Báb
 
-bpn13347 
+bpn13347 «[Cymraeg](../cy/prayers/#bpn13347)» 
 
 ----
 
@@ -322,7 +321,7 @@ O Dydi Drugarog Arglwydd! Ti yr Hwn sydd Haelionus a Galluog! Dy weision ydym, a
 
 -- Abdu'l-Bahá
 
-bpn13348 
+bpn13348 «[Cymraeg](../cy/prayers/#bpn13348)» 
 
 ----
 
@@ -336,7 +335,7 @@ Dy Enw yw fy iachâd, O fy Nuw, a choffadwriaeth amdanat yw fy meddyginiaeth.  A
 
 -- Bahá'u'lláh
 
-bpn13352 
+bpn13352 «[Cymraeg](../cy/prayers/#bpn13352)» 
 
 ----
 
@@ -350,7 +349,7 @@ bpn13352
 
 -- Bahá'u'lláh
 
-bpn13367 
+bpn13367 «[Cymraeg](../cy/prayers/#bpn13367)» 
 
 ----
 
@@ -364,7 +363,7 @@ bpn13367
 
 -- Bahá'u'lláh
 
-bpn13322 
+bpn13322 «[Cymraeg](../cy/prayers/#bpn13322)» 
 
 ----
 
@@ -378,7 +377,7 @@ O Dydi Garedig Arglwydd!  Ti a greaist yr holl ddynoliaeth o&#39;r un llinach.  
 
 -- Abdu'l-Bahá
 
-bpn13364 
+bpn13364 «[Cymraeg](../cy/prayers/#bpn13364)» 
 
 ----
 
@@ -388,7 +387,7 @@ O Tydi Arglwydd caredig! Una pawb.Gwna&#39;r crefyddau&#39;n gytûn ac una&#39;r
 
 -- Abdu'l-Bahá
 
-bpn13373 
+bpn13373 «[Cymraeg](../cy/prayers/#bpn13373)» 
 
 ----
 
@@ -398,7 +397,7 @@ O Dduw! Arllwys arnom Bersawr Nefol a gweddnewid y dyrfa hon yn dyrfa&#39;r Nef!
 
 -- Abdu'l-Bahá
 
-bpn13374 
+bpn13374 «[Cymraeg](../cy/prayers/#bpn13374)» 
 
 ----
 
@@ -412,7 +411,7 @@ gweddïo arno a chymuno ag Ef ganol nos, gan ddywedyd:O Arglwydd, Mi a drois fy 
 
 -- Abdu'l-Bahá
 
-bpn13336 
+bpn13336 «[Cymraeg](../cy/prayers/#bpn13336)» 
 
 ----
 
@@ -426,7 +425,7 @@ Deffroais yn Dy loches, O fy Nuw, a gweddus i&#39;r hwn a geisia&#39;r lloches h
 
 -- Bahá'u'lláh
 
-bpn13337 
+bpn13337 «[Cymraeg](../cy/prayers/#bpn13337)» 
 
 ----
 
@@ -440,7 +439,7 @@ O Dduw, fy Nuw, f’anwylyd, Dymuniad fy nghalon. O God, my God, my Beloved, my 
 
 -- Báb
 
-bpn13371 
+bpn13371 «[Cymraeg](../cy/prayers/#bpn13371)» 
 
 ----
 
@@ -450,7 +449,7 @@ O Arglwydd, fy Nuw, a&#39;m Noddfa yn fy mlinder! Fy Nharian a&#39;m Cysgod yn f
 
 -- Abdu'l-Bahá
 
-bpn13372 
+bpn13372 «[Cymraeg](../cy/prayers/#bpn13372)» 
 
 ----
 
@@ -464,7 +463,7 @@ Clodforer Dy Enwy, O fy Nuw.  Tystiaf na all unrhyw amgyffred ohonot, pa mor ryf
 
 -- Bahá'u'lláh
 
-bpn13349 
+bpn13349 «[Cymraeg](../cy/prayers/#bpn13349)» 
 
 ----
 
@@ -478,7 +477,7 @@ bpn13349
 
 -- Bahá'u'lláh
 
-bpn13355 
+bpn13355 «[Cymraeg](../cy/prayers/#bpn13355)» 
 
 ----
 
@@ -488,7 +487,7 @@ O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!Yn wir, 
 
 -- Abdu'l-Bahá
 
-bpn13357 
+bpn13357 «[Cymraeg](../cy/prayers/#bpn13357)» 
 
 ----
 
@@ -502,7 +501,7 @@ Rwyt Ti yn fy ngweld, O Arglwydd,wedi ymbellhau oddi wrth bopeth ond Tydi,yn gaf
 
 -- Bahá'u'lláh
 
-bpn13350 
+bpn13350 «[Cymraeg](../cy/prayers/#bpn13350)» 
 
 ----
 
@@ -512,7 +511,7 @@ Efe yw&#39;r Tosturiol, yr Haelionus!O Dduw, fy Nuw! Ti a&#39;m gweli, Ti a&#39;
 
 -- Abdu'l-Bahá
 
-bpn13351 
+bpn13351 «[Cymraeg](../cy/prayers/#bpn13351)» 
 
 ----
 
@@ -526,7 +525,7 @@ bpn13351
 
 -- Bahá'u'lláh
 
-bpn13321 
+bpn13321 «[Cymraeg](../cy/prayers/#bpn13321)» 
 
 ----
 
@@ -540,7 +539,7 @@ O Dduw! Arllwys arnom Bersawr Nefola gweddnewid y dyrfa hon yn dyrfa&#39;r Nef! 
 
 -- Abdu'l-Bahá
 
-bpn13366 
+bpn13366 «[Cymraeg](../cy/prayers/#bpn13366)» 
 
 ----
 
@@ -550,7 +549,7 @@ Pryd bynnag yr ewch i mewn i&#39;r siambr cyngor, adroddwch y weddi hon gyda cha
 
 -- Abdu'l-Bahá
 
-bpn13365 
+bpn13365 «[Cymraeg](../cy/prayers/#bpn13365)» 
 
 ----
 
@@ -564,7 +563,7 @@ Clod fyddo i ti, O Arglwydd fy Nuw! Tystiaf y buost erioed yn ddyrchafedig yn Dy
 
 -- Bahá'u'lláh
 
-bpn13340 
+bpn13340 «[Cymraeg](../cy/prayers/#bpn13340)» 
 
 ----
 
@@ -574,7 +573,7 @@ O ffrydiau pêr Dy dragwyddoldeb dyro i mi yfed, O fy Nuw, ac o ffrwyth pren Dy 
 
 -- Bahá'u'lláh
 
-bpn13341 
+bpn13341 «[Cymraeg](../cy/prayers/#bpn13341)» 
 
 ----
 
@@ -584,7 +583,7 @@ Dywedwch: O Dduw, fy Nuw! Gwisg fy mhen â choron cyfiawnder, a&#39;m harlais â
 
 -- Bahá'u'lláh
 
-bpn13342 
+bpn13342 «[Cymraeg](../cy/prayers/#bpn13342)» 
 
 ----
 
@@ -594,7 +593,7 @@ O Arglwydd! Gwan ydym; cryfhâ ni. O Dduw! Anwybodus ydym, dyro i ni wybodaeth. 
 
 -- Abdu'l-Bahá
 
-bpn13344 
+bpn13344 «[Cymraeg](../cy/prayers/#bpn13344)» 
 
 ----
 
@@ -604,7 +603,7 @@ O fy Arglwydd! Bydded Dy brydferthwch yn fwyd i mi, a&#39;th bresenoldeb yn ddio
 
 -- Abdu'l-Bahá
 
-bpn13345 
+bpn13345 «[Cymraeg](../cy/prayers/#bpn13345)» 
 
 ----
 
@@ -618,7 +617,7 @@ O Arglwydd! Trof fy wyneb tuag atat,wedi ymbellhau oddi wrth bawb ond Tydi ac yn
 
 -- Bahá'u'lláh
 
-bpn13359 
+bpn13359 «[Cymraeg](../cy/prayers/#bpn13359)» 
 
 ----
 
@@ -628,7 +627,7 @@ O Dydi, y Duw Digymar! O Arglwydd y Deyrnas! Yr eneidiau hyn yw Dy fyddin nefol.
 
 -- Abdu'l-Bahá
 
-bpn13358 
+bpn13358 «[Cymraeg](../cy/prayers/#bpn13358)» 
 
 ----
 
@@ -642,7 +641,7 @@ Codais y bore hwn, trwy Dy ras, O fy Nuw, a gadewais fy nghartref gan ymddiried 
 
 -- Bahá'u'lláh
 
-bpn13338 
+bpn13338 «[Cymraeg](../cy/prayers/#bpn13338)» 
 
 ----
 
@@ -652,7 +651,7 @@ O Dduw! O Dduw! Rwyf wedi cychwyn o&#39;m cartref, yn gafael yn dynn yn llinyn D
 
 -- Bahá'u'lláh
 
-bpn13339 
+bpn13339 «[Cymraeg](../cy/prayers/#bpn13339)» 
 
 ----
 
@@ -666,7 +665,7 @@ O Tydi yr hwn wyt Arglwydd yr Arglwyddi.  Tystiaf mai Ti yw Arglwydd yr holl gre
 
 -- Bahá'u'lláh
 
-bpn13360 
+bpn13360 «[Cymraeg](../cy/prayers/#bpn13360)» 
 
 ----
 
@@ -676,7 +675,7 @@ Bydded i Dduw ganiatau i olau undod amgylchynu&#39;r holl ddaear, a&#39;r sêl &
 
 -- Bahá'u'lláh
 
-bpn13361 
+bpn13361 «[Cymraeg](../cy/prayers/#bpn13361)» 
 
 ----
 
@@ -686,7 +685,7 @@ O fy Nuw!  O Fy Nuw!  Una galonnau Dy weision a datguddia Dy fwriad mawr iddynt.
 
 -- Bahá'u'lláh
 
-bpn13362 
+bpn13362 «[Cymraeg](../cy/prayers/#bpn13362)» 
 
 ----
 

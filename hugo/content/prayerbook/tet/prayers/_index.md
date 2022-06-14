@@ -49,7 +49,7 @@ Maromak sufisiente mai ha’u. Tebes duni, Nia mak sufisiente liu buat hotu-hotu
 
 -- Bahá'u'lláh
 
-bpn12531 
+bpn12531 «[Tetum](../tet/prayers/#bpn12531)» 
 
 ----
 
@@ -59,7 +59,7 @@ Oh ha’u-nia Maromak! Ha’u husu Ita-Boot, ho Ita-Boot nia Naran gloriozu, atu
 
 -- Bahá'u'lláh
 
-bpn12533 
+bpn12533 «[Tetum](../tet/prayers/#bpn12533)» 
 
 ----
 
@@ -69,7 +69,7 @@ Oh ha’u-nia Maromak! Kria iha ha’u fuan ne&#39;ebé moos no renova konsiéns
 
 -- Bahá'u'lláh
 
-bpn12536 
+bpn12536 «[Tetum](../tet/prayers/#bpn12536)» 
 
 ----
 
@@ -79,7 +79,7 @@ Dehan: Maromak sufisiente liu buat hotu-hotu, no laiha buat ida iha lalehan ka i
 
 -- Báb
 
-bpn12530 
+bpn12530 «[Tetum](../tet/prayers/#bpn12530)» 
 
 ----
 
@@ -89,7 +89,7 @@ Iha buat ida ne’ebé bele hasai susar hotu, se karik la’ós Maromak? Dehan: 
 
 -- Báb
 
-bpn12534 
+bpn12534 «[Tetum](../tet/prayers/#bpn12534)» 
 
 ----
 
@@ -99,7 +99,7 @@ Oh Ita-Boot Maromak Laran-murak. Haraik mai ha’u laran ida ne’ebé, hanesan 
 
 -- Abdu'l-Bahá
 
-bpn12532 
+bpn12532 «[Tetum](../tet/prayers/#bpn12532)» 
 
 ----
 
@@ -109,7 +109,7 @@ Na’i! Ami folin-laek, haraik mai ami Ita-Boot nia favór; kiak, haraik mai ami
 
 -- Abdu'l-Bahá
 
-bpn12535 
+bpn12535 «[Tetum](../tet/prayers/#bpn12535)» 
 
 ----
 
@@ -123,7 +123,7 @@ Oh ha’u-nia Na’i! Halo Ita-Boot nia furak sai ha’u-nia ai-han, no Ita-Boot
 
 -- Bahá'u'lláh
 
-bpn12537 
+bpn12537 «[Tetum](../tet/prayers/#bpn12537)» 
 
 ----
 
@@ -133,7 +133,7 @@ Oh Maromak! Gia ha’u no proteje ha’u. Halo ha’u hanesan lampu nabilan no f
 
 -- Abdu'l-Bahá
 
-bpn12538 
+bpn12538 «[Tetum](../tet/prayers/#bpn12538)» 
 
 ----
 
@@ -143,7 +143,7 @@ Nia mak Maromak! Oh Maromak! Ha’u-nia Maromak! Haraik mai ha’u laran moos ha
 
 -- Abdu'l-Bahá
 
-bpn12539 
+bpn12539 «[Tetum](../tet/prayers/#bpn12539)» 
 
 ----
 
@@ -157,7 +157,7 @@ Oh ha’u-nia Maromak! Oh Ita-Boot perdua-na’in ba sala sira, haraik-na’in b
 
 -- Abdu'l-Bahá
 
-bpn12540 
+bpn12540 «[Tetum](../tet/prayers/#bpn12540)» 
 
 ----
 
@@ -171,7 +171,7 @@ Oh Na’i! Halo joven ne’e nabilan, no konfere Ita-Boot nia bensa ba kriatura 
 
 -- Abdu'l-Bahá
 
-bpn12541 
+bpn12541 «[Tetum](../tet/prayers/#bpn12541)» 
 
 ----
 
@@ -181,7 +181,7 @@ Oh Ita-Boot Na’i laran-di’ak! Haraik ho laran-murak liras lalehan nian ba ma
 
 -- Abdu'l-Bahá
 
-bpn12542 
+bpn12542 «[Tetum](../tet/prayers/#bpn12542)» 
 
 ----
 
@@ -195,7 +195,7 @@ Oha’u-nia Maromak, ha’u-nia Na’i no ha’u-nia Liurai! Ha’u haketak ona 
 
 -- Báb
 
-bpn12543 
+bpn12543 «[Tetum](../tet/prayers/#bpn12543)» 
 
 ----
 
@@ -205,7 +205,7 @@ Oh Na’i! Ha’u fila oin ba Ita-Boot hodi buka protesaun, no tau ha’u-nia la
 
 -- Báb
 
-bpn12544 
+bpn12544 «[Tetum](../tet/prayers/#bpn12544)» 
 
 ----
 
@@ -215,7 +215,7 @@ Oh Maromak, ha’u-nia Maromak! Ita-Boot mak ha’u-nia Esperansa no ha’u-nia 
 
 -- Abdu'l-Bahá
 
-bpn12545 
+bpn12545 «[Tetum](../tet/prayers/#bpn12545)» 
 
 ----
 
@@ -229,7 +229,7 @@ Oh Na&#39;i, ha’u-nia Maromak! Ha’u hahi’i no agradese Ita-Boot, tanba Ita
 
 -- Abdu'l-Bahá
 
-bpn12546 
+bpn12546 «[Tetum](../tet/prayers/#bpn12546)» 
 
 ----
 
@@ -239,7 +239,7 @@ Oh Ita-Boot Na’i laran-di’ak! Ami hahi’i Ita-Boot tanba Ita-Boot hatudu on
 
 -- Abdu'l-Bahá
 
-bpn12547 
+bpn12547 «[Tetum](../tet/prayers/#bpn12547)» 
 
 ----
 
@@ -249,7 +249,7 @@ Oh ha’u-nia Maromak! Oh ha’u-nia Maromak! Ita-Boot haree ha’u iha inferior
 
 -- Abdu'l-Bahá
 
-bpn12548 
+bpn12548 «[Tetum](../tet/prayers/#bpn12548)» 
 
 ----
 
@@ -263,7 +263,7 @@ Oh Na’i, Ita-Boot haree ami nia liman sira ne&#39;ebé suplikante hi’it sa�
 
 -- Bahá'u'lláh
 
-bpn12549 
+bpn12549 «[Tetum](../tet/prayers/#bpn12549)» 
 
 ----
 
@@ -277,7 +277,7 @@ Oh ha’u-nia Maromak, Ita-Boot nia naran ha’u-nia isin-di’ak no hanoin ba I
 
 -- Bahá'u'lláh
 
-bpn12550 
+bpn12550 «[Tetum](../tet/prayers/#bpn12550)» 
 
 ----
 
@@ -291,7 +291,7 @@ Oh Ha’u-nia atan, hananu Maromak nia versu sira ne’ebé ó simu, hananu nu�
 
 -- Bahá'u'lláh
 
-bpn12551 
+bpn12551 «[Tetum](../tet/prayers/#bpn12551)» 
 
 ----
 
@@ -301,7 +301,7 @@ Rahun-di’ak ba rai-fatin, no uma, no fatin, no sidade, no fuan, no foho, no su
 
 -- Bahá'u'lláh
 
-bpn12552 
+bpn12552 «[Tetum](../tet/prayers/#bpn12552)» 
 
 ----
 
@@ -315,7 +315,7 @@ Oh Maromak! Eduka labarik sira ne’e. Labarik sira ne’e mak hanesan ai-horis 
 
 -- Abdu'l-Bahá
 
-bpn12553 
+bpn12553 «[Tetum](../tet/prayers/#bpn12553)» 
 
 ----
 
@@ -325,7 +325,7 @@ Oh Ita-Boot Na’i laran-di&#39;ak! Labarik kmanek sira-ne&#39;e mak hanesan art
 
 -- Abdu'l-Bahá
 
-bpn12554 
+bpn12554 «[Tetum](../tet/prayers/#bpn12554)» 
 
 ----
 
@@ -335,7 +335,7 @@ Oh Na’i! Ha’u hanesan labarik ida; fó kbiit mai ha’u atu dezenvolve liuho
 
 -- Abdu'l-Bahá
 
-bpn12555 
+bpn12555 «[Tetum](../tet/prayers/#bpn12555)» 
 
 ----
 
@@ -345,7 +345,7 @@ Oh Ita-Boot Na’i laran-di’ak! Ha’u labarik ki’ik ida, onra ha’u liuhos
 
 -- Abdu'l-Bahá
 
-bpn12556 
+bpn12556 «[Tetum](../tet/prayers/#bpn12556)» 
 
 ----
 
@@ -355,7 +355,7 @@ Oh ha’u nia Maromak! Oh ha’u nia Maromak! Ita-Boot haree labarik sira ne’e
 
 -- Abdu'l-Bahá
 
-bpn12557 
+bpn12557 «[Tetum](../tet/prayers/#bpn12557)» 
 
 ----
 
@@ -369,7 +369,7 @@ bpn12557
 
 -- Bahá'u'lláh
 
-bpn12529 
+bpn12529 «[Tetum](../tet/prayers/#bpn12529)» 
 
 ----
 
@@ -383,7 +383,7 @@ Oh Na’i, louvór ba Ita-Boot. Perdua ami nia sala sira, laran-sadi’a mai ami
 
 -- Báb
 
-bpn12558 
+bpn12558 «[Tetum](../tet/prayers/#bpn12558)» 
 
 ----
 
@@ -393,7 +393,7 @@ Ha’u husu ho laran tomak ba Ita-Boot atu perdua ha’u, Oh ha’u-nia Na’i, 
 
 -- Báb
 
-bpn12559 
+bpn12559 «[Tetum](../tet/prayers/#bpn12559)» 
 
 ----
 
@@ -407,7 +407,7 @@ Nia mak Laran-murak, Laran-luak! Oh Maromak, ha’u-nia Maromak! Ita-Boot haree 
 
 -- Abdu'l-Bahá
 
-bpn12560 
+bpn12560 «[Tetum](../tet/prayers/#bpn12560)» 
 
 ----
 
@@ -421,7 +421,7 @@ Oh Ita-Boot Na’i laran-di’ak! Sira ne’e mak Ita-Boot nia atan ne’ebé ha
 
 -- Abdu'l-Bahá
 
-bpn12561 
+bpn12561 «[Tetum](../tet/prayers/#bpn12561)» 
 
 ----
 
@@ -435,7 +435,7 @@ Oh ha’u-nia Maromak! Ha’u husu ho fuan no laran-tomak ba Ita-Boot hodi Ita-B
 
 -- Báb
 
-bpn12562 
+bpn12562 «[Tetum](../tet/prayers/#bpn12562)» 
 
 ----
 
@@ -445,7 +445,7 @@ Oh Maromak! Refreska no halo kontente ha’u-nia espíritu. Hamoos ha’u-nia fu
 
 -- Báb
 
-bpn12563 
+bpn12563 «[Tetum](../tet/prayers/#bpn12563)» 
 
 ----
 
@@ -455,7 +455,7 @@ O Na’i! Ha’u fraku, haforte ha’u ho Ita-Boot nia forsa no poténsia. Ha’
 
 -- Báb
 
-bpn12564 
+bpn12564 «[Tetum](../tet/prayers/#bpn12564)» 
 
 ----
 
@@ -465,7 +465,7 @@ Tau neon ba Maromak, fiar ba Nia. Hahi’i Nia no sempre bolu Nia ba hanoin. Nia
 
 -- Abdu'l-Bahá
 
-bpn12565 
+bpn12565 «[Tetum](../tet/prayers/#bpn12565)» 
 
 ----
 
@@ -479,7 +479,7 @@ Oh Ita-Boot Na’i laran-di’ak! Ita-Boot kria ona ema hotu-hotu husi hun ida d
 
 -- Abdu'l-Bahá
 
-bpn12566 
+bpn12566 «[Tetum](../tet/prayers/#bpn12566)» 
 
 ----
 
@@ -493,7 +493,7 @@ Oh ha’u-nia Maromak! Oh ha’u-nia Maromak! Halo Ita-Boot nia atan sira fuan n
 
 -- Bahá'u'lláh
 
-bpn12568 
+bpn12568 «[Tetum](../tet/prayers/#bpn12568)» 
 
 ----
 
@@ -503,7 +503,7 @@ Oh Na’i Maromak! Halo ami hotu hanesan laloran tasi nian, hanesan ai-funan jar
 
 -- Abdu'l-Bahá
 
-bpn12567 
+bpn12567 «[Tetum](../tet/prayers/#bpn12567)» 
 
 ----
 

@@ -5,7 +5,6 @@ tags = ['lang=et', 'prayerbook']
 
 
 
-
 [Abi](#Abi)
 
 [Abielu](#Abielu)
@@ -52,7 +51,7 @@ Hajuta minu mure oma helduse ja suuremeelsusega, oo Jumal mu Jumal, ning peleta 
 
 -- Bahá'u'lláh
 
-bpn3683 
+bpn3683 «[Eesti](../et/prayers/#bpn3683)» 
 
 ----
 
@@ -62,7 +61,7 @@ Mu Jumal, mu Palveldatu, mu Kuningas, mu Ihaldus! Missugune keel suudaks küll l
 
 -- Bahá'u'lláh
 
-bpn3684 
+bpn3684 «[Eesti](../et/prayers/#bpn3684)» 
 
 ----
 
@@ -72,7 +71,7 @@ Kiidetud olgu Sinu nimi, oo Issand, meie Jumal! Sina oled tõepoolest nähtamatu
 
 -- Báb
 
-bpn3685 
+bpn3685 «[Eesti](../et/prayers/#bpn3685)» 
 
 ----
 
@@ -82,7 +81,7 @@ bpn3685
 
 -- Báb
 
-bpn3686 
+bpn3686 «[Eesti](../et/prayers/#bpn3686)» 
 
 ----
 
@@ -92,7 +91,7 @@ Issand! Oleme haletsusväärsed, luba meile oma soosingut. Oleme vaesed, anneta 
 
 -- Abdu'l-Bahá
 
-bpn3687 
+bpn3687 «[Eesti](../et/prayers/#bpn3687)» 
 
 ----
 
@@ -106,7 +105,7 @@ Au olgu Sulle, oo mu Jumal! Tõesti, see Sinu teener ja see Sinu ümmardaja on �
 
 -- Abdu'l-Bahá
 
-bpn3721 
+bpn3721 «[Eesti](../et/prayers/#bpn3721)» 
 
 ----
 
@@ -120,7 +119,7 @@ Oo Jumal, mu Jumal! See Sinu ümmardaja kutsub Sind, pannes oma usalduse Sinule,
 
 -- Abdu'l-Bahá
 
-bpn3722 
+bpn3722 «[Eesti](../et/prayers/#bpn3722)» 
 
 ----
 
@@ -134,7 +133,7 @@ bpn3722
 
 -- Bahá'u'lláh
 
-bpn3688 
+bpn3688 «[Eesti](../et/prayers/#bpn3688)» 
 
 ----
 
@@ -144,7 +143,7 @@ bpn3688
 
 -- Bahá'u'lláh
 
-bpn3689 
+bpn3689 «[Eesti](../et/prayers/#bpn3689)» 
 
 ----
 
@@ -154,7 +153,7 @@ Oo mu Jumal, oo mu Issand, oo mu Meister! Ma palun Sul andestada mulle, et olen 
 
 -- Báb
 
-bpn3690 
+bpn3690 «[Eesti](../et/prayers/#bpn3690)» 
 
 ----
 
@@ -164,7 +163,7 @@ Kiitus olgu Sulle, oo Issand! Andesta meile meie patud, halasta meie peale ja v�
 
 -- Báb
 
-bpn3691 
+bpn3691 «[Eesti](../et/prayers/#bpn3691)» 
 
 ----
 
@@ -174,7 +173,7 @@ Ma anun Sind, et Sa andestaksid mulle, oo mu Issand, iga mainimise eest peale Si
 
 -- Báb
 
-bpn3692 
+bpn3692 «[Eesti](../et/prayers/#bpn3692)» 
 
 ----
 
@@ -184,7 +183,7 @@ Oo Sina kõikvõimas! Ma olen patune aga Sina oled Andestaja! Ma olen täis puud
 
 -- Abdu'l-Bahá
 
-bpn3693 
+bpn3693 «[Eesti](../et/prayers/#bpn3693)» 
 
 ----
 
@@ -194,7 +193,7 @@ Oo Sina andestav Issand! Sina oled kõigi nende teenrite varjupaik. Sina tead sa
 
 -- Abdu'l-Bahá
 
-bpn3694 
+bpn3694 «[Eesti](../et/prayers/#bpn3694)» 
 
 ----
 
@@ -208,7 +207,7 @@ Luba mul, oo mu Jumal, läheneda Sinule ja viibida Su õuel, sest eemalolek Sinu
 
 -- Bahá'u'lláh
 
-bpn3695 
+bpn3695 «[Eesti](../et/prayers/#bpn3695)» 
 
 ----
 
@@ -218,7 +217,7 @@ Kiitus olgu Sulle, oo mu Jumal! Ma olen üks Sinu teenritest, kes on uskunud Sin
 
 -- Bahá'u'lláh
 
-bpn3696 
+bpn3696 «[Eesti](../et/prayers/#bpn3696)» 
 
 ----
 
@@ -228,7 +227,7 @@ Oo Issand! Sinu juurest otsin ma varjupaika ja kõigi Sinu märkide järgi sean 
 
 -- Báb
 
-bpn3697 
+bpn3697 «[Eesti](../et/prayers/#bpn3697)» 
 
 ----
 
@@ -238,7 +237,7 @@ Oo Jumal, mu Jumal! Sina oled mu Lootus ja mu Arm, mu kõrgeim Siht ja Ihaldus! 
 
 -- Abdu'l-Bahá
 
-bpn3698 
+bpn3698 «[Eesti](../et/prayers/#bpn3698)» 
 
 ----
 
@@ -252,7 +251,7 @@ Olen ärganud Sinu kaitse all, oo mu Jumal, ja temal, kes otsib seda kaitset, s�
 
 -- Bahá'u'lláh
 
-bpn3699 
+bpn3699 «[Eesti](../et/prayers/#bpn3699)» 
 
 ----
 
@@ -262,7 +261,7 @@ Sinu armust olen tõusnud täna hommikul, oo mu Jumal, ja lahkunud kodust täiel
 
 -- Bahá'u'lláh
 
-bpn3700 
+bpn3700 «[Eesti](../et/prayers/#bpn3700)» 
 
 ----
 
@@ -272,7 +271,7 @@ Oo mu Jumal ja mu Meister! Olen Sinu teener ja Su teenri poeg. Olen tõusnud oma
 
 -- Bahá'u'lláh
 
-bpn3701 
+bpn3701 «[Eesti](../et/prayers/#bpn3701)» 
 
 ----
 
@@ -286,7 +285,7 @@ Mu Jumal, keda ma palveldan ja jumaldan! Tunnistan Sinu ühtsust ja ainsust ja k
 
 -- Bahá'u'lláh
 
-bpn3702 
+bpn3702 «[Eesti](../et/prayers/#bpn3702)» 
 
 ----
 
@@ -296,7 +295,7 @@ Oo Sina hea Issand! Oo Sina suuremeelne ja halastav! Me oleme Sinu läve teenrid
 
 -- Abdu'l-Bahá
 
-bpn3703 
+bpn3703 «[Eesti](../et/prayers/#bpn3703)» 
 
 ----
 
@@ -306,7 +305,7 @@ Oo Sina hea Issand! Oled loonud kogu inimkonna samast tüvest. Oled määranud, 
 
 -- Abdu'l-Bahá
 
-bpn3704 
+bpn3704 «[Eesti](../et/prayers/#bpn3704)» 
 
 ----
 
@@ -320,7 +319,7 @@ Au olgu Sulle, oo Jumal! Sina oled Jumal, kes oli olemas enne kõiki asju, kes e
 
 -- Báb
 
-bpn3705 
+bpn3705 «[Eesti](../et/prayers/#bpn3705)» 
 
 ----
 
@@ -330,7 +329,7 @@ Oo Jumal, mu Jumal! Varja oma usaldatud teenreid isekuse ja kire pahede eest, ho
 
 -- Abdu'l-Bahá
 
-bpn3706 
+bpn3706 «[Eesti](../et/prayers/#bpn3706)» 
 
 ----
 
@@ -340,7 +339,7 @@ Oo Sina jumalik Kaitselmus, hoia ja varja meid! Oo Sina, kes Sa oled meie kilp, 
 
 -- Abdu'l-Bahá
 
-bpn3707 
+bpn3707 «[Eesti](../et/prayers/#bpn3707)» 
 
 ----
 
@@ -350,7 +349,7 @@ Oo mu Issand! Sina tead, et inimesed on piiratud valu ja õnnetustega ning ümbr
 
 -- Abdu'l-Bahá
 
-bpn3708 
+bpn3708 «[Eesti](../et/prayers/#bpn3708)» 
 
 ----
 
@@ -364,7 +363,7 @@ Oo Jumal, mu Jumal! Ära ole minust kaugel, sest katsumus katsumuse järel on ko
 
 -- Bahá'u'lláh
 
-bpn3709 
+bpn3709 «[Eesti](../et/prayers/#bpn3709)» 
 
 ----
 
@@ -374,7 +373,7 @@ Oo Sina, kelle katsumused on tervendavaks ravimiks neile, kes on Sinu lähedal, 
 
 -- Bahá'u'lláh
 
-bpn3710 
+bpn3710 «[Eesti](../et/prayers/#bpn3710)» 
 
 ----
 
@@ -384,7 +383,7 @@ Kõik kiitus olgu Sulle, oo mu Jumal, kes Sa oled kogu hiilguse ja majesteetlikk
 
 -- Bahá'u'lláh
 
-bpn3716 
+bpn3716 «[Eesti](../et/prayers/#bpn3716)» 
 
 ----
 
@@ -394,7 +393,7 @@ bpn3716
 
 -- Bahá'u'lláh
 
-bpn3717 
+bpn3717 «[Eesti](../et/prayers/#bpn3717)» 
 
 ----
 
@@ -404,7 +403,7 @@ Kas on kedagi raskuste kõrvaldajat peale Jumala? Ütle: Kiidetud olgu Jumal! Te
 
 -- Báb
 
-bpn3711 
+bpn3711 «[Eesti](../et/prayers/#bpn3711)» 
 
 ----
 
@@ -414,7 +413,7 @@ Anun Sind Sinu väe nimel, oo mu Jumal! Ära lase mulle katsumuste aegadel juhtu
 
 -- Báb
 
-bpn3712 
+bpn3712 «[Eesti](../et/prayers/#bpn3712)» 
 
 ----
 
@@ -424,7 +423,7 @@ Oo Issand! Sina oled kõikide piinade Kõrvaldaja ja kõikide hädade Hajutaja. 
 
 -- Báb
 
-bpn3713 
+bpn3713 «[Eesti](../et/prayers/#bpn3713)» 
 
 ----
 
@@ -434,7 +433,7 @@ Sina tead väga hästi, oo mu Jumal, et katsumused on langenud mu peale igast il
 
 -- Báb
 
-bpn3714 
+bpn3714 «[Eesti](../et/prayers/#bpn3714)» 
 
 ----
 
@@ -444,7 +443,7 @@ Oo Issand, mu Jumal ja mu varjupaik hädas! Mu kilp ja kaitse raskusis! Mu asü�
 
 -- Abdu'l-Bahá
 
-bpn3715 
+bpn3715 «[Eesti](../et/prayers/#bpn3715)» 
 
 ----
 
@@ -458,7 +457,7 @@ bpn3715
 
 -- Bahá'u'lláh
 
-bpn3718 
+bpn3718 «[Eesti](../et/prayers/#bpn3718)» 
 
 ----
 
@@ -468,7 +467,7 @@ Tema on Jumal, ülendatud on Tema, armastava headuse ja helduse Issand!Au olgu S
 
 -- Bahá'u'lláh
 
-bpn3719 
+bpn3719 «[Eesti](../et/prayers/#bpn3719)» 
 
 ----
 
@@ -478,7 +477,7 @@ Oo mu Jumal! Oo Sina pattude andestaja, kinkide annetaja, hädade hajutaja!Tões
 
 -- Abdu'l-Bahá
 
-bpn3720 
+bpn3720 «[Eesti](../et/prayers/#bpn3720)» 
 
 ----
 
@@ -492,7 +491,7 @@ Oo Jumal! Kasvata seda väikest lapsukest oma armastuse põues ja anna talle pii
 
 -- Abdu'l-Bahá
 
-bpn3723 
+bpn3723 «[Eesti](../et/prayers/#bpn3723)» 
 
 ----
 
@@ -502,7 +501,7 @@ Oo Jumal! Hari neid lapsi. Need lapsed on Sinu puuviljaaia taimed, Sinu niidu li
 
 -- Abdu'l-Bahá
 
-bpn3724 
+bpn3724 «[Eesti](../et/prayers/#bpn3724)» 
 
 ----
 
@@ -512,7 +511,7 @@ Oo Jumal, juhata mind, kaitse mind, tee minust hiilgav lamp ja särav täht. Sin
 
 -- Abdu'l-Bahá
 
-bpn3725 
+bpn3725 «[Eesti](../et/prayers/#bpn3725)» 
 
 ----
 
@@ -522,7 +521,7 @@ Oo mu Issand! Oo mu Issand! Ma olen õrnas eas laps. Toida mind oma halastuse ri
 
 -- Abdu'l-Bahá
 
-bpn3726 
+bpn3726 «[Eesti](../et/prayers/#bpn3726)» 
 
 ----
 
@@ -532,7 +531,7 @@ Oo Issand! Tee see nooruk kiirgavaks ja osuta sellele vaesele olendile oma heldu
 
 -- Abdu'l-Bahá
 
-bpn3727 
+bpn3727 «[Eesti](../et/prayers/#bpn3727)» 
 
 ----
 
@@ -546,7 +545,7 @@ Mu Issand! Mu Issand! Ma kiidan Sind ja tänan Sind selle eest, millega Sa oled 
 
 -- Abdu'l-Bahá
 
-bpn3728 
+bpn3728 «[Eesti](../et/prayers/#bpn3728)» 
 
 ----
 
@@ -560,7 +559,7 @@ Oo Jumal, mu Jumal! Ma anun Sind Sinu tervenduse ookeani ja Sinu armu Päevatäh
 
 -- Bahá'u'lláh
 
-bpn3731 
+bpn3731 «[Eesti](../et/prayers/#bpn3731)» 
 
 ----
 
@@ -570,7 +569,7 @@ Sinu nimi on minu tervendus, oo mu Jumal, ja Sinu meenutamine on minu ravim. Sin
 
 -- Bahá'u'lláh
 
-bpn3732 
+bpn3732 «[Eesti](../et/prayers/#bpn3732)» 
 
 ----
 
@@ -580,7 +579,7 @@ Sina oled see, oo mu Jumal, kelle nimedega tervendatakse haigeid ja kosutatakse 
 
 -- Bahá'u'lláh
 
-bpn3733 
+bpn3733 «[Eesti](../et/prayers/#bpn3733)» 
 
 ----
 
@@ -594,7 +593,7 @@ Oo tõeotsija! Kui sa soovid, et Jumal avaks su silmad, pead sa Teda paluma, pal
 
 -- Abdu'l-Bahá
 
-bpn3734 
+bpn3734 «[Eesti](../et/prayers/#bpn3734)» 
 
 ----
 
@@ -608,7 +607,7 @@ Oma igaviku magusalt lõhnavaist ojadest anna mulle juua, oo mu Jumal, ja oma ol
 
 -- Bahá'u'lláh
 
-bpn3735 
+bpn3735 «[Eesti](../et/prayers/#bpn3735)» 
 
 ----
 
@@ -618,7 +617,7 @@ Loo mulle puhas süda, oo mu Jumal, ja taasta minus rahulik südametunnistus, oo
 
 -- Bahá'u'lláh
 
-bpn3736 
+bpn3736 «[Eesti](../et/prayers/#bpn3736)» 
 
 ----
 
@@ -628,7 +627,7 @@ bpn3736
 
 -- Bahá'u'lláh
 
-bpn3737 
+bpn3737 «[Eesti](../et/prayers/#bpn3737)» 
 
 ----
 
@@ -638,7 +637,7 @@ Oo mu Jumal! Tee oma ilu mu toiduks ja oma juuresolek mu joogiks ning oma meeleh
 
 -- Bahá'u'lláh
 
-bpn3738 
+bpn3738 «[Eesti](../et/prayers/#bpn3738)» 
 
 ----
 
@@ -648,7 +647,7 @@ Võimalda mul, oo mu Jumal, saada täies mõõdus Sinu armastust ja heasoovlikku
 
 -- Báb
 
-bpn3739 
+bpn3739 «[Eesti](../et/prayers/#bpn3739)» 
 
 ----
 
@@ -658,7 +657,7 @@ Oo Jumal! Värskenda ja rõõmusta minu hinge! Puhasta mu süda! Valgusta mu võ
 
 -- Abdu'l-Bahá
 
-bpn3740 
+bpn3740 «[Eesti](../et/prayers/#bpn3740)» 
 
 ----
 
@@ -672,7 +671,7 @@ Sina näed, oo Issand, meie härdalt paluvaid käsi sirutatuna üles Sinu heatah
 
 -- Bahá'u'lláh
 
-bpn3729 
+bpn3729 «[Eesti](../et/prayers/#bpn3729)» 
 
 ----
 
@@ -682,7 +681,7 @@ Ma palun Sinu andestust, oo mu Jumal, ja anun armu moel, nagu Sa soovid, et Sinu
 
 -- Báb
 
-bpn3730 
+bpn3730 «[Eesti](../et/prayers/#bpn3730)» 
 
 ----
 
@@ -696,7 +695,7 @@ Oo mu Jumal, mu Meister, mu ihalduse Siht! See Sinu teener tahab magada Sinu hal
 
 -- Bahá'u'lláh
 
-bpn3741 
+bpn3741 «[Eesti](../et/prayers/#bpn3741)» 
 
 ----
 
@@ -706,7 +705,7 @@ Kuidas võin ma uinuda, oo Jumal mu Jumal, kui Sind igatsevate silmad on ärkvel
 
 -- Bahá'u'lláh
 
-bpn3742 
+bpn3742 «[Eesti](../et/prayers/#bpn3742)» 
 
 ----
 
@@ -720,7 +719,7 @@ Au olgu Sulle, oo Jumal, et Sa oled avaldanud armastust inimkonna vastu. Oo Sina
 
 -- Bahá'u'lláh
 
-bpn3743 
+bpn3743 «[Eesti](../et/prayers/#bpn3743)» 
 
 ----
 
@@ -730,7 +729,7 @@ Oo mu Jumal! Oo mu Jumal! Liida ühte oma teenrite südamed ja avalda neile oma 
 
 -- Bahá'u'lláh
 
-bpn3744 
+bpn3744 «[Eesti](../et/prayers/#bpn3744)» 
 
 ----
 
@@ -740,7 +739,7 @@ Oo mu Jumal! Oo mu Jumal! Tõesti, ma hüüan Sind ja palun härdalt Sinu künni
 
 -- Abdu'l-Bahá
 
-bpn3745 
+bpn3745 «[Eesti](../et/prayers/#bpn3745)» 
 
 ----
 

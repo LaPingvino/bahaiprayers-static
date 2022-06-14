@@ -5,7 +5,6 @@ tags = ['lang=tpi', 'prayerbook']
 
 
 
-
 [ASSISTANCE](#ASSISTANCE)
 
 [BURIAL OF THE DEAD](#BURIAL+OF+THE+DEAD)
@@ -82,7 +81,7 @@ O God.  Mi laikim tumas pes bilong Yu.  Naispela bilong Yu i olsem ples strong w
 
 -- Bahá'u'lláh
 
-bpn12948 
+bpn12948 «[Tok Pisin](../tpi/prayers/#bpn12948)» 
 
 ----
 
@@ -92,7 +91,7 @@ O Bikpela bilong mi!  Mekim Naispela bilong Yu i stap olsem kaikai bilong mi.  N
 
 -- Bahá'u'lláh
 
-bpn12949 
+bpn12949 «[Tok Pisin](../tpi/prayers/#bpn12949)» 
 
 ----
 
@@ -102,7 +101,7 @@ O Bikpela bilong mi!  O Bikpela bilong mi!  Dispela man i wanpela lam i save kis
 
 -- Abdu'l-Bahá
 
-bpn12950 
+bpn12950 «[Tok Pisin](../tpi/prayers/#bpn12950)» 
 
 ----
 
@@ -112,7 +111,7 @@ O God, mekim spirit bilong mi i kamap nupela gen na amamas.  Rausim ol samting n
 
 -- Abdu'l-Bahá
 
-bpn12951 
+bpn12951 «[Tok Pisin](../tpi/prayers/#bpn12951)» 
 
 ----
 
@@ -122,7 +121,7 @@ Bikpela!  Mipela i tarangu tru.  Inap Yu marimari long mipela.  Yes, mipela i ra
 
 -- Abdu'l-Bahá
 
-bpn12959 
+bpn12959 «[Tok Pisin](../tpi/prayers/#bpn12959)» 
 
 ----
 
@@ -136,7 +135,7 @@ Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain
 
 -- Bahá'u'lláh
 
-bpn12967 
+bpn12967 «[Tok Pisin](../tpi/prayers/#bpn12967)» 
 
 ----
 
@@ -150,7 +149,7 @@ O God, soim rot long mi.  Lukautim mi.  Mekim mi i kamap olsem lam i lait na sta
 
 -- Abdu'l-Bahá
 
-bpn12940 
+bpn12940 «[Tok Pisin](../tpi/prayers/#bpn12940)» 
 
 ----
 
@@ -160,7 +159,7 @@ O God!  Skulim ol dispela pikinini.  Ol dispela pikinini em ol kru long gaden di
 
 -- Abdu'l-Bahá
 
-bpn12941 
+bpn12941 «[Tok Pisin](../tpi/prayers/#bpn12941)» 
 
 ----
 
@@ -170,7 +169,7 @@ O Bikpela bilong mi! O Bikpela bilong mi! Mi yangpela pikinini yet na mi no gat 
 
 -- Abdu'l-Bahá
 
-bpn12942 
+bpn12942 «[Tok Pisin](../tpi/prayers/#bpn12942)» 
 
 ----
 
@@ -180,7 +179,7 @@ O Bikpela, Yu Naispela Olgeta!  Inap Yu mekim dispela liklik wokmeri bilong Yu i
 
 -- Abdu'l-Bahá
 
-bpn12943 
+bpn12943 «[Tok Pisin](../tpi/prayers/#bpn12943)» 
 
 ----
 
@@ -194,7 +193,7 @@ Bikpela bilong mi!  Bikpela bilong mi!  Mi litimapim Nem bilong Yu na mi tok ten
 
 -- Abdu'l-Bahá
 
-bpn12937 
+bpn12937 «[Tok Pisin](../tpi/prayers/#bpn12937)» 
 
 ----
 
@@ -204,7 +203,7 @@ O Bikpela bilong mi!  Mi makim dispela pikinini i stap insait long bel bilong mi
 
 -- Abdu'l-Bahá
 
-bpn12938 
+bpn12938 «[Tok Pisin](../tpi/prayers/#bpn12938)» 
 
 ----
 
@@ -218,7 +217,7 @@ O God bilong mi!  Inap Yu salim traipela blesing na gutpela presen bilong Yu i k
 
 -- Báb
 
-bpn12936 
+bpn12936 «[Tok Pisin](../tpi/prayers/#bpn12936)» 
 
 ----
 
@@ -232,7 +231,7 @@ O God bilong mi!  O Bikpela bilong mi!  O Papa bilong mi!  Mi askim strong long 
 
 -- Báb
 
-bpn12964 
+bpn12964 «[Tok Pisin](../tpi/prayers/#bpn12964)» 
 
 ----
 
@@ -246,7 +245,7 @@ O God, God bilong mi!  Givim lait long poret bilong ol lain manmeri, husat i lai
 
 -- Abdu'l-Bahá
 
-bpn12970 
+bpn12970 «[Tok Pisin](../tpi/prayers/#bpn12970)» 
 
 ----
 
@@ -260,7 +259,7 @@ O God bilong mi.  Nem bilong Yu i helpim mi long winim sik. Sapos mi tingim Yu, 
 
 -- Bahá'u'lláh
 
-bpn12952 
+bpn12952 «[Tok Pisin](../tpi/prayers/#bpn12952)» 
 
 ----
 
@@ -270,7 +269,7 @@ O God, O God bilong mi!  Mi askim strong long Yu long solwara bilong Yu bilong w
 
 -- Bahá'u'lláh
 
-bpn12953 
+bpn12953 «[Tok Pisin](../tpi/prayers/#bpn12953)» 
 
 ----
 
@@ -280,7 +279,7 @@ O God, my God!  I beg of Thee by the ocean of Thy healing, and by the splendors 
 
 -- Bahá'u'lláh
 
-bpn12954 
+bpn12954 «[Tok Pisin](../tpi/prayers/#bpn12954)» 
 
 ----
 
@@ -294,7 +293,7 @@ Tok olsem: O God. God bilong mi! Bilasim het bilong mi long hat king bilong stre
 
 -- Bahá'u'lláh
 
-bpn12935 
+bpn12935 «[Tok Pisin](../tpi/prayers/#bpn12935)» 
 
 ----
 
@@ -308,7 +307,7 @@ bpn12935
 
 -- Bahá'u'lláh
 
-bpn12965 
+bpn12965 «[Tok Pisin](../tpi/prayers/#bpn12965)» 
 
 ----
 
@@ -318,7 +317,7 @@ Em I Givim Planti Samting!  Em i Save Blesim Oltaim!  Litimapim nem bilong God, 
 
 -- Bahá'u'lláh
 
-bpn12966 
+bpn12966 «[Tok Pisin](../tpi/prayers/#bpn12966)» 
 
 ----
 
@@ -332,7 +331,7 @@ O God bilong marimari!  Yu gat strong na pawa.  Na Yu olsem naispela Papa! Ol di
 
 -- Abdu'l-Bahá
 
-bpn12972 
+bpn12972 «[Tok Pisin](../tpi/prayers/#bpn12972)» 
 
 ----
 
@@ -342,7 +341,7 @@ O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go lo
 
 -- Abdu'l-Bahá
 
-bpn12973 
+bpn12973 «[Tok Pisin](../tpi/prayers/#bpn12973)» 
 
 ----
 
@@ -352,7 +351,7 @@ bpn12973
 
 -- Abdu'l-Bahá
 
-bpn12975 
+bpn12975 «[Tok Pisin](../tpi/prayers/#bpn12975)» 
 
 ----
 
@@ -366,7 +365,7 @@ O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu,
 
 -- Abdu'l-Bahá
 
-bpn12958 
+bpn12958 «[Tok Pisin](../tpi/prayers/#bpn12958)» 
 
 ----
 
@@ -380,7 +379,7 @@ O God bilong mi!  Mi kirap nau na mi stap gut insait long gutpela haus bilong Yu
 
 -- Bahá'u'lláh
 
-bpn12955 
+bpn12955 «[Tok Pisin](../tpi/prayers/#bpn12955)» 
 
 ----
 
@@ -394,7 +393,7 @@ bpn12955
 
 -- Bahá'u'lláh
 
-bpn12978 
+bpn12978 «[Tok Pisin](../tpi/prayers/#bpn12978)» 
 
 ----
 
@@ -408,7 +407,7 @@ O God bilong mi! Yu Papa bilong mi na mi laikim tumas Yu.  Dispela wokman bilong
 
 -- Bahá'u'lláh
 
-bpn12956 
+bpn12956 «[Tok Pisin](../tpi/prayers/#bpn12956)» 
 
 ----
 
@@ -418,7 +417,7 @@ O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep
 
 -- Bahá'u'lláh
 
-bpn12957 
+bpn12957 «[Tok Pisin](../tpi/prayers/#bpn12957)» 
 
 ----
 
@@ -432,7 +431,7 @@ O Bikpela!  Yu lukim olsem mipela i apim han bilong mipela i go long heven bilon
 
 -- Bahá'u'lláh
 
-bpn12939 
+bpn12939 «[Tok Pisin](../tpi/prayers/#bpn12939)» 
 
 ----
 
@@ -446,7 +445,7 @@ Tok olsem:  God i save inapim olgeta samting na Em i winim olgeta samting.  Na i
 
 -- Báb
 
-bpn12934 
+bpn12934 «[Tok Pisin](../tpi/prayers/#bpn12934)» 
 
 ----
 
@@ -460,7 +459,7 @@ O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim 
 
 -- Abdu'l-Bahá
 
-bpn12968 
+bpn12968 «[Tok Pisin](../tpi/prayers/#bpn12968)» 
 
 ----
 
@@ -474,7 +473,7 @@ O God, Yu Husat I Klin na Strong Olgeta!  O Bikpela bilong mi, Yu Husat I Save M
 
 -- Abdu'l-Bahá
 
-bpn12981 
+bpn12981 «[Tok Pisin](../tpi/prayers/#bpn12981)» 
 
 ----
 
@@ -488,7 +487,7 @@ bpn12981
 
 -- Bahá'u'lláh
 
-bpn12930 
+bpn12930 «[Tok Pisin](../tpi/prayers/#bpn12930)» 
 
 ----
 
@@ -502,7 +501,7 @@ bpn12930
 
 -- Abdu'l-Bahá
 
-bpn12974 
+bpn12974 «[Tok Pisin](../tpi/prayers/#bpn12974)» 
 
 ----
 
@@ -516,7 +515,7 @@ O Bikpela, God bilong mi!  Helpim ol pipel husat Yu laikim tru, inap bai ol i st
 
 -- Abdu'l-Bahá
 
-bpn12960 
+bpn12960 «[Tok Pisin](../tpi/prayers/#bpn12960)» 
 
 ----
 
@@ -526,7 +525,7 @@ O Bikpela!  Helpim mipela long wokabaut long rot bilong Yu tasol, na strongim mi
 
 -- Abdu'l-Bahá
 
-bpn12961 
+bpn12961 «[Tok Pisin](../tpi/prayers/#bpn12961)» 
 
 ----
 
@@ -540,7 +539,7 @@ bpn12961
 
 -- Bahá'u'lláh
 
-bpn12969 
+bpn12969 «[Tok Pisin](../tpi/prayers/#bpn12969)» 
 
 ----
 
@@ -554,7 +553,7 @@ bpn12969
 
 -- Bahá'u'lláh
 
-bpn12979 
+bpn12979 «[Tok Pisin](../tpi/prayers/#bpn12979)» 
 
 ----
 
@@ -568,7 +567,7 @@ bpn12979
 
 -- Abdu'l-Bahá
 
-bpn12980 
+bpn12980 «[Tok Pisin](../tpi/prayers/#bpn12980)» 
 
 ----
 
@@ -582,7 +581,7 @@ O God!  I no gat narapela olsem Yu.  O God, Yu Papa bilong Kingdom!  Ol dispela 
 
 -- Abdu'l-Bahá
 
-bpn12962 
+bpn12962 «[Tok Pisin](../tpi/prayers/#bpn12962)» 
 
 ----
 
@@ -596,7 +595,7 @@ Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!
 
 -- Báb
 
-bpn12931 
+bpn12931 «[Tok Pisin](../tpi/prayers/#bpn12931)» 
 
 ----
 
@@ -606,7 +605,7 @@ Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! O God!  O God bilong m
 
 -- Abdu'l-Bahá
 
-bpn12932 
+bpn12932 «[Tok Pisin](../tpi/prayers/#bpn12932)» 
 
 ----
 
@@ -620,7 +619,7 @@ O God bilong mi.  Mi laikim tumas yu.  Yu King bilong mi.  Mi gat bikpela laik l
 
 -- Bahá'u'lláh
 
-bpn12933 
+bpn12933 «[Tok Pisin](../tpi/prayers/#bpn12933)» 
 
 ----
 
@@ -634,7 +633,7 @@ Litimapim Nem bilong Yu, O Bikpela, God bilong mi!  Mi askim strong long dispela
 
 -- Bahá'u'lláh
 
-bpn12977 
+bpn12977 «[Tok Pisin](../tpi/prayers/#bpn12977)» 
 
 ----
 
@@ -644,7 +643,7 @@ bpn12977
 
 -- Abdu'l-Bahá
 
-bpn12976 
+bpn12976 «[Tok Pisin](../tpi/prayers/#bpn12976)» 
 
 ----
 
@@ -658,7 +657,7 @@ O God bilong mi.  Marimari bilong Yu i bin kirapim mi long dispela moning.  Na t
 
 -- Bahá'u'lláh
 
-bpn12963 
+bpn12963 «[Tok Pisin](../tpi/prayers/#bpn12963)» 
 
 ----
 
@@ -672,7 +671,7 @@ O God bilong mi! O God bilong mi!  Bungim wantaim ol bel bilong olgeta wokman bi
 
 -- Bahá'u'lláh
 
-bpn12944 
+bpn12944 «[Tok Pisin](../tpi/prayers/#bpn12944)» 
 
 ----
 
@@ -682,7 +681,7 @@ Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmer
 
 -- Bahá'u'lláh
 
-bpn12945 
+bpn12945 «[Tok Pisin](../tpi/prayers/#bpn12945)» 
 
 ----
 
@@ -692,7 +691,7 @@ Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  
 
 -- Bahá'u'lláh
 
-bpn12946 
+bpn12946 «[Tok Pisin](../tpi/prayers/#bpn12946)» 
 
 ----
 
@@ -702,7 +701,7 @@ O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela 
 
 -- Abdu'l-Bahá
 
-bpn12947 
+bpn12947 «[Tok Pisin](../tpi/prayers/#bpn12947)» 
 
 ----
 
@@ -716,7 +715,7 @@ bpn12947
 
 -- Abdu'l-Bahá
 
-bpn12982 
+bpn12982 «[Tok Pisin](../tpi/prayers/#bpn12982)» 
 
 ----
 
@@ -730,7 +729,7 @@ Litimapim Nem bilong Yu, O Papa bilong olgeta samting.  Olgeta samting i mas tan
 
 -- Bahá'u'lláh
 
-bpn12971 
+bpn12971 «[Tok Pisin](../tpi/prayers/#bpn12971)» 
 
 ----
 

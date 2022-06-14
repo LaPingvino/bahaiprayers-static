@@ -81,7 +81,6 @@ tags = ['lang=th', 'prayerbook']
 
 [บทอธิษฐานให้สามี](#%E0%B8%9A%E0%B8%97%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B5)
 
-[บทอธิษฐานให้สามี](#%E0%B8%9A%E0%B8%97%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B5)
 
 
 <a id="%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B6%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94"></a> 
@@ -92,7 +91,7 @@ tags = ['lang=th', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn5742 
+bpn5742 «[ภาษาไทย](../th/prayers/#bpn5742)» 
 
 ----
 
@@ -120,7 +119,7 @@ bpn5744 «[ภาษาไทย](../th/prayers/#bpn5744)»
 
 -- Abdu'l-Bahá
 
-bpn5712 
+bpn5712 «[ภาษาไทย](../th/prayers/#bpn5712)» 
 
 ----
 
@@ -134,7 +133,7 @@ bpn5712
 
 -- Bahá'u'lláh
 
-bpn5746 
+bpn5746 «[ภาษาไทย](../th/prayers/#bpn5746)» 
 
 ----
 
@@ -148,7 +147,7 @@ bpn5746
 
 -- Abdu'l-Bahá
 
-bpn5748 
+bpn5748 «[ภาษาไทย](../th/prayers/#bpn5748)» 
 
 ----
 
@@ -162,7 +161,7 @@ bpn5748
 
 -- Bahá'u'lláh
 
-bpn5612 
+bpn5612 «[ภาษาไทย](../th/prayers/#bpn5612)» 
 
 ----
 
@@ -172,7 +171,7 @@ bpn5612
 
 -- Báb
 
-bpn5615 
+bpn5615 «[ภาษาไทย](../th/prayers/#bpn5615)» 
 
 ----
 
@@ -182,7 +181,7 @@ bpn5615
 
 -- Báb
 
-bpn5616 
+bpn5616 «[ภาษาไทย](../th/prayers/#bpn5616)» 
 
 ----
 
@@ -192,7 +191,7 @@ bpn5616
 
 -- Abdu'l-Bahá
 
-bpn5617 
+bpn5617 «[ภาษาไทย](../th/prayers/#bpn5617)» 
 
 ----
 
@@ -202,7 +201,7 @@ bpn5617
 
 -- Abdu'l-Bahá
 
-bpn5618 
+bpn5618 «[ภาษาไทย](../th/prayers/#bpn5618)» 
 
 ----
 
@@ -216,7 +215,7 @@ bpn5618
 
 -- Bahá'u'lláh
 
-bpn5590 
+bpn5590 «[ภาษาไทย](../th/prayers/#bpn5590)» 
 
 ----
 
@@ -226,7 +225,7 @@ bpn5590
 
 -- Bahá'u'lláh
 
-bpn5591 
+bpn5591 «[ภาษาไทย](../th/prayers/#bpn5591)» 
 
 ----
 
@@ -236,7 +235,7 @@ bpn5591
 
 -- Bahá'u'lláh
 
-bpn5592 
+bpn5592 «[ภาษาไทย](../th/prayers/#bpn5592)» 
 
 ----
 
@@ -246,7 +245,7 @@ bpn5592
 
 -- Báb
 
-bpn5593 
+bpn5593 «[ภาษาไทย](../th/prayers/#bpn5593)» 
 
 ----
 
@@ -256,7 +255,7 @@ bpn5593
 
 -- Báb
 
-bpn5595 
+bpn5595 «[ภาษาไทย](../th/prayers/#bpn5595)» 
 
 ----
 
@@ -266,7 +265,7 @@ bpn5595
 
 -- Báb
 
-bpn5597 
+bpn5597 «[ภาษาไทย](../th/prayers/#bpn5597)» 
 
 ----
 
@@ -276,7 +275,7 @@ bpn5597
 
 -- Báb
 
-bpn5607 
+bpn5607 «[ภาษาไทย](../th/prayers/#bpn5607)» 
 
 ----
 
@@ -286,7 +285,7 @@ bpn5607
 
 -- Báb
 
-bpn5611 
+bpn5611 «[ภาษาไทย](../th/prayers/#bpn5611)» 
 
 ----
 
@@ -296,7 +295,7 @@ bpn5611
 
 -- Báb
 
-bpn5613 
+bpn5613 «[ภาษาไทย](../th/prayers/#bpn5613)» 
 
 ----
 
@@ -306,7 +305,7 @@ bpn5613
 
 -- Abdu'l-Bahá
 
-bpn5594 
+bpn5594 «[ภาษาไทย](../th/prayers/#bpn5594)» 
 
 ----
 
@@ -316,7 +315,7 @@ bpn5594
 
 -- Abdu'l-Bahá
 
-bpn5596 
+bpn5596 «[ภาษาไทย](../th/prayers/#bpn5596)» 
 
 ----
 
@@ -330,7 +329,7 @@ bpn5596
 
 -- Bahá'u'lláh
 
-bpn5716 
+bpn5716 «[ภาษาไทย](../th/prayers/#bpn5716)» 
 
 ----
 
@@ -340,7 +339,7 @@ bpn5716
 
 -- Bahá'u'lláh
 
-bpn5717 
+bpn5717 «[ภาษาไทย](../th/prayers/#bpn5717)» 
 
 ----
 
@@ -354,7 +353,7 @@ bpn5717
 
 -- Bahá'u'lláh
 
-bpn5714 
+bpn5714 «[ภาษาไทย](../th/prayers/#bpn5714)» 
 
 ----
 
@@ -364,7 +363,7 @@ bpn5714
 
 -- Bahá'u'lláh
 
-bpn5715 
+bpn5715 «[ภาษาไทย](../th/prayers/#bpn5715)» 
 
 ----
 
@@ -378,7 +377,7 @@ bpn5715
 
 -- Bahá'u'lláh
 
-bpn5588 
+bpn5588 «[ภาษาไทย](../th/prayers/#bpn5588)» 
 
 ----
 
@@ -392,7 +391,7 @@ bpn5588
 
 -- Bahá'u'lláh
 
-bpn5589 
+bpn5589 «[ภาษาไทย](../th/prayers/#bpn5589)» 
 
 ----
 
@@ -406,7 +405,7 @@ bpn5589
 
 -- Bahá'u'lláh
 
-bpn5587 
+bpn5587 «[ภาษาไทย](../th/prayers/#bpn5587)» 
 
 ----
 
@@ -420,7 +419,7 @@ bpn5587
 
 -- Bahá'u'lláh
 
-bpn5694 
+bpn5694 «[ภาษาไทย](../th/prayers/#bpn5694)» 
 
 ----
 
@@ -430,7 +429,7 @@ bpn5694
 
 -- Bahá'u'lláh
 
-bpn5695 
+bpn5695 «[ภาษาไทย](../th/prayers/#bpn5695)» 
 
 ----
 
@@ -440,7 +439,7 @@ bpn5695
 
 -- Bahá'u'lláh
 
-bpn5698 
+bpn5698 «[ภาษาไทย](../th/prayers/#bpn5698)» 
 
 ----
 
@@ -450,7 +449,7 @@ bpn5698
 
 -- Abdu'l-Bahá
 
-bpn5696 
+bpn5696 «[ภาษาไทย](../th/prayers/#bpn5696)» 
 
 ----
 
@@ -460,7 +459,7 @@ bpn5696
 
 -- Abdu'l-Bahá
 
-bpn5697 
+bpn5697 «[ภาษาไทย](../th/prayers/#bpn5697)» 
 
 ----
 
@@ -470,7 +469,7 @@ bpn5697
 
 -- Abdu'l-Bahá
 
-bpn5699 
+bpn5699 «[ภาษาไทย](../th/prayers/#bpn5699)» 
 
 ----
 
@@ -480,7 +479,7 @@ bpn5699
 
 -- Abdu'l-Bahá
 
-bpn5700 
+bpn5700 «[ภาษาไทย](../th/prayers/#bpn5700)» 
 
 ----
 
@@ -490,7 +489,7 @@ bpn5700
 
 -- Abdu'l-Bahá
 
-bpn5713 
+bpn5713 «[ภาษาไทย](../th/prayers/#bpn5713)» 
 
 ----
 
@@ -504,7 +503,7 @@ bpn5713
 
 -- Bahá'u'lláh
 
-bpn5634 
+bpn5634 «[ภาษาไทย](../th/prayers/#bpn5634)» 
 
 ----
 
@@ -514,7 +513,7 @@ bpn5634
 
 -- Bahá'u'lláh
 
-bpn5635 
+bpn5635 «[ภาษาไทย](../th/prayers/#bpn5635)» 
 
 ----
 
@@ -524,7 +523,7 @@ bpn5635
 
 -- Bahá'u'lláh
 
-bpn5636 
+bpn5636 «[ภาษาไทย](../th/prayers/#bpn5636)» 
 
 ----
 
@@ -534,7 +533,7 @@ bpn5636
 
 -- Bahá'u'lláh
 
-bpn5638 
+bpn5638 «[ภาษาไทย](../th/prayers/#bpn5638)» 
 
 ----
 
@@ -544,7 +543,7 @@ bpn5638
 
 -- Bahá'u'lláh
 
-bpn5639 
+bpn5639 «[ภาษาไทย](../th/prayers/#bpn5639)» 
 
 ----
 
@@ -554,7 +553,7 @@ bpn5639
 
 -- Bahá'u'lláh
 
-bpn5640 
+bpn5640 «[ภาษาไทย](../th/prayers/#bpn5640)» 
 
 ----
 
@@ -564,7 +563,7 @@ bpn5640
 
 -- Bahá'u'lláh
 
-bpn5641 
+bpn5641 «[ภาษาไทย](../th/prayers/#bpn5641)» 
 
 ----
 
@@ -574,7 +573,7 @@ bpn5641
 
 -- Bahá'u'lláh
 
-bpn5644 
+bpn5644 «[ภาษาไทย](../th/prayers/#bpn5644)» 
 
 ----
 
@@ -584,7 +583,7 @@ bpn5644
 
 -- Bahá'u'lláh
 
-bpn5645 
+bpn5645 «[ภาษาไทย](../th/prayers/#bpn5645)» 
 
 ----
 
@@ -594,7 +593,7 @@ bpn5645
 
 -- Bahá'u'lláh
 
-bpn5649 
+bpn5649 «[ภาษาไทย](../th/prayers/#bpn5649)» 
 
 ----
 
@@ -604,7 +603,7 @@ bpn5649
 
 -- Bahá'u'lláh
 
-bpn5650 
+bpn5650 «[ภาษาไทย](../th/prayers/#bpn5650)» 
 
 ----
 
@@ -614,7 +613,7 @@ bpn5650
 
 -- Báb
 
-bpn5637 
+bpn5637 «[ภาษาไทย](../th/prayers/#bpn5637)» 
 
 ----
 
@@ -628,7 +627,7 @@ bpn5637
 
 -- Abdu'l-Bahá
 
-bpn5718 
+bpn5718 «[ภาษาไทย](../th/prayers/#bpn5718)» 
 
 ----
 
@@ -642,7 +641,7 @@ bpn5718
 
 -- Bahá'u'lláh
 
-bpn5753 
+bpn5753 «[ภาษาไทย](../th/prayers/#bpn5753)» 
 
 ----
 
@@ -652,7 +651,7 @@ bpn5753
 
 -- Bahá'u'lláh
 
-bpn5754 
+bpn5754 «[ภาษาไทย](../th/prayers/#bpn5754)» 
 
 ----
 
@@ -662,7 +661,7 @@ bpn5754
 
 -- Bahá'u'lláh
 
-bpn5755 
+bpn5755 «[ภาษาไทย](../th/prayers/#bpn5755)» 
 
 ----
 
@@ -676,7 +675,7 @@ bpn5755
 
 -- Bahá'u'lláh
 
-bpn5756 
+bpn5756 «[ภาษาไทย](../th/prayers/#bpn5756)» 
 
 ----
 
@@ -690,7 +689,7 @@ bpn5756
 
 -- Bahá'u'lláh
 
-bpn5750 
+bpn5750 «[ภาษาไทย](../th/prayers/#bpn5750)» 
 
 ----
 
@@ -704,7 +703,7 @@ bpn5750
 
 -- Bahá'u'lláh
 
-bpn5719 
+bpn5719 «[ภาษาไทย](../th/prayers/#bpn5719)» 
 
 ----
 
@@ -714,7 +713,7 @@ bpn5719
 
 -- Abdu'l-Bahá
 
-bpn5720 
+bpn5720 «[ภาษาไทย](../th/prayers/#bpn5720)» 
 
 ----
 
@@ -724,7 +723,7 @@ bpn5720
 
 -- Abdu'l-Bahá
 
-bpn5721 
+bpn5721 «[ภาษาไทย](../th/prayers/#bpn5721)» 
 
 ----
 
@@ -734,7 +733,7 @@ bpn5721
 
 -- Abdu'l-Bahá
 
-bpn5722 
+bpn5722 «[ภาษาไทย](../th/prayers/#bpn5722)» 
 
 ----
 
@@ -744,7 +743,7 @@ bpn5722
 
 -- Abdu'l-Bahá
 
-bpn5724 
+bpn5724 «[ภาษาไทย](../th/prayers/#bpn5724)» 
 
 ----
 
@@ -754,7 +753,7 @@ bpn5724
 
 -- Abdu'l-Bahá
 
-bpn5726 
+bpn5726 «[ภาษาไทย](../th/prayers/#bpn5726)» 
 
 ----
 
@@ -764,7 +763,7 @@ bpn5726
 
 -- Abdu'l-Bahá
 
-bpn5727 
+bpn5727 «[ภาษาไทย](../th/prayers/#bpn5727)» 
 
 ----
 
@@ -774,7 +773,7 @@ bpn5727
 
 -- Abdu'l-Bahá
 
-bpn5729 
+bpn5729 «[ภาษาไทย](../th/prayers/#bpn5729)» 
 
 ----
 
@@ -788,7 +787,7 @@ bpn5729
 
 -- Bahá'u'lláh
 
-bpn5757 
+bpn5757 «[ภาษาไทย](../th/prayers/#bpn5757)» 
 
 ----
 
@@ -802,7 +801,7 @@ bpn5757
 
 -- Abdu'l-Bahá
 
-bpn5731 
+bpn5731 «[ภาษาไทย](../th/prayers/#bpn5731)» 
 
 ----
 
@@ -816,7 +815,7 @@ bpn5731
 
 -- Bahá'u'lláh
 
-bpn5732 
+bpn5732 «[ภาษาไทย](../th/prayers/#bpn5732)» 
 
 ----
 
@@ -826,7 +825,7 @@ bpn5732
 
 -- Abdu'l-Bahá
 
-bpn5733 
+bpn5733 «[ภาษาไทย](../th/prayers/#bpn5733)» 
 
 ----
 
@@ -836,7 +835,7 @@ bpn5733
 
 -- Abdu'l-Bahá
 
-bpn5734 
+bpn5734 «[ภาษาไทย](../th/prayers/#bpn5734)» 
 
 ----
 
@@ -846,7 +845,7 @@ bpn5734
 
 -- Abdu'l-Bahá
 
-bpn5735 
+bpn5735 «[ภาษาไทย](../th/prayers/#bpn5735)» 
 
 ----
 
@@ -856,7 +855,7 @@ bpn5735
 
 -- Abdu'l-Bahá
 
-bpn5736 
+bpn5736 «[ภาษาไทย](../th/prayers/#bpn5736)» 
 
 ----
 
@@ -866,7 +865,7 @@ bpn5736
 
 -- Abdu'l-Bahá
 
-bpn5737 
+bpn5737 «[ภาษาไทย](../th/prayers/#bpn5737)» 
 
 ----
 
@@ -876,7 +875,7 @@ bpn5737
 
 -- Abdu'l-Bahá
 
-bpn5738 
+bpn5738 «[ภาษาไทย](../th/prayers/#bpn5738)» 
 
 ----
 
@@ -886,7 +885,7 @@ bpn5738
 
 -- Abdu'l-Bahá
 
-bpn5739 
+bpn5739 «[ภาษาไทย](../th/prayers/#bpn5739)» 
 
 ----
 
@@ -900,7 +899,7 @@ bpn5739
 
 -- Bahá'u'lláh
 
-bpn5658 
+bpn5658 «[ภาษาไทย](../th/prayers/#bpn5658)» 
 
 ----
 
@@ -910,7 +909,7 @@ bpn5658
 
 -- Bahá'u'lláh
 
-bpn5660 
+bpn5660 «[ภาษาไทย](../th/prayers/#bpn5660)» 
 
 ----
 
@@ -920,7 +919,7 @@ bpn5660
 
 -- Bahá'u'lláh
 
-bpn5661 
+bpn5661 «[ภาษาไทย](../th/prayers/#bpn5661)» 
 
 ----
 
@@ -930,7 +929,7 @@ bpn5661
 
 -- Bahá'u'lláh
 
-bpn5663 
+bpn5663 «[ภาษาไทย](../th/prayers/#bpn5663)» 
 
 ----
 
@@ -940,7 +939,7 @@ bpn5663
 
 -- Bahá'u'lláh
 
-bpn5669 
+bpn5669 «[ภาษาไทย](../th/prayers/#bpn5669)» 
 
 ----
 
@@ -950,7 +949,7 @@ bpn5669
 
 -- Bahá'u'lláh
 
-bpn5670 
+bpn5670 «[ภาษาไทย](../th/prayers/#bpn5670)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn5670
 
 -- Bahá'u'lláh
 
-bpn5673 
+bpn5673 «[ภาษาไทย](../th/prayers/#bpn5673)» 
 
 ----
 
@@ -970,7 +969,7 @@ bpn5673
 
 -- Bahá'u'lláh
 
-bpn5675 
+bpn5675 «[ภาษาไทย](../th/prayers/#bpn5675)» 
 
 ----
 
@@ -980,7 +979,7 @@ bpn5675
 
 -- Bahá'u'lláh
 
-bpn5680 
+bpn5680 «[ภาษาไทย](../th/prayers/#bpn5680)» 
 
 ----
 
@@ -990,7 +989,7 @@ bpn5680
 
 -- Bahá'u'lláh
 
-bpn5681 
+bpn5681 «[ภาษาไทย](../th/prayers/#bpn5681)» 
 
 ----
 
@@ -1000,7 +999,7 @@ bpn5681
 
 -- Bahá'u'lláh
 
-bpn5686 
+bpn5686 «[ภาษาไทย](../th/prayers/#bpn5686)» 
 
 ----
 
@@ -1010,7 +1009,7 @@ bpn5686
 
 -- Bahá'u'lláh
 
-bpn5687 
+bpn5687 «[ภาษาไทย](../th/prayers/#bpn5687)» 
 
 ----
 
@@ -1020,7 +1019,7 @@ bpn5687
 
 -- Bahá'u'lláh
 
-bpn5689 
+bpn5689 «[ภาษาไทย](../th/prayers/#bpn5689)» 
 
 ----
 
@@ -1030,7 +1029,7 @@ bpn5689
 
 -- Bahá'u'lláh
 
-bpn5691 
+bpn5691 «[ภาษาไทย](../th/prayers/#bpn5691)» 
 
 ----
 
@@ -1044,7 +1043,7 @@ bpn5691
 
 -- Bahá'u'lláh
 
-bpn5651 
+bpn5651 «[ภาษาไทย](../th/prayers/#bpn5651)» 
 
 ----
 
@@ -1054,7 +1053,7 @@ bpn5651
 
 -- Bahá'u'lláh
 
-bpn5653 
+bpn5653 «[ภาษาไทย](../th/prayers/#bpn5653)» 
 
 ----
 
@@ -1064,7 +1063,7 @@ bpn5653
 
 -- Bahá'u'lláh
 
-bpn5656 
+bpn5656 «[ภาษาไทย](../th/prayers/#bpn5656)» 
 
 ----
 
@@ -1074,7 +1073,7 @@ bpn5656
 
 -- Bahá'u'lláh
 
-bpn5659 
+bpn5659 «[ภาษาไทย](../th/prayers/#bpn5659)» 
 
 ----
 
@@ -1084,7 +1083,7 @@ bpn5659
 
 -- Bahá'u'lláh
 
-bpn5667 
+bpn5667 «[ภาษาไทย](../th/prayers/#bpn5667)» 
 
 ----
 
@@ -1094,7 +1093,7 @@ bpn5667
 
 -- Bahá'u'lláh
 
-bpn5671 
+bpn5671 «[ภาษาไทย](../th/prayers/#bpn5671)» 
 
 ----
 
@@ -1104,7 +1103,7 @@ bpn5671
 
 -- Bahá'u'lláh
 
-bpn5674 
+bpn5674 «[ภาษาไทย](../th/prayers/#bpn5674)» 
 
 ----
 
@@ -1114,7 +1113,7 @@ bpn5674
 
 -- Bahá'u'lláh
 
-bpn5679 
+bpn5679 «[ภาษาไทย](../th/prayers/#bpn5679)» 
 
 ----
 
@@ -1124,7 +1123,7 @@ bpn5679
 
 -- Bahá'u'lláh
 
-bpn5685 
+bpn5685 «[ภาษาไทย](../th/prayers/#bpn5685)» 
 
 ----
 
@@ -1134,7 +1133,7 @@ bpn5685
 
 -- Bahá'u'lláh
 
-bpn5692 
+bpn5692 «[ภาษาไทย](../th/prayers/#bpn5692)» 
 
 ----
 
@@ -1144,7 +1143,7 @@ bpn5692
 
 -- Báb
 
-bpn5652 
+bpn5652 «[ภาษาไทย](../th/prayers/#bpn5652)» 
 
 ----
 
@@ -1154,7 +1153,7 @@ bpn5652
 
 -- Báb
 
-bpn5655 
+bpn5655 «[ภาษาไทย](../th/prayers/#bpn5655)» 
 
 ----
 
@@ -1164,7 +1163,7 @@ bpn5655
 
 -- Báb
 
-bpn5657 
+bpn5657 «[ภาษาไทย](../th/prayers/#bpn5657)» 
 
 ----
 
@@ -1174,7 +1173,7 @@ bpn5657
 
 -- Báb
 
-bpn5665 
+bpn5665 «[ภาษาไทย](../th/prayers/#bpn5665)» 
 
 ----
 
@@ -1184,7 +1183,7 @@ bpn5665
 
 -- Báb
 
-bpn5668 
+bpn5668 «[ภาษาไทย](../th/prayers/#bpn5668)» 
 
 ----
 
@@ -1194,7 +1193,7 @@ bpn5668
 
 -- Báb
 
-bpn5676 
+bpn5676 «[ภาษาไทย](../th/prayers/#bpn5676)» 
 
 ----
 
@@ -1204,7 +1203,7 @@ bpn5676
 
 -- Báb
 
-bpn5678 
+bpn5678 «[ภาษาไทย](../th/prayers/#bpn5678)» 
 
 ----
 
@@ -1214,7 +1213,7 @@ bpn5678
 
 -- Báb
 
-bpn5684 
+bpn5684 «[ภาษาไทย](../th/prayers/#bpn5684)» 
 
 ----
 
@@ -1224,7 +1223,7 @@ bpn5684
 
 -- Báb
 
-bpn5693 
+bpn5693 «[ภาษาไทย](../th/prayers/#bpn5693)» 
 
 ----
 
@@ -1234,7 +1233,7 @@ bpn5693
 
 -- Abdu'l-Bahá
 
-bpn5654 
+bpn5654 «[ภาษาไทย](../th/prayers/#bpn5654)» 
 
 ----
 
@@ -1248,7 +1247,7 @@ bpn5654
 
 -- Bahá'u'lláh
 
-bpn5626 
+bpn5626 «[ภาษาไทย](../th/prayers/#bpn5626)» 
 
 ----
 
@@ -1258,7 +1257,7 @@ bpn5626
 
 -- Bahá'u'lláh
 
-bpn5627 
+bpn5627 «[ภาษาไทย](../th/prayers/#bpn5627)» 
 
 ----
 
@@ -1268,7 +1267,7 @@ bpn5627
 
 -- Bahá'u'lláh
 
-bpn5628 
+bpn5628 «[ภาษาไทย](../th/prayers/#bpn5628)» 
 
 ----
 
@@ -1278,7 +1277,7 @@ bpn5628
 
 -- Abdu'l-Bahá
 
-bpn5631 
+bpn5631 «[ภาษาไทย](../th/prayers/#bpn5631)» 
 
 ----
 
@@ -1288,7 +1287,7 @@ bpn5631
 
 -- Abdu'l-Bahá
 
-bpn5632 
+bpn5632 «[ภาษาไทย](../th/prayers/#bpn5632)» 
 
 ----
 
@@ -1298,7 +1297,7 @@ bpn5632
 
 -- Abdu'l-Bahá
 
-bpn5633 
+bpn5633 «[ภาษาไทย](../th/prayers/#bpn5633)» 
 
 ----
 
@@ -1312,7 +1311,7 @@ bpn5633
 
 -- Bahá'u'lláh
 
-bpn5701 
+bpn5701 «[ภาษาไทย](../th/prayers/#bpn5701)» 
 
 ----
 
@@ -1322,7 +1321,7 @@ bpn5701
 
 -- Báb
 
-bpn5702 
+bpn5702 «[ภาษาไทย](../th/prayers/#bpn5702)» 
 
 ----
 
@@ -1332,7 +1331,7 @@ bpn5702
 
 -- Báb
 
-bpn5703 
+bpn5703 «[ภาษาไทย](../th/prayers/#bpn5703)» 
 
 ----
 
@@ -1342,7 +1341,7 @@ bpn5703
 
 -- Báb
 
-bpn5704 
+bpn5704 «[ภาษาไทย](../th/prayers/#bpn5704)» 
 
 ----
 
@@ -1356,7 +1355,7 @@ bpn5704
 
 -- Bahá'u'lláh
 
-bpn5725 
+bpn5725 «[ภาษาไทย](../th/prayers/#bpn5725)» 
 
 ----
 
@@ -1366,7 +1365,7 @@ bpn5725
 
 -- Báb
 
-bpn5723 
+bpn5723 «[ภาษาไทย](../th/prayers/#bpn5723)» 
 
 ----
 
@@ -1376,7 +1375,7 @@ bpn5723
 
 -- Abdu'l-Bahá
 
-bpn5728 
+bpn5728 «[ภาษาไทย](../th/prayers/#bpn5728)» 
 
 ----
 
@@ -1390,7 +1389,7 @@ bpn5728
 
 -- Abdu'l-Bahá
 
-bpn5672 
+bpn5672 «[ภาษาไทย](../th/prayers/#bpn5672)» 
 
 ----
 
@@ -1404,7 +1403,7 @@ bpn5672
 
 -- Bahá'u'lláh
 
-bpn5642 
+bpn5642 «[ภาษาไทย](../th/prayers/#bpn5642)» 
 
 ----
 
@@ -1414,7 +1413,7 @@ bpn5642
 
 -- Bahá'u'lláh
 
-bpn5643 
+bpn5643 «[ภาษาไทย](../th/prayers/#bpn5643)» 
 
 ----
 
@@ -1424,7 +1423,7 @@ bpn5643
 
 -- Bahá'u'lláh
 
-bpn5647 
+bpn5647 «[ภาษาไทย](../th/prayers/#bpn5647)» 
 
 ----
 
@@ -1434,7 +1433,7 @@ bpn5647
 
 -- Abdu'l-Bahá
 
-bpn5646 
+bpn5646 «[ภาษาไทย](../th/prayers/#bpn5646)» 
 
 ----
 
@@ -1444,7 +1443,7 @@ bpn5646
 
 -- Abdu'l-Bahá
 
-bpn5648 
+bpn5648 «[ภาษาไทย](../th/prayers/#bpn5648)» 
 
 ----
 
@@ -1458,7 +1457,7 @@ bpn5648
 
 -- Báb
 
-bpn5677 
+bpn5677 «[ภาษาไทย](../th/prayers/#bpn5677)» 
 
 ----
 
@@ -1468,7 +1467,7 @@ bpn5677
 
 -- Abdu'l-Bahá
 
-bpn5682 
+bpn5682 «[ภาษาไทย](../th/prayers/#bpn5682)» 
 
 ----
 
@@ -1478,7 +1477,7 @@ bpn5682
 
 -- Abdu'l-Bahá
 
-bpn5683 
+bpn5683 «[ภาษาไทย](../th/prayers/#bpn5683)» 
 
 ----
 
@@ -1492,7 +1491,7 @@ bpn5683
 
 -- Bahá'u'lláh
 
-bpn5688 
+bpn5688 «[ภาษาไทย](../th/prayers/#bpn5688)» 
 
 ----
 
@@ -1502,7 +1501,7 @@ bpn5688
 
 -- Bahá'u'lláh
 
-bpn5690 
+bpn5690 «[ภาษาไทย](../th/prayers/#bpn5690)» 
 
 ----
 
@@ -1516,7 +1515,7 @@ bpn5690
 
 -- Bahá'u'lláh
 
-bpn5662 
+bpn5662 «[ภาษาไทย](../th/prayers/#bpn5662)» 
 
 ----
 
@@ -1526,7 +1525,7 @@ bpn5662
 
 -- Bahá'u'lláh
 
-bpn5664 
+bpn5664 «[ภาษาไทย](../th/prayers/#bpn5664)» 
 
 ----
 
@@ -1536,7 +1535,7 @@ bpn5664
 
 -- Bahá'u'lláh
 
-bpn5666 
+bpn5666 «[ภาษาไทย](../th/prayers/#bpn5666)» 
 
 ----
 
@@ -1550,7 +1549,7 @@ bpn5666
 
 -- Bahá'u'lláh
 
-bpn5598 
+bpn5598 «[ภาษาไทย](../th/prayers/#bpn5598)» 
 
 ----
 
@@ -1560,7 +1559,7 @@ bpn5598
 
 -- Bahá'u'lláh
 
-bpn5599 
+bpn5599 «[ภาษาไทย](../th/prayers/#bpn5599)» 
 
 ----
 
@@ -1570,7 +1569,7 @@ bpn5599
 
 -- Bahá'u'lláh
 
-bpn5600 
+bpn5600 «[ภาษาไทย](../th/prayers/#bpn5600)» 
 
 ----
 
@@ -1580,7 +1579,7 @@ bpn5600
 
 -- Bahá'u'lláh
 
-bpn5601 
+bpn5601 «[ภาษาไทย](../th/prayers/#bpn5601)» 
 
 ----
 
@@ -1590,7 +1589,7 @@ bpn5601
 
 -- Bahá'u'lláh
 
-bpn5602 
+bpn5602 «[ภาษาไทย](../th/prayers/#bpn5602)» 
 
 ----
 
@@ -1600,7 +1599,7 @@ bpn5602
 
 -- Bahá'u'lláh
 
-bpn5606 
+bpn5606 «[ภาษาไทย](../th/prayers/#bpn5606)» 
 
 ----
 
@@ -1610,7 +1609,7 @@ bpn5606
 
 -- Bahá'u'lláh
 
-bpn5610 
+bpn5610 «[ภาษาไทย](../th/prayers/#bpn5610)» 
 
 ----
 
@@ -1620,7 +1619,7 @@ bpn5610
 
 -- Bahá'u'lláh
 
-bpn5614 
+bpn5614 «[ภาษาไทย](../th/prayers/#bpn5614)» 
 
 ----
 
@@ -1630,7 +1629,7 @@ bpn5614
 
 -- Báb
 
-bpn5603 
+bpn5603 «[ภาษาไทย](../th/prayers/#bpn5603)» 
 
 ----
 
@@ -1640,7 +1639,7 @@ bpn5603
 
 -- Báb
 
-bpn5604 
+bpn5604 «[ภาษาไทย](../th/prayers/#bpn5604)» 
 
 ----
 
@@ -1650,7 +1649,7 @@ bpn5604
 
 -- Báb
 
-bpn5605 
+bpn5605 «[ภาษาไทย](../th/prayers/#bpn5605)» 
 
 ----
 
@@ -1660,7 +1659,7 @@ bpn5605
 
 -- Abdu'l-Bahá
 
-bpn5608 
+bpn5608 «[ภาษาไทย](../th/prayers/#bpn5608)» 
 
 ----
 
@@ -1670,7 +1669,7 @@ bpn5608
 
 -- Abdu'l-Bahá
 
-bpn5609 
+bpn5609 «[ภาษาไทย](../th/prayers/#bpn5609)» 
 
 ----
 
@@ -1684,7 +1683,7 @@ bpn5609
 
 -- Abdu'l-Bahá
 
-bpn5705 
+bpn5705 «[ภาษาไทย](../th/prayers/#bpn5705)» 
 
 ----
 
@@ -1694,7 +1693,7 @@ bpn5705
 
 -- Abdu'l-Bahá
 
-bpn5706 
+bpn5706 «[ภาษาไทย](../th/prayers/#bpn5706)» 
 
 ----
 
@@ -1708,7 +1707,7 @@ bpn5706
 
 -- Abdu'l-Bahá
 
-bpn5707 
+bpn5707 «[ภาษาไทย](../th/prayers/#bpn5707)» 
 
 ----
 
@@ -1718,7 +1717,7 @@ bpn5707
 
 -- Abdu'l-Bahá
 
-bpn5708 
+bpn5708 «[ภาษาไทย](../th/prayers/#bpn5708)» 
 
 ----
 
@@ -1728,7 +1727,7 @@ bpn5708
 
 -- Abdu'l-Bahá
 
-bpn5709 
+bpn5709 «[ภาษาไทย](../th/prayers/#bpn5709)» 
 
 ----
 
@@ -1738,7 +1737,7 @@ bpn5709
 
 -- Abdu'l-Bahá
 
-bpn5710 
+bpn5710 «[ภาษาไทย](../th/prayers/#bpn5710)» 
 
 ----
 
@@ -1748,7 +1747,7 @@ bpn5710
 
 -- Abdu'l-Bahá
 
-bpn5711 
+bpn5711 «[ภาษาไทย](../th/prayers/#bpn5711)» 
 
 ----
 
@@ -1762,7 +1761,7 @@ bpn5711
 
 -- Bahá'u'lláh
 
-bpn5619 
+bpn5619 «[ภาษาไทย](../th/prayers/#bpn5619)» 
 
 ----
 
@@ -1772,7 +1771,7 @@ bpn5619
 
 -- Bahá'u'lláh
 
-bpn5620 
+bpn5620 «[ภาษาไทย](../th/prayers/#bpn5620)» 
 
 ----
 
@@ -1782,7 +1781,7 @@ bpn5620
 
 -- Bahá'u'lláh
 
-bpn5621 
+bpn5621 «[ภาษาไทย](../th/prayers/#bpn5621)» 
 
 ----
 
@@ -1792,7 +1791,7 @@ bpn5621
 
 -- Bahá'u'lláh
 
-bpn5622 
+bpn5622 «[ภาษาไทย](../th/prayers/#bpn5622)» 
 
 ----
 
@@ -1802,7 +1801,7 @@ bpn5622
 
 -- Bahá'u'lláh
 
-bpn5623 
+bpn5623 «[ภาษาไทย](../th/prayers/#bpn5623)» 
 
 ----
 
@@ -1812,7 +1811,7 @@ bpn5623
 
 -- Bahá'u'lláh
 
-bpn5624 
+bpn5624 «[ภาษาไทย](../th/prayers/#bpn5624)» 
 
 ----
 
@@ -1822,7 +1821,7 @@ bpn5624
 
 -- Bahá'u'lláh
 
-bpn5625 
+bpn5625 «[ภาษาไทย](../th/prayers/#bpn5625)» 
 
 ----
 
@@ -1832,7 +1831,7 @@ bpn5625
 
 -- Bahá'u'lláh
 
-bpn5629 
+bpn5629 «[ภาษาไทย](../th/prayers/#bpn5629)» 
 
 ----
 
@@ -1842,7 +1841,7 @@ bpn5629
 
 -- Bahá'u'lláh
 
-bpn5630 
+bpn5630 «[ภาษาไทย](../th/prayers/#bpn5630)» 
 
 ----
 
@@ -1856,7 +1855,7 @@ bpn5630
 
 -- Bahá'u'lláh
 
-bpn5740 
+bpn5740 «[ภาษาไทย](../th/prayers/#bpn5740)» 
 
 ----
 
@@ -1866,7 +1865,7 @@ bpn5740
 
 -- Bahá'u'lláh
 
-bpn5741 
+bpn5741 «[ภาษาไทย](../th/prayers/#bpn5741)» 
 
 ----
 
@@ -1876,7 +1875,7 @@ bpn5741
 
 -- Bahá'u'lláh
 
-bpn5743 
+bpn5743 «[ภาษาไทย](../th/prayers/#bpn5743)» 
 
 ----
 
@@ -1886,7 +1885,7 @@ bpn5743
 
 -- Bahá'u'lláh
 
-bpn5745 
+bpn5745 «[ภาษาไทย](../th/prayers/#bpn5745)» 
 
 ----
 
@@ -1896,7 +1895,7 @@ bpn5745
 
 -- Bahá'u'lláh
 
-bpn5747 
+bpn5747 «[ภาษาไทย](../th/prayers/#bpn5747)» 
 
 ----
 
@@ -1906,7 +1905,7 @@ bpn5747
 
 -- Bahá'u'lláh
 
-bpn5749 
+bpn5749 «[ภาษาไทย](../th/prayers/#bpn5749)» 
 
 ----
 
@@ -1916,7 +1915,7 @@ bpn5749
 
 -- Bahá'u'lláh
 
-bpn5751 
+bpn5751 «[ภาษาไทย](../th/prayers/#bpn5751)» 
 
 ----
 
@@ -1926,7 +1925,7 @@ bpn5751
 
 -- Bahá'u'lláh
 
-bpn5752 
+bpn5752 «[ภาษาไทย](../th/prayers/#bpn5752)» 
 
 ----
 
@@ -1940,7 +1939,7 @@ bpn5752
 
 -- Abdu'l-Bahá
 
-bpn5730 
+bpn5730 «[ภาษาไทย](../th/prayers/#bpn5730)» 
 
 ----
 

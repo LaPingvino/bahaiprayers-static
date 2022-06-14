@@ -53,7 +53,6 @@ tags = ['lang=gu', 'prayerbook']
 
 [સ્તુતિ–આભાર](#%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%81%E0%AA%A4%E0%AA%BF%E2%80%93%E0%AA%86%E0%AA%AD%E0%AA%BE%E0%AA%B0)
 
-[સ્તુતિ–આભાર](#%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%81%E0%AA%A4%E0%AA%BF%E2%80%93%E0%AA%86%E0%AA%AD%E0%AA%BE%E0%AA%B0)
 
 
 <a id="%E0%AA%85%E0%AA%98%E0%AA%BF%E0%AA%95+%E0%AA%A6%E0%AA%BF%E0%AA%B5%E0%AA%B8%E0%AB%8B"></a> 
@@ -64,7 +63,7 @@ tags = ['lang=gu', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11077 
+bpn11077 «[ગુજરાતી](../gu/prayers/#bpn11077)» 
 
 ----
 
@@ -78,7 +77,7 @@ bpn11077
 
 -- Bahá'u'lláh
 
-bpn11076 
+bpn11076 «[ગુજરાતી](../gu/prayers/#bpn11076)» 
 
 ----
 
@@ -92,7 +91,7 @@ bpn11076
 
 -- Bahá'u'lláh
 
-bpn11021 
+bpn11021 «[ગુજરાતી](../gu/prayers/#bpn11021)» 
 
 ----
 
@@ -102,7 +101,7 @@ bpn11021
 
 -- Bahá'u'lláh
 
-bpn11022 
+bpn11022 «[ગુજરાતી](../gu/prayers/#bpn11022)» 
 
 ----
 
@@ -112,7 +111,7 @@ bpn11022
 
 -- Bahá'u'lláh
 
-bpn11023 
+bpn11023 «[ગુજરાતી](../gu/prayers/#bpn11023)» 
 
 ----
 
@@ -122,7 +121,7 @@ bpn11023
 
 -- Bahá'u'lláh
 
-bpn11024 
+bpn11024 «[ગુજરાતી](../gu/prayers/#bpn11024)» 
 
 ----
 
@@ -132,7 +131,7 @@ bpn11024
 
 -- Bahá'u'lláh
 
-bpn11025 
+bpn11025 «[ગુજરાતી](../gu/prayers/#bpn11025)» 
 
 ----
 
@@ -142,7 +141,7 @@ bpn11025
 
 -- Báb
 
-bpn11018 
+bpn11018 «[ગુજરાતી](../gu/prayers/#bpn11018)» 
 
 ----
 
@@ -152,7 +151,7 @@ bpn11018
 
 -- Báb
 
-bpn11019 
+bpn11019 «[ગુજરાતી](../gu/prayers/#bpn11019)» 
 
 ----
 
@@ -162,7 +161,7 @@ bpn11019
 
 -- Báb
 
-bpn11020 
+bpn11020 «[ગુજરાતી](../gu/prayers/#bpn11020)» 
 
 ----
 
@@ -172,7 +171,7 @@ bpn11020
 
 -- Abdu'l-Bahá
 
-bpn11056 
+bpn11056 «[ગુજરાતી](../gu/prayers/#bpn11056)» 
 
 ----
 
@@ -182,7 +181,7 @@ bpn11056
 
 -- Abdu'l-Bahá
 
-bpn11057 
+bpn11057 «[ગુજરાતી](../gu/prayers/#bpn11057)» 
 
 ----
 
@@ -196,7 +195,7 @@ bpn11057
 
 -- Bahá'u'lláh
 
-bpn11078 
+bpn11078 «[ગુજરાતી](../gu/prayers/#bpn11078)» 
 
 ----
 
@@ -210,7 +209,7 @@ bpn11078
 
 -- Bahá'u'lláh
 
-bpn11026 
+bpn11026 «[ગુજરાતી](../gu/prayers/#bpn11026)» 
 
 ----
 
@@ -220,7 +219,7 @@ bpn11026
 
 -- Bahá'u'lláh
 
-bpn11027 
+bpn11027 «[ગુજરાતી](../gu/prayers/#bpn11027)» 
 
 ----
 
@@ -230,7 +229,7 @@ bpn11027
 
 -- Abdu'l-Bahá
 
-bpn11058 
+bpn11058 «[ગુજરાતી](../gu/prayers/#bpn11058)» 
 
 ----
 
@@ -240,7 +239,7 @@ bpn11058
 
 -- Abdu'l-Bahá
 
-bpn11059 
+bpn11059 «[ગુજરાતી](../gu/prayers/#bpn11059)» 
 
 ----
 
@@ -254,7 +253,7 @@ bpn11059
 
 -- Bahá'u'lláh
 
-bpn11028 
+bpn11028 «[ગુજરાતી](../gu/prayers/#bpn11028)» 
 
 ----
 
@@ -264,7 +263,7 @@ bpn11028
 
 -- Bahá'u'lláh
 
-bpn11029 
+bpn11029 «[ગુજરાતી](../gu/prayers/#bpn11029)» 
 
 ----
 
@@ -274,7 +273,7 @@ bpn11029
 
 -- Bahá'u'lláh
 
-bpn11030 
+bpn11030 «[ગુજરાતી](../gu/prayers/#bpn11030)» 
 
 ----
 
@@ -288,7 +287,7 @@ bpn11030
 
 -- Bahá'u'lláh
 
-bpn11054 
+bpn11054 «[ગુજરાતી](../gu/prayers/#bpn11054)» 
 
 ----
 
@@ -298,7 +297,7 @@ bpn11054
 
 -- Bahá'u'lláh
 
-bpn11055 
+bpn11055 «[ગુજરાતી](../gu/prayers/#bpn11055)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn11055
 
 -- Bahá'u'lláh
 
-bpn11031 
+bpn11031 «[ગુજરાતી](../gu/prayers/#bpn11031)» 
 
 ----
 
@@ -322,7 +321,7 @@ bpn11031
 
 -- Bahá'u'lláh
 
-bpn11032 
+bpn11032 «[ગુજરાતી](../gu/prayers/#bpn11032)» 
 
 ----
 
@@ -336,7 +335,7 @@ bpn11032
 
 -- Bahá'u'lláh
 
-bpn11079 
+bpn11079 «[ગુજરાતી](../gu/prayers/#bpn11079)» 
 
 ----
 
@@ -350,7 +349,7 @@ bpn11079
 
 -- Bahá'u'lláh
 
-bpn11033 
+bpn11033 «[ગુજરાતી](../gu/prayers/#bpn11033)» 
 
 ----
 
@@ -364,7 +363,7 @@ bpn11033
 
 -- Bahá'u'lláh
 
-bpn11036 
+bpn11036 «[ગુજરાતી](../gu/prayers/#bpn11036)» 
 
 ----
 
@@ -378,7 +377,7 @@ bpn11036
 
 -- Bahá'u'lláh
 
-bpn11037 
+bpn11037 «[ગુજરાતી](../gu/prayers/#bpn11037)» 
 
 ----
 
@@ -388,7 +387,7 @@ bpn11037
 
 -- Bahá'u'lláh
 
-bpn11038 
+bpn11038 «[ગુજરાતી](../gu/prayers/#bpn11038)» 
 
 ----
 
@@ -398,7 +397,7 @@ bpn11038
 
 -- Bahá'u'lláh
 
-bpn11039 
+bpn11039 «[ગુજરાતી](../gu/prayers/#bpn11039)» 
 
 ----
 
@@ -408,7 +407,7 @@ bpn11039
 
 -- Abdu'l-Bahá
 
-bpn11060 
+bpn11060 «[ગુજરાતી](../gu/prayers/#bpn11060)» 
 
 ----
 
@@ -418,7 +417,7 @@ bpn11060
 
 -- Abdu'l-Bahá
 
-bpn11061 
+bpn11061 «[ગુજરાતી](../gu/prayers/#bpn11061)» 
 
 ----
 
@@ -432,7 +431,7 @@ bpn11061
 
 -- Bahá'u'lláh
 
-bpn11034 
+bpn11034 «[ગુજરાતી](../gu/prayers/#bpn11034)» 
 
 ----
 
@@ -442,7 +441,7 @@ bpn11034
 
 -- Bahá'u'lláh
 
-bpn11035 
+bpn11035 «[ગુજરાતી](../gu/prayers/#bpn11035)» 
 
 ----
 
@@ -452,7 +451,7 @@ bpn11035
 
 -- Abdu'l-Bahá
 
-bpn11062 
+bpn11062 «[ગુજરાતી](../gu/prayers/#bpn11062)» 
 
 ----
 
@@ -466,7 +465,7 @@ bpn11062
 
 -- Bahá'u'lláh
 
-bpn11040 
+bpn11040 «[ગુજરાતી](../gu/prayers/#bpn11040)» 
 
 ----
 
@@ -476,7 +475,7 @@ bpn11040
 
 -- Abdu'l-Bahá
 
-bpn11063 
+bpn11063 «[ગુજરાતી](../gu/prayers/#bpn11063)» 
 
 ----
 
@@ -486,7 +485,7 @@ bpn11063
 
 -- Abdu'l-Bahá
 
-bpn11064 
+bpn11064 «[ગુજરાતી](../gu/prayers/#bpn11064)» 
 
 ----
 
@@ -500,7 +499,7 @@ bpn11064
 
 -- Abdu'l-Bahá
 
-bpn11065 
+bpn11065 «[ગુજરાતી](../gu/prayers/#bpn11065)» 
 
 ----
 
@@ -514,7 +513,7 @@ bpn11065
 
 -- Bahá'u'lláh
 
-bpn12027 
+bpn12027 «[ગુજરાતી](../gu/prayers/#bpn12027)» 
 
 ----
 
@@ -528,7 +527,7 @@ bpn12027
 
 -- Abdu'l-Bahá
 
-bpn11066 
+bpn11066 «[ગુજરાતી](../gu/prayers/#bpn11066)» 
 
 ----
 
@@ -538,7 +537,7 @@ bpn11066
 
 -- Abdu'l-Bahá
 
-bpn11067 
+bpn11067 «[ગુજરાતી](../gu/prayers/#bpn11067)» 
 
 ----
 
@@ -552,7 +551,7 @@ bpn11067
 
 -- Bahá'u'lláh
 
-bpn11041 
+bpn11041 «[ગુજરાતી](../gu/prayers/#bpn11041)» 
 
 ----
 
@@ -562,7 +561,7 @@ bpn11041
 
 -- Bahá'u'lláh
 
-bpn11042 
+bpn11042 «[ગુજરાતી](../gu/prayers/#bpn11042)» 
 
 ----
 
@@ -572,7 +571,7 @@ bpn11042
 
 -- Bahá'u'lláh
 
-bpn11043 
+bpn11043 «[ગુજરાતી](../gu/prayers/#bpn11043)» 
 
 ----
 
@@ -582,7 +581,7 @@ bpn11043
 
 -- Bahá'u'lláh
 
-bpn11044 
+bpn11044 «[ગુજરાતી](../gu/prayers/#bpn11044)» 
 
 ----
 
@@ -592,7 +591,7 @@ bpn11044
 
 -- Bahá'u'lláh
 
-bpn11045 
+bpn11045 «[ગુજરાતી](../gu/prayers/#bpn11045)» 
 
 ----
 
@@ -606,7 +605,7 @@ bpn11045
 
 -- Bahá'u'lláh
 
-bpn11046 
+bpn11046 «[ગુજરાતી](../gu/prayers/#bpn11046)» 
 
 ----
 
@@ -616,7 +615,7 @@ bpn11046
 
 -- Bahá'u'lláh
 
-bpn11047 
+bpn11047 «[ગુજરાતી](../gu/prayers/#bpn11047)» 
 
 ----
 
@@ -626,7 +625,7 @@ bpn11047
 
 -- Bahá'u'lláh
 
-bpn11048 
+bpn11048 «[ગુજરાતી](../gu/prayers/#bpn11048)» 
 
 ----
 
@@ -640,7 +639,7 @@ bpn11048
 
 -- Bahá'u'lláh
 
-bpn11049 
+bpn11049 «[ગુજરાતી](../gu/prayers/#bpn11049)» 
 
 ----
 
@@ -650,7 +649,7 @@ bpn11049
 
 -- Bahá'u'lláh
 
-bpn11050 
+bpn11050 «[ગુજરાતી](../gu/prayers/#bpn11050)» 
 
 ----
 
@@ -664,7 +663,7 @@ bpn11050
 
 -- Abdu'l-Bahá
 
-bpn11071 
+bpn11071 «[ગુજરાતી](../gu/prayers/#bpn11071)» 
 
 ----
 
@@ -674,7 +673,7 @@ bpn11071
 
 -- Abdu'l-Bahá
 
-bpn11072 
+bpn11072 «[ગુજરાતી](../gu/prayers/#bpn11072)» 
 
 ----
 
@@ -688,7 +687,7 @@ bpn11072
 
 -- Abdu'l-Bahá
 
-bpn11074 
+bpn11074 «[ગુજરાતી](../gu/prayers/#bpn11074)» 
 
 ----
 
@@ -698,7 +697,7 @@ bpn11074
 
 -- Abdu'l-Bahá
 
-bpn11075 
+bpn11075 «[ગુજરાતી](../gu/prayers/#bpn11075)» 
 
 ----
 
@@ -712,7 +711,7 @@ bpn11075
 
 -- Abdu'l-Bahá
 
-bpn11068 
+bpn11068 «[ગુજરાતી](../gu/prayers/#bpn11068)» 
 
 ----
 
@@ -722,7 +721,7 @@ bpn11068
 
 -- Abdu'l-Bahá
 
-bpn11069 
+bpn11069 «[ગુજરાતી](../gu/prayers/#bpn11069)» 
 
 ----
 
@@ -732,7 +731,7 @@ bpn11069
 
 -- Abdu'l-Bahá
 
-bpn11070 
+bpn11070 «[ગુજરાતી](../gu/prayers/#bpn11070)» 
 
 ----
 
@@ -746,7 +745,7 @@ bpn11070
 
 -- Bahá'u'lláh
 
-bpn11051 
+bpn11051 «[ગુજરાતી](../gu/prayers/#bpn11051)» 
 
 ----
 
@@ -756,7 +755,7 @@ bpn11051
 
 -- Bahá'u'lláh
 
-bpn11052 
+bpn11052 «[ગુજરાતી](../gu/prayers/#bpn11052)» 
 
 ----
 
@@ -766,7 +765,7 @@ bpn11052
 
 -- Bahá'u'lláh
 
-bpn11053 
+bpn11053 «[ગુજરાતી](../gu/prayers/#bpn11053)» 
 
 ----
 
@@ -776,7 +775,7 @@ bpn11053
 
 -- Abdu'l-Bahá
 
-bpn11073 
+bpn11073 «[ગુજરાતી](../gu/prayers/#bpn11073)» 
 
 ----
 

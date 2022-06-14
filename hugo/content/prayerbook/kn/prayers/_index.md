@@ -89,7 +89,6 @@ tags = ['lang=kn', 'prayerbook']
 
 [ಹೆತ್ತವರಿಗಾಗಿ](#%E0%B2%B9%E0%B3%86%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF)
 
-[ಹೆತ್ತವರಿಗಾಗಿ](#%E0%B2%B9%E0%B3%86%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF)
 
 
 <a id="%E0%B2%85%E0%B2%97%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B6%E0%B2%BE%E0%B2%B8%E0%B2%A8"></a> 
@@ -100,7 +99,7 @@ tags = ['lang=kn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn9519 
+bpn9519 «[ಕನ್ನಡ](../kn/prayers/#bpn9519)» 
 
 ----
 
@@ -114,7 +113,7 @@ bpn9519
 
 -- Abdu'l-Bahá
 
-bpn9496 
+bpn9496 «[ಕನ್ನಡ](../kn/prayers/#bpn9496)» 
 
 ----
 
@@ -128,7 +127,7 @@ bpn9496
 
 -- Bahá'u'lláh
 
-bpn9510 
+bpn9510 «[ಕನ್ನಡ](../kn/prayers/#bpn9510)» 
 
 ----
 
@@ -142,7 +141,7 @@ bpn9510
 
 -- Abdu'l-Bahá
 
-bpn9507 
+bpn9507 «[ಕನ್ನಡ](../kn/prayers/#bpn9507)» 
 
 ----
 
@@ -156,7 +155,7 @@ bpn9507
 
 -- Bahá'u'lláh
 
-bpn9508 
+bpn9508 «[ಕನ್ನಡ](../kn/prayers/#bpn9508)» 
 
 ----
 
@@ -166,7 +165,7 @@ bpn9508
 
 -- Bahá'u'lláh
 
-bpn9509 
+bpn9509 «[ಕನ್ನಡ](../kn/prayers/#bpn9509)» 
 
 ----
 
@@ -180,7 +179,7 @@ bpn9509
 
 -- Abdu'l-Bahá
 
-bpn9520 
+bpn9520 «[ಕನ್ನಡ](../kn/prayers/#bpn9520)» 
 
 ----
 
@@ -194,7 +193,7 @@ bpn9520
 
 -- Abdu'l-Bahá
 
-bpn9476 
+bpn9476 «[ಕನ್ನಡ](../kn/prayers/#bpn9476)» 
 
 ----
 
@@ -204,7 +203,7 @@ bpn9476
 
 -- Abdu'l-Bahá
 
-bpn9477 
+bpn9477 «[ಕನ್ನಡ](../kn/prayers/#bpn9477)» 
 
 ----
 
@@ -214,7 +213,7 @@ bpn9477
 
 -- Abdu'l-Bahá
 
-bpn9478 
+bpn9478 «[ಕನ್ನಡ](../kn/prayers/#bpn9478)» 
 
 ----
 
@@ -228,7 +227,7 @@ bpn9478
 
 -- Bahá'u'lláh
 
-bpn9516 
+bpn9516 «[ಕನ್ನಡ](../kn/prayers/#bpn9516)» 
 
 ----
 
@@ -242,7 +241,7 @@ bpn9516
 
 -- Bahá'u'lláh
 
-bpn9481 
+bpn9481 «[ಕನ್ನಡ](../kn/prayers/#bpn9481)» 
 
 ----
 
@@ -252,7 +251,7 @@ bpn9481
 
 -- Bahá'u'lláh
 
-bpn9482 
+bpn9482 «[ಕನ್ನಡ](../kn/prayers/#bpn9482)» 
 
 ----
 
@@ -262,7 +261,7 @@ bpn9482
 
 -- Bahá'u'lláh
 
-bpn9488 
+bpn9488 «[ಕನ್ನಡ](../kn/prayers/#bpn9488)» 
 
 ----
 
@@ -272,7 +271,7 @@ bpn9488
 
 -- Abdu'l-Bahá
 
-bpn9483 
+bpn9483 «[ಕನ್ನಡ](../kn/prayers/#bpn9483)» 
 
 ----
 
@@ -282,7 +281,7 @@ bpn9483
 
 -- Abdu'l-Bahá
 
-bpn9484 
+bpn9484 «[ಕನ್ನಡ](../kn/prayers/#bpn9484)» 
 
 ----
 
@@ -292,7 +291,7 @@ bpn9484
 
 -- Abdu'l-Bahá
 
-bpn9485 
+bpn9485 «[ಕನ್ನಡ](../kn/prayers/#bpn9485)» 
 
 ----
 
@@ -302,7 +301,7 @@ bpn9485
 
 -- Abdu'l-Bahá
 
-bpn9486 
+bpn9486 «[ಕನ್ನಡ](../kn/prayers/#bpn9486)» 
 
 ----
 
@@ -312,7 +311,7 @@ bpn9486
 
 -- Abdu'l-Bahá
 
-bpn9487 
+bpn9487 «[ಕನ್ನಡ](../kn/prayers/#bpn9487)» 
 
 ----
 
@@ -326,7 +325,7 @@ bpn9487
 
 -- Abdu'l-Bahá
 
-bpn9479 
+bpn9479 «[ಕನ್ನಡ](../kn/prayers/#bpn9479)» 
 
 ----
 
@@ -336,7 +335,7 @@ bpn9479
 
 -- Abdu'l-Bahá
 
-bpn9480 
+bpn9480 «[ಕನ್ನಡ](../kn/prayers/#bpn9480)» 
 
 ----
 
@@ -350,7 +349,7 @@ bpn9480
 
 -- Bahá'u'lláh
 
-bpn9511 
+bpn9511 «[ಕನ್ನಡ](../kn/prayers/#bpn9511)» 
 
 ----
 
@@ -360,7 +359,7 @@ bpn9511
 
 -- Abdu'l-Bahá
 
-bpn9512 
+bpn9512 «[ಕನ್ನಡ](../kn/prayers/#bpn9512)» 
 
 ----
 
@@ -374,7 +373,7 @@ bpn9512
 
 -- Bahá'u'lláh
 
-bpn9465 
+bpn9465 «[ಕನ್ನಡ](../kn/prayers/#bpn9465)» 
 
 ----
 
@@ -388,7 +387,7 @@ bpn9465
 
 -- Bahá'u'lláh
 
-bpn9503 
+bpn9503 «[ಕನ್ನಡ](../kn/prayers/#bpn9503)» 
 
 ----
 
@@ -398,7 +397,7 @@ bpn9503
 
 -- Bahá'u'lláh
 
-bpn9504 
+bpn9504 «[ಕನ್ನಡ](../kn/prayers/#bpn9504)» 
 
 ----
 
@@ -408,7 +407,7 @@ bpn9504
 
 -- Bahá'u'lláh
 
-bpn9505 
+bpn9505 «[ಕನ್ನಡ](../kn/prayers/#bpn9505)» 
 
 ----
 
@@ -418,7 +417,7 @@ bpn9505
 
 -- Abdu'l-Bahá
 
-bpn9506 
+bpn9506 «[ಕನ್ನಡ](../kn/prayers/#bpn9506)» 
 
 ----
 
@@ -432,7 +431,7 @@ bpn9506
 
 -- Abdu'l-Bahá
 
-bpn9444 
+bpn9444 «[ಕನ್ನಡ](../kn/prayers/#bpn9444)» 
 
 ----
 
@@ -442,7 +441,7 @@ bpn9444
 
 -- Abdu'l-Bahá
 
-bpn9445 
+bpn9445 «[ಕನ್ನಡ](../kn/prayers/#bpn9445)» 
 
 ----
 
@@ -456,7 +455,7 @@ bpn9445
 
 -- Bahá'u'lláh
 
-bpn9497 
+bpn9497 «[ಕನ್ನಡ](../kn/prayers/#bpn9497)» 
 
 ----
 
@@ -466,7 +465,7 @@ bpn9497
 
 -- Bahá'u'lláh
 
-bpn9498 
+bpn9498 «[ಕನ್ನಡ](../kn/prayers/#bpn9498)» 
 
 ----
 
@@ -476,7 +475,7 @@ bpn9498
 
 -- Bahá'u'lláh
 
-bpn9499 
+bpn9499 «[ಕನ್ನಡ](../kn/prayers/#bpn9499)» 
 
 ----
 
@@ -486,7 +485,7 @@ bpn9499
 
 -- Báb
 
-bpn9500 
+bpn9500 «[ಕನ್ನಡ](../kn/prayers/#bpn9500)» 
 
 ----
 
@@ -496,7 +495,7 @@ bpn9500
 
 -- Báb
 
-bpn9501 
+bpn9501 «[ಕನ್ನಡ](../kn/prayers/#bpn9501)» 
 
 ----
 
@@ -506,7 +505,7 @@ bpn9501
 
 -- Abdu'l-Bahá
 
-bpn9502 
+bpn9502 «[ಕನ್ನಡ](../kn/prayers/#bpn9502)» 
 
 ----
 
@@ -520,7 +519,7 @@ bpn9502
 
 -- Bahá'u'lláh
 
-bpn9447 
+bpn9447 «[ಕನ್ನಡ](../kn/prayers/#bpn9447)» 
 
 ----
 
@@ -530,7 +529,7 @@ bpn9447
 
 -- Báb
 
-bpn9448 
+bpn9448 «[ಕನ್ನಡ](../kn/prayers/#bpn9448)» 
 
 ----
 
@@ -540,7 +539,7 @@ bpn9448
 
 -- Abdu'l-Bahá
 
-bpn9449 
+bpn9449 «[ಕನ್ನಡ](../kn/prayers/#bpn9449)» 
 
 ----
 
@@ -550,7 +549,7 @@ bpn9449
 
 -- Abdu'l-Bahá
 
-bpn9450 
+bpn9450 «[ಕನ್ನಡ](../kn/prayers/#bpn9450)» 
 
 ----
 
@@ -564,7 +563,7 @@ bpn9450
 
 -- Abdu'l-Bahá
 
-bpn9442 
+bpn9442 «[ಕನ್ನಡ](../kn/prayers/#bpn9442)» 
 
 ----
 
@@ -574,7 +573,7 @@ bpn9442
 
 -- Abdu'l-Bahá
 
-bpn9443 
+bpn9443 «[ಕನ್ನಡ](../kn/prayers/#bpn9443)» 
 
 ----
 
@@ -588,7 +587,7 @@ bpn9443
 
 -- Bahá'u'lláh
 
-bpn9453 
+bpn9453 «[ಕನ್ನಡ](../kn/prayers/#bpn9453)» 
 
 ----
 
@@ -598,7 +597,7 @@ bpn9453
 
 -- Bahá'u'lláh
 
-bpn9454 
+bpn9454 «[ಕನ್ನಡ](../kn/prayers/#bpn9454)» 
 
 ----
 
@@ -612,7 +611,7 @@ bpn9454
 
 -- Bahá'u'lláh
 
-bpn9515 
+bpn9515 «[ಕನ್ನಡ](../kn/prayers/#bpn9515)» 
 
 ----
 
@@ -626,7 +625,7 @@ bpn9515
 
 -- Bahá'u'lláh
 
-bpn9438 
+bpn9438 «[ಕನ್ನಡ](../kn/prayers/#bpn9438)» 
 
 ----
 
@@ -636,7 +635,7 @@ bpn9438
 
 -- Bahá'u'lláh
 
-bpn9439 
+bpn9439 «[ಕನ್ನಡ](../kn/prayers/#bpn9439)» 
 
 ----
 
@@ -646,7 +645,7 @@ bpn9439
 
 -- Bahá'u'lláh
 
-bpn9441 
+bpn9441 «[ಕನ್ನಡ](../kn/prayers/#bpn9441)» 
 
 ----
 
@@ -656,7 +655,7 @@ bpn9441
 
 -- Abdu'l-Bahá
 
-bpn9440 
+bpn9440 «[ಕನ್ನಡ](../kn/prayers/#bpn9440)» 
 
 ----
 
@@ -670,7 +669,7 @@ bpn9440
 
 -- Abdu'l-Bahá
 
-bpn9451 
+bpn9451 «[ಕನ್ನಡ](../kn/prayers/#bpn9451)» 
 
 ----
 
@@ -684,7 +683,7 @@ bpn9451
 
 -- Báb
 
-bpn9436 
+bpn9436 «[ಕನ್ನಡ](../kn/prayers/#bpn9436)» 
 
 ----
 
@@ -694,7 +693,7 @@ bpn9436
 
 -- Báb
 
-bpn9437 
+bpn9437 «[ಕನ್ನಡ](../kn/prayers/#bpn9437)» 
 
 ----
 
@@ -708,7 +707,7 @@ bpn9437
 
 -- Bahá'u'lláh
 
-bpn9513 
+bpn9513 «[ಕನ್ನಡ](../kn/prayers/#bpn9513)» 
 
 ----
 
@@ -722,7 +721,7 @@ bpn9513
 
 -- Abdu'l-Bahá
 
-bpn9455 
+bpn9455 «[ಕನ್ನಡ](../kn/prayers/#bpn9455)» 
 
 ----
 
@@ -736,7 +735,7 @@ bpn9455
 
 -- Bahá'u'lláh
 
-bpn9456 
+bpn9456 «[ಕನ್ನಡ](../kn/prayers/#bpn9456)» 
 
 ----
 
@@ -746,7 +745,7 @@ bpn9456
 
 -- Bahá'u'lláh
 
-bpn9457 
+bpn9457 «[ಕನ್ನಡ](../kn/prayers/#bpn9457)» 
 
 ----
 
@@ -760,7 +759,7 @@ bpn9457
 
 -- Bahá'u'lláh
 
-bpn9472 
+bpn9472 «[ಕನ್ನಡ](../kn/prayers/#bpn9472)» 
 
 ----
 
@@ -770,7 +769,7 @@ bpn9472
 
 -- Abdu'l-Bahá
 
-bpn9473 
+bpn9473 «[ಕನ್ನಡ](../kn/prayers/#bpn9473)» 
 
 ----
 
@@ -784,7 +783,7 @@ bpn9473
 
 -- Bahá'u'lláh
 
-bpn9466 
+bpn9466 «[ಕನ್ನಡ](../kn/prayers/#bpn9466)» 
 
 ----
 
@@ -798,7 +797,7 @@ bpn9466
 
 -- Bahá'u'lláh
 
-bpn9489 
+bpn9489 «[ಕನ್ನಡ](../kn/prayers/#bpn9489)» 
 
 ----
 
@@ -808,7 +807,7 @@ bpn9489
 
 -- Bahá'u'lláh
 
-bpn9495 
+bpn9495 «[ಕನ್ನಡ](../kn/prayers/#bpn9495)» 
 
 ----
 
@@ -818,7 +817,7 @@ bpn9495
 
 -- Abdu'l-Bahá
 
-bpn9490 
+bpn9490 «[ಕನ್ನಡ](../kn/prayers/#bpn9490)» 
 
 ----
 
@@ -828,7 +827,7 @@ bpn9490
 
 -- Abdu'l-Bahá
 
-bpn9492 
+bpn9492 «[ಕನ್ನಡ](../kn/prayers/#bpn9492)» 
 
 ----
 
@@ -838,7 +837,7 @@ bpn9492
 
 -- Abdu'l-Bahá
 
-bpn9493 
+bpn9493 «[ಕನ್ನಡ](../kn/prayers/#bpn9493)» 
 
 ----
 
@@ -848,7 +847,7 @@ bpn9493
 
 -- Abdu'l-Bahá
 
-bpn9494 
+bpn9494 «[ಕನ್ನಡ](../kn/prayers/#bpn9494)» 
 
 ----
 
@@ -858,7 +857,7 @@ bpn9494
 
 -- Abdu'l-Bahá
 
-bpn9491 
+bpn9491 «[ಕನ್ನಡ](../kn/prayers/#bpn9491)» 
 
 ----
 
@@ -872,7 +871,7 @@ bpn9491
 
 -- Bahá'u'lláh
 
-bpn9452 
+bpn9452 «[ಕನ್ನಡ](../kn/prayers/#bpn9452)» 
 
 ----
 
@@ -886,7 +885,7 @@ bpn9452
 
 -- Bahá'u'lláh
 
-bpn9428 
+bpn9428 «[ಕನ್ನಡ](../kn/prayers/#bpn9428)» 
 
 ----
 
@@ -896,7 +895,7 @@ bpn9428
 
 -- Abdu'l-Bahá
 
-bpn9429 
+bpn9429 «[ಕನ್ನಡ](../kn/prayers/#bpn9429)» 
 
 ----
 
@@ -906,7 +905,7 @@ bpn9429
 
 -- Abdu'l-Bahá
 
-bpn9430 
+bpn9430 «[ಕನ್ನಡ](../kn/prayers/#bpn9430)» 
 
 ----
 
@@ -916,7 +915,7 @@ bpn9430
 
 -- Abdu'l-Bahá
 
-bpn9431 
+bpn9431 «[ಕನ್ನಡ](../kn/prayers/#bpn9431)» 
 
 ----
 
@@ -926,7 +925,7 @@ bpn9431
 
 -- Abdu'l-Bahá
 
-bpn9432 
+bpn9432 «[ಕನ್ನಡ](../kn/prayers/#bpn9432)» 
 
 ----
 
@@ -936,7 +935,7 @@ bpn9432
 
 -- Abdu'l-Bahá
 
-bpn9433 
+bpn9433 «[ಕನ್ನಡ](../kn/prayers/#bpn9433)» 
 
 ----
 
@@ -946,7 +945,7 @@ bpn9433
 
 -- Abdu'l-Bahá
 
-bpn9434 
+bpn9434 «[ಕನ್ನಡ](../kn/prayers/#bpn9434)» 
 
 ----
 
@@ -960,7 +959,7 @@ bpn9434
 
 -- Abdu'l-Bahá
 
-bpn9469 
+bpn9469 «[ಕನ್ನಡ](../kn/prayers/#bpn9469)» 
 
 ----
 
@@ -974,7 +973,7 @@ bpn9469
 
 -- Abdu'l-Bahá
 
-bpn9458 
+bpn9458 «[ಕನ್ನಡ](../kn/prayers/#bpn9458)» 
 
 ----
 
@@ -984,7 +983,7 @@ bpn9458
 
 -- Abdu'l-Bahá
 
-bpn9459 
+bpn9459 «[ಕನ್ನಡ](../kn/prayers/#bpn9459)» 
 
 ----
 
@@ -998,7 +997,7 @@ bpn9459
 
 -- Abdu'l-Bahá
 
-bpn9435 
+bpn9435 «[ಕನ್ನಡ](../kn/prayers/#bpn9435)» 
 
 ----
 
@@ -1012,7 +1011,7 @@ bpn9435
 
 -- Bahá'u'lláh
 
-bpn9474 
+bpn9474 «[ಕನ್ನಡ](../kn/prayers/#bpn9474)» 
 
 ----
 
@@ -1022,7 +1021,7 @@ bpn9474
 
 -- Abdu'l-Bahá
 
-bpn9475 
+bpn9475 «[ಕನ್ನಡ](../kn/prayers/#bpn9475)» 
 
 ----
 
@@ -1036,7 +1035,7 @@ bpn9475
 
 -- Bahá'u'lláh
 
-bpn9518 
+bpn9518 «[ಕನ್ನಡ](../kn/prayers/#bpn9518)» 
 
 ----
 
@@ -1050,7 +1049,7 @@ bpn9518
 
 -- Bahá'u'lláh
 
-bpn9467 
+bpn9467 «[ಕನ್ನಡ](../kn/prayers/#bpn9467)» 
 
 ----
 
@@ -1060,7 +1059,7 @@ bpn9467
 
 -- Bahá'u'lláh
 
-bpn9468 
+bpn9468 «[ಕನ್ನಡ](../kn/prayers/#bpn9468)» 
 
 ----
 
@@ -1074,7 +1073,7 @@ bpn9468
 
 -- Bahá'u'lláh
 
-bpn9517 
+bpn9517 «[ಕನ್ನಡ](../kn/prayers/#bpn9517)» 
 
 ----
 
@@ -1088,7 +1087,7 @@ bpn9517
 
 -- Abdu'l-Bahá
 
-bpn9514 
+bpn9514 «[ಕನ್ನಡ](../kn/prayers/#bpn9514)» 
 
 ----
 
@@ -1102,7 +1101,7 @@ bpn9514
 
 -- Bahá'u'lláh
 
-bpn9446 
+bpn9446 «[ಕನ್ನಡ](../kn/prayers/#bpn9446)» 
 
 ----
 
@@ -1116,7 +1115,7 @@ bpn9446
 
 -- Abdu'l-Bahá
 
-bpn9460 
+bpn9460 «[ಕನ್ನಡ](../kn/prayers/#bpn9460)» 
 
 ----
 
@@ -1126,7 +1125,7 @@ bpn9460
 
 -- Abdu'l-Bahá
 
-bpn9461 
+bpn9461 «[ಕನ್ನಡ](../kn/prayers/#bpn9461)» 
 
 ----
 
@@ -1136,7 +1135,7 @@ bpn9461
 
 -- Abdu'l-Bahá
 
-bpn9462 
+bpn9462 «[ಕನ್ನಡ](../kn/prayers/#bpn9462)» 
 
 ----
 
@@ -1146,7 +1145,7 @@ bpn9462
 
 -- Abdu'l-Bahá
 
-bpn9463 
+bpn9463 «[ಕನ್ನಡ](../kn/prayers/#bpn9463)» 
 
 ----
 
@@ -1156,7 +1155,7 @@ bpn9463
 
 -- Abdu'l-Bahá
 
-bpn9464 
+bpn9464 «[ಕನ್ನಡ](../kn/prayers/#bpn9464)» 
 
 ----
 
@@ -1170,7 +1169,7 @@ bpn9464
 
 -- Bahá'u'lláh
 
-bpn9424 
+bpn9424 «[ಕನ್ನಡ](../kn/prayers/#bpn9424)» 
 
 ----
 
@@ -1180,7 +1179,7 @@ bpn9424
 
 -- Bahá'u'lláh
 
-bpn9425 
+bpn9425 «[ಕನ್ನಡ](../kn/prayers/#bpn9425)» 
 
 ----
 
@@ -1190,7 +1189,7 @@ bpn9425
 
 -- Abdu'l-Bahá
 
-bpn9426 
+bpn9426 «[ಕನ್ನಡ](../kn/prayers/#bpn9426)» 
 
 ----
 
@@ -1200,7 +1199,7 @@ bpn9426
 
 -- Abdu'l-Bahá
 
-bpn9427 
+bpn9427 «[ಕನ್ನಡ](../kn/prayers/#bpn9427)» 
 
 ----
 
@@ -1214,7 +1213,7 @@ bpn9427
 
 -- Bahá'u'lláh
 
-bpn9470 
+bpn9470 «[ಕನ್ನಡ](../kn/prayers/#bpn9470)» 
 
 ----
 
@@ -1224,7 +1223,7 @@ bpn9470
 
 -- Abdu'l-Bahá
 
-bpn9471 
+bpn9471 «[ಕನ್ನಡ](../kn/prayers/#bpn9471)» 
 
 ----
 

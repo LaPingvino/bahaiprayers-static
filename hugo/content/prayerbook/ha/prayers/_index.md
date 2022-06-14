@@ -71,7 +71,7 @@ Da sūnan Allah, madawwami, mafi girma. A gaskiya, zūkācen aminnai nā tōyēw
 
 -- Bahá'u'lláh
 
-bpn11759 
+bpn11759 «[Hausa](../ha/prayers/#bpn11759)» 
 
 ----
 
@@ -85,7 +85,7 @@ Shīnē Sarki, Masani, Mai hikima ! Ka saurāri sūdar aljanna dake bisa rassun 
 
 -- Bahá'u'lláh
 
-bpn11708 
+bpn11708 «[Hausa](../ha/prayers/#bpn11708)» 
 
 ----
 
@@ -99,7 +99,7 @@ bpn11708
 
 -- Bahá'u'lláh
 
-bpn11703 
+bpn11703 «[Hausa](../ha/prayers/#bpn11703)» 
 
 ----
 
@@ -113,7 +113,7 @@ Yā Allāna, Ubangijina! Nī bāwanka ne, kuma ɗan bāwanka. Nā bar mabartata 
 
 -- Bahá'u'lláh
 
-bpn11712 
+bpn11712 «[Hausa](../ha/prayers/#bpn11712)» 
 
 ----
 
@@ -127,7 +127,7 @@ Shīnē mai yalwa, mai kyauta ! Yabo ya tabatta ga Allah, mai dawwama, maras sau
 
 -- Bahá'u'lláh
 
-bpn11705 
+bpn11705 «[Hausa](../ha/prayers/#bpn11705)» 
 
 ----
 
@@ -137,7 +137,7 @@ bpn11705
 
 -- Abdu'l-Bahá
 
-bpn11706 
+bpn11706 «[Hausa](../ha/prayers/#bpn11706)» 
 
 ----
 
@@ -151,7 +151,7 @@ bpn11706
 
 -- Bahá'u'lláh
 
-bpn11709 
+bpn11709 «[Hausa](../ha/prayers/#bpn11709)» 
 
 ----
 
@@ -161,7 +161,7 @@ Yabo ya tabbata a garēka yā Ubangiji Allāna. Ina rōƙon ka, don darajar wann
 
 -- Bahá'u'lláh
 
-bpn11710 
+bpn11710 «[Hausa](../ha/prayers/#bpn11710)» 
 
 ----
 
@@ -175,7 +175,7 @@ Ta yāyā zan nēmi barci, yā Allah Ubangijina, alhāli kuwa, ina ganin wanɗan
 
 -- Bahá'u'lláh
 
-bpn11714 
+bpn11714 «[Hausa](../ha/prayers/#bpn11714)» 
 
 ----
 
@@ -185,7 +185,7 @@ Yā Allāna, majibincīna, maƙārashin duk wata bukātāta ! Gā bāwanka nan y
 
 -- Bahá'u'lláh
 
-bpn11715 
+bpn11715 «[Hausa](../ha/prayers/#bpn11715)» 
 
 ----
 
@@ -195,7 +195,7 @@ Yā Ubangiji, nā jūya huskāta wajen fādar ɗayantakarka, kuma nā nutsa kain
 
 -- Abdu'l-Bahá
 
-bpn11716 
+bpn11716 «[Hausa](../ha/prayers/#bpn11716)» 
 
 ----
 
@@ -209,7 +209,7 @@ Igiyar dake ɗaure zūkāce yanda ya kamāta, ita cē, biyayya. Idan sun haɗu, 
 
 -- Abdu'l-Bahá
 
-bpn11707 
+bpn11707 «[Hausa](../ha/prayers/#bpn11707)» 
 
 ----
 
@@ -223,7 +223,7 @@ Ya jalla, Ubangiji Allāna ! Ina maka gōdiya da ka sā a cikin yardarka, na bā
 
 -- Bahá'u'lláh
 
-bpn11756 
+bpn11756 «[Hausa](../ha/prayers/#bpn11756)» 
 
 ----
 
@@ -237,7 +237,7 @@ Yā Allāna ! Yā Allāna !Haɗa zukācen bāyinka, kuma ka bayyana musu nufinka
 
 -- Bahá'u'lláh
 
-bpn11741 
+bpn11741 «[Hausa](../ha/prayers/#bpn11741)» 
 
 ----
 
@@ -251,7 +251,7 @@ Yabo ya tabbata a garēka, yā Allāna! Kai nē wanda daga būɗa bāki, sai duk
 
 -- Bahá'u'lláh
 
-bpn11730 
+bpn11730 «[Hausa](../ha/prayers/#bpn11730)» 
 
 ----
 
@@ -261,7 +261,7 @@ Yā Allāna, zukāce da yawa masu sanyi, sun zāzāfa kusa da gumin addīninka. 
 
 -- Bahá'u'lláh
 
-bpn11731 
+bpn11731 «[Hausa](../ha/prayers/#bpn11731)» 
 
 ----
 
@@ -271,7 +271,7 @@ Yabo ya tabbata a garēka, yā Ubangiji Allāna. Ga bāwanka, wanda a cikin hann
 
 -- Bahá'u'lláh
 
-bpn11732 
+bpn11732 «[Hausa](../ha/prayers/#bpn11732)» 
 
 ----
 
@@ -281,7 +281,7 @@ Yabo ya tabbata a garēka, yā Ubangiji Allāna! Gā ni ina nēman tarbon irāda
 
 -- Bahá'u'lláh
 
-bpn11733 
+bpn11733 «[Hausa](../ha/prayers/#bpn11733)» 
 
 ----
 
@@ -291,7 +291,7 @@ Yabo ya tabbata a garēka, yā Ubangiji Allāna, nī nē bāwanka wanda ya sarƙ
 
 -- Bahá'u'lláh
 
-bpn11734 
+bpn11734 «[Hausa](../ha/prayers/#bpn11734)» 
 
 ----
 
@@ -305,7 +305,7 @@ Ka cē: Yā Allah, Ubangijina, kai kā bā ni wannan ajjiya, kuma cikin irādark
 
 -- Bahá'u'lláh
 
-bpn11748 
+bpn11748 «[Hausa](../ha/prayers/#bpn11748)» 
 
 ----
 
@@ -315,7 +315,7 @@ Yā Allāna! Yā kai mai gafarta zunubi, mai saukar da ni’ima, mai kaudar da m
 
 -- Abdu'l-Bahá
 
-bpn11749 
+bpn11749 «[Hausa](../ha/prayers/#bpn11749)» 
 
 ----
 
@@ -329,7 +329,7 @@ Wā bāya ga Allah kē kauda matsalōli ?Cē : Yabo ya tabbata ga Allah, shī ka
 
 -- Báb
 
-bpn11720 
+bpn11720 «[Hausa](../ha/prayers/#bpn11720)» 
 
 ----
 
@@ -339,7 +339,7 @@ Tabbatā cēwa : Allah yā wadāta ga kōmi, ya hiye ga kōmi. ƙasa da sama, b�
 
 -- Báb
 
-bpn11721 
+bpn11721 «[Hausa](../ha/prayers/#bpn11721)» 
 
 ----
 
@@ -353,7 +353,7 @@ Sūnanka warkarwātā nē, yā Ubangijina, kuma tunāninka māgāni nē a garēn
 
 -- Bahá'u'lláh
 
-bpn11726 
+bpn11726 «[Hausa](../ha/prayers/#bpn11726)» 
 
 ----
 
@@ -363,7 +363,7 @@ Yā Allah, Ubangijina, ina rōƙon ka, a cikin tēkun warkarwarka, da hasken tar
 
 -- Bahá'u'lláh
 
-bpn11727 
+bpn11727 «[Hausa](../ha/prayers/#bpn11727)» 
 
 ----
 
@@ -373,7 +373,7 @@ Yā Ubangiji Allah maɗaukakin Sarki ! Ina rōƙon ka da sūnanka wanda ta garē
 
 -- Bahá'u'lláh
 
-bpn11728 
+bpn11728 «[Hausa](../ha/prayers/#bpn11728)» 
 
 ----
 
@@ -383,7 +383,7 @@ Yā Allāna, kai nē, wanda sūnayenka kē warkar da māsu cūta, kē sauko lāf
 
 -- Bahá'u'lláh
 
-bpn11729 
+bpn11729 «[Hausa](../ha/prayers/#bpn11729)» 
 
 ----
 
@@ -397,7 +397,7 @@ Yā kai wanda matsala daga garēka ita cē cikakken māgani ga waɗanda suke kus
 
 -- Bahá'u'lláh
 
-bpn11742 
+bpn11742 «[Hausa](../ha/prayers/#bpn11742)» 
 
 ----
 
@@ -407,7 +407,7 @@ Yabo ya tabbata a garēka, yā Allāna ! Nā nēmi shaida ga īkonka, in bā don
 
 -- Bahá'u'lláh
 
-bpn11743 
+bpn11743 «[Hausa](../ha/prayers/#bpn11743)» 
 
 ----
 
@@ -417,7 +417,7 @@ Yā Allah Ubangijina, kar ka kasance nēsa da ni, sabōda matsalōli sun māmāy
 
 -- Bahá'u'lláh
 
-bpn11744 
+bpn11744 «[Hausa](../ha/prayers/#bpn11744)» 
 
 ----
 
@@ -427,7 +427,7 @@ Yabo da ɗaukaka su tabbata a garēka yā Allāna. Ina rōƙon ka, don darajar s
 
 -- Bahá'u'lláh
 
-bpn11745 
+bpn11745 «[Hausa](../ha/prayers/#bpn11745)» 
 
 ----
 
@@ -441,7 +441,7 @@ bpn11745
 
 -- Bahá'u'lláh
 
-bpn11704 
+bpn11704 «[Hausa](../ha/prayers/#bpn11704)» 
 
 ----
 
@@ -455,7 +455,7 @@ bpn11704
 
 -- Bahá'u'lláh
 
-bpn11702 
+bpn11702 «[Hausa](../ha/prayers/#bpn11702)» 
 
 ----
 
@@ -469,7 +469,7 @@ bpn11702
 
 -- Bahá'u'lláh
 
-bpn11701 
+bpn11701 «[Hausa](../ha/prayers/#bpn11701)» 
 
 ----
 
@@ -483,7 +483,7 @@ Nā tāshi wannan sāhiya cikin alhērinka yā Allah. Nā huta daga gida, cikin 
 
 -- Bahá'u'lláh
 
-bpn11713 
+bpn11713 «[Hausa](../ha/prayers/#bpn11713)» 
 
 ----
 
@@ -497,7 +497,7 @@ Girmā ya tabbata a garēka, yā Ubangijina Allah, ina tambayar ka, a cikin dara
 
 -- Bahá'u'lláh
 
-bpn11746 
+bpn11746 «[Hausa](../ha/prayers/#bpn11746)» 
 
 ----
 
@@ -507,7 +507,7 @@ Daukaka ta tabbata a garēka yā Ubangiji Allah! Ina rōƙon ka ɗaga gizāgizan
 
 -- Bahá'u'lláh
 
-bpn11747 
+bpn11747 «[Hausa](../ha/prayers/#bpn11747)» 
 
 ----
 
@@ -521,7 +521,7 @@ bpn11747
 
 -- Bahá'u'lláh
 
-bpn11760 
+bpn11760 «[Hausa](../ha/prayers/#bpn11760)» 
 
 ----
 
@@ -531,7 +531,7 @@ bpn11760
 
 -- Bahá'u'lláh
 
-bpn11761 
+bpn11761 «[Hausa](../ha/prayers/#bpn11761)» 
 
 ----
 
@@ -541,7 +541,7 @@ bpn11761
 
 -- Bahá'u'lláh
 
-bpn11762 
+bpn11762 «[Hausa](../ha/prayers/#bpn11762)» 
 
 ----
 
@@ -555,7 +555,7 @@ Yabo ya tabbata ga sūnanka, yā Allāna, Ubangijin kōwa da kōmi, madōgarāta
 
 -- Bahá'u'lláh
 
-bpn11735 
+bpn11735 «[Hausa](../ha/prayers/#bpn11735)» 
 
 ----
 
@@ -565,7 +565,7 @@ Yā Ubangiji! Yā kai madōgarin tālikai! Kai nē matsirar duka bāyinka. Kai k
 
 -- Abdu'l-Bahá
 
-bpn11736 
+bpn11736 «[Hausa](../ha/prayers/#bpn11736)» 
 
 ----
 
@@ -579,7 +579,7 @@ Yā Allah, ka būɗa ƙōfa, ka bāda hāli, ka sā hanya ta zama shiryayya, ka 
 
 -- Bahá'u'lláh
 
-bpn11737 
+bpn11737 «[Hausa](../ha/prayers/#bpn11737)» 
 
 ----
 
@@ -589,7 +589,7 @@ Sūnanka ya girmama yā Allāna. Yanzu da ka sā ni hanyar gāne gaskiya, ina r�
 
 -- Bahá'u'lláh
 
-bpn11738 
+bpn11738 «[Hausa](../ha/prayers/#bpn11738)» 
 
 ----
 
@@ -599,7 +599,7 @@ Yā Allah Ubangijina! Kō da yake nī bā kōwa nē ba, kuma bā ni da wata gwan
 
 -- Abdu'l-Bahá
 
-bpn11739 
+bpn11739 «[Hausa](../ha/prayers/#bpn11739)» 
 
 ----
 
@@ -609,7 +609,7 @@ Ya kai Allah, mafi kwatamci, yā kai Ubangijin tālikai! Rāyukan nan sū ne jā
 
 -- Abdu'l-Bahá
 
-bpn11740 
+bpn11740 «[Hausa](../ha/prayers/#bpn11740)» 
 
 ----
 
@@ -623,7 +623,7 @@ Dukan yabo yā tabbata a garēka, yā Allah Ubangijina ; kai da kake tūshen gir
 
 -- Bahá'u'lláh
 
-bpn11722 
+bpn11722 «[Hausa](../ha/prayers/#bpn11722)» 
 
 ----
 
@@ -633,7 +633,7 @@ Yā Allāna, abun ƙaunāta, majibincīna, abun bukātāta! Da wane irin halshē
 
 -- Bahá'u'lláh
 
-bpn11723 
+bpn11723 «[Hausa](../ha/prayers/#bpn11723)» 
 
 ----
 
@@ -643,7 +643,7 @@ Ka cē : ɗaukaka ta tabbata a garēka, kai da ka sā duka waliyyai suka yarda d
 
 -- Bahá'u'lláh
 
-bpn11724 
+bpn11724 «[Hausa](../ha/prayers/#bpn11724)» 
 
 ----
 
@@ -653,7 +653,7 @@ Martaba ta tabbata ga sūnanka, yā Ubangiji Allāna! Kai nē wanda kōmi da kō
 
 -- Bahá'u'lláh
 
-bpn11725 
+bpn11725 «[Hausa](../ha/prayers/#bpn11725)» 
 
 ----
 
@@ -667,7 +667,7 @@ Yā Allah, ka haske wannan ƴar halittar tāka, ka ƙarfafa ta, ka ilimintar da 
 
 -- Abdu'l-Bahá
 
-bpn11750 
+bpn11750 «[Hausa](../ha/prayers/#bpn11750)» 
 
 ----
 
@@ -677,7 +677,7 @@ Yā Allah, ka tarbiyartar da yāran nan. Sūne itātuwan lambunka, sūne furanni
 
 -- Abdu'l-Bahá
 
-bpn11751 
+bpn11751 «[Hausa](../ha/prayers/#bpn11751)» 
 
 ----
 
@@ -687,7 +687,7 @@ Yā Allah, ka sā ni hanya, ka kāre ni, ka haskaka futular zūciyāta, kuma ka 
 
 -- Abdu'l-Bahá
 
-bpn11752 
+bpn11752 «[Hausa](../ha/prayers/#bpn11752)» 
 
 ----
 
@@ -697,7 +697,7 @@ Yā Allah ! ka rāyar da wannan jinjiri cikin hannun ƙaunarka, kuma ka bā shi 
 
 -- Abdu'l-Bahá
 
-bpn11753 
+bpn11753 «[Hausa](../ha/prayers/#bpn11753)» 
 
 ----
 
@@ -707,7 +707,7 @@ Yā kai Allah wahābu, nī ƙaramin yāro nē, ka girmar da ni, kuma ka karɓē 
 
 -- Abdu'l-Bahá
 
-bpn11754 
+bpn11754 «[Hausa](../ha/prayers/#bpn11754)» 
 
 ----
 
@@ -717,7 +717,7 @@ Yā Ubangiji Allanā! nī yāro nē ƙarami. Ka cīda ni da nōnon rahamarka. Ka
 
 -- Abdu'l-Bahá
 
-bpn11755 
+bpn11755 «[Hausa](../ha/prayers/#bpn11755)» 
 
 ----
 
@@ -731,7 +731,7 @@ bpn11755
 
 -- Bahá'u'lláh
 
-bpn11711 
+bpn11711 «[Hausa](../ha/prayers/#bpn11711)» 
 
 ----
 
@@ -745,7 +745,7 @@ bpn11711
 
 -- Bahá'u'lláh
 
-bpn11757 
+bpn11757 «[Hausa](../ha/prayers/#bpn11757)» 
 
 ----
 
@@ -755,7 +755,7 @@ bpn11757
 
 -- Abdu'l-Bahá
 
-bpn11758 
+bpn11758 «[Hausa](../ha/prayers/#bpn11758)» 
 
 ----
 
@@ -769,7 +769,7 @@ Yā Allah, ka sanyaya, kuma ka farinta rūhuna. Tsarkaka zūciyāta. Haskaka han
 
 -- Bahá'u'lláh
 
-bpn11717 
+bpn11717 «[Hausa](../ha/prayers/#bpn11717)» 
 
 ----
 
@@ -779,7 +779,7 @@ Ka ƙirƙiro mani zūciya mai tsarki yā Allāna, kuma ka tabbatar mani da kyauk
 
 -- Bahá'u'lláh
 
-bpn11718 
+bpn11718 «[Hausa](../ha/prayers/#bpn11718)» 
 
 ----
 
@@ -789,7 +789,7 @@ Dukan yabo ya tabbata a garēka yā Ubangiji Allāna ! Ina rōƙon ka, da sūnan
 
 -- Bahá'u'lláh
 
-bpn11719 
+bpn11719 «[Hausa](../ha/prayers/#bpn11719)» 
 
 ----
 

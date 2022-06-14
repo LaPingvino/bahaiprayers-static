@@ -5,7 +5,6 @@ tags = ['lang=se', 'prayerbook']
 
 
 
-
 [Dearvvasvuohta](#Dearvvasvuohta)
 
 [Eahket](#Eahket)
@@ -38,7 +37,7 @@ Du namma lea mu buorideapmi, O Ipmil, ja Du muitin lea munnje dálkkas. Lagašvu
 
 -- Bahá'u'lláh
 
-bpn12221 
+bpn12221 «[Sámi](../se/prayers/#bpn12221)» 
 
 ----
 
@@ -52,7 +51,7 @@ O Ipmil, mu hearrá, háluidan ulbmil! Dát Du bálvaleaddji ohcala oađđit Du 
 
 -- Bahá'u'lláh
 
-bpn12207 
+bpn12207 «[Sámi](../se/prayers/#bpn12207)» 
 
 ----
 
@@ -66,7 +65,7 @@ Leago oktage eará váttisvuođaid Eret Váldi go Ipmil? Daja: Máidnojuvvon leh
 
 -- Báb
 
-bpn12216 
+bpn12216 «[Sámi](../se/prayers/#bpn12216)» 
 
 ----
 
@@ -76,7 +75,7 @@ Lii-uv kihheen eres vädisvuođâi meddâl välddee, ko Immeel. Eeđâ, pajedum,
 
 -- Báb
 
-bpn12217 
+bpn12217 «[Sámi](../se/prayers/#bpn12217)» 
 
 ----
 
@@ -86,7 +85,7 @@ Mun ohcalan Du Fámut bokte, O Ipmilan. Ale divtte mange ráfehuhttit mu geahč�
 
 -- Báb
 
-bpn12218 
+bpn12218 «[Sámi](../se/prayers/#bpn12218)» 
 
 ----
 
@@ -96,7 +95,7 @@ Son lea láđisváimmot, buotveagalaš! O Ipmil, mu Ipmilan! Don oainnát mu, Do
 
 -- Abdu'l-Bahá
 
-bpn12219 
+bpn12219 «[Sámi](../se/prayers/#bpn12219)» 
 
 ----
 
@@ -110,7 +109,7 @@ Duođaštan, O Ipmilan, ahte leat sivdnidan mu dovdat Du ja bálvalit Du. Buvtt�
 
 -- Bahá'u'lláh
 
-bpn12204 
+bpn12204 «[Sámi](../se/prayers/#bpn12204)» 
 
 ----
 
@@ -124,7 +123,7 @@ Mun lean lihkkan Du suodjalusas, o Ipmilan, ja dat guhte duon dorvvu ohcá galg�
 
 -- Bahá'u'lláh
 
-bpn12206 
+bpn12206 «[Sámi](../se/prayers/#bpn12206)» 
 
 ----
 
@@ -138,7 +137,7 @@ Du njálgga hájat agálašvuođa rávnnjiin atte mu juhkat, O Ipmilan, ja Du le
 
 -- Bahá'u'lláh
 
-bpn12208 
+bpn12208 «[Sámi](../se/prayers/#bpn12208)» 
 
 ----
 
@@ -148,7 +147,7 @@ Atte munnje buhtes váimmu, O Ipmilan, ja ođasmahte ráfálaš diđolašvuođa 
 
 -- Bahá'u'lláh
 
-bpn12209 
+bpn12209 «[Sámi](../se/prayers/#bpn12209)» 
 
 ----
 
@@ -158,7 +157,7 @@ O Ipmil! Láide mu, várjal mu, cahkket mu čuovgga ja daga mu šerres nástin. 
 
 -- Abdu'l-Bahá
 
-bpn12210 
+bpn12210 «[Sámi](../se/prayers/#bpn12210)» 
 
 ----
 
@@ -168,7 +167,7 @@ O Ipmil! Virkkosmahte ja ilosmahte mu sielu. Buhtis mu váimmu. Ođasmahte mu f�
 
 -- Abdu'l-Bahá
 
-bpn12211 
+bpn12211 «[Sámi](../se/prayers/#bpn12211)» 
 
 ----
 
@@ -182,7 +181,7 @@ O Ipmil, Du lusa válmmaštan mun báhtaransaji ja Du mearkkaid guvlui divun vá
 
 -- Báb
 
-bpn12220 
+bpn12220 «[Sámi](../se/prayers/#bpn12220)» 
 
 ----
 
@@ -196,7 +195,7 @@ O Ipmil! Čuvge dáid mánáid. Dát mánát leat Du heđengárddi šattut, Du n
 
 -- Abdu'l-Bahá
 
-bpn12212 
+bpn12212 «[Sámi](../se/prayers/#bpn12212)» 
 
 ----
 
@@ -206,7 +205,7 @@ O Hearrá! Bija dán njuoras vesá šaddat valljodagaidat šaddogárdái, njuosk
 
 -- Abdu'l-Bahá
 
-bpn12213 
+bpn12213 «[Sámi](../se/prayers/#bpn12213)» 
 
 ----
 
@@ -220,7 +219,7 @@ O Ipmilan! O Ipmilan! Ovttas bálvaleaddjiidat váimmuid ja almmut sidjiide Du s
 
 -- Bahá'u'lláh
 
-bpn12214 
+bpn12214 «[Sámi](../se/prayers/#bpn12214)» 
 
 ----
 
@@ -230,7 +229,7 @@ O Don láđisváimmot hearrá, Don Guhte leat addálas ja návccalaš. Mii leat 
 
 -- Abdu'l-Bahá
 
-bpn12215 
+bpn12215 «[Sámi](../se/prayers/#bpn12215)» 
 
 ----
 
@@ -244,7 +243,7 @@ O Ipmilan! Don suttuid ándagassii addi, skeaŋkkaid juohkki, váttisvuođaid er
 
 -- Abdu'l-Bahá
 
-bpn12222 
+bpn12222 «[Sámi](../se/prayers/#bpn12222)» 
 
 ----
 
@@ -258,7 +257,7 @@ Sivdniduvvon lea báiki ja dállu ja guovlu ja gávpot ja váibmu ja várri ja s
 
 -- Bahá'u'lláh
 
-bpn12205 
+bpn12205 «[Sámi](../se/prayers/#bpn12205)» 
 
 ----
 
