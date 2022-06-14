@@ -21,6 +21,7 @@ import (
 	"net/http"
 	"os"
 	"strconv"
+	"strings"
 	"sync"
 	"text/template"
 	"unicode"
@@ -297,7 +298,7 @@ func PrayerName(prayerCode string) string {
 	}
 	for _, c := range cs {
 		if c[0] == prayerCode {
-			return c[1]
+			return strings.Join(c[1:], ",")
 		}
 	}
 	return "Prayer " + prayerCode
