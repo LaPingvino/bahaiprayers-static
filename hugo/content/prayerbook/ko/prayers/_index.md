@@ -5,7 +5,6 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
-
 [「아흐마드」의 서한](#%E3%80%8C%EC%95%84%ED%9D%90%EB%A7%88%EB%93%9C%E3%80%8D%EC%9D%98+%EC%84%9C%ED%95%9C)
 
 [가족](#%EA%B0%80%EC%A1%B1)
@@ -84,6 +83,7 @@ tags = ['lang=ko', 'prayerbook']
 
 [확고한 믿음](#%ED%99%95%EA%B3%A0%ED%95%9C+%EB%AF%BF%EC%9D%8C)
 
+[확고한 믿음](#%ED%99%95%EA%B3%A0%ED%95%9C+%EB%AF%BF%EC%9D%8C)
 
 
 <a id="%E3%80%8C%EC%95%84%ED%9D%90%EB%A7%88%EB%93%9C%E3%80%8D%EC%9D%98+%EC%84%9C%ED%95%9C"></a> 
@@ -478,7 +478,7 @@ bpn6514
 
 -- Bahá'u'lláh
 
-bpn6657 
+bpn6657 «[한국어](../ko/prayers/#bpn6657)» 
 
 ----
 
@@ -636,7 +636,7 @@ bpn6528
 
 -- Bahá'u'lláh
 
-bpn6658 
+bpn6658 «[한국어](../ko/prayers/#bpn6658)» 
 
 ----
 
@@ -1904,7 +1904,7 @@ bpn6636
 
 -- Bahá'u'lláh
 
-bpn6637 
+bpn6637 «[한국어](../ko/prayers/#bpn6637)» 
 
 ----
 

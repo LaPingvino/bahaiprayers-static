@@ -5,7 +5,6 @@ tags = ['lang=ne', 'prayerbook']
 
 
 
-
 [अटलता](#%E0%A4%85%E0%A4%9F%E0%A4%B2%E0%A4%A4%E0%A4%BE)
 
 [अब्दुल–बहाको दर्शन धर्मपत्र](#%E0%A4%85%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A5%81%E0%A4%B2%E2%80%93%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%95%E0%A5%8B+%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8+%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0)
@@ -74,6 +73,7 @@ tags = ['lang=ne', 'prayerbook']
 
 [साँझँ](#%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9D%E0%A4%81)
 
+[साँझँ](#%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%9D%E0%A4%81)
 
 
 <a id="%E0%A4%85%E0%A4%9F%E0%A4%B2%E0%A4%A4%E0%A4%BE"></a> 

@@ -5,7 +5,6 @@ tags = ['lang=lt', 'prayerbook']
 
 
 
-
 [Asamblėja](#Asambl%C4%97ja)
 
 [Atleidimas](#Atleidimas)

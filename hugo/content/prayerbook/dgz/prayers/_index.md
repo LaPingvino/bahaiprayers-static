@@ -5,7 +5,6 @@ tags = ['lang=dgz', 'prayerbook']
 
 
 
-
 [Ayop Was Taragasepen U’uraewa (Praise)](#Ayop+Was+Taragasepen+U%E2%80%99uraewa+%28Praise%29)
 
 [Baigan U’uraewa (Unity)](#Baigan+U%E2%80%99uraewa+%28Unity%29)
@@ -32,6 +31,7 @@ tags = ['lang=dgz', 'prayerbook']
 
 [Wat Aimagam U’uraewa (Blessed Is the Spot)](#Wat+Aimagam+U%E2%80%99uraewa+%28Blessed+Is+the+Spot%29)
 
+[Wat Aimagam U’uraewa (Blessed Is the Spot)](#Wat+Aimagam+U%E2%80%99uraewa+%28Blessed+Is+the+Spot%29)
 
 
 <a id="Ayop+Was+Taragasepen+U%E2%80%99uraewa+%28Praise%29"></a> 

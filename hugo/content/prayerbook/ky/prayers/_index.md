@@ -5,7 +5,6 @@ tags = ['lang=ky', 'prayerbook']
 
 
 
-
 [Адамзат](#%D0%90%D0%B4%D0%B0%D0%BC%D0%B7%D0%B0%D1%82)
 
 [Айыгуу](#%D0%90%D0%B9%D1%8B%D0%B3%D1%83%D1%83)
@@ -80,6 +79,7 @@ tags = ['lang=ky', 'prayerbook']
 
 [Эртең менен](#%D0%AD%D1%80%D1%82%D0%B5%D2%A3+%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD)
 
+[Эртең менен](#%D0%AD%D1%80%D1%82%D0%B5%D2%A3+%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD)
 
 
 <a id="%D0%90%D0%B4%D0%B0%D0%BC%D0%B7%D0%B0%D1%82"></a> 
@@ -1334,7 +1334,7 @@ bpn4088
 
 -- Bahá'u'lláh
 
-bpn3955 
+bpn3955 «[Кыргыз](../ky/prayers/#bpn3955)» 
 
 ----
 

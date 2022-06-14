@@ -5,7 +5,6 @@ tags = ['lang=srn', 'prayerbook']
 
 
 
-
 [Algemene Gebeden](#Algemene+Gebeden)
 
 [Avond](#Avond)

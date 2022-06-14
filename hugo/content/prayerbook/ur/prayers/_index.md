@@ -5,7 +5,6 @@ tags = ['lang=ur', 'prayerbook']
 
 
 
-
 [اتحاد کے لیے](#%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF+%DA%A9%DB%92+%D9%84%DB%8C%DB%92)
 
 [بچوں کے لیے دعائیں](#%D8%A8%DA%86%D9%88%DA%BA+%DA%A9%DB%92+%D9%84%DB%8C%DB%92+%D8%AF%D8%B9%D8%A7%D8%A6%DB%8C%DA%BA)
@@ -38,6 +37,7 @@ tags = ['lang=ur', 'prayerbook']
 
 [گھر سے باہر جانے کی دُعا](#%DA%AF%DA%BE%D8%B1+%D8%B3%DB%92+%D8%A8%D8%A7%DB%81%D8%B1+%D8%AC%D8%A7%D9%86%DB%92+%DA%A9%DB%8C+%D8%AF%D9%8F%D8%B9%D8%A7)
 
+[گھر سے باہر جانے کی دُعا](#%DA%AF%DA%BE%D8%B1+%D8%B3%DB%92+%D8%A8%D8%A7%DB%81%D8%B1+%D8%AC%D8%A7%D9%86%DB%92+%DA%A9%DB%8C+%D8%AF%D9%8F%D8%B9%D8%A7)
 
 
 <a id="%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF+%DA%A9%DB%92+%D9%84%DB%8C%DB%92"></a> 
@@ -76,7 +76,7 @@ bpn8963
 
 -- Bahá'u'lláh
 
-bpn8966 
+bpn8966 «[اُردُو](../ur/prayers/#bpn8966)» 
 
 ----
 
@@ -1422,7 +1422,7 @@ bpn8967
 
 -- Bahá'u'lláh
 
-bpn8958 
+bpn8958 «[اُردُو](../ur/prayers/#bpn8958)» 
 
 ----
 

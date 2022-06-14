@@ -5,7 +5,6 @@ tags = ['lang=fo', 'prayerbook']
 
 
 
-
 [Andligur vøkstur](#Andligur+v%C3%B8kstur)
 
 [Brúdleyp](#Br%C3%BAdleyp)

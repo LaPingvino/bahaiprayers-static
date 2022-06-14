@@ -5,7 +5,6 @@ tags = ['lang=az', 'prayerbook']
 
 
 
-
 [Ailələr](#Ail%C9%99l%C9%99r)
 
 [Allaha yaxınlıq üçün dualar](#Allaha+yax%C4%B1nl%C4%B1q+%C3%BC%C3%A7%C3%BCn+dualar)
@@ -1014,7 +1013,7 @@ Ey Allah! İxtilafa səbəb olan bütün ünsürləri dağıt, bizə birlik və 
 
 -- Abdu'l-Bahá
 
-bpn4784 
+bpn4784 «[Azərbaycan](../az/prayers/#bpn4784)» 
 
 ----
 

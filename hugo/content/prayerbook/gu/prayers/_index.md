@@ -5,7 +5,6 @@ tags = ['lang=gu', 'prayerbook']
 
 
 
-
 [અઘિક દિવસો](#%E0%AA%85%E0%AA%98%E0%AA%BF%E0%AA%95+%E0%AA%A6%E0%AA%BF%E0%AA%B5%E0%AA%B8%E0%AB%8B)
 
 [અહમદની પત્રી](#%E0%AA%85%E0%AA%B9%E0%AA%AE%E0%AA%A6%E0%AA%A8%E0%AB%80+%E0%AA%AA%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AB%80)
@@ -54,6 +53,7 @@ tags = ['lang=gu', 'prayerbook']
 
 [સ્તુતિ–આભાર](#%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%81%E0%AA%A4%E0%AA%BF%E2%80%93%E0%AA%86%E0%AA%AD%E0%AA%BE%E0%AA%B0)
 
+[સ્તુતિ–આભાર](#%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%81%E0%AA%A4%E0%AA%BF%E2%80%93%E0%AA%86%E0%AA%AD%E0%AA%BE%E0%AA%B0)
 
 
 <a id="%E0%AA%85%E0%AA%98%E0%AA%BF%E0%AA%95+%E0%AA%A6%E0%AA%BF%E0%AA%B5%E0%AA%B8%E0%AB%8B"></a> 

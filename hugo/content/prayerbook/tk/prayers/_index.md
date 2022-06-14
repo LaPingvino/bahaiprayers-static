@@ -5,7 +5,6 @@ tags = ['lang=tk', 'prayerbook']
 
 
 
-
 [Ahmet Ýazgysy](#Ahmet+%C3%9Dazgysy)
 
 [Alkyş We Şükür Etmek](#Alky%C5%9F+We+%C5%9E%C3%BCk%C3%BCr+Etmek)

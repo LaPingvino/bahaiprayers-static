@@ -5,7 +5,6 @@ tags = ['lang=tl', 'prayerbook']
 
 
 
-
 [Ang Pag-Aayuno](#Ang+Pag-Aayuno)
 
 [Ang Tableta Ng Apoy](#Ang+Tableta+Ng+Apoy)

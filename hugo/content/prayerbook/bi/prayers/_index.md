@@ -5,7 +5,6 @@ tags = ['lang=bi', 'prayerbook']
 
 
 
-
 [19  DEI  FEAST](#19++DEI++FEAST)
 
 [ASKEM  GOD  BLONG  FOGIVIM  YUMI](#ASKEM++GOD++BLONG++FOGIVIM++YUMI)

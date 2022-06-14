@@ -5,7 +5,6 @@ tags = ['lang=kgf', 'prayerbook']
 
 
 
-
 [Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu](#Ac+Mosoc+Hoto%C5%8B%C5%8Ba+Kaiwe+S%C3%AAc+Mep%C3%AAsima+Kecmu)
 
 [Eu Iniŋ Onac Memeseli Ac Mosoc](#Eu+Ini%C5%8B+Onac+Memeseli+Ac+Mosoc)
@@ -38,6 +37,7 @@ tags = ['lang=kgf', 'prayerbook']
 
 [Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc)
 
+[Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Ya%C5%8B+Hafi+Nesimac+Imuac+Ac+Mosoc)
 
 
 <a id="Ac+Mosoc+Hoto%C5%8B%C5%8Ba+Kaiwe+S%C3%AAc+Mep%C3%AAsima+Kecmu"></a> 

@@ -5,7 +5,6 @@ tags = ['lang=hi', 'prayerbook']
 
 
 
-
 [अग्नि पाती](#%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF+%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80)
 
 [अधिदिवस (लोंद के दिन)](#%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8+%28%E0%A4%B2%E0%A5%8B%E0%A4%82%E0%A4%A6+%E0%A4%95%E0%A5%87+%E0%A4%A6%E0%A4%BF%E0%A4%A8%29)
@@ -86,6 +85,7 @@ tags = ['lang=hi', 'prayerbook']
 
 [स्तुति और कृतज्ञता](#%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%A4%E0%A4%BE)
 
+[स्तुति और कृतज्ञता](#%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%A4%E0%A4%BE)
 
 
 <a id="%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF+%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80"></a> 
@@ -96,7 +96,7 @@ tags = ['lang=hi', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6862 
+bpn6862 «[हिंदी](../hi/prayers/#bpn6862)» 
 
 ----
 
@@ -106,7 +106,7 @@ bpn6862
 
 -- Bahá'u'lláh
 
-bpn8746 
+bpn8746 «[हिंदी](../hi/prayers/#bpn8746)» 
 
 ----
 
@@ -410,7 +410,7 @@ bpn8286
 
 -- Bahá'u'lláh
 
-bpn6860 
+bpn6860 «[हिंदी](../hi/prayers/#bpn6860)» 
 
 ----
 
@@ -424,7 +424,7 @@ bpn6860
 
 -- Bahá'u'lláh
 
-bpn8747 
+bpn8747 «[हिंदी](../hi/prayers/#bpn8747)» 
 
 ----
 
@@ -434,7 +434,7 @@ bpn8747
 
 -- Bahá'u'lláh
 
-bpn8748 
+bpn8748 «[हिंदी](../hi/prayers/#bpn8748)» 
 
 ----
 
@@ -1400,7 +1400,7 @@ bpn8736
 
 -- Bahá'u'lláh
 
-bpn8740 
+bpn8740 «[हिंदी](../hi/prayers/#bpn8740)» 
 
 ----
 

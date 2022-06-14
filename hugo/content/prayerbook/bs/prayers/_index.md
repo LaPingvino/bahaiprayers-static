@@ -5,7 +5,6 @@ tags = ['lang=bs', 'prayerbook']
 
 
 
-
 [Ahmadova Ploča](#Ahmadova+Ploc%CC%8Ca)
 
 [Brak](#Brak)

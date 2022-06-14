@@ -5,7 +5,6 @@ tags = ['lang=zh-Hant', 'prayerbook']
 
 
 
-
 [中 國](#%E4%B8%AD+%E5%9C%8B)
 
 [中篇必誦禱文](#%E4%B8%AD%E7%AF%87%E5%BF%85%E8%AA%A6%E7%A6%B1%E6%96%87)
@@ -90,6 +89,7 @@ tags = ['lang=zh-Hant', 'prayerbook']
 
 [齋戒禱文](#%E9%BD%8B%E6%88%92%E7%A6%B1%E6%96%87)
 
+[齋戒禱文](#%E9%BD%8B%E6%88%92%E7%A6%B1%E6%96%87)
 
 
 <a id="%E4%B8%AD+%E5%9C%8B"></a> 
@@ -1282,7 +1282,7 @@ bpn8781
 
 -- Bahá'u'lláh
 
-bpn8941 
+bpn8941 «[繁體中文](../zh-Hant/prayers/#bpn8941)» 
 
 ----
 
@@ -1296,7 +1296,7 @@ bpn8941
 
 -- Bahá'u'lláh
 
-bpn8944 
+bpn8944 «[繁體中文](../zh-Hant/prayers/#bpn8944)» 
 
 ----
 
@@ -1824,7 +1824,7 @@ bpn8943
 
 -- Bahá'u'lláh
 
-bpn8774 
+bpn8845 
 
 ----
 
@@ -1838,7 +1838,7 @@ bpn8774
 
 -- Bahá'u'lláh
 
-bpn8845 
+bpn8845 «[繁體中文](../zh-Hant/prayers/#bpn8845)» 
 
 ----
 

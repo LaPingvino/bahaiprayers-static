@@ -5,7 +5,6 @@ tags = ['lang=kn', 'prayerbook']
 
 
 
-
 [ಅಗ್ನಿಶಾಸನ](#%E0%B2%85%E0%B2%97%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B6%E0%B2%BE%E0%B2%B8%E0%B2%A8)
 
 [ಅಗ್ರಗಾಮಿಗಳಿಗಾಗಿ](#%E0%B2%85%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B2%97%E0%B2%BE%E0%B2%AE%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF)
@@ -90,6 +89,7 @@ tags = ['lang=kn', 'prayerbook']
 
 [ಹೆತ್ತವರಿಗಾಗಿ](#%E0%B2%B9%E0%B3%86%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF)
 
+[ಹೆತ್ತವರಿಗಾಗಿ](#%E0%B2%B9%E0%B3%86%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B5%E0%B2%B0%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%97%E0%B2%BF)
 
 
 <a id="%E0%B2%85%E0%B2%97%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B6%E0%B2%BE%E0%B2%B8%E0%B2%A8"></a> 

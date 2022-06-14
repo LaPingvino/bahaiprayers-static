@@ -5,7 +5,6 @@ tags = ['lang=cs', 'prayerbook']
 
 
 
-
 [Chvála a vděčnost](#Chv%C3%A1la+a+vd%C4%9B%C4%8Dnost)
 
 [Jednota](#Jednota)

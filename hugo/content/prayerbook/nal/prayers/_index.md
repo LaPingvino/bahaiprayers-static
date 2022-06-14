@@ -5,7 +5,6 @@ tags = ['lang=nal', 'prayerbook']
 
 
 
-
 [A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)](#A+Vaaratulaaiing+sin+Ahm%C3%A1d+%28Tablet+of+Ahm%C3%A1d%29)
 
 [A Vaaroving i la waanas (Short obligatory prayer)](#A+Vaaroving+i+la+waanas+%28Short+obligatory+prayer%29)
@@ -22,6 +21,7 @@ tags = ['lang=nal', 'prayerbook']
 
 [A Vaaroving sin a Funalik Naat (Children)](#A+Vaaroving+sin+a+Funalik+Naat+%28Children%29)
 
+[A Vaaroving sin a Funalik Naat (Children)](#A+Vaaroving+sin+a+Funalik+Naat+%28Children%29)
 
 
 <a id="A+Vaaratulaaiing+sin+Ahm%C3%A1d+%28Tablet+of+Ahm%C3%A1d%29"></a> 

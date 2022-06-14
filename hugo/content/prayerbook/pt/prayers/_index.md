@@ -191,7 +191,7 @@ bpn1287
 ----
 
 
-<a id="AB10275"></a> 
+<a id="bpn1065"></a> 
 Não removas, ó Senhor, a mesa festiva que se estendeu em Teu Nome, nem apagues a chama ardente, acesa com o Teu fogo inextinguível. Que as Tuas águas vivas, murmurando com a melodia da Tua glória e da Tua lembrança, não deixem de fluir, e que os Teus servos não sejam privados da fragrância dos Teus doces aromas, donde emana o perfume do Teu amor.Senhor! Transforma a angústia dos Teus santos em sossego, as suas durezas em conforto; muda-lhes a humilhação em glória, e a tristeza em júbilo e êxtase, ó Tu que seguras nas mãos as rédeas de toda a humanidade!És, em verdade, o Deus Uno, o Único, o Poderoso, o Omnipotente, a Suprema Sabedoria!
 
 -- Abdu'l-Bahá
@@ -236,7 +236,7 @@ bpn1068
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[English](../../en/prayers/#AB00128FEE)» «[Español](../../es/prayers/#AB00128FEE)» 
+AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» 
 
 ----
 
@@ -300,7 +300,7 @@ bpn1175
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../../en/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» 
+BH02848 «[English](../en/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» 
 
 ----
 
@@ -460,7 +460,7 @@ Ele é o Poderoso, o Supremo Perdão, o Compassivo! Ó Deus, meu Deus! Vês os T
 
 -- Abdu'l-Bahá
 
-BH07469 «[English](../../en/prayers/#BH07469)» «[Nederlands](../../nl/prayers/#BH07469)» 
+BH07469 «[English](../en/prayers/#BH07469)» «[Nederlands](../nl/prayers/#BH07469)» «[Português (BR)](../pt/prayers/#BH07469)» 
 
 ----
 
@@ -554,7 +554,7 @@ bpn1085
 
 -- Abdu'l-Bahá
 
-AB09794CHI «[English](../../en/prayers/#AB09794CHI)» «[Nederlands](../../nl/prayers/#AB09794CHI)» 
+AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers/#AB09794CHI)» «[Português (BR)](../pt/prayers/#AB09794CHI)» 
 
 ----
 
@@ -678,7 +678,7 @@ Teu Nome é minha cura, ó meu Deus, e a lembrança de Ti, o meu remédio. Aprox
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» 
+BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» 
 
 ----
 
@@ -708,7 +708,7 @@ Ele é Quem cura, o Suficiente, o Amparo, a Suma Clemência, o Todo-Misericordio
 
 -- Bahá'u'lláh
 
-bpn1184 
+bpn1184 «[Português (BR)](../pt/prayers/#bpn1184)» 
 
 ----
 
@@ -762,7 +762,7 @@ Louvado seja o Teu Nome, ó meu Deus! Suplico-Te - pela fragrância das Vestes d
 
 -- Bahá'u'lláh
 
-BH09864 «[English](../../en/prayers/#BH09864)» «[Español](../../es/prayers/#BH09864)» 
+BH09864 «[English](../en/prayers/#BH09864)» «[Español](../es/prayers/#BH09864)» «[Português (BR)](../pt/prayers/#BH09864)» 
 
 ----
 
@@ -817,7 +817,7 @@ BB00018DET «[English](../../en/prayers/#BB00018DET)»
 ----
 
 
-<a id="AB00073SER"></a> 
+<a id="bpn1098"></a> 
 Ó Tu, Senhor bondoso! Somos servos do Teu Limiar e abrigamo-nos à Tua santa Porta. Refúgio algum buscamos, salvo este pilar poderoso, e para nada nos volvemos em busca de amparo, senão para a Tua custódia. Protege-nos, abençoa-nos e apoia-nos; faze-nos tais que amemos tão somente o Teu beneplácito, pronunciemos exclusivamente o Teu louvor e sigamos apenas a senda da verdade, de modo que nos tornemos ricos o bastante para prescindirmos de tudo, salvo de Ti, recebamos as dádivas do mar da Tua bondade, diligenciemos sempre por exaltar a Tua Causa e difundir por todas as plagas os Teus doces aromas; para que olvidemos o ego, nos ocupemos unicamente contigo, renunciemos a tudo mais e nos apeguemos a Ti.Ó Tu que provês, Tu que perdoas! Concede-nos a Tua graça e mercê, as Tuas dádivas e os Teus favores, e reanima-nos, para que possamos atingir a nossa meta. És o Poderoso, O que tem capacidade, O que sabe e vê; e, em verdade, és o Generoso, o Todo-Misericordioso; e, verdadeiramente, és o Indulgente, Aquele a Quem se deve mostrar arrependimento, e que perdoa mesmo o mais grave dos pecados.
 
 -- Abdu'l-Bahá
@@ -1020,7 +1020,7 @@ Louvor a Ti, ó meu Deus! Estes são os Teus servos, atraídos pelas fragrância
 
 -- Abdu'l-Bahá
 
-AB00169FRA «[English](../../en/prayers/#AB00169FRA)» «[Nederlands](../../nl/prayers/#AB00169FRA)» 
+AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers/#AB00169FRA)» «[Português (BR)](../pt/prayers/#AB00169FRA)» 
 
 ----
 
@@ -1069,7 +1069,7 @@ bpn1111
 <a id="Ep%C3%ADstolas"></a> 
 ## Epístolas
 
-<a id="BH02022"></a> 
+<a id="bpn1325"></a> 
 ##Epístola De AhmadEle é o Rei, o Omnisciente, o Sábio!Eis que o Rouxinol do Paraíso canta sobre os ramos da Árvore da Eternidade, com santas e suaves melodias, proclamando aos sinceros as boas novas de que Deus está próximo; chamando aqueles que têm fé na Unidade Divina para entrarem na corte da Presença do Generoso; aos desprendidos, informando da mensagem revelada por Deus, o Rei, o Glorioso, o Incomparável; e aos que O amam, guiando ao lugar da santidade e a esta Beleza resplandecente.Em verdade, esta é Aquela Beleza Suprema predita nos Livros dos Mensageiros, por Quem se distinguirá a verdade do erro e se provará a sabedoria de todo o mandamento. Em verdade, Ele é a Árvore da Vida que produz os frutos de Deus, o Excelso, o Poderoso, o Grande.Ó Ahmad! Dá testemunho de que Ele verdadeiramente é Deus, e que não há outro Deus senão Ele, o Rei, o Protetor, o Incomparável, o Omnipotente. E que o Seu Enviado, sob o nome de ‘Alí, foi o verdadeiro Emissário de Deus, a cujos mandamentos nós todos damos a nossa aquiescência.Dize: Ó povos, sede obedientes às leis de Deus que foram prescritas no Bayán pelo Glorioso, pelo Sábio. Em verdade, Ele é o Rei dos Mensageiros e o Seu Livro é o Livro-Mater – se apenas o soubésseis.Assim, desta prisão, o Rouxinol dirige-vos o Seu chamado. Cabe-Lhe apenas transmitir esta mensagem clara. Se alguém quiser que se desvie deste conselho; e quem quiser, que escolha o caminho ao seu Senhor.Ó povos, se negardes estes versículos, por qual prova tendes acreditado em Deus? Apresentai-a, ó assembleia de falsos!Por Aquele em cuja mão está a minh’alma, não podem nem poderão jamais fazer isso, ainda que se unam em apoio mútuo.Ó Ahmad! Não te esqueças da Minha graça, enquanto Eu estiver ausente. Lembra-te dos Meus dias durante os teus dias, e da Minha angústia e do Meu exílio nesta remota prisão. E sê tão constante em Meu amor que jamais o teu coração vacile, ainda que as espadas inimigas chovam sobre ti os seus golpes e todos, nos céus e na terra, se levantem contra ti.Sê tu como uma chama de fogo para os Meus inimigos e um rio de vida eterna para os Meus amados, e não sejas dos que duvidam.E se fores atingido por aflições no Meu caminho ou humilhado por Minha causa, nem por isso te perturbes.Apoia-te em Deus, o teu Deus e o Senhor de teus pais. Pois os homens erram, nos caminhos da ilusão, destituídos de discernimento para ver Deus com os seus próprios olhos ou ouvir a Sua melodia com os seus próprios ouvidos. Assim é que se Nos afiguram, como tu também dás testemunho.Assim as suas superstições tornaram-se véus entre eles e os seus próprios corações, afastando-os do caminho de Deus, o Excelso, o Grande.Tem tu certeza de que, em verdade, quem se afastou desta Beleza afastou-se também dos Mensageiros do passado, e mostra orgulho para com Deus desde toda a eternidade e por toda a eternidade.Aprende bem esta Epístola, ó Ahmad. Entoa-a durante os teus dias e não te abstenhas disso. Pois, verdadeiramente, Deus ordenou a quem a entoasse a recompensa de cem mártires e um serviço em ambos os mundos. Estes favores, Nós te concedemos por generosidade da Nossa parte e mercê da Nossa presença, para que tu sejas dos gratos.Por Deus! Se alguém em aflição ou tristeza recitar esta Epístola com sinceridade absoluta, Deus banir-lhe-á o desgosto, resolverá as dificuldades e removerá as aflições.Verdadeiramente, Ele é o Misericordioso, o Compassivo. Louvores a Deus, o Senhor de todos os mundos.
 
 -- Bahá'u'lláh
@@ -1084,7 +1084,7 @@ BH02022 «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH0
 
 -- Bahá'u'lláh
 
-bpn1326 
+bpn1326 «[Português (BR)](../pt/prayers/#bpn1326)» 
 
 ----
 
@@ -1094,7 +1094,7 @@ bpn1326
 
 -- Bahá'u'lláh
 
-BH03908 «[English](../../en/prayers/#BH03908)» «[Frysk](../../fy/prayers/#BH03908)» 
+BH03908 «[English](../en/prayers/#BH03908)» «[Frysk](../fy/prayers/#BH03908)» «[Português (BR)](../pt/prayers/#BH03908)» 
 
 ----
 
@@ -1114,17 +1114,17 @@ bpn1328
 
 -- Bahá'u'lláh
 
-bpn1329 
+bpn1329 «[Português (BR)](../pt/prayers/#bpn1329)» 
 
 ----
 
 
-<a id="BH02307"></a> 
+<a id="bpn1330"></a> 
 ##Epístola De Visitação Do Báb E Bahá&#39;u&#39;lláhEsta Epístola é lida nos Sepulcros de Bahá’u’lláh e do Báb. Também é usada frequentemente na comemoração dos Seus aniversários, porém não está restrita apenas a estas ocasiões. Os amigos podem fazê-las todas as vezes que assim o desejarem.O Louvor que raiou do Teu augustíssimo Ser e a glória que brilhou da Tua mais fulgurante Beleza, repousem sobre Ti, ó Tu que és a Manifestação da Grandeza, o Rei da Eternidade e o Senhor de todos os que estão no céu e na terra! Dou testemunho de que pelo Teu intermédio foram revelados a soberania de Deus e o Seu domínio, e a majestade de Deus e a Sua grandeza; que os Sóis de antigo esplendor reluziram no céu do Teu irrevogável decreto, e a Beleza do Invisível brilhou sobre o horizonte da criação. Com apenas um movimento da Tua Pena - testifico ainda - foi executado o Teu mandamento: Sê Tu, e divulgado o Segredo oculto de Deus, e todas as coisas criadas foram chamadas para a existência, e todas as Revelações desceram do alto.Dou testemunho, ainda, de que a beleza do Ser Adorado se revelou através da Tua beleza, e a face do Desejado se irradiou através da Tua face, e, por uma palavra Tua, julgaste entre todas as coisas criadas, fazendo os Teus devotos ascenderem ao cume da glória e os infiéis caírem no mais baixo dos abismos.Quem Te conheceu - dou testemunho - conheceu a Deus, e quem atingiu a Tua presença atingiu a presença de Deus. Grande, pois, é a felicidade de quem acreditou em Ti e nos Teus sinais, se humilhou perante a Tua soberania, alcançou a honra do Teu encontro, atingiu a aprovação da Tua vontade, de Ti se aproximou, ao Teu redor se moveu, e ante o Teu trono se apresentou. E infeliz quem transgrediu contra Ti e Te negou, repelindo os Teus sinais, desafiando a Tua soberania e levantando-se contra Ti; quem se tornou orgulhoso ante a Tua face e discutiu os Teus testemunhos, fugindo do Teu domínio e mandato, e sendo incluído no número dos infiéis cujos nomes foram inscritos pelos dedos do Teu mando sobre as Tuas santas Epístolas.Que os santos sopros dos Teus favores, ó meu Deus e meu Bem-Amado, me sejam emitidos da mão direita da Tua misericórdia e da Tua benevolência, para que me desprendam de mim mesmo e do mundo, e me levem às cortes da Tua proximidade e da Tua presença. Potente és Tu para fazer o que Te apraz. Eras, verdadeiramente, e és supremo sobre todas as coisas.Que sobre Ti repousem a lembrança de Deus e o Seu louvor, e a glória de Deus e o Seu brilho, ó Tu que és a Sua Beleza! Atesto que jamais os olhos da criação contemplaram um ser tão injuriado quanto Tu. Durante todos os dias da Tua vida, estiveste imerso num oceano de angústias; num tempo, acorrentado em grilhões; noutro, ameaçado pela espada dos Teus inimigos. No entanto, a despeito de tudo isso, exortaste todos os homens a observarem o que Te fora prescrito por Aquele que é o Omnisciente, a Suprema Sabedoria.Seja o meu espírito um sacrifício pelas injustiças por Ti sofridas, e a minh’alma um resgate pelas adversidades que sustentaste. Suplico a Deus, por Ti e por aqueles cujas faces foram iluminadas pelos esplendores da luz do Teu semblante - aqueles que observaram, por amor a Ti, tudo o que lhes fora mandado - suplico que Ele remova os véus interpostos entre Ti e as Tuas criaturas e me conceda o bem deste mundo e do vindouro. És, em verdade, o Omnipotente, o Excelso, o Todo-Glorioso, a Eterna Clemência, o Mais Compassivo.Abençoa Tu, ó Senhor meu Deus, a Árvore Divina e as suas folhas e os seus galhos e os seus ramos e as suas vergônteas e os seus renovos, enquanto durarem os Teus mais excelentes títulos e persistirem os Teus augustíssimos atributos. Protege-a, então, do dano proveniente do agressor e das hostes da tirania. Tu és, em verdade, o Omnipotente, o Mais Poderoso. E abençoa também, ó Senhor meu Deus, os Teus servos e as Tuas servas que atingiram a Tua Presença. És, verdadeiramente, o Todo-Generoso cuja graça é infinita. Nenhum outro Deus há salvo Tu, O que sempre perdoa, a Suma Bondade.
 
 -- Bahá'u'lláh
 
-BH02307 «[English](../../en/prayers/#BH02307)» «[Tuvalu](../../tvl/prayers/#BH02307)» 
+bpn1330 «[Português (BR)](../pt/prayers/#bpn1330)» 
 
 ----
 
@@ -1262,7 +1262,7 @@ Glorificado és Tu, ó Senhor meu Deus! Suplico-Te, por Aquele que é Teu Nome S
 
 -- Bahá'u'lláh
 
-BH08822 «[English](../../en/prayers/#BH08822)» «[Español](../../es/prayers/#BH08822)» «[Esperanto](../../eo/prayers/#BH08822)» 
+BH08822 «[English](../en/prayers/#BH08822)» «[Español](../es/prayers/#BH08822)» «[Português (BR)](../pt/prayers/#BH08822)» «[Esperanto](../eo/prayers/#BH08822)» 
 
 ----
 
@@ -1342,7 +1342,7 @@ bpn1295
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../../en/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
+AB00001FIR «[Italiano](../it/prayers/#AB00001FIR)» «[English](../en/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» 
 
 ----
 
@@ -1352,7 +1352,7 @@ Faze firmes os nossos passos no Teu caminho, ó Senhor, e fortalece os nossos co
 
 -- Abdu'l-Bahá
 
-AB06211 «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» 
+AB06211 «[English](../en/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» 
 
 ----
 
@@ -1470,7 +1470,7 @@ Magnificado és Tu, ó Senhor da criação inteira, Aquele a Quem todas as coisa
 
 -- Bahá'u'lláh
 
-BH01554HUQ «[English](../../en/prayers/#BH01554HUQ)» «[Nederlands](../../nl/prayers/#BH01554HUQ)» 
+BH01554HUQ «[English](../en/prayers/#BH01554HUQ)» «[Nederlands](../nl/prayers/#BH01554HUQ)» «[Português (BR)](../pt/prayers/#BH01554HUQ)» 
 
 ----
 
@@ -1554,7 +1554,7 @@ Louvado sejas, ó Senhor meu Deus! Observámos o Jejum de acordo com a Tua vonta
 
 -- Bahá'u'lláh
 
-BH10581 «[English](../../en/prayers/#BH10581)» «[Nederlands](../../nl/prayers/#BH10581)» 
+BH10581 «[English](../en/prayers/#BH10581)» «[Nederlands](../nl/prayers/#BH10581)» «[Português (BR)](../pt/prayers/#BH10581)» 
 
 ----
 
@@ -1622,7 +1622,7 @@ Enaltecido seja o Teu nome, ó Senhor meu Deus! És O venerado por todas as cois
 
 -- Bahá'u'lláh
 
-BH09960 «[English](../../en/prayers/#BH09960)» «[Français](../../fr/prayers/#BH09960)» «[Esperanto](../../eo/prayers/#BH09960)» 
+BH09960 «[English](../en/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» 
 
 ----
 
@@ -1791,7 +1791,7 @@ bpn1232
 ----
 
 
-<a id="BH08852"></a> 
+<a id="bpn1233"></a> 
 Glória a Ti, ó meu Deus! Uma de Tuas servas, que acreditou em Ti e nos Teus sinais, abrigou-se à sombra da árvore da Tua unicidade. Permite, ó meu Deus, pelo Teu Nome, o Oculto e Manifesto, que ela possa sorver do Teu seleto Vinho lacrado, para que a afaste dela mesma e a faça inteiramente devotada à Tua lembrança e totalmente desprendida de qualquer um além de Ti.Agora que lhe revelaste o Teu conhecimento, ó meu Senhor, não lhe negues, pela Tua bondade, a Tua graça, e agora que a chamaste para Ti, pelo Teu favor, não a afastes. Supre-a, então, com aquilo que excede tudo o que se encontra na Tua terra. Tu és, verdadeiramente, o Mais Misericordioso, cuja graça é imensa.Fosses Tu conceder a uma das Tuas criaturas o equivalente aos reinos da terra e do céu, isso não diminuiria, nem na medida de um átomo, a imensidão do Teu domínio. Muito maior és Tu do que o Grande Ser que os homens Te costumam chamar, pois tal título é apenas um dos Teus nomes, todos os quais foram criados por uma simples indicação da Tua vontade.Não há outro Deus senão Tu, o Deus de poder, o Deus de glória, o Deus de conhecimento e sabedoria.
 
 -- Bahá'u'lláh
@@ -1890,7 +1890,7 @@ bpn1124
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» 
+BH00009SER «[English](../en/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/#BH00009SER)» 
 
 ----
 
@@ -1957,7 +1957,7 @@ BH00074BLE «[English](../../en/prayers/#BH00074BLE)» «[Français](../../fr/pr
 <a id="Ora%C3%A7%C3%B5es+Obrigat%C3%B3rias"></a> 
 ## Orações Obrigatórias
 
-<a id="BH11209"></a> 
+<a id="bpn1317"></a> 
 #A SER RECITADA UMA VEZ EM VINTE E QUATRO HORAS, AO MEIO-DIADou testemunho, ó meu Deus, de que Tu me criaste para Te conhecer e adorar. Confesso, neste momento, a minha incapacidade e o Teu poder, a minha pobreza e a Tua riqueza.Não há outro Deus além de Ti, o Amparo no Perigo, O que subsiste por Si próprio.
 
 -- Bahá'u'lláh
@@ -1972,12 +1972,12 @@ BH11209 «[English](../../en/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH1
 
 -- Bahá'u'lláh
 
-BH03447 «[English](../../en/prayers/#BH03447)» «[Nederlands](../../nl/prayers/#BH03447)» «[Esperanto](../../eo/prayers/#BH03447)» 
+BH03447 «[English](../en/prayers/#BH03447)» «[Nederlands](../nl/prayers/#BH03447)» «[Português (BR)](../pt/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH03447)» 
 
 ----
 
 
-<a id="BH00987"></a> 
+<a id="bpn1319"></a> 
 #A SER RECITADA UMA VEZ EM VINTE E QUATRO HORAS*Aquele que deseja recitar esta oração deve ficar em pé e volver-se a Deus. Enquanto permanece no seu lugar, que olhe à direita e à esquerda, como se esperasse a misericórdia do seu Senhor, o Mais Clemente, o Compassivo. Então diga:Ó Tu que és o Senhor de todos os nomes e o Criador dos céus! Imploro-Te, por Aqueles que são as Auroras da Tua Essência invisível, a Excelsa, a Toda-Gloriosa, que faças da minha prece um fogo para queimar os véus que me excluíram da Tua beleza, e uma luz que me guie ao oceano da Tua Presença.*Que em seguida levante as mãos suplicantes para Deus - abençoado e enaltecido seja Ele - e digaÓ Tu, Desejo do mundo e o Bem-Amado das nações! Vês como para Ti me volto, desprendido de tudo, menos de Ti, apoiando-me à Tua corda, cujo movimento comoveu a criação inteira. Sou Teu servo, ó meu Senhor, e o filho de um servo Teu. Eis-me aqui, disposto a fazer a Tua vontade e a cumprir o Teu desejo, a nada aspirando salvo à Tua aprovação. Imploro-Te, pelo Oceano da Tua misericórdia e pelo Sol da Tua graça, que faças do Teu servo o que Te apraz e agrada. Pelo Teu poder, imensamente elevado acima de toda a menção e todo o louvor! O que Tu revelas é o desejo do meu coração e a aspiração da minh’alma. Ó Deus, meu Deus! Não olhes as minhas esperanças e ações, mas sim, a Tua vontade, a qual abrangeu os céus e a terra. Pelo Teu Nome Supremo, ó Tu, Senhor de todas as nações! Não tenho desejado senão o que Tu desejaste, e só amo o que Tu amas.*Que então se ajoelhe e, baixando a testa para o chão, diga:Elevado estás acima de qualquer descrição que não seja a feita por Ti mesmo e além de qualquer compreensão que não seja a Tua.*Que depois se levante e diga:Faze da minha prece, ó meu Senhor, uma fonte de águas vivas pelas quais eu possa viver enquanto a Tua soberania durar, fazendo menção de Ti em cada mundo dos Teus mundos.*Que levante as mãos outra vez em súplica e diga:Ó Tu, com cuja separação os corações e as almas se consumiram, e pela chama de cujo amor o mundo inteiro se conflagrou! Imploro-Te, pelo Teu Nome, através do qual dominaste a criação inteira, que não me negues o que está Contigo, ó Tu que reges todos os homens! Vês, ó meu Senhor, como este estranho se apressa ao seu lar excelso, sob o pálio da Tua majestade e dentro dos recintos da Tua misericórdia; vês como este transgressor busca o oceano do Teu perdão; este humilde, a corte da Tua glória; e esta pobre criatura, o oriente da Tua riqueza. É Tua a autoridade para mandar tudo o que for do Teu querer. Atesto que hás de ser louvado em Tuas ações e obedecido em Teus mandamentos, e que as Tuas ordens hão de permanecer absolutas.*Que então levante as mãos e repita três vezes o Nome Supremo (Alláh-u-Abhá), curvando-se em seguida, com as mãos repousando nos joelhos, ante Deus - abençoado e enaltecido seja Ele - e diga:Vês, ó meu Deus, quanto o meu espírito se agita dentro deste corpo em seu anseio de Te adorar, em seu ardente desejo de Te lembrar e louvar; vês como dá testemunho daquilo que a Língua do Teu Mandamento atestou, no reino da Tua palavra e no céu do Teu conhecimento. Nesta condição, ó meu Senhor, gosto de suplicar tudo o que está Contigo, para que eu possa demonstrar a minha pobreza e glorificar a Tua riqueza e generosidade, declarar a minha incapacidade e manifestar o Teu poder e domínio.*Que se levante então e estenda as mãos duas vezes em súplica e diga:Não há outro Deus, salvo Tu, o Omnipotente, o Todo-Generoso. Não há outro Deus além de Ti, que ordenas no princípio como no fim. Ó Deus, meu Deus! A Tua clemência tornou-me audaz, e a Tua misericórdia fortaleceu-me; com o Teu chamado, despertei, e pela Tua graça fui ressuscitado e conduzido a Ti. Se assim não fosse, quem sou eu para ousar aproximar-me do portal da cidade da Tua presença, ou dirigir a minha face às luzes que brilham do céu da Tua vontade? Vês, ó meu Senhor, esta desprezível criatura a bater à porta do Teu favor, esta alma evanescente em busca do rio da vida eterna que emana das mãos da Tua generosidade. Teu é o poderio em todos os tempos, ó Tu que és o Senhor de todos os nomes; e a mim convém a resignação e a pronta submissão à Tua vontade, ó Criador dos céus!*Que então levante as mãos três vezes e diga:Maior é Deus do que todos os grandes!*Que em seguida se ajoelhe e, curvando a testa para o chão, diga:Tão elevado és Tu que o céu da Tua proximidade não será atingido pelos louvores daqueles que estão próximos de Ti, nem será o limiar do Teu portal alcançado pelas aves dos corações dos Teus devotos. Dou testemunho de que Tu estás santificado acima de todos os atributos, e és santo além de todos os nomes. Nenhum outro Deus há, salvo Tu, o Excelso, o Todo-Glorioso.*Que se sente então e diga:Atesto aquilo que todas as coisas criadas atestaram, e também a Assembleia no alto, os habitantes do supremo Paraíso e, além destes, a própria Língua da Grandeza, do Horizonte todo-glorioso - que Tu és Deus e não há outro Deus senão Tu, e Quem se manifestou é o Mistério Oculto, o Símbolo Entesourado, Aquele que ligou e uniu as letras S e E (Sê). Atesto haver sido Ele cujo nome a Pena do Altíssimo inscreveu, e Quem os Livros de Deus, o Senhor do Trono nas alturas e da região terrestre, mencionaram.*Que então fique ereto e diga:Ó Senhor de toda a existência e Possuidor de todas as coisas visíveis e invisíveis! Percebes as minhas lágrimas e os meus suspiros; ouves os meus gemidos e prantos e os lamentos do meu coração. Pelo Teu poder! As minhas transgressões impediram que eu me aproximasse de Ti; os meus pecados conservaram-me longe da corte da Tua santidade. O teu amor enriqueceu-me, ó meu Senhor, e a separação de Ti destruiu-me, e o afastamento de Ti consumiu-me. Suplico-Te - pelas Tuas pegadas nesta solidão, pelas palavras “Eis-me aqui! Eis-me aqui!” pronunciadas pelos Teus Eleitos nesta imensidade, pelos sopros da Tua Revelação e pelas suaves brisas do Alvorecer da Tua Manifestação - suplico-Te, ordena que eu contemple a Tua beleza e observe tudo o que está no Teu Livro.*Que então repita três vezes o Nome Supremo, se curve, com as mãos repousando nos joelhos, e diga:Louvores a Ti, ó meu Deus, por me haveres ajudado a recordar-Te e a louvar-Te, por me haveres revelado Aquele que é a Aurora dos Teus sinais e feito curvar perante a Tua Deidade, humilde em Tua Presença Divina e reconhecendo o que foi pronunciado pelos Lábios da Tua grandeza.*Que se levante então e diga:Ó Deus, meu Deus! As minhas costas curvam-se sob o peso dos meus pecados, e a minha incúria destrói-me. Sempre que pondero as minhas ações más e a Tua benevolência, o meu coração dissolve-se dentro de mim e o sangue ferve-me nas veias. Pela Tua Beleza, ó Tu, Desejo do mundo! Ao erguer-Te a minha face, coro, e as minhas mãos ansiosas não se atrevem a estender-se para o céu da Tua bondade. Vês, ó meu Deus, como as lágrimas me impedem de Te mencionar e de Te elogiar as virtudes, ó Tu, o Senhor do Trono nas alturas e da região terrestre! Imploro-Te, pelos sinais do Teu Reino e pelos mistérios do Teu Domínio, que trates os Teus bem-amados de acordo com a Tua generosidade, ó Senhor de todos os seres, e como é digno da Tua graça, ó Rei do visível e do invisível!*Que repita então três vezes o Nome Supremo, se ajoelhe, baixe a testa ao chão, e diga:Louvores a Ti, ó nosso Deus, por nos teres enviado o que nos faça aproximar de Ti, e concedido todo o bem que ordenaste nos Teus Livros e nas Tuas Escrituras. Suplicamos-Te, ó meu Senhor, que nos protejas das hostes das vãs fantasias e das ideias fúteis. És, em verdade, o Poderoso, o Omnisciente.*Que em seguida levante a cabeça, se sente e diga:Atesto, ó meu Deus, aquilo de que deram testemunho os Teus Eleitos, e reconheço o que reconheceram os habitantes do mais alto Paraíso e aqueles que rodeiam o Teu Trono grandioso. Os reinos da terra e do céu são Teus, ó Senhor dos mundos!
 
 -- Bahá'u'lláh
@@ -1991,7 +1991,7 @@ BH00987 «[English](../../en/prayers/#BH00987)» «[Nederlands](../../nl/prayers
 <a id="Pelos+Mortos"></a> 
 ## Pelos Mortos
 
-<a id="BH09085"></a> 
+<a id="bpn1239"></a> 
 *“A Oração de Finados é a única oração obrigatória bahá’í que deve ser recitada em congregação; deve ser lida apenas por um crente enquanto todos os presentes permanecem em pé e em silêncio. Bahá’u’lláh esclareceu que a Oração de Finados é exigida somente na morte de um adulto (maior de 15 anos), que a recitação deve preceder o sepultamento do corpo, e que não é obrigatório volver-se ao Qiblih quando ela for recitada.”*(Caso a pessoa morta seja mulher, que se diga: Esta é Tua serva e filha da Tua serva,...)Ó meu Deus! Este é Teu servo e filho do Teu servo, que acreditou em Ti e nos Teus sinais e a Ti dirigiu a face, desprendido completamente de tudo, salvo de Ti. Dos que mostram clemência, és Tu, em verdade, o mais clemente.Ó Tu que perdoas os pecados dos homens e ocultas as suas faltas, trata-o de um modo digno do céu da Tua generosidade e do oceano da Tua graça. Concede-lhe entrada no recinto da Tua transcendente misericórdia, que existia antes da fundação da terra e do céu. Não há outro Deus salvo Tu, O que sempre perdoa, o Mais Generoso.*Que se repita, uma vez a saudação de “Alláh’u’Abhá”, antes de cada versículo e, em seguida, dezanove vezes, cada um deles:Alláh’u’AbháNós todos, em verdade, adoramos a Deus.Alláh’u’AbháNós todos, em verdade, nos curvamos perante Deus.Alláh’u’AbháNós todos, em verdade, somos devotos a Deus.Alláh’u’AbháNós todos, em verdade, damos louvores a Deus.Alláh’u’AbháNós todos, em verdade, rendemos graças a Deus.Alláh’u’AbháNós todos, em verdade, somos pacientes em Deus.
 
 -- Bahá'u'lláh
@@ -2255,7 +2255,7 @@ bpn1305
 ----
 
 
-<a id="BB00100EXI"></a> 
+<a id="bpn1306"></a> 
 Glória a Ti, ó Deus! És o Deus que existiu antes de todas as coisas, que existirá após todas as coisas e que perdurará além de todas as coisas. Tu és o Deus que conhece todas as coisas e sobre todas as coisas é supremo. És o Deus que com misericórdia trata todas as coisas, que julga entre todas as coisas, e cuja visão a tudo abrange. Tu és Deus, o meu Senhor; Tu estás ciente da minha posição, Tu testemunhas o meu ser interior, bem como o exterior.Concede-me o Teu perdão e aos crentes que responderam ao Teu Chamado. Sê Tu o meu amparo suficiente contra a maldade de qualquer um que me queira infligir tristeza ou que me deseje mal. Em verdade és o Senhor de todas as coisas criadas. És para todos suficiente, enquanto ninguém pode, sem Ti, ser suficiente a si próprio.
 
 -- Báb
@@ -2339,7 +2339,7 @@ bpn1255
 ----
 
 
-<a id="BH07113"></a> 
+<a id="bpn1256"></a> 
 Louvores a Ti, ó Senhor meu Deus! Vês e sabes que exortei os Teus servos a volverem-se somente na direção das Tuas graças, e nada ordenei que observassem, a não ser as coisas por Ti prescritas no Teu Livro Manifesto – Livro este que desceu segundo o Teu decreto misterioso e o Teu irrevogável propósito.Palavra alguma posso eu pronunciar, ó meu Deus, a menos que por Ti me seja permitido, e em nenhuma direção mover-me, antes de obter a Tua sanção. Foste Tu, ó meu Deus, que me chamaste à existência através do poder da Tua grandeza e me concedeste a Tua graça para manifestar a Tua Causa. Por isso fui exposto a tais adversidades que a minha língua foi impedida de Te louvar e de enaltecer a Tua glória.Todo louvor a Ti, ó meu Deus, pelas coisas que me destinaste pelo Teu decreto, e pelo poder da Tua soberania. Imploro-Te que me fortaleças tanto a mim, como àqueles que me amam, em nosso amor a Ti, e nos faças firmes na Tua Causa. Dou testemunho pela Tua grandeza, ó meu Deus! A vergonha do Teu servo consiste no ser excluído de Ti como se o fosse por um véu, e a sua glória está em Te conhecer. Armado com o poder do Teu nome, nada jamais me causará dano e, com o Teu amor no meu coração, todas as aflições do mundo não poderão, em absoluto, alarmar-me.Faze descer, pois, ó meu Senhor, sobre mim e sobre os meus amados, o que nos proteja da malevolência dos que repudiaram a Tua verdade e desacreditaram nos Teus sinais.Tu és, verdadeiramente, o Todo-Glorioso, a Suprema Bondade.
 
 -- Bahá'u'lláh
@@ -2473,7 +2473,7 @@ bpn1263
 ----
 
 
-<a id="BH02524"></a> 
+<a id="bpn1264"></a> 
 Glória a Ti, ó meu Deus! Não fossem as tribulações que eles suportam no Teu caminho, como haveriam de se distinguir aqueles que verdadeiramente Te amam? E sem as provações enfrentadas por amor a Ti, de que modo seria revelada a posição dos que por Ti anseiam? A Tua grandeza dá-me testemunho! Todos que Te adoram têm por companheiras as suas lágrimas, e aqueles que a Ti se volvem têm o consolo dos seus próprios gemidos; o alimento dos que se apressam a encontrar-Te são os fragmentos dos seus corações despedaçados.Quão doce é ao meu paladar a amargura da morte sofrida no Teu caminho, e preciosos, em minha estima, os dardos dos Teus inimigos quando me atingem porque enalteço a Tua palavra! Possa eu sorver em Tua Causa, ó meu Deus, o que Tu desejas, e ver descer sobre mim, em Teu amor, tudo o que ordenaste. Pela Tua glória! Desejo só o que Tu desejas; estimo o que Tu estimas. Em Ti depus, em todos os tempos, a minha inteira confiança.Faze erguerem-se como auxiliares para esta Revelação os que sejam julgados dignos do Teu nome e da Tua soberania, para que se lembrem de mim entre as Tuas criaturas e icem as insígnias da Tua vitória na Tua terra - eu Te imploro, ó meu Deus!Poderoso és para fazer o que Te apraz. Não há outro Deus salvo Tu, o Amparo no Perigo, O que subsiste por Si próprio.
 
 -- Bahá'u'lláh
@@ -2661,7 +2661,7 @@ bpn1268
 ----
 
 
-<a id="BH06296"></a> 
+<a id="bpn1269"></a> 
 Dá-me de beber, ó meu Deus, da doce correnteza da Tua eternidade, e permite-me saborear os frutos da árvore do Teu ser, ó minha Esperança! Faze-me sorver das fontes cristalinas do Teu amor, ó minha Glória, e à sombra da Tua sempiterna providência, abriga-me, ó minha Luz! Nos prados da Tua proximidade, em Tua presença, deixa-me vagar, ó meu Bem-Amado, e à direita do trono da Tua misericórdia senta-me, ó Alvo do meu desejo! Das fragrantes brisas do Teu júbilo, concede-me um sopro, ó Tu por Quem almejo, e admite-me às alturas do paraíso da Tua realidade, ó Deus a Quem adoro! Faze-me escutar as melodias da ave da Tua unicidade, ó Tu, o Resplandecente, e, pelo espírito do Teu poder e da Tua grandeza, ressuscita-me, ó meu Provedor! Torna-me constante no espírito do Teu amor, ó meu Amparo, e faze firmes os meus passos no caminho da Tua aprovação, ó meu Criador! No jardim da Tua imortalidade, ante a Tua face, permite que eu eternamente permaneça, ó Tu que me mostras clemência, e sobre o assento da Tua glória estabelece-me, Tu que és o meu Possuidor! Eleva-me ao céu da Tua misericórdia, ó Tu que me vivificas, e conduze-me ao Alvorecer da Tua guia, ó Tu que me atrais! Chama-me para estar presente às revelações do Teu espírito invisível, Tu que és a minha Origem e a minha Mais Alta Aspiração! E faze-me voltar para a essência da fragrância da Tua beleza, a ser por Ti manifestada, ó Tu que és meu Deus!Poderoso és Tu para fazer o que Te apraz. És, em verdade, o Sublime, o Todo-Glorioso, o Altíssimo!
 
 -- Bahá'u'lláh
@@ -2706,7 +2706,7 @@ Ele é o Bondoso, o Generosíssimo! Ó Deus, meu Deus! O Teu chamado atraiu-me e
 
 -- Bahá'u'lláh
 
-BH06026 «[English](../../en/prayers/#BH06026)» «[Nederlands](../../nl/prayers/#BH06026)» 
+BH06026 «[English](../en/prayers/#BH06026)» «[Nederlands](../nl/prayers/#BH06026)» «[Português (BR)](../pt/prayers/#BH06026)» 
 
 ----
 
@@ -2746,7 +2746,7 @@ bpn1146
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../../en/prayers/#AB09139)» «[Nederlands](../../nl/prayers/#AB09139)» «[Français](../../fr/prayers/#AB09139)» 
+AB09139 «[English](../en/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» 
 
 ----
 
@@ -2776,7 +2776,7 @@ Vês-me, ó meu Deus, prostrado em submissão, humilde ante os Teus mandamentos,
 
 -- Abdu'l-Bahá
 
-AB00156LOW «[English](../../en/prayers/#AB00156LOW)» «[Nederlands](../../nl/prayers/#AB00156LOW)» 
+AB00156LOW «[English](../en/prayers/#AB00156LOW)» «[Nederlands](../nl/prayers/#AB00156LOW)» «[Português (BR)](../pt/prayers/#AB00156LOW)» 
 
 ----
 
@@ -2786,7 +2786,7 @@ AB00156LOW «[English](../../en/prayers/#AB00156LOW)» «[Nederlands](../../nl/p
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[English](../../en/prayers/#AB00128FEE)» «[Español](../../es/prayers/#AB00128FEE)» 
+AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» 
 
 ----
 
@@ -2830,7 +2830,7 @@ Há quem remova as dificuldades a não ser Deus? Dize: Louvado seja Deus! Ele é
 
 -- Báb
 
-BB00623 «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» 
+BB00623 «[Papiamentu](../pap/prayers/#BB00623)» «[English](../en/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» 
 
 ----
 
@@ -2899,7 +2899,7 @@ bpn1155
 ----
 
 
-<a id="ABU0095KIN"></a> 
+<a id="bpn1156"></a> 
 Ó Deus Clemente! Estes servos dirigem-se ao Teu Reino em busca da Tua graça e das Tuas dádivas. Ó Deus! Torna bons e puros os seus corações para que sejam dignos do Teu amor. Purifica e santifica os espíritos para que a luz do Sol da Realidade irradie sobre eles. Torna puros e santos os olhos a fim de poderem perceber a Tua Luz. Purifica e santifica os ouvidos para que possam ouvir o chamado do Teu reino.Ó Senhor! Em verdade, somos fracos, mas Tu és forte. Em verdade, somos pobres, mas Tu és rico. Somos aqueles que buscam, e Tu és o objeto da nossa busca! Ó Senhor! Tem compaixão de nós e perdoa-nos; concede-nos capacidade e disposição para que possamos corresponder aos Teus favores e ser atraídos ao Teu reino, acesos com a chama do Teu amor e ressuscitados pelo sopro do Teu Espírito Santo, neste século radiante.Ó Deus, meu Deus! Lança os olhares da Tua amorosa generosidade sobre esta reunião. Guarda cada um e a todos em Tua custódia e sob a Tua proteção. Envia as Tuas bênçãos celestiais para estas almas. Imerge-as no oceano da Tua misericórdia, e vivifica-as através dos sopros do Espírito Santo.Ó Senhor! Outorga a Tua graciosa ajuda e confirmação a este governo íntegro. Este país encontra-se sob o abrigo da Tua proteção, e este povo está em Teu serviço. Ó Senhor! Confere-lhes a Tua bênção celestial e proporciona-lhes as emanações da Tua graça e favor copiosos e abundantes. Permite que esta estimada nação se mantenha- honrada, e capacita-a a ser admitida no Teu reino.Tu és Poderoso, o Omnipotente, o Misericordioso; és o Generoso, o Beneficente, o Senhor de abundantes graças!
 
 -- Abdu'l-Bahá
@@ -2914,7 +2914,7 @@ Ele é Deus! Ó Deus, meu Deus! Estes são servos atraídos em Teus dias pelo pe
 
 -- Abdu'l-Bahá
 
-AB02326 «[English](../../en/prayers/#AB02326)» «[Nederlands](../../nl/prayers/#AB02326)» 
+AB02326 «[English](../en/prayers/#AB02326)» «[Nederlands](../nl/prayers/#AB02326)» «[Português (BR)](../pt/prayers/#AB02326)» 
 
 ----
 
@@ -3052,7 +3052,7 @@ bpn1166
 
 -- Abdu'l-Bahá
 
-AB00065KIN «[English](../../en/prayers/#AB00065KIN)» «[Nederlands](../../nl/prayers/#AB00065KIN)» 
+AB00065KIN «[English](../en/prayers/#AB00065KIN)» «[Nederlands](../nl/prayers/#AB00065KIN)» «[Português (BR)](../pt/prayers/#AB00065KIN)» 
 
 ----
 

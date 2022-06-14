@@ -142,7 +142,7 @@ Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gestee
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» 
+BH09024 «[English](../en/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» 
 
 ----
 
@@ -322,7 +322,7 @@ O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hi
 
 -- Bahá'u'lláh
 
-BH02848 «[Português (BR)](../../pt/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
+BH02848 «[English](../en/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» 
 
 ----
 

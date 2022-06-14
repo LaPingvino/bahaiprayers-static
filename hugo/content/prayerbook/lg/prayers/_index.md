@@ -5,7 +5,6 @@ tags = ['lang=lg', 'prayerbook']
 
 
 
-
 [ABAAMI ABAFUMBO](#ABAAMI+ABAFUMBO)
 
 [ABAKYALA AB&#39;EMBUTO](#ABAKYALA+AB%27EMBUTO)

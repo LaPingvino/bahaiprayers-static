@@ -5,7 +5,6 @@ tags = ['lang=zh-Hans', 'prayerbook']
 
 
 
-
 [中国](#%E4%B8%AD%E5%9B%BD)
 
 [中篇必诵祷文](#%E4%B8%AD%E7%AF%87%E5%BF%85%E8%AF%B5%E7%A5%B7%E6%96%87)
@@ -90,6 +89,7 @@ tags = ['lang=zh-Hans', 'prayerbook']
 
 [闰日祷文](#%E9%97%B0%E6%97%A5%E7%A5%B7%E6%96%87)
 
+[闰日祷文](#%E9%97%B0%E6%97%A5%E7%A5%B7%E6%96%87)
 
 
 <a id="%E4%B8%AD%E5%9B%BD"></a> 
@@ -610,7 +610,7 @@ bpn8663
 
 -- Bahá'u'lláh
 
-bpn8665 
+bpn8665 «[简体中文](../zh-Hans/prayers/#bpn8665)» 
 
 ----
 
@@ -624,7 +624,7 @@ bpn8665
 
 -- Bahá'u'lláh
 
-bpn8668 
+bpn8668 «[简体中文](../zh-Hans/prayers/#bpn8668)» 
 
 ----
 
@@ -2156,7 +2156,7 @@ bpn8667
 
 -- Bahá'u'lláh
 
-bpn8568 
+bpn8568 «[简体中文](../zh-Hans/prayers/#bpn8568)» 
 
 ----
 
@@ -2170,7 +2170,7 @@ bpn8568
 
 -- Bahá'u'lláh
 
-bpn8492 
+bpn8492 «[简体中文](../zh-Hans/prayers/#bpn8492)» 
 
 ----
 

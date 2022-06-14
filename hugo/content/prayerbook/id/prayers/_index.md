@@ -670,7 +670,7 @@ bpn5129
 
 -- Bahá'u'lláh
 
-bpn5202 
+bpn5203 
 
 ----
 
@@ -684,7 +684,7 @@ bpn5202
 
 -- Bahá'u'lláh
 
-bpn5203 
+bpn5203 «[Bahasa Indonesia](../id/prayers/#bpn5203)» 
 
 ----
 
@@ -712,7 +712,7 @@ bpn5216
 
 -- Bahá'u'lláh
 
-bpn5204 
+bpn5204 «[Bahasa Indonesia](../id/prayers/#bpn5204)» 
 
 ----
 

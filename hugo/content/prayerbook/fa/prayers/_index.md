@@ -5,7 +5,6 @@ tags = ['lang=fa', 'prayerbook']
 
 
 
-
 [اتّحاد و اُلفَت](#%D8%A7%D8%AA%D9%91%D8%AD%D8%A7%D8%AF+%D9%88+%D8%A7%D9%8F%D9%84%D9%81%D9%8E%D8%AA)
 
 [ازدواج](#%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC)
@@ -68,6 +67,7 @@ tags = ['lang=fa', 'prayerbook']
 
 [والدین](#%D9%88%D8%A7%D9%84%D8%AF%DB%8C%D9%86)
 
+[والدین](#%D9%88%D8%A7%D9%84%D8%AF%DB%8C%D9%86)
 
 
 <a id="%D8%A7%D8%AA%D9%91%D8%AD%D8%A7%D8%AF+%D9%88+%D8%A7%D9%8F%D9%84%D9%81%D9%8E%D8%AA"></a> 

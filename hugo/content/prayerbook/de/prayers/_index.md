@@ -120,7 +120,7 @@ O Wahrheitssucher! Wenn du wünschest, dass Gott dein geistiges Auge öffne, so 
 
 -- Abdu'l-Bahá
 
-AB06528MID «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» 
+AB06528MID «[Italiano](../it/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» 
 
 ----
 
@@ -488,7 +488,7 @@ bpn663
 
 -- Bahá'u'lláh
 
-bpn665 
+bpn665 «[Deutsch](../de/prayers/#bpn665)» 
 
 ----
 
@@ -678,7 +678,7 @@ Ich flehe Dich an, o mein Gott, bei Deinem mächtigen Zeichen und bei der Enthü
 
 -- Bahá'u'lláh
 
-bpn677 
+bpn677 «[Deutsch](../de/prayers/#bpn677)» 
 
 ----
 
@@ -752,7 +752,7 @@ Mache unsere Schritte fest auf Deinem Pfad, o Herr, und stärke unsere Herzen in
 
 -- Abdu'l-Bahá
 
-AB06211 «[Português (BR)](../../pt/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
+AB06211 «[English](../en/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» 
 
 ----
 
@@ -1086,7 +1086,7 @@ Er ist der Heiler, der Genügende, der Helfer, der Allvergebende, der Allbarmher
 
 -- Bahá'u'lláh
 
-bpn568 
+bpn568 «[Deutsch](../de/prayers/#bpn568)» 
 
 ----
 
@@ -2336,7 +2336,7 @@ Er ist der König, der Allwissende, der Weise.Siehe, die Nachtigall des Paradies
 
 -- Bahá'u'lláh
 
-bpn672 
+bpn673 
 
 ----
 
@@ -2350,7 +2350,7 @@ Im Namen Gottes, des Altehrwürdigen, des Größten.Wahrlich, die Herzen der Auf
 
 -- Bahá'u'lláh
 
-bpn673 
+bpn673 «[Deutsch](../de/prayers/#bpn673)» 
 
 ----
 
@@ -2364,7 +2364,7 @@ bpn673
 
 -- Bahá'u'lláh
 
-bpn674 
+bpn674 «[Deutsch](../de/prayers/#bpn674)» 
 
 ----
 

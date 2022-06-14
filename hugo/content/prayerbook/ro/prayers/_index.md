@@ -5,7 +5,6 @@ tags = ['lang=ro', 'prayerbook']
 
 
 
-
 [Adunări Spirituale](#Adun%C4%83ri+Spirituale)
 
 [Ajutor şi Sprijin](#Ajutor+%C5%9Fi+Sprijin)
@@ -1540,7 +1539,7 @@ bpn2261
 
 -- Bahá'u'lláh
 
-bpn2263 
+bpn2263 «[România](../ro/prayers/#bpn2263)» 
 
 ----
 
@@ -1880,7 +1879,7 @@ bpn2259
 
 -- Bahá'u'lláh
 
-bpn2311 
+bpn2311 «[România](../ro/prayers/#bpn2311)» 
 
 ----
 

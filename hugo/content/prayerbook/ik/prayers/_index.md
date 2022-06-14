@@ -5,9 +5,9 @@ tags = ['lang=ik', 'prayerbook']
 
 
 
-
 [Iñupiaq - North Slope Dialect](#I%C3%B1upiaq+-+North+Slope+Dialect)
 
+[Iñupiaq - North Slope Dialect](#I%C3%B1upiaq+-+North+Slope+Dialect)
 
 
 <a id="I%C3%B1upiaq+-+North+Slope+Dialect"></a> 

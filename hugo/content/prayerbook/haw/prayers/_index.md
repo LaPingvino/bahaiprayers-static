@@ -5,11 +5,11 @@ tags = ['lang=haw', 'prayerbook']
 
 
 
-
 [General Prayers](#General+Prayers)
 
 [He Pule Koi Pˆkole](#He+Pule+Koi+P%CB%86kole)
 
+[He Pule Koi Pˆkole](#He+Pule+Koi+P%CB%86kole)
 
 
 <a id="General+Prayers"></a> 

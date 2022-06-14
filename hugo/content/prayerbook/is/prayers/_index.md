@@ -5,7 +5,6 @@ tags = ['lang=is', 'prayerbook']
 
 
 
-
 [Andleg lausn](#Andleg+lausn)
 
 [Andleg ráð](#Andleg+r%C3%A1%C3%B0)
@@ -800,7 +799,7 @@ bpn1640
 
 -- Bahá'u'lláh
 
-bpn1763 
+bpn1763 «[Íslenska](../is/prayers/#bpn1763)» 
 
 ----
 
@@ -1184,7 +1183,7 @@ Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn alm
 
 -- Bahá'u'lláh
 
-bpn1672 
+bpn1672 «[Íslenska](../is/prayers/#bpn1672)» 
 
 ----
 
@@ -1598,7 +1597,7 @@ bpn1577
 
 -- Bahá'u'lláh
 
-bpn4375 
+bpn4375 «[Íslenska](../is/prayers/#bpn4375)» 
 
 ----
 
@@ -2190,7 +2189,7 @@ Hann er hinn náðugi og ástfólgni!Ó heilagi sæfari!Bjóð örk eilífðar �
 
 -- Bahá'u'lláh
 
-bpn1773 
+bpn1773 «[Íslenska](../is/prayers/#bpn1773)» 
 
 ----
 

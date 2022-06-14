@@ -5,7 +5,6 @@ tags = ['lang=lb', 'prayerbook']
 
 
 
-
 [&#39;Abdu&#39;l-Baha](#%27Abdu%27l-Baha)
 
 [Ayyám-i-Há](#Ayy%C3%A1m-i-H%C3%A1)

@@ -5,7 +5,6 @@ tags = ['lang=ch', 'prayerbook']
 
 
 
-
 [DINAÑA’ ESPIRITUAT](#DINAN%CC%83A%E2%80%99+ESPIRITUAT)
 
 [HINEMLO’](#HINEMLO%E2%80%99)

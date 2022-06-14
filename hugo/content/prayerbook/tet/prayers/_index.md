@@ -5,7 +5,6 @@ tags = ['lang=tet', 'prayerbook']
 
 
 
-
 [Asisténsia](#Asist%C3%A9nsia)
 
 [Dezenvolvimentu Espirituál](#Dezenvolvimentu+Espiritu%C3%A1l)

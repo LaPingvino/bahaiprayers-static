@@ -5,7 +5,6 @@ tags = ['lang=lv', 'prayerbook']
 
 
 
-
 [Aizsardzība](#Aizsardz%C4%ABba)
 
 [Atsacīšanās](#Atsac%C4%AB%C5%A1an%C4%81s)

@@ -114,7 +114,7 @@ bpn3492
 
 -- Bahá'u'lláh
 
-bpn3585 
+bpn3585 «[Norsk](../no/prayers/#bpn3585)» 
 
 ----
 
@@ -404,7 +404,7 @@ Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmå
 
 -- Bahá'u'lláh
 
-bpn3513 
+bpn3513 «[Norsk](../no/prayers/#bpn3513)» 
 
 ----
 
@@ -482,7 +482,7 @@ I Guds, den eldstes, den størstes, navn. Sannelig, de oppriktiges hjerter fort�
 
 -- Bahá'u'lláh
 
-bpn3587 
+bpn3587 «[Norsk](../no/prayers/#bpn3587)» 
 
 ----
 
@@ -524,7 +524,7 @@ bpn3488
 
 -- Bahá'u'lláh
 
-bpn3490 
+bpn3490 «[Norsk](../no/prayers/#bpn3490)» 
 
 ----
 

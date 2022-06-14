@@ -5,7 +5,6 @@ tags = ['lang=sne', 'prayerbook']
 
 
 
-
 [Doa Bitogant](#Doa+Bitogant)
 
 [Doa Ganyuk Ulah Rohani](#Doa+Ganyuk+Ulah+Rohani)
@@ -74,6 +73,7 @@ tags = ['lang=sne', 'prayerbook']
 
 [Sugu Fund](#Sugu+Fund)
 
+[Sugu Fund](#Sugu+Fund)
 
 
 <a id="Doa+Bitogant"></a> 

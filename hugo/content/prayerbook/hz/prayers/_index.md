@@ -5,7 +5,6 @@ tags = ['lang=hz', 'prayerbook']
 
 
 
-
 [Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib](#Khoekhoegowab%3A++Baha%E2%80%99u%E2%80%99llab+di+%E2%89%A0gai-khaiga+xu+%21kho-%E2%89%A0uihe+ha+%2FGui-%2Fguib)
 
 [Khoekhoegowab: !NUWU //GUI AISA /GORES*](#Khoekhoegowab%3A+%21NUWU+%2F%2FGUI+AISA+%2FGORES%2A)
@@ -186,6 +185,7 @@ tags = ['lang=hz', 'prayerbook']
 
 [Rukwangali: NONKWARA](#Rukwangali%3A+NONKWARA)
 
+[Rukwangali: NONKWARA](#Rukwangali%3A+NONKWARA)
 
 
 <a id="Khoekhoegowab%3A++Baha%E2%80%99u%E2%80%99llab+di+%E2%89%A0gai-khaiga+xu+%21kho-%E2%89%A0uihe+ha+%2FGui-%2Fguib"></a> 

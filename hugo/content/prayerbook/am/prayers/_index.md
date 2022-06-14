@@ -5,7 +5,6 @@ tags = ['lang=am', 'prayerbook']
 
 
 
-
 [ለሕፃናት  (Infants)](#%E1%88%88%E1%88%95%E1%8D%83%E1%8A%93%E1%89%B5++%28Infants%29)
 
 [ለመንፈሳዊ ጉባኤ ስብሰባ (Assemblies)](#%E1%88%88%E1%88%98%E1%8A%95%E1%8D%88%E1%88%B3%E1%8B%8A+%E1%8C%89%E1%89%A3%E1%8A%A4+%E1%88%B5%E1%89%A5%E1%88%B0%E1%89%A3+%28Assemblies%29)
@@ -74,6 +73,7 @@ tags = ['lang=am', 'prayerbook']
 
 [ፀሎተ ትምህርት (Education)](#%E1%8D%80%E1%88%8E%E1%89%B0+%E1%89%B5%E1%88%9D%E1%88%85%E1%88%AD%E1%89%B5+%28Education%29)
 
+[ፀሎተ ትምህርት (Education)](#%E1%8D%80%E1%88%8E%E1%89%B0+%E1%89%B5%E1%88%9D%E1%88%85%E1%88%AD%E1%89%B5+%28Education%29)
 
 
 <a id="%E1%88%88%E1%88%95%E1%8D%83%E1%8A%93%E1%89%B5++%28Infants%29"></a> 

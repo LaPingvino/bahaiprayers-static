@@ -5,7 +5,6 @@ tags = ['lang=ht', 'prayerbook']
 
 
 
-
 [Ansèyman](#Ans%C3%A8yman)
 
 [Asanble Espirityèl yo](#Asanble+Espirity%C3%A8l+yo)
@@ -424,7 +423,7 @@ Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an. Vrèman kè moun sensè yo a
 
 -- Bahá'u'lláh
 
-bpn7616 
+bpn7616 «[Kreyol Ayisyen](../ht/prayers/#bpn7616)» 
 
 ----
 
@@ -998,7 +997,7 @@ bpn7695
 
 -- Bahá'u'lláh
 
-bpn7613 
+bpn7617 
 
 ----
 
@@ -1012,7 +1011,7 @@ Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Pad
 
 -- Bahá'u'lláh
 
-bpn7617 
+bpn7617 «[Kreyol Ayisyen](../ht/prayers/#bpn7617)» 
 
 ----
 

@@ -5,7 +5,6 @@ tags = ['lang=sq', 'prayerbook']
 
 
 
-
 [Agjërimi](#Agj%C3%ABrimi)
 
 [Asambleja shpirtërore](#Asambleja+shpirt%C3%ABrore)

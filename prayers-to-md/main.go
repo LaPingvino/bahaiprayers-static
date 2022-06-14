@@ -20,6 +20,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
+	"regexp"
 	"strconv"
 	"strings"
 	"sync"
@@ -451,6 +452,15 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 	if err != nil {
 		panic(err.Error())
 	}
+
+	re := regexp.MustCompile(`^(#+)([^#])`)
+	sanitize := func(s string) string {
+		// Sanitize the text, add a <br> after each line and correct the header #s, adding a space after the last and adding ## in front of the first #
+		s = strings.Replace(s, "\n", "<br>", -1)
+		s = re.ReplaceAllString(s, "##$1 $2")
+		return template.HTMLEscapeString(s)
+	}
+
 	// Insert all the rows
 	for lang, prayerfile := range prayermap {
 		for _, prayer := range prayerfile.Prayers {
@@ -460,8 +470,7 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 				"https://bahaiprayers.net/Book/Single/"+strconv.Itoa(prayer.LanguageId)+"/"+strconv.Itoa(int(prayer.Id)),
 				prayer.Title,
 				prayer.Author.String(),
-				// Sanitize the text
-				template.HTMLEscapeString(prayer.Text),
+				sanitize(prayer.Text),
 			)
 			if err != nil {
 				panic(err.Error())

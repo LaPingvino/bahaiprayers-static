@@ -5,7 +5,6 @@ tags = ['lang=ca', 'prayerbook']
 
 
 
-
 [Agraïment](#Agra%C3%AFment)
 
 [Ajuda](#Ajuda)
@@ -2262,7 +2261,7 @@ bpn5966
 
 -- Bahá'u'lláh
 
-bpn5764 
+bpn5763 
 
 ----
 
@@ -2276,7 +2275,7 @@ bpn5764
 
 -- Bahá'u'lláh
 
-bpn5763 
+bpn5763 «[Català](../ca/prayers/#bpn5763)» 
 
 ----
 

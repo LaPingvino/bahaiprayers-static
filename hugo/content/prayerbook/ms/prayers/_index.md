@@ -5,7 +5,6 @@ tags = ['lang=ms', 'prayerbook']
 
 
 
-
 [AYYÁM-I-HÁ](#AYY%C3%81M-I-H%C3%81)
 
 [BANTUAN &amp; PERTOLONGAN](#BANTUAN+%26+PERTOLONGAN)

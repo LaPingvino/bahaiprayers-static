@@ -5,7 +5,6 @@ tags = ['lang=ml', 'prayerbook']
 
 
 
-
 [19 ദിനോത്സവം](#19+%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B5%8B%E0%B4%A4%E0%B5%8D%E0%B4%B8%E0%B4%B5%E0%B4%82)
 
 [അഗ്നി കുറിപ്പ്](#%E0%B4%85%E0%B4%97%E0%B5%8D%E0%B4%A8%E0%B4%BF+%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D)
@@ -102,6 +101,7 @@ tags = ['lang=ml', 'prayerbook']
 
 [സൗരാന്തര ദിനങ്ങള്‍](#%E0%B4%B8%E0%B5%97%E0%B4%B0%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%B0+%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%8D%E2%80%8D)
 
+[സൗരാന്തര ദിനങ്ങള്‍](#%E0%B4%B8%E0%B5%97%E0%B4%B0%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%B0+%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%8D%E2%80%8D)
 
 
 <a id="19+%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B5%8B%E0%B4%A4%E0%B5%8D%E0%B4%B8%E0%B4%B5%E0%B4%82"></a> 
@@ -126,7 +126,7 @@ bpn9903
 
 -- Bahá'u'lláh
 
-bpn9892 
+bpn9892 «[മലയാളം](../ml/prayers/#bpn9892)» 
 
 ----
 
@@ -752,7 +752,7 @@ bpn9780
 
 -- Bahá'u'lláh
 
-bpn9883 
+bpn9883 «[മലയാളം](../ml/prayers/#bpn9883)» 
 
 ----
 
@@ -1468,7 +1468,7 @@ bpn9805
 
 -- Bahá'u'lláh
 
-bpn9896 
+bpn9896 «[മലയാളം](../ml/prayers/#bpn9896)» 
 
 ----
 

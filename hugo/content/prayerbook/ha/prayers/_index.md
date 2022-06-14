@@ -5,7 +5,6 @@ tags = ['lang=ha', 'prayerbook']
 
 
 
-
 [Allon Wuta Mai Ƙōnāwa](#Allon+Wuta+Mai+%C6%98%C5%8Dn%C4%81wa)
 
 [Allō Zuwa Ga Ahmad](#All%C5%8D+Zuwa+Ga+Ahmad)

@@ -5,7 +5,6 @@ tags = ['lang=sk', 'prayerbook']
 
 
 
-
 [Blízkosť k Bohu](#Bl%C3%ADzkos%C5%A5+k+Bohu)
 
 [Bábätká](#B%C3%A1b%C3%A4tk%C3%A1)
@@ -388,7 +387,7 @@ bpn13130
 
 -- Bahá'u'lláh
 
-bpn9990 
+bpn9990 «[Slovensky](../sk/prayers/#bpn9990)» 
 
 ----
 
@@ -1528,7 +1527,7 @@ bpn13186
 
 -- Bahá'u'lláh
 
-bpn13189 
+bpn13189 «[Slovensky](../sk/prayers/#bpn13189)» 
 
 ----
 
@@ -1658,7 +1657,7 @@ bpn13229
 
 -- Bahá'u'lláh
 
-bpn13259 
+bpn13259 «[Slovensky](../sk/prayers/#bpn13259)» 
 
 ----
 

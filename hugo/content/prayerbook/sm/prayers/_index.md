@@ -5,7 +5,6 @@ tags = ['lang=sm', 'prayerbook']
 
 
 
-
 [AID AND ASSISTANCE](#AID+AND+ASSISTANCE)
 
 [CHILDREN](#CHILDREN)

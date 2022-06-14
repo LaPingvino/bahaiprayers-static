@@ -5,11 +5,11 @@ tags = ['lang=km', 'prayerbook']
 
 
 
-
 [General Prayers](#General+Prayers)
 
 [Short Obligatory Prayer](#Short+Obligatory+Prayer)
 
+[Short Obligatory Prayer](#Short+Obligatory+Prayer)
 
 
 <a id="General+Prayers"></a> 

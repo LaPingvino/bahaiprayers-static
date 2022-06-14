@@ -5,7 +5,6 @@ tags = ['lang=hu', 'prayerbook']
 
 
 
-
 [A Ridván tábla](#A+Ridv%C3%A1n+t%C3%A1bla)
 
 [A férjért](#A+f%C3%A9rj%C3%A9rt)

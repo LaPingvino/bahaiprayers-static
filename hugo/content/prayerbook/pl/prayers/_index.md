@@ -5,7 +5,6 @@ tags = ['lang=pl', 'prayerbook']
 
 
 
-
 [26 nowych modlitw &#39;Abdu&#39;l-Bahy](#26+nowych+modlitw+%27Abdu%27l-Bahy)
 
 [Bliskość Boga](#Blisko%C5%9B%C4%87+Boga)

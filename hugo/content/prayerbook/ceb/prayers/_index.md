@@ -5,7 +5,6 @@ tags = ['lang=ceb', 'prayerbook']
 
 
 
-
 [ANG TABLA NI AHMAD](#ANG+TABLA+NI+AHMAD)
 
 [Alang sa Bana](#Alang+sa+Bana)
