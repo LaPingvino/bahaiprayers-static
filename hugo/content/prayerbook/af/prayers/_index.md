@@ -142,7 +142,7 @@ Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gestee
 
 -- Bahá'u'lláh
 
-BH09024 «[Esperanto](../eo/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[English](../en/prayers/#BH09024)» 
+BH09024 «[Español](../../es/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» 
 
 ----
 
@@ -322,7 +322,7 @@ O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hi
 
 -- Bahá'u'lláh
 
-BH02848 «[Português (BR)](../pt/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[English](../en/prayers/#BH02848)» 
+BH02848 «[Français](../../fr/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» 
 
 ----
 
@@ -1048,7 +1048,7 @@ O U Wie se nabyheid my wens is, Wie se teenwoordigheid my hoop is, Wie se aanden
 
 -- Bahá'u'lláh
 
-BH08604 «[English](../en/prayers/#BH08604)» 
+BH08604 «[English](../../en/prayers/#BH08604)» 
 
 ----
 
@@ -1136,7 +1136,7 @@ Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebb
 
 -- Bahá'u'lláh
 
-BH05071 «[English](../en/prayers/#BH05071)» 
+BH05071 «[English](../../en/prayers/#BH05071)» 
 
 ----
 

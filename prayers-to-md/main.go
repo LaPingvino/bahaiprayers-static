@@ -65,7 +65,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 -- {{.Author}}
 
-{{.PrayerCode}} {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
+{{.PrayerCode}} {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
 
 ----
 
