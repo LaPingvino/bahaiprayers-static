@@ -20,7 +20,6 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
-	"regexp"
 	"strconv"
 	"strings"
 	"sync"
@@ -516,9 +515,18 @@ func main() {
 		defer db.Close()
 	}
 
-	re := regexp.MustCompile(`^(#+)([^#])`)
 	sanitize := func(s string) string {
-		s = re.ReplaceAllString(s, "##$1 $2")
+		// Convert h1 to h3, h2 to h4, etc.
+		s = strings.Replace(s, "<h1>", "<h3>", -1)
+		s = strings.Replace(s, "</h1>", "</h3>", -1)
+		s = strings.Replace(s, "<h2>", "<h4>", -1)
+		s = strings.Replace(s, "</h2>", "</h4>", -1)
+		s = strings.Replace(s, "<h3>", "<h5>", -1)
+		s = strings.Replace(s, "</h3>", "</h5>", -1)
+		s = strings.Replace(s, "<h4>", "<h6>", -1)
+		s = strings.Replace(s, "</h4>", "</h6>", -1)
+		// Embed in div with class "prayer"
+		s = "<div class=\"prayer\">\n" + s + "\n</div>"
 		return s
 	}
 
