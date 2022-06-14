@@ -722,7 +722,7 @@ bpn9162
 
 -- Abdu'l-Bahá
 
-AB10714 «[English](../../en/prayers/#AB10714)» «[Nederlands](../../nl/prayers/#AB10714)» 
+AB10714 «[Nederlands](../../nl/prayers/#AB10714)» «[English](../../en/prayers/#AB10714)» 
 
 ----
 
@@ -880,7 +880,7 @@ Béni est le lieu, la maison et l’endroit,la ville et le cœur,la montagne et 
 
 -- Bahá'u'lláh
 
-BH00074BLE «[Esperanto](../../eo/prayers/#BH00074BLE)» «[English](../../en/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Português (BR)](../../pt/prayers/#BH00074BLE)» 
+BH00074BLE «[Português (BR)](../../pt/prayers/#BH00074BLE)» «[Esperanto](../../eo/prayers/#BH00074BLE)» «[English](../../en/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» 
 
 ----
 
@@ -900,7 +900,7 @@ bpn9182
 
 -- Báb
 
-BB00018FOR «[English](../../en/prayers/#BB00018FOR)» «[Nederlands](../../nl/prayers/#BB00018FOR)» 
+BB00018FOR «[Nederlands](../../nl/prayers/#BB00018FOR)» «[English](../../en/prayers/#BB00018FOR)» 
 
 ----
 
@@ -1072,7 +1072,7 @@ Magnifié soit ton nom, ô Seigneur, mon Dieu !Tu es celui que toutes choses ado
 
 -- Bahá'u'lláh
 
-BH09960 «[Esperanto](../../eo/prayers/#BH09960)» «[English](../../en/prayers/#BH09960)» «[Português (BR)](../../pt/prayers/#BH09960)» 
+BH09960 «[Português (BR)](../../pt/prayers/#BH09960)» «[Esperanto](../../eo/prayers/#BH09960)» «[English](../../en/prayers/#BH09960)» 
 
 ----
 
@@ -1214,7 +1214,7 @@ bpn9210
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../../en/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» 
+BH02848 «[Português (BR)](../../pt/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» 
 
 ----
 
@@ -1414,7 +1414,7 @@ bpn9302
 
 -- Bahá'u'lláh
 
-BH01125 «[English](../../en/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» 
 
 ----
 
@@ -1944,7 +1944,7 @@ bpn9268
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../../en/prayers/#AB09139)» «[Nederlands](../../nl/prayers/#AB09139)» «[Português (BR)](../../pt/prayers/#AB09139)» 
+AB09139 «[Português (BR)](../../pt/prayers/#AB09139)» «[Nederlands](../../nl/prayers/#AB09139)» «[English](../../en/prayers/#AB09139)» 
 
 ----
 
@@ -2038,7 +2038,7 @@ Dis : Dieu suffit à tout, au-delà de tout, et rien, ni dans les cieux ni sur l
 
 -- Báb
 
-BB00015SUF «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» 
+BB00015SUF «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -2048,7 +2048,7 @@ Qui, hormis Dieu, dissipe les difficultés ? Dis : Loué soit Dieu ! Lui seul es
 
 -- Báb
 
-BB00623 «[Esperanto](../../eo/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» 
+BB00623 «[Português (BR)](../../pt/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» 
 
 ----
 

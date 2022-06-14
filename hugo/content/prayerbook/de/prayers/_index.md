@@ -752,7 +752,7 @@ Mache unsere Schritte fest auf Deinem Pfad, o Herr, und stärke unsere Herzen in
 
 -- Abdu'l-Bahá
 
-AB06211 «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» 
+AB06211 «[Português (BR)](../../pt/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
 
 ----
 
