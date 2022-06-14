@@ -142,7 +142,7 @@ Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gestee
 
 -- Bahá'u'lláh
 
-BH09024 «[Esperanto](../../eo/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» 
+BH09024 «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» 
 
 ----
 

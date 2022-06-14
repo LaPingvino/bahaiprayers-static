@@ -68,7 +68,7 @@ Ho Vi, Kies vizaĝo estas la objekto de mia adoro, Kies beleco estas mia sanktej
 
 -- Bahá'u'lláh
 
-BH10973 «[Nederlands](../../nl/prayers/#BH10973)» «[English](../../en/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» 
+BH10973 «[English](../../en/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» 
 
 ----
 
@@ -78,7 +78,7 @@ Eternulo! Kompatindaj estas ni, donu al ni Vian favoron; malriĉaj, donacu al ni
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[Nederlands](../../nl/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
+AB00431PIT «[English](../../en/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
 
 ----
 
@@ -88,7 +88,7 @@ Li estas la Kompatema, la Ĉion-Donacanta! Ho Dio, mia Dio! Vi vidas min, Vi kon
 
 -- Abdu'l-Bahá
 
-AB06012 «[Nederlands](../../nl/prayers/#AB06012)» «[English](../../en/prayers/#AB06012)» 
+AB06012 «[English](../../en/prayers/#AB06012)» «[Nederlands](../../nl/prayers/#AB06012)» 
 
 ----
 
@@ -122,7 +122,7 @@ AB02866 «[English](../../en/prayers/#AB02866)»
 
 -- Bahá'u'lláh
 
-BH02022 «[Português (BR)](../../pt/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+BH02022 «[Português (BR)](../../pt/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» 
 
 ----
 
@@ -180,7 +180,7 @@ Ho Vi kompatema Dio! Dankoj estu al Vi por ke Vi vekis kaj konsciigis min. Vi do
 
 -- Abdu'l-Bahá
 
-AB02342AWA «[Nederlands](../../nl/prayers/#AB02342AWA)» «[English](../../en/prayers/#AB02342AWA)» 
+AB02342AWA «[English](../../en/prayers/#AB02342AWA)» «[Nederlands](../../nl/prayers/#AB02342AWA)» 
 
 ----
 
@@ -190,7 +190,7 @@ Ho Eternulo, mia Dio! Asistu Viajn amatojn, por ke ili estu firmaj en Via Kredo,
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
+AB00001FIR «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
 
 ----
 
@@ -214,7 +214,7 @@ Ho mia Dio! Ho Vi, pardonanto de pekoj, donacanto de bonoj, forpelanto de aflikt
 
 -- Abdu'l-Bahá
 
-AB11094 «[Nederlands](../../nl/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» 
+AB11094 «[English](../../en/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» 
 
 ----
 
@@ -228,7 +228,7 @@ Ho Eternulo! En tiu ĉi Plej Granda Misio Vi akceptas la propeton de infanoj por
 
 -- Abdu'l-Bahá
 
-AB02000DIS «[Nederlands](../../nl/prayers/#AB02000DIS)» «[English](../../en/prayers/#AB02000DIS)» 
+AB02000DIS «[English](../../en/prayers/#AB02000DIS)» «[Nederlands](../../nl/prayers/#AB02000DIS)» 
 
 ----
 
@@ -266,7 +266,7 @@ Ho Dio! Gvidu min, protektu min, faru min lumanta lampo kaj stelo brila. Vi esta
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Nederlands](../../nl/prayers/#AB04427LMP)» «[English](../../en/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» 
+AB04427LMP «[English](../../en/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» 
 
 ----
 
@@ -344,7 +344,7 @@ AB00049RAP «[English](../../en/prayers/#AB00049RAP)»
 
 -- Bahá'u'lláh
 
-BH00987 «[Português (BR)](../../pt/prayers/#BH00987)» «[Nederlands](../../nl/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» 
+BH00987 «[Português (BR)](../../pt/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» «[Nederlands](../../nl/prayers/#BH00987)» 
 
 ----
 
@@ -372,7 +372,7 @@ BH11209 «[Português (BR)](../../pt/prayers/#BH11209)» «[English](../../en/pr
 
 -- Bahá'u'lláh
 
-BH03447 «[Português (BR)](../../pt/prayers/#BH03447)» «[Nederlands](../../nl/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» 
+BH03447 «[Português (BR)](../../pt/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» «[Nederlands](../../nl/prayers/#BH03447)» 
 
 ----
 
@@ -386,7 +386,7 @@ BH03447 «[Português (BR)](../../pt/prayers/#BH03447)» «[Nederlands](../../nl
 
 -- Bahá'u'lláh
 
-BH09401 «[Nederlands](../../nl/prayers/#BH09401)» «[English](../../en/prayers/#BH09401)» 
+BH09401 «[English](../../en/prayers/#BH09401)» «[Nederlands](../../nl/prayers/#BH09401)» 
 
 ----
 
@@ -410,7 +410,7 @@ Multe da frostaj koroj, ho mia Dio, ekflamis per la fajro de Via Kredo, kaj mult
 
 -- Bahá'u'lláh
 
-BH09024 «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» 
+BH09024 «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» 
 
 ----
 
@@ -430,7 +430,7 @@ Diru: Dio sufiĉas al ĉio kaj super ĉio, kaj nenio en la ĉieloj nek sur la te
 
 -- Báb
 
-BB00015SUF «[Nederlands](../../nl/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» 
+BB00015SUF «[English](../../en/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -454,7 +454,7 @@ Mi ellitiĝis ĉi-matene pro Via favoro, ho mia Dio, kaj iris for el mia hejmo, 
 
 -- Bahá'u'lláh
 
-BH00009GRA «[Nederlands](../../nl/prayers/#BH00009GRA)» «[English](../../en/prayers/#BH00009GRA)» «[Papiamentu](../../pap/prayers/#BH00009GRA)» 
+BH00009GRA «[English](../../en/prayers/#BH00009GRA)» «[Nederlands](../../nl/prayers/#BH00009GRA)» «[Papiamentu](../../pap/prayers/#BH00009GRA)» 
 
 ----
 
@@ -482,7 +482,7 @@ Laŭdata estu Via nomo, ho Eternulo mia Dio! Mi petegas Vin je Via Nomo, per kiu
 
 -- Bahá'u'lláh
 
-BH10578 «[English](../../en/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» 
+BH10578 «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» 
 
 ----
 
@@ -530,7 +530,7 @@ Via nomo estas mia kuraco, ho mia Dio, kaj rememoro pri Vi mia medikamento. Prok
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» 
+BH01313NAM «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» 
 
 ----
 
@@ -564,7 +564,7 @@ Kreu en mi puran koron, ho mia Dio, kaj renovigu en mi trankvilan konsciencon, h
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Nederlands](../../nl/prayers/#BH04421HEA)» «[English](../../en/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» 
+BH04421HEA «[English](../../en/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» 
 
 ----
 
@@ -574,7 +574,7 @@ Mia Dio, la celo de mia adorado kaj de mia sopirado, Vi la Ĉiom-Bonkora, la Ple
 
 -- Bahá'u'lláh
 
-BH00005ALL 
+BH00005ALL «[English](../../en/prayers/#BH00005ALL)» 
 
 ----
 
@@ -598,7 +598,7 @@ ABU1863REF
 
 -- Báb
 
-BB00623 «[Português (BR)](../../pt/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» 
+BB00623 «[Português (BR)](../../pt/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» 
 
 ----
 
@@ -646,7 +646,7 @@ Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petan
 
 -- Abdu'l-Bahá
 
-ABU0023UNI «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» 
+ABU0023UNI «[English](../../en/prayers/#ABU0023UNI)» «[Nederlands](../../nl/prayers/#ABU0023UNI)» 
 
 ----
 
@@ -680,7 +680,7 @@ BH00009SER «[Português (BR)](../../pt/prayers/#BH00009SER)» «[English](../..
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Deutsch](../../de/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+AB06528MID «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -694,7 +694,7 @@ Ho mia Dio, la Dio de donacado kaj kompato! Vi estas la Reĝo, per Kies ordona v
 
 -- Bahá'u'lláh
 
-BH00554 «[Nederlands](../../nl/prayers/#BH00554)» «[English](../../en/prayers/#BH00554)» 
+BH00554 «[English](../../en/prayers/#BH00554)» «[Nederlands](../../nl/prayers/#BH00554)» 
 
 ----
 
