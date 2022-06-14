@@ -5,6 +5,7 @@ tags = ['lang=nl', 'prayerbook']
 
 
 
+
 [Aanstaande moeders](#Aanstaande+moeders)
 
 [Algemene gebeden voor overledenen](#Algemene+gebeden+voor+overledenen)
@@ -113,7 +114,7 @@ Mijn Heer! Mijn Heer! Ik loof U en ik dank U voor datgene waarmee Gij Uw nederig
 
 -- Abdu'l-Bahá
 
-bpn9734 «[Nederlands](../nl/prayers/#bpn9734)» 
+bpn9734 
 
 ----
 
@@ -127,7 +128,7 @@ bpn9734 «[Nederlands](../nl/prayers/#bpn9734)»
 
 -- Bahá'u'lláh
 
-bpn9687 «[Nederlands](../nl/prayers/#bpn9687)» 
+bpn9687 
 
 ----
 
@@ -137,7 +138,7 @@ Hij is God, verheven is Hij, de Heer van goedertierenheid en milddadigheid!Verhe
 
 -- Bahá'u'lláh
 
-bpn9688 «[Nederlands](../nl/prayers/#bpn9688)» 
+bpn9688 
 
 ----
 
@@ -147,7 +148,7 @@ Vergun, o mijn Heer, dat zij die naar U zijn opgestegen zich naar Hem die de ver
 
 -- Bahá'u'lláh
 
-bpn9689 «[Nederlands](../nl/prayers/#bpn9689)» 
+bpn9689 
 
 ----
 
@@ -157,7 +158,7 @@ O God, mijn God! Gij hebt aan mijn handen een pand van U toevertrouwd en hebt he
 
 -- Bahá'u'lláh
 
-bpn9690 «[Nederlands](../nl/prayers/#bpn9690)» 
+bpn9690 
 
 ----
 
@@ -167,7 +168,7 @@ O mijn God! O Gij die zonden vergeeft, gaven schenkt en kwellingen verdrijft!Waa
 
 -- Abdu'l-Bahá
 
-AB11094 «[English](../en/prayers/#AB11094)» «[Esperanto](../eo/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Nederlands](../nl/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» 
+AB11094 «[English](../../en/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» 
 
 ----
 
@@ -177,7 +178,7 @@ O mijn God! O mijn God! Waarlijk, Uw dienaar, deemoedig voor de majesteit van Uw
 
 -- Abdu'l-Bahá
 
-bpn9692 «[Nederlands](../nl/prayers/#bpn9692)» 
+bpn9692 
 
 ----
 
@@ -187,7 +188,7 @@ O Gij vergevingsgezinde Heer!Hoewel sommige zielen de dagen van hun leven in onw
 
 -- Abdu'l-Bahá
 
-bpn9693 «[Nederlands](../nl/prayers/#bpn9693)» 
+bpn9693 
 
 ----
 
@@ -201,7 +202,7 @@ O mijn God, mijn Meester, Doel van mijn verlangen! Deze dienaar van U zoekt de s
 
 -- Bahá'u'lláh
 
-bpn9527 «[Nederlands](../nl/prayers/#bpn9527)» 
+bpn9527 
 
 ----
 
@@ -211,7 +212,7 @@ Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren ni
 
 -- Bahá'u'lláh
 
-bpn9528 «[Nederlands](../nl/prayers/#bpn9528)» 
+bpn9528 
 
 ----
 
@@ -225,7 +226,7 @@ O Gij, Wiens beproevingen een heilzaam middel zijn voor hen die U nabij zijn, Wi
 
 -- Bahá'u'lláh
 
-BH08600TES «[English](../en/prayers/#BH08600TES)» «[Nederlands](../nl/prayers/#BH08600TES)» 
+BH08600TES «[English](../../en/prayers/#BH08600TES)» 
 
 ----
 
@@ -235,7 +236,7 @@ Verheerlijkt zijt Gij, o Heer mijn God! Ieder weldenkend mens belijdt Uw soevere
 
 -- Bahá'u'lláh
 
-bpn9532 «[Nederlands](../nl/prayers/#bpn9532)» 
+bpn9532 
 
 ----
 
@@ -245,7 +246,7 @@ Verdrijf mijn verdriet met Uw milddadigheid en Uw grootmoedigheid, o God, mijn G
 
 -- Bahá'u'lláh
 
-bpn9533 «[Nederlands](../nl/prayers/#bpn9533)» 
+bpn9533 
 
 ----
 
@@ -255,7 +256,7 @@ Ere zij U, o mijn God! Hoe zouden Uw ware minnaars anders worden herkend dan doo
 
 -- Bahá'u'lláh
 
-bpn9531 «[Nederlands](../nl/prayers/#bpn9531)» 
+bpn9531 
 
 ----
 
@@ -265,7 +266,7 @@ Geprezen en verheerlijkt zijt Gij, o mijn God! Ik smeek U, bij het zuchten van h
 
 -- Báb
 
-bpn9534 «[Nederlands](../nl/prayers/#bpn9534)» 
+bpn9534 
 
 ----
 
@@ -275,7 +276,7 @@ Gij weet zeer wel, o mijn God, dat ik vanuit alle richtingen word overstelpt doo
 
 -- Báb
 
-bpn9535 «[Nederlands](../nl/prayers/#bpn9535)» 
+bpn9535 
 
 ----
 
@@ -285,7 +286,7 @@ Ik smeek U bij Uw macht, o mijn God! Laat mij geen kwaad overkomen in tijden van
 
 -- Báb
 
-bpn9536 «[Nederlands](../nl/prayers/#bpn9536)» 
+bpn9536 
 
 ----
 
@@ -295,7 +296,7 @@ O Heer! Gij zijt Degeen die alle smart wegneemt en iedere kwelling verdrijft. Gi
 
 -- Báb
 
-bpn9537 «[Nederlands](../nl/prayers/#bpn9537)» 
+bpn9537 
 
 ----
 
@@ -309,7 +310,7 @@ Geprezen zijt Gij, o Heer mijn God! Gij ziet en weet dat ik Uw dienaren heb gema
 
 -- Bahá'u'lláh
 
-bpn9538 «[Nederlands](../nl/prayers/#bpn9538)» 
+bpn9538 
 
 ----
 
@@ -319,7 +320,7 @@ Geprezen zijt Gij, o Heer mijn God! Dit is Uw dienaar die met diepe teugen de wi
 
 -- Bahá'u'lláh
 
-bpn9539 «[Nederlands](../nl/prayers/#bpn9539)» 
+bpn9539 
 
 ----
 
@@ -329,7 +330,7 @@ Geloofd zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor het uur he
 
 -- Bahá'u'lláh
 
-bpn9540 «[Nederlands](../nl/prayers/#bpn9540)» 
+bpn9540 
 
 ----
 
@@ -339,7 +340,7 @@ O God, mijn God! Ik ben van mijn huis vertrokken, mij vastklemmend aan het koord
 
 -- Bahá'u'lláh
 
-bpn9541 «[Nederlands](../nl/prayers/#bpn9541)» 
+bpn9541 
 
 ----
 
@@ -349,7 +350,7 @@ In Naam van Hem, de Verhevene, de Allerhoogste, de Subliemste!Verheerlijkt zijt 
 
 -- Bahá'u'lláh
 
-bpn9542 «[Nederlands](../nl/prayers/#bpn9542)» 
+bpn9542 
 
 ----
 
@@ -359,7 +360,7 @@ Leid Uw dienaren, o mijn Heer, naar het hof van Uw gunst en milddadigheid en laa
 
 -- Bahá'u'lláh
 
-bpn9543 «[Nederlands](../nl/prayers/#bpn9543)» 
+bpn9543 
 
 ----
 
@@ -369,7 +370,7 @@ Beschik voor mij en voor hen die in U geloven, o mijn Heer, hetgeen naar Uw oord
 
 -- Báb
 
-bpn9544 «[Nederlands](../nl/prayers/#bpn9544)» 
+bpn9544 
 
 ----
 
@@ -379,7 +380,7 @@ Glorie zij U, o God! Gij zijt de God die vóór alle dingen bestond, die na alle
 
 -- Báb
 
-BB00100EXI «[English](../en/prayers/#BB00100EXI)» «[Nederlands](../nl/prayers/#BB00100EXI)» «[Português (BR)](../pt/prayers/#BB00100EXI)» 
+BB00100EXI «[English](../../en/prayers/#BB00100EXI)» «[Português (BR)](../../pt/prayers/#BB00100EXI)» 
 
 ----
 
@@ -389,7 +390,7 @@ In Naam van God, de Heer van overweldigende majesteit, de Algebiedende.Geheiligd
 
 -- Báb
 
-BB00490 «[English](../en/prayers/#BB00490)» «[Nederlands](../nl/prayers/#BB00490)» 
+BB00490 «[English](../../en/prayers/#BB00490)» 
 
 ----
 
@@ -399,7 +400,7 @@ O God, mijn God! Bescherm Uw vertrouwde dienaren tegen het kwaad van zelfzucht e
 
 -- Abdu'l-Bahá
 
-bpn9547 «[Nederlands](../nl/prayers/#bpn9547)» 
+bpn9547 
 
 ----
 
@@ -409,7 +410,7 @@ O mijn Heer! Gij weet dat de mensen omringd worden door pijn en rampen en omgeve
 
 -- Abdu'l-Bahá
 
-bpn9548 «[Nederlands](../nl/prayers/#bpn9548)» 
+bpn9548 
 
 ----
 
@@ -419,7 +420,7 @@ O Gij vriendelijke en liefhebbende Voorzienigheid! Het oosten is in beweging en 
 
 -- Abdu'l-Bahá
 
-bpn9549 «[Nederlands](../nl/prayers/#bpn9549)» 
+bpn9549 
 
 ----
 
@@ -433,7 +434,7 @@ O Gij barmhartig God! O Gij die machtig en krachtig zijt! O Gij allervriendelijk
 
 -- Abdu'l-Bahá
 
-bpn9550 «[Nederlands](../nl/prayers/#bpn9550)» 
+bpn9550 
 
 ----
 
@@ -443,7 +444,7 @@ O Gij vriendelijk Heer! Dit zijn Uw dienaren die in deze samenkomst bijeen zijn,
 
 -- Abdu'l-Bahá
 
-bpn9551 «[Nederlands](../nl/prayers/#bpn9551)» 
+bpn9551 
 
 ----
 
@@ -453,7 +454,7 @@ O mijn God! O mijn God! Waarlijk, deze dienaren keren zich tot U en roepen Uw ko
 
 -- Abdu'l-Bahá
 
-bpn9552 «[Nederlands](../nl/prayers/#bpn9552)» 
+bpn9552 
 
 ----
 
@@ -463,7 +464,7 @@ O Gij vergevingsgezinde God! Deze dienaren richten zich tot Uw koninkrijk en ver
 
 -- Abdu'l-Bahá
 
-bpn9553 «[Nederlands](../nl/prayers/#bpn9553)» 
+bpn9553 
 
 ----
 
@@ -473,7 +474,7 @@ O Goddelijke Voorzienigheid! Dit gezelschap bestaat uit Uw vrienden die zijn aan
 
 -- Abdu'l-Bahá
 
-bpn9554 «[Nederlands](../nl/prayers/#bpn9554)» 
+bpn9554 
 
 ----
 
@@ -483,7 +484,7 @@ O Gij liefdevolle Verzorger! Deze zielen hebben gehoor gegeven aan de roep van h
 
 -- Abdu'l-Bahá
 
-bpn9555 «[Nederlands](../nl/prayers/#bpn9555)» 
+bpn9555 
 
 ----
 
@@ -493,7 +494,7 @@ O Gij Meedogende, Almachtige! Deze hier bijeengekomen zielen hebben hun gelaat i
 
 -- Abdu'l-Bahá
 
-bpn9556 «[Nederlands](../nl/prayers/#bpn9556)» 
+bpn9556 
 
 ----
 
@@ -507,7 +508,7 @@ O God, en de God aller namen, en de Maker der hemelen! Ik smeek U bij Uw Naam wa
 
 -- Bahá'u'lláh
 
-BH09498 «[English](../en/prayers/#BH09498)» «[Nederlands](../nl/prayers/#BH09498)» 
+BH09498 «[English](../../en/prayers/#BH09498)» 
 
 ----
 
@@ -517,7 +518,7 @@ Ik prijs U, o mijn God, aangezien de geur van Uw goedertierenheid mij in vervoer
 
 -- Bahá'u'lláh
 
-bpn9559 «[Nederlands](../nl/prayers/#bpn9559)» 
+bpn9559 
 
 ----
 
@@ -531,7 +532,7 @@ O  God, mijn God! Deze dienares roept U aan, vertrouwt op U, keert haar gelaat t
 
 -- Abdu'l-Bahá
 
-bpn9590 «[Nederlands](../nl/prayers/#bpn9590)» 
+bpn9590 
 
 ----
 
@@ -545,7 +546,7 @@ O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw ver
 
 -- Bahá'u'lláh
 
-bpn9560 «[Nederlands](../nl/prayers/#bpn9560)» 
+bpn9560 
 
 ----
 
@@ -555,7 +556,7 @@ O mijn God! O mijn God! Waarlijk, ik roep U aan en smeek aan Uw drempel, en vraa
 
 -- Abdu'l-Bahá
 
-ABU0023UNI «[English](../en/prayers/#ABU0023UNI)» «[Esperanto](../eo/prayers/#ABU0023UNI)» «[Nederlands](../nl/prayers/#ABU0023UNI)» 
+ABU0023UNI «[English](../../en/prayers/#ABU0023UNI)» «[Esperanto](../../eo/prayers/#ABU0023UNI)» 
 
 ----
 
@@ -569,7 +570,7 @@ ABU0023UNI «[English](../en/prayers/#ABU0023UNI)» «[Esperanto](../eo/prayers/
 
 -- Abdu'l-Bahá
 
-bpn9562 «[Nederlands](../nl/prayers/#bpn9562)» 
+bpn9562 
 
 ----
 
@@ -583,7 +584,7 @@ bpn9562 «[Nederlands](../nl/prayers/#bpn9562)»
 
 -- Bahá'u'lláh
 
-BH09085 «[English](../en/prayers/#BH09085)» «[Frysk](../fy/prayers/#BH09085)» «[Nederlands](../nl/prayers/#BH09085)» «[Português (BR)](../pt/prayers/#BH09085)» 
+BH09085 «[English](../../en/prayers/#BH09085)» «[Frysk](../../fy/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 ----
 
@@ -597,7 +598,7 @@ BH09085 «[English](../en/prayers/#BH09085)» «[Frysk](../fy/prayers/#BH09085)�
 
 -- Abdu'l-Bahá
 
-AB01023SAE «[English](../en/prayers/#AB01023SAE)» «[Nederlands](../nl/prayers/#AB01023SAE)» «[Português (BR)](../pt/prayers/#AB01023SAE)» 
+AB01023SAE «[English](../../en/prayers/#AB01023SAE)» «[Português (BR)](../../pt/prayers/#AB01023SAE)» 
 
 ----
 
@@ -607,7 +608,7 @@ AB01023SAE «[English](../en/prayers/#AB01023SAE)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn9736 «[Nederlands](../nl/prayers/#bpn9736)» 
+bpn9736 
 
 ----
 
@@ -617,7 +618,7 @@ bpn9736 «[Nederlands](../nl/prayers/#bpn9736)»
 
 -- Abdu'l-Bahá
 
-bpn9737 «[Nederlands](../nl/prayers/#bpn9737)» 
+bpn9737 
 
 ----
 
@@ -631,7 +632,7 @@ Geef mij te drinken uit de zoetgeurende stromen van Uw eeuwigheid, o mijn God, e
 
 -- Bahá'u'lláh
 
-BH06296 «[English](../en/prayers/#BH06296)» «[Nederlands](../nl/prayers/#BH06296)» «[Português (BR)](../pt/prayers/#BH06296)» 
+BH06296 «[English](../../en/prayers/#BH06296)» «[Português (BR)](../../pt/prayers/#BH06296)» 
 
 ----
 
@@ -641,7 +642,7 @@ Schep in mij een zuiver hart, o mijn God, en vernieuw in mij een rustig geweten,
 
 -- Bahá'u'lláh
 
-BH04421HEA «[English](../en/prayers/#BH04421HEA)» «[Esperanto](../eo/prayers/#BH04421HEA)» «[Frysk](../fy/prayers/#BH04421HEA)» «[Nederlands](../nl/prayers/#BH04421HEA)» 
+BH04421HEA «[English](../../en/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» 
 
 ----
 
@@ -651,7 +652,7 @@ Hij is de Genadige, de Almilddadige!O God, mijn God! Uw roep trok mij aan en de 
 
 -- Bahá'u'lláh
 
-BH06026 «[English](../en/prayers/#BH06026)» «[Nederlands](../nl/prayers/#BH06026)» «[Português (BR)](../pt/prayers/#BH06026)» 
+BH06026 «[English](../../en/prayers/#BH06026)» «[Português (BR)](../../pt/prayers/#BH06026)» 
 
 ----
 
@@ -661,7 +662,7 @@ O mijn Heer! Laat Uw schoonheid mijn voedsel zijn en Uw tegenwoordigheid mijn dr
 
 -- Bahá'u'lláh
 
-bpn9566 «[Nederlands](../nl/prayers/#bpn9566)» 
+bpn9566 
 
 ----
 
@@ -671,7 +672,7 @@ Geprezen zij Uw Naam, o Heer mijn God! Ik ben Uw dienaar die het koord van Uw te
 
 -- Bahá'u'lláh
 
-bpn9567 «[Nederlands](../nl/prayers/#bpn9567)» 
+bpn9567 
 
 ----
 
@@ -681,7 +682,7 @@ O mijn God, de God van milddadigheid en erbarmen! Gij zijt de Koning door Wiens 
 
 -- Bahá'u'lláh
 
-BH00554 «[English](../en/prayers/#BH00554)» «[Esperanto](../eo/prayers/#BH00554)» «[Nederlands](../nl/prayers/#BH00554)» 
+BH00554 «[English](../../en/prayers/#BH00554)» «[Esperanto](../../eo/prayers/#BH00554)» 
 
 ----
 
@@ -691,7 +692,7 @@ Hij is de God die gebeden verhoort en beantwoordt!Bij Uw glorie, o Geliefde, Gij
 
 -- Bahá'u'lláh
 
-BH03562 «[English](../en/prayers/#BH03562)» «[Nederlands](../nl/prayers/#BH03562)» 
+BH03562 «[English](../../en/prayers/#BH03562)» 
 
 ----
 
@@ -701,7 +702,7 @@ Ik smeek U, o mijn God, bij de alles te boven gaande glorie van Uw Naam, Uw geli
 
 -- Bahá'u'lláh
 
-BH00531TRA «[English](../en/prayers/#BH00531TRA)» «[Nederlands](../nl/prayers/#BH00531TRA)» «[Español](../es/prayers/#BH00531TRA)» 
+BH00531TRA «[English](../../en/prayers/#BH00531TRA)» «[Español](../../es/prayers/#BH00531TRA)» 
 
 ----
 
@@ -711,7 +712,7 @@ Geprezen zijt Gij, o Heer mijn God! Ik smeek U bij Uw tekenen die de gehele sche
 
 -- Bahá'u'lláh
 
-bpn9571 «[Nederlands](../nl/prayers/#bpn9571)» 
+bpn9571 
 
 ----
 
@@ -721,7 +722,7 @@ Ik smeek U, o mijn God, bij Uw verhevenste Woord, dat Gij hebt bestemd tot het g
 
 -- Bahá'u'lláh
 
-bpn9572 «[Nederlands](../nl/prayers/#bpn9572)» 
+bpn9572 
 
 ----
 
@@ -731,7 +732,7 @@ O God, mijn God! Gij hoort het zuchten van Hem die Uw Licht (Bahá) is, beluiste
 
 -- Bahá'u'lláh
 
-bpn9573 «[Nederlands](../nl/prayers/#bpn9573)» 
+bpn9573 
 
 ----
 
@@ -741,7 +742,7 @@ Zeg: O God, mijn God! Tooi mijn hoofd met de kroon van gerechtigheid en mijn sla
 
 -- Bahá'u'lláh
 
-bpn9574 «[Nederlands](../nl/prayers/#bpn9574)» 
+bpn9574 
 
 ----
 
@@ -751,7 +752,7 @@ Verleen mij, o mijn God, de volle maat van Uw liefde en Uw welbehagen, en breng 
 
 -- Báb
 
-bpn9575 «[Nederlands](../nl/prayers/#bpn9575)» 
+bpn9575 
 
 ----
 
@@ -761,7 +762,7 @@ O mijn God! O mijn God! Glorie zij U daar Gij mij hebt bevestigd in het belijden
 
 -- Abdu'l-Bahá
 
-AB07709CON «[English](../en/prayers/#AB07709CON)» «[Nederlands](../nl/prayers/#AB07709CON)» «[Español](../es/prayers/#AB07709CON)» 
+AB07709CON «[English](../../en/prayers/#AB07709CON)» «[Español](../../es/prayers/#AB07709CON)» 
 
 ----
 
@@ -771,7 +772,7 @@ O mijn Heer! O mijn Heer! Dit is een lamp die is aangestoken met het vuur van Uw
 
 -- Abdu'l-Bahá
 
-AB11281 «[English](../en/prayers/#AB11281)» «[Nederlands](../nl/prayers/#AB11281)» 
+AB11281 «[English](../../en/prayers/#AB11281)» 
 
 ----
 
@@ -781,7 +782,7 @@ O mijn God! O mijn God! Deze dienaar is nader tot U gekomen, zwerft hartstochtel
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../en/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» 
+AB09139 «[English](../../en/prayers/#AB09139)» «[Português (BR)](../../pt/prayers/#AB09139)» «[Français](../../fr/prayers/#AB09139)» 
 
 ----
 
@@ -791,7 +792,7 @@ O God, mijn God! Dit is Uw stralende dienaar, Uw geestelijke slaaf die U nabij i
 
 -- Abdu'l-Bahá
 
-bpn9579 «[Nederlands](../nl/prayers/#bpn9579)» 
+bpn9579 
 
 ----
 
@@ -801,7 +802,7 @@ O God, mijn God! Dit zijn Uw zwakke dienaren; zij zijn Uw getrouwe lijfeigenen e
 
 -- Abdu'l-Bahá
 
-bpn9580 «[Nederlands](../nl/prayers/#bpn9580)» 
+bpn9580 
 
 ----
 
@@ -811,7 +812,7 @@ Hij is God!O God, mijn God! Dit zijn dienaren die in Uw dagen bekoord zijn door 
 
 -- Abdu'l-Bahá
 
-AB02326 «[English](../en/prayers/#AB02326)» «[Nederlands](../nl/prayers/#AB02326)» «[Português (BR)](../pt/prayers/#AB02326)» 
+AB02326 «[English](../../en/prayers/#AB02326)» «[Português (BR)](../../pt/prayers/#AB02326)» 
 
 ----
 
@@ -821,7 +822,7 @@ O Gij Verzorger! Gij hebt de zoete geur van de Heilige Geest over de vrienden in
 
 -- Abdu'l-Bahá
 
-AB00044PRO «[English](../en/prayers/#AB00044PRO)» «[Nederlands](../nl/prayers/#AB00044PRO)» 
+AB00044PRO «[English](../../en/prayers/#AB00044PRO)» 
 
 ----
 
@@ -835,7 +836,7 @@ O God, mijn God! Ik smeek U bij de oceaan van Uw genezing en de pracht van de Da
 
 -- Bahá'u'lláh
 
-bpn9583 «[Nederlands](../nl/prayers/#bpn9583)» 
+bpn9583 
 
 ----
 
@@ -845,7 +846,7 @@ Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabi
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» 
+BH01313NAM «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» 
 
 ----
 
@@ -855,7 +856,7 @@ Glorie zij U, o Heer mijn God! Ik smeek U bij Uw Naam waardoor Gij de vaandels v
 
 -- Bahá'u'lláh
 
-bpn9585 «[Nederlands](../nl/prayers/#bpn9585)» 
+bpn9585 
 
 ----
 
@@ -865,7 +866,7 @@ bpn9585 «[Nederlands](../nl/prayers/#bpn9585)»
 
 -- Bahá'u'lláh
 
-bpn9586 «[Nederlands](../nl/prayers/#bpn9586)» 
+bpn9586 
 
 ----
 
@@ -875,7 +876,7 @@ bpn9586 «[Nederlands](../nl/prayers/#bpn9586)»
 
 -- Bahá'u'lláh
 
-bpn9587 «[Nederlands](../nl/prayers/#bpn9587)» 
+bpn9587 
 
 ----
 
@@ -885,7 +886,7 @@ bpn9587 «[Nederlands](../nl/prayers/#bpn9587)»
 
 -- Bahá'u'lláh
 
-bpn9588 «[Nederlands](../nl/prayers/#bpn9588)» 
+bpn9588 
 
 ----
 
@@ -895,7 +896,7 @@ O Gij, Almachtige! Ik ben een zondaar, doch Gij zijt de Vergevende! Ik ben vol t
 
 -- Abdu'l-Bahá
 
-bpn9589 «[Nederlands](../nl/prayers/#bpn9589)» 
+bpn9589 
 
 ----
 
@@ -909,7 +910,7 @@ icht en glorie, groet en ere zij de Handen van Zijn Zaak, door wie het licht van
 
 -- Bahá'u'lláh
 
-bpn9738 «[Nederlands](../nl/prayers/#bpn9738)» 
+bpn9738 
 
 ----
 
@@ -923,7 +924,7 @@ O God! Verdrijf al hetgeen de oorzaak van onenigheid is, en bereid voor ons al w
 
 -- Abdu'l-Bahá
 
-bpn9557 «[Nederlands](../nl/prayers/#bpn9557)» 
+bpn9557 
 
 ----
 
@@ -937,7 +938,7 @@ bpn9557 «[Nederlands](../nl/prayers/#bpn9557)»
 
 -- Bahá'u'lláh
 
-bpn9525 «[Nederlands](../nl/prayers/#bpn9525)» 
+bpn9525 
 
 ----
 
@@ -951,7 +952,7 @@ bpn9525 «[Nederlands](../nl/prayers/#bpn9525)»
 
 -- Bahá'u'lláh
 
-BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH00987)» «[Nederlands](../nl/prayers/#BH00987)» «[Português (BR)](../pt/prayers/#BH00987)» 
+BH00987 «[English](../../en/prayers/#BH00987)» «[Esperanto](../../eo/prayers/#BH00987)» «[Português (BR)](../../pt/prayers/#BH00987)» 
 
 ----
 
@@ -965,7 +966,7 @@ BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH009
 
 -- Bahá'u'lláh
 
-BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH03447)» «[Nederlands](../nl/prayers/#BH03447)» «[Português (BR)](../pt/prayers/#BH03447)» 
+BH03447 «[English](../../en/prayers/#BH03447)» «[Esperanto](../../eo/prayers/#BH03447)» «[Português (BR)](../../pt/prayers/#BH03447)» 
 
 ----
 
@@ -979,7 +980,7 @@ O Gij, Wiens gelaat het voorwerp is van mijn aanbidding, Wiens schoonheid mijn h
 
 -- Bahá'u'lláh
 
-BH10973 «[English](../en/prayers/#BH10973)» «[Esperanto](../eo/prayers/#BH10973)» «[Frysk](../fy/prayers/#BH10973)» «[Nederlands](../nl/prayers/#BH10973)» 
+BH10973 «[English](../../en/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» 
 
 ----
 
@@ -989,7 +990,7 @@ Mijn God, mijn Aanbedene, mijn Koning, mijn verlangen! Welke tong kan mijn dank 
 
 -- Bahá'u'lláh
 
-bpn9594 «[Nederlands](../nl/prayers/#bpn9594)» 
+bpn9594 
 
 ----
 
@@ -999,7 +1000,7 @@ Glorie zij U, o mijn God! De eerste tekenen van de lente van Uw genade zijn vers
 
 -- Bahá'u'lláh
 
-bpn9595 «[Nederlands](../nl/prayers/#bpn9595)» 
+bpn9595 
 
 ----
 
@@ -1009,7 +1010,7 @@ Zeg: Ere zij U die alle heiligen hun hulpeloosheid deed bekennen tegenover de me
 
 -- Bahá'u'lláh
 
-bpn9596 «[Nederlands](../nl/prayers/#bpn9596)» 
+bpn9596 
 
 ----
 
@@ -1019,7 +1020,7 @@ Geloofd zij Uw Naam, o Heer onze God! Gij zijt waarlijk de Kenner van het ongezi
 
 -- Báb
 
-bpn9597 «[Nederlands](../nl/prayers/#bpn9597)» 
+bpn9597 
 
 ----
 
@@ -1029,7 +1030,7 @@ O mijn God, mijn Heer en mijn Meester! Ik heb mij losgemaakt van mijn verwanten 
 
 -- Báb
 
-bpn9598 «[Nederlands](../nl/prayers/#bpn9598)» 
+bpn9598 
 
 ----
 
@@ -1039,7 +1040,7 @@ Heer! Erbarmelijk zijn wij, verleen ons Uw gunst; arm zijn wij, schenk ons een d
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[English](../en/prayers/#AB00431PIT)» «[Esperanto](../eo/prayers/#AB00431PIT)» «[Nederlands](../nl/prayers/#AB00431PIT)» «[Papiamentu](../pap/prayers/#AB00431PIT)» 
+AB00431PIT «[English](../../en/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
 
 ----
 
@@ -1049,7 +1050,7 @@ O Gij vriendelijk Heer! Wij zijn dienaren van Uw drempel en zoeken beschutting a
 
 -- Abdu'l-Bahá
 
-bpn9600 «[Nederlands](../nl/prayers/#bpn9600)» 
+bpn9600 
 
 ----
 
@@ -1059,7 +1060,7 @@ Neem, o Heer, de feestdis niet weg die in Uw Naam is gespreid en doof niet de br
 
 -- Abdu'l-Bahá
 
-AB10275 «[English](../en/prayers/#AB10275)» «[Nederlands](../nl/prayers/#AB10275)» «[Português (BR)](../pt/prayers/#AB10275)» «[Español](../es/prayers/#AB10275)» 
+AB10275 «[English](../../en/prayers/#AB10275)» «[Español](../../es/prayers/#AB10275)» «[Português (BR)](../../pt/prayers/#AB10275)» 
 
 ----
 
@@ -1069,11 +1070,11 @@ AB10275 «[English](../en/prayers/#AB10275)» «[Nederlands](../nl/prayers/#AB10
 ## Huqúqu’lláh, Gods recht
 
 <a id="BH01554HUQ"></a> 
-*Ḥuqúqu&#39;lláh is waarlijk een grootse wet. Iedereen is verplicht dit offer te brengen omdat dit een bron is van genade, van overvloed en van al het goede. Het is een milddadigheid die bij iedere ziel zal blijven in elke wereld van de werelden van God, de Albezittende, de Almilddadige. Bahá&#39;u&#39;lláhVerheerlijkt zijt Gij, o Heer van de gehele schepping, Degeen tot Wie alle dingen zich moeten wenden. Ik getuig van binnen en hardop dat Gij Uzelf kenbaar hebt gemaakt en hebt geopenbaard, Uw tekenen hebt neergezonden en Uw getuigenissen hebt verkondigd. Ik betuig dat Gij onafhankelijk zijt van alles buiten Uzelf en geheiligd van al het aardse. Ik smeek U bij de alles te boven gaande glorie van Uw Zaak en de alovertreffende kracht van Uw Woord om diegene te bevestigen die wenst te schenken hetgeen Gij hem in Uw Boek hebt voorgeschreven, en zich wil houden aan hetgeen de geuren van Uw aanvaarding zal verspreiden. Waarlijk Gij zijt de Almachtige, de Algenadige, de Alvergevende, de Algrootmoedige.
+*Ḥuqúqu'lláh is waarlijk een grootse wet. Iedereen is verplicht dit offer te brengen omdat dit een bron is van genade, van overvloed en van al het goede. Het is een milddadigheid die bij iedere ziel zal blijven in elke wereld van de werelden van God, de Albezittende, de Almilddadige. Bahá'u'lláhVerheerlijkt zijt Gij, o Heer van de gehele schepping, Degeen tot Wie alle dingen zich moeten wenden. Ik getuig van binnen en hardop dat Gij Uzelf kenbaar hebt gemaakt en hebt geopenbaard, Uw tekenen hebt neergezonden en Uw getuigenissen hebt verkondigd. Ik betuig dat Gij onafhankelijk zijt van alles buiten Uzelf en geheiligd van al het aardse. Ik smeek U bij de alles te boven gaande glorie van Uw Zaak en de alovertreffende kracht van Uw Woord om diegene te bevestigen die wenst te schenken hetgeen Gij hem in Uw Boek hebt voorgeschreven, en zich wil houden aan hetgeen de geuren van Uw aanvaarding zal verspreiden. Waarlijk Gij zijt de Almachtige, de Algenadige, de Alvergevende, de Algrootmoedige.
 
 -- Bahá'u'lláh
 
-BH01554HUQ «[English](../en/prayers/#BH01554HUQ)» «[Nederlands](../nl/prayers/#BH01554HUQ)» «[Português (BR)](../pt/prayers/#BH01554HUQ)» 
+BH01554HUQ «[English](../../en/prayers/#BH01554HUQ)» «[Português (BR)](../../pt/prayers/#BH01554HUQ)» 
 
 ----
 
@@ -1087,7 +1088,7 @@ BH01554HUQ «[English](../en/prayers/#BH01554HUQ)» «[Nederlands](../nl/prayers
 
 -- Bahá'u'lláh
 
-bpn9602 «[Nederlands](../nl/prayers/#bpn9602)» 
+bpn9602 
 
 ----
 
@@ -1097,7 +1098,7 @@ Hij is God!O weergaloos Heer! In Uw almachtige wijsheid hebt Gij de volkeren het
 
 -- Abdu'l-Bahá
 
-bpn9603 «[Nederlands](../nl/prayers/#bpn9603)» 
+bpn9603 
 
 ----
 
@@ -1107,7 +1108,7 @@ Glorie zij U, o mijn God! Waarlijk, deze dienaar en dienares van U zijn onder de
 
 -- Abdu'l-Bahá
 
-AB07158 «[English](../en/prayers/#AB07158)» «[Frysk](../fy/prayers/#AB07158)» «[Nederlands](../nl/prayers/#AB07158)» 
+AB07158 «[English](../../en/prayers/#AB07158)» «[Frysk](../../fy/prayers/#AB07158)» 
 
 ----
 
@@ -1117,7 +1118,7 @@ O mijn Heer, o mijn Heer! Deze twee heldere hemellichamen zijn gehuwd in liefde 
 
 -- Abdu'l-Bahá
 
-bpn9605 «[Nederlands](../nl/prayers/#bpn9605)» 
+bpn9605 
 
 ----
 
@@ -1131,7 +1132,7 @@ O Gij vriendelijk Heer! Van de horizon van onthechting hebt Gij zielen doen voor
 
 -- Abdu'l-Bahá
 
-bpn9606 «[Nederlands](../nl/prayers/#bpn9606)» 
+bpn9606 
 
 ----
 
@@ -1141,7 +1142,7 @@ O Gij vriendelijk Heer! Schenk ieder van deze jonge vogels genadiglijk hemelse v
 
 -- Abdu'l-Bahá
 
-bpn9607 «[Nederlands](../nl/prayers/#bpn9607)» 
+bpn9607 
 
 ----
 
@@ -1151,7 +1152,7 @@ O Gij vriendelijk Heer! Schenk deze dochter van het koninkrijk hemelse gaven en 
 
 -- Abdu'l-Bahá
 
-AB10492 «[English](../en/prayers/#AB10492)» «[Nederlands](../nl/prayers/#AB10492)» «[Español](../es/prayers/#AB10492)» 
+AB10492 «[English](../../en/prayers/#AB10492)» «[Español](../../es/prayers/#AB10492)» 
 
 ----
 
@@ -1161,7 +1162,7 @@ O Heer! Laat deze jongere stralen en verleen dit arme schepsel Uw milddadigheid.
 
 -- Abdu'l-Bahá
 
-bpn9609 «[Nederlands](../nl/prayers/#bpn9609)» 
+bpn9609 
 
 ----
 
@@ -1171,7 +1172,7 @@ Lof en eer zij U, o Heer mijn God! Dit is een uitverkoren jong boompje dat Gij i
 
 -- Abdu'l-Bahá
 
-bpn9610 «[Nederlands](../nl/prayers/#bpn9610)» 
+bpn9610 
 
 ----
 
@@ -1185,7 +1186,7 @@ O Heer mijn God! Dit is een kind dat is voortgekomen uit de lendenen van een van
 
 -- Bahá'u'lláh
 
-bpn9611 «[Nederlands](../nl/prayers/#bpn9611)» 
+bpn9611 
 
 ----
 
@@ -1195,7 +1196,7 @@ O God! Voed deze kinderen op. Deze kinderen zijn de planten van Uw boomgaard, de
 
 -- Abdu'l-Bahá
 
-bpn9612 «[Nederlands](../nl/prayers/#bpn9612)» 
+bpn9612 
 
 ----
 
@@ -1205,7 +1206,7 @@ O Gij vriendelijk Heer! Deze liefelijke kinderen zijn het werk van de vingers va
 
 -- Abdu'l-Bahá
 
-AB10714 «[English](../en/prayers/#AB10714)» «[Français](../fr/prayers/#AB10714)» «[Nederlands](../nl/prayers/#AB10714)» 
+AB10714 «[English](../../en/prayers/#AB10714)» «[Français](../../fr/prayers/#AB10714)» 
 
 ----
 
@@ -1215,7 +1216,7 @@ O Heer! Maak deze kinderen tot voortreffelijke planten. Laat hen groeien en zich
 
 -- Abdu'l-Bahá
 
-AB10701 «[English](../en/prayers/#AB10701)» «[Nederlands](../nl/prayers/#AB10701)» «[Español](../es/prayers/#AB10701)» 
+AB10701 «[English](../../en/prayers/#AB10701)» «[Español](../../es/prayers/#AB10701)» 
 
 ----
 
@@ -1225,7 +1226,7 @@ Hij is God! O God, mijn God! Schenk mij een zuiver hart, net als een parel.
 
 -- Abdu'l-Bahá
 
-bpn9615 «[Nederlands](../nl/prayers/#bpn9615)» 
+bpn9615 
 
 ----
 
@@ -1235,7 +1236,7 @@ O God, leid mij, bescherm mij, maak mij een stralende lamp en een schitterende s
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[English](../en/prayers/#AB04427LMP)» «[Esperanto](../eo/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Nederlands](../nl/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» 
+AB04427LMP «[English](../../en/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» 
 
 ----
 
@@ -1245,7 +1246,7 @@ O mijn Heer! O mijn Heer!Ik ben een jong kind. Voed mij aan de borst van Uw gena
 
 -- Abdu'l-Bahá
 
-bpn9617 «[Nederlands](../nl/prayers/#bpn9617)» 
+bpn9617 
 
 ----
 
@@ -1255,7 +1256,7 @@ O Weergaloos Heer! Weest Gij een schuilplaats voor dit arme kind en een vriendel
 
 -- Abdu'l-Bahá
 
-bpn9618 «[Nederlands](../nl/prayers/#bpn9618)» 
+bpn9618 
 
 ----
 
@@ -1265,7 +1266,7 @@ O mijn God! O mijn God! Gij ziet deze kinderen die de twijgen van de boom des le
 
 -- Abdu'l-Bahá
 
-AB10324 «[English](../en/prayers/#AB10324)» «[Nederlands](../nl/prayers/#AB10324)» 
+AB10324 «[English](../../en/prayers/#AB10324)» 
 
 ----
 
@@ -1275,7 +1276,7 @@ O Heer! Ik ben een kind, laat mij groeien in de schaduw van Uw goedertierenheid.
 
 -- Abdu'l-Bahá
 
-AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers/#AB09794CHI)» «[Português (BR)](../pt/prayers/#AB09794CHI)» 
+AB09794CHI «[English](../../en/prayers/#AB09794CHI)» «[Português (BR)](../../pt/prayers/#AB09794CHI)» 
 
 ----
 
@@ -1285,7 +1286,7 @@ O Gij glorierijkste Heer! Maak deze kleine dienares van U gezegend en gelukkig. 
 
 -- Abdu'l-Bahá
 
-AB10685 «[English](../en/prayers/#AB10685)» «[Nederlands](../nl/prayers/#AB10685)» 
+AB10685 «[English](../../en/prayers/#AB10685)» 
 
 ----
 
@@ -1299,7 +1300,7 @@ Alle lof, o mijn God, zij U die de bron zijt van alle glorie en majesteit, van g
 
 -- Bahá'u'lláh
 
-BH09401 «[English](../en/prayers/#BH09401)» «[Esperanto](../eo/prayers/#BH09401)» «[Nederlands](../nl/prayers/#BH09401)» 
+BH09401 «[English](../../en/prayers/#BH09401)» «[Esperanto](../../eo/prayers/#BH09401)» 
 
 ----
 
@@ -1309,7 +1310,7 @@ In Naam van God, de Allerhoogste! Geprezen en verheerlijkt zijt Gij, Heer, Almac
 
 -- Bahá'u'lláh
 
-bpn9626 «[Nederlands](../nl/prayers/#bpn9626)» 
+bpn9626 
 
 ----
 
@@ -1319,7 +1320,7 @@ Verheerlijkt zij Uw Naam, o Heer mijn God! Gij zijt Degeen die door alle dingen 
 
 -- Bahá'u'lláh
 
-bpn9627 «[Nederlands](../nl/prayers/#bpn9627)» 
+bpn9627 
 
 ----
 
@@ -1329,7 +1330,7 @@ Glorie zij U, o Heer mijn God! Ik dank U dat Gij mij in staat hebt gesteld de ma
 
 -- Bahá'u'lláh
 
-bpn9628 «[Nederlands](../nl/prayers/#bpn9628)» 
+bpn9628 
 
 ----
 
@@ -1339,7 +1340,7 @@ Geprezen zijt Gij, o Heer mijn God! Immer wanneer ik poog U te noemen, word ik d
 
 -- Bahá'u'lláh
 
-bpn9629 «[Nederlands](../nl/prayers/#bpn9629)» 
+bpn9629 
 
 ----
 
@@ -1349,7 +1350,7 @@ O Gij, Wien te gedenken de zielsverrukking is van allen die naar U hunkeren, Wie
 
 -- Bahá'u'lláh
 
-bpn9630 «[Nederlands](../nl/prayers/#bpn9630)» 
+bpn9630 
 
 ----
 
@@ -1359,7 +1360,7 @@ Lof zij U, o mijn God, daar Gij het gelaat van Uw dienaren naar de rechterzijde 
 
 -- Bahá'u'lláh
 
-bpn9631 «[Nederlands](../nl/prayers/#bpn9631)» 
+bpn9631 
 
 ----
 
@@ -1369,7 +1370,7 @@ O Gij die de Heer der Heren zijt! Ik betuig dat Gij de Heer zijt van al het gesc
 
 -- Bahá'u'lláh
 
-bpn9632 «[Nederlands](../nl/prayers/#bpn9632)» 
+bpn9632 
 
 ----
 
@@ -1379,7 +1380,7 @@ Alle majesteit en heerlijkheid, o mijn God, en alle heerschappij en licht en gro
 
 -- Báb
 
-bpn9633 «[Nederlands](../nl/prayers/#bpn9633)» 
+bpn9633 
 
 ----
 
@@ -1389,7 +1390,7 @@ Verheerlijkt zij Uw Naam, o Heer! Tot wie zal ik mijn toevlucht nemen terwijl Gi
 
 -- Báb
 
-bpn9634 «[Nederlands](../nl/prayers/#bpn9634)» 
+bpn9634 
 
 ----
 
@@ -1399,7 +1400,7 @@ Ik smeek U bij de glans van het licht van Uw heerlijk gelaat, bij de majesteit v
 
 -- Báb
 
-bpn9635 «[Nederlands](../nl/prayers/#bpn9635)» 
+bpn9635 
 
 ----
 
@@ -1413,7 +1414,7 @@ Hij is God!O Heer mijn God! O Gij Helper van de zwakken, Steun van de armen en V
 
 -- Abdu'l-Bahá
 
-AB02024 «[English](../en/prayers/#AB02024)» «[Nederlands](../nl/prayers/#AB02024)» 
+AB02024 «[English](../../en/prayers/#AB02024)» 
 
 ----
 
@@ -1427,7 +1428,7 @@ Mijn God, die ik aanbid en vereer! Ik getuig van Uw eenheid en Uw één-zijn en 
 
 -- Bahá'u'lláh
 
-BH00868WIT «[English](../en/prayers/#BH00868WIT)» «[Italiano](../it/prayers/#BH00868WIT)» «[Nederlands](../nl/prayers/#BH00868WIT)» 
+BH00868WIT «[English](../../en/prayers/#BH00868WIT)» «[Italiano](../../it/prayers/#BH00868WIT)» 
 
 ----
 
@@ -1437,7 +1438,7 @@ O Gij meedogend Heer, Gij die vrijgevig en bekwaam zijt! Wij zijn Uw dienaren di
 
 -- Abdu'l-Bahá
 
-bpn9637 «[Nederlands](../nl/prayers/#bpn9637)» 
+bpn9637 
 
 ----
 
@@ -1447,7 +1448,7 @@ O Gij vriendelijk Heer! O Gij die edelmoedig en barmhartig zijt! Wij zijn dienar
 
 -- Abdu'l-Bahá
 
-bpn9638 «[Nederlands](../nl/prayers/#bpn9638)» 
+bpn9638 
 
 ----
 
@@ -1457,7 +1458,7 @@ O Gij liefderijk Heer! Gij hebt de gehele mensheid geschapen uit dezelfde ouders
 
 -- Abdu'l-Bahá
 
-bpn9639 «[Nederlands](../nl/prayers/#bpn9639)» 
+bpn9639 
 
 ----
 
@@ -1467,7 +1468,7 @@ O God, o Gij die Uw luister over de schitterende werkelijkheid der mensen hebt u
 
 -- Abdu'l-Bahá
 
-bpn9640 «[Nederlands](../nl/prayers/#bpn9640)» 
+bpn9640 
 
 ----
 
@@ -1481,7 +1482,7 @@ bpn9640 «[Nederlands](../nl/prayers/#bpn9640)»
 
 -- Abdu'l-Bahá
 
-bpn9529 «[Nederlands](../nl/prayers/#bpn9529)» 
+bpn9529 
 
 ----
 
@@ -1495,7 +1496,7 @@ Glorie zij U, o mijn God! Gij hoort Uw vurige minnaars wenen omdat zij van U ges
 
 -- Bahá'u'lláh
 
-bpn9641 «[Nederlands](../nl/prayers/#bpn9641)» 
+bpn9641 
 
 ----
 
@@ -1505,7 +1506,7 @@ Ik ben waarlijk Uw dienaar, o mijn God, en Uw arme en Uw smekeling en Uw armzali
 
 -- Báb
 
-bpn9642 «[Nederlands](../nl/prayers/#bpn9642)» 
+bpn9642 
 
 ----
 
@@ -1515,7 +1516,7 @@ O mijn God! Er is niemand dan Gij om mijn zielenleed te verzachten, en Gij zijt 
 
 -- Báb
 
-bpn9643 «[Nederlands](../nl/prayers/#bpn9643)» 
+bpn9643 
 
 ----
 
@@ -1525,7 +1526,7 @@ O God, mijn God, mijn Geliefde, mijn Hartsverlangen.
 
 -- Báb
 
-bpn9644 «[Nederlands](../nl/prayers/#bpn9644)» 
+bpn9644 
 
 ----
 
@@ -1535,7 +1536,7 @@ O Heer, mijn God en mijn schuilplaats in mijn wanhoop! Mijn schild en mijn besch
 
 -- Abdu'l-Bahá
 
-bpn9645 «[Nederlands](../nl/prayers/#bpn9645)» 
+bpn9645 
 
 ----
 
@@ -1545,7 +1546,7 @@ Hij is de Meedogende, de Almilddadige! O God, mijn God! Gij ziet mij, Gij kent m
 
 -- Abdu'l-Bahá
 
-AB06012 «[English](../en/prayers/#AB06012)» «[Esperanto](../eo/prayers/#AB06012)» «[Nederlands](../nl/prayers/#AB06012)» 
+AB06012 «[English](../../en/prayers/#AB06012)» «[Esperanto](../../eo/prayers/#AB06012)» 
 
 ----
 
@@ -1559,7 +1560,7 @@ Geprezen zijt Gij, o mijn God, dat Gij Naw-Rúz hebt ingesteld als een feestdag 
 
 -- Bahá'u'lláh
 
-bpn9742 «[Nederlands](../nl/prayers/#bpn9742)» 
+bpn9742 
 
 ----
 
@@ -1573,7 +1574,7 @@ O mijn God en mijn Meester! Ik ben Uw dienaar en de zoon van Uw dienaar. Ik ben 
 
 -- Bahá'u'lláh
 
-bpn9647 «[Nederlands](../nl/prayers/#bpn9647)» 
+bpn9647 
 
 ----
 
@@ -1583,7 +1584,7 @@ Ik ben onder Uw beschutting ontwaakt, o mijn God, en het past hem die deze besch
 
 -- Bahá'u'lláh
 
-bpn9648 «[Nederlands](../nl/prayers/#bpn9648)» 
+bpn9648 
 
 ----
 
@@ -1593,7 +1594,7 @@ Ik ben deze morgen opgestaan door Uw genade, o mijn God, en vol vertrouwen op U 
 
 -- Bahá'u'lláh
 
-BH00009GRA «[English](../en/prayers/#BH00009GRA)» «[Esperanto](../eo/prayers/#BH00009GRA)» «[Nederlands](../nl/prayers/#BH00009GRA)» «[Papiamentu](../pap/prayers/#BH00009GRA)» 
+BH00009GRA «[English](../../en/prayers/#BH00009GRA)» «[Esperanto](../../eo/prayers/#BH00009GRA)» «[Papiamentu](../../pap/prayers/#BH00009GRA)» 
 
 ----
 
@@ -1603,7 +1604,7 @@ Ik loof U, o mijn God, dat Gij mij uit mijn slaap deed ontwaken en mij uit mijn 
 
 -- Bahá'u'lláh
 
-BH00009AWA «[English](../en/prayers/#BH00009AWA)» «[Frysk](../fy/prayers/#BH00009AWA)» «[Nederlands](../nl/prayers/#BH00009AWA)» 
+BH00009AWA «[English](../../en/prayers/#BH00009AWA)» «[Frysk](../../fy/prayers/#BH00009AWA)» 
 
 ----
 
@@ -1617,7 +1618,7 @@ Verheerlijkt zij Uw Naam, o mijn God, dat Gij de Dag die de Koning der Dagen is 
 
 -- Bahá'u'lláh
 
-bpn9651 «[Nederlands](../nl/prayers/#bpn9651)» 
+bpn9651 
 
 ----
 
@@ -1627,7 +1628,7 @@ Ere zij U, o Heer mijn God! Ik smeek U bij Uw Naam welke niemand naar behoren he
 
 -- Bahá'u'lláh
 
-bpn9652 «[Nederlands](../nl/prayers/#bpn9652)» 
+bpn9652 
 
 ----
 
@@ -1637,7 +1638,7 @@ Glorie zij U, o Gij Heer van de wereld en het Verlangen der natiën, o Gij die o
 
 -- Bahá'u'lláh
 
-BH00308DES «[English](../en/prayers/#BH00308DES)» «[Nederlands](../nl/prayers/#BH00308DES)» 
+BH00308DES «[English](../../en/prayers/#BH00308DES)» 
 
 ----
 
@@ -1647,7 +1648,7 @@ O God, Gij die de Auteur van alle Manifestaties zijt, de Bron aller bronnen, de 
 
 -- Bahá'u'lláh
 
-bpn9654 «[Nederlands](../nl/prayers/#bpn9654)» 
+bpn9654 
 
 ----
 
@@ -1657,7 +1658,7 @@ Zeg: Verheerlijkt zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor 
 
 -- Bahá'u'lláh
 
-bpn9655 «[Nederlands](../nl/prayers/#bpn9655)» 
+bpn9655 
 
 ----
 
@@ -1667,7 +1668,7 @@ Verheerlijkt zij Uw Naam, o mijn God! Nu Gij mij deze waarheid hebt doen verstaa
 
 -- Bahá'u'lláh
 
-bpn9656 «[Nederlands](../nl/prayers/#bpn9656)» 
+bpn9656 
 
 ----
 
@@ -1677,7 +1678,7 @@ Duisternis omringt ieder land, o mijn God, en doet de meesten Uwer dienaren beve
 
 -- Bahá'u'lláh
 
-bpn9657 «[Nederlands](../nl/prayers/#bpn9657)» 
+bpn9657 
 
 ----
 
@@ -1687,7 +1688,7 @@ Verheerlijkt zij Uw Naam, o mijn God! Ik betuig dat als Uw dienaren zich tot U z
 
 -- Bahá'u'lláh
 
-bpn9658 «[Nederlands](../nl/prayers/#bpn9658)» 
+bpn9658 
 
 ----
 
@@ -1697,7 +1698,7 @@ Ik smeek U, o mijn God, bij Uw kracht en Uw macht en Uw soevereiniteit, die alle
 
 -- Bahá'u'lláh
 
-bpn9659 «[Nederlands](../nl/prayers/#bpn9659)» 
+bpn9659 
 
 ----
 
@@ -1707,7 +1708,7 @@ Zeg: O God, mijn God! Gij ziet mij rond Uw Wil cirkelen met mijn ogen gericht op
 
 -- Bahá'u'lláh
 
-bpn9660 «[Nederlands](../nl/prayers/#bpn9660)» 
+bpn9660 
 
 ----
 
@@ -1717,7 +1718,7 @@ O mijn God, helpt Gij Uw dienaar het Woord te verheffen, wat nutteloos en onwaar
 
 -- Abdu'l-Bahá
 
-bpn9661 «[Nederlands](../nl/prayers/#bpn9661)» 
+bpn9661 
 
 ----
 
@@ -1727,7 +1728,7 @@ O God, mijn God! Helpt Gij Uw vertrouwde dienaren een liefdevol en warm hart te 
 
 -- Abdu'l-Bahá
 
-bpn9662 «[Nederlands](../nl/prayers/#bpn9662)» 
+bpn9662 
 
 ----
 
@@ -1737,7 +1738,7 @@ Gij ziet mij nederig geknield, o mijn God, deemoedig voor Uw geboden, onderworpe
 
 -- Abdu'l-Bahá
 
-AB00156LOW «[English](../en/prayers/#AB00156LOW)» «[Nederlands](../nl/prayers/#AB00156LOW)» «[Português (BR)](../pt/prayers/#AB00156LOW)» 
+AB00156LOW «[English](../../en/prayers/#AB00156LOW)» «[Português (BR)](../../pt/prayers/#AB00156LOW)» 
 
 ----
 
@@ -1747,7 +1748,7 @@ Gij weet, o God, en zijt mij tot getuige dat ik geen ander verlangen in mijn har
 
 -- Abdu'l-Bahá
 
-bpn9664 «[Nederlands](../nl/prayers/#bpn9664)» 
+bpn9664 
 
 ----
 
@@ -1761,7 +1762,7 @@ bpn9664 «[Nederlands](../nl/prayers/#bpn9664)»
 
 -- Abdu'l-Bahá
 
-AB00218SOU «[English](../en/prayers/#AB00218SOU)» «[Nederlands](../nl/prayers/#AB00218SOU)» 
+AB00218SOU «[English](../../en/prayers/#AB00218SOU)» 
 
 ----
 
@@ -1771,7 +1772,7 @@ AB00218SOU «[English](../en/prayers/#AB00218SOU)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn9666 «[Nederlands](../nl/prayers/#bpn9666)» 
+bpn9666 
 
 ----
 
@@ -1781,7 +1782,7 @@ bpn9666 «[Nederlands](../nl/prayers/#bpn9666)»
 
 -- Abdu'l-Bahá
 
-bpn9667 «[Nederlands](../nl/prayers/#bpn9667)» 
+bpn9667 
 
 ----
 
@@ -1791,7 +1792,7 @@ bpn9667 «[Nederlands](../nl/prayers/#bpn9667)»
 
 -- Abdu'l-Bahá
 
-bpn9668 «[Nederlands](../nl/prayers/#bpn9668)» 
+bpn9668 
 
 ----
 
@@ -1801,7 +1802,7 @@ bpn9668 «[Nederlands](../nl/prayers/#bpn9668)»
 
 -- Abdu'l-Bahá
 
-bpn9669 «[Nederlands](../nl/prayers/#bpn9669)» 
+bpn9669 
 
 ----
 
@@ -1811,7 +1812,7 @@ bpn9669 «[Nederlands](../nl/prayers/#bpn9669)»
 
 -- Abdu'l-Bahá
 
-AB00209UND «[English](../en/prayers/#AB00209UND)» «[Nederlands](../nl/prayers/#AB00209UND)» 
+AB00209UND «[English](../../en/prayers/#AB00209UND)» 
 
 ----
 
@@ -1821,7 +1822,7 @@ AB00209UND «[English](../en/prayers/#AB00209UND)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn9671 «[Nederlands](../nl/prayers/#bpn9671)» 
+bpn9671 
 
 ----
 
@@ -1831,7 +1832,7 @@ bpn9671 «[Nederlands](../nl/prayers/#bpn9671)»
 
 -- Abdu'l-Bahá
 
-bpn9672 «[Nederlands](../nl/prayers/#bpn9672)» 
+bpn9672 
 
 ----
 
@@ -1841,7 +1842,7 @@ bpn9672 «[Nederlands](../nl/prayers/#bpn9672)»
 
 -- Abdu'l-Bahá
 
-AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers/#AB00169FRA)» «[Português (BR)](../pt/prayers/#AB00169FRA)» 
+AB00169FRA «[English](../../en/prayers/#AB00169FRA)» «[Português (BR)](../../pt/prayers/#AB00169FRA)» 
 
 ----
 
@@ -1851,7 +1852,7 @@ AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn9674 «[Nederlands](../nl/prayers/#bpn9674)» 
+bpn9674 
 
 ----
 
@@ -1865,7 +1866,7 @@ Vergun mij, o mijn God, U nader te komen en binnen de grenzen van Uw hof te verb
 
 -- Bahá'u'lláh
 
-BH09289 «[English](../en/prayers/#BH09289)» «[Nederlands](../nl/prayers/#BH09289)» 
+BH09289 «[English](../../en/prayers/#BH09289)» 
 
 ----
 
@@ -1875,7 +1876,7 @@ Verheerlijkt zijt Gij, o mijn God! Ik breng U dank dat Gij Degeen die het ochten
 
 -- Bahá'u'lláh
 
-bpn9676 «[Nederlands](../nl/prayers/#bpn9676)» 
+bpn9676 
 
 ----
 
@@ -1885,7 +1886,7 @@ Geloofd zij Uw Naam, o mijn God! Ik smeek U bij de geuren van het gewaad van Uw 
 
 -- Bahá'u'lláh
 
-bpn9677 «[Nederlands](../nl/prayers/#bpn9677)» 
+bpn9677 
 
 ----
 
@@ -1895,7 +1896,7 @@ Menig verkild hart is in vlam gezet met het vuur van Uw Zaak, o mijn God, en men
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../en/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» 
+BH09024 «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» 
 
 ----
 
@@ -1905,7 +1906,7 @@ Ik weet niet, o mijn God, wat het vuur is dat Gij in Uw land deed ontvlammen. Aa
 
 -- Bahá'u'lláh
 
-BH05894 «[English](../en/prayers/#BH05894)» «[Italiano](../it/prayers/#BH05894)» «[Nederlands](../nl/prayers/#BH05894)» 
+BH05894 «[English](../../en/prayers/#BH05894)» «[Italiano](../../it/prayers/#BH05894)» 
 
 ----
 
@@ -1915,7 +1916,7 @@ Geprezen zijt Gij, o mijn God! Ik ben een van Uw dienaren die in U en in Uw teke
 
 -- Bahá'u'lláh
 
-BH05771 «[English](../en/prayers/#BH05771)» «[Nederlands](../nl/prayers/#BH05771)» 
+BH05771 «[English](../../en/prayers/#BH05771)» 
 
 ----
 
@@ -1925,7 +1926,7 @@ In naam van Uw Heer, de Schepper, de Heerser, de Altoereikende, de Verhevenste, 
 
 -- Báb
 
-BB00560 «[English](../en/prayers/#BB00560)» «[Nederlands](../nl/prayers/#BB00560)» 
+BB00560 «[English](../../en/prayers/#BB00560)» 
 
 ----
 
@@ -1935,7 +1936,7 @@ O Heer! Bij U zoek ik mijn toevlucht en naar al Uw tekenen richt ik mijn hart.O 
 
 -- Báb
 
-bpn9682 «[Nederlands](../nl/prayers/#bpn9682)» 
+bpn9682 
 
 ----
 
@@ -1945,7 +1946,7 @@ Zeg: God voldoet alle dingen boven alle dingen en niets in de hemelen of op aard
 
 -- Báb
 
-BB00015SUF «[English](../en/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
+BB00015SUF «[English](../../en/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» 
 
 ----
 
@@ -1955,7 +1956,7 @@ O God, mijn God! Gij zijt mijn hoop en mijn geliefde, mijn hoogste doel en verla
 
 -- Abdu'l-Bahá
 
-bpn9684 «[Nederlands](../nl/prayers/#bpn9684)» 
+bpn9684 
 
 ----
 
@@ -1965,7 +1966,7 @@ O God, mijn God! Schenk voor mij de kelk van onthechting van alle dingen vol, en
 
 -- Abdu'l-Bahá
 
-bpn9685 «[Nederlands](../nl/prayers/#bpn9685)» 
+bpn9685 
 
 ----
 
@@ -1979,7 +1980,7 @@ Ik smeek om Uw vergeving, o mijn God, en bid om vergiffenis zoals Gij wenst dat 
 
 -- Báb
 
-BB00018FOR «[English](../en/prayers/#BB00018FOR)» «[Français](../fr/prayers/#BB00018FOR)» «[Nederlands](../nl/prayers/#BB00018FOR)» 
+BB00018FOR «[English](../../en/prayers/#BB00018FOR)» «[Français](../../fr/prayers/#BB00018FOR)» 
 
 ----
 
@@ -1989,7 +1990,7 @@ O Heer! Gij aanvaardt in deze Allergrootste Beschikking de voorspraak van kinder
 
 -- Abdu'l-Bahá
 
-AB02000DIS «[English](../en/prayers/#AB02000DIS)» «[Esperanto](../eo/prayers/#AB02000DIS)» «[Nederlands](../nl/prayers/#AB02000DIS)» 
+AB02000DIS «[English](../../en/prayers/#AB02000DIS)» «[Esperanto](../../eo/prayers/#AB02000DIS)» 
 
 ----
 
@@ -2003,7 +2004,7 @@ Gij ziet, o mijn God, hoe Uw geliefden omringd zijn door de opstandigen onder Uw
 
 -- Bahá'u'lláh
 
-BH09809 «[English](../en/prayers/#BH09809)» «[Nederlands](../nl/prayers/#BH09809)» 
+BH09809 «[English](../../en/prayers/#BH09809)» 
 
 ----
 
@@ -2013,7 +2014,7 @@ Glorie zij U, o Heer mijn God! Maak de rivieren van Uw soevereine macht zichtbaa
 
 -- Bahá'u'lláh
 
-bpn9698 «[Nederlands](../nl/prayers/#bpn9698)» 
+bpn9698 
 
 ----
 
@@ -2023,7 +2024,7 @@ O God, mijn God, laat mij niet afgehouden worden van de hemel van Uw gunsten en 
 
 -- Bahá'u'lláh
 
-bpn9699 «[Nederlands](../nl/prayers/#bpn9699)» 
+bpn9699 
 
 ----
 
@@ -2033,7 +2034,7 @@ Glorie zij U, o Heer, Gij die al het geschapene tot leven hebt gewekt door de kr
 
 -- Báb
 
-bpn9700 «[Nederlands](../nl/prayers/#bpn9700)» 
+bpn9700 
 
 ----
 
@@ -2043,7 +2044,7 @@ O Heer! Maak de snelle groei van de boom van Uw goddelijke Eenheid mogelijk; beg
 
 -- Báb
 
-BB00147GRO «[English](../en/prayers/#BB00147GRO)» «[Nederlands](../nl/prayers/#BB00147GRO)» 
+BB00147GRO «[English](../../en/prayers/#BB00147GRO)» 
 
 ----
 
@@ -2053,7 +2054,7 @@ O Heer! Laat Uw verdraagzame dienaren overwinnen in Uw dagen door hun een passen
 
 -- Báb
 
-BB00543VIC «[English](../en/prayers/#BB00543VIC)» «[Nederlands](../nl/prayers/#BB00543VIC)» «[Español](../es/prayers/#BB00543VIC)» 
+BB00543VIC «[English](../../en/prayers/#BB00543VIC)» «[Español](../../es/prayers/#BB00543VIC)» 
 
 ----
 
@@ -2063,7 +2064,7 @@ O Heer! Geef dat alle volkeren der aarde toegang tot het paradijs van Uw Geloof 
 
 -- Báb
 
-bpn9703 «[Nederlands](../nl/prayers/#bpn9703)» 
+bpn9703 
 
 ----
 
@@ -2073,7 +2074,7 @@ O God, mijn God! Geprezen zijt Gij dat Gij het vuur van goddelijke liefde in de 
 
 -- Abdu'l-Bahá
 
-AB00065KIN «[English](../en/prayers/#AB00065KIN)» «[Nederlands](../nl/prayers/#AB00065KIN)» «[Português (BR)](../pt/prayers/#AB00065KIN)» 
+AB00065KIN «[English](../../en/prayers/#AB00065KIN)» «[Português (BR)](../../pt/prayers/#AB00065KIN)» 
 
 ----
 
@@ -2083,7 +2084,7 @@ Hij is God!O Heer, mijn God, mijn Inniggeliefde!Dit zijn Uw dienaren die Uw stem
 
 -- Abdu'l-Bahá
 
-AB00527 «[English](../en/prayers/#AB00527)» «[Nederlands](../nl/prayers/#AB00527)» 
+AB00527 «[English](../../en/prayers/#AB00527)» 
 
 ----
 
@@ -2097,7 +2098,7 @@ Mijn God, mijn Vuur en mijn Licht! De dagen die Gij in Uw Boek de Ayyám-i-Há h
 
 -- Bahá'u'lláh
 
-bpn9743 «[Nederlands](../nl/prayers/#bpn9743)» 
+bpn9743 
 
 ----
 
@@ -2111,7 +2112,7 @@ Ik verheerlijk Uw Naam, o mijn God, en betuig U dank, o mijn verlangen, daar Gij
 
 -- Bahá'u'lláh
 
-bpn9706 «[Nederlands](../nl/prayers/#bpn9706)» 
+bpn9706 
 
 ----
 
@@ -2121,7 +2122,7 @@ O Gij, Wiens nabijheid mijn wens is, Wiens aanwezigheid mijn hoop, Wiens gedenke
 
 -- Bahá'u'lláh
 
-bpn9707 «[Nederlands](../nl/prayers/#bpn9707)» 
+bpn9707 
 
 ----
 
@@ -2131,7 +2132,7 @@ O God, mijn God! Ik keer mij berouwvol tot U, en Gij zijt waarlijk de Vergevende
 
 -- Bahá'u'lláh
 
-bpn9708 «[Nederlands](../nl/prayers/#bpn9708)» 
+bpn9708 
 
 ----
 
@@ -2141,7 +2142,7 @@ Geprezen zijt Gij, o mijn Heer, dat Gij mij in staat hebt gesteld de Manifestati
 
 -- Bahá'u'lláh
 
-bpn9709 «[Nederlands](../nl/prayers/#bpn9709)» 
+bpn9709 
 
 ----
 
@@ -2151,7 +2152,7 @@ Ere zij U, o Heer, mijn Meestgeliefde! Maak mij standvastig in Uw Zaak en geef d
 
 -- Báb
 
-BB00554 «[English](../en/prayers/#BB00554)» «[Nederlands](../nl/prayers/#BB00554)» 
+BB00554 «[English](../../en/prayers/#BB00554)» 
 
 ----
 
@@ -2161,7 +2162,7 @@ Geloofd en verheerlijkt zijt Gij, o God! Vergun dat de dag dat Uw heilige tegenw
 
 -- Báb
 
-bpn9711 «[Nederlands](../nl/prayers/#bpn9711)» 
+bpn9711 
 
 ----
 
@@ -2171,7 +2172,7 @@ O mijn God, o mijn Heer, o mijn Meester! Ik smeek U mij te vergeven voor het zoe
 
 -- Báb
 
-bpn9712 «[Nederlands](../nl/prayers/#bpn9712)» 
+bpn9712 
 
 ----
 
@@ -2181,7 +2182,7 @@ O Heer, mijn God! Help Uw geliefden sterk te staan in Uw Geloof, Uw wegen te bew
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../en/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» 
+AB00001FIR «[English](../../en/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
 
 ----
 
@@ -2191,7 +2192,7 @@ O Gij mijn God, die de zoeker naar het rechte pad leidt, die de verloren en verb
 
 -- Abdu'l-Bahá
 
-AB00687SEE «[English](../en/prayers/#AB00687SEE)» «[Nederlands](../nl/prayers/#AB00687SEE)» 
+AB00687SEE «[English](../../en/prayers/#AB00687SEE)» 
 
 ----
 
@@ -2205,7 +2206,7 @@ Glorie zij U, o Koning der eeuwigheid en de Maker van natiën, en de Vormer van 
 
 -- Bahá'u'lláh
 
-BH07683 «[English](../en/prayers/#BH07683)» «[Nederlands](../nl/prayers/#BH07683)» «[Español](../es/prayers/#BH07683)» 
+BH07683 «[English](../../en/prayers/#BH07683)» «[Español](../../es/prayers/#BH07683)» 
 
 ----
 
@@ -2215,7 +2216,7 @@ Hij is de Machtige, de Verontschuldiger, de Meedogende!O God, mijn God! Gij ziet
 
 -- Bahá'u'lláh
 
-BH07469 «[English](../en/prayers/#BH07469)» «[Nederlands](../nl/prayers/#BH07469)» «[Português (BR)](../pt/prayers/#BH07469)» 
+BH07469 «[English](../../en/prayers/#BH07469)» «[Português (BR)](../../pt/prayers/#BH07469)» 
 
 ----
 
@@ -2225,7 +2226,7 @@ Maak onze schreden op Uw weg krachtig, o Heer, en sterk ons hart in gehoorzaamhe
 
 -- Abdu'l-Bahá
 
-bpn9717 «[Nederlands](../nl/prayers/#bpn9717)» 
+bpn9717 
 
 ----
 
@@ -2235,7 +2236,7 @@ O meedogende God! Dank zij U, daar Gij mij hebt gewekt en bewust hebt gemaakt. G
 
 -- Abdu'l-Bahá
 
-AB02342AWA «[English](../en/prayers/#AB02342AWA)» «[Esperanto](../eo/prayers/#AB02342AWA)» «[Nederlands](../nl/prayers/#AB02342AWA)» 
+AB02342AWA «[English](../../en/prayers/#AB02342AWA)» «[Esperanto](../../eo/prayers/#AB02342AWA)» 
 
 ----
 
@@ -2245,7 +2246,7 @@ O mijn Heer en mijn hoop! Helpt Gij Uw geliefden standvastig te zijn in Uw macht
 
 -- Abdu'l-Bahá
 
-bpn9719 «[Nederlands](../nl/prayers/#bpn9719)» 
+bpn9719 
 
 ----
 
@@ -2259,7 +2260,7 @@ bpn9719 «[Nederlands](../nl/prayers/#bpn9719)»
 
 -- Bahá'u'lláh
 
-bpn9752 «[Nederlands](../nl/prayers/#bpn9752)» 
+bpn9752 
 
 ----
 
@@ -2273,7 +2274,7 @@ bpn9752 «[Nederlands](../nl/prayers/#bpn9752)»
 
 -- Bahá'u'lláh
 
-BH01026 «[English](../en/prayers/#BH01026)» «[Nederlands](../nl/prayers/#BH01026)» 
+BH01026 «[English](../../en/prayers/#BH01026)» 
 
 ----
 
@@ -2287,7 +2288,7 @@ BH01026 «[English](../en/prayers/#BH01026)» «[Nederlands](../nl/prayers/#BH01
 
 -- Bahá'u'lláh
 
-bpn9754 «[Nederlands](../nl/prayers/#bpn9754)» 
+bpn9754 
 
 ----
 
@@ -2297,7 +2298,7 @@ bpn9754 «[Nederlands](../nl/prayers/#bpn9754)»
 
 -- Abdu'l-Bahá
 
-bpn9755 «[Nederlands](../nl/prayers/#bpn9755)» 
+bpn9755 
 
 ----
 
@@ -2311,7 +2312,7 @@ bpn9755 «[Nederlands](../nl/prayers/#bpn9755)»
 
 -- Bahá'u'lláh
 
-BH00154FIR «[English](../en/prayers/#BH00154FIR)» «[Nederlands](../nl/prayers/#BH00154FIR)» 
+BH00154FIR «[English](../../en/prayers/#BH00154FIR)» 
 
 ----
 
@@ -2321,7 +2322,7 @@ In Naam van Hem die is beloofd in de Boeken van God, de Alwetende, de Welingelic
 
 -- Bahá'u'lláh
 
-bpn9745 «[Nederlands](../nl/prayers/#bpn9745)» 
+bpn9745 
 
 ----
 
@@ -2331,7 +2332,7 @@ Ik smeek U, o mijn God, bij Uw machtige Teken en bij de openbaring van Uw genade
 
 -- Bahá'u'lláh
 
-BH01125 «[English](../en/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» 
+BH01125 «[English](../../en/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
 
 ----
 
@@ -2341,7 +2342,7 @@ Dit zijn, o mijn God, de dagen waarop Gij Uw dienaren hebt geboden te vasten. Da
 
 -- Bahá'u'lláh
 
-BH01888 «[English](../en/prayers/#BH01888)» «[Nederlands](../nl/prayers/#BH01888)» 
+BH01888 «[English](../../en/prayers/#BH01888)» 
 
 ----
 
@@ -2351,7 +2352,7 @@ Glorie zij U, o Heer mijn God! Dit zijn de dagen waarop Gij alle mensen hebt geb
 
 -- Bahá'u'lláh
 
-BH00778 «[English](../en/prayers/#BH00778)» «[Nederlands](../nl/prayers/#BH00778)» «[Español](../es/prayers/#BH00778)» 
+BH00778 «[English](../../en/prayers/#BH00778)» «[Español](../../es/prayers/#BH00778)» 
 
 ----
 
@@ -2361,7 +2362,7 @@ Lof zij U, o Heer mijn God! Wij hebben ons aan de Vasten gehouden overeenkomstig
 
 -- Bahá'u'lláh
 
-BH10581 «[English](../en/prayers/#BH10581)» «[Nederlands](../nl/prayers/#BH10581)» «[Português (BR)](../pt/prayers/#BH10581)» 
+BH10581 «[English](../../en/prayers/#BH10581)» «[Português (BR)](../../pt/prayers/#BH10581)» 
 
 ----
 
@@ -2371,7 +2372,7 @@ Geprezen zijt Gij, o God mijn God! Dit zijn de dagen waarop Gij Uw uitverkorenen
 
 -- Bahá'u'lláh
 
-BH01503ENJ «[English](../en/prayers/#BH01503ENJ)» «[Nederlands](../nl/prayers/#BH01503ENJ)» 
+BH01503ENJ «[English](../../en/prayers/#BH01503ENJ)» 
 
 ----
 
@@ -2381,7 +2382,7 @@ Gij ziet, o God van Barmhartigheid, Gij Wiens kracht al het geschapene doordring
 
 -- Bahá'u'lláh
 
-bpn9751 «[Nederlands](../nl/prayers/#bpn9751)» 
+bpn9751 
 
 ----
 
@@ -2395,7 +2396,7 @@ Ik ben degeen, o mijn Heer, die zijn gelaat naar U heeft gekeerd en zijn hoop he
 
 -- Bahá'u'lláh
 
-BH08600FAC «[English](../en/prayers/#BH08600FAC)» «[Nederlands](../nl/prayers/#BH08600FAC)» «[Español](../es/prayers/#BH08600FAC)» 
+BH08600FAC «[English](../../en/prayers/#BH08600FAC)» «[Español](../../es/prayers/#BH08600FAC)» 
 
 ----
 
@@ -2405,7 +2406,7 @@ Gij ziet mij, o mijn Heer, met mijn gelaat gekeerd naar de hemel van Uw milddadi
 
 -- Bahá'u'lláh
 
-BH00005SEE «[English](../en/prayers/#BH00005SEE)» «[Nederlands](../nl/prayers/#BH00005SEE)» 
+BH00005SEE «[English](../../en/prayers/#BH00005SEE)» 
 
 ----
 
@@ -2415,7 +2416,7 @@ Verheerlijkt zij Uw Naam, o mijn God en de God aller dingen, mijn glorie en de G
 
 -- Bahá'u'lláh
 
-bpn9722 «[Nederlands](../nl/prayers/#bpn9722)» 
+bpn9722 
 
 ----
 
@@ -2425,7 +2426,7 @@ O God onze Heer! Bescherm ons door Uw genade tegen al hetgeen U weerzinwekkend i
 
 -- Báb
 
-BH00593 «[English](../en/prayers/#BH00593)» «[Nederlands](../nl/prayers/#BH00593)» 
+BH00593 «[English](../../en/prayers/#BH00593)» 
 
 ----
 
@@ -2435,7 +2436,7 @@ Ere zij U, o Heer. Vergeef ons onze zonden, heb erbarmen met ons en laat ons tot
 
 -- Báb
 
-bpn9724 «[Nederlands](../nl/prayers/#bpn9724)» 
+bpn9724 
 
 ----
 
@@ -2445,7 +2446,7 @@ Ik smeek U, o mijn Heer, mij te vergeven voor ieder noemen buiten het noemen van
 
 -- Báb
 
-BB00617 «[English](../en/prayers/#BB00617)» «[Nederlands](../nl/prayers/#BB00617)» 
+BB00617 «[English](../../en/prayers/#BB00617)» 
 
 ----
 
@@ -2455,7 +2456,7 @@ Glorie zij U, o God. Hoe kan ik U noemen terwijl Gij toch geheiligd zijt van de 
 
 -- Báb
 
-bpn9726 «[Nederlands](../nl/prayers/#bpn9726)» 
+bpn9726 
 
 ----
 
@@ -2465,7 +2466,7 @@ Ik ben mij ervan bewust, o Heer, dat mijn overtredingen mijn gezicht met schaamt
 
 -- Báb
 
-BB00485TRE «[English](../en/prayers/#BB00485TRE)» «[Nederlands](../nl/prayers/#BB00485TRE)» 
+BB00485TRE «[English](../../en/prayers/#BB00485TRE)» 
 
 ----
 
@@ -2475,7 +2476,7 @@ O Gij vergevingsgezinde Heer! Gij zijt een schuilplaats voor al deze dienaren va
 
 -- Abdu'l-Bahá
 
-bpn9728 «[Nederlands](../nl/prayers/#bpn9728)» 
+bpn9728 
 
 ----
 
@@ -2489,7 +2490,7 @@ bpn9728 «[Nederlands](../nl/prayers/#bpn9728)»
 
 -- Abdu'l-Bahá
 
-bpn9694 «[Nederlands](../nl/prayers/#bpn9694)» 
+bpn9694 
 
 ----
 
@@ -2499,7 +2500,7 @@ O Heer, o Gij Wiens barmhartigheid allen omvat, Wiens vergeving alles overtreft,
 
 -- Abdu'l-Bahá
 
-bpn9695 «[Nederlands](../nl/prayers/#bpn9695)» 
+bpn9695 
 
 ----
 
@@ -2509,7 +2510,7 @@ O Gij vriendelijk Heer! Deze innig gekoesterde dienares werd tot U aangetrokken,
 
 -- Abdu'l-Bahá
 
-bpn9696 «[Nederlands](../nl/prayers/#bpn9696)» 
+bpn9696 
 
 ----
 
@@ -2523,7 +2524,7 @@ O Gij, Wiens gelaat het voorwerp van aanbidding is van allen die naar U smachten
 
 -- Bahá'u'lláh
 
-BH09162 «[English](../en/prayers/#BH09162)» «[Nederlands](../nl/prayers/#BH09162)» «[Español](../es/prayers/#BH09162)» 
+BH09162 «[English](../../en/prayers/#BH09162)» «[Español](../../es/prayers/#BH09162)» 
 
 ----
 
@@ -2533,7 +2534,7 @@ Glorie zij U, o mijn God! Mijn gelaat is naar Uw gelaat gekeerd, en mijn gelaat 
 
 -- Bahá'u'lláh
 
-bpn9730 «[Nederlands](../nl/prayers/#bpn9730)» 
+bpn9730 
 
 ----
 
@@ -2543,7 +2544,7 @@ O Gij, voor Wiens ontzaglijke majesteit alle dingen beven, in Wiens greep de aan
 
 -- Bahá'u'lláh
 
-BH07426DRE «[English](../en/prayers/#BH07426DRE)» «[Nederlands](../nl/prayers/#BH07426DRE)» 
+BH07426DRE «[English](../../en/prayers/#BH07426DRE)» 
 
 ----
 
@@ -2553,7 +2554,7 @@ Glorie zij U, o mijn God! Een van Uw dienaressen, die in U en in Uw tekenen gelo
 
 -- Bahá'u'lláh
 
-BH08852 «[English](../en/prayers/#BH08852)» «[Nederlands](../nl/prayers/#BH08852)» «[Português (BR)](../pt/prayers/#BH08852)» 
+BH08852 «[English](../../en/prayers/#BH08852)» «[Português (BR)](../../pt/prayers/#BH08852)» 
 
 ----
 
@@ -2563,7 +2564,7 @@ Gij ziet, o mijn God, hoe de wandaden van diegenen Uwer schepselen die U de rug 
 
 -- Bahá'u'lláh
 
-bpn9733 «[Nederlands](../nl/prayers/#bpn9733)» 
+bpn9733 
 
 ----
 
@@ -2577,7 +2578,7 @@ In Naam van God, de Aloude, de Allergrootste.De harten van de oprechten worden v
 
 -- Bahá'u'lláh
 
-BH00687 «[English](../en/prayers/#BH00687)» «[Nederlands](../nl/prayers/#BH00687)» 
+BH00687 «[English](../../en/prayers/#BH00687)» 
 
 ----
 
@@ -2591,7 +2592,7 @@ Geprezen zijt Gij, o Heer mijn God! Sta genadiglijk toe dat dit kindje gevoed wo
 
 -- Bahá'u'lláh
 
-bpn9622 «[Nederlands](../nl/prayers/#bpn9622)» 
+bpn9622 
 
 ----
 
@@ -2601,7 +2602,7 @@ O Gij weergaloos Heer! Laat deze zuigeling drinken aan de borst van Uw goedertie
 
 -- Abdu'l-Bahá
 
-bpn9623 «[Nederlands](../nl/prayers/#bpn9623)» 
+bpn9623 
 
 ----
 
@@ -2611,7 +2612,7 @@ O God! Breng dit kindje groot aan de boezem van Uw liefde en laaf het aan de bor
 
 -- Abdu'l-Bahá
 
-bpn9624 «[Nederlands](../nl/prayers/#bpn9624)» 
+bpn9624 
 
 ----
 
@@ -2625,7 +2626,7 @@ Verheerlijkt zijt Gij, o mijn meedogende Heer! Ik smeek U bij het geraas van de 
 
 -- Bahá'u'lláh
 
-bpn9740 «[Nederlands](../nl/prayers/#bpn9740)» 
+bpn9740 
 
 ----
 

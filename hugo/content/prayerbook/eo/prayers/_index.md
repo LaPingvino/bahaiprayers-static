@@ -5,6 +5,7 @@ tags = ['lang=eo', 'prayerbook']
 
 
 
+
 [Asisto kaj helpo](#Asisto+kaj+helpo)
 
 [Epistolo al Aĥmad](#Epistolo+al+A%C4%A5mad)
@@ -67,7 +68,7 @@ Ho Vi, Kies vizaĝo estas la objekto de mia adoro, Kies beleco estas mia sanktej
 
 -- Bahá'u'lláh
 
-BH10973 «[English](../en/prayers/#BH10973)» «[Esperanto](../eo/prayers/#BH10973)» «[Frysk](../fy/prayers/#BH10973)» «[Nederlands](../nl/prayers/#BH10973)» 
+BH10973 «[Nederlands](../../nl/prayers/#BH10973)» «[English](../../en/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» 
 
 ----
 
@@ -77,7 +78,7 @@ Eternulo! Kompatindaj estas ni, donu al ni Vian favoron; malriĉaj, donacu al ni
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[English](../en/prayers/#AB00431PIT)» «[Esperanto](../eo/prayers/#AB00431PIT)» «[Nederlands](../nl/prayers/#AB00431PIT)» «[Papiamentu](../pap/prayers/#AB00431PIT)» 
+AB00431PIT «[Nederlands](../../nl/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
 
 ----
 
@@ -87,7 +88,7 @@ Li estas la Kompatema, la Ĉion-Donacanta! Ho Dio, mia Dio! Vi vidas min, Vi kon
 
 -- Abdu'l-Bahá
 
-AB06012 «[English](../en/prayers/#AB06012)» «[Esperanto](../eo/prayers/#AB06012)» «[Nederlands](../nl/prayers/#AB06012)» 
+AB06012 «[Nederlands](../../nl/prayers/#AB06012)» «[English](../../en/prayers/#AB06012)» 
 
 ----
 
@@ -97,7 +98,7 @@ Ho mia Sinjoro, mia Amato, mia Deziro! Konsolu min en mia soleco kaj akompanu mi
 
 -- Abdu'l-Bahá
 
-AB10769 «[English](../en/prayers/#AB10769)» «[Esperanto](../eo/prayers/#AB10769)» «[Italiano](../it/prayers/#AB10769)» 
+AB10769 «[English](../../en/prayers/#AB10769)» «[Italiano](../../it/prayers/#AB10769)» 
 
 ----
 
@@ -107,7 +108,7 @@ Ho Eternulo, mia Dio kaj mia Haveno en mia aflikto! Mia Ŝildo kaj mia Ŝirmo en
 
 -- Abdu'l-Bahá
 
-AB02866 «[English](../en/prayers/#AB02866)» «[Esperanto](../eo/prayers/#AB02866)» 
+AB02866 «[English](../../en/prayers/#AB02866)» 
 
 ----
 
@@ -117,11 +118,11 @@ AB02866 «[English](../en/prayers/#AB02866)» «[Esperanto](../eo/prayers/#AB028
 ## Epistolo al Aĥmad
 
 <a id="BH02022"></a> 
-##Epistolo al AĥmadLi estas la Reĝo, la Ĉio-scia, la Saĝa!Jen, la Najtingalo de l&#39; Paradizo kantas sur la branĉoj de la Arbo de Eterneco, proklamante per melodioj sanktaj kaj dolĉaj al la sinceruloj la ĝojan sciigon pri la proksimeco de Dio, vokante la kredantojn je la Dia Unueco al la kortego de la Ĉeesto de la Grandanima, konigante al la purkoraj la mesaĝon revelaciitan de Dio, la Reĝo, la Glora, la Senkompara, gvidante la amantojn al la trono de sankteco kaj al tiu ĉi majesta Belo.Vere, ĉi tiu estas la Belo Plej Granda, profetita en la Libroj de la Mesaĝistoj, per Kiu la vero estos distingata de malvero kaj la saĝeco de ĉiu ordono estos testata. Vere, Li estas la Arbo de Vivo, kiu produktas fruktojn de Dio, la Majesta, la Potenca, la Granda.Ho Aĥmad! Atestu, ke vere Li estas Dio kaj ne estas alia Dio krom Li, la Reĝo, la Protektanto, la Senkompara, la Ĉiopova. Kaj ke Tiu, Kiun Li sendis sub la Nomo de Ali (1) estis la Ĝusta de Dio, Kies ordonojn sekvas ni ĉiuj.Diru: Ho homoj, obeŭ la ordonojn de Dio, donitajn en la Bajano (2) de la Glora, la Saĝa. Vere, Li estas la Reĝo de la Mesaĝistoj kaj Lia Libro estas la Patrina Libro, ho ke vi tion sciu.Tiel sendas la Najtingalo Sian vokon al vi el ĉi tiu malliberejo. Nur ĉi klaran mesaĝon Li havas por transdoni. Kiu ajn deziras, turnu sin for de ĉi tiu konsilo, kaj kiu ajn deziras, tiun lasu serĉi la padon al sia Sinjoro.Ho homoj, se vi malakceptas ĉi tiujn versojn, je kia pruvo kredis vi je Dio ? Prezentu ĝin, ho aro da falsuloj.Sed ne, je Tiu, en Kies mano estas mia animo, ili ne estas kaj neniam estos povantaj tion fari, eĉ se ili kuniĝus por reciproke sin helpi.Ho Aĥmad! Ne forgesu Miajn favordonojn dum Mi forestas. Memoru Miajn tagojn dum viaj tagoj kaj Mian turmenton kaj ekzilon en ĉi tiu fora malliberejo. Kaj estu tiel firma en Mia amo, ke via koro ne ŝanceliĝu, eĉ se la glavoj de la malamikoj pluve atakas vin kaj ĉiuj ĉieloj kaj la tero leviĝas kontraŭ vi.Estu al Miaj malamikoj kiel fajroflamo, sed kiel rivero de eterna vivo al Miaj amatoj, kaj ne apartenu al tiuj, kiuj dubas.Kaj se vi estas premata de afliktoj sur Mia vojo aŭ de malnobligo pro Mi, ne ĉagreniĝu pro tio.Fidu je Dio, via Dio kaj la Eternulo de viaj prapatroj; ĉar la homoj vagadas sur la padoj de iluzio, senigite je la kapablo vidi Dion per siaj propraj okuloj, aŭ aŭdi Lian Melodion per siaj propraj oreloj. Tiaj Ni trovas ilin, same kiel vi tion atestas.Tiel iliaj superstiĉoj fariĝis vualoj inter ili kaj iliaj propraj koroj kaj fortenas ilin de la vojo de Dio, la Majesta, la Granda.Estu certa, ke vere, kiu turnas sin for de ĉi tiu Belo, ankaŭ forturnis sin de la Mesaĝistoj de la pasinteco kaj elmontras fieron kontraŭ Dio, de eterno al eterno.Lernu bone ĉi tiun epistolon, ho Aĥmad. Kantu ĝin en viaj tagoj kaj ne detenu vin de tio. Ĉar vere Dio destinis por ĉiuj, kiuj kantas ĝin la rekompencon de cent martiroj kaj servon en ambaŭ mondoj. Ĉi tiujn benojn Ni donacis al vi kiel Nian difavoron kaj kiel gracon el Nia ĉeesto, por ke vi apartenu al la dankemaj.Je Dio! Se iu en aflikto aŭ malĝojo citas ĉi tiun epistolon kun absoluta sincero, Dio dispelos lian ĉagrenon, solvos liajn malfacilojn kaj forigos liajn afliktojn.Vere, Li estas la Mizerikorda, la Kompatema. Laŭdata estu Dio, la Sinjoro de ĉiuj mondoj. *(1) Ali, la Ĝusta de Dio, t.e. Báb, la profeto heroldinta Bahá’u’lláh-on*(2) Bayán, la libro de Báb
+##Epistolo al AĥmadLi estas la Reĝo, la Ĉio-scia, la Saĝa!Jen, la Najtingalo de l' Paradizo kantas sur la branĉoj de la Arbo de Eterneco, proklamante per melodioj sanktaj kaj dolĉaj al la sinceruloj la ĝojan sciigon pri la proksimeco de Dio, vokante la kredantojn je la Dia Unueco al la kortego de la Ĉeesto de la Grandanima, konigante al la purkoraj la mesaĝon revelaciitan de Dio, la Reĝo, la Glora, la Senkompara, gvidante la amantojn al la trono de sankteco kaj al tiu ĉi majesta Belo.Vere, ĉi tiu estas la Belo Plej Granda, profetita en la Libroj de la Mesaĝistoj, per Kiu la vero estos distingata de malvero kaj la saĝeco de ĉiu ordono estos testata. Vere, Li estas la Arbo de Vivo, kiu produktas fruktojn de Dio, la Majesta, la Potenca, la Granda.Ho Aĥmad! Atestu, ke vere Li estas Dio kaj ne estas alia Dio krom Li, la Reĝo, la Protektanto, la Senkompara, la Ĉiopova. Kaj ke Tiu, Kiun Li sendis sub la Nomo de Ali (1) estis la Ĝusta de Dio, Kies ordonojn sekvas ni ĉiuj.Diru: Ho homoj, obeŭ la ordonojn de Dio, donitajn en la Bajano (2) de la Glora, la Saĝa. Vere, Li estas la Reĝo de la Mesaĝistoj kaj Lia Libro estas la Patrina Libro, ho ke vi tion sciu.Tiel sendas la Najtingalo Sian vokon al vi el ĉi tiu malliberejo. Nur ĉi klaran mesaĝon Li havas por transdoni. Kiu ajn deziras, turnu sin for de ĉi tiu konsilo, kaj kiu ajn deziras, tiun lasu serĉi la padon al sia Sinjoro.Ho homoj, se vi malakceptas ĉi tiujn versojn, je kia pruvo kredis vi je Dio ? Prezentu ĝin, ho aro da falsuloj.Sed ne, je Tiu, en Kies mano estas mia animo, ili ne estas kaj neniam estos povantaj tion fari, eĉ se ili kuniĝus por reciproke sin helpi.Ho Aĥmad! Ne forgesu Miajn favordonojn dum Mi forestas. Memoru Miajn tagojn dum viaj tagoj kaj Mian turmenton kaj ekzilon en ĉi tiu fora malliberejo. Kaj estu tiel firma en Mia amo, ke via koro ne ŝanceliĝu, eĉ se la glavoj de la malamikoj pluve atakas vin kaj ĉiuj ĉieloj kaj la tero leviĝas kontraŭ vi.Estu al Miaj malamikoj kiel fajroflamo, sed kiel rivero de eterna vivo al Miaj amatoj, kaj ne apartenu al tiuj, kiuj dubas.Kaj se vi estas premata de afliktoj sur Mia vojo aŭ de malnobligo pro Mi, ne ĉagreniĝu pro tio.Fidu je Dio, via Dio kaj la Eternulo de viaj prapatroj; ĉar la homoj vagadas sur la padoj de iluzio, senigite je la kapablo vidi Dion per siaj propraj okuloj, aŭ aŭdi Lian Melodion per siaj propraj oreloj. Tiaj Ni trovas ilin, same kiel vi tion atestas.Tiel iliaj superstiĉoj fariĝis vualoj inter ili kaj iliaj propraj koroj kaj fortenas ilin de la vojo de Dio, la Majesta, la Granda.Estu certa, ke vere, kiu turnas sin for de ĉi tiu Belo, ankaŭ forturnis sin de la Mesaĝistoj de la pasinteco kaj elmontras fieron kontraŭ Dio, de eterno al eterno.Lernu bone ĉi tiun epistolon, ho Aĥmad. Kantu ĝin en viaj tagoj kaj ne detenu vin de tio. Ĉar vere Dio destinis por ĉiuj, kiuj kantas ĝin la rekompencon de cent martiroj kaj servon en ambaŭ mondoj. Ĉi tiujn benojn Ni donacis al vi kiel Nian difavoron kaj kiel gracon el Nia ĉeesto, por ke vi apartenu al la dankemaj.Je Dio! Se iu en aflikto aŭ malĝojo citas ĉi tiun epistolon kun absoluta sincero, Dio dispelos lian ĉagrenon, solvos liajn malfacilojn kaj forigos liajn afliktojn.Vere, Li estas la Mizerikorda, la Kompatema. Laŭdata estu Dio, la Sinjoro de ĉiuj mondoj. *(1) Ali, la Ĝusta de Dio, t.e. Báb, la profeto heroldinta Bahá’u’lláh-on*(2) Bayán, la libro de Báb
 
 -- Bahá'u'lláh
 
-BH02022 «[English](../en/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH02022)» «[Frysk](../fy/prayers/#BH02022)» «[Tuvalu](../tvl/prayers/#BH02022)» «[Português (BR)](../pt/prayers/#BH02022)» 
+BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
 
 ----
 
@@ -135,7 +136,7 @@ Laŭdo estu al Vi, ho Sinjoro mia Dio! Mi petegas al Vi je tiu ĉi Revelacio, pe
 
 -- Bahá'u'lláh
 
-BH07657 «[English](../en/prayers/#BH07657)» «[Esperanto](../eo/prayers/#BH07657)» 
+BH07657 «[English](../../en/prayers/#BH07657)» 
 
 ----
 
@@ -149,7 +150,7 @@ Glorata estu Vi, ho Eternulo mia Dio! Mi petegas Vin je Li, Kiu estas Via Plej A
 
 -- Bahá'u'lláh
 
-BH08822 «[English](../en/prayers/#BH08822)» «[Esperanto](../eo/prayers/#BH08822)» «[Português (BR)](../pt/prayers/#BH08822)» «[Español](../es/prayers/#BH08822)» 
+BH08822 «[English](../../en/prayers/#BH08822)» «[Español](../../es/prayers/#BH08822)» «[Português (BR)](../../pt/prayers/#BH08822)» 
 
 ----
 
@@ -159,7 +160,7 @@ Glorata estu Via Nomo, ho Eternulo, mia Dio! Mi petegas Vin je Via potenco, kiu 
 
 -- Bahá'u'lláh
 
-BH08244 «[English](../en/prayers/#BH08244)» «[Esperanto](../eo/prayers/#BH08244)» 
+BH08244 «[English](../../en/prayers/#BH08244)» 
 
 ----
 
@@ -169,7 +170,7 @@ Laŭdegata estas Via nomo, ho Eternulo mia Dio! Vi estas Tiu, Kiun ĉio adoras k
 
 -- Bahá'u'lláh
 
-BH09960 «[English](../en/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» 
+BH09960 «[English](../../en/prayers/#BH09960)» «[Português (BR)](../../pt/prayers/#BH09960)» «[Français](../../fr/prayers/#BH09960)» 
 
 ----
 
@@ -179,7 +180,7 @@ Ho Vi kompatema Dio! Dankoj estu al Vi por ke Vi vekis kaj konsciigis min. Vi do
 
 -- Abdu'l-Bahá
 
-AB02342AWA «[English](../en/prayers/#AB02342AWA)» «[Esperanto](../eo/prayers/#AB02342AWA)» «[Nederlands](../nl/prayers/#AB02342AWA)» 
+AB02342AWA «[Nederlands](../../nl/prayers/#AB02342AWA)» «[English](../../en/prayers/#AB02342AWA)» 
 
 ----
 
@@ -189,7 +190,7 @@ Ho Eternulo, mia Dio! Asistu Viajn amatojn, por ke ili estu firmaj en Via Kredo,
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../en/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
 
 ----
 
@@ -199,7 +200,7 @@ Ho mia Sinjoro kaj mia espero! Helpu Vi la amatojn Viajn persisti en Via potenca
 
 -- Abdu'l-Bahá
 
-AB00065STE «[English](../en/prayers/#AB00065STE)» «[Esperanto](../eo/prayers/#AB00065STE)» 
+AB00065STE «[English](../../en/prayers/#AB00065STE)» 
 
 ----
 
@@ -213,7 +214,7 @@ Ho mia Dio! Ho Vi, pardonanto de pekoj, donacanto de bonoj, forpelanto de aflikt
 
 -- Abdu'l-Bahá
 
-AB11094 «[English](../en/prayers/#AB11094)» «[Esperanto](../eo/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Nederlands](../nl/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» 
+AB11094 «[Nederlands](../../nl/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» 
 
 ----
 
@@ -227,7 +228,7 @@ Ho Eternulo! En tiu ĉi Plej Granda Misio Vi akceptas la propeton de infanoj por
 
 -- Abdu'l-Bahá
 
-AB02000DIS «[English](../en/prayers/#AB02000DIS)» «[Esperanto](../eo/prayers/#AB02000DIS)» «[Nederlands](../nl/prayers/#AB02000DIS)» 
+AB02000DIS «[Nederlands](../../nl/prayers/#AB02000DIS)» «[English](../../en/prayers/#AB02000DIS)» 
 
 ----
 
@@ -241,7 +242,7 @@ Ho Vi bonkora Sinjoro! Vi kreis la tutan homaron el la sama radiko. Vi decidis, 
 
 -- Abdu'l-Bahá
 
-ABU0137ALL «[English](../en/prayers/#ABU0137ALL)» «[Esperanto](../eo/prayers/#ABU0137ALL)» «[Frysk](../fy/prayers/#ABU0137ALL)» 
+ABU0137ALL «[English](../../en/prayers/#ABU0137ALL)» «[Frysk](../../fy/prayers/#ABU0137ALL)» 
 
 ----
 
@@ -251,11 +252,11 @@ ABU0137ALL «[English](../en/prayers/#ABU0137ALL)» «[Esperanto](../eo/prayers/
 ## Infanoj kaj Junuloj
 
 <a id="ABU0129EDU"></a> 
-Ho Dio! Eduku ĉi tiujn infanojn. Ĉi infanoj estas la plantoj de Via horto, la floroj de Via kampo, la rozoj de Via ĝardeno. Faru, ke Via pluvo akvumu ilin, ke la Suno de l&#39;Realo brilu sur ilin per Via amo. Viaj brizoj freŝigu ilin, por ke ili estu edukataj, kresku kaj evoluu, kaj montriĝu en pleja beleco. Vi estas la Donanto. Vi estas la Mizerikorda.
+Ho Dio! Eduku ĉi tiujn infanojn. Ĉi infanoj estas la plantoj de Via horto, la floroj de Via kampo, la rozoj de Via ĝardeno. Faru, ke Via pluvo akvumu ilin, ke la Suno de l'Realo brilu sur ilin per Via amo. Viaj brizoj freŝigu ilin, por ke ili estu edukataj, kresku kaj evoluu, kaj montriĝu en pleja beleco. Vi estas la Donanto. Vi estas la Mizerikorda.
 
 -- Abdu'l-Bahá
 
-ABU0129EDU «[English](../en/prayers/#ABU0129EDU)» «[Esperanto](../eo/prayers/#ABU0129EDU)» «[Português (BR)](../pt/prayers/#ABU0129EDU)» «[Papiamentu](../pap/prayers/#ABU0129EDU)» 
+ABU0129EDU «[English](../../en/prayers/#ABU0129EDU)» «[Papiamentu](../../pap/prayers/#ABU0129EDU)» «[Português (BR)](../../pt/prayers/#ABU0129EDU)» 
 
 ----
 
@@ -265,7 +266,7 @@ Ho Dio! Gvidu min, protektu min, faru min lumanta lampo kaj stelo brila. Vi esta
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[English](../en/prayers/#AB04427LMP)» «[Esperanto](../eo/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Nederlands](../nl/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» 
+AB04427LMP «[Nederlands](../../nl/prayers/#AB04427LMP)» «[English](../../en/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» 
 
 ----
 
@@ -275,7 +276,7 @@ Ho Dio! Eduku ĉi tiun malgrandan bebon en la sino de Via amo kaj donu al ĝi la
 
 -- Abdu'l-Bahá
 
-AB04004BAB «[English](../en/prayers/#AB04004BAB)» «[Esperanto](../eo/prayers/#AB04004BAB)» «[Italiano](../it/prayers/#AB04004BAB)» 
+AB04004BAB «[English](../../en/prayers/#AB04004BAB)» «[Italiano](../../it/prayers/#AB04004BAB)» 
 
 ----
 
@@ -285,7 +286,7 @@ Ho Dio! Lumigu ĉi tiun junulon kaj favoru ĉi tiun malfortulon. Donacu al li sc
 
 -- Abdu'l-Bahá
 
-AB10703RAD «[English](../en/prayers/#AB10703RAD)» «[Esperanto](../eo/prayers/#AB10703RAD)» «[Português (BR)](../pt/prayers/#AB10703RAD)» «[Papiamentu](../pap/prayers/#AB10703RAD)» 
+AB10703RAD «[English](../../en/prayers/#AB10703RAD)» «[Papiamentu](../../pap/prayers/#AB10703RAD)» «[Português (BR)](../../pt/prayers/#AB10703RAD)» 
 
 ----
 
@@ -299,7 +300,7 @@ Laŭdegata estu Via nomo, ho mia Dio, ĉar Vi manifestis tiun Tagon, kiu estas l
 
 -- Bahá'u'lláh
 
-BH08433 «[English](../en/prayers/#BH08433)» «[Esperanto](../eo/prayers/#BH08433)» «[Français](../fr/prayers/#BH08433)» 
+BH08433 «[English](../../en/prayers/#BH08433)» «[Français](../../fr/prayers/#BH08433)» 
 
 ----
 
@@ -309,7 +310,7 @@ Ho mia Dio, helpu Vian servanton levi alten la Vorton kaj refuti, kio estas vana
 
 -- Abdu'l-Bahá
 
-AB05805SER «[English](../en/prayers/#AB05805SER)» «[Esperanto](../eo/prayers/#AB05805SER)» 
+AB05805SER «[English](../../en/prayers/#AB05805SER)» 
 
 ----
 
@@ -319,7 +320,7 @@ Ho Dio! Ho Dio! Jen birdo flugilrompita kiu nur tre malrapide flugas – asistu 
 
 -- Abdu'l-Bahá
 
-AB00210BIR «[English](../en/prayers/#AB00210BIR)» «[Esperanto](../eo/prayers/#AB00210BIR)» 
+AB00210BIR «[English](../../en/prayers/#AB00210BIR)» 
 
 ----
 
@@ -329,7 +330,7 @@ AB00210BIR «[English](../en/prayers/#AB00210BIR)» «[Esperanto](../eo/prayers/
 
 -- Abdu'l-Bahá
 
-AB00049RAP «[English](../en/prayers/#AB00049RAP)» «[Esperanto](../eo/prayers/#AB00049RAP)» 
+AB00049RAP «[English](../../en/prayers/#AB00049RAP)» 
 
 ----
 
@@ -339,11 +340,11 @@ AB00049RAP «[English](../en/prayers/#AB00049RAP)» «[Esperanto](../eo/prayers/
 ## La Longa Deviga Preĝo
 
 <a id="BH00987"></a> 
-##La longa deviga preĝo*(Citenda unufoje en dudek kvar horoj)*Kiu deziras citi tiun ĉi preĝon, tiu ekstaru kaj turnu sin al Dio, kaj starante sur sia loko li rigardu dekstren kaj maldekstren, kvazaŭ li atendus la kompaton de sia Eternulo, la Plej Indulga, la Kompatema. Tiam li diru:Ho Vi, Kiu estas la Sinjoro de ĉiuj nomoj kaj la Farinto de la ĉieloj! Mi petegas al Vi je Tiuj, Kiuj estas la Tagiĝoj de Via nevidebla Esenco, la Plej Ekzaltita, la Plejglora, faru mian preĝon fajro forbruligonta la vualojn, kiuj elkludas min de Via beleco, kaj lumo, kiu gvidos min al la oceano de Via Ĉeesto.*Petegante li tiam levu la manojn al Dio − glorata kaj laŭdata Li estu − kaj diru:Ho Vi, la Sopiro de la mondo kaj la Amato de la nacioj! Vi vidas min, turniĝanta al Vi, kaj senigita je ĉia ligo al iu ajn krom al Vi, kaj kroĉiĝanta al Via kordono, per kies movo ekscitiĝis la tuta kreaĵaro. Mi estas Via servanto, ho mia Eternulo, kaj la filo de Via servanto. Vidu, staras mi preta plenumi Vian volon kaj Vian deziron, sopirante nenion ol nur Vian bonplaĉon. Mi petegas al Vi je la Oceano de Via kompato kaj la Suno de Via graco, faru kun Via servanto, kiel Vi volas kaj ŝatas. Je Via potenco, kiu nemezureble superas ĉiun mencion kaj laŭdon! Kio ajn estas revelaciita de Vi, estas la sopiro de mia koro kaj al mia animo la plej kara. Ho Dio, mia Dio! Ne rigardu miajn esperojn kaj miajn farojn, sed rigardu nur Vian volon, kiu ampleksas la ĉielojn kaj la teron. Je Via Plej Granda Nomo, ho Vi Sinjoro de ĉiuj nacioj! Mi deziris nur kion Vi deziris kaj amas nur kion Vi amas.*Tiam li surgenuiĝu kaj klinante sian frunton al la tero, li diru:Vi transcendas la priskribon de ĉiu ajn krom Vi mem kaj ĉies komprenon krom Vian propran.*Tiam li staru kaj diru:Faru mian preĝon, ho mia Eternulo, fonto de vivantaj akvoj, per kiu mi vivu tiel longe kiel daŭros Via suvereneco kaj menciu Vin en ĉiu el Viaj mondoj.*Li refoje petegante levu siajn manojn kaj diru:Ho Vi, de Kiu disigite koroj kaj animoj fandiĝis kaj per la fajro de Ties amo la tuta mondo estas ekflamigita! Mi petegas al Vi je Via Nomo, per kiu Vi subigis la tutan kreaĵaron: ne detenu de mi, kio estas ĉe Vi, ho Vi, Kiu regas super ĉiuj homoj! Vi vidas, ho mia Eternulo, kiel tiu ĉi fremdulo rapidas al sia plej ekzaltita hejmo sub la tendo de Via majesto kaj en la regno de Via kompato, kaj kiel tiu ĉi pekinto serĉas la oceanon de Via pardono, kaj tiu ĉi malaltulo la korton de Via gloro kaj tiu ĉi povra kreaĵo la aŭroron de Via riĉeco. Via estas la aŭtoritato ordoni, kion ajn Vi volas. Mi atestas, ke Vi estas glorenda en Viaj agoj kaj obeenda en Viaj ordonoj, kaj restu senrestrikta en Via dekretado.*Tiam li levu siajn manojn kaj ripetu trifoje la Plej Grandan Nomon.Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*Tiam li klinu sin antaŭ Dio − laŭdata kaj glorata estu Li − kun la manoj sur la genuoj, kaj diru:Vi vidas, ho mia Dio, kiel ekscitiĝis mia spirito en miaj membroj kaj korpo, aspirante adori Vin kaj sopirante memori kaj glori Vin; kiel ĝi atestas pri tio, kion la Lango de Via Ordono atestis en la regno de Via parolo kaj en la ĉielo de Via scio. En tiu ĉi stato, ho mia Eternulo, mi ame elpetas de Vi ĉion, kio estas ĉe Vi, por ke mi montru mian malriĉecon kaj gloru Vian donacemon kaj Viajn riĉaĵojn kaj deklaru mian senfortecon kaj evidentigu Vian forton kaj Vian potencon.*Tiam li staru kaj petante levu dufoje la manojn kaj diru:Ne estas alia Dio krom Vi, la Ĉiopova, la Plej Malavara. Ne estas alia Dio krom Vi, la Ordonanto, je la komenco same kiel je la fino. Ho Dio, mia Dio! Via pardonemo kuraĝigis min, kaj Via kompatemo fortigis min, kaj Via voko min vekis, kaj Via graco min levis kaj min kondukis al Vi. Sed kiu, do, estas mi, ke mi povus kuraĝi stari ĉe la pordo al la urbo de Via proksimeco aŭ turni mian vizaĝon al la lumoj, kiuj brilas el la ĉielo de Via volo? Vi vidas, ho mia Eternulo, kiel tiu ĉi mizera kreaĵo frapas al la pordo de Via graco, kaj kiel tiu ĉi forpasema animo serĉas la riveron de eterna vivo el la manoj de Via donacemo. Estas Via la ordono ĉiutempe, ho Vi, Kiu estas la Sinjoro de ĉiuj nomoj, kaj mia estas la rezigno kaj volonta subiĝo sub Via volo, ho Kreinto de la ĉieloj!*Li tiam levu la manojn trifoje kaj diru:Pli granda ol ĉiu grandulo estas Dio!*Tiam li surgenuiĝu kaj, klinante sian frunton sur la teron, li diru:Tro alta Vi estas por ke la laŭdo de tiuj, kiuj estas proksimaj al Vi, povus ascendi ĝis la ĉielo de Via proksimeco aŭ ke la birdoj de la koroj de tiuj, kiuj estas sindonaj al Vi, atingus la enirejon de Via pordego. Mi atestas, ke Vi estas sanktigita super ĉiuj atributoj kaj sankta super ĉiuj nomoj. Ne estas alia Dio krom Vi, la Plej Laŭdegata, la Plejglora.*Tiam li sidiĝu kaj diru:Mi atestas, kion atestis ĉio kreita kaj la ĉielaj Kohortoj kaj la loĝantoj de la plejalta Paradizo kaj krom ili la Lango de Majesto mem el la plejglora Horizonto: ke Vi estas Dio, ke ne estas alia Dio krom Vi, kaj ke Li, Kiu estas manifestita, estas la Kaŝita Mistero, la Konservita Simbolo, per Kiu la literoj de l&#39; “Estu!” estas interligitaj kaj kunmetitaj. Mi atestas ke estas Li, Kies nomo estas skribita de la Plumo de la Plejalta kaj Kiu estas menciita en la Libroj de Dio, la Sinjoro de la Trono en la alto kaj de la tero malsupre.*Tiam li staru rekte kaj diru:Ho Sinjoro de ĉio estanta kaj Posedanto de ĉio videbla kaj nevidebla! Vi vidas miajn larmojn kaj suspirojn kaj aŭdas mian ĝemadon kaj ploradon kaj la lamentadon de mia koro. Je Via potenco! Miaj mispaŝoj retenis min proksimiĝi al Vi, kaj miaj pekoj tenis min for de la korto de Via sankteco. Via amo, ho mia Eternulo, riĉigis min, kaj separo de Vi detruis min kaj malproksimeco de Vi konsumis min. Mi petegas al Vi je Viaj piedsignoj en tiu ĉi sovaĝejo kaj je la vortoj “Ĉi tie estas mi. Ĉi tie estas mi”, kiujn Viaj Elektitoj eldiris en tiu ĉi vastejo, kaj je la spiroj de Via Revelacio kaj la mildaj ventoj de la Mateniĝo de Via Manifestiĝo: ordonu, ke fiksiĝu mia okulo je Via beleco kaj observu mi ĉion ajn en Via Libro.*Tiam li trifoje ripetu la Plej Grandan Nomon …Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*… kaj klinu sin malsupren kun la manoj restantaj sur la genuoj kaj diru:Gloron al Vi, ho mia Dio, ke Vi helpis al mi memori Vin kaj laŭdegi Vin kaj konigis al mi Lin, Kiu estas la Mateniĝo de Viaj signoj, kaj igis min kliniĝi antaŭ Via Moŝteco kaj igis min humiliĝi antaŭ Via Dieco kaj igis min rekoni tion, kio estas proklamita de la Lango de Via majesto.*Tiam li leviĝu kaj diru:Ho Dio, mia Dio! Mia dorso estas klinita per la ŝarĝo de miaj pekoj kaj mia malatentemo detruis min. Kiam ajn mi kontemplas miajn malbonajn farojn kaj Vian bonvolemon, fandiĝas mia koro en mia interno kaj bolas mia sango en miaj vejnoj. Je Via Beleco, ho Vi, la Sopiro de la mondo! Mi ruĝiĝas levante mian vizaĝon al Vi, kaj miaj petantaj manoj hontas etendiĝi al la ĉielo de Via donacemo. Vi vidas, ho mia Dio, kiel miaj larmoj malhelpas al mi memori Vin kaj glori Viajn virtojn, ho Vi, la Sinjoro de la Trono en la altoj kaj de la tero malsupre! Mi petegas al Vi je la signoj de Via Reĝeco kaj je la misteroj de Via Regado, faru kun Viaj amatoj, kiel konvenas al Via boneco, ho Sinjoro de ĉio estanta, kaj kiel decas al Via graco, ho Reĝo de la vidata kaj nevidata!*Tiam li trifoje ripetu la Plej Grandan Nomon…Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*… kaj surgenuiĝu kun sia frunto sur la tero kaj diru:Gloron al Vi, ho nia Dio, ke Vi malsuprensendis al ni tion, kio proksimigas nin al Vi, kaj dotas nin per ĉio bona malsuprensendita de Vi en Viaj Libroj kaj Viaj Skriboj. Protektu nin, ni petegas al Vi, ho mia Eternulo, kontraŭ la multegaj vanaj fantazioj kaj senfruktaj imagoj. Vi vere estas la Potenca, la Ĉio-Scia.*Tiam li levu la kapon kaj sidiĝu kaj diru:Mi atestas, ho mia Dio, kion Viaj Elektitoj atestis, kaj rekonas, kion la loĝantoj de la plejalta Paradizo kaj tiuj ĉirkaŭantaj Vian potencan Tronon rekonis. La regnoj de l’ tero kaj ĉielo estas Viaj, ho Sinjoro de la mondoj!
+##La longa deviga preĝo*(Citenda unufoje en dudek kvar horoj)*Kiu deziras citi tiun ĉi preĝon, tiu ekstaru kaj turnu sin al Dio, kaj starante sur sia loko li rigardu dekstren kaj maldekstren, kvazaŭ li atendus la kompaton de sia Eternulo, la Plej Indulga, la Kompatema. Tiam li diru:Ho Vi, Kiu estas la Sinjoro de ĉiuj nomoj kaj la Farinto de la ĉieloj! Mi petegas al Vi je Tiuj, Kiuj estas la Tagiĝoj de Via nevidebla Esenco, la Plej Ekzaltita, la Plejglora, faru mian preĝon fajro forbruligonta la vualojn, kiuj elkludas min de Via beleco, kaj lumo, kiu gvidos min al la oceano de Via Ĉeesto.*Petegante li tiam levu la manojn al Dio − glorata kaj laŭdata Li estu − kaj diru:Ho Vi, la Sopiro de la mondo kaj la Amato de la nacioj! Vi vidas min, turniĝanta al Vi, kaj senigita je ĉia ligo al iu ajn krom al Vi, kaj kroĉiĝanta al Via kordono, per kies movo ekscitiĝis la tuta kreaĵaro. Mi estas Via servanto, ho mia Eternulo, kaj la filo de Via servanto. Vidu, staras mi preta plenumi Vian volon kaj Vian deziron, sopirante nenion ol nur Vian bonplaĉon. Mi petegas al Vi je la Oceano de Via kompato kaj la Suno de Via graco, faru kun Via servanto, kiel Vi volas kaj ŝatas. Je Via potenco, kiu nemezureble superas ĉiun mencion kaj laŭdon! Kio ajn estas revelaciita de Vi, estas la sopiro de mia koro kaj al mia animo la plej kara. Ho Dio, mia Dio! Ne rigardu miajn esperojn kaj miajn farojn, sed rigardu nur Vian volon, kiu ampleksas la ĉielojn kaj la teron. Je Via Plej Granda Nomo, ho Vi Sinjoro de ĉiuj nacioj! Mi deziris nur kion Vi deziris kaj amas nur kion Vi amas.*Tiam li surgenuiĝu kaj klinante sian frunton al la tero, li diru:Vi transcendas la priskribon de ĉiu ajn krom Vi mem kaj ĉies komprenon krom Vian propran.*Tiam li staru kaj diru:Faru mian preĝon, ho mia Eternulo, fonto de vivantaj akvoj, per kiu mi vivu tiel longe kiel daŭros Via suvereneco kaj menciu Vin en ĉiu el Viaj mondoj.*Li refoje petegante levu siajn manojn kaj diru:Ho Vi, de Kiu disigite koroj kaj animoj fandiĝis kaj per la fajro de Ties amo la tuta mondo estas ekflamigita! Mi petegas al Vi je Via Nomo, per kiu Vi subigis la tutan kreaĵaron: ne detenu de mi, kio estas ĉe Vi, ho Vi, Kiu regas super ĉiuj homoj! Vi vidas, ho mia Eternulo, kiel tiu ĉi fremdulo rapidas al sia plej ekzaltita hejmo sub la tendo de Via majesto kaj en la regno de Via kompato, kaj kiel tiu ĉi pekinto serĉas la oceanon de Via pardono, kaj tiu ĉi malaltulo la korton de Via gloro kaj tiu ĉi povra kreaĵo la aŭroron de Via riĉeco. Via estas la aŭtoritato ordoni, kion ajn Vi volas. Mi atestas, ke Vi estas glorenda en Viaj agoj kaj obeenda en Viaj ordonoj, kaj restu senrestrikta en Via dekretado.*Tiam li levu siajn manojn kaj ripetu trifoje la Plej Grandan Nomon.Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*Tiam li klinu sin antaŭ Dio − laŭdata kaj glorata estu Li − kun la manoj sur la genuoj, kaj diru:Vi vidas, ho mia Dio, kiel ekscitiĝis mia spirito en miaj membroj kaj korpo, aspirante adori Vin kaj sopirante memori kaj glori Vin; kiel ĝi atestas pri tio, kion la Lango de Via Ordono atestis en la regno de Via parolo kaj en la ĉielo de Via scio. En tiu ĉi stato, ho mia Eternulo, mi ame elpetas de Vi ĉion, kio estas ĉe Vi, por ke mi montru mian malriĉecon kaj gloru Vian donacemon kaj Viajn riĉaĵojn kaj deklaru mian senfortecon kaj evidentigu Vian forton kaj Vian potencon.*Tiam li staru kaj petante levu dufoje la manojn kaj diru:Ne estas alia Dio krom Vi, la Ĉiopova, la Plej Malavara. Ne estas alia Dio krom Vi, la Ordonanto, je la komenco same kiel je la fino. Ho Dio, mia Dio! Via pardonemo kuraĝigis min, kaj Via kompatemo fortigis min, kaj Via voko min vekis, kaj Via graco min levis kaj min kondukis al Vi. Sed kiu, do, estas mi, ke mi povus kuraĝi stari ĉe la pordo al la urbo de Via proksimeco aŭ turni mian vizaĝon al la lumoj, kiuj brilas el la ĉielo de Via volo? Vi vidas, ho mia Eternulo, kiel tiu ĉi mizera kreaĵo frapas al la pordo de Via graco, kaj kiel tiu ĉi forpasema animo serĉas la riveron de eterna vivo el la manoj de Via donacemo. Estas Via la ordono ĉiutempe, ho Vi, Kiu estas la Sinjoro de ĉiuj nomoj, kaj mia estas la rezigno kaj volonta subiĝo sub Via volo, ho Kreinto de la ĉieloj!*Li tiam levu la manojn trifoje kaj diru:Pli granda ol ĉiu grandulo estas Dio!*Tiam li surgenuiĝu kaj, klinante sian frunton sur la teron, li diru:Tro alta Vi estas por ke la laŭdo de tiuj, kiuj estas proksimaj al Vi, povus ascendi ĝis la ĉielo de Via proksimeco aŭ ke la birdoj de la koroj de tiuj, kiuj estas sindonaj al Vi, atingus la enirejon de Via pordego. Mi atestas, ke Vi estas sanktigita super ĉiuj atributoj kaj sankta super ĉiuj nomoj. Ne estas alia Dio krom Vi, la Plej Laŭdegata, la Plejglora.*Tiam li sidiĝu kaj diru:Mi atestas, kion atestis ĉio kreita kaj la ĉielaj Kohortoj kaj la loĝantoj de la plejalta Paradizo kaj krom ili la Lango de Majesto mem el la plejglora Horizonto: ke Vi estas Dio, ke ne estas alia Dio krom Vi, kaj ke Li, Kiu estas manifestita, estas la Kaŝita Mistero, la Konservita Simbolo, per Kiu la literoj de l' “Estu!” estas interligitaj kaj kunmetitaj. Mi atestas ke estas Li, Kies nomo estas skribita de la Plumo de la Plejalta kaj Kiu estas menciita en la Libroj de Dio, la Sinjoro de la Trono en la alto kaj de la tero malsupre.*Tiam li staru rekte kaj diru:Ho Sinjoro de ĉio estanta kaj Posedanto de ĉio videbla kaj nevidebla! Vi vidas miajn larmojn kaj suspirojn kaj aŭdas mian ĝemadon kaj ploradon kaj la lamentadon de mia koro. Je Via potenco! Miaj mispaŝoj retenis min proksimiĝi al Vi, kaj miaj pekoj tenis min for de la korto de Via sankteco. Via amo, ho mia Eternulo, riĉigis min, kaj separo de Vi detruis min kaj malproksimeco de Vi konsumis min. Mi petegas al Vi je Viaj piedsignoj en tiu ĉi sovaĝejo kaj je la vortoj “Ĉi tie estas mi. Ĉi tie estas mi”, kiujn Viaj Elektitoj eldiris en tiu ĉi vastejo, kaj je la spiroj de Via Revelacio kaj la mildaj ventoj de la Mateniĝo de Via Manifestiĝo: ordonu, ke fiksiĝu mia okulo je Via beleco kaj observu mi ĉion ajn en Via Libro.*Tiam li trifoje ripetu la Plej Grandan Nomon …Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*… kaj klinu sin malsupren kun la manoj restantaj sur la genuoj kaj diru:Gloron al Vi, ho mia Dio, ke Vi helpis al mi memori Vin kaj laŭdegi Vin kaj konigis al mi Lin, Kiu estas la Mateniĝo de Viaj signoj, kaj igis min kliniĝi antaŭ Via Moŝteco kaj igis min humiliĝi antaŭ Via Dieco kaj igis min rekoni tion, kio estas proklamita de la Lango de Via majesto.*Tiam li leviĝu kaj diru:Ho Dio, mia Dio! Mia dorso estas klinita per la ŝarĝo de miaj pekoj kaj mia malatentemo detruis min. Kiam ajn mi kontemplas miajn malbonajn farojn kaj Vian bonvolemon, fandiĝas mia koro en mia interno kaj bolas mia sango en miaj vejnoj. Je Via Beleco, ho Vi, la Sopiro de la mondo! Mi ruĝiĝas levante mian vizaĝon al Vi, kaj miaj petantaj manoj hontas etendiĝi al la ĉielo de Via donacemo. Vi vidas, ho mia Dio, kiel miaj larmoj malhelpas al mi memori Vin kaj glori Viajn virtojn, ho Vi, la Sinjoro de la Trono en la altoj kaj de la tero malsupre! Mi petegas al Vi je la signoj de Via Reĝeco kaj je la misteroj de Via Regado, faru kun Viaj amatoj, kiel konvenas al Via boneco, ho Sinjoro de ĉio estanta, kaj kiel decas al Via graco, ho Reĝo de la vidata kaj nevidata!*Tiam li trifoje ripetu la Plej Grandan Nomon…Alláh’u’Abhá! Alláh’u’Abhá! Alláh’u’Abhá!*… kaj surgenuiĝu kun sia frunto sur la tero kaj diru:Gloron al Vi, ho nia Dio, ke Vi malsuprensendis al ni tion, kio proksimigas nin al Vi, kaj dotas nin per ĉio bona malsuprensendita de Vi en Viaj Libroj kaj Viaj Skriboj. Protektu nin, ni petegas al Vi, ho mia Eternulo, kontraŭ la multegaj vanaj fantazioj kaj senfruktaj imagoj. Vi vere estas la Potenca, la Ĉio-Scia.*Tiam li levu la kapon kaj sidiĝu kaj diru:Mi atestas, ho mia Dio, kion Viaj Elektitoj atestis, kaj rekonas, kion la loĝantoj de la plejalta Paradizo kaj tiuj ĉirkaŭantaj Vian potencan Tronon rekonis. La regnoj de l’ tero kaj ĉielo estas Viaj, ho Sinjoro de la mondoj!
 
 -- Bahá'u'lláh
 
-BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH00987)» «[Nederlands](../nl/prayers/#BH00987)» «[Português (BR)](../pt/prayers/#BH00987)» 
+BH00987 «[Nederlands](../../nl/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» «[Português (BR)](../../pt/prayers/#BH00987)» 
 
 ----
 
@@ -357,7 +358,7 @@ BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH009
 
 -- Bahá'u'lláh
 
-BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Português (BR)](../pt/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» 
+BH11209 «[English](../../en/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» 
 
 ----
 
@@ -371,7 +372,7 @@ BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH112
 
 -- Bahá'u'lláh
 
-BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH03447)» «[Nederlands](../nl/prayers/#BH03447)» «[Português (BR)](../pt/prayers/#BH03447)» 
+BH03447 «[Nederlands](../../nl/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» «[Português (BR)](../../pt/prayers/#BH03447)» 
 
 ----
 
@@ -385,7 +386,7 @@ BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH034
 
 -- Bahá'u'lláh
 
-BH09401 «[English](../en/prayers/#BH09401)» «[Esperanto](../eo/prayers/#BH09401)» «[Nederlands](../nl/prayers/#BH09401)» 
+BH09401 «[Nederlands](../../nl/prayers/#BH09401)» «[English](../../en/prayers/#BH09401)» 
 
 ----
 
@@ -395,7 +396,7 @@ Benita estas la punkto, kaj la domo, kaj la loko, kaj la urbo, kaj la koro, kai 
 
 -- Bahá'u'lláh
 
-BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Português (BR)](../pt/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» 
+BH00074BLE «[English](../../en/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Português (BR)](../../pt/prayers/#BH00074BLE)» «[Français](../../fr/prayers/#BH00074BLE)» 
 
 ----
 
@@ -409,7 +410,7 @@ Multe da frostaj koroj, ho mia Dio, ekflamis per la fajro de Via Kredo, kaj mult
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../en/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» 
+BH09024 «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» 
 
 ----
 
@@ -419,7 +420,7 @@ Mi petegas al Vi, ho mia Dio, je Via nomo, kies brileco ĉirkaŭas la teron kaj 
 
 -- Bahá'u'lláh
 
-BH02848IMP «[Esperanto](../eo/prayers/#BH02848IMP)» 
+BH02848IMP 
 
 ----
 
@@ -429,7 +430,7 @@ Diru: Dio sufiĉas al ĉio kaj super ĉio, kaj nenio en la ĉieloj nek sur la te
 
 -- Báb
 
-BB00015SUF «[English](../en/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
+BB00015SUF «[Nederlands](../../nl/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» 
 
 ----
 
@@ -443,7 +444,7 @@ Mi vekiĝis sub Via ŝirmo, ho mia Dio, kaj decas al tiu, kiu serĉas tiun ŝirm
 
 -- Bahá'u'lláh
 
-BH00009SHE «[English](../en/prayers/#BH00009SHE)» «[Esperanto](../eo/prayers/#BH00009SHE)» «[Frysk](../fy/prayers/#BH00009SHE)» 
+BH00009SHE «[English](../../en/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» 
 
 ----
 
@@ -453,7 +454,7 @@ Mi ellitiĝis ĉi-matene pro Via favoro, ho mia Dio, kaj iris for el mia hejmo, 
 
 -- Bahá'u'lláh
 
-BH00009GRA «[English](../en/prayers/#BH00009GRA)» «[Esperanto](../eo/prayers/#BH00009GRA)» «[Nederlands](../nl/prayers/#BH00009GRA)» «[Papiamentu](../pap/prayers/#BH00009GRA)» 
+BH00009GRA «[Nederlands](../../nl/prayers/#BH00009GRA)» «[English](../../en/prayers/#BH00009GRA)» «[Papiamentu](../../pap/prayers/#BH00009GRA)» 
 
 ----
 
@@ -467,7 +468,7 @@ Ho Vi, pardonema Sinjoro! Vi estas la ŝirmo de ĉiuj ĉi Viaj servantoj. Vi kon
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[English](../en/prayers/#ABU0030SHE)» «[Esperanto](../eo/prayers/#ABU0030SHE)» «[Français](../fr/prayers/#ABU0030SHE)» «[Español](../es/prayers/#ABU0030SHE)» 
+ABU0030SHE «[English](../../en/prayers/#ABU0030SHE)» «[Español](../../es/prayers/#ABU0030SHE)» «[Français](../../fr/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -481,7 +482,7 @@ Laŭdata estu Via nomo, ho Eternulo mia Dio! Mi petegas Vin je Via Nomo, per kiu
 
 -- Bahá'u'lláh
 
-BH10578 «[English](../en/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[Italiano](../it/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» 
+BH10578 «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» 
 
 ----
 
@@ -491,7 +492,7 @@ Ho mia Eternulo! Vi scias, ke la homoj estas ĉirkaŭataj de doloroj kaj aflikto
 
 -- Abdu'l-Bahá
 
-AB07759 «[English](../en/prayers/#AB07759)» «[Esperanto](../eo/prayers/#AB07759)» 
+AB07759 «[English](../../en/prayers/#AB07759)» 
 
 ----
 
@@ -501,7 +502,7 @@ Ho Dio, mia Dio! Ŝirmu Viajn fidelajn servantojn je la malbonoj de memo kaj pas
 
 -- Abdu'l-Bahá
 
-AB00001SHI «[English](../en/prayers/#AB00001SHI)» «[Esperanto](../eo/prayers/#AB00001SHI)» «[Español](../es/prayers/#AB00001SHI)» 
+AB00001SHI «[English](../../en/prayers/#AB00001SHI)» «[Español](../../es/prayers/#AB00001SHI)» 
 
 ----
 
@@ -515,7 +516,7 @@ Ho Vi, bonema Dio! Jen Viaj geservantoj, kiuj kolektiĝis en tiu ĉi kunveno, si
 
 -- Abdu'l-Bahá
 
-ABU0070GAT «[English](../en/prayers/#ABU0070GAT)» «[Esperanto](../eo/prayers/#ABU0070GAT)» «[Español](../es/prayers/#ABU0070GAT)» 
+ABU0070GAT «[English](../../en/prayers/#ABU0070GAT)» «[Español](../../es/prayers/#ABU0070GAT)» 
 
 ----
 
@@ -529,7 +530,7 @@ Via nomo estas mia kuraco, ho mia Dio, kaj rememoro pri Vi mia medikamento. Prok
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» 
+BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» 
 
 ----
 
@@ -539,17 +540,17 @@ Ho Dio, mia Dio! Mi petegas al Vi je la oceano de Via kuraco, kaj je la brilo de
 
 -- Bahá'u'lláh
 
-BH08013 «[English](../en/prayers/#BH08013)» «[Esperanto](../eo/prayers/#BH08013)» 
+BH08013 «[English](../../en/prayers/#BH08013)» 
 
 ----
 
 
 <a id="BH00870"></a> 
-Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.Alvokas mi Vin, ho Ekzaltita, ho Fidela, ho Glora! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Reganto, ho Stariganto, ho Juĝisto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Senegala, ho Eternulo, ho Unika! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Laŭdata, ho Sankta, ho Helpanta! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho  Ĉionscia, ho Plej Saĝa, ho Plej Granda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Milda, ho Majesta, ho Ordonanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Amata, ho Ŝatata, ho Ravanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Potenca, ho Subten-anta, ho Fortega! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Reganta, ho Mem-Ekzistanta, ho Ĉion-Scianta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Spirito, ho Lumo, ho Plej Manifesta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi al Kiu ĉiuj sin turnas, ho al ĉiuj Konata, ho al ĉiuj Kaŝita! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Forvualita, ho Triumf-anta, ho Donacanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ĉio-Potenca, ho Helpanta, ho Kaŝanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Formanta, ho Kontentiganta, ho Vi Elradikiganta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Soranta, ho Kunvokanta, ho Ekzaltiganta! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Perfektiganta, ho Sen-katena, ho Malavara! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Bonfara, ho Retenanta, ho Kreanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Sublima, ho Belega, ho abunde Donanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Justa, ho Graca, ho Donacema! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ĉion-Komandanta, ho eterne Ezistanta, ho Plej Konanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Grandioza, ho Vi de l&#39; tagoj eternaj, ho Grandanima! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho bone Gardita, ho Sinjoro de l&#39; Ĝojo, ho Dezirata! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Afabla al ĉiuj, ho Vi Kompata al ĉiuj, ho Plej Bonvola! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Haveno por ĉiuj, ho Ŝirmo por ĉiuj, ho Ĉion-Konservanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Helpanto por ĉiuj, ho Vi Alvokita de ĉiuj, ho Viviganto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Malkovranto, ho Detru-anto, ho Plej Milda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi mia Animo, ho Vi mia Amato, ho Vi mia Kredo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi la Sensoifiganto, ho Transcenda Sinjoro, ho Plej Kara! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Granda Rememoro, ho Plej Nobla Nomo, ho Vi Plej Eterna Vojo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Laŭdata, ho Plej Sankta, ho Sanktigata! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Malliganto, ho Konsil-anto, ho Vi Savanto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Amiko, ho Kuracisto, ho Kaptanto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Gloro, ho Belo, ho Abunda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Fidata, ho Plej Amanta, ho Sinjoro de l&#39; Aŭro! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ekflamiganto, ho Brilig-anto, ho Alportanto de Ravo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Sinjoro de Abundo, ho Plej Kompatema, ho Vi Plej Indulga! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Konstanta, ho Vivdon-anta, ho Origino de ĉia Ezistado! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Kiu ĉion penetras, ho Ĉion-Vidanta Dio, ho Sinjoro de l&#39; Esprim-iĝo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Manifesta sed Kaŝita, ho Nevidata sed Bonkonata, ho Rigardanto serĉata de ĉiuj! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Kiu mortigas la Amantojn, ho Dio de Graco por la pekantoj!Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Ho Sufiĉanto, alvokas mi Vin, ho Sufiĉanto!Ho Kuracanto, alvokas mi Vin, ho Kuracanto!Ho Konstanta, alvokas mi vin, ho Konstanta!Vi la Eterne Konstanta, ho Vi la Eternulo!Sanktigata estas Vi, ho Mia Dio! Mi petegas al Vi je Via malavaro, per kiu la pordegoj de Via grandanimeco kaj graco estis vaste malferm-itaj, per kiu la Templo de Via Sankteco estis starigita sur la trono de l&#39; eterneco; kaj je Via kompato per kiu Vi invitis ĉion kreitan al la tablo de Viaj malavaroj kaj donacoj; kaj je Via graco per kiu Vi respondis en Vi Mem per Via vorto &#34;Jes!&#34; nome de ĉiuj en la ĉielo kaj sur la tero, je la horo kiam Via suvereneco kaj Via grandeco estis revelaciitaj, je la temp&#39; aŭrora kiam la potenco de Via dominado fariĝis manifesta. Kaj denove mi petegas Vin, je tiuj ĉi nomoj plej belaj, je tiuj ĉi atributoj plej noblaj kaj sublimaj, kaj je Via plej Ekzaltita Rememoro, kaj je Via pura kaj senmakula Beleco, kaj je Via kaŝita Lumo en la plej kaŝita pavilono, kaj je Via Nomo, vestita per la vesto de l&#39; aflikto ĉiumatene kaj ĉiuvespere, protektu la posedanton de tiu ĉi benita Epistolo, kaj kiu ajn recitas ĝin, kaj kiu renkontas ĝin, kaj kiu ĉirkaŭas la domon en kiu troviĝas ĝi. Kuracu Vi, do, per ĝi ĉiun malsanulon, suferanton kaj povrulon de ĉia sufero kaj malbonfarto, de ĉia abomena aflikto kaj zorgo, kaj gvidu Vi per ĝi ĉiun ajn kiu deziras ekiri sur la padoj de Via gvidado kaj la vojoj de Via pardono kaj graco.Vi vere estas la Potenca, la Ĉion-Sufiĉanta, la Kuracanta, la Protektanto, la Donanta, la Kompatema, la Ĉiel-Malavara, la Ĉiel-Grandanima.
+Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.Alvokas mi Vin, ho Ekzaltita, ho Fidela, ho Glora! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Reganto, ho Stariganto, ho Juĝisto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Senegala, ho Eternulo, ho Unika! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Laŭdata, ho Sankta, ho Helpanta! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho  Ĉionscia, ho Plej Saĝa, ho Plej Granda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Milda, ho Majesta, ho Ordonanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Amata, ho Ŝatata, ho Ravanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Potenca, ho Subten-anta, ho Fortega! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Reganta, ho Mem-Ekzistanta, ho Ĉion-Scianta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Spirito, ho Lumo, ho Plej Manifesta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi al Kiu ĉiuj sin turnas, ho al ĉiuj Konata, ho al ĉiuj Kaŝita! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Forvualita, ho Triumf-anta, ho Donacanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ĉio-Potenca, ho Helpanta, ho Kaŝanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Formanta, ho Kontentiganta, ho Vi Elradikiganta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Soranta, ho Kunvokanta, ho Ekzaltiganta! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Perfektiganta, ho Sen-katena, ho Malavara! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Bonfara, ho Retenanta, ho Kreanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Sublima, ho Belega, ho abunde Donanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Justa, ho Graca, ho Donacema! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ĉion-Komandanta, ho eterne Ezistanta, ho Plej Konanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Grandioza, ho Vi de l' tagoj eternaj, ho Grandanima! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho bone Gardita, ho Sinjoro de l' Ĝojo, ho Dezirata! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Afabla al ĉiuj, ho Vi Kompata al ĉiuj, ho Plej Bonvola! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Haveno por ĉiuj, ho Ŝirmo por ĉiuj, ho Ĉion-Konservanta! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Helpanto por ĉiuj, ho Vi Alvokita de ĉiuj, ho Viviganto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Malkovranto, ho Detru-anto, ho Plej Milda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi mia Animo, ho Vi mia Amato, ho Vi mia Kredo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi la Sensoifiganto, ho Transcenda Sinjoro, ho Plej Kara! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Granda Rememoro, ho Plej Nobla Nomo, ho Vi Plej Eterna Vojo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Laŭdata, ho Plej Sankta, ho Sanktigata! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Malliganto, ho Konsil-anto, ho Vi Savanto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Amiko, ho Kuracisto, ho Kaptanto! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Gloro, ho Belo, ho Abunda! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Plej Fidata, ho Plej Amanta, ho Sinjoro de l' Aŭro! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Ekflamiganto, ho Brilig-anto, ho Alportanto de Ravo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Sinjoro de Abundo, ho Plej Kompatema, ho Vi Plej Indulga! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Konstanta, ho Vivdon-anta, ho Origino de ĉia Ezistado! Vi la Sufiĉ-anta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Kiu ĉion penetras, ho Ĉion-Vidanta Dio, ho Sinjoro de l' Esprim-iĝo! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Manifesta sed Kaŝita, ho Nevidata sed Bonkonata, ho Rigardanto serĉata de ĉiuj! Vi la Sufiĉanta, Vi la Kurac-anta, Vi la Konstanta, ho Vi la Eternulo!Alvokas mi Vin, ho Vi Kiu mortigas la Amantojn, ho Dio de Graco por la pekantoj!Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!Ho Sufiĉanto, alvokas mi Vin, ho Sufiĉanto!Ho Kuracanto, alvokas mi Vin, ho Kuracanto!Ho Konstanta, alvokas mi vin, ho Konstanta!Vi la Eterne Konstanta, ho Vi la Eternulo!Sanktigata estas Vi, ho Mia Dio! Mi petegas al Vi je Via malavaro, per kiu la pordegoj de Via grandanimeco kaj graco estis vaste malferm-itaj, per kiu la Templo de Via Sankteco estis starigita sur la trono de l' eterneco; kaj je Via kompato per kiu Vi invitis ĉion kreitan al la tablo de Viaj malavaroj kaj donacoj; kaj je Via graco per kiu Vi respondis en Vi Mem per Via vorto "Jes!" nome de ĉiuj en la ĉielo kaj sur la tero, je la horo kiam Via suvereneco kaj Via grandeco estis revelaciitaj, je la temp' aŭrora kiam la potenco de Via dominado fariĝis manifesta. Kaj denove mi petegas Vin, je tiuj ĉi nomoj plej belaj, je tiuj ĉi atributoj plej noblaj kaj sublimaj, kaj je Via plej Ekzaltita Rememoro, kaj je Via pura kaj senmakula Beleco, kaj je Via kaŝita Lumo en la plej kaŝita pavilono, kaj je Via Nomo, vestita per la vesto de l' aflikto ĉiumatene kaj ĉiuvespere, protektu la posedanton de tiu ĉi benita Epistolo, kaj kiu ajn recitas ĝin, kaj kiu renkontas ĝin, kaj kiu ĉirkaŭas la domon en kiu troviĝas ĝi. Kuracu Vi, do, per ĝi ĉiun malsanulon, suferanton kaj povrulon de ĉia sufero kaj malbonfarto, de ĉia abomena aflikto kaj zorgo, kaj gvidu Vi per ĝi ĉiun ajn kiu deziras ekiri sur la padoj de Via gvidado kaj la vojoj de Via pardono kaj graco.Vi vere estas la Potenca, la Ĉion-Sufiĉanta, la Kuracanta, la Protektanto, la Donanta, la Kompatema, la Ĉiel-Malavara, la Ĉiel-Grandanima.
 
 -- Bahá'u'lláh
 
-BH00870 «[English](../en/prayers/#BH00870)» «[Esperanto](../eo/prayers/#BH00870)» 
+BH00870 «[English](../../en/prayers/#BH00870)» 
 
 ----
 
@@ -563,7 +564,7 @@ Kreu en mi puran koron, ho mia Dio, kaj renovigu en mi trankvilan konsciencon, h
 
 -- Bahá'u'lláh
 
-BH04421HEA «[English](../en/prayers/#BH04421HEA)» «[Esperanto](../eo/prayers/#BH04421HEA)» «[Frysk](../fy/prayers/#BH04421HEA)» «[Nederlands](../nl/prayers/#BH04421HEA)» 
+BH04421HEA «[Nederlands](../../nl/prayers/#BH04421HEA)» «[English](../../en/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» 
 
 ----
 
@@ -573,7 +574,7 @@ Mia Dio, la celo de mia adorado kaj de mia sopirado, Vi la Ĉiom-Bonkora, la Ple
 
 -- Bahá'u'lláh
 
-BH00005ALL «[English](../en/prayers/#BH00005ALL)» «[Esperanto](../eo/prayers/#BH00005ALL)» 
+BH00005ALL «[English](../../en/prayers/#BH00005ALL)» 
 
 ----
 
@@ -583,7 +584,7 @@ Ho Dio! Refreŝigu kaj ĝojigu mian spiriton. Purigu mian koron. Iluminu miajn f
 
 -- Abdu'l-Bahá
 
-ABU1863REF «[Esperanto](../eo/prayers/#ABU1863REF)» 
+ABU1863REF 
 
 ----
 
@@ -597,7 +598,7 @@ ABU1863REF «[Esperanto](../eo/prayers/#ABU1863REF)»
 
 -- Báb
 
-BB00623 «[English](../en/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Tuvalu](../tvl/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
+BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
 
 ----
 
@@ -611,7 +612,7 @@ Gloro estu al Vi, ho Eternulo, Vi Kiu ekzistigis ĉion kreitan per la potenco de
 
 -- Báb
 
-BB00004REN «[English](../en/prayers/#BB00004REN)» «[Esperanto](../eo/prayers/#BB00004REN)» «[Español](../es/prayers/#BB00004REN)» 
+BB00004REN «[English](../../en/prayers/#BB00004REN)» «[Español](../../es/prayers/#BB00004REN)» 
 
 ----
 
@@ -621,7 +622,7 @@ Ho Eternulo! Ebligu al ĉiuj popoloj de la mondo akiri enlason en la Paradizon d
 
 -- Báb
 
-BB00002ENA «[English](../en/prayers/#BB00002ENA)» «[Esperanto](../eo/prayers/#BB00002ENA)» 
+BB00002ENA «[English](../../en/prayers/#BB00002ENA)» 
 
 ----
 
@@ -635,17 +636,17 @@ Ho mia Dio! Ho mia Dio! Unuigu la korojn de Viaj servantoj kaj revelaciu al ili 
 
 -- Bahá'u'lláh
 
-BH10505 «[English](../en/prayers/#BH10505)» «[Esperanto](../eo/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» 
+BH10505 «[English](../../en/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» «[Frysk](../../fy/prayers/#BH10505)» 
 
 ----
 
 
 <a id="ABU0023UNI"></a> 
-Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petante Vin, ke ĉiuj Viaj benoj descendu sur ĉi tiujn animojn. Distingu ilin per Via favoro kaj Via vero. Ho Eternulo! Unuigu kaj kunligu la korojn, akordigu ĉiujn animojn kaj ĝojigu la spiritojn per la signoj de Viaj sankteco kaj ununureco. Ho Eternulo! Faru ĉi tiujn vizaĝojn radiantaj per la lumo de Via unueco. Fortigu la lumbojn de Viaj servantoj por la servado al Via regno. Ho Eternulo, Vi la posedanto de senlima kompato! Ho Dio de senkulpigo kaj pardonemo! Pardonu niajn pekojn, ekskuzu niajn malfortojn kaj igu nin turniĝi al la reĝejo de Via indulgo, alvokante la regnon de forto kaj potenco, humiliĝante ĉe Via sanktejo kaj submetiĝante antaŭ la gloro de Viaj evidentecoj. Ho Sinjoro Dio! Faru nin ondoj de l&#39;maro, floroj de l’ĝardeno, unuiĝintaj, unuanimaj per la donaco de Via amo. Ho Eternulo! Vastigu la brustojn per la signoj de Via ununureco kaj faru la tutan homaron steloj brilantaj desur la sama alto de gloro, perfektaj fruktoj kreskantaj sur Via arbo de vivo. Vere, Vi estas la Ĉiopova, la Mem-Ekzistanta, la Donanta, la Pardonanta, la Senkulpiganto, la Ĉio-scia, la Ununura Kreanto.
+Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petante Vin, ke ĉiuj Viaj benoj descendu sur ĉi tiujn animojn. Distingu ilin per Via favoro kaj Via vero. Ho Eternulo! Unuigu kaj kunligu la korojn, akordigu ĉiujn animojn kaj ĝojigu la spiritojn per la signoj de Viaj sankteco kaj ununureco. Ho Eternulo! Faru ĉi tiujn vizaĝojn radiantaj per la lumo de Via unueco. Fortigu la lumbojn de Viaj servantoj por la servado al Via regno. Ho Eternulo, Vi la posedanto de senlima kompato! Ho Dio de senkulpigo kaj pardonemo! Pardonu niajn pekojn, ekskuzu niajn malfortojn kaj igu nin turniĝi al la reĝejo de Via indulgo, alvokante la regnon de forto kaj potenco, humiliĝante ĉe Via sanktejo kaj submetiĝante antaŭ la gloro de Viaj evidentecoj. Ho Sinjoro Dio! Faru nin ondoj de l'maro, floroj de l’ĝardeno, unuiĝintaj, unuanimaj per la donaco de Via amo. Ho Eternulo! Vastigu la brustojn per la signoj de Via ununureco kaj faru la tutan homaron steloj brilantaj desur la sama alto de gloro, perfektaj fruktoj kreskantaj sur Via arbo de vivo. Vere, Vi estas la Ĉiopova, la Mem-Ekzistanta, la Donanta, la Pardonanta, la Senkulpiganto, la Ĉio-scia, la Ununura Kreanto.
 
 -- Abdu'l-Bahá
 
-ABU0023UNI «[English](../en/prayers/#ABU0023UNI)» «[Esperanto](../eo/prayers/#ABU0023UNI)» «[Nederlands](../nl/prayers/#ABU0023UNI)» 
+ABU0023UNI «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» 
 
 ----
 
@@ -655,7 +656,7 @@ Ho Vi, kompatema Sinjoro, Vi Kiu estas malavara kaj pova! Ni estas servantoj Via
 
 -- Abdu'l-Bahá
 
-ABU0009SER «[English](../en/prayers/#ABU0009SER)» «[Esperanto](../eo/prayers/#ABU0009SER)» 
+ABU0009SER «[English](../../en/prayers/#ABU0009SER)» 
 
 ----
 
@@ -669,7 +670,7 @@ Ho mia Dio, mia Mastro, la Celo de mia deziro! Ĉi tiu servanto Via sopiras dorm
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../en/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» 
+BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» 
 
 ----
 
@@ -679,7 +680,7 @@ BH00009SER «[English](../en/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/
 
 -- Abdu'l-Bahá
 
-AB06528MID «[English](../en/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» 
+AB06528MID «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -693,7 +694,7 @@ Ho mia Dio, la Dio de donacado kaj kompato! Vi estas la Reĝo, per Kies ordona v
 
 -- Bahá'u'lláh
 
-BH00554 «[English](../en/prayers/#BH00554)» «[Esperanto](../eo/prayers/#BH00554)» «[Nederlands](../nl/prayers/#BH00554)» 
+BH00554 «[Nederlands](../../nl/prayers/#BH00554)» «[English](../../en/prayers/#BH00554)» 
 
 ----
 
@@ -703,7 +704,7 @@ Ho mia Eternulo! Faru Vian belecon mia mangaĵo kaj Vian ĉeeston mia trinkaĵo,
 
 -- Bahá'u'lláh
 
-BH07426FOO «[English](../en/prayers/#BH07426FOO)» «[Esperanto](../eo/prayers/#BH07426FOO)» «[Italiano](../it/prayers/#BH07426FOO)» 
+BH07426FOO «[English](../../en/prayers/#BH07426FOO)» «[Italiano](../../it/prayers/#BH07426FOO)» 
 
 ----
 
@@ -717,7 +718,7 @@ Ho Dio, mia Dio! Mi forlasis mian hejmon, firme tenante la kordonon de Via amo, 
 
 -- Bahá'u'lláh
 
-BH10688 «[English](../en/prayers/#BH10688)» «[Esperanto](../eo/prayers/#BH10688)» 
+BH10688 «[English](../../en/prayers/#BH10688)» 
 
 ----
 

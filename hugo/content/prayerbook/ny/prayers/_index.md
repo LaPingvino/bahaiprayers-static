@@ -5,6 +5,7 @@ tags = ['lang=ny', 'prayerbook']
 
 
 
+
 [ANA](#ANA)
 
 [ANYAMATA](#ANYAMATA)
@@ -89,7 +90,7 @@ O Ambuye wanga! Pangani kukongola Kwanu kukhale chakudya changa, ndikupezeka Kwa
 
 -- Bahá'u'lláh
 
-bpn13449 «[Chichewa](../ny/prayers/#bpn13449)» 
+bpn13449 
 
 ----
 
@@ -99,7 +100,7 @@ O Inu a Chifundo Ambuye! Ndine mwana wamng’ono, ndikwezeni ine pondilora ine k
 
 -- Bahá'u'lláh
 
-bpn13450 «[Chichewa](../ny/prayers/#bpn13450)» 
+bpn13450 
 
 ----
 
@@ -109,7 +110,7 @@ O Mulungu wanga, Okondedwa wanga, khumbo la mtima wanga.
 
 -- Báb
 
-bpn13446 «[Chichewa](../ny/prayers/#bpn13446)» 
+bpn13446 
 
 ----
 
@@ -119,7 +120,7 @@ O Mulungu! Lelani kakhanda aka pa chifungatiro chachikondi Chanu, ndipo mukapats
 
 -- Abdu'l-Bahá
 
-bpn13447 «[Chichewa](../ny/prayers/#bpn13447)» 
+bpn13447 
 
 ----
 
@@ -129,7 +130,7 @@ O Mulungu! Phunzitsani ana awa. Ana awa ali zomera za m’munda Wanu wazipatso, 
 
 -- Abdu'l-Bahá
 
-bpn13448 «[Chichewa](../ny/prayers/#bpn13448)» 
+bpn13448 
 
 ----
 
@@ -139,7 +140,7 @@ O Ambuye anga! O Ambuye anga! Ine ndine mwana wa zaka zochepa. Ndidyetseni ine k
 
 -- Abdu'l-Bahá
 
-bpn13451 «[Chichewa](../ny/prayers/#bpn13451)» 
+bpn13451 
 
 ----
 
@@ -153,7 +154,7 @@ O Ambuye! Muwalitseni mnyamatayu ndipo mupatseni wolengedwa wosakayu chaulere Ch
 
 -- Abdu'l-Bahá
 
-bpn13452 «[Chichewa](../ny/prayers/#bpn13452)» 
+bpn13452 
 
 ----
 
@@ -167,17 +168,17 @@ bpn13452 «[Chichewa](../ny/prayers/#bpn13452)»
 
 -- Abdu'l-Bahá
 
-bpn13453 «[Chichewa](../ny/prayers/#bpn13453)» 
+bpn13453 
 
 ----
 
 
 <a id="bpn13454"></a> 
-*Pemphero lonenedwa potseka msonkhano wa Bungwe Lauzimu.   O Mulungu! O Mulungu! Kuchokera ku ufumu wosaoneka wa umodzi Wanu tioneni ife tasonkhana mu msokhano wa uzimuwu, kukhulupirira mwa Inu, kukhulupirira zizindikiro Zanu, wolimba mu Pangano ndi Mawu Anu, okopedwa kwa Inu, tiyatseni ife ndi moto wa chikondi Chanu ndi kukhukupirika ku Chipembedzo Chanu.  Ndife antchito m&#39;munda Wanu, ofalitsa Chipembedzo Chanu, okhulupirika okupembedzani Inu, odzichepetsa kwa okondedwa Anu, odzitsitsa pa chitseko Chanu, ndipo tikukupemphani Inu kutilimbikitsa ife potumikira osankhika Anu, kutithandiza ife ndi makamu Anu osaoneka, kutilimbikitsa ife mukutumikira ndi kutipanga ife odzipereka ndi okonda kuyankhula ndi Inu.  O Ambuye athu! Ndife ofooka, ndipo Inu ndi Wamphamvu, Wanyonga. Ndife opanda moyo, ndipo Inu Mzimu wopereka moyo, Ndife osowa, ndipo Inu ndi Wokwaniritsidwa, Wamphamvu.  O Ambuye athu! Tembenuzirani nkhope zathu ku Chifundo Chanu, tidyetseni ife kuchokera ku gome la Kumwamba Kwanu ndi Chisomo Chanu chosefukira, tithandizeni ife ndi makamu a angelo Anu ndi kutilimbikitsa ife kupyolera mwa oyera a mu Ufumu wa Abhá.  Indetu, Inu Ndinu Wopatsa, Wachifundo. Inu Ndinu Mwini wa Mphatso zonse, ndipo, indetu, Inu Ndinu Wachisoni ndi wa Chisomo.
+*Pemphero lonenedwa potseka msonkhano wa Bungwe Lauzimu.   O Mulungu! O Mulungu! Kuchokera ku ufumu wosaoneka wa umodzi Wanu tioneni ife tasonkhana mu msokhano wa uzimuwu, kukhulupirira mwa Inu, kukhulupirira zizindikiro Zanu, wolimba mu Pangano ndi Mawu Anu, okopedwa kwa Inu, tiyatseni ife ndi moto wa chikondi Chanu ndi kukhukupirika ku Chipembedzo Chanu.  Ndife antchito m'munda Wanu, ofalitsa Chipembedzo Chanu, okhulupirika okupembedzani Inu, odzichepetsa kwa okondedwa Anu, odzitsitsa pa chitseko Chanu, ndipo tikukupemphani Inu kutilimbikitsa ife potumikira osankhika Anu, kutithandiza ife ndi makamu Anu osaoneka, kutilimbikitsa ife mukutumikira ndi kutipanga ife odzipereka ndi okonda kuyankhula ndi Inu.  O Ambuye athu! Ndife ofooka, ndipo Inu ndi Wamphamvu, Wanyonga. Ndife opanda moyo, ndipo Inu Mzimu wopereka moyo, Ndife osowa, ndipo Inu ndi Wokwaniritsidwa, Wamphamvu.  O Ambuye athu! Tembenuzirani nkhope zathu ku Chifundo Chanu, tidyetseni ife kuchokera ku gome la Kumwamba Kwanu ndi Chisomo Chanu chosefukira, tithandizeni ife ndi makamu a angelo Anu ndi kutilimbikitsa ife kupyolera mwa oyera a mu Ufumu wa Abhá.  Indetu, Inu Ndinu Wopatsa, Wachifundo. Inu Ndinu Mwini wa Mphatso zonse, ndipo, indetu, Inu Ndinu Wachisoni ndi wa Chisomo.
 
 -- Abdu'l-Bahá
 
-bpn13454 «[Chichewa](../ny/prayers/#bpn13454)» 
+bpn13454 
 
 ----
 
@@ -191,7 +192,7 @@ O Inu Wamphamvu zonse! Ine ndine wochimwa, koma Inu Ndinu Wokhululukira! Ine ndi
 
 -- Abdu'l-Bahá
 
-bpn13455 «[Chichewa](../ny/prayers/#bpn13455)» 
+bpn13455 
 
 ----
 
@@ -205,7 +206,7 @@ O Ambuye wanga! Inu Mudziwa kuti wanthu azunguliridwa ndi zowawa ndi matsoka ndi
 
 -- Abdu'l-Bahá
 
-bpn13456 «[Chichewa](../ny/prayers/#bpn13456)» 
+bpn13456 
 
 ----
 
@@ -219,7 +220,7 @@ O Mulungu wanga! Ndikupemphani, kubzolera mdzina Lanu la Ulemelero, kundithandiz
 
 -- Bahá'u'lláh
 
-bpn13457 «[Chichewa](../ny/prayers/#bpn13457)» 
+bpn13457 
 
 ----
 
@@ -229,7 +230,7 @@ Ambuye! Ife ndife womvetsa chisoni, tipatseni chifundo Chanu; ndife wosauka, tip
 
 -- Abdu'l-Bahá
 
-bpn13458 «[Chichewa](../ny/prayers/#bpn13458)» 
+bpn13458 
 
 ----
 
@@ -243,7 +244,7 @@ O Mulungu! O Mulungu! Timwetseni ife kuchokera mchikho cha chaulere Chanu. Walit
 
 -- Abdu'l-Bahá
 
-bpn13459 «[Chichewa](../ny/prayers/#bpn13459)» 
+bpn13459 
 
 ----
 
@@ -253,7 +254,7 @@ O Mulungu, nditsogozeni, nditetezeni, ndipangeni kukhala nyali yowala ndi nyenye
 
 -- Abdu'l-Bahá
 
-bpn13460 «[Chichewa](../ny/prayers/#bpn13460)» 
+bpn13460 
 
 ----
 
@@ -267,17 +268,17 @@ Dzina Lanu ndilo kuchira kwanga, O Mulungu wanga, ndipo kukumbukira Inu ndi mank
 
 -- Bahá'u'lláh
 
-bpn13461 «[Chichewa](../ny/prayers/#bpn13461)» 
+bpn13461 
 
 ----
 
 
 <a id="bpn13462"></a> 
-Ulemerero ukhale kwa Inu, O Mbuye Mulungu wanga! Ndikupemphani Inu m&#39;dzina Lanu. kupyolera mmene Iye Amene Ndiye kukongola Kwanu, wakhazikitsidwa pa ufumu wa Chipembedzo Chanu, ndipo ndi m&#39;dzina Lanu kupyolera m&#39;lomwero musintha zinthu zonse ndipo musonkhanitsa zinthu zonse pamodzi, ndi kuitana zinthu zonse ku bwalo ndikusupa zinthu zonse, ndi kuteteza zinthu zonse. Ndikupemphani Inu kulondera mdzakaziyu amene wathawira ku mpumulo Wanu ndipo wafunafuna mthunzi wa Amene mwa Iye Inu mwaonekeramo ndipo waika chikhulupiriro ndi chigomezero chake chonse mwa Inu.  Mdzakaziyu akudwala, O Mulungu wanga ndipo walowa kunsi kwa mthunzi wa Mtengo wa machiritso Anu, wokanthidwa, ndipo wathawira ku Mzinda wa chitetezo Chanu, wadwala, ndipo wafunafuna Mutu wa Kasupe wa kukoma mtima Kwanu; wobuwula ndi ululu, ndipo wakangazira kuti akapeze Chitsime cha Mweza wa kudekha Kwanu; walemedwa ndi tchimo, ndipo walunjikitsa nkhope yake ku bwalo la chikhululukiro Chanu.  Muvekeni iye, mwa ulamuliro Wanu ndiponso mwa chikondi cha kukoma mtima Kwanu, O Mulungu wanga ndi Wokondedwa wanga, ndi chovala cha chitonthozo ndi kuchiritsa Kwanu, ndipo mpangeni iye kumwera mu chikho cha chifundo ndi kukoma mtima Kwanu. Mtetezeni iye, makamaka ku zovuta ndi zopweteka zonse, ku zowawa zonse ndi matenda ndiponso kuchokera ku chiri chonse choyipa kwa Inu.  Inu, m&#39;chowonadi, Muli Wokwezeka kopambana pamwamba pa zonse kupatula Inu Mwini. Inu indetu, Ndinu Wochiza, Wokwaniritsa Zonse, Msungi, Wokhululukira, Wachifundo chopambana.
+Ulemerero ukhale kwa Inu, O Mbuye Mulungu wanga! Ndikupemphani Inu m'dzina Lanu. kupyolera mmene Iye Amene Ndiye kukongola Kwanu, wakhazikitsidwa pa ufumu wa Chipembedzo Chanu, ndipo ndi m'dzina Lanu kupyolera m'lomwero musintha zinthu zonse ndipo musonkhanitsa zinthu zonse pamodzi, ndi kuitana zinthu zonse ku bwalo ndikusupa zinthu zonse, ndi kuteteza zinthu zonse. Ndikupemphani Inu kulondera mdzakaziyu amene wathawira ku mpumulo Wanu ndipo wafunafuna mthunzi wa Amene mwa Iye Inu mwaonekeramo ndipo waika chikhulupiriro ndi chigomezero chake chonse mwa Inu.  Mdzakaziyu akudwala, O Mulungu wanga ndipo walowa kunsi kwa mthunzi wa Mtengo wa machiritso Anu, wokanthidwa, ndipo wathawira ku Mzinda wa chitetezo Chanu, wadwala, ndipo wafunafuna Mutu wa Kasupe wa kukoma mtima Kwanu; wobuwula ndi ululu, ndipo wakangazira kuti akapeze Chitsime cha Mweza wa kudekha Kwanu; walemedwa ndi tchimo, ndipo walunjikitsa nkhope yake ku bwalo la chikhululukiro Chanu.  Muvekeni iye, mwa ulamuliro Wanu ndiponso mwa chikondi cha kukoma mtima Kwanu, O Mulungu wanga ndi Wokondedwa wanga, ndi chovala cha chitonthozo ndi kuchiritsa Kwanu, ndipo mpangeni iye kumwera mu chikho cha chifundo ndi kukoma mtima Kwanu. Mtetezeni iye, makamaka ku zovuta ndi zopweteka zonse, ku zowawa zonse ndi matenda ndiponso kuchokera ku chiri chonse choyipa kwa Inu.  Inu, m'chowonadi, Muli Wokwezeka kopambana pamwamba pa zonse kupatula Inu Mwini. Inu indetu, Ndinu Wochiza, Wokwaniritsa Zonse, Msungi, Wokhululukira, Wachifundo chopambana.
 
 -- Bahá'u'lláh
 
-bpn13462 «[Chichewa](../ny/prayers/#bpn13462)» 
+bpn13462 
 
 ----
 
@@ -291,7 +292,7 @@ O Ambuye wanga, wokondedwa wanga, khumbo langa! Khalani bwenzi langa pamene ndil
 
 -- Abdu'l-Bahá
 
-bpn13463 «[Chichewa](../ny/prayers/#bpn13463)» 
+bpn13463 
 
 ----
 
@@ -301,7 +302,7 @@ O Ambuye wanga Wolemekezeka! Ndithandizeni kuleka malingaliro osayenera; kugonje
 
 -- Abdu'l-Bahá
 
-bpn13464 «[Chichewa](../ny/prayers/#bpn13464)» 
+bpn13464 
 
 ----
 
@@ -311,11 +312,11 @@ bpn13464 «[Chichewa](../ny/prayers/#bpn13464)»
 ## KUDZIPEREKA
 
 <a id="bpn13465"></a> 
-Mulungu pangeni kukhala bango la Mphako, mmene thima la kudzikonda lakolokotedwamo, tsono kuti ndi khale mphako yoyera mmene chikondi Chanu chingadutsire popita kwa ena. Ndasiya mbuyo mwanga kusadekha ndi kusakhutira. Ndidzipereka ndekha kwa thunthu mmanja Mwanu, pakuti Ndinu Chitsogozo Changa mchipalamba, Mphunzitsi wa umbuli wanga. Sing&#39;anga wa nthenda yanga. Ndine msilikali mgulu la nkhondo la Mfumu yanga, ndapereka chifuniro changa kwa Iye ndi moyo wanga-kuti Achite nawo mmene Iye Afunira. Sindidziwa tsogolo ndi lotani mwandikonzera ine, ndiponso sindifuna kufufunza kapena kufuna kudziwa. Tchito m&#39;tsiku indikwanira ndipo tsogolo lonse liri Lanu.  Pang&#39;ono ndi pang&#39;ono Inu musintha kufooka kukhala nyonga, kukaika kukhala kukhulupirira, kusokonezeka kukhala kumvetsetsa. Pomwe ndi oyenera kusenza chipsinjo, Inu Muchiyedzeka pa phewa langa. Pamene ndakonzeka kulowa m&#39;thengo, Inu Mundipatsa malo m’gulu la nkhondo la kuwala. Tsopano ndiribe ntchito ina yoposa kumvala zirimbe muntchito Yanu. Ndi kufunitsitsa ndiponso kudekha, ndi chiyembekezo ndiponso kuthokoza ndi weramira ku ntchito ya ora lino, kuopa kuti; pamene kuitana Kwanu kudza ndingapezeke osakonzeka.
+Mulungu pangeni kukhala bango la Mphako, mmene thima la kudzikonda lakolokotedwamo, tsono kuti ndi khale mphako yoyera mmene chikondi Chanu chingadutsire popita kwa ena. Ndasiya mbuyo mwanga kusadekha ndi kusakhutira. Ndidzipereka ndekha kwa thunthu mmanja Mwanu, pakuti Ndinu Chitsogozo Changa mchipalamba, Mphunzitsi wa umbuli wanga. Sing'anga wa nthenda yanga. Ndine msilikali mgulu la nkhondo la Mfumu yanga, ndapereka chifuniro changa kwa Iye ndi moyo wanga-kuti Achite nawo mmene Iye Afunira. Sindidziwa tsogolo ndi lotani mwandikonzera ine, ndiponso sindifuna kufufunza kapena kufuna kudziwa. Tchito m'tsiku indikwanira ndipo tsogolo lonse liri Lanu.  Pang'ono ndi pang'ono Inu musintha kufooka kukhala nyonga, kukaika kukhala kukhulupirira, kusokonezeka kukhala kumvetsetsa. Pomwe ndi oyenera kusenza chipsinjo, Inu Muchiyedzeka pa phewa langa. Pamene ndakonzeka kulowa m'thengo, Inu Mundipatsa malo m’gulu la nkhondo la kuwala. Tsopano ndiribe ntchito ina yoposa kumvala zirimbe muntchito Yanu. Ndi kufunitsitsa ndiponso kudekha, ndi chiyembekezo ndiponso kuthokoza ndi weramira ku ntchito ya ora lino, kuopa kuti; pamene kuitana Kwanu kudza ndingapezeke osakonzeka.
 
 -- Abdu'l-Bahá
 
-bpn13465 «[Chichewa](../ny/prayers/#bpn13465)» 
+bpn13465 
 
 ----
 
@@ -329,7 +330,7 @@ O Ambuye Mulungu Wanga! Thandizani wokondedwa Anu kukhala wolimba m’chikhulupi
 
 -- Abdu'l-Bahá
 
-bpn13466 «[Chichewa](../ny/prayers/#bpn13466)» 
+bpn13466 
 
 ----
 
@@ -343,7 +344,7 @@ O Mulungu! O Mulungu! Ino ndi mbalame yothyoka phiko ndipo kuwuluka kwake ndi kw
 
 -- Abdu'l-Bahá
 
-bpn13467 «[Chichewa](../ny/prayers/#bpn13467)» 
+bpn13467 
 
 ----
 
@@ -353,7 +354,7 @@ O Inu Mulungu Wosafaniziridwa! O Inu Ambuye wa Ufumu! Miyoyo iyi ndi ankhondo An
 
 -- Abdu'l-Bahá
 
-bpn13468 «[Chichewa](../ny/prayers/#bpn13468)» 
+bpn13468 
 
 ----
 
@@ -363,7 +364,7 @@ O Mulungu wanga! O Mulungu wanga! Inu mukundiona ine mukutsika kwanga ndi kufook
 
 -- Abdu'l-Bahá
 
-bpn13469 «[Chichewa](../ny/prayers/#bpn13469)» 
+bpn13469 
 
 ----
 
@@ -377,7 +378,7 @@ Mayamiko akhale kwa Inu, O Ambuye Mulungu wanga! Ndikupemphani Inu mwa Chibvumbu
 
 -- Bahá'u'lláh
 
-bpn13445 «[Chichewa](../ny/prayers/#bpn13445)» 
+bpn13445 
 
 ----
 
@@ -391,7 +392,7 @@ Likuzike Dzina Lanu, O Ambuye Mulungu wanga! Inu ndi Iye amene zinthu zonse zimp
 
 -- Bahá'u'lláh
 
-bpn13470 «[Chichewa](../ny/prayers/#bpn13470)» 
+bpn13470 
 
 ----
 
@@ -405,7 +406,7 @@ O Mulungu wanga, Mbuye wanga, mathero Achofuna changa, uyu, wantchito Wanu, afun
 
 -- Bahá'u'lláh
 
-bpn13443 «[Chichewa](../ny/prayers/#bpn13443)» 
+bpn13443 
 
 ----
 
@@ -415,7 +416,7 @@ bpn13443 «[Chichewa](../ny/prayers/#bpn13443)»
 
 -- Abdu'l-Bahá
 
-bpn13444 «[Chichewa](../ny/prayers/#bpn13444)» 
+bpn13444 
 
 ----
 
@@ -429,7 +430,7 @@ Kuwala ndi ulemelero, malonje ndi mayamiko zikhale pa Manja a Ntchito Yake amene
 
 -- Bahá'u'lláh
 
-bpn13471 «[Chichewa](../ny/prayers/#bpn13471)» 
+bpn13471 
 
 ----
 
@@ -443,7 +444,7 @@ Inu Ambuye wachifundo! Awa ndi antchito Anu amene akumana mu msonkhano uno, atem
 
 -- Abdu'l-Bahá
 
-bpn13472 «[Chichewa](../ny/prayers/#bpn13472)» 
+bpn13472 
 
 ----
 
@@ -457,7 +458,7 @@ O Ambuye Wachisoni! Inu Amene Muli Wopatsa ndi Wachifundo! Ife tiri woperekera z
 
 -- Abdu'l-Bahá
 
-bpn13473 «[Chichewa](../ny/prayers/#bpn13473)» 
+bpn13473 
 
 ----
 
@@ -471,7 +472,7 @@ O Mulungu wanga ndi Mbuye wanga! Ine ndine wantchito Wanu, ndi mwana wantchito W
 
 -- Bahá'u'lláh
 
-bpn13441 «[Chichewa](../ny/prayers/#bpn13441)» 
+bpn13441 
 
 ----
 
@@ -485,7 +486,7 @@ Ndauka mu chifungatiro Chanu, O Mulungu wanga, ndipo ndikoyenera kwa iye wofuna 
 
 -- Bahá'u'lláh
 
-bpn13442 «[Chichewa](../ny/prayers/#bpn13442)» 
+bpn13442 
 
 ----
 
@@ -499,7 +500,7 @@ Ulemelero ukhale kwa Inu, O Ambuye Mulungu wanga! Musanyasidwe naye iye amene In
 
 -- Bahá'u'lláh
 
-bpn13474 «[Chichewa](../ny/prayers/#bpn13474)» 
+bpn13474 
 
 ----
 
@@ -509,7 +510,7 @@ Iye ndi Mulungu, ndi Iye Wokwezeka, Ambuye wokoma mtima ndi wa chaulere! Ulemele
 
 -- Bahá'u'lláh
 
-bpn13475 «[Chichewa](../ny/prayers/#bpn13475)» 
+bpn13475 
 
 ----
 
@@ -519,7 +520,7 @@ bpn13475 «[Chichewa](../ny/prayers/#bpn13475)»
 
 -- Abdu'l-Bahá
 
-bpn13476 «[Chichewa](../ny/prayers/#bpn13476)» 
+bpn13476 
 
 ----
 
@@ -533,7 +534,7 @@ O Mulungu, Mulungu wanga! Atchingireni atumiki Anu wokhulupirika ku zoyipa za ku
 
 -- Abdu'l-Bahá
 
-bpn13477 «[Chichewa](../ny/prayers/#bpn13477)» 
+bpn13477 
 
 ----
 
@@ -547,7 +548,7 @@ Iye Ndiye Mfumu, Wodziwa zonse, Wanzeru! Taonani, Mbalame ya M’Paradiso iyimba
 
 -- Bahá'u'lláh
 
-bpn13478 «[Chichewa](../ny/prayers/#bpn13478)» 
+bpn13478 
 
 ----
 
@@ -557,11 +558,11 @@ bpn13478 «[Chichewa](../ny/prayers/#bpn13478)»
 ## PEMPHERO LA MOTO
 
 <a id="bpn13479"></a> 
-Pemphero lowululidwa ndi Bahá’u’lláh lotchedwa “QadIhtaraqa ‘I-Mukhlisun”   Mdzina la Chauta, Mkhala kale, Wamkulukulu  Ndithudi mitima ya okoma mtima yamezedwa ndi moto wampatuko: Lilikuti dangaliro lakuwala kwa maonekedwe Anu? O Okondedwa a mayiko?  Iwo okhala chifupi Nanu afulatiridwa Mu mdima wandiwe yani: Nanga kuli kuti kuwala kwa mbandakucha wa kugwirizananso ndi Inu? O Khumbo la mayiko. Matupi ya osankhidwa Anu ali chigonere wozizidwa pa mchenga wakutali Ili kuti nyanja ya kupezeka Kwanu, O Inu Odabwitsa wa mayiko?  Manja yofunafuna yakwezedwa kumwamba kwa Chisomo Chanu ndi kuwolowa manja. Ili kuti mvula yakupatsa Kwanu, O Woyankha a mayiko? Osakhulupirira akwezeka nkhanza mbali zonse mmanja mwawo: Ili kuti mphamvu yakukaniza ya Cholembera Cha chilamulocho, O Ngwazi ya mayiko?  Kubwentha kwa agalu kwakula mbali zonse: Uli kuti mkango wamnkhalango ya ukulu Wanu, O Namkungwi wa mayiko? Chisanu chakutira anthu onse: Chili kuti chifundizi cha chikondi Chanu, O Moto wa mayiko?  Masautso afika pa msinkhu wake: Zili kuti zizindikiro za chitsogozo Chanu, O Chipulumutso cha mayiko? Mdima wakutira anthu ambiri: Kuli kuti kunyezimira kwa Ukulu Wanu, O Dangaliro la mayiko?  Makosi ya wanthu yasololokera ku umbanda: Nanga yali kuti malupanga yakulipsira Kwanu, O Wowononga wa mayiko? Kutsika kwafikapo pa mathero: Chili kuti chipilala cha chikumbutso cha Ulemelero Wanu, O Ulemerero wa mayiko?  Masautso amukuta Mvumbulutsi wa Dzina Lanu, wa Chifundo Chonse: Chili kuti chisangalalo cha kasupe wa tsiku la Chivumbulutso Chanu, O Chimwemwe cha mayiko? Mabvuto akulu awagwera anthu apadziko: Nanga chilikuti chizindikiro cha chimwemwe Chanu, O Chisangalaro cha mayiko?  Taonani malo a mbandakucha wa zizindikiro Zanu yamvekedwa ndi maganizo onyansa: Zili kuti zala za ukulu Wanu, O mphamvu za mayiko? Ludzu lagwira anthu anu onse: Uli kuti Mtsinje wa kuolawa manja Kwanu, O Chifundo cha mayiko?  Umbombo wagwira ukapolo anthu a padziko: Nanga kupatsa kwa umataya kuli kuti, O Ambuye wa mayiko? Taonani uyu wolakwiridwayo yekhayekha kuchilendo: Ali kuti ochereza akumwamba Kwa Chilamulo Chanu, O Wamkulu wa mayiko  Ndafulatiridwa ku dziko lachilendo: Chili kuti chizindikiro cha kukhulupirira Kwanu, O Wokhulupirira wa mayiko? Mpweteko wa imfa wayalidwa pa anthu onse: Nanga nyanja Yanu youluma yamoyo osatha ili kuti, O Moyo wa mayiko?  Kunong&#39;ona kwa satana kwa nong&#39;oneza cholengedwa chiri chonse: Nyenyezi zakugwa za moto wanu zili kuti, O Kuwala kwa mayiko? Uchidakwa wa udani wasintha mtundu wa anthu ambiri Ali kuti masiku a ungwiro, O Khumbo la mayiko?  Taonani Olakwiridwayo wamvekedwa ndi mazunzo pakati pa ma Siriya: Lili kuti Dangaliro la kuwala kwa mbandakucha Wanu, O Kuwala kwa mayiko? Taonani Ndaletsedwa kuyankhula: Tsono ndikuti kudzachokera kasupe wa nthetemya Zanu, O Mbalame ya mayiko?  Anthu ambiri akutidwa mu zikhulupiriro ndi maganizo osathandiza: Nanga zili kuti mboni za chitsimikizo Chanu, O Wotsimikiza wa mayiko? Bahá alinkutitimira m&#39;nyanja ya msautso: Chili kuti Chombo cha chiombolo Chanu, O Mpulumutsi wa mayiko? Taonani Tsiku la Kasupe wa mawu Anu mu mdima wa chilengedwe: Dzuwa lamlengalenga wa chisomo Chanu lili kuti? O Woninkha Kuwala mayiko?  Nyali za chowonadi ndi chiyero, zakumvera ndi ulemu zazimitsidwa: Nanga zizindikiro za mkwiyo obwezera zili kuti, O Choyenda cha mayiko?Kodi simudamuoneko amene wapambana mwa Inu Mwini kapena amene asinkhasinkha pa zomwe zamugwera Iye mu njira ya Chikondi Chanu?  Tsopano cholembera changa chaima, O Wokondedwa wa mayiko. Nthambi za Uzimu za mtengo wa Lote, zakhadzuka kamba ka mphepo ya mkuntho ya chikonzero: Nanga zisalu zakutchinga Kwanu zili kuti, O Ngwazi ya mayiko?  Nkhopeyi yaphimbika mu dothi la mabodza: Uli kuti mweya wa chisoni Chanu, O Chifundo cha mayiko? Chovala chonyezima chadetsedwa ndi anthu a mabodza: Nanga chiyerocho chili kuti, O Okongoletsa mayiko?  Nyanja ya chisomo yadetsedwa ndi zomwe manja ya anthu yadzetsa: Ali kuti mafunde a mphatso Yanu, O Khumbo la mayiko? Khomo lotengera ku Malo a Uzimu lakhomedwa kudzera mmantha ya mazunzo Yanu: Uli kuti mpiringidzo wa kuwolowa manja Kwanu, O wotsegula wa mayiko?  Masamba yachita chikasu ndi mphepo zowononga ya poizoni: Ili kuti mitambo ya mvula yakuwolowa manja kwanu, O Wopatsa wa mayiko? Chilengedwe chadetsedwa ndi donthi la chifwirimbiti cha machimo: Uli kuti mweya wa kukhululukira Kwanu, O Wokhululukira wa mayiko?  Taonani mnyamatayu ali yekha m’chipululu: Ili kuti mvula ya chisomo cha kumwamba Kwanu, O Wopatsa wa mayiko? O Cholembela Chopatulika, Tamva kuitana konzuna mu dziko la ulemelero: Perekani khutu ku chimene Lilime lalikulu linena, O Wolakwiridwa wa mayiko!  Sichifukwa cha kuzizira, Kutentha kwa mawu anu kudakawululidwa, O Wofotokoza mwatchutchu wa mayiko? Sichifukwa cha mabvuto, Dzuwa la kudekha Kwanu lidakawala bwanji, O Wowala wa mayiko? Usalire chifukwa cha ochimwa. Iwe unalengedwa kuti ulimbe ndi kukumana nazo, O Wodekha wa mayiko? Kuzuna kwake m’kotani kwa mzere wa mbandakucha wa Pangano pakati pa anthu osokoneza, ndi chofuna Chanu kwa Mulungu, O Wokonda wa mayiko. Chifukwa cha Inu chinsalu cha mtendere chaikidwa pa mwamba pa mapiri, ndipo nyanja ya chaulere ikuyendayenda, O Wong’anima wa mayiko? Ndi kukhala Kwanu Dzuwa la Umodzi wanu lawala, ndi kuthamangitsidwa Kwanu dziko la Umodzi lapezeka. Khalani odekha, O Inu othamangitsidwa wa mayiko. Tapanga kutsitsidwa kukhala chobvala cha ulemelero, ndipo mabvuto chokongoletsera cha chihema Chanu, O Chonyaditsa cha mayiko.  Taonani mitima yadzala ndi udani, ndipo kusalabadira ndi Kwanu. O Inu wofufuta machimo wa mayiko. Pamene malupanga adza, pitani patsogolo! Pamene misikiro iwuluka, musaleke! O Inu wodzipereka wa mayiko? Kodi simulira, kapena ndidzalire? Kapena ndilire chifukwa cha kuchepa kwa ngwazi Zanu. O Inu Amene mwapangitsa dziko kulira. Indetu, Ndamva kuitana Kwanu, O Wokondedwa wa Ulemerero Wonse; ndipo tsopano khope ya Bahá iwala ndi chifundizi cha mabvuto ndi moto wa kuwala kwa mawu Anu, ndipo Iye wayimirira mu chikhulupiliro pa malo a kudzipereka, kuyang’ana pa Khumbo Lanu. O Wopereka wa mayiko.  O &#39;Alí-Akbar, Pereka matamando kwa Ambuye wako chifukwa cha Pempheroli kuti upumeko kunukhira kwa mawu Anga, ndipo ziwani chimene chatisautsa Ife njira ya Mulungu, wokondeka wa mayiko onse. Ndipo ngati onse atumiki awerenga ndi kulingalira ichi, mudzayatsidwa mitsempha yawo moto umene udzayatsa lawi kudziko lonse.
+Pemphero lowululidwa ndi Bahá’u’lláh lotchedwa “QadIhtaraqa ‘I-Mukhlisun”   Mdzina la Chauta, Mkhala kale, Wamkulukulu  Ndithudi mitima ya okoma mtima yamezedwa ndi moto wampatuko: Lilikuti dangaliro lakuwala kwa maonekedwe Anu? O Okondedwa a mayiko?  Iwo okhala chifupi Nanu afulatiridwa Mu mdima wandiwe yani: Nanga kuli kuti kuwala kwa mbandakucha wa kugwirizananso ndi Inu? O Khumbo la mayiko. Matupi ya osankhidwa Anu ali chigonere wozizidwa pa mchenga wakutali Ili kuti nyanja ya kupezeka Kwanu, O Inu Odabwitsa wa mayiko?  Manja yofunafuna yakwezedwa kumwamba kwa Chisomo Chanu ndi kuwolowa manja. Ili kuti mvula yakupatsa Kwanu, O Woyankha a mayiko? Osakhulupirira akwezeka nkhanza mbali zonse mmanja mwawo: Ili kuti mphamvu yakukaniza ya Cholembera Cha chilamulocho, O Ngwazi ya mayiko?  Kubwentha kwa agalu kwakula mbali zonse: Uli kuti mkango wamnkhalango ya ukulu Wanu, O Namkungwi wa mayiko? Chisanu chakutira anthu onse: Chili kuti chifundizi cha chikondi Chanu, O Moto wa mayiko?  Masautso afika pa msinkhu wake: Zili kuti zizindikiro za chitsogozo Chanu, O Chipulumutso cha mayiko? Mdima wakutira anthu ambiri: Kuli kuti kunyezimira kwa Ukulu Wanu, O Dangaliro la mayiko?  Makosi ya wanthu yasololokera ku umbanda: Nanga yali kuti malupanga yakulipsira Kwanu, O Wowononga wa mayiko? Kutsika kwafikapo pa mathero: Chili kuti chipilala cha chikumbutso cha Ulemelero Wanu, O Ulemerero wa mayiko?  Masautso amukuta Mvumbulutsi wa Dzina Lanu, wa Chifundo Chonse: Chili kuti chisangalalo cha kasupe wa tsiku la Chivumbulutso Chanu, O Chimwemwe cha mayiko? Mabvuto akulu awagwera anthu apadziko: Nanga chilikuti chizindikiro cha chimwemwe Chanu, O Chisangalaro cha mayiko?  Taonani malo a mbandakucha wa zizindikiro Zanu yamvekedwa ndi maganizo onyansa: Zili kuti zala za ukulu Wanu, O mphamvu za mayiko? Ludzu lagwira anthu anu onse: Uli kuti Mtsinje wa kuolawa manja Kwanu, O Chifundo cha mayiko?  Umbombo wagwira ukapolo anthu a padziko: Nanga kupatsa kwa umataya kuli kuti, O Ambuye wa mayiko? Taonani uyu wolakwiridwayo yekhayekha kuchilendo: Ali kuti ochereza akumwamba Kwa Chilamulo Chanu, O Wamkulu wa mayiko  Ndafulatiridwa ku dziko lachilendo: Chili kuti chizindikiro cha kukhulupirira Kwanu, O Wokhulupirira wa mayiko? Mpweteko wa imfa wayalidwa pa anthu onse: Nanga nyanja Yanu youluma yamoyo osatha ili kuti, O Moyo wa mayiko?  Kunong'ona kwa satana kwa nong'oneza cholengedwa chiri chonse: Nyenyezi zakugwa za moto wanu zili kuti, O Kuwala kwa mayiko? Uchidakwa wa udani wasintha mtundu wa anthu ambiri Ali kuti masiku a ungwiro, O Khumbo la mayiko?  Taonani Olakwiridwayo wamvekedwa ndi mazunzo pakati pa ma Siriya: Lili kuti Dangaliro la kuwala kwa mbandakucha Wanu, O Kuwala kwa mayiko? Taonani Ndaletsedwa kuyankhula: Tsono ndikuti kudzachokera kasupe wa nthetemya Zanu, O Mbalame ya mayiko?  Anthu ambiri akutidwa mu zikhulupiriro ndi maganizo osathandiza: Nanga zili kuti mboni za chitsimikizo Chanu, O Wotsimikiza wa mayiko? Bahá alinkutitimira m'nyanja ya msautso: Chili kuti Chombo cha chiombolo Chanu, O Mpulumutsi wa mayiko? Taonani Tsiku la Kasupe wa mawu Anu mu mdima wa chilengedwe: Dzuwa lamlengalenga wa chisomo Chanu lili kuti? O Woninkha Kuwala mayiko?  Nyali za chowonadi ndi chiyero, zakumvera ndi ulemu zazimitsidwa: Nanga zizindikiro za mkwiyo obwezera zili kuti, O Choyenda cha mayiko?Kodi simudamuoneko amene wapambana mwa Inu Mwini kapena amene asinkhasinkha pa zomwe zamugwera Iye mu njira ya Chikondi Chanu?  Tsopano cholembera changa chaima, O Wokondedwa wa mayiko. Nthambi za Uzimu za mtengo wa Lote, zakhadzuka kamba ka mphepo ya mkuntho ya chikonzero: Nanga zisalu zakutchinga Kwanu zili kuti, O Ngwazi ya mayiko?  Nkhopeyi yaphimbika mu dothi la mabodza: Uli kuti mweya wa chisoni Chanu, O Chifundo cha mayiko? Chovala chonyezima chadetsedwa ndi anthu a mabodza: Nanga chiyerocho chili kuti, O Okongoletsa mayiko?  Nyanja ya chisomo yadetsedwa ndi zomwe manja ya anthu yadzetsa: Ali kuti mafunde a mphatso Yanu, O Khumbo la mayiko? Khomo lotengera ku Malo a Uzimu lakhomedwa kudzera mmantha ya mazunzo Yanu: Uli kuti mpiringidzo wa kuwolowa manja Kwanu, O wotsegula wa mayiko?  Masamba yachita chikasu ndi mphepo zowononga ya poizoni: Ili kuti mitambo ya mvula yakuwolowa manja kwanu, O Wopatsa wa mayiko? Chilengedwe chadetsedwa ndi donthi la chifwirimbiti cha machimo: Uli kuti mweya wa kukhululukira Kwanu, O Wokhululukira wa mayiko?  Taonani mnyamatayu ali yekha m’chipululu: Ili kuti mvula ya chisomo cha kumwamba Kwanu, O Wopatsa wa mayiko? O Cholembela Chopatulika, Tamva kuitana konzuna mu dziko la ulemelero: Perekani khutu ku chimene Lilime lalikulu linena, O Wolakwiridwa wa mayiko!  Sichifukwa cha kuzizira, Kutentha kwa mawu anu kudakawululidwa, O Wofotokoza mwatchutchu wa mayiko? Sichifukwa cha mabvuto, Dzuwa la kudekha Kwanu lidakawala bwanji, O Wowala wa mayiko? Usalire chifukwa cha ochimwa. Iwe unalengedwa kuti ulimbe ndi kukumana nazo, O Wodekha wa mayiko? Kuzuna kwake m’kotani kwa mzere wa mbandakucha wa Pangano pakati pa anthu osokoneza, ndi chofuna Chanu kwa Mulungu, O Wokonda wa mayiko. Chifukwa cha Inu chinsalu cha mtendere chaikidwa pa mwamba pa mapiri, ndipo nyanja ya chaulere ikuyendayenda, O Wong’anima wa mayiko? Ndi kukhala Kwanu Dzuwa la Umodzi wanu lawala, ndi kuthamangitsidwa Kwanu dziko la Umodzi lapezeka. Khalani odekha, O Inu othamangitsidwa wa mayiko. Tapanga kutsitsidwa kukhala chobvala cha ulemelero, ndipo mabvuto chokongoletsera cha chihema Chanu, O Chonyaditsa cha mayiko.  Taonani mitima yadzala ndi udani, ndipo kusalabadira ndi Kwanu. O Inu wofufuta machimo wa mayiko. Pamene malupanga adza, pitani patsogolo! Pamene misikiro iwuluka, musaleke! O Inu wodzipereka wa mayiko? Kodi simulira, kapena ndidzalire? Kapena ndilire chifukwa cha kuchepa kwa ngwazi Zanu. O Inu Amene mwapangitsa dziko kulira. Indetu, Ndamva kuitana Kwanu, O Wokondedwa wa Ulemerero Wonse; ndipo tsopano khope ya Bahá iwala ndi chifundizi cha mabvuto ndi moto wa kuwala kwa mawu Anu, ndipo Iye wayimirira mu chikhulupiliro pa malo a kudzipereka, kuyang’ana pa Khumbo Lanu. O Wopereka wa mayiko.  O 'Alí-Akbar, Pereka matamando kwa Ambuye wako chifukwa cha Pempheroli kuti upumeko kunukhira kwa mawu Anga, ndipo ziwani chimene chatisautsa Ife njira ya Mulungu, wokondeka wa mayiko onse. Ndipo ngati onse atumiki awerenga ndi kulingalira ichi, mudzayatsidwa mitsempha yawo moto umene udzayatsa lawi kudziko lonse.
 
 -- Bahá'u'lláh
 
-bpn13479 «[Chichewa](../ny/prayers/#bpn13479)» 
+bpn13479 
 
 ----
 
@@ -575,7 +576,7 @@ O Inu Ambuye wokoma mtima! Inu mwalenga mtundu wonse wa anthu kuchokera kwa khol
 
 -- Abdu'l-Bahá
 
-bpn13480 «[Chichewa](../ny/prayers/#bpn13480)» 
+bpn13480 
 
 ----
 
@@ -589,7 +590,7 @@ bpn13480 «[Chichewa](../ny/prayers/#bpn13480)»
 
 -- Abdu'l-Bahá
 
-bpn13481 «[Chichewa](../ny/prayers/#bpn13481)» 
+bpn13481 
 
 ----
 
@@ -603,7 +604,7 @@ Ndichitira umboni, O Mulungu wanga, kuti Munandilenga ine, kuti ndikudziweni ndi
 
 -- Bahá'u'lláh
 
-bpn13438 «[Chichewa](../ny/prayers/#bpn13438)» 
+bpn13438 
 
 ----
 
@@ -613,11 +614,11 @@ bpn13438 «[Chichewa](../ny/prayers/#bpn13438)»
 ## PEMPHERO LOKAKAMIZA LALITALI
 
 <a id="bpn13440"></a> 
-*Iye amene afuna kunena Pempheroli, ayenera kuyimirira ndipo atembenukire kwa Mulungu, ndipo poimirira pamalo akewo, iye ayang’ane kudzanja lamanja ndi lamanzere, ngati kuti akuyembekezera chifundo cha Ambuye Wake, Wachifundo-Choposa, Womvera Chisoni.  Tsono  iye anene kuti:   O Inu Amene muli Ambuye wamaina onse ndi Mlengi wa miyamba! Ndikupemphani Inu kubzolera mwa iwo Amene ali kasupe a Uweniweni Wanu osaonekawo, Wokwezeka koposa, Waulemelero Onse, kuti mulipange pemphero langa, moto umene uwotche zophimba zimene zanditseka ine kuti ndisaone kukongola Kwanu, ndi kuwala kumene kunditsogolere ine ku nyanja ya kumene Inu Mukupezeka.  *Kenaka iye akweze manja ake mopempha kulozera kwa Mulungu -wodalitsika ndi wokwezeka ndi Iye – ndipo anene:  O Inu Khumbo la dziko lapansi ndi Okondedwa wa amitundu! Inu mukundiwona ine ndikutembenukira kwa Inu, ndikudzilekanitsa kwa aliyense kupatula Inu, ndi kukakamira ku chingwe Chanu, chomwe kubzolera mu mayendedwe ake chilengedwe chonse chawongoleredwa. Ndine mtumiki Wanu, O Ambuye wanga ndiponso mwana wa mtumiki Wanu. Onani ine ndili chilili kukonzekera kuchita Chifuniro Chanu ndiponso khumbo Lanu, ndi kusafuna china chilichonse kupatula chikondwerero Chanu chokoma. Ndikudandaulirani kubzolera m’nyanja ya chifundo Chanu ndi Nyenyezi ya Nthanda ya chisomo Chanu kuti muchite naye mtumiki Wanu monga momwe mufunira ndi kusangalatsidwira. Mwa nyonga zanu zomwe zili patali popitilira kutchula konse ndi chitamando chilichonse! Chimene chaululidwa ndi Inu ndikhumbo la mtima wanga ndiponso chokondedwa cha moyo wanga. &#34;O Mulungu, Mulungu wanga! Musaone zimene ndifuna ndi zochita zanga koma muone chifuniro Chanu zimene zakutila kumwamba ndi pansi pano. Mu Dzina Lanu Lalikulu Lopambana kwambiri, O Inu Ambuye wa mafuko onse! Ndikufuna zokha zimene Inu mufuna, ndipo zokha zimene Inu Mukonda.&#34;  *Kenaka iye agwade, ndikugwetsa mphumi yake pansi, anene kuti:  Okwezeka Muli Inu pamwamba pa chifotokozo cha wina aliyense kupatula Inu nokha, ndi kuzindikirika ndi kena kalikonse kupatula Inu.  *Kenaka ayimilire ndi kunena:  *“Pangani pemphero langa, O Ambuye wanga, mtsinje wa madzi a moyo pamene ndingathe kukhala moyo wautali monga m&#39;mene ufumu Wanu ungakhalire, ndipo ndingathe kutchula Inu mudziko liri lonse la Maiko Anu.&#34;  Kenaka iye akwezenso manja ake mopempha, ndipo anene:  O Inu amene polekanitsidwa Nanu mitima ndi miyoyo yosungunuka, amenenso ndi moto wa chikondi Chake dziko lonse lapansi layatsidwa! Ndikudandaulira Inu mwa Dzina Lanu kubzolera mwa lomwe Inu mwagonjetsa chilengedwe chonse, musandimane ine chimene chilli ndi Inu, O Inu Amene mulamulira anthu onse! Inu mukumuona, O Ambuye wanga, mlendoyu kuthawira kwawo kokwezeka kopambana pansi pa chophimba cha ufumu Wanu, ndi cholengedwa chosaukachi kasupe wa chuma Chanu. Yanu ndi mphamvu yolamulira chilichonse chomwe Inu mufuna. Ndichitira umboni kuti Inu muyenera kutamandidwa mu zochita Zanu, ndi kukumverani mu chilamulo Chanu, ndi kukhalabe osakakamizidwa mu ulamuliro Wanu.  *Kenaka a kweze manja ake ndi kunena Dzina Lalikulu (Alláh-u-Abhá) katatu.  *Kenaka aweramire pansi manja ali pa maondo pamaso pa Mulungu – wodalitsika ndi okwezeka akhale Iye – ndi kunena:  Inu mukuona, O Mulungu wanga, momwe mzimu wanga wagwedezekera mkati mwa nthiti ndi ziwalo zanga, mkufunitsitsa kwake kuti ukupembedzeni Inu, ndi mkulakalaka kwake kuti ukukumbukireni Inu ndi kukulemekezani Inu; momwe ukuchitira umboni mu ufumu wa chinenero Chanu ndi kumwamba kwa Nzeru Zanu. Ndikonda mu khalidwe limeneli, O Ambuye wanga, kupempha kwa Inu zonse zimene muli nazo, kuti ndilangize umphawi wanga, ndi kukulitsa chaulere Chanu ndi chuma Chanu, ndi kulengeza kufooka kwanga, ndi kuvumbula mphamvu Zanu ndi Nyonga Zanu.  *Kenaka iye ayimirire ndi kukweza manja ake kawiri mopempha, ndi kunena:  Kulibe Mulungu wina koma Inu, Wamphamvu zonse, wachaulere Chonse. Kulibe Mulungu koma Inu, mkozi, poyamba ndi pomaliza pomwe. O Mulungu, Mulungu wanga! Chikhululuko Chanu chandilimbikitsa, ndipo kuyitana kwanu kwandidzutsa, ndipo chisomo chanu chandikweza ndi kunditsogolera kwa Inu. Ndine yani, kuti ndingathe kulimba mtima kuti ndiyimilire pachipata cha mzimu woyandikira Nanu, kapenanso kulodzetsa nkhope yanga ku nyali zomwe zili kuwala kuchokera kumwamba kwa chifuniro chanu? Inu mukuona, O Ambuye wanga, cholengedwa chochititsa chisonichi chikugogoda pakhomo lachisomo Chanu, ndi moyo wakuthawu ukufunafuna mtsinje wamoyo osatha kuchokera kumanja a chaulere Chanu. Chanu ndi chilamulo nthawi zonse, O Inu Amene muli Ambuye wa maina onse, ndipo kwanga ndi kusawiringula ndi kugonjera malolera ku chifuniro Chanu, O Mlengi wa miyamba!  *Kenaka iye akweze manja ake katatu ndi kunena:  Wamkulu ndi Mulungu kuposa wamkulu aliyense!  *Kenaka iye agwade ndi kugwetsa mphumi yake pansi, ndi kunena:  Muli apamwamba zedi Inu kukutamandani kwa iwo amene ali pafupi Nanu kuti afike kumwamba pafupi Nanu, kapena mbalame za mitima ya iwo amene ali odzipereka kwa Inu kuti afikedi pa chitseko cha chipata chanu. Ndichitira umboni kuti Muli opatulika pamwamba pa zizindikiro zonse, ndiponso Woyera pamwamba pa maina onse. Palibe Mulungu wina koma Inu, wopambana koposa onse, wa Ulemerero onse.  *Kenaka akhazikike pansi ndi kunena:  Ndichitira umboni ku chimene zolengedwa zonse zachitira umboni, ndi makamu a kumwamba, ndi okhala mu Paradizo Okwezeka koposa, ndipo kuseri kwaoko lilime la ulemelero ili lomwe kuchokera ku malekezero a ulemelero onse, kuti Ndinu Mulungu, kuti kulibenso Mulungu koma Inu, ndipo kuti Iye Amene wavumbulutsidwa ndi chinsinsi chobisika, chizindikiro chosungidwa, kubzolera mwa Amene malembo B ndi E (kukhala) aphatikizana ndi kulukana pamodzi. Ndichitira umboni kuti ndi Iyeyo Amene dzina lake lalembedwa ndi Cholembera cha Wamwambamwamba, ndinso Amene watchulidwa mu Mabuku a Mulungu, Ambuye Wampando wa Chifumu m’mwambamo ndi pansi pano.  Kenaka ayimilire njo ndi kunena:  O Ambuye wa zolengedwa zonse ndi mwini wa zinthu zonse zooneka ndi zosaoneka! Inu mukuiona misozi yanga ndi zisisimo zomwe ndikunena, ndi kumvetsera ku kubuula kwanga, ndi kuchema ndi chiliro cha mtima wanga. Ndi nyonga Zanu! Zolakwa zanga zanditsekerezera kumbuyo kuti ndisayandikire Nanu; ndipo machimo anga andiyimitsa kutali kuchokera kubwalo la milandu la chiyero Chanu. Chikondi Chanu, O Ambuye wanga, chandilemeza ine, ndipo malekano ndi Inu yandiononga ine, kutalikirana ndi Inu kwandidya ine. Ndikupemphani Inu ndi mayendedwe Anu mu chipululuchi, ndiponso ndi mawu “Ndili pano, Ndili pano” amene osankhidwa Anu adalankhula mu ufumu Wanu, ndi mpumo wa Chibvumbulutso Chanu, ndi mphepo zodekha za kudza kwa Mbandakucha wa Mbvumbulutsi Wanu, kukonza kuti ndiyang’anire pa kukongola Kwanu ndi kutsata chilichonse chomwe chilli mu Bukhu Lanu.  *Kenaka iye anene Dzina Lalikulu (Alláh-u-Abhá) katatu ndi kuweramira pansi manja ali pa maondo, ndi kunena:  Mayamiko akhale kwa Inu, O Mulungu wanga, pakuti Inu mwandithandiza kukumbukira Inu ndiponso kukuyamikani Inu, ndipo mwandizindikiritsa ine Iye Amene ali Mbandakucha wa Zizindikiro Zanu, ndipo mwandipangitsa kuweramira pansi pamaso pa Umbuye Wanu, ndi kudzichepetsa pamaso pa Umulungu Wanu, ndi kuvomereza chimene chayankhulidwa ndi lilime la ukulu wanu.  *Kenaka iye aweramuke ndi kunena:  O Mulungu, Mulungu wanga! Msana wanga wawelama ndi kulemedwa kwa machimo anga, ndipo kusasamala kwanga kwandiononga ine. Ndikamaganizira kuipa kwa zochita zanga ndi chisamaliro Chanu, mtima wanga usungunuka mkati mwanga, ndipo magazi anga akuwira mkati mwa misempha yanga. Mwa kukongola Kwanu, O Inu khumbo la Dziko lapansi! Ndili ndi manyazi kukweza nkhope yanga kwa inu, ndipo manja anga olakalaka ali ndi manyazi kutambasukira kuloza kumwamba kwa chaulere Chanu. Inu mukuona, O Mulungu wanga, momwe misozi yanga ikundilepheretsa kukumbukira Inu ndi kukuza zabwino Zanu, O Inu Ambuye Wampando wa Chifumu m’mwambamo ndi dziko lapansi pano! Ndikudandaulirani mwa zizindikiro za Ufumu Wanu ndi zodabwitsa za ulamuliro Wanu kuchita ndi okondedwa Wanu monga kuyenera chaulere Chanu, O Ambuye wa zamoyo zonse, ndipo muyeneradi chisomo Chanu, O Mfumu ya zooneka ndi zosaoneka!  *Kenaka iye anene Dzina lalikulu (Alláh-u-Abhá) katatu ndi kugwada mphumi yake ili pansi ndi kunena:  Mayamiko akhale kwa Inu, O Mulungu wathu, pakuti Inu mwatitumizira ife chomwe chatisendeza m’fupi ndi Inu, ndipo mutipatse ife chabwino chilichonse chotumizidwa ndi Inu mu Mabukhu Anu ndi Malembo Anu. Titetezeni, tikupemphani Inu, O Ambuye wanga, ku makamu a malingaliro a zinthu zopanda pake, ndi maganizo achabe. Inu, ndithudi, Ndinu Wanyonga, Wodziwa Zonse.  *Kenaka awutse mutu wake ndikukhazikika pansi ndi kunena:  Ndichitira umboni, O Mulungu wanga, kuchimene osankhidwa Anu achichitira umboni, ndi kuvomereza chimene okhala ku Paradizo okwezekayo ndi iwo azinga mozungulira mpando Wanu Wamphamvu achivomereza. Maufumu adziko lapansi ndi kumwamba ndi Anu, O Ambuye wa maiko!
+*Iye amene afuna kunena Pempheroli, ayenera kuyimirira ndipo atembenukire kwa Mulungu, ndipo poimirira pamalo akewo, iye ayang’ane kudzanja lamanja ndi lamanzere, ngati kuti akuyembekezera chifundo cha Ambuye Wake, Wachifundo-Choposa, Womvera Chisoni.  Tsono  iye anene kuti:   O Inu Amene muli Ambuye wamaina onse ndi Mlengi wa miyamba! Ndikupemphani Inu kubzolera mwa iwo Amene ali kasupe a Uweniweni Wanu osaonekawo, Wokwezeka koposa, Waulemelero Onse, kuti mulipange pemphero langa, moto umene uwotche zophimba zimene zanditseka ine kuti ndisaone kukongola Kwanu, ndi kuwala kumene kunditsogolere ine ku nyanja ya kumene Inu Mukupezeka.  *Kenaka iye akweze manja ake mopempha kulozera kwa Mulungu -wodalitsika ndi wokwezeka ndi Iye – ndipo anene:  O Inu Khumbo la dziko lapansi ndi Okondedwa wa amitundu! Inu mukundiwona ine ndikutembenukira kwa Inu, ndikudzilekanitsa kwa aliyense kupatula Inu, ndi kukakamira ku chingwe Chanu, chomwe kubzolera mu mayendedwe ake chilengedwe chonse chawongoleredwa. Ndine mtumiki Wanu, O Ambuye wanga ndiponso mwana wa mtumiki Wanu. Onani ine ndili chilili kukonzekera kuchita Chifuniro Chanu ndiponso khumbo Lanu, ndi kusafuna china chilichonse kupatula chikondwerero Chanu chokoma. Ndikudandaulirani kubzolera m’nyanja ya chifundo Chanu ndi Nyenyezi ya Nthanda ya chisomo Chanu kuti muchite naye mtumiki Wanu monga momwe mufunira ndi kusangalatsidwira. Mwa nyonga zanu zomwe zili patali popitilira kutchula konse ndi chitamando chilichonse! Chimene chaululidwa ndi Inu ndikhumbo la mtima wanga ndiponso chokondedwa cha moyo wanga. "O Mulungu, Mulungu wanga! Musaone zimene ndifuna ndi zochita zanga koma muone chifuniro Chanu zimene zakutila kumwamba ndi pansi pano. Mu Dzina Lanu Lalikulu Lopambana kwambiri, O Inu Ambuye wa mafuko onse! Ndikufuna zokha zimene Inu mufuna, ndipo zokha zimene Inu Mukonda."  *Kenaka iye agwade, ndikugwetsa mphumi yake pansi, anene kuti:  Okwezeka Muli Inu pamwamba pa chifotokozo cha wina aliyense kupatula Inu nokha, ndi kuzindikirika ndi kena kalikonse kupatula Inu.  *Kenaka ayimilire ndi kunena:  *“Pangani pemphero langa, O Ambuye wanga, mtsinje wa madzi a moyo pamene ndingathe kukhala moyo wautali monga m'mene ufumu Wanu ungakhalire, ndipo ndingathe kutchula Inu mudziko liri lonse la Maiko Anu."  Kenaka iye akwezenso manja ake mopempha, ndipo anene:  O Inu amene polekanitsidwa Nanu mitima ndi miyoyo yosungunuka, amenenso ndi moto wa chikondi Chake dziko lonse lapansi layatsidwa! Ndikudandaulira Inu mwa Dzina Lanu kubzolera mwa lomwe Inu mwagonjetsa chilengedwe chonse, musandimane ine chimene chilli ndi Inu, O Inu Amene mulamulira anthu onse! Inu mukumuona, O Ambuye wanga, mlendoyu kuthawira kwawo kokwezeka kopambana pansi pa chophimba cha ufumu Wanu, ndi cholengedwa chosaukachi kasupe wa chuma Chanu. Yanu ndi mphamvu yolamulira chilichonse chomwe Inu mufuna. Ndichitira umboni kuti Inu muyenera kutamandidwa mu zochita Zanu, ndi kukumverani mu chilamulo Chanu, ndi kukhalabe osakakamizidwa mu ulamuliro Wanu.  *Kenaka a kweze manja ake ndi kunena Dzina Lalikulu (Alláh-u-Abhá) katatu.  *Kenaka aweramire pansi manja ali pa maondo pamaso pa Mulungu – wodalitsika ndi okwezeka akhale Iye – ndi kunena:  Inu mukuona, O Mulungu wanga, momwe mzimu wanga wagwedezekera mkati mwa nthiti ndi ziwalo zanga, mkufunitsitsa kwake kuti ukupembedzeni Inu, ndi mkulakalaka kwake kuti ukukumbukireni Inu ndi kukulemekezani Inu; momwe ukuchitira umboni mu ufumu wa chinenero Chanu ndi kumwamba kwa Nzeru Zanu. Ndikonda mu khalidwe limeneli, O Ambuye wanga, kupempha kwa Inu zonse zimene muli nazo, kuti ndilangize umphawi wanga, ndi kukulitsa chaulere Chanu ndi chuma Chanu, ndi kulengeza kufooka kwanga, ndi kuvumbula mphamvu Zanu ndi Nyonga Zanu.  *Kenaka iye ayimirire ndi kukweza manja ake kawiri mopempha, ndi kunena:  Kulibe Mulungu wina koma Inu, Wamphamvu zonse, wachaulere Chonse. Kulibe Mulungu koma Inu, mkozi, poyamba ndi pomaliza pomwe. O Mulungu, Mulungu wanga! Chikhululuko Chanu chandilimbikitsa, ndipo kuyitana kwanu kwandidzutsa, ndipo chisomo chanu chandikweza ndi kunditsogolera kwa Inu. Ndine yani, kuti ndingathe kulimba mtima kuti ndiyimilire pachipata cha mzimu woyandikira Nanu, kapenanso kulodzetsa nkhope yanga ku nyali zomwe zili kuwala kuchokera kumwamba kwa chifuniro chanu? Inu mukuona, O Ambuye wanga, cholengedwa chochititsa chisonichi chikugogoda pakhomo lachisomo Chanu, ndi moyo wakuthawu ukufunafuna mtsinje wamoyo osatha kuchokera kumanja a chaulere Chanu. Chanu ndi chilamulo nthawi zonse, O Inu Amene muli Ambuye wa maina onse, ndipo kwanga ndi kusawiringula ndi kugonjera malolera ku chifuniro Chanu, O Mlengi wa miyamba!  *Kenaka iye akweze manja ake katatu ndi kunena:  Wamkulu ndi Mulungu kuposa wamkulu aliyense!  *Kenaka iye agwade ndi kugwetsa mphumi yake pansi, ndi kunena:  Muli apamwamba zedi Inu kukutamandani kwa iwo amene ali pafupi Nanu kuti afike kumwamba pafupi Nanu, kapena mbalame za mitima ya iwo amene ali odzipereka kwa Inu kuti afikedi pa chitseko cha chipata chanu. Ndichitira umboni kuti Muli opatulika pamwamba pa zizindikiro zonse, ndiponso Woyera pamwamba pa maina onse. Palibe Mulungu wina koma Inu, wopambana koposa onse, wa Ulemerero onse.  *Kenaka akhazikike pansi ndi kunena:  Ndichitira umboni ku chimene zolengedwa zonse zachitira umboni, ndi makamu a kumwamba, ndi okhala mu Paradizo Okwezeka koposa, ndipo kuseri kwaoko lilime la ulemelero ili lomwe kuchokera ku malekezero a ulemelero onse, kuti Ndinu Mulungu, kuti kulibenso Mulungu koma Inu, ndipo kuti Iye Amene wavumbulutsidwa ndi chinsinsi chobisika, chizindikiro chosungidwa, kubzolera mwa Amene malembo B ndi E (kukhala) aphatikizana ndi kulukana pamodzi. Ndichitira umboni kuti ndi Iyeyo Amene dzina lake lalembedwa ndi Cholembera cha Wamwambamwamba, ndinso Amene watchulidwa mu Mabuku a Mulungu, Ambuye Wampando wa Chifumu m’mwambamo ndi pansi pano.  Kenaka ayimilire njo ndi kunena:  O Ambuye wa zolengedwa zonse ndi mwini wa zinthu zonse zooneka ndi zosaoneka! Inu mukuiona misozi yanga ndi zisisimo zomwe ndikunena, ndi kumvetsera ku kubuula kwanga, ndi kuchema ndi chiliro cha mtima wanga. Ndi nyonga Zanu! Zolakwa zanga zanditsekerezera kumbuyo kuti ndisayandikire Nanu; ndipo machimo anga andiyimitsa kutali kuchokera kubwalo la milandu la chiyero Chanu. Chikondi Chanu, O Ambuye wanga, chandilemeza ine, ndipo malekano ndi Inu yandiononga ine, kutalikirana ndi Inu kwandidya ine. Ndikupemphani Inu ndi mayendedwe Anu mu chipululuchi, ndiponso ndi mawu “Ndili pano, Ndili pano” amene osankhidwa Anu adalankhula mu ufumu Wanu, ndi mpumo wa Chibvumbulutso Chanu, ndi mphepo zodekha za kudza kwa Mbandakucha wa Mbvumbulutsi Wanu, kukonza kuti ndiyang’anire pa kukongola Kwanu ndi kutsata chilichonse chomwe chilli mu Bukhu Lanu.  *Kenaka iye anene Dzina Lalikulu (Alláh-u-Abhá) katatu ndi kuweramira pansi manja ali pa maondo, ndi kunena:  Mayamiko akhale kwa Inu, O Mulungu wanga, pakuti Inu mwandithandiza kukumbukira Inu ndiponso kukuyamikani Inu, ndipo mwandizindikiritsa ine Iye Amene ali Mbandakucha wa Zizindikiro Zanu, ndipo mwandipangitsa kuweramira pansi pamaso pa Umbuye Wanu, ndi kudzichepetsa pamaso pa Umulungu Wanu, ndi kuvomereza chimene chayankhulidwa ndi lilime la ukulu wanu.  *Kenaka iye aweramuke ndi kunena:  O Mulungu, Mulungu wanga! Msana wanga wawelama ndi kulemedwa kwa machimo anga, ndipo kusasamala kwanga kwandiononga ine. Ndikamaganizira kuipa kwa zochita zanga ndi chisamaliro Chanu, mtima wanga usungunuka mkati mwanga, ndipo magazi anga akuwira mkati mwa misempha yanga. Mwa kukongola Kwanu, O Inu khumbo la Dziko lapansi! Ndili ndi manyazi kukweza nkhope yanga kwa inu, ndipo manja anga olakalaka ali ndi manyazi kutambasukira kuloza kumwamba kwa chaulere Chanu. Inu mukuona, O Mulungu wanga, momwe misozi yanga ikundilepheretsa kukumbukira Inu ndi kukuza zabwino Zanu, O Inu Ambuye Wampando wa Chifumu m’mwambamo ndi dziko lapansi pano! Ndikudandaulirani mwa zizindikiro za Ufumu Wanu ndi zodabwitsa za ulamuliro Wanu kuchita ndi okondedwa Wanu monga kuyenera chaulere Chanu, O Ambuye wa zamoyo zonse, ndipo muyeneradi chisomo Chanu, O Mfumu ya zooneka ndi zosaoneka!  *Kenaka iye anene Dzina lalikulu (Alláh-u-Abhá) katatu ndi kugwada mphumi yake ili pansi ndi kunena:  Mayamiko akhale kwa Inu, O Mulungu wathu, pakuti Inu mwatitumizira ife chomwe chatisendeza m’fupi ndi Inu, ndipo mutipatse ife chabwino chilichonse chotumizidwa ndi Inu mu Mabukhu Anu ndi Malembo Anu. Titetezeni, tikupemphani Inu, O Ambuye wanga, ku makamu a malingaliro a zinthu zopanda pake, ndi maganizo achabe. Inu, ndithudi, Ndinu Wanyonga, Wodziwa Zonse.  *Kenaka awutse mutu wake ndikukhazikika pansi ndi kunena:  Ndichitira umboni, O Mulungu wanga, kuchimene osankhidwa Anu achichitira umboni, ndi kuvomereza chimene okhala ku Paradizo okwezekayo ndi iwo azinga mozungulira mpando Wanu Wamphamvu achivomereza. Maufumu adziko lapansi ndi kumwamba ndi Anu, O Ambuye wa maiko!
 
 -- Bahá'u'lláh
 
-bpn13440 «[Chichewa](../ny/prayers/#bpn13440)» 
+bpn13440 
 
 ----
 
@@ -631,7 +632,7 @@ bpn13440 «[Chichewa](../ny/prayers/#bpn13440)»
 
 -- Bahá'u'lláh
 
-bpn13439 «[Chichewa](../ny/prayers/#bpn13439)» 
+bpn13439 
 
 ----
 
@@ -645,7 +646,7 @@ O Mulungu! Chotsani izo zonse zoyambitsa kusagwirizana, ndipo tikonzereni ife to
 
 -- Abdu'l-Bahá
 
-bpn13482 «[Chichewa](../ny/prayers/#bpn13482)» 
+bpn13482 
 
 ----
 
@@ -659,7 +660,7 @@ Ulemelero ukhale kwa Inu, O Mulungu wanga! Indetu, wantchito Wanuyu ndi mdzakazi
 
 -- Abdu'l-Bahá
 
-bpn13483 «[Chichewa](../ny/prayers/#bpn13483)» 
+bpn13483 
 
 ----
 
@@ -673,7 +674,7 @@ Ndadzuka m’mawa uno ndi chisomo Chanu, O Mulungu wanga, ndikunyamuka pakhomo p
 
 -- Bahá'u'lláh
 
-bpn13484 «[Chichewa](../ny/prayers/#bpn13484)» 
+bpn13484 
 
 ----
 
@@ -683,7 +684,7 @@ O Mulungu, Mulungu wanga! Ndanyamuka pa khomo langa, kugwiritsitsa chingwe cha c
 
 -- Bahá'u'lláh
 
-bpn13485 «[Chichewa](../ny/prayers/#bpn13485)» 
+bpn13485 
 
 ----
 
@@ -697,7 +698,7 @@ O Mulungu wanga! O Mulungu wanga! Lumikizani mitima ya antchito Anu, ndipo Muwau
 
 -- Bahá'u'lláh
 
-bpn13486 «[Chichewa](../ny/prayers/#bpn13486)» 
+bpn13486 
 
 ----
 
@@ -707,7 +708,7 @@ Mulungu lolani kuti kuwala kwa mgwirizano kukutire dziko lonse lapansi, ndi chiz
 
 -- Bahá'u'lláh
 
-bpn13487 «[Chichewa](../ny/prayers/#bpn13487)» 
+bpn13487 
 
 ----
 
@@ -717,7 +718,7 @@ Ulemelero ukhale kwa Inu, O Mulungu, chifukwa chakuwonetsa chikondi Chanu kwa mt
 
 -- Bahá'u'lláh
 
-bpn13488 «[Chichewa](../ny/prayers/#bpn13488)» 
+bpn13488 
 
 ----
 
@@ -731,7 +732,7 @@ bpn13488 «[Chichewa](../ny/prayers/#bpn13488)»
 
 -- Bahá'u'lláh
 
-bpn13491 «[Chichewa](../ny/prayers/#bpn13491)» 
+bpn13491 
 
 ----
 
@@ -741,7 +742,7 @@ Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu
 
 -- Báb
 
-bpn13489 «[Chichewa](../ny/prayers/#bpn13489)» 
+bpn13489 
 
 ----
 
@@ -751,17 +752,17 @@ bpn13489 «[Chichewa](../ny/prayers/#bpn13489)»
 
 -- Báb
 
-bpn13490 «[Chichewa](../ny/prayers/#bpn13490)» 
+bpn13490 
 
 ----
 
 
 <a id="bpn13492"></a> 
-Iye ndi Wachisoni, Wachaulere Chonse! O Mulungu, Mulungu wanga! Inu mukundiwona ine, Inu mukundidziwa ine; Inu amene muli Panthunzi panga ndi Pothawira panga, Palibe amene ndasankha kapena kufufuza kupatula Inu, palibe njira yomwe ine ndayendamo kapena kufuna kudzayenda koma mnjira Yanu ya chikondi Chanu.  Mu mdima wa ndiwe yani wa mabvuto, maso anga amatembenukira ndi oyembekezo ndi odzadzidwa ndi chikhulupiriro ku m&#39;mawa wa chifundo Chanu chopanda malire ndipo ora la m’bandakucha mzimu wanga wofoka umatsitsitmutsidwa ndi kulimbikitsidwa pokumbukira kukongola Kwanu ndi ungwiro Wanu. Iye amene chisomo cha chifundo Chake chamuthandiza, ngakhale kuti katakhala kadontho kakang’ono, kadzasanduka nyanja yopanda malire, ndipo kanthu kochepetsetsa kamene kathandizidwa ndi chifundo Chake, kadzawala ngati nyenyezi lowalitsitsa.”  “Khalani pansi pa chitetezo Changa, O Mzimu Wanga wa chiyero, Inu amene muli Opereka Zaulere Zonse, wantchito Wanu uyu wokondedwa ndi, wowalitsidwa. Muthandizeni mu dziko ili la umunthu kuti akhale osagwedezeka ndi olimba mu chikondi Chanu ndipo mpatseni iye amene ali mbalame yothyoka phiko kuti apeze pothawira ndi mthuzi wa chisa Chanu cha uzimu chimene chakhazikika pa mtengo wa kumwamba.”
+Iye ndi Wachisoni, Wachaulere Chonse! O Mulungu, Mulungu wanga! Inu mukundiwona ine, Inu mukundidziwa ine; Inu amene muli Panthunzi panga ndi Pothawira panga, Palibe amene ndasankha kapena kufufuza kupatula Inu, palibe njira yomwe ine ndayendamo kapena kufuna kudzayenda koma mnjira Yanu ya chikondi Chanu.  Mu mdima wa ndiwe yani wa mabvuto, maso anga amatembenukira ndi oyembekezo ndi odzadzidwa ndi chikhulupiriro ku m'mawa wa chifundo Chanu chopanda malire ndipo ora la m’bandakucha mzimu wanga wofoka umatsitsitmutsidwa ndi kulimbikitsidwa pokumbukira kukongola Kwanu ndi ungwiro Wanu. Iye amene chisomo cha chifundo Chake chamuthandiza, ngakhale kuti katakhala kadontho kakang’ono, kadzasanduka nyanja yopanda malire, ndipo kanthu kochepetsetsa kamene kathandizidwa ndi chifundo Chake, kadzawala ngati nyenyezi lowalitsitsa.”  “Khalani pansi pa chitetezo Changa, O Mzimu Wanga wa chiyero, Inu amene muli Opereka Zaulere Zonse, wantchito Wanu uyu wokondedwa ndi, wowalitsidwa. Muthandizeni mu dziko ili la umunthu kuti akhale osagwedezeka ndi olimba mu chikondi Chanu ndipo mpatseni iye amene ali mbalame yothyoka phiko kuti apeze pothawira ndi mthuzi wa chisa Chanu cha uzimu chimene chakhazikika pa mtengo wa kumwamba.”
 
 -- Abdu'l-Bahá
 
-bpn13492 «[Chichewa](../ny/prayers/#bpn13492)» 
+bpn13492 
 
 ----
 
@@ -775,7 +776,7 @@ Yodalitsika ndiyo mbuto, ndi nyumba, ndi malo, ndi mzinda, ndi mtima, ndi phiri,
 
 -- Bahá'u'lláh
 
-bpn13493 «[Chichewa](../ny/prayers/#bpn13493)» 
+bpn13493 
 
 ----
 
@@ -789,7 +790,7 @@ Abwenzi onse a Mulungu …… ayenera kusonkha monga momwe angathere, chingakhal
 
 -- Abdu'l-Bahá
 
-bpn13494 «[Chichewa](../ny/prayers/#bpn13494)» 
+bpn13494 
 
 ----
 
@@ -803,7 +804,7 @@ Nenani: O Mulungu, Mulungu wanga! Bvekani mutu wanga ndi chisoti cha chilungamo,
 
 -- Bahá'u'lláh
 
-bpn13495 «[Chichewa](../ny/prayers/#bpn13495)» 
+bpn13495 
 
 ----
 
@@ -813,7 +814,7 @@ O Mulungu! Tsitsimutsani ndi kusangalatsa mzimu wanga. Yeretsani mtima wanga. Wa
 
 -- Abdu'l-Bahá
 
-bpn13496 «[Chichewa](../ny/prayers/#bpn13496)» 
+bpn13496 
 
 ----
 
@@ -823,7 +824,7 @@ O Ambuye! Ndife wofooka; tilimbikitseni. O Mulungu! Ndife mbuli; tipangeni kukha
 
 -- Abdu'l-Bahá
 
-bpn13497 «[Chichewa](../ny/prayers/#bpn13497)» 
+bpn13497 
 
 ----
 

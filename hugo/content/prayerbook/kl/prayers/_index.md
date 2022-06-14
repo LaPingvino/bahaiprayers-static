@@ -5,6 +5,7 @@ tags = ['lang=kl', 'prayerbook']
 
 
 
+
 [Aalajaassuseq](#Aalajaassuseq)
 
 [Ahmad-imut Allakkat](#Ahmad-imut+Allakkat)
@@ -93,7 +94,7 @@ Guuti-aa, Guutiga! Peqqissimillunga Ilinnut saassimavunga, ilumullu Illit tassaa
 
 -- Bahá'u'lláh
 
-bpn7020 «[Kalaallisut](../kl/prayers/#bpn7020)» 
+bpn7020 
 
 ----
 
@@ -103,7 +104,7 @@ Naalagara, Guutiga! Asasatit ikiukkit Illit Upperisanni qularunnaartillugit, Siu
 
 -- Abdu'l-Bahá
 
-bpn7021 «[Kalaallisut](../kl/prayers/#bpn7021)» 
+bpn7021 
 
 ----
 
@@ -113,11 +114,11 @@ bpn7021 «[Kalaallisut](../kl/prayers/#bpn7021)»
 ## Ahmad-imut Allakkat
 
 <a id="bpn7610"></a> 
-*&#34;Ullut tamaasa pinngitsoorani qinnutigisartakkat allallu immikkut ittut, soorlu Ajorunnaarnissamut Qinnut, Ahmad-imut allakkat, Bahá’u’lláh-mit immikkut pissaanermik pingaassutsimillu tunineqarsimapput, taamatullu akuerineqassallutik uppertunillu tatiginninnermik uppernermillu miserratigineqarsinnaanngitsumik pilimmik atuarneqartassallutik. Taamaalillutik taakku aqqutigalugit Guutimut qaninnerusumik atassuteqarniassagamik, inatsisai maleruaqqusaalu suussusaasigut annerusumik paasinnilluarnerussammata.&#34; – Allakkamit Shoghi Effendi sinnerlugu allatamit tigusaqKunngiuvoq Arajutsisimasaqanngitsoq, Ilisimasoq. Tusariarsiuk Paratiisimi Unnuariannguaq Naassaanngitsup Orpiata avalequtaanit qarlortoq. Erinnat iluartut tusarnersullu atorlugit inunnut ilumoortunut Guutip qanissusianik nalunaarutit nuannersut nassuiaatigai inuillu Guutip ataasiussusianik upperisaqartut qaaqqullugit Ajunngisaarumatungaartup najugaata silarlianukaqqullugit, inuillu taassuma silataaniittut nalunaarfigalugit nalunaarummik Guutimit saqqummiunneqarsimasumit, Kunngimit, Nuannersumit, Asseqanngitsumit, inuillu Guutimik asannittut ingerlatissallugit iluarsutsip issiavianut taassumalu Kusanangaassusianut.Ilumut tamannaavoq Kusanassuseq Annerpaaq Oqariartortitaasimasut Atuagaataanni siulittuutigineqarsimasoq, taannalu aqqutigalugu ilumoorneq tammarsimanermit immikkoortinneqartussaasoq oqariartuutillu tamarmik ilisimassusiat misilinneqartussaalluni. Ilumut, Taannaavoq Inuunerup Orpia Guutimit pisunik paarnaqartoq, Qutsinnerpaaq, Pingaartorsuaq, Angisooq. Ahmad-iaa! Illit uppernarsaasuugit ilumut Taanna Guutiusoq, allamillu Taannaanngitsumik Guuteqanngitsoq, Kunngiusoq, Illersuisoq, Asseqanngitsoq, Pingaartorsuaq, angullu Aallartissimasaa ’Ali-mik ateqartoq (iluartoq Báb) tassaasoq Guutimit Aallartitaq Ilumoortoq Ataasiusoq, tamatta maleruartariaqakkatsinnik nalunaaruteqartoq. Oqarit: Inuit-aa, Guutip aalajangersagaanut naalanniaritsi, soorlumi Bayán-imi Taassuminnga Kusanartumit Ilisimasumillu taama piumasarineqartoq. Ilumut Aallartitaasarsimasunit tamanit Annerpaavoq, Atuagaalu tassa Pileqqaarnerata Atuagaa, qanortoq tamanna ilisimaannalerisiuk.Taamatut parnaarussivimmit maanngaanniit ilinnut Nalunaarummini Unnuariannguaq nalunaaruteqarpoq. Nalunaarut erseqqissoq kisiat taanna Nalunaarutigisussaavaa. Kialluunniit piumaguni ilitsersuut taanna tunuinnarsinnaavaa, kialluunniillu piumaguni aqqut Naalakkaminut ingerlasoq qinerumaarpaa.Inuit-aa, allassimaffiit taakku upperiumanngikkussigik, taava qanoq iliorlusi uppernarsarsinnaavisiuk Guuti upperalugu? Inuit pisuusaartusi, uppernarsaammik saqqummiussigitsi.Naamik, Assaap tarnima qasuerserfigisaata ilisimavaa taamaanngitsut taamaasinaviaratillu imminnut ikioqatigiillutik kattussimagaluarunilluunniit.Ahmad-iaa! Ajunngisaartarsimanikka peqartinnanga puigorniaqinagit. Inuutillutit Uannik eqqaamasatit pigiuaannarniakkit eqqaamajullu Aliasungaassusera maanngalu avinngarusimaqisumut Parnaarunneqarsimanera. Taamaattumik Uanga asanninnera iluaqutigalugu aalajaatsuuniarit, uummatikkut qulalertarnak akeqqat pannaminnik anaaleraluarpatsilluunniit, qilaallu tamarmik nunarsuarlu tamarmi ilinnut akerliullutik nikuikkaluarpataluunniit. Akeqqannut qanortoq innertut ikumasutut ikkina inunnullu Asasannut inuunerup naassaanngitsup sarfaatut illutit, inunnullu qulartunut akulerunniaqinak.Aqqutikkut ingerlatillutit atugarliortitaaleruit Uangaluunniit Pillunga nikanarsagaaleruit erloqissutiginiaqinagit. Guuti tatiginiaruk, illit Guutigisat siuaasavillu Naalagaat. Inuit-uku tammarsimanerup aqqutaatigut ingerlalersimasut, namminneq isiminnik Guutimik takunninnissaminnik piiaaffigineqarsimasut Guutilluunniit Nipaanik tusarnersumik namminneq siutiminnik tusarsinnaajunnaarsimasut. Taamatut itsillugit inuit Nassaarisimavagut, soorlumi illit tamanna uppernarsarsinnaagit.Upperisapiloqassusiat taamaasilluni uummataannut assiussimavoq taamalu aqqusinermik Guutimut atanilimmik nanisinissaraluannik akornusersimallugit, Guuti taanna Akitsisitaasimasoq, Pingaartorsuaq.Ilinni qularutiginiaqinagu inuk Kusanassutsimik tamatuminnga tunutsisoq aamma qangarsuarli Aallartitaasarsimasunik tunutsisuummat aammalu naassaanngitsumit naassaanngitsumullu Guutimut anneruniartunngorsimalluni.Ahmad-iaa, Allakkat uku ilikkarluarniarniakkit. Inuutillutit oqaatigisarniakkit, taamaasiornissallu unitsinnaveersaariuk. Ilami ilumoorluinnarpoq Guutip aalajangersimammagu inuk tamatuminnga saqqummiussisoq upperisartik pillugu toqutaasut untritillit akissarsiassaattut angitigisumik akilerneqarumaartoq silarsuarnilu marluusuni tamani tapersersorneqarumaarluni. Ajunngequtinik tamakkuninnga Tunisimavatsigik Uagut tungitsinnit ajunngisaarutitut, Taamaasiorsimavugullu pissutigalugu qujaniartut akornanniittariaqaravit.Guuti pillugu! Kialluunniit ajorsaateqangaartup aliasuuteqartulluunniit ilumoorluinnartumik uummateqarluni Allakkat uku atuarpagit, taava Guutip aliasuutaanik oqilisaatissavaa, ajornartorsiutaarutitillugu anniaataalu peersillugit.Ilumut, Taanna Naakkinnittuuvoq, Misiginneqataasoq. Guuti naalannarsili, silarsuarnut tamanut Naalagaasoq.
+*"Ullut tamaasa pinngitsoorani qinnutigisartakkat allallu immikkut ittut, soorlu Ajorunnaarnissamut Qinnut, Ahmad-imut allakkat, Bahá’u’lláh-mit immikkut pissaanermik pingaassutsimillu tunineqarsimapput, taamatullu akuerineqassallutik uppertunillu tatiginninnermik uppernermillu miserratigineqarsinnaanngitsumik pilimmik atuarneqartassallutik. Taamaalillutik taakku aqqutigalugit Guutimut qaninnerusumik atassuteqarniassagamik, inatsisai maleruaqqusaalu suussusaasigut annerusumik paasinnilluarnerussammata." – Allakkamit Shoghi Effendi sinnerlugu allatamit tigusaqKunngiuvoq Arajutsisimasaqanngitsoq, Ilisimasoq. Tusariarsiuk Paratiisimi Unnuariannguaq Naassaanngitsup Orpiata avalequtaanit qarlortoq. Erinnat iluartut tusarnersullu atorlugit inunnut ilumoortunut Guutip qanissusianik nalunaarutit nuannersut nassuiaatigai inuillu Guutip ataasiussusianik upperisaqartut qaaqqullugit Ajunngisaarumatungaartup najugaata silarlianukaqqullugit, inuillu taassuma silataaniittut nalunaarfigalugit nalunaarummik Guutimit saqqummiunneqarsimasumit, Kunngimit, Nuannersumit, Asseqanngitsumit, inuillu Guutimik asannittut ingerlatissallugit iluarsutsip issiavianut taassumalu Kusanangaassusianut.Ilumut tamannaavoq Kusanassuseq Annerpaaq Oqariartortitaasimasut Atuagaataanni siulittuutigineqarsimasoq, taannalu aqqutigalugu ilumoorneq tammarsimanermit immikkoortinneqartussaasoq oqariartuutillu tamarmik ilisimassusiat misilinneqartussaalluni. Ilumut, Taannaavoq Inuunerup Orpia Guutimit pisunik paarnaqartoq, Qutsinnerpaaq, Pingaartorsuaq, Angisooq. Ahmad-iaa! Illit uppernarsaasuugit ilumut Taanna Guutiusoq, allamillu Taannaanngitsumik Guuteqanngitsoq, Kunngiusoq, Illersuisoq, Asseqanngitsoq, Pingaartorsuaq, angullu Aallartissimasaa ’Ali-mik ateqartoq (iluartoq Báb) tassaasoq Guutimit Aallartitaq Ilumoortoq Ataasiusoq, tamatta maleruartariaqakkatsinnik nalunaaruteqartoq. Oqarit: Inuit-aa, Guutip aalajangersagaanut naalanniaritsi, soorlumi Bayán-imi Taassuminnga Kusanartumit Ilisimasumillu taama piumasarineqartoq. Ilumut Aallartitaasarsimasunit tamanit Annerpaavoq, Atuagaalu tassa Pileqqaarnerata Atuagaa, qanortoq tamanna ilisimaannalerisiuk.Taamatut parnaarussivimmit maanngaanniit ilinnut Nalunaarummini Unnuariannguaq nalunaaruteqarpoq. Nalunaarut erseqqissoq kisiat taanna Nalunaarutigisussaavaa. Kialluunniit piumaguni ilitsersuut taanna tunuinnarsinnaavaa, kialluunniillu piumaguni aqqut Naalakkaminut ingerlasoq qinerumaarpaa.Inuit-aa, allassimaffiit taakku upperiumanngikkussigik, taava qanoq iliorlusi uppernarsarsinnaavisiuk Guuti upperalugu? Inuit pisuusaartusi, uppernarsaammik saqqummiussigitsi.Naamik, Assaap tarnima qasuerserfigisaata ilisimavaa taamaanngitsut taamaasinaviaratillu imminnut ikioqatigiillutik kattussimagaluarunilluunniit.Ahmad-iaa! Ajunngisaartarsimanikka peqartinnanga puigorniaqinagit. Inuutillutit Uannik eqqaamasatit pigiuaannarniakkit eqqaamajullu Aliasungaassusera maanngalu avinngarusimaqisumut Parnaarunneqarsimanera. Taamaattumik Uanga asanninnera iluaqutigalugu aalajaatsuuniarit, uummatikkut qulalertarnak akeqqat pannaminnik anaaleraluarpatsilluunniit, qilaallu tamarmik nunarsuarlu tamarmi ilinnut akerliullutik nikuikkaluarpataluunniit. Akeqqannut qanortoq innertut ikumasutut ikkina inunnullu Asasannut inuunerup naassaanngitsup sarfaatut illutit, inunnullu qulartunut akulerunniaqinak.Aqqutikkut ingerlatillutit atugarliortitaaleruit Uangaluunniit Pillunga nikanarsagaaleruit erloqissutiginiaqinagit. Guuti tatiginiaruk, illit Guutigisat siuaasavillu Naalagaat. Inuit-uku tammarsimanerup aqqutaatigut ingerlalersimasut, namminneq isiminnik Guutimik takunninnissaminnik piiaaffigineqarsimasut Guutilluunniit Nipaanik tusarnersumik namminneq siutiminnik tusarsinnaajunnaarsimasut. Taamatut itsillugit inuit Nassaarisimavagut, soorlumi illit tamanna uppernarsarsinnaagit.Upperisapiloqassusiat taamaasilluni uummataannut assiussimavoq taamalu aqqusinermik Guutimut atanilimmik nanisinissaraluannik akornusersimallugit, Guuti taanna Akitsisitaasimasoq, Pingaartorsuaq.Ilinni qularutiginiaqinagu inuk Kusanassutsimik tamatuminnga tunutsisoq aamma qangarsuarli Aallartitaasarsimasunik tunutsisuummat aammalu naassaanngitsumit naassaanngitsumullu Guutimut anneruniartunngorsimalluni.Ahmad-iaa, Allakkat uku ilikkarluarniarniakkit. Inuutillutit oqaatigisarniakkit, taamaasiornissallu unitsinnaveersaariuk. Ilami ilumoorluinnarpoq Guutip aalajangersimammagu inuk tamatuminnga saqqummiussisoq upperisartik pillugu toqutaasut untritillit akissarsiassaattut angitigisumik akilerneqarumaartoq silarsuarnilu marluusuni tamani tapersersorneqarumaarluni. Ajunngequtinik tamakkuninnga Tunisimavatsigik Uagut tungitsinnit ajunngisaarutitut, Taamaasiorsimavugullu pissutigalugu qujaniartut akornanniittariaqaravit.Guuti pillugu! Kialluunniit ajorsaateqangaartup aliasuuteqartulluunniit ilumoorluinnartumik uummateqarluni Allakkat uku atuarpagit, taava Guutip aliasuutaanik oqilisaatissavaa, ajornartorsiutaarutitillugu anniaataalu peersillugit.Ilumut, Taanna Naakkinnittuuvoq, Misiginneqataasoq. Guuti naalannarsili, silarsuarnut tamanut Naalagaasoq.
 
 -- Bahá'u'lláh
 
-bpn7610 «[Kalaallisut](../kl/prayers/#bpn7610)» 
+bpn7610 
 
 ----
 
@@ -131,7 +132,7 @@ Allanik Guutiunngitsumik ajornartorsiutinut ajugaasinnaasoqarnerluni? Oqarit: Gu
 
 -- Báb
 
-bpn7022 «[Kalaallisut](../kl/prayers/#bpn7022)» 
+bpn7022 
 
 ----
 
@@ -141,7 +142,7 @@ Oqarit: Guuti tamanut naammattuuvoq tamanit, qilanni tamanit nunamiluunniit tama
 
 -- Báb
 
-bpn7023 «[Kalaallisut](../kl/prayers/#bpn7023)» 
+bpn7023 
 
 ----
 
@@ -151,7 +152,7 @@ Pissaanerit pillugu qinnuigaakkit Guutiga-aa! Misilinneqarfiit nalaanni ajoquseq
 
 -- Báb
 
-bpn7024 «[Kalaallisut](../kl/prayers/#bpn7024)» 
+bpn7024 
 
 ----
 
@@ -161,7 +162,7 @@ Naalagaq-aa! Tassaavutit anniaatinik tamanik Qimagutsitsisoq naalliuutinillu Pee
 
 -- Báb
 
-bpn7025 «[Kalaallisut](../kl/prayers/#bpn7025)» 
+bpn7025 
 
 ----
 
@@ -171,7 +172,7 @@ Ilisimalluarpat, Guutiga-aa, misiligaaffiit sumit tamaanngaanniit takkusoorfigis
 
 -- Báb
 
-bpn7026 «[Kalaallisut](../kl/prayers/#bpn7026)» 
+bpn7026 
 
 ----
 
@@ -181,7 +182,7 @@ Tassaavoq Misiginneqataasoq, Tukkusooq. Guuti-aa, Guutiga! Isigaarma nalunngilar
 
 -- Abdu'l-Bahá
 
-bpn7040 «[Kalaallisut](../kl/prayers/#bpn7040)» 
+bpn7040 
 
 ----
 
@@ -191,7 +192,7 @@ Naalagaq-aa, Guutiga naalliunnermit nalaarneqaraangama qimarravigisartagara. Ali
 
 -- Abdu'l-Bahá
 
-bpn7041 «[Kalaallisut](../kl/prayers/#bpn7041)» 
+bpn7041 
 
 ----
 
@@ -205,17 +206,17 @@ Aqqit katsorsaatigaara Guutiga-aa, Ilinnik eqqaamanninneq uannut katsorsaataavoq
 
 -- Bahá'u'lláh
 
-bpn7019 «[Kalaallisut](../kl/prayers/#bpn7019)» 
+bpn7019 
 
 ----
 
 
 <a id="bpn8372"></a> 
-Tassaavoq Ajorunnaarsitsisoq, taanna Naammassisitsisoq, Ikiorti, Tamanik Isumakkeerfiginnittoq, Tamanik Nallittuisoq. Torlorfigaakkit Illit, Nersornarsisitaasoq-aa, Aalajaatsoq-aa, Ajunngingaartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalagaq-aa, Makititsisoq-aa, Eqqartuussisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa! Torlorfigaakkit Illit, Naleqanngitsoq-aa, Soraajuitsoq-aa, Ataasituaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Nersugaanerpaaq-aa, Illernartoq-aa, Ikiuisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa! Torlorfigaakkit Illit, Tamanik Ilisimasalik-aa, Ilisimanerpaaq-aa, Annerpaarpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Saamaasoq-aa, Ataqqinangaarpaluttoq-aa, Inatsisiliortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Asasaq-aa, Pilerigisaq-aa, Pilluartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Pissaaneqarnerpaaq-aa, Atatitsisoq-aa, Pissaaneqarluartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalagaasoq-aa, Imminut Napatittoq-aa, Tamanik Ilisimasalik-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Anersaaq-aa, Qaamaneq-aa, Saqquminerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanit Ujagaq-aa, Illit tamanit Nalunngisaq-aa, Illit tamanut Isertortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Isertuussaq-aa, Ajugaagajuttoq-aa, Tunioraasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ajugaqanngitsoq-aa, Ikiuisoq-aa, Toqqorterisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ilusilersuisoq-aa, Naammatsisitsisoq-aa, Aserorterisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Makittoq-aa, Katersuisoq-aa, Nersornaasiisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naammattunngortitsisoq-aa, Qilersugaanngitsoq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ajunngitsuliortoq-aa, Tunuarsimaartoq-aa, Pilersitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ileqqorinnerpaaq-aa, Kusanartoq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naapertuilluartoq-aa, Saammaasoq-aa, Akaarinnittoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tamanik Qunutitsisoq-aa, Soraajuitsumik Piusoq-aa, Ilisimanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Kusarnarluinnartoq-aa, Ullumini Pisoqaanerpaasoq-aa, Isumassuingaartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Paarilluarneqartoq-aa, Nuannaarnerup Naalagaa-aa, Pilerigisaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanut Ajunngitsuusoq-aa, Illit tamanut Naakkinnittoq-aa, Iluaqutissiuinerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tulaaviusoq-aa, tamanut Oqqiffiusoq-aa, tamanik Sernissuisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tapersersuisoq-aa, Illit tamanit Torlorarfigisaasoq-aa, Inuuneqalersitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Nittaasoq-aa, Isaterisoq-aa, Saamanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit Tarniga, Illit Asasara, Illit Upperisara! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit Imeruersitsisoq-aa, Naalagaq-aa Qilammiusoq-aa, Akisunerpaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Eqqaamasaq-aa Annerpaaq-aa, Ateq Ileqqorissaarnerpaasoq-aa, Aqqut Pisoqaanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Unnersiutaanerpaaq-aa, Illernarnerpaaq-aa, Eqqiagaanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Annaassisoq-aa, Siunnersuisoq-aa, Aniguisitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ikinngut, Nakorsaq-aa, Ajalusoortitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalannassuseq-aa, Kusanassuseq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tatigisaanerpaaq-aa, Asannillaqqinnerpaaq-aa, Ullup Qaalernerata Naalagaa-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Qiimmarsaasoq-aa, Qaamanermik tunisisoq-aa, Nuannaatsangaarnerup Aatsisua! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tukkussutsip Naalagaa-aa, Misiginneqataanerpaaq-aa, Nallittuinerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Atajuartutit-aa, Inuuneqalersitsisoq-aa, Piussutsimut tamarmut Aallaavik-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanik Takunnittoq-aa, Naalagaq Tamanik Isigisoq-aa, Oqalunnerup Naalagaa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Saqqumisoq-aa taamaattorli Isertortutit-aa, Takuneqanngitsoq-aa taamaattorli Ilisimasaq, Isiginnittoq-aa tamanit qinigaq! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Asannittunik toqoraasoq-aa, Guuti ajortunut Saammaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Naammassinnittoq-aa, Torlorfigaakkit Illit, Naammassinnittoq-aa!Ajorunnaarsitsisoq-aa, Torlorfigaakkit Illit, Ajorunnaarsitsisoq-aa!Taamaattuartoq, Torlorfigaakkit Illit, Taamaattuartoq-aa!Illit taanna Soraajuitsumik Taamaattuartoq, Illit Taamaattuartoq-aa!Illernarsisitaavutit Illit, Guutiga-aa! Torlorfigaakkit Illit isumassuingaarnikkut, tassuunakkut Illit tukkussutsinnut saammaanninnullu isaaffiit qiverluarlugit ammarneqarput, tassuunakkut Illit Illernassutsivit Naalaffia soraajuitsup kunngeqarfiani napparneqarpoq; aammalu Illit nallittuissutsikkut, tassuunakkut Illit pinngortitat tamaasa tukkussutsivit tunissutivillu nerriviinut qaaqquatit: aammalu Illit saammaannikkut, tassuunalu Illit nammineq Imminiussutsinni Illit oqaatsinnik akissutigaat &#34;Aap!&#34; qilammiittunut nunamiittunullu tamanut nalunaaquttap akunnerani, taamani Illit naalagaaffiit Illillu angissutsit qaammalerfiata nalaani ersersinneqarmata, taamani Illit naalagaaffippit pissaanera saqqumisunngortinneqarmat. Aammalu kingumut Torlorfigaakkit Illit, atitigut ukunuuna kusanarnerpaakkut, piginnaasatigut ukunuuna ileqqorinnerpaakkut pikkorinnerpaakkullu, aammalu Illit Eqqaaneqaatikkut Nersornarnerpaakkut, aammalu Illit Kusanassutsikkut sukuloqannginnerpaakkullu, aammalu Illit Qaamanikkut Isertortukkut illuaqqanni isertornerpaamiittukkut, aammalu Illit atikkut, ullaami unnummilu anniarnerup atisaanik atisisimasukkut Allakkanik pilluaqqusaasunik ukunannga tigumiartoq sernigeqqullugu, aamma kinaluunniit taassuminnga taasisoq, kinaluunniit taassuminnga siumuisoq, aammalu kina illumi taassuma iffiani saqisoq. Taamaattumik Illit tassuunakkut kinaluunniit napparsimasoq, nallinnartoq, piitsunngorsimasorlu anniaammit maajunnarnerpaamit sumilluunniit aliasuummillu pigisaqartoq ajorunnaarsiguk, siulersorullu tassuuna kialuunniit Illit siulersuinerpit aqqusinnersimaneratigut ingerlanissamut aammalu illit isumakkeerfiginninnerpit saammaannerpillu aqqusernisigut ingerlanissamut kissaateqartoq aqqutigineqqullugu.Illit ilumoortumik tassaavutit Pissaaneqarluartoq, taanna Tamanik-Naammassinnittoq, Ajorunnaarsitsisoq, taanna Sernissuisoq, Tunisisoq, taanna Misiginneqatiginnittoq, Tamanik – Tukkortoq, taanna Tamanik Nallittuisoq.
+Tassaavoq Ajorunnaarsitsisoq, taanna Naammassisitsisoq, Ikiorti, Tamanik Isumakkeerfiginnittoq, Tamanik Nallittuisoq. Torlorfigaakkit Illit, Nersornarsisitaasoq-aa, Aalajaatsoq-aa, Ajunngingaartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalagaq-aa, Makititsisoq-aa, Eqqartuussisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa! Torlorfigaakkit Illit, Naleqanngitsoq-aa, Soraajuitsoq-aa, Ataasituaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Nersugaanerpaaq-aa, Illernartoq-aa, Ikiuisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa! Torlorfigaakkit Illit, Tamanik Ilisimasalik-aa, Ilisimanerpaaq-aa, Annerpaarpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Saamaasoq-aa, Ataqqinangaarpaluttoq-aa, Inatsisiliortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Asasaq-aa, Pilerigisaq-aa, Pilluartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Pissaaneqarnerpaaq-aa, Atatitsisoq-aa, Pissaaneqarluartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalagaasoq-aa, Imminut Napatittoq-aa, Tamanik Ilisimasalik-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Anersaaq-aa, Qaamaneq-aa, Saqquminerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanit Ujagaq-aa, Illit tamanit Nalunngisaq-aa, Illit tamanut Isertortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Isertuussaq-aa, Ajugaagajuttoq-aa, Tunioraasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ajugaqanngitsoq-aa, Ikiuisoq-aa, Toqqorterisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ilusilersuisoq-aa, Naammatsisitsisoq-aa, Aserorterisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Makittoq-aa, Katersuisoq-aa, Nersornaasiisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naammattunngortitsisoq-aa, Qilersugaanngitsoq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ajunngitsuliortoq-aa, Tunuarsimaartoq-aa, Pilersitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ileqqorinnerpaaq-aa, Kusanartoq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naapertuilluartoq-aa, Saammaasoq-aa, Akaarinnittoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tamanik Qunutitsisoq-aa, Soraajuitsumik Piusoq-aa, Ilisimanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Kusarnarluinnartoq-aa, Ullumini Pisoqaanerpaasoq-aa, Isumassuingaartoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Paarilluarneqartoq-aa, Nuannaarnerup Naalagaa-aa, Pilerigisaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanut Ajunngitsuusoq-aa, Illit tamanut Naakkinnittoq-aa, Iluaqutissiuinerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tulaaviusoq-aa, tamanut Oqqiffiusoq-aa, tamanik Sernissuisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tapersersuisoq-aa, Illit tamanit Torlorarfigisaasoq-aa, Inuuneqalersitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Nittaasoq-aa, Isaterisoq-aa, Saamanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit Tarniga, Illit Asasara, Illit Upperisara! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit Imeruersitsisoq-aa, Naalagaq-aa Qilammiusoq-aa, Akisunerpaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Eqqaamasaq-aa Annerpaaq-aa, Ateq Ileqqorissaarnerpaasoq-aa, Aqqut Pisoqaanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Unnersiutaanerpaaq-aa, Illernarnerpaaq-aa, Eqqiagaanerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Annaassisoq-aa, Siunnersuisoq-aa, Aniguisitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Ikinngut, Nakorsaq-aa, Ajalusoortitsisoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Naalannassuseq-aa, Kusanassuseq-aa, Tukkortoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tatigisaanerpaaq-aa, Asannillaqqinnerpaaq-aa, Ullup Qaalernerata Naalagaa-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Qiimmarsaasoq-aa, Qaamanermik tunisisoq-aa, Nuannaatsangaarnerup Aatsisua! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Tukkussutsip Naalagaa-aa, Misiginneqataanerpaaq-aa, Nallittuinerpaaq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Atajuartutit-aa, Inuuneqalersitsisoq-aa, Piussutsimut tamarmut Aallaavik-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Illit tamanik Takunnittoq-aa, Naalagaq Tamanik Isigisoq-aa, Oqalunnerup Naalagaa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Saqqumisoq-aa taamaattorli Isertortutit-aa, Takuneqanngitsoq-aa taamaattorli Ilisimasaq, Isiginnittoq-aa tamanit qinigaq! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Torlorfigaakkit Illit, Asannittunik toqoraasoq-aa, Guuti ajortunut Saammaasoq-aa! Illit taanna Naammassisitsisoq, Illit taanna Ajorunnaarsitsisoq, Illit taanna Taamaattuartoq, Illit Taamaattuartoq-aa!Naammassinnittoq-aa, Torlorfigaakkit Illit, Naammassinnittoq-aa!Ajorunnaarsitsisoq-aa, Torlorfigaakkit Illit, Ajorunnaarsitsisoq-aa!Taamaattuartoq, Torlorfigaakkit Illit, Taamaattuartoq-aa!Illit taanna Soraajuitsumik Taamaattuartoq, Illit Taamaattuartoq-aa!Illernarsisitaavutit Illit, Guutiga-aa! Torlorfigaakkit Illit isumassuingaarnikkut, tassuunakkut Illit tukkussutsinnut saammaanninnullu isaaffiit qiverluarlugit ammarneqarput, tassuunakkut Illit Illernassutsivit Naalaffia soraajuitsup kunngeqarfiani napparneqarpoq; aammalu Illit nallittuissutsikkut, tassuunakkut Illit pinngortitat tamaasa tukkussutsivit tunissutivillu nerriviinut qaaqquatit: aammalu Illit saammaannikkut, tassuunalu Illit nammineq Imminiussutsinni Illit oqaatsinnik akissutigaat "Aap!" qilammiittunut nunamiittunullu tamanut nalunaaquttap akunnerani, taamani Illit naalagaaffiit Illillu angissutsit qaammalerfiata nalaani ersersinneqarmata, taamani Illit naalagaaffippit pissaanera saqqumisunngortinneqarmat. Aammalu kingumut Torlorfigaakkit Illit, atitigut ukunuuna kusanarnerpaakkut, piginnaasatigut ukunuuna ileqqorinnerpaakkut pikkorinnerpaakkullu, aammalu Illit Eqqaaneqaatikkut Nersornarnerpaakkut, aammalu Illit Kusanassutsikkut sukuloqannginnerpaakkullu, aammalu Illit Qaamanikkut Isertortukkut illuaqqanni isertornerpaamiittukkut, aammalu Illit atikkut, ullaami unnummilu anniarnerup atisaanik atisisimasukkut Allakkanik pilluaqqusaasunik ukunannga tigumiartoq sernigeqqullugu, aamma kinaluunniit taassuminnga taasisoq, kinaluunniit taassuminnga siumuisoq, aammalu kina illumi taassuma iffiani saqisoq. Taamaattumik Illit tassuunakkut kinaluunniit napparsimasoq, nallinnartoq, piitsunngorsimasorlu anniaammit maajunnarnerpaamit sumilluunniit aliasuummillu pigisaqartoq ajorunnaarsiguk, siulersorullu tassuuna kialuunniit Illit siulersuinerpit aqqusinnersimaneratigut ingerlanissamut aammalu illit isumakkeerfiginninnerpit saammaannerpillu aqqusernisigut ingerlanissamut kissaateqartoq aqqutigineqqullugu.Illit ilumoortumik tassaavutit Pissaaneqarluartoq, taanna Tamanik-Naammassinnittoq, Ajorunnaarsitsisoq, taanna Sernissuisoq, Tunisisoq, taanna Misiginneqatiginnittoq, Tamanik – Tukkortoq, taanna Tamanik Nallittuisoq.
 
 -- Bahá'u'lláh
 
-bpn8372 «[Kalaallisut](../kl/prayers/#bpn8372)» 
+bpn8372 
 
 ----
 
@@ -229,7 +230,7 @@ bpn8372 «[Kalaallisut](../kl/prayers/#bpn8372)»
 
 -- Abdu'l-Bahá
 
-bpn12570 «[Kalaallisut](../kl/prayers/#bpn12570)» 
+bpn12570 
 
 ----
 
@@ -239,7 +240,7 @@ Anersaakkut Isumasioqatigiiffiup ataatsimeereernerani qinnut: Guuti-aa! Guuti-aa
 
 -- Abdu'l-Bahá
 
-bpn12571 «[Kalaallisut](../kl/prayers/#bpn12571)» 
+bpn12571 
 
 ----
 
@@ -253,7 +254,7 @@ Naalagara! Kusanassutsit inuussutigilara Qanissutsillu imeruersaatigalugu; Iluar
 
 -- Bahá'u'lláh
 
-bpn7018 «[Kalaallisut](../kl/prayers/#bpn7018)» 
+bpn7018 
 
 ----
 
@@ -263,7 +264,7 @@ bpn7018 «[Kalaallisut](../kl/prayers/#bpn7018)»
 
 -- Abdu'l-Bahá
 
-bpn6863 «[Kalaallisut](../kl/prayers/#bpn6863)» 
+bpn6863 
 
 ----
 
@@ -277,7 +278,7 @@ Illit Aqqutinni allornigut aalajaatsunngortikkit, Naalagaq-aa, Ilinnullu naalann
 
 -- Abdu'l-Bahá
 
-bpn7017 «[Kalaallisut](../kl/prayers/#bpn7017)» 
+bpn7017 
 
 ----
 
@@ -291,7 +292,7 @@ Guuti-aa, Guutiga! Asannitsivit ilumoortut qaavi qaammarsakkit, ajugaanerullu qu
 
 -- Abdu'l-Bahá
 
-bpn9114 «[Kalaallisut](../kl/prayers/#bpn9114)» 
+bpn9114 
 
 ----
 
@@ -305,7 +306,7 @@ Guutiga! Guutiga! Kiffavit uummataat peqatigiilersikkit Anguniakkavillu pissaasu
 
 -- Bahá'u'lláh
 
-bpn7255 «[Kalaallisut](../kl/prayers/#bpn7255)» 
+bpn7255 
 
 ----
 
@@ -315,7 +316,7 @@ Guutiga-aa! Guutiga-aa! Ilumut torlorfigaakkit qinnuigalutillu Alloriusarpit saa
 
 -- Abdu'l-Bahá
 
-bpn7256 «[Kalaallisut](../kl/prayers/#bpn7256)» 
+bpn7256 
 
 ----
 
@@ -329,7 +330,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa! Saammaassuinerpit anoraasigut ano
 
 -- Bahá'u'lláh
 
-bpn12579 «[Kalaallisut](../kl/prayers/#bpn12579)» 
+bpn12579 
 
 ----
 
@@ -339,7 +340,7 @@ Illit-aa Guuti nallittuisoq! Illit-aa pissaaneqarlutillu nakuusutit! Illit-aa At
 
 -- Abdu'l-Bahá
 
-bpn12572 «[Kalaallisut](../kl/prayers/#bpn12572)» 
+bpn12572 
 
 ----
 
@@ -349,7 +350,7 @@ Illit-aa Naalagaq ajunngitsoq! Uku tassa kiffatit, ataatsimiinnermut matumunnga 
 
 -- Abdu'l-Bahá
 
-bpn12573 «[Kalaallisut](../kl/prayers/#bpn12573)» 
+bpn12573 
 
 ----
 
@@ -359,7 +360,7 @@ Guutiga-aa! Guutiga-aa! Ilumut uku kiffatit Ilinnut saapput nallittuinerpillu na
 
 -- Abdu'l-Bahá
 
-bpn12574 «[Kalaallisut](../kl/prayers/#bpn12574)» 
+bpn12574 
 
 ----
 
@@ -369,11 +370,11 @@ bpn12574 «[Kalaallisut](../kl/prayers/#bpn12574)»
 ## Avissaarsimanerup Innera
 
 <a id="bpn9984"></a> 
-Guutip Aqqani, Taanna Pisoqarsuusoq, Anginersaasoq. Ilumut unneqqarissut uummataat avissaarnerup innerani nungujartorput: Naak-una kiinnavit qaamanera, Illit-aa silarsuit Asasaat? Ilinnut qanittuusut kiserliornerup taarnerani qimanneqarsimapput: Naak-una kattuteqqinnerpit ullaava, Illit-aa silarsuit Erinisunnerat? Toqqakkavit timai sajullutik sissani ungasissuni nalapput: Naak-una qanissutsivit imaa, Illit-aa silarsuit Qiimasunnerat?Saammaassinerpit Tukkussutsivillu Qilaanut assaat kipisallutik kivissimapput: Naak-uku Tunissutsivit sialui, Illit-aa silarsuit Akisuat? Uppinngitsut naakkittaallutik sumit tamanit nikuissimapput: Naak-una Allaativit inatsisiliortuusup ajugaassutaata pissaanera, Illit-aa silarsuit Ajugaaffiginnittuat?Qimmit qilunneri suminngaannilluunniit nipitoqalutik tusarsaapput: Naak-una pissaanerpit orpissuata løve-a, Illit-aa silarsuit Perorsaasuat?Issersuup silarsuarmi inuit tiguarsimavai: Naak-una asanninnerpit kissarnera, Illit-aa silarsuit Innerat?Ajunaarnerup qaangeqqinneqarsinnaannginnini killissimavaa: Naak-uku ikiuinerpit ilisarnaatai, Illit-aa silarsuit Annaassisuat?Taarsiornerup inuiaqatigiit amerlanerit poorsimavai: Naak-una qaamanerpit akisunnera, Illit-aa silarsuit Qinngornerat?Inuit qungasii ajussutsip iluani siaarsimapput: Naak-uku Akiniaanerpit panai, Illit-aa silarsuit Piuneerussisuat?Nikanarsaanerup itissutsini itinerpaaq tikissimavaa: Naak-uku alutornassutsivit assersuutai, Illit-aa silarsuit Alutornassusiat?Aliasunnerit Atinnik Saqqummiisoq Naakkinninnerpaasoq tikissimavaat: Naak-una Saqqummiussinerpit Akisunnerata nuannaarnera, Illit-aa silarsuit Qiimasunnerat?Naalliunnerup silarsuup innuttai tamaasa eqqorsimavai: Naak-una pilluarnerpit ilisarnaqutai, Illit-aa silarsuit Nuannaarnerat?Isigaat Ilisarnaqutivit Qaammalerfiat ajussutsip kajumissaarneqarneranik ulinneqarsimasoq: Naak-uku Pissaanerpit assai, Illit-aa silarsuit Pissaanerat?Imerusunnerujussuup inuit tamaasa tiguarsimavai: Naak-una Tukkussutsivit kuussua, Illit-aa silarsuit Naakkinnittuat?Piumatunersuup silarsuup innuttai tiguarsimavai: Naak-uku kiffaajunnaarsimanerup pissuseqalerskaaneri, Illit-aa silarsuit Naalagaat?Isigaat Iluaatsuliorfigisaq nunaminit qimaatitaasimalluni kiserliortoq: Naak-uku Naalakkiinerpit Qilaanit katersaarsuit, Illit-aa silarsuit Naalakkersuisuat?Nunami takornartami ilumuunngitsuliorfigineqarsimavunga: Naak-uku unneqqarissutsivit assersuutai, Illit-aa silarsuit Tatiginninnerat?Toqumut ersinerup inuit tamaasa tiguarsimavai: Naak-una Inuunerpit Naassaanngitsup imarsuata mallerpalunneri, Illit-aa silarsuit Inuunerat?Saatanip isussunneri pinngortitanit tamanit najuunneqarsimapput: Naak-una Ullorissavit anaa ikumasoq, Illit-aa silarsuit Qaamanerat?Illigussuseqarnerup putumanerata inuit amerlanerit aserorsimavai: Naak-una minguissutsip qaalernera, Illit-aa silarsuit Kissaataat?Isigaat Iluaatsuliorfigisaq manna Syriamiut akornanni naakkittaannermik poorneqarsimasoq: Naak-una qaammalernerpit qinngornera, Illit-aa silarsuit Qaamanerat?Isigaarma killiliiffigineqarnanga oqaloqqusaanngitsunga: Suminngaanniimmita taava erinarsuutitit saqqummissagamik, Illit-aa silarsuit Unnuariaa?Inuit amerlanerit sinnattunik isummanillu imaqanngitsunik nimersimapput: Naak-uku ilisimassusernik illersuisut, Illit-aa silarsuit Qulannginnerat?Bahá naalliunnerup imaani ipilerpoq: Naak-una Annaassinerpit Angerusaa, Illit-aa silarsuit Annaassisaa?Isigaat Oqalunnerpit qaalernera pinngortitsinerup taartuaniittoq: Naak-una Saammaassinerpit qilaata seqernga, Illit-aa silarsuit Qaammarsaasuat?Sallusuissutsip, minguissutsip, aalajaassutsip, ataqqinassutsillu qullii qaminneqarsimapput: Naak-una akiniaanerpit kamannerata ilisarnaatai, Illit-aa silarsuit Aalatitsisuat?Ilinnik illersuisimasunik takusaqarsinnaavit, imaluunniit Taassumap Asanninnerpit aqqutaani qanoq pineqarsimaneranik eqqarsaatiginnittumik? Allaatiga maanna nangaalerpoq, Illit-aa silarsuit Asasaat.Orpiup-Lotusip Nunamiorpalunngitsup avalequtai pinngitsoortussaanngitsup anorersuini napisimallutik ipput: Naak-uku tapersersuinerpit erfalasui, Illit-aa silarsuit Illersuisuat?Kiinaq manna ingutsinerup pujoralaanik toqqorneqarsimavoq: Naak-uku paaqqinninnerpit anorsaarneri, Illit-aa silarsuit Naakkinninnerat?Illernassutsip atisaa peqquserlunnerup inuinit mingutitinneqarsimavoq: Naak-una illernassutsivit annoraava, Illit-aa silarsuit Pinnersaasuat?Saammaassinerup imaa inuit assaasa suliapiluinit qatsortinneqarsimavoq: Naak-uku Tukkussutsivit malii, Illit-aa silarsuit Erinisuutaat?Matu Qanissutsimut Nalissaqanngitsumut ingerlasoq akeqqavit naakkittaatsut paarnaarsimavaat: Naak-una Tunniussinerpit matuersaataa, Illit-aa silarsuit Ammaasuat?Piluttat pikititsinerup anoraanik toqunartulinnik kajortissimapput: Naak-uku Tukkussutsivit Nuiaanit kuuit, Illit-aa silarsuit Tunisisuat?Silarsuaq ajortuliornerup pujoralaanik taarsisimavoq: Naak-uku isumakkeerinerpit anorsaalaarneri, Illit-aa silarsuit Isumakkeerisuat?Inuusuttunnguaq Manna nunami soqanngitsumi kiserliorpoq: Naak-uku Saammaassinerpit Qilammiorpaluttup sialui, Illit-aa silarsuit iluaqutissiuisuat?Illit Allaat Annerpaaq, Qaaqqusinerit sallaannerpaaq naalagaaffimmit naassaanngitsumit tusareerparput: tusaajuk Angissutsip Oqaa qanoq oqarnersoq, Illit-aa silarsuit Iluaatsuliorfigisaat!Isseqanngikkaluarpat, Qanoq ilillutik Oqaatsivit kissarneri ajugaasinnaassagaluarpat, Illit-aa silarsuit Nassuiaasuat?Ajunaarneqanngikkaluarpat, Qanoq-ililluni taava Naammagittarnerpit Seqernga qinngussagaluarpa, Illit-aa silarsuit Qaamarngat?Ajortoq pillugu nimaarnak, Sapinngitsussatut atajuartussatullu pinngortinneqarsimavutit, Illit-aa silarsuit Naammagittarnerat.Angerutsip killingiusaani Qaammalernerit Guutimullu eriniginningaarnerit pikitsitsiniartut akornanni qanoq sallaatsiginnginnami, Illit-aa silarsuit Pilluassusiat.Illit Kiserliorninni Ataasiussutsip Seqernga qinngorpoq, qimaatitaaninnilu Ataasiussutsip nunaa pinnersarneqarluni, Illit-aa silarsuit Qimaatitaat.Nikanarsaamaaneq ataqqinartitaanermut atisanngortissimavarput, naalliunnerlu timivit pinnersaataa, Illit-aa silarsuit Tulluusimaarutaat.Isigaatit uummatit qinngarsuinermik ulikkaaqqasut, isumakkeerinerlu tassaavoq pissusissat, IIlit-aa silarsuit ajortuliaannik toqqorsisoq.Panat qillallakkaangata siumut ingerlagit! Naalikkat siorsukkaangata siumut qerlortoruugit! IIlit-aa silarsuit Pilliutaat.Nimaassavit imaluunniit Uanga nimaassaanga? Kissaatigineruara illersortivit ikissusiat qissatigissallugu, Illit-aa silarsuit nimaarnerannik pilersitsisoq.Ilumut, Qaaqqusinerit tusareerpara, Illit asanerpaasara, maannalu Bahá-p kiinaa naalliunnerup kissarneranik ikualalerpoq Oqaatsivillu qaammarissusaata inneranik, pilliusivimmilu unneqqarilluni Nikuissimavoq nuannaarnerpillu tungaanut qiviarsimalluni, Illit-aa silarsuit Inatsisiliortuat.Aa ila &#39;Ali-Akbar, Naalakkat allagaq manna pillugu qutsaviguuk suli Sallaassutsima tikkanik naamasinnaatillutit ilisimajullu Guutip aqqutaani qanoq Pineqarsimanerput, silarsuit tamarmik Qinnuiat.Kiffat tamarmik manna atuassagaluarpassuk eqqarsaatigilluarlugulu, taava taqaanni inneq ikinneqassaaq silarsuarnik tamanik ikummatitsisussaq.
+Guutip Aqqani, Taanna Pisoqarsuusoq, Anginersaasoq. Ilumut unneqqarissut uummataat avissaarnerup innerani nungujartorput: Naak-una kiinnavit qaamanera, Illit-aa silarsuit Asasaat? Ilinnut qanittuusut kiserliornerup taarnerani qimanneqarsimapput: Naak-una kattuteqqinnerpit ullaava, Illit-aa silarsuit Erinisunnerat? Toqqakkavit timai sajullutik sissani ungasissuni nalapput: Naak-una qanissutsivit imaa, Illit-aa silarsuit Qiimasunnerat?Saammaassinerpit Tukkussutsivillu Qilaanut assaat kipisallutik kivissimapput: Naak-uku Tunissutsivit sialui, Illit-aa silarsuit Akisuat? Uppinngitsut naakkittaallutik sumit tamanit nikuissimapput: Naak-una Allaativit inatsisiliortuusup ajugaassutaata pissaanera, Illit-aa silarsuit Ajugaaffiginnittuat?Qimmit qilunneri suminngaannilluunniit nipitoqalutik tusarsaapput: Naak-una pissaanerpit orpissuata løve-a, Illit-aa silarsuit Perorsaasuat?Issersuup silarsuarmi inuit tiguarsimavai: Naak-una asanninnerpit kissarnera, Illit-aa silarsuit Innerat?Ajunaarnerup qaangeqqinneqarsinnaannginnini killissimavaa: Naak-uku ikiuinerpit ilisarnaatai, Illit-aa silarsuit Annaassisuat?Taarsiornerup inuiaqatigiit amerlanerit poorsimavai: Naak-una qaamanerpit akisunnera, Illit-aa silarsuit Qinngornerat?Inuit qungasii ajussutsip iluani siaarsimapput: Naak-uku Akiniaanerpit panai, Illit-aa silarsuit Piuneerussisuat?Nikanarsaanerup itissutsini itinerpaaq tikissimavaa: Naak-uku alutornassutsivit assersuutai, Illit-aa silarsuit Alutornassusiat?Aliasunnerit Atinnik Saqqummiisoq Naakkinninnerpaasoq tikissimavaat: Naak-una Saqqummiussinerpit Akisunnerata nuannaarnera, Illit-aa silarsuit Qiimasunnerat?Naalliunnerup silarsuup innuttai tamaasa eqqorsimavai: Naak-una pilluarnerpit ilisarnaqutai, Illit-aa silarsuit Nuannaarnerat?Isigaat Ilisarnaqutivit Qaammalerfiat ajussutsip kajumissaarneqarneranik ulinneqarsimasoq: Naak-uku Pissaanerpit assai, Illit-aa silarsuit Pissaanerat?Imerusunnerujussuup inuit tamaasa tiguarsimavai: Naak-una Tukkussutsivit kuussua, Illit-aa silarsuit Naakkinnittuat?Piumatunersuup silarsuup innuttai tiguarsimavai: Naak-uku kiffaajunnaarsimanerup pissuseqalerskaaneri, Illit-aa silarsuit Naalagaat?Isigaat Iluaatsuliorfigisaq nunaminit qimaatitaasimalluni kiserliortoq: Naak-uku Naalakkiinerpit Qilaanit katersaarsuit, Illit-aa silarsuit Naalakkersuisuat?Nunami takornartami ilumuunngitsuliorfigineqarsimavunga: Naak-uku unneqqarissutsivit assersuutai, Illit-aa silarsuit Tatiginninnerat?Toqumut ersinerup inuit tamaasa tiguarsimavai: Naak-una Inuunerpit Naassaanngitsup imarsuata mallerpalunneri, Illit-aa silarsuit Inuunerat?Saatanip isussunneri pinngortitanit tamanit najuunneqarsimapput: Naak-una Ullorissavit anaa ikumasoq, Illit-aa silarsuit Qaamanerat?Illigussuseqarnerup putumanerata inuit amerlanerit aserorsimavai: Naak-una minguissutsip qaalernera, Illit-aa silarsuit Kissaataat?Isigaat Iluaatsuliorfigisaq manna Syriamiut akornanni naakkittaannermik poorneqarsimasoq: Naak-una qaammalernerpit qinngornera, Illit-aa silarsuit Qaamanerat?Isigaarma killiliiffigineqarnanga oqaloqqusaanngitsunga: Suminngaanniimmita taava erinarsuutitit saqqummissagamik, Illit-aa silarsuit Unnuariaa?Inuit amerlanerit sinnattunik isummanillu imaqanngitsunik nimersimapput: Naak-uku ilisimassusernik illersuisut, Illit-aa silarsuit Qulannginnerat?Bahá naalliunnerup imaani ipilerpoq: Naak-una Annaassinerpit Angerusaa, Illit-aa silarsuit Annaassisaa?Isigaat Oqalunnerpit qaalernera pinngortitsinerup taartuaniittoq: Naak-una Saammaassinerpit qilaata seqernga, Illit-aa silarsuit Qaammarsaasuat?Sallusuissutsip, minguissutsip, aalajaassutsip, ataqqinassutsillu qullii qaminneqarsimapput: Naak-una akiniaanerpit kamannerata ilisarnaatai, Illit-aa silarsuit Aalatitsisuat?Ilinnik illersuisimasunik takusaqarsinnaavit, imaluunniit Taassumap Asanninnerpit aqqutaani qanoq pineqarsimaneranik eqqarsaatiginnittumik? Allaatiga maanna nangaalerpoq, Illit-aa silarsuit Asasaat.Orpiup-Lotusip Nunamiorpalunngitsup avalequtai pinngitsoortussaanngitsup anorersuini napisimallutik ipput: Naak-uku tapersersuinerpit erfalasui, Illit-aa silarsuit Illersuisuat?Kiinaq manna ingutsinerup pujoralaanik toqqorneqarsimavoq: Naak-uku paaqqinninnerpit anorsaarneri, Illit-aa silarsuit Naakkinninnerat?Illernassutsip atisaa peqquserlunnerup inuinit mingutitinneqarsimavoq: Naak-una illernassutsivit annoraava, Illit-aa silarsuit Pinnersaasuat?Saammaassinerup imaa inuit assaasa suliapiluinit qatsortinneqarsimavoq: Naak-uku Tukkussutsivit malii, Illit-aa silarsuit Erinisuutaat?Matu Qanissutsimut Nalissaqanngitsumut ingerlasoq akeqqavit naakkittaatsut paarnaarsimavaat: Naak-una Tunniussinerpit matuersaataa, Illit-aa silarsuit Ammaasuat?Piluttat pikititsinerup anoraanik toqunartulinnik kajortissimapput: Naak-uku Tukkussutsivit Nuiaanit kuuit, Illit-aa silarsuit Tunisisuat?Silarsuaq ajortuliornerup pujoralaanik taarsisimavoq: Naak-uku isumakkeerinerpit anorsaalaarneri, Illit-aa silarsuit Isumakkeerisuat?Inuusuttunnguaq Manna nunami soqanngitsumi kiserliorpoq: Naak-uku Saammaassinerpit Qilammiorpaluttup sialui, Illit-aa silarsuit iluaqutissiuisuat?Illit Allaat Annerpaaq, Qaaqqusinerit sallaannerpaaq naalagaaffimmit naassaanngitsumit tusareerparput: tusaajuk Angissutsip Oqaa qanoq oqarnersoq, Illit-aa silarsuit Iluaatsuliorfigisaat!Isseqanngikkaluarpat, Qanoq ilillutik Oqaatsivit kissarneri ajugaasinnaassagaluarpat, Illit-aa silarsuit Nassuiaasuat?Ajunaarneqanngikkaluarpat, Qanoq-ililluni taava Naammagittarnerpit Seqernga qinngussagaluarpa, Illit-aa silarsuit Qaamarngat?Ajortoq pillugu nimaarnak, Sapinngitsussatut atajuartussatullu pinngortinneqarsimavutit, Illit-aa silarsuit Naammagittarnerat.Angerutsip killingiusaani Qaammalernerit Guutimullu eriniginningaarnerit pikitsitsiniartut akornanni qanoq sallaatsiginnginnami, Illit-aa silarsuit Pilluassusiat.Illit Kiserliorninni Ataasiussutsip Seqernga qinngorpoq, qimaatitaaninnilu Ataasiussutsip nunaa pinnersarneqarluni, Illit-aa silarsuit Qimaatitaat.Nikanarsaamaaneq ataqqinartitaanermut atisanngortissimavarput, naalliunnerlu timivit pinnersaataa, Illit-aa silarsuit Tulluusimaarutaat.Isigaatit uummatit qinngarsuinermik ulikkaaqqasut, isumakkeerinerlu tassaavoq pissusissat, IIlit-aa silarsuit ajortuliaannik toqqorsisoq.Panat qillallakkaangata siumut ingerlagit! Naalikkat siorsukkaangata siumut qerlortoruugit! IIlit-aa silarsuit Pilliutaat.Nimaassavit imaluunniit Uanga nimaassaanga? Kissaatigineruara illersortivit ikissusiat qissatigissallugu, Illit-aa silarsuit nimaarnerannik pilersitsisoq.Ilumut, Qaaqqusinerit tusareerpara, Illit asanerpaasara, maannalu Bahá-p kiinaa naalliunnerup kissarneranik ikualalerpoq Oqaatsivillu qaammarissusaata inneranik, pilliusivimmilu unneqqarilluni Nikuissimavoq nuannaarnerpillu tungaanut qiviarsimalluni, Illit-aa silarsuit Inatsisiliortuat.Aa ila 'Ali-Akbar, Naalakkat allagaq manna pillugu qutsaviguuk suli Sallaassutsima tikkanik naamasinnaatillutit ilisimajullu Guutip aqqutaani qanoq Pineqarsimanerput, silarsuit tamarmik Qinnuiat.Kiffat tamarmik manna atuassagaluarpassuk eqqarsaatigilluarlugulu, taava taqaanni inneq ikinneqassaaq silarsuarnik tamanik ikummatitsisussaq.
 
 -- Bahá'u'lláh
 
-bpn9984 «[Kalaallisut](../kl/prayers/#bpn9984)» 
+bpn9984 
 
 ----
 
@@ -387,17 +388,17 @@ bpn9984 «[Kalaallisut](../kl/prayers/#bpn9984)»
 
 -- Abdu'l-Bahá
 
-bpn12867 «[Kalaallisut](../kl/prayers/#bpn12867)» 
+bpn12867 
 
 ----
 
 
 <a id="bpn6864"></a> 
-#Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit##Canadami Kalaallillu Nunaanni Bahá&#39;í-nut*Abdu&#39;l-Bahás prayer revealed to the Bahá&#39;ís in Canada and Greenland in the Tablets of the Divine PlanNersorneqarit Illit, Guutiga-aa! Makku tassaapput kiffatit nallittuissutsivit tipigissusianut kajungilersimasut, ataasiussutsivit orpianit ikumasumit ikinneqarsimasut aammalu isaat qaamanerup Illit ataasiussutsivit Sinaianit akisuguttup qinngornerata tupinnartup qaammarsagai.Naalagaq-aa! Oqaat qilerussaakkit Illit pillutit innuttavit akornanni oqaluuseqarniassammata, Illillu saammaassutsikkut asanninnikkullu Ilinnik unnersiutiginninneq oqaatigilissuk, inngilinnik katersaarsuarnik ikiukkit, Ilinnullu kiffartuussinerminni makisii nakussatsikkit tassaalersikkillu Illit pinngortitavit akornanni siulersuininnut nalunaaqqutit.Ilumoortumik Illit Ajugaqanngitsuuvutit, Tamanit Nersornarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanik Nallittuisoq.
+#Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit##Canadami Kalaallillu Nunaanni Bahá'í-nut*Abdu'l-Bahás prayer revealed to the Bahá'ís in Canada and Greenland in the Tablets of the Divine PlanNersorneqarit Illit, Guutiga-aa! Makku tassaapput kiffatit nallittuissutsivit tipigissusianut kajungilersimasut, ataasiussutsivit orpianit ikumasumit ikinneqarsimasut aammalu isaat qaamanerup Illit ataasiussutsivit Sinaianit akisuguttup qinngornerata tupinnartup qaammarsagai.Naalagaq-aa! Oqaat qilerussaakkit Illit pillutit innuttavit akornanni oqaluuseqarniassammata, Illillu saammaassutsikkut asanninnikkullu Ilinnik unnersiutiginninneq oqaatigilissuk, inngilinnik katersaarsuarnik ikiukkit, Ilinnullu kiffartuussinerminni makisii nakussatsikkit tassaalersikkillu Illit pinngortitavit akornanni siulersuininnut nalunaaqqutit.Ilumoortumik Illit Ajugaqanngitsuuvutit, Tamanit Nersornarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanik Nallittuisoq.
 
 -- Abdu'l-Bahá
 
-bpn6864 «[Kalaallisut](../kl/prayers/#bpn6864)» 
+bpn6864 
 
 ----
 
@@ -407,21 +408,21 @@ bpn6864 «[Kalaallisut](../kl/prayers/#bpn6864)»
 ## Iisinnginniarneq
 
 <a id="bpn9979"></a> 
-*Kitáb-i-Aqdasimi manna nalunaarneqarpoq: &#34;Peqqusimavatsigit qinusaqqullusi inersimassutsillu aallartinnerani [15-inik ukioqalernermi] iisinnginniartaqqullusi; tamanna Guutimit Naalakkassinnit siulissilu Naalagaannit peqqussutaavoq. . . . Kikkut angalasut, napparsimasut, naartusut imaluunniit milutsitsisut, iisinnginniarnermik qilersugaanngillat. . . . Seqernup nuineranit tarrinneranut nerisassat imigassallu pinaveersaarsigik mianersuutigisiullu pilerisunnerup saammaannermik Atuakkami aalajangersimasumi taassuminnga arsaanngimmasi.” *Iisinnginniarnerup nalaa tassa marsip 1-annit 19-iannut imaluunniit 2-annit 20-annut. Qinnuigaakkit Illit, Guutiga-aa, Nalunaaqqutikkut nukittuukkut Saammaannikkullu inuit akornanni saqqummersitakkut, Illit qanissutsivit illoqarfiata isaaffianit qimagutiteqqunanga, neriuutinnillu Pinngortitavit akornanni Saammaannerpit saqqummernerinut pakatseqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut, peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Nipikkut sallaannerpaakkut Oqaatsikkullu ataqqinarsisitaanerpaakkut, Matuit alloriusaanut suli qanilliartuinnaqqullunga Illillu Nallittuissutsivit alannguanit Tukkussutsivillu kunngeqarfiata qilaanit ungasillivallaaqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit -Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Qaarpit qaamasup akisugunneratigut Kiinnannillu qaamanikkut, killingusaakkut qullerpaarpaakkut seqerluni ersarissukkut, Atisavit tipigissusianit kajungilerseqqullunga, Oqaatsivillu viinnianik toqqakkamik imerteqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Nutsat Illit Kiinnanni aalasoq pillugu, soorlumi allaatit ataqqinarsisitaanerpaaq Allakkannik allakkaangavit quppernerisigut aalatitaasartoq, Pinngortitavit naalagaaffiani tipigissaammik isertortumik imalimmik siaruarterillutik, imatut Siunertamut kiffartuussinissamik qaffatseqqullunga, allaat tunuarnaveerlunga, aammalu inunnit Illit nalunaaq- qutinnik assortuisut eqqarsaataannit Kiinnannillu alarsimasinnut akornusersorneqaqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Atikkut, Atinut kunnginngortissimasakkut, taannalu aqqutigalugu kikkut qilammiittut nunamiittullu tamarmik nuannaalersimasut, Kusanassutsivit Ulluata ulloriaa kipissananga isiginnaarsinnaalerseqqullugu Illillu oqaatsivit viinnianik pilersoqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuufFiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, qaqqat inngiini qutsinnerusuni Ataqqinangaarsutsikkut qatsinnerpaamilu Saqqummernerpit Kunngeqarfiani qilammiittukkut saammaannikkut Illit piumassutsinnik kissaatit, Illillu siunertavit saqqummiussaanut naleqquttumik iliorfigeqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Kusanassutsikkut soraajuissutsip killingusaata qulaagut seqersukkut, kusanassuseq saqqummerniariartoq sioraani kusanassutsip naalagaaffiisa qinnuiginnillutik sikillutik pallorfigisaat, nipinik aviluarpalaartunik ataqqinartiitigalugu, uannut tunniuteqqullugu sunit pigisannit tamanit toqusinnaaneq, sunillu Illit pigisannut tamanut inuusinnaanissaq. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Aterpit saqqummerneratigut, Asanarnerpaakkut, Illit Asasavit uummataasa kipisangaarfianut, tarningillu nunami tamani najugallit qutsissumut qaffatsitaaffigisimasaatigut, ikioqqullunga pinngortitavit akornanni Illit eqqaamaqqullutit, Innuttavillu akornanni Illit unnersiutigeqqullutit. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Orpiup-Lotusip guuterpaluttup aalarpalunneragut Illillu ativit naalagaaffiani Oqalunnerpit suialaannguagut nipikilluni isussuttukkut, Illit piumasavit narrugilluinnagaanik tamanit ungasissooqqullunga, ingerlateqqullungalu illoqarfimmut Tassuma, Illit nalunaaqqutivit Qaammalernerisaata, qinngorsimaffigisaanut qanillisaqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Allakkap Illit piumassutsivit qarnanit anillanniariarluni imarsuarmik qaputtuinnanngortitsisup anorinillu supilersitsisup inerittunillu saqqummerartitsisup orpinnillu naajartulersitsisup qangalu malunniutaasimasunik tammartiterisup saagunillu tamanik alittuisup, Ilinnullu tunniusimasunut Naalakkamik, Killeqanngitsup, kiinaanit qaamanermut tuaviulersitsisup, Illit ilisimassutsivit toqqortaani sunik toqqugaqarnersoq isertugaqarnersorlu uannut ilisimatitsissutigeqqullugu. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Asanninnerpit inneratigut Illit qinersimasavit Asasavillu isaannit sininneq ajulersitsisukkut, taakkulu ullaakkut qaalernerani Ilinnik eqqaamanninnerisigut unnersiutiginninnerisigullu, naatsorsuutigeqqullunga Illit Atuagaatinni nassiussimasanni Piumassutsikkullu saqqummersissimasanni angusassarititannik angusaqarsimasutut. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Kiinnavit qaammanera Ilinnut qanittut Peqqussutsivit qarsuinik naapitsinissamik kissaateqalersitsisoq pillugu, Ilinnullu tunniusimasut Illit Aqqutinni Akeqqavit panaannik naapitsillutik siumuerusussusermik kissaateqalersitsisoq pillugu, Allaatit qutsinnerpaasoq atorlugu allaatequllunga Tatigisavit Toqqakkavillu atugassaattut Allassimasavit assigisaannik. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Atikkut Illit asasavit torlulaarutiginninnerisigut Ilinnullu kipisasut anersaarulunnerisigut tusarnaarsimasutit, Ilinnullu qanittut nuannarinnillutik torlulaartarnerisigut, Ilinnut tunniusimasut kappialaataasigut, neriuumminnillu Ilinnut tutsitsisimasut kissaataannik, kipisanerminnilu naammassisitaasukkut, Illit piviusunngortitsisimanikkut, Saammaannikkut Tunissutikkullu aammalu Atikkut isumakkeerfiginninnerup imarsua Kiinnavit saani qaputtunngorsimasoq, Isumassuingaarnerpillu nuiai Illit kiffannut siallilersimasutigut, kimulluunniit allaqqullugu Ilinnut saassimasumut Illillu maleruaqqusat malillugu iisinnginniarnermik naalassimasumut, akissarsiassaq taakkununnga Illit akuersinerit aatsaat malillugu oqaluttunut aammalu pigisaminnik tamanik asiginnaasinnut Illit aqqutinni aammalu Ilinnut asanninnerminni.Qinnuigaakkit Illit, Naalagara-aa, Ilikkut namminikkut Illillu nalunaaqqutikkut Illillu nalunaajaatikkut ersarissukkut aammalu Illit Kusanassutsivit Ulluata ulloriaagut akisuguttumik qaamasukkut aammalu Illit Avalequtikkut, qaangiisimanerit Illit inatsisinnik iperaanaveersaarsimasinni aammalu Illit Atuagaatinni maleruaqqusanik naalassimasunut piiaqqullugit. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.
+*Kitáb-i-Aqdasimi manna nalunaarneqarpoq: "Peqqusimavatsigit qinusaqqullusi inersimassutsillu aallartinnerani [15-inik ukioqalernermi] iisinnginniartaqqullusi; tamanna Guutimit Naalakkassinnit siulissilu Naalagaannit peqqussutaavoq. . . . Kikkut angalasut, napparsimasut, naartusut imaluunniit milutsitsisut, iisinnginniarnermik qilersugaanngillat. . . . Seqernup nuineranit tarrinneranut nerisassat imigassallu pinaveersaarsigik mianersuutigisiullu pilerisunnerup saammaannermik Atuakkami aalajangersimasumi taassuminnga arsaanngimmasi.” *Iisinnginniarnerup nalaa tassa marsip 1-annit 19-iannut imaluunniit 2-annit 20-annut. Qinnuigaakkit Illit, Guutiga-aa, Nalunaaqqutikkut nukittuukkut Saammaannikkullu inuit akornanni saqqummersitakkut, Illit qanissutsivit illoqarfiata isaaffianit qimagutiteqqunanga, neriuutinnillu Pinngortitavit akornanni Saammaannerpit saqqummernerinut pakatseqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut, peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Nipikkut sallaannerpaakkut Oqaatsikkullu ataqqinarsisitaanerpaakkut, Matuit alloriusaanut suli qanilliartuinnaqqullunga Illillu Nallittuissutsivit alannguanit Tukkussutsivillu kunngeqarfiata qilaanit ungasillivallaaqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit -Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Qaarpit qaamasup akisugunneratigut Kiinnannillu qaamanikkut, killingusaakkut qullerpaarpaakkut seqerluni ersarissukkut, Atisavit tipigissusianit kajungilerseqqullunga, Oqaatsivillu viinnianik toqqakkamik imerteqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Nutsat Illit Kiinnanni aalasoq pillugu, soorlumi allaatit ataqqinarsisitaanerpaaq Allakkannik allakkaangavit quppernerisigut aalatitaasartoq, Pinngortitavit naalagaaffiani tipigissaammik isertortumik imalimmik siaruarterillutik, imatut Siunertamut kiffartuussinissamik qaffatseqqullunga, allaat tunuarnaveerlunga, aammalu inunnit Illit nalunaaq- qutinnik assortuisut eqqarsaataannit Kiinnannillu alarsimasinnut akornusersorneqaqqunanga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Atikkut, Atinut kunnginngortissimasakkut, taannalu aqqutigalugu kikkut qilammiittut nunamiittullu tamarmik nuannaalersimasut, Kusanassutsivit Ulluata ulloriaa kipissananga isiginnaarsinnaalerseqqullugu Illillu oqaatsivit viinnianik pilersoqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuufFiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, qaqqat inngiini qutsinnerusuni Ataqqinangaarsutsikkut qatsinnerpaamilu Saqqummernerpit Kunngeqarfiani qilammiittukkut saammaannikkut Illit piumassutsinnik kissaatit, Illillu siunertavit saqqummiussaanut naleqquttumik iliorfigeqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Kusanassutsikkut soraajuissutsip killingusaata qulaagut seqersukkut, kusanassuseq saqqummerniariartoq sioraani kusanassutsip naalagaaffiisa qinnuiginnillutik sikillutik pallorfigisaat, nipinik aviluarpalaartunik ataqqinartiitigalugu, uannut tunniuteqqullugu sunit pigisannit tamanit toqusinnaaneq, sunillu Illit pigisannut tamanut inuusinnaanissaq. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga. Qinnuigaakkit Illit, Guutiga-aa, Aterpit saqqummerneratigut, Asanarnerpaakkut, Illit Asasavit uummataasa kipisangaarfianut, tarningillu nunami tamani najugallit qutsissumut qaffatsitaaffigisimasaatigut, ikioqqullunga pinngortitavit akornanni Illit eqqaamaqqullutit, Innuttavillu akornanni Illit unnersiutigeqqullutit. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Orpiup-Lotusip guuterpaluttup aalarpalunneragut Illillu ativit naalagaaffiani Oqalunnerpit suialaannguagut nipikilluni isussuttukkut, Illit piumasavit narrugilluinnagaanik tamanit ungasissooqqullunga, ingerlateqqullungalu illoqarfimmut Tassuma, Illit nalunaaqqutivit Qaammalernerisaata, qinngorsimaffigisaanut qanillisaqqullunga. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Allakkap Illit piumassutsivit qarnanit anillanniariarluni imarsuarmik qaputtuinnanngortitsisup anorinillu supilersitsisup inerittunillu saqqummerartitsisup orpinnillu naajartulersitsisup qangalu malunniutaasimasunik tammartiterisup saagunillu tamanik alittuisup, Ilinnullu tunniusimasunut Naalakkamik, Killeqanngitsup, kiinaanit qaamanermut tuaviulersitsisup, Illit ilisimassutsivit toqqortaani sunik toqqugaqarnersoq isertugaqarnersorlu uannut ilisimatitsissutigeqqullugu. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Asanninnerpit inneratigut Illit qinersimasavit Asasavillu isaannit sininneq ajulersitsisukkut, taakkulu ullaakkut qaalernerani Ilinnik eqqaamanninnerisigut unnersiutiginninnerisigullu, naatsorsuutigeqqullunga Illit Atuagaatinni nassiussimasanni Piumassutsikkullu saqqummersissimasanni angusassarititannik angusaqarsimasutut. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Kiinnavit qaammanera Ilinnut qanittut Peqqussutsivit qarsuinik naapitsinissamik kissaateqalersitsisoq pillugu, Ilinnullu tunniusimasut Illit Aqqutinni Akeqqavit panaannik naapitsillutik siumuerusussusermik kissaateqalersitsisoq pillugu, Allaatit qutsinnerpaasoq atorlugu allaatequllunga Tatigisavit Toqqakkavillu atugassaattut Allassimasavit assigisaannik. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.Qinnuigaakkit Illit, Guutiga-aa, Atikkut Illit asasavit torlulaarutiginninnerisigut Ilinnullu kipisasut anersaarulunnerisigut tusarnaarsimasutit, Ilinnullu qanittut nuannarinnillutik torlulaartarnerisigut, Ilinnut tunniusimasut kappialaataasigut, neriuumminnillu Ilinnut tutsitsisimasut kissaataannik, kipisanerminnilu naammassisitaasukkut, Illit piviusunngortitsisimanikkut, Saammaannikkut Tunissutikkullu aammalu Atikkut isumakkeerfiginninnerup imarsua Kiinnavit saani qaputtunngorsimasoq, Isumassuingaarnerpillu nuiai Illit kiffannut siallilersimasutigut, kimulluunniit allaqqullugu Ilinnut saassimasumut Illillu maleruaqqusat malillugu iisinnginniarnermik naalassimasumut, akissarsiassaq taakkununnga Illit akuersinerit aatsaat malillugu oqaluttunut aammalu pigisaminnik tamanik asiginnaasinnut Illit aqqutinni aammalu Ilinnut asanninnerminni.Qinnuigaakkit Illit, Naalagara-aa, Ilikkut namminikkut Illillu nalunaaqqutikkut Illillu nalunaajaatikkut ersarissukkut aammalu Illit Kusanassutsivit Ulluata ulloriaagut akisuguttumik qaamasukkut aammalu Illit Avalequtikkut, qaangiisimanerit Illit inatsisinnik iperaanaveersaarsimasinni aammalu Illit Atuagaatinni maleruaqqusanik naalassimasunut piiaqqullugit. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.
 
 -- Bahá'u'lláh
 
-bpn9979 «[Kalaallisut](../kl/prayers/#bpn9979)» 
+bpn9979 
 
 ----
 
 
 <a id="bpn9981"></a> 
-Ataqqinartitaagit Illit, Naalagaq Guutiga-aa! Makku tassaapput ullut Illit inunnut tamanut iisinnginniarfissatut peqqusatit, taamaaliornermikkut tarnitik eqqiarniassammatigik, atassuteqarnernullu sunulluunniit Illiunngitsunut qilerussaarniassammata, aammalu taakkua uummataannit pilerniassammat Illit ataqqinassutsivit inaanm naleqquttoq aammalu Illit saqqummernerpit ataasiussusiata issiavianut iluarinartoq. Tunniuguk, Naalagara-aa iisinnginniarnerup matuma imermik inuunartumik kuulluarnissaa, aammalu ileqqorissaarutit Illit taassuminnga pisuunngortitsinensavit saqqummersinnissaat.Taassuma ikiuutissaatigut eqqiakkit Illit kiffavit uummataat, taakku silarsuarmi ajortunit Illit Aterpit, tamanit illernarnerpaasup, alarnissaanut akornusigaanngitsoorsimasut, aammalu Illit nalunaaqqutinnik ajasoornarnerpaanik, Illit saqqummernerpit takkunneranik malittaasunik Illit Naalagaffmnik, Pissaaninnik, Ataqqinassutsinnik Illernassutsinnillu peqatiginnilersissimasannik, uppensaqanngitsut nipiliornersuinit eqqissiviinnerinillu sunnigaanngitsoorsimasut. Makku tassa kiffatit, Illit qaaqqusinerit tusarniariarlugu Illit nallittuissutsinnut tuaviinnaq aggersut aammalu silarsuup matuma allanngornerinik nalaatsornerinillu imaluunniit inuit killilersuutigisaannit unitsitaasimanngitsut.Uanga tassaavunga, Guutiga-aa, Illit ataasiussutsinnik uppernarsaasoq, Illit pilimaniannginninnik akuersaartoq, Illit ataqqinassutsivit saqqummernerinut nikanartilluni sikiffiginnittoq, aammalu niaqqi sikisimasoq qaamanerup akisugunneranik, Illit illernassutsinnit nunamiorpalunngitsumit pisumik, ilisarsisoq. Illit upperaakkit, Naalagaaffippit Pissaanerpillu kimittussusiagut inuit isaannut saqqummersitat, uannut ilisaritikkakkuli. Tassunga saassimavunga, sunit tamanit, Illit tunissutivit ajunngisaarutivillu allunaasaanut aalajaallunga tigumminnitsillunga, kaanngarluinnarsimavunga. Tassuma sallusuiissutaa tigusimavara, sallusuissut inatsisini maleruaqqusanilu tupinnarmni tamani Tassunga nassiunneqarsimasoq. Ilinnut asanninnikkut iisinnginniarpunga IIlit peqqusat eqqortillugu, iisinnginniarnerali kipisarlugu Illit nersornaatissat siggunni ikkaangat aammalu Illit iluarisat naapertorlugu. Naatsorsuutaalerseqinanga, Naalagara-aa, ulluunerani iisinnginniarsimasutut, unnunneranili Illit kiinnavit saanut sukataarnialersutut Illillu sallusuissutsinnik tunussisutut, Nalunaaqqutinnik qulalersutut, Uppernarsaatinnik akerliuniartutut 0qaatsinnillu equtitsisutut.Isikka uisikkit, Naalagara-aa, Ilinnillu ujarlersut isaat, Illit nammineq isinnik ilisariniassagatsigit. Tamanna tassaavoq Illit peqqussutit Atuakkami Ilinnit Tassunga nassiussami uatsinnut tunniussaq, taanna Illit peqqusakkut toqqagaasoq, taanna pinngortitanut tamanut Illit iluarisannut toqqorsimasat, taanna Illit iluarisannik Illit naalagaaffmnik pisatsersorsimagit, aammalu taanna Illit imikkut salliutippat Illillu innuttannut Nalunaarutinnik oqariartortitat. Taamaattumik unnersiutigisaagit Illit, Guutiga-aa, tassa Illit saamaannikkut Taassuminnga uatsinnik miserratiginnikkunaarsikkatsigut, aammalu Tassunga nassiussaasimasut suut tamaasa akuersaaratsigit, aamalu ataqqinaammik tunisimagatsigut Ataasituap najuineranut, Illit Atuakkanni Allakkannilu neriorsuutigisimasakkut, angusaqartilluta.Tassami isigaarma, Guutiga-aa, kiinara Ilinnut saatissimagiga aammalu aalajaallunga Illit saammaannikkut Isumassuinerpit Tukkussutsivillu allunaasaa tigummitillugu aammalu Illit nallittuissutsivit tukkussutsivillu saammaasup annoraavata mersornera aalajangiusimallugu. Aseroqinagu, qinnuigaakkit Illit, neriuutiga angusaqarnissamut tamanna Illit kiffannut aalajangiussat, kiffatit Illit inigisavit kisivit oqartussaaffippit tungaanut saassimasut aammalu Illit qanissutsivit illernartuanut aammalu Ilinnik asanninnermikkut iisinnginniarnermik naalassimasut. Nassuerutigaara, Guutiga-aa, suut tamarmik uannit pisut Illit naalagaaffinnut qinngaqqunnartuusut aammalu Illit ataqqinangaarsutsinnut inorsarluinnarlutik. Taamaattorli Atikkut, tassuunakkut Illit Nammineq taaguutivit qinngornerisa Saqqummernerml matumani pmngortitaasunut tamanut asseqanngitsumik akisuguttukkut, tassuunalu Illit Aterpit qaamanerpaap Kusanassusiata saqqummerfiatigut qinnuigaakkit, Illit nallittuissutsivit viinnianik immiseqqullunga, Saammaannerpillu ermanik qaammaarimmik Illit piumassutsivit talerpiagut kuuttumik, taamaalillunga isiginera Ilinnut sammitittuaqqullugu aammalu sunit tamanit taamaallaat Illit kisivit pinnak qilerussaagaaqqullunga, taamaalilluni silarsuaq suullu tamarmik tassam pmngortitaasut uannut ullortut soraajasutut, Illit pinngortissallugu soqutaassuseqartinngisattut islgisinnaaqqullugu.Aammalu iluunngarlunga qinnuigaakkit, Guutiga-aa, Illit piumassutsivit qilaanit aammalu Illit nallittuissutsivit nulaanit uagut unioqqutitsinitta tipersuanit eqqiarneqaatissatsinnik sialleqqullugu, Illit-aa, Illit Imminut Nallittuinerup Guutianik taasimasutit! Illit ilumut tassaavutit taanna Tamanit Pissaaneqarnerpaaq, taanna Tamanit Illernarnerpaaq, taanna Ajunngitsuliorumatooq.Qimaateqinagu, Naalagara-aa, taanna ilinnik alarsisoq, aammalu Ininnit ungasissumut peerseqinagu taanna ilinnut qanillisimasoq. Illit saammaanninnik ajunngitsuliornernillu ujarlerluni kipisaqaluni assaminik aarlorsimalluni qinusup nenuutaa aseroqinagu, aammalu Kiffatit tunniusimasut Illit nallittuissutsivit saamasup misigittarnerpillu asanningaartup tupinnartuliaanik erliguuteqinagit. Isumakkeerfiginnittuuvutit Tamanillu Tukkornersaallutit Illit, Naalagara-aa! Pissaaneqarputit Illit kissaatit malillugu iliorsinnaallutit. Kikkut tamarmik, Illit kisivit pinnak, Pissaanerpit saqqummernerinut qanoq iliorsinnaanngillat, Illit pisuussutsinnut nalunaaqqutinut tamanut sapersipput, Illit naalagaaffippit qilammiusup saqqummernerinut assersuukkaanni suunngillat, aammalu Illit pissaanerpit nalunaaqqutannut uppernarsaataanullu sanilliunnerminni nukeerutitaalluinnarsimasuullutik. Sumik qimaaffissaqarpa Illiunngitsumik, Naalagara-aa, qinersinnaasannik, sumillu taliffissaqarpa tuaviorlunga ornissinnaasannik? Naagga, Illit pissaanerpit nukittussusia uppernarsaatigaara! Illiunngitsumik illersissaqanngilaq, Illiunngitsumik qimaaffissaqarani, Illiunngitsumillu toqqorterfissamik ujarlerfissaqarani. Ooqattaarlara, Naalagara-aa, Illit eqqaaneqaatissavit ataqqinarsisitaanissavillu tunguarninnera nunamiorpalunngitsoq. Illit pissaanikkut uppernarsaavunga! Kinaluunniit taassuma tunguarninneranik ooqattaarisoq silarsuarmut matumunnga taassumalu imaanik tamanik attaveqarnerminik iperaajumaarpoq, IIliunngitsumillu eqqaasaqarnissamut eqqiarneqarluni. Tarniga isumassarsisiguk, Guutiga-aa, Ilinnik eqqaaneqaammik tupinnartumik, Aqqit illernartinniassagakku. Illit Oqaatsinnik atuartumut tunissutinnik nassaanngitsumut naatsorsuutittut naatsorsuuteqinanga, tassammi imanneqarpoq tamanna Ilinnit peqqussutaasoq, aammalu Illit pinngortitavit tarninginik Illillu kiffavit uummataannik kingumut uummartitsisoq. Naatsorsuutinngali, Naalagara-aa, Illit nalinni tipigissumik tunguarnitsumik silaannarmi issimasumik ima aalaterneqarsimatigisutut, allaat inuunertik Ilinnut tunniussimallugu aammalu toqunissartik ornillugu isiginnaariartarfimmut tuaviinnaq ornigussimasumut Illit kusanassutsinnik isiginnaarnissamut kipisanermik aammalu Illit najuinissannik angusaqarumanermik ilungersuuteqarsimasunut. Aqqutaanilu kimit oqarfigineqarunik, &#34;Sumut ingerlavisi?&#34; oqarumaarput, &#34;Guutimut, taanna Tamanik Piginnittoq, Ajornartorsiornermi Ikiorti, taanna Imminut Atatittoq!&#34;Unioqqutitsinerit Ilinnit alarsisunit piliarineqarsimasut aammalu Ilinnut imminnut angisuutissimasut, Ilinnik asanninnertik pinngitsoortissimanngilaat aammalu kiinnaminnik Ilinnut saatitsinngitsoorsimanngillat Illillu nallittuissutsinni killormut saassimanatik. Taakku tassaapput qutsinnerusumi Katersorsimasunit pilluaqqusaasut, Illoqarfiit soraassanngitsut innuttaannit illernartinneqartut, aammalu taakku niaquisa qaavini IIlit allaatit ataqqinarsisitaanerpaaq allassimavoq: &#34;Taakku Baháp innuttai. Taakkunatigut siulersuinerup akisugunnera aallartitaavoq.&#34; Taamaalilluni tamanna peqqussuteqarfigineqarsimavoq IIlit inatsisinni Illillu piumassutsinni Inatsisivit allanngujuitsup Allagaani.Taamaattumik nalunaarutigiuk, Guutiga-aa, taakkua angissusiat, angissuserlu taakkunani inuunerminni imaluunniit toquminni taakkuninnga kaaviiaarisimasuni. Pinngortitavit akornanni tamatuminnga naapertuilluartunut Illit aalajangikkannik pilersukkit. Pissaaneqarluarputit Illit suut tamaasa iluarsarsinnaallugit. Illiunngitsumik Guuteqanngilaq, taanna Ajugaqanngitsuusoq, Ajornartorsiorfimmi Ikiorti, Ajugaqanngitsoq, taanna Tamanit Tukkornerpaaq. lisinnginniarnerput iisinnginniarnermit matumannga taamaateqlnani, Naalagara-aa, angerutsillu angerusermi maani isumaqatigiissutigisimasatit aamma naamik. Ilinnut asanninnerput tunngavigalugu iliornivut tamaasa tigukkit aammalu Illit nuannaarnissat pillugu aammalu suut tamaasa iliuuserinngitsuukkavut kissaatigisavut ajortut kanngunartullu maleruutitiinnarsimammatigut. Illillu asanninninnik alarsinngisaannarnissarput aamalu Illit Iluarisat pitsaasoq piujuaannartiguk, Illersortigullu Ilinnut alarsisimasut tungaannit Illillu nalunaaqqutinnik kusanarnerpaamik tunuartitsisimasut pilersaarutipiluinit. Ilumummi Illit tassaavutit silarsuarmi maani tulliuttumilu Naalagaq. Allamik Guuteqanngilaq Ilinnik qaangiisimasumik, taanna Ataqqinarsisitaasoq, taanna Qutsinnerpaasoq.Illernarsisigullu Illit, Naalagaq Guutiga-aa, Taanna tassaasoq Killiffik Siulleq, taanna Tupinnartuliaq Qilammiorpaluttoq, taanna Isseq Takuneqanngitsoq, Qilammiorpalussutsip Ullaanngulernera aammalu Illit Naalagaaffippit Saqqummernera, tassuuna qanga ilisimassuseq tamarmi siunissamilu ilisimassuseq tamarmi ersarissagaapput, tassuuna Illit ilisimassutsivit isertortup sapangai qulaajagaapput Illillu aterpit erligisaangaartup tupinnartuliaa ersersinneqarluni, tassami Illit Tassunga Siuliusussaq toqqarsimavat, taassuma aqqani naqinnerit P I L E R I T katiterneqarsimapput peqatigiilersinneqarlutillu, tassuuna Illit ataqqinangaarsutsit, Illit naalagaaffiit Illillu pissaanerit ilisimaneqalerput, tassuuna Illit oqaatsitit nassiunneqarput aammalu Illit inatsisitit paasiuminartumik saqqummiussaallutik aammalu Illit nalunaaqqutitit siammarterluagaallutik, Illillu oqaatsit tunngavilerneqarluni, tassuuna Illit toqqakkavit uummataat tamanut qilammiittunut tamanullu nunamiittunut qulaarneqarput, katersorneqarpullu Illit taasimasanni &#39;Ali-Muhamedimik, Illit aterpit naalagaaffiiniitumi aammalu Anersaat akornanni Anersaamik taasanni Illit inatsisit utertinneqarsinnaanngitsoq pillugu Allakkaniittumi, Illillu nammineq taaguusiussannik tunisimasat, atiatigut aqqit allat tamarmik Illit inatsinikkut Illillu pissaanerpit kimittussusiagut, utersimapput, aammalu taassumani Illit piginnaassutsitit taaguutitillu tamaasa qanoq inerneqarlutik innissaat angullugu naammassisimavat. Taassuma aamma pigai aqqit Illit illernassutsinni ippinnaateqanngitsuni toqqorsimasut, Illit silarsuanni ersinngitsumi aammalu Illit illoqarfinni illernartitaasuni.Ilanngullugillu illernarsakkit Taassuminnga, Taassumalu nalunaaqqutaanik upperinnittut, aammalu Tassunga, Illit ataasiussutsinnik Taassuma kingullerpaamik Saqqummerneranut akuerinnissimasut akornanni, Tassunga saassimasut Saqqummerneq Taassuma allakkamini, Atuakkiamini, Allaaserisamini, taallani tupinnartuni tamani aammalu oqaatsini erlinnartuutitut ittuni Tassunga nassiussaasimasuni, eqqartorsimasaa. Tamanna tassaavoq saqqummerneq taannarpiaq Illit angerusermik pilersitseqqullugu peqqusimasat, suli Nammineq angerusermik pilersitsinngikkallarnerani. Taanna tassaavoq Bayánip nersorneqaatissaanik unnersiutigisaa. Tassani nersornarsusia ataqqmiarneqarsimavoq, Sallusuissutaa tunngaviligaalluni, Naalagaaffia nalunaarutigineqarluni Siunertaalu naammassilluarneqarluni. Pilluaqqusaali inuk Tassunga saassimasoq Taassumalu peqqusaanut naalalluni, Illit-aa silarsuit Naalagaat tamanullu Ilinnik ilisarinnittunut Kajungerfigisaq.Unnersiutigisaagit Illit, Guutiga-aa, Taanna miserratigiunnaarsillugulu asalersissimagakku. Taamaattumik Tassuuna tamakkunatigullu Illit Qilammiuussutsinnut Ullaanngulersutigut aammalu Naalagaaffippit Saqqummernerisigut, Saqqummernerpit Erlinnartuusiviisigut aammalu IIlit isumassarsisitsinerpit Toqqorsiviisigut qinnuigaakkit uatsinnik Tassunga kiffartortunngorteqqulluta naalattunngortillutalu, nukissatsinnillu tunisigut Taassuma Siunertaanik ikiuisunngoqqulluta Taassumalu akeraanik nungusaasunngoqqulluta.Pissaaneqarputit Illit iluarisat malillugu iliuuseqarsinnaanissamut. Allamik Guuteqanngilaq Illit kisivit, Ajugaqanngitsoq, taanna Illernartoq, inunnit tamanit ikioqqusunit ujagaajuartoq!
+Ataqqinartitaagit Illit, Naalagaq Guutiga-aa! Makku tassaapput ullut Illit inunnut tamanut iisinnginniarfissatut peqqusatit, taamaaliornermikkut tarnitik eqqiarniassammatigik, atassuteqarnernullu sunulluunniit Illiunngitsunut qilerussaarniassammata, aammalu taakkua uummataannit pilerniassammat Illit ataqqinassutsivit inaanm naleqquttoq aammalu Illit saqqummernerpit ataasiussusiata issiavianut iluarinartoq. Tunniuguk, Naalagara-aa iisinnginniarnerup matuma imermik inuunartumik kuulluarnissaa, aammalu ileqqorissaarutit Illit taassuminnga pisuunngortitsinensavit saqqummersinnissaat.Taassuma ikiuutissaatigut eqqiakkit Illit kiffavit uummataat, taakku silarsuarmi ajortunit Illit Aterpit, tamanit illernarnerpaasup, alarnissaanut akornusigaanngitsoorsimasut, aammalu Illit nalunaaqqutinnik ajasoornarnerpaanik, Illit saqqummernerpit takkunneranik malittaasunik Illit Naalagaffmnik, Pissaaninnik, Ataqqinassutsinnik Illernassutsinnillu peqatiginnilersissimasannik, uppensaqanngitsut nipiliornersuinit eqqissiviinnerinillu sunnigaanngitsoorsimasut. Makku tassa kiffatit, Illit qaaqqusinerit tusarniariarlugu Illit nallittuissutsinnut tuaviinnaq aggersut aammalu silarsuup matuma allanngornerinik nalaatsornerinillu imaluunniit inuit killilersuutigisaannit unitsitaasimanngitsut.Uanga tassaavunga, Guutiga-aa, Illit ataasiussutsinnik uppernarsaasoq, Illit pilimaniannginninnik akuersaartoq, Illit ataqqinassutsivit saqqummernerinut nikanartilluni sikiffiginnittoq, aammalu niaqqi sikisimasoq qaamanerup akisugunneranik, Illit illernassutsinnit nunamiorpalunngitsumit pisumik, ilisarsisoq. Illit upperaakkit, Naalagaaffippit Pissaanerpillu kimittussusiagut inuit isaannut saqqummersitat, uannut ilisaritikkakkuli. Tassunga saassimavunga, sunit tamanit, Illit tunissutivit ajunngisaarutivillu allunaasaanut aalajaallunga tigumminnitsillunga, kaanngarluinnarsimavunga. Tassuma sallusuiissutaa tigusimavara, sallusuissut inatsisini maleruaqqusanilu tupinnarmni tamani Tassunga nassiunneqarsimasoq. Ilinnut asanninnikkut iisinnginniarpunga IIlit peqqusat eqqortillugu, iisinnginniarnerali kipisarlugu Illit nersornaatissat siggunni ikkaangat aammalu Illit iluarisat naapertorlugu. Naatsorsuutaalerseqinanga, Naalagara-aa, ulluunerani iisinnginniarsimasutut, unnunneranili Illit kiinnavit saanut sukataarnialersutut Illillu sallusuissutsinnik tunussisutut, Nalunaaqqutinnik qulalersutut, Uppernarsaatinnik akerliuniartutut 0qaatsinnillu equtitsisutut.Isikka uisikkit, Naalagara-aa, Ilinnillu ujarlersut isaat, Illit nammineq isinnik ilisariniassagatsigit. Tamanna tassaavoq Illit peqqussutit Atuakkami Ilinnit Tassunga nassiussami uatsinnut tunniussaq, taanna Illit peqqusakkut toqqagaasoq, taanna pinngortitanut tamanut Illit iluarisannut toqqorsimasat, taanna Illit iluarisannik Illit naalagaaffmnik pisatsersorsimagit, aammalu taanna Illit imikkut salliutippat Illillu innuttannut Nalunaarutinnik oqariartortitat. Taamaattumik unnersiutigisaagit Illit, Guutiga-aa, tassa Illit saamaannikkut Taassuminnga uatsinnik miserratiginnikkunaarsikkatsigut, aammalu Tassunga nassiussaasimasut suut tamaasa akuersaaratsigit, aamalu ataqqinaammik tunisimagatsigut Ataasituap najuineranut, Illit Atuakkanni Allakkannilu neriorsuutigisimasakkut, angusaqartilluta.Tassami isigaarma, Guutiga-aa, kiinara Ilinnut saatissimagiga aammalu aalajaallunga Illit saammaannikkut Isumassuinerpit Tukkussutsivillu allunaasaa tigummitillugu aammalu Illit nallittuissutsivit tukkussutsivillu saammaasup annoraavata mersornera aalajangiusimallugu. Aseroqinagu, qinnuigaakkit Illit, neriuutiga angusaqarnissamut tamanna Illit kiffannut aalajangiussat, kiffatit Illit inigisavit kisivit oqartussaaffippit tungaanut saassimasut aammalu Illit qanissutsivit illernartuanut aammalu Ilinnik asanninnermikkut iisinnginniarnermik naalassimasut. Nassuerutigaara, Guutiga-aa, suut tamarmik uannit pisut Illit naalagaaffinnut qinngaqqunnartuusut aammalu Illit ataqqinangaarsutsinnut inorsarluinnarlutik. Taamaattorli Atikkut, tassuunakkut Illit Nammineq taaguutivit qinngornerisa Saqqummernerml matumani pmngortitaasunut tamanut asseqanngitsumik akisuguttukkut, tassuunalu Illit Aterpit qaamanerpaap Kusanassusiata saqqummerfiatigut qinnuigaakkit, Illit nallittuissutsivit viinnianik immiseqqullunga, Saammaannerpillu ermanik qaammaarimmik Illit piumassutsivit talerpiagut kuuttumik, taamaalillunga isiginera Ilinnut sammitittuaqqullugu aammalu sunit tamanit taamaallaat Illit kisivit pinnak qilerussaagaaqqullunga, taamaalilluni silarsuaq suullu tamarmik tassam pmngortitaasut uannut ullortut soraajasutut, Illit pinngortissallugu soqutaassuseqartinngisattut islgisinnaaqqullugu.Aammalu iluunngarlunga qinnuigaakkit, Guutiga-aa, Illit piumassutsivit qilaanit aammalu Illit nallittuissutsivit nulaanit uagut unioqqutitsinitta tipersuanit eqqiarneqaatissatsinnik sialleqqullugu, Illit-aa, Illit Imminut Nallittuinerup Guutianik taasimasutit! Illit ilumut tassaavutit taanna Tamanit Pissaaneqarnerpaaq, taanna Tamanit Illernarnerpaaq, taanna Ajunngitsuliorumatooq.Qimaateqinagu, Naalagara-aa, taanna ilinnik alarsisoq, aammalu Ininnit ungasissumut peerseqinagu taanna ilinnut qanillisimasoq. Illit saammaanninnik ajunngitsuliornernillu ujarlerluni kipisaqaluni assaminik aarlorsimalluni qinusup nenuutaa aseroqinagu, aammalu Kiffatit tunniusimasut Illit nallittuissutsivit saamasup misigittarnerpillu asanningaartup tupinnartuliaanik erliguuteqinagit. Isumakkeerfiginnittuuvutit Tamanillu Tukkornersaallutit Illit, Naalagara-aa! Pissaaneqarputit Illit kissaatit malillugu iliorsinnaallutit. Kikkut tamarmik, Illit kisivit pinnak, Pissaanerpit saqqummernerinut qanoq iliorsinnaanngillat, Illit pisuussutsinnut nalunaaqqutinut tamanut sapersipput, Illit naalagaaffippit qilammiusup saqqummernerinut assersuukkaanni suunngillat, aammalu Illit pissaanerpit nalunaaqqutannut uppernarsaataanullu sanilliunnerminni nukeerutitaalluinnarsimasuullutik. Sumik qimaaffissaqarpa Illiunngitsumik, Naalagara-aa, qinersinnaasannik, sumillu taliffissaqarpa tuaviorlunga ornissinnaasannik? Naagga, Illit pissaanerpit nukittussusia uppernarsaatigaara! Illiunngitsumik illersissaqanngilaq, Illiunngitsumik qimaaffissaqarani, Illiunngitsumillu toqqorterfissamik ujarlerfissaqarani. Ooqattaarlara, Naalagara-aa, Illit eqqaaneqaatissavit ataqqinarsisitaanissavillu tunguarninnera nunamiorpalunngitsoq. Illit pissaanikkut uppernarsaavunga! Kinaluunniit taassuma tunguarninneranik ooqattaarisoq silarsuarmut matumunnga taassumalu imaanik tamanik attaveqarnerminik iperaajumaarpoq, IIliunngitsumillu eqqaasaqarnissamut eqqiarneqarluni. Tarniga isumassarsisiguk, Guutiga-aa, Ilinnik eqqaaneqaammik tupinnartumik, Aqqit illernartinniassagakku. Illit Oqaatsinnik atuartumut tunissutinnik nassaanngitsumut naatsorsuutittut naatsorsuuteqinanga, tassammi imanneqarpoq tamanna Ilinnit peqqussutaasoq, aammalu Illit pinngortitavit tarninginik Illillu kiffavit uummataannik kingumut uummartitsisoq. Naatsorsuutinngali, Naalagara-aa, Illit nalinni tipigissumik tunguarnitsumik silaannarmi issimasumik ima aalaterneqarsimatigisutut, allaat inuunertik Ilinnut tunniussimallugu aammalu toqunissartik ornillugu isiginnaariartarfimmut tuaviinnaq ornigussimasumut Illit kusanassutsinnik isiginnaarnissamut kipisanermik aammalu Illit najuinissannik angusaqarumanermik ilungersuuteqarsimasunut. Aqqutaanilu kimit oqarfigineqarunik, "Sumut ingerlavisi?" oqarumaarput, "Guutimut, taanna Tamanik Piginnittoq, Ajornartorsiornermi Ikiorti, taanna Imminut Atatittoq!"Unioqqutitsinerit Ilinnit alarsisunit piliarineqarsimasut aammalu Ilinnut imminnut angisuutissimasut, Ilinnik asanninnertik pinngitsoortissimanngilaat aammalu kiinnaminnik Ilinnut saatitsinngitsoorsimanngillat Illillu nallittuissutsinni killormut saassimanatik. Taakku tassaapput qutsinnerusumi Katersorsimasunit pilluaqqusaasut, Illoqarfiit soraassanngitsut innuttaannit illernartinneqartut, aammalu taakku niaquisa qaavini IIlit allaatit ataqqinarsisitaanerpaaq allassimavoq: "Taakku Baháp innuttai. Taakkunatigut siulersuinerup akisugunnera aallartitaavoq." Taamaalilluni tamanna peqqussuteqarfigineqarsimavoq IIlit inatsisinni Illillu piumassutsinni Inatsisivit allanngujuitsup Allagaani.Taamaattumik nalunaarutigiuk, Guutiga-aa, taakkua angissusiat, angissuserlu taakkunani inuunerminni imaluunniit toquminni taakkuninnga kaaviiaarisimasuni. Pinngortitavit akornanni tamatuminnga naapertuilluartunut Illit aalajangikkannik pilersukkit. Pissaaneqarluarputit Illit suut tamaasa iluarsarsinnaallugit. Illiunngitsumik Guuteqanngilaq, taanna Ajugaqanngitsuusoq, Ajornartorsiorfimmi Ikiorti, Ajugaqanngitsoq, taanna Tamanit Tukkornerpaaq. lisinnginniarnerput iisinnginniarnermit matumannga taamaateqlnani, Naalagara-aa, angerutsillu angerusermi maani isumaqatigiissutigisimasatit aamma naamik. Ilinnut asanninnerput tunngavigalugu iliornivut tamaasa tigukkit aammalu Illit nuannaarnissat pillugu aammalu suut tamaasa iliuuserinngitsuukkavut kissaatigisavut ajortut kanngunartullu maleruutitiinnarsimammatigut. Illillu asanninninnik alarsinngisaannarnissarput aamalu Illit Iluarisat pitsaasoq piujuaannartiguk, Illersortigullu Ilinnut alarsisimasut tungaannit Illillu nalunaaqqutinnik kusanarnerpaamik tunuartitsisimasut pilersaarutipiluinit. Ilumummi Illit tassaavutit silarsuarmi maani tulliuttumilu Naalagaq. Allamik Guuteqanngilaq Ilinnik qaangiisimasumik, taanna Ataqqinarsisitaasoq, taanna Qutsinnerpaasoq.Illernarsisigullu Illit, Naalagaq Guutiga-aa, Taanna tassaasoq Killiffik Siulleq, taanna Tupinnartuliaq Qilammiorpaluttoq, taanna Isseq Takuneqanngitsoq, Qilammiorpalussutsip Ullaanngulernera aammalu Illit Naalagaaffippit Saqqummernera, tassuuna qanga ilisimassuseq tamarmi siunissamilu ilisimassuseq tamarmi ersarissagaapput, tassuuna Illit ilisimassutsivit isertortup sapangai qulaajagaapput Illillu aterpit erligisaangaartup tupinnartuliaa ersersinneqarluni, tassami Illit Tassunga Siuliusussaq toqqarsimavat, taassuma aqqani naqinnerit P I L E R I T katiterneqarsimapput peqatigiilersinneqarlutillu, tassuuna Illit ataqqinangaarsutsit, Illit naalagaaffiit Illillu pissaanerit ilisimaneqalerput, tassuuna Illit oqaatsitit nassiunneqarput aammalu Illit inatsisitit paasiuminartumik saqqummiussaallutik aammalu Illit nalunaaqqutitit siammarterluagaallutik, Illillu oqaatsit tunngavilerneqarluni, tassuuna Illit toqqakkavit uummataat tamanut qilammiittunut tamanullu nunamiittunut qulaarneqarput, katersorneqarpullu Illit taasimasanni 'Ali-Muhamedimik, Illit aterpit naalagaaffiiniitumi aammalu Anersaat akornanni Anersaamik taasanni Illit inatsisit utertinneqarsinnaanngitsoq pillugu Allakkaniittumi, Illillu nammineq taaguusiussannik tunisimasat, atiatigut aqqit allat tamarmik Illit inatsinikkut Illillu pissaanerpit kimittussusiagut, utersimapput, aammalu taassumani Illit piginnaassutsitit taaguutitillu tamaasa qanoq inerneqarlutik innissaat angullugu naammassisimavat. Taassuma aamma pigai aqqit Illit illernassutsinni ippinnaateqanngitsuni toqqorsimasut, Illit silarsuanni ersinngitsumi aammalu Illit illoqarfinni illernartitaasuni.Ilanngullugillu illernarsakkit Taassuminnga, Taassumalu nalunaaqqutaanik upperinnittut, aammalu Tassunga, Illit ataasiussutsinnik Taassuma kingullerpaamik Saqqummerneranut akuerinnissimasut akornanni, Tassunga saassimasut Saqqummerneq Taassuma allakkamini, Atuakkiamini, Allaaserisamini, taallani tupinnartuni tamani aammalu oqaatsini erlinnartuutitut ittuni Tassunga nassiussaasimasuni, eqqartorsimasaa. Tamanna tassaavoq saqqummerneq taannarpiaq Illit angerusermik pilersitseqqullugu peqqusimasat, suli Nammineq angerusermik pilersitsinngikkallarnerani. Taanna tassaavoq Bayánip nersorneqaatissaanik unnersiutigisaa. Tassani nersornarsusia ataqqmiarneqarsimavoq, Sallusuissutaa tunngaviligaalluni, Naalagaaffia nalunaarutigineqarluni Siunertaalu naammassilluarneqarluni. Pilluaqqusaali inuk Tassunga saassimasoq Taassumalu peqqusaanut naalalluni, Illit-aa silarsuit Naalagaat tamanullu Ilinnik ilisarinnittunut Kajungerfigisaq.Unnersiutigisaagit Illit, Guutiga-aa, Taanna miserratigiunnaarsillugulu asalersissimagakku. Taamaattumik Tassuuna tamakkunatigullu Illit Qilammiuussutsinnut Ullaanngulersutigut aammalu Naalagaaffippit Saqqummernerisigut, Saqqummernerpit Erlinnartuusiviisigut aammalu IIlit isumassarsisitsinerpit Toqqorsiviisigut qinnuigaakkit uatsinnik Tassunga kiffartortunngorteqqulluta naalattunngortillutalu, nukissatsinnillu tunisigut Taassuma Siunertaanik ikiuisunngoqqulluta Taassumalu akeraanik nungusaasunngoqqulluta.Pissaaneqarputit Illit iluarisat malillugu iliuuseqarsinnaanissamut. Allamik Guuteqanngilaq Illit kisivit, Ajugaqanngitsoq, taanna Illernartoq, inunnit tamanit ikioqqusunit ujagaajuartoq!
 
 -- Bahá'u'lláh
 
-bpn9981 «[Kalaallisut](../kl/prayers/#bpn9981)» 
+bpn9981 
 
 ----
 
@@ -431,7 +432,7 @@ Ullut makku, Guutiga-aa, tassaapput Illit kiffannut peqqusinikkut iisinnginniarn
 
 -- Bahá'u'lláh
 
-bpn9980 «[Kalaallisut](../kl/prayers/#bpn9980)» 
+bpn9980 
 
 ----
 
@@ -441,7 +442,7 @@ Guuti-aa! Timip piumasai qimallugit iisinnginniartillunga nerinermik imernermill
 
 -- Abdu'l-Bahá
 
-bpn9982 «[Kalaallisut](../kl/prayers/#bpn9982)» 
+bpn9982 
 
 ----
 
@@ -455,7 +456,7 @@ Guutiga, Qinnuiga, Naalagara, Maqaasisara! Oqqap suup Ilinnut qujaniarnera oqaat
 
 -- Bahá'u'lláh
 
-bpn7257 «[Kalaallisut](../kl/prayers/#bpn7257)» 
+bpn7257 
 
 ----
 
@@ -469,7 +470,7 @@ Naalagara! Naalagara! Unnersiutigaakkit, qutsavigaakkillu kiffannut arnamut mani
 
 -- Abdu'l-Bahá
 
-bpn7258 «[Kalaallisut](../kl/prayers/#bpn7258)» 
+bpn7258 
 
 ----
 
@@ -483,7 +484,7 @@ Naalannartitaagit, Naalagaq-aa Guutiga! Qinnuigaakkit uanga Upperisavillu tapers
 
 -- Báb
 
-bpn7259 «[Kalaallisut](../kl/prayers/#bpn7259)» 
+bpn7259 
 
 ----
 
@@ -493,7 +494,7 @@ Naalagaq-aa! Uani upperisami ataqatigiissami anginersaasumi meeqqat angajoqqaami
 
 -- Abdu'l-Bahá
 
-bpn7260 «[Kalaallisut](../kl/prayers/#bpn7260)» 
+bpn7260 
 
 ----
 
@@ -507,7 +508,7 @@ Guuti-aa, Guutiga! Kiffat manna arnaq Ilinnik qaaqqusivoq, Ilinnik tatiginnillun
 
 -- Abdu'l-Bahá
 
-bpn7261 «[Kalaallisut](../kl/prayers/#bpn7261)» 
+bpn7261 
 
 ----
 
@@ -521,7 +522,7 @@ Guutiga! Qinnuigaakkit atikkut qaammarinnersaasukkut ikioqqullunga kiffavit suli
 
 -- Bahá'u'lláh
 
-bpn7262 «[Kalaallisut](../kl/prayers/#bpn7262)» 
+bpn7262 
 
 ----
 
@@ -531,7 +532,7 @@ Guuti, Saqqummersitanik tamanik Pinngortitsisoq, Aallaavinnullu tamanut Aallaavi
 
 -- Bahá'u'lláh
 
-bpn7263 «[Kalaallisut](../kl/prayers/#bpn7263)» 
+bpn7263 
 
 ----
 
@@ -541,7 +542,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa!Qinnuigaakkit Illit, Saqqummerneq 
 
 -- Bahá'u'lláh
 
-bpn12580 «[Kalaallisut](../kl/prayers/#bpn12580)» 
+bpn12580 
 
 ----
 
@@ -551,7 +552,7 @@ Guutiga-aa, Illit Kiffat Oqaatsip qullartinnissaanut ikioruk, pisuusaarnerup per
 
 -- Abdu'l-Bahá
 
-bpn7264 «[Kalaallisut](../kl/prayers/#bpn7264)» 
+bpn7264 
 
 ----
 
@@ -561,7 +562,7 @@ Guuti-aa, Guutiga! Kiffatit tatigisatit sallaatsumik asannittumillu uummateqaqqu
 
 -- Abdu'l-Bahá
 
-bpn7265 «[Kalaallisut](../kl/prayers/#bpn7265)» 
+bpn7265 
 
 ----
 
@@ -575,7 +576,7 @@ bpn7265 «[Kalaallisut](../kl/prayers/#bpn7265)»
 
 -- Abdu'l-Bahá
 
-bpn9115 «[Kalaallisut](../kl/prayers/#bpn9115)» 
+bpn9115 
 
 ----
 
@@ -585,7 +586,7 @@ bpn9115 «[Kalaallisut](../kl/prayers/#bpn9115)»
 
 -- Abdu'l-Bahá
 
-bpn9116 «[Kalaallisut](../kl/prayers/#bpn9116)» 
+bpn9116 
 
 ----
 
@@ -595,7 +596,7 @@ Guuti-aa, Guutiga! Isigaat qanoq taarnersuup nunat tamaasa ulissimagai, nunat ta
 
 -- Abdu'l-Bahá
 
-bpn9118 «[Kalaallisut](../kl/prayers/#bpn9118)» 
+bpn9118 
 
 ----
 
@@ -605,7 +606,7 @@ bpn9118 «[Kalaallisut](../kl/prayers/#bpn9118)»
 
 -- Abdu'l-Bahá
 
-bpn9122 «[Kalaallisut](../kl/prayers/#bpn9122)» 
+bpn9122 
 
 ----
 
@@ -615,7 +616,7 @@ bpn9122 «[Kalaallisut](../kl/prayers/#bpn9122)»
 
 -- Abdu'l-Bahá
 
-bpn9124 «[Kalaallisut](../kl/prayers/#bpn9124)» 
+bpn9124 
 
 ----
 
@@ -625,7 +626,7 @@ Illit-aa Guuti asseqanngitsutit! Illit-aa Naalagaaffiup Naalagaa! Tarnit makku t
 
 -- Abdu'l-Bahá
 
-bpn9117 «[Kalaallisut](../kl/prayers/#bpn9117)» 
+bpn9117 
 
 ----
 
@@ -635,7 +636,7 @@ bpn9117 «[Kalaallisut](../kl/prayers/#bpn9117)»
 
 -- Abdu'l-Bahá
 
-bpn9123 «[Kalaallisut](../kl/prayers/#bpn9123)» 
+bpn9123 
 
 ----
 
@@ -649,7 +650,7 @@ Illit Naalagaq saamasutit! Inuit tamaasa naggueqatigiilersillugit Pinngortissima
 
 -- Abdu'l-Bahá
 
-bpn7266 «[Kalaallisut](../kl/prayers/#bpn7266)» 
+bpn7266 
 
 ----
 
@@ -663,7 +664,7 @@ Guutiga tassaavutit Atikkut napparsimasunik Ajorunnaarsitsisartoq, sanngiitsunik
 
 -- Bahá'u'lláh
 
-bpn9960 «[Kalaallisut](../kl/prayers/#bpn9960)» 
+bpn9960 
 
 ----
 
@@ -673,7 +674,7 @@ Isigaarma, Naalagara-aa, kiinara tukkussutsivit qilaata tungaanut tunissutivillu
 
 -- Bahá'u'lláh
 
-bpn9961 «[Kalaallisut](../kl/prayers/#bpn9961)» 
+bpn9961 
 
 ----
 
@@ -683,7 +684,7 @@ Unnersiutigisaagit Illit, Naalagaq Guutiga-aa! Sapiiserlunga Ilinnik oqaluuseqar
 
 -- Bahá'u'lláh
 
-bpn9962 «[Kalaallisut](../kl/prayers/#bpn9962)» 
+bpn9962 
 
 ----
 
@@ -693,7 +694,7 @@ Aqqit unnersiutigisaali, Guutiga-aa suut tamarmik Guutiat, Naalannassutaatiga su
 
 -- Bahá'u'lláh
 
-bpn9963 «[Kalaallisut](../kl/prayers/#bpn9963)» 
+bpn9963 
 
 ----
 
@@ -703,7 +704,7 @@ Uanga taannaavunga, Naalagara-aa, kiinnaminik Ilinnut saattoq, neriuumminillu Il
 
 -- Bahá'u'lláh
 
-bpn7015 «[Kalaallisut](../kl/prayers/#bpn7015)» 
+bpn7015 
 
 ----
 
@@ -713,7 +714,7 @@ Illernarsisitaagit Illit, Naalagaq Guutiga-aa! Qinikkakkut tatigisakkullu Taassu
 
 -- Bahá'u'lláh
 
-bpn7016 «[Kalaallisut](../kl/prayers/#bpn7016)» 
+bpn7016 
 
 ----
 
@@ -723,7 +724,7 @@ Guuti-aa Naalagarput! Saammaannikkut illersortigut tamanut Ilinnut akerliusunut,
 
 -- Báb
 
-bpn9964 «[Kalaallisut](../kl/prayers/#bpn9964)» 
+bpn9964 
 
 ----
 
@@ -733,7 +734,7 @@ Unnersiutigisaagit Illit, Naalagaq-aa. Ajortuliavut isumakkeerfigikkit, nalligit
 
 -- Báb
 
-bpn9965 «[Kalaallisut](../kl/prayers/#bpn9965)» 
+bpn9965 
 
 ----
 
@@ -743,7 +744,7 @@ Qinnuigaakkit isumakkeerfigeqqullunga, Naalagara-aa, oqalunnermut sumulluunniit 
 
 -- Báb
 
-bpn9966 «[Kalaallisut](../kl/prayers/#bpn9966)» 
+bpn9966 
 
 ----
 
@@ -753,7 +754,7 @@ Ataqqinarsisitaagit Illit, Guuti-aa, Qanoq ilillunga Illit oqaluuserissavakkit I
 
 -- Báb
 
-bpn9967 «[Kalaallisut](../kl/prayers/#bpn9967)» 
+bpn9967 
 
 ----
 
@@ -763,7 +764,7 @@ Isumakkeerfiginninnissat qinnutigaara, Guutiga-aa, isumakkiigaanerlu qinnutigalu
 
 -- Báb
 
-bpn9968 «[Kalaallisut](../kl/prayers/#bpn9968)» 
+bpn9968 
 
 ----
 
@@ -773,7 +774,7 @@ Illit Ajugaqanngitsutit! Ajortiliuvunga isumakkeerfigaarmali. Amigaateqaqaanga n
 
 -- Abdu'l-Bahá
 
-bpn9969 «[Kalaallisut](../kl/prayers/#bpn9969)» 
+bpn9969 
 
 ----
 
@@ -783,7 +784,7 @@ Naalagara, Illit-aa Inuit neriuutaat! Tassaavutit kiffannut makkununnga tamanut 
 
 -- Abdu'l-Bahá
 
-bpn9970 «[Kalaallisut](../kl/prayers/#bpn9970)» 
+bpn9970 
 
 ----
 
@@ -797,7 +798,7 @@ Pilluaqqunneqarli manna, illu, sumiiffillu, illoqarfillu, uummallu, qaqqarlu, to
 
 -- Bahá'u'lláh
 
-bpn9120 «[Kalaallisut](../kl/prayers/#bpn9120)» 
+bpn9120 
 
 ----
 
@@ -811,17 +812,17 @@ bpn9120 «[Kalaallisut](../kl/prayers/#bpn9120)»
 
 -- Bahá'u'lláh
 
-bpn9971 «[Kalaallisut](../kl/prayers/#bpn9971)» 
+bpn9971 
 
 ----
 
 
 <a id="bpn12575"></a> 
-*Kitáb-I-Aqdasimi (Atuakkat Illernarnerpaavanni) maleruaqqusat naapertorlugit katikkumanermik angeqatigiinnerup versitai, katittut immikkoorlutik taasassaat, uppernarsaasussanik ikinnerpaamik marlunnik Anersaakkut Isumasioqatigiiffimmit akuerineqarsimasunit peqataasoqassapput, imaallutillu:*&#34;Ilumut, tamatta Guutip Piumasaanut maleruutissaagut.&#34;Tassaavoq Tunioraasoq, Tukkortoq!Unnersiutigisaali Guuti, Pisoqarsuaq, Soraajuitsumik–Piusoq, Allanngujuitsoq, Soraajuitsoq! Taanna Nammineq Piunermigut nalunaajaasimasoq ilumut Tassaalluni Ataaseq, Ataasituaq, Akornusigaanngitsoq, Naalannarsisitaq! Nalunaajaatigaarput allamik Taannaanngitsumik Guuteqanngitsoq, ataasiussusia miserratiginagu Ilivitsuussusialu akuersaarlugu. Taanna najugaqartuarsimavoq qatsissuni tikissaanngitsuni, Ataqqinassutsimi inngiini, oqaluuserisaanernut tamanut sukuluiagaalluni taamaallaat Imminut pinnani, oqaluttuarineqarnernut tamanut qaangiisimalluni. Inunnullu saammaannermik ajunngissutsimillu Saqqummiiumalluni kissaatigigamiuk, silarsuarlu iluarsartuukkumagamiuk saqqummersippai peqqussutit inatsisillu pilersillugit; tamakku akornanni pilersippaa aappariinnermut inatsit, atugarissaarnermut annannissamullu pallittaalisanngortillugu, uagullu taama ilioqquaatigut illernarsutsimi qilaanit Atuagaammi Illernarnersaannit allassimasunik nassilluta. Oqarpoq,illernassusialu angeqaaq: &#34;Aappariileritsi, inuit-aa, ilissinnit saqqummeqqullugu Uannik eqqaamannittussaq kiffama akornanni; tamanna tassaavoq ilissinnut naalakkiutima ilaat; naalassiuk ilissinnut ikiuutaassammat.&#34;
+*Kitáb-I-Aqdasimi (Atuakkat Illernarnerpaavanni) maleruaqqusat naapertorlugit katikkumanermik angeqatigiinnerup versitai, katittut immikkoorlutik taasassaat, uppernarsaasussanik ikinnerpaamik marlunnik Anersaakkut Isumasioqatigiiffimmit akuerineqarsimasunit peqataasoqassapput, imaallutillu:*"Ilumut, tamatta Guutip Piumasaanut maleruutissaagut."Tassaavoq Tunioraasoq, Tukkortoq!Unnersiutigisaali Guuti, Pisoqarsuaq, Soraajuitsumik–Piusoq, Allanngujuitsoq, Soraajuitsoq! Taanna Nammineq Piunermigut nalunaajaasimasoq ilumut Tassaalluni Ataaseq, Ataasituaq, Akornusigaanngitsoq, Naalannarsisitaq! Nalunaajaatigaarput allamik Taannaanngitsumik Guuteqanngitsoq, ataasiussusia miserratiginagu Ilivitsuussusialu akuersaarlugu. Taanna najugaqartuarsimavoq qatsissuni tikissaanngitsuni, Ataqqinassutsimi inngiini, oqaluuserisaanernut tamanut sukuluiagaalluni taamaallaat Imminut pinnani, oqaluttuarineqarnernut tamanut qaangiisimalluni. Inunnullu saammaannermik ajunngissutsimillu Saqqummiiumalluni kissaatigigamiuk, silarsuarlu iluarsartuukkumagamiuk saqqummersippai peqqussutit inatsisillu pilersillugit; tamakku akornanni pilersippaa aappariinnermut inatsit, atugarissaarnermut annannissamullu pallittaalisanngortillugu, uagullu taama ilioqquaatigut illernarsutsimi qilaanit Atuagaammi Illernarnersaannit allassimasunik nassilluta. Oqarpoq,illernassusialu angeqaaq: "Aappariileritsi, inuit-aa, ilissinnit saqqummeqqullugu Uannik eqqaamannittussaq kiffama akornanni; tamanna tassaavoq ilissinnut naalakkiutima ilaat; naalassiuk ilissinnut ikiuutaassammat."
 
 -- Bahá'u'lláh
 
-bpn12575 «[Kalaallisut](../kl/prayers/#bpn12575)» 
+bpn12575 
 
 ----
 
@@ -831,17 +832,17 @@ Naalannartinneqarit Guutiga-aa! Ilumut, kiffat una kiffallu arnaq una Naakkinnin
 
 -- Abdu'l-Bahá
 
-bpn9972 «[Kalaallisut](../kl/prayers/#bpn9972)» 
+bpn9972 
 
 ----
 
 
 <a id="bpn12576"></a> 
-Guutiuvoq!Naalagaq-aa asseqanngitsoq! Ilisimassutsikkut pissaaneqarnerpaakkut inuit naalakkersimavatit aappariilersaqqullugit, kinguaariiaat kinguaariiaanik allanik kingoraarneqartarniassammata silarsuarmi nungujasumi maani, aammalu tamatigut, silarsuup piugallarnissaani Illit ataasiussutsivit killingani suliaqartarniassammata kiffartuussinermik, qinnuiginninnermik, nersorinninnermi, tunniusimanermi unnersiutiginninnermilu. &#34;Tarningit inuillu taamaallaat Pinngortippakka, Uannik qinnuiginnittarniassammata:&#34; Taamaattumik Nalliginnissutsivit qilaani timmissat uku marluk peqatigiilersikkit Asanninnerpit ulluini, tunikkillu soraajuitsumik saammaassaanermut qaaqqusinissamut pisinnaassutsinik, taamaalillutik immat taakku marluk asanninnikkut peqatigiilernerisigut asanningaarnerup malinga qaariartorniassammat inuunerup sineriaanut inerittunik pitsaasunik minguitsunillu sapangarissutut ittunik nassarluni. &#34;Immat marluk qilerussaarsimavai imminnut naapinniassammata: Akornanni ippoq killeqarfik qaangersinnaanngisaat, Ilissi Naalakkassi ajunngisaarutai sorliit tigujumanianngilisigit? Kikkunnit tamanit sapanngat annerusut minnerusullu Saqqummerartarpai.&#34; Illit-aa Naalagaq ajunngitsoq! Qanortoq aappariilernerup matumakoraalit sapanngallu saqqummerligit. Ilumummi Illit tassaavutit taannaPissaanermik tamarmik ulikkaartoq, Annerpaaq, SoraajuitsumikIsumakkeerfiginnittoq.
+Guutiuvoq!Naalagaq-aa asseqanngitsoq! Ilisimassutsikkut pissaaneqarnerpaakkut inuit naalakkersimavatit aappariilersaqqullugit, kinguaariiaat kinguaariiaanik allanik kingoraarneqartarniassammata silarsuarmi nungujasumi maani, aammalu tamatigut, silarsuup piugallarnissaani Illit ataasiussutsivit killingani suliaqartarniassammata kiffartuussinermik, qinnuiginninnermik, nersorinninnermi, tunniusimanermi unnersiutiginninnermilu. "Tarningit inuillu taamaallaat Pinngortippakka, Uannik qinnuiginnittarniassammata:" Taamaattumik Nalliginnissutsivit qilaani timmissat uku marluk peqatigiilersikkit Asanninnerpit ulluini, tunikkillu soraajuitsumik saammaassaanermut qaaqqusinissamut pisinnaassutsinik, taamaalillutik immat taakku marluk asanninnikkut peqatigiilernerisigut asanningaarnerup malinga qaariartorniassammat inuunerup sineriaanut inerittunik pitsaasunik minguitsunillu sapangarissutut ittunik nassarluni. "Immat marluk qilerussaarsimavai imminnut naapinniassammata: Akornanni ippoq killeqarfik qaangersinnaanngisaat, Ilissi Naalakkassi ajunngisaarutai sorliit tigujumanianngilisigit? Kikkunnit tamanit sapanngat annerusut minnerusullu Saqqummerartarpai." Illit-aa Naalagaq ajunngitsoq! Qanortoq aappariilernerup matumakoraalit sapanngallu saqqummerligit. Ilumummi Illit tassaavutit taannaPissaanermik tamarmik ulikkaartoq, Annerpaaq, SoraajuitsumikIsumakkeerfiginnittoq.
 
 -- Abdu'l-Bahá
 
-bpn12576 «[Kalaallisut](../kl/prayers/#bpn12576)» 
+bpn12576 
 
 ----
 
@@ -855,7 +856,7 @@ Ilisimanngilara, Guutiga-aa, Inneq sunaanersoq Illit Nunanni ikissimasat. Nunars
 
 -- Bahá'u'lláh
 
-bpn7014 «[Kalaallisut](../kl/prayers/#bpn7014)» 
+bpn7014 
 
 ----
 
@@ -869,17 +870,17 @@ Guutiga-aa, tassaannaavunga naatsiiassannguaq, asanninnerpit nunaani AssannitTuk
 
 -- Bahá'u'lláh
 
-bpn10521 «[Kalaallisut](../kl/prayers/#bpn10521)» 
+bpn10521 
 
 ----
 
 
 <a id="bpn10522"></a> 
-Oqarit :&#34;Guuti-aa, Guutiga! Niaqora eqqortuliornerup niaqorutaanik qaaralunaligiissutsip ilisarnaataanik pinnersakkit. Ilumut tassaavutit tunissutinikajunngitsunillu tamanik piginnittoq&#34;
+Oqarit :"Guuti-aa, Guutiga! Niaqora eqqortuliornerup niaqorutaanik qaaralunaligiissutsip ilisarnaataanik pinnersakkit. Ilumut tassaavutit tunissutinikajunngitsunillu tamanik piginnittoq"
 
 -- Bahá'u'lláh
 
-bpn10522 «[Kalaallisut](../kl/prayers/#bpn10522)» 
+bpn10522 
 
 ----
 
@@ -889,7 +890,7 @@ Guuti-aa! Siulersunnga, illersunnga, uummatima qullia qaammarsarukullorianngorti
 
 -- Abdu'l-Bahá
 
-bpn10523 «[Kalaallisut](../kl/prayers/#bpn10523)» 
+bpn10523 
 
 ----
 
@@ -899,7 +900,7 @@ Naalagara! Naalagara! Meeraavunga pinngorlaaq. Naakkinnissutsivit sakiaanitinuus
 
 -- Abdu'l-Bahá
 
-bpn10524 «[Kalaallisut](../kl/prayers/#bpn10524)» 
+bpn10524 
 
 ----
 
@@ -909,7 +910,7 @@ Guuti-aa! Meerannguaq una Asanninnerpit pakkussinerata iluani perorsaruk, Siuler
 
 -- Abdu'l-Bahá
 
-bpn10525 «[Kalaallisut](../kl/prayers/#bpn10525)» 
+bpn10525 
 
 ----
 
@@ -919,7 +920,7 @@ Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinnipaarnaqut
 
 -- Abdu'l-Bahá
 
-bpn10526 «[Kalaallisut](../kl/prayers/#bpn10526)» 
+bpn10526 
 
 ----
 
@@ -929,7 +930,7 @@ Naalagaq-aa! Inuusuttoq una qaammarissunngortiguk, pinngortitarlu nallinnartoq m
 
 -- Abdu'l-Bahá
 
-bpn10527 «[Kalaallisut](../kl/prayers/#bpn10527)» 
+bpn10527 
 
 ----
 
@@ -939,21 +940,21 @@ bpn10527 «[Kalaallisut](../kl/prayers/#bpn10527)»
 ## Najuuttumut Allakkat
 
 <a id="bpn9986"></a> 
-*(Allagaq una Bahá&#39;u&#39;lláh-p Báb-illu ilerrisa eqqaanni atuarneqassaaq. Aamma Taakku eqqaaneqarfiini nalliuttorsiornartitsinermi akuttunngitsumik atorneqartassaaq.) Unnersiutiginininneq Illit namminiunerpit ataqqinarsisitaangaartup pilerfia, illernassuserlu Illit Kusanassutsinnit akisugunnerpaamit qinngorsimasoq Ilinni illi, Illit-aa Angingaarsutsip Saqqummernera Soraajuitsullu Kunngia, tamanullu qilammiittunut nunamiittunullu Naalagaq! Nalunaajaatigaara, Ilikkut Guutip naalagaanerata Naalagaaffia, Guutillu ataqqinartorsuunera Angissusialu saqqummersinneqarsimammat, aammalu qinngorneq akisuguttoq qangarnisaangaartoq Ullut ulloriaannit pisoq qaamanerminnik qinngortut Illit inatsisivit allanngorneq ajortup qilaanit, Kusanassuserlu Takuneqanngitsoq pinngortitap killingusaata qulaanit qinngorsimasoq. Aammalu nalunaajaatigaara, Illit Allaativit aalariaallannerinnaatigut Peqqusat “Pilerit” aallartinneqarsimasoq, Guutillu isertugaa toqqortaq saqqummersinneqarsimalluni, pinngortitallu tamarmik uummassusilerneqarsimallutik Saqqummersitallu tamarmik aqqartinneqarsimallutik.Aammattaaq nalunaajaatigaara, Illit kusanassutsikkut kusanassuseq Qinnuigisaasoq uleerneqarsimasoq, Illillu kiinnakkut Kajungerisap kiinaa qinngorsimasoq, Illillu oqaatsikkut ataatsikkut pinngortitat tamaasa akunnequsersorsimagitit, Ilinnullu tunniusimasut illernassutsivit inngiinut qullarsimagitit uppinngitsullu itinersuarmut itinerpaamut nakkartissimallugit.Nalunaajarpara kina Ilinnik ilisarsisoq, Guutimik ilisarsisimammat, kinalu Illit qanissutsinnut pisimasoq Guutimut qanillisimasoq. Angivoq taamaammat pilluaqqussut Ilinnut Illillu nalunaaqquunnut uppersimasumut, Illillu naalagaaffinnut tunniussimasumut, Ilinnillu naapitsinermik ataqqinaaserneqarsimasumut, Illillu Piumasavit iluarinartuinik angusaqarsimasumut, IIinnillu kaavissimasumut Illillu issiavissaarsuarpit sioraani nikorfasimasumut. Eqqanaq kina Ilinnut ajortuliorsimasoq, Ilinnik upperumanngitsoq, Illillu nalunaaqqutinnik tunuartitsisimasoq, Illillu naalagaaffinnik tusarumasimanngitsoq, Ilinnullu akerliuniarsimasoq, Illillu kiinnavit saani anneruniarsimasoq, Illillu nalunaajaatinnik assortuisimasoq, Illillu inatsisinnik naalagaaninniillu qimaasimasoq aammalu uppinngitsutut naatsorsuussaasimasoq, taakkumi aqqi Illit naalakkiinerpit inuaanit Allakkanni Illernartumi allanneqarsimapput. Taamaattumik uannut ingerlatikkit, Guutiga-aa Asasaralu, Illit nallittuinerpit Asanninnerpillu assaanit talerpillermit saammaannerpillu illernartup anersaarnera, uannit namminermit silarsuarmillu qimagutsinniassammannga Illit qanissutsivit Illillu najuinerpit inaannut. Illit Pissaaneqarputit, iluarisannik iliornissamut. Illit ilumoortumik tassaasimavutit sunik tamanik qulangiisoq. Guutip eqqaamaneqaataa Taassuma unnersiutaanera Guutillu illernassusia Taassumattaaq qinngorneri akisuguttut Ilinni illik, Illit-aa tassaasutit Taassuma Kusanassusia! Nalunaajaatigaara pinngortitap isaanit kinaluunniit Ilittulli iluaatsuliorfigisaasimanngitsoq. Illit inuunerpit ullui tamaasa anniaatinik kisissaanngitsunit atugaqarfigisimavatit. Ilaanni kalunnernik saviminernik qilersorneqarsimavutit, ulluni allani akeqqavit panaannit sioorasaarneqarputit. Taamaakkaluartorli, tamakku akimorlugit, inuit tamaasa peqquatit Taassumannga Ilinnut maligassaatinneqartut naalaqqullugit, Tamanik Ilisimasumit, Tamanik Nalornisaqanngitsumit.Qanortoq anersaara pilliutaali Illit iluaatsuliorfigisaaninnut, tarnigalu anniaatinut Illit atukkannut akissaali. Guuti Ilikkut taakkunuunalu kiinaat Taattuit qaamarngata qinngornennit qaammarsagaasutigut aammalu Ilinnut asanninnermikkut imminnut peqqussutaasunik asiginnaasimanngitsutigut qinnuigaakkit saagoq Illit pinngortitavillu akornanniittoq peeqqullugu nunarsuarmilu maani takkuttussamilu ajunngitsunik pilersoqqullunga. Illit tassaavutit ilumoortumik Ajugaqanngitsoq, Naalannarsisitaanerpaaq, Tamanit Illernarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanit Misigittarnerpaaq.Pilluaqqujuk Illit, Naalagaq Guutiga-aa, Orpik Lotusi Nunamiorpalunngitsoq, taassumalu pilutai, avalequtai, avalequteerai, timitaa anneq, timitai saneraanit naasut, taaguutitit pitsaanerpaat atuukkallartillugit, Illit ataqqinangaarsutsinni piginnaasatit soraassanngillat. Illersoruk saassussisup ajortup saalersuussineranit qunutitsisullu sakkutoorpassuinit. Illit ilumut tassaavutit Ajugaqanngitsoq, Pissaaneqarnerpaaq. Aammattaaq Pilluaqqukkit, Naalagaq Guutiga-aa, kiffatit angutit arnallu, Ilinnut anngussimasut. Ilumoortumik tassaavutit Tukkornerpaaq isoqanngitsumik saammaasoq. Guuteqanngilaq Allamik Illiunngitsumik, soraajuitsumik Isumakkeerfiginnittoq, Tukkornerpaaq.
+*(Allagaq una Bahá'u'lláh-p Báb-illu ilerrisa eqqaanni atuarneqassaaq. Aamma Taakku eqqaaneqarfiini nalliuttorsiornartitsinermi akuttunngitsumik atorneqartassaaq.) Unnersiutiginininneq Illit namminiunerpit ataqqinarsisitaangaartup pilerfia, illernassuserlu Illit Kusanassutsinnit akisugunnerpaamit qinngorsimasoq Ilinni illi, Illit-aa Angingaarsutsip Saqqummernera Soraajuitsullu Kunngia, tamanullu qilammiittunut nunamiittunullu Naalagaq! Nalunaajaatigaara, Ilikkut Guutip naalagaanerata Naalagaaffia, Guutillu ataqqinartorsuunera Angissusialu saqqummersinneqarsimammat, aammalu qinngorneq akisuguttoq qangarnisaangaartoq Ullut ulloriaannit pisoq qaamanerminnik qinngortut Illit inatsisivit allanngorneq ajortup qilaanit, Kusanassuserlu Takuneqanngitsoq pinngortitap killingusaata qulaanit qinngorsimasoq. Aammalu nalunaajaatigaara, Illit Allaativit aalariaallannerinnaatigut Peqqusat “Pilerit” aallartinneqarsimasoq, Guutillu isertugaa toqqortaq saqqummersinneqarsimalluni, pinngortitallu tamarmik uummassusilerneqarsimallutik Saqqummersitallu tamarmik aqqartinneqarsimallutik.Aammattaaq nalunaajaatigaara, Illit kusanassutsikkut kusanassuseq Qinnuigisaasoq uleerneqarsimasoq, Illillu kiinnakkut Kajungerisap kiinaa qinngorsimasoq, Illillu oqaatsikkut ataatsikkut pinngortitat tamaasa akunnequsersorsimagitit, Ilinnullu tunniusimasut illernassutsivit inngiinut qullarsimagitit uppinngitsullu itinersuarmut itinerpaamut nakkartissimallugit.Nalunaajarpara kina Ilinnik ilisarsisoq, Guutimik ilisarsisimammat, kinalu Illit qanissutsinnut pisimasoq Guutimut qanillisimasoq. Angivoq taamaammat pilluaqqussut Ilinnut Illillu nalunaaqquunnut uppersimasumut, Illillu naalagaaffinnut tunniussimasumut, Ilinnillu naapitsinermik ataqqinaaserneqarsimasumut, Illillu Piumasavit iluarinartuinik angusaqarsimasumut, IIinnillu kaavissimasumut Illillu issiavissaarsuarpit sioraani nikorfasimasumut. Eqqanaq kina Ilinnut ajortuliorsimasoq, Ilinnik upperumanngitsoq, Illillu nalunaaqqutinnik tunuartitsisimasoq, Illillu naalagaaffinnik tusarumasimanngitsoq, Ilinnullu akerliuniarsimasoq, Illillu kiinnavit saani anneruniarsimasoq, Illillu nalunaajaatinnik assortuisimasoq, Illillu inatsisinnik naalagaaninniillu qimaasimasoq aammalu uppinngitsutut naatsorsuussaasimasoq, taakkumi aqqi Illit naalakkiinerpit inuaanit Allakkanni Illernartumi allanneqarsimapput. Taamaattumik uannut ingerlatikkit, Guutiga-aa Asasaralu, Illit nallittuinerpit Asanninnerpillu assaanit talerpillermit saammaannerpillu illernartup anersaarnera, uannit namminermit silarsuarmillu qimagutsinniassammannga Illit qanissutsivit Illillu najuinerpit inaannut. Illit Pissaaneqarputit, iluarisannik iliornissamut. Illit ilumoortumik tassaasimavutit sunik tamanik qulangiisoq. Guutip eqqaamaneqaataa Taassuma unnersiutaanera Guutillu illernassusia Taassumattaaq qinngorneri akisuguttut Ilinni illik, Illit-aa tassaasutit Taassuma Kusanassusia! Nalunaajaatigaara pinngortitap isaanit kinaluunniit Ilittulli iluaatsuliorfigisaasimanngitsoq. Illit inuunerpit ullui tamaasa anniaatinik kisissaanngitsunit atugaqarfigisimavatit. Ilaanni kalunnernik saviminernik qilersorneqarsimavutit, ulluni allani akeqqavit panaannit sioorasaarneqarputit. Taamaakkaluartorli, tamakku akimorlugit, inuit tamaasa peqquatit Taassumannga Ilinnut maligassaatinneqartut naalaqqullugit, Tamanik Ilisimasumit, Tamanik Nalornisaqanngitsumit.Qanortoq anersaara pilliutaali Illit iluaatsuliorfigisaaninnut, tarnigalu anniaatinut Illit atukkannut akissaali. Guuti Ilikkut taakkunuunalu kiinaat Taattuit qaamarngata qinngornennit qaammarsagaasutigut aammalu Ilinnut asanninnermikkut imminnut peqqussutaasunik asiginnaasimanngitsutigut qinnuigaakkit saagoq Illit pinngortitavillu akornanniittoq peeqqullugu nunarsuarmilu maani takkuttussamilu ajunngitsunik pilersoqqullunga. Illit tassaavutit ilumoortumik Ajugaqanngitsoq, Naalannarsisitaanerpaaq, Tamanit Illernarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanit Misigittarnerpaaq.Pilluaqqujuk Illit, Naalagaq Guutiga-aa, Orpik Lotusi Nunamiorpalunngitsoq, taassumalu pilutai, avalequtai, avalequteerai, timitaa anneq, timitai saneraanit naasut, taaguutitit pitsaanerpaat atuukkallartillugit, Illit ataqqinangaarsutsinni piginnaasatit soraassanngillat. Illersoruk saassussisup ajortup saalersuussineranit qunutitsisullu sakkutoorpassuinit. Illit ilumut tassaavutit Ajugaqanngitsoq, Pissaaneqarnerpaaq. Aammattaaq Pilluaqqukkit, Naalagaq Guutiga-aa, kiffatit angutit arnallu, Ilinnut anngussimasut. Ilumoortumik tassaavutit Tukkornerpaaq isoqanngitsumik saammaasoq. Guuteqanngilaq Allamik Illiunngitsumik, soraajuitsumik Isumakkeerfiginnittoq, Tukkornerpaaq.
 
 -- Bahá'u'lláh
 
-bpn9986 «[Kalaallisut](../kl/prayers/#bpn9986)» 
+bpn9986 
 
 ----
 
 
 <a id="bpn9987"></a> 
-*(Qinnut una, &#39;Abdu&#39;l-Bahá-mit saqqummerneqarsimasoq Ilerfata eqqaani atuarneqartarpoq. Namminerlu kisimiilluni qinunermi atorneqartarluni.) Kialuunniit qinnut inna maniguulluni qamannga pisumik atuarpagu Kiffap matuma uummataanut nuannaarnermik pilluarnermillu pilersitsissaaq: aallaallumi imaassalluni soorlu kiinarsillugu naapillugu. Tassaavoq sunit tamanit Alutornarnerpaaq!Guuti-aa, Guutiga! Maniguullunga qullilingaarlungalu assakka qinusut Ilinnut qullarpakka kiinaralu Alloriusarpit, ilisimatuut ilisimasaannit kikkullu tamat Ilinnik unnersiutiginninnerannit qutsinnerungaartup, pujoralaannut toqqorpara. Saammaasumik kiffat Matuit eqqaani maniguulluni annikitsuullunilu nikorfasoq Naakkinnillutit isiguuk, saammaassinerpillu naassaanngitsup Imaanut aqqartiguk.Naalagaq! Tassaavoq kiffat piitsuullunilu annikitsuusoq, killingaarsimalluni Ilinnut torlulasoq, Assanni tiguartissimasoq, ilungersungaarluni qinusoq, Ilinnut tatiginnittoq, Kiinnavit saavani qullilisoq, Ilinnut torlulanermini qinnuiginninnerminilu ima qaaqqusisoq:Naalagaq-aa, Guutiga! Saammaannerit uannut tunniuguk Asasatit kiffartuuteqqullugit, Ilinnut kiffartuussininni nakussatsinnga, qaara qinnuiginninnerup qaamaneranik, Angissutsivillu Naalagaaffianut qinnuiginninnermik Illernassutsivit Najugaani qaammarsaruk. Ikiunnga Isaariarpit paavani qilammiusumi namminissarsiujuitsooqqullunga, Nunaativillu Illernartut iluanni tapersinnga sunit tamanit kiffaanngitsooqqullunga. Naalagaq! Namminissarsiujuissutsip erngusaanik immisinnga; uleruaanik atisalinnga, imaanullu aqqartinnga. Asasavit aqqutigisaanni pujoralattut ilersinnga, qanortorlu tarniga Aqqutinni toqqakkavit tumiisa minguillisagaata issortaanut pilliutaagili, Illit-aa Qaamanerup Naalagaa Qutsinnerpaamnttoq.Qinnummit matuminnga Kiffavit ullaakkut qaalernermi unnukkullu qaaqquaatit. Uummataata kipisassutaa piviusunngortiguk, Naalagaq-aa! Uummataa qaammarissunngortiguk, ilua qiimmatsileruk, qaamanera ikiguk, Siunertat Kiffatillu kiffartuunniassammagit.Tassaavutit Tunisisoq, Misiginneqataasoq, sunit tamanit Tukkunerpaasoq, Saammassisoq, Naakkinnittoq.
+*(Qinnut una, 'Abdu'l-Bahá-mit saqqummerneqarsimasoq Ilerfata eqqaani atuarneqartarpoq. Namminerlu kisimiilluni qinunermi atorneqartarluni.) Kialuunniit qinnut inna maniguulluni qamannga pisumik atuarpagu Kiffap matuma uummataanut nuannaarnermik pilluarnermillu pilersitsissaaq: aallaallumi imaassalluni soorlu kiinarsillugu naapillugu. Tassaavoq sunit tamanit Alutornarnerpaaq!Guuti-aa, Guutiga! Maniguullunga qullilingaarlungalu assakka qinusut Ilinnut qullarpakka kiinaralu Alloriusarpit, ilisimatuut ilisimasaannit kikkullu tamat Ilinnik unnersiutiginninnerannit qutsinnerungaartup, pujoralaannut toqqorpara. Saammaasumik kiffat Matuit eqqaani maniguulluni annikitsuullunilu nikorfasoq Naakkinnillutit isiguuk, saammaassinerpillu naassaanngitsup Imaanut aqqartiguk.Naalagaq! Tassaavoq kiffat piitsuullunilu annikitsuusoq, killingaarsimalluni Ilinnut torlulasoq, Assanni tiguartissimasoq, ilungersungaarluni qinusoq, Ilinnut tatiginnittoq, Kiinnavit saavani qullilisoq, Ilinnut torlulanermini qinnuiginninnerminilu ima qaaqqusisoq:Naalagaq-aa, Guutiga! Saammaannerit uannut tunniuguk Asasatit kiffartuuteqqullugit, Ilinnut kiffartuussininni nakussatsinnga, qaara qinnuiginninnerup qaamaneranik, Angissutsivillu Naalagaaffianut qinnuiginninnermik Illernassutsivit Najugaani qaammarsaruk. Ikiunnga Isaariarpit paavani qilammiusumi namminissarsiujuitsooqqullunga, Nunaativillu Illernartut iluanni tapersinnga sunit tamanit kiffaanngitsooqqullunga. Naalagaq! Namminissarsiujuissutsip erngusaanik immisinnga; uleruaanik atisalinnga, imaanullu aqqartinnga. Asasavit aqqutigisaanni pujoralattut ilersinnga, qanortorlu tarniga Aqqutinni toqqakkavit tumiisa minguillisagaata issortaanut pilliutaagili, Illit-aa Qaamanerup Naalagaa Qutsinnerpaamnttoq.Qinnummit matuminnga Kiffavit ullaakkut qaalernermi unnukkullu qaaqquaatit. Uummataata kipisassutaa piviusunngortiguk, Naalagaq-aa! Uummataa qaammarissunngortiguk, ilua qiimmatsileruk, qaamanera ikiguk, Siunertat Kiffatillu kiffartuunniassammagit.Tassaavutit Tunisisoq, Misiginneqataasoq, sunit tamanit Tukkunerpaasoq, Saammassisoq, Naakkinnittoq.
 
 -- Abdu'l-Bahá
 
-bpn9987 «[Kalaallisut](../kl/prayers/#bpn9987)» 
+bpn9987 
 
 ----
 
@@ -967,7 +968,7 @@ bpn9987 «[Kalaallisut](../kl/prayers/#bpn9987)»
 
 -- Bahá'u'lláh
 
-bpn6849 «[Kalaallisut](../kl/prayers/#bpn6849)» 
+bpn6849 
 
 ----
 
@@ -977,11 +978,11 @@ bpn6849 «[Kalaallisut](../kl/prayers/#bpn6849)»
 ## Pinngitsoorani Qinnutissaq Takineq
 
 <a id="bpn9959"></a> 
-##PINNGITSOORANI QINNUTISSAQ TAKINEQ*ULLOQ UNNUARLU ATAASIARLUGU TAANEQARTASSAAQ. *Kialuunniit kissaatigissappagu qinnut inna atuassallugu, nikuilli Guutimullu saalluni, taavalu nikorfavimminiitilluni talerpimmut saamimmullu qiviarli soorlulusooq Naalakkaminit nakkinnineq utaqqillugu, tassaasoq Naakkinninnerpaasoq, Misiginneqataasoq. Taavalu oqarli: Illit-aa Tassaasutit aqqit tamarmik Naalagaat qilaallu Pinngortitsisuat! Suussutsivit ersinngitsup, Qutsinnersaasup Naalannangaartup Qaammalerneri aqqutigalugit torlorfígaakkit qinnutiga tassaaqqullugu Illit kusanassutsinnik assiaqutaasimasunut inneq nungusaasoq, qaamaanerlu Qanissutsivit Imarsuanut aqqutissiuisussaq.*Taavalu assani Guutimut - Taanna pilluaqquneqarli nersornangaarlunilu, qinulluni qullarligit - oqarlunilu:Illit-aa silarsuup Erinigisaa, inuiaqatigiillu tamarmik Asasaat! Isigaarma Ilinnut saattunga, sumillu allamit Illiunngitsumit kaanngaqqasunga, Allunaasat najummatserfigigiga, taassumap aalaneratigut pinngortitaq tamarmi aalaterneqarsimavoq. Tassaavunga kiffat, Naalagaq-aa, kiffavillu ernera. Isiginnga Kissaatigisat Piumasallu suliarissallugu piareeqqallunga nikorfasunga, allamimmi kissaateqannginnama taamaallaat Nuannaarnerit. Ilungersorlunga qinnuigaakkit Naakkinninnerpit Imaatigut Saammaannerpillu Ulluata Ulloriaa aqqutigalugu, kiffat Piumasat Kissaatigisallu malillugu peqqullugu. Piumasat eqqartuinernit unnersiutigineqarnernillu tamanit qutsinnerpaasoq pillugu! Sunaluunniit Ilinnit saqqummersinneqarsimasoq tassaavoq uummatima kipisaffígisaa tarnimalu asasaa. Guuti-aa, Guutiga! Neriuutikka suliakkalu isiginagit Piumasat qilannik nunamillu tamanit ungusisimasoq taamaallaat isiguuk. Aqqit Sunik Tamanit Anginersaasoq pillugu, Illit-aa inuiaqatigiit tamarmik Naalagaat! Kissaatigisat kisiat kissaatigivara. Asasallu kisiat asallugu. *Taavalu seeqqummerli, qaanilu nunamut tutsilliuk, oqarlunilu: Kialuunniit Illiungitsup nassuiaaneranit paasinnissinnaaneranillu qutsinnerungaarputit. *Taavalu nikuilluni oqarli: Qinnutiga, Illit-aa Naalagara, imermik uumassutissalimmik puilasunngortiguk, tassuunakkut uumasinnaaqqullunga Naalagaaffippit ataneratut sivisutigisumik, Illillu Silarsuarpit arlaanniluunniit eqqartorsinnaaqqullutit.*Taavalu qinulluni assani qullarligit oqarlunilu:Illit-aa, pillutit uummatit tarningillu Ilinnik avissaarsimanertik pillugu suujunnaarsimasut. Asanninnerpillu innera pillugu silarsuaq tamarmi ikuallalersimasoq! Ilungersorlunga qinnuigaakkit Atikkut, taanna aqqutigalugu pinngortitaq tamaat naalatsigilersimasat, Ilinniittut suulluunniit uannit tunuarsimateqqunagit, Illit-aa inunnut tamanut Naalagaasoq! Isigaat, Naalagara-aa, takornartaq manna angerlarsimaffímminut qutsingaartumut Naalannangaarsutsivit issiavissaarsuata qilaannguusaata ataani ittumut, Naakkinnissutsivillu oqartussaaffianut nukingertoq; unioqqutitsisorlu manna Isumakkeerinerpit Imaanik ujarlertoq; pinngortitarlu manna piitsoq Pisuussutsivit Qaamaneranut saattoq. Sukkulluunniit Piumasannik naalakkiinissamut oqartussaassuseq tigummivat. Nalunaajaatigaara sukkulluunniit Iliuutsitit tamarmik unnersiutigineqartussaasut, Peqqussutitillu maleruarneqassasut, Naalakkiinikkullu killeqanngittuaannassasutit.*Taavalu assani qullarligit Aqqillu Anginersaat (Alláh’u’Abhá) pingasoriarluni uterliuk. Taavalu sikili assani seeqquminut tutsillugit Guutip - Taanna pilluaqquneqarli unnersiutigineqarlunilu - saavani oqarlunilu: Isigaat, Guutiga-aa, anersaara Ilinnik qinnuiginnikkumalluni kipisanermini Ilinnillu eqqaamannikkumalluni unnersiutiginnikkumallunilu ilungersornermini timiga tamakkerlugu qanoq killinneqangaarsimatigisoq; qanorlu ililluni Peqqussutsivit Oqaata Oqalunnerpit naalagaaffiani Ilisimassutsivillu Qilaani nalunaajaatigisaa nalunaajaatigigaa. Taamatut itsillunga, Naalagara-aa, allamik asasaqanngilanga taamaallaat Ilinniittoq sunaluunniit Ilinnut qinnutigissallugu, taamaalillugu piitsuussusera takutinniassagakku Tukkussutsit Pisuussutsillu unnersiutiginiassagakku, taamatullu sanngiissusera nalunaarutigissallugu Pissaanerit Nakuussutsillu ersersinniassagakku.*Taavalu nikuilluni assani marloriarlugit qinuutigaluni kivilligit oqarlunilu: Allamik Illiunngitsumik Guuteqanngilaq, Ajugaqanngitsoq, sunit tamanit Tukkunerpaajusoq. Allamik Illiunngitsumik Guuteqanngilaq, aallaqqaataani naggataanilu Atortunngortitsisoq. Guuti-aa, Guutiga! Isumakkeerinerpit sapiissusermik tunisimavaanga, Naakkinnissutsivillu nakussatsissimavaanga, Qaaqqusinerpillu itertissimavaanga, Saammaannerpillu qummut kivissimavaanga Ilinnullu ingerlatillunga. Kinaassagaluaramami Qanissutsivit illoqarfiata isaariaata saavani sapiiserlunga nikorfassaguma, kiinaraluunniit Piumassutsivit qilaata qaamanerata qinngornerisa tungaanut saatsissagukku? Isigaat, Naalagara-aa, una pinngortitaq nallinnartoq Saammaannerpit matuanut kasuttortoq, tarnerlu manna qarsupittoq Tukkussutsivit assaanit inuunerup naassaanngitsup kuussuanik ujarlertoq. Naalakkiineq qaquguluunniit Ilinniittuarpoq, Illit-aa Tassaasutit aqqit tamarmik Naalagaat; uangalu pisussaaffigaara asiginnaaneq tunniutiinnarumanerlu, Illit-aa Qilaat Pinngortitsisuat! *Taavalu assani pingasoriarlugit kivilligit oqarlunilu: Guuti sunit annerusunit tamanit anginersaavoq! *Taavalu seeqqumiarli qaanilu nunamut tutsilliuk oqarlunilu: Ilinnut qanittuusut unnersiutiginninnerisa Qanissutsivit qilaanut qullarnissaannit Qutsinnerungaarputit, Ilinnulluunniit tunniusimasut uummataasa timmiaasa Isaaffippit kusanartup matuata eqqaanut pinissaannut. Nalunaajaatigaara piginnaassutsit aqqillu tamaasa qaangerlugit Illernartitaagavit. Allamik Illiunngitsumik Guuteqanngilaq, sunit tamanit Qutsinnerpaasoq, sunillu tamanit Naalannarnerpaasoq. *Taavalu ingilli oqarlunilu:Pinngortitaasimasut tamarmik nalunaajaatigisimasaat nalunaajaatigaara, qutsissumillu Katersaarsuit Paradisimilu qutsinnerpaajusumi najugallit, taakkulu qulaanni Angissutsip Oqaa Killingiusaami qaammarinnerpaasumumiittoq, tassaasutit Guuti, allamillu Illiunngitsumik Guuteqanngitsoq, aammalu Taanna Saqqummersinneqarsimasoq, tassaasoq Paasissaalluanngitsoq Toqqortaq, assersuut Erlinnangaartoq, Taannalu aqqutigalugu naqinnerit P I L E R I T (Pilerit) katitinneqarsimapput qilerneqarsimallutillu. Nalunaajaatigaara, Tassaasoq Taanna, Aqqa Qutsinnerpaap Allaataanik nalunaarsorneqarsimasoq, aammalu Guutip Atuagaanni eqqartorneqarsimasoq, Tassaasoq qutsissup Issiavissaarsuata taassumalu ataaniittup nunap Naalagaa. *Taavalu nikuilluni oqarli: Illit-aa pinngortitaanerup suulluunniit Naalagaa, ersitsunik ersinngitsunillu tamanik Piginnittoq, Qulliikka anersaaminikkalu malugaatit, kappialanikka, aliasunnera, uummatimalu nimaarnera tusaavatit. Pissaanerit pillugu! Unioqqutitsinimma Ilinnut qanillinissara akornusersimavaat; ajortuliammalu Illernassutsivit najugaanit tunuarsimatissimavaannga. Asanninnerpit, Naalagara-aa, pisuttorsarsimavaanga, Ilinnillu avissarsimanerup suujunnaarsissimavaanga, Ilinnillu ungasissuunerup piuneerutsissimavaanga. Torlulaffigaakkit maani inoqajuitsumi Tumivit eqqaanni, oqaatsillu makku atorlugit &#34;Maaniippunga. Maaniippunga” soorlu Toqqakkavit killeqanngitsumik tamanna oqaatigiuarsimagaat, Saqqummersitavillu anersaartorneri aqqutigalugit Nalunaarutiginninnerpit Qaalernerata anorai sallaatsut pillugit, akuereqquvunga Kusanassusernik isiginnissinnaaqqullunga Atuakkavillu Peqqussutai tamaasa maleqqullugit. *Taavalu Aqqit Anginersaat pingasoriarluni uterliuk, seeqquminullu assani ilillugit sikili oqarlunilu: Unnersiutigineqarit, Guutiga-aa, Ilinnik eqqaamanninnissannut unnersiutiginninnissannullu ikiorsimagamma, aammalu Taanna Ilisarnaativit Qaalernera uannut ilisaritissimagakku, Angissutsit pillugu pallorfiginnittunngortissimagamma, Nalissaqanngissutsivillu saavani maniguuttunngortissimagamma, Angissutsivillu Oqaanit oqaatigineqarsimasut ilisaritissimagakkit. *Taavalu nikuilli oqarlunilu: Guuti-aa, Guutiga! Qitiga ajortimma artornartumit peqitinneqarsimavoq, soqutigisaqanngissutsimalu suujunnaarsissimavaanga. Qaqugukkulluunniit iliuusikka ajortut Illillu ajunngissutsit eqqarsaatigillualeraangakkit uummatiga ilunni aakkiartulersarpoq, aagalu taqqanni qalattutut ilersarluni. Kusanassutsit pillugu, Illit-aa silarsuup Erinigisaa! Kiinara Ilinnut saatsikkakku aappillerpunga, assakkalu kipisattut kanngusullutik Saammaannerpit Qilaata tungaanut siaarsimapput. Isigaat, Guutiga-aa, qanoq qullimma Ilinnik eqqaamanninnissara, Piginnaassutsinnilu qutsingaartunik unnersiutiginninnissara akornuseraat, Illit-aa Issiavissaarsuup qutsinnermiittup, taassumalu ataaniittup Nunap Naalagaa! Ilungersorlunga qinnuigaakkit Naalagaaffippit ilisarnaatai tupinnartortaalu pillugit, asasatit Tukkussutsit naapertorlugu peqqullugit, Illit-aa pinngortitat tamarmik Naalagaat, taakkumi Saammaanninnut naleqqulluarmata, Illit-aa ersitsut ersinngitsullu Naalagaat! *Taavalu Aqqit Anginersaat pingasoriarluni utertarliuk, qaanilu nunamut tutsillugu seeqqummerli, oqarlunilu: Unnersiutigineqarit Guuterput-aa, uagutsinnut aallartitsisimagavit Ilinnut qanillisitsisussamik, ajunngitsunillu tamanik eqqaamasaratsigut Ilinnik aallartitanik Atuakkatit Allagaatitillu aqqutigalugit. Sernissortigut, taamatut qinnuigaatsigit, Naalagara-aa, sinnatuinnaat iluaqutaanngitsut isumapalaallu piunngitsut sakkutoorpassuinit. Illit, ilumut tassaavutit Pissaanilik, sunik tamanik Ilisimasaqartoq. *Taavalu niaqqi qullarliuk, ingillunilu oqarli: Guutiga-aa, nalunaajaatigaara toqqakkavit nalunaajaatigisimasaat, akuersissutigalugulu Paradisip qutsinnerussaartup innuttaasa Issiavissaarsuarpillu eqqaani kaavissimasut akuersissutigisimasaat. Nunarsuup qilaallu Naalagaaffii Illit pigaatit, Illit-aa silarsuit Naalagaat!
+##PINNGITSOORANI QINNUTISSAQ TAKINEQ*ULLOQ UNNUARLU ATAASIARLUGU TAANEQARTASSAAQ. *Kialuunniit kissaatigissappagu qinnut inna atuassallugu, nikuilli Guutimullu saalluni, taavalu nikorfavimminiitilluni talerpimmut saamimmullu qiviarli soorlulusooq Naalakkaminit nakkinnineq utaqqillugu, tassaasoq Naakkinninnerpaasoq, Misiginneqataasoq. Taavalu oqarli: Illit-aa Tassaasutit aqqit tamarmik Naalagaat qilaallu Pinngortitsisuat! Suussutsivit ersinngitsup, Qutsinnersaasup Naalannangaartup Qaammalerneri aqqutigalugit torlorfígaakkit qinnutiga tassaaqqullugu Illit kusanassutsinnik assiaqutaasimasunut inneq nungusaasoq, qaamaanerlu Qanissutsivit Imarsuanut aqqutissiuisussaq.*Taavalu assani Guutimut - Taanna pilluaqquneqarli nersornangaarlunilu, qinulluni qullarligit - oqarlunilu:Illit-aa silarsuup Erinigisaa, inuiaqatigiillu tamarmik Asasaat! Isigaarma Ilinnut saattunga, sumillu allamit Illiunngitsumit kaanngaqqasunga, Allunaasat najummatserfigigiga, taassumap aalaneratigut pinngortitaq tamarmi aalaterneqarsimavoq. Tassaavunga kiffat, Naalagaq-aa, kiffavillu ernera. Isiginnga Kissaatigisat Piumasallu suliarissallugu piareeqqallunga nikorfasunga, allamimmi kissaateqannginnama taamaallaat Nuannaarnerit. Ilungersorlunga qinnuigaakkit Naakkinninnerpit Imaatigut Saammaannerpillu Ulluata Ulloriaa aqqutigalugu, kiffat Piumasat Kissaatigisallu malillugu peqqullugu. Piumasat eqqartuinernit unnersiutigineqarnernillu tamanit qutsinnerpaasoq pillugu! Sunaluunniit Ilinnit saqqummersinneqarsimasoq tassaavoq uummatima kipisaffígisaa tarnimalu asasaa. Guuti-aa, Guutiga! Neriuutikka suliakkalu isiginagit Piumasat qilannik nunamillu tamanit ungusisimasoq taamaallaat isiguuk. Aqqit Sunik Tamanit Anginersaasoq pillugu, Illit-aa inuiaqatigiit tamarmik Naalagaat! Kissaatigisat kisiat kissaatigivara. Asasallu kisiat asallugu. *Taavalu seeqqummerli, qaanilu nunamut tutsilliuk, oqarlunilu: Kialuunniit Illiungitsup nassuiaaneranit paasinnissinnaaneranillu qutsinnerungaarputit. *Taavalu nikuilluni oqarli: Qinnutiga, Illit-aa Naalagara, imermik uumassutissalimmik puilasunngortiguk, tassuunakkut uumasinnaaqqullunga Naalagaaffippit ataneratut sivisutigisumik, Illillu Silarsuarpit arlaanniluunniit eqqartorsinnaaqqullutit.*Taavalu qinulluni assani qullarligit oqarlunilu:Illit-aa, pillutit uummatit tarningillu Ilinnik avissaarsimanertik pillugu suujunnaarsimasut. Asanninnerpillu innera pillugu silarsuaq tamarmi ikuallalersimasoq! Ilungersorlunga qinnuigaakkit Atikkut, taanna aqqutigalugu pinngortitaq tamaat naalatsigilersimasat, Ilinniittut suulluunniit uannit tunuarsimateqqunagit, Illit-aa inunnut tamanut Naalagaasoq! Isigaat, Naalagara-aa, takornartaq manna angerlarsimaffímminut qutsingaartumut Naalannangaarsutsivit issiavissaarsuata qilaannguusaata ataani ittumut, Naakkinnissutsivillu oqartussaaffianut nukingertoq; unioqqutitsisorlu manna Isumakkeerinerpit Imaanik ujarlertoq; pinngortitarlu manna piitsoq Pisuussutsivit Qaamaneranut saattoq. Sukkulluunniit Piumasannik naalakkiinissamut oqartussaassuseq tigummivat. Nalunaajaatigaara sukkulluunniit Iliuutsitit tamarmik unnersiutigineqartussaasut, Peqqussutitillu maleruarneqassasut, Naalakkiinikkullu killeqanngittuaannassasutit.*Taavalu assani qullarligit Aqqillu Anginersaat (Alláh’u’Abhá) pingasoriarluni uterliuk. Taavalu sikili assani seeqquminut tutsillugit Guutip - Taanna pilluaqquneqarli unnersiutigineqarlunilu - saavani oqarlunilu: Isigaat, Guutiga-aa, anersaara Ilinnik qinnuiginnikkumalluni kipisanermini Ilinnillu eqqaamannikkumalluni unnersiutiginnikkumallunilu ilungersornermini timiga tamakkerlugu qanoq killinneqangaarsimatigisoq; qanorlu ililluni Peqqussutsivit Oqaata Oqalunnerpit naalagaaffiani Ilisimassutsivillu Qilaani nalunaajaatigisaa nalunaajaatigigaa. Taamatut itsillunga, Naalagara-aa, allamik asasaqanngilanga taamaallaat Ilinniittoq sunaluunniit Ilinnut qinnutigissallugu, taamaalillugu piitsuussusera takutinniassagakku Tukkussutsit Pisuussutsillu unnersiutiginiassagakku, taamatullu sanngiissusera nalunaarutigissallugu Pissaanerit Nakuussutsillu ersersinniassagakku.*Taavalu nikuilluni assani marloriarlugit qinuutigaluni kivilligit oqarlunilu: Allamik Illiunngitsumik Guuteqanngilaq, Ajugaqanngitsoq, sunit tamanit Tukkunerpaajusoq. Allamik Illiunngitsumik Guuteqanngilaq, aallaqqaataani naggataanilu Atortunngortitsisoq. Guuti-aa, Guutiga! Isumakkeerinerpit sapiissusermik tunisimavaanga, Naakkinnissutsivillu nakussatsissimavaanga, Qaaqqusinerpillu itertissimavaanga, Saammaannerpillu qummut kivissimavaanga Ilinnullu ingerlatillunga. Kinaassagaluaramami Qanissutsivit illoqarfiata isaariaata saavani sapiiserlunga nikorfassaguma, kiinaraluunniit Piumassutsivit qilaata qaamanerata qinngornerisa tungaanut saatsissagukku? Isigaat, Naalagara-aa, una pinngortitaq nallinnartoq Saammaannerpit matuanut kasuttortoq, tarnerlu manna qarsupittoq Tukkussutsivit assaanit inuunerup naassaanngitsup kuussuanik ujarlertoq. Naalakkiineq qaquguluunniit Ilinniittuarpoq, Illit-aa Tassaasutit aqqit tamarmik Naalagaat; uangalu pisussaaffigaara asiginnaaneq tunniutiinnarumanerlu, Illit-aa Qilaat Pinngortitsisuat! *Taavalu assani pingasoriarlugit kivilligit oqarlunilu: Guuti sunit annerusunit tamanit anginersaavoq! *Taavalu seeqqumiarli qaanilu nunamut tutsilliuk oqarlunilu: Ilinnut qanittuusut unnersiutiginninnerisa Qanissutsivit qilaanut qullarnissaannit Qutsinnerungaarputit, Ilinnulluunniit tunniusimasut uummataasa timmiaasa Isaaffippit kusanartup matuata eqqaanut pinissaannut. Nalunaajaatigaara piginnaassutsit aqqillu tamaasa qaangerlugit Illernartitaagavit. Allamik Illiunngitsumik Guuteqanngilaq, sunit tamanit Qutsinnerpaasoq, sunillu tamanit Naalannarnerpaasoq. *Taavalu ingilli oqarlunilu:Pinngortitaasimasut tamarmik nalunaajaatigisimasaat nalunaajaatigaara, qutsissumillu Katersaarsuit Paradisimilu qutsinnerpaajusumi najugallit, taakkulu qulaanni Angissutsip Oqaa Killingiusaami qaammarinnerpaasumumiittoq, tassaasutit Guuti, allamillu Illiunngitsumik Guuteqanngitsoq, aammalu Taanna Saqqummersinneqarsimasoq, tassaasoq Paasissaalluanngitsoq Toqqortaq, assersuut Erlinnangaartoq, Taannalu aqqutigalugu naqinnerit P I L E R I T (Pilerit) katitinneqarsimapput qilerneqarsimallutillu. Nalunaajaatigaara, Tassaasoq Taanna, Aqqa Qutsinnerpaap Allaataanik nalunaarsorneqarsimasoq, aammalu Guutip Atuagaanni eqqartorneqarsimasoq, Tassaasoq qutsissup Issiavissaarsuata taassumalu ataaniittup nunap Naalagaa. *Taavalu nikuilluni oqarli: Illit-aa pinngortitaanerup suulluunniit Naalagaa, ersitsunik ersinngitsunillu tamanik Piginnittoq, Qulliikka anersaaminikkalu malugaatit, kappialanikka, aliasunnera, uummatimalu nimaarnera tusaavatit. Pissaanerit pillugu! Unioqqutitsinimma Ilinnut qanillinissara akornusersimavaat; ajortuliammalu Illernassutsivit najugaanit tunuarsimatissimavaannga. Asanninnerpit, Naalagara-aa, pisuttorsarsimavaanga, Ilinnillu avissarsimanerup suujunnaarsissimavaanga, Ilinnillu ungasissuunerup piuneerutsissimavaanga. Torlulaffigaakkit maani inoqajuitsumi Tumivit eqqaanni, oqaatsillu makku atorlugit "Maaniippunga. Maaniippunga” soorlu Toqqakkavit killeqanngitsumik tamanna oqaatigiuarsimagaat, Saqqummersitavillu anersaartorneri aqqutigalugit Nalunaarutiginninnerpit Qaalernerata anorai sallaatsut pillugit, akuereqquvunga Kusanassusernik isiginnissinnaaqqullunga Atuakkavillu Peqqussutai tamaasa maleqqullugit. *Taavalu Aqqit Anginersaat pingasoriarluni uterliuk, seeqquminullu assani ilillugit sikili oqarlunilu: Unnersiutigineqarit, Guutiga-aa, Ilinnik eqqaamanninnissannut unnersiutiginninnissannullu ikiorsimagamma, aammalu Taanna Ilisarnaativit Qaalernera uannut ilisaritissimagakku, Angissutsit pillugu pallorfiginnittunngortissimagamma, Nalissaqanngissutsivillu saavani maniguuttunngortissimagamma, Angissutsivillu Oqaanit oqaatigineqarsimasut ilisaritissimagakkit. *Taavalu nikuilli oqarlunilu: Guuti-aa, Guutiga! Qitiga ajortimma artornartumit peqitinneqarsimavoq, soqutigisaqanngissutsimalu suujunnaarsissimavaanga. Qaqugukkulluunniit iliuusikka ajortut Illillu ajunngissutsit eqqarsaatigillualeraangakkit uummatiga ilunni aakkiartulersarpoq, aagalu taqqanni qalattutut ilersarluni. Kusanassutsit pillugu, Illit-aa silarsuup Erinigisaa! Kiinara Ilinnut saatsikkakku aappillerpunga, assakkalu kipisattut kanngusullutik Saammaannerpit Qilaata tungaanut siaarsimapput. Isigaat, Guutiga-aa, qanoq qullimma Ilinnik eqqaamanninnissara, Piginnaassutsinnilu qutsingaartunik unnersiutiginninnissara akornuseraat, Illit-aa Issiavissaarsuup qutsinnermiittup, taassumalu ataaniittup Nunap Naalagaa! Ilungersorlunga qinnuigaakkit Naalagaaffippit ilisarnaatai tupinnartortaalu pillugit, asasatit Tukkussutsit naapertorlugu peqqullugit, Illit-aa pinngortitat tamarmik Naalagaat, taakkumi Saammaanninnut naleqqulluarmata, Illit-aa ersitsut ersinngitsullu Naalagaat! *Taavalu Aqqit Anginersaat pingasoriarluni utertarliuk, qaanilu nunamut tutsillugu seeqqummerli, oqarlunilu: Unnersiutigineqarit Guuterput-aa, uagutsinnut aallartitsisimagavit Ilinnut qanillisitsisussamik, ajunngitsunillu tamanik eqqaamasaratsigut Ilinnik aallartitanik Atuakkatit Allagaatitillu aqqutigalugit. Sernissortigut, taamatut qinnuigaatsigit, Naalagara-aa, sinnatuinnaat iluaqutaanngitsut isumapalaallu piunngitsut sakkutoorpassuinit. Illit, ilumut tassaavutit Pissaanilik, sunik tamanik Ilisimasaqartoq. *Taavalu niaqqi qullarliuk, ingillunilu oqarli: Guutiga-aa, nalunaajaatigaara toqqakkavit nalunaajaatigisimasaat, akuersissutigalugulu Paradisip qutsinnerussaartup innuttaasa Issiavissaarsuarpillu eqqaani kaavissimasut akuersissutigisimasaat. Nunarsuup qilaallu Naalagaaffii Illit pigaatit, Illit-aa silarsuit Naalagaat!
 
 -- Bahá'u'lláh
 
-bpn9959 «[Kalaallisut](../kl/prayers/#bpn9959)» 
+bpn9959 
 
 ----
 
@@ -995,7 +996,7 @@ bpn9959 «[Kalaallisut](../kl/prayers/#bpn9959)»
 
 -- Bahá'u'lláh
 
-bpn9113 «[Kalaallisut](../kl/prayers/#bpn9113)» 
+bpn9113 
 
 ----
 
@@ -1009,7 +1010,7 @@ Aqqit Unnersiutaali, Naalagaq Guutiga-aa! Illit Atikkut qinnuigaakkit nalunaaqut
 
 -- Bahá'u'lláh
 
-bpn10529 «[Kalaallisut](../kl/prayers/#bpn10529)» 
+bpn10529 
 
 ----
 
@@ -1019,7 +1020,7 @@ Guuti-aa, Guutiga! Angerlarsimaffiga qimassimavara, Asanninnerpilli qilerutaaipe
 
 -- Bahá'u'lláh
 
-bpn10530 «[Kalaallisut](../kl/prayers/#bpn10530)» 
+bpn10530 
 
 ----
 
@@ -1029,7 +1030,7 @@ Naalannartinneqarit Guuti-aa! Guutiuvutit suut tamaasa sioqqullugit piusimasoq,s
 
 -- Báb
 
-bpn10528 «[Kalaallisut](../kl/prayers/#bpn10528)» 
+bpn10528 
 
 ----
 
@@ -1039,17 +1040,17 @@ Uannut aalajangeruk, Naalagara-aa, Ilinnullu upperinnittunut Illit isinni uatsin
 
 -- Báb
 
-bpn10531 «[Kalaallisut](../kl/prayers/#bpn10531)» 
+bpn10531 
 
 ----
 
 
 <a id="bpn10533"></a> 
-Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginnittoq. Naalagaq illernarsisitaali, Assaani ippoq naalagaaffimmut aallaavik. Sumilluunniit piumasaminik pinngortitsisarpoq oqaatsimigut inatsisukkut: &#34;Pilerit&#34;, piulersarporlu. Taassumani ippoq qanga oqartussaaneq, kingornalu Taassumaniittuassaaq. Kina nammineq kissaatigisani ajugaasunngortittarpaa inatsimmi nakuussusiagut. Ilumoortumimmi tassaavoq Pissaaneqarluartoq, tamanik Ajugaqanngitsoq. Nersugaaneq ataqqinassuserlu Saqqummersitap Pinngortitallu naalagaaffianiittut Taassuma pigai, suullu tamaasa taakkua akorniniittut. Ilumoortumik, Taanna nakuunerpaavoq, tamanit Illernarnerpaaq. Piffissap isoqanngitsuanit Taanna tassaavoq nukiup ajugaaffigineq ajornartup aallaavia, taamalu ittuassaaq isoqanngitsumut. Taanna ilumut pissaanerup nakuussutsillu Naalagaraat. Qilaap nunallu naalagaaffii, suullu tamaasa taakkua akorniniittut, Guutip pigai. Pissaaneralu tamanik qulangiivoq. Suut qilaap nunallu erlinnartuutaat, suullu tamaasa taakkua akorniniittut, Taassuma pigai, Taassumalu illersuinera tamanut atorpoq. Taanna tassaavoq qilammik nunamillu Pinngortitsisoq, taakkulu tamarmik akornanniittunik, Taannalu tassaavoq ilumoortumik tamanik uppernarsaasoq. Kikkunnut tamanut, qilammi nunamilu najugalinnut, taakkulu tamarmik akorniniittunut Naatsorsuinerup Naalagaraa, ilumoortumillu, Guuti naatsorsuinissamut kinguartiterineq ajorpoq. Uuttortaat kikkunnut tamanut, qilammiittunut nunamiittunullu, sunullu tamanut taakkua akorniniittunut tamanut aalajangeriigaq agguaatereerpaa. Ilumummi Taanna tassaavoq Illersuisoq Annerpaaq. Tigummisarai qilammut nunamullu, sunullu tamanut taakkua akorniniittunut, matuersaatit. Nammineq iluarisani atorlugu tunniukkumasani tunniuttarpai naalakkiutimi nakuussusiisigut. Nallittuinera ilumoortumik tamanut atavoq, Taanna tassaavoq Tamanik ilisimannittoq. Oqarit: Guuti uannik naammattuuvoq; Taanna tassatuaavoq tigummisamini suut tamarmik naalagaafiinik tigummisoq. Qilammi nunamilu katersaarsuarmi pissaaneqarnerinik, taakkulu tamarmik akorniniittunut, kikkulluunniit kiffami akorniniittut piumasani illersorpai. Ilumummi Guutip suut tamaasa nakkutigai.Killeqanngitsumik ataqqinarputit Illit, Naalagaq-aa! Siunitsinniittunut kingunitsinniittunullu, niaqqutta qulaanniittunut, talerpitta saamittalu nalaanniittunut, isikkatta ataanmittunut sammivinnilu tamani tamaaniittunut tamanut illersortigut. Ilumoortumimmi, tamanik illersuinerit kukkunngisaannarpoq
+Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginnittoq. Naalagaq illernarsisitaali, Assaani ippoq naalagaaffimmut aallaavik. Sumilluunniit piumasaminik pinngortitsisarpoq oqaatsimigut inatsisukkut: "Pilerit", piulersarporlu. Taassumani ippoq qanga oqartussaaneq, kingornalu Taassumaniittuassaaq. Kina nammineq kissaatigisani ajugaasunngortittarpaa inatsimmi nakuussusiagut. Ilumoortumimmi tassaavoq Pissaaneqarluartoq, tamanik Ajugaqanngitsoq. Nersugaaneq ataqqinassuserlu Saqqummersitap Pinngortitallu naalagaaffianiittut Taassuma pigai, suullu tamaasa taakkua akorniniittut. Ilumoortumik, Taanna nakuunerpaavoq, tamanit Illernarnerpaaq. Piffissap isoqanngitsuanit Taanna tassaavoq nukiup ajugaaffigineq ajornartup aallaavia, taamalu ittuassaaq isoqanngitsumut. Taanna ilumut pissaanerup nakuussutsillu Naalagaraat. Qilaap nunallu naalagaaffii, suullu tamaasa taakkua akorniniittut, Guutip pigai. Pissaaneralu tamanik qulangiivoq. Suut qilaap nunallu erlinnartuutaat, suullu tamaasa taakkua akorniniittut, Taassuma pigai, Taassumalu illersuinera tamanut atorpoq. Taanna tassaavoq qilammik nunamillu Pinngortitsisoq, taakkulu tamarmik akornanniittunik, Taannalu tassaavoq ilumoortumik tamanik uppernarsaasoq. Kikkunnut tamanut, qilammi nunamilu najugalinnut, taakkulu tamarmik akorniniittunut Naatsorsuinerup Naalagaraa, ilumoortumillu, Guuti naatsorsuinissamut kinguartiterineq ajorpoq. Uuttortaat kikkunnut tamanut, qilammiittunut nunamiittunullu, sunullu tamanut taakkua akorniniittunut tamanut aalajangeriigaq agguaatereerpaa. Ilumummi Taanna tassaavoq Illersuisoq Annerpaaq. Tigummisarai qilammut nunamullu, sunullu tamanut taakkua akorniniittunut, matuersaatit. Nammineq iluarisani atorlugu tunniukkumasani tunniuttarpai naalakkiutimi nakuussusiisigut. Nallittuinera ilumoortumik tamanut atavoq, Taanna tassaavoq Tamanik ilisimannittoq. Oqarit: Guuti uannik naammattuuvoq; Taanna tassatuaavoq tigummisamini suut tamarmik naalagaafiinik tigummisoq. Qilammi nunamilu katersaarsuarmi pissaaneqarnerinik, taakkulu tamarmik akorniniittunut, kikkulluunniit kiffami akorniniittut piumasani illersorpai. Ilumummi Guutip suut tamaasa nakkutigai.Killeqanngitsumik ataqqinarputit Illit, Naalagaq-aa! Siunitsinniittunut kingunitsinniittunullu, niaqqutta qulaanniittunut, talerpitta saamittalu nalaanniittunut, isikkatta ataanmittunut sammivinnilu tamani tamaaniittunut tamanut illersortigut. Ilumoortumimmi, tamanik illersuinerit kukkunngisaannarpoq
 
 -- Báb
 
-bpn10533 «[Kalaallisut](../kl/prayers/#bpn10533)» 
+bpn10533 
 
 ----
 
@@ -1059,7 +1060,7 @@ Naalagara-aa! Nalunngilat inuiaat anniaammik ajunaarnermillu nalaanneqarsimasut,
 
 -- Abdu'l-Bahá
 
-bpn10532 «[Kalaallisut](../kl/prayers/#bpn10532)» 
+bpn10532 
 
 ----
 
@@ -1073,17 +1074,17 @@ Guutiuvoq, nersorneqangaarli asannilluni isumassuinerup tukkussutsillu Naalagaa!
 
 -- Bahá'u'lláh
 
-bpn9105 «[Kalaallisut](../kl/prayers/#bpn9105)» 
+bpn9105 
 
 ----
 
 
 <a id="bpn12577"></a> 
-*(Toqusimasunut qinnut atorneqartartussaavoq Bahá’í-nut 15-nik ukioqalereersimasunut. &#34;Tassaavoq Bahá’í-t pinngitsoorani qinnutigisartagaanni katersuussimasut akornanni oqaatigineqarsinnaasutuaq: atuarneqartussaavoq uppertumit ataatsimit najuuttut tamarmik nikorfaneranni. Pisariaqartitaanngilaq Qiblih [Qinunermi Sammivik] saassallugu qinnut atuarneqartillugu&#34;  —Kitáb-i-Aqdas-imit tigusaq)Guutiga-aa! Tassaavoq Illit kiffat kiffavillu ernera, Ilinnut ilisarnaatinnullu uppertuusoq, kiinnaminik Ilinnut saassimasoq, allamik Illiungitsumik atassuteqanngitsoq. Ilumut Illit naakkinnissummik takutitsisunut ilaavutit, tassaasoq naakkinninnerpaaq. Illit-aa, inuit ajortaannik isumakkeerfiginnitoq kukkussutaannillu toqqorterisoq, taassumunnga tunngasut tamaasa Tukkussuserpit qilaanut saammaassinerpillu imaanut naapertuuttumik iliorfigiuk. Illit Nunannut nersornangaartumut nunarsuup qilaallu pinngunnginneranniilli pioreersumut isertiguk. Allamik Illiunngitsumik Guuteqanngilaq, Isumakkeerfiginnittuartoq. Isumassuingaartoq. Taavalu ilassinnissut &#34;Alláh&#39;u&#39;Abhá&#34; arfinileriarlugu utertaarsinnarlugu, taallat tullinnguuttut 19-eriarlugit uteqattaarligit: Ilumut tamatta Guuti qinnuigaarput. IIumut tamatta Guutip saavani sikivugut. Ilumut tamatta Guutimut tunniussimavugut. Ilumut tamatta Guuti unnersiutigaarput. Ilumut tamatta Guuti qutsavigaarput. Ilumut tamatta Guutimi naammagittartuuvugut.
+*(Toqusimasunut qinnut atorneqartartussaavoq Bahá’í-nut 15-nik ukioqalereersimasunut. "Tassaavoq Bahá’í-t pinngitsoorani qinnutigisartagaanni katersuussimasut akornanni oqaatigineqarsinnaasutuaq: atuarneqartussaavoq uppertumit ataatsimit najuuttut tamarmik nikorfaneranni. Pisariaqartitaanngilaq Qiblih [Qinunermi Sammivik] saassallugu qinnut atuarneqartillugu"  —Kitáb-i-Aqdas-imit tigusaq)Guutiga-aa! Tassaavoq Illit kiffat kiffavillu ernera, Ilinnut ilisarnaatinnullu uppertuusoq, kiinnaminik Ilinnut saassimasoq, allamik Illiungitsumik atassuteqanngitsoq. Ilumut Illit naakkinnissummik takutitsisunut ilaavutit, tassaasoq naakkinninnerpaaq. Illit-aa, inuit ajortaannik isumakkeerfiginnitoq kukkussutaannillu toqqorterisoq, taassumunnga tunngasut tamaasa Tukkussuserpit qilaanut saammaassinerpillu imaanut naapertuuttumik iliorfigiuk. Illit Nunannut nersornangaartumut nunarsuup qilaallu pinngunnginneranniilli pioreersumut isertiguk. Allamik Illiunngitsumik Guuteqanngilaq, Isumakkeerfiginnittuartoq. Isumassuingaartoq. Taavalu ilassinnissut "Alláh'u'Abhá" arfinileriarlugu utertaarsinnarlugu, taallat tullinnguuttut 19-eriarlugit uteqattaarligit: Ilumut tamatta Guuti qinnuigaarput. IIumut tamatta Guutip saavani sikivugut. Ilumut tamatta Guutimut tunniussimavugut. Ilumut tamatta Guuti unnersiutigaarput. Ilumut tamatta Guuti qutsavigaarput. Ilumut tamatta Guutimi naammagittartuuvugut.
 
 -- Bahá'u'lláh
 
-bpn12577 «[Kalaallisut](../kl/prayers/#bpn12577)» 
+bpn12577 
 
 ----
 
@@ -1093,7 +1094,7 @@ Guutiga-aa! Illit ajortulianik isumakkeerisoq, tunissutinik tunisisoq, naalliuut
 
 -- Abdu'l-Bahá
 
-bpn9121 «[Kalaallisut](../kl/prayers/#bpn9121)» 
+bpn9121 
 
 ----
 
@@ -1103,11 +1104,11 @@ bpn9121 «[Kalaallisut](../kl/prayers/#bpn9121)»
 ## Ukiortaaq
 
 <a id="bpn9983"></a> 
-*(Naw-Ruz, martsip 20-at imaluunniit 21-at, tassaavoq Bahá’í-t ukiuata ulluisa siullersaat)Unnersiutigineqarit Guutiga-aa, Naw-Ruz Ilinnut asanninnertik pillugu iisinngiffimmik maleruaasimasunut tamanillu Ilinnut naleqqutinngitsunit pinaveersaarsimasunut nalliuttorsiorfissatut atuutsilersimagakku. Naalagara-aa qanortoq, iisinngiffiup peqqusavit kingunerinik Asanninnerpit innerata kissarneratalu taakku Siunertanni ikikkiligit, Ilinnik unnersiutiginnittunngortillugit eqqaamannittunngortillugillu. lisinngiffiup peqqusavit pinnersaataanik pinnersarsimagakkit Naalagara-aa, Naakkinninnerit Tukkussutsillu aqqutigalugit Akuerinninnerpit pinnersaataanik pinnersakkit. Inuimmi qanoq iliorneri tamarmik Iluarinninninut Peqqussutinnullu atapput. lisinngiffimmik kipisisimasoq kipisisimanngitsutut isigissagaluarukku, inuk taama ittoq qangarsuarniilli iisinngiffimmik kipisisimanngitsutut isigineqassagaluarpoq. Illillu aalajangissagaluarukku iisinngiffimmik maleruaasimasoq, maleruaasimanngitsutut, inuk taanna Saqqummernerpit uleruaanik pujoralammik simerterisimasut akornanniittutut isigineqalissagaluarpoq, Puilasullu uumanartup massuma imaanit qillarissunit ungasillisinneqarsimasututilissagaluarluni.Tassaavutit &#34;Illit Suliakkut Unnersiutigineqarit&#34;-mik ilisarnaatip qullarneqarfia, &#34;Illit Peqqussutsikkut Naalanneqarputit&#34; erfalasuata siaarneqarfia. Tunngaviit tamanna Illit kiffannut ilisimaneqartileruk Guutiga-aa, taamaalillutik suut tamarmik naammalluinnassusiat Illit Peqqusininnut Oqaatsinnullu atasuusutut ilisimalerniassammassuk, iliuutsillu suulluunniit pitsaassusaat Illit akuerinninninnut Piumassutsivillu iluarinninneranut tunngassuteqartoq, aammalu nalujunnaarniassammassuk Illit akuerinninnerpit Peqqussutivillu iluaniimmata inuit iliuusaat tamarmik. Tamassuminnga ilisimatikkit sumilluunniit Kusanassutsinnit mattusimatitaaleqqunagit, ulluni makkunani Kristusip ima nalunaajaaffiini: &#34;Naalagaaffik tamarmi Ilinniippoq, Illit-aa Anersaamik (Jesusimik) aallaaviusoq&#34;, Ikinngutivit (Muuamaap) ima torlulaffiani, &#34;Naalannarsineqarit, Illit-aa tamanit Asaneqarnerpaasutit, Kusanassutsit saqqummersimagakku, Toqqakkannullu peqqusimagakku Ativit tamanit Anginersaasup saqqummerfiata issiavianut annguffissaq, taanna aqqutigalugu inuit tamarmik kappialasimapput tamaallaat tamanut Illiunngitsumit tunussimasut Taassumunngalu, Illit Saqqummerfinnut, Piginnaassutsivillu Erserfianut, saassimasut kisimik pinnatik&#34;.Taanna, tassaasoq Avalequtit Illillu ilagisatit Naalagara-aa, ullumi maani iisinngiffitsik kipisimavaat Najukkavit eqqaamiuiniissimallutik Ilinnillu nuannaartitisinissaminnik ilungersoreersimallutik. Taamaammat Tassunga taakkununngalu, aammattaaq ulluni makkunani Ilinnut qanillisimasunut Atuakkanni aalajangeriikkatit ajunngitsut tamaasa tunniutikkit. Pilersukkillu taava inuunermi maani inuunerullu tulliani iluaqutis saannik.Illit ilumut Tassaavutit Tamanik Ilisimannittoq, Tamanut Sianisoq.
+*(Naw-Ruz, martsip 20-at imaluunniit 21-at, tassaavoq Bahá’í-t ukiuata ulluisa siullersaat)Unnersiutigineqarit Guutiga-aa, Naw-Ruz Ilinnut asanninnertik pillugu iisinngiffimmik maleruaasimasunut tamanillu Ilinnut naleqqutinngitsunit pinaveersaarsimasunut nalliuttorsiorfissatut atuutsilersimagakku. Naalagara-aa qanortoq, iisinngiffiup peqqusavit kingunerinik Asanninnerpit innerata kissarneratalu taakku Siunertanni ikikkiligit, Ilinnik unnersiutiginnittunngortillugit eqqaamannittunngortillugillu. lisinngiffiup peqqusavit pinnersaataanik pinnersarsimagakkit Naalagara-aa, Naakkinninnerit Tukkussutsillu aqqutigalugit Akuerinninnerpit pinnersaataanik pinnersakkit. Inuimmi qanoq iliorneri tamarmik Iluarinninninut Peqqussutinnullu atapput. lisinngiffimmik kipisisimasoq kipisisimanngitsutut isigissagaluarukku, inuk taama ittoq qangarsuarniilli iisinngiffimmik kipisisimanngitsutut isigineqassagaluarpoq. Illillu aalajangissagaluarukku iisinngiffimmik maleruaasimasoq, maleruaasimanngitsutut, inuk taanna Saqqummernerpit uleruaanik pujoralammik simerterisimasut akornanniittutut isigineqalissagaluarpoq, Puilasullu uumanartup massuma imaanit qillarissunit ungasillisinneqarsimasututilissagaluarluni.Tassaavutit "Illit Suliakkut Unnersiutigineqarit"-mik ilisarnaatip qullarneqarfia, "Illit Peqqussutsikkut Naalanneqarputit" erfalasuata siaarneqarfia. Tunngaviit tamanna Illit kiffannut ilisimaneqartileruk Guutiga-aa, taamaalillutik suut tamarmik naammalluinnassusiat Illit Peqqusininnut Oqaatsinnullu atasuusutut ilisimalerniassammassuk, iliuutsillu suulluunniit pitsaassusaat Illit akuerinninninnut Piumassutsivillu iluarinninneranut tunngassuteqartoq, aammalu nalujunnaarniassammassuk Illit akuerinninnerpit Peqqussutivillu iluaniimmata inuit iliuusaat tamarmik. Tamassuminnga ilisimatikkit sumilluunniit Kusanassutsinnit mattusimatitaaleqqunagit, ulluni makkunani Kristusip ima nalunaajaaffiini: "Naalagaaffik tamarmi Ilinniippoq, Illit-aa Anersaamik (Jesusimik) aallaaviusoq", Ikinngutivit (Muuamaap) ima torlulaffiani, "Naalannarsineqarit, Illit-aa tamanit Asaneqarnerpaasutit, Kusanassutsit saqqummersimagakku, Toqqakkannullu peqqusimagakku Ativit tamanit Anginersaasup saqqummerfiata issiavianut annguffissaq, taanna aqqutigalugu inuit tamarmik kappialasimapput tamaallaat tamanut Illiunngitsumit tunussimasut Taassumunngalu, Illit Saqqummerfinnut, Piginnaassutsivillu Erserfianut, saassimasut kisimik pinnatik".Taanna, tassaasoq Avalequtit Illillu ilagisatit Naalagara-aa, ullumi maani iisinngiffitsik kipisimavaat Najukkavit eqqaamiuiniissimallutik Ilinnillu nuannaartitisinissaminnik ilungersoreersimallutik. Taamaammat Tassunga taakkununngalu, aammattaaq ulluni makkunani Ilinnut qanillisimasunut Atuakkanni aalajangeriikkatit ajunngitsut tamaasa tunniutikkit. Pilersukkillu taava inuunermi maani inuunerullu tulliani iluaqutis saannik.Illit ilumut Tassaavutit Tamanik Ilisimannittoq, Tamanut Sianisoq.
 
 -- Bahá'u'lláh
 
-bpn9983 «[Kalaallisut](../kl/prayers/#bpn9983)» 
+bpn9983 
 
 ----
 
@@ -1121,7 +1122,7 @@ Illit paaqqinninnikkut iterpunga, Guutiga-aa, paaqqinninnernillu qinerlertup pis
 
 -- Bahá'u'lláh
 
-bpn10534 «[Kalaallisut](../kl/prayers/#bpn10534)» 
+bpn10534 
 
 ----
 
@@ -1131,7 +1132,7 @@ Ullaami maani Saammaassinikkut makissimavunga, Guutiga-aa, angerlarsimaffigalu q
 
 -- Bahá'u'lláh
 
-bpn10535 «[Kalaallisut](../kl/prayers/#bpn10535)» 
+bpn10535 
 
 ----
 
@@ -1141,7 +1142,7 @@ Unnersiutigaakkit, Guutiga-aa, sininnit itertikkamma, qimagusimaninnillu sassart
 
 -- Bahá'u'lláh
 
-bpn10536 «[Kalaallisut](../kl/prayers/#bpn10536)» 
+bpn10536 
 
 ----
 
@@ -1155,7 +1156,7 @@ Ullut Tapiliussat, februarip 26-anniit martsip aallaqqaataanut, ullut taakku ila
 
 -- Bahá'u'lláh
 
-bpn9978 «[Kalaallisut](../kl/prayers/#bpn9978)» 
+bpn9978 
 
 ----
 
@@ -1165,11 +1166,11 @@ bpn9978 «[Kalaallisut](../kl/prayers/#bpn9978)»
 ## Umiartortoq Illernartoq
 
 <a id="bpn9985"></a> 
-*“Umiartortoq Illernartoq ilinniaruk sallusuissut ilisimalerniassagassiuk aammalu eqqarsaatiginiassagassiuk Kusanassutsip Pilluaqqusaasup siunissami pisussat tamakkiisumik siulittuutigereersimammagit. Kikkut takunnittut mianersoqqusaalik.&#34; *-Abdu&#39;l-BaháTassaavoq Saammaasoq, Asanarnerpaaq! Umiartortoq-aa Illernartoq! Isoqanngissutsivit umiarsuaa Qilammi Katersuuttunut saqqummeqqujuk,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Taassuma Aqqani, taanna Tamanit Tupinnarnerpaasoq, immamut pisoqarsuarmut singiguk,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Tarningillu inngilisut ittut taqqamunga iserlik Guutip aqqani, taanna Tamanit Qutsinnerpaasoq! Pituutaalu pituussaarsigik immami nuannersumi angalaniassammat,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Immaqa ilaasut qanissutsip naalagaaffimmi soraajuitsumi qimarnguigisaa angujumaarpaat. Unnersiutigisaali Naalagara, Tamanit Naalannarnerpaaq! Sissarlu illernartoq angoreerunikku, immat aappillarissut sineriaat, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Saqqummeqqukkit, killiffillu taanna nunamiorpalunngitsoq ersinngitsoq angulissuk.Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Killiffik naalakkap Kusanassutsimi Ikumarnani orpimmi toqujuitsumi saqqummerfia,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Siunertaanillu uininnguussimasut imminiussutsimit pilerissutsimillu imminnut eqqiarfiat, Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Tamanna Mosesip Naalannassusiata sakkutoorpassuillu soraajuitsut kaaviiaarfigisaat,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Guutip Assaata Taassuma Angissusiata sakiaanit saqqummerfia,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Tassanilu Siunertap umiarsuaa uninngalluinnaqqinnaalersoq, naak piginnaanerit nunamiorpalunngitsut tamarmik inuttaanut oqaluussissutigineqaraluartut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Umiartortoq-aa! Umiarsuarmiittut oqaluttuutikkit saagut tupinnartut tunuanni sunik ilinniartitsissutitsinnik!Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Immaqa piffimmi aputitut qaqortumi illernartumi tunuarsimaniassanngillat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Kisiannili anersaap suluinit qaffatsitaassapput killiffimmut Naalakkap naalannarsisitaanut oqalunneq silarsuarni tasamaniittuni ittoq qaangerlugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Silaannakkullu timmissallutik timmissatut qinikkatut peqatigiinnerup soraajuitsup naalagaaffiani ittutut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Paasissaanngitsuliallu Immami Qaamasumi toqqorsimasut ilisimassallugit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Killiffiit nalinginnaasut killilersugaat aqqutigaat nunamiorpalunngitsullu ataasiussusiata, siulersuinerup qeqqa qilammiittoq, killiffia angullugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Kissaatigisimavaat killiffik Naalakkap killiffittut qulaanniittutut aalajangersimasaa ornikkumallugu.Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu ullorissap anaata ikumasup taakkununnga Taassuma Qanissusiara Naalagaaffianit ajappai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tusarpaallu Angissutsip Nipaa Nuannissutsip Qutsissortaanit illuaqqap ersinngitsup tuanit pisoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!“Inngilit-aa Sernissortit! Najugaannut silarsuarmi samaniittumut utertissigit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Imminnummi qaqitinniarsimapput killiffimmut qilaap tuiata suluisa angunngisaannagaanut, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu umiarsuaq sinnattuusoq uninngavoq, tamannalu taakku paasinnittut eqqarsaataasa paasineq saperpaat.”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Taava qilaap niviarsiaa niviarsiussutilik ineeqqaminit portusuumit silammut qiviarpoq, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qalluumminillu Qilammi Katersuussimasut nalunaaqqummik paasitippai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qilak nunalu qaamanermik kiinnaminit pisumik qaamangaalersippai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Pinnissusiatalu qinngornerata akisugunnera pujoralaat inuinut tummat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Inuunillit tamarmik toqujasut ilerriniittut sajulerput, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Torlulaarporlu siutip isoqanngitsoq tamaat tusarsimanngisaannagaanik,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Imatulu oqaluussivoq: &#34;Naalakkakkut! Kina uummateqartoq ataqqinarsisitaangaartumut Nukappissamullu Arabiamiumut ajunngingaartumut asanninnerup tipigissuanik pigisaqanngitsumik, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qaquguluunniit qilaminut nuannersulimmut imminut qaffatsissinnaanerpoq,”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava kiffami arnat ilaat qaaqquaa,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Naalakkerlugulu &#34;Soraajuissutsip inaanit silaannarsuarmut aqqarit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Qiviakkillu tamakku uummammik ilorpiaanni toqqorsimasaannut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Nukappissallu atisaanit tipigissumik nassaaqassaguit, taassuma qaamarnup illernassusiani ajortut iliuusaat pillugit toqqorsimasumi,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!“Taava ilorpiannit nillerit, Paradiisimi najukkat, tassaasut pisuussutsip soraajuitsup uininnguutai, tamarmik najugaqartuisa paasiniassammassuk tusarnaarlugulu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Taamaalillutik tamarmik najukkaminnit aqqarniassammata sajullutillu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Kunillugillu assaat isikkallu, tassa tamarmik aalajaassutsip qutsissortaanut qullarsinnaasimammata,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!&#34;Immaqa atisaminni Asasap tipiginnera malugisinnaassavaat!&#34;Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava niviarsiap niviarsiussutillip toqqagaasup kiinaanit qilammi najugarisat saqqarneqarput, soorlu qaamanermik Nukappissap kiinaanit Taassuma naalaffianit nungujasumit pisutut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava aqqarpoq pinningaarnerminik qilaat taakkualu pigisaat tamaasa qaammarsarsinnaallugit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Sapiitsuliorporlu, illernarsutsip angingaarsutsillu nunaanni tipigissumik siaruarteraluni, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tikiffissarlu taanna angugamiuk angissutsi tamaat nikuippoq pinngortitap uummataata ilorpiaaniilluni,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tipigissusiallu piffimmi tassani aallaqqaateqaranilu naaffeqanngitsumi naaniarsaralugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Taakkunanili naninngilaa pilerigisani, tamannalu tassaavoq ilumut Taassuma oqaluttuarisaasa tupinnartut ilaannaat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava nipituumik nillerpoq, orulullunilu, namminerlu killiffimminut najukkamini nersornangaartumut uterpoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Oqaatigaalu oqaaseq ataaseq eqqumiilluinnartoq isertortumi isussuutigalugu naasut isserattut tungusunnitsigisumik oqalulluni,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Torlulaarullu torlulaatigaa Qilammi Katersaarsuit qilaallu niviarsiutaani niviarsiaassutilinni toqujuitsut akornanniUnnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!”Naalakkakkut!” Aalajaassutsip anoraanngua kunngiuniartuni ukunani perrortuuni naninngilara.Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!”Naalakkakkut! Nukappiaq kisimiittuarpoq guutiitsullu assaanni qimarnuiup nunaani qimaannagaavoq.”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu ilorpiaminit sakkortuumik kappialaammik torlorpoq, allaat Qilammi Katersaarsuit nillerlutik sajulerlutillu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Pujoralammullu uppippoq anerningerlunilu. Soorluli una aqqa taagorneqarpalulerpoq, Taannalu Naalagaaffimmut qutsissumiittumut imminik qaaqqusisoq naalaarpaa,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Unnersiutigisaali Taanna arnamik taassuminnga asanninnerup pissusianik ilorlerpaamik paradiisimi nersornarsisitaasup uummataanit ilorlerpaamit pinngortitsisoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taamaalimmallu qilaap niviarsiai niviarsiaassutillit ineeqqaminnit tuaviinnaq aniapput, kiinaat paradiisimi qullerpaami najugallit siornatigut takusimanngisaannarpaat,Unnersiutigisaagit Naalagara, Tamanit Qutsinnerusoq!Tamarmik katersorfigaat takussagillu! Nanivaat pujoralammut uppissimasoqUnnersiutigisaagit Naalagara, Tamanit Qutsinnerusoq!Qanorlu issusia takugamikku Nukappissallu oqaluttuaani oqaaseq ataaseq paasigamikku niaqqutik nittarterpaat, atisatik alittorlugit, kiinartik persuttarlugu, nuannaarnertik puigorlugu, qullitik nakkaatillugit, assamminnik imminnut ulussamikkut isattarlutik, tamannalu ilumut tassaavoq misilinneqaatit paasissaanngitsut annilaanganaqisullu ilaatUnnersiutigisaagit Naalagara, Tamanit Qutsinnerpaaq!
+*“Umiartortoq Illernartoq ilinniaruk sallusuissut ilisimalerniassagassiuk aammalu eqqarsaatiginiassagassiuk Kusanassutsip Pilluaqqusaasup siunissami pisussat tamakkiisumik siulittuutigereersimammagit. Kikkut takunnittut mianersoqqusaalik." *-Abdu'l-BaháTassaavoq Saammaasoq, Asanarnerpaaq! Umiartortoq-aa Illernartoq! Isoqanngissutsivit umiarsuaa Qilammi Katersuuttunut saqqummeqqujuk,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Taassuma Aqqani, taanna Tamanit Tupinnarnerpaasoq, immamut pisoqarsuarmut singiguk,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Tarningillu inngilisut ittut taqqamunga iserlik Guutip aqqani, taanna Tamanit Qutsinnerpaasoq! Pituutaalu pituussaarsigik immami nuannersumi angalaniassammat,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq! Immaqa ilaasut qanissutsip naalagaaffimmi soraajuitsumi qimarnguigisaa angujumaarpaat. Unnersiutigisaali Naalagara, Tamanit Naalannarnerpaaq! Sissarlu illernartoq angoreerunikku, immat aappillarissut sineriaat, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Saqqummeqqukkit, killiffillu taanna nunamiorpalunngitsoq ersinngitsoq angulissuk.Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Killiffik naalakkap Kusanassutsimi Ikumarnani orpimmi toqujuitsumi saqqummerfia,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Siunertaanillu uininnguussimasut imminiussutsimit pilerissutsimillu imminnut eqqiarfiat, Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Tamanna Mosesip Naalannassusiata sakkutoorpassuillu soraajuitsut kaaviiaarfigisaat,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Guutip Assaata Taassuma Angissusiata sakiaanit saqqummerfia,Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Tassanilu Siunertap umiarsuaa uninngalluinnaqqinnaalersoq, naak piginnaanerit nunamiorpalunngitsut tamarmik inuttaanut oqaluussissutigineqaraluartut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Umiartortoq-aa! Umiarsuarmiittut oqaluttuutikkit saagut tupinnartut tunuanni sunik ilinniartitsissutitsinnik!Unnersiutigisaagit Naalagara, Tamanit Naalannarnerpaaq!Immaqa piffimmi aputitut qaqortumi illernartumi tunuarsimaniassanngillat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Kisiannili anersaap suluinit qaffatsitaassapput killiffimmut Naalakkap naalannarsisitaanut oqalunneq silarsuarni tasamaniittuni ittoq qaangerlugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Silaannakkullu timmissallutik timmissatut qinikkatut peqatigiinnerup soraajuitsup naalagaaffiani ittutut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Paasissaanngitsuliallu Immami Qaamasumi toqqorsimasut ilisimassallugit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Killiffiit nalinginnaasut killilersugaat aqqutigaat nunamiorpalunngitsullu ataasiussusiata, siulersuinerup qeqqa qilammiittoq, killiffia angullugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Kissaatigisimavaat killiffik Naalakkap killiffittut qulaanniittutut aalajangersimasaa ornikkumallugu.Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu ullorissap anaata ikumasup taakkununnga Taassuma Qanissusiara Naalagaaffianit ajappai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tusarpaallu Angissutsip Nipaa Nuannissutsip Qutsissortaanit illuaqqap ersinngitsup tuanit pisoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!“Inngilit-aa Sernissortit! Najugaannut silarsuarmi samaniittumut utertissigit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Imminnummi qaqitinniarsimapput killiffimmut qilaap tuiata suluisa angunngisaannagaanut, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu umiarsuaq sinnattuusoq uninngavoq, tamannalu taakku paasinnittut eqqarsaataasa paasineq saperpaat.”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Taava qilaap niviarsiaa niviarsiussutilik ineeqqaminit portusuumit silammut qiviarpoq, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qalluumminillu Qilammi Katersuussimasut nalunaaqqummik paasitippai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qilak nunalu qaamanermik kiinnaminit pisumik qaamangaalersippai,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Pinnissusiatalu qinngornerata akisugunnera pujoralaat inuinut tummat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Inuunillit tamarmik toqujasut ilerriniittut sajulerput, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Torlulaarporlu siutip isoqanngitsoq tamaat tusarsimanngisaannagaanik,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Imatulu oqaluussivoq: "Naalakkakkut! Kina uummateqartoq ataqqinarsisitaangaartumut Nukappissamullu Arabiamiumut ajunngingaartumut asanninnerup tipigissuanik pigisaqanngitsumik, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Qaquguluunniit qilaminut nuannersulimmut imminut qaffatsissinnaanerpoq,”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava kiffami arnat ilaat qaaqquaa,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Naalakkerlugulu "Soraajuissutsip inaanit silaannarsuarmut aqqarit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Qiviakkillu tamakku uummammik ilorpiaanni toqqorsimasaannut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Nukappissallu atisaanit tipigissumik nassaaqassaguit, taassuma qaamarnup illernassusiani ajortut iliuusaat pillugit toqqorsimasumi,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!“Taava ilorpiannit nillerit, Paradiisimi najukkat, tassaasut pisuussutsip soraajuitsup uininnguutai, tamarmik najugaqartuisa paasiniassammassuk tusarnaarlugulu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Taamaalillutik tamarmik najukkaminnit aqqarniassammata sajullutillu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Kunillugillu assaat isikkallu, tassa tamarmik aalajaassutsip qutsissortaanut qullarsinnaasimammata,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!"Immaqa atisaminni Asasap tipiginnera malugisinnaassavaat!"Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava niviarsiap niviarsiussutillip toqqagaasup kiinaanit qilammi najugarisat saqqarneqarput, soorlu qaamanermik Nukappissap kiinaanit Taassuma naalaffianit nungujasumit pisutut,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava aqqarpoq pinningaarnerminik qilaat taakkualu pigisaat tamaasa qaammarsarsinnaallugit,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Sapiitsuliorporlu, illernarsutsip angingaarsutsillu nunaanni tipigissumik siaruarteraluni, Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tikiffissarlu taanna angugamiuk angissutsi tamaat nikuippoq pinngortitap uummataata ilorpiaaniilluni,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Tipigissusiallu piffimmi tassani aallaqqaateqaranilu naaffeqanngitsumi naaniarsaralugu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Taakkunanili naninngilaa pilerigisani, tamannalu tassaavoq ilumut Taassuma oqaluttuarisaasa tupinnartut ilaannaat,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taava nipituumik nillerpoq, orulullunilu, namminerlu killiffimminut najukkamini nersornangaartumut uterpoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq! Oqaatigaalu oqaaseq ataaseq eqqumiilluinnartoq isertortumi isussuutigalugu naasut isserattut tungusunnitsigisumik oqalulluni,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Torlulaarullu torlulaatigaa Qilammi Katersaarsuit qilaallu niviarsiutaani niviarsiaassutilinni toqujuitsut akornanniUnnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!”Naalakkakkut!” Aalajaassutsip anoraanngua kunngiuniartuni ukunani perrortuuni naninngilara.Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!”Naalakkakkut! Nukappiaq kisimiittuarpoq guutiitsullu assaanni qimarnuiup nunaani qimaannagaavoq.”Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taavalu ilorpiaminit sakkortuumik kappialaammik torlorpoq, allaat Qilammi Katersaarsuit nillerlutik sajulerlutillu,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Pujoralammullu uppippoq anerningerlunilu. Soorluli una aqqa taagorneqarpalulerpoq, Taannalu Naalagaaffimmut qutsissumiittumut imminik qaaqqusisoq naalaarpaa,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Unnersiutigisaali Taanna arnamik taassuminnga asanninnerup pissusianik ilorlerpaamik paradiisimi nersornarsisitaasup uummataanit ilorlerpaamit pinngortitsisoq,Unnersiutigisaagit Naalagara, Tamanit Nersornarnerpaaq!Taamaalimmallu qilaap niviarsiai niviarsiaassutillit ineeqqaminnit tuaviinnaq aniapput, kiinaat paradiisimi qullerpaami najugallit siornatigut takusimanngisaannarpaat,Unnersiutigisaagit Naalagara, Tamanit Qutsinnerusoq!Tamarmik katersorfigaat takussagillu! Nanivaat pujoralammut uppissimasoqUnnersiutigisaagit Naalagara, Tamanit Qutsinnerusoq!Qanorlu issusia takugamikku Nukappissallu oqaluttuaani oqaaseq ataaseq paasigamikku niaqqutik nittarterpaat, atisatik alittorlugit, kiinartik persuttarlugu, nuannaarnertik puigorlugu, qullitik nakkaatillugit, assamminnik imminnut ulussamikkut isattarlutik, tamannalu ilumut tassaavoq misilinneqaatit paasissaanngitsut annilaanganaqisullu ilaatUnnersiutigisaagit Naalagara, Tamanit Qutsinnerpaaq!
 
 -- Bahá'u'lláh
 
-bpn9985 «[Kalaallisut](../kl/prayers/#bpn9985)» 
+bpn9985 
 
 ----
 
@@ -1183,7 +1184,7 @@ Kiffaq-aa, Guutimit taallat ilinnut saqqummiunneqarsimasut appikkit, soorlu Guut
 
 -- Bahá'u'lláh
 
-bpn9119 «[Kalaallisut](../kl/prayers/#bpn9119)» 
+bpn9119 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn9119 «[Kalaallisut](../kl/prayers/#bpn9119)»
 
 -- Abdu'l-Bahá
 
-bpn9973 «[Kalaallisut](../kl/prayers/#bpn9973)» 
+bpn9973 
 
 ----
 
@@ -1211,7 +1212,7 @@ Guutiga-aa, Naalagara, kipisanerma Anguniagaa! Una kiffat naakkinnissuserpit oqq
 
 -- Bahá'u'lláh
 
-bpn9974 «[Kalaallisut](../kl/prayers/#bpn9974)» 
+bpn9974 
 
 ----
 
@@ -1225,7 +1226,7 @@ Naalagaq-aa! Ataasiussutsivit guuterpaluttup Orpia sukkasuumik ineriartorsinnaaq
 
 -- Báb
 
-bpn9976 «[Kalaallisut](../kl/prayers/#bpn9976)» 
+bpn9976 
 
 ----
 
@@ -1235,17 +1236,17 @@ Naalagaq-aa! Nunarsuup inuiai tamaasa Upperisavit Paradiisianut isersinnaanissaa
 
 -- Báb
 
-bpn9975 «[Kalaallisut](../kl/prayers/#bpn9975)» 
+bpn9975 
 
 ----
 
 
 <a id="bpn9977"></a> 
-Guuti-aa, Guutiga! Naalannarsisitaagit asanninnerup guuterpaluttup innera Orpimmi Illernartumi Qaqqat portunersaata qaavaniittoq ikissimagakku: Orpik taanna &#34;Kangianiinnanilu Kitaaneersuunngitsoq&#34;, inneq taanna naarallassimasoq ikumanera allaat qummut Katersaarsuarnut qutsinnerpaamiittunut anngussimavoq, tassanngaanniillu piviussutsit taakku siulersorneqarnerup qaamanera pissarsiansimavaat torlulalerlutillu: &#34;Ilumut Sinai-ip qaqqaata sivingarnani innermik takusimavugut.”Guuti-aa, Guutiga! Inneq manna annertusiartortiguk ullut taarseraannerisuulli, ikummarissinerata nunarsuaq tamakkerlugu aallartinniassammagu. Illit-aa Naalagara! Asanninnerpit qaamanera uummatini tamani ikiguk, inuit tarninginnut Ilisimassutsivit anersaava supujuk, sakiaat Ataasiussutsivit versiinik nuannaarsakkit.Iliverminni-ittut uummarsakkit, usorsisimaarajuttut mianersoqqukkit, nuannaassuserlu nunarsuarmi tamarmi atortuulertiguk, ermitit, aligutut qillarissut aqqartikkit, akisuguttumillu ersarissumik katersuuttut akornanni ermusit &#34;kamferip puilasuani piareersagaq” kaajallatsiguk. Ilumoortumik tassaavutit Tunisisoq, Isumakkeerisoq, Soraajuitsumik Tunisiuartoq. Ilumoortumik tassaavutit Naakkinnittoq, Misiginneqataasoq.
+Guuti-aa, Guutiga! Naalannarsisitaagit asanninnerup guuterpaluttup innera Orpimmi Illernartumi Qaqqat portunersaata qaavaniittoq ikissimagakku: Orpik taanna "Kangianiinnanilu Kitaaneersuunngitsoq", inneq taanna naarallassimasoq ikumanera allaat qummut Katersaarsuarnut qutsinnerpaamiittunut anngussimavoq, tassanngaanniillu piviussutsit taakku siulersorneqarnerup qaamanera pissarsiansimavaat torlulalerlutillu: "Ilumut Sinai-ip qaqqaata sivingarnani innermik takusimavugut.”Guuti-aa, Guutiga! Inneq manna annertusiartortiguk ullut taarseraannerisuulli, ikummarissinerata nunarsuaq tamakkerlugu aallartinniassammagu. Illit-aa Naalagara! Asanninnerpit qaamanera uummatini tamani ikiguk, inuit tarninginnut Ilisimassutsivit anersaava supujuk, sakiaat Ataasiussutsivit versiinik nuannaarsakkit.Iliverminni-ittut uummarsakkit, usorsisimaarajuttut mianersoqqukkit, nuannaassuserlu nunarsuarmi tamarmi atortuulertiguk, ermitit, aligutut qillarissut aqqartikkit, akisuguttumillu ersarissumik katersuuttut akornanni ermusit "kamferip puilasuani piareersagaq” kaajallatsiguk. Ilumoortumik tassaavutit Tunisisoq, Isumakkeerisoq, Soraajuitsumik Tunisiuartoq. Ilumoortumik tassaavutit Naakkinnittoq, Misiginneqataasoq.
 
 -- Abdu'l-Bahá
 
-bpn9977 «[Kalaallisut](../kl/prayers/#bpn9977)» 
+bpn9977 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=fj', 'prayerbook']
 
 
 
+
 [BOSE](#BOSE)
 
 [BULA VAKAYALO](#BULA+VAKAYALO)
@@ -71,7 +72,7 @@ I noqu Kalou! I noqu Kalou! E dina sara, ni o ira na dauveiqaravi oqo era sa vak
 
 -- Abdu'l-Bahá
 
-bpn6950 «[Fiji](../fj/prayers/#bpn6950)» 
+bpn6950 
 
 ----
 
@@ -85,7 +86,7 @@ Mo ni sa vakatubura mada e lomaqu e dua na yalo sa savasava Sara, O i Kemuni na 
 
 -- Bahá'u'lláh
 
-bpn6951 «[Fiji](../fj/prayers/#bpn6951)» 
+bpn6951 
 
 ----
 
@@ -95,7 +96,7 @@ Mai na wai drodro vakaisaluaki ni Nomuni bula tawamudu, Ni solia me u gunu mada 
 
 -- Bahá'u'lláh
 
-bpn6952 «[Fiji](../fj/prayers/#bpn6952)» 
+bpn6952 
 
 ----
 
@@ -105,7 +106,7 @@ O i Kemuni na Kalou! Ni vakabulabulataka mada ka vakamarautaka tale ga na yaloqu
 
 -- Abdu'l-Bahá
 
-bpn6953 «[Fiji](../fj/prayers/#bpn6953)» 
+bpn6953 
 
 ----
 
@@ -119,7 +120,7 @@ I noqu Kalou! I noqu Kalou!O i au e dua na gone yalowai. Ni vakani au mai e na l
 
 -- Abdu'l-Bahá
 
-bpn6954 «[Fiji](../fj/prayers/#bpn6954)» 
+bpn6954 
 
 ----
 
@@ -129,7 +130,7 @@ O i Kemuni na Kalou! Ni vakatavulici ira mada na gone oqo. O ira na gone oqo era
 
 -- Abdu'l-Bahá
 
-bpn6955 «[Fiji](../fj/prayers/#bpn6955)» 
+bpn6955 
 
 ----
 
@@ -139,7 +140,7 @@ O i Kemuni na Kalou, Ni tuberi au, taqomaki au, qisi au me u cina ramase ka me u
 
 -- Abdu'l-Bahá
 
-bpn6956 «[Fiji](../fj/prayers/#bpn6956)» 
+bpn6956 
 
 ----
 
@@ -149,7 +150,7 @@ O i Kemuni na Turaga! Qisi koya mada na gone oqo e na veivakararamataki, ka vaka
 
 -- Abdu'l-Bahá
 
-bpn6957 «[Fiji](../fj/prayers/#bpn6957)» 
+bpn6957 
 
 ----
 
@@ -163,7 +164,7 @@ bpn6957 «[Fiji](../fj/prayers/#bpn6957)»
 
 -- Bahá'u'lláh
 
-bpn6988 «[Fiji](../fj/prayers/#bpn6988)» 
+bpn6988 
 
 ----
 
@@ -173,11 +174,11 @@ bpn6988 «[Fiji](../fj/prayers/#bpn6988)»
 ## MASU NI VEISIKO VAKAYALO
 
 <a id="bpn6987"></a> 
-*(Na masu oqo, e vakaraitaki mai vei `Abdu’l-Bahá, ka vakayagataki e na Nona iBulubulu Tabu. E rawa tale ga ni cavuta e dua e na nona masu vakai koya ga, e vale.)*“O koya yadua e cavuta na masu oqo e na dela ni yalo malumalumu kei na vakabauta, e na vakavurea na reki kei na yalo marau e utodra na Dauveiqaravi (`Abdu&#39;l-Bahá) oqo; me vaka ga na veisotari vata kei Koya.&#34; Sa i Koya ga na Vu ni Lagilagi!O i Kemuni na Kalou, na noqu Kalou! E na yalomalumalumu kei na mata tagitagi, au sa laveta cake yani na ligaqu lala oqo kivei Kemuni, ka ubia na mataqu e na kuvu ni soso e na Nomuni Loqi Tabu oqori, e uasivita na i vakatagedegede cecere ni nodra kilaka na vuku, kei na nodra vakacaucau o ira kece ga era vakalagilagi Kemuni. Ni yalololoma ka raici ira sobu mada mai na Nomuni tamata, era sa yalomalumalumu ka tiko sese e na Nomuni mata ni katuba, ka ra vakaraica voli yani na i serau ni Nomuni veivosoti, ka Mo ni vakadromuci koya e na Wasawasa ni Nomuni loluma tawamudu.Turaga! Oqo e dua na Nomuni tamata ligalala ka vakaloloma, ka vakadrukai e na nona gagadre me qaravi Kemuni, sa vesuki e na Ligamuni, ka vakamamasu tiko yani e na yalodina vei Kemuni, ka vakabauti Kemuni, ka tagi e Matamuni, ka kaci tiko yani vei Kemuni e na nona vakasaqarai Kemuni, ka kaya:O i Kemuni Turaga, na noqu Kalou! Ni solia vei au na Nomuni veivuke me u qaravi ira na Nomuni daulomani, vakaukauwataki au e na noqu veiqaravi vei Kemuni, vakararamataka na vacuvacu ni mataqu e na rarama ni veivinakati e loma ni Nomuni valenilewa tabu, kei na soromasu ki na Nomuni matanitu ni lagilagi.Ni vukei au me u tu rawa vakataki au e na i curucuru vakalomalagi ki na Nomuni matamata, ka vukei au tale ga me u vagalalataki mai e na veika kece ga e na loma ni Nomuni i tikotiko tabu vakayalo. Turaga! Ni solia mada me u gunu mai na bilo tabu ni tiko taudua; e na kena i ubi Mo ni vakasulumi au kina, kei na loma ni kena wasawasa ni vakadromuci au kina. Ni qisi au me u bau dua na kuvu ni soso e na gaunisala e nodra na Nomuni daulomani,ka vakadonuya mada me u sa bau cabora yani ki cake na yaloqu e na vuku ni kena vakaturagataki na vuravura oqo e na mawe ni yavadra na Nomuni digitaki ka ra lakova na Nomuni gaunisala, O i Kemuni na Turaga ni Lagilagi e na i tikotiko Cecere duadua.E na masu oqo sa kacivi tiko kina na Nomuni dauveiqaravi oqo, e na kabu ni mataka kei na lomaloma ni bogi. Ni vakavotukanataka mada na gagadre ni lomana, I Turaga! Ni serauna na yalona, vakamarautaka na utona, vakacaudreva na nona cina, me rawa kina ni qarava na Nomuni iNaki kei ira na Nomuni dauveiqaravi.Sa i Kemuni ga na Dauveisaututaki, na Dauveinanumi, na Dauloloma Soli wale Duadua ga, na Lagilagi, na Dauveivosoti, na Dauloloma.
+*(Na masu oqo, e vakaraitaki mai vei `Abdu’l-Bahá, ka vakayagataki e na Nona iBulubulu Tabu. E rawa tale ga ni cavuta e dua e na nona masu vakai koya ga, e vale.)*“O koya yadua e cavuta na masu oqo e na dela ni yalo malumalumu kei na vakabauta, e na vakavurea na reki kei na yalo marau e utodra na Dauveiqaravi (`Abdu'l-Bahá) oqo; me vaka ga na veisotari vata kei Koya." Sa i Koya ga na Vu ni Lagilagi!O i Kemuni na Kalou, na noqu Kalou! E na yalomalumalumu kei na mata tagitagi, au sa laveta cake yani na ligaqu lala oqo kivei Kemuni, ka ubia na mataqu e na kuvu ni soso e na Nomuni Loqi Tabu oqori, e uasivita na i vakatagedegede cecere ni nodra kilaka na vuku, kei na nodra vakacaucau o ira kece ga era vakalagilagi Kemuni. Ni yalololoma ka raici ira sobu mada mai na Nomuni tamata, era sa yalomalumalumu ka tiko sese e na Nomuni mata ni katuba, ka ra vakaraica voli yani na i serau ni Nomuni veivosoti, ka Mo ni vakadromuci koya e na Wasawasa ni Nomuni loluma tawamudu.Turaga! Oqo e dua na Nomuni tamata ligalala ka vakaloloma, ka vakadrukai e na nona gagadre me qaravi Kemuni, sa vesuki e na Ligamuni, ka vakamamasu tiko yani e na yalodina vei Kemuni, ka vakabauti Kemuni, ka tagi e Matamuni, ka kaci tiko yani vei Kemuni e na nona vakasaqarai Kemuni, ka kaya:O i Kemuni Turaga, na noqu Kalou! Ni solia vei au na Nomuni veivuke me u qaravi ira na Nomuni daulomani, vakaukauwataki au e na noqu veiqaravi vei Kemuni, vakararamataka na vacuvacu ni mataqu e na rarama ni veivinakati e loma ni Nomuni valenilewa tabu, kei na soromasu ki na Nomuni matanitu ni lagilagi.Ni vukei au me u tu rawa vakataki au e na i curucuru vakalomalagi ki na Nomuni matamata, ka vukei au tale ga me u vagalalataki mai e na veika kece ga e na loma ni Nomuni i tikotiko tabu vakayalo. Turaga! Ni solia mada me u gunu mai na bilo tabu ni tiko taudua; e na kena i ubi Mo ni vakasulumi au kina, kei na loma ni kena wasawasa ni vakadromuci au kina. Ni qisi au me u bau dua na kuvu ni soso e na gaunisala e nodra na Nomuni daulomani,ka vakadonuya mada me u sa bau cabora yani ki cake na yaloqu e na vuku ni kena vakaturagataki na vuravura oqo e na mawe ni yavadra na Nomuni digitaki ka ra lakova na Nomuni gaunisala, O i Kemuni na Turaga ni Lagilagi e na i tikotiko Cecere duadua.E na masu oqo sa kacivi tiko kina na Nomuni dauveiqaravi oqo, e na kabu ni mataka kei na lomaloma ni bogi. Ni vakavotukanataka mada na gagadre ni lomana, I Turaga! Ni serauna na yalona, vakamarautaka na utona, vakacaudreva na nona cina, me rawa kina ni qarava na Nomuni iNaki kei ira na Nomuni dauveiqaravi.Sa i Kemuni ga na Dauveisaututaki, na Dauveinanumi, na Dauloloma Soli wale Duadua ga, na Lagilagi, na Dauveivosoti, na Dauloloma.
 
 -- Abdu'l-Bahá
 
-bpn6987 «[Fiji](../fj/prayers/#bpn6987)» 
+bpn6987 
 
 ----
 
@@ -191,7 +192,7 @@ O i Kemuni na Kalou! Na noqu Kalou! O i keimami na Nomuni tamata ka vakanamata e
 
 -- Abdu'l-Bahá
 
-bpn6958 «[Fiji](../fj/prayers/#bpn6958)» 
+bpn6958 
 
 ----
 
@@ -205,7 +206,7 @@ Au a duri cake e na mataka e daidai e na Nomuni loloma, O i Kemuni na noqu Kalou
 
 -- Bahá'u'lláh
 
-bpn6959 «[Fiji](../fj/prayers/#bpn6959)» 
+bpn6959 
 
 ----
 
@@ -215,7 +216,7 @@ Au sa yadra cake mai na loma ni Nomuni veivakarurugi, O i Kemuni na noqu Kalou, 
 
 -- Bahá'u'lláh
 
-bpn6960 «[Fiji](../fj/prayers/#bpn6960)» 
+bpn6960 
 
 ----
 
@@ -225,7 +226,7 @@ Noqu Kalou ka noqu i Vakavuvuli! O i au na Nomuni tamata ka u luve ni Nomuni tam
 
 -- Bahá'u'lláh
 
-bpn6961 «[Fiji](../fj/prayers/#bpn6961)» 
+bpn6961 
 
 ----
 
@@ -239,7 +240,7 @@ O i Kemuni na Turaga yalololoma! O i Kemuni sa dau lomasoli ka rawata na veika k
 
 -- Abdu'l-Bahá
 
-bpn6962 «[Fiji](../fj/prayers/#bpn6962)» 
+bpn6962 
 
 ----
 
@@ -249,7 +250,7 @@ O i Kemuni na Turaga yalololoma! O ni sa buli ira na tamata mai na dua vata ga n
 
 -- Abdu'l-Bahá
 
-bpn6963 «[Fiji](../fj/prayers/#bpn6963)» 
+bpn6963 
 
 ----
 
@@ -263,7 +264,7 @@ I noqu Kalou! I noqu Kalou! Ni vakaduavatataka mada na utodra na Nomuni tamata, 
 
 -- Bahá'u'lláh
 
-bpn6964 «[Fiji](../fj/prayers/#bpn6964)» 
+bpn6964 
 
 ----
 
@@ -273,11 +274,11 @@ bpn6964 «[Fiji](../fj/prayers/#bpn6964)»
 ## NA IVOLA NEI AHMAD
 
 <a id="bpn6986"></a> 
-*“Na vei masu vakaroti e na veisiga, kei na so tale sa macala vinaka tu na kenu i naki, me vaka na Masu ni Veivakabulai, Na iVola nei Ahmad, e sa vakalougatataka oti tu o Bahá&#39;u&#39;lláh e na dua na i vakatagedegede talei, e kaukauwa ka bibi tale ga, ka dodonu gona kina me ciqomi vakavinaka ka me ra vakayagataka na lewe ni vakabauta e na yalo ni vakanuinui dina kei na tudei ka sega ni dau tarogi lesu, ka me rawa kina vei ira me ra tiko veivolekati sara kei na Kalou, ka me rawa tale ga ni ra kila vakavinaka na Nona lawa kei na Nona i naki.”*-Mai na dua na ivola e volai e na vukui Shoghi Effendi.Sa i Koya na Tui, na Vu ni Kilaka, na Vuku!Isa, raica ni sa tagi toka na Manumanu Vuka ni Parataisi e na taba ni Vunikau ni Bula Tawamudu, e na vu ni yalotabu kei na kamica ni rorogo e vuqa, ka kacivaki tiko kina vei ira na yalo savasava na i tukutuku vinaka ni sa voleka mai na Kalou, ka kacivi ira vata tiko mai na lewe ni vakabauta ki na Duavata Vakayalo e na iTikotiko ni Matai Koya na Daulomasoli Duabau, ka tukuna tiko vei ira era sa tawase tani tu na i tukutuku ka sa vakaraitaki oti mai vua na Kalou, na Tui, na Lagilagi, na Turaga e sega ni dua e rau Lewerua kaya, ka me tuberi ira yani na dauloloma ki na i tikotiko ni yalo savasava kei na i serau Lagilagi oqori.E dina sara ni sa i koya oqo na Ka Totoka ka Levu Duadua, ka dau tukuni e na nodra i Vola kece na i Talai ni Kalou, mai vei Koya e sa na qai vakadodonutaki kina na veika e dina kei na veika e cala, me yaco kina me vakatovolei na dodonu ni vei lewa kece ga. E dina sa i Koya na Vunikau ni Bula ka kauta cake mai na veivuanikau vaKalou, na Cecekia, na kaukauwa, na Ka Levu.Isa Ahmad! Mo qai vakadinata sara ni sa i Koya ga na Kalou ka ni sega tale ni dua na Kalou sai Koya duadua ga, na Tui, na Dauveitaqomaki, o Koya sa Sega ni Vakatautauvatataki rawa, na kaukauwa Duadua ga. Ia o Koya na Duabau ka talai yani e na yaca na ‘Ali’ (na Báb) e a lako dina mai vua na Kalou, ka sa i koya na Nona lewa e da sa mai lomavata tiko kina oqo.Mo cavuta: O i Kemuni na tamata mo ni talairawarawa ki na lewa ni Kalou o koya e sa vakaroti tu e na iVola Tabu na Bayan mai vua na Lagilagi, o Koya na Vuku. E dina sa i Koya na nodra Tui na i Talai ni Kalou kei na Nona iVola sa i koya na Tina ni Veivola Tabu, me vaka O ni sa kila.Oqori na vuna e vakarogoya tiko yani na Nona kaci na Manumanu Vuka mai na valeniveivesu oqo kivei kemuni. Me rawa kina vua me vakauta yani na i tukutuku macala vinaka oqo. O koya vakayadua e gadreva, ia me vakanadakuya mada na i vakasala oqo kei koya tale ga e gadreva me digitaka mada na gaunisala vua na nona Turaga.O i kemuni na tamata, ke vaka o ni sa cakitaka na tikina oqo, e na i vakadinadina cava beka o ni sa bau vakabauta oti kina na Kalou? Ni vakaraitaka mada mai, O i kemuni na lewe ni vavakoso dau vakatitiqa.E dina sara, e na vuku i Koya ka tiko e ligana na yaloqu, era na sega, ka ra na sega sara ni rawa ni ra vakayacora e dua na ka, veitalia Sara ke ra mani duavata me ra veivuketaka.Isa Ahmad! Kakua ni guilecava na Noqu loloma soli wale e na gauna au yali kina. Mo nanuma na Noqu gauna e na veisiga ni nomu bula, kei na Noqu vakatalai tani tu mai ka vakararawataki tu e na valeniveivesu yawa oqo. Ia mo tu dei tiko ga e na Noqu Loloma me kakua kina ni lomalomarua rawa na utomu, veitalia ga ke vaka e mani miri mai vakauca vei iko na nodra i seleiwau na meca se ra tucake mai e na lomalagi kei vuravura me ra vorati tiko.Mo sa tautauvata mada kei na yameyame ni buka kivei ira na noqu meca ka vaka na uciwai ni bula tawamudu kivei ira na Noqu daulomani, ka mo kakua ni okati vata kei ira era vakatitiqa.Ia ke vaka o mani rawai e na veika rarawa e na Noqu gaunisala, se vakalolovirataki e na Vukuqu, mo kakua ni loma leqa kina.Mo vakararavi vua na Kalou, na nomu Kalou na nodra Turaga na nomu qase. Ni ra sa lako voli na tamata e na veigaunisala ni veilecayaki, ka ra vakaleqai tu e na nodra vakabauta ni ra na raica votu na Kalou e na matadra dina se rogoca vakaidina na Domona e na dui daligadra dina. Ia na veika oqo Keimami sa kunea vei ira. me vaka o ni sa vakadinadinataka oti.O koya gona sa yaco kina na nodra vakabauta vakaoqu me i lati vei ira kei na dui utodra ka tarovi ira mai na gaunisala vua na Kalou, na Cecekia, na Ka Levu.Mo vakadeitaka tiko e lomamu, ni o koya dina e na gole tani mai na Ka Totoka oqo e a gole tani tale ga mai vei ira na i Talai ni Kalou e na veigauna sa oti ka ra dau vakaraitaka na nodra dokadoka vua na Kalou e na veigauna oqo ka tawa mudu.Mo vulica vakavinaka tiko na Masu oqo, Isa Ahmad, cavuta e na veigauna ka mo kakua ni tamusuki iko mai kina. E dina sara, ni na vakalougatataki koya e dau seretaka na masu oqo na Kalou, me vakatautauvatataki kei na nodrai cocovi na lewe duanadrau era mate e na vukuna na Kalou kei na veiqaravi e na vuravura oqo kei na kena sa bera mai. Na veivuke oqo Keimami solia yani me vakasaututaki kemuni ka me ka ni veivakalougatataki mai vei Keimami kei na ka ni veivosoti e na Neimami tiko voli oqo, me yaco rawa kina mo tautauvata kei ira era kila na vakavinavinaka.E na vukuna na Kalou! Ke vaka e dua e vakaleqai se loma ocaoca se yalo rarawa e wilika na iVola Tabu oqo e na yalona dina taucoko, e kauta tani na Kalou na nona rarawa, ka walia na nona leqa ka vakaseavutaka na nona loma ocaoca.E dina, sa i Koya ga na Dauveivosoti, na Dauloloma. Me vakacaucautaki tiko ga na Kalou, na Turaga ni vuravura kece ga.
+*“Na vei masu vakaroti e na veisiga, kei na so tale sa macala vinaka tu na kenu i naki, me vaka na Masu ni Veivakabulai, Na iVola nei Ahmad, e sa vakalougatataka oti tu o Bahá'u'lláh e na dua na i vakatagedegede talei, e kaukauwa ka bibi tale ga, ka dodonu gona kina me ciqomi vakavinaka ka me ra vakayagataka na lewe ni vakabauta e na yalo ni vakanuinui dina kei na tudei ka sega ni dau tarogi lesu, ka me rawa kina vei ira me ra tiko veivolekati sara kei na Kalou, ka me rawa tale ga ni ra kila vakavinaka na Nona lawa kei na Nona i naki.”*-Mai na dua na ivola e volai e na vukui Shoghi Effendi.Sa i Koya na Tui, na Vu ni Kilaka, na Vuku!Isa, raica ni sa tagi toka na Manumanu Vuka ni Parataisi e na taba ni Vunikau ni Bula Tawamudu, e na vu ni yalotabu kei na kamica ni rorogo e vuqa, ka kacivaki tiko kina vei ira na yalo savasava na i tukutuku vinaka ni sa voleka mai na Kalou, ka kacivi ira vata tiko mai na lewe ni vakabauta ki na Duavata Vakayalo e na iTikotiko ni Matai Koya na Daulomasoli Duabau, ka tukuna tiko vei ira era sa tawase tani tu na i tukutuku ka sa vakaraitaki oti mai vua na Kalou, na Tui, na Lagilagi, na Turaga e sega ni dua e rau Lewerua kaya, ka me tuberi ira yani na dauloloma ki na i tikotiko ni yalo savasava kei na i serau Lagilagi oqori.E dina sara ni sa i koya oqo na Ka Totoka ka Levu Duadua, ka dau tukuni e na nodra i Vola kece na i Talai ni Kalou, mai vei Koya e sa na qai vakadodonutaki kina na veika e dina kei na veika e cala, me yaco kina me vakatovolei na dodonu ni vei lewa kece ga. E dina sa i Koya na Vunikau ni Bula ka kauta cake mai na veivuanikau vaKalou, na Cecekia, na kaukauwa, na Ka Levu.Isa Ahmad! Mo qai vakadinata sara ni sa i Koya ga na Kalou ka ni sega tale ni dua na Kalou sai Koya duadua ga, na Tui, na Dauveitaqomaki, o Koya sa Sega ni Vakatautauvatataki rawa, na kaukauwa Duadua ga. Ia o Koya na Duabau ka talai yani e na yaca na ‘Ali’ (na Báb) e a lako dina mai vua na Kalou, ka sa i koya na Nona lewa e da sa mai lomavata tiko kina oqo.Mo cavuta: O i Kemuni na tamata mo ni talairawarawa ki na lewa ni Kalou o koya e sa vakaroti tu e na iVola Tabu na Bayan mai vua na Lagilagi, o Koya na Vuku. E dina sa i Koya na nodra Tui na i Talai ni Kalou kei na Nona iVola sa i koya na Tina ni Veivola Tabu, me vaka O ni sa kila.Oqori na vuna e vakarogoya tiko yani na Nona kaci na Manumanu Vuka mai na valeniveivesu oqo kivei kemuni. Me rawa kina vua me vakauta yani na i tukutuku macala vinaka oqo. O koya vakayadua e gadreva, ia me vakanadakuya mada na i vakasala oqo kei koya tale ga e gadreva me digitaka mada na gaunisala vua na nona Turaga.O i kemuni na tamata, ke vaka o ni sa cakitaka na tikina oqo, e na i vakadinadina cava beka o ni sa bau vakabauta oti kina na Kalou? Ni vakaraitaka mada mai, O i kemuni na lewe ni vavakoso dau vakatitiqa.E dina sara, e na vuku i Koya ka tiko e ligana na yaloqu, era na sega, ka ra na sega sara ni rawa ni ra vakayacora e dua na ka, veitalia Sara ke ra mani duavata me ra veivuketaka.Isa Ahmad! Kakua ni guilecava na Noqu loloma soli wale e na gauna au yali kina. Mo nanuma na Noqu gauna e na veisiga ni nomu bula, kei na Noqu vakatalai tani tu mai ka vakararawataki tu e na valeniveivesu yawa oqo. Ia mo tu dei tiko ga e na Noqu Loloma me kakua kina ni lomalomarua rawa na utomu, veitalia ga ke vaka e mani miri mai vakauca vei iko na nodra i seleiwau na meca se ra tucake mai e na lomalagi kei vuravura me ra vorati tiko.Mo sa tautauvata mada kei na yameyame ni buka kivei ira na noqu meca ka vaka na uciwai ni bula tawamudu kivei ira na Noqu daulomani, ka mo kakua ni okati vata kei ira era vakatitiqa.Ia ke vaka o mani rawai e na veika rarawa e na Noqu gaunisala, se vakalolovirataki e na Vukuqu, mo kakua ni loma leqa kina.Mo vakararavi vua na Kalou, na nomu Kalou na nodra Turaga na nomu qase. Ni ra sa lako voli na tamata e na veigaunisala ni veilecayaki, ka ra vakaleqai tu e na nodra vakabauta ni ra na raica votu na Kalou e na matadra dina se rogoca vakaidina na Domona e na dui daligadra dina. Ia na veika oqo Keimami sa kunea vei ira. me vaka o ni sa vakadinadinataka oti.O koya gona sa yaco kina na nodra vakabauta vakaoqu me i lati vei ira kei na dui utodra ka tarovi ira mai na gaunisala vua na Kalou, na Cecekia, na Ka Levu.Mo vakadeitaka tiko e lomamu, ni o koya dina e na gole tani mai na Ka Totoka oqo e a gole tani tale ga mai vei ira na i Talai ni Kalou e na veigauna sa oti ka ra dau vakaraitaka na nodra dokadoka vua na Kalou e na veigauna oqo ka tawa mudu.Mo vulica vakavinaka tiko na Masu oqo, Isa Ahmad, cavuta e na veigauna ka mo kakua ni tamusuki iko mai kina. E dina sara, ni na vakalougatataki koya e dau seretaka na masu oqo na Kalou, me vakatautauvatataki kei na nodrai cocovi na lewe duanadrau era mate e na vukuna na Kalou kei na veiqaravi e na vuravura oqo kei na kena sa bera mai. Na veivuke oqo Keimami solia yani me vakasaututaki kemuni ka me ka ni veivakalougatataki mai vei Keimami kei na ka ni veivosoti e na Neimami tiko voli oqo, me yaco rawa kina mo tautauvata kei ira era kila na vakavinavinaka.E na vukuna na Kalou! Ke vaka e dua e vakaleqai se loma ocaoca se yalo rarawa e wilika na iVola Tabu oqo e na yalona dina taucoko, e kauta tani na Kalou na nona rarawa, ka walia na nona leqa ka vakaseavutaka na nona loma ocaoca.E dina, sa i Koya ga na Dauveivosoti, na Dauloloma. Me vakacaucautaki tiko ga na Kalou, na Turaga ni vuravura kece ga.
 
 -- Bahá'u'lláh
 
-bpn6986 «[Fiji](../fj/prayers/#bpn6986)» 
+bpn6986 
 
 ----
 
@@ -287,11 +288,11 @@ bpn6986 «[Fiji](../fj/prayers/#bpn6986)»
 ## NA LOLO
 
 <a id="bpn6989"></a> 
-*E volai e na i Vola Tabu ni Lawa (Na Kitab-i-Aqdas): “Keimami sa vakaroti kemuni mo ni masu ka lolo e na gauna e dodonu mo ni sa yalomatua kina (yabaki 15); oqo e sa vakarota na Kalou, na nomu Kalou ka nodra Kalou na nomuni qase.... O ira era lako e na dua na i lakolako yawa, o ira na tauvimate, o ira na vakasucu kei ira na tiko bibi era sega ni okati e na lolo.... Mo kakua ni kana se gunu, mai na cadra ni matanisiga me yacova ni sa dromu, ka qarauna mo kakua ni rawai e na veivakatovolei ni gagadre ni yalomu ka vakaleqa na veivakalougatataki e sa virikotori tu e na iVolatabu oqo.&#34;*Na gauna ni Lolo e dau tekivu e na i ka 2 ni Maji ka cava e na i ka 20 ni Maji. Au masuti Kemuni, I noqu Kalou, e na Nomuni iVakatakilakila kaukauwa, kei nai vakaraitaki ni Nomuni veiyalayalati loloma e na kedra maliwa na tamata, me kakua ni u wiliki tani mai na matamata ni koro ni tiko veivolekati kei Kemuni, ka me u kakua ni vakamalumalumutaki e na vakanuinui au a virikotora tu me baleta na ivakatakilakila ni Nomuni dauloloma e na kedra maliwa na Nomuni ibulibuli. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na rogo kamikamica duadua ni Domomuni kei na Nomuni Vosa vakacerecerei duadua me kauti au mada vakavoleka ki na katuba ni Nomuni i tikotiko tabu, ka me u kakua ni vakalolomataki e na noqu kau tani vakayawa mai e na yaloyalo ni Nomuni veivosoti kei na veivakarurugi ni Nomuni loloma soli wale. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na lagilagi kei na serau ni bekabeka ni Matamuni kei na rarama ni Nomuni tutu lagilagi, ka cila sobu mai e na lomalagi e cake sara, ka me vakayarayarataki au yani e na i boi talei ni Nomuni ukuuku, ka vakavuna me u gunu e na waini digitaki ni Nomuni sakisaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na drau ni Ulumuni ka liwa baleta koto na Matamuni, me vaka kina na kena toso baleta na Nomuni peni uasivi e na vei draunipepa ni Nomuni iVola Tabu, me tabonaka kina na i balebale vuni e na kedra maliwa na veimatanitu ni Nomuni ibulibuli, ka me laveti au me u qarava rawa kina na Nomuni Cakacaka, ia me u kakua ni bale i muri, se me u vakaleqai e na nodra veivakacacani o ira ka ra dau vosa vakacacataka na Nomuni veivakatakilakila ka ra dau vuki tani tale ga e Matamuni. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Yacamuni O ni a bulia me Tui ni Veiyaca kece, ka me ra vakamarautaki kina o ira kece era tiko mai lomalagi kei ira kece era tiko e vuravura, me rawa kina vei au me u vakanamata yani ki na i Vola Siga ni Nomuni iUkuuku, ka Mo ni solia vei au na waini ni Nomuni sakisaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Vale Tabu e na Nomuni itutu vakaturaga o koya sa serauna tu na delana cecekia duadua, kei na doka ni Vale veivakarurugi ni Nomuni Veivakatakila e na dela ni veidelana cecekia duadua, me na vukei au vakavinaka sara e na kena vakayacori na veika sa lewai mai me vaka na Lomamuni kei na Nomuni inaki me vaka O ni a vakatakila. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu kalou, e na vuku ni Nomuni Totoka e na kena serauna tu na delana ni bula tawamudu, na i serau ka vakavuna me cuva sobu kina e na vakamamasu na veidelana cecere duadua, ka vakalagilagi e na domo ni lali rogo vinaka, me rawa kina ni ka wale vei au na veika kece au taukena, ia me u bula ga e na veika kece sa mai vei Kemuni. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vukudra na iLumuti ni Yacamuni, na Daulomani Duadua ga, e na vuku i Koya e sa vakatakatataki kina na utodra na Nomuni daulomani ka laveti cake tale ga kina na yalodra kece sara na tiko e na vuravura oqo, ka me vukei au gona kina me u nanumi Kemuni e na kedra maliwa na Nomuni i bulibuli,ka me u vakalagilagi Kemuni e na kedra maliwa na Nomuni tamata. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka’u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na yavavala ni Nomuni Vuni Lote Tabu vakayalo kei na rogo malumu ni domo ni cagi ni Nomuni vosa mai na matanitu ni Veiyacamuni e vuqa, ka me kauti au vakayawa mai na veika sa sega ni lomamuni, ka me kauti au vakavoleka ga ki nai tikotiko sa serau tu mai kina o Koya na Tovure ni Siga ni Nomuni veivakatakilakila. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni iVola,o koya e na gauna vata ga e vosataki mai kina e na lewa ni Gusumuni, e vakavuna me tubu cake na wasawasa, kei na cagi me mudre mai, na vuanikau me vua vinaka mai, kei na vunikau me tutubu mai vakayauyau, kei na veika makawa kece me takali yani, kei na vei ubi kece me luvati tani, kei ira kece era soli ira vakatabakidua yani vei Kemuni, me ra gole yani ki na rarama ni veivakauqeti ni nudra Turaga, na Dauveivukei, ka me vakaraitaka vei au na ka e vuni koto e na Nomuni iyau talei ni kilaka ka taqomaki au tu e na lomanibai ni Nomuni vuku. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni katakata ka vakavuna me ra yadra mai kina o ira era Nomuni tamata digitaki ka Nomuni daulomani, kei na nodra veinanumi kei na veivakacaucautaki e na kida ni mataka caca, me ra wiliki au vata kei ira era sa rawata na veika O ni virikotora e na Nomuni iVola Tabu ka vakaraitaki mai e na Nomuni lewa. Ni raici au mai, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni rarama ni Matamuni o koya ka vakauqeti ira era  yawa yani vei Kemuni me ra sotava na matanimoto ni Nomuni Lewa uasivi, kei ira era sa dina vei Kemuni me ra sotava na nodra i seleiwau na Nomuni meca e na Nomuni sala, ka Mo ni vola mai vei au e na Nomuni Peni rokovi duadua na ka O ni sa vola me baleti ira na Nomuni tamata nuitaki kei ira na Nomuni tamata digitaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Yacamuni ka O ni sa dau vakarogoya mai kina na nodra kaci na dau taleitaki Kemuni, kei na nodra vuturi o ira era dau gadrevi Kemuni, kei na nodra tagi o ira era dau marautaka na tiko veivolekati kei Kemuni, kei na nodra kudru o ira era sa dina vei Kemuni, me vaka ni O ni sa vakayacora na veika era gadreva tu o ira era sa dau vakanuinui vakatabakidua vei Kemuni, ka ni O ni sa yalataka vei ira na ka era gadreva, e na vuku ga ni Nomuni loloma uasivi kei na Nomuni veivuke, kei na vuku ni Yacamuni e na loma ni wasawasa ni veivosoti e ua baleta yani na Matamuni, kei na o ni Nomuni loloma ka sobuti ira na Nomuni dauveiqaravi, me volai vakayadua kina vei ira era sa vuki yani vei Kemuni, ka ra vakamuria na lolo O ni a virikotora, me saumi kina na nodra cakacaka o ira era sega ni vosa rawa vakavo ga e na Nomuni veitawasei kei ira, ka ra biuta laivi na veika vakavuravura era taukena e na nodra sala vei Kemuni kei na nodra Iomani Kemuni. Au masuti Kemuni, I noqu Kalou, e na Vukumuni kei na vuku ni Nomuni vakatakilakila, kei na Nomuni veivukei dina, kei na i serau ramase ni iVola Siga ni Nomuni iUkuuku, kei na Nomuni Veitabanikau Tabu, me ra vosoti mada kina o ira era sa taura matua tu na Nomuni lawa, ka vakamuria vakadodonu na ka O ni sa vakarautaka vei ira e na Nomuni iVola. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece sara era tiko e na vuravura oqo kei na vuravura sa bera mai.
+*E volai e na i Vola Tabu ni Lawa (Na Kitab-i-Aqdas): “Keimami sa vakaroti kemuni mo ni masu ka lolo e na gauna e dodonu mo ni sa yalomatua kina (yabaki 15); oqo e sa vakarota na Kalou, na nomu Kalou ka nodra Kalou na nomuni qase.... O ira era lako e na dua na i lakolako yawa, o ira na tauvimate, o ira na vakasucu kei ira na tiko bibi era sega ni okati e na lolo.... Mo kakua ni kana se gunu, mai na cadra ni matanisiga me yacova ni sa dromu, ka qarauna mo kakua ni rawai e na veivakatovolei ni gagadre ni yalomu ka vakaleqa na veivakalougatataki e sa virikotori tu e na iVolatabu oqo."*Na gauna ni Lolo e dau tekivu e na i ka 2 ni Maji ka cava e na i ka 20 ni Maji. Au masuti Kemuni, I noqu Kalou, e na Nomuni iVakatakilakila kaukauwa, kei nai vakaraitaki ni Nomuni veiyalayalati loloma e na kedra maliwa na tamata, me kakua ni u wiliki tani mai na matamata ni koro ni tiko veivolekati kei Kemuni, ka me u kakua ni vakamalumalumutaki e na vakanuinui au a virikotora tu me baleta na ivakatakilakila ni Nomuni dauloloma e na kedra maliwa na Nomuni ibulibuli. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na rogo kamikamica duadua ni Domomuni kei na Nomuni Vosa vakacerecerei duadua me kauti au mada vakavoleka ki na katuba ni Nomuni i tikotiko tabu, ka me u kakua ni vakalolomataki e na noqu kau tani vakayawa mai e na yaloyalo ni Nomuni veivosoti kei na veivakarurugi ni Nomuni loloma soli wale. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na lagilagi kei na serau ni bekabeka ni Matamuni kei na rarama ni Nomuni tutu lagilagi, ka cila sobu mai e na lomalagi e cake sara, ka me vakayarayarataki au yani e na i boi talei ni Nomuni ukuuku, ka vakavuna me u gunu e na waini digitaki ni Nomuni sakisaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na drau ni Ulumuni ka liwa baleta koto na Matamuni, me vaka kina na kena toso baleta na Nomuni peni uasivi e na vei draunipepa ni Nomuni iVola Tabu, me tabonaka kina na i balebale vuni e na kedra maliwa na veimatanitu ni Nomuni ibulibuli, ka me laveti au me u qarava rawa kina na Nomuni Cakacaka, ia me u kakua ni bale i muri, se me u vakaleqai e na nodra veivakacacani o ira ka ra dau vosa vakacacataka na Nomuni veivakatakilakila ka ra dau vuki tani tale ga e Matamuni. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Yacamuni O ni a bulia me Tui ni Veiyaca kece, ka me ra vakamarautaki kina o ira kece era tiko mai lomalagi kei ira kece era tiko e vuravura, me rawa kina vei au me u vakanamata yani ki na i Vola Siga ni Nomuni iUkuuku, ka Mo ni solia vei au na waini ni Nomuni sakisaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Vale Tabu e na Nomuni itutu vakaturaga o koya sa serauna tu na delana cecekia duadua, kei na doka ni Vale veivakarurugi ni Nomuni Veivakatakila e na dela ni veidelana cecekia duadua, me na vukei au vakavinaka sara e na kena vakayacori na veika sa lewai mai me vaka na Lomamuni kei na Nomuni inaki me vaka O ni a vakatakila. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu kalou, e na vuku ni Nomuni Totoka e na kena serauna tu na delana ni bula tawamudu, na i serau ka vakavuna me cuva sobu kina e na vakamamasu na veidelana cecere duadua, ka vakalagilagi e na domo ni lali rogo vinaka, me rawa kina ni ka wale vei au na veika kece au taukena, ia me u bula ga e na veika kece sa mai vei Kemuni. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vukudra na iLumuti ni Yacamuni, na Daulomani Duadua ga, e na vuku i Koya e sa vakatakatataki kina na utodra na Nomuni daulomani ka laveti cake tale ga kina na yalodra kece sara na tiko e na vuravura oqo, ka me vukei au gona kina me u nanumi Kemuni e na kedra maliwa na Nomuni i bulibuli,ka me u vakalagilagi Kemuni e na kedra maliwa na Nomuni tamata. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka’u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na yavavala ni Nomuni Vuni Lote Tabu vakayalo kei na rogo malumu ni domo ni cagi ni Nomuni vosa mai na matanitu ni Veiyacamuni e vuqa, ka me kauti au vakayawa mai na veika sa sega ni lomamuni, ka me kauti au vakavoleka ga ki nai tikotiko sa serau tu mai kina o Koya na Tovure ni Siga ni Nomuni veivakatakilakila. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni iVola,o koya e na gauna vata ga e vosataki mai kina e na lewa ni Gusumuni, e vakavuna me tubu cake na wasawasa, kei na cagi me mudre mai, na vuanikau me vua vinaka mai, kei na vunikau me tutubu mai vakayauyau, kei na veika makawa kece me takali yani, kei na vei ubi kece me luvati tani, kei ira kece era soli ira vakatabakidua yani vei Kemuni, me ra gole yani ki na rarama ni veivakauqeti ni nudra Turaga, na Dauveivukei, ka me vakaraitaka vei au na ka e vuni koto e na Nomuni iyau talei ni kilaka ka taqomaki au tu e na lomanibai ni Nomuni vuku. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni katakata ka vakavuna me ra yadra mai kina o ira era Nomuni tamata digitaki ka Nomuni daulomani, kei na nodra veinanumi kei na veivakacaucautaki e na kida ni mataka caca, me ra wiliki au vata kei ira era sa rawata na veika O ni virikotora e na Nomuni iVola Tabu ka vakaraitaki mai e na Nomuni lewa. Ni raici au mai, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni rarama ni Matamuni o koya ka vakauqeti ira era  yawa yani vei Kemuni me ra sotava na matanimoto ni Nomuni Lewa uasivi, kei ira era sa dina vei Kemuni me ra sotava na nodra i seleiwau na Nomuni meca e na Nomuni sala, ka Mo ni vola mai vei au e na Nomuni Peni rokovi duadua na ka O ni sa vola me baleti ira na Nomuni tamata nuitaki kei ira na Nomuni tamata digitaki. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece era tiko e na vuravura oqo kei na vuravura sa bera mai. Au masuti Kemuni, I noqu Kalou, e na vuku ni Yacamuni ka O ni sa dau vakarogoya mai kina na nodra kaci na dau taleitaki Kemuni, kei na nodra vuturi o ira era dau gadrevi Kemuni, kei na nodra tagi o ira era dau marautaka na tiko veivolekati kei Kemuni, kei na nodra kudru o ira era sa dina vei Kemuni, me vaka ni O ni sa vakayacora na veika era gadreva tu o ira era sa dau vakanuinui vakatabakidua vei Kemuni, ka ni O ni sa yalataka vei ira na ka era gadreva, e na vuku ga ni Nomuni loloma uasivi kei na Nomuni veivuke, kei na vuku ni Yacamuni e na loma ni wasawasa ni veivosoti e ua baleta yani na Matamuni, kei na o ni Nomuni loloma ka sobuti ira na Nomuni dauveiqaravi, me volai vakayadua kina vei ira era sa vuki yani vei Kemuni, ka ra vakamuria na lolo O ni a virikotora, me saumi kina na nodra cakacaka o ira era sega ni vosa rawa vakavo ga e na Nomuni veitawasei kei ira, ka ra biuta laivi na veika vakavuravura era taukena e na nodra sala vei Kemuni kei na nodra Iomani Kemuni. Au masuti Kemuni, I noqu Kalou, e na Vukumuni kei na vuku ni Nomuni vakatakilakila, kei na Nomuni veivukei dina, kei na i serau ramase ni iVola Siga ni Nomuni iUkuuku, kei na Nomuni Veitabanikau Tabu, me ra vosoti mada kina o ira era sa taura matua tu na Nomuni lawa, ka vakamuria vakadodonu na ka O ni sa vakarautaka vei ira e na Nomuni iVola. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece sara era tiko e na vuravura oqo kei na vuravura sa bera mai.
 
 -- Bahá'u'lláh
 
-bpn6989 «[Fiji](../fj/prayers/#bpn6989)» 
+bpn6989 
 
 ----
 
@@ -301,7 +302,7 @@ Mo ni sa vakalagilagi ga O i Kemuni Turaga na noqu Kalou! Au masuti Kemuni e na 
 
 -- Bahá'u'lláh
 
-bpn6990 «[Fiji](../fj/prayers/#bpn6990)» 
+bpn6990 
 
 ----
 
@@ -311,11 +312,11 @@ bpn6990 «[Fiji](../fj/prayers/#bpn6990)»
 ## NA MASU VAKAROTI BALAVU
 
 <a id="bpn6949"></a> 
-#NA MASU VAKAROTI BALAVU##Long Obligatory Prayer*ME CAVUQAQATAKI VAKADUA GA E NA LOMA NI 24 NA AUA*O koya e gadreva me cavuta na musu oqo, me tucake ka vakanamata vua na Kalou, ia, ni sa tucake rawa tu e na nona i tutu, me qai rai ki na i matau ka rai ki na i mawi, me vaka e waraka tiko na loloma ni nona Turaga, na Dauveivosoti Duadua, na Yalololoma. Me qai kaya:O i Kemuni na Turaga ni veiyaca kece ga ka O ni a bulia na lomalagi! Au masuti Kemuni e na vukudra na Tovure ni Siga ni Utomuni Bula sa sega ni laurai rawa, o Koya sa vakacerecerei Duadua, na Vu ni Lagilagi, me cakacaka e na noqu masu me sa vaka na bukawaqa o koya me qai vakama laivi na i lati ka sogoti au tani tu e na wasawasa ni veivolekati kei Kemuni.*Me sa qai laveta ruarua na ligana ka vakamamasu vua na Kalou — me vakalougatataki ka vakacerecerei o Koya — ka kaya:O i Kemuni na nodra Gagadre na lewe i vuravura kei na nodra Daulomani na veimatanitu. O ni sa raici au ni u sa vakanamata tiko yani vei Kemuni, au sa vagalalataki au mai na veika taucoko ka vakavo ga O i Kemuni, ka u sa taura matua tiko ga na Nomuni vakasala, ka dau vakavuna me vakayavalata na veika buli kece ga. O i au na Nomuni tamata, O i Kemuni na Turaga, ka luve ni Nomuni tamata. Mo ni raica ni u sa tu vakarau me u vakayacora na Lomamuni kei na Nomuni gagadre, ka sega ni gadreva tale e dua na ka ia na Nomuni marau ga. Au sa masuti Kemuni e na wasawasa ni Nomuni loloma kei na iVola Siga ni Nomuni yalololoma Mo ni sa vakatulewa vei koya na Nomuni tamata me vaka sa Lomamuni ka Nomuni lewa, E na Nomuni kaukauwa sa uasivita na veika kece ga e cavuti rawa kei na veivakacaucautaki! Na veika kece ga sa vakavotui mai vei Kemuni sa i koya na gagadre ni utoqu ka dau vakamareqeti ki na yaloqu. O i Kemuni na Kalou, na noqu Kalou! Mo ni kakua ni okata na noqu vakanananu vakatamata kei na veika au vakayacora, ia Mo ni raica ga na Nomuni ivakaro o koya sa robota tu na lomalagi kei na vuravura. E na Yacamuni Levu Duadua, O i Kemuni na Turaga ni veimatanitu kece ga! Au sa gadreva wale ga na veika O ni sa gadreva, ka lomana na veika O ni sa lomana.*Me sa qai tekiduru, cuva, ka kaya:O ni sa Cecere sara O i Kemuni ka sa sega tale ni dua e uasivi cake na kena i vakamacala mai vei Kemuni, kei na cecere ni kilaka e sega tale ni sivia e dua O i Kemuni ga.*Me sa qai tucake ka kaya:Mo ni sa vakarautaka na noqu masu, O i Kemuni na noqu Turaga, me sa i vurevure ni wai ni bula o koya me u bula kina me vaka ga na kena bula tu na Nomuni i tutu ni veiliutaki vakaturaga, ka me rawa ni u tukuni Kemuni e na veivanua e na Nomuni vuravura.*Me sa qai laveta tale na ligana e na vakamamasu, ka kaya:O i Kemuni o Koya ka sa vu ni waicala ni uto kei na yalo e na nodra tawase tani mai Vua, kei na katakata ni Nona loloma e sa caudre kina na vuravura! Au sa masuti Kemuni e na Yaca e sa vakamalumalumutaka na veika buli kece ga, me kakua ni bureitaki vei au na ka sa tu vei Kemuni, O i Kemuni sa daulewa na tamata kece ga! O ni sa raica O i Kemuni na noqu Turaga, na tamata vulagi oqo ka vakusakusa tiko yani ki na nona i tikotiko cecere sara e na ubi ni Nomuni itutu vakaturaga e na lomanibai ni Nomuni loloma; na tamata i valavalaca oqo sa vakasaqara tiko na wasawasa ni Nomuni veivosoti, kei na tamata lolovira oqo e sa vakasaqara tiko na buturara ni Nomuni lagilagi; na tamata dravudravua oqo e sa vakasaqara tiko na Nomuni vutuniyau. Sa Nomuni ga na kaukauwa Mo ni vakatauca na veika O ni sa lewa kina. Au sa vakadinata ni sa i Kemuni ga Mo ni vakacaucautaki e na Nomuni cakacaka, ka Mo ni sa rogoci e na Nomuni vakatulewa, ka tudei tiko ga e na Nomuni ivakaro.*Me sa qai laveta cake na ligana, ka cavuta veitarataravii na `Allah&#39;u’Abha’. Me qai tatabaki na ligana e duruna ka cuva vua na Kalou — me sa vakacaucautaki ka vakacerecerei o Koya — me qai kaya:O ni sa raica, O i Kemuni na noqu Kalou, na kena sa vakayavalata na yaloqu, na yavaqu, ligaqu kei na veitikina kece sara e yagoqu, e na kena gadrevi tiko na sokalou vei Kemuni, kei na kena gadrevi tiko Mo ni nanumi O i Kemuni ka Mo ni vakacaucautaki tale ga; na i vakarau ni kena vakadinadinataki na veika sa vakadinadinataka na Gusu ni Nomuni iVakaro e na matanitu ni Nomuni vosa kei na lomalagi ni Nomuni kilaka. Au gadreva, e na tiki ni gauna oqo, O i Kemuni na noqu Turaga, me u kerea vei Kemuni na veika kece sara e tu vei Kemuni, me u rawa ni bau vakaraitakarakarataka kina na noqu dravudravua, ka vakalevulevuya na Nomuni loloma solisoli wale kei na Nomuni vutuniyau, ka me u vakatusa na noqu malumalumu, ka vakaraitaka na Nomuni kaukauwa kei na Nomuni igu.*Me sa qai tucake ka laveta vakarua na ligana e na vakamamasu, ka kaya:Sa sega tale ni dua na Kalou sai Kemuni ga, na Vu ni iGu Cecekia, na Vu ni Yalololoma kece ga. Sa sega tale ni dua na Kalou O i Kemuni ga, na Dauveibuli, e na i vakatekivu ki nai vakataotioti. O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma sa vakayaloqaqataki au, kei na Nomuni veivosoti sa vakaukauwataki au, kei na Nomuni kaci sa vakayadrati au, kei na Nomuni totoka sa laveti au cake ka tuberi au yani vei Kemuni. O cei beka o i au, me u mai duri rawa voli e na matamata ni koro levu ka volekati Kemuni, se me u vakanamata ki na rarama ka cila tiko mai e na lomalagi ni Nomuni lewa? O ni sa raica, O i Kemuni na noqu Kalou, na tamata vakaloloma oqo ni sa tukituki tiko e na mata ni katuba ni Nomuni loloma, kei na yalo veilecayaki oqo ni sa vakasaqara na uciwai ni bula tawa mudu mai na Ligamuni loloma solisoli wale. Sa Nomuni na lewa e na veigauna kece ga, O i Kemuni na Turaga ni veiyaca kece ga, ka sa noqu na vakacegu kei na vakarorogo ki na Nomuni lewa, O i Kemuni ka bulia na lomalagi.*Me sa qai laveta vakatolu na ligana, me qai kaya:Sa Levu duadua ga na Kalou mai na veika lelevu kece ga!*Me sa qai tekiduru, cuva ki na qele ka kaya:O ni sa rui tiko yawa sara mai na nodra veivakacaucautaki o ira era voleka vei Kemuni me rawa ni ra bau cabe yani ki na lomalagi ka volekati Kemuni, se vei ira na manumanu vuka ka ni ra gadreva vakalevu o ira era sa yalodina vei Kemuni me ra bau yacova rawa yani na matamata ni Nomuni katuba. Au sa vakadinadinataka ni O ni sa vakatatabutaka na i tovo taleitaki kece ga ka tabu vaka kina e na dela ni veiyaca kece ga. Sa sega tale e dua na Kalou sa i Kemuni ga, o Koya sa Vakacerecerei Duadua, na Vu ni Lagilagi.*Me sa qai dabe sobu ka kaya:Au sa vakadinadinataka mai na vanua sa vakadinadinataki kina na veika buli kece ga, kei na Yalotabu Vakalomalagi, kei ira kece ga na lewe i Parataisi cecere mai cake, kei na kena vuabaleta na veika kece oqo na Gusu ni veivakaturagataki mai na Vunilagi sa vu ni lagilagi, ni sa i Kemuni ga na Kalou. ka sa sega tale ni dua na Kalou sa i Kemuni ga, ka ni O Koya ga ka tadu mai e sa i Koya na Veivakurabuitaki Vuni, na i Vakatakarakara Mareqeti, mai vei Koya ga e rau sa qai biu vata rawa kina na S kei na A (SA) me rau semavata vakavinaka. Au sa vakadinadinataka ni sa i Koya ga e na vuku ni Yacana e a sa volai oti tu mai e na Peni nei Koya sa Cecere Duadua, ka sa vakarogoi tale ga e na Nona i vola na Kalou, na Turaga ni iTikotiko vakatui mai cake kei na vuravura tale ga e ra.*Me sa qai tucake vakadodonu ka kaya:O i Kemuni na Turaga ni veika bula kece ga ka i Taukei ni veika kece ga e laurai kei na veika e sega ni laurai! O ni sa vakila na kena drodro na wainimataqu kei na noqu tagilagalaga ka rogoca na noqu vutugu kei na noqu qoqolou kei na yaluma ni utoqu. E na vuku ni Nomuni i gu! Na noqu dau lako sese sa tarovi au tiko e na noqu toro voleka yani vei Kemuni; kei na noqu i valavalaca sa tosoi au tani ka u sa yawa sara mai na rara ni Nomuni yalotabu. Na Nomuni loloma, I noqu Turaga, sa vakavutuniyautaki an, kei na tawase tani mai vei Kemuni sa vakarusai au, kei na yawa tani mai vei Kemuni sa kani au. Au sa vakamasuti Kemuni mai na we ni Yavamuni e na veikauloa oqo, kei na veivosa “O i Au Oqo. O i Au Oqo,” o koya ka ra a vosataka na Nomuni Digitaki e na vanua tawa vakaiyalayala oqo, kei na cagi malumu ni Nomuni iVakatakila, kei na cagi mudre malua ni Cadracadra ni Nomuni iLumuti, Mo ni vakalougatataka me u bau rai rawa vakadodonu ki na Nomuni matavinaka ka dikeva na veika kece sa tu e na Nomuni iVola.*Me sa qai cavuta veitaravi vakatolu na Yacatabu Levu Duadua o ya na ‘Allah’u&#39;Abha&#39;, cuva sobu tabaka toka na duruna, ka kaya:Mo ni sa vakacaucautaki, O i Kemuni na noqu Kalou, ni O ni sa vukei au me u nanumi Kemuni ka vakacaucautaki Kemuni, kei na Nomuni sa vakayacora rawa me u kilai Koya O Koya na Tovure ni siga ni Nomuni vakatakilakila, ka O ni sa vakavuna me u cuva sobu e Matamuni Vakaturaga, ka vakamalumalumutaki au e mata ni Nomuni iTutu vaKalou, ka me u vakadinata na ka e sa vosataka mai na Gusu ni Nomuni veivakaturagataki.*Me sa qai duri cake ka kaya:O i Kemuni na Kalou, na noqu Kalou! Sa vakalairoro mai na dakuqu e na bibi ni colacola ni noqu ca, kei na noqu talaidredre sa vakarusai au. E na veigauna kece au dau vakananuma kina na noqu caka cala kei na Nomuni yalovinaka, e sa dau waicala ga e lomaqu na utoqu, ka laki buebue kina na noqu dra e na veisala ni dra e yagoqu. Mai na Nomuni lagilagi, O i Kemuni na Gagadre kei vuravura! E sa wadadamu na mataqu e na noqu madua me u tucake yani vei Kemuni, ka sa madua vaka kina na ligaqu e na kena gagadre me bau dodo yani ki na lomalagi ni Nomuni loloma soli wale. O ni sa raica, o i Kemuni na noqu Kalou, ni tarovi au tiko na wai ni mataqu e na noqu nanumi Kemuni ka vakacaucautaka na Nomuni yalo veivosoti, O i Kemuni O Koya na Turaga ni iTikotiko vakatui mai cake kei na vuravura oqo e ra! Au sa vakamasuti Kemuni mai na i vakatakilakila ni Nomuni Matanitu kei na veika veivakurabuitaki ni Nomuni Lewa me vakayacori vei ira na Nomuni tamata na veika sa veiganiti kei na Nomuni loloma soli wale, O i Kemuni na Turaga ni veika bula kece ga, ka veiganiti kei na Nomuni veivakalougatataki. O i Kemuni na Tui ni veika e laurai rawa kei na veika e sega ni laurai rawa.*Me sa qai cavuta vakatolu na &#39;Allah’u’Abha’, ka tekiduru sobu, cuva ki na qele, ka kaya:Mo ni vakacaucautaki, Oi Kemuni na neimami Kalou, ni O ni sa dau vakauta sobu tiko ga mai vei keimami na veika e dau vakavuna me keimami torovi Kemuni vakavoleka tiko ga yani kina, ka solia tiko ga mai vei keimami na veika vinaka kece ga sa tau mai vei Kemuni e na Nomuni iVola Tabu. Mo ni taqomaki keimami tiko, ia keimami masuti Kemuni, O i Kemuni na noqu Turaga, mai vei ira na i vavakoso vakasavuliga, ka dau vakanananu tawayaga. Sa i Kemuni, dina ga, na iGu Cecekia, na Vu ni kilaka.*Me sa qai tucake, dabe sobu, ka kaya:Au sa vakadinata, O i Kemuni na noqu Kalou, na veika era sa vakadinadinataka na Nomuni Digitaki, ka vakadinata na veika era sa vakadinata o ira na lewe i Parataisi mai cake kei ira era vakavolivolita na Nomuni iTikotiko cecere. Sa Nomuni na veimatanitu e vuravura kei lomalagi, O i Kemuni na Kalou ni veivuravura kece ga!
+#NA MASU VAKAROTI BALAVU##Long Obligatory Prayer*ME CAVUQAQATAKI VAKADUA GA E NA LOMA NI 24 NA AUA*O koya e gadreva me cavuta na musu oqo, me tucake ka vakanamata vua na Kalou, ia, ni sa tucake rawa tu e na nona i tutu, me qai rai ki na i matau ka rai ki na i mawi, me vaka e waraka tiko na loloma ni nona Turaga, na Dauveivosoti Duadua, na Yalololoma. Me qai kaya:O i Kemuni na Turaga ni veiyaca kece ga ka O ni a bulia na lomalagi! Au masuti Kemuni e na vukudra na Tovure ni Siga ni Utomuni Bula sa sega ni laurai rawa, o Koya sa vakacerecerei Duadua, na Vu ni Lagilagi, me cakacaka e na noqu masu me sa vaka na bukawaqa o koya me qai vakama laivi na i lati ka sogoti au tani tu e na wasawasa ni veivolekati kei Kemuni.*Me sa qai laveta ruarua na ligana ka vakamamasu vua na Kalou — me vakalougatataki ka vakacerecerei o Koya — ka kaya:O i Kemuni na nodra Gagadre na lewe i vuravura kei na nodra Daulomani na veimatanitu. O ni sa raici au ni u sa vakanamata tiko yani vei Kemuni, au sa vagalalataki au mai na veika taucoko ka vakavo ga O i Kemuni, ka u sa taura matua tiko ga na Nomuni vakasala, ka dau vakavuna me vakayavalata na veika buli kece ga. O i au na Nomuni tamata, O i Kemuni na Turaga, ka luve ni Nomuni tamata. Mo ni raica ni u sa tu vakarau me u vakayacora na Lomamuni kei na Nomuni gagadre, ka sega ni gadreva tale e dua na ka ia na Nomuni marau ga. Au sa masuti Kemuni e na wasawasa ni Nomuni loloma kei na iVola Siga ni Nomuni yalololoma Mo ni sa vakatulewa vei koya na Nomuni tamata me vaka sa Lomamuni ka Nomuni lewa, E na Nomuni kaukauwa sa uasivita na veika kece ga e cavuti rawa kei na veivakacaucautaki! Na veika kece ga sa vakavotui mai vei Kemuni sa i koya na gagadre ni utoqu ka dau vakamareqeti ki na yaloqu. O i Kemuni na Kalou, na noqu Kalou! Mo ni kakua ni okata na noqu vakanananu vakatamata kei na veika au vakayacora, ia Mo ni raica ga na Nomuni ivakaro o koya sa robota tu na lomalagi kei na vuravura. E na Yacamuni Levu Duadua, O i Kemuni na Turaga ni veimatanitu kece ga! Au sa gadreva wale ga na veika O ni sa gadreva, ka lomana na veika O ni sa lomana.*Me sa qai tekiduru, cuva, ka kaya:O ni sa Cecere sara O i Kemuni ka sa sega tale ni dua e uasivi cake na kena i vakamacala mai vei Kemuni, kei na cecere ni kilaka e sega tale ni sivia e dua O i Kemuni ga.*Me sa qai tucake ka kaya:Mo ni sa vakarautaka na noqu masu, O i Kemuni na noqu Turaga, me sa i vurevure ni wai ni bula o koya me u bula kina me vaka ga na kena bula tu na Nomuni i tutu ni veiliutaki vakaturaga, ka me rawa ni u tukuni Kemuni e na veivanua e na Nomuni vuravura.*Me sa qai laveta tale na ligana e na vakamamasu, ka kaya:O i Kemuni o Koya ka sa vu ni waicala ni uto kei na yalo e na nodra tawase tani mai Vua, kei na katakata ni Nona loloma e sa caudre kina na vuravura! Au sa masuti Kemuni e na Yaca e sa vakamalumalumutaka na veika buli kece ga, me kakua ni bureitaki vei au na ka sa tu vei Kemuni, O i Kemuni sa daulewa na tamata kece ga! O ni sa raica O i Kemuni na noqu Turaga, na tamata vulagi oqo ka vakusakusa tiko yani ki na nona i tikotiko cecere sara e na ubi ni Nomuni itutu vakaturaga e na lomanibai ni Nomuni loloma; na tamata i valavalaca oqo sa vakasaqara tiko na wasawasa ni Nomuni veivosoti, kei na tamata lolovira oqo e sa vakasaqara tiko na buturara ni Nomuni lagilagi; na tamata dravudravua oqo e sa vakasaqara tiko na Nomuni vutuniyau. Sa Nomuni ga na kaukauwa Mo ni vakatauca na veika O ni sa lewa kina. Au sa vakadinata ni sa i Kemuni ga Mo ni vakacaucautaki e na Nomuni cakacaka, ka Mo ni sa rogoci e na Nomuni vakatulewa, ka tudei tiko ga e na Nomuni ivakaro.*Me sa qai laveta cake na ligana, ka cavuta veitarataravii na `Allah'u’Abha’. Me qai tatabaki na ligana e duruna ka cuva vua na Kalou — me sa vakacaucautaki ka vakacerecerei o Koya — me qai kaya:O ni sa raica, O i Kemuni na noqu Kalou, na kena sa vakayavalata na yaloqu, na yavaqu, ligaqu kei na veitikina kece sara e yagoqu, e na kena gadrevi tiko na sokalou vei Kemuni, kei na kena gadrevi tiko Mo ni nanumi O i Kemuni ka Mo ni vakacaucautaki tale ga; na i vakarau ni kena vakadinadinataki na veika sa vakadinadinataka na Gusu ni Nomuni iVakaro e na matanitu ni Nomuni vosa kei na lomalagi ni Nomuni kilaka. Au gadreva, e na tiki ni gauna oqo, O i Kemuni na noqu Turaga, me u kerea vei Kemuni na veika kece sara e tu vei Kemuni, me u rawa ni bau vakaraitakarakarataka kina na noqu dravudravua, ka vakalevulevuya na Nomuni loloma solisoli wale kei na Nomuni vutuniyau, ka me u vakatusa na noqu malumalumu, ka vakaraitaka na Nomuni kaukauwa kei na Nomuni igu.*Me sa qai tucake ka laveta vakarua na ligana e na vakamamasu, ka kaya:Sa sega tale ni dua na Kalou sai Kemuni ga, na Vu ni iGu Cecekia, na Vu ni Yalololoma kece ga. Sa sega tale ni dua na Kalou O i Kemuni ga, na Dauveibuli, e na i vakatekivu ki nai vakataotioti. O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma sa vakayaloqaqataki au, kei na Nomuni veivosoti sa vakaukauwataki au, kei na Nomuni kaci sa vakayadrati au, kei na Nomuni totoka sa laveti au cake ka tuberi au yani vei Kemuni. O cei beka o i au, me u mai duri rawa voli e na matamata ni koro levu ka volekati Kemuni, se me u vakanamata ki na rarama ka cila tiko mai e na lomalagi ni Nomuni lewa? O ni sa raica, O i Kemuni na noqu Kalou, na tamata vakaloloma oqo ni sa tukituki tiko e na mata ni katuba ni Nomuni loloma, kei na yalo veilecayaki oqo ni sa vakasaqara na uciwai ni bula tawa mudu mai na Ligamuni loloma solisoli wale. Sa Nomuni na lewa e na veigauna kece ga, O i Kemuni na Turaga ni veiyaca kece ga, ka sa noqu na vakacegu kei na vakarorogo ki na Nomuni lewa, O i Kemuni ka bulia na lomalagi.*Me sa qai laveta vakatolu na ligana, me qai kaya:Sa Levu duadua ga na Kalou mai na veika lelevu kece ga!*Me sa qai tekiduru, cuva ki na qele ka kaya:O ni sa rui tiko yawa sara mai na nodra veivakacaucautaki o ira era voleka vei Kemuni me rawa ni ra bau cabe yani ki na lomalagi ka volekati Kemuni, se vei ira na manumanu vuka ka ni ra gadreva vakalevu o ira era sa yalodina vei Kemuni me ra bau yacova rawa yani na matamata ni Nomuni katuba. Au sa vakadinadinataka ni O ni sa vakatatabutaka na i tovo taleitaki kece ga ka tabu vaka kina e na dela ni veiyaca kece ga. Sa sega tale e dua na Kalou sa i Kemuni ga, o Koya sa Vakacerecerei Duadua, na Vu ni Lagilagi.*Me sa qai dabe sobu ka kaya:Au sa vakadinadinataka mai na vanua sa vakadinadinataki kina na veika buli kece ga, kei na Yalotabu Vakalomalagi, kei ira kece ga na lewe i Parataisi cecere mai cake, kei na kena vuabaleta na veika kece oqo na Gusu ni veivakaturagataki mai na Vunilagi sa vu ni lagilagi, ni sa i Kemuni ga na Kalou. ka sa sega tale ni dua na Kalou sa i Kemuni ga, ka ni O Koya ga ka tadu mai e sa i Koya na Veivakurabuitaki Vuni, na i Vakatakarakara Mareqeti, mai vei Koya ga e rau sa qai biu vata rawa kina na S kei na A (SA) me rau semavata vakavinaka. Au sa vakadinadinataka ni sa i Koya ga e na vuku ni Yacana e a sa volai oti tu mai e na Peni nei Koya sa Cecere Duadua, ka sa vakarogoi tale ga e na Nona i vola na Kalou, na Turaga ni iTikotiko vakatui mai cake kei na vuravura tale ga e ra.*Me sa qai tucake vakadodonu ka kaya:O i Kemuni na Turaga ni veika bula kece ga ka i Taukei ni veika kece ga e laurai kei na veika e sega ni laurai! O ni sa vakila na kena drodro na wainimataqu kei na noqu tagilagalaga ka rogoca na noqu vutugu kei na noqu qoqolou kei na yaluma ni utoqu. E na vuku ni Nomuni i gu! Na noqu dau lako sese sa tarovi au tiko e na noqu toro voleka yani vei Kemuni; kei na noqu i valavalaca sa tosoi au tani ka u sa yawa sara mai na rara ni Nomuni yalotabu. Na Nomuni loloma, I noqu Turaga, sa vakavutuniyautaki an, kei na tawase tani mai vei Kemuni sa vakarusai au, kei na yawa tani mai vei Kemuni sa kani au. Au sa vakamasuti Kemuni mai na we ni Yavamuni e na veikauloa oqo, kei na veivosa “O i Au Oqo. O i Au Oqo,” o koya ka ra a vosataka na Nomuni Digitaki e na vanua tawa vakaiyalayala oqo, kei na cagi malumu ni Nomuni iVakatakila, kei na cagi mudre malua ni Cadracadra ni Nomuni iLumuti, Mo ni vakalougatataka me u bau rai rawa vakadodonu ki na Nomuni matavinaka ka dikeva na veika kece sa tu e na Nomuni iVola.*Me sa qai cavuta veitaravi vakatolu na Yacatabu Levu Duadua o ya na ‘Allah’u'Abha', cuva sobu tabaka toka na duruna, ka kaya:Mo ni sa vakacaucautaki, O i Kemuni na noqu Kalou, ni O ni sa vukei au me u nanumi Kemuni ka vakacaucautaki Kemuni, kei na Nomuni sa vakayacora rawa me u kilai Koya O Koya na Tovure ni siga ni Nomuni vakatakilakila, ka O ni sa vakavuna me u cuva sobu e Matamuni Vakaturaga, ka vakamalumalumutaki au e mata ni Nomuni iTutu vaKalou, ka me u vakadinata na ka e sa vosataka mai na Gusu ni Nomuni veivakaturagataki.*Me sa qai duri cake ka kaya:O i Kemuni na Kalou, na noqu Kalou! Sa vakalairoro mai na dakuqu e na bibi ni colacola ni noqu ca, kei na noqu talaidredre sa vakarusai au. E na veigauna kece au dau vakananuma kina na noqu caka cala kei na Nomuni yalovinaka, e sa dau waicala ga e lomaqu na utoqu, ka laki buebue kina na noqu dra e na veisala ni dra e yagoqu. Mai na Nomuni lagilagi, O i Kemuni na Gagadre kei vuravura! E sa wadadamu na mataqu e na noqu madua me u tucake yani vei Kemuni, ka sa madua vaka kina na ligaqu e na kena gagadre me bau dodo yani ki na lomalagi ni Nomuni loloma soli wale. O ni sa raica, o i Kemuni na noqu Kalou, ni tarovi au tiko na wai ni mataqu e na noqu nanumi Kemuni ka vakacaucautaka na Nomuni yalo veivosoti, O i Kemuni O Koya na Turaga ni iTikotiko vakatui mai cake kei na vuravura oqo e ra! Au sa vakamasuti Kemuni mai na i vakatakilakila ni Nomuni Matanitu kei na veika veivakurabuitaki ni Nomuni Lewa me vakayacori vei ira na Nomuni tamata na veika sa veiganiti kei na Nomuni loloma soli wale, O i Kemuni na Turaga ni veika bula kece ga, ka veiganiti kei na Nomuni veivakalougatataki. O i Kemuni na Tui ni veika e laurai rawa kei na veika e sega ni laurai rawa.*Me sa qai cavuta vakatolu na 'Allah’u’Abha’, ka tekiduru sobu, cuva ki na qele, ka kaya:Mo ni vakacaucautaki, Oi Kemuni na neimami Kalou, ni O ni sa dau vakauta sobu tiko ga mai vei keimami na veika e dau vakavuna me keimami torovi Kemuni vakavoleka tiko ga yani kina, ka solia tiko ga mai vei keimami na veika vinaka kece ga sa tau mai vei Kemuni e na Nomuni iVola Tabu. Mo ni taqomaki keimami tiko, ia keimami masuti Kemuni, O i Kemuni na noqu Turaga, mai vei ira na i vavakoso vakasavuliga, ka dau vakanananu tawayaga. Sa i Kemuni, dina ga, na iGu Cecekia, na Vu ni kilaka.*Me sa qai tucake, dabe sobu, ka kaya:Au sa vakadinata, O i Kemuni na noqu Kalou, na veika era sa vakadinadinataka na Nomuni Digitaki, ka vakadinata na veika era sa vakadinata o ira na lewe i Parataisi mai cake kei ira era vakavolivolita na Nomuni iTikotiko cecere. Sa Nomuni na veimatanitu e vuravura kei lomalagi, O i Kemuni na Kalou ni veivuravura kece ga!
 
 -- Bahá'u'lláh
 
-bpn6949 «[Fiji](../fj/prayers/#bpn6949)» 
+bpn6949 
 
 ----
 
@@ -329,7 +330,7 @@ bpn6949 «[Fiji](../fj/prayers/#bpn6949)»
 
 -- Bahá'u'lláh
 
-bpn6948 «[Fiji](../fj/prayers/#bpn6948)» 
+bpn6948 
 
 ----
 
@@ -343,7 +344,7 @@ bpn6948 «[Fiji](../fj/prayers/#bpn6948)»
 
 -- Bahá'u'lláh
 
-bpn6947 «[Fiji](../fj/prayers/#bpn6947)» 
+bpn6947 
 
 ----
 
@@ -357,17 +358,17 @@ Mo ni sa vakalagilagi O i Kemuni, l Turaga na noqu Kalou! Ni kakua ni guilecavi 
 
 -- Bahá'u'lláh
 
-bpn6965 «[Fiji](../fj/prayers/#bpn6965)» 
+bpn6965 
 
 ----
 
 
 <a id="bpn6966"></a> 
-*(Na Masu me baleti ira na mate ka me dau vakayagataki e na vukudra na Bahá&#39;í&#39; era sa yacova na yabaki 15. “E na veimasu vakaroti kece vakaBahá&#39;í, oqo e dua na kena e rawa ni cavuqaqataka vata na lewe ni vakabauta, e dodonu me cavuta e dua vei ira na lewe ni vakabauta ka me ra tucake kece tiko na lewe ni vavakoso. E sega ni gadrevi e ke me da qarava na Vanua Tabu (Qiblih, o ya mai Isireli) e na gauna e cavuqaqataki tiko kina na masu oqo.&#34; -Tauri mai e na iVola Tabu o ya na ‘Synopsis &amp; Codification of the Kitab-i-Aqdas’.)O i Kemuni na noqu Kalou! Oqo na Nomuni tamata ka luve ni Nomuni tamata, ka dau vakabauti Kemuni kei na Nomuni i vakatakilakila, ka dau vakanamata tu yani vei Kemuni, e na nona vagalalataki koya vakatabakidua mai na veika kece ka vakavo ga O i Kemuni. Sa i Kemuni dina ga, sa dau vakaraitaka na veivosoti, na dauveivosoti duadua ga.Mo ni lewai koya mada, O i Kemuni na dauvosota na nodra caka ca na tamata ka dau ubia na nodra cala e vuqa, e na ruku ni lomalagi ni Nomuni solisoli kei na wasawasa ni Nomuni loloma. Mo ni vakatara vua me sa curu yani ki na lomanibai ni Nomuni loloma tawa yalani rawa e a tu ni se bera ni buli o lomalagi kei vuravura. Sa sega tale ni dua na Kalou sa i Kemuni ga, na Dauveivosoti e veigauna kece ga, na Daulomasoli Duadua ga.Me sa qai cavuta vakaono na vosu ni veikidavaki na &#39;Allah’u’Abha’, ni oti me sa qai cavuta vakatinikaciwa na veiyatuvosa oqo:Keimami sa dau sokalou kece, vakaidina, vua na Kalou.Keimami sa dau vakarokoroko kece, vakaidina, vua na Kalou.Keimami sa dau soli keimami kece, vakaidina, vua na Kalou.Keimami sa dau vakalagilagia kece, vakaidina, na Kalou.Keimami sa dau vakaraitaka kece, vakaidina, na neimami vakavinavinaka vua na Kalou.Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.*(Ke vaka e yalewa o koya e mate me qai vosa o koya e masu tiko ka kaya: Sa i koya oqo na Nomuni vada ka luve ni Nomuni vada, ka qai muria ga na ka sa koto e cake. . . .)
+*(Na Masu me baleti ira na mate ka me dau vakayagataki e na vukudra na Bahá'í' era sa yacova na yabaki 15. “E na veimasu vakaroti kece vakaBahá'í, oqo e dua na kena e rawa ni cavuqaqataka vata na lewe ni vakabauta, e dodonu me cavuta e dua vei ira na lewe ni vakabauta ka me ra tucake kece tiko na lewe ni vavakoso. E sega ni gadrevi e ke me da qarava na Vanua Tabu (Qiblih, o ya mai Isireli) e na gauna e cavuqaqataki tiko kina na masu oqo." -Tauri mai e na iVola Tabu o ya na ‘Synopsis & Codification of the Kitab-i-Aqdas’.)O i Kemuni na noqu Kalou! Oqo na Nomuni tamata ka luve ni Nomuni tamata, ka dau vakabauti Kemuni kei na Nomuni i vakatakilakila, ka dau vakanamata tu yani vei Kemuni, e na nona vagalalataki koya vakatabakidua mai na veika kece ka vakavo ga O i Kemuni. Sa i Kemuni dina ga, sa dau vakaraitaka na veivosoti, na dauveivosoti duadua ga.Mo ni lewai koya mada, O i Kemuni na dauvosota na nodra caka ca na tamata ka dau ubia na nodra cala e vuqa, e na ruku ni lomalagi ni Nomuni solisoli kei na wasawasa ni Nomuni loloma. Mo ni vakatara vua me sa curu yani ki na lomanibai ni Nomuni loloma tawa yalani rawa e a tu ni se bera ni buli o lomalagi kei vuravura. Sa sega tale ni dua na Kalou sa i Kemuni ga, na Dauveivosoti e veigauna kece ga, na Daulomasoli Duadua ga.Me sa qai cavuta vakaono na vosu ni veikidavaki na 'Allah’u’Abha’, ni oti me sa qai cavuta vakatinikaciwa na veiyatuvosa oqo:Keimami sa dau sokalou kece, vakaidina, vua na Kalou.Keimami sa dau vakarokoroko kece, vakaidina, vua na Kalou.Keimami sa dau soli keimami kece, vakaidina, vua na Kalou.Keimami sa dau vakalagilagia kece, vakaidina, na Kalou.Keimami sa dau vakaraitaka kece, vakaidina, na neimami vakavinavinaka vua na Kalou.Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.*(Ke vaka e yalewa o koya e mate me qai vosa o koya e masu tiko ka kaya: Sa i koya oqo na Nomuni vada ka luve ni Nomuni vada, ka qai muria ga na ka sa koto e cake. . . .)
 
 -- Bahá'u'lláh
 
-bpn6966 «[Fiji](../fj/prayers/#bpn6966)» 
+bpn6966 
 
 ----
 
@@ -377,11 +378,11 @@ bpn6966 «[Fiji](../fj/prayers/#bpn6966)»
 ## NA VAKAMAU
 
 <a id="bpn6967"></a> 
-“Na vakamau vakaBahá&#39;í o ya na nodrau duavata ka veivakadonui na tabana ruarua. O koya gona, sa dodonu kina, me rau qarauna vakabibi e na veinanumi me rau veikilaitaka vakadodonu na nodrau itovo kece sara. Na i vau tawayalani oqo e dodonu me vakadeitaki e na dua na veiyalayalati kaukauwa sara, ka me kena i naki me vakabulabulataka na tiko veilomani, veikilai vakaveiwekani kei na veivakaduavatataki ka me rawa kina na bula tawamudu.”
+“Na vakamau vakaBahá'í o ya na nodrau duavata ka veivakadonui na tabana ruarua. O koya gona, sa dodonu kina, me rau qarauna vakabibi e na veinanumi me rau veikilaitaka vakadodonu na nodrau itovo kece sara. Na i vau tawayalani oqo e dodonu me vakadeitaki e na dua na veiyalayalati kaukauwa sara, ka me kena i naki me vakabulabulataka na tiko veilomani, veikilai vakaveiwekani kei na veivakaduavatataki ka me rawa kina na bula tawamudu.”
 
 -- Abdu'l-Bahá
 
-bpn6967 «[Fiji](../fj/prayers/#bpn6967)» 
+bpn6967 
 
 ----
 
@@ -395,7 +396,7 @@ Era lewe vuqa na uto batabata, O i Kemuni na noqu Kalou, e sa vakatakatataki tu 
 
 -- Bahá'u'lláh
 
-bpn6970 «[Fiji](../fj/prayers/#bpn6970)» 
+bpn6970 
 
 ----
 
@@ -405,7 +406,7 @@ Mo ni vakalagilagi ga, O i Kemuni na noqu Kalou! O i au e dua vei ira na Nomuni 
 
 -- Bahá'u'lláh
 
-bpn6971 «[Fiji](../fj/prayers/#bpn6971)» 
+bpn6971 
 
 ----
 
@@ -419,7 +420,7 @@ Sa vu ni bula vei au na Yacamuni, O i Kemuni na noqu Kalou, ka u sa vakabulai e 
 
 -- Bahá'u'lláh
 
-bpn6972 «[Fiji](../fj/prayers/#bpn6972)» 
+bpn6972 
 
 ----
 
@@ -433,7 +434,7 @@ Me vakacaucautaki na Yacamuni, O i Kemuni na noqu Kalou! Au sa vakadinata ni seg
 
 -- Bahá'u'lláh
 
-bpn6973 «[Fiji](../fj/prayers/#bpn6973)» 
+bpn6973 
 
 ----
 
@@ -443,7 +444,7 @@ Me sa vakalevulevui na Yacamuni, O i Kemuni na Turaga na noqu Kalou! Sa i Kemuni
 
 -- Bahá'u'lláh
 
-bpn6974 «[Fiji](../fj/prayers/#bpn6974)» 
+bpn6974 
 
 ----
 
@@ -457,7 +458,7 @@ O i Kemuni na Kalou yalololoma! Au sa Vakavinavinaka vei Kemuni ni O ni sa vakay
 
 -- Abdu'l-Bahá
 
-bpn6975 «[Fiji](../fj/prayers/#bpn6975)» 
+bpn6975 
 
 ----
 
@@ -471,7 +472,7 @@ O i Kemuni na Kalou, O i Kemuni ka vakaivolataki ira na Parofita Lumuti kece ga,
 
 -- Bahá'u'lláh
 
-bpn6978 «[Fiji](../fj/prayers/#bpn6978)» 
+bpn6978 
 
 ----
 
@@ -481,7 +482,7 @@ bpn6978 «[Fiji](../fj/prayers/#bpn6978)»
 
 -- Abdu'l-Bahá
 
-bpn6977 «[Fiji](../fj/prayers/#bpn6977)» 
+bpn6977 
 
 ----
 
@@ -491,7 +492,7 @@ O i Kemuni na Kalou sa sega ni vakatautauvatani rawa! O i Kemuni na Turaga ni Ma
 
 -- Abdu'l-Bahá
 
-bpn6979 «[Fiji](../fj/prayers/#bpn6979)» 
+bpn6979 
 
 ----
 
@@ -505,7 +506,7 @@ O i Kemuni o Koya na Nona veivakatovolei e dau wai ni veivakabulai vei ira era s
 
 -- Bahá'u'lláh
 
-bpn6976 «[Fiji](../fj/prayers/#bpn6976)» 
+bpn6976 
 
 ----
 
@@ -519,7 +520,7 @@ O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma e sa vakayaloqaqataki au, k
 
 -- Bahá'u'lláh
 
-bpn6980 «[Fiji](../fj/prayers/#bpn6980)» 
+bpn6980 
 
 ----
 
@@ -533,7 +534,7 @@ O i Kemuni na Turaga! Keimami tamata vakaloloma, solia mada mai kivei keimami na
 
 -- Abdu'l-Bahá
 
-bpn6981 «[Fiji](../fj/prayers/#bpn6981)» 
+bpn6981 
 
 ----
 
@@ -547,7 +548,7 @@ O cei li na Dauveivakacegui e na gauna ni leqa me tautauvata kei na Kalou? Mo ka
 
 -- Báb
 
-bpn6982 «[Fiji](../fj/prayers/#bpn6982)» 
+bpn6982 
 
 ----
 
@@ -557,7 +558,7 @@ Mo kaya tiko ga: Sa uasivi duadua na Kalou e na veika kece ga, ka sa sega tale n
 
 -- Báb
 
-bpn6983 «[Fiji](../fj/prayers/#bpn6983)» 
+bpn6983 
 
 ----
 
@@ -567,7 +568,7 @@ O i Kemuni na Turaga, na noqu Kalou ka noqu i Vakavakacegu e na noqu lomabibi! O
 
 -- Abdu'l-Bahá
 
-bpn6984 «[Fiji](../fj/prayers/#bpn6984)» 
+bpn6984 
 
 ----
 
@@ -577,21 +578,21 @@ bpn6984 «[Fiji](../fj/prayers/#bpn6984)»
 ## NA YALAYALA
 
 <a id="bpn6968"></a> 
-*Na vosa ni yalayala ni vakamau, e na tikina e dodonu me rau dui cavuta yadudua na goneyalewa kei na cauravou e matadra e rauta ni rua na ivakadinadina ka vakadonui oti mai na Matabose Vakayalo, me vaka sa vakamacalataki tu e na iVola Tabu ni Lawa o ya na Kitab-i-Aqdas: “Keimami na vakamuria kece, vakaidina, na Lewa ni Kalou.&#34;Mo ni sa vakalagilagi O i Kemuni, I noqu Kalou! E dina, ni oqo na Nomuni turaga dauveiqaravi kei koya oqo na Nomuni marama dauveiqaravi ka rau sa toso mai ki na ruku ni yaloyalo ni Nomuni veivosoti ka rau sa duavata e na vuku ni Nomuni veivuke kei na loloma. I Turaga! Vukei rau e na Nomuni vuravura kei na Nomuni matanitu oqo ka vota vei rau na veika vinaka kece e basika mai e na Nomuni lomasoli kei na loloma. I Turaga! Vakataudeitaki rau e na Nomuni cakacaka ka vukei rau me rau veiqaravi vei Kemuni. Vakatovolei rau me rawa ni yaco me rau i vakatakilakila ni Yacamuni e na Nomuni vuravura ka taqomaki rau e na ruku ni Nomuni i solisoli sega ni vaka i yalayala e na vuravura oqo kei na vuravura sa bera mai. I Turaga! E rau kerekere tiko yani ki na Nomuni Matanitu ni yalololoma ka rau masuta na tiko veivolekati kei na i tutu lagilagi e sa Nomuni duadua ga. E dina, e rau sa vakamau oqo e na nodrau talai rawarawa ki na Nomuni ivakaro. Ni qisi rau mada me rau i vakatakilakila ni tiko veilomani kei na duavata me yacova na i vakataotioti ni gauna. E dina, sa i Kemuni na kaukauwa duadua ga, na Daurairai vakasauri e na veivanua kece ga, kei na Vu ni iGu Cecekia.
+*Na vosa ni yalayala ni vakamau, e na tikina e dodonu me rau dui cavuta yadudua na goneyalewa kei na cauravou e matadra e rauta ni rua na ivakadinadina ka vakadonui oti mai na Matabose Vakayalo, me vaka sa vakamacalataki tu e na iVola Tabu ni Lawa o ya na Kitab-i-Aqdas: “Keimami na vakamuria kece, vakaidina, na Lewa ni Kalou."Mo ni sa vakalagilagi O i Kemuni, I noqu Kalou! E dina, ni oqo na Nomuni turaga dauveiqaravi kei koya oqo na Nomuni marama dauveiqaravi ka rau sa toso mai ki na ruku ni yaloyalo ni Nomuni veivosoti ka rau sa duavata e na vuku ni Nomuni veivuke kei na loloma. I Turaga! Vukei rau e na Nomuni vuravura kei na Nomuni matanitu oqo ka vota vei rau na veika vinaka kece e basika mai e na Nomuni lomasoli kei na loloma. I Turaga! Vakataudeitaki rau e na Nomuni cakacaka ka vukei rau me rau veiqaravi vei Kemuni. Vakatovolei rau me rawa ni yaco me rau i vakatakilakila ni Yacamuni e na Nomuni vuravura ka taqomaki rau e na ruku ni Nomuni i solisoli sega ni vaka i yalayala e na vuravura oqo kei na vuravura sa bera mai. I Turaga! E rau kerekere tiko yani ki na Nomuni Matanitu ni yalololoma ka rau masuta na tiko veivolekati kei na i tutu lagilagi e sa Nomuni duadua ga. E dina, e rau sa vakamau oqo e na nodrau talai rawarawa ki na Nomuni ivakaro. Ni qisi rau mada me rau i vakatakilakila ni tiko veilomani kei na duavata me yacova na i vakataotioti ni gauna. E dina, sa i Kemuni na kaukauwa duadua ga, na Daurairai vakasauri e na veivanua kece ga, kei na Vu ni iGu Cecekia.
 
 -- Abdu'l-Bahá
 
-bpn6968 «[Fiji](../fj/prayers/#bpn6968)» 
+bpn6968 
 
 ----
 
 
 <a id="bpn6969"></a> 
-O Koya na Kalou!O i Kemuni na Turaga sa sega ni vakatautauvatataki rawa! E na vu ni cecekia ni Nomuni vuku O ni vakaukauwataka kina na vakamau vei ira kece na tamata, me rawa ni na veisosomitaki na nodra kawa mai muri e na vuravura vakaiyalayala oqo, ka me vakayacori tiko ga ka tawamudu, ia me ia tiko ga e na veigauna kece me yacova sara na i vakataotioti ni gauna e bula tiko kina na vuravura oqo, e na nodra vakaogai ira tiko e na Nomuni Matamata ni veivakaduavatataki e na veiqaravi kei na sokalou, e na nodra veikidavaki, veivakarokorokotaki, kei na veivakalagilagi tale ga.1 “Au sega ni bulia wale ga na yalo ni tamata, ia me sokalou ga vei au.” O koya gona, Mo ni vauci rau na manumanu vuka oqo e na sova ni Nomuni loloma, e na lomalagi ni Nomuni veivosoti, ka qisi rau me rau i dewadewa ni kena vakayarayarataki mai na i loloma tawa yalani, me vaka ni nodrau vauci vata na wasawasa ni loloma oqo, me tubu mai kina e dua na biau ni dauloloma ka me kureitaka ka talaraka mai kina na vei mataniciva kei na veika talei kece ga e so ki na matasawa ni veivakabulai. “Sa vakalaivi rau na wasawasa o Koya, me rau veisotari: Ki liu, e koto kina e dua na i lati e rau na sega tu ni rawa ni lako sivita. Na veivakalougatataki cava tale beka ni nomuni Turaga o ni na cakitaka, e na vuku ni ka oqo? Mai vei rau ruarua e rawa ni ucuna mai kina O Koya na vei mataniciva lelevu ka lalai tale ga.”2O i Kemuni na Turaga yalo vinaka! Ni vakalougatataka na vakamau oqo me vure mai kina na lase kei na veimataniciva e so. Sa i kemuni dina ga, na Vu ni kaukauwa, na Ka Levu Duadua, na Dauveivosoti Sega ni vakaiyalayala.*`Abdu&#39;l-Bahá*1. Qur’an 51:56*2. Qur’an 55:19-22
+O Koya na Kalou!O i Kemuni na Turaga sa sega ni vakatautauvatataki rawa! E na vu ni cecekia ni Nomuni vuku O ni vakaukauwataka kina na vakamau vei ira kece na tamata, me rawa ni na veisosomitaki na nodra kawa mai muri e na vuravura vakaiyalayala oqo, ka me vakayacori tiko ga ka tawamudu, ia me ia tiko ga e na veigauna kece me yacova sara na i vakataotioti ni gauna e bula tiko kina na vuravura oqo, e na nodra vakaogai ira tiko e na Nomuni Matamata ni veivakaduavatataki e na veiqaravi kei na sokalou, e na nodra veikidavaki, veivakarokorokotaki, kei na veivakalagilagi tale ga.1 “Au sega ni bulia wale ga na yalo ni tamata, ia me sokalou ga vei au.” O koya gona, Mo ni vauci rau na manumanu vuka oqo e na sova ni Nomuni loloma, e na lomalagi ni Nomuni veivosoti, ka qisi rau me rau i dewadewa ni kena vakayarayarataki mai na i loloma tawa yalani, me vaka ni nodrau vauci vata na wasawasa ni loloma oqo, me tubu mai kina e dua na biau ni dauloloma ka me kureitaka ka talaraka mai kina na vei mataniciva kei na veika talei kece ga e so ki na matasawa ni veivakabulai. “Sa vakalaivi rau na wasawasa o Koya, me rau veisotari: Ki liu, e koto kina e dua na i lati e rau na sega tu ni rawa ni lako sivita. Na veivakalougatataki cava tale beka ni nomuni Turaga o ni na cakitaka, e na vuku ni ka oqo? Mai vei rau ruarua e rawa ni ucuna mai kina O Koya na vei mataniciva lelevu ka lalai tale ga.”2O i Kemuni na Turaga yalo vinaka! Ni vakalougatataka na vakamau oqo me vure mai kina na lase kei na veimataniciva e so. Sa i kemuni dina ga, na Vu ni kaukauwa, na Ka Levu Duadua, na Dauveivosoti Sega ni vakaiyalayala.*`Abdu'l-Bahá*1. Qur’an 51:56*2. Qur’an 55:19-22
 
 -- Abdu'l-Bahá
 
-bpn6969 «[Fiji](../fj/prayers/#bpn6969)» 
+bpn6969 
 
 ----
 
@@ -601,11 +602,11 @@ bpn6969 «[Fiji](../fj/prayers/#bpn6969)»
 ## NAW-RÚZ
 
 <a id="bpn6991"></a> 
-#NA I MATAI NI SIGA NI DUA NA YABAKI VAKA-BAHÁ’Í##‘NAW-RÚZ‘ *(Na i Matai ni Siga ni Yabaki vou Vaka-Bahá&#39;í - ‘Naw-Rúz&#39;, o ya e na i ka 21 ni Maji, sa i koya na i matai ni siga e na i vola ni vula Vaka-Bahá&#39;í.)Mo ni sa vakalagilagi, O i Kemuni na noqu Kalou, ni O ni sa digitaka me siga ni soqo ni marau na i Matai ni Siga oqo (Naw-Rúz) vei ira ka ra dau vakamuria na lolo e na nodra lomani Kemuni ka vakatatabutaki ira mai na veika e tawakilikili vei Kemuni. Ni vakadonuya mada, I noqu Turaga, me vakatakatataka na nodra cakacaka e na Nomuni iNaki na bukawaqa ni Nomuni loloma kei na yameyame ni buka e vakacaudrevi e na vuku ni lolo oqo. O ni sa vakarautaka e na Nomuni veivakalagilagi kei na veivakanananu me baleti Kemuni,  Me vaka ni O ni sa vakaiukuukutaki ira, Kemuni na noqu Turaga, e na i ukuuku ni lolo O ni a vakarota, Ni vakaiukuukutaki ira tale ga e na i ukuuku ni Nomuni veiciqomi, e na vuku ni Nomuni loloma kei na Nomuni veivuke levu duadua. Na veika era vakaitavitaki ira kina na  tamata e vakatau vakatabakidua ga e na Nomuni lagilagi, ka vakataulewa tale ga kina na Nomuni ivakaro. Ke vaka O ni sa vosota rawa e dua ka voroka na lawa ni lolo me vaka ga e dua ka dau vakamuria na lolo, e na nanumi tale ga o koya e na bula tawamudu me vakataki ira ga na dau vakamuria vali mai na lolo. Ia, ke vaka O ni sa vakarota ni sa voroka na lawa ni lolo e dua e vakayacora na kena i vakarau, e sa na okati o koya me vakaduka na iSulu Vakatui ni Nomuni iVakavuvuli, ka na tosoi vakayawa tale ga mai e na wai makare ni iVurevure ni bula oqo.Sa i Kemuni ga e na gauna sa laveti kina na Nomuni kuila, ka volai kotu kina vaka oqo, “Sa dodunu Mo ni vakacaucautaki e na vuku ni Nomuni veicakacaka&#34; kei na kena cereki na ivakaro ka volai koto kina, “Mo ni vakarogoci O i Kemuni me vaka na Nomuni lewa.” Mo ni sa vakatakila ni Nomuni na tikotiko oqo, I noqu Kalou, vei ira na Nomuni dauveiqaravi, ka me ra kila tiko ni uasivi ni veika kece sara e vakatau ga ki na Nomuni lewa kei na Nomuni vosa, kei na yalo vosota e na veicakacaka kece e vakatau duadua ga ki na Nomuni galala kei na gagadre lagilagi ni Nomuni lewa, ka me ra raica tale ga ni vurevure ni veika e vakayacora rawa na tamata e sa tu vakatabakidua e na Nomuni veiciqomi kei na Nomuni veivakaroti. Me vakatakilai vei ira ni sega tale ni dua na ka e na vakalati ira mai na Nomuni Totoka, e na veisiga oqo ka vakadeitaka kina na Karisito ka kaya: “Na veimatanitu kece e Nomuni, O i Kemuni ka dau vakavurea na Yalo Tabu(Jisu)&#34;; na Nomuni iTokani o (Mometa) e a kailavaka mai: ‘Me vakalagilagi tiko ga O i Kemuni, O i Kemuni na Daulomani Uasivi Duadua, e na vuku ni Nomuni vakaraitaka na Nomuni Totoka, ka vola vei ira na Nomuni tamata digitaki na veika e na vukei ira me ra yacova rawa kina na i dabedabe ki na ivakatakilakila ni Yaca Tabu Levu Duadua, me vaka era dau tagica o ira kece na tamata ka vakavo ga o ira ka ra vakanadakuya na veika kece vakavuravura ka vakararavi vakatabakidua ga vei Kemuni, ka ra vakarautaki ira tale ga vua, O Koya na Nomuni iLumuti ka Daunivakavuvuli ni Nomuni veika vinaka.’O Koya na Tabamuni kei ira kece era dau Nomuni i tokani, O i Kemuni na noqu Turaga, era sa tinia e na siga e daidai na nodra lolo, ni oti na nodra vakamuria voli mai e na lomanibai ni Nomuni valenilewa, me vaka na nodra sasaga me ra vakayalomarautaki Kemuni. Ni lewa mada Vua, kei ira kece tale ga, era curuma rawa na Nomuni itikotiko e na veisiga sa oti oqo na veika vinaka kece O ni sa vota tu me vaka sa tu e na Nomuni iVola. Solia gona, vei ira, na veika e na vakasaututaki ira, e na bula oqo, kei na bula e sa bera mai.Sa i Kemuni, e dina, na Vu ni Kilaka, na Vu ni Vuku.
+#NA I MATAI NI SIGA NI DUA NA YABAKI VAKA-BAHÁ’Í##‘NAW-RÚZ‘ *(Na i Matai ni Siga ni Yabaki vou Vaka-Bahá'í - ‘Naw-Rúz', o ya e na i ka 21 ni Maji, sa i koya na i matai ni siga e na i vola ni vula Vaka-Bahá'í.)Mo ni sa vakalagilagi, O i Kemuni na noqu Kalou, ni O ni sa digitaka me siga ni soqo ni marau na i Matai ni Siga oqo (Naw-Rúz) vei ira ka ra dau vakamuria na lolo e na nodra lomani Kemuni ka vakatatabutaki ira mai na veika e tawakilikili vei Kemuni. Ni vakadonuya mada, I noqu Turaga, me vakatakatataka na nodra cakacaka e na Nomuni iNaki na bukawaqa ni Nomuni loloma kei na yameyame ni buka e vakacaudrevi e na vuku ni lolo oqo. O ni sa vakarautaka e na Nomuni veivakalagilagi kei na veivakanananu me baleti Kemuni,  Me vaka ni O ni sa vakaiukuukutaki ira, Kemuni na noqu Turaga, e na i ukuuku ni lolo O ni a vakarota, Ni vakaiukuukutaki ira tale ga e na i ukuuku ni Nomuni veiciqomi, e na vuku ni Nomuni loloma kei na Nomuni veivuke levu duadua. Na veika era vakaitavitaki ira kina na  tamata e vakatau vakatabakidua ga e na Nomuni lagilagi, ka vakataulewa tale ga kina na Nomuni ivakaro. Ke vaka O ni sa vosota rawa e dua ka voroka na lawa ni lolo me vaka ga e dua ka dau vakamuria na lolo, e na nanumi tale ga o koya e na bula tawamudu me vakataki ira ga na dau vakamuria vali mai na lolo. Ia, ke vaka O ni sa vakarota ni sa voroka na lawa ni lolo e dua e vakayacora na kena i vakarau, e sa na okati o koya me vakaduka na iSulu Vakatui ni Nomuni iVakavuvuli, ka na tosoi vakayawa tale ga mai e na wai makare ni iVurevure ni bula oqo.Sa i Kemuni ga e na gauna sa laveti kina na Nomuni kuila, ka volai kotu kina vaka oqo, “Sa dodunu Mo ni vakacaucautaki e na vuku ni Nomuni veicakacaka" kei na kena cereki na ivakaro ka volai koto kina, “Mo ni vakarogoci O i Kemuni me vaka na Nomuni lewa.” Mo ni sa vakatakila ni Nomuni na tikotiko oqo, I noqu Kalou, vei ira na Nomuni dauveiqaravi, ka me ra kila tiko ni uasivi ni veika kece sara e vakatau ga ki na Nomuni lewa kei na Nomuni vosa, kei na yalo vosota e na veicakacaka kece e vakatau duadua ga ki na Nomuni galala kei na gagadre lagilagi ni Nomuni lewa, ka me ra raica tale ga ni vurevure ni veika e vakayacora rawa na tamata e sa tu vakatabakidua e na Nomuni veiciqomi kei na Nomuni veivakaroti. Me vakatakilai vei ira ni sega tale ni dua na ka e na vakalati ira mai na Nomuni Totoka, e na veisiga oqo ka vakadeitaka kina na Karisito ka kaya: “Na veimatanitu kece e Nomuni, O i Kemuni ka dau vakavurea na Yalo Tabu(Jisu)"; na Nomuni iTokani o (Mometa) e a kailavaka mai: ‘Me vakalagilagi tiko ga O i Kemuni, O i Kemuni na Daulomani Uasivi Duadua, e na vuku ni Nomuni vakaraitaka na Nomuni Totoka, ka vola vei ira na Nomuni tamata digitaki na veika e na vukei ira me ra yacova rawa kina na i dabedabe ki na ivakatakilakila ni Yaca Tabu Levu Duadua, me vaka era dau tagica o ira kece na tamata ka vakavo ga o ira ka ra vakanadakuya na veika kece vakavuravura ka vakararavi vakatabakidua ga vei Kemuni, ka ra vakarautaki ira tale ga vua, O Koya na Nomuni iLumuti ka Daunivakavuvuli ni Nomuni veika vinaka.’O Koya na Tabamuni kei ira kece era dau Nomuni i tokani, O i Kemuni na noqu Turaga, era sa tinia e na siga e daidai na nodra lolo, ni oti na nodra vakamuria voli mai e na lomanibai ni Nomuni valenilewa, me vaka na nodra sasaga me ra vakayalomarautaki Kemuni. Ni lewa mada Vua, kei ira kece tale ga, era curuma rawa na Nomuni itikotiko e na veisiga sa oti oqo na veika vinaka kece O ni sa vota tu me vaka sa tu e na Nomuni iVola. Solia gona, vei ira, na veika e na vakasaututaki ira, e na bula oqo, kei na bula e sa bera mai.Sa i Kemuni, e dina, na Vu ni Kilaka, na Vu ni Vuku.
 
 -- Bahá'u'lláh
 
-bpn6991 «[Fiji](../fj/prayers/#bpn6991)» 
+bpn6991 
 
 ----
 
@@ -619,7 +620,7 @@ E na rawa li vakacava me u digitaka na moce, O i Kemuni na Kalou, na noqu Kalou,
 
 -- Bahá'u'lláh
 
-bpn6985 «[Fiji](../fj/prayers/#bpn6985)» 
+bpn6985 
 
 ----
 

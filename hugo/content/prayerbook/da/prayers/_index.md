@@ -5,6 +5,7 @@ tags = ['lang=da', 'prayerbook']
 
 
 
+
 [Adskillelsens Ild](#Adskillelsens+Ild)
 
 [Aften](#Aften)
@@ -87,7 +88,7 @@ I Guds Navn, Den Allerældste, Den Største.*I sandhed, de oprigtiges hjerter fo
 
 -- Bahá'u'lláh
 
-bpn8148 «[Dansk](../da/prayers/#bpn8148)» 
+bpn8148 
 
 ----
 
@@ -101,7 +102,7 @@ O min Gud, min Mester, Målet for min længsel! Denne Din tjener søger at sove 
 
 -- Bahá'u'lláh
 
-bpn8006 «[Dansk](../da/prayers/#bpn8006)» 
+bpn8006 
 
 ----
 
@@ -111,7 +112,7 @@ Hvordan kan jeg vælge at sove, o Gud, min Gud, når de, der længes efter Dig, 
 
 -- Bahá'u'lláh
 
-bpn8007 «[Dansk](../da/prayers/#bpn8007)» 
+bpn8007 
 
 ----
 
@@ -121,7 +122,7 @@ O du sandhedssøgende! Hvis du ønsker, at Gud skal åbne dine øjne, må du anr
 
 -- Abdu'l-Bahá
 
-bpn8008 «[Dansk](../da/prayers/#bpn8008)» 
+bpn8008 
 
 ----
 
@@ -135,7 +136,7 @@ Lovet være Du, o Herre min Gud! Du ser og ved, at jeg har opfordret Dine tjener
 
 -- Bahá'u'lláh
 
-bpn8009 «[Dansk](../da/prayers/#bpn8009)» 
+bpn8009 
 
 ----
 
@@ -145,7 +146,7 @@ Lovpriset være Du, o Herre min Gud! Dette er Din tjener, der af Din nådes hæn
 
 -- Bahá'u'lláh
 
-bpn8010 «[Dansk](../da/prayers/#bpn8010)» 
+bpn8010 
 
 ----
 
@@ -155,7 +156,7 @@ Priset være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Dit navn, hvorved
 
 -- Bahá'u'lláh
 
-bpn8011 «[Dansk](../da/prayers/#bpn8011)» 
+bpn8011 
 
 ----
 
@@ -165,7 +166,7 @@ O Gud, min Gud! Jeg har begivet mig bort fra mit hjem, medens jeg holder fast ve
 
 -- Bahá'u'lláh
 
-bpn8012 «[Dansk](../da/prayers/#bpn8012)» 
+bpn8012 
 
 ----
 
@@ -175,7 +176,7 @@ Bestem for mig, O min Herre, og for dem der tror på Dig det, der synes bedst fo
 
 -- Báb
 
-bpn8013 «[Dansk](../da/prayers/#bpn8013)» 
+bpn8013 
 
 ----
 
@@ -185,17 +186,17 @@ bpn8013 «[Dansk](../da/prayers/#bpn8013)»
 
 -- Báb
 
-bpn8014 «[Dansk](../da/prayers/#bpn8014)» 
+bpn8014 
 
 ----
 
 
 <a id="bpn8015"></a> 
-I Guds Navn, Herren af overvældende majestæt, Den Almagtsfulde.Helliget være Herren, kilden til herredømme er i Hans hånd. Han skaber, hvad Han end vil ved sit ord, der byder &#34;Bliv&#34;, og det er. Ham har myndigheden forhen tilhørt, og hos Ham vil den forblive herefter. Han gør, hvem Han end ønsker det, sejrrig ved kraften i Hans bud. Han er i sandhed Den Magtfulde, Den Almægtige. Ham tilhører al ære og majestæt i åbenbaringens og skabelsens riger, og hvad der end er dem imellem. I sandhed, Han er den Stærke, Den Herligste. Fra evig tid har Han været Kilden til uovervindelig styrke og skal således forblive til evig tid. Han er i sandhed magtens og styrkens Herre. Alle himlens og jordens riger, og hvad der end er dem imellem, er Guds, og Hans magt står over alt. Alle himlens og jordens skatte og alt, hvad der er dem imellem, er Hans, og Hans beskyttelse omfatter alt. Han er Skaberen af himlen og jorden, og hvad der end er dem imellem, og Han er i sandhed et vidne om alt. Han er regnskabets Herre for alle, der bor i himlene og på jorden, og hvad der end er dem imellem, og i sandhed, Gud er hastig til at gøre regnskabet op. Han fastsætter målet tildelt alle, der er i himlene og på jorden, og hvad der end er dem imellem. Sandelig, Han er den Højeste Beskytter. Han holder i sin hånd nøglerne til himlen og jorden og til alt, hvad der end er dem imellem. Ud fra sit eget behag skænker Han sine gaver ved styrken i sit bud. Hans nåde omfatter sandelig alt, og Han er Den Alvidende.Sig: Gud er fyldestgørende for mig; Han er Den Ene, der i sin hånd holder alle tings rige. VedH^p sine hærskarers styrke i himlen og på jorden, og hvad der end er dem imellem, beskytter Han enhver blandt sine tjenere, Han vil. Gud våger i sandhed over alt.Uendelig ophøjet er Du, o Herre! Beskærm os mod det, der ligger foran os og bag ved os, oven over vore hoveder, på vor højre og på vor venstre side, under vore fødder og i alle andre retninger. I sandhed, Din beskyttelse af alt er ufejlbarlig!
+I Guds Navn, Herren af overvældende majestæt, Den Almagtsfulde.Helliget være Herren, kilden til herredømme er i Hans hånd. Han skaber, hvad Han end vil ved sit ord, der byder "Bliv", og det er. Ham har myndigheden forhen tilhørt, og hos Ham vil den forblive herefter. Han gør, hvem Han end ønsker det, sejrrig ved kraften i Hans bud. Han er i sandhed Den Magtfulde, Den Almægtige. Ham tilhører al ære og majestæt i åbenbaringens og skabelsens riger, og hvad der end er dem imellem. I sandhed, Han er den Stærke, Den Herligste. Fra evig tid har Han været Kilden til uovervindelig styrke og skal således forblive til evig tid. Han er i sandhed magtens og styrkens Herre. Alle himlens og jordens riger, og hvad der end er dem imellem, er Guds, og Hans magt står over alt. Alle himlens og jordens skatte og alt, hvad der er dem imellem, er Hans, og Hans beskyttelse omfatter alt. Han er Skaberen af himlen og jorden, og hvad der end er dem imellem, og Han er i sandhed et vidne om alt. Han er regnskabets Herre for alle, der bor i himlene og på jorden, og hvad der end er dem imellem, og i sandhed, Gud er hastig til at gøre regnskabet op. Han fastsætter målet tildelt alle, der er i himlene og på jorden, og hvad der end er dem imellem. Sandelig, Han er den Højeste Beskytter. Han holder i sin hånd nøglerne til himlen og jorden og til alt, hvad der end er dem imellem. Ud fra sit eget behag skænker Han sine gaver ved styrken i sit bud. Hans nåde omfatter sandelig alt, og Han er Den Alvidende.Sig: Gud er fyldestgørende for mig; Han er Den Ene, der i sin hånd holder alle tings rige. VedH^p sine hærskarers styrke i himlen og på jorden, og hvad der end er dem imellem, beskytter Han enhver blandt sine tjenere, Han vil. Gud våger i sandhed over alt.Uendelig ophøjet er Du, o Herre! Beskærm os mod det, der ligger foran os og bag ved os, oven over vore hoveder, på vor højre og på vor venstre side, under vore fødder og i alle andre retninger. I sandhed, Din beskyttelse af alt er ufejlbarlig!
 
 -- Báb
 
-bpn8015 «[Dansk](../da/prayers/#bpn8015)» 
+bpn8015 
 
 ----
 
@@ -205,7 +206,7 @@ O Gud, min Gud! Værn Dine betroede tjenere mod selvets og lidenskabens onder, b
 
 -- Abdu'l-Bahá
 
-bpn8029 «[Dansk](../da/prayers/#bpn8029)» 
+bpn8029 
 
 ----
 
@@ -215,7 +216,7 @@ O min Herre! Du ved, at folket er indkredset af smerte og ulykker og omgivet af 
 
 -- Abdu'l-Bahá
 
-bpn8030 «[Dansk](../da/prayers/#bpn8030)» 
+bpn8030 
 
 ----
 
@@ -225,11 +226,11 @@ bpn8030 «[Dansk](../da/prayers/#bpn8030)»
 ## Besøgelsens Breve
 
 <a id="bpn8150"></a> 
-*Dette epistel læses ved Bahá’u’lláhs og Bábs gravmæler. Det benyttes også hyppigt ved højtideligholdelsen af Deres mindedage.Lovprisningen, der er gryet fra Dit mest ophøjede selv, og herligheden, der har strålet ud fra Din mest funklende Skønhed, hvile på Dig, o Du som er Storhedens Manifestation og Evighedens Konge og Herren over alle, der er i himlen og på jorden! Jeg bevidner, at gennem Dig blev Guds herredømme og Hans rige og Guds majestæt og Hans storhed åbenbaret, og dagstjernerne af urgammel stråleglans har kastet deres lys i Din uforanderlige lovs himmel og Den Usete Skønhed skinnet frem over skabelsens horisont. Jeg bevidner endvidere, at ved blot en bevægelse af Din pen er Din befaling &#34;Bliv&#34; blevet iværksat og Guds skjulte hemmelighed blevet afsløret og alt skabt kaldt til live og alle åbenbaringer sendt ned.Jeg vidner ydermere om, at ved Din skønhed er Den Tilbedtes skønhed blevet afsløret, og fra Dit ansigt er Den Attråedes ansigt strålet frem, og ved et ord fra Dig har Du sat skel mellem alt skabt og fået dem, der er Dig hengivne, til at stige op til Din herligheds tinde og de vantro til at falde i den dybeste afgrund.Jeg vidner om, at den, der har kendt Dig, har kendt Gud, og den, der er nået til Din tilstedeværelse, er nået til Guds nærvær. Stor er derfor velsignelsen for ham, der har troet på Dig og på Dine tegn og har bøjet sig for Dit herredømme og er blevet hædret ved at møde Dig og har opnået Din viljes velbehag og kredset om Dig og stået foran Din trone. Vé den der har forbrudt sig imod Dig og har fornægtet Dig og tilbagevist Dine tegn og afvist Dit herredømme og rejst sig imod Dig og hovmodet sig for Dit ansigt og har bestridt Dine vidnesbyrd og er flygtet fra Din lov og Dit herredømme og er blevet regnet til de vantro, hvis navne er blevet indskrevet af Din befalings hånd i Dine hellige breve.Før derfor, o min Gud og min Elskede, fra Din barmhjertigheds og Din kærligheds højre hånd Din nådes hellige åndedrag til mig, at de kan drage mig bort fra mig selv og fra verden til Din nærheds og Din tilstedeværelses boliger. Magtfuld er Du til at gøre, hvad der behager Dig. Du har i sandhed været den, der står over alle ting.Guds ihukommelse og Hans lovprisning og Guds herlighed og Hans stråleglans hvile på Dig, o Du som er Hans Skønhed! Jeg bevidner at skabelsens øje aldrig har betragtet nogen mere forurettet end Dig. Alle Dit livs dage var Du nedsænket i et hav af lidelser. På et tidspunkt var Du i lænker og jern, på et andet truedes Du af Dine fjenders sværd. Alligevel, trods alt dette, pålagde Du alle mennesker at overholde, hvad der var blevet Dig foreskrevet af Ham, der er Den Alvidende, Den Alvise.Må min ånd blive et offer for den uret Du led og min sjæl blive løsepenge for de lidelser Du bar.Jeg bønfalder Gud ved Dig og ved dem, hvis ansigter er blevet oplyst af strålerne fra Dit åsyns lys og som af kærlighed til Dig har overholdt alt, hvad der blev dem pålagt, om at fjerne de slør, der er kommet mellem Dig og Dine skabninger og forsyne mig med det gode i denne verden og den kommende. Du er i sandhed Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Evigt Tilgivende, Den Mest Medfølende.Velsign Du, o Herre min Gud, Det Guddommelige Lotustræ og dets blade og dets grene og dets kviste og dets hovedskud og dets sideskud, sålænge Dine mest fremragende betegnelser vil bestå og Dine mest majestætiske egenskaber vil vare. Beskyt det da mod angriberens onde anslag og tyranniets hærskarer. Du er i sandhed Den Almægtige, Den Mest Magtfulde. Velsign Du også, O Herre min Gud, Dine tjenere og Dine tjenerinder, der er nået frem til Dig. Du er i sandhed Den Mest Gavmilde, hvis nåde er uendelig. Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Mest Gavmilde.
+*Dette epistel læses ved Bahá’u’lláhs og Bábs gravmæler. Det benyttes også hyppigt ved højtideligholdelsen af Deres mindedage.Lovprisningen, der er gryet fra Dit mest ophøjede selv, og herligheden, der har strålet ud fra Din mest funklende Skønhed, hvile på Dig, o Du som er Storhedens Manifestation og Evighedens Konge og Herren over alle, der er i himlen og på jorden! Jeg bevidner, at gennem Dig blev Guds herredømme og Hans rige og Guds majestæt og Hans storhed åbenbaret, og dagstjernerne af urgammel stråleglans har kastet deres lys i Din uforanderlige lovs himmel og Den Usete Skønhed skinnet frem over skabelsens horisont. Jeg bevidner endvidere, at ved blot en bevægelse af Din pen er Din befaling "Bliv" blevet iværksat og Guds skjulte hemmelighed blevet afsløret og alt skabt kaldt til live og alle åbenbaringer sendt ned.Jeg vidner ydermere om, at ved Din skønhed er Den Tilbedtes skønhed blevet afsløret, og fra Dit ansigt er Den Attråedes ansigt strålet frem, og ved et ord fra Dig har Du sat skel mellem alt skabt og fået dem, der er Dig hengivne, til at stige op til Din herligheds tinde og de vantro til at falde i den dybeste afgrund.Jeg vidner om, at den, der har kendt Dig, har kendt Gud, og den, der er nået til Din tilstedeværelse, er nået til Guds nærvær. Stor er derfor velsignelsen for ham, der har troet på Dig og på Dine tegn og har bøjet sig for Dit herredømme og er blevet hædret ved at møde Dig og har opnået Din viljes velbehag og kredset om Dig og stået foran Din trone. Vé den der har forbrudt sig imod Dig og har fornægtet Dig og tilbagevist Dine tegn og afvist Dit herredømme og rejst sig imod Dig og hovmodet sig for Dit ansigt og har bestridt Dine vidnesbyrd og er flygtet fra Din lov og Dit herredømme og er blevet regnet til de vantro, hvis navne er blevet indskrevet af Din befalings hånd i Dine hellige breve.Før derfor, o min Gud og min Elskede, fra Din barmhjertigheds og Din kærligheds højre hånd Din nådes hellige åndedrag til mig, at de kan drage mig bort fra mig selv og fra verden til Din nærheds og Din tilstedeværelses boliger. Magtfuld er Du til at gøre, hvad der behager Dig. Du har i sandhed været den, der står over alle ting.Guds ihukommelse og Hans lovprisning og Guds herlighed og Hans stråleglans hvile på Dig, o Du som er Hans Skønhed! Jeg bevidner at skabelsens øje aldrig har betragtet nogen mere forurettet end Dig. Alle Dit livs dage var Du nedsænket i et hav af lidelser. På et tidspunkt var Du i lænker og jern, på et andet truedes Du af Dine fjenders sværd. Alligevel, trods alt dette, pålagde Du alle mennesker at overholde, hvad der var blevet Dig foreskrevet af Ham, der er Den Alvidende, Den Alvise.Må min ånd blive et offer for den uret Du led og min sjæl blive løsepenge for de lidelser Du bar.Jeg bønfalder Gud ved Dig og ved dem, hvis ansigter er blevet oplyst af strålerne fra Dit åsyns lys og som af kærlighed til Dig har overholdt alt, hvad der blev dem pålagt, om at fjerne de slør, der er kommet mellem Dig og Dine skabninger og forsyne mig med det gode i denne verden og den kommende. Du er i sandhed Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Evigt Tilgivende, Den Mest Medfølende.Velsign Du, o Herre min Gud, Det Guddommelige Lotustræ og dets blade og dets grene og dets kviste og dets hovedskud og dets sideskud, sålænge Dine mest fremragende betegnelser vil bestå og Dine mest majestætiske egenskaber vil vare. Beskyt det da mod angriberens onde anslag og tyranniets hærskarer. Du er i sandhed Den Almægtige, Den Mest Magtfulde. Velsign Du også, O Herre min Gud, Dine tjenere og Dine tjenerinder, der er nået frem til Dig. Du er i sandhed Den Mest Gavmilde, hvis nåde er uendelig. Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Mest Gavmilde.
 
 -- Bahá'u'lláh
 
-bpn8150 «[Dansk](../da/prayers/#bpn8150)» 
+bpn8150 
 
 ----
 
@@ -239,7 +240,7 @@ Denne bøn, åbenbaret af ’Abdu’l-Bahá læses ved hans gravmæle. Den benyt
 
 -- Abdu'l-Bahá
 
-bpn8151 «[Dansk](../da/prayers/#bpn8151)» 
+bpn8151 
 
 ----
 
@@ -249,11 +250,11 @@ bpn8151 «[Dansk](../da/prayers/#bpn8151)»
 ## Brevet Til Ahmad
 
 <a id="bpn8149"></a> 
-*”Disse daglige obligatoriske bønner, samt nogle få specielle, som Bønnen for Helbredelse og Brevet til Ahmad, er af Bahá’u’lláh blevet udrustet med en særlig kraft og betydning og skal derfor accepteres således og fremsiges af de troende med ubetinget tro og tillid, så de gennem dem kan komme i tættere forbindelse med Gud og identificere sig mere fuldstændigt med Hans love og forskrifter.&#34; - Fra et brev skrevet på Shoghi Effendis vegne.Han er Kongen, Den Alvidende, Den Vise!Hør, paradisets nattergal synger på kvistene af evighedens træ med hellige og blide toner og kundgør for de oprigtige de glade tidender om Guds nærhed og kalder dem, der tror på den guddommelige enhed, til boligen for Den Gavmildes nærvær og oplyser dem, der er udenfor, om budskabet, der er blevet åbenbaret af Gud, Kongen, Den Herlige, Den Uforlignelige, og leder de elskende til hellighedens sæde og til denne strålende Skønhed.Sandelig, dette er den allerstørste Skønhed, forudsagt i budbringernes bøger, gennem hvem sandhed skal blive skelnet fra vildfarelse, og visdommen i alle bud skal prøves. Sandelig, Han er det Livets Træ, der frembringer frugterne fra Gud, Den Ophøjede, Den Magtfulde, Den Store.O Ahmad! Bær du vidnesbyrd om at Han i sandhed er Gud, og der er ingen Gud uden Ham, Kongen, Beskytteren, Den Uforlignelige, Den Almægtige. Og at den, Han har udsendt ved navnet Alí var Den Ene Sande fra Gud, hvis bud vi alle må efterleve.Sig: O mennesker, vær lydige mod Guds bud, der er foreskrevet i Bayánen af Den Herlige, Den Vise. Sandelig, Han er Kongen over budbringerne, og Hans bog er Moderbogen, om I blot vidste det.Således udtrykker Nattergalen sin kalden til dig fra dette fængsel. Han skal kun overbringe dette klare budskab. Den, der måtte ønske det, lad ham vende sig bort fra dette råd, og den der ønsker det, lad ham vælge vejen til sin Herre.O mennesker, hvis I fornægter disse vers, hvilket bevis har I da for jeres tro på Gud? Fremlæg det, o forsamling af uærlige.Nej, ved Ham i hvis hånd min sjæl hviler, de er ikke og skal aldrig blive i stand til at gøre dette, selv om de skulle slutte sig sammen for at hjælpe hinanden.O Ahmad! Glem ikke Mine nådegaver medens Jeg er borte. Genkald dig Mine dage i dine dage og Min sorg og forvisning i dette fjerne fængsel. Og vær du så standhaftig i din kærlighed til Mig, at dit hjerte ikke vakler, selv om fjendernes sværd lader slagene hagle ned over dig, og alle himlene og jorden rejser sig imod dig.Vær du som en flammende ild for Mine fjender og en flod af evigt liv for Mine elskede og vær ikke blandt dem, der tvivler.Og hvis du rammes af lidelser på Min vej eller nedværdiges for Min skyld, så vær ikke bekymret derved.Stol på Gud, din Gud og dine forfædres Herre. For menneskene vandrer ad forblindelsens stier, berøvet indsigt til at se Gud med deres egne øjne eller høre Hans toner med deres egne øren.Således har vi fundet dem, hvilket du også kan bevidne.Således er deres overtro blevet til slør mellem dem og deres egne hjerter og har holdt dem borte fra vejen til Gud, Den Ophøjede, Den Store.Vær du forvisset i dig selv om, at den der vender sig bort fra denne Skønhed, i sandhed også har vendt sig bort fra fortidens sendebud og viser hovmod overfor Gud fra al evighed til al evighed.Lær dette brev godt, o Ahmad. Fremsig det i dine dage og hold dig ikke tilbage derfra. thi sandelig, Gud har bestemt til den, der fremsiger det, hundrede martyrers løn og en tjeneste i begge verdener. Disse gaver har Vi skænket dig som en gave fra Vor side og en barmhjertighed fra Vor nærværelse, at du må være blandt de taknemmelige.Ved Gud! Om et menneske, der lider eller sørger, læse dette brev med fuldkommen oprigtighed, vil Gud borttage hans sorg, løse hans vanskeligheder og fjerne hans lidelser.I sandhed, Han er Den Barmhjertige, Den Medfølende. Lovet være Gud, Herren over alle verdener.
+*”Disse daglige obligatoriske bønner, samt nogle få specielle, som Bønnen for Helbredelse og Brevet til Ahmad, er af Bahá’u’lláh blevet udrustet med en særlig kraft og betydning og skal derfor accepteres således og fremsiges af de troende med ubetinget tro og tillid, så de gennem dem kan komme i tættere forbindelse med Gud og identificere sig mere fuldstændigt med Hans love og forskrifter." - Fra et brev skrevet på Shoghi Effendis vegne.Han er Kongen, Den Alvidende, Den Vise!Hør, paradisets nattergal synger på kvistene af evighedens træ med hellige og blide toner og kundgør for de oprigtige de glade tidender om Guds nærhed og kalder dem, der tror på den guddommelige enhed, til boligen for Den Gavmildes nærvær og oplyser dem, der er udenfor, om budskabet, der er blevet åbenbaret af Gud, Kongen, Den Herlige, Den Uforlignelige, og leder de elskende til hellighedens sæde og til denne strålende Skønhed.Sandelig, dette er den allerstørste Skønhed, forudsagt i budbringernes bøger, gennem hvem sandhed skal blive skelnet fra vildfarelse, og visdommen i alle bud skal prøves. Sandelig, Han er det Livets Træ, der frembringer frugterne fra Gud, Den Ophøjede, Den Magtfulde, Den Store.O Ahmad! Bær du vidnesbyrd om at Han i sandhed er Gud, og der er ingen Gud uden Ham, Kongen, Beskytteren, Den Uforlignelige, Den Almægtige. Og at den, Han har udsendt ved navnet Alí var Den Ene Sande fra Gud, hvis bud vi alle må efterleve.Sig: O mennesker, vær lydige mod Guds bud, der er foreskrevet i Bayánen af Den Herlige, Den Vise. Sandelig, Han er Kongen over budbringerne, og Hans bog er Moderbogen, om I blot vidste det.Således udtrykker Nattergalen sin kalden til dig fra dette fængsel. Han skal kun overbringe dette klare budskab. Den, der måtte ønske det, lad ham vende sig bort fra dette råd, og den der ønsker det, lad ham vælge vejen til sin Herre.O mennesker, hvis I fornægter disse vers, hvilket bevis har I da for jeres tro på Gud? Fremlæg det, o forsamling af uærlige.Nej, ved Ham i hvis hånd min sjæl hviler, de er ikke og skal aldrig blive i stand til at gøre dette, selv om de skulle slutte sig sammen for at hjælpe hinanden.O Ahmad! Glem ikke Mine nådegaver medens Jeg er borte. Genkald dig Mine dage i dine dage og Min sorg og forvisning i dette fjerne fængsel. Og vær du så standhaftig i din kærlighed til Mig, at dit hjerte ikke vakler, selv om fjendernes sværd lader slagene hagle ned over dig, og alle himlene og jorden rejser sig imod dig.Vær du som en flammende ild for Mine fjender og en flod af evigt liv for Mine elskede og vær ikke blandt dem, der tvivler.Og hvis du rammes af lidelser på Min vej eller nedværdiges for Min skyld, så vær ikke bekymret derved.Stol på Gud, din Gud og dine forfædres Herre. For menneskene vandrer ad forblindelsens stier, berøvet indsigt til at se Gud med deres egne øjne eller høre Hans toner med deres egne øren.Således har vi fundet dem, hvilket du også kan bevidne.Således er deres overtro blevet til slør mellem dem og deres egne hjerter og har holdt dem borte fra vejen til Gud, Den Ophøjede, Den Store.Vær du forvisset i dig selv om, at den der vender sig bort fra denne Skønhed, i sandhed også har vendt sig bort fra fortidens sendebud og viser hovmod overfor Gud fra al evighed til al evighed.Lær dette brev godt, o Ahmad. Fremsig det i dine dage og hold dig ikke tilbage derfra. thi sandelig, Gud har bestemt til den, der fremsiger det, hundrede martyrers løn og en tjeneste i begge verdener. Disse gaver har Vi skænket dig som en gave fra Vor side og en barmhjertighed fra Vor nærværelse, at du må være blandt de taknemmelige.Ved Gud! Om et menneske, der lider eller sørger, læse dette brev med fuldkommen oprigtighed, vil Gud borttage hans sorg, løse hans vanskeligheder og fjerne hans lidelser.I sandhed, Han er Den Barmhjertige, Den Medfølende. Lovet være Gud, Herren over alle verdener.
 
 -- Bahá'u'lláh
 
-bpn8149 «[Dansk](../da/prayers/#bpn8149)» 
+bpn8149 
 
 ----
 
@@ -267,7 +268,7 @@ O Du uforlignelige Gud! O Du Kongerigets Herre! Disse sjæle er Din himmelske h�
 
 -- Abdu'l-Bahá
 
-bpn8154 «[Dansk](../da/prayers/#bpn8154)» 
+bpn8154 
 
 ----
 
@@ -277,7 +278,7 @@ Den der begiver sig ud på en undervisningsrejse til et hvilket som helst sted s
 
 -- Abdu'l-Bahá
 
-bpn8155 «[Dansk](../da/prayers/#bpn8155)» 
+bpn8155 
 
 ----
 
@@ -287,7 +288,7 @@ Lad enhver, der rejser i forskellige egne for at undervise læse denne bøn over
 
 -- Abdu'l-Bahá
 
-bpn8156 «[Dansk](../da/prayers/#bpn8156)» 
+bpn8156 
 
 ----
 
@@ -297,17 +298,17 @@ O Gud, min Gud! Du ser, hvordan tæt mørke indhyller alle egne, hvordan alle la
 
 -- Abdu'l-Bahá
 
-bpn8157 «[Dansk](../da/prayers/#bpn8157)» 
+bpn8157 
 
 ----
 
 
 <a id="bpn8158"></a> 
-Den følgende bøn skal læsesdagligt af lærerne og vennerne.O Du gode Herre! Priset være Du, at Du har vist os ledelsens brede vej, åbnet rigets døre og åbenbaret Dig gennem Virkelighedens Sol. Til de blinde har Du givet syn, de døve har Du skænket hørelse, Du har genoplivet de døde, Du har gjort de fattige rige, Du har vist de vildførte vejen, Du har ledet dem med tørre læber til ledelsens kildespring, Du har ladet den tørstende fisk nå virkelighedens hav, og Du har indbudt trækfuglene til nådens rosenhave.O Du Almægtige! Vi er Dine tjenere og Dine fattige, vi er fjerne og higer efter Din tilstedeværelse, vi tørster efter vandet fra Din kilde, vi er syge og længes efter Din helbredelse.Vi vandrer ad Din sti og har ikke noget mål eller håb undtagen udbredelse af Din vellugt, at alle sjæle må opløfte råbet, &#34;O Gud, led os til den lige vej.&#34; Måtte deres øjne blive åbnet for at skue lyset, måtte de blive befriet for uvidenhedens mørke. Måtte de samles om Din ledelses lampe. Måtte enhver tomhændet modtage en andel. Måtte de forsømte blive Dine mysteriers fortrolige.O Almægtige! Betragt os med barmhjertighedens blik. Skænk os himmelsk bekræftelse. Skænk os åndepustet fra Din Helligånd, at vi kan blive støttet i Din tjeneste og som strålende stjerner skinne i disse egne med Din ledelses lys.Sandelig, Du er Den Magtfulde, Den Mægtige, Den Vise og Den Seende.
+Den følgende bøn skal læsesdagligt af lærerne og vennerne.O Du gode Herre! Priset være Du, at Du har vist os ledelsens brede vej, åbnet rigets døre og åbenbaret Dig gennem Virkelighedens Sol. Til de blinde har Du givet syn, de døve har Du skænket hørelse, Du har genoplivet de døde, Du har gjort de fattige rige, Du har vist de vildførte vejen, Du har ledet dem med tørre læber til ledelsens kildespring, Du har ladet den tørstende fisk nå virkelighedens hav, og Du har indbudt trækfuglene til nådens rosenhave.O Du Almægtige! Vi er Dine tjenere og Dine fattige, vi er fjerne og higer efter Din tilstedeværelse, vi tørster efter vandet fra Din kilde, vi er syge og længes efter Din helbredelse.Vi vandrer ad Din sti og har ikke noget mål eller håb undtagen udbredelse af Din vellugt, at alle sjæle må opløfte råbet, "O Gud, led os til den lige vej." Måtte deres øjne blive åbnet for at skue lyset, måtte de blive befriet for uvidenhedens mørke. Måtte de samles om Din ledelses lampe. Måtte enhver tomhændet modtage en andel. Måtte de forsømte blive Dine mysteriers fortrolige.O Almægtige! Betragt os med barmhjertighedens blik. Skænk os himmelsk bekræftelse. Skænk os åndepustet fra Din Helligånd, at vi kan blive støttet i Din tjeneste og som strålende stjerner skinne i disse egne med Din ledelses lys.Sandelig, Du er Den Magtfulde, Den Mægtige, Den Vise og Den Seende.
 
 -- Abdu'l-Bahá
 
-bpn8158 «[Dansk](../da/prayers/#bpn8158)» 
+bpn8158 
 
 ----
 
@@ -317,7 +318,7 @@ Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget
 
 -- Abdu'l-Bahá
 
-bpn8159 «[Dansk](../da/prayers/#bpn8159)» 
+bpn8159 
 
 ----
 
@@ -327,7 +328,7 @@ Lad dem, der spreder Guds vellugte, fremsige denne bøn hver morgen.O Herre, min
 
 -- Abdu'l-Bahá
 
-bpn8160 «[Dansk](../da/prayers/#bpn8160)» 
+bpn8160 
 
 ----
 
@@ -337,7 +338,7 @@ Den følgende bøn skal læses... hver dag.O Gud! O Gud! Dette er en vingeskudt 
 
 -- Abdu'l-Bahá
 
-bpn8161 «[Dansk](../da/prayers/#bpn8161)» 
+bpn8161 
 
 ----
 
@@ -347,7 +348,7 @@ Priset være Du, o min Gud! Disse er Dine tjenere, der er tiltrukket af Din barm
 
 -- Abdu'l-Bahá
 
-bpn8162 «[Dansk](../da/prayers/#bpn8162)» 
+bpn8162 
 
 ----
 
@@ -357,7 +358,7 @@ De, der spreder Guds dufte, skal fremsige denne bøn hver morgen.O Gud, min Gud!
 
 -- Abdu'l-Bahá
 
-bpn8163 «[Dansk](../da/prayers/#bpn8163)» 
+bpn8163 
 
 ----
 
@@ -371,7 +372,7 @@ Lovet være Du, o Herre min Gud! Giv nådigt at dette spæde barn må få nærin
 
 -- Bahá'u'lláh
 
-bpn8031 «[Dansk](../da/prayers/#bpn8031)» 
+bpn8031 
 
 ----
 
@@ -381,7 +382,7 @@ O Du uforlignelige Herre! Lad dette spæde barn blive næret ved Din kærlige om
 
 -- Abdu'l-Bahá
 
-bpn8032 «[Dansk](../da/prayers/#bpn8032)» 
+bpn8032 
 
 ----
 
@@ -391,7 +392,7 @@ O Gud! Lad dette lille barn blive opfostret i Din kærligheds favn og giv det m�
 
 -- Abdu'l-Bahá
 
-bpn8033 «[Dansk](../da/prayers/#bpn8033)» 
+bpn8033 
 
 ----
 
@@ -401,7 +402,7 @@ O Gud! Oplær disse børn. Disse børn er planterne i Din frugthave, blomsterne 
 
 -- Abdu'l-Bahá
 
-bpn8034 «[Dansk](../da/prayers/#bpn8034)» 
+bpn8034 
 
 ----
 
@@ -411,7 +412,7 @@ O Du gode Herre! Disse dejlige børn er hvad Din krafts hænder har formet og de
 
 -- Abdu'l-Bahá
 
-bpn8035 «[Dansk](../da/prayers/#bpn8035)» 
+bpn8035 
 
 ----
 
@@ -421,7 +422,7 @@ O Herre! Gør disse børn til udsøgte planter. Lad dem vokse og udvikle sig i D
 
 -- Abdu'l-Bahá
 
-bpn8036 «[Dansk](../da/prayers/#bpn8036)» 
+bpn8036 
 
 ----
 
@@ -431,7 +432,7 @@ O Gud, led mig, beskyt mig, gør mig til en lysende lampe og en tindrende stjern
 
 -- Abdu'l-Bahá
 
-bpn8037 «[Dansk](../da/prayers/#bpn8037)» 
+bpn8037 
 
 ----
 
@@ -441,7 +442,7 @@ O min Herre, o min Herre!Jeg er et barn i den spæde alder. Giv mig næring fra 
 
 -- Abdu'l-Bahá
 
-bpn8038 «[Dansk](../da/prayers/#bpn8038)» 
+bpn8038 
 
 ----
 
@@ -451,7 +452,7 @@ O Uforlignelige Herre! Vær du et ly for dette arme barn og en god og tilgivende
 
 -- Abdu'l-Bahá
 
-bpn8039 «[Dansk](../da/prayers/#bpn8039)» 
+bpn8039 
 
 ----
 
@@ -461,7 +462,7 @@ O Herre! Gør dette unge menneske strålende og skænk Din gavmildhed til denne 
 
 -- Abdu'l-Bahá
 
-bpn8040 «[Dansk](../da/prayers/#bpn8040)» 
+bpn8040 
 
 ----
 
@@ -475,7 +476,7 @@ bpn8040 «[Dansk](../da/prayers/#bpn8040)»
 
 -- Bahá'u'lláh
 
-bpn8041 «[Dansk](../da/prayers/#bpn8041)» 
+bpn8041 
 
 ----
 
@@ -485,7 +486,7 @@ Han er Gud, ophøjet er Han, kærlig omsorgs og gavmildheds Herre!Ære være Dig
 
 -- Bahá'u'lláh
 
-bpn8042 «[Dansk](../da/prayers/#bpn8042)» 
+bpn8042 
 
 ----
 
@@ -495,7 +496,7 @@ O min Gud! O Du der tilgiver synder, skænker gaver, fjerner lidelser! I sandhed
 
 -- Abdu'l-Bahá
 
-bpn8043 «[Dansk](../da/prayers/#bpn8043)» 
+bpn8043 
 
 ----
 
@@ -505,7 +506,7 @@ O min Gud! O min Gud! I sandhed, din tjener har, ydmyg over for overmagten i Din
 
 -- Abdu'l-Bahá
 
-bpn8044 «[Dansk](../da/prayers/#bpn8044)» 
+bpn8044 
 
 ----
 
@@ -515,11 +516,11 @@ bpn8044 «[Dansk](../da/prayers/#bpn8044)»
 ## Den Hellige Søfarer
 
 <a id="bpn8169"></a> 
-*”Studer Den Hellige Søfarer, at I kan kende sandheden og tænke på, at Den Velsignede Skønne til fulde har forudsagt fremtidige begivenheder. Lad dem, der ser være advaret.” – &#39;Abdu&#39;l-BaháHan er Den Nådige, Den højt Elskede! O Hellige Søfarer! Byd din evigheds ark komme til syne for den himmelske forsamling,Lovpriset være min Herre, Den Alherlige!Søsæt den på det urgamle hav i Hans navn, Den Mest Underfulde,Lovpriset være min Herre, Den Alherlige!Og lad de englelige sjæle træde derind i Guds navn, Den Allerhøjeste!Lovpriset være min Herre, Den Alherlige!Kast da fortøjningerne at den kan sejle på herlighedens hav,Lovpriset være min Herre, Den Alherlige!Måske vil de ombordværende nå nærhedens tilflugtssted i det evige rige.Lovpriset være min Herre, Den Alherlige!Efter at have nået den hellige strand, de purpurfarvede haves kyst,Lovpriset være min Herre, Den Alherlige!Byd dem træde frem og opnå dette æteriske, usynlige stade.Lovpriset være min Herre, Den Alherlige!Et stade hvor herren i sin skønheds flamme viste sig i det udødelige træ,Lovpriset være min Herre, Den Alherlige!Hvor legemliggørelserne af Hans sag rensede sig for selvet og lidenskaben,Lovpriset være min Herre, Den Alherlige!Hvorom Moses’ herlighed kredser med de evige hærskarer,Lovpriset være min Herre, Den Alherlige!Hvor Guds hånd blev draget frem fra Hans storheds bryst,Lovpriset være min Herre, Den Alherlige!Hvori sagens ark forbliver ubevægelig, selv om alle guddommelige egenskaber bliver forkyndt for dens beboere,Lovpriset være min Herre, Den Alherlige!O søfarer! Fortæl dem i arken hvad vi har lært dig bag det mystiske slør!Lovpriset være min Herre, Den Alherlige!Måske vil de ikke tøve på det hellige snehvide sted,Lovpriset være min Herre, Den Alherlige!Men hæve sig på åndens vinger til det stade, som Herren har ophøjet over al tale i verdenerne dernede,Lovpriset være min Herre, Den Alherlige!Og flyve gennem rummet som de udvalgte fugle i den evige forenings rige,Lovpriset være min Herre, Den Alherlige!Og kende mysterierne skjult i havene af lys,Lovpriset være min Herre, Den Alherlige!De tilbagelagde stadierne i verdslige begrænsninger og nåede den guddommelige enheds stade, den himmelskes ledelses midtpunkt,Lovpriset være min Herre, Den Alherlige!De har ønsket at stige op til det stade, som Herren har bestemt til at være over deres stade.Lovpriset være min Herre, Den Alherlige!Hvorpå den flammende meteor udstødte dem fra dem, der bor i Hans nærværelses rige,Lovpriset være min Herre, Den Alherlige!Og de hørte Storhedens Stemme bag den usynlige pavillon på herlighedens tinde,Lovpriset være min Herre, Den Alherlige!*”O skytsengle! Send dem tilbage til deres bolig i verden dernede,Lovpriset være min Herre, Den Alherlige!*”Eftersom de har villet ophøje sig til den sfære, som den himmelske dues vinger aldrig nåede,Lovpriset være min Herre, Den Alherlige!*”Hvorefter drømmeskibet står stille og det kan tanken hos dem, der fatter, ikke forstå.”Lovpriset være min Herre, Den Alherlige!Da så himlens jomfru ud af sit høje kammer,Lovpriset være min Herre, Den Alherlige!Og gav med sit øjenbryn tegn til den himmelske forsamling,Lovpriset være min Herre, Den Alherlige!Og badede himlen og jorden med lyset fra sit åsyn,Lovpriset være min Herre, Den Alherlige!Og da hendes skønheds stråleglans skinnede på støvets folk,Lovpriset være min Herre, Den Alherlige!Rystedes alle væsener i deres dødelige grave,Lovpriset være min Herre, Den Alherlige!Da opløftede hun det råb, som intet øre i al evighed har hørt,Lovpriset være min Herre, Den Alherlige!Og forkyndte således: &#34;Ved Herren! Den hvis hjerte ikke ejer duften af kærlighed til Den ophøjede og strålende Arabiske Yngling,Lovpriset være min Herre, Den Alherlige!*”Kan ingenlunde hæve sig til den højeste himmelske herlighed.”Lovpriset være min Herre, Den Alherlige!Hvorpå hun tilkaldte en af sine tjenerinder,Lovpriset være min Herre, Den Alherlige!Og bød hende, &#34;Stig ned i rummet fra evighedens boliger,Lovpriset være min Herre, den Alherlige!*”Og vend dig mod det de har skjult i deres hjerters inderste,Lovpriset være min Herre, Den Alherlige!*”Om du mærkede duften af Ynglingens klædning, Han, der har været skjult i lysets helligdom på grund af det de onde har forøvet,Lovpriset være min Herre, Den Alherlige!*”Udstød da et skrig i dit indre, at alle beboere af paradisets boliger, der er legemliggørelserne af evig rigdom, kan forstå og lytte,Lovpriset være min Herre, Den Alherlige!*”At de alle må komme ned fra deres evige boliger og skælve,Lovpriset være min Herre, Den Alherlige!*”Og kysse deres hænder og fødder fordi de har hævet sig til troskabens højder,Lovpriset være min Herre, Den Alherlige!*”Måske vil de i deres klædedragt fornemme duften af den Elskede!”Lovpriset være min Herre, Den Alherlige!Derpå strålede den udvalgte jomfrus åsyn over de himmelske boliger som det lys der skinner fra Ynglingens ansigt over Hans forgængelige tempel,Lovpriset være min Herre, Den Alherlige!Derpå steg hun ned med en pragt der kunne oplyse himlene og alt hvad de indeholder,Lovpriset være min Herre, Den Alherlige!Hun vågnede til dåd og spredte vellugt over alle ting i hellighedens og storhedens lande,Lovpriset være min Herre, Den Alherlige!Da hun nåede det sted rejste hun sig i sin fulde højde i skabelsens inderste hjerte Lovpriset være min Herre, Den Alherlige!Og søgte at indånde deres duft i en tid der hverken kender begyndelse eller ende,Lovpriset være min Herre, Den Alherlige!Hun fandt ikke i dem det hun begærede, og dette er i sandhed blot en af Hans underfulde beretninger,Lovpriset være min Herre, den Alherlige!Da skreg hun højt og jamrede og vendte tilbage til sit eget stade i sin mest ophøjede bolig,Lovpriset være min Herre, Den Alherlige!Og udtalte da ét mystisk ord hvisket i hemmelighed med honningsød tale,Lovpriset være min Herre, Den Alherlige!Og opløftede råbet i den himmelske forsamling og blandt himlens udødelige jomfruer Lovpriset være min Herre, Den Alherlige!*”Ved Herren; Jeg fandt ikke blandt disse forfængelige prætendenter troskabens brise.Lovpriset være min Herre, Den Alherlige!*”Ved Herren! Ynglingen forblev alene og svigtet i landflygtighedens land i de gudløses hænder.”Lovpriset være min Herre, Den Alherlige!Da opløftede hun fra sit inderste et sådant klageråb, at den himmelske forsamling skreg og skælvede,Lovpriset være min Herre, Den Alherlige!Og hun faldt om i støvet og opgav ånden. Det syntes som blev der kaldt på hende, og hun lyttede til Ham, der kaldte hende til riget i det høje,Lovpriset være min Herre, Den Alherlige!Lovpriset være Han der skabte hende ud af kærlighedens inderste væsen i sit ophøjede paradis’ inderste hjerte,Lovpriset være min Herre, Den Alherlige!Derpå ilede himlens jomfruer, hvis ansigter ingen, der bor i det højeste paradis, nogensinde har skuet, ud af deres kamre,Lovpriset være vor Herre, Den Allerhøjeste!De samledes alle om hende og se! De fandt hende styrtet om i støvet Lovpriset være vor Herre, Den Allerhøjeste!Og da de så hendes tilstand og fattede et ord af Ynglingens beretning blottede de deres hoveder,sønderrev deres klæder, slog sig i ansigtet, glemte deres glæde, udgød tårer, slog sig på kinderne med hænderne og dette er sandelig en af de mystiske, frygtelige prøvelser - Lovpriset være vor Herre, Den Allerhøjeste!
+*”Studer Den Hellige Søfarer, at I kan kende sandheden og tænke på, at Den Velsignede Skønne til fulde har forudsagt fremtidige begivenheder. Lad dem, der ser være advaret.” – 'Abdu'l-BaháHan er Den Nådige, Den højt Elskede! O Hellige Søfarer! Byd din evigheds ark komme til syne for den himmelske forsamling,Lovpriset være min Herre, Den Alherlige!Søsæt den på det urgamle hav i Hans navn, Den Mest Underfulde,Lovpriset være min Herre, Den Alherlige!Og lad de englelige sjæle træde derind i Guds navn, Den Allerhøjeste!Lovpriset være min Herre, Den Alherlige!Kast da fortøjningerne at den kan sejle på herlighedens hav,Lovpriset være min Herre, Den Alherlige!Måske vil de ombordværende nå nærhedens tilflugtssted i det evige rige.Lovpriset være min Herre, Den Alherlige!Efter at have nået den hellige strand, de purpurfarvede haves kyst,Lovpriset være min Herre, Den Alherlige!Byd dem træde frem og opnå dette æteriske, usynlige stade.Lovpriset være min Herre, Den Alherlige!Et stade hvor herren i sin skønheds flamme viste sig i det udødelige træ,Lovpriset være min Herre, Den Alherlige!Hvor legemliggørelserne af Hans sag rensede sig for selvet og lidenskaben,Lovpriset være min Herre, Den Alherlige!Hvorom Moses’ herlighed kredser med de evige hærskarer,Lovpriset være min Herre, Den Alherlige!Hvor Guds hånd blev draget frem fra Hans storheds bryst,Lovpriset være min Herre, Den Alherlige!Hvori sagens ark forbliver ubevægelig, selv om alle guddommelige egenskaber bliver forkyndt for dens beboere,Lovpriset være min Herre, Den Alherlige!O søfarer! Fortæl dem i arken hvad vi har lært dig bag det mystiske slør!Lovpriset være min Herre, Den Alherlige!Måske vil de ikke tøve på det hellige snehvide sted,Lovpriset være min Herre, Den Alherlige!Men hæve sig på åndens vinger til det stade, som Herren har ophøjet over al tale i verdenerne dernede,Lovpriset være min Herre, Den Alherlige!Og flyve gennem rummet som de udvalgte fugle i den evige forenings rige,Lovpriset være min Herre, Den Alherlige!Og kende mysterierne skjult i havene af lys,Lovpriset være min Herre, Den Alherlige!De tilbagelagde stadierne i verdslige begrænsninger og nåede den guddommelige enheds stade, den himmelskes ledelses midtpunkt,Lovpriset være min Herre, Den Alherlige!De har ønsket at stige op til det stade, som Herren har bestemt til at være over deres stade.Lovpriset være min Herre, Den Alherlige!Hvorpå den flammende meteor udstødte dem fra dem, der bor i Hans nærværelses rige,Lovpriset være min Herre, Den Alherlige!Og de hørte Storhedens Stemme bag den usynlige pavillon på herlighedens tinde,Lovpriset være min Herre, Den Alherlige!*”O skytsengle! Send dem tilbage til deres bolig i verden dernede,Lovpriset være min Herre, Den Alherlige!*”Eftersom de har villet ophøje sig til den sfære, som den himmelske dues vinger aldrig nåede,Lovpriset være min Herre, Den Alherlige!*”Hvorefter drømmeskibet står stille og det kan tanken hos dem, der fatter, ikke forstå.”Lovpriset være min Herre, Den Alherlige!Da så himlens jomfru ud af sit høje kammer,Lovpriset være min Herre, Den Alherlige!Og gav med sit øjenbryn tegn til den himmelske forsamling,Lovpriset være min Herre, Den Alherlige!Og badede himlen og jorden med lyset fra sit åsyn,Lovpriset være min Herre, Den Alherlige!Og da hendes skønheds stråleglans skinnede på støvets folk,Lovpriset være min Herre, Den Alherlige!Rystedes alle væsener i deres dødelige grave,Lovpriset være min Herre, Den Alherlige!Da opløftede hun det råb, som intet øre i al evighed har hørt,Lovpriset være min Herre, Den Alherlige!Og forkyndte således: "Ved Herren! Den hvis hjerte ikke ejer duften af kærlighed til Den ophøjede og strålende Arabiske Yngling,Lovpriset være min Herre, Den Alherlige!*”Kan ingenlunde hæve sig til den højeste himmelske herlighed.”Lovpriset være min Herre, Den Alherlige!Hvorpå hun tilkaldte en af sine tjenerinder,Lovpriset være min Herre, Den Alherlige!Og bød hende, "Stig ned i rummet fra evighedens boliger,Lovpriset være min Herre, den Alherlige!*”Og vend dig mod det de har skjult i deres hjerters inderste,Lovpriset være min Herre, Den Alherlige!*”Om du mærkede duften af Ynglingens klædning, Han, der har været skjult i lysets helligdom på grund af det de onde har forøvet,Lovpriset være min Herre, Den Alherlige!*”Udstød da et skrig i dit indre, at alle beboere af paradisets boliger, der er legemliggørelserne af evig rigdom, kan forstå og lytte,Lovpriset være min Herre, Den Alherlige!*”At de alle må komme ned fra deres evige boliger og skælve,Lovpriset være min Herre, Den Alherlige!*”Og kysse deres hænder og fødder fordi de har hævet sig til troskabens højder,Lovpriset være min Herre, Den Alherlige!*”Måske vil de i deres klædedragt fornemme duften af den Elskede!”Lovpriset være min Herre, Den Alherlige!Derpå strålede den udvalgte jomfrus åsyn over de himmelske boliger som det lys der skinner fra Ynglingens ansigt over Hans forgængelige tempel,Lovpriset være min Herre, Den Alherlige!Derpå steg hun ned med en pragt der kunne oplyse himlene og alt hvad de indeholder,Lovpriset være min Herre, Den Alherlige!Hun vågnede til dåd og spredte vellugt over alle ting i hellighedens og storhedens lande,Lovpriset være min Herre, Den Alherlige!Da hun nåede det sted rejste hun sig i sin fulde højde i skabelsens inderste hjerte Lovpriset være min Herre, Den Alherlige!Og søgte at indånde deres duft i en tid der hverken kender begyndelse eller ende,Lovpriset være min Herre, Den Alherlige!Hun fandt ikke i dem det hun begærede, og dette er i sandhed blot en af Hans underfulde beretninger,Lovpriset være min Herre, den Alherlige!Da skreg hun højt og jamrede og vendte tilbage til sit eget stade i sin mest ophøjede bolig,Lovpriset være min Herre, Den Alherlige!Og udtalte da ét mystisk ord hvisket i hemmelighed med honningsød tale,Lovpriset være min Herre, Den Alherlige!Og opløftede råbet i den himmelske forsamling og blandt himlens udødelige jomfruer Lovpriset være min Herre, Den Alherlige!*”Ved Herren; Jeg fandt ikke blandt disse forfængelige prætendenter troskabens brise.Lovpriset være min Herre, Den Alherlige!*”Ved Herren! Ynglingen forblev alene og svigtet i landflygtighedens land i de gudløses hænder.”Lovpriset være min Herre, Den Alherlige!Da opløftede hun fra sit inderste et sådant klageråb, at den himmelske forsamling skreg og skælvede,Lovpriset være min Herre, Den Alherlige!Og hun faldt om i støvet og opgav ånden. Det syntes som blev der kaldt på hende, og hun lyttede til Ham, der kaldte hende til riget i det høje,Lovpriset være min Herre, Den Alherlige!Lovpriset være Han der skabte hende ud af kærlighedens inderste væsen i sit ophøjede paradis’ inderste hjerte,Lovpriset være min Herre, Den Alherlige!Derpå ilede himlens jomfruer, hvis ansigter ingen, der bor i det højeste paradis, nogensinde har skuet, ud af deres kamre,Lovpriset være vor Herre, Den Allerhøjeste!De samledes alle om hende og se! De fandt hende styrtet om i støvet Lovpriset være vor Herre, Den Allerhøjeste!Og da de så hendes tilstand og fattede et ord af Ynglingens beretning blottede de deres hoveder,sønderrev deres klæder, slog sig i ansigtet, glemte deres glæde, udgød tårer, slog sig på kinderne med hænderne og dette er sandelig en af de mystiske, frygtelige prøvelser - Lovpriset være vor Herre, Den Allerhøjeste!
 
 -- Bahá'u'lláh
 
-bpn8169 «[Dansk](../da/prayers/#bpn8169)» 
+bpn8169 
 
 ----
 
@@ -533,7 +534,7 @@ O min Gud! O min Gud! Foren Dine tjeneres hjerter og åbenbar for dem Dit store 
 
 -- Bahá'u'lláh
 
-bpn8045 «[Dansk](../da/prayers/#bpn8045)» 
+bpn8045 
 
 ----
 
@@ -543,7 +544,7 @@ O min Gud! O min Gud! I sandhed anråber jeg Dig og bønfalder Dig foran Din tæ
 
 -- Abdu'l-Bahá
 
-bpn8046 «[Dansk](../da/prayers/#bpn8046)» 
+bpn8046 
 
 ----
 
@@ -557,7 +558,7 @@ bpn8046 «[Dansk](../da/prayers/#bpn8046)»
 
 -- Báb
 
-bpn8047 «[Dansk](../da/prayers/#bpn8047)» 
+bpn8047 
 
 ----
 
@@ -567,7 +568,7 @@ Jeg beder om Din tilgivelse, O min Gud, og bønfalder om forladelse på den måd
 
 -- Báb
 
-bpn8048 «[Dansk](../da/prayers/#bpn8048)» 
+bpn8048 
 
 ----
 
@@ -577,7 +578,7 @@ O Herre! I denne allerstørste guddommelige ordning godtager Du børns forbøn f
 
 -- Abdu'l-Bahá
 
-bpn8049 «[Dansk](../da/prayers/#bpn8049)» 
+bpn8049 
 
 ----
 
@@ -587,7 +588,7 @@ O Gud, min Gud! Denne Din tjenerinde påkalder Dig, i tillid til Dig, med sit an
 
 -- Abdu'l-Bahá
 
-bpn8050 «[Dansk](../da/prayers/#bpn8050)» 
+bpn8050 
 
 ----
 
@@ -597,7 +598,7 @@ Min Herre! Min Herre! Jeg priser Dig, og jeg takker Dig for det, hvormed Du har 
 
 -- Abdu'l-Bahá
 
-bpn8051 «[Dansk](../da/prayers/#bpn8051)» 
+bpn8051 
 
 ----
 
@@ -607,11 +608,11 @@ bpn8051 «[Dansk](../da/prayers/#bpn8051)»
 ## Fasten
 
 <a id="bpn8181"></a> 
-*I Kitáb-i-Aqdas fastslås de:. &#34;Vi har befalet jer at bede og faste fra begyndelsen af modenheden, dette er forordnet af Gud, din Herre og dine forfædres Herre. Han har herfra fritaget dem, der er svækket af sygdom eller alder, som en gavmildhed fra Hans nærvær, og Han er tilgivende og gavmild.... Afhold jer fra mad og drikke fra solopgang til solnedgang, og vogt jer for, at ikke begær berøver jer denne nåde, som er bestemt i Bogen.”*Fasteperioden er fra d. 2. til d. 20. marts.Jeg bønfalder Dig, o min Gud, ved Dit stærke tegn og ved åbenbaringen af Din nåde blandt mennesker, om ikke at sende mig bort fra porten til Din nærværelses by og ikke at skuffe de håb, jeg har sat til manifestationerne af Din nåde midt blandt Dine skabninger. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din mest blide stemme og ved Dit mest ophøjede ord, om at drage mig stadig nærmere til tærsklen ved Din dør og om ikke at lade mig være langt fjernet fra Din barmhjertigheds skygge og Din gavmildheds tronhimmel. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved stråleglansen fra Din lysende pande og ved det klare lys fra Dit åsyn, der skinner fra den allerhøjeste horisont, om at tiltrække mig ved duften fra Din klædedragt, og lade mig drikke af Din tales udvalgte vin. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit hår, der bevæger sig hen over Dit ansigt, ligesom Din mest ophøjede pen bevæger sig hen over siderne i Dine epistler, udgydende moskus af skjult betydning over Din skabelses rige, om at løfte mig således op i tjeneste for Din sag, at jeg ikke skal falde tilbage, ej heller blive hindret af tankerne fra dem, der har bestridt Dine tegn og vendt sig bort fra Dit ansigt. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit navn, som Du har gjort til navnenes konge, hvorved alle, der er i himlen, og alle, der er på jorden, er blevet henrykket, om at gøre mig i stand til se ufravendt på Din skønheds dagstjerne og om at forsyne mig med Din tales vin. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din majestæts helligdom på de højeste tinder og Din åbenbarings tronhimmel på de største højder om nådigt at hjælpe mig til at gøre, hvad Din vilje har ønsket og Din hensigt har manifesteret. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din skønhed der skinner frem over evighedens horisont, en skønhed foran hvilken, så snart den åbenbarer sig, skønhedens rige bøjer sig ned i tilbedelse, prisende den i klingende toner, om at give, at jeg kan dø fra alt, hvad jeg ejer, og leve for alt, hvad der tilhører Dig. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved manifestationen af Dit Navn, Det Højt Elskede, gennem hvem Dine elskedes hjerter blev hentæret, og sjælene hos alle, der bor på jorden, har hævet sig højt, om at hjælpe mig at erindre Dig blandt Dine skabninger og at forherlige Dig blandt Dit folk. Du ser mig, O min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved det guddommelige lotustræs raslen og den sagte hvisken fra Din tales briser i Dine navnes rige, om at fjerne mig langt fra alt, hvad Din vilje afskyr, og drage mig nær hen til stadet, hvor Han, som er Dine tegns daggry, har skinnet frem. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved det bogstav, der så snart det udgik fra Din viljes mund, har fået havene til at bruse og vindene til at blæse og frugterne til at blive åbenbaret og træerne til at springe ud og alle fordums spor til at forsvinde og alle slør til at blive sønderrevet, og dem, der er Dig hengivne, til at haste frem mod lyset fra deres Herres åsyn, Den Uindskrænkede, om at gøre mig bekendt med, hvad der lå gemt og skjult i Din visdoms gemmer. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved ilden i Din kærlighed, der bortjog søvn fra Dine udvalgtes og Dine elskedes øjne, og ved deres erindring og lovprisning af Dig i dæmringstimen, om at tælle mig blandt dem, der er nået til det, som Du har nedsendt i Din Bog og manifesteret gennem Din vilje.Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved lyset fra Dit åsyn der tilskyndede dem, der er Dig nær, til at møde Din forordnings pile og dem, der er Dig hengivne, til at stå overfor Dine fjenders sværd på Din vej, om at nedskrive for mig, med Din mest ophøjede pen, hvad Du har nedskrevet for Dine betroede og Dine udvalgte. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit Navn ved hvilket Du har lyttet til Dine elskedes kalden og sukkene fra dem, der længes efter Dig, og råbet fra dem, der glædes ved at være Dig nær, og klagen fra dem, der er Dig hengivne, og ved hvilket Du har opfyldt ønskerne hos dem, der har sat deres håb til Dig og har tilfredsstillet deres længsel, ved Din nåde og Dine gaver og ved Dit navn, ved hvilket tilgivelsens hav brusede foran Dit ansigt, og Din ædelmodigheds skyer regnede på Dine tjenere, om at nedskrive for enhver, der har vendt sig mod Dig og overholdt fasten foreskrevet af Dig, belønningen bestemt for dem, der ikke taler undtagen med Din tilladelse, og som forsagede alt, hvad de ejede, på Din vej og af kærlighed til Dig.Jeg bønfalder Dig, o min Herre, ved Dig selv og ved Dine tegn og Dine klare vidnesbyrd og de strålende lys fra Din skønheds dagstjerne og Dine grene, om at slette overtrædelserne fra dem, der har holdt fast ved Dine love og har overholdt, hvad Du har foreskrevet dem i Din Bog. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Allerstørste, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.
+*I Kitáb-i-Aqdas fastslås de:. "Vi har befalet jer at bede og faste fra begyndelsen af modenheden, dette er forordnet af Gud, din Herre og dine forfædres Herre. Han har herfra fritaget dem, der er svækket af sygdom eller alder, som en gavmildhed fra Hans nærvær, og Han er tilgivende og gavmild.... Afhold jer fra mad og drikke fra solopgang til solnedgang, og vogt jer for, at ikke begær berøver jer denne nåde, som er bestemt i Bogen.”*Fasteperioden er fra d. 2. til d. 20. marts.Jeg bønfalder Dig, o min Gud, ved Dit stærke tegn og ved åbenbaringen af Din nåde blandt mennesker, om ikke at sende mig bort fra porten til Din nærværelses by og ikke at skuffe de håb, jeg har sat til manifestationerne af Din nåde midt blandt Dine skabninger. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din mest blide stemme og ved Dit mest ophøjede ord, om at drage mig stadig nærmere til tærsklen ved Din dør og om ikke at lade mig være langt fjernet fra Din barmhjertigheds skygge og Din gavmildheds tronhimmel. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved stråleglansen fra Din lysende pande og ved det klare lys fra Dit åsyn, der skinner fra den allerhøjeste horisont, om at tiltrække mig ved duften fra Din klædedragt, og lade mig drikke af Din tales udvalgte vin. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit hår, der bevæger sig hen over Dit ansigt, ligesom Din mest ophøjede pen bevæger sig hen over siderne i Dine epistler, udgydende moskus af skjult betydning over Din skabelses rige, om at løfte mig således op i tjeneste for Din sag, at jeg ikke skal falde tilbage, ej heller blive hindret af tankerne fra dem, der har bestridt Dine tegn og vendt sig bort fra Dit ansigt. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit navn, som Du har gjort til navnenes konge, hvorved alle, der er i himlen, og alle, der er på jorden, er blevet henrykket, om at gøre mig i stand til se ufravendt på Din skønheds dagstjerne og om at forsyne mig med Din tales vin. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din majestæts helligdom på de højeste tinder og Din åbenbarings tronhimmel på de største højder om nådigt at hjælpe mig til at gøre, hvad Din vilje har ønsket og Din hensigt har manifesteret. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Din skønhed der skinner frem over evighedens horisont, en skønhed foran hvilken, så snart den åbenbarer sig, skønhedens rige bøjer sig ned i tilbedelse, prisende den i klingende toner, om at give, at jeg kan dø fra alt, hvad jeg ejer, og leve for alt, hvad der tilhører Dig. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved manifestationen af Dit Navn, Det Højt Elskede, gennem hvem Dine elskedes hjerter blev hentæret, og sjælene hos alle, der bor på jorden, har hævet sig højt, om at hjælpe mig at erindre Dig blandt Dine skabninger og at forherlige Dig blandt Dit folk. Du ser mig, O min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved det guddommelige lotustræs raslen og den sagte hvisken fra Din tales briser i Dine navnes rige, om at fjerne mig langt fra alt, hvad Din vilje afskyr, og drage mig nær hen til stadet, hvor Han, som er Dine tegns daggry, har skinnet frem. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved det bogstav, der så snart det udgik fra Din viljes mund, har fået havene til at bruse og vindene til at blæse og frugterne til at blive åbenbaret og træerne til at springe ud og alle fordums spor til at forsvinde og alle slør til at blive sønderrevet, og dem, der er Dig hengivne, til at haste frem mod lyset fra deres Herres åsyn, Den Uindskrænkede, om at gøre mig bekendt med, hvad der lå gemt og skjult i Din visdoms gemmer. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved ilden i Din kærlighed, der bortjog søvn fra Dine udvalgtes og Dine elskedes øjne, og ved deres erindring og lovprisning af Dig i dæmringstimen, om at tælle mig blandt dem, der er nået til det, som Du har nedsendt i Din Bog og manifesteret gennem Din vilje.Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved lyset fra Dit åsyn der tilskyndede dem, der er Dig nær, til at møde Din forordnings pile og dem, der er Dig hengivne, til at stå overfor Dine fjenders sværd på Din vej, om at nedskrive for mig, med Din mest ophøjede pen, hvad Du har nedskrevet for Dine betroede og Dine udvalgte. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Mest Storslåede, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.Jeg bønfalder Dig, o min Gud, ved Dit Navn ved hvilket Du har lyttet til Dine elskedes kalden og sukkene fra dem, der længes efter Dig, og råbet fra dem, der glædes ved at være Dig nær, og klagen fra dem, der er Dig hengivne, og ved hvilket Du har opfyldt ønskerne hos dem, der har sat deres håb til Dig og har tilfredsstillet deres længsel, ved Din nåde og Dine gaver og ved Dit navn, ved hvilket tilgivelsens hav brusede foran Dit ansigt, og Din ædelmodigheds skyer regnede på Dine tjenere, om at nedskrive for enhver, der har vendt sig mod Dig og overholdt fasten foreskrevet af Dig, belønningen bestemt for dem, der ikke taler undtagen med Din tilladelse, og som forsagede alt, hvad de ejede, på Din vej og af kærlighed til Dig.Jeg bønfalder Dig, o min Herre, ved Dig selv og ved Dine tegn og Dine klare vidnesbyrd og de strålende lys fra Din skønheds dagstjerne og Dine grene, om at slette overtrædelserne fra dem, der har holdt fast ved Dine love og har overholdt, hvad Du har foreskrevet dem i Din Bog. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Allerstørste, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.
 
 -- Bahá'u'lláh
 
-bpn8181 «[Dansk](../da/prayers/#bpn8181)» 
+bpn8181 
 
 ----
 
@@ -621,17 +622,17 @@ Disse er, o min Gud, de dage hvor Du pålagde Dine tjenere at overholde fasten. 
 
 -- Bahá'u'lláh
 
-bpn8182 «[Dansk](../da/prayers/#bpn8182)» 
+bpn8182 
 
 ----
 
 
 <a id="bpn8183"></a> 
-Æret være Du, o Herre min Gud! Disse er de dage, hvorpå Du har pålagt alle mennesker at overholde fasten, at de derved kan rense deres sjæle og løsrive sig fra al tilknytning til nogen undtagen Dig, og for at der fra deres hjerter må opstå det, der er værdigt for Din majestæts bolig og sømmer sig for Din åbenbarings enheds sæde. Giv, o min Herre, at denne faste må blive en flod af livgivende vande og vil fremdrage de dyder, hvormed Du har beriget den. Rens ved dens hjælp Dine tjeneres hjerter hvem det onde i verden ikke har kunnet hindre i at vende sig til Dit alherlige navn, og som er forblevet uberørte af støjen og uroen fra dem, der har afvist Dine mest strålende tegn, der har ledsaget Din manifestations komme, som Du har forlenet med Dit herredømme, Din magt, Din majestæt og herlighed. Disse er de tjenere, der så snart Din kalden nåede dem ilede mod Din barmhjertighed og ikke blev tilbageholdt af denne verdens forandringer og tilfældigheder eller af nogle menneskelige begrænsninger.Jeg er den, o min Gud, der vidner om Din helhed, der anerkender Din enhed, der bøjer sig ydmygt for åbenbarelserne af Din majestæt, og som med bøjet hoved genkender lysets stråleglans fra Din overjordiske herlighed. Jeg har troet på Dig, efter Du lod mig kende Dit selv, som Du har åbenbaret for menneskers øjne gennem styrken i Dit herredømme og Din magt. Til Ham har jeg vendt mig, fuldkommen frigjort fra alt, medens jeg klynger mig trofast til Dine gavers og begunstigelsers reb.Jeg har modtaget Hans sandhed og sandheden i alle de underfulde love og forskrifter, der er blevet sendt ned til Ham. Jeg har fastet af kærlighed til Dig og i opfyldelse af Dit bud og har brudt min faste med Din pris på mine læber og i overensstemmelse med Dit velbehag. Lad mig ikke, o min Herre, blive talt blandt dem, der har fastet i dagtimerne, der ved nattetide har kastet sig ned for Dit ansigt og som har afvist Din sandhed, og tvivlet på Dine tegn, modsagt Dit vidnesbyrd og fordrejet Din tale.Luk Du mine øjne op, o min Herre, og øjnene hos alle, der har søgt Dig, at vi kan kende Dig med Dine egne øjne. Dette er Dit bud givet os i bogen nedsendt af Dig til Ham, som Du har udvalgt på Dit bud, som Du har udpeget til Din gunst over alle skabninger, som Du har behaget at udruste med Dit herredømme, og som Du særligt har begunstiget og betroet Dit budskab til Dit folk. Lovet være Du derfor, o min Gud, fordi Du nådigt har ladet os erkende Ham og anerkende alt, hvad der er blevet nedsendt til Ham, og skænket os den ære at opnå Den Enes tilstedeværelse, som Du lovede i Din bog og i Dine breve.Du ser mig da, o min Gud, med mit ansigt vendt til Dig og idet jeg klynger mig trofast til Dit nådige forsyns og gavmildheds reb og fastholde Din milde barmhjertigheds og gavmilde nådes kjortelsøm. Knus ikke, det bønfalder jeg Dig, mit håb om at opnå det, som Du bestemte for Dine tjenere, der har vendt sig mod Din boligs enemærker og Dit nærværs helligdom og har overholdt fasten af kærlighed til Dig. Jeg tilstår, o min Gud, at alt, hvad der kommer fra mig, er helt uværdigt for Dit herredømme og kommer til kort over for Din majestæt. Og dog bønfalder jeg Dig ved Dit navn, hvorved Du har åbenbaret Dit selv i Dine mest enestående betegnelsers stråleglans for alt skabt i denne åbenbaring, hvorigennem Du ved Dit mest lysende navn har manifesteret Din skønhed, om at give mig at drikke af Din barmhjertigheds vin og af Din nådes rene drik, der har flydt fra Din viljes højre hånd, at jeg kan fæste mit blik på Dig og være så løsrevet fra alt undtagen Dig, at verden og alt, hvad der er skabt i den, vil synes mig at være en flygtig dag, som Du ikke har fundet værdig at skabe.Jeg beder Dig tillige inderligt, o min Gud, om fra Din viljes himmel og Din barmhjertigheds skyer at lade det regne ned med det, der vil rense os for den modbydelige smag fra vore overtrædelser, o Du, som har kaldt Dig selv Barmhjertighedens Gud! Du er sandelig Den Mest Magtfulde, Den Alherlige, Den Godgørende.Jag ikke ham bort, o min Herre, der har vendt sig mod Dig, og lad ej heller ham der er draget dig nær blive fjernet langt væk fra Din bolig. Knus ikke håbet for den bedende der længselsfuldt har strakt sine hænder frem for at søge Din nåde og gunst, og formen ikke Dine hengivne tjenere underne i Din milde barmhjertighed og ømme medfølelse. Tilgivende og mest gavmild er Du, o min Herre! Magt har Du til at gøre, hvad Du ønsker. Alle andre end Du er magtesløse foran åbenbarelserne af Din magt, er som fortabte over for tegnene på Din rigdom, er som intet sammenlignet med manifestationerne af Dit overjordiske herredømme, og er berøvet al styrke stillet over for tegnene og vidnesbyrdene om Din magt. Hvilken tilflugt er der ud over Dig, o min Herre, som jeg kan søge, og hvor er der en havn jeg kan ile til? Nej, styrken i Din magt er mit vidne! Ingen beskytter er der uden Dig, intet sted at flygte til undtagen til Dig, ingen tilflugt at søge uden Dig.Lad mig, o min Herre, smage den guddommelige sødme i Din ihukommelse og pris. Jeg sværger ved Din magt! Hvem der end smager dens sødme vil frigøre sig for al tilknytning til verden og alt hvad den indeholder og vil rette sit ansigt mod Dig, renset for ihukommelsen af nogen undtagen Dig. Inspirer da min sjæl, o min Gud, med Din underfulde ihukommelse, så jeg kan forherlige Dit navn. Tæl mig ikke blandt dem der læser Dine ord og dog ikke finder Din skjulte gave, der, som det er forordnet af Dig, rummes deri, og som genopliver Dine skabningers sjæle og Dine tjeneres hjerter. Lad mig, o min Herre, blive talt blandt dem, der er blevet så bevæget af de sødmefulde dufte, der er svævet gennem luften i Din tid, at de har givet deres liv for Dig og er ilet til skuepladsen for deres død i deres længsel efter at beskue Din skønhed og i deres higen efter at opnå Din nærværelse. Om nogen på deres vej sagde til dem, &#34;Hvorhen går I?&#34; ville de sige, &#34;Til Gud, Den Altbesiddende, Hjælpen i fare, Den Selvbestående!”De overtrædelser, der er begået af dem, der har vendt sig bort fra Dig, og har vist sig hovmodige over for Dig, har ikke kunnet hindre dem i at elske Dig og i at vende deres ansigter mod Dig og i at vende sig imod Din barmhjertighed. Det er dem, der er velsignet af forsamlingen i det høje, der er forherliget af beboerne i de evige byer, og yderligere af dem, på hvis pande Din mest ophøjede pen har skrevet: &#34;Disse! Bahás folk. Gennem dem er ledelsens stråleglans blevet spredt.&#34; Således er det blevet forordnet på Dit bud og ved Din vilje i brevet om Dit uforanderlige bud.Bekendtgør derfor, o min Gud, deres storhed og storheden hos dem, der levende eller døde har kredset om dem. Forsyn dem med det Du har bestemt for de retfærdige blandt Dine skabninger.Magtfuld er Du til at udvirke alt. Der er ingen Gud uden Dig, Den Almagtsfulde, Hjælpen i fare, Den Almægtige, Den Mest Gavmilde.Lad ikke vor faste være tilendebragt med denne faste, o min Herre, ej heller de pagter Du har indgået med denne Pagt. Modtag alt hvad vi har gjort af kærlighed til Dig og for Din glædes skyld, og alt hvad vi har ladet ugjort som en følge af, at vi har underkastet os vore onde og slette ønsker. Lad os da blive i stand til at holde fast ved Din kærlighed og Dit velbehag og bevar os fra de onde anslag fra dem der har fornægtet Dig og afvist Dine mest strålende tegn. Du er i sandhed Herren i denne verden og i den næste. Ingen Gud er der ud over Dig, den Ophøjede, den Højeste.Herliggør Du, o Herre min Gud, Ham der er Det Første Punkt, Det Guddommelige Mysterium, Den Usete Essens, Daggryet for guddommelighed og manifestationen af Dit Herredømme, gennem hvem al fordums kundskab og al fremtidens kundskab blev klargjort, gennem hvem perlerne i Din skjulte visdom blev afdækket og mysteriet i Dit skattede navn afsløret, som Du har udpeget som forløberen for Ham, gennem hvis navn bogstaverne B L I V er blevet sammenføjet og forenet, gennem hvem Din majestæt, Dit herredømme og Din magt blev kendt, gennem hvem Dine ord er blevet sendt ned og Dine love fremsat med klarhed og Dine tegn vidt udbredt, og Dit ord grundfæstet, gennem hvem Dine udvalgtes hjerter blev blotlagte for alt, hvad der er i himlene, og alt, hvad der er på jorden, blev samlet, som Du har kaldt ’Alí-Muhammad i Dine navnes rige og ånden blandt ånder i brevene om Dit uigenkaldelige bud, som Du har forlenet med Din egen betegnelse, til hvis navn alle andre navne, på Dit bud og ved styrken i Din magt, er vendt tilbage, og i hvem Du har ladet alle Dine egenskaber og betegnelser opnå deres endelige fuldbyrdelse. Ham tilhører også de navne der ligger skjult i Dine lydefri helligdomme, i Din usynlige verden og Dine helliggjorte byer.Herligør Du endvidere dem der har troet på Ham og på Hans tegn og har vendt sig til Ham blandt dem, der har anerkendt Din enhed i Hans seneste manifestation - en manifestation som Han har omtalt i sine breve og i sine bøger og i sine skrifter og i alle de underfulde vers og juvellignende ytringer, der er steget ned til Ham. Det er denne samme manifestation, hvis Pagt Du har pålagt Ham at oprette, før Han havde oprettet sin egen Pagt. Ham er det, hvis pris Bayánen har lovsunget. I den er Hans udmærkelse blevet hyldet og Hans sandhed grundfæstet og Hans herredømme forkyndt og Hans sag fuldkommengjort. Velsignet er det menneske, der har vendt sig til Ham og opfyldt det, Han har påbudt, o Du som er verdenernes Herre og Attråen for alle dem, der har kendt Dig!Priset være Du, o min Gud, fordi Du har hjulpet os til at erkende og elske Ham. Derfor bønfalder jeg Dig ved Ham og ved dem, der er daggryene for Din guddommelighed, og manifestationerne af Dit herredømme og skatkamrene for Din åbenbaring og gemmestederne for Din inspiration, om at gøre os i stand til at tjene og lyde Ham og give os styrke til at blive hjælpere for Hans sag og splitte Hans fjender. Magtfuld er Du til at handle, som det behager Dig.Ingen Gud er der ud over Dig, Den Almægtige, Den Alherlige, den hvis hjælp søges af alle mennesker!
+Æret være Du, o Herre min Gud! Disse er de dage, hvorpå Du har pålagt alle mennesker at overholde fasten, at de derved kan rense deres sjæle og løsrive sig fra al tilknytning til nogen undtagen Dig, og for at der fra deres hjerter må opstå det, der er værdigt for Din majestæts bolig og sømmer sig for Din åbenbarings enheds sæde. Giv, o min Herre, at denne faste må blive en flod af livgivende vande og vil fremdrage de dyder, hvormed Du har beriget den. Rens ved dens hjælp Dine tjeneres hjerter hvem det onde i verden ikke har kunnet hindre i at vende sig til Dit alherlige navn, og som er forblevet uberørte af støjen og uroen fra dem, der har afvist Dine mest strålende tegn, der har ledsaget Din manifestations komme, som Du har forlenet med Dit herredømme, Din magt, Din majestæt og herlighed. Disse er de tjenere, der så snart Din kalden nåede dem ilede mod Din barmhjertighed og ikke blev tilbageholdt af denne verdens forandringer og tilfældigheder eller af nogle menneskelige begrænsninger.Jeg er den, o min Gud, der vidner om Din helhed, der anerkender Din enhed, der bøjer sig ydmygt for åbenbarelserne af Din majestæt, og som med bøjet hoved genkender lysets stråleglans fra Din overjordiske herlighed. Jeg har troet på Dig, efter Du lod mig kende Dit selv, som Du har åbenbaret for menneskers øjne gennem styrken i Dit herredømme og Din magt. Til Ham har jeg vendt mig, fuldkommen frigjort fra alt, medens jeg klynger mig trofast til Dine gavers og begunstigelsers reb.Jeg har modtaget Hans sandhed og sandheden i alle de underfulde love og forskrifter, der er blevet sendt ned til Ham. Jeg har fastet af kærlighed til Dig og i opfyldelse af Dit bud og har brudt min faste med Din pris på mine læber og i overensstemmelse med Dit velbehag. Lad mig ikke, o min Herre, blive talt blandt dem, der har fastet i dagtimerne, der ved nattetide har kastet sig ned for Dit ansigt og som har afvist Din sandhed, og tvivlet på Dine tegn, modsagt Dit vidnesbyrd og fordrejet Din tale.Luk Du mine øjne op, o min Herre, og øjnene hos alle, der har søgt Dig, at vi kan kende Dig med Dine egne øjne. Dette er Dit bud givet os i bogen nedsendt af Dig til Ham, som Du har udvalgt på Dit bud, som Du har udpeget til Din gunst over alle skabninger, som Du har behaget at udruste med Dit herredømme, og som Du særligt har begunstiget og betroet Dit budskab til Dit folk. Lovet være Du derfor, o min Gud, fordi Du nådigt har ladet os erkende Ham og anerkende alt, hvad der er blevet nedsendt til Ham, og skænket os den ære at opnå Den Enes tilstedeværelse, som Du lovede i Din bog og i Dine breve.Du ser mig da, o min Gud, med mit ansigt vendt til Dig og idet jeg klynger mig trofast til Dit nådige forsyns og gavmildheds reb og fastholde Din milde barmhjertigheds og gavmilde nådes kjortelsøm. Knus ikke, det bønfalder jeg Dig, mit håb om at opnå det, som Du bestemte for Dine tjenere, der har vendt sig mod Din boligs enemærker og Dit nærværs helligdom og har overholdt fasten af kærlighed til Dig. Jeg tilstår, o min Gud, at alt, hvad der kommer fra mig, er helt uværdigt for Dit herredømme og kommer til kort over for Din majestæt. Og dog bønfalder jeg Dig ved Dit navn, hvorved Du har åbenbaret Dit selv i Dine mest enestående betegnelsers stråleglans for alt skabt i denne åbenbaring, hvorigennem Du ved Dit mest lysende navn har manifesteret Din skønhed, om at give mig at drikke af Din barmhjertigheds vin og af Din nådes rene drik, der har flydt fra Din viljes højre hånd, at jeg kan fæste mit blik på Dig og være så løsrevet fra alt undtagen Dig, at verden og alt, hvad der er skabt i den, vil synes mig at være en flygtig dag, som Du ikke har fundet værdig at skabe.Jeg beder Dig tillige inderligt, o min Gud, om fra Din viljes himmel og Din barmhjertigheds skyer at lade det regne ned med det, der vil rense os for den modbydelige smag fra vore overtrædelser, o Du, som har kaldt Dig selv Barmhjertighedens Gud! Du er sandelig Den Mest Magtfulde, Den Alherlige, Den Godgørende.Jag ikke ham bort, o min Herre, der har vendt sig mod Dig, og lad ej heller ham der er draget dig nær blive fjernet langt væk fra Din bolig. Knus ikke håbet for den bedende der længselsfuldt har strakt sine hænder frem for at søge Din nåde og gunst, og formen ikke Dine hengivne tjenere underne i Din milde barmhjertighed og ømme medfølelse. Tilgivende og mest gavmild er Du, o min Herre! Magt har Du til at gøre, hvad Du ønsker. Alle andre end Du er magtesløse foran åbenbarelserne af Din magt, er som fortabte over for tegnene på Din rigdom, er som intet sammenlignet med manifestationerne af Dit overjordiske herredømme, og er berøvet al styrke stillet over for tegnene og vidnesbyrdene om Din magt. Hvilken tilflugt er der ud over Dig, o min Herre, som jeg kan søge, og hvor er der en havn jeg kan ile til? Nej, styrken i Din magt er mit vidne! Ingen beskytter er der uden Dig, intet sted at flygte til undtagen til Dig, ingen tilflugt at søge uden Dig.Lad mig, o min Herre, smage den guddommelige sødme i Din ihukommelse og pris. Jeg sværger ved Din magt! Hvem der end smager dens sødme vil frigøre sig for al tilknytning til verden og alt hvad den indeholder og vil rette sit ansigt mod Dig, renset for ihukommelsen af nogen undtagen Dig. Inspirer da min sjæl, o min Gud, med Din underfulde ihukommelse, så jeg kan forherlige Dit navn. Tæl mig ikke blandt dem der læser Dine ord og dog ikke finder Din skjulte gave, der, som det er forordnet af Dig, rummes deri, og som genopliver Dine skabningers sjæle og Dine tjeneres hjerter. Lad mig, o min Herre, blive talt blandt dem, der er blevet så bevæget af de sødmefulde dufte, der er svævet gennem luften i Din tid, at de har givet deres liv for Dig og er ilet til skuepladsen for deres død i deres længsel efter at beskue Din skønhed og i deres higen efter at opnå Din nærværelse. Om nogen på deres vej sagde til dem, "Hvorhen går I?" ville de sige, "Til Gud, Den Altbesiddende, Hjælpen i fare, Den Selvbestående!”De overtrædelser, der er begået af dem, der har vendt sig bort fra Dig, og har vist sig hovmodige over for Dig, har ikke kunnet hindre dem i at elske Dig og i at vende deres ansigter mod Dig og i at vende sig imod Din barmhjertighed. Det er dem, der er velsignet af forsamlingen i det høje, der er forherliget af beboerne i de evige byer, og yderligere af dem, på hvis pande Din mest ophøjede pen har skrevet: "Disse! Bahás folk. Gennem dem er ledelsens stråleglans blevet spredt." Således er det blevet forordnet på Dit bud og ved Din vilje i brevet om Dit uforanderlige bud.Bekendtgør derfor, o min Gud, deres storhed og storheden hos dem, der levende eller døde har kredset om dem. Forsyn dem med det Du har bestemt for de retfærdige blandt Dine skabninger.Magtfuld er Du til at udvirke alt. Der er ingen Gud uden Dig, Den Almagtsfulde, Hjælpen i fare, Den Almægtige, Den Mest Gavmilde.Lad ikke vor faste være tilendebragt med denne faste, o min Herre, ej heller de pagter Du har indgået med denne Pagt. Modtag alt hvad vi har gjort af kærlighed til Dig og for Din glædes skyld, og alt hvad vi har ladet ugjort som en følge af, at vi har underkastet os vore onde og slette ønsker. Lad os da blive i stand til at holde fast ved Din kærlighed og Dit velbehag og bevar os fra de onde anslag fra dem der har fornægtet Dig og afvist Dine mest strålende tegn. Du er i sandhed Herren i denne verden og i den næste. Ingen Gud er der ud over Dig, den Ophøjede, den Højeste.Herliggør Du, o Herre min Gud, Ham der er Det Første Punkt, Det Guddommelige Mysterium, Den Usete Essens, Daggryet for guddommelighed og manifestationen af Dit Herredømme, gennem hvem al fordums kundskab og al fremtidens kundskab blev klargjort, gennem hvem perlerne i Din skjulte visdom blev afdækket og mysteriet i Dit skattede navn afsløret, som Du har udpeget som forløberen for Ham, gennem hvis navn bogstaverne B L I V er blevet sammenføjet og forenet, gennem hvem Din majestæt, Dit herredømme og Din magt blev kendt, gennem hvem Dine ord er blevet sendt ned og Dine love fremsat med klarhed og Dine tegn vidt udbredt, og Dit ord grundfæstet, gennem hvem Dine udvalgtes hjerter blev blotlagte for alt, hvad der er i himlene, og alt, hvad der er på jorden, blev samlet, som Du har kaldt ’Alí-Muhammad i Dine navnes rige og ånden blandt ånder i brevene om Dit uigenkaldelige bud, som Du har forlenet med Din egen betegnelse, til hvis navn alle andre navne, på Dit bud og ved styrken i Din magt, er vendt tilbage, og i hvem Du har ladet alle Dine egenskaber og betegnelser opnå deres endelige fuldbyrdelse. Ham tilhører også de navne der ligger skjult i Dine lydefri helligdomme, i Din usynlige verden og Dine helliggjorte byer.Herligør Du endvidere dem der har troet på Ham og på Hans tegn og har vendt sig til Ham blandt dem, der har anerkendt Din enhed i Hans seneste manifestation - en manifestation som Han har omtalt i sine breve og i sine bøger og i sine skrifter og i alle de underfulde vers og juvellignende ytringer, der er steget ned til Ham. Det er denne samme manifestation, hvis Pagt Du har pålagt Ham at oprette, før Han havde oprettet sin egen Pagt. Ham er det, hvis pris Bayánen har lovsunget. I den er Hans udmærkelse blevet hyldet og Hans sandhed grundfæstet og Hans herredømme forkyndt og Hans sag fuldkommengjort. Velsignet er det menneske, der har vendt sig til Ham og opfyldt det, Han har påbudt, o Du som er verdenernes Herre og Attråen for alle dem, der har kendt Dig!Priset være Du, o min Gud, fordi Du har hjulpet os til at erkende og elske Ham. Derfor bønfalder jeg Dig ved Ham og ved dem, der er daggryene for Din guddommelighed, og manifestationerne af Dit herredømme og skatkamrene for Din åbenbaring og gemmestederne for Din inspiration, om at gøre os i stand til at tjene og lyde Ham og give os styrke til at blive hjælpere for Hans sag og splitte Hans fjender. Magtfuld er Du til at handle, som det behager Dig.Ingen Gud er der ud over Dig, Den Almægtige, Den Alherlige, den hvis hjælp søges af alle mennesker!
 
 -- Bahá'u'lláh
 
-bpn8183 «[Dansk](../da/prayers/#bpn8183)» 
+bpn8183 
 
 ----
 
@@ -645,7 +646,7 @@ Alle Guds venner... bør så vidt muligt bidrage, lige meget hvor beskeden deres
 
 -- Abdu'l-Bahá
 
-bpn8153 «[Dansk](../da/prayers/#bpn8153)» 
+bpn8153 
 
 ----
 
@@ -659,7 +660,7 @@ bpn8153 «[Dansk](../da/prayers/#bpn8153)»
 
 -- Bahá'u'lláh
 
-bpn8152 «[Dansk](../da/prayers/#bpn8152)» 
+bpn8152 
 
 ----
 
@@ -673,7 +674,7 @@ Lad mig, O min Gud, drage Dig nær og forblive inden for Din boligs enemærker, 
 
 -- Bahá'u'lláh
 
-bpn8052 «[Dansk](../da/prayers/#bpn8052)» 
+bpn8052 
 
 ----
 
@@ -683,7 +684,7 @@ Forherliget være Du, o min Gud! Jeg skænker Dig tak, fordi Du har givet mig ke
 
 -- Bahá'u'lláh
 
-bpn8053 «[Dansk](../da/prayers/#bpn8053)» 
+bpn8053 
 
 ----
 
@@ -693,7 +694,7 @@ Lovet være Dit navn, O min Gud! Jeg bønfalder Dig ved duften fra Din nådes kl
 
 -- Bahá'u'lláh
 
-bpn8054 «[Dansk](../da/prayers/#bpn8054)» 
+bpn8054 
 
 ----
 
@@ -703,7 +704,7 @@ Mangt et koldt hjerte, o min Gud, er blevet antændt af ilden i Din sag, og mang
 
 -- Bahá'u'lláh
 
-bpn8055 «[Dansk](../da/prayers/#bpn8055)» 
+bpn8055 
 
 ----
 
@@ -713,7 +714,7 @@ Jeg ved ikke, o min Gud, hvad det er for en ild Du har antændt i Dit land. Jord
 
 -- Bahá'u'lláh
 
-bpn8056 «[Dansk](../da/prayers/#bpn8056)» 
+bpn8056 
 
 ----
 
@@ -723,7 +724,7 @@ Lovet være Du, o min Gud! Jeg er en af Dine tjenere, der har troet på Dig og p
 
 -- Bahá'u'lláh
 
-bpn8057 «[Dansk](../da/prayers/#bpn8057)» 
+bpn8057 
 
 ----
 
@@ -733,7 +734,7 @@ I Din Herres navn, Skaberen, Kongen, Den Fyldestgørende, Den Mest Ophøjede, de
 
 -- Báb
 
-bpn8058 «[Dansk](../da/prayers/#bpn8058)» 
+bpn8058 
 
 ----
 
@@ -743,7 +744,7 @@ O Herre! Hos Dig søger jeg tilflugt og mod alle Dine tegn retter jeg mit hjerte
 
 -- Báb
 
-bpn8059 «[Dansk](../da/prayers/#bpn8059)» 
+bpn8059 
 
 ----
 
@@ -753,7 +754,7 @@ O Gud, min Gud! Du er mit Håb og min Elskede, mit højeste mål og ønske! I st
 
 -- Abdu'l-Bahá
 
-bpn8060 «[Dansk](../da/prayers/#bpn8060)» 
+bpn8060 
 
 ----
 
@@ -763,7 +764,7 @@ O Gud, min Gud! Fyld mit bæger med løsrivelse fra alt og til forsamlingen til 
 
 -- Abdu'l-Bahá
 
-bpn8061 «[Dansk](../da/prayers/#bpn8061)» 
+bpn8061 
 
 ----
 
@@ -777,7 +778,7 @@ O Gud, min Gud! Jeg beder Dig ved Din lægedoms hav og ved glansen fra Din nåde
 
 -- Bahá'u'lláh
 
-bpn8062 «[Dansk](../da/prayers/#bpn8062)» 
+bpn8062 
 
 ----
 
@@ -787,7 +788,7 @@ Dit navn er min helbredelse, O min Gud, og ihukommelse af Dig er min lægedom. A
 
 -- Bahá'u'lláh
 
-bpn8063 «[Dansk](../da/prayers/#bpn8063)» 
+bpn8063 
 
 ----
 
@@ -797,7 +798,7 @@ bpn8063 «[Dansk](../da/prayers/#bpn8063)»
 
 -- Bahá'u'lláh
 
-bpn8064 «[Dansk](../da/prayers/#bpn8064)» 
+bpn8064 
 
 ----
 
@@ -807,7 +808,7 @@ Lovet være Du, o Herre min Gud! Jeg bønfalder Dig ved Dit Allerstørste Navn, 
 
 -- Bahá'u'lláh
 
-bpn8065 «[Dansk](../da/prayers/#bpn8065)» 
+bpn8065 
 
 ----
 
@@ -817,7 +818,7 @@ bpn8065 «[Dansk](../da/prayers/#bpn8065)»
 
 -- Bahá'u'lláh
 
-bpn8066 «[Dansk](../da/prayers/#bpn8066)» 
+bpn8066 
 
 ----
 
@@ -831,7 +832,7 @@ O Du, hvis ansigt er genstanden for min tilbedelse, hvis skønhed er min helligd
 
 -- Bahá'u'lláh
 
-bpn8067 «[Dansk](../da/prayers/#bpn8067)» 
+bpn8067 
 
 ----
 
@@ -841,7 +842,7 @@ Min Gud, min Tilbedte, min Konge, min Attrå! Hvilket tungemål kan udtrykke min
 
 -- Bahá'u'lláh
 
-bpn8068 «[Dansk](../da/prayers/#bpn8068)» 
+bpn8068 
 
 ----
 
@@ -851,7 +852,7 @@ Priset være Dit navn, o herre vor Gud! Du er i sandhed den, der har viden om us
 
 -- Báb
 
-bpn8069 «[Dansk](../da/prayers/#bpn8069)» 
+bpn8069 
 
 ----
 
@@ -861,7 +862,7 @@ O min Gud, min Herre og min Mester! Jeg har frigjort mig fra min slægt og har g
 
 -- Báb
 
-bpn8070 «[Dansk](../da/prayers/#bpn8070)» 
+bpn8070 
 
 ----
 
@@ -871,7 +872,7 @@ Herre! Ynkværdige er vi, skænk os Din nåde, fattige, giv os del i Din rigdoms
 
 -- Abdu'l-Bahá
 
-bpn8071 «[Dansk](../da/prayers/#bpn8071)» 
+bpn8071 
 
 ----
 
@@ -881,7 +882,7 @@ O Du gode Herre! Vi er tjenere ved Din tærskel, der søger ly ved Din hellige d
 
 -- Abdu'l-Bahá
 
-bpn8072 «[Dansk](../da/prayers/#bpn8072)» 
+bpn8072 
 
 ----
 
@@ -891,7 +892,7 @@ Fjern ikke, o Herre, det festlige bord, der er blevet dækket i Dit navn, og slu
 
 -- Abdu'l-Bahá
 
-bpn8073 «[Dansk](../da/prayers/#bpn8073)» 
+bpn8073 
 
 ----
 
@@ -905,7 +906,7 @@ bpn8073 «[Dansk](../da/prayers/#bpn8073)»
 
 -- Bahá'u'lláh
 
-bpn8180 «[Dansk](../da/prayers/#bpn8180)» 
+bpn8180 
 
 ----
 
@@ -919,7 +920,7 @@ bpn8180 «[Dansk](../da/prayers/#bpn8180)»
 
 -- Bahá'u'lláh
 
-bpn8145 «[Dansk](../da/prayers/#bpn8145)» 
+bpn8145 
 
 ----
 
@@ -929,11 +930,11 @@ bpn8145 «[Dansk](../da/prayers/#bpn8145)»
 ## Lang Bøn For Helbredelse
 
 <a id="bpn8185"></a> 
-Han er Helbrederen, Den Fyldestgørende, Hjælperen, Den Alttilgivende, Den Albarmhjertige.Jeg påkalder Dig, o Ophøjede, o Trofaste, o Strålende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig o Hersker, o Oprejser, o Dommer! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Uforlignelige, o Evige, o Eneste! Du Den Fyldestgørende, Du den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest Priste, o Hellige, o Hjælpende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Alvidende, o Mest Vise, Allerstørste! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Milde, o Majestætiske, o Lovgivende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Elskede, o Eftertragtede, o Lyksalige! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mægtigste, o Opretholdende, o Magtfulde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Herskende, o Selvbestående, o Alvidende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Ånd, o Lys, o Mest Åbenbare! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du af alle Søgte, o Du af alle Kendte, o Du for alle Skjulte! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Hemmeligholdte, o Sejrrige, o Givende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Almægtige, o Hjælpende, o Dølgende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Former, o Tilfredsstiller, o Ødelægger! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Opstående, o Samlende, o Ophøjende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Fuldkommengører, o Ubundne, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Godgørende, o Tilbageholdende, o Skabende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest ædle, o Skønne, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Retfærdige, o Nådige, o Storsindede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Altbetvingende, o Evigt Værende, o Mest Vidende! Du Den Fyldestgørende, Du Helbredende, Du Den Blivende, o Du Den Blivende!Jeg påkalder Dig, o Storslåede, o Ældgamle af Dage, o Storsindede! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Velbevogtede, o Glædes Herre, o Attråede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Godhed mod alle, o Du Medynk med alle, o Mest Godgørende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, O Du Den Blivende!Jeg påkalder Dig, o Havn for alle, o Ly for alle, o Altbevarende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Støtte for alle, o Du anråbt af alle, o Livgivende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Åbenbarer, o Nedbryder, o Mest Milde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du min Sjæl, o Du min Elskede, o Du min Tro! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Slukker af tørst, o Overjordiske Herre, o Mest Dyrebare! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Største Ihukommelse, o Ædleste Navn, o Mest Ældgamle Vej! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest Lovede, o Mest Hellige, o Lutrede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Forløser, o Rådgiver, o Befrier! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Ven, o Læge, o Tryllebinder! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Herlighed, o Skønhed, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, Du Blivende!Jeg påkalder Dig, o Mest Betroede, o Bedste Elsker, o Dæmringens Herre! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Opildner, o Lysgiver, o Henrykkelsens Bud! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Gavmildheds Herre, o Mest Medfølende, o Mest Barmhjertige! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Bestandige, o Livgivende, o Kilde til al Væren! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du der gennemskuer alt, o Altskuende Herre, o Ytrings Herre! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o åbenbar dog skjult, o uset dog kendt, o Beskuer af alle søgt! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du der ihjelslår de elskende, å Gud af Nåde mod de onde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!O Fyldestgører, Jeg påkalder Dig, o Fyldestgører!O Helbreder, jeg påkalder Dig, o Helbreder!O Blivende, Jeg påkalder Dig, o Blivende!Du Den Evigt Blivende, o Du Den Blivende!Helliggjort er Du, o min Gud! Jeg bønfalder Dig ved Din ædelmodighed, hvorved portene til Din gavmildhed og nåde blev vidt åbnet, hvorved Din helligheds tempel blev rejst på evighedens trone; og ved Din barmhjertighed, hvorved Du indbød alt skabt til Din gavmildheds og Dine gavers bord; og ved din nåde, hvorigennem Du svarede i Dit eget selv med Dit ord &#34;Ja!&#34; for alle i himlen og på jorden ved den time, da Dit herredømme og Din storhed stod afsløret ved dæmringstimen, da Dit riges magt blev gjort åbenbar. Og atter anråber jeg Dig, ved disse mest skønne navne, ved disse mest ædle og høje egenskaber, og ved Din Mest Ophøjede Ihukommelse, og ved Din rene og pletfri skønhed, og ved Dit skjulte lys i den mest skjulte pavillon, og Dit navn, iklædt lidelsens klædning hver morgen og aften om at beskytte bæreren af dette velsignede brev, og hver den, der siger det, og hver den, der træffer på det, og hver den, der færdes om det hus, hvori det er. Helbred Du da igennem det enhver syg, elendig og forarmet fra enhver hæslig lidelse og sorg, og led Du igennem det, hver den der ønsker at betræde Din ledelses stier og Din tilgivelses og nådes veje.Du er i sandhed Den Magtfulde, Den Alt Fyldestgørende, Den Helbredende, Den Beskyttende, Den Givende, Den Medfølende, Den Algavmilde, Den Albarmbjertige.
+Han er Helbrederen, Den Fyldestgørende, Hjælperen, Den Alttilgivende, Den Albarmhjertige.Jeg påkalder Dig, o Ophøjede, o Trofaste, o Strålende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig o Hersker, o Oprejser, o Dommer! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Uforlignelige, o Evige, o Eneste! Du Den Fyldestgørende, Du den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest Priste, o Hellige, o Hjælpende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Alvidende, o Mest Vise, Allerstørste! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Milde, o Majestætiske, o Lovgivende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Elskede, o Eftertragtede, o Lyksalige! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mægtigste, o Opretholdende, o Magtfulde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Herskende, o Selvbestående, o Alvidende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Ånd, o Lys, o Mest Åbenbare! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du af alle Søgte, o Du af alle Kendte, o Du for alle Skjulte! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Hemmeligholdte, o Sejrrige, o Givende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Almægtige, o Hjælpende, o Dølgende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Former, o Tilfredsstiller, o Ødelægger! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Opstående, o Samlende, o Ophøjende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Fuldkommengører, o Ubundne, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Godgørende, o Tilbageholdende, o Skabende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest ædle, o Skønne, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Retfærdige, o Nådige, o Storsindede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Altbetvingende, o Evigt Værende, o Mest Vidende! Du Den Fyldestgørende, Du Helbredende, Du Den Blivende, o Du Den Blivende!Jeg påkalder Dig, o Storslåede, o Ældgamle af Dage, o Storsindede! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Velbevogtede, o Glædes Herre, o Attråede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Godhed mod alle, o Du Medynk med alle, o Mest Godgørende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, O Du Den Blivende!Jeg påkalder Dig, o Havn for alle, o Ly for alle, o Altbevarende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Støtte for alle, o Du anråbt af alle, o Livgivende! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Åbenbarer, o Nedbryder, o Mest Milde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du min Sjæl, o Du min Elskede, o Du min Tro! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du Slukker af tørst, o Overjordiske Herre, o Mest Dyrebare! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Største Ihukommelse, o Ædleste Navn, o Mest Ældgamle Vej! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Mest Lovede, o Mest Hellige, o Lutrede! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Forløser, o Rådgiver, o Befrier! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Ven, o Læge, o Tryllebinder! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Herlighed, o Skønhed, o Gavmilde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, Du Blivende!Jeg påkalder Dig, o Mest Betroede, o Bedste Elsker, o Dæmringens Herre! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Opildner, o Lysgiver, o Henrykkelsens Bud! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Gavmildheds Herre, o Mest Medfølende, o Mest Barmhjertige! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Bestandige, o Livgivende, o Kilde til al Væren! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du der gennemskuer alt, o Altskuende Herre, o Ytrings Herre! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o åbenbar dog skjult, o uset dog kendt, o Beskuer af alle søgt! Du den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!Jeg påkalder Dig, o Du der ihjelslår de elskende, å Gud af Nåde mod de onde! Du Den Fyldestgørende, Du Den Helbredende, Du Blivende, o Du Den Blivende!O Fyldestgører, Jeg påkalder Dig, o Fyldestgører!O Helbreder, jeg påkalder Dig, o Helbreder!O Blivende, Jeg påkalder Dig, o Blivende!Du Den Evigt Blivende, o Du Den Blivende!Helliggjort er Du, o min Gud! Jeg bønfalder Dig ved Din ædelmodighed, hvorved portene til Din gavmildhed og nåde blev vidt åbnet, hvorved Din helligheds tempel blev rejst på evighedens trone; og ved Din barmhjertighed, hvorved Du indbød alt skabt til Din gavmildheds og Dine gavers bord; og ved din nåde, hvorigennem Du svarede i Dit eget selv med Dit ord "Ja!" for alle i himlen og på jorden ved den time, da Dit herredømme og Din storhed stod afsløret ved dæmringstimen, da Dit riges magt blev gjort åbenbar. Og atter anråber jeg Dig, ved disse mest skønne navne, ved disse mest ædle og høje egenskaber, og ved Din Mest Ophøjede Ihukommelse, og ved Din rene og pletfri skønhed, og ved Dit skjulte lys i den mest skjulte pavillon, og Dit navn, iklædt lidelsens klædning hver morgen og aften om at beskytte bæreren af dette velsignede brev, og hver den, der siger det, og hver den, der træffer på det, og hver den, der færdes om det hus, hvori det er. Helbred Du da igennem det enhver syg, elendig og forarmet fra enhver hæslig lidelse og sorg, og led Du igennem det, hver den der ønsker at betræde Din ledelses stier og Din tilgivelses og nådes veje.Du er i sandhed Den Magtfulde, Den Alt Fyldestgørende, Den Helbredende, Den Beskyttende, Den Givende, Den Medfølende, Den Algavmilde, Den Albarmbjertige.
 
 -- Bahá'u'lláh
 
-bpn8185 «[Dansk](../da/prayers/#bpn8185)» 
+bpn8185 
 
 ----
 
@@ -947,7 +948,7 @@ bpn8185 «[Dansk](../da/prayers/#bpn8185)»
 
 -- Bahá'u'lláh
 
-bpn8147 «[Dansk](../da/prayers/#bpn8147)» 
+bpn8147 
 
 ----
 
@@ -961,27 +962,27 @@ Al lovprisning, o min Gud, være Dig til del, der er kilden til al herlighed og 
 
 -- Bahá'u'lláh
 
-bpn8074 «[Dansk](../da/prayers/#bpn8074)» 
+bpn8074 
 
 ----
 
 
 <a id="bpn8076"></a> 
-Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og som ikke tilbeder nogen, som er alle tings Herre og ikke er slave af nogen, som kender alt og ikke kendes af nogen.Du ønskede at gøre Dig kendt af mennesker, derfor frembragte Du ved et ord fra Din mund skabelsen og formede universet. Der er ingen Gud undtagen Dig, Formeren, Skaberen, Den Almægtige, Den Mest Magtfulde.Jeg bønfalder Dig ved selve dette ord, der har skinnet ud fra Din viljes horisont, om at lade mig drikke dybt af de levende vande, hvormed Du har forfrisket Dine udvalgtes hjerter og styrket de sjæle, der elsker Dig, så jeg til alle tider og under alle forhold kan vende mit ansigt helt og fuldt til Dig.Du er magtens, herlighedens og gavmildhedens Gud. Ingen Gud er der foruden Dig, Den øverste Hersker, Den Alherlige, Den Alvidende.Bahá&#39;lláh Herliggjort er Du, o Herre min Gud! Jeg skænker Dig tak for at have ladet mig erkende manifestationen af Dit selv og for at have skilt mig fra Dine fjender og for at have afsløret deres misgerninger og onde planer for mine øjne i Din tid og for at have løsrevet mig fra al forbindelse med dem og fået mig til helt at vende mig til Din nåde og Dine gavmilde gaver. Jeg takker Dig ligeledes for at have nedsendt det til mig fra Din viljes skyer, der i den grad har lutret mig for de vantros antydninger og de tvivlendes hentydninger, at jeg har knyttet mit hjerte fast til Dig og er flygtet fra dem, der har fornægtet lyset fra Dit ansigt. Atter takker jeg Dig for at have givet mig styrke til at være fast i Din kærlighed og at tale til Din lovprisning og forherlige Dine dyder og for at have ladet mig drikke af Din barmhjertigheds bæger, der har overgået alle ting, synlige som usynlige.Du er Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Mest Elskende.Bahá&#39;lláh Priset være Du, o Herre min Gud! Hver gang jeg forsøger at tale om Dig, hindres jeg af Dit stades ophøjethed og den overvældende storhed i Din magt. Thi skulle jeg prise Dig gennem hele Dit riges udstrækning, så længe Dit herredømme varer, ville jeg opdage, at min lovprisning af Dig alene sømmer sig for dem, der er mig lig, der selv er Dine skabninger, og som er blevet kaldt til live ved kraften i Dit bud og er blevet formet ved Din viljes magt. Og når som helst min pen forherliger nogle af Dine navne, synes det mig, at jeg kan høre stemmen fra dens klagesang i dens fjernhed fra Dig og opfanger dens skrig over dens adskillelse fra Dit selv. Jeg bevidner, at alt ud over Dig kun er Din skabelse og holdes i Din hule hånd. At Du har godtaget nogen gerning eller lovprisning fra Dine skabninger er kun et tegn på underne i Din nåde og gavmilde gunst og et vidne om Din ædelmodighed og Dit forsyn.Jeg bønfalder Dig, o min Herre, ved Dit største Navn, hvorved Du adskilte lys fra ild og sandhed fra fornægtelse, om at nedsende til mig og til dem blandt mine kære, der er sammen med mig, det gode i denne verden og i den næste. Forsyn os da med Dine underfulde gaver, der er skjult for menneskers øjne. Du er i sandhed hele skabelsens Former. Ingen Gud er der uden Dig, Den Almægtige, Den Alherlige, Den Højeste!
+Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og som ikke tilbeder nogen, som er alle tings Herre og ikke er slave af nogen, som kender alt og ikke kendes af nogen.Du ønskede at gøre Dig kendt af mennesker, derfor frembragte Du ved et ord fra Din mund skabelsen og formede universet. Der er ingen Gud undtagen Dig, Formeren, Skaberen, Den Almægtige, Den Mest Magtfulde.Jeg bønfalder Dig ved selve dette ord, der har skinnet ud fra Din viljes horisont, om at lade mig drikke dybt af de levende vande, hvormed Du har forfrisket Dine udvalgtes hjerter og styrket de sjæle, der elsker Dig, så jeg til alle tider og under alle forhold kan vende mit ansigt helt og fuldt til Dig.Du er magtens, herlighedens og gavmildhedens Gud. Ingen Gud er der foruden Dig, Den øverste Hersker, Den Alherlige, Den Alvidende.Bahá'lláh Herliggjort er Du, o Herre min Gud! Jeg skænker Dig tak for at have ladet mig erkende manifestationen af Dit selv og for at have skilt mig fra Dine fjender og for at have afsløret deres misgerninger og onde planer for mine øjne i Din tid og for at have løsrevet mig fra al forbindelse med dem og fået mig til helt at vende mig til Din nåde og Dine gavmilde gaver. Jeg takker Dig ligeledes for at have nedsendt det til mig fra Din viljes skyer, der i den grad har lutret mig for de vantros antydninger og de tvivlendes hentydninger, at jeg har knyttet mit hjerte fast til Dig og er flygtet fra dem, der har fornægtet lyset fra Dit ansigt. Atter takker jeg Dig for at have givet mig styrke til at være fast i Din kærlighed og at tale til Din lovprisning og forherlige Dine dyder og for at have ladet mig drikke af Din barmhjertigheds bæger, der har overgået alle ting, synlige som usynlige.Du er Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Mest Elskende.Bahá'lláh Priset være Du, o Herre min Gud! Hver gang jeg forsøger at tale om Dig, hindres jeg af Dit stades ophøjethed og den overvældende storhed i Din magt. Thi skulle jeg prise Dig gennem hele Dit riges udstrækning, så længe Dit herredømme varer, ville jeg opdage, at min lovprisning af Dig alene sømmer sig for dem, der er mig lig, der selv er Dine skabninger, og som er blevet kaldt til live ved kraften i Dit bud og er blevet formet ved Din viljes magt. Og når som helst min pen forherliger nogle af Dine navne, synes det mig, at jeg kan høre stemmen fra dens klagesang i dens fjernhed fra Dig og opfanger dens skrig over dens adskillelse fra Dit selv. Jeg bevidner, at alt ud over Dig kun er Din skabelse og holdes i Din hule hånd. At Du har godtaget nogen gerning eller lovprisning fra Dine skabninger er kun et tegn på underne i Din nåde og gavmilde gunst og et vidne om Din ædelmodighed og Dit forsyn.Jeg bønfalder Dig, o min Herre, ved Dit største Navn, hvorved Du adskilte lys fra ild og sandhed fra fornægtelse, om at nedsende til mig og til dem blandt mine kære, der er sammen med mig, det gode i denne verden og i den næste. Forsyn os da med Dine underfulde gaver, der er skjult for menneskers øjne. Du er i sandhed hele skabelsens Former. Ingen Gud er der uden Dig, Den Almægtige, Den Alherlige, Den Højeste!
 
 -- Bahá'u'lláh
 
-bpn8076 «[Dansk](../da/prayers/#bpn8076)» 
+bpn8076 
 
 ----
 
 
 <a id="bpn8077"></a> 
-Al majestæt og ære, o min Gud, og al magt og lys og storhed og glans hører Dig til. Du skænker herredømme til dem, Du vil, og tilbageholder det fra dem, du ønsker. Ingen Gud er der uden Dig, Den Altbesiddende, Den Mest Ophøjede. Du er Ham, der ud af intet skabte universet og alt, hvad der dvæler deri. Intet er Dig værdigt undtagen Dit selv, medens alle andre end Dig er som udstødte i Din hellige nærværelse og som intet sammenlignet med herligheden i Dit eget væsen.Det tilkommer langt fra mig at prise Dine ædle egenskaber undtagen ved hjælp af det, Du selv har prist i Din mægtige Bog, hvor Du siger: &#34;Intet syn omfatter Ham, men Hans syn omfatter alt. Han er Den Subtile, Den Altopfattende.”Ære være Dig, o min Gud! Ingen tanke, intet syn, ligegyldigt hvor skarpt eller klart, kan nogensinde fatte det inderste væsen i de mest ubetydelige af Dine tegn. I sandhed, Du er Gud, ingen Gud er der ud over Dig. Jeg bevidner, at Du alene er det eneste udtryk for Dine egenskaber, at ingen lovprisning ud over Din nogensinde kan nå Din hellige bolig, ej heller kan Dine egenskaber fattes af nogen anden end Dig selv.Ære være Dig, Du er hævet over enhver beskrivelse undtagen Din egen, da det går ud over menneskelig fatteevne på sømmelig vis at lovprise Dine fortrin eller fatte Dit væsens inderste virkelighed. Det være langt fra Din herlighed, at Dine skabninger skulle beskrive Dig eller at nogen, bortset fra Dig selv, nogen sinde skulle kende Dig. Jeg har kendt Dig, o min Gud, fordi Du har åbenbaret Dig for mig, thi havde Du ikke åbenbaret Dig for mig, ville jeg ikke have kendt Dig.Jeg tilbeder Dig, fordi Du har kaldet mig til Dig, thi havde det ikke været for Din kalden, ville jeg ikke have tilbedt Dig.*Koranen 6:103
+Al majestæt og ære, o min Gud, og al magt og lys og storhed og glans hører Dig til. Du skænker herredømme til dem, Du vil, og tilbageholder det fra dem, du ønsker. Ingen Gud er der uden Dig, Den Altbesiddende, Den Mest Ophøjede. Du er Ham, der ud af intet skabte universet og alt, hvad der dvæler deri. Intet er Dig værdigt undtagen Dit selv, medens alle andre end Dig er som udstødte i Din hellige nærværelse og som intet sammenlignet med herligheden i Dit eget væsen.Det tilkommer langt fra mig at prise Dine ædle egenskaber undtagen ved hjælp af det, Du selv har prist i Din mægtige Bog, hvor Du siger: "Intet syn omfatter Ham, men Hans syn omfatter alt. Han er Den Subtile, Den Altopfattende.”Ære være Dig, o min Gud! Ingen tanke, intet syn, ligegyldigt hvor skarpt eller klart, kan nogensinde fatte det inderste væsen i de mest ubetydelige af Dine tegn. I sandhed, Du er Gud, ingen Gud er der ud over Dig. Jeg bevidner, at Du alene er det eneste udtryk for Dine egenskaber, at ingen lovprisning ud over Din nogensinde kan nå Din hellige bolig, ej heller kan Dine egenskaber fattes af nogen anden end Dig selv.Ære være Dig, Du er hævet over enhver beskrivelse undtagen Din egen, da det går ud over menneskelig fatteevne på sømmelig vis at lovprise Dine fortrin eller fatte Dit væsens inderste virkelighed. Det være langt fra Din herlighed, at Dine skabninger skulle beskrive Dig eller at nogen, bortset fra Dig selv, nogen sinde skulle kende Dig. Jeg har kendt Dig, o min Gud, fordi Du har åbenbaret Dig for mig, thi havde Du ikke åbenbaret Dig for mig, ville jeg ikke have kendt Dig.Jeg tilbeder Dig, fordi Du har kaldet mig til Dig, thi havde det ikke været for Din kalden, ville jeg ikke have tilbedt Dig.*Koranen 6:103
 
 -- Báb
 
-bpn8077 «[Dansk](../da/prayers/#bpn8077)» 
+bpn8077 
 
 ----
 
@@ -991,7 +992,7 @@ I Guds navn, Den Højeste! Lovet og priset være Du, Herre, Almægtige Gud! Du, 
 
 -- Abdu'l-Bahá
 
-bpn8075 «[Dansk](../da/prayers/#bpn8075)» 
+bpn8075 
 
 ----
 
@@ -1005,7 +1006,7 @@ Min Gud, som jeg tilbeder og elsker! Jeg vidner om Din enhed og Din helhed og an
 
 -- Bahá'u'lláh
 
-bpn8078 «[Dansk](../da/prayers/#bpn8078)» 
+bpn8078 
 
 ----
 
@@ -1015,7 +1016,7 @@ O Du medfølende Herre, Du som er storsindet og har magt! Vi er Dine tjenere, sk
 
 -- Abdu'l-Bahá
 
-bpn8079 «[Dansk](../da/prayers/#bpn8079)» 
+bpn8079 
 
 ----
 
@@ -1025,7 +1026,7 @@ O Du gode Herre! O Du som er storsindet og barmhjertig! Vi er tjenerne ved Din T
 
 -- Abdu'l-Bahá
 
-bpn8080 «[Dansk](../da/prayers/#bpn8080)» 
+bpn8080 
 
 ----
 
@@ -1035,7 +1036,7 @@ O Du gode Herre! Du har skabt hele menneskeheden fra den samme stamme. Du har be
 
 -- Abdu'l-Bahá
 
-bpn8081 «[Dansk](../da/prayers/#bpn8081)» 
+bpn8081 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn8081 «[Dansk](../da/prayers/#bpn8081)»
 
 -- Bahá'u'lláh
 
-bpn8146 «[Dansk](../da/prayers/#bpn8146)» 
+bpn8146 
 
 ----
 
@@ -1063,7 +1064,7 @@ O min Gud og min Mester! Jeg er Din tjener og søn af Din tjener. Jeg har rejst 
 
 -- Bahá'u'lláh
 
-bpn8082 «[Dansk](../da/prayers/#bpn8082)» 
+bpn8082 
 
 ----
 
@@ -1073,7 +1074,7 @@ Jeg er vågnet i Din varetægt, o min Gud, og det tilkommer den, der søger den 
 
 -- Bahá'u'lláh
 
-bpn8083 «[Dansk](../da/prayers/#bpn8083)» 
+bpn8083 
 
 ----
 
@@ -1083,7 +1084,7 @@ Jeg har rejst mig denne morgen ved Din nåde, o min Gud, og har forladt mit hjem
 
 -- Bahá'u'lláh
 
-bpn8084 «[Dansk](../da/prayers/#bpn8084)» 
+bpn8084 
 
 ----
 
@@ -1093,7 +1094,7 @@ Jeg priser Dig, o min Gud, fordi Du har vækket mig af min søvn og draget mig f
 
 -- Bahá'u'lláh
 
-bpn8085 «[Dansk](../da/prayers/#bpn8085)» 
+bpn8085 
 
 ----
 
@@ -1107,7 +1108,7 @@ Lovpriset være Du, o Herre min Gud! Jeg bønfalder Dig ved Din nådes frembruse
 
 -- Bahá'u'lláh
 
-bpn8086 «[Dansk](../da/prayers/#bpn8086)» 
+bpn8086 
 
 ----
 
@@ -1117,7 +1118,7 @@ O Du barmhjertige Gud! O Du som er mægtig og stærk! O Du mest kærlige Fader! 
 
 -- Abdu'l-Bahá
 
-bpn8087 «[Dansk](../da/prayers/#bpn8087)» 
+bpn8087 
 
 ----
 
@@ -1127,7 +1128,7 @@ O Du gode Herre! Disse er Dine tjenere, der er forsamlet i dette møde, har vend
 
 -- Abdu'l-Bahá
 
-bpn8088 «[Dansk](../da/prayers/#bpn8088)» 
+bpn8088 
 
 ----
 
@@ -1137,7 +1138,7 @@ O min Gud! O min Gud! Sandelig disse tjenere vender sig til Dig og anråber Din 
 
 -- Abdu'l-Bahá
 
-bpn8089 «[Dansk](../da/prayers/#bpn8089)» 
+bpn8089 
 
 ----
 
@@ -1147,7 +1148,7 @@ O Du tilgivende Gud! Disse tjenere vender sig til Dit rige og søger Din nåde o
 
 -- Abdu'l-Bahá
 
-bpn8090 «[Dansk](../da/prayers/#bpn8090)» 
+bpn8090 
 
 ----
 
@@ -1157,7 +1158,7 @@ O Guddommelige Forsyn! Denne forsamling er sammensat af Dine venner, der drages 
 
 -- Abdu'l-Bahá
 
-bpn8091 «[Dansk](../da/prayers/#bpn8091)» 
+bpn8091 
 
 ----
 
@@ -1167,11 +1168,11 @@ bpn8091 «[Dansk](../da/prayers/#bpn8091)»
 ## Nytår
 
 <a id="bpn8184"></a> 
-*(Naw-Rúz , Nytår, 21. marts, er den første dag i bahá’í året.)Lovet være Du, oh min Gud, at Du har indstiftet Naw-Rúz som en fest for dem, der har overholdt fasten af kærlighed til Dig og afholdt sig fra alt, hvad der er afskyvækkende for Dig. Giv, oh min Herre, at ilden i Din kærlighed og varmen fremkaldt af fasten, der er foreskrevet af Dig, vil opildne dem i Din sag og gøre dem optaget af Din lovprisning og ihukommelse af Dig. Da Du har prydet dem med fastens smykke, der er foreskrevet af Dig, oh min Herre, pryd dem da også med Din anerkendelses smykke gennem Din nåde og gavmilde gunst. Thi menneskers handlinger er alle afhængige af Dit velbehag og betinget af Dit bud. Om Du betragtede ham, der har brudt fasten, som en, der har overholdt den, vil et sådan menneske blive talt blandt dem, der fra evig tid har holdt fasten. Og om Du befalede, at den, der har overholdt fasten, har brudt den, vil det menneske blive talt blandt dem, der har fået Din åbenbarings klædning til at blive plettet af støv og er blevet fjernet langt fra denne levende kildes krystalklare vande.Du er Ham, gennem hvem standarten &#34;Forherliget være Du i Dit værk&#34; er blevet løftet og banneret *”Adlydt være Du i Dit bud&#34; er blevet udfoldet. Gør dette Dit stade kendt, oh min Gud, for Dine tjenere at de kan blive opmærksomme på, at alle tings udmærkelse er afhængig af Dit bud og Dit ord, og dyden i enhver handling er betinget af Din tilladelse og Din viljes velbehag og må erkende, at styringen af menneskers handlinger ligger i Din anerkendelses og Din befalings hænder. Gør dem bekendt hermed, at intet skal lukke dem ude fra Din Skønhed i disse dage, hvor Kristus råber: &#34;Alt herredømme er Dit, oh Du Åndens Undfanger (Jesus)&#34; og Din Ven Muhamed kalder: &#34;Æret være Du, oh Du Mest Elskede, fordi Du har afsløret Din Skønhed og nedskrevet det for Dine udvalgte, der vil få dem til at nå til sædet for åbenbarelsen af Dit Største Navn, som har fået alle mennesker til at klage undtagen dem, der har løsrevet sig fra alt undtagen Dig og vendt sig mod Ham, der er åbenbareren af Dig selv og manifestationen af Dine egenskaber.”Han, der er Din gren, og alle Dine ledsagere, oh min Herre, har denne dag brudt deres faste efter at have overholdt den inden for Din boligs enemærker og i deres iver efter at glæde Dig. Bestem Du for Ham og for dem og for alle, der er trådt ind i Din nærværelse i de dage, alt det gode Du forudbestemte i Din bog.Forsyn dem da med det, der vil gavne dem både i dette liv og livet herefter.Du er i sandhed Den Alvidende, Den Alvise.
+*(Naw-Rúz , Nytår, 21. marts, er den første dag i bahá’í året.)Lovet være Du, oh min Gud, at Du har indstiftet Naw-Rúz som en fest for dem, der har overholdt fasten af kærlighed til Dig og afholdt sig fra alt, hvad der er afskyvækkende for Dig. Giv, oh min Herre, at ilden i Din kærlighed og varmen fremkaldt af fasten, der er foreskrevet af Dig, vil opildne dem i Din sag og gøre dem optaget af Din lovprisning og ihukommelse af Dig. Da Du har prydet dem med fastens smykke, der er foreskrevet af Dig, oh min Herre, pryd dem da også med Din anerkendelses smykke gennem Din nåde og gavmilde gunst. Thi menneskers handlinger er alle afhængige af Dit velbehag og betinget af Dit bud. Om Du betragtede ham, der har brudt fasten, som en, der har overholdt den, vil et sådan menneske blive talt blandt dem, der fra evig tid har holdt fasten. Og om Du befalede, at den, der har overholdt fasten, har brudt den, vil det menneske blive talt blandt dem, der har fået Din åbenbarings klædning til at blive plettet af støv og er blevet fjernet langt fra denne levende kildes krystalklare vande.Du er Ham, gennem hvem standarten "Forherliget være Du i Dit værk" er blevet løftet og banneret *”Adlydt være Du i Dit bud" er blevet udfoldet. Gør dette Dit stade kendt, oh min Gud, for Dine tjenere at de kan blive opmærksomme på, at alle tings udmærkelse er afhængig af Dit bud og Dit ord, og dyden i enhver handling er betinget af Din tilladelse og Din viljes velbehag og må erkende, at styringen af menneskers handlinger ligger i Din anerkendelses og Din befalings hænder. Gør dem bekendt hermed, at intet skal lukke dem ude fra Din Skønhed i disse dage, hvor Kristus råber: "Alt herredømme er Dit, oh Du Åndens Undfanger (Jesus)" og Din Ven Muhamed kalder: "Æret være Du, oh Du Mest Elskede, fordi Du har afsløret Din Skønhed og nedskrevet det for Dine udvalgte, der vil få dem til at nå til sædet for åbenbarelsen af Dit Største Navn, som har fået alle mennesker til at klage undtagen dem, der har løsrevet sig fra alt undtagen Dig og vendt sig mod Ham, der er åbenbareren af Dig selv og manifestationen af Dine egenskaber.”Han, der er Din gren, og alle Dine ledsagere, oh min Herre, har denne dag brudt deres faste efter at have overholdt den inden for Din boligs enemærker og i deres iver efter at glæde Dig. Bestem Du for Ham og for dem og for alle, der er trådt ind i Din nærværelse i de dage, alt det gode Du forudbestemte i Din bog.Forsyn dem da med det, der vil gavne dem både i dette liv og livet herefter.Du er i sandhed Den Alvidende, Den Alvise.
 
 -- Bahá'u'lláh
 
-bpn8184 «[Dansk](../da/prayers/#bpn8184)» 
+bpn8184 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn8184 «[Dansk](../da/prayers/#bpn8184)»
 
 -- Bahá'u'lláh
 
-bpn8164 «[Dansk](../da/prayers/#bpn8164)» 
+bpn8164 
 
 ----
 
@@ -1195,7 +1196,7 @@ Han er Den Mægtige, Tilgiveren, Den Medfølende!O Gud, min Gud! Du ser Dine tje
 
 -- Bahá'u'lláh
 
-bpn8165 «[Dansk](../da/prayers/#bpn8165)» 
+bpn8165 
 
 ----
 
@@ -1205,7 +1206,7 @@ Gør vore trin faste, o Herre, på Din vej og styrk Du vore hjerter i lydighed m
 
 -- Abdu'l-Bahá
 
-bpn8166 «[Dansk](../da/prayers/#bpn8166)» 
+bpn8166 
 
 ----
 
@@ -1215,7 +1216,7 @@ O Du medfølende Gud! Du være takket for at have vækket mig og gjort mig klart
 
 -- Abdu'l-Bahá
 
-bpn8167 «[Dansk](../da/prayers/#bpn8167)» 
+bpn8167 
 
 ----
 
@@ -1225,7 +1226,7 @@ O min Herre og mit Håb! Hjælp Dine elskede til at være trofaste i Din mægtig
 
 -- Abdu'l-Bahá
 
-bpn8168 «[Dansk](../da/prayers/#bpn8168)» 
+bpn8168 
 
 ----
 
@@ -1239,7 +1240,7 @@ O Du hvis prøvelser er en helbredende lægedom for dem, der er Dig nær, hvis s
 
 -- Bahá'u'lláh
 
-bpn8092 «[Dansk](../da/prayers/#bpn8092)» 
+bpn8092 
 
 ----
 
@@ -1249,7 +1250,7 @@ bpn8092 «[Dansk](../da/prayers/#bpn8092)»
 
 -- Bahá'u'lláh
 
-bpn8093 «[Dansk](../da/prayers/#bpn8093)» 
+bpn8093 
 
 ----
 
@@ -1259,7 +1260,7 @@ Lovpriset være Du, O Herre min Gud! Hvert menneske med indsigt erkender Dit her
 
 -- Bahá'u'lláh
 
-bpn8094 «[Dansk](../da/prayers/#bpn8094)» 
+bpn8094 
 
 ----
 
@@ -1269,7 +1270,7 @@ Få min sorg til at svinde ved Din nåde og gavmildhed, o Herre min Gud, og fjer
 
 -- Bahá'u'lláh
 
-bpn8095 «[Dansk](../da/prayers/#bpn8095)» 
+bpn8095 
 
 ----
 
@@ -1279,7 +1280,7 @@ Lovet og forherliget være Du, o min Gud! Jeg bønfalder Dig ved Dine elskedes s
 
 -- Bahá'u'lláh
 
-bpn8096 «[Dansk](../da/prayers/#bpn8096)» 
+bpn8096 
 
 ----
 
@@ -1289,7 +1290,7 @@ Du er vel vidende, o min Gud, om de lidelser, der er strømmet ned over mig fra 
 
 -- Báb
 
-bpn8097 «[Dansk](../da/prayers/#bpn8097)» 
+bpn8097 
 
 ----
 
@@ -1299,7 +1300,7 @@ Er der nogen, der kan fjerne vanskeligheder undtagen Gud? Sig: Lovet være Gud! 
 
 -- Báb
 
-bpn8098 «[Dansk](../da/prayers/#bpn8098)» 
+bpn8098 
 
 ----
 
@@ -1309,7 +1310,7 @@ Sig: Gud er frem for alt fyldestgørende for alle ting, og intet i himlene eller
 
 -- Báb
 
-bpn8099 «[Dansk](../da/prayers/#bpn8099)» 
+bpn8099 
 
 ----
 
@@ -1319,7 +1320,7 @@ Jeg besværger Dig ved Din magt, o min Gud! Lad intet ondt indkredse mig i prøv
 
 -- Báb
 
-bpn8100 «[Dansk](../da/prayers/#bpn8100)» 
+bpn8100 
 
 ----
 
@@ -1329,7 +1330,7 @@ O Herre! Du borttager enhver lidelse og ophæver enhver prøvelse. Du er den, de
 
 -- Báb
 
-bpn8101 «[Dansk](../da/prayers/#bpn8101)» 
+bpn8101 
 
 ----
 
@@ -1339,7 +1340,7 @@ O Herre, min Gud og min tilflugt i min ulykke! Mit skjold og mit ly i min sorg! 
 
 -- Abdu'l-Bahá
 
-bpn8102 «[Dansk](../da/prayers/#bpn8102)» 
+bpn8102 
 
 ----
 
@@ -1349,7 +1350,7 @@ Han er Den Medfølende, Den Alnådige!O Gud, min Gud! Du ser mig og Du kender mi
 
 -- Abdu'l-Bahá
 
-bpn8103 «[Dansk](../da/prayers/#bpn8103)» 
+bpn8103 
 
 ----
 
@@ -1359,7 +1360,7 @@ O min Herre, min Elskede, min Attrå! Vær i min ensomhed min ven og ledsag mig 
 
 -- Abdu'l-Bahá
 
-bpn8104 «[Dansk](../da/prayers/#bpn8104)» 
+bpn8104 
 
 ----
 
@@ -1369,11 +1370,11 @@ bpn8104 «[Dansk](../da/prayers/#bpn8104)»
 ## Standhaftighed
 
 <a id="bpn8105"></a> 
-Forherliget være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Din magt, der har omsluttet alle skabte ting, og ved Dit herredømme, der er hævet over hele skabelsen, og ved Dit ord, der var skjult i Din visdom, og hvorved Du skabte Din himmel og Din jord, om både at gøre os faste i vor kærlighed til Dig og i vor lydighed mod Dit ønskeog fæste vort blik på Dit ansigt og prise Din herlighed. Giv os da styrke, o min Gud, til at udbrede Dine tegn blandt Dine skabninger og vogte over Din tro i Dit rige. Du har altid levet uafhængigt af Dine skabningers omtale og vil forblive således, som Du har været til evig tid.I Dig har jeg lagt hele min tillid, til Dig har jeg vendt mit ansigt, til Din kærlige omsorgs reb har jeg klynget mig, og mod Din miskundheds skygge er jeg ilet. Jag mig ikke som en skuffet bort fra Din dør, o min Gud, og tilbagehold ikke Din nåde fra mig, thi Dig alene søger jeg.Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Mest Gavmilde.Priset være Du, o Du, der er Den Elskede for dem, der har kendt Dig.Bahá&#39;lláh O Du, hvis nærhed er mit ønske, hvis tilstedeværelse er mit håb, hvis ihukommelse er min attrå, hvis herligheds bolig er mit mål, hvis hjem er min længsel, hvis navn er min helbredelse, hvis kærlighed er mit hjertes lys, hvis tjeneste er min største bestræbelse! Jeg bønfalder Dig ved Dit navn, hvorved Du har fået dem, der erkender Dig, til at hæve sig til de mest fuldendte højder af kundskab om Dig og har givet dem, der hengivent tilbeder Dig, styrke til at stige op til enemærkerne ved Dine hellige gavers forgård, om at hjælpe mig til at vende mit ansigt til Dit ansigt, fæste mine øjne på Dig og tale om Din herlighed.Jeg er den, o min Herre, der har glemt alt undtagen Dig og har vendt mig til Din nådes daggry, der har forsaget alt undtagen Dig i håbet om at drage Din bolig nær. Se mig da med mine øjne løftet mod det sæde, der skinner med strålerne fra Dit ansigts lys. Nedsend da til mig, o min Elskede, det der vil gøre mig trofast i Din sag, at de vantros tvivl ikke skal hindre mig i at vende mig til Dig.Du er i sandhed Magtens Gud, Hjælpen i Fare, den Alherlige, den Almægtige.
+Forherliget være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Din magt, der har omsluttet alle skabte ting, og ved Dit herredømme, der er hævet over hele skabelsen, og ved Dit ord, der var skjult i Din visdom, og hvorved Du skabte Din himmel og Din jord, om både at gøre os faste i vor kærlighed til Dig og i vor lydighed mod Dit ønskeog fæste vort blik på Dit ansigt og prise Din herlighed. Giv os da styrke, o min Gud, til at udbrede Dine tegn blandt Dine skabninger og vogte over Din tro i Dit rige. Du har altid levet uafhængigt af Dine skabningers omtale og vil forblive således, som Du har været til evig tid.I Dig har jeg lagt hele min tillid, til Dig har jeg vendt mit ansigt, til Din kærlige omsorgs reb har jeg klynget mig, og mod Din miskundheds skygge er jeg ilet. Jag mig ikke som en skuffet bort fra Din dør, o min Gud, og tilbagehold ikke Din nåde fra mig, thi Dig alene søger jeg.Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Mest Gavmilde.Priset være Du, o Du, der er Den Elskede for dem, der har kendt Dig.Bahá'lláh O Du, hvis nærhed er mit ønske, hvis tilstedeværelse er mit håb, hvis ihukommelse er min attrå, hvis herligheds bolig er mit mål, hvis hjem er min længsel, hvis navn er min helbredelse, hvis kærlighed er mit hjertes lys, hvis tjeneste er min største bestræbelse! Jeg bønfalder Dig ved Dit navn, hvorved Du har fået dem, der erkender Dig, til at hæve sig til de mest fuldendte højder af kundskab om Dig og har givet dem, der hengivent tilbeder Dig, styrke til at stige op til enemærkerne ved Dine hellige gavers forgård, om at hjælpe mig til at vende mit ansigt til Dit ansigt, fæste mine øjne på Dig og tale om Din herlighed.Jeg er den, o min Herre, der har glemt alt undtagen Dig og har vendt mig til Din nådes daggry, der har forsaget alt undtagen Dig i håbet om at drage Din bolig nær. Se mig da med mine øjne løftet mod det sæde, der skinner med strålerne fra Dit ansigts lys. Nedsend da til mig, o min Elskede, det der vil gøre mig trofast i Din sag, at de vantros tvivl ikke skal hindre mig i at vende mig til Dig.Du er i sandhed Magtens Gud, Hjælpen i Fare, den Alherlige, den Almægtige.
 
 -- Bahá'u'lláh
 
-bpn8105 «[Dansk](../da/prayers/#bpn8105)» 
+bpn8105 
 
 ----
 
@@ -1383,7 +1384,7 @@ O Gud, min Gud! Jeg har vendt mig til Dig med anger, og Du er i sandhed Tilgiver
 
 -- Bahá'u'lláh
 
-bpn8106 «[Dansk](../da/prayers/#bpn8106)» 
+bpn8106 
 
 ----
 
@@ -1393,7 +1394,7 @@ Forherliget være Du, o Herre min Gud! Jeg bønfalder Dig ved ham, der er Dit Al
 
 -- Bahá'u'lláh
 
-bpn8107 «[Dansk](../da/prayers/#bpn8107)» 
+bpn8107 
 
 ----
 
@@ -1403,7 +1404,7 @@ Lovpriset være Du, o Herre, min Mest Elskede! Gør mig trofast i Din sag og giv
 
 -- Báb
 
-bpn8108 «[Dansk](../da/prayers/#bpn8108)» 
+bpn8108 
 
 ----
 
@@ -1413,7 +1414,7 @@ O Herre min Gud! Hjælp Dine elskede at være faste i Din tro, at vandre ad Dine
 
 -- Abdu'l-Bahá
 
-bpn8109 «[Dansk](../da/prayers/#bpn8109)» 
+bpn8109 
 
 ----
 
@@ -1423,7 +1424,7 @@ O Du min Gud, der leder den søgende til den sti, der fører ham på rette vej, 
 
 -- Abdu'l-Bahá
 
-bpn8110 «[Dansk](../da/prayers/#bpn8110)» 
+bpn8110 
 
 ----
 
@@ -1437,17 +1438,17 @@ Jeg er den, o min Herre, der har vendt sit ansigt til Dig og har fæstnet sit h�
 
 -- Bahá'u'lláh
 
-bpn8111 «[Dansk](../da/prayers/#bpn8111)» 
+bpn8111 
 
 ----
 
 
 <a id="bpn8112"></a> 
-Du ser mig, o min Herre, med mit ansigt vendt mod Din gavmildheds himmel og Dine gavers hav, fjernt fra alt undtagen Dig. Jeg beder Dig ved stråleglansen fra Din åbenbarings sol på Sinai og de tindrende stråler fra Din nådes himmellegeme, der skinner fra horisonten i Dit Navn, Den Evigt Tilgivende, om at skænke mig Din forladelse og have barmhjertighed med mig. Nedskriv da for mig med Din herligheds Pen det der skal ophøje mig gennem Dit Navn i skabelsens verden.Hjælp mig, o min Herre, at vende mig til Dig og lytte til stemmen fra Dine elskede, som jordens magter ikke har evnet at svække, og nationernes herredømme ikke har magtet at holde tilbage fra Dig, og som, medens de gik Dig i møde, sagde: &#34;Gud er vor Herre, Herren for alle, der er i himlen og alle, der er på jorden.
+Du ser mig, o min Herre, med mit ansigt vendt mod Din gavmildheds himmel og Dine gavers hav, fjernt fra alt undtagen Dig. Jeg beder Dig ved stråleglansen fra Din åbenbarings sol på Sinai og de tindrende stråler fra Din nådes himmellegeme, der skinner fra horisonten i Dit Navn, Den Evigt Tilgivende, om at skænke mig Din forladelse og have barmhjertighed med mig. Nedskriv da for mig med Din herligheds Pen det der skal ophøje mig gennem Dit Navn i skabelsens verden.Hjælp mig, o min Herre, at vende mig til Dig og lytte til stemmen fra Dine elskede, som jordens magter ikke har evnet at svække, og nationernes herredømme ikke har magtet at holde tilbage fra Dig, og som, medens de gik Dig i møde, sagde: "Gud er vor Herre, Herren for alle, der er i himlen og alle, der er på jorden.
 
 -- Bahá'u'lláh
 
-bpn8112 «[Dansk](../da/prayers/#bpn8112)» 
+bpn8112 
 
 ----
 
@@ -1457,7 +1458,7 @@ Lovet være Dit navn, o min Gud og alle tings Gud, min herlighed og alle tings h
 
 -- Bahá'u'lláh
 
-bpn8113 «[Dansk](../da/prayers/#bpn8113)» 
+bpn8113 
 
 ----
 
@@ -1467,7 +1468,7 @@ O Gud vor Herre! Beskyt os gennem Din nåde mod alt hvad der må være Dig imod,
 
 -- Báb
 
-bpn8114 «[Dansk](../da/prayers/#bpn8114)» 
+bpn8114 
 
 ----
 
@@ -1477,7 +1478,7 @@ Lovet være Du, o Herre. Tilgiv os vore synder, hav barmhjertighed med os og få
 
 -- Báb
 
-bpn8115 «[Dansk](../da/prayers/#bpn8115)» 
+bpn8115 
 
 ----
 
@@ -1487,7 +1488,7 @@ Jeg beder Dig tilgive mig, o min Herre, enhver tale undtagen talen om Dig, og en
 
 -- Báb
 
-bpn8116 «[Dansk](../da/prayers/#bpn8116)» 
+bpn8116 
 
 ----
 
@@ -1497,7 +1498,7 @@ bpn8116 «[Dansk](../da/prayers/#bpn8116)»
 
 -- Báb
 
-bpn8117 «[Dansk](../da/prayers/#bpn8117)» 
+bpn8117 
 
 ----
 
@@ -1507,7 +1508,7 @@ O Du tilgivende Herre! Du er tilflugten for alle disse Dine tjenere. Du kender h
 
 -- Abdu'l-Bahá
 
-bpn8118 «[Dansk](../da/prayers/#bpn8118)» 
+bpn8118 
 
 ----
 
@@ -1521,7 +1522,7 @@ Lovet være Dit navn, o Herre min Gud! Mørke er faldet over alle lande, og onde
 
 -- Bahá'u'lláh
 
-bpn8170 «[Dansk](../da/prayers/#bpn8170)» 
+bpn8170 
 
 ----
 
@@ -1531,7 +1532,7 @@ bpn8170 «[Dansk](../da/prayers/#bpn8170)»
 
 -- Báb
 
-bpn8171 «[Dansk](../da/prayers/#bpn8171)» 
+bpn8171 
 
 ----
 
@@ -1541,7 +1542,7 @@ O Herre! Drag omsorg for den hastige vækst i Din guddommelige enheds træ; vand
 
 -- Báb
 
-bpn8172 «[Dansk](../da/prayers/#bpn8172)» 
+bpn8172 
 
 ----
 
@@ -1551,7 +1552,7 @@ O Herre! Gør Dine tålmodige tjenere sejrrige i Dine dage ved at skænke dem en
 
 -- Báb
 
-bpn8173 «[Dansk](../da/prayers/#bpn8173)» 
+bpn8173 
 
 ----
 
@@ -1561,17 +1562,17 @@ O Herre! Lad alle jordens folk få adgang til Din tros paradis, således at inte
 
 -- Báb
 
-bpn8174 «[Dansk](../da/prayers/#bpn8174)» 
+bpn8174 
 
 ----
 
 
 <a id="bpn8175"></a> 
-O Gud, min Gud! Lovpriset være Du for at have tændt den guddommelige kærligheds ild i det hellige træ på toppen af det højeste bjerg: Det træ som &#34;hverken er fra øst eller vest,”den ild der flammede op indtil dens flamme hævede sig mod den højeste forsamling, og fra den opfangede disse virkeligheder ledelsens lys og råbte: &#34;Vi har sandelig set en ild på Sinaibjergets side.”O Gud, min Gud! Styrk denne ild som dag følger på dag, indtil dens udbrud sætter hele jorden i bevægelse. O Du min Herre! Tænd Din kærligheds lys i hvert et hjerte, indblæs i menneskers sjæle Din kundskabs ånd, glæd deres bryst med Din enheds vers. Kald dem til live der hviler i deres grave, advar de stolte, gør glæden verdensomfattende, nedsend Dine krystalklare vande, og i forsamlingen af åbenbar stråleglans, lad det bæger gå rundt der er &#34;tilberedt ved kamferkilden.”Sandelig Du er Den Givende, Den Tilgivende, Den Evigt Givende. Sandelig er Du Den Barmhjertige, Den Medfølende.
+O Gud, min Gud! Lovpriset være Du for at have tændt den guddommelige kærligheds ild i det hellige træ på toppen af det højeste bjerg: Det træ som "hverken er fra øst eller vest,”den ild der flammede op indtil dens flamme hævede sig mod den højeste forsamling, og fra den opfangede disse virkeligheder ledelsens lys og råbte: "Vi har sandelig set en ild på Sinaibjergets side.”O Gud, min Gud! Styrk denne ild som dag følger på dag, indtil dens udbrud sætter hele jorden i bevægelse. O Du min Herre! Tænd Din kærligheds lys i hvert et hjerte, indblæs i menneskers sjæle Din kundskabs ånd, glæd deres bryst med Din enheds vers. Kald dem til live der hviler i deres grave, advar de stolte, gør glæden verdensomfattende, nedsend Dine krystalklare vande, og i forsamlingen af åbenbar stråleglans, lad det bæger gå rundt der er "tilberedt ved kamferkilden.”Sandelig Du er Den Givende, Den Tilgivende, Den Evigt Givende. Sandelig er Du Den Barmhjertige, Den Medfølende.
 
 -- Abdu'l-Bahá
 
-bpn8175 «[Dansk](../da/prayers/#bpn8175)» 
+bpn8175 
 
 ----
 
@@ -1581,7 +1582,7 @@ Han er Gud!O Herre, min Gud, min Højest Elskede! Disse er Dine tjenere, der har
 
 -- Abdu'l-Bahá
 
-bpn8176 «[Dansk](../da/prayers/#bpn8176)» 
+bpn8176 
 
 ----
 
@@ -1591,11 +1592,11 @@ bpn8176 «[Dansk](../da/prayers/#bpn8176)»
 ## Undervisning
 
 <a id="bpn8119"></a> 
-Forherliget være Dit navn, o min Gud, fordi Du har manifesteret den dag, der er dagenes konge, den dag, som Du bekendtgjorde for Dine udvalgte og Dine profeter i Dine ypperste breve, den dag, da Du kastede glansen fra alle Dine navnes herlighed på alt skabt. Stor er velsignelsen for enhver, der har vendt sig til Dig og er kommet Dig nær og har opfanget Din stemmes tonefald.Jeg bønfalder Dig, o min Herre, ved Hans navn, om hvem Dine navnes rige kredser i tilbedelse, om at Du nådigt vil hjælpe dem, der er Dig kære, at forherlige Dit ord blandt Dine tjenere og udbrede Din lovprisning blandt Dine skabninger, så henrykkelsen over Din åbenbaring kan fylde sjælene hos alle beboerne af Din jord.Siden Du, o min Herre, har ledet dem til Din nådes levende vande, giv da ved Din gavmildhed at de ikke må blive holdt tilbage fra Dig; og eftersom Du har kaldt dem til Din trones bolig, driv dem da, på grund af Din kærlige omsorg, ikke bort fra Din nærværelse. Nedsend det til dem, der vil løsrive dem helt fra alt andet end Dig og gør dem i stand til at hæve sig op til Din nærheds atmosfære i den grad, at hverken tyrannens overmagt eller tankerne hos dem, der har tvivlet på Dit mest ophøjede og mægtigste selv, vil være i stand til at holde dem borte fra Dig.Bahá&#39;lláh Lovet være Du, o Herre min Gud! Jeg bønfalder Dig ved Dit navn, som ingen på rette måde har erkendt, og hvis betydning ingen sjæl har fattet, jeg bønfalder Dig ved Ham, der er udspringet for Din åbenbaring og daggryet for Dine tegn, om at gøre mit hjerte til et gemme, hvor Din kærlighed og erindringen om den bevares. Knyt det da til Dit allerstørste hav, at Din visdoms levende vande og Din forherligelses og lovprisnings krystalklare strømme kan flyde fra det.Mine legemsdele vidner om Din enhed, og mine hovedhår forkynder om styrken i Dit herredømme og Din magt. Jeg har stået ved Din nådes dør med ubetinget selvudslettelse og fuldkommen selvfornægtelse og klynget mig til Din gavmildheds kjortelsøm og fæstet mit blik på Dine gavers horisont.Bestem Du for mig, o min Gud, hvad der anstår sig storheden i Din majestæt og hjælp mig ved Din styrkende nåde at berette om Din sag, således at de døde må haste ud af deres gravkamre og ile mod Dig i fuld tillid til Dig og med deres blik rettet mod Din sags opgående sol og Din åbenbarings dæmringssted.Du er i sandhed Den Mest Magtfulde, Den Højeste, Den Alvidende, Den Alvise.
+Forherliget være Dit navn, o min Gud, fordi Du har manifesteret den dag, der er dagenes konge, den dag, som Du bekendtgjorde for Dine udvalgte og Dine profeter i Dine ypperste breve, den dag, da Du kastede glansen fra alle Dine navnes herlighed på alt skabt. Stor er velsignelsen for enhver, der har vendt sig til Dig og er kommet Dig nær og har opfanget Din stemmes tonefald.Jeg bønfalder Dig, o min Herre, ved Hans navn, om hvem Dine navnes rige kredser i tilbedelse, om at Du nådigt vil hjælpe dem, der er Dig kære, at forherlige Dit ord blandt Dine tjenere og udbrede Din lovprisning blandt Dine skabninger, så henrykkelsen over Din åbenbaring kan fylde sjælene hos alle beboerne af Din jord.Siden Du, o min Herre, har ledet dem til Din nådes levende vande, giv da ved Din gavmildhed at de ikke må blive holdt tilbage fra Dig; og eftersom Du har kaldt dem til Din trones bolig, driv dem da, på grund af Din kærlige omsorg, ikke bort fra Din nærværelse. Nedsend det til dem, der vil løsrive dem helt fra alt andet end Dig og gør dem i stand til at hæve sig op til Din nærheds atmosfære i den grad, at hverken tyrannens overmagt eller tankerne hos dem, der har tvivlet på Dit mest ophøjede og mægtigste selv, vil være i stand til at holde dem borte fra Dig.Bahá'lláh Lovet være Du, o Herre min Gud! Jeg bønfalder Dig ved Dit navn, som ingen på rette måde har erkendt, og hvis betydning ingen sjæl har fattet, jeg bønfalder Dig ved Ham, der er udspringet for Din åbenbaring og daggryet for Dine tegn, om at gøre mit hjerte til et gemme, hvor Din kærlighed og erindringen om den bevares. Knyt det da til Dit allerstørste hav, at Din visdoms levende vande og Din forherligelses og lovprisnings krystalklare strømme kan flyde fra det.Mine legemsdele vidner om Din enhed, og mine hovedhår forkynder om styrken i Dit herredømme og Din magt. Jeg har stået ved Din nådes dør med ubetinget selvudslettelse og fuldkommen selvfornægtelse og klynget mig til Din gavmildheds kjortelsøm og fæstet mit blik på Dine gavers horisont.Bestem Du for mig, o min Gud, hvad der anstår sig storheden i Din majestæt og hjælp mig ved Din styrkende nåde at berette om Din sag, således at de døde må haste ud af deres gravkamre og ile mod Dig i fuld tillid til Dig og med deres blik rettet mod Din sags opgående sol og Din åbenbarings dæmringssted.Du er i sandhed Den Mest Magtfulde, Den Højeste, Den Alvidende, Den Alvise.
 
 -- Bahá'u'lláh
 
-bpn8119 «[Dansk](../da/prayers/#bpn8119)» 
+bpn8119 
 
 ----
 
@@ -1605,7 +1606,7 @@ Forherliget er Du, o verdens Herre og nationernes attrå, o Du, der er blevet ma
 
 -- Bahá'u'lláh
 
-bpn8120 «[Dansk](../da/prayers/#bpn8120)» 
+bpn8120 
 
 ----
 
@@ -1615,7 +1616,7 @@ O Gud, som er Skaberen af alle manifestationer, kilden til alle kilder, oprindel
 
 -- Bahá'u'lláh
 
-bpn8121 «[Dansk](../da/prayers/#bpn8121)» 
+bpn8121 
 
 ----
 
@@ -1625,7 +1626,7 @@ O min Gud, hjælp Din tjener at opløfte Ordet og modbevise, hvad der er forfæn
 
 -- Abdu'l-Bahá
 
-bpn8122 «[Dansk](../da/prayers/#bpn8122)» 
+bpn8122 
 
 ----
 
@@ -1635,7 +1636,7 @@ O Gud, min Gud! Hjælp Dine betroede tjenere til at eje kærlige og milde hjerte
 
 -- Abdu'l-Bahá
 
-bpn8123 «[Dansk](../da/prayers/#bpn8123)» 
+bpn8123 
 
 ----
 
@@ -1645,7 +1646,7 @@ Du ser mig, O min Gud, nedbøjet i min ringhed, ydmyg over for Dine bud, idet je
 
 -- Abdu'l-Bahá
 
-bpn8124 «[Dansk](../da/prayers/#bpn8124)» 
+bpn8124 
 
 ----
 
@@ -1659,7 +1660,7 @@ Fra Din evigheds sødt duftende strømme giv mig at drikke, o min Gud, og af fru
 
 -- Bahá'u'lláh
 
-bpn8129 «[Dansk](../da/prayers/#bpn8129)» 
+bpn8129 
 
 ----
 
@@ -1669,7 +1670,7 @@ Skab i mig et rent hjerte, o min Gud, og giv mig påny en rolig samvittighed, o 
 
 -- Bahá'u'lláh
 
-bpn8130 «[Dansk](../da/prayers/#bpn8130)» 
+bpn8130 
 
 ----
 
@@ -1679,7 +1680,7 @@ Han er Den Nådige, den Algavmilde!O Gud, min Gud! Din kalden har tiltrukket mig
 
 -- Bahá'u'lláh
 
-bpn8131 «[Dansk](../da/prayers/#bpn8131)» 
+bpn8131 
 
 ----
 
@@ -1689,7 +1690,7 @@ O min Herre! Lad Din skønhed være min føde og Din nærværelse min drik og Di
 
 -- Bahá'u'lláh
 
-bpn8132 «[Dansk](../da/prayers/#bpn8132)» 
+bpn8132 
 
 ----
 
@@ -1699,7 +1700,7 @@ O min Gud, gavmildheds og barmhjertigheds Gud! Du er den konge, på hvis bud hel
 
 -- Bahá'u'lláh
 
-bpn8133 «[Dansk](../da/prayers/#bpn8133)» 
+bpn8133 
 
 ----
 
@@ -1709,7 +1710,7 @@ Han er den bønhørende Gud, den der besvarer bønner.Ved Din herlighed, o du El
 
 -- Bahá'u'lláh
 
-bpn8134 «[Dansk](../da/prayers/#bpn8134)» 
+bpn8134 
 
 ----
 
@@ -1719,7 +1720,7 @@ Forherliget er Du, o Herre min Gud! Jeg takker Dig for at Du har givet mig liv i
 
 -- Bahá'u'lláh
 
-bpn8135 «[Dansk](../da/prayers/#bpn8135)» 
+bpn8135 
 
 ----
 
@@ -1729,7 +1730,7 @@ Skænk mig, o min Gud, det fulde mål af Din kærlighed og Din glæde og lyksali
 
 -- Báb
 
-bpn8136 «[Dansk](../da/prayers/#bpn8136)» 
+bpn8136 
 
 ----
 
@@ -1739,7 +1740,7 @@ O Gud! Genopfrisk og glæd min ånd. Rens mit hjerte. Oplys mine evner. Jeg læg
 
 -- Abdu'l-Bahá
 
-bpn8137 «[Dansk](../da/prayers/#bpn8137)» 
+bpn8137 
 
 ----
 
@@ -1749,7 +1750,7 @@ O min Gud! O min Gud! Æret være Du fordi Du har bekræftet mig i erkendelsen a
 
 -- Abdu'l-Bahá
 
-bpn8138 «[Dansk](../da/prayers/#bpn8138)» 
+bpn8138 
 
 ----
 
@@ -1759,7 +1760,7 @@ O min Herre, O min Herre! Dette er en lampe, der er tændt ved Din kærligheds i
 
 -- Abdu'l-Bahá
 
-bpn8139 «[Dansk](../da/prayers/#bpn8139)» 
+bpn8139 
 
 ----
 
@@ -1769,7 +1770,7 @@ O min Gud! O min Gud! Denne Din tjener er kommet Dig imøde, vandrer med lidensk
 
 -- Abdu'l-Bahá
 
-bpn8140 «[Dansk](../da/prayers/#bpn8140)» 
+bpn8140 
 
 ----
 
@@ -1779,7 +1780,7 @@ O Gud, min Gud! Dette er Din lyksalige tjener, Din åndelige træl, der er drage
 
 -- Abdu'l-Bahá
 
-bpn8141 «[Dansk](../da/prayers/#bpn8141)» 
+bpn8141 
 
 ----
 
@@ -1789,7 +1790,7 @@ O Gud, min Gud! Disse er Dine svage tjenere; de er Dine trofaste trælle og Dine
 
 -- Abdu'l-Bahá
 
-bpn8142 «[Dansk](../da/prayers/#bpn8142)» 
+bpn8142 
 
 ----
 
@@ -1799,17 +1800,17 @@ Han er Gud!O Gud, min Gud! Disse er tjenere, der er tiltrukket af Din helligheds
 
 -- Abdu'l-Bahá
 
-bpn8143 «[Dansk](../da/prayers/#bpn8143)» 
+bpn8143 
 
 ----
 
 
 <a id="bpn8144"></a> 
-O Du Forsørger! Du har ladet de sødmefulde dufte fra Helligånden blæse hen over vennerne i vesten, og med lyset fra guddommelig ledelse har Du oplyst den vestlige himmel. Du har fået dem, der engang var fjerne, til at drage Dig nær; Du har forvandlet fremmede til kærlige venner; Du har vækket dem, der sov; Du har gjort de ligegyldige opmærksomme.O Du Forsørger! Hjælp disse ædle venner at vinde Dit velbehag og gør dem velgørende mod fremmede såvel som mod venner. Før dem ind i den verden der forbliver eviggt; skænk dem en andel af himmelsk nåde; lad dem blive sande bahá&#39;íer, Gud hengivne; frels dem fra ydre efterligninger og gør dem fast forankrede i sandheden. Gør dem til rigets tegn og vidnesbyrd, lysende stjerner over dette nedre livs horisont. Lad dem blive en trøst og vederkvægelse for menneskeheden og fredens tjenere i verden. Lad dem begejstres af Din rådgivnings vin og giv, at de alle må betræde den vej, der er Dit bud.O Du Forsørger! Det inderligste ønske for denne tjener ved Din tærskel er at se vennerne fra øst og vest i tæt forening; at se alle medlemmer af menneskesamfundet samlet i kærlighed i én eneste stor forsamling som enkelte vanddråber samlet i ét mægtigt hav, at se dem alle som fugle i én rosenhave, som perler fra ét hav, som blade på ét træ, som stråler fra én sol.Du er Den Mægtige, Den Magtfulde, og Du er styrkens Gud, Den Almægtige, Den Altskuende.
+O Du Forsørger! Du har ladet de sødmefulde dufte fra Helligånden blæse hen over vennerne i vesten, og med lyset fra guddommelig ledelse har Du oplyst den vestlige himmel. Du har fået dem, der engang var fjerne, til at drage Dig nær; Du har forvandlet fremmede til kærlige venner; Du har vækket dem, der sov; Du har gjort de ligegyldige opmærksomme.O Du Forsørger! Hjælp disse ædle venner at vinde Dit velbehag og gør dem velgørende mod fremmede såvel som mod venner. Før dem ind i den verden der forbliver eviggt; skænk dem en andel af himmelsk nåde; lad dem blive sande bahá'íer, Gud hengivne; frels dem fra ydre efterligninger og gør dem fast forankrede i sandheden. Gør dem til rigets tegn og vidnesbyrd, lysende stjerner over dette nedre livs horisont. Lad dem blive en trøst og vederkvægelse for menneskeheden og fredens tjenere i verden. Lad dem begejstres af Din rådgivnings vin og giv, at de alle må betræde den vej, der er Dit bud.O Du Forsørger! Det inderligste ønske for denne tjener ved Din tærskel er at se vennerne fra øst og vest i tæt forening; at se alle medlemmer af menneskesamfundet samlet i kærlighed i én eneste stor forsamling som enkelte vanddråber samlet i ét mægtigt hav, at se dem alle som fugle i én rosenhave, som perler fra ét hav, som blade på ét træ, som stråler fra én sol.Du er Den Mægtige, Den Magtfulde, og Du er styrkens Gud, Den Almægtige, Den Altskuende.
 
 -- Abdu'l-Bahá
 
-bpn8144 «[Dansk](../da/prayers/#bpn8144)» 
+bpn8144 
 
 ----
 
@@ -1823,7 +1824,7 @@ Når som helst I går ind i rådsværelset fremsig da denne bøn med et hjerte, 
 
 -- Abdu'l-Bahá
 
-bpn8177 «[Dansk](../da/prayers/#bpn8177)» 
+bpn8177 
 
 ----
 
@@ -1833,7 +1834,7 @@ Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:O Du kon
 
 -- Abdu'l-Bahá
 
-bpn8178 «[Dansk](../da/prayers/#bpn8178)» 
+bpn8178 
 
 ----
 
@@ -1843,7 +1844,7 @@ Bøn til afslutning af møde i det åndelige råd:O Gud! O Gud! Fra Din enheds u
 
 -- Abdu'l-Bahá
 
-bpn8179 «[Dansk](../da/prayers/#bpn8179)» 
+bpn8179 
 
 ----
 
@@ -1853,21 +1854,21 @@ bpn8179 «[Dansk](../da/prayers/#bpn8179)»
 ## Ægteskab
 
 <a id="bpn8125"></a> 
-*”Bahá&#39;í ægteskab er forening og hjertelig hengivenhed mellem de to parter. De skal dog udvise den største omhu og blive fortrolige med hinandens karakter. Denne evige forbindelse skal sikres med en fast pagt, og hensigten må være at fremelske harmoni, fællesskab og enhed og at få evigt liv.” - ‘Abdu’l-Bahá  Ægteskabsløftet, de vers, der skal siges individuelt af bruden og brudgommen i nærværelse af mindst to vidner, der kan godtages af det åndelige råd, er som fastsat i Kitáb-i-Aqdas (Den Helligste Bog)*”Vi vil i sandhed alle adlyde Guds vilje&#34;.Han er den Givende, den Gavmilde!Lovpriset være Gud, Den Urgamle, Den Evigt værende, Den Uforanderlige, Den Evige! Han der i sin egen væren har bevidnet, at Han i sandhed er Den Ene, Den Eneste, Den Uhindrede, Den Ophøjede! Vi bevidner, at der i sandhed ikke er nogen Gud undtagen Ham i erkendelse af Hans enhed og i bekendelse af Hans helhed. Han har altid boet i utilgængelige højder, på sin højheds tinder, lutret for al omtale undtagen af Ham selv, hævet over enhver beskrivelse af andre end Ham.Og da Han ønskede at vise mennesker nåde og godhed og bringe orden i verden, åbenbarede Han forordninger og skabte love; deriblandt oprettede Han loven om ægteskab, gjorde det til en fæstning for velfærd og frelse og påbød os det, der var sendt ned fra hellighedens himmel i sin Helligste Bog.Han siger, stor er Hans herlighed: &#34;Indgå ægteskab, o mennesker, at der fra jer må fremstå den, der vil ihukomme Mig blandt Mine tjenere; dette er et af Mine bud til jer; adlyd det som en hjælp for jer selv.”
+*”Bahá'í ægteskab er forening og hjertelig hengivenhed mellem de to parter. De skal dog udvise den største omhu og blive fortrolige med hinandens karakter. Denne evige forbindelse skal sikres med en fast pagt, og hensigten må være at fremelske harmoni, fællesskab og enhed og at få evigt liv.” - ‘Abdu’l-Bahá  Ægteskabsløftet, de vers, der skal siges individuelt af bruden og brudgommen i nærværelse af mindst to vidner, der kan godtages af det åndelige råd, er som fastsat i Kitáb-i-Aqdas (Den Helligste Bog)*”Vi vil i sandhed alle adlyde Guds vilje".Han er den Givende, den Gavmilde!Lovpriset være Gud, Den Urgamle, Den Evigt værende, Den Uforanderlige, Den Evige! Han der i sin egen væren har bevidnet, at Han i sandhed er Den Ene, Den Eneste, Den Uhindrede, Den Ophøjede! Vi bevidner, at der i sandhed ikke er nogen Gud undtagen Ham i erkendelse af Hans enhed og i bekendelse af Hans helhed. Han har altid boet i utilgængelige højder, på sin højheds tinder, lutret for al omtale undtagen af Ham selv, hævet over enhver beskrivelse af andre end Ham.Og da Han ønskede at vise mennesker nåde og godhed og bringe orden i verden, åbenbarede Han forordninger og skabte love; deriblandt oprettede Han loven om ægteskab, gjorde det til en fæstning for velfærd og frelse og påbød os det, der var sendt ned fra hellighedens himmel i sin Helligste Bog.Han siger, stor er Hans herlighed: "Indgå ægteskab, o mennesker, at der fra jer må fremstå den, der vil ihukomme Mig blandt Mine tjenere; dette er et af Mine bud til jer; adlyd det som en hjælp for jer selv.”
 
 -- Bahá'u'lláh
 
-bpn8125 «[Dansk](../da/prayers/#bpn8125)» 
+bpn8125 
 
 ----
 
 
 <a id="bpn8126"></a> 
-Han er Gud!O uforlignelige Herre! I Din almægtige visdom har Du påbudt menneskene at indgå ægteskab, at slægtled kan følge slægtled i denne timelige verden, og de altid, så længe verden skal bestå, må være beskæftiget ved Din enheds Tærskel med tjeneste og tilbedelse, i hyldest, hengivelse og lovprisning. &#34;Jeg har alene skabt sjæle og mennesker, for at de skulle tilbede Mig.”Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds rede og giv dem evne til at tiltrække evig nåde, at der fra foreningen af disse to have af kærlighed må skylle en ømheds bølge, der kaster perler af rene og gode frugter på livets kyst. &#34;Han har frigjort de to have for at de kan møde hinanden: Imellem dem er en grænse, de ikke overskrider. Hvilken af jeres Herres begunstigelser vil I da fornægte? Fra hver fremdrager Han store og små perler.&#34;  O Du gode Herre! Lad dette ægteskab frembringe koraller og perler. Du er sandelig Den Almagtsfulde, Den Største, Den Evigt Tilgivende.
+Han er Gud!O uforlignelige Herre! I Din almægtige visdom har Du påbudt menneskene at indgå ægteskab, at slægtled kan følge slægtled i denne timelige verden, og de altid, så længe verden skal bestå, må være beskæftiget ved Din enheds Tærskel med tjeneste og tilbedelse, i hyldest, hengivelse og lovprisning. "Jeg har alene skabt sjæle og mennesker, for at de skulle tilbede Mig.”Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds rede og giv dem evne til at tiltrække evig nåde, at der fra foreningen af disse to have af kærlighed må skylle en ømheds bølge, der kaster perler af rene og gode frugter på livets kyst. "Han har frigjort de to have for at de kan møde hinanden: Imellem dem er en grænse, de ikke overskrider. Hvilken af jeres Herres begunstigelser vil I da fornægte? Fra hver fremdrager Han store og små perler."  O Du gode Herre! Lad dette ægteskab frembringe koraller og perler. Du er sandelig Den Almagtsfulde, Den Største, Den Evigt Tilgivende.
 
 -- Abdu'l-Bahá
 
-bpn8126 «[Dansk](../da/prayers/#bpn8126)» 
+bpn8126 
 
 ----
 
@@ -1877,7 +1878,7 @@ bpn8126 «[Dansk](../da/prayers/#bpn8126)»
 
 -- Abdu'l-Bahá
 
-bpn8127 «[Dansk](../da/prayers/#bpn8127)» 
+bpn8127 
 
 ----
 
@@ -1887,7 +1888,7 @@ O min Herre! O min Herre! Disse to lysende måner er viet i Din kærlighed, fore
 
 -- Abdu'l-Bahá
 
-bpn8128 «[Dansk](../da/prayers/#bpn8128)» 
+bpn8128 
 
 ----
 

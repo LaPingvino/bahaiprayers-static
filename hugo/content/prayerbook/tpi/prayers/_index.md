@@ -5,6 +5,7 @@ tags = ['lang=tpi', 'prayerbook']
 
 
 
+
 [ASSISTANCE](#ASSISTANCE)
 
 [BURIAL OF THE DEAD](#BURIAL+OF+THE+DEAD)
@@ -81,7 +82,7 @@ O God.  Mi laikim tumas pes bilong Yu.  Naispela bilong Yu i olsem ples strong w
 
 -- Bahá'u'lláh
 
-bpn12948 «[Tok Pisin](../tpi/prayers/#bpn12948)» 
+bpn12948 
 
 ----
 
@@ -91,7 +92,7 @@ O Bikpela bilong mi!  Mekim Naispela bilong Yu i stap olsem kaikai bilong mi.  N
 
 -- Bahá'u'lláh
 
-bpn12949 «[Tok Pisin](../tpi/prayers/#bpn12949)» 
+bpn12949 
 
 ----
 
@@ -101,7 +102,7 @@ O Bikpela bilong mi!  O Bikpela bilong mi!  Dispela man i wanpela lam i save kis
 
 -- Abdu'l-Bahá
 
-bpn12950 «[Tok Pisin](../tpi/prayers/#bpn12950)» 
+bpn12950 
 
 ----
 
@@ -111,7 +112,7 @@ O God, mekim spirit bilong mi i kamap nupela gen na amamas.  Rausim ol samting n
 
 -- Abdu'l-Bahá
 
-bpn12951 «[Tok Pisin](../tpi/prayers/#bpn12951)» 
+bpn12951 
 
 ----
 
@@ -121,7 +122,7 @@ Bikpela!  Mipela i tarangu tru.  Inap Yu marimari long mipela.  Yes, mipela i ra
 
 -- Abdu'l-Bahá
 
-bpn12959 «[Tok Pisin](../tpi/prayers/#bpn12959)» 
+bpn12959 
 
 ----
 
@@ -131,11 +132,11 @@ bpn12959 «[Tok Pisin](../tpi/prayers/#bpn12959)»
 ## BURIAL OF THE DEAD
 
 <a id="bpn12967"></a> 
-Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: &#34;Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu...&#34;  O God bilong mi!  Dispela em wokman bilong Yu na pikinini man bilong wokman bilong Yu.  Em i bilip long Yu na long ol mak bilong Yu na em i bin tanim pes bilong en i kam long Yu.  Em i bin tanim baksait long olgeta arapela samting na em i bin lukluk long Yu tasol.  Tru tumas.  Marimari bilong Yu i winim marimari bilong olgeta arapela husat i save sori long ol man.  O Yu, Husat i save pogivim ol sin bilong ol man na karamapim ol rong bilong ol, mekim long em long pasin bilong heven bilong blesing na solwara bilong marimari bilong Yu.  Larim em i kam insait long ples bilong bikpela marimari bilong Yu.  Dispela marimari i bin stap bipo long kamap bilong graun na heven.  I no gat narapela God, Yu tasol i stap.  Yu Save Pogivim Ol Rong Oltaim na Yu Save Givim Planti Samting Tru.  Orait, kolim AllÆh-u-AbhÆ! sikispela taim na bihain long wan wan taim kolim ol dispela tok 19-pela taim:  Allah-u-Abha!Tru tumas, yumi olgeta lotu long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta brukim skru long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta bihainim God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta litimapim Nem bilong God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta tok tenkyu long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta stap isi wantaim God. (19-pela taim)   This is the only Bahá’í obligatory prayer which is to be said in a group; it is to be recited before the burial by one believer while everyone stands. If the person who has died is a woman, then the words &#34;Thy servant and the son of Thy servant&#34; can be changed to: &#34;This is Thy handmaiden and the daughter of Thy handmaiden...&#34; and &#34;her&#34; instead of &#34;him.  O my God! This is Thy servant and the son of Thy servant who hath believed in Thee and in Thy signs, and set his face towards Thee, wholly detached from all except Thee.  Thou art, verily, of those who show mercy the most merciful.  Deal with him, O Thou Who forgivest the sins of men and concealest their faults, as beseemeth the heaven of Thy bounty and the ocean of Thy grace.  Grant him admission within the precincts of Thy transcendent mercy that was before the foundation of earth and heaven.  There is no God but Thee, the Ever-Forgiving, the Most Generous.  Let him, then, repeat the greeting AllÆh-u-AbhÆ! six times, each time followed by 19 repetitions of the following verses:  Allah-u-Abha!We all, verily, worship God. (19 times) AllÆh-u-AbhÆ! We all, verily, bow down before God. (19 times) AllÆh-u-AbhÆ! We all, verily, are devoted unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, give praise unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, yield thanks unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, are patient in God. (19 times)
+Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: "Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu..."  O God bilong mi!  Dispela em wokman bilong Yu na pikinini man bilong wokman bilong Yu.  Em i bilip long Yu na long ol mak bilong Yu na em i bin tanim pes bilong en i kam long Yu.  Em i bin tanim baksait long olgeta arapela samting na em i bin lukluk long Yu tasol.  Tru tumas.  Marimari bilong Yu i winim marimari bilong olgeta arapela husat i save sori long ol man.  O Yu, Husat i save pogivim ol sin bilong ol man na karamapim ol rong bilong ol, mekim long em long pasin bilong heven bilong blesing na solwara bilong marimari bilong Yu.  Larim em i kam insait long ples bilong bikpela marimari bilong Yu.  Dispela marimari i bin stap bipo long kamap bilong graun na heven.  I no gat narapela God, Yu tasol i stap.  Yu Save Pogivim Ol Rong Oltaim na Yu Save Givim Planti Samting Tru.  Orait, kolim AllÆh-u-AbhÆ! sikispela taim na bihain long wan wan taim kolim ol dispela tok 19-pela taim:  Allah-u-Abha!Tru tumas, yumi olgeta lotu long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta brukim skru long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta bihainim God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta litimapim Nem bilong God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta tok tenkyu long God. (19-pela taim) AllÆh-u-AbhÆ! Tru tumas, yumi olgeta stap isi wantaim God. (19-pela taim)   This is the only Bahá’í obligatory prayer which is to be said in a group; it is to be recited before the burial by one believer while everyone stands. If the person who has died is a woman, then the words "Thy servant and the son of Thy servant" can be changed to: "This is Thy handmaiden and the daughter of Thy handmaiden..." and "her" instead of "him.  O my God! This is Thy servant and the son of Thy servant who hath believed in Thee and in Thy signs, and set his face towards Thee, wholly detached from all except Thee.  Thou art, verily, of those who show mercy the most merciful.  Deal with him, O Thou Who forgivest the sins of men and concealest their faults, as beseemeth the heaven of Thy bounty and the ocean of Thy grace.  Grant him admission within the precincts of Thy transcendent mercy that was before the foundation of earth and heaven.  There is no God but Thee, the Ever-Forgiving, the Most Generous.  Let him, then, repeat the greeting AllÆh-u-AbhÆ! six times, each time followed by 19 repetitions of the following verses:  Allah-u-Abha!We all, verily, worship God. (19 times) AllÆh-u-AbhÆ! We all, verily, bow down before God. (19 times) AllÆh-u-AbhÆ! We all, verily, are devoted unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, give praise unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, yield thanks unto God. (19 times) AllÆh-u-AbhÆ! We all, verily, are patient in God. (19 times)
 
 -- Bahá'u'lláh
 
-bpn12967 «[Tok Pisin](../tpi/prayers/#bpn12967)» 
+bpn12967 
 
 ----
 
@@ -149,7 +150,7 @@ O God, soim rot long mi.  Lukautim mi.  Mekim mi i kamap olsem lam i lait na sta
 
 -- Abdu'l-Bahá
 
-bpn12940 «[Tok Pisin](../tpi/prayers/#bpn12940)» 
+bpn12940 
 
 ----
 
@@ -159,7 +160,7 @@ O God!  Skulim ol dispela pikinini.  Ol dispela pikinini em ol kru long gaden di
 
 -- Abdu'l-Bahá
 
-bpn12941 «[Tok Pisin](../tpi/prayers/#bpn12941)» 
+bpn12941 
 
 ----
 
@@ -169,7 +170,7 @@ O Bikpela bilong mi! O Bikpela bilong mi! Mi yangpela pikinini yet na mi no gat 
 
 -- Abdu'l-Bahá
 
-bpn12942 «[Tok Pisin](../tpi/prayers/#bpn12942)» 
+bpn12942 
 
 ----
 
@@ -179,7 +180,7 @@ O Bikpela, Yu Naispela Olgeta!  Inap Yu mekim dispela liklik wokmeri bilong Yu i
 
 -- Abdu'l-Bahá
 
-bpn12943 «[Tok Pisin](../tpi/prayers/#bpn12943)» 
+bpn12943 
 
 ----
 
@@ -193,7 +194,7 @@ Bikpela bilong mi!  Bikpela bilong mi!  Mi litimapim Nem bilong Yu na mi tok ten
 
 -- Abdu'l-Bahá
 
-bpn12937 «[Tok Pisin](../tpi/prayers/#bpn12937)» 
+bpn12937 
 
 ----
 
@@ -203,7 +204,7 @@ O Bikpela bilong mi!  Mi makim dispela pikinini i stap insait long bel bilong mi
 
 -- Abdu'l-Bahá
 
-bpn12938 «[Tok Pisin](../tpi/prayers/#bpn12938)» 
+bpn12938 
 
 ----
 
@@ -217,7 +218,7 @@ O God bilong mi!  Inap Yu salim traipela blesing na gutpela presen bilong Yu i k
 
 -- Báb
 
-bpn12936 «[Tok Pisin](../tpi/prayers/#bpn12936)» 
+bpn12936 
 
 ----
 
@@ -231,7 +232,7 @@ O God bilong mi!  O Bikpela bilong mi!  O Papa bilong mi!  Mi askim strong long 
 
 -- Báb
 
-bpn12964 «[Tok Pisin](../tpi/prayers/#bpn12964)» 
+bpn12964 
 
 ----
 
@@ -245,7 +246,7 @@ O God, God bilong mi!  Givim lait long poret bilong ol lain manmeri, husat i lai
 
 -- Abdu'l-Bahá
 
-bpn12970 «[Tok Pisin](../tpi/prayers/#bpn12970)» 
+bpn12970 
 
 ----
 
@@ -259,7 +260,7 @@ O God bilong mi.  Nem bilong Yu i helpim mi long winim sik. Sapos mi tingim Yu, 
 
 -- Bahá'u'lláh
 
-bpn12952 «[Tok Pisin](../tpi/prayers/#bpn12952)» 
+bpn12952 
 
 ----
 
@@ -269,7 +270,7 @@ O God, O God bilong mi!  Mi askim strong long Yu long solwara bilong Yu bilong w
 
 -- Bahá'u'lláh
 
-bpn12953 «[Tok Pisin](../tpi/prayers/#bpn12953)» 
+bpn12953 
 
 ----
 
@@ -279,7 +280,7 @@ O God, my God!  I beg of Thee by the ocean of Thy healing, and by the splendors 
 
 -- Bahá'u'lláh
 
-bpn12954 «[Tok Pisin](../tpi/prayers/#bpn12954)» 
+bpn12954 
 
 ----
 
@@ -293,7 +294,7 @@ Tok olsem: O God. God bilong mi! Bilasim het bilong mi long hat king bilong stre
 
 -- Bahá'u'lláh
 
-bpn12935 «[Tok Pisin](../tpi/prayers/#bpn12935)» 
+bpn12935 
 
 ----
 
@@ -303,21 +304,21 @@ bpn12935 «[Tok Pisin](../tpi/prayers/#bpn12935)»
 ## MARRIAGE
 
 <a id="bpn12965"></a> 
-*Man na meri, taim tupela i laik marit, wan wan i mas autim Tok Promis bilong Marit long ai bilong tupela pesman, husat Spiritual Asembli bilong Ples i bin makim.  Bahá’íullÆh i bin raitim dispela Tok Promis bilong Marit insait long Buk i Holi Tru, em Kitab-i-Aqdas, olsem:  *&#34;Tru tumas, bai mipela olgeta i bihainim Laik bilong God.&#34;   *The pledge of marriage, the verse to be spoken individually by the bride and the bridegroom in the presence of at least two witnesses acceptable to the Spiritual Assembly is written in the Most Holy Book, the Kitab-i-Aqdas, as follows:  &#34;We will all, verily, abide by the Will of God.&#34;
+*Man na meri, taim tupela i laik marit, wan wan i mas autim Tok Promis bilong Marit long ai bilong tupela pesman, husat Spiritual Asembli bilong Ples i bin makim.  Bahá’íullÆh i bin raitim dispela Tok Promis bilong Marit insait long Buk i Holi Tru, em Kitab-i-Aqdas, olsem:  *"Tru tumas, bai mipela olgeta i bihainim Laik bilong God."   *The pledge of marriage, the verse to be spoken individually by the bride and the bridegroom in the presence of at least two witnesses acceptable to the Spiritual Assembly is written in the Most Holy Book, the Kitab-i-Aqdas, as follows:  "We will all, verily, abide by the Will of God."
 
 -- Bahá'u'lláh
 
-bpn12965 «[Tok Pisin](../tpi/prayers/#bpn12965)» 
+bpn12965 
 
 ----
 
 
 <a id="bpn12966"></a> 
-Em I Givim Planti Samting!  Em i Save Blesim Oltaim!  Litimapim nem bilong God, God Bilong Taim Bipo.  Em I Save Stap Oltaim.  Em I No Save Senis.  Em I Stap Oltaim Oltaim!  God i singaut long Spirit bilong En Yet.  Em i singaut olsem, tru tumas, Em Wanpela Tasol I Stap.  I No Gat Wanpela Samting I Ken Banisim God. Em I Stap Antap Tru.  Tru tumas.  Mipela i tokaut olsem, i no gat narapela God.  Em tasol i stap.  Mipela i luksave olsem, God  i wanpela tasol.  Mipela i tok tru olsem, Em tasol i Wanpis.  Oltaim God i save stap long ples antap tru, we i no gat man inap long go antap wantaim Em.  God i save stap long maunten bilong ples antap tru.  Em i antap long ol tok long ol narapela samting.  Long dispela ples i gat toktok na stori long God tasol.  Na taim God i laik soimaut marimari na gutpela pasin bilong En long ol man, na taim Em i laik stretim sindaun bilong dispela graun, orait,  Em i bin tokaut long sampela ol gutpela pasin na Em i bin mekim kamap sampela ol lo.  Wanpela lo Em i wokim, em lo bilong marit.  God i bin wokim dispela lo inap bai dispela lo i kamap olsem strongpela haus bilong lukautim ol man na kirapim bek ol man.  Dispela lo i bin kamdaun long heven holi na em i stap insait long Buk i Holi Tru.  Glori bilong God i bikpela tru.   Em i tok olsem:  *&#34;Marit, O ol manmeri, inap bai wanpela i kamap long yupela, em wanpela husat bai tingim Mi long ai bilong wokmanmeri bilong Mi.  Dispela lo em wanpela bilong ol strongpela tok bilong Mi i go long yupela.  Bihainim dispela lo bilong helpim yupela yet.&#34;  He is the Generous, the All-Bountiful!  Praise be to God, the Ancient, the Ever-Abiding, the Changeless, the Eternal!  He who hath testified in His Own Being that verily He is the One, the Single, the Untrammelled, the Exalted.  We bear witness that verily there is no God but Him; acknowledging His oneness, confessing His singleness.  He hath ever dwelt in unapproachable heights, in the summits of His loftiness, sanctified from the mention of aught save Himself, free from the description of aught but Him.  And when He desired to manifest grace and beneficence to men, and to set the world in order, He revealed observances and created laws; among them He established the law of marriage,  made it as a fortress for well-being and salvation, and enjoined it upon us in that which was sent down out of the heaven of sanctity in His Most Holy Book.  He saith, great is His glory:    *&#34;Marry, O people, that from you may appear he who will remember Me amongst My servants; this is one of My commandments unto you; obey it as an assistance to yourselves.&#34;  Glori i go long Yu, O God bilong mi! Tru tumas, dispela wokman na dispela wokmeri bilong Yu, tupela i bung aninit long mak bilong marimari bilong Yu.  Blesing na gutpela presen bilong Yu i bungim tupela wantaim.  O Bikpela!  Helpim tupela long dispela graun na long Kingdom bilong Yu.  Inap blesing na marimari bilong Yu i ken makim olgeta gutpela samting i go long tupela.  O Bikpela!  Strongim tupela long wokim wok bilong Yu na soim rot long tupela long helpim Yu.  Larim tupela i kamap olsem ol mak bilong Nem bilong Yu long dispela graun bilong Yu na lukautim tupela wantaim ol gutpela presen bilong Yu.  Yes, ol dispela presen i no inap pinis long dispela graun na tu long laip bihain.  O Bikpela!  Tupela i askim strong long Kingdom bilong marimari bilong Yu na long Kingdom bilong Yu i Wanpela.  Tru tumas, tupela i bihainim lo bilong Yu na tupela i marit pinis.  Mekim tupela i kamap olsem ol mak bilong wanbel na bung wantaim inap long pinis bilong taim.  Tru tumas.  Yu Strong Olgeta.  Yu Stap Long Olgeta Hap na Yu Gat Olgeta Strong!  Glory be unto Thee, O my God!  Verily this Thy servant and this Thy maid-servant have gathered under the shadow of Thy mercy and they are united through Thy favor and generosity.  O Lord!  Assist them in this Thy world and Thy kingdom and destine for them every good through Thy bounty and grace.  O Lord!  Confirm them in Thy servitude and assist them in Thy service.  Suffer them to become the signs of Thy Name in Thy world and protect them through Thy bestowals, which are inexhaustible in this world and the world to come.  O Lord! They are supplicating toward the Kingdom of Thy mercifulness and invoking toward the realm of Thy singleness.  Verily they are married in obedience to Thy command.  Cause them to become the signs of harmony and unity until the end of time.  Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
+Em I Givim Planti Samting!  Em i Save Blesim Oltaim!  Litimapim nem bilong God, God Bilong Taim Bipo.  Em I Save Stap Oltaim.  Em I No Save Senis.  Em I Stap Oltaim Oltaim!  God i singaut long Spirit bilong En Yet.  Em i singaut olsem, tru tumas, Em Wanpela Tasol I Stap.  I No Gat Wanpela Samting I Ken Banisim God. Em I Stap Antap Tru.  Tru tumas.  Mipela i tokaut olsem, i no gat narapela God.  Em tasol i stap.  Mipela i luksave olsem, God  i wanpela tasol.  Mipela i tok tru olsem, Em tasol i Wanpis.  Oltaim God i save stap long ples antap tru, we i no gat man inap long go antap wantaim Em.  God i save stap long maunten bilong ples antap tru.  Em i antap long ol tok long ol narapela samting.  Long dispela ples i gat toktok na stori long God tasol.  Na taim God i laik soimaut marimari na gutpela pasin bilong En long ol man, na taim Em i laik stretim sindaun bilong dispela graun, orait,  Em i bin tokaut long sampela ol gutpela pasin na Em i bin mekim kamap sampela ol lo.  Wanpela lo Em i wokim, em lo bilong marit.  God i bin wokim dispela lo inap bai dispela lo i kamap olsem strongpela haus bilong lukautim ol man na kirapim bek ol man.  Dispela lo i bin kamdaun long heven holi na em i stap insait long Buk i Holi Tru.  Glori bilong God i bikpela tru.   Em i tok olsem:  *"Marit, O ol manmeri, inap bai wanpela i kamap long yupela, em wanpela husat bai tingim Mi long ai bilong wokmanmeri bilong Mi.  Dispela lo em wanpela bilong ol strongpela tok bilong Mi i go long yupela.  Bihainim dispela lo bilong helpim yupela yet."  He is the Generous, the All-Bountiful!  Praise be to God, the Ancient, the Ever-Abiding, the Changeless, the Eternal!  He who hath testified in His Own Being that verily He is the One, the Single, the Untrammelled, the Exalted.  We bear witness that verily there is no God but Him; acknowledging His oneness, confessing His singleness.  He hath ever dwelt in unapproachable heights, in the summits of His loftiness, sanctified from the mention of aught save Himself, free from the description of aught but Him.  And when He desired to manifest grace and beneficence to men, and to set the world in order, He revealed observances and created laws; among them He established the law of marriage,  made it as a fortress for well-being and salvation, and enjoined it upon us in that which was sent down out of the heaven of sanctity in His Most Holy Book.  He saith, great is His glory:    *"Marry, O people, that from you may appear he who will remember Me amongst My servants; this is one of My commandments unto you; obey it as an assistance to yourselves."  Glori i go long Yu, O God bilong mi! Tru tumas, dispela wokman na dispela wokmeri bilong Yu, tupela i bung aninit long mak bilong marimari bilong Yu.  Blesing na gutpela presen bilong Yu i bungim tupela wantaim.  O Bikpela!  Helpim tupela long dispela graun na long Kingdom bilong Yu.  Inap blesing na marimari bilong Yu i ken makim olgeta gutpela samting i go long tupela.  O Bikpela!  Strongim tupela long wokim wok bilong Yu na soim rot long tupela long helpim Yu.  Larim tupela i kamap olsem ol mak bilong Nem bilong Yu long dispela graun bilong Yu na lukautim tupela wantaim ol gutpela presen bilong Yu.  Yes, ol dispela presen i no inap pinis long dispela graun na tu long laip bihain.  O Bikpela!  Tupela i askim strong long Kingdom bilong marimari bilong Yu na long Kingdom bilong Yu i Wanpela.  Tru tumas, tupela i bihainim lo bilong Yu na tupela i marit pinis.  Mekim tupela i kamap olsem ol mak bilong wanbel na bung wantaim inap long pinis bilong taim.  Tru tumas.  Yu Strong Olgeta.  Yu Stap Long Olgeta Hap na Yu Gat Olgeta Strong!  Glory be unto Thee, O my God!  Verily this Thy servant and this Thy maid-servant have gathered under the shadow of Thy mercy and they are united through Thy favor and generosity.  O Lord!  Assist them in this Thy world and Thy kingdom and destine for them every good through Thy bounty and grace.  O Lord!  Confirm them in Thy servitude and assist them in Thy service.  Suffer them to become the signs of Thy Name in Thy world and protect them through Thy bestowals, which are inexhaustible in this world and the world to come.  O Lord! They are supplicating toward the Kingdom of Thy mercifulness and invoking toward the realm of Thy singleness.  Verily they are married in obedience to Thy command.  Cause them to become the signs of harmony and unity until the end of time.  Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
 
 -- Bahá'u'lláh
 
-bpn12966 «[Tok Pisin](../tpi/prayers/#bpn12966)» 
+bpn12966 
 
 ----
 
@@ -331,7 +332,7 @@ O God bilong marimari!  Yu gat strong na pawa.  Na Yu olsem naispela Papa! Ol di
 
 -- Abdu'l-Bahá
 
-bpn12972 «[Tok Pisin](../tpi/prayers/#bpn12972)» 
+bpn12972 
 
 ----
 
@@ -341,7 +342,7 @@ O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go lo
 
 -- Abdu'l-Bahá
 
-bpn12973 «[Tok Pisin](../tpi/prayers/#bpn12973)» 
+bpn12973 
 
 ----
 
@@ -351,7 +352,7 @@ bpn12973 «[Tok Pisin](../tpi/prayers/#bpn12973)»
 
 -- Abdu'l-Bahá
 
-bpn12975 «[Tok Pisin](../tpi/prayers/#bpn12975)» 
+bpn12975 
 
 ----
 
@@ -365,7 +366,7 @@ O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu,
 
 -- Abdu'l-Bahá
 
-bpn12958 «[Tok Pisin](../tpi/prayers/#bpn12958)» 
+bpn12958 
 
 ----
 
@@ -379,7 +380,7 @@ O God bilong mi!  Mi kirap nau na mi stap gut insait long gutpela haus bilong Yu
 
 -- Bahá'u'lláh
 
-bpn12955 «[Tok Pisin](../tpi/prayers/#bpn12955)» 
+bpn12955 
 
 ----
 
@@ -389,11 +390,11 @@ bpn12955 «[Tok Pisin](../tpi/prayers/#bpn12955)»
 ## NAW RUZ
 
 <a id="bpn12978"></a> 
-##Naw Ruz *Naw-uz (No-Rus), namba 21 de long mun Mas, em i namba wan de bilong Bahá’í yia.  Em taim bilong amamas na soim gutpela pasin long olgeta manmeri.  Litimapim Nem bilong Yu, O God bilong mi!  Yu bin makim Naw-Rœz, em bikpela de bilong amamas bilong olgeta manmeri husat i bin bihainim lo bilong Yu long Taim bilong Lusim Kaikai.  Ol i bin bihainim dispela lo long wanem ol i laikim Yu tru na ol i laik abrusim olgeta samting nogut, em ol samting Yu no laikim olgeta. O Bikpela bilong mi!  Inap Yu ken mekim paia bilong bikpela laik long Yu wantaim hat bilong dispela Taim bilong Lusim Kaikai, tupela i ken kirapim paia bilong wokim wok bilong Lotu bilong Yu insait long bel bilong ol dispela manmeri.  Inap Yu ken mekim ol dispela lain i kirap long litimapim Nem bilong Yu na tingim Yu.  O Bikpela bilong mi!  Yu bin bilasim ol dispela lain wantaim dispela lo bilong Yu, em Taim bilong Lusim Kaikai.  Olsem na inap bai Yu bilasim ol wantaim bilas bilong tok orait bilong Yu wantaim.  Marimari long ol na givim gutpela blesing bilong Yu long ol.  Ol wok bilong olgeta man i stap aninit long gutpela laik na amamas bilong Yu.  Sapos wanpela man i brukim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i bihainim, orait, bai dispela man i stap olsem wanpela man, husat i holim dispela lo oltaim oltaim.  Na sapos wanpela man i bihainim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i brukim lo, orait, dispela man i stap olsem wanpela bilong ol dispela lain, husat i mekim doti Longpela Klos bilong Tokaut bilong Yu na em i stap longwe tru long klinpela wara bilong dispela Hul Wara bilong laip.  Yu bin sanapim wanpela plak i gat tok olsem long en:  &#34;Ol wok bilong Yu i Gutpela Olgeta&#34; na narapela plak i op i stap, em i gat tok olsem long en:  &#34;Olgeta i bihainim tok bilong Yu.&#34;  O God bilong mi!  Inap bai Yu mekim dispela mak bilong Yu i klia long ol wokman bilong Yu, inap bai ol i save olsem gutpela bilong olgeta samting i kam long laik bilong Yu wantaim toktok bilong Yu.  Na tu gutpela bilong olgeta wok i stap aninit long tok orait bilong Yu wantaim gutpela laik na amamas bilong Yu.  Inap bai ol wokman i save olsem ol wok bilong olgeta man i stap long han bilong tok orait bilong Yu wantaim lo bilong Yu.  Inap bai Yu mekim klia ol dispela samting long ol wokman, inap bai i no gat wanpela samting i ken pasim ai bilong ol long lukim Naispela bilong Yu.  Nau tasol, long dispela taim, Krais i tokaut olsem:  &#34;Yu Papa bilong olgeta hap, O Yu, Husat i bin mekim kamap dispela Spirit (em Jisas)&#34;;  na Pren bilong Yu (em Muhammad) Em i singaut olsem:  &#34;Glori i go long Yu, O Wanpela, Husat mipela i laikim tru, long wanem Yu bin mekim Naispela bilong Yu i kamap ples klia, na Yu bin makim ol gutpela samting long ol lain bilong Yu.  Ol dispela gutpela samting, em bilong helpim ol dispela lain long kam kamap long ples bilong tokaut long dispela Nem bilong Yu i Bikpela Olgeta.  Olgeta manmeri i save krai na sori, tasol ol lain, husat i lusim tingting long olgeta arapela samting na ol i holimpas long ol gutpela samting bilong Yu tasol, orait, ol dispela lain i no save sori.  Nogat.  Ol i tanim pes bilong ol i go long dispela Man, Husat i Tokaut long Yu na Em i Soimaut ol gutpela pasin bilong Yu.&#34;  O Bikpela bilong mi!  Em, Husat i Han Diwai bilong Yu wantaim ol lain bilong Yu, olgeta i bin pinisim Taim bilong Lusim Kaikai long dispela de.  Ol i bin makim dispela taim insait long ples holi bilong Yu, long wanem ol i gat bikpela laik long amamasim Yu.  Inap bai Yu givim olgeta gutpela samting Yu bin tokaut long en long Buk bilong Yu long em, wantaim ol dispela lain, na tu long ol manmeri, husat i bin kam insait long ples holi bilong Yu long dispela taim.  Orait, inap bai Yu givim ol gutpela samting long ol, em ol samting i ken helpim ol long dispela laip na tu long laip bihain.  Tru tumas.  Yu Gat Olgeta Save.  Yu Save Olgeta.   ##Naw RuzNaw Ruz (Arabic for New Day) , March 21st, is the first day of the Bahá’í year, and is a day of rejoicing and hospitality.  Praised be Thou, O my God, that Thou hast ordained Naw-Rœz as a festival unto those who have observed the fast for love of Thee and abstained from all that is abhorrent unto Thee.  Grant, O my Lord, that the fire of Thy love and the heat produced by the fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee.  Since Thou hast adorned them, O my Lord, with the ornament of the fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor.  For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest.  Shouldst Thou regard him who hath broken the fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the fast.  And shouldst Thou decree that he who hath observed the fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain.  Thou art He through Whom the ensign &#34;Praiseworthy art Thou in Thy works&#34; hath been lifted up, and the standard &#34;Obeyed are Thou in Thy behest&#34; hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good-pleasure of Thy will, and may recognize that the reins of men’s doings are within the grasp of Thine acceptance and Thy commandment. Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth:  &#34;All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)&#34;; and Thy Friend (Muhammad) crieth out:  &#34;Glory be to Thee, O Thou the Best-Beloved, for that Thou has uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves toward Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.&#34;  He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond.  Thou, in truth, art the All-Knowing, the All-Wise.
+##Naw Ruz *Naw-uz (No-Rus), namba 21 de long mun Mas, em i namba wan de bilong Bahá’í yia.  Em taim bilong amamas na soim gutpela pasin long olgeta manmeri.  Litimapim Nem bilong Yu, O God bilong mi!  Yu bin makim Naw-Rœz, em bikpela de bilong amamas bilong olgeta manmeri husat i bin bihainim lo bilong Yu long Taim bilong Lusim Kaikai.  Ol i bin bihainim dispela lo long wanem ol i laikim Yu tru na ol i laik abrusim olgeta samting nogut, em ol samting Yu no laikim olgeta. O Bikpela bilong mi!  Inap Yu ken mekim paia bilong bikpela laik long Yu wantaim hat bilong dispela Taim bilong Lusim Kaikai, tupela i ken kirapim paia bilong wokim wok bilong Lotu bilong Yu insait long bel bilong ol dispela manmeri.  Inap Yu ken mekim ol dispela lain i kirap long litimapim Nem bilong Yu na tingim Yu.  O Bikpela bilong mi!  Yu bin bilasim ol dispela lain wantaim dispela lo bilong Yu, em Taim bilong Lusim Kaikai.  Olsem na inap bai Yu bilasim ol wantaim bilas bilong tok orait bilong Yu wantaim.  Marimari long ol na givim gutpela blesing bilong Yu long ol.  Ol wok bilong olgeta man i stap aninit long gutpela laik na amamas bilong Yu.  Sapos wanpela man i brukim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i bihainim, orait, bai dispela man i stap olsem wanpela man, husat i holim dispela lo oltaim oltaim.  Na sapos wanpela man i bihainim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i brukim lo, orait, dispela man i stap olsem wanpela bilong ol dispela lain, husat i mekim doti Longpela Klos bilong Tokaut bilong Yu na em i stap longwe tru long klinpela wara bilong dispela Hul Wara bilong laip.  Yu bin sanapim wanpela plak i gat tok olsem long en:  "Ol wok bilong Yu i Gutpela Olgeta" na narapela plak i op i stap, em i gat tok olsem long en:  "Olgeta i bihainim tok bilong Yu."  O God bilong mi!  Inap bai Yu mekim dispela mak bilong Yu i klia long ol wokman bilong Yu, inap bai ol i save olsem gutpela bilong olgeta samting i kam long laik bilong Yu wantaim toktok bilong Yu.  Na tu gutpela bilong olgeta wok i stap aninit long tok orait bilong Yu wantaim gutpela laik na amamas bilong Yu.  Inap bai ol wokman i save olsem ol wok bilong olgeta man i stap long han bilong tok orait bilong Yu wantaim lo bilong Yu.  Inap bai Yu mekim klia ol dispela samting long ol wokman, inap bai i no gat wanpela samting i ken pasim ai bilong ol long lukim Naispela bilong Yu.  Nau tasol, long dispela taim, Krais i tokaut olsem:  "Yu Papa bilong olgeta hap, O Yu, Husat i bin mekim kamap dispela Spirit (em Jisas)";  na Pren bilong Yu (em Muhammad) Em i singaut olsem:  "Glori i go long Yu, O Wanpela, Husat mipela i laikim tru, long wanem Yu bin mekim Naispela bilong Yu i kamap ples klia, na Yu bin makim ol gutpela samting long ol lain bilong Yu.  Ol dispela gutpela samting, em bilong helpim ol dispela lain long kam kamap long ples bilong tokaut long dispela Nem bilong Yu i Bikpela Olgeta.  Olgeta manmeri i save krai na sori, tasol ol lain, husat i lusim tingting long olgeta arapela samting na ol i holimpas long ol gutpela samting bilong Yu tasol, orait, ol dispela lain i no save sori.  Nogat.  Ol i tanim pes bilong ol i go long dispela Man, Husat i Tokaut long Yu na Em i Soimaut ol gutpela pasin bilong Yu."  O Bikpela bilong mi!  Em, Husat i Han Diwai bilong Yu wantaim ol lain bilong Yu, olgeta i bin pinisim Taim bilong Lusim Kaikai long dispela de.  Ol i bin makim dispela taim insait long ples holi bilong Yu, long wanem ol i gat bikpela laik long amamasim Yu.  Inap bai Yu givim olgeta gutpela samting Yu bin tokaut long en long Buk bilong Yu long em, wantaim ol dispela lain, na tu long ol manmeri, husat i bin kam insait long ples holi bilong Yu long dispela taim.  Orait, inap bai Yu givim ol gutpela samting long ol, em ol samting i ken helpim ol long dispela laip na tu long laip bihain.  Tru tumas.  Yu Gat Olgeta Save.  Yu Save Olgeta.   ##Naw RuzNaw Ruz (Arabic for New Day) , March 21st, is the first day of the Bahá’í year, and is a day of rejoicing and hospitality.  Praised be Thou, O my God, that Thou hast ordained Naw-Rœz as a festival unto those who have observed the fast for love of Thee and abstained from all that is abhorrent unto Thee.  Grant, O my Lord, that the fire of Thy love and the heat produced by the fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee.  Since Thou hast adorned them, O my Lord, with the ornament of the fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor.  For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest.  Shouldst Thou regard him who hath broken the fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the fast.  And shouldst Thou decree that he who hath observed the fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain.  Thou art He through Whom the ensign "Praiseworthy art Thou in Thy works" hath been lifted up, and the standard "Obeyed are Thou in Thy behest" hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good-pleasure of Thy will, and may recognize that the reins of men’s doings are within the grasp of Thine acceptance and Thy commandment. Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth:  "All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)"; and Thy Friend (Muhammad) crieth out:  "Glory be to Thee, O Thou the Best-Beloved, for that Thou has uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves toward Him Who is the Revealer of Thyself and the Manifestation of Thine attributes."  He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond.  Thou, in truth, art the All-Knowing, the All-Wise.
 
 -- Bahá'u'lláh
 
-bpn12978 «[Tok Pisin](../tpi/prayers/#bpn12978)» 
+bpn12978 
 
 ----
 
@@ -407,7 +408,7 @@ O God bilong mi! Yu Papa bilong mi na mi laikim tumas Yu.  Dispela wokman bilong
 
 -- Bahá'u'lláh
 
-bpn12956 «[Tok Pisin](../tpi/prayers/#bpn12956)» 
+bpn12956 
 
 ----
 
@@ -417,7 +418,7 @@ O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep
 
 -- Bahá'u'lláh
 
-bpn12957 «[Tok Pisin](../tpi/prayers/#bpn12957)» 
+bpn12957 
 
 ----
 
@@ -431,7 +432,7 @@ O Bikpela!  Yu lukim olsem mipela i apim han bilong mipela i go long heven bilon
 
 -- Bahá'u'lláh
 
-bpn12939 «[Tok Pisin](../tpi/prayers/#bpn12939)» 
+bpn12939 
 
 ----
 
@@ -445,7 +446,7 @@ Tok olsem:  God i save inapim olgeta samting na Em i winim olgeta samting.  Na i
 
 -- Báb
 
-bpn12934 «[Tok Pisin](../tpi/prayers/#bpn12934)» 
+bpn12934 
 
 ----
 
@@ -459,7 +460,7 @@ O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim 
 
 -- Abdu'l-Bahá
 
-bpn12968 «[Tok Pisin](../tpi/prayers/#bpn12968)» 
+bpn12968 
 
 ----
 
@@ -473,7 +474,7 @@ O God, Yu Husat I Klin na Strong Olgeta!  O Bikpela bilong mi, Yu Husat I Save M
 
 -- Abdu'l-Bahá
 
-bpn12981 «[Tok Pisin](../tpi/prayers/#bpn12981)» 
+bpn12981 
 
 ----
 
@@ -483,11 +484,11 @@ bpn12981 «[Tok Pisin](../tpi/prayers/#bpn12981)»
 ## SHORT OBLIGATORY PRAYER
 
 <a id="bpn12930"></a> 
-##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE   Wan wan Baha&#39;i i mas kolim dispela prea wanpela taim long olgeta wan wan de namel long taim bilong belo i go inap long taim san i go daun.  Pastaim em i mas wasim han na pes bilong en, na bihain em i mas sanap na tanim pes bilong en i go long Ples Matmat bilong Baha&#39;u&#39;llah long Ples Tambu (Israel).  Olsem na long PNG man i mas sanap na tanim pes bilong en i go long ples we san i go daun na tanim long hansut liklik na kolim dispela prea.  O God bilong mi. Mi tokaut nau long Yu Yet i bin wokim mi bambai mi nap long save long Yu na lotuim Yu. Nau tasol mi tokaut olsem, mi no gat strong na Yu strong tru. Na mi tokaut tu olsem, mi rabis pinis na Yu holim olgeta samting.   I no gat narapela God. Yu tasol i stap. Yu Save Helpim Long Taim Bilong Bikpela Trabel.  Yu Inapim Yu Yet.    ##SHORT OBLIGATORY PRAYER   Every Baha&#39;i must say this prayer once each day, between noon and sunset. Before saying this prayer you should wash your hands and face and then stand and turn towards the Shrine of Baha&#39;u&#39;llah in the Holy Land (in Papua New Guinea this is towards the northwest).  I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee.  I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.
+##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE   Wan wan Baha'i i mas kolim dispela prea wanpela taim long olgeta wan wan de namel long taim bilong belo i go inap long taim san i go daun.  Pastaim em i mas wasim han na pes bilong en, na bihain em i mas sanap na tanim pes bilong en i go long Ples Matmat bilong Baha'u'llah long Ples Tambu (Israel).  Olsem na long PNG man i mas sanap na tanim pes bilong en i go long ples we san i go daun na tanim long hansut liklik na kolim dispela prea.  O God bilong mi. Mi tokaut nau long Yu Yet i bin wokim mi bambai mi nap long save long Yu na lotuim Yu. Nau tasol mi tokaut olsem, mi no gat strong na Yu strong tru. Na mi tokaut tu olsem, mi rabis pinis na Yu holim olgeta samting.   I no gat narapela God. Yu tasol i stap. Yu Save Helpim Long Taim Bilong Bikpela Trabel.  Yu Inapim Yu Yet.    ##SHORT OBLIGATORY PRAYER   Every Baha'i must say this prayer once each day, between noon and sunset. Before saying this prayer you should wash your hands and face and then stand and turn towards the Shrine of Baha'u'llah in the Holy Land (in Papua New Guinea this is towards the northwest).  I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee.  I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
 -- Bahá'u'lláh
 
-bpn12930 «[Tok Pisin](../tpi/prayers/#bpn12930)» 
+bpn12930 
 
 ----
 
@@ -497,11 +498,11 @@ bpn12930 «[Tok Pisin](../tpi/prayers/#bpn12930)»
 ## SPIRITUAL ASSEMBLY
 
 <a id="bpn12974"></a> 
-##PREA BILONG OPIM KIBUNG BILONG ASEMBLI  *Taim yupela opim kibung bilong Asembli, &#34;kolim dispela prea long pasin we bel bilong yupela i pulap long lav long God na maus bilong yupela i klin na i save tingim God tasol.  Olsem na inap God i marimari long yupela na helpim yupela long win long olgeta samting.  Pawa Bilong God I Winim Olgeta Samting.&#34;  O God!  O God bilong mi!  Mipela ol wokman bilong Yu i tanim i go long pes holi bilong Yu na lotu long Yu.  Long dispela bikpela De, em taim bilong glori, mipela i lusim ol arapela samting na tingim Yu tasol.  Mipela bung long dispela kibung bilong Spiritual Asembli na mipela i stap wanbel.  Ol tingting bilong mipela na ol wok bilong mipela i wok wantaim long litimapim Tok bilong Yu namel long ol manmeri.  O Bikpela, O God bilong mipela!  Inap bai Yu mekim mipela i kamap olsem ol mak bilong gutpela rot bilong Yu.  Inap bai mipela i kamap olsem plak bilong Lotu bilong Yu namel long ol man, em Lotu i stap antap tru.  Inap bai mipela i kamap ol wokman bilong Kontrak bilong Yu, em Kontrak i strong tru.  O Bikpela bilong mipela, Yu stap Antap Tru!  Inap bai mipela soimaut pasin bilong wanbel bilong Yu long Heven bilong Abha bilong Yu.  Inap bai mipela i kamap olsem ol sta i lait i go long olgeta hap.  Bikpela!  Helpim mipela, inap bai mipela i ken kamap olsem ol biksi i pulap long ol gutpela blesing bilong Yu.  Bai mipela i kamap olsem ol wara i kam daun long ples antap bilong Yu, em ples i pulap long glori.  Bai mipela i kamap olsem gutpela kaikai long diwai bilong Lotu bilong Yu, em Lotu bilong heven.  Bai mipela i kamap olsem ol diwai i wawan long naispela win bilong presen bilong Yu long gaden wain bilong heven bilong Yu.  O God!  Inap Yu mekim ol spirit bilong mipela i holimpas long ol toktok bilong wanbel bilong Yu tasol na ol bel bilong mipela i amamas long ol presen i kam long marimari bilong Yu.  Inap bai mipela i bung wantaim olsem si bilong wanpela solwara na mipela i pas wantaim olsem ol lait i sut na kamaut long bikpela lait bilong Yu.  Olsem na bai mipela olgeta i tingting long olgeta samting na lukim olgeta samting na skelim olgeta samting long wankain pasin wantaim.  Inap bai mipela i ken soimaut spirit bilong wanbel i go long olgeta hap graun.  Yu Marimari Long Olgeta, Yu Givim Bikpela Blesing, Yu Givim Gutpela Presen, Yu Gat Olgeta Strong, Yu Save Marimari Long Olgeta Man na Yu Save Sori Long Olgeta Man.      ##PRAYER TO OPEN THE MEETING   *Before the meeting begins, &#34;recite this prayer with a heart throbbing with the love of God and a tongue purified from all but His remembrance, that the All-Powerful may graciously aid you to achieve supreme victory.&#34;  O God!  My God!  We are servants of Thine that have turned with devotion to Thy holy face, that have detached ourselves from all besides Thee in this glorious Day.  We have gathered in this Spiritual Assembly, united in our views and thoughts, with our purposes harmonized to exalt Thy Word amidst mankind.  O Lord, our God!  Make us the signs of Thy divine guidance, the standards of Thine exalted Faith amongst men, servants to Thy mighty Covenant, O Thou our Lord Most High, manifestations of Thy divine unity in Thine Abha Kingdom, and resplendent stars shining upon all regions.  Lord!  Aid us to become seas surging with the billows of Thy wondrous grace, streams flowing from Thine all-glorious heights, goodly fruits upon the tree of Thy heavenly Cause, trees waving through the breezes of Thy bounty in Thy celestial vineyard.  O God!  Make our souls dependent upon the verses of Thy Divine Unity, our hearts cheered with the outpourings of Thy Grace, that we may unite even as the waves of one sea and become merged together as the rays of Thine effulgent Light; that our thoughts, our views, our feelings may become as one reality, manifesting the spirit of union throughout the world.  Thou art the Gracious, the Bountiful, the Bestower, the Almighty, the Merciful, the Compassionate.
+##PREA BILONG OPIM KIBUNG BILONG ASEMBLI  *Taim yupela opim kibung bilong Asembli, "kolim dispela prea long pasin we bel bilong yupela i pulap long lav long God na maus bilong yupela i klin na i save tingim God tasol.  Olsem na inap God i marimari long yupela na helpim yupela long win long olgeta samting.  Pawa Bilong God I Winim Olgeta Samting."  O God!  O God bilong mi!  Mipela ol wokman bilong Yu i tanim i go long pes holi bilong Yu na lotu long Yu.  Long dispela bikpela De, em taim bilong glori, mipela i lusim ol arapela samting na tingim Yu tasol.  Mipela bung long dispela kibung bilong Spiritual Asembli na mipela i stap wanbel.  Ol tingting bilong mipela na ol wok bilong mipela i wok wantaim long litimapim Tok bilong Yu namel long ol manmeri.  O Bikpela, O God bilong mipela!  Inap bai Yu mekim mipela i kamap olsem ol mak bilong gutpela rot bilong Yu.  Inap bai mipela i kamap olsem plak bilong Lotu bilong Yu namel long ol man, em Lotu i stap antap tru.  Inap bai mipela i kamap ol wokman bilong Kontrak bilong Yu, em Kontrak i strong tru.  O Bikpela bilong mipela, Yu stap Antap Tru!  Inap bai mipela soimaut pasin bilong wanbel bilong Yu long Heven bilong Abha bilong Yu.  Inap bai mipela i kamap olsem ol sta i lait i go long olgeta hap.  Bikpela!  Helpim mipela, inap bai mipela i ken kamap olsem ol biksi i pulap long ol gutpela blesing bilong Yu.  Bai mipela i kamap olsem ol wara i kam daun long ples antap bilong Yu, em ples i pulap long glori.  Bai mipela i kamap olsem gutpela kaikai long diwai bilong Lotu bilong Yu, em Lotu bilong heven.  Bai mipela i kamap olsem ol diwai i wawan long naispela win bilong presen bilong Yu long gaden wain bilong heven bilong Yu.  O God!  Inap Yu mekim ol spirit bilong mipela i holimpas long ol toktok bilong wanbel bilong Yu tasol na ol bel bilong mipela i amamas long ol presen i kam long marimari bilong Yu.  Inap bai mipela i bung wantaim olsem si bilong wanpela solwara na mipela i pas wantaim olsem ol lait i sut na kamaut long bikpela lait bilong Yu.  Olsem na bai mipela olgeta i tingting long olgeta samting na lukim olgeta samting na skelim olgeta samting long wankain pasin wantaim.  Inap bai mipela i ken soimaut spirit bilong wanbel i go long olgeta hap graun.  Yu Marimari Long Olgeta, Yu Givim Bikpela Blesing, Yu Givim Gutpela Presen, Yu Gat Olgeta Strong, Yu Save Marimari Long Olgeta Man na Yu Save Sori Long Olgeta Man.      ##PRAYER TO OPEN THE MEETING   *Before the meeting begins, "recite this prayer with a heart throbbing with the love of God and a tongue purified from all but His remembrance, that the All-Powerful may graciously aid you to achieve supreme victory."  O God!  My God!  We are servants of Thine that have turned with devotion to Thy holy face, that have detached ourselves from all besides Thee in this glorious Day.  We have gathered in this Spiritual Assembly, united in our views and thoughts, with our purposes harmonized to exalt Thy Word amidst mankind.  O Lord, our God!  Make us the signs of Thy divine guidance, the standards of Thine exalted Faith amongst men, servants to Thy mighty Covenant, O Thou our Lord Most High, manifestations of Thy divine unity in Thine Abha Kingdom, and resplendent stars shining upon all regions.  Lord!  Aid us to become seas surging with the billows of Thy wondrous grace, streams flowing from Thine all-glorious heights, goodly fruits upon the tree of Thy heavenly Cause, trees waving through the breezes of Thy bounty in Thy celestial vineyard.  O God!  Make our souls dependent upon the verses of Thy Divine Unity, our hearts cheered with the outpourings of Thy Grace, that we may unite even as the waves of one sea and become merged together as the rays of Thine effulgent Light; that our thoughts, our views, our feelings may become as one reality, manifesting the spirit of union throughout the world.  Thou art the Gracious, the Bountiful, the Bestower, the Almighty, the Merciful, the Compassionate.
 
 -- Abdu'l-Bahá
 
-bpn12974 «[Tok Pisin](../tpi/prayers/#bpn12974)» 
+bpn12974 
 
 ----
 
@@ -515,7 +516,7 @@ O Bikpela, God bilong mi!  Helpim ol pipel husat Yu laikim tru, inap bai ol i st
 
 -- Abdu'l-Bahá
 
-bpn12960 «[Tok Pisin](../tpi/prayers/#bpn12960)» 
+bpn12960 
 
 ----
 
@@ -525,7 +526,7 @@ O Bikpela!  Helpim mipela long wokabaut long rot bilong Yu tasol, na strongim mi
 
 -- Abdu'l-Bahá
 
-bpn12961 «[Tok Pisin](../tpi/prayers/#bpn12961)» 
+bpn12961 
 
 ----
 
@@ -539,7 +540,7 @@ bpn12961 «[Tok Pisin](../tpi/prayers/#bpn12961)»
 
 -- Bahá'u'lláh
 
-bpn12969 «[Tok Pisin](../tpi/prayers/#bpn12969)» 
+bpn12969 
 
 ----
 
@@ -549,11 +550,11 @@ bpn12969 «[Tok Pisin](../tpi/prayers/#bpn12969)»
 ## TABLET OF VISITATION
 
 <a id="bpn12979"></a> 
-##TABLET OF VISITATION   Ol Bahá’í i save kolim dispela prea long Ples Matmat bilong Bahá’íullÆh o long Ples Matmat bilong BÆb long Israel.  Na tu ol Bahá’í i save kolim dispela prea long taim bilong makim Taim Bahá’íullÆh i Dai Pinis o Taim Bab i Dai Pinis.  Tok amamas i bin kamap long Yu Yet na Yu Bikpela Olgeta.  Glori i bin lait i kam long Naispela bilong Yu, em naispela i pulap long lait.  Dispela tok amamas wantaim dispela glori i mas i kam bek na stap oltaim long Yu.  Yu mekim mak bilong Bikpela Olgeta i kamap ples klia.  Yu King bilong Oltaim.  Yu Papa bilong olgeta, husat i stap long heven wantaim dispela graun!  Mi tokaut olsem, long Yu bin mekim kamap ples klia ol pasin bilong God.  Em i gutpela tru, Em i Papa bilong olgeta samting, Em i gat pawa, Em i bikpela olgeta.  Na tu Yu bin wokim olsem, inap ol San bilong bikpela lait bilong bipo bipo tru i ken givim lait bilong ol i go long heven bilong strongpela tok bilong Yu.  Yu bin mekim olsem, inap Naispela bilong God, em Husat yumi no nap lukim, em i lait antap long olgeta samting long graun.  Na tu mi tokaut olsem,  taim Ing na Pen bilong Yu i bin stat long rait tasol, orait, olgeta samting i bin harim tok bilong Yu long &#34;kirap&#34;.  Na Yu bin mekim kamap ples klia olgeta Tok Hait bilong God.  Ing na Pen bilong Yu i bin mekim kamap olgeta samting i stap long graun.  Olsem na olgeta Tokaut bilong bipo i bin kam daun long Ing na Pen bilong Yu.  Mi tokaut tu olsem, taim mi lukim Naispela bilong Yu i olsem Naispela bilong God, Husat mi adorim tru,  i kamap ples klia.  Na taim mi lukim pes bilong Yu i olsem mi lukim pes bilong God. Husat mi laikim tru, i lait i kam.  Wanpela hap tok bilong Yu tasol, em inap long skelim olgeta samting long graun.  Olsem na Yu bin makim ol lain, husat i laikim tumas Yu, long go antap tru long ples bilong glori na ol lain, husat i bin tanim baksait long God, long pundaun long ples i daunbilo tru.  Mi tokaut olsem:  Sapos man i gat save long Yu i olsem em i save long God.  Na sapos man i bin go na sanap long pes bilong Yu i olsem em i bin go sanap long pes bilong God.  Olsem na bikpela blesing i go long husat man i bin bilip long Yu na ol mak bilong Yu na husat i bin brukim skru bilong en long gutpela pasin tru bilong Yu. Bikpela ona i go long husat man i bin lukim pes bilong Yu na husat i bin winim amamas bilong  Laik bilong Yu.  Bikpela ona i go long husat man i bin raunim Yu na sanap long pes bilong sia king bilong Yu.  Sori tumas long husat man i no bin bihainim tok bilong Yu na husat i bin givim baksait long Yu na ol mak bilong Yu.  Sori tumas long husat man i no bilip long gutpela pasin tru bilong Yu, olsem na em i bin kirap long agensim Yu na hambak pasin bilong en i bin kamap bikpela tumas long pes bilong Yu.  Em i bin sakim tok bilong Yu na em i bin ranawe long ol lo bilong Yu. Em i no bilip olsem Yu stap antap long olgeta samting.  Kain man olsem God i skelim wantaim ol lain husat i no bilip long God.   Ol pinga bilong laik bilong Yu i bin raitim nem bilong ol dispela kain lain insait long ol Pas Holi bilong Yu.  O God bilong mi, mi laikim tumas Yu!  Mekim naispela win holi bilong ol blesing bilong Yu i kirap long han sut bilong marimari na gutpela lav bilong Yu.  Inap bai dispela win i kamap long mi na helpim mi long lusim tingting long mi yet na ol samting bilong graun.  Inap bai mi kamap long ples i stap klostu long Yu na sanap long pes bilong Yu.  Pawa bilong Yu, em inap long wokim olgeta samting long laik bilong Yu.  Tru tumas, Yu bin stap antap tru long olgeta samting.  Pasin bilong tingim God na litimapim Nem bilong En, wantaim glori bilong God na bikpela lait bilong En, ol dispela samting i mas i stap long Yu.  Yu olsem Naispela bilong En!  Mi tokaut olsem, ai bilong olgeta samting i stap long graun i no bin lukim wanpela tarangu i bin gat bikpela hevi moa long Yu.  Long olgeta de bilong laip bilong Yu i olsem Yu bin stap insait long solwara bilong traipela hevi.  Long wanpela taim ol i bin putim traipela sen long nek bilong Yu na ol i bin pasim lek bilong Yu long strongpela ain.  Long narapela taim ol birua bilong Yu i bin laik sutim Yu wantaim spia.  Tasol Yu no bin wari tumas long ol dispela rong ol i bin mekim.  Nogat.  Yu bin wok yet long singautim ol man long bihainim ol lo bilong God.  Em I Gat Olgeta Save.  Em i Save Olgeta.  Inap spirit bilong mi i ken kamap olsem ofa long ol rong i bin kamap insait long laip bilong Yu.  Inap sol bilong mi i ken kamap olsem pe bilong bekim ol bagarap i bin kisim Yu.  Mi tingim Yu na ol lain, husat pes bilong ol i pulap long bikpela lait bilong pes bilong Yu.  Em dispela lain i bin bihainim olgeta tok bilong Yu, long wanem ol i laikim tumas Yu.   Olsem na mi askim strong long God long rausim olgeta samting i bin kamap namel long Yu na ol manmeri bilong graun.   Na tu mi askim God long givim long mi olgeta gutpela samting bilong dispela laip wantaim laip i kamap bihain taim. Tru tumas.  Yu Gat Olgeta Strong, Yu Stap Antap Tru, Glori Bilong Yu I Gutpela Olgeta, Yu Save Pogivim Ol Rong Oltaim, Yu Save Sori Tru Long Olgeta Man.  O Bikpela, God bilong Mi!  Givim blesing bilong Yu long dispela Diwai Holi wantaim ol lip bilong En, na ol bikpela han bilong En, na ol han bilong En, na ol liklik han bilong En, na ol kru bilong En oltaim oltaim.  Sapos ol gutpela mak tru bilong Yu i stap yet na ol bikpela pasin tru bilong Yu i no pinis yet, orait,  givim blesing bilong Yu.  Lukautim dispela Diwai Holi na no ken larim ol wok nogut bilong ol birua wantaim ol bikpela lain bilong pawa nogut i bagarapim Em.  Tru tumas.  Yu Gat Olgeta Strong na Yu Gat Bikpela Pawa Tru.  O Bikpela, God bilong mi!  Givim blesing bilong Yu long ol wokman na ol wokmeri bilong Yu, husat i bin kam kamap long Yu.  Tru tumas.  Yu Save Blesim Oltaim.  Marimari bilong Yu i no gat pinis bilong en.  I no gat narapela God.  Yu tasol i stap.  Yu Save Pogivim Ol Rong Oltaim.  Yu Givim Planti Samting Tru.    ##TABLET OF VISITATION   This Tablet is read at the Shrines of Baha’u’llah and the Bab.  It is also frequently used in commemorating Their anniversaries.   The praise which hath dawned from Thy most august Self, and the glory which hath shone forth from Thy most effulgent Beauty, rest upon Thee, O Thou Who art the Manifestation of Grandeur, and the King of Eternity, and the Lord of all who are in heaven and on earth!  I testify that through Thee the sovereignty of God and His dominion, and the majesty of God and His grandeur, were revealed, and the Day-Stars of ancient splendor have shed their radiance in the heaven of Thine irrevocable decree, and the Beauty of the Unseen hath shone forth above the horizon of creation.  I testify, moveover, that with but a movement of thy Pen Thine injunction &#34;Be Thou&#34; hath been enforced, and God’s hidden Secret hath been divulged, and all created things have been called into being, and all the Revelations have been sent down.  I bear witness, moreover, that through Thy beauty the beauty of the Adored One hath been unveiled, and through Thy face the face of the Desired One hath shone forth, and that through a word from Thee Thou hast decided between all created things, causing them who are devoted to Thee to ascend unto the summit of glory, and the infidels to fall into the lowest abyss.  I bear witness that he who hath known Thee hath known God, and he who hath attained unto Thy presence hath attained unto the presence of God.  Great, therefore, is the blessedness of him who hath believed in Thee, and in Thy signs and hath humbled himself before Thy sovereignty, and hath been honored with meeting Thee, and hath atttained the good pleasure of Thy will, and circled around Thee, and stood before Thy throne.  Woe betide him that hath transgressed against Thee, and hath denied Thee, and repudiated Thy signs, and gainsaid Thy sovereignty, and risen up against Thee, and waxed proud before Thy face, and hath disputed Thy testimonies, and fled from Thy rule and Thy dominion, and been numbered with the infidels whose names have been inscribed by the fingers of Thy behest upon Thy holy Tablets.  Waft, then, unto me, O my God and my Beloved, from the right hand of Thy mercy and Thy loving-kindness, the holy breaths of Thy favors, that they may draw me away from myself and from the world unto the courts of Thy nearness and Thy presence.  Potent art Thou to do what pleaseth Thee.  Thou, truly, hast been supreme over all things.  The remembrance of God and His praise, and the glory of God and His splendor, rest upon Thee, O Thou who art His Beauty!  I bear witness that the eye of creation hath never gazed upon one wronged like Thee.  Thou wast immersed all the days of Thy life beneath an ocean of tribulations.  At one time Thou wast in chains and fetters; at another Thou was threatened by the sword of Thine enemies.  Yet, despite all this, Thou didst enjoin upon all men to observe what had been prescribed unto Thee by Him Who is the All-Knowing, the All-Wise.  May my spirit be a sacrifice to the wrongs Thou didst suffer, and my soul be a ranson for the adversities Thou didst sustain.  I beseech God, by Thee and by them whose faces have been illumined with the splendors of the light of Thy countenance, and who, for love of Thee, have observed all whereunto they were bidden, to remove the veils that have come in between Thee and Thy creatures, and to supply me with the good of this world and the world to come.  Thou art, in truth, the Almighty, the Most Exalted, the All-Glorious, the Ever-Forgiving, the Most Compassionate.  Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, and its branches, and its stems, and its offshoots, as long as Thy most excellent titles will endure and Thy most august attributes will last.  Protect it, then, from the mischief of the aggressor and the hosts of tyranny.  Thou art, in truth, the Almighty, the Most Powerful.  Bless Thou, also, O Lord my God, Thy servants and Thy handmaidens who have attained unto Thee.  Thou, truly, art the AllBountiful, Whose grace is infinite.  No God is there save Thee, the Ever-Forgiving, the Most Generous.
+##TABLET OF VISITATION   Ol Bahá’í i save kolim dispela prea long Ples Matmat bilong Bahá’íullÆh o long Ples Matmat bilong BÆb long Israel.  Na tu ol Bahá’í i save kolim dispela prea long taim bilong makim Taim Bahá’íullÆh i Dai Pinis o Taim Bab i Dai Pinis.  Tok amamas i bin kamap long Yu Yet na Yu Bikpela Olgeta.  Glori i bin lait i kam long Naispela bilong Yu, em naispela i pulap long lait.  Dispela tok amamas wantaim dispela glori i mas i kam bek na stap oltaim long Yu.  Yu mekim mak bilong Bikpela Olgeta i kamap ples klia.  Yu King bilong Oltaim.  Yu Papa bilong olgeta, husat i stap long heven wantaim dispela graun!  Mi tokaut olsem, long Yu bin mekim kamap ples klia ol pasin bilong God.  Em i gutpela tru, Em i Papa bilong olgeta samting, Em i gat pawa, Em i bikpela olgeta.  Na tu Yu bin wokim olsem, inap ol San bilong bikpela lait bilong bipo bipo tru i ken givim lait bilong ol i go long heven bilong strongpela tok bilong Yu.  Yu bin mekim olsem, inap Naispela bilong God, em Husat yumi no nap lukim, em i lait antap long olgeta samting long graun.  Na tu mi tokaut olsem,  taim Ing na Pen bilong Yu i bin stat long rait tasol, orait, olgeta samting i bin harim tok bilong Yu long "kirap".  Na Yu bin mekim kamap ples klia olgeta Tok Hait bilong God.  Ing na Pen bilong Yu i bin mekim kamap olgeta samting i stap long graun.  Olsem na olgeta Tokaut bilong bipo i bin kam daun long Ing na Pen bilong Yu.  Mi tokaut tu olsem, taim mi lukim Naispela bilong Yu i olsem Naispela bilong God, Husat mi adorim tru,  i kamap ples klia.  Na taim mi lukim pes bilong Yu i olsem mi lukim pes bilong God. Husat mi laikim tru, i lait i kam.  Wanpela hap tok bilong Yu tasol, em inap long skelim olgeta samting long graun.  Olsem na Yu bin makim ol lain, husat i laikim tumas Yu, long go antap tru long ples bilong glori na ol lain, husat i bin tanim baksait long God, long pundaun long ples i daunbilo tru.  Mi tokaut olsem:  Sapos man i gat save long Yu i olsem em i save long God.  Na sapos man i bin go na sanap long pes bilong Yu i olsem em i bin go sanap long pes bilong God.  Olsem na bikpela blesing i go long husat man i bin bilip long Yu na ol mak bilong Yu na husat i bin brukim skru bilong en long gutpela pasin tru bilong Yu. Bikpela ona i go long husat man i bin lukim pes bilong Yu na husat i bin winim amamas bilong  Laik bilong Yu.  Bikpela ona i go long husat man i bin raunim Yu na sanap long pes bilong sia king bilong Yu.  Sori tumas long husat man i no bin bihainim tok bilong Yu na husat i bin givim baksait long Yu na ol mak bilong Yu.  Sori tumas long husat man i no bilip long gutpela pasin tru bilong Yu, olsem na em i bin kirap long agensim Yu na hambak pasin bilong en i bin kamap bikpela tumas long pes bilong Yu.  Em i bin sakim tok bilong Yu na em i bin ranawe long ol lo bilong Yu. Em i no bilip olsem Yu stap antap long olgeta samting.  Kain man olsem God i skelim wantaim ol lain husat i no bilip long God.   Ol pinga bilong laik bilong Yu i bin raitim nem bilong ol dispela kain lain insait long ol Pas Holi bilong Yu.  O God bilong mi, mi laikim tumas Yu!  Mekim naispela win holi bilong ol blesing bilong Yu i kirap long han sut bilong marimari na gutpela lav bilong Yu.  Inap bai dispela win i kamap long mi na helpim mi long lusim tingting long mi yet na ol samting bilong graun.  Inap bai mi kamap long ples i stap klostu long Yu na sanap long pes bilong Yu.  Pawa bilong Yu, em inap long wokim olgeta samting long laik bilong Yu.  Tru tumas, Yu bin stap antap tru long olgeta samting.  Pasin bilong tingim God na litimapim Nem bilong En, wantaim glori bilong God na bikpela lait bilong En, ol dispela samting i mas i stap long Yu.  Yu olsem Naispela bilong En!  Mi tokaut olsem, ai bilong olgeta samting i stap long graun i no bin lukim wanpela tarangu i bin gat bikpela hevi moa long Yu.  Long olgeta de bilong laip bilong Yu i olsem Yu bin stap insait long solwara bilong traipela hevi.  Long wanpela taim ol i bin putim traipela sen long nek bilong Yu na ol i bin pasim lek bilong Yu long strongpela ain.  Long narapela taim ol birua bilong Yu i bin laik sutim Yu wantaim spia.  Tasol Yu no bin wari tumas long ol dispela rong ol i bin mekim.  Nogat.  Yu bin wok yet long singautim ol man long bihainim ol lo bilong God.  Em I Gat Olgeta Save.  Em i Save Olgeta.  Inap spirit bilong mi i ken kamap olsem ofa long ol rong i bin kamap insait long laip bilong Yu.  Inap sol bilong mi i ken kamap olsem pe bilong bekim ol bagarap i bin kisim Yu.  Mi tingim Yu na ol lain, husat pes bilong ol i pulap long bikpela lait bilong pes bilong Yu.  Em dispela lain i bin bihainim olgeta tok bilong Yu, long wanem ol i laikim tumas Yu.   Olsem na mi askim strong long God long rausim olgeta samting i bin kamap namel long Yu na ol manmeri bilong graun.   Na tu mi askim God long givim long mi olgeta gutpela samting bilong dispela laip wantaim laip i kamap bihain taim. Tru tumas.  Yu Gat Olgeta Strong, Yu Stap Antap Tru, Glori Bilong Yu I Gutpela Olgeta, Yu Save Pogivim Ol Rong Oltaim, Yu Save Sori Tru Long Olgeta Man.  O Bikpela, God bilong Mi!  Givim blesing bilong Yu long dispela Diwai Holi wantaim ol lip bilong En, na ol bikpela han bilong En, na ol han bilong En, na ol liklik han bilong En, na ol kru bilong En oltaim oltaim.  Sapos ol gutpela mak tru bilong Yu i stap yet na ol bikpela pasin tru bilong Yu i no pinis yet, orait,  givim blesing bilong Yu.  Lukautim dispela Diwai Holi na no ken larim ol wok nogut bilong ol birua wantaim ol bikpela lain bilong pawa nogut i bagarapim Em.  Tru tumas.  Yu Gat Olgeta Strong na Yu Gat Bikpela Pawa Tru.  O Bikpela, God bilong mi!  Givim blesing bilong Yu long ol wokman na ol wokmeri bilong Yu, husat i bin kam kamap long Yu.  Tru tumas.  Yu Save Blesim Oltaim.  Marimari bilong Yu i no gat pinis bilong en.  I no gat narapela God.  Yu tasol i stap.  Yu Save Pogivim Ol Rong Oltaim.  Yu Givim Planti Samting Tru.    ##TABLET OF VISITATION   This Tablet is read at the Shrines of Baha’u’llah and the Bab.  It is also frequently used in commemorating Their anniversaries.   The praise which hath dawned from Thy most august Self, and the glory which hath shone forth from Thy most effulgent Beauty, rest upon Thee, O Thou Who art the Manifestation of Grandeur, and the King of Eternity, and the Lord of all who are in heaven and on earth!  I testify that through Thee the sovereignty of God and His dominion, and the majesty of God and His grandeur, were revealed, and the Day-Stars of ancient splendor have shed their radiance in the heaven of Thine irrevocable decree, and the Beauty of the Unseen hath shone forth above the horizon of creation.  I testify, moveover, that with but a movement of thy Pen Thine injunction "Be Thou" hath been enforced, and God’s hidden Secret hath been divulged, and all created things have been called into being, and all the Revelations have been sent down.  I bear witness, moreover, that through Thy beauty the beauty of the Adored One hath been unveiled, and through Thy face the face of the Desired One hath shone forth, and that through a word from Thee Thou hast decided between all created things, causing them who are devoted to Thee to ascend unto the summit of glory, and the infidels to fall into the lowest abyss.  I bear witness that he who hath known Thee hath known God, and he who hath attained unto Thy presence hath attained unto the presence of God.  Great, therefore, is the blessedness of him who hath believed in Thee, and in Thy signs and hath humbled himself before Thy sovereignty, and hath been honored with meeting Thee, and hath atttained the good pleasure of Thy will, and circled around Thee, and stood before Thy throne.  Woe betide him that hath transgressed against Thee, and hath denied Thee, and repudiated Thy signs, and gainsaid Thy sovereignty, and risen up against Thee, and waxed proud before Thy face, and hath disputed Thy testimonies, and fled from Thy rule and Thy dominion, and been numbered with the infidels whose names have been inscribed by the fingers of Thy behest upon Thy holy Tablets.  Waft, then, unto me, O my God and my Beloved, from the right hand of Thy mercy and Thy loving-kindness, the holy breaths of Thy favors, that they may draw me away from myself and from the world unto the courts of Thy nearness and Thy presence.  Potent art Thou to do what pleaseth Thee.  Thou, truly, hast been supreme over all things.  The remembrance of God and His praise, and the glory of God and His splendor, rest upon Thee, O Thou who art His Beauty!  I bear witness that the eye of creation hath never gazed upon one wronged like Thee.  Thou wast immersed all the days of Thy life beneath an ocean of tribulations.  At one time Thou wast in chains and fetters; at another Thou was threatened by the sword of Thine enemies.  Yet, despite all this, Thou didst enjoin upon all men to observe what had been prescribed unto Thee by Him Who is the All-Knowing, the All-Wise.  May my spirit be a sacrifice to the wrongs Thou didst suffer, and my soul be a ranson for the adversities Thou didst sustain.  I beseech God, by Thee and by them whose faces have been illumined with the splendors of the light of Thy countenance, and who, for love of Thee, have observed all whereunto they were bidden, to remove the veils that have come in between Thee and Thy creatures, and to supply me with the good of this world and the world to come.  Thou art, in truth, the Almighty, the Most Exalted, the All-Glorious, the Ever-Forgiving, the Most Compassionate.  Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, and its branches, and its stems, and its offshoots, as long as Thy most excellent titles will endure and Thy most august attributes will last.  Protect it, then, from the mischief of the aggressor and the hosts of tyranny.  Thou art, in truth, the Almighty, the Most Powerful.  Bless Thou, also, O Lord my God, Thy servants and Thy handmaidens who have attained unto Thee.  Thou, truly, art the AllBountiful, Whose grace is infinite.  No God is there save Thee, the Ever-Forgiving, the Most Generous.
 
 -- Bahá'u'lláh
 
-bpn12979 «[Tok Pisin](../tpi/prayers/#bpn12979)» 
+bpn12979 
 
 ----
 
@@ -563,11 +564,11 @@ bpn12979 «[Tok Pisin](../tpi/prayers/#bpn12979)»
 ## TABLET OF VISITATION - &#39;Abdu&#39;l-Baha
 
 <a id="bpn12980"></a> 
-##TABLET OF VISITATION - &#39;Abdul-Bahá’í *Dispela prea em wanpela prea ‘Abdul-Bahá’í Yet i raitim.  Ol Bahá’í i save kolim dispela prea long ples matmat bilong ‘Abdul-Baha.  Na tu ol i save kolim em bilong tingim ‘Abdul-Bahá’í.  ‘AbdulBahá’í Yet i tok olsem: &#34;Husat man i kolim strong dispela prea na daunim em yet, dispela man i amamasim tru bel bilong dispela wokman (‘Abdul-Bahá).  I olsem dispela man i bung wantaim Em na lukim pes bilong Em.&#34;  Glori Bilong God I Gutpela Olgeta!  O God, God bilong mi!  Mi stap daunbilo tru.  Aiwara bilong mi i pundaun. Olsem na mi prea long yu na mi apim han bilong mi long prea long Yu.  Mi karamapim pes bilong mi wantaim das i stap plua long Dua bilong Yu.  Dispela Dua i go long Yu, em i winim save bilong ol saveman na em i stap antap long ol gutpela tok bilong ol  man,husat i save litimapim Nem bilong Yu.  Dispela wokman bilong Yu, em i wanpela rabisman tru na em i stap long Dua bilong Yu wantaim daunpasin stret.  Inap lukluk i go long en wantaim ai bilong marimari bilong Yu. Inap Yu daunim em tru long solwara bilong marimari bilong Yu.  Marimari bilong Yu i stap oltaim oltaim.  O Bikpela!   Dispela man, em wanpela wokman bilong Yu.  Em rabis pinis na em i pulap olgeta long bikpela laik long Yu. Em i plis long Yu.  Em i pas pinis insait long han bilong Yu na em i prea strong long Yu.  Em i bilip tru long Yu.  Em i stap long pes bilong Yu na aiwara bilong en i wok long pundaun. Em i singautim Yu na em i askim strong long Yu, olsem:  O Bikpela, God bilong mi!  Soim marimari bilong Yu long mi inap bai mi ken kamap wokman bilong ol lain manmeri, husat Yu laikim tru.  Strongim mi long wokim wok bilong Yu.  Laitim poret bilong mi wantaim lait i soimaut bikpela laik long Yu i kam long ples holi bilong Yu.  Na laitim poret bilong mi wantaim lait bilong prea i go long Kingdom bilong bikpela bilong Yu.  Helpim mi long lusim tingting long mi yet, taim mi kam kamap klostu long dua i go long heven bilong Yu.  Na insait long ples holi bilong Yu, helpim mi long no ken holimpas long ol arapela samting.  Bikpela!  Mekim olsem bai mi dring long dispela kap bilong lusim tingting olgeta long mi yet.  Bilasim mi wantaim bilas bilong lusim tingting olgeta long mi yet.  Daunim mi tru long solwara bilong lusim tingting olgeta long mi yet.  Mekim olsem bai mi stap olsem das long rot we ol lain manmeri Yu laikim tru, ol i wokabaut long en.  Inap bai mi ken mekim ofa wantaim spirit bilong mi long makim dispela graun, em graun we ol lain manmeri, husat Yu Yet i bin makim, ol i bin wokabaut long en taim ol i bihainim rot bilong Yu.  O Papa Bilong Glori I Antap Tru.  Long tulait na long nait dispela wokman bilong Yu i wok long singautim Yu wantaim dispela prea.  Inapim laik bilong bel bilong en, O Bikpela!  Givim lait long lewa bilong en na amamasim bel bilong en.  Kirapim lait bilong en.  Mekim ol dispela samting, inap bai em i ken kamap wokman bilong Lotu bilong Yu wantaim ol wokman bilong Yu.  Yu Givim Gutpela Presen.  Yu God Bilong Marimari.  Yu Givim Bikpela Blesing Tru.  Yu Save Marimari long Olgeta Man.  Yu Save Sori Long Olgeta Man.    ##TABLET OF VISITATION - &#39;Abdul-Bahá’í  *This prayer, revealed by ‘Abdul-Bahá, is read at His Shrine.  It is also used in private prayer.  ‘Abdul-Bahá has written:  Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant: it will be even as meeting Him face to face.  He is the All-Glorious!  O God, my God!  Lowly and tearful, I raise by suppliant hands to Thee and cover my face in the dust of that Threshold of Thine, exalted above the knowledge of the learned, and the praise of all that glorify Thee.  Graciously look upon Thy servant, humble and lowly at Thy door, with the glances of the eye of Thy mercy, and immerse him in the Ocean of Thine eternal grace.  Lord!  He is a poor and lowly servant of Thine, enthralled and imploring Thee, captive in Thy hand, praying fervently to Thee, trusting in Thee, in tears before Thy face, calling to Thee and beseeching Thee, saying:  O Lord, my God!  Give me Thy grace to serve Thy loved ones, strengthen me in my servitude to Thee, illumine my brow with the light of adoration in Thy court of holiness, and of prayer to Thy Kingdom of grandeur.  Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts.  Lord!  Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me.  Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest.  With this prayer doth Thy servant call Thee, at dawn-tide and in the night-season.  Fulfill his heart’s desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.    Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate!
+##TABLET OF VISITATION - 'Abdul-Bahá’í *Dispela prea em wanpela prea ‘Abdul-Bahá’í Yet i raitim.  Ol Bahá’í i save kolim dispela prea long ples matmat bilong ‘Abdul-Baha.  Na tu ol i save kolim em bilong tingim ‘Abdul-Bahá’í.  ‘AbdulBahá’í Yet i tok olsem: "Husat man i kolim strong dispela prea na daunim em yet, dispela man i amamasim tru bel bilong dispela wokman (‘Abdul-Bahá).  I olsem dispela man i bung wantaim Em na lukim pes bilong Em."  Glori Bilong God I Gutpela Olgeta!  O God, God bilong mi!  Mi stap daunbilo tru.  Aiwara bilong mi i pundaun. Olsem na mi prea long yu na mi apim han bilong mi long prea long Yu.  Mi karamapim pes bilong mi wantaim das i stap plua long Dua bilong Yu.  Dispela Dua i go long Yu, em i winim save bilong ol saveman na em i stap antap long ol gutpela tok bilong ol  man,husat i save litimapim Nem bilong Yu.  Dispela wokman bilong Yu, em i wanpela rabisman tru na em i stap long Dua bilong Yu wantaim daunpasin stret.  Inap lukluk i go long en wantaim ai bilong marimari bilong Yu. Inap Yu daunim em tru long solwara bilong marimari bilong Yu.  Marimari bilong Yu i stap oltaim oltaim.  O Bikpela!   Dispela man, em wanpela wokman bilong Yu.  Em rabis pinis na em i pulap olgeta long bikpela laik long Yu. Em i plis long Yu.  Em i pas pinis insait long han bilong Yu na em i prea strong long Yu.  Em i bilip tru long Yu.  Em i stap long pes bilong Yu na aiwara bilong en i wok long pundaun. Em i singautim Yu na em i askim strong long Yu, olsem:  O Bikpela, God bilong mi!  Soim marimari bilong Yu long mi inap bai mi ken kamap wokman bilong ol lain manmeri, husat Yu laikim tru.  Strongim mi long wokim wok bilong Yu.  Laitim poret bilong mi wantaim lait i soimaut bikpela laik long Yu i kam long ples holi bilong Yu.  Na laitim poret bilong mi wantaim lait bilong prea i go long Kingdom bilong bikpela bilong Yu.  Helpim mi long lusim tingting long mi yet, taim mi kam kamap klostu long dua i go long heven bilong Yu.  Na insait long ples holi bilong Yu, helpim mi long no ken holimpas long ol arapela samting.  Bikpela!  Mekim olsem bai mi dring long dispela kap bilong lusim tingting olgeta long mi yet.  Bilasim mi wantaim bilas bilong lusim tingting olgeta long mi yet.  Daunim mi tru long solwara bilong lusim tingting olgeta long mi yet.  Mekim olsem bai mi stap olsem das long rot we ol lain manmeri Yu laikim tru, ol i wokabaut long en.  Inap bai mi ken mekim ofa wantaim spirit bilong mi long makim dispela graun, em graun we ol lain manmeri, husat Yu Yet i bin makim, ol i bin wokabaut long en taim ol i bihainim rot bilong Yu.  O Papa Bilong Glori I Antap Tru.  Long tulait na long nait dispela wokman bilong Yu i wok long singautim Yu wantaim dispela prea.  Inapim laik bilong bel bilong en, O Bikpela!  Givim lait long lewa bilong en na amamasim bel bilong en.  Kirapim lait bilong en.  Mekim ol dispela samting, inap bai em i ken kamap wokman bilong Lotu bilong Yu wantaim ol wokman bilong Yu.  Yu Givim Gutpela Presen.  Yu God Bilong Marimari.  Yu Givim Bikpela Blesing Tru.  Yu Save Marimari long Olgeta Man.  Yu Save Sori Long Olgeta Man.    ##TABLET OF VISITATION - 'Abdul-Bahá’í  *This prayer, revealed by ‘Abdul-Bahá, is read at His Shrine.  It is also used in private prayer.  ‘Abdul-Bahá has written:  Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant: it will be even as meeting Him face to face.  He is the All-Glorious!  O God, my God!  Lowly and tearful, I raise by suppliant hands to Thee and cover my face in the dust of that Threshold of Thine, exalted above the knowledge of the learned, and the praise of all that glorify Thee.  Graciously look upon Thy servant, humble and lowly at Thy door, with the glances of the eye of Thy mercy, and immerse him in the Ocean of Thine eternal grace.  Lord!  He is a poor and lowly servant of Thine, enthralled and imploring Thee, captive in Thy hand, praying fervently to Thee, trusting in Thee, in tears before Thy face, calling to Thee and beseeching Thee, saying:  O Lord, my God!  Give me Thy grace to serve Thy loved ones, strengthen me in my servitude to Thee, illumine my brow with the light of adoration in Thy court of holiness, and of prayer to Thy Kingdom of grandeur.  Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts.  Lord!  Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me.  Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest.  With this prayer doth Thy servant call Thee, at dawn-tide and in the night-season.  Fulfill his heart’s desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.    Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate!
 
 -- Abdu'l-Bahá
 
-bpn12980 «[Tok Pisin](../tpi/prayers/#bpn12980)» 
+bpn12980 
 
 ----
 
@@ -581,7 +582,7 @@ O God!  I no gat narapela olsem Yu.  O God, Yu Papa bilong Kingdom!  Ol dispela 
 
 -- Abdu'l-Bahá
 
-bpn12962 «[Tok Pisin](../tpi/prayers/#bpn12962)» 
+bpn12962 
 
 ----
 
@@ -595,7 +596,7 @@ Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!
 
 -- Báb
 
-bpn12931 «[Tok Pisin](../tpi/prayers/#bpn12931)» 
+bpn12931 
 
 ----
 
@@ -605,7 +606,7 @@ Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! O God!  O God bilong m
 
 -- Abdu'l-Bahá
 
-bpn12932 «[Tok Pisin](../tpi/prayers/#bpn12932)» 
+bpn12932 
 
 ----
 
@@ -619,7 +620,7 @@ O God bilong mi.  Mi laikim tumas yu.  Yu King bilong mi.  Mi gat bikpela laik l
 
 -- Bahá'u'lláh
 
-bpn12933 «[Tok Pisin](../tpi/prayers/#bpn12933)» 
+bpn12933 
 
 ----
 
@@ -633,7 +634,7 @@ Litimapim Nem bilong Yu, O Bikpela, God bilong mi!  Mi askim strong long dispela
 
 -- Bahá'u'lláh
 
-bpn12977 «[Tok Pisin](../tpi/prayers/#bpn12977)» 
+bpn12977 
 
 ----
 
@@ -643,7 +644,7 @@ bpn12977 «[Tok Pisin](../tpi/prayers/#bpn12977)»
 
 -- Abdu'l-Bahá
 
-bpn12976 «[Tok Pisin](../tpi/prayers/#bpn12976)» 
+bpn12976 
 
 ----
 
@@ -657,7 +658,7 @@ O God bilong mi.  Marimari bilong Yu i bin kirapim mi long dispela moning.  Na t
 
 -- Bahá'u'lláh
 
-bpn12963 «[Tok Pisin](../tpi/prayers/#bpn12963)» 
+bpn12963 
 
 ----
 
@@ -671,7 +672,7 @@ O God bilong mi! O God bilong mi!  Bungim wantaim ol bel bilong olgeta wokman bi
 
 -- Bahá'u'lláh
 
-bpn12944 «[Tok Pisin](../tpi/prayers/#bpn12944)» 
+bpn12944 
 
 ----
 
@@ -681,17 +682,17 @@ Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmer
 
 -- Bahá'u'lláh
 
-bpn12945 «[Tok Pisin](../tpi/prayers/#bpn12945)» 
+bpn12945 
 
 ----
 
 
 <a id="bpn12946"></a> 
-Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  &#34;dispela Kingdom em Kingdom bilong God&#34; i stap long poret bilong ol lain manmeri long dispela graun.  God grant that the light of unity may envelop the whole earth, and that the seal, &#34;the Kingdom is God’s&#34;, may be stamped upon the brow of all its peoples.
+Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  "dispela Kingdom em Kingdom bilong God" i stap long poret bilong ol lain manmeri long dispela graun.  God grant that the light of unity may envelop the whole earth, and that the seal, "the Kingdom is God’s", may be stamped upon the brow of all its peoples.
 
 -- Bahá'u'lláh
 
-bpn12946 «[Tok Pisin](../tpi/prayers/#bpn12946)» 
+bpn12946 
 
 ----
 
@@ -701,7 +702,7 @@ O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela 
 
 -- Abdu'l-Bahá
 
-bpn12947 «[Tok Pisin](../tpi/prayers/#bpn12947)» 
+bpn12947 
 
 ----
 
@@ -715,7 +716,7 @@ bpn12947 «[Tok Pisin](../tpi/prayers/#bpn12947)»
 
 -- Abdu'l-Bahá
 
-bpn12982 «[Tok Pisin](../tpi/prayers/#bpn12982)» 
+bpn12982 
 
 ----
 
@@ -729,7 +730,7 @@ Litimapim Nem bilong Yu, O Papa bilong olgeta samting.  Olgeta samting i mas tan
 
 -- Bahá'u'lláh
 
-bpn12971 «[Tok Pisin](../tpi/prayers/#bpn12971)» 
+bpn12971 
 
 ----
 

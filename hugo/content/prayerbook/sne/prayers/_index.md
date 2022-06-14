@@ -5,6 +5,7 @@ tags = ['lang=sne', 'prayerbook']
 
 
 
+
 [Doa Bitogant](#Doa+Bitogant)
 
 [Doa Ganyuk Ulah Rohani](#Doa+Ganyuk+Ulah+Rohani)
@@ -83,7 +84,7 @@ Nusah oku, O Topa ku, odak odi sinok Ingan, bia dapod ro’o daang gilangang bal
 
 -- Bahá'u'lláh
 
-bpn11796 «[Bidayuh](../sne/prayers/#bpn11796)» 
+bpn11796 
 
 ----
 
@@ -93,7 +94,7 @@ Ingan leh dek Mulia, O Topa ku! Oku ngin Ingan terima kasih sebab Ingan mbok ngi
 
 -- Bahá'u'lláh
 
-bpn11797 «[Bidayuh](../sne/prayers/#bpn11797)» 
+bpn11797 
 
 ----
 
@@ -103,7 +104,7 @@ Mudi adon Ingan, O Topa ku! Oku mitia ndu Ingan pakai sok puate wangi Pakaian bu
 
 -- Bahá'u'lláh
 
-bpn11798 «[Bidayuh](../sne/prayers/#bpn11798)» 
+bpn11798 
 
 ----
 
@@ -113,7 +114,7 @@ Bogok otin dek obow, O Topa ku, mbok obuah kibangoh pakai opui Agama Ingan, bia 
 
 -- Bahá'u'lláh
 
-bpn11799 «[Bidayuh](../sne/prayers/#bpn11799)» 
+bpn11799 
 
 ----
 
@@ -123,7 +124,7 @@ Ngin pimudi tudu Ingan, O Topa ku! Oku tih ndi na’an sok ulunt-ulunt, dek mbok
 
 -- Bahá'u'lláh
 
-bpn11800 «[Bidayuh](../sne/prayers/#bpn11800)» 
+bpn11800 
 
 ----
 
@@ -133,7 +134,7 @@ Daang Adon Raja Ingan, dek Pimotan, dek Agong, dek Paling-Pinyukup, dek Bigatung
 
 -- Báb
 
-bpn11801 «[Bidayuh](../sne/prayers/#bpn11801)» 
+bpn11801 
 
 ----
 
@@ -143,7 +144,7 @@ O Raja! Tudu Ingan oku bolant sinung sabal, bia nuju sua tanda-tanda Ingan oku p
 
 -- Báb
 
-bpn11802 «[Bidayuh](../sne/prayers/#bpn11802)» 
+bpn11802 
 
 ----
 
@@ -157,7 +158,7 @@ Pijadi daang oku otin tulen, O Topa ku, bia piba’uh suara batin dek kobar daan
 
 -- Bahá'u'lláh
 
-bpn11853 «[Bidayuh](../sne/prayers/#bpn11853)» 
+bpn11853 
 
 ----
 
@@ -167,7 +168,7 @@ Iyoh leh dek bibudi, dek Paling-Pingungin! O Topa, Topa ku! Bogan Ingan mbok mik
 
 -- Bahá'u'lláh
 
-bpn11854 «[Bidayuh](../sne/prayers/#bpn11854)» 
+bpn11854 
 
 ----
 
@@ -177,7 +178,7 @@ O Raja ku! Nai pangisangon Ingan odak jadin pinguman ku, pimonog Ingan pingunuak
 
 -- Bahá'u'lláh
 
-bpn11855 «[Bidayuh](../sne/prayers/#bpn11855)» 
+bpn11855 
 
 ----
 
@@ -187,7 +188,7 @@ Mudi Adon Ingan, O Raja Topa ku! Oku tih ulunt Ingan dek mbok kagient nunda tunt
 
 -- Bahá'u'lláh
 
-bpn11856 «[Bidayuh](../sne/prayers/#bpn11856)» 
+bpn11856 
 
 ----
 
@@ -197,7 +198,7 @@ Murah otin bih tudu oku, O Topa ku, singant-ngant sukat pangirinduk Ingan bia pa
 
 -- Báb
 
-bpn11857 «[Bidayuh](../sne/prayers/#bpn11857)» 
+bpn11857 
 
 ----
 
@@ -207,7 +208,7 @@ O Topa! Ngidonat duoh kanuas jiwa ku. Nai odak otin ku tulen. Odak bigongab kuas
 
 -- Abdu'l-Bahá
 
-bpn11858 «[Bidayuh](../sne/prayers/#bpn11858)» 
+bpn11858 
 
 ----
 
@@ -217,7 +218,7 @@ O Topa ku! O Topa ku! Mulia manah Ingan setegal Ingan mbok notap oku odak ngaku 
 
 -- Abdu'l-Bahá
 
-bpn11859 «[Bidayuh](../sne/prayers/#bpn11859)» 
+bpn11859 
 
 ----
 
@@ -227,7 +228,7 @@ O Raja ku! O Raja ku! Itih nikan lampu dek obuah tung pakai opui pangirinduk Ing
 
 -- Abdu'l-Bahá
 
-bpn11860 «[Bidayuh](../sne/prayers/#bpn11860)» 
+bpn11860 
 
 ----
 
@@ -237,7 +238,7 @@ O Topa ku! O Topa ku! Itih, ulunt Ingan, mbok mokat maju nuju Ingan, dengan liyo
 
 -- Abdu'l-Bahá
 
-bpn11861 «[Bidayuh](../sne/prayers/#bpn11861)» 
+bpn11861 
 
 ----
 
@@ -247,7 +248,7 @@ O Topa, Topa ku! Itih leh ulunt Ingan dek bikilap, ulunt batak rohani Ingan, nya
 
 -- Abdu'l-Bahá
 
-bpn11862 «[Bidayuh](../sne/prayers/#bpn11862)» 
+bpn11862 
 
 ----
 
@@ -257,7 +258,7 @@ O Topa, Topa ku! Dimutik leh ulunt Ingan dek solut; bala dimutik yoh leh onak da
 
 -- Abdu'l-Bahá
 
-bpn11863 «[Bidayuh](../sne/prayers/#bpn11863)» 
+bpn11863 
 
 ----
 
@@ -267,7 +268,7 @@ Iyoh leh Topa!O Topa, Topa ku! Dimutitik leh ulunt-ulunt dek tipikat daang onu-o
 
 -- Abdu'l-Bahá
 
-bpn11864 «[Bidayuh](../sne/prayers/#bpn11864)» 
+bpn11864 
 
 ----
 
@@ -281,7 +282,7 @@ bpn11864 «[Bidayuh](../sne/prayers/#bpn11864)»
 
 -- Bahá'u'lláh
 
-bpn11841 «[Bidayuh](../sne/prayers/#bpn11841)» 
+bpn11841 
 
 ----
 
@@ -291,7 +292,7 @@ Iyoh leh Topa! O Raja dek doie Tanding Daang kekuatan bijaksana Ingan. Ingan mbo
 
 -- Abdu'l-Bahá
 
-bpn11842 «[Bidayuh](../sne/prayers/#bpn11842)» 
+bpn11842 
 
 ----
 
@@ -301,7 +302,7 @@ Ngin mulia tudu Ingan, O Topa ku! Totap, itih ulunt Ingan bia itih dayung ulunt 
 
 -- Abdu'l-Bahá
 
-bpn11843 «[Bidayuh](../sne/prayers/#bpn11843)» 
+bpn11843 
 
 ----
 
@@ -311,7 +312,7 @@ O Raja ku, O Raja ku! Itih duwoh olung dek bahagia mbok kahwent daang pangirindu
 
 -- Abdu'l-Bahá
 
-bpn11844 «[Bidayuh](../sne/prayers/#bpn11844)» 
+bpn11844 
 
 ----
 
@@ -325,7 +326,7 @@ O Topa ku! O Topa ku! Nguluk ngupul otin ulunt-ulunt Ingan, bia buka ngulia tudu
 
 -- Bahá'u'lláh
 
-bpn11883 «[Bidayuh](../sne/prayers/#bpn11883)» 
+bpn11883 
 
 ----
 
@@ -335,7 +336,7 @@ O Topa ku! O Topa ku! Totap, oku seru Ingan bia mujok bito’os ndu joka pinutua
 
 -- Abdu'l-Bahá
 
-bpn11884 «[Bidayuh](../sne/prayers/#bpn11884)» 
+bpn11884 
 
 ----
 
@@ -349,7 +350,7 @@ Mulia manah Ingan, O Raja Topa ku! Oku nguwai Ingan pakai Bala Tipilih Ingan, bi
 
 -- Bahá'u'lláh
 
-bpn11822 «[Bidayuh](../sne/prayers/#bpn11822)» 
+bpn11822 
 
 ----
 
@@ -359,7 +360,7 @@ Oku leh, nyaa, O Raja ku, dek mbok nak jowin-eh nuju Ingan, bia notap pingarap-e
 
 -- Bahá'u'lláh
 
-bpn11823 «[Bidayuh](../sne/prayers/#bpn11823)» 
+bpn11823 
 
 ----
 
@@ -369,7 +370,7 @@ Ingan ningak leh oku, O Raja ku, dengan jowin ku kos nuju surga pingungin Ingan 
 
 -- Bahá'u'lláh
 
-bpn11824 «[Bidayuh](../sne/prayers/#bpn11824)» 
+bpn11824 
 
 ----
 
@@ -379,7 +380,7 @@ Mudi adon Ingan, O Topa ku, bia Topa sua onik. Pimulia ku bia Pimulia sua onik. 
 
 -- Bahá'u'lláh
 
-bpn11825 «[Bidayuh](../sne/prayers/#bpn11825)» 
+bpn11825 
 
 ----
 
@@ -389,7 +390,7 @@ O Topa Raja koih! Nyinung nyabal koih pakai budi Ingan sok oni sija dek boleh ja
 
 -- Báb
 
-bpn11826 «[Bidayuh](../sne/prayers/#bpn11826)» 
+bpn11826 
 
 ----
 
@@ -399,7 +400,7 @@ Ngin mudi tudu Ingan, O Raja. Ngapunt dosa-dosa koih, masik tudu koih bia dapod 
 
 -- Báb
 
-bpn11827 «[Bidayuh](../sne/prayers/#bpn11827)» 
+bpn11827 
 
 ----
 
@@ -409,7 +410,7 @@ Oku mitia mujok Ingan odak ngapunt oku, O Rajaku, tilanan setiap pinyobot ku pak
 
 -- Báb
 
-bpn11828 «[Bidayuh](../sne/prayers/#bpn11828)» 
+bpn11828 
 
 ----
 
@@ -419,7 +420,7 @@ Ngin Mulia tudu Ingan, O Topa. Wat ki ku yak sobot Ingan sodang Ingan noh sikia 
 
 -- Báb
 
-bpn11829 «[Bidayuh](../sne/prayers/#bpn11829)» 
+bpn11829 
 
 ----
 
@@ -429,7 +430,7 @@ O Ingan Raja dek Pingapunt! Ingan dek jadin gadang sua ulunt Ingan dimutik. Inga
 
 -- Abdu'l-Bahá
 
-bpn11830 «[Bidayuh](../sne/prayers/#bpn11830)» 
+bpn11830 
 
 ----
 
@@ -443,7 +444,7 @@ Sua-sua pimudi, O Topa ku, harus tudu Ingan Nyaa dek jadi Otak sua kemuliaan duo
 
 -- Bahá'u'lláh
 
-bpn11885 «[Bidayuh](../sne/prayers/#bpn11885)» 
+bpn11885 
 
 ----
 
@@ -453,7 +454,7 @@ Bilagah adon Ingan, O Raja Topa ku! Ingan leh Iyoh Nyaa dek sok sua-sua onik nyo
 
 -- Bahá'u'lláh
 
-bpn11886 «[Bidayuh](../sne/prayers/#bpn11886)» 
+bpn11886 
 
 ----
 
@@ -463,7 +464,7 @@ Mulia manah Ingan, O Raja Topa ku! Oku jugan tudu Ingan terima kasih tilanan mbo
 
 -- Bahá'u'lláh
 
-bpn11887 «[Bidayuh](../sne/prayers/#bpn11887)» 
+bpn11887 
 
 ----
 
@@ -477,7 +478,7 @@ Adon Ingan dek obuah bilagah, O Topa ku, setegal Ingan mbok bitanga Onu dek mok 
 
 -- Bahá'u'lláh
 
-bpn11870 «[Bidayuh](../sne/prayers/#bpn11870)» 
+bpn11870 
 
 ----
 
@@ -487,7 +488,7 @@ Mulia manah Ingan, O Raja dunia duoh Pinyoot negara, O Ingan Nyaa dek ogi tonga 
 
 -- Bahá'u'lláh
 
-bpn11871 «[Bidayuh](../sne/prayers/#bpn11871)» 
+bpn11871 
 
 ----
 
@@ -497,7 +498,7 @@ O Topa, Nyaa dek jadin Susud sua Manifestasi, Otak ndu sua Otak, Bak Pinobol ndu
 
 -- Bahá'u'lláh
 
-bpn11872 «[Bidayuh](../sne/prayers/#bpn11872)» 
+bpn11872 
 
 ----
 
@@ -507,7 +508,7 @@ O Topa ku, Ingan batue leh ulunt Ingan ngan-eh pakat Bang Sina, bia dapod ngilot
 
 -- Abdu'l-Bahá
 
-bpn11873 «[Bidayuh](../sne/prayers/#bpn11873)» 
+bpn11873 
 
 ----
 
@@ -517,7 +518,7 @@ O Topa, Topa ku! Ingan batue leh ulunt-ulunt Ingan dek bisayak odak ogi pangirin
 
 -- Abdu'l-Bahá
 
-bpn11874 «[Bidayuh](../sne/prayers/#bpn11874)» 
+bpn11874 
 
 ----
 
@@ -531,7 +532,7 @@ O Ingan Topa dek pirasie! O Ingan Nyaa dek doras duoh dek bikuasa! O Ingan Samak
 
 -- Abdu'l-Bahá
 
-bpn11845 «[Bidayuh](../sne/prayers/#bpn11845)» 
+bpn11845 
 
 ----
 
@@ -541,7 +542,7 @@ O Ingan Raja dek tulut! Dimutik ulunt-ulunt Ingan nyaa dek mbok bigupul daang ud
 
 -- Abdu'l-Bahá
 
-bpn11846 «[Bidayuh](../sne/prayers/#bpn11846)» 
+bpn11846 
 
 ----
 
@@ -551,7 +552,7 @@ O Topa ku! O Topa ku! Totap, dimutik leh ulunt-ulunt Ingan mbok tikos tudu Ingan
 
 -- Abdu'l-Bahá
 
-bpn11847 «[Bidayuh](../sne/prayers/#bpn11847)» 
+bpn11847 
 
 ----
 
@@ -561,7 +562,7 @@ O Ingan Topa dek Pingapunt! Dimutik ulunt-ulunt Ingan mbok tikos tudu pritah Ing
 
 -- Abdu'l-Bahá
 
-bpn11848 «[Bidayuh](../sne/prayers/#bpn11848)» 
+bpn11848 
 
 ----
 
@@ -571,7 +572,7 @@ O Pangilaan Ilahi! Uluk kubunt tih yoh leh kabant bala dingan-dingan Ingan nyaa 
 
 -- Abdu'l-Bahá
 
-bpn11849 «[Bidayuh](../sne/prayers/#bpn11849)» 
+bpn11849 
 
 ----
 
@@ -581,7 +582,7 @@ bpn11849 «[Bidayuh](../sne/prayers/#bpn11849)»
 
 -- Abdu'l-Bahá
 
-bpn11850 «[Bidayuh](../sne/prayers/#bpn11850)» 
+bpn11850 
 
 ----
 
@@ -591,7 +592,7 @@ bpn11850 «[Bidayuh](../sne/prayers/#bpn11850)»
 
 -- Abdu'l-Bahá
 
-bpn11851 «[Bidayuh](../sne/prayers/#bpn11851)» 
+bpn11851 
 
 ----
 
@@ -601,7 +602,7 @@ bpn11851 «[Bidayuh](../sne/prayers/#bpn11851)»
 
 -- Abdu'l-Bahá
 
-bpn11852 «[Bidayuh](../sne/prayers/#bpn11852)» 
+bpn11852 
 
 ----
 
@@ -615,7 +616,7 @@ Ngin mudi tudu Ingan, O Raja Topa ku! Ingan ogi kilint duoh pu’ant nang oku ng
 
 -- Bahá'u'lláh
 
-bpn11888 «[Bidayuh](../sne/prayers/#bpn11888)» 
+bpn11888 
 
 ----
 
@@ -625,7 +626,7 @@ Mudi Ingan, O Raja Topa ku! Itih ulunt Ingan nyaa dek mbok nuak sok tongan budi 
 
 -- Bahá'u'lláh
 
-bpn11889 «[Bidayuh](../sne/prayers/#bpn11889)» 
+bpn11889 
 
 ----
 
@@ -635,7 +636,7 @@ Mudi adon Ingan, O Raja Topa ku! Oku nguwai Ingan pakai Adon Ingan pakai sok noh
 
 -- Bahá'u'lláh
 
-bpn11890 «[Bidayuh](../sne/prayers/#bpn11890)» 
+bpn11890 
 
 ----
 
@@ -645,7 +646,7 @@ bpn11890 «[Bidayuh](../sne/prayers/#bpn11890)»
 
 -- Bahá'u'lláh
 
-bpn11891 «[Bidayuh](../sne/prayers/#bpn11891)» 
+bpn11891 
 
 ----
 
@@ -655,7 +656,7 @@ Notap sa’ant ku, O Raja ku, bia sa’ant bala dek bisayak daang Ingan onik dek
 
 -- Báb
 
-bpn11892 «[Bidayuh](../sne/prayers/#bpn11892)» 
+bpn11892 
 
 ----
 
@@ -665,7 +666,7 @@ Ingan leh dek Mulia, O Topa! Ingan leh Topa dek mbok ujud ndu depan sua onik, Ny
 
 -- Báb
 
-bpn11893 «[Bidayuh](../sne/prayers/#bpn11893)» 
+bpn11893 
 
 ----
 
@@ -675,7 +676,7 @@ Pakai Adon Topa, Raja dek ayuh lagi lobih kuasa, dek Sukup.Ngin tabik tudu Raja 
 
 -- Báb
 
-bpn11894 «[Bidayuh](../sne/prayers/#bpn11894)» 
+bpn11894 
 
 ----
 
@@ -689,7 +690,7 @@ bpn11894 «[Bidayuh](../sne/prayers/#bpn11894)»
 
 -- Bahá'u'lláh
 
-bpn11810 «[Bidayuh](../sne/prayers/#bpn11810)» 
+bpn11810 
 
 ----
 
@@ -699,7 +700,7 @@ bpn11810 «[Bidayuh](../sne/prayers/#bpn11810)»
 
 -- Abdu'l-Bahá
 
-bpn11811 «[Bidayuh](../sne/prayers/#bpn11811)» 
+bpn11811 
 
 ----
 
@@ -713,7 +714,7 @@ Topa ku, nyaa dek Muja ku, Raja ku, Hasrat ku! Onileh in jolae dek tungang tanon
 
 -- Bahá'u'lláh
 
-bpn11769 «[Bidayuh](../sne/prayers/#bpn11769)» 
+bpn11769 
 
 ----
 
@@ -723,7 +724,7 @@ Mudi Adon Ingan, O Raja Topa koih! Inganleh sibonar-eh dek Pu’ant sua-sua onik
 
 -- Báb
 
-bpn11770 «[Bidayuh](../sne/prayers/#bpn11770)» 
+bpn11770 
 
 ----
 
@@ -733,7 +734,7 @@ O Topa ku, Raja ku, Guru ku! Oku mbok misah odop ku duwoh nya’a dibokon bia mb
 
 -- Báb
 
-bpn11771 «[Bidayuh](../sne/prayers/#bpn11771)» 
+bpn11771 
 
 ----
 
@@ -743,7 +744,7 @@ Ingan pu’ant dengan punuae bonar, O Topa ku, nang pinguji mbok nyupiet tunt ok
 
 -- Báb
 
-bpn11877 «[Bidayuh](../sne/prayers/#bpn11877)» 
+bpn11877 
 
 ----
 
@@ -753,7 +754,7 @@ Raja! Todah wat koih, ngin tudu koih pinulung Ingan, botak, jugan tudu koih bagi
 
 -- Abdu'l-Bahá
 
-bpn11772 «[Bidayuh](../sne/prayers/#bpn11772)» 
+bpn11772 
 
 ----
 
@@ -763,7 +764,7 @@ O Ingan Raja dek masik! Koih dimutik ulunt Pinutuab Ingan, ro’o ngilukuh ndu T
 
 -- Abdu'l-Bahá
 
-bpn11773 «[Bidayuh](../sne/prayers/#bpn11773)» 
+bpn11773 
 
 ----
 
@@ -773,7 +774,7 @@ Mbak kadi, O Raja, ambar onu perami dek mbok obuah kapah daang  Adon Ingan, bia 
 
 -- Abdu'l-Bahá
 
-bpn11774 «[Bidayuh](../sne/prayers/#bpn11774)» 
+bpn11774 
 
 ----
 
@@ -787,7 +788,7 @@ O Topa, Topa ku! Oku mitia mujok Ingan pakai laut piminien Ingan, bia pakai timo
 
 -- Bahá'u'lláh
 
-bpn11832 «[Bidayuh](../sne/prayers/#bpn11832)» 
+bpn11832 
 
 ----
 
@@ -797,7 +798,7 @@ Adon Ingan mbok jadin piminien ku, O Topa ku, bia panginatong ndu Ingan jadin pi
 
 -- Bahá'u'lláh
 
-bpn11833 «[Bidayuh](../sne/prayers/#bpn11833)» 
+bpn11833 
 
 ----
 
@@ -807,7 +808,7 @@ bpn11833 «[Bidayuh](../sne/prayers/#bpn11833)»
 
 -- Bahá'u'lláh
 
-bpn11834 «[Bidayuh](../sne/prayers/#bpn11834)» 
+bpn11834 
 
 ----
 
@@ -817,7 +818,7 @@ Mudi Ingan, O Raja Topa ku! Oku ngugai Ingan, pakai Adon Maha Agung Ingan sok in
 
 -- Bahá'u'lláh
 
-bpn11835 «[Bidayuh](../sne/prayers/#bpn11835)» 
+bpn11835 
 
 ----
 
@@ -827,7 +828,7 @@ bpn11835 «[Bidayuh](../sne/prayers/#bpn11835)»
 
 -- Bahá'u'lláh
 
-bpn11836 «[Bidayuh](../sne/prayers/#bpn11836)» 
+bpn11836 
 
 ----
 
@@ -841,7 +842,7 @@ Junyung adon Ingan, O Raja Topa ku! Mopung mbok ngilokuab siginap topat, bia kua
 
 -- Bahá'u'lláh
 
-bpn11878 «[Bidayuh](../sne/prayers/#bpn11878)» 
+bpn11878 
 
 ----
 
@@ -851,7 +852,7 @@ Ingan leh dek mulia, O Raja, Ingan leh Nyaa dek toban odak idip sua onik dek obu
 
 -- Báb
 
-bpn11879 «[Bidayuh](../sne/prayers/#bpn11879)» 
+bpn11879 
 
 ----
 
@@ -861,7 +862,7 @@ O Raja! Ngidiya odak sogat tumue Tongon Kesatuan ilahi Ingan, nijuah mei tiyak, 
 
 -- Báb
 
-bpn11880 «[Bidayuh](../sne/prayers/#bpn11880)» 
+bpn11880 
 
 ----
 
@@ -871,7 +872,7 @@ O Raja! Ngin odak monang ulunt-ulunt Ingan dek bijont daang onu-onu Ingan dengan
 
 -- Báb
 
-bpn11881 «[Bidayuh](../sne/prayers/#bpn11881)» 
+bpn11881 
 
 ----
 
@@ -881,7 +882,7 @@ O Raja! Odak sua manusia ndu dunia tungang so’ont pimolot ndu daang Surga Agam
 
 -- Báb
 
-bpn11882 «[Bidayuh](../sne/prayers/#bpn11882)» 
+bpn11882 
 
 ----
 
@@ -895,7 +896,7 @@ O Ingan Nyaa dek ngin pinguji jadin ubat piminien tudu sikoda-eh nyaa dek sinok 
 
 -- Bahá'u'lláh
 
-bpn11875 «[Bidayuh](../sne/prayers/#bpn11875)» 
+bpn11875 
 
 ----
 
@@ -905,7 +906,7 @@ Mulia manah Ingan, O Raja Topa ku! Setiap manusia dek ngiloti tuluap ngaku Kedau
 
 -- Bahá'u'lláh
 
-bpn11876 «[Bidayuh](../sne/prayers/#bpn11876)» 
+bpn11876 
 
 ----
 
@@ -919,7 +920,7 @@ Kasuap kadi pinusah ku pakai pingungin Ingan bia bitulut Ingan, O Topa, Topa ku,
 
 -- Bahá'u'lláh
 
-bpn11804 «[Bidayuh](../sne/prayers/#bpn11804)» 
+bpn11804 
 
 ----
 
@@ -929,7 +930,7 @@ O Topa ku, Guru ku, Topat tujuan niat ku! Itih, ulunt Ingan, kalik yak bo’os d
 
 -- Bahá'u'lláh
 
-bpn11805 «[Bidayuh](../sne/prayers/#bpn11805)» 
+bpn11805 
 
 ----
 
@@ -939,7 +940,7 @@ Ogi keh Pinulak pinusah dibokon luar sok Topa? Sobot: Tipuji leh Topa! Iyoh leh 
 
 -- Báb
 
-bpn11806 «[Bidayuh](../sne/prayers/#bpn11806)» 
+bpn11806 
 
 ----
 
@@ -949,7 +950,7 @@ Sobot leh nang: Topa nyukup sua onik ngilobih sua onik bia doie dek daang surga 
 
 -- Báb
 
-bpn11807 «[Bidayuh](../sne/prayers/#bpn11807)» 
+bpn11807 
 
 ----
 
@@ -959,7 +960,7 @@ Oku mitia Ingan pakai kekuatan Ingan, O Topa ku! Mbak odak pangirusak kapunk oku
 
 -- Báb
 
-bpn11808 «[Bidayuh](../sne/prayers/#bpn11808)» 
+bpn11808 
 
 ----
 
@@ -969,7 +970,7 @@ O Raja! Ingan leh Pinulak setiap sisa-sengsara bia Tukang Kayap ulid ngopok. Ing
 
 -- Báb
 
-bpn11809 «[Bidayuh](../sne/prayers/#bpn11809)» 
+bpn11809 
 
 ----
 
@@ -983,7 +984,7 @@ Itih leh, O Topa ku, siluang onu-onu takal Ingan mbok tanon odak bala-bala pirin
 
 -- Bahá'u'lláh
 
-bpn11909 «[Bidayuh](../sne/prayers/#bpn11909)» 
+bpn11909 
 
 ----
 
@@ -993,7 +994,7 @@ Daang Adon Iyoh Nyaa dek mbok obuah janji daang Buk-Buk Topa, dek Pangipuant, de
 
 -- Bahá'u'lláh
 
-bpn11910 «[Bidayuh](../sne/prayers/#bpn11910)» 
+bpn11910 
 
 ----
 
@@ -1003,7 +1004,7 @@ Ngin pimudi tudu Ingan, O Topa Raja ku! Koih mbok mit-nai Puasa sambil biturut d
 
 -- Bahá'u'lláh
 
-bpn11911 «[Bidayuh](../sne/prayers/#bpn11911)» 
+bpn11911 
 
 ----
 
@@ -1013,7 +1014,7 @@ Topa Ku Guru Ku! Ingan ninga oku diantara manusia Ingan dek mbok lawant duoh ngi
 
 -- Bahá'u'lláh
 
-bpn11912 «[Bidayuh](../sne/prayers/#bpn11912)» 
+bpn11912 
 
 ----
 
@@ -1023,7 +1024,7 @@ Ngin pimudi tudu Ingan, O Topa, Topa ku! Takal onu-onu dimutik leh Ingan mbok ng
 
 -- Bahá'u'lláh
 
-bpn11913 «[Bidayuh](../sne/prayers/#bpn11913)» 
+bpn11913 
 
 ----
 
@@ -1037,7 +1038,7 @@ Ngin mulia tudu Ingan, O Raja Topa ku! Oku ngugai Ingan odak ngapunt oku bia bal
 
 -- Báb
 
-bpn11812 «[Bidayuh](../sne/prayers/#bpn11812)» 
+bpn11812 
 
 ----
 
@@ -1047,7 +1048,7 @@ Oku ngugai pingapunt Ingan, O Topa ku, bia mitia maaf tudu wat ulah gaya dek ing
 
 -- Báb
 
-bpn11813 «[Bidayuh](../sne/prayers/#bpn11813)» 
+bpn11813 
 
 ----
 
@@ -1057,7 +1058,7 @@ O Raja! Daang Dispensasi Paling Agung tih Ingan ogi terima doa wakil sok onak ba
 
 -- Abdu'l-Bahá
 
-bpn11814 «[Bidayuh](../sne/prayers/#bpn11814)» 
+bpn11814 
 
 ----
 
@@ -1067,7 +1068,7 @@ bpn11814 «[Bidayuh](../sne/prayers/#bpn11814)»
 
 -- Abdu'l-Bahá
 
-bpn11815 «[Bidayuh](../sne/prayers/#bpn11815)» 
+bpn11815 
 
 ----
 
@@ -1077,7 +1078,7 @@ bpn11815 «[Bidayuh](../sne/prayers/#bpn11815)»
 
 -- Abdu'l-Bahá
 
-bpn11816 «[Bidayuh](../sne/prayers/#bpn11816)» 
+bpn11816 
 
 ----
 
@@ -1091,7 +1092,7 @@ O Ingan Raja dek tulut! Uluk kubunt tih kos odop-eh tudu Ingan. Otin bala dimuti
 
 -- Abdu'l-Bahá
 
-bpn11803 «[Bidayuh](../sne/prayers/#bpn11803)» 
+bpn11803 
 
 ----
 
@@ -1105,7 +1106,7 @@ Nai odak kudus boli dek mbok ngaduap tudu rahmat Ku, dano leh ponginatong Ku obu
 
 -- Bahá'u'lláh
 
-bpn11902 «[Bidayuh](../sne/prayers/#bpn11902)» 
+bpn11902 
 
 ----
 
@@ -1115,7 +1116,7 @@ O Topa ku! Odak negeh soyuak pingungin Ingan bia berkat muun ndu boli senada bal
 
 -- Báb
 
-bpn11899 «[Bidayuh](../sne/prayers/#bpn11899)» 
+bpn11899 
 
 ----
 
@@ -1125,7 +1126,7 @@ Oku nguwai Topa sak dengan sudi nai odak boli mu jadin pusat bisorap jawak pingu
 
 -- Abdu'l-Bahá
 
-bpn11900 «[Bidayuh](../sne/prayers/#bpn11900)» 
+bpn11900 
 
 ----
 
@@ -1135,7 +1136,7 @@ Boli ku romin aman damai.Boli ku romin pirami duoh pimunuasBoli ku romin patiak 
 
 -- Abdu'l-Bahá
 
-bpn11901 «[Bidayuh](../sne/prayers/#bpn11901)» 
+bpn11901 
 
 ----
 
@@ -1145,7 +1146,7 @@ Tudu Ingan O Topa, dengan khas koih nyerah boli tih. Kisig boli tih sok sua onik
 
 -- Abdu'l-Bahá
 
-bpn11903 «[Bidayuh](../sne/prayers/#bpn11903)» 
+bpn11903 
 
 ----
 
@@ -1159,7 +1160,7 @@ Topa ku, Nyaa dek nyombah ku duoh obuah puja! Oku ngakon tudu kesatuan Ingan duo
 
 -- Bahá'u'lláh
 
-bpn11837 «[Bidayuh](../sne/prayers/#bpn11837)» 
+bpn11837 
 
 ----
 
@@ -1169,7 +1170,7 @@ O Ingan Raja dek pinubuas, Ingan leh Nyaa dek murah otin duoh tungang! Koih dimu
 
 -- Abdu'l-Bahá
 
-bpn11838 «[Bidayuh](../sne/prayers/#bpn11838)» 
+bpn11838 
 
 ----
 
@@ -1179,7 +1180,7 @@ O Ingan Raja dek tulut! O Ingan Nyaa dek murah otin duoh masik! Koih dimutik ulu
 
 -- Abdu'l-Bahá
 
-bpn11839 «[Bidayuh](../sne/prayers/#bpn11839)» 
+bpn11839 
 
 ----
 
@@ -1189,7 +1190,7 @@ O Ingan Raja dek tulut! Ingan mbok ogi motan sua manusia sok pulih dek samah. In
 
 -- Abdu'l-Bahá
 
-bpn11840 «[Bidayuh](../sne/prayers/#bpn11840)» 
+bpn11840 
 
 ----
 
@@ -1203,7 +1204,7 @@ Iyoh leh Topa, bigatung ayuh leh Iyoh, Raja perinduk – bitulut bait bia dek pi
 
 -- Bahá'u'lláh
 
-bpn11789 «[Bidayuh](../sne/prayers/#bpn11789)» 
+bpn11789 
 
 ----
 
@@ -1213,7 +1214,7 @@ Ngin Pimudi tudu Ingan, O Raja Topa ku! Mbak nadah iyoh nya’a dek mbok pa’ad
 
 -- Bahá'u'lláh
 
-bpn11790 «[Bidayuh](../sne/prayers/#bpn11790)» 
+bpn11790 
 
 ----
 
@@ -1223,7 +1224,7 @@ bpn11790 «[Bidayuh](../sne/prayers/#bpn11790)»
 
 -- Bahá'u'lláh
 
-bpn11795 «[Bidayuh](../sne/prayers/#bpn11795)» 
+bpn11795 
 
 ----
 
@@ -1233,7 +1234,7 @@ O Topa ku! O Ingan dek apunt sua salah, dek pisoh hadiah, dek kadi pinusah! Tota
 
 -- Abdu'l-Bahá
 
-bpn11791 «[Bidayuh](../sne/prayers/#bpn11791)» 
+bpn11791 
 
 ----
 
@@ -1243,7 +1244,7 @@ O Topa ku, Topa dek ngapunt dosa-dosa manusia, dek pirasie duoh dek dapod kadi s
 
 -- Abdu'l-Bahá
 
-bpn11792 «[Bidayuh](../sne/prayers/#bpn11792)» 
+bpn11792 
 
 ----
 
@@ -1253,7 +1254,7 @@ O Ingan Raja dek Pingapunt! Sungu pun ogi jiwa-jiwa dek mbok pakai masa selama i
 
 -- Abdu'l-Bahá
 
-bpn11793 «[Bidayuh](../sne/prayers/#bpn11793)» 
+bpn11793 
 
 ----
 
@@ -1263,7 +1264,7 @@ bpn11793 «[Bidayuh](../sne/prayers/#bpn11793)»
 
 -- Abdu'l-Bahá
 
-bpn11794 «[Bidayuh](../sne/prayers/#bpn11794)» 
+bpn11794 
 
 ----
 
@@ -1277,7 +1278,7 @@ Mudi Ingan, O Raja Topa ku! Sudi leh ngibonar onak ilak tih obuah ma’an sok si
 
 -- Abdu'l-Bahá
 
-bpn11775 «[Bidayuh](../sne/prayers/#bpn11775)» 
+bpn11775 
 
 ----
 
@@ -1287,7 +1288,7 @@ bpn11775 «[Bidayuh](../sne/prayers/#bpn11775)»
 
 -- Abdu'l-Bahá
 
-bpn11776 «[Bidayuh](../sne/prayers/#bpn11776)» 
+bpn11776 
 
 ----
 
@@ -1297,7 +1298,7 @@ O Topa! Nggan onak kuwek tih daang otin-otin pangirinduk Ingan, bia ngin susu so
 
 -- Abdu'l-Bahá
 
-bpn11777 «[Bidayuh](../sne/prayers/#bpn11777)» 
+bpn11777 
 
 ----
 
@@ -1307,7 +1308,7 @@ O Topa! Ngajar onak opot dimutik. Kabant onak opot dimutik yoh leh uwuong tongon
 
 -- Abdu'l-Bahá
 
-bpn11778 «[Bidayuh](../sne/prayers/#bpn11778)» 
+bpn11778 
 
 ----
 
@@ -1317,7 +1318,7 @@ O Ingan Raja dek tulut! Onak-onak pa’tuh dimutik yoh leh kroja bitik tilinyuk 
 
 -- Abdu'l-Bahá
 
-bpn11779 «[Bidayuh](../sne/prayers/#bpn11779)» 
+bpn11779 
 
 ----
 
@@ -1327,7 +1328,7 @@ O Raja! Nai odak onak opot dimutik pimuluah dek cemerlang. Odak negeh iyoh tumue
 
 -- Abdu'l-Bahá
 
-bpn11780 «[Bidayuh](../sne/prayers/#bpn11780)» 
+bpn11780 
 
 ----
 
@@ -1337,7 +1338,7 @@ Iyoh leh Topa! O Topa Topa ku! Jugan tudu oku otin dek tolen, dek tutuas ndi kil
 
 -- Abdu'l-Bahá
 
-bpn11781 «[Bidayuh](../sne/prayers/#bpn11781)» 
+bpn11781 
 
 ----
 
@@ -1347,7 +1348,7 @@ O Topa, ngotag oku, nyinung nyabal oku, nai oku jadin lapu dek bidudue bia jadin
 
 -- Abdu'l-Bahá
 
-bpn11782 «[Bidayuh](../sne/prayers/#bpn11782)» 
+bpn11782 
 
 ----
 
@@ -1357,7 +1358,7 @@ O Raja ku! O Raja ku! Oku tih onak opot daang umur dek molae. Kanuak oku pakai s
 
 -- Abdu'l-Bahá
 
-bpn11783 «[Bidayuh](../sne/prayers/#bpn11783)» 
+bpn11783 
 
 ----
 
@@ -1367,7 +1368,7 @@ O Raja dek doie banding-eh! Ba..syi Ingan jadin gadang sa’ant onak opot dek so
 
 -- Abdu'l-Bahá
 
-bpn11784 «[Bidayuh](../sne/prayers/#bpn11784)» 
+bpn11784 
 
 ----
 
@@ -1377,7 +1378,7 @@ O Raja! Nai bujang donak tih, bia pisoh tudu manusia sotok tih pingungin Ingan. 
 
 -- Abdu'l-Bahá
 
-bpn11785 «[Bidayuh](../sne/prayers/#bpn11785)» 
+bpn11785 
 
 ----
 
@@ -1391,7 +1392,7 @@ O Topa, Topa ku! Oku ngugai Ingan pakai doyak bala perinduk sejati Ingan dek sek
 
 -- Bahá'u'lláh
 
-bpn11786 «[Bidayuh](../sne/prayers/#bpn11786)» 
+bpn11786 
 
 ----
 
@@ -1401,7 +1402,7 @@ Oku mohon apunt sabal, O Topa ku, duoh ngugai kemaafan tudu wat ulah gaya ulunt-
 
 -- Báb
 
-bpn11787 «[Bidayuh](../sne/prayers/#bpn11787)» 
+bpn11787 
 
 ----
 
@@ -1411,7 +1412,7 @@ O Raja! Daang Dispensasi Ingan dek Paling Agung tih Ingan ogi terima doa piwatas
 
 -- Abdu'l-Bahá
 
-bpn11788 «[Bidayuh](../sne/prayers/#bpn11788)» 
+bpn11788 
 
 ----
 
@@ -1425,7 +1426,7 @@ O Topa ku duoh Guru ku! Oku ulunt Ingan duoh onak ulunt Ingan. Oku mbok mokat so
 
 -- Bahá'u'lláh
 
-bpn11895 «[Bidayuh](../sne/prayers/#bpn11895)» 
+bpn11895 
 
 ----
 
@@ -1435,7 +1436,7 @@ Oku mbok mokat daang gadang Ingan, O Topa ku, bia jadin nyaa dek kalik gadang ya
 
 -- Bahá'u'lláh
 
-bpn11896 «[Bidayuh](../sne/prayers/#bpn11896)» 
+bpn11896 
 
 ----
 
@@ -1445,7 +1446,7 @@ Oku ngin pimudi tudu Ingan, O Topa ku, nang Ingan mbok pingaoh oku odak mokat so
 
 -- Bahá'u'lláh
 
-bpn11897 «[Bidayuh](../sne/prayers/#bpn11897)» 
+bpn11897 
 
 ----
 
@@ -1455,7 +1456,7 @@ bpn11897 «[Bidayuh](../sne/prayers/#bpn11897)»
 
 -- Bahá'u'lláh
 
-bpn11898 «[Bidayuh](../sne/prayers/#bpn11898)» 
+bpn11898 
 
 ----
 
@@ -1469,7 +1470,7 @@ Mulia manah adon Ingan, O Raja Topa ku! Oku nguwai Ingan pakai kuasa Ingan dek m
 
 -- Bahá'u'lláh
 
-bpn11865 «[Bidayuh](../sne/prayers/#bpn11865)» 
+bpn11865 
 
 ----
 
@@ -1479,7 +1480,7 @@ O Ingan Nyaa dek sinok daang hajat ku, pimonog Nyaa dek arap-arapku, panginatong
 
 -- Bahá'u'lláh
 
-bpn11866 «[Bidayuh](../sne/prayers/#bpn11866)» 
+bpn11866 
 
 ----
 
@@ -1489,7 +1490,7 @@ O Topa, Topa ku! Oku mbok ngaduap daang bitobat tudu Ingan, bia notap Ingan leh 
 
 -- Bahá'u'lláh
 
-bpn11867 «[Bidayuh](../sne/prayers/#bpn11867)» 
+bpn11867 
 
 ----
 
@@ -1499,7 +1500,7 @@ Obuah mudi duoh mulia leh Ingan, O Topa! Ngibonar sak supaya onu yak soont pimon
 
 -- Báb
 
-bpn11868 «[Bidayuh](../sne/prayers/#bpn11868)» 
+bpn11868 
 
 ----
 
@@ -1509,7 +1510,7 @@ O Raja Topa ku! Tulung bala perinduk Ingan odak totod daang Iman Ingan, ponu daa
 
 -- Abdu'l-Bahá
 
-bpn11869 «[Bidayuh](../sne/prayers/#bpn11869)» 
+bpn11869 
 
 ----
 
@@ -1523,7 +1524,7 @@ Ngin mulia tudu Ingan, O Raja alam baka, bia Pimotan Negara-negara, bia Pinokoh 
 
 -- Bahá'u'lláh
 
-bpn11817 «[Bidayuh](../sne/prayers/#bpn11817)» 
+bpn11817 
 
 ----
 
@@ -1533,7 +1534,7 @@ Iyoh leh dek Gagah, dek Pimaaf, dek Pinubuas! O Topa, Topa ku! Ingan kilint ulun
 
 -- Bahá'u'lláh
 
-bpn11818 «[Bidayuh](../sne/prayers/#bpn11818)» 
+bpn11818 
 
 ----
 
@@ -1543,7 +1544,7 @@ Nai odak totod pimonu-pimonu ku, O Raja, daang olant Ingan bia naan nogap leh In
 
 -- Abdu'l-Bahá
 
-bpn11819 «[Bidayuh](../sne/prayers/#bpn11819)» 
+bpn11819 
 
 ----
 
@@ -1553,7 +1554,7 @@ O Topa dek nubuas! Terima kasih tudu Ingan setegal Ingan mbok pinga-oh bia nai o
 
 -- Abdu'l-Bahá
 
-bpn11820 «[Bidayuh](../sne/prayers/#bpn11820)» 
+bpn11820 
 
 ----
 
@@ -1563,7 +1564,7 @@ O Raja ku bia Pingarap ku! Tulung leh Ingan kekasih-kekasih Ingan odak togap daa
 
 -- Abdu'l-Bahá
 
-bpn11821 «[Bidayuh](../sne/prayers/#bpn11821)» 
+bpn11821 
 
 ----
 
@@ -1577,7 +1578,7 @@ Iyoh leh Raja, dek Paling Pu’ant, dek Bijak Ponai! Ninga leh Manuk Bulbul Shor
 
 -- Bahá'u'lláh
 
-bpn11906 «[Bidayuh](../sne/prayers/#bpn11906)» 
+bpn11906 
 
 ----
 
@@ -1591,7 +1592,7 @@ bpn11906 «[Bidayuh](../sne/prayers/#bpn11906)»
 
 -- Bahá'u'lláh
 
-bpn11904 «[Bidayuh](../sne/prayers/#bpn11904)» 
+bpn11904 
 
 ----
 
@@ -1601,7 +1602,7 @@ bpn11904 «[Bidayuh](../sne/prayers/#bpn11904)»
 
 -- Abdu'l-Bahá
 
-bpn11905 «[Bidayuh](../sne/prayers/#bpn11905)» 
+bpn11905 
 
 ----
 
@@ -1615,7 +1616,7 @@ bpn11905 «[Bidayuh](../sne/prayers/#bpn11905)»
 
 -- Bahá'u'lláh
 
-bpn11908 «[Bidayuh](../sne/prayers/#bpn11908)» 
+bpn11908 
 
 ----
 
@@ -1629,7 +1630,7 @@ bpn11908 «[Bidayuh](../sne/prayers/#bpn11908)»
 
 -- Bahá'u'lláh
 
-bpn11907 «[Bidayuh](../sne/prayers/#bpn11907)» 
+bpn11907 
 
 ----
 
@@ -1643,7 +1644,7 @@ O Ingan jowin Ingan leh dek jadin polong pimuja ku, pangisangon Ingan boli pingu
 
 -- Bahá'u'lláh
 
-bpn11768 «[Bidayuh](../sne/prayers/#bpn11768)» 
+bpn11768 
 
 ----
 
@@ -1657,7 +1658,7 @@ Oku ngakont, O Topa ku, nang Ingan mbok ogi nai oku odak pu’ant odop Ingan duo
 
 -- Bahá'u'lláh
 
-bpn11766 «[Bidayuh](../sne/prayers/#bpn11766)» 
+bpn11766 
 
 ----
 
@@ -1671,7 +1672,7 @@ bpn11766 «[Bidayuh](../sne/prayers/#bpn11766)»
 
 -- Bahá'u'lláh
 
-bpn11767 «[Bidayuh](../sne/prayers/#bpn11767)» 
+bpn11767 
 
 ----
 
@@ -1685,7 +1686,7 @@ bpn11767 «[Bidayuh](../sne/prayers/#bpn11767)»
 
 -- Abdu'l-Bahá
 
-bpn11831 «[Bidayuh](../sne/prayers/#bpn11831)» 
+bpn11831 
 
 ----
 

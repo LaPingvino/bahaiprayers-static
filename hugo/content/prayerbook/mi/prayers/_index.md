@@ -5,6 +5,7 @@ tags = ['lang=mi', 'prayerbook']
 
 
 
+
 [KARAKIA MŌ TE MOANANUIA-KIWA](#KARAKIA+M%C5%8C+TE+MOANANUIA-KIWA)
 
 [MŌ NGĀ HUI](#M%C5%8C+NG%C4%80+HUI)
@@ -95,7 +96,7 @@ E Koe Te Atua Parakore Kaha Rawa! E Koe tōku Ariki ngākau māhaki! Tukua mai k
 
 -- Abdu'l-Bahá
 
-bpn10246 «[Māori](../mi/prayers/#bpn10246)» 
+bpn10246 
 
 ----
 
@@ -109,7 +110,7 @@ E te Atua Manaaki. Ko tēnei huihuinga ko Ōu hoa kua aukumea ki tō ātaahua, k
 
 -- Abdu'l-Bahá
 
-bpn10190 «[Māori](../mi/prayers/#bpn10190)» 
+bpn10190 
 
 ----
 
@@ -123,7 +124,7 @@ Etōku Atua, tōku Ariki, te Whāinga o tōku kōingo! Tēnei, Tāu pononga, te 
 
 -- Bahá'u'lláh
 
-bpn10184 «[Māori](../mi/prayers/#bpn10184)» 
+bpn10184 
 
 ----
 
@@ -137,7 +138,7 @@ Kua whakaarahia nei ahau ki raro i Tāu maru, e tōku Atua, ā, he taunga nōna 
 
 -- Bahá'u'lláh
 
-bpn10185 «[Māori](../mi/prayers/#bpn10185)» 
+bpn10185 
 
 ----
 
@@ -151,7 +152,7 @@ bpn10185 «[Māori](../mi/prayers/#bpn10185)»
 
 -- Bahá'u'lláh
 
-bpn10191 «[Māori](../mi/prayers/#bpn10191)» 
+bpn10191 
 
 ----
 
@@ -161,7 +162,7 @@ Ko Ia Te Atua, korōria ki a Ia, ko Ia Te Ariki o te aroha me te tōnui!Whaikor�
 
 -- Bahá'u'lláh
 
-bpn10192 «[Māori](../mi/prayers/#bpn10192)» 
+bpn10192 
 
 ----
 
@@ -171,7 +172,7 @@ Kei tōku Atua! e Koe te poumuru i te hara te kaituku i ngā tākoha, te kaiwhak
 
 -- Abdu'l-Bahá
 
-bpn10193 «[Māori](../mi/prayers/#bpn10193)» 
+bpn10193 
 
 ----
 
@@ -185,7 +186,7 @@ E Koe te Ariki ngākau māhaki! Tukua mai koa ētahi parirau e rua mai i te rang
 
 -- Abdu'l-Bahá
 
-bpn10201 «[Māori](../mi/prayers/#bpn10201)» 
+bpn10201 
 
 ----
 
@@ -195,7 +196,7 @@ E Koe te Ariki ngākau māhaki! Tukua mai te tautoko o te rangi ki runga ki tēn
 
 -- Abdu'l-Bahá
 
-bpn10202 «[Māori](../mi/prayers/#bpn10202)» 
+bpn10202 
 
 ----
 
@@ -205,7 +206,7 @@ E Te Ariki! Meinga tēnei taiohi kia kōpura, hōmai rā Tāu manaaki ki runga k
 
 -- Abdu'l-Bahá
 
-bpn10203 «[Māori](../mi/prayers/#bpn10203)» 
+bpn10203 
 
 ----
 
@@ -215,7 +216,7 @@ Korōria me te whakamoemiti ki a Koe, e Te Ariki tōku Atua! He pihinga papai t�
 
 -- Abdu'l-Bahá
 
-bpn10204 «[Māori](../mi/prayers/#bpn10204)» 
+bpn10204 
 
 ----
 
@@ -229,7 +230,7 @@ E te Ariki, tōku Atua! Ko ia nei tētahi tamaiti i puta mai i ngā hūhā o tē
 
 -- Bahá'u'lláh
 
-bpn10206 «[Māori](../mi/prayers/#bpn10206)» 
+bpn10206 
 
 ----
 
@@ -239,7 +240,7 @@ E Te Atua! Whakaakona ēnei tamariki. Ko aua tamariki nei ngā tupunga o Tāu m�
 
 -- Abdu'l-Bahá
 
-bpn10207 «[Māori](../mi/prayers/#bpn10207)» 
+bpn10207 
 
 ----
 
@@ -249,7 +250,7 @@ E Te Atua, ārahina ahau, tiakina mai, kia meinga ahau hei rama pīataata, hei w
 
 -- Abdu'l-Bahá
 
-bpn10208 «[Māori](../mi/prayers/#bpn10208)» 
+bpn10208 
 
 ----
 
@@ -259,7 +260,7 @@ E Te Ariki! Meinga ēnei tamariki hei hua papai. Tukua rātou kia tupu, kia puā
 
 -- Abdu'l-Bahá
 
-bpn10209 «[Māori](../mi/prayers/#bpn10209)» 
+bpn10209 
 
 ----
 
@@ -269,7 +270,7 @@ Ko Ia Te Atua! e Te Atua, tōku Atua! Tukua mai ki ahau te manawa parakore, he �
 
 -- Abdu'l-Bahá
 
-bpn10210 «[Māori](../mi/prayers/#bpn10210)» 
+bpn10210 
 
 ----
 
@@ -279,7 +280,7 @@ E Te Ariki! He tamaiti noa iho au; tukua ahau kia tupu i raro o te ataata o Tōu
 
 -- Abdu'l-Bahá
 
-bpn10211 «[Māori](../mi/prayers/#bpn10211)» 
+bpn10211 
 
 ----
 
@@ -289,7 +290,7 @@ E Koe te Āriki korōria tonu! Meinga tēnei hāwini iti Nāu kia whakapaingia k
 
 -- Abdu'l-Bahá
 
-bpn10212 «[Māori](../mi/prayers/#bpn10212)» 
+bpn10212 
 
 ----
 
@@ -303,7 +304,7 @@ E Te Atua! Ko ngā whakawaitanga Nāu i tuku mai he pani ki ngā hakihaki o te k
 
 -- Bahá'u'lláh
 
-bpn10197 «[Māori](../mi/prayers/#bpn10197)» 
+bpn10197 
 
 ----
 
@@ -313,7 +314,7 @@ Korōria ki a Koe, E Te Ariki tōku Atua! Ko Koe tēnā Nāu te ahi i ngiha ai k
 
 -- Bahá'u'lláh
 
-bpn10195 «[Māori](../mi/prayers/#bpn10195)» 
+bpn10195 
 
 ----
 
@@ -323,7 +324,7 @@ Korōria ki a Koe, E Te Ariki tōku Atua! Ko Koe rā Ia Nāna ngā mea katoa i h
 
 -- Bahá'u'lláh
 
-bpn10196 «[Māori](../mi/prayers/#bpn10196)» 
+bpn10196 
 
 ----
 
@@ -333,7 +334,7 @@ Korōria ki a Koe, E tōku Atua! Ko tētahi o Āu hāwini, i whakapono ki a Koe 
 
 -- Bahá'u'lláh
 
-bpn10198 «[Māori](../mi/prayers/#bpn10198)» 
+bpn10198 
 
 ----
 
@@ -343,7 +344,7 @@ E Te Ariki, e ko Koe Nāu te tohu aroha e karapoti nei i te katoa, Nāu te murun
 
 -- Abdu'l-Bahá
 
-bpn10194 «[Māori](../mi/prayers/#bpn10194)» 
+bpn10194 
 
 ----
 
@@ -353,7 +354,7 @@ E tōku Ariki, tōku Tōmina! Tauhoatia mai ahau me taku kaha moke, haere ngāta
 
 -- Abdu'l-Bahá
 
-bpn10199 «[Māori](../mi/prayers/#bpn10199)» 
+bpn10199 
 
 ----
 
@@ -367,7 +368,7 @@ Tōku Ariki! Tōku Ariki! e whakahōnore ana ahau i a Koe, e tuku whakamoemiti a
 
 -- Abdu'l-Bahá
 
-bpn10200 «[Māori](../mi/prayers/#bpn10200)» 
+bpn10200 
 
 ----
 
@@ -381,7 +382,7 @@ E Koe Te Ariki ngākau māhaki! Nāu te katoa o te ira tangata i hanga mai i te 
 
 -- Abdu'l-Bahá
 
-bpn10213 «[Māori](../mi/prayers/#bpn10213)» 
+bpn10213 
 
 ----
 
@@ -391,7 +392,7 @@ E Te Atua e Koe, Nāu Tōu ātaahua i maka ki runga o ngā tūturutanga whakahar
 
 -- Abdu'l-Bahá
 
-bpn10214 «[Māori](../mi/prayers/#bpn10214)» 
+bpn10214 
 
 ----
 
@@ -405,7 +406,7 @@ E tōku Atua! e tōku Atua! Whakakotahitia ngā ngākau o Āu pononga, whakaatur
 
 -- Bahá'u'lláh
 
-bpn10219 «[Māori](../mi/prayers/#bpn10219)» 
+bpn10219 
 
 ----
 
@@ -415,7 +416,7 @@ E tōku Atua! e tōku Atua! Tūturu, tāku karanga ki a Koe me tāku inoi ki mua
 
 -- Abdu'l-Bahá
 
-bpn10220 «[Māori](../mi/prayers/#bpn10220)» 
+bpn10220 
 
 ----
 
@@ -429,7 +430,7 @@ Ko Ia ko Koe, e tōku Atua, Mā Ōu ingoa te hunga e māuiuingia ana me te hunga
 
 -- Bahá'u'lláh
 
-bpn10215 «[Māori](../mi/prayers/#bpn10215)» 
+bpn10215 
 
 ----
 
@@ -439,7 +440,7 @@ Korōria ki a Koe , E Te Ariki tōku Atua! Tukua mai koa ki tēnei pōtiki kia w
 
 -- Bahá'u'lláh
 
-bpn10216 «[Māori](../mi/prayers/#bpn10216)» 
+bpn10216 
 
 ----
 
@@ -449,7 +450,7 @@ E Koe Te Ariki kotahi tonu! Tukua tēnei kōhungahunga kia ngote ki te ū o Tāu
 
 -- Abdu'l-Bahá
 
-bpn10217 «[Māori](../mi/prayers/#bpn10217)» 
+bpn10217 
 
 ----
 
@@ -459,7 +460,7 @@ E Te Atua! Whakatupuria tēnei pēpē ki te uma o Tōu aroha, whāngotehia ki te
 
 -- Abdu'l-Bahá
 
-bpn10218 «[Māori](../mi/prayers/#bpn10218)» 
+bpn10218 
 
 ----
 
@@ -473,7 +474,7 @@ E Koe Te Kaharawa! He tangata hara ahau, engari ko Koe te Poumurunga Hara! He nu
 
 -- Abdu'l-Bahá
 
-bpn10223 «[Māori](../mi/prayers/#bpn10223)» 
+bpn10223 
 
 ----
 
@@ -483,7 +484,7 @@ Ete Ariki murunga hara! Ko Koe te piringa o te katoa o Ōu pononga. e mōhio ana
 
 -- Abdu'l-Bahá
 
-bpn10224 «[Māori](../mi/prayers/#bpn10224)» 
+bpn10224 
 
 ----
 
@@ -497,7 +498,7 @@ Korōria ki a Koe, E Te Ariki tōku Atua! Tēnei ahau ka inoi nei ki a Koe mā �
 
 -- Bahá'u'lláh
 
-bpn10258 «[Māori](../mi/prayers/#bpn10258)» 
+bpn10258 
 
 ----
 
@@ -511,7 +512,7 @@ bpn10258 «[Māori](../mi/prayers/#bpn10258)»
 
 -- Abdu'l-Bahá
 
-bpn10222 «[Māori](../mi/prayers/#bpn10222)» 
+bpn10222 
 
 ----
 
@@ -525,7 +526,7 @@ bpn10222 «[Māori](../mi/prayers/#bpn10222)»
 
 -- Bahá'u'lláh
 
-bpn10221 «[Māori](../mi/prayers/#bpn10221)» 
+bpn10221 
 
 ----
 
@@ -539,7 +540,7 @@ E Koe ko Tāū pātata mai te kōingo o tōku ngākau, ko Tāu noho mai tōku t�
 
 -- Bahá'u'lláh
 
-bpn10225 «[Māori](../mi/prayers/#bpn10225)» 
+bpn10225 
 
 ----
 
@@ -549,7 +550,7 @@ Whakakorōriatia ana, whakamoemititia ana  ko Koe e Te Atua! Tukua mai kia horo 
 
 -- Báb
 
-bpn10226 «[Māori](../mi/prayers/#bpn10226)» 
+bpn10226 
 
 ----
 
@@ -559,7 +560,7 @@ E Te Ariki tōku Atua! Āwhinatia mai ngā tau o Tōu ate kia pūmau ki Tō Whak
 
 -- Abdu'l-Bahá
 
-bpn10227 «[Māori](../mi/prayers/#bpn10227)» 
+bpn10227 
 
 ----
 
@@ -573,7 +574,7 @@ E Te Atua, me te Atua o ngā Ingoa katoa, me te Kaihanga o ngā rangi! Ko tāku 
 
 -- Bahá'u'lláh
 
-bpn10228 «[Māori](../mi/prayers/#bpn10228)» 
+bpn10228 
 
 ----
 
@@ -587,7 +588,7 @@ bpn10228 «[Māori](../mi/prayers/#bpn10228)»
 
 -- Abdu'l-Bahá
 
-bpn10229 «[Māori](../mi/prayers/#bpn10229)» 
+bpn10229 
 
 ----
 
@@ -601,7 +602,7 @@ bpn10229 «[Māori](../mi/prayers/#bpn10229)»
 
 -- Abdu'l-Bahá
 
-bpn10230 «[Māori](../mi/prayers/#bpn10230)» 
+bpn10230 
 
 ----
 
@@ -615,7 +616,7 @@ Ko Ia te Mākoha, te Whairawanui-Katoa! e Te Atua, tōku Atua! Ko Koe e kite nei
 
 -- Abdu'l-Bahá
 
-bpn10231 «[Māori](../mi/prayers/#bpn10231)» 
+bpn10231 
 
 ----
 
@@ -629,7 +630,7 @@ Korōria ki Tōu ingoa, e Te Ariki tōku Atua! Tēnei ahau te inoi ki a Koe mā 
 
 -- Bahá'u'lláh
 
-bpn10232 «[Māori](../mi/prayers/#bpn10232)» 
+bpn10232 
 
 ----
 
@@ -639,7 +640,7 @@ E Te Atua, tōku Atua! Kua wehe ahau i tōku whare, e pupuri ana i te aho o Tōu
 
 -- Bahá'u'lláh
 
-bpn10233 «[Māori](../mi/prayers/#bpn10233)» 
+bpn10233 
 
 ----
 
@@ -653,7 +654,7 @@ Mai i te kakara o ngā wai o Tōu mutungakore, hōmai ki ahau hei inu, e tōku A
 
 -- Bahá'u'lláh
 
-bpn10234 «[Māori](../mi/prayers/#bpn10234)» 
+bpn10234 
 
 ----
 
@@ -663,7 +664,7 @@ Hangaia mai ki roto i a ahau he ngākau parakore, e tōku Atua, whakahoungia he 
 
 -- Bahá'u'lláh
 
-bpn10235 «[Māori](../mi/prayers/#bpn10235)» 
+bpn10235 
 
 ----
 
@@ -673,7 +674,7 @@ E tōku Ariki! Hua mai ko Tō ātaahua hei kai māku, ko te noho ki Tō Aroaro t
 
 -- Bahá'u'lláh
 
-bpn10236 «[Māori](../mi/prayers/#bpn10236)» 
+bpn10236 
 
 ----
 
@@ -683,7 +684,7 @@ Ko Ia te Atua rongo-i-te-inoi, te whakutui-te-inoi! Mā Tōu korōria, e Te Tau,
 
 -- Bahá'u'lláh
 
-bpn10237 «[Māori](../mi/prayers/#bpn10237)» 
+bpn10237 
 
 ----
 
@@ -693,7 +694,7 @@ Tēnei tāku inoi ki a Koe, e tōku Atua, mā te korōria matakite o Tōu Ingoa,
 
 -- Bahá'u'lláh
 
-bpn10240 «[Māori](../mi/prayers/#bpn10240)» 
+bpn10240 
 
 ----
 
@@ -703,7 +704,7 @@ E Te Atua! Whakahōungia, whakakoatia tōku wairua ora. Whakapaingia tōku ngāk
 
 -- Abdu'l-Bahá
 
-bpn10238 «[Māori](../mi/prayers/#bpn10238)» 
+bpn10238 
 
 ----
 
@@ -713,7 +714,7 @@ E Tōku Ariki! e Tōku Ariki! He rama tēnei kua ngiha mai i te ahi o Tōu aroha
 
 -- Abdu'l-Bahá
 
-bpn10239 «[Māori](../mi/prayers/#bpn10239)» 
+bpn10239 
 
 ----
 
@@ -727,7 +728,7 @@ Korōria ki a Koe e tōku Atua! Ko ahau tētahi o ō pononga, mea whakapono ki a
 
 -- Bahá'u'lláh
 
-bpn10243 «[Māori](../mi/prayers/#bpn10243)» 
+bpn10243 
 
 ----
 
@@ -741,7 +742,7 @@ bpn10243 «[Māori](../mi/prayers/#bpn10243)»
 
 -- Abdu'l-Bahá
 
-bpn10244 «[Māori](../mi/prayers/#bpn10244)» 
+bpn10244 
 
 ----
 
@@ -751,7 +752,7 @@ bpn10244 «[Māori](../mi/prayers/#bpn10244)»
 
 -- Abdu'l-Bahá
 
-bpn10245 «[Māori](../mi/prayers/#bpn10245)» 
+bpn10245 
 
 ----
 
@@ -765,7 +766,7 @@ Korōria katoa, e tōku Atua, ki a Koe te Mātāpuna o te korōria katoa, o te r
 
 -- Bahá'u'lláh
 
-bpn10247 «[Māori](../mi/prayers/#bpn10247)» 
+bpn10247 
 
 ----
 
@@ -779,7 +780,7 @@ E Te Atua, tōku Atua! Tēnei ahau te patipati mā te moananui o Tōu whakaora, 
 
 -- Bahá'u'lláh
 
-bpn10248 «[Māori](../mi/prayers/#bpn10248)» 
+bpn10248 
 
 ----
 
@@ -789,7 +790,7 @@ Ko Tō ingoa tōku whakaoranga, e tōku Atua ā, ko te maumahara ki a Koe tōku 
 
 -- Bahá'u'lláh
 
-bpn10249 «[Māori](../mi/prayers/#bpn10249)» 
+bpn10249 
 
 ----
 
@@ -803,7 +804,7 @@ Ko tāku tono ki a Koe ki Tōu kaha, e tōku Atua! Kia kaua ahau e whara i ngā 
 
 -- Báb
 
-bpn10251 «[Māori](../mi/prayers/#bpn10251)» 
+bpn10251 
 
 ----
 
@@ -813,7 +814,7 @@ He Pouwetewete i te raruraru i tua atu i Te Atua? Meatia: Korōria ki Te Atua! K
 
 -- Báb
 
-bpn10250 «[Māori](../mi/prayers/#bpn10250)» 
+bpn10250 
 
 ----
 
@@ -827,7 +828,7 @@ E Te Ariki! Ki tēnei Whakawāteatanga Nui Whakaharahara Rawa Atu kua whakaaea e
 
 -- Abdu'l-Bahá
 
-bpn10252 «[Māori](../mi/prayers/#bpn10252)» 
+bpn10252 
 
 ----
 
@@ -841,7 +842,7 @@ E Koe, Nōu te kanohi te whāinga o tōku kōingo, Nōu te ātaahua, tōku pirin
 
 -- Bahá'u'lláh
 
-bpn10187 «[Māori](../mi/prayers/#bpn10187)» 
+bpn10187 
 
 ----
 
@@ -851,7 +852,7 @@ E Tōku Atua, tōku Pūaroha, tōku Kīngi, tōku Tōmina! Mā tēwhea arero e k
 
 -- Bahá'u'lláh
 
-bpn10188 «[Māori](../mi/prayers/#bpn10188)» 
+bpn10188 
 
 ----
 
@@ -861,7 +862,7 @@ Kī atu: Ko Te Atua ko Ia te whakatutukinga o ngā mea katoa o runga o ngā mea 
 
 -- Báb
 
-bpn10189 «[Māori](../mi/prayers/#bpn10189)» 
+bpn10189 
 
 ----
 
@@ -875,7 +876,7 @@ Kia whakaūhia aku hīkoi, e Te Ariki, ki Tōu Ara kia whaikahatia ai e Koe ō m
 
 -- Abdu'l-Bahá
 
-bpn10241 «[Māori](../mi/prayers/#bpn10241)» 
+bpn10241 
 
 ----
 
@@ -885,7 +886,7 @@ E Te Atua mākoha! Kia whakamoemititia Koe i te mea Nāu ahau i whakaoho, Nāu i
 
 -- Abdu'l-Bahá
 
-bpn10242 «[Māori](../mi/prayers/#bpn10242)» 
+bpn10242 
 
 ----
 
@@ -899,7 +900,7 @@ bpn10242 «[Māori](../mi/prayers/#bpn10242)»
 
 -- Abdu'l-Bahá
 
-bpn10186 «[Māori](../mi/prayers/#bpn10186)» 
+bpn10186 
 
 ----
 
@@ -913,7 +914,7 @@ bpn10186 «[Māori](../mi/prayers/#bpn10186)»
 
 -- Bahá'u'lláh
 
-bpn10256 «[Māori](../mi/prayers/#bpn10256)» 
+bpn10256 
 
 ----
 
@@ -923,7 +924,7 @@ bpn10256 «[Māori](../mi/prayers/#bpn10256)»
 
 -- Abdu'l-Bahá
 
-bpn10257 «[Māori](../mi/prayers/#bpn10257)» 
+bpn10257 
 
 ----
 
@@ -937,7 +938,7 @@ bpn10257 «[Māori](../mi/prayers/#bpn10257)»
 
 -- Bahá'u'lláh
 
-bpn10181 «[Māori](../mi/prayers/#bpn10181)» 
+bpn10181 
 
 ----
 
@@ -951,7 +952,7 @@ bpn10181 «[Māori](../mi/prayers/#bpn10181)»
 
 -- Bahá'u'lláh
 
-bpn10183 «[Māori](../mi/prayers/#bpn10183)» 
+bpn10183 
 
 ----
 
@@ -965,7 +966,7 @@ bpn10183 «[Māori](../mi/prayers/#bpn10183)»
 
 -- Bahá'u'lláh
 
-bpn10182 «[Māori](../mi/prayers/#bpn10182)» 
+bpn10182 
 
 ----
 
@@ -979,7 +980,7 @@ I runga i te Ingoa o Te Atua, te Namata, te Kaha Rawa. Waihoki, ko ngā ngākau 
 
 -- Bahá'u'lláh
 
-bpn10254 «[Māori](../mi/prayers/#bpn10254)» 
+bpn10254 
 
 ----
 
@@ -993,7 +994,7 @@ bpn10254 «[Māori](../mi/prayers/#bpn10254)»
 
 -- Bahá'u'lláh
 
-bpn10253 «[Māori](../mi/prayers/#bpn10253)» 
+bpn10253 
 
 ----
 
@@ -1007,7 +1008,7 @@ Kia whakakōroriatia katoatia tēnei Rā, te Rā i horahia ai ngā kakara o te a
 
 -- Bahá'u'lláh
 
-bpn10255 «[Māori](../mi/prayers/#bpn10255)» 
+bpn10255 
 
 ----
 
@@ -1021,7 +1022,7 @@ bpn10255 «[Māori](../mi/prayers/#bpn10255)»
 
 -- Bahá'u'lláh
 
-bpn10205 «[Māori](../mi/prayers/#bpn10205)» 
+bpn10205 
 
 ----
 

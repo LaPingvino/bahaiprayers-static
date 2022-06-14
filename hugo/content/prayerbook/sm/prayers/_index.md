@@ -5,6 +5,7 @@ tags = ['lang=sm', 'prayerbook']
 
 
 
+
 [AID AND ASSISTANCE](#AID+AND+ASSISTANCE)
 
 [CHILDREN](#CHILDREN)
@@ -55,7 +56,7 @@ O Thou Whose face is the object of my adoration,…O Oe e Ona fofoga o le sini o
 
 -- Bahá'u'lláh
 
-bpn12366 «[Samoan](../sm/prayers/#bpn12366)» 
+bpn12366 
 
 ----
 
@@ -65,7 +66,7 @@ I adjure Thee by Thy might, O my God! Let no harm beset me.. Ou te augani fa’a
 
 -- Báb
 
-bpn12488 «[Samoan](../sm/prayers/#bpn12488)» 
+bpn12488 
 
 ----
 
@@ -75,7 +76,7 @@ Lord! Pitiful are we, grant us Thy favor;…     Le alii e! Ua augavale i matou,
 
 -- Abdu'l-Bahá
 
-bpn12367 «[Samoan](../sm/prayers/#bpn12367)» 
+bpn12367 
 
 ----
 
@@ -89,7 +90,7 @@ O God! Educate these children.Le Atua e! A’oa’oina nei tamaiti. O nei tamait
 
 -- Abdu'l-Bahá
 
-bpn12368 «[Samoan](../sm/prayers/#bpn12368)» 
+bpn12368 
 
 ----
 
@@ -99,7 +100,7 @@ O God, guide me, protect me,…Le Atua e, ta’ita’i a’u, puipui a’u, faap
 
 -- Abdu'l-Bahá
 
-bpn12369 «[Samoan](../sm/prayers/#bpn12369)» 
+bpn12369 
 
 ----
 
@@ -109,7 +110,7 @@ O Thou Kind Lord! These lovely children are the handiwork….      O Lau Afio o 
 
 -- Abdu'l-Bahá
 
-bpn12370 «[Samoan](../sm/prayers/#bpn12370)» 
+bpn12370 
 
 ----
 
@@ -123,7 +124,7 @@ Glory be to Thee, O Lord my God! Abase not him whom…       Ia ia te oe pea le 
 
 -- Bahá'u'lláh
 
-bpn12371 «[Samoan](../sm/prayers/#bpn12371)» 
+bpn12371 
 
 ----
 
@@ -133,7 +134,7 @@ He is God, exalted is He, the Lord of loving-kindness and bounty……O Ia o le 
 
 -- Bahá'u'lláh
 
-bpn12372 «[Samoan](../sm/prayers/#bpn12372)» 
+bpn12372 
 
 ----
 
@@ -143,7 +144,7 @@ O my God! O Thou forgiver of sins, bestower of gifts..       Lo’u Atua e! O Oe
 
 -- Abdu'l-Bahá
 
-bpn12373 «[Samoan](../sm/prayers/#bpn12373)» 
+bpn12373 
 
 ----
 
@@ -157,7 +158,7 @@ Suffer me, O my God, to draw nigh unto Thee,….     Lo’u Atua e, faapologaina
 
 -- Bahá'u'lláh
 
-bpn12374 «[Samoan](../sm/prayers/#bpn12374)» 
+bpn12374 
 
 ----
 
@@ -167,7 +168,7 @@ Many a chilled heart, Om my God, hath been set ablaze with the fire……       
 
 -- Bahá'u'lláh
 
-bpn12375 «[Samoan](../sm/prayers/#bpn12375)» 
+bpn12375 
 
 ----
 
@@ -181,7 +182,7 @@ O my God, my Master, the Goal of my desire!Lo’u Atua e, lo’u Matai, le Sini 
 
 -- Bahá'u'lláh
 
-bpn12480 «[Samoan](../sm/prayers/#bpn12480)» 
+bpn12480 
 
 ----
 
@@ -191,7 +192,7 @@ How can I choose to sleep, O God, my GodLe Atua e, lo’u Atua, pe faapefea ona 
 
 -- Bahá'u'lláh
 
-bpn12481 «[Samoan](../sm/prayers/#bpn12481)» 
+bpn12481 
 
 ----
 
@@ -205,7 +206,7 @@ Glory be to Thee, O King of eternity, and the Maker of nations,..   Le Tupu o le
 
 -- Bahá'u'lláh
 
-bpn12496 «[Samoan](../sm/prayers/#bpn12496)» 
+bpn12496 
 
 ----
 
@@ -219,7 +220,7 @@ Thou seest me, O my Lord, with my face turned towards the heaven…Lo’u Alii e
 
 -- Bahá'u'lláh
 
-bpn12483 «[Samoan](../sm/prayers/#bpn12483)» 
+bpn12483 
 
 ----
 
@@ -229,7 +230,7 @@ Lauded be Thy name, o my God and the God of all things… Ia vi’ia Lou Suafa l
 
 -- Bahá'u'lláh
 
-bpn12484 «[Samoan](../sm/prayers/#bpn12484)» 
+bpn12484 
 
 ----
 
@@ -239,7 +240,7 @@ O Thou forgiving Lord! Thou art the shelter of all these Thy servants… O Lau A
 
 -- Abdu'l-Bahá
 
-bpn12485 «[Samoan](../sm/prayers/#bpn12485)» 
+bpn12485 
 
 ----
 
@@ -253,7 +254,7 @@ bpn12485 «[Samoan](../sm/prayers/#bpn12485)»
 
 -- Bahá'u'lláh
 
-bpn12030 «[Samoan](../sm/prayers/#bpn12030)» 
+bpn12030 
 
 ----
 
@@ -267,7 +268,7 @@ bpn12030 «[Samoan](../sm/prayers/#bpn12030)»
 
 -- Bahá'u'lláh
 
-bpn12028 «[Samoan](../sm/prayers/#bpn12028)» 
+bpn12028 
 
 ----
 
@@ -277,7 +278,7 @@ O God, my God! I beg of Thee by the ocean of Thy healing,… Le Atua e, lou Atua
 
 -- Bahá'u'lláh
 
-bpn12486 «[Samoan](../sm/prayers/#bpn12486)» 
+bpn12486 
 
 ----
 
@@ -291,7 +292,7 @@ bpn12486 «[Samoan](../sm/prayers/#bpn12486)»
 
 -- Bahá'u'lláh
 
-bpn12478 «[Samoan](../sm/prayers/#bpn12478)» 
+bpn12478 
 
 ----
 
@@ -305,7 +306,7 @@ bpn12478 «[Samoan](../sm/prayers/#bpn12478)»
 
 -- Bahá'u'lláh
 
-bpn12477 «[Samoan](../sm/prayers/#bpn12477)» 
+bpn12477 
 
 ----
 
@@ -319,7 +320,7 @@ O Thou kind Lord! These are Thy servants who have gathered in this meeting,… O
 
 -- Abdu'l-Bahá
 
-bpn12491 «[Samoan](../sm/prayers/#bpn12491)» 
+bpn12491 
 
 ----
 
@@ -329,7 +330,7 @@ O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy 
 
 -- Abdu'l-Bahá
 
-bpn12492 «[Samoan](../sm/prayers/#bpn12492)» 
+bpn12492 
 
 ----
 
@@ -339,7 +340,7 @@ O Divine Providence! This assemblage is composed of Thy friends who are attracte
 
 -- Abdu'l-Bahá
 
-bpn12493 «[Samoan](../sm/prayers/#bpn12493)» 
+bpn12493 
 
 ----
 
@@ -353,7 +354,7 @@ O Lord, I have turned my face unto Thy kingdom of onenessTagata saili e, o le Up
 
 -- Abdu'l-Bahá
 
-bpn12482 «[Samoan](../sm/prayers/#bpn12482)» 
+bpn12482 
 
 ----
 
@@ -367,7 +368,7 @@ O Lord, my God and my Heaven in my distress Le Ali’i e, lo’u Atua ma lo’u 
 
 -- Abdu'l-Bahá
 
-bpn12487 «[Samoan](../sm/prayers/#bpn12487)» 
+bpn12487 
 
 ----
 
@@ -381,7 +382,7 @@ Magnified be Thy name, O Lord my God! Thou art He Whom all things worship… Le 
 
 -- Bahá'u'lláh
 
-bpn12489 «[Samoan](../sm/prayers/#bpn12489)» 
+bpn12489 
 
 ----
 
@@ -391,7 +392,7 @@ Glorified art Thou, O Lord my God! I yield Thee thanks for having enabled me to 
 
 -- Bahá'u'lláh
 
-bpn12490 «[Samoan](../sm/prayers/#bpn12490)» 
+bpn12490 
 
 ----
 
@@ -405,7 +406,7 @@ Lauded be Thy name, O Lord my God! I entreat Thee by Thy Name through which the 
 
 -- Bahá'u'lláh
 
-bpn12376 «[Samoan](../sm/prayers/#bpn12376)» 
+bpn12376 
 
 ----
 
@@ -415,7 +416,7 @@ O God, my God! I have set out from my home,..      Le Atua e, lo’u Atua! Ua ou
 
 -- Bahá'u'lláh
 
-bpn12377 «[Samoan](../sm/prayers/#bpn12377)» 
+bpn12377 
 
 ----
 
@@ -429,7 +430,7 @@ bpn12377 «[Samoan](../sm/prayers/#bpn12377)»
 
 -- Bahá'u'lláh
 
-bpn12476 «[Samoan](../sm/prayers/#bpn12476)» 
+bpn12476 
 
 ----
 
@@ -443,7 +444,7 @@ O Thou Whose nearness is my wish, Whose presence is my hope,… O Lau Afio e Ona
 
 -- Bahá'u'lláh
 
-bpn12494 «[Samoan](../sm/prayers/#bpn12494)» 
+bpn12494 
 
 ----
 
@@ -453,7 +454,7 @@ O Lord my God! Assist Thy loved ones to be firm in Thy Faith,… Le Ali’i e, l
 
 -- Abdu'l-Bahá
 
-bpn12495 «[Samoan](../sm/prayers/#bpn12495)» 
+bpn12495 
 
 ----
 
@@ -467,7 +468,7 @@ bpn12495 «[Samoan](../sm/prayers/#bpn12495)»
 
 -- Bahá'u'lláh
 
-bpn12031 «[Samoan](../sm/prayers/#bpn12031)» 
+bpn12031 
 
 ----
 
@@ -477,7 +478,7 @@ I am, O my God, but a tiny seed which Thou hast sown….Lo’u Atua e, o a’u u
 
 -- Bahá'u'lláh
 
-bpn12479 «[Samoan](../sm/prayers/#bpn12479)» 
+bpn12479 
 
 ----
 
@@ -487,7 +488,7 @@ bpn12479 «[Samoan](../sm/prayers/#bpn12479)»
 
 -- Báb
 
-bpn12032 «[Samoan](../sm/prayers/#bpn12032)» 
+bpn12032 
 
 ----
 
@@ -497,7 +498,7 @@ O my Lord! O my Lord! This is the lamp lighted by the fire of Thy love……Lo�
 
 -- Abdu'l-Bahá
 
-bpn12365 «[Samoan](../sm/prayers/#bpn12365)» 
+bpn12365 
 
 ----
 
@@ -511,7 +512,7 @@ bpn12365 «[Samoan](../sm/prayers/#bpn12365)»
 
 -- Báb
 
-bpn12029 «[Samoan](../sm/prayers/#bpn12029)» 
+bpn12029 
 
 ----
 

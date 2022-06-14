@@ -5,6 +5,7 @@ tags = ['lang=pt', 'prayerbook']
 
 
 
+
 [Ajuda](#Ajuda)
 
 [Amanhecer](#Amanhecer)
@@ -85,7 +86,7 @@ Meu Deus, a Quem adoro, meu Rei, Alvo do meu desejo! Com que língua Te posso ex
 
 -- Bahá'u'lláh
 
-bpn1168 «[Português (BR)](../pt/prayers/#bpn1168)» 
+bpn1168 
 
 ----
 
@@ -95,7 +96,7 @@ bpn1168 «[Português (BR)](../pt/prayers/#bpn1168)»
 
 -- Bahá'u'lláh
 
-bpn1169 «[Português (BR)](../pt/prayers/#bpn1169)» 
+bpn1169 
 
 ----
 
@@ -105,7 +106,7 @@ Meu Deus, Objeto da minha adoração e Meta do meu desejo, o Todo-Generoso, o Ma
 
 -- Bahá'u'lláh
 
-bpn1170 «[Português (BR)](../pt/prayers/#bpn1170)» 
+bpn1170 
 
 ----
 
@@ -115,7 +116,7 @@ bpn1170 «[Português (BR)](../pt/prayers/#bpn1170)»
 
 -- Bahá'u'lláh
 
-bpn1171 «[Português (BR)](../pt/prayers/#bpn1171)» 
+bpn1171 
 
 ----
 
@@ -125,7 +126,7 @@ bpn1171 «[Português (BR)](../pt/prayers/#bpn1171)»
 
 -- Bahá'u'lláh
 
-bpn1172 «[Português (BR)](../pt/prayers/#bpn1172)» 
+bpn1172 
 
 ----
 
@@ -135,7 +136,7 @@ Glória a Ti, ó Senhor meu Deus! Nada, em absoluto, escapa ao Teu conhecimento,
 
 -- Báb
 
-bpn1282 «[Português (BR)](../pt/prayers/#bpn1282)» 
+bpn1282 
 
 ----
 
@@ -145,7 +146,7 @@ Glorificado seja Teu Nome, ó Senhor! Em quem deverei refugiar-me, enquanto fore
 
 -- Báb
 
-bpn1283 «[Português (BR)](../pt/prayers/#bpn1283)» 
+bpn1283 
 
 ----
 
@@ -155,7 +156,7 @@ Louvado seja Teu Nome, ó Deus. És, em verdade, o nosso Senhor; estás ciente d
 
 -- Báb
 
-bpn1284 «[Português (BR)](../pt/prayers/#bpn1284)» 
+bpn1284 
 
 ----
 
@@ -165,7 +166,7 @@ Imploro-Te, pelo esplendor da luz da Tua face gloriosa, pela majestade da Tua an
 
 -- Báb
 
-bpn1285 «[Português (BR)](../pt/prayers/#bpn1285)» 
+bpn1285 
 
 ----
 
@@ -175,7 +176,7 @@ Glória a Ti, ó Senhor, Tu que trouxeste à existência todas as coisas criadas
 
 -- Báb
 
-bpn1286 «[Português (BR)](../pt/prayers/#bpn1286)» 
+bpn1286 
 
 ----
 
@@ -185,7 +186,7 @@ Em Nome do Teu Senhor, o Criador, o Soberano, o Todo-Suficiente, o Excelso, Aque
 
 -- Báb
 
-bpn1287 «[Português (BR)](../pt/prayers/#bpn1287)» 
+bpn1287 
 
 ----
 
@@ -195,7 +196,7 @@ Não removas, ó Senhor, a mesa festiva que se estendeu em Teu Nome, nem apagues
 
 -- Abdu'l-Bahá
 
-AB10275 «[English](../en/prayers/#AB10275)» «[Nederlands](../nl/prayers/#AB10275)» «[Português (BR)](../pt/prayers/#AB10275)» «[Español](../es/prayers/#AB10275)» 
+AB10275 «[Nederlands](../../nl/prayers/#AB10275)» «[English](../../en/prayers/#AB10275)» «[Español](../../es/prayers/#AB10275)» 
 
 ----
 
@@ -205,7 +206,7 @@ Senhor! Lastimáveis somos nós: concede-nos o Teu favor. Somos pobres: dá-nos 
 
 -- Abdu'l-Bahá
 
-bpn1066 «[Português (BR)](../pt/prayers/#bpn1066)» 
+bpn1066 
 
 ----
 
@@ -215,7 +216,7 @@ bpn1066 «[Português (BR)](../pt/prayers/#bpn1066)»
 
 -- Abdu'l-Bahá
 
-bpn1067 «[Português (BR)](../pt/prayers/#bpn1067)» 
+bpn1067 
 
 ----
 
@@ -225,7 +226,7 @@ bpn1067 «[Português (BR)](../pt/prayers/#bpn1067)»
 
 -- Abdu'l-Bahá
 
-bpn1068 «[Português (BR)](../pt/prayers/#bpn1068)» 
+bpn1068 
 
 ----
 
@@ -235,7 +236,7 @@ bpn1068 «[Português (BR)](../pt/prayers/#bpn1068)»
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» 
+AB00128FEE «[English](../../en/prayers/#AB00128FEE)» «[Español](../../es/prayers/#AB00128FEE)» 
 
 ----
 
@@ -245,7 +246,7 @@ AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Português (BR)](../pt/pr
 
 -- Abdu'l-Bahá
 
-bpn1070 «[Português (BR)](../pt/prayers/#bpn1070)» 
+bpn1070 
 
 ----
 
@@ -255,7 +256,7 @@ bpn1070 «[Português (BR)](../pt/prayers/#bpn1070)»
 
 -- Abdu'l-Bahá
 
-bpn1071 «[Português (BR)](../pt/prayers/#bpn1071)» 
+bpn1071 
 
 ----
 
@@ -265,7 +266,7 @@ bpn1071 «[Português (BR)](../pt/prayers/#bpn1071)»
 
 -- Abdu'l-Bahá
 
-bpn1072 «[Português (BR)](../pt/prayers/#bpn1072)» 
+bpn1072 
 
 ----
 
@@ -279,7 +280,7 @@ Levantei-me esta manhã pela Tua graça, ó meu Deus, e parti da minha casa com 
 
 -- Bahá'u'lláh
 
-bpn1174 «[Português (BR)](../pt/prayers/#bpn1174)» 
+bpn1174 
 
 ----
 
@@ -289,7 +290,7 @@ Rendo louvores a Ti, ó meu Deus, porque me fizeste despertar do meu sono, ressu
 
 -- Bahá'u'lláh
 
-bpn1175 «[Português (BR)](../pt/prayers/#bpn1175)» 
+bpn1175 
 
 ----
 
@@ -299,7 +300,7 @@ bpn1175 «[Português (BR)](../pt/prayers/#bpn1175)»
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» 
+BH02848 «[English](../../en/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
 
 ----
 
@@ -309,7 +310,7 @@ Despertei abrigado por Ti, ó meu Deus, e quem busca este abrigo deve permanecer
 
 -- Bahá'u'lláh
 
-bpn1173 «[Português (BR)](../pt/prayers/#bpn1173)» 
+bpn1173 
 
 ----
 
@@ -323,7 +324,7 @@ Sempre ao entrardes na sala de conselho, recitai esta prece com o coração a vi
 
 -- Abdu'l-Bahá
 
-AB01023SAE «[English](../en/prayers/#AB01023SAE)» «[Nederlands](../nl/prayers/#AB01023SAE)» «[Português (BR)](../pt/prayers/#AB01023SAE)» 
+AB01023SAE «[Nederlands](../../nl/prayers/#AB01023SAE)» «[English](../../en/prayers/#AB01023SAE)» 
 
 ----
 
@@ -333,7 +334,7 @@ Oração a ser usada ao terminar a reunião da Assembleia Espiritual:Ó Deus! Ó
 
 -- Abdu'l-Bahá
 
-bpn1321 «[Português (BR)](../pt/prayers/#bpn1321)» 
+bpn1321 
 
 ----
 
@@ -347,7 +348,7 @@ Glória a Ti, ó Senhor Meu Deus! Quantas cabeças foram suspensas no topo de la
 
 -- Bahá'u'lláh
 
-bpn1177 «[Português (BR)](../pt/prayers/#bpn1177)» 
+bpn1177 
 
 ----
 
@@ -357,7 +358,7 @@ Concede-me, ó meu Deus, a plena medida do Teu amor e da Tua aprovação e, pela
 
 -- Báb
 
-bpn1288 «[Português (BR)](../pt/prayers/#bpn1288)» 
+bpn1288 
 
 ----
 
@@ -367,7 +368,7 @@ Ordena para mim, ó Senhor, todas as coisas boas que criaste, ou que criarás, e
 
 -- Báb
 
-bpn1289 «[Português (BR)](../pt/prayers/#bpn1289)» 
+bpn1289 
 
 ----
 
@@ -381,7 +382,7 @@ Ele é o Generoso, a Suma Bondade! Louvores a Deus, o Antigo, o Sempre-Presente,
 
 -- Bahá'u'lláh
 
-bpn1178 «[Português (BR)](../pt/prayers/#bpn1178)» 
+bpn1178 
 
 ----
 
@@ -391,7 +392,7 @@ Ele é Deus! Ó Senhor incomparável! Em Tua sabedoria omnipotente, ordenaste o 
 
 -- Abdu'l-Bahá
 
-bpn1073 «[Português (BR)](../pt/prayers/#bpn1073)» 
+bpn1073 
 
 ----
 
@@ -401,7 +402,7 @@ Glória a Ti, ó meu Deus! Verdadeiramente, este Teu servo e esta Tua serva entr
 
 -- Abdu'l-Bahá
 
-bpn1074 «[Português (BR)](../pt/prayers/#bpn1074)» 
+bpn1074 
 
 ----
 
@@ -411,7 +412,7 @@ bpn1074 «[Português (BR)](../pt/prayers/#bpn1074)»
 
 -- Abdu'l-Bahá
 
-bpn1075 «[Português (BR)](../pt/prayers/#bpn1075)» 
+bpn1075 
 
 ----
 
@@ -425,7 +426,7 @@ Todos os amigos de Deus... devem contribuir na medida do possível, não importa
 
 -- Abdu'l-Bahá
 
-bpn1076 «[Português (BR)](../pt/prayers/#bpn1076)» 
+bpn1076 
 
 ----
 
@@ -439,7 +440,7 @@ Glória a Ti, ó Rei da Eternidade e Criador das nações, e Escultor de todo o 
 
 -- Bahá'u'lláh
 
-bpn1179 «[Português (BR)](../pt/prayers/#bpn1179)» 
+bpn1179 
 
 ----
 
@@ -449,7 +450,7 @@ Louvor a Ti, ó Senhor, meu Mais Amado! Torna-me constante em Tua Causa e permit
 
 -- Báb
 
-bpn1290 «[Português (BR)](../pt/prayers/#bpn1290)» 
+bpn1290 
 
 ----
 
@@ -459,7 +460,7 @@ Ele é o Poderoso, o Supremo Perdão, o Compassivo! Ó Deus, meu Deus! Vês os T
 
 -- Abdu'l-Bahá
 
-BH07469 «[English](../en/prayers/#BH07469)» «[Nederlands](../nl/prayers/#BH07469)» «[Português (BR)](../pt/prayers/#BH07469)» 
+BH07469 «[Nederlands](../../nl/prayers/#BH07469)» «[English](../../en/prayers/#BH07469)» 
 
 ----
 
@@ -469,7 +470,7 @@ BH07469 «[English](../en/prayers/#BH07469)» «[Nederlands](../nl/prayers/#BH07
 
 -- Abdu'l-Bahá
 
-bpn1078 «[Português (BR)](../pt/prayers/#bpn1078)» 
+bpn1078 
 
 ----
 
@@ -479,7 +480,7 @@ Ele é Deus! Ó Senhor, meu Deus, meu Bem-Amado! Estes são os Teus servos que o
 
 -- Abdu'l-Bahá
 
-bpn1079 «[Português (BR)](../pt/prayers/#bpn1079)» 
+bpn1079 
 
 ----
 
@@ -489,7 +490,7 @@ bpn1079 «[Português (BR)](../pt/prayers/#bpn1079)»
 
 -- Abdu'l-Bahá
 
-bpn1080 «[Português (BR)](../pt/prayers/#bpn1080)» 
+bpn1080 
 
 ----
 
@@ -503,7 +504,7 @@ bpn1080 «[Português (BR)](../pt/prayers/#bpn1080)»
 
 -- Abdu'l-Bahá
 
-bpn1081 «[Português (BR)](../pt/prayers/#bpn1081)» 
+bpn1081 
 
 ----
 
@@ -513,7 +514,7 @@ bpn1081 «[Português (BR)](../pt/prayers/#bpn1081)»
 
 -- Abdu'l-Bahá
 
-bpn1082 «[Português (BR)](../pt/prayers/#bpn1082)» 
+bpn1082 
 
 ----
 
@@ -523,7 +524,7 @@ bpn1082 «[Português (BR)](../pt/prayers/#bpn1082)»
 
 -- Abdu'l-Bahá
 
-ABU0129EDU «[English](../en/prayers/#ABU0129EDU)» «[Esperanto](../eo/prayers/#ABU0129EDU)» «[Português (BR)](../pt/prayers/#ABU0129EDU)» «[Papiamentu](../pap/prayers/#ABU0129EDU)» 
+ABU0129EDU «[English](../../en/prayers/#ABU0129EDU)» «[Esperanto](../../eo/prayers/#ABU0129EDU)» «[Papiamentu](../../pap/prayers/#ABU0129EDU)» 
 
 ----
 
@@ -533,7 +534,7 @@ ABU0129EDU «[English](../en/prayers/#ABU0129EDU)» «[Esperanto](../eo/prayers/
 
 -- Abdu'l-Bahá
 
-bpn1084 «[Português (BR)](../pt/prayers/#bpn1084)» 
+bpn1084 
 
 ----
 
@@ -543,7 +544,7 @@ bpn1084 «[Português (BR)](../pt/prayers/#bpn1084)»
 
 -- Abdu'l-Bahá
 
-bpn1085 «[Português (BR)](../pt/prayers/#bpn1085)» 
+bpn1085 
 
 ----
 
@@ -553,7 +554,7 @@ bpn1085 «[Português (BR)](../pt/prayers/#bpn1085)»
 
 -- Abdu'l-Bahá
 
-AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers/#AB09794CHI)» «[Português (BR)](../pt/prayers/#AB09794CHI)» 
+AB09794CHI «[Nederlands](../../nl/prayers/#AB09794CHI)» «[English](../../en/prayers/#AB09794CHI)» 
 
 ----
 
@@ -563,7 +564,7 @@ AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn1087 «[Português (BR)](../pt/prayers/#bpn1087)» 
+bpn1087 
 
 ----
 
@@ -573,7 +574,7 @@ bpn1087 «[Português (BR)](../pt/prayers/#bpn1087)»
 
 -- Abdu'l-Bahá
 
-bpn1088 «[Português (BR)](../pt/prayers/#bpn1088)» 
+bpn1088 
 
 ----
 
@@ -583,7 +584,7 @@ bpn1088 «[Português (BR)](../pt/prayers/#bpn1088)»
 
 -- Abdu'l-Bahá
 
-bpn1089 «[Português (BR)](../pt/prayers/#bpn1089)» 
+bpn1089 
 
 ----
 
@@ -593,7 +594,7 @@ bpn1089 «[Português (BR)](../pt/prayers/#bpn1089)»
 
 -- Abdu'l-Bahá
 
-bpn1090 «[Português (BR)](../pt/prayers/#bpn1090)» 
+bpn1090 
 
 ----
 
@@ -603,7 +604,7 @@ bpn1090 «[Português (BR)](../pt/prayers/#bpn1090)»
 
 -- Abdu'l-Bahá
 
-bpn1091 «[Português (BR)](../pt/prayers/#bpn1091)» 
+bpn1091 
 
 ----
 
@@ -613,7 +614,7 @@ bpn1091 «[Português (BR)](../pt/prayers/#bpn1091)»
 
 -- Abdu'l-Bahá
 
-bpn1092 «[Português (BR)](../pt/prayers/#bpn1092)» 
+bpn1092 
 
 ----
 
@@ -623,7 +624,7 @@ bpn1092 «[Português (BR)](../pt/prayers/#bpn1092)»
 
 -- Abdu'l-Bahá
 
-bpn1093 «[Português (BR)](../pt/prayers/#bpn1093)» 
+bpn1093 
 
 ----
 
@@ -633,7 +634,7 @@ Ele é Deus! Ó Tu, Senhor mais glorioso! Abençoa e faze feliz a tua pequenina 
 
 -- Abdu'l-Bahá
 
-bpn1094 «[Português (BR)](../pt/prayers/#bpn1094)» 
+bpn1094 
 
 ----
 
@@ -643,7 +644,7 @@ bpn1094 «[Português (BR)](../pt/prayers/#bpn1094)»
 
 -- Abdu'l-Bahá
 
-bpn1095 «[Português (BR)](../pt/prayers/#bpn1095)» 
+bpn1095 
 
 ----
 
@@ -653,7 +654,7 @@ bpn1095 «[Português (BR)](../pt/prayers/#bpn1095)»
 
 -- Abdu'l-Bahá
 
-bpn1096 «[Português (BR)](../pt/prayers/#bpn1096)» 
+bpn1096 
 
 ----
 
@@ -667,7 +668,7 @@ bpn1096 «[Português (BR)](../pt/prayers/#bpn1096)»
 
 -- Bahá'u'lláh
 
-bpn1180 «[Português (BR)](../pt/prayers/#bpn1180)» 
+bpn1180 
 
 ----
 
@@ -677,7 +678,7 @@ Teu Nome é minha cura, ó meu Deus, e a lembrança de Ti, o meu remédio. Aprox
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» 
+BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» 
 
 ----
 
@@ -687,7 +688,7 @@ Louvado sejas Tu, ó Senhor meu Deus! Imploro-Te - pelo Teu Nome Supremo, atrav�
 
 -- Bahá'u'lláh
 
-bpn1182 «[Português (BR)](../pt/prayers/#bpn1182)» 
+bpn1182 
 
 ----
 
@@ -697,7 +698,7 @@ Glória a Ti, ó Senhor meu Deus! Imploro-Te pelo Teu Nome, através do qual erg
 
 -- Bahá'u'lláh
 
-bpn1183 «[Português (BR)](../pt/prayers/#bpn1183)» 
+bpn1183 
 
 ----
 
@@ -707,7 +708,7 @@ Ele é Quem cura, o Suficiente, o Amparo, a Suma Clemência, o Todo-Misericordio
 
 -- Bahá'u'lláh
 
-bpn1184 «[Português (BR)](../pt/prayers/#bpn1184)» 
+bpn1184 
 
 ----
 
@@ -717,7 +718,7 @@ Glória a Ti, ó Senhor meu Deus! Peço-Te, pelo Teu Nome, através do qual Aque
 
 -- Bahá'u'lláh
 
-bpn1185 «[Português (BR)](../pt/prayers/#bpn1185)» 
+bpn1185 
 
 ----
 
@@ -727,7 +728,7 @@ Tu és Aquele, ó meu Deus, através de cujos nomes os enfermos são curados e o
 
 -- Bahá'u'lláh
 
-BH04990 «[English](../en/prayers/#BH04990)» «[Português (BR)](../pt/prayers/#BH04990)» 
+BH04990 «[English](../../en/prayers/#BH04990)» 
 
 ----
 
@@ -737,7 +738,7 @@ BH04990 «[English](../en/prayers/#BH04990)» «[Português (BR)](../pt/prayers/
 
 -- Abdu'l-Bahá
 
-bpn1097 «[Português (BR)](../pt/prayers/#bpn1097)» 
+bpn1097 
 
 ----
 
@@ -751,7 +752,7 @@ Glorificado és Tu, ó meu Deus! Agradeço-Te por me haveres feito conhecer Aque
 
 -- Bahá'u'lláh
 
-BH09508 «[English](../en/prayers/#BH09508)» «[Português (BR)](../pt/prayers/#BH09508)» 
+BH09508 «[English](../../en/prayers/#BH09508)» 
 
 ----
 
@@ -761,7 +762,7 @@ Louvado seja o Teu Nome, ó meu Deus! Suplico-Te - pela fragrância das Vestes d
 
 -- Bahá'u'lláh
 
-BH09864 «[English](../en/prayers/#BH09864)» «[Português (BR)](../pt/prayers/#BH09864)» «[Español](../es/prayers/#BH09864)» 
+BH09864 «[English](../../en/prayers/#BH09864)» «[Español](../../es/prayers/#BH09864)» 
 
 ----
 
@@ -771,7 +772,7 @@ Inúmeras vezes, ó meu Deus, um coração enregelado veio a flamejar com o fogo
 
 -- Bahá'u'lláh
 
-bpn1189 «[Português (BR)](../pt/prayers/#bpn1189)» 
+bpn1189 
 
 ----
 
@@ -781,7 +782,7 @@ Não sei, ó meu Deus, que Fogo é este que acendeste no Teu domínio. Jamais po
 
 -- Bahá'u'lláh
 
-bpn1190 «[Português (BR)](../pt/prayers/#bpn1190)» 
+bpn1190 
 
 ----
 
@@ -791,7 +792,7 @@ Louvor a Ti, ó meu Deus! Sou um dos Teus servos que acreditou em Ti e nos Teus 
 
 -- Bahá'u'lláh
 
-bpn1191 «[Português (BR)](../pt/prayers/#bpn1191)» 
+bpn1191 
 
 ----
 
@@ -801,7 +802,7 @@ Dize: Ó Deus, meu Deus! Tu me vês ao redor da Tua Vontade, circular com os meu
 
 -- Bahá'u'lláh
 
-bpn1192 «[Português (BR)](../pt/prayers/#bpn1192)» 
+bpn1192 
 
 ----
 
@@ -811,7 +812,7 @@ bpn1192 «[Português (BR)](../pt/prayers/#bpn1192)»
 
 -- Báb
 
-BB00018DET «[English](../en/prayers/#BB00018DET)» «[Português (BR)](../pt/prayers/#BB00018DET)» 
+BB00018DET «[English](../../en/prayers/#BB00018DET)» 
 
 ----
 
@@ -821,7 +822,7 @@ BB00018DET «[English](../en/prayers/#BB00018DET)» «[Português (BR)](../pt/pr
 
 -- Abdu'l-Bahá
 
-AB00073SER «[English](../en/prayers/#AB00073SER)» «[Português (BR)](../pt/prayers/#AB00073SER)» 
+AB00073SER «[English](../../en/prayers/#AB00073SER)» 
 
 ----
 
@@ -835,7 +836,7 @@ Esta é a Epístola de Deus, O Amparo no Perigo, O Que Subsiste por Si Próprio!
 
 -- Bahá'u'lláh
 
-bpn1193 «[Português (BR)](../pt/prayers/#bpn1193)» 
+bpn1193 
 
 ----
 
@@ -845,7 +846,7 @@ Enaltecido seja o Teu Nome, ó meu Deus, por haveres manifestado o Dia que é o 
 
 -- Bahá'u'lláh
 
-bpn1194 «[Português (BR)](../pt/prayers/#bpn1194)» 
+bpn1194 
 
 ----
 
@@ -855,7 +856,7 @@ Magnificado seja o Teu Nome, ó Deus. A Ti, em verdade, pertencem os Reinos da C
 
 -- Báb
 
-bpn1292 «[Português (BR)](../pt/prayers/#bpn1292)» 
+bpn1292 
 
 ----
 
@@ -869,7 +870,7 @@ Dize: Glorificado és Tu, ó meu Deus! Imploro-Te, pelo Ponto do Alvorecer dos T
 
 -- Bahá'u'lláh
 
-bpn1195 «[Português (BR)](../pt/prayers/#bpn1195)» 
+bpn1195 
 
 ----
 
@@ -879,7 +880,7 @@ Louvado sejas Tu, ó Senhor meu Deus! Imploro-Te, pelo Teu Nome, o qual jamais f
 
 -- Bahá'u'lláh
 
-BH08242 «[English](../en/prayers/#BH08242)» «[Português (BR)](../pt/prayers/#BH08242)» 
+BH08242 «[English](../../en/prayers/#BH08242)» 
 
 ----
 
@@ -889,7 +890,7 @@ Glória a Ti, ó Senhor do mundo e Desejo das nações, ó Tu que Te manifestast
 
 -- Bahá'u'lláh
 
-bpn1197 «[Português (BR)](../pt/prayers/#bpn1197)» 
+bpn1197 
 
 ----
 
@@ -899,7 +900,7 @@ bpn1197 «[Português (BR)](../pt/prayers/#bpn1197)»
 
 -- Bahá'u'lláh
 
-bpn1198 «[Português (BR)](../pt/prayers/#bpn1198)» 
+bpn1198 
 
 ----
 
@@ -909,7 +910,7 @@ Louvado seja o Teu nome, ó meu Deus! Vês quão severamente tenho sido atribula
 
 -- Bahá'u'lláh
 
-bpn1199 «[Português (BR)](../pt/prayers/#bpn1199)» 
+bpn1199 
 
 ----
 
@@ -919,7 +920,7 @@ Glorificado és Tu, ó Senhor meu Deus! Em Teu supremo Paraíso, designaste para
 
 -- Bahá'u'lláh
 
-bpn1200 «[Português (BR)](../pt/prayers/#bpn1200)» 
+bpn1200 
 
 ----
 
@@ -929,7 +930,7 @@ Louvor a Ti, ó Senhor Meu Deus! Ouves a voz da Minha lamentação, e vês a Min
 
 -- Bahá'u'lláh
 
-bpn1201 «[Português (BR)](../pt/prayers/#bpn1201)» 
+bpn1201 
 
 ----
 
@@ -939,7 +940,7 @@ bpn1201 «[Português (BR)](../pt/prayers/#bpn1201)»
 
 -- Abdu'l-Bahá
 
-bpn1099 «[Português (BR)](../pt/prayers/#bpn1099)» 
+bpn1099 
 
 ----
 
@@ -949,7 +950,7 @@ Aquele que viajar a Diferentes Lugares para Ensinar, que leia esta Súplica nas 
 
 -- Abdu'l-Bahá
 
-bpn1100 «[Português (BR)](../pt/prayers/#bpn1100)» 
+bpn1100 
 
 ----
 
@@ -959,7 +960,7 @@ Qualquer Um que se levante para uma Jornada de Ensino a qualquer Lugar, que reci
 
 -- Abdu'l-Bahá
 
-bpn1101 «[Português (BR)](../pt/prayers/#bpn1101)» 
+bpn1101 
 
 ----
 
@@ -969,7 +970,7 @@ A seguinte Súplica é para ser lida pelos Instrutores e Amigos diariamente:Ó T
 
 -- Abdu'l-Bahá
 
-bpn1102 «[Português (BR)](../pt/prayers/#bpn1102)» 
+bpn1102 
 
 ----
 
@@ -979,7 +980,7 @@ bpn1102 «[Português (BR)](../pt/prayers/#bpn1102)»
 
 -- Abdu'l-Bahá
 
-bpn1103 «[Português (BR)](../pt/prayers/#bpn1103)» 
+bpn1103 
 
 ----
 
@@ -989,7 +990,7 @@ Toda a Alma que viajar pelas Cidades, Vilas e Aldeias desses Estados e estiver e
 
 -- Abdu'l-Bahá
 
-bpn1104 «[Português (BR)](../pt/prayers/#bpn1104)» 
+bpn1104 
 
 ----
 
@@ -999,7 +1000,7 @@ Que os Difusores das Fragrâncias de Deus recitem esta Prece todas as Manhãs:Ó
 
 -- Abdu'l-Bahá
 
-bpn1105 «[Português (BR)](../pt/prayers/#bpn1105)» 
+bpn1105 
 
 ----
 
@@ -1009,7 +1010,7 @@ A seguinte Oração deve ser lida por Eles (os Instrutores da Causa) todos os Di
 
 -- Abdu'l-Bahá
 
-bpn1106 «[Português (BR)](../pt/prayers/#bpn1106)» 
+bpn1106 
 
 ----
 
@@ -1019,7 +1020,7 @@ Louvor a Ti, ó meu Deus! Estes são os Teus servos, atraídos pelas fragrância
 
 -- Abdu'l-Bahá
 
-AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers/#AB00169FRA)» «[Português (BR)](../pt/prayers/#AB00169FRA)» 
+AB00169FRA «[Nederlands](../../nl/prayers/#AB00169FRA)» «[English](../../en/prayers/#AB00169FRA)» 
 
 ----
 
@@ -1029,7 +1030,7 @@ Os Disseminadores das Fragrâncias de Deus devem Recitar esta Oração todas as 
 
 -- Abdu'l-Bahá
 
-bpn1108 «[Português (BR)](../pt/prayers/#bpn1108)» 
+bpn1108 
 
 ----
 
@@ -1039,7 +1040,7 @@ bpn1108 «[Português (BR)](../pt/prayers/#bpn1108)»
 
 -- Abdu'l-Bahá
 
-AB00189AID «[English](../en/prayers/#AB00189AID)» «[Português (BR)](../pt/prayers/#AB00189AID)» 
+AB00189AID «[English](../../en/prayers/#AB00189AID)» 
 
 ----
 
@@ -1049,7 +1050,7 @@ AB00189AID «[English](../en/prayers/#AB00189AID)» «[Português (BR)](../pt/pr
 
 -- Abdu'l-Bahá
 
-bpn1110 «[Português (BR)](../pt/prayers/#bpn1110)» 
+bpn1110 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn1110 «[Português (BR)](../pt/prayers/#bpn1110)»
 
 -- Abdu'l-Bahá
 
-bpn1111 «[Português (BR)](../pt/prayers/#bpn1111)» 
+bpn1111 
 
 ----
 
@@ -1073,7 +1074,7 @@ bpn1111 «[Português (BR)](../pt/prayers/#bpn1111)»
 
 -- Bahá'u'lláh
 
-BH02022 «[English](../en/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH02022)» «[Frysk](../fy/prayers/#BH02022)» «[Tuvalu](../tvl/prayers/#BH02022)» «[Português (BR)](../pt/prayers/#BH02022)» 
+BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
 
 ----
 
@@ -1083,7 +1084,7 @@ BH02022 «[English](../en/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH020
 
 -- Bahá'u'lláh
 
-bpn1326 «[Português (BR)](../pt/prayers/#bpn1326)» 
+bpn1326 
 
 ----
 
@@ -1093,7 +1094,7 @@ bpn1326 «[Português (BR)](../pt/prayers/#bpn1326)»
 
 -- Bahá'u'lláh
 
-BH03908 «[English](../en/prayers/#BH03908)» «[Frysk](../fy/prayers/#BH03908)» «[Português (BR)](../pt/prayers/#BH03908)» 
+BH03908 «[English](../../en/prayers/#BH03908)» «[Frysk](../../fy/prayers/#BH03908)» 
 
 ----
 
@@ -1103,7 +1104,7 @@ BH03908 «[English](../en/prayers/#BH03908)» «[Frysk](../fy/prayers/#BH03908)�
 
 -- Bahá'u'lláh
 
-bpn1328 «[Português (BR)](../pt/prayers/#bpn1328)» 
+bpn1328 
 
 ----
 
@@ -1113,27 +1114,27 @@ bpn1328 «[Português (BR)](../pt/prayers/#bpn1328)»
 
 -- Bahá'u'lláh
 
-bpn1329 «[Português (BR)](../pt/prayers/#bpn1329)» 
+bpn1329 
 
 ----
 
 
 <a id="BH02307"></a> 
-##Epístola De Visitação Do Báb E Bahá&#39;u&#39;lláhEsta Epístola é lida nos Sepulcros de Bahá’u’lláh e do Báb. Também é usada frequentemente na comemoração dos Seus aniversários, porém não está restrita apenas a estas ocasiões. Os amigos podem fazê-las todas as vezes que assim o desejarem.O Louvor que raiou do Teu augustíssimo Ser e a glória que brilhou da Tua mais fulgurante Beleza, repousem sobre Ti, ó Tu que és a Manifestação da Grandeza, o Rei da Eternidade e o Senhor de todos os que estão no céu e na terra! Dou testemunho de que pelo Teu intermédio foram revelados a soberania de Deus e o Seu domínio, e a majestade de Deus e a Sua grandeza; que os Sóis de antigo esplendor reluziram no céu do Teu irrevogável decreto, e a Beleza do Invisível brilhou sobre o horizonte da criação. Com apenas um movimento da Tua Pena - testifico ainda - foi executado o Teu mandamento: Sê Tu, e divulgado o Segredo oculto de Deus, e todas as coisas criadas foram chamadas para a existência, e todas as Revelações desceram do alto.Dou testemunho, ainda, de que a beleza do Ser Adorado se revelou através da Tua beleza, e a face do Desejado se irradiou através da Tua face, e, por uma palavra Tua, julgaste entre todas as coisas criadas, fazendo os Teus devotos ascenderem ao cume da glória e os infiéis caírem no mais baixo dos abismos.Quem Te conheceu - dou testemunho - conheceu a Deus, e quem atingiu a Tua presença atingiu a presença de Deus. Grande, pois, é a felicidade de quem acreditou em Ti e nos Teus sinais, se humilhou perante a Tua soberania, alcançou a honra do Teu encontro, atingiu a aprovação da Tua vontade, de Ti se aproximou, ao Teu redor se moveu, e ante o Teu trono se apresentou. E infeliz quem transgrediu contra Ti e Te negou, repelindo os Teus sinais, desafiando a Tua soberania e levantando-se contra Ti; quem se tornou orgulhoso ante a Tua face e discutiu os Teus testemunhos, fugindo do Teu domínio e mandato, e sendo incluído no número dos infiéis cujos nomes foram inscritos pelos dedos do Teu mando sobre as Tuas santas Epístolas.Que os santos sopros dos Teus favores, ó meu Deus e meu Bem-Amado, me sejam emitidos da mão direita da Tua misericórdia e da Tua benevolência, para que me desprendam de mim mesmo e do mundo, e me levem às cortes da Tua proximidade e da Tua presença. Potente és Tu para fazer o que Te apraz. Eras, verdadeiramente, e és supremo sobre todas as coisas.Que sobre Ti repousem a lembrança de Deus e o Seu louvor, e a glória de Deus e o Seu brilho, ó Tu que és a Sua Beleza! Atesto que jamais os olhos da criação contemplaram um ser tão injuriado quanto Tu. Durante todos os dias da Tua vida, estiveste imerso num oceano de angústias; num tempo, acorrentado em grilhões; noutro, ameaçado pela espada dos Teus inimigos. No entanto, a despeito de tudo isso, exortaste todos os homens a observarem o que Te fora prescrito por Aquele que é o Omnisciente, a Suprema Sabedoria.Seja o meu espírito um sacrifício pelas injustiças por Ti sofridas, e a minh’alma um resgate pelas adversidades que sustentaste. Suplico a Deus, por Ti e por aqueles cujas faces foram iluminadas pelos esplendores da luz do Teu semblante - aqueles que observaram, por amor a Ti, tudo o que lhes fora mandado - suplico que Ele remova os véus interpostos entre Ti e as Tuas criaturas e me conceda o bem deste mundo e do vindouro. És, em verdade, o Omnipotente, o Excelso, o Todo-Glorioso, a Eterna Clemência, o Mais Compassivo.Abençoa Tu, ó Senhor meu Deus, a Árvore Divina e as suas folhas e os seus galhos e os seus ramos e as suas vergônteas e os seus renovos, enquanto durarem os Teus mais excelentes títulos e persistirem os Teus augustíssimos atributos. Protege-a, então, do dano proveniente do agressor e das hostes da tirania. Tu és, em verdade, o Omnipotente, o Mais Poderoso. E abençoa também, ó Senhor meu Deus, os Teus servos e as Tuas servas que atingiram a Tua Presença. És, verdadeiramente, o Todo-Generoso cuja graça é infinita. Nenhum outro Deus há salvo Tu, O que sempre perdoa, a Suma Bondade.
+##Epístola De Visitação Do Báb E Bahá'u'lláhEsta Epístola é lida nos Sepulcros de Bahá’u’lláh e do Báb. Também é usada frequentemente na comemoração dos Seus aniversários, porém não está restrita apenas a estas ocasiões. Os amigos podem fazê-las todas as vezes que assim o desejarem.O Louvor que raiou do Teu augustíssimo Ser e a glória que brilhou da Tua mais fulgurante Beleza, repousem sobre Ti, ó Tu que és a Manifestação da Grandeza, o Rei da Eternidade e o Senhor de todos os que estão no céu e na terra! Dou testemunho de que pelo Teu intermédio foram revelados a soberania de Deus e o Seu domínio, e a majestade de Deus e a Sua grandeza; que os Sóis de antigo esplendor reluziram no céu do Teu irrevogável decreto, e a Beleza do Invisível brilhou sobre o horizonte da criação. Com apenas um movimento da Tua Pena - testifico ainda - foi executado o Teu mandamento: Sê Tu, e divulgado o Segredo oculto de Deus, e todas as coisas criadas foram chamadas para a existência, e todas as Revelações desceram do alto.Dou testemunho, ainda, de que a beleza do Ser Adorado se revelou através da Tua beleza, e a face do Desejado se irradiou através da Tua face, e, por uma palavra Tua, julgaste entre todas as coisas criadas, fazendo os Teus devotos ascenderem ao cume da glória e os infiéis caírem no mais baixo dos abismos.Quem Te conheceu - dou testemunho - conheceu a Deus, e quem atingiu a Tua presença atingiu a presença de Deus. Grande, pois, é a felicidade de quem acreditou em Ti e nos Teus sinais, se humilhou perante a Tua soberania, alcançou a honra do Teu encontro, atingiu a aprovação da Tua vontade, de Ti se aproximou, ao Teu redor se moveu, e ante o Teu trono se apresentou. E infeliz quem transgrediu contra Ti e Te negou, repelindo os Teus sinais, desafiando a Tua soberania e levantando-se contra Ti; quem se tornou orgulhoso ante a Tua face e discutiu os Teus testemunhos, fugindo do Teu domínio e mandato, e sendo incluído no número dos infiéis cujos nomes foram inscritos pelos dedos do Teu mando sobre as Tuas santas Epístolas.Que os santos sopros dos Teus favores, ó meu Deus e meu Bem-Amado, me sejam emitidos da mão direita da Tua misericórdia e da Tua benevolência, para que me desprendam de mim mesmo e do mundo, e me levem às cortes da Tua proximidade e da Tua presença. Potente és Tu para fazer o que Te apraz. Eras, verdadeiramente, e és supremo sobre todas as coisas.Que sobre Ti repousem a lembrança de Deus e o Seu louvor, e a glória de Deus e o Seu brilho, ó Tu que és a Sua Beleza! Atesto que jamais os olhos da criação contemplaram um ser tão injuriado quanto Tu. Durante todos os dias da Tua vida, estiveste imerso num oceano de angústias; num tempo, acorrentado em grilhões; noutro, ameaçado pela espada dos Teus inimigos. No entanto, a despeito de tudo isso, exortaste todos os homens a observarem o que Te fora prescrito por Aquele que é o Omnisciente, a Suprema Sabedoria.Seja o meu espírito um sacrifício pelas injustiças por Ti sofridas, e a minh’alma um resgate pelas adversidades que sustentaste. Suplico a Deus, por Ti e por aqueles cujas faces foram iluminadas pelos esplendores da luz do Teu semblante - aqueles que observaram, por amor a Ti, tudo o que lhes fora mandado - suplico que Ele remova os véus interpostos entre Ti e as Tuas criaturas e me conceda o bem deste mundo e do vindouro. És, em verdade, o Omnipotente, o Excelso, o Todo-Glorioso, a Eterna Clemência, o Mais Compassivo.Abençoa Tu, ó Senhor meu Deus, a Árvore Divina e as suas folhas e os seus galhos e os seus ramos e as suas vergônteas e os seus renovos, enquanto durarem os Teus mais excelentes títulos e persistirem os Teus augustíssimos atributos. Protege-a, então, do dano proveniente do agressor e das hostes da tirania. Tu és, em verdade, o Omnipotente, o Mais Poderoso. E abençoa também, ó Senhor meu Deus, os Teus servos e as Tuas servas que atingiram a Tua Presença. És, verdadeiramente, o Todo-Generoso cuja graça é infinita. Nenhum outro Deus há salvo Tu, O que sempre perdoa, a Suma Bondade.
 
 -- Bahá'u'lláh
 
-BH02307 «[English](../en/prayers/#BH02307)» «[Tuvalu](../tvl/prayers/#BH02307)» «[Português (BR)](../pt/prayers/#BH02307)» 
+BH02307 «[Tuvalu](../../tvl/prayers/#BH02307)» «[English](../../en/prayers/#BH02307)» 
 
 ----
 
 
 <a id="bpn1331"></a> 
-##Epístola De Visitação Da Esposa De Bahá&#39;u&#39;lláh - NavvábÓ fiéis! Fôsseis vós visitar o lugar de descanso da Folha Mais Sublime, que ascendeu à Gloriosa Companhia, ficai em pé e dizei:Saudação e bênçãos e glória estejam sobre ti, ó Folha Sagrada que tiveste origem da Divina Árvore do Lótus! Dou testemunho que tu acreditaste em Deus e nos Seus sinais, e respondeste ao Seu Chamado, e te volveste a Ele, e permaneceste firme à Sua corda, e te seguraste com firmeza à orla da Sua graça, e abandonaste o teu lar em Seu caminho, e escolheste viver como uma desconhecida, pelo amor à Sua presença e no teu desejo em servi-Lo. Possa Deus ter misericórdia daquele que se aproximar de ti, e se lembrar de ti através daquilo que a Minha Pena revelou, nesta mais alta posição. Rogamos a Deus que Ele possa perdoar-nos, e perdoar todos aqueles que se voltaram a ti, e conceder-lhes os seus desejos e conferir-lhes, através da Sua graça magnífica, tudo o que eles almejaram. Louvor a Deus, Ele que é o Desejo de todos os mundos e o Amado de todos que O reconheceram.Feliz quem te mencionou, e procurou o teu bel-prazer, e se humilhou diante de ti, e se segurou firmemente à corda do teu amor. Desditado aquele que negar a tua exaltada posição, e as coisas ordenadas a ti por Deus, o Senhor de todos os nomes, e aquele que se desviou de ti, e rejeitou a tua posição perante Deus, o Senhor do poderoso trono.
+##Epístola De Visitação Da Esposa De Bahá'u'lláh - NavvábÓ fiéis! Fôsseis vós visitar o lugar de descanso da Folha Mais Sublime, que ascendeu à Gloriosa Companhia, ficai em pé e dizei:Saudação e bênçãos e glória estejam sobre ti, ó Folha Sagrada que tiveste origem da Divina Árvore do Lótus! Dou testemunho que tu acreditaste em Deus e nos Seus sinais, e respondeste ao Seu Chamado, e te volveste a Ele, e permaneceste firme à Sua corda, e te seguraste com firmeza à orla da Sua graça, e abandonaste o teu lar em Seu caminho, e escolheste viver como uma desconhecida, pelo amor à Sua presença e no teu desejo em servi-Lo. Possa Deus ter misericórdia daquele que se aproximar de ti, e se lembrar de ti através daquilo que a Minha Pena revelou, nesta mais alta posição. Rogamos a Deus que Ele possa perdoar-nos, e perdoar todos aqueles que se voltaram a ti, e conceder-lhes os seus desejos e conferir-lhes, através da Sua graça magnífica, tudo o que eles almejaram. Louvor a Deus, Ele que é o Desejo de todos os mundos e o Amado de todos que O reconheceram.Feliz quem te mencionou, e procurou o teu bel-prazer, e se humilhou diante de ti, e se segurou firmemente à corda do teu amor. Desditado aquele que negar a tua exaltada posição, e as coisas ordenadas a ti por Deus, o Senhor de todos os nomes, e aquele que se desviou de ti, e rejeitou a tua posição perante Deus, o Senhor do poderoso trono.
 
 -- Bahá'u'lláh
 
-bpn1331 «[Português (BR)](../pt/prayers/#bpn1331)» 
+bpn1331 
 
 ----
 
@@ -1143,17 +1144,17 @@ bpn1331 «[Português (BR)](../pt/prayers/#bpn1331)»
 
 -- Bahá'u'lláh
 
-bpn1332 «[Português (BR)](../pt/prayers/#bpn1332)» 
+bpn1332 
 
 ----
 
 
 <a id="bpn1322"></a> 
-##Epístola De Visitação De &#39;Abdu&#39;l-BaháQuem recitar esta oração (É lida no Seu Sepulcro e, também, utilizada como prece particular) com humildade e fervor trará alegria e contentamento ao coração deste Servo; será como se, na realidade, se encontrasse com Ele, face a face.Ele é o Todo-Glorioso!Ó Deus, meu Deus! Humilde e em lágrimas, levanto as mãos suplicantes a Ti, e cubro a minha face no pó desse Teu Limiar, o qual está elevado além do conhecimento do sábio, acima do louvor de todos os que Te glorificam. Bondosamente dirige ao Teu servo, humilde e submisso à Tua porta, o olhar da Tua misericórdia, e imerge-o no Oceano da Tua graça eterna.Senhor! Ele é um pobre, humilde servo Teu, extasiado, implorando-Te, cativo em Tuas mãos, rogando-Te fervorosamente, pondo em Ti a sua inteira confiança, em prantos na Tua Presença, invocando-Te e pedindo nestas palavras:Ó Senhor, meu Deus! Concede-me a Tua graça, para que eu possa servir os Teus bem-amados; fortalece-me no Teu serviço. Que a minha fronte se ilumine com a luz de adoração em Tua santa corte e de súplica ao Teu reino de grandeza. Que o meu ego se esvaeça, com a Tua ajuda, à entrada celestial da Tua porta, e eu me desprenda de tudo dentro das Tuas santas plagas. Senhor! Do cálice da abnegação, permite-me sorver; com as suas vestes, adorna-me; no seu oceano, imerge-me. Faze-me como pó no caminho dos Teus bem-amados, e permite que eu ofereça a minh’alma em holocausto pela terra que as pegadas dos Teus eleitos no Teu caminho enobreceram, ó Senhor de Glória nas Supremas Alturas!Com esta prece o Teu servo invoca-Te ao alvorecer e à noite. Satisfaze o desejo do seu coração, ó Senhor! Ilumina o seu coração e alegra a sua alma. Acende esta lâmpada em serviço à Tua Causa e aos Teus servos.Tu és o Dispensador de Graças, o Compassivo, o Generosíssimo, o Benévolo, o Clemente, o Misericordioso.
+##Epístola De Visitação De 'Abdu'l-BaháQuem recitar esta oração (É lida no Seu Sepulcro e, também, utilizada como prece particular) com humildade e fervor trará alegria e contentamento ao coração deste Servo; será como se, na realidade, se encontrasse com Ele, face a face.Ele é o Todo-Glorioso!Ó Deus, meu Deus! Humilde e em lágrimas, levanto as mãos suplicantes a Ti, e cubro a minha face no pó desse Teu Limiar, o qual está elevado além do conhecimento do sábio, acima do louvor de todos os que Te glorificam. Bondosamente dirige ao Teu servo, humilde e submisso à Tua porta, o olhar da Tua misericórdia, e imerge-o no Oceano da Tua graça eterna.Senhor! Ele é um pobre, humilde servo Teu, extasiado, implorando-Te, cativo em Tuas mãos, rogando-Te fervorosamente, pondo em Ti a sua inteira confiança, em prantos na Tua Presença, invocando-Te e pedindo nestas palavras:Ó Senhor, meu Deus! Concede-me a Tua graça, para que eu possa servir os Teus bem-amados; fortalece-me no Teu serviço. Que a minha fronte se ilumine com a luz de adoração em Tua santa corte e de súplica ao Teu reino de grandeza. Que o meu ego se esvaeça, com a Tua ajuda, à entrada celestial da Tua porta, e eu me desprenda de tudo dentro das Tuas santas plagas. Senhor! Do cálice da abnegação, permite-me sorver; com as suas vestes, adorna-me; no seu oceano, imerge-me. Faze-me como pó no caminho dos Teus bem-amados, e permite que eu ofereça a minh’alma em holocausto pela terra que as pegadas dos Teus eleitos no Teu caminho enobreceram, ó Senhor de Glória nas Supremas Alturas!Com esta prece o Teu servo invoca-Te ao alvorecer e à noite. Satisfaze o desejo do seu coração, ó Senhor! Ilumina o seu coração e alegra a sua alma. Acende esta lâmpada em serviço à Tua Causa e aos Teus servos.Tu és o Dispensador de Graças, o Compassivo, o Generosíssimo, o Benévolo, o Clemente, o Misericordioso.
 
 -- Abdu'l-Bahá
 
-bpn1322 «[Português (BR)](../pt/prayers/#bpn1322)» 
+bpn1322 
 
 ----
 
@@ -1167,7 +1168,7 @@ Abençoada é a casa que alcançou a Minha carinhosa mercê, onde a Minha record
 
 -- Bahá'u'lláh
 
-bpn1202 «[Português (BR)](../pt/prayers/#bpn1202)» 
+bpn1202 
 
 ----
 
@@ -1177,7 +1178,7 @@ Louvado seja o Teu Nome, ó Senhor nosso Deus! Tu és, em verdade, o Conhecedor 
 
 -- Báb
 
-bpn1293 «[Português (BR)](../pt/prayers/#bpn1293)» 
+bpn1293 
 
 ----
 
@@ -1187,7 +1188,7 @@ bpn1293 «[Português (BR)](../pt/prayers/#bpn1293)»
 
 -- Abdu'l-Bahá
 
-bpn1112 «[Português (BR)](../pt/prayers/#bpn1112)» 
+bpn1112 
 
 ----
 
@@ -1201,7 +1202,7 @@ Glorificado seja o Teu nome, ó Senhor meu Deus! Suplico-Te - pelo Teu poder que
 
 -- Bahá'u'lláh
 
-bpn1203 «[Português (BR)](../pt/prayers/#bpn1203)» 
+bpn1203 
 
 ----
 
@@ -1211,7 +1212,7 @@ bpn1203 «[Português (BR)](../pt/prayers/#bpn1203)»
 
 -- Bahá'u'lláh
 
-bpn1204 «[Português (BR)](../pt/prayers/#bpn1204)» 
+bpn1204 
 
 ----
 
@@ -1221,7 +1222,7 @@ Louvor a Ti, ó Senhor meu Deus! Imploro-te pelo Teu Nome, o qual fez surgir den
 
 -- Bahá'u'lláh
 
-bpn1205 «[Português (BR)](../pt/prayers/#bpn1205)» 
+bpn1205 
 
 ----
 
@@ -1231,7 +1232,7 @@ Louvado sejas Tu, ó Senhor meu Deus! És Aquele cuja excelsa glória enalteceu 
 
 -- Bahá'u'lláh
 
-bpn1206 «[Português (BR)](../pt/prayers/#bpn1206)» 
+bpn1206 
 
 ----
 
@@ -1241,7 +1242,7 @@ Magnificado seja o Teu nome, ó meu Deus! Dou testemunho que se os Teus servos s
 
 -- Bahá'u'lláh
 
-bpn1207 «[Português (BR)](../pt/prayers/#bpn1207)» 
+bpn1207 
 
 ----
 
@@ -1251,7 +1252,7 @@ bpn1207 «[Português (BR)](../pt/prayers/#bpn1207)»
 
 -- Bahá'u'lláh
 
-bpn1208 «[Português (BR)](../pt/prayers/#bpn1208)» 
+bpn1208 
 
 ----
 
@@ -1261,7 +1262,7 @@ Glorificado és Tu, ó Senhor meu Deus! Suplico-Te, por Aquele que é Teu Nome S
 
 -- Bahá'u'lláh
 
-BH08822 «[English](../en/prayers/#BH08822)» «[Esperanto](../eo/prayers/#BH08822)» «[Português (BR)](../pt/prayers/#BH08822)» «[Español](../es/prayers/#BH08822)» 
+BH08822 «[English](../../en/prayers/#BH08822)» «[Español](../../es/prayers/#BH08822)» «[Esperanto](../../eo/prayers/#BH08822)» 
 
 ----
 
@@ -1271,7 +1272,7 @@ Consente, ó meu Deus, que eu me aproxime de Ti e viva no recinto da Tua corte, 
 
 -- Bahá'u'lláh
 
-bpn1210 «[Português (BR)](../pt/prayers/#bpn1210)» 
+bpn1210 
 
 ----
 
@@ -1281,7 +1282,7 @@ Louvado sejas, ó Senhor meu Deus! Imploro-Te - pelos Teus sinais que envolveram
 
 -- Bahá'u'lláh
 
-bpn1211 «[Português (BR)](../pt/prayers/#bpn1211)» 
+bpn1211 
 
 ----
 
@@ -1291,7 +1292,7 @@ Louvado sejas Tu, ó Senhor meu Deus! Sou o Teu servo e o filho do Teu servo. Vo
 
 -- Bahá'u'lláh
 
-bpn1212 «[Português (BR)](../pt/prayers/#bpn1212)» 
+bpn1212 
 
 ----
 
@@ -1301,7 +1302,7 @@ Louvado sejas, ó Senhor meu Deus! Dou testemunho de que Tu, desde toda a eterni
 
 -- Bahá'u'lláh
 
-BH08594 «[English](../en/prayers/#BH08594)» «[Português (BR)](../pt/prayers/#BH08594)» 
+BH08594 «[English](../../en/prayers/#BH08594)» 
 
 ----
 
@@ -1311,7 +1312,7 @@ Louvado sejas, ó Senhor meu Deus! Imploro-Te pela Tua Antiga Beleza e pelo Teu 
 
 -- Bahá'u'lláh
 
-bpn1214 «[Português (BR)](../pt/prayers/#bpn1214)» 
+bpn1214 
 
 ----
 
@@ -1321,7 +1322,7 @@ bpn1214 «[Português (BR)](../pt/prayers/#bpn1214)»
 
 -- Báb
 
-bpn1294 «[Português (BR)](../pt/prayers/#bpn1294)» 
+bpn1294 
 
 ----
 
@@ -1331,7 +1332,7 @@ Louvado e glorificado és Tu, ó Deus! Permite que rapidamente se aproxime o dia
 
 -- Báb
 
-bpn1295 «[Português (BR)](../pt/prayers/#bpn1295)» 
+bpn1295 
 
 ----
 
@@ -1341,7 +1342,7 @@ bpn1295 «[Português (BR)](../pt/prayers/#bpn1295)»
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../en/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
 
 ----
 
@@ -1351,7 +1352,7 @@ Faze firmes os nossos passos no Teu caminho, ó Senhor, e fortalece os nossos co
 
 -- Abdu'l-Bahá
 
-AB06211 «[English](../en/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» 
+AB06211 «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» 
 
 ----
 
@@ -1361,7 +1362,7 @@ AB06211 «[English](../en/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211
 
 -- Abdu'l-Bahá
 
-bpn1115 «[Português (BR)](../pt/prayers/#bpn1115)» 
+bpn1115 
 
 ----
 
@@ -1371,7 +1372,7 @@ bpn1115 «[Português (BR)](../pt/prayers/#bpn1115)»
 
 -- Abdu'l-Bahá
 
-bpn1116 «[Português (BR)](../pt/prayers/#bpn1116)» 
+bpn1116 
 
 ----
 
@@ -1385,7 +1386,7 @@ Meu Deus, a Quem venero e adoro! Atesto a Tua unidade e a Tua unicidade, e recon
 
 -- Bahá'u'lláh
 
-bpn1215 «[Português (BR)](../pt/prayers/#bpn1215)» 
+bpn1215 
 
 ----
 
@@ -1395,7 +1396,7 @@ Louvor a Ti, ó meu Deus, por haveres volvido as faces dos Teus servos para a m�
 
 -- Bahá'u'lláh
 
-bpn1216 «[Português (BR)](../pt/prayers/#bpn1216)» 
+bpn1216 
 
 ----
 
@@ -1405,7 +1406,7 @@ Meu Deus, Tu a Quem adoro e venero, Tu que és o Mais Poderoso! Dou testemunho q
 
 -- Bahá'u'lláh
 
-bpn1217 «[Português (BR)](../pt/prayers/#bpn1217)» 
+bpn1217 
 
 ----
 
@@ -1415,7 +1416,7 @@ Louvado seja o Teu Nome, ó Senhor meu Deus! Trevas caíram sobre todas as terra
 
 -- Bahá'u'lláh
 
-bpn1218 «[Português (BR)](../pt/prayers/#bpn1218)» 
+bpn1218 
 
 ----
 
@@ -1425,7 +1426,7 @@ bpn1218 «[Português (BR)](../pt/prayers/#bpn1218)»
 
 -- Báb
 
-bpn1296 «[Português (BR)](../pt/prayers/#bpn1296)» 
+bpn1296 
 
 ----
 
@@ -1439,7 +1440,7 @@ Glorificado és Tu, ó meu Senhor compassivo! Suplico-Te pelo tumulto do oceano 
 
 -- Bahá'u'lláh
 
-bpn1333 «[Português (BR)](../pt/prayers/#bpn1333)» 
+bpn1333 
 
 ----
 
@@ -1449,7 +1450,7 @@ Em Nome do nosso Senhor, o Mais Sagrado, o Maior, o Sublime, o Mais Glorioso!Gl�
 
 -- Bahá'u'lláh
 
-bpn1334 «[Português (BR)](../pt/prayers/#bpn1334)» 
+bpn1334 
 
 ----
 
@@ -1459,7 +1460,7 @@ Em Nome do nosso Senhor, o Mais Sagrado, o Maior, o Sublime, o Mais Glorioso!Ó 
 
 -- Bahá'u'lláh
 
-bpn1335 «[Português (BR)](../pt/prayers/#bpn1335)» 
+bpn1335 
 
 ----
 
@@ -1469,7 +1470,7 @@ Magnificado és Tu, ó Senhor da criação inteira, Aquele a Quem todas as coisa
 
 -- Bahá'u'lláh
 
-BH01554HUQ «[English](../en/prayers/#BH01554HUQ)» «[Nederlands](../nl/prayers/#BH01554HUQ)» «[Português (BR)](../pt/prayers/#BH01554HUQ)» 
+BH01554HUQ «[Nederlands](../../nl/prayers/#BH01554HUQ)» «[English](../../en/prayers/#BH01554HUQ)» 
 
 ----
 
@@ -1479,7 +1480,7 @@ Agradece a Deus por te haver capacitado a entrar no Seu Reino de poder. Dentro e
 
 -- Abdu'l-Bahá
 
-bpn1323 «[Português (BR)](../pt/prayers/#bpn1323)» 
+bpn1323 
 
 ----
 
@@ -1493,7 +1494,7 @@ Suplico-Te, ó meu Deus, pelo Teu grande Sinal, e pela revelação da Tua graça
 
 -- Bahá'u'lláh
 
-bpn1337 «[Português (BR)](../pt/prayers/#bpn1337)» 
+bpn1337 
 
 ----
 
@@ -1503,7 +1504,7 @@ Estes são os dias, ó meu Deus, em que ordenaste aos Teus servos observarem o j
 
 -- Bahá'u'lláh
 
-bpn1339 «[Português (BR)](../pt/prayers/#bpn1339)» 
+bpn1339 
 
 ----
 
@@ -1513,7 +1514,7 @@ Glória a Ti, ó Senhor meu Deus! Estes são os dias em que ordenaste a todos os
 
 -- Bahá'u'lláh
 
-bpn1340 «[Português (BR)](../pt/prayers/#bpn1340)» 
+bpn1340 
 
 ----
 
@@ -1523,7 +1524,7 @@ Tu vês, ó Deus de Misericórdia, Tu, cujo poder predomina sobre todas as coisa
 
 -- Bahá'u'lláh
 
-bpn1341 «[Português (BR)](../pt/prayers/#bpn1341)» 
+bpn1341 
 
 ----
 
@@ -1533,7 +1534,7 @@ Este, ó meu Deus, é o primeiro dos dias em que ordenaste aos Teus amados obser
 
 -- Bahá'u'lláh
 
-bpn1342 «[Português (BR)](../pt/prayers/#bpn1342)» 
+bpn1342 
 
 ----
 
@@ -1543,7 +1544,7 @@ Em nome d’Aquele que foi prometido nos Livros de Deus, o Conhecedor de tudo, O
 
 -- Bahá'u'lláh
 
-BH10127 «[English](../en/prayers/#BH10127)» «[Português (BR)](../pt/prayers/#BH10127)» 
+BH10127 «[English](../../en/prayers/#BH10127)» 
 
 ----
 
@@ -1553,7 +1554,7 @@ Louvado sejas, ó Senhor meu Deus! Observámos o Jejum de acordo com a Tua vonta
 
 -- Bahá'u'lláh
 
-BH10581 «[English](../en/prayers/#BH10581)» «[Nederlands](../nl/prayers/#BH10581)» «[Português (BR)](../pt/prayers/#BH10581)» 
+BH10581 «[Nederlands](../../nl/prayers/#BH10581)» «[English](../../en/prayers/#BH10581)» 
 
 ----
 
@@ -1563,7 +1564,7 @@ BH10581 «[English](../en/prayers/#BH10581)» «[Nederlands](../nl/prayers/#BH10
 
 -- Bahá'u'lláh
 
-bpn1345 «[Português (BR)](../pt/prayers/#bpn1345)» 
+bpn1345 
 
 ----
 
@@ -1573,7 +1574,7 @@ Louvores a Ti, ó Deus, meu Deus! Estes são os dias durante os quais ordenaste 
 
 -- Bahá'u'lláh
 
-bpn1346 «[Português (BR)](../pt/prayers/#bpn1346)» 
+bpn1346 
 
 ----
 
@@ -1583,7 +1584,7 @@ bpn1346 «[Português (BR)](../pt/prayers/#bpn1346)»
 
 -- Bahá'u'lláh
 
-bpn1347 «[Português (BR)](../pt/prayers/#bpn1347)» 
+bpn1347 
 
 ----
 
@@ -1593,7 +1594,7 @@ Louvor a Ti, ó Senhor meu Deus! Suplico-Te, por esta Revelação, através da q
 
 -- Bahá'u'lláh
 
-bpn1338 «[Português (BR)](../pt/prayers/#bpn1338)» 
+bpn1338 
 
 ----
 
@@ -1607,7 +1608,7 @@ bpn1338 «[Português (BR)](../pt/prayers/#bpn1338)»
 
 -- Bahá'u'lláh
 
-AB10703RAD «[English](../en/prayers/#AB10703RAD)» «[Esperanto](../eo/prayers/#AB10703RAD)» «[Português (BR)](../pt/prayers/#AB10703RAD)» «[Papiamentu](../pap/prayers/#AB10703RAD)» 
+AB10703RAD «[English](../../en/prayers/#AB10703RAD)» «[Esperanto](../../eo/prayers/#AB10703RAD)» «[Papiamentu](../../pap/prayers/#AB10703RAD)» 
 
 ----
 
@@ -1621,7 +1622,7 @@ Enaltecido seja o Teu nome, ó Senhor meu Deus! És O venerado por todas as cois
 
 -- Bahá'u'lláh
 
-BH09960 «[English](../en/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» 
+BH09960 «[English](../../en/prayers/#BH09960)» «[Esperanto](../../eo/prayers/#BH09960)» «[Français](../../fr/prayers/#BH09960)» 
 
 ----
 
@@ -1631,7 +1632,7 @@ Glorificado és Tu, ó Senhor meu Deus! Agradeço-Te por me haveres permitido re
 
 -- Bahá'u'lláh
 
-bpn1221 «[Português (BR)](../pt/prayers/#bpn1221)» 
+bpn1221 
 
 ----
 
@@ -1641,7 +1642,7 @@ Todo louvor a Ti, ó meu Deus, que és a Origem de toda a glória e majestade, g
 
 -- Bahá'u'lláh
 
-bpn1222 «[Português (BR)](../pt/prayers/#bpn1222)» 
+bpn1222 
 
 ----
 
@@ -1651,7 +1652,7 @@ Louvor e glória a Ti pertencem, ó Senhor meu Deus! És Aquele que sempre se ve
 
 -- Bahá'u'lláh
 
-bpn1223 «[Português (BR)](../pt/prayers/#bpn1223)» 
+bpn1223 
 
 ----
 
@@ -1661,7 +1662,7 @@ Glorificado és Tu, ó Senhor meu Deus! A minha língua, tanto a do corpo como a
 
 -- Bahá'u'lláh
 
-bpn1224 «[Português (BR)](../pt/prayers/#bpn1224)» 
+bpn1224 
 
 ----
 
@@ -1671,7 +1672,7 @@ Evanescente encontra-se agora tudo o que floresceu no Paraíso da Tua transcende
 
 -- Bahá'u'lláh
 
-bpn1225 «[Português (BR)](../pt/prayers/#bpn1225)» 
+bpn1225 
 
 ----
 
@@ -1681,7 +1682,7 @@ Todo o louvor a Ti, ó Senhor meu Deus! Não sei cantar o Teu louvor; não sei d
 
 -- Bahá'u'lláh
 
-bpn1226 «[Português (BR)](../pt/prayers/#bpn1226)» 
+bpn1226 
 
 ----
 
@@ -1691,7 +1692,7 @@ Louvado sejas Tu, ó Senhor meu Deus! Todas as vezes que me vem a lembrança de 
 
 -- Bahá'u'lláh
 
-bpn1227 «[Português (BR)](../pt/prayers/#bpn1227)» 
+bpn1227 
 
 ----
 
@@ -1701,7 +1702,7 @@ Em Nome de Deus, o Supremo! Enaltecido e glorificado és, Senhor, Deus Omnipoten
 
 -- Bahá'u'lláh
 
-bpn1228 «[Português (BR)](../pt/prayers/#bpn1228)» 
+bpn1228 
 
 ----
 
@@ -1711,7 +1712,7 @@ Glorificado és Tu, ó Senhor, meu Deus! És, em verdade, o Rei dos reis. Confer
 
 -- Báb
 
-bpn1297 «[Português (BR)](../pt/prayers/#bpn1297)» 
+bpn1297 
 
 ----
 
@@ -1721,7 +1722,7 @@ Verdadeiramente, sou Teu servo, ó meu Deus, e Tua criatura pobre, suplicante, d
 
 -- Báb
 
-bpn1298 «[Português (BR)](../pt/prayers/#bpn1298)» 
+bpn1298 
 
 ----
 
@@ -1731,7 +1732,7 @@ Através de Tua Revelação, ó meu Deus, capacitaste-me para Te conhecer e, pel
 
 -- Báb
 
-bpn1299 «[Português (BR)](../pt/prayers/#bpn1299)» 
+bpn1299 
 
 ----
 
@@ -1741,7 +1742,7 @@ bpn1299 «[Português (BR)](../pt/prayers/#bpn1299)»
 
 -- Abdu'l-Bahá
 
-bpn1117 «[Português (BR)](../pt/prayers/#bpn1117)» 
+bpn1117 
 
 ----
 
@@ -1755,7 +1756,7 @@ bpn1117 «[Português (BR)](../pt/prayers/#bpn1117)»
 
 -- Bahá'u'lláh
 
-bpn1229 «[Português (BR)](../pt/prayers/#bpn1229)» 
+bpn1229 
 
 ----
 
@@ -1765,7 +1766,7 @@ bpn1229 «[Português (BR)](../pt/prayers/#bpn1229)»
 
 -- Bahá'u'lláh
 
-bpn1230 «[Português (BR)](../pt/prayers/#bpn1230)» 
+bpn1230 
 
 ----
 
@@ -1775,7 +1776,7 @@ Magnificado sejas, ó Senhor meu Deus! Peço-Te pelo Teu Nome - o qual estabelec
 
 -- Bahá'u'lláh
 
-bpn1231 «[Português (BR)](../pt/prayers/#bpn1231)» 
+bpn1231 
 
 ----
 
@@ -1785,7 +1786,7 @@ bpn1231 «[Português (BR)](../pt/prayers/#bpn1231)»
 
 -- Bahá'u'lláh
 
-bpn1232 «[Português (BR)](../pt/prayers/#bpn1232)» 
+bpn1232 
 
 ----
 
@@ -1795,7 +1796,7 @@ Glória a Ti, ó meu Deus! Uma de Tuas servas, que acreditou em Ti e nos Teus si
 
 -- Bahá'u'lláh
 
-BH08852 «[English](../en/prayers/#BH08852)» «[Nederlands](../nl/prayers/#BH08852)» «[Português (BR)](../pt/prayers/#BH08852)» 
+BH08852 «[Nederlands](../../nl/prayers/#BH08852)» «[English](../../en/prayers/#BH08852)» 
 
 ----
 
@@ -1805,7 +1806,7 @@ BH08852 «[English](../en/prayers/#BH08852)» «[Nederlands](../nl/prayers/#BH08
 
 -- Bahá'u'lláh
 
-bpn1234 «[Português (BR)](../pt/prayers/#bpn1234)» 
+bpn1234 
 
 ----
 
@@ -1815,7 +1816,7 @@ bpn1234 «[Português (BR)](../pt/prayers/#bpn1234)»
 
 -- Abdu'l-Bahá
 
-bpn1118 «[Português (BR)](../pt/prayers/#bpn1118)» 
+bpn1118 
 
 ----
 
@@ -1825,7 +1826,7 @@ bpn1118 «[Português (BR)](../pt/prayers/#bpn1118)»
 
 -- Abdu'l-Bahá
 
-bpn1119 «[Português (BR)](../pt/prayers/#bpn1119)» 
+bpn1119 
 
 ----
 
@@ -1835,7 +1836,7 @@ bpn1119 «[Português (BR)](../pt/prayers/#bpn1119)»
 
 -- Abdu'l-Bahá
 
-bpn1120 «[Português (BR)](../pt/prayers/#bpn1120)» 
+bpn1120 
 
 ----
 
@@ -1845,7 +1846,7 @@ bpn1120 «[Português (BR)](../pt/prayers/#bpn1120)»
 
 -- Abdu'l-Bahá
 
-bpn1121 «[Português (BR)](../pt/prayers/#bpn1121)» 
+bpn1121 
 
 ----
 
@@ -1855,7 +1856,7 @@ bpn1121 «[Português (BR)](../pt/prayers/#bpn1121)»
 
 -- Abdu'l-Bahá
 
-bpn1122 «[Português (BR)](../pt/prayers/#bpn1122)» 
+bpn1122 
 
 ----
 
@@ -1865,7 +1866,7 @@ Meu Senhor! Meu Senhor! Louvo-Te e agradeço-Te por aquilo com que favoreceste a
 
 -- Abdu'l-Bahá
 
-bpn1123 «[Português (BR)](../pt/prayers/#bpn1123)» 
+bpn1123 
 
 ----
 
@@ -1875,7 +1876,7 @@ bpn1123 «[Português (BR)](../pt/prayers/#bpn1123)»
 
 -- Abdu'l-Bahá
 
-bpn1124 «[Português (BR)](../pt/prayers/#bpn1124)» 
+bpn1124 
 
 ----
 
@@ -1889,7 +1890,7 @@ bpn1124 «[Português (BR)](../pt/prayers/#bpn1124)»
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../en/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» 
+BH00009SER «[English](../../en/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» 
 
 ----
 
@@ -1899,7 +1900,7 @@ Como posso eu querer dormir, ó Deus, meu Deus, enquanto os olhos dos que por Ti
 
 -- Bahá'u'lláh
 
-bpn1236 «[Português (BR)](../pt/prayers/#bpn1236)» 
+bpn1236 
 
 ----
 
@@ -1909,7 +1910,7 @@ bpn1236 «[Português (BR)](../pt/prayers/#bpn1236)»
 
 -- Abdu'l-Bahá
 
-bpn1125 «[Português (BR)](../pt/prayers/#bpn1125)» 
+bpn1125 
 
 ----
 
@@ -1923,7 +1924,7 @@ Os dias intercalares, 26 de Fevereiro a 1º de Março, inclusive, deveriam ser o
 
 -- Abdu'l-Bahá
 
-bpn1324 «[Português (BR)](../pt/prayers/#bpn1324)» 
+bpn1324 
 
 ----
 
@@ -1937,7 +1938,7 @@ Entoa, Ó Meu servo, os versículos de Deus por ti recebidos, assim como os ento
 
 -- Bahá'u'lláh
 
-BH00994INT «[Português (BR)](../pt/prayers/#BH00994INT)» 
+BH00994INT 
 
 ----
 
@@ -1947,7 +1948,7 @@ Bem-aventurado é o lugar, a casa e o coração, e bem-aventurada a cidade, a mo
 
 -- Bahá'u'lláh
 
-BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Português (BR)](../pt/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» 
+BH00074BLE «[English](../../en/prayers/#BH00074BLE)» «[Esperanto](../../eo/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Français](../../fr/prayers/#BH00074BLE)» 
 
 ----
 
@@ -1961,7 +1962,7 @@ BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/
 
 -- Bahá'u'lláh
 
-BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Português (BR)](../pt/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» 
+BH11209 «[English](../../en/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» 
 
 ----
 
@@ -1971,7 +1972,7 @@ BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH112
 
 -- Bahá'u'lláh
 
-BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH03447)» «[Nederlands](../nl/prayers/#BH03447)» «[Português (BR)](../pt/prayers/#BH03447)» 
+BH03447 «[Nederlands](../../nl/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» «[Esperanto](../../eo/prayers/#BH03447)» 
 
 ----
 
@@ -1981,7 +1982,7 @@ BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH034
 
 -- Bahá'u'lláh
 
-BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH00987)» «[Nederlands](../nl/prayers/#BH00987)» «[Português (BR)](../pt/prayers/#BH00987)» 
+BH00987 «[Nederlands](../../nl/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» «[Esperanto](../../eo/prayers/#BH00987)» 
 
 ----
 
@@ -1995,7 +1996,7 @@ BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH009
 
 -- Bahá'u'lláh
 
-BH09085 «[English](../en/prayers/#BH09085)» «[Frysk](../fy/prayers/#BH09085)» «[Nederlands](../nl/prayers/#BH09085)» «[Português (BR)](../pt/prayers/#BH09085)» 
+BH09085 «[Nederlands](../../nl/prayers/#BH09085)» «[English](../../en/prayers/#BH09085)» «[Frysk](../../fy/prayers/#BH09085)» 
 
 ----
 
@@ -2005,7 +2006,7 @@ Ele é Deus, excelso é Ele, Senhor de misericórdia e bondade!Glória a Ti, ó 
 
 -- Bahá'u'lláh
 
-bpn1240 «[Português (BR)](../pt/prayers/#bpn1240)» 
+bpn1240 
 
 ----
 
@@ -2015,7 +2016,7 @@ Glória a Ti, ó Senhor, meu Deus! Não rebaixes a criatura que exaltaste atrav�
 
 -- Bahá'u'lláh
 
-bpn1241 «[Português (BR)](../pt/prayers/#bpn1241)» 
+bpn1241 
 
 ----
 
@@ -2025,7 +2026,7 @@ Suplico-Te, ó Tu que és a Luz do mundo e o Senhor das nações, neste momento 
 
 -- Bahá'u'lláh
 
-bpn1242 «[Português (BR)](../pt/prayers/#bpn1242)» 
+bpn1242 
 
 ----
 
@@ -2035,7 +2036,7 @@ bpn1242 «[Português (BR)](../pt/prayers/#bpn1242)»
 
 -- Abdu'l-Bahá
 
-bpn1126 «[Português (BR)](../pt/prayers/#bpn1126)» 
+bpn1126 
 
 ----
 
@@ -2045,7 +2046,7 @@ bpn1126 «[Português (BR)](../pt/prayers/#bpn1126)»
 
 -- Abdu'l-Bahá
 
-bpn1127 «[Português (BR)](../pt/prayers/#bpn1127)» 
+bpn1127 
 
 ----
 
@@ -2055,7 +2056,7 @@ bpn1127 «[Português (BR)](../pt/prayers/#bpn1127)»
 
 -- Abdu'l-Bahá
 
-bpn1128 «[Português (BR)](../pt/prayers/#bpn1128)» 
+bpn1128 
 
 ----
 
@@ -2065,7 +2066,7 @@ bpn1128 «[Português (BR)](../pt/prayers/#bpn1128)»
 
 -- Abdu'l-Bahá
 
-bpn1129 «[Português (BR)](../pt/prayers/#bpn1129)» 
+bpn1129 
 
 ----
 
@@ -2075,7 +2076,7 @@ bpn1129 «[Português (BR)](../pt/prayers/#bpn1129)»
 
 -- Abdu'l-Bahá
 
-bpn1130 «[Português (BR)](../pt/prayers/#bpn1130)» 
+bpn1130 
 
 ----
 
@@ -2085,7 +2086,7 @@ bpn1130 «[Português (BR)](../pt/prayers/#bpn1130)»
 
 -- Abdu'l-Bahá
 
-AB05996 «[English](../en/prayers/#AB05996)» «[Português (BR)](../pt/prayers/#AB05996)» 
+AB05996 «[English](../../en/prayers/#AB05996)» 
 
 ----
 
@@ -2095,7 +2096,7 @@ AB05996 «[English](../en/prayers/#AB05996)» «[Português (BR)](../pt/prayers/
 
 -- Abdu'l-Bahá
 
-bpn1132 «[Português (BR)](../pt/prayers/#bpn1132)» 
+bpn1132 
 
 ----
 
@@ -2109,7 +2110,7 @@ O pecador, quando se encontra completamente desprendido e liberto de tudo, salvo
 
 -- Bahá'u'lláh
 
-bpn1243 «[Português (BR)](../pt/prayers/#bpn1243)» 
+bpn1243 
 
 ----
 
@@ -2119,7 +2120,7 @@ Glorificado és, ó Senhor meu Deus! Suplico-Te, pelos Teus Eleitos e pelos Port
 
 -- Bahá'u'lláh
 
-bpn1244 «[Português (BR)](../pt/prayers/#bpn1244)» 
+bpn1244 
 
 ----
 
@@ -2129,7 +2130,7 @@ Sou Aquele, ó meu Senhor, que a Ti dirigiu o seu olhar, fixando a sua esperanç
 
 -- Bahá'u'lláh
 
-bpn1245 «[Português (BR)](../pt/prayers/#bpn1245)» 
+bpn1245 
 
 ----
 
@@ -2139,7 +2140,7 @@ Vês-me, ó meu Senhor, com a face volvida para o céu da Tua generosidade e o o
 
 -- Bahá'u'lláh
 
-bpn1246 «[Português (BR)](../pt/prayers/#bpn1246)» 
+bpn1246 
 
 ----
 
@@ -2149,7 +2150,7 @@ Louvado seja o Teu nome, ó meu Deus e Deus de todas as coisas, a minha Glória 
 
 -- Bahá'u'lláh
 
-bpn1247 «[Português (BR)](../pt/prayers/#bpn1247)» 
+bpn1247 
 
 ----
 
@@ -2159,7 +2160,7 @@ bpn1247 «[Português (BR)](../pt/prayers/#bpn1247)»
 
 -- Bahá'u'lláh
 
-bpn1248 «[Português (BR)](../pt/prayers/#bpn1248)» 
+bpn1248 
 
 ----
 
@@ -2169,7 +2170,7 @@ bpn1248 «[Português (BR)](../pt/prayers/#bpn1248)»
 
 -- Bahá'u'lláh
 
-bpn1249 «[Português (BR)](../pt/prayers/#bpn1249)» 
+bpn1249 
 
 ----
 
@@ -2179,7 +2180,7 @@ bpn1249 «[Português (BR)](../pt/prayers/#bpn1249)»
 
 -- Bahá'u'lláh
 
-bpn1250 «[Português (BR)](../pt/prayers/#bpn1250)» 
+bpn1250 
 
 ----
 
@@ -2189,7 +2190,7 @@ Ele é o Deus que ouve e atende as orações! Pela Tua glória, ó meu Bem-Amado
 
 -- Bahá'u'lláh
 
-bpn1251 «[Português (BR)](../pt/prayers/#bpn1251)» 
+bpn1251 
 
 ----
 
@@ -2199,7 +2200,7 @@ bpn1251 «[Português (BR)](../pt/prayers/#bpn1251)»
 
 -- Báb
 
-bpn1300 «[Português (BR)](../pt/prayers/#bpn1300)» 
+bpn1300 
 
 ----
 
@@ -2209,7 +2210,7 @@ Louvor a Ti, ó Senhor! Perdoa-nos os pecados, tem misericórdia de nós e capac
 
 -- Báb
 
-bpn1301 «[Português (BR)](../pt/prayers/#bpn1301)» 
+bpn1301 
 
 ----
 
@@ -2219,7 +2220,7 @@ Suplico-Te que me perdoes, ó meu Senhor, toda a menção, salvo a menção de T
 
 -- Báb
 
-bpn1302 «[Português (BR)](../pt/prayers/#bpn1302)» 
+bpn1302 
 
 ----
 
@@ -2229,7 +2230,7 @@ A Tua clemência peço, ó meu Deus, e perdão imploro da maneira que Tu desejas
 
 -- Báb
 
-bpn1303 «[Português (BR)](../pt/prayers/#bpn1303)» 
+bpn1303 
 
 ----
 
@@ -2239,7 +2240,7 @@ Glória a Ti, ó Deus. Como posso de Ti fazer menção, quando Tu estás santifi
 
 -- Báb
 
-BB00002MEN «[English](../en/prayers/#BB00002MEN)» «[Português (BR)](../pt/prayers/#BB00002MEN)» 
+BB00002MEN «[English](../../en/prayers/#BB00002MEN)» 
 
 ----
 
@@ -2249,7 +2250,7 @@ Estou ciente, ó Senhor, de que na Tua presença as minhas transgressões cobrir
 
 -- Báb
 
-bpn1305 «[Português (BR)](../pt/prayers/#bpn1305)» 
+bpn1305 
 
 ----
 
@@ -2259,7 +2260,7 @@ Glória a Ti, ó Deus! És o Deus que existiu antes de todas as coisas, que exis
 
 -- Báb
 
-BB00100EXI «[English](../en/prayers/#BB00100EXI)» «[Nederlands](../nl/prayers/#BB00100EXI)» «[Português (BR)](../pt/prayers/#BB00100EXI)» 
+BB00100EXI «[Nederlands](../../nl/prayers/#BB00100EXI)» «[English](../../en/prayers/#BB00100EXI)» 
 
 ----
 
@@ -2269,7 +2270,7 @@ BB00100EXI «[English](../en/prayers/#BB00100EXI)» «[Nederlands](../nl/prayers
 
 -- Báb
 
-bpn1307 «[Português (BR)](../pt/prayers/#bpn1307)» 
+bpn1307 
 
 ----
 
@@ -2279,7 +2280,7 @@ Glória a Ti, ó Senhor meu Deus! Peço-Te que me perdoes e àqueles que apoiam 
 
 -- Báb
 
-BB00583 «[English](../en/prayers/#BB00583)» «[Português (BR)](../pt/prayers/#BB00583)» 
+BB00583 «[English](../../en/prayers/#BB00583)» 
 
 ----
 
@@ -2289,7 +2290,7 @@ BB00583 «[English](../en/prayers/#BB00583)» «[Português (BR)](../pt/prayers/
 
 -- Abdu'l-Bahá
 
-bpn1133 «[Português (BR)](../pt/prayers/#bpn1133)» 
+bpn1133 
 
 ----
 
@@ -2303,7 +2304,7 @@ Deus, meu Deus! Tu iluminaste a lâmpada de Tua Causa com o óleo da sabedoria; 
 
 -- Bahá'u'lláh
 
-bpn1252 «[Português (BR)](../pt/prayers/#bpn1252)» 
+bpn1252 
 
 ----
 
@@ -2313,7 +2314,7 @@ Louvor a Ti, ó Senhor meu Deus! Peço-Te pelo Teu Nome, através do qual subjug
 
 -- Bahá'u'lláh
 
-bpn1253 «[Português (BR)](../pt/prayers/#bpn1253)» 
+bpn1253 
 
 ----
 
@@ -2323,7 +2324,7 @@ Louvado sejas Tu, ó Senhor meu Deus! Este é o Teu servo que sorveu o vinho da 
 
 -- Bahá'u'lláh
 
-bpn1254 «[Português (BR)](../pt/prayers/#bpn1254)» 
+bpn1254 
 
 ----
 
@@ -2333,7 +2334,7 @@ Louvado seja o Teu nome, ó meu Deus! Vês como o vento tempestuoso das provaç�
 
 -- Bahá'u'lláh
 
-bpn1255 «[Português (BR)](../pt/prayers/#bpn1255)» 
+bpn1255 
 
 ----
 
@@ -2343,7 +2344,7 @@ Louvores a Ti, ó Senhor meu Deus! Vês e sabes que exortei os Teus servos a vol
 
 -- Bahá'u'lláh
 
-BH07113 «[English](../en/prayers/#BH07113)» «[Português (BR)](../pt/prayers/#BH07113)» 
+BH07113 «[English](../../en/prayers/#BH07113)» 
 
 ----
 
@@ -2353,7 +2354,7 @@ Louvado seja o Teu nome, ó Senhor meu Deus! Sou o Teu servo, que se segurou à 
 
 -- Bahá'u'lláh
 
-BH07780 «[English](../en/prayers/#BH07780)» «[Português (BR)](../pt/prayers/#BH07780)» 
+BH07780 «[English](../../en/prayers/#BH07780)» 
 
 ----
 
@@ -2363,7 +2364,7 @@ Louvado seja o Teu nome, ó Tu em cujas mãos está o reino de todos os nomes, n
 
 -- Bahá'u'lláh
 
-bpn1258 «[Português (BR)](../pt/prayers/#bpn1258)» 
+bpn1258 
 
 ----
 
@@ -2373,7 +2374,7 @@ Magnificado seja o Teu nome, ó Senhor meu Deus, porque inclinaste os meus ouvid
 
 -- Bahá'u'lláh
 
-bpn1259 «[Português (BR)](../pt/prayers/#bpn1259)» 
+bpn1259 
 
 ----
 
@@ -2383,7 +2384,7 @@ Em Seu Nome, o Excelso, o Altíssimo, o Mais Sublime! Glorificado és Tu, ó Sen
 
 -- Bahá'u'lláh
 
-bpn1260 «[Português (BR)](../pt/prayers/#bpn1260)» 
+bpn1260 
 
 ----
 
@@ -2393,7 +2394,7 @@ Imploro-Te, ó Meu Senhor, por aquela Palavra mais excelsa, que infligiu terror 
 
 -- Bahá'u'lláh
 
-bpn1261 «[Português (BR)](../pt/prayers/#bpn1261)» 
+bpn1261 
 
 ----
 
@@ -2403,7 +2404,7 @@ bpn1261 «[Português (BR)](../pt/prayers/#bpn1261)»
 
 -- Bahá'u'lláh
 
-bpn1262 «[Português (BR)](../pt/prayers/#bpn1262)» 
+bpn1262 
 
 ----
 
@@ -2413,7 +2414,7 @@ bpn1262 «[Português (BR)](../pt/prayers/#bpn1262)»
 
 -- Báb
 
-bpn1309 «[Português (BR)](../pt/prayers/#bpn1309)» 
+bpn1309 
 
 ----
 
@@ -2423,7 +2424,7 @@ O original desta oração para proteção foi escrito pelo próprio punho do Bá
 
 -- Báb
 
-bpn1310 «[Português (BR)](../pt/prayers/#bpn1310)» 
+bpn1310 
 
 ----
 
@@ -2433,7 +2434,7 @@ Ele é Deus, o Soberano Governante, o Sempiterno, Aquele cujo auxílio é implor
 
 -- Báb
 
-bpn1311 «[Português (BR)](../pt/prayers/#bpn1311)» 
+bpn1311 
 
 ----
 
@@ -2443,7 +2444,7 @@ bpn1311 «[Português (BR)](../pt/prayers/#bpn1311)»
 
 -- Abdu'l-Bahá
 
-bpn1134 «[Português (BR)](../pt/prayers/#bpn1134)» 
+bpn1134 
 
 ----
 
@@ -2453,7 +2454,7 @@ Glória a Ti, ó Deus! És o Deus que existiu antes de todas coisas, que existir
 
 -- Abdu'l-Bahá
 
-bpn1135 «[Português (BR)](../pt/prayers/#bpn1135)» 
+bpn1135 
 
 ----
 
@@ -2467,7 +2468,7 @@ bpn1135 «[Português (BR)](../pt/prayers/#bpn1135)»
 
 -- Bahá'u'lláh
 
-bpn1263 «[Português (BR)](../pt/prayers/#bpn1263)» 
+bpn1263 
 
 ----
 
@@ -2477,7 +2478,7 @@ Glória a Ti, ó meu Deus! Não fossem as tribulações que eles suportam no Teu
 
 -- Bahá'u'lláh
 
-BH02524 «[English](../en/prayers/#BH02524)» «[Português (BR)](../pt/prayers/#BH02524)» «[Español](../es/prayers/#BH02524)» 
+BH02524 «[English](../../en/prayers/#BH02524)» «[Español](../../es/prayers/#BH02524)» 
 
 ----
 
@@ -2487,7 +2488,7 @@ Glorificado és Tu, ó Senhor, meu Deus! Todo o homem de compreensão admite a T
 
 -- Bahá'u'lláh
 
-bpn1265 «[Português (BR)](../pt/prayers/#bpn1265)» 
+bpn1265 
 
 ----
 
@@ -2497,7 +2498,7 @@ Louvor a Ti, ó Tu que inclinas os Teus ouvidos para os suspiros dos que de todo
 
 -- Bahá'u'lláh
 
-bpn1266 «[Português (BR)](../pt/prayers/#bpn1266)» 
+bpn1266 
 
 ----
 
@@ -2507,7 +2508,7 @@ Enaltecido e glorificado és Tu, ó meu Deus! Rogo-Te - pelos suspiros dos que T
 
 -- Bahá'u'lláh
 
-bpn1267 «[Português (BR)](../pt/prayers/#bpn1267)» 
+bpn1267 
 
 ----
 
@@ -2517,7 +2518,7 @@ Eu Te adjuro pelo Teu poder, ó meu Deus! Não deixes nenhum mal sobrevir-me em 
 
 -- Báb
 
-bpn1312 «[Português (BR)](../pt/prayers/#bpn1312)» 
+bpn1312 
 
 ----
 
@@ -2527,7 +2528,7 @@ Tu bem sabes, ó meu Deus, que sobre mim têm chovido tribulações de todas as 
 
 -- Báb
 
-bpn1313 «[Português (BR)](../pt/prayers/#bpn1313)» 
+bpn1313 
 
 ----
 
@@ -2537,7 +2538,7 @@ bpn1313 «[Português (BR)](../pt/prayers/#bpn1313)»
 
 -- Abdu'l-Bahá
 
-bpn1136 «[Português (BR)](../pt/prayers/#bpn1136)» 
+bpn1136 
 
 ----
 
@@ -2547,7 +2548,7 @@ bpn1136 «[Português (BR)](../pt/prayers/#bpn1136)»
 
 -- Abdu'l-Bahá
 
-bpn1137 «[Português (BR)](../pt/prayers/#bpn1137)» 
+bpn1137 
 
 ----
 
@@ -2557,7 +2558,7 @@ bpn1137 «[Português (BR)](../pt/prayers/#bpn1137)»
 
 -- Abdu'l-Bahá
 
-bpn1138 «[Português (BR)](../pt/prayers/#bpn1138)» 
+bpn1138 
 
 ----
 
@@ -2567,7 +2568,7 @@ Ele é Deus! Ó Senhor, meu Deus! Ó Tu, que ajudas o fraco, socorres o pobre e 
 
 -- Abdu'l-Bahá
 
-bpn1139 «[Português (BR)](../pt/prayers/#bpn1139)» 
+bpn1139 
 
 ----
 
@@ -2577,7 +2578,7 @@ Ele é o Compassivo, o Mais Generoso! Ó Deus, meu Deus! Tu me vês, Tu me conhe
 
 -- Abdu'l-Bahá
 
-bpn1140 «[Português (BR)](../pt/prayers/#bpn1140)» 
+bpn1140 
 
 ----
 
@@ -2587,7 +2588,7 @@ bpn1140 «[Português (BR)](../pt/prayers/#bpn1140)»
 
 -- Abdu'l-Bahá
 
-bpn11763 «[Português (BR)](../pt/prayers/#bpn11763)» 
+bpn11763 
 
 ----
 
@@ -2601,7 +2602,7 @@ bpn11763 «[Português (BR)](../pt/prayers/#bpn11763)»
 
 -- Abdu'l-Bahá
 
-bpn1141 «[Português (BR)](../pt/prayers/#bpn1141)» 
+bpn1141 
 
 ----
 
@@ -2611,7 +2612,7 @@ bpn1141 «[Português (BR)](../pt/prayers/#bpn1141)»
 
 -- Abdu'l-Bahá
 
-bpn1142 «[Português (BR)](../pt/prayers/#bpn1142)» 
+bpn1142 
 
 ----
 
@@ -2621,7 +2622,7 @@ Louvor e glória a Ti, ó Senhor meu Deus! Esta é uma pequena árvore preciosa 
 
 -- Abdu'l-Bahá
 
-bpn1143 «[Português (BR)](../pt/prayers/#bpn1143)» 
+bpn1143 
 
 ----
 
@@ -2631,7 +2632,7 @@ bpn1143 «[Português (BR)](../pt/prayers/#bpn1143)»
 
 -- Abdu'l-Bahá
 
-bpn1144 «[Português (BR)](../pt/prayers/#bpn1144)» 
+bpn1144 
 
 ----
 
@@ -2641,7 +2642,7 @@ bpn1144 «[Português (BR)](../pt/prayers/#bpn1144)»
 
 -- Abdu'l-Bahá
 
-bpn1145 «[Português (BR)](../pt/prayers/#bpn1145)» 
+bpn1145 
 
 ----
 
@@ -2655,7 +2656,7 @@ Cria em mim um coração puro, ó meu Deus, e renova uma consciência tranquila 
 
 -- Bahá'u'lláh
 
-bpn1268 «[Português (BR)](../pt/prayers/#bpn1268)» 
+bpn1268 
 
 ----
 
@@ -2665,7 +2666,7 @@ Dá-me de beber, ó meu Deus, da doce correnteza da Tua eternidade, e permite-me
 
 -- Bahá'u'lláh
 
-BH06296 «[English](../en/prayers/#BH06296)» «[Nederlands](../nl/prayers/#BH06296)» «[Português (BR)](../pt/prayers/#BH06296)» 
+BH06296 «[Nederlands](../../nl/prayers/#BH06296)» «[English](../../en/prayers/#BH06296)» 
 
 ----
 
@@ -2675,7 +2676,7 @@ BH06296 «[English](../en/prayers/#BH06296)» «[Nederlands](../nl/prayers/#BH06
 
 -- Bahá'u'lláh
 
-bpn1270 «[Português (BR)](../pt/prayers/#bpn1270)» 
+bpn1270 
 
 ----
 
@@ -2685,7 +2686,7 @@ Dize: Ó Deus, meu Deus! Adorna a minha cabeça com a coroa da justiça, e a min
 
 -- Bahá'u'lláh
 
-bpn1271 «[Português (BR)](../pt/prayers/#bpn1271)» 
+bpn1271 
 
 ----
 
@@ -2695,7 +2696,7 @@ bpn1271 «[Português (BR)](../pt/prayers/#bpn1271)»
 
 -- Bahá'u'lláh
 
-bpn1272 «[Português (BR)](../pt/prayers/#bpn1272)» 
+bpn1272 
 
 ----
 
@@ -2705,7 +2706,7 @@ Ele é o Bondoso, o Generosíssimo! Ó Deus, meu Deus! O Teu chamado atraiu-me e
 
 -- Bahá'u'lláh
 
-BH06026 «[English](../en/prayers/#BH06026)» «[Nederlands](../nl/prayers/#BH06026)» «[Português (BR)](../pt/prayers/#BH06026)» 
+BH06026 «[Nederlands](../../nl/prayers/#BH06026)» «[English](../../en/prayers/#BH06026)» 
 
 ----
 
@@ -2715,7 +2716,7 @@ BH06026 «[English](../en/prayers/#BH06026)» «[Nederlands](../nl/prayers/#BH06
 
 -- Bahá'u'lláh
 
-bpn1274 «[Português (BR)](../pt/prayers/#bpn1274)» 
+bpn1274 
 
 ----
 
@@ -2725,7 +2726,7 @@ Dize: Ó Deus, meu Deus! Glória a Ti por me haveres guiado ao horizonte da Tua 
 
 -- Bahá'u'lláh
 
-bpn1275 «[Português (BR)](../pt/prayers/#bpn1275)» 
+bpn1275 
 
 ----
 
@@ -2735,7 +2736,7 @@ bpn1275 «[Português (BR)](../pt/prayers/#bpn1275)»
 
 -- Abdu'l-Bahá
 
-bpn1146 «[Português (BR)](../pt/prayers/#bpn1146)» 
+bpn1146 
 
 ----
 
@@ -2745,7 +2746,7 @@ bpn1146 «[Português (BR)](../pt/prayers/#bpn1146)»
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../en/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» 
+AB09139 «[Nederlands](../../nl/prayers/#AB09139)» «[English](../../en/prayers/#AB09139)» «[Français](../../fr/prayers/#AB09139)» 
 
 ----
 
@@ -2755,7 +2756,7 @@ AB09139 «[English](../en/prayers/#AB09139)» «[Français](../fr/prayers/#AB091
 
 -- Abdu'l-Bahá
 
-bpn1148 «[Português (BR)](../pt/prayers/#bpn1148)» 
+bpn1148 
 
 ----
 
@@ -2765,7 +2766,7 @@ bpn1148 «[Português (BR)](../pt/prayers/#bpn1148)»
 
 -- Abdu'l-Bahá
 
-bpn1149 «[Português (BR)](../pt/prayers/#bpn1149)» 
+bpn1149 
 
 ----
 
@@ -2775,7 +2776,7 @@ Vês-me, ó meu Deus, prostrado em submissão, humilde ante os Teus mandamentos,
 
 -- Abdu'l-Bahá
 
-AB00156LOW «[English](../en/prayers/#AB00156LOW)» «[Nederlands](../nl/prayers/#AB00156LOW)» «[Português (BR)](../pt/prayers/#AB00156LOW)» 
+AB00156LOW «[Nederlands](../../nl/prayers/#AB00156LOW)» «[English](../../en/prayers/#AB00156LOW)» 
 
 ----
 
@@ -2785,7 +2786,7 @@ AB00156LOW «[English](../en/prayers/#AB00156LOW)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» 
+AB00128FEE «[English](../../en/prayers/#AB00128FEE)» «[Español](../../es/prayers/#AB00128FEE)» 
 
 ----
 
@@ -2799,7 +2800,7 @@ Afasta a minha tristeza, pela Tua bondade e pelo Teu favor, ó Deus, meu Deus, e
 
 -- Bahá'u'lláh
 
-bpn1276 «[Português (BR)](../pt/prayers/#bpn1276)» 
+bpn1276 
 
 ----
 
@@ -2809,7 +2810,7 @@ bpn1276 «[Português (BR)](../pt/prayers/#bpn1276)»
 
 -- Bahá'u'lláh
 
-bpn1277 «[Português (BR)](../pt/prayers/#bpn1277)» 
+bpn1277 
 
 ----
 
@@ -2819,7 +2820,7 @@ bpn1277 «[Português (BR)](../pt/prayers/#bpn1277)»
 
 -- Báb
 
-bpn1316 «[Português (BR)](../pt/prayers/#bpn1316)» 
+bpn1316 
 
 ----
 
@@ -2829,7 +2830,7 @@ Há quem remova as dificuldades a não ser Deus? Dize: Louvado seja Deus! Ele é
 
 -- Báb
 
-BB00623 «[English](../en/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Tuvalu](../tvl/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
+BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
 
 ----
 
@@ -2839,7 +2840,7 @@ Dize: Deus é suficiente para todas as coisas, acima de todas as coisas, e nada 
 
 -- Báb
 
-bpn1315 «[Português (BR)](../pt/prayers/#bpn1315)» 
+bpn1315 
 
 ----
 
@@ -2849,7 +2850,7 @@ bpn1315 «[Português (BR)](../pt/prayers/#bpn1315)»
 
 -- Abdu'l-Bahá
 
-bpn1152 «[Português (BR)](../pt/prayers/#bpn1152)» 
+bpn1152 
 
 ----
 
@@ -2863,7 +2864,7 @@ Glorificado és Tu, ó Senhor meu Deus! Imploro-Te, pelos ventos impetuosos da T
 
 -- Bahá'u'lláh
 
-bpn1278 «[Português (BR)](../pt/prayers/#bpn1278)» 
+bpn1278 
 
 ----
 
@@ -2873,7 +2874,7 @@ bpn1278 «[Português (BR)](../pt/prayers/#bpn1278)»
 
 -- Abdu'l-Bahá
 
-bpn1153 «[Português (BR)](../pt/prayers/#bpn1153)» 
+bpn1153 
 
 ----
 
@@ -2883,7 +2884,7 @@ bpn1153 «[Português (BR)](../pt/prayers/#bpn1153)»
 
 -- Abdu'l-Bahá
 
-bpn1154 «[Português (BR)](../pt/prayers/#bpn1154)» 
+bpn1154 
 
 ----
 
@@ -2893,7 +2894,7 @@ bpn1154 «[Português (BR)](../pt/prayers/#bpn1154)»
 
 -- Abdu'l-Bahá
 
-bpn1155 «[Português (BR)](../pt/prayers/#bpn1155)» 
+bpn1155 
 
 ----
 
@@ -2903,7 +2904,7 @@ bpn1155 «[Português (BR)](../pt/prayers/#bpn1155)»
 
 -- Abdu'l-Bahá
 
-ABU0095KIN «[English](../en/prayers/#ABU0095KIN)» «[Português (BR)](../pt/prayers/#ABU0095KIN)» 
+ABU0095KIN «[English](../../en/prayers/#ABU0095KIN)» 
 
 ----
 
@@ -2913,7 +2914,7 @@ Ele é Deus! Ó Deus, meu Deus! Estes são servos atraídos em Teus dias pelo pe
 
 -- Abdu'l-Bahá
 
-AB02326 «[English](../en/prayers/#AB02326)» «[Nederlands](../nl/prayers/#AB02326)» «[Português (BR)](../pt/prayers/#AB02326)» 
+AB02326 «[Nederlands](../../nl/prayers/#AB02326)» «[English](../../en/prayers/#AB02326)» 
 
 ----
 
@@ -2923,7 +2924,7 @@ Reúnam-se com genuína alegria, e no início da reunião, recitem esta oração
 
 -- Abdu'l-Bahá
 
-bpn1158 «[Português (BR)](../pt/prayers/#bpn1158)» 
+bpn1158 
 
 ----
 
@@ -2933,7 +2934,7 @@ bpn1158 «[Português (BR)](../pt/prayers/#bpn1158)»
 
 -- Abdu'l-Bahá
 
-AB00388COM «[English](../en/prayers/#AB00388COM)» «[Português (BR)](../pt/prayers/#AB00388COM)» 
+AB00388COM «[English](../../en/prayers/#AB00388COM)» 
 
 ----
 
@@ -2943,7 +2944,7 @@ AB00388COM «[English](../en/prayers/#AB00388COM)» «[Português (BR)](../pt/pr
 
 -- Abdu'l-Bahá
 
-bpn1160 «[Português (BR)](../pt/prayers/#bpn1160)» 
+bpn1160 
 
 ----
 
@@ -2953,7 +2954,7 @@ bpn1160 «[Português (BR)](../pt/prayers/#bpn1160)»
 
 -- Abdu'l-Bahá
 
-bpn1161 «[Português (BR)](../pt/prayers/#bpn1161)» 
+bpn1161 
 
 ----
 
@@ -2967,7 +2968,7 @@ Magnificado seja o Teu Nome, ó Senhor meu Deus! Sou aquele que a Ti volveu a fa
 
 -- Bahá'u'lláh
 
-bpn1279 «[Português (BR)](../pt/prayers/#bpn1279)» 
+bpn1279 
 
 ----
 
@@ -2981,7 +2982,7 @@ bpn1279 «[Português (BR)](../pt/prayers/#bpn1279)»
 
 -- Bahá'u'lláh
 
-bpn1280 «[Português (BR)](../pt/prayers/#bpn1280)» 
+bpn1280 
 
 ----
 
@@ -2991,7 +2992,7 @@ Magnificado seja o Teu Nome, ó Senhor de todos os seres e Desejo de todas as co
 
 -- Bahá'u'lláh
 
-bpn1281 «[Português (BR)](../pt/prayers/#bpn1281)» 
+bpn1281 
 
 ----
 
@@ -3001,7 +3002,7 @@ bpn1281 «[Português (BR)](../pt/prayers/#bpn1281)»
 
 -- Abdu'l-Bahá
 
-bpn1162 «[Português (BR)](../pt/prayers/#bpn1162)» 
+bpn1162 
 
 ----
 
@@ -3011,7 +3012,7 @@ bpn1162 «[Português (BR)](../pt/prayers/#bpn1162)»
 
 -- Abdu'l-Bahá
 
-bpn1163 «[Português (BR)](../pt/prayers/#bpn1163)» 
+bpn1163 
 
 ----
 
@@ -3021,7 +3022,7 @@ bpn1163 «[Português (BR)](../pt/prayers/#bpn1163)»
 
 -- Abdu'l-Bahá
 
-bpn1164 «[Português (BR)](../pt/prayers/#bpn1164)» 
+bpn1164 
 
 ----
 
@@ -3031,7 +3032,7 @@ bpn1164 «[Português (BR)](../pt/prayers/#bpn1164)»
 
 -- Abdu'l-Bahá
 
-bpn1165 «[Português (BR)](../pt/prayers/#bpn1165)» 
+bpn1165 
 
 ----
 
@@ -3041,7 +3042,7 @@ bpn1165 «[Português (BR)](../pt/prayers/#bpn1165)»
 
 -- Abdu'l-Bahá
 
-bpn1166 «[Português (BR)](../pt/prayers/#bpn1166)» 
+bpn1166 
 
 ----
 
@@ -3051,7 +3052,7 @@ bpn1166 «[Português (BR)](../pt/prayers/#bpn1166)»
 
 -- Abdu'l-Bahá
 
-AB00065KIN «[English](../en/prayers/#AB00065KIN)» «[Nederlands](../nl/prayers/#AB00065KIN)» «[Português (BR)](../pt/prayers/#AB00065KIN)» 
+AB00065KIN «[Nederlands](../../nl/prayers/#AB00065KIN)» «[English](../../en/prayers/#AB00065KIN)» 
 
 ----
 

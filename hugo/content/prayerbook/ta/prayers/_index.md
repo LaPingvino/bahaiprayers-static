@@ -5,6 +5,7 @@ tags = ['lang=ta', 'prayerbook']
 
 
 
+
 [அப்துல்-பஹாவின் நேர்வு நிருபம்](#%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B9%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D+%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81+%E0%AE%A8%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AE%AE%E0%AF%8D)
 
 [அஹம்மது நிருபம்](#%E0%AE%85%E0%AE%B9%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%A4%E0%AF%81+%E0%AE%A8%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AE%AE%E0%AF%8D)
@@ -119,7 +120,7 @@ tags = ['lang=ta', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn11451 «[தமிழ்](../ta/prayers/#bpn11451)» 
+bpn11451 
 
 ----
 
@@ -133,7 +134,7 @@ bpn11451 «[தமிழ்](../ta/prayers/#bpn11451)»
 
 -- Bahá'u'lláh
 
-bpn11448 «[தமிழ்](../ta/prayers/#bpn11448)» 
+bpn11448 
 
 ----
 
@@ -147,7 +148,7 @@ bpn11448 «[தமிழ்](../ta/prayers/#bpn11448)»
 
 -- Abdu'l-Bahá
 
-bpn11434 «[தமிழ்](../ta/prayers/#bpn11434)» 
+bpn11434 
 
 ----
 
@@ -157,7 +158,7 @@ bpn11434 «[தமிழ்](../ta/prayers/#bpn11434)»
 
 -- Abdu'l-Bahá
 
-bpn11435 «[தமிழ்](../ta/prayers/#bpn11435)» 
+bpn11435 
 
 ----
 
@@ -167,7 +168,7 @@ bpn11435 «[தமிழ்](../ta/prayers/#bpn11435)»
 
 -- Abdu'l-Bahá
 
-bpn11436 «[தமிழ்](../ta/prayers/#bpn11436)» 
+bpn11436 
 
 ----
 
@@ -181,7 +182,7 @@ bpn11436 «[தமிழ்](../ta/prayers/#bpn11436)»
 
 -- Bahá'u'lláh
 
-bpn11243 «[தமிழ்](../ta/prayers/#bpn11243)» 
+bpn11243 
 
 ----
 
@@ -191,7 +192,7 @@ bpn11243 «[தமிழ்](../ta/prayers/#bpn11243)»
 
 -- Bahá'u'lláh
 
-bpn11244 «[தமிழ்](../ta/prayers/#bpn11244)» 
+bpn11244 
 
 ----
 
@@ -201,7 +202,7 @@ bpn11244 «[தமிழ்](../ta/prayers/#bpn11244)»
 
 -- Bahá'u'lláh
 
-bpn11245 «[தமிழ்](../ta/prayers/#bpn11245)» 
+bpn11245 
 
 ----
 
@@ -211,7 +212,7 @@ bpn11245 «[தமிழ்](../ta/prayers/#bpn11245)»
 
 -- Bahá'u'lláh
 
-bpn11246 «[தமிழ்](../ta/prayers/#bpn11246)» 
+bpn11246 
 
 ----
 
@@ -221,7 +222,7 @@ bpn11246 «[தமிழ்](../ta/prayers/#bpn11246)»
 
 -- Bahá'u'lláh
 
-bpn11247 «[தமிழ்](../ta/prayers/#bpn11247)» 
+bpn11247 
 
 ----
 
@@ -231,7 +232,7 @@ bpn11247 «[தமிழ்](../ta/prayers/#bpn11247)»
 
 -- Bahá'u'lláh
 
-bpn11248 «[தமிழ்](../ta/prayers/#bpn11248)» 
+bpn11248 
 
 ----
 
@@ -241,7 +242,7 @@ bpn11248 «[தமிழ்](../ta/prayers/#bpn11248)»
 
 -- Bahá'u'lláh
 
-bpn11249 «[தமிழ்](../ta/prayers/#bpn11249)» 
+bpn11249 
 
 ----
 
@@ -251,7 +252,7 @@ bpn11249 «[தமிழ்](../ta/prayers/#bpn11249)»
 
 -- Bahá'u'lláh
 
-bpn11250 «[தமிழ்](../ta/prayers/#bpn11250)» 
+bpn11250 
 
 ----
 
@@ -261,7 +262,7 @@ bpn11250 «[தமிழ்](../ta/prayers/#bpn11250)»
 
 -- Bahá'u'lláh
 
-bpn11251 «[தமிழ்](../ta/prayers/#bpn11251)» 
+bpn11251 
 
 ----
 
@@ -271,7 +272,7 @@ bpn11251 «[தமிழ்](../ta/prayers/#bpn11251)»
 
 -- Báb
 
-bpn11252 «[தமிழ்](../ta/prayers/#bpn11252)» 
+bpn11252 
 
 ----
 
@@ -281,7 +282,7 @@ bpn11252 «[தமிழ்](../ta/prayers/#bpn11252)»
 
 -- Abdu'l-Bahá
 
-bpn11253 «[தமிழ்](../ta/prayers/#bpn11253)» 
+bpn11253 
 
 ----
 
@@ -291,7 +292,7 @@ bpn11253 «[தமிழ்](../ta/prayers/#bpn11253)»
 
 -- Abdu'l-Bahá
 
-bpn11254 «[தமிழ்](../ta/prayers/#bpn11254)» 
+bpn11254 
 
 ----
 
@@ -301,7 +302,7 @@ bpn11254 «[தமிழ்](../ta/prayers/#bpn11254)»
 
 -- Abdu'l-Bahá
 
-bpn11255 «[தமிழ்](../ta/prayers/#bpn11255)» 
+bpn11255 
 
 ----
 
@@ -311,7 +312,7 @@ bpn11255 «[தமிழ்](../ta/prayers/#bpn11255)»
 
 -- Abdu'l-Bahá
 
-bpn11256 «[தமிழ்](../ta/prayers/#bpn11256)» 
+bpn11256 
 
 ----
 
@@ -321,7 +322,7 @@ bpn11256 «[தமிழ்](../ta/prayers/#bpn11256)»
 
 -- Abdu'l-Bahá
 
-bpn11257 «[தமிழ்](../ta/prayers/#bpn11257)» 
+bpn11257 
 
 ----
 
@@ -331,7 +332,7 @@ bpn11257 «[தமிழ்](../ta/prayers/#bpn11257)»
 
 -- Abdu'l-Bahá
 
-bpn11258 «[தமிழ்](../ta/prayers/#bpn11258)» 
+bpn11258 
 
 ----
 
@@ -341,7 +342,7 @@ bpn11258 «[தமிழ்](../ta/prayers/#bpn11258)»
 
 -- Abdu'l-Bahá
 
-bpn11259 «[தமிழ்](../ta/prayers/#bpn11259)» 
+bpn11259 
 
 ----
 
@@ -355,7 +356,7 @@ bpn11259 «[தமிழ்](../ta/prayers/#bpn11259)»
 
 -- Bahá'u'lláh
 
-bpn11260 «[தமிழ்](../ta/prayers/#bpn11260)» 
+bpn11260 
 
 ----
 
@@ -365,7 +366,7 @@ bpn11260 «[தமிழ்](../ta/prayers/#bpn11260)»
 
 -- Bahá'u'lláh
 
-bpn11261 «[தமிழ்](../ta/prayers/#bpn11261)» 
+bpn11261 
 
 ----
 
@@ -375,7 +376,7 @@ bpn11261 «[தமிழ்](../ta/prayers/#bpn11261)»
 
 -- Bahá'u'lláh
 
-bpn11296 «[தமிழ்](../ta/prayers/#bpn11296)» 
+bpn11296 
 
 ----
 
@@ -385,7 +386,7 @@ bpn11296 «[தமிழ்](../ta/prayers/#bpn11296)»
 
 -- Bahá'u'lláh
 
-bpn11297 «[தமிழ்](../ta/prayers/#bpn11297)» 
+bpn11297 
 
 ----
 
@@ -399,7 +400,7 @@ bpn11297 «[தமிழ்](../ta/prayers/#bpn11297)»
 
 -- Bahá'u'lláh
 
-bpn11276 «[தமிழ்](../ta/prayers/#bpn11276)» 
+bpn11276 
 
 ----
 
@@ -413,7 +414,7 @@ bpn11276 «[தமிழ்](../ta/prayers/#bpn11276)»
 
 -- Abdu'l-Bahá
 
-bpn11273 «[தமிழ்](../ta/prayers/#bpn11273)» 
+bpn11273 
 
 ----
 
@@ -423,7 +424,7 @@ bpn11273 «[தமிழ்](../ta/prayers/#bpn11273)»
 
 -- Abdu'l-Bahá
 
-bpn11274 «[தமிழ்](../ta/prayers/#bpn11274)» 
+bpn11274 
 
 ----
 
@@ -433,7 +434,7 @@ bpn11274 «[தமிழ்](../ta/prayers/#bpn11274)»
 
 -- Abdu'l-Bahá
 
-bpn11275 «[தமிழ்](../ta/prayers/#bpn11275)» 
+bpn11275 
 
 ----
 
@@ -447,7 +448,7 @@ bpn11275 «[தமிழ்](../ta/prayers/#bpn11275)»
 
 -- Bahá'u'lláh
 
-bpn11269 «[தமிழ்](../ta/prayers/#bpn11269)» 
+bpn11269 
 
 ----
 
@@ -457,7 +458,7 @@ bpn11269 «[தமிழ்](../ta/prayers/#bpn11269)»
 
 -- Abdu'l-Bahá
 
-bpn11270 «[தமிழ்](../ta/prayers/#bpn11270)» 
+bpn11270 
 
 ----
 
@@ -467,7 +468,7 @@ bpn11270 «[தமிழ்](../ta/prayers/#bpn11270)»
 
 -- Abdu'l-Bahá
 
-bpn11271 «[தமிழ்](../ta/prayers/#bpn11271)» 
+bpn11271 
 
 ----
 
@@ -477,7 +478,7 @@ bpn11271 «[தமிழ்](../ta/prayers/#bpn11271)»
 
 -- Abdu'l-Bahá
 
-bpn11272 «[தமிழ்](../ta/prayers/#bpn11272)» 
+bpn11272 
 
 ----
 
@@ -491,7 +492,7 @@ bpn11272 «[தமிழ்](../ta/prayers/#bpn11272)»
 
 -- Abdu'l-Bahá
 
-bpn11280 «[தமிழ்](../ta/prayers/#bpn11280)» 
+bpn11280 
 
 ----
 
@@ -501,7 +502,7 @@ bpn11280 «[தமிழ்](../ta/prayers/#bpn11280)»
 
 -- Abdu'l-Bahá
 
-bpn11281 «[தமிழ்](../ta/prayers/#bpn11281)» 
+bpn11281 
 
 ----
 
@@ -515,7 +516,7 @@ bpn11281 «[தமிழ்](../ta/prayers/#bpn11281)»
 
 -- Abdu'l-Bahá
 
-bpn11263 «[தமிழ்](../ta/prayers/#bpn11263)» 
+bpn11263 
 
 ----
 
@@ -525,7 +526,7 @@ bpn11263 «[தமிழ்](../ta/prayers/#bpn11263)»
 
 -- Abdu'l-Bahá
 
-bpn11264 «[தமிழ்](../ta/prayers/#bpn11264)» 
+bpn11264 
 
 ----
 
@@ -535,7 +536,7 @@ bpn11264 «[தமிழ்](../ta/prayers/#bpn11264)»
 
 -- Abdu'l-Bahá
 
-bpn11265 «[தமிழ்](../ta/prayers/#bpn11265)» 
+bpn11265 
 
 ----
 
@@ -545,7 +546,7 @@ bpn11265 «[தமிழ்](../ta/prayers/#bpn11265)»
 
 -- Abdu'l-Bahá
 
-bpn11266 «[தமிழ்](../ta/prayers/#bpn11266)» 
+bpn11266 
 
 ----
 
@@ -555,7 +556,7 @@ bpn11266 «[தமிழ்](../ta/prayers/#bpn11266)»
 
 -- Abdu'l-Bahá
 
-bpn11267 «[தமிழ்](../ta/prayers/#bpn11267)» 
+bpn11267 
 
 ----
 
@@ -569,7 +570,7 @@ bpn11267 «[தமிழ்](../ta/prayers/#bpn11267)»
 
 -- Bahá'u'lláh
 
-bpn11437 «[தமிழ்](../ta/prayers/#bpn11437)» 
+bpn11437 
 
 ----
 
@@ -579,7 +580,7 @@ bpn11437 «[தமிழ்](../ta/prayers/#bpn11437)»
 
 -- Bahá'u'lláh
 
-bpn11438 «[தமிழ்](../ta/prayers/#bpn11438)» 
+bpn11438 
 
 ----
 
@@ -589,7 +590,7 @@ bpn11438 «[தமிழ்](../ta/prayers/#bpn11438)»
 
 -- Bahá'u'lláh
 
-bpn11439 «[தமிழ்](../ta/prayers/#bpn11439)» 
+bpn11439 
 
 ----
 
@@ -599,7 +600,7 @@ bpn11439 «[தமிழ்](../ta/prayers/#bpn11439)»
 
 -- Bahá'u'lláh
 
-bpn11440 «[தமிழ்](../ta/prayers/#bpn11440)» 
+bpn11440 
 
 ----
 
@@ -609,7 +610,7 @@ bpn11440 «[தமிழ்](../ta/prayers/#bpn11440)»
 
 -- Bahá'u'lláh
 
-bpn11441 «[தமிழ்](../ta/prayers/#bpn11441)» 
+bpn11441 
 
 ----
 
@@ -619,7 +620,7 @@ bpn11441 «[தமிழ்](../ta/prayers/#bpn11441)»
 
 -- Bahá'u'lláh
 
-bpn11442 «[தமிழ்](../ta/prayers/#bpn11442)» 
+bpn11442 
 
 ----
 
@@ -629,7 +630,7 @@ bpn11442 «[தமிழ்](../ta/prayers/#bpn11442)»
 
 -- Bahá'u'lláh
 
-bpn11443 «[தமிழ்](../ta/prayers/#bpn11443)» 
+bpn11443 
 
 ----
 
@@ -639,7 +640,7 @@ bpn11443 «[தமிழ்](../ta/prayers/#bpn11443)»
 
 -- Bahá'u'lláh
 
-bpn11444 «[தமிழ்](../ta/prayers/#bpn11444)» 
+bpn11444 
 
 ----
 
@@ -653,7 +654,7 @@ bpn11444 «[தமிழ்](../ta/prayers/#bpn11444)»
 
 -- Báb
 
-bpn5083 «[தமிழ்](../ta/prayers/#bpn5083)» 
+bpn5083 
 
 ----
 
@@ -663,7 +664,7 @@ bpn5083 «[தமிழ்](../ta/prayers/#bpn5083)»
 
 -- Báb
 
-bpn5085 «[தமிழ்](../ta/prayers/#bpn5085)» 
+bpn5085 
 
 ----
 
@@ -673,7 +674,7 @@ bpn5085 «[தமிழ்](../ta/prayers/#bpn5085)»
 
 -- Abdu'l-Bahá
 
-bpn5084 «[தமிழ்](../ta/prayers/#bpn5084)» 
+bpn5084 
 
 ----
 
@@ -687,7 +688,7 @@ bpn5084 «[தமிழ்](../ta/prayers/#bpn5084)»
 
 -- Bahá'u'lláh
 
-bpn11282 «[தமிழ்](../ta/prayers/#bpn11282)» 
+bpn11282 
 
 ----
 
@@ -697,7 +698,7 @@ bpn11282 «[தமிழ்](../ta/prayers/#bpn11282)»
 
 -- Bahá'u'lláh
 
-bpn11283 «[தமிழ்](../ta/prayers/#bpn11283)» 
+bpn11283 
 
 ----
 
@@ -707,7 +708,7 @@ bpn11283 «[தமிழ்](../ta/prayers/#bpn11283)»
 
 -- Báb
 
-bpn11285 «[தமிழ்](../ta/prayers/#bpn11285)» 
+bpn11285 
 
 ----
 
@@ -717,7 +718,7 @@ bpn11285 «[தமிழ்](../ta/prayers/#bpn11285)»
 
 -- Abdu'l-Bahá
 
-bpn11286 «[தமிழ்](../ta/prayers/#bpn11286)» 
+bpn11286 
 
 ----
 
@@ -727,7 +728,7 @@ bpn11286 «[தமிழ்](../ta/prayers/#bpn11286)»
 
 -- Abdu'l-Bahá
 
-bpn11287 «[தமிழ்](../ta/prayers/#bpn11287)» 
+bpn11287 
 
 ----
 
@@ -737,7 +738,7 @@ bpn11287 «[தமிழ்](../ta/prayers/#bpn11287)»
 
 -- Abdu'l-Bahá
 
-bpn11288 «[தமிழ்](../ta/prayers/#bpn11288)» 
+bpn11288 
 
 ----
 
@@ -751,7 +752,7 @@ bpn11288 «[தமிழ்](../ta/prayers/#bpn11288)»
 
 -- Bahá'u'lláh
 
-bpn11445 «[தமிழ்](../ta/prayers/#bpn11445)» 
+bpn11445 
 
 ----
 
@@ -765,7 +766,7 @@ bpn11445 «[தமிழ்](../ta/prayers/#bpn11445)»
 
 -- Bahá'u'lláh
 
-bpn11289 «[தமிழ்](../ta/prayers/#bpn11289)» 
+bpn11289 
 
 ----
 
@@ -775,7 +776,7 @@ bpn11289 «[தமிழ்](../ta/prayers/#bpn11289)»
 
 -- Bahá'u'lláh
 
-bpn11290 «[தமிழ்](../ta/prayers/#bpn11290)» 
+bpn11290 
 
 ----
 
@@ -785,7 +786,7 @@ bpn11290 «[தமிழ்](../ta/prayers/#bpn11290)»
 
 -- Abdu'l-Bahá
 
-bpn11291 «[தமிழ்](../ta/prayers/#bpn11291)» 
+bpn11291 
 
 ----
 
@@ -795,7 +796,7 @@ bpn11291 «[தமிழ்](../ta/prayers/#bpn11291)»
 
 -- Abdu'l-Bahá
 
-bpn11292 «[தமிழ்](../ta/prayers/#bpn11292)» 
+bpn11292 
 
 ----
 
@@ -805,7 +806,7 @@ bpn11292 «[தமிழ்](../ta/prayers/#bpn11292)»
 
 -- Abdu'l-Bahá
 
-bpn11293 «[தமிழ்](../ta/prayers/#bpn11293)» 
+bpn11293 
 
 ----
 
@@ -819,7 +820,7 @@ bpn11293 «[தமிழ்](../ta/prayers/#bpn11293)»
 
 -- Bahá'u'lláh
 
-bpn11294 «[தமிழ்](../ta/prayers/#bpn11294)» 
+bpn11294 
 
 ----
 
@@ -829,7 +830,7 @@ bpn11294 «[தமிழ்](../ta/prayers/#bpn11294)»
 
 -- Abdu'l-Bahá
 
-bpn11295 «[தமிழ்](../ta/prayers/#bpn11295)» 
+bpn11295 
 
 ----
 
@@ -843,7 +844,7 @@ bpn11295 «[தமிழ்](../ta/prayers/#bpn11295)»
 
 -- Abdu'l-Bahá
 
-bpn11303 «[தமிழ்](../ta/prayers/#bpn11303)» 
+bpn11303 
 
 ----
 
@@ -857,7 +858,7 @@ bpn11303 «[தமிழ்](../ta/prayers/#bpn11303)»
 
 -- Báb
 
-bpn11284 «[தமிழ்](../ta/prayers/#bpn11284)» 
+bpn11284 
 
 ----
 
@@ -871,7 +872,7 @@ bpn11284 «[தமிழ்](../ta/prayers/#bpn11284)»
 
 -- Bahá'u'lláh
 
-bpn5086 «[தமிழ்](../ta/prayers/#bpn5086)» 
+bpn5086 
 
 ----
 
@@ -881,7 +882,7 @@ bpn5086 «[தமிழ்](../ta/prayers/#bpn5086)»
 
 -- Bahá'u'lláh
 
-bpn11277 «[தமிழ்](../ta/prayers/#bpn11277)» 
+bpn11277 
 
 ----
 
@@ -891,7 +892,7 @@ bpn11277 «[தமிழ்](../ta/prayers/#bpn11277)»
 
 -- Bahá'u'lláh
 
-bpn11304 «[தமிழ்](../ta/prayers/#bpn11304)» 
+bpn11304 
 
 ----
 
@@ -901,7 +902,7 @@ bpn11304 «[தமிழ்](../ta/prayers/#bpn11304)»
 
 -- Bahá'u'lláh
 
-bpn11305 «[தமிழ்](../ta/prayers/#bpn11305)» 
+bpn11305 
 
 ----
 
@@ -911,7 +912,7 @@ bpn11305 «[தமிழ்](../ta/prayers/#bpn11305)»
 
 -- Bahá'u'lláh
 
-bpn11306 «[தமிழ்](../ta/prayers/#bpn11306)» 
+bpn11306 
 
 ----
 
@@ -921,7 +922,7 @@ bpn11306 «[தமிழ்](../ta/prayers/#bpn11306)»
 
 -- Bahá'u'lláh
 
-bpn11307 «[தமிழ்](../ta/prayers/#bpn11307)» 
+bpn11307 
 
 ----
 
@@ -931,7 +932,7 @@ bpn11307 «[தமிழ்](../ta/prayers/#bpn11307)»
 
 -- Báb
 
-bpn11278 «[தமிழ்](../ta/prayers/#bpn11278)» 
+bpn11278 
 
 ----
 
@@ -941,7 +942,7 @@ bpn11278 «[தமிழ்](../ta/prayers/#bpn11278)»
 
 -- Báb
 
-bpn11279 «[தமிழ்](../ta/prayers/#bpn11279)» 
+bpn11279 
 
 ----
 
@@ -955,7 +956,7 @@ bpn11279 «[தமிழ்](../ta/prayers/#bpn11279)»
 
 -- Bahá'u'lláh
 
-bpn11308 «[தமிழ்](../ta/prayers/#bpn11308)» 
+bpn11308 
 
 ----
 
@@ -969,7 +970,7 @@ bpn11308 «[தமிழ்](../ta/prayers/#bpn11308)»
 
 -- Bahá'u'lláh
 
-bpn11310 «[தமிழ்](../ta/prayers/#bpn11310)» 
+bpn11310 
 
 ----
 
@@ -979,7 +980,7 @@ bpn11310 «[தமிழ்](../ta/prayers/#bpn11310)»
 
 -- Abdu'l-Bahá
 
-bpn5087 «[தமிழ்](../ta/prayers/#bpn5087)» 
+bpn5087 
 
 ----
 
@@ -989,7 +990,7 @@ bpn5087 «[தமிழ்](../ta/prayers/#bpn5087)»
 
 -- Abdu'l-Bahá
 
-bpn5088 «[தமிழ்](../ta/prayers/#bpn5088)» 
+bpn5088 
 
 ----
 
@@ -999,7 +1000,7 @@ bpn5088 «[தமிழ்](../ta/prayers/#bpn5088)»
 
 -- Abdu'l-Bahá
 
-bpn11311 «[தமிழ்](../ta/prayers/#bpn11311)» 
+bpn11311 
 
 ----
 
@@ -1009,7 +1010,7 @@ bpn11311 «[தமிழ்](../ta/prayers/#bpn11311)»
 
 -- Abdu'l-Bahá
 
-bpn11312 «[தமிழ்](../ta/prayers/#bpn11312)» 
+bpn11312 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn11312 «[தமிழ்](../ta/prayers/#bpn11312)»
 
 -- Abdu'l-Bahá
 
-bpn11313 «[தமிழ்](../ta/prayers/#bpn11313)» 
+bpn11313 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn11313 «[தமிழ்](../ta/prayers/#bpn11313)»
 
 -- Abdu'l-Bahá
 
-bpn11314 «[தமிழ்](../ta/prayers/#bpn11314)» 
+bpn11314 
 
 ----
 
@@ -1039,7 +1040,7 @@ bpn11314 «[தமிழ்](../ta/prayers/#bpn11314)»
 
 -- Abdu'l-Bahá
 
-bpn11315 «[தமிழ்](../ta/prayers/#bpn11315)» 
+bpn11315 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn11315 «[தமிழ்](../ta/prayers/#bpn11315)»
 
 -- Abdu'l-Bahá
 
-bpn11316 «[தமிழ்](../ta/prayers/#bpn11316)» 
+bpn11316 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn11316 «[தமிழ்](../ta/prayers/#bpn11316)»
 
 -- Abdu'l-Bahá
 
-bpn11317 «[தமிழ்](../ta/prayers/#bpn11317)» 
+bpn11317 
 
 ----
 
@@ -1069,7 +1070,7 @@ bpn11317 «[தமிழ்](../ta/prayers/#bpn11317)»
 
 -- Abdu'l-Bahá
 
-bpn11318 «[தமிழ்](../ta/prayers/#bpn11318)» 
+bpn11318 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn11318 «[தமிழ்](../ta/prayers/#bpn11318)»
 
 -- Abdu'l-Bahá
 
-bpn11319 «[தமிழ்](../ta/prayers/#bpn11319)» 
+bpn11319 
 
 ----
 
@@ -1089,7 +1090,7 @@ bpn11319 «[தமிழ்](../ta/prayers/#bpn11319)»
 
 -- Abdu'l-Bahá
 
-bpn11320 «[தமிழ்](../ta/prayers/#bpn11320)» 
+bpn11320 
 
 ----
 
@@ -1103,7 +1104,7 @@ bpn11320 «[தமிழ்](../ta/prayers/#bpn11320)»
 
 -- Bahá'u'lláh
 
-bpn11324 «[தமிழ்](../ta/prayers/#bpn11324)» 
+bpn11324 
 
 ----
 
@@ -1113,7 +1114,7 @@ bpn11324 «[தமிழ்](../ta/prayers/#bpn11324)»
 
 -- Abdu'l-Bahá
 
-bpn11325 «[தமிழ்](../ta/prayers/#bpn11325)» 
+bpn11325 
 
 ----
 
@@ -1123,7 +1124,7 @@ bpn11325 «[தமிழ்](../ta/prayers/#bpn11325)»
 
 -- Abdu'l-Bahá
 
-bpn11326 «[தமிழ்](../ta/prayers/#bpn11326)» 
+bpn11326 
 
 ----
 
@@ -1133,7 +1134,7 @@ bpn11326 «[தமிழ்](../ta/prayers/#bpn11326)»
 
 -- Abdu'l-Bahá
 
-bpn11327 «[தமிழ்](../ta/prayers/#bpn11327)» 
+bpn11327 
 
 ----
 
@@ -1143,7 +1144,7 @@ bpn11327 «[தமிழ்](../ta/prayers/#bpn11327)»
 
 -- Abdu'l-Bahá
 
-bpn11328 «[தமிழ்](../ta/prayers/#bpn11328)» 
+bpn11328 
 
 ----
 
@@ -1153,7 +1154,7 @@ bpn11328 «[தமிழ்](../ta/prayers/#bpn11328)»
 
 -- Abdu'l-Bahá
 
-bpn11329 «[தமிழ்](../ta/prayers/#bpn11329)» 
+bpn11329 
 
 ----
 
@@ -1167,7 +1168,7 @@ bpn11329 «[தமிழ்](../ta/prayers/#bpn11329)»
 
 -- Bahá'u'lláh
 
-bpn11331 «[தமிழ்](../ta/prayers/#bpn11331)» 
+bpn11331 
 
 ----
 
@@ -1177,7 +1178,7 @@ bpn11331 «[தமிழ்](../ta/prayers/#bpn11331)»
 
 -- Bahá'u'lláh
 
-bpn11332 «[தமிழ்](../ta/prayers/#bpn11332)» 
+bpn11332 
 
 ----
 
@@ -1187,7 +1188,7 @@ bpn11332 «[தமிழ்](../ta/prayers/#bpn11332)»
 
 -- Bahá'u'lláh
 
-bpn11333 «[தமிழ்](../ta/prayers/#bpn11333)» 
+bpn11333 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn11333 «[தமிழ்](../ta/prayers/#bpn11333)»
 
 -- Báb
 
-bpn11334 «[தமிழ்](../ta/prayers/#bpn11334)» 
+bpn11334 
 
 ----
 
@@ -1207,7 +1208,7 @@ bpn11334 «[தமிழ்](../ta/prayers/#bpn11334)»
 
 -- Báb
 
-bpn11335 «[தமிழ்](../ta/prayers/#bpn11335)» 
+bpn11335 
 
 ----
 
@@ -1217,7 +1218,7 @@ bpn11335 «[தமிழ்](../ta/prayers/#bpn11335)»
 
 -- Báb
 
-bpn11336 «[தமிழ்](../ta/prayers/#bpn11336)» 
+bpn11336 
 
 ----
 
@@ -1227,7 +1228,7 @@ bpn11336 «[தமிழ்](../ta/prayers/#bpn11336)»
 
 -- Báb
 
-bpn11337 «[தமிழ்](../ta/prayers/#bpn11337)» 
+bpn11337 
 
 ----
 
@@ -1237,7 +1238,7 @@ bpn11337 «[தமிழ்](../ta/prayers/#bpn11337)»
 
 -- Abdu'l-Bahá
 
-bpn11338 «[தமிழ்](../ta/prayers/#bpn11338)» 
+bpn11338 
 
 ----
 
@@ -1247,7 +1248,7 @@ bpn11338 «[தமிழ்](../ta/prayers/#bpn11338)»
 
 -- Abdu'l-Bahá
 
-bpn11339 «[தமிழ்](../ta/prayers/#bpn11339)» 
+bpn11339 
 
 ----
 
@@ -1261,7 +1262,7 @@ bpn11339 «[தமிழ்](../ta/prayers/#bpn11339)»
 
 -- Bahá'u'lláh
 
-bpn5082 «[தமிழ்](../ta/prayers/#bpn5082)» 
+bpn5082 
 
 ----
 
@@ -1275,7 +1276,7 @@ bpn5082 «[தமிழ்](../ta/prayers/#bpn5082)»
 
 -- Bahá'u'lláh
 
-bpn11340 «[தமிழ்](../ta/prayers/#bpn11340)» 
+bpn11340 
 
 ----
 
@@ -1285,7 +1286,7 @@ bpn11340 «[தமிழ்](../ta/prayers/#bpn11340)»
 
 -- Bahá'u'lláh
 
-bpn11341 «[தமிழ்](../ta/prayers/#bpn11341)» 
+bpn11341 
 
 ----
 
@@ -1299,7 +1300,7 @@ bpn11341 «[தமிழ்](../ta/prayers/#bpn11341)»
 
 -- Bahá'u'lláh
 
-bpn11342 «[தமிழ்](../ta/prayers/#bpn11342)» 
+bpn11342 
 
 ----
 
@@ -1309,7 +1310,7 @@ bpn11342 «[தமிழ்](../ta/prayers/#bpn11342)»
 
 -- Bahá'u'lláh
 
-bpn11343 «[தமிழ்](../ta/prayers/#bpn11343)» 
+bpn11343 
 
 ----
 
@@ -1319,7 +1320,7 @@ bpn11343 «[தமிழ்](../ta/prayers/#bpn11343)»
 
 -- Bahá'u'lláh
 
-bpn11344 «[தமிழ்](../ta/prayers/#bpn11344)» 
+bpn11344 
 
 ----
 
@@ -1329,7 +1330,7 @@ bpn11344 «[தமிழ்](../ta/prayers/#bpn11344)»
 
 -- Bahá'u'lláh
 
-bpn11345 «[தமிழ்](../ta/prayers/#bpn11345)» 
+bpn11345 
 
 ----
 
@@ -1339,7 +1340,7 @@ bpn11345 «[தமிழ்](../ta/prayers/#bpn11345)»
 
 -- Bahá'u'lláh
 
-bpn11346 «[தமிழ்](../ta/prayers/#bpn11346)» 
+bpn11346 
 
 ----
 
@@ -1349,7 +1350,7 @@ bpn11346 «[தமிழ்](../ta/prayers/#bpn11346)»
 
 -- Báb
 
-bpn11347 «[தமிழ்](../ta/prayers/#bpn11347)» 
+bpn11347 
 
 ----
 
@@ -1359,7 +1360,7 @@ bpn11347 «[தமிழ்](../ta/prayers/#bpn11347)»
 
 -- Báb
 
-bpn11348 «[தமிழ்](../ta/prayers/#bpn11348)» 
+bpn11348 
 
 ----
 
@@ -1369,7 +1370,7 @@ bpn11348 «[தமிழ்](../ta/prayers/#bpn11348)»
 
 -- Báb
 
-bpn11349 «[தமிழ்](../ta/prayers/#bpn11349)» 
+bpn11349 
 
 ----
 
@@ -1383,7 +1384,7 @@ bpn11349 «[தமிழ்](../ta/prayers/#bpn11349)»
 
 -- Abdu'l-Bahá
 
-bpn11400 «[தமிழ்](../ta/prayers/#bpn11400)» 
+bpn11400 
 
 ----
 
@@ -1397,7 +1398,7 @@ bpn11400 «[தமிழ்](../ta/prayers/#bpn11400)»
 
 -- Bahá'u'lláh
 
-bpn11350 «[தமிழ்](../ta/prayers/#bpn11350)» 
+bpn11350 
 
 ----
 
@@ -1407,7 +1408,7 @@ bpn11350 «[தமிழ்](../ta/prayers/#bpn11350)»
 
 -- Abdu'l-Bahá
 
-bpn11351 «[தமிழ்](../ta/prayers/#bpn11351)» 
+bpn11351 
 
 ----
 
@@ -1417,7 +1418,7 @@ bpn11351 «[தமிழ்](../ta/prayers/#bpn11351)»
 
 -- Abdu'l-Bahá
 
-bpn11352 «[தமிழ்](../ta/prayers/#bpn11352)» 
+bpn11352 
 
 ----
 
@@ -1427,7 +1428,7 @@ bpn11352 «[தமிழ்](../ta/prayers/#bpn11352)»
 
 -- Abdu'l-Bahá
 
-bpn11353 «[தமிழ்](../ta/prayers/#bpn11353)» 
+bpn11353 
 
 ----
 
@@ -1441,7 +1442,7 @@ bpn11353 «[தமிழ்](../ta/prayers/#bpn11353)»
 
 -- Abdu'l-Bahá
 
-bpn11408 «[தமிழ்](../ta/prayers/#bpn11408)» 
+bpn11408 
 
 ----
 
@@ -1451,7 +1452,7 @@ bpn11408 «[தமிழ்](../ta/prayers/#bpn11408)»
 
 -- Abdu'l-Bahá
 
-bpn11409 «[தமிழ்](../ta/prayers/#bpn11409)» 
+bpn11409 
 
 ----
 
@@ -1461,7 +1462,7 @@ bpn11409 «[தமிழ்](../ta/prayers/#bpn11409)»
 
 -- Abdu'l-Bahá
 
-bpn11410 «[தமிழ்](../ta/prayers/#bpn11410)» 
+bpn11410 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn11410 «[தமிழ்](../ta/prayers/#bpn11410)»
 
 -- Abdu'l-Bahá
 
-bpn11411 «[தமிழ்](../ta/prayers/#bpn11411)» 
+bpn11411 
 
 ----
 
@@ -1481,7 +1482,7 @@ bpn11411 «[தமிழ்](../ta/prayers/#bpn11411)»
 
 -- Abdu'l-Bahá
 
-bpn11412 «[தமிழ்](../ta/prayers/#bpn11412)» 
+bpn11412 
 
 ----
 
@@ -1491,7 +1492,7 @@ bpn11412 «[தமிழ்](../ta/prayers/#bpn11412)»
 
 -- Abdu'l-Bahá
 
-bpn11413 «[தமிழ்](../ta/prayers/#bpn11413)» 
+bpn11413 
 
 ----
 
@@ -1501,7 +1502,7 @@ bpn11413 «[தமிழ்](../ta/prayers/#bpn11413)»
 
 -- Abdu'l-Bahá
 
-bpn11414 «[தமிழ்](../ta/prayers/#bpn11414)» 
+bpn11414 
 
 ----
 
@@ -1511,7 +1512,7 @@ bpn11414 «[தமிழ்](../ta/prayers/#bpn11414)»
 
 -- Abdu'l-Bahá
 
-bpn11415 «[தமிழ்](../ta/prayers/#bpn11415)» 
+bpn11415 
 
 ----
 
@@ -1521,7 +1522,7 @@ bpn11415 «[தமிழ்](../ta/prayers/#bpn11415)»
 
 -- Abdu'l-Bahá
 
-bpn11416 «[தமிழ்](../ta/prayers/#bpn11416)» 
+bpn11416 
 
 ----
 
@@ -1531,7 +1532,7 @@ bpn11416 «[தமிழ்](../ta/prayers/#bpn11416)»
 
 -- Abdu'l-Bahá
 
-bpn11417 «[தமிழ்](../ta/prayers/#bpn11417)» 
+bpn11417 
 
 ----
 
@@ -1545,7 +1546,7 @@ bpn11417 «[தமிழ்](../ta/prayers/#bpn11417)»
 
 -- Bahá'u'lláh
 
-bpn11432 «[தமிழ்](../ta/prayers/#bpn11432)» 
+bpn11432 
 
 ----
 
@@ -1559,7 +1560,7 @@ bpn11432 «[தமிழ்](../ta/prayers/#bpn11432)»
 
 -- Abdu'l-Bahá
 
-bpn11262 «[தமிழ்](../ta/prayers/#bpn11262)» 
+bpn11262 
 
 ----
 
@@ -1573,7 +1574,7 @@ bpn11262 «[தமிழ்](../ta/prayers/#bpn11262)»
 
 -- Bahá'u'lláh
 
-bpn11446 «[தமிழ்](../ta/prayers/#bpn11446)» 
+bpn11446 
 
 ----
 
@@ -1587,7 +1588,7 @@ bpn11446 «[தமிழ்](../ta/prayers/#bpn11446)»
 
 -- Abdu'l-Bahá
 
-bpn11354 «[தமிழ்](../ta/prayers/#bpn11354)» 
+bpn11354 
 
 ----
 
@@ -1601,7 +1602,7 @@ bpn11354 «[தமிழ்](../ta/prayers/#bpn11354)»
 
 -- Bahá'u'lláh
 
-bpn11433 «[தமிழ்](../ta/prayers/#bpn11433)» 
+bpn11433 
 
 ----
 
@@ -1615,7 +1616,7 @@ bpn11433 «[தமிழ்](../ta/prayers/#bpn11433)»
 
 -- Bahá'u'lláh
 
-bpn11309 «[தமிழ்](../ta/prayers/#bpn11309)» 
+bpn11309 
 
 ----
 
@@ -1629,7 +1630,7 @@ bpn11309 «[தமிழ்](../ta/prayers/#bpn11309)»
 
 -- Bahá'u'lláh
 
-bpn11449 «[தமிழ்](../ta/prayers/#bpn11449)» 
+bpn11449 
 
 ----
 
@@ -1643,7 +1644,7 @@ bpn11449 «[தமிழ்](../ta/prayers/#bpn11449)»
 
 -- Bahá'u'lláh
 
-bpn11450 «[தமிழ்](../ta/prayers/#bpn11450)» 
+bpn11450 
 
 ----
 
@@ -1657,7 +1658,7 @@ bpn11450 «[தமிழ்](../ta/prayers/#bpn11450)»
 
 -- Bahá'u'lláh
 
-bpn11321 «[தமிழ்](../ta/prayers/#bpn11321)» 
+bpn11321 
 
 ----
 
@@ -1667,7 +1668,7 @@ bpn11321 «[தமிழ்](../ta/prayers/#bpn11321)»
 
 -- Abdu'l-Bahá
 
-bpn11322 «[தமிழ்](../ta/prayers/#bpn11322)» 
+bpn11322 
 
 ----
 
@@ -1677,7 +1678,7 @@ bpn11322 «[தமிழ்](../ta/prayers/#bpn11322)»
 
 -- Abdu'l-Bahá
 
-bpn11323 «[தமிழ்](../ta/prayers/#bpn11323)» 
+bpn11323 
 
 ----
 
@@ -1691,7 +1692,7 @@ bpn11323 «[தமிழ்](../ta/prayers/#bpn11323)»
 
 -- Abdu'l-Bahá
 
-bpn11330 «[தமிழ்](../ta/prayers/#bpn11330)» 
+bpn11330 
 
 ----
 
@@ -1705,7 +1706,7 @@ bpn11330 «[தமிழ்](../ta/prayers/#bpn11330)»
 
 -- Bahá'u'lláh
 
-bpn11298 «[தமிழ்](../ta/prayers/#bpn11298)» 
+bpn11298 
 
 ----
 
@@ -1715,7 +1716,7 @@ bpn11298 «[தமிழ்](../ta/prayers/#bpn11298)»
 
 -- Bahá'u'lláh
 
-bpn11299 «[தமிழ்](../ta/prayers/#bpn11299)» 
+bpn11299 
 
 ----
 
@@ -1729,7 +1730,7 @@ bpn11299 «[தமிழ்](../ta/prayers/#bpn11299)»
 
 -- Bahá'u'lláh
 
-bpn11355 «[தமிழ்](../ta/prayers/#bpn11355)» 
+bpn11355 
 
 ----
 
@@ -1739,7 +1740,7 @@ bpn11355 «[தமிழ்](../ta/prayers/#bpn11355)»
 
 -- Bahá'u'lláh
 
-bpn11356 «[தமிழ்](../ta/prayers/#bpn11356)» 
+bpn11356 
 
 ----
 
@@ -1749,7 +1750,7 @@ bpn11356 «[தமிழ்](../ta/prayers/#bpn11356)»
 
 -- Bahá'u'lláh
 
-bpn11357 «[தமிழ்](../ta/prayers/#bpn11357)» 
+bpn11357 
 
 ----
 
@@ -1759,7 +1760,7 @@ bpn11357 «[தமிழ்](../ta/prayers/#bpn11357)»
 
 -- Bahá'u'lláh
 
-bpn11358 «[தமிழ்](../ta/prayers/#bpn11358)» 
+bpn11358 
 
 ----
 
@@ -1769,7 +1770,7 @@ bpn11358 «[தமிழ்](../ta/prayers/#bpn11358)»
 
 -- Bahá'u'lláh
 
-bpn11359 «[தமிழ்](../ta/prayers/#bpn11359)» 
+bpn11359 
 
 ----
 
@@ -1779,7 +1780,7 @@ bpn11359 «[தமிழ்](../ta/prayers/#bpn11359)»
 
 -- Bahá'u'lláh
 
-bpn11360 «[தமிழ்](../ta/prayers/#bpn11360)» 
+bpn11360 
 
 ----
 
@@ -1789,7 +1790,7 @@ bpn11360 «[தமிழ்](../ta/prayers/#bpn11360)»
 
 -- Báb
 
-bpn11361 «[தமிழ்](../ta/prayers/#bpn11361)» 
+bpn11361 
 
 ----
 
@@ -1799,7 +1800,7 @@ bpn11361 «[தமிழ்](../ta/prayers/#bpn11361)»
 
 -- Báb
 
-bpn11362 «[தமிழ்](../ta/prayers/#bpn11362)» 
+bpn11362 
 
 ----
 
@@ -1809,7 +1810,7 @@ bpn11362 «[தமிழ்](../ta/prayers/#bpn11362)»
 
 -- Báb
 
-bpn11363 «[தமிழ்](../ta/prayers/#bpn11363)» 
+bpn11363 
 
 ----
 
@@ -1819,7 +1820,7 @@ bpn11363 «[தமிழ்](../ta/prayers/#bpn11363)»
 
 -- Abdu'l-Bahá
 
-bpn11364 «[தமிழ்](../ta/prayers/#bpn11364)» 
+bpn11364 
 
 ----
 
@@ -1829,7 +1830,7 @@ bpn11364 «[தமிழ்](../ta/prayers/#bpn11364)»
 
 -- Abdu'l-Bahá
 
-bpn11365 «[தமிழ்](../ta/prayers/#bpn11365)» 
+bpn11365 
 
 ----
 
@@ -1843,7 +1844,7 @@ bpn11365 «[தமிழ்](../ta/prayers/#bpn11365)»
 
 -- Bahá'u'lláh
 
-bpn11366 «[தமிழ்](../ta/prayers/#bpn11366)» 
+bpn11366 
 
 ----
 
@@ -1853,7 +1854,7 @@ bpn11366 «[தமிழ்](../ta/prayers/#bpn11366)»
 
 -- Bahá'u'lláh
 
-bpn11367 «[தமிழ்](../ta/prayers/#bpn11367)» 
+bpn11367 
 
 ----
 
@@ -1863,7 +1864,7 @@ bpn11367 «[தமிழ்](../ta/prayers/#bpn11367)»
 
 -- Bahá'u'lláh
 
-bpn11368 «[தமிழ்](../ta/prayers/#bpn11368)» 
+bpn11368 
 
 ----
 
@@ -1873,7 +1874,7 @@ bpn11368 «[தமிழ்](../ta/prayers/#bpn11368)»
 
 -- Bahá'u'lláh
 
-bpn11369 «[தமிழ்](../ta/prayers/#bpn11369)» 
+bpn11369 
 
 ----
 
@@ -1883,7 +1884,7 @@ bpn11369 «[தமிழ்](../ta/prayers/#bpn11369)»
 
 -- Bahá'u'lláh
 
-bpn11370 «[தமிழ்](../ta/prayers/#bpn11370)» 
+bpn11370 
 
 ----
 
@@ -1893,7 +1894,7 @@ bpn11370 «[தமிழ்](../ta/prayers/#bpn11370)»
 
 -- Báb
 
-bpn11371 «[தமிழ்](../ta/prayers/#bpn11371)» 
+bpn11371 
 
 ----
 
@@ -1903,7 +1904,7 @@ bpn11371 «[தமிழ்](../ta/prayers/#bpn11371)»
 
 -- Báb
 
-bpn11372 «[தமிழ்](../ta/prayers/#bpn11372)» 
+bpn11372 
 
 ----
 
@@ -1913,7 +1914,7 @@ bpn11372 «[தமிழ்](../ta/prayers/#bpn11372)»
 
 -- Abdu'l-Bahá
 
-bpn11373 «[தமிழ்](../ta/prayers/#bpn11373)» 
+bpn11373 
 
 ----
 
@@ -1923,7 +1924,7 @@ bpn11373 «[தமிழ்](../ta/prayers/#bpn11373)»
 
 -- Abdu'l-Bahá
 
-bpn11374 «[தமிழ்](../ta/prayers/#bpn11374)» 
+bpn11374 
 
 ----
 
@@ -1937,7 +1938,7 @@ bpn11374 «[தமிழ்](../ta/prayers/#bpn11374)»
 
 -- Bahá'u'lláh
 
-bpn11375 «[தமிழ்](../ta/prayers/#bpn11375)» 
+bpn11375 
 
 ----
 
@@ -1947,7 +1948,7 @@ bpn11375 «[தமிழ்](../ta/prayers/#bpn11375)»
 
 -- Bahá'u'lláh
 
-bpn11376 «[தமிழ்](../ta/prayers/#bpn11376)» 
+bpn11376 
 
 ----
 
@@ -1957,7 +1958,7 @@ bpn11376 «[தமிழ்](../ta/prayers/#bpn11376)»
 
 -- Bahá'u'lláh
 
-bpn11377 «[தமிழ்](../ta/prayers/#bpn11377)» 
+bpn11377 
 
 ----
 
@@ -1967,7 +1968,7 @@ bpn11377 «[தமிழ்](../ta/prayers/#bpn11377)»
 
 -- Bahá'u'lláh
 
-bpn11378 «[தமிழ்](../ta/prayers/#bpn11378)» 
+bpn11378 
 
 ----
 
@@ -1977,7 +1978,7 @@ bpn11378 «[தமிழ்](../ta/prayers/#bpn11378)»
 
 -- Bahá'u'lláh
 
-bpn11379 «[தமிழ்](../ta/prayers/#bpn11379)» 
+bpn11379 
 
 ----
 
@@ -1987,7 +1988,7 @@ bpn11379 «[தமிழ்](../ta/prayers/#bpn11379)»
 
 -- Bahá'u'lláh
 
-bpn11386 «[தமிழ்](../ta/prayers/#bpn11386)» 
+bpn11386 
 
 ----
 
@@ -1997,7 +1998,7 @@ bpn11386 «[தமிழ்](../ta/prayers/#bpn11386)»
 
 -- Báb
 
-bpn11380 «[தமிழ்](../ta/prayers/#bpn11380)» 
+bpn11380 
 
 ----
 
@@ -2007,7 +2008,7 @@ bpn11380 «[தமிழ்](../ta/prayers/#bpn11380)»
 
 -- Báb
 
-bpn11381 «[தமிழ்](../ta/prayers/#bpn11381)» 
+bpn11381 
 
 ----
 
@@ -2017,7 +2018,7 @@ bpn11381 «[தமிழ்](../ta/prayers/#bpn11381)»
 
 -- Báb
 
-bpn11382 «[தமிழ்](../ta/prayers/#bpn11382)» 
+bpn11382 
 
 ----
 
@@ -2027,7 +2028,7 @@ bpn11382 «[தமிழ்](../ta/prayers/#bpn11382)»
 
 -- Abdu'l-Bahá
 
-bpn11383 «[தமிழ்](../ta/prayers/#bpn11383)» 
+bpn11383 
 
 ----
 
@@ -2037,7 +2038,7 @@ bpn11383 «[தமிழ்](../ta/prayers/#bpn11383)»
 
 -- Abdu'l-Bahá
 
-bpn11384 «[தமிழ்](../ta/prayers/#bpn11384)» 
+bpn11384 
 
 ----
 
@@ -2047,7 +2048,7 @@ bpn11384 «[தமிழ்](../ta/prayers/#bpn11384)»
 
 -- Abdu'l-Bahá
 
-bpn11385 «[தமிழ்](../ta/prayers/#bpn11385)» 
+bpn11385 
 
 ----
 
@@ -2061,7 +2062,7 @@ bpn11385 «[தமிழ்](../ta/prayers/#bpn11385)»
 
 -- Bahá'u'lláh
 
-bpn11387 «[தமிழ்](../ta/prayers/#bpn11387)» 
+bpn11387 
 
 ----
 
@@ -2071,7 +2072,7 @@ bpn11387 «[தமிழ்](../ta/prayers/#bpn11387)»
 
 -- Bahá'u'lláh
 
-bpn11388 «[தமிழ்](../ta/prayers/#bpn11388)» 
+bpn11388 
 
 ----
 
@@ -2081,7 +2082,7 @@ bpn11388 «[தமிழ்](../ta/prayers/#bpn11388)»
 
 -- Bahá'u'lláh
 
-bpn11389 «[தமிழ்](../ta/prayers/#bpn11389)» 
+bpn11389 
 
 ----
 
@@ -2091,7 +2092,7 @@ bpn11389 «[தமிழ்](../ta/prayers/#bpn11389)»
 
 -- Bahá'u'lláh
 
-bpn11390 «[தமிழ்](../ta/prayers/#bpn11390)» 
+bpn11390 
 
 ----
 
@@ -2101,7 +2102,7 @@ bpn11390 «[தமிழ்](../ta/prayers/#bpn11390)»
 
 -- Báb
 
-bpn11391 «[தமிழ்](../ta/prayers/#bpn11391)» 
+bpn11391 
 
 ----
 
@@ -2115,7 +2116,7 @@ bpn11391 «[தமிழ்](../ta/prayers/#bpn11391)»
 
 -- Bahá'u'lláh
 
-bpn11452 «[தமிழ்](../ta/prayers/#bpn11452)» 
+bpn11452 
 
 ----
 
@@ -2129,7 +2130,7 @@ bpn11452 «[தமிழ்](../ta/prayers/#bpn11452)»
 
 -- Bahá'u'lláh
 
-bpn11268 «[தமிழ்](../ta/prayers/#bpn11268)» 
+bpn11268 
 
 ----
 
@@ -2143,7 +2144,7 @@ bpn11268 «[தமிழ்](../ta/prayers/#bpn11268)»
 
 -- Bahá'u'lláh
 
-bpn11392 «[தமிழ்](../ta/prayers/#bpn11392)» 
+bpn11392 
 
 ----
 
@@ -2153,7 +2154,7 @@ bpn11392 «[தமிழ்](../ta/prayers/#bpn11392)»
 
 -- Bahá'u'lláh
 
-bpn11393 «[தமிழ்](../ta/prayers/#bpn11393)» 
+bpn11393 
 
 ----
 
@@ -2163,7 +2164,7 @@ bpn11393 «[தமிழ்](../ta/prayers/#bpn11393)»
 
 -- Bahá'u'lláh
 
-bpn11394 «[தமிழ்](../ta/prayers/#bpn11394)» 
+bpn11394 
 
 ----
 
@@ -2173,7 +2174,7 @@ bpn11394 «[தமிழ்](../ta/prayers/#bpn11394)»
 
 -- Bahá'u'lláh
 
-bpn11395 «[தமிழ்](../ta/prayers/#bpn11395)» 
+bpn11395 
 
 ----
 
@@ -2183,7 +2184,7 @@ bpn11395 «[தமிழ்](../ta/prayers/#bpn11395)»
 
 -- Bahá'u'lláh
 
-bpn11396 «[தமிழ்](../ta/prayers/#bpn11396)» 
+bpn11396 
 
 ----
 
@@ -2193,7 +2194,7 @@ bpn11396 «[தமிழ்](../ta/prayers/#bpn11396)»
 
 -- Bahá'u'lláh
 
-bpn11397 «[தமிழ்](../ta/prayers/#bpn11397)» 
+bpn11397 
 
 ----
 
@@ -2203,7 +2204,7 @@ bpn11397 «[தமிழ்](../ta/prayers/#bpn11397)»
 
 -- Bahá'u'lláh
 
-bpn11398 «[தமிழ்](../ta/prayers/#bpn11398)» 
+bpn11398 
 
 ----
 
@@ -2213,7 +2214,7 @@ bpn11398 «[தமிழ்](../ta/prayers/#bpn11398)»
 
 -- Abdu'l-Bahá
 
-bpn11399 «[தமிழ்](../ta/prayers/#bpn11399)» 
+bpn11399 
 
 ----
 
@@ -2227,7 +2228,7 @@ bpn11399 «[தமிழ்](../ta/prayers/#bpn11399)»
 
 -- Báb
 
-bpn11300 «[தமிழ்](../ta/prayers/#bpn11300)» 
+bpn11300 
 
 ----
 
@@ -2237,7 +2238,7 @@ bpn11300 «[தமிழ்](../ta/prayers/#bpn11300)»
 
 -- Báb
 
-bpn11301 «[தமிழ்](../ta/prayers/#bpn11301)» 
+bpn11301 
 
 ----
 
@@ -2247,7 +2248,7 @@ bpn11301 «[தமிழ்](../ta/prayers/#bpn11301)»
 
 -- Abdu'l-Bahá
 
-bpn11302 «[தமிழ்](../ta/prayers/#bpn11302)» 
+bpn11302 
 
 ----
 
@@ -2261,7 +2262,7 @@ bpn11302 «[தமிழ்](../ta/prayers/#bpn11302)»
 
 -- Bahá'u'lláh
 
-bpn11401 «[தமிழ்](../ta/prayers/#bpn11401)» 
+bpn11401 
 
 ----
 
@@ -2271,7 +2272,7 @@ bpn11401 «[தமிழ்](../ta/prayers/#bpn11401)»
 
 -- Bahá'u'lláh
 
-bpn11402 «[தமிழ்](../ta/prayers/#bpn11402)» 
+bpn11402 
 
 ----
 
@@ -2281,7 +2282,7 @@ bpn11402 «[தமிழ்](../ta/prayers/#bpn11402)»
 
 -- Bahá'u'lláh
 
-bpn11403 «[தமிழ்](../ta/prayers/#bpn11403)» 
+bpn11403 
 
 ----
 
@@ -2291,7 +2292,7 @@ bpn11403 «[தமிழ்](../ta/prayers/#bpn11403)»
 
 -- Bahá'u'lláh
 
-bpn11404 «[தமிழ்](../ta/prayers/#bpn11404)» 
+bpn11404 
 
 ----
 
@@ -2301,7 +2302,7 @@ bpn11404 «[தமிழ்](../ta/prayers/#bpn11404)»
 
 -- Abdu'l-Bahá
 
-bpn11405 «[தமிழ்](../ta/prayers/#bpn11405)» 
+bpn11405 
 
 ----
 
@@ -2311,7 +2312,7 @@ bpn11405 «[தமிழ்](../ta/prayers/#bpn11405)»
 
 -- Abdu'l-Bahá
 
-bpn11406 «[தமிழ்](../ta/prayers/#bpn11406)» 
+bpn11406 
 
 ----
 
@@ -2321,7 +2322,7 @@ bpn11406 «[தமிழ்](../ta/prayers/#bpn11406)»
 
 -- Abdu'l-Bahá
 
-bpn11407 «[தமிழ்](../ta/prayers/#bpn11407)» 
+bpn11407 
 
 ----
 
@@ -2335,7 +2336,7 @@ bpn11407 «[தமிழ்](../ta/prayers/#bpn11407)»
 
 -- Bahá'u'lláh
 
-bpn11418 «[தமிழ்](../ta/prayers/#bpn11418)» 
+bpn11418 
 
 ----
 
@@ -2345,7 +2346,7 @@ bpn11418 «[தமிழ்](../ta/prayers/#bpn11418)»
 
 -- Abdu'l-Bahá
 
-bpn11419 «[தமிழ்](../ta/prayers/#bpn11419)» 
+bpn11419 
 
 ----
 
@@ -2355,7 +2356,7 @@ bpn11419 «[தமிழ்](../ta/prayers/#bpn11419)»
 
 -- Abdu'l-Bahá
 
-bpn11420 «[தமிழ்](../ta/prayers/#bpn11420)» 
+bpn11420 
 
 ----
 
@@ -2365,7 +2366,7 @@ bpn11420 «[தமிழ்](../ta/prayers/#bpn11420)»
 
 -- Abdu'l-Bahá
 
-bpn11421 «[தமிழ்](../ta/prayers/#bpn11421)» 
+bpn11421 
 
 ----
 
@@ -2375,7 +2376,7 @@ bpn11421 «[தமிழ்](../ta/prayers/#bpn11421)»
 
 -- Abdu'l-Bahá
 
-bpn11422 «[தமிழ்](../ta/prayers/#bpn11422)» 
+bpn11422 
 
 ----
 
@@ -2389,7 +2390,7 @@ bpn11422 «[தமிழ்](../ta/prayers/#bpn11422)»
 
 -- Bahá'u'lláh
 
-bpn11423 «[தமிழ்](../ta/prayers/#bpn11423)» 
+bpn11423 
 
 ----
 
@@ -2399,7 +2400,7 @@ bpn11423 «[தமிழ்](../ta/prayers/#bpn11423)»
 
 -- Bahá'u'lláh
 
-bpn11424 «[தமிழ்](../ta/prayers/#bpn11424)» 
+bpn11424 
 
 ----
 
@@ -2409,7 +2410,7 @@ bpn11424 «[தமிழ்](../ta/prayers/#bpn11424)»
 
 -- Bahá'u'lláh
 
-bpn11425 «[தமிழ்](../ta/prayers/#bpn11425)» 
+bpn11425 
 
 ----
 
@@ -2419,7 +2420,7 @@ bpn11425 «[தமிழ்](../ta/prayers/#bpn11425)»
 
 -- Báb
 
-bpn11426 «[தமிழ்](../ta/prayers/#bpn11426)» 
+bpn11426 
 
 ----
 
@@ -2429,7 +2430,7 @@ bpn11426 «[தமிழ்](../ta/prayers/#bpn11426)»
 
 -- Báb
 
-bpn11427 «[தமிழ்](../ta/prayers/#bpn11427)» 
+bpn11427 
 
 ----
 
@@ -2439,7 +2440,7 @@ bpn11427 «[தமிழ்](../ta/prayers/#bpn11427)»
 
 -- Báb
 
-bpn11428 «[தமிழ்](../ta/prayers/#bpn11428)» 
+bpn11428 
 
 ----
 
@@ -2449,7 +2450,7 @@ bpn11428 «[தமிழ்](../ta/prayers/#bpn11428)»
 
 -- Báb
 
-bpn11429 «[தமிழ்](../ta/prayers/#bpn11429)» 
+bpn11429 
 
 ----
 
@@ -2459,7 +2460,7 @@ bpn11429 «[தமிழ்](../ta/prayers/#bpn11429)»
 
 -- Báb
 
-bpn11430 «[தமிழ்](../ta/prayers/#bpn11430)» 
+bpn11430 
 
 ----
 
@@ -2469,7 +2470,7 @@ bpn11430 «[தமிழ்](../ta/prayers/#bpn11430)»
 
 -- Abdu'l-Bahá
 
-bpn11431 «[தமிழ்](../ta/prayers/#bpn11431)» 
+bpn11431 
 
 ----
 
@@ -2483,7 +2484,7 @@ bpn11431 «[தமிழ்](../ta/prayers/#bpn11431)»
 
 -- Bahá'u'lláh
 
-bpn11447 «[தமிழ்](../ta/prayers/#bpn11447)» 
+bpn11447 
 
 ----
 

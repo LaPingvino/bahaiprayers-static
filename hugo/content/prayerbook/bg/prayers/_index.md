@@ -5,6 +5,7 @@ tags = ['lang=bg', 'prayerbook']
 
 
 
+
 [Бракосъчетаване](#%D0%91%D1%80%D0%B0%D0%BA%D0%BE%D1%81%D1%8A%D1%87%D0%B5%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5)
 
 [Вечер](#%D0%92%D0%B5%D1%87%D0%B5%D1%80)
@@ -85,7 +86,7 @@ tags = ['lang=bg', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3324 «[български](../bg/prayers/#bpn3324)» 
+bpn3324 
 
 ----
 
@@ -95,7 +96,7 @@ bpn3324 «[български](../bg/prayers/#bpn3324)»
 
 -- Abdu'l-Bahá
 
-bpn3325 «[български](../bg/prayers/#bpn3325)» 
+bpn3325 
 
 ----
 
@@ -105,7 +106,7 @@ bpn3325 «[български](../bg/prayers/#bpn3325)»
 
 -- Abdu'l-Bahá
 
-bpn3326 «[български](../bg/prayers/#bpn3326)» 
+bpn3326 
 
 ----
 
@@ -115,7 +116,7 @@ bpn3326 «[български](../bg/prayers/#bpn3326)»
 
 -- Abdu'l-Bahá
 
-bpn3327 «[български](../bg/prayers/#bpn3327)» 
+bpn3327 
 
 ----
 
@@ -129,7 +130,7 @@ bpn3327 «[български](../bg/prayers/#bpn3327)»
 
 -- Bahá'u'lláh
 
-bpn3328 «[български](../bg/prayers/#bpn3328)» 
+bpn3328 
 
 ----
 
@@ -139,7 +140,7 @@ bpn3328 «[български](../bg/prayers/#bpn3328)»
 
 -- Bahá'u'lláh
 
-bpn3329 «[български](../bg/prayers/#bpn3329)» 
+bpn3329 
 
 ----
 
@@ -149,7 +150,7 @@ bpn3329 «[български](../bg/prayers/#bpn3329)»
 
 -- Abdu'l-Bahá
 
-bpn3330 «[български](../bg/prayers/#bpn3330)» 
+bpn3330 
 
 ----
 
@@ -163,7 +164,7 @@ bpn3330 «[български](../bg/prayers/#bpn3330)»
 
 -- Bahá'u'lláh
 
-bpn3331 «[български](../bg/prayers/#bpn3331)» 
+bpn3331 
 
 ----
 
@@ -173,7 +174,7 @@ bpn3331 «[български](../bg/prayers/#bpn3331)»
 
 -- Bahá'u'lláh
 
-bpn3332 «[български](../bg/prayers/#bpn3332)» 
+bpn3332 
 
 ----
 
@@ -183,7 +184,7 @@ bpn3332 «[български](../bg/prayers/#bpn3332)»
 
 -- Bahá'u'lláh
 
-bpn3333 «[български](../bg/prayers/#bpn3333)» 
+bpn3333 
 
 ----
 
@@ -193,7 +194,7 @@ bpn3333 «[български](../bg/prayers/#bpn3333)»
 
 -- Bahá'u'lláh
 
-bpn3334 «[български](../bg/prayers/#bpn3334)» 
+bpn3334 
 
 ----
 
@@ -203,7 +204,7 @@ bpn3334 «[български](../bg/prayers/#bpn3334)»
 
 -- Bahá'u'lláh
 
-bpn3335 «[български](../bg/prayers/#bpn3335)» 
+bpn3335 
 
 ----
 
@@ -213,7 +214,7 @@ bpn3335 «[български](../bg/prayers/#bpn3335)»
 
 -- Báb
 
-bpn3336 «[български](../bg/prayers/#bpn3336)» 
+bpn3336 
 
 ----
 
@@ -227,7 +228,7 @@ bpn3336 «[български](../bg/prayers/#bpn3336)»
 
 -- Abdu'l-Bahá
 
-bpn3337 «[български](../bg/prayers/#bpn3337)» 
+bpn3337 
 
 ----
 
@@ -241,7 +242,7 @@ bpn3337 «[български](../bg/prayers/#bpn3337)»
 
 -- Bahá'u'lláh
 
-bpn3338 «[български](../bg/prayers/#bpn3338)» 
+bpn3338 
 
 ----
 
@@ -251,7 +252,7 @@ bpn3338 «[български](../bg/prayers/#bpn3338)»
 
 -- Bahá'u'lláh
 
-bpn3349 «[български](../bg/prayers/#bpn3349)» 
+bpn3349 
 
 ----
 
@@ -261,7 +262,7 @@ bpn3349 «[български](../bg/prayers/#bpn3349)»
 
 -- Bahá'u'lláh
 
-bpn3350 «[български](../bg/prayers/#bpn3350)» 
+bpn3350 
 
 ----
 
@@ -271,7 +272,7 @@ bpn3350 «[български](../bg/prayers/#bpn3350)»
 
 -- Bahá'u'lláh
 
-bpn3351 «[български](../bg/prayers/#bpn3351)» 
+bpn3351 
 
 ----
 
@@ -281,7 +282,7 @@ bpn3351 «[български](../bg/prayers/#bpn3351)»
 
 -- Bahá'u'lláh
 
-bpn3352 «[български](../bg/prayers/#bpn3352)» 
+bpn3352 
 
 ----
 
@@ -291,7 +292,7 @@ bpn3352 «[български](../bg/prayers/#bpn3352)»
 
 -- Bahá'u'lláh
 
-bpn3353 «[български](../bg/prayers/#bpn3353)» 
+bpn3353 
 
 ----
 
@@ -301,7 +302,7 @@ bpn3353 «[български](../bg/prayers/#bpn3353)»
 
 -- Bahá'u'lláh
 
-bpn3354 «[български](../bg/prayers/#bpn3354)» 
+bpn3354 
 
 ----
 
@@ -311,7 +312,7 @@ bpn3354 «[български](../bg/prayers/#bpn3354)»
 
 -- Báb
 
-bpn3355 «[български](../bg/prayers/#bpn3355)» 
+bpn3355 
 
 ----
 
@@ -321,7 +322,7 @@ bpn3355 «[български](../bg/prayers/#bpn3355)»
 
 -- Abdu'l-Bahá
 
-bpn3339 «[български](../bg/prayers/#bpn3339)» 
+bpn3339 
 
 ----
 
@@ -331,7 +332,7 @@ bpn3339 «[български](../bg/prayers/#bpn3339)»
 
 -- Abdu'l-Bahá
 
-bpn3340 «[български](../bg/prayers/#bpn3340)» 
+bpn3340 
 
 ----
 
@@ -341,7 +342,7 @@ bpn3340 «[български](../bg/prayers/#bpn3340)»
 
 -- Abdu'l-Bahá
 
-bpn3341 «[български](../bg/prayers/#bpn3341)» 
+bpn3341 
 
 ----
 
@@ -351,7 +352,7 @@ bpn3341 «[български](../bg/prayers/#bpn3341)»
 
 -- Abdu'l-Bahá
 
-bpn3342 «[български](../bg/prayers/#bpn3342)» 
+bpn3342 
 
 ----
 
@@ -361,7 +362,7 @@ bpn3342 «[български](../bg/prayers/#bpn3342)»
 
 -- Abdu'l-Bahá
 
-bpn3343 «[български](../bg/prayers/#bpn3343)» 
+bpn3343 
 
 ----
 
@@ -371,7 +372,7 @@ bpn3343 «[български](../bg/prayers/#bpn3343)»
 
 -- Abdu'l-Bahá
 
-bpn3344 «[български](../bg/prayers/#bpn3344)» 
+bpn3344 
 
 ----
 
@@ -381,7 +382,7 @@ bpn3344 «[български](../bg/prayers/#bpn3344)»
 
 -- Abdu'l-Bahá
 
-bpn3345 «[български](../bg/prayers/#bpn3345)» 
+bpn3345 
 
 ----
 
@@ -391,7 +392,7 @@ bpn3345 «[български](../bg/prayers/#bpn3345)»
 
 -- Abdu'l-Bahá
 
-bpn3346 «[български](../bg/prayers/#bpn3346)» 
+bpn3346 
 
 ----
 
@@ -401,7 +402,7 @@ bpn3346 «[български](../bg/prayers/#bpn3346)»
 
 -- Abdu'l-Bahá
 
-bpn3347 «[български](../bg/prayers/#bpn3347)» 
+bpn3347 
 
 ----
 
@@ -411,7 +412,7 @@ bpn3347 «[български](../bg/prayers/#bpn3347)»
 
 -- Abdu'l-Bahá
 
-bpn3348 «[български](../bg/prayers/#bpn3348)» 
+bpn3348 
 
 ----
 
@@ -421,7 +422,7 @@ bpn3348 «[български](../bg/prayers/#bpn3348)»
 
 -- Abdu'l-Bahá
 
-bpn3356 «[български](../bg/prayers/#bpn3356)» 
+bpn3356 
 
 ----
 
@@ -431,7 +432,7 @@ bpn3356 «[български](../bg/prayers/#bpn3356)»
 
 -- Abdu'l-Bahá
 
-bpn3357 «[български](../bg/prayers/#bpn3357)» 
+bpn3357 
 
 ----
 
@@ -441,7 +442,7 @@ bpn3357 «[български](../bg/prayers/#bpn3357)»
 
 -- Abdu'l-Bahá
 
-bpn3358 «[български](../bg/prayers/#bpn3358)» 
+bpn3358 
 
 ----
 
@@ -451,7 +452,7 @@ bpn3358 «[български](../bg/prayers/#bpn3358)»
 
 -- Abdu'l-Bahá
 
-bpn3359 «[български](../bg/prayers/#bpn3359)» 
+bpn3359 
 
 ----
 
@@ -461,7 +462,7 @@ bpn3359 «[български](../bg/prayers/#bpn3359)»
 
 -- Abdu'l-Bahá
 
-bpn3360 «[български](../bg/prayers/#bpn3360)» 
+bpn3360 
 
 ----
 
@@ -471,7 +472,7 @@ bpn3360 «[български](../bg/prayers/#bpn3360)»
 
 -- Abdu'l-Bahá
 
-bpn3361 «[български](../bg/prayers/#bpn3361)» 
+bpn3361 
 
 ----
 
@@ -481,7 +482,7 @@ bpn3361 «[български](../bg/prayers/#bpn3361)»
 
 -- Abdu'l-Bahá
 
-bpn3362 «[български](../bg/prayers/#bpn3362)» 
+bpn3362 
 
 ----
 
@@ -491,7 +492,7 @@ bpn3362 «[български](../bg/prayers/#bpn3362)»
 
 -- Abdu'l-Bahá
 
-bpn3363 «[български](../bg/prayers/#bpn3363)» 
+bpn3363 
 
 ----
 
@@ -505,7 +506,7 @@ bpn3363 «[български](../bg/prayers/#bpn3363)»
 
 -- Bahá'u'lláh
 
-bpn3481 «[български](../bg/prayers/#bpn3481)» 
+bpn3481 
 
 ----
 
@@ -519,7 +520,7 @@ bpn3481 «[български](../bg/prayers/#bpn3481)»
 
 -- Abdu'l-Bahá
 
-bpn3364 «[български](../bg/prayers/#bpn3364)» 
+bpn3364 
 
 ----
 
@@ -529,7 +530,7 @@ bpn3364 «[български](../bg/prayers/#bpn3364)»
 
 -- Abdu'l-Bahá
 
-bpn3365 «[български](../bg/prayers/#bpn3365)» 
+bpn3365 
 
 ----
 
@@ -539,7 +540,7 @@ bpn3365 «[български](../bg/prayers/#bpn3365)»
 
 -- Abdu'l-Bahá
 
-bpn3366 «[български](../bg/prayers/#bpn3366)» 
+bpn3366 
 
 ----
 
@@ -553,7 +554,7 @@ bpn3366 «[български](../bg/prayers/#bpn3366)»
 
 -- Bahá'u'lláh
 
-bpn3322 «[български](../bg/prayers/#bpn3322)» 
+bpn3322 
 
 ----
 
@@ -563,7 +564,7 @@ bpn3322 «[български](../bg/prayers/#bpn3322)»
 
 -- Bahá'u'lláh
 
-bpn3323 «[български](../bg/prayers/#bpn3323)» 
+bpn3323 
 
 ----
 
@@ -577,7 +578,7 @@ bpn3323 «[български](../bg/prayers/#bpn3323)»
 
 -- Bahá'u'lláh
 
-bpn3367 «[български](../bg/prayers/#bpn3367)» 
+bpn3367 
 
 ----
 
@@ -587,7 +588,7 @@ bpn3367 «[български](../bg/prayers/#bpn3367)»
 
 -- Abdu'l-Bahá
 
-bpn3368 «[български](../bg/prayers/#bpn3368)» 
+bpn3368 
 
 ----
 
@@ -601,7 +602,7 @@ bpn3368 «[български](../bg/prayers/#bpn3368)»
 
 -- Bahá'u'lláh
 
-bpn3378 «[български](../bg/prayers/#bpn3378)» 
+bpn3378 
 
 ----
 
@@ -611,7 +612,7 @@ bpn3378 «[български](../bg/prayers/#bpn3378)»
 
 -- Bahá'u'lláh
 
-bpn3379 «[български](../bg/prayers/#bpn3379)» 
+bpn3379 
 
 ----
 
@@ -621,7 +622,7 @@ bpn3379 «[български](../bg/prayers/#bpn3379)»
 
 -- Bahá'u'lláh
 
-bpn3380 «[български](../bg/prayers/#bpn3380)» 
+bpn3380 
 
 ----
 
@@ -631,7 +632,7 @@ bpn3380 «[български](../bg/prayers/#bpn3380)»
 
 -- Bahá'u'lláh
 
-bpn3384 «[български](../bg/prayers/#bpn3384)» 
+bpn3384 
 
 ----
 
@@ -641,7 +642,7 @@ bpn3384 «[български](../bg/prayers/#bpn3384)»
 
 -- Bahá'u'lláh
 
-bpn3385 «[български](../bg/prayers/#bpn3385)» 
+bpn3385 
 
 ----
 
@@ -651,7 +652,7 @@ bpn3385 «[български](../bg/prayers/#bpn3385)»
 
 -- Bahá'u'lláh
 
-bpn3386 «[български](../bg/prayers/#bpn3386)» 
+bpn3386 
 
 ----
 
@@ -665,7 +666,7 @@ bpn3386 «[български](../bg/prayers/#bpn3386)»
 
 -- Bahá'u'lláh
 
-bpn3369 «[български](../bg/prayers/#bpn3369)» 
+bpn3369 
 
 ----
 
@@ -675,7 +676,7 @@ bpn3369 «[български](../bg/prayers/#bpn3369)»
 
 -- Bahá'u'lláh
 
-bpn3370 «[български](../bg/prayers/#bpn3370)» 
+bpn3370 
 
 ----
 
@@ -685,7 +686,7 @@ bpn3370 «[български](../bg/prayers/#bpn3370)»
 
 -- Bahá'u'lláh
 
-bpn3371 «[български](../bg/prayers/#bpn3371)» 
+bpn3371 
 
 ----
 
@@ -695,7 +696,7 @@ bpn3371 «[български](../bg/prayers/#bpn3371)»
 
 -- Bahá'u'lláh
 
-bpn3372 «[български](../bg/prayers/#bpn3372)» 
+bpn3372 
 
 ----
 
@@ -705,7 +706,7 @@ bpn3372 «[български](../bg/prayers/#bpn3372)»
 
 -- Báb
 
-bpn3373 «[български](../bg/prayers/#bpn3373)» 
+bpn3373 
 
 ----
 
@@ -715,7 +716,7 @@ bpn3373 «[български](../bg/prayers/#bpn3373)»
 
 -- Báb
 
-bpn3374 «[български](../bg/prayers/#bpn3374)» 
+bpn3374 
 
 ----
 
@@ -725,7 +726,7 @@ bpn3374 «[български](../bg/prayers/#bpn3374)»
 
 -- Báb
 
-bpn3375 «[български](../bg/prayers/#bpn3375)» 
+bpn3375 
 
 ----
 
@@ -735,7 +736,7 @@ bpn3375 «[български](../bg/prayers/#bpn3375)»
 
 -- Abdu'l-Bahá
 
-bpn3376 «[български](../bg/prayers/#bpn3376)» 
+bpn3376 
 
 ----
 
@@ -745,7 +746,7 @@ bpn3376 «[български](../bg/prayers/#bpn3376)»
 
 -- Abdu'l-Bahá
 
-bpn3377 «[български](../bg/prayers/#bpn3377)» 
+bpn3377 
 
 ----
 
@@ -759,7 +760,7 @@ bpn3377 «[български](../bg/prayers/#bpn3377)»
 
 -- Báb
 
-bpn3387 «[български](../bg/prayers/#bpn3387)» 
+bpn3387 
 
 ----
 
@@ -769,7 +770,7 @@ bpn3387 «[български](../bg/prayers/#bpn3387)»
 
 -- Abdu'l-Bahá
 
-bpn3381 «[български](../bg/prayers/#bpn3381)» 
+bpn3381 
 
 ----
 
@@ -779,7 +780,7 @@ bpn3381 «[български](../bg/prayers/#bpn3381)»
 
 -- Abdu'l-Bahá
 
-bpn3382 «[български](../bg/prayers/#bpn3382)» 
+bpn3382 
 
 ----
 
@@ -789,7 +790,7 @@ bpn3382 «[български](../bg/prayers/#bpn3382)»
 
 -- Abdu'l-Bahá
 
-bpn3383 «[български](../bg/prayers/#bpn3383)» 
+bpn3383 
 
 ----
 
@@ -803,7 +804,7 @@ bpn3383 «[български](../bg/prayers/#bpn3383)»
 
 -- Bahá'u'lláh
 
-bpn3388 «[български](../bg/prayers/#bpn3388)» 
+bpn3388 
 
 ----
 
@@ -813,7 +814,7 @@ bpn3388 «[български](../bg/prayers/#bpn3388)»
 
 -- Bahá'u'lláh
 
-bpn3389 «[български](../bg/prayers/#bpn3389)» 
+bpn3389 
 
 ----
 
@@ -823,7 +824,7 @@ bpn3389 «[български](../bg/prayers/#bpn3389)»
 
 -- Bahá'u'lláh
 
-bpn3390 «[български](../bg/prayers/#bpn3390)» 
+bpn3390 
 
 ----
 
@@ -833,7 +834,7 @@ bpn3390 «[български](../bg/prayers/#bpn3390)»
 
 -- Bahá'u'lláh
 
-bpn3391 «[български](../bg/prayers/#bpn3391)» 
+bpn3391 
 
 ----
 
@@ -843,7 +844,7 @@ bpn3391 «[български](../bg/prayers/#bpn3391)»
 
 -- Bahá'u'lláh
 
-bpn3392 «[български](../bg/prayers/#bpn3392)» 
+bpn3392 
 
 ----
 
@@ -853,7 +854,7 @@ bpn3392 «[български](../bg/prayers/#bpn3392)»
 
 -- Bahá'u'lláh
 
-bpn3393 «[български](../bg/prayers/#bpn3393)» 
+bpn3393 
 
 ----
 
@@ -867,7 +868,7 @@ bpn3393 «[български](../bg/prayers/#bpn3393)»
 
 -- Bahá'u'lláh
 
-bpn3321 «[български](../bg/prayers/#bpn3321)» 
+bpn3321 
 
 ----
 
@@ -881,7 +882,7 @@ bpn3321 «[български](../bg/prayers/#bpn3321)»
 
 -- Abdu'l-Bahá
 
-bpn3436 «[български](../bg/prayers/#bpn3436)» 
+bpn3436 
 
 ----
 
@@ -891,7 +892,7 @@ bpn3436 «[български](../bg/prayers/#bpn3436)»
 
 -- Abdu'l-Bahá
 
-bpn3437 «[български](../bg/prayers/#bpn3437)» 
+bpn3437 
 
 ----
 
@@ -901,7 +902,7 @@ bpn3437 «[български](../bg/prayers/#bpn3437)»
 
 -- Abdu'l-Bahá
 
-bpn3438 «[български](../bg/prayers/#bpn3438)» 
+bpn3438 
 
 ----
 
@@ -911,7 +912,7 @@ bpn3438 «[български](../bg/prayers/#bpn3438)»
 
 -- Abdu'l-Bahá
 
-bpn3439 «[български](../bg/prayers/#bpn3439)» 
+bpn3439 
 
 ----
 
@@ -921,7 +922,7 @@ bpn3439 «[български](../bg/prayers/#bpn3439)»
 
 -- Abdu'l-Bahá
 
-bpn3440 «[български](../bg/prayers/#bpn3440)» 
+bpn3440 
 
 ----
 
@@ -931,7 +932,7 @@ bpn3440 «[български](../bg/prayers/#bpn3440)»
 
 -- Abdu'l-Bahá
 
-bpn3441 «[български](../bg/prayers/#bpn3441)» 
+bpn3441 
 
 ----
 
@@ -941,7 +942,7 @@ bpn3441 «[български](../bg/prayers/#bpn3441)»
 
 -- Abdu'l-Bahá
 
-bpn3442 «[български](../bg/prayers/#bpn3442)» 
+bpn3442 
 
 ----
 
@@ -951,7 +952,7 @@ bpn3442 «[български](../bg/prayers/#bpn3442)»
 
 -- Abdu'l-Bahá
 
-bpn3443 «[български](../bg/prayers/#bpn3443)» 
+bpn3443 
 
 ----
 
@@ -965,7 +966,7 @@ bpn3443 «[български](../bg/prayers/#bpn3443)»
 
 -- Abdu'l-Bahá
 
-bpn3486 «[български](../bg/prayers/#bpn3486)» 
+bpn3486 
 
 ----
 
@@ -979,7 +980,7 @@ bpn3486 «[български](../bg/prayers/#bpn3486)»
 
 -- Bahá'u'lláh
 
-bpn3394 «[български](../bg/prayers/#bpn3394)» 
+bpn3394 
 
 ----
 
@@ -989,7 +990,7 @@ bpn3394 «[български](../bg/prayers/#bpn3394)»
 
 -- Bahá'u'lláh
 
-bpn3395 «[български](../bg/prayers/#bpn3395)» 
+bpn3395 
 
 ----
 
@@ -999,7 +1000,7 @@ bpn3395 «[български](../bg/prayers/#bpn3395)»
 
 -- Bahá'u'lláh
 
-bpn3396 «[български](../bg/prayers/#bpn3396)» 
+bpn3396 
 
 ----
 
@@ -1009,7 +1010,7 @@ bpn3396 «[български](../bg/prayers/#bpn3396)»
 
 -- Bahá'u'lláh
 
-bpn3397 «[български](../bg/prayers/#bpn3397)» 
+bpn3397 
 
 ----
 
@@ -1019,7 +1020,7 @@ bpn3397 «[български](../bg/prayers/#bpn3397)»
 
 -- Bahá'u'lláh
 
-bpn3398 «[български](../bg/prayers/#bpn3398)» 
+bpn3398 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn3398 «[български](../bg/prayers/#bpn3398)»
 
 -- Báb
 
-bpn3399 «[български](../bg/prayers/#bpn3399)» 
+bpn3399 
 
 ----
 
@@ -1039,7 +1040,7 @@ bpn3399 «[български](../bg/prayers/#bpn3399)»
 
 -- Báb
 
-bpn3400 «[български](../bg/prayers/#bpn3400)» 
+bpn3400 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn3400 «[български](../bg/prayers/#bpn3400)»
 
 -- Abdu'l-Bahá
 
-bpn3401 «[български](../bg/prayers/#bpn3401)» 
+bpn3401 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn3401 «[български](../bg/prayers/#bpn3401)»
 
 -- Abdu'l-Bahá
 
-bpn3402 «[български](../bg/prayers/#bpn3402)» 
+bpn3402 
 
 ----
 
@@ -1073,7 +1074,7 @@ bpn3402 «[български](../bg/prayers/#bpn3402)»
 
 -- Bahá'u'lláh
 
-bpn3422 «[български](../bg/prayers/#bpn3422)» 
+bpn3422 
 
 ----
 
@@ -1083,7 +1084,7 @@ bpn3422 «[български](../bg/prayers/#bpn3422)»
 
 -- Bahá'u'lláh
 
-bpn3423 «[български](../bg/prayers/#bpn3423)» 
+bpn3423 
 
 ----
 
@@ -1093,7 +1094,7 @@ bpn3423 «[български](../bg/prayers/#bpn3423)»
 
 -- Bahá'u'lláh
 
-bpn3424 «[български](../bg/prayers/#bpn3424)» 
+bpn3424 
 
 ----
 
@@ -1103,7 +1104,7 @@ bpn3424 «[български](../bg/prayers/#bpn3424)»
 
 -- Bahá'u'lláh
 
-bpn3425 «[български](../bg/prayers/#bpn3425)» 
+bpn3425 
 
 ----
 
@@ -1113,7 +1114,7 @@ bpn3425 «[български](../bg/prayers/#bpn3425)»
 
 -- Báb
 
-bpn3426 «[български](../bg/prayers/#bpn3426)» 
+bpn3426 
 
 ----
 
@@ -1123,7 +1124,7 @@ bpn3426 «[български](../bg/prayers/#bpn3426)»
 
 -- Báb
 
-bpn3427 «[български](../bg/prayers/#bpn3427)» 
+bpn3427 
 
 ----
 
@@ -1133,7 +1134,7 @@ bpn3427 «[български](../bg/prayers/#bpn3427)»
 
 -- Abdu'l-Bahá
 
-bpn3428 «[български](../bg/prayers/#bpn3428)» 
+bpn3428 
 
 ----
 
@@ -1143,7 +1144,7 @@ bpn3428 «[български](../bg/prayers/#bpn3428)»
 
 -- Abdu'l-Bahá
 
-bpn3429 «[български](../bg/prayers/#bpn3429)» 
+bpn3429 
 
 ----
 
@@ -1157,7 +1158,7 @@ bpn3429 «[български](../bg/prayers/#bpn3429)»
 
 -- Bahá'u'lláh
 
-bpn3403 «[български](../bg/prayers/#bpn3403)» 
+bpn3403 
 
 ----
 
@@ -1167,7 +1168,7 @@ bpn3403 «[български](../bg/prayers/#bpn3403)»
 
 -- Bahá'u'lláh
 
-bpn3404 «[български](../bg/prayers/#bpn3404)» 
+bpn3404 
 
 ----
 
@@ -1177,7 +1178,7 @@ bpn3404 «[български](../bg/prayers/#bpn3404)»
 
 -- Abdu'l-Bahá
 
-bpn3405 «[български](../bg/prayers/#bpn3405)» 
+bpn3405 
 
 ----
 
@@ -1187,7 +1188,7 @@ bpn3405 «[български](../bg/prayers/#bpn3405)»
 
 -- Abdu'l-Bahá
 
-bpn3406 «[български](../bg/prayers/#bpn3406)» 
+bpn3406 
 
 ----
 
@@ -1197,7 +1198,7 @@ bpn3406 «[български](../bg/prayers/#bpn3406)»
 
 -- Abdu'l-Bahá
 
-bpn3407 «[български](../bg/prayers/#bpn3407)» 
+bpn3407 
 
 ----
 
@@ -1211,7 +1212,7 @@ bpn3407 «[български](../bg/prayers/#bpn3407)»
 
 -- Bahá'u'lláh
 
-bpn3485 «[български](../bg/prayers/#bpn3485)» 
+bpn3485 
 
 ----
 
@@ -1225,7 +1226,7 @@ bpn3485 «[български](../bg/prayers/#bpn3485)»
 
 -- Bahá'u'lláh
 
-bpn3477 «[български](../bg/prayers/#bpn3477)» 
+bpn3477 
 
 ----
 
@@ -1239,7 +1240,7 @@ bpn3477 «[български](../bg/prayers/#bpn3477)»
 
 -- Bahá'u'lláh
 
-bpn3408 «[български](../bg/prayers/#bpn3408)» 
+bpn3408 
 
 ----
 
@@ -1249,7 +1250,7 @@ bpn3408 «[български](../bg/prayers/#bpn3408)»
 
 -- Bahá'u'lláh
 
-bpn3409 «[български](../bg/prayers/#bpn3409)» 
+bpn3409 
 
 ----
 
@@ -1259,7 +1260,7 @@ bpn3409 «[български](../bg/prayers/#bpn3409)»
 
 -- Abdu'l-Bahá
 
-bpn3410 «[български](../bg/prayers/#bpn3410)» 
+bpn3410 
 
 ----
 
@@ -1269,7 +1270,7 @@ bpn3410 «[български](../bg/prayers/#bpn3410)»
 
 -- Abdu'l-Bahá
 
-bpn3411 «[български](../bg/prayers/#bpn3411)» 
+bpn3411 
 
 ----
 
@@ -1279,7 +1280,7 @@ bpn3411 «[български](../bg/prayers/#bpn3411)»
 
 -- Abdu'l-Bahá
 
-bpn3412 «[български](../bg/prayers/#bpn3412)» 
+bpn3412 
 
 ----
 
@@ -1293,7 +1294,7 @@ bpn3412 «[български](../bg/prayers/#bpn3412)»
 
 -- Bahá'u'lláh
 
-bpn3413 «[български](../bg/prayers/#bpn3413)» 
+bpn3413 
 
 ----
 
@@ -1303,7 +1304,7 @@ bpn3413 «[български](../bg/prayers/#bpn3413)»
 
 -- Bahá'u'lláh
 
-bpn3414 «[български](../bg/prayers/#bpn3414)» 
+bpn3414 
 
 ----
 
@@ -1313,7 +1314,7 @@ bpn3414 «[български](../bg/prayers/#bpn3414)»
 
 -- Báb
 
-bpn3415 «[български](../bg/prayers/#bpn3415)» 
+bpn3415 
 
 ----
 
@@ -1323,7 +1324,7 @@ bpn3415 «[български](../bg/prayers/#bpn3415)»
 
 -- Báb
 
-bpn3416 «[български](../bg/prayers/#bpn3416)» 
+bpn3416 
 
 ----
 
@@ -1333,7 +1334,7 @@ bpn3416 «[български](../bg/prayers/#bpn3416)»
 
 -- Báb
 
-bpn3417 «[български](../bg/prayers/#bpn3417)» 
+bpn3417 
 
 ----
 
@@ -1343,7 +1344,7 @@ bpn3417 «[български](../bg/prayers/#bpn3417)»
 
 -- Báb
 
-bpn3418 «[български](../bg/prayers/#bpn3418)» 
+bpn3418 
 
 ----
 
@@ -1353,7 +1354,7 @@ bpn3418 «[български](../bg/prayers/#bpn3418)»
 
 -- Abdu'l-Bahá
 
-bpn3419 «[български](../bg/prayers/#bpn3419)» 
+bpn3419 
 
 ----
 
@@ -1363,7 +1364,7 @@ bpn3419 «[български](../bg/prayers/#bpn3419)»
 
 -- Abdu'l-Bahá
 
-bpn3420 «[български](../bg/prayers/#bpn3420)» 
+bpn3420 
 
 ----
 
@@ -1373,7 +1374,7 @@ bpn3420 «[български](../bg/prayers/#bpn3420)»
 
 -- Abdu'l-Bahá
 
-bpn3421 «[български](../bg/prayers/#bpn3421)» 
+bpn3421 
 
 ----
 
@@ -1387,7 +1388,7 @@ bpn3421 «[български](../bg/prayers/#bpn3421)»
 
 -- Bahá'u'lláh
 
-bpn3476 «[български](../bg/prayers/#bpn3476)» 
+bpn3476 
 
 ----
 
@@ -1401,7 +1402,7 @@ bpn3476 «[български](../bg/prayers/#bpn3476)»
 
 -- Bahá'u'lláh
 
-bpn3478 «[български](../bg/prayers/#bpn3478)» 
+bpn3478 
 
 ----
 
@@ -1415,7 +1416,7 @@ bpn3478 «[български](../bg/prayers/#bpn3478)»
 
 -- Bahá'u'lláh
 
-bpn3479 «[български](../bg/prayers/#bpn3479)» 
+bpn3479 
 
 ----
 
@@ -1425,7 +1426,7 @@ bpn3479 «[български](../bg/prayers/#bpn3479)»
 
 -- Abdu'l-Bahá
 
-bpn3480 «[български](../bg/prayers/#bpn3480)» 
+bpn3480 
 
 ----
 
@@ -1439,7 +1440,7 @@ bpn3480 «[български](../bg/prayers/#bpn3480)»
 
 -- Bahá'u'lláh
 
-bpn3482 «[български](../bg/prayers/#bpn3482)» 
+bpn3482 
 
 ----
 
@@ -1449,7 +1450,7 @@ bpn3482 «[български](../bg/prayers/#bpn3482)»
 
 -- Bahá'u'lláh
 
-bpn3483 «[български](../bg/prayers/#bpn3483)» 
+bpn3483 
 
 ----
 
@@ -1459,7 +1460,7 @@ bpn3483 «[български](../bg/prayers/#bpn3483)»
 
 -- Bahá'u'lláh
 
-bpn3484 «[български](../bg/prayers/#bpn3484)» 
+bpn3484 
 
 ----
 
@@ -1473,7 +1474,7 @@ bpn3484 «[български](../bg/prayers/#bpn3484)»
 
 -- Bahá'u'lláh
 
-bpn3430 «[български](../bg/prayers/#bpn3430)» 
+bpn3430 
 
 ----
 
@@ -1483,7 +1484,7 @@ bpn3430 «[български](../bg/prayers/#bpn3430)»
 
 -- Bahá'u'lláh
 
-bpn3431 «[български](../bg/prayers/#bpn3431)» 
+bpn3431 
 
 ----
 
@@ -1493,7 +1494,7 @@ bpn3431 «[български](../bg/prayers/#bpn3431)»
 
 -- Bahá'u'lláh
 
-bpn3432 «[български](../bg/prayers/#bpn3432)» 
+bpn3432 
 
 ----
 
@@ -1503,7 +1504,7 @@ bpn3432 «[български](../bg/prayers/#bpn3432)»
 
 -- Abdu'l-Bahá
 
-bpn3433 «[български](../bg/prayers/#bpn3433)» 
+bpn3433 
 
 ----
 
@@ -1513,7 +1514,7 @@ bpn3433 «[български](../bg/prayers/#bpn3433)»
 
 -- Abdu'l-Bahá
 
-bpn3434 «[български](../bg/prayers/#bpn3434)» 
+bpn3434 
 
 ----
 
@@ -1523,7 +1524,7 @@ bpn3434 «[български](../bg/prayers/#bpn3434)»
 
 -- Abdu'l-Bahá
 
-bpn3435 «[български](../bg/prayers/#bpn3435)» 
+bpn3435 
 
 ----
 
@@ -1537,7 +1538,7 @@ bpn3435 «[български](../bg/prayers/#bpn3435)»
 
 -- Bahá'u'lláh
 
-bpn3444 «[български](../bg/prayers/#bpn3444)» 
+bpn3444 
 
 ----
 
@@ -1547,7 +1548,7 @@ bpn3444 «[български](../bg/prayers/#bpn3444)»
 
 -- Bahá'u'lláh
 
-bpn3445 «[български](../bg/prayers/#bpn3445)» 
+bpn3445 
 
 ----
 
@@ -1557,7 +1558,7 @@ bpn3445 «[български](../bg/prayers/#bpn3445)»
 
 -- Báb
 
-bpn3446 «[български](../bg/prayers/#bpn3446)» 
+bpn3446 
 
 ----
 
@@ -1567,7 +1568,7 @@ bpn3446 «[български](../bg/prayers/#bpn3446)»
 
 -- Báb
 
-bpn3447 «[български](../bg/prayers/#bpn3447)» 
+bpn3447 
 
 ----
 
@@ -1577,7 +1578,7 @@ bpn3447 «[български](../bg/prayers/#bpn3447)»
 
 -- Báb
 
-bpn3448 «[български](../bg/prayers/#bpn3448)» 
+bpn3448 
 
 ----
 
@@ -1587,7 +1588,7 @@ bpn3448 «[български](../bg/prayers/#bpn3448)»
 
 -- Báb
 
-bpn3449 «[български](../bg/prayers/#bpn3449)» 
+bpn3449 
 
 ----
 
@@ -1597,7 +1598,7 @@ bpn3449 «[български](../bg/prayers/#bpn3449)»
 
 -- Abdu'l-Bahá
 
-bpn3450 «[български](../bg/prayers/#bpn3450)» 
+bpn3450 
 
 ----
 
@@ -1611,7 +1612,7 @@ bpn3450 «[български](../bg/prayers/#bpn3450)»
 
 -- Báb
 
-bpn3451 «[български](../bg/prayers/#bpn3451)» 
+bpn3451 
 
 ----
 
@@ -1621,7 +1622,7 @@ bpn3451 «[български](../bg/prayers/#bpn3451)»
 
 -- Abdu'l-Bahá
 
-bpn3452 «[български](../bg/prayers/#bpn3452)» 
+bpn3452 
 
 ----
 
@@ -1631,7 +1632,7 @@ bpn3452 «[български](../bg/prayers/#bpn3452)»
 
 -- Abdu'l-Bahá
 
-bpn3453 «[български](../bg/prayers/#bpn3453)» 
+bpn3453 
 
 ----
 
@@ -1641,7 +1642,7 @@ bpn3453 «[български](../bg/prayers/#bpn3453)»
 
 -- Abdu'l-Bahá
 
-bpn3454 «[български](../bg/prayers/#bpn3454)» 
+bpn3454 
 
 ----
 
@@ -1655,7 +1656,7 @@ bpn3454 «[български](../bg/prayers/#bpn3454)»
 
 -- Abdu'l-Bahá
 
-bpn3455 «[български](../bg/prayers/#bpn3455)» 
+bpn3455 
 
 ----
 
@@ -1665,7 +1666,7 @@ bpn3455 «[български](../bg/prayers/#bpn3455)»
 
 -- Abdu'l-Bahá
 
-bpn3456 «[български](../bg/prayers/#bpn3456)» 
+bpn3456 
 
 ----
 
@@ -1675,7 +1676,7 @@ bpn3456 «[български](../bg/prayers/#bpn3456)»
 
 -- Abdu'l-Bahá
 
-bpn3457 «[български](../bg/prayers/#bpn3457)» 
+bpn3457 
 
 ----
 
@@ -1685,7 +1686,7 @@ bpn3457 «[български](../bg/prayers/#bpn3457)»
 
 -- Abdu'l-Bahá
 
-bpn3458 «[български](../bg/prayers/#bpn3458)» 
+bpn3458 
 
 ----
 
@@ -1695,7 +1696,7 @@ bpn3458 «[български](../bg/prayers/#bpn3458)»
 
 -- Abdu'l-Bahá
 
-bpn3459 «[български](../bg/prayers/#bpn3459)» 
+bpn3459 
 
 ----
 
@@ -1709,7 +1710,7 @@ bpn3459 «[български](../bg/prayers/#bpn3459)»
 
 -- Bahá'u'lláh
 
-bpn3460 «[български](../bg/prayers/#bpn3460)» 
+bpn3460 
 
 ----
 
@@ -1719,7 +1720,7 @@ bpn3460 «[български](../bg/prayers/#bpn3460)»
 
 -- Báb
 
-bpn3461 «[български](../bg/prayers/#bpn3461)» 
+bpn3461 
 
 ----
 
@@ -1729,7 +1730,7 @@ bpn3461 «[български](../bg/prayers/#bpn3461)»
 
 -- Báb
 
-bpn3462 «[български](../bg/prayers/#bpn3462)» 
+bpn3462 
 
 ----
 
@@ -1739,7 +1740,7 @@ bpn3462 «[български](../bg/prayers/#bpn3462)»
 
 -- Báb
 
-bpn3463 «[български](../bg/prayers/#bpn3463)» 
+bpn3463 
 
 ----
 
@@ -1749,7 +1750,7 @@ bpn3463 «[български](../bg/prayers/#bpn3463)»
 
 -- Báb
 
-bpn3464 «[български](../bg/prayers/#bpn3464)» 
+bpn3464 
 
 ----
 
@@ -1759,7 +1760,7 @@ bpn3464 «[български](../bg/prayers/#bpn3464)»
 
 -- Abdu'l-Bahá
 
-bpn3465 «[български](../bg/prayers/#bpn3465)» 
+bpn3465 
 
 ----
 
@@ -1769,7 +1770,7 @@ bpn3465 «[български](../bg/prayers/#bpn3465)»
 
 -- Abdu'l-Bahá
 
-bpn3466 «[български](../bg/prayers/#bpn3466)» 
+bpn3466 
 
 ----
 
@@ -1783,7 +1784,7 @@ bpn3466 «[български](../bg/prayers/#bpn3466)»
 
 -- Bahá'u'lláh
 
-bpn3467 «[български](../bg/prayers/#bpn3467)» 
+bpn3467 
 
 ----
 
@@ -1793,7 +1794,7 @@ bpn3467 «[български](../bg/prayers/#bpn3467)»
 
 -- Bahá'u'lláh
 
-bpn3468 «[български](../bg/prayers/#bpn3468)» 
+bpn3468 
 
 ----
 
@@ -1803,7 +1804,7 @@ bpn3468 «[български](../bg/prayers/#bpn3468)»
 
 -- Bahá'u'lláh
 
-bpn3469 «[български](../bg/prayers/#bpn3469)» 
+bpn3469 
 
 ----
 
@@ -1813,7 +1814,7 @@ bpn3469 «[български](../bg/prayers/#bpn3469)»
 
 -- Bahá'u'lláh
 
-bpn3470 «[български](../bg/prayers/#bpn3470)» 
+bpn3470 
 
 ----
 
@@ -1827,7 +1828,7 @@ bpn3470 «[български](../bg/prayers/#bpn3470)»
 
 -- Abdu'l-Bahá
 
-bpn3487 «[български](../bg/prayers/#bpn3487)» 
+bpn3487 
 
 ----
 
@@ -1841,7 +1842,7 @@ bpn3487 «[български](../bg/prayers/#bpn3487)»
 
 -- Bahá'u'lláh
 
-bpn3471 «[български](../bg/prayers/#bpn3471)» 
+bpn3471 
 
 ----
 
@@ -1851,7 +1852,7 @@ bpn3471 «[български](../bg/prayers/#bpn3471)»
 
 -- Abdu'l-Bahá
 
-bpn3472 «[български](../bg/prayers/#bpn3472)» 
+bpn3472 
 
 ----
 
@@ -1861,7 +1862,7 @@ bpn3472 «[български](../bg/prayers/#bpn3472)»
 
 -- Abdu'l-Bahá
 
-bpn3473 «[български](../bg/prayers/#bpn3473)» 
+bpn3473 
 
 ----
 
@@ -1871,7 +1872,7 @@ bpn3473 «[български](../bg/prayers/#bpn3473)»
 
 -- Abdu'l-Bahá
 
-bpn3474 «[български](../bg/prayers/#bpn3474)» 
+bpn3474 
 
 ----
 
@@ -1881,7 +1882,7 @@ bpn3474 «[български](../bg/prayers/#bpn3474)»
 
 -- Abdu'l-Bahá
 
-bpn3475 «[български](../bg/prayers/#bpn3475)» 
+bpn3475 
 
 ----
 

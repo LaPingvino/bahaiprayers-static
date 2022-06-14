@@ -5,6 +5,7 @@ tags = ['lang=ga', 'prayerbook']
 
 
 
+
 [General](#General)
 
 
@@ -17,17 +18,17 @@ tags = ['lang=ga', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6016 «[Irish](../ga/prayers/#bpn6016)» 
+bpn6016 
 
 ----
 
 
 <a id="bpn6015"></a> 
-##Remover of Difficulties An bhfuil aon duine chun fadhbanna a réiteach ach Dia amháin! Abair, &#39;Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann cách a Bhriathar&#39;
+##Remover of Difficulties An bhfuil aon duine chun fadhbanna a réiteach ach Dia amháin! Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann cách a Bhriathar'
 
 -- Báb
 
-bpn6015 «[Irish](../ga/prayers/#bpn6015)» 
+bpn6015 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=af', 'prayerbook']
 
 
 
+
 [Aand](#Aand)
 
 [Afsnyding](#Afsnyding)
@@ -77,7 +78,7 @@ O my God, my Meester, die Doel van my begeerte! Hierdie dienskneg van U verlang 
 
 -- Bahá'u'lláh
 
-bpn3145 «[Afrikaans](../af/prayers/#bpn3145)» 
+bpn3145 
 
 ----
 
@@ -87,7 +88,7 @@ O soeker van die Waarheid! As u verlang dat God u oog mag oopmaak, moet u God sm
 
 -- Bahá'u'lláh
 
-bpn3147 «[Afrikaans](../af/prayers/#bpn3147)» 
+bpn3147 
 
 ----
 
@@ -97,7 +98,7 @@ Hoe kan ek verkies om te slaap, o God, my God, terwyl die oë van diegene wat na
 
 -- Bahá'u'lláh
 
-bpn3146 «[Afrikaans](../af/prayers/#bpn3146)» 
+bpn3146 
 
 ----
 
@@ -111,7 +112,7 @@ Laat my, o my God, nader na U trek, en binne die grense van U hof vertoef, want 
 
 -- Bahá'u'lláh
 
-bpn3180 «[Afrikaans](../af/prayers/#bpn3180)» 
+bpn3180 
 
 ----
 
@@ -121,7 +122,7 @@ Verheerlik is U, o my God! Ek lewer U dank dat U Hom Wat die Daeraad van U barmh
 
 -- Bahá'u'lláh
 
-bpn3181 «[Afrikaans](../af/prayers/#bpn3181)» 
+bpn3181 
 
 ----
 
@@ -131,7 +132,7 @@ Geloof sy U Naam, o my God! Ek smeek U by die geure van die Gewaad van u guns, w
 
 -- Bahá'u'lláh
 
-bpn3182 «[Afrikaans](../af/prayers/#bpn3182)» 
+bpn3182 
 
 ----
 
@@ -141,7 +142,7 @@ Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gestee
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../en/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» 
+BH09024 «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» 
 
 ----
 
@@ -151,7 +152,7 @@ Ek weet nie, o my God, wat die Vuur is wat U in U land aangesteek het nie. Aarde
 
 -- Bahá'u'lláh
 
-bpn3184 «[Afrikaans](../af/prayers/#bpn3184)» 
+bpn3184 
 
 ----
 
@@ -161,17 +162,17 @@ Lof sy aan U, o my God! Ek is een van U dienaars wat aan U en U tekens geglo het
 
 -- Bahá'u'lláh
 
-bpn3185 «[Afrikaans](../af/prayers/#bpn3185)» 
+bpn3185 
 
 ----
 
 
 <a id="bpn3186"></a> 
-O God, my God! U is my Hoop en my Beminde, my hoogste Oogmerk en Begeerte! Met groot ootmoed en algehele toewyding bid ek U om my &#39;n toring van U liefde in U land, &#39;n lamp van U kennis onder U skepsels, en &#39;n vaandel van goddelike mildheid in U gebied te maak.Tel my saam met diegene van U dienaars wat hulleself van alles behalwe U afgesonder het, hulleself geheilig het van die vergangklike dinge van hierdie wêreld, en hulleself bevry het van die ingewings van die stemme van nuttelose inbeeldings.Laat my hart deur die gees van bevestiging van U koninkryk met vreugde uitswel en verhelder my oë deur die skares van goddelike hulp te sien wat ná mekaar uit die koninkryk van U alvermoënde heerlikheid op my neerdaal.U is, in der waarheid, die Almagtige, die Alglorieryke, die Alkragtige.
+O God, my God! U is my Hoop en my Beminde, my hoogste Oogmerk en Begeerte! Met groot ootmoed en algehele toewyding bid ek U om my 'n toring van U liefde in U land, 'n lamp van U kennis onder U skepsels, en 'n vaandel van goddelike mildheid in U gebied te maak.Tel my saam met diegene van U dienaars wat hulleself van alles behalwe U afgesonder het, hulleself geheilig het van die vergangklike dinge van hierdie wêreld, en hulleself bevry het van die ingewings van die stemme van nuttelose inbeeldings.Laat my hart deur die gees van bevestiging van U koninkryk met vreugde uitswel en verhelder my oë deur die skares van goddelike hulp te sien wat ná mekaar uit die koninkryk van U alvermoënde heerlikheid op my neerdaal.U is, in der waarheid, die Almagtige, die Alglorieryke, die Alkragtige.
 
 -- Abdu'l-Bahá
 
-bpn3186 «[Afrikaans](../af/prayers/#bpn3186)» 
+bpn3186 
 
 ----
 
@@ -181,11 +182,11 @@ bpn3186 «[Afrikaans](../af/prayers/#bpn3186)»
 ## Begrafnis
 
 <a id="bpn3246"></a> 
-##GEBED VIR DIE DOOIES*,Wanneer hierdie gebed gebruik word, moet een gelowige dit sê terwyl alle aanwesiges moet staan.&#39; - Die Universele Huis van GeregtigheidO my God! Hierdie is U dienskneg en die seun van U dienskneg wat in U tekens geglo het, en sy gesig na U gerig het, geheel en al losgemaak van alles behalwe U. U is, voorwaar, van dié wat genade toon, die mees genadige.Handel met hom, o U Wat die sondes van mense vergewe en hulle foute verswyg, soos dit die hemel van U mildheid betaam en die oseaan van U genade. Vergun hom toegang binne die omgewing van U oortreffende barmhartigheid wat vóór die grondlegging van die aarde en die hemel bestaan het. Daar is geen God behalwe U nie, die Ewig-Vergewende, die Mees Milddadige.Laat hom, dan, die begroeting Alláh-u-Abháh ses maal herhaal, en dan negentien keer elkeen van die volgende verse herhaal:Ons almal, voorwaar, aanbid God. Ons almal, voorwaar, buig neer voor God. Ons almal, voorwaar, is toegewy aan God. Ons almal, voorwaar, gee lof aan God. Ons almal, voorwaar, betuig ons dank aan God. Ons almal, voorwaar, is geduldig in God.*Indien die oorledene &#39;n vrou is laat hom sê: Dit is U diensmaagd en die dogter van U diensmaagd, ens. . . .
+##GEBED VIR DIE DOOIES*,Wanneer hierdie gebed gebruik word, moet een gelowige dit sê terwyl alle aanwesiges moet staan.' - Die Universele Huis van GeregtigheidO my God! Hierdie is U dienskneg en die seun van U dienskneg wat in U tekens geglo het, en sy gesig na U gerig het, geheel en al losgemaak van alles behalwe U. U is, voorwaar, van dié wat genade toon, die mees genadige.Handel met hom, o U Wat die sondes van mense vergewe en hulle foute verswyg, soos dit die hemel van U mildheid betaam en die oseaan van U genade. Vergun hom toegang binne die omgewing van U oortreffende barmhartigheid wat vóór die grondlegging van die aarde en die hemel bestaan het. Daar is geen God behalwe U nie, die Ewig-Vergewende, die Mees Milddadige.Laat hom, dan, die begroeting Alláh-u-Abháh ses maal herhaal, en dan negentien keer elkeen van die volgende verse herhaal:Ons almal, voorwaar, aanbid God. Ons almal, voorwaar, buig neer voor God. Ons almal, voorwaar, is toegewy aan God. Ons almal, voorwaar, gee lof aan God. Ons almal, voorwaar, betuig ons dank aan God. Ons almal, voorwaar, is geduldig in God.*Indien die oorledene 'n vrou is laat hom sê: Dit is U diensmaagd en die dogter van U diensmaagd, ens. . . .
 
 -- Bahá'u'lláh
 
-bpn3246 «[Afrikaans](../af/prayers/#bpn3246)» 
+bpn3246 
 
 ----
 
@@ -195,11 +196,11 @@ bpn3246 «[Afrikaans](../af/prayers/#bpn3246)»
 ## Beskerming
 
 <a id="bpn3174"></a> 
-Geloof sy U, o Here my God! Hierdie is U dienaar wat uit die hande van U genade die wyn van U tere barmhartigheid gedrink het, en die geur van U liefde in U dae geproe het. Ek smeek U by die verpersoonlikings van U name wat geen leed kan verhinder om bly te wees in U liefde, of om op U aangesig te tuur nie, en wat al die skares van die agtelosiges magteloos is om af te wend van die weg van U behae, om hom van die goeie dinge te voorsien wat U besit, en hom tot sodanige hoogtes op te hef dat hy die wêreld as &#39;n skaduwee sal betrag wat vinniger as &#39;n oogwink verdwyn.Beveilig hom ook, o my God, deur die krag van U onmeetbare majesteit, teen alles wat U verafsku. U is, voorwaar, sy Here en die Here van alle wêrelde.
+Geloof sy U, o Here my God! Hierdie is U dienaar wat uit die hande van U genade die wyn van U tere barmhartigheid gedrink het, en die geur van U liefde in U dae geproe het. Ek smeek U by die verpersoonlikings van U name wat geen leed kan verhinder om bly te wees in U liefde, of om op U aangesig te tuur nie, en wat al die skares van die agtelosiges magteloos is om af te wend van die weg van U behae, om hom van die goeie dinge te voorsien wat U besit, en hom tot sodanige hoogtes op te hef dat hy die wêreld as 'n skaduwee sal betrag wat vinniger as 'n oogwink verdwyn.Beveilig hom ook, o my God, deur die krag van U onmeetbare majesteit, teen alles wat U verafsku. U is, voorwaar, sy Here en die Here van alle wêrelde.
 
 -- Bahá'u'lláh
 
-bpn3174 «[Afrikaans](../af/prayers/#bpn3174)» 
+bpn3174 
 
 ----
 
@@ -209,27 +210,27 @@ O God, my God! Ek het my huis verlaat, hou vas aan die koord van U liefde, en he
 
 -- Bahá'u'lláh
 
-bpn3175 «[Afrikaans](../af/prayers/#bpn3175)» 
+bpn3175 
 
 ----
 
 
 <a id="bpn3176"></a> 
-Geloof sy U, o Here my God! U sien en weet dat ek &#39;n beroep op U dienaars gedoen het om nêrens behalwe in die rigting van U skenkings te keer nie, en hulle gevra het om niks behalwe die dinge wat U in U duidelike Boek voorgeskryf het na te kom nie, die Boek wat neergestuur is volgens U ondeurgrondelike verordening en onherroeplike doeleinde.Ek kan geen woord uiter nie, o my God, tensy ek deur U toegelaat word nie, en kan in geen rigting beweeg voordat ek U goedkeuring verkry nie. Dit is U, o my God, Wat my deur die vermoë van U mag in die lewe geroep het, en my van U genade voorsien het om U Saak te openbaar. Daarom is ek aan sodanige teenspoede onderworpe dat my tong verhinder is om U te verheerlik en om U glorie groot te maak.Alle lof sy aan U, o my God, vir die dinge wat U vir my beskik het deur U verordeningen deur die krag van U oppermag. Ek smeek U dat U albei myself en diegene wat my bemin, in ons liefde vir U sal versterk, en ons standvastig in U Saak sal hou. Ek sweer by U mag! O my God! U dienaar se skaamte is om soos &#39;n sluier van U uigesluit te wees, en sy glorie is om U te ken. Gewapen met die krag van U naam, kan niks my ooit seermaak nie, en met U liefde in my hart kan die hele wêreld se kwellinge my hoegenaamd nie laat verontrus nie.Laat daal dus, o my Here, op my en op my bemindes dit wat ons sal beskerm teen die onheil van diegene wat U waarheid ontken en het en nie in U tekens geglo het nie.U is, voorwaar, die Alglorieryke, die Mees Goedertierende.
+Geloof sy U, o Here my God! U sien en weet dat ek 'n beroep op U dienaars gedoen het om nêrens behalwe in die rigting van U skenkings te keer nie, en hulle gevra het om niks behalwe die dinge wat U in U duidelike Boek voorgeskryf het na te kom nie, die Boek wat neergestuur is volgens U ondeurgrondelike verordening en onherroeplike doeleinde.Ek kan geen woord uiter nie, o my God, tensy ek deur U toegelaat word nie, en kan in geen rigting beweeg voordat ek U goedkeuring verkry nie. Dit is U, o my God, Wat my deur die vermoë van U mag in die lewe geroep het, en my van U genade voorsien het om U Saak te openbaar. Daarom is ek aan sodanige teenspoede onderworpe dat my tong verhinder is om U te verheerlik en om U glorie groot te maak.Alle lof sy aan U, o my God, vir die dinge wat U vir my beskik het deur U verordeningen deur die krag van U oppermag. Ek smeek U dat U albei myself en diegene wat my bemin, in ons liefde vir U sal versterk, en ons standvastig in U Saak sal hou. Ek sweer by U mag! O my God! U dienaar se skaamte is om soos 'n sluier van U uigesluit te wees, en sy glorie is om U te ken. Gewapen met die krag van U naam, kan niks my ooit seermaak nie, en met U liefde in my hart kan die hele wêreld se kwellinge my hoegenaamd nie laat verontrus nie.Laat daal dus, o my Here, op my en op my bemindes dit wat ons sal beskerm teen die onheil van diegene wat U waarheid ontken en het en nie in U tekens geglo het nie.U is, voorwaar, die Alglorieryke, die Mees Goedertierende.
 
 -- Bahá'u'lláh
 
-bpn3176 «[Afrikaans](../af/prayers/#bpn3176)» 
+bpn3176 
 
 ----
 
 
 <a id="bpn3177"></a> 
-Verheerlik sy U Naam, o Here my God! Ek smeek U by U Naam waardeur die uur aangebreek het, en die Opstanding gekom het, en vrees en bewing almal wat in die hemel en op die aarde is bevang het, om te laat reën, vanuit die hemel van U genade en die wolke van U tere ontferming, dit wat die harte sal verheug van U dienaars wat na U gekeer het en U Saak gehelp het.Hou U diensknegte en diensmaagde veilig, o my Here, teen die pyle van ydele inbeeldings en nuttelose verbeeldinge, en gee hulle met die hande van U genade &#39;n sluk van die saggies vloeiende waters van U kennis.U is waarlik die Almagtige, die Mees Verhewe, die Altyd-Vergewende, die Mees Vrygewige.
+Verheerlik sy U Naam, o Here my God! Ek smeek U by U Naam waardeur die uur aangebreek het, en die Opstanding gekom het, en vrees en bewing almal wat in die hemel en op die aarde is bevang het, om te laat reën, vanuit die hemel van U genade en die wolke van U tere ontferming, dit wat die harte sal verheug van U dienaars wat na U gekeer het en U Saak gehelp het.Hou U diensknegte en diensmaagde veilig, o my Here, teen die pyle van ydele inbeeldings en nuttelose verbeeldinge, en gee hulle met die hande van U genade 'n sluk van die saggies vloeiende waters van U kennis.U is waarlik die Almagtige, die Mees Verhewe, die Altyd-Vergewende, die Mees Vrygewige.
 
 -- Bahá'u'lláh
 
-bpn3177 «[Afrikaans](../af/prayers/#bpn3177)» 
+bpn3177 
 
 ----
 
@@ -239,17 +240,17 @@ O God, my God! Beskut U vertroude dienaars teen die euwels van self en hartstog,
 
 -- Abdu'l-Bahá
 
-bpn3178 «[Afrikaans](../af/prayers/#bpn3178)» 
+bpn3178 
 
 ----
 
 
 <a id="bpn3179"></a> 
-O my Here! U weet dat die mense omring is met smart en rampe, en omsingel is met swaarkry en sorge. Elke beproewing val die mens aan en elke ontsettende teenspoed tref hom soos die aanval van &#39;n slang. Daar is geen skuilplek en toevlugsoord vir hom behalwe onder die vlerk van U beskerming, bewaring, bewaking en sorg nie.O U die Genadige Een! O my Here! Maak U beskerming my wapenrusting, u Bewaring my skild, nederigheid voor die deur van U eenheid my wag, en U bewaking en verdediging my vesting en woning. Behoed my teen die ingewinge van self en begeerlikheid, en bewaar my teen elke siekte, toets, moeilikheid en beproewing.Voorwaar, U is die Verdediger, die Beskermer, die Bewaarder, die Voldoener, en voorwaar, U is die Barmhartige van die Mees Barmhartiges.
+O my Here! U weet dat die mense omring is met smart en rampe, en omsingel is met swaarkry en sorge. Elke beproewing val die mens aan en elke ontsettende teenspoed tref hom soos die aanval van 'n slang. Daar is geen skuilplek en toevlugsoord vir hom behalwe onder die vlerk van U beskerming, bewaring, bewaking en sorg nie.O U die Genadige Een! O my Here! Maak U beskerming my wapenrusting, u Bewaring my skild, nederigheid voor die deur van U eenheid my wag, en U bewaking en verdediging my vesting en woning. Behoed my teen die ingewinge van self en begeerlikheid, en bewaar my teen elke siekte, toets, moeilikheid en beproewing.Voorwaar, U is die Verdediger, die Beskermer, die Bewaarder, die Voldoener, en voorwaar, U is die Barmhartige van die Mees Barmhartiges.
 
 -- Abdu'l-Bahá
 
-bpn3179 «[Afrikaans](../af/prayers/#bpn3179)» 
+bpn3179 
 
 ----
 
@@ -263,7 +264,7 @@ My God, my Vereerde Een, my Koning, my Begeerte! Watter tong kan my dank aan U t
 
 -- Bahá'u'lláh
 
-bpn3131 «[Afrikaans](../af/prayers/#bpn3131)» 
+bpn3131 
 
 ----
 
@@ -273,17 +274,17 @@ O U Wie se aangesig die oogmerk van my huldiging is, Wie se prag my toevlugsoord
 
 -- Bahá'u'lláh
 
-bpn3132 «[Afrikaans](../af/prayers/#bpn3132)» 
+bpn3132 
 
 ----
 
 
 <a id="bpn3133"></a> 
-Here! Armsalig is ons, verleen ons U guns; arm, skenk ons &#39;n gedeelte van die oseaan van U rykdom; behoeftig, bevredig ons; vernederd, gee ons U luister. Die voëls van die lug en die diere van die veld ontvang elke dag hulle voedsel van U, en alle skepsels neem deel aan U versorging en U vriendelike goedheid.Ontneem nie hierdie swak een U wonderbaarlike genade nie, en vergun deur U mag U goedertierenheid aan hierdie hulpelose siel.Gee ons ons daaglikse brood en skenk U aanwas in die behoeftes van die lewe, sodat ons van niemand anders as U mag afhang nie, geheel en al met U mag gemeenskap hê, in U weë mag wandel en U verborgenhede mag bekend maak. U is die Almagtige en die Liefhebbende en die Voorsiener van die hele mensdom.
+Here! Armsalig is ons, verleen ons U guns; arm, skenk ons 'n gedeelte van die oseaan van U rykdom; behoeftig, bevredig ons; vernederd, gee ons U luister. Die voëls van die lug en die diere van die veld ontvang elke dag hulle voedsel van U, en alle skepsels neem deel aan U versorging en U vriendelike goedheid.Ontneem nie hierdie swak een U wonderbaarlike genade nie, en vergun deur U mag U goedertierenheid aan hierdie hulpelose siel.Gee ons ons daaglikse brood en skenk U aanwas in die behoeftes van die lewe, sodat ons van niemand anders as U mag afhang nie, geheel en al met U mag gemeenskap hê, in U weë mag wandel en U verborgenhede mag bekend maak. U is die Almagtige en die Liefhebbende en die Voorsiener van die hele mensdom.
 
 -- Abdu'l-Bahá
 
-bpn3133 «[Afrikaans](../af/prayers/#bpn3133)» 
+bpn3133 
 
 ----
 
@@ -293,7 +294,7 @@ Verwyder nie, o Here, die feestelike tafel wat in U naam gesprei is nie, en doof
 
 -- Abdu'l-Bahá
 
-bpn3134 «[Afrikaans](../af/prayers/#bpn3134)» 
+bpn3134 
 
 ----
 
@@ -303,11 +304,11 @@ bpn3134 «[Afrikaans](../af/prayers/#bpn3134)»
 ## Dag van God
 
 <a id="bpn3141"></a> 
-Verheerlik sy U Naam, o my God, omdat U die Dag geopenbaar het wat die Koning van Dae is, die Dag wat U aan U Uitverkorenes en U Profete in U mees voortreflike Tafels aangekondig het, die Dag waarop U die prag van die glorie van al U name op alle geskape dinge uitgestraal het. Groot is die geluksaligheid van wie ook hom in U rigting ingestel het, en in U teenwoordigheid ingegaan het, en die nadrukke van U stem gevang het.Ek smeek U, o my Here, in die naam van Hom rondom Wie die Koninkryk van U name in aanbidding wentel, dat u diegene wat vir U dierbaar is goedgunstiglik sal help om U woord onder U dienaars te verheerlik, en om U lof onder U skepsels te laat uitstraal, sodat die verrukkings van U Openbaring die siele van alle bewoners van U aarde Mag vul.Aangesien U, o my Here, hulle gelei het na die lewende waters van U genade, vergun, deur U milddadigheid, dat hulle nie terggehou sal word van U nie; en aangesien U hulle laat roep het na die woonplaas van U troon, drywe hulle nie weg uit U teenwoordigheid nie, deur U vriendelike goedheid. Laat daal op hulle wat hulle volkome van alles behalwe U sal afsonder, en stel hulle in staat om in die atmosfeer van U nabyheid te sweef, op so &#39;n manier dat nòg die oorhand van die verdrukker nòg die suggesties van diegene wat nie in U en in U mees verhewe en mees magtige Self geglo het nie, bekwaam sal wees om hulle van U terug te hou nie.
+Verheerlik sy U Naam, o my God, omdat U die Dag geopenbaar het wat die Koning van Dae is, die Dag wat U aan U Uitverkorenes en U Profete in U mees voortreflike Tafels aangekondig het, die Dag waarop U die prag van die glorie van al U name op alle geskape dinge uitgestraal het. Groot is die geluksaligheid van wie ook hom in U rigting ingestel het, en in U teenwoordigheid ingegaan het, en die nadrukke van U stem gevang het.Ek smeek U, o my Here, in die naam van Hom rondom Wie die Koninkryk van U name in aanbidding wentel, dat u diegene wat vir U dierbaar is goedgunstiglik sal help om U woord onder U dienaars te verheerlik, en om U lof onder U skepsels te laat uitstraal, sodat die verrukkings van U Openbaring die siele van alle bewoners van U aarde Mag vul.Aangesien U, o my Here, hulle gelei het na die lewende waters van U genade, vergun, deur U milddadigheid, dat hulle nie terggehou sal word van U nie; en aangesien U hulle laat roep het na die woonplaas van U troon, drywe hulle nie weg uit U teenwoordigheid nie, deur U vriendelike goedheid. Laat daal op hulle wat hulle volkome van alles behalwe U sal afsonder, en stel hulle in staat om in die atmosfeer van U nabyheid te sweef, op so 'n manier dat nòg die oorhand van die verdrukker nòg die suggesties van diegene wat nie in U en in U mees verhewe en mees magtige Self geglo het nie, bekwaam sal wees om hulle van U terug te hou nie.
 
 -- Bahá'u'lláh
 
-bpn3141 «[Afrikaans](../af/prayers/#bpn3141)» 
+bpn3141 
 
 ----
 
@@ -321,7 +322,7 @@ O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hi
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» 
+BH02848 «[English](../../en/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
 
 ----
 
@@ -331,21 +332,21 @@ BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH028
 ## Die Huwelik
 
 <a id="bpn3244"></a> 
-*,Die Bahá&#39;í huwelik is verbintenis en hartlike toegeneentheid tussen die twee persone. Hulle moet egter die uiterste sorg uitoefen en kennis maak met mekaar se karakter. Hierdie ewige band behoort verstewig te word deur &#39;n ferm verbond, en die voorneme behoort te wees om eendrag, gemeenskapsgevoel en eengesindheid te bevorder, en om, die ewige lewe te verkry.&#39; - &#39;Abdu&#39;l-Bahá&#39;*Die belofte van die huwelik, die vers wat afsonderlik deur die bruid en bruidegom gesê moet word in die teenwoordigheid van ten minste twee getuies aanvaardbaar vir die Geestelike Raad, is, soos in die Kitáb-i-Aqdas (Die Allerheiligste Boek) bepaal: ,Ons sal almal, voorwaar, by die Wil van God bly.&#39; Hy is die Vrygewige, die Almildelike!Lof sy aan God, Aloue, die Immer-Blywende, die Onveranderlike, die Ewige! Hy Wat in Sy eie Wese getuig het dat Hy voorwaar die Een is, die Enkele, die Onbelemmerde, die Verhewe. Ons getuig dat daar voorwaar geen God behalwe Hom is nie, erken Sy eenheid, bely Sy enkelvoudigheid. Hy het nog altyd in ontoeganklike hoogtes gewoon, in die kruine van Sy verhewenheid, geheilig van die melding van alles behalwe Hom, vry van die beskrywing van alles buiten Hom.En toe Hy begeer het om genade en heilsaamheid aan die mense te openbaar, en om die wêreld reg te stel, het Hy voorskrifte bekend gemaak en wette geskape; daaronder het Hy die wet van die huwelik ingestel, dit soos &#39;n vesting gemaak vir welsyn en verlossing, en dit ons gelas in dit wat uit die hemel van heiligheid in Sy Allerheiligste Boek op ons laat daal is. Hy sê, groot is Sy heerlikheid: ,Trou, o mense, dat uit julle hy mag voortkom wat My onder My dienaars sal onthou; dit is een van My gebooie aan julle; gehoorsaam dit tot steun vir julleself.&#39;
+*,Die Bahá'í huwelik is verbintenis en hartlike toegeneentheid tussen die twee persone. Hulle moet egter die uiterste sorg uitoefen en kennis maak met mekaar se karakter. Hierdie ewige band behoort verstewig te word deur 'n ferm verbond, en die voorneme behoort te wees om eendrag, gemeenskapsgevoel en eengesindheid te bevorder, en om, die ewige lewe te verkry.' - 'Abdu'l-Bahá'*Die belofte van die huwelik, die vers wat afsonderlik deur die bruid en bruidegom gesê moet word in die teenwoordigheid van ten minste twee getuies aanvaardbaar vir die Geestelike Raad, is, soos in die Kitáb-i-Aqdas (Die Allerheiligste Boek) bepaal: ,Ons sal almal, voorwaar, by die Wil van God bly.' Hy is die Vrygewige, die Almildelike!Lof sy aan God, Aloue, die Immer-Blywende, die Onveranderlike, die Ewige! Hy Wat in Sy eie Wese getuig het dat Hy voorwaar die Een is, die Enkele, die Onbelemmerde, die Verhewe. Ons getuig dat daar voorwaar geen God behalwe Hom is nie, erken Sy eenheid, bely Sy enkelvoudigheid. Hy het nog altyd in ontoeganklike hoogtes gewoon, in die kruine van Sy verhewenheid, geheilig van die melding van alles behalwe Hom, vry van die beskrywing van alles buiten Hom.En toe Hy begeer het om genade en heilsaamheid aan die mense te openbaar, en om die wêreld reg te stel, het Hy voorskrifte bekend gemaak en wette geskape; daaronder het Hy die wet van die huwelik ingestel, dit soos 'n vesting gemaak vir welsyn en verlossing, en dit ons gelas in dit wat uit die hemel van heiligheid in Sy Allerheiligste Boek op ons laat daal is. Hy sê, groot is Sy heerlikheid: ,Trou, o mense, dat uit julle hy mag voortkom wat My onder My dienaars sal onthou; dit is een van My gebooie aan julle; gehoorsaam dit tot steun vir julleself.'
 
 -- Bahá'u'lláh
 
-bpn3244 «[Afrikaans](../af/prayers/#bpn3244)» 
+bpn3244 
 
 ----
 
 
 <a id="bpn3245"></a> 
-Hy is God! O weergalose Here! In U almagtige wysheid het U die huwelik aan die volke voorgeskrywe, dat die geslagte van mense op mekaar mag volg in hierdie verganklike wêreld, en dat hulle altyd, solank die wêreld sal voortduur, hulle op die drumpel van U eenheid met diensbaarheid en aanbidding, met begroeting, verering en lof sal besig hou. ,Ek het nie geeste en mense geskape, behalwe dat hulle my behoort te aanbid nie.&#39;1 Trou U dus in die hemel van U genade hierdie twee voëls van die nes van U liefde, en maak hulle die middel om ewigdurende genade aan te trek; sodat uit die verbinding van hierdie twee seë van liefde daar &#39;n golf van teerhartigheid mag golf en die pêrels van &#39;n suiwer en fraai kroos op doe oewer van die lewe mag afwerp. ,Hy het die twee seë losgelaat, sodat hulle mekaar ontmoet: Tussen hulle is &#39;n versperring waaroor hulle nie gaan nie. Watter van julle Here se mildhede sal julle dan ontken? Van elkeen bring Hy groter en kleiner pêrels voort.&#39;O U Vriendelike Here! Maak dat hierdie huwelik koraal en pêrels voortbring. U is voorwaar die Almagtige, die Allergrootste, die Altyd-Vergewende!
+Hy is God! O weergalose Here! In U almagtige wysheid het U die huwelik aan die volke voorgeskrywe, dat die geslagte van mense op mekaar mag volg in hierdie verganklike wêreld, en dat hulle altyd, solank die wêreld sal voortduur, hulle op die drumpel van U eenheid met diensbaarheid en aanbidding, met begroeting, verering en lof sal besig hou. ,Ek het nie geeste en mense geskape, behalwe dat hulle my behoort te aanbid nie.'1 Trou U dus in die hemel van U genade hierdie twee voëls van die nes van U liefde, en maak hulle die middel om ewigdurende genade aan te trek; sodat uit die verbinding van hierdie twee seë van liefde daar 'n golf van teerhartigheid mag golf en die pêrels van 'n suiwer en fraai kroos op doe oewer van die lewe mag afwerp. ,Hy het die twee seë losgelaat, sodat hulle mekaar ontmoet: Tussen hulle is 'n versperring waaroor hulle nie gaan nie. Watter van julle Here se mildhede sal julle dan ontken? Van elkeen bring Hy groter en kleiner pêrels voort.'O U Vriendelike Here! Maak dat hierdie huwelik koraal en pêrels voortbring. U is voorwaar die Almagtige, die Allergrootste, die Altyd-Vergewende!
 
 -- Abdu'l-Bahá
 
-bpn3245 «[Afrikaans](../af/prayers/#bpn3245)» 
+bpn3245 
 
 ----
 
@@ -359,27 +360,27 @@ My God, Wat ek aanbid en vereer! Ek getuig van U eenheid en U enkelvoudigheid, e
 
 -- Bahá'u'lláh
 
-bpn3160 «[Afrikaans](../af/prayers/#bpn3160)» 
+bpn3160 
 
 ----
 
 
 <a id="bpn3161"></a> 
-Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.Hulle wat as &#39;t ware deur &#39;n sluier van U uitgesluit is, het gemeen dat hulle die mag het om U lig uit te doof, en om U vuur the blus, en om die winde van U genade stil te maak. Nee, en hiervan getuig U mag vir my! Indien iedere beproewing nie die draer van U wysheid gewees het nie, en elke swaar toets die middel van U voorsienigheid nie, sou niemand gedurf het om ons teen te staan nie, alhoewel die magte van die aarde en die hemel teen ons saamgespan was. Sou ek die wonderbaarlike geheime van U wysheid, wat voor my bloot lê, ontknoop, sou die teuels van U vyande uitmekaar gekloof word.Verheerlik sy U, o my God! Ek smeek U by U Allergrootste Naam, om diegene wat U bemin bymekaar te maak rondom die Wet wat vanaf die welbehae van U wil uitvloei, end dit op hulle te laat daal wat hulle harte verseker.Magtig is U om te doen wat U behaag. U is, voorwaar, die Hulp in Gevaar, die Selfbestaande.
+Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.Hulle wat as 't ware deur 'n sluier van U uitgesluit is, het gemeen dat hulle die mag het om U lig uit te doof, en om U vuur the blus, en om die winde van U genade stil te maak. Nee, en hiervan getuig U mag vir my! Indien iedere beproewing nie die draer van U wysheid gewees het nie, en elke swaar toets die middel van U voorsienigheid nie, sou niemand gedurf het om ons teen te staan nie, alhoewel die magte van die aarde en die hemel teen ons saamgespan was. Sou ek die wonderbaarlike geheime van U wysheid, wat voor my bloot lê, ontknoop, sou die teuels van U vyande uitmekaar gekloof word.Verheerlik sy U, o my God! Ek smeek U by U Allergrootste Naam, om diegene wat U bemin bymekaar te maak rondom die Wet wat vanaf die welbehae van U wil uitvloei, end dit op hulle te laat daal wat hulle harte verseker.Magtig is U om te doen wat U behaag. U is, voorwaar, die Hulp in Gevaar, die Selfbestaande.
 
 -- Bahá'u'lláh
 
-bpn3161 «[Afrikaans](../af/prayers/#bpn3161)» 
+bpn3161 
 
 ----
 
 
 <a id="bpn3157"></a> 
-O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U drumpel en het vergader onder die beskuttende skaduwee van U goddelike eenheid. Die son van U genade skyn oor almal, en die wolke van U mildheid stroom op almal neer. U gawes omring almal, U liefderyke voorsienigheid steun almal, U beskerming oorskadu almal, en die blikke van U begunstiging is op almal gerig. O Here! Gee U oneindige skenkings, en laat die lig van u leiding skyn. Verlig die oë, vervrolik die harte met blywende vreugde. Verleen &#39;n nuwe gees aan alle mense en skenk hulle die ewige lewe. Ontsluit die hekke van ware insig en laat die lig van geloof luisterryk skyn. Versamel al die mense onder die skaduwee van U mildheid en maak dat hulle in harmonie verenig, sodat hulle soos die strale van een son mag word, soos die golwe van een oseaan en soos die vrugte van een boom. Mag hulle van dieselfde fontein drink. Mag hulle deur dieselfde luggie verfris word. Mag hulle verligting ontvang van dieselfde bron van lig. U is die Gewer, die Genadige, die Alvermoënde.
+O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U drumpel en het vergader onder die beskuttende skaduwee van U goddelike eenheid. Die son van U genade skyn oor almal, en die wolke van U mildheid stroom op almal neer. U gawes omring almal, U liefderyke voorsienigheid steun almal, U beskerming oorskadu almal, en die blikke van U begunstiging is op almal gerig. O Here! Gee U oneindige skenkings, en laat die lig van u leiding skyn. Verlig die oë, vervrolik die harte met blywende vreugde. Verleen 'n nuwe gees aan alle mense en skenk hulle die ewige lewe. Ontsluit die hekke van ware insig en laat die lig van geloof luisterryk skyn. Versamel al die mense onder die skaduwee van U mildheid en maak dat hulle in harmonie verenig, sodat hulle soos die strale van een son mag word, soos die golwe van een oseaan en soos die vrugte van een boom. Mag hulle van dieselfde fontein drink. Mag hulle deur dieselfde luggie verfris word. Mag hulle verligting ontvang van dieselfde bron van lig. U is die Gewer, die Genadige, die Alvermoënde.
 
 -- Abdu'l-Bahá
 
-bpn3157 «[Afrikaans](../af/prayers/#bpn3157)» 
+bpn3157 
 
 ----
 
@@ -389,7 +390,7 @@ O U medelydende Here, U Wat vrygewig en bekwaam is! Ons is dienaars van U wat on
 
 -- Abdu'l-Bahá
 
-bpn3158 «[Afrikaans](../af/prayers/#bpn3158)» 
+bpn3158 
 
 ----
 
@@ -399,7 +400,7 @@ O U vriendelike Here! U het die hele mensheid van dieselfde oorspronklike stam g
 
 -- Abdu'l-Bahá
 
-bpn3159 «[Afrikaans](../af/prayers/#bpn3159)» 
+bpn3159 
 
 ----
 
@@ -409,11 +410,11 @@ bpn3159 «[Afrikaans](../af/prayers/#bpn3159)»
 ## Die Tafel van Ahmad
 
 <a id="bpn3222"></a> 
-*&#34;Hierdie daaglikse verpligte gebede, saam met nog &#39;n paar spesifiekes, soos die Genesingsgebed, die Tafel van Ahmad, is deur Bahá&#39;u&#39;lláh beklee met &#39;n besondere krag en betekenis, en daarom behoort as sodanig aanvaar te word, en deur die gelowiges met geloof en vertroue en sonder twyfel gesê te word, sodat hulle deur middel daarvan &#39;n veel nouer verbinding met God kan aanknoop, en hulle vollediger met Sy wette en insettinge kan vereenselwig.&#34; - Uit &#39;n brief geskryf namens Shoghi Effendi Hy is die Koning, die Alwetende, die Wyse!Kyk, die Nagtegaal van die Paradys sing op die takkies van die Boom van die Ewigheid, met heilige en soet melodieë, verkondig aan die opregtes die blye tyding van die nabyheid van God, roep die gelowiges in die Goddelike Eenheid na die hof van die Aanwesigheid van die Vrygewige, deel aan die afgeskeidenes mee die boodskap wat deur God, die Koning, die Glorieryke, die Ongeëwenaarde geopenbaar is, lei die liefhebbers na die setel van heiligheid en na hierdie luisterryke Skoonheid.Waarlik dit is daardie Allergrootste Skoonheid wat voorspel is in die Boeke van die Boodskappers, deur Wie die waarheid van afwyking onderskei sal word en die wysheid van elke gebod op die proef gestel sal word. Waarlik Hy is die Boom van die Lewe wat die vrugte van God, die Verhewe, die Kragtige, die Grote voortbring.O Ahmad! Getuig dat Hy waarlik God is en dat daar geen God buiten Hom is nie, die Koning, die Beskermer, die Onvergelyklike, die Alvermoënde. En dat die Een Wat Hy uitgestuur het met die naam &#39;Alí1 die ware Een van God was, na Wie se gebooie ons ons almal skik.Sê: o mense gehoorsaam die insettinge van God wat voorgeskryf is in die Bayán deur die Glorieryke, die Wyse. Waarlik Hy is die Koning van die Boodskappers en Sy Boek is die Moederboek, het julle maar geweet.Aldus uiter die Nagtegaal Sy gefluit aan julle van hierdie gevangenis. Hy moet net hierdie duidelike boodskap aflewer. Wie ook al dit verlang, laat hy hom van hierdie raad afwend en wie ook al so verlang laat hy die weg na sy Here kies.O mense, as julle hierdie verse ontken, deur watter bewys het julle God geglo? Lewer dit, o menigte van valses.Nee, by die Een in Wie se hand my siel is, hulle is nie, en sal nooit in staat wees om dit te doen nie, al verenig hulle om mekaar te steun.O Ahmad! Vergeet nie My goedertierenheid terwyl Ek afwesig is nie. Onthou My dae gedurende jou dae en My ellende en ballingskap in hierdie afgeleë gevangenis. En wees jy so standvastig in My liefde dat jou hart nie sal weifel nie, al reën die swaarde van die vyande houe op joui en staan al die hemele en die aarde teen jou op.Wees soos &#39;n vlam van vuur vir My vyande en &#39;n rivier van ewigdurende lewe vir My geliefdes en wees nie van hulle wat twyfel nie.En as jy oorval word deur beproewing in My weg, of vernedering om My onthalwe, wees nie daaroor gekwel nie.Vertrou op God, jou God en die Here van jou vaders. Want die mense dwaal n die weë van misleiding, beroof van onderskeidingsvermoë om God met hulle eie oë te sien of Sy Melodie met hulle eie ore te hoor. Só het Ons hulle gevind, soos jy ook getuig.Só het hulle bygelowe sluiers tussen hulle en hulle eie harte geword en hulle weggehou van die pad van God, die Verhewe, die Grote.Wees in jouself versekerd dat waarlik, hy wat hom van hierdie Skoonheid afwend, hom ook van die Boodskappers van die verlede afgewend het en hoogmoed voor God toon van ewigheid tot ewigheid.Leer hierdie Tafel goed, o Ahmad. Sing dit gedurende jou dae en weerhou jouself nie daarvan nie. Want waarlik, God het vir dié wat dit sing, die beloning van &#39;n honderd martelare en &#39;n diens in albei wêrelde beskik. Hierdie gunste het Ons aan jou geskenk as &#39;n gawe aan Ons kant en &#39;n barmhartigheid van Ons teenwoordigheid dat jy van dié wat dankbaar is mag wees.Voor God! Sou iemand wat in beproewing of verdriet hierdie Tafel met volkome opregtheid lees, sou God sy droefheid verdryf, sy moeilikhede oplos en sy beproewings verwyder.Waarlik, Hy is die Genadige, die Medelydende. Geloof sy God, die Heer van al die wêrelde.
+*"Hierdie daaglikse verpligte gebede, saam met nog 'n paar spesifiekes, soos die Genesingsgebed, die Tafel van Ahmad, is deur Bahá'u'lláh beklee met 'n besondere krag en betekenis, en daarom behoort as sodanig aanvaar te word, en deur die gelowiges met geloof en vertroue en sonder twyfel gesê te word, sodat hulle deur middel daarvan 'n veel nouer verbinding met God kan aanknoop, en hulle vollediger met Sy wette en insettinge kan vereenselwig." - Uit 'n brief geskryf namens Shoghi Effendi Hy is die Koning, die Alwetende, die Wyse!Kyk, die Nagtegaal van die Paradys sing op die takkies van die Boom van die Ewigheid, met heilige en soet melodieë, verkondig aan die opregtes die blye tyding van die nabyheid van God, roep die gelowiges in die Goddelike Eenheid na die hof van die Aanwesigheid van die Vrygewige, deel aan die afgeskeidenes mee die boodskap wat deur God, die Koning, die Glorieryke, die Ongeëwenaarde geopenbaar is, lei die liefhebbers na die setel van heiligheid en na hierdie luisterryke Skoonheid.Waarlik dit is daardie Allergrootste Skoonheid wat voorspel is in die Boeke van die Boodskappers, deur Wie die waarheid van afwyking onderskei sal word en die wysheid van elke gebod op die proef gestel sal word. Waarlik Hy is die Boom van die Lewe wat die vrugte van God, die Verhewe, die Kragtige, die Grote voortbring.O Ahmad! Getuig dat Hy waarlik God is en dat daar geen God buiten Hom is nie, die Koning, die Beskermer, die Onvergelyklike, die Alvermoënde. En dat die Een Wat Hy uitgestuur het met die naam 'Alí1 die ware Een van God was, na Wie se gebooie ons ons almal skik.Sê: o mense gehoorsaam die insettinge van God wat voorgeskryf is in die Bayán deur die Glorieryke, die Wyse. Waarlik Hy is die Koning van die Boodskappers en Sy Boek is die Moederboek, het julle maar geweet.Aldus uiter die Nagtegaal Sy gefluit aan julle van hierdie gevangenis. Hy moet net hierdie duidelike boodskap aflewer. Wie ook al dit verlang, laat hy hom van hierdie raad afwend en wie ook al so verlang laat hy die weg na sy Here kies.O mense, as julle hierdie verse ontken, deur watter bewys het julle God geglo? Lewer dit, o menigte van valses.Nee, by die Een in Wie se hand my siel is, hulle is nie, en sal nooit in staat wees om dit te doen nie, al verenig hulle om mekaar te steun.O Ahmad! Vergeet nie My goedertierenheid terwyl Ek afwesig is nie. Onthou My dae gedurende jou dae en My ellende en ballingskap in hierdie afgeleë gevangenis. En wees jy so standvastig in My liefde dat jou hart nie sal weifel nie, al reën die swaarde van die vyande houe op joui en staan al die hemele en die aarde teen jou op.Wees soos 'n vlam van vuur vir My vyande en 'n rivier van ewigdurende lewe vir My geliefdes en wees nie van hulle wat twyfel nie.En as jy oorval word deur beproewing in My weg, of vernedering om My onthalwe, wees nie daaroor gekwel nie.Vertrou op God, jou God en die Here van jou vaders. Want die mense dwaal n die weë van misleiding, beroof van onderskeidingsvermoë om God met hulle eie oë te sien of Sy Melodie met hulle eie ore te hoor. Só het Ons hulle gevind, soos jy ook getuig.Só het hulle bygelowe sluiers tussen hulle en hulle eie harte geword en hulle weggehou van die pad van God, die Verhewe, die Grote.Wees in jouself versekerd dat waarlik, hy wat hom van hierdie Skoonheid afwend, hom ook van die Boodskappers van die verlede afgewend het en hoogmoed voor God toon van ewigheid tot ewigheid.Leer hierdie Tafel goed, o Ahmad. Sing dit gedurende jou dae en weerhou jouself nie daarvan nie. Want waarlik, God het vir dié wat dit sing, die beloning van 'n honderd martelare en 'n diens in albei wêrelde beskik. Hierdie gunste het Ons aan jou geskenk as 'n gawe aan Ons kant en 'n barmhartigheid van Ons teenwoordigheid dat jy van dié wat dankbaar is mag wees.Voor God! Sou iemand wat in beproewing of verdriet hierdie Tafel met volkome opregtheid lees, sou God sy droefheid verdryf, sy moeilikhede oplos en sy beproewings verwyder.Waarlik, Hy is die Genadige, die Medelydende. Geloof sy God, die Heer van al die wêrelde.
 
 -- Bahá'u'lláh
 
-bpn3222 «[Afrikaans](../af/prayers/#bpn3222)» 
+bpn3222 
 
 ----
 
@@ -423,21 +424,21 @@ bpn3222 «[Afrikaans](../af/prayers/#bpn3222)»
 ## Die Tafels van Besoeking
 
 <a id="bpn3223"></a> 
-*Hierdie Tafel by die Heiligdomme van Bahá&#39;u&#39;lláh en die Báb gelees. Dit word ook dikwels gebruik om Hulle jaardae te gedenk. Die lof wat van U verhewenste Self opgegaan het, en die heerlikheid wat uit U luisterrykste Prag geskyn het, rus op U, o U Wat die Openbaring van Grootheid is, en die Koning van die Ewigheid, en die Here van almal wat in die hemel en op aarde is! Ek getuig dat deur U die oppermag van God en Sy heerskappy, en die majesteit van God en Sy grootheid geopenbaar is, en die Dagsterre van oue luister hulle glans in die hemel van U onherroeplike verordening gewerp het, en die Prag van die Ongesiene bo die horison van die skepping geskyn het. Ek getuig, bowendien, dat met slegs &#39;n beweging van U Pen U opdrag ,Wees U&#39; uitgevoer is, en God se verborge Geheim onthul is, en alle geskape dinge in die lewe geroep is, en al die Openbarings laat daal is.Ek getuig, bowendien, dat deur U prag die prag van die Vereerde Een ontsluier is, en deur U gelaat die gelaat van die Begeerde Een geskyn het, en deur &#39;n woord van U, U tussen alle geskape dinge besluit het, waardeur diegene wat aan U toegewy is na die kruin van heerlikheid opgestyg het, en die ongelowiges in die diepste afgrond geval het.Ek getuig dat hy wat U geken het God geken het, en hy wat U teenwoordigheid bereik het, die teenwoordigheid van God bereik het. Groot is dus die geluksaligheid van hom wat in U en in U tekens geglo het, en homself voor U oppermag verootmoedig het, en geëer is om U te ontmoet, en die welbehae van U wil bereik het, en rondom U beweeg het, en voor U troon gestaan het. Wee hom wat teen U oortree het, en U verloën het, en U tekens verwerp het, en U oppermag weerspreek het, en teen U opgestaan het, en voor U aangesig hoogmoedig geword het, en U getuienisse betwis het, en van U gesag en U heerskappy gevlug het, en met die ongelowiges saam gestel is, wie se name deur die vingers van U opdrag op U heilige Tafels gegraveer is.Waai dan, na my toe, o my God en my Beminde, uit die regterhand van U genade en U vriendelike goedheid, die heilige adems van U gunste, dat hulle my van myself en van die wêreld na die voorhowe van U nabyheid en U teenwoordigheid mag trek. Sterk is U om te doen wat U behaag. U was waarlik oppermagtig oor alle dinge.Die aandenking aan God en Sy lof, en die heerlikheid van God en Sy luister, rus op U, o U Wat Sy Prag is! Ek getuig dat die oog van die skepping nog nooit op &#39;n veronregte een soos U getuur het nie. U was gedurende al die dae van U lewe onder &#39;n oseaan van beproewinge versonke. Daar was &#39;n tyd dat U in kettings en boeie was; op &#39;n ander tyd was U deur die swaard van U vyande bedreig. En tog, nieteenstaande dit alles, het U op alle mense &#39;n beroep gedoen om dit te onderhou wat aan U deur Hom Wat die Alwetende, die Alwyse is, voorgeskryf was.Mag my gees &#39;n offer wees vir die onregte wat U gely het, en my siel &#39;n losprys vir die teenspoede wat U verduur het. Ek smeek God, by U en by hulle wie se gesigte verlig is deur die luister van die lig van U gelaat, en wat, uit liefde vir U, alles nagekom het wat hulle beveel is, om die sluiers te verwyder wat tussen U en U skepsels gekom het, en om my te voorsien van die goeie van hierdie wêreld en die wêreld wat kom. U is, in der waarheid, die Almagtige, die Verhewenste, die Alglorieryke, die Altyd-Vergewende, die Barmhartigste.Seën U, o Here my God, die Goddelike Lotusboom en sy blare, en sy takke, en sy lote, en sy stamme, en sy spruite, solank U voortreflikste titels sal bly bestaan en U verhewenste eienskappe sal duur. Beskerm dit dan teen die onheil van die aanvaller en die skares van geweldenary. U is, in der waarheid, die Almagtige, die Kragtigste. Seën U, ook, o Here my God, U diensknegte en U diensmaagde wat U bereik het. U is, voorwaar, die Almilddadige, Wie se genade oneindig is. Geen God is daar behalwe U nie, die Ewig-Vergewende, die Vrygewigste.
+*Hierdie Tafel by die Heiligdomme van Bahá'u'lláh en die Báb gelees. Dit word ook dikwels gebruik om Hulle jaardae te gedenk. Die lof wat van U verhewenste Self opgegaan het, en die heerlikheid wat uit U luisterrykste Prag geskyn het, rus op U, o U Wat die Openbaring van Grootheid is, en die Koning van die Ewigheid, en die Here van almal wat in die hemel en op aarde is! Ek getuig dat deur U die oppermag van God en Sy heerskappy, en die majesteit van God en Sy grootheid geopenbaar is, en die Dagsterre van oue luister hulle glans in die hemel van U onherroeplike verordening gewerp het, en die Prag van die Ongesiene bo die horison van die skepping geskyn het. Ek getuig, bowendien, dat met slegs 'n beweging van U Pen U opdrag ,Wees U' uitgevoer is, en God se verborge Geheim onthul is, en alle geskape dinge in die lewe geroep is, en al die Openbarings laat daal is.Ek getuig, bowendien, dat deur U prag die prag van die Vereerde Een ontsluier is, en deur U gelaat die gelaat van die Begeerde Een geskyn het, en deur 'n woord van U, U tussen alle geskape dinge besluit het, waardeur diegene wat aan U toegewy is na die kruin van heerlikheid opgestyg het, en die ongelowiges in die diepste afgrond geval het.Ek getuig dat hy wat U geken het God geken het, en hy wat U teenwoordigheid bereik het, die teenwoordigheid van God bereik het. Groot is dus die geluksaligheid van hom wat in U en in U tekens geglo het, en homself voor U oppermag verootmoedig het, en geëer is om U te ontmoet, en die welbehae van U wil bereik het, en rondom U beweeg het, en voor U troon gestaan het. Wee hom wat teen U oortree het, en U verloën het, en U tekens verwerp het, en U oppermag weerspreek het, en teen U opgestaan het, en voor U aangesig hoogmoedig geword het, en U getuienisse betwis het, en van U gesag en U heerskappy gevlug het, en met die ongelowiges saam gestel is, wie se name deur die vingers van U opdrag op U heilige Tafels gegraveer is.Waai dan, na my toe, o my God en my Beminde, uit die regterhand van U genade en U vriendelike goedheid, die heilige adems van U gunste, dat hulle my van myself en van die wêreld na die voorhowe van U nabyheid en U teenwoordigheid mag trek. Sterk is U om te doen wat U behaag. U was waarlik oppermagtig oor alle dinge.Die aandenking aan God en Sy lof, en die heerlikheid van God en Sy luister, rus op U, o U Wat Sy Prag is! Ek getuig dat die oog van die skepping nog nooit op 'n veronregte een soos U getuur het nie. U was gedurende al die dae van U lewe onder 'n oseaan van beproewinge versonke. Daar was 'n tyd dat U in kettings en boeie was; op 'n ander tyd was U deur die swaard van U vyande bedreig. En tog, nieteenstaande dit alles, het U op alle mense 'n beroep gedoen om dit te onderhou wat aan U deur Hom Wat die Alwetende, die Alwyse is, voorgeskryf was.Mag my gees 'n offer wees vir die onregte wat U gely het, en my siel 'n losprys vir die teenspoede wat U verduur het. Ek smeek God, by U en by hulle wie se gesigte verlig is deur die luister van die lig van U gelaat, en wat, uit liefde vir U, alles nagekom het wat hulle beveel is, om die sluiers te verwyder wat tussen U en U skepsels gekom het, en om my te voorsien van die goeie van hierdie wêreld en die wêreld wat kom. U is, in der waarheid, die Almagtige, die Verhewenste, die Alglorieryke, die Altyd-Vergewende, die Barmhartigste.Seën U, o Here my God, die Goddelike Lotusboom en sy blare, en sy takke, en sy lote, en sy stamme, en sy spruite, solank U voortreflikste titels sal bly bestaan en U verhewenste eienskappe sal duur. Beskerm dit dan teen die onheil van die aanvaller en die skares van geweldenary. U is, in der waarheid, die Almagtige, die Kragtigste. Seën U, ook, o Here my God, U diensknegte en U diensmaagde wat U bereik het. U is, voorwaar, die Almilddadige, Wie se genade oneindig is. Geen God is daar behalwe U nie, die Ewig-Vergewende, die Vrygewigste.
 
 -- Bahá'u'lláh
 
-bpn3223 «[Afrikaans](../af/prayers/#bpn3223)» 
+bpn3223 
 
 ----
 
 
 <a id="bpn3224"></a> 
-*Hierdie gebed, deur &#39;Abdu&#39;l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.*Wie ook al hierdie gebed met nederigheid en geesdrif sê, sal blydskap en vreugde aan die hart van hierdie Dienaar bring; dit sal selfs wees soos om Hom van aangesig tot aangesig te ontmoet.Hy is die Alglorieryke!O God, my God! Verootmoedig en betraand, hef ek my smekende hande op na U en bedek ek my gesig met die stof van daardie Drumpel van U, verhewe bo die kennis van die geleerdes, en die lof van almal wat U verheerlik. Kyk genadiglik op U dienaar, nederig en verootmoedig voor U deur, met die blikke van die oog van U genade, en dompel hom in die Oseaan van U ewige guns.Here! Hy is &#39;n arm en nederige dienaar van U, gekluister en smeek U, &#39;n gevangene in U hand, bid U inniglik, vertrou in U, in trane voor U aangesig, roep na U en smeek U, en sê:O Here my God! Gee my U genade om U bemindes te dien, versterk my in my diensbaarheid aan U, verlig my voorhoof met die lig van verering in U hof van heiligheid, en van gebed aan U Koninkryk van grootheid. Help my om selfopofferend by die hemelse ingang van U poort te wees, en staan my by om van alle dinge binne U heilige voorhowe afgesonder te wees. Here! Gee my te drink van die beker van onselfsugtigheid; kleed my met sy gewaad, en dompel my in sy oseaan. Maak my soos stof in die weg van U geliefdes, en gee dat ek my siel mag opoffer vir die aarde veredel deur die voetstappe van U uitverkorenes in U weg, o Here van Heerlikheid in die Hoogste.Met hierdie gebed roep U dienaar U by die aanbreek van die dag en in die nagtyd. Vervul die verlange van sy hart, o Here! Verlig sy hart, verbly sy boesem, steek sy lig aan, sodat hy U Saak en U dienaars mag dien.U is die Skenker, die Jammerhartige, die Mees Milddadige, die Liefderyke, die Genadige, die Medelydende.
+*Hierdie gebed, deur 'Abdu'l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.*Wie ook al hierdie gebed met nederigheid en geesdrif sê, sal blydskap en vreugde aan die hart van hierdie Dienaar bring; dit sal selfs wees soos om Hom van aangesig tot aangesig te ontmoet.Hy is die Alglorieryke!O God, my God! Verootmoedig en betraand, hef ek my smekende hande op na U en bedek ek my gesig met die stof van daardie Drumpel van U, verhewe bo die kennis van die geleerdes, en die lof van almal wat U verheerlik. Kyk genadiglik op U dienaar, nederig en verootmoedig voor U deur, met die blikke van die oog van U genade, en dompel hom in die Oseaan van U ewige guns.Here! Hy is 'n arm en nederige dienaar van U, gekluister en smeek U, 'n gevangene in U hand, bid U inniglik, vertrou in U, in trane voor U aangesig, roep na U en smeek U, en sê:O Here my God! Gee my U genade om U bemindes te dien, versterk my in my diensbaarheid aan U, verlig my voorhoof met die lig van verering in U hof van heiligheid, en van gebed aan U Koninkryk van grootheid. Help my om selfopofferend by die hemelse ingang van U poort te wees, en staan my by om van alle dinge binne U heilige voorhowe afgesonder te wees. Here! Gee my te drink van die beker van onselfsugtigheid; kleed my met sy gewaad, en dompel my in sy oseaan. Maak my soos stof in die weg van U geliefdes, en gee dat ek my siel mag opoffer vir die aarde veredel deur die voetstappe van U uitverkorenes in U weg, o Here van Heerlikheid in die Hoogste.Met hierdie gebed roep U dienaar U by die aanbreek van die dag en in die nagtyd. Vervul die verlange van sy hart, o Here! Verlig sy hart, verbly sy boesem, steek sy lig aan, sodat hy U Saak en U dienaars mag dien.U is die Skenker, die Jammerhartige, die Mees Milddadige, die Liefderyke, die Genadige, die Medelydende.
 
 -- Abdu'l-Bahá
 
-bpn3224 «[Afrikaans](../af/prayers/#bpn3224)» 
+bpn3224 
 
 ----
 
@@ -447,81 +448,81 @@ bpn3224 «[Afrikaans](../af/prayers/#bpn3224)»
 ## Die Tafels van die Goddelike Plan
 
 <a id="bpn3227"></a> 
-O God die onvergelyklike! O U die Here van die Koninkryk! Hierdie siele is U hemelse leër. Help hulle en, met die hulp van die legioene van die Opperste Skare, maak hulle seëvierend, sodat elkeen van hulle mag word soos &#39;n regiment om hierdie lande te verower deur die liefde van God en die verligting van die goddelike leer.O God! Wees U hulle ondersteuner en hulle helper, en in die wildernis, die berg, die vallei, die bosse, die grasvlaktes en die seë, wees U hulle vertroude - sodat hulle deur die mag van die Koninkryk en die asem van die Heilige Gees mag uitroep.Werklik, U is die Sterke, die Magtige en die Alvermoënde, en U is die Wyse, die Horende en die Siende.
+O God die onvergelyklike! O U die Here van die Koninkryk! Hierdie siele is U hemelse leër. Help hulle en, met die hulp van die legioene van die Opperste Skare, maak hulle seëvierend, sodat elkeen van hulle mag word soos 'n regiment om hierdie lande te verower deur die liefde van God en die verligting van die goddelike leer.O God! Wees U hulle ondersteuner en hulle helper, en in die wildernis, die berg, die vallei, die bosse, die grasvlaktes en die seë, wees U hulle vertroude - sodat hulle deur die mag van die Koninkryk en die asem van die Heilige Gees mag uitroep.Werklik, U is die Sterke, die Magtige en die Alvermoënde, en U is die Wyse, die Horende en die Siende.
 
 -- Abdu'l-Bahá
 
-bpn3227 «[Afrikaans](../af/prayers/#bpn3227)» 
+bpn3227 
 
 ----
 
 
 <a id="bpn3228"></a> 
-O God, my God! U sien my verruk en aangetrek na U glorieryke koninkryk, onder die mensdom met die vuur van U liefde ontvlam, &#39;n boodskapper van U koninkryk in hierdie uitgestrekte en ruime lande, afgeskei van alles behalwe U, ek vertrou op U, doen afstand van rus en gemak, ver weg van my geboorteland, &#39;n swerwer in hierdie streke, &#39;n vreemdeling op die grond geval, ootmoedig voor U verhewe Drumpel, gedwee teenoor die hemel van U alvermoënde heerlikheid, ek smeek U in die middel van die nag en by dagbreek, soebat U teen môrelig en in die aand om my goedgunstig by te staan om U Saak te dien, om U Leer wyd en syd te versprei en U Woord deur die Ooste en die Weste te verheerlik.O Here! Sterk my rug, stel my in staat om U met die uiterste poging te dien, en laat my nie aan myself oor nie, eensaam en hulpeloos in hierdie streke.O Here! Vergun my gemeenskap met U in my eensaamheid en wees my metgesel in hierdie vreemde lande.Voorwaar, U is die Bevestiger van wie U ook al wil in dit wat U begeer, en, voorwaar, U is die Alkragtige, die Alvermoënde.
+O God, my God! U sien my verruk en aangetrek na U glorieryke koninkryk, onder die mensdom met die vuur van U liefde ontvlam, 'n boodskapper van U koninkryk in hierdie uitgestrekte en ruime lande, afgeskei van alles behalwe U, ek vertrou op U, doen afstand van rus en gemak, ver weg van my geboorteland, 'n swerwer in hierdie streke, 'n vreemdeling op die grond geval, ootmoedig voor U verhewe Drumpel, gedwee teenoor die hemel van U alvermoënde heerlikheid, ek smeek U in die middel van die nag en by dagbreek, soebat U teen môrelig en in die aand om my goedgunstig by te staan om U Saak te dien, om U Leer wyd en syd te versprei en U Woord deur die Ooste en die Weste te verheerlik.O Here! Sterk my rug, stel my in staat om U met die uiterste poging te dien, en laat my nie aan myself oor nie, eensaam en hulpeloos in hierdie streke.O Here! Vergun my gemeenskap met U in my eensaamheid en wees my metgesel in hierdie vreemde lande.Voorwaar, U is die Bevestiger van wie U ook al wil in dit wat U begeer, en, voorwaar, U is die Alkragtige, die Alvermoënde.
 
 -- Abdu'l-Bahá
 
-bpn3228 «[Afrikaans](../af/prayers/#bpn3228)» 
+bpn3228 
 
 ----
 
 
 <a id="bpn3229"></a> 
-O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; nietemin, ek het in U vertrou en het opgestaan in die bevordering van U leer onder U sterk dienaars, en reken op U krag en U mag.O Here! Ek is &#39;n voël met &#39;n gebroke vlerk en begeer om in U onbegrensde ruimte op te styg. Hoe is dit vir my moontlik om dit te doen behalwe deur U voorsiening en genade, U bevestiging en hulp?O Here! Ontferm U oor my swakheid en versterk my met U krag. O Here! Ontferm U oor my onvermoë en help my met U mag en majesteit.O Here! Indien die adem van die Heilige Gees die swakste van skepsels sou bevestig, sou hy alles bereik waarna hy streef en sou hy enigiets besit wat hy begeer. Inderdaad, U het U dienaars in die verlede gehelp en, alhoewel hulle die swakstes van U skepsels was, die nederigstes van U dienaars en die mees onbeduidendes van diegene wat op aarde geleef het, deur U goedkeuring en krag het hulle voorrang geniet bo die roemrykstes van U mense en die edelmoedigstes van die mensdom. Terwyl hulle voorheen soos motte was, het hulle soos vorstelike valke geword, en terwyl hulle voorheen soos spruite was, het hulle soos seë geword, deur U skenking en U genade. Hulle het deur U allergrootste guns sterre geword wat op die horison van leiding skyn, voëls wat in die roostuine van onsterflikheid sing, leeus wat brul in die woude van kennis en wysheid, en walvisse wat in die oseane van die lewe swem.Voorwaar, U is die Sagte, die Kragtige, die Magtige, en die Genadigste van die genadiges.
+O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; nietemin, ek het in U vertrou en het opgestaan in die bevordering van U leer onder U sterk dienaars, en reken op U krag en U mag.O Here! Ek is 'n voël met 'n gebroke vlerk en begeer om in U onbegrensde ruimte op te styg. Hoe is dit vir my moontlik om dit te doen behalwe deur U voorsiening en genade, U bevestiging en hulp?O Here! Ontferm U oor my swakheid en versterk my met U krag. O Here! Ontferm U oor my onvermoë en help my met U mag en majesteit.O Here! Indien die adem van die Heilige Gees die swakste van skepsels sou bevestig, sou hy alles bereik waarna hy streef en sou hy enigiets besit wat hy begeer. Inderdaad, U het U dienaars in die verlede gehelp en, alhoewel hulle die swakstes van U skepsels was, die nederigstes van U dienaars en die mees onbeduidendes van diegene wat op aarde geleef het, deur U goedkeuring en krag het hulle voorrang geniet bo die roemrykstes van U mense en die edelmoedigstes van die mensdom. Terwyl hulle voorheen soos motte was, het hulle soos vorstelike valke geword, en terwyl hulle voorheen soos spruite was, het hulle soos seë geword, deur U skenking en U genade. Hulle het deur U allergrootste guns sterre geword wat op die horison van leiding skyn, voëls wat in die roostuine van onsterflikheid sing, leeus wat brul in die woude van kennis en wysheid, en walvisse wat in die oseane van die lewe swem.Voorwaar, U is die Sagte, die Kragtige, die Magtige, en die Genadigste van die genadiges.
 
 -- Abdu'l-Bahá
 
-bpn3229 «[Afrikaans](../af/prayers/#bpn3229)» 
+bpn3229 
 
 ----
 
 
 <a id="bpn3230"></a> 
-O God, my God! U sien hoe die swart donkerheid alle streke omhul, hoe alle lande met die vlam van verdeeldheid brand, en die vuur van oorlog en slagting oor die Ooste en die Weste brand. Bloed vloei, lyke bestrooi die grond, en afgekapte koppe is in die stof van die slagveld geval.O Here! Ontferm U oor hierdie onkundiges en kyk op hulle met die oog van vergifnis en kwytskelding. Blus hierdie vuur, sodat hierdie dik wolke wat die horison verduister verdrewe mag word, die Son van Werklikheid met die strale van versoening mag skyn, hierdie geweldige somberheid mag verdryf word, en die blinkende lig van vrede sy luister op alle lande mag werp.O Here! Trek die mense op uit die afgrond van die oseaan van haat en vyandigheid en bevry hulle van hierdie ondeurdringbare donkerheid. Verenig hulle harte, en verhelder hulle oë met die lig van vrede en versoening. Bevry hulle van die dieptes van oorlog en bloedvergieting en stel hulle vry van die donkerheid van afwyking. Verwyder die sluier van hulle oë en verlig hulle harte met die lig van leiding. Behandel hulle met U tere genade en medelye, en handel nie met hulle volgens U geregtigheid en toorn nie, wat die ledemate van die magtiges laat bewe.O Here! Oorloë het aangehou. Nood en angs het groot geword en elke florerende streek is in puin gelê.O Here! Harte is swaar en siele is in benoudheid. Wees barmhartig vir hierdie arme siele en laat hulle nie oor aan die buitensporighede van hulle eie begeertes nie.O Here! Maak nederige en onderworpe siele openbaar in U lande, hulle gesigte verlig met die strale van leiding, van die wêreld afgeskei, wat U Naam loof, U lof uitspreek, en die geure van U heiligheid onder die mensdom versprei.O Here! Versterk hulle rûe, omgord hulle lendene, en verruk hulle harte met die magtigste tekens van U liefde.O Here! Voorwaar, hulle is swak, en U is die Kragtige en die Magtige; hulle is hulpeloos, en U is die Helper en die Genadige.O Here! Die oseaan van opstand golf, en hierdie storme sal nie bedaar nie behalwe deur U grenslose genade wat alle streke omvat het.O Here! Voorwaar, die mense is in die afgrond van hartstog, en niks behalwe U oneindige gawes kan hulle red nie.O Here! Verdryf die donkerheid van hierdie verdorwe begeerlikhede, en verlig die harte met die lamp van U liefde waardeur alle lande eersdaags verlig sal word. Bevestig, daarbenewens, U bemindes, hulle wat hulle tuislande, hulle families en hulle kinders verlaat het, en, uit liefde vir U prag, na vreemde lande gereis het om U geure te versprei en U Leer te verkondig. Wees U hulle metgesel in hulle eensaamheid, hulle helper in &#39;n vreemde land, die verwyderaar van hulle droefhede, hulle trooster in rampspoed. Wees U &#39;n verfrissende teug vir hulle dors, &#39;n genesende medisyne vir hulle siektes en &#39;n balsam vir die brandende ywer van hulle harte.Voorwaar, U is die Vrygewigste, die Here van oorvloeiende genade, en, voorwaar, U is die Medelydende en die Barmhartige.
+O God, my God! U sien hoe die swart donkerheid alle streke omhul, hoe alle lande met die vlam van verdeeldheid brand, en die vuur van oorlog en slagting oor die Ooste en die Weste brand. Bloed vloei, lyke bestrooi die grond, en afgekapte koppe is in die stof van die slagveld geval.O Here! Ontferm U oor hierdie onkundiges en kyk op hulle met die oog van vergifnis en kwytskelding. Blus hierdie vuur, sodat hierdie dik wolke wat die horison verduister verdrewe mag word, die Son van Werklikheid met die strale van versoening mag skyn, hierdie geweldige somberheid mag verdryf word, en die blinkende lig van vrede sy luister op alle lande mag werp.O Here! Trek die mense op uit die afgrond van die oseaan van haat en vyandigheid en bevry hulle van hierdie ondeurdringbare donkerheid. Verenig hulle harte, en verhelder hulle oë met die lig van vrede en versoening. Bevry hulle van die dieptes van oorlog en bloedvergieting en stel hulle vry van die donkerheid van afwyking. Verwyder die sluier van hulle oë en verlig hulle harte met die lig van leiding. Behandel hulle met U tere genade en medelye, en handel nie met hulle volgens U geregtigheid en toorn nie, wat die ledemate van die magtiges laat bewe.O Here! Oorloë het aangehou. Nood en angs het groot geword en elke florerende streek is in puin gelê.O Here! Harte is swaar en siele is in benoudheid. Wees barmhartig vir hierdie arme siele en laat hulle nie oor aan die buitensporighede van hulle eie begeertes nie.O Here! Maak nederige en onderworpe siele openbaar in U lande, hulle gesigte verlig met die strale van leiding, van die wêreld afgeskei, wat U Naam loof, U lof uitspreek, en die geure van U heiligheid onder die mensdom versprei.O Here! Versterk hulle rûe, omgord hulle lendene, en verruk hulle harte met die magtigste tekens van U liefde.O Here! Voorwaar, hulle is swak, en U is die Kragtige en die Magtige; hulle is hulpeloos, en U is die Helper en die Genadige.O Here! Die oseaan van opstand golf, en hierdie storme sal nie bedaar nie behalwe deur U grenslose genade wat alle streke omvat het.O Here! Voorwaar, die mense is in die afgrond van hartstog, en niks behalwe U oneindige gawes kan hulle red nie.O Here! Verdryf die donkerheid van hierdie verdorwe begeerlikhede, en verlig die harte met die lamp van U liefde waardeur alle lande eersdaags verlig sal word. Bevestig, daarbenewens, U bemindes, hulle wat hulle tuislande, hulle families en hulle kinders verlaat het, en, uit liefde vir U prag, na vreemde lande gereis het om U geure te versprei en U Leer te verkondig. Wees U hulle metgesel in hulle eensaamheid, hulle helper in 'n vreemde land, die verwyderaar van hulle droefhede, hulle trooster in rampspoed. Wees U 'n verfrissende teug vir hulle dors, 'n genesende medisyne vir hulle siektes en 'n balsam vir die brandende ywer van hulle harte.Voorwaar, U is die Vrygewigste, die Here van oorvloeiende genade, en, voorwaar, U is die Medelydende en die Barmhartige.
 
 -- Abdu'l-Bahá
 
-bpn3230 «[Afrikaans](../af/prayers/#bpn3230)» 
+bpn3230 
 
 ----
 
 
 <a id="bpn3231"></a> 
-O U liefdevolle Here! Lof sy aan U dat U ons die hoofweg van leiding gewys het, die deure van die koninkryk geopen het en Uself geopenbaar het deur die Son van Werklikheid. Aan die blindes het U gesig gegee; aan die dowes het U gehoor vergun; U het die dooies laat herlewe; U het die armes verryk; U het die weg gewys aan diegene wat afgedwaal het; U het diegene wat verdorde lippe gehad het na die fontein van leiding gelei; U het dir dors vis toegelaat om die oseaan van wesenlikheid te bereik; en U het die swerwende voëls na die roostuin van genade genooi.O U Almagtige! Ons is U dienaars en U armes; ons is ver afgeleë en verlang na U teenwoordigheid, is begerig vir die water van U fontein, is siek, verlangende na U gesondmaking. Ons wandel in U weg en het geen mikpunt of hoop behalwe die verspreiding van U geur nie, sodat alle siele die kreet mag verhef van ,O God, lei ons na die reguit weg.&#39; Mag hulle oë oopgemaak word om die lig te sien, en mag hulle van die donkerte van onkunde bevry word. Mag hulle rondom die lamp van U leiding vergader. Mag elke arme &#39;n aandeel ontvang. Mag die ontsegdes die vertroudes van U geheime word.O Almagtige! Kyk op ons met die blik van barmhartigheid. Skenk ons hemelse bevestiging. Verleen ons die asem van die Heilige Gees, sodat ons in U diens mag gehelp word en, soos skitterende sterre, met die lig van U leiding in hierdie streke skyn.Voorwaar, U is die Kragtige, die Magtige, die Wyse en die Siende.
+O U liefdevolle Here! Lof sy aan U dat U ons die hoofweg van leiding gewys het, die deure van die koninkryk geopen het en Uself geopenbaar het deur die Son van Werklikheid. Aan die blindes het U gesig gegee; aan die dowes het U gehoor vergun; U het die dooies laat herlewe; U het die armes verryk; U het die weg gewys aan diegene wat afgedwaal het; U het diegene wat verdorde lippe gehad het na die fontein van leiding gelei; U het dir dors vis toegelaat om die oseaan van wesenlikheid te bereik; en U het die swerwende voëls na die roostuin van genade genooi.O U Almagtige! Ons is U dienaars en U armes; ons is ver afgeleë en verlang na U teenwoordigheid, is begerig vir die water van U fontein, is siek, verlangende na U gesondmaking. Ons wandel in U weg en het geen mikpunt of hoop behalwe die verspreiding van U geur nie, sodat alle siele die kreet mag verhef van ,O God, lei ons na die reguit weg.' Mag hulle oë oopgemaak word om die lig te sien, en mag hulle van die donkerte van onkunde bevry word. Mag hulle rondom die lamp van U leiding vergader. Mag elke arme 'n aandeel ontvang. Mag die ontsegdes die vertroudes van U geheime word.O Almagtige! Kyk op ons met die blik van barmhartigheid. Skenk ons hemelse bevestiging. Verleen ons die asem van die Heilige Gees, sodat ons in U diens mag gehelp word en, soos skitterende sterre, met die lig van U leiding in hierdie streke skyn.Voorwaar, U is die Kragtige, die Magtige, die Wyse en die Siende.
 
 -- Abdu'l-Bahá
 
-bpn3231 «[Afrikaans](../af/prayers/#bpn3231)» 
+bpn3231 
 
 ----
 
 
 <a id="bpn3232"></a> 
-O my God! O my God! U sien my in my nederigheid en swakheid, besig met die grootste onderneming, vasberade om U woord onder die massa te verhef en U leer onder U volke te versprei. Hoe kan ek slaag tensy U my bystaan met die asem van die Heilige Gees, my help om te seëvier met die skares van U glorieryke koninkryk, en U bevestiging op my stort wat alleen &#39;n muggie in &#39;n arend kan verander, &#39;n druppel water in riviere en seë, en &#39;n atoom in ligte en sonne? O my Here! Steun my met U seëvierende en werkdadige mag, sodat my tong U lofsprake en eienskappe onder alle mense mag verkondig, en my siel van die wyn van U liefde en kennis mag oorloop.U is die Alvermoënde en die Doener van wat ook al U wens.
+O my God! O my God! U sien my in my nederigheid en swakheid, besig met die grootste onderneming, vasberade om U woord onder die massa te verhef en U leer onder U volke te versprei. Hoe kan ek slaag tensy U my bystaan met die asem van die Heilige Gees, my help om te seëvier met die skares van U glorieryke koninkryk, en U bevestiging op my stort wat alleen 'n muggie in 'n arend kan verander, 'n druppel water in riviere en seë, en 'n atoom in ligte en sonne? O my Here! Steun my met U seëvierende en werkdadige mag, sodat my tong U lofsprake en eienskappe onder alle mense mag verkondig, en my siel van die wyn van U liefde en kennis mag oorloop.U is die Alvermoënde en die Doener van wat ook al U wens.
 
 -- Abdu'l-Bahá
 
-bpn3232 «[Afrikaans](../af/prayers/#bpn3232)» 
+bpn3232 
 
 ----
 
 
 <a id="bpn3233"></a> 
-O Here, my God! Lof en danksegging sy aan U want U het my na die hoofweg van die koninkryk gelei, my toegelaat om in hierdie reguit en ver uitstrekkende weg te wandel, my oog verlig deur die luister van U lig te aanskou, my oor geneig na die melodieë van die voëls van die heiligheid van die koninkryk van verborgenhede en my hart aangetrek met U liefde onder die regverdiges.O Here! Bevestig my met die Heilige Gees, sodat ek U Naam onder die volkere mag verkondig en die blye tydinge van die openbaring van U koninkryk onder die mensdom mag gee.O Here! Ek is swak, versterk my met U krag en vermoë. My tong stamel, laat my toe om U herdenking en lof uit te spreek. Ek is nederig, eer my deur my in U koninkryk toe te laat. Ek is afgesonder, laat my die drumpel van U barmhartigheid nader. O Here! Maak my &#39;n skitterende lamp, &#39;n blinkende ster en &#39;n geseënde boom, versier met vrugte, sy takke al hierdie streke oorskaduwende. Voorwaar, U is die Magtige, die Kragtige en Ongedwonge.
+O Here, my God! Lof en danksegging sy aan U want U het my na die hoofweg van die koninkryk gelei, my toegelaat om in hierdie reguit en ver uitstrekkende weg te wandel, my oog verlig deur die luister van U lig te aanskou, my oor geneig na die melodieë van die voëls van die heiligheid van die koninkryk van verborgenhede en my hart aangetrek met U liefde onder die regverdiges.O Here! Bevestig my met die Heilige Gees, sodat ek U Naam onder die volkere mag verkondig en die blye tydinge van die openbaring van U koninkryk onder die mensdom mag gee.O Here! Ek is swak, versterk my met U krag en vermoë. My tong stamel, laat my toe om U herdenking en lof uit te spreek. Ek is nederig, eer my deur my in U koninkryk toe te laat. Ek is afgesonder, laat my die drumpel van U barmhartigheid nader. O Here! Maak my 'n skitterende lamp, 'n blinkende ster en 'n geseënde boom, versier met vrugte, sy takke al hierdie streke oorskaduwende. Voorwaar, U is die Magtige, die Kragtige en Ongedwonge.
 
 -- Abdu'l-Bahá
 
-bpn3233 «[Afrikaans](../af/prayers/#bpn3233)» 
+bpn3233 
 
 ----
 
 
 <a id="bpn3234"></a> 
-O God! O God! Hierdie is &#39;n voël met &#39;n gebroke vlerk en sy vlug is baie stadig - help hom sodat hy na die toppunt van voorspoed en verlossing kan vlieg, bevleuel sy vlug met die uiterste vreugde en geluk dwarsdeur die grenslose ruimte, verhef sy melodie in U Allerhoogste Naam in alle streke, vervrolik die ore met hierdie stem, en verhelder die oë deur die tekens van leiding te aanskou!O Here! Ek is alleen, eensaam en nederig. Vir my is daar geen steun buiten U nie, geen helper behalwe U nie, en geen bystand naas U nie. Bevestig my in U diens, help my met die skare van U engele, maak my seëvierend in die bevordering van U Woord en laat my U wysheid harduit praat onder U skepsels. Voorwaar U is die helper van die swakkes en die beskermer van die kleintjies, en voorwaar U is die Sterke, die Magtige en die Ongedwonge!
+O God! O God! Hierdie is 'n voël met 'n gebroke vlerk en sy vlug is baie stadig - help hom sodat hy na die toppunt van voorspoed en verlossing kan vlieg, bevleuel sy vlug met die uiterste vreugde en geluk dwarsdeur die grenslose ruimte, verhef sy melodie in U Allerhoogste Naam in alle streke, vervrolik die ore met hierdie stem, en verhelder die oë deur die tekens van leiding te aanskou!O Here! Ek is alleen, eensaam en nederig. Vir my is daar geen steun buiten U nie, geen helper behalwe U nie, en geen bystand naas U nie. Bevestig my in U diens, help my met die skare van U engele, maak my seëvierend in die bevordering van U Woord en laat my U wysheid harduit praat onder U skepsels. Voorwaar U is die helper van die swakkes en die beskermer van die kleintjies, en voorwaar U is die Sterke, die Magtige en die Ongedwonge!
 
 -- Abdu'l-Bahá
 
-bpn3234 «[Afrikaans](../af/prayers/#bpn3234)» 
+bpn3234 
 
 ----
 
@@ -531,7 +532,7 @@ Lof sy aan U, o my God! Hierdie is U dienaars wat na die geure van U barmhartigh
 
 -- Abdu'l-Bahá
 
-bpn3235 «[Afrikaans](../af/prayers/#bpn3235)» 
+bpn3235 
 
 ----
 
@@ -541,7 +542,7 @@ O God, my God! U sien hierdie swak een om hemelse sterkte smeek, hierdie arm een
 
 -- Abdu'l-Bahá
 
-bpn3236 «[Afrikaans](../af/prayers/#bpn3236)» 
+bpn3236 
 
 ----
 
@@ -551,11 +552,11 @@ bpn3236 «[Afrikaans](../af/prayers/#bpn3236)»
 ## Die Vas
 
 <a id="bpn3239"></a> 
-*Die Aqdas verklaar: ,Ons het julle gebied om te bid en te vas vanaf die begin van rypheid [15 jaar]; dit is deur God verorden, julle Here en die Here van julle voorvaders. . . .Die reisiger, die sieke, diegene wat swanger is of wat soog, word nie deur die vas verplig nie. . . .Bly weg van voedsel en drink niks nie, van sonop tot sonsondergang, en wees op julle hoede dat begeerlikheid julle nie beroof van hierdie genade wat in die Boek bepaal is nie.&#39;*Die tydperk van die Vas is van en met 2 tot 20 Maart. Ek smeek U, o my God, by U magtige Teken, en by die openbaring van U genade onder die mense, om my nie van die poort van die stad van U teenwoordigheid weg te werp nie, en die verwagtinge nie teleur te stel wat ek op die openbaringe van U genade onder U skepsels gesit het nie. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U soetste Stem en by U mees verhewe Woord, om my steeds nader aan die drumpel van U deur te trek, en my nie toe te laat om ver van die skaduwee van U genade en die troonhemel van U mildheid verwyder te wees nie. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die prag van U stralende voorhoof en die helderheid van die lig van U gelaat, wat van die allerhoogste horison skyn, om my met die geur van U gewaad aan te trek, en te maak dat ek van die uitgelese wyn van U woorde mag drink. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U hare wat oor U gelaat beweeg, net soos U mees verhewe pen oor die bladsye van U Tafels beweeg, en die muskus van die verborge betekenisse oor die koninkryk van U skepping versprei, om my só op te hef om U Saak te dien, dat ek nie sal terugval nie, nòg verhinder sal word deur die suggesties van diegene wat op U tekens gevit het en van U gelaat weggedraai het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Naam wat U die Koning van Name gemaak het, waardeur almal wat in die hemel en op aarde is verruk geword het, om my in staat te stel om my oë op die Dagster van U Prag te vestig, en my te voorsien van die wyn van U woorde. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die Tabernakel van U majesteit op die hoogste bergspitse, en die Troonhemel van U Openbaring op die verhewenste heuwels, om my genadiglik te help om te doen wat U wil gewens het en U voorneme geopenbaar het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Prag wat bo die horison van die ewigheid voortskyn, &#39;n Prag waarvoor sodra dit sigself onthul die koninkryk van prag neerbuig in aanbidding, en dit verheerlik met klinkende klanke, om te gee dat ek aan alles wat ek besit mag sterwe en vir wat ook al aan U behoort mag lewe. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die Openbaarwording van U Naam, die Dierbare, deur Wie die harte van U liefhebbers verteer is en die siele van almal wat op die aarde woon omhoog gesweef het, om my te help om U te gedenk onder U skepsels, en om U onder U mense te prys. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die ritseling van die Goddelike Lotusboom en die gemurmel van die luggies van U woord in die koninkryk van U name, om my ver weg te verwyder van wat ook al U wil verafsku, en my nader te laat kom aan die stand waarin Hy Wat die Daeraad van U tekens is voortgeskyn het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by daardie Letter wat, sodra dit uit die mond van U wil gegaan het, die oseane laat golf het, en die winde laat waai het, en die vrugte geopenbaar het, en die bome laat voortspruit het, en alles sluiers uitmekaar laat skeur het, en dié wat aan U toegewy is laat haas het na die lig van die gelaat van hulle Here, die Ongedwonge, om aan my dit bekend te maak wat weggesteek gelê het in die skatkiste van U kennis en verborge was binne die bewaarplekke van U wysheid. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die vuur van U liefde wat die slaap uit die oë van U gekosenes en U bemindes verdryf het, en by hulle aandenking en lof van U by die aanbreek van die dag, om my saam met diegene te tel wat dit behaal het wat U in U Boek laat daal het en deur U wil geopenbaar het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die lig van U gelaat wat diegene wat na aan U is aangespoor het om die pyle van U bevel tegemoet te kom, en diegene wat aan U toegewy is om die swaarde van U vyande in U weg onder die oë te sien, om vir my met U mees verhewe Pen dit neer te skryf wat U vir U vertroudes en U verkorenes neergeskryf het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Naam waardeur U na die roepstem van U bemindes geluister het, en die sugte van diegene wat na U verlang, en die geroep van diegene wat nabye toegang tot U geniet, en die gekreun van hulle wat aan U toegewy is, en waardeur U die begeertes van hulle vervul het wat hul verwagtinge op U gesit het, en hulle verlange toegestaan het, deur U genade en gunste, en by U Naam waardeur die oseaan van vergifnis voor U aangesig gegolf het, en die wolke van U milddadigheid op U dienaars afgereent het, om vir elkeen wat na U gekeer het, en die vas deur U voorgeskryf onderhou het, dié vergoeding neer te skryf wat vir diegene beskik is wat nie praat behalwe met U toestemming nie, en wat alles wat hulle besit het in U weg en uit liefde vir U verlaat het.Ek smeek U, o my Here, by Uself, en by U tekens, en by U helder kentekens, en by die skynende Lig van die Dagster van U Prag, en U Takke, om die oortredings uit te wis van diegene wat aan U wette vasgehou het, en onderhou het wat U vir hulle in U Boek voorgeskryf het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in die wêreld en in die wêreld wat kom vasgekleef het.
+*Die Aqdas verklaar: ,Ons het julle gebied om te bid en te vas vanaf die begin van rypheid [15 jaar]; dit is deur God verorden, julle Here en die Here van julle voorvaders. . . .Die reisiger, die sieke, diegene wat swanger is of wat soog, word nie deur die vas verplig nie. . . .Bly weg van voedsel en drink niks nie, van sonop tot sonsondergang, en wees op julle hoede dat begeerlikheid julle nie beroof van hierdie genade wat in die Boek bepaal is nie.'*Die tydperk van die Vas is van en met 2 tot 20 Maart. Ek smeek U, o my God, by U magtige Teken, en by die openbaring van U genade onder die mense, om my nie van die poort van die stad van U teenwoordigheid weg te werp nie, en die verwagtinge nie teleur te stel wat ek op die openbaringe van U genade onder U skepsels gesit het nie. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U soetste Stem en by U mees verhewe Woord, om my steeds nader aan die drumpel van U deur te trek, en my nie toe te laat om ver van die skaduwee van U genade en die troonhemel van U mildheid verwyder te wees nie. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die prag van U stralende voorhoof en die helderheid van die lig van U gelaat, wat van die allerhoogste horison skyn, om my met die geur van U gewaad aan te trek, en te maak dat ek van die uitgelese wyn van U woorde mag drink. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U hare wat oor U gelaat beweeg, net soos U mees verhewe pen oor die bladsye van U Tafels beweeg, en die muskus van die verborge betekenisse oor die koninkryk van U skepping versprei, om my só op te hef om U Saak te dien, dat ek nie sal terugval nie, nòg verhinder sal word deur die suggesties van diegene wat op U tekens gevit het en van U gelaat weggedraai het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Naam wat U die Koning van Name gemaak het, waardeur almal wat in die hemel en op aarde is verruk geword het, om my in staat te stel om my oë op die Dagster van U Prag te vestig, en my te voorsien van die wyn van U woorde. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die Tabernakel van U majesteit op die hoogste bergspitse, en die Troonhemel van U Openbaring op die verhewenste heuwels, om my genadiglik te help om te doen wat U wil gewens het en U voorneme geopenbaar het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Prag wat bo die horison van die ewigheid voortskyn, 'n Prag waarvoor sodra dit sigself onthul die koninkryk van prag neerbuig in aanbidding, en dit verheerlik met klinkende klanke, om te gee dat ek aan alles wat ek besit mag sterwe en vir wat ook al aan U behoort mag lewe. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die Openbaarwording van U Naam, die Dierbare, deur Wie die harte van U liefhebbers verteer is en die siele van almal wat op die aarde woon omhoog gesweef het, om my te help om U te gedenk onder U skepsels, en om U onder U mense te prys. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die ritseling van die Goddelike Lotusboom en die gemurmel van die luggies van U woord in die koninkryk van U name, om my ver weg te verwyder van wat ook al U wil verafsku, en my nader te laat kom aan die stand waarin Hy Wat die Daeraad van U tekens is voortgeskyn het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by daardie Letter wat, sodra dit uit die mond van U wil gegaan het, die oseane laat golf het, en die winde laat waai het, en die vrugte geopenbaar het, en die bome laat voortspruit het, en alles sluiers uitmekaar laat skeur het, en dié wat aan U toegewy is laat haas het na die lig van die gelaat van hulle Here, die Ongedwonge, om aan my dit bekend te maak wat weggesteek gelê het in die skatkiste van U kennis en verborge was binne die bewaarplekke van U wysheid. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die vuur van U liefde wat die slaap uit die oë van U gekosenes en U bemindes verdryf het, en by hulle aandenking en lof van U by die aanbreek van die dag, om my saam met diegene te tel wat dit behaal het wat U in U Boek laat daal het en deur U wil geopenbaar het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en in die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by die lig van U gelaat wat diegene wat na aan U is aangespoor het om die pyle van U bevel tegemoet te kom, en diegene wat aan U toegewy is om die swaarde van U vyande in U weg onder die oë te sien, om vir my met U mees verhewe Pen dit neer te skryf wat U vir U vertroudes en U verkorenes neergeskryf het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in hierdie wêreld en die wêreld wat kom vasgekleef het.Ek smeek U, o my God, by U Naam waardeur U na die roepstem van U bemindes geluister het, en die sugte van diegene wat na U verlang, en die geroep van diegene wat nabye toegang tot U geniet, en die gekreun van hulle wat aan U toegewy is, en waardeur U die begeertes van hulle vervul het wat hul verwagtinge op U gesit het, en hulle verlange toegestaan het, deur U genade en gunste, en by U Naam waardeur die oseaan van vergifnis voor U aangesig gegolf het, en die wolke van U milddadigheid op U dienaars afgereent het, om vir elkeen wat na U gekeer het, en die vas deur U voorgeskryf onderhou het, dié vergoeding neer te skryf wat vir diegene beskik is wat nie praat behalwe met U toestemming nie, en wat alles wat hulle besit het in U weg en uit liefde vir U verlaat het.Ek smeek U, o my Here, by Uself, en by U tekens, en by U helder kentekens, en by die skynende Lig van die Dagster van U Prag, en U Takke, om die oortredings uit te wis van diegene wat aan U wette vasgehou het, en onderhou het wat U vir hulle in U Boek voorgeskryf het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in die wêreld en in die wêreld wat kom vasgekleef het.
 
 -- Bahá'u'lláh
 
-bpn3239 «[Afrikaans](../af/prayers/#bpn3239)» 
+bpn3239 
 
 ----
 
@@ -565,27 +566,27 @@ Lof sy aan U, o Here my God! Ek smeek U by hierdie Openbaring waardeur duisterni
 
 -- Bahá'u'lláh
 
-bpn3240 «[Afrikaans](../af/prayers/#bpn3240)» 
+bpn3240 
 
 ----
 
 
 <a id="bpn3241"></a> 
-Hierdie, o my Here, is die dae waarop U U dienaars gelas het om die vas te onderhou. Daarmee het U die voorrede van die Boek van U Wette versier wat aan U skepsels bekend gemaak is, en die Bewaarplekke van U gebooie opgeskik in die sig van almal wat in U hemel en almal wat op U aarde is. U het elke uur van hierdie dae met &#39;n spesiale deug bedeel, ondeurgrondelik vir almal behalwe U, Wie se kennis alle geskape dinge omhels. U het ook aan elke siel &#39;n deel van hierdie deug toegeken ooreenkomstig die Tafel van U verordening en die Geskrifte van U onherroeplike oordeel. Elke blad van hierdie Boeke en Geskrifte het U, bowendien, aan elkeen van die volke en soortgenote van die aarde toegeken.Vir U vurige liefhebbers het U, luidens U verordening, op elke dagbreek die beker van U aandenking voorbehou, o U Wat die Heerses van die heersers is! Hierdie is diegene wat deur die wyn van U veelvoudige wysheid só beskonke is dat hulle hulle lêplekke verlaat in hulle verlange om U lof te vier en U deugde te verheerlik, en van slaap wegvlug in hulle ywer om U teenwoordigheid te nader en aan U mildheid deel te hê. Hulle oë is, te alle tye, op die Daeraad van U vriendelike goedheid gevestig, en hulle gelate is gerig na die Fontein van U besieling. Laat reën dan op ons en op hulle uit die wolke van U genade wat die hemel va U liefdadigheid en guns betaam.Verheerlik sy U naam, o my God! Hierdie is die uur wanneer U die deure van U mildheid oopgesluit het voor die aangesigte van U skepsels, en die poorte van U tere genade aan al die bewoners van U aarde wyd geopen het. Ek smeek U, by al diegene wie se bloed in U weg vergiet is, wat, in hulle smag na U, hulle van alle gehegtheid aan enige van U skepsels vrygestel het, en wat só deur die soet geur van U besieling weggevoer is dat elke enkele liggaamsdeel van hulle U lof besing het en getril het met aandenking aan U, om nie dié dinge van ons terug te hou wat U onherroeplik in hierdie Openbaring beskik het nie - &#39;n Openbaring die sterkte waarvan veroorsaak het dat elke boom uitgeroep het wat die Brandende Doringbos eertyds aan Moses verkondig het, Wat met U gepraat het, &#39;n Openbaring wat elke geringste spoelklippie weer met U lof laat weerklink het, soos die klippe U in die dae van U Vriend, Muhammad, verheerlik het.Hierdie is diegene, o my God, wat U goedgunstiglik in staat gestel het om geselskap met U te hou en met Hom Wat die Onthuller van Uself is gemeenskap te hou. Die winde van U wil het hulle ver en wyd versprei totdat U hulle onder U skaduwee opgegaar het, en gemaak het dat hulle die omgewing van U hof binnegaan. Noudat U hulle onder die skaduwee van die baldakyn van U genade laat vertoef het, help U hulle om te behaal wat so &#39;n verhewe stand moet betaam. Laat hulle nie toe, o my Here, om saam met diegene getel te word nie wat, alhoewel hulle nabye toegang tot U geniet, teruggehou is van die herkenning van U gelaat, en wat, alhoewel hulle U ontmoet het, U teenwoordigheid ontneem is.Hierdie is U dienaars, o my Here, wat saam met U hierin binnegegaan het, die Allergrootste Gevangenis, wat die vas tussen sy mure gehou het volgens wat U in die Tafels van U verordening en die Boeke van U opdrag beveel het. Laat daal dan op hulle wat hulle deeglik sal skoonmaak van alles wat U verafsku, sodat hulle geheel aan U mag toegewy wees, en hulself geheel en al mag losmaak van alles behalwe Uself.Laat reën dan, op ons, o my God, wat U genade betaam en U mildheid pas. Stel ons dan in staat, o my God, om in aandenking aan U te lewe, en om in liefde vir U te sterwe, en voorsien ons van die gawe van U teenwoordigheid in U wêrelde hiernamaals - wêrelde wat ondeurgrondelik vir almal behalwe U is. U is ons Here en die Here van alle wêrelde, en die God van almal wat in die hemel is en almal wat op aarde is.U aanskou, o my God, wat U dierbares in U dae oorgekom het. U heerlikheid getuig van my! Die stem van jammerklag van U uitverkorenes het deur U hele ryk opgegaan. Sommige is verstrik deur die ongelowiges in U land, en is deur hulle verhinder om nabye toegang tot U te hê en om die hof van U heerlikheid te bereik. Ander was in staat om U te nader, maar is van die aanskouing van U gelaat teruggehou. Nog ander is toegelaat, in hulle ywer om op U te kyk, om die omgewing van U hof binne te gaan, maar hulle het die sluiers van die inbeeldings van U skepsels en die onregte opgelê deur die verdrukkers onder U mense toegelaat om tussen hulle en U te kom.Dit is die uur, o my Here, wat U elke ander uur laat oortref het en in verband gebring het met die uitgesogtes onder U skepsels. Ek smeek U, o my God, by U Self en by hulle, om in die loop van hierdie jaar dit te beskik wat U bemindes sal verhef. Verorden U boonop, gedurende hierdie jaar, dit wat die Môrester van U krag helder oor die horison van U heerlikheid sal laat skyn, en die hele wêreld deur U oppermag sal verlig.Maak U Saak seëvierend, o my Here, en verneder U vyande. Teken dan aan vir ons die goeie van hierdie lewe en van die lewe wat kom. U is die Waarheid, Wat die geheime dinge weet. Geen God is daar behalwe U nie, die Altyd-Vergewende, die Almilddadige.
+Hierdie, o my Here, is die dae waarop U U dienaars gelas het om die vas te onderhou. Daarmee het U die voorrede van die Boek van U Wette versier wat aan U skepsels bekend gemaak is, en die Bewaarplekke van U gebooie opgeskik in die sig van almal wat in U hemel en almal wat op U aarde is. U het elke uur van hierdie dae met 'n spesiale deug bedeel, ondeurgrondelik vir almal behalwe U, Wie se kennis alle geskape dinge omhels. U het ook aan elke siel 'n deel van hierdie deug toegeken ooreenkomstig die Tafel van U verordening en die Geskrifte van U onherroeplike oordeel. Elke blad van hierdie Boeke en Geskrifte het U, bowendien, aan elkeen van die volke en soortgenote van die aarde toegeken.Vir U vurige liefhebbers het U, luidens U verordening, op elke dagbreek die beker van U aandenking voorbehou, o U Wat die Heerses van die heersers is! Hierdie is diegene wat deur die wyn van U veelvoudige wysheid só beskonke is dat hulle hulle lêplekke verlaat in hulle verlange om U lof te vier en U deugde te verheerlik, en van slaap wegvlug in hulle ywer om U teenwoordigheid te nader en aan U mildheid deel te hê. Hulle oë is, te alle tye, op die Daeraad van U vriendelike goedheid gevestig, en hulle gelate is gerig na die Fontein van U besieling. Laat reën dan op ons en op hulle uit die wolke van U genade wat die hemel va U liefdadigheid en guns betaam.Verheerlik sy U naam, o my God! Hierdie is die uur wanneer U die deure van U mildheid oopgesluit het voor die aangesigte van U skepsels, en die poorte van U tere genade aan al die bewoners van U aarde wyd geopen het. Ek smeek U, by al diegene wie se bloed in U weg vergiet is, wat, in hulle smag na U, hulle van alle gehegtheid aan enige van U skepsels vrygestel het, en wat só deur die soet geur van U besieling weggevoer is dat elke enkele liggaamsdeel van hulle U lof besing het en getril het met aandenking aan U, om nie dié dinge van ons terug te hou wat U onherroeplik in hierdie Openbaring beskik het nie - 'n Openbaring die sterkte waarvan veroorsaak het dat elke boom uitgeroep het wat die Brandende Doringbos eertyds aan Moses verkondig het, Wat met U gepraat het, 'n Openbaring wat elke geringste spoelklippie weer met U lof laat weerklink het, soos die klippe U in die dae van U Vriend, Muhammad, verheerlik het.Hierdie is diegene, o my God, wat U goedgunstiglik in staat gestel het om geselskap met U te hou en met Hom Wat die Onthuller van Uself is gemeenskap te hou. Die winde van U wil het hulle ver en wyd versprei totdat U hulle onder U skaduwee opgegaar het, en gemaak het dat hulle die omgewing van U hof binnegaan. Noudat U hulle onder die skaduwee van die baldakyn van U genade laat vertoef het, help U hulle om te behaal wat so 'n verhewe stand moet betaam. Laat hulle nie toe, o my Here, om saam met diegene getel te word nie wat, alhoewel hulle nabye toegang tot U geniet, teruggehou is van die herkenning van U gelaat, en wat, alhoewel hulle U ontmoet het, U teenwoordigheid ontneem is.Hierdie is U dienaars, o my Here, wat saam met U hierin binnegegaan het, die Allergrootste Gevangenis, wat die vas tussen sy mure gehou het volgens wat U in die Tafels van U verordening en die Boeke van U opdrag beveel het. Laat daal dan op hulle wat hulle deeglik sal skoonmaak van alles wat U verafsku, sodat hulle geheel aan U mag toegewy wees, en hulself geheel en al mag losmaak van alles behalwe Uself.Laat reën dan, op ons, o my God, wat U genade betaam en U mildheid pas. Stel ons dan in staat, o my God, om in aandenking aan U te lewe, en om in liefde vir U te sterwe, en voorsien ons van die gawe van U teenwoordigheid in U wêrelde hiernamaals - wêrelde wat ondeurgrondelik vir almal behalwe U is. U is ons Here en die Here van alle wêrelde, en die God van almal wat in die hemel is en almal wat op aarde is.U aanskou, o my God, wat U dierbares in U dae oorgekom het. U heerlikheid getuig van my! Die stem van jammerklag van U uitverkorenes het deur U hele ryk opgegaan. Sommige is verstrik deur die ongelowiges in U land, en is deur hulle verhinder om nabye toegang tot U te hê en om die hof van U heerlikheid te bereik. Ander was in staat om U te nader, maar is van die aanskouing van U gelaat teruggehou. Nog ander is toegelaat, in hulle ywer om op U te kyk, om die omgewing van U hof binne te gaan, maar hulle het die sluiers van die inbeeldings van U skepsels en die onregte opgelê deur die verdrukkers onder U mense toegelaat om tussen hulle en U te kom.Dit is die uur, o my Here, wat U elke ander uur laat oortref het en in verband gebring het met die uitgesogtes onder U skepsels. Ek smeek U, o my God, by U Self en by hulle, om in die loop van hierdie jaar dit te beskik wat U bemindes sal verhef. Verorden U boonop, gedurende hierdie jaar, dit wat die Môrester van U krag helder oor die horison van U heerlikheid sal laat skyn, en die hele wêreld deur U oppermag sal verlig.Maak U Saak seëvierend, o my Here, en verneder U vyande. Teken dan aan vir ons die goeie van hierdie lewe en van die lewe wat kom. U is die Waarheid, Wat die geheime dinge weet. Geen God is daar behalwe U nie, die Altyd-Vergewende, die Almilddadige.
 
 -- Bahá'u'lláh
 
-bpn3241 «[Afrikaans](../af/prayers/#bpn3241)» 
+bpn3241 
 
 ----
 
 
 <a id="bpn3242"></a> 
-Roem sy aan U, o Here my God! Dit is die dae waarop U alle mense gebied het om die vas te onderhou, dat hulle daardeur hulle siele mag reinig en hulself van alle gehegtheid aan iemand behalwe U mag vrystel, en dat dít uit hulle harte mag opstyg wat die hof van U majesteit waardig sal wees, en die setel van die openbaring van U eenheid goed mag pas. Vergun, o my Here, dat hierdie vas &#39;n rivier van lewegewende waters mag word, en die deug mag oplewer waarmee U dit bedeel het. Reinig U deur sy middel die harte van U dienaars wat die euwels van die wêreld gefaal het om te verhinder om hulle na U alglorieryke Naam te wend, en wat onbewoë gebly het deur die geraas en rumoer van diegene wat U mees luisterryke tekens ontken het, wat die koms van U Openbaarwording vergesel het, Wat U met U oppermag, U krag, U majesteit en heerlikheid beklee het. Hierdie is die dienaars wat, sodra U roepstem hulle bereik het, in die rigting van U genade gehaas het en nie van U teruggehou is deur die lotswisselinge van hierdie wêreld of deur enige menslike beperkings nie.Ek is hy, o my God, wat van U eenheid getuig, wat U enkelvoudigheid erken, wat nederig voor die openbaringe van U majesteit buig, en wat met neergeslane gesig die luister van die lig van U oortreffende heerlikheid herken. Ek het in U geglo nadat U my in staat gestel het om U Self te ken, Wat U aan die mense se oë deur die krag van U oppermag en vermoë geopenbaar het. Na Hom toe het ek my gewend, volkome losgemaak van alle dinge, en onwankelbaar aan die koord van U gawes en gunste vashoudende. Ek het Sy waarheid en die waarheid van al die wonderbaarlike wette en voorskrifte wat op Hom laat daal is, omhels. Ek het weens liefde vir U n ingewolge U opdrag gevas, en het my vas met U lof op my tong en ooreenkomstig U behae gebreek. Laat my nie, o my Here, getel word onder diegene wat oordag gevas het nie, wat hulle in die nag voor U aangesig neergebuig het, en wat U waarheid nie erken het nie, nie in U tekens geglo het nie, U getuienis weerspreek het, en U woorde verdraai het.Maak U, o my Here, my oë oop en die oë van almal oop wat gesoek het, sodat ons U met U eie oë mag herken. Dit is U gebod wat ons gegee is in die Boek wat deur U laat daal is op Hom Wat U deur U opdrag gekies het, Wat U vir U gunsbewys bo al U skepsels uitgekies het, Wat dit U behaag het om met U oppermag te beklee, en Wat U besonderlik met U Boodskap aan U mense begunstig en toevertrou het. Geloof sy U dus, o my Here, aangesien U ons genadiglik in staat gestel het om Hom te herken en te erken wat ook al op Hom laat daal is, en aan ons die eer bewys het om die teenwoordigheid te bereik van dié Een Wat U belowe het in U Boek en in U Tafels.U sien my dan, o my God, met my gesig na U toe gekeer, omklem standvastig die koord van U genadige voorsienigheid en vrygewigheid, en kleef aan die soom van U tere seëninge en milddadige gunste vas. Ek smeek U, vernietig nie my verwagtinge nie om dit te bereik wat U vir U dienaars beskik het wat na die omgewing van U hof en die heiligdom van U teenwoordigheid gedraai het, en die vas uit liefde vir U onderhou het. Ek erken, o my God, dat wat ook al van my af uitgaan U oppermag heeltemal onwaardig is, en U majesteit nie behaal nie. En tog smeek ek U by U naam, waardeur U Uself geopenbaar het, in die heerlikheid van U mees voortreflike titels, aan alle geskape dinge, in hierdie Openbaring waardeur U, deur U mees luisterryke Naam, U prag aan die dag gelê jet, om my te drinke te gee van die wyn van U genade en van die suiwer drank van U begunstiging wat vanuit die regterhand van U wil uitgestroom het, dat ek my blik só op U mag rig en só van alles behalwe U losgemaak mag wees, dat die wêreld en alles wat daarin geskape is voor my soos &#39;n snel verbygaande dag mag voorkom wat U U nie verwaardig het om te skep nie.Origens, smeek ek U, o my God, om vanuit die hemel van U wil en die wolke van U genade, dit te laat reën wat ons van die hinderlike geur van ons oortredings sal reinig, o U Wat Uself die God van Genade genoem het! U is, voorwaar, die Allerkragtigste, die Alglorieryke, die Heilsame.Verwerp hom nie, o my Here, wat na U gekeer het nie, en laat hom wat nader aan U kom nie ver van U hof verwyder wees nie. Verydel nie die verwagtinge van die smekeling wat sy hande verlangend uitgestrek het om U genade en gunste te soek nie, en ontneem nie U opregte dienaars die wonders van U tere barmhartigheid en vriendelike goedheid nie. Vergewend en Mees Milddadig is U, o my Here! U het die vermoë om te doen wat U behaag. Almal behalwe U is magteloos voor die openbaringe van U mag, is soos verlore teenoor die bewyse van U rykdom, is soos niks wanneer vergelyk met die openbaringe van U oortreffende soewereiniteit, en is ontbloot van alle sterkte wanneer van aangesig tot aangesig met die tekens en blyke van U krag. Watter skuilplek is daar buiten U, o my Here, waarna ek kan vlug, en waar is daar &#39;n toevlug waarheen ek kan haas? Nee, die sterkte van U mag is my getuie! Geen beskermer is daar behalwe U nie; geen plek om na te vlug buiten U nie; geen skuilplek te soek behalwe U nie. Laat my, o my Here, die goddelike soetheid van U aandenking en lof proe. Ek sweer by U mag! Wie ook al van sy soetheid proe sal hom onstlae maak van alle gehegtheid aan die wêreld en alles wat daarin is, en sal sy gesig na U toe rig, gereinig van aandenking aan almal behalwe U.Vuur dan my siel aan, o my God, met U wonderbaarlike aandenking, dat ek U naam mag verheerlik. Tel my nie onder diegene wat U woorde lees en faal om U verborge gawe te vind nie, wat, soos deur U verorden, daarin vervat is, en wat die siele van U skepsels en die harte van U dienaars verlewendig. Laat my, o my Here, onder diegene gereken word wat tot só &#39;n mate deur die soet geurigheid aangegryp is wat in U dae gesweef het, dat hulle hulle lewens vir U neergelê het en na die toneel van hulle dood gehaas het in hulle verlange om op U prag te tuur en in hulle hunkering om U teenwoordigheid te bereik. En sou iemand vir hulle op hulle pad sê, ,Waarheen gaan julle?&#39; sou hulle sê, ,Na God, die Alles-Besittende, die Hulp in Gevaar, die Selfbestaande!&#39;Die oortredings deur diegene begaan wat hulle van U afgewend het en hulle met hoogmoed teenoor U gedra het, het nie gebaat om hulle te hinder om U lief te hê nie, en om hulle aangesigte na U te rig nie, en in die rigting van U genade te draai nie. Hierdie is hulle wat deur die Menigte in die hoogte geseën is, wat verheerlik is deur die bewoners van die ewigdurende Stede, en oorkant hulle deur diegene op wie se voorhoofde U mees verhewe pen geskrywe het: ,Hierdie! Die Mense van Bahá. Deur hulle is die glanse van die lig van leiding gewerp.&#39; Aldus is dit op U bevel en deur U wil bepaal in die Tafel van U onherroeplike verordening.Maak dus, o my God, hulle grootheid en die grootheid van diegene bekend wat, terwyl hulle op die aarde gelewe het of ná die dood, rondom hulle gedraai het. Voorsien hulle van dit wat U vir die regverdiges onder U skepsels beskik het. Sterk is U om alle dinge te doen. Daar is geen God behalwe U nie, die Alkragtigste, die Hulp in Gevaar, die Almagtige, die Mees Milddadige.Bring nie ons vaste met hierdie vas tot &#39;n einde nie, o my Here, nòg die verbonde wat U gesluit het, met hierdie verbond. Neem U alles aan wat ons uit liefde vir U gedoen het en ter wille van U behae, en alles wat ons onverrig gelaat het as gevolg van ons onderworpenheid aan ons slegte en verdorwe begeertes. Stel ons dan in staat om standvastig aan U liefde en U welbehae vas te kleef, en bewaar ons teen die kwaad van diegene wat U ontken het en U mees luisterryke tekens verwerp het. U is, in der waarheid, die Here, van hierdie wêreld en van die komende. Geen God is daar behalwe U nie, die Verhewene, die Allerhoogste.Verheerlik U, o Here my God, Hom Wat die Oorspronkelike Punt is, die Goddelike Verborgenheid, die Ongesiene Wese, die Daeraad van Goddelikheid, en die Openbaarwording van U heerskappy, deur Wie al die kennis van die verlede en al die kennis van die toekoms duidelik gemaak is, deur Wie die pêrels van U verborge wysheid blootgelê en die verborgenheid van U kosbare naam onthul is, Wat U aangestel het as die Aankondiger van die Een deur Wie se naam die letter W en die letter S saamgevoeg en verenig is, deur Wie U majesteit, U soewereiniteit en U mag bekend gemaak is, deur Wie U woorde laat daal is, en U wette met helderheid uiteengesit is, en U tekens versprei, en U Woord gevestig is, deur Wie die harte van U uitverkorenes ontbloot is, almal wat in die hemele was en almal wat op die aarde was versamel is, Wat U &#39;Ali-Muhammad in die koninkryk van U name genoem het, en die Gees van Geeste in die Tafels van U onherroeplike verordening, Wat U met U eie titel beklee het, aan Wie se naam alle ander name op U gebod en deur die krag van U mag gelaat terugkeer is, en in Wie U al U kenmerke en titels hulle eindelike volmaaktheid laat bereik het. Aan Hom behoort ook sodanige name as wat binne U vleklose tabernakels verborge gelê het, in U onsigbare wêreld en U geheiligde stede.Verheerlik U, origens, diegene wat in Hom en in Sy tekens geglo het en na Hom gekeer het, onder dié wat U eenheid in Sy Daaropvolgende Openbaarwording erken het - &#39;n Openbaarwording waarvan Hy in Sy Tafels melding gemaak het, en in Sy Boeke, en in Sy Geskrifte, en in al die wonderbaarlike verse en woorde soos juwele wat op Hom neergedaal het. Dit is hierdie selfde Openbaarwording Wie se Verbond U Hom gebied het om te vestig voordat Hy Sy eie Verbond gevestig het. Daarin is Sy voortreflikheid opgehemel, en Sy waarheid bevestig, en Sy oppermag bekend gemaak, en Sy Saak tot volmaaktheid gebring. Geluksalig is die man wat na Hom toe gekeer het, en die dinge wat Hy gebied het vervul het, o U Wat die Here van die wêrelde en die Begeerte is van almal wat U geken het!Geloof sy U, o my God, aangesien U ons gehelp het om Hom en by hulle Wat die Daerade van U Goddelikheid is, en die Openbaarwordinge van U Heerskappy en die Skatkamers van U Openbaring, en die Bewaarplekke van U besieling, om ons in staat te stel om Hom te dien en te gehoorsaam, en ons te magtig om die helpers van Sy Saak en die uiteenjaers van Sy teenstanders te word. Kragtig is U om alles te doen wat U behaag. Geen God is daar behalwe U nie, die Almagtige, die Alroemryke, die Een Wie se hulp deur alle mense gesoek word!
+Roem sy aan U, o Here my God! Dit is die dae waarop U alle mense gebied het om die vas te onderhou, dat hulle daardeur hulle siele mag reinig en hulself van alle gehegtheid aan iemand behalwe U mag vrystel, en dat dít uit hulle harte mag opstyg wat die hof van U majesteit waardig sal wees, en die setel van die openbaring van U eenheid goed mag pas. Vergun, o my Here, dat hierdie vas 'n rivier van lewegewende waters mag word, en die deug mag oplewer waarmee U dit bedeel het. Reinig U deur sy middel die harte van U dienaars wat die euwels van die wêreld gefaal het om te verhinder om hulle na U alglorieryke Naam te wend, en wat onbewoë gebly het deur die geraas en rumoer van diegene wat U mees luisterryke tekens ontken het, wat die koms van U Openbaarwording vergesel het, Wat U met U oppermag, U krag, U majesteit en heerlikheid beklee het. Hierdie is die dienaars wat, sodra U roepstem hulle bereik het, in die rigting van U genade gehaas het en nie van U teruggehou is deur die lotswisselinge van hierdie wêreld of deur enige menslike beperkings nie.Ek is hy, o my God, wat van U eenheid getuig, wat U enkelvoudigheid erken, wat nederig voor die openbaringe van U majesteit buig, en wat met neergeslane gesig die luister van die lig van U oortreffende heerlikheid herken. Ek het in U geglo nadat U my in staat gestel het om U Self te ken, Wat U aan die mense se oë deur die krag van U oppermag en vermoë geopenbaar het. Na Hom toe het ek my gewend, volkome losgemaak van alle dinge, en onwankelbaar aan die koord van U gawes en gunste vashoudende. Ek het Sy waarheid en die waarheid van al die wonderbaarlike wette en voorskrifte wat op Hom laat daal is, omhels. Ek het weens liefde vir U n ingewolge U opdrag gevas, en het my vas met U lof op my tong en ooreenkomstig U behae gebreek. Laat my nie, o my Here, getel word onder diegene wat oordag gevas het nie, wat hulle in die nag voor U aangesig neergebuig het, en wat U waarheid nie erken het nie, nie in U tekens geglo het nie, U getuienis weerspreek het, en U woorde verdraai het.Maak U, o my Here, my oë oop en die oë van almal oop wat gesoek het, sodat ons U met U eie oë mag herken. Dit is U gebod wat ons gegee is in die Boek wat deur U laat daal is op Hom Wat U deur U opdrag gekies het, Wat U vir U gunsbewys bo al U skepsels uitgekies het, Wat dit U behaag het om met U oppermag te beklee, en Wat U besonderlik met U Boodskap aan U mense begunstig en toevertrou het. Geloof sy U dus, o my Here, aangesien U ons genadiglik in staat gestel het om Hom te herken en te erken wat ook al op Hom laat daal is, en aan ons die eer bewys het om die teenwoordigheid te bereik van dié Een Wat U belowe het in U Boek en in U Tafels.U sien my dan, o my God, met my gesig na U toe gekeer, omklem standvastig die koord van U genadige voorsienigheid en vrygewigheid, en kleef aan die soom van U tere seëninge en milddadige gunste vas. Ek smeek U, vernietig nie my verwagtinge nie om dit te bereik wat U vir U dienaars beskik het wat na die omgewing van U hof en die heiligdom van U teenwoordigheid gedraai het, en die vas uit liefde vir U onderhou het. Ek erken, o my God, dat wat ook al van my af uitgaan U oppermag heeltemal onwaardig is, en U majesteit nie behaal nie. En tog smeek ek U by U naam, waardeur U Uself geopenbaar het, in die heerlikheid van U mees voortreflike titels, aan alle geskape dinge, in hierdie Openbaring waardeur U, deur U mees luisterryke Naam, U prag aan die dag gelê jet, om my te drinke te gee van die wyn van U genade en van die suiwer drank van U begunstiging wat vanuit die regterhand van U wil uitgestroom het, dat ek my blik só op U mag rig en só van alles behalwe U losgemaak mag wees, dat die wêreld en alles wat daarin geskape is voor my soos 'n snel verbygaande dag mag voorkom wat U U nie verwaardig het om te skep nie.Origens, smeek ek U, o my God, om vanuit die hemel van U wil en die wolke van U genade, dit te laat reën wat ons van die hinderlike geur van ons oortredings sal reinig, o U Wat Uself die God van Genade genoem het! U is, voorwaar, die Allerkragtigste, die Alglorieryke, die Heilsame.Verwerp hom nie, o my Here, wat na U gekeer het nie, en laat hom wat nader aan U kom nie ver van U hof verwyder wees nie. Verydel nie die verwagtinge van die smekeling wat sy hande verlangend uitgestrek het om U genade en gunste te soek nie, en ontneem nie U opregte dienaars die wonders van U tere barmhartigheid en vriendelike goedheid nie. Vergewend en Mees Milddadig is U, o my Here! U het die vermoë om te doen wat U behaag. Almal behalwe U is magteloos voor die openbaringe van U mag, is soos verlore teenoor die bewyse van U rykdom, is soos niks wanneer vergelyk met die openbaringe van U oortreffende soewereiniteit, en is ontbloot van alle sterkte wanneer van aangesig tot aangesig met die tekens en blyke van U krag. Watter skuilplek is daar buiten U, o my Here, waarna ek kan vlug, en waar is daar 'n toevlug waarheen ek kan haas? Nee, die sterkte van U mag is my getuie! Geen beskermer is daar behalwe U nie; geen plek om na te vlug buiten U nie; geen skuilplek te soek behalwe U nie. Laat my, o my Here, die goddelike soetheid van U aandenking en lof proe. Ek sweer by U mag! Wie ook al van sy soetheid proe sal hom onstlae maak van alle gehegtheid aan die wêreld en alles wat daarin is, en sal sy gesig na U toe rig, gereinig van aandenking aan almal behalwe U.Vuur dan my siel aan, o my God, met U wonderbaarlike aandenking, dat ek U naam mag verheerlik. Tel my nie onder diegene wat U woorde lees en faal om U verborge gawe te vind nie, wat, soos deur U verorden, daarin vervat is, en wat die siele van U skepsels en die harte van U dienaars verlewendig. Laat my, o my Here, onder diegene gereken word wat tot só 'n mate deur die soet geurigheid aangegryp is wat in U dae gesweef het, dat hulle hulle lewens vir U neergelê het en na die toneel van hulle dood gehaas het in hulle verlange om op U prag te tuur en in hulle hunkering om U teenwoordigheid te bereik. En sou iemand vir hulle op hulle pad sê, ,Waarheen gaan julle?' sou hulle sê, ,Na God, die Alles-Besittende, die Hulp in Gevaar, die Selfbestaande!'Die oortredings deur diegene begaan wat hulle van U afgewend het en hulle met hoogmoed teenoor U gedra het, het nie gebaat om hulle te hinder om U lief te hê nie, en om hulle aangesigte na U te rig nie, en in die rigting van U genade te draai nie. Hierdie is hulle wat deur die Menigte in die hoogte geseën is, wat verheerlik is deur die bewoners van die ewigdurende Stede, en oorkant hulle deur diegene op wie se voorhoofde U mees verhewe pen geskrywe het: ,Hierdie! Die Mense van Bahá. Deur hulle is die glanse van die lig van leiding gewerp.' Aldus is dit op U bevel en deur U wil bepaal in die Tafel van U onherroeplike verordening.Maak dus, o my God, hulle grootheid en die grootheid van diegene bekend wat, terwyl hulle op die aarde gelewe het of ná die dood, rondom hulle gedraai het. Voorsien hulle van dit wat U vir die regverdiges onder U skepsels beskik het. Sterk is U om alle dinge te doen. Daar is geen God behalwe U nie, die Alkragtigste, die Hulp in Gevaar, die Almagtige, die Mees Milddadige.Bring nie ons vaste met hierdie vas tot 'n einde nie, o my Here, nòg die verbonde wat U gesluit het, met hierdie verbond. Neem U alles aan wat ons uit liefde vir U gedoen het en ter wille van U behae, en alles wat ons onverrig gelaat het as gevolg van ons onderworpenheid aan ons slegte en verdorwe begeertes. Stel ons dan in staat om standvastig aan U liefde en U welbehae vas te kleef, en bewaar ons teen die kwaad van diegene wat U ontken het en U mees luisterryke tekens verwerp het. U is, in der waarheid, die Here, van hierdie wêreld en van die komende. Geen God is daar behalwe U nie, die Verhewene, die Allerhoogste.Verheerlik U, o Here my God, Hom Wat die Oorspronkelike Punt is, die Goddelike Verborgenheid, die Ongesiene Wese, die Daeraad van Goddelikheid, en die Openbaarwording van U heerskappy, deur Wie al die kennis van die verlede en al die kennis van die toekoms duidelik gemaak is, deur Wie die pêrels van U verborge wysheid blootgelê en die verborgenheid van U kosbare naam onthul is, Wat U aangestel het as die Aankondiger van die Een deur Wie se naam die letter W en die letter S saamgevoeg en verenig is, deur Wie U majesteit, U soewereiniteit en U mag bekend gemaak is, deur Wie U woorde laat daal is, en U wette met helderheid uiteengesit is, en U tekens versprei, en U Woord gevestig is, deur Wie die harte van U uitverkorenes ontbloot is, almal wat in die hemele was en almal wat op die aarde was versamel is, Wat U 'Ali-Muhammad in die koninkryk van U name genoem het, en die Gees van Geeste in die Tafels van U onherroeplike verordening, Wat U met U eie titel beklee het, aan Wie se naam alle ander name op U gebod en deur die krag van U mag gelaat terugkeer is, en in Wie U al U kenmerke en titels hulle eindelike volmaaktheid laat bereik het. Aan Hom behoort ook sodanige name as wat binne U vleklose tabernakels verborge gelê het, in U onsigbare wêreld en U geheiligde stede.Verheerlik U, origens, diegene wat in Hom en in Sy tekens geglo het en na Hom gekeer het, onder dié wat U eenheid in Sy Daaropvolgende Openbaarwording erken het - 'n Openbaarwording waarvan Hy in Sy Tafels melding gemaak het, en in Sy Boeke, en in Sy Geskrifte, en in al die wonderbaarlike verse en woorde soos juwele wat op Hom neergedaal het. Dit is hierdie selfde Openbaarwording Wie se Verbond U Hom gebied het om te vestig voordat Hy Sy eie Verbond gevestig het. Daarin is Sy voortreflikheid opgehemel, en Sy waarheid bevestig, en Sy oppermag bekend gemaak, en Sy Saak tot volmaaktheid gebring. Geluksalig is die man wat na Hom toe gekeer het, en die dinge wat Hy gebied het vervul het, o U Wat die Here van die wêrelde en die Begeerte is van almal wat U geken het!Geloof sy U, o my God, aangesien U ons gehelp het om Hom en by hulle Wat die Daerade van U Goddelikheid is, en die Openbaarwordinge van U Heerskappy en die Skatkamers van U Openbaring, en die Bewaarplekke van U besieling, om ons in staat te stel om Hom te dien en te gehoorsaam, en ons te magtig om die helpers van Sy Saak en die uiteenjaers van Sy teenstanders te word. Kragtig is U om alles te doen wat U behaag. Geen God is daar behalwe U nie, die Almagtige, die Alroemryke, die Een Wie se hulp deur alle mense gesoek word!
 
 -- Bahá'u'lláh
 
-bpn3242 «[Afrikaans](../af/prayers/#bpn3242)» 
+bpn3242 
 
 ----
 
@@ -599,7 +600,7 @@ O my God! O my God! Verenig die harte van U dienaars en openbaar aan hulle U gro
 
 -- Bahá'u'lláh
 
-bpn3217 «[Afrikaans](../af/prayers/#bpn3217)» 
+bpn3217 
 
 ----
 
@@ -609,7 +610,7 @@ O my God! O my God! Voorwaar, ek roep aan en smeek U voor U drumpel, en vra U da
 
 -- Abdu'l-Bahá
 
-bpn3218 «[Afrikaans](../af/prayers/#bpn3218)» 
+bpn3218 
 
 ----
 
@@ -619,31 +620,31 @@ bpn3218 «[Afrikaans](../af/prayers/#bpn3218)»
 ## Geestelike Eienskappe
 
 <a id="bpn3187"></a> 
-Skep in my &#39;n suiwer hart, o my God, en vernuwe in my &#39;n rustige gewete, o my Hoop! Deur die gees van krag bevestig U my in U Saak, o my Bes-Beminde, en deur die lig van U heerlikheid maak U weg aan my bekend, o Doel van my begeerte! Hef my op tot in die hemel van U heiligheid deur die krag van U oortreffende mag, o Bron van my wese, en verbly my deur die luggies van U ewigheid, o U Wat my God is! Laat U ewigdurende melodieë rustigheid oor my adem, o my Metgesel, en laat die weelde van U oue aangesig my verlos van alles buiten U, o my Meester, en laat die tyding van die openbaring van U onverganklike Wese my vreugde bring, o U Wat die mees geopenbaarde van die geopenbaardes is, en die mees verborge van die verborgenes!
+Skep in my 'n suiwer hart, o my God, en vernuwe in my 'n rustige gewete, o my Hoop! Deur die gees van krag bevestig U my in U Saak, o my Bes-Beminde, en deur die lig van U heerlikheid maak U weg aan my bekend, o Doel van my begeerte! Hef my op tot in die hemel van U heiligheid deur die krag van U oortreffende mag, o Bron van my wese, en verbly my deur die luggies van U ewigheid, o U Wat my God is! Laat U ewigdurende melodieë rustigheid oor my adem, o my Metgesel, en laat die weelde van U oue aangesig my verlos van alles buiten U, o my Meester, en laat die tyding van die openbaring van U onverganklike Wese my vreugde bring, o U Wat die mees geopenbaarde van die geopenbaardes is, en die mees verborge van die verborgenes!
 
 -- Bahá'u'lláh
 
-bpn3187 «[Afrikaans](../af/prayers/#bpn3187)» 
+bpn3187 
 
 ----
 
 
 <a id="bpn3188"></a> 
-Van die welriekende strome van U ewigheid, gee my te drink, o my God, en van die vrugte van die boom van U wese stel my in staat om te proe, o my Hoop! Van die kristalfonteine van U liefde laat my drink, o my Glorie, en onder die skaduwee van U ewige voorsienigheid laat my woon, o my Lig! Binne die weiland van U nabyheid in U teenwoordigheid, maak dit moontlik vir my om te swerf, o my Beminde, en aan die regterhand van die troon van U genade, laat my sit, o my Begeerte! Van die welriekende luggies van U vreugde laat &#39;n sug oor my gaan, o my Doel, en na die hoogtes van die paradys van U werklikheid laat my toegang verkry, o my Vereerde Een! Laat my na die melodieë van die duif van U eenheid luister, o Luisterryke Een, en deur die gees van U krag en U mag verlewendig my, o my Versorger! In die gees van U liefde hou my standvastig, o my Helper, en in die pad van U welbehae maak my voetstappe stewig, o my Skepper! Binnekant die tuin van U onsterflikheid, voor U aangesig laat my vir ewig vertoef, o U Wat barmhartig aan my is, en op die setel van U glorie vestig my, o U Wat my Besitter is! Na die hemel van U vriendelike geodheid hef my op, o my Verlewendiger, en na die Dagster van U voorligting lei my, o U my Aantrekker! Voor die openbaringe van U onsigbare gees, laat my roep om teenwoordig te wees, o U Wat my Oorsprong en my Hoogste Wens is, en laat my terugkeer na die wese van die geur van U prag, wat U sal duidelik maak, o U Wat my God is!Sterk is U om te doen wat U behaag. U is, voorwaar, die Mees Verhewe, die Alglorieryke, die Allerhoogste.
+Van die welriekende strome van U ewigheid, gee my te drink, o my God, en van die vrugte van die boom van U wese stel my in staat om te proe, o my Hoop! Van die kristalfonteine van U liefde laat my drink, o my Glorie, en onder die skaduwee van U ewige voorsienigheid laat my woon, o my Lig! Binne die weiland van U nabyheid in U teenwoordigheid, maak dit moontlik vir my om te swerf, o my Beminde, en aan die regterhand van die troon van U genade, laat my sit, o my Begeerte! Van die welriekende luggies van U vreugde laat 'n sug oor my gaan, o my Doel, en na die hoogtes van die paradys van U werklikheid laat my toegang verkry, o my Vereerde Een! Laat my na die melodieë van die duif van U eenheid luister, o Luisterryke Een, en deur die gees van U krag en U mag verlewendig my, o my Versorger! In die gees van U liefde hou my standvastig, o my Helper, en in die pad van U welbehae maak my voetstappe stewig, o my Skepper! Binnekant die tuin van U onsterflikheid, voor U aangesig laat my vir ewig vertoef, o U Wat barmhartig aan my is, en op die setel van U glorie vestig my, o U Wat my Besitter is! Na die hemel van U vriendelike geodheid hef my op, o my Verlewendiger, en na die Dagster van U voorligting lei my, o U my Aantrekker! Voor die openbaringe van U onsigbare gees, laat my roep om teenwoordig te wees, o U Wat my Oorsprong en my Hoogste Wens is, en laat my terugkeer na die wese van die geur van U prag, wat U sal duidelik maak, o U Wat my God is!Sterk is U om te doen wat U behaag. U is, voorwaar, die Mees Verhewe, die Alglorieryke, die Allerhoogste.
 
 -- Bahá'u'lláh
 
-bpn3188 «[Afrikaans](../af/prayers/#bpn3188)» 
+bpn3188 
 
 ----
 
 
 <a id="bpn3189"></a> 
-O my Here! Maak U prag my voedsel, en U teenwoordigheid my drank, en U welgevalle my hoop, en lof van U my optrede, en aandenking aan U my deelgenoot, en die krag van U oppermag my steun, en U woning my tuiste, en my woonplek die setel wat U heilig gemaak het van die beperkings op hulle gelê deur diegene wat soos deur &#39;n sluier van U uitegesluit is.U is, voorwaar, die Almagtige, die Alglorieryke, die Kragtigste.
+O my Here! Maak U prag my voedsel, en U teenwoordigheid my drank, en U welgevalle my hoop, en lof van U my optrede, en aandenking aan U my deelgenoot, en die krag van U oppermag my steun, en U woning my tuiste, en my woonplek die setel wat U heilig gemaak het van die beperkings op hulle gelê deur diegene wat soos deur 'n sluier van U uitegesluit is.U is, voorwaar, die Almagtige, die Alglorieryke, die Kragtigste.
 
 -- Bahá'u'lláh
 
-bpn3189 «[Afrikaans](../af/prayers/#bpn3189)» 
+bpn3189 
 
 ----
 
@@ -653,7 +654,7 @@ O my God, die God van mildheid en genade! U is daardie Koning deur Wie se gebied
 
 -- Bahá'u'lláh
 
-bpn3190 «[Afrikaans](../af/prayers/#bpn3190)» 
+bpn3190 
 
 ----
 
@@ -663,7 +664,7 @@ Geloof sy U Naam, o Here my God! Ek is U dienaar wat die koord van U tere seëni
 
 -- Bahá'u'lláh
 
-bpn3191 «[Afrikaans](../af/prayers/#bpn3191)» 
+bpn3191 
 
 ----
 
@@ -673,7 +674,7 @@ Hy is die Barmhartige, die Almilddadige!O God, my God! U roepstem het my aangetr
 
 -- Bahá'u'lláh
 
-bpn3192 «[Afrikaans](../af/prayers/#bpn3192)» 
+bpn3192 
 
 ----
 
@@ -683,37 +684,37 @@ Hy is die gebed-horende, gebed-verhorende God!By U heerlikheid, o Beminde Een, U
 
 -- Bahá'u'lláh
 
-bpn3193 «[Afrikaans](../af/prayers/#bpn3193)» 
+bpn3193 
 
 ----
 
 
 <a id="bpn3194"></a> 
-O God! Verkwik en verbly my gees. Reinig my hart. Verlig my vermoë. Ek lê al my sake in U hand. U is my Gids en my Toevlug. Ek sak nie langer treurig en bedroef wees nie; ek sal bly en gelukkig wees. O God! Ek sal nie langer vol angs wees nie en ek sal my nie laat kwel deur moeilikhede nie. Ek sal nie stilstaan by die onaangename dinge van die lewe nie.O God! U is meer &#39;n vriend teenoor my as wat ek teenoor myself is. Ek wy my toe aan U, o Here.&#39;
+O God! Verkwik en verbly my gees. Reinig my hart. Verlig my vermoë. Ek lê al my sake in U hand. U is my Gids en my Toevlug. Ek sak nie langer treurig en bedroef wees nie; ek sal bly en gelukkig wees. O God! Ek sal nie langer vol angs wees nie en ek sal my nie laat kwel deur moeilikhede nie. Ek sal nie stilstaan by die onaangename dinge van die lewe nie.O God! U is meer 'n vriend teenoor my as wat ek teenoor myself is. Ek wy my toe aan U, o Here.'
 
 -- Abdu'l-Bahá
 
-bpn3194 «[Afrikaans](../af/prayers/#bpn3194)» 
+bpn3194 
 
 ----
 
 
 <a id="bpn3195"></a> 
-O my God! O my God! Heerlikheid sy aan U omdat U my aan die belydenis van U eenheid bevestig het, my na die woord van U enkelvoudigheid aangetrek het, my met die vuur van U liefde aan die brand gesteek het, en my besig gehou het met U melding en die bediening van U vriende en diensmaagde.O Here, help my om sagmoedig en beskeie te wees en versterk my in die afsnyding van myself van alle dinge en in die vashouding aan die soom van die gewaad van U heerlikheid, sodat my hart met U liefde mag gevul word en geen ruimte vir die liefde van die wêreld en gehegtheid aan sy eienskappe oorlaat nie.O God! Heilig my van alles behalwe U, maak my skoon van die onsuiwerheid van sondes en oortredings, en laat my &#39;n geestelike hart en gewete besit.Voorwaar, U is genadig en, voorwaar, U is die Vrygewigste, Wie se hulp deur alle mense gesoek word.
+O my God! O my God! Heerlikheid sy aan U omdat U my aan die belydenis van U eenheid bevestig het, my na die woord van U enkelvoudigheid aangetrek het, my met die vuur van U liefde aan die brand gesteek het, en my besig gehou het met U melding en die bediening van U vriende en diensmaagde.O Here, help my om sagmoedig en beskeie te wees en versterk my in die afsnyding van myself van alle dinge en in die vashouding aan die soom van die gewaad van U heerlikheid, sodat my hart met U liefde mag gevul word en geen ruimte vir die liefde van die wêreld en gehegtheid aan sy eienskappe oorlaat nie.O God! Heilig my van alles behalwe U, maak my skoon van die onsuiwerheid van sondes en oortredings, en laat my 'n geestelike hart en gewete besit.Voorwaar, U is genadig en, voorwaar, U is die Vrygewigste, Wie se hulp deur alle mense gesoek word.
 
 -- Abdu'l-Bahá
 
-bpn3195 «[Afrikaans](../af/prayers/#bpn3195)» 
+bpn3195 
 
 ----
 
 
 <a id="bpn3196"></a> 
-O my Here! O my Here! Hierdie is &#39;n lamp wat deur die vuur van U liefde aangesteek is en wat brand met die vlam wat in die boom van U genade ontbrand het. O my Here! Vermeerder sy ontvlamming, hitte en vlam, met die vuur wat in die Sinaï van U Openbaarwording aangesteek is. Voorwaar, U is die Bevestiger, die Helper, die Kragtige, die Vrygewige, die Liefhebbende.
+O my Here! O my Here! Hierdie is 'n lamp wat deur die vuur van U liefde aangesteek is en wat brand met die vlam wat in die boom van U genade ontbrand het. O my Here! Vermeerder sy ontvlamming, hitte en vlam, met die vuur wat in die Sinaï van U Openbaarwording aangesteek is. Voorwaar, U is die Bevestiger, die Helper, die Kragtige, die Vrygewige, die Liefhebbende.
 
 -- Abdu'l-Bahá
 
-bpn3196 «[Afrikaans](../af/prayers/#bpn3196)» 
+bpn3196 
 
 ----
 
@@ -723,7 +724,7 @@ O my God! O my God! Hierdie dienaar van U het genader tot U, swerf geesdriftig i
 
 -- Abdu'l-Bahá
 
-bpn3197 «[Afrikaans](../af/prayers/#bpn3197)» 
+bpn3197 
 
 ----
 
@@ -733,7 +734,7 @@ Hy is God!O God, my God! Hierdie is dienaars aangetrek in U dae deur die geure v
 
 -- Abdu'l-Bahá
 
-bpn3198 «[Afrikaans](../af/prayers/#bpn3198)» 
+bpn3198 
 
 ----
 
@@ -743,21 +744,21 @@ bpn3198 «[Afrikaans](../af/prayers/#bpn3198)»
 ## Geestelike Raad
 
 <a id="bpn3237"></a> 
-*Wanneer julle ook al die raadskamer binnetree, sê hierdie gebed met &#39;n hart wat klop met liefde vir God en met &#39;n tong gelouter van alles behalwe aandenking aan Hom, sodat die Almagtige julle genadiglik mag help om die uiterste oorwinning te behaal:O God, my God! Ons is dienaars van U wat met toewyding na U heilige Aangesig gekeer het, wat ons losgemaak het van alles behalwe U op hierdie glorieryke Dag. Ons het in hierdie geestelike raad saamgekom, verenig in ons beskouinge en gedagtes, met ons voornemens in ooreenstemming om U Woord onder die mensdom te verheerlik. O Here, onse God! Maak ons die tekens van U Goddelike Leiding, die Baniere van U verhewe Geloof onder die mensdom, dienaars van U magtige Verbond, o U ons Allerhoogste Here, openbaringe van U Goddelike Eenheid in U Abhá Koninkryk en skitterende sterre wat oor alle streke skyn. Here! Help ons om oseane te word wat dein met die golwe van U wonderbaarlike Genade, strome wat voortvloei van U allerheerlikste Hoogtes, goeie vrugte aan die Boom van U hemelse Saak, bome wat swaai in die winde van U Milddadigheid in U hemelse Wingerd. O God! Maak ons siele afhanklik van die Verse van U Goddelike Eenheid, ons harte opgeruim deur die uitstortings van U Genade, sodat ons ons mag verenig soos die branders van een see en kaan ineensmelt soos die strale van U glansende Lig; dat ons gedagtes, ons sienswyses, ons gevoelens soos een werklikheid mag word, wat die gees van eenheid oor die hele wêreld openbaar. U is die Genadige, die Goedertierende, die Skenker, die Almagtige, die Barmhartige, die Medelydende.
+*Wanneer julle ook al die raadskamer binnetree, sê hierdie gebed met 'n hart wat klop met liefde vir God en met 'n tong gelouter van alles behalwe aandenking aan Hom, sodat die Almagtige julle genadiglik mag help om die uiterste oorwinning te behaal:O God, my God! Ons is dienaars van U wat met toewyding na U heilige Aangesig gekeer het, wat ons losgemaak het van alles behalwe U op hierdie glorieryke Dag. Ons het in hierdie geestelike raad saamgekom, verenig in ons beskouinge en gedagtes, met ons voornemens in ooreenstemming om U Woord onder die mensdom te verheerlik. O Here, onse God! Maak ons die tekens van U Goddelike Leiding, die Baniere van U verhewe Geloof onder die mensdom, dienaars van U magtige Verbond, o U ons Allerhoogste Here, openbaringe van U Goddelike Eenheid in U Abhá Koninkryk en skitterende sterre wat oor alle streke skyn. Here! Help ons om oseane te word wat dein met die golwe van U wonderbaarlike Genade, strome wat voortvloei van U allerheerlikste Hoogtes, goeie vrugte aan die Boom van U hemelse Saak, bome wat swaai in die winde van U Milddadigheid in U hemelse Wingerd. O God! Maak ons siele afhanklik van die Verse van U Goddelike Eenheid, ons harte opgeruim deur die uitstortings van U Genade, sodat ons ons mag verenig soos die branders van een see en kaan ineensmelt soos die strale van U glansende Lig; dat ons gedagtes, ons sienswyses, ons gevoelens soos een werklikheid mag word, wat die gees van eenheid oor die hele wêreld openbaar. U is die Genadige, die Goedertierende, die Skenker, die Almagtige, die Barmhartige, die Medelydende.
 
 -- Abdu'l-Bahá
 
-bpn3237 «[Afrikaans](../af/prayers/#bpn3237)» 
+bpn3237 
 
 ----
 
 
 <a id="bpn3238"></a> 
-*Gebed wat by die afsluiting van &#39;n vergadering van die Geestelike Raad behoort gesê te word.O God! O God! Uit die ongesiene koninkryk van U eenheid, aanskou ons wat in hierdie geestelike vergadering versamel is, wat in U glo, vol vertroue in U tekens, ferm in U Verbond en Testament, aangetrek tot U, gloei met die vuur van U liefde en opreg in U Saak. Ons is dienaars in U wingerd, verspreiders van U godsdiens, toegewyde aanbidders van U gelaat, nederig teenoor U bemindes, gedwee voor U deur, en smeek U om ons in die bediening van U gekosenes te bevestig, om ons lendene in U diensbaarheid te versterk en ons nederige en vererende onderdane te maak wat met U gemeenskap hou.O ons Here! Ons is swak, en U is die Magtige, die Kragtige. Ons is lewensloos, U is die groot lewegewende Gees. Ons is behoeftig, en U is die Onderhouer, die Kragtige.O ons Here! Wend ons gesigte na U genadige gelaat, voed ons van U hemelse tafel met oorvloedige guns, help ons met die skares van U opperste engele en bevestig ons deur die heiliges van die Koninkryk van Abhá.Voorwaar, U is die Vrygewige, die Barmhartige, U is die Besitter van groot mildheid, en, voorwaar, U is die Genadige en die Goedgunstige.
+*Gebed wat by die afsluiting van 'n vergadering van die Geestelike Raad behoort gesê te word.O God! O God! Uit die ongesiene koninkryk van U eenheid, aanskou ons wat in hierdie geestelike vergadering versamel is, wat in U glo, vol vertroue in U tekens, ferm in U Verbond en Testament, aangetrek tot U, gloei met die vuur van U liefde en opreg in U Saak. Ons is dienaars in U wingerd, verspreiders van U godsdiens, toegewyde aanbidders van U gelaat, nederig teenoor U bemindes, gedwee voor U deur, en smeek U om ons in die bediening van U gekosenes te bevestig, om ons lendene in U diensbaarheid te versterk en ons nederige en vererende onderdane te maak wat met U gemeenskap hou.O ons Here! Ons is swak, en U is die Magtige, die Kragtige. Ons is lewensloos, U is die groot lewegewende Gees. Ons is behoeftig, en U is die Onderhouer, die Kragtige.O ons Here! Wend ons gesigte na U genadige gelaat, voed ons van U hemelse tafel met oorvloedige guns, help ons met die skares van U opperste engele en bevestig ons deur die heiliges van die Koninkryk van Abhá.Voorwaar, U is die Vrygewige, die Barmhartige, U is die Besitter van groot mildheid, en, voorwaar, U is die Genadige en die Goedgunstige.
 
 -- Abdu'l-Bahá
 
-bpn3238 «[Afrikaans](../af/prayers/#bpn3238)» 
+bpn3238 
 
 ----
 
@@ -771,7 +772,7 @@ O God, my God! Ek smeek U by die oseaan van U genesing, en by die luister van di
 
 -- Bahá'u'lláh
 
-bpn3153 «[Afrikaans](../af/prayers/#bpn3153)» 
+bpn3153 
 
 ----
 
@@ -781,27 +782,27 @@ U naam is my genesing, o my God, en aandenking aan U is my geneesmiddel. Nabyhei
 
 -- Bahá'u'lláh
 
-bpn3154 «[Afrikaans](../af/prayers/#bpn3154)» 
+bpn3154 
 
 ----
 
 
 <a id="bpn3155"></a> 
-Geloof sy U, o Here my God! Ek smeek U by U Allergrootste Naam, waardeur U U dienaars opgewek het en U stede opgebou het, en by U voortreflikste titels, en U mees verhewe eienskappe, om U mense te help om hulle in die rigting van U menigvuldige mildhede te wend, en hulle aangesigte na die Tabernakel van U wysheid te rig. Genees U die siektes wat die siele aan elke kant aangeval het, en hulle teruggehou het om hulle blik te rig na die Paradys wat in die beskutting van U oorskaduende Naam lê, wat U beskik het om de Koning van alle name te wees van almal wat in die hemel is en almal wat op aarde is. STerk is U om te handel na U welbehae. In U hande is die ryk van alle name. Daar is geen ander God behalwe U nie, die Magtige, die Wyse.Ek is maar &#39;n arme skepsel, o my Here; ek het aan die soom van U rykdom vasgeklem. Ek is swaar siek; ek het aan die koord van U genesing vasgehou. Bevry my van die kwaad wat my omring het, en was my deeglik met die waters van U goedgunstigheid en genade, en kleed my met die gewaad van heilsaamheid, deur U vergifnis en mildheid. Vestig, dan, my oë op U, en verlos my van alle gelegtheid aan enigiets behalwe Uself. Help my om te doen wat U begeer, en te vervul wat U behaag.U is waarlik die Here van hierdie lewe en van die aankomende. U is, in der waarheid, die Altoos-Vergewende, die Barmhartigste.
+Geloof sy U, o Here my God! Ek smeek U by U Allergrootste Naam, waardeur U U dienaars opgewek het en U stede opgebou het, en by U voortreflikste titels, en U mees verhewe eienskappe, om U mense te help om hulle in die rigting van U menigvuldige mildhede te wend, en hulle aangesigte na die Tabernakel van U wysheid te rig. Genees U die siektes wat die siele aan elke kant aangeval het, en hulle teruggehou het om hulle blik te rig na die Paradys wat in die beskutting van U oorskaduende Naam lê, wat U beskik het om de Koning van alle name te wees van almal wat in die hemel is en almal wat op aarde is. STerk is U om te handel na U welbehae. In U hande is die ryk van alle name. Daar is geen ander God behalwe U nie, die Magtige, die Wyse.Ek is maar 'n arme skepsel, o my Here; ek het aan die soom van U rykdom vasgeklem. Ek is swaar siek; ek het aan die koord van U genesing vasgehou. Bevry my van die kwaad wat my omring het, en was my deeglik met die waters van U goedgunstigheid en genade, en kleed my met die gewaad van heilsaamheid, deur U vergifnis en mildheid. Vestig, dan, my oë op U, en verlos my van alle gelegtheid aan enigiets behalwe Uself. Help my om te doen wat U begeer, en te vervul wat U behaag.U is waarlik die Here van hierdie lewe en van die aankomende. U is, in der waarheid, die Altoos-Vergewende, die Barmhartigste.
 
 -- Bahá'u'lláh
 
-bpn3155 «[Afrikaans](../af/prayers/#bpn3155)» 
+bpn3155 
 
 ----
 
 
 <a id="bpn3156"></a> 
-Glorie sy aan U, o Here my God! Ek smeek U by U Naam, waardeur U die vaandels van U leiding omhoog gehef het, en die glans van U vriendelike goedheid uitgestraal het, en die oppermag van U Heerskappy bekend gemaak het; waardeur die lamp van U name binne die nis van U eienskappe verskyn het, en Hy Wat die Tabernakel van U eenheid en die Openbaring van afgetrokkenheid is, voortgeskyn het; waardeur die weë van U leiding bekend gemaak is, en die paaie van U welbehae afgemerk is; waardeur die fondamente van afwyking laat bewe is, en die tekens van slegtigheid afgeskaf is; waardeur die fonteine van wysheid uitgebars het, en die hemelse tafel daal is; waardeur U U dienaars bewaar het en U genesing toegestaan het; waardeur U U barmhartighede aan U dienaars bewys het en U vergifnis onder U skepsels bekend gemaak het - ek smeek U om hom veilig te bewaar wat vasgehou het en na U teruggekom het, en U genade omklem het, en die soom van U liefderyke voorsorg gegryp het. Laat dan U genesing op hom daal, en maak hom heel, en beklee hom met &#39;n standvastigheid deur U vergun, en &#39;n gerustheid deur U hoogheid verleen.U is, voorwaar, die Geneser, die Bewaarder, die Helper, die Almagtige, die Kragtige, die Alglorieryke, die Alwetende.
+Glorie sy aan U, o Here my God! Ek smeek U by U Naam, waardeur U die vaandels van U leiding omhoog gehef het, en die glans van U vriendelike goedheid uitgestraal het, en die oppermag van U Heerskappy bekend gemaak het; waardeur die lamp van U name binne die nis van U eienskappe verskyn het, en Hy Wat die Tabernakel van U eenheid en die Openbaring van afgetrokkenheid is, voortgeskyn het; waardeur die weë van U leiding bekend gemaak is, en die paaie van U welbehae afgemerk is; waardeur die fondamente van afwyking laat bewe is, en die tekens van slegtigheid afgeskaf is; waardeur die fonteine van wysheid uitgebars het, en die hemelse tafel daal is; waardeur U U dienaars bewaar het en U genesing toegestaan het; waardeur U U barmhartighede aan U dienaars bewys het en U vergifnis onder U skepsels bekend gemaak het - ek smeek U om hom veilig te bewaar wat vasgehou het en na U teruggekom het, en U genade omklem het, en die soom van U liefderyke voorsorg gegryp het. Laat dan U genesing op hom daal, en maak hom heel, en beklee hom met 'n standvastigheid deur U vergun, en 'n gerustheid deur U hoogheid verleen.U is, voorwaar, die Geneser, die Bewaarder, die Helper, die Almagtige, die Kragtige, die Alglorieryke, die Alwetende.
 
 -- Bahá'u'lláh
 
-bpn3156 «[Afrikaans](../af/prayers/#bpn3156)» 
+bpn3156 
 
 ----
 
@@ -811,31 +812,31 @@ bpn3156 «[Afrikaans](../af/prayers/#bpn3156)»
 ## Kinders
 
 <a id="bpn3135"></a> 
-O God, lei my, beskerm my, verlig die lamp van my hart, en maak my &#39;n skitterende ster. U is die Magtige en die Kragtige.
+O God, lei my, beskerm my, verlig die lamp van my hart, en maak my 'n skitterende ster. U is die Magtige en die Kragtige.
 
 -- Abdu'l-Bahá
 
-bpn3135 «[Afrikaans](../af/prayers/#bpn3135)» 
+bpn3135 
 
 ----
 
 
 <a id="bpn3136"></a> 
-O U suiwere God! Ek is &#39;n klein kind; gee dat die bors van U vriendelike goedheid dié bors mag wees wat ek bemin; laat my gevoed wees met die boesem van U kennis, en verleen my edelheid en wysheid terwyl ek nog &#39;n kind is.O U die Selfvoldoende God! Maak my &#39;n vertroude van die Koninkryk van die Ongesiene. Voorwaar, U is die Magtige, die Sterke.
+O U suiwere God! Ek is 'n klein kind; gee dat die bors van U vriendelike goedheid dié bors mag wees wat ek bemin; laat my gevoed wees met die boesem van U kennis, en verleen my edelheid en wysheid terwyl ek nog 'n kind is.O U die Selfvoldoende God! Maak my 'n vertroude van die Koninkryk van die Ongesiene. Voorwaar, U is die Magtige, die Sterke.
 
 -- Abdu'l-Bahá
 
-bpn3136 «[Afrikaans](../af/prayers/#bpn3136)» 
+bpn3136 
 
 ----
 
 
 <a id="bpn3137"></a> 
-O my Here! O my Here!Ek is &#39;n kind van teer jare. Voed my uit die bors van U genade, lei my op in die boesem van U liefde, voed my op in die skool van U leiding en ontwikkel my onder die skaduwee van U mildheid. Bevry my van duisternis, maak my &#39;n skitterende lig; maak my van ongelukkigheid vry, maak my &#39;n blom van die roostuin; laat my &#39;n dienaar van U drumpel word en ken aan my die aanleg en geaardheid van die regskapenes toe; maak my &#39;n aanleiding tot mildheid aan die menslike wêreld en bekroon my hoof met die kroon van die ewige lewe.Voorwaar, U is die Sterke, die Magtige, die Siener, die Hoorder.
+O my Here! O my Here!Ek is 'n kind van teer jare. Voed my uit die bors van U genade, lei my op in die boesem van U liefde, voed my op in die skool van U leiding en ontwikkel my onder die skaduwee van U mildheid. Bevry my van duisternis, maak my 'n skitterende lig; maak my van ongelukkigheid vry, maak my 'n blom van die roostuin; laat my 'n dienaar van U drumpel word en ken aan my die aanleg en geaardheid van die regskapenes toe; maak my 'n aanleiding tot mildheid aan die menslike wêreld en bekroon my hoof met die kroon van die ewige lewe.Voorwaar, U is die Sterke, die Magtige, die Siener, die Hoorder.
 
 -- Abdu'l-Bahá
 
-bpn3137 «[Afrikaans](../af/prayers/#bpn3137)» 
+bpn3137 
 
 ----
 
@@ -845,17 +846,17 @@ O God! Voed hierdie kinders op. Hierdie kinders is die plante van U boord, die b
 
 -- Abdu'l-Bahá
 
-bpn3138 «[Afrikaans](../af/prayers/#bpn3138)» 
+bpn3138 
 
 ----
 
 
 <a id="bpn3139"></a> 
-O God! Maak hierdie klein Bába groot in die boesem van U liefde en gee dit melk van die bors van U Voorsienigheid. Kweek hierdie fris plant in die roostuin van U en help dit om deur die buie van U milddadigheid te groei. Maak dit &#39;n kind van die Koninkryk en lei dit na die ryk van U hemel. U is sterk en vriendelik, en U is die Skenker, die Vrygewige, die Here van alles-oortreffende milddadigheid.
+O God! Maak hierdie klein Bába groot in die boesem van U liefde en gee dit melk van die bors van U Voorsienigheid. Kweek hierdie fris plant in die roostuin van U en help dit om deur die buie van U milddadigheid te groei. Maak dit 'n kind van die Koninkryk en lei dit na die ryk van U hemel. U is sterk en vriendelik, en U is die Skenker, die Vrygewige, die Here van alles-oortreffende milddadigheid.
 
 -- Abdu'l-Bahá
 
-bpn3139 «[Afrikaans](../af/prayers/#bpn3139)» 
+bpn3139 
 
 ----
 
@@ -865,11 +866,11 @@ bpn3139 «[Afrikaans](../af/prayers/#bpn3139)»
 ## Kort verpligte gebed
 
 <a id="bpn3221"></a> 
-##KORT VERPLIGTE GEBED*OM EENKEER IN VIER-EN-TWINTIG UUR,*TEEN MIDDAG GESÊ TE WORDEk getuig, o my God, dat U my geskape het om U te ken en U te aanbid. Ek getuig op hierdie oomblik my magteloosheid en U mag, my argmoede en U rykdom.Daar is geen ander God buiten U nie, die Hulp in Gevaar, die Selbestaande.*&#34;Daar is drie daaglikse verpligte gebede. . . .Dit staan die gelowige heeltemal vry om enigeen van hierdie drie gebede te kies, maar hy word verplig om een van hulle te sê, en volgens enige uitdruklike aanwysings waarmee hulle gepaard gaan.&#34; Uit &#39;n brief geskryf namens Shoghi Effendi
+##KORT VERPLIGTE GEBED*OM EENKEER IN VIER-EN-TWINTIG UUR,*TEEN MIDDAG GESÊ TE WORDEk getuig, o my God, dat U my geskape het om U te ken en U te aanbid. Ek getuig op hierdie oomblik my magteloosheid en U mag, my argmoede en U rykdom.Daar is geen ander God buiten U nie, die Hulp in Gevaar, die Selbestaande.*"Daar is drie daaglikse verpligte gebede. . . .Dit staan die gelowige heeltemal vry om enigeen van hierdie drie gebede te kies, maar hy word verplig om een van hulle te sê, en volgens enige uitdruklike aanwysings waarmee hulle gepaard gaan." Uit 'n brief geskryf namens Shoghi Effendi
 
 -- Bahá'u'lláh
 
-bpn3221 «[Afrikaans](../af/prayers/#bpn3221)» 
+bpn3221 
 
 ----
 
@@ -879,11 +880,11 @@ bpn3221 «[Afrikaans](../af/prayers/#bpn3221)»
 ## Lang verpligte gebed
 
 <a id="bpn3220"></a> 
-##LANG VERPLIGTE GEBED*OM EENMAAL IN ELKE VIER-EN-TWINTIG UUR GESÊ TE WORD*Wie ook wens om hierdie gebed te sê, laat hom opstaan en na God toe keer, en, terwyl hy op sy plek staan, laat hom na regs en na links kyk, asof hy die genade van sy God verwag, die Genadevolste, die Medelydende. Laat hom dan sê:O U Wat die Here van alle name is en die Maker van die hemele! Ek smeek U by hulle Wat die Daerade van U onsigbare Wese is, die Mees Verhewe, die Alglorieryke, om van me gebed &#39;n vuur te maak wat die sluiers sal verbrand wat my van U prag uitgesluit het, en &#39;n lig wat my na die oseaan van U Teenwoordigheid sal lei.*Laat hom dan sy hande in smeking na God ophef - geseën en verhewe is Hy - en sê:O U die Begeerte van die wêreld en die Geliefde van die nasies! U sien dat ek my na U toe rig, en, bevry van alle gehegtheid aan iemand behalwe U, vashou aan U koord, deur wie se beweging die hele skepping omgeroer is. Ek is U dienaar, o my Here, en die seun van U dienaar. Aanskou my, gereed staande om U wil en U begeerte te doen, en niks anders wensende as U welbehae nie. Ek smeek U by die Oseaan van U genade en die Dagster van U guns om met U dienaar te doen na U wil en bahae. By u mag wat ver bo alle melding en lof is! Wat ook al deur U geopenbaar is, is die begeerte van my hart en die beminde van my siel. O God, my God! Kyk nie na my verwagtinge en my dade nie, nee kyk liewer na U wil wat die hemele en die aarde omvat het. By U Allergrootste Naam, o U die Here van alle nasies! Ek het net begeer wat U begeer het, en bemin net wat U bemin.*Laat hom dan kniel, sy voorhoof na die grond buig, en sê:Verhewe is U bo die beskrywing van iemand anders as Uself, en die begrip van wat ook al behalwe U.*Laat hom dan opstaan en sê:Maak my gebed, o my Here, &#39;n fontein van lewende waters waarvan ek so lank mag lewe as wat U oppermag bly bestaan, en melding van U mag maak in elke wêreld van U wêrelde.*Laat hom weer eens sy hande in smeking ophef, en sê:O U in afsondering van Wie harte en siele gesmelt het, en by die vuur van Wie se liefde die hele wêreld ontbrand het! Ek smeek U by U Naam waardeur U die hele skepping onderwerp het, om nie dit van my weg te hou wat by U is nie, o U Wat oor alle mense regeer! U sien, o my Here, hierdie vreemdeling hom haas na sy verhewenste tuiste onder die grense van U genade; en hierdie oortreder soek die oseaan van U vergifnis; en hierdie nederige een die voorhof van U heerlikheid; en hierdie arme skepsel die daeraad van U rykdom. Aan U is die gesag om te gebied wat U ook al wil. Ek getuig dat U geroem behoort te word in U werke, en gehoorsaam te word in U opdrae, en onbevange te bly in U gebod.Laat hom dan sy hande ophef, en drie maal die Grootste Naam1 herhaal. Laat hom dan met hande rustende op die knieë neerbuig voor God - geseën en verhewe is Hy - en sê:U sien, o my God, hoe my gees binne my ledemate en liggaamsdele opgewek is, in my verlange om U te aanbid, en in sy hunkering om U te onthou en U te loof; hoe dit getuig van dit waarvan die Tong van U Gebod getuig het in die koninkryk van U woorde en in die hemel van U kennis. In hierdie staat, o my Here, smeek ek U graag om alles wat by U is, sodat ek my armoede kan toon, en U mildheid en U rykdom mag verheerlik, en my magteloosheid mag bekend maak, en U krag en U mag openbaar.*Laat hom dan opstaan en sy hande twee maal in smeking ophef, en sê:Daar is geen God behalwe U nie, die Almagtige, die Almilddadige. Daar is geen God behalwe U nie, die Verordenaar, sowel in die begin as aan die einde. O God, my God! U vergifnis het my verstout, en U genade het my gesterk, en U roepstem het my wakker gemaak, en U guns het my opgehef en my na U gelei. Wie anders is ek dan dat ek sou durf om by die hek van die stad van U nabyheid te staan, of my gesig te rig na die ligte wat skyn uit die hemel van U wil? U sien, o my Here, hierdie armsalige skepsel klop aan die deur van U guns, en hierdie vlugtige siel soek die rivier van die ewige lewe van die hande van U mildheid. Aan U kom toe die gesag te alle tye, o U Wat die Here van alle name is; en aan my kop toe die oorgawe en gewillige onderwerping aan U wil, o Skepper van die hemele!*Laat hom dan sy hande drie maal ophef, en sê:Groter is God as elke groot een!*Laat hom dan kniel, sy kop na die grond buig en sê:Te hoog is U vir die lof van diegene wat naby U is om na die hemel van U nabyheid te styg, of vir die voëls van die harte van hulle wat aan U toegewy is om die deur van U poort te bereik. Ek getuig dat U geheilig is bo alle eienskappe en heilig is bo alle name. Geen God is daar behalwe U nie, die Verhewenste, die Alglorieryke.*Laat hom dan gaan sit en sê:Ek getuig van dit waarvan alle geskape dinge getuig het, en die Menigte in die hoogte, en die huisgenote van die allerhoogste Paradys, en bo hulle die Tong van Grootheid Self vanaf die alglorieryke Horison, dat U God is, dat daar geen God behalwe U is nie, en dat Hy Wat geopenbaar is die Verborge Geheim is, die Kosbare Simbool, deur Wie die letters W en S (Wees) verenig en saamgebind is. Ek getuig dat dit Hy is Wie se naam deur die Pen van die Allerhoogste neergeskryf is, en Wat in die Boeke van God vermeld is, die Heer van die Troon in die hoogte en onder op aarde.*Laat hom dan regop staan en sê:O Here van alle wesens en die Besitter van alle sigbare en onsigbare dinge! U gewaar my trane en die sugte wat ek slaak, en hoor my kreune, en my weeklag, en die gejammer van my hart. By u mag! My oortredings het my teruggehou om U te nader; en my sondes het my ver van die voorhof van U heiligheid gehou. U liefde, o my Here, het my verryk, en afskeiding van U het my vernietig, en verheid van U het my verteer. Ek smeek U by U voetstappe in die wildernis, en by die woorde &#34;Hier is Ek&#34;, wat U Uitverkorenes in hierdie ontsaglikheid geuit het, en by die adems van U Openbaring,en die sagte luggies van die Dagbreek van U Openbaarwording, om te beskik dat ek op U prag mag kyk, en onderhou wat ook al in U Boek is.*Laat hom dan die Grootste Naam drie maal herhaal, en neerbuig met hande op die knieë rustende, en së:Lof sy aan U, o my God, dat U my gehelp het om U te onthou en U te loof, en Hom aan my bekend gemaak het Wat die Daeraad van U tekens is, en my voor U Heerskappy laat neerbuig het, en myself laat verootmoedig het voor U Godheid, en dit laat erken het wat deur die Tong van U grootheid uitgespreek is.Laat hom dan opstaan en sê:O God, my God! My rug is gebuig deur die las van my sondes, en my agtelosigheid het my vernietig. Elke keer wanneer ek oor my bose dade en U welwillendheid dink, smelt my hart binne-in my, en kook my bloed in my are. By U Prag, o U die Begeerte van die wêreld! Ek bloos om my gesig na U op te hef, en my verlangende hande is skaam om na die hemel van U mildheid uit te strek. U sien, o my God, hoe my trane my verhinder om U te onthou en U deugde te loof, o U die Here van die Troon in die hoogte en onder op die aarde! Ek smeek U by die tekens van U koninkryk en by die verborgenhede van U Heerskappy om met U bemindes te doen soos dit U mildheid betaam, o Here van alle wese, en U genade waardig is, o Koning van die gesiene en die ongesiene!*Laat hom dan die Grootste Naam drie maal herhaal, en kniel met sy voorhoof op die grond, en sê:Lof sy aan U, o onse God, dat U dit op ons laat daal het wat ons na aan U trek, en ons van elke goeie dinge voorsien wat deur U in U Boeke en U Geskrifte laat daal is. Beskerm ons, ons smeekl U, o my Here, teen die menigtes van nuttelose inbeeldings en ydele verbeeldings. U, in der waarheid, is die Magtige, die Alwetende.*Laat hom dan sy hoof ophef, gaan sit, en sê:Ek getuig, o my God, van dit waarvan U Verkorenes getuig het, en erken dit wat die huisgenote van die allerhoogste Paradys en diegene wat rondom U magtige Troon rondgedraai het, erken het. Die koninkryke van die aarde en hemel is die Uwe, o Here van die wêrelde!
+##LANG VERPLIGTE GEBED*OM EENMAAL IN ELKE VIER-EN-TWINTIG UUR GESÊ TE WORD*Wie ook wens om hierdie gebed te sê, laat hom opstaan en na God toe keer, en, terwyl hy op sy plek staan, laat hom na regs en na links kyk, asof hy die genade van sy God verwag, die Genadevolste, die Medelydende. Laat hom dan sê:O U Wat die Here van alle name is en die Maker van die hemele! Ek smeek U by hulle Wat die Daerade van U onsigbare Wese is, die Mees Verhewe, die Alglorieryke, om van me gebed 'n vuur te maak wat die sluiers sal verbrand wat my van U prag uitgesluit het, en 'n lig wat my na die oseaan van U Teenwoordigheid sal lei.*Laat hom dan sy hande in smeking na God ophef - geseën en verhewe is Hy - en sê:O U die Begeerte van die wêreld en die Geliefde van die nasies! U sien dat ek my na U toe rig, en, bevry van alle gehegtheid aan iemand behalwe U, vashou aan U koord, deur wie se beweging die hele skepping omgeroer is. Ek is U dienaar, o my Here, en die seun van U dienaar. Aanskou my, gereed staande om U wil en U begeerte te doen, en niks anders wensende as U welbehae nie. Ek smeek U by die Oseaan van U genade en die Dagster van U guns om met U dienaar te doen na U wil en bahae. By u mag wat ver bo alle melding en lof is! Wat ook al deur U geopenbaar is, is die begeerte van my hart en die beminde van my siel. O God, my God! Kyk nie na my verwagtinge en my dade nie, nee kyk liewer na U wil wat die hemele en die aarde omvat het. By U Allergrootste Naam, o U die Here van alle nasies! Ek het net begeer wat U begeer het, en bemin net wat U bemin.*Laat hom dan kniel, sy voorhoof na die grond buig, en sê:Verhewe is U bo die beskrywing van iemand anders as Uself, en die begrip van wat ook al behalwe U.*Laat hom dan opstaan en sê:Maak my gebed, o my Here, 'n fontein van lewende waters waarvan ek so lank mag lewe as wat U oppermag bly bestaan, en melding van U mag maak in elke wêreld van U wêrelde.*Laat hom weer eens sy hande in smeking ophef, en sê:O U in afsondering van Wie harte en siele gesmelt het, en by die vuur van Wie se liefde die hele wêreld ontbrand het! Ek smeek U by U Naam waardeur U die hele skepping onderwerp het, om nie dit van my weg te hou wat by U is nie, o U Wat oor alle mense regeer! U sien, o my Here, hierdie vreemdeling hom haas na sy verhewenste tuiste onder die grense van U genade; en hierdie oortreder soek die oseaan van U vergifnis; en hierdie nederige een die voorhof van U heerlikheid; en hierdie arme skepsel die daeraad van U rykdom. Aan U is die gesag om te gebied wat U ook al wil. Ek getuig dat U geroem behoort te word in U werke, en gehoorsaam te word in U opdrae, en onbevange te bly in U gebod.Laat hom dan sy hande ophef, en drie maal die Grootste Naam1 herhaal. Laat hom dan met hande rustende op die knieë neerbuig voor God - geseën en verhewe is Hy - en sê:U sien, o my God, hoe my gees binne my ledemate en liggaamsdele opgewek is, in my verlange om U te aanbid, en in sy hunkering om U te onthou en U te loof; hoe dit getuig van dit waarvan die Tong van U Gebod getuig het in die koninkryk van U woorde en in die hemel van U kennis. In hierdie staat, o my Here, smeek ek U graag om alles wat by U is, sodat ek my armoede kan toon, en U mildheid en U rykdom mag verheerlik, en my magteloosheid mag bekend maak, en U krag en U mag openbaar.*Laat hom dan opstaan en sy hande twee maal in smeking ophef, en sê:Daar is geen God behalwe U nie, die Almagtige, die Almilddadige. Daar is geen God behalwe U nie, die Verordenaar, sowel in die begin as aan die einde. O God, my God! U vergifnis het my verstout, en U genade het my gesterk, en U roepstem het my wakker gemaak, en U guns het my opgehef en my na U gelei. Wie anders is ek dan dat ek sou durf om by die hek van die stad van U nabyheid te staan, of my gesig te rig na die ligte wat skyn uit die hemel van U wil? U sien, o my Here, hierdie armsalige skepsel klop aan die deur van U guns, en hierdie vlugtige siel soek die rivier van die ewige lewe van die hande van U mildheid. Aan U kom toe die gesag te alle tye, o U Wat die Here van alle name is; en aan my kop toe die oorgawe en gewillige onderwerping aan U wil, o Skepper van die hemele!*Laat hom dan sy hande drie maal ophef, en sê:Groter is God as elke groot een!*Laat hom dan kniel, sy kop na die grond buig en sê:Te hoog is U vir die lof van diegene wat naby U is om na die hemel van U nabyheid te styg, of vir die voëls van die harte van hulle wat aan U toegewy is om die deur van U poort te bereik. Ek getuig dat U geheilig is bo alle eienskappe en heilig is bo alle name. Geen God is daar behalwe U nie, die Verhewenste, die Alglorieryke.*Laat hom dan gaan sit en sê:Ek getuig van dit waarvan alle geskape dinge getuig het, en die Menigte in die hoogte, en die huisgenote van die allerhoogste Paradys, en bo hulle die Tong van Grootheid Self vanaf die alglorieryke Horison, dat U God is, dat daar geen God behalwe U is nie, en dat Hy Wat geopenbaar is die Verborge Geheim is, die Kosbare Simbool, deur Wie die letters W en S (Wees) verenig en saamgebind is. Ek getuig dat dit Hy is Wie se naam deur die Pen van die Allerhoogste neergeskryf is, en Wat in die Boeke van God vermeld is, die Heer van die Troon in die hoogte en onder op aarde.*Laat hom dan regop staan en sê:O Here van alle wesens en die Besitter van alle sigbare en onsigbare dinge! U gewaar my trane en die sugte wat ek slaak, en hoor my kreune, en my weeklag, en die gejammer van my hart. By u mag! My oortredings het my teruggehou om U te nader; en my sondes het my ver van die voorhof van U heiligheid gehou. U liefde, o my Here, het my verryk, en afskeiding van U het my vernietig, en verheid van U het my verteer. Ek smeek U by U voetstappe in die wildernis, en by die woorde "Hier is Ek", wat U Uitverkorenes in hierdie ontsaglikheid geuit het, en by die adems van U Openbaring,en die sagte luggies van die Dagbreek van U Openbaarwording, om te beskik dat ek op U prag mag kyk, en onderhou wat ook al in U Boek is.*Laat hom dan die Grootste Naam drie maal herhaal, en neerbuig met hande op die knieë rustende, en së:Lof sy aan U, o my God, dat U my gehelp het om U te onthou en U te loof, en Hom aan my bekend gemaak het Wat die Daeraad van U tekens is, en my voor U Heerskappy laat neerbuig het, en myself laat verootmoedig het voor U Godheid, en dit laat erken het wat deur die Tong van U grootheid uitgespreek is.Laat hom dan opstaan en sê:O God, my God! My rug is gebuig deur die las van my sondes, en my agtelosigheid het my vernietig. Elke keer wanneer ek oor my bose dade en U welwillendheid dink, smelt my hart binne-in my, en kook my bloed in my are. By U Prag, o U die Begeerte van die wêreld! Ek bloos om my gesig na U op te hef, en my verlangende hande is skaam om na die hemel van U mildheid uit te strek. U sien, o my God, hoe my trane my verhinder om U te onthou en U deugde te loof, o U die Here van die Troon in die hoogte en onder op die aarde! Ek smeek U by die tekens van U koninkryk en by die verborgenhede van U Heerskappy om met U bemindes te doen soos dit U mildheid betaam, o Here van alle wese, en U genade waardig is, o Koning van die gesiene en die ongesiene!*Laat hom dan die Grootste Naam drie maal herhaal, en kniel met sy voorhoof op die grond, en sê:Lof sy aan U, o onse God, dat U dit op ons laat daal het wat ons na aan U trek, en ons van elke goeie dinge voorsien wat deur U in U Boeke en U Geskrifte laat daal is. Beskerm ons, ons smeekl U, o my Here, teen die menigtes van nuttelose inbeeldings en ydele verbeeldings. U, in der waarheid, is die Magtige, die Alwetende.*Laat hom dan sy hoof ophef, gaan sit, en sê:Ek getuig, o my God, van dit waarvan U Verkorenes getuig het, en erken dit wat die huisgenote van die allerhoogste Paradys en diegene wat rondom U magtige Troon rondgedraai het, erken het. Die koninkryke van die aarde en hemel is die Uwe, o Here van die wêrelde!
 
 -- Bahá'u'lláh
 
-bpn3220 «[Afrikaans](../af/prayers/#bpn3220)» 
+bpn3220 
 
 ----
 
@@ -893,11 +894,11 @@ bpn3220 «[Afrikaans](../af/prayers/#bpn3220)»
 ## Lof en Dankbaarheid
 
 <a id="bpn3169"></a> 
-Verheerlik sy U Naam, o Here my God! U is Hy Wat alle dinge aanbid en Wat niemand aanbid nie, Wat die Here van alle dinge is en die kneg van niemand nie, Wat alle dinge is en deur geeneen geken word nie. U wou Uself aan die mens bekend maak; daarom het U, deur middel van &#39;n woord uit U mond, die skepping in die lewe geroep en die heelal gevorm. Daar is geen ander God behalwe U nie, die Vormer, die Skepper, die Almagtige, die Kragtigste.Ek smeek U, by hierdie einste woord wat bó die horison van U wil voortgeskyn het, om my in staat te stel om diep van die lewende waters te drink waardeur U die harte van U gekosenes verlewendig het en die siele van diegene wat U bemin opgewek het, dat ek altyd en onder alle omstandighede my aangesig geheel na U mag wend.U is die God van krag, van heerlikheid en mildheid. Geen God is daar behalwe U nie, die Opperste Heerser, die Alglorieryke, die Alwetende.
+Verheerlik sy U Naam, o Here my God! U is Hy Wat alle dinge aanbid en Wat niemand aanbid nie, Wat die Here van alle dinge is en die kneg van niemand nie, Wat alle dinge is en deur geeneen geken word nie. U wou Uself aan die mens bekend maak; daarom het U, deur middel van 'n woord uit U mond, die skepping in die lewe geroep en die heelal gevorm. Daar is geen ander God behalwe U nie, die Vormer, die Skepper, die Almagtige, die Kragtigste.Ek smeek U, by hierdie einste woord wat bó die horison van U wil voortgeskyn het, om my in staat te stel om diep van die lewende waters te drink waardeur U die harte van U gekosenes verlewendig het en die siele van diegene wat U bemin opgewek het, dat ek altyd en onder alle omstandighede my aangesig geheel na U mag wend.U is die God van krag, van heerlikheid en mildheid. Geen God is daar behalwe U nie, die Opperste Heerser, die Alglorieryke, die Alwetende.
 
 -- Bahá'u'lláh
 
-bpn3169 «[Afrikaans](../af/prayers/#bpn3169)» 
+bpn3169 
 
 ----
 
@@ -907,7 +908,7 @@ Alle lof, o my God, sy aan U Wat die Bron van alle glorie en majesteit is, van g
 
 -- Bahá'u'lláh
 
-bpn3170 «[Afrikaans](../af/prayers/#bpn3170)» 
+bpn3170 
 
 ----
 
@@ -917,7 +918,7 @@ Verheerlik sy U, o Here my God! Ek gee U dank dat U my in staat gestel het om di
 
 -- Bahá'u'lláh
 
-bpn3171 «[Afrikaans](../af/prayers/#bpn3171)» 
+bpn3171 
 
 ----
 
@@ -927,17 +928,17 @@ In die Naam van God, die Allerhoogste! Verheerlik en geprys sy U, Here, God, die
 
 -- Bahá'u'lláh
 
-bpn3172 «[Afrikaans](../af/prayers/#bpn3172)» 
+bpn3172 
 
 ----
 
 
 <a id="bpn3173"></a> 
-God getuig van die eenheid van Sy Godheid en van die enkelvoudigheid van Sy eie Wese. Op die troon van die ewigheid, uit die onbereikbare hoogtes van Sy stand, roep Sy tong uit dat daar geen ander God behalwe Hom is nie. Hy self, onafhanklik van alle andere, was altyd &#39;n getuie gewees van Sy eenheid, die bekendmaker van Sy eie natuur, die verheerliker van Sy eie wese. Hy is, voorwaar, die Alsterke, di Almagtige, die Skone.Hy is oppermagtig oor Sy dienaars, en staan oor Sy skepsels. In Sy hand is die oorsprong van gesag en waarheid. Hy verlewendig die mense deur Sy tekens, en laat hulle deur Sy toorn sterwe. Hy sal nie gevra word oor Sy werke nie, en Sy mag is in staat tot alle dinge. Hy is die Sterke, die Alles-Onderwerpende. Hy hou die heerskappy van alle dinge binne Sy bereik, en aan Sy regterhand is die Koninkryk van Sy Openbaring gevestig. Voorwaar, Sy mag omvat die hele skepping. Oorwinning en opperheerskappy is Syne; alle mag en soewereiniteit is Syne; alle glorie en grootheid is Syne. Hy is, in der waarheid, die Alglorieryke, die Kragtigste, die Oneindige en Ewige.
+God getuig van die eenheid van Sy Godheid en van die enkelvoudigheid van Sy eie Wese. Op die troon van die ewigheid, uit die onbereikbare hoogtes van Sy stand, roep Sy tong uit dat daar geen ander God behalwe Hom is nie. Hy self, onafhanklik van alle andere, was altyd 'n getuie gewees van Sy eenheid, die bekendmaker van Sy eie natuur, die verheerliker van Sy eie wese. Hy is, voorwaar, die Alsterke, di Almagtige, die Skone.Hy is oppermagtig oor Sy dienaars, en staan oor Sy skepsels. In Sy hand is die oorsprong van gesag en waarheid. Hy verlewendig die mense deur Sy tekens, en laat hulle deur Sy toorn sterwe. Hy sal nie gevra word oor Sy werke nie, en Sy mag is in staat tot alle dinge. Hy is die Sterke, die Alles-Onderwerpende. Hy hou die heerskappy van alle dinge binne Sy bereik, en aan Sy regterhand is die Koninkryk van Sy Openbaring gevestig. Voorwaar, Sy mag omvat die hele skepping. Oorwinning en opperheerskappy is Syne; alle mag en soewereiniteit is Syne; alle glorie en grootheid is Syne. Hy is, in der waarheid, die Alglorieryke, die Kragtigste, die Oneindige en Ewige.
 
 -- Bahá'u'lláh
 
-bpn3173 «[Afrikaans](../af/prayers/#bpn3173)» 
+bpn3173 
 
 ----
 
@@ -947,11 +948,11 @@ bpn3173 «[Afrikaans](../af/prayers/#bpn3173)»
 ## Middelbare verpligte gebed
 
 <a id="bpn3219"></a> 
-##MIDDELBARE VERPLIGTE GEBEDE*OM DAAGLIKS GESÊ TE WORD, IN DIE OGGEND,*OP DIE MIDDAGUUR, EN IN DIE AANDWie ook al wens om te bid, laat hom sy hande was, en terwyl hy was, laat hom sê:Sterk my hand, o my God, sodat dit U boek met sulke standvastigheid mag vat dat die skares van die wêreld geen mag daaroor sal hê nie. Behoed dit, dan, van bemoeiing met wat ook al nie daaraan behoort nie. U is, voorwaar, die Almagtige, die Kragtigste.En terwyl hy sy gesig was, laat hom sê:Ek het my gesig na U toegedraai, o my Here! Verlig dit met die lig van U gelaat. Beskerm dit, dan, teen wending na iemand behalwe U.Laat hom dan opstaan, en met sy gesig na die Qiblih (die Punt van Aanbidding, d.w.s. Bahjí, &#39;Akká) gerig, laat hom sê:God getuig dat daar geen ander God behalwe Hom is nie. Aan Hom behoort die koninkryke van Openbaring en van skepping. Hy, in der waarheid, het Hom geopenbaar Wat die Daeraad van Openbaring is, Wat op Sinaï gepraat het, deur Wie die Hoogste Horison tot skyning gebring is, en die Lotusboom, oorkant waarvan daar geen verbygaan is nie, gepraat het, en deur Wie die geroep aan almal wat in die hemel en op aarde is verkonding is: &#39;Kyk, die Alles-Besittende het gekom. Aarde en hemel, heerlikheid en heerskappy is God s&#39;n, die Here van alle mense en die Besitter van die Troon in die hoogte en benede op aarde!&#39;Laat hom dan neerbuig, met hande op die knieë rustende, en sê:Verhewe is U bo my lof en die lof van iedereen buiten my, bo my beskrywing en die beskrywing van almal wat in die hemel is en almal wat op die aarde is!Laat hom dan staan met oop hande, palms bo na die gesig, en sê:Stel hom nie teleur nie, o my God, wat met smekende vingers aan die soom van U genade en U guns vasgehou het, o U Wat van diegene wat genade bewys die Allergenadigste is!Laat hom dan gaan sit en sê:Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen ander God behalwe U is nie. U het, voorwaar, U Saak onthul, U Verbond vervul, en die deur van U guns aan almal wat in die hemel en op aarde woon wyd oopgemaak. Seën en vrede, begroeting en heerlikheid rus op U bemindes, wat die lotswisselinge van die wêreld nie teruggehou het om na U te keer nie, en wat hulle alles gegee het, in die verwagting om dit te bekom wat by U is. U is in der waarheid, die Altyd-Vergewende, die Almilddadige.Sou iemand verkies om pleks van die lang vers hierdie woorde te sê:God getuig dat daar geen ander God behalwe Hom is nie, die Hukp in Gevaar, die Selfbestaande, sou dit toereikend wees. En op dieselfde manier, sou dit voldoende wees sou hy, terwyl hy sit, verkies om hierdie woorde te sê: Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen ander God behalwe U is nie.
+##MIDDELBARE VERPLIGTE GEBEDE*OM DAAGLIKS GESÊ TE WORD, IN DIE OGGEND,*OP DIE MIDDAGUUR, EN IN DIE AANDWie ook al wens om te bid, laat hom sy hande was, en terwyl hy was, laat hom sê:Sterk my hand, o my God, sodat dit U boek met sulke standvastigheid mag vat dat die skares van die wêreld geen mag daaroor sal hê nie. Behoed dit, dan, van bemoeiing met wat ook al nie daaraan behoort nie. U is, voorwaar, die Almagtige, die Kragtigste.En terwyl hy sy gesig was, laat hom sê:Ek het my gesig na U toegedraai, o my Here! Verlig dit met die lig van U gelaat. Beskerm dit, dan, teen wending na iemand behalwe U.Laat hom dan opstaan, en met sy gesig na die Qiblih (die Punt van Aanbidding, d.w.s. Bahjí, 'Akká) gerig, laat hom sê:God getuig dat daar geen ander God behalwe Hom is nie. Aan Hom behoort die koninkryke van Openbaring en van skepping. Hy, in der waarheid, het Hom geopenbaar Wat die Daeraad van Openbaring is, Wat op Sinaï gepraat het, deur Wie die Hoogste Horison tot skyning gebring is, en die Lotusboom, oorkant waarvan daar geen verbygaan is nie, gepraat het, en deur Wie die geroep aan almal wat in die hemel en op aarde is verkonding is: 'Kyk, die Alles-Besittende het gekom. Aarde en hemel, heerlikheid en heerskappy is God s'n, die Here van alle mense en die Besitter van die Troon in die hoogte en benede op aarde!'Laat hom dan neerbuig, met hande op die knieë rustende, en sê:Verhewe is U bo my lof en die lof van iedereen buiten my, bo my beskrywing en die beskrywing van almal wat in die hemel is en almal wat op die aarde is!Laat hom dan staan met oop hande, palms bo na die gesig, en sê:Stel hom nie teleur nie, o my God, wat met smekende vingers aan die soom van U genade en U guns vasgehou het, o U Wat van diegene wat genade bewys die Allergenadigste is!Laat hom dan gaan sit en sê:Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen ander God behalwe U is nie. U het, voorwaar, U Saak onthul, U Verbond vervul, en die deur van U guns aan almal wat in die hemel en op aarde woon wyd oopgemaak. Seën en vrede, begroeting en heerlikheid rus op U bemindes, wat die lotswisselinge van die wêreld nie teruggehou het om na U te keer nie, en wat hulle alles gegee het, in die verwagting om dit te bekom wat by U is. U is in der waarheid, die Altyd-Vergewende, die Almilddadige.Sou iemand verkies om pleks van die lang vers hierdie woorde te sê:God getuig dat daar geen ander God behalwe Hom is nie, die Hukp in Gevaar, die Selfbestaande, sou dit toereikend wees. En op dieselfde manier, sou dit voldoende wees sou hy, terwyl hy sit, verkies om hierdie woorde te sê: Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen ander God behalwe U is nie.
 
 -- Bahá'u'lláh
 
-bpn3219 «[Afrikaans](../af/prayers/#bpn3219)» 
+bpn3219 
 
 ----
 
@@ -961,11 +962,11 @@ bpn3219 «[Afrikaans](../af/prayers/#bpn3219)»
 ## Naw Rúz
 
 <a id="bpn3243"></a> 
-*Naw-Rúz, 21 Maart, is die eerste dag van die Bahá&#39;í jaar. Gelof sy U, o my God, dat U Naw-Rúz as &#39;n feesdag ingestel het vir diegene wat uit liefde vir U die vas onderhou het en van alles wat vir U verafskuwend is weggebly het. Gee, o my Here, dat die vuur van U liefde en die hitte voortgebring deur die vas wat deur U gelas is, hulle in U Saak mag laat ontbrand, en maak dat hulle met U lof en met aandenking aan U besig mag wees.Aangesien U hulle versier het, o my Here, met die sieraad van die vas deur U voorgeskrywe, versier U hulle ook met die sieraad vaan U aanvaarding, deur U genade en milddadige guns. Want die dade van mense is alles afhanklik van U welbehae, en is deur U opdrag bepaal. Sou U hom wat die vas gebreek het beskou as een wat dit onderhou het, sou so iemand onder hulle gereken word wat die vas aan ewigheid gehou het. En sou U bepaal dat hy wat die vas onderhou het dit gebreek het, sou daardie persoon onder diegene getel word wat die Gewaad van U Openbaring met stof laat bevlek het, en ver verwyder was van die kristalwaters van hierdie lewende Fontein.U is Hy deur Wie die vaandel ,Prysenswaardig is U in U werke&#39; opgehys is, em die standaard ,Gehoorsaam word U in U opdrag&#39; ontplooi is. Maak hierdie U stand bekend aan U dienaars, o my God, sodat hulle bewus gemaak mag word dat die voortreflikheid van alle dinge afhanklik van U bevel en U woord is, en die deug van elke daad bepaal word deur U verlof en die welbehae van U wil, en mag herken dat die teuels van mense se werke binne die greep van U aanvaarding en U gebod is. Maak dit aan hulle bekend, sodat hoegenaamd niks hulle van U Prag kan uitsluit nie, in hierdie dae waarop die Christus uitroep: ,Alle heerskappy sy aan U, o U die Bes-Beminde, omdat U U Prag blootgestel het, en vir U uitverkorenes neergeskryf het wat sal maak dat hulle die setel van die openbaring van U Allergrootste Naam sal behaal, waardeur al die volke gekla het behalwe diegene wat hulle van alles behalwe U losgemaak het, en hulself gerig het na Hom Wat die Onthuller van Uself is en die Openbaarwording van U eienskappe.&#39;Hy Wat U Tak is en al U deelgenootskap, o my Here, het hierdie dag hulle vas gebreek, nadat hulle dit binne die omgewing van U hof onderhou het, en in hulle ywer om U te behaag. Beskik U vir Hom, en vir hulle, en vir diegene wat U teenwoordigheid in daardie dae binnegegaan het, al die goeie wat U in U Boek bestem het. Voorsien hulle dan van dit wat hulle sal bevoordeel beide in hierdie lewe en in die lewe hiernamaals.U is in der waarheid die Alwetende, die Alwyse.
+*Naw-Rúz, 21 Maart, is die eerste dag van die Bahá'í jaar. Gelof sy U, o my God, dat U Naw-Rúz as 'n feesdag ingestel het vir diegene wat uit liefde vir U die vas onderhou het en van alles wat vir U verafskuwend is weggebly het. Gee, o my Here, dat die vuur van U liefde en die hitte voortgebring deur die vas wat deur U gelas is, hulle in U Saak mag laat ontbrand, en maak dat hulle met U lof en met aandenking aan U besig mag wees.Aangesien U hulle versier het, o my Here, met die sieraad van die vas deur U voorgeskrywe, versier U hulle ook met die sieraad vaan U aanvaarding, deur U genade en milddadige guns. Want die dade van mense is alles afhanklik van U welbehae, en is deur U opdrag bepaal. Sou U hom wat die vas gebreek het beskou as een wat dit onderhou het, sou so iemand onder hulle gereken word wat die vas aan ewigheid gehou het. En sou U bepaal dat hy wat die vas onderhou het dit gebreek het, sou daardie persoon onder diegene getel word wat die Gewaad van U Openbaring met stof laat bevlek het, en ver verwyder was van die kristalwaters van hierdie lewende Fontein.U is Hy deur Wie die vaandel ,Prysenswaardig is U in U werke' opgehys is, em die standaard ,Gehoorsaam word U in U opdrag' ontplooi is. Maak hierdie U stand bekend aan U dienaars, o my God, sodat hulle bewus gemaak mag word dat die voortreflikheid van alle dinge afhanklik van U bevel en U woord is, en die deug van elke daad bepaal word deur U verlof en die welbehae van U wil, en mag herken dat die teuels van mense se werke binne die greep van U aanvaarding en U gebod is. Maak dit aan hulle bekend, sodat hoegenaamd niks hulle van U Prag kan uitsluit nie, in hierdie dae waarop die Christus uitroep: ,Alle heerskappy sy aan U, o U die Bes-Beminde, omdat U U Prag blootgestel het, en vir U uitverkorenes neergeskryf het wat sal maak dat hulle die setel van die openbaring van U Allergrootste Naam sal behaal, waardeur al die volke gekla het behalwe diegene wat hulle van alles behalwe U losgemaak het, en hulself gerig het na Hom Wat die Onthuller van Uself is en die Openbaarwording van U eienskappe.'Hy Wat U Tak is en al U deelgenootskap, o my Here, het hierdie dag hulle vas gebreek, nadat hulle dit binne die omgewing van U hof onderhou het, en in hulle ywer om U te behaag. Beskik U vir Hom, en vir hulle, en vir diegene wat U teenwoordigheid in daardie dae binnegegaan het, al die goeie wat U in U Boek bestem het. Voorsien hulle dan van dit wat hulle sal bevoordeel beide in hierdie lewe en in die lewe hiernamaals.U is in der waarheid die Alwetende, die Alwyse.
 
 -- Bahá'u'lláh
 
-bpn3243 «[Afrikaans](../af/prayers/#bpn3243)» 
+bpn3243 
 
 ----
 
@@ -979,17 +980,17 @@ Ek het onder U beskutting ontwaak, o my God, en dit pas hom wat daardie beskutti
 
 -- Bahá'u'lláh
 
-bpn3166 «[Afrikaans](../af/prayers/#bpn3166)» 
+bpn3166 
 
 ----
 
 
 <a id="bpn3167"></a> 
-Ek het vanoggend deur U genade opgestaan, o my God, het my huis verlaat, vol vertroue in U, en het myself toevertrou aan U sorg. Laat daal dan uit die hemel van U genade, &#39;n seën van U sy op my en stel my in staat om terug te keer huistoe, net soos U my in staat gestel het om onder U beskerming uit te gaan, met my gedagtes standvastig op U gevestig.Daar is geen ander God buiten U, die Enige, die Onvergelyklike, die Alwetende, die Alwyse.
+Ek het vanoggend deur U genade opgestaan, o my God, het my huis verlaat, vol vertroue in U, en het myself toevertrou aan U sorg. Laat daal dan uit die hemel van U genade, 'n seën van U sy op my en stel my in staat om terug te keer huistoe, net soos U my in staat gestel het om onder U beskerming uit te gaan, met my gedagtes standvastig op U gevestig.Daar is geen ander God buiten U, die Enige, die Onvergelyklike, die Alwetende, die Alwyse.
 
 -- Bahá'u'lláh
 
-bpn3167 «[Afrikaans](../af/prayers/#bpn3167)» 
+bpn3167 
 
 ----
 
@@ -999,7 +1000,7 @@ Ek gee lof aan U, o my God, dat U my uit my slaap wakker gemaak het, en my ná m
 
 -- Bahá'u'lláh
 
-bpn3168 «[Afrikaans](../af/prayers/#bpn3168)» 
+bpn3168 
 
 ----
 
@@ -1009,21 +1010,21 @@ bpn3168 «[Afrikaans](../af/prayers/#bpn3168)»
 ## Onderrig
 
 <a id="bpn3204"></a> 
-Geloof sy Y, o Here my God! Ek smeek U, by U Naam wat niemand passend geëien het, en wie se belangrikheid geen siel deurgrond het nie; ek smeek U, by Hom Wat die Fontein van U Openbaring is en die Daeraad van U tekens, om my hart &#39;n houer van U liefde en van aandenking aan U te maak. Bind dit dan met U allergrootste Oseaan saam, dat die lewende waters van U wysheid en die kristalstrome van U verheerliking en lof daaruit mag vloei.Die ledemate van my liggaam getuig van U eenheid, en die hare van my kop verklaar die krag van U soewereiniteit en mag. Ek het by die deur van U genade met volkome terughoudendheid en algehele ontsegging gestaan, en vasgehou aan die soom van U goedertierenheid, en het my oë op die horison van U gawes gevestig.Bestem U vir my, o my God, wat die grootheid van U majesteit betaam, en help my, met U versterkende genade, om U Saak só te verkondig dat die dooies uit hulle grafte mag spoed, en na U voortsnel, geheel in U vertrouende, met hulle blik gerig op die orient van U Saak en waar die lig van U Openbaring opgaan.U is, voorwaar, die Allerkragtigste, die Allerhoogste, die Alwetende, die Alwyse.
+Geloof sy Y, o Here my God! Ek smeek U, by U Naam wat niemand passend geëien het, en wie se belangrikheid geen siel deurgrond het nie; ek smeek U, by Hom Wat die Fontein van U Openbaring is en die Daeraad van U tekens, om my hart 'n houer van U liefde en van aandenking aan U te maak. Bind dit dan met U allergrootste Oseaan saam, dat die lewende waters van U wysheid en die kristalstrome van U verheerliking en lof daaruit mag vloei.Die ledemate van my liggaam getuig van U eenheid, en die hare van my kop verklaar die krag van U soewereiniteit en mag. Ek het by die deur van U genade met volkome terughoudendheid en algehele ontsegging gestaan, en vasgehou aan die soom van U goedertierenheid, en het my oë op die horison van U gawes gevestig.Bestem U vir my, o my God, wat die grootheid van U majesteit betaam, en help my, met U versterkende genade, om U Saak só te verkondig dat die dooies uit hulle grafte mag spoed, en na U voortsnel, geheel in U vertrouende, met hulle blik gerig op die orient van U Saak en waar die lig van U Openbaring opgaan.U is, voorwaar, die Allerkragtigste, die Allerhoogste, die Alwetende, die Alwyse.
 
 -- Bahá'u'lláh
 
-bpn3204 «[Afrikaans](../af/prayers/#bpn3204)» 
+bpn3204 
 
 ----
 
 
 <a id="bpn3205"></a> 
-Lof sy aan U, o Here van die wêreld en die Begeerte van die nasies, o U Wat in die Grootste Naam openbaar geword het, waardeur die pêrels van wysheid en uitspraak uit die skulpe van die groot see van U kennis te voorskyn gekom het, en die hemele van goddelike openbaring met die lig van die verskyning van die son van U gelaat versier is.Ek smeek U, by daardie Woord waardeur U bewys onder U skepsels volmaak is, en U getuienis onder U dienaars vervul is, om U mense in dit sterk te maak waardeur die gelaat van die Saak in U gebied sal straal, die standaarde van U mag onder U dienaars geplant sal word, en die vaandels van U leiding oor al U gebiede opgehef sal word.O my Here! U aanskou hulle omklem die tou van U guns en hou vas aan die soom van die mantel van U liefdadigheid. Beskik vir hulle dit wat hulle nader aan U mag trek, en hulle weghou van alles behalwe U.Ek smeek U, o U die Koning van bestaan en die Beskermer van die gesiene en die ongesiene, om wie ook al opstaan om U Saak te dien, te maak soos &#39;n see wat deur U begeerte beweeg, soos een wat aan die brand is met die vuur van U Heilige Boom, en skyn uit die horison van die hemel van U wil. Voorwaar, U is die magtige Een, Wat nòg die krag van die hele wêreld nòg die sterkte van die nasies kan verswak. Daar is geen God behalwe U nie, die Een, die Overgelyklike, die Beskermer, die Selfbestaande.
+Lof sy aan U, o Here van die wêreld en die Begeerte van die nasies, o U Wat in die Grootste Naam openbaar geword het, waardeur die pêrels van wysheid en uitspraak uit die skulpe van die groot see van U kennis te voorskyn gekom het, en die hemele van goddelike openbaring met die lig van die verskyning van die son van U gelaat versier is.Ek smeek U, by daardie Woord waardeur U bewys onder U skepsels volmaak is, en U getuienis onder U dienaars vervul is, om U mense in dit sterk te maak waardeur die gelaat van die Saak in U gebied sal straal, die standaarde van U mag onder U dienaars geplant sal word, en die vaandels van U leiding oor al U gebiede opgehef sal word.O my Here! U aanskou hulle omklem die tou van U guns en hou vas aan die soom van die mantel van U liefdadigheid. Beskik vir hulle dit wat hulle nader aan U mag trek, en hulle weghou van alles behalwe U.Ek smeek U, o U die Koning van bestaan en die Beskermer van die gesiene en die ongesiene, om wie ook al opstaan om U Saak te dien, te maak soos 'n see wat deur U begeerte beweeg, soos een wat aan die brand is met die vuur van U Heilige Boom, en skyn uit die horison van die hemel van U wil. Voorwaar, U is die magtige Een, Wat nòg die krag van die hele wêreld nòg die sterkte van die nasies kan verswak. Daar is geen God behalwe U nie, die Een, die Overgelyklike, die Beskermer, die Selfbestaande.
 
 -- Bahá'u'lláh
 
-bpn3205 «[Afrikaans](../af/prayers/#bpn3205)» 
+bpn3205 
 
 ----
 
@@ -1033,7 +1034,7 @@ O God, Wat die Maker van alle Openbaarwordinge is, die Bron van alle Bronne, die
 
 -- Bahá'u'lláh
 
-bpn3206 «[Afrikaans](../af/prayers/#bpn3206)» 
+bpn3206 
 
 ----
 
@@ -1047,7 +1048,7 @@ O U Wie se nabyheid my wens is, Wie se teenwoordigheid my hoop is, Wie se aanden
 
 -- Bahá'u'lláh
 
-BH08604 «[English](../en/prayers/#BH08604)» «[Afrikaans](../af/prayers/#BH08604)» 
+BH08604 «[English](../../en/prayers/#BH08604)» 
 
 ----
 
@@ -1057,7 +1058,7 @@ O God, my God! Ek het met berou na U gekeer, en voorwaar U is die Vryspreker, di
 
 -- Bahá'u'lláh
 
-bpn3200 «[Afrikaans](../af/prayers/#bpn3200)» 
+bpn3200 
 
 ----
 
@@ -1067,27 +1068,27 @@ O Here my God! Help U geliefdes om onwankelbaar in U Geloof te wees, om in U we�
 
 -- Abdu'l-Bahá
 
-bpn3201 «[Afrikaans](../af/prayers/#bpn3201)» 
+bpn3201 
 
 ----
 
 
 <a id="bpn3202"></a> 
-Maak ons voetstappe stewig, o Here, in U weg, en versterk U ons harte in gehoorsaamheid aan U. Wend ons gesigte na die mooiheid van U eenheid en verheug ons boesems met die tekens van U goddelike eenheid. Versier ons liggame met die mantel van U mildheid en verwyder van ons oë die sluiers van sondigheid en gee ons die beker van U guns; dat die kern van alle wesens U lof voor die visioen van U grootheid mag sing. Maak Uself dan bekend, o Here, met U genadiglike uitspraak en die geheim van U goddelike wese, dat die heilige verrukking van gebed ons siele mag vul - &#39;n gebed wat bo woorde en letters sal styg en die geruis van lettergrepe en klanke sal oortref - sodat alle dinge in niks mag saamsmelt voor die openbaring van U prag.Here! Hierdie is dienaars wat vas en stewig in U Verbond en in U Testament gebly het, wat vasgehou het aan die koord van bestendigheid in U Saak en aangekleef het aan die soom van die gewaad van U grootheid. Help hulle, o Here, met U guns, bevestig hulle met U krag en versterk hulle lendene in gehoorsaamheid aan U.U is die Vryspreker, die Genadige.
+Maak ons voetstappe stewig, o Here, in U weg, en versterk U ons harte in gehoorsaamheid aan U. Wend ons gesigte na die mooiheid van U eenheid en verheug ons boesems met die tekens van U goddelike eenheid. Versier ons liggame met die mantel van U mildheid en verwyder van ons oë die sluiers van sondigheid en gee ons die beker van U guns; dat die kern van alle wesens U lof voor die visioen van U grootheid mag sing. Maak Uself dan bekend, o Here, met U genadiglike uitspraak en die geheim van U goddelike wese, dat die heilige verrukking van gebed ons siele mag vul - 'n gebed wat bo woorde en letters sal styg en die geruis van lettergrepe en klanke sal oortref - sodat alle dinge in niks mag saamsmelt voor die openbaring van U prag.Here! Hierdie is dienaars wat vas en stewig in U Verbond en in U Testament gebly het, wat vasgehou het aan die koord van bestendigheid in U Saak en aangekleef het aan die soom van die gewaad van U grootheid. Help hulle, o Here, met U guns, bevestig hulle met U krag en versterk hulle lendene in gehoorsaamheid aan U.U is die Vryspreker, die Genadige.
 
 -- Abdu'l-Bahá
 
-bpn3202 «[Afrikaans](../af/prayers/#bpn3202)» 
+bpn3202 
 
 ----
 
 
 <a id="bpn3203"></a> 
-O medelydende God! Dank su aan U want U het my wakker en bewus gemaak. U het my &#39;n siende oog gegee en my begunstig met &#39;n horende oor, en het my na U koninkryk en na U weg gelei. U het my die regte weg gewys en my die ark van bevryding laat binnegaan. O God! Hou my standvastig en maak my stewig en trou. Beskerm my teen geweldige toetse en behou en beskut my in die kragtig versterkte vesting van U Verbond en Testament. U is die Magtige. U is die Siende. U is die Horende.O U die Medelydende God! Bestee aan my &#39;n hart wat, soos &#39;n glas, met die lig van U liefde mag verlig word, en verleen aan my gedagtes wat hierdie wêreld deur die uitstortings van hemelse genade in &#39;n roostuin mag verander.U is die Medelydende, die Genadige. U is die Groot, Heilsame God.
+O medelydende God! Dank su aan U want U het my wakker en bewus gemaak. U het my 'n siende oog gegee en my begunstig met 'n horende oor, en het my na U koninkryk en na U weg gelei. U het my die regte weg gewys en my die ark van bevryding laat binnegaan. O God! Hou my standvastig en maak my stewig en trou. Beskerm my teen geweldige toetse en behou en beskut my in die kragtig versterkte vesting van U Verbond en Testament. U is die Magtige. U is die Siende. U is die Horende.O U die Medelydende God! Bestee aan my 'n hart wat, soos 'n glas, met die lig van U liefde mag verlig word, en verleen aan my gedagtes wat hierdie wêreld deur die uitstortings van hemelse genade in 'n roostuin mag verander.U is die Medelydende, die Genadige. U is die Groot, Heilsame God.
 
 -- Abdu'l-Bahá
 
-bpn3203 «[Afrikaans](../af/prayers/#bpn3203)» 
+bpn3203 
 
 ----
 
@@ -1101,7 +1102,7 @@ Roem sy aan U, o Koning van die ewigheid, en die Maker van nasies, en die Vormer
 
 -- Bahá'u'lláh
 
-bpn3225 «[Afrikaans](../af/prayers/#bpn3225)» 
+bpn3225 
 
 ----
 
@@ -1111,7 +1112,7 @@ Hy is die Magtige, die Vryspreker, die Medelydende!O God, my God! U sien U diena
 
 -- Bahá'u'lláh
 
-bpn3226 «[Afrikaans](../af/prayers/#bpn3226)» 
+bpn3226 
 
 ----
 
@@ -1121,31 +1122,31 @@ bpn3226 «[Afrikaans](../af/prayers/#bpn3226)»
 ## Toetse en Moeilikhede
 
 <a id="bpn3207"></a> 
-Verdryf my leed deur U mildheid en U vrygewigheid, o God, my God, en verban my angs deur U soewereiniteit en U mag. U sien my, o my God, met my gesig na U toe ingestel op &#39;n tyd wanneer droefhede my op elke kant omring. Ek smeek U, o U Wat die Here van alle bestaan is, en alle sigbare en onsigbare dinge oorskadu, by U Naam waardeur U die harte en die siele van die mense onderwerp het, en by die golwe van die Oseaan van U goedertierenheid, en die luister van die Son van U mildheid, om my saam te tel met diegene wat hoegenaamd niks gehinder het om hulle aangesigte na U toe te rig nie, o U die Here van alle name en die Maker van die hemele!U sien, o my Here, die dinge wat my in U dae oorgekom het. Ek smeek U, by Hom Wat die Daeraad van U name en die Oorsprong van U kenmerke is, om vir my te beskik wat my in staat sal stel om op te staan om U te dien en om U deugde te loof. U is, voorwaar, die Almagtige, die Mees Kragtige, Wat gewoond is om die gebede van alle mense te verhoor.En, ten slotte smeek ek U by die lig van U gelaat om my sake te seën, en my skuld te delg, en my behoeftes te bevredig. U is Hy van Wie se krag en van Wie se heerskappy elke tong getuig het, en Wie se majesteit en Wie se oppermag elke verstandige hart erken het. Geen God is daar behalwe U nie, Wat hoor en gereed is om te antwoord.
+Verdryf my leed deur U mildheid en U vrygewigheid, o God, my God, en verban my angs deur U soewereiniteit en U mag. U sien my, o my God, met my gesig na U toe ingestel op 'n tyd wanneer droefhede my op elke kant omring. Ek smeek U, o U Wat die Here van alle bestaan is, en alle sigbare en onsigbare dinge oorskadu, by U Naam waardeur U die harte en die siele van die mense onderwerp het, en by die golwe van die Oseaan van U goedertierenheid, en die luister van die Son van U mildheid, om my saam te tel met diegene wat hoegenaamd niks gehinder het om hulle aangesigte na U toe te rig nie, o U die Here van alle name en die Maker van die hemele!U sien, o my Here, die dinge wat my in U dae oorgekom het. Ek smeek U, by Hom Wat die Daeraad van U name en die Oorsprong van U kenmerke is, om vir my te beskik wat my in staat sal stel om op te staan om U te dien en om U deugde te loof. U is, voorwaar, die Almagtige, die Mees Kragtige, Wat gewoond is om die gebede van alle mense te verhoor.En, ten slotte smeek ek U by die lig van U gelaat om my sake te seën, en my skuld te delg, en my behoeftes te bevredig. U is Hy van Wie se krag en van Wie se heerskappy elke tong getuig het, en Wie se majesteit en Wie se oppermag elke verstandige hart erken het. Geen God is daar behalwe U nie, Wat hoor en gereed is om te antwoord.
 
 -- Bahá'u'lláh
 
-bpn3207 «[Afrikaans](../af/prayers/#bpn3207)» 
+bpn3207 
 
 ----
 
 
 <a id="BH05071"></a> 
-Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebbers en by die trane deur diegene vergiet wat verlang om U te sien, om nie U tere genade van my in U Dag weg te hou nie, nòg my die melodieë te ontneem van die Duif wat U eenheid loof voor die lig wat van U aangesig skyn. Ek is die een wat in ellende is, o God! Aanskou my, ek hou vas aan U Naam, die Alles-Besittende. Ek is die een wat sekerlik sal vergaan; aanskou my ek kleef vas aan U Naam, die Onverganklike. Ek smeek U dus, by U Self, die Verhewene, die Allerhoogste, om my nie aan my self en aan die begeertes van &#39;n bedorwe neiging oor te gee nie. Hou U my hand met die hand van U krag, en verlos my uit die dieptes van my versinsels en ydele inbeeldings, en reinig my van alles wat vir U afstootlik is.Laat my dan geheel en al na U keer, om my hele vertroue in U te plaas, om U as my Skuilplek te soek, en na U gelaat te vlug. U is, voorwaar, Hy Wat, deur die Sterkte van Sy mag, doen wat Hy ook al wens, en deur die vermoë van Sy wil, beveel wat Hy ook al verkies. Niemand kan die werking van U verordeninge weerstaan nie; niemand kan die koers van U bepaling afwend nie. U is, in der waarheid, die Almagtige, die Alglorieryke, die Mees Milddadige.
+Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebbers en by die trane deur diegene vergiet wat verlang om U te sien, om nie U tere genade van my in U Dag weg te hou nie, nòg my die melodieë te ontneem van die Duif wat U eenheid loof voor die lig wat van U aangesig skyn. Ek is die een wat in ellende is, o God! Aanskou my, ek hou vas aan U Naam, die Alles-Besittende. Ek is die een wat sekerlik sal vergaan; aanskou my ek kleef vas aan U Naam, die Onverganklike. Ek smeek U dus, by U Self, die Verhewene, die Allerhoogste, om my nie aan my self en aan die begeertes van 'n bedorwe neiging oor te gee nie. Hou U my hand met die hand van U krag, en verlos my uit die dieptes van my versinsels en ydele inbeeldings, en reinig my van alles wat vir U afstootlik is.Laat my dan geheel en al na U keer, om my hele vertroue in U te plaas, om U as my Skuilplek te soek, en na U gelaat te vlug. U is, voorwaar, Hy Wat, deur die Sterkte van Sy mag, doen wat Hy ook al wens, en deur die vermoë van Sy wil, beveel wat Hy ook al verkies. Niemand kan die werking van U verordeninge weerstaan nie; niemand kan die koers van U bepaling afwend nie. U is, in der waarheid, die Almagtige, die Alglorieryke, die Mees Milddadige.
 
 -- Bahá'u'lláh
 
-BH05071 «[English](../en/prayers/#BH05071)» «[Afrikaans](../af/prayers/#BH05071)» 
+BH05071 «[English](../../en/prayers/#BH05071)» 
 
 ----
 
 
 <a id="bpn3209"></a> 
-O U Wie se toetse &#39;n genesende medisyne is vir diegene wat naby U is, Wie se swaard die vurige begeerte is van almal wat U liefhet, Wie se pyl die dierbaarste wens is van daardie harte wat na U verlang, Wie se verordening die enigste hoop is van diegene wat U waarheid herken het! Ek smeek U, by U goddelike soetheid en by die luister van die heerlikheid van U gelaat, om uit U skuilplekke in die hoogte dit op ons te laat daal wat ons in staat sal stel om tot U te nader. Plaas dan, o my God, ons voete stewig in U Saak, en verlig ons harte met die glans van U kennis, en verlig ons borste met die helderheid van U name.
+O U Wie se toetse 'n genesende medisyne is vir diegene wat naby U is, Wie se swaard die vurige begeerte is van almal wat U liefhet, Wie se pyl die dierbaarste wens is van daardie harte wat na U verlang, Wie se verordening die enigste hoop is van diegene wat U waarheid herken het! Ek smeek U, by U goddelike soetheid en by die luister van die heerlikheid van U gelaat, om uit U skuilplekke in die hoogte dit op ons te laat daal wat ons in staat sal stel om tot U te nader. Plaas dan, o my God, ons voete stewig in U Saak, en verlig ons harte met die glans van U kennis, en verlig ons borste met die helderheid van U name.
 
 -- Bahá'u'lláh
 
-bpn3209 «[Afrikaans](../af/prayers/#bpn3209)» 
+bpn3209 
 
 ----
 
@@ -1155,7 +1156,7 @@ Lof sy aan U, o my God! Was dit nie vir die beproewinge at in U weg opgedoen wor
 
 -- Bahá'u'lláh
 
-bpn3210 «[Afrikaans](../af/prayers/#bpn3210)» 
+bpn3210 
 
 ----
 
@@ -1165,7 +1166,7 @@ Verheerlik word U, o Here my God! Elke mens van insig bely U oppermag en U heers
 
 -- Bahá'u'lláh
 
-bpn3211 «[Afrikaans](../af/prayers/#bpn3211)» 
+bpn3211 
 
 ----
 
@@ -1175,7 +1176,7 @@ Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is 
 
 -- Báb
 
-bpn3212 «[Afrikaans](../af/prayers/#bpn3212)» 
+bpn3212 
 
 ----
 
@@ -1185,27 +1186,27 @@ Sê: God is voldoende vir alles bo alles, en niks in die hemele of op aarde maar
 
 -- Báb
 
-bpn3213 «[Afrikaans](../af/prayers/#bpn3213)» 
+bpn3213 
 
 ----
 
 
 <a id="bpn3214"></a> 
-Hy is die Medelydende, die Goedertierendste!O God, my God! U sien my, U ken my; U is my Skuilplek en my Toevlug. Geeneen het ek gesoek, en geeneen sal ek soek behalwe U nie; geen weg het ek bewandel, of sak ek bewandel behalwe die weg van U liefde nie. In die donker nag van wanhoop draai my oog vol verwagting en hoop na die môre van U grenslose guns en by die aanbreek van die dag word my kwynende siel verkwik en versterk deur aandenking aan U prag en volmaaktheid. Hy wat deur die genade van U barmhartigheid gehelp word, al is hy net &#39;n druppel, sal die grenslose see word, al is hy net &#39;n druppel, sal die grenslose see word, en die geringste atoom wat gehelp word deur die uitstorting van U vriendelike goedheid sal skyn soos doe stralende ster.Beskut onder U beskerming, o U Gees van suiwerheid, U die Algoeie Versorger, hierdie bekoorde, ontvlamde dienaar van U. Help hom in hierdie wêreld van bestaan om standvastig en onwrikbaar te bly in U liefde, en gee dat hierdie voël met gebroke vlerke &#39;n toevlug en skuilplek in U goddelike nes bereik wat op die hemelse boom bly.
+Hy is die Medelydende, die Goedertierendste!O God, my God! U sien my, U ken my; U is my Skuilplek en my Toevlug. Geeneen het ek gesoek, en geeneen sal ek soek behalwe U nie; geen weg het ek bewandel, of sak ek bewandel behalwe die weg van U liefde nie. In die donker nag van wanhoop draai my oog vol verwagting en hoop na die môre van U grenslose guns en by die aanbreek van die dag word my kwynende siel verkwik en versterk deur aandenking aan U prag en volmaaktheid. Hy wat deur die genade van U barmhartigheid gehelp word, al is hy net 'n druppel, sal die grenslose see word, al is hy net 'n druppel, sal die grenslose see word, en die geringste atoom wat gehelp word deur die uitstorting van U vriendelike goedheid sal skyn soos doe stralende ster.Beskut onder U beskerming, o U Gees van suiwerheid, U die Algoeie Versorger, hierdie bekoorde, ontvlamde dienaar van U. Help hom in hierdie wêreld van bestaan om standvastig en onwrikbaar te bly in U liefde, en gee dat hierdie voël met gebroke vlerke 'n toevlug en skuilplek in U goddelike nes bereik wat op die hemelse boom bly.
 
 -- Abdu'l-Bahá
 
-bpn3214 «[Afrikaans](../af/prayers/#bpn3214)» 
+bpn3214 
 
 ----
 
 
 <a id="bpn3215"></a> 
-O Here, my God en my Hawe in my nood! My Skild en my Skuilplek in my smarte! My Heenkome en my Toevlug in tyd van behoefte en in my eensaamheid my Metgesel! In my benoudheid my Troos, en in my verlatenheid &#39;n toegeneë Vriend! Die Verwyderaar van die kwellinge van my verdriet en die Vergewer van my sondes!Ek wend my geheel na U, en smeek U inniglik met my gehele hart, my verstand en my tong, om my te beskerm teen alles wat teen U wil gaan in dit, die kringloop van U goddelike eenheid, en my skoon te maak van alle verontreiniging wat my sal verhinder om vlekloos en onbeklad die skaduwee van die boom van U genade to soek.Ontferm U, o Here, oor die swakkes, maak die siekes gesond en les die brandende dors.Verbly die boesem waarin die vuur van U liefde smeul en ontgloei dit met die vlam van U hemelse liefde en gees.Beklee die tabernakels van goddelike eenheid met die gewaad van heiligheid en plaas die kroon van U guns op my hoof.Verlig my gelaat met die glans van die sfeer van U mildheid en help my genadiglik in diens by U heilige drumpel.Laat my hart oorvloei van liefde vir U skepsels en gee dat ek die teken van U genade mag word, die kenteken van U guns, die bevorderaar van eensgesindheid onder U bemindes, toegewy aan U, U in my woorde gedenk en die eie-ek vergeet, maar altyd gedagtig aan wat aan U behoort.O God, my God! Hou nie die sagte winder van U vergifnis en genade weg van my nie, en beroof my nie van die fonteine va U hulp en guns nie.Laat my onder die skaduwee van U beskermende vleuels nestel, en werp die blik van U alles-beskermende oog op my.Maak my tong los om U naam onder U mense te loof, sodat my stem in groot vergaderings verhef mag word en die vloed van U lof van my lippe af mag stroom.U is, in alle waarheid, die Genadige, die Verheerlikte, die Magtige, die Alvermoënde.
+O Here, my God en my Hawe in my nood! My Skild en my Skuilplek in my smarte! My Heenkome en my Toevlug in tyd van behoefte en in my eensaamheid my Metgesel! In my benoudheid my Troos, en in my verlatenheid 'n toegeneë Vriend! Die Verwyderaar van die kwellinge van my verdriet en die Vergewer van my sondes!Ek wend my geheel na U, en smeek U inniglik met my gehele hart, my verstand en my tong, om my te beskerm teen alles wat teen U wil gaan in dit, die kringloop van U goddelike eenheid, en my skoon te maak van alle verontreiniging wat my sal verhinder om vlekloos en onbeklad die skaduwee van die boom van U genade to soek.Ontferm U, o Here, oor die swakkes, maak die siekes gesond en les die brandende dors.Verbly die boesem waarin die vuur van U liefde smeul en ontgloei dit met die vlam van U hemelse liefde en gees.Beklee die tabernakels van goddelike eenheid met die gewaad van heiligheid en plaas die kroon van U guns op my hoof.Verlig my gelaat met die glans van die sfeer van U mildheid en help my genadiglik in diens by U heilige drumpel.Laat my hart oorvloei van liefde vir U skepsels en gee dat ek die teken van U genade mag word, die kenteken van U guns, die bevorderaar van eensgesindheid onder U bemindes, toegewy aan U, U in my woorde gedenk en die eie-ek vergeet, maar altyd gedagtig aan wat aan U behoort.O God, my God! Hou nie die sagte winder van U vergifnis en genade weg van my nie, en beroof my nie van die fonteine va U hulp en guns nie.Laat my onder die skaduwee van U beskermende vleuels nestel, en werp die blik van U alles-beskermende oog op my.Maak my tong los om U naam onder U mense te loof, sodat my stem in groot vergaderings verhef mag word en die vloed van U lof van my lippe af mag stroom.U is, in alle waarheid, die Genadige, die Verheerlikte, die Magtige, die Alvermoënde.
 
 -- Abdu'l-Bahá
 
-bpn3215 «[Afrikaans](../af/prayers/#bpn3215)» 
+bpn3215 
 
 ----
 
@@ -1215,7 +1216,7 @@ O my Here, my Beminde, my Begeerte! Betoon vriendskap aan my in my eensaamheid e
 
 -- Abdu'l-Bahá
 
-bpn3216 «[Afrikaans](../af/prayers/#bpn3216)» 
+bpn3216 
 
 ----
 
@@ -1225,11 +1226,11 @@ bpn3216 «[Afrikaans](../af/prayers/#bpn3216)»
 ## Vergaderings
 
 <a id="bpn3162"></a> 
-O U barmhartige God! O U Wat magtig en kragtig is! O U die mees vriendelike Vader! Hierdie dienaars het bymekaar vergader en wend hulle na U, smeek U drumpel, begeer U eindelose mildhede vanuit U groot versekering. Hulle het geen voorneme behalwe U welbehae nie. Hulle het geen bedoeling behalwe diens aan die wêreld van die mensheid nie.O God! Maak hierdie versameling luisterryk. Maak die harte barmhartig. Verleen die goedertoerenheid van die Heilige Gees. Bedeel hulle met &#39;n mag uit die hemel. Seën hulle met hemelse verstande. Vermeerder hulle opregtheid sodat hulle met alle nederigheid en berou na U koninkryk mag keer en besig sal wees met diens aan die wêreld van die mensdom. Mag elkeen &#39;n stralende kers word. Mag elkeen &#39;n skitterende ster word. Mag elkeen pragtig in kleur en welriekend van geur in die Koninkryk van God word.O vriendelike Vader! Verleen U seënige. Neem nie ons tekortkominge in ag nie. Beskut ons onder U beskerming. Onthou nie ons sondes nie. Genees ons met U genade. Ons is swak; U is magtig. Ons is arm; U is ryk. Ons is siek; U is die Geneesheer. Ons is behoeftig; U is mees vrygewig.O God! Skenk ons U voorsienigheid. U is die Sterke. U is die Gewer. U is die Liefdadige.
+O U barmhartige God! O U Wat magtig en kragtig is! O U die mees vriendelike Vader! Hierdie dienaars het bymekaar vergader en wend hulle na U, smeek U drumpel, begeer U eindelose mildhede vanuit U groot versekering. Hulle het geen voorneme behalwe U welbehae nie. Hulle het geen bedoeling behalwe diens aan die wêreld van die mensheid nie.O God! Maak hierdie versameling luisterryk. Maak die harte barmhartig. Verleen die goedertoerenheid van die Heilige Gees. Bedeel hulle met 'n mag uit die hemel. Seën hulle met hemelse verstande. Vermeerder hulle opregtheid sodat hulle met alle nederigheid en berou na U koninkryk mag keer en besig sal wees met diens aan die wêreld van die mensdom. Mag elkeen 'n stralende kers word. Mag elkeen 'n skitterende ster word. Mag elkeen pragtig in kleur en welriekend van geur in die Koninkryk van God word.O vriendelike Vader! Verleen U seënige. Neem nie ons tekortkominge in ag nie. Beskut ons onder U beskerming. Onthou nie ons sondes nie. Genees ons met U genade. Ons is swak; U is magtig. Ons is arm; U is ryk. Ons is siek; U is die Geneesheer. Ons is behoeftig; U is mees vrygewig.O God! Skenk ons U voorsienigheid. U is die Sterke. U is die Gewer. U is die Liefdadige.
 
 -- Abdu'l-Bahá
 
-bpn3162 «[Afrikaans](../af/prayers/#bpn3162)» 
+bpn3162 
 
 ----
 
@@ -1239,7 +1240,7 @@ O U vriendelike Here! Hierdie is U dienaars wat in hierdie vergadering bymekaar 
 
 -- Abdu'l-Bahá
 
-bpn3163 «[Afrikaans](../af/prayers/#bpn3163)» 
+bpn3163 
 
 ----
 
@@ -1249,7 +1250,7 @@ O my God! O my God! Voorwaar, hierdie dienaars keer na U toe, en smeek U koninkr
 
 -- Abdu'l-Bahá
 
-bpn3164 «[Afrikaans](../af/prayers/#bpn3164)» 
+bpn3164 
 
 ----
 
@@ -1259,7 +1260,7 @@ O U vergewende God! Hierdie dienaars wend hulle na U koninkryk, soekende na U ge
 
 -- Abdu'l-Bahá
 
-bpn3165 «[Afrikaans](../af/prayers/#bpn3165)» 
+bpn3165 
 
 ----
 
@@ -1269,11 +1270,11 @@ bpn3165 «[Afrikaans](../af/prayers/#bpn3165)»
 ## Vergifnis
 
 <a id="bpn3148"></a> 
-Verheerlik sy U, o Here my God! Ek smeek U by U Uitverkorenes, en by die Draers van Wat U aan Hulle toevertrou het, en by Hom Wat U verorden het om die Seël van U Profete en U Boodskappers te wees, om U aandenking my deelgenoot te maak, en U liefde my oogmerk, en U aangesig my doel, en U naam my lamp, en U wens my begeerte, en U plesier my behae.Ek is &#39;n sondaar, o my Here, en U is die Immer-Vergewende. Sodra ek U herken het, het ek my bespoedig om die verhewe voorhof van U vriendelike goedheid te bereik. Vergewe my, o my Here, my sondes, wat my verhinder het om in die weë van U welbehae te wandel, en om doe oewers van die oseaan van U eenheid te bereik.Daar is niemand, o my Here, wat milddadig met my kan handel aan wie ek my gelaat kan wend nie, en geeneen wat medelye vir my kan hê dat ek sy genade mag afsmeek nie. Ek smeek U, werp my nie uit die teenwoordigheid van U guns nie, en weerhou ook nie die uitstortings van U vrygewigheid en milddadigheid van my nie. Beskik vir my, o my Here, wat U vir diegene wat U bemin beskik het, en skryf vir my neer wat U vir U verkorenes neergeskryf het. My blik was, te alle tye, op die horison van U genadige voorsienigheid gerig, en my oë op die hof van U tere genadighede. Handel met my soos dit U betaam. Geen God is daar behalwe U nie, die God van mag, die God van glorie, Wie se hulp deur alle mense gesmeek word.
+Verheerlik sy U, o Here my God! Ek smeek U by U Uitverkorenes, en by die Draers van Wat U aan Hulle toevertrou het, en by Hom Wat U verorden het om die Seël van U Profete en U Boodskappers te wees, om U aandenking my deelgenoot te maak, en U liefde my oogmerk, en U aangesig my doel, en U naam my lamp, en U wens my begeerte, en U plesier my behae.Ek is 'n sondaar, o my Here, en U is die Immer-Vergewende. Sodra ek U herken het, het ek my bespoedig om die verhewe voorhof van U vriendelike goedheid te bereik. Vergewe my, o my Here, my sondes, wat my verhinder het om in die weë van U welbehae te wandel, en om doe oewers van die oseaan van U eenheid te bereik.Daar is niemand, o my Here, wat milddadig met my kan handel aan wie ek my gelaat kan wend nie, en geeneen wat medelye vir my kan hê dat ek sy genade mag afsmeek nie. Ek smeek U, werp my nie uit die teenwoordigheid van U guns nie, en weerhou ook nie die uitstortings van U vrygewigheid en milddadigheid van my nie. Beskik vir my, o my Here, wat U vir diegene wat U bemin beskik het, en skryf vir my neer wat U vir U verkorenes neergeskryf het. My blik was, te alle tye, op die horison van U genadige voorsienigheid gerig, en my oë op die hof van U tere genadighede. Handel met my soos dit U betaam. Geen God is daar behalwe U nie, die God van mag, die God van glorie, Wie se hulp deur alle mense gesmeek word.
 
 -- Bahá'u'lláh
 
-bpn3148 «[Afrikaans](../af/prayers/#bpn3148)» 
+bpn3148 
 
 ----
 
@@ -1283,17 +1284,17 @@ Ek is hy, o me Here, wat sy aangesig teenoor U gerig het, en sy hoop op die wond
 
 -- Bahá'u'lláh
 
-bpn3149 «[Afrikaans](../af/prayers/#bpn3149)» 
+bpn3149 
 
 ----
 
 
 <a id="bpn3150"></a> 
-U sien my, O my Here, met my aangesig na die hemel van U mildheid en na die oseaan van U begunstiging gewend, onttrek aan alles behalwe U. Ek smeek U, by die prag van die Son van U openbaring op Sinaï, en die luister van die Sfeer van U genade wat skyn uit die horison van U Naam, die Altyd-Vergewende, om my ontferming oor my te hê. Skryf neer, dan, vir my met U pen van glorie dit wat my deur U Naam in die wêreld van die skepping sal verhef. Helpy my, o my Here, om my na U in te stel, en om na die stem van U bemindes te luister, wat die magte van die wêreld gefaal het om van U te weerhou, en wat, na U vooruitgaande, gesê het: &#34;God is onse Here, die Here van al dié wat in die hemel en wat op aarde is!&#34;
+U sien my, O my Here, met my aangesig na die hemel van U mildheid en na die oseaan van U begunstiging gewend, onttrek aan alles behalwe U. Ek smeek U, by die prag van die Son van U openbaring op Sinaï, en die luister van die Sfeer van U genade wat skyn uit die horison van U Naam, die Altyd-Vergewende, om my ontferming oor my te hê. Skryf neer, dan, vir my met U pen van glorie dit wat my deur U Naam in die wêreld van die skepping sal verhef. Helpy my, o my Here, om my na U in te stel, en om na die stem van U bemindes te luister, wat die magte van die wêreld gefaal het om van U te weerhou, en wat, na U vooruitgaande, gesê het: "God is onse Here, die Here van al dié wat in die hemel en wat op aarde is!"
 
 -- Bahá'u'lláh
 
-bpn3150 «[Afrikaans](../af/prayers/#bpn3150)» 
+bpn3150 
 
 ----
 
@@ -1303,7 +1304,7 @@ Verheerlik sy U Naam, o my God en die God van alle dinge, my Glorie en die Glori
 
 -- Bahá'u'lláh
 
-bpn3151 «[Afrikaans](../af/prayers/#bpn3151)» 
+bpn3151 
 
 ----
 
@@ -1313,7 +1314,7 @@ O U vergewende Here! U is die skuilplek van al hierdie U diensknegte. U ken die 
 
 -- Abdu'l-Bahá
 
-bpn3152 «[Afrikaans](../af/prayers/#bpn3152)» 
+bpn3152 
 
 ----
 
@@ -1323,11 +1324,11 @@ bpn3152 «[Afrikaans](../af/prayers/#bpn3152)»
 ## Vir die Heengeganes
 
 <a id="bpn3142"></a> 
-Glorie sy aan U, o Here my God! Verneder nie hom wat U deur die krag van U ewigdurende oppermag verhef het nie, en verwyder nie ver van U hom wat U die tabernakel van U ewigheid laat ingaan het nie. Sou U, o my God, hom wat U met U heerskappy oorskadu het verwerp, en sou U hom van U afwys, o my Begeerte, vir wie U &#39;n skuilplek was? Kan U hom wat U opgehef het, verneder, of hom wat U in staat gestel het om U te onthou, vergeet?Verheerlik, ontsaglik verheerlik sy U! U is Hy Wat van ewigheid af die Koning van die hele skepping en sy vernaamste Dryfkrag was, en U sal tot ewigheid die Here van alle geskape dinge en hulle Beskikker bly. Verheerlik sy U, o my God! Indien U sou ophou om genadig te wees teenoor U dienaars, wise sou dan genade teenoor hulle bewys; en indien U sou weier om U bemindes te hulp te kom, wie is daar wat hulle kan help?Verheerlik, oneindig verheerlik sy U! U word in U waarheid aanbid, en U, voorwaar, vereer ons almal; en U is geopenbaar in U geregtigheid, en van U, voorwaar, getuig ons almal. U is, in der waarheid, bemin in U genade. Geen God is daar behalwe U nie, die Hulp in Gevaar, die Selfbestaande.
+Glorie sy aan U, o Here my God! Verneder nie hom wat U deur die krag van U ewigdurende oppermag verhef het nie, en verwyder nie ver van U hom wat U die tabernakel van U ewigheid laat ingaan het nie. Sou U, o my God, hom wat U met U heerskappy oorskadu het verwerp, en sou U hom van U afwys, o my Begeerte, vir wie U 'n skuilplek was? Kan U hom wat U opgehef het, verneder, of hom wat U in staat gestel het om U te onthou, vergeet?Verheerlik, ontsaglik verheerlik sy U! U is Hy Wat van ewigheid af die Koning van die hele skepping en sy vernaamste Dryfkrag was, en U sal tot ewigheid die Here van alle geskape dinge en hulle Beskikker bly. Verheerlik sy U, o my God! Indien U sou ophou om genadig te wees teenoor U dienaars, wise sou dan genade teenoor hulle bewys; en indien U sou weier om U bemindes te hulp te kom, wie is daar wat hulle kan help?Verheerlik, oneindig verheerlik sy U! U word in U waarheid aanbid, en U, voorwaar, vereer ons almal; en U is geopenbaar in U geregtigheid, en van U, voorwaar, getuig ons almal. U is, in der waarheid, bemin in U genade. Geen God is daar behalwe U nie, die Hulp in Gevaar, die Selfbestaande.
 
 -- Bahá'u'lláh
 
-bpn3142 «[Afrikaans](../af/prayers/#bpn3142)» 
+bpn3142 
 
 ----
 
@@ -1337,7 +1338,7 @@ Hy is God, verhewe is Hy, die Here van vriendelike goedheid en mildheid!Glorie s
 
 -- Bahá'u'lláh
 
-bpn3143 «[Afrikaans](../af/prayers/#bpn3143)» 
+bpn3143 
 
 ----
 
@@ -1347,7 +1348,7 @@ O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!Voo
 
 -- Abdu'l-Bahá
 
-bpn3144 «[Afrikaans](../af/prayers/#bpn3144)» 
+bpn3144 
 
 ----
 

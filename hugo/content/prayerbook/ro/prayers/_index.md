@@ -5,6 +5,7 @@ tags = ['lang=ro', 'prayerbook']
 
 
 
+
 [Adunări Spirituale](#Adun%C4%83ri+Spirituale)
 
 [Ajutor şi Sprijin](#Ajutor+%C5%9Fi+Sprijin)
@@ -113,7 +114,7 @@ tags = ['lang=ro', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn2105 «[România](../ro/prayers/#bpn2105)» 
+bpn2105 
 
 ----
 
@@ -123,7 +124,7 @@ O,  Dumnezeule! O, Dumnezeule!Din împărăţia nevăzută a unicităţii Tale p
 
 -- Abdu'l-Bahá
 
-bpn2106 «[România](../ro/prayers/#bpn2106)» 
+bpn2106 
 
 ----
 
@@ -133,7 +134,7 @@ bpn2106 «[România](../ro/prayers/#bpn2106)»
 
 -- Abdu'l-Bahá
 
-bpn2104 «[România](../ro/prayers/#bpn2104)» 
+bpn2104 
 
 ----
 
@@ -147,7 +148,7 @@ O, Doamne, Dumnezeul meu!Invocându-ţi Numele cel mai slăvit, Te rog să mă a
 
 -- Bahá'u'lláh
 
-bpn2107 «[România](../ro/prayers/#bpn2107)» 
+bpn2107 
 
 ----
 
@@ -157,7 +158,7 @@ Preamărit fie numele Tău, o, Tu în ale Cărui mâini sunt frâiele sufletelor
 
 -- Bahá'u'lláh
 
-bpn2108 «[România](../ro/prayers/#bpn2108)» 
+bpn2108 
 
 ----
 
@@ -167,7 +168,7 @@ Dumnezeul meu Cel Adorat, Regele meu, Dorinţa mea! Ce limbă ar putea da glas m
 
 -- Bahá'u'lláh
 
-bpn2109 «[România](../ro/prayers/#bpn2109)» 
+bpn2109 
 
 ----
 
@@ -177,7 +178,7 @@ O, Dumnezeul meu, Dumnezeul dărniciei şi al milostivirii! Tu eşti Acel Rege p
 
 -- Bahá'u'lláh
 
-bpn2110 «[România](../ro/prayers/#bpn2110)» 
+bpn2110 
 
 ----
 
@@ -187,7 +188,7 @@ Lăudat fie numele Tău, o, DoamneDumnezeul meu! Tu vezi cum m-am întors către
 
 -- Bahá'u'lláh
 
-bpn2111 «[România](../ro/prayers/#bpn2111)» 
+bpn2111 
 
 ----
 
@@ -197,7 +198,7 @@ Lăudat fii Tu, o, Doamne Dumnezeul meu! Stau mărturie că din veşnicie Tu ai 
 
 -- Bahá'u'lláh
 
-bpn2112 «[România](../ro/prayers/#bpn2112)» 
+bpn2112 
 
 ----
 
@@ -207,7 +208,7 @@ Lăudat şi slăvit eşti Tu, o, Dumnezeul meu! Te implor, întru suspinele celo
 
 -- Bahá'u'lláh
 
-bpn2113 «[România](../ro/prayers/#bpn2113)» 
+bpn2113 
 
 ----
 
@@ -217,7 +218,7 @@ Lăudat fii Tu, o, Doamne Dumnezeul meu, Stăpânul meu! Tu auzi suspinele celor
 
 -- Bahá'u'lláh
 
-bpn2114 «[România](../ro/prayers/#bpn2114)» 
+bpn2114 
 
 ----
 
@@ -227,7 +228,7 @@ Slava fie cu Tine, Cel care ai făcut ca toţi sfinţii să-şi mărturisească 
 
 -- Bahá'u'lláh
 
-bpn2115 «[România](../ro/prayers/#bpn2115)» 
+bpn2115 
 
 ----
 
@@ -237,7 +238,7 @@ Lăudat fie numele Tău, o, Doamne Dumnezeul nostru! Tu eşti într-adevăr Cuno
 
 -- Báb
 
-bpn2116 «[România](../ro/prayers/#bpn2116)» 
+bpn2116 
 
 ----
 
@@ -247,7 +248,7 @@ Cine altul dacă nu Dumnezeu risipeşte toate greutăţile? Spune: Lăudat fie D
 
 -- Báb
 
-bpn2119 «[România](../ro/prayers/#bpn2119)» 
+bpn2119 
 
 ----
 
@@ -257,7 +258,7 @@ Spune: Dumnezeu împlineşte toate, mai presus de toate. Nimic, nici în cer, ni
 
 -- Báb
 
-bpn2120 «[România](../ro/prayers/#bpn2120)» 
+bpn2120 
 
 ----
 
@@ -267,7 +268,7 @@ O, Tu Stăpâne Bun! Noi suntem slujitori ai Pragului Tău, adăpostindu-ne la U
 
 -- Abdu'l-Bahá
 
-bpn2117 «[România](../ro/prayers/#bpn2117)» 
+bpn2117 
 
 ----
 
@@ -277,7 +278,7 @@ Nu îndepărta, o, Doamne, masa sărbătorească pe care ai aşternut-o în Nume
 
 -- Abdu'l-Bahá
 
-bpn2118 «[România](../ro/prayers/#bpn2118)» 
+bpn2118 
 
 ----
 
@@ -291,7 +292,7 @@ O, Doamne, Dumnezeul meu! Fă din frumuseţea Ta hrana mea, din prezenţa Ta bă
 
 -- Bahá'u'lláh
 
-bpn2123 «[România](../ro/prayers/#bpn2123)» 
+bpn2123 
 
 ----
 
@@ -301,7 +302,7 @@ Dumnezeul meu venerat şi adorat! Stau mărturie unităţii şi unicităţii Tal
 
 -- Bahá'u'lláh
 
-bpn2124 «[România](../ro/prayers/#bpn2124)» 
+bpn2124 
 
 ----
 
@@ -311,7 +312,7 @@ Lauda fie cu Tine, o, Doamne Dumnezeul meu! Tu vezi şi ştii că i-am îndemnat
 
 -- Bahá'u'lláh
 
-bpn2125 «[România](../ro/prayers/#bpn2125)» 
+bpn2125 
 
 ----
 
@@ -321,7 +322,7 @@ Preamărit fie numele Tău, o, Doamne Dumnezeul meu! Nu ştiu ce fel de apă est
 
 -- Bahá'u'lláh
 
-bpn2129 «[România](../ro/prayers/#bpn2129)» 
+bpn2129 
 
 ----
 
@@ -331,7 +332,7 @@ Slăvit eşti Tu, o, Doamne Dumnezeul meu! Tu eşti Cel a cărui foc al iubirii 
 
 -- Bahá'u'lláh
 
-bpn2130 «[România](../ro/prayers/#bpn2130)» 
+bpn2130 
 
 ----
 
@@ -341,7 +342,7 @@ O, Doamne, Dumnezeul meu! Nu Te îndepărta de mine, căci nenorocirile, una dup
 
 -- Bahá'u'lláh
 
-bpn2131 «[România](../ro/prayers/#bpn2131)» 
+bpn2131 
 
 ----
 
@@ -351,7 +352,7 @@ Slavă Ţie, o, Dumnezeul meu! Te implor întru numele Tău, Cel Preamilostiv, s
 
 -- Bahá'u'lláh
 
-bpn2132 «[România](../ro/prayers/#bpn2132)» 
+bpn2132 
 
 ----
 
@@ -361,7 +362,7 @@ Lăudat fie numele Tău, o, Dumnezeul meu! Tu vezi cum vânturile neiertătoare 
 
 -- Bahá'u'lláh
 
-bpn2133 «[România](../ro/prayers/#bpn2133)» 
+bpn2133 
 
 ----
 
@@ -371,7 +372,7 @@ Slăvit eşti Tu, o, Doamne Dumnezeulmeu! Revarsă, Te implor, din norii harului
 
 -- Bahá'u'lláh
 
-bpn2134 «[România](../ro/prayers/#bpn2134)» 
+bpn2134 
 
 ----
 
@@ -381,7 +382,7 @@ Slava fie cu Tine, o, Dumnezeule! Tu eşti Dumnezeu, Cel care a existat înainte
 
 -- Báb
 
-bpn2121 «[România](../ro/prayers/#bpn2121)» 
+bpn2121 
 
 ----
 
@@ -391,7 +392,7 @@ bpn2121 «[România](../ro/prayers/#bpn2121)»
 
 -- Báb
 
-bpn2122 «[România](../ro/prayers/#bpn2122)» 
+bpn2122 
 
 ----
 
@@ -401,7 +402,7 @@ Hărăzeşte, o, Stăpânul meu, mie şi celor care cred în Tine, ceea ce Tu so
 
 -- Báb
 
-bpn2126 «[România](../ro/prayers/#bpn2126)» 
+bpn2126 
 
 ----
 
@@ -411,7 +412,7 @@ O, Doamne, Dumnezeul meu! Apără-i pe slujitorii Tăi credincioşi de relele eg
 
 -- Abdu'l-Bahá
 
-bpn2127 «[România](../ro/prayers/#bpn2127)» 
+bpn2127 
 
 ----
 
@@ -421,7 +422,7 @@ El este Cel Îndurător, Cel Atotmărinimos! O, Doamne, Dumnezeul meu! Tu mă ve
 
 -- Abdu'l-Bahá
 
-bpn2128 «[România](../ro/prayers/#bpn2128)» 
+bpn2128 
 
 ----
 
@@ -435,7 +436,7 @@ Din şuvoaiele înmiresmate ale veşniciei Tale lasă-mă să beau, o, Dumnezeul
 
 -- Bahá'u'lláh
 
-bpn2137 «[România](../ro/prayers/#bpn2137)» 
+bpn2137 
 
 ----
 
@@ -445,7 +446,7 @@ Crează în mine o inimă curată, o, Doamne, Dumnezeul meu, şi reînnoieşte �
 
 -- Bahá'u'lláh
 
-bpn2138 «[România](../ro/prayers/#bpn2138)» 
+bpn2138 
 
 ----
 
@@ -455,7 +456,7 @@ El este Cel Îngăduitor, Cel Atotmărinimos!O, Doamne, Dumnezeul meu! Chemarea 
 
 -- Bahá'u'lláh
 
-bpn2139 «[România](../ro/prayers/#bpn2139)» 
+bpn2139 
 
 ----
 
@@ -465,7 +466,7 @@ Slăvit fie Numele Tău, o, Doamne Dumnezeul meu! Eu sunt slujitorul Tău care s
 
 -- Bahá'u'lláh
 
-bpn2140 «[România](../ro/prayers/#bpn2140)» 
+bpn2140 
 
 ----
 
@@ -475,7 +476,7 @@ O, Dumnezeul meu, Dumnezeul mărinimiei şi al milostivirii! Tu eşti acel Rege 
 
 -- Bahá'u'lláh
 
-bpn2141 «[România](../ro/prayers/#bpn2141)» 
+bpn2141 
 
 ----
 
@@ -485,7 +486,7 @@ Dumnezeu este Cel care aude rugăciunea şi răspunde rugăciunii! Pe slava Ta, 
 
 -- Bahá'u'lláh
 
-bpn2142 «[România](../ro/prayers/#bpn2142)» 
+bpn2142 
 
 ----
 
@@ -495,7 +496,7 @@ Asupra Ta fie slava, o, Doamne Dumnezeul meu! Te implor, întru semnele Tale car
 
 -- Bahá'u'lláh
 
-bpn2151 «[România](../ro/prayers/#bpn2151)» 
+bpn2151 
 
 ----
 
@@ -505,7 +506,7 @@ bpn2151 «[România](../ro/prayers/#bpn2151)»
 
 -- Bahá'u'lláh
 
-bpn2152 «[România](../ro/prayers/#bpn2152)» 
+bpn2152 
 
 ----
 
@@ -515,7 +516,7 @@ Slăvit fii Tu, Doamne, pentru că ţi-ai arătat iubirea faţă de omenire! O, 
 
 -- Bahá'u'lláh
 
-bpn2153 «[România](../ro/prayers/#bpn2153)» 
+bpn2153 
 
 ----
 
@@ -525,7 +526,7 @@ Acordă-mi, o, Dumnezeul meu, întreaga măsură a iubirii Tale şi a bunului T�
 
 -- Báb
 
-bpn2143 «[România](../ro/prayers/#bpn2143)» 
+bpn2143 
 
 ----
 
@@ -535,7 +536,7 @@ Slăvit fie Numele Tău, o, Doamne!La cine să caut refugiu când Tu eşti cu ad
 
 -- Báb
 
-bpn2150 «[România](../ro/prayers/#bpn2150)» 
+bpn2150 
 
 ----
 
@@ -545,7 +546,7 @@ O, Doamne! Înviorează şi înveseleşte-mi sufletul. Purifică-mi inima. Lumin
 
 -- Abdu'l-Bahá
 
-bpn2135 «[România](../ro/prayers/#bpn2135)» 
+bpn2135 
 
 ----
 
@@ -555,7 +556,7 @@ O, Domnul meu! O, Stăpânul meu!Aceasta este o lampă aprinsă de focul iubirii
 
 -- Abdu'l-Bahá
 
-bpn2136 «[România](../ro/prayers/#bpn2136)» 
+bpn2136 
 
 ----
 
@@ -565,7 +566,7 @@ O, Doamne Dumnezeul meu! O, Doamne Dumnezeul meu! Slava fie cu Tine căci m-ai c
 
 -- Abdu'l-Bahá
 
-bpn2144 «[România](../ro/prayers/#bpn2144)» 
+bpn2144 
 
 ----
 
@@ -575,7 +576,7 @@ O, Doamne Dumnezeul meu!O, Doamne Dumnezeul meu! Acest slujitor al Tău a înain
 
 -- Abdu'l-Bahá
 
-bpn2145 «[România](../ro/prayers/#bpn2145)» 
+bpn2145 
 
 ----
 
@@ -585,7 +586,7 @@ O, Doamne, Dumnezeul meu! Acesta este slujitorul Tău radios, robul Tău spiritu
 
 -- Abdu'l-Bahá
 
-bpn2146 «[România](../ro/prayers/#bpn2146)» 
+bpn2146 
 
 ----
 
@@ -595,7 +596,7 @@ O, Doamne Dumnezeul meu! Aceştia sunt plăpânzii Tăi slujitori; ei sunt sclav
 
 -- Abdu'l-Bahá
 
-bpn2147 «[România](../ro/prayers/#bpn2147)» 
+bpn2147 
 
 ----
 
@@ -605,7 +606,7 @@ El este Dumnezeu! O, DoamneDumnezeul meu! Aceştia sunt slujitori care în vreme
 
 -- Abdu'l-Bahá
 
-bpn2148 «[România](../ro/prayers/#bpn2148)» 
+bpn2148 
 
 ----
 
@@ -615,7 +616,7 @@ O, Tu Cel ce Dăruieşti! Tu ai suflat asupra prietenilor din vest dulcile mires
 
 -- Abdu'l-Bahá
 
-bpn2149 «[România](../ro/prayers/#bpn2149)» 
+bpn2149 
 
 ----
 
@@ -625,7 +626,7 @@ O, Doamne, suntem slabi: întăreşte-ne!O, Dumnezeule, suntem neştiutori: inst
 
 -- Abdu'l-Bahá
 
-bpn2154 «[România](../ro/prayers/#bpn2154)» 
+bpn2154 
 
 ----
 
@@ -639,7 +640,7 @@ Kitáb-i-‘AhdÎmpărăţia Slavei nu cunoaşte deşertăciunile lumeşti; totu
 
 -- Bahá'u'lláh
 
-bpn2305 «[România](../ro/prayers/#bpn2305)» 
+bpn2305 
 
 ----
 
@@ -653,7 +654,7 @@ Lăudat fii Tu, o, Doamne Dumnezeul meu!Îngăduie cu bunăvoinţă ca acest pru
 
 -- Bahá'u'lláh
 
-bpn2168 «[România](../ro/prayers/#bpn2168)» 
+bpn2168 
 
 ----
 
@@ -663,7 +664,7 @@ O, Doamne, Dumnezeule! Creşte acest prunc la pieptul iubirii Tale şi dă-i lap
 
 -- Abdu'l-Bahá
 
-bpn2162 «[România](../ro/prayers/#bpn2162)» 
+bpn2162 
 
 ----
 
@@ -673,7 +674,7 @@ O, Doamne, Dumnezeule! Educă-i pe aceşti copii. Aceşti copii sunt plantele li
 
 -- Abdu'l-Bahá
 
-bpn2163 «[România](../ro/prayers/#bpn2163)» 
+bpn2163 
 
 ----
 
@@ -683,7 +684,7 @@ O, Doamne, Dumnezeule! Călăuzeşte-mă, ocroteşte-mă, luminează lampa inimi
 
 -- Abdu'l-Bahá
 
-bpn2164 «[România](../ro/prayers/#bpn2164)» 
+bpn2164 
 
 ----
 
@@ -693,7 +694,7 @@ O, Doamne! Acordă acestui tânăr strălucire şi dăruieşte mărinimia Ta ace
 
 -- Abdu'l-Bahá
 
-bpn2165 «[România](../ro/prayers/#bpn2165)» 
+bpn2165 
 
 ----
 
@@ -703,7 +704,7 @@ O, Doamne neasemuit! Fii adăpost pentru acest biet copil şi un Stăpân bun ş
 
 -- Abdu'l-Bahá
 
-bpn2166 «[România](../ro/prayers/#bpn2166)» 
+bpn2166 
 
 ----
 
@@ -713,7 +714,7 @@ O, Doamne! Sădeşte această fragedă mlădiţă în grădina multelor Tale dar
 
 -- Abdu'l-Bahá
 
-bpn2167 «[România](../ro/prayers/#bpn2167)» 
+bpn2167 
 
 ----
 
@@ -723,7 +724,7 @@ O, Doamne, Dumnezeul meu! O, Doamne, Dumnezeul meu! Sunt un copil de vârstă fr
 
 -- Abdu'l-Bahá
 
-bpn2169 «[România](../ro/prayers/#bpn2169)» 
+bpn2169 
 
 ----
 
@@ -733,7 +734,7 @@ bpn2169 «[România](../ro/prayers/#bpn2169)»
 
 -- Abdu'l-Bahá
 
-bpn2170 «[România](../ro/prayers/#bpn2170)» 
+bpn2170 
 
 ----
 
@@ -743,7 +744,7 @@ bpn2170 «[România](../ro/prayers/#bpn2170)»
 
 -- Abdu'l-Bahá
 
-bpn2171 «[România](../ro/prayers/#bpn2171)» 
+bpn2171 
 
 ----
 
@@ -753,7 +754,7 @@ bpn2171 «[România](../ro/prayers/#bpn2171)»
 
 -- Abdu'l-Bahá
 
-bpn2172 «[România](../ro/prayers/#bpn2172)» 
+bpn2172 
 
 ----
 
@@ -763,7 +764,7 @@ bpn2172 «[România](../ro/prayers/#bpn2172)»
 
 -- Abdu'l-Bahá
 
-bpn2173 «[România](../ro/prayers/#bpn2173)» 
+bpn2173 
 
 ----
 
@@ -773,7 +774,7 @@ bpn2173 «[România](../ro/prayers/#bpn2173)»
 
 -- Abdu'l-Bahá
 
-bpn2174 «[România](../ro/prayers/#bpn2174)» 
+bpn2174 
 
 ----
 
@@ -783,7 +784,7 @@ bpn2174 «[România](../ro/prayers/#bpn2174)»
 
 -- Abdu'l-Bahá
 
-bpn2175 «[România](../ro/prayers/#bpn2175)» 
+bpn2175 
 
 ----
 
@@ -793,7 +794,7 @@ bpn2175 «[România](../ro/prayers/#bpn2175)»
 
 -- Abdu'l-Bahá
 
-bpn2176 «[România](../ro/prayers/#bpn2176)» 
+bpn2176 
 
 ----
 
@@ -803,7 +804,7 @@ bpn2176 «[România](../ro/prayers/#bpn2176)»
 
 -- Abdu'l-Bahá
 
-bpn2177 «[România](../ro/prayers/#bpn2177)» 
+bpn2177 
 
 ----
 
@@ -813,7 +814,7 @@ bpn2177 «[România](../ro/prayers/#bpn2177)»
 
 -- Abdu'l-Bahá
 
-bpn2178 «[România](../ro/prayers/#bpn2178)» 
+bpn2178 
 
 ----
 
@@ -823,7 +824,7 @@ bpn2178 «[România](../ro/prayers/#bpn2178)»
 
 -- Abdu'l-Bahá
 
-bpn2179 «[România](../ro/prayers/#bpn2179)» 
+bpn2179 
 
 ----
 
@@ -833,7 +834,7 @@ O, Tu Stăpâne bun! Noi suntem bieţi copii, nevoiaşi şi neînsemnaţi, dar t
 
 -- Abdu'l-Bahá
 
-bpn2180 «[România](../ro/prayers/#bpn2180)» 
+bpn2180 
 
 ----
 
@@ -843,7 +844,7 @@ El este Dumnezeu! O, Doamne Dumnezeul meu! Dăruieşte-mi o inimă curată, asem
 
 -- Abdu'l-Bahá
 
-bpn2181 «[România](../ro/prayers/#bpn2181)» 
+bpn2181 
 
 ----
 
@@ -853,7 +854,7 @@ O, Doamne! Sunt un copil; îngăduie-mi să cresc la umbra iubirii Tale duioase.
 
 -- Abdu'l-Bahá
 
-bpn2182 «[România](../ro/prayers/#bpn2182)» 
+bpn2182 
 
 ----
 
@@ -863,7 +864,7 @@ El este Dumnezeu! O, Tu Dumnezeule Îndurător! O, Stăpâne al Oştirilor! Laud
 
 -- Abdu'l-Bahá
 
-bpn2183 «[România](../ro/prayers/#bpn2183)» 
+bpn2183 
 
 ----
 
@@ -877,7 +878,7 @@ O, Doamne, Dumnezeul meu!Am plecat de acasă, ţinându-mă strâns de funia iub
 
 -- Bahá'u'lláh
 
-bpn2155 «[România](../ro/prayers/#bpn2155)» 
+bpn2155 
 
 ----
 
@@ -887,7 +888,7 @@ M-am trezit prin harul Tău în dimineaţa aceasta, o, Dumnezeul meu, şi cu o n
 
 -- Bahá'u'lláh
 
-bpn2156 «[România](../ro/prayers/#bpn2156)» 
+bpn2156 
 
 ----
 
@@ -897,7 +898,7 @@ bpn2156 «[România](../ro/prayers/#bpn2156)»
 
 -- Bahá'u'lláh
 
-bpn2158 «[România](../ro/prayers/#bpn2158)» 
+bpn2158 
 
 ----
 
@@ -911,7 +912,7 @@ bpn2158 «[România](../ro/prayers/#bpn2158)»
 
 -- Bahá'u'lláh
 
-bpn2157 «[România](../ro/prayers/#bpn2157)» 
+bpn2157 
 
 ----
 
@@ -925,7 +926,7 @@ O, Domnul meu, o, Domnul meu!Aceste două astre luminoase s-au căsătorit prin 
 
 -- Abdu'l-Bahá
 
-bpn2161 «[România](../ro/prayers/#bpn2161)» 
+bpn2161 
 
 ----
 
@@ -935,7 +936,7 @@ El este Dumnezeu! O, Dumnezeule Neasemuit!În înţelepciunea Ta atotputernică,
 
 -- Abdu'l-Bahá
 
-bpn2160 «[România](../ro/prayers/#bpn2160)» 
+bpn2160 
 
 ----
 
@@ -945,7 +946,7 @@ Slavă ţie, Dumnezeul meu! Cu adevărat, acest slujitor al Tău şi această sl
 
 -- Abdu'l-Bahá
 
-bpn2159 «[România](../ro/prayers/#bpn2159)» 
+bpn2159 
 
 ----
 
@@ -959,7 +960,7 @@ O, Doamne Dumnezeul meu, Tu mă vezi detaşat de toate lucrurile în afară de T
 
 -- Bahá'u'lláh
 
-bpn2184 «[România](../ro/prayers/#bpn2184)» 
+bpn2184 
 
 ----
 
@@ -973,7 +974,7 @@ bpn2184 «[România](../ro/prayers/#bpn2184)»
 
 -- Bahá'u'lláh
 
-bpn2185 «[România](../ro/prayers/#bpn2185)» 
+bpn2185 
 
 ----
 
@@ -983,7 +984,7 @@ Slăvit eşti Tu, o, Dumnezeul meu! Îţi aduc mulţumiri căci mi-ai făcut cun
 
 -- Bahá'u'lláh
 
-bpn2186 «[România](../ro/prayers/#bpn2186)» 
+bpn2186 
 
 ----
 
@@ -993,7 +994,7 @@ Multe inimi îngheţate, o, Dumnezeul meu, au fost aprinse cu focul Cauzei Tale 
 
 -- Bahá'u'lláh
 
-bpn2187 «[România](../ro/prayers/#bpn2187)» 
+bpn2187 
 
 ----
 
@@ -1003,7 +1004,7 @@ Eu nu ştiu, o, Dumnezeul meu, ce este focul pe care l-ai aprins în ţinutul T�
 
 -- Bahá'u'lláh
 
-bpn2188 «[România](../ro/prayers/#bpn2188)» 
+bpn2188 
 
 ----
 
@@ -1013,7 +1014,7 @@ Lauda fie cu Tine, o, Dumnezeul meu!Sunt unul dintre slujitorii Tăi, care a cre
 
 -- Bahá'u'lláh
 
-bpn2189 «[România](../ro/prayers/#bpn2189)» 
+bpn2189 
 
 ----
 
@@ -1023,7 +1024,7 @@ O, Dumnezeule, şi Dumnezeul tuturorNumelor şi Făuritorul cerurilor! Te implor
 
 -- Bahá'u'lláh
 
-bpn2195 «[România](../ro/prayers/#bpn2195)» 
+bpn2195 
 
 ----
 
@@ -1033,7 +1034,7 @@ bpn2195 «[România](../ro/prayers/#bpn2195)»
 
 -- Báb
 
-bpn2190 «[România](../ro/prayers/#bpn2190)» 
+bpn2190 
 
 ----
 
@@ -1043,7 +1044,7 @@ O, Doamne! Întru Tine caut refugiu şi către toate semnele Tale îmi îndrept 
 
 -- Báb
 
-bpn2191 «[România](../ro/prayers/#bpn2191)» 
+bpn2191 
 
 ----
 
@@ -1053,7 +1054,7 @@ O, Dumnezeul meu, Domnul meu şiStăpânul meu! M-am detaşat de neamul meu şi-
 
 -- Báb
 
-bpn2192 «[România](../ro/prayers/#bpn2192)» 
+bpn2192 
 
 ----
 
@@ -1063,7 +1064,7 @@ O, Doamne, Dumnezeul meu! Tu eşti Speranţa şi Iubitul meu, ţelul şi Dorinţ
 
 -- Abdu'l-Bahá
 
-bpn2193 «[România](../ro/prayers/#bpn2193)» 
+bpn2193 
 
 ----
 
@@ -1073,7 +1074,7 @@ O, Doamne, Dumnezeul meu! Umple pentru mine cupa detaşării de toate lucrurile,
 
 -- Abdu'l-Bahá
 
-bpn2194 «[România](../ro/prayers/#bpn2194)» 
+bpn2194 
 
 ----
 
@@ -1083,7 +1084,7 @@ O, Doamne, Dumnezeul meu!O, Doamne, Dumnezeul meu! Eu sunt un slujitor atras că
 
 -- Abdu'l-Bahá
 
-bpn2196 «[România](../ro/prayers/#bpn2196)» 
+bpn2196 
 
 ----
 
@@ -1097,7 +1098,7 @@ O, Dumnezeul şi Stăpânul meu! Eu sunt slujitorul Tău şi fiul slujitorului T
 
 -- Bahá'u'lláh
 
-bpn2197 «[România](../ro/prayers/#bpn2197)» 
+bpn2197 
 
 ----
 
@@ -1107,7 +1108,7 @@ M-am trezit, o, Dumnezeul meu,la adăpostul Tău, şi se cuvine celui ce caută 
 
 -- Bahá'u'lláh
 
-bpn2198 «[România](../ro/prayers/#bpn2198)» 
+bpn2198 
 
 ----
 
@@ -1117,7 +1118,7 @@ bpn2198 «[România](../ro/prayers/#bpn2198)»
 
 -- Bahá'u'lláh
 
-bpn2199 «[România](../ro/prayers/#bpn2199)» 
+bpn2199 
 
 ----
 
@@ -1131,7 +1132,7 @@ adevărat, Tu eşti Domnul suveran, Cel Iertător, Cel Preageneros. O, Dumnezeul
 
 -- Báb
 
-bpn2201 «[România](../ro/prayers/#bpn2201)» 
+bpn2201 
 
 ----
 
@@ -1141,7 +1142,7 @@ Slavă ţie, Doamne, Dumnezeul meu! Te rog să mă ierţi pe mine şi pe aceia c
 
 -- Báb
 
-bpn2202 «[România](../ro/prayers/#bpn2202)» 
+bpn2202 
 
 ----
 
@@ -1151,7 +1152,7 @@ Locuinţa mea este căminul păcii.Locuinţa mea e căminul bucuriei şi desfăt
 
 -- Abdu'l-Bahá
 
-bpn2200 «[România](../ro/prayers/#bpn2200)» 
+bpn2200 
 
 ----
 
@@ -1165,7 +1166,7 @@ De-ar fi să înţelegi dulceaţa titlului „O, slujitoarea Mea”, te-ai găsi
 
 -- Bahá'u'lláh
 
-bpn2203 «[România](../ro/prayers/#bpn2203)» 
+bpn2203 
 
 ----
 
@@ -1175,7 +1176,7 @@ Slujitoarea Ta şi-a pus nădejdea, o, Domnul meu, în graţia Ta şi în genero
 
 -- Bahá'u'lláh
 
-bpn2204 «[România](../ro/prayers/#bpn2204)» 
+bpn2204 
 
 ----
 
@@ -1185,7 +1186,7 @@ Tu vezi, o, Dumnezeul meu, cum relele înfăptuite de acele dintre creaturile Ta
 
 -- Bahá'u'lláh
 
-bpn2205 «[România](../ro/prayers/#bpn2205)» 
+bpn2205 
 
 ----
 
@@ -1195,7 +1196,7 @@ Slăvit fie numele Tău, o, DoamneDumnezeul meu! Priveşte ochiul meu ce aşteap
 
 -- Bahá'u'lláh
 
-bpn2206 «[România](../ro/prayers/#bpn2206)» 
+bpn2206 
 
 ----
 
@@ -1205,7 +1206,7 @@ O, Tu a cărui faţă e obiectul adoraţiei tuturor celor care tânjesc după Ti
 
 -- Bahá'u'lláh
 
-bpn2207 «[România](../ro/prayers/#bpn2207)» 
+bpn2207 
 
 ----
 
@@ -1215,7 +1216,7 @@ Lăudat fii Tu, o, Doamne Dumnezeule!Tu eşti Cel care ai creat toate lucrurile 
 
 -- Bahá'u'lláh
 
-bpn2208 «[România](../ro/prayers/#bpn2208)» 
+bpn2208 
 
 ----
 
@@ -1225,7 +1226,7 @@ O, Tu, la a Cărui cumplită maiestate toate lucrurile s-au cutremurat, în ale 
 
 -- Bahá'u'lláh
 
-bpn2209 «[România](../ro/prayers/#bpn2209)» 
+bpn2209 
 
 ----
 
@@ -1235,7 +1236,7 @@ O, Domnul meu, Cel Preaiubit, Dorinţamea! Susţine-mă în singurătatea mea ş
 
 -- Abdu'l-Bahá
 
-bpn2210 «[România](../ro/prayers/#bpn2210)» 
+bpn2210 
 
 ----
 
@@ -1249,7 +1250,7 @@ O, Doamne, Dumnezeul meu!Luminează frunţile celor ce Te iubesc cu adevărat, �
 
 -- Abdu'l-Bahá
 
-bpn2211 «[România](../ro/prayers/#bpn2211)» 
+bpn2211 
 
 ----
 
@@ -1263,7 +1264,7 @@ Doamne Dumnezeul meu, Doamne Dumnezeul meu!Dacă nimeni nu va fi găsit să se a
 
 -- Bahá'u'lláh
 
-bpn2212 «[România](../ro/prayers/#bpn2212)» 
+bpn2212 
 
 ----
 
@@ -1273,7 +1274,7 @@ bpn2212 «[România](../ro/prayers/#bpn2212)»
 
 -- Bahá'u'lláh
 
-bpn2213 «[România](../ro/prayers/#bpn2213)» 
+bpn2213 
 
 ----
 
@@ -1283,7 +1284,7 @@ Eu sunt cel, o, Domnul meu, ce şi-aîntors faţa către Tine şi şi-a îndrept
 
 -- Bahá'u'lláh
 
-bpn2214 «[România](../ro/prayers/#bpn2214)» 
+bpn2214 
 
 ----
 
@@ -1293,7 +1294,7 @@ Tu mă vezi, o, Domnul meu, cu faţa întoarsă către raiul dărniciei Tale şi
 
 -- Bahá'u'lláh
 
-bpn2215 «[România](../ro/prayers/#bpn2215)» 
+bpn2215 
 
 ----
 
@@ -1303,7 +1304,7 @@ Slăvit fii Tu, o, Doamne, Dumnezeul meu! De câte ori încerc să Te pomenesc, 
 
 -- Bahá'u'lláh
 
-bpn2216 «[România](../ro/prayers/#bpn2216)» 
+bpn2216 
 
 ----
 
@@ -1313,7 +1314,7 @@ Lauda fie cu Tine, o, Doamne. Iartă-ne păcatele, ai milă de noi şi îngădui
 
 -- Báb
 
-bpn2217 «[România](../ro/prayers/#bpn2217)» 
+bpn2217 
 
 ----
 
@@ -1323,7 +1324,7 @@ Te implor să mă ierţi, o, Stăpânul meu,pentru orice pomenire în afară de 
 
 -- Báb
 
-bpn2218 «[România](../ro/prayers/#bpn2218)» 
+bpn2218 
 
 ----
 
@@ -1333,7 +1334,7 @@ O, Dumnezeule, Stăpânul nostru!Ocroteşte-ne cu harul Tău de tot ceea ce-ţi 
 
 -- Báb
 
-bpn2219 «[România](../ro/prayers/#bpn2219)» 
+bpn2219 
 
 ----
 
@@ -1343,7 +1344,7 @@ O, Tu Stăpâne iertător! Tu eşti adăpostultuturor acestor slujitori ai Tăi.
 
 -- Abdu'l-Bahá
 
-bpn2220 «[România](../ro/prayers/#bpn2220)» 
+bpn2220 
 
 ----
 
@@ -1357,7 +1358,7 @@ Toată lauda fie cu Tine, Doamne, Dumnezeul meu, care eşti izvorul întregii gl
 
 -- Bahá'u'lláh
 
-bpn2240 «[România](../ro/prayers/#bpn2240)» 
+bpn2240 
 
 ----
 
@@ -1367,7 +1368,7 @@ Preamărit fie Numele Tău, o, Doamne, Dumnezeul meu! Tu eşti Cel venerat de to
 
 -- Bahá'u'lláh
 
-bpn2241 «[România](../ro/prayers/#bpn2241)» 
+bpn2241 
 
 ----
 
@@ -1377,7 +1378,7 @@ Slăvit fii Tu, o, Doamne Dumnezeul meu!Îţi aduc mulţumiri că mi-ai permis s
 
 -- Bahá'u'lláh
 
-bpn2242 «[România](../ro/prayers/#bpn2242)» 
+bpn2242 
 
 ----
 
@@ -1387,7 +1388,7 @@ Lăudat fie Numele Tău, o, Dumnezeul meu şi Dumnezeul tuturor lucrurilor, Slav
 
 -- Bahá'u'lláh
 
-bpn2243 «[România](../ro/prayers/#bpn2243)» 
+bpn2243 
 
 ----
 
@@ -1397,7 +1398,7 @@ O, Tu a Cărui pomenire e desfătarea sufletelor tuturor celor care tânjesc dup
 
 -- Bahá'u'lláh
 
-bpn2244 «[România](../ro/prayers/#bpn2244)» 
+bpn2244 
 
 ----
 
@@ -1407,7 +1408,7 @@ Slăvit fii Tu, o, Doamne Dumnezeul meu! Te implor, întru Străvechea Ta Frumus
 
 -- Bahá'u'lláh
 
-bpn2246 «[România](../ro/prayers/#bpn2246)» 
+bpn2246 
 
 ----
 
@@ -1417,7 +1418,7 @@ Lăudat fii Tu, o, Doamne, Dumnezeul meu! Ori de câte ori încerc să Te pomene
 
 -- Bahá'u'lláh
 
-bpn2247 «[România](../ro/prayers/#bpn2247)» 
+bpn2247 
 
 ----
 
@@ -1427,7 +1428,7 @@ Lăudat şi slăvit eşti Tu, O, Doamne Dumnezeul meu! Cum aş putea vorbi eu de
 
 -- Bahá'u'lláh
 
-bpn2248 «[România](../ro/prayers/#bpn2248)» 
+bpn2248 
 
 ----
 
@@ -1437,7 +1438,7 @@ Lumina şi gloria, salutul şi lauda fie asupraMâinilor Cauzei Sale, prin care 
 
 -- Bahá'u'lláh
 
-bpn2249 «[România](../ro/prayers/#bpn2249)» 
+bpn2249 
 
 ----
 
@@ -1447,7 +1448,7 @@ O, Tu Dăruitorule iubitor! Aceste suflete s-au grăbit la îndemnurile împăr�
 
 -- Abdu'l-Bahá
 
-bpn2245 «[România](../ro/prayers/#bpn2245)» 
+bpn2245 
 
 ----
 
@@ -1461,7 +1462,7 @@ O, căutător al Adevărului! De vrei ca Dumnezeu să-ţi deschidă ochii, trebu
 
 -- Abdu'l-Bahá
 
-bpn2250 «[România](../ro/prayers/#bpn2250)» 
+bpn2250 
 
 ----
 
@@ -1475,7 +1476,7 @@ O, Doamne Dumnezeul meu! Bunăvoinţa Ta mi-a dat curaj şi dreptatea Ta m-a ump
 
 -- Bahá'u'lláh
 
-bpn2251 «[România](../ro/prayers/#bpn2251)» 
+bpn2251 
 
 ----
 
@@ -1485,7 +1486,7 @@ O, Tu, bunule Dumnezeu! Tu ai făcut întreaga omenire din aceeaşi plămadă. T
 
 -- Abdu'l-Bahá
 
-bpn2252 «[România](../ro/prayers/#bpn2252)» 
+bpn2252 
 
 ----
 
@@ -1495,7 +1496,7 @@ O, Tu Stăpâne Îndurător, Tu Care eşti generos şi potent! Noi suntem slujit
 
 -- Abdu'l-Bahá
 
-bpn2253 «[România](../ro/prayers/#bpn2253)» 
+bpn2253 
 
 ----
 
@@ -1505,7 +1506,7 @@ O, Tu Stăpâne bun! Tu Care eşti generos şi milostiv! Noi suntem slujitorii p
 
 -- Abdu'l-Bahá
 
-bpn2254 «[România](../ro/prayers/#bpn2254)» 
+bpn2254 
 
 ----
 
@@ -1515,7 +1516,7 @@ O, Doamne! Cu adevărat, noi suntemslabi; fă-ne tari. Suntem săraci; ajută-ne
 
 -- Abdu'l-Bahá
 
-bpn2255 «[România](../ro/prayers/#bpn2255)» 
+bpn2255 
 
 ----
 
@@ -1529,17 +1530,17 @@ Află cu adevărat că sufletul, după ce se va despărţi de trup, va continua 
 
 -- Bahá'u'lláh
 
-bpn2261 «[România](../ro/prayers/#bpn2261)» 
+bpn2261 
 
 ----
 
 
 <a id="bpn2263"></a> 
-*Această rugăciune se foloseşte pentru bahá&#39;íi care au împlinit vârsta de cincisprezece ani. „Este singura rugăciune obligatorie Bahá&#39;í care se recită în congregaţie; trebuie recitată de un singur credincios, în timp ce toţi cei prezenţi stau în picioare. Nu e nevoie să se întoarcă spre Qiblih în timp ce recită această rugăciune.” - Bahá&#39;u&#39;lláh, Kitáb-i-AqdasO, Dumnezeul meu! Acesta este slujitorul Tău şi fiul slujitorului Tău care a crezut în Tine şi în semnele Tale şi care şi-a întors faţa spre Tine, pe de-a întregul detaşat de tot în afară de Tine. Tu eşti, cu adevărat, cel mai milostiv dintre milostivi.O Tu, care ierţi păcatele oamenilor şi le acoperi greşelile, poartă-Te cu el după cum se cuvine cerului bunătăţii Tale şi oceanului harului Tău. Primeşte-l înlăuntrul hotarelor milostivirii Tale transcendente ce a existat dinaintea întemeierii pământului şi cerului. Nu există alt Dumnezeu afară de Tine, Cel Veşnic Iertător, Cel Preageneros.Fie ca el să repete apoi de şase ori salutul: „Alláh&#39;u&#39;Abhá!”şi apoi să repete de nouăsprezece orifiecare din versetele următoare:Noi toţi, cu adevărat, Îl preamărim pe Dumnezeu.Noi toţi, cu adevărat, ne plecăm în faţa lui Dumnezeu.Noi toţi, cu adevărat, suntem devotaţi lui Dumnezeu.Noi toţi, cu adevărat, înălţăm laudă lui Dumnezeu.Noi toţi, cu adevărat, aducem mulţumiri lui Dumnezeu.Noi toţi, cu adevărat, suntem răbdători în Dumnezeu.*(Dacă cel defunct este o femeie, să se spună: „Aceasta este slujitoarea Ta şi fiica slujitoarei Tale” etc.)
+*Această rugăciune se foloseşte pentru bahá'íi care au împlinit vârsta de cincisprezece ani. „Este singura rugăciune obligatorie Bahá'í care se recită în congregaţie; trebuie recitată de un singur credincios, în timp ce toţi cei prezenţi stau în picioare. Nu e nevoie să se întoarcă spre Qiblih în timp ce recită această rugăciune.” - Bahá'u'lláh, Kitáb-i-AqdasO, Dumnezeul meu! Acesta este slujitorul Tău şi fiul slujitorului Tău care a crezut în Tine şi în semnele Tale şi care şi-a întors faţa spre Tine, pe de-a întregul detaşat de tot în afară de Tine. Tu eşti, cu adevărat, cel mai milostiv dintre milostivi.O Tu, care ierţi păcatele oamenilor şi le acoperi greşelile, poartă-Te cu el după cum se cuvine cerului bunătăţii Tale şi oceanului harului Tău. Primeşte-l înlăuntrul hotarelor milostivirii Tale transcendente ce a existat dinaintea întemeierii pământului şi cerului. Nu există alt Dumnezeu afară de Tine, Cel Veşnic Iertător, Cel Preageneros.Fie ca el să repete apoi de şase ori salutul: „Alláh'u'Abhá!”şi apoi să repete de nouăsprezece orifiecare din versetele următoare:Noi toţi, cu adevărat, Îl preamărim pe Dumnezeu.Noi toţi, cu adevărat, ne plecăm în faţa lui Dumnezeu.Noi toţi, cu adevărat, suntem devotaţi lui Dumnezeu.Noi toţi, cu adevărat, înălţăm laudă lui Dumnezeu.Noi toţi, cu adevărat, aducem mulţumiri lui Dumnezeu.Noi toţi, cu adevărat, suntem răbdători în Dumnezeu.*(Dacă cel defunct este o femeie, să se spună: „Aceasta este slujitoarea Ta şi fiica slujitoarei Tale” etc.)
 
 -- Bahá'u'lláh
 
-bpn2263 «[România](../ro/prayers/#bpn2263)» 
+bpn2263 
 
 ----
 
@@ -1549,7 +1550,7 @@ El este Dumnezeu, slăvit este El, Stăpânul dărniciei şi al duioasei bunăt�
 
 -- Bahá'u'lláh
 
-bpn2264 «[România](../ro/prayers/#bpn2264)» 
+bpn2264 
 
 ----
 
@@ -1559,7 +1560,7 @@ Slavă ţie, o, Doamne Dumnezeul meu!Nu-l coborî pe cel pe care l-ai ridicat pr
 
 -- Bahá'u'lláh
 
-bpn2265 «[România](../ro/prayers/#bpn2265)» 
+bpn2265 
 
 ----
 
@@ -1569,7 +1570,7 @@ Când sufletul omului îşi va purta zborul din această movilă trecătoare de 
 
 -- Abdu'l-Bahá
 
-bpn2262 «[România](../ro/prayers/#bpn2262)» 
+bpn2262 
 
 ----
 
@@ -1579,7 +1580,7 @@ Dumnezeul meu! O, Tu, Care ierţi păcatele, Care împarţi binefacerile şi alu
 
 -- Abdu'l-Bahá
 
-bpn2266 «[România](../ro/prayers/#bpn2266)» 
+bpn2266 
 
 ----
 
@@ -1589,7 +1590,7 @@ O, Dumnezeule! O, Dumnezeule!Cu adevărat, slujitorul Tău, umil în faţa supre
 
 -- Abdu'l-Bahá
 
-bpn2267 «[România](../ro/prayers/#bpn2267)» 
+bpn2267 
 
 ----
 
@@ -1603,7 +1604,7 @@ O, Tu Dumnezeule neasemuit! O, Tu Stăpâne al Împărăţiei! Aceste suflete su
 
 -- Abdu'l-Bahá
 
-bpn2268 «[România](../ro/prayers/#bpn2268)» 
+bpn2268 
 
 ----
 
@@ -1613,7 +1614,7 @@ O, Doamne Dumnezeul meu! Tu mă vezi vrăjit şi atras către împărăţia Ta g
 
 -- Abdu'l-Bahá
 
-bpn2269 «[România](../ro/prayers/#bpn2269)» 
+bpn2269 
 
 ----
 
@@ -1623,7 +1624,7 @@ O, Dumnezeule! O, Dumnezeule! Tu vezi slăbiciunea mea, smerenia şi umilinţa m
 
 -- Abdu'l-Bahá
 
-bpn2270 «[România](../ro/prayers/#bpn2270)» 
+bpn2270 
 
 ----
 
@@ -1633,7 +1634,7 @@ O, Tu Stăpâne bun! Lauda fie cu Tine căci mi-ai arătat magistrala călăuzir
 
 -- Abdu'l-Bahá
 
-bpn2271 «[România](../ro/prayers/#bpn2271)» 
+bpn2271 
 
 ----
 
@@ -1643,7 +1644,7 @@ O, Doamne Dumnezeul meu!O, Dumnezeul meu! Tu mă vezi în decăderea şi slăbic
 
 -- Abdu'l-Bahá
 
-bpn2272 «[România](../ro/prayers/#bpn2272)» 
+bpn2272 
 
 ----
 
@@ -1653,7 +1654,7 @@ O, Doamne Dumnezeul meu!Lauda şi mulţumirea fie cu Tine căci m-ai călăuzit 
 
 -- Abdu'l-Bahá
 
-bpn2273 «[România](../ro/prayers/#bpn2273)» 
+bpn2273 
 
 ----
 
@@ -1663,7 +1664,7 @@ O, Doamne! O, Doamne!Iată o pasăre cu aripile frânte al cărei zbor a înceti
 
 -- Abdu'l-Bahá
 
-bpn2274 «[România](../ro/prayers/#bpn2274)» 
+bpn2274 
 
 ----
 
@@ -1673,7 +1674,7 @@ Lauda fie cu Tine, o, Dumnezeul meu!Aceştia sunt slujitorii Tăi ce sunt atraş
 
 -- Abdu'l-Bahá
 
-bpn2275 «[România](../ro/prayers/#bpn2275)» 
+bpn2275 
 
 ----
 
@@ -1683,7 +1684,7 @@ O, Dumnezeule, Dumnezeul meu!Tu îl vezi pe acest slabănog implorând tărie ce
 
 -- Abdu'l-Bahá
 
-bpn2276 «[România](../ro/prayers/#bpn2276)» 
+bpn2276 
 
 ----
 
@@ -1693,11 +1694,11 @@ bpn2276 «[România](../ro/prayers/#bpn2276)»
 ## Post
 
 <a id="bpn2306"></a> 
-*Vam poruncit să vă rugaţi şi să postiţi de la începutul maturităţii... Reţineţi-vă de la mâncare şi băutură de la răsărit până la asfinţit şi păziţi-vă ca nu cumva dorinţa să vă lipsească de acest har ce a fost desemnat în Carte... - Bahá&#39;u&#39;lláhVârsta maturităţii este la cincisprezece ani; bărbaţii şi femeile se aseamănă în acest sens... Călătorul, cel suferind şi cele ce poartă copil sau alăptează, nu sunt obligaţi să postească...
+*Vam poruncit să vă rugaţi şi să postiţi de la începutul maturităţii... Reţineţi-vă de la mâncare şi băutură de la răsărit până la asfinţit şi păziţi-vă ca nu cumva dorinţa să vă lipsească de acest har ce a fost desemnat în Carte... - Bahá'u'lláhVârsta maturităţii este la cincisprezece ani; bărbaţii şi femeile se aseamănă în acest sens... Călătorul, cel suferind şi cele ce poartă copil sau alăptează, nu sunt obligaţi să postească...
 
 -- Bahá'u'lláh
 
-bpn2306 «[România](../ro/prayers/#bpn2306)» 
+bpn2306 
 
 ----
 
@@ -1707,7 +1708,7 @@ Te implor, o, Dumnezeul meu, pe SemnulTău cel puternic şi întru revelaţia Ha
 
 -- Bahá'u'lláh
 
-bpn2307 «[România](../ro/prayers/#bpn2307)» 
+bpn2307 
 
 ----
 
@@ -1717,7 +1718,7 @@ Slavă ţie, Doamne, Stăpâne, Dumnezeulmeu! Te implor, pe această Revelaţie 
 
 -- Bahá'u'lláh
 
-bpn2308 «[România](../ro/prayers/#bpn2308)» 
+bpn2308 
 
 ----
 
@@ -1727,7 +1728,7 @@ Acestea sunt, o Dumnezeul meu, zilele în care Tu le-ai prescris slujitorilor T�
 
 -- Bahá'u'lláh
 
-bpn2309 «[România](../ro/prayers/#bpn2309)» 
+bpn2309 
 
 ----
 
@@ -1737,7 +1738,7 @@ Slavă ţie, o, Doamne, Dumnezeul meu!Acestea sunt zilele în care Tu le-ai poru
 
 -- Bahá'u'lláh
 
-bpn2310 «[România](../ro/prayers/#bpn2310)» 
+bpn2310 
 
 ----
 
@@ -1751,7 +1752,7 @@ Preamărit fie numele Tău, o, Dumnezeul meu, căci Tu ai dezvăluit Ziua care e
 
 -- Bahá'u'lláh
 
-bpn2277 «[România](../ro/prayers/#bpn2277)» 
+bpn2277 
 
 ----
 
@@ -1761,7 +1762,7 @@ Laudă ţie, o, Doamne Dumnezeul meu!Te implor, prin Numele Tău pe care nimeni 
 
 -- Bahá'u'lláh
 
-bpn2278 «[România](../ro/prayers/#bpn2278)» 
+bpn2278 
 
 ----
 
@@ -1771,7 +1772,7 @@ Slava fie cu Tine, o, Stăpân al lumii şi Dorinţă a naţiunilor, o, Tu ce Te
 
 -- Bahá'u'lláh
 
-bpn2279 «[România](../ro/prayers/#bpn2279)» 
+bpn2279 
 
 ----
 
@@ -1781,7 +1782,7 @@ O, Dumnezeule, care eşti Autorultuturor Manifestărilor, Izvorul tuturor Izvoar
 
 -- Bahá'u'lláh
 
-bpn2280 «[România](../ro/prayers/#bpn2280)» 
+bpn2280 
 
 ----
 
@@ -1791,7 +1792,7 @@ O, Doamne Dumnezeul meu, ajută-l peslujitorul Tău să preamăreascăCuvântul 
 
 -- Abdu'l-Bahá
 
-bpn2281 «[România](../ro/prayers/#bpn2281)» 
+bpn2281 
 
 ----
 
@@ -1801,7 +1802,7 @@ O, Doamne Dumnezeul meu! Ajută-i peslujitorii Tăi demni de încredere să aib�
 
 -- Abdu'l-Bahá
 
-bpn2282 «[România](../ro/prayers/#bpn2282)» 
+bpn2282 
 
 ----
 
@@ -1811,7 +1812,7 @@ Tu mă vezi, o, Dumnezeul meu, plecat cuumilinţă, smeridu-mă înaintea porunc
 
 -- Abdu'l-Bahá
 
-bpn2283 «[România](../ro/prayers/#bpn2283)» 
+bpn2283 
 
 ----
 
@@ -1825,7 +1826,7 @@ Tu vezi, o Doamne, mâinile noastreimploratoare ridicându-se către raiul favor
 
 -- Bahá'u'lláh
 
-bpn2260 «[România](../ro/prayers/#bpn2260)» 
+bpn2260 
 
 ----
 
@@ -1835,7 +1836,7 @@ Se cuvine ca slujitorul să-L implore pe Dumnezeu, după fiecare rugăciune, să
 
 -- Báb
 
-bpn2256 «[România](../ro/prayers/#bpn2256)» 
+bpn2256 
 
 ----
 
@@ -1845,7 +1846,7 @@ bpn2256 «[România](../ro/prayers/#bpn2256)»
 
 -- Báb
 
-bpn2257 «[România](../ro/prayers/#bpn2257)» 
+bpn2257 
 
 ----
 
@@ -1855,7 +1856,7 @@ O, Doamne! În această Dispensaţie Preamărită, Tu accepţi rugăciunile copi
 
 -- Abdu'l-Bahá
 
-bpn2258 «[România](../ro/prayers/#bpn2258)» 
+bpn2258 
 
 ----
 
@@ -1865,7 +1866,7 @@ O, Doamne, iartă-i pe părinţii mei pentru greşelile lor. Îndreaptă către 
 
 -- Abdu'l-Bahá
 
-bpn2259 «[România](../ro/prayers/#bpn2259)» 
+bpn2259 
 
 ----
 
@@ -1879,7 +1880,7 @@ bpn2259 «[România](../ro/prayers/#bpn2259)»
 
 -- Bahá'u'lláh
 
-bpn2311 «[România](../ro/prayers/#bpn2311)» 
+bpn2311 
 
 ----
 
@@ -1893,7 +1894,7 @@ De spus o dată pe ziCel ce doreşte să spună această rugăciune trebuie să 
 
 -- Bahá'u'lláh
 
-bpn2103 «[România](../ro/prayers/#bpn2103)» 
+bpn2103 
 
 ----
 
@@ -1907,7 +1908,7 @@ De spus în fiecare zi, dimineaţa, la amiază şi seara.*Cel ce doreşte să se
 
 -- Bahá'u'lláh
 
-bpn2102 «[România](../ro/prayers/#bpn2102)» 
+bpn2102 
 
 ----
 
@@ -1917,11 +1918,11 @@ bpn2102 «[România](../ro/prayers/#bpn2102)»
 ## Rugăciunea Obligatorie Scurtă
 
 <a id="bpn2101"></a> 
-A fi recitată o dată în intervalul de douăzeci şi patru de ore, la amiazăStau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te slăvesc.  Adeveresc, în clipa aceasta, neputinţa mea şi puterea Ta, sărăcia mea şi bogăţia Ta. Nu există niciun alt Dumnezeu înafară de Tine, Ajutorul în Primejdie, Cel De Sine  Stătător.*(dintr-o scrisoare adresată din partea lui Shoghi Effendi)*Aceste rugăciuni zilnice obligatorii împreună cu alte câteva, cum ar fi rugăciunea pentru însănătoşire şi Tableta lui Ahmad, au fost înzestrate de Bahá&#39;u&#39;lláh cu o putere şi o semnificaţie specială; deci ele trebuie acceptate ca atare şi recitate cu credinţă şi o neclintită încredere pentru ca, prin ele, credincioşii să poată intra în comuniune cu Dumnezeu şi să se poată supune pe deplin legilor şi preceptelor Sale.  - Shoghi Effendi*Prin ‘dimineaţă’, ‘amiază’ şi ‘seară’, menţionate în legătură cu Rugăciunile obligatorii, se înţelege intervalul dintre răsăritul soarelui şi amiază, respectiv dintre amiază şi asfinţitul soarelui, şi de la asfinţit timp de două ore după asfinţit. - Kitáb-i-Aqdas
+A fi recitată o dată în intervalul de douăzeci şi patru de ore, la amiazăStau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te slăvesc.  Adeveresc, în clipa aceasta, neputinţa mea şi puterea Ta, sărăcia mea şi bogăţia Ta. Nu există niciun alt Dumnezeu înafară de Tine, Ajutorul în Primejdie, Cel De Sine  Stătător.*(dintr-o scrisoare adresată din partea lui Shoghi Effendi)*Aceste rugăciuni zilnice obligatorii împreună cu alte câteva, cum ar fi rugăciunea pentru însănătoşire şi Tableta lui Ahmad, au fost înzestrate de Bahá'u'lláh cu o putere şi o semnificaţie specială; deci ele trebuie acceptate ca atare şi recitate cu credinţă şi o neclintită încredere pentru ca, prin ele, credincioşii să poată intra în comuniune cu Dumnezeu şi să se poată supune pe deplin legilor şi preceptelor Sale.  - Shoghi Effendi*Prin ‘dimineaţă’, ‘amiază’ şi ‘seară’, menţionate în legătură cu Rugăciunile obligatorii, se înţelege intervalul dintre răsăritul soarelui şi amiază, respectiv dintre amiază şi asfinţitul soarelui, şi de la asfinţit timp de două ore după asfinţit. - Kitáb-i-Aqdas
 
 -- Bahá'u'lláh
 
-bpn2101 «[România](../ro/prayers/#bpn2101)» 
+bpn2101 
 
 ----
 
@@ -1935,7 +1936,7 @@ O, Doamne, Dumnezeul şi Stăpânul meu, ţinta dorinţei mele! Acest slujitor a
 
 -- Bahá'u'lláh
 
-bpn2284 «[România](../ro/prayers/#bpn2284)» 
+bpn2284 
 
 ----
 
@@ -1945,7 +1946,7 @@ Cum aş putea să adorm, o, Doamne, Dumnezeul meu, când ochii celor ce năzuies
 
 -- Bahá'u'lláh
 
-bpn2285 «[România](../ro/prayers/#bpn2285)» 
+bpn2285 
 
 ----
 
@@ -1959,7 +1960,7 @@ Serbarea v-a fost poruncită o dată pe lună, chiar de-ar fi să fie numai cu a
 
 -- Bahá'u'lláh
 
-bpn2312 «[România](../ro/prayers/#bpn2312)» 
+bpn2312 
 
 ----
 
@@ -1969,7 +1970,7 @@ O, Doamne Dumnezeule! Risipeşte toateacele elemente care sunt cauza discordiei,
 
 -- Abdu'l-Bahá
 
-bpn2313 «[România](../ro/prayers/#bpn2313)» 
+bpn2313 
 
 ----
 
@@ -1983,7 +1984,7 @@ O, Doamne, Dumnezeul meu! Iată această slujitoare a Ta invocându-Te pe Tine, 
 
 -- Abdu'l-Bahá
 
-bpn2286 «[România](../ro/prayers/#bpn2286)» 
+bpn2286 
 
 ----
 
@@ -1997,7 +1998,7 @@ Slava fie cu Tine, o, Rege al veşniciei,Făcător al naţiunilor şi Modelator 
 
 -- Bahá'u'lláh
 
-bpn2287 «[România](../ro/prayers/#bpn2287)» 
+bpn2287 
 
 ----
 
@@ -2007,7 +2008,7 @@ El este Cel Tare, Cel ce Iartă, Cel Milostiv!O, Doamne Dumnezeul meu! Tu îi ve
 
 -- Bahá'u'lláh
 
-bpn2288 «[România](../ro/prayers/#bpn2288)» 
+bpn2288 
 
 ----
 
@@ -2017,7 +2018,7 @@ O, Tu a Cărui apropiere e dorinţa mea, a Cărui prezenţă e speranţa mea, a 
 
 -- Bahá'u'lláh
 
-bpn2289 «[România](../ro/prayers/#bpn2289)» 
+bpn2289 
 
 ----
 
@@ -2027,7 +2028,7 @@ O, Doamne Dumnezeul meu! M-am întors către Tine cu pocăinţă, cu adevărat T
 
 -- Bahá'u'lláh
 
-bpn2290 «[România](../ro/prayers/#bpn2290)» 
+bpn2290 
 
 ----
 
@@ -2037,7 +2038,7 @@ Slăvit fii Tu, o, Doamne Dumnezeulmeu! Te implor întru Cel care este Cel Mai M
 
 -- Bahá'u'lláh
 
-bpn2291 «[România](../ro/prayers/#bpn2291)» 
+bpn2291 
 
 ----
 
@@ -2047,7 +2048,7 @@ Slăvit eşti Tu, o, Dumnezeul meu!Te implor întru Locul Răsăritului semnelor
 
 -- Bahá'u'lláh
 
-bpn2296 «[România](../ro/prayers/#bpn2296)» 
+bpn2296 
 
 ----
 
@@ -2057,7 +2058,7 @@ Lauda fie cu Tine, o, Doamne, Preaiubitulmeu! Fă-mă statornic în Cauza Ta şi
 
 -- Báb
 
-bpn2292 «[România](../ro/prayers/#bpn2292)» 
+bpn2292 
 
 ----
 
@@ -2067,7 +2068,7 @@ Lăudat şi slăvit eşti Tu, o, Dumnezeule!Îngăduie ca ziua atingerii sfintei
 
 -- Báb
 
-bpn2293 «[România](../ro/prayers/#bpn2293)» 
+bpn2293 
 
 ----
 
@@ -2077,7 +2078,7 @@ O, Doamne, Dumnezeul meu! Ajută-i pe cei ce-i iubeşti să fie statornici în C
 
 -- Abdu'l-Bahá
 
-bpn2294 «[România](../ro/prayers/#bpn2294)» 
+bpn2294 
 
 ----
 
@@ -2087,7 +2088,7 @@ O, Tu, Dumnezeul meu, care-l călăuzeşti pe căutător la calea ce-a dreaptă,
 
 -- Abdu'l-Bahá
 
-bpn2295 «[România](../ro/prayers/#bpn2295)» 
+bpn2295 
 
 ----
 
@@ -2101,7 +2102,7 @@ bpn2295 «[România](../ro/prayers/#bpn2295)»
 
 -- Bahá'u'lláh
 
-bpn2316 «[România](../ro/prayers/#bpn2316)» 
+bpn2316 
 
 ----
 
@@ -2115,7 +2116,7 @@ bpn2316 «[România](../ro/prayers/#bpn2316)»
 
 -- Bahá'u'lláh
 
-bpn2318 «[România](../ro/prayers/#bpn2318)» 
+bpn2318 
 
 ----
 
@@ -2129,7 +2130,7 @@ Naw-Rúz, 21 martie, este prima zi a anului Bahá’í, o zi de bucurie şi ospi
 
 -- Bahá'u'lláh
 
-bpn2314 «[România](../ro/prayers/#bpn2314)» 
+bpn2314 
 
 ----
 
@@ -2143,7 +2144,7 @@ ivina primăvară a venit, O, Prea Slăvită Pană, căci Sărbătoarea Celui Pr
 
 -- Bahá'u'lláh
 
-bpn2315 «[România](../ro/prayers/#bpn2315)» 
+bpn2315 
 
 ----
 
@@ -2157,7 +2158,7 @@ El este Regele, Atotştiutorul, Cel Înţelept!Iată, Privighetoarea paradisului
 
 -- Bahá'u'lláh
 
-bpn2317 «[România](../ro/prayers/#bpn2317)» 
+bpn2317 
 
 ----
 
@@ -2171,7 +2172,7 @@ bpn2317 «[România](../ro/prayers/#bpn2317)»
 
 -- Bahá'u'lláh
 
-bpn2320 «[România](../ro/prayers/#bpn2320)» 
+bpn2320 
 
 ----
 
@@ -2185,7 +2186,7 @@ El este Cel Veşnic! Aceasta este mărturia Mea pentru cea care a auzit vocea me
 
 -- Bahá'u'lláh
 
-bpn2321 «[România](../ro/prayers/#bpn2321)» 
+bpn2321 
 
 ----
 
@@ -2199,7 +2200,7 @@ Asupra ta, o, Ramură a lui Dumnezeu, fie amintirea de Dumnezeu şi preaslăvire
 
 -- Bahá'u'lláh
 
-bpn2322 «[România](../ro/prayers/#bpn2322)» 
+bpn2322 
 
 ----
 
@@ -2213,7 +2214,7 @@ O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite F
 
 -- Bahá'u'lláh
 
-bpn2323 «[România](../ro/prayers/#bpn2323)» 
+bpn2323 
 
 ----
 
@@ -2227,7 +2228,7 @@ bpn2323 «[România](../ro/prayers/#bpn2323)»
 
 -- Abdu'l-Bahá
 
-bpn2319 «[România](../ro/prayers/#bpn2319)» 
+bpn2319 
 
 ----
 
@@ -2241,7 +2242,7 @@ Slava fie cu Tine, o, Doamne, Tu Cel care, prin puterea poruncii Tale, ai chemat
 
 -- Báb
 
-bpn2297 «[România](../ro/prayers/#bpn2297)» 
+bpn2297 
 
 ----
 
@@ -2251,7 +2252,7 @@ O, Doamne! Ajută la creşterea rapidă a Pomului unităţii Tale divine; udă-l
 
 -- Báb
 
-bpn2298 «[România](../ro/prayers/#bpn2298)» 
+bpn2298 
 
 ----
 
@@ -2261,7 +2262,7 @@ O, Doamne! Fă-i victorioşi pe slujitorii Tăi răbdători în zilele Tale, în
 
 -- Báb
 
-bpn2299 «[România](../ro/prayers/#bpn2299)» 
+bpn2299 
 
 ----
 
@@ -2271,7 +2272,7 @@ O, Doamne! Îngăduie tuturor popoarelor pământului să intre în Paradisul Cr
 
 -- Báb
 
-bpn2300 «[România](../ro/prayers/#bpn2300)» 
+bpn2300 
 
 ----
 
@@ -2285,7 +2286,7 @@ O, Dumnezeul meu! O, Dumnezeul meu! Uneşte inimile slujitorilor Tăi şi revele
 
 -- Bahá'u'lláh
 
-bpn2303 «[România](../ro/prayers/#bpn2303)» 
+bpn2303 
 
 ----
 
@@ -2295,7 +2296,7 @@ O, Doamne, Dumnezeul meu! Lauda fie cu Tine pentru că ai aprins focul iubirii T
 
 -- Abdu'l-Bahá
 
-bpn2301 «[România](../ro/prayers/#bpn2301)» 
+bpn2301 
 
 ----
 
@@ -2305,7 +2306,7 @@ El este Dumnezeu! O, Doamne, Dumnezeul meu, Preaiubitul meu! Aceştia sunt sluji
 
 -- Abdu'l-Bahá
 
-bpn2302 «[România](../ro/prayers/#bpn2302)» 
+bpn2302 
 
 ----
 
@@ -2319,7 +2320,7 @@ Domnul meu, Stăpânul meu! Îţi aduc laude şi îţi mulţumesc pentru favoare
 
 -- Abdu'l-Bahá
 
-bpn2304 «[România](../ro/prayers/#bpn2304)» 
+bpn2304 
 
 ----
 
@@ -2333,7 +2334,7 @@ bpn2304 «[România](../ro/prayers/#bpn2304)»
 
 -- Bahá'u'lláh
 
-bpn2324 «[România](../ro/prayers/#bpn2324)» 
+bpn2324 
 
 ----
 
@@ -2343,7 +2344,7 @@ Dumnezeul meu, Focul meu şi Luminamea! Zilele pe care Tu le-ai numit Ayyám-i-H
 
 -- Bahá'u'lláh
 
-bpn2325 «[România](../ro/prayers/#bpn2325)» 
+bpn2325 
 
 ----
 
@@ -2357,7 +2358,7 @@ Risipeşte-mi supărarea prin bunătatea şi generozitatea Ta, o, Doamne, Dumnez
 
 -- Bahá'u'lláh
 
-bpn2222 «[România](../ro/prayers/#bpn2222)» 
+bpn2222 
 
 ----
 
@@ -2367,7 +2368,7 @@ O, Tu ale Cărui încercări sunt un leac tămăduitor pentru cei ce sunt aproap
 
 -- Bahá'u'lláh
 
-bpn2223 «[România](../ro/prayers/#bpn2223)» 
+bpn2223 
 
 ----
 
@@ -2377,7 +2378,7 @@ Slavă Ţie, o, Dumnezeul meu! Dacă n-ar fi suferinţele îndurate în calea Ta
 
 -- Bahá'u'lláh
 
-bpn2224 «[România](../ro/prayers/#bpn2224)» 
+bpn2224 
 
 ----
 
@@ -2387,7 +2388,7 @@ O, Dumnezeule! Încercările pe care le trimiţi sunt o alinare pentru toţi cei
 
 -- Bahá'u'lláh
 
-bpn2225 «[România](../ro/prayers/#bpn2225)» 
+bpn2225 
 
 ----
 
@@ -2397,7 +2398,7 @@ Tu ştii bine, o, Dumnezeul meu, că suferinţele s-au abătut asupra mea din to
 
 -- Báb
 
-bpn2226 «[România](../ro/prayers/#bpn2226)» 
+bpn2226 
 
 ----
 
@@ -2407,7 +2408,7 @@ O, Doamne! Tu îndepărtezi toate suferinţele şi risipeşti toate durerile. Tu
 
 -- Báb
 
-bpn2229 «[România](../ro/prayers/#bpn2229)» 
+bpn2229 
 
 ----
 
@@ -2417,7 +2418,7 @@ Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai d
 
 -- Abdu'l-Bahá
 
-bpn2221 «[România](../ro/prayers/#bpn2221)» 
+bpn2221 
 
 ----
 
@@ -2427,7 +2428,7 @@ O, Doamne, Dumnezeule! Tu ştii că omenirea este înconjurată de suferinţe ş
 
 -- Abdu'l-Bahá
 
-bpn2227 «[România](../ro/prayers/#bpn2227)» 
+bpn2227 
 
 ----
 
@@ -2437,7 +2438,7 @@ O, Doamne, Dumnezeul meu şi Adăpostul meu în primejdie! Scutul meu în nenoro
 
 -- Abdu'l-Bahá
 
-bpn2228 «[România](../ro/prayers/#bpn2228)» 
+bpn2228 
 
 ----
 
@@ -2451,7 +2452,7 @@ Numele Tău este însănătoşirea mea, o, Doamne, Dumnezeul meu, şi gândul la
 
 -- Bahá'u'lláh
 
-bpn2232 «[România](../ro/prayers/#bpn2232)» 
+bpn2232 
 
 ----
 
@@ -2461,7 +2462,7 @@ O, Doamne, Dumnezeul meu! Te implor,întru oceanul însănătoşirii Tale, într
 
 -- Bahá'u'lláh
 
-bpn2233 «[România](../ro/prayers/#bpn2233)» 
+bpn2233 
 
 ----
 
@@ -2471,7 +2472,7 @@ Slavă ţie, o, Doamne Dumnezeul meu!Te implor prin Numele Tău, prin care ai î
 
 -- Bahá'u'lláh
 
-bpn2234 «[România](../ro/prayers/#bpn2234)» 
+bpn2234 
 
 ----
 
@@ -2481,7 +2482,7 @@ Tu eşti Cel, o, Dumnezeul meu, al cărui nume aduce sănătate celor bolnavi, r
 
 -- Bahá'u'lláh
 
-bpn2235 «[România](../ro/prayers/#bpn2235)» 
+bpn2235 
 
 ----
 
@@ -2491,7 +2492,7 @@ Rugăciunile ce au fost revelate pentru a cere însănătoşire se referă atât
 
 -- Abdu'l-Bahá
 
-bpn2230 «[România](../ro/prayers/#bpn2230)» 
+bpn2230 
 
 ----
 
@@ -2501,7 +2502,7 @@ Dacă sănătatea şi bunăstarea trupului sunt cheltuite pe calea Împărăţie
 
 -- Abdu'l-Bahá
 
-bpn2231 «[România](../ro/prayers/#bpn2231)» 
+bpn2231 
 
 ----
 
@@ -2515,7 +2516,7 @@ O, Tu Dumnezeule milostiv!O, Tu Care eşti tare şi puternic!O, Tu Părinte prea
 
 -- Abdu'l-Bahá
 
-bpn2236 «[România](../ro/prayers/#bpn2236)» 
+bpn2236 
 
 ----
 
@@ -2525,7 +2526,7 @@ O, Divină Providenţă! Această adunare estealcătuită din prietenii Tăi ce 
 
 -- Abdu'l-Bahá
 
-bpn2237 «[România](../ro/prayers/#bpn2237)» 
+bpn2237 
 
 ----
 
@@ -2535,7 +2536,7 @@ O, Tu Dumnezeule iertător! Aceşti slujitori se întorc către împărăţia Ta
 
 -- Abdu'l-Bahá
 
-bpn2238 «[România](../ro/prayers/#bpn2238)» 
+bpn2238 
 
 ----
 
@@ -2545,7 +2546,7 @@ O, Dumnezeul meu! O, Dumnezeul meu!Cu adevărat, aceşti slujitori se întorc c�
 
 -- Abdu'l-Bahá
 
-bpn2239 «[România](../ro/prayers/#bpn2239)» 
+bpn2239 
 
 ----
 

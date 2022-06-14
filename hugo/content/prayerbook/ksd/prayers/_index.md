@@ -5,6 +5,7 @@ tags = ['lang=ksd', 'prayerbook']
 
 
 
+
 [A NIARING AIRA UMANA MINAT](#A+NIARING+AIRA+UMANA+MINAT)
 
 [A NIARING UPI RA MARAMARAVUT](#A+NIARING+UPI+RA+MARAMARAVUT)
@@ -31,11 +32,11 @@ tags = ['lang=ksd', 'prayerbook']
 ## A NIARING AIRA UMANA MINAT
 
 <a id="bpn12991"></a> 
-*Gon iat tikana niaring na vartulang Kai Baha&#39;i ma da tur  guvai ma vatangia; Dat parika data tur (ria tikana tutana  na nurnur na vatangia mara nuknuk tue tara pupunang  Tuk a vavina I mat io ra pakana tinata &#34;Koum bul kudar  natum tutana&#34; da pukue ba &#34;Koum vavina kudar, ma  natum vavina kudar.&#34; Ma &#34;la&#34; nakia &#34;To.&#34; U Kaugu Luluai! Go Koum kudakudar ma natui  Koum kudakudar nina inurnur tam ma takoum  umana vartulang, ma vabobo ra matana upu, a  kidolaina na petep tuna tam. Dari tuna Koum  varmari imanga lia tuna.  Una maravut iau u iat upun vue ra  mangamangana kaina kai ra tarai ma vakabite  kadia nirara, dari ibuka ra balanabakut ma  Koum minamar ma abalanata I mairingian tuna. Tabaria, papare pa ia tanam Kaum  marmari na gunan nina uga vaki ia lua tara  vavaki na gunagunan ma a balanabakut. U  kaka tikana Luluai, a tena tinabar rna u vala  pun vue kaveve umana nirara .
+*Gon iat tikana niaring na vartulang Kai Baha'i ma da tur  guvai ma vatangia; Dat parika data tur (ria tikana tutana  na nurnur na vatangia mara nuknuk tue tara pupunang  Tuk a vavina I mat io ra pakana tinata "Koum bul kudar  natum tutana" da pukue ba "Koum vavina kudar, ma  natum vavina kudar." Ma "la" nakia "To." U Kaugu Luluai! Go Koum kudakudar ma natui  Koum kudakudar nina inurnur tam ma takoum  umana vartulang, ma vabobo ra matana upu, a  kidolaina na petep tuna tam. Dari tuna Koum  varmari imanga lia tuna.  Una maravut iau u iat upun vue ra  mangamangana kaina kai ra tarai ma vakabite  kadia nirara, dari ibuka ra balanabakut ma  Koum minamar ma abalanata I mairingian tuna. Tabaria, papare pa ia tanam Kaum  marmari na gunan nina uga vaki ia lua tara  vavaki na gunagunan ma a balanabakut. U  kaka tikana Luluai, a tena tinabar rna u vala  pun vue kaveve umana nirara .
 
 -- Bahá'u'lláh
 
-bpn12991 «[Kuanua](../ksd/prayers/#bpn12991)» 
+bpn12991 
 
 ----
 
@@ -45,7 +46,7 @@ bpn12991 «[Kuanua](../ksd/prayers/#bpn12991)»
 
 -- Bahá'u'lláh
 
-bpn12992 «[Kuanua](../ksd/prayers/#bpn12992)» 
+bpn12992 
 
 ----
 
@@ -59,7 +60,7 @@ I - ia ra Luluai nina na takvue ra umana vartup?  Da vatangia: Pite pa u a Lulua
 
 -- Báb
 
-bpn12985 «[Kuanua](../ksd/prayers/#bpn12985)» 
+bpn12985 
 
 ----
 
@@ -73,7 +74,7 @@ Kaugu Luluai! Kaugu Luluai! Viguve ra buai kaum umana Kudakudar, ma vakapa diat 
 
 -- Bahá'u'lláh
 
-bpn12986 «[Kuanua](../ksd/prayers/#bpn12986)» 
+bpn12986 
 
 ----
 
@@ -87,7 +88,7 @@ U l.uluai. mataure iau, balaure iau; mal iau dari ra birao na lam ma a matotona 
 
 -- Abdu'l-Bahá
 
-bpn12990 «[Kuanua](../ksd/prayers/#bpn12990)» 
+bpn12990 
 
 ----
 
@@ -101,7 +102,7 @@ A ruru tam ra Luluai, U Kaugu Luluai I Atuna gon, Koum bul kudar ma Koum vavina 
 
 -- Abdu'l-Bahá
 
-bpn12989 «[Kuanua](../ksd/prayers/#bpn12989)» 
+bpn12989 
 
 ----
 
@@ -115,7 +116,7 @@ A iangim ia kaugu varvalagar, U kaugu Luluai,  ma Kaum varvanuknuk ia ra gu varv
 
 -- Bahá'u'lláh
 
-bpn12987 «[Kuanua](../ksd/prayers/#bpn12987)» 
+bpn12987 
 
 ----
 
@@ -129,7 +130,7 @@ bpn12987 «[Kuanua](../ksd/prayers/#bpn12987)»
 
 -- Abdu'l-Bahá
 
-bpn12993 «[Kuanua](../ksd/prayers/#bpn12993)» 
+bpn12993 
 
 ----
 
@@ -139,11 +140,11 @@ bpn12993 «[Kuanua](../ksd/prayers/#bpn12993)»
 ## A PAKANA NIARING AI RA UMANA VARTULANG
 
 <a id="bpn12984"></a> 
-*Tikatikana Bahai na vatang gono ra niaring tikanae tai  tikana bung. Lua una vatang gono ra niaring una puk ra  limam ma a matam ma ra tava namur una tur ma gigira  upi ra vatar tabu kai Baba&#39;u&#39;llah tara Gunan Tabu. (Ati  Papua Niugini gono ra gunan iat tara papar ra labur). lau tur valongoreu, U kaugu Luluai, Uga vaki  iau upi ina nunure u ma lotu tadap u. Go iau  varike kaugu binilua tar ta kaum ongor, Kaugu  niba tar ta kaum uviana, ukaka tikana Luluai,  u maravut iau tara umana varvakaina ma tara  kini na niba upi kaum umana vunuanai.
+*Tikatikana Bahai na vatang gono ra niaring tikanae tai  tikana bung. Lua una vatang gono ra niaring una puk ra  limam ma a matam ma ra tava namur una tur ma gigira  upi ra vatar tabu kai Baba'u'llah tara Gunan Tabu. (Ati  Papua Niugini gono ra gunan iat tara papar ra labur). lau tur valongoreu, U kaugu Luluai, Uga vaki  iau upi ina nunure u ma lotu tadap u. Go iau  varike kaugu binilua tar ta kaum ongor, Kaugu  niba tar ta kaum uviana, ukaka tikana Luluai,  u maravut iau tara umana varvakaina ma tara  kini na niba upi kaum umana vunuanai.
 
 -- Bahá'u'lláh
 
-bpn12984 «[Kuanua](../ksd/prayers/#bpn12984)» 
+bpn12984 
 
 ----
 
@@ -157,7 +158,7 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 
 -- Bahá'u'lláh
 
-bpn12983 «[Kuanua](../ksd/prayers/#bpn12983)» 
+bpn12983 
 
 ----
 
@@ -167,11 +168,11 @@ bpn12983 «[Kuanua](../ksd/prayers/#bpn12983)»
 ## A VAVALIMA NA TINAULAI
 
 <a id="bpn12988"></a> 
-*Ra vavalima na tinaulai, gora pakana tinata nina a  tutana ma a vavina dir taulai dira vatang varkolono, tara  luai na matai ra tutana ma a vavina nina dir tur mur pa  dir, mur ra nimulaot kai ra Tulungean Pal Tabu, ditumu  ia tara ngatngat na buk, a Kitab-i-Aqdas, aeri.  &#34;Datparika, data mur ra mamaingai kai ra Luluai.&#34;
+*Ra vavalima na tinaulai, gora pakana tinata nina a  tutana ma a vavina dir taulai dira vatang varkolono, tara  luai na matai ra tutana ma a vavina nina dir tur mur pa  dir, mur ra nimulaot kai ra Tulungean Pal Tabu, ditumu  ia tara ngatngat na buk, a Kitab-i-Aqdas, aeri.  "Datparika, data mur ra mamaingai kai ra Luluai."
 
 -- Bahá'u'lláh
 
-bpn12988 «[Kuanua](../ksd/prayers/#bpn12988)» 
+bpn12988 
 
 ----
 

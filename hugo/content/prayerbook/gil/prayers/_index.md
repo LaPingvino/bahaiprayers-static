@@ -5,6 +5,7 @@ tags = ['lang=gil', 'prayerbook']
 
 
 
+
 [Aan te Waaki](#Aan+te+Waaki)
 
 [Aine](#Aine)
@@ -95,7 +96,7 @@ Te Atua, ae Atuau! Kaotai moaia Am koraki ake a Tatangiriko ni koaua, ao buokiia
 
 -- Abdu'l-Bahá
 
-bpn10412 «[Kiribati](../gil/prayers/#bpn10412)» 
+bpn10412 
 
 ----
 
@@ -109,7 +110,7 @@ Au Uea, au Tangira, Maamaten nanou!  Raonai i nanon maroaau ao irai ni kanakoaki
 
 -- Abdu'l-Bahá
 
-bpn10451 «[Kiribati](../gil/prayers/#bpn10451)» 
+bpn10451 
 
 ----
 
@@ -119,7 +120,7 @@ Au Uea!  Au Uea!  I Neboiko ao I Katituaraoiko bwa Ko a tia n nanoangaa Am toro 
 
 -- Abdu'l-Bahá
 
-bpn10452 «[Kiribati](../gil/prayers/#bpn10452)» 
+bpn10452 
 
 ----
 
@@ -133,7 +134,7 @@ Te Atua!  Reireiniia ataei aikai.  Ataei aikai bon aroka n Am onaroka, Ueen Am t
 
 -- Abdu'l-Bahá
 
-bpn10397 «[Kiribati](../gil/prayers/#bpn10397)» 
+bpn10397 
 
 ----
 
@@ -143,7 +144,7 @@ Atuau! Kairai ao kaawakinai. Kaotaa riki tauran nanou ao karikai bwa te itoi ae 
 
 -- Abdu'l-Bahá
 
-bpn10398 «[Kiribati](../gil/prayers/#bpn10398)» 
+bpn10398 
 
 ----
 
@@ -153,7 +154,7 @@ Au Uea!  Au Uea! Ngai te teei ae e karako au ririki. Kamarikeai man mmamman Am a
 
 -- Abdu'l-Bahá
 
-bpn10399 «[Kiribati](../gil/prayers/#bpn10399)» 
+bpn10399 
 
 ----
 
@@ -163,7 +164,7 @@ Te Uea ae akea Kabotauana! I bukin Te teei are e aki konabwai naba Ngkoe te Tia 
 
 -- Abdu'l-Bahá
 
-bpn10400 «[Kiribati](../gil/prayers/#bpn10400)» 
+bpn10400 
 
 ----
 
@@ -173,7 +174,7 @@ Te Atua, karikirakea te teei aei i nanon Tangiram, anganna te amwarake teuana ma
 
 -- Abdu'l-Bahá
 
-bpn10401 «[Kiribati](../gil/prayers/#bpn10401)» 
+bpn10401 
 
 ----
 
@@ -187,7 +188,7 @@ Ngkoe Te Atua ae Moan te Itiaki ao te Katoki ni Mwaaka!  Bon au Uea Ngkoe ae moa
 
 -- Abdu'l-Bahá
 
-bpn10453 «[Kiribati](../gil/prayers/#bpn10453)» 
+bpn10453 
 
 ----
 
@@ -201,7 +202,7 @@ Te Atua ae E Nanoanga! Tooro aikai a rairaki nakon Am abanuea n ukoukora Am titu
 
 -- Abdu'l-Bahá
 
-bpn10413 «[Kiribati](../gil/prayers/#bpn10413)» 
+bpn10413 
 
 ----
 
@@ -211,7 +212,7 @@ Ngkoe Te Atua ae te atataiaomata! Ngkoe are Ko korakora ma ni mwaaka!  Ngkoe are
 
 -- Abdu'l-Bahá
 
-bpn10414 «[Kiribati](../gil/prayers/#bpn10414)» 
+bpn10414 
 
 ----
 
@@ -225,7 +226,7 @@ bpn10414 «[Kiribati](../gil/prayers/#bpn10414)»
 
 -- Abdu'l-Bahá
 
-bpn10463 «[Kiribati](../gil/prayers/#bpn10463)» 
+bpn10463 
 
 ----
 
@@ -235,7 +236,7 @@ bpn10463 «[Kiribati](../gil/prayers/#bpn10463)»
 
 -- Abdu'l-Bahá
 
-bpn10464 «[Kiribati](../gil/prayers/#bpn10464)» 
+bpn10464 
 
 ----
 
@@ -249,7 +250,7 @@ Ngkoe ara Uea ae e aakoi! Ko a tia ni karika te botannaomata nako man te riki ae
 
 -- Abdu'l-Bahá
 
-bpn10416 «[Kiribati](../gil/prayers/#bpn10416)» 
+bpn10416 
 
 ----
 
@@ -263,7 +264,7 @@ bpn10416 «[Kiribati](../gil/prayers/#bpn10416)»
 
 -- Bahá'u'lláh
 
-bpn10462 «[Kiribati](../gil/prayers/#bpn10462)» 
+bpn10462 
 
 ----
 
@@ -277,7 +278,7 @@ I a tia  n teirake n te ingabong aei man Nanom n aakoi, Atuau, ao ni kiitana mwe
 
 -- Bahá'u'lláh
 
-bpn10420 «[Kiribati](../gil/prayers/#bpn10420)» 
+bpn10420 
 
 ----
 
@@ -287,7 +288,7 @@ Atuau, I a tia ni uti i nanon Am katantan, ao I a riki bwa teuare e bubutii kata
 
 -- Bahá'u'lláh
 
-bpn10421 «[Kiribati](../gil/prayers/#bpn10421)» 
+bpn10421 
 
 ----
 
@@ -297,7 +298,7 @@ Atuau ao au Toka! Bon Ngai Am toro ao ana nati te mwaane Am toro. I a tia n teir
 
 -- Bahá'u'lláh
 
-bpn10422 «[Kiribati](../gil/prayers/#bpn10422)» 
+bpn10422 
 
 ----
 
@@ -311,7 +312,7 @@ Au Uea, ao Atuau ao au Tabo ni Motirawa man korakaiu! Otangau ao te Tia Kakaawak
 
 -- Abdu'l-Bahá
 
-bpn10423 «[Kiribati](../gil/prayers/#bpn10423)» 
+bpn10423 
 
 ----
 
@@ -325,7 +326,7 @@ Te nebonebo Nakoim, O te Uea ae Atuau! I a Butiiko n Aram  are akea ae e a tia n
 
 -- Bahá'u'lláh
 
-bpn10434 «[Kiribati](../gil/prayers/#bpn10434)» 
+bpn10434 
 
 ----
 
@@ -335,7 +336,7 @@ Atuau, buoka Am toro aei bwa e na karietaa te Taeka, ao n ekanakoa are akea nano
 
 -- Abdu'l-Bahá
 
-bpn10435 «[Kiribati](../gil/prayers/#bpn10435)» 
+bpn10435 
 
 ----
 
@@ -345,7 +346,7 @@ O te Atua ae Atuau!  Buokiia Am toro aika Ko onimakiniia bwa a na tatangira ma n
 
 -- Abdu'l-Bahá
 
-bpn10436 «[Kiribati](../gil/prayers/#bpn10436)» 
+bpn10436 
 
 ----
 
@@ -355,7 +356,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada O Ngkoe te
 
 -- Abdu'l-Bahá
 
-bpn10437 «[Kiribati](../gil/prayers/#bpn10437)» 
+bpn10437 
 
 ----
 
@@ -365,7 +366,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada *Ibukiia a
 
 -- Abdu'l-Bahá
 
-bpn10438 «[Kiribati](../gil/prayers/#bpn10438)» 
+bpn10438 
 
 ----
 
@@ -375,7 +376,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada *Are e mwa
 
 -- Abdu'l-Bahá
 
-bpn10439 «[Kiribati](../gil/prayers/#bpn10439)» 
+bpn10439 
 
 ----
 
@@ -385,7 +386,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada O te Atua,
 
 -- Abdu'l-Bahá
 
-bpn10440 «[Kiribati](../gil/prayers/#bpn10440)» 
+bpn10440 
 
 ----
 
@@ -395,7 +396,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Meangmainiku *Te bubuti ae inano e ko
 
 -- Abdu'l-Bahá
 
-bpn10441 «[Kiribati](../gil/prayers/#bpn10441)» 
+bpn10441 
 
 ----
 
@@ -405,7 +406,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Maiaki *Ni kabane tamnei ake a mwanan
 
 -- Abdu'l-Bahá
 
-bpn10442 «[Kiribati](../gil/prayers/#bpn10442)» 
+bpn10442 
 
 ----
 
@@ -415,7 +416,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Nuka *A kona taan kabutanakoa boiarar
 
 -- Abdu'l-Bahá
 
-bpn10443 «[Kiribati](../gil/prayers/#bpn10443)» 
+bpn10443 
 
 ----
 
@@ -425,7 +426,7 @@ Kaotaki nakoia kaain te Bahá’í n Aonon Maeao *Te maroro ae inano e kona ni w
 
 -- Abdu'l-Bahá
 
-bpn10444 «[Kiribati](../gil/prayers/#bpn10444)» 
+bpn10444 
 
 ----
 
@@ -435,7 +436,7 @@ Kaotaki nakoia kaain te Bahá’í iaon Canada ao i GreenlandKo na neboaki Ngkoe
 
 -- Abdu'l-Bahá
 
-bpn10445 «[Kiribati](../gil/prayers/#bpn10445)» 
+bpn10445 
 
 ----
 
@@ -445,7 +446,7 @@ Kaotaki nakoia kaain te Bahá’í iaon Canada ao i Greenland *Taan kauamaea boi
 
 -- Abdu'l-Bahá
 
-bpn10446 «[Kiribati](../gil/prayers/#bpn10446)» 
+bpn10446 
 
 ----
 
@@ -459,7 +460,7 @@ Ko noorai, au Uea, ma moau are e rairaki nakon karawan Am tituaraoi ao marawan A
 
 -- Bahá'u'lláh
 
-bpn10411 «[Kiribati](../gil/prayers/#bpn10411)» 
+bpn10411 
 
 ----
 
@@ -473,7 +474,7 @@ Te Atua ae Atuau!  I a tia n teirake ao ni kitana mweengau, ao n teimatoa n taua
 
 -- Bahá'u'lláh
 
-bpn10425 «[Kiribati](../gil/prayers/#bpn10425)» 
+bpn10425 
 
 ----
 
@@ -483,7 +484,7 @@ Au Uea!  Ko bon ataia bwa aomata a bane n otabwaniniaki n taian kammaraki ao n t
 
 -- Abdu'l-Bahá
 
-bpn10426 «[Kiribati](../gil/prayers/#bpn10426)» 
+bpn10426 
 
 ----
 
@@ -497,7 +498,7 @@ Atongnga:  Te Atua bon mwiokon bwaai ni kabane.  Akea i karawa ke i aon te aba a
 
 -- Báb
 
-bpn10405 «[Kiribati](../gil/prayers/#bpn10405)» 
+bpn10405 
 
 ----
 
@@ -511,7 +512,7 @@ Am bwai te mimitong; Atuau!  Ma ngke akea karawawata ake a uotaki ni Kawaim, ao 
 
 -- Bahá'u'lláh
 
-bpn10447 «[Kiribati](../gil/prayers/#bpn10447)» 
+bpn10447 
 
 ----
 
@@ -521,7 +522,7 @@ Ti Te Atua ke iai ae E konaa ni kanakoi kangaanga?   Atongnga: E na neboaki Te A
 
 -- Báb
 
-bpn10448 «[Kiribati](../gil/prayers/#bpn10448)» 
+bpn10448 
 
 ----
 
@@ -531,7 +532,7 @@ Ko ataia ni koaua, Ngkoe Atuau, bwa a bon tia ni bwakarai taian kangaanga man it
 
 -- Báb
 
-bpn10449 «[Kiribati](../gil/prayers/#bpn10449)» 
+bpn10449 
 
 ----
 
@@ -545,7 +546,7 @@ Atuau! Atuau! Katiteuanai nanoia Am toro, ao kaoti nakoia bukin Am Waaki ae e ka
 
 -- Bahá'u'lláh
 
-bpn10450 «[Kiribati](../gil/prayers/#bpn10450)» 
+bpn10450 
 
 ----
 
@@ -555,11 +556,11 @@ bpn10450 «[Kiribati](../gil/prayers/#bpn10450)»
 ## Naake a tia ni Mate
 
 <a id="bpn10402"></a> 
-Te tataro ibukin te mate e kakabonganaaki i bukiia kaain te Baha’i ake e a tia ni koro 15 aia ririki. “Ti aio te tataro ni Baha’i ae e kabaebae are e ananaaki n te bwanin; e na anaaki iroun temanna te tia onimaki ao ni kabane ake a roko a na tei. Akea baaireakina bwa e na kaitaraaki te Qiblih n anaaki te tataro aio.” A Synopsis &amp; Codification of the Kitáb-i-AqdasAtuau!  Bon Am toro aio ae te nati te mwaane ae natin Am toro are e a tia ni Kakoauako ma Am kanikina, ao ni kaineta moana Nakoim, ni kabwaninaki ni kamwaawaaki man bwaai nako ma bon ti Ngkoe. Bon Ngkoe, ni koaua, te kabanea n ataataiaomata mai buakoia naake a kaota te ataataiaomata.Ngkoe Are E kakabwarai bureia aomata ao E kakarabai aia kaairua, baairea taekana n ai aron botaun karawan Am tituaraoi ao marawan Am raoiroi. Kariaia rinna i nanon Oon Am ataataiaomata ae  e riao are iai i mwaain bouakinan te aba ao karawa. Bon akea te Atua bwa ti Ngkoe, te Kaakabwarai bure, te Kabanea n Tituaraoi.[Ngkanne e na atongaki onoua te tai te taeka ni kamauri ae “Alláh’u’Abhá”, ao a na manga atongaki kaka tebwimaruaiwa te tai kiibu aika a koreaki i nano n tatabeua nako.]Ni koaua, ti bon bane n taromauria Te Atua.Ni koaua, ti bon bane ni katorobubua i matan Te AtuaNi koaua, ti bon bane ni kabanei nanora i bukin Te Atua.Ni koaua, ti bon bane n anga te nebonebo nakon Te Atua.Ni koaua, ti bon bane n takaarua ni katituaraoi nakon Te Atua.Ni koaua, ti bon bane ni kaantaninga iroun Te Atua.[Ngkana te mate te aine, ke e na atonga: Bon Am tabonibai te aine aio ao te nati te aine ae natin Am tabonibai, etc…]
+Te tataro ibukin te mate e kakabonganaaki i bukiia kaain te Baha’i ake e a tia ni koro 15 aia ririki. “Ti aio te tataro ni Baha’i ae e kabaebae are e ananaaki n te bwanin; e na anaaki iroun temanna te tia onimaki ao ni kabane ake a roko a na tei. Akea baaireakina bwa e na kaitaraaki te Qiblih n anaaki te tataro aio.” A Synopsis & Codification of the Kitáb-i-AqdasAtuau!  Bon Am toro aio ae te nati te mwaane ae natin Am toro are e a tia ni Kakoauako ma Am kanikina, ao ni kaineta moana Nakoim, ni kabwaninaki ni kamwaawaaki man bwaai nako ma bon ti Ngkoe. Bon Ngkoe, ni koaua, te kabanea n ataataiaomata mai buakoia naake a kaota te ataataiaomata.Ngkoe Are E kakabwarai bureia aomata ao E kakarabai aia kaairua, baairea taekana n ai aron botaun karawan Am tituaraoi ao marawan Am raoiroi. Kariaia rinna i nanon Oon Am ataataiaomata ae  e riao are iai i mwaain bouakinan te aba ao karawa. Bon akea te Atua bwa ti Ngkoe, te Kaakabwarai bure, te Kabanea n Tituaraoi.[Ngkanne e na atongaki onoua te tai te taeka ni kamauri ae “Alláh’u’Abhá”, ao a na manga atongaki kaka tebwimaruaiwa te tai kiibu aika a koreaki i nano n tatabeua nako.]Ni koaua, ti bon bane n taromauria Te Atua.Ni koaua, ti bon bane ni katorobubua i matan Te AtuaNi koaua, ti bon bane ni kabanei nanora i bukin Te Atua.Ni koaua, ti bon bane n anga te nebonebo nakon Te Atua.Ni koaua, ti bon bane n takaarua ni katituaraoi nakon Te Atua.Ni koaua, ti bon bane ni kaantaninga iroun Te Atua.[Ngkana te mate te aine, ke e na atonga: Bon Am tabonibai te aine aio ao te nati te aine ae natin Am tabonibai, etc…]
 
 -- Bahá'u'lláh
 
-bpn10402 «[Kiribati](../gil/prayers/#bpn10402)» 
+bpn10402 
 
 ----
 
@@ -569,7 +570,7 @@ Am bwai te mimitong te Uea ae Atuau! Tai kamangora teuare Ko a tia ni karietaata
 
 -- Bahá'u'lláh
 
-bpn10403 «[Kiribati](../gil/prayers/#bpn10403)» 
+bpn10403 
 
 ----
 
@@ -579,7 +580,7 @@ Atuau!  Ngkoe ae te Tia Kabwarai buure, te Tia Tituaraoi, ao te Tia Kabebetei na
 
 -- Abdu'l-Bahá
 
-bpn10404 «[Kiribati](../gil/prayers/#bpn10404)» 
+bpn10404 
 
 ----
 
@@ -593,7 +594,7 @@ Nebonebo ni kabane, Atuau, bon Nakoim are boni Ngkoe Rikin te Mimitong ni kabane
 
 -- Bahá'u'lláh
 
-bpn10424 «[Kiribati](../gil/prayers/#bpn10424)» 
+bpn10424 
 
 ----
 
@@ -607,7 +608,7 @@ Au Uea!  Karaoa Tamaroam bwa kanau, ao ike iai Ngkoe iai bwa nimau, ao Kukureim 
 
 -- Bahá'u'lláh
 
-bpn10427 «[Kiribati](../gil/prayers/#bpn10427)» 
+bpn10427 
 
 ----
 
@@ -617,7 +618,7 @@ Kamooai, O Ngkoe Atuau,  man karewen boiararan karaangan Am aki tootoki, ao kata
 
 -- Bahá'u'lláh
 
-bpn10428 «[Kiribati](../gil/prayers/#bpn10428)» 
+bpn10428 
 
 ----
 
@@ -627,7 +628,7 @@ Atuau!  Atuau!  Am toro aei, e a tia ni waaki Nakoim, n nanomatoa n tiotio nako 
 
 -- Abdu'l-Bahá
 
-bpn10429 «[Kiribati](../gil/prayers/#bpn10429)» 
+bpn10429 
 
 ----
 
@@ -641,7 +642,7 @@ Te ota ao te mimitong, te kamauri ao te kamoamoa a na tikuriia Tabonibain Ana Wa
 
 -- Bahá'u'lláh
 
-bpn10467 «[Kiribati](../gil/prayers/#bpn10467)» 
+bpn10467 
 
 ----
 
@@ -655,7 +656,7 @@ bpn10467 «[Kiribati](../gil/prayers/#bpn10467)»
 
 -- Bahá'u'lláh
 
-bpn11239 «[Kiribati](../gil/prayers/#bpn11239)» 
+bpn11239 
 
 ----
 
@@ -665,11 +666,11 @@ bpn11239 «[Kiribati](../gil/prayers/#bpn11239)»
 ## Tabureti ibukin Karamera
 
 <a id="bpn10455"></a> 
-#Tabureti ibukin KarameraMimitong ni kabane bon nakon te Bong aei, te Bong are i nanona boiararan nako te nanoanga a tia ni uotaki rinanon te ang nako aoia karikibwai ni kabane, te Bong ae e koro n te karaoiroaki rooro ma tienture ake a tia n nako mai mwaaina a bon aki konaa ni kabotaua, te Bong are i nanona Boong e a tia n rairaki nakon Tekatekam ae Tabu.  N rimwiin anne bon bwanaaia karikibwai ni kabane, ao i aoia bon Rungaia Anera ni Karawa, n ongo te aba bwanaaia ni wewete n takarua: Ienikuriiko Ngkoe Karamera, bwa nooria, ootan buraburan Moan Te Atua, te Tia Tautaeka n Abanuean taian Ara ao te Tia Karaoa karawa nako, e a tia n neboaki i aom.&#39; N tauaki i nanon te kimwareirei ae korakora, ao n tabekaarake bwanaana ni karietaata, e takaarua n taku: &#39;E bia riki maiu bwa te karea Nakoim, i bukina bwa Ko a tia ni kaeta am taratara nako aou, n tia n ana nako aou Am bwai n tituaraoi, ao n tia ni kaetai nakon mwanekan waem.  Te raure nako Mairoum, Ngkoe are Boton te maiu ae akea tokina, e a tia ni waetata ni kabuaai ao raroau mai Iroum e a tia ni kabueka tamneiu.  Te kamoamoaaki Nakoim bwa Ko a bon tia n anganai te konabwai bwa Nna ongo nakon Am wewete, ibukin tian karineau ma mwanekan waem, ao ibukin tian kamaiuakin tamneiu rinanon korakoran boiararan Am Bong ao kakangin bwanaan Am Kainikoroboki, te bwanaa are Ko a bon tia ni baaireia bwa te buu ni  wewete i buakoia Am botannaomata. Ao ngke e a roko te aoa are e na kaotaki iai Am Aro ae e aki konaa n totokoaki, ao Ko a tia n ikeikena ikeiken Tamneim nako nanon Am Kainikoroboki, ao nooria, te karikibwai ae bwanin e ioaki bon mai oina, ni kaota nakoia aomata kamiimi nako ake a wene n raba i nanon kaubwain Teuare boni Ngaia te Tia Bwaina te karikibwai ni kabane.&#39;E aki maan imwiin tian rokon bwanaana n te Tabo are moan te karietataaki arei ao n aei ae Ti a kaeka: &#39;Angan Am Uea te karabwarabwa ae bati, Ngkoe Karamera.  Ain raurenakom Mairou e waetata ni kabuako, ngke marawan Rokou e naouea i matam ao ni kaunga ma te kukurei matam ao ake irouia karikibwai ni kabane, ao ni kaonrakei ma te kukurei bwaai ni kabane ake a nooraki ao ake a aki nooraki.  Kukurei, bwa E a tia Te Atua i nanon te Bong aei ni katea Kaintokan Ueana i aom, n tia ni karaoiko bwa moan teirakean Ana kanikina nako ao otaningainan kakoauaan Ana Kaotioti. E a   kakabwaiaaki te aomata are e katobibia rarikim, are e katanoataa kaotiotin Mimitongim, ao n taekina Ana bwai n tituaraoi Am Uea ae Atuam are a tia ni kabwaroaki nako aom.  Taua Mwangkon te Maiu ae Akea Tokina i nanon aran Am Uea, te Kabanea ni Mimitong, ao anga am kaaitau Nakoina, bwa E a tia ni bita nanokaawakim nakon te kukurei ao n onika rawawatam ae korakora nakon te kimwareirei ae bati.  Ngaia, n te koaua, E bon tangira te tabo are e a tia ni karaoaki bwa tekatekan Kaintokan Ueana, are e a tia n touaki ni Waena, are e a tia ni karineaki n Tikuna iai, are e a tia n tabekakirakeaki mai iai Ana wewete, ao are a bon tia ni kabwaroaki i aona Rannimatana.&#39;Wewete nako Tion, Ngkoe Karamera, ao katanoata te rongorongo ae e kakukurei: E a bon roko Teuare E karabaaki ngkoa man mataia aomata!  E a bon nooraki ngkai Ana tautaeka ae totokanikai; e a bon tia ni kaotiotaki Mimitongina ae rabwatii bwaai ni kabane.  Taratara raoi, bwa ko aonga n aki tabwara ke n nanokokoraki.  Ienikuriiko ni katobibia Ana Kaawa Te Atua ae e a tia n ruo mai karawa, are te Kaawa ni karawa ae e a tia ni katobibiaki ma te nebonebo irouia ake a tangiraki iroun Te Atua ake a itiaki nanoia, ao ai botakiia anera aika moan te karietataaki.  E a korakora Nanou ni kan katanoata nakoia taabo nako i aon te aonaaba aio, ao ni uota nakoiia n aia kaawa nako rongorongo aika a kakukurei n te Kaotioti aio. Te Kaotioti are e a tia ni kariiaki nako iai nanon Tiinai, ao are e a tia te Kai ae e Ura ni wewete n arana: &#34;Bon nakon Te Atua, Ueaia Uea, taian abanuea n aonaaba ni karawa.&#34; Bon aio, ni koaua, te Bong are i nanona aaba nako ao marawa a uaia ni kukurei n te katanoata aio, te Bong are a tia ni katauraoaki ibukina bwaai ni kabane ake E a tia Te Atua, rinanon te tituaraoi ae riaon aia iango ma nanoia aomata, ni katautaua kaotiia.  Imwiin te tai ae e aki maan ao Te Atua E na borauakina Ana Aake i aom, ao ni kaotiia aomatan Bahá ake a tia ni mwaneweaki i nanon te Boki n Ara.&#39;E katabuaki Uean te botannaomata, are ngke e atongaki Arana ao a ruru iai iteran nako te aonaaba, ao e a roko nanona iai Newen te Kakannato ni kaotii baike a rabunaki ngkoa inanon Ana atatai ao ake a wene n raba inanon kaubwain Mwaakana.  Ngaia ni koaua, rinanon korakoran Arana, te Mwaaka, te Kabanea n Tautaeka, te Kabanea n Rietaata, bon te tia tautaeka i aoia bwaai ni kabane ake i karawa nako ke i aon te aba.
+#Tabureti ibukin KarameraMimitong ni kabane bon nakon te Bong aei, te Bong are i nanona boiararan nako te nanoanga a tia ni uotaki rinanon te ang nako aoia karikibwai ni kabane, te Bong ae e koro n te karaoiroaki rooro ma tienture ake a tia n nako mai mwaaina a bon aki konaa ni kabotaua, te Bong are i nanona Boong e a tia n rairaki nakon Tekatekam ae Tabu.  N rimwiin anne bon bwanaaia karikibwai ni kabane, ao i aoia bon Rungaia Anera ni Karawa, n ongo te aba bwanaaia ni wewete n takarua: Ienikuriiko Ngkoe Karamera, bwa nooria, ootan buraburan Moan Te Atua, te Tia Tautaeka n Abanuean taian Ara ao te Tia Karaoa karawa nako, e a tia n neboaki i aom.' N tauaki i nanon te kimwareirei ae korakora, ao n tabekaarake bwanaana ni karietaata, e takaarua n taku: 'E bia riki maiu bwa te karea Nakoim, i bukina bwa Ko a tia ni kaeta am taratara nako aou, n tia n ana nako aou Am bwai n tituaraoi, ao n tia ni kaetai nakon mwanekan waem.  Te raure nako Mairoum, Ngkoe are Boton te maiu ae akea tokina, e a tia ni waetata ni kabuaai ao raroau mai Iroum e a tia ni kabueka tamneiu.  Te kamoamoaaki Nakoim bwa Ko a bon tia n anganai te konabwai bwa Nna ongo nakon Am wewete, ibukin tian karineau ma mwanekan waem, ao ibukin tian kamaiuakin tamneiu rinanon korakoran boiararan Am Bong ao kakangin bwanaan Am Kainikoroboki, te bwanaa are Ko a bon tia ni baaireia bwa te buu ni  wewete i buakoia Am botannaomata. Ao ngke e a roko te aoa are e na kaotaki iai Am Aro ae e aki konaa n totokoaki, ao Ko a tia n ikeikena ikeiken Tamneim nako nanon Am Kainikoroboki, ao nooria, te karikibwai ae bwanin e ioaki bon mai oina, ni kaota nakoia aomata kamiimi nako ake a wene n raba i nanon kaubwain Teuare boni Ngaia te Tia Bwaina te karikibwai ni kabane.'E aki maan imwiin tian rokon bwanaana n te Tabo are moan te karietataaki arei ao n aei ae Ti a kaeka: 'Angan Am Uea te karabwarabwa ae bati, Ngkoe Karamera.  Ain raurenakom Mairou e waetata ni kabuako, ngke marawan Rokou e naouea i matam ao ni kaunga ma te kukurei matam ao ake irouia karikibwai ni kabane, ao ni kaonrakei ma te kukurei bwaai ni kabane ake a nooraki ao ake a aki nooraki.  Kukurei, bwa E a tia Te Atua i nanon te Bong aei ni katea Kaintokan Ueana i aom, n tia ni karaoiko bwa moan teirakean Ana kanikina nako ao otaningainan kakoauaan Ana Kaotioti. E a   kakabwaiaaki te aomata are e katobibia rarikim, are e katanoataa kaotiotin Mimitongim, ao n taekina Ana bwai n tituaraoi Am Uea ae Atuam are a tia ni kabwaroaki nako aom.  Taua Mwangkon te Maiu ae Akea Tokina i nanon aran Am Uea, te Kabanea ni Mimitong, ao anga am kaaitau Nakoina, bwa E a tia ni bita nanokaawakim nakon te kukurei ao n onika rawawatam ae korakora nakon te kimwareirei ae bati.  Ngaia, n te koaua, E bon tangira te tabo are e a tia ni karaoaki bwa tekatekan Kaintokan Ueana, are e a tia n touaki ni Waena, are e a tia ni karineaki n Tikuna iai, are e a tia n tabekakirakeaki mai iai Ana wewete, ao are a bon tia ni kabwaroaki i aona Rannimatana.'Wewete nako Tion, Ngkoe Karamera, ao katanoata te rongorongo ae e kakukurei: E a bon roko Teuare E karabaaki ngkoa man mataia aomata!  E a bon nooraki ngkai Ana tautaeka ae totokanikai; e a bon tia ni kaotiotaki Mimitongina ae rabwatii bwaai ni kabane.  Taratara raoi, bwa ko aonga n aki tabwara ke n nanokokoraki.  Ienikuriiko ni katobibia Ana Kaawa Te Atua ae e a tia n ruo mai karawa, are te Kaawa ni karawa ae e a tia ni katobibiaki ma te nebonebo irouia ake a tangiraki iroun Te Atua ake a itiaki nanoia, ao ai botakiia anera aika moan te karietataaki.  E a korakora Nanou ni kan katanoata nakoia taabo nako i aon te aonaaba aio, ao ni uota nakoiia n aia kaawa nako rongorongo aika a kakukurei n te Kaotioti aio. Te Kaotioti are e a tia ni kariiaki nako iai nanon Tiinai, ao are e a tia te Kai ae e Ura ni wewete n arana: "Bon nakon Te Atua, Ueaia Uea, taian abanuea n aonaaba ni karawa." Bon aio, ni koaua, te Bong are i nanona aaba nako ao marawa a uaia ni kukurei n te katanoata aio, te Bong are a tia ni katauraoaki ibukina bwaai ni kabane ake E a tia Te Atua, rinanon te tituaraoi ae riaon aia iango ma nanoia aomata, ni katautaua kaotiia.  Imwiin te tai ae e aki maan ao Te Atua E na borauakina Ana Aake i aom, ao ni kaotiia aomatan Bahá ake a tia ni mwaneweaki i nanon te Boki n Ara.'E katabuaki Uean te botannaomata, are ngke e atongaki Arana ao a ruru iai iteran nako te aonaaba, ao e a roko nanona iai Newen te Kakannato ni kaotii baike a rabunaki ngkoa inanon Ana atatai ao ake a wene n raba inanon kaubwain Mwaakana.  Ngaia ni koaua, rinanon korakoran Arana, te Mwaaka, te Kabanea n Tautaeka, te Kabanea n Rietaata, bon te tia tautaeka i aoia bwaai ni kabane ake i karawa nako ke i aon te aba.
 
 -- Bahá'u'lláh
 
-bpn10455 «[Kiribati](../gil/prayers/#bpn10455)» 
+bpn10455 
 
 ----
 
@@ -683,7 +684,7 @@ N aran te Atua, Bwain Ngkoa Ngkoa, te Kabanea ni Korakora.Ni koaua ao nanoia naa
 
 -- Bahá'u'lláh
 
-bpn11237 «[Kiribati](../gil/prayers/#bpn11237)» 
+bpn11237 
 
 ----
 
@@ -697,7 +698,7 @@ Atuau!  Atuau!  Nna kanga n rinea matuu ngkai a taratara mataia naake a mate ni 
 
 -- Bahá'u'lláh
 
-bpn10406 «[Kiribati](../gil/prayers/#bpn10406)» 
+bpn10406 
 
 ----
 
@@ -707,7 +708,7 @@ bpn10406 «[Kiribati](../gil/prayers/#bpn10406)»
 
 -- Abdu'l-Bahá
 
-bpn10407 «[Kiribati](../gil/prayers/#bpn10407)» 
+bpn10407 
 
 ----
 
@@ -721,7 +722,7 @@ E kabwaia te nne, ma te auti, ma te tabo, ma te kaawa, ma te nano, ma te maunga,
 
 -- Bahá'u'lláh
 
-bpn10381 «[Kiribati](../gil/prayers/#bpn10381)» 
+bpn10381 
 
 ----
 
@@ -731,7 +732,7 @@ Katakei, ngkoe Au toro, Ana kibu nako Te Atua ake a tia ni karekeaki iroum, n ar
 
 -- Bahá'u'lláh
 
-bpn10382 «[Kiribati](../gil/prayers/#bpn10382)» 
+bpn10382 
 
 ----
 
@@ -745,7 +746,7 @@ bpn10382 «[Kiribati](../gil/prayers/#bpn10382)»
 
 -- Bahá'u'lláh
 
-bpn10458 «[Kiribati](../gil/prayers/#bpn10458)» 
+bpn10458 
 
 ----
 
@@ -755,7 +756,7 @@ Ko na neboaki, te Uea ae Atuau.  I bubutii Nakoim ma te nanorinano n te Kaotioti
 
 -- Bahá'u'lláh
 
-bpn10459 «[Kiribati](../gil/prayers/#bpn10459)» 
+bpn10459 
 
 ----
 
@@ -765,7 +766,7 @@ Aikai boong, Atuau, are Ko a tia ni katauia Am toro bwa a na taua bukin te akima
 
 -- Bahá'u'lláh
 
-bpn10460 «[Kiribati](../gil/prayers/#bpn10460)» 
+bpn10460 
 
 ----
 
@@ -775,7 +776,7 @@ Te nebonebo nakoim O te Uea ae Atuau. Ti a tia n ira nanon te Aki Mamatam ni kae
 
 -- Bahá'u'lláh
 
-bpn10461 «[Kiribati](../gil/prayers/#bpn10461)» 
+bpn10461 
 
 ----
 
@@ -785,7 +786,7 @@ Te mimitong Nakoim, O te Uea Atuau! Aikai bong are Ko a tia ni kataua bwa ni kab
 
 -- Bahá'u'lláh
 
-bpn11236 «[Kiribati](../gil/prayers/#bpn11236)» 
+bpn11236 
 
 ----
 
@@ -799,7 +800,7 @@ First line: O Thou Whose face is the object of my adorationO Ngkoe Are Moamoam b
 
 -- Bahá'u'lláh
 
-bpn10383 «[Kiribati](../gil/prayers/#bpn10383)» 
+bpn10383 
 
 ----
 
@@ -809,7 +810,7 @@ Atuau, Maamaten Nanou, Au Uea, Au Tangira! Te newe ra ae e kona n atong au karab
 
 -- Bahá'u'lláh
 
-bpn10384 «[Kiribati](../gil/prayers/#bpn10384)» 
+bpn10384 
 
 ----
 
@@ -819,7 +820,7 @@ Atonga: Mimitong Nakoim Are Ko a tia ni karikiia Naake a Tabu bwa a na kaotii ai
 
 -- Bahá'u'lláh
 
-bpn10385 «[Kiribati](../gil/prayers/#bpn10385)» 
+bpn10385 
 
 ----
 
@@ -829,7 +830,7 @@ O Ngkoe Atuau! I butiko, n Aram ae moan te mimitong, ni buokai ni bwaai ake a na
 
 -- Bahá'u'lláh
 
-bpn10386 «[Kiribati](../gil/prayers/#bpn10386)» 
+bpn10386 
 
 ----
 
@@ -839,7 +840,7 @@ Atuau, Boton au tangira, Kourun nanou, te Kabanea n Tituaraoi, te Kabanea n Nano
 
 -- Bahá'u'lláh
 
-bpn10387 «[Kiribati](../gil/prayers/#bpn10387)» 
+bpn10387 
 
 ----
 
@@ -849,7 +850,7 @@ Te kamoamoa Nakoim, O Ngkoe te Uea Atuau, au Mwatita! Ko ongo ikenrawaia naake a
 
 -- Bahá'u'lláh
 
-bpn10388 «[Kiribati](../gil/prayers/#bpn10388)» 
+bpn10388 
 
 ----
 
@@ -859,7 +860,7 @@ First line: Laude be Thy Name, O Lord, our God! Thou art in truth the KnowerE na
 
 -- Báb
 
-bpn10389 «[Kiribati](../gil/prayers/#bpn10389)» 
+bpn10389 
 
 ----
 
@@ -869,7 +870,7 @@ O Atuau, au Uea ao Au Mwatita! I a tia ni kamwawaai mai irouia au utu ao ni ukou
 
 -- Báb
 
-bpn10390 «[Kiribati](../gil/prayers/#bpn10390)» 
+bpn10390 
 
 ----
 
@@ -879,7 +880,7 @@ Te Uea! Ti nanorawawata, anganiira nanom; ti kainnano, kamenaa i aora te tibwang
 
 -- Abdu'l-Bahá
 
-bpn10391 «[Kiribati](../gil/prayers/#bpn10391)» 
+bpn10391 
 
 ----
 
@@ -889,7 +890,7 @@ O Ngkoe te Uea ae Akoi! Ngaira am toro n Atibun Am Mataroa, ae I kamanoai n Am M
 
 -- Abdu'l-Bahá
 
-bpn10392 «[Kiribati](../gil/prayers/#bpn10392)» 
+bpn10392 
 
 ----
 
@@ -899,7 +900,7 @@ Tai kamwawaanako, O te Uea, te taibora ni kimwareirei are e a tia ni katauraoaki
 
 -- Abdu'l-Bahá
 
-bpn10393 «[Kiribati](../gil/prayers/#bpn10393)» 
+bpn10393 
 
 ----
 
@@ -909,7 +910,7 @@ O te Uea! Ti bon ngore; kakorakoraira. O te Atua! Ti bon bangabwaai; karikiira b
 
 -- Abdu'l-Bahá
 
-bpn10394 «[Kiribati](../gil/prayers/#bpn10394)» 
+bpn10394 
 
 ----
 
@@ -919,7 +920,7 @@ O ngkoe are ko tabe n raira moam nakon te Atua! Kaina matam nakon bwaai ni kaban
 
 -- Abdu'l-Bahá
 
-bpn10395 «[Kiribati](../gil/prayers/#bpn10395)» 
+bpn10395 
 
 ----
 
@@ -929,7 +930,7 @@ O Ngkoe te Tia Kamanomano ni karawa, ti kananoanga, anganiira Am ibuobuoki; taan
 
 -- Abdu'l-Bahá
 
-bpn10396 «[Kiribati](../gil/prayers/#bpn10396)» 
+bpn10396 
 
 ----
 
@@ -943,7 +944,7 @@ Atuau, bon katokan aorakiu Aram, ao bon au bwai n aoraki Uringam. Tikum i rariki
 
 -- Bahá'u'lláh
 
-bpn10415 «[Kiribati](../gil/prayers/#bpn10415)» 
+bpn10415 
 
 ----
 
@@ -953,11 +954,11 @@ bpn10415 «[Kiribati](../gil/prayers/#bpn10415)»
 ## Te Mare
 
 <a id="bpn10417"></a> 
-*Te mare ni Baha’i bon te bonnano ao te iraorao imarenaia itera aika uoua. E ngae n anne ma a riai ni bwaina te rangi ni karaurau ao n riki n ikikinai anuaia i bon irouia. E riai te itoman ae e aki tootoki aio ni kamwaneauaaki n te boraraoi ae e nene, ao e riai n ae te kaantaninga bon te karikirakea te bonnano, te iraorao, ao te katiteuanaaki ao n roota te maiu ae akea tokina. *Bon te kainrou n te Bahá’í are te reita ae akea i aona ao kaotan raoi nanoia naaka uoman.  Ao n aron anne, a riai ni kaota raoi nanoia ni koaua ma n atai nanoia ngaiia n tatabemaniia ao te berita are matoatoa are e karaoaki i marenaia e na riki bwa kabaeakiia n aki toki n iraorao ma n teimatoa n ti teuana n te maiu aei.*‘Abdu&#39;l-Bahá *Te Berita ni Mare, n te kibu are e na atongaki irouia  n tatabemaniia te tia mareaki te aine ao te tia mareaki te mwane i mataia taan  kakoaua uoman ke n raka ake a kariaiakaki iroun te Botaki n Tamnei bon aio, are e riai man te Boki are Moan te Tabu (Kitáb-i-Aqdas) are e kaangai:*“TI NA BON MAMAEKA NI KOAUA N ARON NANON TE ATUA.”Boni Ngaia te Aakoi, te Nanoanga!E na neboaki Te Atua, are Ngkoangkoa are E aki maamate, are Akea Bibitakina, ao Akea tokina!  Boni Ngaia are E a tia ni kakoaua n oin Arona bwa bon Ngaia ae ti Temanna, ae akea Tauan Arona, te Moa n Rietaata.  Ti bon bane ni kakoaua bwa akea riki Te Atua bwa ti Ngaia ti ata Oioina n ti Ngaia, ni kaota Ngaia ae ti Temanna.  E mamaeka n te tabo ae akea rotakina, n taubukin Rietaatana, man te mwaaka ae tataekin bwaai nako ma bon ti Ngaia, man te inaomata ni kaotii bwaai nako ma bon ti Ngaia.  Ao ngke E iangoia n anga te raoiroi ao kakaraoan te raoiroi, ao ni baairea te aonaaba n etina, E rinanoi bwaai nako ao E karika Ana tua; mai buakon Ana tua E katea tuan te mare, bwa e na riki bwa te nono i bukin te mweraoi ao te kabwaia ao n riki bwa tabera are e na karaoaki nako naano man karawan te mwaaka are n Ana Boki are Moan te Tabu.  E taku te mwaaka are bon Mimitongina: Iein, au aomata, bwa mairoumi ane e na kaoti ngaia are e na Uringai mai  buakoia Au toro; bon aio teuana Au tua nakoimi; ongeaaba nako iai bwa te bwai n ibobuoki nakoimi.
+*Te mare ni Baha’i bon te bonnano ao te iraorao imarenaia itera aika uoua. E ngae n anne ma a riai ni bwaina te rangi ni karaurau ao n riki n ikikinai anuaia i bon irouia. E riai te itoman ae e aki tootoki aio ni kamwaneauaaki n te boraraoi ae e nene, ao e riai n ae te kaantaninga bon te karikirakea te bonnano, te iraorao, ao te katiteuanaaki ao n roota te maiu ae akea tokina. *Bon te kainrou n te Bahá’í are te reita ae akea i aona ao kaotan raoi nanoia naaka uoman.  Ao n aron anne, a riai ni kaota raoi nanoia ni koaua ma n atai nanoia ngaiia n tatabemaniia ao te berita are matoatoa are e karaoaki i marenaia e na riki bwa kabaeakiia n aki toki n iraorao ma n teimatoa n ti teuana n te maiu aei.*‘Abdu'l-Bahá *Te Berita ni Mare, n te kibu are e na atongaki irouia  n tatabemaniia te tia mareaki te aine ao te tia mareaki te mwane i mataia taan  kakoaua uoman ke n raka ake a kariaiakaki iroun te Botaki n Tamnei bon aio, are e riai man te Boki are Moan te Tabu (Kitáb-i-Aqdas) are e kaangai:*“TI NA BON MAMAEKA NI KOAUA N ARON NANON TE ATUA.”Boni Ngaia te Aakoi, te Nanoanga!E na neboaki Te Atua, are Ngkoangkoa are E aki maamate, are Akea Bibitakina, ao Akea tokina!  Boni Ngaia are E a tia ni kakoaua n oin Arona bwa bon Ngaia ae ti Temanna, ae akea Tauan Arona, te Moa n Rietaata.  Ti bon bane ni kakoaua bwa akea riki Te Atua bwa ti Ngaia ti ata Oioina n ti Ngaia, ni kaota Ngaia ae ti Temanna.  E mamaeka n te tabo ae akea rotakina, n taubukin Rietaatana, man te mwaaka ae tataekin bwaai nako ma bon ti Ngaia, man te inaomata ni kaotii bwaai nako ma bon ti Ngaia.  Ao ngke E iangoia n anga te raoiroi ao kakaraoan te raoiroi, ao ni baairea te aonaaba n etina, E rinanoi bwaai nako ao E karika Ana tua; mai buakon Ana tua E katea tuan te mare, bwa e na riki bwa te nono i bukin te mweraoi ao te kabwaia ao n riki bwa tabera are e na karaoaki nako naano man karawan te mwaaka are n Ana Boki are Moan te Tabu.  E taku te mwaaka are bon Mimitongina: Iein, au aomata, bwa mairoumi ane e na kaoti ngaia are e na Uringai mai  buakoia Au toro; bon aio teuana Au tua nakoimi; ongeaaba nako iai bwa te bwai n ibobuoki nakoimi.
 
 -- Bahá'u'lláh
 
-bpn10417 «[Kiribati](../gil/prayers/#bpn10417)» 
+bpn10417 
 
 ----
 
@@ -967,17 +968,17 @@ Boni Ngaia Te Atua! Ae Akea Kabotauana, n Rabakaum ae mwaaka Ko a tia ni kariaia
 
 -- Abdu'l-Bahá
 
-bpn10418 «[Kiribati](../gil/prayers/#bpn10418)» 
+bpn10418 
 
 ----
 
 
 <a id="bpn10419"></a> 
-Ko na neboaki Ngkoe Atuau!  Bon Am toro ni koaua aei ao Am toro naba te aine aei, ake a tia ni karikiia n ti te irikona i aan nuun Am nanoanga.  Te Uea!  Buokiira i nanon te aonaaba aei ao n Abanueam ni karekea nakoia baika a raoiroi man Am atataiaomata ao Am tangira.  Te Uea!  Kateimatoaiia i nanon aia beku i Bukim ao buokiia n Am kairiiri.  Karikiia bwa kanikinaaean Aram n Am aonaaba ao kaawakiniia i nanon Am kairiiri aika akea tiaia n te maiu aei ao n ae e na roko.  Te Uea!  A bubutii nakon Abanuean Am aakoi, ma ni kan buokaki nakon te tabo ae Kaonotiko.  E bon koaua bwa a mareaki bwa a na ira nanon Am tua.  Karikiia bwa a na riki bwa kanikinaaean te rau ma te iraorao ni karokoa tokin te tai.Boni Ngkoe ae Moan te Mwaaka, Ko mena n taabo ni kabane ao Moan te Kakannato.‘Abdu&#39;l-Bahá
+Ko na neboaki Ngkoe Atuau!  Bon Am toro ni koaua aei ao Am toro naba te aine aei, ake a tia ni karikiia n ti te irikona i aan nuun Am nanoanga.  Te Uea!  Buokiira i nanon te aonaaba aei ao n Abanueam ni karekea nakoia baika a raoiroi man Am atataiaomata ao Am tangira.  Te Uea!  Kateimatoaiia i nanon aia beku i Bukim ao buokiia n Am kairiiri.  Karikiia bwa kanikinaaean Aram n Am aonaaba ao kaawakiniia i nanon Am kairiiri aika akea tiaia n te maiu aei ao n ae e na roko.  Te Uea!  A bubutii nakon Abanuean Am aakoi, ma ni kan buokaki nakon te tabo ae Kaonotiko.  E bon koaua bwa a mareaki bwa a na ira nanon Am tua.  Karikiia bwa a na riki bwa kanikinaaean te rau ma te iraorao ni karokoa tokin te tai.Boni Ngkoe ae Moan te Mwaaka, Ko mena n taabo ni kabane ao Moan te Kakannato.‘Abdu'l-Bahá
 
 -- Abdu'l-Bahá
 
-bpn10419 «[Kiribati](../gil/prayers/#bpn10419)» 
+bpn10419 
 
 ----
 
@@ -991,7 +992,7 @@ bpn10419 «[Kiribati](../gil/prayers/#bpn10419)»
 
 -- Bahá'u'lláh
 
-bpn10454 «[Kiribati](../gil/prayers/#bpn10454)» 
+bpn10454 
 
 ----
 
@@ -1005,7 +1006,7 @@ bpn10454 «[Kiribati](../gil/prayers/#bpn10454)»
 
 -- Bahá'u'lláh
 
-bpn10456 «[Kiribati](../gil/prayers/#bpn10456)» 
+bpn10456 
 
 ----
 
@@ -1015,7 +1016,7 @@ bpn10456 «[Kiribati](../gil/prayers/#bpn10456)»
 
 -- Abdu'l-Bahá
 
-bpn10457 «[Kiribati](../gil/prayers/#bpn10457)» 
+bpn10457 
 
 ----
 
@@ -1029,7 +1030,7 @@ bpn10457 «[Kiribati](../gil/prayers/#bpn10457)»
 
 -- Bahá'u'lláh
 
-bpn10380 «[Kiribati](../gil/prayers/#bpn10380)» 
+bpn10380 
 
 ----
 
@@ -1043,7 +1044,7 @@ E na anaaki ni katoa bong, n te ingaabong, te tawanou ao te tairiki*(Are e kan t
 
 -- Bahá'u'lláh
 
-bpn10379 «[Kiribati](../gil/prayers/#bpn10379)» 
+bpn10379 
 
 ----
 
@@ -1057,7 +1058,7 @@ E riai n anaaki te tataro aei te taina i nanon uabwi ma aua te aoa, n te tawanou
 
 -- Bahá'u'lláh
 
-bpn10378 «[Kiribati](../gil/prayers/#bpn10378)» 
+bpn10378 
 
 ----
 
@@ -1071,7 +1072,7 @@ Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwar
 
 -- Bahá'u'lláh
 
-bpn11238 «[Kiribati](../gil/prayers/#bpn11238)» 
+bpn11238 
 
 ----
 
@@ -1085,7 +1086,7 @@ Te Atua ae Atuau! Am tabonibai te aine aio e Tabotaboiko, e Onimakiniko, e raira
 
 -- Abdu'l-Bahá
 
-bpn10408 «[Kiribati](../gil/prayers/#bpn10408)» 
+bpn10408 
 
 ----
 
@@ -1099,7 +1100,7 @@ bpn10408 «[Kiribati](../gil/prayers/#bpn10408)»
 
 -- Bahá'u'lláh
 
-bpn10466 «[Kiribati](../gil/prayers/#bpn10466)» 
+bpn10466 
 
 ----
 
@@ -1113,7 +1114,7 @@ E na neboaki Aram, au Uea ae Atuau.  I Bubutiiko ni Mwaakam are e rabwati bwaai 
 
 -- Bahá'u'lláh
 
-bpn10430 «[Kiribati](../gil/prayers/#bpn10430)» 
+bpn10430 
 
 ----
 
@@ -1123,7 +1124,7 @@ Kaanim Ngkoe i rarikiu, bon nanou ao Kaotim bon katokan botuu, Nnem ae mimitong 
 
 -- Bahá'u'lláh
 
-bpn10431 «[Kiribati](../gil/prayers/#bpn10431)» 
+bpn10431 
 
 ----
 
@@ -1133,7 +1134,7 @@ Te neboaki ao te kamimitongaki Ngkoe, Te Atua!  Kataua bwa e na konaa ni waekoa 
 
 -- Báb
 
-bpn10432 «[Kiribati](../gil/prayers/#bpn10432)» 
+bpn10432 
 
 ----
 
@@ -1143,7 +1144,7 @@ Te Uea ae Atuau!  Buokiia aika a tangiraki Iroum bwa a na teimatoa n Am Aro, n n
 
 -- Abdu'l-Bahá
 
-bpn10433 «[Kiribati](../gil/prayers/#bpn10433)» 
+bpn10433 
 
 ----
 
@@ -1157,7 +1158,7 @@ Ko na neboaki, te Uea n aki toki ao te Tia Karikiia tautaeka, ao te Tia Katamaro
 
 -- Bahá'u'lláh
 
-bpn10409 «[Kiribati](../gil/prayers/#bpn10409)» 
+bpn10409 
 
 ----
 
@@ -1167,7 +1168,7 @@ Ngkoe ae Atuan te Aakoi!  Bon Am bwai te karabwaaki bwa Ko a tia ni kautai ma n 
 
 -- Abdu'l-Bahá
 
-bpn10410 «[Kiribati](../gil/prayers/#bpn10410)» 
+bpn10410 
 
 ----
 
@@ -1181,7 +1182,7 @@ Atuau au Ai ao au Oota! Boong ake ko a tia n ingoanii bwa te Ayyám-i-Ha inanon 
 
 -- Bahá'u'lláh
 
-bpn10465 «[Kiribati](../gil/prayers/#bpn10465)» 
+bpn10465 
 
 ----
 

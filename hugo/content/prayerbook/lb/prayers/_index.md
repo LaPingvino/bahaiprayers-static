@@ -5,6 +5,7 @@ tags = ['lang=lb', 'prayerbook']
 
 
 
+
 [&#39;Abdu&#39;l-Baha](#%27Abdu%27l-Baha)
 
 [Ayyám-i-Há](#Ayy%C3%A1m-i-H%C3%A1)
@@ -95,7 +96,7 @@ Hien ass Gott.O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awu
 
 -- Abdu'l-Bahá
 
-bpn13400 «[Lëtzebuergesch](../lb/prayers/#bpn13400)» 
+bpn13400 
 
 ----
 
@@ -105,7 +106,7 @@ O Du onsiichtbare Frënd! O Verlaange vun allem an dëser Welt an der Welt, déi
 
 -- Abdu'l-Bahá
 
-bpn13401 «[Lëtzebuergesch](../lb/prayers/#bpn13401)» 
+bpn13401 
 
 ----
 
@@ -115,7 +116,7 @@ O Du onvergläichlechen Här, dee gär huet! Och wann et u Fäegkeet a Begabung 
 
 -- Abdu'l-Bahá
 
-bpn13402 «[Lëtzebuergesch](../lb/prayers/#bpn13402)» 
+bpn13402 
 
 ----
 
@@ -125,7 +126,7 @@ O Du mäin éiweg Beléiften an ugebiete Frënd! Wéi laang soll Deng Presenz mi
 
 -- Abdu'l-Bahá
 
-bpn13403 «[Lëtzebuergesch](../lb/prayers/#bpn13403)» 
+bpn13403 
 
 ----
 
@@ -135,7 +136,7 @@ O Du gudden Här! Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger L�
 
 -- Abdu'l-Bahá
 
-bpn13404 «[Lëtzebuergesch](../lb/prayers/#bpn13404)» 
+bpn13404 
 
 ----
 
@@ -145,7 +146,7 @@ O gëttlech Vorseeung! Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hinde
 
 -- Abdu'l-Bahá
 
-bpn13405 «[Lëtzebuergesch](../lb/prayers/#bpn13405)» 
+bpn13405 
 
 ----
 
@@ -155,7 +156,7 @@ O baarmhäerzege Gott!O Du, den Allmächtegen! Ech sinn nëmmen e schwaachen Dé
 
 -- Abdu'l-Bahá
 
-bpn13406 «[Lëtzebuergesch](../lb/prayers/#bpn13406)» 
+bpn13406 
 
 ----
 
@@ -165,7 +166,7 @@ O gëttlech Vorseeung! Erwäch mech a maach mech bewosst. Looss mech lassgeléis
 
 -- Abdu'l-Bahá
 
-bpn13407 «[Lëtzebuergesch](../lb/prayers/#bpn13407)» 
+bpn13407 
 
 ----
 
@@ -175,7 +176,7 @@ Hien ass Gott.OGott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden 
 
 -- Abdu'l-Bahá
 
-bpn13408 «[Lëtzebuergesch](../lb/prayers/#bpn13408)» 
+bpn13408 
 
 ----
 
@@ -185,7 +186,7 @@ O Här! Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an 
 
 -- Abdu'l-Bahá
 
-bpn13409 «[Lëtzebuergesch](../lb/prayers/#bpn13409)» 
+bpn13409 
 
 ----
 
@@ -195,7 +196,7 @@ O Du, dee gëtt, O Du, dee verzeit!  Eng nobel Séil ass an d’Kinnekräich vun
 
 -- Abdu'l-Bahá
 
-bpn13410 «[Lëtzebuergesch](../lb/prayers/#bpn13410)» 
+bpn13410 
 
 ----
 
@@ -205,7 +206,7 @@ Hien ass Gott.ODu verzeienden Här! Dës Dénger waren nobel Séilen, an dës st
 
 -- Abdu'l-Bahá
 
-bpn13411 «[Lëtzebuergesch](../lb/prayers/#bpn13411)» 
+bpn13411 
 
 ----
 
@@ -215,7 +216,7 @@ O gëttlech Vorseeung! Dauch de Papp an d’Mamm vun dësem Dénger un Denger Sc
 
 -- Abdu'l-Bahá
 
-bpn13412 «[Lëtzebuergesch](../lb/prayers/#bpn13412)» 
+bpn13412 
 
 ----
 
@@ -225,7 +226,7 @@ O du gudden Här! Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng S�
 
 -- Abdu'l-Bahá
 
-bpn13413 «[Lëtzebuergesch](../lb/prayers/#bpn13413)» 
+bpn13413 
 
 ----
 
@@ -235,7 +236,7 @@ O Här!Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut
 
 -- Abdu'l-Bahá
 
-bpn13414 «[Lëtzebuergesch](../lb/prayers/#bpn13414)» 
+bpn13414 
 
 ----
 
@@ -245,7 +246,7 @@ O Du Allmächtegen Här!Mir sinn all am mächtege Grëff vum Denger Muecht gehal
 
 -- Abdu'l-Bahá
 
-bpn13415 «[Lëtzebuergesch](../lb/prayers/#bpn13415)» 
+bpn13415 
 
 ----
 
@@ -255,7 +256,7 @@ Hien ass den Hellegsten, den Herrlechsten.Am Numm vu Gott, de Matleedvollen, de 
 
 -- Abdu'l-Bahá
 
-bpn13416 «[Lëtzebuergesch](../lb/prayers/#bpn13416)» 
+bpn13416 
 
 ----
 
@@ -265,7 +266,7 @@ O Här, eise Gott! Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. M
 
 -- Abdu'l-Bahá
 
-bpn13417 «[Lëtzebuergesch](../lb/prayers/#bpn13417)» 
+bpn13417 
 
 ----
 
@@ -275,7 +276,7 @@ Hien ass Gott.ODu gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch ma
 
 -- Abdu'l-Bahá
 
-bpn13418 «[Lëtzebuergesch](../lb/prayers/#bpn13418)» 
+bpn13418 
 
 ----
 
@@ -285,7 +286,7 @@ Hien ass den Allherrlechen.O mäin Här, mäi Kinnek, mäin Herrscher, a mäi So
 
 -- Abdu'l-Bahá
 
-bpn13419 «[Lëtzebuergesch](../lb/prayers/#bpn13419)» 
+bpn13419 
 
 ----
 
@@ -295,7 +296,7 @@ O mäi léiwen Här, o Du, de Wonsch vu mengem Häerz a menger Séil!Schenk Deng
 
 -- Abdu'l-Bahá
 
-bpn13420 «[Lëtzebuergesch](../lb/prayers/#bpn13420)» 
+bpn13420 
 
 ----
 
@@ -305,7 +306,7 @@ O gëttlech Vorseeung, Du bass den Ëmmerverzeienden! ODu allmächtege Gott, Du 
 
 -- Abdu'l-Bahá
 
-bpn13421 «[Lëtzebuergesch](../lb/prayers/#bpn13421)» 
+bpn13421 
 
 ----
 
@@ -315,7 +316,7 @@ O Du onvergläichleche Gott! Mir sinn Deng damiddeg Dénger an Du bass den Allm�
 
 -- Abdu'l-Bahá
 
-bpn13422 «[Lëtzebuergesch](../lb/prayers/#bpn13422)» 
+bpn13422 
 
 ----
 
@@ -325,7 +326,7 @@ Hien ass Gott.OGott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damidd
 
 -- Abdu'l-Bahá
 
-bpn13423 «[Lëtzebuergesch](../lb/prayers/#bpn13423)» 
+bpn13423 
 
 ----
 
@@ -335,7 +336,7 @@ O Här, sou räich u Guttheet a mat Gnod sou voll, Dat Wëssen, ech zudéifst an
 
 -- Abdu'l-Bahá
 
-bpn13424 «[Lëtzebuergesch](../lb/prayers/#bpn13424)» 
+bpn13424 
 
 ----
 
@@ -345,7 +346,7 @@ Hien ass den Allherrlechen, de Stralendsten.O gëttlech Vorseeung, o verzeienden
 
 -- Abdu'l-Bahá
 
-bpn13667 «[Lëtzebuergesch](../lb/prayers/#bpn13667)» 
+bpn13667 
 
 ----
 
@@ -359,7 +360,7 @@ bpn13667 «[Lëtzebuergesch](../lb/prayers/#bpn13667)»
 
 -- Bahá'u'lláh
 
-bpn13653 «[Lëtzebuergesch](../lb/prayers/#bpn13653)» 
+bpn13653 
 
 ----
 
@@ -373,7 +374,7 @@ bpn13653 «[Lëtzebuergesch](../lb/prayers/#bpn13653)»
 
 -- Bahá'u'lláh
 
-bpn13662 «[Lëtzebuergesch](../lb/prayers/#bpn13662)» 
+bpn13662 
 
 ----
 
@@ -383,11 +384,11 @@ bpn13662 «[Lëtzebuergesch](../lb/prayers/#bpn13662)»
 ## Besuchstablett, ‘Abdu’l‑Bahá
 
 <a id="bpn13663"></a> 
-*Dës Tablett, dat Abdu’l-Bahá offenbaart huet, gëtt a Sengem Schräin gelies. Et gëtt och als privat Gebiet benotzt. Wien och ëmmer dëst Gebiet mat Bescheidenheet an Äifer virliest, bréngt dem Häerz vun dësem Dénger Freed a Gléck; et ass esou wéi wann hien Him géing perséinlech begéinen.Hien ass den Allherrlechen!O Gott, mäi Gott! Damiddeg a mat Tréinen an den Aen erhiewen ech meng biedend Hänn zu Dir a bedecke mäi Gesiicht am Stëbs vun Denger Schwell, erhuewen iwwer d’Wësse vun de Geléierten an dem Luef vun all deenen, déi Dech verherrlechen. Kuck gnädeg a mam A vum Erbaarmen op Däin Dénger, deen einfach a bescheiden un Denger Dier steet, an dauch hien an d’Mier vun Denger éiweger Gnod an.Här! Hien ass en aarmen a bescheidenen Dénger vun Dir, dee bezaubert ass vun Dir, Dech vu ganzem Häerze biet, deen, gefaangen an Dénger Hand, mat Äifer zu Dir biet, deen Dir vertraut, an an Tréinen opgeléist virun Dengem Ubléck zu Dir rifft, dech ubiedelt a seet:O Här, mäi Gott! Gëff mir Deng Gnod vir deenen ze déngen, déi s Du gär hues, stäerk meng Fäegkeet Dir ze déngen, erliicht meng Stir mat der Luucht vun der Ubiedung an Dengem Haff vun der Hellegkeet a vum Gebiet zu Dengem Räich vun der Gréisst. Hëllef mir net u mech selwer ze denken am himmleschen Agang vun Denger Paart, an hëllef mir, lassgeléist ze si vun alle Saachen an Dengen hellege Raim. Här! Gëff mir ze drénken aus dem Kielech vum Verzicht; do mech u mat sengem Kleed, an dauch mech a säi Mier an. Maach mech zu Stëbs um Pad vun deenen, déi s Du gär hues, a gëff, dass ech meng Séil kann hiergi fir d’Äerd, déi duerch d&#39;Foussspuere vun Dengen Auserwielten op Dengem Pad geadelt ass, o Här vun der Herrlechkeet an der héchster Héicht.Mat dësem Gebiet rifft Däin Dénger Dech, wann et Dag gëtt an an der Nuecht. Erfëll säin Häerzenswonsch, O Här! Erliicht säin Häerz, erfree seng Broscht, fänk säi Liicht un, fir dass hien Denger Saach an Dengen Dénger notze kann.Du bass Deen, dee schenkt, de Matleedvollen, de Generéisten, de Gnädegen, de Baarmhäerzegen, de Matfillenden.
+*Dës Tablett, dat Abdu’l-Bahá offenbaart huet, gëtt a Sengem Schräin gelies. Et gëtt och als privat Gebiet benotzt. Wien och ëmmer dëst Gebiet mat Bescheidenheet an Äifer virliest, bréngt dem Häerz vun dësem Dénger Freed a Gléck; et ass esou wéi wann hien Him géing perséinlech begéinen.Hien ass den Allherrlechen!O Gott, mäi Gott! Damiddeg a mat Tréinen an den Aen erhiewen ech meng biedend Hänn zu Dir a bedecke mäi Gesiicht am Stëbs vun Denger Schwell, erhuewen iwwer d’Wësse vun de Geléierten an dem Luef vun all deenen, déi Dech verherrlechen. Kuck gnädeg a mam A vum Erbaarmen op Däin Dénger, deen einfach a bescheiden un Denger Dier steet, an dauch hien an d’Mier vun Denger éiweger Gnod an.Här! Hien ass en aarmen a bescheidenen Dénger vun Dir, dee bezaubert ass vun Dir, Dech vu ganzem Häerze biet, deen, gefaangen an Dénger Hand, mat Äifer zu Dir biet, deen Dir vertraut, an an Tréinen opgeléist virun Dengem Ubléck zu Dir rifft, dech ubiedelt a seet:O Här, mäi Gott! Gëff mir Deng Gnod vir deenen ze déngen, déi s Du gär hues, stäerk meng Fäegkeet Dir ze déngen, erliicht meng Stir mat der Luucht vun der Ubiedung an Dengem Haff vun der Hellegkeet a vum Gebiet zu Dengem Räich vun der Gréisst. Hëllef mir net u mech selwer ze denken am himmleschen Agang vun Denger Paart, an hëllef mir, lassgeléist ze si vun alle Saachen an Dengen hellege Raim. Här! Gëff mir ze drénken aus dem Kielech vum Verzicht; do mech u mat sengem Kleed, an dauch mech a säi Mier an. Maach mech zu Stëbs um Pad vun deenen, déi s Du gär hues, a gëff, dass ech meng Séil kann hiergi fir d’Äerd, déi duerch d'Foussspuere vun Dengen Auserwielten op Dengem Pad geadelt ass, o Här vun der Herrlechkeet an der héchster Héicht.Mat dësem Gebiet rifft Däin Dénger Dech, wann et Dag gëtt an an der Nuecht. Erfëll säin Häerzenswonsch, O Här! Erliicht säin Häerz, erfree seng Broscht, fänk säi Liicht un, fir dass hien Denger Saach an Dengen Dénger notze kann.Du bass Deen, dee schenkt, de Matleedvollen, de Generéisten, de Gnädegen, de Baarmhäerzegen, de Matfillenden.
 
 -- Abdu'l-Bahá
 
-bpn13663 «[Lëtzebuergesch](../lb/prayers/#bpn13663)» 
+bpn13663 
 
 ----
 
@@ -401,7 +402,7 @@ Verfesteg eis Schrëtt op Dengem Pad, o Här, a stäerk Du eis Häerzer andeems 
 
 -- Abdu'l-Bahá
 
-bpn13574 «[Lëtzebuergesch](../lb/prayers/#bpn13574)» 
+bpn13574 
 
 ----
 
@@ -415,7 +416,7 @@ Schaf a mir e rengt Häerz, o mäi Gott, a gëff mir op en Neits e rouegt Gewës
 
 -- Bahá'u'lláh
 
-bpn8213 «[Lëtzebuergesch](../lb/prayers/#bpn8213)» 
+bpn8213 
 
 ----
 
@@ -425,7 +426,7 @@ O Gott, mäi Gott! Du bass meng Hoffnung an Deen, deen ech gär hunn, mäin héc
 
 -- Abdu'l-Bahá
 
-bpn8217 «[Lëtzebuergesch](../lb/prayers/#bpn8217)» 
+bpn8217 
 
 ----
 
@@ -439,7 +440,7 @@ O mäi Gott, o mäi Gott! Vereeneg d’Häerzer vun Dengen Dénger a weis hinnen
 
 -- Bahá'u'lláh
 
-bpn8211 «[Lëtzebuergesch](../lb/prayers/#bpn8211)» 
+bpn8211 
 
 ----
 
@@ -449,7 +450,7 @@ O du gudden Här! Du hues d’ganz Mënschheet aus deem selwechte Stamm erschaf.
 
 -- Abdu'l-Bahá
 
-bpn13575 «[Lëtzebuergesch](../lb/prayers/#bpn13575)» 
+bpn13575 
 
 ----
 
@@ -463,7 +464,7 @@ Et gehéiert sech, dass den Dénger no all Gebiet Gott biet, sengen Elteren Erba
 
 -- Báb
 
-bpn13576 «[Lëtzebuergesch](../lb/prayers/#bpn13576)» 
+bpn13576 
 
 ----
 
@@ -473,7 +474,7 @@ O Här! An dëser gréisster Offenbarung akzeptéiers Du d’Gebieder vun de Kan
 
 -- Abdu'l-Bahá
 
-bpn13577 «[Lëtzebuergesch](../lb/prayers/#bpn13577)» 
+bpn13577 
 
 ----
 
@@ -483,7 +484,7 @@ O gëttlech Vorseeung!Dauch de Papp an d’Mamm vun dësem Dénger un Denger Sch
 
 -- Abdu'l-Bahá
 
-bpn13578 «[Lëtzebuergesch](../lb/prayers/#bpn13578)» 
+bpn13578 
 
 ----
 
@@ -497,7 +498,7 @@ O mäi Gott, hëllef Du Dengem Dénger Däi Wuert ze erhéijen, alles ze verwerf
 
 -- Abdu'l-Bahá
 
-bpn13579 «[Lëtzebuergesch](../lb/prayers/#bpn13579)» 
+bpn13579 
 
 ----
 
@@ -507,7 +508,7 @@ O Gott, mäi Gott! Hëllef Dengen treien Dénger, Häerzer ze hunn, déi voller 
 
 -- Abdu'l-Bahá
 
-bpn13580 «[Lëtzebuergesch](../lb/prayers/#bpn13580)» 
+bpn13580 
 
 ----
 
@@ -517,7 +518,7 @@ O Du onvergläichleche Gott! O Du Här vum Kinnekräich! Dës Séilen sinn Deng 
 
 -- Abdu'l-Bahá
 
-bpn13581 «[Lëtzebuergesch](../lb/prayers/#bpn13581)» 
+bpn13581 
 
 ----
 
@@ -527,7 +528,7 @@ O mäi Gott! O mäi Gott! Du gesäis, wéi ech mech, kleng a schwaach, mat der g
 
 -- Abdu'l-Bahá
 
-bpn13582 «[Lëtzebuergesch](../lb/prayers/#bpn13582)» 
+bpn13582 
 
 ----
 
@@ -537,7 +538,7 @@ O Gott, o Du, deen s Du Deng Herrlechkeet iwwer déi liichtend Wierklechkeete vu
 
 -- Abdu'l-Bahá
 
-bpn13583 «[Lëtzebuergesch](../lb/prayers/#bpn13583)» 
+bpn13583 
 
 ----
 
@@ -551,7 +552,7 @@ Gëtt et een, dee Schwieregkeeten ewechhëlt ausser Gott? So: Gelueft sief Gott!
 
 -- Báb
 
-bpn13584 «[Lëtzebuergesch](../lb/prayers/#bpn13584)» 
+bpn13584 
 
 ----
 
@@ -561,7 +562,7 @@ So: Gott geet allem duer, an iwwer alles ewech, an näischt an den Himmelen an o
 
 -- Báb
 
-bpn13585 «[Lëtzebuergesch](../lb/prayers/#bpn13585)» 
+bpn13585 
 
 ----
 
@@ -571,7 +572,7 @@ O gëttlech Vorseeung!Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hinder
 
 -- Abdu'l-Bahá
 
-bpn13586 «[Lëtzebuergesch](../lb/prayers/#bpn13586)» 
+bpn13586 
 
 ----
 
@@ -581,7 +582,7 @@ O Du onvergläichleche Gott!Mir sinn Deng damiddeg Dénger an Du bass den Allmä
 
 -- Abdu'l-Bahá
 
-bpn13587 «[Lëtzebuergesch](../lb/prayers/#bpn13587)» 
+bpn13587 
 
 ----
 
@@ -591,11 +592,11 @@ bpn13587 «[Lëtzebuergesch](../lb/prayers/#bpn13587)»
 ## Faaschten
 
 <a id="bpn13654"></a> 
-* “Am Kitáb-i-Aqdas steet: „Mir hunn iech operluecht, vum Alter vun der Maturitéit (15 Joer) aus un, ze bieden an ze faaschten. Dat ass vu Gott, ärem Här an dem Här vun äre Virfare bestëmmt... . Deen, dee reest oder krank ass, Fraen, déi schwanger sinn oder déi nieren, brauchen net ze faaschten... . Enthaalt iech dem Iessen an dem Drénken, vu Sonnenopgang bis Sonnenënnergang a passt op, dass Loscht iech net vun där Gnod ofhält, déi am Buch bestëmmt ass.”*D’Faaschtenzäit ass vum 1. oder 2. bis den 19. oder 20. Mäerz.*Wat d’Faaschten ugeet, stellt et zesumme mat de Flichtgebieder déi zwee Peiler duer, déi dat offenbaart Gesetz vu Gott ënnerstëtzen. Si stimuléieren d’Séil, stäerken se, loossen se nees opliewen a rengegen se, a suergen esou fir hir stänneg Entwécklung.*Shoghi EffendiO mäi Gott, bei Dengem mächtegen Zeechen a bei der Offenbarung vun Denger Gnod ënner de Mënschen, bieden ech dech, weis mech net of vun der Paart an d&#39;Stad vun Denger Präsenz, an enttäusch meng Hoffnungen net, déi ech an d’Manifestatioune vun Denger Gnod ënner Denge Kreature gesat hunn. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Denger séisster Stëmm an Dengem héchste Wuert: Zéi mech ëmmer méi no zur Schwell vun Denger Dier an hal mech net wäit ewech vum Schiet vun Dengem Erbaarmen a vum Baldachin vun Denger Generositéit. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Glanz vun Denger heller Stir an dem stralende Liicht vun Dengem Ubléck, dat vum héchsten Horizont schéngt: Zéi mech un duerch den Doft vun Dengem Kleed a looss mech drénke vum auserliesene Wäi vun Denger Ried. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Hoer, dat sech iwwer Däi Gesiicht beweegt, sou wéi Deng héchste Fieder iwwer d’Säite vun Dengen Tafele geet, an de Moschusdoft vu verbuerge Bedeitungen iwwer d’Räich vun Denger Schëpfung verbreet, erhief mech Denger Saach esou ze déngen, dass ech net zeréckfalen an net vun den Uspillunge vun deene gehënnert ginn, déi Deng Zeechen a Fro stellen, a sech vun Dengem Ubléck ofdréien. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Numm, deen s Du zum Kinnek vun den Nimm gemaach hues, an duerch deen all déi verzaubert sinn, déi am Himmel an op der Äerd sinn: Maach mech fäeg, d’Sonn vun Denger Schéinheet ze kucken a versuerg mech mam Wäi vun Denger Ried. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Kinnekszelt vun Denger Majestéit op den héchste Spëtzten a beim Baldachin vun Denger Offenbarung op den héchsten Héichten: Hëllef mir mat Denger Gnod dat ze maachen, wat Däi Wëlle begiert an Deng Absicht offenbaart. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Denger Schéinheet, déi héich iwwerem Horizont vun der Éiwegkeet straalt, enger Schéinheet, virun där, sou bal si sech offenbaart huet, d’Räich vun der Schéinheet sech an Ubiedung verneigt a si a schalenden Téin lueft: Gëff, dass ech alles opginn, wat ech besëtzen an nëmme fir dat liewen, wat Däint ass. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei der Offenbarung vun Dengem Numm, Deen, dee jiddweree gär huet, duerch deen d’Häerzer vun deenen, déi frou mat Dir sinn, sech opzieren an d’Séile vun all deenen, déi op der Äerd wunnen, sech erhiewen: Hëllef mir, Denger ze gedenken ënner Denge Kreaturen, an Dech ze luewen an Dengem Vollek. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Dausche vum gëttleche Bam an dem Pëspere vum duusse Wand vun Denge Wierder am Kinnekräich vun Dengen Nimm: Hal mech ewech vun allem, wat Däi Wëllen haasst, an zéi mech un zur Stuf, vun där Hien, deen de Muere vun Dengen Zeechen ass, erstraalt. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Buschtaf, duerch deen, soubal en aus dem Mond vun Dengem Wëllen erauskoum, d’Ozeaner opgewullt goufen, de Wand geblosen huet, d’Friichte sech offenbaart hunn, d’Beem ausgeschloen hunn, all fréier Spuren ausgeläscht an all Schleier zerrass goufen, an déi, déi sech Dir widmen, sech fläissen, zum Liicht vum Ubléck vun hirem Här, dem Onofhängegen, ze kommen: Looss mech erkennen, wat an de Schäz vun Denger Erkenntnes verbuerge läit an an de Späichere vun Denger Wäisheet verstoppt ass. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Feier vun Denger Léift, dat Dengen Auserwielten an deenen, déi s Du gär hues, de Schlof aus den Ae gedriwwen huet, a bei hirem Gedenken a Luef un Dech zur Moiesstonn: Ziel mech zu deenen, déi erreecht hunn, wat s Du an Dengem Buch erofgeschéckt hues an duerch Däi Wëllen offenbaart hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden dech, o mäi Gott, beim Liicht vun Dengem Ubléck, dat déi, déi Dir nostinn, virun d’Feiler vun Denger Veruerdnung gedriwwen huet, an déi, déi Dir ergi sinn, op Dengem Pad de Schwäerter vun Denge Feinden trotze gelooss huet: Schreif nidder fir mech mat Denger héchster Fieder, wat s Du fir Deng Vertrauten an Deng Auserwielten niddergeschriwwen hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Numm, duerch deen s Du op de Ruff vun deene lauschters, déi Dech gär hunn, op d’Schlackserte vun deenen, déi no Dir verlaangeren, op de Kreesch vun deenen, déi sech freeën, no bei Dir ze sinn, op d’Gejéimers vun deenen, déi Dir ergi sinn, an, duerch deen s Du d’Wënsch vun deenen erfëlls, déi hir Hoffnung op dech setzen, an hir Verlaangeren erfëlls, duerch Deng Gnod an Deng Gonscht, a bei Dengem Numm, duerch deen d’Mier vun der Verzeiung sech virun Dengem Ubléck opdeet, an d’Wolleke vun Denger Generositéit op Deng Dénger erofreenen: Schreif néier fir jiddwereen, dee sech Dir zoudréit an dat virgeschriwwent Faaschten anhält, d’Belounung, bestëmmt fir déi, déi net schwätzen ausser mat Denger Erlaabnes an déi op Dengem Pad aus Léift zu Dir op alles verzicht hunn, wat hinne gehéiert huet.Ech bieden Dech, o mäin Här, bei Dir a bei Dengen Zeechen, a bei Dengen däitleche Beweiser, an dem stralende Sonneliicht vun Denger Schéinheet a bei Dengen Äscht: Läsch d’Sënne vun deenen, déi sech fest un Deng Gesetzer halen an dat beuechten, wat s Du hinnen an Dengem Buch virgeschriwwen hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.
+* “Am Kitáb-i-Aqdas steet: „Mir hunn iech operluecht, vum Alter vun der Maturitéit (15 Joer) aus un, ze bieden an ze faaschten. Dat ass vu Gott, ärem Här an dem Här vun äre Virfare bestëmmt... . Deen, dee reest oder krank ass, Fraen, déi schwanger sinn oder déi nieren, brauchen net ze faaschten... . Enthaalt iech dem Iessen an dem Drénken, vu Sonnenopgang bis Sonnenënnergang a passt op, dass Loscht iech net vun där Gnod ofhält, déi am Buch bestëmmt ass.”*D’Faaschtenzäit ass vum 1. oder 2. bis den 19. oder 20. Mäerz.*Wat d’Faaschten ugeet, stellt et zesumme mat de Flichtgebieder déi zwee Peiler duer, déi dat offenbaart Gesetz vu Gott ënnerstëtzen. Si stimuléieren d’Séil, stäerken se, loossen se nees opliewen a rengegen se, a suergen esou fir hir stänneg Entwécklung.*Shoghi EffendiO mäi Gott, bei Dengem mächtegen Zeechen a bei der Offenbarung vun Denger Gnod ënner de Mënschen, bieden ech dech, weis mech net of vun der Paart an d'Stad vun Denger Präsenz, an enttäusch meng Hoffnungen net, déi ech an d’Manifestatioune vun Denger Gnod ënner Denge Kreature gesat hunn. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Denger séisster Stëmm an Dengem héchste Wuert: Zéi mech ëmmer méi no zur Schwell vun Denger Dier an hal mech net wäit ewech vum Schiet vun Dengem Erbaarmen a vum Baldachin vun Denger Generositéit. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Glanz vun Denger heller Stir an dem stralende Liicht vun Dengem Ubléck, dat vum héchsten Horizont schéngt: Zéi mech un duerch den Doft vun Dengem Kleed a looss mech drénke vum auserliesene Wäi vun Denger Ried. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Hoer, dat sech iwwer Däi Gesiicht beweegt, sou wéi Deng héchste Fieder iwwer d’Säite vun Dengen Tafele geet, an de Moschusdoft vu verbuerge Bedeitungen iwwer d’Räich vun Denger Schëpfung verbreet, erhief mech Denger Saach esou ze déngen, dass ech net zeréckfalen an net vun den Uspillunge vun deene gehënnert ginn, déi Deng Zeechen a Fro stellen, a sech vun Dengem Ubléck ofdréien. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Numm, deen s Du zum Kinnek vun den Nimm gemaach hues, an duerch deen all déi verzaubert sinn, déi am Himmel an op der Äerd sinn: Maach mech fäeg, d’Sonn vun Denger Schéinheet ze kucken a versuerg mech mam Wäi vun Denger Ried. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Kinnekszelt vun Denger Majestéit op den héchste Spëtzten a beim Baldachin vun Denger Offenbarung op den héchsten Héichten: Hëllef mir mat Denger Gnod dat ze maachen, wat Däi Wëlle begiert an Deng Absicht offenbaart. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Denger Schéinheet, déi héich iwwerem Horizont vun der Éiwegkeet straalt, enger Schéinheet, virun där, sou bal si sech offenbaart huet, d’Räich vun der Schéinheet sech an Ubiedung verneigt a si a schalenden Téin lueft: Gëff, dass ech alles opginn, wat ech besëtzen an nëmme fir dat liewen, wat Däint ass. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei der Offenbarung vun Dengem Numm, Deen, dee jiddweree gär huet, duerch deen d’Häerzer vun deenen, déi frou mat Dir sinn, sech opzieren an d’Séile vun all deenen, déi op der Äerd wunnen, sech erhiewen: Hëllef mir, Denger ze gedenken ënner Denge Kreaturen, an Dech ze luewen an Dengem Vollek. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Dausche vum gëttleche Bam an dem Pëspere vum duusse Wand vun Denge Wierder am Kinnekräich vun Dengen Nimm: Hal mech ewech vun allem, wat Däi Wëllen haasst, an zéi mech un zur Stuf, vun där Hien, deen de Muere vun Dengen Zeechen ass, erstraalt. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Buschtaf, duerch deen, soubal en aus dem Mond vun Dengem Wëllen erauskoum, d’Ozeaner opgewullt goufen, de Wand geblosen huet, d’Friichte sech offenbaart hunn, d’Beem ausgeschloen hunn, all fréier Spuren ausgeläscht an all Schleier zerrass goufen, an déi, déi sech Dir widmen, sech fläissen, zum Liicht vum Ubléck vun hirem Här, dem Onofhängegen, ze kommen: Looss mech erkennen, wat an de Schäz vun Denger Erkenntnes verbuerge läit an an de Späichere vun Denger Wäisheet verstoppt ass. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, beim Feier vun Denger Léift, dat Dengen Auserwielten an deenen, déi s Du gär hues, de Schlof aus den Ae gedriwwen huet, a bei hirem Gedenken a Luef un Dech zur Moiesstonn: Ziel mech zu deenen, déi erreecht hunn, wat s Du an Dengem Buch erofgeschéckt hues an duerch Däi Wëllen offenbaart hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden dech, o mäi Gott, beim Liicht vun Dengem Ubléck, dat déi, déi Dir nostinn, virun d’Feiler vun Denger Veruerdnung gedriwwen huet, an déi, déi Dir ergi sinn, op Dengem Pad de Schwäerter vun Denge Feinden trotze gelooss huet: Schreif nidder fir mech mat Denger héchster Fieder, wat s Du fir Deng Vertrauten an Deng Auserwielten niddergeschriwwen hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.Ech bieden Dech, o mäi Gott, bei Dengem Numm, duerch deen s Du op de Ruff vun deene lauschters, déi Dech gär hunn, op d’Schlackserte vun deenen, déi no Dir verlaangeren, op de Kreesch vun deenen, déi sech freeën, no bei Dir ze sinn, op d’Gejéimers vun deenen, déi Dir ergi sinn, an, duerch deen s Du d’Wënsch vun deenen erfëlls, déi hir Hoffnung op dech setzen, an hir Verlaangeren erfëlls, duerch Deng Gnod an Deng Gonscht, a bei Dengem Numm, duerch deen d’Mier vun der Verzeiung sech virun Dengem Ubléck opdeet, an d’Wolleke vun Denger Generositéit op Deng Dénger erofreenen: Schreif néier fir jiddwereen, dee sech Dir zoudréit an dat virgeschriwwent Faaschten anhält, d’Belounung, bestëmmt fir déi, déi net schwätzen ausser mat Denger Erlaabnes an déi op Dengem Pad aus Léift zu Dir op alles verzicht hunn, wat hinne gehéiert huet.Ech bieden Dech, o mäin Här, bei Dir a bei Dengen Zeechen, a bei Dengen däitleche Beweiser, an dem stralende Sonneliicht vun Denger Schéinheet a bei Dengen Äscht: Läsch d’Sënne vun deenen, déi sech fest un Deng Gesetzer halen an dat beuechten, wat s Du hinnen an Dengem Buch virgeschriwwen hues. Du gesäis mech, O mäi Gott, un Dengem Numm festhalen, dem Hellegsten, dem Stralendsten, dem Mächtegsten, dem Gréissten, dem Héchsten, dem Herrlechsten, a mech um Som vun Dengem Kleed klameren, un deem sech jiddwereen an dëser an an der nächster Welt festhält.
 
 -- Bahá'u'lláh
 
-bpn13654 «[Lëtzebuergesch](../lb/prayers/#bpn13654)» 
+bpn13654 
 
 ----
 
@@ -605,7 +606,7 @@ Glécklech sidd dir, dass dir dem Gebot vu Gott gefollegt an dëst Faaschten an 
 
 -- Abdu'l-Bahá
 
-bpn13655 «[Lëtzebuergesch](../lb/prayers/#bpn13655)» 
+bpn13655 
 
 ----
 
@@ -615,7 +616,7 @@ O Gott! Esou wéi ech mech vu kierperleche Wënsch enthalen a mech net mat Iesse
 
 -- Abdu'l-Bahá
 
-bpn13656 «[Lëtzebuergesch](../lb/prayers/#bpn13656)» 
+bpn13656 
 
 ----
 
@@ -629,7 +630,7 @@ O du matleedvolle Gott! Schenk mer en Häerz, dat wéi e Glas, mam Liicht vun De
 
 -- Abdu'l-Bahá
 
-bpn8210 «[Lëtzebuergesch](../lb/prayers/#bpn8210)» 
+bpn8210 
 
 ----
 
@@ -643,7 +644,7 @@ bpn8210 «[Lëtzebuergesch](../lb/prayers/#bpn8210)»
 
 -- Abdu'l-Bahá
 
-bpn13590 «[Lëtzebuergesch](../lb/prayers/#bpn13590)» 
+bpn13590 
 
 ----
 
@@ -653,11 +654,11 @@ bpn13590 «[Lëtzebuergesch](../lb/prayers/#bpn13590)»
 ## Féierung
 
 <a id="bpn13588"></a> 
-O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vun Denger Léift, déi hellewech brennt mat der Flam, déi um Bam vun Dengem Erbaarmen ugefaange gouf. O mäin Här! Looss si duerch d&#39;Feier, dat am Sinaï vun Denger Offenbarung entfacht ass, nach méi staark, méi gliddeg a mat méi enger grousser Flam brennen! Du bass wierklech Deen, dee bestätegt, dee bäisteet, de Gewaltegen, de Generéisen, Deen, dee gär huet.
+O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vun Denger Léift, déi hellewech brennt mat der Flam, déi um Bam vun Dengem Erbaarmen ugefaange gouf. O mäin Här! Looss si duerch d'Feier, dat am Sinaï vun Denger Offenbarung entfacht ass, nach méi staark, méi gliddeg a mat méi enger grousser Flam brennen! Du bass wierklech Deen, dee bestätegt, dee bäisteet, de Gewaltegen, de Generéisen, Deen, dee gär huet.
 
 -- Abdu'l-Bahá
 
-bpn13588 «[Lëtzebuergesch](../lb/prayers/#bpn13588)» 
+bpn13588 
 
 ----
 
@@ -667,7 +668,7 @@ O Här, eise Gott!Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. Mi
 
 -- Abdu'l-Bahá
 
-bpn13589 «[Lëtzebuergesch](../lb/prayers/#bpn13589)» 
+bpn13589 
 
 ----
 
@@ -681,7 +682,7 @@ Ech bieden Dech, o mäi Gott, bei all der transzendenter Éier vun Dengem Numm, 
 
 -- Bahá'u'lláh
 
-bpn13591 «[Lëtzebuergesch](../lb/prayers/#bpn13591)» 
+bpn13591 
 
 ----
 
@@ -691,7 +692,7 @@ Vun de séiss-doftege Stréimunge vun Denger Éiwegkeet gëff mer ze drénken, o
 
 -- Bahá'u'lláh
 
-bpn13592 «[Lëtzebuergesch](../lb/prayers/#bpn13592)» 
+bpn13592 
 
 ----
 
@@ -701,7 +702,7 @@ O mäin Här! Looss deng Schéinheet meng Narung ginn, Deng Präsenz mäi Gedré
 
 -- Bahá'u'lláh
 
-bpn13593 «[Lëtzebuergesch](../lb/prayers/#bpn13593)» 
+bpn13593 
 
 ----
 
@@ -711,7 +712,7 @@ Verherrlecht sief Däin Numm, o mäi Gott, duerch deen d’Beem am Gaart vun Den
 
 -- Bahá'u'lláh
 
-bpn13594 «[Lëtzebuergesch](../lb/prayers/#bpn13594)» 
+bpn13594 
 
 ----
 
@@ -721,7 +722,7 @@ O Här!Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut
 
 -- Abdu'l-Bahá
 
-bpn13595 «[Lëtzebuergesch](../lb/prayers/#bpn13595)» 
+bpn13595 
 
 ----
 
@@ -731,7 +732,7 @@ Hien ass Gott.O Du gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch m
 
 -- Abdu'l-Bahá
 
-bpn13596 «[Lëtzebuergesch](../lb/prayers/#bpn13596)» 
+bpn13596 
 
 ----
 
@@ -745,7 +746,7 @@ O Här! Erméiglech alle Vëlker vun der Äerd an d’Paradis vun Dengem Glawen 
 
 -- Báb
 
-bpn13597 «[Lëtzebuergesch](../lb/prayers/#bpn13597)» 
+bpn13597 
 
 ----
 
@@ -759,7 +760,7 @@ Däin Numm ass meng Heelung, o mäi Gott, an Denger ze gedenken ass meng Medezin
 
 -- Bahá'u'lláh
 
-bpn13598 «[Lëtzebuergesch](../lb/prayers/#bpn13598)» 
+bpn13598 
 
 ----
 
@@ -769,7 +770,7 @@ bpn13598 «[Lëtzebuergesch](../lb/prayers/#bpn13598)»
 
 -- Bahá'u'lláh
 
-bpn13599 «[Lëtzebuergesch](../lb/prayers/#bpn13599)» 
+bpn13599 
 
 ----
 
@@ -779,7 +780,7 @@ Wien de séissen Doft vu Gott verbreet, soll all Mueren dëst Gebiet soen:O Gott
 
 -- Abdu'l-Bahá
 
-bpn13600 «[Lëtzebuergesch](../lb/prayers/#bpn13600)» 
+bpn13600 
 
 ----
 
@@ -789,7 +790,7 @@ Hien ass Gott.O Gott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden
 
 -- Abdu'l-Bahá
 
-bpn13601 «[Lëtzebuergesch](../lb/prayers/#bpn13601)» 
+bpn13601 
 
 ----
 
@@ -799,11 +800,11 @@ bpn13601 «[Lëtzebuergesch](../lb/prayers/#bpn13601)»
 ## Hochzäit
 
 <a id="bpn13608"></a> 
-*D’ Bahá&#39;í Bestietnes ass Vereenegung an häerzlech Léift tëschent de Partner. Si mussen awer ganz gutt Uecht ginn a sech mam Charakter vun hirem Partner vertraut maachen. Dës éiweg Verbindung sollt duerch en zolitte Bond geséchert ginn, mat der Absicht, Harmonie, Verbonnenheet an Eenheet ze fërderen an éiwegt Liewen ze kréien.‘Abdu’l‑BaháD’Hochzäitsverspriechen, de Vers, deen am Kitáb-i-Aqdas (dem Hellegste Buch) festgeluecht ass, an deen eenzel vun der Braut an dem Bräitchemann an der Präsenz vun op mannst zwee Zeien, déi de geeschtege Rot akzeptéiert, ze soen ass, ass deen hei:*„Mir wëllen eis all, wierklech, un de Wëlle Gottes halen“.Hien ass Deen, dee schenkt, de Generéisen!Gelueft sief Gott, den Uréiwegen, den Ëmmerbestoenden, den Onverännerlechen, den Éiwegen! Hien, deen duerch säin eegent Wiese bezeit, dass Hie wierklech deen Een ass, deen Eenzegen, den Onofhängegen, den Héchsten. Mir bezeien, dass et a Wierklechkeet kee Gott gëtt ausser Him, mir erkenne Seng Eenheet un a bekenne Seng Eenzegkeet. Schonn éiweg wunnt Hien an onzougänglechen Héichten, op de Spëtzte vu Senger Majestéit, gehellegt iwwerem Ernimme vun allem ausser Him selwer, fräi vun all Beschreiwung ausser Senger.A wéi Hie wollt de Mënsche Gnod a gutt Doten erweisen, an d’Welt an d’Rei setzen, huet Hie Reegelen offenbaart a Gesetzer geschaf; ënner anerem huet Hien d’Gesetz vum Bestietnes agefouert, huet et zu enger Buerg vu Wuel a Séilegkeet gemaach an huet eis et virgeschriwwen an deem, wat a Sengem Hellegste Buch aus dem Himmel vun der Hellegkeet erofgeschéckt gouf. Hie sot, grouss ass Seng Herrlechkeet: “Bestuet iech, o Mënschen, fir dass vun iech deen ervirgeet, dee Menger ënner Mengen Dénger gedenkt; dëst ass eent vu Menge Geboter fir iech; haalt iech dorun, well et ass fir äert Bescht.”
+*D’ Bahá'í Bestietnes ass Vereenegung an häerzlech Léift tëschent de Partner. Si mussen awer ganz gutt Uecht ginn a sech mam Charakter vun hirem Partner vertraut maachen. Dës éiweg Verbindung sollt duerch en zolitte Bond geséchert ginn, mat der Absicht, Harmonie, Verbonnenheet an Eenheet ze fërderen an éiwegt Liewen ze kréien.‘Abdu’l‑BaháD’Hochzäitsverspriechen, de Vers, deen am Kitáb-i-Aqdas (dem Hellegste Buch) festgeluecht ass, an deen eenzel vun der Braut an dem Bräitchemann an der Präsenz vun op mannst zwee Zeien, déi de geeschtege Rot akzeptéiert, ze soen ass, ass deen hei:*„Mir wëllen eis all, wierklech, un de Wëlle Gottes halen“.Hien ass Deen, dee schenkt, de Generéisen!Gelueft sief Gott, den Uréiwegen, den Ëmmerbestoenden, den Onverännerlechen, den Éiwegen! Hien, deen duerch säin eegent Wiese bezeit, dass Hie wierklech deen Een ass, deen Eenzegen, den Onofhängegen, den Héchsten. Mir bezeien, dass et a Wierklechkeet kee Gott gëtt ausser Him, mir erkenne Seng Eenheet un a bekenne Seng Eenzegkeet. Schonn éiweg wunnt Hien an onzougänglechen Héichten, op de Spëtzte vu Senger Majestéit, gehellegt iwwerem Ernimme vun allem ausser Him selwer, fräi vun all Beschreiwung ausser Senger.A wéi Hie wollt de Mënsche Gnod a gutt Doten erweisen, an d’Welt an d’Rei setzen, huet Hie Reegelen offenbaart a Gesetzer geschaf; ënner anerem huet Hien d’Gesetz vum Bestietnes agefouert, huet et zu enger Buerg vu Wuel a Séilegkeet gemaach an huet eis et virgeschriwwen an deem, wat a Sengem Hellegste Buch aus dem Himmel vun der Hellegkeet erofgeschéckt gouf. Hie sot, grouss ass Seng Herrlechkeet: “Bestuet iech, o Mënschen, fir dass vun iech deen ervirgeet, dee Menger ënner Mengen Dénger gedenkt; dëst ass eent vu Menge Geboter fir iech; haalt iech dorun, well et ass fir äert Bescht.”
 
 -- Bahá'u'lláh
 
-bpn13608 «[Lëtzebuergesch](../lb/prayers/#bpn13608)» 
+bpn13608 
 
 ----
 
@@ -817,7 +818,7 @@ Verherrlecht bass Du, o Här vun der ganzer Schëpfung, deen Een, deem sech alle
 
 -- Bahá'u'lláh
 
-bpn13657 «[Lëtzebuergesch](../lb/prayers/#bpn13657)» 
+bpn13657 
 
 ----
 
@@ -831,7 +832,7 @@ O Gott, Däin Ubléck ass d‘Zil vu menger Ubiedung! Deng Schéinheet ass helle
 
 -- Bahá'u'lláh
 
-bpn13602 «[Lëtzebuergesch](../lb/prayers/#bpn13602)» 
+bpn13602 
 
 ----
 
@@ -841,7 +842,7 @@ O mäi Gott! Ech froen dech, bei Dengem herrlechsten Numm, mir an deem ze hëlle
 
 -- Bahá'u'lláh
 
-bpn13603 «[Lëtzebuergesch](../lb/prayers/#bpn13603)» 
+bpn13603 
 
 ----
 
@@ -851,7 +852,7 @@ O Du Allmächtegen! Gëff Denge Schwaachen Deng Stäerkt, a belief déi, déi w�
 
 -- Bahá'u'lláh
 
-bpn13604 «[Lëtzebuergesch](../lb/prayers/#bpn13604)» 
+bpn13604 
 
 ----
 
@@ -861,7 +862,7 @@ Här! Mir si bematleedenswäert, schenk eis Deng Gonscht; mir sinn aarm, schenk 
 
 -- Abdu'l-Bahá
 
-bpn8214 «[Lëtzebuergesch](../lb/prayers/#bpn8214)» 
+bpn8214 
 
 ----
 
@@ -871,7 +872,7 @@ O Här, raum net de festlechen Dësch of, deen an Dengem Numm gedeckt ass, an er
 
 -- Abdu'l-Bahá
 
-bpn13605 «[Lëtzebuergesch](../lb/prayers/#bpn13605)» 
+bpn13605 
 
 ----
 
@@ -881,7 +882,7 @@ Hien ass de Baarmhäerzegen, de Ganzgeneréisen! O Gott, mäi Gott! Du gesäis m
 
 -- Abdu'l-Bahá
 
-bpn13606 «[Lëtzebuergesch](../lb/prayers/#bpn13606)» 
+bpn13606 
 
 ----
 
@@ -891,7 +892,7 @@ O Du onsiichtbare Frënd!O Verlaange vun allem an dëser Welt an der Welt, déi 
 
 -- Abdu'l-Bahá
 
-bpn13607 «[Lëtzebuergesch](../lb/prayers/#bpn13607)» 
+bpn13607 
 
 ----
 
@@ -905,7 +906,7 @@ O Här! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Gu
 
 -- Abdu'l-Bahá
 
-bpn13609 «[Lëtzebuergesch](../lb/prayers/#bpn13609)» 
+bpn13609 
 
 ----
 
@@ -919,7 +920,7 @@ Gelueft bass Du, o Här mäi Gott! Erméiglech, duerch Deng Gnod, dass dëst Kan
 
 -- Bahá'u'lláh
 
-bpn13610 «[Lëtzebuergesch](../lb/prayers/#bpn13610)» 
+bpn13610 
 
 ----
 
@@ -929,7 +930,7 @@ Verherrlecht bass Du, O Här mäi Gott! Ech soen Dir Merci, dass Du mech an Deng
 
 -- Bahá'u'lláh
 
-bpn13611 «[Lëtzebuergesch](../lb/prayers/#bpn13611)» 
+bpn13611 
 
 ----
 
@@ -939,7 +940,7 @@ O Du onvergläichlechen Här! Nier dëse Puppelchen un der Broscht vun Denger L�
 
 -- Abdu'l-Bahá
 
-bpn13612 «[Lëtzebuergesch](../lb/prayers/#bpn13612)» 
+bpn13612 
 
 ----
 
@@ -949,7 +950,7 @@ O Här! Maach aus dëse Kanner wonnerbar Planzen. Looss se wuessen a gedeien am 
 
 -- Abdu'l-Bahá
 
-bpn13613 «[Lëtzebuergesch](../lb/prayers/#bpn13613)» 
+bpn13613 
 
 ----
 
@@ -959,7 +960,7 @@ Hien ass Gott! O Gott, mäi Gott! Schenk mir en Häerz, sou reng wéi eng Pärel
 
 -- Abdu'l-Bahá
 
-bpn13614 «[Lëtzebuergesch](../lb/prayers/#bpn13614)» 
+bpn13614 
 
 ----
 
@@ -969,7 +970,7 @@ O Gott, leed mech, hal Deng Hand iwwer mech, maach aus mir eng stralend Luucht a
 
 -- Abdu'l-Bahá
 
-bpn13615 «[Lëtzebuergesch](../lb/prayers/#bpn13615)» 
+bpn13615 
 
 ----
 
@@ -979,7 +980,7 @@ O mäin Här! O mäin Här!Ech sinn e Kand am zaarten Alter. Nier mech un der Br
 
 -- Abdu'l-Bahá
 
-bpn13616 «[Lëtzebuergesch](../lb/prayers/#bpn13616)» 
+bpn13616 
 
 ----
 
@@ -989,7 +990,7 @@ O Gott! Erzéi dëst Këndchen am Schouss vun Denger Léift, a gëff him Mëllec
 
 -- Abdu'l-Bahá
 
-bpn13617 «[Lëtzebuergesch](../lb/prayers/#bpn13617)» 
+bpn13617 
 
 ----
 
@@ -999,7 +1000,7 @@ O Gott! Erzéi dës Kanner. Dës Kanner sinn d’Planzen aus Dengem Bongert, d�
 
 -- Abdu'l-Bahá
 
-bpn13618 «[Lëtzebuergesch](../lb/prayers/#bpn13618)» 
+bpn13618 
 
 ----
 
@@ -1009,7 +1010,7 @@ O Du onvergläichlechen Här! Sief Du dësem aarme Kand e Schutz, an dëser veri
 
 -- Abdu'l-Bahá
 
-bpn13619 «[Lëtzebuergesch](../lb/prayers/#bpn13619)» 
+bpn13619 
 
 ----
 
@@ -1019,7 +1020,7 @@ O Du renge Gott! Ech sinn e klengt Kand; maach, dass ech d’Broscht vun Denger 
 
 -- Abdu'l-Bahá
 
-bpn13620 «[Lëtzebuergesch](../lb/prayers/#bpn13620)» 
+bpn13620 
 
 ----
 
@@ -1033,7 +1034,7 @@ O Du gudden Här! Dës häerzeg Kanner sinn d’Wierk vun Denger mächteger Hand
 
 -- Abdu'l-Bahá
 
-bpn8215 «[Lëtzebuergesch](../lb/prayers/#bpn8215)» 
+bpn8215 
 
 ----
 
@@ -1043,7 +1044,7 @@ O Här ! Ech si schwaach, stäerk mech mat Denger Kraaft a Muecht. Meng Zong zé
 
 -- Abdu'l-Bahá
 
-bpn8209 «[Lëtzebuergesch](../lb/prayers/#bpn8209)» 
+bpn8209 
 
 ----
 
@@ -1053,7 +1054,7 @@ O Här! Stäerk dës zaart  Beemercher, fir datt all eenzelne vun hinnen e Bam m
 
 -- Abdu'l-Bahá
 
-bpn8216 «[Lëtzebuergesch](../lb/prayers/#bpn8216)» 
+bpn8216 
 
 ----
 
@@ -1063,7 +1064,7 @@ O Här ! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng G
 
 -- Abdu'l-Bahá
 
-bpn8208 «[Lëtzebuergesch](../lb/prayers/#bpn8208)» 
+bpn8208 
 
 ----
 
@@ -1077,7 +1078,7 @@ bpn8208 «[Lëtzebuergesch](../lb/prayers/#bpn8208)»
 
 -- Bahá'u'lláh
 
-bpn13664 «[Lëtzebuergesch](../lb/prayers/#bpn13664)» 
+bpn13664 
 
 ----
 
@@ -1091,7 +1092,7 @@ bpn13664 «[Lëtzebuergesch](../lb/prayers/#bpn13664)»
 
 -- Bahá'u'lláh
 
-bpn13666 «[Lëtzebuergesch](../lb/prayers/#bpn13666)» 
+bpn13666 
 
 ----
 
@@ -1105,7 +1106,7 @@ Ech weess net, o mäi Gott, wat d’Feier ass, dat s Du an Dengem Land ugefaange
 
 -- Bahá'u'lláh
 
-bpn13621 «[Lëtzebuergesch](../lb/prayers/#bpn13621)» 
+bpn13621 
 
 ----
 
@@ -1115,7 +1116,7 @@ O gëttlech Vorseeung!Erwäch mech a maach mech bewosst. Looss mech lassgeléist
 
 -- Abdu'l-Bahá
 
-bpn13622 «[Lëtzebuergesch](../lb/prayers/#bpn13622)» 
+bpn13622 
 
 ----
 
@@ -1125,7 +1126,7 @@ O du gudden Här!Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Sé
 
 -- Abdu'l-Bahá
 
-bpn13623 «[Lëtzebuergesch](../lb/prayers/#bpn13623)» 
+bpn13623 
 
 ----
 
@@ -1139,7 +1140,7 @@ Mäi Gott, mäin Ugebieten, mäi Kinnek, mäi Begieren! Wéi eng Wierder kënne 
 
 -- Bahá'u'lláh
 
-bpn13624 «[Lëtzebuergesch](../lb/prayers/#bpn13624)» 
+bpn13624 
 
 ----
 
@@ -1149,7 +1150,7 @@ Hien ass Gott! O Här, wéi solle mir Dir Merci soen! Ouni Grenzen ass Deng Gutt
 
 -- Abdu'l-Bahá
 
-bpn13625 «[Lëtzebuergesch](../lb/prayers/#bpn13625)» 
+bpn13625 
 
 ----
 
@@ -1159,7 +1160,7 @@ Hien ass Gott.O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awu
 
 -- Abdu'l-Bahá
 
-bpn13626 «[Lëtzebuergesch](../lb/prayers/#bpn13626)» 
+bpn13626 
 
 ----
 
@@ -1169,7 +1170,7 @@ Hien ass den Allherrlechen, de Stralendsten.O gëttlech Vorseeung, o verzeienden
 
 -- Abdu'l-Bahá
 
-bpn13627 «[Lëtzebuergesch](../lb/prayers/#bpn13627)» 
+bpn13627 
 
 ----
 
@@ -1183,7 +1184,7 @@ Mäin Här! Mäin Här! Ech luewen Dech an ech sinn Dir dankbar fir d‘Gonscht 
 
 -- Abdu'l-Bahá
 
-bpn13628 «[Lëtzebuergesch](../lb/prayers/#bpn13628)» 
+bpn13628 
 
 ----
 
@@ -1197,7 +1198,7 @@ Looss all Moie besser si wéi den Owend virdrun an all neien Dag méi räich wé
 
 -- Abdu'l-Bahá
 
-bpn13630 «[Lëtzebuergesch](../lb/prayers/#bpn13630)» 
+bpn13630 
 
 ----
 
@@ -1207,7 +1208,7 @@ An Dengem Ënnerdaach sinn ech erwächt, o mäi Gott, an et gehéiert sech deem,
 
 -- Abdu'l-Bahá
 
-bpn13631 «[Lëtzebuergesch](../lb/prayers/#bpn13631)» 
+bpn13631 
 
 ----
 
@@ -1217,7 +1218,7 @@ O mäi Gott a mäi Meeschter! Ech sinn däin Dénger an de Jong vun dengem Déng
 
 -- Abdu'l-Bahá
 
-bpn13632 «[Lëtzebuergesch](../lb/prayers/#bpn13632)» 
+bpn13632 
 
 ----
 
@@ -1227,7 +1228,7 @@ Duerch Deng Gnod, o mäi Gott, sinn ech haut de Moien opgestan, a voll Vertrauen
 
 -- Abdu'l-Bahá
 
-bpn13633 «[Lëtzebuergesch](../lb/prayers/#bpn13633)» 
+bpn13633 
 
 ----
 
@@ -1237,7 +1238,7 @@ Ech luewen Dech, O mäi Gott, dass Du mech aus mengem Schlof erwächt hues an da
 
 -- Abdu'l-Bahá
 
-bpn13634 «[Lëtzebuergesch](../lb/prayers/#bpn13634)» 
+bpn13634 
 
 ----
 
@@ -1251,7 +1252,7 @@ bpn13634 «[Lëtzebuergesch](../lb/prayers/#bpn13634)»
 
 -- Bahá'u'lláh
 
-bpn13665 «[Lëtzebuergesch](../lb/prayers/#bpn13665)» 
+bpn13665 
 
 ----
 
@@ -1265,7 +1266,7 @@ O du, deen no der Wourecht sicht! Wann s du gär häss, dass Gott deng Aen opmé
 
 -- Abdu'l-Bahá
 
-bpn13629 «[Lëtzebuergesch](../lb/prayers/#bpn13629)» 
+bpn13629 
 
 ----
 
@@ -1275,11 +1276,11 @@ bpn13629 «[Lëtzebuergesch](../lb/prayers/#bpn13629)»
 ## Naw-Rúz
 
 <a id="bpn13658"></a> 
-*Naw-Rúz, den 20. oder 21. Mäerz, den éischten Dag vum Bahá&#39;í Joer.Gelueft bass Du, o mäi Gott, dass Du Naw-Rúz deenen zum Fest bestëmmt hues, déi d’Faaschten aus Léift zu Dir agehal hunn a sech allem enthal hunn, wat s Du haass. Erlab, o mäi Gott, dass d’Feier vun Denger Léift an d’Hëtzt, déi sech aus deem vun Dir bestëmmte Faaschten entwéckelt, si an Denger Saach entflamen, an dass si sech doduerch Dengem Luef an Dengem Gedenken higinn.O mäin Här, Du hues si mam Ornament vum Faaschten, wat s Du virschreifs, beschenkt; dofir verschéiner Du si och, duerch Deng Gnod a generéis Gonscht, mam Ornament vun Denger Akzeptanz. Well d’Dote vun de Mënschen hänken all vun Dengem gudde Wëllen of, a gi vun Denge Geboter bestëmmt. Géifs Du Deen, deen d’Faaschte gebrach huet, als een ugesinn, deen et agehal huet, da géif esou e Mënsch zu deene gezielt ginn, déi zënter aller Éiwegkeet d’Faaschten agehal hunn. A géifs Du bestëmmen, dass een, deen d’Faaschten agehal huet, et gebrach hätt, sou géif déi Persoun zu deene gezielt ginn, déi d’Kleed vun Denger Offenbarung mat Stëbs beknascht hunn a wäit ewech si vum kristallklore Waasser vun dëser Liewensquell.Duerch Dech gouf de Banner „Gelueft bass Du an Denge Wierker“ erhuewen an de Fändel „Gefollegt gëtt Dir an Dengem Gebot“ auserneegefaalt. O mäi Gott, maach Dengen Dénger däi Rang bekannt, fir dass hinne bewosst gëtt, dass dat Bescht an allem vun Dengem Befeel an Dengem Wuert ofhänkt, an dass de Wäert vun all Dot bestëmmt ass duerch dat, wat s Du erlaabs a wat dengem Wëlle gefält, an dass si erkennen, dass d’Zigel vun all deem, wat de Mënsch mécht, fest am Grëff vun Denger Akzeptanz an Dengem Uerder leien. Looss si dat wëssen, fir dass guer näischt si vun Denger Schéinheet ausschléisse kann, an dësen Deeg, wou Christus verkënnegt: „All Herrschaft ass Deng, o Du Papp vum Geescht (Jesus)“ ; an Däi Frënd (Mohammed) ausrifft: “Gelueft bass Du, o Du, dee jiddweree gär huet, well Du hues Deng Schéinheet opgedeckt, a fir Deng Auserwielten dat niddergeschriwwen, wat si zum Troun vun der Offenbarung vun Dengem Gréissten Numm leet, engem Numm, deen d’Mënsche jéimeren deet, ausser déi, déi sech vun allem ausser Dir lassgeléist hunn, a sech Him, dem Offenbarer vun Dir selwer an der Manifestatioun vun Dengen Eegenschaften, zougedréit hunn.“O mäin Här, deen, deen Däin Aascht ass an all déi ronderëm Dech sinn, hunn haut mat Faaschten opgehal, no deem si an hirem Äifer, Dir ze gefalen, et am Beräich vun Dengem Haff agehal hunn. Bestëmm Du fir hien, a fir si, a fir all déi, déi an dësen Deeg an Deng Géigewaart koumen, all dat Gutt, dat s Du an Dengem Buch bestëmmt hues. Gëff hinnen dann, wat hinne souwuel an dësem Liewen an am Liewen duerno nëtzt.Du bass wierklech den Allwëssenden, den Allweisen.
+*Naw-Rúz, den 20. oder 21. Mäerz, den éischten Dag vum Bahá'í Joer.Gelueft bass Du, o mäi Gott, dass Du Naw-Rúz deenen zum Fest bestëmmt hues, déi d’Faaschten aus Léift zu Dir agehal hunn a sech allem enthal hunn, wat s Du haass. Erlab, o mäi Gott, dass d’Feier vun Denger Léift an d’Hëtzt, déi sech aus deem vun Dir bestëmmte Faaschten entwéckelt, si an Denger Saach entflamen, an dass si sech doduerch Dengem Luef an Dengem Gedenken higinn.O mäin Här, Du hues si mam Ornament vum Faaschten, wat s Du virschreifs, beschenkt; dofir verschéiner Du si och, duerch Deng Gnod a generéis Gonscht, mam Ornament vun Denger Akzeptanz. Well d’Dote vun de Mënschen hänken all vun Dengem gudde Wëllen of, a gi vun Denge Geboter bestëmmt. Géifs Du Deen, deen d’Faaschte gebrach huet, als een ugesinn, deen et agehal huet, da géif esou e Mënsch zu deene gezielt ginn, déi zënter aller Éiwegkeet d’Faaschten agehal hunn. A géifs Du bestëmmen, dass een, deen d’Faaschten agehal huet, et gebrach hätt, sou géif déi Persoun zu deene gezielt ginn, déi d’Kleed vun Denger Offenbarung mat Stëbs beknascht hunn a wäit ewech si vum kristallklore Waasser vun dëser Liewensquell.Duerch Dech gouf de Banner „Gelueft bass Du an Denge Wierker“ erhuewen an de Fändel „Gefollegt gëtt Dir an Dengem Gebot“ auserneegefaalt. O mäi Gott, maach Dengen Dénger däi Rang bekannt, fir dass hinne bewosst gëtt, dass dat Bescht an allem vun Dengem Befeel an Dengem Wuert ofhänkt, an dass de Wäert vun all Dot bestëmmt ass duerch dat, wat s Du erlaabs a wat dengem Wëlle gefält, an dass si erkennen, dass d’Zigel vun all deem, wat de Mënsch mécht, fest am Grëff vun Denger Akzeptanz an Dengem Uerder leien. Looss si dat wëssen, fir dass guer näischt si vun Denger Schéinheet ausschléisse kann, an dësen Deeg, wou Christus verkënnegt: „All Herrschaft ass Deng, o Du Papp vum Geescht (Jesus)“ ; an Däi Frënd (Mohammed) ausrifft: “Gelueft bass Du, o Du, dee jiddweree gär huet, well Du hues Deng Schéinheet opgedeckt, a fir Deng Auserwielten dat niddergeschriwwen, wat si zum Troun vun der Offenbarung vun Dengem Gréissten Numm leet, engem Numm, deen d’Mënsche jéimeren deet, ausser déi, déi sech vun allem ausser Dir lassgeléist hunn, a sech Him, dem Offenbarer vun Dir selwer an der Manifestatioun vun Dengen Eegenschaften, zougedréit hunn.“O mäin Här, deen, deen Däin Aascht ass an all déi ronderëm Dech sinn, hunn haut mat Faaschten opgehal, no deem si an hirem Äifer, Dir ze gefalen, et am Beräich vun Dengem Haff agehal hunn. Bestëmm Du fir hien, a fir si, a fir all déi, déi an dësen Deeg an Deng Géigewaart koumen, all dat Gutt, dat s Du an Dengem Buch bestëmmt hues. Gëff hinnen dann, wat hinne souwuel an dësem Liewen an am Liewen duerno nëtzt.Du bass wierklech den Allwëssenden, den Allweisen.
 
 -- Bahá'u'lláh
 
-bpn13658 «[Lëtzebuergesch](../lb/prayers/#bpn13658)» 
+bpn13658 
 
 ----
 
@@ -1293,7 +1294,7 @@ O mäi Gott, mäi Meeschter, d’Zil vu mengem Verlaangeren. Däin Dénger wëll
 
 -- Bahá'u'lláh
 
-bpn13635 «[Lëtzebuergesch](../lb/prayers/#bpn13635)» 
+bpn13635 
 
 ----
 
@@ -1303,7 +1304,7 @@ Wéi kann ech Schlof sichen, o Gott, mäi Gott, wann d’Ae vun deenen, déi no 
 
 -- Bahá'u'lláh
 
-bpn13636 «[Lëtzebuergesch](../lb/prayers/#bpn13636)» 
+bpn13636 
 
 ----
 
@@ -1317,7 +1318,7 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 
 -- Abdu'l-Bahá
 
-bpn8212 «[Lëtzebuergesch](../lb/prayers/#bpn8212)» 
+bpn8212 
 
 ----
 
@@ -1331,7 +1332,7 @@ bpn8212 «[Lëtzebuergesch](../lb/prayers/#bpn8212)»
 
 -- Bahá'u'lláh
 
-bpn13638 «[Lëtzebuergesch](../lb/prayers/#bpn13638)» 
+bpn13638 
 
 ----
 
@@ -1341,7 +1342,7 @@ bpn13638 «[Lëtzebuergesch](../lb/prayers/#bpn13638)»
 
 -- Báb
 
-bpn13637 «[Lëtzebuergesch](../lb/prayers/#bpn13637)» 
+bpn13637 
 
 ----
 
@@ -1351,7 +1352,7 @@ O mäin Här! Du weess dass d’Mënschen ëmzéngelt si vu Leed a Misär, an ë
 
 -- Abdu'l-Bahá
 
-bpn13639 «[Lëtzebuergesch](../lb/prayers/#bpn13639)» 
+bpn13639 
 
 ----
 
@@ -1361,7 +1362,7 @@ O Du gudden Här!Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger Lé
 
 -- Abdu'l-Bahá
 
-bpn13640 «[Lëtzebuergesch](../lb/prayers/#bpn13640)» 
+bpn13640 
 
 ----
 
@@ -1371,7 +1372,7 @@ Hien ass Gott.O Gott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damid
 
 -- Abdu'l-Bahá
 
-bpn13641 «[Lëtzebuergesch](../lb/prayers/#bpn13641)» 
+bpn13641 
 
 ----
 
@@ -1385,7 +1386,7 @@ O Här, mäi Gott! Stéi deene bäi, déi s Du gär hues, fir dass si fest an De
 
 -- Abdu'l-Bahá
 
-bpn13642 «[Lëtzebuergesch](../lb/prayers/#bpn13642)» 
+bpn13642 
 
 ----
 
@@ -1399,7 +1400,7 @@ bpn13642 «[Lëtzebuergesch](../lb/prayers/#bpn13642)»
 
 -- Bahá'u'lláh
 
-bpn13661 «[Lëtzebuergesch](../lb/prayers/#bpn13661)» 
+bpn13661 
 
 ----
 
@@ -1413,7 +1414,7 @@ Kommt zesummen a gréisster Freed a sot dëst Gebiet am Ufank vun der Versammlun
 
 -- Abdu'l-Bahá
 
-bpn13659 «[Lëtzebuergesch](../lb/prayers/#bpn13659)» 
+bpn13659 
 
 ----
 
@@ -1423,7 +1424,7 @@ Hien ass den Allherrlechen.O mäin Här, mäi Kinnek, mäin Herrscher, a mäi So
 
 -- Abdu'l-Bahá
 
-bpn13660 «[Lëtzebuergesch](../lb/prayers/#bpn13660)» 
+bpn13660 
 
 ----
 
@@ -1433,11 +1434,11 @@ bpn13660 «[Lëtzebuergesch](../lb/prayers/#bpn13660)»
 ## Verstuerwen
 
 <a id="bpn13643"></a> 
-*Dëst Gebiet sollt am Ufank vun der Andeelung fir déi Verstuerwe stoen D‘Gebiet fir déi Verstuerwen ass dat eenzegt obligatorescht Bahá&#39;í Gebiet, wat an der Kongregatioun ze rezitéieren ass; et gëtt vun engem Gleewege rezitéiert, iwwerdeems all déi, déi do sinn, an der Stëll do stinn. Bahá’u’lláh huet erkläert, dass dëst Gebiet nëmmen néideg ass, wann de Verstuerwenen iwwer fofzéng Joer al ass, dass et muss gesot ginn, ier d‘Doudelued an d‘Graf erofgelooss gëtt, an dass et net néideg ass, sech der Qiblih zouzedréien, wann et gesot gëtt. „Alláh-u-Abhá“ gëtt eemol gesot; da gëtt den éischte vun de sechs Verser nonzéngmol gesot. Da gëtt „Alláh-u-Abhá“ nees gesot, suivéiert vum zweete Vers, deen dann nongzéngmol gesot gëtt, a sou weider.O mäi Gott! Dat hei ass däin Dénger an de Jong vun Dengem Dénger, deen un Dech an un Deng Zeeche gegleeft huet, an deen Dir säi Bléck zougedréint huet, ganz lassgeléist vun allem ausser Dir. Du bass wierklech, vun deenen déi Baarmhäerzegkeet weisen, de Baarmhäerzegsten.Géi sou mat him ëm, O Du, deen s Du de Mënschen hir Sënne verzeis an hir Feeler verdecks, wéi et dem Himmel vun Denger Generositéit an dem Mier vun Denger Gnod entsprécht. Huel hien op an d’Räich vun dengem himmleschen Erbaarmen, wat virun der Schëpfung vun Himmel an Äerd war. Et gëtt kee Gott ausser Dir, dem Ëmmerverzeienden, dem Generéisten.Looss hien da sechsmol d’Begréissung „Alláh-u-Abhá” widderhuelen an dann nonzéngmol jiddweree vun de folgende Verse soen:A Wierklechkeet biede mir all Gott un.A Wierklechkeet verneige mir eis all viru Gott.A Wierklechkeet gi mir eis all Gott hin.A Wierklechkeet luewe mir all Gott.A Wierklechkeet soe mir all Gott Merci.A Wierklechkeet si mir all gedëlleg a Gott.*Wann den Doudegen eng Fra ass, seet een: “Hei ass Deng Mod an d’Duechter vun Denger Mod ....”
+*Dëst Gebiet sollt am Ufank vun der Andeelung fir déi Verstuerwe stoen D‘Gebiet fir déi Verstuerwen ass dat eenzegt obligatorescht Bahá'í Gebiet, wat an der Kongregatioun ze rezitéieren ass; et gëtt vun engem Gleewege rezitéiert, iwwerdeems all déi, déi do sinn, an der Stëll do stinn. Bahá’u’lláh huet erkläert, dass dëst Gebiet nëmmen néideg ass, wann de Verstuerwenen iwwer fofzéng Joer al ass, dass et muss gesot ginn, ier d‘Doudelued an d‘Graf erofgelooss gëtt, an dass et net néideg ass, sech der Qiblih zouzedréien, wann et gesot gëtt. „Alláh-u-Abhá“ gëtt eemol gesot; da gëtt den éischte vun de sechs Verser nonzéngmol gesot. Da gëtt „Alláh-u-Abhá“ nees gesot, suivéiert vum zweete Vers, deen dann nongzéngmol gesot gëtt, a sou weider.O mäi Gott! Dat hei ass däin Dénger an de Jong vun Dengem Dénger, deen un Dech an un Deng Zeeche gegleeft huet, an deen Dir säi Bléck zougedréint huet, ganz lassgeléist vun allem ausser Dir. Du bass wierklech, vun deenen déi Baarmhäerzegkeet weisen, de Baarmhäerzegsten.Géi sou mat him ëm, O Du, deen s Du de Mënschen hir Sënne verzeis an hir Feeler verdecks, wéi et dem Himmel vun Denger Generositéit an dem Mier vun Denger Gnod entsprécht. Huel hien op an d’Räich vun dengem himmleschen Erbaarmen, wat virun der Schëpfung vun Himmel an Äerd war. Et gëtt kee Gott ausser Dir, dem Ëmmerverzeienden, dem Generéisten.Looss hien da sechsmol d’Begréissung „Alláh-u-Abhá” widderhuelen an dann nonzéngmol jiddweree vun de folgende Verse soen:A Wierklechkeet biede mir all Gott un.A Wierklechkeet verneige mir eis all viru Gott.A Wierklechkeet gi mir eis all Gott hin.A Wierklechkeet luewe mir all Gott.A Wierklechkeet soe mir all Gott Merci.A Wierklechkeet si mir all gedëlleg a Gott.*Wann den Doudegen eng Fra ass, seet een: “Hei ass Deng Mod an d’Duechter vun Denger Mod ....”
 
 -- Bahá'u'lláh
 
-bpn13643 «[Lëtzebuergesch](../lb/prayers/#bpn13643)» 
+bpn13643 
 
 ----
 
@@ -1447,7 +1448,7 @@ O JONG VUN DER EXISTENZ! Lee dir selwer all Dag Rechenschaft of, éier s du zur 
 
 -- Bahá'u'lláh
 
-bpn13644 «[Lëtzebuergesch](../lb/prayers/#bpn13644)» 
+bpn13644 
 
 ----
 
@@ -1457,7 +1458,7 @@ Erlab, o mäin Här, dass déi, déi zu Dir eropkomm sinn, an Dir, dem beschte K
 
 -- Bahá'u'lláh
 
-bpn13645 «[Lëtzebuergesch](../lb/prayers/#bpn13645)» 
+bpn13645 
 
 ----
 
@@ -1467,7 +1468,7 @@ So: O Gott, mäi Gott! Du hues mengen Hänn e Schaz vun Dir uvertraut, an no Den
 
 -- Bahá'u'lláh
 
-bpn13646 «[Lëtzebuergesch](../lb/prayers/#bpn13646)» 
+bpn13646 
 
 ----
 
@@ -1477,7 +1478,7 @@ O Du, dee gëtt, O Du, dee verzeit!Eng nobel Séil ass an d’Kinnekräich vun d
 
 -- Abdu'l-Bahá
 
-bpn13647 «[Lëtzebuergesch](../lb/prayers/#bpn13647)» 
+bpn13647 
 
 ----
 
@@ -1487,7 +1488,7 @@ Hien ass Gott.O Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës s
 
 -- Abdu'l-Bahá
 
-bpn13648 «[Lëtzebuergesch](../lb/prayers/#bpn13648)» 
+bpn13648 
 
 ----
 
@@ -1497,7 +1498,7 @@ O gëttlech Vorseeung, Du bass den Ëmmerverzeienden!O Du allmächtege Gott, Du 
 
 -- Abdu'l-Bahá
 
-bpn13649 «[Lëtzebuergesch](../lb/prayers/#bpn13649)» 
+bpn13649 
 
 ----
 
@@ -1511,7 +1512,7 @@ Ech bieden Dech mir ze verzeien, o mäin Här, fir d‘Ernimme vun allem ausser 
 
 -- Báb
 
-bpn13650 «[Lëtzebuergesch](../lb/prayers/#bpn13650)» 
+bpn13650 
 
 ----
 
@@ -1521,7 +1522,7 @@ bpn13650 «[Lëtzebuergesch](../lb/prayers/#bpn13650)»
 
 -- Báb
 
-bpn13651 «[Lëtzebuergesch](../lb/prayers/#bpn13651)» 
+bpn13651 
 
 ----
 
@@ -1531,7 +1532,7 @@ O Här!Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an d
 
 -- Abdu'l-Bahá
 
-bpn13652 «[Lëtzebuergesch](../lb/prayers/#bpn13652)» 
+bpn13652 
 
 ----
 

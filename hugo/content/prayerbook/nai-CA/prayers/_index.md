@@ -5,6 +5,7 @@ tags = ['lang=nai-CA', 'prayerbook']
 
 
 
+
 [Blackfoot / Siksika](#Blackfoot+%2F+Siksika)
 
 [Chippewa](#Chippewa)
@@ -51,7 +52,7 @@ Kitsíneh’ka-seemee tóXta-sókimoX-see, áh-yoh Apistotokee, ki ikúmoks-tay-
 
 -- Bahá'u'lláh
 
-bpn4150 «[Canadian Indigenous](../nai-CA/prayers/#bpn4150)» 
+bpn4150 
 
 ----
 
@@ -61,7 +62,7 @@ Atsée-moyeh’kapee un-óm, ki kokónahn, keetáw-pop, ki akápeeyoyis, kyoos-k
 
 -- Bahá'u'lláh
 
-bpn4149 «[Canadian Indigenous](../nai-CA/prayers/#bpn4149)» 
+bpn4149 
 
 ----
 
@@ -71,7 +72,7 @@ Apistotokeewa keeták-oXkotspómok-owa, kútat-sits-eéh’pa keeták-oXkot-spom
 
 -- Báb
 
-bpn4148 «[Canadian Indigenous](../nai-CA/prayers/#bpn4148)» 
+bpn4148 
 
 ----
 
@@ -85,7 +86,7 @@ Sigakundjigauso peendji okitahgisiwinug dibishko wigiwam, gahyay o-ahbinass, oda
 
 -- Bahá'u'lláh
 
-bpn4151 «[Canadian Indigenous](../nai-CA/prayers/#bpn4151)» 
+bpn4151 
 
 ----
 
@@ -95,11 +96,11 @@ bpn4151 «[Canadian Indigenous](../nai-CA/prayers/#bpn4151)»
 ## Cowichan Hul&#39;q&#39;umi&#39;num&#39;
 
 <a id="bpn4138"></a> 
-He He Tu i&#39; nul, &#39;i&#39; thu lelum&#39;, &#39;i&#39; thu shhw&#39; i, &#39;i&#39; thu ha lelum&#39;, &#39;i&#39; thu tthele,  &#39;i&#39; thu smeent, &#39;i&#39; thu shquluts thut,  &#39;i&#39; thu Shwuliwun smeent, &#39;i&#39; thu s&#39;hw uh wets, &#39;i&#39; thu tu mu hw, &#39;i&#39; thu qu a tl qua &#39;i&#39; thu sk w the&#39;, &#39;i&#39; thu spu i hun ni&#39; shni&#39;s tthu Heels Kwushi, &#39;i&#39; tthu he he sti wi&#39; ui.      *Blessed is the spot,and the house,and the place,and the city,and the heart,and the mountain,and the refuge, and the cave,and the valley,and the land,and the sea,and the island,and the meadow where mention of God hath been made and His praise glorified.
+He He Tu i' nul, 'i' thu lelum', 'i' thu shhw' i, 'i' thu ha lelum', 'i' thu tthele,  'i' thu smeent, 'i' thu shquluts thut,  'i' thu Shwuliwun smeent, 'i' thu s'hw uh wets, 'i' thu tu mu hw, 'i' thu qu a tl qua 'i' thu sk w the', 'i' thu spu i hun ni' shni's tthu Heels Kwushi, 'i' tthu he he sti wi' ui.      *Blessed is the spot,and the house,and the place,and the city,and the heart,and the mountain,and the refuge, and the cave,and the valley,and the land,and the sea,and the island,and the meadow where mention of God hath been made and His praise glorified.
 
 -- Bahá'u'lláh
 
-bpn4138 «[Canadian Indigenous](../nai-CA/prayers/#bpn4138)» 
+bpn4138 
 
 ----
 
@@ -113,7 +114,7 @@ Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag
 
 -- Bahá'u'lláh
 
-bpn4152 «[Canadian Indigenous](../nai-CA/prayers/#bpn4152)» 
+bpn4152 
 
 ----
 
@@ -123,11 +124,11 @@ bpn4152 «[Canadian Indigenous](../nai-CA/prayers/#bpn4152)»
 ## Gwich&#39;in
 
 <a id="bpn6851"></a> 
-*&#34;Blessed is the Spot&#34; in the language of the Gwich&#39;in First Nations.BAHA&#39;I EENJIT GIGIINJIKGwiizrii gwijuu&#39;ee gwahtsii,ts&#39;at jii nakhwahzheh,ts&#39;at jii diikaiik&#39;it,ts&#39;at jii diidrii,ts&#39;at ddhah,ts&#39;at galchiijaa,ts&#39;at nin an,ts&#39;at antl&#39;at,ts&#39;at nanh,ts&#39;at chuu choots&#39;at njuu,K&#39;agwaadhat nijin nanh chyah gwaltsaii,ts&#39;at yinji&#39;gwichil&#39;ee ts&#39;at ch&#39;agwahdit.
+*"Blessed is the Spot" in the language of the Gwich'in First Nations.BAHA'I EENJIT GIGIINJIKGwiizrii gwijuu'ee gwahtsii,ts'at jii nakhwahzheh,ts'at jii diikaiik'it,ts'at jii diidrii,ts'at ddhah,ts'at galchiijaa,ts'at nin an,ts'at antl'at,ts'at nanh,ts'at chuu choots'at njuu,K'agwaadhat nijin nanh chyah gwaltsaii,ts'at yinji'gwichil'ee ts'at ch'agwahdit.
 
 -- Bahá'u'lláh
 
-bpn6851 «[Canadian Indigenous](../nai-CA/prayers/#bpn6851)» 
+bpn6851 
 
 ----
 
@@ -141,7 +142,7 @@ Xe Xe Tsitsulth siem xe xe uy un st’i’wi’ulthNilth nuw ‘uy’ nu slhexun
 
 -- Bahá'u'lláh
 
-bpn8005 «[Canadian Indigenous](../nai-CA/prayers/#bpn8005)» 
+bpn8005 
 
 ----
 
@@ -151,7 +152,7 @@ bpn8005 «[Canadian Indigenous](../nai-CA/prayers/#bpn8005)»
 
 -- Bahá'u'lláh
 
-bpn8004 «[Canadian Indigenous](../nai-CA/prayers/#bpn8004)» 
+bpn8004 
 
 ----
 
@@ -165,7 +166,7 @@ Sah-sén-na ne se-wa-kie-wen-tá-kwa O a-ge-Ni-yo, ta-non, ji-kon-yeh-ya-ráh-kw
 
 -- Bahá'u'lláh
 
-bpn4158 «[Canadian Indigenous](../nai-CA/prayers/#bpn4158)» 
+bpn4158 
 
 ----
 
@@ -175,7 +176,7 @@ Yo-tás-kat ka-non-ni-yo-kweń-ra-re noń-kwe ji-ka-non-so-te ó-ni ji-ye-ná-ke
 
 -- Bahá'u'lláh
 
-bpn4157 «[Canadian Indigenous](../nai-CA/prayers/#bpn4157)» 
+bpn4157 
 
 ----
 
@@ -185,7 +186,7 @@ Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne we
 
 -- Báb
 
-bpn4159 «[Canadian Indigenous](../nai-CA/prayers/#bpn4159)» 
+bpn4159 
 
 ----
 
@@ -199,7 +200,7 @@ O NISKAMINU! O NISKAMINU! MAWA’TU UKKAMLAMUNWAL KTLUKOWINUMK, AQQ KINUA’TU T
 
 -- Abdu'l-Bahá
 
-bpn4162 «[Canadian Indigenous](../nai-CA/prayers/#bpn4162)» 
+bpn4162 
 
 ----
 
@@ -213,7 +214,7 @@ Wa-geh-ni-wha-gwa-risi, Ook Nkyo, Neh Ihse dá-ká-dis-son ne á-gon/yen-dé-rih
 
 -- Bahá'u'lláh
 
-bpn4163 «[Canadian Indigenous](../nai-CA/prayers/#bpn4163)» 
+bpn4163 
 
 ----
 
@@ -223,11 +224,11 @@ bpn4163 «[Canadian Indigenous](../nai-CA/prayers/#bpn4163)»
 ## Northern Tutchone
 
 <a id="bpn6852"></a> 
-*(Na  Ité ithui, ethui ninghinta sothan eyínjyái Hutsha-dun, itsua, iney, imiua, ijya:* Blessed is the SpotNinghinta Sothan JaülNinghinta sothan jaül, na ku, na jaül, na kashee,Na etsi, na dhawe, so-aji, nund ninachi,Na unclout, na nünd, mun sa&#39;cho, chui, tl&#39;ok caüaJáüa úzhi Ilé ilsi, Ilé uhuaná sulhan.
+*(Na  Ité ithui, ethui ninghinta sothan eyínjyái Hutsha-dun, itsua, iney, imiua, ijya:* Blessed is the SpotNinghinta Sothan JaülNinghinta sothan jaül, na ku, na jaül, na kashee,Na etsi, na dhawe, so-aji, nund ninachi,Na unclout, na nünd, mun sa'cho, chui, tl'ok caüaJáüa úzhi Ilé ilsi, Ilé uhuaná sulhan.
 
 -- Bahá'u'lláh
 
-bpn6852 «[Canadian Indigenous](../nai-CA/prayers/#bpn6852)» 
+bpn6852 
 
 ----
 
@@ -241,7 +242,7 @@ yodásgats ji? yojisdóhgwale? kale? ji nú niganuhzode?, kale ji? ganådáyΛ? 
 
 -- Bahá'u'lláh
 
-bpn4172 «[Canadian Indigenous](../nai-CA/prayers/#bpn4172)» 
+bpn4172 
 
 ----
 
@@ -251,7 +252,7 @@ gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniy
 
 -- Báb
 
-bpn4173 «[Canadian Indigenous](../nai-CA/prayers/#bpn4173)» 
+bpn4173 
 
 ----
 
@@ -261,31 +262,31 @@ bpn4173 «[Canadian Indigenous](../nai-CA/prayers/#bpn4173)»
 ## Schuswap
 
 <a id="bpn6859"></a> 
-*The Short Obligatory Prayer in the Schuswap LanguageTqeltk-kukwpi7 tk&#39;wem7`i7plentsmees Kuk&#39;lentsemc es tselxmsts`inell es xeymstsinMe7 lex`e&#39;yents`utst-ken pyinren sqwenqw`eqwnt ell re newi7xyum re7 sxex`e7Ta7 k swets tsukw re newi7Tqeltk K`ukwpi7 tikwemt`us reskn`uncwentsemc e m-qwenqwent wiwelc-wenXex`e7-k w7ec re yucwmens-tsutucw
+*The Short Obligatory Prayer in the Schuswap LanguageTqeltk-kukwpi7 tk'wem7`i7plentsmees Kuk'lentsemc es tselxmsts`inell es xeymstsinMe7 lex`e'yents`utst-ken pyinren sqwenqw`eqwnt ell re newi7xyum re7 sxex`e7Ta7 k swets tsukw re newi7Tqeltk K`ukwpi7 tikwemt`us reskn`uncwentsemc e m-qwenqwent wiwelc-wenXex`e7-k w7ec re yucwmens-tsutucw
 
 -- Bahá'u'lláh
 
-bpn6859 «[Canadian Indigenous](../nai-CA/prayers/#bpn6859)» 
+bpn6859 
 
 ----
 
 
 <a id="bpn6858"></a> 
-*O God Guide Me (in the Shuswap Language)Tqeltk  K`ukwpi7  ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`etkwen re s7i7llcwre cucuw`ell t&#39;s`ilemte xyum te sek`usen&#39;t
+*O God Guide Me (in the Shuswap Language)Tqeltk  K`ukwpi7  ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`etkwen re s7i7llcwre cucuw`ell t's`ilemte xyum te sek`usen't
 
 -- Abdu'l-Bahá
 
-bpn6858 «[Canadian Indigenous](../nai-CA/prayers/#bpn6858)» 
+bpn6858 
 
 ----
 
 
 <a id="bpn4146"></a> 
-Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`etkwen re s7i7llcwre cucuw`ell t&#39;s`ilemte xyum te sek`usen&#39;t*O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Thou art the Mighty and the Powerful.
+Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`etkwen re s7i7llcwre cucuw`ell t's`ilemte xyum te sek`usen't*O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Thou art the Mighty and the Powerful.
 
 -- Abdu'l-Bahá
 
-bpn4146 «[Canadian Indigenous](../nai-CA/prayers/#bpn4146)» 
+bpn4146 
 
 ----
 
@@ -295,11 +296,11 @@ bpn4146 «[Canadian Indigenous](../nai-CA/prayers/#bpn4146)»
 ## Sliammon
 
 <a id="bpn4147"></a> 
-Oh kw shet hegus, Poleset toh nehs, kweh eh sheet, hega tah ah yehs, nehs klumes, nehs tah kluk kweh ahs, hega tah t&#39;akt, hega tah tapas, hega tah sapet, hega tah geejah, hega tah cheh, hega tah kwuthys, kw ty ty nigit nons kw shet hegus.  Yeech kw cheh hum. Hega tah nisheeyeok, helh awh nehs. *Blessed is the spot,and the house,and the place,and the city,and the heart,and the mountain,and the refuge, and the cave,and the valley,and the land,and the sea,and the island,and the meadow where mention of God hath been made and His praise glorified.
+Oh kw shet hegus, Poleset toh nehs, kweh eh sheet, hega tah ah yehs, nehs klumes, nehs tah kluk kweh ahs, hega tah t'akt, hega tah tapas, hega tah sapet, hega tah geejah, hega tah cheh, hega tah kwuthys, kw ty ty nigit nons kw shet hegus.  Yeech kw cheh hum. Hega tah nisheeyeok, helh awh nehs. *Blessed is the spot,and the house,and the place,and the city,and the heart,and the mountain,and the refuge, and the cave,and the valley,and the land,and the sea,and the island,and the meadow where mention of God hath been made and His praise glorified.
 
 -- Bahá'u'lláh
 
-bpn4147 «[Canadian Indigenous](../nai-CA/prayers/#bpn4147)» 
+bpn4147 
 
 ----
 
@@ -309,11 +310,11 @@ bpn4147 «[Canadian Indigenous](../nai-CA/prayers/#bpn4147)»
 ## Smalgyax-Tsimshian
 
 <a id="bpn6856"></a> 
-*&#34;O God, Guide Me&#34; in Sm&#39;algyax, the language of the Tsimshian Peoples.O Miyaani               Da&#39;a&#39;ntgi               Lusndaamti              sü gugweelksm laawksi   ada so goy&#39;p&#39;m biyaalsi.and  Nüün gu daanmsgit        di£ na gatgyedn
+*"O God, Guide Me" in Sm'algyax, the language of the Tsimshian Peoples.O Miyaani               Da'a'ntgi               Lusndaamti              sü gugweelksm laawksi   ada so goy'p'm biyaalsi.and  Nüün gu daanmsgit        di£ na gatgyedn
 
 -- Bahá'u'lláh
 
-bpn6856 «[Canadian Indigenous](../nai-CA/prayers/#bpn6856)» 
+bpn6856 
 
 ----
 
@@ -323,11 +324,11 @@ bpn6856 «[Canadian Indigenous](../nai-CA/prayers/#bpn6856)»
 ## Sm’algyax
 
 <a id="bpn4137"></a> 
-O Miyaani Da&#39;a&#39;ntgi Lusndaamti sü gugweelksm laawksi ada so goy&#39;p&#39;m biyaalsi.and Nüün gu daanmsgit di£ na gatgyedn.              *O God, Guide me protect me make of me a shining lamp and a brilliant star. Thou art the Mighty  And the Powerful.
+O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm laawksi ada so goy'p'm biyaalsi.and Nüün gu daanmsgit di£ na gatgyedn.              *O God, Guide me protect me make of me a shining lamp and a brilliant star. Thou art the Mighty  And the Powerful.
 
 -- Abdu'l-Bahá
 
-bpn4137 «[Canadian Indigenous](../nai-CA/prayers/#bpn4137)» 
+bpn4137 
 
 ----
 
@@ -337,21 +338,21 @@ bpn4137 «[Canadian Indigenous](../nai-CA/prayers/#bpn4137)»
 ## Stolo Shxweli Halqemeylem
 
 <a id="bpn6853"></a> 
-*The prayer &#34;Blessed is the Spot&#34;  in Stó:lõ Shxweli Halq&#39;eméylem, the language of the Soowahlie People.Le plist te shxweli      Qas te lalem             Qas te shxweli           Qas te tówel            Qas te th&#39;ale           Qas te smelmalt         Qas shxwelis eyolemthét Qas te siyótkõwel       Qas te spelhqél         Qas te téméxw           Qas te kw&#39;otl&#39;kwa       Qas te tl&#39;chá:s         Qas te spelhqél         Shxwelis kwes qwelesem te chichelk Siyam shxwelis seys kwes thelhílem
+*The prayer "Blessed is the Spot"  in Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People.Le plist te shxweli      Qas te lalem             Qas te shxweli           Qas te tówel            Qas te th'ale           Qas te smelmalt         Qas shxwelis eyolemthét Qas te siyótkõwel       Qas te spelhqél         Qas te téméxw           Qas te kw'otl'kwa       Qas te tl'chá:s         Qas te spelhqél         Shxwelis kwes qwelesem te chichelk Siyam shxwelis seys kwes thelhílem
 
 -- Bahá'u'lláh
 
-bpn6853 «[Canadian Indigenous](../nai-CA/prayers/#bpn6853)» 
+bpn6853 
 
 ----
 
 
 <a id="bpn6857"></a> 
-* Stó:lõ Shxweli Halq&#39;eméylem, the language of the Soowahlie People*O God Guide MeO Chilchelh Siyam, kwelachesthoyx Xyolhmethoyx Tawet te slaxets tel th&#39;ale Qas thehiyeththoyx ste&#39;s te p&#39;alq&#39;em kwosel Lewe, kw&#39;omkw&#39;em Tsetselo eyem Siyam
+* Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People*O God Guide MeO Chilchelh Siyam, kwelachesthoyx Xyolhmethoyx Tawet te slaxets tel th'ale Qas thehiyeththoyx ste's te p'alq'em kwosel Lewe, kw'omkw'em Tsetselo eyem Siyam
 
 -- Abdu'l-Bahá
 
-bpn6857 «[Canadian Indigenous](../nai-CA/prayers/#bpn6857)» 
+bpn6857 
 
 ----
 
@@ -361,11 +362,11 @@ bpn6857 «[Canadian Indigenous](../nai-CA/prayers/#bpn6857)»
 ## Thompson
 
 <a id="bpn6855"></a> 
-*Short Obligatory PrayerAs kw&#39;áñsna ta ts&#39;íya wus ha7 szaytn, Olh xa7 lh Kwúkwpi7 lhn skáts&#39;za7, áwi7 ta7s ha7wís tsutsámxw.A a7 s-hakstsín as tsutána ta ts&#39;íya wus aslhk&#39;emtayp pilaxentsút kn ts7aylh áwi7 ta támastá7a han szugwzúgwt, ta ts&#39;íya wus ha skwankwánt ta tákmus ha7 szugwzugwt. Táwi7 ta7 xwúytsu7h-kwúkwpi7 tlu tsukw ha7wi, ta Sknúxwatip, tatá7a sentsukwmina ta7 wa7áx tlu7 tsukw ha7wi. I bear witness, O my God, that Thou has created me to know Thee and to worship Thee. I testify at this moment to my powerlessness and to Thy might, to my poverty and to Thy wealth.There is none other God but Thee, the Help in Peril, the Self-subsisting.
+*Short Obligatory PrayerAs kw'áñsna ta ts'íya wus ha7 szaytn, Olh xa7 lh Kwúkwpi7 lhn skáts'za7, áwi7 ta7s ha7wís tsutsámxw.A a7 s-hakstsín as tsutána ta ts'íya wus aslhk'emtayp pilaxentsút kn ts7aylh áwi7 ta támastá7a han szugwzúgwt, ta ts'íya wus ha skwankwánt ta tákmus ha7 szugwzugwt. Táwi7 ta7 xwúytsu7h-kwúkwpi7 tlu tsukw ha7wi, ta Sknúxwatip, tatá7a sentsukwmina ta7 wa7áx tlu7 tsukw ha7wi. I bear witness, O my God, that Thou has created me to know Thee and to worship Thee. I testify at this moment to my powerlessness and to Thy might, to my poverty and to Thy wealth.There is none other God but Thee, the Help in Peril, the Self-subsisting.
 
 -- Bahá'u'lláh
 
-bpn6855 «[Canadian Indigenous](../nai-CA/prayers/#bpn6855)» 
+bpn6855 
 
 ----
 
@@ -375,11 +376,11 @@ bpn6855 «[Canadian Indigenous](../nai-CA/prayers/#bpn6855)»
 ## Tla&#39;amin Nation
 
 <a id="bpn6854"></a> 
-*&#34;Blessed is the Spot&#34;   in the Sliammon LanguageOh kw shet hegusPoleset toh nehskweh eh sheethega tah ah yehs,nehs klumes,nehs tah kluk kweh nahs,hega tah t&#39;akt,hega tah tapas,hega tah sapet,hega tah geejah,hega tah cheh,hega tah kwuthys,kw ty ty nigit nons kw shet hegus.Yeech kw cheh hum.Hega tah nisheeyeok,helh awh nehs.
+*"Blessed is the Spot"   in the Sliammon LanguageOh kw shet hegusPoleset toh nehskweh eh sheethega tah ah yehs,nehs klumes,nehs tah kluk kweh nahs,hega tah t'akt,hega tah tapas,hega tah sapet,hega tah geejah,hega tah cheh,hega tah kwuthys,kw ty ty nigit nons kw shet hegus.Yeech kw cheh hum.Hega tah nisheeyeok,helh awh nehs.
 
 -- Bahá'u'lláh
 
-bpn6854 «[Canadian Indigenous](../nai-CA/prayers/#bpn6854)» 
+bpn6854 
 
 ----
 

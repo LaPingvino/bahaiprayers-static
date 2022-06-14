@@ -5,6 +5,7 @@ tags = ['lang=hz', 'prayerbook']
 
 
 
+
 [Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib](#Khoekhoegowab%3A++Baha%E2%80%99u%E2%80%99llab+di+%E2%89%A0gai-khaiga+xu+%21kho-%E2%89%A0uihe+ha+%2FGui-%2Fguib)
 
 [Khoekhoegowab: !NUWU //GUI AISA /GORES*](#Khoekhoegowab%3A+%21NUWU+%2F%2FGUI+AISA+%2FGORES%2A)
@@ -195,7 +196,7 @@ Amase tara miba du: Neb ge tseb //ib eidu aisa ni !gawaba, tsi doma ni //nouba, 
 
 -- Bahá'u'lláh
 
-bpn12410 «[Namibia](../hz/prayers/#bpn12410)» 
+bpn12410 
 
 ----
 
@@ -209,7 +210,7 @@ Tita ge ra ≠an-!ga, Ai ti Elotse, Sats ge a guru te !Khaisa, Satsa tani ≠an 
 
 -- Bahá'u'lláh
 
-bpn12384 «[Namibia](../hz/prayers/#bpn12384)» 
+bpn12384 
 
 ----
 
@@ -223,7 +224,7 @@ Sa /khoma xu ta ge ne //goas ona go !noa-≠khai Ai ti Elotose. Tsî tage ti oms
 
 -- Bahá'u'lláh
 
-bpn12387 «[Namibia](../hz/prayers/#bpn12387)» 
+bpn12387 
 
 ----
 
@@ -237,7 +238,7 @@ Ae ti Elotse, ne /gôana //gau!nâ re. Ne //gôan ge a Sa !hanab di hai, //haren
 
 -- Abdu'l-Bahá
 
-bpn12392 «[Namibia](../hz/prayers/#bpn12392)» 
+bpn12392 
 
 ----
 
@@ -251,7 +252,7 @@ Tita ge Sa sôub !nâ go !noa ≠khai, Ae ti Elōtse tsî, !gâi-!gâb ge ne sô
 
 -- Bahá'u'lláh
 
-bpn12390 «[Namibia](../hz/prayers/#bpn12390)» 
+bpn12390 
 
 ----
 
@@ -265,7 +266,7 @@ Ai ti Elotse, /ûba-aots //oren ditse. /Khae aots !norasa mâti ditse. Tani-aots
 
 -- Abdu'l-Bahá
 
-bpn12396 «[Namibia](../hz/prayers/#bpn12396)» 
+bpn12396 
 
 ----
 
@@ -279,7 +280,7 @@ bpn12396 «[Namibia](../hz/prayers/#bpn12396)»
 
 -- Bahá'u'lláh
 
-bpn12400 «[Namibia](../hz/prayers/#bpn12400)» 
+bpn12400 
 
 ----
 
@@ -289,7 +290,7 @@ Ai ti Elotse, /uba aots //oren ditse. /Khai aots !nore Sa mati ditse. Tani-aots 
 
 -- Abdu'l-Bahá
 
-bpn12401 «[Namibia](../hz/prayers/#bpn12401)» 
+bpn12401 
 
 ----
 
@@ -303,7 +304,7 @@ bpn12401 «[Namibia](../hz/prayers/#bpn12401)»
 
 -- Bahá'u'lláh
 
-bpn12402 «[Namibia](../hz/prayers/#bpn12402)» 
+bpn12402 
 
 ----
 
@@ -313,7 +314,7 @@ Elotse mare eb lgui !naxasib sa !nab diba hoaraga !hub-aiba !nami ≠ga, eb isib
 
 -- Bahá'u'lláh
 
-bpn12403 «[Namibia](../hz/prayers/#bpn12403)» 
+bpn12403 
 
 ----
 
@@ -323,7 +324,7 @@ Ti Elotse, ti /namsatse, ti //khoretse. ≠Khiba ti /guri !gasib !na ≠gare tsi
 
 -- Abdu'l-Bahá
 
-bpn12404 «[Namibia](../hz/prayers/#bpn12404)» 
+bpn12404 
 
 ----
 
@@ -333,7 +334,7 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 
 -- Abdu'l-Bahá
 
-bpn12405 «[Namibia](../hz/prayers/#bpn12405)» 
+bpn12405 
 
 ----
 
@@ -343,7 +344,7 @@ bpn12405 «[Namibia](../hz/prayers/#bpn12405)»
 
 -- Abdu'l-Bahá
 
-bpn12406 «[Namibia](../hz/prayers/#bpn12406)» 
+bpn12406 
 
 ----
 
@@ -353,7 +354,7 @@ bpn12406 «[Namibia](../hz/prayers/#bpn12406)»
 
 -- Abdu'l-Bahá
 
-bpn12407 «[Namibia](../hz/prayers/#bpn12407)» 
+bpn12407 
 
 ----
 
@@ -363,7 +364,7 @@ Ti Elotse, Elotse huire Sa !gana !ai-tsab !na Sa ≠khai gariha mus /kha //ina S
 
 -- Abdu'l-Bahá
 
-bpn12408 «[Namibia](../hz/prayers/#bpn12408)» 
+bpn12408 
 
 ----
 
@@ -373,7 +374,7 @@ Ai ti Elotse mei ge sa aniroe khoaha //gawob /kha. Tsi ≠nouse re //khana, Huir
 
 -- Abdu'l-Bahá
 
-bpn12409 «[Namibia](../hz/prayers/#bpn12409)» 
+bpn12409 
 
 ----
 
@@ -387,7 +388,7 @@ Ai, Elotse, ne ≠khari /goâroë Sa /nami di dî ≠ams !nâ gei-geire, î sa �
 
 -- Abdu'l-Bahá
 
-bpn12411 «[Namibia](../hz/prayers/#bpn12411)» 
+bpn12411 
 
 ----
 
@@ -401,7 +402,7 @@ Ti Elōtse! Khoa-Khoa ê ≠hî-≠hî ti gagasa, !anu-!anu ti ≠gaoba. Ti ≠�
 
 -- Abdu'l-Bahá
 
-bpn12388 «[Namibia](../hz/prayers/#bpn12388)» 
+bpn12388 
 
 ----
 
@@ -415,7 +416,7 @@ Ai ti Elotse! Ai ti Elotse! Satsa /gui-/guire sa ! Gagu di ≠gaoga, ets ≠hei-
 
 -- Bahá'u'lláh
 
-bpn12394 «[Namibia](../hz/prayers/#bpn12394)» 
+bpn12394 
 
 ----
 
@@ -429,7 +430,7 @@ bpn12394 «[Namibia](../hz/prayers/#bpn12394)»
 
 -- Abdu'l-Bahá
 
-bpn12398 «[Namibia](../hz/prayers/#bpn12398)» 
+bpn12398 
 
 ----
 
@@ -443,7 +444,7 @@ Khoeë hâ, ≠Khôana //khaebe //khae? Elob ose Mî: Ab Eloba gare he re //îb 
 
 -- Báb
 
-bpn12385 «[Namibia](../hz/prayers/#bpn12385)» 
+bpn12385 
 
 ----
 
@@ -457,7 +458,7 @@ Ti Elotse, ≠gai-≠guite, é soutere, é !ná-!ná ti !nas ti ≠gaob dita. El
 
 -- Abdu'l-Bahá
 
-bpn12386 «[Namibia](../hz/prayers/#bpn12386)» 
+bpn12386 
 
 ----
 
@@ -471,7 +472,7 @@ Ai Elōtse ne ≠kham-khoë !gâra ≠gaete mare, tsî /khomxa ≠gaosib ne /gâ
 
 -- Abdu'l-Bahá
 
-bpn12393 «[Namibia](../hz/prayers/#bpn12393)» 
+bpn12393 
 
 ----
 
@@ -485,7 +486,7 @@ Sa /ons gea ti ≠urusi, Ai ti Elotse, tsî Sa xa ≠âihos ge a ti so-lôa, Sa 
 
 -- Bahá'u'lláh
 
-bpn12389 «[Namibia](../hz/prayers/#bpn12389)» 
+bpn12389 
 
 ----
 
@@ -499,7 +500,7 @@ Gares a Sa, Ae Elō ti !Khutse! /Khoma Tsi tagera ne ≠hai≠hais !kaenaba !nâ
 
 -- Bahá'u'lláh
 
-bpn12397 «[Namibia](../hz/prayers/#bpn12397)» 
+bpn12397 
 
 ----
 
@@ -513,7 +514,7 @@ Gares a Sa, Ai ti Elōtse! ne !gāb tsî !gās tsîra ge Sa /khomi di sōmi !nâ
 
 -- Abdu'l-Bahá
 
-bpn12395 «[Namibia](../hz/prayers/#bpn12395)» 
+bpn12395 
 
 ----
 
@@ -527,7 +528,7 @@ bpn12395 «[Namibia](../hz/prayers/#bpn12395)»
 
 -- Abdu'l-Bahá
 
-bpn12399 «[Namibia](../hz/prayers/#bpn12399)» 
+bpn12399 
 
 ----
 
@@ -541,7 +542,7 @@ Ai, ti Elotse, ti //kha-//kha-aotse, ti //khoreb di !oa-≠ûi tse! Nē !gab sab
 
 -- Bahá'u'lláh
 
-bpn12391 «[Namibia](../hz/prayers/#bpn12391)» 
+bpn12391 
 
 ----
 
@@ -555,7 +556,7 @@ Kalunga, Amenenge, endifenge, ningenge olamba taivadima no nyofi tai-vilima. Ove
 
 -- Abdu'l-Bahá
 
-bpn12443 «[Namibia](../hz/prayers/#bpn12443)» 
+bpn12443 
 
 ----
 
@@ -569,7 +570,7 @@ Kalunga! Deula ounona aveshe ava. Ounona ava ovo oimeno yomepya loYe, enhemo do 
 
 -- Abdu'l-Bahá
 
-bpn12450 «[Namibia](../hz/prayers/#bpn12450)» 
+bpn12450 
 
 ----
 
@@ -583,7 +584,7 @@ Ove fimanekwa, Kalunga kange! Oshili, ou oye omupiya woYe omulumenhu no mupiya w
 
 -- Abdu'l-Bahá
 
-bpn12453 «[Namibia](../hz/prayers/#bpn12453)» 
+bpn12453 
 
 ----
 
@@ -597,7 +598,7 @@ Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamen
 
 -- Bahá'u'lláh
 
-bpn12441 «[Namibia](../hz/prayers/#bpn12441)» 
+bpn12441 
 
 ----
 
@@ -611,7 +612,7 @@ Edina loYe olo eveluko lange, Kalunga kange, oku ku dimbulukwa oko etalaleko lan
 
 -- Bahá'u'lláh
 
-bpn12446 «[Namibia](../hz/prayers/#bpn12446)» 
+bpn12446 
 
 ----
 
@@ -625,7 +626,7 @@ Kalunga kange! Ou oye omupiya woYe omona omumati womupiya woYe ou aitavela mwOve
 
 -- Bahá'u'lláh
 
-bpn12458 «[Namibia](../hz/prayers/#bpn12458)» 
+bpn12458 
 
 ----
 
@@ -635,7 +636,7 @@ Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo m
 
 -- Abdu'l-Bahá
 
-bpn12454 «[Namibia](../hz/prayers/#bpn12454)» 
+bpn12454 
 
 ----
 
@@ -649,7 +650,7 @@ Opena ou handulu oku ku fapo omaudyu ponhele ya Kalunga? Tya: Na hambelelwe Kalu
 
 -- Báb
 
-bpn12442 «[Namibia](../hz/prayers/#bpn12442)» 
+bpn12442 
 
 ----
 
@@ -663,7 +664,7 @@ Hambelelwa, Omwene Kalunga kange! Ohandi kwilikana omo lwe hololo loYe eli la sh
 
 -- Bahá'u'lláh
 
-bpn12455 «[Namibia](../hz/prayers/#bpn12455)» 
+bpn12455 
 
 ----
 
@@ -677,7 +678,7 @@ Oye Okuyapuki-elela, Omutumbalekwa-elela, Omunene-elelaOshivilo shEdalo she uya,
 
 -- Bahá'u'lláh
 
-bpn12473 «[Namibia](../hz/prayers/#bpn12473)» 
+bpn12473 
 
 ----
 
@@ -687,7 +688,7 @@ Ye Oimuyapuki shili, Ye OmunenenhuEi ohani omo a dalwa. Ye ou e na edina la tumb
 
 -- Bahá'u'lláh
 
-bpn12474 «[Namibia](../hz/prayers/#bpn12474)» 
+bpn12474 
 
 ----
 
@@ -701,7 +702,7 @@ Oshili Ohaiti, Eli olo efiku(Verily I Say, this is the Day)Oshili ohaiti, eli ol
 
 -- Bahá'u'lláh
 
-bpn12469 «[Namibia](../hz/prayers/#bpn12469)» 
+bpn12469 
 
 ----
 
@@ -711,7 +712,7 @@ Unona Nye Vo Vanhu(O Children of men)Unona nye vo vanhu! Eitavelo eli ola fikama
 
 -- Bahá'u'lláh
 
-bpn12470 «[Namibia](../hz/prayers/#bpn12470)» 
+bpn12470 
 
 ----
 
@@ -721,7 +722,7 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange(Immerse yourselves in the ocean)Litulen
 
 -- Bahá'u'lláh
 
-bpn12471 «[Namibia](../hz/prayers/#bpn12471)» 
+bpn12471 
 
 ----
 
@@ -735,7 +736,7 @@ bpn12471 «[Namibia](../hz/prayers/#bpn12471)»
 
 -- Abdu'l-Bahá
 
-bpn12456 «[Namibia](../hz/prayers/#bpn12456)» 
+bpn12456 
 
 ----
 
@@ -749,7 +750,7 @@ Ame, Onda pe nduka ongula ei yonena me filonghenda loYe, Kalunga kange. Ame ohai
 
 -- Bahá'u'lláh
 
-bpn12444 «[Namibia](../hz/prayers/#bpn12444)» 
+bpn12444 
 
 ----
 
@@ -763,7 +764,7 @@ Kalunga! Talaleka ndele hafifa omhepo yange. Koshola omutima wange. Yelifa endun
 
 -- Abdu'l-Bahá
 
-bpn12445 «[Namibia](../hz/prayers/#bpn12445)» 
+bpn12445 
 
 ----
 
@@ -777,7 +778,7 @@ Onda penduka meameno loYe, Kalunga kange, ndele ohai kongo oku kala koshi yeamen
 
 -- Bahá'u'lláh
 
-bpn12447 «[Namibia](../hz/prayers/#bpn12447)» 
+bpn12447 
 
 ----
 
@@ -791,7 +792,7 @@ Kalunga kange, omwene wange, efikilo le halo lange! Ame, omupiya woYe, onda hala
 
 -- Bahá'u'lláh
 
-bpn12448 «[Namibia](../hz/prayers/#bpn12448)» 
+bpn12448 
 
 ----
 
@@ -805,7 +806,7 @@ Kalunga kange! Kalunga kange! Mangela kumwe omitima do vapiya voYe, ndele vaulik
 
 -- Bahá'u'lláh
 
-bpn12452 «[Namibia](../hz/prayers/#bpn12452)» 
+bpn12452 
 
 ----
 
@@ -819,7 +820,7 @@ Kalunga! Humbata okana aka Mekolo lo hole yoYe, ndele kapa Omashini ta di mevele
 
 -- Abdu'l-Bahá
 
-bpn12449 «[Namibia](../hz/prayers/#bpn12449)» 
+bpn12449 
 
 ----
 
@@ -833,7 +834,7 @@ Omwene! Pa omunyasha ou ouyelele tau vadima ndele filonghenda omushitwa woYe ou 
 
 -- Abdu'l-Bahá
 
-bpn12451 «[Namibia](../hz/prayers/#bpn12451)» 
+bpn12451 
 
 ----
 
@@ -847,7 +848,7 @@ Nye ava ta Mutalelifa oipala yeni ku Kalunga! Keleleni omesho eni ahatale oinima
 
 -- Abdu'l-Bahá
 
-bpn12472 «[Namibia](../hz/prayers/#bpn12472)» 
+bpn12472 
 
 ----
 
@@ -861,7 +862,7 @@ bpn12472 «[Namibia](../hz/prayers/#bpn12472)»
 
 -- Abdu'l-Bahá
 
-bpn12457 «[Namibia](../hz/prayers/#bpn12457)» 
+bpn12457 
 
 ----
 
@@ -875,7 +876,7 @@ bpn12457 «[Namibia](../hz/prayers/#bpn12457)»
 
 -- Bahá'u'lláh
 
-bpn12475 «[Namibia](../hz/prayers/#bpn12475)» 
+bpn12475 
 
 ----
 
@@ -889,7 +890,7 @@ Nafimanekwe, Kalunga, omo lwo vatumwa vaye vo hole Ovo hetu tu mine! Ove ou uli 
 
 -- Bahá'u'lláh
 
-bpn12459 «[Namibia](../hz/prayers/#bpn12459)» 
+bpn12459 
 
 ----
 
@@ -899,7 +900,7 @@ Tya: Kalunga, Kalunga kange! Tu la oshikoloni shouyuki woYe komutwe wange, ndele
 
 -- Bahá'u'lláh
 
-bpn12460 «[Namibia](../hz/prayers/#bpn12460)» 
+bpn12460 
 
 ----
 
@@ -909,7 +910,7 @@ Kalunga kange! Ohandi indile, ke dina loYe olo la tu mbala unene. Ukwa fenge eng
 
 -- Bahá'u'lláh
 
-bpn12461 «[Namibia](../hz/prayers/#bpn12461)» 
+bpn12461 
 
 ----
 
@@ -919,7 +920,7 @@ Kalunga yandya oujelele wouli-umwe utandavelifwe kombada yedu alishe, opo ne osh
 
 -- Bahá'u'lláh
 
-bpn12462 «[Namibia](../hz/prayers/#bpn12462)» 
+bpn12462 
 
 ----
 
@@ -929,7 +930,7 @@ Omwene wange, Omuholike, ehalo lange! Kala pamwe name mowike wange ndele kala yo
 
 -- Abdu'l-Bahá
 
-bpn12463 «[Namibia](../hz/prayers/#bpn12463)» 
+bpn12463 
 
 ----
 
@@ -939,7 +940,7 @@ Omwene Kalunga kange! Kwafela ovapiya voYe va kale vapama mEitavelo loYe, vaende
 
 -- Abdu'l-Bahá
 
-bpn12464 «[Namibia](../hz/prayers/#bpn12464)» 
+bpn12464 
 
 ----
 
@@ -949,7 +950,7 @@ Omwene! Tu filonghenda, tu pa ehalo loYe liwa; fye ovafyona, tu pa ou puna tau d
 
 -- Abdu'l-Bahá
 
-bpn12465 «[Namibia](../hz/prayers/#bpn12465)» 
+bpn12465 
 
 ----
 
@@ -959,7 +960,7 @@ Omwene! Fye oingone; tu pameka Kalunga! Fye katu na endunge; tu pa endunge. Omwe
 
 -- Abdu'l-Bahá
 
-bpn12466 «[Namibia](../hz/prayers/#bpn12466)» 
+bpn12466 
 
 ----
 
@@ -969,7 +970,7 @@ Kalunga, Kalunga kange! Amena evapiya voYe ovaholike kowi wavo vene no ke handu 
 
 -- Abdu'l-Bahá
 
-bpn12467 «[Namibia](../hz/prayers/#bpn12467)» 
+bpn12467 
 
 ----
 
@@ -979,7 +980,7 @@ Kalunga ketu, Kalunga ketu, oka dila aka, oka teka evava ndele ita kadulu oku tu
 
 -- Abdu'l-Bahá
 
-bpn12468 «[Namibia](../hz/prayers/#bpn12468)» 
+bpn12468 
 
 ----
 
@@ -993,7 +994,7 @@ Mukuru wandje no muhona! owami omukarere wOye no muatje wo mukarere wOye. Mbapen
 
 -- Bahá'u'lláh
 
-bpn6044 «[Namibia](../hz/prayers/#bpn6044)» 
+bpn6044 
 
 ----
 
@@ -1007,7 +1008,7 @@ Ena rOye oro everukise,  Ndjambi wandje,  nu  okuri zemburuka nayOve oko ondjamo
 
 -- Bahá'u'lláh
 
-bpn6050 «[Namibia](../hz/prayers/#bpn6050)» 
+bpn6050 
 
 ----
 
@@ -1021,7 +1022,7 @@ bpn6050 «[Namibia](../hz/prayers/#bpn6050)»
 
 -- Abdu'l-Bahá
 
-bpn6051 «[Namibia](../hz/prayers/#bpn6051)» 
+bpn6051 
 
 ----
 
@@ -1035,7 +1036,7 @@ Ngotangwe ove Mukuru! Meri jarikana kOve kuimbi mbiwa vandurura, muwa tanaurira 
 
 -- Bahá'u'lláh
 
-bpn6048 «[Namibia](../hz/prayers/#bpn6048)» 
+bpn6048 
 
 ----
 
@@ -1049,7 +1050,7 @@ Ami mbapenduka kehijo ndjeverero yOye, Ndjambi wandje, nu otjo tjiri kuje ingwi 
 
 -- Bahá'u'lláh
 
-bpn6045 «[Namibia](../hz/prayers/#bpn6045)» 
+bpn6045 
 
 ----
 
@@ -1059,7 +1060,7 @@ Ami mba penduka omuhuka mbui, motjari  tjOye, Ndjambi wandje, numbaisa onganda j
 
 -- Bahá'u'lláh
 
-bpn6046 «[Namibia](../hz/prayers/#bpn6046)» 
+bpn6046 
 
 ----
 
@@ -1073,7 +1074,7 @@ Merihepura omuini kove Mukuru, Ove kutja wendjiutira kutja mbikutjiwe nu mbiriko
 
 -- Bahá'u'lláh
 
-bpn6043 «[Namibia](../hz/prayers/#bpn6043)» 
+bpn6043 
 
 ----
 
@@ -1087,7 +1088,7 @@ Ndjambi wandje, omutatua, Oove nguri ondero jomuinjo wandje! Omukarere wOye mapa
 
 -- Bahá'u'lláh
 
-bpn6047 «[Namibia](../hz/prayers/#bpn6047)» 
+bpn6047 
 
 ----
 
@@ -1101,7 +1102,7 @@ Ngo tangwe Ove Ndjambi wandje! Tjiri, ovakarere wOye veyamba kehi yotjizire tjon
 
 -- Bahá'u'lláh
 
-bpn6049 «[Namibia](../hz/prayers/#bpn6049)» 
+bpn6049 
 
 ----
 
@@ -1115,7 +1116,7 @@ bpn6049 «[Namibia](../hz/prayers/#bpn6049)»
 
 -- Abdu'l-Bahá
 
-bpn6056 «[Namibia](../hz/prayers/#bpn6056)» 
+bpn6056 
 
 ----
 
@@ -1129,7 +1130,7 @@ Ndjambi wetu! Omuisire wo zondjo, Omuyandje wovi jandjewa, nungu verura omihiham
 
 -- Abdu'l-Bahá
 
-bpn6058 «[Namibia](../hz/prayers/#bpn6058)» 
+bpn6058 
 
 ----
 
@@ -1139,11 +1140,11 @@ bpn6058 «[Namibia](../hz/prayers/#bpn6058)»
 ## Otjiherero: OVAKOKE
 
 <a id="bpn6057"></a> 
-Mukuru  wandje! ingwi omukarere  wOye na wina omuatje omuzandu ngwa kwatua iyomukarere wOye, eye wari  no ngamburiro  mOve no movitjitwa vyOye,  nambano eye eyengo meya kOve waitavera mOve tjinene mena ro kutja Oove  omunandjenda. Muyakura, Ove nguri omuisire wo zondjo zovandu nu ngwari kohoreke omauvi  kovandu  wOye. Mupa ondaya ndjiunayo okuza komautiro wehi neyuru. Kapena Mukuru warue pendje nayOve ngu serondaya nomunamasa ayehe.*(Imba yarukira po tuhamboumwe (6) &#34;Allah’u’Abha,&#34; na wina potumurongo na muvyu 19 oviverse imbi:)Matutanga Mukuru. Ma turikotamene  ku Mukuru. Atuhe Ovatoororwa vaMukuru. Matuhivirike Mukuru. Matuyandja Ondangu kuMukuru. Atuhe ovavere komurungu waMukuru.*(Tjinangara omuyaruke omukazendu, usokutja nai. Ingwi omukarere omukazona ngwa kwatua iyomukarere wOye omukazendu, etc.)
+Mukuru  wandje! ingwi omukarere  wOye na wina omuatje omuzandu ngwa kwatua iyomukarere wOye, eye wari  no ngamburiro  mOve no movitjitwa vyOye,  nambano eye eyengo meya kOve waitavera mOve tjinene mena ro kutja Oove  omunandjenda. Muyakura, Ove nguri omuisire wo zondjo zovandu nu ngwari kohoreke omauvi  kovandu  wOye. Mupa ondaya ndjiunayo okuza komautiro wehi neyuru. Kapena Mukuru warue pendje nayOve ngu serondaya nomunamasa ayehe.*(Imba yarukira po tuhamboumwe (6) "Allah’u’Abha," na wina potumurongo na muvyu 19 oviverse imbi:)Matutanga Mukuru. Ma turikotamene  ku Mukuru. Atuhe Ovatoororwa vaMukuru. Matuhivirike Mukuru. Matuyandja Ondangu kuMukuru. Atuhe ovavere komurungu waMukuru.*(Tjinangara omuyaruke omukazendu, usokutja nai. Ingwi omukarere omukazona ngwa kwatua iyomukarere wOye omukazendu, etc.)
 
 -- Bahá'u'lláh
 
-bpn6057 «[Namibia](../hz/prayers/#bpn6057)» 
+bpn6057 
 
 ----
 
@@ -1157,7 +1158,7 @@ Ngo tangwe ove Muhona kondjenda yOye kovandu avehe! Ove omwinjo no ndjerera, tiz
 
 -- Bahá'u'lláh
 
-bpn6059 «[Namibia](../hz/prayers/#bpn6059)» 
+bpn6059 
 
 ----
 
@@ -1167,7 +1168,7 @@ Ndjambi wandje! Ndjambi wandje! wanisa kumue omitima vyo vakarere wOye, nu verai
 
 -- Bahá'u'lláh
 
-bpn6060 «[Namibia](../hz/prayers/#bpn6060)» 
+bpn6060 
 
 ----
 
@@ -1177,7 +1178,7 @@ Mukuru wandje! Mukuru wandje! Hwikika otjiuru tjandje no tjikrone tjohange, kotj
 
 -- Bahá'u'lláh
 
-bpn6061 «[Namibia](../hz/prayers/#bpn6061)» 
+bpn6061 
 
 ----
 
@@ -1187,17 +1188,17 @@ Mukuru wandje! Mepura kOve mena rOye eyapuke, vatera ami ngumbiri omukarere wOye
 
 -- Bahá'u'lláh
 
-bpn6062 «[Namibia](../hz/prayers/#bpn6062)» 
+bpn6062 
 
 ----
 
 
 <a id="bpn6063"></a> 
-Mukuru, tjita kutja ondjerera yo ruwano iworonge Ouje auhe, no kutja ikutjire, &#34;Ouhona wa Mukuru&#34; kutja ovandu avehe veitavere yo
+Mukuru, tjita kutja ondjerera yo ruwano iworonge Ouje auhe, no kutja ikutjire, "Ouhona wa Mukuru" kutja ovandu avehe veitavere yo
 
 -- Bahá'u'lláh
 
-bpn6063 «[Namibia](../hz/prayers/#bpn6063)» 
+bpn6063 
 
 ----
 
@@ -1207,7 +1208,7 @@ Penaune ngumaisapo ouzeu pendje naMukuru? Ii, oMukuru erike. Mukuru ngatangue! E
 
 -- Báb
 
-bpn6064 «[Namibia](../hz/prayers/#bpn6064)» 
+bpn6064 
 
 ----
 
@@ -1217,7 +1218,7 @@ Ndjambi wandje! Kohorora omutima wandje. Tumununa nu jorokisa ombepo yandje. Jan
 
 -- Abdu'l-Bahá
 
-bpn6065 «[Namibia](../hz/prayers/#bpn6065)» 
+bpn6065 
 
 ----
 
@@ -1227,7 +1228,7 @@ Muhona wandje, Mbe kusuvera. ndjisuvera mourike wandje nu ndjitika  nu undji ton
 
 -- Abdu'l-Bahá
 
-bpn6066 «[Namibia](../hz/prayers/#bpn6066)» 
+bpn6066 
 
 ----
 
@@ -1237,7 +1238,7 @@ Muhona, Mukuru wandje! vatera ovasuverwa wOye kutja vekare nomasa mo  ngamburiro
 
 -- Abdu'l-Bahá
 
-bpn6067 «[Namibia](../hz/prayers/#bpn6067)» 
+bpn6067 
 
 ----
 
@@ -1247,7 +1248,7 @@ Muhona! Kwete ondjenda tjinene, tupao owiingona wOye, owete ovasyona, nungwari t
 
 -- Abdu'l-Bahá
 
-bpn6068 «[Namibia](../hz/prayers/#bpn6068)» 
+bpn6068 
 
 ----
 
@@ -1257,7 +1258,7 @@ Muhona Ete twangundipara, zeuparisa ete Mukuru, owete omayova tupayo ozondunge. 
 
 -- Abdu'l-Bahá
 
-bpn6069 «[Namibia](../hz/prayers/#bpn6069)» 
+bpn6069 
 
 ----
 
@@ -1267,7 +1268,7 @@ Mukuru wandje! Tjizikiza omukarere wOye omutakame kovina ovivi vyOuye, yama nome
 
 -- Abdu'l-Bahá
 
-bpn6070 «[Namibia](../hz/prayers/#bpn6070)» 
+bpn6070 
 
 ----
 
@@ -1277,7 +1278,7 @@ Mukuru, Ondera indji kainokusora okutuka nawa vaterayo kutja isore okutuka nawa 
 
 -- Abdu'l-Bahá
 
-bpn6071 «[Namibia](../hz/prayers/#bpn6071)» 
+bpn6071 
 
 ----
 
@@ -1291,7 +1292,7 @@ Ndjambi wetu! kurisa okanatje nga mo mawoko wOye worusuvero, nu kepa omaihi wond
 
 -- Abdu'l-Bahá
 
-bpn6052 «[Namibia](../hz/prayers/#bpn6052)» 
+bpn6052 
 
 ----
 
@@ -1301,7 +1302,7 @@ Ndjambi Ove! honga ovanatje mba. Ovanatje mba omberi omivite, ozongara zehozu mo
 
 -- Abdu'l-Bahá
 
-bpn6053 «[Namibia](../hz/prayers/#bpn6053)» 
+bpn6053 
 
 ----
 
@@ -1311,7 +1312,7 @@ Muhona Ove! yerisa ondjoroka no rusuvero kombanda jo mutanda ingui,   nu otjari 
 
 -- Abdu'l-Bahá
 
-bpn6054 «[Namibia](../hz/prayers/#bpn6054)» 
+bpn6054 
 
 ----
 
@@ -1321,7 +1322,7 @@ Ndjambi wandje, ndjiviura, ndji tjevera nundji tjinda, tjita kutja mbirire emuni
 
 -- Abdu'l-Bahá
 
-bpn6055 «[Namibia](../hz/prayers/#bpn6055)» 
+bpn6055 
 
 ----
 
@@ -1335,7 +1336,7 @@ Hompa, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo lig
 
 -- Abdu'l-Bahá
 
-bpn12425 «[Namibia](../hz/prayers/#bpn12425)» 
+bpn12425 
 
 ----
 
@@ -1345,7 +1346,7 @@ Oh, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo
 
 -- Abdu'l-Bahá
 
-bpn12429 «[Namibia](../hz/prayers/#bpn12429)» 
+bpn12429 
 
 ----
 
@@ -1359,7 +1360,7 @@ Mfumwa kukoye, Hompa Karunga wande! Kuna kukushungida kuLihorameno lino omo lyak
 
 -- Bahá'u'lláh
 
-bpn12426 «[Namibia](../hz/prayers/#bpn12426)» 
+bpn12426 
 
 ----
 
@@ -1373,7 +1374,7 @@ Ame kuna rambuka ngurangura munkenda yoye, Karunga wande, na tundu mundjugho yan
 
 -- Bahá'u'lláh
 
-bpn12415 «[Namibia](../hz/prayers/#bpn12415)» 
+bpn12415 
 
 ----
 
@@ -1387,7 +1388,7 @@ Hompa, Karunga! Tendeka nakuhafita monyo wande. Kushura mushima wande. Kenita nd
 
 -- Abdu'l-Bahá
 
-bpn12416 «[Namibia](../hz/prayers/#bpn12416)» 
+bpn12416 
 
 ----
 
@@ -1401,7 +1402,7 @@ Hompa! Ronga vanuke vano. Vanuke vano mbo vimenwa vyamushikunino, dimucuko Doye,
 
 -- Abdu'l-Bahá
 
-bpn12421 «[Namibia](../hz/prayers/#bpn12421)» 
+bpn12421 
 
 ----
 
@@ -1415,7 +1416,7 @@ Hompa Karunga, mughameni wande, mupopeli wande, ndenke ni kare ramba yakutwera n
 
 -- Abdu'l-Bahá
 
-bpn12414 «[Namibia](../hz/prayers/#bpn12414)» 
+bpn12414 
 
 ----
 
@@ -1429,7 +1430,7 @@ Pa kara Mutunditipo wamaudito hanashi Ove ndi? Ghamba: Mfumwa kwaKarunga! Ghuye 
 
 -- Báb
 
-bpn12413 «[Namibia](../hz/prayers/#bpn12413)» 
+bpn12413 
 
 ----
 
@@ -1443,7 +1444,7 @@ Lidina lyoye ndyo liveruro lyande, Hompa wande, ano livhuruko kukoye mutondo wan
 
 -- Bahá'u'lláh
 
-bpn12417 «[Namibia](../hz/prayers/#bpn12417)» 
+bpn12417 
 
 ----
 
@@ -1457,7 +1458,7 @@ bpn12417 «[Namibia](../hz/prayers/#bpn12417)»
 
 -- Abdu'l-Bahá
 
-bpn12428 «[Namibia](../hz/prayers/#bpn12428)» 
+bpn12428 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn12428 «[Namibia](../hz/prayers/#bpn12428)»
 
 -- Abdu'l-Bahá
 
-bpn12427 «[Namibia](../hz/prayers/#bpn12427)» 
+bpn12427 
 
 ----
 
@@ -1485,7 +1486,7 @@ Mfumwa koye ove Karunga kulimonikito lyashihoro shoye kumbunga! Oh, Ove ghuLipar
 
 -- Bahá'u'lláh
 
-bpn12430 «[Namibia](../hz/prayers/#bpn12430)» 
+bpn12430 
 
 ----
 
@@ -1495,7 +1496,7 @@ Hi, Karunga wande! Hi, Karunga wande! Kwatakanita dimushima davapikoye nakumonik
 
 -- Bahá'u'lláh
 
-bpn12431 «[Namibia](../hz/prayers/#bpn12431)» 
+bpn12431 
 
 ----
 
@@ -1505,7 +1506,7 @@ Hi Hompa wande. Ogho nahora, Muvhuruki wande! Kara muholi wande muliyana omo nak
 
 -- Bahá'u'lláh
 
-bpn12432 «[Namibia](../hz/prayers/#bpn12432)» 
+bpn12432 
 
 ----
 
@@ -1515,7 +1516,7 @@ Karunga, renka ukenu waumwe u fuke livhu nalintje, ntani nka shitamba shino “U
 
 -- Bahá'u'lláh
 
-bpn12433 «[Namibia](../hz/prayers/#bpn12433)» 
+bpn12433 
 
 ----
 
@@ -1525,7 +1526,7 @@ Ghamb: Ove Karunga, Karunga wande! Ntura mutwe wande nashipangura sha ghushili, 
 
 -- Abdu'l-Bahá
 
-bpn12434 «[Namibia](../hz/prayers/#bpn12434)» 
+bpn12434 
 
 ----
 
@@ -1535,7 +1536,7 @@ Hompa! Ghushuntu atwe, tu pe ko ufenkenda ghoye, ghepwe, tu pe ko ruha rwaungaro
 
 -- Abdu'l-Bahá
 
-bpn12435 «[Namibia](../hz/prayers/#bpn12435)» 
+bpn12435 
 
 ----
 
@@ -1545,7 +1546,7 @@ Oho, Hompa! Atwe kudere ko nkondo; tu pameke. Oh, Karunga! Atwe vantuta; tu puku
 
 -- Abdu'l-Bahá
 
-bpn12436 «[Namibia](../hz/prayers/#bpn12436)» 
+bpn12436 
 
 ----
 
@@ -1555,7 +1556,7 @@ Oh Karunga wande, Karunga wande! Tjayira vapikoye vakulimburukwa kumaghudona gha
 
 -- Abdu'l-Bahá
 
-bpn12437 «[Namibia](../hz/prayers/#bpn12437)» 
+bpn12437 
 
 ----
 
@@ -1565,7 +1566,7 @@ Oh Karunga! Shino shidira shalivava lyakuremana, ano kutuka kwasho maranga ngudu
 
 -- Abdu'l-Bahá
 
-bpn12438 «[Namibia](../hz/prayers/#bpn12438)» 
+bpn12438 
 
 ----
 
@@ -1579,7 +1580,7 @@ Ame kuna kuvitongonona, Ove Karunga wande, ashi Ove wa ntjito ni ku yive nakukut
 
 -- Bahá'u'lláh
 
-bpn12412 «[Namibia](../hz/prayers/#bpn12412)» 
+bpn12412 
 
 ----
 
@@ -1593,7 +1594,7 @@ Na kotoroka mughuvando ghoye, ove Karunga wande, ano vyamuwapera ogho wakushana 
 
 -- Bahá'u'lláh
 
-bpn12418 «[Namibia](../hz/prayers/#bpn12418)» 
+bpn12418 
 
 ----
 
@@ -1607,7 +1608,7 @@ Hompa, Karunga wande, Mushongi wande, Shitambo shalitokomeno lyande! Mupikoye un
 
 -- Bahá'u'lláh
 
-bpn12419 «[Namibia](../hz/prayers/#bpn12419)» 
+bpn12419 
 
 ----
 
@@ -1621,7 +1622,7 @@ Mfumwa kukoye, ove Karunga wande! Vyashiri, uno mupikarume ghoye na uno mupikaka
 
 -- Abdu'l-Bahá
 
-bpn12424 «[Namibia](../hz/prayers/#bpn12424)» 
+bpn12424 
 
 ----
 
@@ -1635,7 +1636,7 @@ Hompa Karunga wande! Hompa Karunga wande! Kwatakanita dimushima davapikoye nakum
 
 -- Bahá'u'lláh
 
-bpn12423 «[Namibia](../hz/prayers/#bpn12423)» 
+bpn12423 
 
 ----
 
@@ -1649,7 +1650,7 @@ Hompa! Renka vasheshughona vano vavembere, ntani tapa nka unongo ghoye kushishit
 
 -- Abdu'l-Bahá
 
-bpn12422 «[Namibia](../hz/prayers/#bpn12422)» 
+bpn12422 
 
 ----
 
@@ -1663,7 +1664,7 @@ Hompa, Karunga! Renka kakeke kano kakure mushinanga shashihoro shoye, ka pe mash
 
 -- Abdu'l-Bahá
 
-bpn12420 «[Namibia](../hz/prayers/#bpn12420)» 
+bpn12420 
 
 ----
 
@@ -1677,7 +1678,7 @@ Hi, ove una pirukidiro shipara shoye kwa Karunga! Ferera mantjo ghoye kuvininke 
 
 -- Abdu'l-Bahá
 
-bpn12440 «[Namibia](../hz/prayers/#bpn12440)» 
+bpn12440 
 
 ----
 
@@ -1691,7 +1692,7 @@ Vyashiri na kutanta, lino ndyo liyuva omo nga u vhura udjuni kukukeya Shipara, n
 
 -- Abdu'l-Bahá
 
-bpn12439 «[Namibia](../hz/prayers/#bpn12439)» 
+bpn12439 
 
 ----
 
@@ -1705,7 +1706,7 @@ bpn12439 «[Namibia](../hz/prayers/#bpn12439)»
 
 -- Bahá'u'lláh
 
-bpn6013 «[Namibia](../hz/prayers/#bpn6013)» 
+bpn6013 
 
 ----
 
@@ -1719,7 +1720,7 @@ bpn6013 «[Namibia](../hz/prayers/#bpn6013)»
 
 -- Bahá'u'lláh
 
-bpn6014 «[Namibia](../hz/prayers/#bpn6014)» 
+bpn6014 
 
 ----
 
@@ -1733,7 +1734,7 @@ bpn6014 «[Namibia](../hz/prayers/#bpn6014)»
 
 -- Bahá'u'lláh
 
-bpn6012 «[Namibia](../hz/prayers/#bpn6012)» 
+bpn6012 
 
 ----
 
@@ -1747,7 +1748,7 @@ bpn6012 «[Namibia](../hz/prayers/#bpn6012)»
 
 -- Bahá'u'lláh
 
-bpn6313 «[Namibia](../hz/prayers/#bpn6313)» 
+bpn6313 
 
 ----
 
@@ -1761,7 +1762,7 @@ bpn6313 «[Namibia](../hz/prayers/#bpn6313)»
 
 -- Bahá'u'lláh
 
-bpn6318 «[Namibia](../hz/prayers/#bpn6318)» 
+bpn6318 
 
 ----
 
@@ -1775,7 +1776,7 @@ bpn6318 «[Namibia](../hz/prayers/#bpn6318)»
 
 -- Bahá'u'lláh
 
-bpn6320 «[Namibia](../hz/prayers/#bpn6320)» 
+bpn6320 
 
 ----
 
@@ -1785,11 +1786,11 @@ bpn6320 «[Namibia](../hz/prayers/#bpn6320)»
 ## Rukwangali: KOVAFE
 
 <a id="bpn6327"></a> 
-#KOVAFE##(FOR THE DEPARTED)Hompa Karunga gwange! Ogu yige mupika Goge namuna mupika Goge gomugara ogu gapulire Moge nemezigido Lyoge, oku ga pirukidisire sipara sendi Koge, ogu ga tundilirako nakunye ntudi Koge kwelike. Yousili, Ove ogu o likida nkenda, Munankenda gomunene.Murugane, Ove ogu o dongononapo maunzoni govantu nokumwenenena mapuko gawo, ngwendi moomu lya wapera eguru lyounongo Woge. Mupa mpito mevango lyefironkenda Lyoge Ove ogu wa kara po kutunda ketameko Lyevhu neguru. Kutupu ko Karunga nagepeke ntudi Nyove, Mugusiropo gwanaenye, Munongo gomunene.*Muninka a rugurure ekundo eli &#34;Allah-u-Abha&#34; yikando ntazimwe, ntani hena a rugurure yikando rona ntane mwankenye kagaununo gona:Natuvenye, yousili, Karunga tuna kutongamena.Natuvenye, yousili, komeho zaKarunga tuna linyongamena.Natuvenye, yousili, kwa Karunga tuna kuligava.Natuvenye, yousili, kwa Karunga tuna kufumadeka.Natuvenye, yousili, kwa Karunga tuna kugava mpandu.Natuvenye, yousili, mwa Karunga tuna kudidimikira.*(Nsenesi mufe mukadi, muninka a uyunge asi: Ogu Mupikakadi Goge nomunwakadi gomupikakadi goge..)
+#KOVAFE##(FOR THE DEPARTED)Hompa Karunga gwange! Ogu yige mupika Goge namuna mupika Goge gomugara ogu gapulire Moge nemezigido Lyoge, oku ga pirukidisire sipara sendi Koge, ogu ga tundilirako nakunye ntudi Koge kwelike. Yousili, Ove ogu o likida nkenda, Munankenda gomunene.Murugane, Ove ogu o dongononapo maunzoni govantu nokumwenenena mapuko gawo, ngwendi moomu lya wapera eguru lyounongo Woge. Mupa mpito mevango lyefironkenda Lyoge Ove ogu wa kara po kutunda ketameko Lyevhu neguru. Kutupu ko Karunga nagepeke ntudi Nyove, Mugusiropo gwanaenye, Munongo gomunene.*Muninka a rugurure ekundo eli "Allah-u-Abha" yikando ntazimwe, ntani hena a rugurure yikando rona ntane mwankenye kagaununo gona:Natuvenye, yousili, Karunga tuna kutongamena.Natuvenye, yousili, komeho zaKarunga tuna linyongamena.Natuvenye, yousili, kwa Karunga tuna kuligava.Natuvenye, yousili, kwa Karunga tuna kufumadeka.Natuvenye, yousili, kwa Karunga tuna kugava mpandu.Natuvenye, yousili, mwa Karunga tuna kudidimikira.*(Nsenesi mufe mukadi, muninka a uyunge asi: Ogu Mupikakadi Goge nomunwakadi gomupikakadi goge..)
 
 -- Bahá'u'lláh
 
-bpn6327 «[Namibia](../hz/prayers/#bpn6327)» 
+bpn6327 
 
 ----
 
@@ -1799,7 +1800,7 @@ Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo rug
 
 -- Abdu'l-Bahá
 
-bpn6328 «[Namibia](../hz/prayers/#bpn6328)» 
+bpn6328 
 
 ----
 
@@ -1813,7 +1814,7 @@ bpn6328 «[Namibia](../hz/prayers/#bpn6328)»
 
 -- Bahá'u'lláh
 
-bpn6314 «[Namibia](../hz/prayers/#bpn6314)» 
+bpn6314 
 
 ----
 
@@ -1827,7 +1828,7 @@ bpn6314 «[Namibia](../hz/prayers/#bpn6314)»
 
 -- Abdu'l-Bahá
 
-bpn6326 «[Namibia](../hz/prayers/#bpn6326)» 
+bpn6326 
 
 ----
 
@@ -1841,7 +1842,7 @@ bpn6326 «[Namibia](../hz/prayers/#bpn6326)»
 
 -- Abdu'l-Bahá
 
-bpn6321 «[Namibia](../hz/prayers/#bpn6321)» 
+bpn6321 
 
 ----
 
@@ -1855,7 +1856,7 @@ bpn6321 «[Namibia](../hz/prayers/#bpn6321)»
 
 -- Bahá'u'lláh
 
-bpn6315 «[Namibia](../hz/prayers/#bpn6315)» 
+bpn6315 
 
 ----
 
@@ -1865,7 +1866,7 @@ Ame kuna pinduka mongurangura ozi monkenda Zoge, Karunga gwange, nina tundu monz
 
 -- Bahá'u'lláh
 
-bpn6316 «[Namibia](../hz/prayers/#bpn6316)» 
+bpn6316 
 
 ----
 
@@ -1879,7 +1880,7 @@ bpn6316 «[Namibia](../hz/prayers/#bpn6316)»
 
 -- Bahá'u'lláh
 
-bpn6317 «[Namibia](../hz/prayers/#bpn6317)» 
+bpn6317 
 
 ----
 
@@ -1893,7 +1894,7 @@ Efumadeko Koge, Ove Karunge, kemonekeso Lyoge lyeharo kombunga! Hompa Ove Eparu 
 
 -- Bahá'u'lláh
 
-bpn6329 «[Namibia](../hz/prayers/#bpn6329)» 
+bpn6329 
 
 ----
 
@@ -1903,7 +1904,7 @@ Hompa, Karunga gwange, Hompa Karunga gwange, kwa takamesa nomutjima dovapika Wog
 
 -- Bahá'u'lláh
 
-bpn6330 «[Namibia](../hz/prayers/#bpn6330)» 
+bpn6330 
 
 ----
 
@@ -1913,17 +1914,17 @@ Tanta asi: Oh Karunga,Karunga gwange ! Dwarekange komutwe gwange kumwe nouhungam
 
 -- Bahá'u'lláh
 
-bpn6331 «[Namibia](../hz/prayers/#bpn6331)» 
+bpn6331 
 
 ----
 
 
 <a id="bpn6332"></a> 
-Karunga, ninka uzera wagumwe u kudumike evhu nalinye, ntani hena sitamba esi, &#34;soUntungi waKarunga,&#34; o si vambeke poyipara yonomuhoko.
+Karunga, ninka uzera wagumwe u kudumike evhu nalinye, ntani hena sitamba esi, "soUntungi waKarunga," o si vambeke poyipara yonomuhoko.
 
 -- Bahá'u'lláh
 
-bpn6332 «[Namibia](../hz/prayers/#bpn6332)» 
+bpn6332 
 
 ----
 
@@ -1933,7 +1934,7 @@ Pwa kara mutundisipo gomaudigu ga hana asi Nyove ndi? Uyunga: Efumadeko kwa Karu
 
 -- Báb
 
-bpn6333 «[Namibia](../hz/prayers/#bpn6333)» 
+bpn6333 
 
 ----
 
@@ -1943,7 +1944,7 @@ Hompa, Karunga! Tendeka nokuhafesa mwenyo gwange. Kuhura mutjima gwange. Zeresa 
 
 -- Abdu'l-Bahá
 
-bpn6334 «[Namibia](../hz/prayers/#bpn6334)» 
+bpn6334 
 
 ----
 
@@ -1953,7 +1954,7 @@ Hompa Hompa gwange, Mukarwa gwange, Mudiworoki gwange! Kara kaume kange mokukara
 
 -- Abdu'l-Bahá
 
-bpn6335 «[Namibia](../hz/prayers/#bpn6335)» 
+bpn6335 
 
 ----
 
@@ -1963,7 +1964,7 @@ Ove Hompa, Karunga gwange! Kwafa vaholi Woge ava wa hara, vaha singanyeka momapu
 
 -- Abdu'l-Bahá
 
-bpn6336 «[Namibia](../hz/prayers/#bpn6336)» 
+bpn6336 
 
 ----
 
@@ -1973,7 +1974,7 @@ Hompa, ose usuntu, tu pa ufenkenda Woge, Uhepwe, tupa ruha rwekurudiva Lyoge, tu
 
 -- Abdu'l-Bahá
 
-bpn6337 «[Namibia](../hz/prayers/#bpn6337)» 
+bpn6337 
 
 ----
 
@@ -1983,7 +1984,7 @@ Hompa! Ose kwato nonkondo, tu pameka. Hompa, Karunga! Ose vantu, tu pukurura. Ho
 
 -- Abdu'l-Bahá
 
-bpn6338 «[Namibia](../hz/prayers/#bpn6338)» 
+bpn6338 
 
 ----
 
@@ -1993,7 +1994,7 @@ Hompa Karunga gwange, Karunga gwange! Kerera vapika Woge vakulimburuke noyidovau
 
 -- Abdu'l-Bahá
 
-bpn6339 «[Namibia](../hz/prayers/#bpn6339)» 
+bpn6339 
 
 ----
 
@@ -2003,7 +2004,7 @@ Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso ma
 
 -- Abdu'l-Bahá
 
-bpn6340 «[Namibia](../hz/prayers/#bpn6340)» 
+bpn6340 
 
 ----
 
@@ -2017,7 +2018,7 @@ bpn6340 «[Namibia](../hz/prayers/#bpn6340)»
 
 -- Abdu'l-Bahá
 
-bpn6322 «[Namibia](../hz/prayers/#bpn6322)» 
+bpn6322 
 
 ----
 
@@ -2027,7 +2028,7 @@ Ove Hompa! Ronga vanona ava. Vanona ava yiwo yimenwa yomo sikunino, nombya Doge,
 
 -- Abdu'l-Bahá
 
-bpn6323 «[Namibia](../hz/prayers/#bpn6323)» 
+bpn6323 
 
 ----
 
@@ -2037,7 +2038,7 @@ Ove Hompa! Ninka vadinkantu vavembere ntani gava Unongo Woge kosisitwa esi soruh
 
 -- Abdu'l-Bahá
 
-bpn6324 «[Namibia](../hz/prayers/#bpn6324)» 
+bpn6324 
 
 ----
 
@@ -2047,7 +2048,7 @@ Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombu
 
 -- Abdu'l-Bahá
 
-bpn6325 «[Namibia](../hz/prayers/#bpn6325)» 
+bpn6325 
 
 ----
 
@@ -2061,7 +2062,7 @@ bpn6325 «[Namibia](../hz/prayers/#bpn6325)»
 
 -- Abdu'l-Bahá
 
-bpn6319 «[Namibia](../hz/prayers/#bpn6319)» 
+bpn6319 
 
 ----
 

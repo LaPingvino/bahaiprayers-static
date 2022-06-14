@@ -5,6 +5,7 @@ tags = ['lang=med', 'prayerbook']
 
 
 
+
 [ANATU TEK OUDUI ENGA ATENGA E](#ANATU+TEK+OUDUI+ENGA+ATENGA+E)
 
 [KANG AMPÄGLA BÄNGA ATENGA](#KANG+AMP%C3%84GLA+B%C3%84NGA+ATENGA)
@@ -47,7 +48,7 @@ Anatu nga numan wengdui ulg e kona kelkel bila pora tetem, mawaga, kona na kona 
 
 -- Bahá'u'lláh
 
-bpn13032 «[Melpa](../med/prayers/#bpn13032)» 
+bpn13032 
 
 ----
 
@@ -61,7 +62,7 @@ Anutu O, na nombolga bä wakadui:  Nanga mundmong enga lamb ela rängalg ngana n
 
 -- Abdu'l-Bahá
 
-bpn13025 «[Melpa](../med/prayers/#bpn13025)» 
+bpn13025 
 
 ----
 
@@ -75,7 +76,7 @@ Nanga Anutu nem bi panka.  Nimnga numan wengdui ugl, wamp numan ngui na wamp ki 
 
 -- Abdu'l-Bahá
 
-bpn13026 «[Melpa](../med/prayers/#bpn13026)» 
+bpn13026 
 
 ----
 
@@ -89,7 +90,7 @@ Nanga Anatu O, Nemnga bi ent na etepa tetim.  Wete Neme pilip ko mund dam, Nem p
 
 -- Bahá'u'lláh
 
-bpn13028 «[Melpa](../med/prayers/#bpn13028)» 
+bpn13028 
 
 ----
 
@@ -103,7 +104,7 @@ Anatu Ye, Nanga min iyä etikin kont mondokon numan e orong etiken kai pinti.  N
 
 -- Abdu'l-Bahá
 
-bpn13019 «[Melpa](../med/prayers/#bpn13019)» 
+bpn13019 
 
 ----
 
@@ -117,7 +118,7 @@ Nanga Anatu O!  Na nem nga ki kaemb ela rot nemb kai mondond.  Wamb ti ent nem n
 
 -- Bahá'u'lláh
 
-bpn13022 «[Melpa](../med/prayers/#bpn13022)» 
+bpn13022 
 
 ----
 
@@ -131,7 +132,7 @@ Anatu elem ent nit bä pentipa kelimba.  Mel elepa mat ent kongon emel etemba mo
 
 -- Báb
 
-bpn13030 «[Melpa](../med/prayers/#bpn13030)» 
+bpn13030 
 
 ----
 
@@ -145,7 +146,7 @@ Na Neminga, mondopa pili ela rot niti nanga Anatu O, Nem kin pora mondop pilip n
 
 -- Bahá'u'lláh
 
-bpn13020 «[Melpa](../med/prayers/#bpn13020)» 
+bpn13020 
 
 ----
 
@@ -159,7 +160,7 @@ Nanga wuta Anatu O!  Neminga numan ngoron wamb tik rapandana, Nemnga miti ela ro
 
 -- Abdu'l-Bahá
 
-bpn13018 «[Melpa](../med/prayers/#bpn13018)» 
+bpn13018 
 
 ----
 
@@ -173,7 +174,7 @@ Wä Nuim O!  Na Nemnga tep mumuk ropa, tenta iti ulg eya tip oldong ngolgmba Nem
 
 -- Abdu'l-Bahá
 
-bpn13021 «[Melpa](../med/prayers/#bpn13021)» 
+bpn13021 
 
 ----
 
@@ -187,7 +188,7 @@ bpn13021 «[Melpa](../med/prayers/#bpn13021)»
 
 -- Abdu'l-Bahá
 
-bpn13023 «[Melpa](../med/prayers/#bpn13023)» 
+bpn13023 
 
 ----
 
@@ -201,7 +202,7 @@ bpn13023 «[Melpa](../med/prayers/#bpn13023)»
 
 -- Bahá'u'lláh
 
-bpn13031 «[Melpa](../med/prayers/#bpn13031)» 
+bpn13031 
 
 ----
 
@@ -215,7 +216,7 @@ O Anatu O!   Nem wamb ti ken kapalga mon!  Anatu Nem tip mumukrui kona enga ami.
 
 -- Abdu'l-Bahá
 
-bpn13017 «[Melpa](../med/prayers/#bpn13017)» 
+bpn13017 
 
 ----
 
@@ -225,11 +226,11 @@ bpn13017 «[Melpa](../med/prayers/#bpn13017)»
 ## WAMP ON ITENG ATENGA E
 
 <a id="bpn13024"></a> 
-*Ya eia, Baha&#39;i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.Nanga Anatu, Ya eia, nemnga kentmant wä e, nimnga kentmant wä enga kangem e, nim mondep pelepa, nimnga ugl bä kantepa kon etepa, nin tepa olong ngopa, mel we bä pora tepa bugl ngorom.  Nim wamp numa weng doromen bä keen numan weng doron.Nim wi mugl kona ila numan wengdui ugl a mim kota mel kapolga muglanga wamp bä nga nit bä penteken kelekon pund mong bä panda rokon eten ni mel a wamp e eteken ti.  Numan weng dokon kond kolkon ninim rukurung ti.  Nimng wamp kond kul ugl a mugl mai ragl napi ken pitim.  Wä Anatu we ti namboromen, nim mendepogl.  Wamp numan wengdui wate wamp kingui wä e nim mendopolg.Atenga rom wamp ent, a ik mong e nempa etanga Alláh-u-Abhá.  Ya mana kigl wema 19 etanga.Alláh-u-Abhá!Ten pora kopa Anatu rop potdenmon.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga koemp ketal rumagli penemon.  (19)Alláh-u-Abhá!Ten pora kopa Anatu ken mundu mong e ngonomen.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga bi paka ronomon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken aenge nenemon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken raka nemp moromon.(19)
+*Ya eia, Baha'i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.Nanga Anatu, Ya eia, nemnga kentmant wä e, nimnga kentmant wä enga kangem e, nim mondep pelepa, nimnga ugl bä kantepa kon etepa, nin tepa olong ngopa, mel we bä pora tepa bugl ngorom.  Nim wamp numa weng doromen bä keen numan weng doron.Nim wi mugl kona ila numan wengdui ugl a mim kota mel kapolga muglanga wamp bä nga nit bä penteken kelekon pund mong bä panda rokon eten ni mel a wamp e eteken ti.  Numan weng dokon kond kolkon ninim rukurung ti.  Nimng wamp kond kul ugl a mugl mai ragl napi ken pitim.  Wä Anatu we ti namboromen, nim mendepogl.  Wamp numan wengdui wate wamp kingui wä e nim mendopolg.Atenga rom wamp ent, a ik mong e nempa etanga Alláh-u-Abhá.  Ya mana kigl wema 19 etanga.Alláh-u-Abhá!Ten pora kopa Anatu rop potdenmon.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga koemp ketal rumagli penemon.  (19)Alláh-u-Abhá!Ten pora kopa Anatu ken mundu mong e ngonomen.  (19)Alláh-u-Abhá!Ten pora kopa Anatunga bi paka ronomon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken aenge nenemon.(19)Alláh-u-Abhá!Ten pora kopa Anatu ken raka nemp moromon.(19)
 
 -- Bahá'u'lláh
 
-bpn13024 «[Melpa](../med/prayers/#bpn13024)» 
+bpn13024 
 
 ----
 
@@ -243,7 +244,7 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 
 -- Bahá'u'lláh
 
-bpn13029 «[Melpa](../med/prayers/#bpn13029)» 
+bpn13029 
 
 ----
 
@@ -253,11 +254,11 @@ bpn13029 «[Melpa](../med/prayers/#bpn13029)»
 ## WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK
 
 <a id="bpn13027"></a> 
-*Ya kikonta ik e Bahá’í mondop pili wamp ragl nga koemp keta ila kikonta ruingil wä eken ämp eken ningil ik e ya Kitáb-i-Aqdas wingti ila rorong petem emel:&#34;Tel pora, Anutu nga numan petem emel pora pep rop muglu mbil.”
+*Ya kikonta ik e Bahá’í mondop pili wamp ragl nga koemp keta ila kikonta ruingil wä eken ämp eken ningil ik e ya Kitáb-i-Aqdas wingti ila rorong petem emel:"Tel pora, Anutu nga numan petem emel pora pep rop muglu mbil.”
 
 -- Bahá'u'lláh
 
-bpn13027 «[Melpa](../med/prayers/#bpn13027)» 
+bpn13027 
 
 ----
 

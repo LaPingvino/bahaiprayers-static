@@ -5,6 +5,7 @@ tags = ['lang=sv', 'prayerbook']
 
 
 
+
 [Afton](#Afton)
 
 [Andliga egenskaper](#Andliga+egenskaper)
@@ -85,7 +86,7 @@ O min Gud, min Mästare, min längtans mål. Denne Din tjänare söker sin sömn
 
 -- Bahá'u'lláh
 
-bpn10265 «[Svenska](../sv/prayers/#bpn10265)» 
+bpn10265 
 
 ----
 
@@ -95,7 +96,7 @@ Hur kan jag välja sömnen, o min Gud, när de längtandes ögon vakar för att 
 
 -- Bahá'u'lláh
 
-bpn10266 «[Svenska](../sv/prayers/#bpn10266)» 
+bpn10266 
 
 ----
 
@@ -105,7 +106,7 @@ O sanningssökare! Om du önskar att Gud skall öppna ditt öga, måste du bönf
 
 -- Bahá'u'lláh
 
-bpn10267 «[Svenska](../sv/prayers/#bpn10267)» 
+bpn10267 
 
 ----
 
@@ -119,7 +120,7 @@ Skapa i mig ett rent hjärta, o min Gud, och skänk mig åter ett lugnt samvete,
 
 -- Bahá'u'lláh
 
-bpn10268 «[Svenska](../sv/prayers/#bpn10268)» 
+bpn10268 
 
 ----
 
@@ -129,7 +130,7 @@ O Du, inför vars oerhörda majestät alla har bävat, i vars grepp alla männis
 
 -- Bahá'u'lláh
 
-bpn10269 «[Svenska](../sv/prayers/#bpn10269)» 
+bpn10269 
 
 ----
 
@@ -139,7 +140,7 @@ Säg: O Gud, min Gud! Pryd mitt huvud med rättvisans krona och min kropp med r�
 
 -- Bahá'u'lláh
 
-bpn10270 «[Svenska](../sv/prayers/#bpn10270)» 
+bpn10270 
 
 ----
 
@@ -149,7 +150,7 @@ Jag bönfaller Dig, o min Gud, vid Ditt namns upphöjda härlighet, att ikläda 
 
 -- Bahá'u'lláh
 
-bpn10271 «[Svenska](../sv/prayers/#bpn10271)» 
+bpn10271 
 
 ----
 
@@ -159,7 +160,7 @@ Förhärligat vare Ditt namn, o Herre min Gud, varigenom träden i Din uppenbare
 
 -- Bahá'u'lláh
 
-bpn10272 «[Svenska](../sv/prayers/#bpn10272)» 
+bpn10272 
 
 ----
 
@@ -169,7 +170,7 @@ Ur Din evighets ljuvligt doftande strömmar giv mig att dricka, o min Gud, och g
 
 -- Bahá'u'lláh
 
-bpn10273 «[Svenska](../sv/prayers/#bpn10273)» 
+bpn10273 
 
 ----
 
@@ -179,7 +180,7 @@ Han är den Nåderike, den Allgivande!       O Gud, min Gud! Ditt kallelserop ha
 
 -- Bahá'u'lláh
 
-bpn10274 «[Svenska](../sv/prayers/#bpn10274)» 
+bpn10274 
 
 ----
 
@@ -189,7 +190,7 @@ O Gud! Giv min själ glädje och vederkvickelse. Rena mitt hjärta. Genomstråla
 
 -- Abdu'l-Bahá
 
-bpn10275 «[Svenska](../sv/prayers/#bpn10275)» 
+bpn10275 
 
 ----
 
@@ -199,7 +200,7 @@ O min Gud, o min Gud! Ärad vare Du för att Du har styrkt mig att erkänna Din 
 
 -- Abdu'l-Bahá
 
-bpn10276 «[Svenska](../sv/prayers/#bpn10276)» 
+bpn10276 
 
 ----
 
@@ -209,7 +210,7 @@ O Gud, min Gud. Dessa är Dina svaga tjänare, Dina trofasta arbetare och tjäna
 
 -- Abdu'l-Bahá
 
-bpn10277 «[Svenska](../sv/prayers/#bpn10277)» 
+bpn10277 
 
 ----
 
@@ -223,7 +224,7 @@ Närhelst ni inträder i rådslokalen, läs denna bön med ett hjärta skälvand
 
 -- Abdu'l-Bahá
 
-bpn10370 «[Svenska](../sv/prayers/#bpn10370)» 
+bpn10370 
 
 ----
 
@@ -233,7 +234,7 @@ Församla er i renaste glädje och läs denna bön vid mötets början:O Du konu
 
 -- Abdu'l-Bahá
 
-bpn10371 «[Svenska](../sv/prayers/#bpn10371)» 
+bpn10371 
 
 ----
 
@@ -243,7 +244,7 @@ Bön att läsas som avslutning på sammanträden med det andliga rådet.O Gud! O
 
 -- Abdu'l-Bahá
 
-bpn10372 «[Svenska](../sv/prayers/#bpn10372)» 
+bpn10372 
 
 ----
 
@@ -257,7 +258,7 @@ Lovat vare Ditt namn, o min Gud! Jag bönfaller Dig, vid vällukterna från Din 
 
 -- Abdu'l-Bahá
 
-bpn10278 «[Svenska](../sv/prayers/#bpn10278)» 
+bpn10278 
 
 ----
 
@@ -267,7 +268,7 @@ Jag vet icke, o min Gud, vad den eld är som Du har tänt i Ditt land. Jord kan 
 
 -- Abdu'l-Bahá
 
-bpn10279 «[Svenska](../sv/prayers/#bpn10279)» 
+bpn10279 
 
 ----
 
@@ -277,7 +278,7 @@ Månget modfällt hjärta, o min Gud, har satts i brand av Din saks eld och mån
 
 -- Abdu'l-Bahá
 
-bpn10280 «[Svenska](../sv/prayers/#bpn10280)» 
+bpn10280 
 
 ----
 
@@ -287,7 +288,7 @@ O Gud, min Gud! Du är mitt hopp och min älskade, mitt åsyftade mål och min l
 
 -- Abdu'l-Bahá
 
-bpn10281 «[Svenska](../sv/prayers/#bpn10281)» 
+bpn10281 
 
 ----
 
@@ -297,7 +298,7 @@ O Gud, min Gud! Fyll åt mig den bägare som är avskiljandet från allt, och i 
 
 -- Abdu'l-Bahá
 
-bpn10282 «[Svenska](../sv/prayers/#bpn10282)» 
+bpn10282 
 
 ----
 
@@ -311,7 +312,7 @@ Prisad vare Du, o Herre min Gud! Bevilja nådefullt detta barn dess föda från 
 
 -- Bahá'u'lláh
 
-bpn10283 «[Svenska](../sv/prayers/#bpn10283)» 
+bpn10283 
 
 ----
 
@@ -321,7 +322,7 @@ O Gud! Uppfostra dessa barn. Dessa barn är plantor i Din örtagård, blommor p�
 
 -- Abdu'l-Bahá
 
-bpn10284 «[Svenska](../sv/prayers/#bpn10284)» 
+bpn10284 
 
 ----
 
@@ -331,7 +332,7 @@ O Du oförliknelige Gud! Låt detta spädbarn näras vid Din godhets bröst, vak
 
 -- Abdu'l-Bahá
 
-bpn10286 «[Svenska](../sv/prayers/#bpn10286)» 
+bpn10286 
 
 ----
 
@@ -341,7 +342,7 @@ O Gud! Låt detta späda barn födas upp i Din kärleks famn och giv det mjölk 
 
 -- Abdu'l-Bahá
 
-bpn10287 «[Svenska](../sv/prayers/#bpn10287)» 
+bpn10287 
 
 ----
 
@@ -351,7 +352,7 @@ O Du gode Herre! Dessa älskliga barn är skapelser av Din makts fingrar och de 
 
 -- Abdu'l-Bahá
 
-bpn10288 «[Svenska](../sv/prayers/#bpn10288)» 
+bpn10288 
 
 ----
 
@@ -361,7 +362,7 @@ O Du gode Herre! Jag är ett litet barn, upphöj mig genom att låta mig inträd
 
 -- Abdu'l-Bahá
 
-bpn10289 «[Svenska](../sv/prayers/#bpn10289)» 
+bpn10289 
 
 ----
 
@@ -371,7 +372,7 @@ O min Herre! O min Herre! Jag är ett barn i späd ålder. Giv mig näring från
 
 -- Abdu'l-Bahá
 
-bpn10290 «[Svenska](../sv/prayers/#bpn10290)» 
+bpn10290 
 
 ----
 
@@ -381,7 +382,7 @@ O Du fullkomlige Gud! Jag är ett litet barn, giv att Din gåvas famn blir till 
 
 -- Abdu'l-Bahá
 
-bpn10291 «[Svenska](../sv/prayers/#bpn10291)» 
+bpn10291 
 
 ----
 
@@ -391,7 +392,7 @@ O min Gud, o min Gud! Du ser dessa barn. Dessa barn är grenarna på livets trä
 
 -- Abdu'l-Bahá
 
-bpn10292 «[Svenska](../sv/prayers/#bpn10292)» 
+bpn10292 
 
 ----
 
@@ -401,7 +402,7 @@ O Herre! Upplys denna unga människa och förläna denna ringa varelse Din ynnes
 
 -- Abdu'l-Bahá
 
-bpn10293 «[Svenska](../sv/prayers/#bpn10293)» 
+bpn10293 
 
 ----
 
@@ -411,7 +412,7 @@ O Du gode Herre! Från frigörelsens horisont har Du uppenbarat själar som likt
 
 -- Abdu'l-Bahá
 
-bpn10294 «[Svenska](../sv/prayers/#bpn10294)» 
+bpn10294 
 
 ----
 
@@ -421,7 +422,7 @@ O Gud! Led mig, skydda mig, tänd ljuset i mitt hjärta och gör mig till en str
 
 -- Abdu'l-Bahá
 
-bpn10285 «[Svenska](../sv/prayers/#bpn10285)» 
+bpn10285 
 
 ----
 
@@ -435,7 +436,7 @@ När denna bön läses vid bahá’í-begravningar, skall alla de närvarande st
 
 -- Bahá'u'lláh
 
-bpn10374 «[Svenska](../sv/prayers/#bpn10374)» 
+bpn10374 
 
 ----
 
@@ -449,7 +450,7 @@ O Gud, min Gud! Jag har lämnat mitt hem och håller fast vid Din kärleks band,
 
 -- Bahá'u'lláh
 
-bpn10295 «[Svenska](../sv/prayers/#bpn10295)» 
+bpn10295 
 
 ----
 
@@ -459,7 +460,7 @@ Lovat vare Ditt namn, o Herre min Gud! Jag bönfaller Dig vid Ditt namn, genom v
 
 -- Bahá'u'lláh
 
-bpn10296 «[Svenska](../sv/prayers/#bpn10296)» 
+bpn10296 
 
 ----
 
@@ -469,7 +470,7 @@ bpn10296 «[Svenska](../sv/prayers/#bpn10296)»
 
 -- Bahá'u'lláh
 
-bpn10297 «[Svenska](../sv/prayers/#bpn10297)» 
+bpn10297 
 
 ----
 
@@ -479,7 +480,7 @@ O Gud, min Gud! Värna Dina betrodda tjänare mot själviskhetens och begärens 
 
 -- Abdu'l-Bahá
 
-bpn10298 «[Svenska](../sv/prayers/#bpn10298)» 
+bpn10298 
 
 ----
 
@@ -489,7 +490,7 @@ Han är den Medlidsamme, den Allgivande! O Gud, min Gud! Du ser mig, Du känner 
 
 -- Abdu'l-Bahá
 
-bpn10299 «[Svenska](../sv/prayers/#bpn10299)» 
+bpn10299 
 
 ----
 
@@ -503,7 +504,7 @@ Denna skrift läses vid Bahá’u’lláhs och Bábs gravhelgedomar. Den använd
 
 -- Bahá'u'lláh
 
-bpn10362 «[Svenska](../sv/prayers/#bpn10362)» 
+bpn10362 
 
 ----
 
@@ -513,7 +514,7 @@ Denna bön, uppenbarad av ‘Abdu’l-Bahá, läses vid Hans gravhelgedom. Den a
 
 -- Abdu'l-Bahá
 
-bpn10363 «[Svenska](../sv/prayers/#bpn10363)» 
+bpn10363 
 
 ----
 
@@ -527,7 +528,7 @@ O Du, vars anlete är föremålet för min tillbedjan, vars skönhet är min hel
 
 -- Bahá'u'lláh
 
-bpn10300 «[Svenska](../sv/prayers/#bpn10300)» 
+bpn10300 
 
 ----
 
@@ -537,7 +538,7 @@ Förhärligad vare Du, o Herre min Gud! Jag ber Dig vid Ditt namn, vilket Du har
 
 -- Bahá'u'lláh
 
-bpn10301 «[Svenska](../sv/prayers/#bpn10301)» 
+bpn10301 
 
 ----
 
@@ -547,7 +548,7 @@ Förhärligad vare Du, o Herre min Gud! Du är Han, vars kärleks eld har satt h
 
 -- Bahá'u'lláh
 
-bpn10302 «[Svenska](../sv/prayers/#bpn10302)» 
+bpn10302 
 
 ----
 
@@ -557,7 +558,7 @@ Prisad vare Du, o Herre min Gud! Jag bönfaller Dig vid Ditt namn, som låtit Di
 
 -- Bahá'u'lláh
 
-bpn10303 «[Svenska](../sv/prayers/#bpn10303)» 
+bpn10303 
 
 ----
 
@@ -567,7 +568,7 @@ bpn10303 «[Svenska](../sv/prayers/#bpn10303)»
 
 -- Bahá'u'lláh
 
-bpn10304 «[Svenska](../sv/prayers/#bpn10304)» 
+bpn10304 
 
 ----
 
@@ -577,7 +578,7 @@ Min Gud, min älskade, min konung, min åstundan! Vilken tunga kan uttrycka min 
 
 -- Bahá'u'lláh
 
-bpn10305 «[Svenska](../sv/prayers/#bpn10305)» 
+bpn10305 
 
 ----
 
@@ -587,7 +588,7 @@ Herre! Vi är ömkansvärda, giv oss Din ynnest. Vi är fattiga, bestå oss av D
 
 -- Abdu'l-Bahá
 
-bpn10306 «[Svenska](../sv/prayers/#bpn10306)» 
+bpn10306 
 
 ----
 
@@ -601,7 +602,7 @@ Han är Helaren, den Tillräcklige, Hjälparen, den allt Förlåtande, den Allba
 
 -- Bahá'u'lláh
 
-bpn10376 «[Svenska](../sv/prayers/#bpn10376)» 
+bpn10376 
 
 ----
 
@@ -615,7 +616,7 @@ I Guds, den Uråldriges, den Störstes namn. I sanning, de uppriktigas hjärtan 
 
 -- Bahá'u'lláh
 
-bpn10377 «[Svenska](../sv/prayers/#bpn10377)» 
+bpn10377 
 
 ----
 
@@ -629,7 +630,7 @@ O min Gud! O min Gud! Förena Dina tjänares hjärtan och uppenbara för dem Dit
 
 -- Bahá'u'lláh
 
-bpn10311 «[Svenska](../sv/prayers/#bpn10311)» 
+bpn10311 
 
 ----
 
@@ -643,7 +644,7 @@ Bön under graviditetMin Herre, min Herre! Jag prisar Dig och tackar Dig för de
 
 -- Abdu'l-Bahá
 
-bpn10312 «[Svenska](../sv/prayers/#bpn10312)» 
+bpn10312 
 
 ----
 
@@ -653,7 +654,7 @@ Bön för föräldrarO Herre! I denna största gudomliga lära godtar Du barns f
 
 -- Abdu'l-Bahá
 
-bpn10313 «[Svenska](../sv/prayers/#bpn10313)» 
+bpn10313 
 
 ----
 
@@ -663,7 +664,7 @@ O Du gode Herre! O Du som är givmild och barmhärtig! Vi är tjänare vid Din t
 
 -- Abdu'l-Bahá
 
-bpn10314 «[Svenska](../sv/prayers/#bpn10314)» 
+bpn10314 
 
 ----
 
@@ -673,7 +674,7 @@ bpn10314 «[Svenska](../sv/prayers/#bpn10314)»
 
 -- Abdu'l-Bahá
 
-bpn10315 «[Svenska](../sv/prayers/#bpn10315)» 
+bpn10315 
 
 ----
 
@@ -687,7 +688,7 @@ bpn10315 «[Svenska](../sv/prayers/#bpn10315)»
 
 -- Bahá'u'lláh
 
-bpn10365 «[Svenska](../sv/prayers/#bpn10365)» 
+bpn10365 
 
 ----
 
@@ -701,7 +702,7 @@ bpn10365 «[Svenska](../sv/prayers/#bpn10365)»
 
 -- Bahá'u'lláh
 
-bpn10316 «[Svenska](../sv/prayers/#bpn10316)» 
+bpn10316 
 
 ----
 
@@ -711,7 +712,7 @@ Han är den Mäktige, den Förlåtande, den Medlidsamme!O Gud, min Gud! Du ser D
 
 -- Bahá'u'lláh
 
-bpn10317 «[Svenska](../sv/prayers/#bpn10317)» 
+bpn10317 
 
 ----
 
@@ -721,7 +722,7 @@ O Gud, min Gud! Jag har i ånger vänt mig till Dig och sannerligen, Du är För
 
 -- Bahá'u'lláh
 
-bpn10318 «[Svenska](../sv/prayers/#bpn10318)» 
+bpn10318 
 
 ----
 
@@ -731,7 +732,7 @@ O Herre, min Gud! Bistå Dina älskade att vara fasta i Din tro, att vandra Dina
 
 -- Abdu'l-Bahá
 
-bpn10319 «[Svenska](../sv/prayers/#bpn10319)» 
+bpn10319 
 
 ----
 
@@ -741,7 +742,7 @@ O min Herre och mitt hopp! Hjälp Dina älskade att vara fasta i Ditt mäktiga f
 
 -- Abdu'l-Bahá
 
-bpn10320 «[Svenska](../sv/prayers/#bpn10320)» 
+bpn10320 
 
 ----
 
@@ -751,7 +752,7 @@ Gör våra steg fasta på Din väg, o Herre, och stärk våra hjärtan i lydnad 
 
 -- Abdu'l-Bahá
 
-bpn10321 «[Svenska](../sv/prayers/#bpn10321)» 
+bpn10321 
 
 ----
 
@@ -761,7 +762,7 @@ O medlidsamme Gud! Lovad vare Du, ty Du har väckt mig och gjort mig medveten. D
 
 -- Abdu'l-Bahá
 
-bpn10322 «[Svenska](../sv/prayers/#bpn10322)» 
+bpn10322 
 
 ----
 
@@ -775,7 +776,7 @@ Alla Guds vänner ... bör i möjligaste mån bidra, hur ringa deras gåvor än 
 
 -- Abdu'l-Bahá
 
-bpn10373 «[Svenska](../sv/prayers/#bpn10373)» 
+bpn10373 
 
 ----
 
@@ -789,7 +790,7 @@ bpn10373 «[Svenska](../sv/prayers/#bpn10373)»
 
 -- Bahá'u'lláh
 
-bpn10307 «[Svenska](../sv/prayers/#bpn10307)» 
+bpn10307 
 
 ----
 
@@ -799,7 +800,7 @@ Han är Gud, upphöjd vare Han, den kärleksfulla godhetens och frikostighetens 
 
 -- Bahá'u'lláh
 
-bpn10308 «[Svenska](../sv/prayers/#bpn10308)» 
+bpn10308 
 
 ----
 
@@ -809,7 +810,7 @@ O min Gud! O Du syndernas förlåtare, gåvornas givare, bedrövelsens förjagar
 
 -- Abdu'l-Bahá
 
-bpn10309 «[Svenska](../sv/prayers/#bpn10309)» 
+bpn10309 
 
 ----
 
@@ -819,7 +820,7 @@ O min Gud, o Du som förlåter synder och undanröjer lidande! O Du som är för
 
 -- Abdu'l-Bahá
 
-bpn10310 «[Svenska](../sv/prayers/#bpn10310)» 
+bpn10310 
 
 ----
 
@@ -833,7 +834,7 @@ Lovat vare Ditt namn, o min Gud och alltings Gud, min härlighet och alltings h�
 
 -- Bahá'u'lláh
 
-bpn10323 «[Svenska](../sv/prayers/#bpn10323)» 
+bpn10323 
 
 ----
 
@@ -843,7 +844,7 @@ bpn10323 «[Svenska](../sv/prayers/#bpn10323)»
 
 -- Báb
 
-bpn10324 «[Svenska](../sv/prayers/#bpn10324)» 
+bpn10324 
 
 ----
 
@@ -853,7 +854,7 @@ O Du förlåtande Herre! Du är alla dessa Dina tjänares skydd. Du vet hemlighe
 
 -- Abdu'l-Bahá
 
-bpn10325 «[Svenska](../sv/prayers/#bpn10325)» 
+bpn10325 
 
 ----
 
@@ -867,7 +868,7 @@ Förhärligat vare Ditt namn, o min Gud, för att Du har uppenbarat den dag som 
 
 -- Bahá'u'lláh
 
-bpn10326 «[Svenska](../sv/prayers/#bpn10326)» 
+bpn10326 
 
 ----
 
@@ -881,7 +882,7 @@ HÄLSAO Gud, min Gud! Jag bönfaller Dig vid Din helande krafts ocean, och vid h
 
 -- Bahá'u'lláh
 
-bpn10327 «[Svenska](../sv/prayers/#bpn10327)» 
+bpn10327 
 
 ----
 
@@ -891,7 +892,7 @@ Ditt namn är min läkedom, o min Gud, och hågkomsten av Dig mitt botemedel. N�
 
 -- Bahá'u'lláh
 
-bpn10328 «[Svenska](../sv/prayers/#bpn10328)» 
+bpn10328 
 
 ----
 
@@ -901,7 +902,7 @@ bpn10328 «[Svenska](../sv/prayers/#bpn10328)»
 
 -- Abdu'l-Bahá
 
-bpn10329 «[Svenska](../sv/prayers/#bpn10329)» 
+bpn10329 
 
 ----
 
@@ -915,7 +916,7 @@ bpn10329 «[Svenska](../sv/prayers/#bpn10329)»
 
 -- Bahá'u'lláh
 
-bpn10262 «[Svenska](../sv/prayers/#bpn10262)» 
+bpn10262 
 
 ----
 
@@ -929,7 +930,7 @@ bpn10262 «[Svenska](../sv/prayers/#bpn10262)»
 
 -- Bahá'u'lláh
 
-bpn10264 «[Svenska](../sv/prayers/#bpn10264)» 
+bpn10264 
 
 ----
 
@@ -943,7 +944,7 @@ Han är Gud! O Herre, min Gud! O Du som är de svagas hjälpare, de fattigas st�
 
 -- Abdu'l-Bahá
 
-bpn10375 «[Svenska](../sv/prayers/#bpn10375)» 
+bpn10375 
 
 ----
 
@@ -957,7 +958,7 @@ bpn10375 «[Svenska](../sv/prayers/#bpn10375)»
 
 -- Bahá'u'lláh
 
-bpn10263 «[Svenska](../sv/prayers/#bpn10263)» 
+bpn10263 
 
 ----
 
@@ -971,7 +972,7 @@ Jag har vaknat i Ditt beskydd, o min Gud, och det tillkommer den som söker dett
 
 -- Bahá'u'lláh
 
-bpn10330 «[Svenska](../sv/prayers/#bpn10330)» 
+bpn10330 
 
 ----
 
@@ -981,7 +982,7 @@ Jag har stigit upp denna morgon genom Din nåd, o min Gud, och lämnat mitt hem 
 
 -- Bahá'u'lláh
 
-bpn10331 «[Svenska](../sv/prayers/#bpn10331)» 
+bpn10331 
 
 ----
 
@@ -995,7 +996,7 @@ Min Gud som jag tillber och dyrkar! Jag bär vittnesbörd om Din enhet och erkä
 
 -- Bahá'u'lláh
 
-bpn10332 «[Svenska](../sv/prayers/#bpn10332)» 
+bpn10332 
 
 ----
 
@@ -1005,7 +1006,7 @@ Lovat vare Ditt namn, o Herre min Gud! Mörker har fallit över varje land och f
 
 -- Bahá'u'lláh
 
-bpn10333 «[Svenska](../sv/prayers/#bpn10333)» 
+bpn10333 
 
 ----
 
@@ -1015,7 +1016,7 @@ O Du gode Herre! Du har skapat hela mänskligheten av samma ursprung. Du har bes
 
 -- Abdu'l-Bahá
 
-bpn10334 «[Svenska](../sv/prayers/#bpn10334)» 
+bpn10334 
 
 ----
 
@@ -1029,7 +1030,7 @@ Förhärligad vare Du, o Herre min Gud! Jag bönfaller Dig vid Din nåds storman
 
 -- Bahá'u'lláh
 
-bpn10335 «[Svenska](../sv/prayers/#bpn10335)» 
+bpn10335 
 
 ----
 
@@ -1039,7 +1040,7 @@ O min Gud! O min Gud! Sannerligen, dessa tjänare vänder sig till Dig och bönf
 
 -- Abdu'l-Bahá
 
-bpn10336 «[Svenska](../sv/prayers/#bpn10336)» 
+bpn10336 
 
 ----
 
@@ -1049,7 +1050,7 @@ O Du förlåtande Gud! Dessa tjänare vänder sig till Ditt rike och söker Din 
 
 -- Abdu'l-Bahá
 
-bpn10337 «[Svenska](../sv/prayers/#bpn10337)» 
+bpn10337 
 
 ----
 
@@ -1063,7 +1064,7 @@ bpn10337 «[Svenska](../sv/prayers/#bpn10337)»
 
 -- Bahá'u'lláh
 
-bpn10366 «[Svenska](../sv/prayers/#bpn10366)» 
+bpn10366 
 
 ----
 
@@ -1077,7 +1078,7 @@ Fördriv mina bekymmer genom Din välgörenhet och Din givmildhet, o Gud min Gud
 
 -- Bahá'u'lláh
 
-bpn10338 «[Svenska](../sv/prayers/#bpn10338)» 
+bpn10338 
 
 ----
 
@@ -1087,7 +1088,7 @@ bpn10338 «[Svenska](../sv/prayers/#bpn10338)»
 
 -- Bahá'u'lláh
 
-bpn10339 «[Svenska](../sv/prayers/#bpn10339)» 
+bpn10339 
 
 ----
 
@@ -1097,7 +1098,7 @@ Förhärligad vare Du, o Herre min Gud! Varje insiktsfull människa erkänner Di
 
 -- Bahá'u'lláh
 
-bpn10340 «[Svenska](../sv/prayers/#bpn10340)» 
+bpn10340 
 
 ----
 
@@ -1107,7 +1108,7 @@ O Du vars prövningar är ett läkande botemedel för dem som är nära Dig, var
 
 -- Bahá'u'lláh
 
-bpn10341 «[Svenska](../sv/prayers/#bpn10341)» 
+bpn10341 
 
 ----
 
@@ -1117,7 +1118,7 @@ Förhärligat vare Ditt namn, o Du som har vägledningens tyglar i Ditt grepp f�
 
 -- Bahá'u'lláh
 
-bpn10342 «[Svenska](../sv/prayers/#bpn10342)» 
+bpn10342 
 
 ----
 
@@ -1127,7 +1128,7 @@ Finns det någon befriare från svårigheter utom Gud! Säg: Prisad vare Gud! Ha
 
 -- Báb
 
-bpn10343 «[Svenska](../sv/prayers/#bpn10343)» 
+bpn10343 
 
 ----
 
@@ -1137,7 +1138,7 @@ Säg: Gud tillfredsställer allt över allting och ingenting i himlarna eller p�
 
 -- Báb
 
-bpn10344 «[Svenska](../sv/prayers/#bpn10344)» 
+bpn10344 
 
 ----
 
@@ -1147,7 +1148,7 @@ O Herre, min Gud och min tillflykt i min sorg! Mitt värn och mitt skydd i mitt 
 
 -- Abdu'l-Bahá
 
-bpn10345 «[Svenska](../sv/prayers/#bpn10345)» 
+bpn10345 
 
 ----
 
@@ -1157,7 +1158,7 @@ O min Herre, min älskade, min åstundan! Hjälp mig i min ensamhet och beledsag
 
 -- Abdu'l-Bahá
 
-bpn10346 «[Svenska](../sv/prayers/#bpn10346)» 
+bpn10346 
 
 ----
 
@@ -1171,7 +1172,7 @@ Jag bönfaller Dig vid Din kraft, o min Gud! Låt ingen skada drabba mig i pröv
 
 -- Báb
 
-bpn10347 «[Svenska](../sv/prayers/#bpn10347)» 
+bpn10347 
 
 ----
 
@@ -1181,7 +1182,7 @@ O Herre! Hos Dig söker jag min fristad och till alla Dina tecken vänder jag mi
 
 -- Báb
 
-bpn10348 «[Svenska](../sv/prayers/#bpn10348)» 
+bpn10348 
 
 ----
 
@@ -1195,7 +1196,7 @@ Skottdagarna, Ayyám-i-Há, 26 februari - 1 mars, bör ägnas åt förberedelser
 
 -- Bahá'u'lláh
 
-bpn10364 «[Svenska](../sv/prayers/#bpn10364)» 
+bpn10364 
 
 ----
 
@@ -1209,7 +1210,7 @@ bpn10364 «[Svenska](../sv/prayers/#bpn10364)»
 
 -- Bahá'u'lláh
 
-bpn10361 «[Svenska](../sv/prayers/#bpn10361)» 
+bpn10361 
 
 ----
 
@@ -1223,7 +1224,7 @@ Allt pris tillkomme Dig, o min Gud, som är källan till all härlighet och allt
 
 -- Bahá'u'lláh
 
-bpn10349 «[Svenska](../sv/prayers/#bpn10349)» 
+bpn10349 
 
 ----
 
@@ -1233,7 +1234,7 @@ I Guds, den Högstes, namn! Lovad och förhärligad vare Du, Herren Gud allsmäk
 
 -- Bahá'u'lláh
 
-bpn10350 «[Svenska](../sv/prayers/#bpn10350)» 
+bpn10350 
 
 ----
 
@@ -1247,7 +1248,7 @@ bpn10350 «[Svenska](../sv/prayers/#bpn10350)»
 
 -- Bahá'u'lláh
 
-bpn10351 «[Svenska](../sv/prayers/#bpn10351)» 
+bpn10351 
 
 ----
 
@@ -1257,7 +1258,7 @@ O Gud, som är upphovet till alla uppenbarare, ursprunget till alla källor, upp
 
 -- Bahá'u'lláh
 
-bpn10352 «[Svenska](../sv/prayers/#bpn10352)» 
+bpn10352 
 
 ----
 
@@ -1267,7 +1268,7 @@ Mörker omsluter varje land, o min Gud, och har kommit de flesta av Dina tjänar
 
 -- Bahá'u'lláh
 
-bpn10353 «[Svenska](../sv/prayers/#bpn10353)» 
+bpn10353 
 
 ----
 
@@ -1277,7 +1278,7 @@ O min Gud, bistå Din tjänare att upphöja Ordet och att vederlägga det som ä
 
 -- Abdu'l-Bahá
 
-bpn10354 «[Svenska](../sv/prayers/#bpn10354)» 
+bpn10354 
 
 ----
 
@@ -1287,7 +1288,7 @@ för bahá’íerna som reser för att undervisa om tron. O Du oförliknelige Gu
 
 -- Abdu'l-Bahá
 
-bpn10355 «[Svenska](../sv/prayers/#bpn10355)» 
+bpn10355 
 
 ----
 
@@ -1297,7 +1298,7 @@ Må var och en som beger sig ut på en undervisningsresa till någon plats, läs
 
 -- Abdu'l-Bahá
 
-bpn10356 «[Svenska](../sv/prayers/#bpn10356)» 
+bpn10356 
 
 ----
 
@@ -1307,7 +1308,7 @@ Må vemhelst som reser till olika platser för att undervisa, i begrundan läsa 
 
 -- Abdu'l-Bahá
 
-bpn10357 «[Svenska](../sv/prayers/#bpn10357)» 
+bpn10357 
 
 ----
 
@@ -1317,7 +1318,7 @@ Följande bön är avsedd att läsas dagligen av vännerna och av dem som underv
 
 -- Abdu'l-Bahá
 
-bpn10358 «[Svenska](../sv/prayers/#bpn10358)» 
+bpn10358 
 
 ----
 
@@ -1327,7 +1328,7 @@ Var och en som reser genom städerna, samhällena och byarna i dessa stater, ver
 
 -- Abdu'l-Bahá
 
-bpn10359 «[Svenska](../sv/prayers/#bpn10359)» 
+bpn10359 
 
 ----
 
@@ -1337,7 +1338,7 @@ Följande bön är avsedd att läsas ... varje dag:O Gud! O Gud! Detta är en vi
 
 -- Abdu'l-Bahá
 
-bpn10360 «[Svenska](../sv/prayers/#bpn10360)» 
+bpn10360 
 
 ----
 
@@ -1351,7 +1352,7 @@ bpn10360 «[Svenska](../sv/prayers/#bpn10360)»
 
 -- Bahá'u'lláh
 
-bpn10367 «[Svenska](../sv/prayers/#bpn10367)» 
+bpn10367 
 
 ----
 
@@ -1361,7 +1362,7 @@ Han är Gud! O oförliknelige Herre! I Din allsmäktiga visdom har Du för mäns
 
 -- Abdu'l-Bahá
 
-bpn10368 «[Svenska](../sv/prayers/#bpn10368)» 
+bpn10368 
 
 ----
 
@@ -1371,7 +1372,7 @@ bpn10368 «[Svenska](../sv/prayers/#bpn10368)»
 
 -- Abdu'l-Bahá
 
-bpn10369 «[Svenska](../sv/prayers/#bpn10369)» 
+bpn10369 
 
 ----
 

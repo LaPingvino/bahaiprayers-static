@@ -63,7 +63,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 ## {{html $cat}}
 {{range $prayer}}
 <a id="{{.PrayerCode}}"></a> 
-{{html .Text}}
+{{.Text}}
 
 -- {{.Author}}
 

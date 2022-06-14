@@ -5,6 +5,7 @@ tags = ['lang=bi', 'prayerbook']
 
 
 
+
 [19  DEI  FEAST](#19++DEI++FEAST)
 
 [ASKEM  GOD  BLONG  FOGIVIM  YUMI](#ASKEM++GOD++BLONG++FOGIVIM++YUMI)
@@ -81,7 +82,7 @@ O God! Tekemaot ol samting we i mekem se mifala i faet. Mekem redi blong mifala 
 
 -- Abdu'l-Bahá
 
-bpn4952 «[Vanuatu](../bi/prayers/#bpn4952)» 
+bpn4952 
 
 ----
 
@@ -95,7 +96,7 @@ Ol preis i go long Yu, O Masta.  Plis Yu fogivim ol sin blong mifala.  Plis Yu s
 
 -- Báb
 
-bpn4940 «[Vanuatu](../bi/prayers/#bpn4940)» 
+bpn4940 
 
 ----
 
@@ -105,7 +106,7 @@ O Masta we Yu fogivim ol man oltaem! Yu Yu olsem wan sef ples we ol wokman blong
 
 -- Abdu'l-Bahá
 
-bpn4939 «[Vanuatu](../bi/prayers/#bpn4939)» 
+bpn4939 
 
 ----
 
@@ -119,7 +120,7 @@ O Yu we mi lavem fes blong Yu tumas, Yu we naesfala lukluk blong Yu i olsem wan 
 
 -- Bahá'u'lláh
 
-bpn4928 «[Vanuatu](../bi/prayers/#bpn4928)» 
+bpn4928 
 
 ----
 
@@ -133,7 +134,7 @@ O God blong mi! Hemia i wokman blong Yu, mo boe blong wokman blong Yu. Hem i bin
 
 -- Bahá'u'lláh
 
-bpn4926 «[Vanuatu](../bi/prayers/#bpn4926)» 
+bpn4926 
 
 ----
 
@@ -143,7 +144,7 @@ O God blong mi! Yu Yu fogivim ol sin! Yu Yu givim ol presen! Yu Yu tekemaot ol t
 
 -- Abdu'l-Bahá
 
-bpn4927 «[Vanuatu](../bi/prayers/#bpn4927)» 
+bpn4927 
 
 ----
 
@@ -157,7 +158,7 @@ bpn4927 «[Vanuatu](../bi/prayers/#bpn4927)»
 
 -- Abdu'l-Bahá
 
-bpn4925 «[Vanuatu](../bi/prayers/#bpn4925)» 
+bpn4925 
 
 ----
 
@@ -171,7 +172,7 @@ Ol preis i go long Yu, O God mo Masta blong mi!  Naoia wan niufala Mesej i kam w
 
 -- Bahá'u'lláh
 
-bpn4945 «[Vanuatu](../bi/prayers/#bpn4945)» 
+bpn4945 
 
 ----
 
@@ -181,7 +182,7 @@ Ol preis i go long Yu, O God mo God blong mi! Hemia i ol dei we Yu bin askem lon
 
 -- Bahá'u'lláh
 
-bpn4946 «[Vanuatu](../bi/prayers/#bpn4946)» 
+bpn4946 
 
 ----
 
@@ -191,7 +192,7 @@ Long Nem blong Hem we olgeta Buk blong God i bin promisim, Hem we i save Evri Sa
 
 -- Bahá'u'lláh
 
-bpn4947 «[Vanuatu](../bi/prayers/#bpn4947)» 
+bpn4947 
 
 ----
 
@@ -201,7 +202,7 @@ Ol preis i go long Yu, O Lod mo God blong mi!  Mifala i bin holem Fast folem wan
 
 -- Bahá'u'lláh
 
-bpn4948 «[Vanuatu](../bi/prayers/#bpn4948)» 
+bpn4948 
 
 ----
 
@@ -211,7 +212,7 @@ O God blong mi mo Masta blong mi!  Yu  lukim se mi mi stap long medel long olget
 
 -- Bahá'u'lláh
 
-bpn4949 «[Vanuatu](../bi/prayers/#bpn4949)» 
+bpn4949 
 
 ----
 
@@ -225,7 +226,7 @@ O God!  O God blong Mi.  Hemia wan wokwoman blong Yu we i singaotem Yu.  Hem i t
 
 -- Abdu'l-Bahá
 
-bpn4922 «[Vanuatu](../bi/prayers/#bpn4922)» 
+bpn4922 
 
 ----
 
@@ -239,7 +240,7 @@ O God!  O God blong mi!  Mi bin tanem mi i go long Yu, from we mi sem mo mi sori
 
 -- Bahá'u'lláh
 
-bpn4935 «[Vanuatu](../bi/prayers/#bpn4935)» 
+bpn4935 
 
 ----
 
@@ -253,7 +254,7 @@ bpn4935 «[Vanuatu](../bi/prayers/#bpn4935)»
 
 -- Bahá'u'lláh
 
-bpn4904 «[Vanuatu](../bi/prayers/#bpn4904)» 
+bpn4904 
 
 ----
 
@@ -267,7 +268,7 @@ God blong mi!  God blong mi!  Mi preisem Yu mo mi talem tangkyu long Yu from pre
 
 -- Abdu'l-Bahá
 
-bpn4921 «[Vanuatu](../bi/prayers/#bpn4921)» 
+bpn4921 
 
 ----
 
@@ -281,7 +282,7 @@ Ol glori i go long Yu, O God blong mi. I tru se man mo woman ia i tufala wokman 
 
 -- Abdu'l-Bahá
 
-bpn4920 «[Vanuatu](../bi/prayers/#bpn4920)» 
+bpn4920 
 
 ----
 
@@ -291,11 +292,11 @@ bpn4920 «[Vanuatu](../bi/prayers/#bpn4920)»
 ## MEDEL SAES OBLIGATORI PREA
 
 <a id="bpn4903"></a> 
-##PREA IA I BLONG TALEMAOT EVRI DEI, LONG MONING, LONG  MEDEL  DEI  MO  LONG  NAET*Hu we i wantem talem prea ia i mas wasem tufala han blong hem, mo taem hem i stap was, hem i talem:      Mekem han blong mi i kam moa strong, O God blong mi, blong hem i save holem Buk blong Yu long wan strong fasin we ol armi blong wol i no save winim hem. Lukaotem hem blong hem i no tusum olgeta samting we i no blong hem.  I tru se Yu Yu Strong Tumas mo Yu Yu Mos Paoaful.  *Nao long taem we hem i stap wasem fes blong hem, hem i talem:      Mi bin tanem fes blong mi i go long Yu, O Lod blong mi!  Plis Yu  saenem fes ia wetem laet blong Fes blong Yu.  Protektem hem blong hem i no save tan i go long eni wan be Yu Wan nomo. *Afta, hem i mas stanap mo tanem fes blong hem i go long Qiblih (Poen blong Adoresen - Ples we yumi go daon long hem wetem bigfala lav -  Bahji, Akka).  Hem i talem:      God i talem tru se i no gat narafala God be Hem Wan. Ol kingdom blong Revelesen krieisen i blong Hem. I tru se Hem i bin soemaot Hem we i Dayspring [Dawn - Fasfala laet blong san] blong Revelesen, Hem we i bin toktok long Sinai, we tru long Hem Bigfala Laet i bin save saen, mo Lote-Tri [Tabu Tri] we i no gat eni pasing long narasaed blong hem i bin tok, mo tru long Hem, singaot i bin go long olgeta we i stap long heven mo olgeta we i stap long wol:  &#34;Yu luk!  Hem we i Gat Evri Samting i kam. Wol mo heven, glori mo paoa i blong God, Hem we i Lod blong ol man, mo Hem we Hae Jea we i stap antap mo long wol andanit i blong Hem!” *Naoia, hem i mas bao daon, mo putum tufala han blong hem long tufala ni blong hem, mo i talem:     Yu Yu hae tumas antap long wei we mi save preisem Yu, mo eni narafala man, antap long wei we mi save deskraebem Yu, mo olgeta we i stap long heven mo long wol i save deskraebem Yu. *Bihaen, hem i mas stanap tufala open han, wetem fored blong han we i open long fes blong hem.  Hem i talem:     O God blong mi, plis Yu no tanem Yu long hem we wetem ol finga blong hem i stap hang strong long kaliko blong sori mo blesing blong Yu. Yu Yu Hem we i soemaot Bigfala Sori Olgeta bitim evri wan we i soemaot sori!*Naoia, hem i sidaon mo hem i talem:      Mi talem tru se Yu Yu wan nomo, Yu Yu God, mo i no gat Wan narafala God be Yu. I tru se Yu Yu bin rivilim Fet blong Yu, fulfilim Kovenan blong Yu, mo openem bigwan doa blong blesing blong Yu long evriwan we i liv long heven mo long wol. Ol blesing mo pis, ona mo glori i go long olgeta loved wan blong Yu we ol jenis o ol janis blong wol i no bin blokim olgeta blong tan i go long Yu, mo olgeta we i bin givim evri samting blong olgeta blong traem kasem wanem we i stap wetem Yu. I tru se Yu Yu Ever-Fogiving, mo Yu Yu Givim Evri Samting.*(Insaed long prea ia, i gat wan toktok we i moa longfala bitim ol narafala toktok.  Sipos wan man i no wantem talemaot longfala toktok ia, i oraet nomo sipos hem i talem tisfala toktok:  *“God i talem tru se i no gat narafala God be Hem Wan, Hem we i Help long Taem blong Trabol, Hem we i Stap Oltaem Hem Wan Nomo.”  *Mo tu, i oraet nomo sipos, taem we hem i stap sidaon, hem i disaed blong talem tisfala toktok:  &#34;Mi talem tru se Yu Yu wan nomo, Yu Yu God, mo i no gat wan narafala God be Yu.”)
+##PREA IA I BLONG TALEMAOT EVRI DEI, LONG MONING, LONG  MEDEL  DEI  MO  LONG  NAET*Hu we i wantem talem prea ia i mas wasem tufala han blong hem, mo taem hem i stap was, hem i talem:      Mekem han blong mi i kam moa strong, O God blong mi, blong hem i save holem Buk blong Yu long wan strong fasin we ol armi blong wol i no save winim hem. Lukaotem hem blong hem i no tusum olgeta samting we i no blong hem.  I tru se Yu Yu Strong Tumas mo Yu Yu Mos Paoaful.  *Nao long taem we hem i stap wasem fes blong hem, hem i talem:      Mi bin tanem fes blong mi i go long Yu, O Lod blong mi!  Plis Yu  saenem fes ia wetem laet blong Fes blong Yu.  Protektem hem blong hem i no save tan i go long eni wan be Yu Wan nomo. *Afta, hem i mas stanap mo tanem fes blong hem i go long Qiblih (Poen blong Adoresen - Ples we yumi go daon long hem wetem bigfala lav -  Bahji, Akka).  Hem i talem:      God i talem tru se i no gat narafala God be Hem Wan. Ol kingdom blong Revelesen krieisen i blong Hem. I tru se Hem i bin soemaot Hem we i Dayspring [Dawn - Fasfala laet blong san] blong Revelesen, Hem we i bin toktok long Sinai, we tru long Hem Bigfala Laet i bin save saen, mo Lote-Tri [Tabu Tri] we i no gat eni pasing long narasaed blong hem i bin tok, mo tru long Hem, singaot i bin go long olgeta we i stap long heven mo olgeta we i stap long wol:  "Yu luk!  Hem we i Gat Evri Samting i kam. Wol mo heven, glori mo paoa i blong God, Hem we i Lod blong ol man, mo Hem we Hae Jea we i stap antap mo long wol andanit i blong Hem!” *Naoia, hem i mas bao daon, mo putum tufala han blong hem long tufala ni blong hem, mo i talem:     Yu Yu hae tumas antap long wei we mi save preisem Yu, mo eni narafala man, antap long wei we mi save deskraebem Yu, mo olgeta we i stap long heven mo long wol i save deskraebem Yu. *Bihaen, hem i mas stanap tufala open han, wetem fored blong han we i open long fes blong hem.  Hem i talem:     O God blong mi, plis Yu no tanem Yu long hem we wetem ol finga blong hem i stap hang strong long kaliko blong sori mo blesing blong Yu. Yu Yu Hem we i soemaot Bigfala Sori Olgeta bitim evri wan we i soemaot sori!*Naoia, hem i sidaon mo hem i talem:      Mi talem tru se Yu Yu wan nomo, Yu Yu God, mo i no gat Wan narafala God be Yu. I tru se Yu Yu bin rivilim Fet blong Yu, fulfilim Kovenan blong Yu, mo openem bigwan doa blong blesing blong Yu long evriwan we i liv long heven mo long wol. Ol blesing mo pis, ona mo glori i go long olgeta loved wan blong Yu we ol jenis o ol janis blong wol i no bin blokim olgeta blong tan i go long Yu, mo olgeta we i bin givim evri samting blong olgeta blong traem kasem wanem we i stap wetem Yu. I tru se Yu Yu Ever-Fogiving, mo Yu Yu Givim Evri Samting.*(Insaed long prea ia, i gat wan toktok we i moa longfala bitim ol narafala toktok.  Sipos wan man i no wantem talemaot longfala toktok ia, i oraet nomo sipos hem i talem tisfala toktok:  *“God i talem tru se i no gat narafala God be Hem Wan, Hem we i Help long Taem blong Trabol, Hem we i Stap Oltaem Hem Wan Nomo.”  *Mo tu, i oraet nomo sipos, taem we hem i stap sidaon, hem i disaed blong talem tisfala toktok:  "Mi talem tru se Yu Yu wan nomo, Yu Yu God, mo i no gat wan narafala God be Yu.”)
 
 -- Bahá'u'lláh
 
-bpn4903 «[Vanuatu](../bi/prayers/#bpn4903)» 
+bpn4903 
 
 ----
 
@@ -309,7 +310,7 @@ O Yu Kaen Masta! Olgeta we i wok long Yu i kam tugeta long miting ia, mo oli luk
 
 -- Abdu'l-Bahá
 
-bpn4911 «[Vanuatu](../bi/prayers/#bpn4911)» 
+bpn4911 
 
 ----
 
@@ -323,7 +324,7 @@ Mi jes wekap andanit long strong paoa blong Yu, O God blong mi. Mo from we mi no
 
 -- Bahá'u'lláh
 
-bpn4906 «[Vanuatu](../bi/prayers/#bpn4906)» 
+bpn4906 
 
 ----
 
@@ -333,7 +334,7 @@ O God blong mi! Yu bin letem se mi save gerap long moning ia. Mi bin lego long h
 
 -- Bahá'u'lláh
 
-bpn4907 «[Vanuatu](../bi/prayers/#bpn4907)» 
+bpn4907 
 
 ----
 
@@ -343,7 +344,7 @@ O God blong mi mo Masta blong mi! Mi mi wan wokman blong Yu, mo pikinini blong w
 
 -- Bahá'u'lláh
 
-bpn4908 «[Vanuatu](../bi/prayers/#bpn4908)» 
+bpn4908 
 
 ----
 
@@ -357,7 +358,7 @@ O God blong mi, mo Masta blong mi! Yu Yu fas samting we mi laekem tumas long har
 
 -- Bahá'u'lláh
 
-bpn4909 «[Vanuatu](../bi/prayers/#bpn4909)» 
+bpn4909 
 
 ----
 
@@ -371,7 +372,7 @@ O God!  Mifala i wik tumas.  Plis Yu save mekem se mifala i kam strong.  Mifala 
 
 -- Abdu'l-Bahá
 
-bpn4924 «[Vanuatu](../bi/prayers/#bpn4924)» 
+bpn4924 
 
 ----
 
@@ -385,7 +386,7 @@ O God!  Yu save gud mo Yu lukluk se hart blong mi i wantem nomo se Yu Yu glad lo
 
 -- Abdu'l-Bahá
 
-bpn4951 «[Vanuatu](../bi/prayers/#bpn4951)» 
+bpn4951 
 
 ----
 
@@ -399,7 +400,7 @@ O God! Mekem smol bebe ia i gro klosap long lav blong Yu, mo givim hem ol melek 
 
 -- Abdu'l-Bahá
 
-bpn4912 «[Vanuatu](../bi/prayers/#bpn4912)» 
+bpn4912 
 
 ----
 
@@ -409,7 +410,7 @@ O God! Trenem ol pikinini ia.  Ol pikinini ia i ol smolsmol tri long plantesen b
 
 -- Abdu'l-Bahá
 
-bpn4913 «[Vanuatu](../bi/prayers/#bpn4913)» 
+bpn4913 
 
 ----
 
@@ -419,7 +420,7 @@ O Masta! Mekem yangfala ia i glad tumas! Putum ol gud samting blong Yu i go long
 
 -- Abdu'l-Bahá
 
-bpn4914 «[Vanuatu](../bi/prayers/#bpn4914)» 
+bpn4914 
 
 ----
 
@@ -429,7 +430,7 @@ O God! Go fas taem long mi, blong mi mi folem Yu. Lukaot gud long mi. Mekem laet
 
 -- Abdu'l-Bahá
 
-bpn4915 «[Vanuatu](../bi/prayers/#bpn4915)» 
+bpn4915 
 
 ----
 
@@ -439,7 +440,7 @@ O Masta blong mi!  O Masta blong mi!  Mi wan pikinini we i yang tumas. Plis Yu f
 
 -- Abdu'l-Bahá
 
-bpn4916 «[Vanuatu](../bi/prayers/#bpn4916)» 
+bpn4916 
 
 ----
 
@@ -453,7 +454,7 @@ O God blong mi, Yu we mi lavem tumas, Yu we Yu King blong mi, Yu we mi wantem tu
 
 -- Bahá'u'lláh
 
-bpn4936 «[Vanuatu](../bi/prayers/#bpn4936)» 
+bpn4936 
 
 ----
 
@@ -467,7 +468,7 @@ O God blong mi, God we i givimaot ol samting long yumi mo i gat bigfala sori lon
 
 -- Abdu'l-Bahá
 
-bpn4923 «[Vanuatu](../bi/prayers/#bpn4923)» 
+bpn4923 
 
 ----
 
@@ -481,7 +482,7 @@ O God!  O God blong mi! Mi bin kamaot long haos blong mi mo mi bin hang strong l
 
 -- Bahá'u'lláh
 
-bpn4950 «[Vanuatu](../bi/prayers/#bpn4950)» 
+bpn4950 
 
 ----
 
@@ -495,7 +496,7 @@ Ol glori i go long Yu, O God, from we Yu bin soemaot lav blong Yu long ol man! O
 
 -- Bahá'u'lláh
 
-bpn4953 «[Vanuatu](../bi/prayers/#bpn4953)» 
+bpn4953 
 
 ----
 
@@ -505,7 +506,7 @@ O God blong mi! Long nem blong Yu we i gat fulap glori, mi askem Yu blong helpem
 
 -- Bahá'u'lláh
 
-bpn4954 «[Vanuatu](../bi/prayers/#bpn4954)» 
+bpn4954 
 
 ----
 
@@ -515,7 +516,7 @@ Talemaot: O God! O God blong mi! Putum hat blong jastis antap long hed blong mi,
 
 -- Abdu'l-Bahá
 
-bpn4955 «[Vanuatu](../bi/prayers/#bpn4955)» 
+bpn4955 
 
 ----
 
@@ -525,7 +526,7 @@ Mi plis long God blong letem laet blong yuniti i go raon long hol wol, mo blong 
 
 -- Abdu'l-Bahá
 
-bpn4956 «[Vanuatu](../bi/prayers/#bpn4956)» 
+bpn4956 
 
 ----
 
@@ -535,7 +536,7 @@ O Masta! Mifala i wik. Mekem mifala i kam strong! O God! Mifala i no gat save. M
 
 -- Abdu'l-Bahá
 
-bpn4957 «[Vanuatu](../bi/prayers/#bpn4957)» 
+bpn4957 
 
 ----
 
@@ -545,7 +546,7 @@ Hem i God! Lukluk long mifala, O Masta, we mifala i kam tugeta long tisfala teib
 
 -- Abdu'l-Bahá
 
-bpn4958 «[Vanuatu](../bi/prayers/#bpn4958)» 
+bpn4958 
 
 ----
 
@@ -555,7 +556,7 @@ Masta! Mifala i smol tumas. Lukluk gud long mifala.  Mifala i poa. Givim long mi
 
 -- Abdu'l-Bahá
 
-bpn4959 «[Vanuatu](../bi/prayers/#bpn4959)» 
+bpn4959 
 
 ----
 
@@ -565,7 +566,7 @@ O God! Mi plis long Yu blong Yu mekem se spirit blong mi i kam niu bakagen mo Yu
 
 -- Abdu'l-Bahá
 
-bpn4960 «[Vanuatu](../bi/prayers/#bpn4960)» 
+bpn4960 
 
 ----
 
@@ -575,7 +576,7 @@ O God! O God blong mi! Lukaotem ol wokman blong Yu we Yu Yu trastem olgeta. Prot
 
 -- Abdu'l-Bahá
 
-bpn4961 «[Vanuatu](../bi/prayers/#bpn4961)» 
+bpn4961 
 
 ----
 
@@ -585,7 +586,7 @@ O Masta mo God blong mi! Helpem olgeta we Yu lavem olgeta blong oli kam strong l
 
 -- Abdu'l-Bahá
 
-bpn4962 «[Vanuatu](../bi/prayers/#bpn4962)» 
+bpn4962 
 
 ----
 
@@ -595,7 +596,7 @@ O God! O God! Hemia wan pijin we han blong hem i brok, mo hem i flae i go sloslo
 
 -- Abdu'l-Bahá
 
-bpn4963 «[Vanuatu](../bi/prayers/#bpn4963)» 
+bpn4963 
 
 ----
 
@@ -609,7 +610,7 @@ bpn4963 «[Vanuatu](../bi/prayers/#bpn4963)»
 
 -- Bahá'u'lláh
 
-bpn4902 «[Vanuatu](../bi/prayers/#bpn4902)» 
+bpn4902 
 
 ----
 
@@ -623,7 +624,7 @@ bpn4902 «[Vanuatu](../bi/prayers/#bpn4902)»
 
 -- Bahá'u'lláh
 
-bpn4910 «[Vanuatu](../bi/prayers/#bpn4910)» 
+bpn4910 
 
 ----
 
@@ -637,7 +638,7 @@ Hem i Sori long ol man, mo Hem i Givim Evri Samting!   O God, God blong mi! Yu s
 
 -- Abdu'l-Bahá
 
-bpn4944 «[Vanuatu](../bi/prayers/#bpn4944)» 
+bpn4944 
 
 ----
 
@@ -651,7 +652,7 @@ O God blong mi!  Tru long bigfala paoa blong Yu, mi askem mo mi plis strong long
 
 -- Báb
 
-bpn4917 «[Vanuatu](../bi/prayers/#bpn4917)» 
+bpn4917 
 
 ----
 
@@ -661,7 +662,7 @@ Hu bakegen i save tekemaot ol trabol be God nomo i save? Hemia mi save sua: Yumi
 
 -- Báb
 
-bpn4918 «[Vanuatu](../bi/prayers/#bpn4918)» 
+bpn4918 
 
 ----
 
@@ -675,7 +676,7 @@ O God!  O God blong mi! Mi plis long Yu blong Yu klinimaot evri sori mo siknes b
 
 -- Bahá'u'lláh
 
-bpn4941 «[Vanuatu](../bi/prayers/#bpn4941)» 
+bpn4941 
 
 ----
 
@@ -685,7 +686,7 @@ O God blong mi! Tru long ol nem blong Yu, ol sik blong ol sik man i finis, ol wi
 
 -- Bahá'u'lláh
 
-bpn4942 «[Vanuatu](../bi/prayers/#bpn4942)» 
+bpn4942 
 
 ----
 
@@ -695,7 +696,7 @@ Nem blong Yu i mekem sik blong mi i gowei, O God blong mi. Mo taem mi tingting l
 
 -- Bahá'u'lláh
 
-bpn4943 «[Vanuatu](../bi/prayers/#bpn4943)» 
+bpn4943 
 
 ----
 
@@ -709,7 +710,7 @@ O Yu we mak blong Yu i moa hae bitim eni narafala samting!  O Yu we Yu nao Yu Ma
 
 -- Abdu'l-Bahá
 
-bpn4929 «[Vanuatu](../bi/prayers/#bpn4929)» 
+bpn4929 
 
 ----
 
@@ -719,7 +720,7 @@ O God!  Yu save gud mo Yu Yu witnes blong mi se mi gat wan tingting nomo long ha
 
 -- Abdu'l-Bahá
 
-bpn4930 «[Vanuatu](../bi/prayers/#bpn4930)» 
+bpn4930 
 
 ----
 
@@ -729,7 +730,7 @@ O God!  O God blong Mi!  Plis Yu lukluk long tisfala man we hem i no gat paoa, h
 
 -- Abdu'l-Bahá
 
-bpn4931 «[Vanuatu](../bi/prayers/#bpn4931)» 
+bpn4931 
 
 ----
 
@@ -739,7 +740,7 @@ O God! O God!  Yu Yu stap lukluk se mi no gat paoa mo mi stap daon long fored bl
 
 -- Abdu'l-Bahá
 
-bpn4932 «[Vanuatu](../bi/prayers/#bpn4932)» 
+bpn4932 
 
 ----
 
@@ -749,7 +750,7 @@ O God blong Mi! O God blong Mi!  Yu Yu stap lukluk long mi long taem we mi stap 
 
 -- Abdu'l-Bahá
 
-bpn4933 «[Vanuatu](../bi/prayers/#bpn4933)» 
+bpn4933 
 
 ----
 
@@ -759,7 +760,7 @@ O God! O God blong mi!  Plis Yu helpem ol wokman blong Yu we Yu trastem olgeta b
 
 -- Abdu'l-Bahá
 
-bpn4934 «[Vanuatu](../bi/prayers/#bpn4934)» 
+bpn4934 
 
 ----
 
@@ -773,7 +774,7 @@ bpn4934 «[Vanuatu](../bi/prayers/#bpn4934)»
 
 -- Bahá'u'lláh
 
-bpn4905 «[Vanuatu](../bi/prayers/#bpn4905)» 
+bpn4905 
 
 ----
 
@@ -787,7 +788,7 @@ bpn4905 «[Vanuatu](../bi/prayers/#bpn4905)»
 
 -- Abdu'l-Bahá
 
-bpn4965 «[Vanuatu](../bi/prayers/#bpn4965)» 
+bpn4965 
 
 ----
 
@@ -797,11 +798,11 @@ bpn4965 «[Vanuatu](../bi/prayers/#bpn4965)»
 ## VISITIM  SHRINE  BLONG BÁB  MO  BAHÁʼU’LLÁH
 
 <a id="bpn4964"></a> 
-*Yumi ridim prea ia long Shrine blong Báb mo Shrine blong Bahá&#39;u&#39;lláh. Yumi save ridim prea ia tu long ol Holi Dei we i markem samfala samting long laef blong Tufala.  Yumi save yusum long narafala taem tu.Ol preis we i bin kamaot long Yu Wan nomo, we Yu hae tu mas, mo ol glori we i bin saen aot long Yu, i mas go stap wetem Yu. Yu Yu soemaot se God i bigwan tumas, Hem i King olwe, mo Hem i Masta blong olgeta we i stap long heven mo long wol!  Mi talem tru se Yu Yu rod we i soemaot paoa blong God mo hae mak blong Hem. Long heven blong ol loa blong Yu, laet blong san blong glori, we i stap oltaem, i bin saen. Long Yu nao, naesfala samting we Yumi no save lukim i bin saenem evri pat blong wol. Bakagen, mi talem tru se wan smolsmol muv blong Pen blong Yu i mekem se loa blong Yu i stap, mo sikret blong God we i stap haed i kamaot, mo ol ting long wol i gat laef, mo ol Revelesen i bin kamtru. Mi talem stret se naesfala lukluk blong Yu i bin soemaot naesfala lukluk blong God, we yumi lavem Hem tumas. Fes blong Yu i bin soemaot laet blong Fes blong God, we Yumi wantem Hem tumas. Wetem wan smol toktok blong Yu, Yu bin skelem evri man we i laef.  Olgeta we i lavem Yu i bin klaem antap long hil blong glori, mo olgeta we i no bilivim Yu i bin foldaon long wan hol we i dip olgeta. Mi talem tru se man we i save Yu i bin save God, mo man we i mitim Yu i bin mitim God. Hemia i minim se wan bigfala blesing i kam long man we i gat bilif long Yu mo ol wok blong Yu, hem i go daon long Paoa blong Yu, hem i gat ona blong mitim Yu, hem i bin folem wanem Yu Yu wantem, hem i go raon long Yu, mo hem i stap long fored blong hae jea blong Yu. Sori long man we hem i agensem Yu, hem i talem se Yu Yu giaman, hem i no wantem lukim ol wok blong Yu, hem i putum daon paoa blong Yu, hem i praod tumas long fes blong Yu, hem i no agri wetem ol pruf we Yu givim, hem i ronwei long loa blong Yu, mo hem i wan blong olgeta we i no bilivim Yu mo Yu bin raetem daon nem blong olgeta finis. O God blong mi, we mi lavem Yu tumas. Aot long raet han blong sori mo lav blong Yu, plis Yu letem se mi save filim holi win blong ol gudfala presen blong Yu. Ol presen ia i save mekem se mi nomo tingbaot mi wan mo abaot wol, be mi kam klosap long holi ples we Yu Yu stap. Yu Yu gat paoa blong mekem evri wok we Yu wantem. I tru se Yu Yu antap long evri samting. Memori mo preis blong God, mo glori mo laet blong God, i stap wetem Yu, we Yu soemaot naesfala lukluk blong Hem. Mi talem tru se ae blong laef i neva bin lukim wan man we oli panisim hem olsem Yu. Long evri dei blong laef blong Yu, Yu bin stap long wan solwora blong trabol. Wan taem, Yu stap long hevi jen. Long narafala taem, ol badfren blong Yu i promis blong katem Yu wetem naef. Be nomata ol trabol ia i kasem Yu, Yu bin askem ol pipol blong folem ol toktok we Yu bin kasem long Hem we i save evri samting, Hem we i waes tu mas. Plis Yu letem spirit blong mi i kam wan sakrafaes long olgeta rong samting we i bin kasem Yu. Letem se mi pem praes blong ol hadtaem we Yu bin fesem. Mi askem God blong tekemaot ol kaliko we i mekem se ol pipol i no save lukim Yu. Mi askem samting ia tru long Yu, mo tru long olgeta we fes blong ol i saen wetem laet blong fes blong Yu, mo olgeta we i folem evri samting we Yu Yu askem, from we oli lavem Yu. Mo mi askem God blong letem se mi save kasem evri gud samting blong wol ia, mo blong wol we bambae i kam. I tru se Yu Yu gat fulap paoa, Yu Yu naes tu mas, Yu Yu gat fulap glori, Yu Yu fogiv oltaem, mo Yu Yu gat bigfala sori. O God blong mi! Plis Yu blesem Tri blong Yu, wetem ol lif, ol branis, mo ol smol branis blong hem. Blesem olgeta long taem we ol hae nem blong Yu mo ol naes fasin blong Yu i stap. Protektem tri ia long trabol we ol rabis man i save karem. I tru se Yu nao Yu gat paoa long evri samting. Mo plis Yu blesem ol wokman mo ol wokwoman blong Yu, we oli bin kam kasem Yu. Yu Yu givim evri gudfala samting oltaem. I no gat wan narafala God be Yu. Yu Yu fogiv oltaem, mo Yu Yu kaen tumas.
+*Yumi ridim prea ia long Shrine blong Báb mo Shrine blong Bahá'u'lláh. Yumi save ridim prea ia tu long ol Holi Dei we i markem samfala samting long laef blong Tufala.  Yumi save yusum long narafala taem tu.Ol preis we i bin kamaot long Yu Wan nomo, we Yu hae tu mas, mo ol glori we i bin saen aot long Yu, i mas go stap wetem Yu. Yu Yu soemaot se God i bigwan tumas, Hem i King olwe, mo Hem i Masta blong olgeta we i stap long heven mo long wol!  Mi talem tru se Yu Yu rod we i soemaot paoa blong God mo hae mak blong Hem. Long heven blong ol loa blong Yu, laet blong san blong glori, we i stap oltaem, i bin saen. Long Yu nao, naesfala samting we Yumi no save lukim i bin saenem evri pat blong wol. Bakagen, mi talem tru se wan smolsmol muv blong Pen blong Yu i mekem se loa blong Yu i stap, mo sikret blong God we i stap haed i kamaot, mo ol ting long wol i gat laef, mo ol Revelesen i bin kamtru. Mi talem stret se naesfala lukluk blong Yu i bin soemaot naesfala lukluk blong God, we yumi lavem Hem tumas. Fes blong Yu i bin soemaot laet blong Fes blong God, we Yumi wantem Hem tumas. Wetem wan smol toktok blong Yu, Yu bin skelem evri man we i laef.  Olgeta we i lavem Yu i bin klaem antap long hil blong glori, mo olgeta we i no bilivim Yu i bin foldaon long wan hol we i dip olgeta. Mi talem tru se man we i save Yu i bin save God, mo man we i mitim Yu i bin mitim God. Hemia i minim se wan bigfala blesing i kam long man we i gat bilif long Yu mo ol wok blong Yu, hem i go daon long Paoa blong Yu, hem i gat ona blong mitim Yu, hem i bin folem wanem Yu Yu wantem, hem i go raon long Yu, mo hem i stap long fored blong hae jea blong Yu. Sori long man we hem i agensem Yu, hem i talem se Yu Yu giaman, hem i no wantem lukim ol wok blong Yu, hem i putum daon paoa blong Yu, hem i praod tumas long fes blong Yu, hem i no agri wetem ol pruf we Yu givim, hem i ronwei long loa blong Yu, mo hem i wan blong olgeta we i no bilivim Yu mo Yu bin raetem daon nem blong olgeta finis. O God blong mi, we mi lavem Yu tumas. Aot long raet han blong sori mo lav blong Yu, plis Yu letem se mi save filim holi win blong ol gudfala presen blong Yu. Ol presen ia i save mekem se mi nomo tingbaot mi wan mo abaot wol, be mi kam klosap long holi ples we Yu Yu stap. Yu Yu gat paoa blong mekem evri wok we Yu wantem. I tru se Yu Yu antap long evri samting. Memori mo preis blong God, mo glori mo laet blong God, i stap wetem Yu, we Yu soemaot naesfala lukluk blong Hem. Mi talem tru se ae blong laef i neva bin lukim wan man we oli panisim hem olsem Yu. Long evri dei blong laef blong Yu, Yu bin stap long wan solwora blong trabol. Wan taem, Yu stap long hevi jen. Long narafala taem, ol badfren blong Yu i promis blong katem Yu wetem naef. Be nomata ol trabol ia i kasem Yu, Yu bin askem ol pipol blong folem ol toktok we Yu bin kasem long Hem we i save evri samting, Hem we i waes tu mas. Plis Yu letem spirit blong mi i kam wan sakrafaes long olgeta rong samting we i bin kasem Yu. Letem se mi pem praes blong ol hadtaem we Yu bin fesem. Mi askem God blong tekemaot ol kaliko we i mekem se ol pipol i no save lukim Yu. Mi askem samting ia tru long Yu, mo tru long olgeta we fes blong ol i saen wetem laet blong fes blong Yu, mo olgeta we i folem evri samting we Yu Yu askem, from we oli lavem Yu. Mo mi askem God blong letem se mi save kasem evri gud samting blong wol ia, mo blong wol we bambae i kam. I tru se Yu Yu gat fulap paoa, Yu Yu naes tu mas, Yu Yu gat fulap glori, Yu Yu fogiv oltaem, mo Yu Yu gat bigfala sori. O God blong mi! Plis Yu blesem Tri blong Yu, wetem ol lif, ol branis, mo ol smol branis blong hem. Blesem olgeta long taem we ol hae nem blong Yu mo ol naes fasin blong Yu i stap. Protektem tri ia long trabol we ol rabis man i save karem. I tru se Yu nao Yu gat paoa long evri samting. Mo plis Yu blesem ol wokman mo ol wokwoman blong Yu, we oli bin kam kasem Yu. Yu Yu givim evri gudfala samting oltaem. I no gat wan narafala God be Yu. Yu Yu fogiv oltaem, mo Yu Yu kaen tumas.
 
 -- Bahá'u'lláh
 
-bpn4964 «[Vanuatu](../bi/prayers/#bpn4964)» 
+bpn4964 
 
 ----
 
@@ -815,7 +816,7 @@ O Masta blong mi! Mi lavem Yu tumas, mo mi wantem Yu.  Lukaotem mi olsem wan fre
 
 -- Abdu'l-Bahá
 
-bpn4919 «[Vanuatu](../bi/prayers/#bpn4919)» 
+bpn4919 
 
 ----
 
@@ -829,7 +830,7 @@ O God blong mi! O God blong mi! Joenem i kam wan ples olgeta hart blong ol wokma
 
 -- Bahá'u'lláh
 
-bpn4937 «[Vanuatu](../bi/prayers/#bpn4937)» 
+bpn4937 
 
 ----
 
@@ -839,7 +840,7 @@ O Masta we Yu kaen tumas! Yu Yu bin krieitem olgeta pipol blong wol aot long sem
 
 -- Bahá'u'lláh
 
-bpn4938 «[Vanuatu](../bi/prayers/#bpn4938)» 
+bpn4938 
 
 ----
 

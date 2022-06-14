@@ -5,6 +5,7 @@ tags = ['lang=it', 'prayerbook']
 
 
 
+
 [Alba](#Alba)
 
 [Assemblea Spirituale](#Assemblea+Spirituale)
@@ -87,7 +88,7 @@ Omio Dio e mio Signore! Sono Tuo servo e figlio del Tuo servo. Mi sono alzato da
 
 -- Bahá'u'lláh
 
-bpn7784 «[Italiano](../it/prayers/#bpn7784)» 
+bpn7784 
 
 ----
 
@@ -101,7 +102,7 @@ Ogni qual volta entrate nella sala del consiglio, recitate questa preghiera con 
 
 -- Abdu'l-Bahá
 
-bpn7785 «[Italiano](../it/prayers/#bpn7785)» 
+bpn7785 
 
 ----
 
@@ -111,7 +112,7 @@ Riunitevi in perfetta letizia e all’inizio della riunione recitate questa preg
 
 -- Abdu'l-Bahá
 
-bpn7786 «[Italiano](../it/prayers/#bpn7786)» 
+bpn7786 
 
 ----
 
@@ -121,7 +122,7 @@ Preghiera da dirsi alla fine della seduta dell’As-semblea Spirituale.O Dio! O 
 
 -- Abdu'l-Bahá
 
-bpn7787 «[Italiano](../it/prayers/#bpn7787)» 
+bpn7787 
 
 ----
 
@@ -135,7 +136,7 @@ Mio Dio, mio Adorato, mio Sovrano, mio Desìo! Quale lingua può esprimerTi i mi
 
 -- Bahá'u'lláh
 
-bpn7788 «[Italiano](../it/prayers/#bpn7788)» 
+bpn7788 
 
 ----
 
@@ -145,7 +146,7 @@ O Tu, il Cui volto è l’oggetto della mia adorazione, la Cui beltà è il mio 
 
 -- Bahá'u'lláh
 
-bpn7789 «[Italiano](../it/prayers/#bpn7789)» 
+bpn7789 
 
 ----
 
@@ -155,7 +156,7 @@ Vedi o mio Signore, la mia dimora nelle viscere di questo monte e sei testimone 
 
 -- Báb
 
-bpn7790 «[Italiano](../it/prayers/#bpn7790)» 
+bpn7790 
 
 ----
 
@@ -165,7 +166,7 @@ Lodato sia il Tuo Nome, o Signore Iddio nostro! In verità Tu sei il Conoscitore
 
 -- Báb
 
-bpn7791 «[Italiano](../it/prayers/#bpn7791)» 
+bpn7791 
 
 ----
 
@@ -175,7 +176,7 @@ Gloria a Te, o Signore, Che in forza del Tuo decreto hai tratto all’esistenza 
 
 -- Báb
 
-bpn7792 «[Italiano](../it/prayers/#bpn7792)» 
+bpn7792 
 
 ----
 
@@ -185,7 +186,7 @@ O Signore! Presso Te cerco riparo e verso tutti i Tuoi segni volgo il mio cuore.
 
 -- Báb
 
-BB00522 «[English](../en/prayers/#BB00522)» «[Italiano](../it/prayers/#BB00522)» «[Español](../es/prayers/#BB00522)» 
+BB00522 «[English](../../en/prayers/#BB00522)» «[Español](../../es/prayers/#BB00522)» 
 
 ----
 
@@ -195,7 +196,7 @@ O mio Signore! Mi sono avvicinato a Te, nel profondo di questa notte tenebrosa, 
 
 -- Abdu'l-Bahá
 
-bpn7794 «[Italiano](../it/prayers/#bpn7794)» 
+bpn7794 
 
 ----
 
@@ -205,7 +206,7 @@ O Signore gentile! Siamo servitori della Tua Soglia, ci rifugiamo presso la Tua 
 
 -- Abdu'l-Bahá
 
-bpn7795 «[Italiano](../it/prayers/#bpn7795)» 
+bpn7795 
 
 ----
 
@@ -215,7 +216,7 @@ Signore! Meritevoli di pietà noi siamo, accordaci i Tuoi favori; poveri siamo, 
 
 -- Abdu'l-Bahá
 
-bpn7796 «[Italiano](../it/prayers/#bpn7796)» 
+bpn7796 
 
 ----
 
@@ -225,7 +226,7 @@ Non togliere, o Signore, la festiva mensa che fu imbandita in Tuo nome e non spe
 
 -- Abdu'l-Bahá
 
-bpn7797 «[Italiano](../it/prayers/#bpn7797)» 
+bpn7797 
 
 ----
 
@@ -235,7 +236,7 @@ O mio Dio! O Tu Che ad ogni potere giusto e ad ogni equo dominio conferisci eter
 
 -- Abdu'l-Bahá
 
-bpn11765 «[Italiano](../it/prayers/#bpn11765)» 
+bpn11765 
 
 ----
 
@@ -249,7 +250,7 @@ Tu sei Colui, o mio Dio, per i Cui nomi gl’infermi sono risanati, i sofferenti
 
 -- Bahá'u'lláh
 
-bpn7798 «[Italiano](../it/prayers/#bpn7798)» 
+bpn7798 
 
 ----
 
@@ -259,7 +260,7 @@ O Signore, mio Dio! Questo è un fanciullo generato dai lombi di uno dei Tuoi se
 
 -- Bahá'u'lláh
 
-bpn7799 «[Italiano](../it/prayers/#bpn7799)» 
+bpn7799 
 
 ----
 
@@ -269,7 +270,7 @@ O Dio, guidami, proteggimi, fà di me una lampada luminosa e una stella fulgente
 
 -- Abdu'l-Bahá
 
-bpn7800 «[Italiano](../it/prayers/#bpn7800)» 
+bpn7800 
 
 ----
 
@@ -279,7 +280,7 @@ O Tu purissimo Dio! Sono un piccolo bimbo; concedimi di desiderare il seno della
 
 -- Abdu'l-Bahá
 
-bpn7801 «[Italiano](../it/prayers/#bpn7801)» 
+bpn7801 
 
 ----
 
@@ -289,7 +290,7 @@ O mio Signore! O mio Signore!Sono un bambino in tenera età. Nutriscimi al seno 
 
 -- Abdu'l-Bahá
 
-bpn7802 «[Italiano](../it/prayers/#bpn7802)» 
+bpn7802 
 
 ----
 
@@ -299,7 +300,7 @@ O Dio! Educa questi piccini. Questi piccini sono piante del Tuo frutteto, fiori 
 
 -- Abdu'l-Bahá
 
-bpn7803 «[Italiano](../it/prayers/#bpn7803)» 
+bpn7803 
 
 ----
 
@@ -309,7 +310,7 @@ O Dio! Alleva questo pargoletto al seno del Tuo amore e allattalo al petto della
 
 -- Abdu'l-Bahá
 
-AB04004BAB «[English](../en/prayers/#AB04004BAB)» «[Esperanto](../eo/prayers/#AB04004BAB)» «[Italiano](../it/prayers/#AB04004BAB)» 
+AB04004BAB «[English](../../en/prayers/#AB04004BAB)» «[Esperanto](../../eo/prayers/#AB04004BAB)» 
 
 ----
 
@@ -319,7 +320,7 @@ O voi che siete due tenere piante nel Paradiso di Abhá! Rendete grazie a Dio pe
 
 -- Abdu'l-Bahá
 
-bpn7806 «[Italiano](../it/prayers/#bpn7806)» 
+bpn7806 
 
 ----
 
@@ -329,7 +330,7 @@ O Tu Signore compassionevole! O Signore degli eserciti! Che agli adulti e ai mat
 
 -- Abdu'l-Bahá
 
-bpn7807 «[Italiano](../it/prayers/#bpn7807)» 
+bpn7807 
 
 ----
 
@@ -339,7 +340,7 @@ O Signore! Rendi radioso questo giovane e dispensa la Tua munificenza a questa p
 
 -- Abdu'l-Bahá
 
-bpn7805 «[Italiano](../it/prayers/#bpn7805)» 
+bpn7805 
 
 ----
 
@@ -349,21 +350,21 @@ bpn7805 «[Italiano](../it/prayers/#bpn7805)»
 ## Dalle Tavole Del Piano Divino
 
 <a id="bpn7836"></a> 
-##RIVELATA AI BAHÁ&#39;Í DEGLI STATI UNITI E DEL CANADAO Tu Dio incomparabile! O Tu Signore del Regno! Queste anime sono la Tua celeste milizia. Assistile e, con le coorti delle Moltitudini Supreme, rendile vittoriose, sì che ciascuna di esse possa divenire quale un reggimento e conquistare questi paesi mercè l’amore di Dio e la luce dei divini insegna-menti. O Dio! Sii Tu il loro sostenitore e il loro aiuto e nel deserto, sul monte, nella valle, nelle foreste, nelle praterie e sui mari sii Tu il loro confidente, cosicché esse si facciano udire mercè il potere del Regno divino e l’alito dello Spirito Santo. In verità, Tu sei il Potente, il Sommo, l’Onnipotente, e Tu sei il Savio, Colui Che Ascolta e Vede.
+##RIVELATA AI BAHÁ'Í DEGLI STATI UNITI E DEL CANADAO Tu Dio incomparabile! O Tu Signore del Regno! Queste anime sono la Tua celeste milizia. Assistile e, con le coorti delle Moltitudini Supreme, rendile vittoriose, sì che ciascuna di esse possa divenire quale un reggimento e conquistare questi paesi mercè l’amore di Dio e la luce dei divini insegna-menti. O Dio! Sii Tu il loro sostenitore e il loro aiuto e nel deserto, sul monte, nella valle, nelle foreste, nelle praterie e sui mari sii Tu il loro confidente, cosicché esse si facciano udire mercè il potere del Regno divino e l’alito dello Spirito Santo. In verità, Tu sei il Potente, il Sommo, l’Onnipotente, e Tu sei il Savio, Colui Che Ascolta e Vede.
 
 -- Abdu'l-Bahá
 
-bpn7836 «[Italiano](../it/prayers/#bpn7836)» 
+bpn7836 
 
 ----
 
 
 <a id="bpn7837"></a> 
-##RIVELATA AI BAHÁ&#39;Í DEGLI STATI NORD-ORIENTALILa seguente invocazione verrà letta giornalmente da insegnanti e amici:O Tu Signore benevolo! Lode a Te Che ci hai indicato la strada maestra della retta guida, Che hai aperto le porte del regno e Ti sei manifestato mediante il Sole della Realtà. Ai ciechi hai dato la vista e ai sordi hai concesso l’udito; hai resuscitato i morti e dato dovizie ai poveri; hai mostrato la via a coloro che si sono smarriti; hai condotto gli assetati alla fonte della guida divina; hai permesso al pesce boccheggiante di raggiungere l’oceano della realtà e hai chiamato gli uccelli peregrini al roseto della Tua grazia.Onnipotente Iddio! Siamo i Tuoi servi bisognosi; siamo lontani e aneliamo alla Tua presenza, siamo assetati dell’acqua della Tua fonte siamo infermi e agogniamo da Te la guarigione. Camminiamo sul Tuo sentiero e non abbiamo altro scopo o speranza tranne la diffusione delle Tue fragranze, sì che tutte le anime esclamino: «O Dio, guidaci sulla retta via!». Possano i loro occhi aprirsi per vedere la luce, siano liberati dalle tenebre dell’ignoranza e riuniti attorno alla lampada della Tua guida. Possano gli sventurati ricevere la loro parte e i diseredati divenire depositari dei Tuoi misteri.Onnipotente! Volgi a noi il Tuo sguardo misericordioso. Accordaci la confermazione celeste. Dispensaci l’alito dello Spirito Santo, sì che possiamo essere assistiti nel Tuo servizio e, simili a stelle risplendenti, irradiare in queste regioni la luce della Tua guida.In verità, Tu sei il Potente, il Forte, il Saggio, il Veggente.
+##RIVELATA AI BAHÁ'Í DEGLI STATI NORD-ORIENTALILa seguente invocazione verrà letta giornalmente da insegnanti e amici:O Tu Signore benevolo! Lode a Te Che ci hai indicato la strada maestra della retta guida, Che hai aperto le porte del regno e Ti sei manifestato mediante il Sole della Realtà. Ai ciechi hai dato la vista e ai sordi hai concesso l’udito; hai resuscitato i morti e dato dovizie ai poveri; hai mostrato la via a coloro che si sono smarriti; hai condotto gli assetati alla fonte della guida divina; hai permesso al pesce boccheggiante di raggiungere l’oceano della realtà e hai chiamato gli uccelli peregrini al roseto della Tua grazia.Onnipotente Iddio! Siamo i Tuoi servi bisognosi; siamo lontani e aneliamo alla Tua presenza, siamo assetati dell’acqua della Tua fonte siamo infermi e agogniamo da Te la guarigione. Camminiamo sul Tuo sentiero e non abbiamo altro scopo o speranza tranne la diffusione delle Tue fragranze, sì che tutte le anime esclamino: «O Dio, guidaci sulla retta via!». Possano i loro occhi aprirsi per vedere la luce, siano liberati dalle tenebre dell’ignoranza e riuniti attorno alla lampada della Tua guida. Possano gli sventurati ricevere la loro parte e i diseredati divenire depositari dei Tuoi misteri.Onnipotente! Volgi a noi il Tuo sguardo misericordioso. Accordaci la confermazione celeste. Dispensaci l’alito dello Spirito Santo, sì che possiamo essere assistiti nel Tuo servizio e, simili a stelle risplendenti, irradiare in queste regioni la luce della Tua guida.In verità, Tu sei il Potente, il Forte, il Saggio, il Veggente.
 
 -- Abdu'l-Bahá
 
-bpn7837 «[Italiano](../it/prayers/#bpn7837)» 
+bpn7837 
 
 ----
 
@@ -373,7 +374,7 @@ bpn7837 «[Italiano](../it/prayers/#bpn7837)»
 
 -- Abdu'l-Bahá
 
-bpn7838 «[Italiano](../it/prayers/#bpn7838)» 
+bpn7838 
 
 ----
 
@@ -383,7 +384,7 @@ bpn7838 «[Italiano](../it/prayers/#bpn7838)»
 
 -- Abdu'l-Bahá
 
-bpn7839 «[Italiano](../it/prayers/#bpn7839)» 
+bpn7839 
 
 ----
 
@@ -393,7 +394,7 @@ bpn7839 «[Italiano](../it/prayers/#bpn7839)»
 
 -- Abdu'l-Bahá
 
-bpn7840 «[Italiano](../it/prayers/#bpn7840)» 
+bpn7840 
 
 ----
 
@@ -403,7 +404,7 @@ bpn7840 «[Italiano](../it/prayers/#bpn7840)»
 
 -- Abdu'l-Bahá
 
-bpn7841 «[Italiano](../it/prayers/#bpn7841)» 
+bpn7841 
 
 ----
 
@@ -413,7 +414,7 @@ bpn7841 «[Italiano](../it/prayers/#bpn7841)»
 
 -- Abdu'l-Bahá
 
-bpn7842 «[Italiano](../it/prayers/#bpn7842)» 
+bpn7842 
 
 ----
 
@@ -423,7 +424,7 @@ O  Dio, mio Dio! Sia lode a Te Che hai acceso il fuoco del divino amore nel Sant
 
 -- Abdu'l-Bahá
 
-bpn7843 «[Italiano](../it/prayers/#bpn7843)» 
+bpn7843 
 
 ----
 
@@ -437,7 +438,7 @@ bpn7843 «[Italiano](../it/prayers/#bpn7843)»
 
 -- Bahá'u'lláh
 
-bpn7808 «[Italiano](../it/prayers/#bpn7808)» 
+bpn7808 
 
 ----
 
@@ -447,7 +448,7 @@ Gloria a Te o Signore mio Dio! Non avvilire colui che esaltasti col potere della
 
 -- Bahá'u'lláh
 
-BH08308 «[English](../en/prayers/#BH08308)» «[Italiano](../it/prayers/#BH08308)» 
+BH08308 «[English](../../en/prayers/#BH08308)» 
 
 ----
 
@@ -457,7 +458,7 @@ Egli è Dio, esaltato Egli sia, il Signore amoroso e generoso! Gloria a Te, o mi
 
 -- Bahá'u'lláh
 
-BH03109KIN «[English](../en/prayers/#BH03109KIN)» «[Italiano](../it/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» 
+BH03109KIN «[English](../../en/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
 
 ----
 
@@ -467,7 +468,7 @@ O mio Dio! O Tu perdonatore dei peccati, dispensatore di doni, banditore delle a
 
 -- Abdu'l-Bahá
 
-bpn7811 «[Italiano](../it/prayers/#bpn7811)» 
+bpn7811 
 
 ----
 
@@ -477,7 +478,7 @@ O mio Dio! O mio Dio! In verità il Tuo servo, umile innanzi alla maestà della 
 
 -- Abdu'l-Bahá
 
-bpn7812 «[Italiano](../it/prayers/#bpn7812)» 
+bpn7812 
 
 ----
 
@@ -491,7 +492,7 @@ bpn7812 «[Italiano](../it/prayers/#bpn7812)»
 
 -- Bahá'u'lláh
 
-BH01125 «[English](../en/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
 
 ----
 
@@ -501,7 +502,7 @@ Lode sia a Te, o Signore mio Dio! T’imploro, per questa Rivelazione mediante l
 
 -- Bahá'u'lláh
 
-bpn7932 «[Italiano](../it/prayers/#bpn7932)» 
+bpn7932 
 
 ----
 
@@ -511,7 +512,7 @@ Questi sono, o mio Dio, i giorni durante i quali ingiungesti ai Tuoi servi di os
 
 -- Bahá'u'lláh
 
-bpn7933 «[Italiano](../it/prayers/#bpn7933)» 
+bpn7933 
 
 ----
 
@@ -521,7 +522,7 @@ Gloria sia a Te, o Signore mio Dio! Questi sono i giorni in cui comandasti a tut
 
 -- Bahá'u'lláh
 
-bpn7934 «[Italiano](../it/prayers/#bpn7934)» 
+bpn7934 
 
 ----
 
@@ -535,7 +536,7 @@ Permetti, o mio Dio, ch’io mi avvicini a Te e dimori entro i recinti della Tua
 
 -- Bahá'u'lláh
 
-bpn7813 «[Italiano](../it/prayers/#bpn7813)» 
+bpn7813 
 
 ----
 
@@ -545,7 +546,7 @@ Glorificato sei Tu, o mio Dio, Ti rendo grazie per avermi fatto conoscere Colui 
 
 -- Bahá'u'lláh
 
-bpn7814 «[Italiano](../it/prayers/#bpn7814)» 
+bpn7814 
 
 ----
 
@@ -555,7 +556,7 @@ Lodato sia il Tuo nome, o mio Dio! Ti supplico per le fragranze della Veste dell
 
 -- Bahá'u'lláh
 
-bpn7815 «[Italiano](../it/prayers/#bpn7815)» 
+bpn7815 
 
 ----
 
@@ -565,7 +566,7 @@ Molti cuori gelidi, o mio Dio, sono stati messi in fiamme dal fuoco della Tua Ca
 
 -- Bahá'u'lláh
 
-bpn7816 «[Italiano](../it/prayers/#bpn7816)» 
+bpn7816 
 
 ----
 
@@ -575,7 +576,7 @@ Non so, o mio Dio, cosa sia questo Fuoco che accendesti nelle Tue regioni. La te
 
 -- Bahá'u'lláh
 
-BH05894 «[English](../en/prayers/#BH05894)» «[Italiano](../it/prayers/#BH05894)» «[Nederlands](../nl/prayers/#BH05894)» 
+BH05894 «[Nederlands](../../nl/prayers/#BH05894)» «[English](../../en/prayers/#BH05894)» 
 
 ----
 
@@ -585,7 +586,7 @@ Lode sia a Te, o mio Dio! Sono uno dei Tuoi servi che ha creduto in Te e nei Tuo
 
 -- Bahá'u'lláh
 
-bpn7818 «[Italiano](../it/prayers/#bpn7818)» 
+bpn7818 
 
 ----
 
@@ -595,7 +596,7 @@ O mio Dio, mio Signore e Padrone! Mi sono distaccato dai miei congiunti e col Tu
 
 -- Báb
 
-bpn7819 «[Italiano](../it/prayers/#bpn7819)» 
+bpn7819 
 
 ----
 
@@ -605,7 +606,7 @@ O Dio, mio Dio! Tu sei la mia Speranza e il mio Amato, il mio eccelso Scopo e il
 
 -- Abdu'l-Bahá
 
-bpn7820 «[Italiano](../it/prayers/#bpn7820)» 
+bpn7820 
 
 ----
 
@@ -619,7 +620,7 @@ Gloria sia a Te, o Re dell’eternità, Artefice delle nazioni e Vivificatore di
 
 -- Bahá'u'lláh
 
-bpn7821 «[Italiano](../it/prayers/#bpn7821)» 
+bpn7821 
 
 ----
 
@@ -629,7 +630,7 @@ Egli è il Possente il Perdonatore, il Compassionevole!O Dio, mio Dio! Tu vedi i
 
 -- Bahá'u'lláh
 
-bpn7822 «[Italiano](../it/prayers/#bpn7822)» 
+bpn7822 
 
 ----
 
@@ -643,7 +644,7 @@ bpn7822 «[Italiano](../it/prayers/#bpn7822)»
 
 -- Báb
 
-bpn7823 «[Italiano](../it/prayers/#bpn7823)» 
+bpn7823 
 
 ----
 
@@ -653,7 +654,7 @@ Imploro la Tua indulgenza, o mio Dio, e invoco il Tuo perdono, come Tu desideri 
 
 -- Báb
 
-bpn7824 «[Italiano](../it/prayers/#bpn7824)» 
+bpn7824 
 
 ----
 
@@ -667,7 +668,7 @@ Mio Signore! Mio Signore! Ti lodo e Ti ringrazio per il favore concesso alla Tua
 
 -- Abdu'l-Bahá
 
-bpn7825 «[Italiano](../it/prayers/#bpn7825)» 
+bpn7825 
 
 ----
 
@@ -681,7 +682,7 @@ Magnificato sia il Tuo Nome, o mio Dio, perché hai manifestato il Giorno che è
 
 -- Bahá'u'lláh
 
-bpn7826 «[Italiano](../it/prayers/#bpn7826)» 
+bpn7826 
 
 ----
 
@@ -695,7 +696,7 @@ bpn7826 «[Italiano](../it/prayers/#bpn7826)»
 
 -- Bahá'u'lláh
 
-bpn7930 «[Italiano](../it/prayers/#bpn7930)» 
+bpn7930 
 
 ----
 
@@ -709,7 +710,7 @@ O Dio, mio Dio! T’imploro per l’oceano del Tuo potere risanatore, per gli sp
 
 -- Bahá'u'lláh
 
-bpn7827 «[Italiano](../it/prayers/#bpn7827)» 
+bpn7827 
 
 ----
 
@@ -719,7 +720,7 @@ Il Tuo nome è la mia cura, o mio Dio, e il ricordarTi è il mio rimedio. La Tua
 
 -- Bahá'u'lláh
 
-bpn7828 «[Italiano](../it/prayers/#bpn7828)» 
+bpn7828 
 
 ----
 
@@ -729,7 +730,7 @@ Lodato sii Tu, o Signore mio Dio! T’imploro per il Tuo Più Grande Nome con cu
 
 -- Bahá'u'lláh
 
-bpn7829 «[Italiano](../it/prayers/#bpn7829)» 
+bpn7829 
 
 ----
 
@@ -739,7 +740,7 @@ Gloria sia a Te, o Signore mio Dio! T’imploro – per il Tuo Nome, per il qual
 
 -- Bahá'u'lláh
 
-bpn7830 «[Italiano](../it/prayers/#bpn7830)» 
+bpn7830 
 
 ----
 
@@ -749,7 +750,7 @@ Gloria sia a Te, Signore mio Dio! Ti prego – per il Tuo Nome per il quale Colu
 
 -- Bahá'u'lláh
 
-bpn7831 «[Italiano](../it/prayers/#bpn7831)» 
+bpn7831 
 
 ----
 
@@ -763,7 +764,7 @@ Gloria sia a Te, o Tu Dio del mondo e Desìo, delle nazioni, o Tu Che Ti sei man
 
 -- Bahá'u'lláh
 
-bpn7832 «[Italiano](../it/prayers/#bpn7832)» 
+bpn7832 
 
 ----
 
@@ -773,7 +774,7 @@ O Dio, Che sei Autore di tutte le Manifestazioni, Sorgente di tutte le Sorgenti,
 
 -- Bahá'u'lláh
 
-bpn7833 «[Italiano](../it/prayers/#bpn7833)» 
+bpn7833 
 
 ----
 
@@ -783,7 +784,7 @@ Non so, o mio Dio, se devo proclamare le meraviglie della Tua lode fra i Tuoi se
 
 -- Bahá'u'lláh
 
-bpn7834 «[Italiano](../it/prayers/#bpn7834)» 
+bpn7834 
 
 ----
 
@@ -793,7 +794,7 @@ Gloria a Te, o Signore mio Dio! T’imploro di perdonare me e coloro che sosteng
 
 -- Báb
 
-bpn7835 «[Italiano](../it/prayers/#bpn7835)» 
+bpn7835 
 
 ----
 
@@ -807,7 +808,7 @@ Magnificato sia il Tuo Nome, o Signore mio Dio! Tu sei Colui Che tutte le cose a
 
 -- Bahá'u'lláh
 
-bpn7844 «[Italiano](../it/prayers/#bpn7844)» 
+bpn7844 
 
 ----
 
@@ -817,7 +818,7 @@ O gni lode, o mio Dio, a Te Che sei la Sorgente di tutta la gloria e la maestà,
 
 -- Bahá'u'lláh
 
-bpn7845 «[Italiano](../it/prayers/#bpn7845)» 
+bpn7845 
 
 ----
 
@@ -827,7 +828,7 @@ Glorificato sei Tu, o Signore, mio Dio! Ti rendo grazie per avermi reso capace d
 
 -- Bahá'u'lláh
 
-bpn7846 «[Italiano](../it/prayers/#bpn7846)» 
+bpn7846 
 
 ----
 
@@ -837,7 +838,7 @@ In nome di Dio l’Altissimo! Lodato e glorificato sei Tu, o Signore Onnipotente
 
 -- Bahá'u'lláh
 
-bpn7847 «[Italiano](../it/prayers/#bpn7847)» 
+bpn7847 
 
 ----
 
@@ -847,7 +848,7 @@ Come posso lodarTi, o Signore, per i segni del Tuo possente fulgore e per le mer
 
 -- Báb
 
-bpn7848 «[Italiano](../it/prayers/#bpn7848)» 
+bpn7848 
 
 ----
 
@@ -857,7 +858,7 @@ Glorificato sei Tu, o Signore mio Dio! In verità Tu sei il Re dei re: a chi vuo
 
 -- Báb
 
-bpn7849 «[Italiano](../it/prayers/#bpn7849)» 
+bpn7849 
 
 ----
 
@@ -871,7 +872,7 @@ Luce e gloria, salute e lode alle Mani della Sua Causa, per le quali la luce del
 
 -- Bahá'u'lláh
 
-bpn7850 «[Italiano](../it/prayers/#bpn7850)» 
+bpn7850 
 
 ----
 
@@ -881,7 +882,7 @@ O gni lode a Te, o Signore mio Dio! Quale mistero nel Fuoco che accendesti nel m
 
 -- Bahá'u'lláh
 
-bpn7851 «[Italiano](../it/prayers/#bpn7851)» 
+bpn7851 
 
 ----
 
@@ -891,7 +892,7 @@ Salute e lode, benedizione e gloria... alle Mani della Causa di Dio che hanno la
 
 -- Abdu'l-Bahá
 
-bpn7852 «[Italiano](../it/prayers/#bpn7852)» 
+bpn7852 
 
 ----
 
@@ -905,7 +906,7 @@ Egli è Dio! O Signore mio Dio! O Tu Che sei l’Aiuto del debole, il Soccorrito
 
 -- Abdu'l-Bahá
 
-bpn7854 «[Italiano](../it/prayers/#bpn7854)» 
+bpn7854 
 
 ----
 
@@ -919,7 +920,7 @@ bpn7854 «[Italiano](../it/prayers/#bpn7854)»
 
 -- Bahá'u'lláh
 
-bpn7855 «[Italiano](../it/prayers/#bpn7855)» 
+bpn7855 
 
 ----
 
@@ -929,7 +930,7 @@ Egli é Dio!O impareggiabile Signore! Nella Tua immensa saggezza Tu hai ingiunto
 
 -- Abdu'l-Bahá
 
-bpn7856 «[Italiano](../it/prayers/#bpn7856)» 
+bpn7856 
 
 ----
 
@@ -939,7 +940,7 @@ Gloria sia a Te, o mio Dio! In verità questo Tuo servo e questa Tua ancella si 
 
 -- Abdu'l-Bahá
 
-bpn7857 «[Italiano](../it/prayers/#bpn7857)» 
+bpn7857 
 
 ----
 
@@ -953,7 +954,7 @@ Mi sono svegliato sotto l’ègida Tua, o mio Dio, e s’addice a colui che la c
 
 -- Bahá'u'lláh
 
-bpn7858 «[Italiano](../it/prayers/#bpn7858)» 
+bpn7858 
 
 ----
 
@@ -963,7 +964,7 @@ Mi sono alzato stamane per grazia Tua, o mio Dio, e ho lasciato la mia casa fida
 
 -- Bahá'u'lláh
 
-bpn7859 «[Italiano](../it/prayers/#bpn7859)» 
+bpn7859 
 
 ----
 
@@ -973,7 +974,7 @@ Lodato Tu sia, o mio Dio, ché mi hai svegliato dal sonno e tratto dall’assenz
 
 -- Bahá'u'lláh
 
-bpn7860 «[Italiano](../it/prayers/#bpn7860)» 
+bpn7860 
 
 ----
 
@@ -983,7 +984,7 @@ O Dio, mio Dio! Questa Tua ancella Te invoca, in Te confida, verso Te rivolge il
 
 -- Abdu'l-Bahá
 
-bpn7853 «[Italiano](../it/prayers/#bpn7853)» 
+bpn7853 
 
 ----
 
@@ -997,7 +998,7 @@ bpn7853 «[Italiano](../it/prayers/#bpn7853)»
 
 -- Bahá'u'lláh
 
-bpn7935 «[Italiano](../it/prayers/#bpn7935)» 
+bpn7935 
 
 ----
 
@@ -1011,7 +1012,7 @@ Glorificato sei Tu, o Signore mio Dio! T’imploro, per i Tuoi Eletti e i Latori
 
 -- Bahá'u'lláh
 
-bpn7864 «[Italiano](../it/prayers/#bpn7864)» 
+bpn7864 
 
 ----
 
@@ -1021,7 +1022,7 @@ Io sono, o mio Signore, colui che ha volto il viso verso di Te e posto le sue sp
 
 -- Bahá'u'lláh
 
-bpn7865 «[Italiano](../it/prayers/#bpn7865)» 
+bpn7865 
 
 ----
 
@@ -1031,7 +1032,7 @@ Tu mi vedi, o mio Signore, con il viso rivolto al cielo della Tua generosità e 
 
 -- Bahá'u'lláh
 
-bpn7866 «[Italiano](../it/prayers/#bpn7866)» 
+bpn7866 
 
 ----
 
@@ -1041,7 +1042,7 @@ Lodato sia il Tuo Nome, o mio Dio e Dio di tutte le cose, mia Gloria e Gloria di
 
 -- Bahá'u'lláh
 
-bpn7867 «[Italiano](../it/prayers/#bpn7867)» 
+bpn7867 
 
 ----
 
@@ -1051,7 +1052,7 @@ Il peccatore, quando si sente completamente distaccato e libero da tutto fuorch�
 
 -- Bahá'u'lláh
 
-bpn7868 «[Italiano](../it/prayers/#bpn7868)» 
+bpn7868 
 
 ----
 
@@ -1061,7 +1062,7 @@ Ti supplico di perdonarmi, o mio Signore, per aver menzionato altri che Te, e lo
 
 -- Báb
 
-bpn7869 «[Italiano](../it/prayers/#bpn7869)» 
+bpn7869 
 
 ----
 
@@ -1071,7 +1072,7 @@ O Tu indulgente Signore! Sei il rifugio di tutti questi Tuoi servi, Tu Che conos
 
 -- Abdu'l-Bahá
 
-bpn7870 «[Italiano](../it/prayers/#bpn7870)» 
+bpn7870 
 
 ----
 
@@ -1085,7 +1086,7 @@ bpn7870 «[Italiano](../it/prayers/#bpn7870)»
 
 -- Bahá'u'lláh
 
-bpn7861 «[Italiano](../it/prayers/#bpn7861)» 
+bpn7861 
 
 ----
 
@@ -1099,7 +1100,7 @@ bpn7861 «[Italiano](../it/prayers/#bpn7861)»
 
 -- Bahá'u'lláh
 
-bpn7863 «[Italiano](../it/prayers/#bpn7863)» 
+bpn7863 
 
 ----
 
@@ -1113,7 +1114,7 @@ bpn7863 «[Italiano](../it/prayers/#bpn7863)»
 
 -- Bahá'u'lláh
 
-bpn7862 «[Italiano](../it/prayers/#bpn7862)» 
+bpn7862 
 
 ----
 
@@ -1127,7 +1128,7 @@ Lodato Tu sia, o Signore, mio Dio! Questo è il Tuo servo che ha bevuto dalle ma
 
 -- Bahá'u'lláh
 
-bpn7871 «[Italiano](../it/prayers/#bpn7871)» 
+bpn7871 
 
 ----
 
@@ -1137,7 +1138,7 @@ Lode sia a Te, o Signore mio Dio! Tu vedi e sai che ho invitato i Tuoi servi a n
 
 -- Bahá'u'lláh
 
-bpn7872 «[Italiano](../it/prayers/#bpn7872)» 
+bpn7872 
 
 ----
 
@@ -1147,7 +1148,7 @@ O Dio, mio Dio! Ho lasciato la mia casa, tenendomi forte alla corda del Tuo amor
 
 -- Bahá'u'lláh
 
-bpn7873 «[Italiano](../it/prayers/#bpn7873)» 
+bpn7873 
 
 ----
 
@@ -1157,7 +1158,7 @@ Lodato sia il Tuo Nome, o Signore mio Dio! Ti supplico per il Tuo Nome per mezzo
 
 -- Bahá'u'lláh
 
-BH10578 «[English](../en/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[Italiano](../it/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» 
+BH10578 «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» 
 
 ----
 
@@ -1167,7 +1168,7 @@ Sia gloria a Te, o mio Dio! Per il Tuo nome il Misericordiosissimo, Ti prego di 
 
 -- Bahá'u'lláh
 
-bpn7875 «[Italiano](../it/prayers/#bpn7875)» 
+bpn7875 
 
 ----
 
@@ -1177,7 +1178,7 @@ O Dio, mio Dio! Sii scudo ai Tuoi servi fedeli contro i mali dell’egoismo e de
 
 -- Abdu'l-Bahá
 
-bpn7876 «[Italiano](../it/prayers/#bpn7876)» 
+bpn7876 
 
 ----
 
@@ -1187,7 +1188,7 @@ O mio Signore! Tu sai che tutti sono circondati da pene e da calamità e incalza
 
 -- Abdu'l-Bahá
 
-bpn7877 «[Italiano](../it/prayers/#bpn7877)» 
+bpn7877 
 
 ----
 
@@ -1201,7 +1202,7 @@ Dìssipa il mio dolore con la Tua munificenza e la Tua generosità, o Dio, mio D
 
 -- Bahá'u'lláh
 
-bpn7878 «[Italiano](../it/prayers/#bpn7878)» 
+bpn7878 
 
 ----
 
@@ -1211,7 +1212,7 @@ Lodato e glorificato sei Tu, o mio Dio! Ti supplico, per i sospiri di coloro che
 
 -- Bahá'u'lláh
 
-bpn7879 «[Italiano](../it/prayers/#bpn7879)» 
+bpn7879 
 
 ----
 
@@ -1221,7 +1222,7 @@ O Tu, le Cui prove sono un farmaco risanatore per coloro che Ti sono vicini, la 
 
 -- Bahá'u'lláh
 
-bpn7880 «[Italiano](../it/prayers/#bpn7880)» 
+bpn7880 
 
 ----
 
@@ -1231,7 +1232,7 @@ Gloria a Te, o mio Dio! Se non fosse per le tribolazioni sopportate sul Tuo camm
 
 -- Bahá'u'lláh
 
-bpn7881 «[Italiano](../it/prayers/#bpn7881)» 
+bpn7881 
 
 ----
 
@@ -1241,7 +1242,7 @@ Glorificato Tu sei, o Signore mio Dio. Ogni uomo illuminato riconosce la Tua sov
 
 -- Bahá'u'lláh
 
-bpn7882 «[Italiano](../it/prayers/#bpn7882)» 
+bpn7882 
 
 ----
 
@@ -1251,7 +1252,7 @@ Glorificato sei Tu, Signore mio Dio! Vedi la mia umile condizione e la casa ove 
 
 -- Bahá'u'lláh
 
-bpn7883 «[Italiano](../it/prayers/#bpn7883)» 
+bpn7883 
 
 ----
 
@@ -1261,7 +1262,7 @@ Chi può rimuovere le difficoltà eccetto Dio? Dite: Lodato sia Iddio! Egli è D
 
 -- Báb
 
-bpn7884 «[Italiano](../it/prayers/#bpn7884)» 
+bpn7884 
 
 ----
 
@@ -1271,7 +1272,7 @@ Ti scongiuro per la Tua possanza, o mio Dio! Fa’ che nessun male mi colga nel 
 
 -- Báb
 
-bpn7886 «[Italiano](../it/prayers/#bpn7886)» 
+bpn7886 
 
 ----
 
@@ -1281,7 +1282,7 @@ Dite: Dio provvede ad ogni cosa al di là di ogni cosa, e nulla, nei cieli o sul
 
 -- Báb
 
-bpn7885 «[Italiano](../it/prayers/#bpn7885)» 
+bpn7885 
 
 ----
 
@@ -1291,7 +1292,7 @@ Egli è il Compassionevole, il Munifico!O Dio, mio Dio! Tu mi vedi, Tu mi conosc
 
 -- Abdu'l-Bahá
 
-bpn7887 «[Italiano](../it/prayers/#bpn7887)» 
+bpn7887 
 
 ----
 
@@ -1301,7 +1302,7 @@ O Signore, mio Dio e mio Porto nel dolore! Mio Scudo e Ricovero nelle sventure! 
 
 -- Abdu'l-Bahá
 
-bpn7888 «[Italiano](../it/prayers/#bpn7888)» 
+bpn7888 
 
 ----
 
@@ -1311,7 +1312,7 @@ O mio Signore, mio Benamato, mio Desìo! Siimi Amico nella solitudine e Compagno
 
 -- Abdu'l-Bahá
 
-AB10769 «[English](../en/prayers/#AB10769)» «[Esperanto](../eo/prayers/#AB10769)» «[Italiano](../it/prayers/#AB10769)» 
+AB10769 «[English](../../en/prayers/#AB10769)» «[Esperanto](../../eo/prayers/#AB10769)» 
 
 ----
 
@@ -1325,7 +1326,7 @@ Crea in me un cuore puro, o mio Dio, e rinnova entro di me una coscienza tranqui
 
 -- Bahá'u'lláh
 
-bpn7890 «[Italiano](../it/prayers/#bpn7890)» 
+bpn7890 
 
 ----
 
@@ -1335,7 +1336,7 @@ Dai rivoli dolcemente profumati della Tua eternità dammi da bere, o mio Dio, e 
 
 -- Bahá'u'lláh
 
-bpn7891 «[Italiano](../it/prayers/#bpn7891)» 
+bpn7891 
 
 ----
 
@@ -1345,7 +1346,7 @@ O mio Signore! Fa’ che la Tua bellezza sia il mio cibo e la Tua presenza il mi
 
 -- Bahá'u'lláh
 
-BH07426FOO «[English](../en/prayers/#BH07426FOO)» «[Esperanto](../eo/prayers/#BH07426FOO)» «[Italiano](../it/prayers/#BH07426FOO)» 
+BH07426FOO «[English](../../en/prayers/#BH07426FOO)» «[Esperanto](../../eo/prayers/#BH07426FOO)» 
 
 ----
 
@@ -1355,7 +1356,7 @@ O mio Dio, Dio di munificenza e di misericordia! Tu sei il Re dalla Cui parola s
 
 -- Bahá'u'lláh
 
-bpn7893 «[Italiano](../it/prayers/#bpn7893)» 
+bpn7893 
 
 ----
 
@@ -1365,7 +1366,7 @@ Egli è il Benevolo, il Generosissimo!O Dio, mio Dio! Il Tuo richiamo mi ha attr
 
 -- Bahá'u'lláh
 
-bpn7894 «[Italiano](../it/prayers/#bpn7894)» 
+bpn7894 
 
 ----
 
@@ -1375,7 +1376,7 @@ Egli è Dio Che ascolta ed esaudisce le preghiere !Per la Tua gloria, o Benamato
 
 -- Bahá'u'lláh
 
-bpn7895 «[Italiano](../it/prayers/#bpn7895)» 
+bpn7895 
 
 ----
 
@@ -1385,7 +1386,7 @@ Glorificato sia il Tuo Nome, o Signore! In chi troverò rifugio, se in verità T
 
 -- Báb
 
-bpn7896 «[Italiano](../it/prayers/#bpn7896)» 
+bpn7896 
 
 ----
 
@@ -1395,7 +1396,7 @@ O  Dio! Corrobora e allieta il mio spirito. Purifica il mio cuore. Illumina le m
 
 -- Abdu'l-Bahá
 
-bpn7897 «[Italiano](../it/prayers/#bpn7897)» 
+bpn7897 
 
 ----
 
@@ -1405,7 +1406,7 @@ O  mio Dio! O mio Dio! Gloria sia a Te, perché mi hai confermato nel riconoscim
 
 -- Abdu'l-Bahá
 
-bpn7898 «[Italiano](../it/prayers/#bpn7898)» 
+bpn7898 
 
 ----
 
@@ -1415,7 +1416,7 @@ O mio Signore! O mio Signore! Questa è una lampada accesa col fuoco dell’amor
 
 -- Abdu'l-Bahá
 
-bpn7899 «[Italiano](../it/prayers/#bpn7899)» 
+bpn7899 
 
 ----
 
@@ -1425,7 +1426,7 @@ O  mio Dio! O mio Dio! Questo Tuo servo si è avvicinato a Te, vagando appassion
 
 -- Abdu'l-Bahá
 
-bpn7900 «[Italiano](../it/prayers/#bpn7900)» 
+bpn7900 
 
 ----
 
@@ -1435,7 +1436,7 @@ Egli è Dio!O Dio, mio Dio! Questi servi sono attratti nei Tuoi giorni alle frag
 
 -- Abdu'l-Bahá
 
-bpn7901 «[Italiano](../it/prayers/#bpn7901)» 
+bpn7901 
 
 ----
 
@@ -1445,7 +1446,7 @@ O Provvidente! Tu hai alitato sugli amici in Occidente la soave fragranza dello 
 
 -- Abdu'l-Bahá
 
-bpn7902 «[Italiano](../it/prayers/#bpn7902)» 
+bpn7902 
 
 ----
 
@@ -1455,7 +1456,7 @@ O Dio, mio Dio! Questo è il Tuo servo radioso, il Tuo schiavo spirituale, che s
 
 -- Abdu'l-Bahá
 
-bpn7903 «[Italiano](../it/prayers/#bpn7903)» 
+bpn7903 
 
 ----
 
@@ -1469,7 +1470,7 @@ Glorificato Tu sia, o Signore mio Dio! T’imploro per il soffio impetuoso dei v
 
 -- Bahá'u'lláh
 
-bpn7904 «[Italiano](../it/prayers/#bpn7904)» 
+bpn7904 
 
 ----
 
@@ -1479,7 +1480,7 @@ O Tu Dio misericordioso! O Tu Che sei forte e possente! O Tu Padre affettuoso! Q
 
 -- Abdu'l-Bahá
 
-bpn7905 «[Italiano](../it/prayers/#bpn7905)» 
+bpn7905 
 
 ----
 
@@ -1489,7 +1490,7 @@ O Tu Signore benevolo! Questi Tuoi servi si sono riuniti volti verso il Tuo Regn
 
 -- Abdu'l-Bahá
 
-bpn7906 «[Italiano](../it/prayers/#bpn7906)» 
+bpn7906 
 
 ----
 
@@ -1499,7 +1500,7 @@ O mio Dio! O mio Dio! In verità, questi servi si volgono verso di Te, supplican
 
 -- Abdu'l-Bahá
 
-bpn7907 «[Italiano](../it/prayers/#bpn7907)» 
+bpn7907 
 
 ----
 
@@ -1509,7 +1510,7 @@ O Tu Dio perdonatore! Questi servi si volgono verso il Tuo regno, desiderosi del
 
 -- Abdu'l-Bahá
 
-bpn7908 «[Italiano](../it/prayers/#bpn7908)» 
+bpn7908 
 
 ----
 
@@ -1519,7 +1520,7 @@ O Divina Provvidenza! Questa assemblea è formata dai Tuoi amici che sono attrat
 
 -- Abdu'l-Bahá
 
-bpn7909 «[Italiano](../it/prayers/#bpn7909)» 
+bpn7909 
 
 ----
 
@@ -1533,7 +1534,7 @@ Glorificato sia il Tuo Nome, o Signore mio Dio! T’imploro per il Tuo potere ch
 
 -- Bahá'u'lláh
 
-bpn7910 «[Italiano](../it/prayers/#bpn7910)» 
+bpn7910 
 
 ----
 
@@ -1543,7 +1544,7 @@ O Tu la Cui vicinanza è la mia brama, la Cui presenza è la mia speranza, il Cu
 
 -- Bahá'u'lláh
 
-bpn7911 «[Italiano](../it/prayers/#bpn7911)» 
+bpn7911 
 
 ----
 
@@ -1553,7 +1554,7 @@ Lodato e glorificato sei Tu, o Dio! Affretta il giorno in cui giungeremo alla Tu
 
 -- Báb
 
-bpn7912 «[Italiano](../it/prayers/#bpn7912)» 
+bpn7912 
 
 ----
 
@@ -1563,7 +1564,7 @@ O Signore mio Dio! Assisti i Tuoi amati ad essere saldi nella Tua Fede, a cammin
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../en/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
 
 ----
 
@@ -1573,7 +1574,7 @@ Fa’ sicuri i nostri passi, o Signore, sul Tuo cammino e rafforza i nostri cuor
 
 -- Abdu'l-Bahá
 
-bpn7914 «[Italiano](../it/prayers/#bpn7914)» 
+bpn7914 
 
 ----
 
@@ -1583,7 +1584,7 @@ O Dio, mio Dio! Mi sono volto pentito verso di Te e, in verità, Tu sei il Perdo
 
 -- Abdu'l-Bahá
 
-bpn7915 «[Italiano](../it/prayers/#bpn7915)» 
+bpn7915 
 
 ----
 
@@ -1593,7 +1594,7 @@ O Dio compassionevole! Ti siano rese grazie per avermi destato e reso cosciente.
 
 -- Abdu'l-Bahá
 
-bpn7916 «[Italiano](../it/prayers/#bpn7916)» 
+bpn7916 
 
 ----
 
@@ -1607,7 +1608,7 @@ O mio Dio, mio Signore, Mèta del mio desìo! Questo Tuo servo cerca di dormire 
 
 -- Bahá'u'lláh
 
-bpn7917 «[Italiano](../it/prayers/#bpn7917)» 
+bpn7917 
 
 ----
 
@@ -1617,7 +1618,7 @@ Come dispormi a dormire, o Dio mio Dio, quando gli occhi di coloro che Ti braman
 
 -- Bahá'u'lláh
 
-bpn7918 «[Italiano](../it/prayers/#bpn7918)» 
+bpn7918 
 
 ----
 
@@ -1627,7 +1628,7 @@ O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplica
 
 -- Abdu'l-Bahá
 
-AB06528MID «[English](../en/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» 
+AB06528MID «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» 
 
 ----
 
@@ -1641,7 +1642,7 @@ AB06528MID «[English](../en/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/
 
 -- Bahá'u'lláh
 
-bpn7927 «[Italiano](../it/prayers/#bpn7927)» 
+bpn7927 
 
 ----
 
@@ -1655,7 +1656,7 @@ bpn7927 «[Italiano](../it/prayers/#bpn7927)»
 
 -- Bahá'u'lláh
 
-bpn7926 «[Italiano](../it/prayers/#bpn7926)» 
+bpn7926 
 
 ----
 
@@ -1669,7 +1670,7 @@ bpn7926 «[Italiano](../it/prayers/#bpn7926)»
 
 -- Bahá'u'lláh
 
-bpn7928 «[Italiano](../it/prayers/#bpn7928)» 
+bpn7928 
 
 ----
 
@@ -1679,7 +1680,7 @@ bpn7928 «[Italiano](../it/prayers/#bpn7928)»
 
 -- Abdu'l-Bahá
 
-bpn7929 «[Italiano](../it/prayers/#bpn7929)» 
+bpn7929 
 
 ----
 
@@ -1693,7 +1694,7 @@ Mio Dio Che venero e adoro! Attesto la Tua unità e la Tua unicità e riconosco 
 
 -- Bahá'u'lláh
 
-BH00868WIT «[English](../en/prayers/#BH00868WIT)» «[Italiano](../it/prayers/#BH00868WIT)» «[Nederlands](../nl/prayers/#BH00868WIT)» 
+BH00868WIT «[Nederlands](../../nl/prayers/#BH00868WIT)» «[English](../../en/prayers/#BH00868WIT)» 
 
 ----
 
@@ -1703,7 +1704,7 @@ O Tu Signore gentile! O Tu Che sei generoso e misericordioso! Siamo servi della 
 
 -- Abdu'l-Bahá
 
-bpn7921 «[Italiano](../it/prayers/#bpn7921)» 
+bpn7921 
 
 ----
 
@@ -1713,7 +1714,7 @@ O Tu Signore compassionevole, Tu Che sei generoso e capace! Siamo Tuoi servi, pr
 
 -- Abdu'l-Bahá
 
-bpn7922 «[Italiano](../it/prayers/#bpn7922)» 
+bpn7922 
 
 ----
 
@@ -1723,7 +1724,7 @@ O Signore benevolo! Tu hai creato tutta l’umanità dallo stesso ceppo e hai de
 
 -- Abdu'l-Bahá
 
-bpn7923 «[Italiano](../it/prayers/#bpn7923)» 
+bpn7923 
 
 ----
 
@@ -1737,7 +1738,7 @@ O mio Dio! O mio Dio! Unisci i cuori dei Tuoi servi e rivela loro il Tuo grande 
 
 -- Bahá'u'lláh
 
-bpn7924 «[Italiano](../it/prayers/#bpn7924)» 
+bpn7924 
 
 ----
 
@@ -1747,7 +1748,7 @@ O mio Dio! O mio Dio! In verità, T’invoco e supplico alla Tua soglia, chieden
 
 -- Abdu'l-Bahá
 
-bpn7925 «[Italiano](../it/prayers/#bpn7925)» 
+bpn7925 
 
 ----
 

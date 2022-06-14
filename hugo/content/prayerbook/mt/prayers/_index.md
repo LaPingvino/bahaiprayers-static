@@ -5,6 +5,7 @@ tags = ['lang=mt', 'prayerbook']
 
 
 
+
 [Familja](#Familja)
 
 [Fejqan](#Fejqan)
@@ -79,7 +80,7 @@ Glorja lileK, O Sid Alla tiegħi! NitolboK  taħfirli u lil dawk li jgħinu l-Fi
 
 -- Báb
 
-bpn7954 «[Malti](../mt/prayers/#bpn7954)» 
+bpn7954 
 
 ----
 
@@ -93,7 +94,7 @@ O Alla, Alla tiegħi! Nitolbok f’ġieh l-oċejan tal-fejqan tiegħeK, u f’ġ
 
 -- Bahá'u'lláh
 
-bpn7962 «[Malti](../mt/prayers/#bpn7962)» 
+bpn7962 
 
 ----
 
@@ -103,7 +104,7 @@ L-Isem tiegħeK hu l-fejqan tiegħi, O Alla tiegħi, u l-fakra tiegħeK hija l-k
 
 -- Bahá'u'lláh
 
-bpn8001 «[Malti](../mt/prayers/#bpn8001)» 
+bpn8001 
 
 ----
 
@@ -117,7 +118,7 @@ Jien stenbaht fil-kenn tiegħeK, O Alla tiegħi u jixraqlu dak li jfittex dak il
 
 -- Bahá'u'lláh
 
-bpn7967 «[Malti](../mt/prayers/#bpn7967)» 
+bpn7967 
 
 ----
 
@@ -127,7 +128,7 @@ Jien qomt dal-għodu bil-grazzja tiegħeK, O Alla tiegħi, u ħallejt dari b’f
 
 -- Bahá'u'lláh
 
-bpn7968 «[Malti](../mt/prayers/#bpn7968)» 
+bpn7968 
 
 ----
 
@@ -141,7 +142,7 @@ O Int li wiċċeK hu l-għan tal-qima tiegħi, li ġmieleK hu l-kenn tiegħi, li
 
 -- Bahá'u'lláh
 
-bpn7942 «[Malti](../mt/prayers/#bpn7942)» 
+bpn7942 
 
 ----
 
@@ -151,7 +152,7 @@ Sid! Aħna nġibu ħniena, urina l-għoġba tiegħeK; foqra, agħtina sehem mill
 
 -- Abdu'l-Bahá
 
-bpn7943 «[Malti](../mt/prayers/#bpn7943)» 
+bpn7943 
 
 ----
 
@@ -165,7 +166,7 @@ O Alla tiegħi! O Alla tiegħi! Għaqqad il-qlub tal-qaddejja tiegħeK, u ikxef 
 
 -- Bahá'u'lláh
 
-bpn7991 «[Malti](../mt/prayers/#bpn7991)» 
+bpn7991 
 
 ----
 
@@ -175,7 +176,7 @@ O Alla tiegħi! O Alla tiegħi! Fis-sew, jien insejjaħleK u nitlob quddiem il-g
 
 -- Abdu'l-Bahá
 
-bpn7992 «[Malti](../mt/prayers/#bpn7992)» 
+bpn7992 
 
 ----
 
@@ -189,7 +190,7 @@ bpn7992 «[Malti](../mt/prayers/#bpn7992)»
 
 -- Bahá'u'lláh
 
-bpn7997 «[Malti](../mt/prayers/#bpn7997)» 
+bpn7997 
 
 ----
 
@@ -203,7 +204,7 @@ bpn7997 «[Malti](../mt/prayers/#bpn7997)»
 
 -- Bahá'u'lláh
 
-bpn7998 «[Malti](../mt/prayers/#bpn7998)» 
+bpn7998 
 
 ----
 
@@ -217,7 +218,7 @@ O Alla, Alla tiegħi! Din il-qaddejja tiegħeK qed issejjaħleK, tafda fiK, idda
 
 -- Abdu'l-Bahá
 
-bpn7964 «[Malti](../mt/prayers/#bpn7964)» 
+bpn7964 
 
 ----
 
@@ -231,7 +232,7 @@ bpn7964 «[Malti](../mt/prayers/#bpn7964)»
 
 -- Bahá'u'lláh
 
-bpn8000 «[Malti](../mt/prayers/#bpn8000)» 
+bpn8000 
 
 ----
 
@@ -245,7 +246,7 @@ bpn8000 «[Malti](../mt/prayers/#bpn8000)»
 
 -- Bahá'u'lláh
 
-bpn7999 «[Malti](../mt/prayers/#bpn7999)» 
+bpn7999 
 
 ----
 
@@ -259,7 +260,7 @@ Itkun imfaħħar, O Sid Alla tiegħi! Dan huwa l-qaddej tiegħeK li xorob minn i
 
 -- Bahá'u'lláh
 
-bpn7973 «[Malti](../mt/prayers/#bpn7973)» 
+bpn7973 
 
 ----
 
@@ -269,7 +270,7 @@ O Alla, O Alla tiegħi! Jien ħriġt minn dari, inżomm sewwa mal-ħabel ta’ l
 
 -- Bahá'u'lláh
 
-bpn7974 «[Malti](../mt/prayers/#bpn7974)» 
+bpn7974 
 
 ----
 
@@ -283,7 +284,7 @@ Mix-xmajjar imfewħa ta’ dwiemeK agħtini nixrob, O Alla tiegħi, u mill-frott
 
 -- Bahá'u'lláh
 
-bpn7975 «[Malti](../mt/prayers/#bpn7975)» 
+bpn7975 
 
 ----
 
@@ -293,7 +294,7 @@ Oħloq fija qalb safja, O Alla tiegħi, u ġedded kuxjenza kalma ġo fija, O Tam
 
 -- Bahá'u'lláh
 
-bpn7976 «[Malti](../mt/prayers/#bpn7976)» 
+bpn7976 
 
 ----
 
@@ -303,7 +304,7 @@ O Sid tiegħi! Agħmel ġmieleK l-ikel tiegħi, u l-preżenza tiegħeK ix-xorb t
 
 -- Bahá'u'lláh
 
-bpn7977 «[Malti](../mt/prayers/#bpn7977)» 
+bpn7977 
 
 ----
 
@@ -313,7 +314,7 @@ O Alla tiegħi, l-Alla tat-tjieba u l-ħniena! Inti dak is-Sultan li għall-kelm
 
 -- Bahá'u'lláh
 
-bpn7978 «[Malti](../mt/prayers/#bpn7978)» 
+bpn7978 
 
 ----
 
@@ -323,7 +324,7 @@ O Alla! Aħji u ferraħ l-ispirtu tiegħi. Saffili qalbi. Dawwal setgħati. Jien
 
 -- Abdu'l-Bahá
 
-bpn7979 «[Malti](../mt/prayers/#bpn7979)» 
+bpn7979 
 
 ----
 
@@ -333,7 +334,7 @@ O Sid tiegħi! O Sid tiegħi! Din hija lampa mixgħula min-nar ta’ l-imħabba 
 
 -- Abdu'l-Bahá
 
-bpn7980 «[Malti](../mt/prayers/#bpn7980)» 
+bpn7980 
 
 ----
 
@@ -343,7 +344,7 @@ O Alla tiegħi! O Alla tiegħi! Dan, il-qaddej tiegħeK, resaq lejK, qed imawwar
 
 -- Abdu'l-Bahá
 
-bpn7981 «[Malti](../mt/prayers/#bpn7981)» 
+bpn7981 
 
 ----
 
@@ -357,7 +358,7 @@ O Alla tiegħi! Dan huwa l-qaddej tiegħeK u iben il-qaddej tiegħeK li kien emm
 
 -- Bahá'u'lláh
 
-bpn7947 «[Malti](../mt/prayers/#bpn7947)» 
+bpn7947 
 
 ----
 
@@ -367,7 +368,7 @@ O Alla tiegħi! O Int li taħfer id-dnubiet, li tagħti d-doni, li tkeċċi l-ma
 
 -- Abdu'l-Bahá
 
-bpn7948 «[Malti](../mt/prayers/#bpn7948)» 
+bpn7948 
 
 ----
 
@@ -381,7 +382,7 @@ Glorja lileK, O Sid Alla tiegħi!  Nitolbok f’ġieh il-Magħżulin tiegħeK, u
 
 -- Bahá'u'lláh
 
-bpn7957 «[Malti](../mt/prayers/#bpn7957)» 
+bpn7957 
 
 ----
 
@@ -391,7 +392,7 @@ NitolboK li taħfirli, O Sid tiegħi, għal kull titrif għajr għal titrifeK, u
 
 -- Báb
 
-bpn7958 «[Malti](../mt/prayers/#bpn7958)» 
+bpn7958 
 
 ----
 
@@ -405,7 +406,7 @@ O Sid tiegħi, Maħbub tiegħi, Xewqa tiegħi! Tħabbeb miegħi waħdi kif jien 
 
 -- Bahá'u'lláh
 
-bpn7993 «[Malti](../mt/prayers/#bpn7993)» 
+bpn7993 
 
 ----
 
@@ -419,7 +420,7 @@ Sidi! Sidi! Jien infaħħreK u niżżiK ħajr għal dak li għażilt għall-qadd
 
 -- Abdu'l-Bahá
 
-bpn7953 «[Malti](../mt/prayers/#bpn7953)» 
+bpn7953 
 
 ----
 
@@ -433,7 +434,7 @@ Kemm-il qalb inġazzata, O Alla tiegħi, itkebbset bin-nar tal-Kawża tiegħeK, 
 
 -- Bahá'u'lláh
 
-bpn7949 «[Malti](../mt/prayers/#bpn7949)» 
+bpn7949 
 
 ----
 
@@ -443,7 +444,7 @@ Jien ma nafx, O Alla tiegħi, x’inhu in-Nar li Inti tkebbes f’arteK. Id dinj
 
 -- Bahá'u'lláh
 
-bpn7950 «[Malti](../mt/prayers/#bpn7950)» 
+bpn7950 
 
 ----
 
@@ -453,7 +454,7 @@ O Sid! Jien niġi għandeK għall-kenn, u mmexxi qalbi lejn l-egħliem tiegħeK 
 
 -- Báb
 
-bpn7951 «[Malti](../mt/prayers/#bpn7951)» 
+bpn7951 
 
 ----
 
@@ -463,7 +464,7 @@ O Alla, Alla tiegħi! Imla għalija il-bieqja tal-firda minn kollox, u fil-ġemg
 
 -- Abdu'l-Bahá
 
-bpn7952 «[Malti](../mt/prayers/#bpn7952)» 
+bpn7952 
 
 ----
 
@@ -477,7 +478,7 @@ Ikun imfaħħar l-isem tiegħeK, O Sid Alla tiegħi! Id-dlam infirex fuq kull ar
 
 -- Bahá'u'lláh
 
-bpn7986 «[Malti](../mt/prayers/#bpn7986)» 
+bpn7986 
 
 ----
 
@@ -487,7 +488,7 @@ O Sid! Ħalli lill-ġnus kollha tad-dinja jiksbu d-dħul fil-Ġenna tal-Fidi tie
 
 -- Báb
 
-bpn7987 «[Malti](../mt/prayers/#bpn7987)» 
+bpn7987 
 
 ----
 
@@ -501,7 +502,7 @@ O Sid tiegħi u Tama tiegħi! Għin Int lil dawk li tħobb biex ikunu sodi fil-P
 
 -- Abdu'l-Bahá
 
-bpn7955 «[Malti](../mt/prayers/#bpn7955)» 
+bpn7955 
 
 ----
 
@@ -511,7 +512,7 @@ O Sid Alla tiegħi! Għin lill-maħbubin tiegħeK ħalli jkunu sodi fil Fidi tie
 
 -- Abdu'l-Bahá
 
-bpn7956 «[Malti](../mt/prayers/#bpn7956)» 
+bpn7956 
 
 ----
 
@@ -525,7 +526,7 @@ bpn7956 «[Malti](../mt/prayers/#bpn7956)»
 
 -- Bahá'u'lláh
 
-bpn7994 «[Malti](../mt/prayers/#bpn7994)» 
+bpn7994 
 
 ----
 
@@ -539,7 +540,7 @@ bpn7994 «[Malti](../mt/prayers/#bpn7994)»
 
 -- Bahá'u'lláh
 
-bpn7995 «[Malti](../mt/prayers/#bpn7995)» 
+bpn7995 
 
 ----
 
@@ -553,7 +554,7 @@ bpn7995 «[Malti](../mt/prayers/#bpn7995)»
 
 -- Bahá'u'lláh
 
-bpn7996 «[Malti](../mt/prayers/#bpn7996)» 
+bpn7996 
 
 ----
 
@@ -567,7 +568,7 @@ Ikun imkabbar l-isem tiegħeK, O Alla tiegħi, għax Int urejt il-Jum li hu Sult
 
 -- Bahá'u'lláh
 
-bpn7983 «[Malti](../mt/prayers/#bpn7983)» 
+bpn7983 
 
 ----
 
@@ -577,7 +578,7 @@ O Alla tiegħi, għin Int lill-qaddej tiegħeK ħa’ jqajjem il-Kelma, u jmeri 
 
 -- Abdu'l-Bahá
 
-bpn7984 «[Malti](../mt/prayers/#bpn7984)» 
+bpn7984 
 
 ----
 
@@ -587,7 +588,7 @@ O Int Alla li m’hawnx bħaleK! O Inti Sid is-Sultan! Dawn l-erwieħ huma armat
 
 -- Abdu'l-Bahá
 
-bpn7985 «[Malti](../mt/prayers/#bpn7985)» 
+bpn7985 
 
 ----
 
@@ -601,7 +602,7 @@ O Alla! Eduka lil dawn it-tfal. Dawn it-tfal huma x-xtieli tal-ġnejna tiegħeK,
 
 -- Abdu'l-Bahá
 
-bpn7944 «[Malti](../mt/prayers/#bpn7944)» 
+bpn7944 
 
 ----
 
@@ -611,7 +612,7 @@ Huwa Alla! O Alla, Alla tiegħi! Agħtini qalb safja, bħalma perla!
 
 -- Abdu'l-Bahá
 
-bpn7945 «[Malti](../mt/prayers/#bpn7945)» 
+bpn7945 
 
 ----
 
@@ -621,7 +622,7 @@ O Alla, mexxini, ħarisni, agħmel minni lampa tiddi u kewkba tgħammex. Int is-
 
 -- Abdu'l-Bahá
 
-bpn7946 «[Malti](../mt/prayers/#bpn7946)» 
+bpn7946 
 
 ----
 
@@ -635,7 +636,7 @@ Kull tifħir, O Alla tiegħi, lileK Li int il-Għajn ta’ kull glorja u maestà
 
 -- Bahá'u'lláh
 
-bpn7970 «[Malti](../mt/prayers/#bpn7970)» 
+bpn7970 
 
 ----
 
@@ -645,7 +646,7 @@ Imkabbar Ikun ismeK, O Sid Alla tiegħi! Int huwa Dak Li l-ħwejjeġ kollha jqim
 
 -- Bahá'u'lláh
 
-bpn7971 «[Malti](../mt/prayers/#bpn7971)» 
+bpn7971 
 
 ----
 
@@ -655,7 +656,7 @@ Inti glorifikat, O Sid Alla tiegħi! Jien niżżiK ħajr talli hallejtni nagħra
 
 -- Bahá'u'lláh
 
-bpn7972 «[Malti](../mt/prayers/#bpn7972)» 
+bpn7972 
 
 ----
 
@@ -669,7 +670,7 @@ Keċċi n-niket tiegħi bit-tjieba tiegħek u bil-qalb kbira tiegħeK, O Alla, A
 
 -- Bahá'u'lláh
 
-bpn7988 «[Malti](../mt/prayers/#bpn7988)» 
+bpn7988 
 
 ----
 
@@ -679,7 +680,7 @@ O Int Li tiġribeK huwa duwa fejjieqa għal dawk qrib tiegħeK, Li x-xabla tieg�
 
 -- Bahá'u'lláh
 
-bpn7989 «[Malti](../mt/prayers/#bpn7989)» 
+bpn7989 
 
 ----
 
@@ -689,7 +690,7 @@ O Sid! Int in-Neħħej ta’ kull diqa u l-Keċċej ta’ kull deni. Inti Dak  L
 
 -- Báb
 
-bpn7990 «[Malti](../mt/prayers/#bpn7990)» 
+bpn7990 
 
 ----
 
@@ -703,7 +704,7 @@ O Inti Sid twajjeb! Int ħloqt il-bnedmin kollha mill-istess fergħa. Inti amart
 
 -- Abdu'l-Bahá
 
-bpn7963 «[Malti](../mt/prayers/#bpn7963)» 
+bpn7963 
 
 ----
 
@@ -717,7 +718,7 @@ Imbierek il-post, u d-dar, u l-imkien, u l-belt, u l-qalb, u l-ġebel u l-kenn, 
 
 -- Bahá'u'lláh
 
-bpn7959 «[Malti](../mt/prayers/#bpn7959)» 
+bpn7959 
 
 ----
 
@@ -727,7 +728,7 @@ Inti glorifikat, O Sid Alla tiegħi! Nitolbok f’ġieh l-irjieħ neffieħa tal-
 
 -- Bahá'u'lláh
 
-bpn7960 «[Malti](../mt/prayers/#bpn7960)» 
+bpn7960 
 
 ----
 
@@ -737,7 +738,7 @@ O Alla tiegħi, O Alla tiegħi! Fis-sewwa, dawn il-qaddejja qed iduru lejK, jito
 
 -- Abdu'l-Bahá
 
-bpn7961 «[Malti](../mt/prayers/#bpn7961)» 
+bpn7961 
 
 ----
 
@@ -751,7 +752,7 @@ Nitolbok maħfra, O Alla tiegħi, maħfra bil-qalb kif Inti tixtieq lill-qaddejj
 
 -- Báb
 
-bpn7969 «[Malti](../mt/prayers/#bpn7969)» 
+bpn7969 
 
 ----
 
@@ -765,7 +766,7 @@ O Alla, Alla tiegħi! Jiena dort niedem lejK, u fis-sew Int Dak li Jaħfer, li J
 
 -- Bahá'u'lláh
 
-bpn7982 «[Malti](../mt/prayers/#bpn7982)» 
+bpn7982 
 
 ----
 
@@ -779,7 +780,7 @@ O Sid! Agħmel lil dan iż-żagħżugħ middi, u xerred tjubiteK fuq din l-imsej
 
 -- Abdu'l-Bahá
 
-bpn8002 «[Malti](../mt/prayers/#bpn8002)» 
+bpn8002 
 
 ----
 
@@ -793,7 +794,7 @@ Hu Dak li Jagħti, Ta’ Qalb Kbira!Tifħir lil Alla, il-Qadim, Li Jgħammar-Dej
 
 -- Bahá'u'lláh
 
-bpn7965 «[Malti](../mt/prayers/#bpn7965)» 
+bpn7965 
 
 ----
 
@@ -803,7 +804,7 @@ O Sid tiegħi, O Sid tieghi! Dawn iż-żewġ globi jiddu huma mżewġin fl-imħa
 
 -- Abdu'l-Bahá
 
-bpn7966 «[Malti](../mt/prayers/#bpn7966)» 
+bpn7966 
 
 ----
 

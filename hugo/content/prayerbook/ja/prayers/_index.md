@@ -5,6 +5,7 @@ tags = ['lang=ja', 'prayerbook']
 
 
 
+
 [「聖なる計画の書簡」のティーチングの祈り](#%E3%80%8C%E8%81%96%E3%81%AA%E3%82%8B%E8%A8%88%E7%94%BB%E3%81%AE%E6%9B%B8%E7%B0%A1%E3%80%8D%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%81%AE%E7%A5%88%E3%82%8A)
 
 [アメリカ](#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)
@@ -113,7 +114,7 @@ tags = ['lang=ja', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn5531 «[日本語](../ja/prayers/#bpn5531)» 
+bpn5531 
 
 ----
 
@@ -123,7 +124,7 @@ bpn5531 «[日本語](../ja/prayers/#bpn5531)»
 
 -- Abdu'l-Bahá
 
-bpn5532 «[日本語](../ja/prayers/#bpn5532)» 
+bpn5532 
 
 ----
 
@@ -133,7 +134,7 @@ bpn5532 «[日本語](../ja/prayers/#bpn5532)»
 
 -- Abdu'l-Bahá
 
-bpn5533 «[日本語](../ja/prayers/#bpn5533)» 
+bpn5533 
 
 ----
 
@@ -143,7 +144,7 @@ bpn5533 «[日本語](../ja/prayers/#bpn5533)»
 
 -- Abdu'l-Bahá
 
-bpn5534 «[日本語](../ja/prayers/#bpn5534)» 
+bpn5534 
 
 ----
 
@@ -153,7 +154,7 @@ bpn5534 «[日本語](../ja/prayers/#bpn5534)»
 
 -- Abdu'l-Bahá
 
-bpn5535 «[日本語](../ja/prayers/#bpn5535)» 
+bpn5535 
 
 ----
 
@@ -163,7 +164,7 @@ bpn5535 «[日本語](../ja/prayers/#bpn5535)»
 
 -- Abdu'l-Bahá
 
-bpn5536 «[日本語](../ja/prayers/#bpn5536)» 
+bpn5536 
 
 ----
 
@@ -173,7 +174,7 @@ bpn5536 «[日本語](../ja/prayers/#bpn5536)»
 
 -- Abdu'l-Bahá
 
-bpn5537 «[日本語](../ja/prayers/#bpn5537)» 
+bpn5537 
 
 ----
 
@@ -183,7 +184,7 @@ bpn5537 «[日本語](../ja/prayers/#bpn5537)»
 
 -- Abdu'l-Bahá
 
-bpn5538 «[日本語](../ja/prayers/#bpn5538)» 
+bpn5538 
 
 ----
 
@@ -193,7 +194,7 @@ bpn5538 «[日本語](../ja/prayers/#bpn5538)»
 
 -- Abdu'l-Bahá
 
-bpn5539 «[日本語](../ja/prayers/#bpn5539)» 
+bpn5539 
 
 ----
 
@@ -203,7 +204,7 @@ bpn5539 «[日本語](../ja/prayers/#bpn5539)»
 
 -- Abdu'l-Bahá
 
-bpn5540 «[日本語](../ja/prayers/#bpn5540)» 
+bpn5540 
 
 ----
 
@@ -217,7 +218,7 @@ bpn5540 «[日本語](../ja/prayers/#bpn5540)»
 
 -- Abdu'l-Bahá
 
-bpn5565 «[日本語](../ja/prayers/#bpn5565)» 
+bpn5565 
 
 ----
 
@@ -231,7 +232,7 @@ bpn5565 «[日本語](../ja/prayers/#bpn5565)»
 
 -- Bahá'u'lláh
 
-bpn5557 «[日本語](../ja/prayers/#bpn5557)» 
+bpn5557 
 
 ----
 
@@ -245,7 +246,7 @@ bpn5557 «[日本語](../ja/prayers/#bpn5557)»
 
 -- Bahá'u'lláh
 
-bpn5522 «[日本語](../ja/prayers/#bpn5522)» 
+bpn5522 
 
 ----
 
@@ -255,7 +256,7 @@ bpn5522 «[日本語](../ja/prayers/#bpn5522)»
 
 -- Bahá'u'lláh
 
-bpn5523 «[日本語](../ja/prayers/#bpn5523)» 
+bpn5523 
 
 ----
 
@@ -265,7 +266,7 @@ bpn5523 «[日本語](../ja/prayers/#bpn5523)»
 
 -- Bahá'u'lláh
 
-bpn5524 «[日本語](../ja/prayers/#bpn5524)» 
+bpn5524 
 
 ----
 
@@ -275,7 +276,7 @@ bpn5524 «[日本語](../ja/prayers/#bpn5524)»
 
 -- Bahá'u'lláh
 
-bpn5525 «[日本語](../ja/prayers/#bpn5525)» 
+bpn5525 
 
 ----
 
@@ -285,7 +286,7 @@ bpn5525 «[日本語](../ja/prayers/#bpn5525)»
 
 -- Bahá'u'lláh
 
-bpn5526 «[日本語](../ja/prayers/#bpn5526)» 
+bpn5526 
 
 ----
 
@@ -295,7 +296,7 @@ bpn5526 «[日本語](../ja/prayers/#bpn5526)»
 
 -- Abdu'l-Bahá
 
-bpn5527 «[日本語](../ja/prayers/#bpn5527)» 
+bpn5527 
 
 ----
 
@@ -305,7 +306,7 @@ bpn5527 «[日本語](../ja/prayers/#bpn5527)»
 
 -- Abdu'l-Bahá
 
-bpn5528 «[日本語](../ja/prayers/#bpn5528)» 
+bpn5528 
 
 ----
 
@@ -315,7 +316,7 @@ bpn5528 «[日本語](../ja/prayers/#bpn5528)»
 
 -- Abdu'l-Bahá
 
-bpn5529 «[日本語](../ja/prayers/#bpn5529)» 
+bpn5529 
 
 ----
 
@@ -325,7 +326,7 @@ bpn5529 «[日本語](../ja/prayers/#bpn5529)»
 
 -- Abdu'l-Bahá
 
-bpn5530 «[日本語](../ja/prayers/#bpn5530)» 
+bpn5530 
 
 ----
 
@@ -339,7 +340,7 @@ bpn5530 «[日本語](../ja/prayers/#bpn5530)»
 
 -- Bahá'u'lláh
 
-bpn5576 «[日本語](../ja/prayers/#bpn5576)» 
+bpn5576 
 
 ----
 
@@ -353,7 +354,7 @@ bpn5576 «[日本語](../ja/prayers/#bpn5576)»
 
 -- Bahá'u'lláh
 
-bpn5552 «[日本語](../ja/prayers/#bpn5552)» 
+bpn5552 
 
 ----
 
@@ -363,7 +364,7 @@ bpn5552 «[日本語](../ja/prayers/#bpn5552)»
 
 -- Bahá'u'lláh
 
-bpn5553 «[日本語](../ja/prayers/#bpn5553)» 
+bpn5553 
 
 ----
 
@@ -373,7 +374,7 @@ bpn5553 «[日本語](../ja/prayers/#bpn5553)»
 
 -- Bahá'u'lláh
 
-bpn5554 «[日本語](../ja/prayers/#bpn5554)» 
+bpn5554 
 
 ----
 
@@ -387,7 +388,7 @@ bpn5554 «[日本語](../ja/prayers/#bpn5554)»
 
 -- Abdu'l-Bahá
 
-bpn5500 «[日本語](../ja/prayers/#bpn5500)» 
+bpn5500 
 
 ----
 
@@ -397,7 +398,7 @@ bpn5500 «[日本語](../ja/prayers/#bpn5500)»
 
 -- Abdu'l-Bahá
 
-bpn5501 «[日本語](../ja/prayers/#bpn5501)» 
+bpn5501 
 
 ----
 
@@ -407,7 +408,7 @@ bpn5501 «[日本語](../ja/prayers/#bpn5501)»
 
 -- Abdu'l-Bahá
 
-bpn5502 «[日本語](../ja/prayers/#bpn5502)» 
+bpn5502 
 
 ----
 
@@ -417,7 +418,7 @@ bpn5502 «[日本語](../ja/prayers/#bpn5502)»
 
 -- Abdu'l-Bahá
 
-bpn5503 «[日本語](../ja/prayers/#bpn5503)» 
+bpn5503 
 
 ----
 
@@ -427,7 +428,7 @@ bpn5503 «[日本語](../ja/prayers/#bpn5503)»
 
 -- Abdu'l-Bahá
 
-bpn5504 «[日本語](../ja/prayers/#bpn5504)» 
+bpn5504 
 
 ----
 
@@ -437,7 +438,7 @@ bpn5504 «[日本語](../ja/prayers/#bpn5504)»
 
 -- Abdu'l-Bahá
 
-bpn5505 «[日本語](../ja/prayers/#bpn5505)» 
+bpn5505 
 
 ----
 
@@ -451,7 +452,7 @@ bpn5505 «[日本語](../ja/prayers/#bpn5505)»
 
 -- Bahá'u'lláh
 
-bpn5577 «[日本語](../ja/prayers/#bpn5577)» 
+bpn5577 
 
 ----
 
@@ -465,7 +466,7 @@ bpn5577 «[日本語](../ja/prayers/#bpn5577)»
 
 -- Bahá'u'lláh
 
-bpn5357 «[日本語](../ja/prayers/#bpn5357)» 
+bpn5357 
 
 ----
 
@@ -475,7 +476,7 @@ bpn5357 «[日本語](../ja/prayers/#bpn5357)»
 
 -- Bahá'u'lláh
 
-bpn5358 «[日本語](../ja/prayers/#bpn5358)» 
+bpn5358 
 
 ----
 
@@ -485,7 +486,7 @@ bpn5358 «[日本語](../ja/prayers/#bpn5358)»
 
 -- Bahá'u'lláh
 
-bpn5359 «[日本語](../ja/prayers/#bpn5359)» 
+bpn5359 
 
 ----
 
@@ -495,7 +496,7 @@ bpn5359 «[日本語](../ja/prayers/#bpn5359)»
 
 -- Abdu'l-Bahá
 
-bpn5360 «[日本語](../ja/prayers/#bpn5360)» 
+bpn5360 
 
 ----
 
@@ -509,7 +510,7 @@ bpn5360 «[日本語](../ja/prayers/#bpn5360)»
 
 -- Bahá'u'lláh
 
-bpn5514 «[日本語](../ja/prayers/#bpn5514)» 
+bpn5514 
 
 ----
 
@@ -519,7 +520,7 @@ bpn5514 «[日本語](../ja/prayers/#bpn5514)»
 
 -- Báb
 
-bpn5515 «[日本語](../ja/prayers/#bpn5515)» 
+bpn5515 
 
 ----
 
@@ -529,7 +530,7 @@ bpn5515 «[日本語](../ja/prayers/#bpn5515)»
 
 -- Abdu'l-Bahá
 
-bpn5516 «[日本語](../ja/prayers/#bpn5516)» 
+bpn5516 
 
 ----
 
@@ -543,7 +544,7 @@ bpn5516 «[日本語](../ja/prayers/#bpn5516)»
 
 -- Bahá'u'lláh
 
-bpn5350 «[日本語](../ja/prayers/#bpn5350)» 
+bpn5350 
 
 ----
 
@@ -557,7 +558,7 @@ bpn5350 «[日本語](../ja/prayers/#bpn5350)»
 
 -- Bahá'u'lláh
 
-bpn5352 «[日本語](../ja/prayers/#bpn5352)» 
+bpn5352 
 
 ----
 
@@ -567,7 +568,7 @@ bpn5352 «[日本語](../ja/prayers/#bpn5352)»
 
 -- Abdu'l-Bahá
 
-bpn5353 «[日本語](../ja/prayers/#bpn5353)» 
+bpn5353 
 
 ----
 
@@ -577,7 +578,7 @@ bpn5353 «[日本語](../ja/prayers/#bpn5353)»
 
 -- Abdu'l-Bahá
 
-bpn5354 «[日本語](../ja/prayers/#bpn5354)» 
+bpn5354 
 
 ----
 
@@ -587,7 +588,7 @@ bpn5354 «[日本語](../ja/prayers/#bpn5354)»
 
 -- Abdu'l-Bahá
 
-bpn5355 «[日本語](../ja/prayers/#bpn5355)» 
+bpn5355 
 
 ----
 
@@ -597,7 +598,7 @@ bpn5355 «[日本語](../ja/prayers/#bpn5355)»
 
 -- Abdu'l-Bahá
 
-bpn5356 «[日本語](../ja/prayers/#bpn5356)» 
+bpn5356 
 
 ----
 
@@ -611,7 +612,7 @@ bpn5356 «[日本語](../ja/prayers/#bpn5356)»
 
 -- Bahá'u'lláh
 
-bpn5394 «[日本語](../ja/prayers/#bpn5394)» 
+bpn5394 
 
 ----
 
@@ -621,7 +622,7 @@ bpn5394 «[日本語](../ja/prayers/#bpn5394)»
 
 -- Bahá'u'lláh
 
-bpn5395 «[日本語](../ja/prayers/#bpn5395)» 
+bpn5395 
 
 ----
 
@@ -631,7 +632,7 @@ bpn5395 «[日本語](../ja/prayers/#bpn5395)»
 
 -- Bahá'u'lláh
 
-bpn5396 «[日本語](../ja/prayers/#bpn5396)» 
+bpn5396 
 
 ----
 
@@ -641,7 +642,7 @@ bpn5396 «[日本語](../ja/prayers/#bpn5396)»
 
 -- Bahá'u'lláh
 
-bpn5397 «[日本語](../ja/prayers/#bpn5397)» 
+bpn5397 
 
 ----
 
@@ -651,7 +652,7 @@ bpn5397 «[日本語](../ja/prayers/#bpn5397)»
 
 -- Bahá'u'lláh
 
-bpn5398 «[日本語](../ja/prayers/#bpn5398)» 
+bpn5398 
 
 ----
 
@@ -661,7 +662,7 @@ bpn5398 «[日本語](../ja/prayers/#bpn5398)»
 
 -- Báb
 
-bpn5399 «[日本語](../ja/prayers/#bpn5399)» 
+bpn5399 
 
 ----
 
@@ -671,7 +672,7 @@ bpn5399 «[日本語](../ja/prayers/#bpn5399)»
 
 -- Báb
 
-bpn5400 «[日本語](../ja/prayers/#bpn5400)» 
+bpn5400 
 
 ----
 
@@ -681,7 +682,7 @@ bpn5400 «[日本語](../ja/prayers/#bpn5400)»
 
 -- Báb
 
-bpn5401 «[日本語](../ja/prayers/#bpn5401)» 
+bpn5401 
 
 ----
 
@@ -691,7 +692,7 @@ bpn5401 «[日本語](../ja/prayers/#bpn5401)»
 
 -- Abdu'l-Bahá
 
-bpn5402 «[日本語](../ja/prayers/#bpn5402)» 
+bpn5402 
 
 ----
 
@@ -701,7 +702,7 @@ bpn5402 «[日本語](../ja/prayers/#bpn5402)»
 
 -- Abdu'l-Bahá
 
-bpn5403 «[日本語](../ja/prayers/#bpn5403)» 
+bpn5403 
 
 ----
 
@@ -711,7 +712,7 @@ bpn5403 «[日本語](../ja/prayers/#bpn5403)»
 
 -- Abdu'l-Bahá
 
-bpn5404 «[日本語](../ja/prayers/#bpn5404)» 
+bpn5404 
 
 ----
 
@@ -725,7 +726,7 @@ bpn5404 «[日本語](../ja/prayers/#bpn5404)»
 
 -- Abdu'l-Bahá
 
-bpn5548 «[日本語](../ja/prayers/#bpn5548)» 
+bpn5548 
 
 ----
 
@@ -739,7 +740,7 @@ bpn5548 «[日本語](../ja/prayers/#bpn5548)»
 
 -- Bahá'u'lláh
 
-bpn5558 «[日本語](../ja/prayers/#bpn5558)» 
+bpn5558 
 
 ----
 
@@ -749,7 +750,7 @@ bpn5558 «[日本語](../ja/prayers/#bpn5558)»
 
 -- Bahá'u'lláh
 
-bpn5562 «[日本語](../ja/prayers/#bpn5562)» 
+bpn5562 
 
 ----
 
@@ -763,7 +764,7 @@ bpn5562 «[日本語](../ja/prayers/#bpn5562)»
 
 -- Abdu'l-Bahá
 
-bpn5559 «[日本語](../ja/prayers/#bpn5559)» 
+bpn5559 
 
 ----
 
@@ -773,7 +774,7 @@ bpn5559 «[日本語](../ja/prayers/#bpn5559)»
 
 -- Abdu'l-Bahá
 
-bpn5561 «[日本語](../ja/prayers/#bpn5561)» 
+bpn5561 
 
 ----
 
@@ -787,7 +788,7 @@ bpn5561 «[日本語](../ja/prayers/#bpn5561)»
 
 -- Bahá'u'lláh
 
-bpn5480 «[日本語](../ja/prayers/#bpn5480)» 
+bpn5480 
 
 ----
 
@@ -797,7 +798,7 @@ bpn5480 «[日本語](../ja/prayers/#bpn5480)»
 
 -- Bahá'u'lláh
 
-bpn5481 «[日本語](../ja/prayers/#bpn5481)» 
+bpn5481 
 
 ----
 
@@ -811,7 +812,7 @@ bpn5481 «[日本語](../ja/prayers/#bpn5481)»
 
 -- Bahá'u'lláh
 
-bpn5468 «[日本語](../ja/prayers/#bpn5468)» 
+bpn5468 
 
 ----
 
@@ -821,7 +822,7 @@ bpn5468 «[日本語](../ja/prayers/#bpn5468)»
 
 -- Bahá'u'lláh
 
-bpn5469 «[日本語](../ja/prayers/#bpn5469)» 
+bpn5469 
 
 ----
 
@@ -831,7 +832,7 @@ bpn5469 «[日本語](../ja/prayers/#bpn5469)»
 
 -- Bahá'u'lláh
 
-bpn5470 «[日本語](../ja/prayers/#bpn5470)» 
+bpn5470 
 
 ----
 
@@ -841,7 +842,7 @@ bpn5470 «[日本語](../ja/prayers/#bpn5470)»
 
 -- Báb
 
-bpn5471 «[日本語](../ja/prayers/#bpn5471)» 
+bpn5471 
 
 ----
 
@@ -851,7 +852,7 @@ bpn5471 «[日本語](../ja/prayers/#bpn5471)»
 
 -- Báb
 
-bpn5472 «[日本語](../ja/prayers/#bpn5472)» 
+bpn5472 
 
 ----
 
@@ -861,7 +862,7 @@ bpn5472 «[日本語](../ja/prayers/#bpn5472)»
 
 -- Báb
 
-bpn5473 «[日本語](../ja/prayers/#bpn5473)» 
+bpn5473 
 
 ----
 
@@ -871,7 +872,7 @@ bpn5473 «[日本語](../ja/prayers/#bpn5473)»
 
 -- Báb
 
-bpn5474 «[日本語](../ja/prayers/#bpn5474)» 
+bpn5474 
 
 ----
 
@@ -881,7 +882,7 @@ bpn5474 «[日本語](../ja/prayers/#bpn5474)»
 
 -- Abdu'l-Bahá
 
-bpn5475 «[日本語](../ja/prayers/#bpn5475)» 
+bpn5475 
 
 ----
 
@@ -891,7 +892,7 @@ bpn5475 «[日本語](../ja/prayers/#bpn5475)»
 
 -- Abdu'l-Bahá
 
-bpn5476 «[日本語](../ja/prayers/#bpn5476)» 
+bpn5476 
 
 ----
 
@@ -905,7 +906,7 @@ bpn5476 «[日本語](../ja/prayers/#bpn5476)»
 
 -- Bahá'u'lláh
 
-bpn5556 «[日本語](../ja/prayers/#bpn5556)» 
+bpn5556 
 
 ----
 
@@ -919,7 +920,7 @@ bpn5556 «[日本語](../ja/prayers/#bpn5556)»
 
 -- Abdu'l-Bahá
 
-bpn5517 «[日本語](../ja/prayers/#bpn5517)» 
+bpn5517 
 
 ----
 
@@ -933,7 +934,7 @@ bpn5517 «[日本語](../ja/prayers/#bpn5517)»
 
 -- Bahá'u'lláh
 
-bpn5452 «[日本語](../ja/prayers/#bpn5452)» 
+bpn5452 
 
 ----
 
@@ -943,7 +944,7 @@ bpn5452 «[日本語](../ja/prayers/#bpn5452)»
 
 -- Bahá'u'lláh
 
-bpn5453 «[日本語](../ja/prayers/#bpn5453)» 
+bpn5453 
 
 ----
 
@@ -957,7 +958,7 @@ bpn5453 «[日本語](../ja/prayers/#bpn5453)»
 
 -- Bahá'u'lláh
 
-bpn5506 «[日本語](../ja/prayers/#bpn5506)» 
+bpn5506 
 
 ----
 
@@ -967,7 +968,7 @@ bpn5506 «[日本語](../ja/prayers/#bpn5506)»
 
 -- Bahá'u'lláh
 
-bpn5507 «[日本語](../ja/prayers/#bpn5507)» 
+bpn5507 
 
 ----
 
@@ -977,7 +978,7 @@ bpn5507 «[日本語](../ja/prayers/#bpn5507)»
 
 -- Bahá'u'lláh
 
-bpn5508 «[日本語](../ja/prayers/#bpn5508)» 
+bpn5508 
 
 ----
 
@@ -987,7 +988,7 @@ bpn5508 «[日本語](../ja/prayers/#bpn5508)»
 
 -- Bahá'u'lláh
 
-bpn5509 «[日本語](../ja/prayers/#bpn5509)» 
+bpn5509 
 
 ----
 
@@ -997,7 +998,7 @@ bpn5509 «[日本語](../ja/prayers/#bpn5509)»
 
 -- Bahá'u'lláh
 
-bpn5510 «[日本語](../ja/prayers/#bpn5510)» 
+bpn5510 
 
 ----
 
@@ -1007,7 +1008,7 @@ bpn5510 «[日本語](../ja/prayers/#bpn5510)»
 
 -- Bahá'u'lláh
 
-bpn5511 «[日本語](../ja/prayers/#bpn5511)» 
+bpn5511 
 
 ----
 
@@ -1017,7 +1018,7 @@ bpn5511 «[日本語](../ja/prayers/#bpn5511)»
 
 -- Bahá'u'lláh
 
-bpn5512 «[日本語](../ja/prayers/#bpn5512)» 
+bpn5512 
 
 ----
 
@@ -1031,7 +1032,7 @@ bpn5512 «[日本語](../ja/prayers/#bpn5512)»
 
 -- Abdu'l-Bahá
 
-bpn5513 «[日本語](../ja/prayers/#bpn5513)» 
+bpn5513 
 
 ----
 
@@ -1045,7 +1046,7 @@ bpn5513 «[日本語](../ja/prayers/#bpn5513)»
 
 -- Bahá'u'lláh
 
-bpn5484 «[日本語](../ja/prayers/#bpn5484)» 
+bpn5484 
 
 ----
 
@@ -1055,7 +1056,7 @@ bpn5484 «[日本語](../ja/prayers/#bpn5484)»
 
 -- Bahá'u'lláh
 
-bpn5485 «[日本語](../ja/prayers/#bpn5485)» 
+bpn5485 
 
 ----
 
@@ -1065,7 +1066,7 @@ bpn5485 «[日本語](../ja/prayers/#bpn5485)»
 
 -- Bahá'u'lláh
 
-bpn5499 «[日本語](../ja/prayers/#bpn5499)» 
+bpn5499 
 
 ----
 
@@ -1075,7 +1076,7 @@ bpn5499 «[日本語](../ja/prayers/#bpn5499)»
 
 -- Abdu'l-Bahá
 
-bpn5486 «[日本語](../ja/prayers/#bpn5486)» 
+bpn5486 
 
 ----
 
@@ -1085,7 +1086,7 @@ bpn5486 «[日本語](../ja/prayers/#bpn5486)»
 
 -- Abdu'l-Bahá
 
-bpn5487 «[日本語](../ja/prayers/#bpn5487)» 
+bpn5487 
 
 ----
 
@@ -1095,7 +1096,7 @@ bpn5487 «[日本語](../ja/prayers/#bpn5487)»
 
 -- Abdu'l-Bahá
 
-bpn5488 «[日本語](../ja/prayers/#bpn5488)» 
+bpn5488 
 
 ----
 
@@ -1105,7 +1106,7 @@ bpn5488 «[日本語](../ja/prayers/#bpn5488)»
 
 -- Abdu'l-Bahá
 
-bpn5489 «[日本語](../ja/prayers/#bpn5489)» 
+bpn5489 
 
 ----
 
@@ -1115,7 +1116,7 @@ bpn5489 «[日本語](../ja/prayers/#bpn5489)»
 
 -- Abdu'l-Bahá
 
-bpn5490 «[日本語](../ja/prayers/#bpn5490)» 
+bpn5490 
 
 ----
 
@@ -1125,7 +1126,7 @@ bpn5490 «[日本語](../ja/prayers/#bpn5490)»
 
 -- Abdu'l-Bahá
 
-bpn5491 «[日本語](../ja/prayers/#bpn5491)» 
+bpn5491 
 
 ----
 
@@ -1135,7 +1136,7 @@ bpn5491 «[日本語](../ja/prayers/#bpn5491)»
 
 -- Abdu'l-Bahá
 
-bpn5492 «[日本語](../ja/prayers/#bpn5492)» 
+bpn5492 
 
 ----
 
@@ -1145,7 +1146,7 @@ bpn5492 «[日本語](../ja/prayers/#bpn5492)»
 
 -- Abdu'l-Bahá
 
-bpn5493 «[日本語](../ja/prayers/#bpn5493)» 
+bpn5493 
 
 ----
 
@@ -1155,7 +1156,7 @@ bpn5493 «[日本語](../ja/prayers/#bpn5493)»
 
 -- Abdu'l-Bahá
 
-bpn5494 «[日本語](../ja/prayers/#bpn5494)» 
+bpn5494 
 
 ----
 
@@ -1165,7 +1166,7 @@ bpn5494 «[日本語](../ja/prayers/#bpn5494)»
 
 -- Abdu'l-Bahá
 
-bpn5495 «[日本語](../ja/prayers/#bpn5495)» 
+bpn5495 
 
 ----
 
@@ -1175,7 +1176,7 @@ bpn5495 «[日本語](../ja/prayers/#bpn5495)»
 
 -- Abdu'l-Bahá
 
-bpn5496 «[日本語](../ja/prayers/#bpn5496)» 
+bpn5496 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn5496 «[日本語](../ja/prayers/#bpn5496)»
 
 -- Abdu'l-Bahá
 
-bpn5497 «[日本語](../ja/prayers/#bpn5497)» 
+bpn5497 
 
 ----
 
@@ -1195,7 +1196,7 @@ bpn5497 «[日本語](../ja/prayers/#bpn5497)»
 
 -- Abdu'l-Bahá
 
-bpn5498 «[日本語](../ja/prayers/#bpn5498)» 
+bpn5498 
 
 ----
 
@@ -1209,7 +1210,7 @@ bpn5498 «[日本語](../ja/prayers/#bpn5498)»
 
 -- Báb
 
-bpn5483 «[日本語](../ja/prayers/#bpn5483)» 
+bpn5483 
 
 ----
 
@@ -1223,7 +1224,7 @@ bpn5483 «[日本語](../ja/prayers/#bpn5483)»
 
 -- Bahá'u'lláh
 
-bpn5437 «[日本語](../ja/prayers/#bpn5437)» 
+bpn5437 
 
 ----
 
@@ -1233,7 +1234,7 @@ bpn5437 «[日本語](../ja/prayers/#bpn5437)»
 
 -- Bahá'u'lláh
 
-bpn5438 «[日本語](../ja/prayers/#bpn5438)» 
+bpn5438 
 
 ----
 
@@ -1243,7 +1244,7 @@ bpn5438 «[日本語](../ja/prayers/#bpn5438)»
 
 -- Báb
 
-bpn5439 «[日本語](../ja/prayers/#bpn5439)» 
+bpn5439 
 
 ----
 
@@ -1253,7 +1254,7 @@ bpn5439 «[日本語](../ja/prayers/#bpn5439)»
 
 -- Abdu'l-Bahá
 
-bpn5440 «[日本語](../ja/prayers/#bpn5440)» 
+bpn5440 
 
 ----
 
@@ -1267,7 +1268,7 @@ bpn5440 «[日本語](../ja/prayers/#bpn5440)»
 
 -- Bahá'u'lláh
 
-bpn5379 «[日本語](../ja/prayers/#bpn5379)» 
+bpn5379 
 
 ----
 
@@ -1277,7 +1278,7 @@ bpn5379 «[日本語](../ja/prayers/#bpn5379)»
 
 -- Bahá'u'lláh
 
-bpn5380 «[日本語](../ja/prayers/#bpn5380)» 
+bpn5380 
 
 ----
 
@@ -1287,7 +1288,7 @@ bpn5380 «[日本語](../ja/prayers/#bpn5380)»
 
 -- Bahá'u'lláh
 
-bpn5381 «[日本語](../ja/prayers/#bpn5381)» 
+bpn5381 
 
 ----
 
@@ -1297,7 +1298,7 @@ bpn5381 «[日本語](../ja/prayers/#bpn5381)»
 
 -- Báb
 
-bpn5382 «[日本語](../ja/prayers/#bpn5382)» 
+bpn5382 
 
 ----
 
@@ -1307,7 +1308,7 @@ bpn5382 «[日本語](../ja/prayers/#bpn5382)»
 
 -- Báb
 
-bpn5383 «[日本語](../ja/prayers/#bpn5383)» 
+bpn5383 
 
 ----
 
@@ -1317,7 +1318,7 @@ bpn5383 «[日本語](../ja/prayers/#bpn5383)»
 
 -- Báb
 
-bpn5384 «[日本語](../ja/prayers/#bpn5384)» 
+bpn5384 
 
 ----
 
@@ -1327,7 +1328,7 @@ bpn5384 «[日本語](../ja/prayers/#bpn5384)»
 
 -- Abdu'l-Bahá
 
-bpn5385 «[日本語](../ja/prayers/#bpn5385)» 
+bpn5385 
 
 ----
 
@@ -1337,7 +1338,7 @@ bpn5385 «[日本語](../ja/prayers/#bpn5385)»
 
 -- Abdu'l-Bahá
 
-bpn5386 «[日本語](../ja/prayers/#bpn5386)» 
+bpn5386 
 
 ----
 
@@ -1347,7 +1348,7 @@ bpn5386 «[日本語](../ja/prayers/#bpn5386)»
 
 -- Abdu'l-Bahá
 
-bpn5387 «[日本語](../ja/prayers/#bpn5387)» 
+bpn5387 
 
 ----
 
@@ -1361,7 +1362,7 @@ bpn5387 «[日本語](../ja/prayers/#bpn5387)»
 
 -- Bahá'u'lláh
 
-bpn5578 «[日本語](../ja/prayers/#bpn5578)» 
+bpn5578 
 
 ----
 
@@ -1371,7 +1372,7 @@ bpn5578 «[日本語](../ja/prayers/#bpn5578)»
 
 -- Bahá'u'lláh
 
-bpn5579 «[日本語](../ja/prayers/#bpn5579)» 
+bpn5579 
 
 ----
 
@@ -1381,7 +1382,7 @@ bpn5579 «[日本語](../ja/prayers/#bpn5579)»
 
 -- Bahá'u'lláh
 
-bpn5580 «[日本語](../ja/prayers/#bpn5580)» 
+bpn5580 
 
 ----
 
@@ -1391,7 +1392,7 @@ bpn5580 «[日本語](../ja/prayers/#bpn5580)»
 
 -- Abdu'l-Bahá
 
-bpn5581 «[日本語](../ja/prayers/#bpn5581)» 
+bpn5581 
 
 ----
 
@@ -1401,7 +1402,7 @@ bpn5581 «[日本語](../ja/prayers/#bpn5581)»
 
 -- Abdu'l-Bahá
 
-bpn5582 «[日本語](../ja/prayers/#bpn5582)» 
+bpn5582 
 
 ----
 
@@ -1411,7 +1412,7 @@ bpn5582 «[日本語](../ja/prayers/#bpn5582)»
 
 -- Abdu'l-Bahá
 
-bpn5583 «[日本語](../ja/prayers/#bpn5583)» 
+bpn5583 
 
 ----
 
@@ -1421,7 +1422,7 @@ bpn5583 «[日本語](../ja/prayers/#bpn5583)»
 
 -- Abdu'l-Bahá
 
-bpn5584 «[日本語](../ja/prayers/#bpn5584)» 
+bpn5584 
 
 ----
 
@@ -1431,7 +1432,7 @@ bpn5584 «[日本語](../ja/prayers/#bpn5584)»
 
 -- Abdu'l-Bahá
 
-bpn5585 «[日本語](../ja/prayers/#bpn5585)» 
+bpn5585 
 
 ----
 
@@ -1441,7 +1442,7 @@ bpn5585 «[日本語](../ja/prayers/#bpn5585)»
 
 -- Abdu'l-Bahá
 
-bpn5586 «[日本語](../ja/prayers/#bpn5586)» 
+bpn5586 
 
 ----
 
@@ -1455,7 +1456,7 @@ bpn5586 «[日本語](../ja/prayers/#bpn5586)»
 
 -- Bahá'u'lláh
 
-bpn5567 «[日本語](../ja/prayers/#bpn5567)» 
+bpn5567 
 
 ----
 
@@ -1465,7 +1466,7 @@ bpn5567 «[日本語](../ja/prayers/#bpn5567)»
 
 -- Bahá'u'lláh
 
-bpn5568 «[日本語](../ja/prayers/#bpn5568)» 
+bpn5568 
 
 ----
 
@@ -1475,7 +1476,7 @@ bpn5568 «[日本語](../ja/prayers/#bpn5568)»
 
 -- Bahá'u'lláh
 
-bpn5569 «[日本語](../ja/prayers/#bpn5569)» 
+bpn5569 
 
 ----
 
@@ -1485,7 +1486,7 @@ bpn5569 «[日本語](../ja/prayers/#bpn5569)»
 
 -- Bahá'u'lláh
 
-bpn5570 «[日本語](../ja/prayers/#bpn5570)» 
+bpn5570 
 
 ----
 
@@ -1495,7 +1496,7 @@ bpn5570 «[日本語](../ja/prayers/#bpn5570)»
 
 -- Bahá'u'lláh
 
-bpn5571 «[日本語](../ja/prayers/#bpn5571)» 
+bpn5571 
 
 ----
 
@@ -1505,7 +1506,7 @@ bpn5571 «[日本語](../ja/prayers/#bpn5571)»
 
 -- Bahá'u'lláh
 
-bpn5572 «[日本語](../ja/prayers/#bpn5572)» 
+bpn5572 
 
 ----
 
@@ -1515,7 +1516,7 @@ bpn5572 «[日本語](../ja/prayers/#bpn5572)»
 
 -- Bahá'u'lláh
 
-bpn5573 «[日本語](../ja/prayers/#bpn5573)» 
+bpn5573 
 
 ----
 
@@ -1525,7 +1526,7 @@ bpn5573 «[日本語](../ja/prayers/#bpn5573)»
 
 -- Bahá'u'lláh
 
-bpn5574 «[日本語](../ja/prayers/#bpn5574)» 
+bpn5574 
 
 ----
 
@@ -1535,7 +1536,7 @@ bpn5574 «[日本語](../ja/prayers/#bpn5574)»
 
 -- Abdu'l-Bahá
 
-bpn5575 «[日本語](../ja/prayers/#bpn5575)» 
+bpn5575 
 
 ----
 
@@ -1549,7 +1550,7 @@ bpn5575 «[日本語](../ja/prayers/#bpn5575)»
 
 -- Bahá'u'lláh
 
-bpn5477 «[日本語](../ja/prayers/#bpn5477)» 
+bpn5477 
 
 ----
 
@@ -1559,7 +1560,7 @@ bpn5477 «[日本語](../ja/prayers/#bpn5477)»
 
 -- Bahá'u'lláh
 
-bpn5478 «[日本語](../ja/prayers/#bpn5478)» 
+bpn5478 
 
 ----
 
@@ -1569,7 +1570,7 @@ bpn5478 «[日本語](../ja/prayers/#bpn5478)»
 
 -- Bahá'u'lláh
 
-bpn5479 «[日本語](../ja/prayers/#bpn5479)» 
+bpn5479 
 
 ----
 
@@ -1583,7 +1584,7 @@ bpn5479 «[日本語](../ja/prayers/#bpn5479)»
 
 -- Abdu'l-Bahá
 
-bpn5564 «[日本語](../ja/prayers/#bpn5564)» 
+bpn5564 
 
 ----
 
@@ -1597,7 +1598,7 @@ bpn5564 «[日本語](../ja/prayers/#bpn5564)»
 
 -- Bahá'u'lláh
 
-bpn5420 «[日本語](../ja/prayers/#bpn5420)» 
+bpn5420 
 
 ----
 
@@ -1607,7 +1608,7 @@ bpn5420 «[日本語](../ja/prayers/#bpn5420)»
 
 -- Bahá'u'lláh
 
-bpn5422 «[日本語](../ja/prayers/#bpn5422)» 
+bpn5422 
 
 ----
 
@@ -1617,7 +1618,7 @@ bpn5422 «[日本語](../ja/prayers/#bpn5422)»
 
 -- Bahá'u'lláh
 
-bpn5423 «[日本語](../ja/prayers/#bpn5423)» 
+bpn5423 
 
 ----
 
@@ -1627,7 +1628,7 @@ bpn5423 «[日本語](../ja/prayers/#bpn5423)»
 
 -- Bahá'u'lláh
 
-bpn5424 «[日本語](../ja/prayers/#bpn5424)» 
+bpn5424 
 
 ----
 
@@ -1637,7 +1638,7 @@ bpn5424 «[日本語](../ja/prayers/#bpn5424)»
 
 -- Bahá'u'lláh
 
-bpn5425 «[日本語](../ja/prayers/#bpn5425)» 
+bpn5425 
 
 ----
 
@@ -1647,7 +1648,7 @@ bpn5425 «[日本語](../ja/prayers/#bpn5425)»
 
 -- Bahá'u'lláh
 
-bpn5426 «[日本語](../ja/prayers/#bpn5426)» 
+bpn5426 
 
 ----
 
@@ -1657,7 +1658,7 @@ bpn5426 «[日本語](../ja/prayers/#bpn5426)»
 
 -- Bahá'u'lláh
 
-bpn5421 «[日本語](../ja/prayers/#bpn5421)» 
+bpn5421 
 
 ----
 
@@ -1671,7 +1672,7 @@ bpn5421 «[日本語](../ja/prayers/#bpn5421)»
 
 -- Bahá'u'lláh
 
-bpn5560 «[日本語](../ja/prayers/#bpn5560)» 
+bpn5560 
 
 ----
 
@@ -1685,7 +1686,7 @@ bpn5560 «[日本語](../ja/prayers/#bpn5560)»
 
 -- Bahá'u'lláh
 
-bpn5441 «[日本語](../ja/prayers/#bpn5441)» 
+bpn5441 
 
 ----
 
@@ -1695,7 +1696,7 @@ bpn5441 «[日本語](../ja/prayers/#bpn5441)»
 
 -- Bahá'u'lláh
 
-bpn5442 «[日本語](../ja/prayers/#bpn5442)» 
+bpn5442 
 
 ----
 
@@ -1705,7 +1706,7 @@ bpn5442 «[日本語](../ja/prayers/#bpn5442)»
 
 -- Bahá'u'lláh
 
-bpn5443 «[日本語](../ja/prayers/#bpn5443)» 
+bpn5443 
 
 ----
 
@@ -1715,7 +1716,7 @@ bpn5443 «[日本語](../ja/prayers/#bpn5443)»
 
 -- Bahá'u'lláh
 
-bpn5444 «[日本語](../ja/prayers/#bpn5444)» 
+bpn5444 
 
 ----
 
@@ -1725,7 +1726,7 @@ bpn5444 «[日本語](../ja/prayers/#bpn5444)»
 
 -- Bahá'u'lláh
 
-bpn5445 «[日本語](../ja/prayers/#bpn5445)» 
+bpn5445 
 
 ----
 
@@ -1735,7 +1736,7 @@ bpn5445 «[日本語](../ja/prayers/#bpn5445)»
 
 -- Bahá'u'lláh
 
-bpn5446 «[日本語](../ja/prayers/#bpn5446)» 
+bpn5446 
 
 ----
 
@@ -1745,7 +1746,7 @@ bpn5446 «[日本語](../ja/prayers/#bpn5446)»
 
 -- Báb
 
-bpn5447 «[日本語](../ja/prayers/#bpn5447)» 
+bpn5447 
 
 ----
 
@@ -1755,7 +1756,7 @@ bpn5447 «[日本語](../ja/prayers/#bpn5447)»
 
 -- Báb
 
-bpn5448 «[日本語](../ja/prayers/#bpn5448)» 
+bpn5448 
 
 ----
 
@@ -1765,7 +1766,7 @@ bpn5448 «[日本語](../ja/prayers/#bpn5448)»
 
 -- Báb
 
-bpn5449 «[日本語](../ja/prayers/#bpn5449)» 
+bpn5449 
 
 ----
 
@@ -1775,7 +1776,7 @@ bpn5449 «[日本語](../ja/prayers/#bpn5449)»
 
 -- Abdu'l-Bahá
 
-bpn5450 «[日本語](../ja/prayers/#bpn5450)» 
+bpn5450 
 
 ----
 
@@ -1785,7 +1786,7 @@ bpn5450 «[日本語](../ja/prayers/#bpn5450)»
 
 -- Abdu'l-Bahá
 
-bpn5451 «[日本語](../ja/prayers/#bpn5451)» 
+bpn5451 
 
 ----
 
@@ -1799,7 +1800,7 @@ bpn5451 «[日本語](../ja/prayers/#bpn5451)»
 
 -- Bahá'u'lláh
 
-bpn5482 «[日本語](../ja/prayers/#bpn5482)» 
+bpn5482 
 
 ----
 
@@ -1813,7 +1814,7 @@ bpn5482 «[日本語](../ja/prayers/#bpn5482)»
 
 -- Bahá'u'lláh
 
-bpn5349 «[日本語](../ja/prayers/#bpn5349)» 
+bpn5349 
 
 ----
 
@@ -1827,7 +1828,7 @@ bpn5349 «[日本語](../ja/prayers/#bpn5349)»
 
 -- Bahá'u'lláh
 
-bpn5454 «[日本語](../ja/prayers/#bpn5454)» 
+bpn5454 
 
 ----
 
@@ -1837,7 +1838,7 @@ bpn5454 «[日本語](../ja/prayers/#bpn5454)»
 
 -- Bahá'u'lláh
 
-bpn5455 «[日本語](../ja/prayers/#bpn5455)» 
+bpn5455 
 
 ----
 
@@ -1847,7 +1848,7 @@ bpn5455 «[日本語](../ja/prayers/#bpn5455)»
 
 -- Bahá'u'lláh
 
-bpn5456 «[日本語](../ja/prayers/#bpn5456)» 
+bpn5456 
 
 ----
 
@@ -1857,7 +1858,7 @@ bpn5456 «[日本語](../ja/prayers/#bpn5456)»
 
 -- Bahá'u'lláh
 
-bpn5457 «[日本語](../ja/prayers/#bpn5457)» 
+bpn5457 
 
 ----
 
@@ -1867,7 +1868,7 @@ bpn5457 «[日本語](../ja/prayers/#bpn5457)»
 
 -- Bahá'u'lláh
 
-bpn5458 «[日本語](../ja/prayers/#bpn5458)» 
+bpn5458 
 
 ----
 
@@ -1877,7 +1878,7 @@ bpn5458 «[日本語](../ja/prayers/#bpn5458)»
 
 -- Báb
 
-bpn5459 «[日本語](../ja/prayers/#bpn5459)» 
+bpn5459 
 
 ----
 
@@ -1887,7 +1888,7 @@ bpn5459 «[日本語](../ja/prayers/#bpn5459)»
 
 -- Báb
 
-bpn5460 «[日本語](../ja/prayers/#bpn5460)» 
+bpn5460 
 
 ----
 
@@ -1897,7 +1898,7 @@ bpn5460 «[日本語](../ja/prayers/#bpn5460)»
 
 -- Abdu'l-Bahá
 
-bpn5461 «[日本語](../ja/prayers/#bpn5461)» 
+bpn5461 
 
 ----
 
@@ -1907,7 +1908,7 @@ bpn5461 «[日本語](../ja/prayers/#bpn5461)»
 
 -- Abdu'l-Bahá
 
-bpn5462 «[日本語](../ja/prayers/#bpn5462)» 
+bpn5462 
 
 ----
 
@@ -1921,7 +1922,7 @@ bpn5462 «[日本語](../ja/prayers/#bpn5462)»
 
 -- Abdu'l-Bahá
 
-bpn5555 «[日本語](../ja/prayers/#bpn5555)» 
+bpn5555 
 
 ----
 
@@ -1935,7 +1936,7 @@ bpn5555 «[日本語](../ja/prayers/#bpn5555)»
 
 -- Bahá'u'lláh
 
-bpn5361 «[日本語](../ja/prayers/#bpn5361)» 
+bpn5361 
 
 ----
 
@@ -1945,7 +1946,7 @@ bpn5361 «[日本語](../ja/prayers/#bpn5361)»
 
 -- Bahá'u'lláh
 
-bpn5362 «[日本語](../ja/prayers/#bpn5362)» 
+bpn5362 
 
 ----
 
@@ -1955,7 +1956,7 @@ bpn5362 «[日本語](../ja/prayers/#bpn5362)»
 
 -- Bahá'u'lláh
 
-bpn5363 «[日本語](../ja/prayers/#bpn5363)» 
+bpn5363 
 
 ----
 
@@ -1965,7 +1966,7 @@ bpn5363 «[日本語](../ja/prayers/#bpn5363)»
 
 -- Bahá'u'lláh
 
-bpn5364 «[日本語](../ja/prayers/#bpn5364)» 
+bpn5364 
 
 ----
 
@@ -1975,7 +1976,7 @@ bpn5364 «[日本語](../ja/prayers/#bpn5364)»
 
 -- Bahá'u'lláh
 
-bpn5365 «[日本語](../ja/prayers/#bpn5365)» 
+bpn5365 
 
 ----
 
@@ -1985,7 +1986,7 @@ bpn5365 «[日本語](../ja/prayers/#bpn5365)»
 
 -- Bahá'u'lláh
 
-bpn5366 «[日本語](../ja/prayers/#bpn5366)» 
+bpn5366 
 
 ----
 
@@ -1995,7 +1996,7 @@ bpn5366 «[日本語](../ja/prayers/#bpn5366)»
 
 -- Bahá'u'lláh
 
-bpn5367 «[日本語](../ja/prayers/#bpn5367)» 
+bpn5367 
 
 ----
 
@@ -2005,7 +2006,7 @@ bpn5367 «[日本語](../ja/prayers/#bpn5367)»
 
 -- Bahá'u'lláh
 
-bpn5368 «[日本語](../ja/prayers/#bpn5368)» 
+bpn5368 
 
 ----
 
@@ -2015,7 +2016,7 @@ bpn5368 «[日本語](../ja/prayers/#bpn5368)»
 
 -- Bahá'u'lláh
 
-bpn5369 «[日本語](../ja/prayers/#bpn5369)» 
+bpn5369 
 
 ----
 
@@ -2025,7 +2026,7 @@ bpn5369 «[日本語](../ja/prayers/#bpn5369)»
 
 -- Báb
 
-bpn5370 «[日本語](../ja/prayers/#bpn5370)» 
+bpn5370 
 
 ----
 
@@ -2035,7 +2036,7 @@ bpn5370 «[日本語](../ja/prayers/#bpn5370)»
 
 -- Abdu'l-Bahá
 
-bpn5371 «[日本語](../ja/prayers/#bpn5371)» 
+bpn5371 
 
 ----
 
@@ -2045,7 +2046,7 @@ bpn5371 «[日本語](../ja/prayers/#bpn5371)»
 
 -- Abdu'l-Bahá
 
-bpn5372 «[日本語](../ja/prayers/#bpn5372)» 
+bpn5372 
 
 ----
 
@@ -2055,7 +2056,7 @@ bpn5372 «[日本語](../ja/prayers/#bpn5372)»
 
 -- Abdu'l-Bahá
 
-bpn5373 «[日本語](../ja/prayers/#bpn5373)» 
+bpn5373 
 
 ----
 
@@ -2065,7 +2066,7 @@ bpn5373 «[日本語](../ja/prayers/#bpn5373)»
 
 -- Abdu'l-Bahá
 
-bpn5374 «[日本語](../ja/prayers/#bpn5374)» 
+bpn5374 
 
 ----
 
@@ -2075,7 +2076,7 @@ bpn5374 «[日本語](../ja/prayers/#bpn5374)»
 
 -- Abdu'l-Bahá
 
-bpn5375 «[日本語](../ja/prayers/#bpn5375)» 
+bpn5375 
 
 ----
 
@@ -2085,7 +2086,7 @@ bpn5375 «[日本語](../ja/prayers/#bpn5375)»
 
 -- Abdu'l-Bahá
 
-bpn5376 «[日本語](../ja/prayers/#bpn5376)» 
+bpn5376 
 
 ----
 
@@ -2095,7 +2096,7 @@ bpn5376 «[日本語](../ja/prayers/#bpn5376)»
 
 -- Abdu'l-Bahá
 
-bpn5377 «[日本語](../ja/prayers/#bpn5377)» 
+bpn5377 
 
 ----
 
@@ -2105,7 +2106,7 @@ bpn5377 «[日本語](../ja/prayers/#bpn5377)»
 
 -- Abdu'l-Bahá
 
-bpn5378 «[日本語](../ja/prayers/#bpn5378)» 
+bpn5378 
 
 ----
 
@@ -2119,7 +2120,7 @@ bpn5378 «[日本語](../ja/prayers/#bpn5378)»
 
 -- Abdu'l-Bahá
 
-bpn5549 «[日本語](../ja/prayers/#bpn5549)» 
+bpn5549 
 
 ----
 
@@ -2129,7 +2130,7 @@ bpn5549 «[日本語](../ja/prayers/#bpn5549)»
 
 -- Abdu'l-Bahá
 
-bpn5550 «[日本語](../ja/prayers/#bpn5550)» 
+bpn5550 
 
 ----
 
@@ -2139,7 +2140,7 @@ bpn5550 «[日本語](../ja/prayers/#bpn5550)»
 
 -- Abdu'l-Bahá
 
-bpn5551 «[日本語](../ja/prayers/#bpn5551)» 
+bpn5551 
 
 ----
 
@@ -2153,7 +2154,7 @@ bpn5551 «[日本語](../ja/prayers/#bpn5551)»
 
 -- Bahá'u'lláh
 
-bpn5518 «[日本語](../ja/prayers/#bpn5518)» 
+bpn5518 
 
 ----
 
@@ -2163,7 +2164,7 @@ bpn5518 «[日本語](../ja/prayers/#bpn5518)»
 
 -- Abdu'l-Bahá
 
-bpn5519 «[日本語](../ja/prayers/#bpn5519)» 
+bpn5519 
 
 ----
 
@@ -2173,7 +2174,7 @@ bpn5519 «[日本語](../ja/prayers/#bpn5519)»
 
 -- Abdu'l-Bahá
 
-bpn5520 «[日本語](../ja/prayers/#bpn5520)» 
+bpn5520 
 
 ----
 
@@ -2183,7 +2184,7 @@ bpn5520 «[日本語](../ja/prayers/#bpn5520)»
 
 -- Abdu'l-Bahá
 
-bpn5521 «[日本語](../ja/prayers/#bpn5521)» 
+bpn5521 
 
 ----
 
@@ -2197,7 +2198,7 @@ bpn5521 «[日本語](../ja/prayers/#bpn5521)»
 
 -- Bahá'u'lláh
 
-bpn5563 «[日本語](../ja/prayers/#bpn5563)» 
+bpn5563 
 
 ----
 
@@ -2211,7 +2212,7 @@ bpn5563 «[日本語](../ja/prayers/#bpn5563)»
 
 -- Bahá'u'lláh
 
-bpn5463 «[日本語](../ja/prayers/#bpn5463)» 
+bpn5463 
 
 ----
 
@@ -2221,7 +2222,7 @@ bpn5463 «[日本語](../ja/prayers/#bpn5463)»
 
 -- Bahá'u'lláh
 
-bpn5464 «[日本語](../ja/prayers/#bpn5464)» 
+bpn5464 
 
 ----
 
@@ -2231,7 +2232,7 @@ bpn5464 «[日本語](../ja/prayers/#bpn5464)»
 
 -- Abdu'l-Bahá
 
-bpn5465 «[日本語](../ja/prayers/#bpn5465)» 
+bpn5465 
 
 ----
 
@@ -2241,7 +2242,7 @@ bpn5465 «[日本語](../ja/prayers/#bpn5465)»
 
 -- Abdu'l-Bahá
 
-bpn5466 «[日本語](../ja/prayers/#bpn5466)» 
+bpn5466 
 
 ----
 
@@ -2251,7 +2252,7 @@ bpn5466 «[日本語](../ja/prayers/#bpn5466)»
 
 -- Abdu'l-Bahá
 
-bpn5467 «[日本語](../ja/prayers/#bpn5467)» 
+bpn5467 
 
 ----
 
@@ -2265,7 +2266,7 @@ bpn5467 «[日本語](../ja/prayers/#bpn5467)»
 
 -- Bahá'u'lláh
 
-bpn5407 «[日本語](../ja/prayers/#bpn5407)» 
+bpn5407 
 
 ----
 
@@ -2275,7 +2276,7 @@ bpn5407 «[日本語](../ja/prayers/#bpn5407)»
 
 -- Bahá'u'lláh
 
-bpn5408 «[日本語](../ja/prayers/#bpn5408)» 
+bpn5408 
 
 ----
 
@@ -2285,7 +2286,7 @@ bpn5408 «[日本語](../ja/prayers/#bpn5408)»
 
 -- Bahá'u'lláh
 
-bpn5409 «[日本語](../ja/prayers/#bpn5409)» 
+bpn5409 
 
 ----
 
@@ -2295,7 +2296,7 @@ bpn5409 «[日本語](../ja/prayers/#bpn5409)»
 
 -- Bahá'u'lláh
 
-bpn5410 «[日本語](../ja/prayers/#bpn5410)» 
+bpn5410 
 
 ----
 
@@ -2305,7 +2306,7 @@ bpn5410 «[日本語](../ja/prayers/#bpn5410)»
 
 -- Bahá'u'lláh
 
-bpn5411 «[日本語](../ja/prayers/#bpn5411)» 
+bpn5411 
 
 ----
 
@@ -2315,7 +2316,7 @@ bpn5411 «[日本語](../ja/prayers/#bpn5411)»
 
 -- Bahá'u'lláh
 
-bpn5412 «[日本語](../ja/prayers/#bpn5412)» 
+bpn5412 
 
 ----
 
@@ -2325,7 +2326,7 @@ bpn5412 «[日本語](../ja/prayers/#bpn5412)»
 
 -- Báb
 
-bpn5413 «[日本語](../ja/prayers/#bpn5413)» 
+bpn5413 
 
 ----
 
@@ -2335,7 +2336,7 @@ bpn5413 «[日本語](../ja/prayers/#bpn5413)»
 
 -- Báb
 
-bpn5414 «[日本語](../ja/prayers/#bpn5414)» 
+bpn5414 
 
 ----
 
@@ -2345,7 +2346,7 @@ bpn5414 «[日本語](../ja/prayers/#bpn5414)»
 
 -- Báb
 
-bpn5415 «[日本語](../ja/prayers/#bpn5415)» 
+bpn5415 
 
 ----
 
@@ -2355,7 +2356,7 @@ bpn5415 «[日本語](../ja/prayers/#bpn5415)»
 
 -- Báb
 
-bpn5416 «[日本語](../ja/prayers/#bpn5416)» 
+bpn5416 
 
 ----
 
@@ -2365,7 +2366,7 @@ bpn5416 «[日本語](../ja/prayers/#bpn5416)»
 
 -- Báb
 
-bpn5417 «[日本語](../ja/prayers/#bpn5417)» 
+bpn5417 
 
 ----
 
@@ -2375,7 +2376,7 @@ bpn5417 «[日本語](../ja/prayers/#bpn5417)»
 
 -- Báb
 
-bpn5418 «[日本語](../ja/prayers/#bpn5418)» 
+bpn5418 
 
 ----
 
@@ -2385,7 +2386,7 @@ bpn5418 «[日本語](../ja/prayers/#bpn5418)»
 
 -- Abdu'l-Bahá
 
-bpn5419 «[日本語](../ja/prayers/#bpn5419)» 
+bpn5419 
 
 ----
 
@@ -2399,7 +2400,7 @@ bpn5419 «[日本語](../ja/prayers/#bpn5419)»
 
 -- Bahá'u'lláh
 
-bpn5427 «[日本語](../ja/prayers/#bpn5427)» 
+bpn5427 
 
 ----
 
@@ -2409,7 +2410,7 @@ bpn5427 «[日本語](../ja/prayers/#bpn5427)»
 
 -- Bahá'u'lláh
 
-bpn5428 «[日本語](../ja/prayers/#bpn5428)» 
+bpn5428 
 
 ----
 
@@ -2419,7 +2420,7 @@ bpn5428 «[日本語](../ja/prayers/#bpn5428)»
 
 -- Bahá'u'lláh
 
-bpn5429 «[日本語](../ja/prayers/#bpn5429)» 
+bpn5429 
 
 ----
 
@@ -2429,7 +2430,7 @@ bpn5429 «[日本語](../ja/prayers/#bpn5429)»
 
 -- Bahá'u'lláh
 
-bpn5430 «[日本語](../ja/prayers/#bpn5430)» 
+bpn5430 
 
 ----
 
@@ -2439,7 +2440,7 @@ bpn5430 «[日本語](../ja/prayers/#bpn5430)»
 
 -- Bahá'u'lláh
 
-bpn5431 «[日本語](../ja/prayers/#bpn5431)» 
+bpn5431 
 
 ----
 
@@ -2449,7 +2450,7 @@ bpn5431 «[日本語](../ja/prayers/#bpn5431)»
 
 -- Bahá'u'lláh
 
-bpn6845 «[日本語](../ja/prayers/#bpn6845)» 
+bpn6845 
 
 ----
 
@@ -2459,7 +2460,7 @@ bpn6845 «[日本語](../ja/prayers/#bpn6845)»
 
 -- Báb
 
-bpn5433 «[日本語](../ja/prayers/#bpn5433)» 
+bpn5433 
 
 ----
 
@@ -2469,7 +2470,7 @@ bpn5433 «[日本語](../ja/prayers/#bpn5433)»
 
 -- Báb
 
-bpn5434 «[日本語](../ja/prayers/#bpn5434)» 
+bpn5434 
 
 ----
 
@@ -2479,7 +2480,7 @@ bpn5434 «[日本語](../ja/prayers/#bpn5434)»
 
 -- Báb
 
-bpn5432 «[日本語](../ja/prayers/#bpn5432)» 
+bpn5432 
 
 ----
 
@@ -2489,7 +2490,7 @@ bpn5432 «[日本語](../ja/prayers/#bpn5432)»
 
 -- Abdu'l-Bahá
 
-bpn5435 «[日本語](../ja/prayers/#bpn5435)» 
+bpn5435 
 
 ----
 
@@ -2499,7 +2500,7 @@ bpn5435 «[日本語](../ja/prayers/#bpn5435)»
 
 -- Abdu'l-Bahá
 
-bpn5436 «[日本語](../ja/prayers/#bpn5436)» 
+bpn5436 
 
 ----
 
@@ -2513,7 +2514,7 @@ bpn5436 «[日本語](../ja/prayers/#bpn5436)»
 
 -- Bahá'u'lláh
 
-bpn5388 «[日本語](../ja/prayers/#bpn5388)» 
+bpn5388 
 
 ----
 
@@ -2523,7 +2524,7 @@ bpn5388 «[日本語](../ja/prayers/#bpn5388)»
 
 -- Bahá'u'lláh
 
-bpn5389 «[日本語](../ja/prayers/#bpn5389)» 
+bpn5389 
 
 ----
 
@@ -2533,7 +2534,7 @@ bpn5389 «[日本語](../ja/prayers/#bpn5389)»
 
 -- Bahá'u'lláh
 
-bpn5390 «[日本語](../ja/prayers/#bpn5390)» 
+bpn5390 
 
 ----
 
@@ -2543,7 +2544,7 @@ bpn5390 «[日本語](../ja/prayers/#bpn5390)»
 
 -- Bahá'u'lláh
 
-bpn5391 «[日本語](../ja/prayers/#bpn5391)» 
+bpn5391 
 
 ----
 
@@ -2553,7 +2554,7 @@ bpn5391 «[日本語](../ja/prayers/#bpn5391)»
 
 -- Bahá'u'lláh
 
-bpn5392 «[日本語](../ja/prayers/#bpn5392)» 
+bpn5392 
 
 ----
 
@@ -2563,7 +2564,7 @@ bpn5392 «[日本語](../ja/prayers/#bpn5392)»
 
 -- Báb
 
-bpn5393 «[日本語](../ja/prayers/#bpn5393)» 
+bpn5393 
 
 ----
 
@@ -2577,7 +2578,7 @@ bpn5393 «[日本語](../ja/prayers/#bpn5393)»
 
 -- Bahá'u'lláh
 
-bpn5351 «[日本語](../ja/prayers/#bpn5351)» 
+bpn5351 
 
 ----
 
@@ -2591,7 +2592,7 @@ bpn5351 «[日本語](../ja/prayers/#bpn5351)»
 
 -- Bahá'u'lláh
 
-bpn5566 «[日本語](../ja/prayers/#bpn5566)» 
+bpn5566 
 
 ----
 
@@ -2605,7 +2606,7 @@ bpn5566 «[日本語](../ja/prayers/#bpn5566)»
 
 -- Bahá'u'lláh
 
-bpn5541 «[日本語](../ja/prayers/#bpn5541)» 
+bpn5541 
 
 ----
 
@@ -2615,7 +2616,7 @@ bpn5541 «[日本語](../ja/prayers/#bpn5541)»
 
 -- Abdu'l-Bahá
 
-bpn5542 «[日本語](../ja/prayers/#bpn5542)» 
+bpn5542 
 
 ----
 
@@ -2625,7 +2626,7 @@ bpn5542 «[日本語](../ja/prayers/#bpn5542)»
 
 -- Abdu'l-Bahá
 
-bpn5543 «[日本語](../ja/prayers/#bpn5543)» 
+bpn5543 
 
 ----
 
@@ -2635,7 +2636,7 @@ bpn5543 «[日本語](../ja/prayers/#bpn5543)»
 
 -- Abdu'l-Bahá
 
-bpn5544 «[日本語](../ja/prayers/#bpn5544)» 
+bpn5544 
 
 ----
 
@@ -2645,7 +2646,7 @@ bpn5544 «[日本語](../ja/prayers/#bpn5544)»
 
 -- Abdu'l-Bahá
 
-bpn5545 «[日本語](../ja/prayers/#bpn5545)» 
+bpn5545 
 
 ----
 
@@ -2655,7 +2656,7 @@ bpn5545 «[日本語](../ja/prayers/#bpn5545)»
 
 -- Abdu'l-Bahá
 
-bpn5546 «[日本語](../ja/prayers/#bpn5546)» 
+bpn5546 
 
 ----
 
@@ -2665,7 +2666,7 @@ bpn5546 «[日本語](../ja/prayers/#bpn5546)»
 
 -- Abdu'l-Bahá
 
-bpn5547 «[日本語](../ja/prayers/#bpn5547)» 
+bpn5547 
 
 ----
 

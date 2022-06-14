@@ -5,6 +5,7 @@ tags = ['lang=st', 'prayerbook']
 
 
 
+
 [Bacha](#Bacha)
 
 [Bafu](#Bafu)
@@ -53,7 +54,7 @@ Oho Molimo!  Etsa hore mocha enoa a apareloe ke leseli, ‘me enoa ea fokolang a
 
 -- Abdu'l-Bahá
 
-bpn6473 «[Sesotho](../st/prayers/#bpn6473)» 
+bpn6473 
 
 ----
 
@@ -67,7 +68,7 @@ Oho Molimo Oa ka! Oho Uena Motšoareli Oa libe!  Seabi Sa limpho! Motlosi Oa mat
 
 -- Abdu'l-Bahá
 
-bpn6457 «[Sesotho](../st/prayers/#bpn6457)» 
+bpn6457 
 
 ----
 
@@ -81,7 +82,7 @@ Oho Molimo! Ruta bana bana.  Bana ke limela tsa tšimo ea Hau, lipalesa tsa phul
 
 -- Abdu'l-Bahá
 
-bpn6455 «[Sesotho](../st/prayers/#bpn6455)» 
+bpn6455 
 
 ----
 
@@ -95,7 +96,7 @@ Oho Uena Moren’a Matl-ohle, Tšenolong ena e kholo U amohela thapeli ea bara l
 
 -- Abdu'l-Bahá
 
-bpn6466 «[Sesotho](../st/prayers/#bpn6466)» 
+bpn6466 
 
 ----
 
@@ -109,7 +110,7 @@ Ke tsohile tšireletsong Ea Hau, Oho Molimo Oa ka, ‘me ke se lokelang mang le 
 
 -- Bahá'u'lláh
 
-bpn6461 «[Sesotho](../st/prayers/#bpn6461)» 
+bpn6461 
 
 ----
 
@@ -123,7 +124,7 @@ Bopa kahare ho ‘na pelo e hloekileng,Oho Molimo Oa ka; ‘me U nchafatse letso
 
 -- Bahá'u'lláh
 
-bpn6470 «[Sesotho](../st/prayers/#bpn6470)» 
+bpn6470 
 
 ----
 
@@ -133,7 +134,7 @@ Oho Molimo! Oho Molimo! Enoa mohanka oa Hauk e nonyana-ea-serobeha-lepheo, ‘me
 
 -- Abdu'l-Bahá
 
-bpn6471 «[Sesotho](../st/prayers/#bpn6471)» 
+bpn6471 
 
 ----
 
@@ -147,7 +148,7 @@ Oho Molimo oa ka! Oho Molimo oa ka! Kopanya lipelo tsa bahlanka ba Hau, ‘me U 
 
 -- Bahá'u'lláh
 
-bpn6472 «[Sesotho](../st/prayers/#bpn6472)» 
+bpn6472 
 
 ----
 
@@ -161,7 +162,7 @@ Ke tsohile hosing ha kajeno ka lereko la Hau, Oho Molimo Oa ka, ‘me ka foralla
 
 -- Bahá'u'lláh
 
-bpn6460 «[Sesotho](../st/prayers/#bpn6460)» 
+bpn6460 
 
 ----
 
@@ -175,7 +176,7 @@ Oho Uena Morena Ea Moa! Ke Uena Ea bopileng batho bohla kaofela batsoaling ba le
 
 -- Abdu'l-Bahá
 
-bpn6462 «[Sesotho](../st/prayers/#bpn6462)» 
+bpn6462 
 
 ----
 
@@ -189,7 +190,7 @@ Oho Molimo Oa ka le Monghali Oa ka!Ke mohlanka oa Hau le mor’a mohlanka oa Hau
 
 -- Bahá'u'lláh
 
-bpn6456 «[Sesotho](../st/prayers/#bpn6456)» 
+bpn6456 
 
 ----
 
@@ -203,7 +204,7 @@ Na O teng ea ka tlosang mathata afe kapa afe haese Molimo feela na? E re: Ho ror
 
 -- Báb
 
-bpn6468 «[Sesotho](../st/prayers/#bpn6468)» 
+bpn6468 
 
 ----
 
@@ -217,7 +218,7 @@ Kea paka, Oho Molimo oa ka, hore U ntlholile ho U tseba le ho U sebeletsa, Kea p
 
 -- Bahá'u'lláh
 
-bpn6463 «[Sesotho](../st/prayers/#bpn6463)» 
+bpn6463 
 
 ----
 
@@ -231,7 +232,7 @@ Oho Molimo! Nchafatsa U thabise moea oa ka. Hloekisa pelo e aka. Chabisa kelello
 
 -- Abdu'l-Bahá
 
-bpn6469 «[Sesotho](../st/prayers/#bpn6469)» 
+bpn6469 
 
 ----
 
@@ -245,7 +246,7 @@ Oho Molimo Oa ka, Monghali Oa me, Sepheo sa takatso ea ka! Enoa mohlanka oa Hau 
 
 -- Bahá'u'lláh
 
-bpn6464 «[Sesotho](../st/prayers/#bpn6464)» 
+bpn6464 
 
 ----
 
@@ -259,7 +260,7 @@ Lebitso la Hau ke pheko ea ka, Oho Molimo oa ka, ‘me khopolo ea Hau ke sehlare
 
 -- Bahá'u'lláh
 
-bpn6459 «[Sesotho](../st/prayers/#bpn6459)» 
+bpn6459 
 
 ----
 
@@ -273,7 +274,7 @@ Ho tlotlisoe Lebitso La Hau, Oho Molimo Oa ka! Ke Uena Eo lintho tsohle li  U ra
 
 -- Bahá'u'lláh
 
-bpn6465 «[Sesotho](../st/prayers/#bpn6465)» 
+bpn6465 
 
 ----
 
@@ -287,7 +288,7 @@ Oho Morena, Molimo oa ka!  Thusa baratuoa ba Hau ho tiea Tumelong, ea Hau, ho ts
 
 -- Abdu'l-Bahá
 
-bpn6454 «[Sesotho](../st/prayers/#bpn6454)» 
+bpn6454 
 
 ----
 
@@ -301,7 +302,7 @@ Ke ‘na Oho Morena, ea behileng sefahleho sa ka ho Uena, ea tiisitseng tšepo e
 
 -- Bahá'u'lláh
 
-bpn6458 «[Sesotho](../st/prayers/#bpn6458)» 
+bpn6458 
 
 ----
 
@@ -315,7 +316,7 @@ Oho Molimo, Molimo oa ka! Tšireletsa bahlanka ba Hau ba tšepehang bobeng ba bo
 
 -- Abdu'l-Bahá
 
-bpn6467 «[Sesotho](../st/prayers/#bpn6467)» 
+bpn6467 
 
 ----
 

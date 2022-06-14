@@ -5,6 +5,7 @@ tags = ['lang=en', 'prayerbook']
 
 
 
+
 [Aid and Assistance](#Aid+and+Assistance)
 
 [America](#America)
@@ -129,7 +130,7 @@ O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will ca
 
 -- Bahá'u'lláh
 
-bpn6347 «[English](../en/prayers/#bpn6347)» 
+bpn6347 
 
 ----
 
@@ -139,7 +140,7 @@ Magnified be Thy Name, O Lord my God! I am the one who hath turned his face towa
 
 -- Bahá'u'lláh
 
-bpn6342 «[English](../en/prayers/#bpn6342)» 
+bpn6342 
 
 ----
 
@@ -149,7 +150,7 @@ O Thou Whose face is the object of my adoration, Whose beauty is my sanctuary, W
 
 -- Bahá'u'lláh
 
-BH10973 «[English](../en/prayers/#BH10973)» «[Esperanto](../eo/prayers/#BH10973)» «[Frysk](../fy/prayers/#BH10973)» «[Nederlands](../nl/prayers/#BH10973)» 
+BH10973 «[Nederlands](../../nl/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» 
 
 ----
 
@@ -159,7 +160,7 @@ My God, my Adored One, my King, my Desire!  What tongue can voice my thanks to T
 
 -- Bahá'u'lláh
 
-BH00438 «[English](../en/prayers/#BH00438)» 
+BH00438 
 
 ----
 
@@ -169,7 +170,7 @@ Lauded be Thy Name, O Lord our God!  Thou art in truth the Knower of things unse
 
 -- Báb
 
-BB00553 «[English](../en/prayers/#BB00553)» 
+BB00553 
 
 ----
 
@@ -179,7 +180,7 @@ O my God, my Lord and my Master! I have detached myself from my kindred and have
 
 -- Báb
 
-BB00018DET «[English](../en/prayers/#BB00018DET)» «[Português (BR)](../pt/prayers/#BB00018DET)» 
+BB00018DET «[Português (BR)](../../pt/prayers/#BB00018DET)» 
 
 ----
 
@@ -189,7 +190,7 @@ O Thou divine Providence, pitiful are we, grant us Thy succour; homeless wandere
 
 -- Abdu'l-Bahá
 
-bpn6346 «[English](../en/prayers/#bpn6346)» 
+bpn6346 
 
 ----
 
@@ -199,7 +200,7 @@ O God! Grant Thy favour, and bestow Thy blessing. Vouchsafe Thy grace, and give 
 
 -- Abdu'l-Bahá
 
-bpn11700 «[English](../en/prayers/#bpn11700)» 
+bpn11700 
 
 ----
 
@@ -209,7 +210,7 @@ O my God!  O Thou Who endowest every just power and equitable dominion with abid
 
 -- Abdu'l-Bahá
 
-bpn10518 «[English](../en/prayers/#bpn10518)» 
+bpn10518 
 
 ----
 
@@ -219,7 +220,7 @@ O Thou kind Lord! We are servants of Thy Threshold, taking shelter at Thy holy D
 
 -- Abdu'l-Bahá
 
-AB00073SER «[English](../en/prayers/#AB00073SER)» «[Português (BR)](../pt/prayers/#AB00073SER)» 
+AB00073SER «[Português (BR)](../../pt/prayers/#AB00073SER)» 
 
 ----
 
@@ -229,7 +230,7 @@ Remove not, O Lord, the festal board that hath been spread in Thy Name, and exti
 
 -- Abdu'l-Bahá
 
-AB10275 «[English](../en/prayers/#AB10275)» «[Nederlands](../nl/prayers/#AB10275)» «[Português (BR)](../pt/prayers/#AB10275)» «[Español](../es/prayers/#AB10275)» 
+AB10275 «[Nederlands](../../nl/prayers/#AB10275)» «[Español](../../es/prayers/#AB10275)» «[Português (BR)](../../pt/prayers/#AB10275)» 
 
 ----
 
@@ -239,7 +240,7 @@ Lord!  Pitiful are we, grant us Thy favor; poor, bestow upon us a share from the
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[English](../en/prayers/#AB00431PIT)» «[Esperanto](../eo/prayers/#AB00431PIT)» «[Nederlands](../nl/prayers/#AB00431PIT)» «[Papiamentu](../pap/prayers/#AB00431PIT)» 
+AB00431PIT «[Nederlands](../../nl/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
 
 ----
 
@@ -249,7 +250,7 @@ He is God. O Thou Whose exalted Threshold is my haven and my refuge, Whose hallo
 
 -- Abdu'l-Bahá
 
-bpn13083 «[English](../en/prayers/#bpn13083)» 
+bpn13083 
 
 ----
 
@@ -263,7 +264,7 @@ bpn13083 «[English](../en/prayers/#bpn13083)»
 
 -- Abdu'l-Bahá
 
-AB00963IMP «[English](../en/prayers/#AB00963IMP)» 
+AB00963IMP 
 
 ----
 
@@ -273,7 +274,7 @@ O Thou kind God!  From America, that distant country, we hastened to the Holy La
 
 -- Abdu'l-Bahá
 
-bpn10519 «[English](../en/prayers/#bpn10519)» 
+bpn10519 
 
 ----
 
@@ -283,7 +284,7 @@ O my God! O Thou Who endowest every just power and equitable dominion with abidi
 
 -- Abdu'l-Bahá
 
-bpn11699 «[English](../en/prayers/#bpn11699)» 
+bpn11699 
 
 ----
 
@@ -293,7 +294,7 @@ bpn11699 «[English](../en/prayers/#bpn11699)»
 
 -- Abdu'l-Bahá
 
-AB00032DAR «[English](../en/prayers/#AB00032DAR)» 
+AB00032DAR 
 
 ----
 
@@ -303,7 +304,7 @@ Bless Thou, O King of Kings, the city of New York!  Cause the friends there to b
 
 -- Abdu'l-Bahá
 
-AB08704NEW «[English](../en/prayers/#AB08704NEW)» 
+AB08704NEW 
 
 ----
 
@@ -313,7 +314,7 @@ O Thou kind Lord!  This gathering is turning to Thee.  These hearts are radiant 
 
 -- Abdu'l-Bahá
 
-ABU0394GAT «[English](../en/prayers/#ABU0394GAT)» 
+ABU0394GAT 
 
 ----
 
@@ -327,7 +328,7 @@ ABU0394GAT «[English](../en/prayers/#ABU0394GAT)»
 
 -- Bahá'u'lláh
 
-bpn8257 «[English](../en/prayers/#bpn8257)» 
+bpn8257 
 
 ----
 
@@ -337,7 +338,7 @@ bpn8257 «[English](../en/prayers/#bpn8257)»
 
 -- Bahá'u'lláh
 
-bpn8258 «[English](../en/prayers/#bpn8258)» 
+bpn8258 
 
 ----
 
@@ -347,7 +348,7 @@ bpn8258 «[English](../en/prayers/#bpn8258)»
 
 -- Bahá'u'lláh
 
-bpn8259 «[English](../en/prayers/#bpn8259)» 
+bpn8259 
 
 ----
 
@@ -357,7 +358,7 @@ bpn8259 «[English](../en/prayers/#bpn8259)»
 
 -- Bahá'u'lláh
 
-bpn8260 «[English](../en/prayers/#bpn8260)» 
+bpn8260 
 
 ----
 
@@ -371,7 +372,7 @@ Pure and sanctified art Thou, O my God!  How can the pen move and the ink flow a
 
 -- Bahá'u'lláh
 
-bpn10153 «[English](../en/prayers/#bpn10153)» 
+bpn10153 
 
 ----
 
@@ -381,7 +382,7 @@ O Thou Who holdest within Thy grasp the Kingdom of names and the Empire of all t
 
 -- Bahá'u'lláh
 
-bpn10154 «[English](../en/prayers/#bpn10154)» 
+bpn10154 
 
 ----
 
@@ -391,7 +392,7 @@ In the Name of our Lord, the Most Holy, the Most Great, the Exalted, the Most Gl
 
 -- Bahá'u'lláh
 
-bpn10155 «[English](../en/prayers/#bpn10155)» 
+bpn10155 
 
 ----
 
@@ -401,7 +402,7 @@ In the Name of our Lord, the Most Holy, the Most Great, the Exalted, the Most Gl
 
 -- Bahá'u'lláh
 
-bpn10156 «[English](../en/prayers/#bpn10156)» 
+bpn10156 
 
 ----
 
@@ -411,7 +412,7 @@ O God, my God!  Glory be to Thee for having guided me unto the horizon of Thy Re
 
 -- Bahá'u'lláh
 
-bpn10157 «[English](../en/prayers/#bpn10157)» 
+bpn10157 
 
 ----
 
@@ -421,7 +422,7 @@ Praise be to Thee, O Lord my God, for guiding me unto the horizon of Thy Revelat
 
 -- Bahá'u'lláh
 
-bpn10158 «[English](../en/prayers/#bpn10158)» 
+bpn10158 
 
 ----
 
@@ -431,7 +432,7 @@ He is the Peerless!  Praise be unto Thee, O Lord my God!  I beseech Thee by Thy 
 
 -- Bahá'u'lláh
 
-bpn10159 «[English](../en/prayers/#bpn10159)» 
+bpn10159 
 
 ----
 
@@ -441,7 +442,7 @@ He is the All-Glorious!  Praise be to Thee, O my God!  Thou didst call me, and I
 
 -- Bahá'u'lláh
 
-bpn10160 «[English](../en/prayers/#bpn10160)» 
+bpn10160 
 
 ----
 
@@ -451,7 +452,7 @@ O my God!  O my God!  I testify that this is Thy Day which hath been mentioned i
 
 -- Bahá'u'lláh
 
-bpn10161 «[English](../en/prayers/#bpn10161)» 
+bpn10161 
 
 ----
 
@@ -461,7 +462,7 @@ He is God, exalted is He, the Lord of might and grandeur!  O God, my God!  I yie
 
 -- Bahá'u'lláh
 
-bpn10163 «[English](../en/prayers/#bpn10163)» 
+bpn10163 
 
 ----
 
@@ -471,7 +472,7 @@ Praised be Thou, O Lord my God!  Sanctify mine eye, and mine ear, and my tongue,
 
 -- Bahá'u'lláh
 
-bpn10164 «[English](../en/prayers/#bpn10164)» 
+bpn10164 
 
 ----
 
@@ -481,7 +482,7 @@ In regard to his affairs, let him repeat nineteen times:  “Thou seest me, O my
 
 -- Bahá'u'lláh
 
-bpn10162 «[English](../en/prayers/#bpn10162)» 
+bpn10162 
 
 ----
 
@@ -491,7 +492,7 @@ O God!  Grant Thy favour, and bestow Thy blessing.  Vouchsafe Thy grace, and giv
 
 -- Abdu'l-Bahá
 
-bpn10167 «[English](../en/prayers/#bpn10167)» 
+bpn10167 
 
 ----
 
@@ -501,7 +502,7 @@ O Thou unseen Friend!  O Desire of all in this world and the world to come!  O T
 
 -- Abdu'l-Bahá
 
-bpn12582 «[English](../en/prayers/#bpn12582)» 
+bpn12582 
 
 ----
 
@@ -511,7 +512,7 @@ O Thou peerless and loving Lord!  Though capacity and worthiness are lacking, an
 
 -- Abdu'l-Bahá
 
-bpn12583 «[English](../en/prayers/#bpn12583)» 
+bpn12583 
 
 ----
 
@@ -521,7 +522,7 @@ O my eternal Beloved and my adored Friend!  How long shall I remain bereft of Th
 
 -- Abdu'l-Bahá
 
-bpn12584 «[English](../en/prayers/#bpn12584)» 
+bpn12584 
 
 ----
 
@@ -531,7 +532,7 @@ O Thou kind Lord!  These souls are Thy friends who are gathered together and are
 
 -- Abdu'l-Bahá
 
-bpn12585 «[English](../en/prayers/#bpn12585)» 
+bpn12585 
 
 ----
 
@@ -541,7 +542,7 @@ O Divine Providence!  Perplexing difficulties have arisen and formidable obstacl
 
 -- Abdu'l-Bahá
 
-bpn12586 «[English](../en/prayers/#bpn12586)» 
+bpn12586 
 
 ----
 
@@ -551,7 +552,7 @@ O God of Mercy!  O Thou Omnipotent One!  I am but a feeble servant, weak and hel
 
 -- Abdu'l-Bahá
 
-bpn12587 «[English](../en/prayers/#bpn12587)» 
+bpn12587 
 
 ----
 
@@ -561,7 +562,7 @@ O Divine Providence!  Awaken me and make me conscious.  Cause me to be detached 
 
 -- Abdu'l-Bahá
 
-bpn12588 «[English](../en/prayers/#bpn12588)» 
+bpn12588 
 
 ----
 
@@ -571,7 +572,7 @@ He is God.O God, my God!  I have set my face towards Thee, and supplicate the ou
 
 -- Abdu'l-Bahá
 
-bpn12589 «[English](../en/prayers/#bpn12589)» 
+bpn12589 
 
 ----
 
@@ -581,7 +582,7 @@ O Lord!  Grant me a measure of Thy grace and loving-kindness, Thy care and prote
 
 -- Abdu'l-Bahá
 
-bpn12590 «[English](../en/prayers/#bpn12590)» 
+bpn12590 
 
 ----
 
@@ -591,7 +592,7 @@ O Thou Provider, O Thou Forgiver!  A noble soul hath ascended unto the Kingdom o
 
 -- Abdu'l-Bahá
 
-bpn12591 «[English](../en/prayers/#bpn12591)» 
+bpn12591 
 
 ----
 
@@ -601,7 +602,7 @@ He is God.O Thou forgiving Lord!  These servants were noble souls, and these rad
 
 -- Abdu'l-Bahá
 
-bpn12592 «[English](../en/prayers/#bpn12592)» 
+bpn12592 
 
 ----
 
@@ -611,7 +612,7 @@ O Divine Providence!  Immerse the father and mother of this servant of Thy Thres
 
 -- Abdu'l-Bahá
 
-bpn12593 «[English](../en/prayers/#bpn12593)» 
+bpn12593 
 
 ----
 
@@ -621,7 +622,7 @@ O Lord!  What an outpouring of bounty Thou hast vouchsafed, and what a flood of 
 
 -- Abdu'l-Bahá
 
-bpn12595 «[English](../en/prayers/#bpn12595)» 
+bpn12595 
 
 ----
 
@@ -631,7 +632,7 @@ O Thou Omnipotent Lord!  We are all held within the mighty grasp of Thy power.  
 
 -- Abdu'l-Bahá
 
-bpn12596 «[English](../en/prayers/#bpn12596)» 
+bpn12596 
 
 ----
 
@@ -641,7 +642,7 @@ O Lord, our God!  We are helpless; Thou art the Lord of strength and power.  We 
 
 -- Abdu'l-Bahá
 
-bpn12597 «[English](../en/prayers/#bpn12597)» 
+bpn12597 
 
 ----
 
@@ -651,7 +652,7 @@ He is God.O Thou kind and beloved Lord!  These friends are exhilarated with the 
 
 -- Abdu'l-Bahá
 
-bpn12598 «[English](../en/prayers/#bpn12598)» 
+bpn12598 
 
 ----
 
@@ -661,7 +662,7 @@ He is the All-Glorious.O my Lord, my King, my Ruler, and my Sovereign!  I call u
 
 -- Abdu'l-Bahá
 
-bpn12599 «[English](../en/prayers/#bpn12599)» 
+bpn12599 
 
 ----
 
@@ -671,7 +672,7 @@ O my kind Lord, O Thou the desire of my heart and soul!  Bestow upon Thy friends
 
 -- Abdu'l-Bahá
 
-bpn12600 «[English](../en/prayers/#bpn12600)» 
+bpn12600 
 
 ----
 
@@ -681,7 +682,7 @@ He is the All-Glorious, the Most Effulgent.O Divine Providence, O forgiving Lord
 
 -- Abdu'l-Bahá
 
-bpn12601 «[English](../en/prayers/#bpn12601)» 
+bpn12601 
 
 ----
 
@@ -691,7 +692,7 @@ O Divine Providence, Thou art the Ever-Forgiving!  O Thou Almighty God, Thou art
 
 -- Abdu'l-Bahá
 
-bpn12602 «[English](../en/prayers/#bpn12602)» 
+bpn12602 
 
 ----
 
@@ -701,7 +702,7 @@ O Thou incomparable God!  We are Thy humble servants, and Thou art the All-Glori
 
 -- Abdu'l-Bahá
 
-bpn12603 «[English](../en/prayers/#bpn12603)» 
+bpn12603 
 
 ----
 
@@ -711,7 +712,7 @@ He is God.O God, my God!  With utter lowliness and fervour, humility and devotio
 
 -- Abdu'l-Bahá
 
-bpn12604 «[English](../en/prayers/#bpn12604)» 
+bpn12604 
 
 ----
 
@@ -721,7 +722,7 @@ O Lord so rich in bounty, so replete with grace,Whose knowledge doth mine inmost
 
 -- Abdu'l-Bahá
 
-bpn12605 «[English](../en/prayers/#bpn12605)» 
+bpn12605 
 
 ----
 
@@ -731,7 +732,7 @@ He is God.O thou who circlest in adoration about the Spot round which circle the
 
 -- Abdu'l-Bahá
 
-bpn12903 «[English](../en/prayers/#bpn12903)» 
+bpn12903 
 
 ----
 
@@ -741,7 +742,7 @@ O Thou kind Lord!  Sanctify my heart from all attachment, and gladden my soul wi
 
 -- Abdu'l-Bahá
 
-bpn12594 «[English](../en/prayers/#bpn12594)» 
+bpn12594 
 
 ----
 
@@ -755,7 +756,7 @@ bpn12594 «[English](../en/prayers/#bpn12594)»
 
 -- Bahá'u'lláh
 
-bpn6309 «[English](../en/prayers/#bpn6309)» 
+bpn6309 
 
 ----
 
@@ -765,7 +766,7 @@ He is God.O concourse of ardent lovers! By the righteousness of God, this is a n
 
 -- Bahá'u'lláh
 
-bpn8271 «[English](../en/prayers/#bpn8271)» 
+bpn8271 
 
 ----
 
@@ -775,7 +776,7 @@ He is the Most Holy, the Most Exalted, the Most Great.The Birthday Festival is c
 
 -- Bahá'u'lláh
 
-bpn8270 «[English](../en/prayers/#bpn8270)» 
+bpn8270 
 
 ----
 
@@ -785,7 +786,7 @@ bpn8270 «[English](../en/prayers/#bpn8270)»
 
 -- Bahá'u'lláh
 
-bpn8269 «[English](../en/prayers/#bpn8269)» 
+bpn8269 
 
 ----
 
@@ -799,7 +800,7 @@ bpn8269 «[English](../en/prayers/#bpn8269)»
 
 -- Bahá'u'lláh
 
-bpn6307 «[English](../en/prayers/#bpn6307)» 
+bpn6307 
 
 ----
 
@@ -809,7 +810,7 @@ He is the Eternal, the One, the Single, the All-Possessing, the Most Exalted.All
 
 -- Bahá'u'lláh
 
-bpn8268 «[English](../en/prayers/#bpn8268)» 
+bpn8268 
 
 ----
 
@@ -819,21 +820,21 @@ bpn8268 «[English](../en/prayers/#bpn8268)»
 ## Canada
 
 <a id="bpn11203"></a> 
-##Revealed to the Bahá&#39;ís of the United States and Canada*Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.O God! O God! Thou seest my weakness, lowliness and humility before Thy creatures; nevertheless, I have trusted in Thee and have arisen in the promotion of Thy teachings among Thy strong servants, relying on Thy power and might.O Lord! I am a broken-winged bird and desire to soar in Thy limitless space. How is it possible for me to do this save through Thy providence and grace, Thy confirmation and assistance.O Lord! Have pity on my weakness, and strengthen me with Thy power. O Lord! Have pity on my impotence, and assist me with Thy might and majesty.O Lord! Should the breath of the Holy Spirit confirm the weakest of creatures, he would attain all to which he aspireth and would possess anything he desireth. Indeed, Thou hast assisted Thy servants in the past and, though they were the weakest of Thy creatures, the lowliest of Thy servants and the most insignificant of those who lived upon the earth, through Thy sanction and potency they took precedence over the most glorious of Thy people and the most noble of mankind. Whereas formerly they were as moths, they became as royal falcons, and whereas before they were as brooks, they became as seas, through Thy bestowal and Thy mercy. They became, through Thy most great favor, stars shining on the horizon of guidance, birds singing in the rose gardens of immortality, lions roaring in the forests of knowledge and wisdom, and whales swimming in the oceans of life. Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of the merciful.
+##Revealed to the Bahá'ís of the United States and Canada*Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.O God! O God! Thou seest my weakness, lowliness and humility before Thy creatures; nevertheless, I have trusted in Thee and have arisen in the promotion of Thy teachings among Thy strong servants, relying on Thy power and might.O Lord! I am a broken-winged bird and desire to soar in Thy limitless space. How is it possible for me to do this save through Thy providence and grace, Thy confirmation and assistance.O Lord! Have pity on my weakness, and strengthen me with Thy power. O Lord! Have pity on my impotence, and assist me with Thy might and majesty.O Lord! Should the breath of the Holy Spirit confirm the weakest of creatures, he would attain all to which he aspireth and would possess anything he desireth. Indeed, Thou hast assisted Thy servants in the past and, though they were the weakest of Thy creatures, the lowliest of Thy servants and the most insignificant of those who lived upon the earth, through Thy sanction and potency they took precedence over the most glorious of Thy people and the most noble of mankind. Whereas formerly they were as moths, they became as royal falcons, and whereas before they were as brooks, they became as seas, through Thy bestowal and Thy mercy. They became, through Thy most great favor, stars shining on the horizon of guidance, birds singing in the rose gardens of immortality, lions roaring in the forests of knowledge and wisdom, and whales swimming in the oceans of life. Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of the merciful.
 
 -- Abdu'l-Bahá
 
-bpn11203 «[English](../en/prayers/#bpn11203)» 
+bpn11203 
 
 ----
 
 
 <a id="bpn11204"></a> 
-##Revealed to the Bahá&#39;ís of Canada and GreenlandPraise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.O Lord! Loose their tongues to make mention of Thee amongst Thy people, suffer them to speak forth Thy praise through Thy grace and loving-kindness, assist them with the cohorts of Thine angels, strengthen their loins in Thy service, and make them the signs of Thy guidance amongst Thy creatures.Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All-Merciful.
+##Revealed to the Bahá'ís of Canada and GreenlandPraise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.O Lord! Loose their tongues to make mention of Thee amongst Thy people, suffer them to speak forth Thy praise through Thy grace and loving-kindness, assist them with the cohorts of Thine angels, strengthen their loins in Thy service, and make them the signs of Thy guidance amongst Thy creatures.Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All-Merciful.
 
 -- Abdu'l-Bahá
 
-bpn11204 «[English](../en/prayers/#bpn11204)» 
+bpn11204 
 
 ----
 
@@ -843,7 +844,7 @@ bpn11204 «[English](../en/prayers/#bpn11204)»
 
 -- Abdu'l-Bahá
 
-bpn11202 «[English](../en/prayers/#bpn11202)» 
+bpn11202 
 
 ----
 
@@ -853,7 +854,7 @@ bpn11202 «[English](../en/prayers/#bpn11202)»
 
 -- Abdu'l-Bahá
 
-bpn11201 «[English](../en/prayers/#bpn11201)» 
+bpn11201 
 
 ----
 
@@ -863,7 +864,7 @@ bpn11201 «[English](../en/prayers/#bpn11201)»
 
 -- Abdu'l-Bahá
 
-bpn11205 «[English](../en/prayers/#bpn11205)» 
+bpn11205 
 
 ----
 
@@ -877,7 +878,7 @@ Thou art He, O my God, through Whose names the sick are healed and the ailing ar
 
 -- Bahá'u'lláh
 
-bpn10121 «[English](../en/prayers/#bpn10121)» 
+bpn10121 
 
 ----
 
@@ -887,7 +888,7 @@ O Lord, my God!  This is a child that hath sprung from the loins of one of Thy s
 
 -- Bahá'u'lláh
 
-BH10076 «[English](../en/prayers/#BH10076)» 
+BH10076 
 
 ----
 
@@ -897,7 +898,7 @@ BH10076 «[English](../en/prayers/#BH10076)»
 
 -- Bahá'u'lláh
 
-BH09855 «[English](../en/prayers/#BH09855)» «[Español](../es/prayers/#BH09855)» 
+BH09855 «[Español](../../es/prayers/#BH09855)» 
 
 ----
 
@@ -907,7 +908,7 @@ Praised be Thou, O Lord my God! Graciously grant that this infant be fed from th
 
 -- Bahá'u'lláh
 
-bpn13670 «[English](../en/prayers/#bpn13670)» 
+bpn13670 
 
 ----
 
@@ -917,7 +918,7 @@ O Lord, my God! This is a child that hath sprung from the loins of one of Thy se
 
 -- Bahá'u'lláh
 
-bpn13671 «[English](../en/prayers/#bpn13671)» 
+bpn13671 
 
 ----
 
@@ -927,7 +928,7 @@ O God, my God! I supplicate confirmation and assistance for those who have arise
 
 -- Abdu'l-Bahá
 
-bpn6799 «[English](../en/prayers/#bpn6799)» 
+bpn6799 
 
 ----
 
@@ -937,7 +938,7 @@ O Thou pure God! I am a little child; grant that the breast of Thy loving-kindne
 
 -- Abdu'l-Bahá
 
-bpn10126 «[English](../en/prayers/#bpn10126)» 
+bpn10126 
 
 ----
 
@@ -947,7 +948,7 @@ O Lord! Guard Thou the children that are born in Thy day, are nurtured at the br
 
 -- Abdu'l-Bahá
 
-bpn10132 «[English](../en/prayers/#bpn10132)» 
+bpn10132 
 
 ----
 
@@ -957,7 +958,7 @@ O thou little handmaid of God!I earnestly hope that thou wilt be nurtured in the
 
 -- Abdu'l-Bahá
 
-bpn10143 «[English](../en/prayers/#bpn10143)» 
+bpn10143 
 
 ----
 
@@ -967,7 +968,7 @@ O beloved child!Praise be to God that thou hast entered the divine Kingdom while
 
 -- Abdu'l-Bahá
 
-bpn10144 «[English](../en/prayers/#bpn10144)» 
+bpn10144 
 
 ----
 
@@ -977,7 +978,7 @@ O thou verdant plant of the Abhá Paradise! O thou tender sapling of the rose-ga
 
 -- Abdu'l-Bahá
 
-bpn10145 «[English](../en/prayers/#bpn10145)» 
+bpn10145 
 
 ----
 
@@ -987,7 +988,7 @@ O thou tender plant in the garden of the love of God!The heavenly gifts of the A
 
 -- Abdu'l-Bahá
 
-bpn10146 «[English](../en/prayers/#bpn10146)» 
+bpn10146 
 
 ----
 
@@ -997,7 +998,7 @@ O thou hyacinth which hast sprung up beside the heavenly stream!Let thyself be r
 
 -- Abdu'l-Bahá
 
-bpn10147 «[English](../en/prayers/#bpn10147)» 
+bpn10147 
 
 ----
 
@@ -1007,7 +1008,7 @@ O thou sapling which hast grown in the garden of the love of God!Unloose thy ton
 
 -- Abdu'l-Bahá
 
-bpn10148 «[English](../en/prayers/#bpn10148)» 
+bpn10148 
 
 ----
 
@@ -1017,7 +1018,7 @@ O ye two tender plants in the Abhá Paradise!Render thanks unto God that ye have
 
 -- Abdu'l-Bahá
 
-bpn10149 «[English](../en/prayers/#bpn10149)» 
+bpn10149 
 
 ----
 
@@ -1027,7 +1028,7 @@ O ye candles which have been lighted by the fingers of the Blessed Perfection!Pr
 
 -- Abdu'l-Bahá
 
-bpn10150 «[English](../en/prayers/#bpn10150)» 
+bpn10150 
 
 ----
 
@@ -1037,7 +1038,7 @@ O ye tender seedlings in the garden of the love of God!O ye fresh saplings in th
 
 -- Abdu'l-Bahá
 
-bpn10151 «[English](../en/prayers/#bpn10151)» 
+bpn10151 
 
 ----
 
@@ -1047,7 +1048,7 @@ O loved ones of ‘Abdu’l-Bahá!Man’s life has its springtime and is endowed
 
 -- Abdu'l-Bahá
 
-bpn10152 «[English](../en/prayers/#bpn10152)» 
+bpn10152 
 
 ----
 
@@ -1057,7 +1058,7 @@ He is God!  O Thou pure God!  Let these saplings which have sprouted by the stre
 
 -- Abdu'l-Bahá
 
-bpn10505 «[English](../en/prayers/#bpn10505)» 
+bpn10505 
 
 ----
 
@@ -1067,7 +1068,7 @@ O Thou kind Lord!  Grant that these trees may become the adornment of the Abhá 
 
 -- Abdu'l-Bahá
 
-bpn10506 «[English](../en/prayers/#bpn10506)» 
+bpn10506 
 
 ----
 
@@ -1077,7 +1078,7 @@ O Thou pure God!  I am a little child; grant that the breast of Thy loving-kindn
 
 -- Abdu'l-Bahá
 
-bpn10509 «[English](../en/prayers/#bpn10509)» 
+bpn10509 
 
 ----
 
@@ -1087,7 +1088,7 @@ O Lord!  Help this daughter of the Kingdom to be exalted in both worlds; cause h
 
 -- Abdu'l-Bahá
 
-bpn10510 «[English](../en/prayers/#bpn10510)» 
+bpn10510 
 
 ----
 
@@ -1097,7 +1098,7 @@ O Compassionate God!  O Lord of Hosts!  Praise be unto Thee that Thou hast prefe
 
 -- Abdu'l-Bahá
 
-bpn10515 «[English](../en/prayers/#bpn10515)» 
+bpn10515 
 
 ----
 
@@ -1107,7 +1108,7 @@ O my God, O my God!  Verily this plant hath yielded its fruit and standeth uprig
 
 -- Abdu'l-Bahá
 
-bpn10514 «[English](../en/prayers/#bpn10514)» 
+bpn10514 
 
 ----
 
@@ -1117,7 +1118,7 @@ O Lord!  Make these children excellent plants.  Let them grow and develop in the
 
 -- Abdu'l-Bahá
 
-AB10701 «[English](../en/prayers/#AB10701)» «[Nederlands](../nl/prayers/#AB10701)» «[Español](../es/prayers/#AB10701)» 
+AB10701 «[Nederlands](../../nl/prayers/#AB10701)» «[Español](../../es/prayers/#AB10701)» 
 
 ----
 
@@ -1127,7 +1128,7 @@ O Lord!  Plant this tender seedling in the garden of Thy manifold bounties, wate
 
 -- Abdu'l-Bahá
 
-bpn10502 «[English](../en/prayers/#bpn10502)» 
+bpn10502 
 
 ----
 
@@ -1137,7 +1138,7 @@ O God!  Educate these children.  These children are the plants of Thine orchard,
 
 -- Abdu'l-Bahá
 
-ABU0129EDU «[English](../en/prayers/#ABU0129EDU)» «[Esperanto](../eo/prayers/#ABU0129EDU)» «[Português (BR)](../pt/prayers/#ABU0129EDU)» «[Papiamentu](../pap/prayers/#ABU0129EDU)» 
+ABU0129EDU «[Esperanto](../../eo/prayers/#ABU0129EDU)» «[Papiamentu](../../pap/prayers/#ABU0129EDU)» «[Português (BR)](../../pt/prayers/#ABU0129EDU)» 
 
 ----
 
@@ -1147,7 +1148,7 @@ O Thou kind Lord! These lovely children are the handiwork of the fingers of Thy 
 
 -- Abdu'l-Bahá
 
-AB10714 «[English](../en/prayers/#AB10714)» «[Français](../fr/prayers/#AB10714)» «[Nederlands](../nl/prayers/#AB10714)» 
+AB10714 «[Nederlands](../../nl/prayers/#AB10714)» «[Français](../../fr/prayers/#AB10714)» 
 
 ----
 
@@ -1157,7 +1158,7 @@ He is God!  O God, my God!  Bestow upon me a pure heart, like unto a pearl.
 
 -- Abdu'l-Bahá
 
-AB11605 «[English](../en/prayers/#AB11605)» 
+AB11605 
 
 ----
 
@@ -1167,7 +1168,7 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[English](../en/prayers/#AB04427LMP)» «[Esperanto](../eo/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Nederlands](../nl/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» 
+AB04427LMP «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» 
 
 ----
 
@@ -1177,7 +1178,7 @@ O Peerless Lord!  Be Thou a shelter for this poor child and a kind and forgiving
 
 -- Abdu'l-Bahá
 
-AB08693 «[English](../en/prayers/#AB08693)» 
+AB08693 
 
 ----
 
@@ -1187,7 +1188,7 @@ O my God!  O my God!  Thou seest these children who are the twigs of the tree of
 
 -- Abdu'l-Bahá
 
-AB10324 «[English](../en/prayers/#AB10324)» «[Nederlands](../nl/prayers/#AB10324)» 
+AB10324 «[Nederlands](../../nl/prayers/#AB10324)» 
 
 ----
 
@@ -1197,7 +1198,7 @@ O my Lord! O my Lord!I am a child of tender years. Nourish me from the breast of
 
 -- Abdu'l-Bahá
 
-AB09040 «[English](../en/prayers/#AB09040)» 
+AB09040 
 
 ----
 
@@ -1207,7 +1208,7 @@ O Lord!  I am a child; enable me to grow beneath the shadow of Thy loving-kindne
 
 -- Abdu'l-Bahá
 
-AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers/#AB09794CHI)» «[Português (BR)](../pt/prayers/#AB09794CHI)» 
+AB09794CHI «[Nederlands](../../nl/prayers/#AB09794CHI)» «[Português (BR)](../../pt/prayers/#AB09794CHI)» 
 
 ----
 
@@ -1217,7 +1218,7 @@ AB09794CHI «[English](../en/prayers/#AB09794CHI)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-AB11356 «[English](../en/prayers/#AB11356)» 
+AB11356 
 
 ----
 
@@ -1227,7 +1228,7 @@ O Thou peerless Lord! Let this suckling babe be nursed from the breast of Thy lo
 
 -- Abdu'l-Bahá
 
-bpn13672 «[English](../en/prayers/#bpn13672)» 
+bpn13672 
 
 ----
 
@@ -1237,7 +1238,7 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 
 -- Abdu'l-Bahá
 
-AB04004BAB «[English](../en/prayers/#AB04004BAB)» «[Esperanto](../eo/prayers/#AB04004BAB)» «[Italiano](../it/prayers/#AB04004BAB)» 
+AB04004BAB «[Esperanto](../../eo/prayers/#AB04004BAB)» «[Italiano](../../it/prayers/#AB04004BAB)» 
 
 ----
 
@@ -1247,7 +1248,7 @@ O Lord! I am a child; enable me to grow beneath the shadow of Thy loving-kindnes
 
 -- Abdu'l-Bahá
 
-bpn13674 «[English](../en/prayers/#bpn13674)» 
+bpn13674 
 
 ----
 
@@ -1257,7 +1258,7 @@ O my Lord! O my Lord! I am a child of tender years. Nourish me from the breast o
 
 -- Abdu'l-Bahá
 
-bpn13675 «[English](../en/prayers/#bpn13675)» 
+bpn13675 
 
 ----
 
@@ -1267,7 +1268,7 @@ O Lord! Plant this tender seedling in the garden of Thy manifold bounties, water
 
 -- Abdu'l-Bahá
 
-bpn13676 «[English](../en/prayers/#bpn13676)» 
+bpn13676 
 
 ----
 
@@ -1277,7 +1278,7 @@ O my merciful Lord! This is a hyacinth which hath grown in the garden of Thy goo
 
 -- Abdu'l-Bahá
 
-bpn13677 «[English](../en/prayers/#bpn13677)» 
+bpn13677 
 
 ----
 
@@ -1287,7 +1288,7 @@ O Peerless Lord! Be Thou a shelter for this poor child and a kind and forgiving 
 
 -- Abdu'l-Bahá
 
-bpn13678 «[English](../en/prayers/#bpn13678)» 
+bpn13678 
 
 ----
 
@@ -1297,7 +1298,7 @@ O Lord! Make these children excellent plants. Let them grow and develop in the G
 
 -- Abdu'l-Bahá
 
-bpn13679 «[English](../en/prayers/#bpn13679)» 
+bpn13679 
 
 ----
 
@@ -1307,7 +1308,7 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 
 -- Abdu'l-Bahá
 
-bpn13680 «[English](../en/prayers/#bpn13680)» 
+bpn13680 
 
 ----
 
@@ -1317,7 +1318,7 @@ O Thou pure God! Let these saplings which have sprouted by the stream of Thy gui
 
 -- Abdu'l-Bahá
 
-bpn13681 «[English](../en/prayers/#bpn13681)» 
+bpn13681 
 
 ----
 
@@ -1327,7 +1328,7 @@ O my God! O my God! Thou seest these children who are the twigs of the tree of l
 
 -- Abdu'l-Bahá
 
-bpn13682 «[English](../en/prayers/#bpn13682)» 
+bpn13682 
 
 ----
 
@@ -1337,7 +1338,7 @@ O Thou kind Lord! Grant that these trees may become the adornment of the Abhá P
 
 -- Abdu'l-Bahá
 
-bpn13683 «[English](../en/prayers/#bpn13683)» 
+bpn13683 
 
 ----
 
@@ -1347,7 +1348,7 @@ O Thou compassionate Lord! O Lord of Hosts! Praise be unto Thee that Thou hast p
 
 -- Abdu'l-Bahá
 
-bpn13684 «[English](../en/prayers/#bpn13684)» 
+bpn13684 
 
 ----
 
@@ -1357,7 +1358,7 @@ O God, my God!We are children who have sucked the milk of divine knowledge from 
 
 -- Abdu'l-Bahá
 
-bpn13685 «[English](../en/prayers/#bpn13685)» 
+bpn13685 
 
 ----
 
@@ -1367,7 +1368,7 @@ O Thou kind Lord!We are poor children, needy and insignificant, yet we are plant
 
 -- Abdu'l-Bahá
 
-bpn13686 «[English](../en/prayers/#bpn13686)» 
+bpn13686 
 
 ----
 
@@ -1377,7 +1378,7 @@ O Thou most glorious Lord!Make this little maidservant of Thine blessed and happ
 
 -- Abdu'l-Bahá
 
-AB10685 «[English](../en/prayers/#AB10685)» «[Nederlands](../nl/prayers/#AB10685)» 
+AB10685 «[Nederlands](../../nl/prayers/#AB10685)» 
 
 ----
 
@@ -1391,7 +1392,7 @@ AB10685 «[English](../en/prayers/#AB10685)» «[Nederlands](../nl/prayers/#AB10
 
 -- Bahá'u'lláh
 
-bpn8254 «[English](../en/prayers/#bpn8254)» 
+bpn8254 
 
 ----
 
@@ -1401,7 +1402,7 @@ bpn8254 «[English](../en/prayers/#bpn8254)»
 
 -- Bahá'u'lláh
 
-bpn8255 «[English](../en/prayers/#bpn8255)» 
+bpn8255 
 
 ----
 
@@ -1411,7 +1412,7 @@ He is the Ever-Abiding, the Most Exalted, the Most Great.Lo, the Tongue of Glory
 
 -- Bahá'u'lláh
 
-bpn8256 «[English](../en/prayers/#bpn8256)» 
+bpn8256 
 
 ----
 
@@ -1425,7 +1426,7 @@ bpn8256 «[English](../en/prayers/#bpn8256)»
 
 -- Bahá'u'lláh
 
-BH09085 «[English](../en/prayers/#BH09085)» «[Frysk](../fy/prayers/#BH09085)» «[Nederlands](../nl/prayers/#BH09085)» «[Português (BR)](../pt/prayers/#BH09085)» 
+BH09085 «[Nederlands](../../nl/prayers/#BH09085)» «[Frysk](../../fy/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 ----
 
@@ -1435,7 +1436,7 @@ He is God, exalted is He, the Lord of loving-kindness and bounty!Glory be unto T
 
 -- Bahá'u'lláh
 
-BH03109KIN «[English](../en/prayers/#BH03109KIN)» «[Italiano](../it/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» 
+BH03109KIN «[Italiano](../../it/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
 
 ----
 
@@ -1445,7 +1446,7 @@ Glory be to Thee, O Lord my God! Abase not him whom Thou hast exalted through th
 
 -- Bahá'u'lláh
 
-BH08308 «[English](../en/prayers/#BH08308)» «[Italiano](../it/prayers/#BH08308)» 
+BH08308 «[Italiano](../../it/prayers/#BH08308)» 
 
 ----
 
@@ -1455,7 +1456,7 @@ He is God!  O peerless Lord!  Praised be Thou for having kindled that light in t
 
 -- Abdu'l-Bahá
 
-bpn10513 «[English](../en/prayers/#bpn10513)» 
+bpn10513 
 
 ----
 
@@ -1465,7 +1466,7 @@ bpn10513 «[English](../en/prayers/#bpn10513)»
 
 -- Abdu'l-Bahá
 
-AB07850 «[English](../en/prayers/#AB07850)» 
+AB07850 
 
 ----
 
@@ -1475,7 +1476,7 @@ AB07850 «[English](../en/prayers/#AB07850)»
 
 -- Abdu'l-Bahá
 
-AB00728MDS «[English](../en/prayers/#AB00728MDS)» 
+AB00728MDS 
 
 ----
 
@@ -1485,7 +1486,7 @@ AB00728MDS «[English](../en/prayers/#AB00728MDS)»
 
 -- Abdu'l-Bahá
 
-AB05996 «[English](../en/prayers/#AB05996)» «[Português (BR)](../pt/prayers/#AB05996)» 
+AB05996 «[Português (BR)](../../pt/prayers/#AB05996)» 
 
 ----
 
@@ -1495,7 +1496,7 @@ O Thou forgiving Lord!Although some souls have spent the days of their lives in 
 
 -- Abdu'l-Bahá
 
-AB07304 «[English](../en/prayers/#AB07304)» 
+AB07304 
 
 ----
 
@@ -1505,7 +1506,7 @@ O my God!  O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!
 
 -- Abdu'l-Bahá
 
-AB11094 «[English](../en/prayers/#AB11094)» «[Esperanto](../eo/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Nederlands](../nl/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» 
+AB11094 «[Nederlands](../../nl/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» 
 
 ----
 
@@ -1515,7 +1516,7 @@ O my God! O my God! Verily, Thy servant, humble before the majesty of Thy divine
 
 -- Abdu'l-Bahá
 
-AB03896MAJ «[English](../en/prayers/#AB03896MAJ)» 
+AB03896MAJ 
 
 ----
 
@@ -1529,7 +1530,7 @@ Say: O God, my God! Thou beholdest me circling round Thy Will with mine eyes tur
 
 -- Bahá'u'lláh
 
-bpn6343 «[English](../en/prayers/#bpn6343)» 
+bpn6343 
 
 ----
 
@@ -1539,7 +1540,7 @@ Suffer me, O my God, to draw nigh unto Thee, and to abide within the precincts o
 
 -- Bahá'u'lláh
 
-BH09289 «[English](../en/prayers/#BH09289)» «[Nederlands](../nl/prayers/#BH09289)» 
+BH09289 «[Nederlands](../../nl/prayers/#BH09289)» 
 
 ----
 
@@ -1549,7 +1550,7 @@ Glorified art Thou, O my God!  I yield Thee thanks that Thou hast made known unt
 
 -- Bahá'u'lláh
 
-BH09508 «[English](../en/prayers/#BH09508)» «[Português (BR)](../pt/prayers/#BH09508)» 
+BH09508 «[Português (BR)](../../pt/prayers/#BH09508)» 
 
 ----
 
@@ -1559,7 +1560,7 @@ Lauded be Thy name, O my God!  I entreat Thee by the fragrances of the Raiment o
 
 -- Bahá'u'lláh
 
-BH09864 «[English](../en/prayers/#BH09864)» «[Português (BR)](../pt/prayers/#BH09864)» «[Español](../es/prayers/#BH09864)» 
+BH09864 «[Español](../../es/prayers/#BH09864)» «[Português (BR)](../../pt/prayers/#BH09864)» 
 
 ----
 
@@ -1569,7 +1570,7 @@ I know not, O my God, what the Fire is which Thou didst kindle in Thy land.  Ear
 
 -- Bahá'u'lláh
 
-BH05894 «[English](../en/prayers/#BH05894)» «[Italiano](../it/prayers/#BH05894)» «[Nederlands](../nl/prayers/#BH05894)» 
+BH05894 «[Nederlands](../../nl/prayers/#BH05894)» «[Italiano](../../it/prayers/#BH05894)» 
 
 ----
 
@@ -1579,7 +1580,7 @@ Praise be unto Thee, O my God!  I am one of Thy servants, who hath believed on T
 
 -- Bahá'u'lláh
 
-BH05771 «[English](../en/prayers/#BH05771)» «[Nederlands](../nl/prayers/#BH05771)» 
+BH05771 «[Nederlands](../../nl/prayers/#BH05771)» 
 
 ----
 
@@ -1589,7 +1590,7 @@ Many a chilled heart, O my God, hath been set ablaze by the fire of Thy Cause, a
 
 -- Bahá'u'lláh
 
-BH09024 «[English](../en/prayers/#BH09024)» «[Esperanto](../eo/prayers/#BH09024)» «[Nederlands](../nl/prayers/#BH09024)» «[Afrikaans](../af/prayers/#BH09024)» «[Español](../es/prayers/#BH09024)» 
+BH09024 «[Nederlands](../../nl/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» 
 
 ----
 
@@ -1599,7 +1600,7 @@ In the Name of Thy Lord, the Creator, the Sovereign, the All-Sufficing, the Most
 
 -- Báb
 
-BB00560 «[English](../en/prayers/#BB00560)» «[Nederlands](../nl/prayers/#BB00560)» 
+BB00560 «[Nederlands](../../nl/prayers/#BB00560)» 
 
 ----
 
@@ -1609,7 +1610,7 @@ O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my heart.O
 
 -- Báb
 
-BB00522 «[English](../en/prayers/#BB00522)» «[Italiano](../it/prayers/#BB00522)» «[Español](../es/prayers/#BB00522)» 
+BB00522 «[Español](../../es/prayers/#BB00522)» «[Italiano](../../it/prayers/#BB00522)» 
 
 ----
 
@@ -1619,7 +1620,7 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 
 -- Báb
 
-BB00015SUF «[English](../en/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
+BB00015SUF «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» 
 
 ----
 
@@ -1629,7 +1630,7 @@ O God, my God!  Fill up for me the cup of detachment from all things, and in the
 
 -- Abdu'l-Bahá
 
-AB00553 «[English](../en/prayers/#AB00553)» «[Español](../es/prayers/#AB00553)» 
+AB00553 «[Español](../../es/prayers/#AB00553)» 
 
 ----
 
@@ -1639,7 +1640,7 @@ O God, my God!  Thou art my Hope and my Beloved, my highest Aim and Desire!  Wit
 
 -- Abdu'l-Bahá
 
-AB04980HOP «[English](../en/prayers/#AB04980HOP)» 
+AB04980HOP 
 
 ----
 
@@ -1653,7 +1654,7 @@ Unto Thee be praise, O Lord my God! I entreat Thee, by Thy signs that have encom
 
 -- Bahá'u'lláh
 
-bpn6663 «[English](../en/prayers/#bpn6663)» 
+bpn6663 
 
 ----
 
@@ -1663,7 +1664,7 @@ O Thou beloved of my heart and soul!  I have no refuge save Thee.  I raise no vo
 
 -- Abdu'l-Bahá
 
-bpn10516 «[English](../en/prayers/#bpn10516)» 
+bpn10516 
 
 ----
 
@@ -1677,7 +1678,7 @@ bpn10516 «[English](../en/prayers/#bpn10516)»
 
 -- Bahá'u'lláh
 
-bpn13691 «[English](../en/prayers/#bpn13691)» 
+bpn13691 
 
 ----
 
@@ -1691,7 +1692,7 @@ O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../en/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» 
+BH00009SER «[Esperanto](../../eo/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» 
 
 ----
 
@@ -1701,7 +1702,7 @@ How can I choose to sleep, O God, my God, when the eyes of them that long for Th
 
 -- Bahá'u'lláh
 
-BH00009HOW «[English](../en/prayers/#BH00009HOW)» «[Français](../fr/prayers/#BH00009HOW)» 
+BH00009HOW «[Français](../../fr/prayers/#BH00009HOW)» 
 
 ----
 
@@ -1711,7 +1712,7 @@ BH00009HOW «[English](../en/prayers/#BH00009HOW)» «[Français](../fr/prayers/
 
 -- Abdu'l-Bahá
 
-AB06528MID «[English](../en/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» 
+AB06528MID «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -1725,7 +1726,7 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 
 -- Bahá'u'lláh
 
-bpn6344 «[English](../en/prayers/#bpn6344)» 
+bpn6344 
 
 ----
 
@@ -1735,7 +1736,7 @@ Glory be unto Thee, O Lord my God!  I beg Thee to forgive me and those who suppo
 
 -- Báb
 
-BB00583 «[English](../en/prayers/#BB00583)» «[Português (BR)](../pt/prayers/#BB00583)» 
+BB00583 «[Português (BR)](../../pt/prayers/#BB00583)» 
 
 ----
 
@@ -1745,7 +1746,7 @@ BB00583 «[English](../en/prayers/#BB00583)» «[Português (BR)](../pt/prayers/
 
 -- Báb
 
-BB00018FOR «[English](../en/prayers/#BB00018FOR)» «[Français](../fr/prayers/#BB00018FOR)» «[Nederlands](../nl/prayers/#BB00018FOR)» 
+BB00018FOR «[Nederlands](../../nl/prayers/#BB00018FOR)» «[Français](../../fr/prayers/#BB00018FOR)» 
 
 ----
 
@@ -1755,7 +1756,7 @@ O Lord! In this Most Great Dispensation Thou dost accept the intercession of chi
 
 -- Abdu'l-Bahá
 
-AB02000DIS «[English](../en/prayers/#AB02000DIS)» «[Esperanto](../eo/prayers/#AB02000DIS)» «[Nederlands](../nl/prayers/#AB02000DIS)» 
+AB02000DIS «[Nederlands](../../nl/prayers/#AB02000DIS)» «[Esperanto](../../eo/prayers/#AB02000DIS)» 
 
 ----
 
@@ -1765,7 +1766,7 @@ AB02000DIS «[English](../en/prayers/#AB02000DIS)» «[Esperanto](../eo/prayers/
 
 -- Abdu'l-Bahá
 
-AB03017CAL «[English](../en/prayers/#AB03017CAL)» 
+AB03017CAL 
 
 ----
 
@@ -1779,7 +1780,7 @@ AB03017CAL «[English](../en/prayers/#AB03017CAL)»
 
 -- Bahá'u'lláh
 
-BH00687 «[English](../en/prayers/#BH00687)» «[Nederlands](../nl/prayers/#BH00687)» 
+BH00687 «[Nederlands](../../nl/prayers/#BH00687)» 
 
 ----
 
@@ -1793,7 +1794,7 @@ Glory be to Thee, O King of eternity, and the Maker of nations, and the Fashione
 
 -- Bahá'u'lláh
 
-BH07683 «[English](../en/prayers/#BH07683)» «[Nederlands](../nl/prayers/#BH07683)» «[Español](../es/prayers/#BH07683)» 
+BH07683 «[Nederlands](../../nl/prayers/#BH07683)» «[Español](../../es/prayers/#BH07683)» 
 
 ----
 
@@ -1803,7 +1804,7 @@ He is the Mighty, the Pardoner, the Compassionate!O God, my God!  Thou beholdest
 
 -- Bahá'u'lláh
 
-BH07469 «[English](../en/prayers/#BH07469)» «[Nederlands](../nl/prayers/#BH07469)» «[Português (BR)](../pt/prayers/#BH07469)» 
+BH07469 «[Nederlands](../../nl/prayers/#BH07469)» «[Português (BR)](../../pt/prayers/#BH07469)» 
 
 ----
 
@@ -1813,7 +1814,7 @@ O God, my God!  Give me to drink from the cup of Thy bestowal and illumine my fa
 
 -- Abdu'l-Bahá
 
-bpn10517 «[English](../en/prayers/#bpn10517)» 
+bpn10517 
 
 ----
 
@@ -1823,7 +1824,7 @@ Make firm our steps, O Lord, in Thy path and strengthen Thou our hearts in Thine
 
 -- Abdu'l-Bahá
 
-AB06211 «[English](../en/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» 
+AB06211 «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» 
 
 ----
 
@@ -1833,7 +1834,7 @@ O compassionate God!  Thanks be to Thee for Thou hast awakened and made me consc
 
 -- Abdu'l-Bahá
 
-AB02342AWA «[English](../en/prayers/#AB02342AWA)» «[Esperanto](../eo/prayers/#AB02342AWA)» «[Nederlands](../nl/prayers/#AB02342AWA)» 
+AB02342AWA «[Nederlands](../../nl/prayers/#AB02342AWA)» «[Esperanto](../../eo/prayers/#AB02342AWA)» 
 
 ----
 
@@ -1843,7 +1844,7 @@ O my Lord and my Hope!  Help Thou Thy loved ones to be steadfast in Thy mighty C
 
 -- Abdu'l-Bahá
 
-AB00065STE «[English](../en/prayers/#AB00065STE)» «[Esperanto](../eo/prayers/#AB00065STE)» 
+AB00065STE «[Esperanto](../../eo/prayers/#AB00065STE)» 
 
 ----
 
@@ -1857,7 +1858,7 @@ O God, my God! Thy grace hath emboldened me, and Thy justice filled me with terr
 
 -- Bahá'u'lláh
 
-bpn6667 «[English](../en/prayers/#bpn6667)» 
+bpn6667 
 
 ----
 
@@ -1867,7 +1868,7 @@ O God, my God! I implore Thee by the blood of Thy true lovers who were so enrapt
 
 -- Bahá'u'lláh
 
-bpn6800 «[English](../en/prayers/#bpn6800)» 
+bpn6800 
 
 ----
 
@@ -1877,7 +1878,7 @@ Glorified art Thou, O Lord my God! I beseech Thee by Thy Chosen Ones, and by the
 
 -- Bahá'u'lláh
 
-BH07106 «[English](../en/prayers/#BH07106)» 
+BH07106 
 
 ----
 
@@ -1887,7 +1888,7 @@ I am he, O my Lord, that hath set his face towards Thee, and fixed his hope on t
 
 -- Bahá'u'lláh
 
-BH08600FAC «[English](../en/prayers/#BH08600FAC)» «[Nederlands](../nl/prayers/#BH08600FAC)» «[Español](../es/prayers/#BH08600FAC)» 
+BH08600FAC «[Nederlands](../../nl/prayers/#BH08600FAC)» «[Español](../../es/prayers/#BH08600FAC)» 
 
 ----
 
@@ -1897,7 +1898,7 @@ Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty a
 
 -- Bahá'u'lláh
 
-BH00005SEE «[English](../en/prayers/#BH00005SEE)» «[Nederlands](../nl/prayers/#BH00005SEE)» 
+BH00005SEE «[Nederlands](../../nl/prayers/#BH00005SEE)» 
 
 ----
 
@@ -1907,7 +1908,7 @@ Glorified art Thou, O Lord my God!  Every time I venture to make mention of Thee
 
 -- Bahá'u'lláh
 
-BH05768 «[English](../en/prayers/#BH05768)» 
+BH05768 
 
 ----
 
@@ -1917,7 +1918,7 @@ Lauded be Thy name, O my God and the God of all things, my Glory and the Glory o
 
 -- Bahá'u'lláh
 
-BH08855 «[English](../en/prayers/#BH08855)» 
+BH08855 
 
 ----
 
@@ -1927,7 +1928,7 @@ I beg Thee to forgive me, O my Lord, for every mention but the mention of Thee, 
 
 -- Báb
 
-BB00617 «[English](../en/prayers/#BB00617)» «[Nederlands](../nl/prayers/#BB00617)» 
+BB00617 «[Nederlands](../../nl/prayers/#BB00617)» 
 
 ----
 
@@ -1937,7 +1938,7 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 
 -- Báb
 
-bpn6809 «[English](../en/prayers/#bpn6809)» 
+bpn6809 
 
 ----
 
@@ -1947,7 +1948,7 @@ O God our Lord!  Protect us through Thy grace from whatsoever may be repugnant u
 
 -- Báb
 
-BH00593 «[English](../en/prayers/#BH00593)» «[Nederlands](../nl/prayers/#BH00593)» 
+BH00593 «[Nederlands](../../nl/prayers/#BH00593)» 
 
 ----
 
@@ -1957,7 +1958,7 @@ Praise be unto Thee, O Lord.  Forgive us our sins, have mercy upon us and enable
 
 -- Báb
 
-BH00634 «[English](../en/prayers/#BH00634)» 
+BH00634 
 
 ----
 
@@ -1967,7 +1968,7 @@ Glory be unto Thee, O God.  How can I make mention of Thee while Thou art sancti
 
 -- Báb
 
-BB00002MEN «[English](../en/prayers/#BB00002MEN)» «[Português (BR)](../pt/prayers/#BB00002MEN)» 
+BB00002MEN «[Português (BR)](../../pt/prayers/#BB00002MEN)» 
 
 ----
 
@@ -1977,7 +1978,7 @@ I am aware, O Lord, that my trespasses have covered my face with shame in Thy pr
 
 -- Báb
 
-BB00485TRE «[English](../en/prayers/#BB00485TRE)» «[Nederlands](../nl/prayers/#BB00485TRE)» 
+BB00485TRE «[Nederlands](../../nl/prayers/#BB00485TRE)» 
 
 ----
 
@@ -1987,7 +1988,7 @@ O Thou forgiving Lord!  Thou art the shelter of all these Thy servants.  Thou kn
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[English](../en/prayers/#ABU0030SHE)» «[Esperanto](../eo/prayers/#ABU0030SHE)» «[Français](../fr/prayers/#ABU0030SHE)» «[Español](../es/prayers/#ABU0030SHE)» 
+ABU0030SHE «[Español](../../es/prayers/#ABU0030SHE)» «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[Français](../../fr/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -2001,7 +2002,7 @@ O God, my God!  Illumine the brows of Thy true lovers, and support them with ang
 
 -- Abdu'l-Bahá
 
-AB00362LOV «[English](../en/prayers/#AB00362LOV)» 
+AB00362LOV 
 
 ----
 
@@ -2015,7 +2016,7 @@ Blessed is the spot, and the house,and the place, and the city,and the heart, an
 
 -- Bahá'u'lláh
 
-BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Português (BR)](../pt/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» 
+BH00074BLE «[Esperanto](../../eo/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Português (BR)](../../pt/prayers/#BH00074BLE)» «[Français](../../fr/prayers/#BH00074BLE)» 
 
 ----
 
@@ -2025,7 +2026,7 @@ Glorified art Thou, O Lord my God!  I implore Thee by the onrushing winds of Thy
 
 -- Bahá'u'lláh
 
-BH09848 «[English](../en/prayers/#BH09848)» 
+BH09848 
 
 ----
 
@@ -2035,7 +2036,7 @@ O Thou compassionate, almighty One! This assemblage of souls have turned their f
 
 -- Abdu'l-Bahá
 
-bpn6802 «[English](../en/prayers/#bpn6802)» 
+bpn6802 
 
 ----
 
@@ -2045,7 +2046,7 @@ O Lord! Confirm and aid this assemblage. Confirm these souls through the breaths
 
 -- Abdu'l-Bahá
 
-bpn6803 «[English](../en/prayers/#bpn6803)» 
+bpn6803 
 
 ----
 
@@ -2055,7 +2056,7 @@ He is God! Thou seest us, O my God, gathered around this table, praising Thy bou
 
 -- Abdu'l-Bahá
 
-bpn11017 «[English](../en/prayers/#bpn11017)» 
+bpn11017 
 
 ----
 
@@ -2065,7 +2066,7 @@ O thou merciful God! O Thou Who art might and powerful! O Thou most kind Father!
 
 -- Abdu'l-Bahá
 
-bpn6443 «[English](../en/prayers/#bpn6443)» 
+bpn6443 
 
 ----
 
@@ -2075,7 +2076,7 @@ O Thou kind Lord! These are Thy servants who have gathered in this meeting, have
 
 -- Abdu'l-Bahá
 
-ABU0070GAT «[English](../en/prayers/#ABU0070GAT)» «[Esperanto](../eo/prayers/#ABU0070GAT)» «[Español](../es/prayers/#ABU0070GAT)» 
+ABU0070GAT «[Español](../../es/prayers/#ABU0070GAT)» «[Esperanto](../../eo/prayers/#ABU0070GAT)» 
 
 ----
 
@@ -2085,7 +2086,7 @@ O my God! O my God! Verily, these servants are turning to Thee, supplicating Thy
 
 -- Abdu'l-Bahá
 
-ABU0188TUR «[English](../en/prayers/#ABU0188TUR)» 
+ABU0188TUR 
 
 ----
 
@@ -2095,7 +2096,7 @@ O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy 
 
 -- Abdu'l-Bahá
 
-ABU0095KIN «[English](../en/prayers/#ABU0095KIN)» «[Português (BR)](../pt/prayers/#ABU0095KIN)» 
+ABU0095KIN «[Português (BR)](../../pt/prayers/#ABU0095KIN)» 
 
 ----
 
@@ -2105,7 +2106,7 @@ O Divine Providence! This assemblage is composed of Thy friends who are attracte
 
 -- Abdu'l-Bahá
 
-AB00388COM «[English](../en/prayers/#AB00388COM)» «[Português (BR)](../pt/prayers/#AB00388COM)» 
+AB00388COM «[Português (BR)](../../pt/prayers/#AB00388COM)» 
 
 ----
 
@@ -2115,7 +2116,7 @@ O Thou loving Provider!  These souls have hearkened to the summons of the Kingdo
 
 -- Abdu'l-Bahá
 
-AB00397HEA «[English](../en/prayers/#AB00397HEA)» 
+AB00397HEA 
 
 ----
 
@@ -2125,7 +2126,7 @@ AB00397HEA «[English](../en/prayers/#AB00397HEA)»
 
 -- Abdu'l-Bahá
 
-ABU0003DIS «[English](../en/prayers/#ABU0003DIS)» 
+ABU0003DIS 
 
 ----
 
@@ -2139,7 +2140,7 @@ Glorified art Thou, O Lord my God! Rain down, I beseech Thee, from the clouds of
 
 -- Bahá'u'lláh
 
-bpn6788 «[English](../en/prayers/#bpn6788)» 
+bpn6788 
 
 ----
 
@@ -2149,7 +2150,7 @@ We pray to God to graciously assist them that have been led astray to be just an
 
 -- Bahá'u'lláh
 
-bpn6789 «[English](../en/prayers/#bpn6789)» 
+bpn6789 
 
 ----
 
@@ -2159,7 +2160,7 @@ My God, the Object of my adoration, the Goal of my desire, the All-Bountiful, th
 
 -- Bahá'u'lláh
 
-BH00005ALL «[English](../en/prayers/#BH00005ALL)» «[Esperanto](../eo/prayers/#BH00005ALL)» 
+BH00005ALL «[Esperanto](../../eo/prayers/#BH00005ALL)» 
 
 ----
 
@@ -2169,11 +2170,11 @@ BH00005ALL «[English](../en/prayers/#BH00005ALL)» «[Esperanto](../eo/prayers/
 ## Hands of the Cause
 
 <a id="BH00238"></a> 
-Light and glory, greeting and praise be upon the Hands of His Cause, through whom the light of fortitude hath shone forth and the truth hath been established that the authority to choose rests with God, the Powerful, the Mighty, the Unconstrained, through whom the ocean of bounty hath surged and the fragrance of the gracious favors of God, the Lord of mankind, hath been diffused.  We beseech Him—exalted is He—to shield them through the power of His hosts, to protect them through the potency of His dominion, and to aid them through His indomitable strength which prevaileth over all created things.  Sovereignty is God&#39;s, the Creator of the heavens and the Lord of the Kingdom of Names.* Tablets of Bahá’u’lláh, Lawh-i-Dunyá (Tablet of the World)
+Light and glory, greeting and praise be upon the Hands of His Cause, through whom the light of fortitude hath shone forth and the truth hath been established that the authority to choose rests with God, the Powerful, the Mighty, the Unconstrained, through whom the ocean of bounty hath surged and the fragrance of the gracious favors of God, the Lord of mankind, hath been diffused.  We beseech Him—exalted is He—to shield them through the power of His hosts, to protect them through the potency of His dominion, and to aid them through His indomitable strength which prevaileth over all created things.  Sovereignty is God's, the Creator of the heavens and the Lord of the Kingdom of Names.* Tablets of Bahá’u’lláh, Lawh-i-Dunyá (Tablet of the World)
 
 -- Bahá'u'lláh
 
-BH00238 «[English](../en/prayers/#BH00238)» 
+BH00238 
 
 ----
 
@@ -2187,7 +2188,7 @@ BH00238 «[English](../en/prayers/#BH00238)»
 
 -- Bahá'u'lláh
 
-BH04475 «[English](../en/prayers/#BH04475)» 
+BH04475 
 
 ----
 
@@ -2197,7 +2198,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy.  Nearnes
 
 -- Bahá'u'lláh
 
-BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» 
+BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» 
 
 ----
 
@@ -2207,7 +2208,7 @@ BH01313NAM «[English](../en/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/
 
 -- Bahá'u'lláh
 
-BH00870 «[English](../en/prayers/#BH00870)» «[Esperanto](../eo/prayers/#BH00870)» 
+BH00870 «[Esperanto](../../eo/prayers/#BH00870)» 
 
 ----
 
@@ -2217,7 +2218,7 @@ O God my God!  I beg of Thee by the ocean of Thy healing, and by the splendors o
 
 -- Bahá'u'lláh
 
-BH08013 «[English](../en/prayers/#BH08013)» «[Esperanto](../eo/prayers/#BH08013)» 
+BH08013 «[Esperanto](../../eo/prayers/#BH08013)» 
 
 ----
 
@@ -2227,7 +2228,7 @@ Praised be Thou, O Lord my God!  I implore Thee, by Thy Most Great Name through 
 
 -- Bahá'u'lláh
 
-BH07105 «[English](../en/prayers/#BH07105)» 
+BH07105 
 
 ----
 
@@ -2237,7 +2238,7 @@ Glory be to Thee, O Lord my God!  I implore Thee by Thy Name, through which Thou
 
 -- Bahá'u'lláh
 
-BH07721 «[English](../en/prayers/#BH07721)» «[Deutsch](../de/prayers/#BH07721)» 
+BH07721 «[Deutsch](../../de/prayers/#BH07721)» 
 
 ----
 
@@ -2247,7 +2248,7 @@ BH07721 «[English](../en/prayers/#BH07721)» «[Deutsch](../de/prayers/#BH07721
 
 -- Bahá'u'lláh
 
-BH04990 «[English](../en/prayers/#BH04990)» «[Português (BR)](../pt/prayers/#BH04990)» 
+BH04990 «[Português (BR)](../../pt/prayers/#BH04990)» 
 
 ----
 
@@ -2261,7 +2262,7 @@ My God, Whom I worship and adore!  I bear witness unto Thy unity and Thy oneness
 
 -- Bahá'u'lláh
 
-BH00868WIT «[English](../en/prayers/#BH00868WIT)» «[Italiano](../it/prayers/#BH00868WIT)» «[Nederlands](../nl/prayers/#BH00868WIT)» 
+BH00868WIT «[Nederlands](../../nl/prayers/#BH00868WIT)» «[Italiano](../../it/prayers/#BH00868WIT)» 
 
 ----
 
@@ -2271,7 +2272,7 @@ O Thou kind Lord! O Thou Who art generous and merciful! We are servants of Thy t
 
 -- Abdu'l-Bahá
 
-AB07124 «[English](../en/prayers/#AB07124)» 
+AB07124 
 
 ----
 
@@ -2281,7 +2282,7 @@ O Thou compassionate Lord, Thou Who art generous and able!  We are servants of T
 
 -- Abdu'l-Bahá
 
-ABU0009SER «[English](../en/prayers/#ABU0009SER)» «[Esperanto](../eo/prayers/#ABU0009SER)» 
+ABU0009SER «[Esperanto](../../eo/prayers/#ABU0009SER)» 
 
 ----
 
@@ -2291,17 +2292,17 @@ O Thou kind Lord! Thou hast created all humanity from the same stock. Thou hast 
 
 -- Abdu'l-Bahá
 
-ABU0137ALL «[English](../en/prayers/#ABU0137ALL)» «[Esperanto](../eo/prayers/#ABU0137ALL)» «[Frysk](../fy/prayers/#ABU0137ALL)» 
+ABU0137ALL «[Esperanto](../../eo/prayers/#ABU0137ALL)» «[Frysk](../../fy/prayers/#ABU0137ALL)» 
 
 ----
 
 
 <a id="AB00787SPL"></a> 
-O God, O Thou Who hast cast Thy splendor over the luminous realities of men, shedding upon them the resplendent lights of knowledge and guidance, and hast chosen them out of all created things for this supernal grace, and hast caused them to encompass all things, to understand their inmost essence, and to disclose their mysteries, bringing them forth out of darkness into the visible world! “He verily showeth His special mercy to whomsoever He will.”¹O Lord, help Thou Thy loved ones to acquire knowledge and the sciences and arts, and to unravel the secrets that are treasured up in the inmost reality of all created beings. Make them to hear the hidden truths that are written and embedded in the heart of all that is. Make them to be ensigns of guidance amongst all creatures, and piercing rays of the mind shedding forth their light in this, the “first life.”² Make them to be leaders unto Thee, guides unto Thy path, runners urging men on to Thy Kingdom.Thou verily art the Powerful, the Protector, the Potent, the Defender, the Mighty, the Most Generous.*1. Qur&#39;án 51:56.*2. Qur&#39;án 55:19-22.
+O God, O Thou Who hast cast Thy splendor over the luminous realities of men, shedding upon them the resplendent lights of knowledge and guidance, and hast chosen them out of all created things for this supernal grace, and hast caused them to encompass all things, to understand their inmost essence, and to disclose their mysteries, bringing them forth out of darkness into the visible world! “He verily showeth His special mercy to whomsoever He will.”¹O Lord, help Thou Thy loved ones to acquire knowledge and the sciences and arts, and to unravel the secrets that are treasured up in the inmost reality of all created beings. Make them to hear the hidden truths that are written and embedded in the heart of all that is. Make them to be ensigns of guidance amongst all creatures, and piercing rays of the mind shedding forth their light in this, the “first life.”² Make them to be leaders unto Thee, guides unto Thy path, runners urging men on to Thy Kingdom.Thou verily art the Powerful, the Protector, the Potent, the Defender, the Mighty, the Most Generous.*1. Qur'án 51:56.*2. Qur'án 55:19-22.
 
 -- Abdu'l-Bahá
 
-AB00787SPL «[English](../en/prayers/#AB00787SPL)» 
+AB00787SPL 
 
 ----
 
@@ -2315,17 +2316,17 @@ Magnified art Thou, O Lord of the entire creation, the One unto Whom all things 
 
 -- Bahá'u'lláh
 
-BH01554HUQ «[English](../en/prayers/#BH01554HUQ)» «[Nederlands](../nl/prayers/#BH01554HUQ)» «[Português (BR)](../pt/prayers/#BH01554HUQ)» 
+BH01554HUQ «[Nederlands](../../nl/prayers/#BH01554HUQ)» «[Português (BR)](../../pt/prayers/#BH01554HUQ)» 
 
 ----
 
 
 <a id="BH02753ENT"></a> 
-Glorified art Thou, O my compassionate Lord!  I entreat Thee by the tumult of the ocean of Thy holy utterance, and by the manifold tokens of Thy supreme sovereignty, and the compelling evidences of Thy Divinity, and the hidden mysteries that lie concealed within Thy knowledge, to give me Thy grace to serve Thee and Thy chosen ones, and enable me to dutifully offer Thy Huqúq which Thou hast ordained in Thy Book.I am the one, O my Lord, who hath set his affections on Thy realm of glory, and hath clung tenaciously to the hem of Thy generosity.  O Thou Who art the Lord of all being and the Ruler of the kingdom of names, I beseech Thee not to deny me the things Thou dost posess, nor to withhold from me that which Thou hast ordained for Thy chosen ones.I implore Thee, O Lord of all names and Creator of the heavens, to assist me to be steadfast in Thy Cause, through Thy strengthening grace, in such wise that the vanities of the world may not suffer me to be shut out as by a veil, nor to be hindered by the violent commotions of the wicked-doers who have risen up to lead Thy people astray in Thy days.  Destine for me then, O my heart&#39;s Desire, the good of this world and the world to come.  Verily Thou art powerful to do as Thou willest.  No God is there but Thee, the Ever-Forgiving, the Most Generous.
+Glorified art Thou, O my compassionate Lord!  I entreat Thee by the tumult of the ocean of Thy holy utterance, and by the manifold tokens of Thy supreme sovereignty, and the compelling evidences of Thy Divinity, and the hidden mysteries that lie concealed within Thy knowledge, to give me Thy grace to serve Thee and Thy chosen ones, and enable me to dutifully offer Thy Huqúq which Thou hast ordained in Thy Book.I am the one, O my Lord, who hath set his affections on Thy realm of glory, and hath clung tenaciously to the hem of Thy generosity.  O Thou Who art the Lord of all being and the Ruler of the kingdom of names, I beseech Thee not to deny me the things Thou dost posess, nor to withhold from me that which Thou hast ordained for Thy chosen ones.I implore Thee, O Lord of all names and Creator of the heavens, to assist me to be steadfast in Thy Cause, through Thy strengthening grace, in such wise that the vanities of the world may not suffer me to be shut out as by a veil, nor to be hindered by the violent commotions of the wicked-doers who have risen up to lead Thy people astray in Thy days.  Destine for me then, O my heart's Desire, the good of this world and the world to come.  Verily Thou art powerful to do as Thou willest.  No God is there but Thee, the Ever-Forgiving, the Most Generous.
 
 -- Bahá'u'lláh
 
-BH02753ENT «[English](../en/prayers/#BH02753ENT)» 
+BH02753ENT 
 
 ----
 
@@ -2339,7 +2340,7 @@ BH02753ENT «[English](../en/prayers/#BH02753ENT)»
 
 -- Bahá'u'lláh
 
-BH05849 «[English](../en/prayers/#BH05849)» 
+BH05849 
 
 ----
 
@@ -2353,7 +2354,7 @@ O God, my God!  I have set out from my home, holding fast unto the cord of Thy l
 
 -- Bahá'u'lláh
 
-BH10688 «[English](../en/prayers/#BH10688)» «[Esperanto](../eo/prayers/#BH10688)» 
+BH10688 «[Esperanto](../../eo/prayers/#BH10688)» 
 
 ----
 
@@ -2363,7 +2364,7 @@ I have risen this morning by Thy grace, O my God, and left my home trusting whol
 
 -- Bahá'u'lláh
 
-BH00009GRA «[English](../en/prayers/#BH00009GRA)» «[Esperanto](../eo/prayers/#BH00009GRA)» «[Nederlands](../nl/prayers/#BH00009GRA)» «[Papiamentu](../pap/prayers/#BH00009GRA)» 
+BH00009GRA «[Nederlands](../../nl/prayers/#BH00009GRA)» «[Esperanto](../../eo/prayers/#BH00009GRA)» «[Papiamentu](../../pap/prayers/#BH00009GRA)» 
 
 ----
 
@@ -2377,7 +2378,7 @@ O God, my God! Attire mine head with the crown of justice, and my temple with th
 
 -- Bahá'u'lláh
 
-bpn6345 «[English](../en/prayers/#bpn6345)» 
+bpn6345 
 
 ----
 
@@ -2387,11 +2388,11 @@ bpn6345 «[English](../en/prayers/#bpn6345)»
 ## Long Obligatory Prayer
 
 <a id="BH00987"></a> 
-#Long Obligatory Prayer##To be recited once in twenty-four hours*Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:O Thou Who art the Lord of all names and the Maker of the heavens! I beseech Thee by them Who are the Daysprings of Thine invisible Essence, the Most Exalted, the All-Glorious, to make of my prayer a fire that will burn away the veils which have shut me out from Thy beauty, and a light that will lead me unto the ocean of Thy Presence.*Let him then raise his hands in supplication toward God - blessed and exalted be He - and say:O Thou the Desire of the world and the Beloved of the nations! Thou seest me turning toward Thee, and rid of all attachment to anyone save Thee, and clinging to Thy cord, through whose movement the whole creation hath been stirred up. I am Thy servant, O my Lord, and the son of Thy servant. Behold me standing ready to do Thy will and Thy desire, and wishing naught else except Thy good pleasure. I implore Thee by the Ocean of Thy mercy and the Daystar of Thy grace to do with Thy servant as Thou willest and pleasest. By Thy might which is far above all mention and praise! Whatsoever is revealed by Thee is the desire of my heart and the beloved of my soul. O God, my God! Look not upon my hopes and my doings, nay rather look upon Thy will that hath encompassed the heavens and the earth. By Thy Most Great Name, O Thou Lord of all nations! I have desired only what Thou didst desire, and love only what Thou dost love.*Let him then kneel, and bowing his forehead to the ground, let him say:Exalted art Thou above the description of anyone save Thyself, and the comprehension of aught else except Thee.*Let him then stand and say:Make my prayer, O my Lord, a fountain of living waters whereby I may live as long as Thy sovereignty endureth, and may make mention of Thee in every world of Thy worlds.*Let him again raise his hands in supplication, and say:O Thou in separation from Whom hearts and souls have melted, and by the fire of Whose love the whole world hath been set aflame! I implore Thee by Thy Name through which Thou hast subdued the whole creation, not to withhold from me that which is with Thee, O Thou Who rulest over all men! Thou seest, O my Lord, this stranger hastening to his most exalted home beneath the canopy of Thy majesty and within the precincts of Thy mercy; and this transgressor seeking the ocean of Thy forgiveness; and this lowly one the court of Thy glory; and this poor creature the orient of Thy wealth. Thine is the authority to command whatsoever Thou willest. I bear witness that Thou art to be praised in Thy doings, and to be obeyed in Thy behests, and to remain unconstrained in Thy bidding.*Let him then raise his hands, and repeat three times the Greatest Name.1 Let him then bend down with hands resting on the knees before God - blessed and exalted be He - and say:Thou seest, O my God, how my spirit hath been stirred up within my limbs and members, in its longing to worship Thee, and in its yearning to remember Thee and extol Thee; how it testifieth to that whereunto the Tongue of Thy Commandment hath testified in the kingdom of Thine utterance and the heaven of Thy knowledge. I love, in this state, O my Lord, to beg of Thee all that is with Thee, that I may demonstrate my poverty, and magnify Thy bounty and Thy riches, and may declare my powerlessness, and manifest Thy power and Thy might.*Let him then stand and raise his hands twice in supplication, and say:There is no God but Thee, the Almighty, the All-Bountiful. There is no God but Thee, the Ordainer, both in the beginning and in the end. O God, my God! Thy forgiveness hath emboldened me, and Thy mercy hath strengthened me, and Thy call hath awakened me, and Thy grace hath raised me up and led me unto Thee. Who, otherwise, am I that I should dare to stand at the gate of the city of Thy nearness, or set my face toward the lights that are shining from the heaven of Thy will? Thou seest, O my Lord, this wretched creature knocking at the door of Thy grace, and this evanescent soul seeking the river of everlasting life from the hands of Thy bounty. Thine is the command at all times, O Thou Who art the Lord of all names; and mine is resignation and willing submission to Thy will, O Creator of the heavens!*Let him then raise his hands thrice, and say:Greater is God than every great one!*Let him then kneel and, bowing his forehead to the ground, say:Too high art Thou for the praise of those who are nigh unto Thee to ascend unto the heaven of Thy nearness, or for the birds of the hearts of them who are devoted to Thee to attain to the door of Thy gate. I testify that Thou hast been sanctified above all attributes and holy above all names. No God is there but Thee, the Most Exalted, the All-Glorious.*Let him then seat himself and say:I testify unto that whereunto have testified all created things, and the Concourse on high, and the inmates of the all-highest Paradise, and beyond them the Tongue of Grandeur itself from the all-glorious Horizon, that Thou art God, that there is no God but Thee, and that He who hath been manifested is the Hidden Mystery, the Treasured Symbol, through Whom the letters B and E (Be) have been joined and knit together. I testify that it is He Whose name hath been set down by the Pen of the Most High, and Who hath been mentioned in the Books of God, the Lord of the Throne on high and of earth below.*Let him then stand erect and say:O Lord of all being and Possessor of all things visible and invisible! Thou dost perceive my tears and the sighs I utter, and hearest my groaning, and my wailing, and the lamentation of my heart. By Thy might! My trespasses have kept me back from drawing nigh unto Thee; and my sins have held me far from the court of Thy holiness. Thy love, O my Lord, hath enriched me, and separation from Thee hath destroyed me, and remoteness from Thee hath consumed me. I entreat Thee by Thy footsteps in this wilderness, and by the words &#34;Here am I. Here am I&#34; which Thy chosen Ones have uttered in this immensity, and by the breaths of Thy Revelation, and the gentle winds of the Dawn of Thy Manifestation, to ordain that I may gaze on Thy beauty and observe whatsoever is in Thy Book.*Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:Praise be to Thee, O my God, that Thou hast aided me to remember Thee and to praise Thee, and hast made known unto me Him Who is the Dayspring of Thy signs, and hast caused me to bow down before Thy Lordship, and humble myself before Thy Godhead, and to acknowledge that which hath been uttered by the Tongue of Thy grandeur.*Let him then rise and say:O God, my God! My back is bowed by the burden of my sins, and my heedlessness hath destroyed me. Whenever I ponder my evil doings and Thy benevolence, my heart melteth within me, and my blood boileth in my veins. By Thy Beauty, O Thou the Desire of the world! I blush to lift up my face to Thee, and my longing hands are ashamed to stretch forth toward the heaven of Thy bounty. Thou seest, O my God, how my tears prevent me from remembering Thee and from extolling Thy virtues, O Thou the Lord of the Throne on high and of earth below! I implore Thee by the signs of Thy Kingdom and the mysteries of Thy Dominion to do with Thy loved ones as becometh Thy bounty, O Lord of all being, and is worthy of Thy grace, O King of the seen and the unseen!*Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:Praise be unto Thee, O our God, that Thou hast sent down unto us that which draweth us nigh unto Thee, and supplieth us with every good thing sent down by Thee in Thy Books and Thy Scriptures. Protect us, we beseech Thee, O my Lord, from the hosts of idle fancies and vain imaginations. Thou, in truth, art the Mighty, the All-Knowing.*Let him then raise his head, and seat himself, and say:I testify, O my God, to that whereunto Thy chosen Ones have testified, and acknowledge that which the inmates of the all-highest Paradise and those who have circled round Thy mighty Throne have acknowledged. The kingdoms of earth and heaven are Thine, O Lord of the worlds!*&#34;The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied.&#34; - from a letter written on behalf of Shoghi Effendi &#34;By &#39;morning,&#39; &#39;noon&#39; and &#39;evening,&#39; mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset.&#34; - Synopsis and Codification of the Kitáb-i-Aqdas, p. 361. Alláh-u-Abhá
+#Long Obligatory Prayer##To be recited once in twenty-four hours*Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:O Thou Who art the Lord of all names and the Maker of the heavens! I beseech Thee by them Who are the Daysprings of Thine invisible Essence, the Most Exalted, the All-Glorious, to make of my prayer a fire that will burn away the veils which have shut me out from Thy beauty, and a light that will lead me unto the ocean of Thy Presence.*Let him then raise his hands in supplication toward God - blessed and exalted be He - and say:O Thou the Desire of the world and the Beloved of the nations! Thou seest me turning toward Thee, and rid of all attachment to anyone save Thee, and clinging to Thy cord, through whose movement the whole creation hath been stirred up. I am Thy servant, O my Lord, and the son of Thy servant. Behold me standing ready to do Thy will and Thy desire, and wishing naught else except Thy good pleasure. I implore Thee by the Ocean of Thy mercy and the Daystar of Thy grace to do with Thy servant as Thou willest and pleasest. By Thy might which is far above all mention and praise! Whatsoever is revealed by Thee is the desire of my heart and the beloved of my soul. O God, my God! Look not upon my hopes and my doings, nay rather look upon Thy will that hath encompassed the heavens and the earth. By Thy Most Great Name, O Thou Lord of all nations! I have desired only what Thou didst desire, and love only what Thou dost love.*Let him then kneel, and bowing his forehead to the ground, let him say:Exalted art Thou above the description of anyone save Thyself, and the comprehension of aught else except Thee.*Let him then stand and say:Make my prayer, O my Lord, a fountain of living waters whereby I may live as long as Thy sovereignty endureth, and may make mention of Thee in every world of Thy worlds.*Let him again raise his hands in supplication, and say:O Thou in separation from Whom hearts and souls have melted, and by the fire of Whose love the whole world hath been set aflame! I implore Thee by Thy Name through which Thou hast subdued the whole creation, not to withhold from me that which is with Thee, O Thou Who rulest over all men! Thou seest, O my Lord, this stranger hastening to his most exalted home beneath the canopy of Thy majesty and within the precincts of Thy mercy; and this transgressor seeking the ocean of Thy forgiveness; and this lowly one the court of Thy glory; and this poor creature the orient of Thy wealth. Thine is the authority to command whatsoever Thou willest. I bear witness that Thou art to be praised in Thy doings, and to be obeyed in Thy behests, and to remain unconstrained in Thy bidding.*Let him then raise his hands, and repeat three times the Greatest Name.1 Let him then bend down with hands resting on the knees before God - blessed and exalted be He - and say:Thou seest, O my God, how my spirit hath been stirred up within my limbs and members, in its longing to worship Thee, and in its yearning to remember Thee and extol Thee; how it testifieth to that whereunto the Tongue of Thy Commandment hath testified in the kingdom of Thine utterance and the heaven of Thy knowledge. I love, in this state, O my Lord, to beg of Thee all that is with Thee, that I may demonstrate my poverty, and magnify Thy bounty and Thy riches, and may declare my powerlessness, and manifest Thy power and Thy might.*Let him then stand and raise his hands twice in supplication, and say:There is no God but Thee, the Almighty, the All-Bountiful. There is no God but Thee, the Ordainer, both in the beginning and in the end. O God, my God! Thy forgiveness hath emboldened me, and Thy mercy hath strengthened me, and Thy call hath awakened me, and Thy grace hath raised me up and led me unto Thee. Who, otherwise, am I that I should dare to stand at the gate of the city of Thy nearness, or set my face toward the lights that are shining from the heaven of Thy will? Thou seest, O my Lord, this wretched creature knocking at the door of Thy grace, and this evanescent soul seeking the river of everlasting life from the hands of Thy bounty. Thine is the command at all times, O Thou Who art the Lord of all names; and mine is resignation and willing submission to Thy will, O Creator of the heavens!*Let him then raise his hands thrice, and say:Greater is God than every great one!*Let him then kneel and, bowing his forehead to the ground, say:Too high art Thou for the praise of those who are nigh unto Thee to ascend unto the heaven of Thy nearness, or for the birds of the hearts of them who are devoted to Thee to attain to the door of Thy gate. I testify that Thou hast been sanctified above all attributes and holy above all names. No God is there but Thee, the Most Exalted, the All-Glorious.*Let him then seat himself and say:I testify unto that whereunto have testified all created things, and the Concourse on high, and the inmates of the all-highest Paradise, and beyond them the Tongue of Grandeur itself from the all-glorious Horizon, that Thou art God, that there is no God but Thee, and that He who hath been manifested is the Hidden Mystery, the Treasured Symbol, through Whom the letters B and E (Be) have been joined and knit together. I testify that it is He Whose name hath been set down by the Pen of the Most High, and Who hath been mentioned in the Books of God, the Lord of the Throne on high and of earth below.*Let him then stand erect and say:O Lord of all being and Possessor of all things visible and invisible! Thou dost perceive my tears and the sighs I utter, and hearest my groaning, and my wailing, and the lamentation of my heart. By Thy might! My trespasses have kept me back from drawing nigh unto Thee; and my sins have held me far from the court of Thy holiness. Thy love, O my Lord, hath enriched me, and separation from Thee hath destroyed me, and remoteness from Thee hath consumed me. I entreat Thee by Thy footsteps in this wilderness, and by the words "Here am I. Here am I" which Thy chosen Ones have uttered in this immensity, and by the breaths of Thy Revelation, and the gentle winds of the Dawn of Thy Manifestation, to ordain that I may gaze on Thy beauty and observe whatsoever is in Thy Book.*Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:Praise be to Thee, O my God, that Thou hast aided me to remember Thee and to praise Thee, and hast made known unto me Him Who is the Dayspring of Thy signs, and hast caused me to bow down before Thy Lordship, and humble myself before Thy Godhead, and to acknowledge that which hath been uttered by the Tongue of Thy grandeur.*Let him then rise and say:O God, my God! My back is bowed by the burden of my sins, and my heedlessness hath destroyed me. Whenever I ponder my evil doings and Thy benevolence, my heart melteth within me, and my blood boileth in my veins. By Thy Beauty, O Thou the Desire of the world! I blush to lift up my face to Thee, and my longing hands are ashamed to stretch forth toward the heaven of Thy bounty. Thou seest, O my God, how my tears prevent me from remembering Thee and from extolling Thy virtues, O Thou the Lord of the Throne on high and of earth below! I implore Thee by the signs of Thy Kingdom and the mysteries of Thy Dominion to do with Thy loved ones as becometh Thy bounty, O Lord of all being, and is worthy of Thy grace, O King of the seen and the unseen!*Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:Praise be unto Thee, O our God, that Thou hast sent down unto us that which draweth us nigh unto Thee, and supplieth us with every good thing sent down by Thee in Thy Books and Thy Scriptures. Protect us, we beseech Thee, O my Lord, from the hosts of idle fancies and vain imaginations. Thou, in truth, art the Mighty, the All-Knowing.*Let him then raise his head, and seat himself, and say:I testify, O my God, to that whereunto Thy chosen Ones have testified, and acknowledge that which the inmates of the all-highest Paradise and those who have circled round Thy mighty Throne have acknowledged. The kingdoms of earth and heaven are Thine, O Lord of the worlds!*"The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied." - from a letter written on behalf of Shoghi Effendi "By 'morning,' 'noon' and 'evening,' mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset." - Synopsis and Codification of the Kitáb-i-Aqdas, p. 361. Alláh-u-Abhá
 
 -- Bahá'u'lláh
 
-BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH00987)» «[Nederlands](../nl/prayers/#BH00987)» «[Português (BR)](../pt/prayers/#BH00987)» 
+BH00987 «[Nederlands](../../nl/prayers/#BH00987)» «[Esperanto](../../eo/prayers/#BH00987)» «[Português (BR)](../../pt/prayers/#BH00987)» 
 
 ----
 
@@ -2401,11 +2402,11 @@ BH00987 «[English](../en/prayers/#BH00987)» «[Esperanto](../eo/prayers/#BH009
 ## Marriage
 
 <a id="BH00001ABI"></a> 
-*“Bahá’í marriage is union and cordial affection between the two parties.  They must, however, exercise the utmost care and become acquainted with each other&#39;s character.  This eternal bond should be made secure by a firm covenant, and the intention should be to foster harmony, fellowship and unity and to attain everlasting life.” —‘Abdu’l-BaháThe pledge of marriage, the verse to be spoken individually by the bride and the bridegroom in the presence of at least two witnesses acceptable to the Spiritual Assembly is, as stipulated in the Kitáb-i-Aqdas (The Most Holy Book):“We will, all, verily, abide by the Will of God.”
+*“Bahá’í marriage is union and cordial affection between the two parties.  They must, however, exercise the utmost care and become acquainted with each other's character.  This eternal bond should be made secure by a firm covenant, and the intention should be to foster harmony, fellowship and unity and to attain everlasting life.” —‘Abdu’l-BaháThe pledge of marriage, the verse to be spoken individually by the bride and the bridegroom in the presence of at least two witnesses acceptable to the Spiritual Assembly is, as stipulated in the Kitáb-i-Aqdas (The Most Holy Book):“We will, all, verily, abide by the Will of God.”
 
 -- Bahá'u'lláh
 
-BH00001ABI «[English](../en/prayers/#BH00001ABI)» 
+BH00001ABI 
 
 ----
 
@@ -2415,7 +2416,7 @@ He is the Bestower, the Bounteous!Praise be to God, the Ancient, the Ever-Abidin
 
 -- Bahá'u'lláh
 
-BH03181 «[English](../en/prayers/#BH03181)» 
+BH03181 
 
 ----
 
@@ -2425,7 +2426,7 @@ Glory be unto Thee, O my God!  Verily, this thy servant and this Thy maidservant
 
 -- Abdu'l-Bahá
 
-AB07158 «[English](../en/prayers/#AB07158)» «[Frysk](../fy/prayers/#AB07158)» «[Nederlands](../nl/prayers/#AB07158)» 
+AB07158 «[Nederlands](../../nl/prayers/#AB07158)» «[Frysk](../../fy/prayers/#AB07158)» 
 
 ----
 
@@ -2435,17 +2436,17 @@ O my Lord!  O my Lord!  These two bright orbs are wedded in Thy love, conjoined 
 
 -- Abdu'l-Bahá
 
-AB02596 «[English](../en/prayers/#AB02596)» «[Español](../es/prayers/#AB02596)» 
+AB02596 «[Español](../../es/prayers/#AB02596)» 
 
 ----
 
 
 <a id="AB05652WIS"></a> 
-He is God!O peerless Lord!  In Thine almighty wisdom Thou hast enjoined marriage upon the peoples, that the generations of men may succeed one another in this contingent world, and that ever, so long as the world shall last, they may busy themselves at the Threshold of Thy oneness with servitude and worship, with salutation, adoration and praise.  “I have not created spirits and men, but that they should worship me.”¹ Wherefore, wed Thou in the heaven of Thy mercy these two birds of the nest of Thy love, and make them the means of attracting perpetual grace; that from the union of these two seas of love a wave of tenderness may surge and cast the pearls of pure and goodly issue on the shore of life.  “He hath let loose the two seas, that they meet each other:  Between them is a barrier which they overpass not.  Which then of the bounties of your Lord will ye deny?  From each He bringeth up greater and lesser pearls.”² O Thou kind Lord!  Make Thou this marriage to bring forth coral and pearls.  Thou art verily the All-Powerful, the Most Great, the Ever-Forgiving.*1. Qur&#39;án 3:67.*2. Qur&#39;án 56:62.
+He is God!O peerless Lord!  In Thine almighty wisdom Thou hast enjoined marriage upon the peoples, that the generations of men may succeed one another in this contingent world, and that ever, so long as the world shall last, they may busy themselves at the Threshold of Thy oneness with servitude and worship, with salutation, adoration and praise.  “I have not created spirits and men, but that they should worship me.”¹ Wherefore, wed Thou in the heaven of Thy mercy these two birds of the nest of Thy love, and make them the means of attracting perpetual grace; that from the union of these two seas of love a wave of tenderness may surge and cast the pearls of pure and goodly issue on the shore of life.  “He hath let loose the two seas, that they meet each other:  Between them is a barrier which they overpass not.  Which then of the bounties of your Lord will ye deny?  From each He bringeth up greater and lesser pearls.”² O Thou kind Lord!  Make Thou this marriage to bring forth coral and pearls.  Thou art verily the All-Powerful, the Most Great, the Ever-Forgiving.*1. Qur'án 3:67.*2. Qur'án 56:62.
 
 -- Abdu'l-Bahá
 
-AB05652WIS «[English](../en/prayers/#AB05652WIS)» 
+AB05652WIS 
 
 ----
 
@@ -2459,7 +2460,7 @@ Give ear, O My servant, unto that which is being sent down unto thee from the Th
 
 -- Bahá'u'lláh
 
-bpn8261 «[English](../en/prayers/#bpn8261)» 
+bpn8261 
 
 ----
 
@@ -2469,7 +2470,7 @@ bpn8261 «[English](../en/prayers/#bpn8261)»
 
 -- Bahá'u'lláh
 
-bpn8264 «[English](../en/prayers/#bpn8264)» 
+bpn8264 
 
 ----
 
@@ -2479,7 +2480,7 @@ bpn8264 «[English](../en/prayers/#bpn8264)»
 
 -- Bahá'u'lláh
 
-bpn8262 «[English](../en/prayers/#bpn8262)» 
+bpn8262 
 
 ----
 
@@ -2489,7 +2490,7 @@ bpn8262 «[English](../en/prayers/#bpn8262)»
 
 -- Bahá'u'lláh
 
-bpn8263 «[English](../en/prayers/#bpn8263)» 
+bpn8263 
 
 ----
 
@@ -2499,7 +2500,7 @@ bpn8263 «[English](../en/prayers/#bpn8263)»
 
 -- Bahá'u'lláh
 
-bpn8265 «[English](../en/prayers/#bpn8265)» 
+bpn8265 
 
 ----
 
@@ -2509,7 +2510,7 @@ bpn8265 «[English](../en/prayers/#bpn8265)»
 
 -- Bahá'u'lláh
 
-bpn8266 «[English](../en/prayers/#bpn8266)» 
+bpn8266 
 
 ----
 
@@ -2523,7 +2524,7 @@ He is God!O Lord my God!  O Thou Helper of the feeble, Succorer of the poor and 
 
 -- Abdu'l-Bahá
 
-AB02024 «[English](../en/prayers/#AB02024)» «[Nederlands](../nl/prayers/#AB02024)» 
+AB02024 «[Nederlands](../../nl/prayers/#AB02024)» 
 
 ----
 
@@ -2533,11 +2534,11 @@ AB02024 «[English](../en/prayers/#AB02024)» «[Nederlands](../nl/prayers/#AB02
 ## Medium Obligatory Prayer
 
 <a id="BH03447"></a> 
-#Medium Obligatory Prayer##To be recited daily, in the morning, at noon, and in the evening*Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:Strengthen my hand, O my God, that it may take hold of Thy Book with such steadfastness that the hosts of the world shall have no power over it. Guard it, then, from meddling with whatsoever doth not belong unto it. Thou art, verily, the Almighty, the Most Powerful.*And while washing his face, let him say:I have turned my face unto Thee, O my Lord! Illumine it with the light of Thy countenance. Protect it, then, from turning to anyone but Thee.Then let him stand up, and facing the Qiblih (Point of Adoration, i.e. Bahji, Akka), let him say:God testifieth that there is none other God but Him. His are the kingdoms of Revelation and of creation. He, in truth, hath manifested Him Who is the Dayspring of Revelation, Who conversed on Sinai, through Whom the Supreme Horizon hath been made to shine, and the Lote-Tree beyond which there is no passing hath spoken, and through Whom the call hath been proclaimed unto all who are in heaven and on earth: &#34;Lo, the All-Possessing is come. Earth and heaven, glory and dominion are God&#39;s, the Lord of all men, and the Possessor of the Throne on high and of earth below!&#34;*Let him, then, bend down, with hands resting on the knees, and say:Exalted art Thou above my praise and the praise of anyone beside me, above my description and the description of all who are in heaven and all who are on earth!*Then, standing with open hands, palms upward toward the face, let him say:Disappoint not, O my God, him that hath, with beseeching fingers, clung to the hem of Thy mercy and Thy grace, O Thou Who of those who show mercy art the Most Merciful!*Let him, then, be seated and say:I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee. Thou hast, verily, revealed thy Cause, fulfilled Thy Covenant, and opened wide the door of Thy grace to all that dwell in heaven and on earth. Blessing and peace, salutation and glory, rest upon Thy loved ones, whom the changes and chances of the world have not deterred from turning unto Thee, and who have given their all, in the hope of obtaining that which is with Thee. Thou art, in truth, the Ever-Forgiving, the All-Bountiful.*(If anyone choose to recite instead of the long verse these words: &#34;God testifieth that there is none other God but Him, the Help in Peril, the Self-Subsisting,&#34; it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: &#34;I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.&#34;)*&#34;The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied.&#34; - from a letter written on behalf of Shoghi Effendi &#34;By &#39;morning,&#39; &#39;noon&#39; and &#39;evening,&#39; mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset.&#34; - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
+#Medium Obligatory Prayer##To be recited daily, in the morning, at noon, and in the evening*Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:Strengthen my hand, O my God, that it may take hold of Thy Book with such steadfastness that the hosts of the world shall have no power over it. Guard it, then, from meddling with whatsoever doth not belong unto it. Thou art, verily, the Almighty, the Most Powerful.*And while washing his face, let him say:I have turned my face unto Thee, O my Lord! Illumine it with the light of Thy countenance. Protect it, then, from turning to anyone but Thee.Then let him stand up, and facing the Qiblih (Point of Adoration, i.e. Bahji, Akka), let him say:God testifieth that there is none other God but Him. His are the kingdoms of Revelation and of creation. He, in truth, hath manifested Him Who is the Dayspring of Revelation, Who conversed on Sinai, through Whom the Supreme Horizon hath been made to shine, and the Lote-Tree beyond which there is no passing hath spoken, and through Whom the call hath been proclaimed unto all who are in heaven and on earth: "Lo, the All-Possessing is come. Earth and heaven, glory and dominion are God's, the Lord of all men, and the Possessor of the Throne on high and of earth below!"*Let him, then, bend down, with hands resting on the knees, and say:Exalted art Thou above my praise and the praise of anyone beside me, above my description and the description of all who are in heaven and all who are on earth!*Then, standing with open hands, palms upward toward the face, let him say:Disappoint not, O my God, him that hath, with beseeching fingers, clung to the hem of Thy mercy and Thy grace, O Thou Who of those who show mercy art the Most Merciful!*Let him, then, be seated and say:I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee. Thou hast, verily, revealed thy Cause, fulfilled Thy Covenant, and opened wide the door of Thy grace to all that dwell in heaven and on earth. Blessing and peace, salutation and glory, rest upon Thy loved ones, whom the changes and chances of the world have not deterred from turning unto Thee, and who have given their all, in the hope of obtaining that which is with Thee. Thou art, in truth, the Ever-Forgiving, the All-Bountiful.*(If anyone choose to recite instead of the long verse these words: "God testifieth that there is none other God but Him, the Help in Peril, the Self-Subsisting," it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: "I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.")*"The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied." - from a letter written on behalf of Shoghi Effendi "By 'morning,' 'noon' and 'evening,' mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset." - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
 
 -- Bahá'u'lláh
 
-BH03447 «[English](../en/prayers/#BH03447)» «[Esperanto](../eo/prayers/#BH03447)» «[Nederlands](../nl/prayers/#BH03447)» «[Português (BR)](../pt/prayers/#BH03447)» 
+BH03447 «[Nederlands](../../nl/prayers/#BH03447)» «[Esperanto](../../eo/prayers/#BH03447)» «[Português (BR)](../../pt/prayers/#BH03447)» 
 
 ----
 
@@ -2551,17 +2552,17 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 -- Bahá'u'lláh
 
-BH00009SHE «[English](../en/prayers/#BH00009SHE)» «[Esperanto](../eo/prayers/#BH00009SHE)» «[Frysk](../fy/prayers/#BH00009SHE)» 
+BH00009SHE «[Esperanto](../../eo/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» 
 
 ----
 
 
 <a id="BH02848"></a> 
-O my God and my Master!  I am Thy servant and the son of Thy servant. I have risen from my couch at this dawntide when the Daystar of Thy oneness hath shone forth from the Dayspring of Thy will, and hath shed its radiance upon the whole world, according to what had been ordained in the Books of Thy Decree.Praise be unto Thee, O my God, that we have wakened to the splendors of the light of Thy knowledge.  Send down, then, upon us, O my Lord, what will enable us to dispense with anyone but Thee, and will rid us of all attachment to aught except Thyself.  Write down, moreover, for me, and for such as are dear to me, and for my kindred, man and woman alike, the good of this world and the world to come.  Keep us safe, then, through Thine unfailing protection, O Thou the Beloved of the entire creation and the Desire of the whole universe, from them whom Thou hast made to be the manifestations of the Evil Whisperer, who whisper in men&#39;s breasts.  Potent art Thou to do Thy pleasure.  Thou art, verily, the Almighty, the Help in Peril, the Self-Subsisting.Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles, and through Whom Thou hast divided between the godly and the wicked, and graciously aid us to do what Thou lovest and desirest.  Bless Thou, moreover, O my God, them Who are Thy Words and Thy Letters, and them who have set their faces towards Thee, and turned unto Thy face, and hearkened to Thy Call.Thou art, truly, the Lord and King of all men, and art potent over all things.
+O my God and my Master!  I am Thy servant and the son of Thy servant. I have risen from my couch at this dawntide when the Daystar of Thy oneness hath shone forth from the Dayspring of Thy will, and hath shed its radiance upon the whole world, according to what had been ordained in the Books of Thy Decree.Praise be unto Thee, O my God, that we have wakened to the splendors of the light of Thy knowledge.  Send down, then, upon us, O my Lord, what will enable us to dispense with anyone but Thee, and will rid us of all attachment to aught except Thyself.  Write down, moreover, for me, and for such as are dear to me, and for my kindred, man and woman alike, the good of this world and the world to come.  Keep us safe, then, through Thine unfailing protection, O Thou the Beloved of the entire creation and the Desire of the whole universe, from them whom Thou hast made to be the manifestations of the Evil Whisperer, who whisper in men's breasts.  Potent art Thou to do Thy pleasure.  Thou art, verily, the Almighty, the Help in Peril, the Self-Subsisting.Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles, and through Whom Thou hast divided between the godly and the wicked, and graciously aid us to do what Thou lovest and desirest.  Bless Thou, moreover, O my God, them Who are Thy Words and Thy Letters, and them who have set their faces towards Thee, and turned unto Thy face, and hearkened to Thy Call.Thou art, truly, the Lord and King of all men, and art potent over all things.
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../en/prayers/#BH02848)» «[Français](../fr/prayers/#BH02848)» «[Afrikaans](../af/prayers/#BH02848)» «[Português (BR)](../pt/prayers/#BH02848)» 
+BH02848 «[Afrikaans](../../af/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
 
 ----
 
@@ -2571,7 +2572,7 @@ I give praise to Thee, O my God, that Thou hast awakened me out of my sleep, and
 
 -- Bahá'u'lláh
 
-BH00009AWA «[English](../en/prayers/#BH00009AWA)» «[Frysk](../fy/prayers/#BH00009AWA)» «[Nederlands](../nl/prayers/#BH00009AWA)» 
+BH00009AWA «[Nederlands](../../nl/prayers/#BH00009AWA)» «[Frysk](../../fy/prayers/#BH00009AWA)» 
 
 ----
 
@@ -2585,7 +2586,7 @@ I am the Most Holy, the Most Great, the Most Glorious.Praise be to Thee, O my Go
 
 -- Bahá'u'lláh
 
-bpn8232 «[English](../en/prayers/#bpn8232)» 
+bpn8232 
 
 ----
 
@@ -2595,7 +2596,7 @@ He is the Most Holy, the Most Mighty, the Most Exalted.Praise be unto Thee, O Th
 
 -- Bahá'u'lláh
 
-bpn8233 «[English](../en/prayers/#bpn8233)» 
+bpn8233 
 
 ----
 
@@ -2605,7 +2606,7 @@ He is the Ever-Living, the Ever-Abiding, the Self-Subsisting.God testifieth to t
 
 -- Bahá'u'lláh
 
-bpn8234 «[English](../en/prayers/#bpn8234)» 
+bpn8234 
 
 ----
 
@@ -2615,17 +2616,17 @@ He is the Sovereign King, the Holy of Holies.Praise be unto Thee, O Lord my God!
 
 -- Bahá'u'lláh
 
-bpn8235 «[English](../en/prayers/#bpn8235)» 
+bpn8235 
 
 ----
 
 
 <a id="BH03908"></a> 
-##Naw-Rúz*(Naw-Rúz, March 21, is the first day of the Bahá&#39;í year.)Praised be Thou, O my God, that Thou hast ordained Naw-Rúz as a festival unto those who have observed the Fast for love of Thee and abstained from all that is abhorrent unto thee.  Grant, O my Lord, that the fire of Thy love and the heat produced by the Fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee.Since thou hast adorned them, O my Lord, with the ornament of the Fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor.  For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest.  Shouldst Thou regard him who hath broken the Fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the Fast.  And shouldst Thou decree that he who hath observed the Fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain.Thou art He through Whom the ensign “Praiseworthy art Thou in Thy works” hath been lifted up, and the standard “Obeyed art Thou in Thy behest” hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good pleasure of Thy will, and may recognize that the reins of men&#39;s doings are within the grasp of Thine acceptance and Thy commandment.  Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth: “All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)”; and Thy Friend (Muhammad) crieth out: “Glory be to Thee, O Thou the Best-Beloved, for that Thou hast uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves towards Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.”He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for Him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond.Thou, in truth, art the All-Knowing, the All-Wise.
+##Naw-Rúz*(Naw-Rúz, March 21, is the first day of the Bahá'í year.)Praised be Thou, O my God, that Thou hast ordained Naw-Rúz as a festival unto those who have observed the Fast for love of Thee and abstained from all that is abhorrent unto thee.  Grant, O my Lord, that the fire of Thy love and the heat produced by the Fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee.Since thou hast adorned them, O my Lord, with the ornament of the Fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor.  For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest.  Shouldst Thou regard him who hath broken the Fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the Fast.  And shouldst Thou decree that he who hath observed the Fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain.Thou art He through Whom the ensign “Praiseworthy art Thou in Thy works” hath been lifted up, and the standard “Obeyed art Thou in Thy behest” hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good pleasure of Thy will, and may recognize that the reins of men's doings are within the grasp of Thine acceptance and Thy commandment.  Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth: “All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)”; and Thy Friend (Muhammad) crieth out: “Glory be to Thee, O Thou the Best-Beloved, for that Thou hast uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves towards Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.”He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for Him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond.Thou, in truth, art the All-Knowing, the All-Wise.
 
 -- Bahá'u'lláh
 
-BH03908 «[English](../en/prayers/#BH03908)» «[Frysk](../fy/prayers/#BH03908)» «[Português (BR)](../pt/prayers/#BH03908)» 
+BH03908 «[Frysk](../../fy/prayers/#BH03908)» «[Português (BR)](../../pt/prayers/#BH03908)» 
 
 ----
 
@@ -2639,17 +2640,17 @@ Glory be to Thee, O my God!  Thou hearest Thine ardent lovers lamenting in their
 
 -- Bahá'u'lláh
 
-BH08264 «[English](../en/prayers/#BH08264)» 
+BH08264 
 
 ----
 
 
 <a id="BBU0015"></a> 
-O God, my God, my Beloved, my heart&#39;s Desire.
+O God, my God, my Beloved, my heart's Desire.
 
 -- Báb
 
-BBU0015 «[English](../en/prayers/#BBU0015)» 
+BBU0015 
 
 ----
 
@@ -2659,7 +2660,7 @@ O my God!  There is no one but Thee to allay the anguish of my soul, and Thou ar
 
 -- Báb
 
-BB00018ANG «[English](../en/prayers/#BB00018ANG)» 
+BB00018ANG 
 
 ----
 
@@ -2669,7 +2670,7 @@ Verily I am Thy servant, O my God, and Thy poor one and Thy suppliant and Thy wr
 
 -- Báb
 
-BB00556 «[English](../en/prayers/#BB00556)» 
+BB00556 
 
 ----
 
@@ -2679,7 +2680,7 @@ O Lord, my God and my Haven in my distress!  My Shield and my Shelter in my woes
 
 -- Abdu'l-Bahá
 
-AB02866 «[English](../en/prayers/#AB02866)» «[Esperanto](../eo/prayers/#AB02866)» 
+AB02866 «[Esperanto](../../eo/prayers/#AB02866)» 
 
 ----
 
@@ -2689,7 +2690,7 @@ He is the Compassionate, the All-Bountiful!  O God, my God!  Thou seest me, Thou
 
 -- Abdu'l-Bahá
 
-AB06012 «[English](../en/prayers/#AB06012)» «[Esperanto](../eo/prayers/#AB06012)» «[Nederlands](../nl/prayers/#AB06012)» 
+AB06012 «[Nederlands](../../nl/prayers/#AB06012)» «[Esperanto](../../eo/prayers/#AB06012)» 
 
 ----
 
@@ -2703,7 +2704,7 @@ In the Name of God, the Most High!  Lauded and glorified art Thou, Lord, God Omn
 
 -- Bahá'u'lláh
 
-BH03111 «[English](../en/prayers/#BH03111)» 
+BH03111 
 
 ----
 
@@ -2713,7 +2714,7 @@ Glorified art Thou, O Lord my God!  I yield Thee thanks for having enabled me to
 
 -- Bahá'u'lláh
 
-BH07180 «[English](../en/prayers/#BH07180)» 
+BH07180 
 
 ----
 
@@ -2723,7 +2724,7 @@ Praised be Thou, O Lord my God!  Every time I attempt to make mention of Thee, I
 
 -- Bahá'u'lláh
 
-BH07661 «[English](../en/prayers/#BH07661)» «[Español](../es/prayers/#BH07661)» 
+BH07661 «[Español](../../es/prayers/#BH07661)» 
 
 ----
 
@@ -2733,7 +2734,7 @@ Magnified be Thy Name, O Lord my God!  Thou art He Whom all things worship and W
 
 -- Bahá'u'lláh
 
-BH09960 «[English](../en/prayers/#BH09960)» «[Esperanto](../eo/prayers/#BH09960)» «[Français](../fr/prayers/#BH09960)» «[Português (BR)](../pt/prayers/#BH09960)» 
+BH09960 «[Esperanto](../../eo/prayers/#BH09960)» «[Português (BR)](../../pt/prayers/#BH09960)» «[Français](../../fr/prayers/#BH09960)» 
 
 ----
 
@@ -2743,7 +2744,7 @@ God testifieth to the unity of His Godhood and to the singleness of His own Bein
 
 -- Bahá'u'lláh
 
-bpn6794 «[English](../en/prayers/#bpn6794)» 
+bpn6794 
 
 ----
 
@@ -2753,7 +2754,7 @@ Lauded be Thy name, O my God! I testify that no thought of Thee, howsoever wondr
 
 -- Bahá'u'lláh
 
-bpn6795 «[English](../en/prayers/#bpn6795)» 
+bpn6795 
 
 ----
 
@@ -2763,7 +2764,7 @@ My God, Thou Whom I adore and worship, Who art Most Powerful! I testify that no 
 
 -- Bahá'u'lláh
 
-bpn6796 «[English](../en/prayers/#bpn6796)» 
+bpn6796 
 
 ----
 
@@ -2773,7 +2774,7 @@ O Thou Whose remembrance is the delight of the souls of all them that yearn afte
 
 -- Bahá'u'lláh
 
-bpn6793 «[English](../en/prayers/#bpn6793)» 
+bpn6793 
 
 ----
 
@@ -2783,7 +2784,7 @@ All praise, O my God, be to Thee Who art the Source of all glory and majesty, of
 
 -- Bahá'u'lláh
 
-BH09401 «[English](../en/prayers/#BH09401)» «[Esperanto](../eo/prayers/#BH09401)» «[Nederlands](../nl/prayers/#BH09401)» 
+BH09401 «[Nederlands](../../nl/prayers/#BH09401)» «[Esperanto](../../eo/prayers/#BH09401)» 
 
 ----
 
@@ -2793,17 +2794,17 @@ O thou candle of the Love of God!I ask God to grant thee by His favor and grace 
 
 -- Bahá'u'lláh
 
-bpn12569 «[English](../en/prayers/#bpn12569)» 
+bpn12569 
 
 ----
 
 
 <a id="BB00018MAJ"></a> 
-All majesty and glory, O my God, and all dominion and light and grandeur and splendor be unto Thee.  Thou bestowest sovereignty on whom Thou willest and dost withhold it from whom Thou desirest.  No God is there but Thee, the All-Possessing, the Most Exalted.  Thou art He Who createth from naught the universe and all that dwell therein. There is nothing worthy of Thee except Thyself, while all else but Thee are as outcasts in Thy holy presence and are as nothing when compared to the glory of Thine Own Being.Far be it from me to extol Thy virtues save by what Thou hast extolled Thyself in Thy weighty Book where Thou sayest, “No vision taketh in Him, but He taketh in all vision.  He is the Subtile, the All-Perceiving.”¹  Glory be unto Thee, O my God, indeed no mind or vision, however keen or discriminating, can ever grasp the nature of the most insignificant of Thy signs.  Verily, Thou art God, no God is there besides Thee.  I bear witness that Thou Thyself alone art the sole expression of Thine attributes, that the praise of no one besides Thee can ever attain to Thy holy court nor can Thine attributes ever be fathomed by anyone other than Thyself.Glory be unto Thee, Thou art exalted above the description of anyone save Thyself, since it is beyond human conception to befittingly magnify Thy virtues or to comprehend the inmost reality of Thine Essence.  Far be it from Thy glory that Thy creatures should describe Thee or that anyone besides Thyself should ever know Thee.  I have known Thee, O my God, by reason of Thy making Thyself known unto me, for hadst Thou not revealed Thyself unto me, I would not have known Thee.  I worship Thee by virtue of Thy summoning me unto Thee, for had it not been for Thy summons I would not have worshiped Thee.* 1. Qur&#39;án 6:103
+All majesty and glory, O my God, and all dominion and light and grandeur and splendor be unto Thee.  Thou bestowest sovereignty on whom Thou willest and dost withhold it from whom Thou desirest.  No God is there but Thee, the All-Possessing, the Most Exalted.  Thou art He Who createth from naught the universe and all that dwell therein. There is nothing worthy of Thee except Thyself, while all else but Thee are as outcasts in Thy holy presence and are as nothing when compared to the glory of Thine Own Being.Far be it from me to extol Thy virtues save by what Thou hast extolled Thyself in Thy weighty Book where Thou sayest, “No vision taketh in Him, but He taketh in all vision.  He is the Subtile, the All-Perceiving.”¹  Glory be unto Thee, O my God, indeed no mind or vision, however keen or discriminating, can ever grasp the nature of the most insignificant of Thy signs.  Verily, Thou art God, no God is there besides Thee.  I bear witness that Thou Thyself alone art the sole expression of Thine attributes, that the praise of no one besides Thee can ever attain to Thy holy court nor can Thine attributes ever be fathomed by anyone other than Thyself.Glory be unto Thee, Thou art exalted above the description of anyone save Thyself, since it is beyond human conception to befittingly magnify Thy virtues or to comprehend the inmost reality of Thine Essence.  Far be it from Thy glory that Thy creatures should describe Thee or that anyone besides Thyself should ever know Thee.  I have known Thee, O my God, by reason of Thy making Thyself known unto me, for hadst Thou not revealed Thyself unto me, I would not have known Thee.  I worship Thee by virtue of Thy summoning me unto Thee, for had it not been for Thy summons I would not have worshiped Thee.* 1. Qur'án 6:103
 
 -- Báb
 
-BB00018MAJ «[English](../en/prayers/#BB00018MAJ)» 
+BB00018MAJ 
 
 ----
 
@@ -2817,7 +2818,7 @@ In His Name, the Exalted, the All-Highest, the Most Sublime!Glorified art Thou, 
 
 -- Bahá'u'lláh
 
-BH05801 «[English](../en/prayers/#BH05801)» «[Español](../es/prayers/#BH05801)» 
+BH05801 «[Español](../../es/prayers/#BH05801)» 
 
 ----
 
@@ -2827,7 +2828,7 @@ Lauded be Thy name, O Thou in Whose hands is the kingdom of all names, and in th
 
 -- Bahá'u'lláh
 
-bpn6804 «[English](../en/prayers/#bpn6804)» 
+bpn6804 
 
 ----
 
@@ -2837,17 +2838,17 @@ Lauded be Thy name, O Lord my God!  I entreat Thee by Thy Name through which the
 
 -- Bahá'u'lláh
 
-BH10578 «[English](../en/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[Italiano](../it/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» 
+BH10578 «[Español](../../es/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» 
 
 ----
 
 
 <a id="BH07113"></a> 
-Praise be to Thee, O Lord my God!  Thou seest and knowest that I have called upon Thy servants to turn nowhere except in the direction of Thy bestowals, and have bidden them observe naught save the things Thou didst prescribe in Thy Perspicuous Book, the Book which hath been sent down according to Thine inscrutable decree and irrevocable purpose.I can utter no word, O my God, unless I be permitted by Thee, and can move in no direction until I obtain Thy sanction.  It is Thou, O my God, Who hast called me into being through the power of Thy might, and hast endued me with Thy grace to manifest Thy Cause.  Wherefore I have been subjected to such adversities that my tongue hath been hindered from extolling Thee and from magnifying Thy glory.All praise be to Thee, O my God, for the things Thou didst ordain for me through Thy decree and by the power of Thy sovereignty.  I beseech Thee that thou wilt fortify both myself and them that love me in our love for Thee, and wilt keep us firm in Thy Cause.  I swear by Thy might!  O my God!  Thy servant&#39;s shame is to be shut out as by a veil from Thee, and his glory is to know Thee.  Armed with the power of Thy name nothing can ever hurt me, and with Thy love in my heart all the world&#39;s afflictions can in no wise alarm me.Send down, therefore, O my Lord, upon me and upon my loved ones that which will protect us from the mischief of those that have repudiated Thy truth and disbelieved in Thy signs.Thou art, verily, the All-Glorious, the Most Bountiful.
+Praise be to Thee, O Lord my God!  Thou seest and knowest that I have called upon Thy servants to turn nowhere except in the direction of Thy bestowals, and have bidden them observe naught save the things Thou didst prescribe in Thy Perspicuous Book, the Book which hath been sent down according to Thine inscrutable decree and irrevocable purpose.I can utter no word, O my God, unless I be permitted by Thee, and can move in no direction until I obtain Thy sanction.  It is Thou, O my God, Who hast called me into being through the power of Thy might, and hast endued me with Thy grace to manifest Thy Cause.  Wherefore I have been subjected to such adversities that my tongue hath been hindered from extolling Thee and from magnifying Thy glory.All praise be to Thee, O my God, for the things Thou didst ordain for me through Thy decree and by the power of Thy sovereignty.  I beseech Thee that thou wilt fortify both myself and them that love me in our love for Thee, and wilt keep us firm in Thy Cause.  I swear by Thy might!  O my God!  Thy servant's shame is to be shut out as by a veil from Thee, and his glory is to know Thee.  Armed with the power of Thy name nothing can ever hurt me, and with Thy love in my heart all the world's afflictions can in no wise alarm me.Send down, therefore, O my Lord, upon me and upon my loved ones that which will protect us from the mischief of those that have repudiated Thy truth and disbelieved in Thy signs.Thou art, verily, the All-Glorious, the Most Bountiful.
 
 -- Bahá'u'lláh
 
-BH07113 «[English](../en/prayers/#BH07113)» «[Português (BR)](../pt/prayers/#BH07113)» 
+BH07113 «[Português (BR)](../../pt/prayers/#BH07113)» 
 
 ----
 
@@ -2857,7 +2858,7 @@ In the Name of God, the Forgiver! Although this evil state in which I am, O my G
 
 -- Bahá'u'lláh
 
-bpn11764 «[English](../en/prayers/#bpn11764)» 
+bpn11764 
 
 ----
 
@@ -2867,7 +2868,7 @@ Praised be Thou, O Lord my God!  This is Thy servant who hath quaffed from the h
 
 -- Bahá'u'lláh
 
-BH09872 «[English](../en/prayers/#BH09872)» 
+BH09872 
 
 ----
 
@@ -2877,7 +2878,7 @@ Ordain for me, O my Lord, and for those who believe in Thee that which is deemed
 
 -- Báb
 
-BB00147ORD «[English](../en/prayers/#BB00147ORD)» 
+BB00147ORD 
 
 ----
 
@@ -2887,17 +2888,17 @@ Glory be to Thee, O God! Thou art the God Who hath existed before all things, Wh
 
 -- Báb
 
-BB00100EXI «[English](../en/prayers/#BB00100EXI)» «[Nederlands](../nl/prayers/#BB00100EXI)» «[Português (BR)](../pt/prayers/#BB00100EXI)» 
+BB00100EXI «[Nederlands](../../nl/prayers/#BB00100EXI)» «[Português (BR)](../../pt/prayers/#BB00100EXI)» 
 
 ----
 
 
 <a id="BB00490"></a> 
-In the Name of God, the Lord of overpowering majesty, the All-Compelling.Hallowed be the Lord in Whose hand is the source of dominion. He createth whatsoever He willeth by His Word of command “Be,” and it is. His hath been the power of authority heretofore, and it shall remain His hereafter. He maketh victorious whomsoever He pleaseth, through the potency of His behest. He is in truth the Powerful, the Almighty. Unto Him pertaineth all glory and majesty in the kingdoms of Revelation and Creation and whatever lieth between them. Verily, He is the Potent, the All-Glorious. From everlasting He hath been the Source of indomitable strength and shall remain so unto everlasting. He is indeed the Lord of might and power. All the kingdoms of heaven and earth and whatever is between them are God&#39;s, and His power is supreme over all things. All the treasures of earth and heaven and everything between them are His, and His protection extendeth over all things. He is the Creator of the heavens and the earth and whatever lieth between them, and He truly is a witness over all things. He is the Lord of Reckoning for all that dwell in the heavens and on earth and whatever lieth between them, and truly God is swift to reckon. He setteth the measure assigned to all who are in the heavens and the earth and whatever is between them. Verily, He is the Supreme Protector. He holdeth in His grasp the keys of heaven and earth and of everything between them. At His Own pleasure doth He bestow gifts, through the power of His command. Indeed His grace encompasseth all, and He is the All-Knowing.Say: God sufficeth unto me; He is the One Who holdeth in His grasp the kingdom of all things. Through the power of His hosts of heaven and earth and whatever lieth between them, He protecteth whomsoever among His servants He willeth. God, in truth, keepeth watch over all things.Immeasurably exalted art Thou, O Lord! Protect us from what lieth in front of us and behind us, above our heads, on our right, on our left, below our feet and every other side to which we are exposed. Verily, Thy protection over all things is unfailing.¹*1. The original of this prayer for protection is written in the Báb’s own hand, in the form of a pentacle.
+In the Name of God, the Lord of overpowering majesty, the All-Compelling.Hallowed be the Lord in Whose hand is the source of dominion. He createth whatsoever He willeth by His Word of command “Be,” and it is. His hath been the power of authority heretofore, and it shall remain His hereafter. He maketh victorious whomsoever He pleaseth, through the potency of His behest. He is in truth the Powerful, the Almighty. Unto Him pertaineth all glory and majesty in the kingdoms of Revelation and Creation and whatever lieth between them. Verily, He is the Potent, the All-Glorious. From everlasting He hath been the Source of indomitable strength and shall remain so unto everlasting. He is indeed the Lord of might and power. All the kingdoms of heaven and earth and whatever is between them are God's, and His power is supreme over all things. All the treasures of earth and heaven and everything between them are His, and His protection extendeth over all things. He is the Creator of the heavens and the earth and whatever lieth between them, and He truly is a witness over all things. He is the Lord of Reckoning for all that dwell in the heavens and on earth and whatever lieth between them, and truly God is swift to reckon. He setteth the measure assigned to all who are in the heavens and the earth and whatever is between them. Verily, He is the Supreme Protector. He holdeth in His grasp the keys of heaven and earth and of everything between them. At His Own pleasure doth He bestow gifts, through the power of His command. Indeed His grace encompasseth all, and He is the All-Knowing.Say: God sufficeth unto me; He is the One Who holdeth in His grasp the kingdom of all things. Through the power of His hosts of heaven and earth and whatever lieth between them, He protecteth whomsoever among His servants He willeth. God, in truth, keepeth watch over all things.Immeasurably exalted art Thou, O Lord! Protect us from what lieth in front of us and behind us, above our heads, on our right, on our left, below our feet and every other side to which we are exposed. Verily, Thy protection over all things is unfailing.¹*1. The original of this prayer for protection is written in the Báb’s own hand, in the form of a pentacle.
 
 -- Báb
 
-BB00490 «[English](../en/prayers/#BB00490)» «[Nederlands](../nl/prayers/#BB00490)» 
+BB00490 «[Nederlands](../../nl/prayers/#BB00490)» 
 
 ----
 
@@ -2907,7 +2908,7 @@ O God, my God!  Shield Thy trusted servants from the evils of self and passion, 
 
 -- Abdu'l-Bahá
 
-AB00001SHI «[English](../en/prayers/#AB00001SHI)» «[Esperanto](../eo/prayers/#AB00001SHI)» «[Español](../es/prayers/#AB00001SHI)» 
+AB00001SHI «[Español](../../es/prayers/#AB00001SHI)» «[Esperanto](../../eo/prayers/#AB00001SHI)» 
 
 ----
 
@@ -2917,7 +2918,7 @@ O my Lord!  Thou knowest that the people are encircled with pain and calamities 
 
 -- Abdu'l-Bahá
 
-AB07759 «[English](../en/prayers/#AB07759)» «[Esperanto](../eo/prayers/#AB07759)» 
+AB07759 «[Esperanto](../../eo/prayers/#AB07759)» 
 
 ----
 
@@ -2927,7 +2928,7 @@ O Thou kind and loving Providence!  The east is astir and the west surgeth even 
 
 -- Abdu'l-Bahá
 
-AB00204PRO «[English](../en/prayers/#AB00204PRO)» 
+AB00204PRO 
 
 ----
 
@@ -2941,7 +2942,7 @@ In the name of Him Who hath cast His splendour over the entire creation!The Divi
 
 -- Bahá'u'lláh
 
-bpn8236 «[English](../en/prayers/#bpn8236)» 
+bpn8236 
 
 ----
 
@@ -2951,7 +2952,7 @@ He it is Who is established upon this luminous Throne.Proclaim unto the celestia
 
 -- Bahá'u'lláh
 
-bpn8237 «[English](../en/prayers/#bpn8237)» 
+bpn8237 
 
 ----
 
@@ -2961,7 +2962,7 @@ He is the Most Holy, the Most Glorious.Praise be to Thee, O my God, that the daw
 
 -- Bahá'u'lláh
 
-BH04569 «[English](../en/prayers/#BH04569)» 
+BH04569 
 
 ----
 
@@ -2971,7 +2972,7 @@ He is the Manifest, the Hidden, the All-Glorious, the All-Knowing, the Ever-Forb
 
 -- Bahá'u'lláh
 
-bpn8241 «[English](../en/prayers/#bpn8241)» 
+bpn8241 
 
 ----
 
@@ -2981,7 +2982,7 @@ In the name of God, the Almighty, the All-Bountiful!Glorified art Thou, O my God
 
 -- Bahá'u'lláh
 
-bpn8243 «[English](../en/prayers/#bpn8243)» 
+bpn8243 
 
 ----
 
@@ -2991,7 +2992,7 @@ Praise be to Thee, O my God, for having cast in this Day the radiance of all Thy
 
 -- Bahá'u'lláh
 
-bpn8244 «[English](../en/prayers/#bpn8244)» 
+bpn8244 
 
 ----
 
@@ -3001,7 +3002,7 @@ In the name of God, the Most Glorious!Glorified art Thou, O Lord my God! This is
 
 -- Bahá'u'lláh
 
-bpn8247 «[English](../en/prayers/#bpn8247)» 
+bpn8247 
 
 ----
 
@@ -3011,7 +3012,7 @@ He is God.Glorified art Thou, O Lord my God! This is one of the days of Thy Ridv
 
 -- Bahá'u'lláh
 
-bpn8248 «[English](../en/prayers/#bpn8248)» 
+bpn8248 
 
 ----
 
@@ -3021,7 +3022,7 @@ In Thy name, the Most Wondrous, the Most Glorious!Since Thou hast, O my God, sta
 
 -- Bahá'u'lláh
 
-bpn8250 «[English](../en/prayers/#bpn8250)» 
+bpn8250 
 
 ----
 
@@ -3031,7 +3032,7 @@ He is the Ever-Abiding.It is the Festival of Ridván, the vernal season wherein 
 
 -- Bahá'u'lláh
 
-bpn8252 «[English](../en/prayers/#bpn8252)» 
+bpn8252 
 
 ----
 
@@ -3041,7 +3042,7 @@ On the first day that the Ancient Beauty ascended His Most Great Throne in the g
 
 -- Bahá'u'lláh
 
-bpn8239 «[English](../en/prayers/#bpn8239)» 
+bpn8239 
 
 ----
 
@@ -3051,7 +3052,7 @@ The day-star of words, dawning above the horizon of the utterance of Him Who is 
 
 -- Bahá'u'lláh
 
-bpn8240 «[English](../en/prayers/#bpn8240)» 
+bpn8240 
 
 ----
 
@@ -3061,7 +3062,7 @@ In the name of God, Who hath cast His splendour over all creation!O concourse of
 
 -- Bahá'u'lláh
 
-bpn8245 «[English](../en/prayers/#bpn8245)» 
+bpn8245 
 
 ----
 
@@ -3071,7 +3072,7 @@ In the name of God, the Almighty, the Unconstrained!Praise be to Thee, O my God,
 
 -- Bahá'u'lláh
 
-bpn8246 «[English](../en/prayers/#bpn8246)» 
+bpn8246 
 
 ----
 
@@ -3081,7 +3082,7 @@ bpn8246 «[English](../en/prayers/#bpn8246)»
 
 -- Bahá'u'lláh
 
-bpn8251 «[English](../en/prayers/#bpn8251)» 
+bpn8251 
 
 ----
 
@@ -3091,7 +3092,7 @@ Another letter of thine, which made mention of the hallowed and blessed days of 
 
 -- Bahá'u'lláh
 
-bpn8253 «[English](../en/prayers/#bpn8253)» 
+bpn8253 
 
 ----
 
@@ -3101,7 +3102,7 @@ bpn8253 «[English](../en/prayers/#bpn8253)»
 
 -- Bahá'u'lláh
 
-bpn8249 «[English](../en/prayers/#bpn8249)» 
+bpn8249 
 
 ----
 
@@ -3111,7 +3112,7 @@ bpn8249 «[English](../en/prayers/#bpn8249)»
 
 -- Bahá'u'lláh
 
-bpn8242 «[English](../en/prayers/#bpn8242)» 
+bpn8242 
 
 ----
 
@@ -3121,7 +3122,7 @@ He is God.O Lord, my God, my Best-Beloved, my Aim, my heart’s Desire! This, ve
 
 -- Abdu'l-Bahá
 
-bpn12874 «[English](../en/prayers/#bpn12874)» 
+bpn12874 
 
 ----
 
@@ -3135,7 +3136,7 @@ Praise be to Thee, O Lord my God!  I am the one who hath sought the good pleasur
 
 -- Bahá'u'lláh
 
-bpn6836 «[English](../en/prayers/#bpn6836)» 
+bpn6836 
 
 ----
 
@@ -3145,17 +3146,17 @@ Magnified be Thy name, O God, the Lord of heaven!  Attire my head with the crown
 
 -- Bahá'u'lláh
 
-bpn6835 «[English](../en/prayers/#bpn6835)» 
+bpn6835 
 
 ----
 
 
 <a id="bpn6839"></a> 
-Glorified be Thou, O my God!  Behold Thou my head ready to fall before the sword of Thy Will, my neck prepared to bear the chains of Thy Desire, my heart yearning to be made a target for the darts of Thy Decree, mine eyes expectant to gaze on the tokens and signs of Thy wondrous Mercy.  For whatsoever may befall me from Thee is the cherished desire of them who thirst to meet Thee, and the supreme aspiration of such as have drawn nigh unto Thy court.By the glory of Thy might, O Thou my Well-Beloved!  To have sacrificed my life for the Manifestations of Thy Self, to have offered up my soul in the path of the Revealers of Thy wondrous Beauty, is to have sacrificed my spirit for Thy Spirit, my being for Thy Being, my glory for Thy glory.  It is as if I had offered up all these things for Thy sake, and for the sake of Thy loved ones.Though my body be pained by the trials that befall me from Thee, though it be afflicted by the revelations of Thy Decree, yet my soul rejoiceth at having partaken of the waters of Thy Beauty, and at having attained the shores of the ocean of Thine eternity.  Doth it beseem a lover to flee from his beloved, or to desert the object of his heart&#39;s desire?  Nay, we all believe in Thee, and eagerly hope to enter Thy presence. *Prayers and Meditations, LX
+Glorified be Thou, O my God!  Behold Thou my head ready to fall before the sword of Thy Will, my neck prepared to bear the chains of Thy Desire, my heart yearning to be made a target for the darts of Thy Decree, mine eyes expectant to gaze on the tokens and signs of Thy wondrous Mercy.  For whatsoever may befall me from Thee is the cherished desire of them who thirst to meet Thee, and the supreme aspiration of such as have drawn nigh unto Thy court.By the glory of Thy might, O Thou my Well-Beloved!  To have sacrificed my life for the Manifestations of Thy Self, to have offered up my soul in the path of the Revealers of Thy wondrous Beauty, is to have sacrificed my spirit for Thy Spirit, my being for Thy Being, my glory for Thy glory.  It is as if I had offered up all these things for Thy sake, and for the sake of Thy loved ones.Though my body be pained by the trials that befall me from Thee, though it be afflicted by the revelations of Thy Decree, yet my soul rejoiceth at having partaken of the waters of Thy Beauty, and at having attained the shores of the ocean of Thine eternity.  Doth it beseem a lover to flee from his beloved, or to desert the object of his heart's desire?  Nay, we all believe in Thee, and eagerly hope to enter Thy presence. *Prayers and Meditations, LX
 
 -- Bahá'u'lláh
 
-bpn6839 «[English](../en/prayers/#bpn6839)» 
+bpn6839 
 
 ----
 
@@ -3165,7 +3166,7 @@ How numerous the souls raised to life who were exposed to dire humiliation in Th
 
 -- Báb
 
-bpn6837 «[English](../en/prayers/#bpn6837)» 
+bpn6837 
 
 ----
 
@@ -3175,17 +3176,17 @@ Glory be unto Thee, O Lord!  Although Thou mayest cause a person to be destitute
 
 -- Báb
 
-bpn6838 «[English](../en/prayers/#bpn6838)» 
+bpn6838 
 
 ----
 
 
 <a id="bpn6305"></a> 
-O Divine Providence!  Lift to Thy lovers&#39; lips a cup brimful of anguish.  To the yearners on Thy pathway, make sweetness but a sting, and poison honey-sweet.  Set Thou our heads for ornaments on the points of spears.  Make Thou our hearts the targets for pitiless arrows and darts.  Raise Thou this withered soul to life on the martyr&#39;s field, make Thou his faded heart to drink the draft of tyranny, and thus grow fresh and fair once more.  Make him to be drunk with the wine of Thine Eternal Covenant, make him a reveler holding high his cup.  Help him to fling away his life; grant that for Thy sake, he be offered up.Thou art the Mighty, the Powerful.  Thou art the Knower, the Seer, the Hearer.
+O Divine Providence!  Lift to Thy lovers' lips a cup brimful of anguish.  To the yearners on Thy pathway, make sweetness but a sting, and poison honey-sweet.  Set Thou our heads for ornaments on the points of spears.  Make Thou our hearts the targets for pitiless arrows and darts.  Raise Thou this withered soul to life on the martyr's field, make Thou his faded heart to drink the draft of tyranny, and thus grow fresh and fair once more.  Make him to be drunk with the wine of Thine Eternal Covenant, make him a reveler holding high his cup.  Help him to fling away his life; grant that for Thy sake, he be offered up.Thou art the Mighty, the Powerful.  Thou art the Knower, the Seer, the Hearer.
 
 -- Abdu'l-Bahá
 
-bpn6305 «[English](../en/prayers/#bpn6305)» 
+bpn6305 
 
 ----
 
@@ -3199,7 +3200,7 @@ O God and the God of all Names, and the Maker of the heavens!  I entreat Thee by
 
 -- Bahá'u'lláh
 
-BH09498 «[English](../en/prayers/#BH09498)» «[Nederlands](../nl/prayers/#BH09498)» 
+BH09498 «[Nederlands](../../nl/prayers/#BH09498)» 
 
 ----
 
@@ -3209,7 +3210,7 @@ I give praise to Thee, O my God, that the fragrance of Thy loving-kindness hath 
 
 -- Bahá'u'lláh
 
-bpn6341 «[English](../en/prayers/#bpn6341)» 
+bpn6341 
 
 ----
 
@@ -3219,11 +3220,11 @@ bpn6341 «[English](../en/prayers/#bpn6341)»
 ## Short Obligatory Prayer
 
 <a id="BH11209"></a> 
-#Short obligatory prayer##To be recited once in twenty-four hours, at noonI bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.* &#34;The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied.&#34; - from a letter written on behalf of Shoghi Effendi &#34;By &#39;morning,&#39; &#39;noon&#39; and &#39;evening,&#39; mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset.&#34; - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
+#Short obligatory prayer##To be recited once in twenty-four hours, at noonI bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.* "The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied." - from a letter written on behalf of Shoghi Effendi "By 'morning,' 'noon' and 'evening,' mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset." - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
 
 -- Bahá'u'lláh
 
-BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Português (BR)](../pt/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» 
+BH11209 «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» 
 
 ----
 
@@ -3237,7 +3238,7 @@ BH11209 «[English](../en/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH112
 
 -- Abdu'l-Bahá
 
-AB04620 «[English](../en/prayers/#AB04620)» 
+AB04620 
 
 ----
 
@@ -3247,7 +3248,7 @@ AB04620 «[English](../en/prayers/#AB04620)»
 
 -- Abdu'l-Bahá
 
-AB01023SAE «[English](../en/prayers/#AB01023SAE)» «[Nederlands](../nl/prayers/#AB01023SAE)» «[Português (BR)](../pt/prayers/#AB01023SAE)» 
+AB01023SAE «[Nederlands](../../nl/prayers/#AB01023SAE)» «[Português (BR)](../../pt/prayers/#AB01023SAE)» 
 
 ----
 
@@ -3257,7 +3258,7 @@ AB01023SAE «[English](../en/prayers/#AB01023SAE)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-AB00774SAB «[English](../en/prayers/#AB00774SAB)» «[Frysk](../fy/prayers/#AB00774SAB)» 
+AB00774SAB «[Frysk](../../fy/prayers/#AB00774SAB)» 
 
 ----
 
@@ -3271,17 +3272,17 @@ Lauded be Thy Name, O Lord my God!  I am Thy servant who hath laid hold on the c
 
 -- Bahá'u'lláh
 
-BH07780 «[English](../en/prayers/#BH07780)» «[Português (BR)](../pt/prayers/#BH07780)» 
+BH07780 «[Português (BR)](../../pt/prayers/#BH07780)» 
 
 ----
 
 
 <a id="BH03562"></a> 
-He is the prayer-hearing, prayer-answering God!By Thy glory, O Beloved One, Thou giver of light to the world!  The flames of separation have consumed me, and my waywardness hath melted my heart within me.  I ask of Thee, by Thy Most Great Name, O Thou the Desire of the world and the Well-Beloved of mankind, to grant that the breeze of Thine inspiration may sustain my soul, that Thy wondrous voice may reach my ear, that my eyes may behold Thy signs and Thy light as revealed in the manifestations of Thy names and Thine attributes, O Thou within Whose grasp are all things!Thou seest, O Lord my God, the tears of Thy favored ones, shed because of their separation from Thee, and the fears of Thy devoted ones in their remoteness from Thy Holy Court.  By Thy power, that swayeth all things, visible and invisible!  It behooveth Thy loved ones to shed tears of blood for that which hath befallen the faithful at the hands of the wicked and the oppressors on the earth.  Thou beholdest, O my God, how the ungodly have compassed Thy cities and Thy realms!  I ask Thee by Thy Messengers and Thy chosen ones and by Him whereby the standard of Thy divine unity hath been implanted amidst Thy servants, to shield them by Thy bounty.  Thou art, verily, the Gracious, the All-Bountiful.And, again, I ask Thee by the sweet showers of Thy grace and the billows of the ocean of Thy favor, to ordain for Thy saints that which shall solace their eyes and comfort their hearts.  Lord!  Thou seest him that kneeleth yearning to arise and serve Thee, the dead calling for eternal life from the ocean of Thy favor and craving to soar to the heavens of Thy wealth, the stranger longing for his home of glory &#39;neath the canopy of Thy grace, the seeker hastening by Thy mercy to Thy door of bounty, the sinful turning to the ocean of forgiveness and pardon.By Thy sovereignty, O Thou Who art glorified in the hearts of men!  I have turned to Thee, forsaking mine own will and desire, that Thy holy will and pleasure may rule within me and direct me according to that which the pen of Thy eternal decree hath destined for me.  This servant, O Lord, though helpless turneth to the Orb of Thy Power, though abased hasteneth unto the Dayspring of Glory, though needy craveth the Ocean of Thy Grace.  I beseech Thee by Thy favor and bounty, cast him not away.Thou art verily the Almighty, the Pardoner, the Compassionate.
+He is the prayer-hearing, prayer-answering God!By Thy glory, O Beloved One, Thou giver of light to the world!  The flames of separation have consumed me, and my waywardness hath melted my heart within me.  I ask of Thee, by Thy Most Great Name, O Thou the Desire of the world and the Well-Beloved of mankind, to grant that the breeze of Thine inspiration may sustain my soul, that Thy wondrous voice may reach my ear, that my eyes may behold Thy signs and Thy light as revealed in the manifestations of Thy names and Thine attributes, O Thou within Whose grasp are all things!Thou seest, O Lord my God, the tears of Thy favored ones, shed because of their separation from Thee, and the fears of Thy devoted ones in their remoteness from Thy Holy Court.  By Thy power, that swayeth all things, visible and invisible!  It behooveth Thy loved ones to shed tears of blood for that which hath befallen the faithful at the hands of the wicked and the oppressors on the earth.  Thou beholdest, O my God, how the ungodly have compassed Thy cities and Thy realms!  I ask Thee by Thy Messengers and Thy chosen ones and by Him whereby the standard of Thy divine unity hath been implanted amidst Thy servants, to shield them by Thy bounty.  Thou art, verily, the Gracious, the All-Bountiful.And, again, I ask Thee by the sweet showers of Thy grace and the billows of the ocean of Thy favor, to ordain for Thy saints that which shall solace their eyes and comfort their hearts.  Lord!  Thou seest him that kneeleth yearning to arise and serve Thee, the dead calling for eternal life from the ocean of Thy favor and craving to soar to the heavens of Thy wealth, the stranger longing for his home of glory 'neath the canopy of Thy grace, the seeker hastening by Thy mercy to Thy door of bounty, the sinful turning to the ocean of forgiveness and pardon.By Thy sovereignty, O Thou Who art glorified in the hearts of men!  I have turned to Thee, forsaking mine own will and desire, that Thy holy will and pleasure may rule within me and direct me according to that which the pen of Thy eternal decree hath destined for me.  This servant, O Lord, though helpless turneth to the Orb of Thy Power, though abased hasteneth unto the Dayspring of Glory, though needy craveth the Ocean of Thy Grace.  I beseech Thee by Thy favor and bounty, cast him not away.Thou art verily the Almighty, the Pardoner, the Compassionate.
 
 -- Bahá'u'lláh
 
-BH03562 «[English](../en/prayers/#BH03562)» «[Nederlands](../nl/prayers/#BH03562)» 
+BH03562 «[Nederlands](../../nl/prayers/#BH03562)» 
 
 ----
 
@@ -3291,7 +3292,7 @@ Glorified art Thou, O Lord my God!  I give Thee thanks inasmuch as Thou hast cal
 
 -- Bahá'u'lláh
 
-BH05543 «[English](../en/prayers/#BH05543)» 
+BH05543 
 
 ----
 
@@ -3301,7 +3302,7 @@ I beseech Thee, O my God, by all the transcendent glory of Thy Name, to clothe T
 
 -- Bahá'u'lláh
 
-BH00531TRA «[English](../en/prayers/#BH00531TRA)» «[Nederlands](../nl/prayers/#BH00531TRA)» «[Español](../es/prayers/#BH00531TRA)» 
+BH00531TRA «[Nederlands](../../nl/prayers/#BH00531TRA)» «[Español](../../es/prayers/#BH00531TRA)» 
 
 ----
 
@@ -3311,7 +3312,7 @@ He is the Gracious, the All-Bountiful!O God, my God!  Thy call hath attracted me
 
 -- Bahá'u'lláh
 
-BH06026 «[English](../en/prayers/#BH06026)» «[Nederlands](../nl/prayers/#BH06026)» «[Português (BR)](../pt/prayers/#BH06026)» 
+BH06026 «[Nederlands](../../nl/prayers/#BH06026)» «[Português (BR)](../../pt/prayers/#BH06026)» 
 
 ----
 
@@ -3321,7 +3322,7 @@ O my God, the God of bounty and mercy! Thou art that King by Whose commanding wo
 
 -- Bahá'u'lláh
 
-BH00554 «[English](../en/prayers/#BH00554)» «[Esperanto](../eo/prayers/#BH00554)» «[Nederlands](../nl/prayers/#BH00554)» 
+BH00554 «[Nederlands](../../nl/prayers/#BH00554)» «[Esperanto](../../eo/prayers/#BH00554)» 
 
 ----
 
@@ -3331,7 +3332,7 @@ Praised be Thou, O Lord my God! I bear witness that from eternity Thou wert exal
 
 -- Bahá'u'lláh
 
-BH08594 «[English](../en/prayers/#BH08594)» «[Português (BR)](../pt/prayers/#BH08594)» 
+BH08594 «[Português (BR)](../../pt/prayers/#BH08594)» 
 
 ----
 
@@ -3341,7 +3342,7 @@ Lauded be Thy name, O Lord my God! Thou seest how I have turned myself toward Th
 
 -- Bahá'u'lláh
 
-bpn6665 «[English](../en/prayers/#bpn6665)» 
+bpn6665 
 
 ----
 
@@ -3351,7 +3352,7 @@ Magnified, O Lord my God, be Thy Name, whereby the trees of the garden of Thy Re
 
 -- Bahá'u'lláh
 
-BH08824 «[English](../en/prayers/#BH08824)» 
+BH08824 
 
 ----
 
@@ -3361,7 +3362,7 @@ Create in me a pure heart, O my God, and renew a tranquil conscience within me, 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[English](../en/prayers/#BH04421HEA)» «[Esperanto](../eo/prayers/#BH04421HEA)» «[Frysk](../fy/prayers/#BH04421HEA)» «[Nederlands](../nl/prayers/#BH04421HEA)» 
+BH04421HEA «[Nederlands](../../nl/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» 
 
 ----
 
@@ -3371,7 +3372,7 @@ From the sweet-scented streams of Thine eternity give me to drink, O my God, and
 
 -- Bahá'u'lláh
 
-BH06296 «[English](../en/prayers/#BH06296)» «[Nederlands](../nl/prayers/#BH06296)» «[Português (BR)](../pt/prayers/#BH06296)» 
+BH06296 «[Nederlands](../../nl/prayers/#BH06296)» «[Português (BR)](../../pt/prayers/#BH06296)» 
 
 ----
 
@@ -3381,7 +3382,7 @@ O my Lord!  Make Thy beauty to be my food, and Thy presence my drink, and Thy pl
 
 -- Bahá'u'lláh
 
-BH07426FOO «[English](../en/prayers/#BH07426FOO)» «[Esperanto](../eo/prayers/#BH07426FOO)» «[Italiano](../it/prayers/#BH07426FOO)» 
+BH07426FOO «[Esperanto](../../eo/prayers/#BH07426FOO)» «[Italiano](../../it/prayers/#BH07426FOO)» 
 
 ----
 
@@ -3391,7 +3392,7 @@ Vouchsafe unto me, O my God, the full measure of Thy love and Thy good-pleasure,
 
 -- Báb
 
-BB00374 «[English](../en/prayers/#BB00374)» «[Español](../es/prayers/#BB00374)» 
+BB00374 «[Español](../../es/prayers/#BB00374)» 
 
 ----
 
@@ -3401,7 +3402,7 @@ He is God!O God, my God! These are servants attracted in Thy days by the fragran
 
 -- Abdu'l-Bahá
 
-AB02326 «[English](../en/prayers/#AB02326)» «[Nederlands](../nl/prayers/#AB02326)» «[Português (BR)](../pt/prayers/#AB02326)» 
+AB02326 «[Nederlands](../../nl/prayers/#AB02326)» «[Português (BR)](../../pt/prayers/#AB02326)» 
 
 ----
 
@@ -3411,17 +3412,17 @@ O my God! O my God! Glory be unto Thee for that Thou hast confirmed me to the co
 
 -- Abdu'l-Bahá
 
-AB07709CON «[English](../en/prayers/#AB07709CON)» «[Nederlands](../nl/prayers/#AB07709CON)» «[Español](../es/prayers/#AB07709CON)» 
+AB07709CON «[Nederlands](../../nl/prayers/#AB07709CON)» «[Español](../../es/prayers/#AB07709CON)» 
 
 ----
 
 
 <a id="AB00044PRO"></a> 
-O Thou Provider! Thou hast breathed over the friends in the West the sweet fragrance of the Holy Spirit, and with the light of divine guidance Thou hast lit up the western sky. Thou hast made those who were once remote to draw near unto Thyself; Thou hast turned strangers into loving friends; Thou hast awakened those who slept; Thou hast made the heedless mindful.O Thou Provider! Assist Thou these noble friends to win Thy good pleasure, and make them well wishers of stranger and friend alike. Bring them into the world that abideth forever; grant them a portion of heavenly grace; cause them to be true Baha&#39;is, sincerely of God; save them from outward semblances, and establish them firmly in the truth. Make them signs and tokens of the Kingdom, luminous stars above the horizons of this nether life. Make them to be a comfort and a solace to humankind and servants to the peace of the world. Exhilarate them with the wine of Thy counsel, and grant that all of them may tread the path of Thy commandments.O Thou Provider! The dearest wish of this servant of Thy Threshold is to behold the friends of East and West in close embrace; to see all the members of human society gathered with love in a single great assemblage, even as individual drops of water collected in one mighty sea; to behold them all as birds in one garden of roses, as pearls of one ocean, as leaves of one tree, as rays of one sun.Thou art the Mighty, the Powerful, and Thou art the God of strength, the Omnipotent, the All-Seeing.
+O Thou Provider! Thou hast breathed over the friends in the West the sweet fragrance of the Holy Spirit, and with the light of divine guidance Thou hast lit up the western sky. Thou hast made those who were once remote to draw near unto Thyself; Thou hast turned strangers into loving friends; Thou hast awakened those who slept; Thou hast made the heedless mindful.O Thou Provider! Assist Thou these noble friends to win Thy good pleasure, and make them well wishers of stranger and friend alike. Bring them into the world that abideth forever; grant them a portion of heavenly grace; cause them to be true Baha'is, sincerely of God; save them from outward semblances, and establish them firmly in the truth. Make them signs and tokens of the Kingdom, luminous stars above the horizons of this nether life. Make them to be a comfort and a solace to humankind and servants to the peace of the world. Exhilarate them with the wine of Thy counsel, and grant that all of them may tread the path of Thy commandments.O Thou Provider! The dearest wish of this servant of Thy Threshold is to behold the friends of East and West in close embrace; to see all the members of human society gathered with love in a single great assemblage, even as individual drops of water collected in one mighty sea; to behold them all as birds in one garden of roses, as pearls of one ocean, as leaves of one tree, as rays of one sun.Thou art the Mighty, the Powerful, and Thou art the God of strength, the Omnipotent, the All-Seeing.
 
 -- Abdu'l-Bahá
 
-AB00044PRO «[English](../en/prayers/#AB00044PRO)» «[Nederlands](../nl/prayers/#AB00044PRO)» 
+AB00044PRO «[Nederlands](../../nl/prayers/#AB00044PRO)» 
 
 ----
 
@@ -3431,7 +3432,7 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 
 -- Abdu'l-Bahá
 
-bpn6797 «[English](../en/prayers/#bpn6797)» 
+bpn6797 
 
 ----
 
@@ -3441,7 +3442,7 @@ O God, my God! These are Thy feeble servants; they are Thy loyal bondsmen and Th
 
 -- Abdu'l-Bahá
 
-AB00128FEE «[English](../en/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Português (BR)](../pt/prayers/#AB00128FEE)» «[Español](../es/prayers/#AB00128FEE)» 
+AB00128FEE «[Español](../../es/prayers/#AB00128FEE)» «[Português (BR)](../../pt/prayers/#AB00128FEE)» «[Português (BR)](../../pt/prayers/#AB00128FEE)» 
 
 ----
 
@@ -3451,7 +3452,7 @@ O God, my God! This is thy radiant servant, Thy spiritual thrall, who hath drawn
 
 -- Abdu'l-Bahá
 
-AB00083RAD «[English](../en/prayers/#AB00083RAD)» 
+AB00083RAD 
 
 ----
 
@@ -3461,7 +3462,7 @@ O my Lord! O my Lord! This is a lamp lighted by the fire of Thy love and ablaze 
 
 -- Abdu'l-Bahá
 
-AB11281 «[English](../en/prayers/#AB11281)» «[Nederlands](../nl/prayers/#AB11281)» 
+AB11281 «[Nederlands](../../nl/prayers/#AB11281)» 
 
 ----
 
@@ -3471,7 +3472,7 @@ O my God! O my God! This, Thy servant, hath advanced towards Thee, is passionate
 
 -- Abdu'l-Bahá
 
-AB09139 «[English](../en/prayers/#AB09139)» «[Français](../fr/prayers/#AB09139)» «[Nederlands](../nl/prayers/#AB09139)» «[Português (BR)](../pt/prayers/#AB09139)» 
+AB09139 «[Nederlands](../../nl/prayers/#AB09139)» «[Português (BR)](../../pt/prayers/#AB09139)» «[Français](../../fr/prayers/#AB09139)» 
 
 ----
 
@@ -3485,7 +3486,7 @@ I magnify Thy Name, O my God, and offer thanksgiving unto Thee, O my Desire, ina
 
 -- Bahá'u'lláh
 
-BH00053MAG «[English](../en/prayers/#BH00053MAG)» 
+BH00053MAG 
 
 ----
 
@@ -3495,7 +3496,7 @@ Glorified be Thy name, O Lord my God!  I beseech Thee by Thy power that hath enc
 
 -- Bahá'u'lláh
 
-BH08244 «[English](../en/prayers/#BH08244)» «[Esperanto](../eo/prayers/#BH08244)» 
+BH08244 «[Esperanto](../../eo/prayers/#BH08244)» 
 
 ----
 
@@ -3505,7 +3506,7 @@ O God, my God!  I have turned in repentance unto Thee, and verily Thou art the P
 
 -- Bahá'u'lláh
 
-BH07775 «[English](../en/prayers/#BH07775)» 
+BH07775 
 
 ----
 
@@ -3515,7 +3516,7 @@ Lauded be Thy name, O my God! Aid Thou by Thy strengthening grace Thy servants a
 
 -- Bahá'u'lláh
 
-bpn6815 «[English](../en/prayers/#bpn6815)» 
+bpn6815 
 
 ----
 
@@ -3525,7 +3526,7 @@ O Thou Whose nearness is my wish, Whose presence is my hope, Whose remembrance i
 
 -- Bahá'u'lláh
 
-BH08604 «[English](../en/prayers/#BH08604)» «[Afrikaans](../af/prayers/#BH08604)» 
+BH08604 «[Afrikaans](../../af/prayers/#BH08604)» 
 
 ----
 
@@ -3535,7 +3536,7 @@ Glorified art Thou, O Lord my God!  I beseech Thee by Him Who is Thy Most Great 
 
 -- Bahá'u'lláh
 
-BH08822 «[English](../en/prayers/#BH08822)» «[Esperanto](../eo/prayers/#BH08822)» «[Português (BR)](../pt/prayers/#BH08822)» «[Español](../es/prayers/#BH08822)» 
+BH08822 «[Español](../../es/prayers/#BH08822)» «[Esperanto](../../eo/prayers/#BH08822)» «[Português (BR)](../../pt/prayers/#BH08822)» 
 
 ----
 
@@ -3545,7 +3546,7 @@ Praised and glorified art Thou, O God!  Grant that the day of attaining Thy holy
 
 -- Báb
 
-BB00621 «[English](../en/prayers/#BB00621)» «[Español](../es/prayers/#BB00621)» 
+BB00621 «[Español](../../es/prayers/#BB00621)» 
 
 ----
 
@@ -3555,7 +3556,7 @@ Praise be to Thee, O Lord, my Best Beloved!  Make me steadfast in Thy Cause, and
 
 -- Báb
 
-BB00554 «[English](../en/prayers/#BB00554)» «[Nederlands](../nl/prayers/#BB00554)» 
+BB00554 «[Nederlands](../../nl/prayers/#BB00554)» 
 
 ----
 
@@ -3565,17 +3566,17 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[English](../en/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
 
 ----
 
 
 <a id="AB00687SEE"></a> 
-O Thou, my God, Who guidest the seeker to the pathway that leadeth aright, Who deliverest the lost and blinded soul out of the wastes of perdition, Thou Who bestowest upon the sincere great bounties and favors, Who guardest the frightened within Thine impregnable refuge, Who answerest, from Thine all-highest horizon, the cry of those who cry out unto Thee.  Praised be Thou, O my Lord!  Thou hast guided the distracted out of the death of unbelief, and hast brought those who draw nigh unto Thee to the journey&#39;s goal, and hast rejoiced the assured among Thy servants by granting them their most cherished desires, and hast, from Thy Kingdom of beauty, opened before the faces of those who yearn after Thee the gates of reunion, and hast rescued them from the fires of deprivation and loss—so that they hastened unto Thee and gained Thy presence, and arrived at Thy welcoming door, and received of gifts an abundant share.O my Lord, they thirsted, Thou didst lift to their parched lips the waters of reunion.  O Tender One, Bestowing One, Thou didst calm their pain with the balm of Thy bounty and grace, and didst heal their ailments with the sovereign medicine of Thy compassion.  O Lord, make firm their feet on Thy straight path, make wide for them the needle&#39;s eye, and cause them, dressed in royal robes, to walk in glory for ever and ever.Verily, Thou art the Generous, the Ever-Giving, the Precious, the Most Bountiful.  There is none other God but Thee, the Mighty, the Powerful, the Exalted, the Victorious.
+O Thou, my God, Who guidest the seeker to the pathway that leadeth aright, Who deliverest the lost and blinded soul out of the wastes of perdition, Thou Who bestowest upon the sincere great bounties and favors, Who guardest the frightened within Thine impregnable refuge, Who answerest, from Thine all-highest horizon, the cry of those who cry out unto Thee.  Praised be Thou, O my Lord!  Thou hast guided the distracted out of the death of unbelief, and hast brought those who draw nigh unto Thee to the journey's goal, and hast rejoiced the assured among Thy servants by granting them their most cherished desires, and hast, from Thy Kingdom of beauty, opened before the faces of those who yearn after Thee the gates of reunion, and hast rescued them from the fires of deprivation and loss—so that they hastened unto Thee and gained Thy presence, and arrived at Thy welcoming door, and received of gifts an abundant share.O my Lord, they thirsted, Thou didst lift to their parched lips the waters of reunion.  O Tender One, Bestowing One, Thou didst calm their pain with the balm of Thy bounty and grace, and didst heal their ailments with the sovereign medicine of Thy compassion.  O Lord, make firm their feet on Thy straight path, make wide for them the needle's eye, and cause them, dressed in royal robes, to walk in glory for ever and ever.Verily, Thou art the Generous, the Ever-Giving, the Precious, the Most Bountiful.  There is none other God but Thee, the Mighty, the Powerful, the Exalted, the Victorious.
 
 -- Abdu'l-Bahá
 
-AB00687SEE «[English](../en/prayers/#AB00687SEE)» «[Nederlands](../nl/prayers/#AB00687SEE)» 
+AB00687SEE «[Nederlands](../../nl/prayers/#AB00687SEE)» 
 
 ----
 
@@ -3589,7 +3590,7 @@ AB00687SEE «[English](../en/prayers/#AB00687SEE)» «[Nederlands](../nl/prayers
 
 -- Bahá'u'lláh
 
-BH02022 «[English](../en/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH02022)» «[Frysk](../fy/prayers/#BH02022)» «[Tuvalu](../tvl/prayers/#BH02022)» «[Português (BR)](../pt/prayers/#BH02022)» 
+BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
 
 ----
 
@@ -3603,7 +3604,7 @@ BH02022 «[English](../en/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH020
 
 -- Bahá'u'lláh
 
-BH01026 «[English](../en/prayers/#BH01026)» «[Nederlands](../nl/prayers/#BH01026)» 
+BH01026 «[Nederlands](../../nl/prayers/#BH01026)» 
 
 ----
 
@@ -3617,17 +3618,17 @@ BH01026 «[English](../en/prayers/#BH01026)» «[Nederlands](../nl/prayers/#BH01
 
 -- Bahá'u'lláh
 
-BH02307 «[English](../en/prayers/#BH02307)» «[Tuvalu](../tvl/prayers/#BH02307)» «[Português (BR)](../pt/prayers/#BH02307)» 
+BH02307 «[Tuvalu](../../tvl/prayers/#BH02307)» «[Português (BR)](../../pt/prayers/#BH02307)» 
 
 ----
 
 
 <a id="AB03082"></a> 
-##Tablet of Visitation*(This prayer, revealed by ‘Abdu’l-Bahá, is read at His Shrine.  It is also used in private prayer.) *Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant; it will be even as meeting Him face to face.He is the All-Glorious!O God, my God!  Lowly and tearful, I raise my suppliant hands to Thee and cover my face in the dust of that Threshold of Thine, exalted above the knowledge of the learned, and the praise of all that glorify Thee.  Graciously look upon Thy servant, humble and lowly at Thy door, with the glances of the eye of Thy mercy, and immerse him in the Ocean of Thine eternal grace.Lord!  He is a poor and lowly servant of Thine, enthralled and imploring Thee, captive in Thy hand, praying fervently to Thee, trusting in Thee, in tears before Thy face, calling to Thee and beseeching Thee, saying:O Lord, my God!  Give me Thy grace to serve Thy loved ones, strengthen me in my servitude to Thee, illumine my brow with the light of adoration in Thy court of holiness, and of prayer to Thy kingdom of grandeur.  Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts.  Lord!  Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me.  Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest.With this prayer doth Thy servant call Thee, at dawntide and in the night-season.  Fulfill his heart&#39;s desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate.
+##Tablet of Visitation*(This prayer, revealed by ‘Abdu’l-Bahá, is read at His Shrine.  It is also used in private prayer.) *Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant; it will be even as meeting Him face to face.He is the All-Glorious!O God, my God!  Lowly and tearful, I raise my suppliant hands to Thee and cover my face in the dust of that Threshold of Thine, exalted above the knowledge of the learned, and the praise of all that glorify Thee.  Graciously look upon Thy servant, humble and lowly at Thy door, with the glances of the eye of Thy mercy, and immerse him in the Ocean of Thine eternal grace.Lord!  He is a poor and lowly servant of Thine, enthralled and imploring Thee, captive in Thy hand, praying fervently to Thee, trusting in Thee, in tears before Thy face, calling to Thee and beseeching Thee, saying:O Lord, my God!  Give me Thy grace to serve Thy loved ones, strengthen me in my servitude to Thee, illumine my brow with the light of adoration in Thy court of holiness, and of prayer to Thy kingdom of grandeur.  Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts.  Lord!  Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me.  Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest.With this prayer doth Thy servant call Thee, at dawntide and in the night-season.  Fulfill his heart's desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate.
 
 -- Abdu'l-Bahá
 
-AB03082 «[English](../en/prayers/#AB03082)» 
+AB03082 
 
 ----
 
@@ -3641,27 +3642,27 @@ AB03082 «[English](../en/prayers/#AB03082)»
 
 -- Abdu'l-Bahá
 
-AB00049RAP «[English](../en/prayers/#AB00049RAP)» «[Esperanto](../eo/prayers/#AB00049RAP)» 
+AB00049RAP «[Esperanto](../../eo/prayers/#AB00049RAP)» 
 
 ----
 
 
 <a id="AB00094WEA"></a> 
-##Revealed to the Bahá&#39;ís of the United States and Canada*Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.O God! O God! Thou seest my weakness, lowliness and humility before Thy creatures; nevertheless, I have trusted in Thee and have arisen in the promotion of Thy teachings among Thy strong servants, relying on Thy power and might.O Lord! I am a broken-winged bird and desire to soar in Thy limitless space. How is it possible for me to do this save through Thy providence and grace, Thy confirmation and assistance.O Lord! Have pity on my weakness, and strengthen me with Thy power. O Lord! Have pity on my impotence, and assist me with Thy might and majesty.O Lord! Should the breath of the Holy Spirit confirm the weakest of creatures, he would attain all to which he aspireth and would possess anything he desireth. Indeed, Thou hast assisted Thy servants in the past and, though they were the weakest of Thy creatures, the lowliest of Thy servants and the most insignificant of those who lived upon the earth, through Thy sanction and potency they took precedence over the most glorious of Thy people and the most noble of mankind. Whereas formerly they were as moths, they became as royal falcons, and whereas before they were as brooks, they became as seas, through Thy bestowal and Thy mercy. They became, through Thy most great favor, stars shining on the horizon of guidance, birds singing in the rose gardens of immortality, lions roaring in the forests of knowledge and wisdom, and whales swimming in the oceans of life. Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of the merciful.
+##Revealed to the Bahá'ís of the United States and Canada*Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.O God! O God! Thou seest my weakness, lowliness and humility before Thy creatures; nevertheless, I have trusted in Thee and have arisen in the promotion of Thy teachings among Thy strong servants, relying on Thy power and might.O Lord! I am a broken-winged bird and desire to soar in Thy limitless space. How is it possible for me to do this save through Thy providence and grace, Thy confirmation and assistance.O Lord! Have pity on my weakness, and strengthen me with Thy power. O Lord! Have pity on my impotence, and assist me with Thy might and majesty.O Lord! Should the breath of the Holy Spirit confirm the weakest of creatures, he would attain all to which he aspireth and would possess anything he desireth. Indeed, Thou hast assisted Thy servants in the past and, though they were the weakest of Thy creatures, the lowliest of Thy servants and the most insignificant of those who lived upon the earth, through Thy sanction and potency they took precedence over the most glorious of Thy people and the most noble of mankind. Whereas formerly they were as moths, they became as royal falcons, and whereas before they were as brooks, they became as seas, through Thy bestowal and Thy mercy. They became, through Thy most great favor, stars shining on the horizon of guidance, birds singing in the rose gardens of immortality, lions roaring in the forests of knowledge and wisdom, and whales swimming in the oceans of life. Verily, Thou art the Clement, the Powerful, the Mighty, and the Most Merciful of the merciful.
 
 -- Abdu'l-Bahá
 
-AB00094WEA «[English](../en/prayers/#AB00094WEA)» 
+AB00094WEA 
 
 ----
 
 
 <a id="AB00169FRA"></a> 
-##Revealed to the Bahá&#39;ís of Canada and GreenlandPraise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.O Lord! Loose their tongues to make mention of Thee amongst Thy people, suffer them to speak forth Thy praise through Thy grace and loving-kindness, assist them with the cohorts of Thine angels, strengthen their loins in Thy service, and make them the signs of Thy guidance amongst Thy creatures.Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All-Merciful.
+##Revealed to the Bahá'ís of Canada and GreenlandPraise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.O Lord! Loose their tongues to make mention of Thee amongst Thy people, suffer them to speak forth Thy praise through Thy grace and loving-kindness, assist them with the cohorts of Thine angels, strengthen their loins in Thy service, and make them the signs of Thy guidance amongst Thy creatures.Verily, Thou art the All-Powerful, the Most Exalted, the Ever-Forgiving, the All-Merciful.
 
 -- Abdu'l-Bahá
 
-AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers/#AB00169FRA)» «[Português (BR)](../pt/prayers/#AB00169FRA)» 
+AB00169FRA «[Nederlands](../../nl/prayers/#AB00169FRA)» «[Português (BR)](../../pt/prayers/#AB00169FRA)» 
 
 ----
 
@@ -3671,7 +3672,7 @@ AB00169FRA «[English](../en/prayers/#AB00169FRA)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-AB00218SOU «[English](../en/prayers/#AB00218SOU)» «[Nederlands](../nl/prayers/#AB00218SOU)» 
+AB00218SOU «[Nederlands](../../nl/prayers/#AB00218SOU)» 
 
 ----
 
@@ -3681,47 +3682,47 @@ AB00218SOU «[English](../en/prayers/#AB00218SOU)» «[Nederlands](../nl/prayers
 
 -- Abdu'l-Bahá
 
-AB00169BEH «[English](../en/prayers/#AB00169BEH)» 
+AB00169BEH 
 
 ----
 
 
 <a id="AB00241HIG"></a> 
-##Revealed to the Bahá&#39;ís of the Northeastern States*The following supplication is to be read by the teachers and friends daily:O Thou kind Lord! Praise be unto Thee that Thou hast shown us the highway of guidance, opened the doors of the kingdom and manifested Thyself through the Sun of Reality. To the blind Thou hast given sight; to the deaf Thou hast granted hearing; Thou hast resuscitated the dead; Thou hast enriched the poor; Thou hast shown the way to those who have gone astray; Thou hast led those with parched lips to the fountain of guidance; Thou hast suffered the thirsty fish to reach the ocean of reality; and Thou hast invited the wandering birds to the rose garden of grace.O Thou Almighty! We are Thy servants and Thy poor ones; we are remote and yearn for Thy presence, are athirst for the water of Thy fountain, are ill, longing for Thy healing. We are walking in Thy path and have no aim or hope save the diffusion of Thy fragrance, so that all souls may raise the cry of &#34;O God, guide us to the straight path.&#34; May their eyes be opened to behold the light, and may they be freed from the darkness of ignorance. May they gather around the lamp of Thy guidance. May every portionless one receive a share. May the deprived become the confidants of Thy mysteries.O Almighty! Look upon us with the glance of mercifulness. Grant us heavenly confirmation. Bestow upon us the breath of the Holy Spirit, so that we may be assisted in Thy service and, like unto brilliant stars, shine in these regions with the light of Thy guidance.Verily, Thou art the Powerful, the Mighty, the Wise and the Seeing.
+##Revealed to the Bahá'ís of the Northeastern States*The following supplication is to be read by the teachers and friends daily:O Thou kind Lord! Praise be unto Thee that Thou hast shown us the highway of guidance, opened the doors of the kingdom and manifested Thyself through the Sun of Reality. To the blind Thou hast given sight; to the deaf Thou hast granted hearing; Thou hast resuscitated the dead; Thou hast enriched the poor; Thou hast shown the way to those who have gone astray; Thou hast led those with parched lips to the fountain of guidance; Thou hast suffered the thirsty fish to reach the ocean of reality; and Thou hast invited the wandering birds to the rose garden of grace.O Thou Almighty! We are Thy servants and Thy poor ones; we are remote and yearn for Thy presence, are athirst for the water of Thy fountain, are ill, longing for Thy healing. We are walking in Thy path and have no aim or hope save the diffusion of Thy fragrance, so that all souls may raise the cry of "O God, guide us to the straight path." May their eyes be opened to behold the light, and may they be freed from the darkness of ignorance. May they gather around the lamp of Thy guidance. May every portionless one receive a share. May the deprived become the confidants of Thy mysteries.O Almighty! Look upon us with the glance of mercifulness. Grant us heavenly confirmation. Bestow upon us the breath of the Holy Spirit, so that we may be assisted in Thy service and, like unto brilliant stars, shine in these regions with the light of Thy guidance.Verily, Thou art the Powerful, the Mighty, the Wise and the Seeing.
 
 -- Abdu'l-Bahá
 
-AB00241HIG «[English](../en/prayers/#AB00241HIG)» 
+AB00241HIG 
 
 ----
 
 
 <a id="AB00209UND"></a> 
-##Revealed to the Bahá&#39;ís of the Southern States*Every soul who travels through the cities, villages and hamlets of these States and is engaged in the diffusion of the fragrances of God, should peruse this commune every morning:O my God! O my God! Thou seest me in my lowliness and weakness, occupied with the greatest undertaking, determined to raise Thy word among the masses and to spread Thy teachings among Thy peoples. How can I succeed unless Thou assist me with the breath of the Holy Spirit, help me to triumph by the hosts of Thy glorious kingdom, and shower upon me Thy confirmations, which alone can change a gnat into an eagle, a drop of water into rivers and seas, and an atom into lights and suns? O my Lord! Assist me with Thy triumphant and effective might, so that my tongue may utter Thy praises and attributes among all people and my soul overflow with the wine of Thy love and knowledge.Thou art the Omnipotent and the Doer of whatsoever Thou willest.
+##Revealed to the Bahá'ís of the Southern States*Every soul who travels through the cities, villages and hamlets of these States and is engaged in the diffusion of the fragrances of God, should peruse this commune every morning:O my God! O my God! Thou seest me in my lowliness and weakness, occupied with the greatest undertaking, determined to raise Thy word among the masses and to spread Thy teachings among Thy peoples. How can I succeed unless Thou assist me with the breath of the Holy Spirit, help me to triumph by the hosts of Thy glorious kingdom, and shower upon me Thy confirmations, which alone can change a gnat into an eagle, a drop of water into rivers and seas, and an atom into lights and suns? O my Lord! Assist me with Thy triumphant and effective might, so that my tongue may utter Thy praises and attributes among all people and my soul overflow with the wine of Thy love and knowledge.Thou art the Omnipotent and the Doer of whatsoever Thou willest.
 
 -- Abdu'l-Bahá
 
-AB00209UND «[English](../en/prayers/#AB00209UND)» «[Nederlands](../nl/prayers/#AB00209UND)» 
+AB00209UND «[Nederlands](../../nl/prayers/#AB00209UND)» 
 
 ----
 
 
 <a id="AB00184KIN"></a> 
-##Revealed to the Bahá&#39;ís of the Central States*Let the spreaders of the fragrances of God recite this prayer every morning:O Lord, my God! Praise and thanksgiving be unto Thee for Thou hast guided me to the highway of the kingdom, suffered me to walk in this straight and far-stretching path, illumined my eye by beholding the splendors of Thy light, inclined my ear to the melodies of the birds of holiness from the kingdom of mysteries and attracted my heart with Thy love among the righteous.O Lord! Confirm me with the Holy Spirit, so that I may call in Thy Name amongst the nations and give the glad tidings of the manifestation of Thy kingdom amongst mankind.O Lord! I am weak, strengthen me with Thy power and potency. My tongue falters, suffer me to utter Thy commemoration and praise. I am lowly, honor me through admitting me into Thy kingdom. I am remote, cause me to approach the threshold of Thy mercifulness. O Lord! Make me a brilliant lamp, a shining star and a blessed tree, adorned with fruit, its branches overshadowing all these regions. Verily, Thou art the Mighty, the Powerful and Unconstrained.
+##Revealed to the Bahá'ís of the Central States*Let the spreaders of the fragrances of God recite this prayer every morning:O Lord, my God! Praise and thanksgiving be unto Thee for Thou hast guided me to the highway of the kingdom, suffered me to walk in this straight and far-stretching path, illumined my eye by beholding the splendors of Thy light, inclined my ear to the melodies of the birds of holiness from the kingdom of mysteries and attracted my heart with Thy love among the righteous.O Lord! Confirm me with the Holy Spirit, so that I may call in Thy Name amongst the nations and give the glad tidings of the manifestation of Thy kingdom amongst mankind.O Lord! I am weak, strengthen me with Thy power and potency. My tongue falters, suffer me to utter Thy commemoration and praise. I am lowly, honor me through admitting me into Thy kingdom. I am remote, cause me to approach the threshold of Thy mercifulness. O Lord! Make me a brilliant lamp, a shining star and a blessed tree, adorned with fruit, its branches overshadowing all these regions. Verily, Thou art the Mighty, the Powerful and Unconstrained.
 
 -- Abdu'l-Bahá
 
-AB00184KIN «[English](../en/prayers/#AB00184KIN)» 
+AB00184KIN 
 
 ----
 
 
 <a id="AB00210BIR"></a> 
-##Revealed to the Bahá&#39;ís of the Western States*The following commune is to be read ... every day:O God! O God! This is a broken-winged bird and his flight is very slow - assist him so that he may fly toward the apex of prosperity and salvation, wing his way with the utmost joy and happiness throughout the illimitable space, raise his melody in Thy Supreme Name in all the regions, exhilarate the ears with this call, and brighten the eyes by beholding the signs of guidance.O Lord! I am single, alone and lowly. For me there is no support save Thee, no helper except Thee and no sustainer beside Thee. Confirm me in Thy service, assist me with the cohorts of Thy angels, make me victorious in the promotion of Thy Word and suffer me to speak out Thy wisdom amongst Thy creatures. Verily, Thou art the helper of the weak and the defender of the little ones, and verily Thou art the Powerful, the Mighty and the Unconstrained.
+##Revealed to the Bahá'ís of the Western States*The following commune is to be read ... every day:O God! O God! This is a broken-winged bird and his flight is very slow - assist him so that he may fly toward the apex of prosperity and salvation, wing his way with the utmost joy and happiness throughout the illimitable space, raise his melody in Thy Supreme Name in all the regions, exhilarate the ears with this call, and brighten the eyes by beholding the signs of guidance.O Lord! I am single, alone and lowly. For me there is no support save Thee, no helper except Thee and no sustainer beside Thee. Confirm me in Thy service, assist me with the cohorts of Thy angels, make me victorious in the promotion of Thy Word and suffer me to speak out Thy wisdom amongst Thy creatures. Verily, Thou art the helper of the weak and the defender of the little ones, and verily Thou art the Powerful, the Mighty and the Unconstrained.
 
 -- Abdu'l-Bahá
 
-AB00210BIR «[English](../en/prayers/#AB00210BIR)» «[Esperanto](../eo/prayers/#AB00210BIR)» 
+AB00210BIR «[Esperanto](../../eo/prayers/#AB00210BIR)» 
 
 ----
 
@@ -3735,7 +3736,7 @@ Praise be to Thee, O Lord my God!  I implore Thee, by Thy Name which none hath b
 
 -- Bahá'u'lláh
 
-BH08242 «[English](../en/prayers/#BH08242)» «[Português (BR)](../pt/prayers/#BH08242)» 
+BH08242 «[Português (BR)](../../pt/prayers/#BH08242)» 
 
 ----
 
@@ -3745,7 +3746,7 @@ O God, Who art the Author of all Manifestations, the Source of all Sources, the 
 
 -- Bahá'u'lláh
 
-BH08363 «[English](../en/prayers/#BH08363)» «[Español](../es/prayers/#BH08363)» 
+BH08363 «[Español](../../es/prayers/#BH08363)» 
 
 ----
 
@@ -3755,7 +3756,7 @@ Magnified be Thy name, O my God, for that Thou hast manifested the Day which is 
 
 -- Bahá'u'lláh
 
-BH08433 «[English](../en/prayers/#BH08433)» «[Esperanto](../eo/prayers/#BH08433)» «[Français](../fr/prayers/#BH08433)» 
+BH08433 «[Esperanto](../../eo/prayers/#BH08433)» «[Français](../../fr/prayers/#BH08433)» 
 
 ----
 
@@ -3765,7 +3766,7 @@ Say: Magnified be Thy Name, O Lord my God!  I beseech Thee by Thy Name through w
 
 -- Bahá'u'lláh
 
-BH00223MAG «[English](../en/prayers/#BH00223MAG)» 
+BH00223MAG 
 
 ----
 
@@ -3775,7 +3776,7 @@ Glorified art Thou, O Lord my God! I pray Thee, by Him Who is the Dayspring of T
 
 -- Bahá'u'lláh
 
-bpn6670 «[English](../en/prayers/#bpn6670)» 
+bpn6670 
 
 ----
 
@@ -3785,17 +3786,17 @@ Glory be to Thee Who hast caused all the holy Ones to confess their helplessness
 
 -- Bahá'u'lláh
 
-bpn6787 «[English](../en/prayers/#bpn6787)» 
+bpn6787 
 
 ----
 
 
 <a id="bpn6806"></a> 
-O my Lord and my Master! O my Desired One and my Best Beloved! O Thou who art the Beloved of all that are in the heavens and on the earth! I beseech Thee to grant, from the ocean of Thy bounty and the day-star of Thy heavenly grace, that I may be cursed, reviled and denounced a myriad times for the sake of Thy love, that these ears of mine may but once be blessed by hearing Thy sweet words: &#34;Verily thou art of the people of Bahá&#34;.*Fire and Light, Bahá’í World XVIII, section VIII
+O my Lord and my Master! O my Desired One and my Best Beloved! O Thou who art the Beloved of all that are in the heavens and on the earth! I beseech Thee to grant, from the ocean of Thy bounty and the day-star of Thy heavenly grace, that I may be cursed, reviled and denounced a myriad times for the sake of Thy love, that these ears of mine may but once be blessed by hearing Thy sweet words: "Verily thou art of the people of Bahá".*Fire and Light, Bahá’í World XVIII, section VIII
 
 -- Bahá'u'lláh
 
-bpn6806 «[English](../en/prayers/#bpn6806)» 
+bpn6806 
 
 ----
 
@@ -3805,7 +3806,7 @@ Glory be unto Thee, O Lord of the world and Desire of the nations, O Thou Who ha
 
 -- Bahá'u'lláh
 
-BH00308DES «[English](../en/prayers/#BH00308DES)» «[Nederlands](../nl/prayers/#BH00308DES)» 
+BH00308DES «[Nederlands](../../nl/prayers/#BH00308DES)» 
 
 ----
 
@@ -3815,17 +3816,17 @@ He that summoneth men in My name is, verily, of Me, and he will show forth that 
 
 -- Bahá'u'lláh
 
-bpn9524 «[English](../en/prayers/#bpn9524)» 
+bpn9524 
 
 ----
 
 
 <a id="AB05805SER"></a> 
-O my God, aid Thou Thy servant to raise up the Word, and to refute what is vain and false, to establish the truth, to spread the sacred verses abroad, reveal the splendors, and make the morning&#39;s light to dawn in the hearts of the righteous.Thou art, verily, the Generous, the Forgiving.
+O my God, aid Thou Thy servant to raise up the Word, and to refute what is vain and false, to establish the truth, to spread the sacred verses abroad, reveal the splendors, and make the morning's light to dawn in the hearts of the righteous.Thou art, verily, the Generous, the Forgiving.
 
 -- Abdu'l-Bahá
 
-AB05805SER «[English](../en/prayers/#AB05805SER)» «[Esperanto](../eo/prayers/#AB05805SER)» 
+AB05805SER «[Esperanto](../../eo/prayers/#AB05805SER)» 
 
 ----
 
@@ -3835,7 +3836,7 @@ Thou seest me, O my God, bowed down in lowliness, humbling myself before Thy com
 
 -- Abdu'l-Bahá
 
-AB00156LOW «[English](../en/prayers/#AB00156LOW)» «[Nederlands](../nl/prayers/#AB00156LOW)» «[Português (BR)](../pt/prayers/#AB00156LOW)» 
+AB00156LOW «[Nederlands](../../nl/prayers/#AB00156LOW)» «[Português (BR)](../../pt/prayers/#AB00156LOW)» 
 
 ----
 
@@ -3845,7 +3846,7 @@ Thou knowest, O God, and art my witness that I have no desire in my heart save t
 
 -- Abdu'l-Bahá
 
-AB05167 «[English](../en/prayers/#AB05167)» 
+AB05167 
 
 ----
 
@@ -3855,7 +3856,7 @@ O my God! O my God! I am a servant attracted to Thee, humbly drawing near to the
 
 -- Abdu'l-Bahá
 
-bpn6798 «[English](../en/prayers/#bpn6798)» 
+bpn6798 
 
 ----
 
@@ -3865,7 +3866,7 @@ O God, my God!  Aid Thou Thy trusted servants to have loving and tender hearts. 
 
 -- Abdu'l-Bahá
 
-AB00189AID «[English](../en/prayers/#AB00189AID)» «[Português (BR)](../pt/prayers/#AB00189AID)» 
+AB00189AID «[Português (BR)](../../pt/prayers/#AB00189AID)» 
 
 ----
 
@@ -3879,7 +3880,7 @@ Lauded and glorified art Thou, O my God!  I entreat Thee by the sighing of Thy l
 
 -- Bahá'u'lláh
 
-BH05071 «[English](../en/prayers/#BH05071)» «[Afrikaans](../af/prayers/#BH05071)» 
+BH05071 «[Afrikaans](../../af/prayers/#BH05071)» 
 
 ----
 
@@ -3889,7 +3890,7 @@ Glorified art Thou, O Lord my God! Every man of insight confesseth Thy sovereign
 
 -- Bahá'u'lláh
 
-BH09874 «[English](../en/prayers/#BH09874)» 
+BH09874 
 
 ----
 
@@ -3899,7 +3900,7 @@ O Thou Whose tests are a healing medicine to such as are nigh unto Thee, Whose s
 
 -- Bahá'u'lláh
 
-BH08600TES «[English](../en/prayers/#BH08600TES)» «[Nederlands](../nl/prayers/#BH08600TES)» 
+BH08600TES «[Nederlands](../../nl/prayers/#BH08600TES)» 
 
 ----
 
@@ -3909,7 +3910,7 @@ Glory to Thee, O my God!  But for the tribulations which are sustained in Thy pa
 
 -- Bahá'u'lláh
 
-BH02524 «[English](../en/prayers/#BH02524)» «[Português (BR)](../pt/prayers/#BH02524)» «[Español](../es/prayers/#BH02524)» 
+BH02524 «[Español](../../es/prayers/#BH02524)» «[Português (BR)](../../pt/prayers/#BH02524)» 
 
 ----
 
@@ -3919,7 +3920,7 @@ Praise be to Thee, O Lord my God, my Master! Thou hearest the sighing of those w
 
 -- Bahá'u'lláh
 
-bpn6668 «[English](../en/prayers/#bpn6668)» 
+bpn6668 
 
 ----
 
@@ -3929,7 +3930,7 @@ Glory be to Thee, O my God! I beg of Thee by Thy name, the Most Merciful, to pro
 
 -- Bahá'u'lláh
 
-bpn6814 «[English](../en/prayers/#bpn6814)» 
+bpn6814 
 
 ----
 
@@ -3939,7 +3940,7 @@ Dispel my grief by Thy bounty and Thy generosity, O God, my God, and banish mine
 
 -- Bahá'u'lláh
 
-BH03629GRI «[English](../en/prayers/#BH03629GRI)» 
+BH03629GRI 
 
 ----
 
@@ -3949,7 +3950,7 @@ Thou knowest full well, O my God, that tribulations have showered upon me from a
 
 -- Báb
 
-BB00001KNO «[English](../en/prayers/#BB00001KNO)» 
+BB00001KNO 
 
 ----
 
@@ -3959,7 +3960,7 @@ O Lord!  Thou art the Remover of every anguish and the Dispeller of every afflic
 
 -- Báb
 
-BB00630 «[English](../en/prayers/#BB00630)» 
+BB00630 
 
 ----
 
@@ -3969,7 +3970,7 @@ Is there any Remover of difficulties save God?  Say: Praised be God! He is God! 
 
 -- Báb
 
-BB00623 «[English](../en/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Tuvalu](../tvl/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
+BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
 
 ----
 
@@ -3979,7 +3980,7 @@ I adjure Thee by Thy might, O my God!  Let no harm beset me in times of tests, a
 
 -- Báb
 
-BB00018ADJ «[English](../en/prayers/#BB00018ADJ)» 
+BB00018ADJ 
 
 ----
 
@@ -3989,7 +3990,7 @@ O MY Lord! I have drawn nigh unto Thee, in the depths of this darksome night, co
 
 -- Abdu'l-Bahá
 
-bpn12223 «[English](../en/prayers/#bpn12223)» 
+bpn12223 
 
 ----
 
@@ -4003,7 +4004,7 @@ Thou seest, O God of Mercy, Thou Whose power pervadeth all created things, these
 
 -- Bahá'u'lláh
 
-bpn6442 «[English](../en/prayers/#bpn6442)» 
+bpn6442 
 
 ----
 
@@ -4013,17 +4014,17 @@ O my God and my Master!  Thou seest me among Thy creatures who have rebelled and
 
 -- Bahá'u'lláh
 
-bpn6833 «[English](../en/prayers/#bpn6833)» 
+bpn6833 
 
 ----
 
 
 <a id="bpn6834"></a> 
-Exalted art Thou, O Lord my God!  I beseech Thee by those whom Thou hast bidden to observe the Fast for the sake of Thy love and good-pleasure, who have demonstrated their allegiance to Thy law and followed Thy verses and precepts, and who have broken their fast while enjoying near access to Thee and beholding Thy countenance.  By Thy glory!  Since they are turning to the court of Thy good-pleasure, all their days are days of fasting.  Were the mouth of Thy will to address them saying: “Observe, for My beauty&#39;s sake, the fast, O people, and set no limit to its duration,” I swear by the majesty of Thy glory, that every one of them will faithfully observe it, will abstain from whatsoever will violate Thy law, and will continue to do so until they yield up their souls unto Thee, for they have tasted the sweetness of Thy call, and become inebriated with Thy remembrance and praise and with the words proceeding from the lips of Thy command.I beseech Thee, O Lord, by Thyself, the Exalted, the Most High, and by Thy Latter Manifestation through Whom the kingdom of names and the dominion of attributes have been convulsed, and the inhabitants of earth and heaven became intoxicated, and all who dwell in the realms of Revelation and creation trembled except such as have fasted from all that is repugnant to Thy good-pleasure and restrained themselves from turning toward aught besides Thee, to include us among them and to write down our names on the Tablet whereon Thou hast inscribed their names.  O God, through the wonders of Thy might and the tokens of Thy sovereignty and grandeur, Thou didst send forth their names from out of the sea of Thy names, and didst create their inner essences out of the substance of Thy love, and their inmost beings from the spirit of Thy Cause.  Theirs is a reunion not succeeded by separation, a nearness that knoweth no remoteness, and a perpetuity that hath no end.  Verily, these are servants who ever recount Thee, who eternally circle round Thee, and who circumambulate the sanctuary of Thy presence and the Kaaba of reunion with Thee.  Thou hast ordained, O my God, no distinction between them and Thee, except that when they beheld the lights of Thy countenance, they set their faces towards Thee, and prostrated themselves before Thy beauty, submissive to Thy greatness and severed from all things besides Thee.We have fasted this day, O my Lord, by Thy command and Thy bidding in accordance with what Thou hast revealed in Thy perspicuous Book.  We have withheld our souls from passion and from whatsoever Thou abhorest until the day drew to an end and the time arrived to break the Fast.  Wherefore, I implore Thee, O Desire of the hearts of ardent lovers and Beloved of the souls of them who are endued with understanding, O Rapture of the breasts of them that yearn after Thee and Object of the desire of them that seek Thee, to cause us to soar in the atmosphere of Thy nearness and the heaven of Thy presence, and to accept from us what we have performed in the pathway of Thy love and good-pleasure.  Write down our names, then, among those who have acknowledged Thy oneness and confessed to Thy singleness and who have humbled themselves before the evidences of Thy majesty and the tokens of Thy grandeur, those who have taken refuge in Thy nearness and sought shelter in Thee, who have expended their lives in their eagerness to meet Thee and attain the court of Thy presence, and who have cast the world behind their backs for love of Thee and severed every tie with aught save Thee in their eagerness to draw nigh unto Thee.  These are servants whose hearts melt in ardent desire for Thy beauty at the mention of Thy Name, and whose eyes overflow with tears in their longing to find Thee and enter the precincts of Thy court.This is, O my Lord, my tongue which testifieth to Thy unity and peerlessness, mine eye which beholdeth the seat of Thy generosity and manifold bounties, and mine ear which is ready to hearken unto Thy summons and Thine utterance, for I am assured, O my God, that Thou hast decreed the words proceeding out of the mouth of Thy will to be inexhaustible, and unto them the ears which Thou hast sanctified to hear Thy words and verses are at all times hearkening.  And these are my hands, O my Lord, uplifted toward the heaven of Thy favor and tender mercy.  Wilt Thou, then, turn away this poor one who hath taken to himself no beloved except Thee, no bestower beside Thee, nor king other than Thee, no shelter save beneath the shadow of Thy mercy, and no refuge but before Thy gate, which Thou hast opened unto all who dwell in Thy heaven and on Thine earth?  Nay, by Thy glory!  I am he whose confidence in Thy loving kindness will remain undaunted even though Thou wert to afflict me with torments for the duration of Thy dominion; and should anyone ask me about Thee, every limb of my body would proclaim: “He is beloved in His acts and obeyed in His decree, merciful in His nature and compassionate to His creatures!”Thy might beareth me witness, O Well-Beloved of the hearts of them that yearn after Thee, wert Thou to turn me away from Thy door and abandon me to the swords of the tyrants amongst Thy servants and to the rods of the ungodly amongst Thy creatures, and should someone ask me about Thee, every hair of my body would still declare: “He is, in truth, the Best Beloved of the worlds; He is the Most Bountiful; He is the Ever-Abiding!  He draweth me nigh whilst distancing me from Himself; He granteth me His sanctuary whilst debarring me from His presence.  None found I more merciful than He, by Whom I have become independent of all else but Him and have been raised up above aught besides Himself.”Well is it with the one, O my God, who hath been so enriched by Thee as to be made independent of the kingdoms of earth and heaven.  Rich is the one who hath held fast to the cord of Thy wealth, is submissive before Thy face, and for whom Thou art sufficient above all things.  Poor is the one who hath dispensed with Thee, waxed proud before Thee, turned away from Thy presence, and disbelieved in Thy signs.  Suffer me, then, O my God and my Beloved, to be numbered with those whom the breezes of Thy will move as they list, not with those whom the wind of self and passion stirreth and directeth as it pleaseth.  No God is there but Thee, the Almighty, the Exalted, the Most Bountiful.All glory be to Thee, O my God, for Thou hast graciously enabled me to fast during this month which Thou hast related to Thy Name, the Most Exalted, and called ‘Alá (Loftiness).  Thou hast commanded that Thy servants and Thy people should fast therein and seek thereby to draw nearer unto Thee.  The days and months of the year have culminated with the Fast, even as the first month began with Thy Name, Bahá, that all might testify that Thou art the First and the Last, the Manifest and the Hidden, and be well assured that the glory of all names is conferred only through the glory of Thy Cause and the word expounded by Thy will and revealed through Thy purpose.  Thou hast ordained that this month be a remembrance and honor from Thee, and a sign of Thy presence amongst them, that they may not forget Thy grandeur and Thy majesty, Thy sovereignty and Thy glory, and may be well assured that from time immemorial Thou hast ever been and wilt ever be Ruler over the entire creation.  Nothing created in the heavens or on the earth can hinder Thee in Thy governance, nor can anyone in the realms of Revelation and creation prevent Thee from fulfilling Thy purpose.I implore Thee, O my God, by Thy name whereby all the kindreds of the earth have wailed, except such as Thou hast safeguarded with Thine unerring protection and sheltered beneath the shadow of Thy transcendent mercy, to make us so firm in Thy Cause and steadfast in Thy love that were Thy servants to rise up against Thee and Thy people turn away from Thee, and no one would remain on earth to invoke Thy name or set his face toward the sanctuary of communion with Thee and the Kaaba of Thy sanctity, I would still arise singly and alone to render Thy Cause victorious, to exalt Thy word, to proclaim Thy sovereignty, and to celebrate the praise of Thine august Self.  And this, O Lord, even though each time I venture to extol Thee by any name, I am filled with perplexity, for I am fully aware that all of Thine exalted attributes and all of the most excellent names which I associate with Thee and by which in Thy holy presence I supplicate Thee, reflect naught but the measure of mine own understanding, inasmuch as whenever I have regarded a name to be laudable, I have associated it with Thyself.Immeasurably exalted is Thy true state above the description or knowledge of anyone besides Thee, and sanctified art Thou from the glorification of Thy creatures and the praise of Thy servants in their attempts to ascend unto Thee.  Whatsoever appeareth from Thy servants is limited by the limitations of their own selves and is created by their own idle fancies and imaginings.Alas, alas, O my Beloved, for mine inability to befittingly praise Thee and for my shortcomings during Thy days!  If I acclaim Thee, O my God, as Him Who knoweth all things, I readily perceive that shouldst Thou point to a mute rock with a single finger of Thy will, Thou wouldst enable it to unfold the knowledge of all past and future ages; and if I extol Thee as the All-Powerful, I find that one word issuing from the mouth of Thy purpose is sufficient to convulse the heavens and the earth.Thy glory beareth me witness, O Beloved of all that recognize Thee, should any learned one fail to confess his ignorance before the revelations of Thy knowledge, he would be accounted the most ignorant of Thy people; and should any mighty one refuse to admit his weakness before the evidences of Thy power, he would be considered the weakest and the most heedless of Thy creatures.  Given my knowledge and certainty that this is so, how can I extol Thee or describe and praise Thee?  Wherefore, knowing my weakness, I have hastened toward the shelter of Thy strength; and realizing my poverty, I have sought refuge under the shadow of Thy wealth; and recognizing my powerlessness, I have arisen to stand before the tabernacle of Thy power and might.  Wilt thou cast away this poor one after he hath taken no one but Thee as his succorer, or turn away this stranger after he hath found no one but Thee to be his true beloved?Thou knowest all that is in me, O Lord, but I know not what is in Thee.  Have mercy then upon me through Thy loving providence and inspire me with that which shall give peace to my heart during Thy days and tranquillity to my soul through the revelations of Thy sacred presence.  All created things have been illumined with the splendors of the lights of Thy countenance, O Lord, and the dwellers of earth and heaven are shining resplendently on account of the manifestations of Thine incomparable majesty, in such wise that I behold nothing without first beholding within it the revelation of Thyself, a revelation which is hidden from the sight of those among Thy servants who lie fast asleep.Deprive me not, O my Lord, of Thy grace which hath encompassed all the realms of existence, whether visible or invisible.  Wilt Thou stay far removed, O my God, after Thou hast invited all mankind to return and draw nigh unto Thee, and urged them to hold fast to Thy cord?  Wilt Thou cast me out, O my Beloved, even when Thou hast promised in Thine incorruptible Book and in Thy wondrous verses to gather all those who yearn after Thee within the pavilion of Thy gracious providence, and those who desire Thee under the shadow of Thy bountiful favor, and those who search for Thee under the canopy of Thy mercy and loving-kindness?I swear by Thy might, O my God, that my lamentations have halted my heart within me, and its groans have seized the reins from my hands!   At whatever time I reassure myself and gladden my soul with the wonders of Thy mercy, the tokens of Thy gracious providence, and the evidences of Thy generosity, I tremble before the manifestations of Thy justice and the signs of Thy wrath.  I recognize that Thou art known by these two names and described by these two attributes, yet Thou carest not whether Thou art invoked by Thy name the Ever-Forgiving, or Thy name the Wrathful.  By Thy glory, were it not for my knowledge that Thy mercy surpasseth all things, the limbs of my body would have ceased to exist, my reality been extinguished and my inner being reduced to utter nothingness.  But when I behold that Thy grace encompasseth all things and Thy mercy embraceth the entire creation, my soul and my inmost being become well assured.Alas, alas, O my God, for the things that have escaped me during Thy days, and again alas, alas, O Desire of my heart, for what I have left undone in service and obedience to Thee during these days the likes of which the eyes of Thy chosen ones and trusted ones have never witnessed!  I entreat Thee, O my Lord, by Thy Self and by the Manifestation of Thy Cause Who is seated upon the throne of Thy mercy, to confirm me in Thy service and good-pleasure.  Guard me, then, from those who have turned away from Thee and disbelieved in Thy verses, who have denied Thy truth, resisted Thine evidences, and violated Thy Covenant and testament.All praise, O Lord my God, be unto Him Who is the Manifestation of Thine Essence, the Dayspring of Thy oneness, the Mine of Thy knowledge, the Source of Thy Revelation, the Repository of Thine inspiration, the Seat of Thy sovereignty, and the Dawning-Place of Thy Divinity—He Who is the Primal Point, the Most Exalted Countenance, the Ancient Root, and the Quickener of nations; and glory be upon him who was the first to believe in Him and in His verses, whom Thou didst make a throne for the ascendancy of Thy most sublime Word, a focal-point for the manifestation of Thy most excellent names, a dayspring of the radiance of the Sun of Thy providence, a dawning-place for the appearance of Thy names and attributes, and a treasury of the pearls of Thy wisdom and Thy commandments.  And all honor be upon him who was the last to come unto Him, whose arrival was like His arrival, and Thy manifestation in him like Thy manifestation in Him, except that he was illumined with the lights of His face and prostrated himself before Him and testified to his servitude unto Him; and glory be upon those who were martyred in His path and who offered up their lives for love of His beauty.We testify, O my God, that these are servants who have believed in Thee and in Thy signs, who have sought the sanctuary of Thy presence and turned toward Thy countenance, who have directed their faces toward the court of Thy nearness and walked in the path of Thy good-pleasure, who have worshipped Thee according to Thy desire and detached themselves from all but Thee.  O Lord, confer upon their spirits and their bodies at all times a share of the wonders of Thine all-encompassing mercy.  Thou art, verily, powerful to do as Thou pleaseth.  No God is there save Thee, the Almighty, the All-Glorious, Whose help is implored by all men.I beseech Thee, O Lord, by Him and by them, and by Him Whom Thou hast established on the throne of Thy Faith and caused to overshadow all the dwellers of earth and heaven, to purify us from our transgressions, to ordain for us a seat of truth in Thy presence and to cause us to associate with those whom the adversities of the world and its misfortunes have not hindered from turning toward Thee.  Thou art, verily, the All-Powerful, the Most Exalted, the Protector, the Ever-Forgiving, the Most Merciful.The Importance of Obligatory Prayer and Fasting, VI
+Exalted art Thou, O Lord my God!  I beseech Thee by those whom Thou hast bidden to observe the Fast for the sake of Thy love and good-pleasure, who have demonstrated their allegiance to Thy law and followed Thy verses and precepts, and who have broken their fast while enjoying near access to Thee and beholding Thy countenance.  By Thy glory!  Since they are turning to the court of Thy good-pleasure, all their days are days of fasting.  Were the mouth of Thy will to address them saying: “Observe, for My beauty's sake, the fast, O people, and set no limit to its duration,” I swear by the majesty of Thy glory, that every one of them will faithfully observe it, will abstain from whatsoever will violate Thy law, and will continue to do so until they yield up their souls unto Thee, for they have tasted the sweetness of Thy call, and become inebriated with Thy remembrance and praise and with the words proceeding from the lips of Thy command.I beseech Thee, O Lord, by Thyself, the Exalted, the Most High, and by Thy Latter Manifestation through Whom the kingdom of names and the dominion of attributes have been convulsed, and the inhabitants of earth and heaven became intoxicated, and all who dwell in the realms of Revelation and creation trembled except such as have fasted from all that is repugnant to Thy good-pleasure and restrained themselves from turning toward aught besides Thee, to include us among them and to write down our names on the Tablet whereon Thou hast inscribed their names.  O God, through the wonders of Thy might and the tokens of Thy sovereignty and grandeur, Thou didst send forth their names from out of the sea of Thy names, and didst create their inner essences out of the substance of Thy love, and their inmost beings from the spirit of Thy Cause.  Theirs is a reunion not succeeded by separation, a nearness that knoweth no remoteness, and a perpetuity that hath no end.  Verily, these are servants who ever recount Thee, who eternally circle round Thee, and who circumambulate the sanctuary of Thy presence and the Kaaba of reunion with Thee.  Thou hast ordained, O my God, no distinction between them and Thee, except that when they beheld the lights of Thy countenance, they set their faces towards Thee, and prostrated themselves before Thy beauty, submissive to Thy greatness and severed from all things besides Thee.We have fasted this day, O my Lord, by Thy command and Thy bidding in accordance with what Thou hast revealed in Thy perspicuous Book.  We have withheld our souls from passion and from whatsoever Thou abhorest until the day drew to an end and the time arrived to break the Fast.  Wherefore, I implore Thee, O Desire of the hearts of ardent lovers and Beloved of the souls of them who are endued with understanding, O Rapture of the breasts of them that yearn after Thee and Object of the desire of them that seek Thee, to cause us to soar in the atmosphere of Thy nearness and the heaven of Thy presence, and to accept from us what we have performed in the pathway of Thy love and good-pleasure.  Write down our names, then, among those who have acknowledged Thy oneness and confessed to Thy singleness and who have humbled themselves before the evidences of Thy majesty and the tokens of Thy grandeur, those who have taken refuge in Thy nearness and sought shelter in Thee, who have expended their lives in their eagerness to meet Thee and attain the court of Thy presence, and who have cast the world behind their backs for love of Thee and severed every tie with aught save Thee in their eagerness to draw nigh unto Thee.  These are servants whose hearts melt in ardent desire for Thy beauty at the mention of Thy Name, and whose eyes overflow with tears in their longing to find Thee and enter the precincts of Thy court.This is, O my Lord, my tongue which testifieth to Thy unity and peerlessness, mine eye which beholdeth the seat of Thy generosity and manifold bounties, and mine ear which is ready to hearken unto Thy summons and Thine utterance, for I am assured, O my God, that Thou hast decreed the words proceeding out of the mouth of Thy will to be inexhaustible, and unto them the ears which Thou hast sanctified to hear Thy words and verses are at all times hearkening.  And these are my hands, O my Lord, uplifted toward the heaven of Thy favor and tender mercy.  Wilt Thou, then, turn away this poor one who hath taken to himself no beloved except Thee, no bestower beside Thee, nor king other than Thee, no shelter save beneath the shadow of Thy mercy, and no refuge but before Thy gate, which Thou hast opened unto all who dwell in Thy heaven and on Thine earth?  Nay, by Thy glory!  I am he whose confidence in Thy loving kindness will remain undaunted even though Thou wert to afflict me with torments for the duration of Thy dominion; and should anyone ask me about Thee, every limb of my body would proclaim: “He is beloved in His acts and obeyed in His decree, merciful in His nature and compassionate to His creatures!”Thy might beareth me witness, O Well-Beloved of the hearts of them that yearn after Thee, wert Thou to turn me away from Thy door and abandon me to the swords of the tyrants amongst Thy servants and to the rods of the ungodly amongst Thy creatures, and should someone ask me about Thee, every hair of my body would still declare: “He is, in truth, the Best Beloved of the worlds; He is the Most Bountiful; He is the Ever-Abiding!  He draweth me nigh whilst distancing me from Himself; He granteth me His sanctuary whilst debarring me from His presence.  None found I more merciful than He, by Whom I have become independent of all else but Him and have been raised up above aught besides Himself.”Well is it with the one, O my God, who hath been so enriched by Thee as to be made independent of the kingdoms of earth and heaven.  Rich is the one who hath held fast to the cord of Thy wealth, is submissive before Thy face, and for whom Thou art sufficient above all things.  Poor is the one who hath dispensed with Thee, waxed proud before Thee, turned away from Thy presence, and disbelieved in Thy signs.  Suffer me, then, O my God and my Beloved, to be numbered with those whom the breezes of Thy will move as they list, not with those whom the wind of self and passion stirreth and directeth as it pleaseth.  No God is there but Thee, the Almighty, the Exalted, the Most Bountiful.All glory be to Thee, O my God, for Thou hast graciously enabled me to fast during this month which Thou hast related to Thy Name, the Most Exalted, and called ‘Alá (Loftiness).  Thou hast commanded that Thy servants and Thy people should fast therein and seek thereby to draw nearer unto Thee.  The days and months of the year have culminated with the Fast, even as the first month began with Thy Name, Bahá, that all might testify that Thou art the First and the Last, the Manifest and the Hidden, and be well assured that the glory of all names is conferred only through the glory of Thy Cause and the word expounded by Thy will and revealed through Thy purpose.  Thou hast ordained that this month be a remembrance and honor from Thee, and a sign of Thy presence amongst them, that they may not forget Thy grandeur and Thy majesty, Thy sovereignty and Thy glory, and may be well assured that from time immemorial Thou hast ever been and wilt ever be Ruler over the entire creation.  Nothing created in the heavens or on the earth can hinder Thee in Thy governance, nor can anyone in the realms of Revelation and creation prevent Thee from fulfilling Thy purpose.I implore Thee, O my God, by Thy name whereby all the kindreds of the earth have wailed, except such as Thou hast safeguarded with Thine unerring protection and sheltered beneath the shadow of Thy transcendent mercy, to make us so firm in Thy Cause and steadfast in Thy love that were Thy servants to rise up against Thee and Thy people turn away from Thee, and no one would remain on earth to invoke Thy name or set his face toward the sanctuary of communion with Thee and the Kaaba of Thy sanctity, I would still arise singly and alone to render Thy Cause victorious, to exalt Thy word, to proclaim Thy sovereignty, and to celebrate the praise of Thine august Self.  And this, O Lord, even though each time I venture to extol Thee by any name, I am filled with perplexity, for I am fully aware that all of Thine exalted attributes and all of the most excellent names which I associate with Thee and by which in Thy holy presence I supplicate Thee, reflect naught but the measure of mine own understanding, inasmuch as whenever I have regarded a name to be laudable, I have associated it with Thyself.Immeasurably exalted is Thy true state above the description or knowledge of anyone besides Thee, and sanctified art Thou from the glorification of Thy creatures and the praise of Thy servants in their attempts to ascend unto Thee.  Whatsoever appeareth from Thy servants is limited by the limitations of their own selves and is created by their own idle fancies and imaginings.Alas, alas, O my Beloved, for mine inability to befittingly praise Thee and for my shortcomings during Thy days!  If I acclaim Thee, O my God, as Him Who knoweth all things, I readily perceive that shouldst Thou point to a mute rock with a single finger of Thy will, Thou wouldst enable it to unfold the knowledge of all past and future ages; and if I extol Thee as the All-Powerful, I find that one word issuing from the mouth of Thy purpose is sufficient to convulse the heavens and the earth.Thy glory beareth me witness, O Beloved of all that recognize Thee, should any learned one fail to confess his ignorance before the revelations of Thy knowledge, he would be accounted the most ignorant of Thy people; and should any mighty one refuse to admit his weakness before the evidences of Thy power, he would be considered the weakest and the most heedless of Thy creatures.  Given my knowledge and certainty that this is so, how can I extol Thee or describe and praise Thee?  Wherefore, knowing my weakness, I have hastened toward the shelter of Thy strength; and realizing my poverty, I have sought refuge under the shadow of Thy wealth; and recognizing my powerlessness, I have arisen to stand before the tabernacle of Thy power and might.  Wilt thou cast away this poor one after he hath taken no one but Thee as his succorer, or turn away this stranger after he hath found no one but Thee to be his true beloved?Thou knowest all that is in me, O Lord, but I know not what is in Thee.  Have mercy then upon me through Thy loving providence and inspire me with that which shall give peace to my heart during Thy days and tranquillity to my soul through the revelations of Thy sacred presence.  All created things have been illumined with the splendors of the lights of Thy countenance, O Lord, and the dwellers of earth and heaven are shining resplendently on account of the manifestations of Thine incomparable majesty, in such wise that I behold nothing without first beholding within it the revelation of Thyself, a revelation which is hidden from the sight of those among Thy servants who lie fast asleep.Deprive me not, O my Lord, of Thy grace which hath encompassed all the realms of existence, whether visible or invisible.  Wilt Thou stay far removed, O my God, after Thou hast invited all mankind to return and draw nigh unto Thee, and urged them to hold fast to Thy cord?  Wilt Thou cast me out, O my Beloved, even when Thou hast promised in Thine incorruptible Book and in Thy wondrous verses to gather all those who yearn after Thee within the pavilion of Thy gracious providence, and those who desire Thee under the shadow of Thy bountiful favor, and those who search for Thee under the canopy of Thy mercy and loving-kindness?I swear by Thy might, O my God, that my lamentations have halted my heart within me, and its groans have seized the reins from my hands!   At whatever time I reassure myself and gladden my soul with the wonders of Thy mercy, the tokens of Thy gracious providence, and the evidences of Thy generosity, I tremble before the manifestations of Thy justice and the signs of Thy wrath.  I recognize that Thou art known by these two names and described by these two attributes, yet Thou carest not whether Thou art invoked by Thy name the Ever-Forgiving, or Thy name the Wrathful.  By Thy glory, were it not for my knowledge that Thy mercy surpasseth all things, the limbs of my body would have ceased to exist, my reality been extinguished and my inner being reduced to utter nothingness.  But when I behold that Thy grace encompasseth all things and Thy mercy embraceth the entire creation, my soul and my inmost being become well assured.Alas, alas, O my God, for the things that have escaped me during Thy days, and again alas, alas, O Desire of my heart, for what I have left undone in service and obedience to Thee during these days the likes of which the eyes of Thy chosen ones and trusted ones have never witnessed!  I entreat Thee, O my Lord, by Thy Self and by the Manifestation of Thy Cause Who is seated upon the throne of Thy mercy, to confirm me in Thy service and good-pleasure.  Guard me, then, from those who have turned away from Thee and disbelieved in Thy verses, who have denied Thy truth, resisted Thine evidences, and violated Thy Covenant and testament.All praise, O Lord my God, be unto Him Who is the Manifestation of Thine Essence, the Dayspring of Thy oneness, the Mine of Thy knowledge, the Source of Thy Revelation, the Repository of Thine inspiration, the Seat of Thy sovereignty, and the Dawning-Place of Thy Divinity—He Who is the Primal Point, the Most Exalted Countenance, the Ancient Root, and the Quickener of nations; and glory be upon him who was the first to believe in Him and in His verses, whom Thou didst make a throne for the ascendancy of Thy most sublime Word, a focal-point for the manifestation of Thy most excellent names, a dayspring of the radiance of the Sun of Thy providence, a dawning-place for the appearance of Thy names and attributes, and a treasury of the pearls of Thy wisdom and Thy commandments.  And all honor be upon him who was the last to come unto Him, whose arrival was like His arrival, and Thy manifestation in him like Thy manifestation in Him, except that he was illumined with the lights of His face and prostrated himself before Him and testified to his servitude unto Him; and glory be upon those who were martyred in His path and who offered up their lives for love of His beauty.We testify, O my God, that these are servants who have believed in Thee and in Thy signs, who have sought the sanctuary of Thy presence and turned toward Thy countenance, who have directed their faces toward the court of Thy nearness and walked in the path of Thy good-pleasure, who have worshipped Thee according to Thy desire and detached themselves from all but Thee.  O Lord, confer upon their spirits and their bodies at all times a share of the wonders of Thine all-encompassing mercy.  Thou art, verily, powerful to do as Thou pleaseth.  No God is there save Thee, the Almighty, the All-Glorious, Whose help is implored by all men.I beseech Thee, O Lord, by Him and by them, and by Him Whom Thou hast established on the throne of Thy Faith and caused to overshadow all the dwellers of earth and heaven, to purify us from our transgressions, to ordain for us a seat of truth in Thy presence and to cause us to associate with those whom the adversities of the world and its misfortunes have not hindered from turning toward Thee.  Thou art, verily, the All-Powerful, the Most Exalted, the Protector, the Ever-Forgiving, the Most Merciful.The Importance of Obligatory Prayer and Fasting, VI
 
 -- Bahá'u'lláh
 
-bpn6834 «[English](../en/prayers/#bpn6834)» 
+bpn6834 
 
 ----
 
@@ -4033,7 +4034,7 @@ I beseech Thee, O my God, by Thy mighty Sign, and by the revelation of Thy grace
 
 -- Bahá'u'lláh
 
-BH01125 «[English](../en/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
 
 ----
 
@@ -4043,7 +4044,7 @@ BH01125 «[English](../en/prayers/#BH01125)» «[Italiano](../it/prayers/#BH0112
 
 -- Bahá'u'lláh
 
-BH00154FIR «[English](../en/prayers/#BH00154FIR)» «[Nederlands](../nl/prayers/#BH00154FIR)» 
+BH00154FIR «[Nederlands](../../nl/prayers/#BH00154FIR)» 
 
 ----
 
@@ -4053,7 +4054,7 @@ In the Name of Him Who hath been promised in the Books of God, the All-Knowing, 
 
 -- Bahá'u'lláh
 
-BH10127 «[English](../en/prayers/#BH10127)» «[Português (BR)](../pt/prayers/#BH10127)» 
+BH10127 «[Português (BR)](../../pt/prayers/#BH10127)» 
 
 ----
 
@@ -4063,7 +4064,7 @@ Praise be to Thee, O Lord my God!  I beseech Thee by this Revelation whereby dar
 
 -- Bahá'u'lláh
 
-BH07657 «[English](../en/prayers/#BH07657)» «[Esperanto](../eo/prayers/#BH07657)» 
+BH07657 «[Esperanto](../../eo/prayers/#BH07657)» 
 
 ----
 
@@ -4073,17 +4074,17 @@ These are, O my God, the days whereon Thou didst enjoin Thy servants to observe 
 
 -- Bahá'u'lláh
 
-BH01888 «[English](../en/prayers/#BH01888)» «[Nederlands](../nl/prayers/#BH01888)» 
+BH01888 «[Nederlands](../../nl/prayers/#BH01888)» 
 
 ----
 
 
 <a id="BH00778"></a> 
-Glory be to Thee, O Lord my God!  These are the days whereon Thou hast bidden all men to observe the Fast, that through it they may purify their souls and rid themselves of all attachment to anyone but Thee, and that out of their hearts may ascend that which will be worthy of the court of Thy majesty and may well beseem the seat of the revelation of Thy oneness.  Grant, O my Lord, that this fast may become a river of life-giving waters and may yield the virtue wherewith Thou hast endowed it.  Cleanse Thou by its means the hearts of Thy servants whom the evils of the world have failed to hinder from turning towards Thine all-glorious Name, and who have remained unmoved by the noise and tumult of such as have repudiated Thy most resplendent signs which have accompanied the advent of Thy Manifestation Whom Thou hast invested with Thy sovereignty, Thy power, Thy majesty and glory.  These are the servants who, as soon as Thy call reached them, hastened in the direction of Thy mercy and were not kept back from Thee by the changes and chances of this world or by any human limitations.I am he, O my God, who testifieth to Thy unity, who acknowledgeth Thy oneness, who boweth humbly before the revelations of Thy majesty, and who recognizeth with downcast countenance the splendors of the light of Thy transcendent glory.  I have believed in Thee after Thou didst enable me to know Thy Self, Whom Thou hast revealed to men&#39;s eyes through the power of Thy sovereignty and might.  Unto Him I have turned, wholly detached from all things, and cleaving steadfastly unto the cord of Thy gifts and favors.  I have embraced His truth, and the truth of all the wondrous laws and precepts that have been sent down unto Him.  I have fasted for love of Thee and in pursuance of Thine injunction, and have broken my fast with Thy praise on my tongue and in conformity with Thy pleasure.  Suffer me not, O my Lord, to be reckoned among them who have fasted in the daytime, who in the night-season have prostrated themselves before Thy face, and who have repudiated Thy truth, disbelieved in Thy signs, gainsaid Thy testimony, and perverted Thine utterances.Open Thou, O my Lord, mine eyes and the eyes of all them that have sought Thee, that we may recognize Thee with Thine own eyes.  This is Thy bidding given us in the Book sent down by Thee unto Him Whom Thou hast chosen by Thy behest, Whom Thou hast singled out for Thy favor above all Thy creatures, Whom Thou hast been pleased to invest with Thy sovereignty, and Whom Thou hast specially favored and entrusted with Thy Message unto Thy people.  Praised be Thou, therefore, O my God, inasmuch as Thou hast graciously enabled us to recognize Him and to acknowledge whatsoever hath been sent down unto Him, and conferred upon us the honor of attaining the presence of the One Whom Thou didst promise in Thy Book and in Thy Tablets.Thou seest me then, O my God, with my face turned towards Thee, cleaving steadfastly to the cord of Thy gracious providence and generosity, and clinging to the hem of Thy tender mercies and bountiful favors.  Destroy not, I implore Thee, my hopes of attaining unto that which Thou didst ordain for Thy servants who have turned towards the precincts of Thy court and the sanctuary of Thy presence, and have observed the Fast for love of Thee.  I confess, O my God, that whatever proceedeth from me is wholly unworthy of Thy sovereignty and falleth short of Thy majesty.  And yet I beseech Thee by Thy Name through which Thou hast revealed Thy Self, in the glory of Thy most excellent titles, unto all created things, in this Revelation whereby Thou hast, through Thy most resplendent Name, manifested Thy beauty, to give me to drink of the wine of Thy mercy and of the pure beverage of Thy favor, which have streamed forth from the right hand of Thy will, that I may so fix my gaze upon Thee and be so detached from all else but Thee, that the world and all that hath been created therein may appear before me as a fleeting day which Thou hast not deigned to create.I moreover entreat Thee, O my God, to rain down, from the heaven of Thy will and the clouds of Thy mercy, that which will cleanse us from the noisome savors of our transgressions, O Thou Who hast called Thyself the God of Mercy!  Thou art, verily, the Most Powerful, the All-Glorious, the Beneficent.Cast not away, O my Lord, him that hath turned towards Thee, nor suffer him who hath drawn nigh unto Thee to be removed far from Thy court.  Dash not the hopes of the suppliant who hath longingly stretched out his hands to seek Thy grace and favors, and deprive not Thy sincere servants of the wonders of Thy tender mercies and loving-kindness.  Forgiving and Most Bountiful art Thou, O my Lord! Power hast Thou to do what Thou pleasest.  All else but Thee are impotent before the revelations of Thy might, are as lost in the face of the evidences of Thy wealth, are as nothing when compared with the manifestations of Thy transcendent sovereignty, and are destitute of all strength when face to face with the signs and tokens of Thy power. What refuge is there beside Thee, O my Lord, to which I can flee, and where is there a haven to which I can hasten?  Nay, the power of Thy might beareth me witness!  No protector is there but Thee, no place to flee to except Thee, no refuge to seek save Thee.  Cause me to taste, O my Lord, the divine sweetness of Thy remembrance and praise.  I swear by Thy might!  Whosoever tasteth of its sweetness will rid himself of all attachment to the world and all that is therein, and will set his face towards Thee, cleansed from the remembrance of anyone except Thee.Inspire then my soul, O my God, with Thy wondrous remembrance, that I may glorify Thy name.  Number me not with them who read Thy words and fail to find Thy hidden gift which, as decreed by Thee, is contained therein, and which quickeneth the souls of Thy creatures and the hearts of Thy servants.  Cause me, O my Lord, to be reckoned among them who have been so stirred up by the sweet savors that have been wafted in Thy days that they have laid down their lives for Thee and hastened to the scene of their death in their longing to gaze on Thy beauty and in their yearning to attain Thy presence.  And were anyone to say unto them on their way, “Whither go ye?” they would say, “Unto God, the All-Possessing, the Help in Peril, the Self-Subsisting!”The transgressions committed by such as have turned away from Thee and have borne themselves haughtily towards Thee have not availed to hinder them from loving Thee, and from setting their faces towards Thee, and from turning in the direction of Thy mercy.  These are they who are blessed by the Concourse on high, who are glorified by the denizens of the everlasting Cities, and beyond them by those on whose foreheads Thy most exalted pen hath written: “These!  The people of Bahá.  Through them have been shed the splendors of the light of guidance.”  Thus hath it been ordained, at Thy behest and by Thy will, in the Tablet of Thine irrevocable decree.Proclaim, therefore, O my God, their greatness and the greatness of those who while living or after death have circled round them.  Supply them with that which Thou hast ordained for the righteous among Thy creatures.  Potent art Thou to do all things.  There is no God but Thee, the All-Powerful, the Help in Peril, the Almighty, the Most Bountiful.Do not bring our fasts to an end with this fast, O my Lord, nor the covenants Thou hast made with this covenant.  Do Thou accept all that we have done for love of Thee, and for the sake of Thy pleasure, and all that we have left undone as a result of our subjection to our evil and corrupt desires.  Enable us, then, to cleave steadfastly to Thy love and Thy good pleasure, and preserve us from the mischief of such as have denied Thee and repudiated Thy most resplendent signs.  Thou art, in truth, the Lord of this world and of the next.  No God is there beside Thee, the Exalted, the Most High.Magnify Thou, O Lord my God, Him Who is the Primal Point, the Divine Mystery, the Unseen Essence, the Dayspring of Divinity, and the Manifestation of Thy Lordship, through Whom all the knowledge of the past and all the knowledge of the future were made plain, through Whom the pearls of Thy hidden wisdom were uncovered, and the mystery of Thy treasured name disclosed, Whom Thou hast appointed as the Announcer of the One through Whose name the letter B and the letter E have been joined and united, through Whom Thy majesty, Thy sovereignty and Thy might were made known, through Whom Thy words have been sent down, and Thy laws set forth with clearness, and Thy signs spread abroad, and Thy Word established, through Whom the hearts of Thy chosen ones were laid bare, and all that were in the heavens and all that were on the earth were gathered together, Whom Thou has called ‘Alí-Muhammad in the kingdom of Thy names, and the Spirit of Spirits in the Tablets of Thine irrevocable decree, Whom Thou hast invested with Thine own title, unto Whose name all other names have, at Thy bidding and through the power of Thy might, been made to return, and in Whom Thou hast caused all Thine attributes and titles to attain their final consummation.  To Him also belong such names as lay hid within Thy stainless tabernacles, in Thine invisible world and Thy sanctified cities.Magnify Thou, moreover, such as have believed in Him and in His signs and have turned towards Him, from among those that have acknowledged Thy unity in His Latter Manifestation—a Manifestation whereof He hath made mention in His Tablets, and in His Books, and in His Scriptures, and in all the wondrous verses and gem-like utterances that have descended upon Him.  It is this same Manifestation Whose covenant Thou hast bidden Him establish ere He had established His own covenant.  He it is Whose praise the Bayán hath celebrated.  In it His excellence hath been extolled, and His truth established, and His sovereignty proclaimed, and His Cause perfected.  Blessed is the man that hath turned unto Him, and fulfilled the things He hath commanded, O Thou Who art the Lord of the world and the Desire of all them that have known Thee!Praised be Thou, O my God, inasmuch as Thou hast aided us to recognize and love Him.  I, therefore, beseech Thee by Him and by Them Who are the Daysprings of Thy Divinity, and the Manifestations of Thy Lordship, and the Treasuries of Thy Revelation, and the Depositories of Thine inspiration, to enable us to serve and obey Him, and to empower us to become the helpers of His Cause and the dispersers of His adversaries.  Powerful art Thou to do all that pleaseth Thee.  No God is there beside Thee, the Almighty, the All-Glorious, the One Whose help is sought by all men!
+Glory be to Thee, O Lord my God!  These are the days whereon Thou hast bidden all men to observe the Fast, that through it they may purify their souls and rid themselves of all attachment to anyone but Thee, and that out of their hearts may ascend that which will be worthy of the court of Thy majesty and may well beseem the seat of the revelation of Thy oneness.  Grant, O my Lord, that this fast may become a river of life-giving waters and may yield the virtue wherewith Thou hast endowed it.  Cleanse Thou by its means the hearts of Thy servants whom the evils of the world have failed to hinder from turning towards Thine all-glorious Name, and who have remained unmoved by the noise and tumult of such as have repudiated Thy most resplendent signs which have accompanied the advent of Thy Manifestation Whom Thou hast invested with Thy sovereignty, Thy power, Thy majesty and glory.  These are the servants who, as soon as Thy call reached them, hastened in the direction of Thy mercy and were not kept back from Thee by the changes and chances of this world or by any human limitations.I am he, O my God, who testifieth to Thy unity, who acknowledgeth Thy oneness, who boweth humbly before the revelations of Thy majesty, and who recognizeth with downcast countenance the splendors of the light of Thy transcendent glory.  I have believed in Thee after Thou didst enable me to know Thy Self, Whom Thou hast revealed to men's eyes through the power of Thy sovereignty and might.  Unto Him I have turned, wholly detached from all things, and cleaving steadfastly unto the cord of Thy gifts and favors.  I have embraced His truth, and the truth of all the wondrous laws and precepts that have been sent down unto Him.  I have fasted for love of Thee and in pursuance of Thine injunction, and have broken my fast with Thy praise on my tongue and in conformity with Thy pleasure.  Suffer me not, O my Lord, to be reckoned among them who have fasted in the daytime, who in the night-season have prostrated themselves before Thy face, and who have repudiated Thy truth, disbelieved in Thy signs, gainsaid Thy testimony, and perverted Thine utterances.Open Thou, O my Lord, mine eyes and the eyes of all them that have sought Thee, that we may recognize Thee with Thine own eyes.  This is Thy bidding given us in the Book sent down by Thee unto Him Whom Thou hast chosen by Thy behest, Whom Thou hast singled out for Thy favor above all Thy creatures, Whom Thou hast been pleased to invest with Thy sovereignty, and Whom Thou hast specially favored and entrusted with Thy Message unto Thy people.  Praised be Thou, therefore, O my God, inasmuch as Thou hast graciously enabled us to recognize Him and to acknowledge whatsoever hath been sent down unto Him, and conferred upon us the honor of attaining the presence of the One Whom Thou didst promise in Thy Book and in Thy Tablets.Thou seest me then, O my God, with my face turned towards Thee, cleaving steadfastly to the cord of Thy gracious providence and generosity, and clinging to the hem of Thy tender mercies and bountiful favors.  Destroy not, I implore Thee, my hopes of attaining unto that which Thou didst ordain for Thy servants who have turned towards the precincts of Thy court and the sanctuary of Thy presence, and have observed the Fast for love of Thee.  I confess, O my God, that whatever proceedeth from me is wholly unworthy of Thy sovereignty and falleth short of Thy majesty.  And yet I beseech Thee by Thy Name through which Thou hast revealed Thy Self, in the glory of Thy most excellent titles, unto all created things, in this Revelation whereby Thou hast, through Thy most resplendent Name, manifested Thy beauty, to give me to drink of the wine of Thy mercy and of the pure beverage of Thy favor, which have streamed forth from the right hand of Thy will, that I may so fix my gaze upon Thee and be so detached from all else but Thee, that the world and all that hath been created therein may appear before me as a fleeting day which Thou hast not deigned to create.I moreover entreat Thee, O my God, to rain down, from the heaven of Thy will and the clouds of Thy mercy, that which will cleanse us from the noisome savors of our transgressions, O Thou Who hast called Thyself the God of Mercy!  Thou art, verily, the Most Powerful, the All-Glorious, the Beneficent.Cast not away, O my Lord, him that hath turned towards Thee, nor suffer him who hath drawn nigh unto Thee to be removed far from Thy court.  Dash not the hopes of the suppliant who hath longingly stretched out his hands to seek Thy grace and favors, and deprive not Thy sincere servants of the wonders of Thy tender mercies and loving-kindness.  Forgiving and Most Bountiful art Thou, O my Lord! Power hast Thou to do what Thou pleasest.  All else but Thee are impotent before the revelations of Thy might, are as lost in the face of the evidences of Thy wealth, are as nothing when compared with the manifestations of Thy transcendent sovereignty, and are destitute of all strength when face to face with the signs and tokens of Thy power. What refuge is there beside Thee, O my Lord, to which I can flee, and where is there a haven to which I can hasten?  Nay, the power of Thy might beareth me witness!  No protector is there but Thee, no place to flee to except Thee, no refuge to seek save Thee.  Cause me to taste, O my Lord, the divine sweetness of Thy remembrance and praise.  I swear by Thy might!  Whosoever tasteth of its sweetness will rid himself of all attachment to the world and all that is therein, and will set his face towards Thee, cleansed from the remembrance of anyone except Thee.Inspire then my soul, O my God, with Thy wondrous remembrance, that I may glorify Thy name.  Number me not with them who read Thy words and fail to find Thy hidden gift which, as decreed by Thee, is contained therein, and which quickeneth the souls of Thy creatures and the hearts of Thy servants.  Cause me, O my Lord, to be reckoned among them who have been so stirred up by the sweet savors that have been wafted in Thy days that they have laid down their lives for Thee and hastened to the scene of their death in their longing to gaze on Thy beauty and in their yearning to attain Thy presence.  And were anyone to say unto them on their way, “Whither go ye?” they would say, “Unto God, the All-Possessing, the Help in Peril, the Self-Subsisting!”The transgressions committed by such as have turned away from Thee and have borne themselves haughtily towards Thee have not availed to hinder them from loving Thee, and from setting their faces towards Thee, and from turning in the direction of Thy mercy.  These are they who are blessed by the Concourse on high, who are glorified by the denizens of the everlasting Cities, and beyond them by those on whose foreheads Thy most exalted pen hath written: “These!  The people of Bahá.  Through them have been shed the splendors of the light of guidance.”  Thus hath it been ordained, at Thy behest and by Thy will, in the Tablet of Thine irrevocable decree.Proclaim, therefore, O my God, their greatness and the greatness of those who while living or after death have circled round them.  Supply them with that which Thou hast ordained for the righteous among Thy creatures.  Potent art Thou to do all things.  There is no God but Thee, the All-Powerful, the Help in Peril, the Almighty, the Most Bountiful.Do not bring our fasts to an end with this fast, O my Lord, nor the covenants Thou hast made with this covenant.  Do Thou accept all that we have done for love of Thee, and for the sake of Thy pleasure, and all that we have left undone as a result of our subjection to our evil and corrupt desires.  Enable us, then, to cleave steadfastly to Thy love and Thy good pleasure, and preserve us from the mischief of such as have denied Thee and repudiated Thy most resplendent signs.  Thou art, in truth, the Lord of this world and of the next.  No God is there beside Thee, the Exalted, the Most High.Magnify Thou, O Lord my God, Him Who is the Primal Point, the Divine Mystery, the Unseen Essence, the Dayspring of Divinity, and the Manifestation of Thy Lordship, through Whom all the knowledge of the past and all the knowledge of the future were made plain, through Whom the pearls of Thy hidden wisdom were uncovered, and the mystery of Thy treasured name disclosed, Whom Thou hast appointed as the Announcer of the One through Whose name the letter B and the letter E have been joined and united, through Whom Thy majesty, Thy sovereignty and Thy might were made known, through Whom Thy words have been sent down, and Thy laws set forth with clearness, and Thy signs spread abroad, and Thy Word established, through Whom the hearts of Thy chosen ones were laid bare, and all that were in the heavens and all that were on the earth were gathered together, Whom Thou has called ‘Alí-Muhammad in the kingdom of Thy names, and the Spirit of Spirits in the Tablets of Thine irrevocable decree, Whom Thou hast invested with Thine own title, unto Whose name all other names have, at Thy bidding and through the power of Thy might, been made to return, and in Whom Thou hast caused all Thine attributes and titles to attain their final consummation.  To Him also belong such names as lay hid within Thy stainless tabernacles, in Thine invisible world and Thy sanctified cities.Magnify Thou, moreover, such as have believed in Him and in His signs and have turned towards Him, from among those that have acknowledged Thy unity in His Latter Manifestation—a Manifestation whereof He hath made mention in His Tablets, and in His Books, and in His Scriptures, and in all the wondrous verses and gem-like utterances that have descended upon Him.  It is this same Manifestation Whose covenant Thou hast bidden Him establish ere He had established His own covenant.  He it is Whose praise the Bayán hath celebrated.  In it His excellence hath been extolled, and His truth established, and His sovereignty proclaimed, and His Cause perfected.  Blessed is the man that hath turned unto Him, and fulfilled the things He hath commanded, O Thou Who art the Lord of the world and the Desire of all them that have known Thee!Praised be Thou, O my God, inasmuch as Thou hast aided us to recognize and love Him.  I, therefore, beseech Thee by Him and by Them Who are the Daysprings of Thy Divinity, and the Manifestations of Thy Lordship, and the Treasuries of Thy Revelation, and the Depositories of Thine inspiration, to enable us to serve and obey Him, and to empower us to become the helpers of His Cause and the dispersers of His adversaries.  Powerful art Thou to do all that pleaseth Thee.  No God is there beside Thee, the Almighty, the All-Glorious, the One Whose help is sought by all men!
 
 -- Bahá'u'lláh
 
-BH00778 «[English](../en/prayers/#BH00778)» «[Nederlands](../nl/prayers/#BH00778)» «[Español](../es/prayers/#BH00778)» 
+BH00778 «[Nederlands](../../nl/prayers/#BH00778)» «[Español](../../es/prayers/#BH00778)» 
 
 ----
 
@@ -4093,7 +4094,7 @@ Praise be unto Thee, O Lord my God!  We have observed the Fast in conformity wit
 
 -- Bahá'u'lláh
 
-BH10581 «[English](../en/prayers/#BH10581)» «[Nederlands](../nl/prayers/#BH10581)» «[Português (BR)](../pt/prayers/#BH10581)» 
+BH10581 «[Nederlands](../../nl/prayers/#BH10581)» «[Português (BR)](../../pt/prayers/#BH10581)» 
 
 ----
 
@@ -4103,7 +4104,7 @@ Praised be Thou, O God, my God!  These are the days whereon Thou hast enjoined T
 
 -- Bahá'u'lláh
 
-BH01503ENJ «[English](../en/prayers/#BH01503ENJ)» «[Nederlands](../nl/prayers/#BH01503ENJ)» 
+BH01503ENJ «[Nederlands](../../nl/prayers/#BH01503ENJ)» 
 
 ----
 
@@ -4113,7 +4114,7 @@ O Divine Providence! As I am abstaining from bodily desires and not occupied wit
 
 -- Abdu'l-Bahá
 
-bpn6808 «[English](../en/prayers/#bpn6808)» 
+bpn6808 
 
 ----
 
@@ -4127,7 +4128,7 @@ Suffer me not, O God, my God, to be kept back from the heaven of Thy bounties an
 
 -- Bahá'u'lláh
 
-BH05703KEP «[English](../en/prayers/#BH05703KEP)» 
+BH05703KEP 
 
 ----
 
@@ -4137,7 +4138,7 @@ Lauded be Thy name, O Lord my God! Darkness hath fallen upon every land, and the
 
 -- Bahá'u'lláh
 
-bpn439 «[English](../en/prayers/#bpn439)» 
+bpn439 
 
 ----
 
@@ -4147,7 +4148,7 @@ Thou seest, O my God, how Thy loved ones have been encompassed by the rebellious
 
 -- Bahá'u'lláh
 
-BH09809 «[English](../en/prayers/#BH09809)» «[Nederlands](../nl/prayers/#BH09809)» 
+BH09809 «[Nederlands](../../nl/prayers/#BH09809)» 
 
 ----
 
@@ -4157,7 +4158,7 @@ Glory be to Thee, O Lord my God!  Make manifest the rivers of Thy sovereign migh
 
 -- Bahá'u'lláh
 
-BH11278RIV «[English](../en/prayers/#BH11278RIV)» «[Español](../es/prayers/#BH11278RIV)» 
+BH11278RIV «[Español](../../es/prayers/#BH11278RIV)» 
 
 ----
 
@@ -4167,7 +4168,7 @@ O Lord!  Render victorious Thy forbearing servants in Thy days by granting them 
 
 -- Báb
 
-BB00543VIC «[English](../en/prayers/#BB00543VIC)» «[Nederlands](../nl/prayers/#BB00543VIC)» «[Español](../es/prayers/#BB00543VIC)» 
+BB00543VIC «[Nederlands](../../nl/prayers/#BB00543VIC)» «[Español](../../es/prayers/#BB00543VIC)» 
 
 ----
 
@@ -4177,7 +4178,7 @@ O Lord!  Enable all the peoples of the earth to gain admittance into the Paradis
 
 -- Báb
 
-BB00002ENA «[English](../en/prayers/#BB00002ENA)» «[Esperanto](../eo/prayers/#BB00002ENA)» 
+BB00002ENA «[Esperanto](../../eo/prayers/#BB00002ENA)» 
 
 ----
 
@@ -4187,7 +4188,7 @@ O Lord!  Provide for the speedy growth of the Tree of Thy divine Unity; water it
 
 -- Báb
 
-BB00147GRO «[English](../en/prayers/#BB00147GRO)» «[Nederlands](../nl/prayers/#BB00147GRO)» 
+BB00147GRO «[Nederlands](../../nl/prayers/#BB00147GRO)» 
 
 ----
 
@@ -4197,7 +4198,7 @@ Glory be unto Thee, O Lord, Thou Who hast brought into being all created things,
 
 -- Báb
 
-BB00004REN «[English](../en/prayers/#BB00004REN)» «[Esperanto](../eo/prayers/#BB00004REN)» «[Español](../es/prayers/#BB00004REN)» 
+BB00004REN «[Español](../../es/prayers/#BB00004REN)» «[Esperanto](../../eo/prayers/#BB00004REN)» 
 
 ----
 
@@ -4207,17 +4208,17 @@ He is God!O Lord, my God, my Well-Beloved!  These are servants of Thine that hav
 
 -- Abdu'l-Bahá
 
-AB00527 «[English](../en/prayers/#AB00527)» «[Nederlands](../nl/prayers/#AB00527)» 
+AB00527 «[Nederlands](../../nl/prayers/#AB00527)» 
 
 ----
 
 
 <a id="AB00065KIN"></a> 
-O God, my God!  Praise be unto Thee for kindling the fire of divine love in the Holy Tree on the summit of the loftiest mount: that Tree which is “neither of the East nor of the West,”¹ that fire which blazed out till the flame of it soared upward to the Concourse on high, and from it those realities caught the light of guidance, and cried out: “Verily have we perceived a fire on the slope of Mount Sinai.”² O God, my God!  Increase Thou this fire, as day followeth day, till the blast of it setteth in motion all the earth.  O Thou, my Lord! Kindle the light of Thy love in every heart, breathe into men&#39;s souls the spirit of Thy knowledge, gladden their breasts with the verses of Thy oneness.  Call Thou to life those who dwell in their tombs, warn Thou the prideful, make happiness worldwide, send down Thy crystal waters, and in the assemblage of manifest splendors, pass round that cup which is “tempered at the camphor fountain.”³ Verily, Thou art the Giving, the Forgiving, the Ever-Bestowing.Verily, Thou art the Merciful, the Compassionate.*1. Qur’án 24:35.*2. cf. Qur’án 28:29.*3. Qur’án 76:5.
+O God, my God!  Praise be unto Thee for kindling the fire of divine love in the Holy Tree on the summit of the loftiest mount: that Tree which is “neither of the East nor of the West,”¹ that fire which blazed out till the flame of it soared upward to the Concourse on high, and from it those realities caught the light of guidance, and cried out: “Verily have we perceived a fire on the slope of Mount Sinai.”² O God, my God!  Increase Thou this fire, as day followeth day, till the blast of it setteth in motion all the earth.  O Thou, my Lord! Kindle the light of Thy love in every heart, breathe into men's souls the spirit of Thy knowledge, gladden their breasts with the verses of Thy oneness.  Call Thou to life those who dwell in their tombs, warn Thou the prideful, make happiness worldwide, send down Thy crystal waters, and in the assemblage of manifest splendors, pass round that cup which is “tempered at the camphor fountain.”³ Verily, Thou art the Giving, the Forgiving, the Ever-Bestowing.Verily, Thou art the Merciful, the Compassionate.*1. Qur’án 24:35.*2. cf. Qur’án 28:29.*3. Qur’án 76:5.
 
 -- Abdu'l-Bahá
 
-AB00065KIN «[English](../en/prayers/#AB00065KIN)» «[Nederlands](../nl/prayers/#AB00065KIN)» «[Português (BR)](../pt/prayers/#AB00065KIN)» 
+AB00065KIN «[Nederlands](../../nl/prayers/#AB00065KIN)» «[Português (BR)](../../pt/prayers/#AB00065KIN)» 
 
 ----
 
@@ -4231,7 +4232,7 @@ God is sufficient unto me; He verily is the All-sufficing! In Him let the trusti
 
 -- Bahá'u'lláh
 
-bpn2455 «[English](../en/prayers/#bpn2455)» 
+bpn2455 
 
 ----
 
@@ -4245,7 +4246,7 @@ O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creati
 
 -- Bahá'u'lláh
 
-bpn6792 «[English](../en/prayers/#bpn6792)» 
+bpn6792 
 
 ----
 
@@ -4255,7 +4256,7 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 
 -- Bahá'u'lláh
 
-bpn6791 «[English](../en/prayers/#bpn6791)» 
+bpn6791 
 
 ----
 
@@ -4265,7 +4266,7 @@ Glory be to Thee, O God, for Thy manifestation of love to mankind!  O Thou Who a
 
 -- Bahá'u'lláh
 
-bpn6790 «[English](../en/prayers/#bpn6790)» 
+bpn6790 
 
 ----
 
@@ -4275,7 +4276,7 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 
 -- Bahá'u'lláh
 
-BH10505 «[English](../en/prayers/#BH10505)» «[Esperanto](../eo/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» 
+BH10505 «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» «[Frysk](../../fy/prayers/#BH10505)» 
 
 ----
 
@@ -4285,7 +4286,7 @@ O my God!  O my God!  Verily, I invoke Thee and supplicate before Thy threshold,
 
 -- Abdu'l-Bahá
 
-ABU0023UNI «[English](../en/prayers/#ABU0023UNI)» «[Esperanto](../eo/prayers/#ABU0023UNI)» «[Nederlands](../nl/prayers/#ABU0023UNI)» 
+ABU0023UNI «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[Esperanto](../../eo/prayers/#ABU0023UNI)» 
 
 ----
 
@@ -4299,7 +4300,7 @@ O Thou Whose face is the object of the adoration of all that yearn after Thee, W
 
 -- Bahá'u'lláh
 
-BH09162 «[English](../en/prayers/#BH09162)» «[Nederlands](../nl/prayers/#BH09162)» «[Español](../es/prayers/#BH09162)» 
+BH09162 «[Nederlands](../../nl/prayers/#BH09162)» «[Español](../../es/prayers/#BH09162)» 
 
 ----
 
@@ -4309,7 +4310,7 @@ Glory be to Thee, O my God!  My face hath been set towards Thy face, and my face
 
 -- Bahá'u'lláh
 
-BH09399 «[English](../en/prayers/#BH09399)» «[Español](../es/prayers/#BH09399)» 
+BH09399 «[Español](../../es/prayers/#BH09399)» 
 
 ----
 
@@ -4319,7 +4320,7 @@ Glorified art Thou, O Lord my God!  Thou art He the fire of Whose love hath set 
 
 -- Bahá'u'lláh
 
-BH06429 «[English](../en/prayers/#BH06429)» 
+BH06429 
 
 ----
 
@@ -4329,7 +4330,7 @@ Magnified be Thy name, O Lord my God! Behold Thou mine eye expectant to gaze on 
 
 -- Bahá'u'lláh
 
-BH07663 «[English](../en/prayers/#BH07663)» 
+BH07663 
 
 ----
 
@@ -4339,17 +4340,17 @@ Glory to Thee, O my God!  One of Thy handmaidens, who hath believed in Thee and 
 
 -- Bahá'u'lláh
 
-BH08852 «[English](../en/prayers/#BH08852)» «[Nederlands](../nl/prayers/#BH08852)» «[Português (BR)](../pt/prayers/#BH08852)» 
+BH08852 «[Nederlands](../../nl/prayers/#BH08852)» «[Português (BR)](../../pt/prayers/#BH08852)» 
 
 ----
 
 
 <a id="BH10231"></a> 
-Thou seest, O my God, how the wrongs committed by such of Thy creatures as have turned their backs to Thee have come in between Him in Whom Thy Godhead is manifest and Thy servants.  Send down upon them, O my Lord, what will cause them to be busied with each others&#39; concerns.  Let, then, their violence be confined to their own selves, that the land and they that dwell therein may find peace.One of Thy handmaidens, O my Lord, hath sought Thy face, and soared in the atmosphere of Thy pleasure.  Withhold not from her, O my Lord, the things Thou didst ordain for the chosen ones among Thy handmaidens.Enable her, then, to be so attracted by Thine utterances that she will celebrate Thy praise amongst them.Potent art Thou to do what pleaseth Thee.  No God is there but Thee, the Almighty, Whose help is implored by all men.
+Thou seest, O my God, how the wrongs committed by such of Thy creatures as have turned their backs to Thee have come in between Him in Whom Thy Godhead is manifest and Thy servants.  Send down upon them, O my Lord, what will cause them to be busied with each others' concerns.  Let, then, their violence be confined to their own selves, that the land and they that dwell therein may find peace.One of Thy handmaidens, O my Lord, hath sought Thy face, and soared in the atmosphere of Thy pleasure.  Withhold not from her, O my Lord, the things Thou didst ordain for the chosen ones among Thy handmaidens.Enable her, then, to be so attracted by Thine utterances that she will celebrate Thy praise amongst them.Potent art Thou to do what pleaseth Thee.  No God is there but Thee, the Almighty, Whose help is implored by all men.
 
 -- Bahá'u'lláh
 
-BH10231 «[English](../en/prayers/#BH10231)» «[Español](../es/prayers/#BH10231)» 
+BH10231 «[Español](../../es/prayers/#BH10231)» 
 
 ----
 
@@ -4359,7 +4360,7 @@ Magnified be Thy name, O Thou in Whose grasp are the reins of the souls of all t
 
 -- Bahá'u'lláh
 
-bpn6669 «[English](../en/prayers/#bpn6669)» 
+bpn6669 
 
 ----
 
@@ -4369,7 +4370,7 @@ O God! The trials Thou sendest are a salve to the sores of all them who are devo
 
 -- Bahá'u'lláh
 
-bpn6811 «[English](../en/prayers/#bpn6811)» 
+bpn6811 
 
 ----
 
@@ -4379,7 +4380,7 @@ Magnified art Thou, O Lord my God! I ask Thee by Thy Name which Thou hast set up
 
 -- Bahá'u'lláh
 
-bpn6813 «[English](../en/prayers/#bpn6813)» 
+bpn6813 
 
 ----
 
@@ -4389,7 +4390,7 @@ O Thou, at Whose dreadful majesty all things have trembled, in Whose grasp are t
 
 -- Bahá'u'lláh
 
-BH07426DRE «[English](../en/prayers/#BH07426DRE)» «[Nederlands](../nl/prayers/#BH07426DRE)» 
+BH07426DRE «[Nederlands](../../nl/prayers/#BH07426DRE)» 
 
 ----
 
@@ -4399,7 +4400,7 @@ Praised be Thou, O Lord my God! Thou art He Who hath created all things through 
 
 -- Bahá'u'lláh
 
-bpn6812 «[English](../en/prayers/#bpn6812)» 
+bpn6812 
 
 ----
 
@@ -4409,7 +4410,7 @@ O Lord! Help this daughter of the Kingdom to be exalted in both worlds; cause he
 
 -- Abdu'l-Bahá
 
-bpn6810 «[English](../en/prayers/#bpn6810)» 
+bpn6810 
 
 ----
 
@@ -4419,7 +4420,7 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 
 -- Abdu'l-Bahá
 
-AB10769 «[English](../en/prayers/#AB10769)» «[Esperanto](../eo/prayers/#AB10769)» «[Italiano](../it/prayers/#AB10769)» 
+AB10769 «[Esperanto](../../eo/prayers/#AB10769)» «[Italiano](../../it/prayers/#AB10769)» 
 
 ----
 
@@ -4429,7 +4430,7 @@ O Thou forgiving God!  Forgive the sins of my loving mother, pardon her shortcom
 
 -- Abdu'l-Bahá
 
-bpn10520 «[English](../en/prayers/#bpn10520)» 
+bpn10520 
 
 ----
 
@@ -4439,7 +4440,7 @@ bpn10520 «[English](../en/prayers/#bpn10520)»
 
 -- Abdu'l-Bahá
 
-bpn413 «[English](../en/prayers/#bpn413)» 
+bpn413 
 
 ----
 
@@ -4453,7 +4454,7 @@ Praise and glory be to Thee, O Lord my God!  This is a choice sapling which Thou
 
 -- Abdu'l-Bahá
 
-AB02825 «[English](../en/prayers/#AB02825)» 
+AB02825 
 
 ----
 
@@ -4463,7 +4464,7 @@ O Thou kind Lord!  From the horizon of detachment Thou hast manifested souls tha
 
 -- Abdu'l-Bahá
 
-AB00314HOR «[English](../en/prayers/#AB00314HOR)» 
+AB00314HOR 
 
 ----
 
@@ -4473,7 +4474,7 @@ O Lord! Make this youth radiant and confer Thy bounty upon this poor creature. B
 
 -- Abdu'l-Bahá
 
-AB10703RAD «[English](../en/prayers/#AB10703RAD)» «[Esperanto](../eo/prayers/#AB10703RAD)» «[Português (BR)](../pt/prayers/#AB10703RAD)» «[Papiamentu](../pap/prayers/#AB10703RAD)» 
+AB10703RAD «[Esperanto](../../eo/prayers/#AB10703RAD)» «[Papiamentu](../../pap/prayers/#AB10703RAD)» «[Português (BR)](../../pt/prayers/#AB10703RAD)» 
 
 ----
 
@@ -4483,7 +4484,7 @@ O Thou kind Lord!Graciously bestow a pair of heavenly wings unto each of these f
 
 -- Abdu'l-Bahá
 
-bpn10137 «[English](../en/prayers/#bpn10137)» 
+bpn10137 
 
 ----
 
@@ -4493,7 +4494,7 @@ O Thou kind lord!Bestow heavenly confirmation upon this daughter of the Kingdom 
 
 -- Abdu'l-Bahá
 
-AB10492 «[English](../en/prayers/#AB10492)» «[Nederlands](../nl/prayers/#AB10492)» «[Español](../es/prayers/#AB10492)» 
+AB10492 «[Nederlands](../../nl/prayers/#AB10492)» «[Español](../../es/prayers/#AB10492)» 
 
 ----
 

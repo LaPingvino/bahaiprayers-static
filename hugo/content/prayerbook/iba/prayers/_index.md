@@ -5,6 +5,7 @@ tags = ['lang=iba', 'prayerbook']
 
 
 
+
 [ANAKMIT](#ANAKMIT)
 
 [ANEMBIAK](#ANEMBIAK)
@@ -101,7 +102,7 @@ O Petara! Tupi anakmit tu dalam ruang dada pengerinduNuan, lalu beri iya tusu ar
 
 -- Abdu'l-Bahá
 
-bpn12611 «[Iban](../iba/prayers/#bpn12611)» 
+bpn12611 
 
 ----
 
@@ -111,7 +112,7 @@ O Nuan Tuhan ti nadai banding! Asuh anakmit tu nusu ba ruang dada pengerindu-pen
 
 -- Abdu'l-Bahá
 
-bpn12612 «[Iban](../iba/prayers/#bpn12612)» 
+bpn12612 
 
 ----
 
@@ -121,7 +122,7 @@ O Nuan Tuhan ti Nelap! Bala anakmit ti manah tu endang asil pengawa tunjuk peneg
 
 -- Abdu'l-Bahá
 
-bpn12613 «[Iban](../iba/prayers/#bpn12613)» 
+bpn12613 
 
 ----
 
@@ -131,7 +132,7 @@ O Petara! Ajar sida anakmit tu. Sida anakmit tu utai tanam ba madang buah Nuan, 
 
 -- Abdu'l-Bahá
 
-bpn12614 «[Iban](../iba/prayers/#bpn12614)» 
+bpn12614 
 
 ----
 
@@ -141,7 +142,7 @@ O Tuhan aku, O Tuhan aku!Aku tu anakmit ti agi biak. Tupi aku ari dada pengasih 
 
 -- Abdu'l-Bahá
 
-bpn12615 «[Iban](../iba/prayers/#bpn12615)» 
+bpn12615 
 
 ----
 
@@ -151,7 +152,7 @@ O Nuan Tuhan ti pemadu bemulia! Gaga pengasuh induNuan ti mit tu beberekat seret
 
 -- Abdu'l-Bahá
 
-bpn12616 «[Iban](../iba/prayers/#bpn12616)» 
+bpn12616 
 
 ----
 
@@ -161,7 +162,7 @@ O Tuhan! Gaga bala anakmit tu nyadi kayu ti lati. Asuh sida tumbuh sereta mansan
 
 -- Abdu'l-Bahá
 
-bpn12617 «[Iban](../iba/prayers/#bpn12617)» 
+bpn12617 
 
 ----
 
@@ -171,7 +172,7 @@ O Petara, iring aku, jaga aku, gaga aku nyadi lampu ti terang enggau bintang ti 
 
 -- Abdu'l-Bahá
 
-bpn12618 «[Iban](../iba/prayers/#bpn12618)» 
+bpn12618 
 
 ----
 
@@ -185,7 +186,7 @@ O Nuan Tuhan ti nelap! Ari bingkai-langit pengingkasNuan udah ngayanka bala seme
 
 -- Abdu'l-Bahá
 
-bpn12619 «[Iban](../iba/prayers/#bpn12619)» 
+bpn12619 
 
 ----
 
@@ -195,7 +196,7 @@ O Nuan Tuhan ti nelap! Enggau pengasih sikap sepasang sayap serega ngagai tiap a
 
 -- Abdu'l-Bahá
 
-bpn12620 «[Iban](../iba/prayers/#bpn12620)» 
+bpn12620 
 
 ----
 
@@ -205,7 +206,7 @@ O Nuan Tuhan ti nelap! Sikap penetap serega ba anak indu tu ba perintah, lalu en
 
 -- Abdu'l-Bahá
 
-bpn12621 «[Iban](../iba/prayers/#bpn12621)» 
+bpn12621 
 
 ----
 
@@ -215,7 +216,7 @@ O Tuhan! Asuh anembiak tu terang, lalu chirika pemisiNuan ba utai tempa ti seran
 
 -- Abdu'l-Bahá
 
-bpn12622 «[Iban](../iba/prayers/#bpn12622)» 
+bpn12622 
 
 ----
 
@@ -225,7 +226,7 @@ Puji enggau mulia meh ngagai Nuan, O Tuhan Petara aku! Tu meh paung pilih ke uda
 
 -- Abdu'l-Bahá
 
-bpn12623 «[Iban](../iba/prayers/#bpn12623)» 
+bpn12623 
 
 ----
 
@@ -239,7 +240,7 @@ bpn12623 «[Iban](../iba/prayers/#bpn12623)»
 
 -- Bahá'u'lláh
 
-bpn12725 «[Iban](../iba/prayers/#bpn12725)» 
+bpn12725 
 
 ----
 
@@ -253,17 +254,17 @@ Nuan meda, O Tuhan, jari peminta kami diangkat ngadap serega pengasih enggau pem
 
 -- Bahá'u'lláh
 
-bpn12626 «[Iban](../iba/prayers/#bpn12626)» 
+bpn12626 
 
 ----
 
 
 <a id="bpn12624"></a> 
-&#34;Berekat meh iya ti ingatka apai indai iya lebuh berandau enggau Petara&#34;.
+"Berekat meh iya ti ingatka apai indai iya lebuh berandau enggau Petara".
 
 -- Báb
 
-bpn12624 «[Iban](../iba/prayers/#bpn12624)» 
+bpn12624 
 
 ----
 
@@ -273,7 +274,7 @@ Aku minta pengampun Nuan, O Petara aku, lalu minta tembang nitihka gaya peneka N
 
 -- Báb
 
-bpn12625 «[Iban](../iba/prayers/#bpn12625)» 
+bpn12625 
 
 ----
 
@@ -283,7 +284,7 @@ Tuhan aku! Tuhan aku! Aku muji Nuan sereta beterima kasih ngagai Nuan laban Nuan
 
 -- Abdu'l-Bahá
 
-bpn12627 «[Iban](../iba/prayers/#bpn12627)» 
+bpn12627 
 
 ----
 
@@ -293,7 +294,7 @@ O Petara, Petara aku! Tu pengasuh- indu Nuan minta ngagai Nuan, arap ba Nuan, nu
 
 -- Abdu'l-Bahá
 
-bpn12628 «[Iban](../iba/prayers/#bpn12628)» 
+bpn12628 
 
 ----
 
@@ -303,7 +304,7 @@ O Tuhan! Dalam Rambau ti Pemadu Tebangkar tu Nuan nerima peminta ari bala anak t
 
 -- Abdu'l-Bahá
 
-bpn12629 «[Iban](../iba/prayers/#bpn12629)» 
+bpn12629 
 
 ----
 
@@ -317,7 +318,7 @@ Dimuliaka meh Nuan, O Tuhan Petara aku! Aku minta ngagai Nuan ngena pangka ribut
 
 -- Bahá'u'lláh
 
-bpn12630 «[Iban](../iba/prayers/#bpn12630)» 
+bpn12630 
 
 ----
 
@@ -327,7 +328,7 @@ Nuan Petara ti pengasih! O Nuan Siku ti tegap sereta bekuasa! O Nuan Apai ti pem
 
 -- Abdu'l-Bahá
 
-bpn12631 «[Iban](../iba/prayers/#bpn12631)» 
+bpn12631 
 
 ----
 
@@ -337,7 +338,7 @@ Nuan Tuhan ti nelap! Tu bala pengasuh Nuan ti udah begempuru ba aum tu, ngadap p
 
 -- Abdu'l-Bahá
 
-bpn12632 «[Iban](../iba/prayers/#bpn12632)» 
+bpn12632 
 
 ----
 
@@ -347,7 +348,7 @@ Nuan Petara ti Pengampun! Bala pengasuh tu ngadap perintah Nuan lalu ngiga penga
 
 -- Abdu'l-Bahá
 
-bpn12633 «[Iban](../iba/prayers/#bpn12633)» 
+bpn12633 
 
 ----
 
@@ -357,7 +358,7 @@ O Nuan Pemekal ti bepengerindu! Semua semengat tu udah ninga kangau Perintah Pet
 
 -- Abdu'l-Bahá
 
-bpn12634 «[Iban](../iba/prayers/#bpn12634)» 
+bpn12634 
 
 ----
 
@@ -371,7 +372,7 @@ Semua bala pangan Petara… patut meri enggau naka ulih, enda ngira penyampau ia
 
 -- Abdu'l-Bahá
 
-bpn12635 «[Iban](../iba/prayers/#bpn12635)» 
+bpn12635 
 
 ----
 
@@ -381,7 +382,7 @@ O Petara, Petara aku! Terangka kening semua bala ti amat rindu ke Nuan, lalu tul
 
 -- Abdu'l-Bahá
 
-bpn12636 «[Iban](../iba/prayers/#bpn12636)» 
+bpn12636 
 
 ----
 
@@ -395,7 +396,7 @@ O Petara,enggauPetarakesemuaNama,enggauPengaga semua serega! Aku minta Nuan neng
 
 -- Bahá'u'lláh
 
-bpn12637 «[Iban](../iba/prayers/#bpn12637)» 
+bpn12637 
 
 ----
 
@@ -409,7 +410,7 @@ O Nuan ti benung nungaka mua ngadap Petara! Pejamka mata nuan ngagai semua utai 
 
 -- Abdu'l-Bahá
 
-bpn12747 «[Iban](../iba/prayers/#bpn12747)» 
+bpn12747 
 
 ----
 
@@ -419,7 +420,7 @@ O nuan ti nguing ngadap Perintah Petara!Aku bisi dipadah pasal undan surat nuan 
 
 -- Abdu'l-Bahá
 
-bpn12748 «[Iban](../iba/prayers/#bpn12748)» 
+bpn12748 
 
 ----
 
@@ -433,7 +434,7 @@ Pemajik Jeman udah ngemendarka diri dirantai ngambika bansa mensia tau dilepas a
 
 -- Bahá'u'lláh
 
-bpn12744 «[Iban](../iba/prayers/#bpn12744)» 
+bpn12744 
 
 ----
 
@@ -443,7 +444,7 @@ Nyadi mentas dalam pengeraja, lalu beterima kasih dalam penusah. Nyadi lumau dik
 
 -- Bahá'u'lláh
 
-bpn12745 «[Iban](../iba/prayers/#bpn12745)» 
+bpn12745 
 
 ----
 
@@ -453,7 +454,7 @@ Ungkup kereja ti keterubah sereta pemadu dulu ti udah dipadah ngagai mensia, pen
 
 -- Bahá'u'lláh
 
-bpn12746 «[Iban](../iba/prayers/#bpn12746)» 
+bpn12746 
 
 ----
 
@@ -467,7 +468,7 @@ bpn12746 «[Iban](../iba/prayers/#bpn12746)»
 
 -- Bahá'u'lláh
 
-bpn12742 «[Iban](../iba/prayers/#bpn12742)» 
+bpn12742 
 
 ----
 
@@ -477,7 +478,7 @@ Ba hari keterubah Pemajik Jeman niki Maligai Iya tiPemadu Bekuasa dalam kebun ti
 
 -- Bahá'u'lláh
 
-bpn12743 «[Iban](../iba/prayers/#bpn12743)» 
+bpn12743 
 
 ----
 
@@ -491,7 +492,7 @@ bpn12743 «[Iban](../iba/prayers/#bpn12743)»
 
 -- Bahá'u'lláh
 
-bpn12723 «[Iban](../iba/prayers/#bpn12723)» 
+bpn12723 
 
 ----
 
@@ -501,7 +502,7 @@ Dikemulia meh Nuan, O Tuhan aku ti penyinu ! Aku minta kasih Nuan nengah gelingg
 
 -- Bahá'u'lláh
 
-bpn12724 «[Iban](../iba/prayers/#bpn12724)» 
+bpn12724 
 
 ----
 
@@ -515,7 +516,7 @@ bpn12724 «[Iban](../iba/prayers/#bpn12724)»
 
 -- Bahá'u'lláh
 
-bpn12638 «[Iban](../iba/prayers/#bpn12638)» 
+bpn12638 
 
 ----
 
@@ -525,7 +526,7 @@ O Petara aku, Tuan aku, Juluk ati pengingin aku! Tu, pengasuh Nuan, ngiga penind
 
 -- Bahá'u'lláh
 
-bpn12639 «[Iban](../iba/prayers/#bpn12639)» 
+bpn12639 
 
 ----
 
@@ -535,7 +536,7 @@ O Tuhan, aku udah nungaka mua aku ngadap perintah penyatu Nuan lalu nyelamka dir
 
 -- Abdu'l-Bahá
 
-bpn12640 «[Iban](../iba/prayers/#bpn12640)» 
+bpn12640 
 
 ----
 
@@ -549,7 +550,7 @@ Petara aku, Iya ti disembah sereta disayau aku! Aku besaksi ke penyerakup Nuan e
 
 -- Bahá'u'lláh
 
-bpn12641 «[Iban](../iba/prayers/#bpn12641)» 
+bpn12641 
 
 ----
 
@@ -559,7 +560,7 @@ O Nuan Tuhan ti penyinu, Nuan ti amat mentas sereta bepengulih! Kami tu pengasuh
 
 -- Abdu'l-Bahá
 
-bpn12642 «[Iban](../iba/prayers/#bpn12642)» 
+bpn12642 
 
 ----
 
@@ -569,7 +570,7 @@ O Nuan Tuhan ti nelap! Nuan udah nempa semua mensia ari asal ti sama. Nuan udah 
 
 -- Abdu'l-Bahá
 
-bpn12643 «[Iban](../iba/prayers/#bpn12643)» 
+bpn12643 
 
 ----
 
@@ -579,7 +580,7 @@ O Nuan Tuhan ti nelap! O Nuan Siku ti mentas sereta penyinu! Kami tu bala pengas
 
 -- Abdu'l-Bahá
 
-bpn12644 «[Iban](../iba/prayers/#bpn12644)» 
+bpn12644 
 
 ----
 
@@ -589,11 +590,11 @@ bpn12644 «[Iban](../iba/prayers/#bpn12644)»
 ## NAW-RÚZ
 
 <a id="bpn12733"></a> 
-*(Naw-Rúz meh hari keterubah ba taun Bahá’í)Puji meh Nuan, O Petara aku, laban Nuan udah ngeletakNaw-Rúz nyadika pengerami ke sida ti udah ngintu Puasa ketegal pengerindu sida ke Nuan lalu nagang diri ari semua utai ti kamah ba Nuan. Kemendarka, O Tuhan aku, api pengerindu Nuan sereta pengangat ti dikeluar ari Puasa ti diasuh Nuan tau ngemauka sida dalam Pengawa Nuan, lalu ngasuh sida kiruh enggau puji Nuan sereta pengingat Nuan.Laban Nuan udah ngiyas sida, O Tuhan aku, ngena ngepan Puasa ti udah diungkup Nuan ke sida, penyamai pemanah nya alai iyas sida mega ngena ngepan penerima Nuan, nengah berekat enggau pemayuh pengasih Nuan. Laban kereja mensia endang semua bepanggai ba Nuan, lalu nitihka tangkan- atur Nuan. Sema Nuan ngeletak iya ti udah ngelanggar Puasa sebaka enggau sida ti udah ngintu nya, mensia ti baka nya deka diterima baka sida ti ari jeman kelia ti seruran ngintu Puasa. Lalu sema Nuan ngeletak iya ti udah ngintu Puasa lalu ngelanggar nya, orang nya deka disengkaum enggau sida ti udah ngasuh Kelambi Revelasyen Nuan dipechik abu, lalu udah diiyar jauh ari ai kristal Tengkeching pengidup tu.Nuan meh Iya lalu nengah Nuan menira &#34;Pemadu dipuji meh Nuan dalam semua kereja Nuan&#34; udah ditegika, lalu tikas &#34;Dititih meh Nuan dalam tangkan-aturNuan&#34; udah dikerembaika. Asuh temu pangkat Nuan tu, O Petara aku, ngagai bala pengasuh Nuan, ngambika sida tau diasuh nemu pengelati semua utai bepanggai ba pinta Nuan enggau leka jaku Nuan, lalu pemadas tiap-tiap pengawa nitihka pemendar Nuan enggau pemanahpenyamai peneka Nuan, lalu tau ngelala kemudi pengawa mensia endang dalam genggam penerima Nuan enggau tangkan-ajar Nuan. Asuh tu temu ba sida, ianya nadai utai tau nutup sida ari Pemajik Nuan, ba hari tu ke alai Christ nyapa: &#34;Semua pegai-kuasa enggi Nuan, O Nuan ke Pemansut Roh (Jesus)&#34;; enggau Pangan Nuan (Muhammad) nyada: &#34;Mulia meh Nuan, O Nuan ti Pemadu Dikerindu, ketegal nya Nuan udah ngayanka Pemajik Nuan, lalu udah nulis ke bala ti dipilih Nuan utai ti deka ngasuh sida tulihka penuduk ba revelasyen Nama Nuan ti Pemadu Tebangkar, lalu nengah nya semua mensia udah merampau kelimpah ari sida ti ngingkas diri empu ari semua utai kelimpah ari Nuan, lalu nguingka sida empu nuju Iya Siku ti Pemansut Nuan-empu enggau Pengayan semua penau Nuan.&#34;Iya Siku ti Dan Nuan enggau semua raban Nuan, O Tuhan aku, udah nembuka puasa sida ba hari tu, udah ke ngibun ia dalam kandang balai Nuan, sereta dalam pengeransing sida deka ngenyamaika Nuan. Uji Nuan ngeletak ke Iya, enggau ke sida, sereta ke semua sida ti udah masuk betemu enggau Nuan ba hari nya suba semua pemanah ti udah ditaga Nuan dalam Kitab Nuan. Lalu, bekal sida, ngena utai ti deka nguntung sida, dalam kedua- dua pengidup tu enggau pengidup ti dudi.Nuan,endangamat,tiNemuSemua,tiPemaduPintar.
+*(Naw-Rúz meh hari keterubah ba taun Bahá’í)Puji meh Nuan, O Petara aku, laban Nuan udah ngeletakNaw-Rúz nyadika pengerami ke sida ti udah ngintu Puasa ketegal pengerindu sida ke Nuan lalu nagang diri ari semua utai ti kamah ba Nuan. Kemendarka, O Tuhan aku, api pengerindu Nuan sereta pengangat ti dikeluar ari Puasa ti diasuh Nuan tau ngemauka sida dalam Pengawa Nuan, lalu ngasuh sida kiruh enggau puji Nuan sereta pengingat Nuan.Laban Nuan udah ngiyas sida, O Tuhan aku, ngena ngepan Puasa ti udah diungkup Nuan ke sida, penyamai pemanah nya alai iyas sida mega ngena ngepan penerima Nuan, nengah berekat enggau pemayuh pengasih Nuan. Laban kereja mensia endang semua bepanggai ba Nuan, lalu nitihka tangkan- atur Nuan. Sema Nuan ngeletak iya ti udah ngelanggar Puasa sebaka enggau sida ti udah ngintu nya, mensia ti baka nya deka diterima baka sida ti ari jeman kelia ti seruran ngintu Puasa. Lalu sema Nuan ngeletak iya ti udah ngintu Puasa lalu ngelanggar nya, orang nya deka disengkaum enggau sida ti udah ngasuh Kelambi Revelasyen Nuan dipechik abu, lalu udah diiyar jauh ari ai kristal Tengkeching pengidup tu.Nuan meh Iya lalu nengah Nuan menira "Pemadu dipuji meh Nuan dalam semua kereja Nuan" udah ditegika, lalu tikas "Dititih meh Nuan dalam tangkan-aturNuan" udah dikerembaika. Asuh temu pangkat Nuan tu, O Petara aku, ngagai bala pengasuh Nuan, ngambika sida tau diasuh nemu pengelati semua utai bepanggai ba pinta Nuan enggau leka jaku Nuan, lalu pemadas tiap-tiap pengawa nitihka pemendar Nuan enggau pemanahpenyamai peneka Nuan, lalu tau ngelala kemudi pengawa mensia endang dalam genggam penerima Nuan enggau tangkan-ajar Nuan. Asuh tu temu ba sida, ianya nadai utai tau nutup sida ari Pemajik Nuan, ba hari tu ke alai Christ nyapa: "Semua pegai-kuasa enggi Nuan, O Nuan ke Pemansut Roh (Jesus)"; enggau Pangan Nuan (Muhammad) nyada: "Mulia meh Nuan, O Nuan ti Pemadu Dikerindu, ketegal nya Nuan udah ngayanka Pemajik Nuan, lalu udah nulis ke bala ti dipilih Nuan utai ti deka ngasuh sida tulihka penuduk ba revelasyen Nama Nuan ti Pemadu Tebangkar, lalu nengah nya semua mensia udah merampau kelimpah ari sida ti ngingkas diri empu ari semua utai kelimpah ari Nuan, lalu nguingka sida empu nuju Iya Siku ti Pemansut Nuan-empu enggau Pengayan semua penau Nuan."Iya Siku ti Dan Nuan enggau semua raban Nuan, O Tuhan aku, udah nembuka puasa sida ba hari tu, udah ke ngibun ia dalam kandang balai Nuan, sereta dalam pengeransing sida deka ngenyamaika Nuan. Uji Nuan ngeletak ke Iya, enggau ke sida, sereta ke semua sida ti udah masuk betemu enggau Nuan ba hari nya suba semua pemanah ti udah ditaga Nuan dalam Kitab Nuan. Lalu, bekal sida, ngena utai ti deka nguntung sida, dalam kedua- dua pengidup tu enggau pengidup ti dudi.Nuan,endangamat,tiNemuSemua,tiPemaduPintar.
 
 -- Bahá'u'lláh
 
-bpn12733 «[Iban](../iba/prayers/#bpn12733)» 
+bpn12733 
 
 ----
 
@@ -607,17 +608,17 @@ MuliamehkeNuan,OTuhankedunyaenggauPengingin ke semua menua, O Nuan ti udah dipeg
 
 -- Bahá'u'lláh
 
-bpn12645 «[Iban](../iba/prayers/#bpn12645)» 
+bpn12645 
 
 ----
 
 
 <a id="bpn12646"></a> 
-Puji meh nama Nuan, O Tuhan Petara aku! Nuan medabakani perening aku dituju ngagai penyiru pengasih Nuan, bakani mata aku ninjau ngagai bingkai- langit Berekat Pengasih Nuan enggau pengerindu pementas Nuan, lalu bakani jari aku diunjurka ngagai serega penyikap Nuan. Penegap Nuan nyadika saksi ba aku! Tiap perengka tubuh aku manjung ngagai Nuan lalu nyebut; &#34;O Nuan ti Chukup Dikerinduka semua dunya, enggau Tuhan ke semua ti di serega sereta di dunya, lalu Nuan ti Diniat semua ati ti angkunka Nuan! Aku minta enggau pemaruh ati ari Nuan, ari Tasik Nuan ke alai Nuan udah nyapa semua ti idup dalam serega enggau semua ti diau ba dunya tu, ngambika nulung bala pengasuh Nuan ti udah di tinggal nunga ngagai ia sereta sangkai ba tebing ia. Lalu, asuh sida, O Petara aku, ngingkaska diri ari semua utai bukai tang Nuan, lalu asuh sida bejakuka puji Nuan sereta ngangkatka pemanah Nuan. Nambahka nya, bekal sida, O Petara aku, ngena Ai anggur pengasih Nuan ti chulin, awakka tau ngasuh sida enda ingatka orang bukai kelimpah ari Nuan, lalu angkat ngereja Pengawa Nuan, lalu nyadi tegap dalam pengerindu sida ke Nuan. Nuan meh, amat bendar Tuhan ke pengidup sida sereta Pugu ti dikerindu sida. Enti sida diburu Nuan, sapa meh deka ngemataka sida: lalu enti sida jauh beserara ari Nuan, sapa meh ti tau nulung sida ngelawa Pemisi Nuan? Aku besumpah ngena penegap Nuan! Nadai alai penyelamat ti ulih endur rari kelimpah ari Nuan, lalu nadai pengelindung ti digiga kelimpah ari pengelindung Nuan, lalu nadai jaga kelimpah ari jaga Nuan. Penyai ngalun iya ti ngaku orang bukai nyadi Tuhan kelimpah ari Nuan, lalu beberekat meh sida ti udah ngelengkaka diri empu ari semua tanggam ba semua bala ti diau ba tanah Nuan, lalu bepagut ba rambu pengeluas penyayau Nuan. Tu! bala orang Bahá, ba mua semua ti di serega enggau semua ti ba bumi. Nadai Petara bukai tang Nuan, ti Penuh Penemu, ti Semua Pintar.” Pujika Petara, Tuhan ke semua dunya.
+Puji meh nama Nuan, O Tuhan Petara aku! Nuan medabakani perening aku dituju ngagai penyiru pengasih Nuan, bakani mata aku ninjau ngagai bingkai- langit Berekat Pengasih Nuan enggau pengerindu pementas Nuan, lalu bakani jari aku diunjurka ngagai serega penyikap Nuan. Penegap Nuan nyadika saksi ba aku! Tiap perengka tubuh aku manjung ngagai Nuan lalu nyebut; "O Nuan ti Chukup Dikerinduka semua dunya, enggau Tuhan ke semua ti di serega sereta di dunya, lalu Nuan ti Diniat semua ati ti angkunka Nuan! Aku minta enggau pemaruh ati ari Nuan, ari Tasik Nuan ke alai Nuan udah nyapa semua ti idup dalam serega enggau semua ti diau ba dunya tu, ngambika nulung bala pengasuh Nuan ti udah di tinggal nunga ngagai ia sereta sangkai ba tebing ia. Lalu, asuh sida, O Petara aku, ngingkaska diri ari semua utai bukai tang Nuan, lalu asuh sida bejakuka puji Nuan sereta ngangkatka pemanah Nuan. Nambahka nya, bekal sida, O Petara aku, ngena Ai anggur pengasih Nuan ti chulin, awakka tau ngasuh sida enda ingatka orang bukai kelimpah ari Nuan, lalu angkat ngereja Pengawa Nuan, lalu nyadi tegap dalam pengerindu sida ke Nuan. Nuan meh, amat bendar Tuhan ke pengidup sida sereta Pugu ti dikerindu sida. Enti sida diburu Nuan, sapa meh deka ngemataka sida: lalu enti sida jauh beserara ari Nuan, sapa meh ti tau nulung sida ngelawa Pemisi Nuan? Aku besumpah ngena penegap Nuan! Nadai alai penyelamat ti ulih endur rari kelimpah ari Nuan, lalu nadai pengelindung ti digiga kelimpah ari pengelindung Nuan, lalu nadai jaga kelimpah ari jaga Nuan. Penyai ngalun iya ti ngaku orang bukai nyadi Tuhan kelimpah ari Nuan, lalu beberekat meh sida ti udah ngelengkaka diri empu ari semua tanggam ba semua bala ti diau ba tanah Nuan, lalu bepagut ba rambu pengeluas penyayau Nuan. Tu! bala orang Bahá, ba mua semua ti di serega enggau semua ti ba bumi. Nadai Petara bukai tang Nuan, ti Penuh Penemu, ti Semua Pintar.” Pujika Petara, Tuhan ke semua dunya.
 
 -- Bahá'u'lláh
 
-bpn12646 «[Iban](../iba/prayers/#bpn12646)» 
+bpn12646 
 
 ----
 
@@ -627,7 +628,7 @@ O Petara aku, bantu ulih Nuan pengasuh Nuan nerantangka Leka Jaku, lalu nyakal i
 
 -- Abdu'l-Bahá
 
-bpn12647 «[Iban](../iba/prayers/#bpn12647)» 
+bpn12647 
 
 ----
 
@@ -637,7 +638,7 @@ O Petara, Petara aku! Bantu ulih Nuan bala pengasuh ti dikarap Nuan ngembuan ati
 
 -- Abdu'l-Bahá
 
-bpn12648 «[Iban](../iba/prayers/#bpn12648)» 
+bpn12648 
 
 ----
 
@@ -647,7 +648,7 @@ Diambi ari Papan Tulis Pelen Petara O NuanPetaratinadaibanding!ONuanTuhankePerin
 
 -- Abdu'l-Bahá
 
-bpn12649 «[Iban](../iba/prayers/#bpn12649)» 
+bpn12649 
 
 ----
 
@@ -657,7 +658,7 @@ Barang sapa ti ngejangka menua diri bejalai ngajar ngagai dini-dini tempat, uji 
 
 -- Abdu'l-Bahá
 
-bpn12650 «[Iban](../iba/prayers/#bpn12650)» 
+bpn12650 
 
 ----
 
@@ -667,7 +668,7 @@ Uji barang sapa ti deka bejalai ngajar ngagai tempat bukai, bacha enggau silik s
 
 -- Abdu'l-Bahá
 
-bpn12651 «[Iban](../iba/prayers/#bpn12651)» 
+bpn12651 
 
 ----
 
@@ -677,7 +678,7 @@ O Petara, Petara aku! Nuan meda bakani pemetang ngeleti udah mungkur semua tempa
 
 -- Abdu'l-Bahá
 
-bpn12652 «[Iban](../iba/prayers/#bpn12652)» 
+bpn12652 
 
 ----
 
@@ -687,7 +688,7 @@ Leka sampi entudi tu patut dibacha bala pengajar enggau bala pangan ninting hari
 
 -- Abdu'l-Bahá
 
-bpn12653 «[Iban](../iba/prayers/#bpn12653)» 
+bpn12653 
 
 ----
 
@@ -697,7 +698,7 @@ Genap iku semengat ti bejalai nengah nengeri, tumpuk enggau genturung pendiau ba
 
 -- Abdu'l-Bahá
 
-bpn12654 «[Iban](../iba/prayers/#bpn12654)» 
+bpn12654 
 
 ----
 
@@ -707,7 +708,7 @@ Awakka sida ti ngerembaika bau rengut Petara nyebut sambiang tu tiap pagi. O Tuh
 
 -- Abdu'l-Bahá
 
-bpn12655 «[Iban](../iba/prayers/#bpn12655)» 
+bpn12655 
 
 ----
 
@@ -717,7 +718,7 @@ O Petara! O Petara! Tu siku burung ti patah sayap lalu penerebai iya kelalu luba
 
 -- Abdu'l-Bahá
 
-bpn12656 «[Iban](../iba/prayers/#bpn12656)» 
+bpn12656 
 
 ----
 
@@ -727,7 +728,7 @@ Puji meh ngagai Nuan, O Petara aku! Tu bala pengasuhNuan ti udah ditarit ulih re
 
 -- Abdu'l-Bahá
 
-bpn12657 «[Iban](../iba/prayers/#bpn12657)» 
+bpn12657 
 
 ----
 
@@ -737,7 +738,7 @@ Bala ti ngerembaika rengut Petara patut nyampika sambiang tu tetiap pagi. O Peta
 
 -- Abdu'l-Bahá
 
-bpn12658 «[Iban](../iba/prayers/#bpn12658)» 
+bpn12658 
 
 ----
 
@@ -751,7 +752,7 @@ Dikemulia meh Nuan, O Petara aku! Aku beterima kasih ngagai Nuan laban Nuan udah
 
 -- Bahá'u'lláh
 
-bpn12659 «[Iban](../iba/prayers/#bpn12659)» 
+bpn12659 
 
 ----
 
@@ -761,7 +762,7 @@ Dipuji meh nama Nuan, O Petara aku! Aku minta Nuan ngena rengut Kelambi berekat 
 
 -- Bahá'u'lláh
 
-bpn12660 «[Iban](../iba/prayers/#bpn12660)» 
+bpn12660 
 
 ----
 
@@ -771,7 +772,7 @@ O Tuhan! Ngagai Nuan aku ngiga pengenduh lalu ngagai semua tanda Nuan aku nungak
 
 -- Báb
 
-bpn12661 «[Iban](../iba/prayers/#bpn12661)» 
+bpn12661 
 
 ----
 
@@ -781,7 +782,7 @@ Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, tiSemua-Penyukup, ti Pemadu Ti
 
 -- Báb
 
-bpn12662 «[Iban](../iba/prayers/#bpn12662)» 
+bpn12662 
 
 ----
 
@@ -791,7 +792,7 @@ Sebut: Petara chukup ba semua utai ngelui ari semua utai, lalu nadai utai dalam 
 
 -- Báb
 
-bpn12663 «[Iban](../iba/prayers/#bpn12663)» 
+bpn12663 
 
 ----
 
@@ -801,7 +802,7 @@ O Petara, Petara aku! Nuan meh Pengandal aku enggauSiku-dikerindu aku, tuchung J
 
 -- Abdu'l-Bahá
 
-bpn12664 «[Iban](../iba/prayers/#bpn12664)» 
+bpn12664 
 
 ----
 
@@ -815,7 +816,7 @@ O Petara aku enggau Tuan aku! Aku tu pengasuh Nuan lalu anak pengasuh Nuan. Aku 
 
 -- Bahá'u'lláh
 
-bpn12665 «[Iban](../iba/prayers/#bpn12665)» 
+bpn12665 
 
 ----
 
@@ -825,7 +826,7 @@ Aku udah dani dalam ibun Nuan, O Petara aku, lalu nyadi iya ti ngiga pengelindun
 
 -- Bahá'u'lláh
 
-bpn12666 «[Iban](../iba/prayers/#bpn12666)» 
+bpn12666 
 
 ----
 
@@ -835,7 +836,7 @@ Aku udah angkat pagi tu ngena pengasih Nuan, O Petara aku, lalu ninggalka rumah 
 
 -- Bahá'u'lláh
 
-bpn12667 «[Iban](../iba/prayers/#bpn12667)» 
+bpn12667 
 
 ----
 
@@ -845,11 +846,11 @@ bpn12667 «[Iban](../iba/prayers/#bpn12667)»
 ## PAPAN TULIS AHMAD
 
 <a id="bpn12737"></a> 
-#Papan Tulis Ahmad*&#34;Semua sambiang obligatori, begulai enggau sekeda sambiang bukai ti nyengala, baka Sambiang Pengerai, Papan Tulis Ahmad, udah disikap Baha&#39;u&#39;lláh ngena pemisa enggau reti ia empu, Ialu patut diterima baka nya lalu patut disebut bala ti arap enggau pengarap sereta pengandal ati ti tunggang, awakka nengah nya sida tau masuk lebih semak ngagai randau enggau Petara, lalu ngasuh sida lebih agi dikelala ketegal nitihka adat enggau ajar Iya.&#34;*— Ari siti surat ditulis ngarika Shoghi Effendi. Iya meh Raja, ti Nemu Semua, ti Pintar!Peda, Burung Bul-Bul ari Serega belagu di atas pating Kayu ti Meruan, ngena pelandai ti kudus sereta manis, nerantang ngagai bala ti lurus berita pengaga penyemak Petara, ngangau bala ti arap dalamPenyerakup Suchi ngagai balai Penatai Siku ti Mentas, madah ngagai bala ti udah ngingkaska diri pesan ti udah dipegari Petara, ti Raja, ti Bemulia, ti nadai ulih Banding, ngiring bala ti dikerindu ngagai penuduk ti tuchi sereta ngagai Pemajik ti beperenching tu.Amat bendar tu meh Pemajik ti Pemadu Besai, dipadah dalam semua Kitab bala Seruan, nengah Sida semua pengamat deka dikelala ari penyalah lalu pemintar tiap jaku- tangkan deka diuji. Amat endar Iya meh Kayu Pengidup ti mansutka buah Petara, ti Tinggi, ti Bekuasa, ti Gagah.O Ahmad! Nuan meh nyadika saksi ianya amat bendar Iya meh Petara lalu nadai Petara kelimpah ari Iya, ti Raja, ti Penyaga, ti Nadai Banding, ti Pemadu Bisa. Lalu Siku ti udah dianjung Iya ti benama Ali* endang Siku ti amat ari Petara, ke alai jaku-tangkan Iya diturut semua kitai.Sebut: O mensia ngasika undang-undang Petara, ti udah ditetapka dalam Bayán ulih Iya ti Mulia, Siku ti Pintar. Amat bendar Iya meh Raja ke semua Seruan lalu Kitab Iya meh Indu Kitab nya alai kelala ulih kita.Baka nya meh Burung Bul- Bul nyadaka kangau Iya ngagai nuan ari rumah jil tu. Iya mesti ngenataika pesan ti nyemetak tu. Sebarang sapa ti deka, awakka iya limpang ari lalau tu, lalu sebarang sapa ti deka awakka iya milih menasan nuju Tuhan iya.O mensia, enti kita nyangkal genteran tu, nama penerang dikena kita udah arapka Petara? Bantaika ia, O raban kita ti salah.Ukai, ba jari Iya Siku ti ngembuan semengat Aku, sida enda, lalu tetap enda ulih ngereja tu, taja pen sida begulai nyaup pangan diri.O Ahmad! Anang enda ingat ke semua pemisi Aku lebuh Aku nadai. Kingatka hari Aku lebuh maya hari nuan, sereta pemerinsa Aku enggau diburu ke dalam rumah jil ti jauh tu. Lalu chukup tegap meh nuan dalam pengerindu ke Aku awakka ati nuan enda rawan, taja pen pedang munsuh berujan mepat nuan lalu semua serega enggau dunya angkat ngelaban nuan.Uji nuan baka daun api ngagai bala munsuh Aku lalu sungai pengidup ti meruan ngagai bala ti dikerindu Aku, lalu anang baka sida ti kakang.* BábLalu enti nuan tejanggal laban pemedis dalam menasan Aku, tauka dikemalu ketegal Aku, anang meh nuan tusah ketegal nya.Bepanggai ba Petara, Petara nuan sereta Tuhan ke apai- indai nuan. Laban mensia tesat dalam menasan igau sengapa, nadai pengelansik meda Petara ngena mata sida empu, tauka ninga Pelandai Iya ngena pending sida empu. Baka nya meh Kami udah nemu sida, baka ti dipedaNuan.Baka nya meh pengarap ngapa sida udah nyadi tirai antara sida enggau ati sida lalu ngelimpang sida ari menasan Petara, ti Tinggi, ti Gagah.Uji nuan tetap ba diri empu ianya amat bendar, iya ti ngerarika diri ari Pemajik tu udah mega ngerarika diri ari bala Seruan ti dulu lalu mandangka penyumbung ngagai Petara ari jeman kelia nyentuk ke jemah ila.Pelajar bebendar Papan Tulis tu, O Ahmad. Besampi ngena tu lebuh maya hari nuan lalu anang matak diri ari nya. Laban amat bendar, Petara udah ngeletak ngagai orang ti besampi nya, upah seratus genselan- pengarap enggau pengawa dalam kedua- dua dunya. Semua pengasih tu udah dichiri Kami ba nuan nyadi ke pemeri ari Kami sereta pengasih ari penatai Kami, awakka nuan nyadi sida ti beterima kasih.Nengah Petara! Enti sema iya siku dituntung pemedis tauka penusah macha Papan Tulis tu enggau naka ia pengelurus ati, Petara deka muai penusah iya, mutarka penanggul iya lalu munaska pemerinsa iya.Amat bendar, Iya ti Pengasih, ti Penyinu. Puji meh ngagai Petara, Tuhan ke semua dunya.
+#Papan Tulis Ahmad*"Semua sambiang obligatori, begulai enggau sekeda sambiang bukai ti nyengala, baka Sambiang Pengerai, Papan Tulis Ahmad, udah disikap Baha'u'lláh ngena pemisa enggau reti ia empu, Ialu patut diterima baka nya lalu patut disebut bala ti arap enggau pengarap sereta pengandal ati ti tunggang, awakka nengah nya sida tau masuk lebih semak ngagai randau enggau Petara, lalu ngasuh sida lebih agi dikelala ketegal nitihka adat enggau ajar Iya."*— Ari siti surat ditulis ngarika Shoghi Effendi. Iya meh Raja, ti Nemu Semua, ti Pintar!Peda, Burung Bul-Bul ari Serega belagu di atas pating Kayu ti Meruan, ngena pelandai ti kudus sereta manis, nerantang ngagai bala ti lurus berita pengaga penyemak Petara, ngangau bala ti arap dalamPenyerakup Suchi ngagai balai Penatai Siku ti Mentas, madah ngagai bala ti udah ngingkaska diri pesan ti udah dipegari Petara, ti Raja, ti Bemulia, ti nadai ulih Banding, ngiring bala ti dikerindu ngagai penuduk ti tuchi sereta ngagai Pemajik ti beperenching tu.Amat bendar tu meh Pemajik ti Pemadu Besai, dipadah dalam semua Kitab bala Seruan, nengah Sida semua pengamat deka dikelala ari penyalah lalu pemintar tiap jaku- tangkan deka diuji. Amat endar Iya meh Kayu Pengidup ti mansutka buah Petara, ti Tinggi, ti Bekuasa, ti Gagah.O Ahmad! Nuan meh nyadika saksi ianya amat bendar Iya meh Petara lalu nadai Petara kelimpah ari Iya, ti Raja, ti Penyaga, ti Nadai Banding, ti Pemadu Bisa. Lalu Siku ti udah dianjung Iya ti benama Ali* endang Siku ti amat ari Petara, ke alai jaku-tangkan Iya diturut semua kitai.Sebut: O mensia ngasika undang-undang Petara, ti udah ditetapka dalam Bayán ulih Iya ti Mulia, Siku ti Pintar. Amat bendar Iya meh Raja ke semua Seruan lalu Kitab Iya meh Indu Kitab nya alai kelala ulih kita.Baka nya meh Burung Bul- Bul nyadaka kangau Iya ngagai nuan ari rumah jil tu. Iya mesti ngenataika pesan ti nyemetak tu. Sebarang sapa ti deka, awakka iya limpang ari lalau tu, lalu sebarang sapa ti deka awakka iya milih menasan nuju Tuhan iya.O mensia, enti kita nyangkal genteran tu, nama penerang dikena kita udah arapka Petara? Bantaika ia, O raban kita ti salah.Ukai, ba jari Iya Siku ti ngembuan semengat Aku, sida enda, lalu tetap enda ulih ngereja tu, taja pen sida begulai nyaup pangan diri.O Ahmad! Anang enda ingat ke semua pemisi Aku lebuh Aku nadai. Kingatka hari Aku lebuh maya hari nuan, sereta pemerinsa Aku enggau diburu ke dalam rumah jil ti jauh tu. Lalu chukup tegap meh nuan dalam pengerindu ke Aku awakka ati nuan enda rawan, taja pen pedang munsuh berujan mepat nuan lalu semua serega enggau dunya angkat ngelaban nuan.Uji nuan baka daun api ngagai bala munsuh Aku lalu sungai pengidup ti meruan ngagai bala ti dikerindu Aku, lalu anang baka sida ti kakang.* BábLalu enti nuan tejanggal laban pemedis dalam menasan Aku, tauka dikemalu ketegal Aku, anang meh nuan tusah ketegal nya.Bepanggai ba Petara, Petara nuan sereta Tuhan ke apai- indai nuan. Laban mensia tesat dalam menasan igau sengapa, nadai pengelansik meda Petara ngena mata sida empu, tauka ninga Pelandai Iya ngena pending sida empu. Baka nya meh Kami udah nemu sida, baka ti dipedaNuan.Baka nya meh pengarap ngapa sida udah nyadi tirai antara sida enggau ati sida lalu ngelimpang sida ari menasan Petara, ti Tinggi, ti Gagah.Uji nuan tetap ba diri empu ianya amat bendar, iya ti ngerarika diri ari Pemajik tu udah mega ngerarika diri ari bala Seruan ti dulu lalu mandangka penyumbung ngagai Petara ari jeman kelia nyentuk ke jemah ila.Pelajar bebendar Papan Tulis tu, O Ahmad. Besampi ngena tu lebuh maya hari nuan lalu anang matak diri ari nya. Laban amat bendar, Petara udah ngeletak ngagai orang ti besampi nya, upah seratus genselan- pengarap enggau pengawa dalam kedua- dua dunya. Semua pengasih tu udah dichiri Kami ba nuan nyadi ke pemeri ari Kami sereta pengasih ari penatai Kami, awakka nuan nyadi sida ti beterima kasih.Nengah Petara! Enti sema iya siku dituntung pemedis tauka penusah macha Papan Tulis tu enggau naka ia pengelurus ati, Petara deka muai penusah iya, mutarka penanggul iya lalu munaska pemerinsa iya.Amat bendar, Iya ti Pengasih, ti Penyinu. Puji meh ngagai Petara, Tuhan ke semua dunya.
 
 -- Bahá'u'lláh
 
-bpn12737 «[Iban](../iba/prayers/#bpn12737)» 
+bpn12737 
 
 ----
 
@@ -863,7 +864,7 @@ Tempa dalam aku ati ti tuchi, O Petara aku, lalu kemaruka pengasai ti jenuh dala
 
 -- Bahá'u'lláh
 
-bpn12668 «[Iban](../iba/prayers/#bpn12668)» 
+bpn12668 
 
 ----
 
@@ -873,7 +874,7 @@ O Tuhan aku! Gaga pemajik Nuan nyadika pemakai aku, lalu penatai Nuan nyadika ai
 
 -- Bahá'u'lláh
 
-bpn12669 «[Iban](../iba/prayers/#bpn12669)» 
+bpn12669 
 
 ----
 
@@ -883,7 +884,7 @@ O Petara aku, Petara ke pemisi enggau penyinu! Nuan nya meh Raja ke alai jaku-pe
 
 -- Bahá'u'lláh
 
-bpn12670 «[Iban](../iba/prayers/#bpn12670)» 
+bpn12670 
 
 ----
 
@@ -893,7 +894,7 @@ bpn12670 «[Iban](../iba/prayers/#bpn12670)»
 
 -- Abdu'l-Bahá
 
-bpn12671 «[Iban](../iba/prayers/#bpn12671)» 
+bpn12671 
 
 ----
 
@@ -903,7 +904,7 @@ O Tuhan!Kamitulemah;keringkakami.OPetara!Kami tu lansang; asuh kami nemu. O Tuha
 
 -- Abdu'l-Bahá
 
-bpn12672 «[Iban](../iba/prayers/#bpn12672)» 
+bpn12672 
 
 ----
 
@@ -913,7 +914,7 @@ O Tuhan aku! O Tuhan aku! Tu siti lampu ti diidup ngena api pengerindu Nuan lalu
 
 -- Abdu'l-Bahá
 
-bpn12673 «[Iban](../iba/prayers/#bpn12673)» 
+bpn12673 
 
 ----
 
@@ -927,7 +928,7 @@ Mulia meh ke Nuan, O Tuhan Petara aku! Pegarika sungai penegap kuasa-raja Nuan, 
 
 -- Bahá'u'lláh
 
-bpn12680 «[Iban](../iba/prayers/#bpn12680)» 
+bpn12680 
 
 ----
 
@@ -937,7 +938,7 @@ Anang nagang aku, O Petara, Petara aku, ari serega pemisi Nuan enggau bintang-si
 
 -- Bahá'u'lláh
 
-bpn12681 «[Iban](../iba/prayers/#bpn12681)» 
+bpn12681 
 
 ----
 
@@ -947,7 +948,7 @@ O Tuhan!BekalkepenyampatpemansangKayuPenyerakup Suchi Nuan; udah nya panjah ia, 
 
 -- Báb
 
-bpn12682 «[Iban](../iba/prayers/#bpn12682)» 
+bpn12682 
 
 ----
 
@@ -957,7 +958,7 @@ Iya meh Petara!O Tuhan, Petara aku, ti Amat-Dikerindu aku! Tu bala pengasuh Nuan
 
 -- Abdu'l-Bahá
 
-bpn12683 «[Iban](../iba/prayers/#bpn12683)» 
+bpn12683 
 
 ----
 
@@ -971,7 +972,7 @@ Aku ngemesaika Nama Nuan, O Petara aku, lalu meri terima kasih ngagai Nuan, O Pe
 
 -- Bahá'u'lláh
 
-bpn12684 «[Iban](../iba/prayers/#bpn12684)» 
+bpn12684 
 
 ----
 
@@ -981,7 +982,7 @@ Dipuji sereta dimuliaka meh Nuan, O Petara!Kemendar awakka hari ke alai bulih pe
 
 -- Báb
 
-bpn12685 «[Iban](../iba/prayers/#bpn12685)» 
+bpn12685 
 
 ----
 
@@ -991,7 +992,7 @@ O Tuhan, Petara aku! Tulung bala ti dikerindu Nuan nyadi teguh dalam Pengarap Nu
 
 -- Abdu'l-Bahá
 
-bpn12686 «[Iban](../iba/prayers/#bpn12686)» 
+bpn12686 
 
 ----
 
@@ -1005,7 +1006,7 @@ Lebuh orang ti bedosa nemu diri empu diingkas lengis sereta lepas ari semua utai
 
 -- Bahá'u'lláh
 
-bpn12687 «[Iban](../iba/prayers/#bpn12687)» 
+bpn12687 
 
 ----
 
@@ -1015,7 +1016,7 @@ Puji meh ke Nuan, O Tuhan. Ampun dosa kami, bisi penyinu meh ke kami lalu asuh k
 
 -- Báb
 
-bpn12688 «[Iban](../iba/prayers/#bpn12688)» 
+bpn12688 
 
 ----
 
@@ -1025,7 +1026,7 @@ O Petara aku, O Tuhan aku, O Tuan aku! Aku mintaNuan ngampun aku laban ngiga pen
 
 -- Báb
 
-bpn12689 «[Iban](../iba/prayers/#bpn12689)» 
+bpn12689 
 
 ----
 
@@ -1035,7 +1036,7 @@ O Nuan Tuhan ti Pengampun! Nuan meh pengelindung ke semua pengasuh Nuan tu. Nuan
 
 -- Abdu'l-Bahá
 
-bpn12690 «[Iban](../iba/prayers/#bpn12690)» 
+bpn12690 
 
 ----
 
@@ -1049,7 +1050,7 @@ bpn12690 «[Iban](../iba/prayers/#bpn12690)»
 
 -- Bahá'u'lláh
 
-bpn12691 «[Iban](../iba/prayers/#bpn12691)» 
+bpn12691 
 
 ----
 
@@ -1059,7 +1060,7 @@ Nama Nuan nyadika pengerai aku, O Petara aku, lalu pengingat Nuan nyadika ubat a
 
 -- Bahá'u'lláh
 
-bpn12692 «[Iban](../iba/prayers/#bpn12692)» 
+bpn12692 
 
 ----
 
@@ -1069,7 +1070,7 @@ Ke Anakmit Nuan endang Iya, O Petara aku, ti bempu Nama ke ulih nyuman sereta mu
 
 -- Bahá'u'lláh
 
-bpn12693 «[Iban](../iba/prayers/#bpn12693)» 
+bpn12693 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn12693 «[Iban](../iba/prayers/#bpn12693)»
 
 -- Bahá'u'lláh
 
-bpn12694 «[Iban](../iba/prayers/#bpn12694)» 
+bpn12694 
 
 ----
 
@@ -1093,7 +1094,7 @@ O Nuan ke alai penguji Iya nyadi ubat penyuman ke sida ti semak ngagai Nuan, ke 
 
 -- Bahá'u'lláh
 
-bpn12695 «[Iban](../iba/prayers/#bpn12695)» 
+bpn12695 
 
 ----
 
@@ -1103,7 +1104,7 @@ Buai penusah ati aku ngena pemisi Nuan enggau pementas Nuan, O Petara, Petara ak
 
 -- Bahá'u'lláh
 
-bpn12696 «[Iban](../iba/prayers/#bpn12696)» 
+bpn12696 
 
 ----
 
@@ -1113,7 +1114,7 @@ Dimuliaka meh Nuan. O Tuhan Petara aku! Tiap iku mensia ti beseling ngaku kuasa-
 
 -- Bahá'u'lláh
 
-bpn12697 «[Iban](../iba/prayers/#bpn12697)» 
+bpn12697 
 
 ----
 
@@ -1123,7 +1124,7 @@ bpn12697 «[Iban](../iba/prayers/#bpn12697)»
 
 -- Báb
 
-bpn12698 «[Iban](../iba/prayers/#bpn12698)» 
+bpn12698 
 
 ----
 
@@ -1133,7 +1134,7 @@ Kati bisi Pemuai pemerinsa bukai kelimpah ari Petara?Sebut: Puji Petara! Iya ti 
 
 -- Báb
 
-bpn12699 «[Iban](../iba/prayers/#bpn12699)» 
+bpn12699 
 
 ----
 
@@ -1147,7 +1148,7 @@ Puji ngagai Nuan, O Tuhan Petara aku! Nuan meda sereta nemu ianya Aku udah ngang
 
 -- Bahá'u'lláh
 
-bpn12700 «[Iban](../iba/prayers/#bpn12700)» 
+bpn12700 
 
 ----
 
@@ -1157,7 +1158,7 @@ O Petara, Petara aku! Aku udah bekejang ari rumah aku, bepegai teguh ba tali pen
 
 -- Bahá'u'lláh
 
-bpn12701 «[Iban](../iba/prayers/#bpn12701)» 
+bpn12701 
 
 ----
 
@@ -1167,7 +1168,7 @@ DalamNamaIya,tiDiangkat,tiPemaduTinggi,tiMemelan!Dimulia meh Nuan, O Tuhan Petar
 
 -- Bahá'u'lláh
 
-bpn12702 «[Iban](../iba/prayers/#bpn12702)» 
+bpn12702 
 
 ----
 
@@ -1177,7 +1178,7 @@ Letak ke aku, O Tuhan aku, enggau ke sida ti arapkaNuan utai ti diaku manah ke k
 
 -- Báb
 
-bpn12703 «[Iban](../iba/prayers/#bpn12703)» 
+bpn12703 
 
 ----
 
@@ -1187,7 +1188,7 @@ O Petara! O Petara aku! Terabai bala pengasuh ti dikarapNuan ari semua penyai di
 
 -- Abdu'l-Bahá
 
-bpn12704 «[Iban](../iba/prayers/#bpn12704)» 
+bpn12704 
 
 ----
 
@@ -1197,7 +1198,7 @@ O Tuhan aku! Nuan nemu mensia udah dikelulung pemedis enggau rabat besai lalu di
 
 -- Abdu'l-Bahá
 
-bpn12705 «[Iban](../iba/prayers/#bpn12705)» 
+bpn12705 
 
 ----
 
@@ -1211,7 +1212,7 @@ bpn12705 «[Iban](../iba/prayers/#bpn12705)»
 
 -- Bahá'u'lláh
 
-bpn12706 «[Iban](../iba/prayers/#bpn12706)» 
+bpn12706 
 
 ----
 
@@ -1225,7 +1226,7 @@ Petara aku, Siku Disayau aku, Raja aku, Dikingin aku!Nama dilah ti ulih dikena a
 
 -- Bahá'u'lláh
 
-bpn12707 «[Iban](../iba/prayers/#bpn12707)» 
+bpn12707 
 
 ----
 
@@ -1235,7 +1236,7 @@ O Petara aku, Tuhan aku enggau Tuan aku! Aku udah ngingkas diri ari kaban-belaya
 
 -- Báb
 
-bpn12708 «[Iban](../iba/prayers/#bpn12708)» 
+bpn12708 
 
 ----
 
@@ -1245,7 +1246,7 @@ Dipuji meh Nama Nuan, O Tuhan Petara kami! Nuan endang dalam pengamat Pengelala 
 
 -- Báb
 
-bpn12709 «[Iban](../iba/prayers/#bpn12709)» 
+bpn12709 
 
 ----
 
@@ -1255,7 +1256,7 @@ Tuhan! Sinu amat kami, kemendarka pengasih Nuan ba kami; seranta, sikap ba kami 
 
 -- Abdu'l-Bahá
 
-bpn12710 «[Iban](../iba/prayers/#bpn12710)» 
+bpn12710 
 
 ----
 
@@ -1269,7 +1270,7 @@ bpn12710 «[Iban](../iba/prayers/#bpn12710)»
 
 -- Bahá'u'lláh
 
-bpn12726 «[Iban](../iba/prayers/#bpn12726)» 
+bpn12726 
 
 ----
 
@@ -1279,7 +1280,7 @@ Dalam Nama Iya Siku ti udah disemaya ba semua BupPetara, ti Nemu Semua, ti Dipad
 
 -- Bahá'u'lláh
 
-bpn12727 «[Iban](../iba/prayers/#bpn12727)» 
+bpn12727 
 
 ----
 
@@ -1289,7 +1290,7 @@ Puji meh Nuan, O Tuhan Petara aku! Aku minta ngagaiNuan nengah Revelasyen tu ke 
 
 -- Bahá'u'lláh
 
-bpn12728 «[Iban](../iba/prayers/#bpn12728)» 
+bpn12728 
 
 ----
 
@@ -1299,7 +1300,7 @@ Tu meh, O Petara aku, hari alai Nuan udah ngeletak bala pengasuh Nuan ngintu Pua
 
 -- Bahá'u'lláh
 
-bpn12729 «[Iban](../iba/prayers/#bpn12729)» 
+bpn12729 
 
 ----
 
@@ -1309,7 +1310,7 @@ Tau disebut sebedau muka puasa Puji meh ngagai Nuan, O Tuhan Petara aku! Kami ud
 
 -- Bahá'u'lláh
 
-bpn12730 «[Iban](../iba/prayers/#bpn12730)» 
+bpn12730 
 
 ----
 
@@ -1319,7 +1320,7 @@ Puji meh Nuan, O Petara, Petara aku! Tu meh hari alaiNuan udah ngeletak bala ke 
 
 -- Bahá'u'lláh
 
-bpn12731 «[Iban](../iba/prayers/#bpn12731)» 
+bpn12731 
 
 ----
 
@@ -1329,7 +1330,7 @@ O Pemekal Kudus! Laban aku tu mentin diri ari semua pengingin tubuh lalu enda ng
 
 -- Abdu'l-Bahá
 
-bpn12732 «[Iban](../iba/prayers/#bpn12732)» 
+bpn12732 
 
 ----
 
@@ -1343,7 +1344,7 @@ Semua puji, O Petara aku, ngagai Nuan ti Pun Penatai semua kuasa-perintah enggau
 
 -- Bahá'u'lláh
 
-bpn12711 «[Iban](../iba/prayers/#bpn12711)» 
+bpn12711 
 
 ----
 
@@ -1357,7 +1358,7 @@ Dalam Nama Petara, ti Pemadu Jeman, ti Pemadu Tegap.Sigi amat ati orang ti lurus
 
 -- Bahá'u'lláh
 
-bpn12738 «[Iban](../iba/prayers/#bpn12738)» 
+bpn12738 
 
 ----
 
@@ -1371,7 +1372,7 @@ Semua mulia ngagai Hari tu, Hari ke endur rengut pengasih udah ditiup ngagai sem
 
 -- Bahá'u'lláh
 
-bpn12741 «[Iban](../iba/prayers/#bpn12741)» 
+bpn12741 
 
 ----
 
@@ -1381,11 +1382,11 @@ bpn12741 «[Iban](../iba/prayers/#bpn12741)»
 ## Papan Tulis Pengabas Bahá’u’lláh enggau Báb
 
 <a id="bpn12739"></a> 
-*Papan Tulis tu dibacha ba Sungkup Bahá’u’lláh enggau Sungkup Báb. Ia suah mega diguna kena ngintu pengerami ngingatka Seduai Iya. Puji ti udah pegari ari Nuan Empu ti pemadu dipebasa, lalu mulia ti udah manchar ari Pemajik Nuan ti pemadu beperenching, dipanggai ba Nuan, O Nuan Siku ti Pengayan Peninggi Kuasa, sereta Raja Pemeruan Belama, sereta Tuhan ke semua ti di serega enggau di dunya! Aku besaksi ianya nengah Nuan kuasa-raja Petara enggau pegai- kuasa Iya, sereta kuasa-perintah Petara enggau peninggi- kuasa Iya, udah dipegari, lalu Bintang- Siang ti bebendang ari kelia udah mancharka penerang sida dalam serega perintah Nuan ti enda ulih ubah, lalu Pemajik ti Enda Dipeda udah manchar ari atas bingkai-langit utai tempa. Aku besaksi, kelebih agi, ianya ngena, tang semina sekali kinsit Pen Nuan, peminta Nuan &#34;Nyadi meh Nuan&#34; udah dipejalaika, lalu Penyelai lalai Petara udah dibungkar, lalu semua utai tempa udah diberi pengidup, lalu semua Revelasyen udah diturunka.Aku besaksi, kelebih agi, nengah pemajik Nuan pemajik Siku ti Disayau udah dipandang, lalu nengah mua Nuan mua Siku ti Dikingin udah manchar, lalu nengah seleka jaku ari Nuan, Nuan udah mida semua utai tempa, ngasuh sida ti angkunka Nuan niki ngagai tuchung mulia, Ialu sida ti enda pechaya labuh ngagai buntut penyai.Aku besaksi ianya iya ti udah ngelala Nuan udah ngelala Petara, lalu iya ti udah betunga enggau Nuan udah betunga enggau Petara. Nya alai, besai, meh berekat iya ti udah arapka Nuan, sereta arapka semua tanda Nuan, lalu udah ngemaruhka diri empu ba mua kuasa-raja Nuan, lalu udah diberi basa betemu enggau Nuan, lalu udah tulihka pemanah-penyamai peneka Nuan, lalu udah ngelingi meling Nuan, lalu udah bediri ngadap maligai Nuan. Penusah ngalun iya ti udah ningkah ngelaban Nuan, lalu udah nulak Nuan, lalu udah ngenggaika semua tanda Nuan, lalu udah mantah kuasa-raja Nuan, lalu udah angkat ngelaban Nuan, lalu mandangka pengelawa ba mua Nuan, lalu nyangkal penerang Nuan, lalu udah limpang ari atur Nuan enggau pegai-kuasa Nuan, lalu udah disengkaum enggau sida ti enda pechaya ke alai nama sida udah diukir ulih tunjuk tangkan-atur Nuan ba Papan Tulis kudus Nuan.Udah nya, tiup begadai-gadai, ba aku, O Petara aku enggau Siku dikerindu aku, ari jari kanan pengampun Nuan enggau pengerindu-penelap Nuan, seput kudus pengasih Nuan, awakka nya tau narit aku ari diri empu enggau ari dunya tu ngagai balai penyemak Nuan enggau penatai Nuan. Bisa meh Nuan ngereja utai ti ngelantangka Nuan. Nuan, endang amat, tinggi ngelui semua utai.Pengingat Petara enggau puji Iya, sereta mulia Petara enggau bebendang Iya, dipanggai ba Nuan, O Nuan Siku ti Pemajik Iya! Aku nyadi saksi ianya mata utai tempa nadai kala merening siku ti dipesalah baka Nuan. Nuan udah diselam ba semua hari pengidup Nuan di dalam tasik pemerinsa. Sekali Nuan dikungkung sereta dirantai; sekali agi Nuan dikeremba ngena pedang bala munsuh Nuan. Tang, taja semua tu, Nuan udah ngasuh semua mensia ngasika utai ti udah ditagaka Nuan nengah Iya Siku ti Nemu Semua, ti Pemadu Pintar.Awakka roh aku tau nyadika genselan ke semua penyalah pemedis Nuan, lalu semengat aku nyadika penebus semua penusah ke ditapi Nuan. Aku minta ngagai Petara, nengah Nuan enggau nengah mua sida ti udah beperenching laban bebendang penampak rampamua Nuan, enggau sida, ketegal pengerindu ke Nuan, udah ngasika semua utai ti diasuh ba sida, ngesaika semua tirai ti udah nyelapat Nuan enggau utai tempa Nuan, lalu mekal aku enggau pemanah ba dunya tu enggau dunya ti deka datai. Nuan, endang amat, ti Pemadu Tegap, ti Pemadu Tinggi, ti Pemadu Mulia, ti Seruran Ngampun, ti Pemadu Penyinu.Berekat ulih Nuan, O Tuhan Petara aku, Kayu-Buah Petara enggau daun ia, enggau dan besai ia, enggau dan ia, enggau pating ia, enggau sumbuk ia, seagi agi semua gelar Nuan ti pemadu lati meruan bisi sereta pemanah pemeri Nuan ti pemadu dipebasa meruan belama. Udah nya, jaga ia, ari kachau orang ti jai enggau raban mangah merintah. Nuan, endang amat, ti Pemadu Tegap, ti Pemadu Bekuasa. Berekat ulih Nuan, mega, O Tuhan Petara aku, bala pengasuh Nuan sereta bala pengasuh indu Nuan ti udah datai ba Nuan. Nuan, endang amat, ti Pemadu Pemisi, berekat Iya ti nadai tatak. Nadai Petara bukai kelimpah ari Nuan, ti Seruran Ngampun, ti Pemadu Mentas.
+*Papan Tulis tu dibacha ba Sungkup Bahá’u’lláh enggau Sungkup Báb. Ia suah mega diguna kena ngintu pengerami ngingatka Seduai Iya. Puji ti udah pegari ari Nuan Empu ti pemadu dipebasa, lalu mulia ti udah manchar ari Pemajik Nuan ti pemadu beperenching, dipanggai ba Nuan, O Nuan Siku ti Pengayan Peninggi Kuasa, sereta Raja Pemeruan Belama, sereta Tuhan ke semua ti di serega enggau di dunya! Aku besaksi ianya nengah Nuan kuasa-raja Petara enggau pegai- kuasa Iya, sereta kuasa-perintah Petara enggau peninggi- kuasa Iya, udah dipegari, lalu Bintang- Siang ti bebendang ari kelia udah mancharka penerang sida dalam serega perintah Nuan ti enda ulih ubah, lalu Pemajik ti Enda Dipeda udah manchar ari atas bingkai-langit utai tempa. Aku besaksi, kelebih agi, ianya ngena, tang semina sekali kinsit Pen Nuan, peminta Nuan "Nyadi meh Nuan" udah dipejalaika, lalu Penyelai lalai Petara udah dibungkar, lalu semua utai tempa udah diberi pengidup, lalu semua Revelasyen udah diturunka.Aku besaksi, kelebih agi, nengah pemajik Nuan pemajik Siku ti Disayau udah dipandang, lalu nengah mua Nuan mua Siku ti Dikingin udah manchar, lalu nengah seleka jaku ari Nuan, Nuan udah mida semua utai tempa, ngasuh sida ti angkunka Nuan niki ngagai tuchung mulia, Ialu sida ti enda pechaya labuh ngagai buntut penyai.Aku besaksi ianya iya ti udah ngelala Nuan udah ngelala Petara, lalu iya ti udah betunga enggau Nuan udah betunga enggau Petara. Nya alai, besai, meh berekat iya ti udah arapka Nuan, sereta arapka semua tanda Nuan, lalu udah ngemaruhka diri empu ba mua kuasa-raja Nuan, lalu udah diberi basa betemu enggau Nuan, lalu udah tulihka pemanah-penyamai peneka Nuan, lalu udah ngelingi meling Nuan, lalu udah bediri ngadap maligai Nuan. Penusah ngalun iya ti udah ningkah ngelaban Nuan, lalu udah nulak Nuan, lalu udah ngenggaika semua tanda Nuan, lalu udah mantah kuasa-raja Nuan, lalu udah angkat ngelaban Nuan, lalu mandangka pengelawa ba mua Nuan, lalu nyangkal penerang Nuan, lalu udah limpang ari atur Nuan enggau pegai-kuasa Nuan, lalu udah disengkaum enggau sida ti enda pechaya ke alai nama sida udah diukir ulih tunjuk tangkan-atur Nuan ba Papan Tulis kudus Nuan.Udah nya, tiup begadai-gadai, ba aku, O Petara aku enggau Siku dikerindu aku, ari jari kanan pengampun Nuan enggau pengerindu-penelap Nuan, seput kudus pengasih Nuan, awakka nya tau narit aku ari diri empu enggau ari dunya tu ngagai balai penyemak Nuan enggau penatai Nuan. Bisa meh Nuan ngereja utai ti ngelantangka Nuan. Nuan, endang amat, tinggi ngelui semua utai.Pengingat Petara enggau puji Iya, sereta mulia Petara enggau bebendang Iya, dipanggai ba Nuan, O Nuan Siku ti Pemajik Iya! Aku nyadi saksi ianya mata utai tempa nadai kala merening siku ti dipesalah baka Nuan. Nuan udah diselam ba semua hari pengidup Nuan di dalam tasik pemerinsa. Sekali Nuan dikungkung sereta dirantai; sekali agi Nuan dikeremba ngena pedang bala munsuh Nuan. Tang, taja semua tu, Nuan udah ngasuh semua mensia ngasika utai ti udah ditagaka Nuan nengah Iya Siku ti Nemu Semua, ti Pemadu Pintar.Awakka roh aku tau nyadika genselan ke semua penyalah pemedis Nuan, lalu semengat aku nyadika penebus semua penusah ke ditapi Nuan. Aku minta ngagai Petara, nengah Nuan enggau nengah mua sida ti udah beperenching laban bebendang penampak rampamua Nuan, enggau sida, ketegal pengerindu ke Nuan, udah ngasika semua utai ti diasuh ba sida, ngesaika semua tirai ti udah nyelapat Nuan enggau utai tempa Nuan, lalu mekal aku enggau pemanah ba dunya tu enggau dunya ti deka datai. Nuan, endang amat, ti Pemadu Tegap, ti Pemadu Tinggi, ti Pemadu Mulia, ti Seruran Ngampun, ti Pemadu Penyinu.Berekat ulih Nuan, O Tuhan Petara aku, Kayu-Buah Petara enggau daun ia, enggau dan besai ia, enggau dan ia, enggau pating ia, enggau sumbuk ia, seagi agi semua gelar Nuan ti pemadu lati meruan bisi sereta pemanah pemeri Nuan ti pemadu dipebasa meruan belama. Udah nya, jaga ia, ari kachau orang ti jai enggau raban mangah merintah. Nuan, endang amat, ti Pemadu Tegap, ti Pemadu Bekuasa. Berekat ulih Nuan, mega, O Tuhan Petara aku, bala pengasuh Nuan sereta bala pengasuh indu Nuan ti udah datai ba Nuan. Nuan, endang amat, ti Pemadu Pemisi, berekat Iya ti nadai tatak. Nadai Petara bukai kelimpah ari Nuan, ti Seruran Ngampun, ti Pemadu Mentas.
 
 -- Bahá'u'lláh
 
-bpn12739 «[Iban](../iba/prayers/#bpn12739)» 
+bpn12739 
 
 ----
 
@@ -1395,11 +1396,11 @@ bpn12739 «[Iban](../iba/prayers/#bpn12739)»
 ## Papan Tulis Pengabas ‘Abdu’l-Bahá
 
 <a id="bpn12740"></a> 
-*(Sambiang tu, dipegari ulih ‘Abdu’l-Bahá, dibacha ba Sungkup Iya. Tau mega diguna maya sambiang kediri)*&#34;Barang sapa nyampika sambiang tu enggau pemaruh ati sereta enggau ati ti ngundukka diri ia deka mai pengaga enggau pengelantang ngagai Pengasuh tu: ianya asai ke betemu betunga mua enggau Iya.&#34;Iya meh Pemadu Bemulia!O Petara, Petara aku! Baruh sereta enggau sabak, aku ngangkatka jari peminta aku ngagai Nuan lalu ngundukka mua aku ba abu Pemetung Nuan, tinggi ngelui ari penemu orang ti bepelajar, lalu ari semua puji ngemuliaka Nuan. Enggau pengasih kemataka pengasuh Nuan, ngunduk sereta meremi ba pintu Nuan, ngena kilas perening mata pengasih Nuan, lalu selamka iya ke dalam Tasik berekat Nuan ti meruan.Tuhan! Iya tu pengasuh Nuan ti seranta sereta baruh, tetarit sereta minta ngagai Nuan, dikurung dalam jari Nuan, besampi bebendar ngagai Nuan, arap ba Nuan, enggau sabak ba mua Nuan, ngangau Nuan sereta minta ngagai Nuan, lalu nyebut:O Tuhan, Petara aku! Beri aku pengasih Nuan gawaka bala ti dikerindu Nuan, keringka aku dalam gawa bebendar ke Nuan, tampakka kening aku ngena panchar penyayau ba balai pengudus Nuan, lalu nyadi ke sambiang ngagai perintah Nuan ti besai kuasa. Tulung aku awakka enda ngira diri ba mua pintu serega Nuan, lalu bantu aku ngetas diri ari semua utai dalam kandang kudus Nuan. Tuhan! Asuh aku ngirup ari jalung enda ngira diri sekali kali, ngena kelambi ia gari aku, lalu dalam tasik ia selamka aku. Gaga aku baka abu ba menasan ditujah bala ti dikerindu Nuan, lalu kemendar awakka aku tau nyerahka semengat aku ke tanah ti dimuliaka ketegal indik bala ti dipilih Nuan dalam menasan Nuan. O Tuhan ke Mulia ti Pemadu Tinggi.Ngena sambiang tu pengasuh Nuan ngangau Nuan, lebuh dini- hari enggau lebuh maya malam. Penyadika niat ati iya, O Tuhan! Terangka ati iya, kelantangka ruang dada iya, tungkun api iya, awakka iya tau gawaka Pengawa Nuan enggau ke bala pengasuh Nuan.Nuan meh ti Penyikap, ti Penyiru, ti Pemadu Pemisi, ti Pengasih, ti Pengampun, ti Penyinu!
+*(Sambiang tu, dipegari ulih ‘Abdu’l-Bahá, dibacha ba Sungkup Iya. Tau mega diguna maya sambiang kediri)*"Barang sapa nyampika sambiang tu enggau pemaruh ati sereta enggau ati ti ngundukka diri ia deka mai pengaga enggau pengelantang ngagai Pengasuh tu: ianya asai ke betemu betunga mua enggau Iya."Iya meh Pemadu Bemulia!O Petara, Petara aku! Baruh sereta enggau sabak, aku ngangkatka jari peminta aku ngagai Nuan lalu ngundukka mua aku ba abu Pemetung Nuan, tinggi ngelui ari penemu orang ti bepelajar, lalu ari semua puji ngemuliaka Nuan. Enggau pengasih kemataka pengasuh Nuan, ngunduk sereta meremi ba pintu Nuan, ngena kilas perening mata pengasih Nuan, lalu selamka iya ke dalam Tasik berekat Nuan ti meruan.Tuhan! Iya tu pengasuh Nuan ti seranta sereta baruh, tetarit sereta minta ngagai Nuan, dikurung dalam jari Nuan, besampi bebendar ngagai Nuan, arap ba Nuan, enggau sabak ba mua Nuan, ngangau Nuan sereta minta ngagai Nuan, lalu nyebut:O Tuhan, Petara aku! Beri aku pengasih Nuan gawaka bala ti dikerindu Nuan, keringka aku dalam gawa bebendar ke Nuan, tampakka kening aku ngena panchar penyayau ba balai pengudus Nuan, lalu nyadi ke sambiang ngagai perintah Nuan ti besai kuasa. Tulung aku awakka enda ngira diri ba mua pintu serega Nuan, lalu bantu aku ngetas diri ari semua utai dalam kandang kudus Nuan. Tuhan! Asuh aku ngirup ari jalung enda ngira diri sekali kali, ngena kelambi ia gari aku, lalu dalam tasik ia selamka aku. Gaga aku baka abu ba menasan ditujah bala ti dikerindu Nuan, lalu kemendar awakka aku tau nyerahka semengat aku ke tanah ti dimuliaka ketegal indik bala ti dipilih Nuan dalam menasan Nuan. O Tuhan ke Mulia ti Pemadu Tinggi.Ngena sambiang tu pengasuh Nuan ngangau Nuan, lebuh dini- hari enggau lebuh maya malam. Penyadika niat ati iya, O Tuhan! Terangka ati iya, kelantangka ruang dada iya, tungkun api iya, awakka iya tau gawaka Pengawa Nuan enggau ke bala pengasuh Nuan.Nuan meh ti Penyikap, ti Penyiru, ti Pemadu Pemisi, ti Pengasih, ti Pengampun, ti Penyinu!
 
 -- Abdu'l-Bahá
 
-bpn12740 «[Iban](../iba/prayers/#bpn12740)» 
+bpn12740 
 
 ----
 
@@ -1413,7 +1414,7 @@ O Penginang Kudus! Sikap Nuan penulin enggau pemeresi ke semua utai ba orang Bah
 
 -- Abdu'l-Bahá
 
-bpn12749 «[Iban](../iba/prayers/#bpn12749)» 
+bpn12749 
 
 ----
 
@@ -1423,7 +1424,7 @@ Nguji bebendar meh kita, awakka penuchi enggau pengudus ngelui ari semua utai, t
 
 -- Abdu'l-Bahá
 
-bpn12750 «[Iban](../iba/prayers/#bpn12750)» 
+bpn12750 
 
 ----
 
@@ -1437,7 +1438,7 @@ bpn12750 «[Iban](../iba/prayers/#bpn12750)»
 
 -- Abdu'l-Bahá
 
-bpn12734 «[Iban](../iba/prayers/#bpn12734)» 
+bpn12734 
 
 ----
 
@@ -1447,7 +1448,7 @@ Datai meh kita begelumu dalam pengaga ti tulin, lalu dikena ngepunka aum, sebut 
 
 -- Abdu'l-Bahá
 
-bpn12735 «[Iban](../iba/prayers/#bpn12735)» 
+bpn12735 
 
 ----
 
@@ -1457,7 +1458,7 @@ Sambiang disebut ba penutup aum Raban Gelumu O Petara! O Petara! Ari perintah pe
 
 -- Abdu'l-Bahá
 
-bpn12736 «[Iban](../iba/prayers/#bpn12736)» 
+bpn12736 
 
 ----
 
@@ -1471,7 +1472,7 @@ bpn12736 «[Iban](../iba/prayers/#bpn12736)»
 
 -- Bahá'u'lláh
 
-bpn12609 «[Iban](../iba/prayers/#bpn12609)» 
+bpn12609 
 
 ----
 
@@ -1485,7 +1486,7 @@ bpn12609 «[Iban](../iba/prayers/#bpn12609)»
 
 -- Bahá'u'lláh
 
-bpn12608 «[Iban](../iba/prayers/#bpn12608)» 
+bpn12608 
 
 ----
 
@@ -1495,11 +1496,11 @@ bpn12608 «[Iban](../iba/prayers/#bpn12608)»
 ## SAMBIANG OBLIGATORI Tl PANJAI
 
 <a id="bpn12610"></a> 
-#SAMBIANG OBLIGATORI Tl PANJAI##DISEBUT SEKALI DALAM KANDANG DUAPULUH EMPAT JAM. Barang sapa ti deka nyebut sambiang tu, uji iya bediri lalu nunga ngadap Petara, lalu, lebuh iya ti bediri dia, uji iya merening ke kanan enggau ke kiba, baka ti nganti pengasih Tuhan iya, ti Pemadu Bepengasih, ti Penyinu. Udah nya uji iya nyebut:O NuanTuhankesemuanamalaluPengagasemuaSerega! Aku minta enggau pemaruh ati ari Nuan nengah sida ti Endang Terebak-tawas Ayu Nuan ti enda dipeda, ti Pemadu Tinggi, ti Pemadu Tampak, awakka sambiang aku nyadi api ti nunu tirai ti udah nutup aku ari pemajik Nuan, lalu nyadi panchar ti ngiring aku ngagai tasik Penatai Nuan.Udah nya uji iya ngangkat jari iya minta ngadap Petara berekat sereta tinggi meh Iya - lalu nyebut:O Nuan ti Dikingin dunya sereta ti Dikerindu semua menua! Nuan meda aku nunga ngadap Nuan, Ialu nadai ditanggam sebarang orang bukai kelimpah ari Nuan, lalu bepegai ba rambu Nuan, ti endur riak Iya semua utai tempa udah begetar. Aku tu pengasuh Nuan, O Tuhan aku, sereta anak pengasuh Nuan. Peda aku bediri sedia deka ngereja peneka Nuan enggau pengingin Nuan, minta nadai utai bukai kelimpah ari penyamai peneka Nuan. Aku bebendar minta Nuan ari Tasik pengasih Nuan sereta ari Bintang- Siang berekat Nuan ngintu pengasuh Nuan nitih ke peneka enggau pengelantang Nuan. Ngena penegap Nuan ti jauh ngelui ari semua tela enggau puji! Sebarang utai ti dipegari Nuan endang buah ati aku lalu dikerinduka semengat aku. O Petara, Petara aku! Anang meda pengandal aku enggau kereja aku, tang semina peda peneka Nuan ti udah nyerangkap semua serega enggau dunya. Ngena Nama Nuan ti Pemadu Tebangkar, O Nuan Tuhan ke semua menua! Aku semina ingin ke utai ti dikingin Nuan, lalu semina rindu ke utai ti dikerindu Nuan.Udah nya uji iya nyerugang, lalu kening iya meremi ngagai lantai (tanah), lalu nyebut:Tinggi meh Nuan ngelui ari ading semua orang bukai kelimpah ari Nuan Empu, lalu ari pemereti utai bukai kelimpah ari Nuan.Udah nya uji iya bediri lalu nyebut:Gaga sambiang aku, O Tuhan aku, nyadika panchur ai pengidup ke alai aku tau idup meruan seagi agi Perintah Nuan bisi, lalu tau nyebut Nuan di tiap- tiap dunya ba semua dunya Nuan.Udah nya uji iya sekali agi nengkadahka jari iya minta, lalu nyebut:O Nuan ke alai lebuh beserara ari Nuan udah ngasuh ati enggau semengat anchur, lalu nengah api pengerindu Nuan selampur dunya udah ditungkun! Aku bebendar minta ari Nuan ngena Nama Nuan ke alai Nuan udah ngalahka semua utai tempa, anang matak ari aku utai ti bisi ba Nuan, O Nuan ti nguasa semua mensia! Nuan meda O Tuhan aku, temuai tu berumban ngagai rumah iya ti tinggi di baruh kanopi pegai- perintah Nuan sereta didalam kandang pengasih Nuan; lalu pengelanggar tu ngiga tasik pengampun Nuan; lalu siku ti baruh tu ngiga balai penampak Nuan; lalu utai tempa ti seranta tu ngiga dijir pengaya Nuan. Nuan meh bekuasa merintah sebarang utai ti dikedeka Nuan. Aku bempu saksi ianya Nuan meh patut dipuji ba kereja Nuan, sereta patut dititih meh tangkan-atur Nuan, lalu meruan nadai penekul ba peminta Nuan.Udah nya uji iya ngangkatka jari iya, lalu nyebut tiga kali Nama Pemadu Tebangkar*. Udah nya uji iya meremi diri lalu jari iya diengkah ba pala patung ngadap Petara —beberekat sereta tinggi meh Iya— lalu nyebut:Nuan meda, O Petara aku, bakani roh aku udah begetar ba kaki jari aku enggau perengka tubuh aku, dalam pengelengau iya deka nyembah Nuan, lalu dalam pengingin iya deka ngingatka Nuan sereta muji Nuan; baka ni iya besaksika utai ti endur Dilah Jaku-perintah Nuan udah nyadi ke saksi dalam perintah leka jaku Nuan sereta dalam serega penemu Nuan. Aku rindu, dalam gaya tu, O Tuhan aku, minta enggau pemaruh ati ari Nuan semua utai ti dikemisi Nuan, awakka aku tau nunjukka penyeranta aku, lalu ngemesaika pementas Nuan enggau pengaya Nuan, lalu tau ngaku pengurang kuasa aku Ialu ngayanka kuasa Nuan enggau penegap Nuan.* Alláh-u-AbháUdah nya uji iya bediri lalu ngangkat jari iya dua kali minta, Ialu nyebut:Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Pemadu Pemisi. Nadai Petara bukai tang Nuan, ti Ngeletak, kenyau ari pun lalu ba pengujung. O Petara, Petara aku! Pengampun Nuan udah ngasuh aku berani, lalu pengasih Nuan udah ngeringka aku, Ialu kangau Nuan udah ngenanika aku, lalu berekat Nuan udah ngangkat aku sereta ngiring aku nuju Nuan. Sapa meh aku, enti enda ketegal nya, berani bediri ba pintu penama nuju nengeri penyemak Nuan, tauka nungaka mua aku ngadap penampak ti manchar ari serega peneka Nuan? Nuan meda, O Tuhan aku, utai idup ti papa tu nekung pintu berekat Nuan, lalu semengat ti tau lela tu ngiga sungai pengidup ti meruan ari jari pementas Nuan. Enggi Nuan nya meh perintah ba sebarang maya, O Nuan Tuhan ke semua nama; lalu enggi aku nya meh nyerahka diri sereta nerima enggau pengaga peneka Nuan, O Penempa serega!Udah nya uji iya ngangkat jari iya tiga kali, lalu nyebut:Lebih Bekuasa meh Petara ari genap iku ti bekuasa!Udah nya uji iya nyerugang, lalu kening iya meremi ngagai lantai (tanah), lalu nyebut:Kelalu tinggi meh Nuan ke puji sida ti semak enggau Nuan niki ngagai serega besemak enggau Nuan, tauka burung ati sida ti angkunka Nuan datai ba pintu penama Nuan. Aku besaksi ianya Nuan meh suchi ngelui semua penau sereta kudus ngelui semua nama. Nadai Petara bukai tang Nuan, ti Pemadu Tinggi, ti Pemadu Mulia.Udah nya uji iya nudukka diri lalu nyebut:Aku besaksi ba utai ti udah disaksika semua utai tempa, enggau Raban Malikat di atas, enggau bala ti diau ba Serega ti pemadu tinggi, lalu ngelui ari atas sida nya, Dilah Pemesai nya empu ari Bingkai- langit ti pemadu mulia, ianya Nuan meh Petara, lalu nadai Petara bukai kelimpah ari Nuan lalu Iya Siku ti udah dipegari ianya Penyelai ti Dipelalai, Lambang Pesaka, ke nengah Iya urup B enggau E (Be!) udah disambung sereta bejantil. Aku besaksi ianya Iya meh ti Ngempu nama ti udah ditulis ngena Pen ti Pengambis Tinggi, lalu Nuan ti udah dikenang dalam semua Kitab Petara, Tuhan ba Maligai ti di atas enggau ba tanah di baruh.Udah nya uji iya bediri lurus lalu nyebut:O Tuhan ke semua pengidup sereta Ngempu semua utai ti dipeda enggau ti enda dipeda! Nuan udah beratika ai mata aku enggau sera nyawa aku, sereta ninga demuh dada aku, enggau sedan sabak aku, lalu nemu penyinu ati aku. Ngena penegap Nuan! Penyalah aku udah nagang aku ari ke tebatak semak ngagai Nuan; lalu dosa aku udah ngerindang aku jauh ari balai pengudus Nuan. Pengerindu Nuan, O Tuhan aku, udah ngayaka aku, lalu beserara ari Nuan udah ngerusak aku, lalu jauh ari Nuan udah ngangus aku. Aku minta kasih Nuan ngena kelai tapa kaki Nuan ba kampung jerung tu, lalu ngena leka jaku &#34;Ditu meh aku. Ditu meh aku,&#34; ti udah disebut Bala ti dipilih Nuan dalam pengeluas rampa dunya tu, lalu ngena seput Revelasyen Nuan enggau tiup ribut ti begadai- gadai ba Dini hari Pengayan Nuan, ngeletakka awakka aku tau merening pemajik Nuan lalu ngasika semua utai dalam Kitab Nuan.Udah nya uji iya nyebut Nama Pemadu Tebangkar tiga kali, lalu meremi sereta jari iya diengkah ba pala patung, lalu nyebut:Puji meh ngagai Nuan, O Petara aku, laban Nuan udah mantu aku ngingatka Nuan lalu muji Nuan, lalu udah ngasuh aku ngelala Nuan ti nyadi Terebak-tawas tanda-tanda Nuan, Ialu udah ngasuh aku meremi ke baruh lebuh betunga enggau Kuasa- Tuhan Nuan, lalu ngemaruhka diri ba mua Kuasa-Petara Nuan, lalu nerima utai ti udah disebut Dilah pemesai-kuasa Nuan.Udah nya uji iya bediri lalu nyebut:O Petara, Petara aku! Belakang aku nyau bungkuk laban tating dosa aku lalu nadai pengibuh aku udah ngerusakka aku. Lebuh aku ngenang penyalah kereja aku sereta pementas Nuan, ati aku anchur di dalam aku, lalu darah aku gesak dalam urat darah aku. Ngena Pemajik Nuan, O Nuan ti dikingin Dunya! Aku malu deka ngangkatka mua aku ngadap Nuan, lalu pengandal jari aku berasai malu deka diunjur ngagai serega pementas Nuan. Nuan meda, O Petara aku, bakani ai mata aku nagang aku ari ti ngingatka Nuan enggau muji pemanah Nuan, O Nuan Tuhan Maligai di atas enggau ba tanah di baruh! Aku minta Nuan ngena tanda Perintah Nuan enggau penyelai Pegai- Kuasa Nuan ngintu bala ti dikerindu Nuan ngena pementas Nuan, O Tuhan ke semua pengidup, lalu patut nerima berekat Nuan, O Raja ke utai ti dipeda enggau ti enda dipeda!Udah nya uji iya nyebut Nama Pemadu Tebangkar tiga kali, lalu nyerugang sereta kening iya meremi ngagai tanah, lalu nyebut:Puji meh ngagai Nuan, O Petara kami, laban Nuan udah ngirum ke baruh ngagai kami utai ti matak kami semak ngagai Nuan, lalu mekal kami enggau genap utai ti manah ti dikirum Nuan ke baruh dalam Bup Nuan enggau Kitab Nuan. Jaga kami, kami minta Nuan, O Tuhan aku, ari tepan pengelebu ngapa enggau igau sengapa. Nuan, amat bendar, ti Tegap, ti Pemadu Nemu.Udah nya uji iya ngangkat pala diri, sereta nudukka diri, lalu nyebut:Aku besaksi, O Petara aku, ke utai ti udah disaksika bala ti dipilih Nuan, lalu ngaku utai ti udah diaku raban ti diau ba Serega ti pemadu tinggi enggau sida ti udah ngelingi Maligai Nuan ti tegap. Perintah di dunya enggau di serega enggi Nuan, O Tuhan ke semua dunya!
+#SAMBIANG OBLIGATORI Tl PANJAI##DISEBUT SEKALI DALAM KANDANG DUAPULUH EMPAT JAM. Barang sapa ti deka nyebut sambiang tu, uji iya bediri lalu nunga ngadap Petara, lalu, lebuh iya ti bediri dia, uji iya merening ke kanan enggau ke kiba, baka ti nganti pengasih Tuhan iya, ti Pemadu Bepengasih, ti Penyinu. Udah nya uji iya nyebut:O NuanTuhankesemuanamalaluPengagasemuaSerega! Aku minta enggau pemaruh ati ari Nuan nengah sida ti Endang Terebak-tawas Ayu Nuan ti enda dipeda, ti Pemadu Tinggi, ti Pemadu Tampak, awakka sambiang aku nyadi api ti nunu tirai ti udah nutup aku ari pemajik Nuan, lalu nyadi panchar ti ngiring aku ngagai tasik Penatai Nuan.Udah nya uji iya ngangkat jari iya minta ngadap Petara berekat sereta tinggi meh Iya - lalu nyebut:O Nuan ti Dikingin dunya sereta ti Dikerindu semua menua! Nuan meda aku nunga ngadap Nuan, Ialu nadai ditanggam sebarang orang bukai kelimpah ari Nuan, lalu bepegai ba rambu Nuan, ti endur riak Iya semua utai tempa udah begetar. Aku tu pengasuh Nuan, O Tuhan aku, sereta anak pengasuh Nuan. Peda aku bediri sedia deka ngereja peneka Nuan enggau pengingin Nuan, minta nadai utai bukai kelimpah ari penyamai peneka Nuan. Aku bebendar minta Nuan ari Tasik pengasih Nuan sereta ari Bintang- Siang berekat Nuan ngintu pengasuh Nuan nitih ke peneka enggau pengelantang Nuan. Ngena penegap Nuan ti jauh ngelui ari semua tela enggau puji! Sebarang utai ti dipegari Nuan endang buah ati aku lalu dikerinduka semengat aku. O Petara, Petara aku! Anang meda pengandal aku enggau kereja aku, tang semina peda peneka Nuan ti udah nyerangkap semua serega enggau dunya. Ngena Nama Nuan ti Pemadu Tebangkar, O Nuan Tuhan ke semua menua! Aku semina ingin ke utai ti dikingin Nuan, lalu semina rindu ke utai ti dikerindu Nuan.Udah nya uji iya nyerugang, lalu kening iya meremi ngagai lantai (tanah), lalu nyebut:Tinggi meh Nuan ngelui ari ading semua orang bukai kelimpah ari Nuan Empu, lalu ari pemereti utai bukai kelimpah ari Nuan.Udah nya uji iya bediri lalu nyebut:Gaga sambiang aku, O Tuhan aku, nyadika panchur ai pengidup ke alai aku tau idup meruan seagi agi Perintah Nuan bisi, lalu tau nyebut Nuan di tiap- tiap dunya ba semua dunya Nuan.Udah nya uji iya sekali agi nengkadahka jari iya minta, lalu nyebut:O Nuan ke alai lebuh beserara ari Nuan udah ngasuh ati enggau semengat anchur, lalu nengah api pengerindu Nuan selampur dunya udah ditungkun! Aku bebendar minta ari Nuan ngena Nama Nuan ke alai Nuan udah ngalahka semua utai tempa, anang matak ari aku utai ti bisi ba Nuan, O Nuan ti nguasa semua mensia! Nuan meda O Tuhan aku, temuai tu berumban ngagai rumah iya ti tinggi di baruh kanopi pegai- perintah Nuan sereta didalam kandang pengasih Nuan; lalu pengelanggar tu ngiga tasik pengampun Nuan; lalu siku ti baruh tu ngiga balai penampak Nuan; lalu utai tempa ti seranta tu ngiga dijir pengaya Nuan. Nuan meh bekuasa merintah sebarang utai ti dikedeka Nuan. Aku bempu saksi ianya Nuan meh patut dipuji ba kereja Nuan, sereta patut dititih meh tangkan-atur Nuan, lalu meruan nadai penekul ba peminta Nuan.Udah nya uji iya ngangkatka jari iya, lalu nyebut tiga kali Nama Pemadu Tebangkar*. Udah nya uji iya meremi diri lalu jari iya diengkah ba pala patung ngadap Petara —beberekat sereta tinggi meh Iya— lalu nyebut:Nuan meda, O Petara aku, bakani roh aku udah begetar ba kaki jari aku enggau perengka tubuh aku, dalam pengelengau iya deka nyembah Nuan, lalu dalam pengingin iya deka ngingatka Nuan sereta muji Nuan; baka ni iya besaksika utai ti endur Dilah Jaku-perintah Nuan udah nyadi ke saksi dalam perintah leka jaku Nuan sereta dalam serega penemu Nuan. Aku rindu, dalam gaya tu, O Tuhan aku, minta enggau pemaruh ati ari Nuan semua utai ti dikemisi Nuan, awakka aku tau nunjukka penyeranta aku, lalu ngemesaika pementas Nuan enggau pengaya Nuan, lalu tau ngaku pengurang kuasa aku Ialu ngayanka kuasa Nuan enggau penegap Nuan.* Alláh-u-AbháUdah nya uji iya bediri lalu ngangkat jari iya dua kali minta, Ialu nyebut:Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Pemadu Pemisi. Nadai Petara bukai tang Nuan, ti Ngeletak, kenyau ari pun lalu ba pengujung. O Petara, Petara aku! Pengampun Nuan udah ngasuh aku berani, lalu pengasih Nuan udah ngeringka aku, Ialu kangau Nuan udah ngenanika aku, lalu berekat Nuan udah ngangkat aku sereta ngiring aku nuju Nuan. Sapa meh aku, enti enda ketegal nya, berani bediri ba pintu penama nuju nengeri penyemak Nuan, tauka nungaka mua aku ngadap penampak ti manchar ari serega peneka Nuan? Nuan meda, O Tuhan aku, utai idup ti papa tu nekung pintu berekat Nuan, lalu semengat ti tau lela tu ngiga sungai pengidup ti meruan ari jari pementas Nuan. Enggi Nuan nya meh perintah ba sebarang maya, O Nuan Tuhan ke semua nama; lalu enggi aku nya meh nyerahka diri sereta nerima enggau pengaga peneka Nuan, O Penempa serega!Udah nya uji iya ngangkat jari iya tiga kali, lalu nyebut:Lebih Bekuasa meh Petara ari genap iku ti bekuasa!Udah nya uji iya nyerugang, lalu kening iya meremi ngagai lantai (tanah), lalu nyebut:Kelalu tinggi meh Nuan ke puji sida ti semak enggau Nuan niki ngagai serega besemak enggau Nuan, tauka burung ati sida ti angkunka Nuan datai ba pintu penama Nuan. Aku besaksi ianya Nuan meh suchi ngelui semua penau sereta kudus ngelui semua nama. Nadai Petara bukai tang Nuan, ti Pemadu Tinggi, ti Pemadu Mulia.Udah nya uji iya nudukka diri lalu nyebut:Aku besaksi ba utai ti udah disaksika semua utai tempa, enggau Raban Malikat di atas, enggau bala ti diau ba Serega ti pemadu tinggi, lalu ngelui ari atas sida nya, Dilah Pemesai nya empu ari Bingkai- langit ti pemadu mulia, ianya Nuan meh Petara, lalu nadai Petara bukai kelimpah ari Nuan lalu Iya Siku ti udah dipegari ianya Penyelai ti Dipelalai, Lambang Pesaka, ke nengah Iya urup B enggau E (Be!) udah disambung sereta bejantil. Aku besaksi ianya Iya meh ti Ngempu nama ti udah ditulis ngena Pen ti Pengambis Tinggi, lalu Nuan ti udah dikenang dalam semua Kitab Petara, Tuhan ba Maligai ti di atas enggau ba tanah di baruh.Udah nya uji iya bediri lurus lalu nyebut:O Tuhan ke semua pengidup sereta Ngempu semua utai ti dipeda enggau ti enda dipeda! Nuan udah beratika ai mata aku enggau sera nyawa aku, sereta ninga demuh dada aku, enggau sedan sabak aku, lalu nemu penyinu ati aku. Ngena penegap Nuan! Penyalah aku udah nagang aku ari ke tebatak semak ngagai Nuan; lalu dosa aku udah ngerindang aku jauh ari balai pengudus Nuan. Pengerindu Nuan, O Tuhan aku, udah ngayaka aku, lalu beserara ari Nuan udah ngerusak aku, lalu jauh ari Nuan udah ngangus aku. Aku minta kasih Nuan ngena kelai tapa kaki Nuan ba kampung jerung tu, lalu ngena leka jaku "Ditu meh aku. Ditu meh aku," ti udah disebut Bala ti dipilih Nuan dalam pengeluas rampa dunya tu, lalu ngena seput Revelasyen Nuan enggau tiup ribut ti begadai- gadai ba Dini hari Pengayan Nuan, ngeletakka awakka aku tau merening pemajik Nuan lalu ngasika semua utai dalam Kitab Nuan.Udah nya uji iya nyebut Nama Pemadu Tebangkar tiga kali, lalu meremi sereta jari iya diengkah ba pala patung, lalu nyebut:Puji meh ngagai Nuan, O Petara aku, laban Nuan udah mantu aku ngingatka Nuan lalu muji Nuan, lalu udah ngasuh aku ngelala Nuan ti nyadi Terebak-tawas tanda-tanda Nuan, Ialu udah ngasuh aku meremi ke baruh lebuh betunga enggau Kuasa- Tuhan Nuan, lalu ngemaruhka diri ba mua Kuasa-Petara Nuan, lalu nerima utai ti udah disebut Dilah pemesai-kuasa Nuan.Udah nya uji iya bediri lalu nyebut:O Petara, Petara aku! Belakang aku nyau bungkuk laban tating dosa aku lalu nadai pengibuh aku udah ngerusakka aku. Lebuh aku ngenang penyalah kereja aku sereta pementas Nuan, ati aku anchur di dalam aku, lalu darah aku gesak dalam urat darah aku. Ngena Pemajik Nuan, O Nuan ti dikingin Dunya! Aku malu deka ngangkatka mua aku ngadap Nuan, lalu pengandal jari aku berasai malu deka diunjur ngagai serega pementas Nuan. Nuan meda, O Petara aku, bakani ai mata aku nagang aku ari ti ngingatka Nuan enggau muji pemanah Nuan, O Nuan Tuhan Maligai di atas enggau ba tanah di baruh! Aku minta Nuan ngena tanda Perintah Nuan enggau penyelai Pegai- Kuasa Nuan ngintu bala ti dikerindu Nuan ngena pementas Nuan, O Tuhan ke semua pengidup, lalu patut nerima berekat Nuan, O Raja ke utai ti dipeda enggau ti enda dipeda!Udah nya uji iya nyebut Nama Pemadu Tebangkar tiga kali, lalu nyerugang sereta kening iya meremi ngagai tanah, lalu nyebut:Puji meh ngagai Nuan, O Petara kami, laban Nuan udah ngirum ke baruh ngagai kami utai ti matak kami semak ngagai Nuan, lalu mekal kami enggau genap utai ti manah ti dikirum Nuan ke baruh dalam Bup Nuan enggau Kitab Nuan. Jaga kami, kami minta Nuan, O Tuhan aku, ari tepan pengelebu ngapa enggau igau sengapa. Nuan, amat bendar, ti Tegap, ti Pemadu Nemu.Udah nya uji iya ngangkat pala diri, sereta nudukka diri, lalu nyebut:Aku besaksi, O Petara aku, ke utai ti udah disaksika bala ti dipilih Nuan, lalu ngaku utai ti udah diaku raban ti diau ba Serega ti pemadu tinggi enggau sida ti udah ngelingi Maligai Nuan ti tegap. Perintah di dunya enggau di serega enggi Nuan, O Tuhan ke semua dunya!
 
 -- Bahá'u'lláh
 
-bpn12610 «[Iban](../iba/prayers/#bpn12610)» 
+bpn12610 
 
 ----
 
@@ -1509,11 +1510,11 @@ bpn12610 «[Iban](../iba/prayers/#bpn12610)»
 ## SAMBIANG PEMATI
 
 <a id="bpn12674"></a> 
-*(Semina Sambiang Pemati aja ti nyadi sambiang obligatori Bahá’í ke disebut dalam kongregasyen; ia disebut ulih siku orang ke arap lalu orang bukai bela bediri enda engkeretik. Bahá’u’lláh udah nerangka ianya sambiang tu semina disebut enti orang ke mati nya beumur lebih limabelas taun, ia mesti disebut sebedau tubuh ditanam, lalu tau enda ibuh nungaka mua ngadap Qiblih maya nyebut tu. “Alláh-u-Abhá” disebut sekali; ditangkan enggau genteran keterubah ari enam genteran ke disebut sembilanbelas kali. Udah nya sebut “Alláh-u-Abhá” sekali agi, ditangkan enggau genteran kedua, ke disebut sembilanbelas kali, lalu terus diulang baka nya.) O Petara aku! Tu pengasuh Nuan sereta anak lelaki pengasuh Nuan ti udah arapka Nuan enggau tanda Nuan, lalu nungaka mua iya ngadap Nuan, ngetas diri ari semua kelimpah ari Nuan. Nuan, amat bendar, ari sida ti mandangka pengasih Nuan meh ti pemadu pengasih!Intu iya, O Nuan ti ngampun dosa mensia sereta ngelamun penyalah sida, nitihka serega pementas Nuan enggau tasik penelap Nuan. Kemendarka iya masuk ke dalam kandang peninggi pengasih Nuan ti dulu ari penyadi dunya enggau serega. Nadai Petara bukai tang Nuan, ti Meruan Pengampun, ti Pemadu Mentas.Diatu sebut &#34;Alláh-u-Abhá&#34; enam kali, udah nya sebut siti-siti genteran jaku di baruh tu sembilanbelas kali:Semua kami, amat bendar, nyembah Petara.Semua kami, amat bendar, meremi ba mua Petara.Semua kami, amat bendar, angkunka Petara.Semua kami, amat bendar, meri puji ngagai Petara.Semua kami, amat bendar, beterima kasih ngagai Petara. Semua kami, amat bendar, liat ati dalam Petara.*(Enti iya ke mati nya indu, sebut tu: Tu pengasuh indu Nuan sereta anak indu pengasuh Nuan, etb…)
+*(Semina Sambiang Pemati aja ti nyadi sambiang obligatori Bahá’í ke disebut dalam kongregasyen; ia disebut ulih siku orang ke arap lalu orang bukai bela bediri enda engkeretik. Bahá’u’lláh udah nerangka ianya sambiang tu semina disebut enti orang ke mati nya beumur lebih limabelas taun, ia mesti disebut sebedau tubuh ditanam, lalu tau enda ibuh nungaka mua ngadap Qiblih maya nyebut tu. “Alláh-u-Abhá” disebut sekali; ditangkan enggau genteran keterubah ari enam genteran ke disebut sembilanbelas kali. Udah nya sebut “Alláh-u-Abhá” sekali agi, ditangkan enggau genteran kedua, ke disebut sembilanbelas kali, lalu terus diulang baka nya.) O Petara aku! Tu pengasuh Nuan sereta anak lelaki pengasuh Nuan ti udah arapka Nuan enggau tanda Nuan, lalu nungaka mua iya ngadap Nuan, ngetas diri ari semua kelimpah ari Nuan. Nuan, amat bendar, ari sida ti mandangka pengasih Nuan meh ti pemadu pengasih!Intu iya, O Nuan ti ngampun dosa mensia sereta ngelamun penyalah sida, nitihka serega pementas Nuan enggau tasik penelap Nuan. Kemendarka iya masuk ke dalam kandang peninggi pengasih Nuan ti dulu ari penyadi dunya enggau serega. Nadai Petara bukai tang Nuan, ti Meruan Pengampun, ti Pemadu Mentas.Diatu sebut "Alláh-u-Abhá" enam kali, udah nya sebut siti-siti genteran jaku di baruh tu sembilanbelas kali:Semua kami, amat bendar, nyembah Petara.Semua kami, amat bendar, meremi ba mua Petara.Semua kami, amat bendar, angkunka Petara.Semua kami, amat bendar, meri puji ngagai Petara.Semua kami, amat bendar, beterima kasih ngagai Petara. Semua kami, amat bendar, liat ati dalam Petara.*(Enti iya ke mati nya indu, sebut tu: Tu pengasuh indu Nuan sereta anak indu pengasuh Nuan, etb…)
 
 -- Bahá'u'lláh
 
-bpn12674 «[Iban](../iba/prayers/#bpn12674)» 
+bpn12674 
 
 ----
 
@@ -1523,7 +1524,7 @@ Sambiang bukai ke Orang ti udah Mati Mulia meh Nuan, O Tuhan Petara aku! Anang n
 
 -- Bahá'u'lláh
 
-bpn12675 «[Iban](../iba/prayers/#bpn12675)» 
+bpn12675 
 
 ----
 
@@ -1533,7 +1534,7 @@ Iya meh Petara, tinggi meh Iya, Tuhan ke pengerindu pengasih enggau pemisi!Mulia
 
 -- Bahá'u'lláh
 
-bpn12676 «[Iban](../iba/prayers/#bpn12676)» 
+bpn12676 
 
 ----
 
@@ -1543,7 +1544,7 @@ O Petara aku! O Petara aku! Amat bendar, pengasuhNuan, ngemaruhka diri ba kuasa-
 
 -- Abdu'l-Bahá
 
-bpn12677 «[Iban](../iba/prayers/#bpn12677)» 
+bpn12677 
 
 ----
 
@@ -1553,7 +1554,7 @@ O Petara aku! O Nuan pengampun dosa, ti ngenataika pemeri, pemuai semua pemedis!
 
 -- Abdu'l-Bahá
 
-bpn12678 «[Iban](../iba/prayers/#bpn12678)» 
+bpn12678 
 
 ----
 
@@ -1563,7 +1564,7 @@ O Nuan Tuhan ti pengampun!Taja sekeda semengat masau pengidup sida ketegal penge
 
 -- Abdu'l-Bahá
 
-bpn12679 «[Iban](../iba/prayers/#bpn12679)» 
+bpn12679 
 
 ----
 
@@ -1577,7 +1578,7 @@ Mulia meh Nuan, O Petara aku! Nuan ninga bala suluNuan ti amat keran ke Nuan mer
 
 -- Bahá'u'lláh
 
-bpn12712 «[Iban](../iba/prayers/#bpn12712)» 
+bpn12712 
 
 ----
 
@@ -1587,7 +1588,7 @@ Amat bendar aku tu pengasuh Nuan, O Petara aku, siku nembiak Nuan ti seranta eng
 
 -- Báb
 
-bpn12713 «[Iban](../iba/prayers/#bpn12713)» 
+bpn12713 
 
 ----
 
@@ -1597,7 +1598,7 @@ Iya meh ti Penyinu, ti Pemadu Pemisi! O Petara, Petara aku!Nuanmedaaku,Nuannemua
 
 -- Abdu'l-Bahá
 
-bpn12714 «[Iban](../iba/prayers/#bpn12714)» 
+bpn12714 
 
 ----
 
@@ -1607,7 +1608,7 @@ O Tuhan, Petara aku enggau Pengenduh aku lebuh maya penusahaku!TerabaiakuenggauP
 
 -- Abdu'l-Bahá
 
-bpn12715 «[Iban](../iba/prayers/#bpn12715)» 
+bpn12715 
 
 ----
 
@@ -1621,7 +1622,7 @@ O Petara aku! O Petara aku! Gempung ati bala pengasuhNuan, lalu pegarika ngagai 
 
 -- Bahá'u'lláh
 
-bpn12716 «[Iban](../iba/prayers/#bpn12716)» 
+bpn12716 
 
 ----
 
@@ -1635,7 +1636,7 @@ Mulia meh ke Nuan, O Raja ti meruan belama, enggauPengaga semua menua, lalu Penu
 
 -- Bahá'u'lláh
 
-bpn12717 «[Iban](../iba/prayers/#bpn12717)» 
+bpn12717 
 
 ----
 
@@ -1645,7 +1646,7 @@ O Tuhan aku enggau Pengandal aku! Tulung bala ti dikerindu Nuan nyadi teguh dala
 
 -- Abdu'l-Bahá
 
-bpn12718 «[Iban](../iba/prayers/#bpn12718)» 
+bpn12718 
 
 ----
 
@@ -1655,7 +1656,7 @@ O Petara ti penyinu! Terima kasih ke Nuan laban Nuan udah ngenani lalu ngasuh ak
 
 -- Abdu'l-Bahá
 
-bpn12719 «[Iban](../iba/prayers/#bpn12719)» 
+bpn12719 
 
 ----
 
@@ -1665,7 +1666,7 @@ Gaga teguh singkang kami, O Tuhan dalam menasanNuan lalu keringka ulih Nuan ati 
 
 -- Abdu'l-Bahá
 
-bpn12720 «[Iban](../iba/prayers/#bpn12720)» 
+bpn12720 
 
 ----
 
@@ -1675,11 +1676,11 @@ bpn12720 «[Iban](../iba/prayers/#bpn12720)»
 ## TIKAH
 
 <a id="bpn12721"></a> 
-*&#34;Tikah Bahá’í ianya tampil pengerindu enggau penyerakup ba dua piak.Taja pia, sida mesti berati enggau bejimat lalu beteleba enggau perangai pangan diri. Tanggam ti meruan tu patut diikat enggau sempekat ti teguh, lalu tuju ia patut kena ngemansangka pemaik, bekaban enggau penyerakup lalu tulihka pengidup ti meruan belama.”  Sumpah tikah, genteran ti disebut siku-siku seduai ti deka jadi melaki- bini ba mua enda kurang ari dua iku saksi ti dikemendarka Raban Gelumu Sambiang Menua, baka ti dipadah dalam Kitab-i- Aqdas:&#34;Semua kami deka, amat bendar nitihka Peneka Petara&#34; O Tuhan aku, O Tuhan aku! Dua igi perenching segala tu ditikah dalam pengerindu Nuan, betampil gawa ba Pemetung Pengudus Nuan, serakup dalam menyalaika Pengawa Nuan. Asuh ulih Nuan tikah tu nyadi baka benang pemayuh penampak berekat Nuan, O Tuhan aku, ti Pemadu Pengasih, sereta perenching pijar penyikap Nuan, O Nuan ti Penyaup, ti Seruran Meri, awakka ari nya tau nereki dan ari kayu ti tegap ke deka mansang galak sereta rinda nengah tepa ti dipanjah ke baruh ari mua-hari berekat Nuan.Amat bendar, Nuan meh Mentas. Amat bendar, Nuan meh Pemadu Tegap. Amat bendar, Nuan meh ti Penyinu, ti Pemadu Pengasih.
+*"Tikah Bahá’í ianya tampil pengerindu enggau penyerakup ba dua piak.Taja pia, sida mesti berati enggau bejimat lalu beteleba enggau perangai pangan diri. Tanggam ti meruan tu patut diikat enggau sempekat ti teguh, lalu tuju ia patut kena ngemansangka pemaik, bekaban enggau penyerakup lalu tulihka pengidup ti meruan belama.”  Sumpah tikah, genteran ti disebut siku-siku seduai ti deka jadi melaki- bini ba mua enda kurang ari dua iku saksi ti dikemendarka Raban Gelumu Sambiang Menua, baka ti dipadah dalam Kitab-i- Aqdas:"Semua kami deka, amat bendar nitihka Peneka Petara" O Tuhan aku, O Tuhan aku! Dua igi perenching segala tu ditikah dalam pengerindu Nuan, betampil gawa ba Pemetung Pengudus Nuan, serakup dalam menyalaika Pengawa Nuan. Asuh ulih Nuan tikah tu nyadi baka benang pemayuh penampak berekat Nuan, O Tuhan aku, ti Pemadu Pengasih, sereta perenching pijar penyikap Nuan, O Nuan ti Penyaup, ti Seruran Meri, awakka ari nya tau nereki dan ari kayu ti tegap ke deka mansang galak sereta rinda nengah tepa ti dipanjah ke baruh ari mua-hari berekat Nuan.Amat bendar, Nuan meh Mentas. Amat bendar, Nuan meh Pemadu Tegap. Amat bendar, Nuan meh ti Penyinu, ti Pemadu Pengasih.
 
 -- Abdu'l-Bahá
 
-bpn12721 «[Iban](../iba/prayers/#bpn12721)» 
+bpn12721 
 
 ----
 
@@ -1689,7 +1690,7 @@ Mulia meh Nuan, O Petara aku! Amat bendar, pengasuhNuan tu enggau pengasuh indu 
 
 -- Abdu'l-Bahá
 
-bpn12722 «[Iban](../iba/prayers/#bpn12722)» 
+bpn12722 
 
 ----
 

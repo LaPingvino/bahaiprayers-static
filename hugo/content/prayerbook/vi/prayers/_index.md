@@ -5,6 +5,7 @@ tags = ['lang=vi', 'prayerbook']
 
 
 
+
 [An Ủi](#An+%E1%BB%A6i)
 
 [Buổi Sáng](#Bu%E1%BB%95i+S%C3%A1ng)
@@ -115,7 +116,7 @@ Lạy Thượng Đế! Xin Ngài làm cho tâm hồn con tươi mát, thảnh th
 
 -- Bahá'u'lláh
 
-bpn4977 «[Tiếng Việt](../vi/prayers/#bpn4977)» 
+bpn4977 
 
 ----
 
@@ -129,17 +130,17 @@ Lạy Thượng Đế của con, sáng nay nhờ ân phúc Ngài con thức dậ
 
 -- Bahá'u'lláh
 
-bpn4978 «[Tiếng Việt](../vi/prayers/#bpn4978)» 
+bpn4978 
 
 ----
 
 
 <a id="bpn4979"></a> 
-Lạy Thượng Đế của con, con trở dậy trong sự phò trì của Ngài, và thật phước cho ai đi tìm nơi nương tựa này để được ở trong Thánh điện phù trợ của Ngài và ở trong thành trì bảo vệ của Ngài. Lạy Thượng Đế của con, xin cho ánh Bình minh Huy hoàng Mặc khải của Ngài soi sáng bản thể nội tại con, cũng như Ngài đã soi sáng bản thể ngoại tại của con bằng ánh sáng ban mai của Thiên ân.Đức Baha&#39;u&#39;llah
+Lạy Thượng Đế của con, con trở dậy trong sự phò trì của Ngài, và thật phước cho ai đi tìm nơi nương tựa này để được ở trong Thánh điện phù trợ của Ngài và ở trong thành trì bảo vệ của Ngài. Lạy Thượng Đế của con, xin cho ánh Bình minh Huy hoàng Mặc khải của Ngài soi sáng bản thể nội tại con, cũng như Ngài đã soi sáng bản thể ngoại tại của con bằng ánh sáng ban mai của Thiên ân.Đức Baha'u'llah
 
 -- Bahá'u'lláh
 
-bpn4979 «[Tiếng Việt](../vi/prayers/#bpn4979)» 
+bpn4979 
 
 ----
 
@@ -149,7 +150,7 @@ Lạy Thượng Đế của con, con xin dâng lời cảm tạ vì Ngài đã t
 
 -- Bahá'u'lláh
 
-bpn4980 «[Tiếng Việt](../vi/prayers/#bpn4980)» 
+bpn4980 
 
 ----
 
@@ -159,7 +160,7 @@ Lạy Thượng Đế, Thượng Đế của con! Con rời khỏi nhà con, tro
 
 -- Bahá'u'lláh
 
-bpn4981 «[Tiếng Việt](../vi/prayers/#bpn4981)» 
+bpn4981 
 
 ----
 
@@ -169,7 +170,7 @@ Lạy Thượng Đế Đại Từ bi, con cảm tạ Ngài đã thức tỉnh co
 
 -- Abdu'l-Bahá
 
-bpn4982 «[Tiếng Việt](../vi/prayers/#bpn4982)» 
+bpn4982 
 
 ----
 
@@ -183,7 +184,7 @@ Lạy Thượng Đế của con, lạy Đấng Tôn sư của con, Ngài là Tô
 
 -- Bahá'u'lláh
 
-bpn4983 «[Tiếng Việt](../vi/prayers/#bpn4983)» 
+bpn4983 
 
 ----
 
@@ -193,7 +194,7 @@ Lạy Thượng Đế, Thượng Đế của con, làm sao con có thể an ngh�
 
 -- Bahá'u'lláh
 
-bpn4984 «[Tiếng Việt](../vi/prayers/#bpn4984)» 
+bpn4984 
 
 ----
 
@@ -207,7 +208,7 @@ Lạy Ngài là Đấng Thượng Đế của con! Xin giúp các con thương y
 
 -- Abdu'l-Bahá
 
-bpn4985 «[Tiếng Việt](../vi/prayers/#bpn4985)» 
+bpn4985 
 
 ----
 
@@ -221,7 +222,7 @@ Lạy Thượng Đế, Ngài thấy đôi tay khẩn cầu của chúng con vư�
 
 -- Bahá'u'lláh
 
-bpn4988 «[Tiếng Việt](../vi/prayers/#bpn4988)» 
+bpn4988 
 
 ----
 
@@ -231,7 +232,7 @@ Phước cho ai nhớ tới cha mẹ mình khi thông công với Thượng Đ�
 
 -- Báb
 
-bpn4987 «[Tiếng Việt](../vi/prayers/#bpn4987)» 
+bpn4987 
 
 ----
 
@@ -241,7 +242,7 @@ Lạy Thượng Đế! Trong Kỳ Cứu độ Tối đại này Ngài đã chấ
 
 -- Abdu'l-Bahá
 
-bpn4989 «[Tiếng Việt](../vi/prayers/#bpn4989)» 
+bpn4989 
 
 ----
 
@@ -255,7 +256,7 @@ Hãy tụng: Vinh quang thay, Ngài đã làm tất cả các vị thánh thú n
 
 -- Bahá'u'lláh
 
-bpn4990 «[Tiếng Việt](../vi/prayers/#bpn4990)» 
+bpn4990 
 
 ----
 
@@ -265,7 +266,7 @@ Lạy Thượng Đế của con, Đấng Thờ phượng của con, Đấng Vua 
 
 -- Bahá'u'lláh
 
-bpn4991 «[Tiếng Việt](../vi/prayers/#bpn4991)» 
+bpn4991 
 
 ----
 
@@ -275,7 +276,7 @@ Lạy Thượng Đế của con, tất cả những lời ca tụng xin dâng l�
 
 -- Bahá'u'lláh
 
-bpn4992 «[Tiếng Việt](../vi/prayers/#bpn4992)» 
+bpn4992 
 
 ----
 
@@ -285,7 +286,7 @@ Tất cả những lời ca ngợi xin dâng lên Ngài, lạy Ngài là Đấng
 
 -- Bahá'u'lláh
 
-bpn4993 «[Tiếng Việt](../vi/prayers/#bpn4993)» 
+bpn4993 
 
 ----
 
@@ -299,7 +300,7 @@ Lạy Thượng Đế của con, Danh Ngài là sự chữa bệnh cho con, sự
 
 -- Bahá'u'lláh
 
-bpn4994 «[Tiếng Việt](../vi/prayers/#bpn4994)» 
+bpn4994 
 
 ----
 
@@ -309,7 +310,7 @@ Lạy Thượng Đế, Thượng Đế của con! Con khẩn cầu Ngài, xin l�
 
 -- Bahá'u'lláh
 
-bpn4995 «[Tiếng Việt](../vi/prayers/#bpn4995)» 
+bpn4995 
 
 ----
 
@@ -319,7 +320,7 @@ Vinh quang thuộc về Ngài, lạy Ngài là Đấng Thượng Đế của con
 
 -- Bahá'u'lláh
 
-bpn4996 «[Tiếng Việt](../vi/prayers/#bpn4996)» 
+bpn4996 
 
 ----
 
@@ -329,7 +330,7 @@ bpn4996 «[Tiếng Việt](../vi/prayers/#bpn4996)»
 
 -- Bahá'u'lláh
 
-bpn4997 «[Tiếng Việt](../vi/prayers/#bpn4997)» 
+bpn4997 
 
 ----
 
@@ -343,7 +344,7 @@ Lạy Thượng Đế của con, lạy Đấng Thỉnh cầu của kẻ yếu h�
 
 -- Abdu'l-Bahá
 
-bpn4999 «[Tiếng Việt](../vi/prayers/#bpn4999)» 
+bpn4999 
 
 ----
 
@@ -357,7 +358,7 @@ Lạy Đấng Từ bi Chí tôn, Ngài đã tạo ra nhân loại cùng một b�
 
 -- Abdu'l-Bahá
 
-bpn4986 «[Tiếng Việt](../vi/prayers/#bpn4986)» 
+bpn4986 
 
 ----
 
@@ -371,7 +372,7 @@ Lạy Thượng Đế, Thiên nhan Ngài là đối tượng tôn thờ của co
 
 -- Bahá'u'lláh
 
-bpn5000 «[Tiếng Việt](../vi/prayers/#bpn5000)» 
+bpn5000 
 
 ----
 
@@ -381,7 +382,7 @@ Lạy Ngài là Đấng Thượng Đế của con! Bởi Đấng Tối Đại Da
 
 -- Bahá'u'lláh
 
-bpn5001 «[Tiếng Việt](../vi/prayers/#bpn5001)» 
+bpn5001 
 
 ----
 
@@ -391,7 +392,7 @@ Lạy Thượng Đế, Thánh nhan Ngài là Đối tượng tôn thờ của t�
 
 -- Bahá'u'lláh
 
-bpn5002 «[Tiếng Việt](../vi/prayers/#bpn5002)» 
+bpn5002 
 
 ----
 
@@ -405,7 +406,7 @@ bpn5002 «[Tiếng Việt](../vi/prayers/#bpn5002)»
 
 -- Bahá'u'lláh
 
-bpn4976 «[Tiếng Việt](../vi/prayers/#bpn4976)» 
+bpn4976 
 
 ----
 
@@ -419,7 +420,7 @@ bpn4976 «[Tiếng Việt](../vi/prayers/#bpn4976)»
 
 -- Bahá'u'lláh
 
-bpn4975 «[Tiếng Việt](../vi/prayers/#bpn4975)» 
+bpn4975 
 
 ----
 
@@ -433,7 +434,7 @@ bpn4975 «[Tiếng Việt](../vi/prayers/#bpn4975)»
 
 -- Bahá'u'lláh
 
-bpn5004 «[Tiếng Việt](../vi/prayers/#bpn5004)» 
+bpn5004 
 
 ----
 
@@ -447,7 +448,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin Ngài ban cho những tôi
 
 -- Abdu'l-Bahá
 
-bpn5003 «[Tiếng Việt](../vi/prayers/#bpn5003)» 
+bpn5003 
 
 ----
 
@@ -461,7 +462,7 @@ Lạy Ngài là Đấng Thượng Đế của con, Danh Ngài thật đáng ca n
 
 -- Bahá'u'lláh
 
-bpn5005 «[Tiếng Việt](../vi/prayers/#bpn5005)» 
+bpn5005 
 
 ----
 
@@ -475,7 +476,7 @@ bpn5005 «[Tiếng Việt](../vi/prayers/#bpn5005)»
 
 -- Abdu'l-Bahá
 
-bpn5012 «[Tiếng Việt](../vi/prayers/#bpn5012)» 
+bpn5012 
 
 ----
 
@@ -489,7 +490,7 @@ Lạy Thượng Đế! Con hướng về Ngài để tìm nơi trú ẩn và con
 
 -- Báb
 
-bpn5013 «[Tiếng Việt](../vi/prayers/#bpn5013)» 
+bpn5013 
 
 ----
 
@@ -503,7 +504,7 @@ Ngài là Đấng Đại lượng, Đấng Thượng Đế Từ ái hoàn toàn!
 
 -- Bahá'u'lláh
 
-bpn5018 «[Tiếng Việt](../vi/prayers/#bpn5018)» 
+bpn5018 
 
 ----
 
@@ -513,7 +514,7 @@ Lạy Thượng Đế của con, Ngài thật là vinh quang! Quả thực, đâ
 
 -- Abdu'l-Bahá
 
-bpn5019 «[Tiếng Việt](../vi/prayers/#bpn5019)» 
+bpn5019 
 
 ----
 
@@ -527,7 +528,7 @@ Lạy Thượng Đế, Thượng Đế của chúng con! Chúng con là tôi t�
 
 -- Abdu'l-Bahá
 
-bpn5014 «[Tiếng Việt](../vi/prayers/#bpn5014)» 
+bpn5014 
 
 ----
 
@@ -541,7 +542,7 @@ Lạy Ngài là Đấng Xót thương, Đấng Toàn năng! Những linh hồn t
 
 -- Abdu'l-Bahá
 
-bpn5015 «[Tiếng Việt](../vi/prayers/#bpn5015)» 
+bpn5015 
 
 ----
 
@@ -551,7 +552,7 @@ Lạy Ngài là Đấng Thượng Đế Bác ái! Lạy Ngài là Đấng Thư�
 
 -- Abdu'l-Bahá
 
-bpn5016 «[Tiếng Việt](../vi/prayers/#bpn5016)» 
+bpn5016 
 
 ----
 
@@ -561,7 +562,7 @@ Lạy Thượng Đế, Đấng Khoan dung! Lạy Đấng Giáo dục Thiêng li�
 
 -- Abdu'l-Bahá
 
-bpn5017 «[Tiếng Việt](../vi/prayers/#bpn5017)» 
+bpn5017 
 
 ----
 
@@ -575,7 +576,7 @@ bpn5017 «[Tiếng Việt](../vi/prayers/#bpn5017)»
 
 -- Bahá'u'lláh
 
-bpn5024 «[Tiếng Việt](../vi/prayers/#bpn5024)» 
+bpn5024 
 
 ----
 
@@ -589,7 +590,7 @@ bpn5024 «[Tiếng Việt](../vi/prayers/#bpn5024)»
 
 -- Bahá'u'lláh
 
-bpn5025 «[Tiếng Việt](../vi/prayers/#bpn5025)» 
+bpn5025 
 
 ----
 
@@ -603,7 +604,7 @@ bpn5025 «[Tiếng Việt](../vi/prayers/#bpn5025)»
 
 -- Bahá'u'lláh
 
-bpn5026 «[Tiếng Việt](../vi/prayers/#bpn5026)» 
+bpn5026 
 
 ----
 
@@ -617,7 +618,7 @@ Lạy Thượng Đế của con, Danh Ngài đáng được ca ngợi! Bởi thi
 
 -- Bahá'u'lláh
 
-bpn5020 «[Tiếng Việt](../vi/prayers/#bpn5020)» 
+bpn5020 
 
 ----
 
@@ -627,7 +628,7 @@ Danh Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế c�
 
 -- Bahá'u'lláh
 
-bpn5021 «[Tiếng Việt](../vi/prayers/#bpn5021)» 
+bpn5021 
 
 ----
 
@@ -637,17 +638,17 @@ Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca ngợi! Ngài
 
 -- Bahá'u'lláh
 
-bpn5022 «[Tiếng Việt](../vi/prayers/#bpn5022)» 
+bpn5022 
 
 ----
 
 
 <a id="bpn5023"></a> 
-Lạy Thượng Đế của con, Danh Ngài thật vinh quang, vì Ngài đã làm biểu hiện Ngày là Vua của các ngày, Ngày mà Ngài đã thông báo cho các Đấng Tiên tri trong những Kinh bản tôn quí nhất của Ngài, là Ngày mà Ngài tuôn đổ vẻ huy hoàng vinh quang của tất cả các Danh Ngài lên mọi vật thọ tạo. Ơn phước to lớn nhất thuộc về bất cứ ai đã hướng về Ngài, bước vào sự hiện diện của Ngài, và nghe được những âm sắc của giọng nói Ngài.Lạy Thượng Đế của con, bởi Danh của Đấng mà Vương quốc các Danh của Ngài đã chầu hầu trong sự tôn thờ, con cầu xin Ngài rộng lượng giúp cho những ai là người thân yêu của Ngài biết tôn vinh Thánh ngôn Ngài trong vòng các tôi tớ Ngài, và truyền rộng ra lời chúc tụng Ngài giữa chúng sinh, để cho sự hoan lạc của Mặc khải Ngài tràn ngập linh hồn tất cả cư dân trên trái đất của Ngài.Lạy Thượng Đế của con, vì Ngài đã dắt dẫn họ đến những dòng sinh thủy của thiên ân, nên, bởi lượng từ bi của Ngài, xin đừng để họ rời xa Ngài, và vì Ngài đã gọi họ đến nơi đặt ngôi báu của Ngài, xin Ngài đừng để họ xa cách sự hiện diện của Ngài. Xin Ngài ban xuống cho họ điều gì sẽ khiến họ hoàn toàn thoát khỏi mọi ràng buộc ngoại trừ với chính Ngài, và khiến họ có thể bay lên bầu trời kề cận Ngài, đến nỗi quyền lực của kẻ áp bức cũng như lời gợi ý của những kẻ không tin nơi Bản thể tối cao và hùng mạnh nhất của Ngài, không đủ sức khiến họ rời xa Ngài.Đức Baha&#39;u&#39;llah
+Lạy Thượng Đế của con, Danh Ngài thật vinh quang, vì Ngài đã làm biểu hiện Ngày là Vua của các ngày, Ngày mà Ngài đã thông báo cho các Đấng Tiên tri trong những Kinh bản tôn quí nhất của Ngài, là Ngày mà Ngài tuôn đổ vẻ huy hoàng vinh quang của tất cả các Danh Ngài lên mọi vật thọ tạo. Ơn phước to lớn nhất thuộc về bất cứ ai đã hướng về Ngài, bước vào sự hiện diện của Ngài, và nghe được những âm sắc của giọng nói Ngài.Lạy Thượng Đế của con, bởi Danh của Đấng mà Vương quốc các Danh của Ngài đã chầu hầu trong sự tôn thờ, con cầu xin Ngài rộng lượng giúp cho những ai là người thân yêu của Ngài biết tôn vinh Thánh ngôn Ngài trong vòng các tôi tớ Ngài, và truyền rộng ra lời chúc tụng Ngài giữa chúng sinh, để cho sự hoan lạc của Mặc khải Ngài tràn ngập linh hồn tất cả cư dân trên trái đất của Ngài.Lạy Thượng Đế của con, vì Ngài đã dắt dẫn họ đến những dòng sinh thủy của thiên ân, nên, bởi lượng từ bi của Ngài, xin đừng để họ rời xa Ngài, và vì Ngài đã gọi họ đến nơi đặt ngôi báu của Ngài, xin Ngài đừng để họ xa cách sự hiện diện của Ngài. Xin Ngài ban xuống cho họ điều gì sẽ khiến họ hoàn toàn thoát khỏi mọi ràng buộc ngoại trừ với chính Ngài, và khiến họ có thể bay lên bầu trời kề cận Ngài, đến nỗi quyền lực của kẻ áp bức cũng như lời gợi ý của những kẻ không tin nơi Bản thể tối cao và hùng mạnh nhất của Ngài, không đủ sức khiến họ rời xa Ngài.Đức Baha'u'llah
 
 -- Bahá'u'lláh
 
-bpn5023 «[Tiếng Việt](../vi/prayers/#bpn5023)» 
+bpn5023 
 
 ----
 
@@ -657,11 +658,11 @@ bpn5023 «[Tiếng Việt](../vi/prayers/#bpn5023)»
 ## Lửa Thiêng
 
 <a id="bpn5027"></a> 
-##Lửa Thiêng*(Bản kinh này để đọc trong những lúc biến loạn lớn đã được mặc khải khi Đức Baha&#39;u&#39;llah ở vào hoàn cảnh hiểm nghèo nhất)Trong Thánh Danh Ngài, Đấng Toàn năng, Đấng Tối Cổ của các Thời đại.Quả thật tâm hồn của những tín đồ nhiệt thành đã bị thiêu đốt bởi lửa phân ly,Đâu là sự chiếu rọi của ánh sáng Hợp nhất của Ngài, hỡi Đấng Kính yêu của thế giới?Những kẻ được Ngài lựa chọn đã lạc lỏng trong bóng tối hoàn toàn,Đâu là sự xuất hiện buổi ban mai tái hợp của Ngài, hỡi Đấng Khát khao của thế giới?Thân thể của những kẻ được Ngài lựa chọn đã dãy dụa trong những vùng đất lạ,Đâu là đại dương hiện diện của Ngài, hỡi Đấng Chúc phúc cho thế giới?Những bàn tay khát khao đã vươn lên bầu trời thiên phước của Ngài,Đâu là mưa ân phúc của Ngài, hỡi Đấng Che chở của thế giới?Sự vô tín tàn bạo đã dẫy đầy các xứ,Đâu là sự thắng thế của bút lệnh Ngài, hỡi Đấng Toàn thắng của thế giới?Tiếng tru lũ chó đã vang lớn ở mọi phía,Đâu là sư tử rừng thịnh nộ của Ngài, hỡi Đấng Trừng phạt của thế giới?Mùa đông đã đè nặng trên tâm hồn con người,Đâu là lửa yêu thương của Ngài, hỡi Đấng Khát khao của thế giới?Tai biến đã vượt tới mức cao nhất,Đâu là biểu hiện cứu giúp của Ngài, hỡi Đấng Cứu vớt của thế giới?Sự tối tăm đã bao trùm tạo vật của Ngài,Đâu là sự soi rọi nguồn sáng của Ngài, hỡi Đấng Sáng ngời của thế giới?Loài người đã đưa cao đôi tay phạm thánh,Đâu là lời quả báo của Ngài, hỡi Đấng Hủy diệt của thế giới?Sự khổ đau đã vượt tới mức thẳm sâu nhất,Đâu là dấu hiệu vinh quang của Ngài, hỡi Đấng Vinh quang của thế giới?Sự phiền muộn đã bao trùm ngày xuân Thánh danh Bao dung của Ngài,Đâu là niềm vui của Đấng Biểu hiện Thánh danh Ngài, hỡi Đấng Yên vui của thế giới?Sự khổ đau cùng độ đã dày vò nhân loại,Đâu là dấu hiệu thanh nhàn của Ngài, hỡi Đấng Tối đại Hạnh phúc của thế giới?Ngài đã thấy Đấng Biểu hiện Thánh thi của Ngài bị bao vây bởi sự diễu cợt,Đâu là bàn tay quyền năng cứu giúp của Ngài, hỡi Đấng Quyền năng của thế giới?Sự khát khao cao độ đang hành hạ mọi người,Đâu là dòng sông ơn phước của Ngài, hỡi Đấng Bao dung của thế giới?Tánh tham lam đã giam hãm toàn thể tạo vật,Đâu là những người dứt bỏ, hỡi Đấng Tối cao của thế giới?Ngài thấy Kẻ hèn mọn này cô độc nơi xứ lạ,Đâu là đạo thiên binh từ cõi trời quyền năng Ngài, hỡi Đấng Tối Quyền thế của thế giới?Con bị bỏ rơi trong vùng đất lưu đày,Đâu là những chủ nhà thân hữu của Ngài, hỡi Đấng Bạn hữu của cả thế giới?Tử thần đã gieo sầu não khắp mọi miền,Đâu là ngọn thủy triều trong đại dương hiếu sinh của Ngài, hỡi Đấng Sự sống của toàn thế giới?Tiếng thì thào của Satăn đã mê hoặc mọi người,Đâu là biểu tượng sự lôi đình của Ngài, hỡi Đấng Huy hoàng của thế giới?Rượu tham dục đã che mờ tâm trí mọi người,Đâu là linh hồn thánh thiện, hỡi Đấng Khát khao của thế giới?Ngài thấy Kẻ khốn khổ này bị vây phủ trong cảnh tối tăm giữa những người Syrie,Đâu là sự tỏa chiếu ánh sáng ban mai của Ngài, hỡi Đấng Đèn trời của thế giới?Ngài thấy Con bị cấm mở lời,Vậy tới bao giờ những điệu nhạc du dương của Ngài mới trổi lên được, hỡi Đấng Hoan ca của thế giới?Phần lớn loài người bị vây phủ bởi sự nghi ngờ và ảo tưởng,Đâu là những con dân xác tín của Ngài, hỡi Đấng làm Nơi trú ẩn của thế giới?Baha bị dìm trong đại dương thống khổ,Đâu là Thuyền Giải thoát của Ngài, hỡi Đấng Giải thoát của thế giới?Ngài thấy Ngày xuân phán lệnh của Ngài chìm trong cảnh tối đen của tạo vật,Đâu là mặt trời thiên đàng ơn phước của Ngài, hỡi Đấng Ánh sáng của toàn thế giới?Những ngọn đèn chân lý và cương trực, trung thành và danh dự đã bị dập tắt,Đâu là dấu hiệu quả báo của Ngài, hỡi Đấng Vận chuyển của thế giới?Chính Ngài thấy Người dốc tâm làm sáng tỏ Chánh Đạo của Ngài, chính Ngài biết điều gì đang vây phủ Người trên đường thương yêu của Ngài,Làm sao ngòi bút của Con phải dừng lại, hỡi Đấng Kính yêu của toàn thế giới?Các cành Cây Sen bị bẻ gãy dưới các cơn gió phũ phàng của số phận,Đâu là những linh kỳ chiến thắng của Ngài, hỡi Đấng Toàn thắng của thế giới?Mặt Con bị che mờ bởi lớp bụi vu khống,Đâu là làn gió thương yêu của Ngài, hỡi Đấng Khoan dung của thế giới?Chiếc áo thánh đã bị vấy bẩn bởi những kẻ gian dối,Đâu là vật trang sức thánh khiết của Ngài, hỡi Đấng Phụng thờ của thế giới?Biển ơn phước vẫn còn xa tầm tay người tìm kiếm,Đâu là ngọn thủy triều thiên ân của Ngài, hỡi Đấng Khát khao của thế giới?Những kẻ thù Con đã khóa cửa không cho bạn hữu của Con đến thăm,Đâu là chìa khóa thiên phúc của Ngài, hỡi Đấng Tối cao của thế giới?Các lá cây đã vàng khô vì gió độc hận thù,Đâu là mưa từ những đám mây ân phúc của Ngài, hỡi Đấng Ơn phước của thế giới?Thế giới đã tối sầm lại vì bụi tội lỗi,Đâu là những cơn gió khoan dung của Ngài, hỡi Đấng Khoan dung của thế giới?Kẻ Thanh niên này bị giam cầm nơi miền đất cằn cỗi,Đâu là mưa từ thiên đàng ơn phước của Ngài, hỡi Đấng Giải thoát của thế giới?Thượng Đế phán cùng Đức Baha&#39;u&#39;llah:Hỡi Ngươi là Ngòi bút Thiên thượng, từ cõi thực tại vĩnh cửu, Chúng Ta đã nghe lời kêu cầu cảm động của Ngươi,Vậy hãy nghe đây điều mà Ngọn lưỡi Vĩ đại truyền phán, hỡi Đấng Khốn khổ của thế giới.Nếu chẳng vì sự giá lạnh, làm sao sức nóng thánh ngôn của Ngươi có được giá trị, hỡi Đấng Mặc khải của thế giới?Nếu chẳng vì sự đau đớn, làm sao đức kiên nhẫn dồi dào của Ngươi chiếu sáng, hỡi Đấng Huy hoàng của thế giới?Vinh quang thay sự xuất hiện của Ngươi từ Thiên đàng Giao ước giữa những kẻ đang chạy theo hận thù, và vinh quang thay sự tùng phục của Ngươi trước Thượng Đế, hỡi Đấng Thương yêu của toàn thế giới.Do Ngươi ngọn cờ tự do phất phới bay trên đỉnh cao chót vót.Do Ngươi biển thiên phước dâng lên, hỡi Đấng Kính yêu của thế giới.Do sự cô đơn của Ngươi, Biển Hợp nhất tuôn trào, và do sự lưu đày của Ngươi đất khô cằn thành ra tươi tốt.Vậy hãy bền lòng chịu đựng, hỡi Ngươi là Đấng Lưu đày của thế giới.Ngươi đã thấy lòng người đời chứa đầy tội lỗi, và Ngươi sẽ tha thứ cho họ, bởi Ngươi là Đấng Hiểu rõ mục đích của toàn thế giới.Khi những lưỡi kiếm tuốt ra, hãy đi tới; khi các ngọn dáo vung lên, hãy tiến nhanh, hỡi Ngươi là Đấng Cứu chuộc của thế giới.Ngươi than van hay là Ta phải than van? Cũng đừng kêu khóc trước số ít những người giúp đỡ Ngươi, hỡi Ngươi là Đấng đã tạo nên sự than van của thế giới.Đức Baha&#39;u&#39;llah lãnh ý:Quả thật, Con đã nghe Tiếng gọi, hỡi Đấng Baha Kính yêu, và Con đã thấy thánh nhan của Baha rạng ngời với sức nóng khổ não và với sự sáng của thánh ngôn Ngài, và Đấng ấy đã đứng lên với trọn niềm tin ở nơi diễn ra sự tử đạo, chỉ mong tìm sự hài lòng của Ngài, hỡi Đấng Khát khao của thế giới.Hỡi Ngài là Đấng Ali-Qubli-Akbar.Hãy ca ngợi Thượng Đế đã mặc khải bản Kinh này, để các ngươi hít thở được hương thơm kiên nhẫn của Ta và được biết sự gì đã vây phủ lấy Chúng Ta trên đường của Thượng Đế, Đấng Tôn thờ của toàn thế giới.
+##Lửa Thiêng*(Bản kinh này để đọc trong những lúc biến loạn lớn đã được mặc khải khi Đức Baha'u'llah ở vào hoàn cảnh hiểm nghèo nhất)Trong Thánh Danh Ngài, Đấng Toàn năng, Đấng Tối Cổ của các Thời đại.Quả thật tâm hồn của những tín đồ nhiệt thành đã bị thiêu đốt bởi lửa phân ly,Đâu là sự chiếu rọi của ánh sáng Hợp nhất của Ngài, hỡi Đấng Kính yêu của thế giới?Những kẻ được Ngài lựa chọn đã lạc lỏng trong bóng tối hoàn toàn,Đâu là sự xuất hiện buổi ban mai tái hợp của Ngài, hỡi Đấng Khát khao của thế giới?Thân thể của những kẻ được Ngài lựa chọn đã dãy dụa trong những vùng đất lạ,Đâu là đại dương hiện diện của Ngài, hỡi Đấng Chúc phúc cho thế giới?Những bàn tay khát khao đã vươn lên bầu trời thiên phước của Ngài,Đâu là mưa ân phúc của Ngài, hỡi Đấng Che chở của thế giới?Sự vô tín tàn bạo đã dẫy đầy các xứ,Đâu là sự thắng thế của bút lệnh Ngài, hỡi Đấng Toàn thắng của thế giới?Tiếng tru lũ chó đã vang lớn ở mọi phía,Đâu là sư tử rừng thịnh nộ của Ngài, hỡi Đấng Trừng phạt của thế giới?Mùa đông đã đè nặng trên tâm hồn con người,Đâu là lửa yêu thương của Ngài, hỡi Đấng Khát khao của thế giới?Tai biến đã vượt tới mức cao nhất,Đâu là biểu hiện cứu giúp của Ngài, hỡi Đấng Cứu vớt của thế giới?Sự tối tăm đã bao trùm tạo vật của Ngài,Đâu là sự soi rọi nguồn sáng của Ngài, hỡi Đấng Sáng ngời của thế giới?Loài người đã đưa cao đôi tay phạm thánh,Đâu là lời quả báo của Ngài, hỡi Đấng Hủy diệt của thế giới?Sự khổ đau đã vượt tới mức thẳm sâu nhất,Đâu là dấu hiệu vinh quang của Ngài, hỡi Đấng Vinh quang của thế giới?Sự phiền muộn đã bao trùm ngày xuân Thánh danh Bao dung của Ngài,Đâu là niềm vui của Đấng Biểu hiện Thánh danh Ngài, hỡi Đấng Yên vui của thế giới?Sự khổ đau cùng độ đã dày vò nhân loại,Đâu là dấu hiệu thanh nhàn của Ngài, hỡi Đấng Tối đại Hạnh phúc của thế giới?Ngài đã thấy Đấng Biểu hiện Thánh thi của Ngài bị bao vây bởi sự diễu cợt,Đâu là bàn tay quyền năng cứu giúp của Ngài, hỡi Đấng Quyền năng của thế giới?Sự khát khao cao độ đang hành hạ mọi người,Đâu là dòng sông ơn phước của Ngài, hỡi Đấng Bao dung của thế giới?Tánh tham lam đã giam hãm toàn thể tạo vật,Đâu là những người dứt bỏ, hỡi Đấng Tối cao của thế giới?Ngài thấy Kẻ hèn mọn này cô độc nơi xứ lạ,Đâu là đạo thiên binh từ cõi trời quyền năng Ngài, hỡi Đấng Tối Quyền thế của thế giới?Con bị bỏ rơi trong vùng đất lưu đày,Đâu là những chủ nhà thân hữu của Ngài, hỡi Đấng Bạn hữu của cả thế giới?Tử thần đã gieo sầu não khắp mọi miền,Đâu là ngọn thủy triều trong đại dương hiếu sinh của Ngài, hỡi Đấng Sự sống của toàn thế giới?Tiếng thì thào của Satăn đã mê hoặc mọi người,Đâu là biểu tượng sự lôi đình của Ngài, hỡi Đấng Huy hoàng của thế giới?Rượu tham dục đã che mờ tâm trí mọi người,Đâu là linh hồn thánh thiện, hỡi Đấng Khát khao của thế giới?Ngài thấy Kẻ khốn khổ này bị vây phủ trong cảnh tối tăm giữa những người Syrie,Đâu là sự tỏa chiếu ánh sáng ban mai của Ngài, hỡi Đấng Đèn trời của thế giới?Ngài thấy Con bị cấm mở lời,Vậy tới bao giờ những điệu nhạc du dương của Ngài mới trổi lên được, hỡi Đấng Hoan ca của thế giới?Phần lớn loài người bị vây phủ bởi sự nghi ngờ và ảo tưởng,Đâu là những con dân xác tín của Ngài, hỡi Đấng làm Nơi trú ẩn của thế giới?Baha bị dìm trong đại dương thống khổ,Đâu là Thuyền Giải thoát của Ngài, hỡi Đấng Giải thoát của thế giới?Ngài thấy Ngày xuân phán lệnh của Ngài chìm trong cảnh tối đen của tạo vật,Đâu là mặt trời thiên đàng ơn phước của Ngài, hỡi Đấng Ánh sáng của toàn thế giới?Những ngọn đèn chân lý và cương trực, trung thành và danh dự đã bị dập tắt,Đâu là dấu hiệu quả báo của Ngài, hỡi Đấng Vận chuyển của thế giới?Chính Ngài thấy Người dốc tâm làm sáng tỏ Chánh Đạo của Ngài, chính Ngài biết điều gì đang vây phủ Người trên đường thương yêu của Ngài,Làm sao ngòi bút của Con phải dừng lại, hỡi Đấng Kính yêu của toàn thế giới?Các cành Cây Sen bị bẻ gãy dưới các cơn gió phũ phàng của số phận,Đâu là những linh kỳ chiến thắng của Ngài, hỡi Đấng Toàn thắng của thế giới?Mặt Con bị che mờ bởi lớp bụi vu khống,Đâu là làn gió thương yêu của Ngài, hỡi Đấng Khoan dung của thế giới?Chiếc áo thánh đã bị vấy bẩn bởi những kẻ gian dối,Đâu là vật trang sức thánh khiết của Ngài, hỡi Đấng Phụng thờ của thế giới?Biển ơn phước vẫn còn xa tầm tay người tìm kiếm,Đâu là ngọn thủy triều thiên ân của Ngài, hỡi Đấng Khát khao của thế giới?Những kẻ thù Con đã khóa cửa không cho bạn hữu của Con đến thăm,Đâu là chìa khóa thiên phúc của Ngài, hỡi Đấng Tối cao của thế giới?Các lá cây đã vàng khô vì gió độc hận thù,Đâu là mưa từ những đám mây ân phúc của Ngài, hỡi Đấng Ơn phước của thế giới?Thế giới đã tối sầm lại vì bụi tội lỗi,Đâu là những cơn gió khoan dung của Ngài, hỡi Đấng Khoan dung của thế giới?Kẻ Thanh niên này bị giam cầm nơi miền đất cằn cỗi,Đâu là mưa từ thiên đàng ơn phước của Ngài, hỡi Đấng Giải thoát của thế giới?Thượng Đế phán cùng Đức Baha'u'llah:Hỡi Ngươi là Ngòi bút Thiên thượng, từ cõi thực tại vĩnh cửu, Chúng Ta đã nghe lời kêu cầu cảm động của Ngươi,Vậy hãy nghe đây điều mà Ngọn lưỡi Vĩ đại truyền phán, hỡi Đấng Khốn khổ của thế giới.Nếu chẳng vì sự giá lạnh, làm sao sức nóng thánh ngôn của Ngươi có được giá trị, hỡi Đấng Mặc khải của thế giới?Nếu chẳng vì sự đau đớn, làm sao đức kiên nhẫn dồi dào của Ngươi chiếu sáng, hỡi Đấng Huy hoàng của thế giới?Vinh quang thay sự xuất hiện của Ngươi từ Thiên đàng Giao ước giữa những kẻ đang chạy theo hận thù, và vinh quang thay sự tùng phục của Ngươi trước Thượng Đế, hỡi Đấng Thương yêu của toàn thế giới.Do Ngươi ngọn cờ tự do phất phới bay trên đỉnh cao chót vót.Do Ngươi biển thiên phước dâng lên, hỡi Đấng Kính yêu của thế giới.Do sự cô đơn của Ngươi, Biển Hợp nhất tuôn trào, và do sự lưu đày của Ngươi đất khô cằn thành ra tươi tốt.Vậy hãy bền lòng chịu đựng, hỡi Ngươi là Đấng Lưu đày của thế giới.Ngươi đã thấy lòng người đời chứa đầy tội lỗi, và Ngươi sẽ tha thứ cho họ, bởi Ngươi là Đấng Hiểu rõ mục đích của toàn thế giới.Khi những lưỡi kiếm tuốt ra, hãy đi tới; khi các ngọn dáo vung lên, hãy tiến nhanh, hỡi Ngươi là Đấng Cứu chuộc của thế giới.Ngươi than van hay là Ta phải than van? Cũng đừng kêu khóc trước số ít những người giúp đỡ Ngươi, hỡi Ngươi là Đấng đã tạo nên sự than van của thế giới.Đức Baha'u'llah lãnh ý:Quả thật, Con đã nghe Tiếng gọi, hỡi Đấng Baha Kính yêu, và Con đã thấy thánh nhan của Baha rạng ngời với sức nóng khổ não và với sự sáng của thánh ngôn Ngài, và Đấng ấy đã đứng lên với trọn niềm tin ở nơi diễn ra sự tử đạo, chỉ mong tìm sự hài lòng của Ngài, hỡi Đấng Khát khao của thế giới.Hỡi Ngài là Đấng Ali-Qubli-Akbar.Hãy ca ngợi Thượng Đế đã mặc khải bản Kinh này, để các ngươi hít thở được hương thơm kiên nhẫn của Ta và được biết sự gì đã vây phủ lấy Chúng Ta trên đường của Thượng Đế, Đấng Tôn thờ của toàn thế giới.
 
 -- Bahá'u'lláh
 
-bpn5027 «[Tiếng Việt](../vi/prayers/#bpn5027)» 
+bpn5027 
 
 ----
 
@@ -675,7 +676,7 @@ bpn5027 «[Tiếng Việt](../vi/prayers/#bpn5027)»
 
 -- Bahá'u'lláh
 
-bpn5028 «[Tiếng Việt](../vi/prayers/#bpn5028)» 
+bpn5028 
 
 ----
 
@@ -689,7 +690,7 @@ Lạy Thượng Đế của con! Lạy Thượng Đế của con! Con ca ngợi 
 
 -- Abdu'l-Bahá
 
-bpn5029 «[Tiếng Việt](../vi/prayers/#bpn5029)» 
+bpn5029 
 
 ----
 
@@ -699,11 +700,11 @@ bpn5029 «[Tiếng Việt](../vi/prayers/#bpn5029)»
 ## Nawruz
 
 <a id="bpn5030"></a> 
-##Nawruz*(Thánh Lễ Naw-ruz, 21-3, là ngày đầu năm Baha&#39;i và là ngày vui mừng)Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca tụng vì Ngài đã ấn định Naw-ruz là ngày Lễ mừng cho tất cả những ai đã giữ trai giới vì tình yêu Ngài và tự chế đối với tất cả những gì Ngài gớm ghét. Lạy Thượng Đế của con, xin cho Tình yêu Ngài và sức nóng tỏa ra do sự trai giới Ngài ấn định, khiến mọi người trở nên nhiệt thành trong Chánh Đạo Ngài, bận rộn trong việc ca tụng Ngài và tưởng nhớ Ngài.Lạy Thượng Đế của con, vì Ngài đã tô điểm họ với vật trang sức là sự trai giới do Ngài ấn định, xin Ngài cũng tô điểm họ với sự chấp nhận của Ngài do ân phước và ân huệ dồi dào của Ngài. Mọi hành động của loài người đều tùy nơi sự hài lòng của Ngài và chịu sự điều khiển bởi lệnh Ngài. Nếu Ngài coi một người không giữ trai giới như người có giữ, thì người đó phải được coi như kẻ đã giữ trai giới đời đời. Còn nếu Ngài coi một người giữ trai giới như đã phá giới, thì người đó phải được kể như kẻ đã làm Chiếc Áo Mặc khải của Ngài lấm bụi và bị dời xa khỏi những làn nước trong suốt của Giếng sự sống này.Ngài là Đấng đã khiến biểu hiệu này được nêu cao: “Ngài đáng ca ngợi trong các công trình của Ngài”; đã khiến linh kỳ này tung bay: “Tất cả vâng phục mệnh lệnh Ngài”. Lạy Thượng Đế của con, xin tỏ rõ cương vị của Ngài để họ được biết sự ưu tú của mọi vật đều tùy thuộc lệnh Ngài và lời Ngài, và đức hạnh của mọi hành động đều được định đoạt bởi uy phép Ngài và bởi sự vui thỏa của ý chí Ngài; xin Ngài giúp họ nhận biết rằng giềng mối mọi hành động của loài người đều ở trong nắm tay ưng chuẩn của Ngài và nơi mệnh lệnh Ngài. Xin khiến họ biết điều này, để cho không gì có thể khiến họ mù lòa trước Vẻ đẹp của Ngài, trong những ngày này khi Đấng Christ (Ki-tô) công bố: “Tất cả quyền ngự trị, thuộc về Ngài, hỡi Ngài là Đấng đã sinh ra Đấng Thánh thần (Jesus)”; những ngày mà Đấng Bạn hữu Ngài (Muhammad) đã tuyên dương: “Vinh quang thuộc về Ngài, hỡi Ngài là Đấng Kính yêu Nhất vì Ngài đã khải hiện Vẻ đẹp của Ngài và đã giáng bút cho những kẻ lựa chọn của Ngài điều khiến họ đạt tới ngôi mặc khải Tối Đại Danh của Ngài, Danh đã khiến mọi dân tộc phải khóc than, ngoại trừ những kẻ đã dứt bỏ hết mọi sự ngoài Ngài, và cùng hướng về Đấng là Đấng Mặc khải chính Ngài và là Đấng Biểu hiện các đặc tính của Ngài”.Lạy Thượng Đế của con, Đấng là Cành của Ngài và tất cả tín đồ của Ngài đã chấm dứt trai giới ngày hôm nay sau khi đã tuân giữ nó trong khuôn khổ Luật pháp của Ngài và trong nhiệt tình làm vui lòng Ngài. Xin ấn định cho Đấng ấy, cho họ, cho tất cả những ai bước vào cõi hiện diện của Ngài trong những ngày này tất cả những điều thiện mà Ngài đã hứa hẹn trong Thánh Kinh Ngài. Xin Ngài ban cho họ điều gì ích lợi cho họ trong đời này và đời sau.Quả thật, Ngài là Đấng Toàn tri, Đấng Toàn trí.
+##Nawruz*(Thánh Lễ Naw-ruz, 21-3, là ngày đầu năm Baha'i và là ngày vui mừng)Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca tụng vì Ngài đã ấn định Naw-ruz là ngày Lễ mừng cho tất cả những ai đã giữ trai giới vì tình yêu Ngài và tự chế đối với tất cả những gì Ngài gớm ghét. Lạy Thượng Đế của con, xin cho Tình yêu Ngài và sức nóng tỏa ra do sự trai giới Ngài ấn định, khiến mọi người trở nên nhiệt thành trong Chánh Đạo Ngài, bận rộn trong việc ca tụng Ngài và tưởng nhớ Ngài.Lạy Thượng Đế của con, vì Ngài đã tô điểm họ với vật trang sức là sự trai giới do Ngài ấn định, xin Ngài cũng tô điểm họ với sự chấp nhận của Ngài do ân phước và ân huệ dồi dào của Ngài. Mọi hành động của loài người đều tùy nơi sự hài lòng của Ngài và chịu sự điều khiển bởi lệnh Ngài. Nếu Ngài coi một người không giữ trai giới như người có giữ, thì người đó phải được coi như kẻ đã giữ trai giới đời đời. Còn nếu Ngài coi một người giữ trai giới như đã phá giới, thì người đó phải được kể như kẻ đã làm Chiếc Áo Mặc khải của Ngài lấm bụi và bị dời xa khỏi những làn nước trong suốt của Giếng sự sống này.Ngài là Đấng đã khiến biểu hiệu này được nêu cao: “Ngài đáng ca ngợi trong các công trình của Ngài”; đã khiến linh kỳ này tung bay: “Tất cả vâng phục mệnh lệnh Ngài”. Lạy Thượng Đế của con, xin tỏ rõ cương vị của Ngài để họ được biết sự ưu tú của mọi vật đều tùy thuộc lệnh Ngài và lời Ngài, và đức hạnh của mọi hành động đều được định đoạt bởi uy phép Ngài và bởi sự vui thỏa của ý chí Ngài; xin Ngài giúp họ nhận biết rằng giềng mối mọi hành động của loài người đều ở trong nắm tay ưng chuẩn của Ngài và nơi mệnh lệnh Ngài. Xin khiến họ biết điều này, để cho không gì có thể khiến họ mù lòa trước Vẻ đẹp của Ngài, trong những ngày này khi Đấng Christ (Ki-tô) công bố: “Tất cả quyền ngự trị, thuộc về Ngài, hỡi Ngài là Đấng đã sinh ra Đấng Thánh thần (Jesus)”; những ngày mà Đấng Bạn hữu Ngài (Muhammad) đã tuyên dương: “Vinh quang thuộc về Ngài, hỡi Ngài là Đấng Kính yêu Nhất vì Ngài đã khải hiện Vẻ đẹp của Ngài và đã giáng bút cho những kẻ lựa chọn của Ngài điều khiến họ đạt tới ngôi mặc khải Tối Đại Danh của Ngài, Danh đã khiến mọi dân tộc phải khóc than, ngoại trừ những kẻ đã dứt bỏ hết mọi sự ngoài Ngài, và cùng hướng về Đấng là Đấng Mặc khải chính Ngài và là Đấng Biểu hiện các đặc tính của Ngài”.Lạy Thượng Đế của con, Đấng là Cành của Ngài và tất cả tín đồ của Ngài đã chấm dứt trai giới ngày hôm nay sau khi đã tuân giữ nó trong khuôn khổ Luật pháp của Ngài và trong nhiệt tình làm vui lòng Ngài. Xin ấn định cho Đấng ấy, cho họ, cho tất cả những ai bước vào cõi hiện diện của Ngài trong những ngày này tất cả những điều thiện mà Ngài đã hứa hẹn trong Thánh Kinh Ngài. Xin Ngài ban cho họ điều gì ích lợi cho họ trong đời này và đời sau.Quả thật, Ngài là Đấng Toàn tri, Đấng Toàn trí.
 
 -- Bahá'u'lláh
 
-bpn5030 «[Tiếng Việt](../vi/prayers/#bpn5030)» 
+bpn5030 
 
 ----
 
@@ -717,7 +718,7 @@ bpn5030 «[Tiếng Việt](../vi/prayers/#bpn5030)»
 
 -- Bahá'u'lláh
 
-bpn4974 «[Tiếng Việt](../vi/prayers/#bpn4974)» 
+bpn4974 
 
 ----
 
@@ -731,7 +732,7 @@ Lạy Thượng Đế! Chúng con yếu đuối, xin Ngài ban cho chúng con s�
 
 -- Abdu'l-Bahá
 
-bpn5031 «[Tiếng Việt](../vi/prayers/#bpn5031)» 
+bpn5031 
 
 ----
 
@@ -745,7 +746,7 @@ Chúng con cầu xin Thượng Đế độ lượng giúp cho những người l
 
 -- Bahá'u'lláh
 
-bpn5032 «[Tiếng Việt](../vi/prayers/#bpn5032)» 
+bpn5032 
 
 ----
 
@@ -759,7 +760,7 @@ Ngài thật là vĩ đại, lạy Ngài là Đấng Thượng Đế của con! 
 
 -- Bahá'u'lláh
 
-bpn5033 «[Tiếng Việt](../vi/prayers/#bpn5033)» 
+bpn5033 
 
 ----
 
@@ -769,7 +770,7 @@ Lạy Thượng Đế của con, Ngài thật đáng ca tụng! Ngài là Đấn
 
 -- Bahá'u'lláh
 
-bpn5034 «[Tiếng Việt](../vi/prayers/#bpn5034)» 
+bpn5034 
 
 ----
 
@@ -779,7 +780,7 @@ Lạy Thượng Đế của con, biết bao tâm hồn băng giá đã được 
 
 -- Bahá'u'lláh
 
-bpn5035 «[Tiếng Việt](../vi/prayers/#bpn5035)» 
+bpn5035 
 
 ----
 
@@ -789,7 +790,7 @@ Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của con
 
 -- Bahá'u'lláh
 
-bpn5036 «[Tiếng Việt](../vi/prayers/#bpn5036)» 
+bpn5036 
 
 ----
 
@@ -799,7 +800,7 @@ Thánh Danh Ngài thật đáng ca ngợi, lạy Ngài là Đấng Thượng Đ�
 
 -- Bahá'u'lláh
 
-bpn5037 «[Tiếng Việt](../vi/prayers/#bpn5037)» 
+bpn5037 
 
 ----
 
@@ -809,7 +810,7 @@ Danh Ngài thật đáng tán tụng, lạy Ngài, Đấng Thượng Đế của
 
 -- Bahá'u'lláh
 
-bpn5038 «[Tiếng Việt](../vi/prayers/#bpn5038)» 
+bpn5038 
 
 ----
 
@@ -819,7 +820,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Lạy Ngài là Vua của Vư�
 
 -- Abdu'l-Bahá
 
-bpn5039 «[Tiếng Việt](../vi/prayers/#bpn5039)» 
+bpn5039 
 
 ----
 
@@ -833,7 +834,7 @@ Lạy Thượng Đế của con, Ngài thật vinh quang! Ngài thấy đó, đ�
 
 -- Bahá'u'lláh
 
-bpn5040 «[Tiếng Việt](../vi/prayers/#bpn5040)» 
+bpn5040 
 
 ----
 
@@ -847,7 +848,7 @@ Bóng tối của đêm sầu thảm này rồi sẽ qua đi. Một lần nữa 
 
 -- Abdu'l-Bahá
 
-bpn5041 «[Tiếng Việt](../vi/prayers/#bpn5041)» 
+bpn5041 
 
 ----
 
@@ -861,7 +862,7 @@ bpn5041 «[Tiếng Việt](../vi/prayers/#bpn5041)»
 
 -- Bahá'u'lláh
 
-bpn5042 «[Tiếng Việt](../vi/prayers/#bpn5042)» 
+bpn5042 
 
 ----
 
@@ -875,7 +876,7 @@ Lạy Thượng Đế của con, lạy Đấng Tôn sư của con! Con là tôi 
 
 -- Bahá'u'lláh
 
-bpn10469 «[Tiếng Việt](../vi/prayers/#bpn10469)» 
+bpn10469 
 
 ----
 
@@ -889,7 +890,7 @@ Lạy Thượng Đế của con! Lạy Thượng Đế của con! Xin kết hợ
 
 -- Bahá'u'lláh
 
-bpn10468 «[Tiếng Việt](../vi/prayers/#bpn10468)» 
+bpn10468 
 
 ----
 
@@ -903,7 +904,7 @@ Sự chết đem đến cho mỗi tín đồ chiếc cốc sự sống thật s�
 
 -- Bahá'u'lláh
 
-bpn5046 «[Tiếng Việt](../vi/prayers/#bpn5046)» 
+bpn5046 
 
 ----
 
@@ -913,7 +914,7 @@ Lạy Thượng Đế của con, xin cho những người về với Ngài đư�
 
 -- Bahá'u'lláh
 
-bpn5047 «[Tiếng Việt](../vi/prayers/#bpn5047)» 
+bpn5047 
 
 ----
 
@@ -923,7 +924,7 @@ Hãy tụng: Lạy Thượng Đế của con, lạy Thượng Đế của con! N
 
 -- Bahá'u'lláh
 
-bpn5048 «[Tiếng Việt](../vi/prayers/#bpn5048)» 
+bpn5048 
 
 ----
 
@@ -933,7 +934,7 @@ Lạy Thượng Đế của con! Đây là tôi tớ Ngài, và là con của t�
 
 -- Bahá'u'lláh
 
-bpn5049 «[Tiếng Việt](../vi/prayers/#bpn5049)» 
+bpn5049 
 
 ----
 
@@ -943,7 +944,7 @@ Lạy Thượng Đế của con! Lạy Ngài là Đấng Xá tội! Đấng Ban 
 
 -- Abdu'l-Bahá
 
-bpn5050 «[Tiếng Việt](../vi/prayers/#bpn5050)» 
+bpn5050 
 
 ----
 
@@ -957,7 +958,7 @@ Lạy Thượng Đế! Xin Ngài khiến người thanh niên này trở nên tr
 
 -- Abdu'l-Bahá
 
-bpn5051 «[Tiếng Việt](../vi/prayers/#bpn5051)» 
+bpn5051 
 
 ----
 
@@ -971,7 +972,7 @@ Lạy Thượng Đế của con, vinh quang thuộc về Ngài; lạy Thượng 
 
 -- Bahá'u'lláh
 
-bpn5052 «[Tiếng Việt](../vi/prayers/#bpn5052)» 
+bpn5052 
 
 ----
 
@@ -981,7 +982,7 @@ Lạy Thượng Đế của con, bởi sức mạnh, uy lực và quyền tối 
 
 -- Bahá'u'lláh
 
-bpn5053 «[Tiếng Việt](../vi/prayers/#bpn5053)» 
+bpn5053 
 
 ----
 
@@ -991,7 +992,7 @@ Lạy Thượng Đế của con, Ngài thấy Ngôi Sao Mai thánh ngôn Ngài c
 
 -- Bahá'u'lláh
 
-bpn5054 «[Tiếng Việt](../vi/prayers/#bpn5054)» 
+bpn5054 
 
 ----
 
@@ -1001,17 +1002,17 @@ Thượng Đế chứng nhận rằng thần tính của Ngài là duy nhất v�
 
 -- Bahá'u'lláh
 
-bpn5055 «[Tiếng Việt](../vi/prayers/#bpn5055)» 
+bpn5055 
 
 ----
 
 
 <a id="bpn5056"></a> 
-Lạy Thượng Đế của con, là Đấng con tôn kính và thờ phượng! Con xin chứng nhận sự thống nhất và sự đơn nhất của Ngài; con nhận biết những ơn huệ Ngài, xưa cũng như nay. Ngài là Đấng Đại lượng! Những làn sóng tràn đầy ơn khoan thứ của Ngài tuôn đổ xuống kẻ nhỏ cũng như người lớn, và ánh huy hoàng thiên ân Ngài được rãi khắp cho kẻ phản nghịch cũng như người nhu mì.Lạy Đấng Thượng Đế khoan dung! Tinh túy bác ái nghiêng mình trước cửa Ngài, và tinh thần tình yêu, từ bản thể sâu xa nhất, đã hướng về quanh điện thờ Chánh Đạo Ngài; chúng con nhớ tới những ân phúc đã qua và chờ đón những ân huệ hiện tại của Ngài, cầu xin Ngài xót thương tất cả những gì là biểu hiện của thế giới sinh tồn, và đừng từ chối họ sự dồi dào của thiên ân Ngài, trong những Ngày của Ngài.Chúng con chỉ là những kẻ nghèo nàn và thiếu thốn, và quả thật, Ngài là Đấng Sở hữu và là Đấng Thầy mọi vật, Đấng Toàn năng.Đức Baha’u’llah¶7.Lạy Thượng Đế của chúng con! Bởi Đấng Vua các Danh, Đấng Sáng tạo cõi trời và cõi đất, bởi tiếng rì rào của lá trên Cây Sự Sống và bởi Thánh ngôn Ngài khiến chúng con được gần thực tại mọi vật, chúng con cầu xin Ngài để cho sự thống nhất trong tình yêu thương Thượng Đế được thiết lập nhanh chóng trên thế giới; xin Ngài dẫn dắt chúng con, không hề và không thể sai lầm, đến với những gì Ngài muốn chúng con hoàn tất, và xin cho chúng con luôn luôn vững mạnh và hoàn toàn sẵn sàng phục tùng tức khắc, nghiêm nhặt và trọn vẹn.Đức Baha’u’llah¶8.Cầu xin Thượng Đế khiến ánh sáng thống nhất bao trùm cả thế giới, và xin cho ấn tín “VƯƠNG QUỐC THUỘC VỀ THƯỢNG ĐẾ” được đóng trên trán mọi dân tộc.Đức Baha&#39;u&#39;llah
+Lạy Thượng Đế của con, là Đấng con tôn kính và thờ phượng! Con xin chứng nhận sự thống nhất và sự đơn nhất của Ngài; con nhận biết những ơn huệ Ngài, xưa cũng như nay. Ngài là Đấng Đại lượng! Những làn sóng tràn đầy ơn khoan thứ của Ngài tuôn đổ xuống kẻ nhỏ cũng như người lớn, và ánh huy hoàng thiên ân Ngài được rãi khắp cho kẻ phản nghịch cũng như người nhu mì.Lạy Đấng Thượng Đế khoan dung! Tinh túy bác ái nghiêng mình trước cửa Ngài, và tinh thần tình yêu, từ bản thể sâu xa nhất, đã hướng về quanh điện thờ Chánh Đạo Ngài; chúng con nhớ tới những ân phúc đã qua và chờ đón những ân huệ hiện tại của Ngài, cầu xin Ngài xót thương tất cả những gì là biểu hiện của thế giới sinh tồn, và đừng từ chối họ sự dồi dào của thiên ân Ngài, trong những Ngày của Ngài.Chúng con chỉ là những kẻ nghèo nàn và thiếu thốn, và quả thật, Ngài là Đấng Sở hữu và là Đấng Thầy mọi vật, Đấng Toàn năng.Đức Baha’u’llah¶7.Lạy Thượng Đế của chúng con! Bởi Đấng Vua các Danh, Đấng Sáng tạo cõi trời và cõi đất, bởi tiếng rì rào của lá trên Cây Sự Sống và bởi Thánh ngôn Ngài khiến chúng con được gần thực tại mọi vật, chúng con cầu xin Ngài để cho sự thống nhất trong tình yêu thương Thượng Đế được thiết lập nhanh chóng trên thế giới; xin Ngài dẫn dắt chúng con, không hề và không thể sai lầm, đến với những gì Ngài muốn chúng con hoàn tất, và xin cho chúng con luôn luôn vững mạnh và hoàn toàn sẵn sàng phục tùng tức khắc, nghiêm nhặt và trọn vẹn.Đức Baha’u’llah¶8.Cầu xin Thượng Đế khiến ánh sáng thống nhất bao trùm cả thế giới, và xin cho ấn tín “VƯƠNG QUỐC THUỘC VỀ THƯỢNG ĐẾ” được đóng trên trán mọi dân tộc.Đức Baha'u'llah
 
 -- Bahá'u'lláh
 
-bpn5056 «[Tiếng Việt](../vi/prayers/#bpn5056)» 
+bpn5056 
 
 ----
 
@@ -1025,7 +1026,7 @@ Lạy Ngài là Đấng đã ban sự thử thách làm liều thuốc linh nghi
 
 -- Bahá'u'lláh
 
-bpn5057 «[Tiếng Việt](../vi/prayers/#bpn5057)» 
+bpn5057 
 
 ----
 
@@ -1035,7 +1036,7 @@ Ngài vinh quang thay, lạy Ngài là Đấng Thượng Đế của con! Mọi 
 
 -- Bahá'u'lláh
 
-bpn5058 «[Tiếng Việt](../vi/prayers/#bpn5058)» 
+bpn5058 
 
 ----
 
@@ -1045,7 +1046,7 @@ Ngài thật vinh quang, lạy Ngài là Đấng Thượng Đế của con! Bở
 
 -- Bahá'u'lláh
 
-bpn5059 «[Tiếng Việt](../vi/prayers/#bpn5059)» 
+bpn5059 
 
 ----
 
@@ -1055,7 +1056,7 @@ Vinh quang thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của Con! N
 
 -- Bahá'u'lláh
 
-bpn5060 «[Tiếng Việt](../vi/prayers/#bpn5060)» 
+bpn5060 
 
 ----
 
@@ -1065,7 +1066,7 @@ Danh Ngài thật đáng ca ngợi, lạy Ngài là Đấng Thượng Đế củ
 
 -- Bahá'u'lláh
 
-bpn5061 «[Tiếng Việt](../vi/prayers/#bpn5061)» 
+bpn5061 
 
 ----
 
@@ -1075,7 +1076,7 @@ Vinh thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của thiên đàn
 
 -- Bahá'u'lláh
 
-bpn5062 «[Tiếng Việt](../vi/prayers/#bpn5062)» 
+bpn5062 
 
 ----
 
@@ -1085,7 +1086,7 @@ Danh Ngài đáng được ca ngợi, lạy Ngài là Đấng Thượng Đế c�
 
 -- Bahá'u'lláh
 
-bpn5063 «[Tiếng Việt](../vi/prayers/#bpn5063)» 
+bpn5063 
 
 ----
 
@@ -1095,7 +1096,7 @@ Vinh quang thuộc về Ngài, lạy Thượng Đế của Con! Làm sao ngườ
 
 -- Bahá'u'lláh
 
-bpn5064 «[Tiếng Việt](../vi/prayers/#bpn5064)» 
+bpn5064 
 
 ----
 
@@ -1105,7 +1106,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin đừng ở xa con bởi v
 
 -- Bahá'u'lláh
 
-bpn5065 «[Tiếng Việt](../vi/prayers/#bpn5065)» 
+bpn5065 
 
 ----
 
@@ -1115,7 +1116,7 @@ Sự ca tụng và vinh quang thuộc về Ngài, lạy Thượng Đế của co
 
 -- Bahá'u'lláh
 
-bpn5066 «[Tiếng Việt](../vi/prayers/#bpn5066)» 
+bpn5066 
 
 ----
 
@@ -1125,7 +1126,7 @@ Ngài thật đáng ca ngợi, lạy Ngài là Thượng Đế của con. Bởi 
 
 -- Bahá'u'lláh
 
-bpn5067 «[Tiếng Việt](../vi/prayers/#bpn5067)» 
+bpn5067 
 
 ----
 
@@ -1135,7 +1136,7 @@ Lạy Thượng Đế, Thượng Đế của con, bởi đức từ ái và lư�
 
 -- Bahá'u'lláh
 
-bpn5068 «[Tiếng Việt](../vi/prayers/#bpn5068)» 
+bpn5068 
 
 ----
 
@@ -1149,7 +1150,7 @@ Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của c
 
 -- Bahá'u'lláh
 
-bpn5069 «[Tiếng Việt](../vi/prayers/#bpn5069)» 
+bpn5069 
 
 ----
 
@@ -1163,7 +1164,7 @@ Lạy Thượng Đế của con, sự gần gũi Ngài là điều mong muốn c
 
 -- Bahá'u'lláh
 
-bpn5075 «[Tiếng Việt](../vi/prayers/#bpn5075)» 
+bpn5075 
 
 ----
 
@@ -1173,7 +1174,7 @@ Lạy Thượng Đế, Ngài là Đấng Phát sinh mọi Biểu hiện, là Ngu
 
 -- Bahá'u'lláh
 
-bpn5076 «[Tiếng Việt](../vi/prayers/#bpn5076)» 
+bpn5076 
 
 ----
 
@@ -1187,7 +1188,7 @@ Lạy Thượng Đế của con, Danh Ngài thật đáng ca ngợi! Bởi hươ
 
 -- Bahá'u'lláh
 
-bpn5077 «[Tiếng Việt](../vi/prayers/#bpn5077)» 
+bpn5077 
 
 ----
 
@@ -1197,7 +1198,7 @@ Lạy Ngài là Đấng Thượng Đế Khoan dung! Những kẻ tôi tớ này 
 
 -- Abdu'l-Bahá
 
-bpn5078 «[Tiếng Việt](../vi/prayers/#bpn5078)» 
+bpn5078 
 
 ----
 
@@ -1211,7 +1212,7 @@ Lạy Thượng Đế của con, vinh thay Danh Ngài!Nay Ngài đã cho phép c
 
 -- Bahá'u'lláh
 
-bpn5079 «[Tiếng Việt](../vi/prayers/#bpn5079)» 
+bpn5079 
 
 ----
 
@@ -1221,7 +1222,7 @@ Lạy Thượng Đế, lạy Thượng Đế của con!Đây là con chim bị g
 
 -- Abdu'l-Bahá
 
-bpn5080 «[Tiếng Việt](../vi/prayers/#bpn5080)» 
+bpn5080 
 
 ----
 
@@ -1235,7 +1236,7 @@ Lạy Thượng Đế của con, Ngài là Đấng mà các Danh đem lại sự
 
 -- Bahá'u'lláh
 
-bpn5074 «[Tiếng Việt](../vi/prayers/#bpn5074)» 
+bpn5074 
 
 ----
 
@@ -1245,7 +1246,7 @@ Lạy Thượng Đế của con, xin Ngài dắt dẫn con, che chở con, thắ
 
 -- Abdu'l-Bahá
 
-bpn5070 «[Tiếng Việt](../vi/prayers/#bpn5070)» 
+bpn5070 
 
 ----
 
@@ -1255,7 +1256,7 @@ Lạy Thượng Đế! Xin giáo dục các cháu bé này. Các cháu là cây 
 
 -- Abdu'l-Bahá
 
-bpn5071 «[Tiếng Việt](../vi/prayers/#bpn5071)» 
+bpn5071 
 
 ----
 
@@ -1265,7 +1266,7 @@ Lạy Thượng Đế! Xin nuôi dưỡng cháu hài nhi này trong lồng ngự
 
 -- Abdu'l-Bahá
 
-bpn5072 «[Tiếng Việt](../vi/prayers/#bpn5072)» 
+bpn5072 
 
 ----
 
@@ -1275,7 +1276,7 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 
 -- Abdu'l-Bahá
 
-bpn5073 «[Tiếng Việt](../vi/prayers/#bpn5073)» 
+bpn5073 
 
 ----
 
@@ -1289,7 +1290,7 @@ bpn5073 «[Tiếng Việt](../vi/prayers/#bpn5073)»
 
 -- Bahá'u'lláh
 
-bpn5043 «[Tiếng Việt](../vi/prayers/#bpn5043)» 
+bpn5043 
 
 ----
 
@@ -1299,7 +1300,7 @@ Ngài thật đáng ca ngợi, lạy Thượng Đế của Con! Con cảm tạ N
 
 -- Bahá'u'lláh
 
-bpn5044 «[Tiếng Việt](../vi/prayers/#bpn5044)» 
+bpn5044 
 
 ----
 
@@ -1309,7 +1310,7 @@ Lạy Ngài là Đấng Thượng Đế của con, Ngài thật là vinh quang! 
 
 -- Bahá'u'lláh
 
-bpn5045 «[Tiếng Việt](../vi/prayers/#bpn5045)» 
+bpn5045 
 
 ----
 
@@ -1319,11 +1320,11 @@ bpn5045 «[Tiếng Việt](../vi/prayers/#bpn5045)»
 ## Viếng Nơi Thánh
 
 <a id="bpn5081"></a> 
-##Viếng Nơi Thánh*(Bản Kinh này được đọc nơi Thánh Lăng của Đức BAHA&#39;U&#39;LLAH và Đức BAB. Thường cũng được đọc vào các Thánh Lễ hằng năm để tưởng niệm các Ngài).Lời tán tụng xuất phát từ Bản thể tối cao của Ngài và sự vinh quang chiếu tỏa từ vẻ Mỹ lệ rực rỡ của Ngài lại được dâng lên Ngài, hỡi Ngài là Đấng Biểu hiện Vĩ đại, Đấng Vua Vĩnh cửu, Đấng Thượng Đế của tất cả những ai ở dưới đất và ở trên các tầng trời!Do Ngài, con xin làm chứng rằng quyền ngự trị của Thượng Đế và vương quốc Ngài, sự uy nghi của Thượng Đế và sự vĩ đại của Ngài đã được mặc khải, rằng những Vầng Thái dương của sự Huy hoàng xưa đã ban rãi ánh sáng trong bầu trời chiếu mệnh bất di bất dịch của Ngài, và rằng Vẻ Mỹ lệ của Đấng Vô hình đã chiếu sáng nơi chân trời sáng tạo. Con xin làm chứng thêm rằng chỉ bởi một nét Bút của Ngài, mệnh lệnh “hãy thành” đã được thi hành, bí mật của Thượng Đế đã được tiết lộ, tất cả vạn vật được gọi vào cõi sinh tồn và tất cả các Mặc Khải đã được ban xuống.Con xin làm chứng rằng, bởi vẻ Mỹ lệ của Ngài, vẻ Mỹ lệ của Đấng Tôn thờ đã được phô bày, và rằng, bởi Thánh nhan Ngài, Thánh nhan của Đấng Khát khao đã rực sáng, và rằng, bởi một tiếng của Ngài, Ngài đã quyết định số phận tất cả các vật thọ tạo, nâng cao lên tột đỉnh vinh quang Ngài những ai trung thành với Ngài và ném những kẻ bất nghĩa vào những đáy sâu vực thẳm.Con xin làm chứng rằng ai nhận biết Ngài là đã nhận biết Thượng Đế, và ai đã đến trước sự hiện diện Ngài tức là đã đến trước sự hiện diện của Thượng Đế. Ơn phước cũng thật là lớn lao đối với người tin Ngài và tin nơi dấu hiệu Ngài, người biết khiêm tốn trước quyền tối thượng của Ngài và vinh dự được gặp Ngài, người đã đạt tới sự hài lòng của Ngài, người được chầu hầu quanh Ngài và đứng trước ngai Ngài. Khốn thay cho kẻ phạm tội đối với Ngài, kẻ đã chối bỏ Ngài và chối bỏ dấu hiệu Ngài, kẻ đã phủ nhận quyền tối thượng của Ngài và đứng lên chống đối Ngài, kẻ căng phồng kiêu ngạo trước Thánh điện Ngài, bài bác các chứng cớ Ngài, trốn tránh luật pháp Ngài và uy quyền Ngài và bị kể trong số những kẻ bất nghĩa mà danh tánh đã được ghi trong Thánh thư của Ngài bởi bàn tay Mệnh lệnh Ngài. Từ bên phải ngôi bác ái Ngài và bởi đức từ ái dịu hiền của Ngài, lạy Đấng Thượng Đế của con và Đấng Kính yêu của con, xin ban cho con những làn gió thánh đầy ân huệ của Ngài, để những làn gió ấy kéo con ra khỏi chính con và ra khỏi cuộc đời để đưa con đến ngưỡng cửa của sự gần gũi và sự hiện diện của Ngài. Ngài có quyền năng hành động theo ý Ngài. Quả thật, Ngài cao cả ở trên mọi vật.Lạy Ngài là Đấng Mỹ lệ! Nguyện xin sự nhắc nhở và sự chúc tụng Thượng Đế, vinh quang và sự huy hoàng của Thượng Đế đều thuộc về Ngài. Con làm chứng rằng mắt của tạo vật chưa bao giờ hướng về Đấng bị áp bức như Ngài. Ngài đã dìm tất cả các ngày của đời Ngài trong đại dương tại họa. Ở một thời gian thiên định này, Ngài phải mang nặng xiềng xích gông cùm; ở một lúc khác, Ngài lại bị đe dọa bởi đao kiếm kẻ thù nghịch. Trong khi đó, bất chấp mọi điều kể trên, Ngài đã kêu gọi mọi người tuân giữ những gì đã được truyền cho Ngài bởi Đấng chính là Đấng Toàn tri, Đấng Vô cùng Minh triết.Nguyện xin tinh thần con được hiến dâng làm vật hy sinh cho những khổ đau Ngài đã chịu đựng, và linh hồn con làm của chuộc cho những tai ương Ngài đã nếm trải. Bởi Ngài và bởi những người mặt đã ngời sáng bởi vẻ huy hoàng rực rỡ của Thánh nhan Ngài và những người vì tình yêu đối với Ngài đã tuân giữ mọi điều được truyền phán, con cầu xin Thượng Đế vén lên những bức màn đã ngăn cách Ngài với tạo vật Ngài, và xin ban cho con những ân huệ trong đời này và đời sau. Quả thật, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Đại Vinh quang, Đấng Tha thứ mãi mãi, Đấng Đại Từ bi.Lạy Ngài là Đấng Thượng Đế của con, xin ban phúc cho Cây Thiêng liêng, cho những lá, những cành, những nhánh, những thân, những chồi của Cây ấy, bao lâu còn tồn tại những tước hiệu ưu việt và những đặc tính cao cả nhất của Ngài. Xin che chở họ khỏi những việc ác của kẻ gây hấn và của những đạo binh cường bạo. Quả thật, Ngài là Đấng Toàn lực, Đấng Toàn năng. Lạy Ngài là Thượng Đế của con, xin Ngài cũng ban phước cho những tôi trai tớ gái Ngài là những người đã đến với Ngài. Quả thật, Ngài là Đấng Đại Bác ái mà ân phúc thật vô hạn.Không có Thượng Đế nào khác ngoài Ngài, Đấng luôn luôn tha thứ, Đấng Đại lượng.
+##Viếng Nơi Thánh*(Bản Kinh này được đọc nơi Thánh Lăng của Đức BAHA'U'LLAH và Đức BAB. Thường cũng được đọc vào các Thánh Lễ hằng năm để tưởng niệm các Ngài).Lời tán tụng xuất phát từ Bản thể tối cao của Ngài và sự vinh quang chiếu tỏa từ vẻ Mỹ lệ rực rỡ của Ngài lại được dâng lên Ngài, hỡi Ngài là Đấng Biểu hiện Vĩ đại, Đấng Vua Vĩnh cửu, Đấng Thượng Đế của tất cả những ai ở dưới đất và ở trên các tầng trời!Do Ngài, con xin làm chứng rằng quyền ngự trị của Thượng Đế và vương quốc Ngài, sự uy nghi của Thượng Đế và sự vĩ đại của Ngài đã được mặc khải, rằng những Vầng Thái dương của sự Huy hoàng xưa đã ban rãi ánh sáng trong bầu trời chiếu mệnh bất di bất dịch của Ngài, và rằng Vẻ Mỹ lệ của Đấng Vô hình đã chiếu sáng nơi chân trời sáng tạo. Con xin làm chứng thêm rằng chỉ bởi một nét Bút của Ngài, mệnh lệnh “hãy thành” đã được thi hành, bí mật của Thượng Đế đã được tiết lộ, tất cả vạn vật được gọi vào cõi sinh tồn và tất cả các Mặc Khải đã được ban xuống.Con xin làm chứng rằng, bởi vẻ Mỹ lệ của Ngài, vẻ Mỹ lệ của Đấng Tôn thờ đã được phô bày, và rằng, bởi Thánh nhan Ngài, Thánh nhan của Đấng Khát khao đã rực sáng, và rằng, bởi một tiếng của Ngài, Ngài đã quyết định số phận tất cả các vật thọ tạo, nâng cao lên tột đỉnh vinh quang Ngài những ai trung thành với Ngài và ném những kẻ bất nghĩa vào những đáy sâu vực thẳm.Con xin làm chứng rằng ai nhận biết Ngài là đã nhận biết Thượng Đế, và ai đã đến trước sự hiện diện Ngài tức là đã đến trước sự hiện diện của Thượng Đế. Ơn phước cũng thật là lớn lao đối với người tin Ngài và tin nơi dấu hiệu Ngài, người biết khiêm tốn trước quyền tối thượng của Ngài và vinh dự được gặp Ngài, người đã đạt tới sự hài lòng của Ngài, người được chầu hầu quanh Ngài và đứng trước ngai Ngài. Khốn thay cho kẻ phạm tội đối với Ngài, kẻ đã chối bỏ Ngài và chối bỏ dấu hiệu Ngài, kẻ đã phủ nhận quyền tối thượng của Ngài và đứng lên chống đối Ngài, kẻ căng phồng kiêu ngạo trước Thánh điện Ngài, bài bác các chứng cớ Ngài, trốn tránh luật pháp Ngài và uy quyền Ngài và bị kể trong số những kẻ bất nghĩa mà danh tánh đã được ghi trong Thánh thư của Ngài bởi bàn tay Mệnh lệnh Ngài. Từ bên phải ngôi bác ái Ngài và bởi đức từ ái dịu hiền của Ngài, lạy Đấng Thượng Đế của con và Đấng Kính yêu của con, xin ban cho con những làn gió thánh đầy ân huệ của Ngài, để những làn gió ấy kéo con ra khỏi chính con và ra khỏi cuộc đời để đưa con đến ngưỡng cửa của sự gần gũi và sự hiện diện của Ngài. Ngài có quyền năng hành động theo ý Ngài. Quả thật, Ngài cao cả ở trên mọi vật.Lạy Ngài là Đấng Mỹ lệ! Nguyện xin sự nhắc nhở và sự chúc tụng Thượng Đế, vinh quang và sự huy hoàng của Thượng Đế đều thuộc về Ngài. Con làm chứng rằng mắt của tạo vật chưa bao giờ hướng về Đấng bị áp bức như Ngài. Ngài đã dìm tất cả các ngày của đời Ngài trong đại dương tại họa. Ở một thời gian thiên định này, Ngài phải mang nặng xiềng xích gông cùm; ở một lúc khác, Ngài lại bị đe dọa bởi đao kiếm kẻ thù nghịch. Trong khi đó, bất chấp mọi điều kể trên, Ngài đã kêu gọi mọi người tuân giữ những gì đã được truyền cho Ngài bởi Đấng chính là Đấng Toàn tri, Đấng Vô cùng Minh triết.Nguyện xin tinh thần con được hiến dâng làm vật hy sinh cho những khổ đau Ngài đã chịu đựng, và linh hồn con làm của chuộc cho những tai ương Ngài đã nếm trải. Bởi Ngài và bởi những người mặt đã ngời sáng bởi vẻ huy hoàng rực rỡ của Thánh nhan Ngài và những người vì tình yêu đối với Ngài đã tuân giữ mọi điều được truyền phán, con cầu xin Thượng Đế vén lên những bức màn đã ngăn cách Ngài với tạo vật Ngài, và xin ban cho con những ân huệ trong đời này và đời sau. Quả thật, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Đại Vinh quang, Đấng Tha thứ mãi mãi, Đấng Đại Từ bi.Lạy Ngài là Đấng Thượng Đế của con, xin ban phúc cho Cây Thiêng liêng, cho những lá, những cành, những nhánh, những thân, những chồi của Cây ấy, bao lâu còn tồn tại những tước hiệu ưu việt và những đặc tính cao cả nhất của Ngài. Xin che chở họ khỏi những việc ác của kẻ gây hấn và của những đạo binh cường bạo. Quả thật, Ngài là Đấng Toàn lực, Đấng Toàn năng. Lạy Ngài là Thượng Đế của con, xin Ngài cũng ban phước cho những tôi trai tớ gái Ngài là những người đã đến với Ngài. Quả thật, Ngài là Đấng Đại Bác ái mà ân phúc thật vô hạn.Không có Thượng Đế nào khác ngoài Ngài, Đấng luôn luôn tha thứ, Đấng Đại lượng.
 
 -- Bahá'u'lláh
 
-bpn5081 «[Tiếng Việt](../vi/prayers/#bpn5081)» 
+bpn5081 
 
 ----
 
@@ -1337,7 +1338,7 @@ Lạy Thượng Đế, Thượng Đế của con! Xin soi sáng vầng trán nh�
 
 -- Abdu'l-Bahá
 
-bpn5006 «[Tiếng Việt](../vi/prayers/#bpn5006)» 
+bpn5006 
 
 ----
 
@@ -1351,7 +1352,7 @@ Lạy Thượng Đế của con! Xin cho vẻ Mỹ lệ Ngài làm thức ăn c�
 
 -- Bahá'u'lláh
 
-bpn5007 «[Tiếng Việt](../vi/prayers/#bpn5007)» 
+bpn5007 
 
 ----
 
@@ -1361,7 +1362,7 @@ Lạy Thượng Đế của con, xin tạo cho con trái tim trong sạch. Lạy
 
 -- Bahá'u'lláh
 
-bpn5008 «[Tiếng Việt](../vi/prayers/#bpn5008)» 
+bpn5008 
 
 ----
 
@@ -1371,7 +1372,7 @@ Tất cả những lời ca tụng xin dâng lên Ngài, lạy Ngài là Đấng
 
 -- Bahá'u'lláh
 
-bpn5009 «[Tiếng Việt](../vi/prayers/#bpn5009)» 
+bpn5009 
 
 ----
 
@@ -1381,7 +1382,7 @@ Lạy Thượng Đế của con, xin cho con được giải khát bằng nhữn
 
 -- Bahá'u'lláh
 
-bpn5010 «[Tiếng Việt](../vi/prayers/#bpn5010)» 
+bpn5010 
 
 ----
 
@@ -1391,7 +1392,7 @@ Vinh quang thuộc về Ngài, Đấng Thượng Đế của tất cả các th�
 
 -- Bahá'u'lláh
 
-bpn5011 «[Tiếng Việt](../vi/prayers/#bpn5011)» 
+bpn5011 
 
 ----
 
@@ -1401,7 +1402,7 @@ Hãy tụng: Lạy Thượng Đế, Thượng Đế của con! Xin trang sức �
 
 -- Bahá'u'lláh
 
-bpn4998 «[Tiếng Việt](../vi/prayers/#bpn4998)» 
+bpn4998 
 
 ----
 

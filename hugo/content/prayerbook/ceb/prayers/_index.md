@@ -5,6 +5,7 @@ tags = ['lang=ceb', 'prayerbook']
 
 
 
+
 [ANG TABLA NI AHMAD](#ANG+TABLA+NI+AHMAD)
 
 [Alang sa Bana](#Alang+sa+Bana)
@@ -73,7 +74,7 @@ tags = ['lang=ceb', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn13425 «[Cebuano](../ceb/prayers/#bpn13425)» 
+bpn13425 
 
 ----
 
@@ -87,7 +88,7 @@ O Diyos, akong Diyos! Kining Imong babayeng alagad nagtawag Kanimo, nagasalig Ka
 
 -- Abdu'l-Bahá
 
-bpn13537 «[Cebuano](../ceb/prayers/#bpn13537)» 
+bpn13537 
 
 ----
 
@@ -101,7 +102,7 @@ O Diyos, tudloi kining mga kabataan. Kining mga kabataan mga tanum sa Imong tana
 
 -- Abdu'l-Bahá
 
-bpn13538 «[Cebuano](../ceb/prayers/#bpn13538)» 
+bpn13538 
 
 ----
 
@@ -115,7 +116,7 @@ Nakita Mo O Ginoo, ang among mga mapangamuyoong kamot gibayaw padulong sa langit
 
 -- Bahá'u'lláh
 
-bpn13534 «[Cebuano](../ceb/prayers/#bpn13534)» 
+bpn13534 
 
 ----
 
@@ -125,7 +126,7 @@ Bulahan siyang mohinumdom sa iyang mga ginikanan samtang siya nakigsulti sa Diyo
 
 -- Báb
 
-bpn13533 «[Cebuano](../ceb/prayers/#bpn13533)» 
+bpn13533 
 
 ----
 
@@ -135,7 +136,7 @@ O Ginoo! Niining Labing Bantugang Kapanahunan modawat Ka sa pangamuyo sa mga ana
 
 -- Abdu'l-Bahá
 
-bpn13535 «[Cebuano](../ceb/prayers/#bpn13535)» 
+bpn13535 
 
 ----
 
@@ -149,7 +150,7 @@ Akong Ginoo! Akong Ginoo! Ako nagdalayeg Kanimo ug ako nagpasalamat Kanimo nga I
 
 -- Abdu'l-Bahá
 
-bpn13536 «[Cebuano](../ceb/prayers/#bpn13536)» 
+bpn13536 
 
 ----
 
@@ -163,7 +164,7 @@ Siya ang Moalim, ang Motagbaw, ang Motabang, ang Hingpit nga Mopasaylo, ang Laba
 
 -- Bahá'u'lláh
 
-bpn13541 «[Cebuano](../ceb/prayers/#bpn13541)» 
+bpn13541 
 
 ----
 
@@ -173,11 +174,11 @@ bpn13541 «[Cebuano](../ceb/prayers/#bpn13541)»
 ## Ang Tabla sa Balaang Marinero
 
 <a id="bpn13543"></a> 
-*&#34;Tun-i ang Tabla sa Balaang Marinero nga kamo mahibalo sa kamatuoran, ug hinumdumi nga ang Balaang Katahom bug-os nga mitagna sa umaabot nga mga panghitabo. Sila nga nakasabut gikinahanglang magbantay! &#34;                                                                                      &#39;Abdu&#39;l-Bahá         Siya ang Mahimayaon, ang Tugob nga Gihigugma!         O Balaang Marinero!         Tugoti nga ang dumalayong arka mopakita atubangan sa Langitnong Tigum,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ipalutaw kini diha sa karaang dagat, sa Iyang Ngalan, ang Labing Katingalahan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug tugoti nga ang espiritu sa mga manulonda mosulod, diha sa Ngalan sa Diyos, ang Labing Hataas. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa, palutawa siya, nga siya molayag diha sa lawod sa himaya,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Unta ang mga lumulupyo niini makaabut sa mga dapit sa kahaduol sa dumalayong gingharian. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila nga nakaabot sa sagrado nga baybayon, ang lapyahan sa mapula nga kadagatan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Dapita sila nga mogawas ug mokab-ut niining espirituhanon ug dili makita nga kahimtang. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ang usa ka kahimtang diin ang Ginoo diha sa Dilaab sa Iyang Katahum nagpakita ilalum sa walay kamatayon nga kahoy; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang mga timailhan sa Iyang Kawsa mihinlo sa ilang kaugalingon gikan sa kaugalingon ug sa tawhanong pagbati;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!        Ug palibot diha ang Himaya ni Moises nag-alirong uban sa mga dumalayong kasundalohan; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang Kamot sa Diyos migula gikan sa Iyang Halangdon nga sabakan;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang arka sa Kawsa nagpabilin nga wala maglihok bisan pa kun ngadto sa mga lumulupyo niini gipadayag ang tanan nga mga balaanong hiyas.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         O Marinero! Tudloi sila nga anaa sa sulod sa arka niadtong gitudlo namo kanimo luyo sa balaanong tabil. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Hinaut pa nga sila dili maglangan diha sa sagrado ug daw niyebe kaputi nga dapit,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Ug hinoon molupad sa mga pako sa espiritu ngadto sa espirituhanong kahimtang nga gibayaw sa Ginoo ibabaw sa tanang paghisgut diha sa mga ubos nga kalibutan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Molupad sa kawanangan ingon sa mga pinalangga nga langgam diha sa gingharian sa walay katapusan nga panagtigum; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Mahimo nga masayud sa mga misteryo nga natago sa Kadagatan sa kahayag.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila mitadlas sa mga ang-ang sa mga kalibutanon utlanan ug miabut diha sa balaan nga panaghiusa, ang sentro sa langitnong pag-agak.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila nagtinguha nga mosaka ngadto niana nga kahimtang nga gimando sa Ginoo nga ibabaw sa ilang mga kahimtang.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Tungod niini ang nagdilaab nga bulalakaw mipapahawa kanila gikan sa mga nagpabilin diha sa Gingharian sa Iyang Pag-atubang,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug nadungog nila ang Tingog sa Kahalangdon nga gipalanug gikan sa luyo sa dili makita nga puloy-anan sa ibabaw sa Hataas nga Himaya:Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Oh mga anghel nga magbalantay! Ibalik sila ngadto sa ilang puloy-anan sa kalibutan sa ubos, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Tungod nga sila mituyo pagsaka ngadto sa dapit diin ang mga pako sa langitnon nga salampati wala makaabut;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Tungod niini ang barko sa paghanduraw wala maglihok ug ang mga hunahuna nilang mga nakasabut dili gayud makatugkad.”Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Tungod niini ang alagad nga babaye sa langit mitan-aw gikan sa iyang halangdon nga  lawak, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug ginamit ang iyang agtang mimando sa Langitnon nga Katiguman,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Gidan-agan sa kahayag sa iyang dagway ang langit ug yuta,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug sa dihang ang kasilak sa iyang katahum misidlak ibabaw sa katawhan sa abug, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ang tanan nga mga binuhat nauyog diha sa ilang adunay kinutuban nga mga lubnganan.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya dayon mipalanug sa tawag nga wala pay dalunggan sa masukad ug hangtud sa kahangturan ang nakadungog, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug sa ingon nagpahibalo: &#34;Sa ngalan sa Ginoo! Siya kang kansang kasingkasing wala ang kahumot sa gugma sa halangdon ug mahimayaon nga Batan-on sa Arabia,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Dili gayud makahimo pagsaka sa himaya sa labing hataas nga langit.&#34;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa iyang gitawag ngadto sa iyang kaugalingon ang usa ka alagad nga babaye gikan iyang mga alagad nga babaye,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug misugo kaniya: &#34;Kanaug diha sa kawanangan gikan sa mga mansiyon sa pagkawalay katapusan, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Ug ipakita kadtong ilang gitagoan sa kinahidalman sa ilang mga kasingkasing.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Kun ikaw makahanggap sa alimyon sa kupo gikan sa Batan-on nga natago sulod sa tolda sa kahayag tungod sa mga nabuhat sa mga kamot sa mga tampalasan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Ipalanug diha sa imong kaugalingon, nga ang tanang mga lumolupyo sa mga lawak sa Paraiso, nga mao ang mga timailhan sa dumalayong bahandi, makasabut ug mopatalinghug;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Aron silang tanan mokanaug gikan sa ilang dumalayong mga lawak, ug mangurog,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Ug mohalok sa ilang mga kamot ug tiil tungod sa ilang paglupad sa kinahitas-an sa pagkamatinud-anon;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Tingali sila makakaplag sa ilang mga bisti sa alimyon sa Usa nga Hinigugma.&#34;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Busa ang nawong sa gikahimut-ang alagad nga babaye mipahiyom ibabaw sa mga langitnong lawak susama sa kahayag nga misanag gikan sa nawong sa Batan-on ibabaw sa Iyang lawas;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya mikunsad inubanan ang usa ka pagdayandayan nga nalamdagan ang mga langit ug tanan nga anaa diha. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya milihok ug iyang gipahomutan ang tanang butang diha sa mga dapit sa kabalaan ug kahalangdon.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Pag-abot niya sa dapit siya mibarug sa kinatibuk-an diha sa kinataliwad-ang dapit sa paglalang, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Ug nangita aron mohanggap sa ilang kahumot sa usa ka panahon nga wala makahibalo ug sinugdanan o katapusan.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya wala nakakaplag diha kanila niadtong iyang gitinguha, ug kini, sa pagkatinuod, usa usa lamang sa Iyang mga talagsaon nga sugilanon.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya dayon misinggit ug kusog, nagbakho ug mibalik ngadto sa iyang kaugalingong dapit diha sa labing halangdon nga mansiyon,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug unya militok sa usa ka misteryosong pulong, nga gihunghung ug tago gikan sa iyang matam-is nga dila, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug mipalanug sa tawag taliwala sa Langitnong Katiguman ug sa walay-kamatayong mga alagad nga babaye sa langit: Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Sa ngalan sa Ginoo! Wala ko hikaplagi gikan niini nga mga walay-kapuslanan nga mga mag-aangkon and hoyohoy sa Pagkamatinuoron!Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         &#34;Sa ngalan sa Ginoo! Ang Batan-on nagpabilin nga nag-inusara ug magul-anon sa yuta sa paghingilin diha sa mga kamot sa mga walay Diyos.&#34;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Siya dayon misinggit diha sa iyang kaugalingon nga ang Langitnong Katiguman misinggit ug nangurog,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug siya natumba sa abug, ug namatay. Daw siya gitawag ug namati Kaniya nga nagtawag kaniya ngadto sa Gingharian sa Kahitas-an. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Himayaon Siya nga naglalang kaniya gikan sa uyok sa gugma diha sa kinahiladmang kasingkasing sa Iyang halangdong paraiso!Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa ang mga alagad nga babaye sa langit nagdali gikan sa ilang mga lawak, kansang mga dagway wala pay mata sa lumolupyo sa paraiso ang nakakita. Himayaon ta ang atong Ginoo, ang Labing Halangdon!         Sila tanan naglibut kaniya, ug, tan-awa! ilang nakita ang iyang lawas nga naglubug diha sa abug; Himayaon ta ang atong Ginoo, ang Labing Halangdon!         Ug samtang sila nagtan-aw sa iyang kahimtang ug nakasabut sa usa ka pulong sa sugilanon nga gisulti sa Batan-on, sila mipakita sa ilang mga ulo, migisi sa ilang mga saput, gihapak ang ilang mga mga nawong, gikalimtan ang ilang kalipay, mihilak ug gisagpa ang ilang mga aping, ug kini sa pagkatinuod usa sa mga misteryosong mabug-at nga mga pag-antos —Himayaon ta ang atong Ginoo, ang Labing Halangdon!
+*"Tun-i ang Tabla sa Balaang Marinero nga kamo mahibalo sa kamatuoran, ug hinumdumi nga ang Balaang Katahom bug-os nga mitagna sa umaabot nga mga panghitabo. Sila nga nakasabut gikinahanglang magbantay! "                                                                                      'Abdu'l-Bahá         Siya ang Mahimayaon, ang Tugob nga Gihigugma!         O Balaang Marinero!         Tugoti nga ang dumalayong arka mopakita atubangan sa Langitnong Tigum,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ipalutaw kini diha sa karaang dagat, sa Iyang Ngalan, ang Labing Katingalahan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug tugoti nga ang espiritu sa mga manulonda mosulod, diha sa Ngalan sa Diyos, ang Labing Hataas. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa, palutawa siya, nga siya molayag diha sa lawod sa himaya,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Unta ang mga lumulupyo niini makaabut sa mga dapit sa kahaduol sa dumalayong gingharian. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila nga nakaabot sa sagrado nga baybayon, ang lapyahan sa mapula nga kadagatan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Dapita sila nga mogawas ug mokab-ut niining espirituhanon ug dili makita nga kahimtang. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ang usa ka kahimtang diin ang Ginoo diha sa Dilaab sa Iyang Katahum nagpakita ilalum sa walay kamatayon nga kahoy; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang mga timailhan sa Iyang Kawsa mihinlo sa ilang kaugalingon gikan sa kaugalingon ug sa tawhanong pagbati;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!        Ug palibot diha ang Himaya ni Moises nag-alirong uban sa mga dumalayong kasundalohan; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang Kamot sa Diyos migula gikan sa Iyang Halangdon nga sabakan;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Diin ang arka sa Kawsa nagpabilin nga wala maglihok bisan pa kun ngadto sa mga lumulupyo niini gipadayag ang tanan nga mga balaanong hiyas.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         O Marinero! Tudloi sila nga anaa sa sulod sa arka niadtong gitudlo namo kanimo luyo sa balaanong tabil. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Hinaut pa nga sila dili maglangan diha sa sagrado ug daw niyebe kaputi nga dapit,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Ug hinoon molupad sa mga pako sa espiritu ngadto sa espirituhanong kahimtang nga gibayaw sa Ginoo ibabaw sa tanang paghisgut diha sa mga ubos nga kalibutan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Molupad sa kawanangan ingon sa mga pinalangga nga langgam diha sa gingharian sa walay katapusan nga panagtigum; Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Mahimo nga masayud sa mga misteryo nga natago sa Kadagatan sa kahayag.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila mitadlas sa mga ang-ang sa mga kalibutanon utlanan ug miabut diha sa balaan nga panaghiusa, ang sentro sa langitnong pag-agak.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Sila nagtinguha nga mosaka ngadto niana nga kahimtang nga gimando sa Ginoo nga ibabaw sa ilang mga kahimtang.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Tungod niini ang nagdilaab nga bulalakaw mipapahawa kanila gikan sa mga nagpabilin diha sa Gingharian sa Iyang Pag-atubang,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug nadungog nila ang Tingog sa Kahalangdon nga gipalanug gikan sa luyo sa dili makita nga puloy-anan sa ibabaw sa Hataas nga Himaya:Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Oh mga anghel nga magbalantay! Ibalik sila ngadto sa ilang puloy-anan sa kalibutan sa ubos, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Tungod nga sila mituyo pagsaka ngadto sa dapit diin ang mga pako sa langitnon nga salampati wala makaabut;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Tungod niini ang barko sa paghanduraw wala maglihok ug ang mga hunahuna nilang mga nakasabut dili gayud makatugkad.”Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Tungod niini ang alagad nga babaye sa langit mitan-aw gikan sa iyang halangdon nga  lawak, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug ginamit ang iyang agtang mimando sa Langitnon nga Katiguman,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Gidan-agan sa kahayag sa iyang dagway ang langit ug yuta,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug sa dihang ang kasilak sa iyang katahum misidlak ibabaw sa katawhan sa abug, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ang tanan nga mga binuhat nauyog diha sa ilang adunay kinutuban nga mga lubnganan.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya dayon mipalanug sa tawag nga wala pay dalunggan sa masukad ug hangtud sa kahangturan ang nakadungog, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug sa ingon nagpahibalo: "Sa ngalan sa Ginoo! Siya kang kansang kasingkasing wala ang kahumot sa gugma sa halangdon ug mahimayaon nga Batan-on sa Arabia,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Dili gayud makahimo pagsaka sa himaya sa labing hataas nga langit."Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa iyang gitawag ngadto sa iyang kaugalingon ang usa ka alagad nga babaye gikan iyang mga alagad nga babaye,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug misugo kaniya: "Kanaug diha sa kawanangan gikan sa mga mansiyon sa pagkawalay katapusan, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Ug ipakita kadtong ilang gitagoan sa kinahidalman sa ilang mga kasingkasing.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Kun ikaw makahanggap sa alimyon sa kupo gikan sa Batan-on nga natago sulod sa tolda sa kahayag tungod sa mga nabuhat sa mga kamot sa mga tampalasan,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Ipalanug diha sa imong kaugalingon, nga ang tanang mga lumolupyo sa mga lawak sa Paraiso, nga mao ang mga timailhan sa dumalayong bahandi, makasabut ug mopatalinghug;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Aron silang tanan mokanaug gikan sa ilang dumalayong mga lawak, ug mangurog,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Ug mohalok sa ilang mga kamot ug tiil tungod sa ilang paglupad sa kinahitas-an sa pagkamatinud-anon;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Tingali sila makakaplag sa ilang mga bisti sa alimyon sa Usa nga Hinigugma."Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Busa ang nawong sa gikahimut-ang alagad nga babaye mipahiyom ibabaw sa mga langitnong lawak susama sa kahayag nga misanag gikan sa nawong sa Batan-on ibabaw sa Iyang lawas;Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya mikunsad inubanan ang usa ka pagdayandayan nga nalamdagan ang mga langit ug tanan nga anaa diha. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya milihok ug iyang gipahomutan ang tanang butang diha sa mga dapit sa kabalaan ug kahalangdon.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Pag-abot niya sa dapit siya mibarug sa kinatibuk-an diha sa kinataliwad-ang dapit sa paglalang, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Ug nangita aron mohanggap sa ilang kahumot sa usa ka panahon nga wala makahibalo ug sinugdanan o katapusan.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya wala nakakaplag diha kanila niadtong iyang gitinguha, ug kini, sa pagkatinuod, usa usa lamang sa Iyang mga talagsaon nga sugilanon.Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Siya dayon misinggit ug kusog, nagbakho ug mibalik ngadto sa iyang kaugalingong dapit diha sa labing halangdon nga mansiyon,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug unya militok sa usa ka misteryosong pulong, nga gihunghung ug tago gikan sa iyang matam-is nga dila, Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug mipalanug sa tawag taliwala sa Langitnong Katiguman ug sa walay-kamatayong mga alagad nga babaye sa langit: Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Sa ngalan sa Ginoo! Wala ko hikaplagi gikan niini nga mga walay-kapuslanan nga mga mag-aangkon and hoyohoy sa Pagkamatinuoron!Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         "Sa ngalan sa Ginoo! Ang Batan-on nagpabilin nga nag-inusara ug magul-anon sa yuta sa paghingilin diha sa mga kamot sa mga walay Diyos."Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!          Siya dayon misinggit diha sa iyang kaugalingon nga ang Langitnong Katiguman misinggit ug nangurog,Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Ug siya natumba sa abug, ug namatay. Daw siya gitawag ug namati Kaniya nga nagtawag kaniya ngadto sa Gingharian sa Kahitas-an. Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Himayaon Siya nga naglalang kaniya gikan sa uyok sa gugma diha sa kinahiladmang kasingkasing sa Iyang halangdong paraiso!Himayaon ko ang akong Ginoo, ang Labing Mahimayaon!         Busa ang mga alagad nga babaye sa langit nagdali gikan sa ilang mga lawak, kansang mga dagway wala pay mata sa lumolupyo sa paraiso ang nakakita. Himayaon ta ang atong Ginoo, ang Labing Halangdon!         Sila tanan naglibut kaniya, ug, tan-awa! ilang nakita ang iyang lawas nga naglubug diha sa abug; Himayaon ta ang atong Ginoo, ang Labing Halangdon!         Ug samtang sila nagtan-aw sa iyang kahimtang ug nakasabut sa usa ka pulong sa sugilanon nga gisulti sa Batan-on, sila mipakita sa ilang mga ulo, migisi sa ilang mga saput, gihapak ang ilang mga mga nawong, gikalimtan ang ilang kalipay, mihilak ug gisagpa ang ilang mga aping, ug kini sa pagkatinuod usa sa mga misteryosong mabug-at nga mga pag-antos —Himayaon ta ang atong Ginoo, ang Labing Halangdon!
 
 -- Bahá'u'lláh
 
-bpn13543 «[Cebuano](../ceb/prayers/#bpn13543)» 
+bpn13543 
 
 ----
 
@@ -191,7 +192,7 @@ Sa Ngalan sa Diyos, ang Labing Karaan, ang Labing Dungganan.          Sa pagkama
 
 -- Bahá'u'lláh
 
-bpn13542 «[Cebuano](../ceb/prayers/#bpn13542)» 
+bpn13542 
 
 ----
 
@@ -205,7 +206,7 @@ O Ginoo ko! Himoa ang Imong katahum nga maakong pagkaon, ug ang Imong pag-atuban
 
 -- Bahá'u'lláh
 
-bpn13530 «[Cebuano](../ceb/prayers/#bpn13530)» 
+bpn13530 
 
 ----
 
@@ -219,7 +220,7 @@ Ang mga hiyas ug kinaiyahan kalabot sa Diyos dayag ug tataw, ug sila gihisgotan 
 
 -- Bahá'u'lláh
 
-bpn13428 «[Cebuano](../ceb/prayers/#bpn13428)» 
+bpn13428 
 
 ----
 
@@ -229,7 +230,7 @@ Ikaw mao Siya nga mopuli pinaagi sa Iyang kabubut-on sa kaulawanan ngadto sa him
 
 -- Bahá'u'lláh
 
-bpn13429 «[Cebuano](../ceb/prayers/#bpn13429)» 
+bpn13429 
 
 ----
 
@@ -239,7 +240,7 @@ Dili kini mga adlaw sa kauswagan ug kadaogan. Ang tanang katawhan nalikosan sa m
 
 -- Bahá'u'lláh
 
-bpn13430 «[Cebuano](../ceb/prayers/#bpn13430)» 
+bpn13430 
 
 ----
 
@@ -249,7 +250,7 @@ O kamong mga minahal nga higala! Ang kalibotan anaa sa  kagubot ug ang katawhan 
 
 -- Abdu'l-Bahá
 
-bpn13431 «[Cebuano](../ceb/prayers/#bpn13431)» 
+bpn13431 
 
 ----
 
@@ -259,7 +260,7 @@ Alang kaninyo, O mga hinigugma sa Diyos, lig-ona ang inyong mga lakang diha sa I
 
 -- Abdu'l-Bahá
 
-bpn13432 «[Cebuano](../ceb/prayers/#bpn13432)» 
+bpn13432 
 
 ----
 
@@ -273,7 +274,7 @@ O Ikaw Kansang mga pagsulay maoy makaalim nga tambal nilang haduol kanimo, Kansa
 
 -- Bahá'u'lláh
 
-bpn13513 «[Cebuano](../ceb/prayers/#bpn13513)» 
+bpn13513 
 
 ----
 
@@ -283,7 +284,7 @@ Gipangamuyo ko Kanimo pinaagi sa Imong gahum, O Diyos ko! Wala untay kadaot nga 
 
 -- Báb
 
-bpn13514 «[Cebuano](../ceb/prayers/#bpn13514)» 
+bpn13514 
 
 ----
 
@@ -293,7 +294,7 @@ O Ginoo ko! Nahibaloan Mo nga ang katawhan nalikusan sa kasakit ug mga katalagma
 
 -- Abdu'l-Bahá
 
-bpn13515 «[Cebuano](../ceb/prayers/#bpn13515)» 
+bpn13515 
 
 ----
 
@@ -307,7 +308,7 @@ Sa Ngalan sa Diyos, ang Dalayegon, ang Labing Halangdon.          Ang tinubdan s
 
 -- Bahá'u'lláh
 
-bpn13544 «[Cebuano](../ceb/prayers/#bpn13544)» 
+bpn13544 
 
 ----
 
@@ -321,7 +322,7 @@ O Diyos, akong Diyos! Nangaliyupo ako kanimo pinaagi sa lawod sa Imong pag-alim,
 
 -- Bahá'u'lláh
 
-bpn13517 «[Cebuano](../ceb/prayers/#bpn13517)» 
+bpn13517 
 
 ----
 
@@ -331,7 +332,7 @@ Ang himaya maanaa kanimo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa 
 
 -- Bahá'u'lláh
 
-bpn13518 «[Cebuano](../ceb/prayers/#bpn13518)» 
+bpn13518 
 
 ----
 
@@ -341,7 +342,7 @@ Ang Imong Ngalan maoy makaalim Kanako, O Diyos ko, ug ang paghandum Kanimo maoy 
 
 -- Bahá'u'lláh
 
-bpn13519 «[Cebuano](../ceb/prayers/#bpn13519)» 
+bpn13519 
 
 ----
 
@@ -355,7 +356,7 @@ O Ikaw nga maluluy-ong Ginoo! Gilalang Mo ang tanang katawhan gikan sa samang ba
 
 -- Abdu'l-Bahá
 
-bpn13433 «[Cebuano](../ceb/prayers/#bpn13433)» 
+bpn13433 
 
 ----
 
@@ -369,7 +370,7 @@ Ang Diyos mopanghimatuod sa kausahan sa Iyang Pagka-Diyos ug sa pagkausa lamang 
 
 -- Bahá'u'lláh
 
-bpn13498 «[Cebuano](../ceb/prayers/#bpn13498)» 
+bpn13498 
 
 ----
 
@@ -379,7 +380,7 @@ Dalayegon ang Imong ngalan, O Diyos ko! Saksihan ko nga walay hunahuna alang Kan
 
 -- Bahá'u'lláh
 
-bpn13499 «[Cebuano](../ceb/prayers/#bpn13499)» 
+bpn13499 
 
 ----
 
@@ -389,7 +390,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Sa matag panahon nga ako mosugod paghisgot Ka
 
 -- Bahá'u'lláh
 
-bpn13500 «[Cebuano](../ceb/prayers/#bpn13500)» 
+bpn13500 
 
 ----
 
@@ -399,7 +400,7 @@ Akong Diyos, akong Gisimba, akong Hari, akong Tinguha! Unsang dila ang makalitok
 
 -- Bahá'u'lláh
 
-bpn13501 «[Cebuano](../ceb/prayers/#bpn13501)» 
+bpn13501 
 
 ----
 
@@ -409,7 +410,7 @@ Ang tanang pagdalayeg maanaa kanimo, O Diyos ko, nga Mao ang Tinubdan sa tanang 
 
 -- Bahá'u'lláh
 
-bpn13502 «[Cebuano](../ceb/prayers/#bpn13502)» 
+bpn13502 
 
 ----
 
@@ -423,7 +424,7 @@ Gipangamuyo Namo sa Diyos nga mabinationg mabuligan silang nahisalaag aron magma
 
 -- Bahá'u'lláh
 
-bpn13525 «[Cebuano](../ceb/prayers/#bpn13525)» 
+bpn13525 
 
 ----
 
@@ -437,7 +438,7 @@ Dalayegon  Ka, O Ginoo akong Diyos! Nangamuyo ako Kanimo pinaagi Kaniya nga Mao 
 
 -- Bahá'u'lláh
 
-bpn13503 «[Cebuano](../ceb/prayers/#bpn13503)» 
+bpn13503 
 
 ----
 
@@ -447,7 +448,7 @@ Ang himaya maanaa Kanimo, nga nakaaghat sa tanang balaang Linalang sa pagmatuod 
 
 -- Bahá'u'lláh
 
-bpn13504 «[Cebuano](../ceb/prayers/#bpn13504)» 
+bpn13504 
 
 ----
 
@@ -457,7 +458,7 @@ Dalayegon ang ngalan Mo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa I
 
 -- Bahá'u'lláh
 
-bpn13505 «[Cebuano](../ceb/prayers/#bpn13505)» 
+bpn13505 
 
 ----
 
@@ -467,7 +468,7 @@ Ang himaya maanaa Kanimo, O Ikawng Ginoo sa kalibutan ug Tinguha sa mga nasud. O
 
 -- Bahá'u'lláh
 
-bpn13506 «[Cebuano](../ceb/prayers/#bpn13506)» 
+bpn13506 
 
 ----
 
@@ -481,7 +482,7 @@ Unsaon ko paghikatulog, O Diyos, akong Diyos, kun ang mga mata nilang nangandoy 
 
 -- Bahá'u'lláh
 
-bpn13524 «[Cebuano](../ceb/prayers/#bpn13524)» 
+bpn13524 
 
 ----
 
@@ -495,7 +496,7 @@ Dalayegon ang ngalan Mo, O Diyos ko, nga Ikaw nagpadayag sa Adlaw nga maoy Hari 
 
 -- Bahá'u'lláh
 
-bpn13510 «[Cebuano](../ceb/prayers/#bpn13510)» 
+bpn13510 
 
 ----
 
@@ -505,7 +506,7 @@ O Diyos ko, akong Ginoo ug akong Agalon! Mibulag ako sa akong kabanayan ug nanga
 
 -- Báb
 
-bpn13511 «[Cebuano](../ceb/prayers/#bpn13511)» 
+bpn13511 
 
 ----
 
@@ -515,7 +516,7 @@ O Ginoo! Nganha Kanimo ako mangitag pasilongan, ug diha sa tanan Nimo nga timaan
 
 -- Báb
 
-bpn13512 «[Cebuano](../ceb/prayers/#bpn13512)» 
+bpn13512 
 
 ----
 
@@ -529,7 +530,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Nangaliyupo ako Kanimo, pinaagi sa Imong Ngal
 
 -- Bahá'u'lláh
 
-bpn13507 «[Cebuano](../ceb/prayers/#bpn13507)» 
+bpn13507 
 
 ----
 
@@ -539,7 +540,7 @@ O Ikawng dili ikatanding Diyos! O Ikawng Ginoo sa Gingharian! Kining mga kalag I
 
 -- Abdu'l-Bahá
 
-bpn13508 «[Cebuano](../ceb/prayers/#bpn13508)» 
+bpn13508 
 
 ----
 
@@ -553,7 +554,7 @@ O Ikaw Kansang nawong maoy tumong sa akong pagsimba, Kansang katahum maoy akong 
 
 -- Bahá'u'lláh
 
-bpn13516 «[Cebuano](../ceb/prayers/#bpn13516)» 
+bpn13516 
 
 ----
 
@@ -567,7 +568,7 @@ O Ikaw nga Ginoo sa mga Ginoo! Saksihan kong Ikaw ang Ginoo sa tanang kabinuhata
 
 -- Bahá'u'lláh
 
-bpn13532 «[Cebuano](../ceb/prayers/#bpn13532)» 
+bpn13532 
 
 ----
 
@@ -577,7 +578,7 @@ O Ikaw nga Maloloy-ong Ginoo! Ikaw nga mahatagon ug takus! Kami Imong mga alagad
 
 -- Abdu'l-Bahá
 
-bpn13522 «[Cebuano](../ceb/prayers/#bpn13522)» 
+bpn13522 
 
 ----
 
@@ -587,7 +588,7 @@ O Maloloy-ong Ginoo! Ikaw ang manggihatagon ug maloloy-on! Kami mga alagad sa Im
 
 -- Abdu'l-Bahá
 
-bpn13523 «[Cebuano](../ceb/prayers/#bpn13523)» 
+bpn13523 
 
 ----
 
@@ -601,7 +602,7 @@ Diha sa Iyang Ngalan, ang Halangdon, ang Labing Hataas, ang Labawng Bantugan. Da
 
 -- Bahá'u'lláh
 
-bpn13426 «[Cebuano](../ceb/prayers/#bpn13426)» 
+bpn13426 
 
 ----
 
@@ -611,7 +612,7 @@ Kon moabot ang makahahadlok nga katalagman sa kinaiyahan, hinumdomi ang gahom ug
 
 -- Bahá'u'lláh
 
-bpn13434 «[Cebuano](../ceb/prayers/#bpn13434)» 
+bpn13434 
 
 ----
 
@@ -621,7 +622,7 @@ Sa panahon nga moabot na ang kadaugan, ang matag usa moangkon nga siya tumotuo u
 
 -- Bahá'u'lláh
 
-bpn13435 «[Cebuano](../ceb/prayers/#bpn13435)» 
+bpn13435 
 
 ----
 
@@ -631,7 +632,7 @@ Isulti: Ang Diyos paigo alang kanako; Siya Mao ang nagkupot pinaagi sa Iyang kam
 
 -- Báb
 
-bpn13427 «[Cebuano](../ceb/prayers/#bpn13427)» 
+bpn13427 
 
 ----
 
@@ -641,7 +642,7 @@ Kon ang Katalagman MoabotKon ang katalagman moabot, pagmapailobon ug dili-matuga
 
 -- Abdu'l-Bahá
 
-bpn13436 «[Cebuano](../ceb/prayers/#bpn13436)» 
+bpn13436 
 
 ----
 
@@ -655,7 +656,7 @@ O Diyos ko! Kini ang Imong alagad ug ang anak sa Imong alagad nga mituo Kanimo u
 
 -- Bahá'u'lláh
 
-bpn13520 «[Cebuano](../ceb/prayers/#bpn13520)» 
+bpn13520 
 
 ----
 
@@ -665,7 +666,7 @@ O Diyos ko! O Ikaw nga tigpasaylo sa mga kasal-anan, ang maghahatag sa mga gasa,
 
 -- Abdu'l-Bahá
 
-bpn13521 «[Cebuano](../ceb/prayers/#bpn13521)» 
+bpn13521 
 
 ----
 
@@ -679,7 +680,7 @@ Isulti: Ang Diyos paigo alang kanako. Siya Mao ang nagkupot pinaagi sa Iyang kam
 
 -- Báb
 
-bpn13509 «[Cebuano](../ceb/prayers/#bpn13509)» 
+bpn13509 
 
 ----
 
@@ -693,7 +694,7 @@ Dalayegon Ka, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa Imong mga Pi
 
 -- Bahá'u'lláh
 
-bpn13528 «[Cebuano](../ceb/prayers/#bpn13528)» 
+bpn13528 
 
 ----
 
@@ -703,7 +704,7 @@ Nakita Mo ako, O Ginoo ko, nga ang akong nawong nagtan-aw sa langit sa Imong pag
 
 -- Bahá'u'lláh
 
-bpn13529 «[Cebuano](../ceb/prayers/#bpn13529)» 
+bpn13529 
 
 ----
 
@@ -713,7 +714,7 @@ O Diyos ko, O Ginoo ko, O akong Agalon! Gipangamuyo ko Kanimo ang pagpasaylo kan
 
 -- Báb
 
-bpn13526 «[Cebuano](../ceb/prayers/#bpn13526)» 
+bpn13526 
 
 ----
 
@@ -723,7 +724,7 @@ Dalayegon Ka, O Ginoo. Pasayloa kami sa among mga kasal-anan, malooy Ka kanamo u
 
 -- Báb
 
-bpn13527 «[Cebuano](../ceb/prayers/#bpn13527)» 
+bpn13527 
 
 ----
 
@@ -737,7 +738,7 @@ O Diyosnong Paghatag! Samtang ako nagpuasa sa mga kahinam sa lawas ug nagdumili 
 
 -- Abdu'l-Bahá
 
-bpn13539 «[Cebuano](../ceb/prayers/#bpn13539)» 
+bpn13539 
 
 ----
 
@@ -747,11 +748,11 @@ bpn13539 «[Cebuano](../ceb/prayers/#bpn13539)»
 ## Tabla sa Pagduaw
 
 <a id="bpn13540"></a> 
-*(Kini nga Tabla pagabasahon sa mga Balaang Dapit ni Bahá&#39;u&#39;lláh ug sa Báb. Kanunay usab kining basahon sa pagsaulog sa Ilang mga kasumaran)         Ang pagdalayeg nga mibanagbanag gikan sa Imong labawng halangdong Kaugalingon, ug ang himaya nga midan-ag gikan sa Imong labawng magilakong Katahum, mahianha Kanimo, O Ikaw nga Mao ang Pagpadayag sa Kahalangdon, ug ang Hari sa Kahangturan, ug ang Ginoo sa tanan nga anaa sa langit ug yuta! Saksihan ko nga pinaagi Kanimo ang labawng kamandoan sa Diyos ug ang Iyang gingharian, ug ang kahalangdon sa Diyos ug ang Iyang pagkadungganan gipadayag ug ang mga Bitoon sa Kabuntagon sa karaang kasilak nanagsabwag sa ilang sidlak diha sa langit sa Imong walay kausabang sugo, ug ang Katahum sa Dili Makita misubang ibabaw sa kapunawpunawan sa kabinuhatan. Saksihan ko, usab, nga sa usa ka lihok sa Imong Pluma ang Imong sugo nga “Magpadayag Ka” gipatuman, ug ang tagong Linilong sa Diyos nabutyag, ug ang tanang binuhat nahatagan na ug kinaiyahan, ug ang tanang Pagpadayag napakunsad na.          Saksihan ko, usab, nga pinaagi sa Imong katahum ang katahum sa Usang Gisimba nabuksan na sa tabil, ug pinaagi sa Imong nawong ang nawong sa Usang Gitinguha napadan-ag na, ug nga pinaagi sa usa ka pulong gikan Kanimo Ikaw naghukom sa tanang linalang, mitugot kanilang maunongon Kanimo nga mosaka ngadto sa kinatumyan sa himaya, ug sa mga walay pagtuo nga mahulog ngadto sa kinaubsang bung-aw.         Saksihan ko nga siya nga nakaila Kanimo nakaila sa Diyos, ug siya nga nakadangat sa Imong atubangan nakadangat sa atubangan sa Diyos. Busa, dakong kabulahan ang maanaa kaniyang mituo Kanimo, ug sa Imong mga ilhanan, ug nga nagpaubos sa iyang kaugalingon sa atubangan sa Imong kaharian, ug napasidunggan sa pag-atubang Kanimo, ug nakakab-ot sa kahimuot sa Imong pagbuot, ug nakalibot Kanimo, ug nakabarog atubangan sa Imong trono.  Pagkaalaot niyang mibatok Kanimo, ug midumili Kanimo, ug misalikway sa Imong mga timaan, ug misupak sa Imong labaw’ng kamando-an, ug mialsa batok Kanimo, ug nahimong mapagarbohon atubangan sa Imong nawong, ug mipanghimakak sa Imong mga kalig-unan, ug mibiya sa Imong lagda ug sa Imong gingharian, ug maihap uban kanilang mga mabudhion kansang mga ngalan gipatik na sa mga tudlo sa Imong pagmando diha sa Imong mga balaang Tabla.         Ihuyop, gilayon, ngari kanako, O akong Diyos ug akong Hinigugma, gikan sa toong kamot sa Imong kalooy ug Imong mahigugmaong kalolot, ang mga balaang ginhawa sa Imong mga panabang, aron makapadpad kini kanako palayo sa akong kaugalingon ug gikan niining kalibutan ngadto sa mga hawanan sa Imong pagkahaduol ug Imong atubangan. Gamhanan Ka nga mobuhat niadtong  makapahimuot Kanimo. Ikaw, sa pagkamatuod, sa kaniadto pa gamhanan ibabaw sa tanang butang.         Ang paghandum sa Diyos ug ang Iyang pagdalayeg, ug ang himaya sa Diyos ug Iyang kasilak, mahianha Kanimo, O Ikaw nga Mao ang Iyang Katahum! Saksihan ko nga ang mata sa kabinuhatan wala pa makasud-ong ug usang gibutangbutangan  ug kasal-anan sama Kanimo. Ikaw nagtidlum sa tanang adlaw sa Imong kinabuhi ilalom sa lawod sa mga katalagman. Sa usa ka higayon Ikaw gikadenahan ug gipusasan; sa laing higayon Ikaw gihulga sa espada sa Imong mga kaaway. Apan bisan pa niining tanan Ikaw nagmando sa tanang katawhan sa pagsunod sa mga sugo nga gihatag nganha Kanimo gikan Kaniya nga Mao ang Labing Nasayod, ang Labing-Maalam.         Hinaot unta nga ang akong espiritu mamahimong bugti sa mga kasaypanan nga Imong giantos, ug ang akong kalag mamahimong tubus sa mga kalisdanan nga Imong gisagubang. Nangamuyo ako sa Diyos, pinaagi Kanimo ug pinaagi kanila kansang mga dagway nalamdagan sa mga silaw sa kahayag sa Imong panagway, ug kinsa, tungod sa gugma alang Kanimo, nagatuman sa tanan nga gisugo ngadto kanila, sa pagkuha sa mga belo nga nanagtabil tali Kanimo ug sa Imong mga binuhat, ug sa pagsangkap kanako sa mga kaayohan niining kalibutan ug sa umaabot nga kalibutan. Ikaw,sa pagkamatuod, ang Labawng Makagagahum, ang Labing Dalayegon, ang Mahimaya-on sa Tanan, ang Tugob nga Mopasaylo,  ang Labing Maloloy-on.         Panalanginan Mo, O Ginoo akong Diyos, ang Balaang Kahoy nga Lote ug ang iyang kadahonan, ug iyang mga punoan, ug iyang kasangahan, ug iyang mga lindog, ug iyang mga salingsing, samtang ang Imong labing bililhong mga ngalan magpabilin ug ang Imong labing halangdong mga hiyas molungtad. Panalipdi kini, gilayon, gikan sa pagpanamastamas sa mga mag-aasdang ug sa kasundalohan sa pagpanlupig. Ikaw, sa pagkamatuod, ang Labawng Makagagahum ang Labing Kusgan. Panalanginan Mo usab, O Ginoo akong Diyos, ang Imong mga lalaki ug babayeng alagad nga nakadangat nganha Kanimo. Ikaw, sa pagkamatuod, mao ang Labawng Mahatagon, kansang pagtuga walay kinutuban. Wala nay laing Diyos gawas Kanimo, ang kanunayng Mapasayloon, ang Labing Manggihatagon.
+*(Kini nga Tabla pagabasahon sa mga Balaang Dapit ni Bahá'u'lláh ug sa Báb. Kanunay usab kining basahon sa pagsaulog sa Ilang mga kasumaran)         Ang pagdalayeg nga mibanagbanag gikan sa Imong labawng halangdong Kaugalingon, ug ang himaya nga midan-ag gikan sa Imong labawng magilakong Katahum, mahianha Kanimo, O Ikaw nga Mao ang Pagpadayag sa Kahalangdon, ug ang Hari sa Kahangturan, ug ang Ginoo sa tanan nga anaa sa langit ug yuta! Saksihan ko nga pinaagi Kanimo ang labawng kamandoan sa Diyos ug ang Iyang gingharian, ug ang kahalangdon sa Diyos ug ang Iyang pagkadungganan gipadayag ug ang mga Bitoon sa Kabuntagon sa karaang kasilak nanagsabwag sa ilang sidlak diha sa langit sa Imong walay kausabang sugo, ug ang Katahum sa Dili Makita misubang ibabaw sa kapunawpunawan sa kabinuhatan. Saksihan ko, usab, nga sa usa ka lihok sa Imong Pluma ang Imong sugo nga “Magpadayag Ka” gipatuman, ug ang tagong Linilong sa Diyos nabutyag, ug ang tanang binuhat nahatagan na ug kinaiyahan, ug ang tanang Pagpadayag napakunsad na.          Saksihan ko, usab, nga pinaagi sa Imong katahum ang katahum sa Usang Gisimba nabuksan na sa tabil, ug pinaagi sa Imong nawong ang nawong sa Usang Gitinguha napadan-ag na, ug nga pinaagi sa usa ka pulong gikan Kanimo Ikaw naghukom sa tanang linalang, mitugot kanilang maunongon Kanimo nga mosaka ngadto sa kinatumyan sa himaya, ug sa mga walay pagtuo nga mahulog ngadto sa kinaubsang bung-aw.         Saksihan ko nga siya nga nakaila Kanimo nakaila sa Diyos, ug siya nga nakadangat sa Imong atubangan nakadangat sa atubangan sa Diyos. Busa, dakong kabulahan ang maanaa kaniyang mituo Kanimo, ug sa Imong mga ilhanan, ug nga nagpaubos sa iyang kaugalingon sa atubangan sa Imong kaharian, ug napasidunggan sa pag-atubang Kanimo, ug nakakab-ot sa kahimuot sa Imong pagbuot, ug nakalibot Kanimo, ug nakabarog atubangan sa Imong trono.  Pagkaalaot niyang mibatok Kanimo, ug midumili Kanimo, ug misalikway sa Imong mga timaan, ug misupak sa Imong labaw’ng kamando-an, ug mialsa batok Kanimo, ug nahimong mapagarbohon atubangan sa Imong nawong, ug mipanghimakak sa Imong mga kalig-unan, ug mibiya sa Imong lagda ug sa Imong gingharian, ug maihap uban kanilang mga mabudhion kansang mga ngalan gipatik na sa mga tudlo sa Imong pagmando diha sa Imong mga balaang Tabla.         Ihuyop, gilayon, ngari kanako, O akong Diyos ug akong Hinigugma, gikan sa toong kamot sa Imong kalooy ug Imong mahigugmaong kalolot, ang mga balaang ginhawa sa Imong mga panabang, aron makapadpad kini kanako palayo sa akong kaugalingon ug gikan niining kalibutan ngadto sa mga hawanan sa Imong pagkahaduol ug Imong atubangan. Gamhanan Ka nga mobuhat niadtong  makapahimuot Kanimo. Ikaw, sa pagkamatuod, sa kaniadto pa gamhanan ibabaw sa tanang butang.         Ang paghandum sa Diyos ug ang Iyang pagdalayeg, ug ang himaya sa Diyos ug Iyang kasilak, mahianha Kanimo, O Ikaw nga Mao ang Iyang Katahum! Saksihan ko nga ang mata sa kabinuhatan wala pa makasud-ong ug usang gibutangbutangan  ug kasal-anan sama Kanimo. Ikaw nagtidlum sa tanang adlaw sa Imong kinabuhi ilalom sa lawod sa mga katalagman. Sa usa ka higayon Ikaw gikadenahan ug gipusasan; sa laing higayon Ikaw gihulga sa espada sa Imong mga kaaway. Apan bisan pa niining tanan Ikaw nagmando sa tanang katawhan sa pagsunod sa mga sugo nga gihatag nganha Kanimo gikan Kaniya nga Mao ang Labing Nasayod, ang Labing-Maalam.         Hinaot unta nga ang akong espiritu mamahimong bugti sa mga kasaypanan nga Imong giantos, ug ang akong kalag mamahimong tubus sa mga kalisdanan nga Imong gisagubang. Nangamuyo ako sa Diyos, pinaagi Kanimo ug pinaagi kanila kansang mga dagway nalamdagan sa mga silaw sa kahayag sa Imong panagway, ug kinsa, tungod sa gugma alang Kanimo, nagatuman sa tanan nga gisugo ngadto kanila, sa pagkuha sa mga belo nga nanagtabil tali Kanimo ug sa Imong mga binuhat, ug sa pagsangkap kanako sa mga kaayohan niining kalibutan ug sa umaabot nga kalibutan. Ikaw,sa pagkamatuod, ang Labawng Makagagahum, ang Labing Dalayegon, ang Mahimaya-on sa Tanan, ang Tugob nga Mopasaylo,  ang Labing Maloloy-on.         Panalanginan Mo, O Ginoo akong Diyos, ang Balaang Kahoy nga Lote ug ang iyang kadahonan, ug iyang mga punoan, ug iyang kasangahan, ug iyang mga lindog, ug iyang mga salingsing, samtang ang Imong labing bililhong mga ngalan magpabilin ug ang Imong labing halangdong mga hiyas molungtad. Panalipdi kini, gilayon, gikan sa pagpanamastamas sa mga mag-aasdang ug sa kasundalohan sa pagpanlupig. Ikaw, sa pagkamatuod, ang Labawng Makagagahum ang Labing Kusgan. Panalanginan Mo usab, O Ginoo akong Diyos, ang Imong mga lalaki ug babayeng alagad nga nakadangat nganha Kanimo. Ikaw, sa pagkamatuod, mao ang Labawng Mahatagon, kansang pagtuga walay kinutuban. Wala nay laing Diyos gawas Kanimo, ang kanunayng Mapasayloon, ang Labing Manggihatagon.
 
 -- Bahá'u'lláh
 
-bpn13540 «[Cebuano](../ceb/prayers/#bpn13540)» 
+bpn13540 
 
 ----
 
@@ -765,7 +766,7 @@ O Diyos! Sa pagkatinuod, kami nagkatigum dinhi ubos sa alimyon sa Imong gugma. M
 
 -- Abdu'l-Bahá
 
-bpn13531 «[Cebuano](../ceb/prayers/#bpn13531)» 
+bpn13531 
 
 ----
 

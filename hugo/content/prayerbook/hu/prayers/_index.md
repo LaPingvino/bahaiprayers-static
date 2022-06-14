@@ -5,6 +5,7 @@ tags = ['lang=hu', 'prayerbook']
 
 
 
+
 [A Ridván tábla](#A+Ridv%C3%A1n+t%C3%A1bla)
 
 [A férjért](#A+f%C3%A9rj%C3%A9rt)
@@ -105,7 +106,7 @@ tags = ['lang=hu', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2754 «[Magyar](../hu/prayers/#bpn2754)» 
+bpn2754 
 
 ----
 
@@ -119,7 +120,7 @@ bpn2754 «[Magyar](../hu/prayers/#bpn2754)»
 
 -- Abdu'l-Bahá
 
-bpn2618 «[Magyar](../hu/prayers/#bpn2618)» 
+bpn2618 
 
 ----
 
@@ -129,11 +130,11 @@ bpn2618 «[Magyar](../hu/prayers/#bpn2618)»
 ## A szent tengerész táblája
 
 <a id="bpn2641"></a> 
-„Tanulmányozzátok a Szent Tengerész Tábláját, hogy megismerhessétek az igazságot, és megfontolhassátok, hogy az Áldott Szépség teljes körűen megjövendölt jövőbeli eseményeket. Vigyázzanak, kik értők!”   —`Abdu’l-BaháŐ a Kegyes, a Hőn Szeretett!Ó, Szent Tengerész!Parancsold meg öröklét-bárkádnak, hogy járuljon a Mennyei Gyülekezet elé,Dicsőíttessék Uram, a Mindenek Felett Dicső!Ereszd vízre az örök tengeren, Nevében, a Legcsodálatosabbéban,Dicsőíttessék Uram, a Mindenek Felett Dicső!És engedd be az angyali lelkeket Isten, a Legmagasabb Nevében.Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd szedd fel a horgonyt, hogy hadd szelje a habokat a dicsőség óceánján,Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy az abban lakozók tán eljuthassanak a közelség menedékébe az örök birodalomban,Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd elérvén a szent partot, a karmazsin tengerek partját,Dicsőíttessék Uram, a Mindenek Felett Dicső!Parancsold meg nekik, hogy jöjjenek elő, és érjenek el ezen földöntúli láthatatlan állapotba,Dicsőíttessék Uram, a Mindenek Felett Dicső!Egy olyan állapotba, aholon megjelent az Úr, Szépségének Lángjában a halhatatlan fában;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon Ügyének testet öltései megtisztították magukat az önzéstől és szenvedélytől;Dicsőíttessék Uram, a Mindenek Felett Dicső!Mely körül kering Mózes Dicsősége az örök seregekkel;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon kivonatott Isten Keze Nagyságának kebeléből;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon az Ügy bárkája mozdulatlan pihen, nyilatkoztassanak ki lakóinak akár minden isteni jegyek.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ó, Tengerész! Tanítsd azoknak, kik a bárkán lakoznak azt, mit néked megtanítottunk a titokzatos fátyol mögött,Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy tán ne időzzenek a szent hófehér helyen,Dicsőíttessék Uram, a Mindenek Felett Dicső!De a lélek szárnyain azon állapotba emelkedhessenek, melyet az Úr az alant lévő világok megértése fölé helyezett,Dicsőíttessék Uram, a Mindenek Felett Dicső!Úgy hasíthassák a teret, mint a kedvelt madarak az örök újraegyesülés birodalmában;Dicsőíttessék Uram, a Mindenek Felett Dicső!És megismerhessék a Fény Tengereiben rejtező titkokat.Dicsőíttessék Uram, a Mindenek Felett Dicső!Túlléptek ők a világi korlátok fokozatain, és elérték az isteni egység, a mennyei vezérlet középpontjának lépcsőfokait.Dicsőíttessék Uram, a Mindenek Felett Dicső!És arra vágytak, hogy olyan állapotba emelkedhessenek, mit az Úr az ő állásuk fölött lévő állapotnak rendelt.Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána a lángoló meteor kivetette őket a Jelenléte Királyságában lakozók közül;Dicsőíttessék Uram, a Mindenek Felett Dicső!*És hallották a Nagyság Hangját felharsanni a Dicsőség Magaslatán álló láthatatlan sátor-hajlék mögül:Dicsőíttessék Uram, a Mindenek Felett Dicső!&#34;Ó, őrző angyalok! Vigyétek vissza őket az alsó világban lévő hajlékukba,Dicsőíttessék Uram, a Mindenek Felett Dicső!Minthogy azon körbe kívántak emelkedni, melyet a mennyei galamb szárnyai sem érhettek el soha;Dicsőíttessék Uram, a Mindenek Felett Dicső!Mi következtében a képzelgés hajója mozdulatlanul áll, s ezt az értők elméje nem érheti fel.&#34;Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána a mennyei hajadon kitekintett magasztos lakából,Dicsőíttessék Uram, a Mindenek Felett Dicső!És szemöldökével intett a Mennyei Gyülekezetnek,Dicsőíttessék Uram, a Mindenek Felett Dicső!Elárasztván orcájának fényével a mennyet és a földet,Dicsőíttessék Uram, a Mindenek Felett Dicső!És amint szépségének ragyogása rásütött a por népére,Dicsőíttessék Uram, a Mindenek Felett Dicső!Minden lény megremegett halandó sírjában.Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd olyan hívást hallatott, melyet fül az örökkévalóság óta sem hallott,Dicsőíttessék Uram, a Mindenek Felett Dicső!És emígyen szólt: “Az Úrra! Kinek szívében nem lakozik a magasztos és dicső Arab Ifjú szeretetének illata,Dicsőíttessék Uram, a Mindenek Felett Dicső!Sehogyan sem szárnyalhat fel a legmagasabb menny dicsőségébe.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezután magához rendelt egy hajadont szolgálóleányai közül,Dicsőíttessék Uram, a Mindenek Felett Dicső!És így parancsolt neki: “Szállj alá a térbe az öröklét hajlékaiból,Dicsőíttessék Uram, a Mindenek Felett Dicső!És keresd azt, mit elrejtettek szívük legmélyén.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ha belélegzed az Ifjú illatát at köpönyegből, mely a fény frigysátrában rejtezett amiatt, mit a gonoszak keze művelt,Dicsőíttessék Uram, a Mindenek Felett Dicső!Kiálts hangosan belsődben, hogy a Paradicsom termeinek minden lakója, kik az örök gazdagság megtestesülései, megérthessék és figyelmezzenek;Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy alászállhassanak örökkévaló termeikből és remegjenek,Dicsőíttessék Uram, a Mindenek Felett Dicső!És kezüket és lábukat csókolják, mert felszárnyaltak ők a hűség magaslataira;Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy tán köpönyegükből megtalálhassák a Szeretett illatát.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezután felragyogott a mennyei termek felett a kedvelt leány orcája, miként a fény, mely az Ifjú arcából árad halandó temploma fölött;Dicsőíttessék Uram, a Mindenek Felett Dicső!És alászállott olyan díszben, mely bevilágította a mennyeket és mindeneket, mik ott lakoznak.Dicsőíttessék Uram, a Mindenek Felett Dicső!Megrázta magát, és a szentség és nagyság földjén minden dolgot behintett illatárjával.Dicsőíttessék Uram, a Mindenek Felett Dicső!Mikoron elért azon helyre, teljes magasságában felegyenesedett a teremtés legbenső szívében,Dicsőíttessék Uram, a Mindenek Felett Dicső!És be kívánta lélegezni illatukat azon időben, mely nem ismer sem kezdetet, sem véget.Dicsőíttessék Uram, a Mindenek Felett Dicső!És nem találta meg bennük azt, mit keresett, és ez bizony csupán az Ő egyik csodálatos története.Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána hangosan felkiáltott, feljajdult, és felszárnyalt saját állapotába legmagasabb hajlékában,Dicsőíttessék Uram, a Mindenek Felett Dicső!És egyetlen rejtélyes szót ejtett ki, melyet titokban suttogott el mézízű nyelve,Dicsőíttessék Uram, a Mindenek Felett Dicső!*És így kiáltott a Mennyei Gyülekezet és a menny halhatatlan szolgálóleányai körében:Dicsőíttessék Uram, a Mindenek Felett Dicső!“Az Úrra! Nem találtam ezen meddő törtetőkben a Hűség szellőjét!Dicsőíttessék Uram, a Mindenek Felett Dicső!Az Úrra! Az Ifjú egyedül és elhagyatottan maradt a számkivetettség földjén az istentelenek kezében.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd olyan jajszót hallatott magában, hogy a Mennyei Gyülekezet felsikoltott és beleremegett,Dicsőíttessék Uram, a Mindenek Felett Dicső!És a porba hullott, és visszaadta lelkét. Úgy tűnik, hívást hallott, és figyelmezett is erre, mely Attól származott, Ki őt a Magasságbéli Birodalomba szólította.Dicsőíttessék Uram, a Mindenek Felett Dicső!Dicsőíttessék, Ki őt a szeretet leglényegéből megteremtette magasztos paradicsomának legbenső szívében.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezekután a mennyei szolgálóleányok elősiettek termeikből, kiknek arcát még a legmagasabb paradicsom lakói sem pillanthatták meg soha.Dicsőíttessék Urunk, a Legmagasabb!Köréje gyűltek, és íme, testét a porba hullva találták;Dicsőíttessék Urunk, a Legmagasabb!És amint látták állapotát és megértettek egyetlen szót abból a történetből, mit az Ifjú mesélt, fejüket felfedték, megszaggatták ruhájukat; arcukat csapkodták, elfeledték örömüket, könnyeket hullattak, és kezükkel orcájukat ütötték, és ez bizony az egyik titokzatos, szörnyű megpróbáltatás.Dicsőíttessék Urunk, a Legmagasabb!
+„Tanulmányozzátok a Szent Tengerész Tábláját, hogy megismerhessétek az igazságot, és megfontolhassátok, hogy az Áldott Szépség teljes körűen megjövendölt jövőbeli eseményeket. Vigyázzanak, kik értők!”   —`Abdu’l-BaháŐ a Kegyes, a Hőn Szeretett!Ó, Szent Tengerész!Parancsold meg öröklét-bárkádnak, hogy járuljon a Mennyei Gyülekezet elé,Dicsőíttessék Uram, a Mindenek Felett Dicső!Ereszd vízre az örök tengeren, Nevében, a Legcsodálatosabbéban,Dicsőíttessék Uram, a Mindenek Felett Dicső!És engedd be az angyali lelkeket Isten, a Legmagasabb Nevében.Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd szedd fel a horgonyt, hogy hadd szelje a habokat a dicsőség óceánján,Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy az abban lakozók tán eljuthassanak a közelség menedékébe az örök birodalomban,Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd elérvén a szent partot, a karmazsin tengerek partját,Dicsőíttessék Uram, a Mindenek Felett Dicső!Parancsold meg nekik, hogy jöjjenek elő, és érjenek el ezen földöntúli láthatatlan állapotba,Dicsőíttessék Uram, a Mindenek Felett Dicső!Egy olyan állapotba, aholon megjelent az Úr, Szépségének Lángjában a halhatatlan fában;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon Ügyének testet öltései megtisztították magukat az önzéstől és szenvedélytől;Dicsőíttessék Uram, a Mindenek Felett Dicső!Mely körül kering Mózes Dicsősége az örök seregekkel;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon kivonatott Isten Keze Nagyságának kebeléből;Dicsőíttessék Uram, a Mindenek Felett Dicső!Aholon az Ügy bárkája mozdulatlan pihen, nyilatkoztassanak ki lakóinak akár minden isteni jegyek.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ó, Tengerész! Tanítsd azoknak, kik a bárkán lakoznak azt, mit néked megtanítottunk a titokzatos fátyol mögött,Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy tán ne időzzenek a szent hófehér helyen,Dicsőíttessék Uram, a Mindenek Felett Dicső!De a lélek szárnyain azon állapotba emelkedhessenek, melyet az Úr az alant lévő világok megértése fölé helyezett,Dicsőíttessék Uram, a Mindenek Felett Dicső!Úgy hasíthassák a teret, mint a kedvelt madarak az örök újraegyesülés birodalmában;Dicsőíttessék Uram, a Mindenek Felett Dicső!És megismerhessék a Fény Tengereiben rejtező titkokat.Dicsőíttessék Uram, a Mindenek Felett Dicső!Túlléptek ők a világi korlátok fokozatain, és elérték az isteni egység, a mennyei vezérlet középpontjának lépcsőfokait.Dicsőíttessék Uram, a Mindenek Felett Dicső!És arra vágytak, hogy olyan állapotba emelkedhessenek, mit az Úr az ő állásuk fölött lévő állapotnak rendelt.Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána a lángoló meteor kivetette őket a Jelenléte Királyságában lakozók közül;Dicsőíttessék Uram, a Mindenek Felett Dicső!*És hallották a Nagyság Hangját felharsanni a Dicsőség Magaslatán álló láthatatlan sátor-hajlék mögül:Dicsőíttessék Uram, a Mindenek Felett Dicső!"Ó, őrző angyalok! Vigyétek vissza őket az alsó világban lévő hajlékukba,Dicsőíttessék Uram, a Mindenek Felett Dicső!Minthogy azon körbe kívántak emelkedni, melyet a mennyei galamb szárnyai sem érhettek el soha;Dicsőíttessék Uram, a Mindenek Felett Dicső!Mi következtében a képzelgés hajója mozdulatlanul áll, s ezt az értők elméje nem érheti fel."Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána a mennyei hajadon kitekintett magasztos lakából,Dicsőíttessék Uram, a Mindenek Felett Dicső!És szemöldökével intett a Mennyei Gyülekezetnek,Dicsőíttessék Uram, a Mindenek Felett Dicső!Elárasztván orcájának fényével a mennyet és a földet,Dicsőíttessék Uram, a Mindenek Felett Dicső!És amint szépségének ragyogása rásütött a por népére,Dicsőíttessék Uram, a Mindenek Felett Dicső!Minden lény megremegett halandó sírjában.Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd olyan hívást hallatott, melyet fül az örökkévalóság óta sem hallott,Dicsőíttessék Uram, a Mindenek Felett Dicső!És emígyen szólt: “Az Úrra! Kinek szívében nem lakozik a magasztos és dicső Arab Ifjú szeretetének illata,Dicsőíttessék Uram, a Mindenek Felett Dicső!Sehogyan sem szárnyalhat fel a legmagasabb menny dicsőségébe.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezután magához rendelt egy hajadont szolgálóleányai közül,Dicsőíttessék Uram, a Mindenek Felett Dicső!És így parancsolt neki: “Szállj alá a térbe az öröklét hajlékaiból,Dicsőíttessék Uram, a Mindenek Felett Dicső!És keresd azt, mit elrejtettek szívük legmélyén.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ha belélegzed az Ifjú illatát at köpönyegből, mely a fény frigysátrában rejtezett amiatt, mit a gonoszak keze művelt,Dicsőíttessék Uram, a Mindenek Felett Dicső!Kiálts hangosan belsődben, hogy a Paradicsom termeinek minden lakója, kik az örök gazdagság megtestesülései, megérthessék és figyelmezzenek;Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy alászállhassanak örökkévaló termeikből és remegjenek,Dicsőíttessék Uram, a Mindenek Felett Dicső!És kezüket és lábukat csókolják, mert felszárnyaltak ők a hűség magaslataira;Dicsőíttessék Uram, a Mindenek Felett Dicső!Hogy tán köpönyegükből megtalálhassák a Szeretett illatát.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezután felragyogott a mennyei termek felett a kedvelt leány orcája, miként a fény, mely az Ifjú arcából árad halandó temploma fölött;Dicsőíttessék Uram, a Mindenek Felett Dicső!És alászállott olyan díszben, mely bevilágította a mennyeket és mindeneket, mik ott lakoznak.Dicsőíttessék Uram, a Mindenek Felett Dicső!Megrázta magát, és a szentség és nagyság földjén minden dolgot behintett illatárjával.Dicsőíttessék Uram, a Mindenek Felett Dicső!Mikoron elért azon helyre, teljes magasságában felegyenesedett a teremtés legbenső szívében,Dicsőíttessék Uram, a Mindenek Felett Dicső!És be kívánta lélegezni illatukat azon időben, mely nem ismer sem kezdetet, sem véget.Dicsőíttessék Uram, a Mindenek Felett Dicső!És nem találta meg bennük azt, mit keresett, és ez bizony csupán az Ő egyik csodálatos története.Dicsőíttessék Uram, a Mindenek Felett Dicső!Minekutána hangosan felkiáltott, feljajdult, és felszárnyalt saját állapotába legmagasabb hajlékában,Dicsőíttessék Uram, a Mindenek Felett Dicső!És egyetlen rejtélyes szót ejtett ki, melyet titokban suttogott el mézízű nyelve,Dicsőíttessék Uram, a Mindenek Felett Dicső!*És így kiáltott a Mennyei Gyülekezet és a menny halhatatlan szolgálóleányai körében:Dicsőíttessék Uram, a Mindenek Felett Dicső!“Az Úrra! Nem találtam ezen meddő törtetőkben a Hűség szellőjét!Dicsőíttessék Uram, a Mindenek Felett Dicső!Az Úrra! Az Ifjú egyedül és elhagyatottan maradt a számkivetettség földjén az istentelenek kezében.”Dicsőíttessék Uram, a Mindenek Felett Dicső!Majd olyan jajszót hallatott magában, hogy a Mennyei Gyülekezet felsikoltott és beleremegett,Dicsőíttessék Uram, a Mindenek Felett Dicső!És a porba hullott, és visszaadta lelkét. Úgy tűnik, hívást hallott, és figyelmezett is erre, mely Attól származott, Ki őt a Magasságbéli Birodalomba szólította.Dicsőíttessék Uram, a Mindenek Felett Dicső!Dicsőíttessék, Ki őt a szeretet leglényegéből megteremtette magasztos paradicsomának legbenső szívében.Dicsőíttessék Uram, a Mindenek Felett Dicső!Ezekután a mennyei szolgálóleányok elősiettek termeikből, kiknek arcát még a legmagasabb paradicsom lakói sem pillanthatták meg soha.Dicsőíttessék Urunk, a Legmagasabb!Köréje gyűltek, és íme, testét a porba hullva találták;Dicsőíttessék Urunk, a Legmagasabb!És amint látták állapotát és megértettek egyetlen szót abból a történetből, mit az Ifjú mesélt, fejüket felfedték, megszaggatták ruhájukat; arcukat csapkodták, elfeledték örömüket, könnyeket hullattak, és kezükkel orcájukat ütötték, és ez bizony az egyik titokzatos, szörnyű megpróbáltatás.Dicsőíttessék Urunk, a Legmagasabb!
 
 -- Bahá'u'lláh
 
-bpn2641 «[Magyar](../hu/prayers/#bpn2641)» 
+bpn2641 
 
 ----
 
@@ -147,7 +148,7 @@ Látod, ó, Uram, könyörgő kezünk kegyed és nagylelkűséged mennyországa 
 
 -- Bahá'u'lláh
 
-bpn2615 «[Magyar](../hu/prayers/#bpn2615)» 
+bpn2615 
 
 ----
 
@@ -157,7 +158,7 @@ bpn2615 «[Magyar](../hu/prayers/#bpn2615)»
 
 -- Abdu'l-Bahá
 
-bpn2616 «[Magyar](../hu/prayers/#bpn2616)» 
+bpn2616 
 
 ----
 
@@ -171,7 +172,7 @@ Isten, a Legősibb, a Legnagyobb Nevében!Ím, az igazak szívét a Tőled való
 
 -- Bahá'u'lláh
 
-bpn2642 «[Magyar](../hu/prayers/#bpn2642)» 
+bpn2642 
 
 ----
 
@@ -185,7 +186,7 @@ Isten minden barátja ... adományozzon annyit, amennyit csak tud, bármilyen cs
 
 -- Abdu'l-Bahá
 
-bpn2610 «[Magyar](../hu/prayers/#bpn2610)» 
+bpn2610 
 
 ----
 
@@ -195,7 +196,7 @@ bpn2610 «[Magyar](../hu/prayers/#bpn2610)»
 
 -- Abdu'l-Bahá
 
-bpn2611 «[Magyar](../hu/prayers/#bpn2611)» 
+bpn2611 
 
 ----
 
@@ -209,7 +210,7 @@ Dicsőség Néked, ó, Uram, én Istenem! Ne alázd meg azt, kit felemeltél ör
 
 -- Bahá'u'lláh
 
-bpn2630 «[Magyar](../hu/prayers/#bpn2630)» 
+bpn2630 
 
 ----
 
@@ -219,7 +220,7 @@ bpn2630 «[Magyar](../hu/prayers/#bpn2630)»
 
 -- Abdu'l-Bahá
 
-bpn2631 «[Magyar](../hu/prayers/#bpn2631)» 
+bpn2631 
 
 ----
 
@@ -229,7 +230,7 @@ bpn2631 «[Magyar](../hu/prayers/#bpn2631)»
 
 -- Abdu'l-Bahá
 
-bpn2632 «[Magyar](../hu/prayers/#bpn2632)» 
+bpn2632 
 
 ----
 
@@ -243,7 +244,7 @@ bpn2632 «[Magyar](../hu/prayers/#bpn2632)»
 
 -- Bahá'u'lláh
 
-bpn2613 «[Magyar](../hu/prayers/#bpn2613)» 
+bpn2613 
 
 ----
 
@@ -253,7 +254,7 @@ bpn2613 «[Magyar](../hu/prayers/#bpn2613)»
 
 -- Bahá'u'lláh
 
-bpn2614 «[Magyar](../hu/prayers/#bpn2614)» 
+bpn2614 
 
 ----
 
@@ -263,7 +264,7 @@ bpn2614 «[Magyar](../hu/prayers/#bpn2614)»
 
 -- Báb
 
-bpn2612 «[Magyar](../hu/prayers/#bpn2612)» 
+bpn2612 
 
 ----
 
@@ -277,7 +278,7 @@ Dicsőíttessék a Te Neved, ó, Uram, Istenem! Te vagy, Kit imád minden dolog 
 
 -- Bahá'u'lláh
 
-bpn2619 «[Magyar](../hu/prayers/#bpn2619)» 
+bpn2619 
 
 ----
 
@@ -287,7 +288,7 @@ Dicsőíttessék a Te Neved, ó, én Istenem és minden dolgok Istene, ó, Dics�
 
 -- Bahá'u'lláh
 
-bpn2620 «[Magyar](../hu/prayers/#bpn2620)» 
+bpn2620 
 
 ----
 
@@ -297,7 +298,7 @@ Minden dicsőítés szálljon Feléd, ó, Istenem, Ki minden dicsőség és fens
 
 -- Bahá'u'lláh
 
-bpn2621 «[Magyar](../hu/prayers/#bpn2621)» 
+bpn2621 
 
 ----
 
@@ -307,7 +308,7 @@ Dicsértessél és dicsőíttessél ó, Uram, én Istenem! Miként említhetnél
 
 -- Bahá'u'lláh
 
-bpn2622 «[Magyar](../hu/prayers/#bpn2622)» 
+bpn2622 
 
 ----
 
@@ -317,7 +318,7 @@ Dicsőíttessék a Te Neved, ó, Isten. Tiéd valóban a Teremtés és Kinyilatk
 
 -- Báb
 
-bpn2623 «[Magyar](../hu/prayers/#bpn2623)» 
+bpn2623 
 
 ----
 
@@ -327,7 +328,7 @@ Dicsőített és magasztalt vagy, ó, Isten! Add, hogy a szent jelenléted elé 
 
 -- Báb
 
-bpn2624 «[Magyar](../hu/prayers/#bpn2624)» 
+bpn2624 
 
 ----
 
@@ -337,7 +338,7 @@ bpn2624 «[Magyar](../hu/prayers/#bpn2624)»
 
 -- Abdu'l-Bahá
 
-bpn2625 «[Magyar](../hu/prayers/#bpn2625)» 
+bpn2625 
 
 ----
 
@@ -351,7 +352,7 @@ Adja Isten, hogy az egység fénye ragyoghassa be az egész földet, és az „I
 
 -- Bahá'u'lláh
 
-bpn2626 «[Magyar](../hu/prayers/#bpn2626)» 
+bpn2626 
 
 ----
 
@@ -361,7 +362,7 @@ bpn2626 «[Magyar](../hu/prayers/#bpn2626)»
 
 -- Bahá'u'lláh
 
-bpn2627 «[Magyar](../hu/prayers/#bpn2627)» 
+bpn2627 
 
 ----
 
@@ -371,7 +372,7 @@ Dicsőség Néked, ó, Isten, az emberiség iránti szereteted megnyilvánítás
 
 -- Bahá'u'lláh
 
-bpn2628 «[Magyar](../hu/prayers/#bpn2628)» 
+bpn2628 
 
 ----
 
@@ -381,7 +382,7 @@ bpn2628 «[Magyar](../hu/prayers/#bpn2628)»
 
 -- Bahá'u'lláh
 
-bpn2629 «[Magyar](../hu/prayers/#bpn2629)» 
+bpn2629 
 
 ----
 
@@ -395,7 +396,7 @@ bpn2629 «[Magyar](../hu/prayers/#bpn2629)»
 
 -- Abdu'l-Bahá
 
-bpn2633 «[Magyar](../hu/prayers/#bpn2633)» 
+bpn2633 
 
 ----
 
@@ -405,7 +406,7 @@ bpn2633 «[Magyar](../hu/prayers/#bpn2633)»
 
 -- Abdu'l-Bahá
 
-bpn2634 «[Magyar](../hu/prayers/#bpn2634)» 
+bpn2634 
 
 ----
 
@@ -419,7 +420,7 @@ bpn2634 «[Magyar](../hu/prayers/#bpn2634)»
 
 -- Bahá'u'lláh
 
-bpn2639 «[Magyar](../hu/prayers/#bpn2639)» 
+bpn2639 
 
 ----
 
@@ -433,7 +434,7 @@ bpn2639 «[Magyar](../hu/prayers/#bpn2639)»
 
 -- Abdu'l-Bahá
 
-bpn2640 «[Magyar](../hu/prayers/#bpn2640)» 
+bpn2640 
 
 ----
 
@@ -447,7 +448,7 @@ bpn2640 «[Magyar](../hu/prayers/#bpn2640)»
 
 -- Bahá'u'lláh
 
-bpn2635 «[Magyar](../hu/prayers/#bpn2635)» 
+bpn2635 
 
 ----
 
@@ -457,7 +458,7 @@ Miként aludhatnék, ó, Isten, én Istenem, mikor az Utánad sóvárgók szeme 
 
 -- Bahá'u'lláh
 
-bpn2636 «[Magyar](../hu/prayers/#bpn2636)» 
+bpn2636 
 
 ----
 
@@ -467,7 +468,7 @@ bpn2636 «[Magyar](../hu/prayers/#bpn2636)»
 
 -- Abdu'l-Bahá
 
-bpn2637 «[Magyar](../hu/prayers/#bpn2637)» 
+bpn2637 
 
 ----
 
@@ -481,7 +482,7 @@ Dicsőség Néked, ó, Uram, Istenem! Add kegyesen, hogy e kicsiny gyermek gyeng
 
 -- Bahá'u'lláh
 
-bpn2653 «[Magyar](../hu/prayers/#bpn2653)» 
+bpn2653 
 
 ----
 
@@ -491,7 +492,7 @@ bpn2653 «[Magyar](../hu/prayers/#bpn2653)»
 
 -- Abdu'l-Bahá
 
-bpn2654 «[Magyar](../hu/prayers/#bpn2654)» 
+bpn2654 
 
 ----
 
@@ -501,7 +502,7 @@ bpn2654 «[Magyar](../hu/prayers/#bpn2654)»
 
 -- Abdu'l-Bahá
 
-bpn2655 «[Magyar](../hu/prayers/#bpn2655)» 
+bpn2655 
 
 ----
 
@@ -511,7 +512,7 @@ bpn2655 «[Magyar](../hu/prayers/#bpn2655)»
 
 -- Abdu'l-Bahá
 
-bpn2656 «[Magyar](../hu/prayers/#bpn2656)» 
+bpn2656 
 
 ----
 
@@ -521,7 +522,7 @@ bpn2656 «[Magyar](../hu/prayers/#bpn2656)»
 
 -- Abdu'l-Bahá
 
-bpn2657 «[Magyar](../hu/prayers/#bpn2657)» 
+bpn2657 
 
 ----
 
@@ -531,7 +532,7 @@ bpn2657 «[Magyar](../hu/prayers/#bpn2657)»
 
 -- Abdu'l-Bahá
 
-bpn2658 «[Magyar](../hu/prayers/#bpn2658)» 
+bpn2658 
 
 ----
 
@@ -541,7 +542,7 @@ bpn2658 «[Magyar](../hu/prayers/#bpn2658)»
 
 -- Abdu'l-Bahá
 
-bpn2659 «[Magyar](../hu/prayers/#bpn2659)» 
+bpn2659 
 
 ----
 
@@ -551,7 +552,7 @@ bpn2659 «[Magyar](../hu/prayers/#bpn2659)»
 
 -- Abdu'l-Bahá
 
-bpn2660 «[Magyar](../hu/prayers/#bpn2660)» 
+bpn2660 
 
 ----
 
@@ -565,7 +566,7 @@ bpn2660 «[Magyar](../hu/prayers/#bpn2660)»
 
 -- Bahá'u'lláh
 
-bpn2663 «[Magyar](../hu/prayers/#bpn2663)» 
+bpn2663 
 
 ----
 
@@ -575,7 +576,7 @@ bpn2663 «[Magyar](../hu/prayers/#bpn2663)»
 
 -- Bahá'u'lláh
 
-bpn2664 «[Magyar](../hu/prayers/#bpn2664)» 
+bpn2664 
 
 ----
 
@@ -585,7 +586,7 @@ Te vagy az, ó, Istenem, Ki nevei által meggyógyít minden beteget, és megvig
 
 -- Bahá'u'lláh
 
-bpn2665 «[Magyar](../hu/prayers/#bpn2665)» 
+bpn2665 
 
 ----
 
@@ -599,7 +600,7 @@ A Holtak Imája az egyetlen bahá’í kötelező ima, melyet gyülekezetben egy
 
 -- Bahá'u'lláh
 
-bpn2755 «[Magyar](../hu/prayers/#bpn2755)» 
+bpn2755 
 
 ----
 
@@ -613,7 +614,7 @@ bpn2755 «[Magyar](../hu/prayers/#bpn2755)»
 
 -- Bahá'u'lláh
 
-bpn2638 «[Magyar](../hu/prayers/#bpn2638)» 
+bpn2638 
 
 ----
 
@@ -627,7 +628,7 @@ bpn2638 «[Magyar](../hu/prayers/#bpn2638)»
 
 -- Bahá'u'lláh
 
-bpn2609 «[Magyar](../hu/prayers/#bpn2609)» 
+bpn2609 
 
 ----
 
@@ -637,11 +638,11 @@ bpn2609 «[Magyar](../hu/prayers/#bpn2609)»
 ## Huqúqu’lláh
 
 <a id="bpn2669"></a> 
-A Huqúqu&#39;lláh valóban nagyszerű törvény. E felajánlás kötelessége mindenkire hárul, mert ez a kegyelem, a bőség, és minden jó forrása. Ez egy adomány, ami vele marad majd minden lélekkel Isten, a Mindent Birtokló, a Legbőkezűbb valamennyi világának mindegyikében.
+A Huqúqu'lláh valóban nagyszerű törvény. E felajánlás kötelessége mindenkire hárul, mert ez a kegyelem, a bőség, és minden jó forrása. Ez egy adomány, ami vele marad majd minden lélekkel Isten, a Mindent Birtokló, a Legbőkezűbb valamennyi világának mindegyikében.
 
 -- Bahá'u'lláh
 
-bpn2669 «[Magyar](../hu/prayers/#bpn2669)» 
+bpn2669 
 
 ----
 
@@ -651,7 +652,7 @@ Magasztalt vagy Te, Ó, Ura az egész teremtésnek, az Egyetlen, Kihez minden do
 
 -- Bahá'u'lláh
 
-bpn2670 «[Magyar](../hu/prayers/#bpn2670)» 
+bpn2670 
 
 ----
 
@@ -665,7 +666,7 @@ bpn2670 «[Magyar](../hu/prayers/#bpn2670)»
 
 -- Bahá'u'lláh
 
-bpn2666 «[Magyar](../hu/prayers/#bpn2666)» 
+bpn2666 
 
 ----
 
@@ -675,7 +676,7 @@ Dicsőség Néked, ó, Istenem! Ímé, irgalmad árnyékába gyülekezett szolg�
 
 -- Abdu'l-Bahá
 
-bpn2667 «[Magyar](../hu/prayers/#bpn2667)» 
+bpn2667 
 
 ----
 
@@ -685,7 +686,7 @@ bpn2667 «[Magyar](../hu/prayers/#bpn2667)»
 
 -- Abdu'l-Bahá
 
-bpn2668 «[Magyar](../hu/prayers/#bpn2668)» 
+bpn2668 
 
 ----
 
@@ -699,7 +700,7 @@ Tedd szilárddá, ó, Urunk, lépteinket utadon és erősítsd meg szívünket a
 
 -- Abdu'l-Bahá
 
-bpn2671 «[Magyar](../hu/prayers/#bpn2671)» 
+bpn2671 
 
 ----
 
@@ -709,7 +710,7 @@ bpn2671 «[Magyar](../hu/prayers/#bpn2671)»
 
 -- Abdu'l-Bahá
 
-bpn2672 «[Magyar](../hu/prayers/#bpn2672)» 
+bpn2672 
 
 ----
 
@@ -723,7 +724,7 @@ bpn2672 «[Magyar](../hu/prayers/#bpn2672)»
 
 -- Abdu'l-Bahá
 
-bpn2661 «[Magyar](../hu/prayers/#bpn2661)» 
+bpn2661 
 
 ----
 
@@ -733,7 +734,7 @@ bpn2661 «[Magyar](../hu/prayers/#bpn2661)»
 
 -- Abdu'l-Bahá
 
-bpn2662 «[Magyar](../hu/prayers/#bpn2662)» 
+bpn2662 
 
 ----
 
@@ -747,7 +748,7 @@ bpn2662 «[Magyar](../hu/prayers/#bpn2662)»
 
 -- Bahá'u'lláh
 
-bpn2673 «[Magyar](../hu/prayers/#bpn2673)» 
+bpn2673 
 
 ----
 
@@ -757,7 +758,7 @@ bpn2673 «[Magyar](../hu/prayers/#bpn2673)»
 
 -- Báb
 
-bpn2674 «[Magyar](../hu/prayers/#bpn2674)» 
+bpn2674 
 
 ----
 
@@ -767,7 +768,7 @@ Részesíts, ó, Istenem, szereteted és tetszésed teljes mértékében, és cs
 
 -- Báb
 
-bpn2675 «[Magyar](../hu/prayers/#bpn2675)» 
+bpn2675 
 
 ----
 
@@ -777,7 +778,7 @@ bpn2675 «[Magyar](../hu/prayers/#bpn2675)»
 
 -- Báb
 
-bpn2676 «[Magyar](../hu/prayers/#bpn2676)» 
+bpn2676 
 
 ----
 
@@ -791,7 +792,7 @@ bpn2676 «[Magyar](../hu/prayers/#bpn2676)»
 
 -- Bahá'u'lláh
 
-bpn2677 «[Magyar](../hu/prayers/#bpn2677)» 
+bpn2677 
 
 ----
 
@@ -805,7 +806,7 @@ bpn2677 «[Magyar](../hu/prayers/#bpn2677)»
 
 -- Bahá'u'lláh
 
-bpn2608 «[Magyar](../hu/prayers/#bpn2608)» 
+bpn2608 
 
 ----
 
@@ -819,7 +820,7 @@ Mondd: ó, Isten, én Istenem! Ékesítsd fejemet az igazság koronájával és 
 
 -- Bahá'u'lláh
 
-bpn2678 «[Magyar](../hu/prayers/#bpn2678)» 
+bpn2678 
 
 ----
 
@@ -829,7 +830,7 @@ bpn2678 «[Magyar](../hu/prayers/#bpn2678)»
 
 -- Bahá'u'lláh
 
-bpn2679 «[Magyar](../hu/prayers/#bpn2679)» 
+bpn2679 
 
 ----
 
@@ -839,7 +840,7 @@ Tiszta szívet teremts bennem, ó, Istenem, és adj nékem ismét nyugodt lelkii
 
 -- Bahá'u'lláh
 
-bpn2680 «[Magyar](../hu/prayers/#bpn2680)» 
+bpn2680 
 
 ----
 
@@ -849,7 +850,7 @@ Istenem, Imádottam, Királyom, Vágyam! Mily nyelv mondhatná el köszönetemet
 
 -- Bahá'u'lláh
 
-bpn2681 «[Magyar](../hu/prayers/#bpn2681)» 
+bpn2681 
 
 ----
 
@@ -859,7 +860,7 @@ bpn2681 «[Magyar](../hu/prayers/#bpn2681)»
 
 -- Bahá'u'lláh
 
-bpn2682 «[Magyar](../hu/prayers/#bpn2682)» 
+bpn2682 
 
 ----
 
@@ -869,7 +870,7 @@ Urad nevében, Aki a Teremtő, az Uralkodó, a Mindeneket Megelégítő, a Legma
 
 -- Báb
 
-bpn2683 «[Magyar](../hu/prayers/#bpn2683)» 
+bpn2683 
 
 ----
 
@@ -879,7 +880,7 @@ Esdekelve kérlek dicsőséges arcod fényének ragyogására, időtlen nagyság
 
 -- Báb
 
-bpn2684 «[Magyar](../hu/prayers/#bpn2684)» 
+bpn2684 
 
 ----
 
@@ -889,7 +890,7 @@ Rendelj el számomra minden jót, ó, Uram, amit teremtettél vagy teremteni fog
 
 -- Báb
 
-bpn2685 «[Magyar](../hu/prayers/#bpn2685)» 
+bpn2685 
 
 ----
 
@@ -899,7 +900,7 @@ Dicsőíttessék a Te Neved, ó, Urunk, Istenünk! Te vagy, valóban, a láthata
 
 -- Báb
 
-bpn2686 «[Magyar](../hu/prayers/#bpn2686)» 
+bpn2686 
 
 ----
 
@@ -909,7 +910,7 @@ Dicsőség Néked, ó, Uram, én Imádottam! Tégy engem erőssé Ügyedben, és
 
 -- Báb
 
-bpn2687 «[Magyar](../hu/prayers/#bpn2687)» 
+bpn2687 
 
 ----
 
@@ -919,7 +920,7 @@ bpn2687 «[Magyar](../hu/prayers/#bpn2687)»
 
 -- Abdu'l-Bahá
 
-bpn2688 «[Magyar](../hu/prayers/#bpn2688)» 
+bpn2688 
 
 ----
 
@@ -929,7 +930,7 @@ bpn2688 «[Magyar](../hu/prayers/#bpn2688)»
 
 -- Abdu'l-Bahá
 
-bpn2689 «[Magyar](../hu/prayers/#bpn2689)» 
+bpn2689 
 
 ----
 
@@ -939,7 +940,7 @@ bpn2689 «[Magyar](../hu/prayers/#bpn2689)»
 
 -- Abdu'l-Bahá
 
-bpn2690 «[Magyar](../hu/prayers/#bpn2690)» 
+bpn2690 
 
 ----
 
@@ -949,7 +950,7 @@ bpn2690 «[Magyar](../hu/prayers/#bpn2690)»
 
 -- Abdu'l-Bahá
 
-bpn2691 «[Magyar](../hu/prayers/#bpn2691)» 
+bpn2691 
 
 ----
 
@@ -959,7 +960,7 @@ bpn2691 «[Magyar](../hu/prayers/#bpn2691)»
 
 -- Abdu'l-Bahá
 
-bpn2692 «[Magyar](../hu/prayers/#bpn2692)» 
+bpn2692 
 
 ----
 
@@ -973,7 +974,7 @@ bpn2692 «[Magyar](../hu/prayers/#bpn2692)»
 
 -- Bahá'u'lláh
 
-bpn2694 «[Magyar](../hu/prayers/#bpn2694)» 
+bpn2694 
 
 ----
 
@@ -983,7 +984,7 @@ Dicsőíttessél, ó, Uram, én Istenem! Akárhányszor csak említeni merészel
 
 -- Bahá'u'lláh
 
-bpn2695 «[Magyar](../hu/prayers/#bpn2695)» 
+bpn2695 
 
 ----
 
@@ -993,7 +994,7 @@ bpn2695 «[Magyar](../hu/prayers/#bpn2695)»
 
 -- Bahá'u'lláh
 
-bpn2696 «[Magyar](../hu/prayers/#bpn2696)» 
+bpn2696 
 
 ----
 
@@ -1003,7 +1004,7 @@ Dicsőség Néked, ó, Uram! Bocsásd meg bűneinket, könyörülj rajtunk s té
 
 -- Báb
 
-bpn2697 «[Magyar](../hu/prayers/#bpn2697)» 
+bpn2697 
 
 ----
 
@@ -1013,7 +1014,7 @@ bpn2697 «[Magyar](../hu/prayers/#bpn2697)»
 
 -- Báb
 
-bpn2698 «[Magyar](../hu/prayers/#bpn2698)» 
+bpn2698 
 
 ----
 
@@ -1023,7 +1024,7 @@ Dicsőség Néked, ó, Isten! Miként említhetnélek Téged, mikor szenten áll
 
 -- Báb
 
-bpn2699 «[Magyar](../hu/prayers/#bpn2699)» 
+bpn2699 
 
 ----
 
@@ -1033,7 +1034,7 @@ Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom
 
 -- Báb
 
-bpn2700 «[Magyar](../hu/prayers/#bpn2700)» 
+bpn2700 
 
 ----
 
@@ -1043,7 +1044,7 @@ Megbocsátásodért könyörgöm, ó, Istenem, és bocsánatodért esedezem oly 
 
 -- Báb
 
-bpn2701 «[Magyar](../hu/prayers/#bpn2701)» 
+bpn2701 
 
 ----
 
@@ -1053,7 +1054,7 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 
 -- Báb
 
-bpn2702 «[Magyar](../hu/prayers/#bpn2702)» 
+bpn2702 
 
 ----
 
@@ -1063,7 +1064,7 @@ bpn2702 «[Magyar](../hu/prayers/#bpn2702)»
 
 -- Abdu'l-Bahá
 
-bpn2703 «[Magyar](../hu/prayers/#bpn2703)» 
+bpn2703 
 
 ----
 
@@ -1077,7 +1078,7 @@ bpn2703 «[Magyar](../hu/prayers/#bpn2703)»
 
 -- Bahá'u'lláh
 
-bpn2704 «[Magyar](../hu/prayers/#bpn2704)» 
+bpn2704 
 
 ----
 
@@ -1087,7 +1088,7 @@ Magasztaltassék a Te Neved, ó, Uram, én Istenem! Nem tudom, miféle vízből 
 
 -- Bahá'u'lláh
 
-bpn2705 «[Magyar](../hu/prayers/#bpn2705)» 
+bpn2705 
 
 ----
 
@@ -1097,7 +1098,7 @@ Oszlasd el bánatomat jótékonyságoddal és bőkezűségeddel, ó, Isten, én 
 
 -- Bahá'u'lláh
 
-bpn2706 «[Magyar](../hu/prayers/#bpn2706)» 
+bpn2706 
 
 ----
 
@@ -1107,7 +1108,7 @@ A Reád áhítozó szívekben az Érted égő vágy tüze izzik, ó, Istenem, s 
 
 -- Bahá'u'lláh
 
-bpn2707 «[Magyar](../hu/prayers/#bpn2707)» 
+bpn2707 
 
 ----
 
@@ -1117,7 +1118,7 @@ Hatalmadra szólítlak, ó, Istenem! Ne érjen engem semmi rossz a próbák idej
 
 -- Báb
 
-bpn2708 «[Magyar](../hu/prayers/#bpn2708)» 
+bpn2708 
 
 ----
 
@@ -1127,7 +1128,7 @@ bpn2708 «[Magyar](../hu/prayers/#bpn2708)»
 
 -- Báb
 
-bpn2709 «[Magyar](../hu/prayers/#bpn2709)» 
+bpn2709 
 
 ----
 
@@ -1137,7 +1138,7 @@ Jól tudod, ó, Istenem, hogy megpróbáltatások zuhogtak rám minden iránybó
 
 -- Báb
 
-bpn2710 «[Magyar](../hu/prayers/#bpn2710)» 
+bpn2710 
 
 ----
 
@@ -1147,7 +1148,7 @@ bpn2710 «[Magyar](../hu/prayers/#bpn2710)»
 
 -- Abdu'l-Bahá
 
-bpn2711 «[Magyar](../hu/prayers/#bpn2711)» 
+bpn2711 
 
 ----
 
@@ -1157,7 +1158,7 @@ bpn2711 «[Magyar](../hu/prayers/#bpn2711)»
 
 -- Abdu'l-Bahá
 
-bpn2712 «[Magyar](../hu/prayers/#bpn2712)» 
+bpn2712 
 
 ----
 
@@ -1171,7 +1172,7 @@ bpn2712 «[Magyar](../hu/prayers/#bpn2712)»
 
 -- Abdu'l-Bahá
 
-bpn2693 «[Magyar](../hu/prayers/#bpn2693)» 
+bpn2693 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn2693 «[Magyar](../hu/prayers/#bpn2693)»
 
 -- Bahá'u'lláh
 
-bpn2753 «[Magyar](../hu/prayers/#bpn2753)» 
+bpn2753 
 
 ----
 
@@ -1199,7 +1200,7 @@ bpn2753 «[Magyar](../hu/prayers/#bpn2753)»
 
 -- Bahá'u'lláh
 
-bpn2716 «[Magyar](../hu/prayers/#bpn2716)» 
+bpn2716 
 
 ----
 
@@ -1209,7 +1210,7 @@ Menedékedben ébredtem, ó, Istenem, és illendő annak, ki ezt keresi, hogy ol
 
 -- Bahá'u'lláh
 
-bpn2717 «[Magyar](../hu/prayers/#bpn2717)» 
+bpn2717 
 
 ----
 
@@ -1223,7 +1224,7 @@ bpn2717 «[Magyar](../hu/prayers/#bpn2717)»
 
 -- Bahá'u'lláh
 
-bpn2607 «[Magyar](../hu/prayers/#bpn2607)» 
+bpn2607 
 
 ----
 
@@ -1237,7 +1238,7 @@ Istenhez fohászkodunk, kegyesen segítse azokat, kik félrevezettettek, hogy ig
 
 -- Bahá'u'lláh
 
-bpn2718 «[Magyar](../hu/prayers/#bpn2718)» 
+bpn2718 
 
 ----
 
@@ -1251,7 +1252,7 @@ bpn2718 «[Magyar](../hu/prayers/#bpn2718)»
 
 -- Bahá'u'lláh
 
-bpn2719 «[Magyar](../hu/prayers/#bpn2719)» 
+bpn2719 
 
 ----
 
@@ -1261,7 +1262,7 @@ bpn2719 «[Magyar](../hu/prayers/#bpn2719)»
 
 -- Bahá'u'lláh
 
-bpn2720 «[Magyar](../hu/prayers/#bpn2720)» 
+bpn2720 
 
 ----
 
@@ -1271,7 +1272,7 @@ Van-e eltávolítója a nehézségeknek Istenen kívül? Mondd: dicséret Istenn
 
 -- Báb
 
-bpn2721 «[Magyar](../hu/prayers/#bpn2721)» 
+bpn2721 
 
 ----
 
@@ -1281,7 +1282,7 @@ Mondd: az Úr ad megelégedést mindeneknek mindenek fölött. A mennyekben vagy
 
 -- Báb
 
-bpn2722 «[Magyar](../hu/prayers/#bpn2722)» 
+bpn2722 
 
 ----
 
@@ -1291,7 +1292,7 @@ Urunk! Hitványak vagyunk, essen meg rajtunk szíved; semmink sincsen, adj rész
 
 -- Abdu'l-Bahá
 
-bpn2723 «[Magyar](../hu/prayers/#bpn2723)» 
+bpn2723 
 
 ----
 
@@ -1301,7 +1302,7 @@ bpn2723 «[Magyar](../hu/prayers/#bpn2723)»
 
 -- Abdu'l-Bahá
 
-bpn2724 «[Magyar](../hu/prayers/#bpn2724)» 
+bpn2724 
 
 ----
 
@@ -1311,7 +1312,7 @@ bpn2724 «[Magyar](../hu/prayers/#bpn2724)»
 
 -- Abdu'l-Bahá
 
-bpn2725 «[Magyar](../hu/prayers/#bpn2725)» 
+bpn2725 
 
 ----
 
@@ -1321,7 +1322,7 @@ Ne szedd fel, ó, Uram, az ünnepi asztalt, mely Nevedben teríttetett meg, és 
 
 -- Abdu'l-Bahá
 
-bpn2726 «[Magyar](../hu/prayers/#bpn2726)» 
+bpn2726 
 
 ----
 
@@ -1335,7 +1336,7 @@ bpn2726 «[Magyar](../hu/prayers/#bpn2726)»
 
 -- Abdu'l-Bahá
 
-bpn2727 «[Magyar](../hu/prayers/#bpn2727)» 
+bpn2727 
 
 ----
 
@@ -1345,7 +1346,7 @@ bpn2727 «[Magyar](../hu/prayers/#bpn2727)»
 
 -- Abdu'l-Bahá
 
-bpn2728 «[Magyar](../hu/prayers/#bpn2728)» 
+bpn2728 
 
 ----
 
@@ -1355,7 +1356,7 @@ bpn2728 «[Magyar](../hu/prayers/#bpn2728)»
 
 -- Abdu'l-Bahá
 
-bpn2729 «[Magyar](../hu/prayers/#bpn2729)» 
+bpn2729 
 
 ----
 
@@ -1369,7 +1370,7 @@ bpn2729 «[Magyar](../hu/prayers/#bpn2729)»
 
 -- Bahá'u'lláh
 
-bpn2749 «[Magyar](../hu/prayers/#bpn2749)» 
+bpn2749 
 
 ----
 
@@ -1379,7 +1380,7 @@ A böjt*[A tizenkilenc napos böjti időszak egybeesik az ‘Alá’ hónappval,
 
 -- Bahá'u'lláh
 
-bpn2750 «[Magyar](../hu/prayers/#bpn2750)» 
+bpn2750 
 
 ----
 
@@ -1389,7 +1390,7 @@ Ezek a napok, ó, Istenem, melyeken szolgáidnak böjtöt rendeltél el. Ezzel d
 
 -- Bahá'u'lláh
 
-bpn2751 «[Magyar](../hu/prayers/#bpn2751)» 
+bpn2751 
 
 ----
 
@@ -1399,7 +1400,7 @@ bpn2751 «[Magyar](../hu/prayers/#bpn2751)»
 
 -- Abdu'l-Bahá
 
-bpn2752 «[Magyar](../hu/prayers/#bpn2752)» 
+bpn2752 
 
 ----
 
@@ -1413,7 +1414,7 @@ Dicsőség Nevednek, ó, Uram, én Istenem! Látod, pillantásom miként szegez�
 
 -- Bahá'u'lláh
 
-bpn2730 «[Magyar](../hu/prayers/#bpn2730)» 
+bpn2730 
 
 ----
 
@@ -1423,7 +1424,7 @@ Dicséret Néked, ó, Uram, Istenem! Nevedre könyörgöm Hozzád, melyet senki 
 
 -- Bahá'u'lláh
 
-bpn2731 «[Magyar](../hu/prayers/#bpn2731)» 
+bpn2731 
 
 ----
 
@@ -1433,7 +1434,7 @@ Dicsőség légyen Néked, ó, Uram, Ki parancsod erejével életre hívtál min
 
 -- Báb
 
-bpn2732 «[Magyar](../hu/prayers/#bpn2732)» 
+bpn2732 
 
 ----
 
@@ -1443,7 +1444,7 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 
 -- Báb
 
-bpn2733 «[Magyar](../hu/prayers/#bpn2733)» 
+bpn2733 
 
 ----
 
@@ -1453,7 +1454,7 @@ bpn2733 «[Magyar](../hu/prayers/#bpn2733)»
 
 -- Báb
 
-bpn2734 «[Magyar](../hu/prayers/#bpn2734)» 
+bpn2734 
 
 ----
 
@@ -1463,7 +1464,7 @@ bpn2734 «[Magyar](../hu/prayers/#bpn2734)»
 
 -- Abdu'l-Bahá
 
-bpn2735 «[Magyar](../hu/prayers/#bpn2735)» 
+bpn2735 
 
 ----
 
@@ -1473,7 +1474,7 @@ bpn2735 «[Magyar](../hu/prayers/#bpn2735)»
 
 -- Abdu'l-Bahá
 
-bpn2736 «[Magyar](../hu/prayers/#bpn2736)» 
+bpn2736 
 
 ----
 
@@ -1483,7 +1484,7 @@ bpn2736 «[Magyar](../hu/prayers/#bpn2736)»
 
 -- Abdu'l-Bahá
 
-bpn2737 «[Magyar](../hu/prayers/#bpn2737)» 
+bpn2737 
 
 ----
 
@@ -1493,7 +1494,7 @@ bpn2737 «[Magyar](../hu/prayers/#bpn2737)»
 
 -- Abdu'l-Bahá
 
-bpn2738 «[Magyar](../hu/prayers/#bpn2738)» 
+bpn2738 
 
 ----
 
@@ -1507,7 +1508,7 @@ bpn2738 «[Magyar](../hu/prayers/#bpn2738)»
 
 -- Abdu'l-Bahá
 
-bpn2747 «[Magyar](../hu/prayers/#bpn2747)» 
+bpn2747 
 
 ----
 
@@ -1517,7 +1518,7 @@ bpn2747 «[Magyar](../hu/prayers/#bpn2747)»
 
 -- Abdu'l-Bahá
 
-bpn2748 «[Magyar](../hu/prayers/#bpn2748)» 
+bpn2748 
 
 ----
 
@@ -1531,7 +1532,7 @@ bpn2748 «[Magyar](../hu/prayers/#bpn2748)»
 
 -- Bahá'u'lláh
 
-bpn2643 «[Magyar](../hu/prayers/#bpn2643)» 
+bpn2643 
 
 ----
 
@@ -1545,7 +1546,7 @@ Uram, én Uram! Dicsőítlek Téged és hálát adok Néked mindazért, mivel ki
 
 -- Abdu'l-Bahá
 
-bpn2617 «[Magyar](../hu/prayers/#bpn2617)» 
+bpn2617 
 
 ----
 
@@ -1559,7 +1560,7 @@ Dicsőíttessék a Neved, ó, Uram, én Istenem! Nevedre kérlek, melyen kereszt
 
 -- Bahá'u'lláh
 
-bpn2742 «[Magyar](../hu/prayers/#bpn2742)» 
+bpn2742 
 
 ----
 
@@ -1569,7 +1570,7 @@ Isten, az ellenállhatatlan fenség Ura, a Mindeneknek Parancsoló Nevében.Szen
 
 -- Báb
 
-bpn2743 «[Magyar](../hu/prayers/#bpn2743)» 
+bpn2743 
 
 ----
 
@@ -1579,7 +1580,7 @@ Ezen ima eredetije a Báb saját keze által íródott pentagram formában.Ó, I
 
 -- Abdu'l-Bahá
 
-bpn2744 «[Magyar](../hu/prayers/#bpn2744)» 
+bpn2744 
 
 ----
 
@@ -1589,7 +1590,7 @@ bpn2744 «[Magyar](../hu/prayers/#bpn2744)»
 
 -- Abdu'l-Bahá
 
-bpn2745 «[Magyar](../hu/prayers/#bpn2745)» 
+bpn2745 
 
 ----
 
@@ -1599,7 +1600,7 @@ bpn2745 «[Magyar](../hu/prayers/#bpn2745)»
 
 -- Abdu'l-Bahá
 
-bpn2746 «[Magyar](../hu/prayers/#bpn2746)» 
+bpn2746 
 
 ----
 
@@ -1613,7 +1614,7 @@ bpn2746 «[Magyar](../hu/prayers/#bpn2746)»
 
 -- Abdu'l-Bahá
 
-bpn2713 «[Magyar](../hu/prayers/#bpn2713)» 
+bpn2713 
 
 ----
 
@@ -1623,7 +1624,7 @@ bpn2713 «[Magyar](../hu/prayers/#bpn2713)»
 
 -- Abdu'l-Bahá
 
-bpn2714 «[Magyar](../hu/prayers/#bpn2714)» 
+bpn2714 
 
 ----
 
@@ -1633,7 +1634,7 @@ bpn2714 «[Magyar](../hu/prayers/#bpn2714)»
 
 -- Abdu'l-Bahá
 
-bpn2715 «[Magyar](../hu/prayers/#bpn2715)» 
+bpn2715 
 
 ----
 
@@ -1647,7 +1648,7 @@ Kegyelmedből keltem fel ma reggel, ó, Istenem, s teljességgel Benned bízva m
 
 -- Bahá'u'lláh
 
-bpn2740 «[Magyar](../hu/prayers/#bpn2740)» 
+bpn2740 
 
 ----
 
@@ -1657,7 +1658,7 @@ bpn2740 «[Magyar](../hu/prayers/#bpn2740)»
 
 -- Bahá'u'lláh
 
-bpn2741 «[Magyar](../hu/prayers/#bpn2741)» 
+bpn2741 
 
 ----
 
@@ -1671,7 +1672,7 @@ Tudod, ó, Isten, és tanúskodsz mellettem, hogy nem él más vágy a szívembe
 
 -- Abdu'l-Bahá
 
-bpn2739 «[Magyar](../hu/prayers/#bpn2739)» 
+bpn2739 
 
 ----
 

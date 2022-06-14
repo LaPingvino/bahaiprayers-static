@@ -5,6 +5,7 @@ tags = ['lang=no', 'prayerbook']
 
 
 
+
 [Aften](#Aften)
 
 [Ahmads tavle](#Ahmads+tavle)
@@ -89,7 +90,7 @@ Hvordan kan jeg velge å sove, o Gud, min Gud, når de som lengter etter deg ikk
 
 -- Bahá'u'lláh
 
-bpn3491 «[Norsk](../no/prayers/#bpn3491)» 
+bpn3491 
 
 ----
 
@@ -99,7 +100,7 @@ O min Gud, min Mester, mine lengslers mål! Denne din tjener søker å sove i di
 
 -- Bahá'u'lláh
 
-bpn3492 «[Norsk](../no/prayers/#bpn3492)» 
+bpn3492 
 
 ----
 
@@ -109,11 +110,11 @@ bpn3492 «[Norsk](../no/prayers/#bpn3492)»
 ## Ahmads tavle
 
 <a id="bpn3585"></a> 
-&#34;De daglige obligatoriske bønnene er, sammen med noen få andre spesielle bønner, så som Helbredelsesbønnen og Ahmads tavle, av Bahá&#39;u&#39;lláh blitt inngitt en egen kraft og betydning og bør derfor godtas som sådanne. De bør fremsies med ubetinget tro og tillit av de troende, slik at de ved dem kan komme inn i et mye nærmere fellesskap med Gud og mer fullstendig identifisere seg med hans lover og forskrifter.&#34; Fra et brev skrevet på vegne av Shoghi Effendi.  Han er Kongen, den allvitende, den vise! Se, Paradisets Nattergal synger fra grenene på Evighetens Tre, i hellige og liflige toner, og forkynner for de oppriktige det glade budskap om Guds nærhet, kaller dem som tror på den guddommelige enhet til kongesetet for den gavmildes nærvær, forteller dem som har løsrevet seg om det budskap som er åpenbart av Gud, Kongen, den herlige, den uforlignelige, og leder dem som elsker ham til hellighetens sete og til denne strålende Skjønnhet. Sannelig, dette er den Største Skjønnhet, forutsagt i budbringernes Bøker, ved hvem sannhet skal skilles fra villfarelse og visdommen i enhver forordning bli prøvet. I sannhet er han Livets Tre som bærer fruktene fra Gud, den opphøyede, den mektige, den store. O Ahmad! Vær du et vitne på at han sannelig er Gud og at der ingen annen Gud er enn ham, Kongen, beskytteren, den uforlignelige, den allmektige; og at den som han har sendt ved navn &#39;Ali,* var den sanne utsending fra Gud, hvis bud vi alle adlyder. Si: O mennesker, vær lydige mot Guds forordninger, som er pålagt oss i Bayanen av den herlige, den vise. Sannelig, han er budbringernes Konge og hans Bok er Moderboken, om dere bare visste det. Slik lar Nattergalen sin sang lyde til dere fra dette fengsel. Den har kun å overbringe dette klare budskap. Den som ønsker det, la ham vende seg bort fra dette råd, og den som ønsker det, la ham velge veien til sin Herre. O mennesker, hvis dere fornekter disse ord, ved hvilket bevis har dere så trodd på Gud? Fremlegg beviset, o hyklerske skare. Nei, ved den som har min sjel i sin hånd, ikke er de i stand til dette og aldri skal de bli det, om de så skulle slutte seg sammen for å hjelpe hverandre. O Ahmad! Glem ikke mine gaver mens jeg er fraværende. Bevar i dine dager erindringen om mine dager, og husk min trengsel og forvisning i dette avsides fengsel. Og vær du så standhaftig i min kjærlighet at ditt hjerte aldri vakler, selv om fiendens sverdslag hagler ned over deg og alle himlene og jorden reiser seg mot deg. Vær du som en flammende ild overfor mine fiender og som en elv av evig liv for dem som jeg elsker, og vær ikke av dem som tviler. Og om du blir rammet av lidelse på min vei eller fornedrelse for min skyld, så la deg ikke bekymre av det. Sett din lit til Gud, din Gud og dine fedres Herre. For menneskene vandrer på villfarelsens veier, fratatt evnen til å se Gud med sine egne øyne eller høre hans melodi med sine egne ører. Slik har vi funnet dem, som også du er vitne til. På denne måte er deres overtro blitt et slør mellom dem og deres egne hjerter og har holdt dem borte fra den vei som fører til Gud, den opphøyede, den store. Vær du i deg selv forvisset om at, sannelig, den som vender seg bort fra denne Skjønnhet også har vendt seg bort fra fortidens budbringere og viser hovmod overfor Gud fra all evighet og til all evighet. Lær denne tavlen godt, o Ahmad. Fremsi den mens du lever dine dager, og unnlat ikke å gjøre det. For Gud har i sannhet bestemt for den som fremsier den, belønning som til hundre martyrer og tjeneste i begge verdener. Disse gunstbevisninger har vi skjenket deg som en gave fra vår side og som en nåde fra vårt nærvær, så at du kan bli av dem som er takknemlige. Ved Gud! Skulle en som lider eller sørger lese denne tavle med full oppriktighet, vil Gud fordrive hans sørgmodighet, løse hans vanskeligheter og fjerne hans lidelser. Sannelig, han er den barmhjertige, den medlidende. Lovet være Gud, Herren over alle verdener.* *Báb
+"De daglige obligatoriske bønnene er, sammen med noen få andre spesielle bønner, så som Helbredelsesbønnen og Ahmads tavle, av Bahá'u'lláh blitt inngitt en egen kraft og betydning og bør derfor godtas som sådanne. De bør fremsies med ubetinget tro og tillit av de troende, slik at de ved dem kan komme inn i et mye nærmere fellesskap med Gud og mer fullstendig identifisere seg med hans lover og forskrifter." Fra et brev skrevet på vegne av Shoghi Effendi.  Han er Kongen, den allvitende, den vise! Se, Paradisets Nattergal synger fra grenene på Evighetens Tre, i hellige og liflige toner, og forkynner for de oppriktige det glade budskap om Guds nærhet, kaller dem som tror på den guddommelige enhet til kongesetet for den gavmildes nærvær, forteller dem som har løsrevet seg om det budskap som er åpenbart av Gud, Kongen, den herlige, den uforlignelige, og leder dem som elsker ham til hellighetens sete og til denne strålende Skjønnhet. Sannelig, dette er den Største Skjønnhet, forutsagt i budbringernes Bøker, ved hvem sannhet skal skilles fra villfarelse og visdommen i enhver forordning bli prøvet. I sannhet er han Livets Tre som bærer fruktene fra Gud, den opphøyede, den mektige, den store. O Ahmad! Vær du et vitne på at han sannelig er Gud og at der ingen annen Gud er enn ham, Kongen, beskytteren, den uforlignelige, den allmektige; og at den som han har sendt ved navn 'Ali,* var den sanne utsending fra Gud, hvis bud vi alle adlyder. Si: O mennesker, vær lydige mot Guds forordninger, som er pålagt oss i Bayanen av den herlige, den vise. Sannelig, han er budbringernes Konge og hans Bok er Moderboken, om dere bare visste det. Slik lar Nattergalen sin sang lyde til dere fra dette fengsel. Den har kun å overbringe dette klare budskap. Den som ønsker det, la ham vende seg bort fra dette råd, og den som ønsker det, la ham velge veien til sin Herre. O mennesker, hvis dere fornekter disse ord, ved hvilket bevis har dere så trodd på Gud? Fremlegg beviset, o hyklerske skare. Nei, ved den som har min sjel i sin hånd, ikke er de i stand til dette og aldri skal de bli det, om de så skulle slutte seg sammen for å hjelpe hverandre. O Ahmad! Glem ikke mine gaver mens jeg er fraværende. Bevar i dine dager erindringen om mine dager, og husk min trengsel og forvisning i dette avsides fengsel. Og vær du så standhaftig i min kjærlighet at ditt hjerte aldri vakler, selv om fiendens sverdslag hagler ned over deg og alle himlene og jorden reiser seg mot deg. Vær du som en flammende ild overfor mine fiender og som en elv av evig liv for dem som jeg elsker, og vær ikke av dem som tviler. Og om du blir rammet av lidelse på min vei eller fornedrelse for min skyld, så la deg ikke bekymre av det. Sett din lit til Gud, din Gud og dine fedres Herre. For menneskene vandrer på villfarelsens veier, fratatt evnen til å se Gud med sine egne øyne eller høre hans melodi med sine egne ører. Slik har vi funnet dem, som også du er vitne til. På denne måte er deres overtro blitt et slør mellom dem og deres egne hjerter og har holdt dem borte fra den vei som fører til Gud, den opphøyede, den store. Vær du i deg selv forvisset om at, sannelig, den som vender seg bort fra denne Skjønnhet også har vendt seg bort fra fortidens budbringere og viser hovmod overfor Gud fra all evighet og til all evighet. Lær denne tavlen godt, o Ahmad. Fremsi den mens du lever dine dager, og unnlat ikke å gjøre det. For Gud har i sannhet bestemt for den som fremsier den, belønning som til hundre martyrer og tjeneste i begge verdener. Disse gunstbevisninger har vi skjenket deg som en gave fra vår side og som en nåde fra vårt nærvær, så at du kan bli av dem som er takknemlige. Ved Gud! Skulle en som lider eller sørger lese denne tavle med full oppriktighet, vil Gud fordrive hans sørgmodighet, løse hans vanskeligheter og fjerne hans lidelser. Sannelig, han er den barmhjertige, den medlidende. Lovet være Gud, Herren over alle verdener.* *Báb
 
 -- Bahá'u'lláh
 
-bpn3585 «[Norsk](../no/prayers/#bpn3585)» 
+bpn3585 
 
 ----
 
@@ -127,7 +128,7 @@ Lovpriset være ditt navn, o Herre min Gud! Se -mitt øye venter på å kunne sk
 
 -- Bahá'u'lláh
 
-bpn3493 «[Norsk](../no/prayers/#bpn3493)» 
+bpn3493 
 
 ----
 
@@ -141,7 +142,7 @@ Forherliget er du, o Herre min Gud! Jeg takker deg fordi du har skapt meg i dine
 
 -- Bahá'u'lláh
 
-bpn3494 «[Norsk](../no/prayers/#bpn3494)» 
+bpn3494 
 
 ----
 
@@ -151,7 +152,7 @@ O Gud, led meg, beskytt meg, gjør meg til en skinnende lampe og til en tindrend
 
 -- Abdu'l-Bahá
 
-bpn3495 «[Norsk](../no/prayers/#bpn3495)» 
+bpn3495 
 
 ----
 
@@ -161,7 +162,7 @@ O Gud! Oppdra dette spebarn i din kjærlighets skjød, og gi det melk fra ditt f
 
 -- Abdu'l-Bahá
 
-bpn3496 «[Norsk](../no/prayers/#bpn3496)» 
+bpn3496 
 
 ----
 
@@ -171,7 +172,7 @@ O Gud! Opplær disse barn. Disse barn er plantene i din frukthave, blomstene på
 
 -- Abdu'l-Bahá
 
-bpn3497 «[Norsk](../no/prayers/#bpn3497)» 
+bpn3497 
 
 ----
 
@@ -181,7 +182,7 @@ O du fullkomne Gud! Jeg er et lite barn; gi at din kjærlige omsorgs bryst må b
 
 -- Abdu'l-Bahá
 
-bpn3498 «[Norsk](../no/prayers/#bpn3498)» 
+bpn3498 
 
 ----
 
@@ -191,7 +192,7 @@ O min Herre! O min Herre! Jeg er et lite barn. Gi meg næring fra din barmhjerti
 
 -- Abdu'l-Bahá
 
-bpn3499 «[Norsk](../no/prayers/#bpn3499)» 
+bpn3499 
 
 ----
 
@@ -201,11 +202,11 @@ bpn3499 «[Norsk](../no/prayers/#bpn3499)»
 ## Begravelse
 
 <a id="bpn3588"></a> 
-*Bahá&#39;u&#39;lláh bestemmer i &#34;Kitab-i-Aqdas&#34; at denne bønnen skal fremsies, i sin helhet, for den avdøde ved en bahá&#39;í-begravelse. Den leses før jordfestelsen av en person mens de øvrige står.  O min Gud! Dette er din tjener og sønn av din tjener som har trodd på deg og på dine tegn og vendt sitt ansikt mot deg, fullstendig løsrevet fra alt uten deg. Sannelig, av dem som viser barmhjertighet er du den mest barmhjertige. Gjør med ham, o du som tilgir menneskenes synder og skjuler deres feil, som det anstår seg din gavmildhets himmel og din nådes osean. Tillat ham å tre inn på enemerkene for din alt overskyggende barmhjertighet som var til før jordens og himmelens grunnvoll ble lagt. Der er ingen annen Gud enn deg, den evig tilgivende, den mest gavmilde. La ham så gjenta hilsningen &#34;Alláh-u-Abhá&#34; seks ganger og deretter gjenta hver av de følgende setninger nitten ganger: Sannelig, vi tilber alle Gud. Sannelig, vi bøyer oss alle for Gud. Sannelig, vi er alle hengivne overfor Gud. Sannelig, vi priser alle Gud. Sannelig, vi takker alle Gud. Sannelig, vi er alle tålmodige i Gud.  *(Hvis avdøde er en kvinne, la ham si: &#34;Dette er din tjenerinne og datter av din tjenerinne osv.&#34;)*(Det universelle rettferdighetens hus presiserer i et brev av 1. juli 2001 at gjentakelsen av setningene foregår på følgende måte: &#34;Alláh-u-Abhá&#34; [en gang], &#34;Sannelig, vi tilber alle Gud.&#34; [19 ganger], &#34;Alláh-u-Abhá&#34; [en gang], &#34;Sannelig, vi bøyer oss alle for Gud.&#34; [19 ganger] og så videre.)
+*Bahá'u'lláh bestemmer i "Kitab-i-Aqdas" at denne bønnen skal fremsies, i sin helhet, for den avdøde ved en bahá'í-begravelse. Den leses før jordfestelsen av en person mens de øvrige står.  O min Gud! Dette er din tjener og sønn av din tjener som har trodd på deg og på dine tegn og vendt sitt ansikt mot deg, fullstendig løsrevet fra alt uten deg. Sannelig, av dem som viser barmhjertighet er du den mest barmhjertige. Gjør med ham, o du som tilgir menneskenes synder og skjuler deres feil, som det anstår seg din gavmildhets himmel og din nådes osean. Tillat ham å tre inn på enemerkene for din alt overskyggende barmhjertighet som var til før jordens og himmelens grunnvoll ble lagt. Der er ingen annen Gud enn deg, den evig tilgivende, den mest gavmilde. La ham så gjenta hilsningen "Alláh-u-Abhá" seks ganger og deretter gjenta hver av de følgende setninger nitten ganger: Sannelig, vi tilber alle Gud. Sannelig, vi bøyer oss alle for Gud. Sannelig, vi er alle hengivne overfor Gud. Sannelig, vi priser alle Gud. Sannelig, vi takker alle Gud. Sannelig, vi er alle tålmodige i Gud.  *(Hvis avdøde er en kvinne, la ham si: "Dette er din tjenerinne og datter av din tjenerinne osv.")*(Det universelle rettferdighetens hus presiserer i et brev av 1. juli 2001 at gjentakelsen av setningene foregår på følgende måte: "Alláh-u-Abhá" [en gang], "Sannelig, vi tilber alle Gud." [19 ganger], "Alláh-u-Abhá" [en gang], "Sannelig, vi bøyer oss alle for Gud." [19 ganger] og så videre.)
 
 -- Bahá'u'lláh
 
-bpn3588 «[Norsk](../no/prayers/#bpn3588)» 
+bpn3588 
 
 ----
 
@@ -219,7 +220,7 @@ Jeg stod opp denne morgen ved din nåde, o min Gud, og forlot mitt hjem i full f
 
 -- Bahá'u'lláh
 
-bpn3501 «[Norsk](../no/prayers/#bpn3501)» 
+bpn3501 
 
 ----
 
@@ -229,7 +230,7 @@ Lovet være du, o Herre min Gud! Dette er din tjener som har drukket dypt av din
 
 -- Bahá'u'lláh
 
-bpn3502 «[Norsk](../no/prayers/#bpn3502)» 
+bpn3502 
 
 ----
 
@@ -239,7 +240,7 @@ Lovet være du, o min Gud! Du er den som ved et ord fra din munn fullstendig har
 
 -- Bahá'u'lláh
 
-bpn3503 «[Norsk](../no/prayers/#bpn3503)» 
+bpn3503 
 
 ----
 
@@ -249,17 +250,17 @@ Priset være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved ditt navn ved h
 
 -- Bahá'u'lláh
 
-bpn3504 «[Norsk](../no/prayers/#bpn3504)» 
+bpn3504 
 
 ----
 
 
 <a id="bpn3500"></a> 
-I Guds navn, den overveldende storhets Herre, den altbetvingende. Helliget være Herren som har kilden til herredømme i sin hånd. Han skaper hva han enn vil ved sitt befalingsord &#34;bli&#34; -og det blir. Hos ham har all øvrighetsmakt ligget til nå, og hos ham skal den forbli heretter. Han gjør seierrik hvem han enn vil, gjennom sin befalings kraft. Han er i sannhet den sterke, den allmektige. Ham tilhører all herlighet og velde i åpenbaringens og skapningens riker og i hva som enn ligger mellom dem. Sannelig, han er den mektige, den overmåte herlige. Fra evighet har han vært kilden til ubetvingelig styrke, og det skal han til evighet forbli. Han er sannelig maktens og kraftens Herre. Alle himmelens og jordens riker og hva som enn er mellom dem tilhører Gud, og hans kraft er alle ting overlegen. Alle skatter på jorden og i himmelen og i alt mellom dem tilhører ham, og hans beskyttelse omfatter alle ting. Han er skaperen av himmelen og jorden og hva som enn ligger mellom dem, og han står i sannhet som vitne til alle ting. Han er dommens Herre for alle som bor i himmelen og på jorden og i hva som enn ligger mellom dem, og Gud er sannelig snar i sin dom. Han fastsetter det mål som er tildelt alle som er i himmelen og på jorden og i hva som enn er mellom dem. Sannelig, han er den høyeste beskytter. Han holder i sitt grep nøklene til himmelen og jorden og til alt mellom dem. Etter eget behag skjenker han gaver, gjennom sin befalings kraft. I sannhet omfatter hans nåde alt, og han er den allvitende. Si: Gud er meg nok; han er den som i sitt grep holder altets rike. Gjennom kraften hos sine hærskarer i himmelen og på jorden og i hva som enn ligger mellom dem beskytter han hvem han enn vil blant sine tjenere. Umåtelig opphøyet er du, o Herre! Beskytt oss mot det som ligger foran oss og bak oss, over våre hoder, til høyre, til venstre, under våre føtter og på enhver annen side av oss. Sannelig, din beskyttelse av alle ting svikter aldri. [1]* 1. Originalen til denne bønn for beskyttelse er skrevet med Bábs egen hånd i form av et pentagram.
+I Guds navn, den overveldende storhets Herre, den altbetvingende. Helliget være Herren som har kilden til herredømme i sin hånd. Han skaper hva han enn vil ved sitt befalingsord "bli" -og det blir. Hos ham har all øvrighetsmakt ligget til nå, og hos ham skal den forbli heretter. Han gjør seierrik hvem han enn vil, gjennom sin befalings kraft. Han er i sannhet den sterke, den allmektige. Ham tilhører all herlighet og velde i åpenbaringens og skapningens riker og i hva som enn ligger mellom dem. Sannelig, han er den mektige, den overmåte herlige. Fra evighet har han vært kilden til ubetvingelig styrke, og det skal han til evighet forbli. Han er sannelig maktens og kraftens Herre. Alle himmelens og jordens riker og hva som enn er mellom dem tilhører Gud, og hans kraft er alle ting overlegen. Alle skatter på jorden og i himmelen og i alt mellom dem tilhører ham, og hans beskyttelse omfatter alle ting. Han er skaperen av himmelen og jorden og hva som enn ligger mellom dem, og han står i sannhet som vitne til alle ting. Han er dommens Herre for alle som bor i himmelen og på jorden og i hva som enn ligger mellom dem, og Gud er sannelig snar i sin dom. Han fastsetter det mål som er tildelt alle som er i himmelen og på jorden og i hva som enn er mellom dem. Sannelig, han er den høyeste beskytter. Han holder i sitt grep nøklene til himmelen og jorden og til alt mellom dem. Etter eget behag skjenker han gaver, gjennom sin befalings kraft. I sannhet omfatter hans nåde alt, og han er den allvitende. Si: Gud er meg nok; han er den som i sitt grep holder altets rike. Gjennom kraften hos sine hærskarer i himmelen og på jorden og i hva som enn ligger mellom dem beskytter han hvem han enn vil blant sine tjenere. Umåtelig opphøyet er du, o Herre! Beskytt oss mot det som ligger foran oss og bak oss, over våre hoder, til høyre, til venstre, under våre føtter og på enhver annen side av oss. Sannelig, din beskyttelse av alle ting svikter aldri. [1]* 1. Originalen til denne bønn for beskyttelse er skrevet med Bábs egen hånd i form av et pentagram.
 
 -- Báb
 
-bpn3500 «[Norsk](../no/prayers/#bpn3500)» 
+bpn3500 
 
 ----
 
@@ -269,7 +270,7 @@ O Gud, min Gud! Vern dine betrodde tjenere mot selvets og begjærets onder, besk
 
 -- Abdu'l-Bahá
 
-bpn3505 «[Norsk](../no/prayers/#bpn3505)» 
+bpn3505 
 
 ----
 
@@ -279,11 +280,11 @@ bpn3505 «[Norsk](../no/prayers/#bpn3505)»
 ## Besøkelsens tavle
 
 <a id="bpn3586"></a> 
-Denne tavlen leses ved Bahá&#39;u&#39;lláhs og Bábs gravmæler. Den brukes også ofte på deres årlige minnedager. Måtte den lovprisning som har lyst frem fra ditt umåtelig opphøyede Selv, og den herlighet som har skint frem fra din overmåte strålende Skjønnhet, hvile over deg, o du som er manifestasjonen av storhet og evighetens Konge og Herre over alle som er i himmel og på jord! Jeg bevitner at ved deg ble Guds overherredømme og hans velde, og Guds majestet og hans storhet, åpenbart, og at ved deg har den urgamle herlighets soler utgytt sin stråleglans i din ugjenkallelige forordnings himmel, og den usettes Skjønnhet skint frem over skapningens horisont. Videre bevitner jeg at med bare et strøk av din Penn er ditt påbud &#34;du bli til&#34; blitt fullbyrdet, og Guds skjulte hemmelighet gjort åpenbar, og alle skapte ting frembragt, og alle åpenbaringene sendt ned. Videre bevitner jeg at ved din Skjønnhet er den tilbedtes Skjønnhet blitt åpenbart, og at ved ditt åsyn har den etterlengtedes åsyn skint frem, og at ved et ord fra deg har du dømt mellom alle skapte ting: du har bragt dem som er deg hengivne til å stige opp til herlighetens tinde og de vantro til å falle ned i den dypeste avgrunn. Jeg bevitner at den som har kjent deg har kjent Gud, og at den som har oppnådd ditt nærvær har oppnådd Guds nærvær. Stor er derfor velsignelsen for den som har trodd på deg og på dine tegn, og har ydmyket seg for ditt overherredømme, og er blitt æret ved å møte deg, og har oppnådd din viljes velbehag, og har kretset rundt deg, og har stått for din trone. Ve den som har forbrutt seg mot deg, og har fornektet deg og forkastet dine tegn og talt ditt overherredømme imot og reist seg mot deg og vist hovmod for ditt åsyn, og har dratt dine vitnesbyrd i tvil og flyktet bort fra ditt styre og ditt herredømme, og er blitt regnet blant de vantro hvis navn er skrevet av din befalings fingre på dine hellige tavler. Send derfor henover meg, o min Gud og min elskede, fra din barmhjertighets og din miskunns høyre hånd, dine gunstbevisningers hellige briser, så at de kan føre meg bort fra meg selv og fra verden hen til din nærhets og ditt nærværs kongeseter. Mektig er du til å gjøre det som behager deg. Du har i sannhet stått opphøyet over alle ting. Måtte Guds ihukommelse og hans lovprisning, og Guds herlighet og hans glans, hvile over deg, o du som er hans Skjønnhet! Jeg bevitner at skapningens øye aldri har skuet noen så forurettet som deg. Alle ditt livs dager var du nedsenket i et hav av trengsler. En gang var du i lenker og fotjern; en annen gang ble du truet av dine fienders sverd. Men tross alt dette påla du alle mennesker å overholde det som var blitt foreskrevet deg av ham som er den allvitende, den allvise. Måtte min ånd bli et offer for den urett du led og min sjel bli en løsepenge for de lidelser du gjennomgikk. Jeg bønnfaller Gud, ved deg og ved dem hvis ansikter er blitt forklaret av glansen fra ditt åsyns lys, og som av kjærlighet til deg har overholdt alt som ble dem pålagt, om å fjerne de slør som er kommet mellom deg og dine skapninger, og om å skjenke meg det som er godt i denne verden og den kommende verden. Du er i sannhet den allmektige, den mest opphøyede, den overmåte herlige, den evig tilgivende, den mest medlidende. Velsign du, o Herre min Gud, det Guddommelige Lotustre og dets blader og dets grener og dets kvister, og dets stammer og dets hovedgrener, så lenge som dine ypperste titler vil eksistere og dine uendelig opphøyede egenskaper vil bestå. Beskytt det så mot angriperens ondskap og tyranniets skarer. Du er i sannhet den allmektige, den sterkeste. Velsign du også, o Herre min Gud, dine tjenere og dine tjenerinner som har nådd frem til deg. Du er sannelig den overmåte gavmilde, hvis nåde er uten ende. Ingen Gud er der uten deg, den evig tilgivende, den mest gavmilde.
+Denne tavlen leses ved Bahá'u'lláhs og Bábs gravmæler. Den brukes også ofte på deres årlige minnedager. Måtte den lovprisning som har lyst frem fra ditt umåtelig opphøyede Selv, og den herlighet som har skint frem fra din overmåte strålende Skjønnhet, hvile over deg, o du som er manifestasjonen av storhet og evighetens Konge og Herre over alle som er i himmel og på jord! Jeg bevitner at ved deg ble Guds overherredømme og hans velde, og Guds majestet og hans storhet, åpenbart, og at ved deg har den urgamle herlighets soler utgytt sin stråleglans i din ugjenkallelige forordnings himmel, og den usettes Skjønnhet skint frem over skapningens horisont. Videre bevitner jeg at med bare et strøk av din Penn er ditt påbud "du bli til" blitt fullbyrdet, og Guds skjulte hemmelighet gjort åpenbar, og alle skapte ting frembragt, og alle åpenbaringene sendt ned. Videre bevitner jeg at ved din Skjønnhet er den tilbedtes Skjønnhet blitt åpenbart, og at ved ditt åsyn har den etterlengtedes åsyn skint frem, og at ved et ord fra deg har du dømt mellom alle skapte ting: du har bragt dem som er deg hengivne til å stige opp til herlighetens tinde og de vantro til å falle ned i den dypeste avgrunn. Jeg bevitner at den som har kjent deg har kjent Gud, og at den som har oppnådd ditt nærvær har oppnådd Guds nærvær. Stor er derfor velsignelsen for den som har trodd på deg og på dine tegn, og har ydmyket seg for ditt overherredømme, og er blitt æret ved å møte deg, og har oppnådd din viljes velbehag, og har kretset rundt deg, og har stått for din trone. Ve den som har forbrutt seg mot deg, og har fornektet deg og forkastet dine tegn og talt ditt overherredømme imot og reist seg mot deg og vist hovmod for ditt åsyn, og har dratt dine vitnesbyrd i tvil og flyktet bort fra ditt styre og ditt herredømme, og er blitt regnet blant de vantro hvis navn er skrevet av din befalings fingre på dine hellige tavler. Send derfor henover meg, o min Gud og min elskede, fra din barmhjertighets og din miskunns høyre hånd, dine gunstbevisningers hellige briser, så at de kan føre meg bort fra meg selv og fra verden hen til din nærhets og ditt nærværs kongeseter. Mektig er du til å gjøre det som behager deg. Du har i sannhet stått opphøyet over alle ting. Måtte Guds ihukommelse og hans lovprisning, og Guds herlighet og hans glans, hvile over deg, o du som er hans Skjønnhet! Jeg bevitner at skapningens øye aldri har skuet noen så forurettet som deg. Alle ditt livs dager var du nedsenket i et hav av trengsler. En gang var du i lenker og fotjern; en annen gang ble du truet av dine fienders sverd. Men tross alt dette påla du alle mennesker å overholde det som var blitt foreskrevet deg av ham som er den allvitende, den allvise. Måtte min ånd bli et offer for den urett du led og min sjel bli en løsepenge for de lidelser du gjennomgikk. Jeg bønnfaller Gud, ved deg og ved dem hvis ansikter er blitt forklaret av glansen fra ditt åsyns lys, og som av kjærlighet til deg har overholdt alt som ble dem pålagt, om å fjerne de slør som er kommet mellom deg og dine skapninger, og om å skjenke meg det som er godt i denne verden og den kommende verden. Du er i sannhet den allmektige, den mest opphøyede, den overmåte herlige, den evig tilgivende, den mest medlidende. Velsign du, o Herre min Gud, det Guddommelige Lotustre og dets blader og dets grener og dets kvister, og dets stammer og dets hovedgrener, så lenge som dine ypperste titler vil eksistere og dine uendelig opphøyede egenskaper vil bestå. Beskytt det så mot angriperens ondskap og tyranniets skarer. Du er i sannhet den allmektige, den sterkeste. Velsign du også, o Herre min Gud, dine tjenere og dine tjenerinner som har nådd frem til deg. Du er sannelig den overmåte gavmilde, hvis nåde er uten ende. Ingen Gud er der uten deg, den evig tilgivende, den mest gavmilde.
 
 -- Bahá'u'lláh
 
-bpn3586 «[Norsk](../no/prayers/#bpn3586)» 
+bpn3586 
 
 ----
 
@@ -293,11 +294,11 @@ bpn3586 «[Norsk](../no/prayers/#bpn3586)»
 ## Besøkelsesbønn
 
 <a id="bpn3589"></a> 
-*(Denne bønnen, åpenbart av Abdu&#39;l-Bahá, blir lest ved hans grav. Den blir også brukt i personlig bønn.)*Den som fremsier denne bønnen med ydmykhet og inderlighet, vil skape glede og fryd i denne tjeners hjerte; det vil endog være som å møte ham ansikt til ansikt.  Han er den overmåte herlige! O Gud, min Gud! Ydmyk og gråtende løfter jeg mine bønnfallende hender mot deg og skjuler mitt ansikt i støvet foran din Terskel, som er opphøyet over de lærdes kunnskap og over lovprisningen fra alle som priser deg. Se nådigst med din barmhjertighets blikk på din tjener, som ydmyk og beskjeden står for din dør, og nedsenk ham i din evige miskunns osean. Herre! Han er en av dine ringe og beskjedne tjenere, trellbundet trygler han deg, fanget i din hånd ber han inderlig til deg, i tillit til deg og i tårer for ditt åsyn påkaller han deg og bønnfaller deg idet han sier: O Herre, min Gud! Skjenk meg din nåde, så jeg kan tjene dem du elsker, styrk meg i min trelldom under deg, opplys min panne med tilbedelsens lys i din hellighets bolig og med lyset av bønn til ditt opphøyede rike. Hjelp meg til å glemme meg selv ved din himmelske inngangs portal, og hjelp meg til å bli frigjort fra alle ting innenfor dine hellige enemerker. Herre! Gi meg å drikke av selvforglemmelsens beger; ifør meg dens kledning, og nedsenk meg i dens osean. La meg bli som støv på dine elskedes sti, og gi at jeg kan få ofre min sjel for den jord som er foredlet av dine utvalgtes fottrinn på din vei, o herlighetens Herre i det høyeste. Med denne bønn kaller din tjener på deg, ved daggry og ved nattetid. Oppfyll hans hjertes ønske, o Herre! Opplys hans hjerte, fyll hans bryst med glede, tenn hans lys, så at han kan tjene din Sak og dine tjenere. Du er giveren, den medfølende, den mest gavmilde, den nådige, den barmhjertige, den medlidende.
+*(Denne bønnen, åpenbart av Abdu'l-Bahá, blir lest ved hans grav. Den blir også brukt i personlig bønn.)*Den som fremsier denne bønnen med ydmykhet og inderlighet, vil skape glede og fryd i denne tjeners hjerte; det vil endog være som å møte ham ansikt til ansikt.  Han er den overmåte herlige! O Gud, min Gud! Ydmyk og gråtende løfter jeg mine bønnfallende hender mot deg og skjuler mitt ansikt i støvet foran din Terskel, som er opphøyet over de lærdes kunnskap og over lovprisningen fra alle som priser deg. Se nådigst med din barmhjertighets blikk på din tjener, som ydmyk og beskjeden står for din dør, og nedsenk ham i din evige miskunns osean. Herre! Han er en av dine ringe og beskjedne tjenere, trellbundet trygler han deg, fanget i din hånd ber han inderlig til deg, i tillit til deg og i tårer for ditt åsyn påkaller han deg og bønnfaller deg idet han sier: O Herre, min Gud! Skjenk meg din nåde, så jeg kan tjene dem du elsker, styrk meg i min trelldom under deg, opplys min panne med tilbedelsens lys i din hellighets bolig og med lyset av bønn til ditt opphøyede rike. Hjelp meg til å glemme meg selv ved din himmelske inngangs portal, og hjelp meg til å bli frigjort fra alle ting innenfor dine hellige enemerker. Herre! Gi meg å drikke av selvforglemmelsens beger; ifør meg dens kledning, og nedsenk meg i dens osean. La meg bli som støv på dine elskedes sti, og gi at jeg kan få ofre min sjel for den jord som er foredlet av dine utvalgtes fottrinn på din vei, o herlighetens Herre i det høyeste. Med denne bønn kaller din tjener på deg, ved daggry og ved nattetid. Oppfyll hans hjertes ønske, o Herre! Opplys hans hjerte, fyll hans bryst med glede, tenn hans lys, så at han kan tjene din Sak og dine tjenere. Du er giveren, den medfølende, den mest gavmilde, den nådige, den barmhjertige, den medlidende.
 
 -- Abdu'l-Bahá
 
-bpn3589 «[Norsk](../no/prayers/#bpn3589)» 
+bpn3589 
 
 ----
 
@@ -311,7 +312,7 @@ bpn3589 «[Norsk](../no/prayers/#bpn3589)»
 
 -- Bahá'u'lláh
 
-bpn3506 «[Norsk](../no/prayers/#bpn3506)» 
+bpn3506 
 
 ----
 
@@ -321,7 +322,7 @@ Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre! Ære være d
 
 -- Bahá'u'lláh
 
-bpn3507 «[Norsk](../no/prayers/#bpn3507)» 
+bpn3507 
 
 ----
 
@@ -331,7 +332,7 @@ O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser! San
 
 -- Abdu'l-Bahá
 
-bpn3508 «[Norsk](../no/prayers/#bpn3508)» 
+bpn3508 
 
 ----
 
@@ -345,7 +346,7 @@ O min Gud! O min Gud! Foren dine tjeneres hjerter, og åpenbar for dem ditt stor
 
 -- Bahá'u'lláh
 
-bpn3509 «[Norsk](../no/prayers/#bpn3509)» 
+bpn3509 
 
 ----
 
@@ -355,7 +356,7 @@ O min Gud! O min Gud! Sannelig, jeg påkaller deg og bønnfaller foran din tersk
 
 -- Abdu'l-Bahá
 
-bpn3510 «[Norsk](../no/prayers/#bpn3510)» 
+bpn3510 
 
 ----
 
@@ -365,11 +366,11 @@ bpn3510 «[Norsk](../no/prayers/#bpn3510)»
 ## Faste
 
 <a id="bpn3590"></a> 
-*I &#34;Kitab-i-Aqdas&#34; sier Bahá&#39;u&#39;lláh: &#34;Vi har pålagt dere å be og faste fra modenhetsalderens begynnelse; dette er forordnet av Gud, deres Herre og deres forfedres Herre.*Den som er på reise, de syke, de som er med barn eller gir die, er ikke bundet av fasten.*Avstå fra mat og drikke, fra soloppgang til solnedgang, og vokt dere så ikke begjær berøver dere denne nåde som er fastsatt i Boken.&#34;*Fastetiden varer fra og med 2. mars til og med 20. mars. *Mer om bønn og faste fra Bahá&#39;u&#39;lláh og &#39;Abdu&#39;l-Bahá Lovet være du, o Herre min Gud! Jeg bønnfaller deg ved denne åpenbaring, hvorved mørke er vendt til lys, hvorved det flittig søkte Tempel er bygget og den skrevne Tavle åpenbart og den åpne Bokrulle avdekket, om å sende ned over meg og over dem som er sammen med meg, det som vil gjøre oss i stand til å stige opp til din overopphøyede herlighets himler, og som vil rense oss for den skamplett av tvil som har hindret de mistenksomme i å tre inn i din enhets ernakel. Jeg er den, o min Herre, som har holdt fast ved din miskunnhets bånd og klynget seg til din barmhjertighets og dine gunstbevisningers kjortelsøm. Bestem du for meg og for mine kjære det som er godt i denne verden og i den kommende verden. Gi dem så den skjulte gave som du forordnet for de ypperste blant dine skapninger. Dette er, o min Herre, de dager da du har pålagt dine tjenere å holde fasten. Velsignet er den som holder fasten helt for din skyld og fullstendig løsrevet fra alt unntatt deg. Hjelp meg og hjelp dem, o min Herre, å adlyde deg og overholde dine forordninger. Du har i sannhet makt til å gjøre det du bestemmer. Der er ingen annen Gud enn deg, den allvitende, den allvise. All ære være Gud, Herren over alle verdener.
+*I "Kitab-i-Aqdas" sier Bahá'u'lláh: "Vi har pålagt dere å be og faste fra modenhetsalderens begynnelse; dette er forordnet av Gud, deres Herre og deres forfedres Herre.*Den som er på reise, de syke, de som er med barn eller gir die, er ikke bundet av fasten.*Avstå fra mat og drikke, fra soloppgang til solnedgang, og vokt dere så ikke begjær berøver dere denne nåde som er fastsatt i Boken."*Fastetiden varer fra og med 2. mars til og med 20. mars. *Mer om bønn og faste fra Bahá'u'lláh og 'Abdu'l-Bahá Lovet være du, o Herre min Gud! Jeg bønnfaller deg ved denne åpenbaring, hvorved mørke er vendt til lys, hvorved det flittig søkte Tempel er bygget og den skrevne Tavle åpenbart og den åpne Bokrulle avdekket, om å sende ned over meg og over dem som er sammen med meg, det som vil gjøre oss i stand til å stige opp til din overopphøyede herlighets himler, og som vil rense oss for den skamplett av tvil som har hindret de mistenksomme i å tre inn i din enhets ernakel. Jeg er den, o min Herre, som har holdt fast ved din miskunnhets bånd og klynget seg til din barmhjertighets og dine gunstbevisningers kjortelsøm. Bestem du for meg og for mine kjære det som er godt i denne verden og i den kommende verden. Gi dem så den skjulte gave som du forordnet for de ypperste blant dine skapninger. Dette er, o min Herre, de dager da du har pålagt dine tjenere å holde fasten. Velsignet er den som holder fasten helt for din skyld og fullstendig løsrevet fra alt unntatt deg. Hjelp meg og hjelp dem, o min Herre, å adlyde deg og overholde dine forordninger. Du har i sannhet makt til å gjøre det du bestemmer. Der er ingen annen Gud enn deg, den allvitende, den allvise. All ære være Gud, Herren over alle verdener.
 
 -- Bahá'u'lláh
 
-bpn3590 «[Norsk](../no/prayers/#bpn3590)» 
+bpn3590 
 
 ----
 
@@ -383,7 +384,7 @@ Ditt navn er min helbredelse, o min Gud, og ihukommelse av deg er mitt legemidde
 
 -- Bahá'u'lláh
 
-bpn3511 «[Norsk](../no/prayers/#bpn3511)» 
+bpn3511 
 
 ----
 
@@ -393,17 +394,17 @@ Du er den, o min Gud, ved hvis navn de syke blir helbredet, og de svakelige finn
 
 -- Bahá'u'lláh
 
-bpn3512 «[Norsk](../no/prayers/#bpn3512)» 
+bpn3512 
 
 ----
 
 
 <a id="bpn3513"></a> 
-Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige! Jeg påkaller deg, o opphøyede, o trofaste, o herlige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o hersker, o oppreiser, o dommer! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o uforlignelige, o evige, o eneste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mest lovpriste, o hellige, o hjelpende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o allvitende, o viseste, o største! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o milde, o majestetiske, o befalende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o elskede, o høyt skattede, o frydfulle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mektigste, o oppholdende, o veldige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o styrende, o selvbestående, o allkloke! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o ånd, o lys, o mest åpenbare! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, oppsøkt av alle, o du, kjent av alle, o du, skjult for alle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o dulgte, o seierrike, o forærende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o allmektige, o støttende, o dølgende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o former, o tilfredsstiller, o opprykker! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o oppstigende, o samlende, o opphøyende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o fullbyrdende, o ubundne, o gavmilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o velgjørende, o tilbakeholdende, o skapende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o ypperste, o fagre, o godgjørende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o rettferdige, o nådige, o høysinnede! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o altbetvingende, o evig forblivende, o mest vitende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o strålende, o gamle av dager, o høymodige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o vel forvarte, o frydens Herre, o attråede! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, god mot alle, o du, medlidende overfor alle, o edelmodigste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o tilflukt for alle, o ly for alle, o altbevarende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, hjelper for alle, o du, påkalt av alle, o belivende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o avdekker, o ødelegger, o allermildeste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du min sjel, o du min elskede, o du min tro! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o slukker av tørst, o overopphøyede Herre, o mest dyrebare! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o største ihukommelse, o edleste navn, o allereldste vei! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mest lovpriste, o allerhelligste, o uforkrenkelige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o løser, o rådgiver, o frelser! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o venn, o lege, o betagende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o herlighet, o skjønnhet, o gavmilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o den høyest betrodde, o allerkjæreste, o morgenrødens Herre! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o oppflammer, o opplyser, o gledebringer! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o gavmildhetens Herre, o mest medlidende, o allerbarmhjertigste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o bestandige, o livgivende, o hele tilværelsens kilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du som gjennomtrenger alle ting, o altskuende Gud, o ytringens Herre! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o åpenbare og dog skjulte, o usette og dog navnkundige, o tilskuer søkt av alle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du som døder de elskende, o nådens Gud for de onde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! O fyldestgjører, jeg påkaller deg, o fyldestgjører! O helbreder, jeg påkaller deg, o helbreder! O forbliver, jeg påkaller deg, o forbliver! Du den evig forblivende, o du forblivende! Uforkrenkelig er du, o min Gud! Jeg bønnfaller deg ved ditt høysinn, hvorved din gavmildhets og nådes porter ble slått vidt opp, hvorved din hellighets tempel ble grunnfestet på evighetens trone; og ved din barmhjertighet hvorved du innbød alle skapte ting til dine gavers og foræringers taffel; og ved din nåde hvorved du svarte, i ditt eget Selv med ditt ord &#34;Ja!&#34; på vegne av alle i himmel og på jord, i den stund da din overhøyhet og din storhet stod åpenbart, i den demringstime da ditt herredømmes velde ble gitt klart til kjenne. Og atter bønnfaller jeg deg, ved disse overmåte fagre navn, ved disse overordentlig edle og ypperlige egenskaper, og ved din umåtelig opphøyede ihukommelse, og ved din rene og plettfrie Skjønnhet, og ved ditt skjulte lys i det mest forborgne paulun, og ved ditt navn, ikledd prøvelsens kappe hver morgen og aften, om å beskytte den som bærer denne velsignede tavle, og hvem som enn fremsier den, og hvem som enn kommer over den, og hvem som enn går rundt det hus hvor den befinner seg. Helbred du derfor ved den enhver som er hjemsøkt av sykdom, sott eller armod for enhver trengsel og vånde, for enhver vederstyggelig prøvelse og kval, og led du ved den hvem som enn ønsker å tre inn på din ledelses stier og din tilgivelses og nådes veier. Du er i sannhet den sterke, den evig fyldestgjørende, den helbredende, beskytteren, den givende, den medlidende, den uendelig høysinnede, den overmåte barmhjertige.
+Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige! Jeg påkaller deg, o opphøyede, o trofaste, o herlige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o hersker, o oppreiser, o dommer! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o uforlignelige, o evige, o eneste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mest lovpriste, o hellige, o hjelpende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o allvitende, o viseste, o største! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o milde, o majestetiske, o befalende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o elskede, o høyt skattede, o frydfulle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mektigste, o oppholdende, o veldige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o styrende, o selvbestående, o allkloke! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o ånd, o lys, o mest åpenbare! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, oppsøkt av alle, o du, kjent av alle, o du, skjult for alle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o dulgte, o seierrike, o forærende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o allmektige, o støttende, o dølgende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o former, o tilfredsstiller, o opprykker! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o oppstigende, o samlende, o opphøyende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o fullbyrdende, o ubundne, o gavmilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o velgjørende, o tilbakeholdende, o skapende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o ypperste, o fagre, o godgjørende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o rettferdige, o nådige, o høysinnede! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o altbetvingende, o evig forblivende, o mest vitende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o strålende, o gamle av dager, o høymodige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o vel forvarte, o frydens Herre, o attråede! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, god mot alle, o du, medlidende overfor alle, o edelmodigste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o tilflukt for alle, o ly for alle, o altbevarende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du, hjelper for alle, o du, påkalt av alle, o belivende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o avdekker, o ødelegger, o allermildeste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du min sjel, o du min elskede, o du min tro! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o slukker av tørst, o overopphøyede Herre, o mest dyrebare! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o største ihukommelse, o edleste navn, o allereldste vei! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o mest lovpriste, o allerhelligste, o uforkrenkelige! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o løser, o rådgiver, o frelser! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o venn, o lege, o betagende! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o herlighet, o skjønnhet, o gavmilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o den høyest betrodde, o allerkjæreste, o morgenrødens Herre! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o oppflammer, o opplyser, o gledebringer! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o gavmildhetens Herre, o mest medlidende, o allerbarmhjertigste! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o bestandige, o livgivende, o hele tilværelsens kilde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du som gjennomtrenger alle ting, o altskuende Gud, o ytringens Herre! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o åpenbare og dog skjulte, o usette og dog navnkundige, o tilskuer søkt av alle! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! Jeg påkaller deg, o du som døder de elskende, o nådens Gud for de onde! Du den fyldestgjørende, du den helbredende, du den forblivende, o du forblivende! O fyldestgjører, jeg påkaller deg, o fyldestgjører! O helbreder, jeg påkaller deg, o helbreder! O forbliver, jeg påkaller deg, o forbliver! Du den evig forblivende, o du forblivende! Uforkrenkelig er du, o min Gud! Jeg bønnfaller deg ved ditt høysinn, hvorved din gavmildhets og nådes porter ble slått vidt opp, hvorved din hellighets tempel ble grunnfestet på evighetens trone; og ved din barmhjertighet hvorved du innbød alle skapte ting til dine gavers og foræringers taffel; og ved din nåde hvorved du svarte, i ditt eget Selv med ditt ord "Ja!" på vegne av alle i himmel og på jord, i den stund da din overhøyhet og din storhet stod åpenbart, i den demringstime da ditt herredømmes velde ble gitt klart til kjenne. Og atter bønnfaller jeg deg, ved disse overmåte fagre navn, ved disse overordentlig edle og ypperlige egenskaper, og ved din umåtelig opphøyede ihukommelse, og ved din rene og plettfrie Skjønnhet, og ved ditt skjulte lys i det mest forborgne paulun, og ved ditt navn, ikledd prøvelsens kappe hver morgen og aften, om å beskytte den som bærer denne velsignede tavle, og hvem som enn fremsier den, og hvem som enn kommer over den, og hvem som enn går rundt det hus hvor den befinner seg. Helbred du derfor ved den enhver som er hjemsøkt av sykdom, sott eller armod for enhver trengsel og vånde, for enhver vederstyggelig prøvelse og kval, og led du ved den hvem som enn ønsker å tre inn på din ledelses stier og din tilgivelses og nådes veier. Du er i sannhet den sterke, den evig fyldestgjørende, den helbredende, beskytteren, den givende, den medlidende, den uendelig høysinnede, den overmåte barmhjertige.
 
 -- Bahá'u'lláh
 
-bpn3513 «[Norsk](../no/prayers/#bpn3513)» 
+bpn3513 
 
 ----
 
@@ -413,7 +414,7 @@ Lovet være du, o Herre min Gud! Jeg bønnfaller deg, ved ditt Største Navn hvo
 
 -- Bahá'u'lláh
 
-bpn3514 «[Norsk](../no/prayers/#bpn3514)» 
+bpn3514 
 
 ----
 
@@ -423,7 +424,7 @@ O Gud, min Gud! Jeg bønnfaller deg, ved din helbredelses osean, og ved glansen 
 
 -- Bahá'u'lláh
 
-bpn3515 «[Norsk](../no/prayers/#bpn3515)» 
+bpn3515 
 
 ----
 
@@ -433,7 +434,7 @@ bpn3515 «[Norsk](../no/prayers/#bpn3515)»
 
 -- Bahá'u'lláh
 
-bpn3516 «[Norsk](../no/prayers/#bpn3516)» 
+bpn3516 
 
 ----
 
@@ -443,7 +444,7 @@ bpn3516 «[Norsk](../no/prayers/#bpn3516)»
 
 -- Bahá'u'lláh
 
-bpn3517 «[Norsk](../no/prayers/#bpn3517)» 
+bpn3517 
 
 ----
 
@@ -457,7 +458,7 @@ Min Gud, min tilbedte, min Konge, min lengsel! Hvilke ord kan uttrykke min takk 
 
 -- Bahá'u'lláh
 
-bpn3518 «[Norsk](../no/prayers/#bpn3518)» 
+bpn3518 
 
 ----
 
@@ -467,7 +468,7 @@ O du hvis åsyn er gjenstand for min tilbedelse, hvis skjønnhet er min helligdo
 
 -- Bahá'u'lláh
 
-bpn3519 «[Norsk](../no/prayers/#bpn3519)» 
+bpn3519 
 
 ----
 
@@ -477,11 +478,11 @@ bpn3519 «[Norsk](../no/prayers/#bpn3519)»
 ## Ild-tavlen
 
 <a id="bpn3587"></a> 
-I Guds, den eldstes, den størstes, navn. Sannelig, de oppriktiges hjerter fortæres i adskillelsens ild. Hvor er glansen av ditt åsyns lys, o alle verdeners elskede? De som er deg nær er blitt forlatt i ensomhetens mørke. Hvor er lyset fra din gjenforenings morgen, o alle verdeners attrå? Dine utvalgtes legemer ligger skjelvende på fjerne strender. Hvor er ditt nærværs osean, o du som trollbinder alle verdener? Lengtende hender løftes mot din nådes og gavmildhets himmel. Hvor er dine gavers regn, o alle verdeners besvarer? De vantro har reist seg i tyranni på alle hold. Hvor er din bydende penns betvingende kraft, o alle verdeners erobrer? Hundeglammet lyder høyt på alle kanter. Hvor er løven fra din makts skog, o alle verdeners refser? Kulden holder hele menneskeheten i sitt grep. Hvor er din kjærlighets varme, o alle verdeners ild? Ulykken har nådd sitt høyeste punkt. Hvor er tegnene på din unnsetning, o alle verdeners frelse? Mørke har omsluttet de fleste folkeslag. Hvor er din prakts klare lys, o alle verdeners stråleglans? Menneskene strekker hals i sin ondskap. Hvor er din hevns sverd, o alle verdeners ødelegger? Fornedrelsen har nådd sitt største dyp. Hvor er symbolene på din herlighet, o alle verdeners herlighet? Sorger har hjemsøkt åpenbareren av ditt navn, den overmåte barmhjertige. Hvor er gleden over din åpenbarings daggry, o alle verdeners fryd? Ve og vånde har rammet alle jordens folk. Hvor er tegnene på din jubel, o alle verdeners glede? Du ser dine tegns demringssted tilsløret av onde hentydninger. Hvor er din makts fingre, o alle verdeners kraft? Brennende tørst har overmannet alle mennesker. Hvor er din gavmildhets elv, o alle verdeners barmhjertighet? Griskhet har trellbundet hele menneskeheten. Hvor er løsrivelsens legemliggjørelser, o alle verdeners Herre? Du ser denne forurettede ensom i landflyktighet. Hvor er hærskarene fra din befalings himmel, o alle verdeners hersker? Jeg er blitt sveket i et fremmed land. Hvor er symbolene på din troskap, o alle verdeners tillit? Dødens kvaler holder alle mennnesker i sitt grep. Hvor er bølgene på ditt evige livs osean, o alle verdeners liv? Satans hvisken er bragt hver en skapning for øre. Hvor er din ilds meteor, o alle verdeners lys? Lidenskapens rus har fordervet mesteten av menneskeheten. Hvor er renhetens daglysninger, o alle verdeners attrå? Du ser denne forurettede omgitt av tyranni blant syrerne. Hvor er stråleglansen fra ditt gryende lys, o alle verdeners lys? Du ser meg med forbud mot å tale fritt. Hvorfra vil da dine melodier tone frem, o alle verdeners Nattergal? Størstedelen av folket er innhyllet i innbilning og tomme forestillinger. Hvor er din visshets talsmenn, o alle verdeners forvissning? Baha drukner i et hav av trengsler. Hvor er din frelses ark, o alle verdeners forløser? Du ser din ytrings daggry i skapningens mørke. Hvor er solen på din nådes himmel, o alle verdeners lysgiver? Sannhetens og renhetens, troskapens og ærens lamper er blitt slukket. Hvor er tegnene på din hevnende vrede, o alle verdeners beveger? Kan du se noen som har kjempet til forsvar for ditt Selv, eller som tenker over hva som er vederfart ham på din kjærlighets sti? Nå stanser min penn, o alle verdeners elskede. Grenene på det Guddommelige Lotustre ligger brukket av skjebnens voldsomme stormer. Hvor er din unnsetnings bannere, o alle verdeners forkjemper? Dette åsyn er skjult i baktalelsens støv. Hvor er din medlidenhets milde vinder, o alle verdeners barmhjertighet? Renhetens kappe er tilsmusset av svikets folk. Hvor er din hellighets kledning, o alle verdeners forskjønner? Nådens hav er stilnet på grunn av det som menneskenes hender har forøvet. Hvor er din gavmildhets bølger, o alle verdeners attrå? Døren inn til det guddommelige nærvær er blitt låst ved dine fienders tyranni. Hvor er dine gavers nøkkel, o alle verdeners opplåser? Bladene er gulnet av oppvigleriets giftige vinder. Hvor er regnskyllet fra din gavmildhets skyer, o alle verdeners giver? Universet er blitt formørket med syndens støv. Hvor er din tilgivelses milde vinder, o alle verdeners tilgiver? Denne yngling er ensom i et ødslig land. Hvor er din himmelske nådes regn, o alle verdeners velgjører? O Høyeste Penn! Vi har hørt din overmåte liflige kallen i det evige rike. Lån du øre til det som storhetens Tunge taler, o alle verdeners forurettede. Om det ikke var for kulden, hvordan ville varmen av dine ord da vinne seier, o alle verdeners fortolker? Om det ikke var for ulykken, hvordan ville din tålmodighets sol da skinne, o alle verdeners lys? Klag ikke på grunn av de onde. Du ble skapt til å tåle og holde ut, o alle verdeners tålmodighet. Hvor liflig var ikke din demring over Paktens horisont blant oppviglerne, og din lengsel etter Gud, o alle verdeners kjærlighet. Ved deg ble uavhengighetens banner plantet på de høyeste tinder og gavmildhetens hav bragt til å bølge, o alle verdeners henrykkelse. Ved din ensomhet skinte enhetens sol, og ved din forvisning ble enhetens land prydet. Vær tålmodig, o du alle verdeners landsforviste. Vi har gjort fornedrelse til herlighetens kledning, og prøvelse til ditt tempels pryd, o alle verdeners stolthet. Du ser at hjertene er fylt av hat, og å overse tilkommer deg, o du skjuler av alle verdeners synder. Når sverdene blinker, gå fremad! Når pilene flyr, treng frem, o du alle verdeners offer! Klager du eller skal jeg klage? Snarere vil jeg gråte over at dine forkjempere er så få, o du som har fått alle verdener til å klage. Sannelig, jeg har hørt din kallen, o overmåte herlige elskede; og nå blusser Bahas åsyn av trengselens hete og ved ditt skinnende ords ild, og han har reist seg i troskap på offerstedet med blikket rettet mot ditt velbehag, o alle verdeners forordner. O &#39;Ali-Akbar, takk din Herre for denne tavle hvorfra du kan innånde duften av min saktmodighet og få vite hva som er vederfart oss på den vei som er forordnet av Gud, alle verdeners tilbedte. Skulle alle tjenerne lese og overveie dette, så vil det i deres årer tennes en ild som skal sette alle verdener i brann.
+I Guds, den eldstes, den størstes, navn. Sannelig, de oppriktiges hjerter fortæres i adskillelsens ild. Hvor er glansen av ditt åsyns lys, o alle verdeners elskede? De som er deg nær er blitt forlatt i ensomhetens mørke. Hvor er lyset fra din gjenforenings morgen, o alle verdeners attrå? Dine utvalgtes legemer ligger skjelvende på fjerne strender. Hvor er ditt nærværs osean, o du som trollbinder alle verdener? Lengtende hender løftes mot din nådes og gavmildhets himmel. Hvor er dine gavers regn, o alle verdeners besvarer? De vantro har reist seg i tyranni på alle hold. Hvor er din bydende penns betvingende kraft, o alle verdeners erobrer? Hundeglammet lyder høyt på alle kanter. Hvor er løven fra din makts skog, o alle verdeners refser? Kulden holder hele menneskeheten i sitt grep. Hvor er din kjærlighets varme, o alle verdeners ild? Ulykken har nådd sitt høyeste punkt. Hvor er tegnene på din unnsetning, o alle verdeners frelse? Mørke har omsluttet de fleste folkeslag. Hvor er din prakts klare lys, o alle verdeners stråleglans? Menneskene strekker hals i sin ondskap. Hvor er din hevns sverd, o alle verdeners ødelegger? Fornedrelsen har nådd sitt største dyp. Hvor er symbolene på din herlighet, o alle verdeners herlighet? Sorger har hjemsøkt åpenbareren av ditt navn, den overmåte barmhjertige. Hvor er gleden over din åpenbarings daggry, o alle verdeners fryd? Ve og vånde har rammet alle jordens folk. Hvor er tegnene på din jubel, o alle verdeners glede? Du ser dine tegns demringssted tilsløret av onde hentydninger. Hvor er din makts fingre, o alle verdeners kraft? Brennende tørst har overmannet alle mennesker. Hvor er din gavmildhets elv, o alle verdeners barmhjertighet? Griskhet har trellbundet hele menneskeheten. Hvor er løsrivelsens legemliggjørelser, o alle verdeners Herre? Du ser denne forurettede ensom i landflyktighet. Hvor er hærskarene fra din befalings himmel, o alle verdeners hersker? Jeg er blitt sveket i et fremmed land. Hvor er symbolene på din troskap, o alle verdeners tillit? Dødens kvaler holder alle mennnesker i sitt grep. Hvor er bølgene på ditt evige livs osean, o alle verdeners liv? Satans hvisken er bragt hver en skapning for øre. Hvor er din ilds meteor, o alle verdeners lys? Lidenskapens rus har fordervet mesteten av menneskeheten. Hvor er renhetens daglysninger, o alle verdeners attrå? Du ser denne forurettede omgitt av tyranni blant syrerne. Hvor er stråleglansen fra ditt gryende lys, o alle verdeners lys? Du ser meg med forbud mot å tale fritt. Hvorfra vil da dine melodier tone frem, o alle verdeners Nattergal? Størstedelen av folket er innhyllet i innbilning og tomme forestillinger. Hvor er din visshets talsmenn, o alle verdeners forvissning? Baha drukner i et hav av trengsler. Hvor er din frelses ark, o alle verdeners forløser? Du ser din ytrings daggry i skapningens mørke. Hvor er solen på din nådes himmel, o alle verdeners lysgiver? Sannhetens og renhetens, troskapens og ærens lamper er blitt slukket. Hvor er tegnene på din hevnende vrede, o alle verdeners beveger? Kan du se noen som har kjempet til forsvar for ditt Selv, eller som tenker over hva som er vederfart ham på din kjærlighets sti? Nå stanser min penn, o alle verdeners elskede. Grenene på det Guddommelige Lotustre ligger brukket av skjebnens voldsomme stormer. Hvor er din unnsetnings bannere, o alle verdeners forkjemper? Dette åsyn er skjult i baktalelsens støv. Hvor er din medlidenhets milde vinder, o alle verdeners barmhjertighet? Renhetens kappe er tilsmusset av svikets folk. Hvor er din hellighets kledning, o alle verdeners forskjønner? Nådens hav er stilnet på grunn av det som menneskenes hender har forøvet. Hvor er din gavmildhets bølger, o alle verdeners attrå? Døren inn til det guddommelige nærvær er blitt låst ved dine fienders tyranni. Hvor er dine gavers nøkkel, o alle verdeners opplåser? Bladene er gulnet av oppvigleriets giftige vinder. Hvor er regnskyllet fra din gavmildhets skyer, o alle verdeners giver? Universet er blitt formørket med syndens støv. Hvor er din tilgivelses milde vinder, o alle verdeners tilgiver? Denne yngling er ensom i et ødslig land. Hvor er din himmelske nådes regn, o alle verdeners velgjører? O Høyeste Penn! Vi har hørt din overmåte liflige kallen i det evige rike. Lån du øre til det som storhetens Tunge taler, o alle verdeners forurettede. Om det ikke var for kulden, hvordan ville varmen av dine ord da vinne seier, o alle verdeners fortolker? Om det ikke var for ulykken, hvordan ville din tålmodighets sol da skinne, o alle verdeners lys? Klag ikke på grunn av de onde. Du ble skapt til å tåle og holde ut, o alle verdeners tålmodighet. Hvor liflig var ikke din demring over Paktens horisont blant oppviglerne, og din lengsel etter Gud, o alle verdeners kjærlighet. Ved deg ble uavhengighetens banner plantet på de høyeste tinder og gavmildhetens hav bragt til å bølge, o alle verdeners henrykkelse. Ved din ensomhet skinte enhetens sol, og ved din forvisning ble enhetens land prydet. Vær tålmodig, o du alle verdeners landsforviste. Vi har gjort fornedrelse til herlighetens kledning, og prøvelse til ditt tempels pryd, o alle verdeners stolthet. Du ser at hjertene er fylt av hat, og å overse tilkommer deg, o du skjuler av alle verdeners synder. Når sverdene blinker, gå fremad! Når pilene flyr, treng frem, o du alle verdeners offer! Klager du eller skal jeg klage? Snarere vil jeg gråte over at dine forkjempere er så få, o du som har fått alle verdener til å klage. Sannelig, jeg har hørt din kallen, o overmåte herlige elskede; og nå blusser Bahas åsyn av trengselens hete og ved ditt skinnende ords ild, og han har reist seg i troskap på offerstedet med blikket rettet mot ditt velbehag, o alle verdeners forordner. O 'Ali-Akbar, takk din Herre for denne tavle hvorfra du kan innånde duften av min saktmodighet og få vite hva som er vederfart oss på den vei som er forordnet av Gud, alle verdeners tilbedte. Skulle alle tjenerne lese og overveie dette, så vil det i deres årer tennes en ild som skal sette alle verdener i brann.
 
 -- Bahá'u'lláh
 
-bpn3587 «[Norsk](../no/prayers/#bpn3587)» 
+bpn3587 
 
 ----
 
@@ -495,7 +496,7 @@ De innskutte dager, fra og med 26. februar til og med 1. mars, bør være en tid
 
 -- Bahá'u'lláh
 
-bpn3591 «[Norsk](../no/prayers/#bpn3591)» 
+bpn3591 
 
 ----
 
@@ -505,11 +506,11 @@ bpn3591 «[Norsk](../no/prayers/#bpn3591)»
 ## Kort obligatorisk bønn
 
 <a id="bpn3488"></a> 
-*Fremsies en gang i døgnet, ved middagstider.Jeg bevitner, o min Gud, at du har skapt meg for at jeg skal kjenne deg og tilbe deg. Jeg vitner i denne stund om min maktesløshet og om din styrke, om min fattigdom og om din rikdom. Der er ingen annen Gud enn deg, hjelperen i fare, den selvbestående.*Bahá&#39;u&#39;lláh pålegger dem som tror på ham å be. I dette ligger det ingen ytre tvang, men en åndelig plikt overfor Gud.*&#34;De daglige obligatoriske bønner er tre i tallet ... Den troende kan fritt velge hvilken som helst av disse tre bønnene, men er forpliktet til å fremsi en av dem, og i samsvar med eventuelle spesielle forskrifter som måtte knytte seg til dem.&#34;*Fra et brev skrevet på vegne av Shoghi Effendi.*&#34;Med &#39;morgen&#39;, &#39;middag&#39; og &#39;aften&#39;, nevnt i forbindelse med de obligatoriske bønnene, menes henholdsvis tiden mellom soloppgang og middag, mellom middag og solnedgang, og fra solnedgang til to timer etter solnedgang.&#34; Til norsk etter &#34;Synopsis and Codification of the Laws and Ordinances of the &#39;Kitab-i-Aqdas&#39;&#34;, s. 36.
+*Fremsies en gang i døgnet, ved middagstider.Jeg bevitner, o min Gud, at du har skapt meg for at jeg skal kjenne deg og tilbe deg. Jeg vitner i denne stund om min maktesløshet og om din styrke, om min fattigdom og om din rikdom. Der er ingen annen Gud enn deg, hjelperen i fare, den selvbestående.*Bahá'u'lláh pålegger dem som tror på ham å be. I dette ligger det ingen ytre tvang, men en åndelig plikt overfor Gud.*"De daglige obligatoriske bønner er tre i tallet ... Den troende kan fritt velge hvilken som helst av disse tre bønnene, men er forpliktet til å fremsi en av dem, og i samsvar med eventuelle spesielle forskrifter som måtte knytte seg til dem."*Fra et brev skrevet på vegne av Shoghi Effendi.*"Med 'morgen', 'middag' og 'aften', nevnt i forbindelse med de obligatoriske bønnene, menes henholdsvis tiden mellom soloppgang og middag, mellom middag og solnedgang, og fra solnedgang til to timer etter solnedgang." Til norsk etter "Synopsis and Codification of the Laws and Ordinances of the 'Kitab-i-Aqdas'", s. 36.
 
 -- Bahá'u'lláh
 
-bpn3488 «[Norsk](../no/prayers/#bpn3488)» 
+bpn3488 
 
 ----
 
@@ -519,11 +520,11 @@ bpn3488 «[Norsk](../no/prayers/#bpn3488)»
 ## Lang obligatorisk bønn
 
 <a id="bpn3490"></a> 
-*Fremsies en gang i døgnet.*La den som ønsker å fremsi denne bønn reise seg og vende seg mot Gud, og mens han står, la ham vende blikket mot høyre og mot venstre som i påvente av nåden fra sin Herre, den mest barmhjertige, den medlidende. La ham derpå si:O du som er alle navns Herre og himmelens skaper! Jeg bønnfaller deg ved dem som er morgendemringene av ditt usynlige vesen, det mest opphøyede, det overmåte herlige, om å gjøre min bønn til en ild som skal fortære de slør som har lukket meg ute fra din skjønnhet, og til et lys som skal lede meg til ditt nærværs osean. *La ham så heve hendene i ydmyk bønn overfor Gud -velsignet og opphøyet være han -og si:O du verdens attrå og alle folkeslags elskede! Du ser at jeg vender meg mot deg, og at jeg er befridd fra all tilknytning til noen annen enn deg, og at jeg klynger meg til ditt bånd, som ved sin bevegelse har satt alt det skapte i bevegelse. Jeg er din tjener, o min Herre, og sønn av din tjener. Se, jeg står rede til å gjøre din vilje og oppfylle ditt ønske, og jeg ønsker intet annet enn ditt velbehag. Jeg bønnfaller deg ved din barmhjertighets osean og din nådes sol om å gjøre med din tjener etter din vilje og ditt behag. Ved din makt, som er høyt hevet over all omtale og lovprisning! Hva som enn er åpenbart av deg er mitt hjertes attrå og min sjels kjærlighet. O Gud, min Gud! Se ikke på mine forhåpninger og mine gjerninger, nei, se heller på din vilje som har omsluttet himmelen og jorden. Ved ditt Største Navn, o du alle folkeslags Herre! Jeg har ønsket bare det som du ønsket og elsker bare det som du elsker. *La ham deretter knele, og, mens han bøyer pannen mot jorden, si:Opphøyet er du over å kunne beskrives av noen uten deg selv, og over å kunne fattes av noe annet enn deg. *La ham så stå og si:Gjør min bønn, o min Herre, til en kilde av levende vann hvorved jeg kan leve så lenge som ditt herredømme varer og kan tale om deg i enhver verden av dine verdener. *La ham igjen løfte hendene i ydmyk bønn og si:O du, som hjerter og sjeler har smeltet i adskillelse fra, og ved hvis kjærlighets ild hele verden er blitt satt i brann! Jeg bønnfaller deg ved ditt navn, ved hvilket du har underlagt deg hele skapningen, om ikke å holde borte fra meg det som er hos deg, o du som hersker over alle mennesker! Du ser, o min Herre, denne fremmede haste mot sitt uendelig opphøyede hjem under din majestets tronhimmel og innenfor din nådes enemerker, og denne overtreder søke din tilgivelses osean, og dette ringe vesen søke din herlighets kongesete, og denne fattige skapning søke din rikdoms morgenglans. Hos deg ligger myndigheten til å befale hva du enn vil. Jeg vitner om at du skal lovsynges i all din gjerning, og adlydes i dine påbud, og forbli fri og uhemmet i din befaling. *La ham derpå løfte hendene og tre ganger gjenta det Største Navn (*). La ham så, med hendene hvilende på knærne, bøye seg for Gud -velsignet og opphøyet være han -og si:Du ser, o min Gud, hvordan min ånd er blitt oppildnet i mitt legeme og mine lemmer, av lengsel etter å tilbe deg og av trang til å minnes deg og opphøye deg; hvordan den bevitner det som din befalings Tunge har vitnet om i din ytrings rike og din kunnskaps himmel. Jeg elsker, i denne tilstand, o min Herre, å bønnfalle deg om alt det som er hos deg, slik at jeg kan tilkjennegi min fattigdom og forherlige din gavmildhet og din rikdom, og kan erklære min maktesløshet og åpenbare din makt og din velde. *La ham så stå og løfte hendene to ganger i ydmyk bønn, og si:Der er ingen annen Gud enn deg, den allmektige, den overmåte gavmilde. Der er ingen annen Gud enn deg, forordneren, både i begynnelsen og i slutningen. O Gud, min Gud! Din tilgivelse har gitt meg mot, og din barmhjertighet har styrket meg, og din kallen har vekket meg, og din nåde har oppreist meg og ledet meg til deg. Hvem er vel jeg, at jeg ellers skulle våge å stå ved porten til din nærhets stad eller vende mitt ansikt mot de lys som skinner fra din viljes himmel? Du ser, o min Herre, denne usle skapning banke på din nådes dør, og denne flyktige sjel søke det evige livs elv fra din gavmildhets hender. Deg tilkommer det å herske til alle tider, o du som er alle navns Herre, og meg tilkommer det å bøye meg for og villig underkaste meg din vilje, o himmelens skaper! *La ham så løfte hendene tre ganger, og si:Større er Gud enn enhver som er stor! *La ham så knele, og, mens han bøyer pannen mot jorden, si:For høyt hevet er du til at lovprisningen fra dem som er deg nær kan stige opp til din nærhets himmel, eller til at hjertenes fugler hos dem som er deg hengivne kan nå frem til din inngangs portal. Jeg bevitner at du er helliggjort over alle egenskaper og hellig over alle navn. Ingen annen Gud er der enn deg, den mest opphøyede, den overmåte herlige. *La ham så sette seg og si:Jeg vitner om det som alle skapte ting har vitnet om, og hærskarene i det høye, og beboerne av det aller høyeste paradis, og hinsides dem, storhetens Tunge selv, fra den overmåte herlige horisont, at du er Gud, at der ingen annen Gud er enn deg og at han som er blitt åpenbart er det skjulte mysterium, det høyt skattede symbol, ved hvem bokstavene i ordet &#34;bli&#34; er føyet sammen. Jeg bevitner at det er han hvis navn er nedtegnet av den høyestes Penn, og som er nevnt i Bøkene fra Gud, Herren over Tronen i det høye og over jorden her nede. *La ham så stå oppreist og si:O Herre over alt som er og besitter av alle synlige og usynlige ting! Du fornemmer mine tårer og mine sukk og hører at jeg stønner og jamrer og at mitt hjerte vånder seg. Ved din makt! Mine overtredelser har hindret meg fra å nærme meg deg, og mine synder har holdt meg fjernt fra din hellighets kongesete. Din kjærlighet, o min Herre, har beriket meg, og adskillelsen fra deg har tilintetgjort meg, og fjernheten fra deg har fortært meg. Jeg bønnfaller deg ved dine fottrinn i denne ørken og ved ordene &#34;her er jeg, her er jeg,&#34; som dine utvalgte har uttalt i denne uendelighet, og ved din åpenbarings bris og de milde vinder fra din manifestasjons demring, om å forordne at jeg får skue din skjønnet og overholde hva som enn står i din Bok. *La ham så gjenta det Største Navn tre ganger, bøye seg med hendene hvilende på knærne, og si:Lovet være du, o min Gud, for at du har hjulpet meg til å ihukomme deg og prise deg, og har gjort kjent for meg ham som er dine tegns morgengry, og fått meg til å bøye kne for ditt herredømme og ydmyke meg for din guddommelighet og til å anerkjenne det som er uttalt av din storhets Tunge. *La ham derpå reise seg og si:O Gud, min Gud! Min rygg er bøyd ved byrden av mine synder, og min likegyldighet har tilintetgjort meg. Hver gang jeg tenker over mine onde gjerninger og din velvilje, smelter hjertet i meg, og blodet syder i mine årer. Ved din Skjønnhet, o du verdens attrå! Jeg blues ved å løfte mitt ansikt mot deg, og mine lengtende hender skammer seg for å strekke seg frem mot din gavmildhets himmel. Du ser, o min Gud, hvordan mine tårer hindrer meg fra å minnes deg og prise dine dyder, o du, Herren over Tronen i det høye og over jorden her nede! Jeg bønnfaller deg ved ditt kongedømmes tegn og ditt rikes mysterier om å gjøre med dine elskede som det anstår seg din gavmildhet, o Herre over alt som er til, og slik det er din nåde verdig, o Konge over det som er sett og det som er usett! *La ham deretter gjenta det Største Navn tre ganger, knele med pannen mot jorden, og si:Lovet være du, o vår Gud, for at du har sendt ned til oss det som drar oss nærmere deg, og tilgodeser oss med enhver god ting som er sendt ned av deg i dine Bøker og dine skrifter. Beskytt oss, bønnfaller vi deg, o min Herre, mot skarene av tomme forestillinger og fåfengte innbilninger. Du er i sannhet den mektige, den allvitende. *La ham derpå løfte hodet, sette seg, og si:Jeg vitner, o min Gud, om det som dine utvalgte har vitnet om, og erkjenner det som beboerne av det aller høyeste paradis og de som har kretset rundt din mektige Trone, har erkjent. Jordens og himmelens riker er dine, o Herre over alle verdener!*(*) Alláh-u-Abhá.
+*Fremsies en gang i døgnet.*La den som ønsker å fremsi denne bønn reise seg og vende seg mot Gud, og mens han står, la ham vende blikket mot høyre og mot venstre som i påvente av nåden fra sin Herre, den mest barmhjertige, den medlidende. La ham derpå si:O du som er alle navns Herre og himmelens skaper! Jeg bønnfaller deg ved dem som er morgendemringene av ditt usynlige vesen, det mest opphøyede, det overmåte herlige, om å gjøre min bønn til en ild som skal fortære de slør som har lukket meg ute fra din skjønnhet, og til et lys som skal lede meg til ditt nærværs osean. *La ham så heve hendene i ydmyk bønn overfor Gud -velsignet og opphøyet være han -og si:O du verdens attrå og alle folkeslags elskede! Du ser at jeg vender meg mot deg, og at jeg er befridd fra all tilknytning til noen annen enn deg, og at jeg klynger meg til ditt bånd, som ved sin bevegelse har satt alt det skapte i bevegelse. Jeg er din tjener, o min Herre, og sønn av din tjener. Se, jeg står rede til å gjøre din vilje og oppfylle ditt ønske, og jeg ønsker intet annet enn ditt velbehag. Jeg bønnfaller deg ved din barmhjertighets osean og din nådes sol om å gjøre med din tjener etter din vilje og ditt behag. Ved din makt, som er høyt hevet over all omtale og lovprisning! Hva som enn er åpenbart av deg er mitt hjertes attrå og min sjels kjærlighet. O Gud, min Gud! Se ikke på mine forhåpninger og mine gjerninger, nei, se heller på din vilje som har omsluttet himmelen og jorden. Ved ditt Største Navn, o du alle folkeslags Herre! Jeg har ønsket bare det som du ønsket og elsker bare det som du elsker. *La ham deretter knele, og, mens han bøyer pannen mot jorden, si:Opphøyet er du over å kunne beskrives av noen uten deg selv, og over å kunne fattes av noe annet enn deg. *La ham så stå og si:Gjør min bønn, o min Herre, til en kilde av levende vann hvorved jeg kan leve så lenge som ditt herredømme varer og kan tale om deg i enhver verden av dine verdener. *La ham igjen løfte hendene i ydmyk bønn og si:O du, som hjerter og sjeler har smeltet i adskillelse fra, og ved hvis kjærlighets ild hele verden er blitt satt i brann! Jeg bønnfaller deg ved ditt navn, ved hvilket du har underlagt deg hele skapningen, om ikke å holde borte fra meg det som er hos deg, o du som hersker over alle mennesker! Du ser, o min Herre, denne fremmede haste mot sitt uendelig opphøyede hjem under din majestets tronhimmel og innenfor din nådes enemerker, og denne overtreder søke din tilgivelses osean, og dette ringe vesen søke din herlighets kongesete, og denne fattige skapning søke din rikdoms morgenglans. Hos deg ligger myndigheten til å befale hva du enn vil. Jeg vitner om at du skal lovsynges i all din gjerning, og adlydes i dine påbud, og forbli fri og uhemmet i din befaling. *La ham derpå løfte hendene og tre ganger gjenta det Største Navn (*). La ham så, med hendene hvilende på knærne, bøye seg for Gud -velsignet og opphøyet være han -og si:Du ser, o min Gud, hvordan min ånd er blitt oppildnet i mitt legeme og mine lemmer, av lengsel etter å tilbe deg og av trang til å minnes deg og opphøye deg; hvordan den bevitner det som din befalings Tunge har vitnet om i din ytrings rike og din kunnskaps himmel. Jeg elsker, i denne tilstand, o min Herre, å bønnfalle deg om alt det som er hos deg, slik at jeg kan tilkjennegi min fattigdom og forherlige din gavmildhet og din rikdom, og kan erklære min maktesløshet og åpenbare din makt og din velde. *La ham så stå og løfte hendene to ganger i ydmyk bønn, og si:Der er ingen annen Gud enn deg, den allmektige, den overmåte gavmilde. Der er ingen annen Gud enn deg, forordneren, både i begynnelsen og i slutningen. O Gud, min Gud! Din tilgivelse har gitt meg mot, og din barmhjertighet har styrket meg, og din kallen har vekket meg, og din nåde har oppreist meg og ledet meg til deg. Hvem er vel jeg, at jeg ellers skulle våge å stå ved porten til din nærhets stad eller vende mitt ansikt mot de lys som skinner fra din viljes himmel? Du ser, o min Herre, denne usle skapning banke på din nådes dør, og denne flyktige sjel søke det evige livs elv fra din gavmildhets hender. Deg tilkommer det å herske til alle tider, o du som er alle navns Herre, og meg tilkommer det å bøye meg for og villig underkaste meg din vilje, o himmelens skaper! *La ham så løfte hendene tre ganger, og si:Større er Gud enn enhver som er stor! *La ham så knele, og, mens han bøyer pannen mot jorden, si:For høyt hevet er du til at lovprisningen fra dem som er deg nær kan stige opp til din nærhets himmel, eller til at hjertenes fugler hos dem som er deg hengivne kan nå frem til din inngangs portal. Jeg bevitner at du er helliggjort over alle egenskaper og hellig over alle navn. Ingen annen Gud er der enn deg, den mest opphøyede, den overmåte herlige. *La ham så sette seg og si:Jeg vitner om det som alle skapte ting har vitnet om, og hærskarene i det høye, og beboerne av det aller høyeste paradis, og hinsides dem, storhetens Tunge selv, fra den overmåte herlige horisont, at du er Gud, at der ingen annen Gud er enn deg og at han som er blitt åpenbart er det skjulte mysterium, det høyt skattede symbol, ved hvem bokstavene i ordet "bli" er føyet sammen. Jeg bevitner at det er han hvis navn er nedtegnet av den høyestes Penn, og som er nevnt i Bøkene fra Gud, Herren over Tronen i det høye og over jorden her nede. *La ham så stå oppreist og si:O Herre over alt som er og besitter av alle synlige og usynlige ting! Du fornemmer mine tårer og mine sukk og hører at jeg stønner og jamrer og at mitt hjerte vånder seg. Ved din makt! Mine overtredelser har hindret meg fra å nærme meg deg, og mine synder har holdt meg fjernt fra din hellighets kongesete. Din kjærlighet, o min Herre, har beriket meg, og adskillelsen fra deg har tilintetgjort meg, og fjernheten fra deg har fortært meg. Jeg bønnfaller deg ved dine fottrinn i denne ørken og ved ordene "her er jeg, her er jeg," som dine utvalgte har uttalt i denne uendelighet, og ved din åpenbarings bris og de milde vinder fra din manifestasjons demring, om å forordne at jeg får skue din skjønnet og overholde hva som enn står i din Bok. *La ham så gjenta det Største Navn tre ganger, bøye seg med hendene hvilende på knærne, og si:Lovet være du, o min Gud, for at du har hjulpet meg til å ihukomme deg og prise deg, og har gjort kjent for meg ham som er dine tegns morgengry, og fått meg til å bøye kne for ditt herredømme og ydmyke meg for din guddommelighet og til å anerkjenne det som er uttalt av din storhets Tunge. *La ham derpå reise seg og si:O Gud, min Gud! Min rygg er bøyd ved byrden av mine synder, og min likegyldighet har tilintetgjort meg. Hver gang jeg tenker over mine onde gjerninger og din velvilje, smelter hjertet i meg, og blodet syder i mine årer. Ved din Skjønnhet, o du verdens attrå! Jeg blues ved å løfte mitt ansikt mot deg, og mine lengtende hender skammer seg for å strekke seg frem mot din gavmildhets himmel. Du ser, o min Gud, hvordan mine tårer hindrer meg fra å minnes deg og prise dine dyder, o du, Herren over Tronen i det høye og over jorden her nede! Jeg bønnfaller deg ved ditt kongedømmes tegn og ditt rikes mysterier om å gjøre med dine elskede som det anstår seg din gavmildhet, o Herre over alt som er til, og slik det er din nåde verdig, o Konge over det som er sett og det som er usett! *La ham deretter gjenta det Største Navn tre ganger, knele med pannen mot jorden, og si:Lovet være du, o vår Gud, for at du har sendt ned til oss det som drar oss nærmere deg, og tilgodeser oss med enhver god ting som er sendt ned av deg i dine Bøker og dine skrifter. Beskytt oss, bønnfaller vi deg, o min Herre, mot skarene av tomme forestillinger og fåfengte innbilninger. Du er i sannhet den mektige, den allvitende. *La ham derpå løfte hodet, sette seg, og si:Jeg vitner, o min Gud, om det som dine utvalgte har vitnet om, og erkjenner det som beboerne av det aller høyeste paradis og de som har kretset rundt din mektige Trone, har erkjent. Jordens og himmelens riker er dine, o Herre over alle verdener!*(*) Alláh-u-Abhá.
 
 -- Bahá'u'lláh
 
-bpn3490 «[Norsk](../no/prayers/#bpn3490)» 
+bpn3490 
 
 ----
 
@@ -537,7 +538,7 @@ Vi ber til Gud om at han nådigst må hjelpe dem som er ført vill til å være 
 
 -- Bahá'u'lláh
 
-bpn3520 «[Norsk](../no/prayers/#bpn3520)» 
+bpn3520 
 
 ----
 
@@ -547,7 +548,7 @@ bpn3520 «[Norsk](../no/prayers/#bpn3520)»
 
 -- Bahá'u'lláh
 
-bpn3521 «[Norsk](../no/prayers/#bpn3521)» 
+bpn3521 
 
 ----
 
@@ -561,7 +562,7 @@ Forherliget være du, o min Gud! Se -mitt hode er rede til å falle for din vilj
 
 -- Bahá'u'lláh
 
-bpn3522 «[Norsk](../no/prayers/#bpn3522)» 
+bpn3522 
 
 ----
 
@@ -575,7 +576,7 @@ Gud bevitner at han er en i sin guddommelighet og ett i sitt vesen. Fra evighete
 
 -- Bahá'u'lláh
 
-bpn3523 «[Norsk](../no/prayers/#bpn3523)» 
+bpn3523 
 
 ----
 
@@ -585,7 +586,7 @@ Min Gud, du som jeg ærer og tilber, du som er sterkest! Jeg bevitner at ingen s
 
 -- Bahá'u'lláh
 
-bpn3524 «[Norsk](../no/prayers/#bpn3524)» 
+bpn3524 
 
 ----
 
@@ -595,7 +596,7 @@ O du hvis ihukommelse er sjelens fryd for alle dem som lengter etter deg, hvis n
 
 -- Bahá'u'lláh
 
-bpn3525 «[Norsk](../no/prayers/#bpn3525)» 
+bpn3525 
 
 ----
 
@@ -605,7 +606,7 @@ Priset være ditt navn, o min Gud! Jeg bevitner at ingen forestilling om deg, hv
 
 -- Bahá'u'lláh
 
-bpn3526 «[Norsk](../no/prayers/#bpn3526)» 
+bpn3526 
 
 ----
 
@@ -619,7 +620,7 @@ Forherliget er du, o min Gud! Jeg takker deg for at du har gjort kjent for meg h
 
 -- Bahá'u'lláh
 
-bpn3528 «[Norsk](../no/prayers/#bpn3528)» 
+bpn3528 
 
 ----
 
@@ -629,7 +630,7 @@ O Gud, og alle navns Gud, og himlenes skaper! Jeg bønnfaller deg ved ditt navn 
 
 -- Bahá'u'lláh
 
-bpn3529 «[Norsk](../no/prayers/#bpn3529)» 
+bpn3529 
 
 ----
 
@@ -639,7 +640,7 @@ Priset være ditt navn, o min Gud! Jeg bønnfaller deg ved duften fra din nådes
 
 -- Bahá'u'lláh
 
-bpn3530 «[Norsk](../no/prayers/#bpn3530)» 
+bpn3530 
 
 ----
 
@@ -649,7 +650,7 @@ Tillat meg, o min Gud, å komme deg nær og å dvele innenfor ditt kongesetes en
 
 -- Bahá'u'lláh
 
-bpn3531 «[Norsk](../no/prayers/#bpn3531)» 
+bpn3531 
 
 ----
 
@@ -659,7 +660,7 @@ O Herre! Hen til deg tyr jeg for å finne tilflukt, og henimot alle dine tegn ve
 
 -- Báb
 
-bpn3527 «[Norsk](../no/prayers/#bpn3527)» 
+bpn3527 
 
 ----
 
@@ -673,7 +674,7 @@ Min Gud, som jeg tilber og ærer! Jeg bevitner din enhet og at du er en, og erkj
 
 -- Bahá'u'lláh
 
-bpn3533 «[Norsk](../no/prayers/#bpn3533)» 
+bpn3533 
 
 ----
 
@@ -683,7 +684,7 @@ O Gud, min Gud! Din nåde har gjort meg dristig, og din rettferdighet har fylt m
 
 -- Bahá'u'lláh
 
-bpn3534 «[Norsk](../no/prayers/#bpn3534)» 
+bpn3534 
 
 ----
 
@@ -693,7 +694,7 @@ O du som er herrenes Herre! Jeg bevitner at du er hele skapningens Herre, og opp
 
 -- Bahá'u'lláh
 
-bpn3535 «[Norsk](../no/prayers/#bpn3535)» 
+bpn3535 
 
 ----
 
@@ -703,7 +704,7 @@ O Herre! Gjør det mulig for alle jordens folkeslag å oppnå adgang til din tro
 
 -- Báb
 
-bpn3532 «[Norsk](../no/prayers/#bpn3532)» 
+bpn3532 
 
 ----
 
@@ -713,7 +714,7 @@ O du gode Herre! Du har frembragt hele menneskeslekten fra samme stamfar. Du har
 
 -- Abdu'l-Bahá
 
-bpn3536 «[Norsk](../no/prayers/#bpn3536)» 
+bpn3536 
 
 ----
 
@@ -723,11 +724,11 @@ bpn3536 «[Norsk](../no/prayers/#bpn3536)»
 ## Middels lang obligatorisk bønn
 
 <a id="bpn3489"></a> 
-*Fremsies daglig, morgen, middag og aften.*La den som ønsker å be, vaske hendene, og mens han vasker dem, la ham si: Styrk min hånd, o min Gud, så den kan gripe din Bok med en slik standhaftighet at verdens skarer ikke skal ha noen makt over den. Bevar den så fra å røre noe som helst som ikke hører den til. Du er i sannhet den allmektige, den sterkeste. *Og la ham si mens han vasker ansiktet:Jeg har vendt mitt ansikt mot deg, o min Herre! Gjør det forklaret ved ditt åsyns lys. Bevar det så fra å vende seg mot noen annen enn deg. *La ham så reise seg og si, med ansiktet vendt mot qiblih (*):Gud bevitner at der ikke er noen annen Gud enn ham. Ham tilhører åpenbaringens og skapningens riker. Han har i sannhet manifestert ham som er åpenbaringens morgengry, som samtalte på Sinai, ved hvem den høyeste horisont er bragt til å skinne og Lotustreet ved veis ende har talt, og ved hvem denne kallen har lydt for alle som er i himmel og på jord: &#34;Se, den altbesittende er kommet. Jord og himmel, herlighet og herredømme tilhører Gud, alle menneskers Herre og besitteren av Tronen i det høye og jorden der nede!&#34; *La ham så, med hendene hvilende på knærne, bøye seg og si:Opphøyet er du over min lovprisning og den lovprisning som noen som helst utenom meg kan ytre, over min beskrivelse og den beskrivelse som alle i himmelen og alle på jorden måtte gi! *La ham deretter, stående med åpne hender og med håndflatene vendt oppover mot ansiktet, si:O min Gud, la ikke ham bli skuffet som med bønnfallende hender har klynget seg til din barmhjertighets og nådes kjortelsøm, o du som er den mest barmhjertige av dem som viser barmhjertighet! *La ham så sette seg og si:Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er noen annen Gud utenom deg. Du har i sannhet åpenbart din Sak, oppfylt din Pakt og slått din nådes porter vidt opp for alle som bor i himmel og på jord. Måtte velsignelse og fred, hyllest og ære hvile over dem du elsker, dem som verdens omskiftelser og tilfeldigheter ikke har avskrekket fra å vende seg mot deg, og som har gitt alt de eide, i håp om å oppnå det som er hos deg. Du er i sannhet den evig tilgivende, den overmåte gavmilde. *(Om noen i stedet for det lengre vers skulle velge å fremsi disse ord: &#34;Gud bevitner at der ikke er noen annen Gud enn ham, hjelperen i fare, den selvbestående,&#34; så ville det være tilstrekkelig. Det vil likeledes være tilstrekkelig om vedkommende mens han sitter velger å fremsi disse ord: &#34;Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er noen annen Gud utenom deg.&#34;)*(*) Tilbedelsens punkt, dvs. Bahjí, Akka.
+*Fremsies daglig, morgen, middag og aften.*La den som ønsker å be, vaske hendene, og mens han vasker dem, la ham si: Styrk min hånd, o min Gud, så den kan gripe din Bok med en slik standhaftighet at verdens skarer ikke skal ha noen makt over den. Bevar den så fra å røre noe som helst som ikke hører den til. Du er i sannhet den allmektige, den sterkeste. *Og la ham si mens han vasker ansiktet:Jeg har vendt mitt ansikt mot deg, o min Herre! Gjør det forklaret ved ditt åsyns lys. Bevar det så fra å vende seg mot noen annen enn deg. *La ham så reise seg og si, med ansiktet vendt mot qiblih (*):Gud bevitner at der ikke er noen annen Gud enn ham. Ham tilhører åpenbaringens og skapningens riker. Han har i sannhet manifestert ham som er åpenbaringens morgengry, som samtalte på Sinai, ved hvem den høyeste horisont er bragt til å skinne og Lotustreet ved veis ende har talt, og ved hvem denne kallen har lydt for alle som er i himmel og på jord: "Se, den altbesittende er kommet. Jord og himmel, herlighet og herredømme tilhører Gud, alle menneskers Herre og besitteren av Tronen i det høye og jorden der nede!" *La ham så, med hendene hvilende på knærne, bøye seg og si:Opphøyet er du over min lovprisning og den lovprisning som noen som helst utenom meg kan ytre, over min beskrivelse og den beskrivelse som alle i himmelen og alle på jorden måtte gi! *La ham deretter, stående med åpne hender og med håndflatene vendt oppover mot ansiktet, si:O min Gud, la ikke ham bli skuffet som med bønnfallende hender har klynget seg til din barmhjertighets og nådes kjortelsøm, o du som er den mest barmhjertige av dem som viser barmhjertighet! *La ham så sette seg og si:Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er noen annen Gud utenom deg. Du har i sannhet åpenbart din Sak, oppfylt din Pakt og slått din nådes porter vidt opp for alle som bor i himmel og på jord. Måtte velsignelse og fred, hyllest og ære hvile over dem du elsker, dem som verdens omskiftelser og tilfeldigheter ikke har avskrekket fra å vende seg mot deg, og som har gitt alt de eide, i håp om å oppnå det som er hos deg. Du er i sannhet den evig tilgivende, den overmåte gavmilde. *(Om noen i stedet for det lengre vers skulle velge å fremsi disse ord: "Gud bevitner at der ikke er noen annen Gud enn ham, hjelperen i fare, den selvbestående," så ville det være tilstrekkelig. Det vil likeledes være tilstrekkelig om vedkommende mens han sitter velger å fremsi disse ord: "Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er noen annen Gud utenom deg.")*(*) Tilbedelsens punkt, dvs. Bahjí, Akka.
 
 -- Bahá'u'lláh
 
-bpn3489 «[Norsk](../no/prayers/#bpn3489)» 
+bpn3489 
 
 ----
 
@@ -741,7 +742,7 @@ O sannhetssøker! Hvis du ønsker at Gud skal åpne ditt øye, må du bønnfalle
 
 -- Abdu'l-Bahá
 
-bpn3537 «[Norsk](../no/prayers/#bpn3537)» 
+bpn3537 
 
 ----
 
@@ -755,7 +756,7 @@ O du barmhjertige Gud! O du  end t mektig og sterk! O du kjærligste Far! Disse 
 
 -- Abdu'l-Bahá
 
-bpn3593 «[Norsk](../no/prayers/#bpn3593)» 
+bpn3593 
 
 ----
 
@@ -765,7 +766,7 @@ O du gode Herre! Dette er dine tjenere som har samlet seg I dette møte, har ven
 
 -- Abdu'l-Bahá
 
-bpn3594 «[Norsk](../no/prayers/#bpn3594)» 
+bpn3594 
 
 ----
 
@@ -775,7 +776,7 @@ O Gud, min Gud! Vi er dine tjenere som har  end tossNår dere går inn I rådsv�
 
 -- Abdu'l-Bahá
 
-bpn3595 «[Norsk](../no/prayers/#bpn3595)» 
+bpn3595 
 
 ----
 
@@ -785,7 +786,7 @@ Gjør våre trinn faste på din vei, o Herre,og styrk du våre hjerter i lydighe
 
 -- Abdu'l-Bahá
 
-bpn3592 «[Norsk](../no/prayers/#bpn3592)» 
+bpn3592 
 
 ----
 
@@ -795,11 +796,11 @@ bpn3592 «[Norsk](../no/prayers/#bpn3592)»
 ## Naw-rúz
 
 <a id="bpn3596"></a> 
-*Naw-rúz, den 21. mars, er den første dag i bahá&#39;í året, en gledens dag.  Lovet være du, o min Gud, for at du har forordnet naw-rúz som en høytid for dem som har holdt fasten av kjærlighet til deg og avholdt seg fra alt som er avskyelig for deg. Gi, o min Herre, at din kjærlighets ild og varmen fremkalt av fasten som du har påbudt, kan oppflamme dem for din Sak, og gjøre dem beskjeftiget med å prise deg og ihukomme deg. Siden du har prydet dem, o min Herre, med smykket av den faste som du har foreskrevet, så pryd dem også med din anerkjennelses smykke, ved din nåde og rike gunst. For menneskenes gjerninger er alle avhengige av ditt velbehag, og er betinget av din befaling. Skulle du betrakte den som har brutt fasten som en som hadde holdt den, så ville et slikt menneske bli regnet blant dem som fra evighet hadde holdt fasten. Og skulle du bestemme at den som har holdt fasten har brutt den, så ville dette mennesket bli talt blant slike som har forårsaket at din åpenbarings kappe ble tilsmusset av støv, og som er blitt ført langt bort fra denne levende kildes krystallklare vann. Du er den ved hvem fanen &#34;Prisverdig er du i dine gjerninger&#34; er blitt hevet, og banneret &#34;Adlydt blir du i din befaling&#34; er utfoldet. Gjør denne din stilling kjent for dine tjenere, o min Gud, slik at de kan bli gjort oppmerksom på at alle tings fortreffelighet er avhengig av din befaling og ditt ord, og at enhver handlings verdi er betinget av din tillatelse og din viljes velbehag, og slik at de kan erkjenne at de menneskelige gjerningers tøyler ligger i din anerkjennelses og befalings grep. Gjør dette kjent for dem, slik at intet som helst kan stenge dem ute fra din skjønnhet, i disse dager da Kristus utbryter: &#34;All herskermakt ligger hos deg, o du Åndens (*) Far&#34;, og din Venn (**) roper ut: &#34;Ære være deg, o høyst-elskede, for at du har avdekket din Skjønnhet og nedskrevet for dine utvalgte det som vil gjøre at de når frem til setet for åpenbaringen av ditt Største Navn, ved hvilket alle folkeslag har jamret seg, med unntak av slike som har løsrevet seg fra alt annet enn deg og vendt seg mot ham som er åpenbareren av deg selv og manifestasjonen av dine egenskaper.&#34; Han som er din Gren, og hele ditt følge, o min Herre, har i dag brutt sin faste etter å ha overholdt den innenfor ditt kongesetes enemerker, og i sin iver etter å behage deg. Bestem du for ham, og for dem, og for alle slike som har trådt inn i ditt nærvær i disse dager, alt det gode som du forordnet i din Bok. Gi dem så det som vil være dem til gavn både i dette liv og i livet hinsides. Du er i sannhet den allvitende, den allvise.*(*) Jesus (**) Muhammed
+*Naw-rúz, den 21. mars, er den første dag i bahá'í året, en gledens dag.  Lovet være du, o min Gud, for at du har forordnet naw-rúz som en høytid for dem som har holdt fasten av kjærlighet til deg og avholdt seg fra alt som er avskyelig for deg. Gi, o min Herre, at din kjærlighets ild og varmen fremkalt av fasten som du har påbudt, kan oppflamme dem for din Sak, og gjøre dem beskjeftiget med å prise deg og ihukomme deg. Siden du har prydet dem, o min Herre, med smykket av den faste som du har foreskrevet, så pryd dem også med din anerkjennelses smykke, ved din nåde og rike gunst. For menneskenes gjerninger er alle avhengige av ditt velbehag, og er betinget av din befaling. Skulle du betrakte den som har brutt fasten som en som hadde holdt den, så ville et slikt menneske bli regnet blant dem som fra evighet hadde holdt fasten. Og skulle du bestemme at den som har holdt fasten har brutt den, så ville dette mennesket bli talt blant slike som har forårsaket at din åpenbarings kappe ble tilsmusset av støv, og som er blitt ført langt bort fra denne levende kildes krystallklare vann. Du er den ved hvem fanen "Prisverdig er du i dine gjerninger" er blitt hevet, og banneret "Adlydt blir du i din befaling" er utfoldet. Gjør denne din stilling kjent for dine tjenere, o min Gud, slik at de kan bli gjort oppmerksom på at alle tings fortreffelighet er avhengig av din befaling og ditt ord, og at enhver handlings verdi er betinget av din tillatelse og din viljes velbehag, og slik at de kan erkjenne at de menneskelige gjerningers tøyler ligger i din anerkjennelses og befalings grep. Gjør dette kjent for dem, slik at intet som helst kan stenge dem ute fra din skjønnhet, i disse dager da Kristus utbryter: "All herskermakt ligger hos deg, o du Åndens (*) Far", og din Venn (**) roper ut: "Ære være deg, o høyst-elskede, for at du har avdekket din Skjønnhet og nedskrevet for dine utvalgte det som vil gjøre at de når frem til setet for åpenbaringen av ditt Største Navn, ved hvilket alle folkeslag har jamret seg, med unntak av slike som har løsrevet seg fra alt annet enn deg og vendt seg mot ham som er åpenbareren av deg selv og manifestasjonen av dine egenskaper." Han som er din Gren, og hele ditt følge, o min Herre, har i dag brutt sin faste etter å ha overholdt den innenfor ditt kongesetes enemerker, og i sin iver etter å behage deg. Bestem du for ham, og for dem, og for alle slike som har trådt inn i ditt nærvær i disse dager, alt det gode som du forordnet i din Bok. Gi dem så det som vil være dem til gavn både i dette liv og i livet hinsides. Du er i sannhet den allvitende, den allvise.*(*) Jesus (**) Muhammed
 
 -- Bahá'u'lláh
 
-bpn3596 «[Norsk](../no/prayers/#bpn3596)» 
+bpn3596 
 
 ----
 
@@ -813,7 +814,7 @@ Morgen Jeg har våknet under din beskyttelse, o min Gud, og det sømmer seg for 
 
 -- Bahá'u'lláh
 
-bpn3538 «[Norsk](../no/prayers/#bpn3538)» 
+bpn3538 
 
 ----
 
@@ -823,7 +824,7 @@ O min Gud og min Mester! Jeg er din tjener og sønn av din tjener. Jeg stod opp 
 
 -- Bahá'u'lláh
 
-bpn3539 «[Norsk](../no/prayers/#bpn3539)» 
+bpn3539 
 
 ----
 
@@ -837,7 +838,7 @@ Lovpriset være ditt navn, o du som har grepet sjelens tøyler hos alle dem som 
 
 -- Bahá'u'lláh
 
-bpn3542 «[Norsk](../no/prayers/#bpn3542)» 
+bpn3542 
 
 ----
 
@@ -847,7 +848,7 @@ O du hvis prøvelser er et middel til legedom for dem som er deg nær, hvis sver
 
 -- Bahá'u'lláh
 
-bpn3543 «[Norsk](../no/prayers/#bpn3543)» 
+bpn3543 
 
 ----
 
@@ -857,7 +858,7 @@ Priset og forherliget er du, o min Gud! Jeg trygler deg ved sukkene fra dem som 
 
 -- Bahá'u'lláh
 
-bpn3544 «[Norsk](../no/prayers/#bpn3544)» 
+bpn3544 
 
 ----
 
@@ -867,7 +868,7 @@ bpn3544 «[Norsk](../no/prayers/#bpn3544)»
 
 -- Bahá'u'lláh
 
-bpn3545 «[Norsk](../no/prayers/#bpn3545)» 
+bpn3545 
 
 ----
 
@@ -877,7 +878,7 @@ Finnes det noen som fjerner vanskeligheter uten Gud? Si: Lovet være Gud! Han er
 
 -- Báb
 
-bpn3540 «[Norsk](../no/prayers/#bpn3540)» 
+bpn3540 
 
 ----
 
@@ -887,7 +888,7 @@ Si: Gud er alle ting tilstrekkelig fremfor alle ting, og intet i himlene eller p
 
 -- Báb
 
-bpn3541 «[Norsk](../no/prayers/#bpn3541)» 
+bpn3541 
 
 ----
 
@@ -897,7 +898,7 @@ Han er den medlidende, den overmåte gavmilde! O Gud, min Gud! Du ser meg, du kj
 
 -- Abdu'l-Bahá
 
-bpn3546 «[Norsk](../no/prayers/#bpn3546)» 
+bpn3546 
 
 ----
 
@@ -911,7 +912,7 @@ Si: O Gud, min Gud! Pryd mitt hode med rettferdighetens krone og ikle mitt tempe
 
 -- Bahá'u'lláh
 
-bpn3547 «[Norsk](../no/prayers/#bpn3547)» 
+bpn3547 
 
 ----
 
@@ -925,7 +926,7 @@ Lys og herlighet, hyllest og lovprisning være over hans Saks Hender, ved hvem s
 
 -- Bahá'u'lláh
 
-bpn3597 «[Norsk](../no/prayers/#bpn3597)» 
+bpn3597 
 
 ----
 
@@ -939,7 +940,7 @@ Forherliget være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved din makt s
 
 -- Bahá'u'lláh
 
-bpn3548 «[Norsk](../no/prayers/#bpn3548)» 
+bpn3548 
 
 ----
 
@@ -949,7 +950,7 @@ O du hvis nærhet er mitt ønske, hvis nærvær er mitt håp, hvis ihukommelse e
 
 -- Bahá'u'lláh
 
-bpn3549 «[Norsk](../no/prayers/#bpn3549)» 
+bpn3549 
 
 ----
 
@@ -959,7 +960,7 @@ O medlidende Gud! Deg skje takk for at du har vekket meg og gjort meg bevisst. D
 
 -- Abdu'l-Bahá
 
-bpn3550 «[Norsk](../no/prayers/#bpn3550)» 
+bpn3550 
 
 ----
 
@@ -973,7 +974,7 @@ Min Herre! Min Herre! Jeg priser deg og jeg takker deg for det hvormed du har be
 
 -- Abdu'l-Bahá
 
-bpn3599 «[Norsk](../no/prayers/#bpn3599)» 
+bpn3599 
 
 ----
 
@@ -983,11 +984,11 @@ bpn3599 «[Norsk](../no/prayers/#bpn3599)»
 ## Tilgivelse
 
 <a id="bpn3552"></a> 
-Du ser meg, o min Herre, med mitt ansikt vendt mot din gavmildhets himmel og din velviljes osean, løst fra alt unntatt deg. Jeg ber deg, ved strålene fra solen av din åpenbaring på Sinai, og ved glansen fra din nådes dagstjerne som skinner fra ditt navns horisont: den evig tilgivende, om å gi meg din forlatelse, og om å ha barmhjertighet med meg. Skriv så ned for meg, med din herlighets penn, det som vil opphøye meg ved ditt navn i skapningens verden. Hjelp meg, o min Herre, til å vende meg mot deg, og til å lytte til dine elskedes røst, som jordens makter ikke har evnet å svekke, og som nasjonenes herredømme ikke har maktet å holde borte fra deg, og som, idet de gikk fremover henimot deg, har sagt: &#34;Gud er vår Herre, Herren over alle som er i himmelen og alle som er på jorden!
+Du ser meg, o min Herre, med mitt ansikt vendt mot din gavmildhets himmel og din velviljes osean, løst fra alt unntatt deg. Jeg ber deg, ved strålene fra solen av din åpenbaring på Sinai, og ved glansen fra din nådes dagstjerne som skinner fra ditt navns horisont: den evig tilgivende, om å gi meg din forlatelse, og om å ha barmhjertighet med meg. Skriv så ned for meg, med din herlighets penn, det som vil opphøye meg ved ditt navn i skapningens verden. Hjelp meg, o min Herre, til å vende meg mot deg, og til å lytte til dine elskedes røst, som jordens makter ikke har evnet å svekke, og som nasjonenes herredømme ikke har maktet å holde borte fra deg, og som, idet de gikk fremover henimot deg, har sagt: "Gud er vår Herre, Herren over alle som er i himmelen og alle som er på jorden!
 
 -- Bahá'u'lláh
 
-bpn3552 «[Norsk](../no/prayers/#bpn3552)» 
+bpn3552 
 
 ----
 
@@ -997,7 +998,7 @@ Jeg er, o min Herre, den som har vendt sitt ansikt mot deg og satt sitt håp til
 
 -- Bahá'u'lláh
 
-bpn3553 «[Norsk](../no/prayers/#bpn3553)» 
+bpn3553 
 
 ----
 
@@ -1007,7 +1008,7 @@ Priset være ditt navn, o min Gud og alle tings Gud, min herlighet og alle tings
 
 -- Bahá'u'lláh
 
-bpn3554 «[Norsk](../no/prayers/#bpn3554)» 
+bpn3554 
 
 ----
 
@@ -1017,7 +1018,7 @@ Lovet være du, o Herre. Tilgi oss våre synder, ha barmhjertighet med oss og gj
 
 -- Báb
 
-bpn3551 «[Norsk](../no/prayers/#bpn3551)» 
+bpn3551 
 
 ----
 
@@ -1031,7 +1032,7 @@ All ære være deg, o min Gud, som er kilden til all herlighet og velde, til sto
 
 -- Bahá'u'lláh
 
-bpn3557 «[Norsk](../no/prayers/#bpn3557)» 
+bpn3557 
 
 ----
 
@@ -1041,7 +1042,7 @@ Lovpriset være ditt navn, o min Gud, for at du har åpenbart den Dag som er dag
 
 -- Bahá'u'lláh
 
-bpn3558 «[Norsk](../no/prayers/#bpn3558)» 
+bpn3558 
 
 ----
 
@@ -1051,7 +1052,7 @@ O Gud, som er opphavet til alle manifestasjoner, kilden til alle kilder, opprinn
 
 -- Bahá'u'lláh
 
-bpn3559 «[Norsk](../no/prayers/#bpn3559)» 
+bpn3559 
 
 ----
 
@@ -1061,7 +1062,7 @@ O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil 
 
 -- Bahá'u'lláh
 
-bpn3560 «[Norsk](../no/prayers/#bpn3560)» 
+bpn3560 
 
 ----
 
@@ -1071,7 +1072,7 @@ bpn3560 «[Norsk](../no/prayers/#bpn3560)»
 
 -- Bahá'u'lláh
 
-bpn3561 «[Norsk](../no/prayers/#bpn3561)» 
+bpn3561 
 
 ----
 
@@ -1081,7 +1082,7 @@ bpn3561 «[Norsk](../no/prayers/#bpn3561)»
 
 -- Bahá'u'lláh
 
-bpn3562 «[Norsk](../no/prayers/#bpn3562)» 
+bpn3562 
 
 ----
 
@@ -1091,7 +1092,7 @@ Priset være ditt navn, o Gud. Du er i sannhet vår Herre; du er oppmerksom på 
 
 -- Báb
 
-bpn3555 «[Norsk](../no/prayers/#bpn3555)» 
+bpn3555 
 
 ----
 
@@ -1101,17 +1102,17 @@ bpn3555 «[Norsk](../no/prayers/#bpn3555)»
 
 -- Báb
 
-bpn3556 «[Norsk](../no/prayers/#bpn3556)» 
+bpn3556 
 
 ----
 
 
 <a id="bpn3563"></a> 
-O du gode Herre! Lovet være du for at du har vist oss ledelsens vei, åpnet rikets dører og åpenbart deg gjennom virkelighetens sol. Til de blinde har du gitt syn; til de døve har du skjenket hørsel; du har gjenoppvekket de døde; du har gjort de fattige rike; du har vist veien for dem som er kommet på avveier; du har ledet dem som har uttørrede lepper til ledelsens kilde; du har tillatt de tørstende fisker å nå virkelighetens osean; og du har innbudt de flakkende fugler til nådens rosenhave. O du allmektige! Vi er dine tjenere og dine fattige; vi er langt borte og lengter etter ditt nærvær; vi tørster etter vannet fra din kilde; vi er syke og lengter etter din helbredelse. Vi vandrer på din sti og har intet annet mål eller håp enn å spre din vellukt, slik at alle sjeler kan rope ut: &#34;O Gud, led oss til den strake vei.&#34; Måtte deres øyne bli åpnet slik at de kan se lyset, og måtte de bli befridd fra uvitenhetens mørke. Måtte de samle seg rundt din ledelses lampe. Måtte enhver som er tomhendt motta sin del. Måtte de berøvede bli fortrolige med dine mysterier. O allmektige! Se på oss med barmhjertighetens blikk. Tilstå oss guddommelig bekreftelse. Skjenk oss den Hellige Ånds inspirasjon, så at vi kan vi kan bli hjulpet i din tjeneste, og, lik tindrende stjerner, skinne med din ledelses lys i disse egner. Sannelig, du er den sterke, den mektige, den vise og den seende.
+O du gode Herre! Lovet være du for at du har vist oss ledelsens vei, åpnet rikets dører og åpenbart deg gjennom virkelighetens sol. Til de blinde har du gitt syn; til de døve har du skjenket hørsel; du har gjenoppvekket de døde; du har gjort de fattige rike; du har vist veien for dem som er kommet på avveier; du har ledet dem som har uttørrede lepper til ledelsens kilde; du har tillatt de tørstende fisker å nå virkelighetens osean; og du har innbudt de flakkende fugler til nådens rosenhave. O du allmektige! Vi er dine tjenere og dine fattige; vi er langt borte og lengter etter ditt nærvær; vi tørster etter vannet fra din kilde; vi er syke og lengter etter din helbredelse. Vi vandrer på din sti og har intet annet mål eller håp enn å spre din vellukt, slik at alle sjeler kan rope ut: "O Gud, led oss til den strake vei." Måtte deres øyne bli åpnet slik at de kan se lyset, og måtte de bli befridd fra uvitenhetens mørke. Måtte de samle seg rundt din ledelses lampe. Måtte enhver som er tomhendt motta sin del. Måtte de berøvede bli fortrolige med dine mysterier. O allmektige! Se på oss med barmhjertighetens blikk. Tilstå oss guddommelig bekreftelse. Skjenk oss den Hellige Ånds inspirasjon, så at vi kan vi kan bli hjulpet i din tjeneste, og, lik tindrende stjerner, skinne med din ledelses lys i disse egner. Sannelig, du er den sterke, den mektige, den vise og den seende.
 
 -- Abdu'l-Bahá
 
-bpn3563 «[Norsk](../no/prayers/#bpn3563)» 
+bpn3563 
 
 ----
 
@@ -1121,7 +1122,7 @@ O du uforlignelige Gud! O du kongerikets Herre! Disse sjeler er din himmelske h�
 
 -- Abdu'l-Bahá
 
-bpn3564 «[Norsk](../no/prayers/#bpn3564)» 
+bpn3564 
 
 ----
 
@@ -1131,7 +1132,7 @@ O Gud, min Gud! Du ser meg - jeg er henrevet og drages mot ditt herlige rike, je
 
 -- Abdu'l-Bahá
 
-bpn3565 «[Norsk](../no/prayers/#bpn3565)» 
+bpn3565 
 
 ----
 
@@ -1141,7 +1142,7 @@ O Gud! O Gud! Du ser min svakhet, beskjedenhet og ydmykhet overfor dine skapning
 
 -- Abdu'l-Bahá
 
-bpn3566 «[Norsk](../no/prayers/#bpn3566)» 
+bpn3566 
 
 ----
 
@@ -1151,7 +1152,7 @@ O Gud! O Gud! Dette er en vingestekket fugl, og dens flukt er meget langsom. Hje
 
 -- Abdu'l-Bahá
 
-bpn3567 «[Norsk](../no/prayers/#bpn3567)» 
+bpn3567 
 
 ----
 
@@ -1161,7 +1162,7 @@ O min Gud! O min Gud! Du ser meg i min ringhet og svakhet, beskjeftiget med dett
 
 -- Abdu'l-Bahá
 
-bpn3568 «[Norsk](../no/prayers/#bpn3568)» 
+bpn3568 
 
 ----
 
@@ -1175,7 +1176,7 @@ Lovet være du, o Herre min Gud, min Mester! Du hører de klagende sukk fra dem 
 
 -- Bahá'u'lláh
 
-bpn3570 «[Norsk](../no/prayers/#bpn3570)» 
+bpn3570 
 
 ----
 
@@ -1185,7 +1186,7 @@ bpn3570 «[Norsk](../no/prayers/#bpn3570)»
 
 -- Bahá'u'lláh
 
-bpn3571 «[Norsk](../no/prayers/#bpn3571)» 
+bpn3571 
 
 ----
 
@@ -1195,7 +1196,7 @@ Jeg bønnfaller deg ved lysglansen fra ditt herlige åsyn, ved din urgamle storh
 
 -- Báb
 
-bpn3569 «[Norsk](../no/prayers/#bpn3569)» 
+bpn3569 
 
 ----
 
@@ -1205,11 +1206,11 @@ bpn3569 «[Norsk](../no/prayers/#bpn3569)»
 ## Vielse
 
 <a id="bpn3600"></a> 
-*&#34;Bahá&#39;í ekteskap er forening og inderlig hengivenhet mellom de to ter. De må imidlertid utvise den største omhu og lære hverandres karakter å kjenne. Dette evige bånd bør stadfestes av en fast pakt, og hensikten bør være å frembringe harmoni, vennskap og enhet og å oppnå evig liv.&#34; - Abdu&#39;l-Bahá -Ekteskapsløftet - de ord som skal sies av bruden og brudgommen enkeltvis i nærvær av minst to vitner godkjent av det Lokale Råd -er, som foreskrevet i &#34;Ki-i-Aqdas&#34; (&#34;Den Helligste Bok&#34;): &#34;Sannelig, vi vil alle holde fast ved Guds vilje.&#34; Han er giveren, den gavmilde! Lovet være Gud, den urgamle, den evindelige, den uforanderlige, den evige! Han som i sitt eget vesen har bevitnet at han i sannhet er den ene, den eneste, den uhindrede, den opphøyede. Vi vitner om at sannelig, der er ingen annen Gud enn ham, og vi erkjenner hans enhet, bekjenner at han er en. Han har alltid hatt tilhold i utilgjengelige høyder, på sin opphøyethets tinde, helliggjort fra omtale av noen unntatt ham selv, fri fra beskrivelse av noen annen enn ham. Og da han ønsket å vise nåde og velgjørenhet overfor menneskene, og å skape orden i verden, åpenbarte han forordninger og skapte lover; deriblant innstiftet han loven om ekteskap, gjorde den til en velværets og frelsens festning og påla oss den i det som ble sendt ned fra hellighetens himmel i hans Helligste Bok. Han sier, stor er hans herlighet: &#34;Inngå ekteskap, o mennesker, så det fra dere kan fremstå den som vil minnes meg blant mine tjenere; dette er ett av mine bud til dere; adlyd det som en hjelp for dere selv.&#34;
+*"Bahá'í ekteskap er forening og inderlig hengivenhet mellom de to ter. De må imidlertid utvise den største omhu og lære hverandres karakter å kjenne. Dette evige bånd bør stadfestes av en fast pakt, og hensikten bør være å frembringe harmoni, vennskap og enhet og å oppnå evig liv." - Abdu'l-Bahá -Ekteskapsløftet - de ord som skal sies av bruden og brudgommen enkeltvis i nærvær av minst to vitner godkjent av det Lokale Råd -er, som foreskrevet i "Ki-i-Aqdas" ("Den Helligste Bok"): "Sannelig, vi vil alle holde fast ved Guds vilje." Han er giveren, den gavmilde! Lovet være Gud, den urgamle, den evindelige, den uforanderlige, den evige! Han som i sitt eget vesen har bevitnet at han i sannhet er den ene, den eneste, den uhindrede, den opphøyede. Vi vitner om at sannelig, der er ingen annen Gud enn ham, og vi erkjenner hans enhet, bekjenner at han er en. Han har alltid hatt tilhold i utilgjengelige høyder, på sin opphøyethets tinde, helliggjort fra omtale av noen unntatt ham selv, fri fra beskrivelse av noen annen enn ham. Og da han ønsket å vise nåde og velgjørenhet overfor menneskene, og å skape orden i verden, åpenbarte han forordninger og skapte lover; deriblant innstiftet han loven om ekteskap, gjorde den til en velværets og frelsens festning og påla oss den i det som ble sendt ned fra hellighetens himmel i hans Helligste Bok. Han sier, stor er hans herlighet: "Inngå ekteskap, o mennesker, så det fra dere kan fremstå den som vil minnes meg blant mine tjenere; dette er ett av mine bud til dere; adlyd det som en hjelp for dere selv."
 
 -- Bahá'u'lláh
 
-bpn3600 «[Norsk](../no/prayers/#bpn3600)» 
+bpn3600 
 
 ----
 
@@ -1219,17 +1220,17 @@ SvangerskapMin Herre! Min Herre! Jeg priser deg og jeg takker deg for det hvorme
 
 -- Abdu'l-Bahá
 
-bpn3598 «[Norsk](../no/prayers/#bpn3598)» 
+bpn3598 
 
 ----
 
 
 <a id="bpn3601"></a> 
-Han er Gud! O uforlignelige Herre! I din allmektige visdom har du pålagt folkene ekteskap, så at generasjonene kan etterfølge hverandre i denne timelige verden, og så at de, så lenge verden skal bestå, alltid kan være beskjeftiget ved din enhets terskel med tjeneste og tilbedelse, med hyllest, tilkjennegivelse av ærefrykt, og lovprisning. &#34;Jeg har ikke skapt ånder og mennesker for annet enn at de skulle tilbe meg.&#34; Måtte du derfor i din barmhjertighets himmel vie disse to fugler fra din kjærlighets rede og gjøre dem til et middel til å tiltrekke evig nåde, slik at det fra foreningen av disse to kjærlighetens sjøer kan heve seg en bølge av ømhet som skyller det rene og gode avkoms perler opp på livets strand. &#34;Han har latt de to sjøer flyte fritt, så at de skal møte hverandre: mellom dem er det et skille som de ikke overskrider. Hvilken av deres Herres velgjerninger vil dere da benekte? Fra hver av dem henter han opp større og mindre perler.&#34; O du gode Herre! La du dette ekteskap frembringe koraller og perler. Du er i sannhet den allmektige, den største, den evig tilgivende.
+Han er Gud! O uforlignelige Herre! I din allmektige visdom har du pålagt folkene ekteskap, så at generasjonene kan etterfølge hverandre i denne timelige verden, og så at de, så lenge verden skal bestå, alltid kan være beskjeftiget ved din enhets terskel med tjeneste og tilbedelse, med hyllest, tilkjennegivelse av ærefrykt, og lovprisning. "Jeg har ikke skapt ånder og mennesker for annet enn at de skulle tilbe meg." Måtte du derfor i din barmhjertighets himmel vie disse to fugler fra din kjærlighets rede og gjøre dem til et middel til å tiltrekke evig nåde, slik at det fra foreningen av disse to kjærlighetens sjøer kan heve seg en bølge av ømhet som skyller det rene og gode avkoms perler opp på livets strand. "Han har latt de to sjøer flyte fritt, så at de skal møte hverandre: mellom dem er det et skille som de ikke overskrider. Hvilken av deres Herres velgjerninger vil dere da benekte? Fra hver av dem henter han opp større og mindre perler." O du gode Herre! La du dette ekteskap frembringe koraller og perler. Du er i sannhet den allmektige, den største, den evig tilgivende.
 
 -- Abdu'l-Bahá
 
-bpn3601 «[Norsk](../no/prayers/#bpn3601)» 
+bpn3601 
 
 ----
 
@@ -1239,7 +1240,7 @@ bpn3601 «[Norsk](../no/prayers/#bpn3601)»
 
 -- Abdu'l-Bahá
 
-bpn3602 «[Norsk](../no/prayers/#bpn3602)» 
+bpn3602 
 
 ----
 
@@ -1253,7 +1254,7 @@ Av din evighets mildt angende strømmer gi meg å drikke, o min Gud, og av frukt
 
 -- Bahá'u'lláh
 
-bpn3574 «[Norsk](../no/prayers/#bpn3574)» 
+bpn3574 
 
 ----
 
@@ -1263,7 +1264,7 @@ Jeg vet ikke, o min Gud, hva slags ild du tente i ditt land. Jord kan aldri ford
 
 -- Bahá'u'lláh
 
-bpn3575 «[Norsk](../no/prayers/#bpn3575)» 
+bpn3575 
 
 ----
 
@@ -1273,7 +1274,7 @@ Lovet være du, o Herre min Gud! Jeg bevitner at du fra evighet var opphøyet i 
 
 -- Bahá'u'lláh
 
-bpn3576 «[Norsk](../no/prayers/#bpn3576)» 
+bpn3576 
 
 ----
 
@@ -1283,7 +1284,7 @@ Lovet være du, o min Gud! Jeg er en av dine tjenere, som har trodd på deg og p
 
 -- Bahá'u'lláh
 
-bpn3577 «[Norsk](../no/prayers/#bpn3577)» 
+bpn3577 
 
 ----
 
@@ -1293,7 +1294,7 @@ O min Gud, gavmildhetens og barmhjertighetens Gud! Du er den Konge ved hvis byde
 
 -- Bahá'u'lláh
 
-bpn3578 «[Norsk](../no/prayers/#bpn3578)» 
+bpn3578 
 
 ----
 
@@ -1303,7 +1304,7 @@ O min Herre! La din skjønnhet være min føde, og ditt nærvær mitt drikke, og
 
 -- Bahá'u'lláh
 
-bpn3579 «[Norsk](../no/prayers/#bpn3579)» 
+bpn3579 
 
 ----
 
@@ -1313,7 +1314,7 @@ Skap i meg et rent hjerte, o min Gud, og gi meg på ny en rolig samvittighet, o 
 
 -- Bahá'u'lláh
 
-bpn3580 «[Norsk](../no/prayers/#bpn3580)» 
+bpn3580 
 
 ----
 
@@ -1323,7 +1324,7 @@ Du er Gud, ingen annen Gud er der enn deg. Priset og forherliget er du, o Herre 
 
 -- Báb
 
-bpn3572 «[Norsk](../no/prayers/#bpn3572)» 
+bpn3572 
 
 ----
 
@@ -1333,7 +1334,7 @@ Forherliget være ditt navn, o Herre! Hos hvem skal jeg finne tilflukt når du i
 
 -- Báb
 
-bpn3573 «[Norsk](../no/prayers/#bpn3573)» 
+bpn3573 
 
 ----
 
@@ -1343,7 +1344,7 @@ O Gud! Forfrisk og gled min ånd. Rens mitt hjerte. Styrk mine evner. Alt hva me
 
 -- Abdu'l-Bahá
 
-bpn3581 «[Norsk](../no/prayers/#bpn3581)» 
+bpn3581 
 
 ----
 
@@ -1353,7 +1354,7 @@ O min Gud! O min Gud! Denne din tjener har gått fremover mot deg, vandrer liden
 
 -- Abdu'l-Bahá
 
-bpn3582 «[Norsk](../no/prayers/#bpn3582)» 
+bpn3582 
 
 ----
 
@@ -1363,7 +1364,7 @@ O min Herre! O min Herre! Dette er en lampe som er tent av din kjærlighets ild 
 
 -- Abdu'l-Bahá
 
-bpn3583 «[Norsk](../no/prayers/#bpn3583)» 
+bpn3583 
 
 ----
 
@@ -1373,7 +1374,7 @@ O min herlige Herre! Hjelp meg til å avstå fra enhver avvikende tilbøyelighet
 
 -- Abdu'l-Bahá
 
-bpn3584 «[Norsk](../no/prayers/#bpn3584)» 
+bpn3584 
 
 ----
 

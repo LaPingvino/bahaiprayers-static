@@ -5,6 +5,7 @@ tags = ['lang=lo', 'prayerbook']
 
 
 
+
 [ຂໍຄວາມຄຸ້ມຄອງ](#%E0%BA%82%E0%BB%8D%E0%BA%84%E0%BA%A7%E0%BA%B2%E0%BA%A1%E0%BA%84%E0%BA%B8%E0%BB%89%E0%BA%A1%E0%BA%84%E0%BA%AD%E0%BA%87)
 
 [ຂໍຄວາມຊ່ວຍເຫຼືອ](#%E0%BA%82%E0%BB%8D%E0%BA%84%E0%BA%A7%E0%BA%B2%E0%BA%A1%E0%BA%8A%E0%BB%88%E0%BA%A7%E0%BA%8D%E0%BB%80%E0%BA%AB%E0%BA%BC%E0%BA%B7%E0%BA%AD)
@@ -103,7 +104,7 @@ tags = ['lang=lo', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12770 «[ພາສາລາວ](../lo/prayers/#bpn12770)» 
+bpn12770 
 
 ----
 
@@ -113,7 +114,7 @@ bpn12770 «[ພາສາລາວ](../lo/prayers/#bpn12770)»
 
 -- Bahá'u'lláh
 
-bpn12771 «[ພາສາລາວ](../lo/prayers/#bpn12771)» 
+bpn12771 
 
 ----
 
@@ -123,7 +124,7 @@ bpn12771 «[ພາສາລາວ](../lo/prayers/#bpn12771)»
 
 -- Báb
 
-bpn12772 «[ພາສາລາວ](../lo/prayers/#bpn12772)» 
+bpn12772 
 
 ----
 
@@ -133,7 +134,7 @@ bpn12772 «[ພາສາລາວ](../lo/prayers/#bpn12772)»
 
 -- Báb
 
-bpn12773 «[ພາສາລາວ](../lo/prayers/#bpn12773)» 
+bpn12773 
 
 ----
 
@@ -143,7 +144,7 @@ bpn12773 «[ພາສາລາວ](../lo/prayers/#bpn12773)»
 
 -- Báb
 
-bpn12774 «[ພາສາລາວ](../lo/prayers/#bpn12774)» 
+bpn12774 
 
 ----
 
@@ -153,7 +154,7 @@ bpn12774 «[ພາສາລາວ](../lo/prayers/#bpn12774)»
 
 -- Abdu'l-Bahá
 
-bpn12775 «[ພາສາລາວ](../lo/prayers/#bpn12775)» 
+bpn12775 
 
 ----
 
@@ -163,7 +164,7 @@ bpn12775 «[ພາສາລາວ](../lo/prayers/#bpn12775)»
 
 -- Abdu'l-Bahá
 
-bpn12776 «[ພາສາລາວ](../lo/prayers/#bpn12776)» 
+bpn12776 
 
 ----
 
@@ -177,7 +178,7 @@ bpn12776 «[ພາສາລາວ](../lo/prayers/#bpn12776)»
 
 -- Bahá'u'lláh
 
-bpn12754 «[ພາສາລາວ](../lo/prayers/#bpn12754)» 
+bpn12754 
 
 ----
 
@@ -187,7 +188,7 @@ bpn12754 «[ພາສາລາວ](../lo/prayers/#bpn12754)»
 
 -- Bahá'u'lláh
 
-bpn12755 «[ພາສາລາວ](../lo/prayers/#bpn12755)» 
+bpn12755 
 
 ----
 
@@ -197,7 +198,7 @@ bpn12755 «[ພາສາລາວ](../lo/prayers/#bpn12755)»
 
 -- Bahá'u'lláh
 
-bpn12756 «[ພາສາລາວ](../lo/prayers/#bpn12756)» 
+bpn12756 
 
 ----
 
@@ -207,7 +208,7 @@ bpn12756 «[ພາສາລາວ](../lo/prayers/#bpn12756)»
 
 -- Báb
 
-bpn12757 «[ພາສາລາວ](../lo/prayers/#bpn12757)» 
+bpn12757 
 
 ----
 
@@ -217,7 +218,7 @@ bpn12757 «[ພາສາລາວ](../lo/prayers/#bpn12757)»
 
 -- Abdu'l-Bahá
 
-bpn12758 «[ພາສາລາວ](../lo/prayers/#bpn12758)» 
+bpn12758 
 
 ----
 
@@ -227,7 +228,7 @@ bpn12758 «[ພາສາລາວ](../lo/prayers/#bpn12758)»
 
 -- Abdu'l-Bahá
 
-bpn12759 «[ພາສາລາວ](../lo/prayers/#bpn12759)» 
+bpn12759 
 
 ----
 
@@ -241,7 +242,7 @@ bpn12759 «[ພາສາລາວ](../lo/prayers/#bpn12759)»
 
 -- Bahá'u'lláh
 
-bpn12792 «[ພາສາລາວ](../lo/prayers/#bpn12792)» 
+bpn12792 
 
 ----
 
@@ -251,7 +252,7 @@ bpn12792 «[ພາສາລາວ](../lo/prayers/#bpn12792)»
 
 -- Bahá'u'lláh
 
-bpn12793 «[ພາສາລາວ](../lo/prayers/#bpn12793)» 
+bpn12793 
 
 ----
 
@@ -261,7 +262,7 @@ bpn12793 «[ພາສາລາວ](../lo/prayers/#bpn12793)»
 
 -- Abdu'l-Bahá
 
-bpn12794 «[ພາສາລາວ](../lo/prayers/#bpn12794)» 
+bpn12794 
 
 ----
 
@@ -271,7 +272,7 @@ bpn12794 «[ພາສາລາວ](../lo/prayers/#bpn12794)»
 
 -- Abdu'l-Bahá
 
-bpn12795 «[ພາສາລາວ](../lo/prayers/#bpn12795)» 
+bpn12795 
 
 ----
 
@@ -285,7 +286,7 @@ bpn12795 «[ພາສາລາວ](../lo/prayers/#bpn12795)»
 
 -- Bahá'u'lláh
 
-bpn12827 «[ພາສາລາວ](../lo/prayers/#bpn12827)» 
+bpn12827 
 
 ----
 
@@ -299,7 +300,7 @@ bpn12827 «[ພາສາລາວ](../lo/prayers/#bpn12827)»
 
 -- Bahá'u'lláh
 
-bpn12830 «[ພາສາລາວ](../lo/prayers/#bpn12830)» 
+bpn12830 
 
 ----
 
@@ -313,7 +314,7 @@ bpn12830 «[ພາສາລາວ](../lo/prayers/#bpn12830)»
 
 -- Abdu'l-Bahá
 
-bpn12835 «[ພາສາລາວ](../lo/prayers/#bpn12835)» 
+bpn12835 
 
 ----
 
@@ -327,7 +328,7 @@ bpn12835 «[ພາສາລາວ](../lo/prayers/#bpn12835)»
 
 -- Bahá'u'lláh
 
-bpn12752 «[ພາສາລາວ](../lo/prayers/#bpn12752)» 
+bpn12752 
 
 ----
 
@@ -341,7 +342,7 @@ bpn12752 «[ພາສາລາວ](../lo/prayers/#bpn12752)»
 
 -- Bahá'u'lláh
 
-bpn12751 «[ພາສາລາວ](../lo/prayers/#bpn12751)» 
+bpn12751 
 
 ----
 
@@ -355,7 +356,7 @@ bpn12751 «[ພາສາລາວ](../lo/prayers/#bpn12751)»
 
 -- Abdu'l-Bahá
 
-bpn12859 «[ພາສາລາວ](../lo/prayers/#bpn12859)» 
+bpn12859 
 
 ----
 
@@ -369,7 +370,7 @@ bpn12859 «[ພາສາລາວ](../lo/prayers/#bpn12859)»
 
 -- Bahá'u'lláh
 
-bpn12797 «[ພາສາລາວ](../lo/prayers/#bpn12797)» 
+bpn12797 
 
 ----
 
@@ -383,7 +384,7 @@ bpn12797 «[ພາສາລາວ](../lo/prayers/#bpn12797)»
 
 -- Bahá'u'lláh
 
-bpn12833 «[ພາສາລາວ](../lo/prayers/#bpn12833)» 
+bpn12833 
 
 ----
 
@@ -393,7 +394,7 @@ bpn12833 «[ພາສາລາວ](../lo/prayers/#bpn12833)»
 
 -- Abdu'l-Bahá
 
-bpn12789 «[ພາສາລາວ](../lo/prayers/#bpn12789)» 
+bpn12789 
 
 ----
 
@@ -407,7 +408,7 @@ bpn12789 «[ພາສາລາວ](../lo/prayers/#bpn12789)»
 
 -- Bahá'u'lláh
 
-bpn12834 «[ພາສາລາວ](../lo/prayers/#bpn12834)» 
+bpn12834 
 
 ----
 
@@ -421,7 +422,7 @@ bpn12834 «[ພາສາລາວ](../lo/prayers/#bpn12834)»
 
 -- Bahá'u'lláh
 
-bpn12858 «[ພາສາລາວ](../lo/prayers/#bpn12858)» 
+bpn12858 
 
 ----
 
@@ -435,7 +436,7 @@ bpn12858 «[ພາສາລາວ](../lo/prayers/#bpn12858)»
 
 -- Abdu'l-Bahá
 
-bpn12820 «[ພາສາລາວ](../lo/prayers/#bpn12820)» 
+bpn12820 
 
 ----
 
@@ -449,7 +450,7 @@ bpn12820 «[ພາສາລາວ](../lo/prayers/#bpn12820)»
 
 -- Bahá'u'lláh
 
-bpn12828 «[ພາສາລາວ](../lo/prayers/#bpn12828)» 
+bpn12828 
 
 ----
 
@@ -459,7 +460,7 @@ bpn12828 «[ພາສາລາວ](../lo/prayers/#bpn12828)»
 
 -- Bahá'u'lláh
 
-bpn12829 «[ພາສາລາວ](../lo/prayers/#bpn12829)» 
+bpn12829 
 
 ----
 
@@ -473,7 +474,7 @@ bpn12829 «[ພາສາລາວ](../lo/prayers/#bpn12829)»
 
 -- Bahá'u'lláh
 
-bpn12861 «[ພາສາລາວ](../lo/prayers/#bpn12861)» 
+bpn12861 
 
 ----
 
@@ -487,7 +488,7 @@ bpn12861 «[ພາສາລາວ](../lo/prayers/#bpn12861)»
 
 -- Bahá'u'lláh
 
-bpn12860 «[ພາສາລາວ](../lo/prayers/#bpn12860)» 
+bpn12860 
 
 ----
 
@@ -501,7 +502,7 @@ bpn12860 «[ພາສາລາວ](../lo/prayers/#bpn12860)»
 
 -- Báb
 
-bpn12840 «[ພາສາລາວ](../lo/prayers/#bpn12840)» 
+bpn12840 
 
 ----
 
@@ -515,7 +516,7 @@ bpn12840 «[ພາສາລາວ](../lo/prayers/#bpn12840)»
 
 -- Bahá'u'lláh
 
-bpn12836 «[ພາສາລາວ](../lo/prayers/#bpn12836)» 
+bpn12836 
 
 ----
 
@@ -525,7 +526,7 @@ bpn12836 «[ພາສາລາວ](../lo/prayers/#bpn12836)»
 
 -- Abdu'l-Bahá
 
-bpn12837 «[ພາສາລາວ](../lo/prayers/#bpn12837)» 
+bpn12837 
 
 ----
 
@@ -535,7 +536,7 @@ bpn12837 «[ພາສາລາວ](../lo/prayers/#bpn12837)»
 
 -- Abdu'l-Bahá
 
-bpn12838 «[ພາສາລາວ](../lo/prayers/#bpn12838)» 
+bpn12838 
 
 ----
 
@@ -545,7 +546,7 @@ bpn12838 «[ພາສາລາວ](../lo/prayers/#bpn12838)»
 
 -- Abdu'l-Bahá
 
-bpn12839 «[ພາສາລາວ](../lo/prayers/#bpn12839)» 
+bpn12839 
 
 ----
 
@@ -559,7 +560,7 @@ bpn12839 «[ພາສາລາວ](../lo/prayers/#bpn12839)»
 
 -- Abdu'l-Bahá
 
-bpn12855 «[ພາສາລາວ](../lo/prayers/#bpn12855)» 
+bpn12855 
 
 ----
 
@@ -573,7 +574,7 @@ bpn12855 «[ພາສາລາວ](../lo/prayers/#bpn12855)»
 
 -- Bahá'u'lláh
 
-bpn12845 «[ພາສາລາວ](../lo/prayers/#bpn12845)» 
+bpn12845 
 
 ----
 
@@ -583,7 +584,7 @@ bpn12845 «[ພາສາລາວ](../lo/prayers/#bpn12845)»
 
 -- Abdu'l-Bahá
 
-bpn12846 «[ພາສາລາວ](../lo/prayers/#bpn12846)» 
+bpn12846 
 
 ----
 
@@ -593,7 +594,7 @@ bpn12846 «[ພາສາລາວ](../lo/prayers/#bpn12846)»
 
 -- Abdu'l-Bahá
 
-bpn12847 «[ພາສາລາວ](../lo/prayers/#bpn12847)» 
+bpn12847 
 
 ----
 
@@ -603,7 +604,7 @@ bpn12847 «[ພາສາລາວ](../lo/prayers/#bpn12847)»
 
 -- Abdu'l-Bahá
 
-bpn12848 «[ພາສາລາວ](../lo/prayers/#bpn12848)» 
+bpn12848 
 
 ----
 
@@ -613,7 +614,7 @@ bpn12848 «[ພາສາລາວ](../lo/prayers/#bpn12848)»
 
 -- Abdu'l-Bahá
 
-bpn12849 «[ພາສາລາວ](../lo/prayers/#bpn12849)» 
+bpn12849 
 
 ----
 
@@ -623,7 +624,7 @@ bpn12849 «[ພາສາລາວ](../lo/prayers/#bpn12849)»
 
 -- Abdu'l-Bahá
 
-bpn12850 «[ພາສາລາວ](../lo/prayers/#bpn12850)» 
+bpn12850 
 
 ----
 
@@ -633,7 +634,7 @@ bpn12850 «[ພາສາລາວ](../lo/prayers/#bpn12850)»
 
 -- Abdu'l-Bahá
 
-bpn12851 «[ພາສາລາວ](../lo/prayers/#bpn12851)» 
+bpn12851 
 
 ----
 
@@ -643,7 +644,7 @@ bpn12851 «[ພາສາລາວ](../lo/prayers/#bpn12851)»
 
 -- Abdu'l-Bahá
 
-bpn12852 «[ພາສາລາວ](../lo/prayers/#bpn12852)» 
+bpn12852 
 
 ----
 
@@ -653,7 +654,7 @@ bpn12852 «[ພາສາລາວ](../lo/prayers/#bpn12852)»
 
 -- Abdu'l-Bahá
 
-bpn12853 «[ພາສາລາວ](../lo/prayers/#bpn12853)» 
+bpn12853 
 
 ----
 
@@ -663,7 +664,7 @@ bpn12853 «[ພາສາລາວ](../lo/prayers/#bpn12853)»
 
 -- Abdu'l-Bahá
 
-bpn12854 «[ພາສາລາວ](../lo/prayers/#bpn12854)» 
+bpn12854 
 
 ----
 
@@ -677,7 +678,7 @@ bpn12854 «[ພາສາລາວ](../lo/prayers/#bpn12854)»
 
 -- Bahá'u'lláh
 
-bpn12807 «[ພາສາລາວ](../lo/prayers/#bpn12807)» 
+bpn12807 
 
 ----
 
@@ -687,7 +688,7 @@ bpn12807 «[ພາສາລາວ](../lo/prayers/#bpn12807)»
 
 -- Bahá'u'lláh
 
-bpn12808 «[ພາສາລາວ](../lo/prayers/#bpn12808)» 
+bpn12808 
 
 ----
 
@@ -697,7 +698,7 @@ bpn12808 «[ພາສາລາວ](../lo/prayers/#bpn12808)»
 
 -- Abdu'l-Bahá
 
-bpn12809 «[ພາສາລາວ](../lo/prayers/#bpn12809)» 
+bpn12809 
 
 ----
 
@@ -707,7 +708,7 @@ bpn12809 «[ພາສາລາວ](../lo/prayers/#bpn12809)»
 
 -- Abdu'l-Bahá
 
-bpn12810 «[ພາສາລາວ](../lo/prayers/#bpn12810)» 
+bpn12810 
 
 ----
 
@@ -721,7 +722,7 @@ bpn12810 «[ພາສາລາວ](../lo/prayers/#bpn12810)»
 
 -- Abdu'l-Bahá
 
-bpn12796 «[ພາສາລາວ](../lo/prayers/#bpn12796)» 
+bpn12796 
 
 ----
 
@@ -735,7 +736,7 @@ bpn12796 «[ພາສາລາວ](../lo/prayers/#bpn12796)»
 
 -- Bahá'u'lláh
 
-bpn12786 «[ພາສາລາວ](../lo/prayers/#bpn12786)» 
+bpn12786 
 
 ----
 
@@ -745,7 +746,7 @@ bpn12786 «[ພາສາລາວ](../lo/prayers/#bpn12786)»
 
 -- Báb
 
-bpn12788 «[ພາສາລາວ](../lo/prayers/#bpn12788)» 
+bpn12788 
 
 ----
 
@@ -759,7 +760,7 @@ bpn12788 «[ພາສາລາວ](../lo/prayers/#bpn12788)»
 
 -- Bahá'u'lláh
 
-bpn12841 «[ພາສາລາວ](../lo/prayers/#bpn12841)» 
+bpn12841 
 
 ----
 
@@ -769,7 +770,7 @@ bpn12841 «[ພາສາລາວ](../lo/prayers/#bpn12841)»
 
 -- Báb
 
-bpn12842 «[ພາສາລາວ](../lo/prayers/#bpn12842)» 
+bpn12842 
 
 ----
 
@@ -779,7 +780,7 @@ bpn12842 «[ພາສາລາວ](../lo/prayers/#bpn12842)»
 
 -- Báb
 
-bpn12843 «[ພາສາລາວ](../lo/prayers/#bpn12843)» 
+bpn12843 
 
 ----
 
@@ -789,7 +790,7 @@ bpn12843 «[ພາສາລາວ](../lo/prayers/#bpn12843)»
 
 -- Abdu'l-Bahá
 
-bpn12844 «[ພາສາລາວ](../lo/prayers/#bpn12844)» 
+bpn12844 
 
 ----
 
@@ -803,7 +804,7 @@ bpn12844 «[ພາສາລາວ](../lo/prayers/#bpn12844)»
 
 -- Abdu'l-Bahá
 
-bpn12802 «[ພາສາລາວ](../lo/prayers/#bpn12802)» 
+bpn12802 
 
 ----
 
@@ -817,7 +818,7 @@ bpn12802 «[ພາສາລາວ](../lo/prayers/#bpn12802)»
 
 -- Bahá'u'lláh
 
-bpn12790 «[ພາສາລາວ](../lo/prayers/#bpn12790)» 
+bpn12790 
 
 ----
 
@@ -827,7 +828,7 @@ bpn12790 «[ພາສາລາວ](../lo/prayers/#bpn12790)»
 
 -- Bahá'u'lláh
 
-bpn12791 «[ພາສາລາວ](../lo/prayers/#bpn12791)» 
+bpn12791 
 
 ----
 
@@ -841,7 +842,7 @@ bpn12791 «[ພາສາລາວ](../lo/prayers/#bpn12791)»
 
 -- Bahá'u'lláh
 
-bpn12803 «[ພາສາລາວ](../lo/prayers/#bpn12803)» 
+bpn12803 
 
 ----
 
@@ -851,7 +852,7 @@ bpn12803 «[ພາສາລາວ](../lo/prayers/#bpn12803)»
 
 -- Báb
 
-bpn12804 «[ພາສາລາວ](../lo/prayers/#bpn12804)» 
+bpn12804 
 
 ----
 
@@ -861,7 +862,7 @@ bpn12804 «[ພາສາລາວ](../lo/prayers/#bpn12804)»
 
 -- Abdu'l-Bahá
 
-bpn12805 «[ພາສາລາວ](../lo/prayers/#bpn12805)» 
+bpn12805 
 
 ----
 
@@ -871,7 +872,7 @@ bpn12805 «[ພາສາລາວ](../lo/prayers/#bpn12805)»
 
 -- Abdu'l-Bahá
 
-bpn12806 «[ພາສາລາວ](../lo/prayers/#bpn12806)» 
+bpn12806 
 
 ----
 
@@ -885,7 +886,7 @@ bpn12806 «[ພາສາລາວ](../lo/prayers/#bpn12806)»
 
 -- Bahá'u'lláh
 
-bpn12815 «[ພາສາລາວ](../lo/prayers/#bpn12815)» 
+bpn12815 
 
 ----
 
@@ -895,7 +896,7 @@ bpn12815 «[ພາສາລາວ](../lo/prayers/#bpn12815)»
 
 -- Báb
 
-bpn12816 «[ພາສາລາວ](../lo/prayers/#bpn12816)» 
+bpn12816 
 
 ----
 
@@ -905,7 +906,7 @@ bpn12816 «[ພາສາລາວ](../lo/prayers/#bpn12816)»
 
 -- Báb
 
-bpn12817 «[ພາສາລາວ](../lo/prayers/#bpn12817)» 
+bpn12817 
 
 ----
 
@@ -915,7 +916,7 @@ bpn12817 «[ພາສາລາວ](../lo/prayers/#bpn12817)»
 
 -- Báb
 
-bpn12818 «[ພາສາລາວ](../lo/prayers/#bpn12818)» 
+bpn12818 
 
 ----
 
@@ -929,7 +930,7 @@ bpn12818 «[ພາສາລາວ](../lo/prayers/#bpn12818)»
 
 -- Abdu'l-Bahá
 
-bpn12819 «[ພາສາລາວ](../lo/prayers/#bpn12819)» 
+bpn12819 
 
 ----
 
@@ -943,7 +944,7 @@ bpn12819 «[ພາສາລາວ](../lo/prayers/#bpn12819)»
 
 -- Abdu'l-Bahá
 
-bpn12821 «[ພາສາລາວ](../lo/prayers/#bpn12821)» 
+bpn12821 
 
 ----
 
@@ -953,7 +954,7 @@ bpn12821 «[ພາສາລາວ](../lo/prayers/#bpn12821)»
 
 -- Abdu'l-Bahá
 
-bpn12822 «[ພາສາລາວ](../lo/prayers/#bpn12822)» 
+bpn12822 
 
 ----
 
@@ -963,7 +964,7 @@ bpn12822 «[ພາສາລາວ](../lo/prayers/#bpn12822)»
 
 -- Abdu'l-Bahá
 
-bpn12823 «[ພາສາລາວ](../lo/prayers/#bpn12823)» 
+bpn12823 
 
 ----
 
@@ -973,7 +974,7 @@ bpn12823 «[ພາສາລາວ](../lo/prayers/#bpn12823)»
 
 -- Abdu'l-Bahá
 
-bpn12824 «[ພາສາລາວ](../lo/prayers/#bpn12824)» 
+bpn12824 
 
 ----
 
@@ -983,7 +984,7 @@ bpn12824 «[ພາສາລາວ](../lo/prayers/#bpn12824)»
 
 -- Abdu'l-Bahá
 
-bpn12825 «[ພາສາລາວ](../lo/prayers/#bpn12825)» 
+bpn12825 
 
 ----
 
@@ -993,7 +994,7 @@ bpn12825 «[ພາສາລາວ](../lo/prayers/#bpn12825)»
 
 -- Abdu'l-Bahá
 
-bpn12826 «[ພາສາລາວ](../lo/prayers/#bpn12826)» 
+bpn12826 
 
 ----
 
@@ -1007,7 +1008,7 @@ bpn12826 «[ພາສາລາວ](../lo/prayers/#bpn12826)»
 
 -- Bahá'u'lláh
 
-bpn12779 «[ພາສາລາວ](../lo/prayers/#bpn12779)» 
+bpn12779 
 
 ----
 
@@ -1017,7 +1018,7 @@ bpn12779 «[ພາສາລາວ](../lo/prayers/#bpn12779)»
 
 -- Bahá'u'lláh
 
-bpn12780 «[ພາສາລາວ](../lo/prayers/#bpn12780)» 
+bpn12780 
 
 ----
 
@@ -1031,7 +1032,7 @@ bpn12780 «[ພາສາລາວ](../lo/prayers/#bpn12780)»
 
 -- Abdu'l-Bahá
 
-bpn12863 «[ພາສາລາວ](../lo/prayers/#bpn12863)» 
+bpn12863 
 
 ----
 
@@ -1045,7 +1046,7 @@ bpn12863 «[ພາສາລາວ](../lo/prayers/#bpn12863)»
 
 -- Bahá'u'lláh
 
-bpn12753 «[ພາສາລາວ](../lo/prayers/#bpn12753)» 
+bpn12753 
 
 ----
 
@@ -1059,7 +1060,7 @@ bpn12753 «[ພາສາລາວ](../lo/prayers/#bpn12753)»
 
 -- Abdu'l-Bahá
 
-bpn12811 «[ພາສາລາວ](../lo/prayers/#bpn12811)» 
+bpn12811 
 
 ----
 
@@ -1069,7 +1070,7 @@ bpn12811 «[ພາສາລາວ](../lo/prayers/#bpn12811)»
 
 -- Abdu'l-Bahá
 
-bpn12812 «[ພາສາລາວ](../lo/prayers/#bpn12812)» 
+bpn12812 
 
 ----
 
@@ -1079,7 +1080,7 @@ bpn12812 «[ພາສາລາວ](../lo/prayers/#bpn12812)»
 
 -- Abdu'l-Bahá
 
-bpn12813 «[ພາສາລາວ](../lo/prayers/#bpn12813)» 
+bpn12813 
 
 ----
 
@@ -1089,7 +1090,7 @@ bpn12813 «[ພາສາລາວ](../lo/prayers/#bpn12813)»
 
 -- Abdu'l-Bahá
 
-bpn12814 «[ພາສາລາວ](../lo/prayers/#bpn12814)» 
+bpn12814 
 
 ----
 
@@ -1103,7 +1104,7 @@ bpn12814 «[ພາສາລາວ](../lo/prayers/#bpn12814)»
 
 -- Abdu'l-Bahá
 
-bpn12831 «[ພາສາລາວ](../lo/prayers/#bpn12831)» 
+bpn12831 
 
 ----
 
@@ -1117,7 +1118,7 @@ bpn12831 «[ພາສາລາວ](../lo/prayers/#bpn12831)»
 
 -- Bahá'u'lláh
 
-bpn12856 «[ພາສາລາວ](../lo/prayers/#bpn12856)» 
+bpn12856 
 
 ----
 
@@ -1127,7 +1128,7 @@ bpn12856 «[ພາສາລາວ](../lo/prayers/#bpn12856)»
 
 -- Bahá'u'lláh
 
-bpn12857 «[ພາສາລາວ](../lo/prayers/#bpn12857)» 
+bpn12857 
 
 ----
 
@@ -1141,7 +1142,7 @@ bpn12857 «[ພາສາລາວ](../lo/prayers/#bpn12857)»
 
 -- Bahá'u'lláh
 
-bpn12862 «[ພາສາລາວ](../lo/prayers/#bpn12862)» 
+bpn12862 
 
 ----
 
@@ -1155,7 +1156,7 @@ bpn12862 «[ພາສາລາວ](../lo/prayers/#bpn12862)»
 
 -- Abdu'l-Bahá
 
-bpn12832 «[ພາສາລາວ](../lo/prayers/#bpn12832)» 
+bpn12832 
 
 ----
 
@@ -1169,7 +1170,7 @@ bpn12832 «[ພາສາລາວ](../lo/prayers/#bpn12832)»
 
 -- Bahá'u'lláh
 
-bpn12781 «[ພາສາລາວ](../lo/prayers/#bpn12781)» 
+bpn12781 
 
 ----
 
@@ -1179,7 +1180,7 @@ bpn12781 «[ພາສາລາວ](../lo/prayers/#bpn12781)»
 
 -- Bahá'u'lláh
 
-bpn12782 «[ພາສາລາວ](../lo/prayers/#bpn12782)» 
+bpn12782 
 
 ----
 
@@ -1189,7 +1190,7 @@ bpn12782 «[ພາສາລາວ](../lo/prayers/#bpn12782)»
 
 -- Abdu'l-Bahá
 
-bpn12783 «[ພາສາລາວ](../lo/prayers/#bpn12783)» 
+bpn12783 
 
 ----
 
@@ -1199,7 +1200,7 @@ bpn12783 «[ພາສາລາວ](../lo/prayers/#bpn12783)»
 
 -- Abdu'l-Bahá
 
-bpn12784 «[ພາສາລາວ](../lo/prayers/#bpn12784)» 
+bpn12784 
 
 ----
 
@@ -1209,7 +1210,7 @@ bpn12784 «[ພາສາລາວ](../lo/prayers/#bpn12784)»
 
 -- Abdu'l-Bahá
 
-bpn12785 «[ພາສາລາວ](../lo/prayers/#bpn12785)» 
+bpn12785 
 
 ----
 
@@ -1223,7 +1224,7 @@ bpn12785 «[ພາສາລາວ](../lo/prayers/#bpn12785)»
 
 -- Bahá'u'lláh
 
-bpn12787 «[ພາສາລາວ](../lo/prayers/#bpn12787)» 
+bpn12787 
 
 ----
 
@@ -1233,7 +1234,7 @@ bpn12787 «[ພາສາລາວ](../lo/prayers/#bpn12787)»
 
 -- Bahá'u'lláh
 
-bpn12778 «[ພາສາລາວ](../lo/prayers/#bpn12778)» 
+bpn12778 
 
 ----
 
@@ -1247,7 +1248,7 @@ bpn12778 «[ພາສາລາວ](../lo/prayers/#bpn12778)»
 
 -- Bahá'u'lláh
 
-bpn12798 «[ພາສາລາວ](../lo/prayers/#bpn12798)» 
+bpn12798 
 
 ----
 
@@ -1257,7 +1258,7 @@ bpn12798 «[ພາສາລາວ](../lo/prayers/#bpn12798)»
 
 -- Bahá'u'lláh
 
-bpn12799 «[ພາສາລາວ](../lo/prayers/#bpn12799)» 
+bpn12799 
 
 ----
 
@@ -1267,7 +1268,7 @@ bpn12799 «[ພາສາລາວ](../lo/prayers/#bpn12799)»
 
 -- Bahá'u'lláh
 
-bpn12800 «[ພາສາລາວ](../lo/prayers/#bpn12800)» 
+bpn12800 
 
 ----
 
@@ -1277,7 +1278,7 @@ bpn12800 «[ພາສາລາວ](../lo/prayers/#bpn12800)»
 
 -- Bahá'u'lláh
 
-bpn12801 «[ພາສາລາວ](../lo/prayers/#bpn12801)» 
+bpn12801 
 
 ----
 
@@ -1291,7 +1292,7 @@ bpn12801 «[ພາສາລາວ](../lo/prayers/#bpn12801)»
 
 -- Bahá'u'lláh
 
-bpn12760 «[ພາສາລາວ](../lo/prayers/#bpn12760)» 
+bpn12760 
 
 ----
 
@@ -1301,7 +1302,7 @@ bpn12760 «[ພາສາລາວ](../lo/prayers/#bpn12760)»
 
 -- Bahá'u'lláh
 
-bpn12761 «[ພາສາລາວ](../lo/prayers/#bpn12761)» 
+bpn12761 
 
 ----
 
@@ -1311,7 +1312,7 @@ bpn12761 «[ພາສາລາວ](../lo/prayers/#bpn12761)»
 
 -- Bahá'u'lláh
 
-bpn12762 «[ພາສາລາວ](../lo/prayers/#bpn12762)» 
+bpn12762 
 
 ----
 
@@ -1321,7 +1322,7 @@ bpn12762 «[ພາສາລາວ](../lo/prayers/#bpn12762)»
 
 -- Bahá'u'lláh
 
-bpn12763 «[ພາສາລາວ](../lo/prayers/#bpn12763)» 
+bpn12763 
 
 ----
 
@@ -1331,7 +1332,7 @@ bpn12763 «[ພາສາລາວ](../lo/prayers/#bpn12763)»
 
 -- Bahá'u'lláh
 
-bpn12764 «[ພາສາລາວ](../lo/prayers/#bpn12764)» 
+bpn12764 
 
 ----
 
@@ -1341,7 +1342,7 @@ bpn12764 «[ພາສາລາວ](../lo/prayers/#bpn12764)»
 
 -- Báb
 
-bpn12765 «[ພາສາລາວ](../lo/prayers/#bpn12765)» 
+bpn12765 
 
 ----
 
@@ -1351,7 +1352,7 @@ bpn12765 «[ພາສາລາວ](../lo/prayers/#bpn12765)»
 
 -- Báb
 
-bpn12766 «[ພາສາລາວ](../lo/prayers/#bpn12766)» 
+bpn12766 
 
 ----
 
@@ -1361,7 +1362,7 @@ bpn12766 «[ພາສາລາວ](../lo/prayers/#bpn12766)»
 
 -- Báb
 
-bpn12767 «[ພາສາລາວ](../lo/prayers/#bpn12767)» 
+bpn12767 
 
 ----
 
@@ -1371,7 +1372,7 @@ bpn12767 «[ພາສາລາວ](../lo/prayers/#bpn12767)»
 
 -- Abdu'l-Bahá
 
-bpn12768 «[ພາສາລາວ](../lo/prayers/#bpn12768)» 
+bpn12768 
 
 ----
 
@@ -1381,7 +1382,7 @@ bpn12768 «[ພາສາລາວ](../lo/prayers/#bpn12768)»
 
 -- Abdu'l-Bahá
 
-bpn12769 «[ພາສາລາວ](../lo/prayers/#bpn12769)» 
+bpn12769 
 
 ----
 
@@ -1395,7 +1396,7 @@ bpn12769 «[ພາສາລາວ](../lo/prayers/#bpn12769)»
 
 -- Abdu'l-Bahá
 
-bpn12777 «[ພາສາລາວ](../lo/prayers/#bpn12777)» 
+bpn12777 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=nai-US', 'prayerbook']
 
 
 
+
 [Chippewa](#Chippewa)
 
 [Kumeyaay](#Kumeyaay)
@@ -29,11 +30,11 @@ tags = ['lang=nai-US', 'prayerbook']
 ## Chippewa
 
 <a id="bpn6846"></a> 
-Gichi-tawaawan maanpii, miinwaa wiigawaaming, miinwaa oodi, miinwaa oodenaang, miinwaa odewining, miinwaa aazhbikong, miinwaa enji-dabinooshnaang, miinwaa waazhing, miinwaa msagmigaak, miinwaa akiing, miinwaa gichi-gamiing, miinwaa minising, miinwaa mshkodensing, gaa nji kidong dizhinikaazwin Gazhe Manitoomiinwaa wiin gichi-piitendaagoziwin gichi-tawaa-endaagaadeg.     Baha&#39;u&#39;llahBlessed is the spot, and the house, and the place, and the city, and the heart, and the mountain, and the refuge, and the cave, and the valley, and the land, and the sea, and the island, and the meadow where mention of God hath been made, and His praise glorified.
+Gichi-tawaawan maanpii, miinwaa wiigawaaming, miinwaa oodi, miinwaa oodenaang, miinwaa odewining, miinwaa aazhbikong, miinwaa enji-dabinooshnaang, miinwaa waazhing, miinwaa msagmigaak, miinwaa akiing, miinwaa gichi-gamiing, miinwaa minising, miinwaa mshkodensing, gaa nji kidong dizhinikaazwin Gazhe Manitoomiinwaa wiin gichi-piitendaagoziwin gichi-tawaa-endaagaadeg.     Baha'u'llahBlessed is the spot, and the house, and the place, and the city, and the heart, and the mountain, and the refuge, and the cave, and the valley, and the land, and the sea, and the island, and the meadow where mention of God hath been made, and His praise glorified.
 
 -- Bahá'u'lláh
 
-bpn6846 «[American Indian](../nai-US/prayers/#bpn6846)» 
+bpn6846 
 
 ----
 
@@ -43,7 +44,7 @@ O Manitou Ogwissiman!Neen - nitam - gegitowin - oway: Nin - dan Benidewin, Kijew
 
 -- Bahá'u'lláh
 
-bpn5406 «[American Indian](../nai-US/prayers/#bpn5406)» 
+bpn5406 
 
 ----
 
@@ -53,7 +54,7 @@ O Gitchi - Manitou! Kegagwetchemin chiminut, ni - manitoum chi - min - ain - dun
 
 -- Abdu'l-Bahá
 
-bpn5405 «[American Indian](../nai-US/prayers/#bpn5405)» 
+bpn5405 
 
 ----
 
@@ -67,7 +68,7 @@ Osi vitte Kueichanchyo, netitinihsha, Nit tsut, Kititihchya tenitenitutula. Kenj
 
 -- Bahá'u'lláh
 
-bpn4156 «[American Indian](../nai-US/prayers/#bpn4156)» 
+bpn4156 
 
 ----
 
@@ -77,7 +78,7 @@ Ma Mi-shitz-pul quootch-man, O Myha, puy me-cha Myha coo-see-eye. Hull-pie r Myh
 
 -- Bahá'u'lláh
 
-bpn4154 «[American Indian](../nai-US/prayers/#bpn4154)» 
+bpn4154 
 
 ----
 
@@ -87,7 +88,7 @@ My-shin ta-pow mauw Ma-eye Myha cum-lie Anusch? Keye Myha a-chan! Ne-ip Myah! Ne
 
 -- Báb
 
-bpn4155 «[American Indian](../nai-US/prayers/#bpn4155)» 
+bpn4155 
 
 ----
 
@@ -97,7 +98,7 @@ O Myha! O Myah!Mut-my-um mi-a-chesh peri-wee mup muk-u-wik, cun-up-uwip Ya-wu qu
 
 -- Abdu'l-Bahá
 
-bpn4153 «[American Indian](../nai-US/prayers/#bpn4153)» 
+bpn4153 
 
 ----
 
@@ -111,7 +112,7 @@ bpn4153 «[American Indian](../nai-US/prayers/#bpn4153)»
 
 -- Bahá'u'lláh
 
-bpn8003 «[American Indian](../nai-US/prayers/#bpn8003)» 
+bpn8003 
 
 ----
 
@@ -121,7 +122,7 @@ Waayantanin bluhaWakantanka mitawaSloci in kta un makakagaNa ci yu onihan teLe o
 
 -- Bahá'u'lláh
 
-bpn4275 «[American Indian](../nai-US/prayers/#bpn4275)» 
+bpn4275 
 
 ----
 
@@ -131,7 +132,7 @@ Wakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha ma
 
 -- Bahá'u'lláh
 
-bpn4142 «[American Indian](../nai-US/prayers/#bpn4142)» 
+bpn4142 
 
 ----
 
@@ -141,7 +142,7 @@ Nita Caje he woakisni mitawa, o mita Wakan Tanka, na ciksuye ki han he ookiye mi
 
 -- Bahá'u'lláh
 
-bpn4274 «[American Indian](../nai-US/prayers/#bpn4274)» 
+bpn4274 
 
 ----
 
@@ -151,7 +152,7 @@ O mita Wakan Tanka! O mita Wakan tanka! Nita woyaka wicacante ki wica lucanglesk
 
 -- Bahá'u'lláh
 
-bpn4273 «[American Indian](../nai-US/prayers/#bpn4273)» 
+bpn4273 
 
 ----
 
@@ -161,7 +162,7 @@ Oyáŋke kiŋ na thípi kiŋ yawáštepi na owáŋka kiŋ, na otȟúŋwahe kiŋ 
 
 -- Bahá'u'lláh
 
-bpn4139 «[American Indian](../nai-US/prayers/#bpn4139)» 
+bpn4139 
 
 ----
 
@@ -171,7 +172,7 @@ Wakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú.  Heyá po: Wakȟá�
 
 -- Báb
 
-bpn4140 «[American Indian](../nai-US/prayers/#bpn4140)» 
+bpn4140 
 
 ----
 
@@ -181,7 +182,7 @@ Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wí
 
 -- Abdu'l-Bahá
 
-bpn4141 «[American Indian](../nai-US/prayers/#bpn4141)» 
+bpn4141 
 
 ----
 
@@ -195,7 +196,7 @@ Bikeguidan ne na sha: Bikeguidan nibika’ nshinzti negusií, ashi ni chi itedis
 
 -- Bahá'u'lláh
 
-bpn4161 «[American Indian](../nai-US/prayers/#bpn4161)» 
+bpn4161 
 
 ----
 
@@ -209,7 +210,7 @@ bpn4161 «[American Indian](../nai-US/prayers/#bpn4161)»
 
 -- Báb
 
-bpn4145 «[American Indian](../nai-US/prayers/#bpn4145)» 
+bpn4145 
 
 ----
 
@@ -219,7 +220,7 @@ Iwásh: Manto wustô tapi cáqansh wámi wáwápi cáqansh wámi qa mucáq ayôm
 
 -- Báb
 
-bpn4144 «[American Indian](../nai-US/prayers/#bpn4144)» 
+bpn4144 
 
 ----
 
@@ -229,7 +230,7 @@ Qutaháwowi Kuqunôhqusuw, O Manto! Pohqasunan wucina matôpáwôk wuci áyhqapi
 
 -- Báb
 
-bpn4143 «[American Indian](../nai-US/prayers/#bpn4143)» 
+bpn4143 
 
 ----
 
@@ -243,7 +244,7 @@ Nu vo ada han e cuda e Tanawa Tanawa e wap pie-it nush ta Weed cada my a too Wee
 
 -- Bahá'u'lláh
 
-bpn4164 «[American Indian](../nai-US/prayers/#bpn4164)» 
+bpn4164 
 
 ----
 
@@ -257,7 +258,7 @@ Shil beehozin, Diyin Shitaa’ Nínílíni, éí nééhodeessiilgo biniighé  ii
 
 -- Bahá'u'lláh
 
-bpn4171 «[American Indian](../nai-US/prayers/#bpn4171)» 
+bpn4171 
 
 ----
 
@@ -267,7 +268,7 @@ Yízhí bee Ni’dóójíinii ‘éí náshííldzii’, shi Diyin Nílíinii, �
 
 -- Bahá'u'lláh
 
-bpn4170 «[American Indian](../nai-US/prayers/#bpn4170)» 
+bpn4170 
 
 ----
 
@@ -277,7 +278,7 @@ Shidiyin nilíinii!  Shidiyin nilíinii!Ná Nidaala’í danilíinii bejéí yee
 
 -- Bahá'u'lláh
 
-bpn4169 «[American Indian](../nai-US/prayers/#bpn4169)» 
+bpn4169 
 
 ----
 
@@ -287,7 +288,7 @@ Bik’ihojidlíigo haz’á lahgo, ‘índa dahooghangóó dóó dabinaagóó d�
 
 -- Bahá'u'lláh
 
-bpn4167 «[American Indian](../nai-US/prayers/#bpn4167)» 
+bpn4167 
 
 ----
 
@@ -297,7 +298,7 @@ Aláahdi Diyin Nilíinii ts’ídá daats’í ’éí t’éiyá yá’át’é
 
 -- Báb
 
-bpn4168 «[American Indian](../nai-US/prayers/#bpn4168)» 
+bpn4168 
 
 ----
 
@@ -311,7 +312,7 @@ Gee Kayne dah mah zon, Ke shay Manito, che ke kayne ne me nan, Shegwah che mah w
 
 -- Bahá'u'lláh
 
-bpn4278 «[American Indian](../nai-US/prayers/#bpn4278)» 
+bpn4278 
 
 ----
 
@@ -325,7 +326,7 @@ NA SOON DI SEEKH, DEAS DA GANIH, DEAS SOOKH DEAS DA SOH GANIH, DEAS DA BEYUH, DE
 
 -- Bahá'u'lláh
 
-bpn4277 «[American Indian](../nai-US/prayers/#bpn4277)» 
+bpn4277 
 
 ----
 
@@ -335,7 +336,7 @@ DA-MEH UPEH, DA-MEH UPEH,SEMES DA-NEH-MEH-NEH HA BEYUH MEH, DEAS MA-DE-ZA-POING 
 
 -- Bahá'u'lláh
 
-bpn4276 «[American Indian](../nai-US/prayers/#bpn4276)» 
+bpn4276 
 
 ----
 

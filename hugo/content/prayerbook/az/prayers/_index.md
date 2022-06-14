@@ -5,6 +5,7 @@ tags = ['lang=az', 'prayerbook']
 
 
 
+
 [Ailələr](#Ail%C9%99l%C9%99r)
 
 [Allaha yaxınlıq üçün dualar](#Allaha+yax%C4%B1nl%C4%B1q+%C3%BC%C3%A7%C3%BCn+dualar)
@@ -95,7 +96,7 @@ tags = ['lang=az', 'prayerbook']
 
 -- Báb
 
-bpn4690 «[Azərbaycan](../az/prayers/#bpn4690)» 
+bpn4690 
 
 ----
 
@@ -105,7 +106,7 @@ Alqış Sənə, Ey Rəbbim, mənim Allahım! Yalvarıram Sənə, məni və Səni
 
 -- Báb
 
-bpn4692 «[Azərbaycan](../az/prayers/#bpn4692)» 
+bpn4692 
 
 ----
 
@@ -115,7 +116,7 @@ Yalvarıram, bağışla məni, Ey mənim Allahım və Özün bəndələrinin Sə
 
 -- Báb
 
-bpn4706 «[Azərbaycan](../az/prayers/#bpn4706)» 
+bpn4706 
 
 ----
 
@@ -125,7 +126,7 @@ Ya Rəbb! Bu Ən Əzəmətli Zühurda Sən uşaqların öz valideyinləri üçü
 
 -- Abdu'l-Bahá
 
-bpn4707 «[Azərbaycan](../az/prayers/#bpn4707)» 
+bpn4707 
 
 ----
 
@@ -135,7 +136,7 @@ Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır,
 
 -- Abdu'l-Bahá
 
-bpn4708 «[Azərbaycan](../az/prayers/#bpn4708)» 
+bpn4708 
 
 ----
 
@@ -149,7 +150,7 @@ Alqış olsun Sənə, Ey mənim Allahım! Hərarətli aşıqlərinin Sənin hicr
 
 -- Bahá'u'lláh
 
-bpn4693 «[Azərbaycan](../az/prayers/#bpn4693)» 
+bpn4693 
 
 ----
 
@@ -159,7 +160,7 @@ Həqiqətən, mən Sənin bəndənəm, Ey mənim Allahım, Sənin fəqir, yalvar
 
 -- Báb
 
-bpn4711 «[Azərbaycan](../az/prayers/#bpn4711)» 
+bpn4711 
 
 ----
 
@@ -169,7 +170,7 @@ Ey mənim Allahım! Səndən başqa bir kimsə yoxdur ki, mənim qəlbimin möhn
 
 -- Báb
 
-bpn4712 «[Azərbaycan](../az/prayers/#bpn4712)» 
+bpn4712 
 
 ----
 
@@ -179,7 +180,7 @@ Ey Allah, mənim Allahım, mənim Məhbubum, mənim ürəyimin Arzusu.
 
 -- Báb
 
-bpn4713 «[Azərbaycan](../az/prayers/#bpn4713)» 
+bpn4713 
 
 ----
 
@@ -189,7 +190,7 @@ Odur Şəfqətli, Ən Səxavətli! Ey Allah, mənim Allahım! Sən görürsən m
 
 -- Abdu'l-Bahá
 
-bpn4714 «[Azərbaycan](../az/prayers/#bpn4714)» 
+bpn4714 
 
 ----
 
@@ -203,7 +204,7 @@ Hər şeyi Bilən və Hər şeydən Xəbərdar Olan Allahın Kitabında Vəd olu
 
 -- Bahá'u'lláh
 
-bpn4882 «[Azərbaycan](../az/prayers/#bpn4882)» 
+bpn4882 
 
 ----
 
@@ -213,17 +214,17 @@ Təriflər olsun Sənə, Ey Allah, mənim Allahım! Bu o günlərdir ki, Sən Ö
 
 -- Bahá'u'lláh
 
-bpn4883 «[Azərbaycan](../az/prayers/#bpn4883)» 
+bpn4883 
 
 ----
 
 
 <a id="bpn4884"></a> 
-Alqış Sənə, Ya Rəbb, mənim Allahım! Bunlar o günlərdir ki, Sən bütün insanlara Oruc tutmağı hökm etmisən, ta ki, bununla onlar öz qəlblərini təmizləsinlər, Səndən başqa hər şeyə bağlılıqdan qurtulsunlar və onların ürəklərindən elə şeylər yüksəlsin ki, Sənin əzəmət sarayına layiq olsun və Sənin birliyinin təzahürünün taxtına yaraşsın. İzn ver, İlahi, qoy bu oruc abi-həyat çeşməsi olsun və Sənin ona əta etdiyin bəhrəni versin. Bununla Sən bəndələrinin ürəklərini təmizlə, o bəndələr ki, dünyanın şəri onların Sənin Əbha Adına yönəlməsinə mane ola bilmədi, o kəslər ki, Sənin Öz hökmranlığını, qüdrətini, əzəmətini və şərəfini əta etdiyin Zühurunun gəlişini müşayiət edən Sənə məxsus ən parlaq əlamətləri inkar edənlərin çaxnaşması və hay-küyü onları sarsıda bilmədi. Bunlar o bəndələrdir ki, Sənin nidan onlara yetişən kimi, Sənin mərhəmətinə doğru tələsdilər və bu dünyanın qəzavü-qədəri və ya bəşəri məhdudiyyətləri onları Səndən saxlaya bilmədi.Mən o kəsəm ki, Ey mənim Allahım, Sənin birliyinə şəhadət verir, Sənin təkliyini iqrar edir, Sənin əzəmətinin təzahürləri qarşısında itaətlə baş əyir, o kəsəm ki, tutqun üzlə Sənin ən ali cəlalının işığının təcəllilərini etiraf edir. Sənin Özünü tanımaq üçün məni qabil etdikdən sonra Sənə iman gətirdim, O Kəs ki, Sən Onu Öz hökmranlığının və qüdrətinin gücü ilə insanların gözü qarşısında zühur etdirdin. Mən Ona dönmüşəm, hər şeydən büsbütün ayrılmışam, Sənin bəxşiş və lütflərinin ipindən möhkəm yapışmışam. Mən Onun həqiqətini və Ona nazil olan bütün ecazkar qanunların və hökmlərin həqiqətini qəbul etmişəm. Mən Sənin məhəbbətin üçün oruc tutmuşam və Sənin göstərişinə əməl edərək dilimdə Sənin zikrin və Sənin razılığınla iftarımı açmışam. Izn vermə, Ilahi, o kəslərin arasında sayılım ki, gündüzlər oruc tutublar, gecələr Sənin üzün qarşısında səcdə ediblər, amma Sənin həqiqətini inkar ediblər, Sənin əlamətlərinə inanmayıblar, Sənin sübutunu rədd ediblər və Sənin bəyanını təhrif ediblər.İlahi, mənim gözlərimi və Səni axtaranların hamısının gözlərini aç ki, biz Səni Sənin Öz gözlərinlə tanıyaq. Bu, Öz əmrinlə seçdiyin, bütün məxluqatının üzərində lütfün üçün ayırdığın, Öz hökmranlığını əta edərək xüsusi iltiafat göstərdiyin və insanlarına Müraciətini etibar etdiyin Kəsə göndərdiyin Kitabda bizlərə verdiyin əmrindir. Təriflər olsun Sənə, ona görə də, Ey mənim Allahım, çünki Sən fəzlinlə bizi Onu tanımağa və Ona nazil olan hər şeyi qəbul etməyə qabil etdin və bizə Kitabında və Lövhlərində vədini verdiyin Kəsin hüzuruna yetişmək şərəfi verdin.Sən məni görürsən, Ey mənim Allahım, üzümü Sənə tərəf çevirmişəm, Sənin təqdir və səxavət ipindən yapışmış, mərhəmət və kərəminin ətəyindən tutmuşam. Yalvarıram Sənə, Sənin dərgahının həndəvərinə və hüzurunun məbədinə üzünü tutan və Sənə məhəbbət xatirinə oruc tutan bəndələrinə qismət etdiklərinə yetişmək ümidlərimi puça çıxarma. Mən etiraf edirəm, Ey mənim Allahım, mənim bütün etdiklərim Sənin hökmranlığına və əzəmətinə əsla layiq deyil. Bununla belə, ən parlaq Adınla öz gözəlliyini aşkara çıxardığın bu Zühurda mükəmməl adlarının şərəfi ilə bütün yaranmış şeylərə izhar etdiyin o Adına and verirəm ki, Sənin iradənin sağ əlindən axan şərbətindən mənə içir, ta ki, mən nəzərlərimi Sənə elə dikim və Səndən başqa hər şeydən elə ayrılım ki, dünya və onda yaradılan hər şeyə yaratmağa layiq bilmədiyin ani bir gün kimi baxım.Mən bir daha Sənə yalvarıram, Ey mənim Allahım, Sənin iradə göyündən və mərhəməт buludlarından onları yağdır ki, bizi xətalarımızın qoxusundan təmizləsin, Sən Ey Özünü Mərhəmət Allahı adlandıran Kəs! Sən, həqiqətən, Ən Qüvvətli, Ən Nurlu, Xeyirxahsan.İlahi, Sənə dönən kəsi rədd etmə, Sənə yaxınlaşmış kəsi dərgahından uzaq tutma, Sənin fəzlin və lütfün üçün yanğı ilə əllərini uzadıb yalvaran kəsin ümidlərini puça çıxarma və səmimi bəndələrini Öz mərhəmət və inayətinin möcüzələrindən məhrum etmə. Sən Bağışlayan və Kəramətlisən, İlahi! İstədiyini etməyə Sənin qüdrətin var. Səndən başqaları Sənin qüdrətinin təzahürləri qarşısında gücsüzdür və Sənin zənginliyinin dəlilləri qarşısında səfildir, Sənin fövqəl hökmranlığının təzahürləri ilə müqayisədə bir heçdir və Sənin qüdrət əlamətlərin və nişanələrin qarşısında gücdən tam məhrumdur. Səndən başqa sığınacaq varmıdır ki, İlahi, mən ona sığınım, haradadır o pənah yeri ki, mən ona tələsim. Xeyr, Sənin qüdrətinin qüvvəti mənə şahidlik edir! Səndən özgə mühafizəçi yoxdur, Səndən qeyri pənah yeri yoxdur, Səndən başqa axtarılası sığınacaq yoxdur. Mənə Sənin zikrinin və tərifinin ilahi şirinliyini dadızdır. Sənin qüdrətinə and olsun! Kimsə bunun şirinliyini dadsa, dünyada və onda olanlara olan bütün bağlılıqlardan özünü qurtarar və Səndən başqa hər kəsin zikrindən təmizlənərək üzünü Sənə tutаr.Sonra, Ey mənim Allahım, Sənin ecazkar zikrinlə mənim qəlbimi ruhlandır, ta ki, mən Sənin adını vəsf edim. Məni o kəslərdən etmə ki, Sənin sözlərini oxuyurlar, lakin Sənin hökm etdiyin kimi, onlarda gizli olan və Sənin məxluqlarının qəblərini və bəndələrinin ürəklərini canlandıran bəxşişləri tapa bilmirlər. İlahi, məni o kəslərin arasında say ki, Sənin günlərində əsən şirin rayihələrdən vəcdə gəldilər və həyatlarını Sənə qurban verdilər, Sənin camalını görmək arzusu və Sənin hüzuruna yetişmək eşqi ilə ölüm səhnəsinə tələsdilər. Onların yolu üstündə kimsə sorsaydı ki, &#34;Hara gedirsiniz&#34;, onlar deyədrilər, &#34;Allaha doğru, Hər Şeyə Malik, Əzəmətli və Qəyyum Allaha!&#34;Səndən üz çevirənlərin və Sənə təkəbbür göztərənlərin törətdiyi zülm onları Səni sevməkdən, Sənə yönəlməkdən və üzlərini Sənin mərhəmətinə tutmaqdan saxlaya bilmədi. Bunlar o kəslərdir ki, Mələy`i-Əladan xeyir-dua alıblar, əbədi Şəhərlərin sakinləri, daha sonra, o kəslər onları alqışlayıb ki, Sənin ən uca qələmin onların alnına yazıb: &#34;Bunlar onlardır! Bəha əhli! Onların vasitəsilə hidayət nurlarının şəfəqləri yayılıb&#34;. Sənin əmrin və Sənin iradənlə, Sənin dəfedilməz təqdir Lövhündə belə yazılıb.Ona görə də, Ey mənim Allahım, onların və o kəslərin böyüklüyünü bəyan et ki, yaşayarkən və ya dünyalarını dəyişdikdən sonra onların ətrafına dolanırlar. Onlara Öz məxluqatın arasında insaflı olanlara qismət etdiklərini nəsib eylə. Sən hər şey etməyə Qadirsən. Səndən başqa Allah yoxdur, Ən Qüvvətli, Əzəmətli, Ən Qüdrətli və Ən Kəramətli.Bizim oruclarımızı bu orucla bitirmə, İlahi, nə də ki, bu bizim Səninlə son əhdimiz olsun. Sənin məhəbbətin xatirinə və Sənin razılığın üçün etdiyimiz hər şeyi və öz nəfsimiz və ehtirasımıza tabe olduğumuzdan edə bilmədiklərimizi bizdən qəbul eylə. Sonra bizi qadir eylə ki, Sənin məhəbbətinə və razılığına möhkəm bağlanaq, Səni inkar edənlərin və Sənin ən parlaq əlamətlərini rədd edənlərin şərindən bizi hifz eylə. Sən, həqiqətdə, bu dünyanın və o biri dünyanın Rəbbisən. Səndən başqa Allah yoxdur, Sən Uca və Ən Yüksəksən.Ya Rəbb, mənim Allahım, O Kəsi ucalt ki, İlkin Nöqtədir, İlahi Sirdir, Görünməz Zatdır, İlahilik Məşriqi, Rəblik Məzhəridir, O Kəs ki, Onunla keçmişin və gələcəyin bütün elmləri aydın oldu, Onunla pünhan hikmət gövhərləri aşkara çıxdı, Sənin gizli saxlanmış adının sirri açıldı, O Kəs ki, Onu Sən O Kəsin Müjdəçisi təyin etdin ki, Onun adıyla &#34;O&#34; və &#34;L&#34; hərfləri birləşdi və qovuşdu, Onunla Sənin əzəmətin, hökmranlığın və Sənin qüdrətin aşkar oldu, Onunla Sənin sözlərin nazil oldu və Sənin qanunların aydınlığı ilə məlum oldu, Sənin əlamətlərin hər yana yayıldı, Sənin Sözün bərqərar oldu, Onunla Sənin seçilmişlərinin ürəklərindəkilər açıldı, göydə və yerdə olanların hamısı bir yerə toplaşdı, O Kəs ki, Sən Onu Öz adlarının səltənətində &#34;Əli-Məhəmməd&#34;, Sənin dəyişməz hökmünün Lövhlərində &#34;Ruhlar Ruhu&#34; adlandırdın, O kəs ki, Sən Ona Öz adını verdin, O Kəs ki, Sənin hökmün və Sənin Qüdrətinin qüvvəsi ilə bütün adlar Onun adına qayıtdı, O Kəs ki, Onda Sən özünün bütün əlamət və adlarını son həddinə çatdırdın. Ona həm də o adlar məxsusdur ki, Sənin pak çadırlarında, Sənin qeyb aləmində və pak şəhərlərində gizlədilib.Bundan başqa, Onun Sonrakı Zühurunda Sənin birliyini tanıyanların arasından Ona və Onun əlamətlərinə iman gətirənləri, Ona tərəf dönənləri ucalt, O Zühur ki, Onun barəsində O Öz Lövhlərində, Kitablarında, Səhifələrində və Ona nazil olan bütün ecazkar ayələrində və gövhər kimi bəyanlarında xatırlatmışdı. Bu həmin o Zühurdur ki, Onun əhdini Sən Ona Öz əhdini bağlayandan əvvəl bərqərar etməyi hökm etmişdin. Bu O Kəsdir ki, Bəyan Onun tərifini ucaldıb. Bunda (Bəyanda) Onun aliliyi vəsf olunub, Onun həqiqəti təsbit olunub, Onun hökmranlığı bəyan edilib və Onun Əmri təkmil olub. Xoş o kəsin halına ki, Ona tərəf dönüb, Onun hökm etdiklərini yerinə yetirib, Sən ey bu dünyanın Rəbbi və Səni tanıyanların Məqsudu!Təriflər olsun Sənə, Ey mənim Allahım, çünki Sən bizə kömək etdin ki, Onu tanıyaq və sevək. Ona görə də, Səni and verirəm, Ona və O Kəslərə ki, Sənin Allahlığının Məşriqləri və Sənin Rəbliyinin Məzhərləri, Sənin Vəhyinin Xəzinələri və ilhamının Dəfinələridir – bizi qabil et ki, Ona xidmət edək və Ona itaət edək, bizi qadir et ki, Onun əmrinin köməkçiləri olaq və Onun düşmənlərini pərən-pərən salaq. Sən istədiyin bütün şeyləri etməyə Qadirsən. Səndən başqa Allah yoxdur, Qüdrətli, Ən Cəlallıl, O Allah ki, hamı Onun köməyini diləyir!
+Alqış Sənə, Ya Rəbb, mənim Allahım! Bunlar o günlərdir ki, Sən bütün insanlara Oruc tutmağı hökm etmisən, ta ki, bununla onlar öz qəlblərini təmizləsinlər, Səndən başqa hər şeyə bağlılıqdan qurtulsunlar və onların ürəklərindən elə şeylər yüksəlsin ki, Sənin əzəmət sarayına layiq olsun və Sənin birliyinin təzahürünün taxtına yaraşsın. İzn ver, İlahi, qoy bu oruc abi-həyat çeşməsi olsun və Sənin ona əta etdiyin bəhrəni versin. Bununla Sən bəndələrinin ürəklərini təmizlə, o bəndələr ki, dünyanın şəri onların Sənin Əbha Adına yönəlməsinə mane ola bilmədi, o kəslər ki, Sənin Öz hökmranlığını, qüdrətini, əzəmətini və şərəfini əta etdiyin Zühurunun gəlişini müşayiət edən Sənə məxsus ən parlaq əlamətləri inkar edənlərin çaxnaşması və hay-küyü onları sarsıda bilmədi. Bunlar o bəndələrdir ki, Sənin nidan onlara yetişən kimi, Sənin mərhəmətinə doğru tələsdilər və bu dünyanın qəzavü-qədəri və ya bəşəri məhdudiyyətləri onları Səndən saxlaya bilmədi.Mən o kəsəm ki, Ey mənim Allahım, Sənin birliyinə şəhadət verir, Sənin təkliyini iqrar edir, Sənin əzəmətinin təzahürləri qarşısında itaətlə baş əyir, o kəsəm ki, tutqun üzlə Sənin ən ali cəlalının işığının təcəllilərini etiraf edir. Sənin Özünü tanımaq üçün məni qabil etdikdən sonra Sənə iman gətirdim, O Kəs ki, Sən Onu Öz hökmranlığının və qüdrətinin gücü ilə insanların gözü qarşısında zühur etdirdin. Mən Ona dönmüşəm, hər şeydən büsbütün ayrılmışam, Sənin bəxşiş və lütflərinin ipindən möhkəm yapışmışam. Mən Onun həqiqətini və Ona nazil olan bütün ecazkar qanunların və hökmlərin həqiqətini qəbul etmişəm. Mən Sənin məhəbbətin üçün oruc tutmuşam və Sənin göstərişinə əməl edərək dilimdə Sənin zikrin və Sənin razılığınla iftarımı açmışam. Izn vermə, Ilahi, o kəslərin arasında sayılım ki, gündüzlər oruc tutublar, gecələr Sənin üzün qarşısında səcdə ediblər, amma Sənin həqiqətini inkar ediblər, Sənin əlamətlərinə inanmayıblar, Sənin sübutunu rədd ediblər və Sənin bəyanını təhrif ediblər.İlahi, mənim gözlərimi və Səni axtaranların hamısının gözlərini aç ki, biz Səni Sənin Öz gözlərinlə tanıyaq. Bu, Öz əmrinlə seçdiyin, bütün məxluqatının üzərində lütfün üçün ayırdığın, Öz hökmranlığını əta edərək xüsusi iltiafat göstərdiyin və insanlarına Müraciətini etibar etdiyin Kəsə göndərdiyin Kitabda bizlərə verdiyin əmrindir. Təriflər olsun Sənə, ona görə də, Ey mənim Allahım, çünki Sən fəzlinlə bizi Onu tanımağa və Ona nazil olan hər şeyi qəbul etməyə qabil etdin və bizə Kitabında və Lövhlərində vədini verdiyin Kəsin hüzuruna yetişmək şərəfi verdin.Sən məni görürsən, Ey mənim Allahım, üzümü Sənə tərəf çevirmişəm, Sənin təqdir və səxavət ipindən yapışmış, mərhəmət və kərəminin ətəyindən tutmuşam. Yalvarıram Sənə, Sənin dərgahının həndəvərinə və hüzurunun məbədinə üzünü tutan və Sənə məhəbbət xatirinə oruc tutan bəndələrinə qismət etdiklərinə yetişmək ümidlərimi puça çıxarma. Mən etiraf edirəm, Ey mənim Allahım, mənim bütün etdiklərim Sənin hökmranlığına və əzəmətinə əsla layiq deyil. Bununla belə, ən parlaq Adınla öz gözəlliyini aşkara çıxardığın bu Zühurda mükəmməl adlarının şərəfi ilə bütün yaranmış şeylərə izhar etdiyin o Adına and verirəm ki, Sənin iradənin sağ əlindən axan şərbətindən mənə içir, ta ki, mən nəzərlərimi Sənə elə dikim və Səndən başqa hər şeydən elə ayrılım ki, dünya və onda yaradılan hər şeyə yaratmağa layiq bilmədiyin ani bir gün kimi baxım.Mən bir daha Sənə yalvarıram, Ey mənim Allahım, Sənin iradə göyündən və mərhəməт buludlarından onları yağdır ki, bizi xətalarımızın qoxusundan təmizləsin, Sən Ey Özünü Mərhəmət Allahı adlandıran Kəs! Sən, həqiqətən, Ən Qüvvətli, Ən Nurlu, Xeyirxahsan.İlahi, Sənə dönən kəsi rədd etmə, Sənə yaxınlaşmış kəsi dərgahından uzaq tutma, Sənin fəzlin və lütfün üçün yanğı ilə əllərini uzadıb yalvaran kəsin ümidlərini puça çıxarma və səmimi bəndələrini Öz mərhəmət və inayətinin möcüzələrindən məhrum etmə. Sən Bağışlayan və Kəramətlisən, İlahi! İstədiyini etməyə Sənin qüdrətin var. Səndən başqaları Sənin qüdrətinin təzahürləri qarşısında gücsüzdür və Sənin zənginliyinin dəlilləri qarşısında səfildir, Sənin fövqəl hökmranlığının təzahürləri ilə müqayisədə bir heçdir və Sənin qüdrət əlamətlərin və nişanələrin qarşısında gücdən tam məhrumdur. Səndən başqa sığınacaq varmıdır ki, İlahi, mən ona sığınım, haradadır o pənah yeri ki, mən ona tələsim. Xeyr, Sənin qüdrətinin qüvvəti mənə şahidlik edir! Səndən özgə mühafizəçi yoxdur, Səndən qeyri pənah yeri yoxdur, Səndən başqa axtarılası sığınacaq yoxdur. Mənə Sənin zikrinin və tərifinin ilahi şirinliyini dadızdır. Sənin qüdrətinə and olsun! Kimsə bunun şirinliyini dadsa, dünyada və onda olanlara olan bütün bağlılıqlardan özünü qurtarar və Səndən başqa hər kəsin zikrindən təmizlənərək üzünü Sənə tutаr.Sonra, Ey mənim Allahım, Sənin ecazkar zikrinlə mənim qəlbimi ruhlandır, ta ki, mən Sənin adını vəsf edim. Məni o kəslərdən etmə ki, Sənin sözlərini oxuyurlar, lakin Sənin hökm etdiyin kimi, onlarda gizli olan və Sənin məxluqlarının qəblərini və bəndələrinin ürəklərini canlandıran bəxşişləri tapa bilmirlər. İlahi, məni o kəslərin arasında say ki, Sənin günlərində əsən şirin rayihələrdən vəcdə gəldilər və həyatlarını Sənə qurban verdilər, Sənin camalını görmək arzusu və Sənin hüzuruna yetişmək eşqi ilə ölüm səhnəsinə tələsdilər. Onların yolu üstündə kimsə sorsaydı ki, "Hara gedirsiniz", onlar deyədrilər, "Allaha doğru, Hər Şeyə Malik, Əzəmətli və Qəyyum Allaha!"Səndən üz çevirənlərin və Sənə təkəbbür göztərənlərin törətdiyi zülm onları Səni sevməkdən, Sənə yönəlməkdən və üzlərini Sənin mərhəmətinə tutmaqdan saxlaya bilmədi. Bunlar o kəslərdir ki, Mələy`i-Əladan xeyir-dua alıblar, əbədi Şəhərlərin sakinləri, daha sonra, o kəslər onları alqışlayıb ki, Sənin ən uca qələmin onların alnına yazıb: "Bunlar onlardır! Bəha əhli! Onların vasitəsilə hidayət nurlarının şəfəqləri yayılıb". Sənin əmrin və Sənin iradənlə, Sənin dəfedilməz təqdir Lövhündə belə yazılıb.Ona görə də, Ey mənim Allahım, onların və o kəslərin böyüklüyünü bəyan et ki, yaşayarkən və ya dünyalarını dəyişdikdən sonra onların ətrafına dolanırlar. Onlara Öz məxluqatın arasında insaflı olanlara qismət etdiklərini nəsib eylə. Sən hər şey etməyə Qadirsən. Səndən başqa Allah yoxdur, Ən Qüvvətli, Əzəmətli, Ən Qüdrətli və Ən Kəramətli.Bizim oruclarımızı bu orucla bitirmə, İlahi, nə də ki, bu bizim Səninlə son əhdimiz olsun. Sənin məhəbbətin xatirinə və Sənin razılığın üçün etdiyimiz hər şeyi və öz nəfsimiz və ehtirasımıza tabe olduğumuzdan edə bilmədiklərimizi bizdən qəbul eylə. Sonra bizi qadir eylə ki, Sənin məhəbbətinə və razılığına möhkəm bağlanaq, Səni inkar edənlərin və Sənin ən parlaq əlamətlərini rədd edənlərin şərindən bizi hifz eylə. Sən, həqiqətdə, bu dünyanın və o biri dünyanın Rəbbisən. Səndən başqa Allah yoxdur, Sən Uca və Ən Yüksəksən.Ya Rəbb, mənim Allahım, O Kəsi ucalt ki, İlkin Nöqtədir, İlahi Sirdir, Görünməz Zatdır, İlahilik Məşriqi, Rəblik Məzhəridir, O Kəs ki, Onunla keçmişin və gələcəyin bütün elmləri aydın oldu, Onunla pünhan hikmət gövhərləri aşkara çıxdı, Sənin gizli saxlanmış adının sirri açıldı, O Kəs ki, Onu Sən O Kəsin Müjdəçisi təyin etdin ki, Onun adıyla "O" və "L" hərfləri birləşdi və qovuşdu, Onunla Sənin əzəmətin, hökmranlığın və Sənin qüdrətin aşkar oldu, Onunla Sənin sözlərin nazil oldu və Sənin qanunların aydınlığı ilə məlum oldu, Sənin əlamətlərin hər yana yayıldı, Sənin Sözün bərqərar oldu, Onunla Sənin seçilmişlərinin ürəklərindəkilər açıldı, göydə və yerdə olanların hamısı bir yerə toplaşdı, O Kəs ki, Sən Onu Öz adlarının səltənətində "Əli-Məhəmməd", Sənin dəyişməz hökmünün Lövhlərində "Ruhlar Ruhu" adlandırdın, O kəs ki, Sən Ona Öz adını verdin, O Kəs ki, Sənin hökmün və Sənin Qüdrətinin qüvvəsi ilə bütün adlar Onun adına qayıtdı, O Kəs ki, Onda Sən özünün bütün əlamət və adlarını son həddinə çatdırdın. Ona həm də o adlar məxsusdur ki, Sənin pak çadırlarında, Sənin qeyb aləmində və pak şəhərlərində gizlədilib.Bundan başqa, Onun Sonrakı Zühurunda Sənin birliyini tanıyanların arasından Ona və Onun əlamətlərinə iman gətirənləri, Ona tərəf dönənləri ucalt, O Zühur ki, Onun barəsində O Öz Lövhlərində, Kitablarında, Səhifələrində və Ona nazil olan bütün ecazkar ayələrində və gövhər kimi bəyanlarında xatırlatmışdı. Bu həmin o Zühurdur ki, Onun əhdini Sən Ona Öz əhdini bağlayandan əvvəl bərqərar etməyi hökm etmişdin. Bu O Kəsdir ki, Bəyan Onun tərifini ucaldıb. Bunda (Bəyanda) Onun aliliyi vəsf olunub, Onun həqiqəti təsbit olunub, Onun hökmranlığı bəyan edilib və Onun Əmri təkmil olub. Xoş o kəsin halına ki, Ona tərəf dönüb, Onun hökm etdiklərini yerinə yetirib, Sən ey bu dünyanın Rəbbi və Səni tanıyanların Məqsudu!Təriflər olsun Sənə, Ey mənim Allahım, çünki Sən bizə kömək etdin ki, Onu tanıyaq və sevək. Ona görə də, Səni and verirəm, Ona və O Kəslərə ki, Sənin Allahlığının Məşriqləri və Sənin Rəbliyinin Məzhərləri, Sənin Vəhyinin Xəzinələri və ilhamının Dəfinələridir – bizi qabil et ki, Ona xidmət edək və Ona itaət edək, bizi qadir et ki, Onun əmrinin köməkçiləri olaq və Onun düşmənlərini pərən-pərən salaq. Sən istədiyin bütün şeyləri etməyə Qadirsən. Səndən başqa Allah yoxdur, Qüdrətli, Ən Cəlallıl, O Allah ki, hamı Onun köməyini diləyir!
 
 -- Bahá'u'lláh
 
-bpn4884 «[Azərbaycan](../az/prayers/#bpn4884)» 
+bpn4884 
 
 ----
 
@@ -233,17 +234,17 @@ Bunlar, Ey mənim Allahım, Öz bəndələrinə oruc tutmağı fərz buyurduğun
 
 -- Bahá'u'lláh
 
-bpn4885 «[Azərbaycan](../az/prayers/#bpn4885)» 
+bpn4885 
 
 ----
 
 
 <a id="bpn4886"></a> 
-*Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdürAlqış Sənə, Ey mənim Allahım, Sən Novruzu Sənə məhəbbət xatirinə Oruc tutanlar və Sənin bəyənmədiyin şeylərdən çəkinənlər üçün bayram təyin etdin. Lütf eylə, İlahi, Sənin məhəbbətinin odu və Sənə hökm olunan Orucun törətdiyi hərarət onları Sənin əmrində alovlandırsın, Sənin tərifin və zikrinlə məşğul etsin.Ey mənim Rəbbim, Sən ki onları Özün əmr etdiyin Orucla bəzəmisən, onları həm də bol bəxşişlərin və fəzlin vasitəsilə Sənin qəbul zinətinlə bəzə, çünki insanların bütün əməlləri Sənin razılığından asılıdır və Sənin hökmün altındadır. Əgər Sən Orucu pozan bir kimsəni ona riayət edən kəs kimi qəbul etsən, belə bir şəxs əzəldən Oruc tutanlar arasında sayılar. Əgər Sən Oruc tutanı onu pozmuş kəs kimi qərar versən, o şəxs Sənin Məzhərinin ətəyini ləkələyən və bu Həyat çeşməsinin şəffaf sularından uzaqlaşdırılmış kəslərin cərgəsində sayılar.Sən O Allahsan ki, Onunla &#34;Sən Öz əməllərində Tərifəlayiqsən&#34; rəmzi yüksəlmiş, və &#34;Sən Öz əmrində itaət Olunansan&#34; bayrağı açılmışdır. Özünün bu məqamını, Ey mənim Allahım, öz bəndələrinə tanıtdır, ta ki, onlar yaxşı anlasınlar ki, bütün şeylərin aliliyi Sənin əmrin və kəlməndən asılıdır və hər bir əməlin yaxşlılğı Sənin iznin və razılığınla şərtlənir və bilsinlər ki, insanların əməllərinin cilovu Sənin qəbul və hökmün ovcundadır. Bunu onlara bildir ki, heç nə onları Sənin Camalından ayıra bilməz, o günlərdə ki, isa Məsih səsini ucaldır: &#34;Bütün hökmranlıq Sənindir, Sən Ey Ruhu (İsanı) Yaradan&#34;; və Sənin Sevimli Dostun (Məhəmməd) səslənir: &#34;Alqış Sənə, Sən Ey Məhbub, çünki Sən öz Camalını açdın və Öz seçilmişlərinə Sənin ən Böyük Adının zühur taxtına yetişməyə səbəb olanları yazdın, O Ad ki, Onunla Səndən başqa hər şeydən inqita edən və Sənin Özünün Zühurun və Sənin sifətlərinin Məzhəri olan Kəsə üz tutanlardan başqa bütün ümmətlər ah-nalə etmişlər.&#34;Sənin Budağın Olan Kəs və Sənin ətrafında olanlar, Ey mənim Rəbbim, bu gün öz oruclarını Sənin sarayının həndəvərində ona riayət etdikdən sonra və Səni razı salmaq şövqü ilə açmışlar. Ona və həm də onlara və o günlərdə Sənin hüzuruna yetişənlərə, Öz Kitabında qismət kimi yazdığın xeyirləri nəsib eylə. Sonra, bu dünyada və axirətdə onlara fayda verən şeylərdən ruzi ver.Sən, həqiqətən, Hər şeyi Bilən, Ən Hikmətlisən.
+*Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdürAlqış Sənə, Ey mənim Allahım, Sən Novruzu Sənə məhəbbət xatirinə Oruc tutanlar və Sənin bəyənmədiyin şeylərdən çəkinənlər üçün bayram təyin etdin. Lütf eylə, İlahi, Sənin məhəbbətinin odu və Sənə hökm olunan Orucun törətdiyi hərarət onları Sənin əmrində alovlandırsın, Sənin tərifin və zikrinlə məşğul etsin.Ey mənim Rəbbim, Sən ki onları Özün əmr etdiyin Orucla bəzəmisən, onları həm də bol bəxşişlərin və fəzlin vasitəsilə Sənin qəbul zinətinlə bəzə, çünki insanların bütün əməlləri Sənin razılığından asılıdır və Sənin hökmün altındadır. Əgər Sən Orucu pozan bir kimsəni ona riayət edən kəs kimi qəbul etsən, belə bir şəxs əzəldən Oruc tutanlar arasında sayılar. Əgər Sən Oruc tutanı onu pozmuş kəs kimi qərar versən, o şəxs Sənin Məzhərinin ətəyini ləkələyən və bu Həyat çeşməsinin şəffaf sularından uzaqlaşdırılmış kəslərin cərgəsində sayılar.Sən O Allahsan ki, Onunla "Sən Öz əməllərində Tərifəlayiqsən" rəmzi yüksəlmiş, və "Sən Öz əmrində itaət Olunansan" bayrağı açılmışdır. Özünün bu məqamını, Ey mənim Allahım, öz bəndələrinə tanıtdır, ta ki, onlar yaxşı anlasınlar ki, bütün şeylərin aliliyi Sənin əmrin və kəlməndən asılıdır və hər bir əməlin yaxşlılğı Sənin iznin və razılığınla şərtlənir və bilsinlər ki, insanların əməllərinin cilovu Sənin qəbul və hökmün ovcundadır. Bunu onlara bildir ki, heç nə onları Sənin Camalından ayıra bilməz, o günlərdə ki, isa Məsih səsini ucaldır: "Bütün hökmranlıq Sənindir, Sən Ey Ruhu (İsanı) Yaradan"; və Sənin Sevimli Dostun (Məhəmməd) səslənir: "Alqış Sənə, Sən Ey Məhbub, çünki Sən öz Camalını açdın və Öz seçilmişlərinə Sənin ən Böyük Adının zühur taxtına yetişməyə səbəb olanları yazdın, O Ad ki, Onunla Səndən başqa hər şeydən inqita edən və Sənin Özünün Zühurun və Sənin sifətlərinin Məzhəri olan Kəsə üz tutanlardan başqa bütün ümmətlər ah-nalə etmişlər."Sənin Budağın Olan Kəs və Sənin ətrafında olanlar, Ey mənim Rəbbim, bu gün öz oruclarını Sənin sarayının həndəvərində ona riayət etdikdən sonra və Səni razı salmaq şövqü ilə açmışlar. Ona və həm də onlara və o günlərdə Sənin hüzuruna yetişənlərə, Öz Kitabında qismət kimi yazdığın xeyirləri nəsib eylə. Sonra, bu dünyada və axirətdə onlara fayda verən şeylərdən ruzi ver.Sən, həqiqətən, Hər şeyi Bilən, Ən Hikmətlisən.
 
 -- Bahá'u'lláh
 
-bpn4886 «[Azərbaycan](../az/prayers/#bpn4886)» 
+bpn4886 
 
 ----
 
@@ -253,27 +254,27 @@ bpn4886 «[Azərbaycan](../az/prayers/#bpn4886)»
 
 -- Bahá'u'lláh
 
-bpn4893 «[Azərbaycan](../az/prayers/#bpn4893)» 
+bpn4893 
 
 ----
 
 
 <a id="bpn4894"></a> 
-*&#34;Bu gündəlik namazlara, şəfa Duası, Əhməd Lövhü kimi digər bir neçə xüsusi dualarla yanaşı, Həzrət Bəhaullah tərəfindən fövqəladə güc və əhəmiyyət əta edilmişdir və ona görə də onları belə qəbul etmək lazımdır. Möminlər onları şübhəsiz iman və inamla oxumalıdırlar ki, onların vasitəsilə Allahla daha yaxın ünsiyyətə girə bilsinlər və özlərini Onun qanun və hökmləri ilə daha tam uyğunlaşdırsınlar.Odur Sultan, hər şeyi Bilən və Hikmətli!Budur, Cənnət Bülbülü Əbədiyyət Ağacının budaqları üzərində müqəddəs və şirin avazla oxuyur. Тəmiz qəlblilərə Allahın yaxınlığından müjdə verir, Allahın Birliyinə inananları Səxavətli Allahın Hüzurunа çağırır, inqitа еdənlərə Sultan, Cəlallı, Bənzərsiz Allahın nazil etdiyi bu müraciətdən xəbər verir və aşiqləri Müqəddəslik Məqamına və bu nurlu Camala doğru yönəldir.Həqiqətən, bu həmin O Ən Böyük Camaldır ki, Peyğəmbərlərin Kitablarında öncədən xəbər verilmişdi, Onun vasitəsilə haqq nahaqdan ayrılar, hər bir əmrin hikməti Onunla sınanar. Həqiqətən, O, bir Həyat Ağacıdır ki, onun barı Uca, Güclü və Ulu Allahın meyvələridir.Ey Əhməd! Sən buna şəhadət ver ki, həqiqətən, Odur Allah və Ondan başqa Allah yoxdur, O Sultan, Hifz Edən, Misilsiz və Qüdrətlidir, və &#34;Əli&#34; adı ilə göndərilən O şəxs haqdır və biz hamımız Onun əmrlərinə əməl edənlərik.Söylə: Ey insanlar, Cəlallı və Hikmətli Allahın Bəyanda hökm etdiklərinə itaət edin. Həqiqətən, O, Elçilərin Padşahı və Onun Kitabı Ana Kitabdır, kaş ki, bilənlərdən olardınız.Bu Bülbül sizə bu məhbəsdən belə səslənir. O, ancaq bu aydın müraciəti sizə çatdırmalıdır. Kim istəyir, qoy bu nəsihətdən üz çevirsin, kim istəyirsə, qoy öz Rəbbinə gedən yolu seçsin.Ey qövm, əgər siz bu ayələri inkar etsəniz, onda Allaha hansı dəlil ilə iman gətirmişdiniz? Göstərin dəlilinizi, ey yalançılar zümrəsi.Xeyr, mənim canım əlində Olana and olsun, onlar bunu edə bilməyəcəklər və heç vaxt da buna qadir olmayacaqlar, hətta bir-birlərilə köməkləşsələr də.Ey Əhməd! Mən olmayanda fəzlimi unutma. Sənin günlərində, Mənimlə olan günləri və bu uzaq məhbəsdə hüznümü və qəribliyimi xatırla. Sevgimdə elə möhkəm dur ki, hətta başına düşmən qılıncları ensə və bütün yer-göy əleyhinə qalxsa, ürəyin əsla tərəddüd etməsin.Düşmənlərimə bir yanar od, dostlarıma isə əbədi həyat çeşməsi ol və şübhə edənlərdən olma.Və əgər yolumda bir bəlaya düşsən və ya Adımdan ötrü bir zillətə uğrasan, üzülmə.Allaha təvəkkül eylə, sənin Allahın və atalarının Rəbbi olan Allaha. Zira, xalq yanlış yolda sərgərdandır və Allahı öz gözləri ilə görmək və Onun Nəğmələrini öz qulaqları ilə eşitmək bəsirətindən məhrumdurlar. Biz onları belə gördük, sən də buna şahidsən.Onların xurafatı onlarla qəlbləri arasında beləcə pərdəyə çevrilmiş və onlar Uca və Ulu Allahın yolundan beləcə kənarda qalmışlar.Sən öz qəlbində buna əmin ol ki, bu Camaldan üz çevirmiş olan bir kimsə, bundan öncə gələn bütün Elçilərdən də üz çevirmiş və əzəldən əbədiyyətədək Allaha təkəbbür göstərmiş olur.Yaxşı öyrən bu lövhü, ey Əhməd. Öz günlərində onu avazla oxu və özünü ondan məhrum etmə. Çünki həqiqətən, Allah onu oxuyana yüz şəhidin və hər iki dünyada ibadət edənlərin mükafatını müəyyən etmişdir. Biz Öz tərəfimizdən sənə bir fəzlimiz və hüzurumuzdan bir mərhəmət olaraq bu iltifatı göstərdik ki, sən şükr edənlərdən olasan.Allaha and olsun! Çətinliyə və ya qəm-qüssəyə düşən bir kimsə bu Lövhü sidq ürəklə oxusa, Allah onun kədərini dağıdar, çətinliyini qaldırar və dərdini yox edər.Həqiqətən, O Rəhmlidir, Şəfqətlidir. Alqış olsun Allaha, aləmlərin Rəbbinə.
+*"Bu gündəlik namazlara, şəfa Duası, Əhməd Lövhü kimi digər bir neçə xüsusi dualarla yanaşı, Həzrət Bəhaullah tərəfindən fövqəladə güc və əhəmiyyət əta edilmişdir və ona görə də onları belə qəbul etmək lazımdır. Möminlər onları şübhəsiz iman və inamla oxumalıdırlar ki, onların vasitəsilə Allahla daha yaxın ünsiyyətə girə bilsinlər və özlərini Onun qanun və hökmləri ilə daha tam uyğunlaşdırsınlar.Odur Sultan, hər şeyi Bilən və Hikmətli!Budur, Cənnət Bülbülü Əbədiyyət Ağacının budaqları üzərində müqəddəs və şirin avazla oxuyur. Тəmiz qəlblilərə Allahın yaxınlığından müjdə verir, Allahın Birliyinə inananları Səxavətli Allahın Hüzurunа çağırır, inqitа еdənlərə Sultan, Cəlallı, Bənzərsiz Allahın nazil etdiyi bu müraciətdən xəbər verir və aşiqləri Müqəddəslik Məqamına və bu nurlu Camala doğru yönəldir.Həqiqətən, bu həmin O Ən Böyük Camaldır ki, Peyğəmbərlərin Kitablarında öncədən xəbər verilmişdi, Onun vasitəsilə haqq nahaqdan ayrılar, hər bir əmrin hikməti Onunla sınanar. Həqiqətən, O, bir Həyat Ağacıdır ki, onun barı Uca, Güclü və Ulu Allahın meyvələridir.Ey Əhməd! Sən buna şəhadət ver ki, həqiqətən, Odur Allah və Ondan başqa Allah yoxdur, O Sultan, Hifz Edən, Misilsiz və Qüdrətlidir, və "Əli" adı ilə göndərilən O şəxs haqdır və biz hamımız Onun əmrlərinə əməl edənlərik.Söylə: Ey insanlar, Cəlallı və Hikmətli Allahın Bəyanda hökm etdiklərinə itaət edin. Həqiqətən, O, Elçilərin Padşahı və Onun Kitabı Ana Kitabdır, kaş ki, bilənlərdən olardınız.Bu Bülbül sizə bu məhbəsdən belə səslənir. O, ancaq bu aydın müraciəti sizə çatdırmalıdır. Kim istəyir, qoy bu nəsihətdən üz çevirsin, kim istəyirsə, qoy öz Rəbbinə gedən yolu seçsin.Ey qövm, əgər siz bu ayələri inkar etsəniz, onda Allaha hansı dəlil ilə iman gətirmişdiniz? Göstərin dəlilinizi, ey yalançılar zümrəsi.Xeyr, mənim canım əlində Olana and olsun, onlar bunu edə bilməyəcəklər və heç vaxt da buna qadir olmayacaqlar, hətta bir-birlərilə köməkləşsələr də.Ey Əhməd! Mən olmayanda fəzlimi unutma. Sənin günlərində, Mənimlə olan günləri və bu uzaq məhbəsdə hüznümü və qəribliyimi xatırla. Sevgimdə elə möhkəm dur ki, hətta başına düşmən qılıncları ensə və bütün yer-göy əleyhinə qalxsa, ürəyin əsla tərəddüd etməsin.Düşmənlərimə bir yanar od, dostlarıma isə əbədi həyat çeşməsi ol və şübhə edənlərdən olma.Və əgər yolumda bir bəlaya düşsən və ya Adımdan ötrü bir zillətə uğrasan, üzülmə.Allaha təvəkkül eylə, sənin Allahın və atalarının Rəbbi olan Allaha. Zira, xalq yanlış yolda sərgərdandır və Allahı öz gözləri ilə görmək və Onun Nəğmələrini öz qulaqları ilə eşitmək bəsirətindən məhrumdurlar. Biz onları belə gördük, sən də buna şahidsən.Onların xurafatı onlarla qəlbləri arasında beləcə pərdəyə çevrilmiş və onlar Uca və Ulu Allahın yolundan beləcə kənarda qalmışlar.Sən öz qəlbində buna əmin ol ki, bu Camaldan üz çevirmiş olan bir kimsə, bundan öncə gələn bütün Elçilərdən də üz çevirmiş və əzəldən əbədiyyətədək Allaha təkəbbür göstərmiş olur.Yaxşı öyrən bu lövhü, ey Əhməd. Öz günlərində onu avazla oxu və özünü ondan məhrum etmə. Çünki həqiqətən, Allah onu oxuyana yüz şəhidin və hər iki dünyada ibadət edənlərin mükafatını müəyyən etmişdir. Biz Öz tərəfimizdən sənə bir fəzlimiz və hüzurumuzdan bir mərhəmət olaraq bu iltifatı göstərdik ki, sən şükr edənlərdən olasan.Allaha and olsun! Çətinliyə və ya qəm-qüssəyə düşən bir kimsə bu Lövhü sidq ürəklə oxusa, Allah onun kədərini dağıdar, çətinliyini qaldırar və dərdini yox edər.Həqiqətən, O Rəhmlidir, Şəfqətlidir. Alqış olsun Allaha, aləmlərin Rəbbinə.
 
 -- Bahá'u'lláh
 
-bpn4894 «[Azərbaycan](../az/prayers/#bpn4894)» 
+bpn4894 
 
 ----
 
 
 <a id="bpn4895"></a> 
-*&#34;Müqəddəs Dənizçi Lövhünü öyrən ki, sən həqiqəti biləsən və görəsən ki, Camal-i Mübarək gələcək hadisələri bütünlüklə öncədən xəbər vermişdir. Qoy bəsirəti olanlar bundan ibrət alsınlar.&#34; -Əbdül-Bəha AbbasOdur Kəramətli, Sevgili Məhbub! Ey Müqəddəs Dənizçi! Öz əbədiyyət gəmini Mələyi-Əlanın qarşısına sür;Sübhandır mənim Əbha Rəbbim!Sonra burax onu qədim dənizə, Onun Ən Ecazkar Adıyla;Sübhandır mənim Əbha Rəbbim!Və məlaikə ruhları ona mindir, Allahın Ən Uca Adıyla;Sübhandır mənim Əbha Rəbbim!Sonra onu lövbərdən azad et ki, əzəmət dəryasına üzsün;Sübhandır mənim Əbha Rəbbim!Bəlkə onun sərnişinləri ölümsüzlük diyarında yaxınlıq köşklərinə yan alalar;Sübhandır mənim Əbha Rəbbim!Müqəddəs sahilə, qırmızı dənizin kənarına çatanda;Sübhandır mənim Əbha Rəbbim!Onları endir ki, bu görünməz səmavi məqama çatsınlar;Sübhandır mənim Əbha Rəbbim!O məqam ki, orada Rəbb öz Camalının Alovu ilə ölümsüzlük ağacında işıq saçmışdı ;Sübhandır mənim Əbha Rəbbim!Harada ki, Onun Əmrinin mücəssəmələri özlərini nəfs və ehtirasdan təmizlədilər;Sübhandır mənim Əbha Rəbbim!O məqam ki, ətrafına ölümsüz qoşunlarla Musanın şərəfi dolanır;Sübhandır mənim Əbha Rəbbim!Harada ki, Allahın Əli Onun Əzəmət qoynundan çıxmışdır;Sübhandır mənim Əbha Rəbbim!Harada ki, Əmrin gəmisi hərəkətsiz qalır, hətta onun sərnişinlərinə bütün ilahi sifətlər izhar olunsa da;Sübhandır mənim Əbha Rəbbim!Ey Dənizçi! Gəmi əhlinə bizim Sənə sirr pərdəsi arxasında öyrətdiklərimizi öyrət;Sübhandır mənim Əbha Rəbbim!Bəlkə onlar müqəddəs, bəmbəyaz yerdə gecikməyələr;Sübhandır mənim Əbha Rəbbim!Və ruh qanadları üzərində Rəbbin aşağı dünyalardakı bütün sözlərdən daha uca etdiyi o məqama yüksələlər;Sübhandır mənim Əbha Rəbbim!Əbədi vüsal səmasındakı sevimli quşlar kimi fəzada qanad açalar;Sübhandır mənim Əbha Rəbbim!Nur Dənizlərində gizli qalmış sirlərdən agah olalar;Sübhandır mənim Əbha Rəbbim!Onlar dünyəvi hüdudları aşdılar və tovhid məqamına, səmavi hidayət mərkəzinə yetişdilər;Sübhandır mənim Əbha Rəbbim!Onlar Rəbbin onların məqamlarından üstün buyurduğu o məqama yüksəlmək istədilər;Sübhandır mənim Əbha Rəbbim!Onda Onun Hüzur Səltənətində sakin olanların yanından yanar bir şahab onları qovdu;Sübhandır mənim Əbha Rəbbim!Və onlar Cəlal Zirvəsindəki görünməz çadırın arxasından əzəmət Səsini eşitdilər;Sübhandır mənim Əbha Rəbbim!“Ey qoruyucu mələklər! Qaytarın onları aşağı aləmdəki yerlərinə;Sübhandır mənim Əbha Rəbbim!Çünki, onlar cənnət göyərçininin heç vaxt yetişmədiyi o fəzaya qalxmaq istəyirlər;Sübhandır mənim Əbha Rəbbim!Ki, orada zənn gəmisi hərəkətsiz qalar və idrak sahibləri onu dərk edə bilməz;”Sübhandır mənim Əbha Rəbbim!Sonra səma hurisi özünün uca köşkündən boylandı;Sübhandır mənim Əbha Rəbbim!Və qaşı ilə Səma Qoşunlarina işarə etdi;Sübhandır mənim Əbha Rəbbim!Üzünün nuru göyü və yeri doldurdu;Sübhandır mənim Əbha Rəbbim!Və onun gözəlliyinin işığı torpaqdan yaranmışların üzərinə düşüncə;Sübhandır mənim Əbha Rəbbim!Bütün varlıqlar fanilik qəbirlərində titrədilər;Sübhandır mənim Əbha Rəbbim!Sonra o elə bir nida ucaltdı ki, əzəldən bəri bir qulaq bunu eşitməmişdi;Sübhandır mənim Əbha Rəbbim!Və belə söylədi: “Rəbbə and olsun! Ürəyində uca və nurlu Ərəb Gəncinin məhəbbət ətri olmayan kəs,Sübhandır mənim Əbha Rəbbim!Uca cənnətin zirvəsinə əsla yüksələ bilməz;”Sübhandır mənim Əbha Rəbbim!Sonra o öz kənizlərindən bir hurini çağırdı,Sübhandır mənim Əbha Rəbbim!Və ona əmr etdi: “Əbədiyyət imarətlərindən aşağı en,Sübhandır mənim Əbha Rəbbim!Onların ürəklərinin ən dərinliklərində gizlətdikləri şeylərə üz tut,Sübhandır mənim Əbha Rəbbim!Zülm əhlinin əllərinin törətdikləri üzündən nur çadırında gizlədilmiş Gəncin köynəyinin ətrini duysan;Sübhandır mənim Əbha Rəbbim!Köksündən elə bir nida qaldır ki, Cənnətin xanəgahındakı əbədi zənginlik mücəssəmələri olan bütün sakinlər anlasınlar və eşitsinlər;Sübhandır mənim Əbha Rəbbim!Ta ki, onların hamısı özlərinin əbədi köşklərindən aşağı ensinlər və titrəsinlər;Sübhandır mənim Əbha Rəbbim!Və vəfa zirvələrinə uçduqları üçün onların əllərini və ayaqlarını öpsünlər;Sübhandır mənim Əbha Rəbbim!Bəlkə Məhbubun ətrini onların köynəklərindən duyalar.”Sübhandır mənim Əbha Rəbbim!Bu zaman, necə ki, Gəncin üzünün nuru Özünün fani bədəni üzərində parlayırdı, sevimli hurinin üzü səmavi köşklərin üzərində parladı;Sübhandır mənim Əbha Rəbbim!Sonra o belə bir zinətlə aşağı endi ki, bütün göyləri və orada olan hər şeyi işıqlandırdı;Sübhandır mənim Əbha Rəbbim!O tərpəndi, müqəddəslik və cəlal diyarlarındakı bütün şeyləri ətirləndirdi;Sübhandır mənim Əbha Rəbbim!O yerə çatanda o, yaradılışın düz ürəyində boy verib qalxdı;Sübhandır mənim Əbha Rəbbim!Və nə əvvəli, nə sonu bilinməyən bir zamanda onların ətrini duymaq istədi;Sübhandır mənim Əbha Rəbbim!Ancaq onlarda axtardığını tapmadı və bu, həqiqətən Onun heyrətamiz rəvayətlərindən biridir;Sübhandır mənim Əbha Rəbbim!Onda o fəryad qopardı, nalə etdi və Özünün Ən Uca Məkanındakı məqamına qayıtdı;Sübhandır mənim Əbha Rəbbim!Sonra isə yavaşca pıçıldadığı, sirli bir söz çıxdı dilindən;Sübhandır mənim Əbha Rəbbim!Və Səma Qoşunları və cənnətin ölməz huriləri arasında belə səsləndi:Sübhandır mənim Əbha Rəbbim!“Allaha and olsun! Mən bu bihudə iddiaçılardan Vəfa nəsimləri duymadım.”Sübhandır mənim Əbha Rəbbim!“Allaha and olsun! Bu Gənc bu qərib yerlərdə imansızların əlində tək-tənha qalıb.”Sübhandır mənim Əbha Rəbbim!Sonra o köksündən elə bir fəryad qopardı ki, Mələyi-Əla nalə etdi və titrədi;Sübhandır mənim Əbha Rəbbim!Sonra o, torpağa düşdü və canını tapşırdı. Sanki, onu Uca Səltənətə çağıran Kəsi eşitmiş və o çağırışa qulaq vermişdi;Sübhandır mənim Əbha Rəbbim!Alqış olsun O Kəsə ki Özünün uca cənnətinin düz ortasında onu məhəbbət cövhərindən yaratdı!Sübhandır mənim Əbha Rəbbim!Bu zaman səma huriləri öz köşklərindən yüyürək çıxdılar ki, onların üzlərinə ən uca cənnətin sakinlərinin gözü heç vaxt dəyməmişdi.Sübhandır mənim Əbha Rəbbim!Onların hamısı onun ətrafına toplandı və bir də gördülər ki, heyhat! Onun bədəni torpağa düşüb;Sübhandır mənim Əbha Rəbbim!Və onlar onun bu halını görüb Gəncin danışdığı rəvayətdəki sözü başa düşəndə başlarını açdılar, paltarlarını cırdılar, üzlərinə döydülər, sevinclərini unutdular, göz yaşları tökdülər, yanaqlarına vurdular; və budur, həqiqətən, əsrarəngiz və ağır bir müsibət.Sübhandır Ucalar Ucası Rəbbimiz!
+*"Müqəddəs Dənizçi Lövhünü öyrən ki, sən həqiqəti biləsən və görəsən ki, Camal-i Mübarək gələcək hadisələri bütünlüklə öncədən xəbər vermişdir. Qoy bəsirəti olanlar bundan ibrət alsınlar." -Əbdül-Bəha AbbasOdur Kəramətli, Sevgili Məhbub! Ey Müqəddəs Dənizçi! Öz əbədiyyət gəmini Mələyi-Əlanın qarşısına sür;Sübhandır mənim Əbha Rəbbim!Sonra burax onu qədim dənizə, Onun Ən Ecazkar Adıyla;Sübhandır mənim Əbha Rəbbim!Və məlaikə ruhları ona mindir, Allahın Ən Uca Adıyla;Sübhandır mənim Əbha Rəbbim!Sonra onu lövbərdən azad et ki, əzəmət dəryasına üzsün;Sübhandır mənim Əbha Rəbbim!Bəlkə onun sərnişinləri ölümsüzlük diyarında yaxınlıq köşklərinə yan alalar;Sübhandır mənim Əbha Rəbbim!Müqəddəs sahilə, qırmızı dənizin kənarına çatanda;Sübhandır mənim Əbha Rəbbim!Onları endir ki, bu görünməz səmavi məqama çatsınlar;Sübhandır mənim Əbha Rəbbim!O məqam ki, orada Rəbb öz Camalının Alovu ilə ölümsüzlük ağacında işıq saçmışdı ;Sübhandır mənim Əbha Rəbbim!Harada ki, Onun Əmrinin mücəssəmələri özlərini nəfs və ehtirasdan təmizlədilər;Sübhandır mənim Əbha Rəbbim!O məqam ki, ətrafına ölümsüz qoşunlarla Musanın şərəfi dolanır;Sübhandır mənim Əbha Rəbbim!Harada ki, Allahın Əli Onun Əzəmət qoynundan çıxmışdır;Sübhandır mənim Əbha Rəbbim!Harada ki, Əmrin gəmisi hərəkətsiz qalır, hətta onun sərnişinlərinə bütün ilahi sifətlər izhar olunsa da;Sübhandır mənim Əbha Rəbbim!Ey Dənizçi! Gəmi əhlinə bizim Sənə sirr pərdəsi arxasında öyrətdiklərimizi öyrət;Sübhandır mənim Əbha Rəbbim!Bəlkə onlar müqəddəs, bəmbəyaz yerdə gecikməyələr;Sübhandır mənim Əbha Rəbbim!Və ruh qanadları üzərində Rəbbin aşağı dünyalardakı bütün sözlərdən daha uca etdiyi o məqama yüksələlər;Sübhandır mənim Əbha Rəbbim!Əbədi vüsal səmasındakı sevimli quşlar kimi fəzada qanad açalar;Sübhandır mənim Əbha Rəbbim!Nur Dənizlərində gizli qalmış sirlərdən agah olalar;Sübhandır mənim Əbha Rəbbim!Onlar dünyəvi hüdudları aşdılar və tovhid məqamına, səmavi hidayət mərkəzinə yetişdilər;Sübhandır mənim Əbha Rəbbim!Onlar Rəbbin onların məqamlarından üstün buyurduğu o məqama yüksəlmək istədilər;Sübhandır mənim Əbha Rəbbim!Onda Onun Hüzur Səltənətində sakin olanların yanından yanar bir şahab onları qovdu;Sübhandır mənim Əbha Rəbbim!Və onlar Cəlal Zirvəsindəki görünməz çadırın arxasından əzəmət Səsini eşitdilər;Sübhandır mənim Əbha Rəbbim!“Ey qoruyucu mələklər! Qaytarın onları aşağı aləmdəki yerlərinə;Sübhandır mənim Əbha Rəbbim!Çünki, onlar cənnət göyərçininin heç vaxt yetişmədiyi o fəzaya qalxmaq istəyirlər;Sübhandır mənim Əbha Rəbbim!Ki, orada zənn gəmisi hərəkətsiz qalar və idrak sahibləri onu dərk edə bilməz;”Sübhandır mənim Əbha Rəbbim!Sonra səma hurisi özünün uca köşkündən boylandı;Sübhandır mənim Əbha Rəbbim!Və qaşı ilə Səma Qoşunlarina işarə etdi;Sübhandır mənim Əbha Rəbbim!Üzünün nuru göyü və yeri doldurdu;Sübhandır mənim Əbha Rəbbim!Və onun gözəlliyinin işığı torpaqdan yaranmışların üzərinə düşüncə;Sübhandır mənim Əbha Rəbbim!Bütün varlıqlar fanilik qəbirlərində titrədilər;Sübhandır mənim Əbha Rəbbim!Sonra o elə bir nida ucaltdı ki, əzəldən bəri bir qulaq bunu eşitməmişdi;Sübhandır mənim Əbha Rəbbim!Və belə söylədi: “Rəbbə and olsun! Ürəyində uca və nurlu Ərəb Gəncinin məhəbbət ətri olmayan kəs,Sübhandır mənim Əbha Rəbbim!Uca cənnətin zirvəsinə əsla yüksələ bilməz;”Sübhandır mənim Əbha Rəbbim!Sonra o öz kənizlərindən bir hurini çağırdı,Sübhandır mənim Əbha Rəbbim!Və ona əmr etdi: “Əbədiyyət imarətlərindən aşağı en,Sübhandır mənim Əbha Rəbbim!Onların ürəklərinin ən dərinliklərində gizlətdikləri şeylərə üz tut,Sübhandır mənim Əbha Rəbbim!Zülm əhlinin əllərinin törətdikləri üzündən nur çadırında gizlədilmiş Gəncin köynəyinin ətrini duysan;Sübhandır mənim Əbha Rəbbim!Köksündən elə bir nida qaldır ki, Cənnətin xanəgahındakı əbədi zənginlik mücəssəmələri olan bütün sakinlər anlasınlar və eşitsinlər;Sübhandır mənim Əbha Rəbbim!Ta ki, onların hamısı özlərinin əbədi köşklərindən aşağı ensinlər və titrəsinlər;Sübhandır mənim Əbha Rəbbim!Və vəfa zirvələrinə uçduqları üçün onların əllərini və ayaqlarını öpsünlər;Sübhandır mənim Əbha Rəbbim!Bəlkə Məhbubun ətrini onların köynəklərindən duyalar.”Sübhandır mənim Əbha Rəbbim!Bu zaman, necə ki, Gəncin üzünün nuru Özünün fani bədəni üzərində parlayırdı, sevimli hurinin üzü səmavi köşklərin üzərində parladı;Sübhandır mənim Əbha Rəbbim!Sonra o belə bir zinətlə aşağı endi ki, bütün göyləri və orada olan hər şeyi işıqlandırdı;Sübhandır mənim Əbha Rəbbim!O tərpəndi, müqəddəslik və cəlal diyarlarındakı bütün şeyləri ətirləndirdi;Sübhandır mənim Əbha Rəbbim!O yerə çatanda o, yaradılışın düz ürəyində boy verib qalxdı;Sübhandır mənim Əbha Rəbbim!Və nə əvvəli, nə sonu bilinməyən bir zamanda onların ətrini duymaq istədi;Sübhandır mənim Əbha Rəbbim!Ancaq onlarda axtardığını tapmadı və bu, həqiqətən Onun heyrətamiz rəvayətlərindən biridir;Sübhandır mənim Əbha Rəbbim!Onda o fəryad qopardı, nalə etdi və Özünün Ən Uca Məkanındakı məqamına qayıtdı;Sübhandır mənim Əbha Rəbbim!Sonra isə yavaşca pıçıldadığı, sirli bir söz çıxdı dilindən;Sübhandır mənim Əbha Rəbbim!Və Səma Qoşunları və cənnətin ölməz huriləri arasında belə səsləndi:Sübhandır mənim Əbha Rəbbim!“Allaha and olsun! Mən bu bihudə iddiaçılardan Vəfa nəsimləri duymadım.”Sübhandır mənim Əbha Rəbbim!“Allaha and olsun! Bu Gənc bu qərib yerlərdə imansızların əlində tək-tənha qalıb.”Sübhandır mənim Əbha Rəbbim!Sonra o köksündən elə bir fəryad qopardı ki, Mələyi-Əla nalə etdi və titrədi;Sübhandır mənim Əbha Rəbbim!Sonra o, torpağa düşdü və canını tapşırdı. Sanki, onu Uca Səltənətə çağıran Kəsi eşitmiş və o çağırışa qulaq vermişdi;Sübhandır mənim Əbha Rəbbim!Alqış olsun O Kəsə ki Özünün uca cənnətinin düz ortasında onu məhəbbət cövhərindən yaratdı!Sübhandır mənim Əbha Rəbbim!Bu zaman səma huriləri öz köşklərindən yüyürək çıxdılar ki, onların üzlərinə ən uca cənnətin sakinlərinin gözü heç vaxt dəyməmişdi.Sübhandır mənim Əbha Rəbbim!Onların hamısı onun ətrafına toplandı və bir də gördülər ki, heyhat! Onun bədəni torpağa düşüb;Sübhandır mənim Əbha Rəbbim!Və onlar onun bu halını görüb Gəncin danışdığı rəvayətdəki sözü başa düşəndə başlarını açdılar, paltarlarını cırdılar, üzlərinə döydülər, sevinclərini unutdular, göz yaşları tökdülər, yanaqlarına vurdular; və budur, həqiqətən, əsrarəngiz və ağır bir müsibət.Sübhandır Ucalar Ucası Rəbbimiz!
 
 -- Bahá'u'lláh
 
-bpn4895 «[Azərbaycan](../az/prayers/#bpn4895)» 
+bpn4895 
 
 ----
 
@@ -287,7 +288,7 @@ Ey mənim Allahım, mənim Mövlam, mənim Məqsudum! Sənin bu bəndən Sənin 
 
 -- Bahá'u'lláh
 
-bpn4691 «[Azərbaycan](../az/prayers/#bpn4691)» 
+bpn4691 
 
 ----
 
@@ -297,7 +298,7 @@ Mən necə yata bilərəm, Ey Allah, mənim Allahım, Sənin həsrətini çəkə
 
 -- Bahá'u'lláh
 
-bpn4709 «[Azərbaycan](../az/prayers/#bpn4709)» 
+bpn4709 
 
 ----
 
@@ -307,7 +308,7 @@ bpn4709 «[Azərbaycan](../az/prayers/#bpn4709)»
 
 -- Abdu'l-Bahá
 
-bpn4710 «[Azərbaycan](../az/prayers/#bpn4710)» 
+bpn4710 
 
 ----
 
@@ -321,7 +322,7 @@ bpn4710 «[Azərbaycan](../az/prayers/#bpn4710)»
 
 -- Abdu'l-Bahá
 
-bpn4899 «[Azərbaycan](../az/prayers/#bpn4899)» 
+bpn4899 
 
 ----
 
@@ -331,7 +332,7 @@ Hüvəllah! Ey Ələst piyaləsindən məstHüvəllah! Ey Ələst piyaləsindən
 
 -- Abdu'l-Bahá
 
-bpn4900 «[Azərbaycan](../az/prayers/#bpn4900)» 
+bpn4900 
 
 ----
 
@@ -341,7 +342,7 @@ bpn4900 «[Azərbaycan](../az/prayers/#bpn4900)»
 
 -- Abdu'l-Bahá
 
-bpn4901 «[Azərbaycan](../az/prayers/#bpn4901)» 
+bpn4901 
 
 ----
 
@@ -355,7 +356,7 @@ Həmd-səna olsun Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm Öz Seç
 
 -- Bahá'u'lláh
 
-bpn4694 «[Azərbaycan](../az/prayers/#bpn4694)» 
+bpn4694 
 
 ----
 
@@ -365,7 +366,7 @@ Ey mənim Allahım, Məhbubum, məni hərəkətə Gətirən, Qütb Ulduzum, qəl
 
 -- Bahá'u'lláh
 
-bpn4715 «[Azərbaycan](../az/prayers/#bpn4715)» 
+bpn4715 
 
 ----
 
@@ -375,7 +376,7 @@ Mən o kəsəm ki, İlahi, üzünü Sənə tutub, ümidini Sənin fəzlinin möc
 
 -- Bahá'u'lláh
 
-bpn4716 «[Azərbaycan](../az/prayers/#bpn4716)» 
+bpn4716 
 
 ----
 
@@ -385,7 +386,7 @@ Sən görürsən məni, İlahi, Səndən başqa hər şeydən uzaqlaşaraq üzü
 
 -- Bahá'u'lláh
 
-bpn4717 «[Azərbaycan](../az/prayers/#bpn4717)» 
+bpn4717 
 
 ----
 
@@ -395,7 +396,7 @@ Alqış olsun Sənə, Ey Allah, mənim Allahım! Hər dəfə mən Səni zikr etm
 
 -- Bahá'u'lláh
 
-bpn4718 «[Azərbaycan](../az/prayers/#bpn4718)» 
+bpn4718 
 
 ----
 
@@ -405,7 +406,7 @@ Ucalsın Sənin adın, Ey mənim Allahım və bütün şeylərin Allahı, mənim
 
 -- Bahá'u'lláh
 
-bpn4719 «[Azərbaycan](../az/prayers/#bpn4719)» 
+bpn4719 
 
 ----
 
@@ -415,7 +416,7 @@ Sən, Ey Bağışlayan Rəbb! Sənsən bütün bu bəndələrin sığınacağı.
 
 -- Bahá'u'lláh
 
-bpn4725 «[Azərbaycan](../az/prayers/#bpn4725)» 
+bpn4725 
 
 ----
 
@@ -425,7 +426,7 @@ Ey bizim Rəbbimiz Allah! Sənin razı qalmadığın hər şeydən Öz fəzlinl�
 
 -- Báb
 
-bpn4720 «[Azərbaycan](../az/prayers/#bpn4720)» 
+bpn4720 
 
 ----
 
@@ -435,7 +436,7 @@ bpn4720 «[Azərbaycan](../az/prayers/#bpn4720)»
 
 -- Báb
 
-bpn4721 «[Azərbaycan](../az/prayers/#bpn4721)» 
+bpn4721 
 
 ----
 
@@ -445,7 +446,7 @@ Yalvarıram Sənə, İlahi, bağışla məni, Sənin zikrindən başqa hər bir 
 
 -- Báb
 
-bpn4722 «[Azərbaycan](../az/prayers/#bpn4722)» 
+bpn4722 
 
 ----
 
@@ -455,7 +456,7 @@ bpn4722 «[Azərbaycan](../az/prayers/#bpn4722)»
 
 -- Báb
 
-bpn4723 «[Azərbaycan](../az/prayers/#bpn4723)» 
+bpn4723 
 
 ----
 
@@ -465,7 +466,7 @@ Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qa
 
 -- Báb
 
-bpn4724 «[Azərbaycan](../az/prayers/#bpn4724)» 
+bpn4724 
 
 ----
 
@@ -479,7 +480,7 @@ Ey mənim Allahım, Ey mənim Allahım! Sənə xıdmət edənlərin qəlblərini
 
 -- Bahá'u'lláh
 
-bpn4696 «[Azərbaycan](../az/prayers/#bpn4696)» 
+bpn4696 
 
 ----
 
@@ -489,7 +490,7 @@ Ey mənim Allahım! Ey mənim Allahım! Doğurdan da, Səni çağırıram və S�
 
 -- Abdu'l-Bahá
 
-bpn4730 «[Azərbaycan](../az/prayers/#bpn4730)» 
+bpn4730 
 
 ----
 
@@ -503,7 +504,7 @@ bpn4730 «[Azərbaycan](../az/prayers/#bpn4730)»
 
 -- Bahá'u'lláh
 
-bpn4689 «[Azərbaycan](../az/prayers/#bpn4689)» 
+bpn4689 
 
 ----
 
@@ -517,7 +518,7 @@ Mənim Allahım, Qibləgahım və Səcdəgahım! Sənin birliyinə və təkliyin
 
 -- Bahá'u'lláh
 
-bpn4695 «[Azərbaycan](../az/prayers/#bpn4695)» 
+bpn4695 
 
 ----
 
@@ -527,7 +528,7 @@ Sən Ey Şəfqətli Allah, Sən Ey Səxavətli və Qadir! Biz Sənin İlahi qüv
 
 -- Abdu'l-Bahá
 
-bpn4726 «[Azərbaycan](../az/prayers/#bpn4726)» 
+bpn4726 
 
 ----
 
@@ -537,7 +538,7 @@ Sən Ey Mehriban Allah! Sən Ey Səxavətli və Mərhəmətli! Biz Sənin astana
 
 -- Abdu'l-Bahá
 
-bpn4727 «[Azərbaycan](../az/prayers/#bpn4727)» 
+bpn4727 
 
 ----
 
@@ -547,7 +548,7 @@ Sən Ey Mehriban Allah! Sən bütün bəşəri bir kökdən yaratmısan. Sən h�
 
 -- Abdu'l-Bahá
 
-bpn4728 «[Azərbaycan](../az/prayers/#bpn4728)» 
+bpn4728 
 
 ----
 
@@ -557,7 +558,7 @@ Ey Allah, Sən O Allahsan ki, bilik və hidayətin parlaq şüalarını insanlar
 
 -- Abdu'l-Bahá
 
-bpn4729 «[Azərbaycan](../az/prayers/#bpn4729)» 
+bpn4729 
 
 ----
 
@@ -571,7 +572,7 @@ bpn4729 «[Azərbaycan](../az/prayers/#bpn4729)»
 
 -- Bahá'u'lláh
 
-bpn4755 «[Azərbaycan](../az/prayers/#bpn4755)» 
+bpn4755 
 
 ----
 
@@ -581,7 +582,7 @@ Sübhansan Sən, Ey mənim Allahım! Sənə şükr edirəm ki, mənə Zühurunun
 
 -- Bahá'u'lláh
 
-bpn4756 «[Azərbaycan](../az/prayers/#bpn4756)» 
+bpn4756 
 
 ----
 
@@ -591,7 +592,7 @@ Ucalsın Sənin Adın, Ey mənim Allahım! Səni and verirəm fəzl köynəyinin
 
 -- Bahá'u'lláh
 
-bpn4757 «[Azərbaycan](../az/prayers/#bpn4757)» 
+bpn4757 
 
 ----
 
@@ -601,7 +602,7 @@ Neçə-neçə buz bağlamış ürək, Ey mənim Allahım, Sənin Əmrinin atəş
 
 -- Bahá'u'lláh
 
-bpn4758 «[Azərbaycan](../az/prayers/#bpn4758)» 
+bpn4758 
 
 ----
 
@@ -611,7 +612,7 @@ Bilmirəm, Ey mənim Allahim, o nə Oddur ki, Sən Öz ölkəndə qalamısan. N�
 
 -- Bahá'u'lláh
 
-bpn4759 «[Azərbaycan](../az/prayers/#bpn4759)» 
+bpn4759 
 
 ----
 
@@ -621,7 +622,7 @@ Alqış Sənə, Ey mənim Allahım! Mən Sənə və Sənin əlamətlərinə iman
 
 -- Bahá'u'lláh
 
-bpn4760 «[Azərbaycan](../az/prayers/#bpn4760)» 
+bpn4760 
 
 ----
 
@@ -631,7 +632,7 @@ Ya Rəbb! Sənə pənah gətirirəm və könlümü büsbütün Sənin nişanəl�
 
 -- Báb
 
-bpn4761 «[Azərbaycan](../az/prayers/#bpn4761)» 
+bpn4761 
 
 ----
 
@@ -641,7 +642,7 @@ Söylə: Allah hər üstün şeydən üstün Kifayətedicidir, yerdə və göyd�
 
 -- Báb
 
-bpn4762 «[Azərbaycan](../az/prayers/#bpn4762)» 
+bpn4762 
 
 ----
 
@@ -651,7 +652,7 @@ Ey Allah, mənim Allahım! Sən mənim Ümidim və Məhbubumsan. Mənim Məqsudu
 
 -- Abdu'l-Bahá
 
-bpn4763 «[Azərbaycan](../az/prayers/#bpn4763)» 
+bpn4763 
 
 ----
 
@@ -661,7 +662,7 @@ Ey Allah, mənim Allahım! Mənim üçün inqita piyaləsini doldur və Sənin c
 
 -- Abdu'l-Bahá
 
-bpn4764 «[Azərbaycan](../az/prayers/#bpn4764)» 
+bpn4764 
 
 ----
 
@@ -675,7 +676,7 @@ Sən Ey Mehriban Rəbbim! İnqita üfüqündən Sən elə ruhlar zahir etmisən 
 
 -- Abdu'l-Bahá
 
-bpn4736 «[Azərbaycan](../az/prayers/#bpn4736)» 
+bpn4736 
 
 ----
 
@@ -685,7 +686,7 @@ Sən Ey Mehriban Allah! Mərhəmətlə bu körpə quşların hər birinə bir c�
 
 -- Abdu'l-Bahá
 
-bpn4737 «[Azərbaycan](../az/prayers/#bpn4737)» 
+bpn4737 
 
 ----
 
@@ -695,7 +696,7 @@ Sən Ey mehriban Allah! Bu mələkut qızına Öz səmavi təyidini bəxş eylə
 
 -- Abdu'l-Bahá
 
-bpn4738 «[Azərbaycan](../az/prayers/#bpn4738)» 
+bpn4738 
 
 ----
 
@@ -705,7 +706,7 @@ Alqış və şükrlər olsun Sənə, Ya Rəbb, mənim Allahım! Bu seçilmiş bi
 
 -- Abdu'l-Bahá
 
-bpn4739 «[Azərbaycan](../az/prayers/#bpn4739)» 
+bpn4739 
 
 ----
 
@@ -715,7 +716,7 @@ Ya Rəbb! Bu gənci işıq saçan eylə və Öz nemətini bu fəqir varlığın 
 
 -- Abdu'l-Bahá
 
-bpn4740 «[Azərbaycan](../az/prayers/#bpn4740)» 
+bpn4740 
 
 ----
 
@@ -729,7 +730,7 @@ Təriflər olsun Sənə, Ya Rəbb, mənim Allahım! Sən görürsən və bilirs�
 
 -- Bahá'u'lláh
 
-bpn4741 «[Azərbaycan](../az/prayers/#bpn4741)» 
+bpn4741 
 
 ----
 
@@ -739,7 +740,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Bu Sənin bəndəndir ki, Sənin fəz
 
 -- Bahá'u'lláh
 
-bpn4742 «[Azərbaycan](../az/prayers/#bpn4742)» 
+bpn4742 
 
 ----
 
@@ -749,7 +750,7 @@ Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım! Səni and verirəm O Adına ki
 
 -- Bahá'u'lláh
 
-bpn4743 «[Azərbaycan](../az/prayers/#bpn4743)» 
+bpn4743 
 
 ----
 
@@ -759,7 +760,7 @@ Ey Allah, mənim Allahım! Mən öz evimdən Sənin məhəbbət ipindən tutaraq
 
 -- Bahá'u'lláh
 
-bpn4744 «[Azərbaycan](../az/prayers/#bpn4744)» 
+bpn4744 
 
 ----
 
@@ -769,7 +770,7 @@ Onun Adı ilə, Ən Uca, Ən Ali, Ən Əzəmətli! Şanlısan Sən, Ya Rəbb, m�
 
 -- Bahá'u'lláh
 
-bpn4745 «[Azərbaycan](../az/prayers/#bpn4745)» 
+bpn4745 
 
 ----
 
@@ -779,7 +780,7 @@ Ey mənim Rəbbim, mənə və Sənə inananlara, Ana Kitabda müəyyən olunduğ
 
 -- Báb
 
-bpn4746 «[Azərbaycan](../az/prayers/#bpn4746)» 
+bpn4746 
 
 ----
 
@@ -789,17 +790,17 @@ Alqış Sənə, Ey Allah! Sən O Allahsan ki, hər şeydən öncə var olmuş, s
 
 -- Báb
 
-bpn4747 «[Azərbaycan](../az/prayers/#bpn4747)» 
+bpn4747 
 
 ----
 
 
 <a id="bpn4748"></a> 
-Ulular Ulusu, Qalibiyyətli Allahın Adı ilə! Hökmranlıq mənbəyi əlində olan Rəbb Ulu və Müqəddəsdir! O istədiyini Özünün &#34;Ol&#34; Fərmanı ilə yaradır və o olur. Bundan əvvəl hökm ixtiyarı Onun idi və bundan sonra da Onun olacaq. Öz əmrinin qüdrəti ilə kimi istəsə, O qalib edir. Odur həqiqətdə, Qüdrətli, Qüvvətli. Zühur və Xilqət və onların arasında olanların səltənətlərində bütün cəlal və əzəmət Ona məxsusdur. Həqiqətən, O Qadirdir, ən Cəlallıdır, əzəldən O, dəfedilməz güc Mənbəyi olmuş və əbədiyyətədək də belə qalacaqdır. O, doğrudan qüdrət və qüvvət Rəbbidir. Göyün və yerin bütün səltənətləri və onların arasında olan hər şey Allahındır və Onun qüdrəti hər şeydən üstündür. Yerin və göyün bütün xəzinələri və onların arasında olan hər şey Onundur və hər şey Onun mühafizəsi altındadır. Odur yaradan göyləri və yeri və onların arasındakı hər şeyi və O, həqiqətən, hər şeyə şahiddir. Göyün və yerin sakinləri və onların arasında olanlar üçün Haqq-hesab gününün Sahibi Odur və həqiqətən haqq-hesab çəkməkdə Allah cəlddir. Göydə və yerdə və onların arasında olanlar üçün ölçünü O müəyyən edir. Həqiqətən O Ali Hifz Edəndir. Göyün və yerin və onların arasında olan hər şeyin açarlarını O öz ovcunda tutur. Hökmünün gücü ilə, Öz istəyilə O, bəxşişlər əta edir. Onun fəzli, həqiqətən, hamını bürüyür və Odur hər şeyi Bilən.Söylə: Allah mənə yetər! Bütün şeylərin səltənətini ovcunda tutan Odur. Göydə və yerdə və onların arasında olanların qoşunlarının gücü ilə O, istədiyi kəsi hifz edir. Allahın gözü, həqiqətən, hər şeyin üzərindədir.Nəhayətsiz ucasan Sən, Ya Rəbb! Qarşımızda və arxamızda, başımızın üstündə, sağımızda və solumuzda, ayağımızın altında və mühafizəsiz qalmış hər yerimizdə olanlardan bizi hifz eylə. Həqiqətən, hər şeyin mütləq qoruyucusu Sənsən. *1(Bu duanın əsli Həzrət Babın Öz əli ilə beş guşəli ulduz şəklində yazılmışdır)
+Ulular Ulusu, Qalibiyyətli Allahın Adı ilə! Hökmranlıq mənbəyi əlində olan Rəbb Ulu və Müqəddəsdir! O istədiyini Özünün "Ol" Fərmanı ilə yaradır və o olur. Bundan əvvəl hökm ixtiyarı Onun idi və bundan sonra da Onun olacaq. Öz əmrinin qüdrəti ilə kimi istəsə, O qalib edir. Odur həqiqətdə, Qüdrətli, Qüvvətli. Zühur və Xilqət və onların arasında olanların səltənətlərində bütün cəlal və əzəmət Ona məxsusdur. Həqiqətən, O Qadirdir, ən Cəlallıdır, əzəldən O, dəfedilməz güc Mənbəyi olmuş və əbədiyyətədək də belə qalacaqdır. O, doğrudan qüdrət və qüvvət Rəbbidir. Göyün və yerin bütün səltənətləri və onların arasında olan hər şey Allahındır və Onun qüdrəti hər şeydən üstündür. Yerin və göyün bütün xəzinələri və onların arasında olan hər şey Onundur və hər şey Onun mühafizəsi altındadır. Odur yaradan göyləri və yeri və onların arasındakı hər şeyi və O, həqiqətən, hər şeyə şahiddir. Göyün və yerin sakinləri və onların arasında olanlar üçün Haqq-hesab gününün Sahibi Odur və həqiqətən haqq-hesab çəkməkdə Allah cəlddir. Göydə və yerdə və onların arasında olanlar üçün ölçünü O müəyyən edir. Həqiqətən O Ali Hifz Edəndir. Göyün və yerin və onların arasında olan hər şeyin açarlarını O öz ovcunda tutur. Hökmünün gücü ilə, Öz istəyilə O, bəxşişlər əta edir. Onun fəzli, həqiqətən, hamını bürüyür və Odur hər şeyi Bilən.Söylə: Allah mənə yetər! Bütün şeylərin səltənətini ovcunda tutan Odur. Göydə və yerdə və onların arasında olanların qoşunlarının gücü ilə O, istədiyi kəsi hifz edir. Allahın gözü, həqiqətən, hər şeyin üzərindədir.Nəhayətsiz ucasan Sən, Ya Rəbb! Qarşımızda və arxamızda, başımızın üstündə, sağımızda və solumuzda, ayağımızın altında və mühafizəsiz qalmış hər yerimizdə olanlardan bizi hifz eylə. Həqiqətən, hər şeyin mütləq qoruyucusu Sənsən. *1(Bu duanın əsli Həzrət Babın Öz əli ilə beş guşəli ulduz şəklində yazılmışdır)
 
 -- Báb
 
-bpn4748 «[Azərbaycan](../az/prayers/#bpn4748)» 
+bpn4748 
 
 ----
 
@@ -809,7 +810,7 @@ Ey Allah, mənim Allahım! Nəfs və ehtirasın şərinə qarşı Öz mömin bə
 
 -- Abdu'l-Bahá
 
-bpn4749 «[Azərbaycan](../az/prayers/#bpn4749)» 
+bpn4749 
 
 ----
 
@@ -819,17 +820,17 @@ Ey mənim Rəbbim! Sən bilirsən ki, insanlar dərd-bəla və fəlakətlərlə 
 
 -- Abdu'l-Bahá
 
-bpn4750 «[Azərbaycan](../az/prayers/#bpn4750)» 
+bpn4750 
 
 ----
 
 
 <a id="bpn4751"></a> 
-Ey mehriban və sevgili Allah! Şərq həyəcandadır, qərb isə dənizin daimi dalğaları kimi təlatümdədir. Müqəddəsliyin nəvazişli nəsimləri yayılır və Qeyb Səltənətindən Həqiqət Günəşinin şüaları parlaq şəfəq saçır. İlahi birlik himni oxunur və səmavi qüdrət bayraqları dalğalanır. Mələk Nidası ucalıb və nəhəng nərəsi kimi, fədakarlıq və faniliyə çağırır. Qalibiyyətli &#34;Sən ey Nurluların Nurlusu&#34; sədası hər tərəfdən ucalır və &#34;Ya Əli-ül-Əla&#34;1(Sən Ey Ulular Ulusu) çağırışı bütün diyarlarda səslənir. Və dünyada nə yeganə Dilbərin Cəlalından doğan iğtişaşdan başqa bir həyəcan, nə də Onun, misilsiz Məhbubun məhəbbətinin çoşqunluğundan doğan özgə bir təlatüm var.Allahın sevimliləri hər bir məmləkətdə müşk ətirli nəfəslərilə parlaq çıraq kimi yanırlar və Mərhəmətlinin dostlarına, açılmış güllər kimi, bütün diyarlarda rast gəlmək olar. Onlar bir an belə dincəlmirlər; Sənin zikrin olmadan nəfəs belə çəkmirlər və Sənin əmrinə xidmətdən başqa bir arzuları yoxdur. Həqiqət çəmənzarında onlar şirin-şirin ötən bülbül və hidayət gülşənində al-əlvan çiçəkdirlər. Onlar Həqiqət Bağının cığırlarını məna çiçəklərilə bəzəyirlər; yellənən sərv ağacları kimi ilahi iradə arxının kənarlarına düzülüblər. Parlaq ulduzlar kimi xilqət üfüqündən şölə saçırlar; işıqlı səyyarələr tək bu dünyanın səmasında işıq verirlər. Onlar İlahi fəzl məzhərləri və İlahi yardım işığının məşriqidirlər.Ey Mehriban Allah! İnayət eylə, qoy onların hamısı möhkəm və səbatlı olsunlar, daimi parlaqlıqla elə işıq saçsınlar ki, hər nəfəs çəkərkən xəfif nəsimlər əssin Sənin inayət çardağından, şeh düşsün Sənin fəzl dəryandan, Sənin məhəbbətinin bol yağmurları təravət bəxş etsin və həzin meh öz ətrini İlahi birlik Gülşənindən əsdirsin.Ey Aləmin Məqsudu, Öz şəfəqindən bir şüa sal. Ey bəşərin Sevgilisi, bizim üzərimizə Üzünün nurunu saç.Ey Qadir Allah! Bizə sipər ol və pənahımız ol, Ey varlığın Rəbbi, qüdrət və hökmranlığını zahir eylə.Ey Mehriban Allah, nifaq təhrikçiləri bəzi diyarlarda meydan sulayır, gecə və gündüz ağır ziyanlar vururlar.Zalımlar canavar kimi, pusquda durublar, məzlum və məsum qoyunların isə nə köməyi var, nə də himayəsi. Köpəklər, İlahi birlik düzünün ceyranını qovurlar, quzğunlar isə İlahi hidayət dağının kəkliklərini təqib edirlər.Sən Ey İlahi Təqdir Sahibi, bizi saxla və hifz eylə! Sən Ey bizim Qalxanımız, bizi qoru və bizi müdafiə eylə! Öz pənahında saxla və Öz köməyinlə bizi bütün xəstəliklərdən qoru. Doğrudan da, Sənsən Həqiqi Mühafiz, Görünməz Himayəçi, Səmavi Xilaskar və Göylərin Mehriban Rəbbi.
+Ey mehriban və sevgili Allah! Şərq həyəcandadır, qərb isə dənizin daimi dalğaları kimi təlatümdədir. Müqəddəsliyin nəvazişli nəsimləri yayılır və Qeyb Səltənətindən Həqiqət Günəşinin şüaları parlaq şəfəq saçır. İlahi birlik himni oxunur və səmavi qüdrət bayraqları dalğalanır. Mələk Nidası ucalıb və nəhəng nərəsi kimi, fədakarlıq və faniliyə çağırır. Qalibiyyətli "Sən ey Nurluların Nurlusu" sədası hər tərəfdən ucalır və "Ya Əli-ül-Əla"1(Sən Ey Ulular Ulusu) çağırışı bütün diyarlarda səslənir. Və dünyada nə yeganə Dilbərin Cəlalından doğan iğtişaşdan başqa bir həyəcan, nə də Onun, misilsiz Məhbubun məhəbbətinin çoşqunluğundan doğan özgə bir təlatüm var.Allahın sevimliləri hər bir məmləkətdə müşk ətirli nəfəslərilə parlaq çıraq kimi yanırlar və Mərhəmətlinin dostlarına, açılmış güllər kimi, bütün diyarlarda rast gəlmək olar. Onlar bir an belə dincəlmirlər; Sənin zikrin olmadan nəfəs belə çəkmirlər və Sənin əmrinə xidmətdən başqa bir arzuları yoxdur. Həqiqət çəmənzarında onlar şirin-şirin ötən bülbül və hidayət gülşənində al-əlvan çiçəkdirlər. Onlar Həqiqət Bağının cığırlarını məna çiçəklərilə bəzəyirlər; yellənən sərv ağacları kimi ilahi iradə arxının kənarlarına düzülüblər. Parlaq ulduzlar kimi xilqət üfüqündən şölə saçırlar; işıqlı səyyarələr tək bu dünyanın səmasında işıq verirlər. Onlar İlahi fəzl məzhərləri və İlahi yardım işığının məşriqidirlər.Ey Mehriban Allah! İnayət eylə, qoy onların hamısı möhkəm və səbatlı olsunlar, daimi parlaqlıqla elə işıq saçsınlar ki, hər nəfəs çəkərkən xəfif nəsimlər əssin Sənin inayət çardağından, şeh düşsün Sənin fəzl dəryandan, Sənin məhəbbətinin bol yağmurları təravət bəxş etsin və həzin meh öz ətrini İlahi birlik Gülşənindən əsdirsin.Ey Aləmin Məqsudu, Öz şəfəqindən bir şüa sal. Ey bəşərin Sevgilisi, bizim üzərimizə Üzünün nurunu saç.Ey Qadir Allah! Bizə sipər ol və pənahımız ol, Ey varlığın Rəbbi, qüdrət və hökmranlığını zahir eylə.Ey Mehriban Allah, nifaq təhrikçiləri bəzi diyarlarda meydan sulayır, gecə və gündüz ağır ziyanlar vururlar.Zalımlar canavar kimi, pusquda durublar, məzlum və məsum qoyunların isə nə köməyi var, nə də himayəsi. Köpəklər, İlahi birlik düzünün ceyranını qovurlar, quzğunlar isə İlahi hidayət dağının kəkliklərini təqib edirlər.Sən Ey İlahi Təqdir Sahibi, bizi saxla və hifz eylə! Sən Ey bizim Qalxanımız, bizi qoru və bizi müdafiə eylə! Öz pənahında saxla və Öz köməyinlə bizi bütün xəstəliklərdən qoru. Doğrudan da, Sənsən Həqiqi Mühafiz, Görünməz Himayəçi, Səmavi Xilaskar və Göylərin Mehriban Rəbbi.
 
 -- Abdu'l-Bahá
 
-bpn4751 «[Azərbaycan](../az/prayers/#bpn4751)» 
+bpn4751 
 
 ----
 
@@ -843,7 +844,7 @@ bpn4751 «[Azərbaycan](../az/prayers/#bpn4751)»
 
 -- Bahá'u'lláh
 
-bpn4887 «[Azərbaycan](../az/prayers/#bpn4887)» 
+bpn4887 
 
 ----
 
@@ -853,7 +854,7 @@ Alqış Sənə, Ey mənim Şəfqətli Rəbbim! Səni and verirəm Sənin müqəd
 
 -- Bahá'u'lláh
 
-bpn4888 «[Azərbaycan](../az/prayers/#bpn4888)» 
+bpn4888 
 
 ----
 
@@ -863,11 +864,11 @@ bpn4888 «[Azərbaycan](../az/prayers/#bpn4888)»
 ## Həzrət Bəhaullahın və Həzrət Babın Ziyarətnaməsi
 
 <a id="bpn4896"></a> 
-*Bu Lövh Həzrət Bəhaullahın və Həzrət Babın Məqamlarında, habelə Onların süud ildönümlərində istifadə olunur.Otərif ki, Sənin ən uca Zatından doğdu və o nur ki, Sənin ən cəlallı Camalından parladı, Sənin üzərinə olsun, Sən Ey əzəmət Məzhəri və əbədiyyət Sultanı, göydə və yerdə olanların Rəbbi. Mən şəhadət verirəm ki, Sənin vasitənlə Allahın səltənəti və Onun hökmranlığı, Allahın böyüklüyü və Onun əzəməti aşkar oldu, qədim cəlalın Günəşi öz şüalarını Sənin dəyişməz əmrinin səmasına saçdı və Gözəgörünməzin Camalı xilqətin üfüqündə parladı. Daha sonra şəhadət verirəm ki, Qələminin tək bir hərəkəti ilə Sənin &#34;Ol&#34; əmrin yerinə yetdi, Allahın gizli Sirri açıldı, bütün varlıqlar yaranmağa başladı və bütün Vəhylər nazil oldu.Bundan başqa şəhadət verirəm ki, Sənin camalınla Pərəstiş Olunanın camalı göründü, Sənin üzünlə Məqsudun üzü parladı və ona şəhadət verirəm ki, Sənin tərəfindən gələn bir kəlmə ilə Sən bütün məxluqat arasında qərar verirsən, Sənə sədaqətli olanları şərəf zirvəsinə ucaldırsan, inanmayanları isə uçurumun dibinə salırsan.Mən şəhadət verirəm ki, hər kəs ki, Səni tanıdı, o, Allahı tanıdı və hər kəs ki, Sənin hüzuruna yetişdi, Allahın hüzuruna yetişdi. Ona görə də, xoş o kəsin halına ki, Sənə və Sənin əlamətlərinə iman gətirdi, Sənin hökmranlığına baş əydi, Səninlə görüşmək şərəfinə nail oldu, Sənin razılığını əldə etdi, Sənin dövrənə dolandı və Sənin taxtının önündə dayandı. Vay o kəsin halına ki, Sənə qarşı günah etdi, Səni dandı, Sənin əlamətlərini inkar etdi, Səni hökmranlığına qarşı çıxdı, Sənin əleyhinə qalxdı və Sənin üzünün qarşısında lovğalandı, Sənin dəlillərinlə mübahisə etdi, Sənin hökmranlığından və qüdrətindən qaçdı və Sənin əmr barmaqlarınla Sənin Müqəddəs Lövhlərində imansızlar sırasına yazıldı.Sonra, Ey mənim Allahım və mənim Məhbubum, Öz mərhəmətinin və inayətinin sağ əlindən Öz lütflərinin müqəddəs nəsimini mənim üstümə əsdir ki, onlar məni öz nəfsimdən və bu dünyadan ayırıb Sənin yaxınlıq dərgahına və Sənin Hüzuruna cəzb etsin. Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, hər şeyin üzərində hakimsən.Allahın zikri və Onun tərifi, Allahın Cəlalı və Onun nuru Sənin üzərinə olsun, Sən Ey Allahın Camalı! Mən şəhadət verirəm ki, məxluqatın gözü Sənin kimi Məzlum görməyib. Sən bütün ömrün boyu bəlalar dəryasında qərq olmusan. Bir zaman Sən zəncir və qandal altında idin; başqa bir vaxt düşmənlərinin qılıncları Səni təhdid edirdi. Bununla belə, Alim və Hikmət Sahibi Allahın Sənə buyurduqlarını bütün insanlara çatdırdın ki, onlara əməl etsinlər.Ruhum Sənin çəkdiyin məzlumiyyətlərə fəda olsun və canım Sənin məruz qaldığın bəlaların qurbanı olsun. Səninlə və Sənin üzünün nuru ilə üzləri işıqlanan və Sənə məhəbbət naminə onlara əmr olunanları yerinə yetirən kəslərlə Allaha and verirəm ki, Səninlə Sənin yaratdıqların arasında maneə yaradan pərdələri aradan qaldırsın və mənə bu dünyanın və o biri dünyanın nemətini versin. Sən, həqiqətən, Qüdrətli, Ən Uca, Ən Cəlallı, həmişə Bağışlayan və Ən Şəfqətlisən.Ey mənim Rəbbim Allah, İlahi Sidrəyə, onun yarpaqlarına, budaqlarına, pöhrələrinə, onun gövdələrinə və onun qol-budaqlarına, Sənin ən yüksək adların durduqca və Sənin ən uca sifətlərin qaldıqca xeyir-dua ver. Sonra onu, təcavüzkarın şərindən və zülmün qoşunlarından hifz eylə. Sən, həqiqətən, Qüdrətli və ən Qüvvətlisən. Ey mənim Rəbbim Allah, Sənin hüzuruna yetişən bəndələrinə və kənizlərinə də xeyir-dua ver. Sən, həqiqətən, Kəramət Sahibisən ki, fəzli sonsuzdur. Səndən başqa Allah yoxdur, Sən həmişə Bağışlayan və Ən Səxavətlisən.
+*Bu Lövh Həzrət Bəhaullahın və Həzrət Babın Məqamlarında, habelə Onların süud ildönümlərində istifadə olunur.Otərif ki, Sənin ən uca Zatından doğdu və o nur ki, Sənin ən cəlallı Camalından parladı, Sənin üzərinə olsun, Sən Ey əzəmət Məzhəri və əbədiyyət Sultanı, göydə və yerdə olanların Rəbbi. Mən şəhadət verirəm ki, Sənin vasitənlə Allahın səltənəti və Onun hökmranlığı, Allahın böyüklüyü və Onun əzəməti aşkar oldu, qədim cəlalın Günəşi öz şüalarını Sənin dəyişməz əmrinin səmasına saçdı və Gözəgörünməzin Camalı xilqətin üfüqündə parladı. Daha sonra şəhadət verirəm ki, Qələminin tək bir hərəkəti ilə Sənin "Ol" əmrin yerinə yetdi, Allahın gizli Sirri açıldı, bütün varlıqlar yaranmağa başladı və bütün Vəhylər nazil oldu.Bundan başqa şəhadət verirəm ki, Sənin camalınla Pərəstiş Olunanın camalı göründü, Sənin üzünlə Məqsudun üzü parladı və ona şəhadət verirəm ki, Sənin tərəfindən gələn bir kəlmə ilə Sən bütün məxluqat arasında qərar verirsən, Sənə sədaqətli olanları şərəf zirvəsinə ucaldırsan, inanmayanları isə uçurumun dibinə salırsan.Mən şəhadət verirəm ki, hər kəs ki, Səni tanıdı, o, Allahı tanıdı və hər kəs ki, Sənin hüzuruna yetişdi, Allahın hüzuruna yetişdi. Ona görə də, xoş o kəsin halına ki, Sənə və Sənin əlamətlərinə iman gətirdi, Sənin hökmranlığına baş əydi, Səninlə görüşmək şərəfinə nail oldu, Sənin razılığını əldə etdi, Sənin dövrənə dolandı və Sənin taxtının önündə dayandı. Vay o kəsin halına ki, Sənə qarşı günah etdi, Səni dandı, Sənin əlamətlərini inkar etdi, Səni hökmranlığına qarşı çıxdı, Sənin əleyhinə qalxdı və Sənin üzünün qarşısında lovğalandı, Sənin dəlillərinlə mübahisə etdi, Sənin hökmranlığından və qüdrətindən qaçdı və Sənin əmr barmaqlarınla Sənin Müqəddəs Lövhlərində imansızlar sırasına yazıldı.Sonra, Ey mənim Allahım və mənim Məhbubum, Öz mərhəmətinin və inayətinin sağ əlindən Öz lütflərinin müqəddəs nəsimini mənim üstümə əsdir ki, onlar məni öz nəfsimdən və bu dünyadan ayırıb Sənin yaxınlıq dərgahına və Sənin Hüzuruna cəzb etsin. Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, hər şeyin üzərində hakimsən.Allahın zikri və Onun tərifi, Allahın Cəlalı və Onun nuru Sənin üzərinə olsun, Sən Ey Allahın Camalı! Mən şəhadət verirəm ki, məxluqatın gözü Sənin kimi Məzlum görməyib. Sən bütün ömrün boyu bəlalar dəryasında qərq olmusan. Bir zaman Sən zəncir və qandal altında idin; başqa bir vaxt düşmənlərinin qılıncları Səni təhdid edirdi. Bununla belə, Alim və Hikmət Sahibi Allahın Sənə buyurduqlarını bütün insanlara çatdırdın ki, onlara əməl etsinlər.Ruhum Sənin çəkdiyin məzlumiyyətlərə fəda olsun və canım Sənin məruz qaldığın bəlaların qurbanı olsun. Səninlə və Sənin üzünün nuru ilə üzləri işıqlanan və Sənə məhəbbət naminə onlara əmr olunanları yerinə yetirən kəslərlə Allaha and verirəm ki, Səninlə Sənin yaratdıqların arasında maneə yaradan pərdələri aradan qaldırsın və mənə bu dünyanın və o biri dünyanın nemətini versin. Sən, həqiqətən, Qüdrətli, Ən Uca, Ən Cəlallı, həmişə Bağışlayan və Ən Şəfqətlisən.Ey mənim Rəbbim Allah, İlahi Sidrəyə, onun yarpaqlarına, budaqlarına, pöhrələrinə, onun gövdələrinə və onun qol-budaqlarına, Sənin ən yüksək adların durduqca və Sənin ən uca sifətlərin qaldıqca xeyir-dua ver. Sonra onu, təcavüzkarın şərindən və zülmün qoşunlarından hifz eylə. Sən, həqiqətən, Qüdrətli və ən Qüvvətlisən. Ey mənim Rəbbim Allah, Sənin hüzuruna yetişən bəndələrinə və kənizlərinə də xeyir-dua ver. Sən, həqiqətən, Kəramət Sahibisən ki, fəzli sonsuzdur. Səndən başqa Allah yoxdur, Sən həmişə Bağışlayan və Ən Səxavətlisən.
 
 -- Bahá'u'lláh
 
-bpn4896 «[Azərbaycan](../az/prayers/#bpn4896)» 
+bpn4896 
 
 ----
 
@@ -881,7 +882,7 @@ bpn4896 «[Azərbaycan](../az/prayers/#bpn4896)»
 
 -- Abdu'l-Bahá
 
-bpn4897 «[Azərbaycan](../az/prayers/#bpn4897)» 
+bpn4897 
 
 ----
 
@@ -895,7 +896,7 @@ Ey üzü qibləm, camalı Məbədim, dərgahı məqsədim, tərifi ümidim, ist�
 
 -- Bahá'u'lláh
 
-bpn4765 «[Azərbaycan](../az/prayers/#bpn4765)» 
+bpn4765 
 
 ----
 
@@ -905,7 +906,7 @@ Mənim Allahım, Məbudum, Sultanım, Məqsudum! Sənə şükrlərimi hansı dil
 
 -- Bahá'u'lláh
 
-bpn4766 «[Azərbaycan](../az/prayers/#bpn4766)» 
+bpn4766 
 
 ----
 
@@ -915,7 +916,7 @@ Ucalsın Sənin Adın, ya Rəbb, bizim Allahımız! Sən həqiqətən, görünm�
 
 -- Báb
 
-bpn4767 «[Azərbaycan](../az/prayers/#bpn4767)» 
+bpn4767 
 
 ----
 
@@ -925,7 +926,7 @@ Ey mənim Allahım, mənim Rəbbim və mənim Mövlam! Mən yaxınlarımdan ayr�
 
 -- Báb
 
-bpn4768 «[Azərbaycan](../az/prayers/#bpn4768)» 
+bpn4768 
 
 ----
 
@@ -935,7 +936,7 @@ bpn4768 «[Azərbaycan](../az/prayers/#bpn4768)»
 
 -- Abdu'l-Bahá
 
-bpn4769 «[Azərbaycan](../az/prayers/#bpn4769)» 
+bpn4769 
 
 ----
 
@@ -945,7 +946,7 @@ Sən Ey mehriban Allah! Biz Sənin astananın bəndələriyik, Sənin müqəddə
 
 -- Abdu'l-Bahá
 
-bpn4770 «[Azərbaycan](../az/prayers/#bpn4770)» 
+bpn4770 
 
 ----
 
@@ -955,7 +956,7 @@ Yığma, İlahi, Sənin adınla açılmış bayram süfrəsini və Sənin sönm�
 
 -- Abdu'l-Bahá
 
-bpn4771 «[Azərbaycan](../az/prayers/#bpn4771)» 
+bpn4771 
 
 ----
 
@@ -965,21 +966,21 @@ bpn4771 «[Azərbaycan](../az/prayers/#bpn4771)»
 ## Nigah duaları
 
 <a id="bpn4780"></a> 
-*Bəhai nigahı iki tərəfin ittifaqı və səmimi sevgi bağlılığıdır. Onlar, bununla belə, bir-birinin xasiyyətləri ilə tam tanış olmaları üçün çox ciddi diqqət göstərməlidirlər. Bu əbədi bağın etibarlılığı sarsılmaz əhdlə möhkəmləndirilməlidir və məqsəd ahəng, yoldaşlıq və birlik yaratmaq və əbədi həyata yetişmək olmalıdır.*Evlilik əhdi-peymanı ayəsi Kitabi-əqdəsdə şərtləndirildiyi kimi, ayrıca bəy və gəlin tərəfindən Ruhani Məhfilin qəbul etdiyi ən azı iki şahidin hüzurunda söylənməlidir:##&#34;Biz hamımız, həqiqətən, Allahın iradəsinə tabe olacağıq.&#34;Odur Əta Edən və Kəramətli! Qədim, Daimi, Dəyişməz və Əbədi Allaha həmd olsun! Özü Öz Varlığına şəhadət vermiş Allah ki, O, həqiqətən, Tək, Vahid, Qeyri-Məhdud və Ucadır. Biz isə Onun vəhdaniyyətini qəbul edərək və Onun təkliyini etiraf edərək şəhadət veririk ki, həqiqətən, ondan başqa Allah yoxdur. O, əzəldən Özünün əlçatmaz yüksəkliyində, ucalığının zirvəsində, Özündən başqalarının zikrindən müqəddəs, Özündən özgələrin vəsfindən pakdır.Və o zaman ki, O, bəşərə öz fəzl və ehsanını zahir etməyi və dünyanı nizama salmağı iradə etdi, O hökmlər nazil eylədi və qanunlar yaratdı; onların arasında O, nigah hökmünü müəyyən etdi, onu rifah və nicat qalası kimi təsis etdi və bizə Onun Ən Müqəddəs Kitabında müqəddəslik səmasından nazil etdiklərini əmr etdi. Cəlalı ulu olan Allah buyurur: &#34;İzdivaca girin, ey insanlar, ta ki, Mənim bəndələrim arasında Məni zikr edənlər dünyaya gəlsin. Bu Mənim sizlərə hökmümdür; özünüzə yardımçı kimi ondan möhkəm yapışın.&#34;
+*Bəhai nigahı iki tərəfin ittifaqı və səmimi sevgi bağlılığıdır. Onlar, bununla belə, bir-birinin xasiyyətləri ilə tam tanış olmaları üçün çox ciddi diqqət göstərməlidirlər. Bu əbədi bağın etibarlılığı sarsılmaz əhdlə möhkəmləndirilməlidir və məqsəd ahəng, yoldaşlıq və birlik yaratmaq və əbədi həyata yetişmək olmalıdır.*Evlilik əhdi-peymanı ayəsi Kitabi-əqdəsdə şərtləndirildiyi kimi, ayrıca bəy və gəlin tərəfindən Ruhani Məhfilin qəbul etdiyi ən azı iki şahidin hüzurunda söylənməlidir:##"Biz hamımız, həqiqətən, Allahın iradəsinə tabe olacağıq."Odur Əta Edən və Kəramətli! Qədim, Daimi, Dəyişməz və Əbədi Allaha həmd olsun! Özü Öz Varlığına şəhadət vermiş Allah ki, O, həqiqətən, Tək, Vahid, Qeyri-Məhdud və Ucadır. Biz isə Onun vəhdaniyyətini qəbul edərək və Onun təkliyini etiraf edərək şəhadət veririk ki, həqiqətən, ondan başqa Allah yoxdur. O, əzəldən Özünün əlçatmaz yüksəkliyində, ucalığının zirvəsində, Özündən başqalarının zikrindən müqəddəs, Özündən özgələrin vəsfindən pakdır.Və o zaman ki, O, bəşərə öz fəzl və ehsanını zahir etməyi və dünyanı nizama salmağı iradə etdi, O hökmlər nazil eylədi və qanunlar yaratdı; onların arasında O, nigah hökmünü müəyyən etdi, onu rifah və nicat qalası kimi təsis etdi və bizə Onun Ən Müqəddəs Kitabında müqəddəslik səmasından nazil etdiklərini əmr etdi. Cəlalı ulu olan Allah buyurur: "İzdivaca girin, ey insanlar, ta ki, Mənim bəndələrim arasında Məni zikr edənlər dünyaya gəlsin. Bu Mənim sizlərə hökmümdür; özünüzə yardımçı kimi ondan möhkəm yapışın."
 
 -- Bahá'u'lláh
 
-bpn4780 «[Azərbaycan](../az/prayers/#bpn4780)» 
+bpn4780 
 
 ----
 
 
 <a id="bpn4781"></a> 
-Odur Allah! Ey misilsiz Rəbb! Öz qüdrətli hikmətinlə Sən ümmətlərə nigah bağlamağı əmr etdin ki, bu dünyada insanların nəsilləri bir-birini əvəz etsin və həmişəlik, dünya durduqca onlar Sənin vahidlik Astananda özlərini bəndəlik və ibadət, alqış, pərəstiş və şükrlə məşğul etsinlər. &#34;Mən ruhları və insanları ancaq mənə ibadət etmək üçün yaratdım!&#34; 1(Quran, 3:67) Ona görə də öz Rəhmaniyyət səmandan, Sənin məhəbbət yuvanın bu iki quşunun nigahını kəs və onları daimi fəzli cəzb edən vasitə eylə; ta ki, bu iki məhəbbət dənizindən zərif bir dalğa qalxsın və inci kimi nəcib nəsillərin mirvariləri həyat dənizi sahilinə tökülsün. &#34; O, bu iki dənizi açıb buraxdı ki, onlar bir-biri ilə govuşsunlar: Onların arasında keçilməyən bir sərhəd vardır. Onda Rəbbinizin hansı bəxşişlərini inkar edə bilərsiniz. Hər birindən O, iri və kiçik incilər çıxarır.&#34;2 (Quran, 56:62)Sən Ey Mehriban Allah! Bu nigahı mərcan və incilər yetirməyə nail eylə. Sən, həqiqətən, Ən Qüvətli, Ən Ulu, Həmişə Bağışlayansan.
+Odur Allah! Ey misilsiz Rəbb! Öz qüdrətli hikmətinlə Sən ümmətlərə nigah bağlamağı əmr etdin ki, bu dünyada insanların nəsilləri bir-birini əvəz etsin və həmişəlik, dünya durduqca onlar Sənin vahidlik Astananda özlərini bəndəlik və ibadət, alqış, pərəstiş və şükrlə məşğul etsinlər. "Mən ruhları və insanları ancaq mənə ibadət etmək üçün yaratdım!" 1(Quran, 3:67) Ona görə də öz Rəhmaniyyət səmandan, Sənin məhəbbət yuvanın bu iki quşunun nigahını kəs və onları daimi fəzli cəzb edən vasitə eylə; ta ki, bu iki məhəbbət dənizindən zərif bir dalğa qalxsın və inci kimi nəcib nəsillərin mirvariləri həyat dənizi sahilinə tökülsün. " O, bu iki dənizi açıb buraxdı ki, onlar bir-biri ilə govuşsunlar: Onların arasında keçilməyən bir sərhəd vardır. Onda Rəbbinizin hansı bəxşişlərini inkar edə bilərsiniz. Hər birindən O, iri və kiçik incilər çıxarır."2 (Quran, 56:62)Sən Ey Mehriban Allah! Bu nigahı mərcan və incilər yetirməyə nail eylə. Sən, həqiqətən, Ən Qüvətli, Ən Ulu, Həmişə Bağışlayansan.
 
 -- Abdu'l-Bahá
 
-bpn4781 «[Azərbaycan](../az/prayers/#bpn4781)» 
+bpn4781 
 
 ----
 
@@ -989,7 +990,7 @@ Alqış Sənə, Ey mənim Allahım! Həqiqətən, Sənin bu bəndən və bu kən
 
 -- Abdu'l-Bahá
 
-bpn4782 «[Azərbaycan](../az/prayers/#bpn4782)» 
+bpn4782 
 
 ----
 
@@ -999,7 +1000,7 @@ Ey mənim Allahim, Ey mənim Allahim! Bu iki gözəl ay tək nurlanmiş bəndəl
 
 -- Abdu'l-Bahá
 
-bpn4783 «[Azərbaycan](../az/prayers/#bpn4783)» 
+bpn4783 
 
 ----
 
@@ -1013,7 +1014,7 @@ Ey Allah! İxtilafa səbəb olan bütün ünsürləri dağıt, bizə birlik və 
 
 -- Abdu'l-Bahá
 
-bpn4784 «[Azərbaycan](../az/prayers/#bpn4784)» 
+bpn4784 
 
 ----
 
@@ -1027,7 +1028,7 @@ bpn4784 «[Azərbaycan](../az/prayers/#bpn4784)»
 
 -- Bahá'u'lláh
 
-bpn4688 «[Azərbaycan](../az/prayers/#bpn4688)» 
+bpn4688 
 
 ----
 
@@ -1041,7 +1042,7 @@ Hüvəl-Əbha! İlahi! Zülməte-firğət afaqı qapladı və atəşe-həsrət �
 
 -- Abdu'l-Bahá
 
-bpn4898 «[Azərbaycan](../az/prayers/#bpn4898)» 
+bpn4898 
 
 ----
 
@@ -1055,7 +1056,7 @@ Alqış Sənə, Ey mənin Allahım! Sənə və Sənin əlamətlərinə iman gət
 
 -- Bahá'u'lláh
 
-bpn4772 «[Azərbaycan](../az/prayers/#bpn4772)» 
+bpn4772 
 
 ----
 
@@ -1065,7 +1066,7 @@ Sən görürsən, Ey mənim Allahım, Sənə arxa çevirmiş məxluqatının tö
 
 -- Bahá'u'lláh
 
-bpn4773 «[Azərbaycan](../az/prayers/#bpn4773)» 
+bpn4773 
 
 ----
 
@@ -1075,7 +1076,7 @@ Sən Ey üzü Sənin həsrətini çəkənlərin sitayiş yeri, liqası Sənin ir
 
 -- Bahá'u'lláh
 
-bpn4774 «[Azərbaycan](../az/prayers/#bpn4774)» 
+bpn4774 
 
 ----
 
@@ -1085,7 +1086,7 @@ Alqış Sənə, ey mənim Allahım! Mənim üzüm Sənin üzünə yönəlmişdir
 
 -- Bahá'u'lláh
 
-bpn4775 «[Azərbaycan](../az/prayers/#bpn4775)» 
+bpn4775 
 
 ----
 
@@ -1095,7 +1096,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Sən O Kəssən ki, məhəbbətinin a
 
 -- Bahá'u'lláh
 
-bpn4776 «[Azərbaycan](../az/prayers/#bpn4776)» 
+bpn4776 
 
 ----
 
@@ -1105,7 +1106,7 @@ Sən Ey əzəmətli qüdrətindən bütün şeyləri lərzəyə salan Kəs, büt
 
 -- Bahá'u'lláh
 
-bpn4777 «[Azərbaycan](../az/prayers/#bpn4777)» 
+bpn4777 
 
 ----
 
@@ -1115,7 +1116,7 @@ Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim d
 
 -- Abdu'l-Bahá
 
-bpn4778 «[Azərbaycan](../az/prayers/#bpn4778)» 
+bpn4778 
 
 ----
 
@@ -1125,7 +1126,7 @@ bpn4778 «[Azərbaycan](../az/prayers/#bpn4778)»
 
 -- Abdu'l-Bahá
 
-bpn4779 «[Azərbaycan](../az/prayers/#bpn4779)» 
+bpn4779 
 
 ----
 
@@ -1139,7 +1140,7 @@ bpn4779 «[Azərbaycan](../az/prayers/#bpn4779)»
 
 -- Bahá'u'lláh
 
-bpn4687 «[Azərbaycan](../az/prayers/#bpn4687)» 
+bpn4687 
 
 ----
 
@@ -1153,7 +1154,7 @@ bpn4687 «[Azərbaycan](../az/prayers/#bpn4687)»
 
 -- Abdu'l-Bahá
 
-bpn4890 «[Azərbaycan](../az/prayers/#bpn4890)» 
+bpn4890 
 
 ----
 
@@ -1163,7 +1164,7 @@ bpn4890 «[Azərbaycan](../az/prayers/#bpn4890)»
 
 -- Abdu'l-Bahá
 
-bpn4891 «[Azərbaycan](../az/prayers/#bpn4891)» 
+bpn4891 
 
 ----
 
@@ -1173,7 +1174,7 @@ bpn4891 «[Azərbaycan](../az/prayers/#bpn4891)»
 
 -- Abdu'l-Bahá
 
-bpn4892 «[Azərbaycan](../az/prayers/#bpn4892)» 
+bpn4892 
 
 ----
 
@@ -1187,7 +1188,7 @@ Məndə təmiz bir ürək yarat, Ey mənim Allahım və sakit bir vicdan oyat, E
 
 -- Bahá'u'lláh
 
-bpn4785 «[Azərbaycan](../az/prayers/#bpn4785)» 
+bpn4785 
 
 ----
 
@@ -1197,7 +1198,7 @@ Ey mənim Rəbbim! Gözəlliyini ruzim, hüzurunu suyum, razılığını ümidim
 
 -- Bahá'u'lláh
 
-bpn4786 «[Azərbaycan](../az/prayers/#bpn4786)» 
+bpn4786 
 
 ----
 
@@ -1207,7 +1208,7 @@ Ucalsın Sənin Adın, Ya Rəbb mənim Allahım! Mən Sənin bir bəndənəm ki,
 
 -- Bahá'u'lláh
 
-bpn4787 «[Azərbaycan](../az/prayers/#bpn4787)» 
+bpn4787 
 
 ----
 
@@ -1217,7 +1218,7 @@ Səni and verirəm, Ey mənim Allahım, Sənin Adının ən yüksək cəlalına,
 
 -- Bahá'u'lláh
 
-bpn4788 «[Azərbaycan](../az/prayers/#bpn4788)» 
+bpn4788 
 
 ----
 
@@ -1227,7 +1228,7 @@ bpn4788 «[Azərbaycan](../az/prayers/#bpn4788)»
 
 -- Bahá'u'lláh
 
-bpn4789 «[Azərbaycan](../az/prayers/#bpn4789)» 
+bpn4789 
 
 ----
 
@@ -1237,7 +1238,7 @@ O Fəzl Sahibi, Ən Səxavətlidir! Ey Allah, mənim Allahım! Sənin nidan mən
 
 -- Bahá'u'lláh
 
-bpn4790 «[Azərbaycan](../az/prayers/#bpn4790)» 
+bpn4790 
 
 ----
 
@@ -1247,7 +1248,7 @@ Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun
 
 -- Bahá'u'lláh
 
-bpn4791 «[Azərbaycan](../az/prayers/#bpn4791)» 
+bpn4791 
 
 ----
 
@@ -1257,7 +1258,7 @@ O duanı Eşidən, ona cavab Verən Allahdır! And olsun cəlalına, Ey Məhbub,
 
 -- Bahá'u'lláh
 
-bpn4792 «[Azərbaycan](../az/prayers/#bpn4792)» 
+bpn4792 
 
 ----
 
@@ -1267,7 +1268,7 @@ Lütf eylə mənə, Ey mənim Allahım, Sənin məhəbbətindən və Sənin raz�
 
 -- Báb
 
-bpn4793 «[Azərbaycan](../az/prayers/#bpn4793)» 
+bpn4793 
 
 ----
 
@@ -1277,7 +1278,7 @@ Ey mənim Allahım, Ey mənim Allahım! Təriflər olsun Sənə, çünki Sənin 
 
 -- Abdu'l-Bahá
 
-bpn4794 «[Azərbaycan](../az/prayers/#bpn4794)» 
+bpn4794 
 
 ----
 
@@ -1287,7 +1288,7 @@ bpn4794 «[Azərbaycan](../az/prayers/#bpn4794)»
 
 -- Abdu'l-Bahá
 
-bpn4795 «[Azərbaycan](../az/prayers/#bpn4795)» 
+bpn4795 
 
 ----
 
@@ -1297,7 +1298,7 @@ bpn4795 «[Azərbaycan](../az/prayers/#bpn4795)»
 
 -- Abdu'l-Bahá
 
-bpn4796 «[Azərbaycan](../az/prayers/#bpn4796)» 
+bpn4796 
 
 ----
 
@@ -1307,7 +1308,7 @@ Ey Allah, mənim Allahım! Bu Sənin nurlu bəndən və ruhani köləndir, o kə
 
 -- Abdu'l-Bahá
 
-bpn4797 «[Azərbaycan](../az/prayers/#bpn4797)» 
+bpn4797 
 
 ----
 
@@ -1317,7 +1318,7 @@ Ey Allah, mənim Allahım! Bunlar Sənin zəif bəndələrindir, bunlar Sənin U
 
 -- Abdu'l-Bahá
 
-bpn4798 «[Azərbaycan](../az/prayers/#bpn4798)» 
+bpn4798 
 
 ----
 
@@ -1327,7 +1328,7 @@ Odur Allah! Ey Allah, mənim Allahım! Bunlar Sənin bəndələrindir ki, Sənin
 
 -- Abdu'l-Bahá
 
-bpn4799 «[Azərbaycan](../az/prayers/#bpn4799)» 
+bpn4799 
 
 ----
 
@@ -1337,7 +1338,7 @@ Sən Ey Ruzi Verən! Sən Qərbdəki dostların üzərinə Müqəddəs Ruhun rah
 
 -- Abdu'l-Bahá
 
-bpn4800 «[Azərbaycan](../az/prayers/#bpn4800)» 
+bpn4800 
 
 ----
 
@@ -1347,7 +1348,7 @@ Ey Allah! Mənim ruhumu təravətləndir və sevindir. Mənim ürəyimi pak eyl�
 
 -- Abdu'l-Bahá
 
-bpn4801 «[Azərbaycan](../az/prayers/#bpn4801)» 
+bpn4801 
 
 ----
 
@@ -1361,7 +1362,7 @@ Mən Sənin Adını ucaldıram, Ey mənim Allahım və Sənə şükr edirəm, Ey
 
 -- Bahá'u'lláh
 
-bpn4802 «[Azərbaycan](../az/prayers/#bpn4802)» 
+bpn4802 
 
 ----
 
@@ -1371,7 +1372,7 @@ Alqış Sənin Adına, Ya Rəbb, mənim Allahım! Səni and verirəm bütün yar
 
 -- Bahá'u'lláh
 
-bpn4803 «[Azərbaycan](../az/prayers/#bpn4803)» 
+bpn4803 
 
 ----
 
@@ -1381,7 +1382,7 @@ Sən Ey yaxınlığı muradım, vüsalı ümidim, zikri diləyim, əzəmət dər
 
 -- Bahá'u'lláh
 
-bpn4804 «[Azərbaycan](../az/prayers/#bpn4804)» 
+bpn4804 
 
 ----
 
@@ -1391,7 +1392,7 @@ Ey Allah, mənim Allahım! Günahlarımı etiraf edərək peşimançılıqla Sə
 
 -- Bahá'u'lláh
 
-bpn4805 «[Azərbaycan](../az/prayers/#bpn4805)» 
+bpn4805 
 
 ----
 
@@ -1401,7 +1402,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm O Kəsə ki, Səni
 
 -- Bahá'u'lláh
 
-bpn4806 «[Azərbaycan](../az/prayers/#bpn4806)» 
+bpn4806 
 
 ----
 
@@ -1411,7 +1412,7 @@ Təriflər olsun Sənə, Ya Rəbb, mənim Məhbubum! Əmrində məni sabit eylə
 
 -- Báb
 
-bpn4807 «[Azərbaycan](../az/prayers/#bpn4807)» 
+bpn4807 
 
 ----
 
@@ -1421,7 +1422,7 @@ Alqış və təriflər olsun Sənə, Ey Allah! Sənin müqəddəs hüzuruna yeti
 
 -- Báb
 
-bpn4808 «[Azərbaycan](../az/prayers/#bpn4808)» 
+bpn4808 
 
 ----
 
@@ -1431,7 +1432,7 @@ Ya Rəbb, mənim Allahım! Sevimlilərinə Öz Dinində mətin olmaqda, Sənin y
 
 -- Abdu'l-Bahá
 
-bpn4809 «[Azərbaycan](../az/prayers/#bpn4809)» 
+bpn4809 
 
 ----
 
@@ -1441,7 +1442,7 @@ Sən Ey mənim Allahım, Ey axtaranları doğru yola Yönəldən, Ey sərgərdan
 
 -- Abdu'l-Bahá
 
-bpn4810 «[Azərbaycan](../az/prayers/#bpn4810)» 
+bpn4810 
 
 ----
 
@@ -1455,7 +1456,7 @@ Sən Ey sınağı, Sənə yaxın olanların dərmanı; qılıncı, aşiqlərinin
 
 -- Bahá'u'lláh
 
-bpn4815 «[Azərbaycan](../az/prayers/#bpn4815)» 
+bpn4815 
 
 ----
 
@@ -1465,7 +1466,7 @@ Alqış Sənə, Ey mənim Allahım! Yolunda çəkilən bəlalar olmasaydı, Sən
 
 -- Bahá'u'lláh
 
-bpn4816 «[Azərbaycan](../az/prayers/#bpn4816)» 
+bpn4816 
 
 ----
 
@@ -1475,7 +1476,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Hər bir bəsirət sahibi Sənin səl
 
 -- Bahá'u'lláh
 
-bpn4817 «[Azərbaycan](../az/prayers/#bpn4817)» 
+bpn4817 
 
 ----
 
@@ -1485,7 +1486,7 @@ Ey Allah, mənim Allahım! Öz səxavətin və bəxşişinlə mənim kədərimi 
 
 -- Bahá'u'lláh
 
-bpn4818 «[Azərbaycan](../az/prayers/#bpn4818)» 
+bpn4818 
 
 ----
 
@@ -1495,7 +1496,7 @@ Varmıdır Allahdan başqa çətinliklərdən Qurtaran? Söylə: Sübhandır All
 
 -- Báb
 
-bpn4819 «[Azərbaycan](../az/prayers/#bpn4819)» 
+bpn4819 
 
 ----
 
@@ -1505,7 +1506,7 @@ Sən yaxşı bilirsən, Ey mənim Allahım, bəlalar hər tərəfdən mənim üs
 
 -- Báb
 
-bpn4820 «[Azərbaycan](../az/prayers/#bpn4820)» 
+bpn4820 
 
 ----
 
@@ -1515,7 +1516,7 @@ Sənin Qüdrətinə and verirəm, Ey mənim Allahım! Qoyma sınaqlar zamanı m�
 
 -- Báb
 
-bpn4821 «[Azərbaycan](../az/prayers/#bpn4821)» 
+bpn4821 
 
 ----
 
@@ -1525,7 +1526,7 @@ Ya Rəbb! Sənsən hər bir dərdi Qaldıran və hər bir kədəri Dağıdan. S�
 
 -- Báb
 
-bpn4822 «[Azərbaycan](../az/prayers/#bpn4822)» 
+bpn4822 
 
 ----
 
@@ -1535,7 +1536,7 @@ Alqiş və tərif Sənə, Ey mənim Allahım! And verirəm Sənin aşiqlərinin 
 
 -- Abdu'l-Bahá
 
-bpn4823 «[Azərbaycan](../az/prayers/#bpn4823)» 
+bpn4823 
 
 ----
 
@@ -1549,7 +1550,7 @@ Odur Allah! Sən bizi görürsən, ey mənim Allahım, bu süfrə ətrafında to
 
 -- Abdu'l-Bahá
 
-bpn4824 «[Azərbaycan](../az/prayers/#bpn4824)» 
+bpn4824 
 
 ----
 
@@ -1559,7 +1560,7 @@ Odur Allah! Biz Sənə necə şükr edə bilərik, İlahi? Sənin nemətlərin h
 
 -- Abdu'l-Bahá
 
-bpn4825 «[Azərbaycan](../az/prayers/#bpn4825)» 
+bpn4825 
 
 ----
 
@@ -1573,7 +1574,7 @@ Ey mənim Allahım və mənim Mövlam! Mən Sənin bəndənəm və bəndənin o�
 
 -- Bahá'u'lláh
 
-bpn4811 «[Azərbaycan](../az/prayers/#bpn4811)» 
+bpn4811 
 
 ----
 
@@ -1583,7 +1584,7 @@ Sənin sığınacağında yuxudan qalxmışam, Ey mənim Allahım və o sığın
 
 -- Bahá'u'lláh
 
-bpn4812 «[Azərbaycan](../az/prayers/#bpn4812)» 
+bpn4812 
 
 ----
 
@@ -1593,7 +1594,7 @@ Sənin mərhəmətinlə bu səhər yuxudan qalxmışam, Ey mənim Allahım. Büt
 
 -- Bahá'u'lláh
 
-bpn4813 «[Azərbaycan](../az/prayers/#bpn4813)» 
+bpn4813 
 
 ----
 
@@ -1603,7 +1604,7 @@ Sənə şükr edirəm, Ey mənim Allahım! Sən məni yuxudan oyatdın, yoxluğu
 
 -- Bahá'u'lláh
 
-bpn4814 «[Azərbaycan](../az/prayers/#bpn4814)» 
+bpn4814 
 
 ----
 
@@ -1617,7 +1618,7 @@ Sən görürsən, Ey mənim Allahım, Sənin sevimlilərin Sənin məxluqların 
 
 -- Bahá'u'lláh
 
-bpn4697 «[Azərbaycan](../az/prayers/#bpn4697)» 
+bpn4697 
 
 ----
 
@@ -1627,7 +1628,7 @@ Alqış Sənə, Ya Rəbb mənim Allahım! Sənin hökmran qüdrətinin çayları
 
 -- Bahá'u'lláh
 
-bpn4698 «[Azərbaycan](../az/prayers/#bpn4698)» 
+bpn4698 
 
 ----
 
@@ -1637,7 +1638,7 @@ bpn4698 «[Azərbaycan](../az/prayers/#bpn4698)»
 
 -- Bahá'u'lláh
 
-bpn4699 «[Azərbaycan](../az/prayers/#bpn4699)» 
+bpn4699 
 
 ----
 
@@ -1647,7 +1648,7 @@ Ya Rəbb! Sənin ilahi Birlik Ağacının tez böyüməsinin qayğısına qal; s
 
 -- Báb
 
-bpn4700 «[Azərbaycan](../az/prayers/#bpn4700)» 
+bpn4700 
 
 ----
 
@@ -1657,7 +1658,7 @@ Ya Rəbb! Sənin günlərində səbrli olan bəndələrinə layiqli qələbələ
 
 -- Báb
 
-bpn4701 «[Azərbaycan](../az/prayers/#bpn4701)» 
+bpn4701 
 
 ----
 
@@ -1667,7 +1668,7 @@ Ya Rəbb! Yer üzünün bütün xalqlarını Sənin Dininin Cənnətinə daxil o
 
 -- Báb
 
-bpn4702 «[Azərbaycan](../az/prayers/#bpn4702)» 
+bpn4702 
 
 ----
 
@@ -1677,7 +1678,7 @@ Alqış Sənə, Ya Rəbb, Sən Ey bütün yaranmış şeyləri Öz əmrinin qüd
 
 -- Báb
 
-bpn4703 «[Azərbaycan](../az/prayers/#bpn4703)» 
+bpn4703 
 
 ----
 
@@ -1687,7 +1688,7 @@ Ey Allah, mənim Allahım! Təriflər olsun Sənə, cünki Sən ən uca dağın 
 
 -- Abdu'l-Bahá
 
-bpn4704 «[Azərbaycan](../az/prayers/#bpn4704)» 
+bpn4704 
 
 ----
 
@@ -1697,7 +1698,7 @@ Odur Allah! Ya Rəbb, mənim Allahım, mənim Məhbubum! Bunlar Sənin o bəndə
 
 -- Abdu'l-Bahá
 
-bpn4705 «[Azərbaycan](../az/prayers/#bpn4705)» 
+bpn4705 
 
 ----
 
@@ -1711,7 +1712,7 @@ Ucasan Sən, Ya Rəbb, mənim Allahım! Səni and verirəm Sənin fəzl yelləri
 
 -- Bahá'u'lláh
 
-bpn4853 «[Azərbaycan](../az/prayers/#bpn4853)» 
+bpn4853 
 
 ----
 
@@ -1721,7 +1722,7 @@ Sən Ey Mərhəmətli Allah! Sən Ey Qüdrətli və Qüvvətli! Sən Ey Ən Mehr
 
 -- Abdu'l-Bahá
 
-bpn4854 «[Azərbaycan](../az/prayers/#bpn4854)» 
+bpn4854 
 
 ----
 
@@ -1731,7 +1732,7 @@ Sən Ey Mehriban Rəbb! Bunlar Sənin bəndələrindir ki, bu məclisdə toplaş
 
 -- Abdu'l-Bahá
 
-bpn4855 «[Azərbaycan](../az/prayers/#bpn4855)» 
+bpn4855 
 
 ----
 
@@ -1741,7 +1742,7 @@ Ey mənim Allahım, Ey mənim Allahım! Həqiqətən, bu bəndələr Sənə üz 
 
 -- Abdu'l-Bahá
 
-bpn4856 «[Azərbaycan](../az/prayers/#bpn4856)» 
+bpn4856 
 
 ----
 
@@ -1751,7 +1752,7 @@ Sən Ey Bağışlayan Allah! Bu bəndələr Sənin Mələkutuna üz tutublar, S�
 
 -- Abdu'l-Bahá
 
-bpn4857 «[Azərbaycan](../az/prayers/#bpn4857)» 
+bpn4857 
 
 ----
 
@@ -1761,7 +1762,7 @@ Sən Ey hidayət Edən İlahi Qüvvə! Bu məclis Sənin sevimli dostlarından i
 
 -- Abdu'l-Bahá
 
-bpn4858 «[Azərbaycan](../az/prayers/#bpn4858)» 
+bpn4858 
 
 ----
 
@@ -1771,7 +1772,7 @@ Sən Ey mehriban Pərvərdigar! Bu ruhlar Mələkutun nidasını eşitmiş və g
 
 -- Abdu'l-Bahá
 
-bpn4859 «[Azərbaycan](../az/prayers/#bpn4859)» 
+bpn4859 
 
 ----
 
@@ -1785,7 +1786,7 @@ Ey Rəbbim, mənim Allahım! Bu bir uşaqdır ki, Sənin bəndələrinin birind�
 
 -- Bahá'u'lláh
 
-bpn4860 «[Azərbaycan](../az/prayers/#bpn4860)» 
+bpn4860 
 
 ----
 
@@ -1795,7 +1796,7 @@ Alqış Sənə, Ey mənim Rəbbim Allah! Bu körpəni Öz mərhəmət və inayə
 
 -- Bahá'u'lláh
 
-bpn4871 «[Azərbaycan](../az/prayers/#bpn4871)» 
+bpn4871 
 
 ----
 
@@ -1805,7 +1806,7 @@ bpn4871 «[Azərbaycan](../az/prayers/#bpn4871)»
 
 -- Abdu'l-Bahá
 
-bpn4861 «[Azərbaycan](../az/prayers/#bpn4861)» 
+bpn4861 
 
 ----
 
@@ -1815,7 +1816,7 @@ Sən Ey mehriban Rəbb! Bu nazənin uşaqlar Sənin qüdrət barmaqlarının əs
 
 -- Abdu'l-Bahá
 
-bpn4862 «[Azərbaycan](../az/prayers/#bpn4862)» 
+bpn4862 
 
 ----
 
@@ -1825,7 +1826,7 @@ Ya Rəbb! Bu uşaqları ən gözəl fidanlar eylə. Onları Öz Əhdi-Peyman ba�
 
 -- Abdu'l-Bahá
 
-bpn4863 «[Azərbaycan](../az/prayers/#bpn4863)» 
+bpn4863 
 
 ----
 
@@ -1835,7 +1836,7 @@ Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta ey
 
 -- Abdu'l-Bahá
 
-bpn4864 «[Azərbaycan](../az/prayers/#bpn4864)» 
+bpn4864 
 
 ----
 
@@ -1845,7 +1846,7 @@ Ey Allah, mənə yol göstər, məni qoru, məni şölə saçan bir çıraq və 
 
 -- Abdu'l-Bahá
 
-bpn4865 «[Azərbaycan](../az/prayers/#bpn4865)» 
+bpn4865 
 
 ----
 
@@ -1855,7 +1856,7 @@ bpn4865 «[Azərbaycan](../az/prayers/#bpn4865)»
 
 -- Abdu'l-Bahá
 
-bpn4866 «[Azərbaycan](../az/prayers/#bpn4866)» 
+bpn4866 
 
 ----
 
@@ -1865,7 +1866,7 @@ Ey Bənzərsiz Allah! Bu yazıq uşağa pənah ol. Bu xətalı və qəmgin ruha 
 
 -- Abdu'l-Bahá
 
-bpn4867 «[Azərbaycan](../az/prayers/#bpn4867)» 
+bpn4867 
 
 ----
 
@@ -1875,7 +1876,7 @@ Ey mənim Allahım, Ey mənim Allahım! Sən bu uşaqları görürsən – onlar
 
 -- Abdu'l-Bahá
 
-bpn4868 «[Azərbaycan](../az/prayers/#bpn4868)» 
+bpn4868 
 
 ----
 
@@ -1885,7 +1886,7 @@ Ya Rəbb! Mən bir uşağam; Məni Öz inayət kölgəndə böyüt. Mən zərif 
 
 -- Abdu'l-Bahá
 
-bpn4869 «[Azərbaycan](../az/prayers/#bpn4869)» 
+bpn4869 
 
 ----
 
@@ -1895,7 +1896,7 @@ Sən Ey mənim Cəlallı Rəbbim! Özünün bu balaca kənizini xoşhal və bəx
 
 -- Abdu'l-Bahá
 
-bpn4870 «[Azərbaycan](../az/prayers/#bpn4870)» 
+bpn4870 
 
 ----
 
@@ -1909,7 +1910,7 @@ bpn4870 «[Azərbaycan](../az/prayers/#bpn4870)»
 
 -- Bahá'u'lláh
 
-bpn4872 «[Azərbaycan](../az/prayers/#bpn4872)» 
+bpn4872 
 
 ----
 
@@ -1919,7 +1920,7 @@ Alqış Sənə, Ya Rəbb, mənim Allahım! Öz əzəli hökmranlığının ğüc
 
 -- Bahá'u'lláh
 
-bpn4873 «[Azərbaycan](../az/prayers/#bpn4873)» 
+bpn4873 
 
 ----
 
@@ -1929,7 +1930,7 @@ Odur Allah, Ucadır O, İnayət və kəramət Mövlası Odur! Sübhansan, Sən, 
 
 -- Bahá'u'lláh
 
-bpn4874 «[Azərbaycan](../az/prayers/#bpn4874)» 
+bpn4874 
 
 ----
 
@@ -1939,7 +1940,7 @@ Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən,
 
 -- Abdu'l-Bahá
 
-bpn4875 «[Azərbaycan](../az/prayers/#bpn4875)» 
+bpn4875 
 
 ----
 
@@ -1949,7 +1950,7 @@ Sən Ey Bağışlayan Allah! Baxmayarq ki, bəzi ruhlar öz həyatlarını qəfl
 
 -- Abdu'l-Bahá
 
-bpn4876 «[Azərbaycan](../az/prayers/#bpn4876)» 
+bpn4876 
 
 ----
 
@@ -1959,7 +1960,7 @@ Ey mənim Allahım, Ey günahları Bağışlayan və qəm-qüssəni Dağıdan! S
 
 -- Abdu'l-Bahá
 
-bpn4877 «[Azərbaycan](../az/prayers/#bpn4877)» 
+bpn4877 
 
 ----
 
@@ -1969,7 +1970,7 @@ Ya Rəbb! Sən Ey mərhəməti hamını saran, rəhmi böyük, kəraməti yüks�
 
 -- Abdu'l-Bahá
 
-bpn4878 «[Azərbaycan](../az/prayers/#bpn4878)» 
+bpn4878 
 
 ----
 
@@ -1979,7 +1980,7 @@ Sən Ey mehriban Allah! Bu əziz kənizin Sənə cəzb olunmuşdu, ağıl və f�
 
 -- Abdu'l-Bahá
 
-bpn4879 «[Azərbaycan](../az/prayers/#bpn4879)» 
+bpn4879 
 
 ----
 
@@ -1993,7 +1994,7 @@ bpn4879 «[Azərbaycan](../az/prayers/#bpn4879)»
 
 -- Abdu'l-Bahá
 
-bpn4754 «[Azərbaycan](../az/prayers/#bpn4754)» 
+bpn4754 
 
 ----
 
@@ -2007,7 +2008,7 @@ Ey Allah, Ey bütün Zühurları Yaradan, bütün Mənbələrin Mənbəyi, büt�
 
 -- Bahá'u'lláh
 
-bpn4834 «[Azərbaycan](../az/prayers/#bpn4834)» 
+bpn4834 
 
 ----
 
@@ -2017,7 +2018,7 @@ Söylə: Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım. Səni and verirəm o 
 
 -- Bahá'u'lláh
 
-bpn4835 «[Azərbaycan](../az/prayers/#bpn4835)» 
+bpn4835 
 
 ----
 
@@ -2027,7 +2028,7 @@ Ucalsın Sənin Adın, Ey mənim Allahım, çünki Sən o günü aşkar etdin ki
 
 -- Bahá'u'lláh
 
-bpn4836 «[Azərbaycan](../az/prayers/#bpn4836)» 
+bpn4836 
 
 ----
 
@@ -2037,7 +2038,7 @@ Təriflər olsun Sənə, Ya Rəbb mənim Allahım! And verirəm Sənin o adına 
 
 -- Bahá'u'lláh
 
-bpn4837 «[Azərbaycan](../az/prayers/#bpn4837)» 
+bpn4837 
 
 ----
 
@@ -2047,7 +2048,7 @@ Alqış Sənə, Ey aləmin Rəbbi və millətlərin Məqsudu, Sən Ey Ən Böyü
 
 -- Bahá'u'lláh
 
-bpn4838 «[Azərbaycan](../az/prayers/#bpn4838)» 
+bpn4838 
 
 ----
 
@@ -2057,7 +2058,7 @@ Sən bilirsən, ey Allah və şahidsən ki, mənim ürəyimdə Sənin razılığ
 
 -- Abdu'l-Bahá
 
-bpn4839 «[Azərbaycan](../az/prayers/#bpn4839)» 
+bpn4839 
 
 ----
 
@@ -2067,7 +2068,7 @@ Ey mənim Allahım, Öz bəndənə kömək et ki, Sənin Sözünü ucaltsın, bi
 
 -- Abdu'l-Bahá
 
-bpn4840 «[Azərbaycan](../az/prayers/#bpn4840)» 
+bpn4840 
 
 ----
 
@@ -2077,7 +2078,7 @@ Ey Allah, mənim Allahım! Öz etibarlı bəndələrinə kömək eylə ki, mehri
 
 -- Abdu'l-Bahá
 
-bpn4841 «[Azərbaycan](../az/prayers/#bpn4841)» 
+bpn4841 
 
 ----
 
@@ -2087,7 +2088,7 @@ Görürsən məni, Ey mənim Allahım, mütiliklə təzim etmiş, hökmlərin qa
 
 -- Abdu'l-Bahá
 
-bpn4842 «[Azərbaycan](../az/prayers/#bpn4842)» 
+bpn4842 
 
 ----
 
@@ -2097,7 +2098,7 @@ Sən Ey Bənzərsiz Allah! Sən Ey Mələkutun Rəbbi! Bu ruhlar Sənin səmavi 
 
 -- Abdu'l-Bahá
 
-bpn4843 «[Azərbaycan](../az/prayers/#bpn4843)» 
+bpn4843 
 
 ----
 
@@ -2107,7 +2108,7 @@ Ey Allah, mənim Allahım! Sən məni görürsən, Sənin Əbha Mələkutuna mə
 
 -- Abdu'l-Bahá
 
-bpn4844 «[Azərbaycan](../az/prayers/#bpn4844)» 
+bpn4844 
 
 ----
 
@@ -2117,7 +2118,7 @@ bpn4844 «[Azərbaycan](../az/prayers/#bpn4844)»
 
 -- Abdu'l-Bahá
 
-bpn4845 «[Azərbaycan](../az/prayers/#bpn4845)» 
+bpn4845 
 
 ----
 
@@ -2127,7 +2128,7 @@ Ey Allah, mənim Allahım! Sən görürsən, qara zülmət bütün diyarları ne
 
 -- Abdu'l-Bahá
 
-bpn4846 «[Azərbaycan](../az/prayers/#bpn4846)» 
+bpn4846 
 
 ----
 
@@ -2137,7 +2138,7 @@ Sən Ey Mehriban Allah! Təriflər olsun Sənə ki, hidayət yollarını bizə g
 
 -- Abdu'l-Bahá
 
-bpn4847 «[Azərbaycan](../az/prayers/#bpn4847)» 
+bpn4847 
 
 ----
 
@@ -2147,7 +2148,7 @@ Ey mənim Allahım! Ey mənim Allahım! Heçliyim və zəifiyimlə Sən məni g�
 
 -- Abdu'l-Bahá
 
-bpn4848 «[Azərbaycan](../az/prayers/#bpn4848)» 
+bpn4848 
 
 ----
 
@@ -2157,7 +2158,7 @@ Ya Rəbb, mənim Allahım! Sənə tərif və şükrlər olsun ki, məni mələku
 
 -- Abdu'l-Bahá
 
-bpn4849 «[Azərbaycan](../az/prayers/#bpn4849)» 
+bpn4849 
 
 ----
 
@@ -2167,7 +2168,7 @@ Ey Allah! Ey Allah! Bu qanadı sınıq bir quşdur və onun uçuşu çox zəifdi
 
 -- Abdu'l-Bahá
 
-bpn4850 «[Azərbaycan](../az/prayers/#bpn4850)» 
+bpn4850 
 
 ----
 
@@ -2177,7 +2178,7 @@ Təriflər olsun Sənə, Ey mənim Allahım! Bunlar Sənin o bəndələrindir ki
 
 -- Abdu'l-Bahá
 
-bpn4851 «[Azərbaycan](../az/prayers/#bpn4851)» 
+bpn4851 
 
 ----
 
@@ -2187,7 +2188,7 @@ Ey Allah, mənim Allahım! Sən bu zəif kimsəni görürsən ki, səmavi qüvv�
 
 -- Abdu'l-Bahá
 
-bpn4852 «[Azərbaycan](../az/prayers/#bpn4852)» 
+bpn4852 
 
 ----
 
@@ -2201,7 +2202,7 @@ Ey Allah, bütün Adların Allahı və göyləri Yaradan! Səni and verirəm o A
 
 -- Bahá'u'lláh
 
-bpn4752 «[Azərbaycan](../az/prayers/#bpn4752)» 
+bpn4752 
 
 ----
 
@@ -2211,7 +2212,7 @@ Alqış söyləyirəm Sənə, Ey mənim Allahım, Sənin inayətinin rayihələr
 
 -- Bahá'u'lláh
 
-bpn4753 «[Azərbaycan](../az/prayers/#bpn4753)» 
+bpn4753 
 
 ----
 
@@ -2225,7 +2226,7 @@ Bütün təriflər, Ey mənim Allahım, Sənə olsun, Ey cəlal və möhtəşəm
 
 -- Bahá'u'lláh
 
-bpn4830 «[Azərbaycan](../az/prayers/#bpn4830)» 
+bpn4830 
 
 ----
 
@@ -2235,7 +2236,7 @@ bpn4830 «[Azərbaycan](../az/prayers/#bpn4830)»
 
 -- Bahá'u'lláh
 
-bpn4831 «[Azərbaycan](../az/prayers/#bpn4831)» 
+bpn4831 
 
 ----
 
@@ -2245,17 +2246,17 @@ Sübhansan Sən, Ya Rəbb, mənim Allahım! Şükr edirəm Sənə, çünki məni
 
 -- Bahá'u'lláh
 
-bpn4832 «[Azərbaycan](../az/prayers/#bpn4832)» 
+bpn4832 
 
 ----
 
 
 <a id="bpn4833"></a> 
-Bütün əzəmət və bəha, Ey mənim Allahım, bütün hökmranlıq və nur, ehtişam və cəlal Sənin üzərinə olsun. Sən kimə istəsən, ona sultanlıq əta edirsən və kimi istəsən, ondan məhrum qoyursan. Səndən başqa Allah yoxdur, Hər şeyə Malik, Ən Uca. Sən O Kəssən ki, yoxdan kainatı və onda olan bütün məxluqatı yaradıb. Sənin özündən başqa heç nə Sənə layiq deyil, Səndən başqa hər şey Sənin müqəddəs hüzurunda səfildir və Sənin Öz Varlığının cəlalı ilə müqayisədə bir heçdir.Mən Sənin sifətlərini heç vəchlə tərif edə bilmərəm, məgər onunla ki, Sən Özün Öz Mötəbər Kitabında onları tərif etmisən, harada ki, Sən buyurursan, &#34;Gözlər onu dərk etməz, O isə gözləri dərk edər. O, Lətif və Xəbərdardır.&#34; 1(Quran, 6:103) , Alqış Sənə, Ey mənim Allahım, həqiqətən, heç bir ağıl və ya göz, nə qədər iti və ya bəsirətli olsa da, Sənin əlamətlərindən ən cüzi olanın təbiətini anlaya bilməz. Həqiqətən, Sən Allahsan, Səndən başqa Allah yoxdur. Mən şəhadət verirəm ki, təkcə Sən Özün Öz sifətlərinin yeganə ifadəsisən. Səndən başqa heç kəsin tərifi Sənin müqəddəs dərgahına çata bilməz, Sənin sifətlərini isə Səndən özgə kimsə dərk edə bilməz.Alqış Sənə, Sən Özündən başqa hər kəsin vəsfindən yüksəksən, çünki bu insan anlayışından kənardır ki, Sənin məziyyətlərini tərif etsin, ya da Sənin Zatının batini маhiyyətini dərk edə bilsin. Bu Sənin şərəfindən çox uzaqdır ki, Sənin yaratdıqların Səni vəsf etsinlər, ya da Səndən özgə kimsə Səni nə vaxtsa tanıya bilsin. Mən Səni, Ey mənim Allahım, ona görə tanıdım ki, Özün Özünü mənə tanıtdırdın, çünki əgər Özünü mənə zahir etməsəydin, mən Səni tanımazdım. Məni Özünə çağırdığın üçün mən Sənə sitayiş edirəm, çünki Sənin çağırışın olmasaydı, mən Sənə sitayiş etməzdim.
+Bütün əzəmət və bəha, Ey mənim Allahım, bütün hökmranlıq və nur, ehtişam və cəlal Sənin üzərinə olsun. Sən kimə istəsən, ona sultanlıq əta edirsən və kimi istəsən, ondan məhrum qoyursan. Səndən başqa Allah yoxdur, Hər şeyə Malik, Ən Uca. Sən O Kəssən ki, yoxdan kainatı və onda olan bütün məxluqatı yaradıb. Sənin özündən başqa heç nə Sənə layiq deyil, Səndən başqa hər şey Sənin müqəddəs hüzurunda səfildir və Sənin Öz Varlığının cəlalı ilə müqayisədə bir heçdir.Mən Sənin sifətlərini heç vəchlə tərif edə bilmərəm, məgər onunla ki, Sən Özün Öz Mötəbər Kitabında onları tərif etmisən, harada ki, Sən buyurursan, "Gözlər onu dərk etməz, O isə gözləri dərk edər. O, Lətif və Xəbərdardır." 1(Quran, 6:103) , Alqış Sənə, Ey mənim Allahım, həqiqətən, heç bir ağıl və ya göz, nə qədər iti və ya bəsirətli olsa da, Sənin əlamətlərindən ən cüzi olanın təbiətini anlaya bilməz. Həqiqətən, Sən Allahsan, Səndən başqa Allah yoxdur. Mən şəhadət verirəm ki, təkcə Sən Özün Öz sifətlərinin yeganə ifadəsisən. Səndən başqa heç kəsin tərifi Sənin müqəddəs dərgahına çata bilməz, Sənin sifətlərini isə Səndən özgə kimsə dərk edə bilməz.Alqış Sənə, Sən Özündən başqa hər kəsin vəsfindən yüksəksən, çünki bu insan anlayışından kənardır ki, Sənin məziyyətlərini tərif etsin, ya da Sənin Zatının batini маhiyyətini dərk edə bilsin. Bu Sənin şərəfindən çox uzaqdır ki, Sənin yaratdıqların Səni vəsf etsinlər, ya da Səndən özgə kimsə Səni nə vaxtsa tanıya bilsin. Mən Səni, Ey mənim Allahım, ona görə tanıdım ki, Özün Özünü mənə tanıtdırdın, çünki əgər Özünü mənə zahir etməsəydin, mən Səni tanımazdım. Məni Özünə çağırdığın üçün mən Sənə sitayiş edirəm, çünki Sənin çağırışın olmasaydı, mən Sənə sitayiş etməzdim.
 
 -- Báb
 
-bpn4833 «[Azərbaycan](../az/prayers/#bpn4833)» 
+bpn4833 
 
 ----
 
@@ -2269,7 +2270,7 @@ Ey Allah, mənim Allahım! Sənin şəfaverici dəryanla, fəzl Günəşinin par
 
 -- Bahá'u'lláh
 
-bpn4826 «[Azərbaycan](../az/prayers/#bpn4826)» 
+bpn4826 
 
 ----
 
@@ -2279,7 +2280,7 @@ Sənin adın mənim şəfamdır, Ey mənim Allahım, Səni zikr etmək mənim d�
 
 -- Bahá'u'lláh
 
-bpn4827 «[Azərbaycan](../az/prayers/#bpn4827)» 
+bpn4827 
 
 ----
 
@@ -2289,7 +2290,7 @@ Alqış Sənə, Ey mənim Rəbbim Allah! And verirəm Sənin o adına ki, onunla
 
 -- Bahá'u'lláh
 
-bpn4828 «[Azərbaycan](../az/prayers/#bpn4828)» 
+bpn4828 
 
 ----
 
@@ -2299,7 +2300,7 @@ Təriflər olsun Sənə, Ey mənim Rəbbim Allah! Sənin ən Böyük Adına and 
 
 -- Bahá'u'lláh
 
-bpn4829 «[Azərbaycan](../az/prayers/#bpn4829)» 
+bpn4829 
 
 ----
 
@@ -2313,7 +2314,7 @@ Odur Allah! Ya Rəbb mənim Allahım! Sən Ey Sənə üz tutan zəiflərin Köm�
 
 -- Abdu'l-Bahá
 
-bpn4889 «[Azərbaycan](../az/prayers/#bpn4889)» 
+bpn4889 
 
 ----
 
@@ -2327,7 +2328,7 @@ Alqış Sənə, Ey əbədiyyət Sultanı, ümmətlərin Xaliqi və hər bir çü
 
 -- Bahá'u'lláh
 
-bpn4731 «[Azərbaycan](../az/prayers/#bpn4731)» 
+bpn4731 
 
 ----
 
@@ -2337,7 +2338,7 @@ O, Qüdrətli, Əfv Edən və Şəfqətlidir! Ey Allah, mənim Allahım! Sən b�
 
 -- Bahá'u'lláh
 
-bpn4732 «[Azərbaycan](../az/prayers/#bpn4732)» 
+bpn4732 
 
 ----
 
@@ -2347,7 +2348,7 @@ bpn4732 «[Azərbaycan](../az/prayers/#bpn4732)»
 
 -- Abdu'l-Bahá
 
-bpn4733 «[Azərbaycan](../az/prayers/#bpn4733)» 
+bpn4733 
 
 ----
 
@@ -2357,7 +2358,7 @@ Ey Şəfqətli Allah! Şükürlər Sənə, məni ayıltdın və huşyar etdin. G
 
 -- Abdu'l-Bahá
 
-bpn4734 «[Azərbaycan](../az/prayers/#bpn4734)» 
+bpn4734 
 
 ----
 
@@ -2367,7 +2368,7 @@ Ey mənim Rəbbim və mənim Ümidim! Öz sevimlilərinə kömək eylə ki, Sən
 
 -- Abdu'l-Bahá
 
-bpn4735 «[Azərbaycan](../az/prayers/#bpn4735)» 
+bpn4735 
 
 ----
 
@@ -2381,17 +2382,17 @@ bpn4735 «[Azərbaycan](../az/prayers/#bpn4735)»
 
 -- Bahá'u'lláh
 
-bpn4880 «[Azərbaycan](../az/prayers/#bpn4880)» 
+bpn4880 
 
 ----
 
 
 <a id="bpn4881"></a> 
-*Kitabi-Əqdəsdə buyrulur: &#34;Biz sizə hökm etmişik ki, kamala çatandan (15 yaş) namaz qılıb oruc tutasınız; Bu Allah tərəfindən, Sizin Rəbbiniz və babalarınızın Rəbbi tərəfindən hökm olunmuşdur.... Səfərdə olana, xəstəyə, uşaqlı və ya süd verən analara Oruc tutmaq hökmü şamil edilmir... Yeməkdən və içməkdən günçıxandan günbatana qədər pəhriz edin və məbada Kitabda təyin olunmuş bu nemətdən özünüzü məhrum edəsiniz&#34; Orucluq müddəti Martın 2-dən 20-sinə qədərdir. Xahış olunur Bəhai təqviminə müraciə edəsiniz.Bu, Ey mənim Allahım, günlərdən birincisidir ki, Sən Öz sevimlilərinə Oruc tutmağı əmr etmisən. Səni and verirəm Sənin Özünə, özü xatirinə və ya öz arzusu üçün, ya da Sənin qəzəbindən qorxduğu üçün deyil, Sənin məhəbbətin və Sənin razılığın naminə oruc tutan kəsə və Sənin ən ali adlarına və yüksək sifətlərinə - Sənin bəndələrini Səndən başqa hər şeyə məhəbbət bağlılığından pak eylə və onları Sənin üzünün nurunun Məşriqinə və Sənin vahidlik Taxtına cəzb eylə. Onların ürəyini Sənin irfanının işığı ilə nurlandır, Ey mənim Allahım və onların üzlərini Sənin iradə üfüqündə parlayan Günəşin şüaları ilə parlat. Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, ən cəlallı, bütün insanların kömək dilədiyi Allah.Yardım eylə onlara, Ey mənim Allahım, Sənin uğrunda qələbə qazansınlar və Sənin Kəlamını ucaltsınlar. Sonra onlara izn ver ki, Sənin bəndələrin arasında Əmrinin əlləri və Sənin dinini və bəşərin arasında Sənin nişanələrini zahir edənlər olsunlar, belə ki, bütün dünya Sənin zikrin və tərifinlə, Sənin dəlil və sübutlarınla dolsun. Sən, həqiqətən, Ən Kəramətli, Ən Uca, Qüvvətli, Əzəmətli və Mərhəmətlisən.
+*Kitabi-Əqdəsdə buyrulur: "Biz sizə hökm etmişik ki, kamala çatandan (15 yaş) namaz qılıb oruc tutasınız; Bu Allah tərəfindən, Sizin Rəbbiniz və babalarınızın Rəbbi tərəfindən hökm olunmuşdur.... Səfərdə olana, xəstəyə, uşaqlı və ya süd verən analara Oruc tutmaq hökmü şamil edilmir... Yeməkdən və içməkdən günçıxandan günbatana qədər pəhriz edin və məbada Kitabda təyin olunmuş bu nemətdən özünüzü məhrum edəsiniz" Orucluq müddəti Martın 2-dən 20-sinə qədərdir. Xahış olunur Bəhai təqviminə müraciə edəsiniz.Bu, Ey mənim Allahım, günlərdən birincisidir ki, Sən Öz sevimlilərinə Oruc tutmağı əmr etmisən. Səni and verirəm Sənin Özünə, özü xatirinə və ya öz arzusu üçün, ya da Sənin qəzəbindən qorxduğu üçün deyil, Sənin məhəbbətin və Sənin razılığın naminə oruc tutan kəsə və Sənin ən ali adlarına və yüksək sifətlərinə - Sənin bəndələrini Səndən başqa hər şeyə məhəbbət bağlılığından pak eylə və onları Sənin üzünün nurunun Məşriqinə və Sənin vahidlik Taxtına cəzb eylə. Onların ürəyini Sənin irfanının işığı ilə nurlandır, Ey mənim Allahım və onların üzlərini Sənin iradə üfüqündə parlayan Günəşin şüaları ilə parlat. Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, ən cəlallı, bütün insanların kömək dilədiyi Allah.Yardım eylə onlara, Ey mənim Allahım, Sənin uğrunda qələbə qazansınlar və Sənin Kəlamını ucaltsınlar. Sonra onlara izn ver ki, Sənin bəndələrin arasında Əmrinin əlləri və Sənin dinini və bəşərin arasında Sənin nişanələrini zahir edənlər olsunlar, belə ki, bütün dünya Sənin zikrin və tərifinlə, Sənin dəlil və sübutlarınla dolsun. Sən, həqiqətən, Ən Kəramətli, Ən Uca, Qüvvətli, Əzəmətli və Mərhəmətlisən.
 
 -- Bahá'u'lláh
 
-bpn4881 «[Azərbaycan](../az/prayers/#bpn4881)» 
+bpn4881 
 
 ----
 

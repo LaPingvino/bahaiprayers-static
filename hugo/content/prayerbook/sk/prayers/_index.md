@@ -5,6 +5,7 @@ tags = ['lang=sk', 'prayerbook']
 
 
 
+
 [Blízkosť k Bohu](#Bl%C3%ADzkos%C5%A5+k+Bohu)
 
 [Bábätká](#B%C3%A1b%C3%A4tk%C3%A1)
@@ -101,7 +102,7 @@ Sláva buď Tebe, ó môj Bože! Slyšíš tých, ktorí Ťa vrúcne milujú, ak
 
 -- Bahá'u'lláh
 
-bpn13204 «[Slovensky](../sk/prayers/#bpn13204)» 
+bpn13204 
 
 ----
 
@@ -111,7 +112,7 @@ Som vskutku Tvoj služobník, ó môj Bože, a Tvoj úbožiak a Tvoj prosebník 
 
 -- Báb
 
-bpn13205 «[Slovensky](../sk/prayers/#bpn13205)» 
+bpn13205 
 
 ----
 
@@ -121,7 +122,7 @@ bpn13205 «[Slovensky](../sk/prayers/#bpn13205)»
 
 -- Báb
 
-bpn13206 «[Slovensky](../sk/prayers/#bpn13206)» 
+bpn13206 
 
 ----
 
@@ -131,7 +132,7 @@ bpn13206 «[Slovensky](../sk/prayers/#bpn13206)»
 
 -- Abdu'l-Bahá
 
-bpn13207 «[Slovensky](../sk/prayers/#bpn13207)» 
+bpn13207 
 
 ----
 
@@ -141,7 +142,7 @@ On je Zhovievavý, nadovšetko Štedrý!Ó Bože, môj Bože! Ty ma vidíš a po
 
 -- Abdu'l-Bahá
 
-bpn13208 «[Slovensky](../sk/prayers/#bpn13208)» 
+bpn13208 
 
 ----
 
@@ -155,7 +156,7 @@ Buď pochválený, ó Pane, môj Bože! Milostivo daj, aby toto bábätko kŕmil
 
 -- Bahá'u'lláh
 
-bpn13131 «[Slovensky](../sk/prayers/#bpn13131)» 
+bpn13131 
 
 ----
 
@@ -165,7 +166,7 @@ Ty si Ten, o môj Bože, koho mená uzdravujú chorých a liečia neduživých, 
 
 -- Bahá'u'lláh
 
-bpn13188 «[Slovensky](../sk/prayers/#bpn13188)» 
+bpn13188 
 
 ----
 
@@ -175,7 +176,7 @@ bpn13188 «[Slovensky](../sk/prayers/#bpn13188)»
 
 -- Abdu'l-Bahá
 
-bpn13132 «[Slovensky](../sk/prayers/#bpn13132)» 
+bpn13132 
 
 ----
 
@@ -185,7 +186,7 @@ bpn13132 «[Slovensky](../sk/prayers/#bpn13132)»
 
 -- Abdu'l-Bahá
 
-bpn13133 «[Slovensky](../sk/prayers/#bpn13133)» 
+bpn13133 
 
 ----
 
@@ -199,7 +200,7 @@ Všetka chvála, ó môj Bože, buď Tebe, ktorý si Zdrojom všetkej slávy a m
 
 -- Bahá'u'lláh
 
-bpn13209 «[Slovensky](../sk/prayers/#bpn13209)» 
+bpn13209 
 
 ----
 
@@ -209,7 +210,7 @@ V mene Boha, Najvyššieho! Chválený a ovenčený slávou si Ty, ó Pane, Bož
 
 -- Bahá'u'lláh
 
-bpn13210 «[Slovensky](../sk/prayers/#bpn13210)» 
+bpn13210 
 
 ----
 
@@ -219,7 +220,7 @@ Velebené buď Tvoje meno, ó Pane, môj Bože! To Teba všetko uctieva, pričom
 
 -- Bahá'u'lláh
 
-bpn13211 «[Slovensky](../sk/prayers/#bpn13211)» 
+bpn13211 
 
 ----
 
@@ -229,7 +230,7 @@ Velebený si, ó Pane, môj Bože! Vzdávam Ti vďaku za to, že si mi umožnil 
 
 -- Bahá'u'lláh
 
-bpn13212 «[Slovensky](../sk/prayers/#bpn13212)» 
+bpn13212 
 
 ----
 
@@ -239,7 +240,7 @@ Buď pochválený, ó Pane, môj Bože! Vždy, keď sa pokúsim o Tebe zmieniť,
 
 -- Bahá'u'lláh
 
-bpn13213 «[Slovensky](../sk/prayers/#bpn13213)» 
+bpn13213 
 
 ----
 
@@ -249,7 +250,7 @@ Všetka majestátnosť a sláva, ó môj Bože, a všetko panstvo a svetlo a ve�
 
 -- Báb
 
-bpn13214 «[Slovensky](../sk/prayers/#bpn13214)» 
+bpn13214 
 
 ----
 
@@ -263,7 +264,7 @@ bpn13214 «[Slovensky](../sk/prayers/#bpn13214)»
 
 -- Bahá'u'lláh
 
-bpn13119 «[Slovensky](../sk/prayers/#bpn13119)» 
+bpn13119 
 
 ----
 
@@ -273,7 +274,7 @@ bpn13119 «[Slovensky](../sk/prayers/#bpn13119)»
 
 -- Abdu'l-Bahá
 
-bpn13120 «[Slovensky](../sk/prayers/#bpn13120)» 
+bpn13120 
 
 ----
 
@@ -283,7 +284,7 @@ bpn13120 «[Slovensky](../sk/prayers/#bpn13120)»
 
 -- Abdu'l-Bahá
 
-bpn13121 «[Slovensky](../sk/prayers/#bpn13121)» 
+bpn13121 
 
 ----
 
@@ -293,7 +294,7 @@ Milostivý Pane! Tieto ľúbezné dietky sú dielom Tvojej moci a nádherným zn
 
 -- Abdu'l-Bahá
 
-bpn13122 «[Slovensky](../sk/prayers/#bpn13122)» 
+bpn13122 
 
 ----
 
@@ -303,7 +304,7 @@ bpn13122 «[Slovensky](../sk/prayers/#bpn13122)»
 
 -- Abdu'l-Bahá
 
-bpn13123 «[Slovensky](../sk/prayers/#bpn13123)» 
+bpn13123 
 
 ----
 
@@ -313,7 +314,7 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 
 -- Abdu'l-Bahá
 
-bpn13124 «[Slovensky](../sk/prayers/#bpn13124)» 
+bpn13124 
 
 ----
 
@@ -323,7 +324,7 @@ bpn13124 «[Slovensky](../sk/prayers/#bpn13124)»
 
 -- Abdu'l-Bahá
 
-bpn13125 «[Slovensky](../sk/prayers/#bpn13125)» 
+bpn13125 
 
 ----
 
@@ -333,7 +334,7 @@ bpn13125 «[Slovensky](../sk/prayers/#bpn13125)»
 
 -- Abdu'l-Bahá
 
-bpn13126 «[Slovensky](../sk/prayers/#bpn13126)» 
+bpn13126 
 
 ----
 
@@ -343,7 +344,7 @@ bpn13126 «[Slovensky](../sk/prayers/#bpn13126)»
 
 -- Abdu'l-Bahá
 
-bpn13127 «[Slovensky](../sk/prayers/#bpn13127)» 
+bpn13127 
 
 ----
 
@@ -353,7 +354,7 @@ bpn13127 «[Slovensky](../sk/prayers/#bpn13127)»
 
 -- Abdu'l-Bahá
 
-bpn13128 «[Slovensky](../sk/prayers/#bpn13128)» 
+bpn13128 
 
 ----
 
@@ -363,7 +364,7 @@ bpn13128 «[Slovensky](../sk/prayers/#bpn13128)»
 
 -- Abdu'l-Bahá
 
-bpn13129 «[Slovensky](../sk/prayers/#bpn13129)» 
+bpn13129 
 
 ----
 
@@ -373,7 +374,7 @@ bpn13129 «[Slovensky](../sk/prayers/#bpn13129)»
 
 -- Abdu'l-Bahá
 
-bpn13130 «[Slovensky](../sk/prayers/#bpn13130)» 
+bpn13130 
 
 ----
 
@@ -387,7 +388,7 @@ bpn13130 «[Slovensky](../sk/prayers/#bpn13130)»
 
 -- Bahá'u'lláh
 
-bpn9990 «[Slovensky](../sk/prayers/#bpn9990)» 
+bpn9990 
 
 ----
 
@@ -401,7 +402,7 @@ bpn9990 «[Slovensky](../sk/prayers/#bpn9990)»
 
 -- Abdu'l-Bahá
 
-bpn13242 «[Slovensky](../sk/prayers/#bpn13242)» 
+bpn13242 
 
 ----
 
@@ -411,7 +412,7 @@ bpn13242 «[Slovensky](../sk/prayers/#bpn13242)»
 
 -- Abdu'l-Bahá
 
-bpn13243 «[Slovensky](../sk/prayers/#bpn13243)» 
+bpn13243 
 
 ----
 
@@ -425,7 +426,7 @@ bpn13243 «[Slovensky](../sk/prayers/#bpn13243)»
 
 -- Abdu'l-Bahá
 
-bpn13175 «[Slovensky](../sk/prayers/#bpn13175)» 
+bpn13175 
 
 ----
 
@@ -439,7 +440,7 @@ bpn13175 «[Slovensky](../sk/prayers/#bpn13175)»
 
 -- Bahá'u'lláh
 
-bpn13230 «[Slovensky](../sk/prayers/#bpn13230)» 
+bpn13230 
 
 ----
 
@@ -449,7 +450,7 @@ bpn13230 «[Slovensky](../sk/prayers/#bpn13230)»
 
 -- Abdu'l-Bahá
 
-bpn13231 «[Slovensky](../sk/prayers/#bpn13231)» 
+bpn13231 
 
 ----
 
@@ -463,7 +464,7 @@ Dosvedčujem, ó môj Bože, že si ma stvoril, aby som Ťa poznal a uctieval Ť
 
 -- Bahá'u'lláh
 
-bpn9988 «[Slovensky](../sk/prayers/#bpn9988)» 
+bpn9988 
 
 ----
 
@@ -477,7 +478,7 @@ bpn9988 «[Slovensky](../sk/prayers/#bpn9988)»
 
 -- Abdu'l-Bahá
 
-bpn13160 «[Slovensky](../sk/prayers/#bpn13160)» 
+bpn13160 
 
 ----
 
@@ -491,7 +492,7 @@ On je Darca, Štedrý!Chvála buď Bohu, Pradávnemu, naveky Prebývajúcemu, Ne
 
 -- Bahá'u'lláh
 
-bpn13195 «[Slovensky](../sk/prayers/#bpn13195)» 
+bpn13195 
 
 ----
 
@@ -501,7 +502,7 @@ bpn13195 «[Slovensky](../sk/prayers/#bpn13195)»
 
 -- Abdu'l-Bahá
 
-bpn13196 «[Slovensky](../sk/prayers/#bpn13196)» 
+bpn13196 
 
 ----
 
@@ -511,7 +512,7 @@ On je Boh! Ó nedosiahnuteľný Pane! Vo Svojej všemohúcej múdrosti si ľuďo
 
 -- Abdu'l-Bahá
 
-bpn13197 «[Slovensky](../sk/prayers/#bpn13197)» 
+bpn13197 
 
 ----
 
@@ -521,7 +522,7 @@ Sláva buď Tebe, ó môj Bože! Vskutku, tento Tvoj služobník a táto Tvoja s
 
 -- Abdu'l-Bahá
 
-bpn13198 «[Slovensky](../sk/prayers/#bpn13198)» 
+bpn13198 
 
 ----
 
@@ -531,7 +532,7 @@ bpn13198 «[Slovensky](../sk/prayers/#bpn13198)»
 
 -- Abdu'l-Bahá
 
-bpn13199 «[Slovensky](../sk/prayers/#bpn13199)» 
+bpn13199 
 
 ----
 
@@ -545,7 +546,7 @@ bpn13199 «[Slovensky](../sk/prayers/#bpn13199)»
 
 -- Abdu'l-Bahá
 
-bpn13233 «[Slovensky](../sk/prayers/#bpn13233)» 
+bpn13233 
 
 ----
 
@@ -559,7 +560,7 @@ bpn13233 «[Slovensky](../sk/prayers/#bpn13233)»
 
 -- Bahá'u'lláh
 
-bpn13251 «[Slovensky](../sk/prayers/#bpn13251)» 
+bpn13251 
 
 ----
 
@@ -573,7 +574,7 @@ bpn13251 «[Slovensky](../sk/prayers/#bpn13251)»
 
 -- Bahá'u'lláh
 
-bpn13248 «[Slovensky](../sk/prayers/#bpn13248)» 
+bpn13248 
 
 ----
 
@@ -583,7 +584,7 @@ bpn13248 «[Slovensky](../sk/prayers/#bpn13248)»
 
 -- Bahá'u'lláh
 
-bpn13249 «[Slovensky](../sk/prayers/#bpn13249)» 
+bpn13249 
 
 ----
 
@@ -597,7 +598,7 @@ bpn13249 «[Slovensky](../sk/prayers/#bpn13249)»
 
 -- Bahá'u'lláh
 
-bpn13250 «[Slovensky](../sk/prayers/#bpn13250)» 
+bpn13250 
 
 ----
 
@@ -611,7 +612,7 @@ Môj Pane! Môj Pane! Vzdávam Ti chválu a vďaku za to, čím si obdaril Svoju
 
 -- Abdu'l-Bahá
 
-bpn13232 «[Slovensky](../sk/prayers/#bpn13232)» 
+bpn13232 
 
 ----
 
@@ -625,7 +626,7 @@ Chvála buď Tebe, ó môj Bože, že si určil Naw-Rúz za slávnosť pre tých
 
 -- Bahá'u'lláh
 
-bpn13241 «[Slovensky](../sk/prayers/#bpn13241)» 
+bpn13241 
 
 ----
 
@@ -635,7 +636,7 @@ On je navždy Žijúci, navždy Pretrvávajúci, Sebedostačujúci.Boh dosvedču
 
 -- Bahá'u'lláh
 
-bpn13247 «[Slovensky](../sk/prayers/#bpn13247)» 
+bpn13247 
 
 ----
 
@@ -649,7 +650,7 @@ Si oslávený, ó Pane, môj Bože! Pri Tvojich vyvolených a pri Nositeľoch Tv
 
 -- Bahá'u'lláh
 
-bpn13166 «[Slovensky](../sk/prayers/#bpn13166)» 
+bpn13166 
 
 ----
 
@@ -659,7 +660,7 @@ Som ten, ó môj Pane, ktorý k Tebe obrátil tvár a upriamil svoju nádej na z
 
 -- Bahá'u'lláh
 
-bpn13167 «[Slovensky](../sk/prayers/#bpn13167)» 
+bpn13167 
 
 ----
 
@@ -669,7 +670,7 @@ Vidíš ma, ó môj Pane, ako som tvár obrátil k nebesiam Tvojho požehnania a
 
 -- Bahá'u'lláh
 
-bpn13168 «[Slovensky](../sk/prayers/#bpn13168)» 
+bpn13168 
 
 ----
 
@@ -679,7 +680,7 @@ Velebený si, ó Pane, môj Bože! Vždy, keď sa odvážim o Tebe zmieniť, zab
 
 -- Bahá'u'lláh
 
-bpn13169 «[Slovensky](../sk/prayers/#bpn13169)» 
+bpn13169 
 
 ----
 
@@ -689,7 +690,7 @@ Chválorečené buď Tvoje meno, ó môj Bože a Boh všetkého, moja Sláva a S
 
 -- Bahá'u'lláh
 
-bpn13170 «[Slovensky](../sk/prayers/#bpn13170)» 
+bpn13170 
 
 ----
 
@@ -699,7 +700,7 @@ bpn13170 «[Slovensky](../sk/prayers/#bpn13170)»
 
 -- Báb
 
-bpn13171 «[Slovensky](../sk/prayers/#bpn13171)» 
+bpn13171 
 
 ----
 
@@ -709,7 +710,7 @@ Ponížene Ťa prosím, ó môj Pane, odpusť mi každú zmienku, ktorá nie je 
 
 -- Báb
 
-bpn13172 «[Slovensky](../sk/prayers/#bpn13172)» 
+bpn13172 
 
 ----
 
@@ -719,7 +720,7 @@ Sláva buď Tebe, ó Bože! Ako sa o Tebe môžem zmieniť, keď si povznesený 
 
 -- Báb
 
-bpn13173 «[Slovensky](../sk/prayers/#bpn13173)» 
+bpn13173 
 
 ----
 
@@ -729,7 +730,7 @@ Uvedomujem si, ó Pane, že moje prehrešky v Tvojej prítomnosti zastreli moju 
 
 -- Báb
 
-bpn13174 «[Slovensky](../sk/prayers/#bpn13174)» 
+bpn13174 
 
 ----
 
@@ -743,7 +744,7 @@ bpn13174 «[Slovensky](../sk/prayers/#bpn13174)»
 
 -- Bahá'u'lláh
 
-bpn13143 «[Slovensky](../sk/prayers/#bpn13143)» 
+bpn13143 
 
 ----
 
@@ -753,7 +754,7 @@ Oslávený si Ty, ó môj Bože! Vzdávam Ti vďaku za to, že si mi dal spozna�
 
 -- Bahá'u'lláh
 
-bpn13144 «[Slovensky](../sk/prayers/#bpn13144)» 
+bpn13144 
 
 ----
 
@@ -763,7 +764,7 @@ Velebené buď Tvoje meno, ó môj Bože! Nástojčivo Ťa prosím pri vôni pl�
 
 -- Bahá'u'lláh
 
-bpn13145 «[Slovensky](../sk/prayers/#bpn13145)» 
+bpn13145 
 
 ----
 
@@ -773,7 +774,7 @@ Nejedno ľadové srdce, ó môj Bože, vzplanulo ohňom Tvojej viery a mnoho spi
 
 -- Bahá'u'lláh
 
-bpn13146 «[Slovensky](../sk/prayers/#bpn13146)» 
+bpn13146 
 
 ----
 
@@ -783,7 +784,7 @@ Neviem, ó môj Bože, aký to Oheň si roznietil vo Svojej krajine. Zem nikdy n
 
 -- Bahá'u'lláh
 
-bpn13147 «[Slovensky](../sk/prayers/#bpn13147)» 
+bpn13147 
 
 ----
 
@@ -793,7 +794,7 @@ Chvála buď Tebe, ó môj Bože! Som jeden z Tvojich služobníkov, ktorý uver
 
 -- Bahá'u'lláh
 
-bpn13148 «[Slovensky](../sk/prayers/#bpn13148)» 
+bpn13148 
 
 ----
 
@@ -803,7 +804,7 @@ V mene tvojho Pána, Stvoriteľa, Vladára, nadovšetko Postačujúceho, Najvzne
 
 -- Báb
 
-bpn13149 «[Slovensky](../sk/prayers/#bpn13149)» 
+bpn13149 
 
 ----
 
@@ -813,7 +814,7 @@ bpn13149 «[Slovensky](../sk/prayers/#bpn13149)»
 
 -- Báb
 
-bpn13150 «[Slovensky](../sk/prayers/#bpn13150)» 
+bpn13150 
 
 ----
 
@@ -823,7 +824,7 @@ Vrav: Boh postačuje všetkému a nadovšetko a nič v nebi ani na zemi okrem Bo
 
 -- Báb
 
-bpn13151 «[Slovensky](../sk/prayers/#bpn13151)» 
+bpn13151 
 
 ----
 
@@ -833,7 +834,7 @@ bpn13151 «[Slovensky](../sk/prayers/#bpn13151)»
 
 -- Abdu'l-Bahá
 
-bpn13152 «[Slovensky](../sk/prayers/#bpn13152)» 
+bpn13152 
 
 ----
 
@@ -843,7 +844,7 @@ bpn13152 «[Slovensky](../sk/prayers/#bpn13152)»
 
 -- Abdu'l-Bahá
 
-bpn13153 «[Slovensky](../sk/prayers/#bpn13153)» 
+bpn13153 
 
 ----
 
@@ -857,7 +858,7 @@ Sláva buď Tebe, ó Kráľu večnosti, Tvorca národov, Stvoriteľ každej prá
 
 -- Bahá'u'lláh
 
-bpn13161 «[Slovensky](../sk/prayers/#bpn13161)» 
+bpn13161 
 
 ----
 
@@ -867,7 +868,7 @@ On je Mocný, Odpúšťajúci, Zhovievavý!Ó Bože, môj Bože! Vidíš Svojich
 
 -- Bahá'u'lláh
 
-bpn13162 «[Slovensky](../sk/prayers/#bpn13162)» 
+bpn13162 
 
 ----
 
@@ -877,7 +878,7 @@ Ty láskavý Pane! Zošli nebeskú pomoc tejto dcére Kráľovstva a milostivo j
 
 -- Abdu'l-Bahá
 
-bpn9994 «[Slovensky](../sk/prayers/#bpn9994)» 
+bpn9994 
 
 ----
 
@@ -887,7 +888,7 @@ Učiň naše kroky pevnými na Tvojej ceste, ó Pane, a posilni naše srdcia v p
 
 -- Abdu'l-Bahá
 
-bpn13163 «[Slovensky](../sk/prayers/#bpn13163)» 
+bpn13163 
 
 ----
 
@@ -897,7 +898,7 @@ bpn13163 «[Slovensky](../sk/prayers/#bpn13163)»
 
 -- Abdu'l-Bahá
 
-bpn13164 «[Slovensky](../sk/prayers/#bpn13164)» 
+bpn13164 
 
 ----
 
@@ -907,7 +908,7 @@ bpn13164 «[Slovensky](../sk/prayers/#bpn13164)»
 
 -- Abdu'l-Bahá
 
-bpn13165 «[Slovensky](../sk/prayers/#bpn13165)» 
+bpn13165 
 
 ----
 
@@ -921,7 +922,7 @@ bpn13165 «[Slovensky](../sk/prayers/#bpn13165)»
 
 -- Abdu'l-Bahá
 
-bpn13156 «[Slovensky](../sk/prayers/#bpn13156)» 
+bpn13156 
 
 ----
 
@@ -935,7 +936,7 @@ bpn13156 «[Slovensky](../sk/prayers/#bpn13156)»
 
 -- Bahá'u'lláh
 
-bpn9992 «[Slovensky](../sk/prayers/#bpn9992)» 
+bpn9992 
 
 ----
 
@@ -945,7 +946,7 @@ bpn9992 «[Slovensky](../sk/prayers/#bpn9992)»
 
 -- Bahá'u'lláh
 
-bpn13112 «[Slovensky](../sk/prayers/#bpn13112)» 
+bpn13112 
 
 ----
 
@@ -955,7 +956,7 @@ Môj Bože, môj Zbožňovaný, môj Kráľ, moja Túžba! Ktorýže jazyk sa Ti
 
 -- Bahá'u'lláh
 
-bpn13113 «[Slovensky](../sk/prayers/#bpn13113)» 
+bpn13113 
 
 ----
 
@@ -965,7 +966,7 @@ Pochválené buď Tvoje meno, ó Pane môj Bože! Vskutku, Ty si Ten, ktorý poz
 
 -- Báb
 
-bpn13114 «[Slovensky](../sk/prayers/#bpn13114)» 
+bpn13114 
 
 ----
 
@@ -975,7 +976,7 @@ bpn13114 «[Slovensky](../sk/prayers/#bpn13114)»
 
 -- Báb
 
-bpn13115 «[Slovensky](../sk/prayers/#bpn13115)» 
+bpn13115 
 
 ----
 
@@ -985,7 +986,7 @@ bpn13115 «[Slovensky](../sk/prayers/#bpn13115)»
 
 -- Abdu'l-Bahá
 
-bpn9991 «[Slovensky](../sk/prayers/#bpn9991)» 
+bpn9991 
 
 ----
 
@@ -995,7 +996,7 @@ bpn9991 «[Slovensky](../sk/prayers/#bpn9991)»
 
 -- Abdu'l-Bahá
 
-bpn13116 «[Slovensky](../sk/prayers/#bpn13116)» 
+bpn13116 
 
 ----
 
@@ -1005,7 +1006,7 @@ bpn13116 «[Slovensky](../sk/prayers/#bpn13116)»
 
 -- Abdu'l-Bahá
 
-bpn13117 «[Slovensky](../sk/prayers/#bpn13117)» 
+bpn13117 
 
 ----
 
@@ -1015,7 +1016,7 @@ Neodlož, ó Pane, slávnostný stôl, ktorý bol prestretý v Tvojom mene, a ne
 
 -- Abdu'l-Bahá
 
-bpn13118 «[Slovensky](../sk/prayers/#bpn13118)» 
+bpn13118 
 
 ----
 
@@ -1029,7 +1030,7 @@ Môj Bože, môj Oheň a moje Svetlo! Dni, ktoré si vo Svojej Knihe pomenoval A
 
 -- Bahá'u'lláh
 
-bpn13240 «[Slovensky](../sk/prayers/#bpn13240)» 
+bpn13240 
 
 ----
 
@@ -1043,7 +1044,7 @@ Toto je, ó môj Bože, prvý z dní, v ktorých si Svojim milovaným nariadil, 
 
 -- Bahá'u'lláh
 
-bpn13234 «[Slovensky](../sk/prayers/#bpn13234)» 
+bpn13234 
 
 ----
 
@@ -1053,7 +1054,7 @@ V mene Toho, kto bol prisľúbený v Knihách Boha, Vševediaceho, so všetkým 
 
 -- Bahá'u'lláh
 
-bpn13235 «[Slovensky](../sk/prayers/#bpn13235)» 
+bpn13235 
 
 ----
 
@@ -1063,7 +1064,7 @@ bpn13235 «[Slovensky](../sk/prayers/#bpn13235)»
 
 -- Bahá'u'lláh
 
-bpn13236 «[Slovensky](../sk/prayers/#bpn13236)» 
+bpn13236 
 
 ----
 
@@ -1073,7 +1074,7 @@ Chvála buď Tebe, ó Pane môj Bože! Úpenlivo Ťa prosím pri tomto Zjavení,
 
 -- Bahá'u'lláh
 
-bpn13237 «[Slovensky](../sk/prayers/#bpn13237)» 
+bpn13237 
 
 ----
 
@@ -1083,7 +1084,7 @@ Pochválený buď, ó Pane môj Bože! Pôst sme dodržiavali v súlade s Tvojí
 
 -- Bahá'u'lláh
 
-bpn13238 «[Slovensky](../sk/prayers/#bpn13238)» 
+bpn13238 
 
 ----
 
@@ -1093,7 +1094,7 @@ Pochválený buď, ó Bože, môj Bože! Teraz nastali dni, keď si Svojim vyvol
 
 -- Bahá'u'lláh
 
-bpn13239 «[Slovensky](../sk/prayers/#bpn13239)» 
+bpn13239 
 
 ----
 
@@ -1107,7 +1108,7 @@ Toto je sviatok Riḍvánu, jarné obdobie, v ktorom sa medzi nebom a zemou zjav
 
 -- Bahá'u'lláh
 
-bpn13244 «[Slovensky](../sk/prayers/#bpn13244)» 
+bpn13244 
 
 ----
 
@@ -1117,7 +1118,7 @@ bpn13244 «[Slovensky](../sk/prayers/#bpn13244)»
 
 -- Bahá'u'lláh
 
-bpn13245 «[Slovensky](../sk/prayers/#bpn13245)» 
+bpn13245 
 
 ----
 
@@ -1127,7 +1128,7 @@ bpn13245 «[Slovensky](../sk/prayers/#bpn13245)»
 
 -- Bahá'u'lláh
 
-bpn13246 «[Slovensky](../sk/prayers/#bpn13246)» 
+bpn13246 
 
 ----
 
@@ -1141,7 +1142,7 @@ Sláva buď Tebe, ó Pane môj Bože! Prosím Ťa, aby si odpustil mne a tým, k
 
 -- Báb
 
-bpn13157 «[Slovensky](../sk/prayers/#bpn13157)» 
+bpn13157 
 
 ----
 
@@ -1155,7 +1156,7 @@ Prosím o Tvoje odpustenie, ó môj Bože, a žiadam o prepáčenie takým spôs
 
 -- Báb
 
-bpn13158 «[Slovensky](../sk/prayers/#bpn13158)» 
+bpn13158 
 
 ----
 
@@ -1165,7 +1166,7 @@ bpn13158 «[Slovensky](../sk/prayers/#bpn13158)»
 
 -- Abdu'l-Bahá
 
-bpn13159 «[Slovensky](../sk/prayers/#bpn13159)» 
+bpn13159 
 
 ----
 
@@ -1179,7 +1180,7 @@ bpn13159 «[Slovensky](../sk/prayers/#bpn13159)»
 
 -- Bahá'u'lláh
 
-bpn13200 «[Slovensky](../sk/prayers/#bpn13200)» 
+bpn13200 
 
 ----
 
@@ -1189,7 +1190,7 @@ Zobudil som sa v Tvojom úkryte, ó môj Bože, a tomu, ktorý hľadá tento úk
 
 -- Bahá'u'lláh
 
-bpn13201 «[Slovensky](../sk/prayers/#bpn13201)» 
+bpn13201 
 
 ----
 
@@ -1199,7 +1200,7 @@ Dnes ráno som vstal vďaka Tvojej milosti, ó môj Bože, a z domova som odiši
 
 -- Bahá'u'lláh
 
-bpn13202 «[Slovensky](../sk/prayers/#bpn13202)» 
+bpn13202 
 
 ----
 
@@ -1209,7 +1210,7 @@ Vzdávam Ti chválu, ó môj Bože, že si ma prebudil zo spánku a že si ma zr
 
 -- Bahá'u'lláh
 
-bpn13203 «[Slovensky](../sk/prayers/#bpn13203)» 
+bpn13203 
 
 ----
 
@@ -1223,7 +1224,7 @@ bpn13203 «[Slovensky](../sk/prayers/#bpn13203)»
 
 -- Bahá'u'lláh
 
-bpn13221 «[Slovensky](../sk/prayers/#bpn13221)» 
+bpn13221 
 
 ----
 
@@ -1233,7 +1234,7 @@ Sláva buď Tebe, ó môj Bože! Keby nebolo trápenia vytrpeného na Tvojej ces
 
 -- Bahá'u'lláh
 
-bpn13222 «[Slovensky](../sk/prayers/#bpn13222)» 
+bpn13222 
 
 ----
 
@@ -1243,7 +1244,7 @@ Oslávený si Ty, ó Pane, môj Bože! Každý človek prenikavého zraku dosved
 
 -- Bahá'u'lláh
 
-bpn13223 «[Slovensky](../sk/prayers/#bpn13223)» 
+bpn13223 
 
 ----
 
@@ -1253,7 +1254,7 @@ Rozptýľ môj zármutok Svojou štedrosťou a šľachetnosťou, ó Bože, môj 
 
 -- Bahá'u'lláh
 
-bpn13224 «[Slovensky](../sk/prayers/#bpn13224)» 
+bpn13224 
 
 ----
 
@@ -1263,7 +1264,7 @@ Velebený a ovenčený slávou si Ty, ó môj Bože! Úpenlivo Ťa prosím pri v
 
 -- Bahá'u'lláh
 
-bpn13225 «[Slovensky](../sk/prayers/#bpn13225)» 
+bpn13225 
 
 ----
 
@@ -1273,7 +1274,7 @@ Kto iný okrem Boha odstraňuje ťažkosti? Vrav: Chvála buď Bohu! On je Boh! 
 
 -- Báb
 
-bpn13226 «[Slovensky](../sk/prayers/#bpn13226)» 
+bpn13226 
 
 ----
 
@@ -1283,7 +1284,7 @@ Naliehavo Ťa prosím pri Tvojej moci, ó môj Bože! Nech ma v čase skúšok n
 
 -- Báb
 
-bpn13227 «[Slovensky](../sk/prayers/#bpn13227)» 
+bpn13227 
 
 ----
 
@@ -1293,7 +1294,7 @@ bpn13227 «[Slovensky](../sk/prayers/#bpn13227)»
 
 -- Báb
 
-bpn13228 «[Slovensky](../sk/prayers/#bpn13228)» 
+bpn13228 
 
 ----
 
@@ -1303,7 +1304,7 @@ bpn13228 «[Slovensky](../sk/prayers/#bpn13228)»
 
 -- Abdu'l-Bahá
 
-bpn9993 «[Slovensky](../sk/prayers/#bpn9993)» 
+bpn9993 
 
 ----
 
@@ -1317,7 +1318,7 @@ bpn9993 «[Slovensky](../sk/prayers/#bpn9993)»
 
 -- Abdu'l-Bahá
 
-bpn13183 «[Slovensky](../sk/prayers/#bpn13183)» 
+bpn13183 
 
 ----
 
@@ -1331,7 +1332,7 @@ Prednáša sa každý deň ráno, na poludnie a večer*Ak si prajete modliť sa,
 
 -- Bahá'u'lláh
 
-bpn9989 «[Slovensky](../sk/prayers/#bpn9989)» 
+bpn9989 
 
 ----
 
@@ -1345,7 +1346,7 @@ Si oslávený, ó Pane, môj Bože! Úpenlivo Ťa žiadam pri dujúcom vetre Tvo
 
 -- Bahá'u'lláh
 
-bpn13176 «[Slovensky](../sk/prayers/#bpn13176)» 
+bpn13176 
 
 ----
 
@@ -1355,7 +1356,7 @@ bpn13176 «[Slovensky](../sk/prayers/#bpn13176)»
 
 -- Bahá'u'lláh
 
-bpn13177 «[Slovensky](../sk/prayers/#bpn13177)» 
+bpn13177 
 
 ----
 
@@ -1365,7 +1366,7 @@ Ty láskavý Pane! Vidíš tu svojich služobníkov, ktorí sa zhromaždili na t
 
 -- Bahá'u'lláh
 
-bpn13178 «[Slovensky](../sk/prayers/#bpn13178)» 
+bpn13178 
 
 ----
 
@@ -1375,7 +1376,7 @@ bpn13178 «[Slovensky](../sk/prayers/#bpn13178)»
 
 -- Bahá'u'lláh
 
-bpn13179 «[Slovensky](../sk/prayers/#bpn13179)» 
+bpn13179 
 
 ----
 
@@ -1385,7 +1386,7 @@ bpn13179 «[Slovensky](../sk/prayers/#bpn13179)»
 
 -- Bahá'u'lláh
 
-bpn13180 «[Slovensky](../sk/prayers/#bpn13180)» 
+bpn13180 
 
 ----
 
@@ -1395,7 +1396,7 @@ bpn13180 «[Slovensky](../sk/prayers/#bpn13180)»
 
 -- Bahá'u'lláh
 
-bpn13181 «[Slovensky](../sk/prayers/#bpn13181)» 
+bpn13181 
 
 ----
 
@@ -1405,7 +1406,7 @@ bpn13181 «[Slovensky](../sk/prayers/#bpn13181)»
 
 -- Bahá'u'lláh
 
-bpn13182 «[Slovensky](../sk/prayers/#bpn13182)» 
+bpn13182 
 
 ----
 
@@ -1419,7 +1420,7 @@ bpn13182 «[Slovensky](../sk/prayers/#bpn13182)»
 
 -- Bahá'u'lláh
 
-bpn13252 «[Slovensky](../sk/prayers/#bpn13252)» 
+bpn13252 
 
 ----
 
@@ -1433,7 +1434,7 @@ bpn13252 «[Slovensky](../sk/prayers/#bpn13252)»
 
 -- Abdu'l-Bahá
 
-bpn13253 «[Slovensky](../sk/prayers/#bpn13253)» 
+bpn13253 
 
 ----
 
@@ -1443,7 +1444,7 @@ bpn13253 «[Slovensky](../sk/prayers/#bpn13253)»
 
 -- Abdu'l-Bahá
 
-bpn13254 «[Slovensky](../sk/prayers/#bpn13254)» 
+bpn13254 
 
 ----
 
@@ -1453,7 +1454,7 @@ bpn13254 «[Slovensky](../sk/prayers/#bpn13254)»
 
 -- Abdu'l-Bahá
 
-bpn13255 «[Slovensky](../sk/prayers/#bpn13255)» 
+bpn13255 
 
 ----
 
@@ -1463,7 +1464,7 @@ bpn13255 «[Slovensky](../sk/prayers/#bpn13255)»
 
 -- Abdu'l-Bahá
 
-bpn13256 «[Slovensky](../sk/prayers/#bpn13256)» 
+bpn13256 
 
 ----
 
@@ -1473,7 +1474,7 @@ bpn13256 «[Slovensky](../sk/prayers/#bpn13256)»
 
 -- Abdu'l-Bahá
 
-bpn13257 «[Slovensky](../sk/prayers/#bpn13257)» 
+bpn13257 
 
 ----
 
@@ -1483,7 +1484,7 @@ bpn13257 «[Slovensky](../sk/prayers/#bpn13257)»
 
 -- Abdu'l-Bahá
 
-bpn13258 «[Slovensky](../sk/prayers/#bpn13258)» 
+bpn13258 
 
 ----
 
@@ -1497,7 +1498,7 @@ bpn13258 «[Slovensky](../sk/prayers/#bpn13258)»
 
 -- Bahá'u'lláh
 
-bpn13184 «[Slovensky](../sk/prayers/#bpn13184)» 
+bpn13184 
 
 ----
 
@@ -1507,7 +1508,7 @@ Tvoje meno ma uzdravuje, ó môj Bože, a spomienka na Teba je mi liekom. Blízk
 
 -- Bahá'u'lláh
 
-bpn13185 «[Slovensky](../sk/prayers/#bpn13185)» 
+bpn13185 
 
 ----
 
@@ -1517,7 +1518,7 @@ Buď pochválený, ó Pane, môj Bože! Úpenlivo Ťa žiadam, pri Tvojom Najvä
 
 -- Bahá'u'lláh
 
-bpn13186 «[Slovensky](../sk/prayers/#bpn13186)» 
+bpn13186 
 
 ----
 
@@ -1527,7 +1528,7 @@ bpn13186 «[Slovensky](../sk/prayers/#bpn13186)»
 
 -- Bahá'u'lláh
 
-bpn13189 «[Slovensky](../sk/prayers/#bpn13189)» 
+bpn13189 
 
 ----
 
@@ -1541,7 +1542,7 @@ bpn13189 «[Slovensky](../sk/prayers/#bpn13189)»
 
 -- Abdu'l-Bahá
 
-bpn9995 «[Slovensky](../sk/prayers/#bpn9995)» 
+bpn9995 
 
 ----
 
@@ -1555,7 +1556,7 @@ bpn9995 «[Slovensky](../sk/prayers/#bpn9995)»
 
 -- Bahá'u'lláh
 
-bpn13154 «[Slovensky](../sk/prayers/#bpn13154)» 
+bpn13154 
 
 ----
 
@@ -1565,7 +1566,7 @@ Ako môžem ísť spať, ó Bože, môj Bože, keď oči tých, ktorí po Tebe t
 
 -- Bahá'u'lláh
 
-bpn13155 «[Slovensky](../sk/prayers/#bpn13155)» 
+bpn13155 
 
 ----
 
@@ -1579,7 +1580,7 @@ Blahorečím Tvojmu menu, ó môj Bože, a vzdávam Ti vďaku, ó moja Túžba, 
 
 -- Bahá'u'lláh
 
-bpn13215 «[Slovensky](../sk/prayers/#bpn13215)» 
+bpn13215 
 
 ----
 
@@ -1589,7 +1590,7 @@ Oslávené buď Tvoje meno, ó Pane, môj Bože! Úpenlivo Ťa prosím pri Tvoje
 
 -- Bahá'u'lláh
 
-bpn13216 «[Slovensky](../sk/prayers/#bpn13216)» 
+bpn13216 
 
 ----
 
@@ -1599,7 +1600,7 @@ bpn13216 «[Slovensky](../sk/prayers/#bpn13216)»
 
 -- Bahá'u'lláh
 
-bpn13217 «[Slovensky](../sk/prayers/#bpn13217)» 
+bpn13217 
 
 ----
 
@@ -1609,7 +1610,7 @@ bpn13217 «[Slovensky](../sk/prayers/#bpn13217)»
 
 -- Bahá'u'lláh
 
-bpn13218 «[Slovensky](../sk/prayers/#bpn13218)» 
+bpn13218 
 
 ----
 
@@ -1619,7 +1620,7 @@ Velebený si, ó Pane môj Bože! Úpenlivo Ťa prosím pri Tom, ktorý je Tvoj�
 
 -- Bahá'u'lláh
 
-bpn13219 «[Slovensky](../sk/prayers/#bpn13219)» 
+bpn13219 
 
 ----
 
@@ -1629,7 +1630,7 @@ bpn13219 «[Slovensky](../sk/prayers/#bpn13219)»
 
 -- Abdu'l-Bahá
 
-bpn13220 «[Slovensky](../sk/prayers/#bpn13220)» 
+bpn13220 
 
 ----
 
@@ -1643,7 +1644,7 @@ bpn13220 «[Slovensky](../sk/prayers/#bpn13220)»
 
 -- Báb
 
-bpn13229 «[Slovensky](../sk/prayers/#bpn13229)» 
+bpn13229 
 
 ----
 
@@ -1657,7 +1658,7 @@ bpn13229 «[Slovensky](../sk/prayers/#bpn13229)»
 
 -- Bahá'u'lláh
 
-bpn13259 «[Slovensky](../sk/prayers/#bpn13259)» 
+bpn13259 
 
 ----
 
@@ -1667,7 +1668,7 @@ bpn13259 «[Slovensky](../sk/prayers/#bpn13259)»
 
 -- Bahá'u'lláh
 
-bpn13261 «[Slovensky](../sk/prayers/#bpn13261)» 
+bpn13261 
 
 ----
 
@@ -1677,7 +1678,7 @@ bpn13261 «[Slovensky](../sk/prayers/#bpn13261)»
 
 -- Abdu'l-Bahá
 
-bpn13260 «[Slovensky](../sk/prayers/#bpn13260)» 
+bpn13260 
 
 ----
 
@@ -1687,7 +1688,7 @@ bpn13260 «[Slovensky](../sk/prayers/#bpn13260)»
 
 -- Abdu'l-Bahá
 
-bpn13262 «[Slovensky](../sk/prayers/#bpn13262)» 
+bpn13262 
 
 ----
 
@@ -1701,7 +1702,7 @@ bpn13262 «[Slovensky](../sk/prayers/#bpn13262)»
 
 -- Bahá'u'lláh
 
-bpn13134 «[Slovensky](../sk/prayers/#bpn13134)» 
+bpn13134 
 
 ----
 
@@ -1711,7 +1712,7 @@ Velebený si, ó Pane môj Bože! Nepokor toho, koho si povýšil silou Svojej v
 
 -- Bahá'u'lláh
 
-bpn13135 «[Slovensky](../sk/prayers/#bpn13135)» 
+bpn13135 
 
 ----
 
@@ -1721,7 +1722,7 @@ On je Boh! Nech je Povznesený, Pán láskyplnosti a štedrosti! Sláva buď Teb
 
 -- Bahá'u'lláh
 
-bpn13136 «[Slovensky](../sk/prayers/#bpn13136)» 
+bpn13136 
 
 ----
 
@@ -1731,7 +1732,7 @@ bpn13136 «[Slovensky](../sk/prayers/#bpn13136)»
 
 -- Abdu'l-Bahá
 
-bpn13137 «[Slovensky](../sk/prayers/#bpn13137)» 
+bpn13137 
 
 ----
 
@@ -1741,7 +1742,7 @@ bpn13137 «[Slovensky](../sk/prayers/#bpn13137)»
 
 -- Abdu'l-Bahá
 
-bpn13138 «[Slovensky](../sk/prayers/#bpn13138)» 
+bpn13138 
 
 ----
 
@@ -1751,7 +1752,7 @@ bpn13138 «[Slovensky](../sk/prayers/#bpn13138)»
 
 -- Abdu'l-Bahá
 
-bpn13139 «[Slovensky](../sk/prayers/#bpn13139)» 
+bpn13139 
 
 ----
 
@@ -1765,7 +1766,7 @@ Môj Bože, ktorého uctievam a zbožňujem! Dosvedčujem Tvoju jednotnosť a Tv
 
 -- Bahá'u'lláh
 
-bpn13190 «[Slovensky](../sk/prayers/#bpn13190)» 
+bpn13190 
 
 ----
 
@@ -1775,7 +1776,7 @@ On je Boh! Ó Ty nadovšetko Mocný Pane! Posilni celé ľudstvo, aby mohlo kona
 
 -- Abdu'l-Bahá
 
-bpn9996 «[Slovensky](../sk/prayers/#bpn9996)» 
+bpn9996 
 
 ----
 
@@ -1785,7 +1786,7 @@ bpn9996 «[Slovensky](../sk/prayers/#bpn9996)»
 
 -- Abdu'l-Bahá
 
-bpn13191 «[Slovensky](../sk/prayers/#bpn13191)» 
+bpn13191 
 
 ----
 
@@ -1795,7 +1796,7 @@ bpn13191 «[Slovensky](../sk/prayers/#bpn13191)»
 
 -- Abdu'l-Bahá
 
-bpn13192 «[Slovensky](../sk/prayers/#bpn13192)» 
+bpn13192 
 
 ----
 
@@ -1805,7 +1806,7 @@ bpn13192 «[Slovensky](../sk/prayers/#bpn13192)»
 
 -- Abdu'l-Bahá
 
-bpn13193 «[Slovensky](../sk/prayers/#bpn13193)» 
+bpn13193 
 
 ----
 
@@ -1815,7 +1816,7 @@ bpn13193 «[Slovensky](../sk/prayers/#bpn13193)»
 
 -- Abdu'l-Bahá
 
-bpn13194 «[Slovensky](../sk/prayers/#bpn13194)» 
+bpn13194 
 
 ----
 
@@ -1829,7 +1830,7 @@ Sláva buď Tebe, ó Pane, môj Bože! Prosím Ťa pri Tvojom mene, prostredníc
 
 -- Bahá'u'lláh
 
-bpn13187 «[Slovensky](../sk/prayers/#bpn13187)» 
+bpn13187 
 
 ----
 
@@ -1839,7 +1840,7 @@ bpn13187 «[Slovensky](../sk/prayers/#bpn13187)»
 
 -- Abdu'l-Bahá
 
-bpn13140 «[Slovensky](../sk/prayers/#bpn13140)» 
+bpn13140 
 
 ----
 
@@ -1849,7 +1850,7 @@ bpn13140 «[Slovensky](../sk/prayers/#bpn13140)»
 
 -- Abdu'l-Bahá
 
-bpn13141 «[Slovensky](../sk/prayers/#bpn13141)» 
+bpn13141 
 
 ----
 
@@ -1859,7 +1860,7 @@ bpn13141 «[Slovensky](../sk/prayers/#bpn13141)»
 
 -- Abdu'l-Bahá
 
-bpn13142 «[Slovensky](../sk/prayers/#bpn13142)» 
+bpn13142 
 
 ----
 

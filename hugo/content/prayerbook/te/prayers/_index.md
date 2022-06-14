@@ -5,6 +5,7 @@ tags = ['lang=te', 'prayerbook']
 
 
 
+
 [అనివార్య ప్రార్థన](#%E0%B0%85%E0%B0%A8%E0%B0%BF%E0%B0%B5%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF+%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A5%E0%B0%A8)
 
 [అబ్దుల్-బహా రచనల నుండి](#%E0%B0%85%E0%B0%AC%E0%B1%8D%E0%B0%A6%E0%B1%81%E0%B0%B2%E0%B1%8D-%E0%B0%AC%E0%B0%B9%E0%B0%BE+%E0%B0%B0%E0%B0%9A%E0%B0%A8%E0%B0%B2+%E0%B0%A8%E0%B1%81%E0%B0%82%E0%B0%A1%E0%B0%BF)
@@ -45,7 +46,7 @@ tags = ['lang=te', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn10985 «[తెలుగు](../te/prayers/#bpn10985)» 
+bpn10985 
 
 ----
 
@@ -59,7 +60,7 @@ bpn10985 «[తెలుగు](../te/prayers/#bpn10985)»
 
 -- Abdu'l-Bahá
 
-bpn11016 «[తెలుగు](../te/prayers/#bpn11016)» 
+bpn11016 
 
 ----
 
@@ -73,7 +74,7 @@ bpn11016 «[తెలుగు](../te/prayers/#bpn11016)»
 
 -- Bahá'u'lláh
 
-bpn11014 «[తెలుగు](../te/prayers/#bpn11014)» 
+bpn11014 
 
 ----
 
@@ -87,7 +88,7 @@ bpn11014 «[తెలుగు](../te/prayers/#bpn11014)»
 
 -- Abdu'l-Bahá
 
-bpn10993 «[తెలుగు](../te/prayers/#bpn10993)» 
+bpn10993 
 
 ----
 
@@ -101,7 +102,7 @@ bpn10993 «[తెలుగు](../te/prayers/#bpn10993)»
 
 -- Bahá'u'lláh
 
-bpn10992 «[తెలుగు](../te/prayers/#bpn10992)» 
+bpn10992 
 
 ----
 
@@ -115,7 +116,7 @@ bpn10992 «[తెలుగు](../te/prayers/#bpn10992)»
 
 -- Bahá'u'lláh
 
-bpn10987 «[తెలుగు](../te/prayers/#bpn10987)» 
+bpn10987 
 
 ----
 
@@ -125,7 +126,7 @@ bpn10987 «[తెలుగు](../te/prayers/#bpn10987)»
 
 -- Bahá'u'lláh
 
-bpn10988 «[తెలుగు](../te/prayers/#bpn10988)» 
+bpn10988 
 
 ----
 
@@ -139,7 +140,7 @@ bpn10988 «[తెలుగు](../te/prayers/#bpn10988)»
 
 -- Bahá'u'lláh
 
-bpn10990 «[తెలుగు](../te/prayers/#bpn10990)» 
+bpn10990 
 
 ----
 
@@ -153,7 +154,7 @@ bpn10990 «[తెలుగు](../te/prayers/#bpn10990)»
 
 -- Bahá'u'lláh
 
-bpn10986 «[తెలుగు](../te/prayers/#bpn10986)» 
+bpn10986 
 
 ----
 
@@ -167,7 +168,7 @@ bpn10986 «[తెలుగు](../te/prayers/#bpn10986)»
 
 -- Bahá'u'lláh
 
-bpn10999 «[తెలుగు](../te/prayers/#bpn10999)» 
+bpn10999 
 
 ----
 
@@ -177,7 +178,7 @@ bpn10999 «[తెలుగు](../te/prayers/#bpn10999)»
 
 -- Abdu'l-Bahá
 
-bpn11000 «[తెలుగు](../te/prayers/#bpn11000)» 
+bpn11000 
 
 ----
 
@@ -191,7 +192,7 @@ bpn11000 «[తెలుగు](../te/prayers/#bpn11000)»
 
 -- Abdu'l-Bahá
 
-bpn10998 «[తెలుగు](../te/prayers/#bpn10998)» 
+bpn10998 
 
 ----
 
@@ -205,7 +206,7 @@ bpn10998 «[తెలుగు](../te/prayers/#bpn10998)»
 
 -- Bahá'u'lláh
 
-bpn11015 «[తెలుగు](../te/prayers/#bpn11015)» 
+bpn11015 
 
 ----
 
@@ -219,7 +220,7 @@ bpn11015 «[తెలుగు](../te/prayers/#bpn11015)»
 
 -- Abdu'l-Bahá
 
-bpn10994 «[తెలుగు](../te/prayers/#bpn10994)» 
+bpn10994 
 
 ----
 
@@ -229,7 +230,7 @@ bpn10994 «[తెలుగు](../te/prayers/#bpn10994)»
 
 -- Abdu'l-Bahá
 
-bpn10995 «[తెలుగు](../te/prayers/#bpn10995)» 
+bpn10995 
 
 ----
 
@@ -239,7 +240,7 @@ bpn10995 «[తెలుగు](../te/prayers/#bpn10995)»
 
 -- Abdu'l-Bahá
 
-bpn10996 «[తెలుగు](../te/prayers/#bpn10996)» 
+bpn10996 
 
 ----
 
@@ -249,7 +250,7 @@ bpn10996 «[తెలుగు](../te/prayers/#bpn10996)»
 
 -- Abdu'l-Bahá
 
-bpn10997 «[తెలుగు](../te/prayers/#bpn10997)» 
+bpn10997 
 
 ----
 
@@ -263,7 +264,7 @@ bpn10997 «[తెలుగు](../te/prayers/#bpn10997)»
 
 -- Bahá'u'lláh
 
-bpn11001 «[తెలుగు](../te/prayers/#bpn11001)» 
+bpn11001 
 
 ----
 
@@ -273,7 +274,7 @@ bpn11001 «[తెలుగు](../te/prayers/#bpn11001)»
 
 -- Bahá'u'lláh
 
-bpn11002 «[తెలుగు](../te/prayers/#bpn11002)» 
+bpn11002 
 
 ----
 
@@ -283,7 +284,7 @@ bpn11002 «[తెలుగు](../te/prayers/#bpn11002)»
 
 -- Bahá'u'lláh
 
-bpn11003 «[తెలుగు](../te/prayers/#bpn11003)» 
+bpn11003 
 
 ----
 
@@ -293,7 +294,7 @@ bpn11003 «[తెలుగు](../te/prayers/#bpn11003)»
 
 -- Bahá'u'lláh
 
-bpn11004 «[తెలుగు](../te/prayers/#bpn11004)» 
+bpn11004 
 
 ----
 
@@ -303,7 +304,7 @@ bpn11004 «[తెలుగు](../te/prayers/#bpn11004)»
 
 -- Bahá'u'lláh
 
-bpn11005 «[తెలుగు](../te/prayers/#bpn11005)» 
+bpn11005 
 
 ----
 
@@ -313,7 +314,7 @@ bpn11005 «[తెలుగు](../te/prayers/#bpn11005)»
 
 -- Báb
 
-bpn11006 «[తెలుగు](../te/prayers/#bpn11006)» 
+bpn11006 
 
 ----
 
@@ -323,7 +324,7 @@ bpn11006 «[తెలుగు](../te/prayers/#bpn11006)»
 
 -- Abdu'l-Bahá
 
-bpn11007 «[తెలుగు](../te/prayers/#bpn11007)» 
+bpn11007 
 
 ----
 
@@ -333,7 +334,7 @@ bpn11007 «[తెలుగు](../te/prayers/#bpn11007)»
 
 -- Abdu'l-Bahá
 
-bpn11008 «[తెలుగు](../te/prayers/#bpn11008)» 
+bpn11008 
 
 ----
 
@@ -343,7 +344,7 @@ bpn11008 «[తెలుగు](../te/prayers/#bpn11008)»
 
 -- Abdu'l-Bahá
 
-bpn11009 «[తెలుగు](../te/prayers/#bpn11009)» 
+bpn11009 
 
 ----
 
@@ -353,7 +354,7 @@ bpn11009 «[తెలుగు](../te/prayers/#bpn11009)»
 
 -- Abdu'l-Bahá
 
-bpn11010 «[తెలుగు](../te/prayers/#bpn11010)» 
+bpn11010 
 
 ----
 
@@ -363,7 +364,7 @@ bpn11010 «[తెలుగు](../te/prayers/#bpn11010)»
 
 -- Abdu'l-Bahá
 
-bpn11011 «[తెలుగు](../te/prayers/#bpn11011)» 
+bpn11011 
 
 ----
 
@@ -373,7 +374,7 @@ bpn11011 «[తెలుగు](../te/prayers/#bpn11011)»
 
 -- Abdu'l-Bahá
 
-bpn11012 «[తెలుగు](../te/prayers/#bpn11012)» 
+bpn11012 
 
 ----
 
@@ -383,7 +384,7 @@ bpn11012 «[తెలుగు](../te/prayers/#bpn11012)»
 
 -- Abdu'l-Bahá
 
-bpn11013 «[తెలుగు](../te/prayers/#bpn11013)» 
+bpn11013 
 
 ----
 
@@ -397,7 +398,7 @@ bpn11013 «[తెలుగు](../te/prayers/#bpn11013)»
 
 -- Abdu'l-Bahá
 
-bpn10991 «[తెలుగు](../te/prayers/#bpn10991)» 
+bpn10991 
 
 ----
 
@@ -411,7 +412,7 @@ bpn10991 «[తెలుగు](../te/prayers/#bpn10991)»
 
 -- Bahá'u'lláh
 
-bpn10989 «[తెలుగు](../te/prayers/#bpn10989)» 
+bpn10989 
 
 ----
 

@@ -5,6 +5,7 @@ tags = ['lang=hr', 'prayerbook']
 
 
 
+
 [Brak](#Brak)
 
 [Duhovne Kvalitete](#Duhovne+Kvalitete)
@@ -65,11 +66,11 @@ tags = ['lang=hr', 'prayerbook']
 ## Brak
 
 <a id="bpn3891"></a> 
-*&#34;Baha&#39;i brak je sjedinjenje i duboka naklonost dvoje ljudi. Ipak, oni moraju biti krajnje oprezni i upoznati naravi jedno drugoga. Ova vječna veza treba se osigurati čvrstom pogodbom čiji bi cilj bio: njegovati sklad, prijateljstvo i jedinstvo, te dostići vječni život.&#34;Zavjet braka, stih koji zasebno izgovaraju i nevjesta i mladoženja u prisustvu najmanje dva svjedoka, koje je prihvatilo Lokalno Duhovno vijeće, kako je predviđeno u Kitab-I-Aqdas, Glasi:*&#34;Mi ćemo svi, doista, živjeti po Volji Božjoj&#34;.On je Darovatelj, Dobrostivi! Hvaljen bio Bog, Drevni, Vjekovječni, Nepromjenjljivi, Vječni! On Koji je posvjedočio u Svom Vlastitom Biću da je doista On Jedan, Jedini, Nesputani, Uzvišeni. Mi svjedočimo da doista nema Boga osim Njega, priznajemo Njegovu jednost, ispovijedamo Njegovu jedinost. On je oduvijek boravio na nedostupnim visinam, na vrhuncima Njegove uzvišenosti, očišćen od spomena bilo čega osim Sebe. A kada je On poželio objaviti milost i blagonaklonost ljudima i dovesti svijet u red, objelodanio je propise stvorio zakone; među ostalim uspostavio je zakon braka, učinio ga utvrdom Blagostanja i spasenja, i dodijelio ga Nama u onome što je poslao dolje iz nebesa svetosti u Presvetoj Knjizi. On kaže:&#34;Vjenčavajte se, o, ljudi, da bi se od vas mogao pojaviti onaj koji će se Mene među Mojim slugama spominjati; ovo je jedna od Mojih zapovijedi vama; pokorite joj se da biste pomogli sebi samima.
+*"Baha'i brak je sjedinjenje i duboka naklonost dvoje ljudi. Ipak, oni moraju biti krajnje oprezni i upoznati naravi jedno drugoga. Ova vječna veza treba se osigurati čvrstom pogodbom čiji bi cilj bio: njegovati sklad, prijateljstvo i jedinstvo, te dostići vječni život."Zavjet braka, stih koji zasebno izgovaraju i nevjesta i mladoženja u prisustvu najmanje dva svjedoka, koje je prihvatilo Lokalno Duhovno vijeće, kako je predviđeno u Kitab-I-Aqdas, Glasi:*"Mi ćemo svi, doista, živjeti po Volji Božjoj".On je Darovatelj, Dobrostivi! Hvaljen bio Bog, Drevni, Vjekovječni, Nepromjenjljivi, Vječni! On Koji je posvjedočio u Svom Vlastitom Biću da je doista On Jedan, Jedini, Nesputani, Uzvišeni. Mi svjedočimo da doista nema Boga osim Njega, priznajemo Njegovu jednost, ispovijedamo Njegovu jedinost. On je oduvijek boravio na nedostupnim visinam, na vrhuncima Njegove uzvišenosti, očišćen od spomena bilo čega osim Sebe. A kada je On poželio objaviti milost i blagonaklonost ljudima i dovesti svijet u red, objelodanio je propise stvorio zakone; među ostalim uspostavio je zakon braka, učinio ga utvrdom Blagostanja i spasenja, i dodijelio ga Nama u onome što je poslao dolje iz nebesa svetosti u Presvetoj Knjizi. On kaže:"Vjenčavajte se, o, ljudi, da bi se od vas mogao pojaviti onaj koji će se Mene među Mojim slugama spominjati; ovo je jedna od Mojih zapovijedi vama; pokorite joj se da biste pomogli sebi samima.
 
 -- Bahá'u'lláh
 
-bpn3891 «[Hrvatski](../hr/prayers/#bpn3891)» 
+bpn3891 
 
 ----
 
@@ -79,17 +80,17 @@ Slava Tebi, o, Bože moj! Doista ovaj sluga Tvoj i službenica Tvoja udružili s
 
 -- Abdu'l-Bahá
 
-bpn3892 «[Hrvatski](../hr/prayers/#bpn3892)» 
+bpn3892 
 
 ----
 
 
 <a id="bpn3893"></a> 
-On je Bog! O, Gospode Neusporedivi! U Tvojoj svemogućoj mudrosti podario si ljudima brak, da bi pokoljenja jedno drugo slijedila u ovom nesigurnom svijetu, i da bi zauvijek, dok god je svijeta, na Pragu Tvoje jednosti bili zaokupljeni služenjem i štovanjem, Pozdravljanjem, obožavanjem iI hvalom. &#34;Nisam stvorio duhove i ljude do li zato da bi mene obožavali&#34; (Qur&#39;an 51:56). Stoga, vjenčaj u Tvom nebu milosrđa ove dvije ptice iz gnijezda ljubavi Tvoje i učini ih virom koji privlači trajnu milost; da se iz zajedništva ova dva mora ljubavi digne val nježnosti i prospe bisere čistoće i dobrote na obalu života. &#34;On je oslobodio dva mora da bi mogla susresti jedno drugo: između njih je prepreka koju ne prelaze. Koji ćete, tad, od darova Božjih odbiti? Iz svakog on donosi veće i manje bisere (Qur&#39;an 55:19-22)&#34;. O, Ti, blagi Bože! Daj da ovaj brak urodi koraljima iI biserima. Ti si uistinu Svemoćni, Najveći, Koji vječno Praštaš.
+On je Bog! O, Gospode Neusporedivi! U Tvojoj svemogućoj mudrosti podario si ljudima brak, da bi pokoljenja jedno drugo slijedila u ovom nesigurnom svijetu, i da bi zauvijek, dok god je svijeta, na Pragu Tvoje jednosti bili zaokupljeni služenjem i štovanjem, Pozdravljanjem, obožavanjem iI hvalom. "Nisam stvorio duhove i ljude do li zato da bi mene obožavali" (Qur'an 51:56). Stoga, vjenčaj u Tvom nebu milosrđa ove dvije ptice iz gnijezda ljubavi Tvoje i učini ih virom koji privlači trajnu milost; da se iz zajedništva ova dva mora ljubavi digne val nježnosti i prospe bisere čistoće i dobrote na obalu života. "On je oslobodio dva mora da bi mogla susresti jedno drugo: između njih je prepreka koju ne prelaze. Koji ćete, tad, od darova Božjih odbiti? Iz svakog on donosi veće i manje bisere (Qur'an 55:19-22)". O, Ti, blagi Bože! Daj da ovaj brak urodi koraljima iI biserima. Ti si uistinu Svemoćni, Najveći, Koji vječno Praštaš.
 
 -- Abdu'l-Bahá
 
-bpn3893 «[Hrvatski](../hr/prayers/#bpn3893)» 
+bpn3893 
 
 ----
 
@@ -103,7 +104,7 @@ Stvori me čista srca, o, Bože moj, i obnovi moju mirnu savjest, o, Nado moja! 
 
 -- Bahá'u'lláh
 
-bpn3898 «[Hrvatski](../hr/prayers/#bpn3898)» 
+bpn3898 
 
 ----
 
@@ -117,7 +118,7 @@ Bože moj, Obožavani moj, Kralju moj, čežnjo moja! Koji jezik može izreæi z
 
 -- Bahá'u'lláh
 
-bpn3899 «[Hrvatski](../hr/prayers/#bpn3899)» 
+bpn3899 
 
 ----
 
@@ -131,7 +132,7 @@ Ime Tvoje moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvoj
 
 -- Bahá'u'lláh
 
-bpn3900 «[Hrvatski](../hr/prayers/#bpn3900)» 
+bpn3900 
 
 ----
 
@@ -145,7 +146,7 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih slugu i otkrij im Svoj veliki ci
 
 -- Bahá'u'lláh
 
-bpn3901 «[Hrvatski](../hr/prayers/#bpn3901)» 
+bpn3901 
 
 ----
 
@@ -155,7 +156,7 @@ Slava tebi, o, Bože, zbog Tvoje objave ljubavi čovječanstvu! O, Ti, Koji si n
 
 -- Bahá'u'lláh
 
-bpn3902 «[Hrvatski](../hr/prayers/#bpn3902)» 
+bpn3902 
 
 ----
 
@@ -165,7 +166,7 @@ O, Bože moj! O, Bože moj! Doista zazivam te i preklinjem na pragu Tvome i moli
 
 -- Abdu'l-Bahá
 
-bpn3903 «[Hrvatski](../hr/prayers/#bpn3903)» 
+bpn3903 
 
 ----
 
@@ -179,7 +180,7 @@ Probudih se u Tvom zaklonu, o, moj Bože, a onome koji Taj zaklon traži prilič
 
 -- Bahá'u'lláh
 
-bpn3904 «[Hrvatski](../hr/prayers/#bpn3904)» 
+bpn3904 
 
 ----
 
@@ -193,7 +194,7 @@ Oboružanog snagom Tvog imena ništa me nikada ne može povrijediti, s Tvojom lj
 
 -- Bahá'u'lláh
 
-bpn3905 «[Hrvatski](../hr/prayers/#bpn3905)» 
+bpn3905 
 
 ----
 
@@ -203,7 +204,7 @@ Ima li drugog Otklonitelja poteškoća osim Boga? Recite: Hvaljen bio Bog! On je
 
 -- Báb
 
-bpn3906 «[Hrvatski](../hr/prayers/#bpn3906)» 
+bpn3906 
 
 ----
 
@@ -213,7 +214,7 @@ Recite: Bog dostaje svim stvarima iznad svih stvari, i ništa u nebu ili na zeml
 
 -- Báb
 
-bpn3907 «[Hrvatski](../hr/prayers/#bpn3907)» 
+bpn3907 
 
 ----
 
@@ -223,7 +224,7 @@ Zaklinjem Te Tvojom moći, o, moj Bože! Ne daj da me zadesi ikakvo zlo u doba k
 
 -- Báb
 
-bpn3908 «[Hrvatski](../hr/prayers/#bpn3908)» 
+bpn3908 
 
 ----
 
@@ -233,7 +234,7 @@ O, Gospodine, Bože moj i Nebo moje u mojoj boli! Štite moj i Zaklone u mojim b
 
 -- Abdu'l-Bahá
 
-bpn3909 «[Hrvatski](../hr/prayers/#bpn3909)» 
+bpn3909 
 
 ----
 
@@ -247,7 +248,7 @@ O, Bože! Ozari ovog mladca i prenesi dobrotu Svoju na ovo jadno stvorenje. Poda
 
 -- Abdu'l-Bahá
 
-bpn3910 «[Hrvatski](../hr/prayers/#bpn3910)» 
+bpn3910 
 
 ----
 
@@ -261,7 +262,7 @@ O, Bože, Bože moj! Ova Te službenica Tvoja zaziva, vjeruje u Tebe, okreće li
 
 -- Abdu'l-Bahá
 
-bpn3911 «[Hrvatski](../hr/prayers/#bpn3911)» 
+bpn3911 
 
 ----
 
@@ -275,7 +276,7 @@ Kako da zaspim, o, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budne
 
 -- Bahá'u'lláh
 
-bpn3912 «[Hrvatski](../hr/prayers/#bpn3912)» 
+bpn3912 
 
 ----
 
@@ -289,7 +290,7 @@ O, Bože, moj Bože! Preklinjem Te krvlju onih koji Te istinski ljube, koji su s
 
 -- Bahá'u'lláh
 
-bpn3913 «[Hrvatski](../hr/prayers/#bpn3913)» 
+bpn3913 
 
 ----
 
@@ -299,7 +300,7 @@ Slava Tebi, o, Gospode Bože moj! Molim Te da oprostiš meni i onima koji podupi
 
 -- Báb
 
-bpn3914 «[Hrvatski](../hr/prayers/#bpn3914)» 
+bpn3914 
 
 ----
 
@@ -313,7 +314,7 @@ Mnoga su hladna srca, o, moj Bože, zaplamtjela vatrom Tvoje Stvari i mnoge je s
 
 -- Bahá'u'lláh
 
-bpn3915 «[Hrvatski](../hr/prayers/#bpn3915)» 
+bpn3915 
 
 ----
 
@@ -323,7 +324,7 @@ O, moj Bože, moj Gospode i moj Gospodaru! Odvojio sam se od svoje rodbine i nas
 
 -- Báb
 
-bpn3916 «[Hrvatski](../hr/prayers/#bpn3916)» 
+bpn3916 
 
 ----
 
@@ -333,7 +334,7 @@ O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.O
 
 -- Abdu'l-Bahá
 
-bpn3917 «[Hrvatski](../hr/prayers/#bpn3917)» 
+bpn3917 
 
 ----
 
@@ -343,11 +344,11 @@ bpn3917 «[Hrvatski](../hr/prayers/#bpn3917)»
 ## Oprost
 
 <a id="bpn3918"></a> 
-*(Molitva iz Devete Blagovijesti Baha&#39;u&#39;llaha) …Ispovijedanje grijeha i prekršaja pred ljudima nije dopušteno. Griješnik treba, između sebe i Boga, zamoliti milost iz Oceana milosti i moliti oproštaj iz Nebesa velikodušja i reći:Ja sam onaj, o, moj Gospode, koji je okrenuo lice svoje k Tebi i upravio svoju nadu ka čudesima Tvoje milosti i k otkrivenjima Tvoje dobrote. Molim Te, ne dopusti da se razočaran okrenem od vrata tvoje milosti, i ne ostavljaj me onim Tvojim stvorenjima koji zanijekaše Tvoju Stvar.Ja sam, o, Bože moj, Tvoj sluga i sin sluge Tvojega. Priznao sam Tvoju istinu u Tvojim danima i upravio svoje korake ka obalama Tvoje jednosti, ispovijedajući Tvoju jedinstvenost, potvrđujući Tvoje jedinstvo i nadajući se Tvom oproštenju.Ti imaš moć činiti što poželiš; nema Boga osim Tebe, Sveslavnog, koji vječno Prašta.
+*(Molitva iz Devete Blagovijesti Baha'u'llaha) …Ispovijedanje grijeha i prekršaja pred ljudima nije dopušteno. Griješnik treba, između sebe i Boga, zamoliti milost iz Oceana milosti i moliti oproštaj iz Nebesa velikodušja i reći:Ja sam onaj, o, moj Gospode, koji je okrenuo lice svoje k Tebi i upravio svoju nadu ka čudesima Tvoje milosti i k otkrivenjima Tvoje dobrote. Molim Te, ne dopusti da se razočaran okrenem od vrata tvoje milosti, i ne ostavljaj me onim Tvojim stvorenjima koji zanijekaše Tvoju Stvar.Ja sam, o, Bože moj, Tvoj sluga i sin sluge Tvojega. Priznao sam Tvoju istinu u Tvojim danima i upravio svoje korake ka obalama Tvoje jednosti, ispovijedajući Tvoju jedinstvenost, potvrđujući Tvoje jedinstvo i nadajući se Tvom oproštenju.Ti imaš moć činiti što poželiš; nema Boga osim Tebe, Sveslavnog, koji vječno Prašta.
 
 -- Bahá'u'lláh
 
-bpn3918 «[Hrvatski](../hr/prayers/#bpn3918)» 
+bpn3918 
 
 ----
 
@@ -357,7 +358,7 @@ Slava Tebi, o, Gospode. Oprosti nam grijehe naše, smiluj nam se i pomozi nam da
 
 -- Báb
 
-bpn3919 «[Hrvatski](../hr/prayers/#bpn3919)» 
+bpn3919 
 
 ----
 
@@ -367,7 +368,7 @@ O, Ti, Gospode koji praštaš! Ti si zaklon svih ovih slugu Tvojih. Ti znaš taj
 
 -- Abdu'l-Bahá
 
-bpn3920 «[Hrvatski](../hr/prayers/#bpn3920)» 
+bpn3920 
 
 ----
 
@@ -377,11 +378,11 @@ bpn3920 «[Hrvatski](../hr/prayers/#bpn3920)»
 ## Pomoć
 
 <a id="bpn3921"></a> 
-Budi strpljiv u svim okolnostima i daj svo svoje povjerenje i pouzdanje Bogu. Baha&#39;u&#39;llahO, Bože moj! Molim Te Tvojim najuzvišenijim Imenom, pomozi mi u onome što će učiniti da poslovi Tvojih slugu napreduju i da Tvoji gradovi cvijetaju. Ti doista imaš moć nad svim stvarima! Baha&#39;u&#39;llahO, Ti, Čije je lice predmet mog obožavanja. Čija je ljepota moje svetište, Čiji je stan moj cilj, Čija je hvala moja nada, Čija je skrb moj pratilac, Čija je ljubav uzrok mog postojanja, Čiji je spomen moja utjeha, Čija je blizina moja želja, Čije je prisustvo moja najmilija žudnja i najviša težnja, preklinjem Te da mi ne uskratiš stvari koje Si odredio odabranima među Svojim slugama. Pribavi mi, tad, dobro ovoga i slijedećeg svijeta.Ti, uistinu, jesi Kralj svih ljudi, nema drugog Boga do li Tebe, Koji sve praštaš i sve daruješ.
+Budi strpljiv u svim okolnostima i daj svo svoje povjerenje i pouzdanje Bogu. Baha'u'llahO, Bože moj! Molim Te Tvojim najuzvišenijim Imenom, pomozi mi u onome što će učiniti da poslovi Tvojih slugu napreduju i da Tvoji gradovi cvijetaju. Ti doista imaš moć nad svim stvarima! Baha'u'llahO, Ti, Čije je lice predmet mog obožavanja. Čija je ljepota moje svetište, Čiji je stan moj cilj, Čija je hvala moja nada, Čija je skrb moj pratilac, Čija je ljubav uzrok mog postojanja, Čiji je spomen moja utjeha, Čija je blizina moja želja, Čije je prisustvo moja najmilija žudnja i najviša težnja, preklinjem Te da mi ne uskratiš stvari koje Si odredio odabranima među Svojim slugama. Pribavi mi, tad, dobro ovoga i slijedećeg svijeta.Ti, uistinu, jesi Kralj svih ljudi, nema drugog Boga do li Tebe, Koji sve praštaš i sve daruješ.
 
 -- Bahá'u'lláh
 
-bpn3921 «[Hrvatski](../hr/prayers/#bpn3921)» 
+bpn3921 
 
 ----
 
@@ -391,17 +392,17 @@ Hvaljeno neka bude ime Tvoje, o, moj Bože i Bože svih stvari, moja Slavo i Sla
 
 -- Bahá'u'lláh
 
-bpn3922 «[Hrvatski](../hr/prayers/#bpn3922)» 
+bpn3922 
 
 ----
 
 
 <a id="bpn3923"></a> 
-O, Gospodine, Bože moj! Pomozi svojim ljubljenima da budu čvrsti u Tvojoj Vjeri, da idu Tvojim putovima, da budu postojani u Tvojoj Stvari. Daj im Svoju milost da podnesu nalete svoga &#34;ja&#34; i strasti, da slijede svijetlo božanskog vodstva, Ti si Snažni, Milostivi, Skrbnik, Samodovolni, Milosrdni, Svemogući, Darežljivi.
+O, Gospodine, Bože moj! Pomozi svojim ljubljenima da budu čvrsti u Tvojoj Vjeri, da idu Tvojim putovima, da budu postojani u Tvojoj Stvari. Daj im Svoju milost da podnesu nalete svoga "ja" i strasti, da slijede svijetlo božanskog vodstva, Ti si Snažni, Milostivi, Skrbnik, Samodovolni, Milosrdni, Svemogući, Darežljivi.
 
 -- Abdu'l-Bahá
 
-bpn3923 «[Hrvatski](../hr/prayers/#bpn3923)» 
+bpn3923 
 
 ----
 
@@ -411,7 +412,7 @@ Gospode! Kukavni smo, podari nam Svoju milost; siromašni smo, daruj nam udio iz
 
 -- Abdu'l-Bahá
 
-bpn3924 «[Hrvatski](../hr/prayers/#bpn3924)» 
+bpn3924 
 
 ----
 
@@ -421,7 +422,7 @@ Ne uklanjaj, o, Gospode stol svečano prostrt u Tvoje Ime i ne gasi žarki plame
 
 -- Abdu'l-Bahá
 
-bpn3925 «[Hrvatski](../hr/prayers/#bpn3925)» 
+bpn3925 
 
 ----
 
@@ -435,7 +436,7 @@ O, Tragaču za Istinom! Želiš li da Bog otvori tvoje oči, moraš Boga zaklinj
 
 -- Abdu'l-Bahá
 
-bpn3926 «[Hrvatski](../hr/prayers/#bpn3926)» 
+bpn3926 
 
 ----
 
@@ -449,7 +450,7 @@ O, Moj Bože i moja Nado! Pomozi svojim ljubljenima da budu postojani u Tvojoj m
 
 -- Abdu'l-Bahá
 
-bpn3927 «[Hrvatski](../hr/prayers/#bpn3927)» 
+bpn3927 
 
 ----
 
@@ -459,7 +460,7 @@ Učvrsti naše korake, o, Gospode, na Tvojoj stazi i osnaži naša srca u poslu�
 
 -- Abdu'l-Bahá
 
-bpn3928 «[Hrvatski](../hr/prayers/#bpn3928)» 
+bpn3928 
 
 ----
 
@@ -473,7 +474,7 @@ Bit svega što Smo ti otkrili jest Pravda, dana je čovjeku da bi se oslobodio j
 
 -- Bahá'u'lláh
 
-bpn3929 «[Hrvatski](../hr/prayers/#bpn3929)» 
+bpn3929 
 
 ----
 
@@ -483,7 +484,7 @@ Recite: O, Bože, moj Bože! Okiti moju glavu krunom pravde, a moj hram uresom p
 
 -- Bahá'u'lláh
 
-bpn3930 «[Hrvatski](../hr/prayers/#bpn3930)» 
+bpn3930 
 
 ----
 
@@ -497,7 +498,7 @@ Smrt nudi svakom odanom vjerniku pehar koji je uistinu život… Ona daje dar ž
 
 -- Bahá'u'lláh
 
-bpn3931 «[Hrvatski](../hr/prayers/#bpn3931)» 
+bpn3931 
 
 ----
 
@@ -507,7 +508,7 @@ O, Bože moj! O, Ti, Oprostitelju grijeha! O, Davatelju darova! Otklonitelju jad
 
 -- Abdu'l-Bahá
 
-bpn3932 «[Hrvatski](../hr/prayers/#bpn3932)» 
+bpn3932 
 
 ----
 
@@ -521,7 +522,7 @@ Pristaje im da kao najbolju opremu za put odaberu uzdanje u Boga i zaogrnu se lj
 
 -- Bahá'u'lláh
 
-bpn3933 «[Hrvatski](../hr/prayers/#bpn3933)» 
+bpn3933 
 
 ----
 
@@ -531,7 +532,7 @@ O, Bože, moj Bože! Krenuh iz svog doma čvrsto se držeći niti Tvoje ljubavi 
 
 -- Bahá'u'lláh
 
-bpn3934 «[Hrvatski](../hr/prayers/#bpn3934)» 
+bpn3934 
 
 ----
 
@@ -545,7 +546,7 @@ Ti vidiš, o, Gospode, naše molećive ruke podignute ka nebu Tvoje naklonosti i
 
 -- Bahá'u'lláh
 
-bpn3936 «[Hrvatski](../hr/prayers/#bpn3936)» 
+bpn3936 
 
 ----
 
@@ -555,7 +556,7 @@ Blagoslovljen onaj koji se sjeća svojih roditelja u razgovoru s Bogom.
 
 -- Báb
 
-bpn3935 «[Hrvatski](../hr/prayers/#bpn3935)» 
+bpn3935 
 
 ----
 
@@ -565,7 +566,7 @@ Molim Tvoje oproštenje, o, Bože moj, i tražim oproštaj, onako kako Ti želi�
 
 -- Báb
 
-bpn3937 «[Hrvatski](../hr/prayers/#bpn3937)» 
+bpn3937 
 
 ----
 
@@ -575,7 +576,7 @@ O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoj
 
 -- Abdu'l-Bahá
 
-bpn3938 «[Hrvatski](../hr/prayers/#bpn3938)» 
+bpn3938 
 
 ----
 
@@ -585,7 +586,7 @@ bpn3938 «[Hrvatski](../hr/prayers/#bpn3938)»
 
 -- Abdu'l-Bahá
 
-bpn3939 «[Hrvatski](../hr/prayers/#bpn3939)» 
+bpn3939 
 
 ----
 
@@ -599,7 +600,7 @@ O, Bože! Doista, okupili smo se ovdje u miomirisu Tvoje ljubavi. Okrenusmo se T
 
 -- Abdu'l-Bahá
 
-bpn3940 «[Hrvatski](../hr/prayers/#bpn3940)» 
+bpn3940 
 
 ----
 
@@ -609,11 +610,11 @@ bpn3940 «[Hrvatski](../hr/prayers/#bpn3940)»
 ## Službenice
 
 <a id="bpn3941"></a> 
-Kad bi spoznala slast naslova &#34;O službenice moja!&#34; odvojila bi se od svih ljudi, danju i noću odano zaokupljena u zajedništvu s Njim, koji je jedina želja ovoga svijeta.Slava Tebi, o, Bože moj! Moje je lice ka Tvome upravljeno, i lice je moje, uistinu, Tvoje lice i moj poziv Tvoj je poziv, i otkrivenje moje Tvoje je otkrivenje, i moje ja je Tvoje ja, i moja je svrha Tvoja svrha, i moj je nalog, nalog Tvoj, i moje biće je Tvoje biće, i moja vladavina, Tvoja vladavina, i moja slava je Tvoja slava, i moja snaga je Tvoja snaga.Preklinjem Te, o, Ti Uobličitelju naroda i Kralju vječnosti, da službenice svoje čuvaš u hramu Tvoje čednosti i da otkloniš ona njihova djela koja dostojna nisu Tvojih dana. Očisti ih tad, Bože, od svih sumnji i maštanja jalovih, i čuvaj ih od svega što ne pristaje njihovoj srodnosti s Tobom, o, Ti Gospodaru svih Imena i Izvore riječi. Ti držiš uzde čitavog stvaranja.Nema Boga osim Tebe, Svemoćnog, Svevišnjeg, Sveslavnog, Samoopstojnog.
+Kad bi spoznala slast naslova "O službenice moja!" odvojila bi se od svih ljudi, danju i noću odano zaokupljena u zajedništvu s Njim, koji je jedina želja ovoga svijeta.Slava Tebi, o, Bože moj! Moje je lice ka Tvome upravljeno, i lice je moje, uistinu, Tvoje lice i moj poziv Tvoj je poziv, i otkrivenje moje Tvoje je otkrivenje, i moje ja je Tvoje ja, i moja je svrha Tvoja svrha, i moj je nalog, nalog Tvoj, i moje biće je Tvoje biće, i moja vladavina, Tvoja vladavina, i moja slava je Tvoja slava, i moja snaga je Tvoja snaga.Preklinjem Te, o, Ti Uobličitelju naroda i Kralju vječnosti, da službenice svoje čuvaš u hramu Tvoje čednosti i da otkloniš ona njihova djela koja dostojna nisu Tvojih dana. Očisti ih tad, Bože, od svih sumnji i maštanja jalovih, i čuvaj ih od svega što ne pristaje njihovoj srodnosti s Tobom, o, Ti Gospodaru svih Imena i Izvore riječi. Ti držiš uzde čitavog stvaranja.Nema Boga osim Tebe, Svemoćnog, Svevišnjeg, Sveslavnog, Samoopstojnog.
 
 -- Bahá'u'lláh
 
-bpn3941 «[Hrvatski](../hr/prayers/#bpn3941)» 
+bpn3941 
 
 ----
 
@@ -623,7 +624,7 @@ O, moj Gospodine, Ljubljeni moj, Željo moja! Budi mi prijateljem u samoći i pr
 
 -- Abdu'l-Bahá
 
-bpn3942 «[Hrvatski](../hr/prayers/#bpn3942)» 
+bpn3942 
 
 ----
 
@@ -633,7 +634,7 @@ O, Ti blagi Gospodine! Podari nebesku potvrdu ovoj kćeri Kraljevstva i pomozi j
 
 -- Abdu'l-Bahá
 
-bpn3943 «[Hrvatski](../hr/prayers/#bpn3943)» 
+bpn3943 
 
 ----
 
@@ -647,7 +648,7 @@ Hvaljeno neka je Ime Tvoje, o, Gospode Bože moj! Tama se spustila na sve zemlje
 
 -- Bahá'u'lláh
 
-bpn3944 «[Hrvatski](../hr/prayers/#bpn3944)» 
+bpn3944 
 
 ----
 
@@ -657,7 +658,7 @@ O, Gospode! Daj da svim ljudima bude dopušteno ući u Raj Tvoje Vjere, tako da 
 
 -- Báb
 
-bpn3945 «[Hrvatski](../hr/prayers/#bpn3945)» 
+bpn3945 
 
 ----
 
@@ -671,7 +672,7 @@ O, službenice Milosrdnoga! Dano vam je u dužnost odgajati djecu od najranije d
 
 -- Abdu'l-Bahá
 
-bpn3946 «[Hrvatski](../hr/prayers/#bpn3946)» 
+bpn3946 
 
 ----
 
@@ -681,7 +682,7 @@ Gospode moj! Gospode moj! Hvalim Te i zahvaljujem Ti za ono čime Si obdario Tvo
 
 -- Abdu'l-Bahá
 
-bpn3947 «[Hrvatski](../hr/prayers/#bpn3947)» 
+bpn3947 
 
 ----
 
@@ -691,11 +692,11 @@ bpn3947 «[Hrvatski](../hr/prayers/#bpn3947)»
 ## Vodstvo
 
 <a id="bpn3948"></a> 
-Bože moj, Predmete mojeg obožavanja, Cilju moje Čežnje, Svemilostivi, Presamilosni! Sav život od Tebe potječe i sva snaga počiva nadohvat tvoje svemoći. Koga Ti uzvisiš uzdignut je iznad anđela i doseže ovaj položaj: &#34;Doista, podigli Smo ga do mjesta u visini!&#34;; a koga Ti poniziš postaje niži od prašine, ah, niži od ničega.O, Božanska Providnosti! Premda zločesti, griješni i neumjereni, još uvijek od Tebe tražimo &#34;sjedište istine&#34; i želimo ugledati lice Svemogućeg Kralja. Tvoje je da zapovijedaš, i sva vrhovna vlast Tebi pripada, a kraljevstvo moći klanja se Tvojoj zapovijedi. Sve što ti činiš čista je pravda, ah, prava bit milosti. Jedan bljesak iz sjaja Tvoga Imena, Svemilosrdnoga, dovoljan je da odagna i izbriše svaki trag griješnosti iz svijeta, a samo dah jedan iz lahora Dana Tvojeg Otkrivenja dovoljan je da svo čovječanstvo zaodjene novim ruhom.Podaj Tvoju snagu, o, Svemogući, Tvojim slabim stvorenjima i obodri one koji su poput mrtvih, da bi Te možda mogli pronaći i da budu dovedeni do oceana Tvojeg vodstva i da ostanu postojani u Tvojoj Stvari. Kad bi miomiris Tvoje slave pronio bilo koji od različitih jezika svijeta, s Istoka ili sa Zapada, bio bi on doista hvale vrijedan i uvelike njegovan. No budu li ti jezici lišeni takova miomirisa, zasigurno neće biti vrijedni pomena bilo u riječima, bilo u mislima.Molimo Te, o, Providnosti, da pokažeš Svij put svim ljudima i da ih vodiš pravo. Ti jesi, uistinu, Svemogući, Najmoćniji, Sve Znaš i Vidiš Sve.
+Bože moj, Predmete mojeg obožavanja, Cilju moje Čežnje, Svemilostivi, Presamilosni! Sav život od Tebe potječe i sva snaga počiva nadohvat tvoje svemoći. Koga Ti uzvisiš uzdignut je iznad anđela i doseže ovaj položaj: "Doista, podigli Smo ga do mjesta u visini!"; a koga Ti poniziš postaje niži od prašine, ah, niži od ničega.O, Božanska Providnosti! Premda zločesti, griješni i neumjereni, još uvijek od Tebe tražimo "sjedište istine" i želimo ugledati lice Svemogućeg Kralja. Tvoje je da zapovijedaš, i sva vrhovna vlast Tebi pripada, a kraljevstvo moći klanja se Tvojoj zapovijedi. Sve što ti činiš čista je pravda, ah, prava bit milosti. Jedan bljesak iz sjaja Tvoga Imena, Svemilosrdnoga, dovoljan je da odagna i izbriše svaki trag griješnosti iz svijeta, a samo dah jedan iz lahora Dana Tvojeg Otkrivenja dovoljan je da svo čovječanstvo zaodjene novim ruhom.Podaj Tvoju snagu, o, Svemogući, Tvojim slabim stvorenjima i obodri one koji su poput mrtvih, da bi Te možda mogli pronaći i da budu dovedeni do oceana Tvojeg vodstva i da ostanu postojani u Tvojoj Stvari. Kad bi miomiris Tvoje slave pronio bilo koji od različitih jezika svijeta, s Istoka ili sa Zapada, bio bi on doista hvale vrijedan i uvelike njegovan. No budu li ti jezici lišeni takova miomirisa, zasigurno neće biti vrijedni pomena bilo u riječima, bilo u mislima.Molimo Te, o, Providnosti, da pokažeš Svij put svim ljudima i da ih vodiš pravo. Ti jesi, uistinu, Svemogući, Najmoćniji, Sve Znaš i Vidiš Sve.
 
 -- Bahá'u'lláh
 
-bpn3948 «[Hrvatski](../hr/prayers/#bpn3948)» 
+bpn3948 
 
 ----
 
@@ -705,7 +706,7 @@ Molimo Boga da milostivo pomogne onima koji skrenuše s puta da postanu pravedni
 
 -- Bahá'u'lláh
 
-bpn3949 «[Hrvatski](../hr/prayers/#bpn3949)» 
+bpn3949 
 
 ----
 
@@ -715,7 +716,7 @@ Slavljen si, o, Gospodine moj Bože! Izlij, preklinjem Te, iz oblaka Tvoje obiln
 
 -- Bahá'u'lláh
 
-bpn3950 «[Hrvatski](../hr/prayers/#bpn3950)» 
+bpn3950 
 
 ----
 
@@ -729,17 +730,17 @@ Hvaljeno neka je Ime Tvoje, o, Gospode moj Bože! Preklinjem Te Imenom Tvojim kr
 
 -- Bahá'u'lláh
 
-bpn3951 «[Hrvatski](../hr/prayers/#bpn3951)» 
+bpn3951 
 
 ----
 
 
 <a id="bpn3953"></a> 
-&#34;…trudite se dostići ovo uzvišeno i najplemenitije stanje, stanje koje može pružiti zaštitu i sigurnost cijelog čovječanstva…&#34;
+"…trudite se dostići ovo uzvišeno i najplemenitije stanje, stanje koje može pružiti zaštitu i sigurnost cijelog čovječanstva…"
 
 -- Bahá'u'lláh
 
-bpn3953 «[Hrvatski](../hr/prayers/#bpn3953)» 
+bpn3953 
 
 ----
 
@@ -749,7 +750,7 @@ O, moj Bože! Ti znaš da su ljudi okruženi bolom i nedaćama i opkoljeni tešk
 
 -- Abdu'l-Bahá
 
-bpn3952 «[Hrvatski](../hr/prayers/#bpn3952)» 
+bpn3952 
 
 ----
 
@@ -759,11 +760,11 @@ bpn3952 «[Hrvatski](../hr/prayers/#bpn3952)»
 ## Čovječanstvo
 
 <a id="bpn3894"></a> 
-&#34;O, Ti blagi Bože! Stvorio si sve ljude iz iste tvari. Odredio si da svi pripadaju istom domu. U Tvojoj su Svetoj Prisutnosti svi oni Tvoji sluge i cijelo je čovječanstvo zaštićeno u Tvom zaklonu; svi su oni okupljeni zajedno za Tvojim Stolom Obilja; svi su obasjani svjetlom Tvoje Providnosti.O, Bože! Ti si dobar svima, hraniš sve, štitiš sve, svemu daješ život. Sve i svakoga obdario si talentima i sposobnostima i svi su uronjeni u Ocean tvoje Milosti. O, Ti bladi Bože! Ujedini sve. Neka se religije slože i učini narode jednim, da bi mogli jedni druge vidjeti kao jednu obitelj i cijelu zemlju kao jedan dom. Daj da svi oni žive zajedno u savršenom skladu. O, Bože! Podigni visoko stijeg jednosti čovječanstva. O, Bože uspostavi Najveći Mir. Stopi, o, Bože srca zajedno. O, Ti blagi Oče, Bože! Razveseli naša srca miomirisom Svoje ljubavi. Razbistri naše oči Svjetlom Tvoga vodstva. Razvedri naše uši pjesmom Svoje Riječi, i zakloni nas sve u Utvrdi Svoje Providnosti.Ti si moćni i snažni, Ti praštaš i Onaj si koji previđa mane čovječanstva.&#34;
+"O, Ti blagi Bože! Stvorio si sve ljude iz iste tvari. Odredio si da svi pripadaju istom domu. U Tvojoj su Svetoj Prisutnosti svi oni Tvoji sluge i cijelo je čovječanstvo zaštićeno u Tvom zaklonu; svi su oni okupljeni zajedno za Tvojim Stolom Obilja; svi su obasjani svjetlom Tvoje Providnosti.O, Bože! Ti si dobar svima, hraniš sve, štitiš sve, svemu daješ život. Sve i svakoga obdario si talentima i sposobnostima i svi su uronjeni u Ocean tvoje Milosti. O, Ti bladi Bože! Ujedini sve. Neka se religije slože i učini narode jednim, da bi mogli jedni druge vidjeti kao jednu obitelj i cijelu zemlju kao jedan dom. Daj da svi oni žive zajedno u savršenom skladu. O, Bože! Podigni visoko stijeg jednosti čovječanstva. O, Bože uspostavi Najveći Mir. Stopi, o, Bože srca zajedno. O, Ti blagi Oče, Bože! Razveseli naša srca miomirisom Svoje ljubavi. Razbistri naše oči Svjetlom Tvoga vodstva. Razvedri naše uši pjesmom Svoje Riječi, i zakloni nas sve u Utvrdi Svoje Providnosti.Ti si moćni i snažni, Ti praštaš i Onaj si koji previđa mane čovječanstva."
 
 -- Abdu'l-Bahá
 
-bpn3894 «[Hrvatski](../hr/prayers/#bpn3894)» 
+bpn3894 
 
 ----
 
@@ -773,7 +774,7 @@ O, Bože! Slabi smo; daj nam snage. siromašni smo, udijeli nam Svoja bezgranič
 
 -- Abdu'l-Bahá
 
-bpn3895 «[Hrvatski](../hr/prayers/#bpn3895)» 
+bpn3895 
 
 ----
 
@@ -783,7 +784,7 @@ DJECAO, Bože, vodi me, učini me sjajnom svjetiljkom i blistavom zvijezdom. Ti 
 
 -- Abdu'l-Bahá
 
-bpn3896 «[Hrvatski](../hr/prayers/#bpn3896)» 
+bpn3896 
 
 ----
 
@@ -793,7 +794,7 @@ O, Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na Tv
 
 -- Abdu'l-Bahá
 
-bpn3897 «[Hrvatski](../hr/prayers/#bpn3897)» 
+bpn3897 
 
 ----
 

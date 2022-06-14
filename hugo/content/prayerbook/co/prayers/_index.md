@@ -5,6 +5,7 @@ tags = ['lang=co', 'prayerbook']
 
 
 
+
 [Assistenza](#Assistenza)
 
 [Families](#Families)
@@ -33,7 +34,7 @@ Quale, for chè Diu, face sparisce e difficultà ? Dì: ludatu sia Diu ! Hè sol
 
 -- Bahá'u'lláh
 
-bpn9417 «[Corsica](../co/prayers/#bpn9417)» 
+bpn9417 
 
 ----
 
@@ -43,7 +44,7 @@ Dì : Diu basta in tuttu, più chè tuttu è nunda, nè in celu nè in terra, fo
 
 -- Bahá'u'lláh
 
-bpn9418 «[Corsica](../co/prayers/#bpn9418)» 
+bpn9418 
 
 ----
 
@@ -53,7 +54,7 @@ O Diu ! o Diu ! Eccu un acellu cun l’ale ferite è chì vola piu pianu. Assist
 
 -- Bahá'u'lláh
 
-bpn9419 «[Corsica](../co/prayers/#bpn9419)» 
+bpn9419 
 
 ----
 
@@ -67,7 +68,7 @@ Benedettu hè u locu, a casa è a piazza, a cità è u core, a muntagna è u rip
 
 -- Bahá'u'lláh
 
-bpn9407 «[Corsica](../co/prayers/#bpn9407)» 
+bpn9407 
 
 ----
 
@@ -81,7 +82,7 @@ U to nome mi guarisce, o tù chì sì lu mio Diu, è u to ricordu quellu chì mi
 
 -- Bahá'u'lláh
 
-bpn9420 «[Corsica](../co/prayers/#bpn9420)» 
+bpn9420 
 
 ----
 
@@ -91,7 +92,7 @@ O Diu, tù chì sì lu mio Diu, per mezu di u to mare di guarigione, per mezu di
 
 -- Bahá'u'lláh
 
-bpn9421 «[Corsica](../co/prayers/#bpn9421)» 
+bpn9421 
 
 ----
 
@@ -105,7 +106,7 @@ Mi sò svegliatu ind’u to riparu, o tù chì sì lu mio Diu, è cunvene à ch�
 
 -- Bahá'u'lláh
 
-bpn9411 «[Corsica](../co/prayers/#bpn9411)» 
+bpn9411 
 
 ----
 
@@ -119,7 +120,7 @@ O tù lu mio Diu, testimunieghju chè tù m’hai creatu per cunnòsceti è adur
 
 -- Bahá'u'lláh
 
-bpn9408 «[Corsica](../co/prayers/#bpn9408)» 
+bpn9408 
 
 ----
 
@@ -133,7 +134,7 @@ O tù chì sì u mio Signore, fà sì chì quelli chì còllanu ver di tè tròv
 
 -- Bahá'u'lláh
 
-bpn9422 «[Corsica](../co/prayers/#bpn9422)» 
+bpn9422 
 
 ----
 
@@ -143,7 +144,7 @@ O tù chì sì lu mio Diu, tù chì perdoni i peccati, sparghji i favori è canc
 
 -- Bahá'u'lláh
 
-bpn9423 «[Corsica](../co/prayers/#bpn9423)» 
+bpn9423 
 
 ----
 
@@ -157,7 +158,7 @@ Metti in mè un core puru, o tù lu mio Diu è raccendi in mè una cuscenza appa
 
 -- Bahá'u'lláh
 
-bpn9412 «[Corsica](../co/prayers/#bpn9412)» 
+bpn9412 
 
 ----
 
@@ -171,7 +172,7 @@ O tù lu mio Diu, o tù lu mio Diu, unisci i cori di i to servitori è impàrali
 
 -- Bahá'u'lláh
 
-bpn9409 «[Corsica](../co/prayers/#bpn9409)» 
+bpn9409 
 
 ----
 
@@ -181,7 +182,7 @@ O tù, Signore di buntà, hai creatu tutta l’umanità da u solu è stessu cepp
 
 -- Bahá'u'lláh
 
-bpn9410 «[Corsica](../co/prayers/#bpn9410)» 
+bpn9410 
 
 ----
 
@@ -195,7 +196,7 @@ O tù chì sì lu mio Diu, cundùcimi, prutègimi, allumina a làmpana di u mio 
 
 -- Bahá'u'lláh
 
-bpn9413 «[Corsica](../co/prayers/#bpn9413)» 
+bpn9413 
 
 ----
 
@@ -205,7 +206,7 @@ O Diu, alleva issu bambinu in grembiu à tu to amore è nutrìscilu cù u latte 
 
 -- Bahá'u'lláh
 
-bpn9414 «[Corsica](../co/prayers/#bpn9414)» 
+bpn9414 
 
 ----
 
@@ -215,7 +216,7 @@ O Diu, insegna sti zitelli. Sò e piante di u to ortu, i fiori di u to pratu, e 
 
 -- Bahá'u'lláh
 
-bpn9415 «[Corsica](../co/prayers/#bpn9415)» 
+bpn9415 
 
 ----
 
@@ -225,7 +226,7 @@ O Diu, fa splende issu giòvanu è sia generosu ver di sta criaturella Accòrdal
 
 -- Bahá'u'lláh
 
-bpn9416 «[Corsica](../co/prayers/#bpn9416)» 
+bpn9416 
 
 ----
 

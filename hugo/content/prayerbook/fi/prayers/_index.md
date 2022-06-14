@@ -5,6 +5,7 @@ tags = ['lang=fi', 'prayerbook']
 
 
 
+
 [Aamu](#Aamu)
 
 [Anteeksianto](#Anteeksianto)
@@ -97,7 +98,7 @@ Olen herännyt Sinun suojassasi, oi Jumalani, ja sen, joka tuota suojaa etsii, t
 
 -- Bahá'u'lláh
 
-bpn7487 «[Suomi](../fi/prayers/#bpn7487)» 
+bpn7487 
 
 ----
 
@@ -107,7 +108,7 @@ Oi Jumalani ja Mestarini! Olen palvelijasi ja palvelijasi poika. Olen noussut vu
 
 -- Bahá'u'lláh
 
-bpn7489 «[Suomi](../fi/prayers/#bpn7489)» 
+bpn7489 
 
 ----
 
@@ -117,7 +118,7 @@ Sinun armostasi olen noussut tänä aamuna, oi Jumalani, ja lähtenyt kotoani t�
 
 -- Bahá'u'lláh
 
-bpn7488 «[Suomi](../fi/prayers/#bpn7488)» 
+bpn7488 
 
 ----
 
@@ -131,7 +132,7 @@ Minä olen se, oi Herrani, joka on kääntänyt kasvonsa Sinua kohti ja kiinnitt
 
 -- Bahá'u'lláh
 
-bpn7490 «[Suomi](../fi/prayers/#bpn7490)» 
+bpn7490 
 
 ----
 
@@ -141,7 +142,7 @@ Ylistetty olet Sinä, oi Herra minun Jumalani! Rukoilen Sinua valittujesi ja usk
 
 -- Bahá'u'lláh
 
-bpn7491 «[Suomi](../fi/prayers/#bpn7491)» 
+bpn7491 
 
 ----
 
@@ -151,7 +152,7 @@ Ylistetty olkoon nimesi, oi Herra minun Jumalani! Rukoilen Sinua valtasi kautta,
 
 -- Bahá'u'lláh
 
-bpn7492 «[Suomi](../fi/prayers/#bpn7492)» 
+bpn7492 
 
 ----
 
@@ -161,7 +162,7 @@ Rukoilen Sinua suomaan minulle anteeksi, oi Herrani, jokaisen maininnan paitsi S
 
 -- Báb
 
-bpn7493 «[Suomi](../fi/prayers/#bpn7493)» 
+bpn7493 
 
 ----
 
@@ -171,7 +172,7 @@ Ylistys olkoon Sinun, oi Herrani! Suo meille anteeksi syntimme, ole meille armol
 
 -- Báb
 
-bpn7494 «[Suomi](../fi/prayers/#bpn7494)» 
+bpn7494 
 
 ----
 
@@ -181,7 +182,7 @@ Olen tietoinen siitä, oi Herra, että syntini ovat peittäneet kasvoni häpeä�
 
 -- Báb
 
-bpn7495 «[Suomi](../fi/prayers/#bpn7495)» 
+bpn7495 
 
 ----
 
@@ -191,7 +192,7 @@ Oi Jumalani! Anna anteliaisuutesi ja siunaustesi vuodatusten virrata tyköäsi, 
 
 -- Báb
 
-bpn7496 «[Suomi](../fi/prayers/#bpn7496)» 
+bpn7496 
 
 ----
 
@@ -201,7 +202,7 @@ Oi sinä anteeksi antava Herra! Sinä olet kaikkien näiden palvelijoittesi turv
 
 -- Abdu'l-Bahá
 
-bpn7497 «[Suomi](../fi/prayers/#bpn7497)» 
+bpn7497 
 
 ----
 
@@ -211,7 +212,7 @@ Oi Jumalani! Oi Jumalani! Totisesti rukoilen Sinua ja kynnykselläsi anon nöyr�
 
 -- Abdu'l-Bahá
 
-bpn7498 «[Suomi](../fi/prayers/#bpn7498)» 
+bpn7498 
 
 ----
 
@@ -225,7 +226,7 @@ Kunnia Sinulle, oi Jumalani! Yksi palvelijattaristasi, joka on uskonut Sinuun ja
 
 -- Bahá'u'lláh
 
-bpn7499 «[Suomi](../fi/prayers/#bpn7499)» 
+bpn7499 
 
 ----
 
@@ -235,7 +236,7 @@ Kiitetty olkoon Sinun nimesi, oi Herra minun Jumalani! Pyydän Sinulta hartaasti
 
 -- Bahá'u'lláh
 
-bpn7501 «[Suomi](../fi/prayers/#bpn7501)» 
+bpn7501 
 
 ----
 
@@ -245,7 +246,7 @@ Ylistetty olet Sinä, oi Herra, minun Jumalani! Vetoan Sinuun armosi myrskyisten
 
 -- Bahá'u'lláh
 
-bpn7502 «[Suomi](../fi/prayers/#bpn7502)» 
+bpn7502 
 
 ----
 
@@ -255,7 +256,7 @@ Jumalani, jota palvon ja rakastan! Todistan Sinun ykseydestäsi ja ainoudestasi 
 
 -- Bahá'u'lláh
 
-bpn7503 «[Suomi](../fi/prayers/#bpn7503)» 
+bpn7503 
 
 ----
 
@@ -265,7 +266,7 @@ Oi Jumala, joka olet kaikkien ilmaisijoiden luoja, kaikkien lähteiden lähde, k
 
 -- Bahá'u'lláh
 
-bpn7504 «[Suomi](../fi/prayers/#bpn7504)» 
+bpn7504 
 
 ----
 
@@ -275,7 +276,7 @@ Kunnia olkoon Sinulle, oi Herra, minun Jumalani! Älä alenna sitä, jonka ianka
 
 -- Bahá'u'lláh
 
-bpn7505 «[Suomi](../fi/prayers/#bpn7505)» 
+bpn7505 
 
 ----
 
@@ -285,7 +286,7 @@ Oi Jumala, minun Jumalani! Anon Sinulta parannuksesi valtameren ja armosi Päiv�
 
 -- Bahá'u'lláh
 
-bpn7500 «[Suomi](../fi/prayers/#bpn7500)» 
+bpn7500 
 
 ----
 
@@ -295,7 +296,7 @@ Herra! Säälittäviä me olemme, suo meille suosiosi, köyhiä, anna meille osu
 
 -- Abdu'l-Bahá
 
-bpn7506 «[Suomi](../fi/prayers/#bpn7506)» 
+bpn7506 
 
 ----
 
@@ -305,7 +306,7 @@ Oi sääliväinen Jumala! Kiitos olkoon Sinun, että olet herättänyt minut ja 
 
 -- Abdu'l-Bahá
 
-bpn7507 «[Suomi](../fi/prayers/#bpn7507)» 
+bpn7507 
 
 ----
 
@@ -315,7 +316,7 @@ Oi Herra, minun Jumalani ja turvani hädässä! Kilpeni ja suojani vaikeuksissan
 
 -- Abdu'l-Bahá
 
-bpn7508 «[Suomi](../fi/prayers/#bpn7508)» 
+bpn7508 
 
 ----
 
@@ -329,7 +330,7 @@ Kunnia olkoon Sinulle, oi Jumalani! Rukoilen Sinua nimesi, Kaikkein armeliaimman
 
 -- Bahá'u'lláh
 
-bpn7509 «[Suomi](../fi/prayers/#bpn7509)» 
+bpn7509 
 
 ----
 
@@ -339,7 +340,7 @@ Kunnia olkoon Sinun, oi maailman Herra ja kansakuntain Kaivattu, oi Sinä, joka 
 
 -- Bahá'u'lláh
 
-bpn7510 «[Suomi](../fi/prayers/#bpn7510)» 
+bpn7510 
 
 ----
 
@@ -349,7 +350,7 @@ Ylistetty ja kunnioitettu olet Sinä, oi Jumala! Suo, että Sinun pyhän läheis
 
 -- Báb
 
-bpn7511 «[Suomi](../fi/prayers/#bpn7511)» 
+bpn7511 
 
 ----
 
@@ -359,7 +360,7 @@ Oi Herra! Tee kaikki maailman kansat kykeneviksi pääsemään Sinun uskosi para
 
 -- Báb
 
-bpn7512 «[Suomi](../fi/prayers/#bpn7512)» 
+bpn7512 
 
 ----
 
@@ -369,7 +370,7 @@ Hän on Jumala!Oi Herra, minun Jumalani, Rakastettuni! Nämä ovat palvelijoitas
 
 -- Abdu'l-Bahá
 
-bpn7513 «[Suomi](../fi/prayers/#bpn7513)» 
+bpn7513 
 
 ----
 
@@ -379,7 +380,7 @@ Oi Sinä hyvä Herra! Nämä ovat palvelijoitasi, jotka ovat tulleet yhteen täh
 
 -- Abdu'l-Bahá
 
-bpn7538 «[Suomi](../fi/prayers/#bpn7538)» 
+bpn7538 
 
 ----
 
@@ -393,7 +394,7 @@ Oi Jumalani! Oi Jumalani! Yhdistä palvelijoittesi sydämet ja paljasta heille s
 
 -- Bahá'u'lláh
 
-bpn7514 «[Suomi](../fi/prayers/#bpn7514)» 
+bpn7514 
 
 ----
 
@@ -403,7 +404,7 @@ Oi Jumalani, Herrani ja Mestarini! Olen irrottautunut sukulaisistani ja Sinun ka
 
 -- Báb
 
-bpn7515 «[Suomi](../fi/prayers/#bpn7515)» 
+bpn7515 
 
 ----
 
@@ -413,7 +414,7 @@ Ylistetty olkoon nimesi, oi Herra meidän Jumalamme! Sinä olet toden totta näk
 
 -- Báb
 
-bpn7516 «[Suomi](../fi/prayers/#bpn7516)» 
+bpn7516 
 
 ----
 
@@ -423,7 +424,7 @@ bpn7516 «[Suomi](../fi/prayers/#bpn7516)»
 
 -- Abdu'l-Bahá
 
-bpn7517 «[Suomi](../fi/prayers/#bpn7517)» 
+bpn7517 
 
 ----
 
@@ -433,17 +434,17 @@ Oi Sinä verraton Jumala! Oi Sinä valtakunnan Herra! Nämä sielut ovat Sinun t
 
 -- Abdu'l-Bahá
 
-bpn7518 «[Suomi](../fi/prayers/#bpn7518)» 
+bpn7518 
 
 ----
 
 
 <a id="bpn7519"></a> 
-Seuraavaa rukousta opettajien ja ystävien on tarkoitus lukea päivittäin:Oi Sinä hyvä Herra! Ylistys olkoon Sinulle, että olet näyttänyt meille ohjauksen valtatien, avannut valtakuntasi ovet ja ilmaissut itsesi Todellisuuden auringon kautta. Sokeille olet antanut näön, kuuroille olet suonut kuulon, olet herättänyt kuolleet henkiin, olet rikastuttanut köyhät, olet näyttänyt tien niille, jotka ovat kulkeneet harhaan, olet johdattanut ohjauksen lähteelle ne, jotka ovat nääntymäisillään janoon, olet sallinut janoisten kalojen päästä todellisuuden merelle ja olet kutsunut harhailevat linnut armon ruusutarhaan.Oi Sinä Kaikkivaltias! Olemme palvelijoitasi  ja Sinun köyhiäsi, olemme etäällä ja ikävöimme läheisyyttäsi, janoamme vettä lähteestäsi, olemme sairaita ja kaipaamme parannustasi. Kuljemme polkuasi, eikä meillä ole muuta päämäärää tai toivetta paitsi sulotuoksujesi levittäminen, niin että kaikki sielut voisivat kohottaa huudon &#34;Oi Jumala, ohjaa meidät suoralle polulle.&#34; Avautukoot heidän silmänsä näkemään valon, ja vapautukoot he tietämättömyyden pimeydestä. Kokoontukoot he ohjauksesi valon ympärille. Saakoon jokainen osaton osuutensa. Tulkoot köyhät salaisuuksiesi uskotuiksi.Oi Kaikkivaltias! Katso meitä armeliain silmin. Anna meille taivaallista vahvistusta. Suo meille pyhän hengen henkäys, niin että saisimme apua palveluksessasi ja loistaisimme kirkkaiden tähtien tavoin näillä seuduilla ohjauksesi valoa.Totisesti Sinä olet Voimallinen, Mahtava, Viisas ja Näkevä.
+Seuraavaa rukousta opettajien ja ystävien on tarkoitus lukea päivittäin:Oi Sinä hyvä Herra! Ylistys olkoon Sinulle, että olet näyttänyt meille ohjauksen valtatien, avannut valtakuntasi ovet ja ilmaissut itsesi Todellisuuden auringon kautta. Sokeille olet antanut näön, kuuroille olet suonut kuulon, olet herättänyt kuolleet henkiin, olet rikastuttanut köyhät, olet näyttänyt tien niille, jotka ovat kulkeneet harhaan, olet johdattanut ohjauksen lähteelle ne, jotka ovat nääntymäisillään janoon, olet sallinut janoisten kalojen päästä todellisuuden merelle ja olet kutsunut harhailevat linnut armon ruusutarhaan.Oi Sinä Kaikkivaltias! Olemme palvelijoitasi  ja Sinun köyhiäsi, olemme etäällä ja ikävöimme läheisyyttäsi, janoamme vettä lähteestäsi, olemme sairaita ja kaipaamme parannustasi. Kuljemme polkuasi, eikä meillä ole muuta päämäärää tai toivetta paitsi sulotuoksujesi levittäminen, niin että kaikki sielut voisivat kohottaa huudon "Oi Jumala, ohjaa meidät suoralle polulle." Avautukoot heidän silmänsä näkemään valon, ja vapautukoot he tietämättömyyden pimeydestä. Kokoontukoot he ohjauksesi valon ympärille. Saakoon jokainen osaton osuutensa. Tulkoot köyhät salaisuuksiesi uskotuiksi.Oi Kaikkivaltias! Katso meitä armeliain silmin. Anna meille taivaallista vahvistusta. Suo meille pyhän hengen henkäys, niin että saisimme apua palveluksessasi ja loistaisimme kirkkaiden tähtien tavoin näillä seuduilla ohjauksesi valoa.Totisesti Sinä olet Voimallinen, Mahtava, Viisas ja Näkevä.
 
 -- Abdu'l-Bahá
 
-bpn7519 «[Suomi](../fi/prayers/#bpn7519)» 
+bpn7519 
 
 ----
 
@@ -453,7 +454,7 @@ Ken matkustaa eri puolille opettamaan, lukekoon vuorilla, autiomaassa, maalla ja
 
 -- Abdu'l-Bahá
 
-bpn7520 «[Suomi](../fi/prayers/#bpn7520)» 
+bpn7520 
 
 ----
 
@@ -463,7 +464,7 @@ bpn7520 «[Suomi](../fi/prayers/#bpn7520)»
 
 -- Abdu'l-Bahá
 
-bpn7521 «[Suomi](../fi/prayers/#bpn7521)» 
+bpn7521 
 
 ----
 
@@ -473,7 +474,7 @@ Oi Sinä armollinen Jumala! Oi Sinä, joka olet mahtava ja voimakas! Oi Sinä ka
 
 -- Abdu'l-Bahá
 
-bpn7522 «[Suomi](../fi/prayers/#bpn7522)» 
+bpn7522 
 
 ----
 
@@ -483,11 +484,11 @@ bpn7522 «[Suomi](../fi/prayers/#bpn7522)»
 ## Avioliitto
 
 <a id="bpn7599"></a> 
-*Bahá&#39;í-avioliitto on kahden osapuolen sitoutumista toinen toiselleen ja heidän mielensä ja sydämensä yhteistä kiintymystä. Kummankin tulee kuitenkin äärimmäisen huolellisesti tutustua perin pohjin toisen luonteeseen, jotta heidän välinen sitova liitto olisi side, joka kestää ikuisesti. Heidän tarkoituksensa tulisi olla tämä: tulla rakastaviksi tovereiksi ja kumppaneiksi, jotka ovat yhtä toistensa kanssa ajassa ja ikuisuudessa.*‘Abdu’l-Bahá*(Morsiamen ja sulhasen on kummankin erikseen vähintään kahden henkiselle neuvostolle kelvollisen todistajan läsnäollessa lausuttava avioliittolupauksena lausuttava Kitáb-i-Aqdasissa, Kaikkein pyhimmässä kirjassa, annettu säe: &#34;Me kaikki totisesti alistumme Jumalan tahtoon.&#34;)Hän on Lahjoittaja, Antelias!Ylistys olkoon Jumalalle, Ikiaikaiselle, Ikiolevaiselle, Muuttumattomalle, Ikuiselle, Hänelle, joka omalla olemuksellansa on todistanut, että totisesti Hän on Yksi, Ainoa, Kahlehtimaton, Ylevä! Me todistamme, että totisesti ei ole muuta Jumalaa kuin Hän, tunnustamme Hänen ykseytensä, myönnämme Hänen ainoutensa. Hän on aina ollut saavuttamattomissa korkeuksissa, ylevyytensä huipulla, pyhitettynä kenenkään muun maininnalta paitsi omaltaan ja vapaana kenenkään muun kuvailemisesta paitsi omastaan. Kun Hän halusi osoittaa armoansa ja hyvyyttänsä ihmiselle ja saattaa maailman järjestykseen, Hän ilmaisi sääntöjä ja loi lakeja, niiden joukossa avioliittolain. Hän teki siitä hyvinvoinnin ja pelastuksen linnoituksen ja määräsi sen meille  siinä, mikä pyhyyden taivaasta lähetettiin Hänen pyhimmässä kirjassansa. Hän ¬ suuri on Hänen kunniansa ¬ sanoo: &#34;Avioitukaa, oi ihmiset, jotta teistä syntyisi se, joka palvelijoitteni joukossa Minua muistelee. Tämä on yksi teille antamistani käskyistä, noudattakaa sitä omaksi parhaaksenne.&#34;
+*Bahá'í-avioliitto on kahden osapuolen sitoutumista toinen toiselleen ja heidän mielensä ja sydämensä yhteistä kiintymystä. Kummankin tulee kuitenkin äärimmäisen huolellisesti tutustua perin pohjin toisen luonteeseen, jotta heidän välinen sitova liitto olisi side, joka kestää ikuisesti. Heidän tarkoituksensa tulisi olla tämä: tulla rakastaviksi tovereiksi ja kumppaneiksi, jotka ovat yhtä toistensa kanssa ajassa ja ikuisuudessa.*‘Abdu’l-Bahá*(Morsiamen ja sulhasen on kummankin erikseen vähintään kahden henkiselle neuvostolle kelvollisen todistajan läsnäollessa lausuttava avioliittolupauksena lausuttava Kitáb-i-Aqdasissa, Kaikkein pyhimmässä kirjassa, annettu säe: "Me kaikki totisesti alistumme Jumalan tahtoon.")Hän on Lahjoittaja, Antelias!Ylistys olkoon Jumalalle, Ikiaikaiselle, Ikiolevaiselle, Muuttumattomalle, Ikuiselle, Hänelle, joka omalla olemuksellansa on todistanut, että totisesti Hän on Yksi, Ainoa, Kahlehtimaton, Ylevä! Me todistamme, että totisesti ei ole muuta Jumalaa kuin Hän, tunnustamme Hänen ykseytensä, myönnämme Hänen ainoutensa. Hän on aina ollut saavuttamattomissa korkeuksissa, ylevyytensä huipulla, pyhitettynä kenenkään muun maininnalta paitsi omaltaan ja vapaana kenenkään muun kuvailemisesta paitsi omastaan. Kun Hän halusi osoittaa armoansa ja hyvyyttänsä ihmiselle ja saattaa maailman järjestykseen, Hän ilmaisi sääntöjä ja loi lakeja, niiden joukossa avioliittolain. Hän teki siitä hyvinvoinnin ja pelastuksen linnoituksen ja määräsi sen meille  siinä, mikä pyhyyden taivaasta lähetettiin Hänen pyhimmässä kirjassansa. Hän ¬ suuri on Hänen kunniansa ¬ sanoo: "Avioitukaa, oi ihmiset, jotta teistä syntyisi se, joka palvelijoitteni joukossa Minua muistelee. Tämä on yksi teille antamistani käskyistä, noudattakaa sitä omaksi parhaaksenne."
 
 -- Bahá'u'lláh
 
-bpn7599 «[Suomi](../fi/prayers/#bpn7599)» 
+bpn7599 
 
 ----
 
@@ -497,7 +498,7 @@ Oi Herrani, oi Herrani! Nämä kaksi kirkasta taivaankappaletta vihitään Sinun
 
 -- Abdu'l-Bahá
 
-bpn7602 «[Suomi](../fi/prayers/#bpn7602)» 
+bpn7602 
 
 ----
 
@@ -507,17 +508,17 @@ Kunnia olkoon Sinulle, oi Jumalani! Totisesti tämä Sinun palvelijasi ja tämä
 
 -- Abdu'l-Bahá
 
-bpn7600 «[Suomi](../fi/prayers/#bpn7600)» 
+bpn7600 
 
 ----
 
 
 <a id="bpn7601"></a> 
-Hän on Jumala! Oi verraton Herra! Kaikkivaltiaassa viisaudessasi olet määrännyt kansoille  avioliiton, jotta ihmisten sukupolvet seuraisivat toisiaan tässä ehdonalaisessa maailmassa ja jotta he aina, niin kauan kuin maailma kestää, ahkeroisivat Sinun ykseytesi kynnyksellä palvellen ja rukoillen, kunnioittaen, palvoen ja ylistäen. &#34;Olen luonut henget ja ihmiset, jotta he palvoisivat Minua.&#34;  Liitä siis armeliaisuutesi taivaassa yhteen nämä kaksi Sinun rakkautesi pesän lintua ja tee heistä loputonta armoa puoleensa vetäviä välikappaleita, jotta näiden kahden rakkauden meren yhtymisestä hyrskyäisi hellyyden aalto ja heittäisi puhtaan ja oivallisen jälkeläisen helmet elämän rannalle. &#34;Hän on päästänyt valloilleen nämä kaksi merta kohtaamaan toisensa. Niiden välillä on este, jota ne eivät voi ylittää. Minkä Herrasi lahjoista siis kiellät? Kummastakin Hän nostaa esiin  sekä suurempia että pienempiä helmiä.&#34;  Oi Sinä hyvä Jumala! Anna tämän avioliiton synnyttää koralleja ja helmiä. Sinä olet totisesti Kaikkivoimainen, Kaikkein korkein, Aina anteeksi antava.
+Hän on Jumala! Oi verraton Herra! Kaikkivaltiaassa viisaudessasi olet määrännyt kansoille  avioliiton, jotta ihmisten sukupolvet seuraisivat toisiaan tässä ehdonalaisessa maailmassa ja jotta he aina, niin kauan kuin maailma kestää, ahkeroisivat Sinun ykseytesi kynnyksellä palvellen ja rukoillen, kunnioittaen, palvoen ja ylistäen. "Olen luonut henget ja ihmiset, jotta he palvoisivat Minua."  Liitä siis armeliaisuutesi taivaassa yhteen nämä kaksi Sinun rakkautesi pesän lintua ja tee heistä loputonta armoa puoleensa vetäviä välikappaleita, jotta näiden kahden rakkauden meren yhtymisestä hyrskyäisi hellyyden aalto ja heittäisi puhtaan ja oivallisen jälkeläisen helmet elämän rannalle. "Hän on päästänyt valloilleen nämä kaksi merta kohtaamaan toisensa. Niiden välillä on este, jota ne eivät voi ylittää. Minkä Herrasi lahjoista siis kiellät? Kummastakin Hän nostaa esiin  sekä suurempia että pienempiä helmiä."  Oi Sinä hyvä Jumala! Anna tämän avioliiton synnyttää koralleja ja helmiä. Sinä olet totisesti Kaikkivoimainen, Kaikkein korkein, Aina anteeksi antava.
 
 -- Abdu'l-Bahá
 
-bpn7601 «[Suomi](../fi/prayers/#bpn7601)» 
+bpn7601 
 
 ----
 
@@ -531,7 +532,7 @@ Oi Jumala, minun Jumalani! Pyydän Sinua hartaasti tosi rakastajiesi veren kautt
 
 -- Bahá'u'lláh
 
-bpn7523 «[Suomi](../fi/prayers/#bpn7523)» 
+bpn7523 
 
 ----
 
@@ -541,7 +542,7 @@ Oi Herra! Tässä kaikkein ylhäisimmässä uskontojärjestelmässä Sinä hyvä
 
 -- Abdu'l-Bahá
 
-bpn7524 «[Suomi](../fi/prayers/#bpn7524)» 
+bpn7524 
 
 ----
 
@@ -551,7 +552,7 @@ Oi Jumala, minun Jumalani! Tämä palvelijattaresi kutsuu Sinua luottaen Sinuun,
 
 -- Abdu'l-Bahá
 
-bpn7525 «[Suomi](../fi/prayers/#bpn7525)» 
+bpn7525 
 
 ----
 
@@ -561,7 +562,7 @@ Herrani! Herrani! Minä ylistän Sinua ja kiitän Sinua siitä, millä olet suos
 
 -- Abdu'l-Bahá
 
-bpn7526 «[Suomi](../fi/prayers/#bpn7526)» 
+bpn7526 
 
 ----
 
@@ -571,11 +572,11 @@ bpn7526 «[Suomi](../fi/prayers/#bpn7526)»
 ## Aḥmadin muistio
 
 <a id="bpn7592"></a> 
-*... päivittäiset velvollisuusrukoukset sekä muutamat muut erityisrukoukset, kuten Parannusrukous ja Aḥmadin muistio, on Bahá&#39;u&#39;lláh varustanut aivan erityisellä voimalla ja merkityksellä. Uskovien tulisi sen vuoksi hyväksyä ne sellaisinaan ja empimättä lausua ne uskoen ja luottaen, että niiden kautta he voivat päästä paljon läheisempään yhteyteen Jumalan kanssa ja samastua entistä täydellisemmin Hänen lakeihinsa ja määräyksiinsä.*Shoghi EffendiHän on Kuningas, Kaikkitietävä, Viisas!Katso, Paratiisin satakieli laulaa ikuisuuden puun oksilla pyhin ja suloisin sävelmin julistaen vilpittömille ilosanomaa Jumalan läheisyydestä, kutsuen jumalalliseen ykseyteen uskovia Jalomielisen  läsnäolon esikartanoon, tiedottaen irrottautuneille Jumalan, Kuninkaan, Loistavan, Verrattoman ilmaiseman sanoman ja johtaen rakastavat pyhyyden istuimen ja tämän säteilevän Kauneuden luo.Totisesti tämä on se Kaikkein suurin kauneus, josta sanansaattajain kirjoissa on ennustettu, jonka kautta totuus erotetaan erheestä ja jokaisen käskyn viisaus koetellaan. Totisesti Hän on Elämän puu, joka kantaa Jumalan, Ylevän, Voimallisen, Suuren, hedelmiä.Oi Aḥmad! Todista, että Hän totisesti on Jumala ja että ei ole muuta Jumalaa kuin Hän, Kuningas, Varjelija, Verraton, Kaikkivoipa, ja että se, jonka Hän on lähettänyt ja jonka nimi on `Alí  oli todella Jumalasta, jonka käskyihin me kaikki mukaudumme.Sano: Oi ihmiset, olkaa kuuliaisia Jumalan käskyille, jotka Loistava, Viisas  on Bayánissa antanut. Totisesti Hän on Sanansaattajain kuningas ja Hänen kirjansa on äitikirja, jospa vain tietäisitte.Näin Satakieli ilmoittaa teille kutsunsa tästä vankilasta. Hänellä on vain tämä selvä sanoma annettavana. Ken haluaa, kääntyköön pois tästä neuvosta, ja ken haluaa, valitkoon Herransa luo johtavan polun.Oi ihmiset, jos kiellätte nämä säkeet, millä perusteella olette uskoneet Jumalaan? Esittäkää se, oi vilpillisten joukko.Ei, Hänen nimeensä, jonka käsissä sieluni on, he eivät pysty eivätkä koskaan pystykään sitä tekemään, vaikka liittyisivät yhteen toisiaan auttamaan.Oi Aḥmad, älä unohda anteliaisuuttani, kun olen poissa. Muista Minun päiviäni omien päiviesi aikana ja tuskaani ja karkotustani tässä kaukaisessa vankilassa, ja ole niin luja rakkaudessasi Minuun, että sydämesi ei epäröi, vaikka vihollisten miekkojen iskut sataisivat  päällesi ja kaikki taivaat ja maa nousisivat sinua vastaan.Ole kuin tulenliekki vihollisilleni ja kuin ikuisen elämän virta rakastetuilleni äläkä ole niitä, jotka epäilevät.Ja jos kärsimys kohtaa sinut Minun polullani tai tulet häväistyksi Minun vuokseni, älä sitä murehdi.Luota Jumalaan, sinun Jumalaasi ja isiesi Herraan. Sillä ihmiset vaeltavat harhaluulojen teillä ja ovat menettäneet kykynsä nähdä Jumala omin silmin tai kuulla Hänen sävelmänsä omin korvin. Sellaisina olemme heidät tavannut, kuten sinäkin havaitset.Näin ovat heidän taikauskomuksensa tulleet verhoiksi heidän ja heidän oman sydämensä väliin ja pitäneet heidät pois Jumalan, Ylevän, Suuren, polulta. Ole varma siitä, että totisesti se, joka kääntyy pois tästä Kauneudesta, on myös kääntynyt pois menneistä sanansaattajista ja ylpeilee Jumalan edessä  ikuisuudesta ikuisuuteen.Opettele hyvin tämä muistio, oi Aḥmad. Laula sitä elinaikanasi äläkä epää sitä itseltäsi, sillä totisesti Jumala on säätänyt sille, joka sitä laulaa, sadan marttyyrin palkkion sekä palvelun molemmissa maailmoissa. Nämä suopeuden osoitukset Me olemme suonut sinulle anteliaisuuden osoituksena puoleltamme ja armeliaisuutena tyköämme, että kuuluisit niihin, jotka ovat kiitollisia.Jumalan nimeen! Jos joku, joka on tuskainen tai murheinen, lukee tämän muistion ehdottoman vilpittömästi, Jumala karkottaa hänen surunsa, selvittää hänen vaikeutensa ja poistaa hänen tuskansa.Totisesti Hän on Armelias, Sääliväinen! Ylistys olkoon Jumalalle, kaikkien maailmojen Herralle!
+*... päivittäiset velvollisuusrukoukset sekä muutamat muut erityisrukoukset, kuten Parannusrukous ja Aḥmadin muistio, on Bahá'u'lláh varustanut aivan erityisellä voimalla ja merkityksellä. Uskovien tulisi sen vuoksi hyväksyä ne sellaisinaan ja empimättä lausua ne uskoen ja luottaen, että niiden kautta he voivat päästä paljon läheisempään yhteyteen Jumalan kanssa ja samastua entistä täydellisemmin Hänen lakeihinsa ja määräyksiinsä.*Shoghi EffendiHän on Kuningas, Kaikkitietävä, Viisas!Katso, Paratiisin satakieli laulaa ikuisuuden puun oksilla pyhin ja suloisin sävelmin julistaen vilpittömille ilosanomaa Jumalan läheisyydestä, kutsuen jumalalliseen ykseyteen uskovia Jalomielisen  läsnäolon esikartanoon, tiedottaen irrottautuneille Jumalan, Kuninkaan, Loistavan, Verrattoman ilmaiseman sanoman ja johtaen rakastavat pyhyyden istuimen ja tämän säteilevän Kauneuden luo.Totisesti tämä on se Kaikkein suurin kauneus, josta sanansaattajain kirjoissa on ennustettu, jonka kautta totuus erotetaan erheestä ja jokaisen käskyn viisaus koetellaan. Totisesti Hän on Elämän puu, joka kantaa Jumalan, Ylevän, Voimallisen, Suuren, hedelmiä.Oi Aḥmad! Todista, että Hän totisesti on Jumala ja että ei ole muuta Jumalaa kuin Hän, Kuningas, Varjelija, Verraton, Kaikkivoipa, ja että se, jonka Hän on lähettänyt ja jonka nimi on `Alí  oli todella Jumalasta, jonka käskyihin me kaikki mukaudumme.Sano: Oi ihmiset, olkaa kuuliaisia Jumalan käskyille, jotka Loistava, Viisas  on Bayánissa antanut. Totisesti Hän on Sanansaattajain kuningas ja Hänen kirjansa on äitikirja, jospa vain tietäisitte.Näin Satakieli ilmoittaa teille kutsunsa tästä vankilasta. Hänellä on vain tämä selvä sanoma annettavana. Ken haluaa, kääntyköön pois tästä neuvosta, ja ken haluaa, valitkoon Herransa luo johtavan polun.Oi ihmiset, jos kiellätte nämä säkeet, millä perusteella olette uskoneet Jumalaan? Esittäkää se, oi vilpillisten joukko.Ei, Hänen nimeensä, jonka käsissä sieluni on, he eivät pysty eivätkä koskaan pystykään sitä tekemään, vaikka liittyisivät yhteen toisiaan auttamaan.Oi Aḥmad, älä unohda anteliaisuuttani, kun olen poissa. Muista Minun päiviäni omien päiviesi aikana ja tuskaani ja karkotustani tässä kaukaisessa vankilassa, ja ole niin luja rakkaudessasi Minuun, että sydämesi ei epäröi, vaikka vihollisten miekkojen iskut sataisivat  päällesi ja kaikki taivaat ja maa nousisivat sinua vastaan.Ole kuin tulenliekki vihollisilleni ja kuin ikuisen elämän virta rakastetuilleni äläkä ole niitä, jotka epäilevät.Ja jos kärsimys kohtaa sinut Minun polullani tai tulet häväistyksi Minun vuokseni, älä sitä murehdi.Luota Jumalaan, sinun Jumalaasi ja isiesi Herraan. Sillä ihmiset vaeltavat harhaluulojen teillä ja ovat menettäneet kykynsä nähdä Jumala omin silmin tai kuulla Hänen sävelmänsä omin korvin. Sellaisina olemme heidät tavannut, kuten sinäkin havaitset.Näin ovat heidän taikauskomuksensa tulleet verhoiksi heidän ja heidän oman sydämensä väliin ja pitäneet heidät pois Jumalan, Ylevän, Suuren, polulta. Ole varma siitä, että totisesti se, joka kääntyy pois tästä Kauneudesta, on myös kääntynyt pois menneistä sanansaattajista ja ylpeilee Jumalan edessä  ikuisuudesta ikuisuuteen.Opettele hyvin tämä muistio, oi Aḥmad. Laula sitä elinaikanasi äläkä epää sitä itseltäsi, sillä totisesti Jumala on säätänyt sille, joka sitä laulaa, sadan marttyyrin palkkion sekä palvelun molemmissa maailmoissa. Nämä suopeuden osoitukset Me olemme suonut sinulle anteliaisuuden osoituksena puoleltamme ja armeliaisuutena tyköämme, että kuuluisit niihin, jotka ovat kiitollisia.Jumalan nimeen! Jos joku, joka on tuskainen tai murheinen, lukee tämän muistion ehdottoman vilpittömästi, Jumala karkottaa hänen surunsa, selvittää hänen vaikeutensa ja poistaa hänen tuskansa.Totisesti Hän on Armelias, Sääliväinen! Ylistys olkoon Jumalalle, kaikkien maailmojen Herralle!
 
 -- Bahá'u'lláh
 
-bpn7592 «[Suomi](../fi/prayers/#bpn7592)» 
+bpn7592 
 
 ----
 
@@ -589,7 +590,7 @@ bpn7592 «[Suomi](../fi/prayers/#bpn7592)»
 
 -- Báb
 
-bpn7591 «[Suomi](../fi/prayers/#bpn7591)» 
+bpn7591 
 
 ----
 
@@ -603,7 +604,7 @@ bpn7591 «[Suomi](../fi/prayers/#bpn7591)»
 
 -- Abdu'l-Bahá
 
-bpn7596 «[Suomi](../fi/prayers/#bpn7596)» 
+bpn7596 
 
 ----
 
@@ -613,7 +614,7 @@ bpn7596 «[Suomi](../fi/prayers/#bpn7596)»
 
 -- Abdu'l-Bahá
 
-bpn7597 «[Suomi](../fi/prayers/#bpn7597)» 
+bpn7597 
 
 ----
 
@@ -627,7 +628,7 @@ Ikuisuutesi sulotuoksuisista virroista anna minun juoda, oi Jumalani, ja olemass
 
 -- Bahá'u'lláh
 
-bpn7527 «[Suomi](../fi/prayers/#bpn7527)» 
+bpn7527 
 
 ----
 
@@ -637,7 +638,7 @@ Luo minuun puhdas sydän, oi Jumalani, ja uudista omantuntoni rauha, oi Toivoni.
 
 -- Bahá'u'lláh
 
-bpn7528 «[Suomi](../fi/prayers/#bpn7528)» 
+bpn7528 
 
 ----
 
@@ -647,7 +648,7 @@ Oi Herrani! Tee kauneudestasi ravintoni ja läheisyydestäsi juomani ja suosiost
 
 -- Bahá'u'lláh
 
-bpn7529 «[Suomi](../fi/prayers/#bpn7529)» 
+bpn7529 
 
 ----
 
@@ -657,7 +658,7 @@ Sano: “Oi Jumala, minun Jumalani! Kaunista pääni oikeudenmukaisuuden kruunul
 
 -- Bahá'u'lláh
 
-bpn7530 «[Suomi](../fi/prayers/#bpn7530)» 
+bpn7530 
 
 ----
 
@@ -667,7 +668,7 @@ Oi totuuden etsijä! Jos halajat, että Jumala avaa silmäsi, sinun on anottava 
 
 -- Abdu'l-Bahá
 
-bpn7531 «[Suomi](../fi/prayers/#bpn7531)» 
+bpn7531 
 
 ----
 
@@ -677,7 +678,7 @@ Oi Jumala, virvoita ja ilahduta henkeäni. Puhdista sydämeni. Kirkasta kykyni. 
 
 -- Abdu'l-Bahá
 
-bpn7532 «[Suomi](../fi/prayers/#bpn7532)» 
+bpn7532 
 
 ----
 
@@ -687,17 +688,17 @@ Oi Jumala, minun Jumalani! Varjele uskottuja palvelijoitasi itsekkyyden ja intoh
 
 -- Abdu'l-Bahá
 
-bpn7533 «[Suomi](../fi/prayers/#bpn7533)» 
+bpn7533 
 
 ----
 
 
 <a id="bpn7534"></a> 
-Oi Herra, auta rakastettujasi harjaantumaan tiedoissa, tieteissä ja taiteissa sekä paljastamaan ne salaisuudet, jotka on kätketty kaikkien luotujen sisimpään todellisuuteen. Saa heidät oppimaan ne piilevät totuudet, jotka on kirjoitettu ja upotettu kaiken olevaisen ytimeen. Tee heistä johdatuksen tunnusmerkkejä luotujesi keskuudessa, läpitunkevia mielen säteitä, jotka loistavat valoansa tässä &#34;ensimmäisessä elämässä&#34;. Tee heistä Sinun luoksesi johdattajia, Sinun polullesi opastajia, lähettejä, jotka kehottavat ihmisiä Sinun valtakuntaasi. Sinä totisesti olet Voimakas, Suojelija, Väkevä, Puolustaja, Mahtava, Kaikkein anteliain.
+Oi Herra, auta rakastettujasi harjaantumaan tiedoissa, tieteissä ja taiteissa sekä paljastamaan ne salaisuudet, jotka on kätketty kaikkien luotujen sisimpään todellisuuteen. Saa heidät oppimaan ne piilevät totuudet, jotka on kirjoitettu ja upotettu kaiken olevaisen ytimeen. Tee heistä johdatuksen tunnusmerkkejä luotujesi keskuudessa, läpitunkevia mielen säteitä, jotka loistavat valoansa tässä "ensimmäisessä elämässä". Tee heistä Sinun luoksesi johdattajia, Sinun polullesi opastajia, lähettejä, jotka kehottavat ihmisiä Sinun valtakuntaasi. Sinä totisesti olet Voimakas, Suojelija, Väkevä, Puolustaja, Mahtava, Kaikkein anteliain.
 
 -- Abdu'l-Bahá
 
-bpn7534 «[Suomi](../fi/prayers/#bpn7534)» 
+bpn7534 
 
 ----
 
@@ -707,7 +708,7 @@ Oi Jumala, minun Jumalani! Auta, että uskotuilla palvelijoillasi olisi rakastav
 
 -- Abdu'l-Bahá
 
-bpn7535 «[Suomi](../fi/prayers/#bpn7535)» 
+bpn7535 
 
 ----
 
@@ -717,7 +718,7 @@ Oi Jumalani! Oi Jumalani! Olen palvelija, joka Sinuun viehättyneenä lähestyy 
 
 -- Abdu'l-Bahá
 
-bpn7536 «[Suomi](../fi/prayers/#bpn7536)» 
+bpn7536 
 
 ----
 
@@ -727,7 +728,7 @@ Oi jumalallinen Kaitselmus! Tämä kokous koostuu ystävistäsi, jotka ovat kaun
 
 -- Abdu'l-Bahá
 
-bpn7537 «[Suomi](../fi/prayers/#bpn7537)» 
+bpn7537 
 
 ----
 
@@ -741,7 +742,7 @@ Oi Sinä hyvä Jumala! Olet luonut koko ihmiskunnan samoista esivanhemmista. Ole
 
 -- Abdu'l-Bahá
 
-bpn7539 «[Suomi](../fi/prayers/#bpn7539)» 
+bpn7539 
 
 ----
 
@@ -755,7 +756,7 @@ Oi Jumalani, Mestarini, kaipuuni Kohde. Tämä palvelijasi halajaa nukkua Sinun 
 
 -- Bahá'u'lláh
 
-bpn7540 «[Suomi](../fi/prayers/#bpn7540)» 
+bpn7540 
 
 ----
 
@@ -765,7 +766,7 @@ Kuinka voin nukkua, oi Jumala, minun Jumalani, kun Sinua kaipaavien silmät valv
 
 -- Bahá'u'lláh
 
-bpn7541 «[Suomi](../fi/prayers/#bpn7541)» 
+bpn7541 
 
 ----
 
@@ -775,7 +776,7 @@ Sinä olet se, oi Jumalani, jonka nimien kautta sairaat parannetaan, vaivaiset v
 
 -- Bahá'u'lláh
 
-bpn7542 «[Suomi](../fi/prayers/#bpn7542)» 
+bpn7542 
 
 ----
 
@@ -789,7 +790,7 @@ Ylistys olkoon Sinun, oi Herra, minun Jumalani! Pyydän Sinua hartaasti nimeesi,
 
 -- Bahá'u'lláh
 
-bpn7543 «[Suomi](../fi/prayers/#bpn7543)» 
+bpn7543 
 
 ----
 
@@ -799,7 +800,7 @@ Oi Jumalani, moni viilentynyt sydän on saatettu hehkumaan Sinun asiasi tulella 
 
 -- Bahá'u'lláh
 
-bpn7544 «[Suomi](../fi/prayers/#bpn7544)» 
+bpn7544 
 
 ----
 
@@ -809,7 +810,7 @@ Oi Herra! Sinulta etsin turvapaikkaa ja kaikkia Sinun merkkejäsi kohti viritän
 
 -- Báb
 
-bpn7545 «[Suomi](../fi/prayers/#bpn7545)» 
+bpn7545 
 
 ----
 
@@ -823,7 +824,7 @@ Ylistetty olet Sinä, oi sääliväinen Herrani. Rukoilen Sinua pyhän ilmaisusi
 
 -- Bahá'u'lláh
 
-bpn7546 «[Suomi](../fi/prayers/#bpn7546)» 
+bpn7546 
 
 ----
 
@@ -837,17 +838,17 @@ Alkuhenki, jonka kautta kaikki henget ilmaistiin, ja alkuvalo, jonka kautta kaik
 
 -- Bahá'u'lláh
 
-bpn7608 «[Suomi](../fi/prayers/#bpn7608)» 
+bpn7608 
 
 ----
 
 
 <a id="bpn7609"></a> 
-Oi Navváb! ... Oi lehvä, joka on versonut Minun puustani ja ollut Minun kumppanini! Olkoot ylläsi kirkkauteni ja laupeuteni ja armeliaisuuteni, joka on ylittänyt kaikki olennot. Me kuulutamme sinulle sen, mikä ilahduttaa silmääsi ja rauhoittaa sieluasi ja riemastuttaa sydäntäsi. Totisesti Herrasi on Sääliväinen,  Kaikkiantelias. Jumala on ollut ja on oleva sinuun mieltynyt ja on poiminut sinut omakseen ja valinnut sinut palvelijatartensa joukosta palvelemaan itseään ja on tehnyt sinusta Henkilönsä kumppanin päiväsaikaan ja yön hetkenä.Kuule Minua vielä kerran ... Jumala on sinuun mielistynyt armonsa osoituksena ja armeliaisuutensa merkkinä. Hän on tehnyt sinusta kumppaninsa jokaisessa maailmoistansa ja ravinnut sinua kohtaamisellaan ja läsnäolollaan, niin kauan kuin Hänen nimensä ja muistamisensa ja valtakuntansa ja herruutensa ovat kestävä. Onnellinen on se palvelijatar, joka on maininnut sinut ja tavoitellut mielisuosiotasi ja nöyrtynyt edessäsi ja pitänyt lujasti kiinni rakkautesi nuorasta. Voi sitä, joka kieltää ylevän asemasi ja ne asiat, jotka sinulle on säätänyt Jumala, kaikkien nimien Herra, ja sitä, joka on kääntynyt pois sinusta ja kieltänyt asemasi Jumalan, mahtavan valtaistuimen Herran, edessä. Oi uskolliset! ... Mikäli vierailette loistavan Kumppanin luo ylenneen Kaikkein ylevimmän lehvän leposijalla, seiskäätte ja sanokaa: &#34;Tervehdys ja siunaus ja kirkkaus sinulle, oi Pyhä lehvä, joka olet versonut jumalallisesta Lootuspuusta! Todistan, että sinä olet uskonut Jumalaan ja Hänen merkkeihinsä ja vastannut Hänen kutsuunsa ja kääntynyt Hänen puoleensa ja pitänyt kiinni Hänen nuorastansa ja tarttunut Hänen armonsa helmaan ja paennut kodistasi Hänen polullansa ja valinnut elämän muukalaisena rakkaudesta Hänen läsnäoloonsa, ja kaivatessasi palvella Häntä. Olkoon Jumala armelias sille, joka vetäytyy sinua lähelle ja muistaa sinua niistä asioista, jotka Minun kynäni on tuonut julki tässä kaikkein korkeimmassa asemassa. Me rukoilemme Jumalaa, että Hän antaisi meille anteeksi ja antaisi anteeksi niille, jotka ovat kääntyneet sinun puoleesi, ja soisi heille heidän toiveensa  ja lahjoittaisi heille ihmeisestä armostansa, mitä he ikinä halajavat. Hän totisesti on Antelias, Jalomielinen. Ylistys olkoon Jumalalle, Hänelle joka on kaikkien maailmojen Kaivattu ja kaikkien Hänet tunnustavien Rakastettu.&#34;
+Oi Navváb! ... Oi lehvä, joka on versonut Minun puustani ja ollut Minun kumppanini! Olkoot ylläsi kirkkauteni ja laupeuteni ja armeliaisuuteni, joka on ylittänyt kaikki olennot. Me kuulutamme sinulle sen, mikä ilahduttaa silmääsi ja rauhoittaa sieluasi ja riemastuttaa sydäntäsi. Totisesti Herrasi on Sääliväinen,  Kaikkiantelias. Jumala on ollut ja on oleva sinuun mieltynyt ja on poiminut sinut omakseen ja valinnut sinut palvelijatartensa joukosta palvelemaan itseään ja on tehnyt sinusta Henkilönsä kumppanin päiväsaikaan ja yön hetkenä.Kuule Minua vielä kerran ... Jumala on sinuun mielistynyt armonsa osoituksena ja armeliaisuutensa merkkinä. Hän on tehnyt sinusta kumppaninsa jokaisessa maailmoistansa ja ravinnut sinua kohtaamisellaan ja läsnäolollaan, niin kauan kuin Hänen nimensä ja muistamisensa ja valtakuntansa ja herruutensa ovat kestävä. Onnellinen on se palvelijatar, joka on maininnut sinut ja tavoitellut mielisuosiotasi ja nöyrtynyt edessäsi ja pitänyt lujasti kiinni rakkautesi nuorasta. Voi sitä, joka kieltää ylevän asemasi ja ne asiat, jotka sinulle on säätänyt Jumala, kaikkien nimien Herra, ja sitä, joka on kääntynyt pois sinusta ja kieltänyt asemasi Jumalan, mahtavan valtaistuimen Herran, edessä. Oi uskolliset! ... Mikäli vierailette loistavan Kumppanin luo ylenneen Kaikkein ylevimmän lehvän leposijalla, seiskäätte ja sanokaa: "Tervehdys ja siunaus ja kirkkaus sinulle, oi Pyhä lehvä, joka olet versonut jumalallisesta Lootuspuusta! Todistan, että sinä olet uskonut Jumalaan ja Hänen merkkeihinsä ja vastannut Hänen kutsuunsa ja kääntynyt Hänen puoleensa ja pitänyt kiinni Hänen nuorastansa ja tarttunut Hänen armonsa helmaan ja paennut kodistasi Hänen polullansa ja valinnut elämän muukalaisena rakkaudesta Hänen läsnäoloonsa, ja kaivatessasi palvella Häntä. Olkoon Jumala armelias sille, joka vetäytyy sinua lähelle ja muistaa sinua niistä asioista, jotka Minun kynäni on tuonut julki tässä kaikkein korkeimmassa asemassa. Me rukoilemme Jumalaa, että Hän antaisi meille anteeksi ja antaisi anteeksi niille, jotka ovat kääntyneet sinun puoleesi, ja soisi heille heidän toiveensa  ja lahjoittaisi heille ihmeisestä armostansa, mitä he ikinä halajavat. Hän totisesti on Antelias, Jalomielinen. Ylistys olkoon Jumalalle, Hänelle joka on kaikkien maailmojen Kaivattu ja kaikkien Hänet tunnustavien Rakastettu."
 
 -- Bahá'u'lláh
 
-bpn7609 «[Suomi](../fi/prayers/#bpn7609)» 
+bpn7609 
 
 ----
 
@@ -861,17 +862,17 @@ Minä anon Sinun mahtisi kautta, oi Jumalani! Älä anna minkään pahan ahdista
 
 -- Báb
 
-bpn7547 «[Suomi](../fi/prayers/#bpn7547)» 
+bpn7547 
 
 ----
 
 
 <a id="bpn7548"></a> 
-Jumalan, ylivoimaisen majesteettiuden Herran, Kaikkivoittavan nimeen.Pyhitetty olkoon Herra, jonka kädessä on vallan lähde. Hän luo mitä tahansa  Hän tahtoneekin käskysanallansa &#34;ole&#34;, ja se on. Hänen on ollut käskyvalta tähän saakka ja Hänen se on oleva vastakin. Hän tekee voittoisaksi kenet tahansa halunneekin käskynsä voimalla. Hän on toden totta Voimakas, Kaikkivaltias. Hänelle kuuluu kaikki kunnia ja majesteettius ilmoituksen ja luomakunnan valtakunnissa ja niiden välillä. Hän totisesti on Voimallinen, Kaikkein kirkkain. Iankaikkisuudesta asti on Hän ollut ehtymättömän voiman lähde ja on sellaisena pysyvä iankaikkisesti. Hän todella on mahdin ja voiman Herra. Kaikki maan ja taivaan valtakunnat ja kaikki niiden välillä ovat Jumalan, ja Hänen valtansa ylittää kaiken. Kaikki aarteet maan päällä ja taivaassa ja niiden välillä ovat Hänen, ja Hänen suojelunsa ulottuu kaikkeen. Hän on taivaiden ja maan ja kaiken niiden välillä olevan Luoja, ja Hän todella on kaikkien asioiden todistaja. Hän on tuomion Herra kaikille niille,  jotka ovat taivaissa ja maan päällä ja niiden välillä, ja todellakin Jumala on nopea vaatimaan tilille. Kaikille taivaissa ja maan päällä ja niiden välillä Hän jakaa heille määrätyn mitan mukaisesti. Totisesti Hän on Korkein suojelija. Hän pitää käsissänsä taivaan ja maan ja kaiken niiden välillä olevan avaimia. Omasta tahdostaan Hän suo lahjoja käskynsä voimalla. Hänen armonsa käsittää todellakin kaiken, ja Hän on Kaikkitietävä.Sano: Jumala on tyydyttäjäni. Hän on se, joka pitää otteessaan kaikkien asioiden valtakuntaa. Taivaan ja maan ja niiden välillä olevien joukkojen voimalla Hän suojelee ketä tahansa palvelijaansa Hän tahtoneekin. Jumala toden totta varjelee kaikkea.Mittaamattomasti ylistetty olet Sinä, oi Herra! Suojele meitä siltä, mikä on edessämme ja takanamme, päämme yläpuolella, oikealla puolellamme, vasemmalla  puolellamme, jalkojemme alla ja kaikilla muilla suunnilla, joille olemme alttiina. Totisesti Sinun suojelusi ylitse kaiken on pettämätön.
+Jumalan, ylivoimaisen majesteettiuden Herran, Kaikkivoittavan nimeen.Pyhitetty olkoon Herra, jonka kädessä on vallan lähde. Hän luo mitä tahansa  Hän tahtoneekin käskysanallansa "ole", ja se on. Hänen on ollut käskyvalta tähän saakka ja Hänen se on oleva vastakin. Hän tekee voittoisaksi kenet tahansa halunneekin käskynsä voimalla. Hän on toden totta Voimakas, Kaikkivaltias. Hänelle kuuluu kaikki kunnia ja majesteettius ilmoituksen ja luomakunnan valtakunnissa ja niiden välillä. Hän totisesti on Voimallinen, Kaikkein kirkkain. Iankaikkisuudesta asti on Hän ollut ehtymättömän voiman lähde ja on sellaisena pysyvä iankaikkisesti. Hän todella on mahdin ja voiman Herra. Kaikki maan ja taivaan valtakunnat ja kaikki niiden välillä ovat Jumalan, ja Hänen valtansa ylittää kaiken. Kaikki aarteet maan päällä ja taivaassa ja niiden välillä ovat Hänen, ja Hänen suojelunsa ulottuu kaikkeen. Hän on taivaiden ja maan ja kaiken niiden välillä olevan Luoja, ja Hän todella on kaikkien asioiden todistaja. Hän on tuomion Herra kaikille niille,  jotka ovat taivaissa ja maan päällä ja niiden välillä, ja todellakin Jumala on nopea vaatimaan tilille. Kaikille taivaissa ja maan päällä ja niiden välillä Hän jakaa heille määrätyn mitan mukaisesti. Totisesti Hän on Korkein suojelija. Hän pitää käsissänsä taivaan ja maan ja kaiken niiden välillä olevan avaimia. Omasta tahdostaan Hän suo lahjoja käskynsä voimalla. Hänen armonsa käsittää todellakin kaiken, ja Hän on Kaikkitietävä.Sano: Jumala on tyydyttäjäni. Hän on se, joka pitää otteessaan kaikkien asioiden valtakuntaa. Taivaan ja maan ja niiden välillä olevien joukkojen voimalla Hän suojelee ketä tahansa palvelijaansa Hän tahtoneekin. Jumala toden totta varjelee kaikkea.Mittaamattomasti ylistetty olet Sinä, oi Herra! Suojele meitä siltä, mikä on edessämme ja takanamme, päämme yläpuolella, oikealla puolellamme, vasemmalla  puolellamme, jalkojemme alla ja kaikilla muilla suunnilla, joille olemme alttiina. Totisesti Sinun suojelusi ylitse kaiken on pettämätön.
 
 -- Báb
 
-bpn7548 «[Suomi](../fi/prayers/#bpn7548)» 
+bpn7548 
 
 ----
 
@@ -881,7 +882,7 @@ Oi Herrani! Sinä tiedät, että ihmiset ovat tuskien ja onnettomuuksien saartam
 
 -- Abdu'l-Bahá
 
-bpn7549 «[Suomi](../fi/prayers/#bpn7549)» 
+bpn7549 
 
 ----
 
@@ -891,11 +892,11 @@ bpn7549 «[Suomi](../fi/prayers/#bpn7549)»
 ## Keskipitkä velvollisuusrukous
 
 <a id="bpn7485"></a> 
-*Lausuttavaksi päivittäin aamulla, keskipäivällä ja illalla*Ken tahtoo rukoilla, pesköön kätensä ja pestessään sanokoon:Vahvista kättäni, oi Jumalani, että se voisi tarttua Sinun kirjaasi niin lujasti, että maailman sotajoukoilla ei ole siihen mitään valtaa. Suojele sitä sitten puuttumasta mihinkään, mikä ei sille kuulu. Sinä totisesti olet Kaikkivaltias, Kaikkein voimallisin.*Ja kasvojansa pestessään hän sanokoon:Olen kääntänyt kasvoni Sinun puoleesi, oi Herrani! Valaise ne Sinun kasvojesi valolla. Varjele niitä sitten kääntymästä kenenkään muun kuin Sinun puoleesi. *Nouskoon hän sitten seisomaan ja kääntyen kohti Qiblihiä (palvonnan keskipistettä, so. Bahjí, `Akká) sanokoon:Jumala todistaa, että ei ole muuta Jumalaa kuin Hän. Hänen ovat ilmoituksen ja luomakunnan valtakunnat. Hän toden totta on ilmaissut Hänet, joka on Ilmoituksen päivänkoitto, joka keskusteli Siinailla, jonka kautta ylimmäinen taivaanranta on saatu loistamaan ja Lootuspuu, jonka tuolle puolen ei ole pääsyä, on puhunut ja jonka kautta on julistettu kaikille taivaassa ja maan päällä oleville kutsu: &#34;Katso, Kaiken omistava on tullut. Maa ja taivas, kunnia ja valtius ovat Jumalan, kaikkien ihmisten Herran, korkeuden valtaistuimen ja maanpiirin Omistajan!&#34; *Kumartukoon hän sitten ja käsillänsä polviinsa nojaten sanokoon:Korottunut olet Sinä minun ylistykseni ja minun ohellani kenen tahansa ylistyksen yläpuolelle, minun kuvailuni ja kaikkien taivaassa ja maan päällä olevien kuvailun yläpuolelle!*Sitten kädet avoinna seisten, kämmenet ylöspäin kasvoja kohti, hän sanokoon:Oi Jumalani, älä tuota pettymystä sille, joka rukoilevin sormin on tarttunut armeliaisuutesi ja armosi helmaan, oi Sinä, joka armoa osoittavista olet Kaikkein armeliain!*Istukoon hän sitten ja sanokoon:Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä. Sinä   totisesti olet ilmoittanut asiasi, toteuttanut liittosi ja avannut selkoselleen armosi oven kaikille, jotka taivaassa ja maan päällä asustavat. Siunaus ja rauha, tervehdys ja kirkkaus levätkööt Sinun rakkaittesi yllä, joita maailman muutokset ja sattumukset eivät ole estäneet kääntymästä puoleesi ja jotka ovat antaneet kaikkensa toivossa saada se, mikä Sinun luonasi on. Sinä toden totta olet Aina anteeksi antava, Kaikkiantelias.*(Jos joku haluaisi lausua pitkän säkeen sijasta nämä sanat: &#34;Jumala todistaa, että ei ole muuta Jumalaa kuin Hän, Apu hädässä, Itseoleva&#34;, se riittäisi. Ja samoin riittäisi, jos hän istuessaan haluaisi lausua nämä sanat: &#34;Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä.&#34;
+*Lausuttavaksi päivittäin aamulla, keskipäivällä ja illalla*Ken tahtoo rukoilla, pesköön kätensä ja pestessään sanokoon:Vahvista kättäni, oi Jumalani, että se voisi tarttua Sinun kirjaasi niin lujasti, että maailman sotajoukoilla ei ole siihen mitään valtaa. Suojele sitä sitten puuttumasta mihinkään, mikä ei sille kuulu. Sinä totisesti olet Kaikkivaltias, Kaikkein voimallisin.*Ja kasvojansa pestessään hän sanokoon:Olen kääntänyt kasvoni Sinun puoleesi, oi Herrani! Valaise ne Sinun kasvojesi valolla. Varjele niitä sitten kääntymästä kenenkään muun kuin Sinun puoleesi. *Nouskoon hän sitten seisomaan ja kääntyen kohti Qiblihiä (palvonnan keskipistettä, so. Bahjí, `Akká) sanokoon:Jumala todistaa, että ei ole muuta Jumalaa kuin Hän. Hänen ovat ilmoituksen ja luomakunnan valtakunnat. Hän toden totta on ilmaissut Hänet, joka on Ilmoituksen päivänkoitto, joka keskusteli Siinailla, jonka kautta ylimmäinen taivaanranta on saatu loistamaan ja Lootuspuu, jonka tuolle puolen ei ole pääsyä, on puhunut ja jonka kautta on julistettu kaikille taivaassa ja maan päällä oleville kutsu: "Katso, Kaiken omistava on tullut. Maa ja taivas, kunnia ja valtius ovat Jumalan, kaikkien ihmisten Herran, korkeuden valtaistuimen ja maanpiirin Omistajan!" *Kumartukoon hän sitten ja käsillänsä polviinsa nojaten sanokoon:Korottunut olet Sinä minun ylistykseni ja minun ohellani kenen tahansa ylistyksen yläpuolelle, minun kuvailuni ja kaikkien taivaassa ja maan päällä olevien kuvailun yläpuolelle!*Sitten kädet avoinna seisten, kämmenet ylöspäin kasvoja kohti, hän sanokoon:Oi Jumalani, älä tuota pettymystä sille, joka rukoilevin sormin on tarttunut armeliaisuutesi ja armosi helmaan, oi Sinä, joka armoa osoittavista olet Kaikkein armeliain!*Istukoon hän sitten ja sanokoon:Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä. Sinä   totisesti olet ilmoittanut asiasi, toteuttanut liittosi ja avannut selkoselleen armosi oven kaikille, jotka taivaassa ja maan päällä asustavat. Siunaus ja rauha, tervehdys ja kirkkaus levätkööt Sinun rakkaittesi yllä, joita maailman muutokset ja sattumukset eivät ole estäneet kääntymästä puoleesi ja jotka ovat antaneet kaikkensa toivossa saada se, mikä Sinun luonasi on. Sinä toden totta olet Aina anteeksi antava, Kaikkiantelias.*(Jos joku haluaisi lausua pitkän säkeen sijasta nämä sanat: "Jumala todistaa, että ei ole muuta Jumalaa kuin Hän, Apu hädässä, Itseoleva", se riittäisi. Ja samoin riittäisi, jos hän istuessaan haluaisi lausua nämä sanat: "Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä."
 
 -- Bahá'u'lláh
 
-bpn7485 «[Suomi](../fi/prayers/#bpn7485)» 
+bpn7485 
 
 ----
 
@@ -909,7 +910,7 @@ Oi Sinä, jonka koettelemukset ovat parantava lääke Sinua lähellä oleville, 
 
 -- Bahá'u'lláh
 
-bpn7550 «[Suomi](../fi/prayers/#bpn7550)» 
+bpn7550 
 
 ----
 
@@ -919,7 +920,7 @@ Kunnia olkoon Sinun, oi Jumalani! Mistä muusta kuin Sinun tielläsi koetuista k
 
 -- Bahá'u'lláh
 
-bpn7551 «[Suomi](../fi/prayers/#bpn7551)» 
+bpn7551 
 
 ----
 
@@ -929,7 +930,7 @@ Onko muuta vaikeuksien poistajaa kuin Jumala? Sano: Ylistetty olkoon Jumala! Hä
 
 -- Báb
 
-bpn7552 «[Suomi](../fi/prayers/#bpn7552)» 
+bpn7552 
 
 ----
 
@@ -939,11 +940,11 @@ bpn7552 «[Suomi](../fi/prayers/#bpn7552)»
 ## Korkeimmalle pyhälle lehvälle
 
 <a id="bpn7605"></a> 
-Hän on ikuinen! Tämä on todistukseni hänestä, joka on kuullut ääneni ja vetäytynyt Minua lähelle. Totisesti hän on lehvä, joka on versonut tästä ennalta olevasta Juuresta. Hän on ilmaissut itsensä Minun nimessäni ja maistanut pyhän, ihmeisen mielisuosioni ihania tuoksuja. Kerran annoimme hänen juoda hunajaiselta Suultani, toisen kerran sallimme hänen siemaista Minun mahtavasta ja hohtavasta Kawtharistani. Levätkööt nimeni kirkkaus ja loistavan viittani tuoksu hänen yllään.Olkoot nämä ylevät sanat rakkauslaulusi Bahán puussa, oi sinä kaikkein pyhin  ja loistokkain lehvä: &#34;Jumala, jonka rinnalla ei ole mitään muuta Jumalaa, tämän ja tulevan maailman Herra!&#34; Totisesti Me olemme korottanut sinut arvossa yhdeksi sukupuolesi huomattavimmista edustajista ja suonut sinulle esikartanossani aseman, jota yksikään nainen ei ole ylittänyt. Täten Me olemme sinua suosinut ja nostanut sinut muiden yläpuolelle armon merkkinä Häneltä, joka on korkeuden valtaistuimen ja maanpiirin Herra. Me olemme luonut silmäsi näkemään kasvojeni valon, korvasi kuulemaan sanojeni sävelmän, ruumiisi osoittamaan kunnioitusta valtaistuimeni edessä. Lausu siis kiitosta Jumalalle, sinun Herrallesi, kaiken maailman Herralle.Kuinka korkea onkaan Sadratu&#39;l-Muntahán todistus lehvästänsä, kuinka ylevä Elämän puun lausunto hedelmästänsä! Minun muisteloni hänestä on levittänyt myskin kyllästämää tuoksua, hyvin on sen, joka on sitä henkäissyt ja huudahtanut:  &#34;Kaikki ylistys olkoon Sinulle, oi Jumala, Herrani kaikkein kirkkain!&#34; Miten suloista olosi tykönäni, miten suloista katsoa kasvoihisi suodakseni sinulle laupeuttani, suosiakseni sinua lempeällä huolenpidollani, mainitakseni sinut tässä muistiossani – muistiossa, jonka olen säätänyt osoituksena kätketystä ja näkyvästä armostani sinua kohtaan.
+Hän on ikuinen! Tämä on todistukseni hänestä, joka on kuullut ääneni ja vetäytynyt Minua lähelle. Totisesti hän on lehvä, joka on versonut tästä ennalta olevasta Juuresta. Hän on ilmaissut itsensä Minun nimessäni ja maistanut pyhän, ihmeisen mielisuosioni ihania tuoksuja. Kerran annoimme hänen juoda hunajaiselta Suultani, toisen kerran sallimme hänen siemaista Minun mahtavasta ja hohtavasta Kawtharistani. Levätkööt nimeni kirkkaus ja loistavan viittani tuoksu hänen yllään.Olkoot nämä ylevät sanat rakkauslaulusi Bahán puussa, oi sinä kaikkein pyhin  ja loistokkain lehvä: "Jumala, jonka rinnalla ei ole mitään muuta Jumalaa, tämän ja tulevan maailman Herra!" Totisesti Me olemme korottanut sinut arvossa yhdeksi sukupuolesi huomattavimmista edustajista ja suonut sinulle esikartanossani aseman, jota yksikään nainen ei ole ylittänyt. Täten Me olemme sinua suosinut ja nostanut sinut muiden yläpuolelle armon merkkinä Häneltä, joka on korkeuden valtaistuimen ja maanpiirin Herra. Me olemme luonut silmäsi näkemään kasvojeni valon, korvasi kuulemaan sanojeni sävelmän, ruumiisi osoittamaan kunnioitusta valtaistuimeni edessä. Lausu siis kiitosta Jumalalle, sinun Herrallesi, kaiken maailman Herralle.Kuinka korkea onkaan Sadratu'l-Muntahán todistus lehvästänsä, kuinka ylevä Elämän puun lausunto hedelmästänsä! Minun muisteloni hänestä on levittänyt myskin kyllästämää tuoksua, hyvin on sen, joka on sitä henkäissyt ja huudahtanut:  "Kaikki ylistys olkoon Sinulle, oi Jumala, Herrani kaikkein kirkkain!" Miten suloista olosi tykönäni, miten suloista katsoa kasvoihisi suodakseni sinulle laupeuttani, suosiakseni sinua lempeällä huolenpidollani, mainitakseni sinut tässä muistiossani – muistiossa, jonka olen säätänyt osoituksena kätketystä ja näkyvästä armostani sinua kohtaan.
 
 -- Bahá'u'lláh
 
-bpn7605 «[Suomi](../fi/prayers/#bpn7605)» 
+bpn7605 
 
 ----
 
@@ -953,7 +954,7 @@ bpn7605 «[Suomi](../fi/prayers/#bpn7605)»
 
 -- Abdu'l-Bahá
 
-bpn7606 «[Suomi](../fi/prayers/#bpn7606)» 
+bpn7606 
 
 ----
 
@@ -967,7 +968,7 @@ Oi Jumala! Kasvata tätä pientä lapsosta rakkautesi povella ja anna sille mait
 
 -- Abdu'l-Bahá
 
-bpn7553 «[Suomi](../fi/prayers/#bpn7553)» 
+bpn7553 
 
 ----
 
@@ -977,7 +978,7 @@ Oi Jumala, opasta minua, suojele minua, tee minusta loistava lamppu ja kirkas t�
 
 -- Abdu'l-Bahá
 
-bpn7554 «[Suomi](../fi/prayers/#bpn7554)» 
+bpn7554 
 
 ----
 
@@ -987,7 +988,7 @@ Oi verraton Herra! Ole suojana tälle poloiselle lapselle ja hyvä ja anteeksian
 
 -- Abdu'l-Bahá
 
-bpn7555 «[Suomi](../fi/prayers/#bpn7555)» 
+bpn7555 
 
 ----
 
@@ -997,7 +998,7 @@ Oi Jumala! Kasvata näitä lapsia. Nämä lapset ovat Sinun hedelmätarhasi taim
 
 -- Abdu'l-Bahá
 
-bpn7556 «[Suomi](../fi/prayers/#bpn7556)» 
+bpn7556 
 
 ----
 
@@ -1007,7 +1008,7 @@ Oi Herrani! Oi Herrani! Olen pieni lapsukainen. Ravitse minua armeliaisuutesi ri
 
 -- Abdu'l-Bahá
 
-bpn7557 «[Suomi](../fi/prayers/#bpn7557)» 
+bpn7557 
 
 ----
 
@@ -1017,7 +1018,7 @@ Oi Herra! Olen lapsi, suo minun kasvaa laupeutesi siimeksessä. Olen hento kasvi
 
 -- Abdu'l-Bahá
 
-bpn7558 «[Suomi](../fi/prayers/#bpn7558)» 
+bpn7558 
 
 ----
 
@@ -1027,7 +1028,7 @@ Oi Sinä hyvä Herra! Suo näiden puiden tulla Abhá-paratiisin kaunistuksiksi. 
 
 -- Abdu'l-Bahá
 
-bpn7559 «[Suomi](../fi/prayers/#bpn7559)» 
+bpn7559 
 
 ----
 
@@ -1037,7 +1038,7 @@ Oi Sinä tosi Jumala! Suo, että näistä ohjauksesi virran rannalla versoneista
 
 -- Abdu'l-Bahá
 
-bpn7560 «[Suomi](../fi/prayers/#bpn7560)» 
+bpn7560 
 
 ----
 
@@ -1047,7 +1048,7 @@ Oi Sinä säälivä Herra! Oi sotajoukkojen Herra! Ylistys olkoon Sinulle, että
 
 -- Abdu'l-Bahá
 
-bpn7561 «[Suomi](../fi/prayers/#bpn7561)» 
+bpn7561 
 
 ----
 
@@ -1057,7 +1058,7 @@ Oi Herra! Istuta tämä hento taimi runsaiden antimiesi puutarhaan, kastele sit�
 
 -- Abdu'l-Bahá
 
-bpn7562 «[Suomi](../fi/prayers/#bpn7562)» 
+bpn7562 
 
 ----
 
@@ -1067,7 +1068,7 @@ Oi Sinä hyvä Herra! Suo taivaallista vahvistusta tälle valtakunnan tyttärell
 
 -- Abdu'l-Bahá
 
-bpn7563 «[Suomi](../fi/prayers/#bpn7563)» 
+bpn7563 
 
 ----
 
@@ -1077,7 +1078,7 @@ Oi Sinä loistavin Herra! Tee tästä pienestä palvelijattarestasi siunattu ja 
 
 -- Abdu'l-Bahá
 
-bpn7580 «[Suomi](../fi/prayers/#bpn7580)» 
+bpn7580 
 
 ----
 
@@ -1087,7 +1088,7 @@ Ylistys ja kunnia olkoon Sinun, oi Herra minun Jumalani! Tämä on valiotaimi, j
 
 -- Abdu'l-Bahá
 
-bpn7581 «[Suomi](../fi/prayers/#bpn7581)» 
+bpn7581 
 
 ----
 
@@ -1101,7 +1102,7 @@ Minä rukoilen Sinua kaikkein korkeimman nimesi kautta avaamaan palvelijoittesi 
 
 -- Bahá'u'lláh
 
-bpn7564 «[Suomi](../fi/prayers/#bpn7564)» 
+bpn7564 
 
 ----
 
@@ -1111,7 +1112,7 @@ Hän on Jumala!Oi Herra minun Jumalani! Oi Sinä heikkojen auttaja, köyhien tuk
 
 -- Abdu'l-Bahá
 
-bpn7565 «[Suomi](../fi/prayers/#bpn7565)» 
+bpn7565 
 
 ----
 
@@ -1125,7 +1126,7 @@ bpn7565 «[Suomi](../fi/prayers/#bpn7565)»
 
 -- Bahá'u'lláh
 
-bpn7486 «[Suomi](../fi/prayers/#bpn7486)» 
+bpn7486 
 
 ----
 
@@ -1139,7 +1140,7 @@ Oi Jumala, minun Jumalani! Sinä näet rakkaittesi kääntävän sydämensä puo
 
 -- Bahá'u'lláh
 
-bpn7566 «[Suomi](../fi/prayers/#bpn7566)» 
+bpn7566 
 
 ----
 
@@ -1149,11 +1150,11 @@ bpn7566 «[Suomi](../fi/prayers/#bpn7566)»
 ## Naw-Rúz
 
 <a id="bpn7589"></a> 
-Ylistetty olet Sinä, oi Jumalani, että olet määrännyt Naw-Rúzin juhlapyhäksi niille, jotka ovat noudattaneet paastoa rakkaudesta Sinuun ja pysytelleet erillään kaikesta, mikä ei ole Sinulle mieleen. Suo, oi Herrani, että Sinun rakkautesi tuli ja säätämäsi paastoamisen synnyttämä kuumuus sytyttäisivät heidät asiassasi ja valtaisivat heidän mielensä, niin että he aina ylistäisivät ja muistelisivat Sinua.Koska olet kaunistanut heidät, oi Herrani, säätämäsi paaston koristein, kaunista heidät myös hyväksymisesi koristein armostasi ja anteliaasta suopeudestasi, sillä ihmisten teot ovat kaikki riippuvaisia  Sinun mielisuosiostasi ja sidoksissa Sinun käskyysi. Jos Sinä pitäisit paaston rikkonutta sen pitäneenä, niin luettaisiin sellainen ihminen niihin, jotka ovat ikuisesti noudattaneet paastoa. Jos taas katsoisit paastoa noudattaneen sen rikkoneeksi, niin tuo ihminen luettaisiin niihin, jotka ovat aiheuttaneet Sinun ilmoituksesi viitan tahrautumisen pölyyn ja jotka on karkotettu kauas tämän elävän lähteen kristallinkirkkaan veden ääreltä.Sinä olet se, jonka avulla on kohotettu tunnus &#34;kiitettävät ovat Sinun tekosi&#34; ja avattu viiri &#34;Sinun käskyjäsi noudatetaan&#34;. Ilmoita palvelijoillesi, oi Jumalani, tämä asemasi, että he tulisivat tietoisiksi siitä, että kaiken oivallisuus johtuu Sinun käskystäsi ja Sinun sanastasi ja jokaisen teon arvo riipuu antamastasi luvasta ja hyvästä tahdostasi, ja että he huomaisivat ihmisten tekojen ohjasten olevan Sinun hyväksyntäsi ja käskysi  vallassa. Ilmoita tämä heille, jotta mikään ei sulkisi heitä pois kauneudestasi näinä päivinä, jolloin Kristus huudahtaa: &#34;Kaikki valta on Sinun, oi Sinä hengen isä &#34; ja Sinun ystäväsi  julistaa: &#34;Kunnia olkoon Sinulle, oi Sinä Kaikkein rakastetuin, että olet paljastanut kauneutesi ja antanut valittujesi osaksi sellaista, mikä saa heidät pääsemään Kaikkein korkeimman nimesi ilmaisemisen istuimen tykö, jonka vuoksi kaikki kansat ovat vaikeroineet lukuun ottamatta niitä, jotka ovat irrottautuneet kaikesta muusta paitsi Sinusta ja suunnanneet kohti Häntä, joka on Sinun itsesi ilmaisija ja ominaisuuksiesi ilmentymä.&#34;Hän, joka on Sinun Oksasi, ja kaikki Sinun seuralaisesi, oi Herrani, ovat tänä päivänä lopettaneet paastonsa noudatettuaan sitä Sinun esikartanosi läheisyydessä  innokkaina tuottamaan Sinulle mielihyvää. Suo Hänelle ja heille sekä kaikille niille, jotka noina päivinä ovat tulleet läheisyyteesi, kaikkea sitä hyvää, minkä olet kirjassasi tarkoittanut. Varusta heidät sitten sillä, mikä hyödyttää heitä sekä tässä että tulevassa elämässä.Sinä olet toden totta Kaikkitietävä, Kaikkiviisas.
+Ylistetty olet Sinä, oi Jumalani, että olet määrännyt Naw-Rúzin juhlapyhäksi niille, jotka ovat noudattaneet paastoa rakkaudesta Sinuun ja pysytelleet erillään kaikesta, mikä ei ole Sinulle mieleen. Suo, oi Herrani, että Sinun rakkautesi tuli ja säätämäsi paastoamisen synnyttämä kuumuus sytyttäisivät heidät asiassasi ja valtaisivat heidän mielensä, niin että he aina ylistäisivät ja muistelisivat Sinua.Koska olet kaunistanut heidät, oi Herrani, säätämäsi paaston koristein, kaunista heidät myös hyväksymisesi koristein armostasi ja anteliaasta suopeudestasi, sillä ihmisten teot ovat kaikki riippuvaisia  Sinun mielisuosiostasi ja sidoksissa Sinun käskyysi. Jos Sinä pitäisit paaston rikkonutta sen pitäneenä, niin luettaisiin sellainen ihminen niihin, jotka ovat ikuisesti noudattaneet paastoa. Jos taas katsoisit paastoa noudattaneen sen rikkoneeksi, niin tuo ihminen luettaisiin niihin, jotka ovat aiheuttaneet Sinun ilmoituksesi viitan tahrautumisen pölyyn ja jotka on karkotettu kauas tämän elävän lähteen kristallinkirkkaan veden ääreltä.Sinä olet se, jonka avulla on kohotettu tunnus "kiitettävät ovat Sinun tekosi" ja avattu viiri "Sinun käskyjäsi noudatetaan". Ilmoita palvelijoillesi, oi Jumalani, tämä asemasi, että he tulisivat tietoisiksi siitä, että kaiken oivallisuus johtuu Sinun käskystäsi ja Sinun sanastasi ja jokaisen teon arvo riipuu antamastasi luvasta ja hyvästä tahdostasi, ja että he huomaisivat ihmisten tekojen ohjasten olevan Sinun hyväksyntäsi ja käskysi  vallassa. Ilmoita tämä heille, jotta mikään ei sulkisi heitä pois kauneudestasi näinä päivinä, jolloin Kristus huudahtaa: "Kaikki valta on Sinun, oi Sinä hengen isä " ja Sinun ystäväsi  julistaa: "Kunnia olkoon Sinulle, oi Sinä Kaikkein rakastetuin, että olet paljastanut kauneutesi ja antanut valittujesi osaksi sellaista, mikä saa heidät pääsemään Kaikkein korkeimman nimesi ilmaisemisen istuimen tykö, jonka vuoksi kaikki kansat ovat vaikeroineet lukuun ottamatta niitä, jotka ovat irrottautuneet kaikesta muusta paitsi Sinusta ja suunnanneet kohti Häntä, joka on Sinun itsesi ilmaisija ja ominaisuuksiesi ilmentymä."Hän, joka on Sinun Oksasi, ja kaikki Sinun seuralaisesi, oi Herrani, ovat tänä päivänä lopettaneet paastonsa noudatettuaan sitä Sinun esikartanosi läheisyydessä  innokkaina tuottamaan Sinulle mielihyvää. Suo Hänelle ja heille sekä kaikille niille, jotka noina päivinä ovat tulleet läheisyyteesi, kaikkea sitä hyvää, minkä olet kirjassasi tarkoittanut. Varusta heidät sitten sillä, mikä hyödyttää heitä sekä tässä että tulevassa elämässä.Sinä olet toden totta Kaikkitietävä, Kaikkiviisas.
 
 -- Bahá'u'lláh
 
-bpn7589 «[Suomi](../fi/prayers/#bpn7589)» 
+bpn7589 
 
 ----
 
@@ -1163,7 +1164,7 @@ Oi Herra, minun Herrani!Tämä on päivä, jonka Sinun Pyhä kielesi ja Kirkkaud
 
 -- Abdu'l-Bahá
 
-bpn7590 «[Suomi](../fi/prayers/#bpn7590)» 
+bpn7590 
 
 ----
 
@@ -1177,7 +1178,7 @@ Kaikki ylistys olkoon Sinulle, oi Jumalani, joka olet kaiken kirkkauden ja majes
 
 -- Bahá'u'lláh
 
-bpn7567 «[Suomi](../fi/prayers/#bpn7567)» 
+bpn7567 
 
 ----
 
@@ -1187,7 +1188,7 @@ Oi Jumalani, auta palvelijaasi edistämään sanaasi ja kumoamaan turhanpäiväi
 
 -- Abdu'l-Bahá
 
-bpn7568 «[Suomi](../fi/prayers/#bpn7568)» 
+bpn7568 
 
 ----
 
@@ -1201,7 +1202,7 @@ bpn7568 «[Suomi](../fi/prayers/#bpn7568)»
 
 -- Bahá'u'lláh
 
-bpn7584 «[Suomi](../fi/prayers/#bpn7584)» 
+bpn7584 
 
 ----
 
@@ -1211,7 +1212,7 @@ Rukoilen Sinua, oi Jumalani, mahtavan merkkisi kautta ja ihmisten keskuudessa il
 
 -- Bahá'u'lláh
 
-bpn7587 «[Suomi](../fi/prayers/#bpn7587)» 
+bpn7587 
 
 ----
 
@@ -1221,17 +1222,17 @@ Nämä ovat ne päivät, oi Jumalani, joina olet velvoittanut palvelijasi noudat
 
 -- Bahá'u'lláh
 
-bpn7586 «[Suomi](../fi/prayers/#bpn7586)» 
+bpn7586 
 
 ----
 
 
 <a id="bpn7585"></a> 
-*Kitáb-i-Aqdasissa sanotaan: &#34;Me olemme käskenyt teitä kypsyysiän alusta  alkaen rukoilemaan ja paastoamaan. Näin on säätänyt Jumala, teidän Herranne ja esi-isäinne Herra. ... Matkustavaiset, sairastavat, raskaana olevat tai lasta imettävät eivät ole velvolliset paastoamaan. ... Pidättykää ruoasta ja juomasta auringon noususta auringon laskuun ja varokaa, että halu ei riistä teiltä tätä armoa, joka on Kirjassa määrätty.&#34;*(Paaston aika on maaliskuun 2. päivästä 20. päivään.)Ylistys olkoon Sinulle, oi Herra minun Jumalani! Rukoilen Sinua tämän ilmoituksen nimeen, jonka kautta pimeys on kääntynyt valkeudeksi ja jonka kautta maailmanlaajuinen temppeli on pystytetty ja kirjoitettu muistio ilmaistu ja avattu kirjekäärö paljastettu, lähettämään alas minulle ja niille, jotka ovat kanssani, sitä, mikä saa meidät kohoamaan Sinun ylimaallisen kirkkautesi taivaisiin ja pesee meidät tahrattomiksi sellaisista epäilyksistä, jotka ovat estäneet epäileviä astumasta Sinun ykseytesi pyhättöön. Minä olen se, oi Herrani, joka on pitänyt kiinni Sinun rakastavan laupeutesi nuorasta ja tarttunut Sinun armeliaisuutesi ja suopeutesi helmaan. Suo minulle ja rakkailleni sekä tämän että tulevan maailman hyvyyttä. Varusta heidät sitten sillä kätketyllä lahjalla, jonka olet määrännyt parhaille luoduistasi. Oi Herrani, olet määrännyt palvelijasi paastoamaan näinä päivinä. Siunattu on se, joka Sinun vuoksesi noudattaa paastoa irrottautuen ehdottomasti kaikesta muusta paitsi Sinusta. Auta minua ja auta heitä, oi Herrani, tottelemaan Sinua ja noudattamaan määräyksiäsi. Sinulla totisesti on valta tehdä niin, kuin haluat.Ei ole muuta Jumalaa kuin Sinä, Kaikkitietävä, Kaikkiviisas. Kaikki ylistys Jumalalle, kaikkien maailmojen Herralle.
+*Kitáb-i-Aqdasissa sanotaan: "Me olemme käskenyt teitä kypsyysiän alusta  alkaen rukoilemaan ja paastoamaan. Näin on säätänyt Jumala, teidän Herranne ja esi-isäinne Herra. ... Matkustavaiset, sairastavat, raskaana olevat tai lasta imettävät eivät ole velvolliset paastoamaan. ... Pidättykää ruoasta ja juomasta auringon noususta auringon laskuun ja varokaa, että halu ei riistä teiltä tätä armoa, joka on Kirjassa määrätty."*(Paaston aika on maaliskuun 2. päivästä 20. päivään.)Ylistys olkoon Sinulle, oi Herra minun Jumalani! Rukoilen Sinua tämän ilmoituksen nimeen, jonka kautta pimeys on kääntynyt valkeudeksi ja jonka kautta maailmanlaajuinen temppeli on pystytetty ja kirjoitettu muistio ilmaistu ja avattu kirjekäärö paljastettu, lähettämään alas minulle ja niille, jotka ovat kanssani, sitä, mikä saa meidät kohoamaan Sinun ylimaallisen kirkkautesi taivaisiin ja pesee meidät tahrattomiksi sellaisista epäilyksistä, jotka ovat estäneet epäileviä astumasta Sinun ykseytesi pyhättöön. Minä olen se, oi Herrani, joka on pitänyt kiinni Sinun rakastavan laupeutesi nuorasta ja tarttunut Sinun armeliaisuutesi ja suopeutesi helmaan. Suo minulle ja rakkailleni sekä tämän että tulevan maailman hyvyyttä. Varusta heidät sitten sillä kätketyllä lahjalla, jonka olet määrännyt parhaille luoduistasi. Oi Herrani, olet määrännyt palvelijasi paastoamaan näinä päivinä. Siunattu on se, joka Sinun vuoksesi noudattaa paastoa irrottautuen ehdottomasti kaikesta muusta paitsi Sinusta. Auta minua ja auta heitä, oi Herrani, tottelemaan Sinua ja noudattamaan määräyksiäsi. Sinulla totisesti on valta tehdä niin, kuin haluat.Ei ole muuta Jumalaa kuin Sinä, Kaikkitietävä, Kaikkiviisas. Kaikki ylistys Jumalalle, kaikkien maailmojen Herralle.
 
 -- Bahá'u'lláh
 
-bpn7585 «[Suomi](../fi/prayers/#bpn7585)» 
+bpn7585 
 
 ----
 
@@ -1241,7 +1242,7 @@ Oi Jumalallinen kaitselmus! Samalla kun kieltäydyn ruumiin pyyteistä ja lakkaa
 
 -- Abdu'l-Bahá
 
-bpn7588 «[Suomi](../fi/prayers/#bpn7588)» 
+bpn7588 
 
 ----
 
@@ -1255,7 +1256,7 @@ Ylistys olkoon Sinulle, oi Herra minun Jumalani! Anon Sinua nimeesi, jonka kautt
 
 -- Bahá'u'lláh
 
-bpn11241 «[Suomi](../fi/prayers/#bpn11241)» 
+bpn11241 
 
 ----
 
@@ -1265,7 +1266,7 @@ Nimesi on parannukseni, oi Jumalani, ja muistamisesi lääkkeeni. Olla Sinua lä
 
 -- Bahá'u'lláh
 
-bpn7569 «[Suomi](../fi/prayers/#bpn7569)» 
+bpn7569 
 
 ----
 
@@ -1275,11 +1276,11 @@ bpn7569 «[Suomi](../fi/prayers/#bpn7569)»
 ## Pitkä parannusrukous
 
 <a id="bpn7594"></a> 
-Hän on Parantaja, Tyydyttäjä, Auttaja, Kaiken anteeksi antava, Kaikkein armeliain.Vetoan Sinuun, oi Ylevöitynyt, oi Uskollinen, oi Loistelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hallitsija, oi Ylösnostava, oi Tuomari! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Verraton, oi Iankaikkinen, oi Ainokainen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Ylistetyin, oi Pyhä, oi Auttavainen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkitietävä, oi Kaikkein viisain, oi Kaikkein korkein!  Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Laupias, oi Kuninkaallinen, oi Säätävä! Sinä Tyydyttävä, Sinä Parantava, Sinä oleva, oi Sinä olevainen!Vetoan Sinuun, oi Rakastettu, oi Vaalittu, oi Hurmaantunut! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Mahtavin, oi Ylläpitävä, oi Voimallinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hallitseva, oi Itseoleva, oi Kaikkitietävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Henki, oi Valo, oi Kaikkein näkyvin! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikkien Kohtaama, oi Sinä kaikkien Tietämä, oi Sinä  kaikilta Kätketty! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Salattu, oi Voittoisa, oi Lahjoittava! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkivaltias, oi Avustava, oi Salaava! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Muodostaja, oi Tyydyttäjä, oi Mullistaja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Nouseva, oi Kokoava, oi Ylevöittävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Täydellistävä, oi Kahlitsematon, oi Antelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hyödyttävä, oi Pidättävä, oi Luova! Sinä Tyydyttävä, Sinä  Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkein ylhäisin, oi Ihana, oi Runsaskätinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Oikeudenmukainen, oi Suosiollinen, oi Jalomielinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkipakottava, oi Alati oleva, oi Eniten tietävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Suurenmoinen, oi Ikiaikainen, oi Ylevämielinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hyvin varjeltu, oi ilon Herra, oi Halattu! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikille Hyvä, oi Sinä kaikille Myötätuntoinen, oi Kaikkein  suopein! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi kaikkien Turva, oi kaikkien Suoja, oi Kaikkivarjeleva! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikkien Avustaja, oi Sinä kaikkien avuksi Kutsuma, oi Elvyttäjä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Paljastaja, oi Hävittäjä, oi Kaikkein laupiain! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä Sieluni, oi Sinä Rakastettuni, oi Sinä Uskoni! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi janojen Sammuttaja, oi ylimaallinen Herra, oi Kaikkein kallein! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Suurin muistelus, oi Jaloin  nimi, oi Muinaisin tie! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkein kiitetyin, oi Kaikkein pyhin, oi Pyhitetty! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Irrottaja, oi Neuvoja, oi Vapahtaja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Ystävä, oi Lääkäri, oi Kiehtova! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Kirkkaus, oi Kauneus, oi Antelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Kaikkein luotetuin, oi Paras rakastaja, oi aamunkoin Herra! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sytyttäjä, oi Kirkastaja,  oi Mielihyvän tuoja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi anteliaisuuden Herra, oi Kaikkein myötätuntoisin, oi Kaikkein armeliain! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Pysyvä, oi Elämän antaja, oi Kaiken olevan lähde! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, joka läpäiset kaiken, oi kaikkinäkevä Jumala, oi ilmaisun Herra! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Näkyvä joskin Kätketty, oi Näkymätön joskin Maineikas, oi kaikkien etsimä Tarkkailija! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä, joka surmaat rakastavaiset, oi armon Herra pahantekijöille! Oi Tyydyttäjä, minä vetoan Sinuun, oi Tyydyttäjä!Oi Parantaja, minä vetoan Sinuun, oi Parantaja!Oi Olija, minä vetoan Sinuun, oi Olija!Sinä Alati oleva, oi Sinä Olevainen!Pyhitetty olet Sinä, oi Jumalani! Rukoilen Sinua anteliaisuutesi kautta, jolla laupeutesi ja armosi portit avattiin selkoselleen ja jolla pyhyytesi temppeli asetettiin ikuisuuden valtaistuimelle, sekä armeliaisuutesi kautta, jolla kutsuit kaikki luodut lahjojesi ja antiesi pöydän ääreen, sekä armosi kautta, jolla Sinä sanallasi &#34;aivan!&#34; omassa itsessäsi vastasit kaikkien taivaassa ja maanpäällä olevien puolesta sillä hetkellä, kun herruutesi ja suuruutesi kävivät ilmi ¬ aamun koitteessa, kun valtiutesi mahti ilmaistiin. Ja edelleen rukoilen minä Sinua näiden kauneimpien nimien kautta, näiden jaloimpien ja ylhäisimpien ominaisuuksien kautta, ja kaikkein ylevöityneimmän  muisteluksesi kautta sekä puhtaan ja tahrattoman kauneutesi kautta sekä kätketyimpään käytävääsi kätketyn valosi kautta sekä koettelemuksen peitteen aamuin ja illoin verhoaman nimesi kautta varjelemaan tämän siunatun muistion haltijaa ja sen lausujaa ja sen esiin ottajaa ja ketä tahansa, joka kulkee sen talon luona, jossa se on. Paranna Sinä sitten sen kautta jokainen sairas, vaivainen ja köyhä kaikista ahdingoista ja vaivoista, kaikista vastenmielisistä kärsimyksistä ja murheista ja johdata Sinä sen avulla jokaista, joka haluaa astua johdatuksesi polulle ja anteeksiantosi ja armosi väylille.Sinä olet totisesti Voimakas, Kaikkiriittoisa, Parantava, Varjeleva, Antava, Myötätuntoinen, Kaikkiantelias, Kaikessa armelias.
+Hän on Parantaja, Tyydyttäjä, Auttaja, Kaiken anteeksi antava, Kaikkein armeliain.Vetoan Sinuun, oi Ylevöitynyt, oi Uskollinen, oi Loistelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hallitsija, oi Ylösnostava, oi Tuomari! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Verraton, oi Iankaikkinen, oi Ainokainen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Ylistetyin, oi Pyhä, oi Auttavainen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkitietävä, oi Kaikkein viisain, oi Kaikkein korkein!  Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Laupias, oi Kuninkaallinen, oi Säätävä! Sinä Tyydyttävä, Sinä Parantava, Sinä oleva, oi Sinä olevainen!Vetoan Sinuun, oi Rakastettu, oi Vaalittu, oi Hurmaantunut! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Mahtavin, oi Ylläpitävä, oi Voimallinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hallitseva, oi Itseoleva, oi Kaikkitietävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Henki, oi Valo, oi Kaikkein näkyvin! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikkien Kohtaama, oi Sinä kaikkien Tietämä, oi Sinä  kaikilta Kätketty! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Salattu, oi Voittoisa, oi Lahjoittava! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkivaltias, oi Avustava, oi Salaava! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Muodostaja, oi Tyydyttäjä, oi Mullistaja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Nouseva, oi Kokoava, oi Ylevöittävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Täydellistävä, oi Kahlitsematon, oi Antelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hyödyttävä, oi Pidättävä, oi Luova! Sinä Tyydyttävä, Sinä  Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkein ylhäisin, oi Ihana, oi Runsaskätinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Oikeudenmukainen, oi Suosiollinen, oi Jalomielinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkipakottava, oi Alati oleva, oi Eniten tietävä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Suurenmoinen, oi Ikiaikainen, oi Ylevämielinen! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Hyvin varjeltu, oi ilon Herra, oi Halattu! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikille Hyvä, oi Sinä kaikille Myötätuntoinen, oi Kaikkein  suopein! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi kaikkien Turva, oi kaikkien Suoja, oi Kaikkivarjeleva! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä kaikkien Avustaja, oi Sinä kaikkien avuksi Kutsuma, oi Elvyttäjä! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Paljastaja, oi Hävittäjä, oi Kaikkein laupiain! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä Sieluni, oi Sinä Rakastettuni, oi Sinä Uskoni! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi janojen Sammuttaja, oi ylimaallinen Herra, oi Kaikkein kallein! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Suurin muistelus, oi Jaloin  nimi, oi Muinaisin tie! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Kaikkein kiitetyin, oi Kaikkein pyhin, oi Pyhitetty! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Irrottaja, oi Neuvoja, oi Vapahtaja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Ystävä, oi Lääkäri, oi Kiehtova! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Kirkkaus, oi Kauneus, oi Antelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen! Vetoan Sinuun, oi Kaikkein luotetuin, oi Paras rakastaja, oi aamunkoin Herra! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sytyttäjä, oi Kirkastaja,  oi Mielihyvän tuoja! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi anteliaisuuden Herra, oi Kaikkein myötätuntoisin, oi Kaikkein armeliain! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Pysyvä, oi Elämän antaja, oi Kaiken olevan lähde! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, joka läpäiset kaiken, oi kaikkinäkevä Jumala, oi ilmaisun Herra! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Näkyvä joskin Kätketty, oi Näkymätön joskin Maineikas, oi kaikkien etsimä Tarkkailija! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!Vetoan Sinuun, oi Sinä, joka surmaat rakastavaiset, oi armon Herra pahantekijöille! Oi Tyydyttäjä, minä vetoan Sinuun, oi Tyydyttäjä!Oi Parantaja, minä vetoan Sinuun, oi Parantaja!Oi Olija, minä vetoan Sinuun, oi Olija!Sinä Alati oleva, oi Sinä Olevainen!Pyhitetty olet Sinä, oi Jumalani! Rukoilen Sinua anteliaisuutesi kautta, jolla laupeutesi ja armosi portit avattiin selkoselleen ja jolla pyhyytesi temppeli asetettiin ikuisuuden valtaistuimelle, sekä armeliaisuutesi kautta, jolla kutsuit kaikki luodut lahjojesi ja antiesi pöydän ääreen, sekä armosi kautta, jolla Sinä sanallasi "aivan!" omassa itsessäsi vastasit kaikkien taivaassa ja maanpäällä olevien puolesta sillä hetkellä, kun herruutesi ja suuruutesi kävivät ilmi ¬ aamun koitteessa, kun valtiutesi mahti ilmaistiin. Ja edelleen rukoilen minä Sinua näiden kauneimpien nimien kautta, näiden jaloimpien ja ylhäisimpien ominaisuuksien kautta, ja kaikkein ylevöityneimmän  muisteluksesi kautta sekä puhtaan ja tahrattoman kauneutesi kautta sekä kätketyimpään käytävääsi kätketyn valosi kautta sekä koettelemuksen peitteen aamuin ja illoin verhoaman nimesi kautta varjelemaan tämän siunatun muistion haltijaa ja sen lausujaa ja sen esiin ottajaa ja ketä tahansa, joka kulkee sen talon luona, jossa se on. Paranna Sinä sitten sen kautta jokainen sairas, vaivainen ja köyhä kaikista ahdingoista ja vaivoista, kaikista vastenmielisistä kärsimyksistä ja murheista ja johdata Sinä sen avulla jokaista, joka haluaa astua johdatuksesi polulle ja anteeksiantosi ja armosi väylille.Sinä olet totisesti Voimakas, Kaikkiriittoisa, Parantava, Varjeleva, Antava, Myötätuntoinen, Kaikkiantelias, Kaikessa armelias.
 
 -- Bahá'u'lláh
 
-bpn7594 «[Suomi](../fi/prayers/#bpn7594)» 
+bpn7594 
 
 ----
 
@@ -1289,11 +1290,11 @@ bpn7594 «[Suomi](../fi/prayers/#bpn7594)»
 ## Pitkä velvollisuusrukous
 
 <a id="bpn7484"></a> 
-*&#34;Päivittäisiä velvollisuusrukouksia on määrältään kolme. ... Uskova on täysin vapaa valitsemaan minkä tahansa näistä kolmesta rukouksesta, mutta hän on velvollinen lausumaan yhden niistä ja niiden erityisohjeiden mukaisesti, jotka siihen liittyvät.  Velvollisuusrukousten yhteydessä mainitut &#34;aamu&#34;, &#34;keskipäivä&#34; ja &#34;ilta&#34; tarkoittavat vastaavasti aikoja auringonnoususta keskipäivään, keskipäivästä auringonlaskuun ja auringonlaskusta kaksi tuntia eteenpäin. Kitáb-i-Aqdas, Yleiskatsaus ja koonnos*Lausuttavaksi kerran vuorokaudessa*Ken tahtoo lausua tämän rukouksen, nouskoon seisomaan ja kääntyköön Jumalan puoleen ja seistessään paikallaan katsokoon oikeaan ja vasempaan ikään kuin odottaen Herransa, Kaikkein armeliaimman, Sääliväisen armoa. Sitten hän sanokoon:Oi Sinä, joka olet kaikkien nimien Herra ja taivasten Luoja! Rukoilen Sinua heidän kauttaan, jotka ovat Sinun näkymättömän ydinolemuksesi, Kaikkein ylevimmän, Kaikkein kirkkaimman päivänkoittoja, tekemään rukouksestani tulen, joka polttaa pois Sinun kauneudestasi minut erottaneet verhot, ja valon, joka johdattaa minut Sinun läsnäolosi valtamerelle.  *Kohottakoon hän sitten kätensä nöyrästi anoen Jumalan puoleen -- siunattu ja ylistetty olkoon Hän -- ja sanokoon:Oi Sinä maailman Kaivattu ja kansain Rakastettu! Sinä näet minun kääntyvän puoleesi vapaana kaikesta kiintymyksestä kehenkään paitsi Sinuun ja tarttuvan tiukasti nuoraasi, jonka liike on ravisuttanut koko luomakuntaa. Olen palvelijasi, oi Herrani, ja palvelijasi poika. Näe minun seisovan valmiina toteuttamaan Sinun tahtosi ja halusi toivomatta mitään paitsi Sinun mielisuosiotasi. Pyydän Sinua hartaasti armeliaisuutesi valtameren ja armosi päiväntähden kautta tekemään palvelijallesi niin, kuin tahdot ja mielit. Kautta Sinun mahtisi, joka on korkealla kaiken maininnan ja ylistyksen yläpuolella! Mitä ikinä Sinä ilmaisetkin, sitä sydämeni kaipaa ja sieluni rakastaa. Oi Jumala, minun Jumalani! Älä katso minun   toiveitani ja tekemisiäni, vaan katso pikemminkin omaa tahtoasi, joka on sulkenut piiriinsä taivaat ja maan! Kaikkein korkeimman nimesi kautta, oi Sinä kaikkien kansojen Herra! Olen halunnut vain sitä, mitä Sinä halusit, ja rakastan vain sitä, mitä Sinä rakastat.*Polvistukoon hän sitten ja otsansa maahan kumartaen sanokoon:Korottunut olet Sinä kenenkään paitsi oman kuvailusi ja kaiken muun kuin oman käsityskykysi yläpuolelle.*Seisköön hän sitten ja sanokoon:Tee rukoukseni, oi Herrani, elävien vesien lähteeksi, josta voin elää niin kauan, kuin Sinun herruutesi kestää, ja mainita Sinua jokaisessa maailmassa Sinun maailmoistasi. *Kohottakoon hän jälleen kätensä nöyrästi anoen ja sanokoon:Oi Sinä, josta erossa ollessaan sydämet ja sielut ovat sulaneet ja jonka rakkauden tuli on sytyttänyt liekkeihin koko maailman! Pyydän Sinulta hartaasti nimeesi, jonka kautta olet alistanut valtaasi koko luomakunnan, että et epää minulta sitä, mikä luonasi on, oi Sinä, joka hallitset kaikkia ihmisiä! Sinä näet, oi Herrani, tämän muukalaisen kiirehtävän kaikkein ylevimpään kotiinsa Sinun majesteettiutesi kirjokannen alle ja armeliaisuutesi piiriin, tämän hairahtuneen tavoittelevan Sinun anteeksiantosi valtamerta, tämän alhaisen Sinun kirkkautesi esikartanoa ja tämän poloisen Sinun rikkautesi itätaivasta. Sinun on valta määrätä, mitä tahtonetkin. Tunnustan, että Sinua on ylistäminen tekemisistäsi ja totteleminen käskyissäsi ja että Sinä olet oleva rajoittamaton määräyksissäsi. *Kohottakoon hän sitten kätensä ja toistakoon kolmasti Korkeimman nimen. Kumartukoon hän sitten nojaten käsillänsä polviinsa Jumalan edessä -- siunattu ja ylistetty olkoon Hän -- ja sanokoon:Sinä näet, oi Jumalani, kuinka henkeni on liikuttunut raajoissani ja jäsenissäni ikävöidessään palvoa Sinua ja kaivatessaan muistaa ja ylistää Sinua, kuinka se todistaa siitä, mistä Sinun käskysi kieli on todistanut ilmaisusi valtakunnassa ja tietosi taivaassa. Tässä tilassa, oi Herrani, halajan anoa Sinulta kaikkea, mikä luonasi on, että voisin osoittaa köyhyyteni ja kiittää Sinun antejasi ja rikkauksiasi sekä myöntää voimattomuuteni ja ilmentää Sinun voimaasi ja mahtiasi.*Seisköön hän sitten ja kohottakoon kahdesti kätensä nöyrästi anoen ja sanokoon:Ei ole muuta Jumalaa kuin Sinä, Kaikkivaltias, Kaikkiantelias. Ei ole muuta Jumalaa kuin Sinä, Säätäjä, niin alussa kuin lopussakin. Oi Jumala, minun Jumalani! Anteeksiantosi on minua rohkaissut, armeliaisuutesi on minua vahvistanut, kutsusi on minut herättänyt ja armosi on saanut minut nousemaan ja johdattanut Sinun tykösi. Kuinka minä muutoin rohkenisinkaan seistä Sinun läheisyytesi kaupungin portilla tai kääntää kasvoni Sinun tahtosi taivaasta loistavia valoja kohti? Sinä näet, oi Herrani, tämän viheliäisen olennon kolkuttavan Sinun armosi ovella ja tämän katoavaisen sielun tavoittelevan iankaikkisen elämän virtaa Sinun anteliaisuutesi käsistä. Sinun on käskyvalta kaikkina aikoina, oi Sinä, joka olet kaikkien nimien Herra, ja  minun on tyytyminen ja auliisti alistuminen Sinun tahtoosi, oi taivasten Luoja!*Kohottakoon hän sitten kolmasti kätensä ja sanokoon:Suurempi on Jumala kaikkia suuria!*Polvistukoon hän sitten ja otsansa maahan kumartaen sanokoon:Liian korkealla olet Sinä, että Sinua lähellä olevien ylistys voisi kohota Sinun läheisyytesi taivaaseen tai että Sinulle omistautuneiden sydämen linnut voisivat päästä Sinun porttisi ovelle. Todistan, että Sinä olet ollut pyhittynyt yli kaikkien ominaisuuksien ja pyhä yli kaikkien nimien. Ei ole muuta Jumalaa kuin Sinä, Kaikkein ylevin, Kaikkein kirkkain. *Istuutukoon hän sitten ja sanokoon:Minä todistan siitä, mistä ovat todistaneet kaikki luotu ja korkeuden väki ja kaikkein korkeimman paratiisin asukkaat ja heidän yläpuolellaan itse Suuruuden kieli kaikkein kirkkaimmalta taivaanrannalta, että Sinä olet Jumala, että ei ole muuta Jumalaa kuin Sinä ja että Hän, joka on ilmaistu, on Kätketty mysteeri, Vaalittu tunnuskuva, jonka kautta kirjaimet O ja L ja E (ole) on liitetty ja sidottu yhteen. Todistan, että juuri Hän on se, jonka nimen Korkeimman kynä on kirjannut ja joka on mainittu Jumalan, korkeuden valtaistuimen ja maanpiirin Herran kirjoissa.*Seisköön hän sitten suorana ja sanokoon:Oi kaiken olemassaolon Herra ja kaiken näkyväisen ja näkymättömän Omistaja!  Sinä havaitset kyyneleni ja huokailuni, Sinä kuulet vaikerrukseni, itkuni ja sydämeni valituksen. Mahtisi kautta! Rikkomukseni ovat pidättäneet minua pääsemästä lähelle Sinua, ja syntini ovat pitäneet minut kaukana Sinun pyhyytesi esikartanosta. Rakkautesi, oi Herrani, on minut rikastuttanut, ero Sinusta on minut tuhonnut ja etäisyys Sinusta on minut riuduttanut. Anon Sinua hartaasti kautta askeltesi tässä erämaassa ja kautta sanojen &#34;Tässä minä olen, tässä minä olen&#34;, jotka Sinun valittusi ovat tässä äärettömyydessä lausuneet, sekä kautta ilmoituksesi henkäysten ja kautta ilmaisemisesi sarastuksen leutojen tuulten säätämään, että voisin katsoa Sinun kauneuttasi ja noudattaa sitä, mitä ikinä Sinun kirjassasi on. *Toistakoon hän sitten kolmasti Korkeimman nimen ja kumartukoon käsillänsä polviinsa nojaten ja sanokoon:Ylistys olkoon Sinun, oi Jumalani, että olet auttanut minua muistamaan Sinua ja ylistämään Sinua ja saattanut minut tuntemaan Hänet, joka on Sinun merkkiesi päivänkoitto, ja saanut minut kumartumaan herrautesi edessä ja nöyrtymään jumaluutesi edessä ja tunnustamaan sen, minkä suuruutesi Kieli on lausunut.*Nouskoon hän sitten ja sanokoon:Oi Jumala, minun Jumalani! Selkäni on kumarassa syntieni taakasta, ja piittaamattomuuteni on tuhonnut minut. Aina kun pohdin pahoja tekojani ja Sinun hyvyyttäsi, sydämeni sulaa rinnassani ja vereni kiehuu suonissani. Kauneutesi kautta, oi Sinä maailman Kaivattu! Punastun kohottaessani kasvoni puoleesi,  ja kaipaavat käteni häpeävät kurottaessaan kohti anteliaisuutesi taivasta. Sinä näet, oi Jumalani, kuinka kyyneleni estävät minua muistamasta Sinua ja ylistämästä hyveitäsi, oi Sinä korkeuden valtaistuimen ja maanpiirin Herra! Pyydän Sinua hartaasti valtakuntasi merkkien ja valtiutesi mysteerien kautta menettelemään rakkaittesi kanssa niin, kuin anteliaisuuteesi sopii, oi kaiken olemassaolon Herra, ja niin, kuin on Sinun armosi mukaista, oi näkyväisen ja näkymättömän Kuningas!*Toistakoon hän sitten kolmasti Korkeimman nimen ja polvistukoon otsansa maahan painaen ja sanokoon:Ylistys olkoon Sinun, oi Jumalamme, että olet meille alas lähettänyt sen, mikä vetää meitä lähelle Sinua ja suo meille kaiken sen hyvän, jonka olet kirjoissasi ja kirjoituksissasi alas lähettänyt. Rukoilemme  Sinua, oi Herrani, varjelemaan meitä joutavien mielijohteiden ja turhien kuvittelujen sotajoukoilta. Sinä toden totta olet Mahtava, Kaikkitietävä.*Kohottakoon hän sitten päänsä, istuutukoon ja sanokoon:Todistan siitä, oi Jumalani, mistä valittusi ovat todistaneet, ja tunnustan sen, minkä kaikkein korkeimman paratiisin asukkaat ja mahtavan valtaistuimesi ympärillä kiertäneet ovat tunnustaneet. Maan ja taivaan valtakunnat ovat Sinun, oi maailmain Herra!
+*"Päivittäisiä velvollisuusrukouksia on määrältään kolme. ... Uskova on täysin vapaa valitsemaan minkä tahansa näistä kolmesta rukouksesta, mutta hän on velvollinen lausumaan yhden niistä ja niiden erityisohjeiden mukaisesti, jotka siihen liittyvät.  Velvollisuusrukousten yhteydessä mainitut "aamu", "keskipäivä" ja "ilta" tarkoittavat vastaavasti aikoja auringonnoususta keskipäivään, keskipäivästä auringonlaskuun ja auringonlaskusta kaksi tuntia eteenpäin. Kitáb-i-Aqdas, Yleiskatsaus ja koonnos*Lausuttavaksi kerran vuorokaudessa*Ken tahtoo lausua tämän rukouksen, nouskoon seisomaan ja kääntyköön Jumalan puoleen ja seistessään paikallaan katsokoon oikeaan ja vasempaan ikään kuin odottaen Herransa, Kaikkein armeliaimman, Sääliväisen armoa. Sitten hän sanokoon:Oi Sinä, joka olet kaikkien nimien Herra ja taivasten Luoja! Rukoilen Sinua heidän kauttaan, jotka ovat Sinun näkymättömän ydinolemuksesi, Kaikkein ylevimmän, Kaikkein kirkkaimman päivänkoittoja, tekemään rukouksestani tulen, joka polttaa pois Sinun kauneudestasi minut erottaneet verhot, ja valon, joka johdattaa minut Sinun läsnäolosi valtamerelle.  *Kohottakoon hän sitten kätensä nöyrästi anoen Jumalan puoleen -- siunattu ja ylistetty olkoon Hän -- ja sanokoon:Oi Sinä maailman Kaivattu ja kansain Rakastettu! Sinä näet minun kääntyvän puoleesi vapaana kaikesta kiintymyksestä kehenkään paitsi Sinuun ja tarttuvan tiukasti nuoraasi, jonka liike on ravisuttanut koko luomakuntaa. Olen palvelijasi, oi Herrani, ja palvelijasi poika. Näe minun seisovan valmiina toteuttamaan Sinun tahtosi ja halusi toivomatta mitään paitsi Sinun mielisuosiotasi. Pyydän Sinua hartaasti armeliaisuutesi valtameren ja armosi päiväntähden kautta tekemään palvelijallesi niin, kuin tahdot ja mielit. Kautta Sinun mahtisi, joka on korkealla kaiken maininnan ja ylistyksen yläpuolella! Mitä ikinä Sinä ilmaisetkin, sitä sydämeni kaipaa ja sieluni rakastaa. Oi Jumala, minun Jumalani! Älä katso minun   toiveitani ja tekemisiäni, vaan katso pikemminkin omaa tahtoasi, joka on sulkenut piiriinsä taivaat ja maan! Kaikkein korkeimman nimesi kautta, oi Sinä kaikkien kansojen Herra! Olen halunnut vain sitä, mitä Sinä halusit, ja rakastan vain sitä, mitä Sinä rakastat.*Polvistukoon hän sitten ja otsansa maahan kumartaen sanokoon:Korottunut olet Sinä kenenkään paitsi oman kuvailusi ja kaiken muun kuin oman käsityskykysi yläpuolelle.*Seisköön hän sitten ja sanokoon:Tee rukoukseni, oi Herrani, elävien vesien lähteeksi, josta voin elää niin kauan, kuin Sinun herruutesi kestää, ja mainita Sinua jokaisessa maailmassa Sinun maailmoistasi. *Kohottakoon hän jälleen kätensä nöyrästi anoen ja sanokoon:Oi Sinä, josta erossa ollessaan sydämet ja sielut ovat sulaneet ja jonka rakkauden tuli on sytyttänyt liekkeihin koko maailman! Pyydän Sinulta hartaasti nimeesi, jonka kautta olet alistanut valtaasi koko luomakunnan, että et epää minulta sitä, mikä luonasi on, oi Sinä, joka hallitset kaikkia ihmisiä! Sinä näet, oi Herrani, tämän muukalaisen kiirehtävän kaikkein ylevimpään kotiinsa Sinun majesteettiutesi kirjokannen alle ja armeliaisuutesi piiriin, tämän hairahtuneen tavoittelevan Sinun anteeksiantosi valtamerta, tämän alhaisen Sinun kirkkautesi esikartanoa ja tämän poloisen Sinun rikkautesi itätaivasta. Sinun on valta määrätä, mitä tahtonetkin. Tunnustan, että Sinua on ylistäminen tekemisistäsi ja totteleminen käskyissäsi ja että Sinä olet oleva rajoittamaton määräyksissäsi. *Kohottakoon hän sitten kätensä ja toistakoon kolmasti Korkeimman nimen. Kumartukoon hän sitten nojaten käsillänsä polviinsa Jumalan edessä -- siunattu ja ylistetty olkoon Hän -- ja sanokoon:Sinä näet, oi Jumalani, kuinka henkeni on liikuttunut raajoissani ja jäsenissäni ikävöidessään palvoa Sinua ja kaivatessaan muistaa ja ylistää Sinua, kuinka se todistaa siitä, mistä Sinun käskysi kieli on todistanut ilmaisusi valtakunnassa ja tietosi taivaassa. Tässä tilassa, oi Herrani, halajan anoa Sinulta kaikkea, mikä luonasi on, että voisin osoittaa köyhyyteni ja kiittää Sinun antejasi ja rikkauksiasi sekä myöntää voimattomuuteni ja ilmentää Sinun voimaasi ja mahtiasi.*Seisköön hän sitten ja kohottakoon kahdesti kätensä nöyrästi anoen ja sanokoon:Ei ole muuta Jumalaa kuin Sinä, Kaikkivaltias, Kaikkiantelias. Ei ole muuta Jumalaa kuin Sinä, Säätäjä, niin alussa kuin lopussakin. Oi Jumala, minun Jumalani! Anteeksiantosi on minua rohkaissut, armeliaisuutesi on minua vahvistanut, kutsusi on minut herättänyt ja armosi on saanut minut nousemaan ja johdattanut Sinun tykösi. Kuinka minä muutoin rohkenisinkaan seistä Sinun läheisyytesi kaupungin portilla tai kääntää kasvoni Sinun tahtosi taivaasta loistavia valoja kohti? Sinä näet, oi Herrani, tämän viheliäisen olennon kolkuttavan Sinun armosi ovella ja tämän katoavaisen sielun tavoittelevan iankaikkisen elämän virtaa Sinun anteliaisuutesi käsistä. Sinun on käskyvalta kaikkina aikoina, oi Sinä, joka olet kaikkien nimien Herra, ja  minun on tyytyminen ja auliisti alistuminen Sinun tahtoosi, oi taivasten Luoja!*Kohottakoon hän sitten kolmasti kätensä ja sanokoon:Suurempi on Jumala kaikkia suuria!*Polvistukoon hän sitten ja otsansa maahan kumartaen sanokoon:Liian korkealla olet Sinä, että Sinua lähellä olevien ylistys voisi kohota Sinun läheisyytesi taivaaseen tai että Sinulle omistautuneiden sydämen linnut voisivat päästä Sinun porttisi ovelle. Todistan, että Sinä olet ollut pyhittynyt yli kaikkien ominaisuuksien ja pyhä yli kaikkien nimien. Ei ole muuta Jumalaa kuin Sinä, Kaikkein ylevin, Kaikkein kirkkain. *Istuutukoon hän sitten ja sanokoon:Minä todistan siitä, mistä ovat todistaneet kaikki luotu ja korkeuden väki ja kaikkein korkeimman paratiisin asukkaat ja heidän yläpuolellaan itse Suuruuden kieli kaikkein kirkkaimmalta taivaanrannalta, että Sinä olet Jumala, että ei ole muuta Jumalaa kuin Sinä ja että Hän, joka on ilmaistu, on Kätketty mysteeri, Vaalittu tunnuskuva, jonka kautta kirjaimet O ja L ja E (ole) on liitetty ja sidottu yhteen. Todistan, että juuri Hän on se, jonka nimen Korkeimman kynä on kirjannut ja joka on mainittu Jumalan, korkeuden valtaistuimen ja maanpiirin Herran kirjoissa.*Seisköön hän sitten suorana ja sanokoon:Oi kaiken olemassaolon Herra ja kaiken näkyväisen ja näkymättömän Omistaja!  Sinä havaitset kyyneleni ja huokailuni, Sinä kuulet vaikerrukseni, itkuni ja sydämeni valituksen. Mahtisi kautta! Rikkomukseni ovat pidättäneet minua pääsemästä lähelle Sinua, ja syntini ovat pitäneet minut kaukana Sinun pyhyytesi esikartanosta. Rakkautesi, oi Herrani, on minut rikastuttanut, ero Sinusta on minut tuhonnut ja etäisyys Sinusta on minut riuduttanut. Anon Sinua hartaasti kautta askeltesi tässä erämaassa ja kautta sanojen "Tässä minä olen, tässä minä olen", jotka Sinun valittusi ovat tässä äärettömyydessä lausuneet, sekä kautta ilmoituksesi henkäysten ja kautta ilmaisemisesi sarastuksen leutojen tuulten säätämään, että voisin katsoa Sinun kauneuttasi ja noudattaa sitä, mitä ikinä Sinun kirjassasi on. *Toistakoon hän sitten kolmasti Korkeimman nimen ja kumartukoon käsillänsä polviinsa nojaten ja sanokoon:Ylistys olkoon Sinun, oi Jumalani, että olet auttanut minua muistamaan Sinua ja ylistämään Sinua ja saattanut minut tuntemaan Hänet, joka on Sinun merkkiesi päivänkoitto, ja saanut minut kumartumaan herrautesi edessä ja nöyrtymään jumaluutesi edessä ja tunnustamaan sen, minkä suuruutesi Kieli on lausunut.*Nouskoon hän sitten ja sanokoon:Oi Jumala, minun Jumalani! Selkäni on kumarassa syntieni taakasta, ja piittaamattomuuteni on tuhonnut minut. Aina kun pohdin pahoja tekojani ja Sinun hyvyyttäsi, sydämeni sulaa rinnassani ja vereni kiehuu suonissani. Kauneutesi kautta, oi Sinä maailman Kaivattu! Punastun kohottaessani kasvoni puoleesi,  ja kaipaavat käteni häpeävät kurottaessaan kohti anteliaisuutesi taivasta. Sinä näet, oi Jumalani, kuinka kyyneleni estävät minua muistamasta Sinua ja ylistämästä hyveitäsi, oi Sinä korkeuden valtaistuimen ja maanpiirin Herra! Pyydän Sinua hartaasti valtakuntasi merkkien ja valtiutesi mysteerien kautta menettelemään rakkaittesi kanssa niin, kuin anteliaisuuteesi sopii, oi kaiken olemassaolon Herra, ja niin, kuin on Sinun armosi mukaista, oi näkyväisen ja näkymättömän Kuningas!*Toistakoon hän sitten kolmasti Korkeimman nimen ja polvistukoon otsansa maahan painaen ja sanokoon:Ylistys olkoon Sinun, oi Jumalamme, että olet meille alas lähettänyt sen, mikä vetää meitä lähelle Sinua ja suo meille kaiken sen hyvän, jonka olet kirjoissasi ja kirjoituksissasi alas lähettänyt. Rukoilemme  Sinua, oi Herrani, varjelemaan meitä joutavien mielijohteiden ja turhien kuvittelujen sotajoukoilta. Sinä toden totta olet Mahtava, Kaikkitietävä.*Kohottakoon hän sitten päänsä, istuutukoon ja sanokoon:Todistan siitä, oi Jumalani, mistä valittusi ovat todistaneet, ja tunnustan sen, minkä kaikkein korkeimman paratiisin asukkaat ja mahtavan valtaistuimesi ympärillä kiertäneet ovat tunnustaneet. Maan ja taivaan valtakunnat ovat Sinun, oi maailmain Herra!
 
 -- Bahá'u'lláh
 
-bpn7484 «[Suomi](../fi/prayers/#bpn7484)» 
+bpn7484 
 
 ----
 
@@ -1307,7 +1308,7 @@ Hän on Jumala, ylistetty olkoon Hän, laupeuden ja anteliaisuuden Herra!Ylistys
 
 -- Bahá'u'lláh
 
-bpn7570 «[Suomi](../fi/prayers/#bpn7570)» 
+bpn7570 
 
 ----
 
@@ -1317,7 +1318,7 @@ Hän on Jumala!Oi verraton Herra! Ylistetty olet Sinä tuon valon sytyttämisest
 
 -- Abdu'l-Bahá
 
-bpn7571 «[Suomi](../fi/prayers/#bpn7571)» 
+bpn7571 
 
 ----
 
@@ -1327,7 +1328,7 @@ Oi Jumalani! Oi Sinä syntien anteeksi antaja, lahjojen jakaja, kärsimysten kar
 
 -- Abdu'l-Bahá
 
-bpn7572 «[Suomi](../fi/prayers/#bpn7572)» 
+bpn7572 
 
 ----
 
@@ -1337,7 +1338,7 @@ Oi Jumalani! Oi Jumalani! Totisesti Sinun palvelijasi, nöyränä jumalallisen y
 
 -- Abdu'l-Bahá
 
-bpn7573 «[Suomi](../fi/prayers/#bpn7573)» 
+bpn7573 
 
 ----
 
@@ -1347,7 +1348,7 @@ Oi sinä anteeksi antava Herra! Vaikka tietyt sielut päättivät elon päivät 
 
 -- Abdu'l-Bahá
 
-bpn7574 «[Suomi](../fi/prayers/#bpn7574)» 
+bpn7574 
 
 ----
 
@@ -1361,7 +1362,7 @@ Sinun, oi Jumalan oksa, olkoon Jumalan muisteleminen ja Hänen ylistyksensä ja 
 
 -- Bahá'u'lláh
 
-bpn7607 «[Suomi](../fi/prayers/#bpn7607)» 
+bpn7607 
 
 ----
 
@@ -1371,11 +1372,11 @@ bpn7607 «[Suomi](../fi/prayers/#bpn7607)»
 ## Pyhän merenkulkijan muistio
 
 <a id="bpn7595"></a> 
-*Bahá&#39;u&#39;lláh ilmaisi Pyhän merenkulkijan muistion Baghdádissa. Pyhä merenkulkija on viittaus Bahá&#39;u&#39;lláhiin itseensä, ja muistiossa mainittu arkki on Hänen asiansa arkki.*Shoghi Effendi Hän on Armollinen, Ylen rakastettu!Oi Pyhä merenkulkija! Suo iankaikkisuuden arkkisi ilmestyä taivaisen väkijoukon eteen,Ylistetty olkoon Herrani, Kaikkein kirkkain!laske se ikiaikain vesille Hänen nimessänsä, Kaikkein ihmeisimmässä,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja salli enkelhenkien astua sisään Jumalan, Kaikkein korkeimman nimessä. Ylistetty olkoon Herrani, Kaikkein kirkkain!Ankkuri sen sitten nosta, että se lipua vois&#39; kirkkauden valtamerelle,Ylistetty olkoon Herrani, Kaikkein kirkkain!kenties siinä matkaavat saavuttavat läheisyyden leposijat ikuisuuden valtakunnassa.Ylistetty olkoon Herrani, Kaikkein kirkkain!Perillä pyhällä rannikolla, purppurameriltä rantauduttuaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!suo heidän käydä esiin ja saavuttaa tämä eteerinen, näkymätön asema,Ylistetty olkoon Herrani, Kaikkein kirkkain!asema, jossa Herra on Kauneutensa liekissä ilmestynyt kuolemattomassa puussa,Ylistetty olkoon Herrani, Kaikkein kirkkain! jossa Hänen asiansa ruumistumat puhdistautuivat itsestä ja intohimosta,Ylistetty olkoon Herrani, Kaikkein kirkkain!jonka ympärillä kiertää Mooseksen kirkkaus ikuisine sotajoukkoinensa,Ylistetty olkoon Herrani, Kaikkein kirkkain!jossa Jumalan käsi kohosi esiin Hänen suuruutensa povesta,Ylistetty olkoon Herrani, Kaikkein kirkkain!jossa asian arkki pysyy liikkumatta, vaikka sen asukkaille tuotaisiin julki kaikki jumalalliset ominaisuudet.Ylistetty olkoon Herrani, Kaikkein kirkkain!Oi Merenkulkija! Opeta arkissa oleville, mitä Me olemme sinulle opettanut mystisen verhon takana,Ylistetty olkoon Herrani, Kaikkein kirkkain!jotta he eivät aikailisi pyhällä lumivalkealla  paikalla,Ylistetty olkoon Herrani, Kaikkein kirkkain!vaan hengen siivin voisivat kohota tuohon asemaan, jonka Herra on korottanut yli kaiken maininnan alisissa maailmoissa,Ylistetty olkoon Herrani, Kaikkein kirkkain!voisivat kiitää halki avaruuden aivan kuin armoitetut linnut ikuisen jälleenyhtymisen valtakunnassa,Ylistetty olkoon Herrani, Kaikkein kirkkain!voisivat tietää valkeuden meriin kätkeytyvät salaisuudet.Ylistetty olkoon Herrani, Kaikkein kirkkain!He sivuuttivat maailmallisten rajoitusten asteet ja saavuttivat jumalallisen ykseyden tason, taivaallisen johdatuksen keskuksen.Ylistetty olkoon Herrani, Kaikkein kirkkain! He ovat halunneet kohota siihen tilaan, jonka Herra on asettanut heidän asemansa yläpuolelle.Ylistetty olkoon Herrani, Kaikkein kirkkain!Tällöin palava meteori viskasi heidät niiden luota, jotka asustavat Hänen läheisyytensä valtakunnassa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja he kuulivat suuruuden äänen kohoavan näkymättömän paviljongin takaa kirkkauden huipulla:Ylistetty olkoon Herrani, Kaikkein kirkkain!&#34;Oi suojelusenkelit! Palauttakaa heidät asuinsijoillensa aliseen maailmaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!sillä he ovat yrittäneet nousta siihen piiriin, jota taivaisen kyyhkyn siivet eivät koskaan ole tavoittaneet,Ylistetty olkoon Herrani, Kaikkein  kirkkain!tällöin kuvittelun laiva seisoo liikkumatta, mitä ymmärtäväisten mielet eivät saata käsittää.&#34;Ylistetty olkoon Herrani, Kaikkein kirkkain!Tällöin taivaan neitsyt katsahti ulos ylhäisestä kammiostansa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja loi katseensa taivaisen väkijoukon puoleenYlistetty olkoon Herrani, Kaikkein kirkkain!valaisten kasvojensa valolla taivaan ja maan,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja kun hänen kauneutensa loisto säteili tomun ihmisille,Ylistetty olkoon Herrani, Kaikkein kirkkain!kaikkia olentoja ravisteltiin katoavaisissa  haudoissansa.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän kohotti sitten kutsun, jota mikään korva ei ikiaikoina ollut kuullut,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja näin hän julisti: &#34;Kautta Herran! Kenen sydämessä ei asusta rakkauden sulotuoksu ylevää ja loistavaa Arabian nuorukaista kohtaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!hän ei mitenkään saata yletä korkeimman taivaan kirkkauteen.&#34;Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin neitsyt kutsui luokseen neidon palvelijatartensa joukostaYlistetty olkoon Herrani, Kaikkein kirkkain!ja käski häntä sanoen: &#34;Laskeudu avaruuteen ikuisuuden asuinsijoilta Ylistetty olkoon Herrani, Kaikkein kirkkain!ja käänny sen puoleen, minkä he ovat salanneet sydämensä sisimpään.Ylistetty olkoon Herrani, Kaikkein kirkkain!Jos hengität tuon Nuorukaisen viitan tuoksua, joka on kätketty valon pyhättöön sen vuoksi, minkä katalain kädet ovat tehneet,Ylistetty olkoon Herrani, Kaikkein kirkkain!kohota itsessäsi huuto, jotta kaikki paratiisin kammioiden asukkaat, jotka ovat ikuisen rikkauden ruumistumat, voisivat ymmärtää ja kuulla,Ylistetty olkoon Herrani, Kaikkein kirkkainjotta he kaikki voisivat tulla alas iankaikkisista kammioistansa ja vavista,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja suutele heidän käsiänsä ja jalkojansa  siksi, että he ovat kohonneet uskollisuuden korkeuksiin,Ylistetty olkoon Herrani, Kaikkein kirkkain!kenties he löytävät vaatteestansa Rakastetun sulotuoksun.”Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin armoitetun neitsykäisen kasvot sädehtivät taivaisten kammioitten yllä aivan kuin valkeus, joka loistaa Nuorukaisen kasvoilta Hänen kuolevaisen temppelinsä yllä,Ylistetty olkoon Herrani, Kaikkein kirkkain!neito sitten laskeutui niin koreana, kuin olisi valaissut taivaat ja kaiken siellä olevan.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän tarttui toimeen ja täytti tuoksulla kaiken pyhyyden ja suuruuden maissa.Ylistetty olkoon Herrani, Kaikkein  kirkkain!Päästyään perille tuohon paikkaan hän ojentautui täyteen mittaansa luomakunnan keskisimmässä sydämessäYlistetty olkoon Herrani, Kaikkein kirkkain!ja koetti hengittää heidän sulotuoksuansa hetkellä, joka ei tunne alkua eikä loppua.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän ei heistä löytänyt halajamaansa, ja tämä totisesti on vain yksi Nuorukaisen ihmeisistä tarinoista.Ylistetty olkoon Herrani, Kaikkein kirkkain!Neito sitten ääneen itki, vaikeroi ja vetäytyi omaan asemaansa ylhäisimmille asuinsijoillensa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja lausui sitten julki yhden mystisen sanan kuiskaten sen itsekseen hunajaisella  äänellänsäYlistetty olkoon Herrani, Kaikkein kirkkain!ja kaiutti taivaisen väkijoukon ja kuolematonten taivaan neitojen keskellä:Ylistetty olkoon Herrani, Kaikkein kirkkain!&#34;Kautta Herran! Löytänyt en näistä teeskentelijöistä uskollisuuden tuulahdusta!Ylistetty olkoon Herrani, Kaikkein kirkkain!Kautta Herran! Nuorukainen on jäänyt yksin ja hyljätyksi karkotuksen maahan jumalattomain käsiin.&#34;Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän ilmoille sitten itsessään sellaisen huudon päästi, että taivainen väki ulvahti ja vavahti,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja hän kaatui tomuun ja heitti henkensä.  Nähtävästi hänet kutsuttiin ja kuulutettiin Hänen luokseen, joka määräsi hänet korkeuden valtakuntaan.Ylistetty olkoon Herrani, Kaikkein kirkkain!Kirkastettu olkoon Hän, joka loi neidon rakkauden ytimestä ylevän paratiisinsa sisimmässä sydämessä!Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin kiiruhtivat kammioistansa taivaan neidot, joiden kasvoja ei kukaan korkeimman paratiisin asukkaista ollut ikinä katsellut.Ylistetty olkoon Herramme, Kaikkein korkein!He kaikki kerääntyivät hänen ympärilleen ja katso: he näkivät hänen ruumiinsa makaavan tomussaYlistetty olkoon Herramme, Kaikkein korkein!ja havaitessaan hänen tilansa ja käsittäessään sanasen Nuorukaisen kertomasta  tarinasta he paljastivat päänsä, repäisivät vaatteensa, hakkasivat kasvojansa, unhottivat riemunsa, vuodattivat kyyneleitä ja löivät käsin poskiansa, ja tämä totisesti on yksi arvoituksellisista raskaista koettelemuksista.Ylistetty olkoon Herramme, Kaikkein korkein!
+*Bahá'u'lláh ilmaisi Pyhän merenkulkijan muistion Baghdádissa. Pyhä merenkulkija on viittaus Bahá'u'lláhiin itseensä, ja muistiossa mainittu arkki on Hänen asiansa arkki.*Shoghi Effendi Hän on Armollinen, Ylen rakastettu!Oi Pyhä merenkulkija! Suo iankaikkisuuden arkkisi ilmestyä taivaisen väkijoukon eteen,Ylistetty olkoon Herrani, Kaikkein kirkkain!laske se ikiaikain vesille Hänen nimessänsä, Kaikkein ihmeisimmässä,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja salli enkelhenkien astua sisään Jumalan, Kaikkein korkeimman nimessä. Ylistetty olkoon Herrani, Kaikkein kirkkain!Ankkuri sen sitten nosta, että se lipua vois' kirkkauden valtamerelle,Ylistetty olkoon Herrani, Kaikkein kirkkain!kenties siinä matkaavat saavuttavat läheisyyden leposijat ikuisuuden valtakunnassa.Ylistetty olkoon Herrani, Kaikkein kirkkain!Perillä pyhällä rannikolla, purppurameriltä rantauduttuaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!suo heidän käydä esiin ja saavuttaa tämä eteerinen, näkymätön asema,Ylistetty olkoon Herrani, Kaikkein kirkkain!asema, jossa Herra on Kauneutensa liekissä ilmestynyt kuolemattomassa puussa,Ylistetty olkoon Herrani, Kaikkein kirkkain! jossa Hänen asiansa ruumistumat puhdistautuivat itsestä ja intohimosta,Ylistetty olkoon Herrani, Kaikkein kirkkain!jonka ympärillä kiertää Mooseksen kirkkaus ikuisine sotajoukkoinensa,Ylistetty olkoon Herrani, Kaikkein kirkkain!jossa Jumalan käsi kohosi esiin Hänen suuruutensa povesta,Ylistetty olkoon Herrani, Kaikkein kirkkain!jossa asian arkki pysyy liikkumatta, vaikka sen asukkaille tuotaisiin julki kaikki jumalalliset ominaisuudet.Ylistetty olkoon Herrani, Kaikkein kirkkain!Oi Merenkulkija! Opeta arkissa oleville, mitä Me olemme sinulle opettanut mystisen verhon takana,Ylistetty olkoon Herrani, Kaikkein kirkkain!jotta he eivät aikailisi pyhällä lumivalkealla  paikalla,Ylistetty olkoon Herrani, Kaikkein kirkkain!vaan hengen siivin voisivat kohota tuohon asemaan, jonka Herra on korottanut yli kaiken maininnan alisissa maailmoissa,Ylistetty olkoon Herrani, Kaikkein kirkkain!voisivat kiitää halki avaruuden aivan kuin armoitetut linnut ikuisen jälleenyhtymisen valtakunnassa,Ylistetty olkoon Herrani, Kaikkein kirkkain!voisivat tietää valkeuden meriin kätkeytyvät salaisuudet.Ylistetty olkoon Herrani, Kaikkein kirkkain!He sivuuttivat maailmallisten rajoitusten asteet ja saavuttivat jumalallisen ykseyden tason, taivaallisen johdatuksen keskuksen.Ylistetty olkoon Herrani, Kaikkein kirkkain! He ovat halunneet kohota siihen tilaan, jonka Herra on asettanut heidän asemansa yläpuolelle.Ylistetty olkoon Herrani, Kaikkein kirkkain!Tällöin palava meteori viskasi heidät niiden luota, jotka asustavat Hänen läheisyytensä valtakunnassa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja he kuulivat suuruuden äänen kohoavan näkymättömän paviljongin takaa kirkkauden huipulla:Ylistetty olkoon Herrani, Kaikkein kirkkain!"Oi suojelusenkelit! Palauttakaa heidät asuinsijoillensa aliseen maailmaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!sillä he ovat yrittäneet nousta siihen piiriin, jota taivaisen kyyhkyn siivet eivät koskaan ole tavoittaneet,Ylistetty olkoon Herrani, Kaikkein  kirkkain!tällöin kuvittelun laiva seisoo liikkumatta, mitä ymmärtäväisten mielet eivät saata käsittää."Ylistetty olkoon Herrani, Kaikkein kirkkain!Tällöin taivaan neitsyt katsahti ulos ylhäisestä kammiostansa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja loi katseensa taivaisen väkijoukon puoleenYlistetty olkoon Herrani, Kaikkein kirkkain!valaisten kasvojensa valolla taivaan ja maan,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja kun hänen kauneutensa loisto säteili tomun ihmisille,Ylistetty olkoon Herrani, Kaikkein kirkkain!kaikkia olentoja ravisteltiin katoavaisissa  haudoissansa.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän kohotti sitten kutsun, jota mikään korva ei ikiaikoina ollut kuullut,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja näin hän julisti: "Kautta Herran! Kenen sydämessä ei asusta rakkauden sulotuoksu ylevää ja loistavaa Arabian nuorukaista kohtaan,Ylistetty olkoon Herrani, Kaikkein kirkkain!hän ei mitenkään saata yletä korkeimman taivaan kirkkauteen."Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin neitsyt kutsui luokseen neidon palvelijatartensa joukostaYlistetty olkoon Herrani, Kaikkein kirkkain!ja käski häntä sanoen: "Laskeudu avaruuteen ikuisuuden asuinsijoilta Ylistetty olkoon Herrani, Kaikkein kirkkain!ja käänny sen puoleen, minkä he ovat salanneet sydämensä sisimpään.Ylistetty olkoon Herrani, Kaikkein kirkkain!Jos hengität tuon Nuorukaisen viitan tuoksua, joka on kätketty valon pyhättöön sen vuoksi, minkä katalain kädet ovat tehneet,Ylistetty olkoon Herrani, Kaikkein kirkkain!kohota itsessäsi huuto, jotta kaikki paratiisin kammioiden asukkaat, jotka ovat ikuisen rikkauden ruumistumat, voisivat ymmärtää ja kuulla,Ylistetty olkoon Herrani, Kaikkein kirkkainjotta he kaikki voisivat tulla alas iankaikkisista kammioistansa ja vavista,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja suutele heidän käsiänsä ja jalkojansa  siksi, että he ovat kohonneet uskollisuuden korkeuksiin,Ylistetty olkoon Herrani, Kaikkein kirkkain!kenties he löytävät vaatteestansa Rakastetun sulotuoksun.”Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin armoitetun neitsykäisen kasvot sädehtivät taivaisten kammioitten yllä aivan kuin valkeus, joka loistaa Nuorukaisen kasvoilta Hänen kuolevaisen temppelinsä yllä,Ylistetty olkoon Herrani, Kaikkein kirkkain!neito sitten laskeutui niin koreana, kuin olisi valaissut taivaat ja kaiken siellä olevan.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän tarttui toimeen ja täytti tuoksulla kaiken pyhyyden ja suuruuden maissa.Ylistetty olkoon Herrani, Kaikkein  kirkkain!Päästyään perille tuohon paikkaan hän ojentautui täyteen mittaansa luomakunnan keskisimmässä sydämessäYlistetty olkoon Herrani, Kaikkein kirkkain!ja koetti hengittää heidän sulotuoksuansa hetkellä, joka ei tunne alkua eikä loppua.Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän ei heistä löytänyt halajamaansa, ja tämä totisesti on vain yksi Nuorukaisen ihmeisistä tarinoista.Ylistetty olkoon Herrani, Kaikkein kirkkain!Neito sitten ääneen itki, vaikeroi ja vetäytyi omaan asemaansa ylhäisimmille asuinsijoillensa,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja lausui sitten julki yhden mystisen sanan kuiskaten sen itsekseen hunajaisella  äänellänsäYlistetty olkoon Herrani, Kaikkein kirkkain!ja kaiutti taivaisen väkijoukon ja kuolematonten taivaan neitojen keskellä:Ylistetty olkoon Herrani, Kaikkein kirkkain!"Kautta Herran! Löytänyt en näistä teeskentelijöistä uskollisuuden tuulahdusta!Ylistetty olkoon Herrani, Kaikkein kirkkain!Kautta Herran! Nuorukainen on jäänyt yksin ja hyljätyksi karkotuksen maahan jumalattomain käsiin."Ylistetty olkoon Herrani, Kaikkein kirkkain!Hän ilmoille sitten itsessään sellaisen huudon päästi, että taivainen väki ulvahti ja vavahti,Ylistetty olkoon Herrani, Kaikkein kirkkain!ja hän kaatui tomuun ja heitti henkensä.  Nähtävästi hänet kutsuttiin ja kuulutettiin Hänen luokseen, joka määräsi hänet korkeuden valtakuntaan.Ylistetty olkoon Herrani, Kaikkein kirkkain!Kirkastettu olkoon Hän, joka loi neidon rakkauden ytimestä ylevän paratiisinsa sisimmässä sydämessä!Ylistetty olkoon Herrani, Kaikkein kirkkain!Silloin kiiruhtivat kammioistansa taivaan neidot, joiden kasvoja ei kukaan korkeimman paratiisin asukkaista ollut ikinä katsellut.Ylistetty olkoon Herramme, Kaikkein korkein!He kaikki kerääntyivät hänen ympärilleen ja katso: he näkivät hänen ruumiinsa makaavan tomussaYlistetty olkoon Herramme, Kaikkein korkein!ja havaitessaan hänen tilansa ja käsittäessään sanasen Nuorukaisen kertomasta  tarinasta he paljastivat päänsä, repäisivät vaatteensa, hakkasivat kasvojansa, unhottivat riemunsa, vuodattivat kyyneleitä ja löivät käsin poskiansa, ja tämä totisesti on yksi arvoituksellisista raskaista koettelemuksista.Ylistetty olkoon Herramme, Kaikkein korkein!
 
 -- Bahá'u'lláh
 
-bpn7595 «[Suomi](../fi/prayers/#bpn7595)» 
+bpn7595 
 
 ----
 
@@ -1389,7 +1390,7 @@ bpn7595 «[Suomi](../fi/prayers/#bpn7595)»
 
 -- Abdu'l-Bahá
 
-bpn7575 «[Suomi](../fi/prayers/#bpn7575)» 
+bpn7575 
 
 ----
 
@@ -1399,11 +1400,11 @@ bpn7575 «[Suomi](../fi/prayers/#bpn7575)»
 ## Rukous kuolleille
 
 <a id="bpn7603"></a> 
-Oi Jumalani! Tämä on palvelijasi ja palvelijasi poika, joka on uskonut Sinuun ja Sinun merkkeihisi ja kääntänyt kasvonsa Sinun puoleesi kokonaan irrottautuneena kaikesta paitsi Sinusta. Sinä totisesti olet armoa osoittavista kaikkein armeliain.Menettele hänen kanssaan, oi Sinä, joka annat anteeksi ihmisten synnit ja salaat heidän vikansa, niin, kuin on soveliasta Sinun anteliaisuutesi taivaalle ja Sinun armosi valtamerelle. Suo hänelle pääsy ylimaallisen armeliaisuutesi piiriin, joka oli ennen taivaan ja maan asettamistakin. Ei ole muuta Jumala kuin Sinä, Aina anteeksi antava, Kaikkein jalomielisin.Toistakoon hän sitten kuusi kertaa tervehdyksen &#34;Alláh-u-Abhá&#34; ja niiden jälkeen  yhdeksäntoista kertaa kunkin seuraavista säkeistä:*Me kaikki totisesti palvomme Jumalaa.*Me kaikki totisesti kumarrumme Jumalan edessä.*Me kaikki totisesti olemme pyhittäytyneet Jumalalle.*Me kaikki totisesti ylistämme Jumalaa.*Me kaikki totisesti kiitämme Jumalaa.*Me kaikki totisesti olemme kärsivälliset Jumalassa.*(Jos kuollut on nainen, tulee sanoa: Tämä on palvelijattaresi ja palvelijattaresi tytär jne.)
+Oi Jumalani! Tämä on palvelijasi ja palvelijasi poika, joka on uskonut Sinuun ja Sinun merkkeihisi ja kääntänyt kasvonsa Sinun puoleesi kokonaan irrottautuneena kaikesta paitsi Sinusta. Sinä totisesti olet armoa osoittavista kaikkein armeliain.Menettele hänen kanssaan, oi Sinä, joka annat anteeksi ihmisten synnit ja salaat heidän vikansa, niin, kuin on soveliasta Sinun anteliaisuutesi taivaalle ja Sinun armosi valtamerelle. Suo hänelle pääsy ylimaallisen armeliaisuutesi piiriin, joka oli ennen taivaan ja maan asettamistakin. Ei ole muuta Jumala kuin Sinä, Aina anteeksi antava, Kaikkein jalomielisin.Toistakoon hän sitten kuusi kertaa tervehdyksen "Alláh-u-Abhá" ja niiden jälkeen  yhdeksäntoista kertaa kunkin seuraavista säkeistä:*Me kaikki totisesti palvomme Jumalaa.*Me kaikki totisesti kumarrumme Jumalan edessä.*Me kaikki totisesti olemme pyhittäytyneet Jumalalle.*Me kaikki totisesti ylistämme Jumalaa.*Me kaikki totisesti kiitämme Jumalaa.*Me kaikki totisesti olemme kärsivälliset Jumalassa.*(Jos kuollut on nainen, tulee sanoa: Tämä on palvelijattaresi ja palvelijattaresi tytär jne.)
 
 -- Bahá'u'lláh
 
-bpn7603 «[Suomi](../fi/prayers/#bpn7603)» 
+bpn7603 
 
 ----
 
@@ -1417,7 +1418,7 @@ Korotettu olkoon Sinun nimesi, oi Herra minun Jumalani! Sinä olet Hän, jota ka
 
 -- Bahá'u'lláh
 
-bpn7576 «[Suomi](../fi/prayers/#bpn7576)» 
+bpn7576 
 
 ----
 
@@ -1427,7 +1428,7 @@ Anon Sinua, oi Jumalani, ylhäisimmän Sanasi kautta, jonka olet määrännyt ka
 
 -- Bahá'u'lláh
 
-bpn11240 «[Suomi](../fi/prayers/#bpn11240)» 
+bpn11240 
 
 ----
 
@@ -1437,7 +1438,7 @@ Sano: Jumala tyydyttää kaiken yli kaiken, eikä taivaissa eikä maan päällä
 
 -- Báb
 
-bpn7577 «[Suomi](../fi/prayers/#bpn7577)» 
+bpn7577 
 
 ----
 
@@ -1451,7 +1452,7 @@ Jumalan, Ikiaikaisimman, Suurimman, nimeen.Totisesti vilpittömäin sydäntä ku
 
 -- Bahá'u'lláh
 
-bpn7593 «[Suomi](../fi/prayers/#bpn7593)» 
+bpn7593 
 
 ----
 
@@ -1465,7 +1466,7 @@ Valkeus ja kirkkaus, tervehdys ja ylistys olkoot Hänen asiansa kätten pääll�
 
 -- Bahá'u'lláh
 
-bpn7578 «[Suomi](../fi/prayers/#bpn7578)» 
+bpn7578 
 
 ----
 
@@ -1475,21 +1476,21 @@ bpn7578 «[Suomi](../fi/prayers/#bpn7578)»
 ## Vierailumuistiot
 
 <a id="bpn7582"></a> 
-*(Tätä muistiota luetaan Bahá&#39;u&#39;lláhin ja Bábin hautapyhäköissä. Sitä käytetään usein myös heidän muistojuhliaan vietettäessä.)Ylistys, joka on sarastanut Sinun ylhäisimmästä itsestäsi, ja kunnia, joka on loistanut Sinun säteilevimmästä kauneudestasi, levätkööt ylläsi, oi Sinä, joka olet Suuruuden ilmaisija, Ikuisuuden kuningas ja kaikkien taivaassa ja maan päällä olevien Herra! Todistan, että Sinun kauttasi ilmaistiin Jumalan herruus ja Hänen valtiutensa sekä Jumalan majesteettius ja Hänen suuruutensa ja että ikiaikaisen loiston Päiväntähdet ovat vuodattaneet sädeloistettansa Sinun peruuttamattoman säädöksesi taivaaseen ja  Näkymättömän kauneus on loistanut luomisen taivaanrannan yllä. Todistan vielä, että vain yhdellä Kynäsi vedolla käskysi &#34;ole&#34; on vahvistettu ja Jumalan kätketty salaisuus paljastettu ja kaikki luotu kutsuttu olevaisuuteen ja kaikki pyhät ilmoitukset lähetetty alas.Tunnustan edelleen, että Sinun kauneutesi kautta jumaloidun kauneuden peittänyt verho on poistettu ja Sinun kasvojesi kautta kaivatun kasvot ovat loistaneet ja että yhdellä sanallasi Sinä olet erotellut kaikki luodut antaen Sinulle pyhittäytyneiden kohota kirkkauden korkeuteen ja uskottomien vajota alimpaan alhoon.Tunnustan, että se, joka on tuntenut Sinut, on tuntenut Jumalan, ja että se, joka on päässyt tykösi, on päässyt Jumalan tykö. Suuri on sen tähden oleva sen siunaus, joka on uskonut Sinuun ja Sinun merkkeihisi, nöyrtynyt Sinun herruutesi edessä, saanut kunnian kohdata  Sinut, päässyt tahtosi suosioon, kiertänyt Sinun ympärilläsi ja seisonut valtaistuimesi edessä. Voi sitä, joka on rikkonut Sinua vastaan, kieltänyt Sinut, vähätellyt merkkejäsi, kiistänyt herruutesi, noussut Sinua vastustamaan, ylpeillyt kasvojesi edessä, epäillyt todisteitasi ja paennut valtaasi ja valtiuttasi ja luettu uskottomiin, joiden nimet Sinun käskysi sormet ovat kirjoittaneet pyhiin muistioihisi.Henkäise sitten päälleni, oi Jumalani ja Rakastettuni, armeliaisuutesi ja laupeutesi oikeasta kädestä suosion pyhät tuulahdukset, että ne saisivat minut vetäytymään pois itsestäni ja maailmasta läheisyytesi ja läsnäolosi esikartanoihin. Sinulla on valta tehdä niin, kuin mielit. Sinä todellakin olet ollut ylimmäinen yli kaiken.Jumalan muistaminen ja Hänen ylistyksensä sekä Jumalan kirkkaus ja Hänen loistonsa olkoot päälläsi, oi Sinä, joka olet Hänen kauneutensa! Tunnustan,  että luomakunnan silmä ei ole koskaan nähnyt ketään, joka olisi kärsinyt sellaista vääryyttä kuin Sinä. Koko elinaikasi olit upotettuna kärsimysten valtamereen. Milloin olit kahleissa ja raudoissa, milloin taas vihollistesi miekan uhkaamana. Kaikesta tästä huolimatta Sinä kuitenkin velvoitit kaikki ihmiset noudattamaan sitä, minkä oli määrännyt Hän, joka on Kaikkitietävä, Kaikkiviisas.Olkoon henkeni uhrina kärsimillesi vääryyksille ja sieluni lunnaina kestämillesi vastoinkäymisille. Rukoilen Jumalaa Sinun nimeesi ja niiden nimeen, joiden kasvoja Sinun kasvojesi valon kirkkaus on valaissut ja jotka rakkaudesta Sinuun ovat noudattaneet kaikkea, mihin heitä oli käsketty, poistamaan verhot, jotka ovat tulleet Sinun ja luotujesi väliin, ja suomaan minulle sekä tämän että tulevan maailman hyvyyttä. Sinä olet toden totta Kaikkivaltias, Kaikkein ylevin, Kaikkein kirkkain, Aina anteeksi antava, Sääliväisin. Siunaa, oi Herra minun Jumalani, jumalallista Lootuspuuta ja sen lehviä, sen haaroja ja oksia, sen varsia ja vesoja niin kauan, kuin Sinun oivallisimmat arvonimesi pysyvät ja ylhäisimmät ominaisuutesi kestävät. Suojele sitä sitten hyökkääjän ilkivallalta ja sortovallan joukoilta. Sinä olet toden totta Kaikkivaltias, Kaikkein voimallisin. Siunaa, oi Herra, minun Jumalani, myös palvelijoitasi ja palvelijattariasi, jotka ovat päässeet tykösi. Sinä olet todellakin Kaikkiantelias, jonka armo on rajaton. Ei ole muuta Jumalaa kuin Sinä, Aina anteeksi antava, Jalomielisin.
+*(Tätä muistiota luetaan Bahá'u'lláhin ja Bábin hautapyhäköissä. Sitä käytetään usein myös heidän muistojuhliaan vietettäessä.)Ylistys, joka on sarastanut Sinun ylhäisimmästä itsestäsi, ja kunnia, joka on loistanut Sinun säteilevimmästä kauneudestasi, levätkööt ylläsi, oi Sinä, joka olet Suuruuden ilmaisija, Ikuisuuden kuningas ja kaikkien taivaassa ja maan päällä olevien Herra! Todistan, että Sinun kauttasi ilmaistiin Jumalan herruus ja Hänen valtiutensa sekä Jumalan majesteettius ja Hänen suuruutensa ja että ikiaikaisen loiston Päiväntähdet ovat vuodattaneet sädeloistettansa Sinun peruuttamattoman säädöksesi taivaaseen ja  Näkymättömän kauneus on loistanut luomisen taivaanrannan yllä. Todistan vielä, että vain yhdellä Kynäsi vedolla käskysi "ole" on vahvistettu ja Jumalan kätketty salaisuus paljastettu ja kaikki luotu kutsuttu olevaisuuteen ja kaikki pyhät ilmoitukset lähetetty alas.Tunnustan edelleen, että Sinun kauneutesi kautta jumaloidun kauneuden peittänyt verho on poistettu ja Sinun kasvojesi kautta kaivatun kasvot ovat loistaneet ja että yhdellä sanallasi Sinä olet erotellut kaikki luodut antaen Sinulle pyhittäytyneiden kohota kirkkauden korkeuteen ja uskottomien vajota alimpaan alhoon.Tunnustan, että se, joka on tuntenut Sinut, on tuntenut Jumalan, ja että se, joka on päässyt tykösi, on päässyt Jumalan tykö. Suuri on sen tähden oleva sen siunaus, joka on uskonut Sinuun ja Sinun merkkeihisi, nöyrtynyt Sinun herruutesi edessä, saanut kunnian kohdata  Sinut, päässyt tahtosi suosioon, kiertänyt Sinun ympärilläsi ja seisonut valtaistuimesi edessä. Voi sitä, joka on rikkonut Sinua vastaan, kieltänyt Sinut, vähätellyt merkkejäsi, kiistänyt herruutesi, noussut Sinua vastustamaan, ylpeillyt kasvojesi edessä, epäillyt todisteitasi ja paennut valtaasi ja valtiuttasi ja luettu uskottomiin, joiden nimet Sinun käskysi sormet ovat kirjoittaneet pyhiin muistioihisi.Henkäise sitten päälleni, oi Jumalani ja Rakastettuni, armeliaisuutesi ja laupeutesi oikeasta kädestä suosion pyhät tuulahdukset, että ne saisivat minut vetäytymään pois itsestäni ja maailmasta läheisyytesi ja läsnäolosi esikartanoihin. Sinulla on valta tehdä niin, kuin mielit. Sinä todellakin olet ollut ylimmäinen yli kaiken.Jumalan muistaminen ja Hänen ylistyksensä sekä Jumalan kirkkaus ja Hänen loistonsa olkoot päälläsi, oi Sinä, joka olet Hänen kauneutensa! Tunnustan,  että luomakunnan silmä ei ole koskaan nähnyt ketään, joka olisi kärsinyt sellaista vääryyttä kuin Sinä. Koko elinaikasi olit upotettuna kärsimysten valtamereen. Milloin olit kahleissa ja raudoissa, milloin taas vihollistesi miekan uhkaamana. Kaikesta tästä huolimatta Sinä kuitenkin velvoitit kaikki ihmiset noudattamaan sitä, minkä oli määrännyt Hän, joka on Kaikkitietävä, Kaikkiviisas.Olkoon henkeni uhrina kärsimillesi vääryyksille ja sieluni lunnaina kestämillesi vastoinkäymisille. Rukoilen Jumalaa Sinun nimeesi ja niiden nimeen, joiden kasvoja Sinun kasvojesi valon kirkkaus on valaissut ja jotka rakkaudesta Sinuun ovat noudattaneet kaikkea, mihin heitä oli käsketty, poistamaan verhot, jotka ovat tulleet Sinun ja luotujesi väliin, ja suomaan minulle sekä tämän että tulevan maailman hyvyyttä. Sinä olet toden totta Kaikkivaltias, Kaikkein ylevin, Kaikkein kirkkain, Aina anteeksi antava, Sääliväisin. Siunaa, oi Herra minun Jumalani, jumalallista Lootuspuuta ja sen lehviä, sen haaroja ja oksia, sen varsia ja vesoja niin kauan, kuin Sinun oivallisimmat arvonimesi pysyvät ja ylhäisimmät ominaisuutesi kestävät. Suojele sitä sitten hyökkääjän ilkivallalta ja sortovallan joukoilta. Sinä olet toden totta Kaikkivaltias, Kaikkein voimallisin. Siunaa, oi Herra, minun Jumalani, myös palvelijoitasi ja palvelijattariasi, jotka ovat päässeet tykösi. Sinä olet todellakin Kaikkiantelias, jonka armo on rajaton. Ei ole muuta Jumalaa kuin Sinä, Aina anteeksi antava, Jalomielisin.
 
 -- Bahá'u'lláh
 
-bpn7582 «[Suomi](../fi/prayers/#bpn7582)» 
+bpn7582 
 
 ----
 
 
 <a id="bpn7583"></a> 
-*(Seuraavaa ‘Abdu&#39;l-Bahán ilmaisemaa rukousta luetaan hänen hautapyhäkössään. Sitä käytetään myös yksityisenä rukouksena.)*Ken lausuu tämän rukouksen nöyränä ja hartaasti, tuottaa iloa ja riemua tämän palvelijan sydämelle, se on kuin kohtaisi hänet kasvoista kasvoihin.Hän on Kaikkein kirkkain!Oi Jumala, minun Jumalani! Nöyränä ja kyynelsilmin kohotan anovat käteni Sinun puoleesi ja kätken kasvoni tomuun kynnykselläsi, joka on korotettu oppineitten tiedon ja kaikkien Sinua ylistävien kiitosten yläpuolelle. Katso armeliaasti ja laupein silmin Sinun ovellasi olevaan nöyrään ja alhaiseen palvelijaasi ja upota hänet ikuisen armosi valtamereen. Herra! Hän on mitätön ja alhainen palvelijasi, orjana Sinua anellen, vankina Sinun vallassasi, palavasti Sinua rukoillen, turvaten Sinuun, kyynelissä kasvojesi edessä, kutsuen Sinua ja anoen:Oi Herra, minun Jumalani! Suo minulle armosi palvella rakkaitasi, vahvista minua palvellessani Sinua, kirkasta otsani palvonnan valolla Sinun pyhyytesi esikartanossa ja suuruuden valtakuntaasi kohoavalla rukouksella. Auta minua olemaan epäitsekäs Sinun taivaallisen sisäänkäyntisi portilla ja auta minua irrottautumaan kaikesta Sinun pyhässä läheisyydessäsi. Herra! Anna minun juoda epäitsekkyyden maljasta, epäitsekkyyden viittaan minut verhoa ja sen valtamereen minut upota. Tee minut tomuksi Sinun rakkaittesi polulla ja suo minun uhrata sieluni sen maan puolesta, jonka Sinun valittujesi askelet ovat jalontaneet Sinun tielläsi, oi kirkkauden Herra ylhäisimmässä korkeudessa! Näin rukoillen palvelijasi kutsuu Sinua aamun koitteessa ja yön hetkinä. Täytä hänen sydämensä kaipuu, oi Herra! Valaise hänen sydämensä, anna riemu hänen rintaansa, sytytä hänen valonsa niin, että hän palvelisi Sinun asiaasi ja Sinun palvelijoitasi. Sinä olet Antaja, Säälivä, Anteliain, Armelias, Laupias, Myötätuntoinen.
+*(Seuraavaa ‘Abdu'l-Bahán ilmaisemaa rukousta luetaan hänen hautapyhäkössään. Sitä käytetään myös yksityisenä rukouksena.)*Ken lausuu tämän rukouksen nöyränä ja hartaasti, tuottaa iloa ja riemua tämän palvelijan sydämelle, se on kuin kohtaisi hänet kasvoista kasvoihin.Hän on Kaikkein kirkkain!Oi Jumala, minun Jumalani! Nöyränä ja kyynelsilmin kohotan anovat käteni Sinun puoleesi ja kätken kasvoni tomuun kynnykselläsi, joka on korotettu oppineitten tiedon ja kaikkien Sinua ylistävien kiitosten yläpuolelle. Katso armeliaasti ja laupein silmin Sinun ovellasi olevaan nöyrään ja alhaiseen palvelijaasi ja upota hänet ikuisen armosi valtamereen. Herra! Hän on mitätön ja alhainen palvelijasi, orjana Sinua anellen, vankina Sinun vallassasi, palavasti Sinua rukoillen, turvaten Sinuun, kyynelissä kasvojesi edessä, kutsuen Sinua ja anoen:Oi Herra, minun Jumalani! Suo minulle armosi palvella rakkaitasi, vahvista minua palvellessani Sinua, kirkasta otsani palvonnan valolla Sinun pyhyytesi esikartanossa ja suuruuden valtakuntaasi kohoavalla rukouksella. Auta minua olemaan epäitsekäs Sinun taivaallisen sisäänkäyntisi portilla ja auta minua irrottautumaan kaikesta Sinun pyhässä läheisyydessäsi. Herra! Anna minun juoda epäitsekkyyden maljasta, epäitsekkyyden viittaan minut verhoa ja sen valtamereen minut upota. Tee minut tomuksi Sinun rakkaittesi polulla ja suo minun uhrata sieluni sen maan puolesta, jonka Sinun valittujesi askelet ovat jalontaneet Sinun tielläsi, oi kirkkauden Herra ylhäisimmässä korkeudessa! Näin rukoillen palvelijasi kutsuu Sinua aamun koitteessa ja yön hetkinä. Täytä hänen sydämensä kaipuu, oi Herra! Valaise hänen sydämensä, anna riemu hänen rintaansa, sytytä hänen valonsa niin, että hän palvelisi Sinun asiaasi ja Sinun palvelijoitasi. Sinä olet Antaja, Säälivä, Anteliain, Armelias, Laupias, Myötätuntoinen.
 
 -- Abdu'l-Bahá
 
-bpn7583 «[Suomi](../fi/prayers/#bpn7583)» 
+bpn7583 
 
 ----
 
@@ -1499,11 +1500,11 @@ bpn7583 «[Suomi](../fi/prayers/#bpn7583)»
 ## Yhdeksäntoista päivän juhla
 
 <a id="bpn7598"></a> 
-*Teidän tulee jatkaa yhdeksäntoista päivän juhlan viettämistä. Se on hyvin tärkeää, se on erittäin hyvä. Mutta kun saavutte kokouksiin, ennen kuin astutte sisään, vapauttakaa itsenne kaikesta, mitä on sydämessänne, vapauttakaa ajatuksenne ja mielenne kaikesta paitsi Jumalasta ja puhukaa sydämellenne. Että kaikki voisivat tehdä siitä rakkauden kokouksen, tehdä siitä valaistumisen lähteen, tehdä siitä sydämiä viehättävän kokouksen, ympäröidä tämän kokouksen korkeuden väen valolla, niin että olisitte kokoontuneina mitä suurimmassa rakkaudessa.Oi Jumala! Karkota kaikki epäsovun aiheet ja valmista meille kaikkea, mikä saa aikaan ykseyttä ja sopusointua! Oi Jumala! Leyhytä yllemme taivaallista sulotuoksua  ja muuta tämä kokous taivaalliseksi kokoukseksi! Suo meille kaikki hyöty ja kaikki ravinto. Valmista meille rakkauden ravintoa! Anna meille tiedon ravintoa! Suo meille taivaallisen valaistumisen ravintoa!*Sydämessänne muistakaa nämä asiat ja sitten käykää ykseyden juhlaan.*Teistä jokaisen on mietittävä, kuinka tehdä onnellisiksi ja tyytyväisiksi muut kokouksenne osanottajat, ja jokaisen on pidettävä muita läsnä olevia itseään parempina ja suurempina, ja jokaisen on pidettävä itseään muita vähäisempänä. Tietäkää heidän asemansa olevan korkea ja ajatelkaa omaa asemaanne alhaisena. Jos toimitte ja elätte näiden käskyjen mukaisesti, varmuudella tietäkää, että totisesti tuo juhla on taivaallinen ravinto. Tuo illallinen on &#34;Herran ehtoollinen&#34;! Minä olen tuon kokouksen palvelija.
+*Teidän tulee jatkaa yhdeksäntoista päivän juhlan viettämistä. Se on hyvin tärkeää, se on erittäin hyvä. Mutta kun saavutte kokouksiin, ennen kuin astutte sisään, vapauttakaa itsenne kaikesta, mitä on sydämessänne, vapauttakaa ajatuksenne ja mielenne kaikesta paitsi Jumalasta ja puhukaa sydämellenne. Että kaikki voisivat tehdä siitä rakkauden kokouksen, tehdä siitä valaistumisen lähteen, tehdä siitä sydämiä viehättävän kokouksen, ympäröidä tämän kokouksen korkeuden väen valolla, niin että olisitte kokoontuneina mitä suurimmassa rakkaudessa.Oi Jumala! Karkota kaikki epäsovun aiheet ja valmista meille kaikkea, mikä saa aikaan ykseyttä ja sopusointua! Oi Jumala! Leyhytä yllemme taivaallista sulotuoksua  ja muuta tämä kokous taivaalliseksi kokoukseksi! Suo meille kaikki hyöty ja kaikki ravinto. Valmista meille rakkauden ravintoa! Anna meille tiedon ravintoa! Suo meille taivaallisen valaistumisen ravintoa!*Sydämessänne muistakaa nämä asiat ja sitten käykää ykseyden juhlaan.*Teistä jokaisen on mietittävä, kuinka tehdä onnellisiksi ja tyytyväisiksi muut kokouksenne osanottajat, ja jokaisen on pidettävä muita läsnä olevia itseään parempina ja suurempina, ja jokaisen on pidettävä itseään muita vähäisempänä. Tietäkää heidän asemansa olevan korkea ja ajatelkaa omaa asemaanne alhaisena. Jos toimitte ja elätte näiden käskyjen mukaisesti, varmuudella tietäkää, että totisesti tuo juhla on taivaallinen ravinto. Tuo illallinen on "Herran ehtoollinen"! Minä olen tuon kokouksen palvelija.
 
 -- Abdu'l-Bahá
 
-bpn7598 «[Suomi](../fi/prayers/#bpn7598)» 
+bpn7598 
 
 ----
 
@@ -1517,7 +1518,7 @@ Ylistetty olkoon Sinun nimesi, oi Herra minun Jumalani! Todistan, että olit kä
 
 -- Bahá'u'lláh
 
-bpn7579 «[Suomi](../fi/prayers/#bpn7579)» 
+bpn7579 
 
 ----
 
