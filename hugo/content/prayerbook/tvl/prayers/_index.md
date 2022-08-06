@@ -2186,7 +2186,7 @@ bpn10883
 
 -- Bahá'u'lláh
 
-BH02022 «[العربية](../../ar/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» 
+BH02022 «[Slovensky](../../sk/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
 
 ----
 
@@ -2718,7 +2718,7 @@ E isi e Ave ne Ia a mea faigata na ko te Atua?  Fai atu: Vikia a te Atua! A Ia k
 
 -- Báb
 
-BB00623 «[Papiamentu](../../pap/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» 
+BB00623 «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» 
 
 ----
 

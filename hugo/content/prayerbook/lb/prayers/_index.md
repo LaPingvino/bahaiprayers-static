@@ -658,7 +658,7 @@ O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vu
 
 -- Abdu'l-Bahá
 
-AB11281 «[English](../../en/prayers/#AB11281)» «[Nederlands](../../nl/prayers/#AB11281)» 
+AB11281 «[Nederlands](../../nl/prayers/#AB11281)» «[English](../../en/prayers/#AB11281)» 
 
 ----
 

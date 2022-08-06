@@ -97,12 +97,12 @@ tags = ['lang=sk', 'prayerbook']
 <a id="Bl%C3%ADzkos%C5%A5+k+Bohu"></a> 
 ## Blízkosť k Bohu
 
-<a id="bpn13204"></a> 
+<a id="BH08264"></a> 
 Sláva buď Tebe, ó môj Bože! Slyšíš tých, ktorí Ťa vrúcne milujú, ako vo svojom odlúčení od Teba nariekajú a tých, ktorí Ťa uznali, ako bedujú preto, že sú vzdialení od Tvojej prítomnosti. Ó môj Pane! Otvor pred ich tvárou brány Svojej milosti dokorán, aby nimi mohli vkročiť s Tvojím dovolením a v súlade s Tvojou vôľou a predstúpiť pred trón Tvojej majestátnosti, zachytiť farbu Tvojho hlasu a byť oslnení žiarou svetla Tvojej tváre.Máš moc konať, čo sa Ti ráči. Nik nedokáže odolať sile Tvojej zvrchovanej moci. Od večnosti si bol samotný, nemajúc rovného, a naveky ostaneš nesmierne povýšený nad každé pomyslenie na Teba a nad každé vykreslenie. Zľutuj sa teda nad Svojimi služobníkmi podľa Svojej milosti a štedrosti a nedovoľ, aby sa vzdialili brehom oceánu Tvojej blízkosti. Ak ich Ty opustíš, kto im bude priateľom? A ak ich Ty od Seba zadržíš, kto im preukáže priazeň? Nemajú iného Pána než Teba a nikoho, koho by vzývali, okrem Teba. Nalož s nimi veľkoryso podľa Svojej štedrej milosti.Ty si vpravde vždy Odpúšťajúci, Najsúcitnejší.
 
 -- Bahá'u'lláh
 
-bpn13204 
+BH08264 «[English](../../en/prayers/#BH08264)» 
 
 ----
 
@@ -421,12 +421,12 @@ bpn13243
 <a id="Fond"></a> 
 ## Fond
 
-<a id="bpn13175"></a> 
+<a id="AB00362LOV"></a> 
 Ó Bože, môj Bože! Osvieť čelá tých, ktorí Ťa skutočne milujú, a napomáhaj im víťaznými zástupmi anjelov. Upevni ich kroky na Svojej priamej ceste a Svojou pradávnou štedrosťou im otvor brány Svojich požehnaní, lebo na Tvojej ceste vynakladajú to, čo si im daroval, ochraňujú Tvoju vieru, vkladajú dôveru do spomienky na Teba, z lásky k Tebe obetujú svoje srdcia a nešetria svoje majetky v uctievaní Tvojej Krásy a v hľadaní ciest k Tvojmu potešeniu.Ó môj Pane! Udeľ im hojný diel, predurčenú odplatu a zaručenú odmenu.Vskutku, Ty si Živiteľ, Pomocník, Štedrý, darmi Oplývajúci, vždy Dávajúci.
 
 -- Abdu'l-Bahá
 
-bpn13175 
+AB00362LOV «[English](../../en/prayers/#AB00362LOV)» 
 
 ----
 
@@ -445,12 +445,12 @@ bpn13230
 ----
 
 
-<a id="bpn13231"></a> 
+<a id="ABU0023UNI"></a> 
 Ó môj Bože! Ó môj Bože! Vskutku Ťa vzývam a zbožne sa modlím pri Tvojom prahu a prosím Ťa, aby si tieto duše obdaril všetkou Svojou milosťou. Zvoľ si ich pre udelenie Svojej priazne a pravdy.Ó Pane! Zjednoť a spevni putom srdcia, zosúlaď duše a obveseľ duchov znameniami Svojej svätosti a jednoty.Ó Pane! Daj týmto tváram zažiariť svetlom Svojej jednoty. Posilni bedrá Svojich služobníkov v službe Svojmu kráľovstvu.Ó Pane, Ty, ktorý si Vlastníkom nekonečného milosrdenstva! Ó Pane odpustenia a prepáčenia! Odpusť nám naše hriechy, prepáč nám naše chyby a dovoľ nám obrátiť sa k ríši Tvojej zhovievavosti a vzývať kráľovstvo moci a sily, stáť pokorne pri Tvojej svätyni a ponížene sa skloniť pred slávou Tvojich znamení.Ó Pane Bože! Urob nás vlnami jedného mora, kvetmi jednej záhrady, zjednoť a zosúlaď nás pomocou darov Svojej lásky. Ó Pane! Ozdob naše hrude znameniami Svojej jedinosti a daj, aby sa každý človek stal hviezdou žiariacou z rovnakej výšky slávy a ovocím rastúcim na Tvojom strome života.Vskutku, Ty si Všemohúci, skrze Seba Jestvujúci, Darca, Odpúšťajúci, Vševediaci, Jediný Stvoriteľ.
 
 -- Abdu'l-Bahá
 
-bpn13231 
+ABU0023UNI «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[Esperanto](../../eo/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» 
 
 ----
 
@@ -655,12 +655,12 @@ bpn13166
 ----
 
 
-<a id="bpn13167"></a> 
+<a id="BH08600FAC"></a> 
 Som ten, ó môj Pane, ktorý k Tebe obrátil tvár a upriamil svoju nádej na zázraky Tvojej milosti a zjavenia Tvojej štedrosti. Modlím sa k Tebe, nedopusť, aby som sa sklamaný odvracal od dverí Tvojej milosti, a nenechávaj ma prosím napospas tým, ktorí zavrhli Tvoju vec.Som, ó môj Bože, Tvoj služobník a syn Tvojho služobníka. Rozpoznal som Tvoju pravdu v Tvojich dňoch a namieril svoje kroky k brehom Tvojej jedinosti, doznávam Tvoju jedinečnosť, potvrdzujem Tvoju jednotu a dúfam v Tvoje odpustenie a prepáčenie. Máš moc konať čokoľvek sa Ti zapáči. Niet iného Boha okrem Teba, nadovšetko Slávneho, vždy Odpúšťajúceho.
 
 -- Bahá'u'lláh
 
-bpn13167 
+BH08600FAC «[Nederlands](../../nl/prayers/#BH08600FAC)» «[Español](../../es/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» 
 
 ----
 
@@ -873,22 +873,22 @@ bpn13162
 ----
 
 
-<a id="bpn9994"></a> 
+<a id="AB10492"></a> 
 Ty láskavý Pane! Zošli nebeskú pomoc tejto dcére Kráľovstva a milostivo jej dopomôž, aby zostala pevná a neochvejná v Tvojej Veci a aby tak, ako spieva slávik v ružovej záhrade tajomstiev, aj ona mohla spievať v Abhá Kráľovstve melódie v prekrásnych tónoch, a tým každému prinášala šťastie.Medzi dcérami kráľovstva ju učiň vznešenou a umožni jej dosiahnuť večného života.Ty si Darca, všetko Milujúci.
 
 -- Abdu'l-Bahá
 
-bpn9994 
+AB10492 «[Nederlands](../../nl/prayers/#AB10492)» «[Español](../../es/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» 
 
 ----
 
 
-<a id="bpn13163"></a> 
+<a id="AB06211"></a> 
 Učiň naše kroky pevnými na Tvojej ceste, ó Pane, a posilni naše srdcia v poslušnosti k Tebe. Obráť naše tváre ku kráse Svojej jedinosti a poteš naše hrude znameniami Svojej božskej jednoty. Ozdob naše telá rúchom Svojej štedrosti, z očí nám strhni závoj hriešnosti a podaj nám kalich Svojej milosti, aby Ti podstata všetkých bytostí mohla pri pohľade na Tvoju nádheru spievať piesne chvály. Zjav Seba samého, ó Pane, Svojím milosrdným prehovorom a tajomstvom Svojej božskej bytosti, aby naše duše mohlo naplniť sväté vytrženie modlitby — modlitby, ktorá povstane nad slová a písmená a prekoná šum slabík a hlások — aby tak všetky veci mohli splynúť v ničote pred zjavením Tvojej nádhery.Pane! Títo služobníci vytrvali a zostali verní Tvojej Zmluve a Tvojmu závetu, pevne uchopili lano vernosti Tvojej veci a pridŕžali sa lemu rúcha Tvojej nádhery. Dopomôž im, ó Pane, Svojou milosťou, upevni ich Svojou mocou a posilni im bedrá, aby Ťa mohli poslúchať.Ty si Odpúšťajúci, Láskavý.
 
 -- Abdu'l-Bahá
 
-bpn13163 
+AB06211 «[Português (BR)](../../pt/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» 
 
 ----
 
@@ -981,22 +981,22 @@ bpn13115
 ----
 
 
-<a id="bpn9991"></a> 
+<a id="ABU1863REF"></a> 
 Ó Bože! Osviež a poteš mi ducha! Očisti mi srdce! Daj zažiariť mojim schopnostiam! Do Tvojej ruky vkladám všetky svoje záležitosti. Ty si mi Vodca a Útočisko. Už viac nebudem žialiť a smútiť, budem šťastnou a veselou bytosťou. Ó Bože! Už nebudem naplnený úzkosťou ani sa nenechám skľučovať strasťami. Nebudem ľpieť na nepríjemnostiach života. Ó Bože! Ty si mi lepším priateľom ako ja sám sebe. Oddávam sa Ti, ó Pane!
 
 -- Abdu'l-Bahá
 
-bpn9991 
+ABU1863REF «[Esperanto](../../eo/prayers/#ABU1863REF)» 
 
 ----
 
 
-<a id="bpn13116"></a> 
+<a id="AB00431PIT"></a> 
 Ó Pane! Sme úbohí, poskytni nám Svoju milosť, sme chudobní, udeľ nám časť z oceánu Svojho bohatstva, sme núdzni, uspokoj nás, sme ponížení, obdaruj nás Svojou slávou. Vtáci v povetrí a zvieratá na súši dostávajú od Teba potravu každý deň a všetkým bytostiam sa dostáva Tvojej opatery a milujúcej láskavosti. Nepriprav tohto úbožiaka o Svoju zázračnú milosť a Svojou mocou udeľ tejto bezradnej duši zo Svojej štedrosti. Daj nám náš každodenný chlieb a obdaruj nás tým, čo potrebujeme k životu, aby sme nezáviseli na nikom okrem Teba, aby sme mohli byť v dôvernom vzťahu len s Tebou, aby sme mohli kráčať po Tvojich cestách a zvestovať Tvoje tajomstvá.Ty si Všemocný, Milujúci a Živiteľ celého ľudstva.
 
 -- Abdu'l-Bahá
 
-bpn13116 
+AB00431PIT «[Papiamentu](../../pap/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» 
 
 ----
 
@@ -1185,12 +1185,12 @@ bpn13200
 ----
 
 
-<a id="bpn13201"></a> 
+<a id="BH00009SHE"></a> 
 Zobudil som sa v Tvojom úkryte, ó môj Bože, a tomu, ktorý hľadá tento úkryt, prináleží prebývať vo svätyni Tvojej ochrany a v pevnosti Tvojej obrany. Osvieť moje vnútro, ó môj Pane, oslnivou žiarou Dennice Svojho zjavenia tak, ako si osvetlil môj zovňajšok svetlom Svojej priazne.
 
 -- Bahá'u'lláh
 
-bpn13201 
+BH00009SHE «[Frysk](../../fy/prayers/#BH00009SHE)» «[Esperanto](../../eo/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» 
 
 ----
 
@@ -1361,12 +1361,12 @@ bpn13177
 ----
 
 
-<a id="bpn13178"></a> 
+<a id="ABU0070GAT"></a> 
 Ty láskavý Pane! Vidíš tu svojich služobníkov, ktorí sa zhromaždili na tomto stretnutí, obrátili sa k Tvojmu kráľovstvu a potrebujú Tvoje dary a požehnania. Ó Bože! Prejav a učiň jasnými znamenia Svojej jedinosti, ktoré si vložil do všetkých esencií života. Odhaľ a rozviň cnosti, ktoré si ukryl a utajil v týchto ľudských podstatách.Ó Bože! Sme ako rastliny a Tvoja štedrosť je podobná dažďu. Osviež tieto rastliny a daj im rásť z toho, čo im poskytneš. Sme Tvoji služobníci, osloboď nás z pút hmotného bytia. Sme nevedomí, učiň nás múdrymi. Sme mŕtvi, oživ nás. Sme hmotní, obdar nás duchom. Všetko je nám odoprené, udeľ nám dôvernú znalosť Svojich tajomstiev. Sme núdzni, požehnaj nám a obohať nás zo Svojho nepreberného pokladu. Ó Bože! Pozdvihni nás, daj nám zrak a sluch, zasväť nás do tajomstiev života, aby sa nám v tomto svete bytia mohli zjaviť záhady Tvojho kráľovstva, a my sme mohli doznať Tvoju jedinosť. Všetko, čo sa nám dostáva, prichádza od Teba a všetky požehnania prináležia Tebe.Ty si Mocný. Ty si Silný. Ty si Darca a Ty si vždy Dávajúci.
 
 -- Bahá'u'lláh
 
-bpn13178 
+ABU0070GAT «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[Español](../../es/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» 
 
 ----
 
@@ -1415,12 +1415,12 @@ bpn13182
 <a id="Tabu%C4%BEka+pre+A%E1%B8%A5mada"></a> 
 ## Tabuľka pre Aḥmada
 
-<a id="bpn13252"></a> 
+<a id="BH02022"></a> 
 *„Tieto povinné modlitby spolu s niektorými ďalšími, ako napríklad modlitbu za uzdravenie a tabuľku pre Ahmada, Bahá’u’lláh obdaril zvláštnou silou a významom. A tak musia byť týmto spôsobom veriacimi aj prijímané. Mali by ich čítať s pevnou Vierou a presvedčením, že ich prostredníctvom môžu vstúpiť do bližšieho vzťahu s Bohom a plnšie sa stotožniť s Jeho zákonmi a nariadeniami.“*Z listu napísaného u mene Shoghi Effendiho. On je Kráľ, Vševediaci, Múdry!Hľa, Rajský Slávik spieva na vetvách Stromu Večnosti sväté a sladké melódie a úprimným hlása radostnú zvesť o blízkosti Boha a veriacich v Božskú jednotu zvoláva k dvoru Prítomnosti Štedrého a odpútaným zvestuje posolstvo zjavené Bohom, Kráľom, Slávnym, Neporovnateľným, a milujúcich vedie k trónu svätosti a k tejto žiarivej Kráse.Vskutku, toto je tá Najväčšia Krása, predpovedaná v Knihách Poslov, prostredníctvom ktorej bude pravda oddelená od klamu a múdrosť každého prikázania podrobená skúške. Vskutku, On je Stromom Života, ktorý prináša plody Boha, Vznešeného, Mocného, Veľkého.Ó Ahmad! Dosvedčuj, že vskutku On je Boh a že niet iného Boha okrem Neho, Kráľa, Ochrancu, Neporovnateľného, Všemocného. A že Ten, ktorého poslal pod menom Alí bol Pravý od Boha, ktorého príkazom všetci podliehame.Povedz: Ó ľudia, poslúchajte nariadenia Boha, ktoré boli v Bajáne ustanovené Slávnym, Múdrym. Vskutku, On je Kráľom Poslov a Jeho Kniha je Matkou Kníh, keby ste to len vedeli.Takto k vám volá Slávik z tohto väzenia. Má vám iba odovzdať toto jasné posolstvo. Ktokoľvek si želá, nech sa odvráti od tejto rady a ktokoľvek si želá, nech si vyberie cestu k Pánovi.Ó ľudia, ak popriete tieto verše, aký iný dôkaz by vám dal uveriť v Boha? Predneste ho, ó zhromaždenie falošných.Nie, pri Tom, v ktorého rukách je moja duša, nie sú a nikdy to nebudú schopní učiniť, aj keby sa spojili vo svojom úsilí.Ó Ahmad! Nezabúdaj za Mojej neprítomnosti na Moje dary. Spomínaj si počas svojich dní na Moje dni a na Môj zármutok a vyhnanstvo v tomto odľahlom väzení. A v láske ku Mne buď tak neochvejný, že tvoje srdce zostane verným, aj keby sa na teba zosypali meče nepriateľov a celé nebesá i zem proti tebe povstali.Buď voči Mojim nepriateľom ako ohnivý plameň a voči Mojim milovaným ako rieka večného života, a nebuď z tých, čo pochybujú.A ak ťa na Mojej ceste postihne protivenstvo a poníženie kvôli Mne, nebuď tým zarmútený. Spoľahni sa na Boha, svojho Boha a Pána tvojich otcov. Pretože ľudia sa túlajú po cestách klamu, nemajúc pocty vidieť Boha na vlastné oči alebo počuť Jeho Hlas na vlastné uši. Takto sme ich našli, čoho si aj ty sám svedkom.Takto sa ich povery stali závojmi, ktoré ich oddelili od vlastných sŕdc a zdržali ich ďaleko od cesty Boha, Vznešeného, Veľkého.Buď uistený, že vskutku ten, kto sa odvráti od tejto Krásy sa taktiež odvrátil od Poslov minulosti a preukazuje Bohu pýchu od večnosti do večnosti.Dobre sa nauč túto tabuľku, ó Ahmad. Spievaj ju počas svojich dní a neodlučuj sa od nej. Pretože, vskutku, Boh nariadil každému, kto ju spieva odmenu sta mučeníkov a službu v oboch svetoch. Tieto priazne sme ti uložili ako štedrosť z Našej strany a milosť z Našej prítomnosti, aby si mohol byť z tých, ktorí sú vďační.Pri Bohu! Ak bude ten, ktorý má strasti a žiaľ čítať túto Tabuľku s čistou úprimnosťou, Boh rozoženie jeho smútok, vyrieši jeho ťažkosti a odstráni jeho strasti.Vskutku, On je Milosrdný, Súcitný. Chvála Bohu, Pánovi všetkých svetov.
 
 -- Bahá'u'lláh
 
-bpn13252 
+BH02022 «[Frysk](../../fy/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
 
 ----
 
@@ -1493,22 +1493,22 @@ bpn13258
 <a id="Uzdravenie"></a> 
 ## Uzdravenie
 
-<a id="bpn13184"></a> 
+<a id="BH08013"></a> 
 Ó Bože, môj Bože! Prosím Ťa pri oceáne Tvojho uzdravenia a pri nádhere dennice Tvojej milosti, pri Tvojom mene, ktorým si si podmanil Svojich služobníkov a pri prenikavej sile Tvojho najvznešenejšieho Slova, pri moci Tvojho najdôstojnejšieho pera a pri milosrdenstve, ktoré predčilo stvorenie všetkých, ktorí sú v nebesách i na zemi, očisti ma vodou Svojej štedrosti od každého neduhu a choroby a od každej slaboty a nevládnosti.Vidíš, ó môj Pane, Svojho prosebníka, ako čaká pri dverciach Tvojej štedrosti, a toho, kto do Teba vložil svoju nádej, ako sa pridržiava lana Tvojej štedrosti. Úpenlivo Ťa prosím, neupri mu to, čo zhľadúva v oceáne Tvojej milosti a dennici Tvojej láskyplnosti.Máš moc činiť, čo sa Ti zapáči. Niet iného Boha okrem Teba, vždy Odpúšťajúceho, Najveľkorysejšieho.
 
 -- Bahá'u'lláh
 
-bpn13184 
+BH08013 «[Esperanto](../../eo/prayers/#BH08013)» «[English](../../en/prayers/#BH08013)» 
 
 ----
 
 
-<a id="bpn13185"></a> 
+<a id="BH01313NAM"></a> 
 Tvoje meno ma uzdravuje, ó môj Bože, a spomienka na Teba je mi liekom. Blízkosť k Tebe mi dáva nádej a láska k Tebe mi je spoločníkom. Tvoje milosrdenstvo voči mne ma uzdravuje a pomáha mi na tomto svete i vo svete budúcom. Ty si vskutku nadovšetko Štedrý, Vševediaci, nadovšetko Múdry.
 
 -- Bahá'u'lláh
 
-bpn13185 
+BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» 
 
 ----
 
@@ -1673,12 +1673,12 @@ bpn13261
 ----
 
 
-<a id="bpn13260"></a> 
+<a id="BH01026"></a> 
 ##Tabuľka Svätého Moreplavca*„Študujte Tabuľku Svätého Moreplavca, aby ste poznali pravdu a uvážte, že Požehnaná Krása plne predpovedala budúce udalosti. Nech si ti, ktorí rozumejú, z toho vezmú ponaučenie!“‘Abdu’l-Bahá On je Láskavý a Milovaný!Ó Svätý Moreplavec!Rozkáž svojej arche večnosti, aby sa zjavila pred Nebeským Zástupom, sláva buď môjmu Pánovi, Naj slávnejšiemu,spusti ju na hladinu starobylého mora v Jeho Mene, Najobdivuhodnejšom, sláva buď môjmu Pánovi, Najslávnejšiemu,a nechaj do nej vstúpiť anjelských duchov v Mene Boha, Najvyššieho, sláva buď môjmu Pánovi, Naj slávnejšiemu.Potom zdvihni kotvy, aby mohla plachtiť oceánom slávy, sláva buď môjmu Pánovi, Najslávnejšiemu,snáď jej obyvatelia dosiahnu útočiska blízkosti vo večne trvajúcej ríši, sláva buď môjmu Pánovi, Najslávnejšiemu.Doplaviac sa k posvätnému pobrežiu, k brehom karmínových morí, sláva buď môjmu Pánovi, Najslávnejšiemu,rozkáž im vydať sa na cestu a dosiahnuť toto neviditeľné éterické postavenie, sláva buď môjmu Pánovi, Najslávnejšiemu,postavenie, kde sa Pán objavil v Plameni Svojej Krásy v nesmrteľnom strome, sláva buď môjmu Pánovi, Najslávnejšiemu,kde sa zosobnenia Jeho Veci očistili od sebectva a žiadosti, sláva buď môjmu Pánovi, Najslávnejšiemu,okolo ktorého Mojžišova Sláva krúži s večnými zástupmi, sláva buď môjmu Pánovi, Najslávnejšiemu,kde sa Ruka Božia vynorila z Jeho hrude Veľkosti, sláva buď môjmu Pánovi, Najslávnejšiemu,a kde archa Veci zostane nepohnutá, aj keby jej obyvateľom boli prehlásené všetky božské prívlastky, sláva buď môjmu Pánovi, Najslávnejšiemu.Ó Moreplavec! Nauč tých, ktorí sú v arche to, čo sme ťa naučili spoza mystického závoja, sláva buď môjmu Pánovi, Najslávnejšiemu,snáď nebudú otáľať na posvätnom snehobielom mieste, sláva buď môjmu Pánovi, Najslávnejšiemu,ale vzlietnu na krídlach ducha k postaveniu, ktoré Pán povzniesol nad každú zmienku v nižších svetoch, sláva buď môjmu Pánovi, Najslávnejšiemu,a budú plachtiť priestorom rovnako ako omilostené vtáctvo v ríši večného znovuspojenia, sláva buď môjmu Pánovi, Najslávnejšiemu,a spoznajú tajomstvá skryté v Moriach svetla, sláva buď môjmu Pánovi, Najslávnejšiemu.Prešli cez úrovne svetských ohraničení a dosiahli úroveň božskej jednoty, stredobod nebeského vedenia, sláva buď môjmu Pánovi, Najslávnejšiemu.Túžili vystúpiť k tomu stavu, ktorý Pán ustanovil nad ich postavenie, sláva buď môjmu Pánovi, Najslávnejšiemu.Keď tu ich planúci meteor odohnal od tých, čo prebývajú v Kráľovstve Jeho Prítomnosti, sláva buď môjmu Pánovi, Najslávnejšiemu,a začuli Hlas Majestátu volať spoza neviditeľného pavilónu na Výsostiach Slávy, sláva buď môjmu Pánovi, Najslávnejšiemu:„Ó strážni anjeli! Pošlite ich späť do ich príbytkov vo svete pod nami, sláva buď môjmu Pánovi, Naj slávnejšiemu,pretože zamýšľali vystúpiť do tej sféry, kam sa krídla nebeskej holubice nikdy nedostali, sláva buď môjmu Pánovi, Najslávnejšiemu,tam, kde loď preludov nehybne stojí, čo mysle chápajúcich nemôžu obsiahnuť“, sláva buď môjmu Pánovi, Najslávnejšiemu.A potom sa nebeská panna vyklonila zo svojej vznešenej komnaty, sláva buď môjmu Pánovi, Naj slávnejšiemu,pohybom obočia dala znamenie Nebeskému Zástupu, sláva buď môjmu Pánovi, Najslávnejšiemu, a svetlo jej tváre zaplavilo nebesá i zem, sláva buďmôjmu Pánovi, Najslávnejšiemu,a len čo jas jej krásy zažiaril na ľudí prachu, sláva buď môjmu Pánovi, Najslávnejšiemu,všetky bytosti sa zachveli vo svojich smrteľných hroboch, sláva buď môjmu Pánovi, Najslávnejšiemu.Potom zvolala hlasom, aký od večnosti ešte nepočulo žiadne ucho, sláva buď môjmu Pánovi, Najslávnejšiemu,a takto prehlásila: „Pri Pánovi! Ten, v ktorého srdci niet vône lásky vznešeného a slávneho arabského Mladíka, sláva buď môjmu Pánovi, Najslávnejšiemu,nijako nemôže vystúpiť k sláve najvyšších nebies.“ Sláva buď môjmu Pánovi, Najslávnejšiemu.A na to povolala k sebe jednu zo svojich služobníčok, sláva buď môjmu Pánovi, Najslávnejšiemu,a rozkázala jej: „Zostúp zo zámkov večnosti do priestoru, sláva buď môjmu Pánovi, Najslávnejšiemu,a obráť sa k tomu, čo utajili v samotnom vnútri svojich sŕdc, sláva buď môjmu Pánovi, Najslávnejšiemu.A ak vdýchneš vôňu rúcha tohto Mladíka, ktorý bol ukrytý vo svätostánku svetla kvôli tomu, čo spôsobili ruky bezbožných, sláva buď môjmu Pánovi, Najslávnejšiemu,zvolaj v sebe tak aby všetci obyvatelia Rajských komnát, ktorí sú stelesnením večného bohatstva počuli a porozumeli takým spôsobom, sláva buď môjmu Pánovi, Najslávnejšiemu,že by všetci zostúpili zo svojich večných komnát a rozochveli sa, sláva buď môjmu Pánovi, Najslávnejšiemu,a pobozkali by im ruky a nohy za to, že sa vzniesli do výšok vernosti, sláva buď môjmu Pánovi, Najslávnejšiemu,snáď by tak našli vo svojom šate vôňu Milovaného.“ Sláva buď môjmu Pánovi, Najslávnejšiemu.Na to tvár vyvolenej devy zažiarila ako lúč nad nebeskými komnatami rovnako ako svetlo z tváre Mladíka žiari ponad Jeho smrteľný chrám, sláva buď môjmu Pánovi, Najslávnejšiemu,a potom zostúpila s takým pôvabom, až rozžiarila nebesá a všetko, čo je v nich, sláva buď môjmu Pánovi, Najslávnejšiemu.Pohla sa a privoňala všetko v krajinách svätosti a veľkosti, sláva buď môjmu Pánovi, Najslávnejšiemu.A keď dosiahla to miesto, vzpriamila sa vo svojej plnej výške v samom srdci stvorenia, sláva buď môjmu Pánovi, Najslávnejšiemu,pokúsila sa vdýchnuť ich vôňu v čase, ktorý nepozná začiatku ani konca, sláva buď môjmu Pánovi, Najslávnejšiemu,ale nenašla u nich to, po čom túžila, a to je vskutku iba jeden z Jeho zázračných príbehov, sláva buď môjmu Pánovi, Najslávnejšiemu.A potom nahlas zvolala a vzlykajúc sa odobrala do svojho vlastného postavenia vo svojom najvznešenejšom sídle, sláva buď môjmu Pánovi, Najslávnejšiemu,potom vyslovila jedno mystické slovo, šepkajúc ho dôverne jazykom sladkým ako med, sláva buď môjmu Pánovi, Najslávnejšiemu,a takto zvolala uprostred Nebeského Zástupu a nesmrteľných nebeských diev, sláva buď môjmu Pánovi, Najslávnejšiemu:„Pri mojom Pánovi! Nepocítila som z tých prázdnych falošníkov ani vánok Vernosti! Sláva buď môjmu Pánovi, Najslávnejšiemu.Pri Pánovi! Mladík zostal osamotený a stratený v krajine vyhnanstva a v rukách bezbožníkov.“ Sláva buď môjmu Pánovi, Najslávnejšiemu.A potom v sebe zaplakala takým nárekom, že Nebeský Zástup skríkol a zatriasol sa, sláva buď môjmu Pánovi, Najslávnejšiemu,spadla do prachu a vypustila dušu. Zdalo sa, že bola povolaná a že počula Toho, ktorý ju vyzval do Ríše na Výsostiach, sláva buď môjmu Pánovi Najslávnejšiemu.Nech je velebený Ten, ktorý ju stvoril z podstaty lásky v samom srdci Svojho vznešeného raja! Sláva buď môjmu Pánovi, Najslávnejšiemu.Na to zo svojich komnát náhlivo vybehli nebeské devy, na ktorých ešte nikdy nespočinul zrak žiadneho obyvateľa najvyššieho raja, sláva buď nášmu Pánovi Najvyššiemu.A všetky sa zhromaždili okolo nej a hľa! našli jej telo povalené v prachu! Sláva buď nášmu Pánovi Najvyššiemu!A ako ju zazreli v tomto stave a pochopili slovo z príbehu, ktorý vyrozprával Mladík, odkryli si hlavy, roztrhali svoj šat na kusy, udierali sa do tvárí, zabudli na všetku radosť, ronili slzy a bili sa rukami po lícach. A toto je, vskutku, jedno zo záhadných a strastiplných súžení. Sláva buď nášmu Pánovi Najvyššiemu!
 
 -- Abdu'l-Bahá
 
-bpn13260 
+BH01026 «[Nederlands](../../nl/prayers/#BH01026)» «[English](../../en/prayers/#BH01026)» 
 
 ----
 
@@ -1835,12 +1835,12 @@ bpn13187
 ----
 
 
-<a id="bpn13140"></a> 
+<a id="AB07850"></a> 
 Ó môj Bože, ó Ty, kto odpúšťaš hriechy a rozptyľuješ sužobu! Ó Ty, Prepačujúci, Milostivý! Dvíham k Tebe svoje prosiace ruky a so slzami úpenlivo prosím dvor Tvojej božskej podstaty, aby pomocou Tvojej milosti a zhovievavosti odpustil Tvojej služobníčke, ktorá vystúpila k sídlu pravdy. Daj, ó Pane, aby ju zatienili oblaky Tvojej štedrosti a priazne. Ponor ju do oceánu Svojho odpustenia a prepáčenia a umožni jej vstúpiť do posväteného príbytku Tvojho nebeského raja.Ty si vskutku Mocný, Súcitný, Štedrý, Milosrdný.
 
 -- Abdu'l-Bahá
 
-bpn13140 
+AB07850 «[English](../../en/prayers/#AB07850)» 
 
 ----
 
