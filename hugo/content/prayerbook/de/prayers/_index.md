@@ -120,7 +120,7 @@ O Wahrheitssucher! Wenn du wünschest, dass Gott dein geistiges Auge öffne, so 
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../../it/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+AB06528MID «[Italiano](../../it/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
 
 ----
 
