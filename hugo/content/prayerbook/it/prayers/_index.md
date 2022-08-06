@@ -186,7 +186,7 @@ O Signore! Presso Te cerco riparo e verso tutti i Tuoi segni volgo il mio cuore.
 
 -- Báb
 
-BB00522 «[Español](../../es/prayers/#BB00522)» «[English](../../en/prayers/#BB00522)» 
+BB00522 «[English](../../en/prayers/#BB00522)» «[Español](../../es/prayers/#BB00522)» 
 
 ----
 
@@ -458,7 +458,7 @@ Egli è Dio, esaltato Egli sia, il Signore amoroso e generoso! Gloria a Te, o mi
 
 -- Bahá'u'lláh
 
-BH03109KIN «[Français](../../fr/prayers/#BH03109KIN)» «[English](../../en/prayers/#BH03109KIN)» 
+BH03109KIN «[English](../../en/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
 
 ----
 
@@ -492,7 +492,7 @@ bpn7812
 
 -- Bahá'u'lláh
 
-BH01125 «[Français](../../fr/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» 
 
 ----
 
@@ -1158,7 +1158,7 @@ Lodato sia il Tuo Nome, o Signore mio Dio! Ti supplico per il Tuo Nome per mezzo
 
 -- Bahá'u'lláh
 
-BH10578 «[Esperanto](../../eo/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» 
+BH10578 «[Esperanto](../../eo/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» 
 
 ----
 
@@ -1564,7 +1564,7 @@ O Signore mio Dio! Assisti i Tuoi amati ad essere saldi nella Tua Fede, a cammin
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» 
+AB00001FIR «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
 
 ----
 
@@ -1628,7 +1628,7 @@ O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplica
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Esperanto](../../eo/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» 
+AB06528MID «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
 
 ----
 
