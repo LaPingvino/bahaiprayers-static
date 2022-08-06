@@ -150,7 +150,7 @@ O Thou Whose face is the object of my adoration, Whose beauty is my sanctuary, W
 
 -- Bahá'u'lláh
 
-BH10973 «[Nederlands](../../nl/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[Frysk](../../fy/prayers/#BH10973)» 
+BH10973 «[Frysk](../../fy/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» 
 
 ----
 
@@ -1168,7 +1168,7 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Frysk](../../fy/prayers/#AB04427LMP)» 
+AB04427LMP «[Frysk](../../fy/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» 
 
 ----
 
@@ -1238,7 +1238,7 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 
 -- Abdu'l-Bahá
 
-AB04004BAB «[Italiano](../../it/prayers/#AB04004BAB)» «[Esperanto](../../eo/prayers/#AB04004BAB)» 
+AB04004BAB «[Esperanto](../../eo/prayers/#AB04004BAB)» «[Italiano](../../it/prayers/#AB04004BAB)» 
 
 ----
 
@@ -1426,7 +1426,7 @@ bpn8256
 
 -- Bahá'u'lláh
 
-BH09085 «[Nederlands](../../nl/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» «[Frysk](../../fy/prayers/#BH09085)» 
+BH09085 «[Frysk](../../fy/prayers/#BH09085)» «[Nederlands](../../nl/prayers/#BH09085)» «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 ----
 
@@ -1436,7 +1436,7 @@ He is God, exalted is He, the Lord of loving-kindness and bounty!Glory be unto T
 
 -- Bahá'u'lláh
 
-BH03109KIN «[Italiano](../../it/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
+BH03109KIN «[Français](../../fr/prayers/#BH03109KIN)» «[Italiano](../../it/prayers/#BH03109KIN)» 
 
 ----
 
@@ -1506,7 +1506,7 @@ O my God!  O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!
 
 -- Abdu'l-Bahá
 
-AB11094 «[Nederlands](../../nl/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» 
+AB11094 «[Frysk](../../fy/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» 
 
 ----
 
@@ -1570,7 +1570,7 @@ I know not, O my God, what the Fire is which Thou didst kindle in Thy land.  Ear
 
 -- Bahá'u'lláh
 
-BH05894 «[Italiano](../../it/prayers/#BH05894)» «[Nederlands](../../nl/prayers/#BH05894)» 
+BH05894 «[Nederlands](../../nl/prayers/#BH05894)» «[Italiano](../../it/prayers/#BH05894)» 
 
 ----
 
@@ -1610,7 +1610,7 @@ O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my heart.O
 
 -- Báb
 
-BB00522 «[Italiano](../../it/prayers/#BB00522)» «[Español](../../es/prayers/#BB00522)» 
+BB00522 «[Español](../../es/prayers/#BB00522)» «[Italiano](../../it/prayers/#BB00522)» 
 
 ----
 
@@ -1620,7 +1620,7 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 
 -- Báb
 
-BB00015SUF «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» 
+BB00015SUF «[Frysk](../../fy/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» 
 
 ----
 
@@ -1692,7 +1692,7 @@ O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep
 
 -- Bahá'u'lláh
 
-BH00009SER «[Português (BR)](../../pt/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» 
+BH00009SER «[Frysk](../../fy/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» 
 
 ----
 
@@ -1712,7 +1712,7 @@ BH00009HOW «[Français](../../fr/prayers/#BH00009HOW)»
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../../it/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+AB06528MID «[Esperanto](../../eo/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -1824,7 +1824,7 @@ Make firm our steps, O Lord, in Thy path and strengthen Thou our hearts in Thine
 
 -- Abdu'l-Bahá
 
-AB06211 «[Deutsch](../../de/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
+AB06211 «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» 
 
 ----
 
@@ -1988,7 +1988,7 @@ O Thou forgiving Lord!  Thou art the shelter of all these Thy servants.  Thou kn
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[Español](../../es/prayers/#ABU0030SHE)» «[Français](../../fr/prayers/#ABU0030SHE)» 
+ABU0030SHE «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[Français](../../fr/prayers/#ABU0030SHE)» «[Español](../../es/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -2198,7 +2198,7 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy.  Nearnes
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» 
+BH01313NAM «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» 
 
 ----
 
@@ -2262,7 +2262,7 @@ My God, Whom I worship and adore!  I bear witness unto Thy unity and Thy oneness
 
 -- Bahá'u'lláh
 
-BH00868WIT «[Italiano](../../it/prayers/#BH00868WIT)» «[Nederlands](../../nl/prayers/#BH00868WIT)» 
+BH00868WIT «[Nederlands](../../nl/prayers/#BH00868WIT)» «[Italiano](../../it/prayers/#BH00868WIT)» 
 
 ----
 
@@ -2292,7 +2292,7 @@ O Thou kind Lord! Thou hast created all humanity from the same stock. Thou hast 
 
 -- Abdu'l-Bahá
 
-ABU0137ALL «[Esperanto](../../eo/prayers/#ABU0137ALL)» «[Frysk](../../fy/prayers/#ABU0137ALL)» 
+ABU0137ALL «[Frysk](../../fy/prayers/#ABU0137ALL)» «[Esperanto](../../eo/prayers/#ABU0137ALL)» 
 
 ----
 
@@ -2426,7 +2426,7 @@ Glory be unto Thee, O my God!  Verily, this thy servant and this Thy maidservant
 
 -- Abdu'l-Bahá
 
-AB07158 «[Nederlands](../../nl/prayers/#AB07158)» «[Frysk](../../fy/prayers/#AB07158)» 
+AB07158 «[Frysk](../../fy/prayers/#AB07158)» «[Nederlands](../../nl/prayers/#AB07158)» 
 
 ----
 
@@ -2552,7 +2552,7 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 -- Bahá'u'lláh
 
-BH00009SHE «[Esperanto](../../eo/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» 
+BH00009SHE «[Frysk](../../fy/prayers/#BH00009SHE)» «[Esperanto](../../eo/prayers/#BH00009SHE)» 
 
 ----
 
@@ -2562,7 +2562,7 @@ O my God and my Master!  I am Thy servant and the son of Thy servant. I have ris
 
 -- Bahá'u'lláh
 
-BH02848 «[Português (BR)](../../pt/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
+BH02848 «[Português (BR)](../../pt/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» 
 
 ----
 
@@ -2572,7 +2572,7 @@ I give praise to Thee, O my God, that Thou hast awakened me out of my sleep, and
 
 -- Bahá'u'lláh
 
-BH00009AWA «[Nederlands](../../nl/prayers/#BH00009AWA)» «[Frysk](../../fy/prayers/#BH00009AWA)» 
+BH00009AWA «[Frysk](../../fy/prayers/#BH00009AWA)» «[Nederlands](../../nl/prayers/#BH00009AWA)» 
 
 ----
 
@@ -2626,7 +2626,7 @@ bpn8235
 
 -- Bahá'u'lláh
 
-BH03908 «[Português (BR)](../../pt/prayers/#BH03908)» «[Frysk](../../fy/prayers/#BH03908)» 
+BH03908 «[Frysk](../../fy/prayers/#BH03908)» «[Português (BR)](../../pt/prayers/#BH03908)» 
 
 ----
 
@@ -2838,7 +2838,7 @@ Lauded be Thy name, O Lord my God!  I entreat Thee by Thy Name through which the
 
 -- Bahá'u'lláh
 
-BH10578 «[Italiano](../../it/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» 
+BH10578 «[Esperanto](../../eo/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» 
 
 ----
 
@@ -3224,7 +3224,7 @@ bpn6341
 
 -- Bahá'u'lláh
 
-BH11209 «[Português (BR)](../../pt/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» 
+BH11209 «[Frysk](../../fy/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» 
 
 ----
 
@@ -3362,7 +3362,7 @@ Create in me a pure heart, O my God, and renew a tranquil conscience within me, 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Nederlands](../../nl/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Frysk](../../fy/prayers/#BH04421HEA)» 
+BH04421HEA «[Frysk](../../fy/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» 
 
 ----
 
@@ -3382,7 +3382,7 @@ O my Lord!  Make Thy beauty to be my food, and Thy presence my drink, and Thy pl
 
 -- Bahá'u'lláh
 
-BH07426FOO «[Italiano](../../it/prayers/#BH07426FOO)» «[Esperanto](../../eo/prayers/#BH07426FOO)» 
+BH07426FOO «[Esperanto](../../eo/prayers/#BH07426FOO)» «[Italiano](../../it/prayers/#BH07426FOO)» 
 
 ----
 
@@ -3566,7 +3566,7 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Italiano](../../it/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
 
 ----
 
@@ -3590,7 +3590,7 @@ AB00687SEE «[Nederlands](../../nl/prayers/#AB00687SEE)»
 
 -- Bahá'u'lláh
 
-BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+BH02022 «[Frysk](../../fy/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
 
 ----
 
@@ -3970,7 +3970,7 @@ Is there any Remover of difficulties save God?  Say: Praised be God! He is God! 
 
 -- Báb
 
-BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
+BB00623 «[Frysk](../../fy/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
 
 ----
 
@@ -4034,7 +4034,7 @@ I beseech Thee, O my God, by Thy mighty Sign, and by the revelation of Thy grace
 
 -- Bahá'u'lláh
 
-BH01125 «[Italiano](../../it/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» 
 
 ----
 
@@ -4276,7 +4276,7 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 
 -- Bahá'u'lláh
 
-BH10505 «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» «[Frysk](../../fy/prayers/#BH10505)» 
+BH10505 «[Frysk](../../fy/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» 
 
 ----
 
@@ -4420,7 +4420,7 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 
 -- Abdu'l-Bahá
 
-AB10769 «[Italiano](../../it/prayers/#AB10769)» «[Esperanto](../../eo/prayers/#AB10769)» 
+AB10769 «[Esperanto](../../eo/prayers/#AB10769)» «[Italiano](../../it/prayers/#AB10769)» 
 
 ----
 

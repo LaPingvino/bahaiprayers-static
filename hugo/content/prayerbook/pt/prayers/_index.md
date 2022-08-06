@@ -300,7 +300,7 @@ bpn1175
 
 -- Bahá'u'lláh
 
-BH02848 «[English](../../en/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
+BH02848 «[English](../../en/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» 
 
 ----
 
@@ -678,7 +678,7 @@ Teu Nome é minha cura, ó meu Deus, e a lembrança de Ti, o meu remédio. Aprox
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» 
+BH01313NAM «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» 
 
 ----
 
@@ -1074,7 +1074,7 @@ bpn1111
 
 -- Bahá'u'lláh
 
-BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+BH02022 «[Frysk](../../fy/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
 
 ----
 
@@ -1094,7 +1094,7 @@ bpn1326
 
 -- Bahá'u'lláh
 
-BH03908 «[English](../../en/prayers/#BH03908)» «[Frysk](../../fy/prayers/#BH03908)» 
+BH03908 «[Frysk](../../fy/prayers/#BH03908)» «[English](../../en/prayers/#BH03908)» 
 
 ----
 
@@ -1342,7 +1342,7 @@ bpn1295
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Italiano](../../it/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Italiano](../../it/prayers/#AB00001FIR)» 
 
 ----
 
@@ -1352,7 +1352,7 @@ Faze firmes os nossos passos no Teu caminho, ó Senhor, e fortalece os nossos co
 
 -- Abdu'l-Bahá
 
-AB06211 «[Deutsch](../../de/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
+AB06211 «[English](../../en/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» 
 
 ----
 
@@ -1890,7 +1890,7 @@ bpn1124
 
 -- Bahá'u'lláh
 
-BH00009SER «[Esperanto](../../eo/prayers/#BH00009SER)» «[English](../../en/prayers/#BH00009SER)» «[Frysk](../../fy/prayers/#BH00009SER)» 
+BH00009SER «[Frysk](../../fy/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[English](../../en/prayers/#BH00009SER)» 
 
 ----
 
@@ -1962,7 +1962,7 @@ BH00074BLE «[Esperanto](../../eo/prayers/#BH00074BLE)» «[Papiamentu](../../pa
 
 -- Bahá'u'lláh
 
-BH11209 «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» 
+BH11209 «[Frysk](../../fy/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» 
 
 ----
 
@@ -1996,7 +1996,7 @@ BH00987 «[Nederlands](../../nl/prayers/#BH00987)» «[Esperanto](../../eo/praye
 
 -- Bahá'u'lláh
 
-BH09085 «[Nederlands](../../nl/prayers/#BH09085)» «[English](../../en/prayers/#BH09085)» «[Frysk](../../fy/prayers/#BH09085)» 
+BH09085 «[Frysk](../../fy/prayers/#BH09085)» «[Nederlands](../../nl/prayers/#BH09085)» «[English](../../en/prayers/#BH09085)» 
 
 ----
 
@@ -2830,7 +2830,7 @@ Há quem remova as dificuldades a não ser Deus? Dize: Louvado seja Deus! Ele é
 
 -- Báb
 
-BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
+BB00623 «[Frysk](../../fy/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» 
 
 ----
 

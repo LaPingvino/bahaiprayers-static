@@ -492,7 +492,7 @@ bpn7812
 
 -- Bahá'u'lláh
 
-BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» 
 
 ----
 
@@ -1628,7 +1628,7 @@ O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplica
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Deutsch](../../de/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+AB06528MID «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» 
 
 ----
 
