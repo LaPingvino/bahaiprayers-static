@@ -658,7 +658,7 @@ bpn13590
 
 -- Abdu'l-Bahá
 
-AB11281 «[Nederlands](../../nl/prayers/#AB11281)» «[English](../../en/prayers/#AB11281)» 
+AB11281 «[English](../../en/prayers/#AB11281)» «[Nederlands](../../nl/prayers/#AB11281)» 
 
 ----
 
