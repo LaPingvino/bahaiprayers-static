@@ -142,7 +142,7 @@ bpn3182
 
 -- Bahá'u'lláh
 
-BH09024 «[Esperanto](../../eo/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» 
+BH09024 «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» 
 
 ----
 
@@ -322,7 +322,7 @@ bpn3141
 
 -- Bahá'u'lláh
 
-BH02848 «[Français](../../fr/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» 
+BH02848 «[Français](../../fr/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» 
 
 ----
 

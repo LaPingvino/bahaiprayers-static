@@ -796,7 +796,7 @@ bpn9166
 
 -- Bahá'u'lláh
 
-BH08433 «[Esperanto](../../eo/prayers/#BH08433)» «[English](../../en/prayers/#BH08433)» 
+BH08433 «[English](../../en/prayers/#BH08433)» «[Esperanto](../../eo/prayers/#BH08433)» 
 
 ----
 
@@ -880,7 +880,7 @@ bpn9177
 
 -- Bahá'u'lláh
 
-BH00074BLE «[Esperanto](../../eo/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Português (BR)](../../pt/prayers/#BH00074BLE)» «[English](../../en/prayers/#BH00074BLE)» 
+BH00074BLE «[English](../../en/prayers/#BH00074BLE)» «[Português (BR)](../../pt/prayers/#BH00074BLE)» «[Papiamentu](../../pap/prayers/#BH00074BLE)» «[Esperanto](../../eo/prayers/#BH00074BLE)» 
 
 ----
 
@@ -1072,7 +1072,7 @@ bpn9198
 
 -- Bahá'u'lláh
 
-BH09960 «[Esperanto](../../eo/prayers/#BH09960)» «[Português (BR)](../../pt/prayers/#BH09960)» «[English](../../en/prayers/#BH09960)» 
+BH09960 «[English](../../en/prayers/#BH09960)» «[Português (BR)](../../pt/prayers/#BH09960)» «[Esperanto](../../eo/prayers/#BH09960)» 
 
 ----
 
@@ -1214,7 +1214,7 @@ bpn9210
 
 -- Bahá'u'lláh
 
-BH02848 «[Português (BR)](../../pt/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» 
+BH02848 «[English](../../en/prayers/#BH02848)» «[Afrikaans](../../af/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» 
 
 ----
 
@@ -1362,7 +1362,7 @@ bpn9229
 
 -- Abdu'l-Bahá
 
-ABU0030SHE «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[Español](../../es/prayers/#ABU0030SHE)» «[English](../../en/prayers/#ABU0030SHE)» 
+ABU0030SHE «[English](../../en/prayers/#ABU0030SHE)» «[Español](../../es/prayers/#ABU0030SHE)» «[Esperanto](../../eo/prayers/#ABU0030SHE)» 
 
 ----
 
@@ -1414,7 +1414,7 @@ bpn9302
 
 -- Bahá'u'lláh
 
-BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» 
+BH01125 «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» 
 
 ----
 
@@ -1478,7 +1478,7 @@ bpn9216
 
 -- Bahá'u'lláh
 
-BH03109KIN «[Italiano](../../it/prayers/#BH03109KIN)» «[English](../../en/prayers/#BH03109KIN)» 
+BH03109KIN «[English](../../en/prayers/#BH03109KIN)» «[Italiano](../../it/prayers/#BH03109KIN)» 
 
 ----
 
@@ -1944,7 +1944,7 @@ bpn9268
 
 -- Abdu'l-Bahá
 
-AB09139 «[Nederlands](../../nl/prayers/#AB09139)» «[Português (BR)](../../pt/prayers/#AB09139)» «[English](../../en/prayers/#AB09139)» 
+AB09139 «[Nederlands](../../nl/prayers/#AB09139)» «[English](../../en/prayers/#AB09139)» «[Português (BR)](../../pt/prayers/#AB09139)» 
 
 ----
 
@@ -2038,7 +2038,7 @@ bpn9279
 
 -- Báb
 
-BB00015SUF «[Frysk](../../fy/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Português (BR)](../../pt/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» 
+BB00015SUF «[Nederlands](../../nl/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» «[Frysk](../../fy/prayers/#BB00015SUF)» «[Português (BR)](../../pt/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» 
 
 ----
 
@@ -2048,7 +2048,7 @@ BB00015SUF «[Frysk](../../fy/prayers/#BB00015SUF)» «[Esperanto](../../eo/pray
 
 -- Báb
 
-BB00623 «[Frysk](../../fy/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» 
+BB00623 «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» 
 
 ----
 
