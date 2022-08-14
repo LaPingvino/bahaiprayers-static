@@ -312,7 +312,7 @@ func main() {
 	fmt.Println("Starting download...")
 	for i, v := range languages() {
 		lang, name, _ := Language(v)
-		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
+		b := GetFile("prayersystembylanguage?html=true&languageid=" + strconv.Itoa(v))
 		// Parse the file
 		var prayers = Prayerfile{}
 		err := json.Unmarshal(b, &prayers)
