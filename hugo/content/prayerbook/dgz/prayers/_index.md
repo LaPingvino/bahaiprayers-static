@@ -42,7 +42,7 @@ tags = ['lang=dgz', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13006 in Daga (bpn13006) 
+Prayer bpn13006 (bpn13006) 
 
 [bahaiprayers.net 13006](https://bahaiprayers.net/Book/Single/112/13006)
 
@@ -59,7 +59,7 @@ Prayer bpn13006 in Daga (bpn13006)
 
 -- Bahá'u'lláh
 
-Prayer bpn12997 in Daga (bpn12997) 
+Prayer bpn12997 (bpn12997) 
 
 [bahaiprayers.net 12997](https://bahaiprayers.net/Book/Single/112/12997)
 
@@ -76,7 +76,7 @@ Prayer bpn12997 in Daga (bpn12997)
 
 -- Bahá'u'lláh
 
-Prayer bpn13002 in Daga (bpn13002) 
+Prayer bpn13002 (bpn13002) 
 
 [bahaiprayers.net 13002](https://bahaiprayers.net/Book/Single/112/13002)
 
@@ -89,7 +89,7 @@ Prayer bpn13002 in Daga (bpn13002)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13003 in Daga (bpn13003) 
+Prayer bpn13003 (bpn13003) 
 
 [bahaiprayers.net 13003](https://bahaiprayers.net/Book/Single/112/13003)
 
@@ -106,7 +106,7 @@ Prayer bpn13003 in Daga (bpn13003)
 
 -- Bahá'u'lláh
 
-Prayer bpn13007 in Daga (bpn13007) 
+Prayer bpn13007 (bpn13007) 
 
 [bahaiprayers.net 13007](https://bahaiprayers.net/Book/Single/112/13007)
 
@@ -123,7 +123,7 @@ Prayer bpn13007 in Daga (bpn13007)
 
 -- Bahá'u'lláh
 
-Prayer bpn13004 in Daga (bpn13004) 
+Prayer bpn13004 (bpn13004) 
 
 [bahaiprayers.net 13004](https://bahaiprayers.net/Book/Single/112/13004)
 
@@ -136,7 +136,7 @@ Prayer bpn13004 in Daga (bpn13004)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13005 in Daga (bpn13005) 
+Prayer bpn13005 (bpn13005) 
 
 [bahaiprayers.net 13005](https://bahaiprayers.net/Book/Single/112/13005)
 
@@ -153,7 +153,7 @@ Prayer bpn13005 in Daga (bpn13005)
 
 -- Báb
 
-Prayer bpn12996 in Daga (bpn12996) 
+Prayer bpn12996 (bpn12996) 
 
 [bahaiprayers.net 12996](https://bahaiprayers.net/Book/Single/112/12996)
 
@@ -170,7 +170,7 @@ Prayer bpn12996 in Daga (bpn12996)
 
 -- Bahá'u'lláh
 
-Prayer bpn12995 in Daga (bpn12995) 
+Prayer bpn12995 (bpn12995) 
 
 [bahaiprayers.net 12995](https://bahaiprayers.net/Book/Single/112/12995)
 
@@ -187,7 +187,7 @@ Prayer bpn12995 in Daga (bpn12995)
 
 -- Bahá'u'lláh
 
-Prayer bpn13085 in Daga (bpn13085) 
+Prayer bpn13085 (bpn13085) 
 
 [bahaiprayers.net 13085](https://bahaiprayers.net/Book/Single/112/13085)
 
@@ -204,7 +204,7 @@ Prayer bpn13085 in Daga (bpn13085)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12999 in Daga (bpn12999) 
+Prayer bpn12999 (bpn12999) 
 
 [bahaiprayers.net 12999](https://bahaiprayers.net/Book/Single/112/12999)
 
@@ -221,7 +221,7 @@ Prayer bpn12999 in Daga (bpn12999)
 
 -- Bahá'u'lláh
 
-Prayer bpn13000 in Daga (bpn13000) 
+Prayer bpn13000 (bpn13000) 
 
 [bahaiprayers.net 13000](https://bahaiprayers.net/Book/Single/112/13000)
 
@@ -234,7 +234,7 @@ Prayer bpn13000 in Daga (bpn13000)
 
 -- Bahá'u'lláh
 
-Prayer bpn13084 in Daga (bpn13084) 
+Prayer bpn13084 (bpn13084) 
 
 [bahaiprayers.net 13084](https://bahaiprayers.net/Book/Single/112/13084)
 
@@ -247,7 +247,7 @@ Prayer bpn13084 in Daga (bpn13084)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13001 in Daga (bpn13001) 
+Prayer bpn13001 (bpn13001) 
 
 [bahaiprayers.net 13001](https://bahaiprayers.net/Book/Single/112/13001)
 
@@ -264,7 +264,7 @@ Prayer bpn13001 in Daga (bpn13001)
 
 -- Bahá'u'lláh
 
-Prayer bpn12998 in Daga (bpn12998) 
+Prayer bpn12998 (bpn12998) 
 
 [bahaiprayers.net 12998](https://bahaiprayers.net/Book/Single/112/12998)
 
@@ -281,7 +281,7 @@ Prayer bpn12998 in Daga (bpn12998)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13008 in Daga (bpn13008) 
+Prayer bpn13008 (bpn13008) 
 
 [bahaiprayers.net 13008](https://bahaiprayers.net/Book/Single/112/13008)
 
@@ -298,7 +298,7 @@ Prayer bpn13008 in Daga (bpn13008)
 
 -- Bahá'u'lláh
 
-Prayer bpn12994 in Daga (bpn12994) 
+Prayer bpn12994 (bpn12994) 
 
 [bahaiprayers.net 12994](https://bahaiprayers.net/Book/Single/112/12994)
 

@@ -112,7 +112,7 @@ tags = ['lang=ml', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn9903 in മലയാളം (bpn9903) 
+Prayer bpn9903 (bpn9903) 
 
 [bahaiprayers.net 9903](https://bahaiprayers.net/Book/Single/87/9903)
 
@@ -129,7 +129,7 @@ Prayer bpn9903 in മലയാളം (bpn9903)
 
 -- Bahá'u'lláh
 
-Prayer bpn9892 in മലയാളം (bpn9892) 
+Prayer bpn9892 (bpn9892) 
 
 [bahaiprayers.net 9892](https://bahaiprayers.net/Book/Single/87/9892)
 
@@ -146,7 +146,7 @@ Prayer bpn9892 in മലയാളം (bpn9892)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9891 in മലയാളം (bpn9891) 
+Prayer bpn9891 (bpn9891) 
 
 [bahaiprayers.net 9891](https://bahaiprayers.net/Book/Single/87/9891)
 
@@ -163,7 +163,7 @@ Prayer bpn9891 in മലയാളം (bpn9891)
 
 -- Bahá'u'lláh
 
-Prayer bpn9889 in മലയാളം (bpn9889) 
+Prayer bpn9889 (bpn9889) 
 
 [bahaiprayers.net 9889](https://bahaiprayers.net/Book/Single/87/9889)
 
@@ -180,7 +180,7 @@ Prayer bpn9889 in മലയാളം (bpn9889)
 
 -- Bahá'u'lláh
 
-Prayer bpn9841 in മലയാളം (bpn9841) 
+Prayer bpn9841 (bpn9841) 
 
 [bahaiprayers.net 9841](https://bahaiprayers.net/Book/Single/87/9841)
 
@@ -193,7 +193,7 @@ Prayer bpn9841 in മലയാളം (bpn9841)
 
 -- Bahá'u'lláh
 
-Prayer bpn9842 in മലയാളം (bpn9842) 
+Prayer bpn9842 (bpn9842) 
 
 [bahaiprayers.net 9842](https://bahaiprayers.net/Book/Single/87/9842)
 
@@ -206,7 +206,7 @@ Prayer bpn9842 in മലയാളം (bpn9842)
 
 -- Bahá'u'lláh
 
-Prayer bpn9844 in മലയാളം (bpn9844) 
+Prayer bpn9844 (bpn9844) 
 
 [bahaiprayers.net 9844](https://bahaiprayers.net/Book/Single/87/9844)
 
@@ -219,7 +219,7 @@ Prayer bpn9844 in മലയാളം (bpn9844)
 
 -- Bahá'u'lláh
 
-Prayer bpn9840 in മലയാളം (bpn9840) 
+Prayer bpn9840 (bpn9840) 
 
 [bahaiprayers.net 9840](https://bahaiprayers.net/Book/Single/87/9840)
 
@@ -232,7 +232,7 @@ Prayer bpn9840 in മലയാളം (bpn9840)
 
 -- Bahá'u'lláh
 
-Prayer bpn9843 in മലയാളം (bpn9843) 
+Prayer bpn9843 (bpn9843) 
 
 [bahaiprayers.net 9843](https://bahaiprayers.net/Book/Single/87/9843)
 
@@ -245,7 +245,7 @@ Prayer bpn9843 in മലയാളം (bpn9843)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9845 in മലയാളം (bpn9845) 
+Prayer bpn9845 (bpn9845) 
 
 [bahaiprayers.net 9845](https://bahaiprayers.net/Book/Single/87/9845)
 
@@ -258,7 +258,7 @@ Prayer bpn9845 in മലയാളം (bpn9845)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9846 in മലയാളം (bpn9846) 
+Prayer bpn9846 (bpn9846) 
 
 [bahaiprayers.net 9846](https://bahaiprayers.net/Book/Single/87/9846)
 
@@ -271,7 +271,7 @@ Prayer bpn9846 in മലയാളം (bpn9846)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9847 in മലയാളം (bpn9847) 
+Prayer bpn9847 (bpn9847) 
 
 [bahaiprayers.net 9847](https://bahaiprayers.net/Book/Single/87/9847)
 
@@ -284,7 +284,7 @@ Prayer bpn9847 in മലയാളം (bpn9847)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9848 in മലയാളം (bpn9848) 
+Prayer bpn9848 (bpn9848) 
 
 [bahaiprayers.net 9848](https://bahaiprayers.net/Book/Single/87/9848)
 
@@ -301,7 +301,7 @@ Prayer bpn9848 in മലയാളം (bpn9848)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9837 in മലയാളം (bpn9837) 
+Prayer bpn9837 (bpn9837) 
 
 [bahaiprayers.net 9837](https://bahaiprayers.net/Book/Single/87/9837)
 
@@ -314,7 +314,7 @@ Prayer bpn9837 in മലയാളം (bpn9837)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9838 in മലയാളം (bpn9838) 
+Prayer bpn9838 (bpn9838) 
 
 [bahaiprayers.net 9838](https://bahaiprayers.net/Book/Single/87/9838)
 
@@ -327,7 +327,7 @@ Prayer bpn9838 in മലയാളം (bpn9838)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9839 in മലയാളം (bpn9839) 
+Prayer bpn9839 (bpn9839) 
 
 [bahaiprayers.net 9839](https://bahaiprayers.net/Book/Single/87/9839)
 
@@ -344,7 +344,7 @@ Prayer bpn9839 in മലയാളം (bpn9839)
 
 -- Bahá'u'lláh
 
-Prayer bpn9783 in മലയാളം (bpn9783) 
+Prayer bpn9783 (bpn9783) 
 
 [bahaiprayers.net 9783](https://bahaiprayers.net/Book/Single/87/9783)
 
@@ -357,7 +357,7 @@ Prayer bpn9783 in മലയാളം (bpn9783)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9784 in മലയാളം (bpn9784) 
+Prayer bpn9784 (bpn9784) 
 
 [bahaiprayers.net 9784](https://bahaiprayers.net/Book/Single/87/9784)
 
@@ -370,7 +370,7 @@ Prayer bpn9784 in മലയാളം (bpn9784)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9785 in മലയാളം (bpn9785) 
+Prayer bpn9785 (bpn9785) 
 
 [bahaiprayers.net 9785](https://bahaiprayers.net/Book/Single/87/9785)
 
@@ -387,7 +387,7 @@ Prayer bpn9785 in മലയാളം (bpn9785)
 
 -- Bahá'u'lláh
 
-Prayer bpn9885 in മലയാളം (bpn9885) 
+Prayer bpn9885 (bpn9885) 
 
 [bahaiprayers.net 9885](https://bahaiprayers.net/Book/Single/87/9885)
 
@@ -400,7 +400,7 @@ Prayer bpn9885 in മലയാളം (bpn9885)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9886 in മലയാളം (bpn9886) 
+Prayer bpn9886 (bpn9886) 
 
 [bahaiprayers.net 9886](https://bahaiprayers.net/Book/Single/87/9886)
 
@@ -417,7 +417,7 @@ Prayer bpn9886 in മലയാളം (bpn9886)
 
 -- Bahá'u'lláh
 
-Prayer bpn9875 in മലയാളം (bpn9875) 
+Prayer bpn9875 (bpn9875) 
 
 [bahaiprayers.net 9875](https://bahaiprayers.net/Book/Single/87/9875)
 
@@ -430,7 +430,7 @@ Prayer bpn9875 in മലയാളം (bpn9875)
 
 -- Bahá'u'lláh
 
-Prayer bpn9876 in മലയാളം (bpn9876) 
+Prayer bpn9876 (bpn9876) 
 
 [bahaiprayers.net 9876](https://bahaiprayers.net/Book/Single/87/9876)
 
@@ -443,7 +443,7 @@ Prayer bpn9876 in മലയാളം (bpn9876)
 
 -- Bahá'u'lláh
 
-Prayer bpn9877 in മലയാളം (bpn9877) 
+Prayer bpn9877 (bpn9877) 
 
 [bahaiprayers.net 9877](https://bahaiprayers.net/Book/Single/87/9877)
 
@@ -456,7 +456,7 @@ Prayer bpn9877 in മലയാളം (bpn9877)
 
 -- Bahá'u'lláh
 
-Prayer bpn9878 in മലയാളം (bpn9878) 
+Prayer bpn9878 (bpn9878) 
 
 [bahaiprayers.net 9878](https://bahaiprayers.net/Book/Single/87/9878)
 
@@ -473,7 +473,7 @@ Prayer bpn9878 in മലയാളം (bpn9878)
 
 -- Bahá'u'lláh
 
-Prayer bpn9902 in മലയാളം (bpn9902) 
+Prayer bpn9902 (bpn9902) 
 
 [bahaiprayers.net 9902](https://bahaiprayers.net/Book/Single/87/9902)
 
@@ -490,7 +490,7 @@ Prayer bpn9902 in മലയാളം (bpn9902)
 
 -- Báb
 
-Prayer bpn9782 in മലയാളം (bpn9782) 
+Prayer bpn9782 (bpn9782) 
 
 [bahaiprayers.net 9782](https://bahaiprayers.net/Book/Single/87/9782)
 
@@ -507,7 +507,7 @@ Prayer bpn9782 in മലയാളം (bpn9782)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9764 in മലയാളം (bpn9764) 
+Prayer bpn9764 (bpn9764) 
 
 [bahaiprayers.net 9764](https://bahaiprayers.net/Book/Single/87/9764)
 
@@ -520,7 +520,7 @@ Prayer bpn9764 in മലയാളം (bpn9764)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9765 in മലയാളം (bpn9765) 
+Prayer bpn9765 (bpn9765) 
 
 [bahaiprayers.net 9765](https://bahaiprayers.net/Book/Single/87/9765)
 
@@ -533,7 +533,7 @@ Prayer bpn9765 in മലയാളം (bpn9765)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9766 in മലയാളം (bpn9766) 
+Prayer bpn9766 (bpn9766) 
 
 [bahaiprayers.net 9766](https://bahaiprayers.net/Book/Single/87/9766)
 
@@ -546,7 +546,7 @@ Prayer bpn9766 in മലയാളം (bpn9766)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9767 in മലയാളം (bpn9767) 
+Prayer bpn9767 (bpn9767) 
 
 [bahaiprayers.net 9767](https://bahaiprayers.net/Book/Single/87/9767)
 
@@ -559,7 +559,7 @@ Prayer bpn9767 in മലയാളം (bpn9767)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9768 in മലയാളം (bpn9768) 
+Prayer bpn9768 (bpn9768) 
 
 [bahaiprayers.net 9768](https://bahaiprayers.net/Book/Single/87/9768)
 
@@ -572,7 +572,7 @@ Prayer bpn9768 in മലയാളം (bpn9768)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9769 in മലയാളം (bpn9769) 
+Prayer bpn9769 (bpn9769) 
 
 [bahaiprayers.net 9769](https://bahaiprayers.net/Book/Single/87/9769)
 
@@ -585,7 +585,7 @@ Prayer bpn9769 in മലയാളം (bpn9769)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9770 in മലയാളം (bpn9770) 
+Prayer bpn9770 (bpn9770) 
 
 [bahaiprayers.net 9770](https://bahaiprayers.net/Book/Single/87/9770)
 
@@ -602,7 +602,7 @@ Prayer bpn9770 in മലയാളം (bpn9770)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9781 in മലയാളം (bpn9781) 
+Prayer bpn9781 (bpn9781) 
 
 [bahaiprayers.net 9781](https://bahaiprayers.net/Book/Single/87/9781)
 
@@ -619,7 +619,7 @@ Prayer bpn9781 in മലയാളം (bpn9781)
 
 -- Bahá'u'lláh
 
-Prayer bpn9881 in മലയാളം (bpn9881) 
+Prayer bpn9881 (bpn9881) 
 
 [bahaiprayers.net 9881](https://bahaiprayers.net/Book/Single/87/9881)
 
@@ -636,7 +636,7 @@ Prayer bpn9881 in മലയാളം (bpn9881)
 
 -- Bahá'u'lláh
 
-Prayer bpn9849 in മലയാളം (bpn9849) 
+Prayer bpn9849 (bpn9849) 
 
 [bahaiprayers.net 9849](https://bahaiprayers.net/Book/Single/87/9849)
 
@@ -649,7 +649,7 @@ Prayer bpn9849 in മലയാളം (bpn9849)
 
 -- Bahá'u'lláh
 
-Prayer bpn9850 in മലയാളം (bpn9850) 
+Prayer bpn9850 (bpn9850) 
 
 [bahaiprayers.net 9850](https://bahaiprayers.net/Book/Single/87/9850)
 
@@ -662,7 +662,7 @@ Prayer bpn9850 in മലയാളം (bpn9850)
 
 -- Bahá'u'lláh
 
-Prayer bpn9851 in മലയാളം (bpn9851) 
+Prayer bpn9851 (bpn9851) 
 
 [bahaiprayers.net 9851](https://bahaiprayers.net/Book/Single/87/9851)
 
@@ -675,7 +675,7 @@ Prayer bpn9851 in മലയാളം (bpn9851)
 
 -- Báb
 
-Prayer bpn9852 in മലയാളം (bpn9852) 
+Prayer bpn9852 (bpn9852) 
 
 [bahaiprayers.net 9852](https://bahaiprayers.net/Book/Single/87/9852)
 
@@ -688,7 +688,7 @@ Prayer bpn9852 in മലയാളം (bpn9852)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9853 in മലയാളം (bpn9853) 
+Prayer bpn9853 (bpn9853) 
 
 [bahaiprayers.net 9853](https://bahaiprayers.net/Book/Single/87/9853)
 
@@ -701,7 +701,7 @@ Prayer bpn9853 in മലയാളം (bpn9853)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9854 in മലയാളം (bpn9854) 
+Prayer bpn9854 (bpn9854) 
 
 [bahaiprayers.net 9854](https://bahaiprayers.net/Book/Single/87/9854)
 
@@ -718,7 +718,7 @@ Prayer bpn9854 in മലയാളം (bpn9854)
 
 -- Bahá'u'lláh
 
-Prayer bpn9874 in മലയാളം (bpn9874) 
+Prayer bpn9874 (bpn9874) 
 
 [bahaiprayers.net 9874](https://bahaiprayers.net/Book/Single/87/9874)
 
@@ -731,7 +731,7 @@ Prayer bpn9874 in മലയാളം (bpn9874)
 
 -- Báb
 
-Prayer bpn9873 in മലയാളം (bpn9873) 
+Prayer bpn9873 (bpn9873) 
 
 [bahaiprayers.net 9873](https://bahaiprayers.net/Book/Single/87/9873)
 
@@ -748,7 +748,7 @@ Prayer bpn9873 in മലയാളം (bpn9873)
 
 -- Bahá'u'lláh
 
-Prayer bpn9800 in മലയാളം (bpn9800) 
+Prayer bpn9800 (bpn9800) 
 
 [bahaiprayers.net 9800](https://bahaiprayers.net/Book/Single/87/9800)
 
@@ -765,7 +765,7 @@ Prayer bpn9800 in മലയാളം (bpn9800)
 
 -- Bahá'u'lláh
 
-Prayer bpn9869 in മലയാളം (bpn9869) 
+Prayer bpn9869 (bpn9869) 
 
 [bahaiprayers.net 9869](https://bahaiprayers.net/Book/Single/87/9869)
 
@@ -778,7 +778,7 @@ Prayer bpn9869 in മലയാളം (bpn9869)
 
 -- Báb
 
-Prayer bpn9870 in മലയാളം (bpn9870) 
+Prayer bpn9870 (bpn9870) 
 
 [bahaiprayers.net 9870](https://bahaiprayers.net/Book/Single/87/9870)
 
@@ -791,7 +791,7 @@ Prayer bpn9870 in മലയാളം (bpn9870)
 
 -- Báb
 
-Prayer bpn9871 in മലയാളം (bpn9871) 
+Prayer bpn9871 (bpn9871) 
 
 [bahaiprayers.net 9871](https://bahaiprayers.net/Book/Single/87/9871)
 
@@ -804,7 +804,7 @@ Prayer bpn9871 in മലയാളം (bpn9871)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9872 in മലയാളം (bpn9872) 
+Prayer bpn9872 (bpn9872) 
 
 [bahaiprayers.net 9872](https://bahaiprayers.net/Book/Single/87/9872)
 
@@ -821,7 +821,7 @@ Prayer bpn9872 in മലയാളം (bpn9872)
 
 -- Bahá'u'lláh
 
-Prayer bpn9887 in മലയാളം (bpn9887) 
+Prayer bpn9887 (bpn9887) 
 
 [bahaiprayers.net 9887](https://bahaiprayers.net/Book/Single/87/9887)
 
@@ -838,7 +838,7 @@ Prayer bpn9887 in മലയാളം (bpn9887)
 
 -- Bahá'u'lláh
 
-Prayer bpn9775 in മലയാളം (bpn9775) 
+Prayer bpn9775 (bpn9775) 
 
 [bahaiprayers.net 9775](https://bahaiprayers.net/Book/Single/87/9775)
 
@@ -851,7 +851,7 @@ Prayer bpn9775 in മലയാളം (bpn9775)
 
 -- Bahá'u'lláh
 
-Prayer bpn9776 in മലയാളം (bpn9776) 
+Prayer bpn9776 (bpn9776) 
 
 [bahaiprayers.net 9776](https://bahaiprayers.net/Book/Single/87/9776)
 
@@ -864,7 +864,7 @@ Prayer bpn9776 in മലയാളം (bpn9776)
 
 -- Bahá'u'lláh
 
-Prayer bpn9777 in മലയാളം (bpn9777) 
+Prayer bpn9777 (bpn9777) 
 
 [bahaiprayers.net 9777](https://bahaiprayers.net/Book/Single/87/9777)
 
@@ -877,7 +877,7 @@ Prayer bpn9777 in മലയാളം (bpn9777)
 
 -- Báb
 
-Prayer bpn9778 in മലയാളം (bpn9778) 
+Prayer bpn9778 (bpn9778) 
 
 [bahaiprayers.net 9778](https://bahaiprayers.net/Book/Single/87/9778)
 
@@ -890,7 +890,7 @@ Prayer bpn9778 in മലയാളം (bpn9778)
 
 -- Báb
 
-Prayer bpn9779 in മലയാളം (bpn9779) 
+Prayer bpn9779 (bpn9779) 
 
 [bahaiprayers.net 9779](https://bahaiprayers.net/Book/Single/87/9779)
 
@@ -903,7 +903,7 @@ Prayer bpn9779 in മലയാളം (bpn9779)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9780 in മലയാളം (bpn9780) 
+Prayer bpn9780 (bpn9780) 
 
 [bahaiprayers.net 9780](https://bahaiprayers.net/Book/Single/87/9780)
 
@@ -920,7 +920,7 @@ Prayer bpn9780 in മലയാളം (bpn9780)
 
 -- Bahá'u'lláh
 
-Prayer bpn9883 in മലയാളം (bpn9883) 
+Prayer bpn9883 (bpn9883) 
 
 [bahaiprayers.net 9883](https://bahaiprayers.net/Book/Single/87/9883)
 
@@ -937,7 +937,7 @@ Prayer bpn9883 in മലയാളം (bpn9883)
 
 -- Bahá'u'lláh
 
-Prayer bpn9809 in മലയാളം (bpn9809) 
+Prayer bpn9809 (bpn9809) 
 
 [bahaiprayers.net 9809](https://bahaiprayers.net/Book/Single/87/9809)
 
@@ -954,7 +954,7 @@ Prayer bpn9809 in മലയാളം (bpn9809)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9827 in മലയാളം (bpn9827) 
+Prayer bpn9827 (bpn9827) 
 
 [bahaiprayers.net 9827](https://bahaiprayers.net/Book/Single/87/9827)
 
@@ -971,7 +971,7 @@ Prayer bpn9827 in മലയാളം (bpn9827)
 
 -- Bahá'u'lláh
 
-Prayer bpn9862 in മലയാളം (bpn9862) 
+Prayer bpn9862 (bpn9862) 
 
 [bahaiprayers.net 9862](https://bahaiprayers.net/Book/Single/87/9862)
 
@@ -984,7 +984,7 @@ Prayer bpn9862 in മലയാളം (bpn9862)
 
 -- Bahá'u'lláh
 
-Prayer bpn9863 in മലയാളം (bpn9863) 
+Prayer bpn9863 (bpn9863) 
 
 [bahaiprayers.net 9863](https://bahaiprayers.net/Book/Single/87/9863)
 
@@ -997,7 +997,7 @@ Prayer bpn9863 in മലയാളം (bpn9863)
 
 -- Báb
 
-Prayer bpn9864 in മലയാളം (bpn9864) 
+Prayer bpn9864 (bpn9864) 
 
 [bahaiprayers.net 9864](https://bahaiprayers.net/Book/Single/87/9864)
 
@@ -1010,7 +1010,7 @@ Prayer bpn9864 in മലയാളം (bpn9864)
 
 -- Báb
 
-Prayer bpn9865 in മലയാളം (bpn9865) 
+Prayer bpn9865 (bpn9865) 
 
 [bahaiprayers.net 9865](https://bahaiprayers.net/Book/Single/87/9865)
 
@@ -1023,7 +1023,7 @@ Prayer bpn9865 in മലയാളം (bpn9865)
 
 -- Báb
 
-Prayer bpn9866 in മലയാളം (bpn9866) 
+Prayer bpn9866 (bpn9866) 
 
 [bahaiprayers.net 9866](https://bahaiprayers.net/Book/Single/87/9866)
 
@@ -1036,7 +1036,7 @@ Prayer bpn9866 in മലയാളം (bpn9866)
 
 -- Báb
 
-Prayer bpn9867 in മലയാളം (bpn9867) 
+Prayer bpn9867 (bpn9867) 
 
 [bahaiprayers.net 9867](https://bahaiprayers.net/Book/Single/87/9867)
 
@@ -1049,7 +1049,7 @@ Prayer bpn9867 in മലയാളം (bpn9867)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9868 in മലയാളം (bpn9868) 
+Prayer bpn9868 (bpn9868) 
 
 [bahaiprayers.net 9868](https://bahaiprayers.net/Book/Single/87/9868)
 
@@ -1066,7 +1066,7 @@ Prayer bpn9868 in മലയാളം (bpn9868)
 
 -- Bahá'u'lláh
 
-Prayer bpn9855 in മലയാളം (bpn9855) 
+Prayer bpn9855 (bpn9855) 
 
 [bahaiprayers.net 9855](https://bahaiprayers.net/Book/Single/87/9855)
 
@@ -1079,7 +1079,7 @@ Prayer bpn9855 in മലയാളം (bpn9855)
 
 -- Bahá'u'lláh
 
-Prayer bpn9856 in മലയാളം (bpn9856) 
+Prayer bpn9856 (bpn9856) 
 
 [bahaiprayers.net 9856](https://bahaiprayers.net/Book/Single/87/9856)
 
@@ -1092,7 +1092,7 @@ Prayer bpn9856 in മലയാളം (bpn9856)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9857 in മലയാളം (bpn9857) 
+Prayer bpn9857 (bpn9857) 
 
 [bahaiprayers.net 9857](https://bahaiprayers.net/Book/Single/87/9857)
 
@@ -1105,7 +1105,7 @@ Prayer bpn9857 in മലയാളം (bpn9857)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9858 in മലയാളം (bpn9858) 
+Prayer bpn9858 (bpn9858) 
 
 [bahaiprayers.net 9858](https://bahaiprayers.net/Book/Single/87/9858)
 
@@ -1118,7 +1118,7 @@ Prayer bpn9858 in മലയാളം (bpn9858)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9859 in മലയാളം (bpn9859) 
+Prayer bpn9859 (bpn9859) 
 
 [bahaiprayers.net 9859](https://bahaiprayers.net/Book/Single/87/9859)
 
@@ -1131,7 +1131,7 @@ Prayer bpn9859 in മലയാളം (bpn9859)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9860 in മലയാളം (bpn9860) 
+Prayer bpn9860 (bpn9860) 
 
 [bahaiprayers.net 9860](https://bahaiprayers.net/Book/Single/87/9860)
 
@@ -1144,7 +1144,7 @@ Prayer bpn9860 in മലയാളം (bpn9860)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9861 in മലയാളം (bpn9861) 
+Prayer bpn9861 (bpn9861) 
 
 [bahaiprayers.net 9861](https://bahaiprayers.net/Book/Single/87/9861)
 
@@ -1161,7 +1161,7 @@ Prayer bpn9861 in മലയാളം (bpn9861)
 
 -- Bahá'u'lláh
 
-Prayer bpn9818 in മലയാളം (bpn9818) 
+Prayer bpn9818 (bpn9818) 
 
 [bahaiprayers.net 9818](https://bahaiprayers.net/Book/Single/87/9818)
 
@@ -1174,7 +1174,7 @@ Prayer bpn9818 in മലയാളം (bpn9818)
 
 -- Bahá'u'lláh
 
-Prayer bpn9819 in മലയാളം (bpn9819) 
+Prayer bpn9819 (bpn9819) 
 
 [bahaiprayers.net 9819](https://bahaiprayers.net/Book/Single/87/9819)
 
@@ -1187,7 +1187,7 @@ Prayer bpn9819 in മലയാളം (bpn9819)
 
 -- Bahá'u'lláh
 
-Prayer bpn9820 in മലയാളം (bpn9820) 
+Prayer bpn9820 (bpn9820) 
 
 [bahaiprayers.net 9820](https://bahaiprayers.net/Book/Single/87/9820)
 
@@ -1204,7 +1204,7 @@ Prayer bpn9820 in മലയാളം (bpn9820)
 
 -- Bahá'u'lláh
 
-Prayer bpn9897 in മലയാളം (bpn9897) 
+Prayer bpn9897 (bpn9897) 
 
 [bahaiprayers.net 9897](https://bahaiprayers.net/Book/Single/87/9897)
 
@@ -1217,7 +1217,7 @@ Prayer bpn9897 in മലയാളം (bpn9897)
 
 -- Bahá'u'lláh
 
-Prayer bpn9898 in മലയാളം (bpn9898) 
+Prayer bpn9898 (bpn9898) 
 
 [bahaiprayers.net 9898](https://bahaiprayers.net/Book/Single/87/9898)
 
@@ -1230,7 +1230,7 @@ Prayer bpn9898 in മലയാളം (bpn9898)
 
 -- Bahá'u'lláh
 
-Prayer bpn9899 in മലയാളം (bpn9899) 
+Prayer bpn9899 (bpn9899) 
 
 [bahaiprayers.net 9899](https://bahaiprayers.net/Book/Single/87/9899)
 
@@ -1243,7 +1243,7 @@ Prayer bpn9899 in മലയാളം (bpn9899)
 
 -- Bahá'u'lláh
 
-Prayer bpn9900 in മലയാളം (bpn9900) 
+Prayer bpn9900 (bpn9900) 
 
 [bahaiprayers.net 9900](https://bahaiprayers.net/Book/Single/87/9900)
 
@@ -1256,7 +1256,7 @@ Prayer bpn9900 in മലയാളം (bpn9900)
 
 -- Bahá'u'lláh
 
-Prayer bpn9901 in മലയാളം (bpn9901) 
+Prayer bpn9901 (bpn9901) 
 
 [bahaiprayers.net 9901](https://bahaiprayers.net/Book/Single/87/9901)
 
@@ -1273,7 +1273,7 @@ Prayer bpn9901 in മലയാളം (bpn9901)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9806 in മലയാളം (bpn9806) 
+Prayer bpn9806 (bpn9806) 
 
 [bahaiprayers.net 9806](https://bahaiprayers.net/Book/Single/87/9806)
 
@@ -1290,7 +1290,7 @@ Prayer bpn9806 in മലയാളം (bpn9806)
 
 -- Bahá'u'lláh
 
-Prayer bpn9882 in മലയാളം (bpn9882) 
+Prayer bpn9882 (bpn9882) 
 
 [bahaiprayers.net 9882](https://bahaiprayers.net/Book/Single/87/9882)
 
@@ -1307,7 +1307,7 @@ Prayer bpn9882 in മലയാളം (bpn9882)
 
 -- Bahá'u'lláh
 
-Prayer bpn9810 in മലയാളം (bpn9810) 
+Prayer bpn9810 (bpn9810) 
 
 [bahaiprayers.net 9810](https://bahaiprayers.net/Book/Single/87/9810)
 
@@ -1320,7 +1320,7 @@ Prayer bpn9810 in മലയാളം (bpn9810)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9811 in മലയാളം (bpn9811) 
+Prayer bpn9811 (bpn9811) 
 
 [bahaiprayers.net 9811](https://bahaiprayers.net/Book/Single/87/9811)
 
@@ -1333,7 +1333,7 @@ Prayer bpn9811 in മലയാളം (bpn9811)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9812 in മലയാളം (bpn9812) 
+Prayer bpn9812 (bpn9812) 
 
 [bahaiprayers.net 9812](https://bahaiprayers.net/Book/Single/87/9812)
 
@@ -1346,7 +1346,7 @@ Prayer bpn9812 in മലയാളം (bpn9812)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9813 in മലയാളം (bpn9813) 
+Prayer bpn9813 (bpn9813) 
 
 [bahaiprayers.net 9813](https://bahaiprayers.net/Book/Single/87/9813)
 
@@ -1363,7 +1363,7 @@ Prayer bpn9813 in മലയാളം (bpn9813)
 
 -- Bahá'u'lláh
 
-Prayer bpn9824 in മലയാളം (bpn9824) 
+Prayer bpn9824 (bpn9824) 
 
 [bahaiprayers.net 9824](https://bahaiprayers.net/Book/Single/87/9824)
 
@@ -1376,7 +1376,7 @@ Prayer bpn9824 in മലയാളം (bpn9824)
 
 -- Báb
 
-Prayer bpn9825 in മലയാളം (bpn9825) 
+Prayer bpn9825 (bpn9825) 
 
 [bahaiprayers.net 9825](https://bahaiprayers.net/Book/Single/87/9825)
 
@@ -1389,7 +1389,7 @@ Prayer bpn9825 in മലയാളം (bpn9825)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9826 in മലയാളം (bpn9826) 
+Prayer bpn9826 (bpn9826) 
 
 [bahaiprayers.net 9826](https://bahaiprayers.net/Book/Single/87/9826)
 
@@ -1406,7 +1406,7 @@ Prayer bpn9826 in മലയാളം (bpn9826)
 
 -- Bahá'u'lláh
 
-Prayer bpn9786 in മലയാളം (bpn9786) 
+Prayer bpn9786 (bpn9786) 
 
 [bahaiprayers.net 9786](https://bahaiprayers.net/Book/Single/87/9786)
 
@@ -1419,7 +1419,7 @@ Prayer bpn9786 in മലയാളം (bpn9786)
 
 -- Bahá'u'lláh
 
-Prayer bpn9787 in മലയാളം (bpn9787) 
+Prayer bpn9787 (bpn9787) 
 
 [bahaiprayers.net 9787](https://bahaiprayers.net/Book/Single/87/9787)
 
@@ -1432,7 +1432,7 @@ Prayer bpn9787 in മലയാളം (bpn9787)
 
 -- Bahá'u'lláh
 
-Prayer bpn9788 in മലയാളം (bpn9788) 
+Prayer bpn9788 (bpn9788) 
 
 [bahaiprayers.net 9788](https://bahaiprayers.net/Book/Single/87/9788)
 
@@ -1445,7 +1445,7 @@ Prayer bpn9788 in മലയാളം (bpn9788)
 
 -- Bahá'u'lláh
 
-Prayer bpn9789 in മലയാളം (bpn9789) 
+Prayer bpn9789 (bpn9789) 
 
 [bahaiprayers.net 9789](https://bahaiprayers.net/Book/Single/87/9789)
 
@@ -1458,7 +1458,7 @@ Prayer bpn9789 in മലയാളം (bpn9789)
 
 -- Báb
 
-Prayer bpn9790 in മലയാളം (bpn9790) 
+Prayer bpn9790 (bpn9790) 
 
 [bahaiprayers.net 9790](https://bahaiprayers.net/Book/Single/87/9790)
 
@@ -1471,7 +1471,7 @@ Prayer bpn9790 in മലയാളം (bpn9790)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9791 in മലയാളം (bpn9791) 
+Prayer bpn9791 (bpn9791) 
 
 [bahaiprayers.net 9791](https://bahaiprayers.net/Book/Single/87/9791)
 
@@ -1488,7 +1488,7 @@ Prayer bpn9791 in മലയാളം (bpn9791)
 
 -- Bahá'u'lláh
 
-Prayer bpn9792 in മലയാളം (bpn9792) 
+Prayer bpn9792 (bpn9792) 
 
 [bahaiprayers.net 9792](https://bahaiprayers.net/Book/Single/87/9792)
 
@@ -1501,7 +1501,7 @@ Prayer bpn9792 in മലയാളം (bpn9792)
 
 -- Bahá'u'lláh
 
-Prayer bpn9793 in മലയാളം (bpn9793) 
+Prayer bpn9793 (bpn9793) 
 
 [bahaiprayers.net 9793](https://bahaiprayers.net/Book/Single/87/9793)
 
@@ -1514,7 +1514,7 @@ Prayer bpn9793 in മലയാളം (bpn9793)
 
 -- Bahá'u'lláh
 
-Prayer bpn9794 in മലയാളം (bpn9794) 
+Prayer bpn9794 (bpn9794) 
 
 [bahaiprayers.net 9794](https://bahaiprayers.net/Book/Single/87/9794)
 
@@ -1531,7 +1531,7 @@ Prayer bpn9794 in മലയാളം (bpn9794)
 
 -- Bahá'u'lláh
 
-Prayer bpn9807 in മലയാളം (bpn9807) 
+Prayer bpn9807 (bpn9807) 
 
 [bahaiprayers.net 9807](https://bahaiprayers.net/Book/Single/87/9807)
 
@@ -1544,7 +1544,7 @@ Prayer bpn9807 in മലയാളം (bpn9807)
 
 -- Bahá'u'lláh
 
-Prayer bpn9808 in മലയാളം (bpn9808) 
+Prayer bpn9808 (bpn9808) 
 
 [bahaiprayers.net 9808](https://bahaiprayers.net/Book/Single/87/9808)
 
@@ -1561,7 +1561,7 @@ Prayer bpn9808 in മലയാളം (bpn9808)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9879 in മലയാളം (bpn9879) 
+Prayer bpn9879 (bpn9879) 
 
 [bahaiprayers.net 9879](https://bahaiprayers.net/Book/Single/87/9879)
 
@@ -1574,7 +1574,7 @@ Prayer bpn9879 in മലയാളം (bpn9879)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9880 in മലയാളം (bpn9880) 
+Prayer bpn9880 (bpn9880) 
 
 [bahaiprayers.net 9880](https://bahaiprayers.net/Book/Single/87/9880)
 
@@ -1591,7 +1591,7 @@ Prayer bpn9880 in മലയാളം (bpn9880)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9814 in മലയാളം (bpn9814) 
+Prayer bpn9814 (bpn9814) 
 
 [bahaiprayers.net 9814](https://bahaiprayers.net/Book/Single/87/9814)
 
@@ -1604,7 +1604,7 @@ Prayer bpn9814 in മലയാളം (bpn9814)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9815 in മലയാളം (bpn9815) 
+Prayer bpn9815 (bpn9815) 
 
 [bahaiprayers.net 9815](https://bahaiprayers.net/Book/Single/87/9815)
 
@@ -1617,7 +1617,7 @@ Prayer bpn9815 in മലയാളം (bpn9815)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9816 in മലയാളം (bpn9816) 
+Prayer bpn9816 (bpn9816) 
 
 [bahaiprayers.net 9816](https://bahaiprayers.net/Book/Single/87/9816)
 
@@ -1630,7 +1630,7 @@ Prayer bpn9816 in മലയാളം (bpn9816)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9817 in മലയാളം (bpn9817) 
+Prayer bpn9817 (bpn9817) 
 
 [bahaiprayers.net 9817](https://bahaiprayers.net/Book/Single/87/9817)
 
@@ -1647,7 +1647,7 @@ Prayer bpn9817 in മലയാളം (bpn9817)
 
 -- Bahá'u'lláh
 
-Prayer bpn9832 in മലയാളം (bpn9832) 
+Prayer bpn9832 (bpn9832) 
 
 [bahaiprayers.net 9832](https://bahaiprayers.net/Book/Single/87/9832)
 
@@ -1660,7 +1660,7 @@ Prayer bpn9832 in മലയാളം (bpn9832)
 
 -- Bahá'u'lláh
 
-Prayer bpn9833 in മലയാളം (bpn9833) 
+Prayer bpn9833 (bpn9833) 
 
 [bahaiprayers.net 9833](https://bahaiprayers.net/Book/Single/87/9833)
 
@@ -1673,7 +1673,7 @@ Prayer bpn9833 in മലയാളം (bpn9833)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9834 in മലയാളം (bpn9834) 
+Prayer bpn9834 (bpn9834) 
 
 [bahaiprayers.net 9834](https://bahaiprayers.net/Book/Single/87/9834)
 
@@ -1686,7 +1686,7 @@ Prayer bpn9834 in മലയാളം (bpn9834)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9835 in മലയാളം (bpn9835) 
+Prayer bpn9835 (bpn9835) 
 
 [bahaiprayers.net 9835](https://bahaiprayers.net/Book/Single/87/9835)
 
@@ -1699,7 +1699,7 @@ Prayer bpn9835 in മലയാളം (bpn9835)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9836 in മലയാളം (bpn9836) 
+Prayer bpn9836 (bpn9836) 
 
 [bahaiprayers.net 9836](https://bahaiprayers.net/Book/Single/87/9836)
 
@@ -1716,7 +1716,7 @@ Prayer bpn9836 in മലയാളം (bpn9836)
 
 -- Bahá'u'lláh
 
-Prayer bpn9821 in മലയാളം (bpn9821) 
+Prayer bpn9821 (bpn9821) 
 
 [bahaiprayers.net 9821](https://bahaiprayers.net/Book/Single/87/9821)
 
@@ -1729,7 +1729,7 @@ Prayer bpn9821 in മലയാളം (bpn9821)
 
 -- Bahá'u'lláh
 
-Prayer bpn9822 in മലയാളം (bpn9822) 
+Prayer bpn9822 (bpn9822) 
 
 [bahaiprayers.net 9822](https://bahaiprayers.net/Book/Single/87/9822)
 
@@ -1742,7 +1742,7 @@ Prayer bpn9822 in മലയാളം (bpn9822)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9823 in മലയാളം (bpn9823) 
+Prayer bpn9823 (bpn9823) 
 
 [bahaiprayers.net 9823](https://bahaiprayers.net/Book/Single/87/9823)
 
@@ -1759,7 +1759,7 @@ Prayer bpn9823 in മലയാളം (bpn9823)
 
 -- Bahá'u'lláh
 
-Prayer bpn9801 in മലയാളം (bpn9801) 
+Prayer bpn9801 (bpn9801) 
 
 [bahaiprayers.net 9801](https://bahaiprayers.net/Book/Single/87/9801)
 
@@ -1772,7 +1772,7 @@ Prayer bpn9801 in മലയാളം (bpn9801)
 
 -- Bahá'u'lláh
 
-Prayer bpn9802 in മലയാളം (bpn9802) 
+Prayer bpn9802 (bpn9802) 
 
 [bahaiprayers.net 9802](https://bahaiprayers.net/Book/Single/87/9802)
 
@@ -1785,7 +1785,7 @@ Prayer bpn9802 in മലയാളം (bpn9802)
 
 -- Bahá'u'lláh
 
-Prayer bpn9803 in മലയാളം (bpn9803) 
+Prayer bpn9803 (bpn9803) 
 
 [bahaiprayers.net 9803](https://bahaiprayers.net/Book/Single/87/9803)
 
@@ -1798,7 +1798,7 @@ Prayer bpn9803 in മലയാളം (bpn9803)
 
 -- Bahá'u'lláh
 
-Prayer bpn9804 in മലയാളം (bpn9804) 
+Prayer bpn9804 (bpn9804) 
 
 [bahaiprayers.net 9804](https://bahaiprayers.net/Book/Single/87/9804)
 
@@ -1811,7 +1811,7 @@ Prayer bpn9804 in മലയാളം (bpn9804)
 
 -- Bahá'u'lláh
 
-Prayer bpn9805 in മലയാളം (bpn9805) 
+Prayer bpn9805 (bpn9805) 
 
 [bahaiprayers.net 9805](https://bahaiprayers.net/Book/Single/87/9805)
 
@@ -1828,7 +1828,7 @@ Prayer bpn9805 in മലയാളം (bpn9805)
 
 -- Bahá'u'lláh
 
-Prayer bpn9896 in മലയാളം (bpn9896) 
+Prayer bpn9896 (bpn9896) 
 
 [bahaiprayers.net 9896](https://bahaiprayers.net/Book/Single/87/9896)
 
@@ -1845,7 +1845,7 @@ Prayer bpn9896 in മലയാളം (bpn9896)
 
 -- Bahá'u'lláh
 
-Prayer bpn9888 in മലയാളം (bpn9888) 
+Prayer bpn9888 (bpn9888) 
 
 [bahaiprayers.net 9888](https://bahaiprayers.net/Book/Single/87/9888)
 
@@ -1862,7 +1862,7 @@ Prayer bpn9888 in മലയാളം (bpn9888)
 
 -- Bahá'u'lláh
 
-Prayer bpn9771 in മലയാളം (bpn9771) 
+Prayer bpn9771 (bpn9771) 
 
 [bahaiprayers.net 9771](https://bahaiprayers.net/Book/Single/87/9771)
 
@@ -1875,7 +1875,7 @@ Prayer bpn9771 in മലയാളം (bpn9771)
 
 -- Bahá'u'lláh
 
-Prayer bpn9772 in മലയാളം (bpn9772) 
+Prayer bpn9772 (bpn9772) 
 
 [bahaiprayers.net 9772](https://bahaiprayers.net/Book/Single/87/9772)
 
@@ -1888,7 +1888,7 @@ Prayer bpn9772 in മലയാളം (bpn9772)
 
 -- Bahá'u'lláh
 
-Prayer bpn9773 in മലയാളം (bpn9773) 
+Prayer bpn9773 (bpn9773) 
 
 [bahaiprayers.net 9773](https://bahaiprayers.net/Book/Single/87/9773)
 
@@ -1901,7 +1901,7 @@ Prayer bpn9773 in മലയാളം (bpn9773)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9774 in മലയാളം (bpn9774) 
+Prayer bpn9774 (bpn9774) 
 
 [bahaiprayers.net 9774](https://bahaiprayers.net/Book/Single/87/9774)
 
@@ -1918,7 +1918,7 @@ Prayer bpn9774 in മലയാളം (bpn9774)
 
 -- Bahá'u'lláh
 
-Prayer bpn9893 in മലയാളം (bpn9893) 
+Prayer bpn9893 (bpn9893) 
 
 [bahaiprayers.net 9893](https://bahaiprayers.net/Book/Single/87/9893)
 
@@ -1931,7 +1931,7 @@ Prayer bpn9893 in മലയാളം (bpn9893)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9894 in മലയാളം (bpn9894) 
+Prayer bpn9894 (bpn9894) 
 
 [bahaiprayers.net 9894](https://bahaiprayers.net/Book/Single/87/9894)
 
@@ -1944,7 +1944,7 @@ Prayer bpn9894 in മലയാളം (bpn9894)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9895 in മലയാളം (bpn9895) 
+Prayer bpn9895 (bpn9895) 
 
 [bahaiprayers.net 9895](https://bahaiprayers.net/Book/Single/87/9895)
 
@@ -1961,7 +1961,7 @@ Prayer bpn9895 in മലയാളം (bpn9895)
 
 -- Bahá'u'lláh
 
-Prayer bpn9890 in മലയാളം (bpn9890) 
+Prayer bpn9890 (bpn9890) 
 
 [bahaiprayers.net 9890](https://bahaiprayers.net/Book/Single/87/9890)
 
@@ -1978,7 +1978,7 @@ Prayer bpn9890 in മലയാളം (bpn9890)
 
 -- Bahá'u'lláh
 
-Prayer bpn9758 in മലയാളം (bpn9758) 
+Prayer bpn9758 (bpn9758) 
 
 [bahaiprayers.net 9758](https://bahaiprayers.net/Book/Single/87/9758)
 
@@ -1991,7 +1991,7 @@ Prayer bpn9758 in മലയാളം (bpn9758)
 
 -- Bahá'u'lláh
 
-Prayer bpn9759 in മലയാളം (bpn9759) 
+Prayer bpn9759 (bpn9759) 
 
 [bahaiprayers.net 9759](https://bahaiprayers.net/Book/Single/87/9759)
 
@@ -2004,7 +2004,7 @@ Prayer bpn9759 in മലയാളം (bpn9759)
 
 -- Bahá'u'lláh
 
-Prayer bpn9760 in മലയാളം (bpn9760) 
+Prayer bpn9760 (bpn9760) 
 
 [bahaiprayers.net 9760](https://bahaiprayers.net/Book/Single/87/9760)
 
@@ -2017,7 +2017,7 @@ Prayer bpn9760 in മലയാളം (bpn9760)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9761 in മലയാളം (bpn9761) 
+Prayer bpn9761 (bpn9761) 
 
 [bahaiprayers.net 9761](https://bahaiprayers.net/Book/Single/87/9761)
 
@@ -2030,7 +2030,7 @@ Prayer bpn9761 in മലയാളം (bpn9761)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9762 in മലയാളം (bpn9762) 
+Prayer bpn9762 (bpn9762) 
 
 [bahaiprayers.net 9762](https://bahaiprayers.net/Book/Single/87/9762)
 
@@ -2043,7 +2043,7 @@ Prayer bpn9762 in മലയാളം (bpn9762)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9763 in മലയാളം (bpn9763) 
+Prayer bpn9763 (bpn9763) 
 
 [bahaiprayers.net 9763](https://bahaiprayers.net/Book/Single/87/9763)
 
@@ -2060,7 +2060,7 @@ Prayer bpn9763 in മലയാളം (bpn9763)
 
 -- Bahá'u'lláh
 
-Prayer bpn9795 in മലയാളം (bpn9795) 
+Prayer bpn9795 (bpn9795) 
 
 [bahaiprayers.net 9795](https://bahaiprayers.net/Book/Single/87/9795)
 
@@ -2073,7 +2073,7 @@ Prayer bpn9795 in മലയാളം (bpn9795)
 
 -- Bahá'u'lláh
 
-Prayer bpn9796 in മലയാളം (bpn9796) 
+Prayer bpn9796 (bpn9796) 
 
 [bahaiprayers.net 9796](https://bahaiprayers.net/Book/Single/87/9796)
 
@@ -2086,7 +2086,7 @@ Prayer bpn9796 in മലയാളം (bpn9796)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9797 in മലയാളം (bpn9797) 
+Prayer bpn9797 (bpn9797) 
 
 [bahaiprayers.net 9797](https://bahaiprayers.net/Book/Single/87/9797)
 
@@ -2099,7 +2099,7 @@ Prayer bpn9797 in മലയാളം (bpn9797)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9798 in മലയാളം (bpn9798) 
+Prayer bpn9798 (bpn9798) 
 
 [bahaiprayers.net 9798](https://bahaiprayers.net/Book/Single/87/9798)
 
@@ -2112,7 +2112,7 @@ Prayer bpn9798 in മലയാളം (bpn9798)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9799 in മലയാളം (bpn9799) 
+Prayer bpn9799 (bpn9799) 
 
 [bahaiprayers.net 9799](https://bahaiprayers.net/Book/Single/87/9799)
 
@@ -2129,7 +2129,7 @@ Prayer bpn9799 in മലയാളം (bpn9799)
 
 -- Bahá'u'lláh
 
-Prayer bpn9828 in മലയാളം (bpn9828) 
+Prayer bpn9828 (bpn9828) 
 
 [bahaiprayers.net 9828](https://bahaiprayers.net/Book/Single/87/9828)
 
@@ -2142,7 +2142,7 @@ Prayer bpn9828 in മലയാളം (bpn9828)
 
 -- Bahá'u'lláh
 
-Prayer bpn9829 in മലയാളം (bpn9829) 
+Prayer bpn9829 (bpn9829) 
 
 [bahaiprayers.net 9829](https://bahaiprayers.net/Book/Single/87/9829)
 
@@ -2155,7 +2155,7 @@ Prayer bpn9829 in മലയാളം (bpn9829)
 
 -- Bahá'u'lláh
 
-Prayer bpn9830 in മലയാളം (bpn9830) 
+Prayer bpn9830 (bpn9830) 
 
 [bahaiprayers.net 9830](https://bahaiprayers.net/Book/Single/87/9830)
 
@@ -2168,7 +2168,7 @@ Prayer bpn9830 in മലയാളം (bpn9830)
 
 -- Bahá'u'lláh
 
-Prayer bpn9831 in മലയാളം (bpn9831) 
+Prayer bpn9831 (bpn9831) 
 
 [bahaiprayers.net 9831](https://bahaiprayers.net/Book/Single/87/9831)
 
@@ -2185,7 +2185,7 @@ Prayer bpn9831 in മലയാളം (bpn9831)
 
 -- Bahá'u'lláh
 
-Prayer bpn9884 in മലയാളം (bpn9884) 
+Prayer bpn9884 (bpn9884) 
 
 [bahaiprayers.net 9884](https://bahaiprayers.net/Book/Single/87/9884)
 

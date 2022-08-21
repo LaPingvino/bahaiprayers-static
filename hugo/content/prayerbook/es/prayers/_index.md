@@ -100,7 +100,7 @@ tags = ['lang=es', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer BH07661 in Español (BH07661) «[English](../../en/prayers/#BH07661)» 
+Prayer BH07661 (BH07661) «[English](../../en/prayers/#BH07661)» 
 
 [bahaiprayers.net 11456](https://bahaiprayers.net/Book/Single/4/11456)
 
@@ -113,7 +113,7 @@ Prayer BH07661 in Español (BH07661) «[English](../../en/prayers/#BH07661)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11457 in Español (bpn11457) 
+Prayer bpn11457 (bpn11457) 
 
 [bahaiprayers.net 11457](https://bahaiprayers.net/Book/Single/4/11457)
 
@@ -126,7 +126,7 @@ Prayer bpn11457 in Español (bpn11457)
 
 -- Bahá'u'lláh
 
-Prayer bpn11458 in Español (bpn11458) 
+Prayer bpn11458 (bpn11458) 
 
 [bahaiprayers.net 11458](https://bahaiprayers.net/Book/Single/4/11458)
 
@@ -139,7 +139,7 @@ Prayer bpn11458 in Español (bpn11458)
 
 -- Bahá'u'lláh
 
-Prayer bpn11459 in Español (bpn11459) 
+Prayer bpn11459 (bpn11459) 
 
 [bahaiprayers.net 11459](https://bahaiprayers.net/Book/Single/4/11459)
 
@@ -152,7 +152,7 @@ Prayer bpn11459 in Español (bpn11459)
 
 -- Bahá'u'lláh
 
-Prayer bpn11460 in Español (bpn11460) 
+Prayer bpn11460 (bpn11460) 
 
 [bahaiprayers.net 11460](https://bahaiprayers.net/Book/Single/4/11460)
 
@@ -165,7 +165,7 @@ Prayer bpn11460 in Español (bpn11460)
 
 -- Báb
 
-Prayer bpn11461 in Español (bpn11461) 
+Prayer bpn11461 (bpn11461) 
 
 [bahaiprayers.net 11461](https://bahaiprayers.net/Book/Single/4/11461)
 
@@ -182,7 +182,7 @@ Prayer bpn11461 in Español (bpn11461)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12578 in Español (bpn12578) 
+Prayer bpn12578 (bpn12578) 
 
 [bahaiprayers.net 12578](https://bahaiprayers.net/Book/Single/4/12578)
 
@@ -199,7 +199,7 @@ Prayer bpn12578 in Español (bpn12578)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11675 in Español (bpn11675) 
+Prayer bpn11675 (bpn11675) 
 
 [bahaiprayers.net 11675](https://bahaiprayers.net/Book/Single/4/11675)
 
@@ -212,7 +212,7 @@ Prayer bpn11675 in Español (bpn11675)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11676 in Español (bpn11676) 
+Prayer bpn11676 (bpn11676) 
 
 [bahaiprayers.net 11676](https://bahaiprayers.net/Book/Single/4/11676)
 
@@ -225,7 +225,7 @@ Prayer bpn11676 in Español (bpn11676)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11677 in Español (bpn11677) 
+Prayer bpn11677 (bpn11677) 
 
 [bahaiprayers.net 11677](https://bahaiprayers.net/Book/Single/4/11677)
 
@@ -242,7 +242,7 @@ Prayer bpn11677 in Español (bpn11677)
 
 -- Bahá'u'lláh
 
-Prayer bpn11462 in Español (bpn11462) 
+Prayer bpn11462 (bpn11462) 
 
 [bahaiprayers.net 11462](https://bahaiprayers.net/Book/Single/4/11462)
 
@@ -255,7 +255,7 @@ Prayer bpn11462 in Español (bpn11462)
 
 -- Bahá'u'lláh
 
-Prayer bpn11463 in Español (bpn11463) 
+Prayer bpn11463 (bpn11463) 
 
 [bahaiprayers.net 11463](https://bahaiprayers.net/Book/Single/4/11463)
 
@@ -268,7 +268,7 @@ Prayer bpn11463 in Español (bpn11463)
 
 -- Báb
 
-Prayer bpn11464 in Español (bpn11464) 
+Prayer bpn11464 (bpn11464) 
 
 [bahaiprayers.net 11464](https://bahaiprayers.net/Book/Single/4/11464)
 
@@ -281,7 +281,7 @@ Prayer bpn11464 in Español (bpn11464)
 
 -- Báb
 
-Prayer bpn11465 in Español (bpn11465) 
+Prayer bpn11465 (bpn11465) 
 
 [bahaiprayers.net 11465](https://bahaiprayers.net/Book/Single/4/11465)
 
@@ -294,7 +294,7 @@ Prayer bpn11465 in Español (bpn11465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11469 in Español (bpn11469) 
+Prayer bpn11469 (bpn11469) 
 
 [bahaiprayers.net 11469](https://bahaiprayers.net/Book/Single/4/11469)
 
@@ -307,7 +307,7 @@ Prayer bpn11469 in Español (bpn11469)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11466 in Español (bpn11466) 
+Prayer bpn11466 (bpn11466) 
 
 [bahaiprayers.net 11466](https://bahaiprayers.net/Book/Single/4/11466)
 
@@ -320,7 +320,7 @@ Prayer bpn11466 in Español (bpn11466)
 
 -- Abdu'l-Bahá
 
-Prayer AB10275 in Español (AB10275) «[Nederlands](../../nl/prayers/#AB10275)» «[English](../../en/prayers/#AB10275)» «[Português (BR)](../../pt/prayers/#AB10275)» 
+Prayer AB10275 (AB10275) «[Português (BR)](../../pt/prayers/#AB10275)» «[English](../../en/prayers/#AB10275)» «[Nederlands](../../nl/prayers/#AB10275)» 
 
 [bahaiprayers.net 11468](https://bahaiprayers.net/Book/Single/4/11468)
 
@@ -333,7 +333,7 @@ Prayer AB10275 in Español (AB10275) «[Nederlands](../../nl/prayers/#AB10275)»
 
 -- Abdu'l-Bahá
 
-Prayer bpn11467 in Español (bpn11467) 
+Prayer bpn11467 (bpn11467) 
 
 [bahaiprayers.net 11467](https://bahaiprayers.net/Book/Single/4/11467)
 
@@ -346,7 +346,7 @@ Prayer bpn11467 in Español (bpn11467)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11470 in Español (bpn11470) 
+Prayer bpn11470 (bpn11470) 
 
 [bahaiprayers.net 11470](https://bahaiprayers.net/Book/Single/4/11470)
 
@@ -363,7 +363,7 @@ Prayer bpn11470 in Español (bpn11470)
 
 -- Bahá'u'lláh
 
-Prayer bpn11678 in Español (bpn11678) 
+Prayer bpn11678 (bpn11678) 
 
 [bahaiprayers.net 11678](https://bahaiprayers.net/Book/Single/4/11678)
 
@@ -376,7 +376,7 @@ Prayer bpn11678 in Español (bpn11678)
 
 -- Bahá'u'lláh
 
-Prayer bpn11679 in Español (bpn11679) 
+Prayer bpn11679 (bpn11679) 
 
 [bahaiprayers.net 11679](https://bahaiprayers.net/Book/Single/4/11679)
 
@@ -389,7 +389,7 @@ Prayer bpn11679 in Español (bpn11679)
 
 -- Bahá'u'lláh
 
-Prayer bpn11680 in Español (bpn11680) 
+Prayer bpn11680 (bpn11680) 
 
 [bahaiprayers.net 11680](https://bahaiprayers.net/Book/Single/4/11680)
 
@@ -402,7 +402,7 @@ Prayer bpn11680 in Español (bpn11680)
 
 -- Bahá'u'lláh
 
-Prayer bpn11681 in Español (bpn11681) 
+Prayer bpn11681 (bpn11681) 
 
 [bahaiprayers.net 11681](https://bahaiprayers.net/Book/Single/4/11681)
 
@@ -415,7 +415,7 @@ Prayer bpn11681 in Español (bpn11681)
 
 -- Bahá'u'lláh
 
-Prayer bpn11682 in Español (bpn11682) 
+Prayer bpn11682 (bpn11682) 
 
 [bahaiprayers.net 11682](https://bahaiprayers.net/Book/Single/4/11682)
 
@@ -428,7 +428,7 @@ Prayer bpn11682 in Español (bpn11682)
 
 -- Bahá'u'lláh
 
-Prayer BH00778 in Español (BH00778) «[Nederlands](../../nl/prayers/#BH00778)» «[English](../../en/prayers/#BH00778)» 
+Prayer BH00778 (BH00778) «[English](../../en/prayers/#BH00778)» «[Nederlands](../../nl/prayers/#BH00778)» 
 
 [bahaiprayers.net 11683](https://bahaiprayers.net/Book/Single/4/11683)
 
@@ -441,7 +441,7 @@ Prayer BH00778 in Español (BH00778) «[Nederlands](../../nl/prayers/#BH00778)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11684 in Español (bpn11684) 
+Prayer bpn11684 (bpn11684) 
 
 [bahaiprayers.net 11684](https://bahaiprayers.net/Book/Single/4/11684)
 
@@ -454,7 +454,7 @@ Prayer bpn11684 in Español (bpn11684)
 
 -- Bahá'u'lláh
 
-Prayer BH01125 in Español (BH01125) «[Nederlands](../../nl/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
+Prayer BH01125 (BH01125) «[Français](../../fr/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» «[Italiano](../../it/prayers/#BH01125)» 
 
 [bahaiprayers.net 11685](https://bahaiprayers.net/Book/Single/4/11685)
 
@@ -467,7 +467,7 @@ Prayer BH01125 in Español (BH01125) «[Nederlands](../../nl/prayers/#BH01125)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11686 in Español (bpn11686) 
+Prayer bpn11686 (bpn11686) 
 
 [bahaiprayers.net 11686](https://bahaiprayers.net/Book/Single/4/11686)
 
@@ -480,7 +480,7 @@ Prayer bpn11686 in Español (bpn11686)
 
 -- Bahá'u'lláh
 
-Prayer bpn11687 in Español (bpn11687) 
+Prayer bpn11687 (bpn11687) 
 
 [bahaiprayers.net 11687](https://bahaiprayers.net/Book/Single/4/11687)
 
@@ -493,7 +493,7 @@ Prayer bpn11687 in Español (bpn11687)
 
 -- Bahá'u'lláh
 
-Prayer bpn11688 in Español (bpn11688) 
+Prayer bpn11688 (bpn11688) 
 
 [bahaiprayers.net 11688](https://bahaiprayers.net/Book/Single/4/11688)
 
@@ -510,7 +510,7 @@ Prayer bpn11688 in Español (bpn11688)
 
 -- Bahá'u'lláh
 
-Prayer bpn11472 in Español (bpn11472) 
+Prayer bpn11472 (bpn11472) 
 
 [bahaiprayers.net 11472](https://bahaiprayers.net/Book/Single/4/11472)
 
@@ -523,7 +523,7 @@ Prayer bpn11472 in Español (bpn11472)
 
 -- Bahá'u'lláh
 
-Prayer bpn11473 in Español (bpn11473) 
+Prayer bpn11473 (bpn11473) 
 
 [bahaiprayers.net 11473](https://bahaiprayers.net/Book/Single/4/11473)
 
@@ -536,7 +536,7 @@ Prayer bpn11473 in Español (bpn11473)
 
 -- Bahá'u'lláh
 
-Prayer bpn11474 in Español (bpn11474) 
+Prayer bpn11474 (bpn11474) 
 
 [bahaiprayers.net 11474](https://bahaiprayers.net/Book/Single/4/11474)
 
@@ -549,7 +549,7 @@ Prayer bpn11474 in Español (bpn11474)
 
 -- Bahá'u'lláh
 
-Prayer bpn11471 in Español (bpn11471) 
+Prayer bpn11471 (bpn11471) 
 
 [bahaiprayers.net 11471](https://bahaiprayers.net/Book/Single/4/11471)
 
@@ -562,7 +562,7 @@ Prayer bpn11471 in Español (bpn11471)
 
 -- Báb
 
-Prayer bpn11475 in Español (bpn11475) 
+Prayer bpn11475 (bpn11475) 
 
 [bahaiprayers.net 11475](https://bahaiprayers.net/Book/Single/4/11475)
 
@@ -575,7 +575,7 @@ Prayer bpn11475 in Español (bpn11475)
 
 -- Báb
 
-Prayer bpn11476 in Español (bpn11476) 
+Prayer bpn11476 (bpn11476) 
 
 [bahaiprayers.net 11476](https://bahaiprayers.net/Book/Single/4/11476)
 
@@ -588,7 +588,7 @@ Prayer bpn11476 in Español (bpn11476)
 
 -- Báb
 
-Prayer bpn11477 in Español (bpn11477) 
+Prayer bpn11477 (bpn11477) 
 
 [bahaiprayers.net 11477](https://bahaiprayers.net/Book/Single/4/11477)
 
@@ -605,7 +605,7 @@ Prayer bpn11477 in Español (bpn11477)
 
 -- Bahá'u'lláh
 
-Prayer bpn11478 in Español (bpn11478) 
+Prayer bpn11478 (bpn11478) 
 
 [bahaiprayers.net 11478](https://bahaiprayers.net/Book/Single/4/11478)
 
@@ -618,7 +618,7 @@ Prayer bpn11478 in Español (bpn11478)
 
 -- Bahá'u'lláh
 
-Prayer bpn11479 in Español (bpn11479) 
+Prayer bpn11479 (bpn11479) 
 
 [bahaiprayers.net 11479](https://bahaiprayers.net/Book/Single/4/11479)
 
@@ -631,7 +631,7 @@ Prayer bpn11479 in Español (bpn11479)
 
 -- Bahá'u'lláh
 
-Prayer BH08822 in Español (BH08822) «[Esperanto](../../eo/prayers/#BH08822)» «[English](../../en/prayers/#BH08822)» «[Português (BR)](../../pt/prayers/#BH08822)» 
+Prayer BH08822 (BH08822) «[Português (BR)](../../pt/prayers/#BH08822)» «[Esperanto](../../eo/prayers/#BH08822)» «[English](../../en/prayers/#BH08822)» 
 
 [bahaiprayers.net 11480](https://bahaiprayers.net/Book/Single/4/11480)
 
@@ -644,7 +644,7 @@ Prayer BH08822 in Español (BH08822) «[Esperanto](../../eo/prayers/#BH08822)» 
 
 -- Bahá'u'lláh
 
-Prayer bpn11481 in Español (bpn11481) 
+Prayer bpn11481 (bpn11481) 
 
 [bahaiprayers.net 11481](https://bahaiprayers.net/Book/Single/4/11481)
 
@@ -657,7 +657,7 @@ Prayer bpn11481 in Español (bpn11481)
 
 -- Bahá'u'lláh
 
-Prayer bpn11482 in Español (bpn11482) 
+Prayer bpn11482 (bpn11482) 
 
 [bahaiprayers.net 11482](https://bahaiprayers.net/Book/Single/4/11482)
 
@@ -670,7 +670,7 @@ Prayer bpn11482 in Español (bpn11482)
 
 -- Bahá'u'lláh
 
-Prayer bpn11483 in Español (bpn11483) 
+Prayer bpn11483 (bpn11483) 
 
 [bahaiprayers.net 11483](https://bahaiprayers.net/Book/Single/4/11483)
 
@@ -683,7 +683,7 @@ Prayer bpn11483 in Español (bpn11483)
 
 -- Báb
 
-Prayer BB00621 in Español (BB00621) «[English](../../en/prayers/#BB00621)» 
+Prayer BB00621 (BB00621) «[English](../../en/prayers/#BB00621)» 
 
 [bahaiprayers.net 11484](https://bahaiprayers.net/Book/Single/4/11484)
 
@@ -696,7 +696,7 @@ Prayer BB00621 in Español (BB00621) «[English](../../en/prayers/#BB00621)»
 
 -- Abdu'l-Bahá
 
-Prayer bpn11485 in Español (bpn11485) 
+Prayer bpn11485 (bpn11485) 
 
 [bahaiprayers.net 11485](https://bahaiprayers.net/Book/Single/4/11485)
 
@@ -709,7 +709,7 @@ Prayer bpn11485 in Español (bpn11485)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11486 in Español (bpn11486) 
+Prayer bpn11486 (bpn11486) 
 
 [bahaiprayers.net 11486](https://bahaiprayers.net/Book/Single/4/11486)
 
@@ -722,7 +722,7 @@ Prayer bpn11486 in Español (bpn11486)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11487 in Español (bpn11487) 
+Prayer bpn11487 (bpn11487) 
 
 [bahaiprayers.net 11487](https://bahaiprayers.net/Book/Single/4/11487)
 
@@ -739,7 +739,7 @@ Prayer bpn11487 in Español (bpn11487)
 
 -- Bahá'u'lláh
 
-Prayer bpn11488 in Español (bpn11488) 
+Prayer bpn11488 (bpn11488) 
 
 [bahaiprayers.net 11488](https://bahaiprayers.net/Book/Single/4/11488)
 
@@ -752,7 +752,7 @@ Prayer bpn11488 in Español (bpn11488)
 
 -- Bahá'u'lláh
 
-Prayer BH00531TRA in Español (BH00531TRA) «[Nederlands](../../nl/prayers/#BH00531TRA)» «[English](../../en/prayers/#BH00531TRA)» 
+Prayer BH00531TRA (BH00531TRA) «[English](../../en/prayers/#BH00531TRA)» «[Nederlands](../../nl/prayers/#BH00531TRA)» 
 
 [bahaiprayers.net 11489](https://bahaiprayers.net/Book/Single/4/11489)
 
@@ -765,7 +765,7 @@ Prayer BH00531TRA in Español (BH00531TRA) «[Nederlands](../../nl/prayers/#BH00
 
 -- Bahá'u'lláh
 
-Prayer bpn11492 in Español (bpn11492) 
+Prayer bpn11492 (bpn11492) 
 
 [bahaiprayers.net 11492](https://bahaiprayers.net/Book/Single/4/11492)
 
@@ -778,7 +778,7 @@ Prayer bpn11492 in Español (bpn11492)
 
 -- Bahá'u'lláh
 
-Prayer bpn11493 in Español (bpn11493) 
+Prayer bpn11493 (bpn11493) 
 
 [bahaiprayers.net 11493](https://bahaiprayers.net/Book/Single/4/11493)
 
@@ -791,7 +791,7 @@ Prayer bpn11493 in Español (bpn11493)
 
 -- Bahá'u'lláh
 
-Prayer bpn11494 in Español (bpn11494) 
+Prayer bpn11494 (bpn11494) 
 
 [bahaiprayers.net 11494](https://bahaiprayers.net/Book/Single/4/11494)
 
@@ -804,7 +804,7 @@ Prayer bpn11494 in Español (bpn11494)
 
 -- Bahá'u'lláh
 
-Prayer bpn11491 in Español (bpn11491) 
+Prayer bpn11491 (bpn11491) 
 
 [bahaiprayers.net 11491](https://bahaiprayers.net/Book/Single/4/11491)
 
@@ -817,7 +817,7 @@ Prayer bpn11491 in Español (bpn11491)
 
 -- Bahá'u'lláh
 
-Prayer bpn11490 in Español (bpn11490) 
+Prayer bpn11490 (bpn11490) 
 
 [bahaiprayers.net 11490](https://bahaiprayers.net/Book/Single/4/11490)
 
@@ -830,7 +830,7 @@ Prayer bpn11490 in Español (bpn11490)
 
 -- Báb
 
-Prayer BB00374 in Español (BB00374) «[English](../../en/prayers/#BB00374)» 
+Prayer BB00374 (BB00374) «[English](../../en/prayers/#BB00374)» 
 
 [bahaiprayers.net 11495](https://bahaiprayers.net/Book/Single/4/11495)
 
@@ -843,7 +843,7 @@ Prayer BB00374 in Español (BB00374) «[English](../../en/prayers/#BB00374)»
 
 -- Abdu'l-Bahá
 
-Prayer bpn11496 in Español (bpn11496) 
+Prayer bpn11496 (bpn11496) 
 
 [bahaiprayers.net 11496](https://bahaiprayers.net/Book/Single/4/11496)
 
@@ -856,7 +856,7 @@ Prayer bpn11496 in Español (bpn11496)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11497 in Español (bpn11497) 
+Prayer bpn11497 (bpn11497) 
 
 [bahaiprayers.net 11497](https://bahaiprayers.net/Book/Single/4/11497)
 
@@ -869,7 +869,7 @@ Prayer bpn11497 in Español (bpn11497)
 
 -- Abdu'l-Bahá
 
-Prayer AB00128FEE in Español (AB00128FEE) «[English](../../en/prayers/#AB00128FEE)» «[Português (BR)](../../pt/prayers/#AB00128FEE)» «[Português (BR)](../../pt/prayers/#AB00128FEE)» 
+Prayer AB00128FEE (AB00128FEE) «[Português (BR)](../../pt/prayers/#AB00128FEE)» «[Português (BR)](../../pt/prayers/#AB00128FEE)» «[English](../../en/prayers/#AB00128FEE)» 
 
 [bahaiprayers.net 11498](https://bahaiprayers.net/Book/Single/4/11498)
 
@@ -882,7 +882,7 @@ Prayer AB00128FEE in Español (AB00128FEE) «[English](../../en/prayers/#AB00128
 
 -- Abdu'l-Bahá
 
-Prayer AB07709CON in Español (AB07709CON) «[Nederlands](../../nl/prayers/#AB07709CON)» «[English](../../en/prayers/#AB07709CON)» 
+Prayer AB07709CON (AB07709CON) «[English](../../en/prayers/#AB07709CON)» «[Nederlands](../../nl/prayers/#AB07709CON)» 
 
 [bahaiprayers.net 11499](https://bahaiprayers.net/Book/Single/4/11499)
 
@@ -895,7 +895,7 @@ Prayer AB07709CON in Español (AB07709CON) «[Nederlands](../../nl/prayers/#AB07
 
 -- Abdu'l-Bahá
 
-Prayer bpn11500 in Español (bpn11500) 
+Prayer bpn11500 (bpn11500) 
 
 [bahaiprayers.net 11500](https://bahaiprayers.net/Book/Single/4/11500)
 
@@ -908,7 +908,7 @@ Prayer bpn11500 in Español (bpn11500)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11501 in Español (bpn11501) 
+Prayer bpn11501 (bpn11501) 
 
 [bahaiprayers.net 11501](https://bahaiprayers.net/Book/Single/4/11501)
 
@@ -921,7 +921,7 @@ Prayer bpn11501 in Español (bpn11501)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11502 in Español (bpn11502) 
+Prayer bpn11502 (bpn11502) 
 
 [bahaiprayers.net 11502](https://bahaiprayers.net/Book/Single/4/11502)
 
@@ -934,7 +934,7 @@ Prayer bpn11502 in Español (bpn11502)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11503 in Español (bpn11503) 
+Prayer bpn11503 (bpn11503) 
 
 [bahaiprayers.net 11503](https://bahaiprayers.net/Book/Single/4/11503)
 
@@ -951,7 +951,7 @@ Prayer bpn11503 in Español (bpn11503)
 
 -- Bahá'u'lláh
 
-Prayer bpn11504 in Español (bpn11504) 
+Prayer bpn11504 (bpn11504) 
 
 [bahaiprayers.net 11504](https://bahaiprayers.net/Book/Single/4/11504)
 
@@ -964,7 +964,7 @@ Prayer bpn11504 in Español (bpn11504)
 
 -- Bahá'u'lláh
 
-Prayer bpn11505 in Español (bpn11505) 
+Prayer bpn11505 (bpn11505) 
 
 [bahaiprayers.net 11505](https://bahaiprayers.net/Book/Single/4/11505)
 
@@ -977,7 +977,7 @@ Prayer bpn11505 in Español (bpn11505)
 
 -- Bahá'u'lláh
 
-Prayer bpn11506 in Español (bpn11506) 
+Prayer bpn11506 (bpn11506) 
 
 [bahaiprayers.net 11506](https://bahaiprayers.net/Book/Single/4/11506)
 
@@ -990,7 +990,7 @@ Prayer bpn11506 in Español (bpn11506)
 
 -- Bahá'u'lláh
 
-Prayer bpn11508 in Español (bpn11508) 
+Prayer bpn11508 (bpn11508) 
 
 [bahaiprayers.net 11508](https://bahaiprayers.net/Book/Single/4/11508)
 
@@ -1003,7 +1003,7 @@ Prayer bpn11508 in Español (bpn11508)
 
 -- Bahá'u'lláh
 
-Prayer bpn11509 in Español (bpn11509) 
+Prayer bpn11509 (bpn11509) 
 
 [bahaiprayers.net 11509](https://bahaiprayers.net/Book/Single/4/11509)
 
@@ -1016,7 +1016,7 @@ Prayer bpn11509 in Español (bpn11509)
 
 -- Bahá'u'lláh
 
-Prayer bpn11510 in Español (bpn11510) 
+Prayer bpn11510 (bpn11510) 
 
 [bahaiprayers.net 11510](https://bahaiprayers.net/Book/Single/4/11510)
 
@@ -1029,7 +1029,7 @@ Prayer bpn11510 in Español (bpn11510)
 
 -- Bahá'u'lláh
 
-Thy Name is my Healing in Español (BH01313NAM) «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» 
+Thy Name is my Healing (BH01313NAM) «[Frysk](../../fy/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» 
 
 [bahaiprayers.net 11507](https://bahaiprayers.net/Book/Single/4/11507)
 
@@ -1046,7 +1046,7 @@ Thy Name is my Healing in Español (BH01313NAM) «[Esperanto](../../eo/prayers/#
 
 -- Bahá'u'lláh
 
-Prayer BH09864 in Español (BH09864) «[English](../../en/prayers/#BH09864)» «[Português (BR)](../../pt/prayers/#BH09864)» 
+Prayer BH09864 (BH09864) «[Português (BR)](../../pt/prayers/#BH09864)» «[English](../../en/prayers/#BH09864)» 
 
 [bahaiprayers.net 11511](https://bahaiprayers.net/Book/Single/4/11511)
 
@@ -1059,7 +1059,7 @@ Prayer BH09864 in Español (BH09864) «[English](../../en/prayers/#BH09864)» «
 
 -- Bahá'u'lláh
 
-Prayer bpn11512 in Español (bpn11512) 
+Prayer bpn11512 (bpn11512) 
 
 [bahaiprayers.net 11512](https://bahaiprayers.net/Book/Single/4/11512)
 
@@ -1072,7 +1072,7 @@ Prayer bpn11512 in Español (bpn11512)
 
 -- Bahá'u'lláh
 
-Many a chilled heart in Español (BH09024) «[Esperanto](../../eo/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Afrikaans](../../af/prayers/#BH09024)» 
+Many a chilled heart (BH09024) «[Afrikaans](../../af/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» 
 
 [bahaiprayers.net 11513](https://bahaiprayers.net/Book/Single/4/11513)
 
@@ -1085,7 +1085,7 @@ Many a chilled heart in Español (BH09024) «[Esperanto](../../eo/prayers/#BH090
 
 -- Bahá'u'lláh
 
-Prayer bpn11514 in Español (bpn11514) 
+Prayer bpn11514 (bpn11514) 
 
 [bahaiprayers.net 11514](https://bahaiprayers.net/Book/Single/4/11514)
 
@@ -1098,7 +1098,7 @@ Prayer bpn11514 in Español (bpn11514)
 
 -- Bahá'u'lláh
 
-Prayer bpn11515 in Español (bpn11515) 
+Prayer bpn11515 (bpn11515) 
 
 [bahaiprayers.net 11515](https://bahaiprayers.net/Book/Single/4/11515)
 
@@ -1111,7 +1111,7 @@ Prayer bpn11515 in Español (bpn11515)
 
 -- Bahá'u'lláh
 
-Prayer bpn11516 in Español (bpn11516) 
+Prayer bpn11516 (bpn11516) 
 
 [bahaiprayers.net 11516](https://bahaiprayers.net/Book/Single/4/11516)
 
@@ -1124,7 +1124,7 @@ Prayer bpn11516 in Español (bpn11516)
 
 -- Bahá'u'lláh
 
-Prayer bpn11517 in Español (bpn11517) 
+Prayer bpn11517 (bpn11517) 
 
 [bahaiprayers.net 11517](https://bahaiprayers.net/Book/Single/4/11517)
 
@@ -1137,7 +1137,7 @@ Prayer bpn11517 in Español (bpn11517)
 
 -- Báb
 
-Unto Thee I repair for refuge in Español (BB00522) «[Italiano](../../it/prayers/#BB00522)» «[English](../../en/prayers/#BB00522)» 
+Unto Thee I repair for refuge (BB00522) «[English](../../en/prayers/#BB00522)» «[Italiano](../../it/prayers/#BB00522)» 
 
 [bahaiprayers.net 11518](https://bahaiprayers.net/Book/Single/4/11518)
 
@@ -1150,7 +1150,7 @@ Unto Thee I repair for refuge in Español (BB00522) «[Italiano](../../it/prayer
 
 -- Abdu'l-Bahá
 
-Prayer bpn11520 in Español (bpn11520) 
+Prayer bpn11520 (bpn11520) 
 
 [bahaiprayers.net 11520](https://bahaiprayers.net/Book/Single/4/11520)
 
@@ -1167,7 +1167,7 @@ Prayer bpn11520 in Español (bpn11520)
 
 -- Bahá'u'lláh
 
-Prayer bpn11521 in Español (bpn11521) 
+Prayer bpn11521 (bpn11521) 
 
 [bahaiprayers.net 11521](https://bahaiprayers.net/Book/Single/4/11521)
 
@@ -1180,7 +1180,7 @@ Prayer bpn11521 in Español (bpn11521)
 
 -- Bahá'u'lláh
 
-Prayer bpn11522 in Español (bpn11522) 
+Prayer bpn11522 (bpn11522) 
 
 [bahaiprayers.net 11522](https://bahaiprayers.net/Book/Single/4/11522)
 
@@ -1193,7 +1193,7 @@ Prayer bpn11522 in Español (bpn11522)
 
 -- Bahá'u'lláh
 
-Prayer bpn11531 in Español (bpn11531) 
+Prayer bpn11531 (bpn11531) 
 
 [bahaiprayers.net 11531](https://bahaiprayers.net/Book/Single/4/11531)
 
@@ -1206,7 +1206,7 @@ Prayer bpn11531 in Español (bpn11531)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11523 in Español (bpn11523) 
+Prayer bpn11523 (bpn11523) 
 
 [bahaiprayers.net 11523](https://bahaiprayers.net/Book/Single/4/11523)
 
@@ -1219,7 +1219,7 @@ Prayer bpn11523 in Español (bpn11523)
 
 -- Abdu'l-Bahá
 
-Prayer AB11094 in Español (AB11094) «[Esperanto](../../eo/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[Frysk](../../fy/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» 
+Prayer AB11094 (AB11094) «[Frysk](../../fy/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» 
 
 [bahaiprayers.net 11524](https://bahaiprayers.net/Book/Single/4/11524)
 
@@ -1232,7 +1232,7 @@ Prayer AB11094 in Español (AB11094) «[Esperanto](../../eo/prayers/#AB11094)» 
 
 -- Abdu'l-Bahá
 
-Prayer bpn11525 in Español (bpn11525) 
+Prayer bpn11525 (bpn11525) 
 
 [bahaiprayers.net 11525](https://bahaiprayers.net/Book/Single/4/11525)
 
@@ -1245,7 +1245,7 @@ Prayer bpn11525 in Español (bpn11525)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11526 in Español (bpn11526) 
+Prayer bpn11526 (bpn11526) 
 
 [bahaiprayers.net 11526](https://bahaiprayers.net/Book/Single/4/11526)
 
@@ -1258,7 +1258,7 @@ Prayer bpn11526 in Español (bpn11526)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11527 in Español (bpn11527) 
+Prayer bpn11527 (bpn11527) 
 
 [bahaiprayers.net 11527](https://bahaiprayers.net/Book/Single/4/11527)
 
@@ -1271,7 +1271,7 @@ Prayer bpn11527 in Español (bpn11527)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11528 in Español (bpn11528) 
+Prayer bpn11528 (bpn11528) 
 
 [bahaiprayers.net 11528](https://bahaiprayers.net/Book/Single/4/11528)
 
@@ -1284,7 +1284,7 @@ Prayer bpn11528 in Español (bpn11528)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11529 in Español (bpn11529) 
+Prayer bpn11529 (bpn11529) 
 
 [bahaiprayers.net 11529](https://bahaiprayers.net/Book/Single/4/11529)
 
@@ -1297,7 +1297,7 @@ Prayer bpn11529 in Español (bpn11529)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11530 in Español (bpn11530) 
+Prayer bpn11530 (bpn11530) 
 
 [bahaiprayers.net 11530](https://bahaiprayers.net/Book/Single/4/11530)
 
@@ -1314,7 +1314,7 @@ Prayer bpn11530 in Español (bpn11530)
 
 -- Bahá'u'lláh
 
-Prayer bpn11689 in Español (bpn11689) 
+Prayer bpn11689 (bpn11689) 
 
 [bahaiprayers.net 11689](https://bahaiprayers.net/Book/Single/4/11689)
 
@@ -1331,7 +1331,7 @@ Prayer bpn11689 in Español (bpn11689)
 
 -- Bahá'u'lláh
 
-Prayer BH08363 in Español (BH08363) «[English](../../en/prayers/#BH08363)» 
+Prayer BH08363 (BH08363) «[English](../../en/prayers/#BH08363)» 
 
 [bahaiprayers.net 11532](https://bahaiprayers.net/Book/Single/4/11532)
 
@@ -1344,7 +1344,7 @@ Prayer BH08363 in Español (BH08363) «[English](../../en/prayers/#BH08363)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11533 in Español (bpn11533) 
+Prayer bpn11533 (bpn11533) 
 
 [bahaiprayers.net 11533](https://bahaiprayers.net/Book/Single/4/11533)
 
@@ -1357,7 +1357,7 @@ Prayer bpn11533 in Español (bpn11533)
 
 -- Bahá'u'lláh
 
-Prayer bpn11534 in Español (bpn11534) 
+Prayer bpn11534 (bpn11534) 
 
 [bahaiprayers.net 11534](https://bahaiprayers.net/Book/Single/4/11534)
 
@@ -1370,7 +1370,7 @@ Prayer bpn11534 in Español (bpn11534)
 
 -- Bahá'u'lláh
 
-Prayer bpn11535 in Español (bpn11535) 
+Prayer bpn11535 (bpn11535) 
 
 [bahaiprayers.net 11535](https://bahaiprayers.net/Book/Single/4/11535)
 
@@ -1383,7 +1383,7 @@ Prayer bpn11535 in Español (bpn11535)
 
 -- Bahá'u'lláh
 
-Prayer bpn11536 in Español (bpn11536) 
+Prayer bpn11536 (bpn11536) 
 
 [bahaiprayers.net 11536](https://bahaiprayers.net/Book/Single/4/11536)
 
@@ -1396,7 +1396,7 @@ Prayer bpn11536 in Español (bpn11536)
 
 -- Bahá'u'lláh
 
-Prayer bpn11537 in Español (bpn11537) 
+Prayer bpn11537 (bpn11537) 
 
 [bahaiprayers.net 11537](https://bahaiprayers.net/Book/Single/4/11537)
 
@@ -1409,7 +1409,7 @@ Prayer bpn11537 in Español (bpn11537)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11538 in Español (bpn11538) 
+Prayer bpn11538 (bpn11538) 
 
 [bahaiprayers.net 11538](https://bahaiprayers.net/Book/Single/4/11538)
 
@@ -1422,7 +1422,7 @@ Prayer bpn11538 in Español (bpn11538)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11539 in Español (bpn11539) 
+Prayer bpn11539 (bpn11539) 
 
 [bahaiprayers.net 11539](https://bahaiprayers.net/Book/Single/4/11539)
 
@@ -1435,7 +1435,7 @@ Prayer bpn11539 in Español (bpn11539)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11540 in Español (bpn11540) 
+Prayer bpn11540 (bpn11540) 
 
 [bahaiprayers.net 11540](https://bahaiprayers.net/Book/Single/4/11540)
 
@@ -1448,7 +1448,7 @@ Prayer bpn11540 in Español (bpn11540)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11541 in Español (bpn11541) 
+Prayer bpn11541 (bpn11541) 
 
 [bahaiprayers.net 11541](https://bahaiprayers.net/Book/Single/4/11541)
 
@@ -1461,7 +1461,7 @@ Prayer bpn11541 in Español (bpn11541)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11551 in Español (bpn11551) 
+Prayer bpn11551 (bpn11551) 
 
 [bahaiprayers.net 11551](https://bahaiprayers.net/Book/Single/4/11551)
 
@@ -1474,7 +1474,7 @@ Prayer bpn11551 in Español (bpn11551)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11550 in Español (bpn11550) 
+Prayer bpn11550 (bpn11550) 
 
 [bahaiprayers.net 11550](https://bahaiprayers.net/Book/Single/4/11550)
 
@@ -1487,7 +1487,7 @@ Prayer bpn11550 in Español (bpn11550)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11549 in Español (bpn11549) 
+Prayer bpn11549 (bpn11549) 
 
 [bahaiprayers.net 11549](https://bahaiprayers.net/Book/Single/4/11549)
 
@@ -1500,7 +1500,7 @@ Prayer bpn11549 in Español (bpn11549)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11548 in Español (bpn11548) 
+Prayer bpn11548 (bpn11548) 
 
 [bahaiprayers.net 11548](https://bahaiprayers.net/Book/Single/4/11548)
 
@@ -1513,7 +1513,7 @@ Prayer bpn11548 in Español (bpn11548)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11547 in Español (bpn11547) 
+Prayer bpn11547 (bpn11547) 
 
 [bahaiprayers.net 11547](https://bahaiprayers.net/Book/Single/4/11547)
 
@@ -1526,7 +1526,7 @@ Prayer bpn11547 in Español (bpn11547)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11546 in Español (bpn11546) 
+Prayer bpn11546 (bpn11546) 
 
 [bahaiprayers.net 11546](https://bahaiprayers.net/Book/Single/4/11546)
 
@@ -1539,7 +1539,7 @@ Prayer bpn11546 in Español (bpn11546)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11545 in Español (bpn11545) 
+Prayer bpn11545 (bpn11545) 
 
 [bahaiprayers.net 11545](https://bahaiprayers.net/Book/Single/4/11545)
 
@@ -1552,7 +1552,7 @@ Prayer bpn11545 in Español (bpn11545)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11544 in Español (bpn11544) 
+Prayer bpn11544 (bpn11544) 
 
 [bahaiprayers.net 11544](https://bahaiprayers.net/Book/Single/4/11544)
 
@@ -1565,7 +1565,7 @@ Prayer bpn11544 in Español (bpn11544)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11543 in Español (bpn11543) 
+Prayer bpn11543 (bpn11543) 
 
 [bahaiprayers.net 11543](https://bahaiprayers.net/Book/Single/4/11543)
 
@@ -1578,7 +1578,7 @@ Prayer bpn11543 in Español (bpn11543)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11542 in Español (bpn11542) 
+Prayer bpn11542 (bpn11542) 
 
 [bahaiprayers.net 11542](https://bahaiprayers.net/Book/Single/4/11542)
 
@@ -1595,7 +1595,7 @@ Prayer bpn11542 in Español (bpn11542)
 
 -- Báb
 
-Prayer bpn11552 in Español (bpn11552) 
+Prayer bpn11552 (bpn11552) 
 
 [bahaiprayers.net 11552](https://bahaiprayers.net/Book/Single/4/11552)
 
@@ -1608,7 +1608,7 @@ Prayer bpn11552 in Español (bpn11552)
 
 -- Báb
 
-Prayer bpn11553 in Español (bpn11553) 
+Prayer bpn11553 (bpn11553) 
 
 [bahaiprayers.net 11553](https://bahaiprayers.net/Book/Single/4/11553)
 
@@ -1621,7 +1621,7 @@ Prayer bpn11553 in Español (bpn11553)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11554 in Español (bpn11554) 
+Prayer bpn11554 (bpn11554) 
 
 [bahaiprayers.net 11554](https://bahaiprayers.net/Book/Single/4/11554)
 
@@ -1638,7 +1638,7 @@ Prayer bpn11554 in Español (bpn11554)
 
 -- Bahá'u'lláh
 
-Prayer bpn11555 in Español (bpn11555) 
+Prayer bpn11555 (bpn11555) 
 
 [bahaiprayers.net 11555](https://bahaiprayers.net/Book/Single/4/11555)
 
@@ -1651,7 +1651,7 @@ Prayer bpn11555 in Español (bpn11555)
 
 -- Bahá'u'lláh
 
-Prayer BH07683 in Español (BH07683) «[Nederlands](../../nl/prayers/#BH07683)» «[English](../../en/prayers/#BH07683)» 
+Prayer BH07683 (BH07683) «[English](../../en/prayers/#BH07683)» «[Nederlands](../../nl/prayers/#BH07683)» 
 
 [bahaiprayers.net 11556](https://bahaiprayers.net/Book/Single/4/11556)
 
@@ -1664,7 +1664,7 @@ Prayer BH07683 in Español (BH07683) «[Nederlands](../../nl/prayers/#BH07683)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11557 in Español (bpn11557) 
+Prayer bpn11557 (bpn11557) 
 
 [bahaiprayers.net 11557](https://bahaiprayers.net/Book/Single/4/11557)
 
@@ -1677,7 +1677,7 @@ Prayer bpn11557 in Español (bpn11557)
 
 -- Báb
 
-Prayer bpn11558 in Español (bpn11558) 
+Prayer bpn11558 (bpn11558) 
 
 [bahaiprayers.net 11558](https://bahaiprayers.net/Book/Single/4/11558)
 
@@ -1690,7 +1690,7 @@ Prayer bpn11558 in Español (bpn11558)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11559 in Español (bpn11559) 
+Prayer bpn11559 (bpn11559) 
 
 [bahaiprayers.net 11559](https://bahaiprayers.net/Book/Single/4/11559)
 
@@ -1703,7 +1703,7 @@ Prayer bpn11559 in Español (bpn11559)
 
 -- Abdu'l-Bahá
 
-Prayer AB06211 in Español (AB06211) «[Slovensky](../../sk/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» 
+Prayer AB06211 (AB06211) «[Português (BR)](../../pt/prayers/#AB06211)» «[Slovensky](../../sk/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» 
 
 [bahaiprayers.net 11560](https://bahaiprayers.net/Book/Single/4/11560)
 
@@ -1716,7 +1716,7 @@ Prayer AB06211 in Español (AB06211) «[Slovensky](../../sk/prayers/#AB06211)» 
 
 -- Abdu'l-Bahá
 
-Prayer bpn11561 in Español (bpn11561) 
+Prayer bpn11561 (bpn11561) 
 
 [bahaiprayers.net 11561](https://bahaiprayers.net/Book/Single/4/11561)
 
@@ -1733,7 +1733,7 @@ Prayer bpn11561 in Español (bpn11561)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11562 in Español (bpn11562) 
+Prayer bpn11562 (bpn11562) 
 
 [bahaiprayers.net 11562](https://bahaiprayers.net/Book/Single/4/11562)
 
@@ -1750,7 +1750,7 @@ Prayer bpn11562 in Español (bpn11562)
 
 -- Bahá'u'lláh
 
-Prayer bpn11563 in Español (bpn11563) 
+Prayer bpn11563 (bpn11563) 
 
 [bahaiprayers.net 11563](https://bahaiprayers.net/Book/Single/4/11563)
 
@@ -1763,7 +1763,7 @@ Prayer bpn11563 in Español (bpn11563)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11564 in Español (bpn11564) 
+Prayer bpn11564 (bpn11564) 
 
 [bahaiprayers.net 11564](https://bahaiprayers.net/Book/Single/4/11564)
 
@@ -1776,7 +1776,7 @@ Prayer bpn11564 in Español (bpn11564)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11565 in Español (bpn11565) 
+Prayer bpn11565 (bpn11565) 
 
 [bahaiprayers.net 11565](https://bahaiprayers.net/Book/Single/4/11565)
 
@@ -1789,7 +1789,7 @@ Prayer bpn11565 in Español (bpn11565)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11566 in Español (bpn11566) 
+Prayer bpn11566 (bpn11566) 
 
 [bahaiprayers.net 11566](https://bahaiprayers.net/Book/Single/4/11566)
 
@@ -1806,7 +1806,7 @@ Prayer bpn11566 in Español (bpn11566)
 
 -- Bahá'u'lláh
 
-Prayer bpn11567 in Español (bpn11567) 
+Prayer bpn11567 (bpn11567) 
 
 [bahaiprayers.net 11567](https://bahaiprayers.net/Book/Single/4/11567)
 
@@ -1819,7 +1819,7 @@ Prayer bpn11567 in Español (bpn11567)
 
 -- Bahá'u'lláh
 
-Prayer bpn11568 in Español (bpn11568) 
+Prayer bpn11568 (bpn11568) 
 
 [bahaiprayers.net 11568](https://bahaiprayers.net/Book/Single/4/11568)
 
@@ -1832,7 +1832,7 @@ Prayer bpn11568 in Español (bpn11568)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11569 in Español (bpn11569) 
+Prayer bpn11569 (bpn11569) 
 
 [bahaiprayers.net 11569](https://bahaiprayers.net/Book/Single/4/11569)
 
@@ -1849,7 +1849,7 @@ Prayer bpn11569 in Español (bpn11569)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11570 in Español (bpn11570) 
+Prayer bpn11570 (bpn11570) 
 
 [bahaiprayers.net 11570](https://bahaiprayers.net/Book/Single/4/11570)
 
@@ -1862,7 +1862,7 @@ Prayer bpn11570 in Español (bpn11570)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11571 in Español (bpn11571) 
+Prayer bpn11571 (bpn11571) 
 
 [bahaiprayers.net 11571](https://bahaiprayers.net/Book/Single/4/11571)
 
@@ -1875,7 +1875,7 @@ Prayer bpn11571 in Español (bpn11571)
 
 -- Abdu'l-Bahá
 
-Prayer AB10492 in Español (AB10492) «[Slovensky](../../sk/prayers/#AB10492)» «[Nederlands](../../nl/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» 
+Prayer AB10492 (AB10492) «[Slovensky](../../sk/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» «[Nederlands](../../nl/prayers/#AB10492)» 
 
 [bahaiprayers.net 11572](https://bahaiprayers.net/Book/Single/4/11572)
 
@@ -1888,7 +1888,7 @@ Prayer AB10492 in Español (AB10492) «[Slovensky](../../sk/prayers/#AB10492)» 
 
 -- Abdu'l-Bahá
 
-Prayer bpn11573 in Español (bpn11573) 
+Prayer bpn11573 (bpn11573) 
 
 [bahaiprayers.net 11573](https://bahaiprayers.net/Book/Single/4/11573)
 
@@ -1901,7 +1901,7 @@ Prayer bpn11573 in Español (bpn11573)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11574 in Español (bpn11574) 
+Prayer bpn11574 (bpn11574) 
 
 [bahaiprayers.net 11574](https://bahaiprayers.net/Book/Single/4/11574)
 
@@ -1914,7 +1914,7 @@ Prayer bpn11574 in Español (bpn11574)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11575 in Español (bpn11575) 
+Prayer bpn11575 (bpn11575) 
 
 [bahaiprayers.net 11575](https://bahaiprayers.net/Book/Single/4/11575)
 
@@ -1927,7 +1927,7 @@ Prayer bpn11575 in Español (bpn11575)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11576 in Español (bpn11576) 
+Prayer bpn11576 (bpn11576) 
 
 [bahaiprayers.net 11576](https://bahaiprayers.net/Book/Single/4/11576)
 
@@ -1944,7 +1944,7 @@ Prayer bpn11576 in Español (bpn11576)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11595 in Español (bpn11595) 
+Prayer bpn11595 (bpn11595) 
 
 [bahaiprayers.net 11595](https://bahaiprayers.net/Book/Single/4/11595)
 
@@ -1961,7 +1961,7 @@ Prayer bpn11595 in Español (bpn11595)
 
 -- Bahá'u'lláh
 
-Prayer bpn11581 in Español (bpn11581) 
+Prayer bpn11581 (bpn11581) 
 
 [bahaiprayers.net 11581](https://bahaiprayers.net/Book/Single/4/11581)
 
@@ -1974,7 +1974,7 @@ Prayer bpn11581 in Español (bpn11581)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11582 in Español (bpn11582) 
+Prayer bpn11582 (bpn11582) 
 
 [bahaiprayers.net 11582](https://bahaiprayers.net/Book/Single/4/11582)
 
@@ -1987,7 +1987,7 @@ Prayer bpn11582 in Español (bpn11582)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11583 in Español (bpn11583) 
+Prayer bpn11583 (bpn11583) 
 
 [bahaiprayers.net 11583](https://bahaiprayers.net/Book/Single/4/11583)
 
@@ -2000,7 +2000,7 @@ Prayer bpn11583 in Español (bpn11583)
 
 -- Abdu'l-Bahá
 
-Prayer AB02596 in Español (AB02596) «[English](../../en/prayers/#AB02596)» 
+Prayer AB02596 (AB02596) «[English](../../en/prayers/#AB02596)» 
 
 [bahaiprayers.net 11584](https://bahaiprayers.net/Book/Single/4/11584)
 
@@ -2017,7 +2017,7 @@ Prayer AB02596 in Español (AB02596) «[English](../../en/prayers/#AB02596)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11577 in Español (bpn11577) 
+Prayer bpn11577 (bpn11577) 
 
 [bahaiprayers.net 11577](https://bahaiprayers.net/Book/Single/4/11577)
 
@@ -2030,7 +2030,7 @@ Prayer bpn11577 in Español (bpn11577)
 
 -- Bahá'u'lláh
 
-Prayer bpn11578 in Español (bpn11578) 
+Prayer bpn11578 (bpn11578) 
 
 [bahaiprayers.net 11578](https://bahaiprayers.net/Book/Single/4/11578)
 
@@ -2043,7 +2043,7 @@ Prayer bpn11578 in Español (bpn11578)
 
 -- Bahá'u'lláh
 
-Prayer bpn11579 in Español (bpn11579) 
+Prayer bpn11579 (bpn11579) 
 
 [bahaiprayers.net 11579](https://bahaiprayers.net/Book/Single/4/11579)
 
@@ -2056,7 +2056,7 @@ Prayer bpn11579 in Español (bpn11579)
 
 -- Bahá'u'lláh
 
-Prayer bpn11580 in Español (bpn11580) 
+Prayer bpn11580 (bpn11580) 
 
 [bahaiprayers.net 11580](https://bahaiprayers.net/Book/Single/4/11580)
 
@@ -2073,7 +2073,7 @@ Prayer bpn11580 in Español (bpn11580)
 
 -- Bahá'u'lláh
 
-Prayer BH09162 in Español (BH09162) «[Nederlands](../../nl/prayers/#BH09162)» «[English](../../en/prayers/#BH09162)» 
+Prayer BH09162 (BH09162) «[English](../../en/prayers/#BH09162)» «[Nederlands](../../nl/prayers/#BH09162)» 
 
 [bahaiprayers.net 11585](https://bahaiprayers.net/Book/Single/4/11585)
 
@@ -2086,7 +2086,7 @@ Prayer BH09162 in Español (BH09162) «[Nederlands](../../nl/prayers/#BH09162)»
 
 -- Bahá'u'lláh
 
-Prayer BH09399 in Español (BH09399) «[English](../../en/prayers/#BH09399)» 
+Prayer BH09399 (BH09399) «[English](../../en/prayers/#BH09399)» 
 
 [bahaiprayers.net 11586](https://bahaiprayers.net/Book/Single/4/11586)
 
@@ -2099,7 +2099,7 @@ Prayer BH09399 in Español (BH09399) «[English](../../en/prayers/#BH09399)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11587 in Español (bpn11587) 
+Prayer bpn11587 (bpn11587) 
 
 [bahaiprayers.net 11587](https://bahaiprayers.net/Book/Single/4/11587)
 
@@ -2112,7 +2112,7 @@ Prayer bpn11587 in Español (bpn11587)
 
 -- Bahá'u'lláh
 
-Prayer bpn11588 in Español (bpn11588) 
+Prayer bpn11588 (bpn11588) 
 
 [bahaiprayers.net 11588](https://bahaiprayers.net/Book/Single/4/11588)
 
@@ -2125,7 +2125,7 @@ Prayer bpn11588 in Español (bpn11588)
 
 -- Bahá'u'lláh
 
-Prayer BH10231 in Español (BH10231) «[English](../../en/prayers/#BH10231)» 
+Prayer BH10231 (BH10231) «[English](../../en/prayers/#BH10231)» 
 
 [bahaiprayers.net 11589](https://bahaiprayers.net/Book/Single/4/11589)
 
@@ -2138,7 +2138,7 @@ Prayer BH10231 in Español (BH10231) «[English](../../en/prayers/#BH10231)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11590 in Español (bpn11590) 
+Prayer bpn11590 (bpn11590) 
 
 [bahaiprayers.net 11590](https://bahaiprayers.net/Book/Single/4/11590)
 
@@ -2151,7 +2151,7 @@ Prayer bpn11590 in Español (bpn11590)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11591 in Español (bpn11591) 
+Prayer bpn11591 (bpn11591) 
 
 [bahaiprayers.net 11591](https://bahaiprayers.net/Book/Single/4/11591)
 
@@ -2164,7 +2164,7 @@ Prayer bpn11591 in Español (bpn11591)
 
 -- Abdu'l-Bahá
 
-Prayer AB00553 in Español (AB00553) «[English](../../en/prayers/#AB00553)» 
+Prayer AB00553 (AB00553) «[English](../../en/prayers/#AB00553)» 
 
 [bahaiprayers.net 11592](https://bahaiprayers.net/Book/Single/4/11592)
 
@@ -2177,7 +2177,7 @@ Prayer AB00553 in Español (AB00553) «[English](../../en/prayers/#AB00553)»
 
 -- Abdu'l-Bahá
 
-Prayer bpn11593 in Español (bpn11593) 
+Prayer bpn11593 (bpn11593) 
 
 [bahaiprayers.net 11593](https://bahaiprayers.net/Book/Single/4/11593)
 
@@ -2190,7 +2190,7 @@ Prayer bpn11593 in Español (bpn11593)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11594 in Español (bpn11594) 
+Prayer bpn11594 (bpn11594) 
 
 [bahaiprayers.net 11594](https://bahaiprayers.net/Book/Single/4/11594)
 
@@ -2207,7 +2207,7 @@ Prayer bpn11594 in Español (bpn11594)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11692 in Español (bpn11692) 
+Prayer bpn11692 (bpn11692) 
 
 [bahaiprayers.net 11692](https://bahaiprayers.net/Book/Single/4/11692)
 
@@ -2224,7 +2224,7 @@ Prayer bpn11692 in Español (bpn11692)
 
 -- Bahá'u'lláh
 
-Prayer bpn11693 in Español (bpn11693) 
+Prayer bpn11693 (bpn11693) 
 
 [bahaiprayers.net 11693](https://bahaiprayers.net/Book/Single/4/11693)
 
@@ -2241,7 +2241,7 @@ Prayer bpn11693 in Español (bpn11693)
 
 -- Bahá'u'lláh
 
-Prayer bpn11596 in Español (bpn11596) 
+Prayer bpn11596 (bpn11596) 
 
 [bahaiprayers.net 11596](https://bahaiprayers.net/Book/Single/4/11596)
 
@@ -2254,7 +2254,7 @@ Prayer bpn11596 in Español (bpn11596)
 
 -- Bahá'u'lláh
 
-Prayer BH09855 in Español (BH09855) «[English](../../en/prayers/#BH09855)» 
+Prayer BH09855 (BH09855) «[English](../../en/prayers/#BH09855)» 
 
 [bahaiprayers.net 11617](https://bahaiprayers.net/Book/Single/4/11617)
 
@@ -2267,7 +2267,7 @@ Prayer BH09855 in Español (BH09855) «[English](../../en/prayers/#BH09855)»
 
 -- Báb
 
-Prayer bpn11519 in Español (bpn11519) 
+Prayer bpn11519 (bpn11519) 
 
 [bahaiprayers.net 11519](https://bahaiprayers.net/Book/Single/4/11519)
 
@@ -2280,7 +2280,7 @@ Prayer bpn11519 in Español (bpn11519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11597 in Español (bpn11597) 
+Prayer bpn11597 (bpn11597) 
 
 [bahaiprayers.net 11597](https://bahaiprayers.net/Book/Single/4/11597)
 
@@ -2293,7 +2293,7 @@ Prayer bpn11597 in Español (bpn11597)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11598 in Español (bpn11598) 
+Prayer bpn11598 (bpn11598) 
 
 [bahaiprayers.net 11598](https://bahaiprayers.net/Book/Single/4/11598)
 
@@ -2306,7 +2306,7 @@ Prayer bpn11598 in Español (bpn11598)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11599 in Español (bpn11599) 
+Prayer bpn11599 (bpn11599) 
 
 [bahaiprayers.net 11599](https://bahaiprayers.net/Book/Single/4/11599)
 
@@ -2319,7 +2319,7 @@ Prayer bpn11599 in Español (bpn11599)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11600 in Español (bpn11600) 
+Prayer bpn11600 (bpn11600) 
 
 [bahaiprayers.net 11600](https://bahaiprayers.net/Book/Single/4/11600)
 
@@ -2332,7 +2332,7 @@ Prayer bpn11600 in Español (bpn11600)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11601 in Español (bpn11601) 
+Prayer bpn11601 (bpn11601) 
 
 [bahaiprayers.net 11601](https://bahaiprayers.net/Book/Single/4/11601)
 
@@ -2345,7 +2345,7 @@ Prayer bpn11601 in Español (bpn11601)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11602 in Español (bpn11602) 
+Prayer bpn11602 (bpn11602) 
 
 [bahaiprayers.net 11602](https://bahaiprayers.net/Book/Single/4/11602)
 
@@ -2358,7 +2358,7 @@ Prayer bpn11602 in Español (bpn11602)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11603 in Español (bpn11603) 
+Prayer bpn11603 (bpn11603) 
 
 [bahaiprayers.net 11603](https://bahaiprayers.net/Book/Single/4/11603)
 
@@ -2371,7 +2371,7 @@ Prayer bpn11603 in Español (bpn11603)
 
 -- Abdu'l-Bahá
 
-Prayer AB10701 in Español (AB10701) «[Nederlands](../../nl/prayers/#AB10701)» «[English](../../en/prayers/#AB10701)» 
+Prayer AB10701 (AB10701) «[English](../../en/prayers/#AB10701)» «[Nederlands](../../nl/prayers/#AB10701)» 
 
 [bahaiprayers.net 11604](https://bahaiprayers.net/Book/Single/4/11604)
 
@@ -2384,7 +2384,7 @@ Prayer AB10701 in Español (AB10701) «[Nederlands](../../nl/prayers/#AB10701)»
 
 -- Abdu'l-Bahá
 
-Prayer bpn11605 in Español (bpn11605) 
+Prayer bpn11605 (bpn11605) 
 
 [bahaiprayers.net 11605](https://bahaiprayers.net/Book/Single/4/11605)
 
@@ -2397,7 +2397,7 @@ Prayer bpn11605 in Español (bpn11605)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11606 in Español (bpn11606) 
+Prayer bpn11606 (bpn11606) 
 
 [bahaiprayers.net 11606](https://bahaiprayers.net/Book/Single/4/11606)
 
@@ -2410,7 +2410,7 @@ Prayer bpn11606 in Español (bpn11606)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11607 in Español (bpn11607) 
+Prayer bpn11607 (bpn11607) 
 
 [bahaiprayers.net 11607](https://bahaiprayers.net/Book/Single/4/11607)
 
@@ -2423,7 +2423,7 @@ Prayer bpn11607 in Español (bpn11607)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11608 in Español (bpn11608) 
+Prayer bpn11608 (bpn11608) 
 
 [bahaiprayers.net 11608](https://bahaiprayers.net/Book/Single/4/11608)
 
@@ -2436,7 +2436,7 @@ Prayer bpn11608 in Español (bpn11608)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11609 in Español (bpn11609) 
+Prayer bpn11609 (bpn11609) 
 
 [bahaiprayers.net 11609](https://bahaiprayers.net/Book/Single/4/11609)
 
@@ -2449,7 +2449,7 @@ Prayer bpn11609 in Español (bpn11609)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11610 in Español (bpn11610) 
+Prayer bpn11610 (bpn11610) 
 
 [bahaiprayers.net 11610](https://bahaiprayers.net/Book/Single/4/11610)
 
@@ -2462,7 +2462,7 @@ Prayer bpn11610 in Español (bpn11610)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11611 in Español (bpn11611) 
+Prayer bpn11611 (bpn11611) 
 
 [bahaiprayers.net 11611](https://bahaiprayers.net/Book/Single/4/11611)
 
@@ -2475,7 +2475,7 @@ Prayer bpn11611 in Español (bpn11611)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11612 in Español (bpn11612) 
+Prayer bpn11612 (bpn11612) 
 
 [bahaiprayers.net 11612](https://bahaiprayers.net/Book/Single/4/11612)
 
@@ -2488,7 +2488,7 @@ Prayer bpn11612 in Español (bpn11612)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11613 in Español (bpn11613) 
+Prayer bpn11613 (bpn11613) 
 
 [bahaiprayers.net 11613](https://bahaiprayers.net/Book/Single/4/11613)
 
@@ -2501,7 +2501,7 @@ Prayer bpn11613 in Español (bpn11613)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11614 in Español (bpn11614) 
+Prayer bpn11614 (bpn11614) 
 
 [bahaiprayers.net 11614](https://bahaiprayers.net/Book/Single/4/11614)
 
@@ -2514,7 +2514,7 @@ Prayer bpn11614 in Español (bpn11614)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11615 in Español (bpn11615) 
+Prayer bpn11615 (bpn11615) 
 
 [bahaiprayers.net 11615](https://bahaiprayers.net/Book/Single/4/11615)
 
@@ -2527,7 +2527,7 @@ Prayer bpn11615 in Español (bpn11615)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11616 in Español (bpn11616) 
+Prayer bpn11616 (bpn11616) 
 
 [bahaiprayers.net 11616](https://bahaiprayers.net/Book/Single/4/11616)
 
@@ -2540,7 +2540,7 @@ Prayer bpn11616 in Español (bpn11616)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11618 in Español (bpn11618) 
+Prayer bpn11618 (bpn11618) 
 
 [bahaiprayers.net 11618](https://bahaiprayers.net/Book/Single/4/11618)
 
@@ -2553,7 +2553,7 @@ Prayer bpn11618 in Español (bpn11618)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11619 in Español (bpn11619) 
+Prayer bpn11619 (bpn11619) 
 
 [bahaiprayers.net 11619](https://bahaiprayers.net/Book/Single/4/11619)
 
@@ -2570,7 +2570,7 @@ Prayer bpn11619 in Español (bpn11619)
 
 -- Bahá'u'lláh
 
-Prayer bpn11620 in Español (bpn11620) 
+Prayer bpn11620 (bpn11620) 
 
 [bahaiprayers.net 11620](https://bahaiprayers.net/Book/Single/4/11620)
 
@@ -2583,7 +2583,7 @@ Prayer bpn11620 in Español (bpn11620)
 
 -- Bahá'u'lláh
 
-Prayer bpn11621 in Español (bpn11621) 
+Prayer bpn11621 (bpn11621) 
 
 [bahaiprayers.net 11621](https://bahaiprayers.net/Book/Single/4/11621)
 
@@ -2596,7 +2596,7 @@ Prayer bpn11621 in Español (bpn11621)
 
 -- Abdu'l-Bahá
 
-Midnight Prayer in Español (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» 
+Midnight Prayer (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» 
 
 [bahaiprayers.net 11622](https://bahaiprayers.net/Book/Single/4/11622)
 
@@ -2613,7 +2613,7 @@ Midnight Prayer in Español (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528
 
 -- Bahá'u'lláh
 
-Prayer bpn11623 in Español (bpn11623) 
+Prayer bpn11623 (bpn11623) 
 
 [bahaiprayers.net 11623](https://bahaiprayers.net/Book/Single/4/11623)
 
@@ -2626,7 +2626,7 @@ Prayer bpn11623 in Español (bpn11623)
 
 -- Bahá'u'lláh
 
-Prayer bpn11624 in Español (bpn11624) 
+Prayer bpn11624 (bpn11624) 
 
 [bahaiprayers.net 11624](https://bahaiprayers.net/Book/Single/4/11624)
 
@@ -2643,7 +2643,7 @@ Prayer bpn11624 in Español (bpn11624)
 
 -- Bahá'u'lláh
 
-Prayer bpn11453 in Español (bpn11453) 
+Prayer bpn11453 (bpn11453) 
 
 [bahaiprayers.net 11453](https://bahaiprayers.net/Book/Single/4/11453)
 
@@ -2660,7 +2660,7 @@ Prayer bpn11453 in Español (bpn11453)
 
 -- Bahá'u'lláh
 
-Prayer bpn11455 in Español (bpn11455) 
+Prayer bpn11455 (bpn11455) 
 
 [bahaiprayers.net 11455](https://bahaiprayers.net/Book/Single/4/11455)
 
@@ -2677,7 +2677,7 @@ Prayer bpn11455 in Español (bpn11455)
 
 -- Bahá'u'lláh
 
-Prayer bpn11454 in Español (bpn11454) 
+Prayer bpn11454 (bpn11454) 
 
 [bahaiprayers.net 11454](https://bahaiprayers.net/Book/Single/4/11454)
 
@@ -2694,7 +2694,7 @@ Prayer bpn11454 in Español (bpn11454)
 
 -- Bahá'u'lláh
 
-Prayer bpn11625 in Español (bpn11625) 
+Prayer bpn11625 (bpn11625) 
 
 [bahaiprayers.net 11625](https://bahaiprayers.net/Book/Single/4/11625)
 
@@ -2707,7 +2707,7 @@ Prayer bpn11625 in Español (bpn11625)
 
 -- Bahá'u'lláh
 
-Prayer BH08600FAC in Español (BH08600FAC) «[Slovensky](../../sk/prayers/#BH08600FAC)» «[Nederlands](../../nl/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» 
+Prayer BH08600FAC (BH08600FAC) «[Slovensky](../../sk/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» «[Nederlands](../../nl/prayers/#BH08600FAC)» 
 
 [bahaiprayers.net 11626](https://bahaiprayers.net/Book/Single/4/11626)
 
@@ -2720,7 +2720,7 @@ Prayer BH08600FAC in Español (BH08600FAC) «[Slovensky](../../sk/prayers/#BH086
 
 -- Bahá'u'lláh
 
-Prayer bpn11627 in Español (bpn11627) 
+Prayer bpn11627 (bpn11627) 
 
 [bahaiprayers.net 11627](https://bahaiprayers.net/Book/Single/4/11627)
 
@@ -2733,7 +2733,7 @@ Prayer bpn11627 in Español (bpn11627)
 
 -- Báb
 
-Prayer bpn11628 in Español (bpn11628) 
+Prayer bpn11628 (bpn11628) 
 
 [bahaiprayers.net 11628](https://bahaiprayers.net/Book/Single/4/11628)
 
@@ -2746,7 +2746,7 @@ Prayer bpn11628 in Español (bpn11628)
 
 -- Báb
 
-Prayer bpn11629 in Español (bpn11629) 
+Prayer bpn11629 (bpn11629) 
 
 [bahaiprayers.net 11629](https://bahaiprayers.net/Book/Single/4/11629)
 
@@ -2759,7 +2759,7 @@ Prayer bpn11629 in Español (bpn11629)
 
 -- Báb
 
-Prayer bpn11630 in Español (bpn11630) 
+Prayer bpn11630 (bpn11630) 
 
 [bahaiprayers.net 11630](https://bahaiprayers.net/Book/Single/4/11630)
 
@@ -2772,7 +2772,7 @@ Prayer bpn11630 in Español (bpn11630)
 
 -- Báb
 
-Prayer bpn11631 in Español (bpn11631) 
+Prayer bpn11631 (bpn11631) 
 
 [bahaiprayers.net 11631](https://bahaiprayers.net/Book/Single/4/11631)
 
@@ -2785,7 +2785,7 @@ Prayer bpn11631 in Español (bpn11631)
 
 -- Báb
 
-Prayer bpn11632 in Español (bpn11632) 
+Prayer bpn11632 (bpn11632) 
 
 [bahaiprayers.net 11632](https://bahaiprayers.net/Book/Single/4/11632)
 
@@ -2798,7 +2798,7 @@ Prayer bpn11632 in Español (bpn11632)
 
 -- Abdu'l-Bahá
 
-Prayer ABU0030SHE in Español (ABU0030SHE) «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[English](../../en/prayers/#ABU0030SHE)» «[Français](../../fr/prayers/#ABU0030SHE)» 
+Prayer ABU0030SHE (ABU0030SHE) «[Français](../../fr/prayers/#ABU0030SHE)» «[Esperanto](../../eo/prayers/#ABU0030SHE)» «[English](../../en/prayers/#ABU0030SHE)» 
 
 [bahaiprayers.net 11633](https://bahaiprayers.net/Book/Single/4/11633)
 
@@ -2815,7 +2815,7 @@ Prayer ABU0030SHE in Español (ABU0030SHE) «[Esperanto](../../eo/prayers/#ABU00
 
 -- Bahá'u'lláh
 
-Prayer BH10578 in Español (BH10578) «[Esperanto](../../eo/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» 
+Prayer BH10578 (BH10578) «[Esperanto](../../eo/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» «[Italiano](../../it/prayers/#BH10578)» 
 
 [bahaiprayers.net 11634](https://bahaiprayers.net/Book/Single/4/11634)
 
@@ -2828,7 +2828,7 @@ Prayer BH10578 in Español (BH10578) «[Esperanto](../../eo/prayers/#BH10578)» 
 
 -- Bahá'u'lláh
 
-Prayer bpn11635 in Español (bpn11635) 
+Prayer bpn11635 (bpn11635) 
 
 [bahaiprayers.net 11635](https://bahaiprayers.net/Book/Single/4/11635)
 
@@ -2841,7 +2841,7 @@ Prayer bpn11635 in Español (bpn11635)
 
 -- Bahá'u'lláh
 
-Prayer bpn11636 in Español (bpn11636) 
+Prayer bpn11636 (bpn11636) 
 
 [bahaiprayers.net 11636](https://bahaiprayers.net/Book/Single/4/11636)
 
@@ -2854,7 +2854,7 @@ Prayer bpn11636 in Español (bpn11636)
 
 -- Bahá'u'lláh
 
-Prayer bpn11637 in Español (bpn11637) 
+Prayer bpn11637 (bpn11637) 
 
 [bahaiprayers.net 11637](https://bahaiprayers.net/Book/Single/4/11637)
 
@@ -2867,7 +2867,7 @@ Prayer bpn11637 in Español (bpn11637)
 
 -- Bahá'u'lláh
 
-Prayer BH05801 in Español (BH05801) «[English](../../en/prayers/#BH05801)» 
+Prayer BH05801 (BH05801) «[English](../../en/prayers/#BH05801)» 
 
 [bahaiprayers.net 11638](https://bahaiprayers.net/Book/Single/4/11638)
 
@@ -2880,7 +2880,7 @@ Prayer BH05801 in Español (BH05801) «[English](../../en/prayers/#BH05801)»
 
 -- Bahá'u'lláh
 
-Prayer bpn11639 in Español (bpn11639) 
+Prayer bpn11639 (bpn11639) 
 
 [bahaiprayers.net 11639](https://bahaiprayers.net/Book/Single/4/11639)
 
@@ -2893,7 +2893,7 @@ Prayer bpn11639 in Español (bpn11639)
 
 -- Bahá'u'lláh
 
-Prayer bpn11640 in Español (bpn11640) 
+Prayer bpn11640 (bpn11640) 
 
 [bahaiprayers.net 11640](https://bahaiprayers.net/Book/Single/4/11640)
 
@@ -2906,7 +2906,7 @@ Prayer bpn11640 in Español (bpn11640)
 
 -- Báb
 
-Prayer bpn11641 in Español (bpn11641) 
+Prayer bpn11641 (bpn11641) 
 
 [bahaiprayers.net 11641](https://bahaiprayers.net/Book/Single/4/11641)
 
@@ -2919,7 +2919,7 @@ Prayer bpn11641 in Español (bpn11641)
 
 -- Báb
 
-Prayer bpn11642 in Español (bpn11642) 
+Prayer bpn11642 (bpn11642) 
 
 [bahaiprayers.net 11642](https://bahaiprayers.net/Book/Single/4/11642)
 
@@ -2932,7 +2932,7 @@ Prayer bpn11642 in Español (bpn11642)
 
 -- Báb
 
-Prayer bpn11643 in Español (bpn11643) 
+Prayer bpn11643 (bpn11643) 
 
 [bahaiprayers.net 11643](https://bahaiprayers.net/Book/Single/4/11643)
 
@@ -2945,7 +2945,7 @@ Prayer bpn11643 in Español (bpn11643)
 
 -- Abdu'l-Bahá
 
-Shield Thy trusted servants from the evils of self and passion in Español (AB00001SHI) «[Esperanto](../../eo/prayers/#AB00001SHI)» «[English](../../en/prayers/#AB00001SHI)» 
+Shield Thy trusted servants from the evils of self and passion (AB00001SHI) «[Esperanto](../../eo/prayers/#AB00001SHI)» «[English](../../en/prayers/#AB00001SHI)» 
 
 [bahaiprayers.net 11644](https://bahaiprayers.net/Book/Single/4/11644)
 
@@ -2958,7 +2958,7 @@ Shield Thy trusted servants from the evils of self and passion in Español (AB00
 
 -- Abdu'l-Bahá
 
-Prayer bpn11645 in Español (bpn11645) 
+Prayer bpn11645 (bpn11645) 
 
 [bahaiprayers.net 11645](https://bahaiprayers.net/Book/Single/4/11645)
 
@@ -2971,7 +2971,7 @@ Prayer bpn11645 in Español (bpn11645)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11646 in Español (bpn11646) 
+Prayer bpn11646 (bpn11646) 
 
 [bahaiprayers.net 11646](https://bahaiprayers.net/Book/Single/4/11646)
 
@@ -2984,7 +2984,7 @@ Prayer bpn11646 in Español (bpn11646)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11647 in Español (bpn11647) 
+Prayer bpn11647 (bpn11647) 
 
 [bahaiprayers.net 11647](https://bahaiprayers.net/Book/Single/4/11647)
 
@@ -3001,7 +3001,7 @@ Prayer bpn11647 in Español (bpn11647)
 
 -- Bahá'u'lláh
 
-Prayer bpn11648 in Español (bpn11648) 
+Prayer bpn11648 (bpn11648) 
 
 [bahaiprayers.net 11648](https://bahaiprayers.net/Book/Single/4/11648)
 
@@ -3014,7 +3014,7 @@ Prayer bpn11648 in Español (bpn11648)
 
 -- Bahá'u'lláh
 
-Prayer bpn11650 in Español (bpn11650) 
+Prayer bpn11650 (bpn11650) 
 
 [bahaiprayers.net 11650](https://bahaiprayers.net/Book/Single/4/11650)
 
@@ -3027,7 +3027,7 @@ Prayer bpn11650 in Español (bpn11650)
 
 -- Bahá'u'lláh
 
-Prayer bpn11651 in Español (bpn11651) 
+Prayer bpn11651 (bpn11651) 
 
 [bahaiprayers.net 11651](https://bahaiprayers.net/Book/Single/4/11651)
 
@@ -3040,7 +3040,7 @@ Prayer bpn11651 in Español (bpn11651)
 
 -- Bahá'u'lláh
 
-Prayer bpn11652 in Español (bpn11652) 
+Prayer bpn11652 (bpn11652) 
 
 [bahaiprayers.net 11652](https://bahaiprayers.net/Book/Single/4/11652)
 
@@ -3053,7 +3053,7 @@ Prayer bpn11652 in Español (bpn11652)
 
 -- Bahá'u'lláh
 
-Prayer bpn11653 in Español (bpn11653) 
+Prayer bpn11653 (bpn11653) 
 
 [bahaiprayers.net 11653](https://bahaiprayers.net/Book/Single/4/11653)
 
@@ -3066,7 +3066,7 @@ Prayer bpn11653 in Español (bpn11653)
 
 -- Bahá'u'lláh
 
-Prayer bpn11658 in Español (bpn11658) 
+Prayer bpn11658 (bpn11658) 
 
 [bahaiprayers.net 11658](https://bahaiprayers.net/Book/Single/4/11658)
 
@@ -3079,7 +3079,7 @@ Prayer bpn11658 in Español (bpn11658)
 
 -- Bahá'u'lláh
 
-Prayer BH02524 in Español (BH02524) «[English](../../en/prayers/#BH02524)» «[Português (BR)](../../pt/prayers/#BH02524)» 
+Prayer BH02524 (BH02524) «[Português (BR)](../../pt/prayers/#BH02524)» «[English](../../en/prayers/#BH02524)» 
 
 [bahaiprayers.net 11649](https://bahaiprayers.net/Book/Single/4/11649)
 
@@ -3092,7 +3092,7 @@ Prayer BH02524 in Español (BH02524) «[English](../../en/prayers/#BH02524)» «
 
 -- Báb
 
-Prayer bpn11654 in Español (bpn11654) 
+Prayer bpn11654 (bpn11654) 
 
 [bahaiprayers.net 11654](https://bahaiprayers.net/Book/Single/4/11654)
 
@@ -3105,7 +3105,7 @@ Prayer bpn11654 in Español (bpn11654)
 
 -- Báb
 
-Prayer bpn11655 in Español (bpn11655) 
+Prayer bpn11655 (bpn11655) 
 
 [bahaiprayers.net 11655](https://bahaiprayers.net/Book/Single/4/11655)
 
@@ -3118,7 +3118,7 @@ Prayer bpn11655 in Español (bpn11655)
 
 -- Báb
 
-Prayer bpn11657 in Español (bpn11657) 
+Prayer bpn11657 (bpn11657) 
 
 [bahaiprayers.net 11657](https://bahaiprayers.net/Book/Single/4/11657)
 
@@ -3131,7 +3131,7 @@ Prayer bpn11657 in Español (bpn11657)
 
 -- Báb
 
-Prayer bpn11656 in Español (bpn11656) 
+Prayer bpn11656 (bpn11656) 
 
 [bahaiprayers.net 11656](https://bahaiprayers.net/Book/Single/4/11656)
 
@@ -3148,7 +3148,7 @@ Prayer bpn11656 in Español (bpn11656)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11659 in Español (bpn11659) 
+Prayer bpn11659 (bpn11659) 
 
 [bahaiprayers.net 11659](https://bahaiprayers.net/Book/Single/4/11659)
 
@@ -3161,7 +3161,7 @@ Prayer bpn11659 in Español (bpn11659)
 
 -- Abdu'l-Bahá
 
-Prayer ABU0070GAT in Español (ABU0070GAT) «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[Slovensky](../../sk/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» 
+Prayer ABU0070GAT (ABU0070GAT) «[Slovensky](../../sk/prayers/#ABU0070GAT)» «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» 
 
 [bahaiprayers.net 11660](https://bahaiprayers.net/Book/Single/4/11660)
 
@@ -3174,7 +3174,7 @@ Prayer ABU0070GAT in Español (ABU0070GAT) «[Esperanto](../../eo/prayers/#ABU00
 
 -- Abdu'l-Bahá
 
-Prayer bpn11661 in Español (bpn11661) 
+Prayer bpn11661 (bpn11661) 
 
 [bahaiprayers.net 11661](https://bahaiprayers.net/Book/Single/4/11661)
 
@@ -3187,7 +3187,7 @@ Prayer bpn11661 in Español (bpn11661)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11662 in Español (bpn11662) 
+Prayer bpn11662 (bpn11662) 
 
 [bahaiprayers.net 11662](https://bahaiprayers.net/Book/Single/4/11662)
 
@@ -3200,7 +3200,7 @@ Prayer bpn11662 in Español (bpn11662)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11663 in Español (bpn11663) 
+Prayer bpn11663 (bpn11663) 
 
 [bahaiprayers.net 11663](https://bahaiprayers.net/Book/Single/4/11663)
 
@@ -3213,7 +3213,7 @@ Prayer bpn11663 in Español (bpn11663)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11664 in Español (bpn11664) 
+Prayer bpn11664 (bpn11664) 
 
 [bahaiprayers.net 11664](https://bahaiprayers.net/Book/Single/4/11664)
 
@@ -3230,7 +3230,7 @@ Prayer bpn11664 in Español (bpn11664)
 
 -- Bahá'u'lláh
 
-Prayer bpn11694 in Español (bpn11694) 
+Prayer bpn11694 (bpn11694) 
 
 [bahaiprayers.net 11694](https://bahaiprayers.net/Book/Single/4/11694)
 
@@ -3247,7 +3247,7 @@ Prayer bpn11694 in Español (bpn11694)
 
 -- Bahá'u'lláh
 
-Prayer bpn11697 in Español (bpn11697) 
+Prayer bpn11697 (bpn11697) 
 
 [bahaiprayers.net 11697](https://bahaiprayers.net/Book/Single/4/11697)
 
@@ -3260,7 +3260,7 @@ Prayer bpn11697 in Español (bpn11697)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11698 in Español (bpn11698) 
+Prayer bpn11698 (bpn11698) 
 
 [bahaiprayers.net 11698](https://bahaiprayers.net/Book/Single/4/11698)
 
@@ -3277,7 +3277,7 @@ Prayer bpn11698 in Español (bpn11698)
 
 -- Bahá'u'lláh
 
-Prayer bpn11695 in Español (bpn11695) 
+Prayer bpn11695 (bpn11695) 
 
 [bahaiprayers.net 11695](https://bahaiprayers.net/Book/Single/4/11695)
 
@@ -3294,7 +3294,7 @@ Prayer bpn11695 in Español (bpn11695)
 
 -- Bahá'u'lláh
 
-Prayer bpn11696 in Español (bpn11696) 
+Prayer bpn11696 (bpn11696) 
 
 [bahaiprayers.net 11696](https://bahaiprayers.net/Book/Single/4/11696)
 
@@ -3311,7 +3311,7 @@ Prayer bpn11696 in Español (bpn11696)
 
 -- Bahá'u'lláh
 
-Prayer bpn11665 in Español (bpn11665) 
+Prayer bpn11665 (bpn11665) 
 
 [bahaiprayers.net 11665](https://bahaiprayers.net/Book/Single/4/11665)
 
@@ -3324,7 +3324,7 @@ Prayer bpn11665 in Español (bpn11665)
 
 -- Bahá'u'lláh
 
-Prayer BH11278RIV in Español (BH11278RIV) «[English](../../en/prayers/#BH11278RIV)» 
+Prayer BH11278RIV (BH11278RIV) «[English](../../en/prayers/#BH11278RIV)» 
 
 [bahaiprayers.net 11666](https://bahaiprayers.net/Book/Single/4/11666)
 
@@ -3337,7 +3337,7 @@ Prayer BH11278RIV in Español (BH11278RIV) «[English](../../en/prayers/#BH11278
 
 -- Bahá'u'lláh
 
-Prayer bpn11667 in Español (bpn11667) 
+Prayer bpn11667 (bpn11667) 
 
 [bahaiprayers.net 11667](https://bahaiprayers.net/Book/Single/4/11667)
 
@@ -3350,7 +3350,7 @@ Prayer bpn11667 in Español (bpn11667)
 
 -- Báb
 
-Prayer BB00543VIC in Español (BB00543VIC) «[Nederlands](../../nl/prayers/#BB00543VIC)» «[English](../../en/prayers/#BB00543VIC)» 
+Prayer BB00543VIC (BB00543VIC) «[English](../../en/prayers/#BB00543VIC)» «[Nederlands](../../nl/prayers/#BB00543VIC)» 
 
 [bahaiprayers.net 11668](https://bahaiprayers.net/Book/Single/4/11668)
 
@@ -3363,7 +3363,7 @@ Prayer BB00543VIC in Español (BB00543VIC) «[Nederlands](../../nl/prayers/#BB00
 
 -- Báb
 
-Prayer bpn11669 in Español (bpn11669) 
+Prayer bpn11669 (bpn11669) 
 
 [bahaiprayers.net 11669](https://bahaiprayers.net/Book/Single/4/11669)
 
@@ -3376,7 +3376,7 @@ Prayer bpn11669 in Español (bpn11669)
 
 -- Báb
 
-Prayer bpn11670 in Español (bpn11670) 
+Prayer bpn11670 (bpn11670) 
 
 [bahaiprayers.net 11670](https://bahaiprayers.net/Book/Single/4/11670)
 
@@ -3389,7 +3389,7 @@ Prayer bpn11670 in Español (bpn11670)
 
 -- Báb
 
-Prayer BB00004REN in Español (BB00004REN) «[Esperanto](../../eo/prayers/#BB00004REN)» «[English](../../en/prayers/#BB00004REN)» 
+Prayer BB00004REN (BB00004REN) «[Esperanto](../../eo/prayers/#BB00004REN)» «[English](../../en/prayers/#BB00004REN)» 
 
 [bahaiprayers.net 11671](https://bahaiprayers.net/Book/Single/4/11671)
 
@@ -3402,7 +3402,7 @@ Prayer BB00004REN in Español (BB00004REN) «[Esperanto](../../eo/prayers/#BB000
 
 -- Abdu'l-Bahá
 
-Prayer bpn11672 in Español (bpn11672) 
+Prayer bpn11672 (bpn11672) 
 
 [bahaiprayers.net 11672](https://bahaiprayers.net/Book/Single/4/11672)
 
@@ -3415,7 +3415,7 @@ Prayer bpn11672 in Español (bpn11672)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11673 in Español (bpn11673) 
+Prayer bpn11673 (bpn11673) 
 
 [bahaiprayers.net 11673](https://bahaiprayers.net/Book/Single/4/11673)
 
@@ -3432,7 +3432,7 @@ Prayer bpn11673 in Español (bpn11673)
 
 -- Bahá'u'lláh
 
-Prayer bpn11674 in Español (bpn11674) 
+Prayer bpn11674 (bpn11674) 
 
 [bahaiprayers.net 11674](https://bahaiprayers.net/Book/Single/4/11674)
 
@@ -3449,7 +3449,7 @@ Prayer bpn11674 in Español (bpn11674)
 
 -- Bahá'u'lláh
 
-Prayer bpn11690 in Español (bpn11690) 
+Prayer bpn11690 (bpn11690) 
 
 [bahaiprayers.net 11690](https://bahaiprayers.net/Book/Single/4/11690)
 
@@ -3462,7 +3462,7 @@ Prayer bpn11690 in Español (bpn11690)
 
 -- Bahá'u'lláh
 
-Prayer bpn11691 in Español (bpn11691) 
+Prayer bpn11691 (bpn11691) 
 
 [bahaiprayers.net 11691](https://bahaiprayers.net/Book/Single/4/11691)
 

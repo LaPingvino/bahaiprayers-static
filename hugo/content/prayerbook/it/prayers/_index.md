@@ -88,7 +88,7 @@ tags = ['lang=it', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn7784 in Italiano (bpn7784) 
+Prayer bpn7784 (bpn7784) 
 
 [bahaiprayers.net 7784](https://bahaiprayers.net/Book/Single/10/7784)
 
@@ -105,7 +105,7 @@ Prayer bpn7784 in Italiano (bpn7784)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7785 in Italiano (bpn7785) 
+Prayer bpn7785 (bpn7785) 
 
 [bahaiprayers.net 7785](https://bahaiprayers.net/Book/Single/10/7785)
 
@@ -118,7 +118,7 @@ Prayer bpn7785 in Italiano (bpn7785)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7786 in Italiano (bpn7786) 
+Prayer bpn7786 (bpn7786) 
 
 [bahaiprayers.net 7786](https://bahaiprayers.net/Book/Single/10/7786)
 
@@ -131,7 +131,7 @@ Prayer bpn7786 in Italiano (bpn7786)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7787 in Italiano (bpn7787) 
+Prayer bpn7787 (bpn7787) 
 
 [bahaiprayers.net 7787](https://bahaiprayers.net/Book/Single/10/7787)
 
@@ -148,7 +148,7 @@ Prayer bpn7787 in Italiano (bpn7787)
 
 -- Bahá'u'lláh
 
-Prayer bpn7788 in Italiano (bpn7788) 
+Prayer bpn7788 (bpn7788) 
 
 [bahaiprayers.net 7788](https://bahaiprayers.net/Book/Single/10/7788)
 
@@ -161,7 +161,7 @@ Prayer bpn7788 in Italiano (bpn7788)
 
 -- Bahá'u'lláh
 
-Prayer bpn7789 in Italiano (bpn7789) 
+Prayer bpn7789 (bpn7789) 
 
 [bahaiprayers.net 7789](https://bahaiprayers.net/Book/Single/10/7789)
 
@@ -174,7 +174,7 @@ Prayer bpn7789 in Italiano (bpn7789)
 
 -- Báb
 
-Prayer bpn7790 in Italiano (bpn7790) 
+Prayer bpn7790 (bpn7790) 
 
 [bahaiprayers.net 7790](https://bahaiprayers.net/Book/Single/10/7790)
 
@@ -187,7 +187,7 @@ Prayer bpn7790 in Italiano (bpn7790)
 
 -- Báb
 
-Prayer bpn7791 in Italiano (bpn7791) 
+Prayer bpn7791 (bpn7791) 
 
 [bahaiprayers.net 7791](https://bahaiprayers.net/Book/Single/10/7791)
 
@@ -200,7 +200,7 @@ Prayer bpn7791 in Italiano (bpn7791)
 
 -- Báb
 
-Prayer bpn7792 in Italiano (bpn7792) 
+Prayer bpn7792 (bpn7792) 
 
 [bahaiprayers.net 7792](https://bahaiprayers.net/Book/Single/10/7792)
 
@@ -213,7 +213,7 @@ Prayer bpn7792 in Italiano (bpn7792)
 
 -- Báb
 
-Unto Thee I repair for refuge in Italiano (BB00522) «[English](../../en/prayers/#BB00522)» «[Español](../../es/prayers/#BB00522)» 
+Unto Thee I repair for refuge (BB00522) «[Español](../../es/prayers/#BB00522)» «[English](../../en/prayers/#BB00522)» 
 
 [bahaiprayers.net 7793](https://bahaiprayers.net/Book/Single/10/7793)
 
@@ -226,7 +226,7 @@ Unto Thee I repair for refuge in Italiano (BB00522) «[English](../../en/prayers
 
 -- Abdu'l-Bahá
 
-Prayer bpn7794 in Italiano (bpn7794) 
+Prayer bpn7794 (bpn7794) 
 
 [bahaiprayers.net 7794](https://bahaiprayers.net/Book/Single/10/7794)
 
@@ -239,7 +239,7 @@ Prayer bpn7794 in Italiano (bpn7794)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7795 in Italiano (bpn7795) 
+Prayer bpn7795 (bpn7795) 
 
 [bahaiprayers.net 7795](https://bahaiprayers.net/Book/Single/10/7795)
 
@@ -252,7 +252,7 @@ Prayer bpn7795 in Italiano (bpn7795)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7796 in Italiano (bpn7796) 
+Prayer bpn7796 (bpn7796) 
 
 [bahaiprayers.net 7796](https://bahaiprayers.net/Book/Single/10/7796)
 
@@ -265,7 +265,7 @@ Prayer bpn7796 in Italiano (bpn7796)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7797 in Italiano (bpn7797) 
+Prayer bpn7797 (bpn7797) 
 
 [bahaiprayers.net 7797](https://bahaiprayers.net/Book/Single/10/7797)
 
@@ -278,7 +278,7 @@ Prayer bpn7797 in Italiano (bpn7797)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11765 in Italiano (bpn11765) 
+Prayer bpn11765 (bpn11765) 
 
 [bahaiprayers.net 11765](https://bahaiprayers.net/Book/Single/10/11765)
 
@@ -295,7 +295,7 @@ Prayer bpn11765 in Italiano (bpn11765)
 
 -- Bahá'u'lláh
 
-Prayer bpn7798 in Italiano (bpn7798) 
+Prayer bpn7798 (bpn7798) 
 
 [bahaiprayers.net 7798](https://bahaiprayers.net/Book/Single/10/7798)
 
@@ -308,7 +308,7 @@ Prayer bpn7798 in Italiano (bpn7798)
 
 -- Bahá'u'lláh
 
-Prayer bpn7799 in Italiano (bpn7799) 
+Prayer bpn7799 (bpn7799) 
 
 [bahaiprayers.net 7799](https://bahaiprayers.net/Book/Single/10/7799)
 
@@ -321,7 +321,7 @@ Prayer bpn7799 in Italiano (bpn7799)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7800 in Italiano (bpn7800) 
+Prayer bpn7800 (bpn7800) 
 
 [bahaiprayers.net 7800](https://bahaiprayers.net/Book/Single/10/7800)
 
@@ -334,7 +334,7 @@ Prayer bpn7800 in Italiano (bpn7800)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7801 in Italiano (bpn7801) 
+Prayer bpn7801 (bpn7801) 
 
 [bahaiprayers.net 7801](https://bahaiprayers.net/Book/Single/10/7801)
 
@@ -347,7 +347,7 @@ Prayer bpn7801 in Italiano (bpn7801)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7802 in Italiano (bpn7802) 
+Prayer bpn7802 (bpn7802) 
 
 [bahaiprayers.net 7802](https://bahaiprayers.net/Book/Single/10/7802)
 
@@ -360,7 +360,7 @@ Prayer bpn7802 in Italiano (bpn7802)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7803 in Italiano (bpn7803) 
+Prayer bpn7803 (bpn7803) 
 
 [bahaiprayers.net 7803](https://bahaiprayers.net/Book/Single/10/7803)
 
@@ -373,7 +373,7 @@ Prayer bpn7803 in Italiano (bpn7803)
 
 -- Abdu'l-Bahá
 
-Prayer AB04004BAB in Italiano (AB04004BAB) «[Esperanto](../../eo/prayers/#AB04004BAB)» «[English](../../en/prayers/#AB04004BAB)» 
+Prayer AB04004BAB (AB04004BAB) «[Esperanto](../../eo/prayers/#AB04004BAB)» «[English](../../en/prayers/#AB04004BAB)» 
 
 [bahaiprayers.net 7804](https://bahaiprayers.net/Book/Single/10/7804)
 
@@ -386,7 +386,7 @@ Prayer AB04004BAB in Italiano (AB04004BAB) «[Esperanto](../../eo/prayers/#AB040
 
 -- Abdu'l-Bahá
 
-Prayer bpn7806 in Italiano (bpn7806) 
+Prayer bpn7806 (bpn7806) 
 
 [bahaiprayers.net 7806](https://bahaiprayers.net/Book/Single/10/7806)
 
@@ -399,7 +399,7 @@ Prayer bpn7806 in Italiano (bpn7806)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7807 in Italiano (bpn7807) 
+Prayer bpn7807 (bpn7807) 
 
 [bahaiprayers.net 7807](https://bahaiprayers.net/Book/Single/10/7807)
 
@@ -412,7 +412,7 @@ Prayer bpn7807 in Italiano (bpn7807)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7805 in Italiano (bpn7805) 
+Prayer bpn7805 (bpn7805) 
 
 [bahaiprayers.net 7805](https://bahaiprayers.net/Book/Single/10/7805)
 
@@ -429,7 +429,7 @@ Prayer bpn7805 in Italiano (bpn7805)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7836 in Italiano (bpn7836) 
+Prayer bpn7836 (bpn7836) 
 
 [bahaiprayers.net 7836](https://bahaiprayers.net/Book/Single/10/7836)
 
@@ -442,7 +442,7 @@ Prayer bpn7836 in Italiano (bpn7836)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7837 in Italiano (bpn7837) 
+Prayer bpn7837 (bpn7837) 
 
 [bahaiprayers.net 7837](https://bahaiprayers.net/Book/Single/10/7837)
 
@@ -455,7 +455,7 @@ Prayer bpn7837 in Italiano (bpn7837)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7838 in Italiano (bpn7838) 
+Prayer bpn7838 (bpn7838) 
 
 [bahaiprayers.net 7838](https://bahaiprayers.net/Book/Single/10/7838)
 
@@ -468,7 +468,7 @@ Prayer bpn7838 in Italiano (bpn7838)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7839 in Italiano (bpn7839) 
+Prayer bpn7839 (bpn7839) 
 
 [bahaiprayers.net 7839](https://bahaiprayers.net/Book/Single/10/7839)
 
@@ -481,7 +481,7 @@ Prayer bpn7839 in Italiano (bpn7839)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7840 in Italiano (bpn7840) 
+Prayer bpn7840 (bpn7840) 
 
 [bahaiprayers.net 7840](https://bahaiprayers.net/Book/Single/10/7840)
 
@@ -494,7 +494,7 @@ Prayer bpn7840 in Italiano (bpn7840)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7841 in Italiano (bpn7841) 
+Prayer bpn7841 (bpn7841) 
 
 [bahaiprayers.net 7841](https://bahaiprayers.net/Book/Single/10/7841)
 
@@ -507,7 +507,7 @@ Prayer bpn7841 in Italiano (bpn7841)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7842 in Italiano (bpn7842) 
+Prayer bpn7842 (bpn7842) 
 
 [bahaiprayers.net 7842](https://bahaiprayers.net/Book/Single/10/7842)
 
@@ -520,7 +520,7 @@ Prayer bpn7842 in Italiano (bpn7842)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7843 in Italiano (bpn7843) 
+Prayer bpn7843 (bpn7843) 
 
 [bahaiprayers.net 7843](https://bahaiprayers.net/Book/Single/10/7843)
 
@@ -537,7 +537,7 @@ Prayer bpn7843 in Italiano (bpn7843)
 
 -- Bahá'u'lláh
 
-Prayer bpn7808 in Italiano (bpn7808) 
+Prayer bpn7808 (bpn7808) 
 
 [bahaiprayers.net 7808](https://bahaiprayers.net/Book/Single/10/7808)
 
@@ -550,7 +550,7 @@ Prayer bpn7808 in Italiano (bpn7808)
 
 -- Bahá'u'lláh
 
-Prayer BH08308 in Italiano (BH08308) «[English](../../en/prayers/#BH08308)» 
+Prayer BH08308 (BH08308) «[English](../../en/prayers/#BH08308)» 
 
 [bahaiprayers.net 7809](https://bahaiprayers.net/Book/Single/10/7809)
 
@@ -563,7 +563,7 @@ Prayer BH08308 in Italiano (BH08308) «[English](../../en/prayers/#BH08308)»
 
 -- Bahá'u'lláh
 
-Prayer BH03109KIN in Italiano (BH03109KIN) «[English](../../en/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
+Prayer BH03109KIN (BH03109KIN) «[Français](../../fr/prayers/#BH03109KIN)» «[English](../../en/prayers/#BH03109KIN)» 
 
 [bahaiprayers.net 7810](https://bahaiprayers.net/Book/Single/10/7810)
 
@@ -576,7 +576,7 @@ Prayer BH03109KIN in Italiano (BH03109KIN) «[English](../../en/prayers/#BH03109
 
 -- Abdu'l-Bahá
 
-Prayer bpn7811 in Italiano (bpn7811) 
+Prayer bpn7811 (bpn7811) 
 
 [bahaiprayers.net 7811](https://bahaiprayers.net/Book/Single/10/7811)
 
@@ -589,7 +589,7 @@ Prayer bpn7811 in Italiano (bpn7811)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7812 in Italiano (bpn7812) 
+Prayer bpn7812 (bpn7812) 
 
 [bahaiprayers.net 7812](https://bahaiprayers.net/Book/Single/10/7812)
 
@@ -606,7 +606,7 @@ Prayer bpn7812 in Italiano (bpn7812)
 
 -- Bahá'u'lláh
 
-Prayer BH01125 in Italiano (BH01125) «[Nederlands](../../nl/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» 
+Prayer BH01125 (BH01125) «[Español](../../es/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» 
 
 [bahaiprayers.net 7931](https://bahaiprayers.net/Book/Single/10/7931)
 
@@ -619,7 +619,7 @@ Prayer BH01125 in Italiano (BH01125) «[Nederlands](../../nl/prayers/#BH01125)»
 
 -- Bahá'u'lláh
 
-Prayer bpn7932 in Italiano (bpn7932) 
+Prayer bpn7932 (bpn7932) 
 
 [bahaiprayers.net 7932](https://bahaiprayers.net/Book/Single/10/7932)
 
@@ -632,7 +632,7 @@ Prayer bpn7932 in Italiano (bpn7932)
 
 -- Bahá'u'lláh
 
-Prayer bpn7933 in Italiano (bpn7933) 
+Prayer bpn7933 (bpn7933) 
 
 [bahaiprayers.net 7933](https://bahaiprayers.net/Book/Single/10/7933)
 
@@ -645,7 +645,7 @@ Prayer bpn7933 in Italiano (bpn7933)
 
 -- Bahá'u'lláh
 
-Prayer bpn7934 in Italiano (bpn7934) 
+Prayer bpn7934 (bpn7934) 
 
 [bahaiprayers.net 7934](https://bahaiprayers.net/Book/Single/10/7934)
 
@@ -662,7 +662,7 @@ Prayer bpn7934 in Italiano (bpn7934)
 
 -- Bahá'u'lláh
 
-Prayer bpn7813 in Italiano (bpn7813) 
+Prayer bpn7813 (bpn7813) 
 
 [bahaiprayers.net 7813](https://bahaiprayers.net/Book/Single/10/7813)
 
@@ -675,7 +675,7 @@ Prayer bpn7813 in Italiano (bpn7813)
 
 -- Bahá'u'lláh
 
-Prayer bpn7814 in Italiano (bpn7814) 
+Prayer bpn7814 (bpn7814) 
 
 [bahaiprayers.net 7814](https://bahaiprayers.net/Book/Single/10/7814)
 
@@ -688,7 +688,7 @@ Prayer bpn7814 in Italiano (bpn7814)
 
 -- Bahá'u'lláh
 
-Prayer bpn7815 in Italiano (bpn7815) 
+Prayer bpn7815 (bpn7815) 
 
 [bahaiprayers.net 7815](https://bahaiprayers.net/Book/Single/10/7815)
 
@@ -701,7 +701,7 @@ Prayer bpn7815 in Italiano (bpn7815)
 
 -- Bahá'u'lláh
 
-Prayer bpn7816 in Italiano (bpn7816) 
+Prayer bpn7816 (bpn7816) 
 
 [bahaiprayers.net 7816](https://bahaiprayers.net/Book/Single/10/7816)
 
@@ -714,7 +714,7 @@ Prayer bpn7816 in Italiano (bpn7816)
 
 -- Bahá'u'lláh
 
-Prayer BH05894 in Italiano (BH05894) «[Nederlands](../../nl/prayers/#BH05894)» «[English](../../en/prayers/#BH05894)» 
+Prayer BH05894 (BH05894) «[English](../../en/prayers/#BH05894)» «[Nederlands](../../nl/prayers/#BH05894)» 
 
 [bahaiprayers.net 7817](https://bahaiprayers.net/Book/Single/10/7817)
 
@@ -727,7 +727,7 @@ Prayer BH05894 in Italiano (BH05894) «[Nederlands](../../nl/prayers/#BH05894)»
 
 -- Bahá'u'lláh
 
-Prayer bpn7818 in Italiano (bpn7818) 
+Prayer bpn7818 (bpn7818) 
 
 [bahaiprayers.net 7818](https://bahaiprayers.net/Book/Single/10/7818)
 
@@ -740,7 +740,7 @@ Prayer bpn7818 in Italiano (bpn7818)
 
 -- Báb
 
-Prayer bpn7819 in Italiano (bpn7819) 
+Prayer bpn7819 (bpn7819) 
 
 [bahaiprayers.net 7819](https://bahaiprayers.net/Book/Single/10/7819)
 
@@ -753,7 +753,7 @@ Prayer bpn7819 in Italiano (bpn7819)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7820 in Italiano (bpn7820) 
+Prayer bpn7820 (bpn7820) 
 
 [bahaiprayers.net 7820](https://bahaiprayers.net/Book/Single/10/7820)
 
@@ -770,7 +770,7 @@ Prayer bpn7820 in Italiano (bpn7820)
 
 -- Bahá'u'lláh
 
-Prayer bpn7821 in Italiano (bpn7821) 
+Prayer bpn7821 (bpn7821) 
 
 [bahaiprayers.net 7821](https://bahaiprayers.net/Book/Single/10/7821)
 
@@ -783,7 +783,7 @@ Prayer bpn7821 in Italiano (bpn7821)
 
 -- Bahá'u'lláh
 
-Prayer bpn7822 in Italiano (bpn7822) 
+Prayer bpn7822 (bpn7822) 
 
 [bahaiprayers.net 7822](https://bahaiprayers.net/Book/Single/10/7822)
 
@@ -800,7 +800,7 @@ Prayer bpn7822 in Italiano (bpn7822)
 
 -- Báb
 
-Prayer bpn7823 in Italiano (bpn7823) 
+Prayer bpn7823 (bpn7823) 
 
 [bahaiprayers.net 7823](https://bahaiprayers.net/Book/Single/10/7823)
 
@@ -813,7 +813,7 @@ Prayer bpn7823 in Italiano (bpn7823)
 
 -- Báb
 
-Prayer bpn7824 in Italiano (bpn7824) 
+Prayer bpn7824 (bpn7824) 
 
 [bahaiprayers.net 7824](https://bahaiprayers.net/Book/Single/10/7824)
 
@@ -830,7 +830,7 @@ Prayer bpn7824 in Italiano (bpn7824)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7825 in Italiano (bpn7825) 
+Prayer bpn7825 (bpn7825) 
 
 [bahaiprayers.net 7825](https://bahaiprayers.net/Book/Single/10/7825)
 
@@ -847,7 +847,7 @@ Prayer bpn7825 in Italiano (bpn7825)
 
 -- Bahá'u'lláh
 
-Prayer bpn7826 in Italiano (bpn7826) 
+Prayer bpn7826 (bpn7826) 
 
 [bahaiprayers.net 7826](https://bahaiprayers.net/Book/Single/10/7826)
 
@@ -864,7 +864,7 @@ Prayer bpn7826 in Italiano (bpn7826)
 
 -- Bahá'u'lláh
 
-Prayer bpn7930 in Italiano (bpn7930) 
+Prayer bpn7930 (bpn7930) 
 
 [bahaiprayers.net 7930](https://bahaiprayers.net/Book/Single/10/7930)
 
@@ -881,7 +881,7 @@ Prayer bpn7930 in Italiano (bpn7930)
 
 -- Bahá'u'lláh
 
-Prayer bpn7827 in Italiano (bpn7827) 
+Prayer bpn7827 (bpn7827) 
 
 [bahaiprayers.net 7827](https://bahaiprayers.net/Book/Single/10/7827)
 
@@ -894,7 +894,7 @@ Prayer bpn7827 in Italiano (bpn7827)
 
 -- Bahá'u'lláh
 
-Prayer bpn7828 in Italiano (bpn7828) 
+Prayer bpn7828 (bpn7828) 
 
 [bahaiprayers.net 7828](https://bahaiprayers.net/Book/Single/10/7828)
 
@@ -907,7 +907,7 @@ Prayer bpn7828 in Italiano (bpn7828)
 
 -- Bahá'u'lláh
 
-Prayer bpn7829 in Italiano (bpn7829) 
+Prayer bpn7829 (bpn7829) 
 
 [bahaiprayers.net 7829](https://bahaiprayers.net/Book/Single/10/7829)
 
@@ -920,7 +920,7 @@ Prayer bpn7829 in Italiano (bpn7829)
 
 -- Bahá'u'lláh
 
-Prayer bpn7830 in Italiano (bpn7830) 
+Prayer bpn7830 (bpn7830) 
 
 [bahaiprayers.net 7830](https://bahaiprayers.net/Book/Single/10/7830)
 
@@ -933,7 +933,7 @@ Prayer bpn7830 in Italiano (bpn7830)
 
 -- Bahá'u'lláh
 
-Prayer bpn7831 in Italiano (bpn7831) 
+Prayer bpn7831 (bpn7831) 
 
 [bahaiprayers.net 7831](https://bahaiprayers.net/Book/Single/10/7831)
 
@@ -950,7 +950,7 @@ Prayer bpn7831 in Italiano (bpn7831)
 
 -- Bahá'u'lláh
 
-Prayer bpn7832 in Italiano (bpn7832) 
+Prayer bpn7832 (bpn7832) 
 
 [bahaiprayers.net 7832](https://bahaiprayers.net/Book/Single/10/7832)
 
@@ -963,7 +963,7 @@ Prayer bpn7832 in Italiano (bpn7832)
 
 -- Bahá'u'lláh
 
-Prayer bpn7833 in Italiano (bpn7833) 
+Prayer bpn7833 (bpn7833) 
 
 [bahaiprayers.net 7833](https://bahaiprayers.net/Book/Single/10/7833)
 
@@ -976,7 +976,7 @@ Prayer bpn7833 in Italiano (bpn7833)
 
 -- Bahá'u'lláh
 
-Prayer bpn7834 in Italiano (bpn7834) 
+Prayer bpn7834 (bpn7834) 
 
 [bahaiprayers.net 7834](https://bahaiprayers.net/Book/Single/10/7834)
 
@@ -989,7 +989,7 @@ Prayer bpn7834 in Italiano (bpn7834)
 
 -- Báb
 
-Prayer bpn7835 in Italiano (bpn7835) 
+Prayer bpn7835 (bpn7835) 
 
 [bahaiprayers.net 7835](https://bahaiprayers.net/Book/Single/10/7835)
 
@@ -1006,7 +1006,7 @@ Prayer bpn7835 in Italiano (bpn7835)
 
 -- Bahá'u'lláh
 
-Prayer bpn7844 in Italiano (bpn7844) 
+Prayer bpn7844 (bpn7844) 
 
 [bahaiprayers.net 7844](https://bahaiprayers.net/Book/Single/10/7844)
 
@@ -1019,7 +1019,7 @@ Prayer bpn7844 in Italiano (bpn7844)
 
 -- Bahá'u'lláh
 
-Prayer bpn7845 in Italiano (bpn7845) 
+Prayer bpn7845 (bpn7845) 
 
 [bahaiprayers.net 7845](https://bahaiprayers.net/Book/Single/10/7845)
 
@@ -1032,7 +1032,7 @@ Prayer bpn7845 in Italiano (bpn7845)
 
 -- Bahá'u'lláh
 
-Prayer bpn7846 in Italiano (bpn7846) 
+Prayer bpn7846 (bpn7846) 
 
 [bahaiprayers.net 7846](https://bahaiprayers.net/Book/Single/10/7846)
 
@@ -1045,7 +1045,7 @@ Prayer bpn7846 in Italiano (bpn7846)
 
 -- Bahá'u'lláh
 
-Prayer bpn7847 in Italiano (bpn7847) 
+Prayer bpn7847 (bpn7847) 
 
 [bahaiprayers.net 7847](https://bahaiprayers.net/Book/Single/10/7847)
 
@@ -1058,7 +1058,7 @@ Prayer bpn7847 in Italiano (bpn7847)
 
 -- Báb
 
-Prayer bpn7848 in Italiano (bpn7848) 
+Prayer bpn7848 (bpn7848) 
 
 [bahaiprayers.net 7848](https://bahaiprayers.net/Book/Single/10/7848)
 
@@ -1071,7 +1071,7 @@ Prayer bpn7848 in Italiano (bpn7848)
 
 -- Báb
 
-Prayer bpn7849 in Italiano (bpn7849) 
+Prayer bpn7849 (bpn7849) 
 
 [bahaiprayers.net 7849](https://bahaiprayers.net/Book/Single/10/7849)
 
@@ -1088,7 +1088,7 @@ Prayer bpn7849 in Italiano (bpn7849)
 
 -- Bahá'u'lláh
 
-Prayer bpn7850 in Italiano (bpn7850) 
+Prayer bpn7850 (bpn7850) 
 
 [bahaiprayers.net 7850](https://bahaiprayers.net/Book/Single/10/7850)
 
@@ -1101,7 +1101,7 @@ Prayer bpn7850 in Italiano (bpn7850)
 
 -- Bahá'u'lláh
 
-Prayer bpn7851 in Italiano (bpn7851) 
+Prayer bpn7851 (bpn7851) 
 
 [bahaiprayers.net 7851](https://bahaiprayers.net/Book/Single/10/7851)
 
@@ -1114,7 +1114,7 @@ Prayer bpn7851 in Italiano (bpn7851)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7852 in Italiano (bpn7852) 
+Prayer bpn7852 (bpn7852) 
 
 [bahaiprayers.net 7852](https://bahaiprayers.net/Book/Single/10/7852)
 
@@ -1131,7 +1131,7 @@ Prayer bpn7852 in Italiano (bpn7852)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7854 in Italiano (bpn7854) 
+Prayer bpn7854 (bpn7854) 
 
 [bahaiprayers.net 7854](https://bahaiprayers.net/Book/Single/10/7854)
 
@@ -1148,7 +1148,7 @@ Prayer bpn7854 in Italiano (bpn7854)
 
 -- Bahá'u'lláh
 
-Prayer bpn7855 in Italiano (bpn7855) 
+Prayer bpn7855 (bpn7855) 
 
 [bahaiprayers.net 7855](https://bahaiprayers.net/Book/Single/10/7855)
 
@@ -1161,7 +1161,7 @@ Prayer bpn7855 in Italiano (bpn7855)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7856 in Italiano (bpn7856) 
+Prayer bpn7856 (bpn7856) 
 
 [bahaiprayers.net 7856](https://bahaiprayers.net/Book/Single/10/7856)
 
@@ -1174,7 +1174,7 @@ Prayer bpn7856 in Italiano (bpn7856)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7857 in Italiano (bpn7857) 
+Prayer bpn7857 (bpn7857) 
 
 [bahaiprayers.net 7857](https://bahaiprayers.net/Book/Single/10/7857)
 
@@ -1191,7 +1191,7 @@ Prayer bpn7857 in Italiano (bpn7857)
 
 -- Bahá'u'lláh
 
-Prayer bpn7858 in Italiano (bpn7858) 
+Prayer bpn7858 (bpn7858) 
 
 [bahaiprayers.net 7858](https://bahaiprayers.net/Book/Single/10/7858)
 
@@ -1204,7 +1204,7 @@ Prayer bpn7858 in Italiano (bpn7858)
 
 -- Bahá'u'lláh
 
-Prayer bpn7859 in Italiano (bpn7859) 
+Prayer bpn7859 (bpn7859) 
 
 [bahaiprayers.net 7859](https://bahaiprayers.net/Book/Single/10/7859)
 
@@ -1217,7 +1217,7 @@ Prayer bpn7859 in Italiano (bpn7859)
 
 -- Bahá'u'lláh
 
-Prayer bpn7860 in Italiano (bpn7860) 
+Prayer bpn7860 (bpn7860) 
 
 [bahaiprayers.net 7860](https://bahaiprayers.net/Book/Single/10/7860)
 
@@ -1230,7 +1230,7 @@ Prayer bpn7860 in Italiano (bpn7860)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7853 in Italiano (bpn7853) 
+Prayer bpn7853 (bpn7853) 
 
 [bahaiprayers.net 7853](https://bahaiprayers.net/Book/Single/10/7853)
 
@@ -1247,7 +1247,7 @@ Prayer bpn7853 in Italiano (bpn7853)
 
 -- Bahá'u'lláh
 
-Prayer bpn7935 in Italiano (bpn7935) 
+Prayer bpn7935 (bpn7935) 
 
 [bahaiprayers.net 7935](https://bahaiprayers.net/Book/Single/10/7935)
 
@@ -1264,7 +1264,7 @@ Prayer bpn7935 in Italiano (bpn7935)
 
 -- Bahá'u'lláh
 
-Prayer bpn7864 in Italiano (bpn7864) 
+Prayer bpn7864 (bpn7864) 
 
 [bahaiprayers.net 7864](https://bahaiprayers.net/Book/Single/10/7864)
 
@@ -1277,7 +1277,7 @@ Prayer bpn7864 in Italiano (bpn7864)
 
 -- Bahá'u'lláh
 
-Prayer bpn7865 in Italiano (bpn7865) 
+Prayer bpn7865 (bpn7865) 
 
 [bahaiprayers.net 7865](https://bahaiprayers.net/Book/Single/10/7865)
 
@@ -1290,7 +1290,7 @@ Prayer bpn7865 in Italiano (bpn7865)
 
 -- Bahá'u'lláh
 
-Prayer bpn7866 in Italiano (bpn7866) 
+Prayer bpn7866 (bpn7866) 
 
 [bahaiprayers.net 7866](https://bahaiprayers.net/Book/Single/10/7866)
 
@@ -1303,7 +1303,7 @@ Prayer bpn7866 in Italiano (bpn7866)
 
 -- Bahá'u'lláh
 
-Prayer bpn7867 in Italiano (bpn7867) 
+Prayer bpn7867 (bpn7867) 
 
 [bahaiprayers.net 7867](https://bahaiprayers.net/Book/Single/10/7867)
 
@@ -1316,7 +1316,7 @@ Prayer bpn7867 in Italiano (bpn7867)
 
 -- Bahá'u'lláh
 
-Prayer bpn7868 in Italiano (bpn7868) 
+Prayer bpn7868 (bpn7868) 
 
 [bahaiprayers.net 7868](https://bahaiprayers.net/Book/Single/10/7868)
 
@@ -1329,7 +1329,7 @@ Prayer bpn7868 in Italiano (bpn7868)
 
 -- Báb
 
-Prayer bpn7869 in Italiano (bpn7869) 
+Prayer bpn7869 (bpn7869) 
 
 [bahaiprayers.net 7869](https://bahaiprayers.net/Book/Single/10/7869)
 
@@ -1342,7 +1342,7 @@ Prayer bpn7869 in Italiano (bpn7869)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7870 in Italiano (bpn7870) 
+Prayer bpn7870 (bpn7870) 
 
 [bahaiprayers.net 7870](https://bahaiprayers.net/Book/Single/10/7870)
 
@@ -1359,7 +1359,7 @@ Prayer bpn7870 in Italiano (bpn7870)
 
 -- Bahá'u'lláh
 
-Prayer bpn7861 in Italiano (bpn7861) 
+Prayer bpn7861 (bpn7861) 
 
 [bahaiprayers.net 7861](https://bahaiprayers.net/Book/Single/10/7861)
 
@@ -1376,7 +1376,7 @@ Prayer bpn7861 in Italiano (bpn7861)
 
 -- Bahá'u'lláh
 
-Prayer bpn7863 in Italiano (bpn7863) 
+Prayer bpn7863 (bpn7863) 
 
 [bahaiprayers.net 7863](https://bahaiprayers.net/Book/Single/10/7863)
 
@@ -1393,7 +1393,7 @@ Prayer bpn7863 in Italiano (bpn7863)
 
 -- Bahá'u'lláh
 
-Prayer bpn7862 in Italiano (bpn7862) 
+Prayer bpn7862 (bpn7862) 
 
 [bahaiprayers.net 7862](https://bahaiprayers.net/Book/Single/10/7862)
 
@@ -1410,7 +1410,7 @@ Prayer bpn7862 in Italiano (bpn7862)
 
 -- Bahá'u'lláh
 
-Prayer bpn7871 in Italiano (bpn7871) 
+Prayer bpn7871 (bpn7871) 
 
 [bahaiprayers.net 7871](https://bahaiprayers.net/Book/Single/10/7871)
 
@@ -1423,7 +1423,7 @@ Prayer bpn7871 in Italiano (bpn7871)
 
 -- Bahá'u'lláh
 
-Prayer bpn7872 in Italiano (bpn7872) 
+Prayer bpn7872 (bpn7872) 
 
 [bahaiprayers.net 7872](https://bahaiprayers.net/Book/Single/10/7872)
 
@@ -1436,7 +1436,7 @@ Prayer bpn7872 in Italiano (bpn7872)
 
 -- Bahá'u'lláh
 
-Prayer bpn7873 in Italiano (bpn7873) 
+Prayer bpn7873 (bpn7873) 
 
 [bahaiprayers.net 7873](https://bahaiprayers.net/Book/Single/10/7873)
 
@@ -1449,7 +1449,7 @@ Prayer bpn7873 in Italiano (bpn7873)
 
 -- Bahá'u'lláh
 
-Prayer BH10578 in Italiano (BH10578) «[Esperanto](../../eo/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» 
+Prayer BH10578 (BH10578) «[Español](../../es/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» 
 
 [bahaiprayers.net 7874](https://bahaiprayers.net/Book/Single/10/7874)
 
@@ -1462,7 +1462,7 @@ Prayer BH10578 in Italiano (BH10578) «[Esperanto](../../eo/prayers/#BH10578)» 
 
 -- Bahá'u'lláh
 
-Prayer bpn7875 in Italiano (bpn7875) 
+Prayer bpn7875 (bpn7875) 
 
 [bahaiprayers.net 7875](https://bahaiprayers.net/Book/Single/10/7875)
 
@@ -1475,7 +1475,7 @@ Prayer bpn7875 in Italiano (bpn7875)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7876 in Italiano (bpn7876) 
+Prayer bpn7876 (bpn7876) 
 
 [bahaiprayers.net 7876](https://bahaiprayers.net/Book/Single/10/7876)
 
@@ -1488,7 +1488,7 @@ Prayer bpn7876 in Italiano (bpn7876)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7877 in Italiano (bpn7877) 
+Prayer bpn7877 (bpn7877) 
 
 [bahaiprayers.net 7877](https://bahaiprayers.net/Book/Single/10/7877)
 
@@ -1505,7 +1505,7 @@ Prayer bpn7877 in Italiano (bpn7877)
 
 -- Bahá'u'lláh
 
-Prayer bpn7878 in Italiano (bpn7878) 
+Prayer bpn7878 (bpn7878) 
 
 [bahaiprayers.net 7878](https://bahaiprayers.net/Book/Single/10/7878)
 
@@ -1518,7 +1518,7 @@ Prayer bpn7878 in Italiano (bpn7878)
 
 -- Bahá'u'lláh
 
-Prayer bpn7879 in Italiano (bpn7879) 
+Prayer bpn7879 (bpn7879) 
 
 [bahaiprayers.net 7879](https://bahaiprayers.net/Book/Single/10/7879)
 
@@ -1531,7 +1531,7 @@ Prayer bpn7879 in Italiano (bpn7879)
 
 -- Bahá'u'lláh
 
-Prayer bpn7880 in Italiano (bpn7880) 
+Prayer bpn7880 (bpn7880) 
 
 [bahaiprayers.net 7880](https://bahaiprayers.net/Book/Single/10/7880)
 
@@ -1544,7 +1544,7 @@ Prayer bpn7880 in Italiano (bpn7880)
 
 -- Bahá'u'lláh
 
-Prayer bpn7881 in Italiano (bpn7881) 
+Prayer bpn7881 (bpn7881) 
 
 [bahaiprayers.net 7881](https://bahaiprayers.net/Book/Single/10/7881)
 
@@ -1557,7 +1557,7 @@ Prayer bpn7881 in Italiano (bpn7881)
 
 -- Bahá'u'lláh
 
-Prayer bpn7882 in Italiano (bpn7882) 
+Prayer bpn7882 (bpn7882) 
 
 [bahaiprayers.net 7882](https://bahaiprayers.net/Book/Single/10/7882)
 
@@ -1570,7 +1570,7 @@ Prayer bpn7882 in Italiano (bpn7882)
 
 -- Bahá'u'lláh
 
-Prayer bpn7883 in Italiano (bpn7883) 
+Prayer bpn7883 (bpn7883) 
 
 [bahaiprayers.net 7883](https://bahaiprayers.net/Book/Single/10/7883)
 
@@ -1583,7 +1583,7 @@ Prayer bpn7883 in Italiano (bpn7883)
 
 -- Báb
 
-Prayer bpn7884 in Italiano (bpn7884) 
+Prayer bpn7884 (bpn7884) 
 
 [bahaiprayers.net 7884](https://bahaiprayers.net/Book/Single/10/7884)
 
@@ -1596,7 +1596,7 @@ Prayer bpn7884 in Italiano (bpn7884)
 
 -- Báb
 
-Prayer bpn7886 in Italiano (bpn7886) 
+Prayer bpn7886 (bpn7886) 
 
 [bahaiprayers.net 7886](https://bahaiprayers.net/Book/Single/10/7886)
 
@@ -1609,7 +1609,7 @@ Prayer bpn7886 in Italiano (bpn7886)
 
 -- Báb
 
-Prayer bpn7885 in Italiano (bpn7885) 
+Prayer bpn7885 (bpn7885) 
 
 [bahaiprayers.net 7885](https://bahaiprayers.net/Book/Single/10/7885)
 
@@ -1622,7 +1622,7 @@ Prayer bpn7885 in Italiano (bpn7885)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7887 in Italiano (bpn7887) 
+Prayer bpn7887 (bpn7887) 
 
 [bahaiprayers.net 7887](https://bahaiprayers.net/Book/Single/10/7887)
 
@@ -1635,7 +1635,7 @@ Prayer bpn7887 in Italiano (bpn7887)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7888 in Italiano (bpn7888) 
+Prayer bpn7888 (bpn7888) 
 
 [bahaiprayers.net 7888](https://bahaiprayers.net/Book/Single/10/7888)
 
@@ -1648,7 +1648,7 @@ Prayer bpn7888 in Italiano (bpn7888)
 
 -- Abdu'l-Bahá
 
-Prayer AB10769 in Italiano (AB10769) «[Esperanto](../../eo/prayers/#AB10769)» «[English](../../en/prayers/#AB10769)» 
+Prayer AB10769 (AB10769) «[Esperanto](../../eo/prayers/#AB10769)» «[English](../../en/prayers/#AB10769)» 
 
 [bahaiprayers.net 7889](https://bahaiprayers.net/Book/Single/10/7889)
 
@@ -1665,7 +1665,7 @@ Prayer AB10769 in Italiano (AB10769) «[Esperanto](../../eo/prayers/#AB10769)» 
 
 -- Bahá'u'lláh
 
-Prayer bpn7890 in Italiano (bpn7890) 
+Prayer bpn7890 (bpn7890) 
 
 [bahaiprayers.net 7890](https://bahaiprayers.net/Book/Single/10/7890)
 
@@ -1678,7 +1678,7 @@ Prayer bpn7890 in Italiano (bpn7890)
 
 -- Bahá'u'lláh
 
-Prayer bpn7891 in Italiano (bpn7891) 
+Prayer bpn7891 (bpn7891) 
 
 [bahaiprayers.net 7891](https://bahaiprayers.net/Book/Single/10/7891)
 
@@ -1691,7 +1691,7 @@ Prayer bpn7891 in Italiano (bpn7891)
 
 -- Bahá'u'lláh
 
-Prayer BH07426FOO in Italiano (BH07426FOO) «[Esperanto](../../eo/prayers/#BH07426FOO)» «[English](../../en/prayers/#BH07426FOO)» 
+Prayer BH07426FOO (BH07426FOO) «[Esperanto](../../eo/prayers/#BH07426FOO)» «[English](../../en/prayers/#BH07426FOO)» 
 
 [bahaiprayers.net 7892](https://bahaiprayers.net/Book/Single/10/7892)
 
@@ -1704,7 +1704,7 @@ Prayer BH07426FOO in Italiano (BH07426FOO) «[Esperanto](../../eo/prayers/#BH074
 
 -- Bahá'u'lláh
 
-Prayer bpn7893 in Italiano (bpn7893) 
+Prayer bpn7893 (bpn7893) 
 
 [bahaiprayers.net 7893](https://bahaiprayers.net/Book/Single/10/7893)
 
@@ -1717,7 +1717,7 @@ Prayer bpn7893 in Italiano (bpn7893)
 
 -- Bahá'u'lláh
 
-Prayer bpn7894 in Italiano (bpn7894) 
+Prayer bpn7894 (bpn7894) 
 
 [bahaiprayers.net 7894](https://bahaiprayers.net/Book/Single/10/7894)
 
@@ -1730,7 +1730,7 @@ Prayer bpn7894 in Italiano (bpn7894)
 
 -- Bahá'u'lláh
 
-Prayer bpn7895 in Italiano (bpn7895) 
+Prayer bpn7895 (bpn7895) 
 
 [bahaiprayers.net 7895](https://bahaiprayers.net/Book/Single/10/7895)
 
@@ -1743,7 +1743,7 @@ Prayer bpn7895 in Italiano (bpn7895)
 
 -- Báb
 
-Prayer bpn7896 in Italiano (bpn7896) 
+Prayer bpn7896 (bpn7896) 
 
 [bahaiprayers.net 7896](https://bahaiprayers.net/Book/Single/10/7896)
 
@@ -1756,7 +1756,7 @@ Prayer bpn7896 in Italiano (bpn7896)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7897 in Italiano (bpn7897) 
+Prayer bpn7897 (bpn7897) 
 
 [bahaiprayers.net 7897](https://bahaiprayers.net/Book/Single/10/7897)
 
@@ -1769,7 +1769,7 @@ Prayer bpn7897 in Italiano (bpn7897)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7898 in Italiano (bpn7898) 
+Prayer bpn7898 (bpn7898) 
 
 [bahaiprayers.net 7898](https://bahaiprayers.net/Book/Single/10/7898)
 
@@ -1782,7 +1782,7 @@ Prayer bpn7898 in Italiano (bpn7898)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7899 in Italiano (bpn7899) 
+Prayer bpn7899 (bpn7899) 
 
 [bahaiprayers.net 7899](https://bahaiprayers.net/Book/Single/10/7899)
 
@@ -1795,7 +1795,7 @@ Prayer bpn7899 in Italiano (bpn7899)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7900 in Italiano (bpn7900) 
+Prayer bpn7900 (bpn7900) 
 
 [bahaiprayers.net 7900](https://bahaiprayers.net/Book/Single/10/7900)
 
@@ -1808,7 +1808,7 @@ Prayer bpn7900 in Italiano (bpn7900)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7901 in Italiano (bpn7901) 
+Prayer bpn7901 (bpn7901) 
 
 [bahaiprayers.net 7901](https://bahaiprayers.net/Book/Single/10/7901)
 
@@ -1821,7 +1821,7 @@ Prayer bpn7901 in Italiano (bpn7901)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7902 in Italiano (bpn7902) 
+Prayer bpn7902 (bpn7902) 
 
 [bahaiprayers.net 7902](https://bahaiprayers.net/Book/Single/10/7902)
 
@@ -1834,7 +1834,7 @@ Prayer bpn7902 in Italiano (bpn7902)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7903 in Italiano (bpn7903) 
+Prayer bpn7903 (bpn7903) 
 
 [bahaiprayers.net 7903](https://bahaiprayers.net/Book/Single/10/7903)
 
@@ -1851,7 +1851,7 @@ Prayer bpn7903 in Italiano (bpn7903)
 
 -- Bahá'u'lláh
 
-Prayer bpn7904 in Italiano (bpn7904) 
+Prayer bpn7904 (bpn7904) 
 
 [bahaiprayers.net 7904](https://bahaiprayers.net/Book/Single/10/7904)
 
@@ -1864,7 +1864,7 @@ Prayer bpn7904 in Italiano (bpn7904)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7905 in Italiano (bpn7905) 
+Prayer bpn7905 (bpn7905) 
 
 [bahaiprayers.net 7905](https://bahaiprayers.net/Book/Single/10/7905)
 
@@ -1877,7 +1877,7 @@ Prayer bpn7905 in Italiano (bpn7905)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7906 in Italiano (bpn7906) 
+Prayer bpn7906 (bpn7906) 
 
 [bahaiprayers.net 7906](https://bahaiprayers.net/Book/Single/10/7906)
 
@@ -1890,7 +1890,7 @@ Prayer bpn7906 in Italiano (bpn7906)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7907 in Italiano (bpn7907) 
+Prayer bpn7907 (bpn7907) 
 
 [bahaiprayers.net 7907](https://bahaiprayers.net/Book/Single/10/7907)
 
@@ -1903,7 +1903,7 @@ Prayer bpn7907 in Italiano (bpn7907)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7908 in Italiano (bpn7908) 
+Prayer bpn7908 (bpn7908) 
 
 [bahaiprayers.net 7908](https://bahaiprayers.net/Book/Single/10/7908)
 
@@ -1916,7 +1916,7 @@ Prayer bpn7908 in Italiano (bpn7908)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7909 in Italiano (bpn7909) 
+Prayer bpn7909 (bpn7909) 
 
 [bahaiprayers.net 7909](https://bahaiprayers.net/Book/Single/10/7909)
 
@@ -1933,7 +1933,7 @@ Prayer bpn7909 in Italiano (bpn7909)
 
 -- Bahá'u'lláh
 
-Prayer bpn7910 in Italiano (bpn7910) 
+Prayer bpn7910 (bpn7910) 
 
 [bahaiprayers.net 7910](https://bahaiprayers.net/Book/Single/10/7910)
 
@@ -1946,7 +1946,7 @@ Prayer bpn7910 in Italiano (bpn7910)
 
 -- Bahá'u'lláh
 
-Prayer bpn7911 in Italiano (bpn7911) 
+Prayer bpn7911 (bpn7911) 
 
 [bahaiprayers.net 7911](https://bahaiprayers.net/Book/Single/10/7911)
 
@@ -1959,7 +1959,7 @@ Prayer bpn7911 in Italiano (bpn7911)
 
 -- Báb
 
-Prayer bpn7912 in Italiano (bpn7912) 
+Prayer bpn7912 (bpn7912) 
 
 [bahaiprayers.net 7912](https://bahaiprayers.net/Book/Single/10/7912)
 
@@ -1972,7 +1972,7 @@ Prayer bpn7912 in Italiano (bpn7912)
 
 -- Abdu'l-Bahá
 
-Assist Thy loved ones to be firm in Thy Faith in Italiano (AB00001FIR) «[Esperanto](../../eo/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» 
+Assist Thy loved ones to be firm in Thy Faith (AB00001FIR) «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» 
 
 [bahaiprayers.net 7913](https://bahaiprayers.net/Book/Single/10/7913)
 
@@ -1985,7 +1985,7 @@ Assist Thy loved ones to be firm in Thy Faith in Italiano (AB00001FIR) «[Espera
 
 -- Abdu'l-Bahá
 
-Prayer bpn7914 in Italiano (bpn7914) 
+Prayer bpn7914 (bpn7914) 
 
 [bahaiprayers.net 7914](https://bahaiprayers.net/Book/Single/10/7914)
 
@@ -1998,7 +1998,7 @@ Prayer bpn7914 in Italiano (bpn7914)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7915 in Italiano (bpn7915) 
+Prayer bpn7915 (bpn7915) 
 
 [bahaiprayers.net 7915](https://bahaiprayers.net/Book/Single/10/7915)
 
@@ -2011,7 +2011,7 @@ Prayer bpn7915 in Italiano (bpn7915)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7916 in Italiano (bpn7916) 
+Prayer bpn7916 (bpn7916) 
 
 [bahaiprayers.net 7916](https://bahaiprayers.net/Book/Single/10/7916)
 
@@ -2028,7 +2028,7 @@ Prayer bpn7916 in Italiano (bpn7916)
 
 -- Bahá'u'lláh
 
-Prayer bpn7917 in Italiano (bpn7917) 
+Prayer bpn7917 (bpn7917) 
 
 [bahaiprayers.net 7917](https://bahaiprayers.net/Book/Single/10/7917)
 
@@ -2041,7 +2041,7 @@ Prayer bpn7917 in Italiano (bpn7917)
 
 -- Bahá'u'lláh
 
-Prayer bpn7918 in Italiano (bpn7918) 
+Prayer bpn7918 (bpn7918) 
 
 [bahaiprayers.net 7918](https://bahaiprayers.net/Book/Single/10/7918)
 
@@ -2054,7 +2054,7 @@ Prayer bpn7918 in Italiano (bpn7918)
 
 -- Abdu'l-Bahá
 
-Midnight Prayer in Italiano (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+Midnight Prayer (AB06528MID) «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» 
 
 [bahaiprayers.net 7919](https://bahaiprayers.net/Book/Single/10/7919)
 
@@ -2071,7 +2071,7 @@ Midnight Prayer in Italiano (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528
 
 -- Bahá'u'lláh
 
-Prayer bpn7927 in Italiano (bpn7927) 
+Prayer bpn7927 (bpn7927) 
 
 [bahaiprayers.net 7927](https://bahaiprayers.net/Book/Single/10/7927)
 
@@ -2088,7 +2088,7 @@ Prayer bpn7927 in Italiano (bpn7927)
 
 -- Bahá'u'lláh
 
-Prayer bpn7926 in Italiano (bpn7926) 
+Prayer bpn7926 (bpn7926) 
 
 [bahaiprayers.net 7926](https://bahaiprayers.net/Book/Single/10/7926)
 
@@ -2105,7 +2105,7 @@ Prayer bpn7926 in Italiano (bpn7926)
 
 -- Bahá'u'lláh
 
-Prayer bpn7928 in Italiano (bpn7928) 
+Prayer bpn7928 (bpn7928) 
 
 [bahaiprayers.net 7928](https://bahaiprayers.net/Book/Single/10/7928)
 
@@ -2118,7 +2118,7 @@ Prayer bpn7928 in Italiano (bpn7928)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7929 in Italiano (bpn7929) 
+Prayer bpn7929 (bpn7929) 
 
 [bahaiprayers.net 7929](https://bahaiprayers.net/Book/Single/10/7929)
 
@@ -2135,7 +2135,7 @@ Prayer bpn7929 in Italiano (bpn7929)
 
 -- Bahá'u'lláh
 
-Prayer BH00868WIT in Italiano (BH00868WIT) «[Nederlands](../../nl/prayers/#BH00868WIT)» «[English](../../en/prayers/#BH00868WIT)» 
+Prayer BH00868WIT (BH00868WIT) «[English](../../en/prayers/#BH00868WIT)» «[Nederlands](../../nl/prayers/#BH00868WIT)» 
 
 [bahaiprayers.net 7920](https://bahaiprayers.net/Book/Single/10/7920)
 
@@ -2148,7 +2148,7 @@ Prayer BH00868WIT in Italiano (BH00868WIT) «[Nederlands](../../nl/prayers/#BH00
 
 -- Abdu'l-Bahá
 
-Prayer bpn7921 in Italiano (bpn7921) 
+Prayer bpn7921 (bpn7921) 
 
 [bahaiprayers.net 7921](https://bahaiprayers.net/Book/Single/10/7921)
 
@@ -2161,7 +2161,7 @@ Prayer bpn7921 in Italiano (bpn7921)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7922 in Italiano (bpn7922) 
+Prayer bpn7922 (bpn7922) 
 
 [bahaiprayers.net 7922](https://bahaiprayers.net/Book/Single/10/7922)
 
@@ -2174,7 +2174,7 @@ Prayer bpn7922 in Italiano (bpn7922)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7923 in Italiano (bpn7923) 
+Prayer bpn7923 (bpn7923) 
 
 [bahaiprayers.net 7923](https://bahaiprayers.net/Book/Single/10/7923)
 
@@ -2191,7 +2191,7 @@ Prayer bpn7923 in Italiano (bpn7923)
 
 -- Bahá'u'lláh
 
-Prayer bpn7924 in Italiano (bpn7924) 
+Prayer bpn7924 (bpn7924) 
 
 [bahaiprayers.net 7924](https://bahaiprayers.net/Book/Single/10/7924)
 
@@ -2204,7 +2204,7 @@ Prayer bpn7924 in Italiano (bpn7924)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7925 in Italiano (bpn7925) 
+Prayer bpn7925 (bpn7925) 
 
 [bahaiprayers.net 7925](https://bahaiprayers.net/Book/Single/10/7925)
 

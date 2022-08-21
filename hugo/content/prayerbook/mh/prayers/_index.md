@@ -44,7 +44,7 @@ tags = ['lang=mh', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn6195 in Marshallese (bpn6195) 
+Prayer bpn6195 (bpn6195) 
 
 [bahaiprayers.net 6195](https://bahaiprayers.net/Book/Single/55/6195)
 
@@ -57,7 +57,7 @@ Prayer bpn6195 in Marshallese (bpn6195)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6196 in Marshallese (bpn6196) 
+Prayer bpn6196 (bpn6196) 
 
 [bahaiprayers.net 6196](https://bahaiprayers.net/Book/Single/55/6196)
 
@@ -74,7 +74,7 @@ Prayer bpn6196 in Marshallese (bpn6196)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6206 in Marshallese (bpn6206) 
+Prayer bpn6206 (bpn6206) 
 
 [bahaiprayers.net 6206](https://bahaiprayers.net/Book/Single/55/6206)
 
@@ -91,7 +91,7 @@ Prayer bpn6206 in Marshallese (bpn6206)
 
 -- Bahá'u'lláh
 
-Prayer bpn6190 in Marshallese (bpn6190) 
+Prayer bpn6190 (bpn6190) 
 
 [bahaiprayers.net 6190](https://bahaiprayers.net/Book/Single/55/6190)
 
@@ -104,7 +104,7 @@ Prayer bpn6190 in Marshallese (bpn6190)
 
 -- Báb
 
-Prayer bpn6202 in Marshallese (bpn6202) 
+Prayer bpn6202 (bpn6202) 
 
 [bahaiprayers.net 6202](https://bahaiprayers.net/Book/Single/55/6202)
 
@@ -121,7 +121,7 @@ Prayer bpn6202 in Marshallese (bpn6202)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6203 in Marshallese (bpn6203) 
+Prayer bpn6203 (bpn6203) 
 
 [bahaiprayers.net 6203](https://bahaiprayers.net/Book/Single/55/6203)
 
@@ -134,7 +134,7 @@ Prayer bpn6203 in Marshallese (bpn6203)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6204 in Marshallese (bpn6204) 
+Prayer bpn6204 (bpn6204) 
 
 [bahaiprayers.net 6204](https://bahaiprayers.net/Book/Single/55/6204)
 
@@ -151,7 +151,7 @@ Prayer bpn6204 in Marshallese (bpn6204)
 
 -- Bahá'u'lláh
 
-Prayer bpn6198 in Marshallese (bpn6198) 
+Prayer bpn6198 (bpn6198) 
 
 [bahaiprayers.net 6198](https://bahaiprayers.net/Book/Single/55/6198)
 
@@ -164,7 +164,7 @@ Prayer bpn6198 in Marshallese (bpn6198)
 
 -- Báb
 
-Prayer bpn6199 in Marshallese (bpn6199) 
+Prayer bpn6199 (bpn6199) 
 
 [bahaiprayers.net 6199](https://bahaiprayers.net/Book/Single/55/6199)
 
@@ -177,7 +177,7 @@ Prayer bpn6199 in Marshallese (bpn6199)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6200 in Marshallese (bpn6200) 
+Prayer bpn6200 (bpn6200) 
 
 [bahaiprayers.net 6200](https://bahaiprayers.net/Book/Single/55/6200)
 
@@ -194,7 +194,7 @@ Prayer bpn6200 in Marshallese (bpn6200)
 
 -- Bahá'u'lláh
 
-Prayer bpn6189 in Marshallese (bpn6189) 
+Prayer bpn6189 (bpn6189) 
 
 [bahaiprayers.net 6189](https://bahaiprayers.net/Book/Single/55/6189)
 
@@ -211,7 +211,7 @@ Prayer bpn6189 in Marshallese (bpn6189)
 
 -- Bahá'u'lláh
 
-Prayer bpn6191 in Marshallese (bpn6191) 
+Prayer bpn6191 (bpn6191) 
 
 [bahaiprayers.net 6191](https://bahaiprayers.net/Book/Single/55/6191)
 
@@ -224,7 +224,7 @@ Prayer bpn6191 in Marshallese (bpn6191)
 
 -- Bahá'u'lláh
 
-Prayer bpn6192 in Marshallese (bpn6192) 
+Prayer bpn6192 (bpn6192) 
 
 [bahaiprayers.net 6192](https://bahaiprayers.net/Book/Single/55/6192)
 
@@ -241,7 +241,7 @@ Prayer bpn6192 in Marshallese (bpn6192)
 
 -- Bahá'u'lláh
 
-Prayer bpn6209 in Marshallese (bpn6209) 
+Prayer bpn6209 (bpn6209) 
 
 [bahaiprayers.net 6209](https://bahaiprayers.net/Book/Single/55/6209)
 
@@ -258,7 +258,7 @@ Prayer bpn6209 in Marshallese (bpn6209)
 
 -- Bahá'u'lláh
 
-Prayer bpn6201 in Marshallese (bpn6201) 
+Prayer bpn6201 (bpn6201) 
 
 [bahaiprayers.net 6201](https://bahaiprayers.net/Book/Single/55/6201)
 
@@ -275,7 +275,7 @@ Prayer bpn6201 in Marshallese (bpn6201)
 
 -- Bahá'u'lláh
 
-Prayer bpn6205 in Marshallese (bpn6205) 
+Prayer bpn6205 (bpn6205) 
 
 [bahaiprayers.net 6205](https://bahaiprayers.net/Book/Single/55/6205)
 
@@ -292,7 +292,7 @@ Prayer bpn6205 in Marshallese (bpn6205)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6208 in Marshallese (bpn6208) 
+Prayer bpn6208 (bpn6208) 
 
 [bahaiprayers.net 6208](https://bahaiprayers.net/Book/Single/55/6208)
 
@@ -309,7 +309,7 @@ Prayer bpn6208 in Marshallese (bpn6208)
 
 -- Báb
 
-Prayer bpn6193 in Marshallese (bpn6193) 
+Prayer bpn6193 (bpn6193) 
 
 [bahaiprayers.net 6193](https://bahaiprayers.net/Book/Single/55/6193)
 
@@ -322,7 +322,7 @@ Prayer bpn6193 in Marshallese (bpn6193)
 
 -- Báb
 
-Prayer bpn6194 in Marshallese (bpn6194) 
+Prayer bpn6194 (bpn6194) 
 
 [bahaiprayers.net 6194](https://bahaiprayers.net/Book/Single/55/6194)
 
@@ -339,7 +339,7 @@ Prayer bpn6194 in Marshallese (bpn6194)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6207 in Marshallese (bpn6207) 
+Prayer bpn6207 (bpn6207) 
 
 [bahaiprayers.net 6207](https://bahaiprayers.net/Book/Single/55/6207)
 
@@ -356,7 +356,7 @@ Prayer bpn6207 in Marshallese (bpn6207)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6197 in Marshallese (bpn6197) 
+Prayer bpn6197 (bpn6197) 
 
 [bahaiprayers.net 6197](https://bahaiprayers.net/Book/Single/55/6197)
 

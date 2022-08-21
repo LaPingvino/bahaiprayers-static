@@ -20,7 +20,7 @@ tags = ['lang=km', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9108 in ភាសាខ្មែរ (bpn9108) 
+Prayer bpn9108 (bpn9108) 
 
 [bahaiprayers.net 9108](https://bahaiprayers.net/Book/Single/81/9108)
 
@@ -33,7 +33,7 @@ Prayer bpn9108 in ភាសាខ្មែរ (bpn9108)
 
 -- Bahá'u'lláh
 
-Prayer bpn9109 in ភាសាខ្មែរ (bpn9109) 
+Prayer bpn9109 (bpn9109) 
 
 [bahaiprayers.net 9109](https://bahaiprayers.net/Book/Single/81/9109)
 
@@ -46,7 +46,7 @@ Prayer bpn9109 in ភាសាខ្មែរ (bpn9109)
 
 -- Báb
 
-Prayer bpn9111 in ភាសាខ្មែរ (bpn9111) 
+Prayer bpn9111 (bpn9111) 
 
 [bahaiprayers.net 9111](https://bahaiprayers.net/Book/Single/81/9111)
 
@@ -59,7 +59,7 @@ Prayer bpn9111 in ភាសាខ្មែរ (bpn9111)
 
 -- Báb
 
-Prayer bpn9112 in ភាសាខ្មែរ (bpn9112) 
+Prayer bpn9112 (bpn9112) 
 
 [bahaiprayers.net 9112](https://bahaiprayers.net/Book/Single/81/9112)
 
@@ -76,7 +76,7 @@ Prayer bpn9112 in ភាសាខ្មែរ (bpn9112)
 
 -- Bahá'u'lláh
 
-Prayer bpn9110 in ភាសាខ្មែរ (bpn9110) 
+Prayer bpn9110 (bpn9110) 
 
 [bahaiprayers.net 9110](https://bahaiprayers.net/Book/Single/81/9110)
 

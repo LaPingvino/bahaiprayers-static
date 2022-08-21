@@ -78,7 +78,7 @@ tags = ['lang=lv', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn2354 in Latviešu (bpn2354) 
+Prayer bpn2354 (bpn2354) 
 
 [bahaiprayers.net 2354](https://bahaiprayers.net/Book/Single/13/2354)
 
@@ -91,7 +91,7 @@ Prayer bpn2354 in Latviešu (bpn2354)
 
 -- Bahá'u'lláh
 
-Prayer bpn2355 in Latviešu (bpn2355) 
+Prayer bpn2355 (bpn2355) 
 
 [bahaiprayers.net 2355](https://bahaiprayers.net/Book/Single/13/2355)
 
@@ -104,7 +104,7 @@ Prayer bpn2355 in Latviešu (bpn2355)
 
 -- Bahá'u'lláh
 
-Prayer bpn2356 in Latviešu (bpn2356) 
+Prayer bpn2356 (bpn2356) 
 
 [bahaiprayers.net 2356](https://bahaiprayers.net/Book/Single/13/2356)
 
@@ -117,7 +117,7 @@ Prayer bpn2356 in Latviešu (bpn2356)
 
 -- Bahá'u'lláh
 
-Prayer bpn2357 in Latviešu (bpn2357) 
+Prayer bpn2357 (bpn2357) 
 
 [bahaiprayers.net 2357](https://bahaiprayers.net/Book/Single/13/2357)
 
@@ -130,7 +130,7 @@ Prayer bpn2357 in Latviešu (bpn2357)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2358 in Latviešu (bpn2358) 
+Prayer bpn2358 (bpn2358) 
 
 [bahaiprayers.net 2358](https://bahaiprayers.net/Book/Single/13/2358)
 
@@ -143,7 +143,7 @@ Prayer bpn2358 in Latviešu (bpn2358)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2359 in Latviešu (bpn2359) 
+Prayer bpn2359 (bpn2359) 
 
 [bahaiprayers.net 2359](https://bahaiprayers.net/Book/Single/13/2359)
 
@@ -160,7 +160,7 @@ Prayer bpn2359 in Latviešu (bpn2359)
 
 -- Bahá'u'lláh
 
-Prayer bpn2360 in Latviešu (bpn2360) 
+Prayer bpn2360 (bpn2360) 
 
 [bahaiprayers.net 2360](https://bahaiprayers.net/Book/Single/13/2360)
 
@@ -173,7 +173,7 @@ Prayer bpn2360 in Latviešu (bpn2360)
 
 -- Bahá'u'lláh
 
-Prayer bpn2361 in Latviešu (bpn2361) 
+Prayer bpn2361 (bpn2361) 
 
 [bahaiprayers.net 2361](https://bahaiprayers.net/Book/Single/13/2361)
 
@@ -186,7 +186,7 @@ Prayer bpn2361 in Latviešu (bpn2361)
 
 -- Bahá'u'lláh
 
-Prayer bpn2362 in Latviešu (bpn2362) 
+Prayer bpn2362 (bpn2362) 
 
 [bahaiprayers.net 2362](https://bahaiprayers.net/Book/Single/13/2362)
 
@@ -199,7 +199,7 @@ Prayer bpn2362 in Latviešu (bpn2362)
 
 -- Bahá'u'lláh
 
-Prayer bpn2363 in Latviešu (bpn2363) 
+Prayer bpn2363 (bpn2363) 
 
 [bahaiprayers.net 2363](https://bahaiprayers.net/Book/Single/13/2363)
 
@@ -212,7 +212,7 @@ Prayer bpn2363 in Latviešu (bpn2363)
 
 -- Bahá'u'lláh
 
-Prayer bpn2364 in Latviešu (bpn2364) 
+Prayer bpn2364 (bpn2364) 
 
 [bahaiprayers.net 2364](https://bahaiprayers.net/Book/Single/13/2364)
 
@@ -225,7 +225,7 @@ Prayer bpn2364 in Latviešu (bpn2364)
 
 -- Bahá'u'lláh
 
-Prayer bpn2365 in Latviešu (bpn2365) 
+Prayer bpn2365 (bpn2365) 
 
 [bahaiprayers.net 2365](https://bahaiprayers.net/Book/Single/13/2365)
 
@@ -238,7 +238,7 @@ Prayer bpn2365 in Latviešu (bpn2365)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2366 in Latviešu (bpn2366) 
+Prayer bpn2366 (bpn2366) 
 
 [bahaiprayers.net 2366](https://bahaiprayers.net/Book/Single/13/2366)
 
@@ -255,7 +255,7 @@ Prayer bpn2366 in Latviešu (bpn2366)
 
 -- Bahá'u'lláh
 
-Prayer bpn2367 in Latviešu (bpn2367) 
+Prayer bpn2367 (bpn2367) 
 
 [bahaiprayers.net 2367](https://bahaiprayers.net/Book/Single/13/2367)
 
@@ -272,7 +272,7 @@ Prayer bpn2367 in Latviešu (bpn2367)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2368 in Latviešu (bpn2368) 
+Prayer bpn2368 (bpn2368) 
 
 [bahaiprayers.net 2368](https://bahaiprayers.net/Book/Single/13/2368)
 
@@ -285,7 +285,7 @@ Prayer bpn2368 in Latviešu (bpn2368)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2369 in Latviešu (bpn2369) 
+Prayer bpn2369 (bpn2369) 
 
 [bahaiprayers.net 2369](https://bahaiprayers.net/Book/Single/13/2369)
 
@@ -298,7 +298,7 @@ Prayer bpn2369 in Latviešu (bpn2369)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2370 in Latviešu (bpn2370) 
+Prayer bpn2370 (bpn2370) 
 
 [bahaiprayers.net 2370](https://bahaiprayers.net/Book/Single/13/2370)
 
@@ -311,7 +311,7 @@ Prayer bpn2370 in Latviešu (bpn2370)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2371 in Latviešu (bpn2371) 
+Prayer bpn2371 (bpn2371) 
 
 [bahaiprayers.net 2371](https://bahaiprayers.net/Book/Single/13/2371)
 
@@ -324,7 +324,7 @@ Prayer bpn2371 in Latviešu (bpn2371)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2372 in Latviešu (bpn2372) 
+Prayer bpn2372 (bpn2372) 
 
 [bahaiprayers.net 2372](https://bahaiprayers.net/Book/Single/13/2372)
 
@@ -341,7 +341,7 @@ Prayer bpn2372 in Latviešu (bpn2372)
 
 -- Bahá'u'lláh
 
-Prayer bpn2373 in Latviešu (bpn2373) 
+Prayer bpn2373 (bpn2373) 
 
 [bahaiprayers.net 2373](https://bahaiprayers.net/Book/Single/13/2373)
 
@@ -354,7 +354,7 @@ Prayer bpn2373 in Latviešu (bpn2373)
 
 -- Bahá'u'lláh
 
-Prayer bpn2374 in Latviešu (bpn2374) 
+Prayer bpn2374 (bpn2374) 
 
 [bahaiprayers.net 2374](https://bahaiprayers.net/Book/Single/13/2374)
 
@@ -367,7 +367,7 @@ Prayer bpn2374 in Latviešu (bpn2374)
 
 -- Bahá'u'lláh
 
-Prayer bpn2375 in Latviešu (bpn2375) 
+Prayer bpn2375 (bpn2375) 
 
 [bahaiprayers.net 2375](https://bahaiprayers.net/Book/Single/13/2375)
 
@@ -380,7 +380,7 @@ Prayer bpn2375 in Latviešu (bpn2375)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2376 in Latviešu (bpn2376) 
+Prayer bpn2376 (bpn2376) 
 
 [bahaiprayers.net 2376](https://bahaiprayers.net/Book/Single/13/2376)
 
@@ -397,7 +397,7 @@ Prayer bpn2376 in Latviešu (bpn2376)
 
 -- Bahá'u'lláh
 
-Prayer bpn2377 in Latviešu (bpn2377) 
+Prayer bpn2377 (bpn2377) 
 
 [bahaiprayers.net 2377](https://bahaiprayers.net/Book/Single/13/2377)
 
@@ -410,7 +410,7 @@ Prayer bpn2377 in Latviešu (bpn2377)
 
 -- Bahá'u'lláh
 
-Prayer bpn2378 in Latviešu (bpn2378) 
+Prayer bpn2378 (bpn2378) 
 
 [bahaiprayers.net 2378](https://bahaiprayers.net/Book/Single/13/2378)
 
@@ -427,7 +427,7 @@ Prayer bpn2378 in Latviešu (bpn2378)
 
 -- Bahá'u'lláh
 
-Prayer bpn2382 in Latviešu (bpn2382) 
+Prayer bpn2382 (bpn2382) 
 
 [bahaiprayers.net 2382](https://bahaiprayers.net/Book/Single/13/2382)
 
@@ -440,7 +440,7 @@ Prayer bpn2382 in Latviešu (bpn2382)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2379 in Latviešu (bpn2379) 
+Prayer bpn2379 (bpn2379) 
 
 [bahaiprayers.net 2379](https://bahaiprayers.net/Book/Single/13/2379)
 
@@ -453,7 +453,7 @@ Prayer bpn2379 in Latviešu (bpn2379)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2380 in Latviešu (bpn2380) 
+Prayer bpn2380 (bpn2380) 
 
 [bahaiprayers.net 2380](https://bahaiprayers.net/Book/Single/13/2380)
 
@@ -466,7 +466,7 @@ Prayer bpn2380 in Latviešu (bpn2380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2381 in Latviešu (bpn2381) 
+Prayer bpn2381 (bpn2381) 
 
 [bahaiprayers.net 2381](https://bahaiprayers.net/Book/Single/13/2381)
 
@@ -483,7 +483,7 @@ Prayer bpn2381 in Latviešu (bpn2381)
 
 -- Bahá'u'lláh
 
-Prayer bpn2383 in Latviešu (bpn2383) 
+Prayer bpn2383 (bpn2383) 
 
 [bahaiprayers.net 2383](https://bahaiprayers.net/Book/Single/13/2383)
 
@@ -496,7 +496,7 @@ Prayer bpn2383 in Latviešu (bpn2383)
 
 -- Bahá'u'lláh
 
-Prayer bpn2386 in Latviešu (bpn2386) 
+Prayer bpn2386 (bpn2386) 
 
 [bahaiprayers.net 2386](https://bahaiprayers.net/Book/Single/13/2386)
 
@@ -509,7 +509,7 @@ Prayer bpn2386 in Latviešu (bpn2386)
 
 -- Bahá'u'lláh
 
-Prayer bpn2387 in Latviešu (bpn2387) 
+Prayer bpn2387 (bpn2387) 
 
 [bahaiprayers.net 2387](https://bahaiprayers.net/Book/Single/13/2387)
 
@@ -522,7 +522,7 @@ Prayer bpn2387 in Latviešu (bpn2387)
 
 -- Bahá'u'lláh
 
-Prayer bpn2384 in Latviešu (bpn2384) 
+Prayer bpn2384 (bpn2384) 
 
 [bahaiprayers.net 2384](https://bahaiprayers.net/Book/Single/13/2384)
 
@@ -535,7 +535,7 @@ Prayer bpn2384 in Latviešu (bpn2384)
 
 -- Bahá'u'lláh
 
-Prayer bpn2385 in Latviešu (bpn2385) 
+Prayer bpn2385 (bpn2385) 
 
 [bahaiprayers.net 2385](https://bahaiprayers.net/Book/Single/13/2385)
 
@@ -552,7 +552,7 @@ Prayer bpn2385 in Latviešu (bpn2385)
 
 -- Bahá'u'lláh
 
-Prayer bpn2350 in Latviešu (bpn2350) 
+Prayer bpn2350 (bpn2350) 
 
 [bahaiprayers.net 2350](https://bahaiprayers.net/Book/Single/13/2350)
 
@@ -569,7 +569,7 @@ Prayer bpn2350 in Latviešu (bpn2350)
 
 -- Bahá'u'lláh
 
-Prayer bpn2388 in Latviešu (bpn2388) 
+Prayer bpn2388 (bpn2388) 
 
 [bahaiprayers.net 2388](https://bahaiprayers.net/Book/Single/13/2388)
 
@@ -582,7 +582,7 @@ Prayer bpn2388 in Latviešu (bpn2388)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2389 in Latviešu (bpn2389) 
+Prayer bpn2389 (bpn2389) 
 
 [bahaiprayers.net 2389](https://bahaiprayers.net/Book/Single/13/2389)
 
@@ -595,7 +595,7 @@ Prayer bpn2389 in Latviešu (bpn2389)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2390 in Latviešu (bpn2390) 
+Prayer bpn2390 (bpn2390) 
 
 [bahaiprayers.net 2390](https://bahaiprayers.net/Book/Single/13/2390)
 
@@ -608,7 +608,7 @@ Prayer bpn2390 in Latviešu (bpn2390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2391 in Latviešu (bpn2391) 
+Prayer bpn2391 (bpn2391) 
 
 [bahaiprayers.net 2391](https://bahaiprayers.net/Book/Single/13/2391)
 
@@ -621,7 +621,7 @@ Prayer bpn2391 in Latviešu (bpn2391)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2392 in Latviešu (bpn2392) 
+Prayer bpn2392 (bpn2392) 
 
 [bahaiprayers.net 2392](https://bahaiprayers.net/Book/Single/13/2392)
 
@@ -634,7 +634,7 @@ Prayer bpn2392 in Latviešu (bpn2392)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2393 in Latviešu (bpn2393) 
+Prayer bpn2393 (bpn2393) 
 
 [bahaiprayers.net 2393](https://bahaiprayers.net/Book/Single/13/2393)
 
@@ -647,7 +647,7 @@ Prayer bpn2393 in Latviešu (bpn2393)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2394 in Latviešu (bpn2394) 
+Prayer bpn2394 (bpn2394) 
 
 [bahaiprayers.net 2394](https://bahaiprayers.net/Book/Single/13/2394)
 
@@ -660,7 +660,7 @@ Prayer bpn2394 in Latviešu (bpn2394)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2395 in Latviešu (bpn2395) 
+Prayer bpn2395 (bpn2395) 
 
 [bahaiprayers.net 2395](https://bahaiprayers.net/Book/Single/13/2395)
 
@@ -677,7 +677,7 @@ Prayer bpn2395 in Latviešu (bpn2395)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2445 in Latviešu (bpn2445) 
+Prayer bpn2445 (bpn2445) 
 
 [bahaiprayers.net 2445](https://bahaiprayers.net/Book/Single/13/2445)
 
@@ -690,7 +690,7 @@ Prayer bpn2445 in Latviešu (bpn2445)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2446 in Latviešu (bpn2446) 
+Prayer bpn2446 (bpn2446) 
 
 [bahaiprayers.net 2446](https://bahaiprayers.net/Book/Single/13/2446)
 
@@ -707,7 +707,7 @@ Prayer bpn2446 in Latviešu (bpn2446)
 
 -- Bahá'u'lláh
 
-Prayer bpn2448 in Latviešu (bpn2448) 
+Prayer bpn2448 (bpn2448) 
 
 [bahaiprayers.net 2448](https://bahaiprayers.net/Book/Single/13/2448)
 
@@ -720,7 +720,7 @@ Prayer bpn2448 in Latviešu (bpn2448)
 
 -- Bahá'u'lláh
 
-Prayer bpn2450 in Latviešu (bpn2450) 
+Prayer bpn2450 (bpn2450) 
 
 [bahaiprayers.net 2450](https://bahaiprayers.net/Book/Single/13/2450)
 
@@ -733,7 +733,7 @@ Prayer bpn2450 in Latviešu (bpn2450)
 
 -- Bahá'u'lláh
 
-Prayer bpn2449 in Latviešu (bpn2449) 
+Prayer bpn2449 (bpn2449) 
 
 [bahaiprayers.net 2449](https://bahaiprayers.net/Book/Single/13/2449)
 
@@ -750,7 +750,7 @@ Prayer bpn2449 in Latviešu (bpn2449)
 
 -- Bahá'u'lláh
 
-Prayer bpn2396 in Latviešu (bpn2396) 
+Prayer bpn2396 (bpn2396) 
 
 [bahaiprayers.net 2396](https://bahaiprayers.net/Book/Single/13/2396)
 
@@ -763,7 +763,7 @@ Prayer bpn2396 in Latviešu (bpn2396)
 
 -- Bahá'u'lláh
 
-Prayer bpn2397 in Latviešu (bpn2397) 
+Prayer bpn2397 (bpn2397) 
 
 [bahaiprayers.net 2397](https://bahaiprayers.net/Book/Single/13/2397)
 
@@ -776,7 +776,7 @@ Prayer bpn2397 in Latviešu (bpn2397)
 
 -- Bahá'u'lláh
 
-Prayer bpn2398 in Latviešu (bpn2398) 
+Prayer bpn2398 (bpn2398) 
 
 [bahaiprayers.net 2398](https://bahaiprayers.net/Book/Single/13/2398)
 
@@ -789,7 +789,7 @@ Prayer bpn2398 in Latviešu (bpn2398)
 
 -- Bahá'u'lláh
 
-Prayer bpn2399 in Latviešu (bpn2399) 
+Prayer bpn2399 (bpn2399) 
 
 [bahaiprayers.net 2399](https://bahaiprayers.net/Book/Single/13/2399)
 
@@ -802,7 +802,7 @@ Prayer bpn2399 in Latviešu (bpn2399)
 
 -- Bahá'u'lláh
 
-Prayer bpn2400 in Latviešu (bpn2400) 
+Prayer bpn2400 (bpn2400) 
 
 [bahaiprayers.net 2400](https://bahaiprayers.net/Book/Single/13/2400)
 
@@ -815,7 +815,7 @@ Prayer bpn2400 in Latviešu (bpn2400)
 
 -- Báb
 
-Prayer bpn2401 in Latviešu (bpn2401) 
+Prayer bpn2401 (bpn2401) 
 
 [bahaiprayers.net 2401](https://bahaiprayers.net/Book/Single/13/2401)
 
@@ -828,7 +828,7 @@ Prayer bpn2401 in Latviešu (bpn2401)
 
 -- Báb
 
-Prayer bpn2402 in Latviešu (bpn2402) 
+Prayer bpn2402 (bpn2402) 
 
 [bahaiprayers.net 2402](https://bahaiprayers.net/Book/Single/13/2402)
 
@@ -841,7 +841,7 @@ Prayer bpn2402 in Latviešu (bpn2402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2403 in Latviešu (bpn2403) 
+Prayer bpn2403 (bpn2403) 
 
 [bahaiprayers.net 2403](https://bahaiprayers.net/Book/Single/13/2403)
 
@@ -854,7 +854,7 @@ Prayer bpn2403 in Latviešu (bpn2403)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2404 in Latviešu (bpn2404) 
+Prayer bpn2404 (bpn2404) 
 
 [bahaiprayers.net 2404](https://bahaiprayers.net/Book/Single/13/2404)
 
@@ -867,7 +867,7 @@ Prayer bpn2404 in Latviešu (bpn2404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2405 in Latviešu (bpn2405) 
+Prayer bpn2405 (bpn2405) 
 
 [bahaiprayers.net 2405](https://bahaiprayers.net/Book/Single/13/2405)
 
@@ -884,7 +884,7 @@ Prayer bpn2405 in Latviešu (bpn2405)
 
 -- Bahá'u'lláh
 
-Prayer bpn2451 in Latviešu (bpn2451) 
+Prayer bpn2451 (bpn2451) 
 
 [bahaiprayers.net 2451](https://bahaiprayers.net/Book/Single/13/2451)
 
@@ -901,7 +901,7 @@ Prayer bpn2451 in Latviešu (bpn2451)
 
 -- Bahá'u'lláh
 
-Prayer bpn2452 in Latviešu (bpn2452) 
+Prayer bpn2452 (bpn2452) 
 
 [bahaiprayers.net 2452](https://bahaiprayers.net/Book/Single/13/2452)
 
@@ -914,7 +914,7 @@ Prayer bpn2452 in Latviešu (bpn2452)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2453 in Latviešu (bpn2453) 
+Prayer bpn2453 (bpn2453) 
 
 [bahaiprayers.net 2453](https://bahaiprayers.net/Book/Single/13/2453)
 
@@ -927,7 +927,7 @@ Prayer bpn2453 in Latviešu (bpn2453)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2454 in Latviešu (bpn2454) 
+Prayer bpn2454 (bpn2454) 
 
 [bahaiprayers.net 2454](https://bahaiprayers.net/Book/Single/13/2454)
 
@@ -944,7 +944,7 @@ Prayer bpn2454 in Latviešu (bpn2454)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2447 in Latviešu (bpn2447) 
+Prayer bpn2447 (bpn2447) 
 
 [bahaiprayers.net 2447](https://bahaiprayers.net/Book/Single/13/2447)
 
@@ -961,7 +961,7 @@ Prayer bpn2447 in Latviešu (bpn2447)
 
 -- Bahá'u'lláh
 
-Prayer bpn2408 in Latviešu (bpn2408) 
+Prayer bpn2408 (bpn2408) 
 
 [bahaiprayers.net 2408](https://bahaiprayers.net/Book/Single/13/2408)
 
@@ -974,7 +974,7 @@ Prayer bpn2408 in Latviešu (bpn2408)
 
 -- Bahá'u'lláh
 
-Prayer bpn2409 in Latviešu (bpn2409) 
+Prayer bpn2409 (bpn2409) 
 
 [bahaiprayers.net 2409](https://bahaiprayers.net/Book/Single/13/2409)
 
@@ -987,7 +987,7 @@ Prayer bpn2409 in Latviešu (bpn2409)
 
 -- Bahá'u'lláh
 
-Prayer bpn2410 in Latviešu (bpn2410) 
+Prayer bpn2410 (bpn2410) 
 
 [bahaiprayers.net 2410](https://bahaiprayers.net/Book/Single/13/2410)
 
@@ -1000,7 +1000,7 @@ Prayer bpn2410 in Latviešu (bpn2410)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2407 in Latviešu (bpn2407) 
+Prayer bpn2407 (bpn2407) 
 
 [bahaiprayers.net 2407](https://bahaiprayers.net/Book/Single/13/2407)
 
@@ -1017,7 +1017,7 @@ Prayer bpn2407 in Latviešu (bpn2407)
 
 -- Bahá'u'lláh
 
-Prayer bpn2411 in Latviešu (bpn2411) 
+Prayer bpn2411 (bpn2411) 
 
 [bahaiprayers.net 2411](https://bahaiprayers.net/Book/Single/13/2411)
 
@@ -1030,7 +1030,7 @@ Prayer bpn2411 in Latviešu (bpn2411)
 
 -- Bahá'u'lláh
 
-Prayer bpn2412 in Latviešu (bpn2412) 
+Prayer bpn2412 (bpn2412) 
 
 [bahaiprayers.net 2412](https://bahaiprayers.net/Book/Single/13/2412)
 
@@ -1043,7 +1043,7 @@ Prayer bpn2412 in Latviešu (bpn2412)
 
 -- Bahá'u'lláh
 
-Prayer bpn2416 in Latviešu (bpn2416) 
+Prayer bpn2416 (bpn2416) 
 
 [bahaiprayers.net 2416](https://bahaiprayers.net/Book/Single/13/2416)
 
@@ -1056,7 +1056,7 @@ Prayer bpn2416 in Latviešu (bpn2416)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2413 in Latviešu (bpn2413) 
+Prayer bpn2413 (bpn2413) 
 
 [bahaiprayers.net 2413](https://bahaiprayers.net/Book/Single/13/2413)
 
@@ -1069,7 +1069,7 @@ Prayer bpn2413 in Latviešu (bpn2413)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2414 in Latviešu (bpn2414) 
+Prayer bpn2414 (bpn2414) 
 
 [bahaiprayers.net 2414](https://bahaiprayers.net/Book/Single/13/2414)
 
@@ -1082,7 +1082,7 @@ Prayer bpn2414 in Latviešu (bpn2414)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2415 in Latviešu (bpn2415) 
+Prayer bpn2415 (bpn2415) 
 
 [bahaiprayers.net 2415](https://bahaiprayers.net/Book/Single/13/2415)
 
@@ -1099,7 +1099,7 @@ Prayer bpn2415 in Latviešu (bpn2415)
 
 -- Bahá'u'lláh
 
-Prayer bpn2351 in Latviešu (bpn2351) 
+Prayer bpn2351 (bpn2351) 
 
 [bahaiprayers.net 2351](https://bahaiprayers.net/Book/Single/13/2351)
 
@@ -1112,7 +1112,7 @@ Prayer bpn2351 in Latviešu (bpn2351)
 
 -- Bahá'u'lláh
 
-Prayer bpn2353 in Latviešu (bpn2353) 
+Prayer bpn2353 (bpn2353) 
 
 [bahaiprayers.net 2353](https://bahaiprayers.net/Book/Single/13/2353)
 
@@ -1125,7 +1125,7 @@ Prayer bpn2353 in Latviešu (bpn2353)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2352 in Latviešu (bpn2352) 
+Prayer bpn2352 (bpn2352) 
 
 [bahaiprayers.net 2352](https://bahaiprayers.net/Book/Single/13/2352)
 
@@ -1142,7 +1142,7 @@ Prayer bpn2352 in Latviešu (bpn2352)
 
 -- Bahá'u'lláh
 
-Prayer bpn2417 in Latviešu (bpn2417) 
+Prayer bpn2417 (bpn2417) 
 
 [bahaiprayers.net 2417](https://bahaiprayers.net/Book/Single/13/2417)
 
@@ -1155,7 +1155,7 @@ Prayer bpn2417 in Latviešu (bpn2417)
 
 -- Bahá'u'lláh
 
-Prayer bpn2418 in Latviešu (bpn2418) 
+Prayer bpn2418 (bpn2418) 
 
 [bahaiprayers.net 2418](https://bahaiprayers.net/Book/Single/13/2418)
 
@@ -1168,7 +1168,7 @@ Prayer bpn2418 in Latviešu (bpn2418)
 
 -- Bahá'u'lláh
 
-Prayer bpn2419 in Latviešu (bpn2419) 
+Prayer bpn2419 (bpn2419) 
 
 [bahaiprayers.net 2419](https://bahaiprayers.net/Book/Single/13/2419)
 
@@ -1181,7 +1181,7 @@ Prayer bpn2419 in Latviešu (bpn2419)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2420 in Latviešu (bpn2420) 
+Prayer bpn2420 (bpn2420) 
 
 [bahaiprayers.net 2420](https://bahaiprayers.net/Book/Single/13/2420)
 
@@ -1198,7 +1198,7 @@ Prayer bpn2420 in Latviešu (bpn2420)
 
 -- Bahá'u'lláh
 
-Prayer bpn2421 in Latviešu (bpn2421) 
+Prayer bpn2421 (bpn2421) 
 
 [bahaiprayers.net 2421](https://bahaiprayers.net/Book/Single/13/2421)
 
@@ -1211,7 +1211,7 @@ Prayer bpn2421 in Latviešu (bpn2421)
 
 -- Bahá'u'lláh
 
-Prayer bpn2422 in Latviešu (bpn2422) 
+Prayer bpn2422 (bpn2422) 
 
 [bahaiprayers.net 2422](https://bahaiprayers.net/Book/Single/13/2422)
 
@@ -1224,7 +1224,7 @@ Prayer bpn2422 in Latviešu (bpn2422)
 
 -- Bahá'u'lláh
 
-Prayer bpn2423 in Latviešu (bpn2423) 
+Prayer bpn2423 (bpn2423) 
 
 [bahaiprayers.net 2423](https://bahaiprayers.net/Book/Single/13/2423)
 
@@ -1241,7 +1241,7 @@ Prayer bpn2423 in Latviešu (bpn2423)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2424 in Latviešu (bpn2424) 
+Prayer bpn2424 (bpn2424) 
 
 [bahaiprayers.net 2424](https://bahaiprayers.net/Book/Single/13/2424)
 
@@ -1254,7 +1254,7 @@ Prayer bpn2424 in Latviešu (bpn2424)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2425 in Latviešu (bpn2425) 
+Prayer bpn2425 (bpn2425) 
 
 [bahaiprayers.net 2425](https://bahaiprayers.net/Book/Single/13/2425)
 
@@ -1267,7 +1267,7 @@ Prayer bpn2425 in Latviešu (bpn2425)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2426 in Latviešu (bpn2426) 
+Prayer bpn2426 (bpn2426) 
 
 [bahaiprayers.net 2426](https://bahaiprayers.net/Book/Single/13/2426)
 
@@ -1280,7 +1280,7 @@ Prayer bpn2426 in Latviešu (bpn2426)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2427 in Latviešu (bpn2427) 
+Prayer bpn2427 (bpn2427) 
 
 [bahaiprayers.net 2427](https://bahaiprayers.net/Book/Single/13/2427)
 
@@ -1293,7 +1293,7 @@ Prayer bpn2427 in Latviešu (bpn2427)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2428 in Latviešu (bpn2428) 
+Prayer bpn2428 (bpn2428) 
 
 [bahaiprayers.net 2428](https://bahaiprayers.net/Book/Single/13/2428)
 
@@ -1310,7 +1310,7 @@ Prayer bpn2428 in Latviešu (bpn2428)
 
 -- Bahá'u'lláh
 
-Prayer bpn2443 in Latviešu (bpn2443) 
+Prayer bpn2443 (bpn2443) 
 
 [bahaiprayers.net 2443](https://bahaiprayers.net/Book/Single/13/2443)
 
@@ -1323,7 +1323,7 @@ Prayer bpn2443 in Latviešu (bpn2443)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2444 in Latviešu (bpn2444) 
+Prayer bpn2444 (bpn2444) 
 
 [bahaiprayers.net 2444](https://bahaiprayers.net/Book/Single/13/2444)
 
@@ -1340,7 +1340,7 @@ Prayer bpn2444 in Latviešu (bpn2444)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2406 in Latviešu (bpn2406) 
+Prayer bpn2406 (bpn2406) 
 
 [bahaiprayers.net 2406](https://bahaiprayers.net/Book/Single/13/2406)
 
@@ -1353,7 +1353,7 @@ Prayer bpn2406 in Latviešu (bpn2406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4093 in Latviešu (bpn4093) 
+Prayer bpn4093 (bpn4093) 
 
 [bahaiprayers.net 4093](https://bahaiprayers.net/Book/Single/13/4093)
 
@@ -1366,7 +1366,7 @@ Prayer bpn4093 in Latviešu (bpn4093)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4094 in Latviešu (bpn4094) 
+Prayer bpn4094 (bpn4094) 
 
 [bahaiprayers.net 4094](https://bahaiprayers.net/Book/Single/13/4094)
 
@@ -1379,7 +1379,7 @@ Prayer bpn4094 in Latviešu (bpn4094)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4095 in Latviešu (bpn4095) 
+Prayer bpn4095 (bpn4095) 
 
 [bahaiprayers.net 4095](https://bahaiprayers.net/Book/Single/13/4095)
 
@@ -1392,7 +1392,7 @@ Prayer bpn4095 in Latviešu (bpn4095)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4096 in Latviešu (bpn4096) 
+Prayer bpn4096 (bpn4096) 
 
 [bahaiprayers.net 4096](https://bahaiprayers.net/Book/Single/13/4096)
 
@@ -1405,7 +1405,7 @@ Prayer bpn4096 in Latviešu (bpn4096)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4097 in Latviešu (bpn4097) 
+Prayer bpn4097 (bpn4097) 
 
 [bahaiprayers.net 4097](https://bahaiprayers.net/Book/Single/13/4097)
 
@@ -1418,7 +1418,7 @@ Prayer bpn4097 in Latviešu (bpn4097)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4098 in Latviešu (bpn4098) 
+Prayer bpn4098 (bpn4098) 
 
 [bahaiprayers.net 4098](https://bahaiprayers.net/Book/Single/13/4098)
 
@@ -1431,7 +1431,7 @@ Prayer bpn4098 in Latviešu (bpn4098)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4099 in Latviešu (bpn4099) 
+Prayer bpn4099 (bpn4099) 
 
 [bahaiprayers.net 4099](https://bahaiprayers.net/Book/Single/13/4099)
 
@@ -1444,7 +1444,7 @@ Prayer bpn4099 in Latviešu (bpn4099)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4100 in Latviešu (bpn4100) 
+Prayer bpn4100 (bpn4100) 
 
 [bahaiprayers.net 4100](https://bahaiprayers.net/Book/Single/13/4100)
 
@@ -1457,7 +1457,7 @@ Prayer bpn4100 in Latviešu (bpn4100)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4101 in Latviešu (bpn4101) 
+Prayer bpn4101 (bpn4101) 
 
 [bahaiprayers.net 4101](https://bahaiprayers.net/Book/Single/13/4101)
 
@@ -1474,7 +1474,7 @@ Prayer bpn4101 in Latviešu (bpn4101)
 
 -- Bahá'u'lláh
 
-Prayer bpn2429 in Latviešu (bpn2429) 
+Prayer bpn2429 (bpn2429) 
 
 [bahaiprayers.net 2429](https://bahaiprayers.net/Book/Single/13/2429)
 
@@ -1487,7 +1487,7 @@ Prayer bpn2429 in Latviešu (bpn2429)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2430 in Latviešu (bpn2430) 
+Prayer bpn2430 (bpn2430) 
 
 [bahaiprayers.net 2430](https://bahaiprayers.net/Book/Single/13/2430)
 
@@ -1504,7 +1504,7 @@ Prayer bpn2430 in Latviešu (bpn2430)
 
 -- Bahá'u'lláh
 
-Prayer bpn2431 in Latviešu (bpn2431) 
+Prayer bpn2431 (bpn2431) 
 
 [bahaiprayers.net 2431](https://bahaiprayers.net/Book/Single/13/2431)
 
@@ -1517,7 +1517,7 @@ Prayer bpn2431 in Latviešu (bpn2431)
 
 -- Bahá'u'lláh
 
-Prayer bpn2432 in Latviešu (bpn2432) 
+Prayer bpn2432 (bpn2432) 
 
 [bahaiprayers.net 2432](https://bahaiprayers.net/Book/Single/13/2432)
 
@@ -1534,7 +1534,7 @@ Prayer bpn2432 in Latviešu (bpn2432)
 
 -- Bahá'u'lláh
 
-Prayer bpn2437 in Latviešu (bpn2437) 
+Prayer bpn2437 (bpn2437) 
 
 [bahaiprayers.net 2437](https://bahaiprayers.net/Book/Single/13/2437)
 
@@ -1547,7 +1547,7 @@ Prayer bpn2437 in Latviešu (bpn2437)
 
 -- Bahá'u'lláh
 
-Prayer bpn2438 in Latviešu (bpn2438) 
+Prayer bpn2438 (bpn2438) 
 
 [bahaiprayers.net 2438](https://bahaiprayers.net/Book/Single/13/2438)
 
@@ -1560,7 +1560,7 @@ Prayer bpn2438 in Latviešu (bpn2438)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2433 in Latviešu (bpn2433) 
+Prayer bpn2433 (bpn2433) 
 
 [bahaiprayers.net 2433](https://bahaiprayers.net/Book/Single/13/2433)
 
@@ -1573,7 +1573,7 @@ Prayer bpn2433 in Latviešu (bpn2433)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2434 in Latviešu (bpn2434) 
+Prayer bpn2434 (bpn2434) 
 
 [bahaiprayers.net 2434](https://bahaiprayers.net/Book/Single/13/2434)
 
@@ -1586,7 +1586,7 @@ Prayer bpn2434 in Latviešu (bpn2434)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2435 in Latviešu (bpn2435) 
+Prayer bpn2435 (bpn2435) 
 
 [bahaiprayers.net 2435](https://bahaiprayers.net/Book/Single/13/2435)
 
@@ -1599,7 +1599,7 @@ Prayer bpn2435 in Latviešu (bpn2435)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2436 in Latviešu (bpn2436) 
+Prayer bpn2436 (bpn2436) 
 
 [bahaiprayers.net 2436](https://bahaiprayers.net/Book/Single/13/2436)
 
@@ -1612,7 +1612,7 @@ Prayer bpn2436 in Latviešu (bpn2436)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2439 in Latviešu (bpn2439) 
+Prayer bpn2439 (bpn2439) 
 
 [bahaiprayers.net 2439](https://bahaiprayers.net/Book/Single/13/2439)
 
@@ -1629,7 +1629,7 @@ Prayer bpn2439 in Latviešu (bpn2439)
 
 -- Bahá'u'lláh
 
-Prayer bpn2349 in Latviešu (bpn2349) 
+Prayer bpn2349 (bpn2349) 
 
 [bahaiprayers.net 2349](https://bahaiprayers.net/Book/Single/13/2349)
 
@@ -1646,7 +1646,7 @@ Prayer bpn2349 in Latviešu (bpn2349)
 
 -- Bahá'u'lláh
 
-Prayer bpn2440 in Latviešu (bpn2440) 
+Prayer bpn2440 (bpn2440) 
 
 [bahaiprayers.net 2440](https://bahaiprayers.net/Book/Single/13/2440)
 
@@ -1659,7 +1659,7 @@ Prayer bpn2440 in Latviešu (bpn2440)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2441 in Latviešu (bpn2441) 
+Prayer bpn2441 (bpn2441) 
 
 [bahaiprayers.net 2441](https://bahaiprayers.net/Book/Single/13/2441)
 
@@ -1676,7 +1676,7 @@ Prayer bpn2441 in Latviešu (bpn2441)
 
 -- Bahá'u'lláh
 
-Prayer bpn2442 in Latviešu (bpn2442) 
+Prayer bpn2442 (bpn2442) 
 
 [bahaiprayers.net 2442](https://bahaiprayers.net/Book/Single/13/2442)
 
@@ -1693,7 +1693,7 @@ Prayer bpn2442 in Latviešu (bpn2442)
 
 -- Bahá'u'lláh
 
-Prayer bpn2348 in Latviešu (bpn2348) 
+Prayer bpn2348 (bpn2348) 
 
 [bahaiprayers.net 2348](https://bahaiprayers.net/Book/Single/13/2348)
 

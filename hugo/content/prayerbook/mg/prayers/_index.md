@@ -74,7 +74,7 @@ tags = ['lang=mg', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9368 in Malagasy (bpn9368) 
+Prayer bpn9368 (bpn9368) 
 
 [bahaiprayers.net 9368](https://bahaiprayers.net/Book/Single/82/9368)
 
@@ -91,7 +91,7 @@ Prayer bpn9368 in Malagasy (bpn9368)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9395 in Malagasy (bpn9395) 
+Prayer bpn9395 (bpn9395) 
 
 [bahaiprayers.net 9395](https://bahaiprayers.net/Book/Single/82/9395)
 
@@ -104,7 +104,7 @@ Prayer bpn9395 in Malagasy (bpn9395)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9396 in Malagasy (bpn9396) 
+Prayer bpn9396 (bpn9396) 
 
 [bahaiprayers.net 9396](https://bahaiprayers.net/Book/Single/82/9396)
 
@@ -117,7 +117,7 @@ Prayer bpn9396 in Malagasy (bpn9396)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9397 in Malagasy (bpn9397) 
+Prayer bpn9397 (bpn9397) 
 
 [bahaiprayers.net 9397](https://bahaiprayers.net/Book/Single/82/9397)
 
@@ -130,7 +130,7 @@ Prayer bpn9397 in Malagasy (bpn9397)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9398 in Malagasy (bpn9398) 
+Prayer bpn9398 (bpn9398) 
 
 [bahaiprayers.net 9398](https://bahaiprayers.net/Book/Single/82/9398)
 
@@ -147,7 +147,7 @@ Prayer bpn9398 in Malagasy (bpn9398)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9402 in Malagasy (bpn9402) 
+Prayer bpn9402 (bpn9402) 
 
 [bahaiprayers.net 9402](https://bahaiprayers.net/Book/Single/82/9402)
 
@@ -160,7 +160,7 @@ Prayer bpn9402 in Malagasy (bpn9402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9403 in Malagasy (bpn9403) 
+Prayer bpn9403 (bpn9403) 
 
 [bahaiprayers.net 9403](https://bahaiprayers.net/Book/Single/82/9403)
 
@@ -177,7 +177,7 @@ Prayer bpn9403 in Malagasy (bpn9403)
 
 -- Bahá'u'lláh
 
-Prayer bpn9360 in Malagasy (bpn9360) 
+Prayer bpn9360 (bpn9360) 
 
 [bahaiprayers.net 9360](https://bahaiprayers.net/Book/Single/82/9360)
 
@@ -190,7 +190,7 @@ Prayer bpn9360 in Malagasy (bpn9360)
 
 -- Bahá'u'lláh
 
-Prayer bpn9361 in Malagasy (bpn9361) 
+Prayer bpn9361 (bpn9361) 
 
 [bahaiprayers.net 9361](https://bahaiprayers.net/Book/Single/82/9361)
 
@@ -203,7 +203,7 @@ Prayer bpn9361 in Malagasy (bpn9361)
 
 -- Bahá'u'lláh
 
-Prayer bpn9362 in Malagasy (bpn9362) 
+Prayer bpn9362 (bpn9362) 
 
 [bahaiprayers.net 9362](https://bahaiprayers.net/Book/Single/82/9362)
 
@@ -216,7 +216,7 @@ Prayer bpn9362 in Malagasy (bpn9362)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9399 in Malagasy (bpn9399) 
+Prayer bpn9399 (bpn9399) 
 
 [bahaiprayers.net 9399](https://bahaiprayers.net/Book/Single/82/9399)
 
@@ -233,7 +233,7 @@ Prayer bpn9399 in Malagasy (bpn9399)
 
 -- Bahá'u'lláh
 
-Prayer bpn9358 in Malagasy (bpn9358) 
+Prayer bpn9358 (bpn9358) 
 
 [bahaiprayers.net 9358](https://bahaiprayers.net/Book/Single/82/9358)
 
@@ -246,7 +246,7 @@ Prayer bpn9358 in Malagasy (bpn9358)
 
 -- Bahá'u'lláh
 
-Prayer bpn9359 in Malagasy (bpn9359) 
+Prayer bpn9359 (bpn9359) 
 
 [bahaiprayers.net 9359](https://bahaiprayers.net/Book/Single/82/9359)
 
@@ -263,7 +263,7 @@ Prayer bpn9359 in Malagasy (bpn9359)
 
 -- Bahá'u'lláh
 
-Prayer bpn9339 in Malagasy (bpn9339) 
+Prayer bpn9339 (bpn9339) 
 
 [bahaiprayers.net 9339](https://bahaiprayers.net/Book/Single/82/9339)
 
@@ -276,7 +276,7 @@ Prayer bpn9339 in Malagasy (bpn9339)
 
 -- Bahá'u'lláh
 
-Prayer bpn9340 in Malagasy (bpn9340) 
+Prayer bpn9340 (bpn9340) 
 
 [bahaiprayers.net 9340](https://bahaiprayers.net/Book/Single/82/9340)
 
@@ -289,7 +289,7 @@ Prayer bpn9340 in Malagasy (bpn9340)
 
 -- Báb
 
-Prayer bpn9317 in Malagasy (bpn9317) 
+Prayer bpn9317 (bpn9317) 
 
 [bahaiprayers.net 9317](https://bahaiprayers.net/Book/Single/82/9317)
 
@@ -302,7 +302,7 @@ Prayer bpn9317 in Malagasy (bpn9317)
 
 -- Báb
 
-Prayer bpn9318 in Malagasy (bpn9318) 
+Prayer bpn9318 (bpn9318) 
 
 [bahaiprayers.net 9318](https://bahaiprayers.net/Book/Single/82/9318)
 
@@ -315,7 +315,7 @@ Prayer bpn9318 in Malagasy (bpn9318)
 
 -- Báb
 
-Prayer bpn9319 in Malagasy (bpn9319) 
+Prayer bpn9319 (bpn9319) 
 
 [bahaiprayers.net 9319](https://bahaiprayers.net/Book/Single/82/9319)
 
@@ -328,7 +328,7 @@ Prayer bpn9319 in Malagasy (bpn9319)
 
 -- Báb
 
-Prayer bpn9320 in Malagasy (bpn9320) 
+Prayer bpn9320 (bpn9320) 
 
 [bahaiprayers.net 9320](https://bahaiprayers.net/Book/Single/82/9320)
 
@@ -341,7 +341,7 @@ Prayer bpn9320 in Malagasy (bpn9320)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9378 in Malagasy (bpn9378) 
+Prayer bpn9378 (bpn9378) 
 
 [bahaiprayers.net 9378](https://bahaiprayers.net/Book/Single/82/9378)
 
@@ -354,7 +354,7 @@ Prayer bpn9378 in Malagasy (bpn9378)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9379 in Malagasy (bpn9379) 
+Prayer bpn9379 (bpn9379) 
 
 [bahaiprayers.net 9379](https://bahaiprayers.net/Book/Single/82/9379)
 
@@ -371,7 +371,7 @@ Prayer bpn9379 in Malagasy (bpn9379)
 
 -- Bahá'u'lláh
 
-Prayer bpn9355 in Malagasy (bpn9355) 
+Prayer bpn9355 (bpn9355) 
 
 [bahaiprayers.net 9355](https://bahaiprayers.net/Book/Single/82/9355)
 
@@ -384,7 +384,7 @@ Prayer bpn9355 in Malagasy (bpn9355)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9386 in Malagasy (bpn9386) 
+Prayer bpn9386 (bpn9386) 
 
 [bahaiprayers.net 9386](https://bahaiprayers.net/Book/Single/82/9386)
 
@@ -397,7 +397,7 @@ Prayer bpn9386 in Malagasy (bpn9386)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9387 in Malagasy (bpn9387) 
+Prayer bpn9387 (bpn9387) 
 
 [bahaiprayers.net 9387](https://bahaiprayers.net/Book/Single/82/9387)
 
@@ -410,7 +410,7 @@ Prayer bpn9387 in Malagasy (bpn9387)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9388 in Malagasy (bpn9388) 
+Prayer bpn9388 (bpn9388) 
 
 [bahaiprayers.net 9388](https://bahaiprayers.net/Book/Single/82/9388)
 
@@ -423,7 +423,7 @@ Prayer bpn9388 in Malagasy (bpn9388)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9389 in Malagasy (bpn9389) 
+Prayer bpn9389 (bpn9389) 
 
 [bahaiprayers.net 9389](https://bahaiprayers.net/Book/Single/82/9389)
 
@@ -436,7 +436,7 @@ Prayer bpn9389 in Malagasy (bpn9389)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9390 in Malagasy (bpn9390) 
+Prayer bpn9390 (bpn9390) 
 
 [bahaiprayers.net 9390](https://bahaiprayers.net/Book/Single/82/9390)
 
@@ -449,7 +449,7 @@ Prayer bpn9390 in Malagasy (bpn9390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9391 in Malagasy (bpn9391) 
+Prayer bpn9391 (bpn9391) 
 
 [bahaiprayers.net 9391](https://bahaiprayers.net/Book/Single/82/9391)
 
@@ -466,7 +466,7 @@ Prayer bpn9391 in Malagasy (bpn9391)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9394 in Malagasy (bpn9394) 
+Prayer bpn9394 (bpn9394) 
 
 [bahaiprayers.net 9394](https://bahaiprayers.net/Book/Single/82/9394)
 
@@ -483,7 +483,7 @@ Prayer bpn9394 in Malagasy (bpn9394)
 
 -- Bahá'u'lláh
 
-Prayer bpn9353 in Malagasy (bpn9353) 
+Prayer bpn9353 (bpn9353) 
 
 [bahaiprayers.net 9353](https://bahaiprayers.net/Book/Single/82/9353)
 
@@ -496,7 +496,7 @@ Prayer bpn9353 in Malagasy (bpn9353)
 
 -- Bahá'u'lláh
 
-Prayer bpn9354 in Malagasy (bpn9354) 
+Prayer bpn9354 (bpn9354) 
 
 [bahaiprayers.net 9354](https://bahaiprayers.net/Book/Single/82/9354)
 
@@ -509,7 +509,7 @@ Prayer bpn9354 in Malagasy (bpn9354)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9382 in Malagasy (bpn9382) 
+Prayer bpn9382 (bpn9382) 
 
 [bahaiprayers.net 9382](https://bahaiprayers.net/Book/Single/82/9382)
 
@@ -522,7 +522,7 @@ Prayer bpn9382 in Malagasy (bpn9382)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9383 in Malagasy (bpn9383) 
+Prayer bpn9383 (bpn9383) 
 
 [bahaiprayers.net 9383](https://bahaiprayers.net/Book/Single/82/9383)
 
@@ -535,7 +535,7 @@ Prayer bpn9383 in Malagasy (bpn9383)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9384 in Malagasy (bpn9384) 
+Prayer bpn9384 (bpn9384) 
 
 [bahaiprayers.net 9384](https://bahaiprayers.net/Book/Single/82/9384)
 
@@ -548,7 +548,7 @@ Prayer bpn9384 in Malagasy (bpn9384)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9385 in Malagasy (bpn9385) 
+Prayer bpn9385 (bpn9385) 
 
 [bahaiprayers.net 9385](https://bahaiprayers.net/Book/Single/82/9385)
 
@@ -565,7 +565,7 @@ Prayer bpn9385 in Malagasy (bpn9385)
 
 -- Bahá'u'lláh
 
-Prayer bpn9341 in Malagasy (bpn9341) 
+Prayer bpn9341 (bpn9341) 
 
 [bahaiprayers.net 9341](https://bahaiprayers.net/Book/Single/82/9341)
 
@@ -578,7 +578,7 @@ Prayer bpn9341 in Malagasy (bpn9341)
 
 -- Bahá'u'lláh
 
-Prayer bpn9342 in Malagasy (bpn9342) 
+Prayer bpn9342 (bpn9342) 
 
 [bahaiprayers.net 9342](https://bahaiprayers.net/Book/Single/82/9342)
 
@@ -591,7 +591,7 @@ Prayer bpn9342 in Malagasy (bpn9342)
 
 -- Bahá'u'lláh
 
-Prayer bpn9343 in Malagasy (bpn9343) 
+Prayer bpn9343 (bpn9343) 
 
 [bahaiprayers.net 9343](https://bahaiprayers.net/Book/Single/82/9343)
 
@@ -604,7 +604,7 @@ Prayer bpn9343 in Malagasy (bpn9343)
 
 -- Bahá'u'lláh
 
-Prayer bpn9344 in Malagasy (bpn9344) 
+Prayer bpn9344 (bpn9344) 
 
 [bahaiprayers.net 9344](https://bahaiprayers.net/Book/Single/82/9344)
 
@@ -621,7 +621,7 @@ Prayer bpn9344 in Malagasy (bpn9344)
 
 -- Bahá'u'lláh
 
-Prayer bpn9345 in Malagasy (bpn9345) 
+Prayer bpn9345 (bpn9345) 
 
 [bahaiprayers.net 9345](https://bahaiprayers.net/Book/Single/82/9345)
 
@@ -634,7 +634,7 @@ Prayer bpn9345 in Malagasy (bpn9345)
 
 -- Bahá'u'lláh
 
-Prayer bpn9346 in Malagasy (bpn9346) 
+Prayer bpn9346 (bpn9346) 
 
 [bahaiprayers.net 9346](https://bahaiprayers.net/Book/Single/82/9346)
 
@@ -647,7 +647,7 @@ Prayer bpn9346 in Malagasy (bpn9346)
 
 -- Bahá'u'lláh
 
-Prayer bpn9347 in Malagasy (bpn9347) 
+Prayer bpn9347 (bpn9347) 
 
 [bahaiprayers.net 9347](https://bahaiprayers.net/Book/Single/82/9347)
 
@@ -660,7 +660,7 @@ Prayer bpn9347 in Malagasy (bpn9347)
 
 -- Bahá'u'lláh
 
-Prayer bpn9348 in Malagasy (bpn9348) 
+Prayer bpn9348 (bpn9348) 
 
 [bahaiprayers.net 9348](https://bahaiprayers.net/Book/Single/82/9348)
 
@@ -673,7 +673,7 @@ Prayer bpn9348 in Malagasy (bpn9348)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9380 in Malagasy (bpn9380) 
+Prayer bpn9380 (bpn9380) 
 
 [bahaiprayers.net 9380](https://bahaiprayers.net/Book/Single/82/9380)
 
@@ -686,7 +686,7 @@ Prayer bpn9380 in Malagasy (bpn9380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9381 in Malagasy (bpn9381) 
+Prayer bpn9381 (bpn9381) 
 
 [bahaiprayers.net 9381](https://bahaiprayers.net/Book/Single/82/9381)
 
@@ -703,7 +703,7 @@ Prayer bpn9381 in Malagasy (bpn9381)
 
 -- Bahá'u'lláh
 
-Prayer bpn9327 in Malagasy (bpn9327) 
+Prayer bpn9327 (bpn9327) 
 
 [bahaiprayers.net 9327](https://bahaiprayers.net/Book/Single/82/9327)
 
@@ -716,7 +716,7 @@ Prayer bpn9327 in Malagasy (bpn9327)
 
 -- Bahá'u'lláh
 
-Prayer bpn9328 in Malagasy (bpn9328) 
+Prayer bpn9328 (bpn9328) 
 
 [bahaiprayers.net 9328](https://bahaiprayers.net/Book/Single/82/9328)
 
@@ -729,7 +729,7 @@ Prayer bpn9328 in Malagasy (bpn9328)
 
 -- Bahá'u'lláh
 
-Prayer bpn9329 in Malagasy (bpn9329) 
+Prayer bpn9329 (bpn9329) 
 
 [bahaiprayers.net 9329](https://bahaiprayers.net/Book/Single/82/9329)
 
@@ -742,7 +742,7 @@ Prayer bpn9329 in Malagasy (bpn9329)
 
 -- Bahá'u'lláh
 
-Prayer bpn9330 in Malagasy (bpn9330) 
+Prayer bpn9330 (bpn9330) 
 
 [bahaiprayers.net 9330](https://bahaiprayers.net/Book/Single/82/9330)
 
@@ -755,7 +755,7 @@ Prayer bpn9330 in Malagasy (bpn9330)
 
 -- Bahá'u'lláh
 
-Prayer bpn9331 in Malagasy (bpn9331) 
+Prayer bpn9331 (bpn9331) 
 
 [bahaiprayers.net 9331](https://bahaiprayers.net/Book/Single/82/9331)
 
@@ -768,7 +768,7 @@ Prayer bpn9331 in Malagasy (bpn9331)
 
 -- Báb
 
-Prayer bpn9313 in Malagasy (bpn9313) 
+Prayer bpn9313 (bpn9313) 
 
 [bahaiprayers.net 9313](https://bahaiprayers.net/Book/Single/82/9313)
 
@@ -781,7 +781,7 @@ Prayer bpn9313 in Malagasy (bpn9313)
 
 -- Báb
 
-Prayer bpn9314 in Malagasy (bpn9314) 
+Prayer bpn9314 (bpn9314) 
 
 [bahaiprayers.net 9314](https://bahaiprayers.net/Book/Single/82/9314)
 
@@ -794,7 +794,7 @@ Prayer bpn9314 in Malagasy (bpn9314)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9371 in Malagasy (bpn9371) 
+Prayer bpn9371 (bpn9371) 
 
 [bahaiprayers.net 9371](https://bahaiprayers.net/Book/Single/82/9371)
 
@@ -811,7 +811,7 @@ Prayer bpn9371 in Malagasy (bpn9371)
 
 -- Bahá'u'lláh
 
-Prayer bpn9369 in Malagasy (bpn9369) 
+Prayer bpn9369 (bpn9369) 
 
 [bahaiprayers.net 9369](https://bahaiprayers.net/Book/Single/82/9369)
 
@@ -828,7 +828,7 @@ Prayer bpn9369 in Malagasy (bpn9369)
 
 -- Bahá'u'lláh
 
-Prayer bpn9356 in Malagasy (bpn9356) 
+Prayer bpn9356 (bpn9356) 
 
 [bahaiprayers.net 9356](https://bahaiprayers.net/Book/Single/82/9356)
 
@@ -841,7 +841,7 @@ Prayer bpn9356 in Malagasy (bpn9356)
 
 -- Bahá'u'lláh
 
-Prayer bpn9357 in Malagasy (bpn9357) 
+Prayer bpn9357 (bpn9357) 
 
 [bahaiprayers.net 9357](https://bahaiprayers.net/Book/Single/82/9357)
 
@@ -854,7 +854,7 @@ Prayer bpn9357 in Malagasy (bpn9357)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9392 in Malagasy (bpn9392) 
+Prayer bpn9392 (bpn9392) 
 
 [bahaiprayers.net 9392](https://bahaiprayers.net/Book/Single/82/9392)
 
@@ -871,7 +871,7 @@ Prayer bpn9392 in Malagasy (bpn9392)
 
 -- Bahá'u'lláh
 
-Prayer bpn9349 in Malagasy (bpn9349) 
+Prayer bpn9349 (bpn9349) 
 
 [bahaiprayers.net 9349](https://bahaiprayers.net/Book/Single/82/9349)
 
@@ -884,7 +884,7 @@ Prayer bpn9349 in Malagasy (bpn9349)
 
 -- Bahá'u'lláh
 
-Prayer bpn9350 in Malagasy (bpn9350) 
+Prayer bpn9350 (bpn9350) 
 
 [bahaiprayers.net 9350](https://bahaiprayers.net/Book/Single/82/9350)
 
@@ -897,7 +897,7 @@ Prayer bpn9350 in Malagasy (bpn9350)
 
 -- Bahá'u'lláh
 
-Prayer bpn9351 in Malagasy (bpn9351) 
+Prayer bpn9351 (bpn9351) 
 
 [bahaiprayers.net 9351](https://bahaiprayers.net/Book/Single/82/9351)
 
@@ -910,7 +910,7 @@ Prayer bpn9351 in Malagasy (bpn9351)
 
 -- Bahá'u'lláh
 
-Prayer bpn9352 in Malagasy (bpn9352) 
+Prayer bpn9352 (bpn9352) 
 
 [bahaiprayers.net 9352](https://bahaiprayers.net/Book/Single/82/9352)
 
@@ -923,7 +923,7 @@ Prayer bpn9352 in Malagasy (bpn9352)
 
 -- Báb
 
-Prayer bpn9310 in Malagasy (bpn9310) 
+Prayer bpn9310 (bpn9310) 
 
 [bahaiprayers.net 9310](https://bahaiprayers.net/Book/Single/82/9310)
 
@@ -936,7 +936,7 @@ Prayer bpn9310 in Malagasy (bpn9310)
 
 -- Báb
 
-Prayer bpn9311 in Malagasy (bpn9311) 
+Prayer bpn9311 (bpn9311) 
 
 [bahaiprayers.net 9311](https://bahaiprayers.net/Book/Single/82/9311)
 
@@ -949,7 +949,7 @@ Prayer bpn9311 in Malagasy (bpn9311)
 
 -- Báb
 
-Prayer bpn9312 in Malagasy (bpn9312) 
+Prayer bpn9312 (bpn9312) 
 
 [bahaiprayers.net 9312](https://bahaiprayers.net/Book/Single/82/9312)
 
@@ -966,7 +966,7 @@ Prayer bpn9312 in Malagasy (bpn9312)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9401 in Malagasy (bpn9401) 
+Prayer bpn9401 (bpn9401) 
 
 [bahaiprayers.net 9401](https://bahaiprayers.net/Book/Single/82/9401)
 
@@ -983,7 +983,7 @@ Prayer bpn9401 in Malagasy (bpn9401)
 
 -- Bahá'u'lláh
 
-Prayer bpn9325 in Malagasy (bpn9325) 
+Prayer bpn9325 (bpn9325) 
 
 [bahaiprayers.net 9325](https://bahaiprayers.net/Book/Single/82/9325)
 
@@ -996,7 +996,7 @@ Prayer bpn9325 in Malagasy (bpn9325)
 
 -- Bahá'u'lláh
 
-Prayer bpn9326 in Malagasy (bpn9326) 
+Prayer bpn9326 (bpn9326) 
 
 [bahaiprayers.net 9326](https://bahaiprayers.net/Book/Single/82/9326)
 
@@ -1013,7 +1013,7 @@ Prayer bpn9326 in Malagasy (bpn9326)
 
 -- Bahá'u'lláh
 
-Prayer bpn9321 in Malagasy (bpn9321) 
+Prayer bpn9321 (bpn9321) 
 
 [bahaiprayers.net 9321](https://bahaiprayers.net/Book/Single/82/9321)
 
@@ -1030,7 +1030,7 @@ Prayer bpn9321 in Malagasy (bpn9321)
 
 -- Bahá'u'lláh
 
-Prayer bpn9322 in Malagasy (bpn9322) 
+Prayer bpn9322 (bpn9322) 
 
 [bahaiprayers.net 9322](https://bahaiprayers.net/Book/Single/82/9322)
 
@@ -1043,7 +1043,7 @@ Prayer bpn9322 in Malagasy (bpn9322)
 
 -- Bahá'u'lláh
 
-Prayer bpn9323 in Malagasy (bpn9323) 
+Prayer bpn9323 (bpn9323) 
 
 [bahaiprayers.net 9323](https://bahaiprayers.net/Book/Single/82/9323)
 
@@ -1056,7 +1056,7 @@ Prayer bpn9323 in Malagasy (bpn9323)
 
 -- Bahá'u'lláh
 
-Prayer bpn9324 in Malagasy (bpn9324) 
+Prayer bpn9324 (bpn9324) 
 
 [bahaiprayers.net 9324](https://bahaiprayers.net/Book/Single/82/9324)
 
@@ -1073,7 +1073,7 @@ Prayer bpn9324 in Malagasy (bpn9324)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9372 in Malagasy (bpn9372) 
+Prayer bpn9372 (bpn9372) 
 
 [bahaiprayers.net 9372](https://bahaiprayers.net/Book/Single/82/9372)
 
@@ -1090,7 +1090,7 @@ Prayer bpn9372 in Malagasy (bpn9372)
 
 -- Bahá'u'lláh
 
-Prayer bpn9363 in Malagasy (bpn9363) 
+Prayer bpn9363 (bpn9363) 
 
 [bahaiprayers.net 9363](https://bahaiprayers.net/Book/Single/82/9363)
 
@@ -1103,7 +1103,7 @@ Prayer bpn9363 in Malagasy (bpn9363)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9400 in Malagasy (bpn9400) 
+Prayer bpn9400 (bpn9400) 
 
 [bahaiprayers.net 9400](https://bahaiprayers.net/Book/Single/82/9400)
 
@@ -1120,7 +1120,7 @@ Prayer bpn9400 in Malagasy (bpn9400)
 
 -- Bahá'u'lláh
 
-Prayer bpn12866 in Malagasy (bpn12866) 
+Prayer bpn12866 (bpn12866) 
 
 [bahaiprayers.net 12866](https://bahaiprayers.net/Book/Single/82/12866)
 
@@ -1137,7 +1137,7 @@ Prayer bpn12866 in Malagasy (bpn12866)
 
 -- Bahá'u'lláh
 
-Prayer bpn9367 in Malagasy (bpn9367) 
+Prayer bpn9367 (bpn9367) 
 
 [bahaiprayers.net 9367](https://bahaiprayers.net/Book/Single/82/9367)
 
@@ -1154,7 +1154,7 @@ Prayer bpn9367 in Malagasy (bpn9367)
 
 -- Bahá'u'lláh
 
-Prayer bpn9370 in Malagasy (bpn9370) 
+Prayer bpn9370 (bpn9370) 
 
 [bahaiprayers.net 9370](https://bahaiprayers.net/Book/Single/82/9370)
 
@@ -1171,7 +1171,7 @@ Prayer bpn9370 in Malagasy (bpn9370)
 
 -- Bahá'u'lláh
 
-Prayer bpn9332 in Malagasy (bpn9332) 
+Prayer bpn9332 (bpn9332) 
 
 [bahaiprayers.net 9332](https://bahaiprayers.net/Book/Single/82/9332)
 
@@ -1184,7 +1184,7 @@ Prayer bpn9332 in Malagasy (bpn9332)
 
 -- Bahá'u'lláh
 
-Prayer bpn9333 in Malagasy (bpn9333) 
+Prayer bpn9333 (bpn9333) 
 
 [bahaiprayers.net 9333](https://bahaiprayers.net/Book/Single/82/9333)
 
@@ -1197,7 +1197,7 @@ Prayer bpn9333 in Malagasy (bpn9333)
 
 -- Bahá'u'lláh
 
-Prayer bpn9334 in Malagasy (bpn9334) 
+Prayer bpn9334 (bpn9334) 
 
 [bahaiprayers.net 9334](https://bahaiprayers.net/Book/Single/82/9334)
 
@@ -1210,7 +1210,7 @@ Prayer bpn9334 in Malagasy (bpn9334)
 
 -- Bahá'u'lláh
 
-Prayer bpn9335 in Malagasy (bpn9335) 
+Prayer bpn9335 (bpn9335) 
 
 [bahaiprayers.net 9335](https://bahaiprayers.net/Book/Single/82/9335)
 
@@ -1223,7 +1223,7 @@ Prayer bpn9335 in Malagasy (bpn9335)
 
 -- Bahá'u'lláh
 
-Prayer bpn9336 in Malagasy (bpn9336) 
+Prayer bpn9336 (bpn9336) 
 
 [bahaiprayers.net 9336](https://bahaiprayers.net/Book/Single/82/9336)
 
@@ -1236,7 +1236,7 @@ Prayer bpn9336 in Malagasy (bpn9336)
 
 -- Bahá'u'lláh
 
-Prayer bpn9337 in Malagasy (bpn9337) 
+Prayer bpn9337 (bpn9337) 
 
 [bahaiprayers.net 9337](https://bahaiprayers.net/Book/Single/82/9337)
 
@@ -1249,7 +1249,7 @@ Prayer bpn9337 in Malagasy (bpn9337)
 
 -- Bahá'u'lláh
 
-Prayer bpn9338 in Malagasy (bpn9338) 
+Prayer bpn9338 (bpn9338) 
 
 [bahaiprayers.net 9338](https://bahaiprayers.net/Book/Single/82/9338)
 
@@ -1262,7 +1262,7 @@ Prayer bpn9338 in Malagasy (bpn9338)
 
 -- Báb
 
-Prayer bpn9315 in Malagasy (bpn9315) 
+Prayer bpn9315 (bpn9315) 
 
 [bahaiprayers.net 9315](https://bahaiprayers.net/Book/Single/82/9315)
 
@@ -1275,7 +1275,7 @@ Prayer bpn9315 in Malagasy (bpn9315)
 
 -- Báb
 
-Prayer bpn9316 in Malagasy (bpn9316) 
+Prayer bpn9316 (bpn9316) 
 
 [bahaiprayers.net 9316](https://bahaiprayers.net/Book/Single/82/9316)
 
@@ -1288,7 +1288,7 @@ Prayer bpn9316 in Malagasy (bpn9316)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9373 in Malagasy (bpn9373) 
+Prayer bpn9373 (bpn9373) 
 
 [bahaiprayers.net 9373](https://bahaiprayers.net/Book/Single/82/9373)
 
@@ -1301,7 +1301,7 @@ Prayer bpn9373 in Malagasy (bpn9373)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9374 in Malagasy (bpn9374) 
+Prayer bpn9374 (bpn9374) 
 
 [bahaiprayers.net 9374](https://bahaiprayers.net/Book/Single/82/9374)
 
@@ -1314,7 +1314,7 @@ Prayer bpn9374 in Malagasy (bpn9374)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9375 in Malagasy (bpn9375) 
+Prayer bpn9375 (bpn9375) 
 
 [bahaiprayers.net 9375](https://bahaiprayers.net/Book/Single/82/9375)
 
@@ -1327,7 +1327,7 @@ Prayer bpn9375 in Malagasy (bpn9375)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9376 in Malagasy (bpn9376) 
+Prayer bpn9376 (bpn9376) 
 
 [bahaiprayers.net 9376](https://bahaiprayers.net/Book/Single/82/9376)
 
@@ -1340,7 +1340,7 @@ Prayer bpn9376 in Malagasy (bpn9376)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9377 in Malagasy (bpn9377) 
+Prayer bpn9377 (bpn9377) 
 
 [bahaiprayers.net 9377](https://bahaiprayers.net/Book/Single/82/9377)
 
@@ -1357,7 +1357,7 @@ Prayer bpn9377 in Malagasy (bpn9377)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9404 in Malagasy (bpn9404) 
+Prayer bpn9404 (bpn9404) 
 
 [bahaiprayers.net 9404](https://bahaiprayers.net/Book/Single/82/9404)
 
@@ -1374,7 +1374,7 @@ Prayer bpn9404 in Malagasy (bpn9404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9393 in Malagasy (bpn9393) 
+Prayer bpn9393 (bpn9393) 
 
 [bahaiprayers.net 9393](https://bahaiprayers.net/Book/Single/82/9393)
 
@@ -1391,7 +1391,7 @@ Prayer bpn9393 in Malagasy (bpn9393)
 
 -- Bahá'u'lláh
 
-Prayer bpn12864 in Malagasy (bpn12864) 
+Prayer bpn12864 (bpn12864) 
 
 [bahaiprayers.net 12864](https://bahaiprayers.net/Book/Single/82/12864)
 
@@ -1404,7 +1404,7 @@ Prayer bpn12864 in Malagasy (bpn12864)
 
 -- Bahá'u'lláh
 
-Prayer bpn12865 in Malagasy (bpn12865) 
+Prayer bpn12865 (bpn12865) 
 
 [bahaiprayers.net 12865](https://bahaiprayers.net/Book/Single/82/12865)
 
@@ -1421,7 +1421,7 @@ Prayer bpn12865 in Malagasy (bpn12865)
 
 -- Bahá'u'lláh
 
-Prayer bpn9364 in Malagasy (bpn9364) 
+Prayer bpn9364 (bpn9364) 
 
 [bahaiprayers.net 9364](https://bahaiprayers.net/Book/Single/82/9364)
 
@@ -1434,7 +1434,7 @@ Prayer bpn9364 in Malagasy (bpn9364)
 
 -- Bahá'u'lláh
 
-Prayer bpn9365 in Malagasy (bpn9365) 
+Prayer bpn9365 (bpn9365) 
 
 [bahaiprayers.net 9365](https://bahaiprayers.net/Book/Single/82/9365)
 
@@ -1447,7 +1447,7 @@ Prayer bpn9365 in Malagasy (bpn9365)
 
 -- Bahá'u'lláh
 
-Prayer bpn9366 in Malagasy (bpn9366) 
+Prayer bpn9366 (bpn9366) 
 
 [bahaiprayers.net 9366](https://bahaiprayers.net/Book/Single/82/9366)
 

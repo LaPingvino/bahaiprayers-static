@@ -126,7 +126,7 @@ tags = ['lang=ms', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12192 in Bahasa Melayu (bpn12192) 
+Prayer bpn12192 (bpn12192) 
 
 [bahaiprayers.net 12192](https://bahaiprayers.net/Book/Single/104/12192)
 
@@ -143,7 +143,7 @@ Prayer bpn12192 in Bahasa Melayu (bpn12192)
 
 -- Bahá'u'lláh
 
-Prayer bpn12039 in Bahasa Melayu (bpn12039) 
+Prayer bpn12039 (bpn12039) 
 
 [bahaiprayers.net 12039](https://bahaiprayers.net/Book/Single/104/12039)
 
@@ -156,7 +156,7 @@ Prayer bpn12039 in Bahasa Melayu (bpn12039)
 
 -- Bahá'u'lláh
 
-Prayer bpn12040 in Bahasa Melayu (bpn12040) 
+Prayer bpn12040 (bpn12040) 
 
 [bahaiprayers.net 12040](https://bahaiprayers.net/Book/Single/104/12040)
 
@@ -169,7 +169,7 @@ Prayer bpn12040 in Bahasa Melayu (bpn12040)
 
 -- Bahá'u'lláh
 
-Prayer bpn12041 in Bahasa Melayu (bpn12041) 
+Prayer bpn12041 (bpn12041) 
 
 [bahaiprayers.net 12041](https://bahaiprayers.net/Book/Single/104/12041)
 
@@ -182,7 +182,7 @@ Prayer bpn12041 in Bahasa Melayu (bpn12041)
 
 -- Bahá'u'lláh
 
-Prayer bpn12042 in Bahasa Melayu (bpn12042) 
+Prayer bpn12042 (bpn12042) 
 
 [bahaiprayers.net 12042](https://bahaiprayers.net/Book/Single/104/12042)
 
@@ -195,7 +195,7 @@ Prayer bpn12042 in Bahasa Melayu (bpn12042)
 
 -- Báb
 
-Prayer bpn12043 in Bahasa Melayu (bpn12043) 
+Prayer bpn12043 (bpn12043) 
 
 [bahaiprayers.net 12043](https://bahaiprayers.net/Book/Single/104/12043)
 
@@ -208,7 +208,7 @@ Prayer bpn12043 in Bahasa Melayu (bpn12043)
 
 -- Báb
 
-Prayer bpn12044 in Bahasa Melayu (bpn12044) 
+Prayer bpn12044 (bpn12044) 
 
 [bahaiprayers.net 12044](https://bahaiprayers.net/Book/Single/104/12044)
 
@@ -221,7 +221,7 @@ Prayer bpn12044 in Bahasa Melayu (bpn12044)
 
 -- Báb
 
-Prayer bpn12045 in Bahasa Melayu (bpn12045) 
+Prayer bpn12045 (bpn12045) 
 
 [bahaiprayers.net 12045](https://bahaiprayers.net/Book/Single/104/12045)
 
@@ -234,7 +234,7 @@ Prayer bpn12045 in Bahasa Melayu (bpn12045)
 
 -- Báb
 
-Prayer bpn12046 in Bahasa Melayu (bpn12046) 
+Prayer bpn12046 (bpn12046) 
 
 [bahaiprayers.net 12046](https://bahaiprayers.net/Book/Single/104/12046)
 
@@ -247,7 +247,7 @@ Prayer bpn12046 in Bahasa Melayu (bpn12046)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12047 in Bahasa Melayu (bpn12047) 
+Prayer bpn12047 (bpn12047) 
 
 [bahaiprayers.net 12047](https://bahaiprayers.net/Book/Single/104/12047)
 
@@ -260,7 +260,7 @@ Prayer bpn12047 in Bahasa Melayu (bpn12047)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12048 in Bahasa Melayu (bpn12048) 
+Prayer bpn12048 (bpn12048) 
 
 [bahaiprayers.net 12048](https://bahaiprayers.net/Book/Single/104/12048)
 
@@ -273,7 +273,7 @@ Prayer bpn12048 in Bahasa Melayu (bpn12048)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12049 in Bahasa Melayu (bpn12049) 
+Prayer bpn12049 (bpn12049) 
 
 [bahaiprayers.net 12049](https://bahaiprayers.net/Book/Single/104/12049)
 
@@ -290,7 +290,7 @@ Prayer bpn12049 in Bahasa Melayu (bpn12049)
 
 -- Bahá'u'lláh
 
-Prayer bpn12036 in Bahasa Melayu (bpn12036) 
+Prayer bpn12036 (bpn12036) 
 
 [bahaiprayers.net 12036](https://bahaiprayers.net/Book/Single/104/12036)
 
@@ -303,7 +303,7 @@ Prayer bpn12036 in Bahasa Melayu (bpn12036)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12037 in Bahasa Melayu (bpn12037) 
+Prayer bpn12037 (bpn12037) 
 
 [bahaiprayers.net 12037](https://bahaiprayers.net/Book/Single/104/12037)
 
@@ -316,7 +316,7 @@ Prayer bpn12037 in Bahasa Melayu (bpn12037)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12038 in Bahasa Melayu (bpn12038) 
+Prayer bpn12038 (bpn12038) 
 
 [bahaiprayers.net 12038](https://bahaiprayers.net/Book/Single/104/12038)
 
@@ -333,7 +333,7 @@ Prayer bpn12038 in Bahasa Melayu (bpn12038)
 
 -- Bahá'u'lláh
 
-Prayer bpn12050 in Bahasa Melayu (bpn12050) 
+Prayer bpn12050 (bpn12050) 
 
 [bahaiprayers.net 12050](https://bahaiprayers.net/Book/Single/104/12050)
 
@@ -350,7 +350,7 @@ Prayer bpn12050 in Bahasa Melayu (bpn12050)
 
 -- Bahá'u'lláh
 
-Prayer bpn12051 in Bahasa Melayu (bpn12051) 
+Prayer bpn12051 (bpn12051) 
 
 [bahaiprayers.net 12051](https://bahaiprayers.net/Book/Single/104/12051)
 
@@ -363,7 +363,7 @@ Prayer bpn12051 in Bahasa Melayu (bpn12051)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12052 in Bahasa Melayu (bpn12052) 
+Prayer bpn12052 (bpn12052) 
 
 [bahaiprayers.net 12052](https://bahaiprayers.net/Book/Single/104/12052)
 
@@ -376,7 +376,7 @@ Prayer bpn12052 in Bahasa Melayu (bpn12052)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12053 in Bahasa Melayu (bpn12053) 
+Prayer bpn12053 (bpn12053) 
 
 [bahaiprayers.net 12053](https://bahaiprayers.net/Book/Single/104/12053)
 
@@ -393,7 +393,7 @@ Prayer bpn12053 in Bahasa Melayu (bpn12053)
 
 -- Bahá'u'lláh
 
-Prayer bpn12054 in Bahasa Melayu (bpn12054) 
+Prayer bpn12054 (bpn12054) 
 
 [bahaiprayers.net 12054](https://bahaiprayers.net/Book/Single/104/12054)
 
@@ -410,7 +410,7 @@ Prayer bpn12054 in Bahasa Melayu (bpn12054)
 
 -- Bahá'u'lláh
 
-Prayer bpn12055 in Bahasa Melayu (bpn12055) 
+Prayer bpn12055 (bpn12055) 
 
 [bahaiprayers.net 12055](https://bahaiprayers.net/Book/Single/104/12055)
 
@@ -423,7 +423,7 @@ Prayer bpn12055 in Bahasa Melayu (bpn12055)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12056 in Bahasa Melayu (bpn12056) 
+Prayer bpn12056 (bpn12056) 
 
 [bahaiprayers.net 12056](https://bahaiprayers.net/Book/Single/104/12056)
 
@@ -436,7 +436,7 @@ Prayer bpn12056 in Bahasa Melayu (bpn12056)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12057 in Bahasa Melayu (bpn12057) 
+Prayer bpn12057 (bpn12057) 
 
 [bahaiprayers.net 12057](https://bahaiprayers.net/Book/Single/104/12057)
 
@@ -453,7 +453,7 @@ Prayer bpn12057 in Bahasa Melayu (bpn12057)
 
 -- Bahá'u'lláh
 
-Prayer bpn12058 in Bahasa Melayu (bpn12058) 
+Prayer bpn12058 (bpn12058) 
 
 [bahaiprayers.net 12058](https://bahaiprayers.net/Book/Single/104/12058)
 
@@ -466,7 +466,7 @@ Prayer bpn12058 in Bahasa Melayu (bpn12058)
 
 -- Bahá'u'lláh
 
-Prayer bpn12059 in Bahasa Melayu (bpn12059) 
+Prayer bpn12059 (bpn12059) 
 
 [bahaiprayers.net 12059](https://bahaiprayers.net/Book/Single/104/12059)
 
@@ -479,7 +479,7 @@ Prayer bpn12059 in Bahasa Melayu (bpn12059)
 
 -- Bahá'u'lláh
 
-Prayer bpn12060 in Bahasa Melayu (bpn12060) 
+Prayer bpn12060 (bpn12060) 
 
 [bahaiprayers.net 12060](https://bahaiprayers.net/Book/Single/104/12060)
 
@@ -492,7 +492,7 @@ Prayer bpn12060 in Bahasa Melayu (bpn12060)
 
 -- Bahá'u'lláh
 
-Prayer bpn12061 in Bahasa Melayu (bpn12061) 
+Prayer bpn12061 (bpn12061) 
 
 [bahaiprayers.net 12061](https://bahaiprayers.net/Book/Single/104/12061)
 
@@ -505,7 +505,7 @@ Prayer bpn12061 in Bahasa Melayu (bpn12061)
 
 -- Bahá'u'lláh
 
-Prayer bpn12064 in Bahasa Melayu (bpn12064) 
+Prayer bpn12064 (bpn12064) 
 
 [bahaiprayers.net 12064](https://bahaiprayers.net/Book/Single/104/12064)
 
@@ -518,7 +518,7 @@ Prayer bpn12064 in Bahasa Melayu (bpn12064)
 
 -- Báb
 
-Prayer bpn12062 in Bahasa Melayu (bpn12062) 
+Prayer bpn12062 (bpn12062) 
 
 [bahaiprayers.net 12062](https://bahaiprayers.net/Book/Single/104/12062)
 
@@ -531,7 +531,7 @@ Prayer bpn12062 in Bahasa Melayu (bpn12062)
 
 -- Báb
 
-Prayer bpn12063 in Bahasa Melayu (bpn12063) 
+Prayer bpn12063 (bpn12063) 
 
 [bahaiprayers.net 12063](https://bahaiprayers.net/Book/Single/104/12063)
 
@@ -544,7 +544,7 @@ Prayer bpn12063 in Bahasa Melayu (bpn12063)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12065 in Bahasa Melayu (bpn12065) 
+Prayer bpn12065 (bpn12065) 
 
 [bahaiprayers.net 12065](https://bahaiprayers.net/Book/Single/104/12065)
 
@@ -557,7 +557,7 @@ Prayer bpn12065 in Bahasa Melayu (bpn12065)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12066 in Bahasa Melayu (bpn12066) 
+Prayer bpn12066 (bpn12066) 
 
 [bahaiprayers.net 12066](https://bahaiprayers.net/Book/Single/104/12066)
 
@@ -574,7 +574,7 @@ Prayer bpn12066 in Bahasa Melayu (bpn12066)
 
 -- Bahá'u'lláh
 
-Prayer bpn12067 in Bahasa Melayu (bpn12067) 
+Prayer bpn12067 (bpn12067) 
 
 [bahaiprayers.net 12067](https://bahaiprayers.net/Book/Single/104/12067)
 
@@ -587,7 +587,7 @@ Prayer bpn12067 in Bahasa Melayu (bpn12067)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12068 in Bahasa Melayu (bpn12068) 
+Prayer bpn12068 (bpn12068) 
 
 [bahaiprayers.net 12068](https://bahaiprayers.net/Book/Single/104/12068)
 
@@ -604,7 +604,7 @@ Prayer bpn12068 in Bahasa Melayu (bpn12068)
 
 -- Bahá'u'lláh
 
-Prayer bpn12187 in Bahasa Melayu (bpn12187) 
+Prayer bpn12187 (bpn12187) 
 
 [bahaiprayers.net 12187](https://bahaiprayers.net/Book/Single/104/12187)
 
@@ -621,7 +621,7 @@ Prayer bpn12187 in Bahasa Melayu (bpn12187)
 
 -- Bahá'u'lláh
 
-Prayer bpn12115 in Bahasa Melayu (bpn12115) 
+Prayer bpn12115 (bpn12115) 
 
 [bahaiprayers.net 12115](https://bahaiprayers.net/Book/Single/104/12115)
 
@@ -638,7 +638,7 @@ Prayer bpn12115 in Bahasa Melayu (bpn12115)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12129 in Bahasa Melayu (bpn12129) 
+Prayer bpn12129 (bpn12129) 
 
 [bahaiprayers.net 12129](https://bahaiprayers.net/Book/Single/104/12129)
 
@@ -655,7 +655,7 @@ Prayer bpn12129 in Bahasa Melayu (bpn12129)
 
 -- Bahá'u'lláh
 
-Prayer bpn12034 in Bahasa Melayu (bpn12034) 
+Prayer bpn12034 (bpn12034) 
 
 [bahaiprayers.net 12034](https://bahaiprayers.net/Book/Single/104/12034)
 
@@ -672,7 +672,7 @@ Prayer bpn12034 in Bahasa Melayu (bpn12034)
 
 -- Bahá'u'lláh
 
-Prayer bpn12035 in Bahasa Melayu (bpn12035) 
+Prayer bpn12035 (bpn12035) 
 
 [bahaiprayers.net 12035](https://bahaiprayers.net/Book/Single/104/12035)
 
@@ -689,7 +689,7 @@ Prayer bpn12035 in Bahasa Melayu (bpn12035)
 
 -- Bahá'u'lláh
 
-Prayer bpn12033 in Bahasa Melayu (bpn12033) 
+Prayer bpn12033 (bpn12033) 
 
 [bahaiprayers.net 12033](https://bahaiprayers.net/Book/Single/104/12033)
 
@@ -706,7 +706,7 @@ Prayer bpn12033 in Bahasa Melayu (bpn12033)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12147 in Bahasa Melayu (bpn12147) 
+Prayer bpn12147 (bpn12147) 
 
 [bahaiprayers.net 12147](https://bahaiprayers.net/Book/Single/104/12147)
 
@@ -719,7 +719,7 @@ Prayer bpn12147 in Bahasa Melayu (bpn12147)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12148 in Bahasa Melayu (bpn12148) 
+Prayer bpn12148 (bpn12148) 
 
 [bahaiprayers.net 12148](https://bahaiprayers.net/Book/Single/104/12148)
 
@@ -736,7 +736,7 @@ Prayer bpn12148 in Bahasa Melayu (bpn12148)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12202 in Bahasa Melayu (bpn12202) 
+Prayer bpn12202 (bpn12202) 
 
 [bahaiprayers.net 12202](https://bahaiprayers.net/Book/Single/104/12202)
 
@@ -753,7 +753,7 @@ Prayer bpn12202 in Bahasa Melayu (bpn12202)
 
 -- Bahá'u'lláh
 
-Prayer bpn12069 in Bahasa Melayu (bpn12069) 
+Prayer bpn12069 (bpn12069) 
 
 [bahaiprayers.net 12069](https://bahaiprayers.net/Book/Single/104/12069)
 
@@ -766,7 +766,7 @@ Prayer bpn12069 in Bahasa Melayu (bpn12069)
 
 -- Bahá'u'lláh
 
-Prayer bpn12070 in Bahasa Melayu (bpn12070) 
+Prayer bpn12070 (bpn12070) 
 
 [bahaiprayers.net 12070](https://bahaiprayers.net/Book/Single/104/12070)
 
@@ -783,7 +783,7 @@ Prayer bpn12070 in Bahasa Melayu (bpn12070)
 
 -- Bahá'u'lláh
 
-Prayer bpn12073 in Bahasa Melayu (bpn12073) 
+Prayer bpn12073 (bpn12073) 
 
 [bahaiprayers.net 12073](https://bahaiprayers.net/Book/Single/104/12073)
 
@@ -796,7 +796,7 @@ Prayer bpn12073 in Bahasa Melayu (bpn12073)
 
 -- Báb
 
-Prayer bpn12074 in Bahasa Melayu (bpn12074) 
+Prayer bpn12074 (bpn12074) 
 
 [bahaiprayers.net 12074](https://bahaiprayers.net/Book/Single/104/12074)
 
@@ -809,7 +809,7 @@ Prayer bpn12074 in Bahasa Melayu (bpn12074)
 
 -- Báb
 
-Prayer bpn12075 in Bahasa Melayu (bpn12075) 
+Prayer bpn12075 (bpn12075) 
 
 [bahaiprayers.net 12075](https://bahaiprayers.net/Book/Single/104/12075)
 
@@ -822,7 +822,7 @@ Prayer bpn12075 in Bahasa Melayu (bpn12075)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12076 in Bahasa Melayu (bpn12076) 
+Prayer bpn12076 (bpn12076) 
 
 [bahaiprayers.net 12076](https://bahaiprayers.net/Book/Single/104/12076)
 
@@ -835,7 +835,7 @@ Prayer bpn12076 in Bahasa Melayu (bpn12076)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12077 in Bahasa Melayu (bpn12077) 
+Prayer bpn12077 (bpn12077) 
 
 [bahaiprayers.net 12077](https://bahaiprayers.net/Book/Single/104/12077)
 
@@ -852,7 +852,7 @@ Prayer bpn12077 in Bahasa Melayu (bpn12077)
 
 -- Bahá'u'lláh
 
-Prayer bpn12078 in Bahasa Melayu (bpn12078) 
+Prayer bpn12078 (bpn12078) 
 
 [bahaiprayers.net 12078](https://bahaiprayers.net/Book/Single/104/12078)
 
@@ -865,7 +865,7 @@ Prayer bpn12078 in Bahasa Melayu (bpn12078)
 
 -- Bahá'u'lláh
 
-Prayer bpn12079 in Bahasa Melayu (bpn12079) 
+Prayer bpn12079 (bpn12079) 
 
 [bahaiprayers.net 12079](https://bahaiprayers.net/Book/Single/104/12079)
 
@@ -878,7 +878,7 @@ Prayer bpn12079 in Bahasa Melayu (bpn12079)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12080 in Bahasa Melayu (bpn12080) 
+Prayer bpn12080 (bpn12080) 
 
 [bahaiprayers.net 12080](https://bahaiprayers.net/Book/Single/104/12080)
 
@@ -891,7 +891,7 @@ Prayer bpn12080 in Bahasa Melayu (bpn12080)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12081 in Bahasa Melayu (bpn12081) 
+Prayer bpn12081 (bpn12081) 
 
 [bahaiprayers.net 12081](https://bahaiprayers.net/Book/Single/104/12081)
 
@@ -904,7 +904,7 @@ Prayer bpn12081 in Bahasa Melayu (bpn12081)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12082 in Bahasa Melayu (bpn12082) 
+Prayer bpn12082 (bpn12082) 
 
 [bahaiprayers.net 12082](https://bahaiprayers.net/Book/Single/104/12082)
 
@@ -917,7 +917,7 @@ Prayer bpn12082 in Bahasa Melayu (bpn12082)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12083 in Bahasa Melayu (bpn12083) 
+Prayer bpn12083 (bpn12083) 
 
 [bahaiprayers.net 12083](https://bahaiprayers.net/Book/Single/104/12083)
 
@@ -930,7 +930,7 @@ Prayer bpn12083 in Bahasa Melayu (bpn12083)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12084 in Bahasa Melayu (bpn12084) 
+Prayer bpn12084 (bpn12084) 
 
 [bahaiprayers.net 12084](https://bahaiprayers.net/Book/Single/104/12084)
 
@@ -943,7 +943,7 @@ Prayer bpn12084 in Bahasa Melayu (bpn12084)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12085 in Bahasa Melayu (bpn12085) 
+Prayer bpn12085 (bpn12085) 
 
 [bahaiprayers.net 12085](https://bahaiprayers.net/Book/Single/104/12085)
 
@@ -956,7 +956,7 @@ Prayer bpn12085 in Bahasa Melayu (bpn12085)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12086 in Bahasa Melayu (bpn12086) 
+Prayer bpn12086 (bpn12086) 
 
 [bahaiprayers.net 12086](https://bahaiprayers.net/Book/Single/104/12086)
 
@@ -969,7 +969,7 @@ Prayer bpn12086 in Bahasa Melayu (bpn12086)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12087 in Bahasa Melayu (bpn12087) 
+Prayer bpn12087 (bpn12087) 
 
 [bahaiprayers.net 12087](https://bahaiprayers.net/Book/Single/104/12087)
 
@@ -982,7 +982,7 @@ Prayer bpn12087 in Bahasa Melayu (bpn12087)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12088 in Bahasa Melayu (bpn12088) 
+Prayer bpn12088 (bpn12088) 
 
 [bahaiprayers.net 12088](https://bahaiprayers.net/Book/Single/104/12088)
 
@@ -995,7 +995,7 @@ Prayer bpn12088 in Bahasa Melayu (bpn12088)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12089 in Bahasa Melayu (bpn12089) 
+Prayer bpn12089 (bpn12089) 
 
 [bahaiprayers.net 12089](https://bahaiprayers.net/Book/Single/104/12089)
 
@@ -1012,7 +1012,7 @@ Prayer bpn12089 in Bahasa Melayu (bpn12089)
 
 -- Bahá'u'lláh
 
-Prayer bpn12090 in Bahasa Melayu (bpn12090) 
+Prayer bpn12090 (bpn12090) 
 
 [bahaiprayers.net 12090](https://bahaiprayers.net/Book/Single/104/12090)
 
@@ -1025,7 +1025,7 @@ Prayer bpn12090 in Bahasa Melayu (bpn12090)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12091 in Bahasa Melayu (bpn12091) 
+Prayer bpn12091 (bpn12091) 
 
 [bahaiprayers.net 12091](https://bahaiprayers.net/Book/Single/104/12091)
 
@@ -1042,7 +1042,7 @@ Prayer bpn12091 in Bahasa Melayu (bpn12091)
 
 -- Bahá'u'lláh
 
-Prayer bpn12092 in Bahasa Melayu (bpn12092) 
+Prayer bpn12092 (bpn12092) 
 
 [bahaiprayers.net 12092](https://bahaiprayers.net/Book/Single/104/12092)
 
@@ -1055,7 +1055,7 @@ Prayer bpn12092 in Bahasa Melayu (bpn12092)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12093 in Bahasa Melayu (bpn12093) 
+Prayer bpn12093 (bpn12093) 
 
 [bahaiprayers.net 12093](https://bahaiprayers.net/Book/Single/104/12093)
 
@@ -1068,7 +1068,7 @@ Prayer bpn12093 in Bahasa Melayu (bpn12093)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12094 in Bahasa Melayu (bpn12094) 
+Prayer bpn12094 (bpn12094) 
 
 [bahaiprayers.net 12094](https://bahaiprayers.net/Book/Single/104/12094)
 
@@ -1085,7 +1085,7 @@ Prayer bpn12094 in Bahasa Melayu (bpn12094)
 
 -- Bahá'u'lláh
 
-Prayer bpn12095 in Bahasa Melayu (bpn12095) 
+Prayer bpn12095 (bpn12095) 
 
 [bahaiprayers.net 12095](https://bahaiprayers.net/Book/Single/104/12095)
 
@@ -1098,7 +1098,7 @@ Prayer bpn12095 in Bahasa Melayu (bpn12095)
 
 -- Báb
 
-Prayer bpn12096 in Bahasa Melayu (bpn12096) 
+Prayer bpn12096 (bpn12096) 
 
 [bahaiprayers.net 12096](https://bahaiprayers.net/Book/Single/104/12096)
 
@@ -1111,7 +1111,7 @@ Prayer bpn12096 in Bahasa Melayu (bpn12096)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12097 in Bahasa Melayu (bpn12097) 
+Prayer bpn12097 (bpn12097) 
 
 [bahaiprayers.net 12097](https://bahaiprayers.net/Book/Single/104/12097)
 
@@ -1128,7 +1128,7 @@ Prayer bpn12097 in Bahasa Melayu (bpn12097)
 
 -- Bahá'u'lláh
 
-Prayer bpn12098 in Bahasa Melayu (bpn12098) 
+Prayer bpn12098 (bpn12098) 
 
 [bahaiprayers.net 12098](https://bahaiprayers.net/Book/Single/104/12098)
 
@@ -1141,7 +1141,7 @@ Prayer bpn12098 in Bahasa Melayu (bpn12098)
 
 -- Báb
 
-Prayer bpn12099 in Bahasa Melayu (bpn12099) 
+Prayer bpn12099 (bpn12099) 
 
 [bahaiprayers.net 12099](https://bahaiprayers.net/Book/Single/104/12099)
 
@@ -1154,7 +1154,7 @@ Prayer bpn12099 in Bahasa Melayu (bpn12099)
 
 -- Báb
 
-Prayer bpn12100 in Bahasa Melayu (bpn12100) 
+Prayer bpn12100 (bpn12100) 
 
 [bahaiprayers.net 12100](https://bahaiprayers.net/Book/Single/104/12100)
 
@@ -1171,7 +1171,7 @@ Prayer bpn12100 in Bahasa Melayu (bpn12100)
 
 -- Bahá'u'lláh
 
-Prayer bpn12169 in Bahasa Melayu (bpn12169) 
+Prayer bpn12169 (bpn12169) 
 
 [bahaiprayers.net 12169](https://bahaiprayers.net/Book/Single/104/12169)
 
@@ -1188,7 +1188,7 @@ Prayer bpn12169 in Bahasa Melayu (bpn12169)
 
 -- Bahá'u'lláh
 
-Prayer bpn12101 in Bahasa Melayu (bpn12101) 
+Prayer bpn12101 (bpn12101) 
 
 [bahaiprayers.net 12101](https://bahaiprayers.net/Book/Single/104/12101)
 
@@ -1201,7 +1201,7 @@ Prayer bpn12101 in Bahasa Melayu (bpn12101)
 
 -- Bahá'u'lláh
 
-Prayer bpn12102 in Bahasa Melayu (bpn12102) 
+Prayer bpn12102 (bpn12102) 
 
 [bahaiprayers.net 12102](https://bahaiprayers.net/Book/Single/104/12102)
 
@@ -1214,7 +1214,7 @@ Prayer bpn12102 in Bahasa Melayu (bpn12102)
 
 -- Bahá'u'lláh
 
-Prayer bpn12103 in Bahasa Melayu (bpn12103) 
+Prayer bpn12103 (bpn12103) 
 
 [bahaiprayers.net 12103](https://bahaiprayers.net/Book/Single/104/12103)
 
@@ -1227,7 +1227,7 @@ Prayer bpn12103 in Bahasa Melayu (bpn12103)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12104 in Bahasa Melayu (bpn12104) 
+Prayer bpn12104 (bpn12104) 
 
 [bahaiprayers.net 12104](https://bahaiprayers.net/Book/Single/104/12104)
 
@@ -1240,7 +1240,7 @@ Prayer bpn12104 in Bahasa Melayu (bpn12104)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12105 in Bahasa Melayu (bpn12105) 
+Prayer bpn12105 (bpn12105) 
 
 [bahaiprayers.net 12105](https://bahaiprayers.net/Book/Single/104/12105)
 
@@ -1257,7 +1257,7 @@ Prayer bpn12105 in Bahasa Melayu (bpn12105)
 
 -- Bahá'u'lláh
 
-Prayer bpn12106 in Bahasa Melayu (bpn12106) 
+Prayer bpn12106 (bpn12106) 
 
 [bahaiprayers.net 12106](https://bahaiprayers.net/Book/Single/104/12106)
 
@@ -1270,7 +1270,7 @@ Prayer bpn12106 in Bahasa Melayu (bpn12106)
 
 -- Bahá'u'lláh
 
-Prayer bpn12107 in Bahasa Melayu (bpn12107) 
+Prayer bpn12107 (bpn12107) 
 
 [bahaiprayers.net 12107](https://bahaiprayers.net/Book/Single/104/12107)
 
@@ -1283,7 +1283,7 @@ Prayer bpn12107 in Bahasa Melayu (bpn12107)
 
 -- Bahá'u'lláh
 
-Prayer bpn12108 in Bahasa Melayu (bpn12108) 
+Prayer bpn12108 (bpn12108) 
 
 [bahaiprayers.net 12108](https://bahaiprayers.net/Book/Single/104/12108)
 
@@ -1296,7 +1296,7 @@ Prayer bpn12108 in Bahasa Melayu (bpn12108)
 
 -- Bahá'u'lláh
 
-Prayer bpn12109 in Bahasa Melayu (bpn12109) 
+Prayer bpn12109 (bpn12109) 
 
 [bahaiprayers.net 12109](https://bahaiprayers.net/Book/Single/104/12109)
 
@@ -1309,7 +1309,7 @@ Prayer bpn12109 in Bahasa Melayu (bpn12109)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12110 in Bahasa Melayu (bpn12110) 
+Prayer bpn12110 (bpn12110) 
 
 [bahaiprayers.net 12110](https://bahaiprayers.net/Book/Single/104/12110)
 
@@ -1326,7 +1326,7 @@ Prayer bpn12110 in Bahasa Melayu (bpn12110)
 
 -- Bahá'u'lláh
 
-Prayer bpn12111 in Bahasa Melayu (bpn12111) 
+Prayer bpn12111 (bpn12111) 
 
 [bahaiprayers.net 12111](https://bahaiprayers.net/Book/Single/104/12111)
 
@@ -1339,7 +1339,7 @@ Prayer bpn12111 in Bahasa Melayu (bpn12111)
 
 -- Bahá'u'lláh
 
-Prayer bpn12112 in Bahasa Melayu (bpn12112) 
+Prayer bpn12112 (bpn12112) 
 
 [bahaiprayers.net 12112](https://bahaiprayers.net/Book/Single/104/12112)
 
@@ -1352,7 +1352,7 @@ Prayer bpn12112 in Bahasa Melayu (bpn12112)
 
 -- Bahá'u'lláh
 
-Prayer bpn12113 in Bahasa Melayu (bpn12113) 
+Prayer bpn12113 (bpn12113) 
 
 [bahaiprayers.net 12113](https://bahaiprayers.net/Book/Single/104/12113)
 
@@ -1365,7 +1365,7 @@ Prayer bpn12113 in Bahasa Melayu (bpn12113)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12114 in Bahasa Melayu (bpn12114) 
+Prayer bpn12114 (bpn12114) 
 
 [bahaiprayers.net 12114](https://bahaiprayers.net/Book/Single/104/12114)
 
@@ -1382,7 +1382,7 @@ Prayer bpn12114 in Bahasa Melayu (bpn12114)
 
 -- Bahá'u'lláh
 
-Prayer bpn12116 in Bahasa Melayu (bpn12116) 
+Prayer bpn12116 (bpn12116) 
 
 [bahaiprayers.net 12116](https://bahaiprayers.net/Book/Single/104/12116)
 
@@ -1395,7 +1395,7 @@ Prayer bpn12116 in Bahasa Melayu (bpn12116)
 
 -- Bahá'u'lláh
 
-Prayer bpn12117 in Bahasa Melayu (bpn12117) 
+Prayer bpn12117 (bpn12117) 
 
 [bahaiprayers.net 12117](https://bahaiprayers.net/Book/Single/104/12117)
 
@@ -1408,7 +1408,7 @@ Prayer bpn12117 in Bahasa Melayu (bpn12117)
 
 -- Bahá'u'lláh
 
-Prayer bpn12118 in Bahasa Melayu (bpn12118) 
+Prayer bpn12118 (bpn12118) 
 
 [bahaiprayers.net 12118](https://bahaiprayers.net/Book/Single/104/12118)
 
@@ -1421,7 +1421,7 @@ Prayer bpn12118 in Bahasa Melayu (bpn12118)
 
 -- Bahá'u'lláh
 
-Prayer bpn12119 in Bahasa Melayu (bpn12119) 
+Prayer bpn12119 (bpn12119) 
 
 [bahaiprayers.net 12119](https://bahaiprayers.net/Book/Single/104/12119)
 
@@ -1434,7 +1434,7 @@ Prayer bpn12119 in Bahasa Melayu (bpn12119)
 
 -- Bahá'u'lláh
 
-Prayer bpn12121 in Bahasa Melayu (bpn12121) 
+Prayer bpn12121 (bpn12121) 
 
 [bahaiprayers.net 12121](https://bahaiprayers.net/Book/Single/104/12121)
 
@@ -1447,7 +1447,7 @@ Prayer bpn12121 in Bahasa Melayu (bpn12121)
 
 -- Báb
 
-Prayer bpn12120 in Bahasa Melayu (bpn12120) 
+Prayer bpn12120 (bpn12120) 
 
 [bahaiprayers.net 12120](https://bahaiprayers.net/Book/Single/104/12120)
 
@@ -1460,7 +1460,7 @@ Prayer bpn12120 in Bahasa Melayu (bpn12120)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12122 in Bahasa Melayu (bpn12122) 
+Prayer bpn12122 (bpn12122) 
 
 [bahaiprayers.net 12122](https://bahaiprayers.net/Book/Single/104/12122)
 
@@ -1477,7 +1477,7 @@ Prayer bpn12122 in Bahasa Melayu (bpn12122)
 
 -- Bahá'u'lláh
 
-Prayer bpn12123 in Bahasa Melayu (bpn12123) 
+Prayer bpn12123 (bpn12123) 
 
 [bahaiprayers.net 12123](https://bahaiprayers.net/Book/Single/104/12123)
 
@@ -1490,7 +1490,7 @@ Prayer bpn12123 in Bahasa Melayu (bpn12123)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12124 in Bahasa Melayu (bpn12124) 
+Prayer bpn12124 (bpn12124) 
 
 [bahaiprayers.net 12124](https://bahaiprayers.net/Book/Single/104/12124)
 
@@ -1503,7 +1503,7 @@ Prayer bpn12124 in Bahasa Melayu (bpn12124)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12125 in Bahasa Melayu (bpn12125) 
+Prayer bpn12125 (bpn12125) 
 
 [bahaiprayers.net 12125](https://bahaiprayers.net/Book/Single/104/12125)
 
@@ -1516,7 +1516,7 @@ Prayer bpn12125 in Bahasa Melayu (bpn12125)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12126 in Bahasa Melayu (bpn12126) 
+Prayer bpn12126 (bpn12126) 
 
 [bahaiprayers.net 12126](https://bahaiprayers.net/Book/Single/104/12126)
 
@@ -1533,7 +1533,7 @@ Prayer bpn12126 in Bahasa Melayu (bpn12126)
 
 -- Bahá'u'lláh
 
-Prayer bpn12198 in Bahasa Melayu (bpn12198) 
+Prayer bpn12198 (bpn12198) 
 
 [bahaiprayers.net 12198](https://bahaiprayers.net/Book/Single/104/12198)
 
@@ -1550,7 +1550,7 @@ Prayer bpn12198 in Bahasa Melayu (bpn12198)
 
 -- Bahá'u'lláh
 
-Prayer bpn12201 in Bahasa Melayu (bpn12201) 
+Prayer bpn12201 (bpn12201) 
 
 [bahaiprayers.net 12201](https://bahaiprayers.net/Book/Single/104/12201)
 
@@ -1567,7 +1567,7 @@ Prayer bpn12201 in Bahasa Melayu (bpn12201)
 
 -- Bahá'u'lláh
 
-Prayer bpn12197 in Bahasa Melayu (bpn12197) 
+Prayer bpn12197 (bpn12197) 
 
 [bahaiprayers.net 12197](https://bahaiprayers.net/Book/Single/104/12197)
 
@@ -1584,7 +1584,7 @@ Prayer bpn12197 in Bahasa Melayu (bpn12197)
 
 -- Bahá'u'lláh
 
-Prayer bpn12200 in Bahasa Melayu (bpn12200) 
+Prayer bpn12200 (bpn12200) 
 
 [bahaiprayers.net 12200](https://bahaiprayers.net/Book/Single/104/12200)
 
@@ -1601,7 +1601,7 @@ Prayer bpn12200 in Bahasa Melayu (bpn12200)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12199 in Bahasa Melayu (bpn12199) 
+Prayer bpn12199 (bpn12199) 
 
 [bahaiprayers.net 12199](https://bahaiprayers.net/Book/Single/104/12199)
 
@@ -1618,7 +1618,7 @@ Prayer bpn12199 in Bahasa Melayu (bpn12199)
 
 -- Bahá'u'lláh
 
-Prayer bpn12127 in Bahasa Melayu (bpn12127) 
+Prayer bpn12127 (bpn12127) 
 
 [bahaiprayers.net 12127](https://bahaiprayers.net/Book/Single/104/12127)
 
@@ -1631,7 +1631,7 @@ Prayer bpn12127 in Bahasa Melayu (bpn12127)
 
 -- Bahá'u'lláh
 
-Prayer bpn12128 in Bahasa Melayu (bpn12128) 
+Prayer bpn12128 (bpn12128) 
 
 [bahaiprayers.net 12128](https://bahaiprayers.net/Book/Single/104/12128)
 
@@ -1648,7 +1648,7 @@ Prayer bpn12128 in Bahasa Melayu (bpn12128)
 
 -- Bahá'u'lláh
 
-Prayer bpn12130 in Bahasa Melayu (bpn12130) 
+Prayer bpn12130 (bpn12130) 
 
 [bahaiprayers.net 12130](https://bahaiprayers.net/Book/Single/104/12130)
 
@@ -1661,7 +1661,7 @@ Prayer bpn12130 in Bahasa Melayu (bpn12130)
 
 -- Bahá'u'lláh
 
-Prayer bpn12131 in Bahasa Melayu (bpn12131) 
+Prayer bpn12131 (bpn12131) 
 
 [bahaiprayers.net 12131](https://bahaiprayers.net/Book/Single/104/12131)
 
@@ -1674,7 +1674,7 @@ Prayer bpn12131 in Bahasa Melayu (bpn12131)
 
 -- Bahá'u'lláh
 
-Prayer bpn12132 in Bahasa Melayu (bpn12132) 
+Prayer bpn12132 (bpn12132) 
 
 [bahaiprayers.net 12132](https://bahaiprayers.net/Book/Single/104/12132)
 
@@ -1687,7 +1687,7 @@ Prayer bpn12132 in Bahasa Melayu (bpn12132)
 
 -- Bahá'u'lláh
 
-Prayer bpn12139 in Bahasa Melayu (bpn12139) 
+Prayer bpn12139 (bpn12139) 
 
 [bahaiprayers.net 12139](https://bahaiprayers.net/Book/Single/104/12139)
 
@@ -1700,7 +1700,7 @@ Prayer bpn12139 in Bahasa Melayu (bpn12139)
 
 -- Bahá'u'lláh
 
-Prayer bpn12140 in Bahasa Melayu (bpn12140) 
+Prayer bpn12140 (bpn12140) 
 
 [bahaiprayers.net 12140](https://bahaiprayers.net/Book/Single/104/12140)
 
@@ -1713,7 +1713,7 @@ Prayer bpn12140 in Bahasa Melayu (bpn12140)
 
 -- Bahá'u'lláh
 
-Prayer bpn12141 in Bahasa Melayu (bpn12141) 
+Prayer bpn12141 (bpn12141) 
 
 [bahaiprayers.net 12141](https://bahaiprayers.net/Book/Single/104/12141)
 
@@ -1726,7 +1726,7 @@ Prayer bpn12141 in Bahasa Melayu (bpn12141)
 
 -- Bahá'u'lláh
 
-Prayer bpn12142 in Bahasa Melayu (bpn12142) 
+Prayer bpn12142 (bpn12142) 
 
 [bahaiprayers.net 12142](https://bahaiprayers.net/Book/Single/104/12142)
 
@@ -1739,7 +1739,7 @@ Prayer bpn12142 in Bahasa Melayu (bpn12142)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12133 in Bahasa Melayu (bpn12133) 
+Prayer bpn12133 (bpn12133) 
 
 [bahaiprayers.net 12133](https://bahaiprayers.net/Book/Single/104/12133)
 
@@ -1752,7 +1752,7 @@ Prayer bpn12133 in Bahasa Melayu (bpn12133)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12134 in Bahasa Melayu (bpn12134) 
+Prayer bpn12134 (bpn12134) 
 
 [bahaiprayers.net 12134](https://bahaiprayers.net/Book/Single/104/12134)
 
@@ -1765,7 +1765,7 @@ Prayer bpn12134 in Bahasa Melayu (bpn12134)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12135 in Bahasa Melayu (bpn12135) 
+Prayer bpn12135 (bpn12135) 
 
 [bahaiprayers.net 12135](https://bahaiprayers.net/Book/Single/104/12135)
 
@@ -1778,7 +1778,7 @@ Prayer bpn12135 in Bahasa Melayu (bpn12135)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12136 in Bahasa Melayu (bpn12136) 
+Prayer bpn12136 (bpn12136) 
 
 [bahaiprayers.net 12136](https://bahaiprayers.net/Book/Single/104/12136)
 
@@ -1791,7 +1791,7 @@ Prayer bpn12136 in Bahasa Melayu (bpn12136)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12137 in Bahasa Melayu (bpn12137) 
+Prayer bpn12137 (bpn12137) 
 
 [bahaiprayers.net 12137](https://bahaiprayers.net/Book/Single/104/12137)
 
@@ -1804,7 +1804,7 @@ Prayer bpn12137 in Bahasa Melayu (bpn12137)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12138 in Bahasa Melayu (bpn12138) 
+Prayer bpn12138 (bpn12138) 
 
 [bahaiprayers.net 12138](https://bahaiprayers.net/Book/Single/104/12138)
 
@@ -1821,7 +1821,7 @@ Prayer bpn12138 in Bahasa Melayu (bpn12138)
 
 -- Bahá'u'lláh
 
-Prayer bpn12196 in Bahasa Melayu (bpn12196) 
+Prayer bpn12196 (bpn12196) 
 
 [bahaiprayers.net 12196](https://bahaiprayers.net/Book/Single/104/12196)
 
@@ -1838,7 +1838,7 @@ Prayer bpn12196 in Bahasa Melayu (bpn12196)
 
 -- Bahá'u'lláh
 
-Prayer bpn12143 in Bahasa Melayu (bpn12143) 
+Prayer bpn12143 (bpn12143) 
 
 [bahaiprayers.net 12143](https://bahaiprayers.net/Book/Single/104/12143)
 
@@ -1851,7 +1851,7 @@ Prayer bpn12143 in Bahasa Melayu (bpn12143)
 
 -- Bahá'u'lláh
 
-Prayer bpn12144 in Bahasa Melayu (bpn12144) 
+Prayer bpn12144 (bpn12144) 
 
 [bahaiprayers.net 12144](https://bahaiprayers.net/Book/Single/104/12144)
 
@@ -1864,7 +1864,7 @@ Prayer bpn12144 in Bahasa Melayu (bpn12144)
 
 -- Bahá'u'lláh
 
-Prayer bpn12145 in Bahasa Melayu (bpn12145) 
+Prayer bpn12145 (bpn12145) 
 
 [bahaiprayers.net 12145](https://bahaiprayers.net/Book/Single/104/12145)
 
@@ -1881,7 +1881,7 @@ Prayer bpn12145 in Bahasa Melayu (bpn12145)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12146 in Bahasa Melayu (bpn12146) 
+Prayer bpn12146 (bpn12146) 
 
 [bahaiprayers.net 12146](https://bahaiprayers.net/Book/Single/104/12146)
 
@@ -1898,7 +1898,7 @@ Prayer bpn12146 in Bahasa Melayu (bpn12146)
 
 -- Bahá'u'lláh
 
-Prayer bpn12149 in Bahasa Melayu (bpn12149) 
+Prayer bpn12149 (bpn12149) 
 
 [bahaiprayers.net 12149](https://bahaiprayers.net/Book/Single/104/12149)
 
@@ -1911,7 +1911,7 @@ Prayer bpn12149 in Bahasa Melayu (bpn12149)
 
 -- Bahá'u'lláh
 
-Prayer bpn12150 in Bahasa Melayu (bpn12150) 
+Prayer bpn12150 (bpn12150) 
 
 [bahaiprayers.net 12150](https://bahaiprayers.net/Book/Single/104/12150)
 
@@ -1924,7 +1924,7 @@ Prayer bpn12150 in Bahasa Melayu (bpn12150)
 
 -- Báb
 
-Prayer bpn12151 in Bahasa Melayu (bpn12151) 
+Prayer bpn12151 (bpn12151) 
 
 [bahaiprayers.net 12151](https://bahaiprayers.net/Book/Single/104/12151)
 
@@ -1937,7 +1937,7 @@ Prayer bpn12151 in Bahasa Melayu (bpn12151)
 
 -- Báb
 
-Prayer bpn12152 in Bahasa Melayu (bpn12152) 
+Prayer bpn12152 (bpn12152) 
 
 [bahaiprayers.net 12152](https://bahaiprayers.net/Book/Single/104/12152)
 
@@ -1950,7 +1950,7 @@ Prayer bpn12152 in Bahasa Melayu (bpn12152)
 
 -- Báb
 
-Prayer bpn12153 in Bahasa Melayu (bpn12153) 
+Prayer bpn12153 (bpn12153) 
 
 [bahaiprayers.net 12153](https://bahaiprayers.net/Book/Single/104/12153)
 
@@ -1963,7 +1963,7 @@ Prayer bpn12153 in Bahasa Melayu (bpn12153)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12154 in Bahasa Melayu (bpn12154) 
+Prayer bpn12154 (bpn12154) 
 
 [bahaiprayers.net 12154](https://bahaiprayers.net/Book/Single/104/12154)
 
@@ -1980,7 +1980,7 @@ Prayer bpn12154 in Bahasa Melayu (bpn12154)
 
 -- Bahá'u'lláh
 
-Prayer bpn12155 in Bahasa Melayu (bpn12155) 
+Prayer bpn12155 (bpn12155) 
 
 [bahaiprayers.net 12155](https://bahaiprayers.net/Book/Single/104/12155)
 
@@ -1993,7 +1993,7 @@ Prayer bpn12155 in Bahasa Melayu (bpn12155)
 
 -- Bahá'u'lláh
 
-Prayer bpn12156 in Bahasa Melayu (bpn12156) 
+Prayer bpn12156 (bpn12156) 
 
 [bahaiprayers.net 12156](https://bahaiprayers.net/Book/Single/104/12156)
 
@@ -2010,7 +2010,7 @@ Prayer bpn12156 in Bahasa Melayu (bpn12156)
 
 -- Bahá'u'lláh
 
-Prayer bpn12157 in Bahasa Melayu (bpn12157) 
+Prayer bpn12157 (bpn12157) 
 
 [bahaiprayers.net 12157](https://bahaiprayers.net/Book/Single/104/12157)
 
@@ -2023,7 +2023,7 @@ Prayer bpn12157 in Bahasa Melayu (bpn12157)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12158 in Bahasa Melayu (bpn12158) 
+Prayer bpn12158 (bpn12158) 
 
 [bahaiprayers.net 12158](https://bahaiprayers.net/Book/Single/104/12158)
 
@@ -2036,7 +2036,7 @@ Prayer bpn12158 in Bahasa Melayu (bpn12158)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12159 in Bahasa Melayu (bpn12159) 
+Prayer bpn12159 (bpn12159) 
 
 [bahaiprayers.net 12159](https://bahaiprayers.net/Book/Single/104/12159)
 
@@ -2053,7 +2053,7 @@ Prayer bpn12159 in Bahasa Melayu (bpn12159)
 
 -- Bahá'u'lláh
 
-Prayer bpn12160 in Bahasa Melayu (bpn12160) 
+Prayer bpn12160 (bpn12160) 
 
 [bahaiprayers.net 12160](https://bahaiprayers.net/Book/Single/104/12160)
 
@@ -2066,7 +2066,7 @@ Prayer bpn12160 in Bahasa Melayu (bpn12160)
 
 -- Bahá'u'lláh
 
-Prayer bpn12161 in Bahasa Melayu (bpn12161) 
+Prayer bpn12161 (bpn12161) 
 
 [bahaiprayers.net 12161](https://bahaiprayers.net/Book/Single/104/12161)
 
@@ -2079,7 +2079,7 @@ Prayer bpn12161 in Bahasa Melayu (bpn12161)
 
 -- Bahá'u'lláh
 
-Prayer bpn12162 in Bahasa Melayu (bpn12162) 
+Prayer bpn12162 (bpn12162) 
 
 [bahaiprayers.net 12162](https://bahaiprayers.net/Book/Single/104/12162)
 
@@ -2092,7 +2092,7 @@ Prayer bpn12162 in Bahasa Melayu (bpn12162)
 
 -- Báb
 
-Prayer bpn12163 in Bahasa Melayu (bpn12163) 
+Prayer bpn12163 (bpn12163) 
 
 [bahaiprayers.net 12163](https://bahaiprayers.net/Book/Single/104/12163)
 
@@ -2105,7 +2105,7 @@ Prayer bpn12163 in Bahasa Melayu (bpn12163)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12164 in Bahasa Melayu (bpn12164) 
+Prayer bpn12164 (bpn12164) 
 
 [bahaiprayers.net 12164](https://bahaiprayers.net/Book/Single/104/12164)
 
@@ -2122,7 +2122,7 @@ Prayer bpn12164 in Bahasa Melayu (bpn12164)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12165 in Bahasa Melayu (bpn12165) 
+Prayer bpn12165 (bpn12165) 
 
 [bahaiprayers.net 12165](https://bahaiprayers.net/Book/Single/104/12165)
 
@@ -2135,7 +2135,7 @@ Prayer bpn12165 in Bahasa Melayu (bpn12165)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12166 in Bahasa Melayu (bpn12166) 
+Prayer bpn12166 (bpn12166) 
 
 [bahaiprayers.net 12166](https://bahaiprayers.net/Book/Single/104/12166)
 
@@ -2148,7 +2148,7 @@ Prayer bpn12166 in Bahasa Melayu (bpn12166)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12167 in Bahasa Melayu (bpn12167) 
+Prayer bpn12167 (bpn12167) 
 
 [bahaiprayers.net 12167](https://bahaiprayers.net/Book/Single/104/12167)
 
@@ -2161,7 +2161,7 @@ Prayer bpn12167 in Bahasa Melayu (bpn12167)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12168 in Bahasa Melayu (bpn12168) 
+Prayer bpn12168 (bpn12168) 
 
 [bahaiprayers.net 12168](https://bahaiprayers.net/Book/Single/104/12168)
 
@@ -2178,7 +2178,7 @@ Prayer bpn12168 in Bahasa Melayu (bpn12168)
 
 -- Bahá'u'lláh
 
-Prayer bpn12170 in Bahasa Melayu (bpn12170) 
+Prayer bpn12170 (bpn12170) 
 
 [bahaiprayers.net 12170](https://bahaiprayers.net/Book/Single/104/12170)
 
@@ -2191,7 +2191,7 @@ Prayer bpn12170 in Bahasa Melayu (bpn12170)
 
 -- Bahá'u'lláh
 
-Prayer bpn12171 in Bahasa Melayu (bpn12171) 
+Prayer bpn12171 (bpn12171) 
 
 [bahaiprayers.net 12171](https://bahaiprayers.net/Book/Single/104/12171)
 
@@ -2204,7 +2204,7 @@ Prayer bpn12171 in Bahasa Melayu (bpn12171)
 
 -- Bahá'u'lláh
 
-Prayer bpn12172 in Bahasa Melayu (bpn12172) 
+Prayer bpn12172 (bpn12172) 
 
 [bahaiprayers.net 12172](https://bahaiprayers.net/Book/Single/104/12172)
 
@@ -2217,7 +2217,7 @@ Prayer bpn12172 in Bahasa Melayu (bpn12172)
 
 -- Bahá'u'lláh
 
-Prayer bpn12173 in Bahasa Melayu (bpn12173) 
+Prayer bpn12173 (bpn12173) 
 
 [bahaiprayers.net 12173](https://bahaiprayers.net/Book/Single/104/12173)
 
@@ -2230,7 +2230,7 @@ Prayer bpn12173 in Bahasa Melayu (bpn12173)
 
 -- Bahá'u'lláh
 
-Prayer bpn12174 in Bahasa Melayu (bpn12174) 
+Prayer bpn12174 (bpn12174) 
 
 [bahaiprayers.net 12174](https://bahaiprayers.net/Book/Single/104/12174)
 
@@ -2243,7 +2243,7 @@ Prayer bpn12174 in Bahasa Melayu (bpn12174)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12175 in Bahasa Melayu (bpn12175) 
+Prayer bpn12175 (bpn12175) 
 
 [bahaiprayers.net 12175](https://bahaiprayers.net/Book/Single/104/12175)
 
@@ -2256,7 +2256,7 @@ Prayer bpn12175 in Bahasa Melayu (bpn12175)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12176 in Bahasa Melayu (bpn12176) 
+Prayer bpn12176 (bpn12176) 
 
 [bahaiprayers.net 12176](https://bahaiprayers.net/Book/Single/104/12176)
 
@@ -2273,7 +2273,7 @@ Prayer bpn12176 in Bahasa Melayu (bpn12176)
 
 -- Bahá'u'lláh
 
-Prayer bpn12193 in Bahasa Melayu (bpn12193) 
+Prayer bpn12193 (bpn12193) 
 
 [bahaiprayers.net 12193](https://bahaiprayers.net/Book/Single/104/12193)
 
@@ -2286,7 +2286,7 @@ Prayer bpn12193 in Bahasa Melayu (bpn12193)
 
 -- Bahá'u'lláh
 
-Prayer bpn12194 in Bahasa Melayu (bpn12194) 
+Prayer bpn12194 (bpn12194) 
 
 [bahaiprayers.net 12194](https://bahaiprayers.net/Book/Single/104/12194)
 
@@ -2299,7 +2299,7 @@ Prayer bpn12194 in Bahasa Melayu (bpn12194)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12195 in Bahasa Melayu (bpn12195) 
+Prayer bpn12195 (bpn12195) 
 
 [bahaiprayers.net 12195](https://bahaiprayers.net/Book/Single/104/12195)
 
@@ -2316,7 +2316,7 @@ Prayer bpn12195 in Bahasa Melayu (bpn12195)
 
 -- Bahá'u'lláh
 
-Prayer bpn12177 in Bahasa Melayu (bpn12177) 
+Prayer bpn12177 (bpn12177) 
 
 [bahaiprayers.net 12177](https://bahaiprayers.net/Book/Single/104/12177)
 
@@ -2329,7 +2329,7 @@ Prayer bpn12177 in Bahasa Melayu (bpn12177)
 
 -- Bahá'u'lláh
 
-Prayer bpn12178 in Bahasa Melayu (bpn12178) 
+Prayer bpn12178 (bpn12178) 
 
 [bahaiprayers.net 12178](https://bahaiprayers.net/Book/Single/104/12178)
 
@@ -2346,7 +2346,7 @@ Prayer bpn12178 in Bahasa Melayu (bpn12178)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12179 in Bahasa Melayu (bpn12179) 
+Prayer bpn12179 (bpn12179) 
 
 [bahaiprayers.net 12179](https://bahaiprayers.net/Book/Single/104/12179)
 
@@ -2363,7 +2363,7 @@ Prayer bpn12179 in Bahasa Melayu (bpn12179)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12180 in Bahasa Melayu (bpn12180) 
+Prayer bpn12180 (bpn12180) 
 
 [bahaiprayers.net 12180](https://bahaiprayers.net/Book/Single/104/12180)
 
@@ -2376,7 +2376,7 @@ Prayer bpn12180 in Bahasa Melayu (bpn12180)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12181 in Bahasa Melayu (bpn12181) 
+Prayer bpn12181 (bpn12181) 
 
 [bahaiprayers.net 12181](https://bahaiprayers.net/Book/Single/104/12181)
 
@@ -2389,7 +2389,7 @@ Prayer bpn12181 in Bahasa Melayu (bpn12181)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12182 in Bahasa Melayu (bpn12182) 
+Prayer bpn12182 (bpn12182) 
 
 [bahaiprayers.net 12182](https://bahaiprayers.net/Book/Single/104/12182)
 
@@ -2406,7 +2406,7 @@ Prayer bpn12182 in Bahasa Melayu (bpn12182)
 
 -- Bahá'u'lláh
 
-Prayer bpn12183 in Bahasa Melayu (bpn12183) 
+Prayer bpn12183 (bpn12183) 
 
 [bahaiprayers.net 12183](https://bahaiprayers.net/Book/Single/104/12183)
 
@@ -2419,7 +2419,7 @@ Prayer bpn12183 in Bahasa Melayu (bpn12183)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12184 in Bahasa Melayu (bpn12184) 
+Prayer bpn12184 (bpn12184) 
 
 [bahaiprayers.net 12184](https://bahaiprayers.net/Book/Single/104/12184)
 
@@ -2432,7 +2432,7 @@ Prayer bpn12184 in Bahasa Melayu (bpn12184)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12185 in Bahasa Melayu (bpn12185) 
+Prayer bpn12185 (bpn12185) 
 
 [bahaiprayers.net 12185](https://bahaiprayers.net/Book/Single/104/12185)
 
@@ -2445,7 +2445,7 @@ Prayer bpn12185 in Bahasa Melayu (bpn12185)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12186 in Bahasa Melayu (bpn12186) 
+Prayer bpn12186 (bpn12186) 
 
 [bahaiprayers.net 12186](https://bahaiprayers.net/Book/Single/104/12186)
 
@@ -2462,7 +2462,7 @@ Prayer bpn12186 in Bahasa Melayu (bpn12186)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12188 in Bahasa Melayu (bpn12188) 
+Prayer bpn12188 (bpn12188) 
 
 [bahaiprayers.net 12188](https://bahaiprayers.net/Book/Single/104/12188)
 
@@ -2475,7 +2475,7 @@ Prayer bpn12188 in Bahasa Melayu (bpn12188)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12189 in Bahasa Melayu (bpn12189) 
+Prayer bpn12189 (bpn12189) 
 
 [bahaiprayers.net 12189](https://bahaiprayers.net/Book/Single/104/12189)
 
@@ -2492,7 +2492,7 @@ Prayer bpn12189 in Bahasa Melayu (bpn12189)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12190 in Bahasa Melayu (bpn12190) 
+Prayer bpn12190 (bpn12190) 
 
 [bahaiprayers.net 12190](https://bahaiprayers.net/Book/Single/104/12190)
 
@@ -2509,7 +2509,7 @@ Prayer bpn12190 in Bahasa Melayu (bpn12190)
 
 -- Bahá'u'lláh
 
-Prayer bpn12191 in Bahasa Melayu (bpn12191) 
+Prayer bpn12191 (bpn12191) 
 
 [bahaiprayers.net 12191](https://bahaiprayers.net/Book/Single/104/12191)
 
@@ -2526,7 +2526,7 @@ Prayer bpn12191 in Bahasa Melayu (bpn12191)
 
 -- Bahá'u'lláh
 
-Prayer bpn12071 in Bahasa Melayu (bpn12071) 
+Prayer bpn12071 (bpn12071) 
 
 [bahaiprayers.net 12071](https://bahaiprayers.net/Book/Single/104/12071)
 
@@ -2539,7 +2539,7 @@ Prayer bpn12071 in Bahasa Melayu (bpn12071)
 
 -- Bahá'u'lláh
 
-Prayer bpn12072 in Bahasa Melayu (bpn12072) 
+Prayer bpn12072 (bpn12072) 
 
 [bahaiprayers.net 12072](https://bahaiprayers.net/Book/Single/104/12072)
 

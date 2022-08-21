@@ -96,7 +96,7 @@ tags = ['lang=hi', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn6862 in हिंदी (bpn6862) 
+Prayer bpn6862 (bpn6862) 
 
 [bahaiprayers.net 6862](https://bahaiprayers.net/Book/Single/63/6862)
 
@@ -109,7 +109,7 @@ Prayer bpn6862 in हिंदी (bpn6862)
 
 -- Bahá'u'lláh
 
-Prayer bpn8746 in हिंदी (bpn8746) 
+Prayer bpn8746 (bpn8746) 
 
 [bahaiprayers.net 8746](https://bahaiprayers.net/Book/Single/63/8746)
 
@@ -126,7 +126,7 @@ Prayer bpn8746 in हिंदी (bpn8746)
 
 -- Bahá'u'lláh
 
-Prayer bpn8751 in हिंदी (bpn8751) 
+Prayer bpn8751 (bpn8751) 
 
 [bahaiprayers.net 8751](https://bahaiprayers.net/Book/Single/63/8751)
 
@@ -143,7 +143,7 @@ Prayer bpn8751 in हिंदी (bpn8751)
 
 -- Bahá'u'lláh
 
-Prayer bpn8218 in हिंदी (bpn8218) 
+Prayer bpn8218 (bpn8218) 
 
 [bahaiprayers.net 8218](https://bahaiprayers.net/Book/Single/63/8218)
 
@@ -156,7 +156,7 @@ Prayer bpn8218 in हिंदी (bpn8218)
 
 -- Bahá'u'lláh
 
-Prayer bpn8219 in हिंदी (bpn8219) 
+Prayer bpn8219 (bpn8219) 
 
 [bahaiprayers.net 8219](https://bahaiprayers.net/Book/Single/63/8219)
 
@@ -169,7 +169,7 @@ Prayer bpn8219 in हिंदी (bpn8219)
 
 -- Bahá'u'lláh
 
-Prayer bpn8220 in हिंदी (bpn8220) 
+Prayer bpn8220 (bpn8220) 
 
 [bahaiprayers.net 8220](https://bahaiprayers.net/Book/Single/63/8220)
 
@@ -182,7 +182,7 @@ Prayer bpn8220 in हिंदी (bpn8220)
 
 -- Bahá'u'lláh
 
-Prayer bpn8221 in हिंदी (bpn8221) 
+Prayer bpn8221 (bpn8221) 
 
 [bahaiprayers.net 8221](https://bahaiprayers.net/Book/Single/63/8221)
 
@@ -195,7 +195,7 @@ Prayer bpn8221 in हिंदी (bpn8221)
 
 -- Bahá'u'lláh
 
-Prayer bpn8222 in हिंदी (bpn8222) 
+Prayer bpn8222 (bpn8222) 
 
 [bahaiprayers.net 8222](https://bahaiprayers.net/Book/Single/63/8222)
 
@@ -208,7 +208,7 @@ Prayer bpn8222 in हिंदी (bpn8222)
 
 -- Bahá'u'lláh
 
-Prayer bpn8231 in हिंदी (bpn8231) 
+Prayer bpn8231 (bpn8231) 
 
 [bahaiprayers.net 8231](https://bahaiprayers.net/Book/Single/63/8231)
 
@@ -221,7 +221,7 @@ Prayer bpn8231 in हिंदी (bpn8231)
 
 -- Báb
 
-Prayer bpn8224 in हिंदी (bpn8224) 
+Prayer bpn8224 (bpn8224) 
 
 [bahaiprayers.net 8224](https://bahaiprayers.net/Book/Single/63/8224)
 
@@ -234,7 +234,7 @@ Prayer bpn8224 in हिंदी (bpn8224)
 
 -- Báb
 
-Prayer bpn8225 in हिंदी (bpn8225) 
+Prayer bpn8225 (bpn8225) 
 
 [bahaiprayers.net 8225](https://bahaiprayers.net/Book/Single/63/8225)
 
@@ -247,7 +247,7 @@ Prayer bpn8225 in हिंदी (bpn8225)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8228 in हिंदी (bpn8228) 
+Prayer bpn8228 (bpn8228) 
 
 [bahaiprayers.net 8228](https://bahaiprayers.net/Book/Single/63/8228)
 
@@ -260,7 +260,7 @@ Prayer bpn8228 in हिंदी (bpn8228)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8229 in हिंदी (bpn8229) 
+Prayer bpn8229 (bpn8229) 
 
 [bahaiprayers.net 8229](https://bahaiprayers.net/Book/Single/63/8229)
 
@@ -277,7 +277,7 @@ Prayer bpn8229 in हिंदी (bpn8229)
 
 -- Bahá'u'lláh
 
-Prayer bpn6861 in हिंदी (bpn6861) 
+Prayer bpn6861 (bpn6861) 
 
 [bahaiprayers.net 6861](https://bahaiprayers.net/Book/Single/63/6861)
 
@@ -290,7 +290,7 @@ Prayer bpn6861 in हिंदी (bpn6861)
 
 -- Bahá'u'lláh
 
-Prayer bpn8745 in हिंदी (bpn8745) 
+Prayer bpn8745 (bpn8745) 
 
 [bahaiprayers.net 8745](https://bahaiprayers.net/Book/Single/63/8745)
 
@@ -307,7 +307,7 @@ Prayer bpn8745 in हिंदी (bpn8745)
 
 -- Bahá'u'lláh
 
-Prayer bpn8275 in हिंदी (bpn8275) 
+Prayer bpn8275 (bpn8275) 
 
 [bahaiprayers.net 8275](https://bahaiprayers.net/Book/Single/63/8275)
 
@@ -320,7 +320,7 @@ Prayer bpn8275 in हिंदी (bpn8275)
 
 -- Bahá'u'lláh
 
-Prayer bpn8276 in हिंदी (bpn8276) 
+Prayer bpn8276 (bpn8276) 
 
 [bahaiprayers.net 8276](https://bahaiprayers.net/Book/Single/63/8276)
 
@@ -333,7 +333,7 @@ Prayer bpn8276 in हिंदी (bpn8276)
 
 -- Bahá'u'lláh
 
-Prayer bpn8277 in हिंदी (bpn8277) 
+Prayer bpn8277 (bpn8277) 
 
 [bahaiprayers.net 8277](https://bahaiprayers.net/Book/Single/63/8277)
 
@@ -346,7 +346,7 @@ Prayer bpn8277 in हिंदी (bpn8277)
 
 -- Bahá'u'lláh
 
-Prayer bpn8278 in हिंदी (bpn8278) 
+Prayer bpn8278 (bpn8278) 
 
 [bahaiprayers.net 8278](https://bahaiprayers.net/Book/Single/63/8278)
 
@@ -359,7 +359,7 @@ Prayer bpn8278 in हिंदी (bpn8278)
 
 -- Bahá'u'lláh
 
-Prayer bpn8279 in हिंदी (bpn8279) 
+Prayer bpn8279 (bpn8279) 
 
 [bahaiprayers.net 8279](https://bahaiprayers.net/Book/Single/63/8279)
 
@@ -372,7 +372,7 @@ Prayer bpn8279 in हिंदी (bpn8279)
 
 -- Bahá'u'lláh
 
-Prayer bpn8280 in हिंदी (bpn8280) 
+Prayer bpn8280 (bpn8280) 
 
 [bahaiprayers.net 8280](https://bahaiprayers.net/Book/Single/63/8280)
 
@@ -385,7 +385,7 @@ Prayer bpn8280 in हिंदी (bpn8280)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8273 in हिंदी (bpn8273) 
+Prayer bpn8273 (bpn8273) 
 
 [bahaiprayers.net 8273](https://bahaiprayers.net/Book/Single/63/8273)
 
@@ -398,7 +398,7 @@ Prayer bpn8273 in हिंदी (bpn8273)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8274 in हिंदी (bpn8274) 
+Prayer bpn8274 (bpn8274) 
 
 [bahaiprayers.net 8274](https://bahaiprayers.net/Book/Single/63/8274)
 
@@ -415,7 +415,7 @@ Prayer bpn8274 in हिंदी (bpn8274)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8281 in हिंदी (bpn8281) 
+Prayer bpn8281 (bpn8281) 
 
 [bahaiprayers.net 8281](https://bahaiprayers.net/Book/Single/63/8281)
 
@@ -428,7 +428,7 @@ Prayer bpn8281 in हिंदी (bpn8281)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8282 in हिंदी (bpn8282) 
+Prayer bpn8282 (bpn8282) 
 
 [bahaiprayers.net 8282](https://bahaiprayers.net/Book/Single/63/8282)
 
@@ -441,7 +441,7 @@ Prayer bpn8282 in हिंदी (bpn8282)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8284 in हिंदी (bpn8284) 
+Prayer bpn8284 (bpn8284) 
 
 [bahaiprayers.net 8284](https://bahaiprayers.net/Book/Single/63/8284)
 
@@ -458,7 +458,7 @@ Prayer bpn8284 in हिंदी (bpn8284)
 
 -- Bahá'u'lláh
 
-Prayer bpn8287 in हिंदी (bpn8287) 
+Prayer bpn8287 (bpn8287) 
 
 [bahaiprayers.net 8287](https://bahaiprayers.net/Book/Single/63/8287)
 
@@ -471,7 +471,7 @@ Prayer bpn8287 in हिंदी (bpn8287)
 
 -- Bahá'u'lláh
 
-Prayer bpn8288 in हिंदी (bpn8288) 
+Prayer bpn8288 (bpn8288) 
 
 [bahaiprayers.net 8288](https://bahaiprayers.net/Book/Single/63/8288)
 
@@ -484,7 +484,7 @@ Prayer bpn8288 in हिंदी (bpn8288)
 
 -- Bahá'u'lláh
 
-Prayer bpn8286 in हिंदी (bpn8286) 
+Prayer bpn8286 (bpn8286) 
 
 [bahaiprayers.net 8286](https://bahaiprayers.net/Book/Single/63/8286)
 
@@ -497,7 +497,7 @@ Prayer bpn8286 in हिंदी (bpn8286)
 
 -- Bahá'u'lláh
 
-Prayer bpn6860 in हिंदी (bpn6860) 
+Prayer bpn6860 (bpn6860) 
 
 [bahaiprayers.net 6860](https://bahaiprayers.net/Book/Single/63/6860)
 
@@ -514,7 +514,7 @@ Prayer bpn6860 in हिंदी (bpn6860)
 
 -- Bahá'u'lláh
 
-Prayer bpn8747 in हिंदी (bpn8747) 
+Prayer bpn8747 (bpn8747) 
 
 [bahaiprayers.net 8747](https://bahaiprayers.net/Book/Single/63/8747)
 
@@ -527,7 +527,7 @@ Prayer bpn8747 in हिंदी (bpn8747)
 
 -- Bahá'u'lláh
 
-Prayer bpn8748 in हिंदी (bpn8748) 
+Prayer bpn8748 (bpn8748) 
 
 [bahaiprayers.net 8748](https://bahaiprayers.net/Book/Single/63/8748)
 
@@ -544,7 +544,7 @@ Prayer bpn8748 in हिंदी (bpn8748)
 
 -- Bahá'u'lláh
 
-Prayer bpn8752 in हिंदी (bpn8752) 
+Prayer bpn8752 (bpn8752) 
 
 [bahaiprayers.net 8752](https://bahaiprayers.net/Book/Single/63/8752)
 
@@ -557,7 +557,7 @@ Prayer bpn8752 in हिंदी (bpn8752)
 
 -- Bahá'u'lláh
 
-Prayer bpn8753 in हिंदी (bpn8753) 
+Prayer bpn8753 (bpn8753) 
 
 [bahaiprayers.net 8753](https://bahaiprayers.net/Book/Single/63/8753)
 
@@ -570,7 +570,7 @@ Prayer bpn8753 in हिंदी (bpn8753)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8754 in हिंदी (bpn8754) 
+Prayer bpn8754 (bpn8754) 
 
 [bahaiprayers.net 8754](https://bahaiprayers.net/Book/Single/63/8754)
 
@@ -587,7 +587,7 @@ Prayer bpn8754 in हिंदी (bpn8754)
 
 -- Bahá'u'lláh
 
-Prayer bpn8297 in हिंदी (bpn8297) 
+Prayer bpn8297 (bpn8297) 
 
 [bahaiprayers.net 8297](https://bahaiprayers.net/Book/Single/63/8297)
 
@@ -600,7 +600,7 @@ Prayer bpn8297 in हिंदी (bpn8297)
 
 -- Bahá'u'lláh
 
-Prayer bpn8298 in हिंदी (bpn8298) 
+Prayer bpn8298 (bpn8298) 
 
 [bahaiprayers.net 8298](https://bahaiprayers.net/Book/Single/63/8298)
 
@@ -613,7 +613,7 @@ Prayer bpn8298 in हिंदी (bpn8298)
 
 -- Bahá'u'lláh
 
-Prayer bpn8299 in हिंदी (bpn8299) 
+Prayer bpn8299 (bpn8299) 
 
 [bahaiprayers.net 8299](https://bahaiprayers.net/Book/Single/63/8299)
 
@@ -626,7 +626,7 @@ Prayer bpn8299 in हिंदी (bpn8299)
 
 -- Bahá'u'lláh
 
-Prayer bpn8304 in हिंदी (bpn8304) 
+Prayer bpn8304 (bpn8304) 
 
 [bahaiprayers.net 8304](https://bahaiprayers.net/Book/Single/63/8304)
 
@@ -639,7 +639,7 @@ Prayer bpn8304 in हिंदी (bpn8304)
 
 -- Bahá'u'lláh
 
-Prayer bpn8292 in हिंदी (bpn8292) 
+Prayer bpn8292 (bpn8292) 
 
 [bahaiprayers.net 8292](https://bahaiprayers.net/Book/Single/63/8292)
 
@@ -652,7 +652,7 @@ Prayer bpn8292 in हिंदी (bpn8292)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8303 in हिंदी (bpn8303) 
+Prayer bpn8303 (bpn8303) 
 
 [bahaiprayers.net 8303](https://bahaiprayers.net/Book/Single/63/8303)
 
@@ -669,7 +669,7 @@ Prayer bpn8303 in हिंदी (bpn8303)
 
 -- Bahá'u'lláh
 
-Prayer bpn8756 in हिंदी (bpn8756) 
+Prayer bpn8756 (bpn8756) 
 
 [bahaiprayers.net 8756](https://bahaiprayers.net/Book/Single/63/8756)
 
@@ -686,7 +686,7 @@ Prayer bpn8756 in हिंदी (bpn8756)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8308 in हिंदी (bpn8308) 
+Prayer bpn8308 (bpn8308) 
 
 [bahaiprayers.net 8308](https://bahaiprayers.net/Book/Single/63/8308)
 
@@ -699,7 +699,7 @@ Prayer bpn8308 in हिंदी (bpn8308)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8309 in हिंदी (bpn8309) 
+Prayer bpn8309 (bpn8309) 
 
 [bahaiprayers.net 8309](https://bahaiprayers.net/Book/Single/63/8309)
 
@@ -716,7 +716,7 @@ Prayer bpn8309 in हिंदी (bpn8309)
 
 -- Bahá'u'lláh
 
-Prayer bpn8728 in हिंदी (bpn8728) 
+Prayer bpn8728 (bpn8728) 
 
 [bahaiprayers.net 8728](https://bahaiprayers.net/Book/Single/63/8728)
 
@@ -729,7 +729,7 @@ Prayer bpn8728 in हिंदी (bpn8728)
 
 -- Bahá'u'lláh
 
-Prayer bpn8729 in हिंदी (bpn8729) 
+Prayer bpn8729 (bpn8729) 
 
 [bahaiprayers.net 8729](https://bahaiprayers.net/Book/Single/63/8729)
 
@@ -742,7 +742,7 @@ Prayer bpn8729 in हिंदी (bpn8729)
 
 -- Bahá'u'lláh
 
-Prayer bpn8730 in हिंदी (bpn8730) 
+Prayer bpn8730 (bpn8730) 
 
 [bahaiprayers.net 8730](https://bahaiprayers.net/Book/Single/63/8730)
 
@@ -755,7 +755,7 @@ Prayer bpn8730 in हिंदी (bpn8730)
 
 -- Báb
 
-Prayer bpn8731 in हिंदी (bpn8731) 
+Prayer bpn8731 (bpn8731) 
 
 [bahaiprayers.net 8731](https://bahaiprayers.net/Book/Single/63/8731)
 
@@ -768,7 +768,7 @@ Prayer bpn8731 in हिंदी (bpn8731)
 
 -- Báb
 
-Prayer bpn8732 in हिंदी (bpn8732) 
+Prayer bpn8732 (bpn8732) 
 
 [bahaiprayers.net 8732](https://bahaiprayers.net/Book/Single/63/8732)
 
@@ -781,7 +781,7 @@ Prayer bpn8732 in हिंदी (bpn8732)
 
 -- Báb
 
-Prayer bpn8733 in हिंदी (bpn8733) 
+Prayer bpn8733 (bpn8733) 
 
 [bahaiprayers.net 8733](https://bahaiprayers.net/Book/Single/63/8733)
 
@@ -794,7 +794,7 @@ Prayer bpn8733 in हिंदी (bpn8733)
 
 -- Báb
 
-Prayer bpn8734 in हिंदी (bpn8734) 
+Prayer bpn8734 (bpn8734) 
 
 [bahaiprayers.net 8734](https://bahaiprayers.net/Book/Single/63/8734)
 
@@ -807,7 +807,7 @@ Prayer bpn8734 in हिंदी (bpn8734)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8735 in हिंदी (bpn8735) 
+Prayer bpn8735 (bpn8735) 
 
 [bahaiprayers.net 8735](https://bahaiprayers.net/Book/Single/63/8735)
 
@@ -824,7 +824,7 @@ Prayer bpn8735 in हिंदी (bpn8735)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8330 in हिंदी (bpn8330) 
+Prayer bpn8330 (bpn8330) 
 
 [bahaiprayers.net 8330](https://bahaiprayers.net/Book/Single/63/8330)
 
@@ -837,7 +837,7 @@ Prayer bpn8330 in हिंदी (bpn8330)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8331 in हिंदी (bpn8331) 
+Prayer bpn8331 (bpn8331) 
 
 [bahaiprayers.net 8331](https://bahaiprayers.net/Book/Single/63/8331)
 
@@ -854,7 +854,7 @@ Prayer bpn8331 in हिंदी (bpn8331)
 
 -- Bahá'u'lláh
 
-Prayer bpn8351 in हिंदी (bpn8351) 
+Prayer bpn8351 (bpn8351) 
 
 [bahaiprayers.net 8351](https://bahaiprayers.net/Book/Single/63/8351)
 
@@ -871,7 +871,7 @@ Prayer bpn8351 in हिंदी (bpn8351)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8749 in हिंदी (bpn8749) 
+Prayer bpn8749 (bpn8749) 
 
 [bahaiprayers.net 8749](https://bahaiprayers.net/Book/Single/63/8749)
 
@@ -884,7 +884,7 @@ Prayer bpn8749 in हिंदी (bpn8749)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8750 in हिंदी (bpn8750) 
+Prayer bpn8750 (bpn8750) 
 
 [bahaiprayers.net 8750](https://bahaiprayers.net/Book/Single/63/8750)
 
@@ -901,7 +901,7 @@ Prayer bpn8750 in हिंदी (bpn8750)
 
 -- Bahá'u'lláh
 
-Prayer bpn6848 in हिंदी (bpn6848) 
+Prayer bpn6848 (bpn6848) 
 
 [bahaiprayers.net 6848](https://bahaiprayers.net/Book/Single/63/6848)
 
@@ -918,7 +918,7 @@ Prayer bpn6848 in हिंदी (bpn6848)
 
 -- Bahá'u'lláh
 
-Prayer bpn8316 in हिंदी (bpn8316) 
+Prayer bpn8316 (bpn8316) 
 
 [bahaiprayers.net 8316](https://bahaiprayers.net/Book/Single/63/8316)
 
@@ -931,7 +931,7 @@ Prayer bpn8316 in हिंदी (bpn8316)
 
 -- Bahá'u'lláh
 
-Prayer bpn8317 in हिंदी (bpn8317) 
+Prayer bpn8317 (bpn8317) 
 
 [bahaiprayers.net 8317](https://bahaiprayers.net/Book/Single/63/8317)
 
@@ -944,7 +944,7 @@ Prayer bpn8317 in हिंदी (bpn8317)
 
 -- Bahá'u'lláh
 
-Prayer bpn8318 in हिंदी (bpn8318) 
+Prayer bpn8318 (bpn8318) 
 
 [bahaiprayers.net 8318](https://bahaiprayers.net/Book/Single/63/8318)
 
@@ -957,7 +957,7 @@ Prayer bpn8318 in हिंदी (bpn8318)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8320 in हिंदी (bpn8320) 
+Prayer bpn8320 (bpn8320) 
 
 [bahaiprayers.net 8320](https://bahaiprayers.net/Book/Single/63/8320)
 
@@ -974,7 +974,7 @@ Prayer bpn8320 in हिंदी (bpn8320)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8687 in हिंदी (bpn8687) 
+Prayer bpn8687 (bpn8687) 
 
 [bahaiprayers.net 8687](https://bahaiprayers.net/Book/Single/63/8687)
 
@@ -987,7 +987,7 @@ Prayer bpn8687 in हिंदी (bpn8687)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8688 in हिंदी (bpn8688) 
+Prayer bpn8688 (bpn8688) 
 
 [bahaiprayers.net 8688](https://bahaiprayers.net/Book/Single/63/8688)
 
@@ -1000,7 +1000,7 @@ Prayer bpn8688 in हिंदी (bpn8688)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8689 in हिंदी (bpn8689) 
+Prayer bpn8689 (bpn8689) 
 
 [bahaiprayers.net 8689](https://bahaiprayers.net/Book/Single/63/8689)
 
@@ -1013,7 +1013,7 @@ Prayer bpn8689 in हिंदी (bpn8689)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8690 in हिंदी (bpn8690) 
+Prayer bpn8690 (bpn8690) 
 
 [bahaiprayers.net 8690](https://bahaiprayers.net/Book/Single/63/8690)
 
@@ -1026,7 +1026,7 @@ Prayer bpn8690 in हिंदी (bpn8690)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8691 in हिंदी (bpn8691) 
+Prayer bpn8691 (bpn8691) 
 
 [bahaiprayers.net 8691](https://bahaiprayers.net/Book/Single/63/8691)
 
@@ -1043,7 +1043,7 @@ Prayer bpn8691 in हिंदी (bpn8691)
 
 -- Bahá'u'lláh
 
-Prayer bpn8310 in हिंदी (bpn8310) 
+Prayer bpn8310 (bpn8310) 
 
 [bahaiprayers.net 8310](https://bahaiprayers.net/Book/Single/63/8310)
 
@@ -1056,7 +1056,7 @@ Prayer bpn8310 in हिंदी (bpn8310)
 
 -- Bahá'u'lláh
 
-Prayer bpn8311 in हिंदी (bpn8311) 
+Prayer bpn8311 (bpn8311) 
 
 [bahaiprayers.net 8311](https://bahaiprayers.net/Book/Single/63/8311)
 
@@ -1069,7 +1069,7 @@ Prayer bpn8311 in हिंदी (bpn8311)
 
 -- Bahá'u'lláh
 
-Prayer bpn8312 in हिंदी (bpn8312) 
+Prayer bpn8312 (bpn8312) 
 
 [bahaiprayers.net 8312](https://bahaiprayers.net/Book/Single/63/8312)
 
@@ -1082,7 +1082,7 @@ Prayer bpn8312 in हिंदी (bpn8312)
 
 -- Báb
 
-Prayer bpn8313 in हिंदी (bpn8313) 
+Prayer bpn8313 (bpn8313) 
 
 [bahaiprayers.net 8313](https://bahaiprayers.net/Book/Single/63/8313)
 
@@ -1095,7 +1095,7 @@ Prayer bpn8313 in हिंदी (bpn8313)
 
 -- Báb
 
-Prayer bpn8314 in हिंदी (bpn8314) 
+Prayer bpn8314 (bpn8314) 
 
 [bahaiprayers.net 8314](https://bahaiprayers.net/Book/Single/63/8314)
 
@@ -1108,7 +1108,7 @@ Prayer bpn8314 in हिंदी (bpn8314)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8315 in हिंदी (bpn8315) 
+Prayer bpn8315 (bpn8315) 
 
 [bahaiprayers.net 8315](https://bahaiprayers.net/Book/Single/63/8315)
 
@@ -1125,7 +1125,7 @@ Prayer bpn8315 in हिंदी (bpn8315)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8322 in हिंदी (bpn8322) 
+Prayer bpn8322 (bpn8322) 
 
 [bahaiprayers.net 8322](https://bahaiprayers.net/Book/Single/63/8322)
 
@@ -1142,7 +1142,7 @@ Prayer bpn8322 in हिंदी (bpn8322)
 
 -- Bahá'u'lláh
 
-Prayer bpn8333 in हिंदी (bpn8333) 
+Prayer bpn8333 (bpn8333) 
 
 [bahaiprayers.net 8333](https://bahaiprayers.net/Book/Single/63/8333)
 
@@ -1155,7 +1155,7 @@ Prayer bpn8333 in हिंदी (bpn8333)
 
 -- Báb
 
-Prayer bpn8336 in हिंदी (bpn8336) 
+Prayer bpn8336 (bpn8336) 
 
 [bahaiprayers.net 8336](https://bahaiprayers.net/Book/Single/63/8336)
 
@@ -1168,7 +1168,7 @@ Prayer bpn8336 in हिंदी (bpn8336)
 
 -- Báb
 
-Prayer bpn8338 in हिंदी (bpn8338) 
+Prayer bpn8338 (bpn8338) 
 
 [bahaiprayers.net 8338](https://bahaiprayers.net/Book/Single/63/8338)
 
@@ -1181,7 +1181,7 @@ Prayer bpn8338 in हिंदी (bpn8338)
 
 -- Báb
 
-Prayer bpn8335 in हिंदी (bpn8335) 
+Prayer bpn8335 (bpn8335) 
 
 [bahaiprayers.net 8335](https://bahaiprayers.net/Book/Single/63/8335)
 
@@ -1194,7 +1194,7 @@ Prayer bpn8335 in हिंदी (bpn8335)
 
 -- Báb
 
-Prayer bpn8337 in हिंदी (bpn8337) 
+Prayer bpn8337 (bpn8337) 
 
 [bahaiprayers.net 8337](https://bahaiprayers.net/Book/Single/63/8337)
 
@@ -1207,7 +1207,7 @@ Prayer bpn8337 in हिंदी (bpn8337)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8340 in हिंदी (bpn8340) 
+Prayer bpn8340 (bpn8340) 
 
 [bahaiprayers.net 8340](https://bahaiprayers.net/Book/Single/63/8340)
 
@@ -1220,7 +1220,7 @@ Prayer bpn8340 in हिंदी (bpn8340)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8341 in हिंदी (bpn8341) 
+Prayer bpn8341 (bpn8341) 
 
 [bahaiprayers.net 8341](https://bahaiprayers.net/Book/Single/63/8341)
 
@@ -1233,7 +1233,7 @@ Prayer bpn8341 in हिंदी (bpn8341)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8343 in हिंदी (bpn8343) 
+Prayer bpn8343 (bpn8343) 
 
 [bahaiprayers.net 8343](https://bahaiprayers.net/Book/Single/63/8343)
 
@@ -1246,7 +1246,7 @@ Prayer bpn8343 in हिंदी (bpn8343)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8347 in हिंदी (bpn8347) 
+Prayer bpn8347 (bpn8347) 
 
 [bahaiprayers.net 8347](https://bahaiprayers.net/Book/Single/63/8347)
 
@@ -1263,7 +1263,7 @@ Prayer bpn8347 in हिंदी (bpn8347)
 
 -- Bahá'u'lláh
 
-Prayer bpn8342 in हिंदी (bpn8342) 
+Prayer bpn8342 (bpn8342) 
 
 [bahaiprayers.net 8342](https://bahaiprayers.net/Book/Single/63/8342)
 
@@ -1276,7 +1276,7 @@ Prayer bpn8342 in हिंदी (bpn8342)
 
 -- Bahá'u'lláh
 
-Prayer bpn8344 in हिंदी (bpn8344) 
+Prayer bpn8344 (bpn8344) 
 
 [bahaiprayers.net 8344](https://bahaiprayers.net/Book/Single/63/8344)
 
@@ -1289,7 +1289,7 @@ Prayer bpn8344 in हिंदी (bpn8344)
 
 -- Bahá'u'lláh
 
-Prayer bpn8345 in हिंदी (bpn8345) 
+Prayer bpn8345 (bpn8345) 
 
 [bahaiprayers.net 8345](https://bahaiprayers.net/Book/Single/63/8345)
 
@@ -1302,7 +1302,7 @@ Prayer bpn8345 in हिंदी (bpn8345)
 
 -- Báb
 
-Prayer bpn8346 in हिंदी (bpn8346) 
+Prayer bpn8346 (bpn8346) 
 
 [bahaiprayers.net 8346](https://bahaiprayers.net/Book/Single/63/8346)
 
@@ -1319,7 +1319,7 @@ Prayer bpn8346 in हिंदी (bpn8346)
 
 -- Bahá'u'lláh
 
-Prayer bpn8348 in हिंदी (bpn8348) 
+Prayer bpn8348 (bpn8348) 
 
 [bahaiprayers.net 8348](https://bahaiprayers.net/Book/Single/63/8348)
 
@@ -1332,7 +1332,7 @@ Prayer bpn8348 in हिंदी (bpn8348)
 
 -- Bahá'u'lláh
 
-Prayer bpn8349 in हिंदी (bpn8349) 
+Prayer bpn8349 (bpn8349) 
 
 [bahaiprayers.net 8349](https://bahaiprayers.net/Book/Single/63/8349)
 
@@ -1345,7 +1345,7 @@ Prayer bpn8349 in हिंदी (bpn8349)
 
 -- Bahá'u'lláh
 
-Prayer bpn8352 in हिंदी (bpn8352) 
+Prayer bpn8352 (bpn8352) 
 
 [bahaiprayers.net 8352](https://bahaiprayers.net/Book/Single/63/8352)
 
@@ -1358,7 +1358,7 @@ Prayer bpn8352 in हिंदी (bpn8352)
 
 -- Bahá'u'lláh
 
-Prayer bpn8353 in हिंदी (bpn8353) 
+Prayer bpn8353 (bpn8353) 
 
 [bahaiprayers.net 8353](https://bahaiprayers.net/Book/Single/63/8353)
 
@@ -1371,7 +1371,7 @@ Prayer bpn8353 in हिंदी (bpn8353)
 
 -- Bahá'u'lláh
 
-Prayer bpn8357 in हिंदी (bpn8357) 
+Prayer bpn8357 (bpn8357) 
 
 [bahaiprayers.net 8357](https://bahaiprayers.net/Book/Single/63/8357)
 
@@ -1384,7 +1384,7 @@ Prayer bpn8357 in हिंदी (bpn8357)
 
 -- Bahá'u'lláh
 
-Prayer bpn8358 in हिंदी (bpn8358) 
+Prayer bpn8358 (bpn8358) 
 
 [bahaiprayers.net 8358](https://bahaiprayers.net/Book/Single/63/8358)
 
@@ -1397,7 +1397,7 @@ Prayer bpn8358 in हिंदी (bpn8358)
 
 -- Bahá'u'lláh
 
-Prayer bpn8359 in हिंदी (bpn8359) 
+Prayer bpn8359 (bpn8359) 
 
 [bahaiprayers.net 8359](https://bahaiprayers.net/Book/Single/63/8359)
 
@@ -1410,7 +1410,7 @@ Prayer bpn8359 in हिंदी (bpn8359)
 
 -- Bahá'u'lláh
 
-Prayer bpn8362 in हिंदी (bpn8362) 
+Prayer bpn8362 (bpn8362) 
 
 [bahaiprayers.net 8362](https://bahaiprayers.net/Book/Single/63/8362)
 
@@ -1423,7 +1423,7 @@ Prayer bpn8362 in हिंदी (bpn8362)
 
 -- Bahá'u'lláh
 
-Prayer bpn8366 in हिंदी (bpn8366) 
+Prayer bpn8366 (bpn8366) 
 
 [bahaiprayers.net 8366](https://bahaiprayers.net/Book/Single/63/8366)
 
@@ -1436,7 +1436,7 @@ Prayer bpn8366 in हिंदी (bpn8366)
 
 -- Bahá'u'lláh
 
-Prayer bpn8369 in हिंदी (bpn8369) 
+Prayer bpn8369 (bpn8369) 
 
 [bahaiprayers.net 8369](https://bahaiprayers.net/Book/Single/63/8369)
 
@@ -1453,7 +1453,7 @@ Prayer bpn8369 in हिंदी (bpn8369)
 
 -- Bahá'u'lláh
 
-Prayer bpn8355 in हिंदी (bpn8355) 
+Prayer bpn8355 (bpn8355) 
 
 [bahaiprayers.net 8355](https://bahaiprayers.net/Book/Single/63/8355)
 
@@ -1466,7 +1466,7 @@ Prayer bpn8355 in हिंदी (bpn8355)
 
 -- Bahá'u'lláh
 
-Prayer bpn8361 in हिंदी (bpn8361) 
+Prayer bpn8361 (bpn8361) 
 
 [bahaiprayers.net 8361](https://bahaiprayers.net/Book/Single/63/8361)
 
@@ -1479,7 +1479,7 @@ Prayer bpn8361 in हिंदी (bpn8361)
 
 -- Bahá'u'lláh
 
-Prayer bpn8367 in हिंदी (bpn8367) 
+Prayer bpn8367 (bpn8367) 
 
 [bahaiprayers.net 8367](https://bahaiprayers.net/Book/Single/63/8367)
 
@@ -1492,7 +1492,7 @@ Prayer bpn8367 in हिंदी (bpn8367)
 
 -- Báb
 
-Prayer bpn8360 in हिंदी (bpn8360) 
+Prayer bpn8360 (bpn8360) 
 
 [bahaiprayers.net 8360](https://bahaiprayers.net/Book/Single/63/8360)
 
@@ -1505,7 +1505,7 @@ Prayer bpn8360 in हिंदी (bpn8360)
 
 -- Báb
 
-Prayer bpn8363 in हिंदी (bpn8363) 
+Prayer bpn8363 (bpn8363) 
 
 [bahaiprayers.net 8363](https://bahaiprayers.net/Book/Single/63/8363)
 
@@ -1518,7 +1518,7 @@ Prayer bpn8363 in हिंदी (bpn8363)
 
 -- Báb
 
-Prayer bpn8365 in हिंदी (bpn8365) 
+Prayer bpn8365 (bpn8365) 
 
 [bahaiprayers.net 8365](https://bahaiprayers.net/Book/Single/63/8365)
 
@@ -1531,7 +1531,7 @@ Prayer bpn8365 in हिंदी (bpn8365)
 
 -- Báb
 
-Prayer bpn8370 in हिंदी (bpn8370) 
+Prayer bpn8370 (bpn8370) 
 
 [bahaiprayers.net 8370](https://bahaiprayers.net/Book/Single/63/8370)
 
@@ -1544,7 +1544,7 @@ Prayer bpn8370 in हिंदी (bpn8370)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8368 in हिंदी (bpn8368) 
+Prayer bpn8368 (bpn8368) 
 
 [bahaiprayers.net 8368](https://bahaiprayers.net/Book/Single/63/8368)
 
@@ -1561,7 +1561,7 @@ Prayer bpn8368 in हिंदी (bpn8368)
 
 -- Bahá'u'lláh
 
-Prayer bpn8378 in हिंदी (bpn8378) 
+Prayer bpn8378 (bpn8378) 
 
 [bahaiprayers.net 8378](https://bahaiprayers.net/Book/Single/63/8378)
 
@@ -1574,7 +1574,7 @@ Prayer bpn8378 in हिंदी (bpn8378)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8379 in हिंदी (bpn8379) 
+Prayer bpn8379 (bpn8379) 
 
 [bahaiprayers.net 8379](https://bahaiprayers.net/Book/Single/63/8379)
 
@@ -1587,7 +1587,7 @@ Prayer bpn8379 in हिंदी (bpn8379)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8380 in हिंदी (bpn8380) 
+Prayer bpn8380 (bpn8380) 
 
 [bahaiprayers.net 8380](https://bahaiprayers.net/Book/Single/63/8380)
 
@@ -1600,7 +1600,7 @@ Prayer bpn8380 in हिंदी (bpn8380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8381 in हिंदी (bpn8381) 
+Prayer bpn8381 (bpn8381) 
 
 [bahaiprayers.net 8381](https://bahaiprayers.net/Book/Single/63/8381)
 
@@ -1613,7 +1613,7 @@ Prayer bpn8381 in हिंदी (bpn8381)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8383 in हिंदी (bpn8383) 
+Prayer bpn8383 (bpn8383) 
 
 [bahaiprayers.net 8383](https://bahaiprayers.net/Book/Single/63/8383)
 
@@ -1626,7 +1626,7 @@ Prayer bpn8383 in हिंदी (bpn8383)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8382 in हिंदी (bpn8382) 
+Prayer bpn8382 (bpn8382) 
 
 [bahaiprayers.net 8382](https://bahaiprayers.net/Book/Single/63/8382)
 
@@ -1643,7 +1643,7 @@ Prayer bpn8382 in हिंदी (bpn8382)
 
 -- Bahá'u'lláh
 
-Prayer bpn8738 in हिंदी (bpn8738) 
+Prayer bpn8738 (bpn8738) 
 
 [bahaiprayers.net 8738](https://bahaiprayers.net/Book/Single/63/8738)
 
@@ -1660,7 +1660,7 @@ Prayer bpn8738 in हिंदी (bpn8738)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8692 in हिंदी (bpn8692) 
+Prayer bpn8692 (bpn8692) 
 
 [bahaiprayers.net 8692](https://bahaiprayers.net/Book/Single/63/8692)
 
@@ -1677,7 +1677,7 @@ Prayer bpn8692 in हिंदी (bpn8692)
 
 -- Bahá'u'lláh
 
-Prayer bpn8326 in हिंदी (bpn8326) 
+Prayer bpn8326 (bpn8326) 
 
 [bahaiprayers.net 8326](https://bahaiprayers.net/Book/Single/63/8326)
 
@@ -1690,7 +1690,7 @@ Prayer bpn8326 in हिंदी (bpn8326)
 
 -- Báb
 
-Prayer bpn8328 in हिंदी (bpn8328) 
+Prayer bpn8328 (bpn8328) 
 
 [bahaiprayers.net 8328](https://bahaiprayers.net/Book/Single/63/8328)
 
@@ -1703,7 +1703,7 @@ Prayer bpn8328 in हिंदी (bpn8328)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8324 in हिंदी (bpn8324) 
+Prayer bpn8324 (bpn8324) 
 
 [bahaiprayers.net 8324](https://bahaiprayers.net/Book/Single/63/8324)
 
@@ -1720,7 +1720,7 @@ Prayer bpn8324 in हिंदी (bpn8324)
 
 -- Bahá'u'lláh
 
-Prayer bpn8755 in हिंदी (bpn8755) 
+Prayer bpn8755 (bpn8755) 
 
 [bahaiprayers.net 8755](https://bahaiprayers.net/Book/Single/63/8755)
 
@@ -1737,7 +1737,7 @@ Prayer bpn8755 in हिंदी (bpn8755)
 
 -- Bahá'u'lláh
 
-Prayer bpn8736 in हिंदी (bpn8736) 
+Prayer bpn8736 (bpn8736) 
 
 [bahaiprayers.net 8736](https://bahaiprayers.net/Book/Single/63/8736)
 
@@ -1754,7 +1754,7 @@ Prayer bpn8736 in हिंदी (bpn8736)
 
 -- Bahá'u'lláh
 
-Prayer bpn8740 in हिंदी (bpn8740) 
+Prayer bpn8740 (bpn8740) 
 
 [bahaiprayers.net 8740](https://bahaiprayers.net/Book/Single/63/8740)
 
@@ -1771,7 +1771,7 @@ Prayer bpn8740 in हिंदी (bpn8740)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8384 in हिंदी (bpn8384) 
+Prayer bpn8384 (bpn8384) 
 
 [bahaiprayers.net 8384](https://bahaiprayers.net/Book/Single/63/8384)
 
@@ -1784,7 +1784,7 @@ Prayer bpn8384 in हिंदी (bpn8384)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8385 in हिंदी (bpn8385) 
+Prayer bpn8385 (bpn8385) 
 
 [bahaiprayers.net 8385](https://bahaiprayers.net/Book/Single/63/8385)
 
@@ -1797,7 +1797,7 @@ Prayer bpn8385 in हिंदी (bpn8385)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8386 in हिंदी (bpn8386) 
+Prayer bpn8386 (bpn8386) 
 
 [bahaiprayers.net 8386](https://bahaiprayers.net/Book/Single/63/8386)
 
@@ -1810,7 +1810,7 @@ Prayer bpn8386 in हिंदी (bpn8386)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8387 in हिंदी (bpn8387) 
+Prayer bpn8387 (bpn8387) 
 
 [bahaiprayers.net 8387](https://bahaiprayers.net/Book/Single/63/8387)
 
@@ -1827,7 +1827,7 @@ Prayer bpn8387 in हिंदी (bpn8387)
 
 -- Bahá'u'lláh
 
-Prayer bpn8681 in हिंदी (bpn8681) 
+Prayer bpn8681 (bpn8681) 
 
 [bahaiprayers.net 8681](https://bahaiprayers.net/Book/Single/63/8681)
 
@@ -1840,7 +1840,7 @@ Prayer bpn8681 in हिंदी (bpn8681)
 
 -- Bahá'u'lláh
 
-Prayer bpn8682 in हिंदी (bpn8682) 
+Prayer bpn8682 (bpn8682) 
 
 [bahaiprayers.net 8682](https://bahaiprayers.net/Book/Single/63/8682)
 
@@ -1857,7 +1857,7 @@ Prayer bpn8682 in हिंदी (bpn8682)
 
 -- Bahá'u'lláh
 
-Prayer bpn8683 in हिंदी (bpn8683) 
+Prayer bpn8683 (bpn8683) 
 
 [bahaiprayers.net 8683](https://bahaiprayers.net/Book/Single/63/8683)
 
@@ -1870,7 +1870,7 @@ Prayer bpn8683 in हिंदी (bpn8683)
 
 -- Bahá'u'lláh
 
-Prayer bpn8684 in हिंदी (bpn8684) 
+Prayer bpn8684 (bpn8684) 
 
 [bahaiprayers.net 8684](https://bahaiprayers.net/Book/Single/63/8684)
 
@@ -1883,7 +1883,7 @@ Prayer bpn8684 in हिंदी (bpn8684)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8685 in हिंदी (bpn8685) 
+Prayer bpn8685 (bpn8685) 
 
 [bahaiprayers.net 8685](https://bahaiprayers.net/Book/Single/63/8685)
 
@@ -1896,7 +1896,7 @@ Prayer bpn8685 in हिंदी (bpn8685)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8686 in हिंदी (bpn8686) 
+Prayer bpn8686 (bpn8686) 
 
 [bahaiprayers.net 8686](https://bahaiprayers.net/Book/Single/63/8686)
 
@@ -1913,7 +1913,7 @@ Prayer bpn8686 in हिंदी (bpn8686)
 
 -- Bahá'u'lláh
 
-Prayer bpn8721 in हिंदी (bpn8721) 
+Prayer bpn8721 (bpn8721) 
 
 [bahaiprayers.net 8721](https://bahaiprayers.net/Book/Single/63/8721)
 
@@ -1926,7 +1926,7 @@ Prayer bpn8721 in हिंदी (bpn8721)
 
 -- Bahá'u'lláh
 
-Prayer bpn8722 in हिंदी (bpn8722) 
+Prayer bpn8722 (bpn8722) 
 
 [bahaiprayers.net 8722](https://bahaiprayers.net/Book/Single/63/8722)
 
@@ -1939,7 +1939,7 @@ Prayer bpn8722 in हिंदी (bpn8722)
 
 -- Bahá'u'lláh
 
-Prayer bpn8723 in हिंदी (bpn8723) 
+Prayer bpn8723 (bpn8723) 
 
 [bahaiprayers.net 8723](https://bahaiprayers.net/Book/Single/63/8723)
 
@@ -1952,7 +1952,7 @@ Prayer bpn8723 in हिंदी (bpn8723)
 
 -- Báb
 
-Prayer bpn8724 in हिंदी (bpn8724) 
+Prayer bpn8724 (bpn8724) 
 
 [bahaiprayers.net 8724](https://bahaiprayers.net/Book/Single/63/8724)
 
@@ -1965,7 +1965,7 @@ Prayer bpn8724 in हिंदी (bpn8724)
 
 -- Báb
 
-Prayer bpn8725 in हिंदी (bpn8725) 
+Prayer bpn8725 (bpn8725) 
 
 [bahaiprayers.net 8725](https://bahaiprayers.net/Book/Single/63/8725)
 
@@ -1978,7 +1978,7 @@ Prayer bpn8725 in हिंदी (bpn8725)
 
 -- Báb
 
-Prayer bpn8726 in हिंदी (bpn8726) 
+Prayer bpn8726 (bpn8726) 
 
 [bahaiprayers.net 8726](https://bahaiprayers.net/Book/Single/63/8726)
 
@@ -1991,7 +1991,7 @@ Prayer bpn8726 in हिंदी (bpn8726)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8727 in हिंदी (bpn8727) 
+Prayer bpn8727 (bpn8727) 
 
 [bahaiprayers.net 8727](https://bahaiprayers.net/Book/Single/63/8727)
 
@@ -2008,7 +2008,7 @@ Prayer bpn8727 in हिंदी (bpn8727)
 
 -- Bahá'u'lláh
 
-Prayer bpn8715 in हिंदी (bpn8715) 
+Prayer bpn8715 (bpn8715) 
 
 [bahaiprayers.net 8715](https://bahaiprayers.net/Book/Single/63/8715)
 
@@ -2021,7 +2021,7 @@ Prayer bpn8715 in हिंदी (bpn8715)
 
 -- Bahá'u'lláh
 
-Prayer bpn8716 in हिंदी (bpn8716) 
+Prayer bpn8716 (bpn8716) 
 
 [bahaiprayers.net 8716](https://bahaiprayers.net/Book/Single/63/8716)
 
@@ -2034,7 +2034,7 @@ Prayer bpn8716 in हिंदी (bpn8716)
 
 -- Bahá'u'lláh
 
-Prayer bpn8717 in हिंदी (bpn8717) 
+Prayer bpn8717 (bpn8717) 
 
 [bahaiprayers.net 8717](https://bahaiprayers.net/Book/Single/63/8717)
 
@@ -2047,7 +2047,7 @@ Prayer bpn8717 in हिंदी (bpn8717)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8718 in हिंदी (bpn8718) 
+Prayer bpn8718 (bpn8718) 
 
 [bahaiprayers.net 8718](https://bahaiprayers.net/Book/Single/63/8718)
 
@@ -2060,7 +2060,7 @@ Prayer bpn8718 in हिंदी (bpn8718)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8719 in हिंदी (bpn8719) 
+Prayer bpn8719 (bpn8719) 
 
 [bahaiprayers.net 8719](https://bahaiprayers.net/Book/Single/63/8719)
 
@@ -2073,7 +2073,7 @@ Prayer bpn8719 in हिंदी (bpn8719)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8720 in हिंदी (bpn8720) 
+Prayer bpn8720 (bpn8720) 
 
 [bahaiprayers.net 8720](https://bahaiprayers.net/Book/Single/63/8720)
 
@@ -2090,7 +2090,7 @@ Prayer bpn8720 in हिंदी (bpn8720)
 
 -- Bahá'u'lláh
 
-Prayer bpn8697 in हिंदी (bpn8697) 
+Prayer bpn8697 (bpn8697) 
 
 [bahaiprayers.net 8697](https://bahaiprayers.net/Book/Single/63/8697)
 
@@ -2103,7 +2103,7 @@ Prayer bpn8697 in हिंदी (bpn8697)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8698 in हिंदी (bpn8698) 
+Prayer bpn8698 (bpn8698) 
 
 [bahaiprayers.net 8698](https://bahaiprayers.net/Book/Single/63/8698)
 
@@ -2116,7 +2116,7 @@ Prayer bpn8698 in हिंदी (bpn8698)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8699 in हिंदी (bpn8699) 
+Prayer bpn8699 (bpn8699) 
 
 [bahaiprayers.net 8699](https://bahaiprayers.net/Book/Single/63/8699)
 
@@ -2129,7 +2129,7 @@ Prayer bpn8699 in हिंदी (bpn8699)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8700 in हिंदी (bpn8700) 
+Prayer bpn8700 (bpn8700) 
 
 [bahaiprayers.net 8700](https://bahaiprayers.net/Book/Single/63/8700)
 
@@ -2142,7 +2142,7 @@ Prayer bpn8700 in हिंदी (bpn8700)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8701 in हिंदी (bpn8701) 
+Prayer bpn8701 (bpn8701) 
 
 [bahaiprayers.net 8701](https://bahaiprayers.net/Book/Single/63/8701)
 
@@ -2155,7 +2155,7 @@ Prayer bpn8701 in हिंदी (bpn8701)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8702 in हिंदी (bpn8702) 
+Prayer bpn8702 (bpn8702) 
 
 [bahaiprayers.net 8702](https://bahaiprayers.net/Book/Single/63/8702)
 
@@ -2172,7 +2172,7 @@ Prayer bpn8702 in हिंदी (bpn8702)
 
 -- Bahá'u'lláh
 
-Prayer bpn8703 in हिंदी (bpn8703) 
+Prayer bpn8703 (bpn8703) 
 
 [bahaiprayers.net 8703](https://bahaiprayers.net/Book/Single/63/8703)
 
@@ -2185,7 +2185,7 @@ Prayer bpn8703 in हिंदी (bpn8703)
 
 -- Bahá'u'lláh
 
-Prayer bpn8704 in हिंदी (bpn8704) 
+Prayer bpn8704 (bpn8704) 
 
 [bahaiprayers.net 8704](https://bahaiprayers.net/Book/Single/63/8704)
 
@@ -2198,7 +2198,7 @@ Prayer bpn8704 in हिंदी (bpn8704)
 
 -- Bahá'u'lláh
 
-Prayer bpn8707 in हिंदी (bpn8707) 
+Prayer bpn8707 (bpn8707) 
 
 [bahaiprayers.net 8707](https://bahaiprayers.net/Book/Single/63/8707)
 
@@ -2211,7 +2211,7 @@ Prayer bpn8707 in हिंदी (bpn8707)
 
 -- Bahá'u'lláh
 
-Prayer bpn8706 in हिंदी (bpn8706) 
+Prayer bpn8706 (bpn8706) 
 
 [bahaiprayers.net 8706](https://bahaiprayers.net/Book/Single/63/8706)
 
@@ -2224,7 +2224,7 @@ Prayer bpn8706 in हिंदी (bpn8706)
 
 -- Báb
 
-Prayer bpn8705 in हिंदी (bpn8705) 
+Prayer bpn8705 (bpn8705) 
 
 [bahaiprayers.net 8705](https://bahaiprayers.net/Book/Single/63/8705)
 
@@ -2237,7 +2237,7 @@ Prayer bpn8705 in हिंदी (bpn8705)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8708 in हिंदी (bpn8708) 
+Prayer bpn8708 (bpn8708) 
 
 [bahaiprayers.net 8708](https://bahaiprayers.net/Book/Single/63/8708)
 
@@ -2250,7 +2250,7 @@ Prayer bpn8708 in हिंदी (bpn8708)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8709 in हिंदी (bpn8709) 
+Prayer bpn8709 (bpn8709) 
 
 [bahaiprayers.net 8709](https://bahaiprayers.net/Book/Single/63/8709)
 
@@ -2263,7 +2263,7 @@ Prayer bpn8709 in हिंदी (bpn8709)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8710 in हिंदी (bpn8710) 
+Prayer bpn8710 (bpn8710) 
 
 [bahaiprayers.net 8710](https://bahaiprayers.net/Book/Single/63/8710)
 
@@ -2276,7 +2276,7 @@ Prayer bpn8710 in हिंदी (bpn8710)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8711 in हिंदी (bpn8711) 
+Prayer bpn8711 (bpn8711) 
 
 [bahaiprayers.net 8711](https://bahaiprayers.net/Book/Single/63/8711)
 
@@ -2289,7 +2289,7 @@ Prayer bpn8711 in हिंदी (bpn8711)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8712 in हिंदी (bpn8712) 
+Prayer bpn8712 (bpn8712) 
 
 [bahaiprayers.net 8712](https://bahaiprayers.net/Book/Single/63/8712)
 
@@ -2302,7 +2302,7 @@ Prayer bpn8712 in हिंदी (bpn8712)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8713 in हिंदी (bpn8713) 
+Prayer bpn8713 (bpn8713) 
 
 [bahaiprayers.net 8713](https://bahaiprayers.net/Book/Single/63/8713)
 
@@ -2315,7 +2315,7 @@ Prayer bpn8713 in हिंदी (bpn8713)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8714 in हिंदी (bpn8714) 
+Prayer bpn8714 (bpn8714) 
 
 [bahaiprayers.net 8714](https://bahaiprayers.net/Book/Single/63/8714)
 
@@ -2332,7 +2332,7 @@ Prayer bpn8714 in हिंदी (bpn8714)
 
 -- Bahá'u'lláh
 
-Prayer bpn8693 in हिंदी (bpn8693) 
+Prayer bpn8693 (bpn8693) 
 
 [bahaiprayers.net 8693](https://bahaiprayers.net/Book/Single/63/8693)
 
@@ -2345,7 +2345,7 @@ Prayer bpn8693 in हिंदी (bpn8693)
 
 -- Bahá'u'lláh
 
-Prayer bpn8694 in हिंदी (bpn8694) 
+Prayer bpn8694 (bpn8694) 
 
 [bahaiprayers.net 8694](https://bahaiprayers.net/Book/Single/63/8694)
 
@@ -2358,7 +2358,7 @@ Prayer bpn8694 in हिंदी (bpn8694)
 
 -- Bahá'u'lláh
 
-Prayer bpn8695 in हिंदी (bpn8695) 
+Prayer bpn8695 (bpn8695) 
 
 [bahaiprayers.net 8695](https://bahaiprayers.net/Book/Single/63/8695)
 
@@ -2371,7 +2371,7 @@ Prayer bpn8695 in हिंदी (bpn8695)
 
 -- Bahá'u'lláh
 
-Prayer bpn8696 in हिंदी (bpn8696) 
+Prayer bpn8696 (bpn8696) 
 
 [bahaiprayers.net 8696](https://bahaiprayers.net/Book/Single/63/8696)
 

@@ -102,7 +102,7 @@ tags = ['lang=el', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn7054 in ελληνικά (bpn7054) 
+Prayer bpn7054 (bpn7054) 
 
 [bahaiprayers.net 7054](https://bahaiprayers.net/Book/Single/68/7054)
 
@@ -115,7 +115,7 @@ Prayer bpn7054 in ελληνικά (bpn7054)
 
 -- Bahá'u'lláh
 
-Prayer bpn7055 in ελληνικά (bpn7055) 
+Prayer bpn7055 (bpn7055) 
 
 [bahaiprayers.net 7055](https://bahaiprayers.net/Book/Single/68/7055)
 
@@ -128,7 +128,7 @@ Prayer bpn7055 in ελληνικά (bpn7055)
 
 -- Bahá'u'lláh
 
-Prayer bpn7056 in ελληνικά (bpn7056) 
+Prayer bpn7056 (bpn7056) 
 
 [bahaiprayers.net 7056](https://bahaiprayers.net/Book/Single/68/7056)
 
@@ -141,7 +141,7 @@ Prayer bpn7056 in ελληνικά (bpn7056)
 
 -- Bahá'u'lláh
 
-Prayer bpn7057 in ελληνικά (bpn7057) 
+Prayer bpn7057 (bpn7057) 
 
 [bahaiprayers.net 7057](https://bahaiprayers.net/Book/Single/68/7057)
 
@@ -154,7 +154,7 @@ Prayer bpn7057 in ελληνικά (bpn7057)
 
 -- Bahá'u'lláh
 
-Prayer bpn7058 in ελληνικά (bpn7058) 
+Prayer bpn7058 (bpn7058) 
 
 [bahaiprayers.net 7058](https://bahaiprayers.net/Book/Single/68/7058)
 
@@ -167,7 +167,7 @@ Prayer bpn7058 in ελληνικά (bpn7058)
 
 -- Bahá'u'lláh
 
-Prayer bpn7059 in ελληνικά (bpn7059) 
+Prayer bpn7059 (bpn7059) 
 
 [bahaiprayers.net 7059](https://bahaiprayers.net/Book/Single/68/7059)
 
@@ -180,7 +180,7 @@ Prayer bpn7059 in ελληνικά (bpn7059)
 
 -- Báb
 
-Prayer bpn7060 in ελληνικά (bpn7060) 
+Prayer bpn7060 (bpn7060) 
 
 [bahaiprayers.net 7060](https://bahaiprayers.net/Book/Single/68/7060)
 
@@ -193,7 +193,7 @@ Prayer bpn7060 in ελληνικά (bpn7060)
 
 -- Báb
 
-Prayer bpn7061 in ελληνικά (bpn7061) 
+Prayer bpn7061 (bpn7061) 
 
 [bahaiprayers.net 7061](https://bahaiprayers.net/Book/Single/68/7061)
 
@@ -206,7 +206,7 @@ Prayer bpn7061 in ελληνικά (bpn7061)
 
 -- Báb
 
-Prayer bpn7062 in ελληνικά (bpn7062) 
+Prayer bpn7062 (bpn7062) 
 
 [bahaiprayers.net 7062](https://bahaiprayers.net/Book/Single/68/7062)
 
@@ -219,7 +219,7 @@ Prayer bpn7062 in ελληνικά (bpn7062)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7063 in ελληνικά (bpn7063) 
+Prayer bpn7063 (bpn7063) 
 
 [bahaiprayers.net 7063](https://bahaiprayers.net/Book/Single/68/7063)
 
@@ -232,7 +232,7 @@ Prayer bpn7063 in ελληνικά (bpn7063)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7064 in ελληνικά (bpn7064) 
+Prayer bpn7064 (bpn7064) 
 
 [bahaiprayers.net 7064](https://bahaiprayers.net/Book/Single/68/7064)
 
@@ -249,7 +249,7 @@ Prayer bpn7064 in ελληνικά (bpn7064)
 
 -- Bahá'u'lláh
 
-Prayer bpn7065 in ελληνικά (bpn7065) 
+Prayer bpn7065 (bpn7065) 
 
 [bahaiprayers.net 7065](https://bahaiprayers.net/Book/Single/68/7065)
 
@@ -262,7 +262,7 @@ Prayer bpn7065 in ελληνικά (bpn7065)
 
 -- Bahá'u'lláh
 
-Prayer bpn7066 in ελληνικά (bpn7066) 
+Prayer bpn7066 (bpn7066) 
 
 [bahaiprayers.net 7066](https://bahaiprayers.net/Book/Single/68/7066)
 
@@ -275,7 +275,7 @@ Prayer bpn7066 in ελληνικά (bpn7066)
 
 -- Báb
 
-Prayer bpn7067 in ελληνικά (bpn7067) 
+Prayer bpn7067 (bpn7067) 
 
 [bahaiprayers.net 7067](https://bahaiprayers.net/Book/Single/68/7067)
 
@@ -288,7 +288,7 @@ Prayer bpn7067 in ελληνικά (bpn7067)
 
 -- Báb
 
-Prayer bpn7068 in ελληνικά (bpn7068) 
+Prayer bpn7068 (bpn7068) 
 
 [bahaiprayers.net 7068](https://bahaiprayers.net/Book/Single/68/7068)
 
@@ -301,7 +301,7 @@ Prayer bpn7068 in ελληνικά (bpn7068)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7069 in ελληνικά (bpn7069) 
+Prayer bpn7069 (bpn7069) 
 
 [bahaiprayers.net 7069](https://bahaiprayers.net/Book/Single/68/7069)
 
@@ -314,7 +314,7 @@ Prayer bpn7069 in ελληνικά (bpn7069)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7070 in ελληνικά (bpn7070) 
+Prayer bpn7070 (bpn7070) 
 
 [bahaiprayers.net 7070](https://bahaiprayers.net/Book/Single/68/7070)
 
@@ -327,7 +327,7 @@ Prayer bpn7070 in ελληνικά (bpn7070)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7071 in ελληνικά (bpn7071) 
+Prayer bpn7071 (bpn7071) 
 
 [bahaiprayers.net 7071](https://bahaiprayers.net/Book/Single/68/7071)
 
@@ -344,7 +344,7 @@ Prayer bpn7071 in ελληνικά (bpn7071)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7074 in ελληνικά (bpn7074) 
+Prayer bpn7074 (bpn7074) 
 
 [bahaiprayers.net 7074](https://bahaiprayers.net/Book/Single/68/7074)
 
@@ -361,7 +361,7 @@ Prayer bpn7074 in ελληνικά (bpn7074)
 
 -- Bahá'u'lláh
 
-Prayer bpn7072 in ελληνικά (bpn7072) 
+Prayer bpn7072 (bpn7072) 
 
 [bahaiprayers.net 7072](https://bahaiprayers.net/Book/Single/68/7072)
 
@@ -374,7 +374,7 @@ Prayer bpn7072 in ελληνικά (bpn7072)
 
 -- Bahá'u'lláh
 
-Prayer bpn7073 in ελληνικά (bpn7073) 
+Prayer bpn7073 (bpn7073) 
 
 [bahaiprayers.net 7073](https://bahaiprayers.net/Book/Single/68/7073)
 
@@ -391,7 +391,7 @@ Prayer bpn7073 in ελληνικά (bpn7073)
 
 -- Bahá'u'lláh
 
-Prayer bpn7232 in ελληνικά (bpn7232) 
+Prayer bpn7232 (bpn7232) 
 
 [bahaiprayers.net 7232](https://bahaiprayers.net/Book/Single/68/7232)
 
@@ -404,7 +404,7 @@ Prayer bpn7232 in ελληνικά (bpn7232)
 
 -- Bahá'u'lláh
 
-Prayer bpn7233 in ελληνικά (bpn7233) 
+Prayer bpn7233 (bpn7233) 
 
 [bahaiprayers.net 7233](https://bahaiprayers.net/Book/Single/68/7233)
 
@@ -417,7 +417,7 @@ Prayer bpn7233 in ελληνικά (bpn7233)
 
 -- Bahá'u'lláh
 
-Prayer bpn7234 in ελληνικά (bpn7234) 
+Prayer bpn7234 (bpn7234) 
 
 [bahaiprayers.net 7234](https://bahaiprayers.net/Book/Single/68/7234)
 
@@ -430,7 +430,7 @@ Prayer bpn7234 in ελληνικά (bpn7234)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7235 in ελληνικά (bpn7235) 
+Prayer bpn7235 (bpn7235) 
 
 [bahaiprayers.net 7235](https://bahaiprayers.net/Book/Single/68/7235)
 
@@ -447,7 +447,7 @@ Prayer bpn7235 in ελληνικά (bpn7235)
 
 -- Bahá'u'lláh
 
-Prayer bpn7128 in ελληνικά (bpn7128) 
+Prayer bpn7128 (bpn7128) 
 
 [bahaiprayers.net 7128](https://bahaiprayers.net/Book/Single/68/7128)
 
@@ -460,7 +460,7 @@ Prayer bpn7128 in ελληνικά (bpn7128)
 
 -- Bahá'u'lláh
 
-Prayer bpn7129 in ελληνικά (bpn7129) 
+Prayer bpn7129 (bpn7129) 
 
 [bahaiprayers.net 7129](https://bahaiprayers.net/Book/Single/68/7129)
 
@@ -473,7 +473,7 @@ Prayer bpn7129 in ελληνικά (bpn7129)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7130 in ελληνικά (bpn7130) 
+Prayer bpn7130 (bpn7130) 
 
 [bahaiprayers.net 7130](https://bahaiprayers.net/Book/Single/68/7130)
 
@@ -486,7 +486,7 @@ Prayer bpn7130 in ελληνικά (bpn7130)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7131 in ελληνικά (bpn7131) 
+Prayer bpn7131 (bpn7131) 
 
 [bahaiprayers.net 7131](https://bahaiprayers.net/Book/Single/68/7131)
 
@@ -499,7 +499,7 @@ Prayer bpn7131 in ελληνικά (bpn7131)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7132 in ελληνικά (bpn7132) 
+Prayer bpn7132 (bpn7132) 
 
 [bahaiprayers.net 7132](https://bahaiprayers.net/Book/Single/68/7132)
 
@@ -516,7 +516,7 @@ Prayer bpn7132 in ελληνικά (bpn7132)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7083 in ελληνικά (bpn7083) 
+Prayer bpn7083 (bpn7083) 
 
 [bahaiprayers.net 7083](https://bahaiprayers.net/Book/Single/68/7083)
 
@@ -533,7 +533,7 @@ Prayer bpn7083 in ελληνικά (bpn7083)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7133 in ελληνικά (bpn7133) 
+Prayer bpn7133 (bpn7133) 
 
 [bahaiprayers.net 7133](https://bahaiprayers.net/Book/Single/68/7133)
 
@@ -546,7 +546,7 @@ Prayer bpn7133 in ελληνικά (bpn7133)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7134 in ελληνικά (bpn7134) 
+Prayer bpn7134 (bpn7134) 
 
 [bahaiprayers.net 7134](https://bahaiprayers.net/Book/Single/68/7134)
 
@@ -559,7 +559,7 @@ Prayer bpn7134 in ελληνικά (bpn7134)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7135 in ελληνικά (bpn7135) 
+Prayer bpn7135 (bpn7135) 
 
 [bahaiprayers.net 7135](https://bahaiprayers.net/Book/Single/68/7135)
 
@@ -572,7 +572,7 @@ Prayer bpn7135 in ελληνικά (bpn7135)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7136 in ελληνικά (bpn7136) 
+Prayer bpn7136 (bpn7136) 
 
 [bahaiprayers.net 7136](https://bahaiprayers.net/Book/Single/68/7136)
 
@@ -585,7 +585,7 @@ Prayer bpn7136 in ελληνικά (bpn7136)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7137 in ελληνικά (bpn7137) 
+Prayer bpn7137 (bpn7137) 
 
 [bahaiprayers.net 7137](https://bahaiprayers.net/Book/Single/68/7137)
 
@@ -598,7 +598,7 @@ Prayer bpn7137 in ελληνικά (bpn7137)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7138 in ελληνικά (bpn7138) 
+Prayer bpn7138 (bpn7138) 
 
 [bahaiprayers.net 7138](https://bahaiprayers.net/Book/Single/68/7138)
 
@@ -611,7 +611,7 @@ Prayer bpn7138 in ελληνικά (bpn7138)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7139 in ελληνικά (bpn7139) 
+Prayer bpn7139 (bpn7139) 
 
 [bahaiprayers.net 7139](https://bahaiprayers.net/Book/Single/68/7139)
 
@@ -624,7 +624,7 @@ Prayer bpn7139 in ελληνικά (bpn7139)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7140 in ελληνικά (bpn7140) 
+Prayer bpn7140 (bpn7140) 
 
 [bahaiprayers.net 7140](https://bahaiprayers.net/Book/Single/68/7140)
 
@@ -641,7 +641,7 @@ Prayer bpn7140 in ελληνικά (bpn7140)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7144 in ελληνικά (bpn7144) 
+Prayer bpn7144 (bpn7144) 
 
 [bahaiprayers.net 7144](https://bahaiprayers.net/Book/Single/68/7144)
 
@@ -658,7 +658,7 @@ Prayer bpn7144 in ελληνικά (bpn7144)
 
 -- Bahá'u'lláh
 
-Prayer bpn7049 in ελληνικά (bpn7049) 
+Prayer bpn7049 (bpn7049) 
 
 [bahaiprayers.net 7049](https://bahaiprayers.net/Book/Single/68/7049)
 
@@ -671,7 +671,7 @@ Prayer bpn7049 in ελληνικά (bpn7049)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7050 in ελληνικά (bpn7050) 
+Prayer bpn7050 (bpn7050) 
 
 [bahaiprayers.net 7050](https://bahaiprayers.net/Book/Single/68/7050)
 
@@ -684,7 +684,7 @@ Prayer bpn7050 in ελληνικά (bpn7050)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7051 in ελληνικά (bpn7051) 
+Prayer bpn7051 (bpn7051) 
 
 [bahaiprayers.net 7051](https://bahaiprayers.net/Book/Single/68/7051)
 
@@ -697,7 +697,7 @@ Prayer bpn7051 in ελληνικά (bpn7051)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7052 in ελληνικά (bpn7052) 
+Prayer bpn7052 (bpn7052) 
 
 [bahaiprayers.net 7052](https://bahaiprayers.net/Book/Single/68/7052)
 
@@ -710,7 +710,7 @@ Prayer bpn7052 in ελληνικά (bpn7052)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7053 in ελληνικά (bpn7053) 
+Prayer bpn7053 (bpn7053) 
 
 [bahaiprayers.net 7053](https://bahaiprayers.net/Book/Single/68/7053)
 
@@ -727,7 +727,7 @@ Prayer bpn7053 in ελληνικά (bpn7053)
 
 -- Bahá'u'lláh
 
-Prayer bpn7188 in ελληνικά (bpn7188) 
+Prayer bpn7188 (bpn7188) 
 
 [bahaiprayers.net 7188](https://bahaiprayers.net/Book/Single/68/7188)
 
@@ -740,7 +740,7 @@ Prayer bpn7188 in ελληνικά (bpn7188)
 
 -- Bahá'u'lláh
 
-Prayer bpn7189 in ελληνικά (bpn7189) 
+Prayer bpn7189 (bpn7189) 
 
 [bahaiprayers.net 7189](https://bahaiprayers.net/Book/Single/68/7189)
 
@@ -753,7 +753,7 @@ Prayer bpn7189 in ελληνικά (bpn7189)
 
 -- Bahá'u'lláh
 
-Prayer bpn7190 in ελληνικά (bpn7190) 
+Prayer bpn7190 (bpn7190) 
 
 [bahaiprayers.net 7190](https://bahaiprayers.net/Book/Single/68/7190)
 
@@ -766,7 +766,7 @@ Prayer bpn7190 in ελληνικά (bpn7190)
 
 -- Bahá'u'lláh
 
-Prayer bpn7191 in ελληνικά (bpn7191) 
+Prayer bpn7191 (bpn7191) 
 
 [bahaiprayers.net 7191](https://bahaiprayers.net/Book/Single/68/7191)
 
@@ -783,7 +783,7 @@ Prayer bpn7191 in ελληνικά (bpn7191)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7210 in ελληνικά (bpn7210) 
+Prayer bpn7210 (bpn7210) 
 
 [bahaiprayers.net 7210](https://bahaiprayers.net/Book/Single/68/7210)
 
@@ -800,7 +800,7 @@ Prayer bpn7210 in ελληνικά (bpn7210)
 
 -- Bahá'u'lláh
 
-Prayer bpn7075 in ελληνικά (bpn7075) 
+Prayer bpn7075 (bpn7075) 
 
 [bahaiprayers.net 7075](https://bahaiprayers.net/Book/Single/68/7075)
 
@@ -813,7 +813,7 @@ Prayer bpn7075 in ελληνικά (bpn7075)
 
 -- Bahá'u'lláh
 
-Prayer bpn7076 in ελληνικά (bpn7076) 
+Prayer bpn7076 (bpn7076) 
 
 [bahaiprayers.net 7076](https://bahaiprayers.net/Book/Single/68/7076)
 
@@ -826,7 +826,7 @@ Prayer bpn7076 in ελληνικά (bpn7076)
 
 -- Bahá'u'lláh
 
-Prayer bpn7077 in ελληνικά (bpn7077) 
+Prayer bpn7077 (bpn7077) 
 
 [bahaiprayers.net 7077](https://bahaiprayers.net/Book/Single/68/7077)
 
@@ -839,7 +839,7 @@ Prayer bpn7077 in ελληνικά (bpn7077)
 
 -- Bahá'u'lláh
 
-Prayer bpn7078 in ελληνικά (bpn7078) 
+Prayer bpn7078 (bpn7078) 
 
 [bahaiprayers.net 7078](https://bahaiprayers.net/Book/Single/68/7078)
 
@@ -852,7 +852,7 @@ Prayer bpn7078 in ελληνικά (bpn7078)
 
 -- Bahá'u'lláh
 
-Prayer bpn7079 in ελληνικά (bpn7079) 
+Prayer bpn7079 (bpn7079) 
 
 [bahaiprayers.net 7079](https://bahaiprayers.net/Book/Single/68/7079)
 
@@ -865,7 +865,7 @@ Prayer bpn7079 in ελληνικά (bpn7079)
 
 -- Bahá'u'lláh
 
-Prayer bpn7080 in ελληνικά (bpn7080) 
+Prayer bpn7080 (bpn7080) 
 
 [bahaiprayers.net 7080](https://bahaiprayers.net/Book/Single/68/7080)
 
@@ -878,7 +878,7 @@ Prayer bpn7080 in ελληνικά (bpn7080)
 
 -- Bahá'u'lláh
 
-Prayer bpn7081 in ελληνικά (bpn7081) 
+Prayer bpn7081 (bpn7081) 
 
 [bahaiprayers.net 7081](https://bahaiprayers.net/Book/Single/68/7081)
 
@@ -891,7 +891,7 @@ Prayer bpn7081 in ελληνικά (bpn7081)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7082 in ελληνικά (bpn7082) 
+Prayer bpn7082 (bpn7082) 
 
 [bahaiprayers.net 7082](https://bahaiprayers.net/Book/Single/68/7082)
 
@@ -908,7 +908,7 @@ Prayer bpn7082 in ελληνικά (bpn7082)
 
 -- Bahá'u'lláh
 
-Prayer bpn7108 in ελληνικά (bpn7108) 
+Prayer bpn7108 (bpn7108) 
 
 [bahaiprayers.net 7108](https://bahaiprayers.net/Book/Single/68/7108)
 
@@ -921,7 +921,7 @@ Prayer bpn7108 in ελληνικά (bpn7108)
 
 -- Báb
 
-Prayer bpn7109 in ελληνικά (bpn7109) 
+Prayer bpn7109 (bpn7109) 
 
 [bahaiprayers.net 7109](https://bahaiprayers.net/Book/Single/68/7109)
 
@@ -934,7 +934,7 @@ Prayer bpn7109 in ελληνικά (bpn7109)
 
 -- Báb
 
-Prayer bpn7110 in ελληνικά (bpn7110) 
+Prayer bpn7110 (bpn7110) 
 
 [bahaiprayers.net 7110](https://bahaiprayers.net/Book/Single/68/7110)
 
@@ -947,7 +947,7 @@ Prayer bpn7110 in ελληνικά (bpn7110)
 
 -- Báb
 
-Prayer bpn7111 in ελληνικά (bpn7111) 
+Prayer bpn7111 (bpn7111) 
 
 [bahaiprayers.net 7111](https://bahaiprayers.net/Book/Single/68/7111)
 
@@ -960,7 +960,7 @@ Prayer bpn7111 in ελληνικά (bpn7111)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7112 in ελληνικά (bpn7112) 
+Prayer bpn7112 (bpn7112) 
 
 [bahaiprayers.net 7112](https://bahaiprayers.net/Book/Single/68/7112)
 
@@ -973,7 +973,7 @@ Prayer bpn7112 in ελληνικά (bpn7112)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7113 in ελληνικά (bpn7113) 
+Prayer bpn7113 (bpn7113) 
 
 [bahaiprayers.net 7113](https://bahaiprayers.net/Book/Single/68/7113)
 
@@ -990,7 +990,7 @@ Prayer bpn7113 in ελληνικά (bpn7113)
 
 -- Bahá'u'lláh
 
-Prayer bpn7114 in ελληνικά (bpn7114) 
+Prayer bpn7114 (bpn7114) 
 
 [bahaiprayers.net 7114](https://bahaiprayers.net/Book/Single/68/7114)
 
@@ -1003,7 +1003,7 @@ Prayer bpn7114 in ελληνικά (bpn7114)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7115 in ελληνικά (bpn7115) 
+Prayer bpn7115 (bpn7115) 
 
 [bahaiprayers.net 7115](https://bahaiprayers.net/Book/Single/68/7115)
 
@@ -1020,7 +1020,7 @@ Prayer bpn7115 in ελληνικά (bpn7115)
 
 -- Bahá'u'lláh
 
-Prayer bpn7116 in ελληνικά (bpn7116) 
+Prayer bpn7116 (bpn7116) 
 
 [bahaiprayers.net 7116](https://bahaiprayers.net/Book/Single/68/7116)
 
@@ -1037,7 +1037,7 @@ Prayer bpn7116 in ελληνικά (bpn7116)
 
 -- Bahá'u'lláh
 
-Prayer bpn7117 in ελληνικά (bpn7117) 
+Prayer bpn7117 (bpn7117) 
 
 [bahaiprayers.net 7117](https://bahaiprayers.net/Book/Single/68/7117)
 
@@ -1050,7 +1050,7 @@ Prayer bpn7117 in ελληνικά (bpn7117)
 
 -- Bahá'u'lláh
 
-Prayer bpn7118 in ελληνικά (bpn7118) 
+Prayer bpn7118 (bpn7118) 
 
 [bahaiprayers.net 7118](https://bahaiprayers.net/Book/Single/68/7118)
 
@@ -1063,7 +1063,7 @@ Prayer bpn7118 in ελληνικά (bpn7118)
 
 -- Bahá'u'lláh
 
-Prayer bpn7119 in ελληνικά (bpn7119) 
+Prayer bpn7119 (bpn7119) 
 
 [bahaiprayers.net 7119](https://bahaiprayers.net/Book/Single/68/7119)
 
@@ -1076,7 +1076,7 @@ Prayer bpn7119 in ελληνικά (bpn7119)
 
 -- Báb
 
-Prayer bpn7120 in ελληνικά (bpn7120) 
+Prayer bpn7120 (bpn7120) 
 
 [bahaiprayers.net 7120](https://bahaiprayers.net/Book/Single/68/7120)
 
@@ -1089,7 +1089,7 @@ Prayer bpn7120 in ελληνικά (bpn7120)
 
 -- Báb
 
-Prayer bpn7121 in ελληνικά (bpn7121) 
+Prayer bpn7121 (bpn7121) 
 
 [bahaiprayers.net 7121](https://bahaiprayers.net/Book/Single/68/7121)
 
@@ -1102,7 +1102,7 @@ Prayer bpn7121 in ελληνικά (bpn7121)
 
 -- Báb
 
-Prayer bpn7122 in ελληνικά (bpn7122) 
+Prayer bpn7122 (bpn7122) 
 
 [bahaiprayers.net 7122](https://bahaiprayers.net/Book/Single/68/7122)
 
@@ -1115,7 +1115,7 @@ Prayer bpn7122 in ελληνικά (bpn7122)
 
 -- Báb
 
-Prayer bpn7123 in ελληνικά (bpn7123) 
+Prayer bpn7123 (bpn7123) 
 
 [bahaiprayers.net 7123](https://bahaiprayers.net/Book/Single/68/7123)
 
@@ -1128,7 +1128,7 @@ Prayer bpn7123 in ελληνικά (bpn7123)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7124 in ελληνικά (bpn7124) 
+Prayer bpn7124 (bpn7124) 
 
 [bahaiprayers.net 7124](https://bahaiprayers.net/Book/Single/68/7124)
 
@@ -1141,7 +1141,7 @@ Prayer bpn7124 in ελληνικά (bpn7124)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7125 in ελληνικά (bpn7125) 
+Prayer bpn7125 (bpn7125) 
 
 [bahaiprayers.net 7125](https://bahaiprayers.net/Book/Single/68/7125)
 
@@ -1158,7 +1158,7 @@ Prayer bpn7125 in ελληνικά (bpn7125)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7126 in ελληνικά (bpn7126) 
+Prayer bpn7126 (bpn7126) 
 
 [bahaiprayers.net 7126](https://bahaiprayers.net/Book/Single/68/7126)
 
@@ -1175,7 +1175,7 @@ Prayer bpn7126 in ελληνικά (bpn7126)
 
 -- Bahá'u'lláh
 
-Prayer bpn7048 in ελληνικά (bpn7048) 
+Prayer bpn7048 (bpn7048) 
 
 [bahaiprayers.net 7048](https://bahaiprayers.net/Book/Single/68/7048)
 
@@ -1192,7 +1192,7 @@ Prayer bpn7048 in ελληνικά (bpn7048)
 
 -- Bahá'u'lláh
 
-Prayer bpn7046 in ελληνικά (bpn7046) 
+Prayer bpn7046 (bpn7046) 
 
 [bahaiprayers.net 7046](https://bahaiprayers.net/Book/Single/68/7046)
 
@@ -1209,7 +1209,7 @@ Prayer bpn7046 in ελληνικά (bpn7046)
 
 -- Bahá'u'lláh
 
-Prayer bpn7045 in ελληνικά (bpn7045) 
+Prayer bpn7045 (bpn7045) 
 
 [bahaiprayers.net 7045](https://bahaiprayers.net/Book/Single/68/7045)
 
@@ -1226,7 +1226,7 @@ Prayer bpn7045 in ελληνικά (bpn7045)
 
 -- Bahá'u'lláh
 
-Prayer bpn7044 in ελληνικά (bpn7044) 
+Prayer bpn7044 (bpn7044) 
 
 [bahaiprayers.net 7044](https://bahaiprayers.net/Book/Single/68/7044)
 
@@ -1243,7 +1243,7 @@ Prayer bpn7044 in ελληνικά (bpn7044)
 
 -- Bahá'u'lláh
 
-Prayer bpn7223 in ελληνικά (bpn7223) 
+Prayer bpn7223 (bpn7223) 
 
 [bahaiprayers.net 7223](https://bahaiprayers.net/Book/Single/68/7223)
 
@@ -1256,7 +1256,7 @@ Prayer bpn7223 in ελληνικά (bpn7223)
 
 -- Bahá'u'lláh
 
-Prayer bpn7224 in ελληνικά (bpn7224) 
+Prayer bpn7224 (bpn7224) 
 
 [bahaiprayers.net 7224](https://bahaiprayers.net/Book/Single/68/7224)
 
@@ -1269,7 +1269,7 @@ Prayer bpn7224 in ελληνικά (bpn7224)
 
 -- Bahá'u'lláh
 
-Prayer bpn7225 in ελληνικά (bpn7225) 
+Prayer bpn7225 (bpn7225) 
 
 [bahaiprayers.net 7225](https://bahaiprayers.net/Book/Single/68/7225)
 
@@ -1282,7 +1282,7 @@ Prayer bpn7225 in ελληνικά (bpn7225)
 
 -- Bahá'u'lláh
 
-Prayer bpn7226 in ελληνικά (bpn7226) 
+Prayer bpn7226 (bpn7226) 
 
 [bahaiprayers.net 7226](https://bahaiprayers.net/Book/Single/68/7226)
 
@@ -1295,7 +1295,7 @@ Prayer bpn7226 in ελληνικά (bpn7226)
 
 -- Bahá'u'lláh
 
-Prayer bpn7227 in ελληνικά (bpn7227) 
+Prayer bpn7227 (bpn7227) 
 
 [bahaiprayers.net 7227](https://bahaiprayers.net/Book/Single/68/7227)
 
@@ -1308,7 +1308,7 @@ Prayer bpn7227 in ελληνικά (bpn7227)
 
 -- Bahá'u'lláh
 
-Prayer bpn7228 in ελληνικά (bpn7228) 
+Prayer bpn7228 (bpn7228) 
 
 [bahaiprayers.net 7228](https://bahaiprayers.net/Book/Single/68/7228)
 
@@ -1321,7 +1321,7 @@ Prayer bpn7228 in ελληνικά (bpn7228)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7229 in ελληνικά (bpn7229) 
+Prayer bpn7229 (bpn7229) 
 
 [bahaiprayers.net 7229](https://bahaiprayers.net/Book/Single/68/7229)
 
@@ -1338,7 +1338,7 @@ Prayer bpn7229 in ελληνικά (bpn7229)
 
 -- Bahá'u'lláh
 
-Prayer bpn7231 in ελληνικά (bpn7231) 
+Prayer bpn7231 (bpn7231) 
 
 [bahaiprayers.net 7231](https://bahaiprayers.net/Book/Single/68/7231)
 
@@ -1355,7 +1355,7 @@ Prayer bpn7231 in ελληνικά (bpn7231)
 
 -- Báb
 
-Prayer bpn7141 in ελληνικά (bpn7141) 
+Prayer bpn7141 (bpn7141) 
 
 [bahaiprayers.net 7141](https://bahaiprayers.net/Book/Single/68/7141)
 
@@ -1368,7 +1368,7 @@ Prayer bpn7141 in ελληνικά (bpn7141)
 
 -- Báb
 
-Prayer bpn7142 in ελληνικά (bpn7142) 
+Prayer bpn7142 (bpn7142) 
 
 [bahaiprayers.net 7142](https://bahaiprayers.net/Book/Single/68/7142)
 
@@ -1381,7 +1381,7 @@ Prayer bpn7142 in ελληνικά (bpn7142)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7143 in ελληνικά (bpn7143) 
+Prayer bpn7143 (bpn7143) 
 
 [bahaiprayers.net 7143](https://bahaiprayers.net/Book/Single/68/7143)
 
@@ -1398,7 +1398,7 @@ Prayer bpn7143 in ελληνικά (bpn7143)
 
 -- Bahá'u'lláh
 
-Prayer bpn7230 in ελληνικά (bpn7230) 
+Prayer bpn7230 (bpn7230) 
 
 [bahaiprayers.net 7230](https://bahaiprayers.net/Book/Single/68/7230)
 
@@ -1415,7 +1415,7 @@ Prayer bpn7230 in ελληνικά (bpn7230)
 
 -- Bahá'u'lláh
 
-Prayer bpn7047 in ελληνικά (bpn7047) 
+Prayer bpn7047 (bpn7047) 
 
 [bahaiprayers.net 7047](https://bahaiprayers.net/Book/Single/68/7047)
 
@@ -1432,7 +1432,7 @@ Prayer bpn7047 in ελληνικά (bpn7047)
 
 -- Bahá'u'lláh
 
-Prayer bpn7241 in ελληνικά (bpn7241) 
+Prayer bpn7241 (bpn7241) 
 
 [bahaiprayers.net 7241](https://bahaiprayers.net/Book/Single/68/7241)
 
@@ -1445,7 +1445,7 @@ Prayer bpn7241 in ελληνικά (bpn7241)
 
 -- Báb
 
-Prayer bpn7240 in ελληνικά (bpn7240) 
+Prayer bpn7240 (bpn7240) 
 
 [bahaiprayers.net 7240](https://bahaiprayers.net/Book/Single/68/7240)
 
@@ -1462,7 +1462,7 @@ Prayer bpn7240 in ελληνικά (bpn7240)
 
 -- Bahá'u'lláh
 
-Prayer bpn7242 in ελληνικά (bpn7242) 
+Prayer bpn7242 (bpn7242) 
 
 [bahaiprayers.net 7242](https://bahaiprayers.net/Book/Single/68/7242)
 
@@ -1479,7 +1479,7 @@ Prayer bpn7242 in ελληνικά (bpn7242)
 
 -- Bahá'u'lláh
 
-Prayer bpn7243 in ελληνικά (bpn7243) 
+Prayer bpn7243 (bpn7243) 
 
 [bahaiprayers.net 7243](https://bahaiprayers.net/Book/Single/68/7243)
 
@@ -1492,7 +1492,7 @@ Prayer bpn7243 in ελληνικά (bpn7243)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7244 in ελληνικά (bpn7244) 
+Prayer bpn7244 (bpn7244) 
 
 [bahaiprayers.net 7244](https://bahaiprayers.net/Book/Single/68/7244)
 
@@ -1509,7 +1509,7 @@ Prayer bpn7244 in ελληνικά (bpn7244)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7245 in ελληνικά (bpn7245) 
+Prayer bpn7245 (bpn7245) 
 
 [bahaiprayers.net 7245](https://bahaiprayers.net/Book/Single/68/7245)
 
@@ -1522,7 +1522,7 @@ Prayer bpn7245 in ελληνικά (bpn7245)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7246 in ελληνικά (bpn7246) 
+Prayer bpn7246 (bpn7246) 
 
 [bahaiprayers.net 7246](https://bahaiprayers.net/Book/Single/68/7246)
 
@@ -1535,7 +1535,7 @@ Prayer bpn7246 in ελληνικά (bpn7246)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7247 in ελληνικά (bpn7247) 
+Prayer bpn7247 (bpn7247) 
 
 [bahaiprayers.net 7247](https://bahaiprayers.net/Book/Single/68/7247)
 
@@ -1548,7 +1548,7 @@ Prayer bpn7247 in ελληνικά (bpn7247)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7248 in ελληνικά (bpn7248) 
+Prayer bpn7248 (bpn7248) 
 
 [bahaiprayers.net 7248](https://bahaiprayers.net/Book/Single/68/7248)
 
@@ -1561,7 +1561,7 @@ Prayer bpn7248 in ελληνικά (bpn7248)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7249 in ελληνικά (bpn7249) 
+Prayer bpn7249 (bpn7249) 
 
 [bahaiprayers.net 7249](https://bahaiprayers.net/Book/Single/68/7249)
 
@@ -1574,7 +1574,7 @@ Prayer bpn7249 in ελληνικά (bpn7249)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7250 in ελληνικά (bpn7250) 
+Prayer bpn7250 (bpn7250) 
 
 [bahaiprayers.net 7250](https://bahaiprayers.net/Book/Single/68/7250)
 
@@ -1587,7 +1587,7 @@ Prayer bpn7250 in ελληνικά (bpn7250)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7251 in ελληνικά (bpn7251) 
+Prayer bpn7251 (bpn7251) 
 
 [bahaiprayers.net 7251](https://bahaiprayers.net/Book/Single/68/7251)
 
@@ -1600,7 +1600,7 @@ Prayer bpn7251 in ελληνικά (bpn7251)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7252 in ελληνικά (bpn7252) 
+Prayer bpn7252 (bpn7252) 
 
 [bahaiprayers.net 7252](https://bahaiprayers.net/Book/Single/68/7252)
 
@@ -1613,7 +1613,7 @@ Prayer bpn7252 in ελληνικά (bpn7252)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7253 in ελληνικά (bpn7253) 
+Prayer bpn7253 (bpn7253) 
 
 [bahaiprayers.net 7253](https://bahaiprayers.net/Book/Single/68/7253)
 
@@ -1626,7 +1626,7 @@ Prayer bpn7253 in ελληνικά (bpn7253)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7254 in ελληνικά (bpn7254) 
+Prayer bpn7254 (bpn7254) 
 
 [bahaiprayers.net 7254](https://bahaiprayers.net/Book/Single/68/7254)
 
@@ -1643,7 +1643,7 @@ Prayer bpn7254 in ελληνικά (bpn7254)
 
 -- Bahá'u'lláh
 
-Prayer bpn7158 in ελληνικά (bpn7158) 
+Prayer bpn7158 (bpn7158) 
 
 [bahaiprayers.net 7158](https://bahaiprayers.net/Book/Single/68/7158)
 
@@ -1656,7 +1656,7 @@ Prayer bpn7158 in ελληνικά (bpn7158)
 
 -- Bahá'u'lláh
 
-Prayer bpn7159 in ελληνικά (bpn7159) 
+Prayer bpn7159 (bpn7159) 
 
 [bahaiprayers.net 7159](https://bahaiprayers.net/Book/Single/68/7159)
 
@@ -1669,7 +1669,7 @@ Prayer bpn7159 in ελληνικά (bpn7159)
 
 -- Bahá'u'lláh
 
-Prayer bpn7160 in ελληνικά (bpn7160) 
+Prayer bpn7160 (bpn7160) 
 
 [bahaiprayers.net 7160](https://bahaiprayers.net/Book/Single/68/7160)
 
@@ -1682,7 +1682,7 @@ Prayer bpn7160 in ελληνικά (bpn7160)
 
 -- Bahá'u'lláh
 
-Prayer bpn7161 in ελληνικά (bpn7161) 
+Prayer bpn7161 (bpn7161) 
 
 [bahaiprayers.net 7161](https://bahaiprayers.net/Book/Single/68/7161)
 
@@ -1695,7 +1695,7 @@ Prayer bpn7161 in ελληνικά (bpn7161)
 
 -- Bahá'u'lláh
 
-Prayer bpn7162 in ελληνικά (bpn7162) 
+Prayer bpn7162 (bpn7162) 
 
 [bahaiprayers.net 7162](https://bahaiprayers.net/Book/Single/68/7162)
 
@@ -1708,7 +1708,7 @@ Prayer bpn7162 in ελληνικά (bpn7162)
 
 -- Bahá'u'lláh
 
-Prayer bpn7163 in ελληνικά (bpn7163) 
+Prayer bpn7163 (bpn7163) 
 
 [bahaiprayers.net 7163](https://bahaiprayers.net/Book/Single/68/7163)
 
@@ -1721,7 +1721,7 @@ Prayer bpn7163 in ελληνικά (bpn7163)
 
 -- Bahá'u'lláh
 
-Prayer bpn7164 in ελληνικά (bpn7164) 
+Prayer bpn7164 (bpn7164) 
 
 [bahaiprayers.net 7164](https://bahaiprayers.net/Book/Single/68/7164)
 
@@ -1734,7 +1734,7 @@ Prayer bpn7164 in ελληνικά (bpn7164)
 
 -- Bahá'u'lláh
 
-Prayer bpn7165 in ελληνικά (bpn7165) 
+Prayer bpn7165 (bpn7165) 
 
 [bahaiprayers.net 7165](https://bahaiprayers.net/Book/Single/68/7165)
 
@@ -1747,7 +1747,7 @@ Prayer bpn7165 in ελληνικά (bpn7165)
 
 -- Bahá'u'lláh
 
-Prayer bpn7166 in ελληνικά (bpn7166) 
+Prayer bpn7166 (bpn7166) 
 
 [bahaiprayers.net 7166](https://bahaiprayers.net/Book/Single/68/7166)
 
@@ -1760,7 +1760,7 @@ Prayer bpn7166 in ελληνικά (bpn7166)
 
 -- Bahá'u'lláh
 
-Prayer bpn7167 in ελληνικά (bpn7167) 
+Prayer bpn7167 (bpn7167) 
 
 [bahaiprayers.net 7167](https://bahaiprayers.net/Book/Single/68/7167)
 
@@ -1773,7 +1773,7 @@ Prayer bpn7167 in ελληνικά (bpn7167)
 
 -- Báb
 
-Prayer bpn7168 in ελληνικά (bpn7168) 
+Prayer bpn7168 (bpn7168) 
 
 [bahaiprayers.net 7168](https://bahaiprayers.net/Book/Single/68/7168)
 
@@ -1786,7 +1786,7 @@ Prayer bpn7168 in ελληνικά (bpn7168)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7145 in ελληνικά (bpn7145) 
+Prayer bpn7145 (bpn7145) 
 
 [bahaiprayers.net 7145](https://bahaiprayers.net/Book/Single/68/7145)
 
@@ -1799,7 +1799,7 @@ Prayer bpn7145 in ελληνικά (bpn7145)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7146 in ελληνικά (bpn7146) 
+Prayer bpn7146 (bpn7146) 
 
 [bahaiprayers.net 7146](https://bahaiprayers.net/Book/Single/68/7146)
 
@@ -1812,7 +1812,7 @@ Prayer bpn7146 in ελληνικά (bpn7146)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7147 in ελληνικά (bpn7147) 
+Prayer bpn7147 (bpn7147) 
 
 [bahaiprayers.net 7147](https://bahaiprayers.net/Book/Single/68/7147)
 
@@ -1825,7 +1825,7 @@ Prayer bpn7147 in ελληνικά (bpn7147)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7148 in ελληνικά (bpn7148) 
+Prayer bpn7148 (bpn7148) 
 
 [bahaiprayers.net 7148](https://bahaiprayers.net/Book/Single/68/7148)
 
@@ -1838,7 +1838,7 @@ Prayer bpn7148 in ελληνικά (bpn7148)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7149 in ελληνικά (bpn7149) 
+Prayer bpn7149 (bpn7149) 
 
 [bahaiprayers.net 7149](https://bahaiprayers.net/Book/Single/68/7149)
 
@@ -1851,7 +1851,7 @@ Prayer bpn7149 in ελληνικά (bpn7149)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7150 in ελληνικά (bpn7150) 
+Prayer bpn7150 (bpn7150) 
 
 [bahaiprayers.net 7150](https://bahaiprayers.net/Book/Single/68/7150)
 
@@ -1864,7 +1864,7 @@ Prayer bpn7150 in ελληνικά (bpn7150)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7151 in ελληνικά (bpn7151) 
+Prayer bpn7151 (bpn7151) 
 
 [bahaiprayers.net 7151](https://bahaiprayers.net/Book/Single/68/7151)
 
@@ -1877,7 +1877,7 @@ Prayer bpn7151 in ελληνικά (bpn7151)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7152 in ελληνικά (bpn7152) 
+Prayer bpn7152 (bpn7152) 
 
 [bahaiprayers.net 7152](https://bahaiprayers.net/Book/Single/68/7152)
 
@@ -1890,7 +1890,7 @@ Prayer bpn7152 in ελληνικά (bpn7152)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7153 in ελληνικά (bpn7153) 
+Prayer bpn7153 (bpn7153) 
 
 [bahaiprayers.net 7153](https://bahaiprayers.net/Book/Single/68/7153)
 
@@ -1903,7 +1903,7 @@ Prayer bpn7153 in ελληνικά (bpn7153)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7154 in ελληνικά (bpn7154) 
+Prayer bpn7154 (bpn7154) 
 
 [bahaiprayers.net 7154](https://bahaiprayers.net/Book/Single/68/7154)
 
@@ -1916,7 +1916,7 @@ Prayer bpn7154 in ελληνικά (bpn7154)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7155 in ελληνικά (bpn7155) 
+Prayer bpn7155 (bpn7155) 
 
 [bahaiprayers.net 7155](https://bahaiprayers.net/Book/Single/68/7155)
 
@@ -1929,7 +1929,7 @@ Prayer bpn7155 in ελληνικά (bpn7155)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7156 in ελληνικά (bpn7156) 
+Prayer bpn7156 (bpn7156) 
 
 [bahaiprayers.net 7156](https://bahaiprayers.net/Book/Single/68/7156)
 
@@ -1942,7 +1942,7 @@ Prayer bpn7156 in ελληνικά (bpn7156)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7157 in ελληνικά (bpn7157) 
+Prayer bpn7157 (bpn7157) 
 
 [bahaiprayers.net 7157](https://bahaiprayers.net/Book/Single/68/7157)
 
@@ -1955,7 +1955,7 @@ Prayer bpn7157 in ελληνικά (bpn7157)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7169 in ελληνικά (bpn7169) 
+Prayer bpn7169 (bpn7169) 
 
 [bahaiprayers.net 7169](https://bahaiprayers.net/Book/Single/68/7169)
 
@@ -1968,7 +1968,7 @@ Prayer bpn7169 in ελληνικά (bpn7169)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7170 in ελληνικά (bpn7170) 
+Prayer bpn7170 (bpn7170) 
 
 [bahaiprayers.net 7170](https://bahaiprayers.net/Book/Single/68/7170)
 
@@ -1981,7 +1981,7 @@ Prayer bpn7170 in ελληνικά (bpn7170)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7171 in ελληνικά (bpn7171) 
+Prayer bpn7171 (bpn7171) 
 
 [bahaiprayers.net 7171](https://bahaiprayers.net/Book/Single/68/7171)
 
@@ -1994,7 +1994,7 @@ Prayer bpn7171 in ελληνικά (bpn7171)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7172 in ελληνικά (bpn7172) 
+Prayer bpn7172 (bpn7172) 
 
 [bahaiprayers.net 7172](https://bahaiprayers.net/Book/Single/68/7172)
 
@@ -2007,7 +2007,7 @@ Prayer bpn7172 in ελληνικά (bpn7172)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7173 in ελληνικά (bpn7173) 
+Prayer bpn7173 (bpn7173) 
 
 [bahaiprayers.net 7173](https://bahaiprayers.net/Book/Single/68/7173)
 
@@ -2020,7 +2020,7 @@ Prayer bpn7173 in ελληνικά (bpn7173)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7174 in ελληνικά (bpn7174) 
+Prayer bpn7174 (bpn7174) 
 
 [bahaiprayers.net 7174](https://bahaiprayers.net/Book/Single/68/7174)
 
@@ -2033,7 +2033,7 @@ Prayer bpn7174 in ελληνικά (bpn7174)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7175 in ελληνικά (bpn7175) 
+Prayer bpn7175 (bpn7175) 
 
 [bahaiprayers.net 7175](https://bahaiprayers.net/Book/Single/68/7175)
 
@@ -2046,7 +2046,7 @@ Prayer bpn7175 in ελληνικά (bpn7175)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7176 in ελληνικά (bpn7176) 
+Prayer bpn7176 (bpn7176) 
 
 [bahaiprayers.net 7176](https://bahaiprayers.net/Book/Single/68/7176)
 
@@ -2063,7 +2063,7 @@ Prayer bpn7176 in ελληνικά (bpn7176)
 
 -- Bahá'u'lláh
 
-Prayer bpn7236 in ελληνικά (bpn7236) 
+Prayer bpn7236 (bpn7236) 
 
 [bahaiprayers.net 7236](https://bahaiprayers.net/Book/Single/68/7236)
 
@@ -2076,7 +2076,7 @@ Prayer bpn7236 in ελληνικά (bpn7236)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7237 in ελληνικά (bpn7237) 
+Prayer bpn7237 (bpn7237) 
 
 [bahaiprayers.net 7237](https://bahaiprayers.net/Book/Single/68/7237)
 
@@ -2089,7 +2089,7 @@ Prayer bpn7237 in ελληνικά (bpn7237)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7238 in ελληνικά (bpn7238) 
+Prayer bpn7238 (bpn7238) 
 
 [bahaiprayers.net 7238](https://bahaiprayers.net/Book/Single/68/7238)
 
@@ -2102,7 +2102,7 @@ Prayer bpn7238 in ελληνικά (bpn7238)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7239 in ελληνικά (bpn7239) 
+Prayer bpn7239 (bpn7239) 
 
 [bahaiprayers.net 7239](https://bahaiprayers.net/Book/Single/68/7239)
 
@@ -2119,7 +2119,7 @@ Prayer bpn7239 in ελληνικά (bpn7239)
 
 -- Bahá'u'lláh
 
-Prayer bpn7177 in ελληνικά (bpn7177) 
+Prayer bpn7177 (bpn7177) 
 
 [bahaiprayers.net 7177](https://bahaiprayers.net/Book/Single/68/7177)
 
@@ -2132,7 +2132,7 @@ Prayer bpn7177 in ελληνικά (bpn7177)
 
 -- Bahá'u'lláh
 
-Prayer bpn7178 in ελληνικά (bpn7178) 
+Prayer bpn7178 (bpn7178) 
 
 [bahaiprayers.net 7178](https://bahaiprayers.net/Book/Single/68/7178)
 
@@ -2145,7 +2145,7 @@ Prayer bpn7178 in ελληνικά (bpn7178)
 
 -- Bahá'u'lláh
 
-Prayer bpn7179 in ελληνικά (bpn7179) 
+Prayer bpn7179 (bpn7179) 
 
 [bahaiprayers.net 7179](https://bahaiprayers.net/Book/Single/68/7179)
 
@@ -2158,7 +2158,7 @@ Prayer bpn7179 in ελληνικά (bpn7179)
 
 -- Bahá'u'lláh
 
-Prayer bpn7180 in ελληνικά (bpn7180) 
+Prayer bpn7180 (bpn7180) 
 
 [bahaiprayers.net 7180](https://bahaiprayers.net/Book/Single/68/7180)
 
@@ -2171,7 +2171,7 @@ Prayer bpn7180 in ελληνικά (bpn7180)
 
 -- Bahá'u'lláh
 
-Prayer bpn7181 in ελληνικά (bpn7181) 
+Prayer bpn7181 (bpn7181) 
 
 [bahaiprayers.net 7181](https://bahaiprayers.net/Book/Single/68/7181)
 
@@ -2184,7 +2184,7 @@ Prayer bpn7181 in ελληνικά (bpn7181)
 
 -- Báb
 
-Prayer bpn7182 in ελληνικά (bpn7182) 
+Prayer bpn7182 (bpn7182) 
 
 [bahaiprayers.net 7182](https://bahaiprayers.net/Book/Single/68/7182)
 
@@ -2197,7 +2197,7 @@ Prayer bpn7182 in ελληνικά (bpn7182)
 
 -- Báb
 
-Prayer bpn7183 in ελληνικά (bpn7183) 
+Prayer bpn7183 (bpn7183) 
 
 [bahaiprayers.net 7183](https://bahaiprayers.net/Book/Single/68/7183)
 
@@ -2210,7 +2210,7 @@ Prayer bpn7183 in ελληνικά (bpn7183)
 
 -- Báb
 
-Prayer bpn7184 in ελληνικά (bpn7184) 
+Prayer bpn7184 (bpn7184) 
 
 [bahaiprayers.net 7184](https://bahaiprayers.net/Book/Single/68/7184)
 
@@ -2223,7 +2223,7 @@ Prayer bpn7184 in ελληνικά (bpn7184)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7185 in ελληνικά (bpn7185) 
+Prayer bpn7185 (bpn7185) 
 
 [bahaiprayers.net 7185](https://bahaiprayers.net/Book/Single/68/7185)
 
@@ -2236,7 +2236,7 @@ Prayer bpn7185 in ελληνικά (bpn7185)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7186 in ελληνικά (bpn7186) 
+Prayer bpn7186 (bpn7186) 
 
 [bahaiprayers.net 7186](https://bahaiprayers.net/Book/Single/68/7186)
 
@@ -2249,7 +2249,7 @@ Prayer bpn7186 in ελληνικά (bpn7186)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7187 in ελληνικά (bpn7187) 
+Prayer bpn7187 (bpn7187) 
 
 [bahaiprayers.net 7187](https://bahaiprayers.net/Book/Single/68/7187)
 
@@ -2266,7 +2266,7 @@ Prayer bpn7187 in ελληνικά (bpn7187)
 
 -- Bahá'u'lláh
 
-Prayer bpn7192 in ελληνικά (bpn7192) 
+Prayer bpn7192 (bpn7192) 
 
 [bahaiprayers.net 7192](https://bahaiprayers.net/Book/Single/68/7192)
 
@@ -2279,7 +2279,7 @@ Prayer bpn7192 in ελληνικά (bpn7192)
 
 -- Bahá'u'lláh
 
-Prayer bpn7193 in ελληνικά (bpn7193) 
+Prayer bpn7193 (bpn7193) 
 
 [bahaiprayers.net 7193](https://bahaiprayers.net/Book/Single/68/7193)
 
@@ -2292,7 +2292,7 @@ Prayer bpn7193 in ελληνικά (bpn7193)
 
 -- Báb
 
-Prayer bpn7197 in ελληνικά (bpn7197) 
+Prayer bpn7197 (bpn7197) 
 
 [bahaiprayers.net 7197](https://bahaiprayers.net/Book/Single/68/7197)
 
@@ -2305,7 +2305,7 @@ Prayer bpn7197 in ελληνικά (bpn7197)
 
 -- Báb
 
-Prayer bpn7198 in ελληνικά (bpn7198) 
+Prayer bpn7198 (bpn7198) 
 
 [bahaiprayers.net 7198](https://bahaiprayers.net/Book/Single/68/7198)
 
@@ -2318,7 +2318,7 @@ Prayer bpn7198 in ελληνικά (bpn7198)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7194 in ελληνικά (bpn7194) 
+Prayer bpn7194 (bpn7194) 
 
 [bahaiprayers.net 7194](https://bahaiprayers.net/Book/Single/68/7194)
 
@@ -2331,7 +2331,7 @@ Prayer bpn7194 in ελληνικά (bpn7194)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7195 in ελληνικά (bpn7195) 
+Prayer bpn7195 (bpn7195) 
 
 [bahaiprayers.net 7195](https://bahaiprayers.net/Book/Single/68/7195)
 
@@ -2344,7 +2344,7 @@ Prayer bpn7195 in ελληνικά (bpn7195)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7196 in ελληνικά (bpn7196) 
+Prayer bpn7196 (bpn7196) 
 
 [bahaiprayers.net 7196](https://bahaiprayers.net/Book/Single/68/7196)
 
@@ -2361,7 +2361,7 @@ Prayer bpn7196 in ελληνικά (bpn7196)
 
 -- Bahá'u'lláh
 
-Prayer bpn7199 in ελληνικά (bpn7199) 
+Prayer bpn7199 (bpn7199) 
 
 [bahaiprayers.net 7199](https://bahaiprayers.net/Book/Single/68/7199)
 
@@ -2374,7 +2374,7 @@ Prayer bpn7199 in ελληνικά (bpn7199)
 
 -- Bahá'u'lláh
 
-Prayer bpn7200 in ελληνικά (bpn7200) 
+Prayer bpn7200 (bpn7200) 
 
 [bahaiprayers.net 7200](https://bahaiprayers.net/Book/Single/68/7200)
 
@@ -2387,7 +2387,7 @@ Prayer bpn7200 in ελληνικά (bpn7200)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7201 in ελληνικά (bpn7201) 
+Prayer bpn7201 (bpn7201) 
 
 [bahaiprayers.net 7201](https://bahaiprayers.net/Book/Single/68/7201)
 
@@ -2400,7 +2400,7 @@ Prayer bpn7201 in ελληνικά (bpn7201)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7202 in ελληνικά (bpn7202) 
+Prayer bpn7202 (bpn7202) 
 
 [bahaiprayers.net 7202](https://bahaiprayers.net/Book/Single/68/7202)
 
@@ -2413,7 +2413,7 @@ Prayer bpn7202 in ελληνικά (bpn7202)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7203 in ελληνικά (bpn7203) 
+Prayer bpn7203 (bpn7203) 
 
 [bahaiprayers.net 7203](https://bahaiprayers.net/Book/Single/68/7203)
 
@@ -2430,7 +2430,7 @@ Prayer bpn7203 in ελληνικά (bpn7203)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7204 in ελληνικά (bpn7204) 
+Prayer bpn7204 (bpn7204) 
 
 [bahaiprayers.net 7204](https://bahaiprayers.net/Book/Single/68/7204)
 
@@ -2443,7 +2443,7 @@ Prayer bpn7204 in ελληνικά (bpn7204)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7205 in ελληνικά (bpn7205) 
+Prayer bpn7205 (bpn7205) 
 
 [bahaiprayers.net 7205](https://bahaiprayers.net/Book/Single/68/7205)
 
@@ -2456,7 +2456,7 @@ Prayer bpn7205 in ελληνικά (bpn7205)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7206 in ελληνικά (bpn7206) 
+Prayer bpn7206 (bpn7206) 
 
 [bahaiprayers.net 7206](https://bahaiprayers.net/Book/Single/68/7206)
 
@@ -2469,7 +2469,7 @@ Prayer bpn7206 in ελληνικά (bpn7206)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7207 in ελληνικά (bpn7207) 
+Prayer bpn7207 (bpn7207) 
 
 [bahaiprayers.net 7207](https://bahaiprayers.net/Book/Single/68/7207)
 
@@ -2482,7 +2482,7 @@ Prayer bpn7207 in ελληνικά (bpn7207)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7208 in ελληνικά (bpn7208) 
+Prayer bpn7208 (bpn7208) 
 
 [bahaiprayers.net 7208](https://bahaiprayers.net/Book/Single/68/7208)
 
@@ -2495,7 +2495,7 @@ Prayer bpn7208 in ελληνικά (bpn7208)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7209 in ελληνικά (bpn7209) 
+Prayer bpn7209 (bpn7209) 
 
 [bahaiprayers.net 7209](https://bahaiprayers.net/Book/Single/68/7209)
 
@@ -2512,7 +2512,7 @@ Prayer bpn7209 in ελληνικά (bpn7209)
 
 -- Bahá'u'lláh
 
-Prayer bpn7211 in ελληνικά (bpn7211) 
+Prayer bpn7211 (bpn7211) 
 
 [bahaiprayers.net 7211](https://bahaiprayers.net/Book/Single/68/7211)
 
@@ -2525,7 +2525,7 @@ Prayer bpn7211 in ελληνικά (bpn7211)
 
 -- Bahá'u'lláh
 
-Prayer bpn7212 in ελληνικά (bpn7212) 
+Prayer bpn7212 (bpn7212) 
 
 [bahaiprayers.net 7212](https://bahaiprayers.net/Book/Single/68/7212)
 
@@ -2538,7 +2538,7 @@ Prayer bpn7212 in ελληνικά (bpn7212)
 
 -- Bahá'u'lláh
 
-Prayer bpn7213 in ελληνικά (bpn7213) 
+Prayer bpn7213 (bpn7213) 
 
 [bahaiprayers.net 7213](https://bahaiprayers.net/Book/Single/68/7213)
 
@@ -2551,7 +2551,7 @@ Prayer bpn7213 in ελληνικά (bpn7213)
 
 -- Bahá'u'lláh
 
-Prayer bpn7214 in ελληνικά (bpn7214) 
+Prayer bpn7214 (bpn7214) 
 
 [bahaiprayers.net 7214](https://bahaiprayers.net/Book/Single/68/7214)
 
@@ -2564,7 +2564,7 @@ Prayer bpn7214 in ελληνικά (bpn7214)
 
 -- Báb
 
-Prayer bpn7215 in ελληνικά (bpn7215) 
+Prayer bpn7215 (bpn7215) 
 
 [bahaiprayers.net 7215](https://bahaiprayers.net/Book/Single/68/7215)
 
@@ -2577,7 +2577,7 @@ Prayer bpn7215 in ελληνικά (bpn7215)
 
 -- Báb
 
-Prayer bpn7216 in ελληνικά (bpn7216) 
+Prayer bpn7216 (bpn7216) 
 
 [bahaiprayers.net 7216](https://bahaiprayers.net/Book/Single/68/7216)
 
@@ -2590,7 +2590,7 @@ Prayer bpn7216 in ελληνικά (bpn7216)
 
 -- Báb
 
-Prayer bpn7217 in ελληνικά (bpn7217) 
+Prayer bpn7217 (bpn7217) 
 
 [bahaiprayers.net 7217](https://bahaiprayers.net/Book/Single/68/7217)
 
@@ -2603,7 +2603,7 @@ Prayer bpn7217 in ελληνικά (bpn7217)
 
 -- Báb
 
-Prayer bpn7218 in ελληνικά (bpn7218) 
+Prayer bpn7218 (bpn7218) 
 
 [bahaiprayers.net 7218](https://bahaiprayers.net/Book/Single/68/7218)
 
@@ -2616,7 +2616,7 @@ Prayer bpn7218 in ελληνικά (bpn7218)
 
 -- Báb
 
-Prayer bpn7219 in ελληνικά (bpn7219) 
+Prayer bpn7219 (bpn7219) 
 
 [bahaiprayers.net 7219](https://bahaiprayers.net/Book/Single/68/7219)
 
@@ -2629,7 +2629,7 @@ Prayer bpn7219 in ελληνικά (bpn7219)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7220 in ελληνικά (bpn7220) 
+Prayer bpn7220 (bpn7220) 
 
 [bahaiprayers.net 7220](https://bahaiprayers.net/Book/Single/68/7220)
 
@@ -2646,7 +2646,7 @@ Prayer bpn7220 in ελληνικά (bpn7220)
 
 -- Bahá'u'lláh
 
-Prayer bpn7221 in ελληνικά (bpn7221) 
+Prayer bpn7221 (bpn7221) 
 
 [bahaiprayers.net 7221](https://bahaiprayers.net/Book/Single/68/7221)
 
@@ -2659,7 +2659,7 @@ Prayer bpn7221 in ελληνικά (bpn7221)
 
 -- Bahá'u'lláh
 
-Prayer bpn7222 in ελληνικά (bpn7222) 
+Prayer bpn7222 (bpn7222) 
 
 [bahaiprayers.net 7222](https://bahaiprayers.net/Book/Single/68/7222)
 
@@ -2676,7 +2676,7 @@ Prayer bpn7222 in ελληνικά (bpn7222)
 
 -- Bahá'u'lláh
 
-Prayer bpn7127 in ελληνικά (bpn7127) 
+Prayer bpn7127 (bpn7127) 
 
 [bahaiprayers.net 7127](https://bahaiprayers.net/Book/Single/68/7127)
 
@@ -2693,7 +2693,7 @@ Prayer bpn7127 in ελληνικά (bpn7127)
 
 -- Bahá'u'lláh
 
-Prayer bpn7084 in ελληνικά (bpn7084) 
+Prayer bpn7084 (bpn7084) 
 
 [bahaiprayers.net 7084](https://bahaiprayers.net/Book/Single/68/7084)
 
@@ -2706,7 +2706,7 @@ Prayer bpn7084 in ελληνικά (bpn7084)
 
 -- Bahá'u'lláh
 
-Prayer bpn7085 in ελληνικά (bpn7085) 
+Prayer bpn7085 (bpn7085) 
 
 [bahaiprayers.net 7085](https://bahaiprayers.net/Book/Single/68/7085)
 
@@ -2719,7 +2719,7 @@ Prayer bpn7085 in ελληνικά (bpn7085)
 
 -- Bahá'u'lláh
 
-Prayer bpn7086 in ελληνικά (bpn7086) 
+Prayer bpn7086 (bpn7086) 
 
 [bahaiprayers.net 7086](https://bahaiprayers.net/Book/Single/68/7086)
 
@@ -2732,7 +2732,7 @@ Prayer bpn7086 in ελληνικά (bpn7086)
 
 -- Bahá'u'lláh
 
-Prayer bpn7087 in ελληνικά (bpn7087) 
+Prayer bpn7087 (bpn7087) 
 
 [bahaiprayers.net 7087](https://bahaiprayers.net/Book/Single/68/7087)
 
@@ -2745,7 +2745,7 @@ Prayer bpn7087 in ελληνικά (bpn7087)
 
 -- Bahá'u'lláh
 
-Prayer bpn7088 in ελληνικά (bpn7088) 
+Prayer bpn7088 (bpn7088) 
 
 [bahaiprayers.net 7088](https://bahaiprayers.net/Book/Single/68/7088)
 
@@ -2758,7 +2758,7 @@ Prayer bpn7088 in ελληνικά (bpn7088)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7089 in ελληνικά (bpn7089) 
+Prayer bpn7089 (bpn7089) 
 
 [bahaiprayers.net 7089](https://bahaiprayers.net/Book/Single/68/7089)
 
@@ -2771,7 +2771,7 @@ Prayer bpn7089 in ελληνικά (bpn7089)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7090 in ελληνικά (bpn7090) 
+Prayer bpn7090 (bpn7090) 
 
 [bahaiprayers.net 7090](https://bahaiprayers.net/Book/Single/68/7090)
 
@@ -2784,7 +2784,7 @@ Prayer bpn7090 in ελληνικά (bpn7090)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7091 in ελληνικά (bpn7091) 
+Prayer bpn7091 (bpn7091) 
 
 [bahaiprayers.net 7091](https://bahaiprayers.net/Book/Single/68/7091)
 
@@ -2797,7 +2797,7 @@ Prayer bpn7091 in ελληνικά (bpn7091)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7092 in ελληνικά (bpn7092) 
+Prayer bpn7092 (bpn7092) 
 
 [bahaiprayers.net 7092](https://bahaiprayers.net/Book/Single/68/7092)
 
@@ -2814,7 +2814,7 @@ Prayer bpn7092 in ελληνικά (bpn7092)
 
 -- Bahá'u'lláh
 
-Prayer bpn7093 in ελληνικά (bpn7093) 
+Prayer bpn7093 (bpn7093) 
 
 [bahaiprayers.net 7093](https://bahaiprayers.net/Book/Single/68/7093)
 
@@ -2827,7 +2827,7 @@ Prayer bpn7093 in ελληνικά (bpn7093)
 
 -- Bahá'u'lláh
 
-Prayer bpn7094 in ελληνικά (bpn7094) 
+Prayer bpn7094 (bpn7094) 
 
 [bahaiprayers.net 7094](https://bahaiprayers.net/Book/Single/68/7094)
 
@@ -2840,7 +2840,7 @@ Prayer bpn7094 in ελληνικά (bpn7094)
 
 -- Bahá'u'lláh
 
-Prayer bpn7095 in ελληνικά (bpn7095) 
+Prayer bpn7095 (bpn7095) 
 
 [bahaiprayers.net 7095](https://bahaiprayers.net/Book/Single/68/7095)
 
@@ -2853,7 +2853,7 @@ Prayer bpn7095 in ελληνικά (bpn7095)
 
 -- Bahá'u'lláh
 
-Prayer bpn7096 in ελληνικά (bpn7096) 
+Prayer bpn7096 (bpn7096) 
 
 [bahaiprayers.net 7096](https://bahaiprayers.net/Book/Single/68/7096)
 
@@ -2866,7 +2866,7 @@ Prayer bpn7096 in ελληνικά (bpn7096)
 
 -- Bahá'u'lláh
 
-Prayer bpn7097 in ελληνικά (bpn7097) 
+Prayer bpn7097 (bpn7097) 
 
 [bahaiprayers.net 7097](https://bahaiprayers.net/Book/Single/68/7097)
 
@@ -2879,7 +2879,7 @@ Prayer bpn7097 in ελληνικά (bpn7097)
 
 -- Báb
 
-Prayer bpn7098 in ελληνικά (bpn7098) 
+Prayer bpn7098 (bpn7098) 
 
 [bahaiprayers.net 7098](https://bahaiprayers.net/Book/Single/68/7098)
 
@@ -2892,7 +2892,7 @@ Prayer bpn7098 in ελληνικά (bpn7098)
 
 -- Báb
 
-Prayer bpn7099 in ελληνικά (bpn7099) 
+Prayer bpn7099 (bpn7099) 
 
 [bahaiprayers.net 7099](https://bahaiprayers.net/Book/Single/68/7099)
 
@@ -2905,7 +2905,7 @@ Prayer bpn7099 in ελληνικά (bpn7099)
 
 -- Báb
 
-Prayer bpn7100 in ελληνικά (bpn7100) 
+Prayer bpn7100 (bpn7100) 
 
 [bahaiprayers.net 7100](https://bahaiprayers.net/Book/Single/68/7100)
 
@@ -2918,7 +2918,7 @@ Prayer bpn7100 in ελληνικά (bpn7100)
 
 -- Báb
 
-Prayer bpn7101 in ελληνικά (bpn7101) 
+Prayer bpn7101 (bpn7101) 
 
 [bahaiprayers.net 7101](https://bahaiprayers.net/Book/Single/68/7101)
 
@@ -2935,7 +2935,7 @@ Prayer bpn7101 in ελληνικά (bpn7101)
 
 -- Bahá'u'lláh
 
-Prayer bpn7102 in ελληνικά (bpn7102) 
+Prayer bpn7102 (bpn7102) 
 
 [bahaiprayers.net 7102](https://bahaiprayers.net/Book/Single/68/7102)
 
@@ -2948,7 +2948,7 @@ Prayer bpn7102 in ελληνικά (bpn7102)
 
 -- Bahá'u'lláh
 
-Prayer bpn7103 in ελληνικά (bpn7103) 
+Prayer bpn7103 (bpn7103) 
 
 [bahaiprayers.net 7103](https://bahaiprayers.net/Book/Single/68/7103)
 
@@ -2961,7 +2961,7 @@ Prayer bpn7103 in ελληνικά (bpn7103)
 
 -- Bahá'u'lláh
 
-Prayer bpn7104 in ελληνικά (bpn7104) 
+Prayer bpn7104 (bpn7104) 
 
 [bahaiprayers.net 7104](https://bahaiprayers.net/Book/Single/68/7104)
 
@@ -2974,7 +2974,7 @@ Prayer bpn7104 in ελληνικά (bpn7104)
 
 -- Bahá'u'lláh
 
-Prayer bpn7105 in ελληνικά (bpn7105) 
+Prayer bpn7105 (bpn7105) 
 
 [bahaiprayers.net 7105](https://bahaiprayers.net/Book/Single/68/7105)
 
@@ -2987,7 +2987,7 @@ Prayer bpn7105 in ελληνικά (bpn7105)
 
 -- Bahá'u'lláh
 
-Prayer bpn7107 in ελληνικά (bpn7107) 
+Prayer bpn7107 (bpn7107) 
 
 [bahaiprayers.net 7107](https://bahaiprayers.net/Book/Single/68/7107)
 
@@ -3000,7 +3000,7 @@ Prayer bpn7107 in ελληνικά (bpn7107)
 
 -- Báb
 
-Prayer bpn7106 in ελληνικά (bpn7106) 
+Prayer bpn7106 (bpn7106) 
 
 [bahaiprayers.net 7106](https://bahaiprayers.net/Book/Single/68/7106)
 

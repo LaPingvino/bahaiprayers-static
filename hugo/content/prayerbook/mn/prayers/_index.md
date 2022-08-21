@@ -104,7 +104,7 @@ tags = ['lang=mn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn10729 in Монгол хэл (bpn10729) 
+Prayer bpn10729 (bpn10729) 
 
 [bahaiprayers.net 10729](https://bahaiprayers.net/Book/Single/92/10729)
 
@@ -121,7 +121,7 @@ Prayer bpn10729 in Монгол хэл (bpn10729)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10730 in Монгол хэл (bpn10730) 
+Prayer bpn10730 (bpn10730) 
 
 [bahaiprayers.net 10730](https://bahaiprayers.net/Book/Single/92/10730)
 
@@ -138,7 +138,7 @@ Prayer bpn10730 in Монгол хэл (bpn10730)
 
 -- Báb
 
-Prayer bpn10615 in Монгол хэл (bpn10615) 
+Prayer bpn10615 (bpn10615) 
 
 [bahaiprayers.net 10615](https://bahaiprayers.net/Book/Single/92/10615)
 
@@ -151,7 +151,7 @@ Prayer bpn10615 in Монгол хэл (bpn10615)
 
 -- Báb
 
-Prayer bpn10616 in Монгол хэл (bpn10616) 
+Prayer bpn10616 (bpn10616) 
 
 [bahaiprayers.net 10616](https://bahaiprayers.net/Book/Single/92/10616)
 
@@ -164,7 +164,7 @@ Prayer bpn10616 in Монгол хэл (bpn10616)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10617 in Монгол хэл (bpn10617) 
+Prayer bpn10617 (bpn10617) 
 
 [bahaiprayers.net 10617](https://bahaiprayers.net/Book/Single/92/10617)
 
@@ -177,7 +177,7 @@ Prayer bpn10617 in Монгол хэл (bpn10617)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10618 in Монгол хэл (bpn10618) 
+Prayer bpn10618 (bpn10618) 
 
 [bahaiprayers.net 10618](https://bahaiprayers.net/Book/Single/92/10618)
 
@@ -194,7 +194,7 @@ Prayer bpn10618 in Монгол хэл (bpn10618)
 
 -- Bahá'u'lláh
 
-Prayer bpn10731 in Монгол хэл (bpn10731) 
+Prayer bpn10731 (bpn10731) 
 
 [bahaiprayers.net 10731](https://bahaiprayers.net/Book/Single/92/10731)
 
@@ -211,7 +211,7 @@ Prayer bpn10731 in Монгол хэл (bpn10731)
 
 -- Bahá'u'lláh
 
-Prayer bpn10619 in Монгол хэл (bpn10619) 
+Prayer bpn10619 (bpn10619) 
 
 [bahaiprayers.net 10619](https://bahaiprayers.net/Book/Single/92/10619)
 
@@ -224,7 +224,7 @@ Prayer bpn10619 in Монгол хэл (bpn10619)
 
 -- Bahá'u'lláh
 
-Prayer bpn10620 in Монгол хэл (bpn10620) 
+Prayer bpn10620 (bpn10620) 
 
 [bahaiprayers.net 10620](https://bahaiprayers.net/Book/Single/92/10620)
 
@@ -241,7 +241,7 @@ Prayer bpn10620 in Монгол хэл (bpn10620)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13086 in Монгол хэл (bpn13086) 
+Prayer bpn13086 (bpn13086) 
 
 [bahaiprayers.net 13086](https://bahaiprayers.net/Book/Single/92/13086)
 
@@ -254,7 +254,7 @@ Prayer bpn13086 in Монгол хэл (bpn13086)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13087 in Монгол хэл (bpn13087) 
+Prayer bpn13087 (bpn13087) 
 
 [bahaiprayers.net 13087](https://bahaiprayers.net/Book/Single/92/13087)
 
@@ -267,7 +267,7 @@ Prayer bpn13087 in Монгол хэл (bpn13087)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13088 in Монгол хэл (bpn13088) 
+Prayer bpn13088 (bpn13088) 
 
 [bahaiprayers.net 13088](https://bahaiprayers.net/Book/Single/92/13088)
 
@@ -280,7 +280,7 @@ Prayer bpn13088 in Монгол хэл (bpn13088)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13089 in Монгол хэл (bpn13089) 
+Prayer bpn13089 (bpn13089) 
 
 [bahaiprayers.net 13089](https://bahaiprayers.net/Book/Single/92/13089)
 
@@ -293,7 +293,7 @@ Prayer bpn13089 in Монгол хэл (bpn13089)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13090 in Монгол хэл (bpn13090) 
+Prayer bpn13090 (bpn13090) 
 
 [bahaiprayers.net 13090](https://bahaiprayers.net/Book/Single/92/13090)
 
@@ -306,7 +306,7 @@ Prayer bpn13090 in Монгол хэл (bpn13090)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13091 in Монгол хэл (bpn13091) 
+Prayer bpn13091 (bpn13091) 
 
 [bahaiprayers.net 13091](https://bahaiprayers.net/Book/Single/92/13091)
 
@@ -319,7 +319,7 @@ Prayer bpn13091 in Монгол хэл (bpn13091)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13092 in Монгол хэл (bpn13092) 
+Prayer bpn13092 (bpn13092) 
 
 [bahaiprayers.net 13092](https://bahaiprayers.net/Book/Single/92/13092)
 
@@ -332,7 +332,7 @@ Prayer bpn13092 in Монгол хэл (bpn13092)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13093 in Монгол хэл (bpn13093) 
+Prayer bpn13093 (bpn13093) 
 
 [bahaiprayers.net 13093](https://bahaiprayers.net/Book/Single/92/13093)
 
@@ -345,7 +345,7 @@ Prayer bpn13093 in Монгол хэл (bpn13093)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13094 in Монгол хэл (bpn13094) 
+Prayer bpn13094 (bpn13094) 
 
 [bahaiprayers.net 13094](https://bahaiprayers.net/Book/Single/92/13094)
 
@@ -358,7 +358,7 @@ Prayer bpn13094 in Монгол хэл (bpn13094)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13095 in Монгол хэл (bpn13095) 
+Prayer bpn13095 (bpn13095) 
 
 [bahaiprayers.net 13095](https://bahaiprayers.net/Book/Single/92/13095)
 
@@ -371,7 +371,7 @@ Prayer bpn13095 in Монгол хэл (bpn13095)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13096 in Монгол хэл (bpn13096) 
+Prayer bpn13096 (bpn13096) 
 
 [bahaiprayers.net 13096](https://bahaiprayers.net/Book/Single/92/13096)
 
@@ -384,7 +384,7 @@ Prayer bpn13096 in Монгол хэл (bpn13096)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13097 in Монгол хэл (bpn13097) 
+Prayer bpn13097 (bpn13097) 
 
 [bahaiprayers.net 13097](https://bahaiprayers.net/Book/Single/92/13097)
 
@@ -397,7 +397,7 @@ Prayer bpn13097 in Монгол хэл (bpn13097)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13098 in Монгол хэл (bpn13098) 
+Prayer bpn13098 (bpn13098) 
 
 [bahaiprayers.net 13098](https://bahaiprayers.net/Book/Single/92/13098)
 
@@ -410,7 +410,7 @@ Prayer bpn13098 in Монгол хэл (bpn13098)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13099 in Монгол хэл (bpn13099) 
+Prayer bpn13099 (bpn13099) 
 
 [bahaiprayers.net 13099](https://bahaiprayers.net/Book/Single/92/13099)
 
@@ -423,7 +423,7 @@ Prayer bpn13099 in Монгол хэл (bpn13099)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13100 in Монгол хэл (bpn13100) 
+Prayer bpn13100 (bpn13100) 
 
 [bahaiprayers.net 13100](https://bahaiprayers.net/Book/Single/92/13100)
 
@@ -436,7 +436,7 @@ Prayer bpn13100 in Монгол хэл (bpn13100)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13101 in Монгол хэл (bpn13101) 
+Prayer bpn13101 (bpn13101) 
 
 [bahaiprayers.net 13101](https://bahaiprayers.net/Book/Single/92/13101)
 
@@ -449,7 +449,7 @@ Prayer bpn13101 in Монгол хэл (bpn13101)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13102 in Монгол хэл (bpn13102) 
+Prayer bpn13102 (bpn13102) 
 
 [bahaiprayers.net 13102](https://bahaiprayers.net/Book/Single/92/13102)
 
@@ -462,7 +462,7 @@ Prayer bpn13102 in Монгол хэл (bpn13102)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13103 in Монгол хэл (bpn13103) 
+Prayer bpn13103 (bpn13103) 
 
 [bahaiprayers.net 13103](https://bahaiprayers.net/Book/Single/92/13103)
 
@@ -475,7 +475,7 @@ Prayer bpn13103 in Монгол хэл (bpn13103)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13104 in Монгол хэл (bpn13104) 
+Prayer bpn13104 (bpn13104) 
 
 [bahaiprayers.net 13104](https://bahaiprayers.net/Book/Single/92/13104)
 
@@ -488,7 +488,7 @@ Prayer bpn13104 in Монгол хэл (bpn13104)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13105 in Монгол хэл (bpn13105) 
+Prayer bpn13105 (bpn13105) 
 
 [bahaiprayers.net 13105](https://bahaiprayers.net/Book/Single/92/13105)
 
@@ -501,7 +501,7 @@ Prayer bpn13105 in Монгол хэл (bpn13105)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13106 in Монгол хэл (bpn13106) 
+Prayer bpn13106 (bpn13106) 
 
 [bahaiprayers.net 13106](https://bahaiprayers.net/Book/Single/92/13106)
 
@@ -514,7 +514,7 @@ Prayer bpn13106 in Монгол хэл (bpn13106)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13107 in Монгол хэл (bpn13107) 
+Prayer bpn13107 (bpn13107) 
 
 [bahaiprayers.net 13107](https://bahaiprayers.net/Book/Single/92/13107)
 
@@ -527,7 +527,7 @@ Prayer bpn13107 in Монгол хэл (bpn13107)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13108 in Монгол хэл (bpn13108) 
+Prayer bpn13108 (bpn13108) 
 
 [bahaiprayers.net 13108](https://bahaiprayers.net/Book/Single/92/13108)
 
@@ -540,7 +540,7 @@ Prayer bpn13108 in Монгол хэл (bpn13108)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13109 in Монгол хэл (bpn13109) 
+Prayer bpn13109 (bpn13109) 
 
 [bahaiprayers.net 13109](https://bahaiprayers.net/Book/Single/92/13109)
 
@@ -553,7 +553,7 @@ Prayer bpn13109 in Монгол хэл (bpn13109)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13110 in Монгол хэл (bpn13110) 
+Prayer bpn13110 (bpn13110) 
 
 [bahaiprayers.net 13110](https://bahaiprayers.net/Book/Single/92/13110)
 
@@ -566,7 +566,7 @@ Prayer bpn13110 in Монгол хэл (bpn13110)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13111 in Монгол хэл (bpn13111) 
+Prayer bpn13111 (bpn13111) 
 
 [bahaiprayers.net 13111](https://bahaiprayers.net/Book/Single/92/13111)
 
@@ -583,7 +583,7 @@ Prayer bpn13111 in Монгол хэл (bpn13111)
 
 -- Bahá'u'lláh
 
-Prayer bpn10732 in Монгол хэл (bpn10732) 
+Prayer bpn10732 (bpn10732) 
 
 [bahaiprayers.net 10732](https://bahaiprayers.net/Book/Single/92/10732)
 
@@ -600,7 +600,7 @@ Prayer bpn10732 in Монгол хэл (bpn10732)
 
 -- Bahá'u'lláh
 
-Prayer bpn10625 in Монгол хэл (bpn10625) 
+Prayer bpn10625 (bpn10625) 
 
 [bahaiprayers.net 10625](https://bahaiprayers.net/Book/Single/92/10625)
 
@@ -613,7 +613,7 @@ Prayer bpn10625 in Монгол хэл (bpn10625)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10626 in Монгол хэл (bpn10626) 
+Prayer bpn10626 (bpn10626) 
 
 [bahaiprayers.net 10626](https://bahaiprayers.net/Book/Single/92/10626)
 
@@ -626,7 +626,7 @@ Prayer bpn10626 in Монгол хэл (bpn10626)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10627 in Монгол хэл (bpn10627) 
+Prayer bpn10627 (bpn10627) 
 
 [bahaiprayers.net 10627](https://bahaiprayers.net/Book/Single/92/10627)
 
@@ -643,7 +643,7 @@ Prayer bpn10627 in Монгол хэл (bpn10627)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10622 in Монгол хэл (bpn10622) 
+Prayer bpn10622 (bpn10622) 
 
 [bahaiprayers.net 10622](https://bahaiprayers.net/Book/Single/92/10622)
 
@@ -656,7 +656,7 @@ Prayer bpn10622 in Монгол хэл (bpn10622)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10623 in Монгол хэл (bpn10623) 
+Prayer bpn10623 (bpn10623) 
 
 [bahaiprayers.net 10623](https://bahaiprayers.net/Book/Single/92/10623)
 
@@ -669,7 +669,7 @@ Prayer bpn10623 in Монгол хэл (bpn10623)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10624 in Монгол хэл (bpn10624) 
+Prayer bpn10624 (bpn10624) 
 
 [bahaiprayers.net 10624](https://bahaiprayers.net/Book/Single/92/10624)
 
@@ -686,7 +686,7 @@ Prayer bpn10624 in Монгол хэл (bpn10624)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10718 in Монгол хэл (bpn10718) 
+Prayer bpn10718 (bpn10718) 
 
 [bahaiprayers.net 10718](https://bahaiprayers.net/Book/Single/92/10718)
 
@@ -703,7 +703,7 @@ Prayer bpn10718 in Монгол хэл (bpn10718)
 
 -- Bahá'u'lláh
 
-Prayer bpn10612 in Монгол хэл (bpn10612) 
+Prayer bpn10612 (bpn10612) 
 
 [bahaiprayers.net 10612](https://bahaiprayers.net/Book/Single/92/10612)
 
@@ -720,7 +720,7 @@ Prayer bpn10612 in Монгол хэл (bpn10612)
 
 -- Bahá'u'lláh
 
-Prayer bpn10613 in Монгол хэл (bpn10613) 
+Prayer bpn10613 (bpn10613) 
 
 [bahaiprayers.net 10613](https://bahaiprayers.net/Book/Single/92/10613)
 
@@ -737,7 +737,7 @@ Prayer bpn10613 in Монгол хэл (bpn10613)
 
 -- Bahá'u'lláh
 
-Prayer bpn10614 in Монгол хэл (bpn10614) 
+Prayer bpn10614 (bpn10614) 
 
 [bahaiprayers.net 10614](https://bahaiprayers.net/Book/Single/92/10614)
 
@@ -754,7 +754,7 @@ Prayer bpn10614 in Монгол хэл (bpn10614)
 
 -- Bahá'u'lláh
 
-Prayer bpn10722 in Монгол хэл (bpn10722) 
+Prayer bpn10722 (bpn10722) 
 
 [bahaiprayers.net 10722](https://bahaiprayers.net/Book/Single/92/10722)
 
@@ -771,7 +771,7 @@ Prayer bpn10722 in Монгол хэл (bpn10722)
 
 -- Bahá'u'lláh
 
-Prayer bpn10628 in Монгол хэл (bpn10628) 
+Prayer bpn10628 (bpn10628) 
 
 [bahaiprayers.net 10628](https://bahaiprayers.net/Book/Single/92/10628)
 
@@ -784,7 +784,7 @@ Prayer bpn10628 in Монгол хэл (bpn10628)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10629 in Монгол хэл (bpn10629) 
+Prayer bpn10629 (bpn10629) 
 
 [bahaiprayers.net 10629](https://bahaiprayers.net/Book/Single/92/10629)
 
@@ -797,7 +797,7 @@ Prayer bpn10629 in Монгол хэл (bpn10629)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10630 in Монгол хэл (bpn10630) 
+Prayer bpn10630 (bpn10630) 
 
 [bahaiprayers.net 10630](https://bahaiprayers.net/Book/Single/92/10630)
 
@@ -810,7 +810,7 @@ Prayer bpn10630 in Монгол хэл (bpn10630)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10631 in Монгол хэл (bpn10631) 
+Prayer bpn10631 (bpn10631) 
 
 [bahaiprayers.net 10631](https://bahaiprayers.net/Book/Single/92/10631)
 
@@ -823,7 +823,7 @@ Prayer bpn10631 in Монгол хэл (bpn10631)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10632 in Монгол хэл (bpn10632) 
+Prayer bpn10632 (bpn10632) 
 
 [bahaiprayers.net 10632](https://bahaiprayers.net/Book/Single/92/10632)
 
@@ -836,7 +836,7 @@ Prayer bpn10632 in Монгол хэл (bpn10632)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10633 in Монгол хэл (bpn10633) 
+Prayer bpn10633 (bpn10633) 
 
 [bahaiprayers.net 10633](https://bahaiprayers.net/Book/Single/92/10633)
 
@@ -849,7 +849,7 @@ Prayer bpn10633 in Монгол хэл (bpn10633)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10634 in Монгол хэл (bpn10634) 
+Prayer bpn10634 (bpn10634) 
 
 [bahaiprayers.net 10634](https://bahaiprayers.net/Book/Single/92/10634)
 
@@ -866,7 +866,7 @@ Prayer bpn10634 in Монгол хэл (bpn10634)
 
 -- Bahá'u'lláh
 
-Prayer bpn10635 in Монгол хэл (bpn10635) 
+Prayer bpn10635 (bpn10635) 
 
 [bahaiprayers.net 10635](https://bahaiprayers.net/Book/Single/92/10635)
 
@@ -879,7 +879,7 @@ Prayer bpn10635 in Монгол хэл (bpn10635)
 
 -- Bahá'u'lláh
 
-Prayer bpn10636 in Монгол хэл (bpn10636) 
+Prayer bpn10636 (bpn10636) 
 
 [bahaiprayers.net 10636](https://bahaiprayers.net/Book/Single/92/10636)
 
@@ -896,7 +896,7 @@ Prayer bpn10636 in Монгол хэл (bpn10636)
 
 -- Bahá'u'lláh
 
-Prayer bpn10723 in Монгол хэл (bpn10723) 
+Prayer bpn10723 (bpn10723) 
 
 [bahaiprayers.net 10723](https://bahaiprayers.net/Book/Single/92/10723)
 
@@ -909,7 +909,7 @@ Prayer bpn10723 in Монгол хэл (bpn10723)
 
 -- Bahá'u'lláh
 
-Prayer bpn10724 in Монгол хэл (bpn10724) 
+Prayer bpn10724 (bpn10724) 
 
 [bahaiprayers.net 10724](https://bahaiprayers.net/Book/Single/92/10724)
 
@@ -922,7 +922,7 @@ Prayer bpn10724 in Монгол хэл (bpn10724)
 
 -- Bahá'u'lláh
 
-Prayer bpn10725 in Монгол хэл (bpn10725) 
+Prayer bpn10725 (bpn10725) 
 
 [bahaiprayers.net 10725](https://bahaiprayers.net/Book/Single/92/10725)
 
@@ -935,7 +935,7 @@ Prayer bpn10725 in Монгол хэл (bpn10725)
 
 -- Bahá'u'lláh
 
-Prayer bpn10726 in Монгол хэл (bpn10726) 
+Prayer bpn10726 (bpn10726) 
 
 [bahaiprayers.net 10726](https://bahaiprayers.net/Book/Single/92/10726)
 
@@ -952,7 +952,7 @@ Prayer bpn10726 in Монгол хэл (bpn10726)
 
 -- Bahá'u'lláh
 
-Prayer bpn10621 in Монгол хэл (bpn10621) 
+Prayer bpn10621 (bpn10621) 
 
 [bahaiprayers.net 10621](https://bahaiprayers.net/Book/Single/92/10621)
 
@@ -969,7 +969,7 @@ Prayer bpn10621 in Монгол хэл (bpn10621)
 
 -- Bahá'u'lláh
 
-Prayer bpn10727 in Монгол хэл (bpn10727) 
+Prayer bpn10727 (bpn10727) 
 
 [bahaiprayers.net 10727](https://bahaiprayers.net/Book/Single/92/10727)
 
@@ -986,7 +986,7 @@ Prayer bpn10727 in Монгол хэл (bpn10727)
 
 -- Bahá'u'lláh
 
-Prayer bpn10728 in Монгол хэл (bpn10728) 
+Prayer bpn10728 (bpn10728) 
 
 [bahaiprayers.net 10728](https://bahaiprayers.net/Book/Single/92/10728)
 
@@ -1003,7 +1003,7 @@ Prayer bpn10728 in Монгол хэл (bpn10728)
 
 -- Bahá'u'lláh
 
-Prayer bpn10637 in Монгол хэл (bpn10637) 
+Prayer bpn10637 (bpn10637) 
 
 [bahaiprayers.net 10637](https://bahaiprayers.net/Book/Single/92/10637)
 
@@ -1016,7 +1016,7 @@ Prayer bpn10637 in Монгол хэл (bpn10637)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10638 in Монгол хэл (bpn10638) 
+Prayer bpn10638 (bpn10638) 
 
 [bahaiprayers.net 10638](https://bahaiprayers.net/Book/Single/92/10638)
 
@@ -1029,7 +1029,7 @@ Prayer bpn10638 in Монгол хэл (bpn10638)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10639 in Монгол хэл (bpn10639) 
+Prayer bpn10639 (bpn10639) 
 
 [bahaiprayers.net 10639](https://bahaiprayers.net/Book/Single/92/10639)
 
@@ -1046,7 +1046,7 @@ Prayer bpn10639 in Монгол хэл (bpn10639)
 
 -- Bahá'u'lláh
 
-Prayer bpn10653 in Монгол хэл (bpn10653) 
+Prayer bpn10653 (bpn10653) 
 
 [bahaiprayers.net 10653](https://bahaiprayers.net/Book/Single/92/10653)
 
@@ -1063,7 +1063,7 @@ Prayer bpn10653 in Монгол хэл (bpn10653)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10647 in Монгол хэл (bpn10647) 
+Prayer bpn10647 (bpn10647) 
 
 [bahaiprayers.net 10647](https://bahaiprayers.net/Book/Single/92/10647)
 
@@ -1076,7 +1076,7 @@ Prayer bpn10647 in Монгол хэл (bpn10647)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10648 in Монгол хэл (bpn10648) 
+Prayer bpn10648 (bpn10648) 
 
 [bahaiprayers.net 10648](https://bahaiprayers.net/Book/Single/92/10648)
 
@@ -1089,7 +1089,7 @@ Prayer bpn10648 in Монгол хэл (bpn10648)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10649 in Монгол хэл (bpn10649) 
+Prayer bpn10649 (bpn10649) 
 
 [bahaiprayers.net 10649](https://bahaiprayers.net/Book/Single/92/10649)
 
@@ -1106,7 +1106,7 @@ Prayer bpn10649 in Монгол хэл (bpn10649)
 
 -- Bahá'u'lláh
 
-Prayer bpn10641 in Монгол хэл (bpn10641) 
+Prayer bpn10641 (bpn10641) 
 
 [bahaiprayers.net 10641](https://bahaiprayers.net/Book/Single/92/10641)
 
@@ -1119,7 +1119,7 @@ Prayer bpn10641 in Монгол хэл (bpn10641)
 
 -- Bahá'u'lláh
 
-Prayer bpn10642 in Монгол хэл (bpn10642) 
+Prayer bpn10642 (bpn10642) 
 
 [bahaiprayers.net 10642](https://bahaiprayers.net/Book/Single/92/10642)
 
@@ -1132,7 +1132,7 @@ Prayer bpn10642 in Монгол хэл (bpn10642)
 
 -- Bahá'u'lláh
 
-Prayer bpn10643 in Монгол хэл (bpn10643) 
+Prayer bpn10643 (bpn10643) 
 
 [bahaiprayers.net 10643](https://bahaiprayers.net/Book/Single/92/10643)
 
@@ -1145,7 +1145,7 @@ Prayer bpn10643 in Монгол хэл (bpn10643)
 
 -- Bahá'u'lláh
 
-Prayer bpn10644 in Монгол хэл (bpn10644) 
+Prayer bpn10644 (bpn10644) 
 
 [bahaiprayers.net 10644](https://bahaiprayers.net/Book/Single/92/10644)
 
@@ -1158,7 +1158,7 @@ Prayer bpn10644 in Монгол хэл (bpn10644)
 
 -- Bahá'u'lláh
 
-Prayer bpn10645 in Монгол хэл (bpn10645) 
+Prayer bpn10645 (bpn10645) 
 
 [bahaiprayers.net 10645](https://bahaiprayers.net/Book/Single/92/10645)
 
@@ -1171,7 +1171,7 @@ Prayer bpn10645 in Монгол хэл (bpn10645)
 
 -- Bahá'u'lláh
 
-Prayer bpn10646 in Монгол хэл (bpn10646) 
+Prayer bpn10646 (bpn10646) 
 
 [bahaiprayers.net 10646](https://bahaiprayers.net/Book/Single/92/10646)
 
@@ -1184,7 +1184,7 @@ Prayer bpn10646 in Монгол хэл (bpn10646)
 
 -- Bahá'u'lláh
 
-Prayer bpn10640 in Монгол хэл (bpn10640) 
+Prayer bpn10640 (bpn10640) 
 
 [bahaiprayers.net 10640](https://bahaiprayers.net/Book/Single/92/10640)
 
@@ -1201,7 +1201,7 @@ Prayer bpn10640 in Монгол хэл (bpn10640)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10662 in Монгол хэл (bpn10662) 
+Prayer bpn10662 (bpn10662) 
 
 [bahaiprayers.net 10662](https://bahaiprayers.net/Book/Single/92/10662)
 
@@ -1214,7 +1214,7 @@ Prayer bpn10662 in Монгол хэл (bpn10662)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10663 in Монгол хэл (bpn10663) 
+Prayer bpn10663 (bpn10663) 
 
 [bahaiprayers.net 10663](https://bahaiprayers.net/Book/Single/92/10663)
 
@@ -1231,7 +1231,7 @@ Prayer bpn10663 in Монгол хэл (bpn10663)
 
 -- Bahá'u'lláh
 
-Prayer bpn10664 in Монгол хэл (bpn10664) 
+Prayer bpn10664 (bpn10664) 
 
 [bahaiprayers.net 10664](https://bahaiprayers.net/Book/Single/92/10664)
 
@@ -1244,7 +1244,7 @@ Prayer bpn10664 in Монгол хэл (bpn10664)
 
 -- Báb
 
-Prayer bpn10665 in Монгол хэл (bpn10665) 
+Prayer bpn10665 (bpn10665) 
 
 [bahaiprayers.net 10665](https://bahaiprayers.net/Book/Single/92/10665)
 
@@ -1257,7 +1257,7 @@ Prayer bpn10665 in Монгол хэл (bpn10665)
 
 -- Báb
 
-Prayer bpn10666 in Монгол хэл (bpn10666) 
+Prayer bpn10666 (bpn10666) 
 
 [bahaiprayers.net 10666](https://bahaiprayers.net/Book/Single/92/10666)
 
@@ -1270,7 +1270,7 @@ Prayer bpn10666 in Монгол хэл (bpn10666)
 
 -- Báb
 
-Prayer bpn10667 in Монгол хэл (bpn10667) 
+Prayer bpn10667 (bpn10667) 
 
 [bahaiprayers.net 10667](https://bahaiprayers.net/Book/Single/92/10667)
 
@@ -1283,7 +1283,7 @@ Prayer bpn10667 in Монгол хэл (bpn10667)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10668 in Монгол хэл (bpn10668) 
+Prayer bpn10668 (bpn10668) 
 
 [bahaiprayers.net 10668](https://bahaiprayers.net/Book/Single/92/10668)
 
@@ -1296,7 +1296,7 @@ Prayer bpn10668 in Монгол хэл (bpn10668)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10669 in Монгол хэл (bpn10669) 
+Prayer bpn10669 (bpn10669) 
 
 [bahaiprayers.net 10669](https://bahaiprayers.net/Book/Single/92/10669)
 
@@ -1313,7 +1313,7 @@ Prayer bpn10669 in Монгол хэл (bpn10669)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10670 in Монгол хэл (bpn10670) 
+Prayer bpn10670 (bpn10670) 
 
 [bahaiprayers.net 10670](https://bahaiprayers.net/Book/Single/92/10670)
 
@@ -1326,7 +1326,7 @@ Prayer bpn10670 in Монгол хэл (bpn10670)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10671 in Монгол хэл (bpn10671) 
+Prayer bpn10671 (bpn10671) 
 
 [bahaiprayers.net 10671](https://bahaiprayers.net/Book/Single/92/10671)
 
@@ -1339,7 +1339,7 @@ Prayer bpn10671 in Монгол хэл (bpn10671)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10672 in Монгол хэл (bpn10672) 
+Prayer bpn10672 (bpn10672) 
 
 [bahaiprayers.net 10672](https://bahaiprayers.net/Book/Single/92/10672)
 
@@ -1352,7 +1352,7 @@ Prayer bpn10672 in Монгол хэл (bpn10672)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10673 in Монгол хэл (bpn10673) 
+Prayer bpn10673 (bpn10673) 
 
 [bahaiprayers.net 10673](https://bahaiprayers.net/Book/Single/92/10673)
 
@@ -1365,7 +1365,7 @@ Prayer bpn10673 in Монгол хэл (bpn10673)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10674 in Монгол хэл (bpn10674) 
+Prayer bpn10674 (bpn10674) 
 
 [bahaiprayers.net 10674](https://bahaiprayers.net/Book/Single/92/10674)
 
@@ -1378,7 +1378,7 @@ Prayer bpn10674 in Монгол хэл (bpn10674)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10675 in Монгол хэл (bpn10675) 
+Prayer bpn10675 (bpn10675) 
 
 [bahaiprayers.net 10675](https://bahaiprayers.net/Book/Single/92/10675)
 
@@ -1395,7 +1395,7 @@ Prayer bpn10675 in Монгол хэл (bpn10675)
 
 -- Bahá'u'lláh
 
-Prayer bpn10678 in Монгол хэл (bpn10678) 
+Prayer bpn10678 (bpn10678) 
 
 [bahaiprayers.net 10678](https://bahaiprayers.net/Book/Single/92/10678)
 
@@ -1408,7 +1408,7 @@ Prayer bpn10678 in Монгол хэл (bpn10678)
 
 -- Bahá'u'lláh
 
-Prayer bpn10679 in Монгол хэл (bpn10679) 
+Prayer bpn10679 (bpn10679) 
 
 [bahaiprayers.net 10679](https://bahaiprayers.net/Book/Single/92/10679)
 
@@ -1421,7 +1421,7 @@ Prayer bpn10679 in Монгол хэл (bpn10679)
 
 -- Báb
 
-Prayer bpn10676 in Монгол хэл (bpn10676) 
+Prayer bpn10676 (bpn10676) 
 
 [bahaiprayers.net 10676](https://bahaiprayers.net/Book/Single/92/10676)
 
@@ -1434,7 +1434,7 @@ Prayer bpn10676 in Монгол хэл (bpn10676)
 
 -- Báb
 
-Prayer bpn10677 in Монгол хэл (bpn10677) 
+Prayer bpn10677 (bpn10677) 
 
 [bahaiprayers.net 10677](https://bahaiprayers.net/Book/Single/92/10677)
 
@@ -1447,7 +1447,7 @@ Prayer bpn10677 in Монгол хэл (bpn10677)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10680 in Монгол хэл (bpn10680) 
+Prayer bpn10680 (bpn10680) 
 
 [bahaiprayers.net 10680](https://bahaiprayers.net/Book/Single/92/10680)
 
@@ -1460,7 +1460,7 @@ Prayer bpn10680 in Монгол хэл (bpn10680)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10681 in Монгол хэл (bpn10681) 
+Prayer bpn10681 (bpn10681) 
 
 [bahaiprayers.net 10681](https://bahaiprayers.net/Book/Single/92/10681)
 
@@ -1473,7 +1473,7 @@ Prayer bpn10681 in Монгол хэл (bpn10681)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10682 in Монгол хэл (bpn10682) 
+Prayer bpn10682 (bpn10682) 
 
 [bahaiprayers.net 10682](https://bahaiprayers.net/Book/Single/92/10682)
 
@@ -1490,7 +1490,7 @@ Prayer bpn10682 in Монгол хэл (bpn10682)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10683 in Монгол хэл (bpn10683) 
+Prayer bpn10683 (bpn10683) 
 
 [bahaiprayers.net 10683](https://bahaiprayers.net/Book/Single/92/10683)
 
@@ -1503,7 +1503,7 @@ Prayer bpn10683 in Монгол хэл (bpn10683)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10684 in Монгол хэл (bpn10684) 
+Prayer bpn10684 (bpn10684) 
 
 [bahaiprayers.net 10684](https://bahaiprayers.net/Book/Single/92/10684)
 
@@ -1516,7 +1516,7 @@ Prayer bpn10684 in Монгол хэл (bpn10684)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10685 in Монгол хэл (bpn10685) 
+Prayer bpn10685 (bpn10685) 
 
 [bahaiprayers.net 10685](https://bahaiprayers.net/Book/Single/92/10685)
 
@@ -1529,7 +1529,7 @@ Prayer bpn10685 in Монгол хэл (bpn10685)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10686 in Монгол хэл (bpn10686) 
+Prayer bpn10686 (bpn10686) 
 
 [bahaiprayers.net 10686](https://bahaiprayers.net/Book/Single/92/10686)
 
@@ -1546,7 +1546,7 @@ Prayer bpn10686 in Монгол хэл (bpn10686)
 
 -- Bahá'u'lláh
 
-Prayer bpn10691 in Монгол хэл (bpn10691) 
+Prayer bpn10691 (bpn10691) 
 
 [bahaiprayers.net 10691](https://bahaiprayers.net/Book/Single/92/10691)
 
@@ -1559,7 +1559,7 @@ Prayer bpn10691 in Монгол хэл (bpn10691)
 
 -- Báb
 
-Prayer bpn10690 in Монгол хэл (bpn10690) 
+Prayer bpn10690 (bpn10690) 
 
 [bahaiprayers.net 10690](https://bahaiprayers.net/Book/Single/92/10690)
 
@@ -1572,7 +1572,7 @@ Prayer bpn10690 in Монгол хэл (bpn10690)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10692 in Монгол хэл (bpn10692) 
+Prayer bpn10692 (bpn10692) 
 
 [bahaiprayers.net 10692](https://bahaiprayers.net/Book/Single/92/10692)
 
@@ -1585,7 +1585,7 @@ Prayer bpn10692 in Монгол хэл (bpn10692)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10693 in Монгол хэл (bpn10693) 
+Prayer bpn10693 (bpn10693) 
 
 [bahaiprayers.net 10693](https://bahaiprayers.net/Book/Single/92/10693)
 
@@ -1598,7 +1598,7 @@ Prayer bpn10693 in Монгол хэл (bpn10693)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10694 in Монгол хэл (bpn10694) 
+Prayer bpn10694 (bpn10694) 
 
 [bahaiprayers.net 10694](https://bahaiprayers.net/Book/Single/92/10694)
 
@@ -1611,7 +1611,7 @@ Prayer bpn10694 in Монгол хэл (bpn10694)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10695 in Монгол хэл (bpn10695) 
+Prayer bpn10695 (bpn10695) 
 
 [bahaiprayers.net 10695](https://bahaiprayers.net/Book/Single/92/10695)
 
@@ -1628,7 +1628,7 @@ Prayer bpn10695 in Монгол хэл (bpn10695)
 
 -- Bahá'u'lláh
 
-Prayer bpn10696 in Монгол хэл (bpn10696) 
+Prayer bpn10696 (bpn10696) 
 
 [bahaiprayers.net 10696](https://bahaiprayers.net/Book/Single/92/10696)
 
@@ -1645,7 +1645,7 @@ Prayer bpn10696 in Монгол хэл (bpn10696)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10697 in Монгол хэл (bpn10697) 
+Prayer bpn10697 (bpn10697) 
 
 [bahaiprayers.net 10697](https://bahaiprayers.net/Book/Single/92/10697)
 
@@ -1658,7 +1658,7 @@ Prayer bpn10697 in Монгол хэл (bpn10697)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10698 in Монгол хэл (bpn10698) 
+Prayer bpn10698 (bpn10698) 
 
 [bahaiprayers.net 10698](https://bahaiprayers.net/Book/Single/92/10698)
 
@@ -1671,7 +1671,7 @@ Prayer bpn10698 in Монгол хэл (bpn10698)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10699 in Монгол хэл (bpn10699) 
+Prayer bpn10699 (bpn10699) 
 
 [bahaiprayers.net 10699](https://bahaiprayers.net/Book/Single/92/10699)
 
@@ -1688,7 +1688,7 @@ Prayer bpn10699 in Монгол хэл (bpn10699)
 
 -- Bahá'u'lláh
 
-Prayer bpn10700 in Монгол хэл (bpn10700) 
+Prayer bpn10700 (bpn10700) 
 
 [bahaiprayers.net 10700](https://bahaiprayers.net/Book/Single/92/10700)
 
@@ -1701,7 +1701,7 @@ Prayer bpn10700 in Монгол хэл (bpn10700)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10701 in Монгол хэл (bpn10701) 
+Prayer bpn10701 (bpn10701) 
 
 [bahaiprayers.net 10701](https://bahaiprayers.net/Book/Single/92/10701)
 
@@ -1714,7 +1714,7 @@ Prayer bpn10701 in Монгол хэл (bpn10701)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10702 in Монгол хэл (bpn10702) 
+Prayer bpn10702 (bpn10702) 
 
 [bahaiprayers.net 10702](https://bahaiprayers.net/Book/Single/92/10702)
 
@@ -1727,7 +1727,7 @@ Prayer bpn10702 in Монгол хэл (bpn10702)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10703 in Монгол хэл (bpn10703) 
+Prayer bpn10703 (bpn10703) 
 
 [bahaiprayers.net 10703](https://bahaiprayers.net/Book/Single/92/10703)
 
@@ -1740,7 +1740,7 @@ Prayer bpn10703 in Монгол хэл (bpn10703)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10704 in Монгол хэл (bpn10704) 
+Prayer bpn10704 (bpn10704) 
 
 [bahaiprayers.net 10704](https://bahaiprayers.net/Book/Single/92/10704)
 
@@ -1753,7 +1753,7 @@ Prayer bpn10704 in Монгол хэл (bpn10704)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10705 in Монгол хэл (bpn10705) 
+Prayer bpn10705 (bpn10705) 
 
 [bahaiprayers.net 10705](https://bahaiprayers.net/Book/Single/92/10705)
 
@@ -1766,7 +1766,7 @@ Prayer bpn10705 in Монгол хэл (bpn10705)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10706 in Монгол хэл (bpn10706) 
+Prayer bpn10706 (bpn10706) 
 
 [bahaiprayers.net 10706](https://bahaiprayers.net/Book/Single/92/10706)
 
@@ -1779,7 +1779,7 @@ Prayer bpn10706 in Монгол хэл (bpn10706)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10708 in Монгол хэл (bpn10708) 
+Prayer bpn10708 (bpn10708) 
 
 [bahaiprayers.net 10708](https://bahaiprayers.net/Book/Single/92/10708)
 
@@ -1792,7 +1792,7 @@ Prayer bpn10708 in Монгол хэл (bpn10708)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10709 in Монгол хэл (bpn10709) 
+Prayer bpn10709 (bpn10709) 
 
 [bahaiprayers.net 10709](https://bahaiprayers.net/Book/Single/92/10709)
 
@@ -1805,7 +1805,7 @@ Prayer bpn10709 in Монгол хэл (bpn10709)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10710 in Монгол хэл (bpn10710) 
+Prayer bpn10710 (bpn10710) 
 
 [bahaiprayers.net 10710](https://bahaiprayers.net/Book/Single/92/10710)
 
@@ -1818,7 +1818,7 @@ Prayer bpn10710 in Монгол хэл (bpn10710)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10707 in Монгол хэл (bpn10707) 
+Prayer bpn10707 (bpn10707) 
 
 [bahaiprayers.net 10707](https://bahaiprayers.net/Book/Single/92/10707)
 
@@ -1835,7 +1835,7 @@ Prayer bpn10707 in Монгол хэл (bpn10707)
 
 -- Bahá'u'lláh
 
-Prayer bpn10711 in Монгол хэл (bpn10711) 
+Prayer bpn10711 (bpn10711) 
 
 [bahaiprayers.net 10711](https://bahaiprayers.net/Book/Single/92/10711)
 
@@ -1848,7 +1848,7 @@ Prayer bpn10711 in Монгол хэл (bpn10711)
 
 -- Bahá'u'lláh
 
-Prayer bpn10712 in Монгол хэл (bpn10712) 
+Prayer bpn10712 (bpn10712) 
 
 [bahaiprayers.net 10712](https://bahaiprayers.net/Book/Single/92/10712)
 
@@ -1861,7 +1861,7 @@ Prayer bpn10712 in Монгол хэл (bpn10712)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10713 in Монгол хэл (bpn10713) 
+Prayer bpn10713 (bpn10713) 
 
 [bahaiprayers.net 10713](https://bahaiprayers.net/Book/Single/92/10713)
 
@@ -1878,7 +1878,7 @@ Prayer bpn10713 in Монгол хэл (bpn10713)
 
 -- Bahá'u'lláh
 
-Prayer bpn10714 in Монгол хэл (bpn10714) 
+Prayer bpn10714 (bpn10714) 
 
 [bahaiprayers.net 10714](https://bahaiprayers.net/Book/Single/92/10714)
 
@@ -1891,7 +1891,7 @@ Prayer bpn10714 in Монгол хэл (bpn10714)
 
 -- Bahá'u'lláh
 
-Prayer bpn10715 in Монгол хэл (bpn10715) 
+Prayer bpn10715 (bpn10715) 
 
 [bahaiprayers.net 10715](https://bahaiprayers.net/Book/Single/92/10715)
 
@@ -1904,7 +1904,7 @@ Prayer bpn10715 in Монгол хэл (bpn10715)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10716 in Монгол хэл (bpn10716) 
+Prayer bpn10716 (bpn10716) 
 
 [bahaiprayers.net 10716](https://bahaiprayers.net/Book/Single/92/10716)
 
@@ -1921,7 +1921,7 @@ Prayer bpn10716 in Монгол хэл (bpn10716)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10717 in Монгол хэл (bpn10717) 
+Prayer bpn10717 (bpn10717) 
 
 [bahaiprayers.net 10717](https://bahaiprayers.net/Book/Single/92/10717)
 
@@ -1938,7 +1938,7 @@ Prayer bpn10717 in Монгол хэл (bpn10717)
 
 -- Bahá'u'lláh
 
-Prayer bpn12607 in Монгол хэл (bpn12607) 
+Prayer bpn12607 (bpn12607) 
 
 [bahaiprayers.net 12607](https://bahaiprayers.net/Book/Single/92/12607)
 
@@ -1951,7 +1951,7 @@ Prayer bpn12607 in Монгол хэл (bpn12607)
 
 -- Báb
 
-Prayer bpn10720 in Монгол хэл (bpn10720) 
+Prayer bpn10720 (bpn10720) 
 
 [bahaiprayers.net 10720](https://bahaiprayers.net/Book/Single/92/10720)
 
@@ -1964,7 +1964,7 @@ Prayer bpn10720 in Монгол хэл (bpn10720)
 
 -- Báb
 
-Prayer bpn12606 in Монгол хэл (bpn12606) 
+Prayer bpn12606 (bpn12606) 
 
 [bahaiprayers.net 12606](https://bahaiprayers.net/Book/Single/92/12606)
 
@@ -1977,7 +1977,7 @@ Prayer bpn12606 in Монгол хэл (bpn12606)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10721 in Монгол хэл (bpn10721) 
+Prayer bpn10721 (bpn10721) 
 
 [bahaiprayers.net 10721](https://bahaiprayers.net/Book/Single/92/10721)
 
@@ -1994,7 +1994,7 @@ Prayer bpn10721 in Монгол хэл (bpn10721)
 
 -- Bahá'u'lláh
 
-Prayer bpn10652 in Монгол хэл (bpn10652) 
+Prayer bpn10652 (bpn10652) 
 
 [bahaiprayers.net 10652](https://bahaiprayers.net/Book/Single/92/10652)
 
@@ -2011,7 +2011,7 @@ Prayer bpn10652 in Монгол хэл (bpn10652)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10719 in Монгол хэл (bpn10719) 
+Prayer bpn10719 (bpn10719) 
 
 [bahaiprayers.net 10719](https://bahaiprayers.net/Book/Single/92/10719)
 
@@ -2028,7 +2028,7 @@ Prayer bpn10719 in Монгол хэл (bpn10719)
 
 -- Báb
 
-Prayer bpn10687 in Монгол хэл (bpn10687) 
+Prayer bpn10687 (bpn10687) 
 
 [bahaiprayers.net 10687](https://bahaiprayers.net/Book/Single/92/10687)
 
@@ -2041,7 +2041,7 @@ Prayer bpn10687 in Монгол хэл (bpn10687)
 
 -- Báb
 
-Prayer bpn10688 in Монгол хэл (bpn10688) 
+Prayer bpn10688 (bpn10688) 
 
 [bahaiprayers.net 10688](https://bahaiprayers.net/Book/Single/92/10688)
 
@@ -2054,7 +2054,7 @@ Prayer bpn10688 in Монгол хэл (bpn10688)
 
 -- Báb
 
-Prayer bpn10689 in Монгол хэл (bpn10689) 
+Prayer bpn10689 (bpn10689) 
 
 [bahaiprayers.net 10689](https://bahaiprayers.net/Book/Single/92/10689)
 
@@ -2071,7 +2071,7 @@ Prayer bpn10689 in Монгол хэл (bpn10689)
 
 -- Bahá'u'lláh
 
-Prayer bpn10650 in Монгол хэл (bpn10650) 
+Prayer bpn10650 (bpn10650) 
 
 [bahaiprayers.net 10650](https://bahaiprayers.net/Book/Single/92/10650)
 
@@ -2084,7 +2084,7 @@ Prayer bpn10650 in Монгол хэл (bpn10650)
 
 -- Bahá'u'lláh
 
-Prayer bpn10651 in Монгол хэл (bpn10651) 
+Prayer bpn10651 (bpn10651) 
 
 [bahaiprayers.net 10651](https://bahaiprayers.net/Book/Single/92/10651)
 
@@ -2101,7 +2101,7 @@ Prayer bpn10651 in Монгол хэл (bpn10651)
 
 -- Bahá'u'lláh
 
-Prayer bpn10655 in Монгол хэл (bpn10655) 
+Prayer bpn10655 (bpn10655) 
 
 [bahaiprayers.net 10655](https://bahaiprayers.net/Book/Single/92/10655)
 
@@ -2114,7 +2114,7 @@ Prayer bpn10655 in Монгол хэл (bpn10655)
 
 -- Bahá'u'lláh
 
-Prayer bpn10656 in Монгол хэл (bpn10656) 
+Prayer bpn10656 (bpn10656) 
 
 [bahaiprayers.net 10656](https://bahaiprayers.net/Book/Single/92/10656)
 
@@ -2131,7 +2131,7 @@ Prayer bpn10656 in Монгол хэл (bpn10656)
 
 -- Bahá'u'lláh
 
-Prayer bpn10657 in Монгол хэл (bpn10657) 
+Prayer bpn10657 (bpn10657) 
 
 [bahaiprayers.net 10657](https://bahaiprayers.net/Book/Single/92/10657)
 
@@ -2144,7 +2144,7 @@ Prayer bpn10657 in Монгол хэл (bpn10657)
 
 -- Báb
 
-Prayer bpn10658 in Монгол хэл (bpn10658) 
+Prayer bpn10658 (bpn10658) 
 
 [bahaiprayers.net 10658](https://bahaiprayers.net/Book/Single/92/10658)
 
@@ -2157,7 +2157,7 @@ Prayer bpn10658 in Монгол хэл (bpn10658)
 
 -- Báb
 
-Prayer bpn10659 in Монгол хэл (bpn10659) 
+Prayer bpn10659 (bpn10659) 
 
 [bahaiprayers.net 10659](https://bahaiprayers.net/Book/Single/92/10659)
 
@@ -2170,7 +2170,7 @@ Prayer bpn10659 in Монгол хэл (bpn10659)
 
 -- Báb
 
-Prayer bpn10660 in Монгол хэл (bpn10660) 
+Prayer bpn10660 (bpn10660) 
 
 [bahaiprayers.net 10660](https://bahaiprayers.net/Book/Single/92/10660)
 
@@ -2183,7 +2183,7 @@ Prayer bpn10660 in Монгол хэл (bpn10660)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10661 in Монгол хэл (bpn10661) 
+Prayer bpn10661 (bpn10661) 
 
 [bahaiprayers.net 10661](https://bahaiprayers.net/Book/Single/92/10661)
 
@@ -2200,7 +2200,7 @@ Prayer bpn10661 in Монгол хэл (bpn10661)
 
 -- Bahá'u'lláh
 
-Prayer bpn10654 in Монгол хэл (bpn10654) 
+Prayer bpn10654 (bpn10654) 
 
 [bahaiprayers.net 10654](https://bahaiprayers.net/Book/Single/92/10654)
 

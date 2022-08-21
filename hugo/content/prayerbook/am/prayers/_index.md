@@ -84,7 +84,7 @@ tags = ['lang=am', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9921 in አማርኛ. (bpn9921) 
+Prayer bpn9921 (bpn9921) 
 
 [bahaiprayers.net 9921](https://bahaiprayers.net/Book/Single/90/9921)
 
@@ -101,7 +101,7 @@ Prayer bpn9921 in አማርኛ. (bpn9921)
 
 -- Bahá'u'lláh
 
-Prayer bpn9922 in አማርኛ. (bpn9922) 
+Prayer bpn9922 (bpn9922) 
 
 [bahaiprayers.net 9922](https://bahaiprayers.net/Book/Single/90/9922)
 
@@ -118,7 +118,7 @@ Prayer bpn9922 in አማርኛ. (bpn9922)
 
 -- Bahá'u'lláh
 
-Prayer bpn9912 in አማርኛ. (bpn9912) 
+Prayer bpn9912 (bpn9912) 
 
 [bahaiprayers.net 9912](https://bahaiprayers.net/Book/Single/90/9912)
 
@@ -135,7 +135,7 @@ Prayer bpn9912 in አማርኛ. (bpn9912)
 
 -- Bahá'u'lláh
 
-Prayer bpn9923 in አማርኛ. (bpn9923) 
+Prayer bpn9923 (bpn9923) 
 
 [bahaiprayers.net 9923](https://bahaiprayers.net/Book/Single/90/9923)
 
@@ -152,7 +152,7 @@ Prayer bpn9923 in አማርኛ. (bpn9923)
 
 -- Bahá'u'lláh
 
-Prayer bpn9924 in አማርኛ. (bpn9924) 
+Prayer bpn9924 (bpn9924) 
 
 [bahaiprayers.net 9924](https://bahaiprayers.net/Book/Single/90/9924)
 
@@ -169,7 +169,7 @@ Prayer bpn9924 in አማርኛ. (bpn9924)
 
 -- Bahá'u'lláh
 
-Prayer bpn9910 in አማርኛ. (bpn9910) 
+Prayer bpn9910 (bpn9910) 
 
 [bahaiprayers.net 9910](https://bahaiprayers.net/Book/Single/90/9910)
 
@@ -186,7 +186,7 @@ Prayer bpn9910 in አማርኛ. (bpn9910)
 
 -- Bahá'u'lláh
 
-Prayer bpn9919 in አማርኛ. (bpn9919) 
+Prayer bpn9919 (bpn9919) 
 
 [bahaiprayers.net 9919](https://bahaiprayers.net/Book/Single/90/9919)
 
@@ -203,7 +203,7 @@ Prayer bpn9919 in አማርኛ. (bpn9919)
 
 -- Bahá'u'lláh
 
-Prayer bpn9925 in አማርኛ. (bpn9925) 
+Prayer bpn9925 (bpn9925) 
 
 [bahaiprayers.net 9925](https://bahaiprayers.net/Book/Single/90/9925)
 
@@ -220,7 +220,7 @@ Prayer bpn9925 in አማርኛ. (bpn9925)
 
 -- Bahá'u'lláh
 
-Prayer bpn9917 in አማርኛ. (bpn9917) 
+Prayer bpn9917 (bpn9917) 
 
 [bahaiprayers.net 9917](https://bahaiprayers.net/Book/Single/90/9917)
 
@@ -237,7 +237,7 @@ Prayer bpn9917 in አማርኛ. (bpn9917)
 
 -- Bahá'u'lláh
 
-Prayer bpn9915 in አማርኛ. (bpn9915) 
+Prayer bpn9915 (bpn9915) 
 
 [bahaiprayers.net 9915](https://bahaiprayers.net/Book/Single/90/9915)
 
@@ -254,7 +254,7 @@ Prayer bpn9915 in አማርኛ. (bpn9915)
 
 -- Bahá'u'lláh
 
-Prayer bpn9926 in አማርኛ. (bpn9926) 
+Prayer bpn9926 (bpn9926) 
 
 [bahaiprayers.net 9926](https://bahaiprayers.net/Book/Single/90/9926)
 
@@ -271,7 +271,7 @@ Prayer bpn9926 in አማርኛ. (bpn9926)
 
 -- Bahá'u'lláh
 
-Prayer bpn9911 in አማርኛ. (bpn9911) 
+Prayer bpn9911 (bpn9911) 
 
 [bahaiprayers.net 9911](https://bahaiprayers.net/Book/Single/90/9911)
 
@@ -288,7 +288,7 @@ Prayer bpn9911 in አማርኛ. (bpn9911)
 
 -- Bahá'u'lláh
 
-Prayer bpn9927 in አማርኛ. (bpn9927) 
+Prayer bpn9927 (bpn9927) 
 
 [bahaiprayers.net 9927](https://bahaiprayers.net/Book/Single/90/9927)
 
@@ -305,7 +305,7 @@ Prayer bpn9927 in አማርኛ. (bpn9927)
 
 -- Bahá'u'lláh
 
-Prayer bpn9916 in አማርኛ. (bpn9916) 
+Prayer bpn9916 (bpn9916) 
 
 [bahaiprayers.net 9916](https://bahaiprayers.net/Book/Single/90/9916)
 
@@ -322,7 +322,7 @@ Prayer bpn9916 in አማርኛ. (bpn9916)
 
 -- Bahá'u'lláh
 
-Prayer bpn9928 in አማርኛ. (bpn9928) 
+Prayer bpn9928 (bpn9928) 
 
 [bahaiprayers.net 9928](https://bahaiprayers.net/Book/Single/90/9928)
 
@@ -339,7 +339,7 @@ Prayer bpn9928 in አማርኛ. (bpn9928)
 
 -- Bahá'u'lláh
 
-Prayer bpn9929 in አማርኛ. (bpn9929) 
+Prayer bpn9929 (bpn9929) 
 
 [bahaiprayers.net 9929](https://bahaiprayers.net/Book/Single/90/9929)
 
@@ -356,7 +356,7 @@ Prayer bpn9929 in አማርኛ. (bpn9929)
 
 -- Bahá'u'lláh
 
-Prayer bpn9914 in አማርኛ. (bpn9914) 
+Prayer bpn9914 (bpn9914) 
 
 [bahaiprayers.net 9914](https://bahaiprayers.net/Book/Single/90/9914)
 
@@ -373,7 +373,7 @@ Prayer bpn9914 in አማርኛ. (bpn9914)
 
 -- Bahá'u'lláh
 
-Prayer bpn9936 in አማርኛ. (bpn9936) 
+Prayer bpn9936 (bpn9936) 
 
 [bahaiprayers.net 9936](https://bahaiprayers.net/Book/Single/90/9936)
 
@@ -390,7 +390,7 @@ Prayer bpn9936 in አማርኛ. (bpn9936)
 
 -- Bahá'u'lláh
 
-Prayer bpn9930 in አማርኛ. (bpn9930) 
+Prayer bpn9930 (bpn9930) 
 
 [bahaiprayers.net 9930](https://bahaiprayers.net/Book/Single/90/9930)
 
@@ -403,7 +403,7 @@ Prayer bpn9930 in አማርኛ. (bpn9930)
 
 -- Bahá'u'lláh
 
-Prayer bpn9931 in አማርኛ. (bpn9931) 
+Prayer bpn9931 (bpn9931) 
 
 [bahaiprayers.net 9931](https://bahaiprayers.net/Book/Single/90/9931)
 
@@ -420,7 +420,7 @@ Prayer bpn9931 in አማርኛ. (bpn9931)
 
 -- Bahá'u'lláh
 
-Prayer bpn9905 in አማርኛ. (bpn9905) 
+Prayer bpn9905 (bpn9905) 
 
 [bahaiprayers.net 9905](https://bahaiprayers.net/Book/Single/90/9905)
 
@@ -437,7 +437,7 @@ Prayer bpn9905 in አማርኛ. (bpn9905)
 
 -- Bahá'u'lláh
 
-Prayer bpn9937 in አማርኛ. (bpn9937) 
+Prayer bpn9937 (bpn9937) 
 
 [bahaiprayers.net 9937](https://bahaiprayers.net/Book/Single/90/9937)
 
@@ -454,7 +454,7 @@ Prayer bpn9937 in አማርኛ. (bpn9937)
 
 -- Bahá'u'lláh
 
-Prayer bpn9906 in አማርኛ. (bpn9906) 
+Prayer bpn9906 (bpn9906) 
 
 [bahaiprayers.net 9906](https://bahaiprayers.net/Book/Single/90/9906)
 
@@ -471,7 +471,7 @@ Prayer bpn9906 in አማርኛ. (bpn9906)
 
 -- Bahá'u'lláh
 
-Prayer bpn9932 in አማርኛ. (bpn9932) 
+Prayer bpn9932 (bpn9932) 
 
 [bahaiprayers.net 9932](https://bahaiprayers.net/Book/Single/90/9932)
 
@@ -488,7 +488,7 @@ Prayer bpn9932 in አማርኛ. (bpn9932)
 
 -- Bahá'u'lláh
 
-Prayer bpn9904 in አማርኛ. (bpn9904) 
+Prayer bpn9904 (bpn9904) 
 
 [bahaiprayers.net 9904](https://bahaiprayers.net/Book/Single/90/9904)
 
@@ -505,7 +505,7 @@ Prayer bpn9904 in አማርኛ. (bpn9904)
 
 -- Bahá'u'lláh
 
-Prayer bpn9918 in አማርኛ. (bpn9918) 
+Prayer bpn9918 (bpn9918) 
 
 [bahaiprayers.net 9918](https://bahaiprayers.net/Book/Single/90/9918)
 
@@ -522,7 +522,7 @@ Prayer bpn9918 in አማርኛ. (bpn9918)
 
 -- Bahá'u'lláh
 
-Prayer bpn9907 in አማርኛ. (bpn9907) 
+Prayer bpn9907 (bpn9907) 
 
 [bahaiprayers.net 9907](https://bahaiprayers.net/Book/Single/90/9907)
 
@@ -539,7 +539,7 @@ Prayer bpn9907 in አማርኛ. (bpn9907)
 
 -- Bahá'u'lláh
 
-Prayer bpn9908 in አማርኛ. (bpn9908) 
+Prayer bpn9908 (bpn9908) 
 
 [bahaiprayers.net 9908](https://bahaiprayers.net/Book/Single/90/9908)
 
@@ -556,7 +556,7 @@ Prayer bpn9908 in አማርኛ. (bpn9908)
 
 -- Bahá'u'lláh
 
-Prayer bpn9913 in አማርኛ. (bpn9913) 
+Prayer bpn9913 (bpn9913) 
 
 [bahaiprayers.net 9913](https://bahaiprayers.net/Book/Single/90/9913)
 
@@ -573,7 +573,7 @@ Prayer bpn9913 in አማርኛ. (bpn9913)
 
 -- Bahá'u'lláh
 
-Prayer bpn9939 in አማርኛ. (bpn9939) 
+Prayer bpn9939 (bpn9939) 
 
 [bahaiprayers.net 9939](https://bahaiprayers.net/Book/Single/90/9939)
 
@@ -590,7 +590,7 @@ Prayer bpn9939 in አማርኛ. (bpn9939)
 
 -- Bahá'u'lláh
 
-Prayer bpn9933 in አማርኛ. (bpn9933) 
+Prayer bpn9933 (bpn9933) 
 
 [bahaiprayers.net 9933](https://bahaiprayers.net/Book/Single/90/9933)
 
@@ -607,7 +607,7 @@ Prayer bpn9933 in አማርኛ. (bpn9933)
 
 -- Bahá'u'lláh
 
-Prayer bpn9920 in አማርኛ. (bpn9920) 
+Prayer bpn9920 (bpn9920) 
 
 [bahaiprayers.net 9920](https://bahaiprayers.net/Book/Single/90/9920)
 
@@ -620,7 +620,7 @@ Prayer bpn9920 in አማርኛ. (bpn9920)
 
 -- Bahá'u'lláh
 
-Prayer bpn9938 in አማርኛ. (bpn9938) 
+Prayer bpn9938 (bpn9938) 
 
 [bahaiprayers.net 9938](https://bahaiprayers.net/Book/Single/90/9938)
 
@@ -633,7 +633,7 @@ Prayer bpn9938 in አማርኛ. (bpn9938)
 
 -- Bahá'u'lláh
 
-Prayer bpn9941 in አማርኛ. (bpn9941) 
+Prayer bpn9941 (bpn9941) 
 
 [bahaiprayers.net 9941](https://bahaiprayers.net/Book/Single/90/9941)
 
@@ -650,7 +650,7 @@ Prayer bpn9941 in አማርኛ. (bpn9941)
 
 -- Bahá'u'lláh
 
-Prayer bpn9909 in አማርኛ. (bpn9909) 
+Prayer bpn9909 (bpn9909) 
 
 [bahaiprayers.net 9909](https://bahaiprayers.net/Book/Single/90/9909)
 
@@ -663,7 +663,7 @@ Prayer bpn9909 in አማርኛ. (bpn9909)
 
 -- Bahá'u'lláh
 
-Prayer bpn9934 in አማርኛ. (bpn9934) 
+Prayer bpn9934 (bpn9934) 
 
 [bahaiprayers.net 9934](https://bahaiprayers.net/Book/Single/90/9934)
 
@@ -680,7 +680,7 @@ Prayer bpn9934 in አማርኛ. (bpn9934)
 
 -- Bahá'u'lláh
 
-Prayer bpn9940 in አማርኛ. (bpn9940) 
+Prayer bpn9940 (bpn9940) 
 
 [bahaiprayers.net 9940](https://bahaiprayers.net/Book/Single/90/9940)
 
@@ -697,7 +697,7 @@ Prayer bpn9940 in አማርኛ. (bpn9940)
 
 -- Bahá'u'lláh
 
-Prayer bpn9935 in አማርኛ. (bpn9935) 
+Prayer bpn9935 (bpn9935) 
 
 [bahaiprayers.net 9935](https://bahaiprayers.net/Book/Single/90/9935)
 

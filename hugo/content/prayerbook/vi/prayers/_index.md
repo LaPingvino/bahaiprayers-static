@@ -116,7 +116,7 @@ tags = ['lang=vi', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn4977 in Tiếng Việt (bpn4977) 
+Prayer bpn4977 (bpn4977) 
 
 [bahaiprayers.net 4977](https://bahaiprayers.net/Book/Single/38/4977)
 
@@ -133,7 +133,7 @@ Prayer bpn4977 in Tiếng Việt (bpn4977)
 
 -- Bahá'u'lláh
 
-Prayer bpn4978 in Tiếng Việt (bpn4978) 
+Prayer bpn4978 (bpn4978) 
 
 [bahaiprayers.net 4978](https://bahaiprayers.net/Book/Single/38/4978)
 
@@ -146,7 +146,7 @@ Prayer bpn4978 in Tiếng Việt (bpn4978)
 
 -- Bahá'u'lláh
 
-Prayer bpn4979 in Tiếng Việt (bpn4979) 
+Prayer bpn4979 (bpn4979) 
 
 [bahaiprayers.net 4979](https://bahaiprayers.net/Book/Single/38/4979)
 
@@ -159,7 +159,7 @@ Prayer bpn4979 in Tiếng Việt (bpn4979)
 
 -- Bahá'u'lláh
 
-Prayer bpn4980 in Tiếng Việt (bpn4980) 
+Prayer bpn4980 (bpn4980) 
 
 [bahaiprayers.net 4980](https://bahaiprayers.net/Book/Single/38/4980)
 
@@ -172,7 +172,7 @@ Prayer bpn4980 in Tiếng Việt (bpn4980)
 
 -- Bahá'u'lláh
 
-Prayer bpn4981 in Tiếng Việt (bpn4981) 
+Prayer bpn4981 (bpn4981) 
 
 [bahaiprayers.net 4981](https://bahaiprayers.net/Book/Single/38/4981)
 
@@ -185,7 +185,7 @@ Prayer bpn4981 in Tiếng Việt (bpn4981)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4982 in Tiếng Việt (bpn4982) 
+Prayer bpn4982 (bpn4982) 
 
 [bahaiprayers.net 4982](https://bahaiprayers.net/Book/Single/38/4982)
 
@@ -202,7 +202,7 @@ Prayer bpn4982 in Tiếng Việt (bpn4982)
 
 -- Bahá'u'lláh
 
-Prayer bpn4983 in Tiếng Việt (bpn4983) 
+Prayer bpn4983 (bpn4983) 
 
 [bahaiprayers.net 4983](https://bahaiprayers.net/Book/Single/38/4983)
 
@@ -215,7 +215,7 @@ Prayer bpn4983 in Tiếng Việt (bpn4983)
 
 -- Bahá'u'lláh
 
-Prayer bpn4984 in Tiếng Việt (bpn4984) 
+Prayer bpn4984 (bpn4984) 
 
 [bahaiprayers.net 4984](https://bahaiprayers.net/Book/Single/38/4984)
 
@@ -232,7 +232,7 @@ Prayer bpn4984 in Tiếng Việt (bpn4984)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4985 in Tiếng Việt (bpn4985) 
+Prayer bpn4985 (bpn4985) 
 
 [bahaiprayers.net 4985](https://bahaiprayers.net/Book/Single/38/4985)
 
@@ -249,7 +249,7 @@ Prayer bpn4985 in Tiếng Việt (bpn4985)
 
 -- Bahá'u'lláh
 
-Prayer bpn4988 in Tiếng Việt (bpn4988) 
+Prayer bpn4988 (bpn4988) 
 
 [bahaiprayers.net 4988](https://bahaiprayers.net/Book/Single/38/4988)
 
@@ -262,7 +262,7 @@ Prayer bpn4988 in Tiếng Việt (bpn4988)
 
 -- Báb
 
-Prayer bpn4987 in Tiếng Việt (bpn4987) 
+Prayer bpn4987 (bpn4987) 
 
 [bahaiprayers.net 4987](https://bahaiprayers.net/Book/Single/38/4987)
 
@@ -275,7 +275,7 @@ Prayer bpn4987 in Tiếng Việt (bpn4987)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4989 in Tiếng Việt (bpn4989) 
+Prayer bpn4989 (bpn4989) 
 
 [bahaiprayers.net 4989](https://bahaiprayers.net/Book/Single/38/4989)
 
@@ -292,7 +292,7 @@ Prayer bpn4989 in Tiếng Việt (bpn4989)
 
 -- Bahá'u'lláh
 
-Prayer bpn4990 in Tiếng Việt (bpn4990) 
+Prayer bpn4990 (bpn4990) 
 
 [bahaiprayers.net 4990](https://bahaiprayers.net/Book/Single/38/4990)
 
@@ -305,7 +305,7 @@ Prayer bpn4990 in Tiếng Việt (bpn4990)
 
 -- Bahá'u'lláh
 
-Prayer bpn4991 in Tiếng Việt (bpn4991) 
+Prayer bpn4991 (bpn4991) 
 
 [bahaiprayers.net 4991](https://bahaiprayers.net/Book/Single/38/4991)
 
@@ -318,7 +318,7 @@ Prayer bpn4991 in Tiếng Việt (bpn4991)
 
 -- Bahá'u'lláh
 
-Prayer bpn4992 in Tiếng Việt (bpn4992) 
+Prayer bpn4992 (bpn4992) 
 
 [bahaiprayers.net 4992](https://bahaiprayers.net/Book/Single/38/4992)
 
@@ -331,7 +331,7 @@ Prayer bpn4992 in Tiếng Việt (bpn4992)
 
 -- Bahá'u'lláh
 
-Prayer bpn4993 in Tiếng Việt (bpn4993) 
+Prayer bpn4993 (bpn4993) 
 
 [bahaiprayers.net 4993](https://bahaiprayers.net/Book/Single/38/4993)
 
@@ -348,7 +348,7 @@ Prayer bpn4993 in Tiếng Việt (bpn4993)
 
 -- Bahá'u'lláh
 
-Prayer bpn4994 in Tiếng Việt (bpn4994) 
+Prayer bpn4994 (bpn4994) 
 
 [bahaiprayers.net 4994](https://bahaiprayers.net/Book/Single/38/4994)
 
@@ -361,7 +361,7 @@ Prayer bpn4994 in Tiếng Việt (bpn4994)
 
 -- Bahá'u'lláh
 
-Prayer bpn4995 in Tiếng Việt (bpn4995) 
+Prayer bpn4995 (bpn4995) 
 
 [bahaiprayers.net 4995](https://bahaiprayers.net/Book/Single/38/4995)
 
@@ -374,7 +374,7 @@ Prayer bpn4995 in Tiếng Việt (bpn4995)
 
 -- Bahá'u'lláh
 
-Prayer bpn4996 in Tiếng Việt (bpn4996) 
+Prayer bpn4996 (bpn4996) 
 
 [bahaiprayers.net 4996](https://bahaiprayers.net/Book/Single/38/4996)
 
@@ -387,7 +387,7 @@ Prayer bpn4996 in Tiếng Việt (bpn4996)
 
 -- Bahá'u'lláh
 
-Prayer bpn4997 in Tiếng Việt (bpn4997) 
+Prayer bpn4997 (bpn4997) 
 
 [bahaiprayers.net 4997](https://bahaiprayers.net/Book/Single/38/4997)
 
@@ -404,7 +404,7 @@ Prayer bpn4997 in Tiếng Việt (bpn4997)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4999 in Tiếng Việt (bpn4999) 
+Prayer bpn4999 (bpn4999) 
 
 [bahaiprayers.net 4999](https://bahaiprayers.net/Book/Single/38/4999)
 
@@ -421,7 +421,7 @@ Prayer bpn4999 in Tiếng Việt (bpn4999)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4986 in Tiếng Việt (bpn4986) 
+Prayer bpn4986 (bpn4986) 
 
 [bahaiprayers.net 4986](https://bahaiprayers.net/Book/Single/38/4986)
 
@@ -438,7 +438,7 @@ Prayer bpn4986 in Tiếng Việt (bpn4986)
 
 -- Bahá'u'lláh
 
-Prayer bpn5000 in Tiếng Việt (bpn5000) 
+Prayer bpn5000 (bpn5000) 
 
 [bahaiprayers.net 5000](https://bahaiprayers.net/Book/Single/38/5000)
 
@@ -451,7 +451,7 @@ Prayer bpn5000 in Tiếng Việt (bpn5000)
 
 -- Bahá'u'lláh
 
-Prayer bpn5001 in Tiếng Việt (bpn5001) 
+Prayer bpn5001 (bpn5001) 
 
 [bahaiprayers.net 5001](https://bahaiprayers.net/Book/Single/38/5001)
 
@@ -464,7 +464,7 @@ Prayer bpn5001 in Tiếng Việt (bpn5001)
 
 -- Bahá'u'lláh
 
-Prayer bpn5002 in Tiếng Việt (bpn5002) 
+Prayer bpn5002 (bpn5002) 
 
 [bahaiprayers.net 5002](https://bahaiprayers.net/Book/Single/38/5002)
 
@@ -481,7 +481,7 @@ Prayer bpn5002 in Tiếng Việt (bpn5002)
 
 -- Bahá'u'lláh
 
-Prayer bpn4976 in Tiếng Việt (bpn4976) 
+Prayer bpn4976 (bpn4976) 
 
 [bahaiprayers.net 4976](https://bahaiprayers.net/Book/Single/38/4976)
 
@@ -498,7 +498,7 @@ Prayer bpn4976 in Tiếng Việt (bpn4976)
 
 -- Bahá'u'lláh
 
-Prayer bpn4975 in Tiếng Việt (bpn4975) 
+Prayer bpn4975 (bpn4975) 
 
 [bahaiprayers.net 4975](https://bahaiprayers.net/Book/Single/38/4975)
 
@@ -515,7 +515,7 @@ Prayer bpn4975 in Tiếng Việt (bpn4975)
 
 -- Bahá'u'lláh
 
-Prayer bpn5004 in Tiếng Việt (bpn5004) 
+Prayer bpn5004 (bpn5004) 
 
 [bahaiprayers.net 5004](https://bahaiprayers.net/Book/Single/38/5004)
 
@@ -532,7 +532,7 @@ Prayer bpn5004 in Tiếng Việt (bpn5004)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5003 in Tiếng Việt (bpn5003) 
+Prayer bpn5003 (bpn5003) 
 
 [bahaiprayers.net 5003](https://bahaiprayers.net/Book/Single/38/5003)
 
@@ -549,7 +549,7 @@ Prayer bpn5003 in Tiếng Việt (bpn5003)
 
 -- Bahá'u'lláh
 
-Prayer bpn5005 in Tiếng Việt (bpn5005) 
+Prayer bpn5005 (bpn5005) 
 
 [bahaiprayers.net 5005](https://bahaiprayers.net/Book/Single/38/5005)
 
@@ -566,7 +566,7 @@ Prayer bpn5005 in Tiếng Việt (bpn5005)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5012 in Tiếng Việt (bpn5012) 
+Prayer bpn5012 (bpn5012) 
 
 [bahaiprayers.net 5012](https://bahaiprayers.net/Book/Single/38/5012)
 
@@ -583,7 +583,7 @@ Prayer bpn5012 in Tiếng Việt (bpn5012)
 
 -- Báb
 
-Prayer bpn5013 in Tiếng Việt (bpn5013) 
+Prayer bpn5013 (bpn5013) 
 
 [bahaiprayers.net 5013](https://bahaiprayers.net/Book/Single/38/5013)
 
@@ -600,7 +600,7 @@ Prayer bpn5013 in Tiếng Việt (bpn5013)
 
 -- Bahá'u'lláh
 
-Prayer bpn5018 in Tiếng Việt (bpn5018) 
+Prayer bpn5018 (bpn5018) 
 
 [bahaiprayers.net 5018](https://bahaiprayers.net/Book/Single/38/5018)
 
@@ -613,7 +613,7 @@ Prayer bpn5018 in Tiếng Việt (bpn5018)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5019 in Tiếng Việt (bpn5019) 
+Prayer bpn5019 (bpn5019) 
 
 [bahaiprayers.net 5019](https://bahaiprayers.net/Book/Single/38/5019)
 
@@ -630,7 +630,7 @@ Prayer bpn5019 in Tiếng Việt (bpn5019)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5014 in Tiếng Việt (bpn5014) 
+Prayer bpn5014 (bpn5014) 
 
 [bahaiprayers.net 5014](https://bahaiprayers.net/Book/Single/38/5014)
 
@@ -647,7 +647,7 @@ Prayer bpn5014 in Tiếng Việt (bpn5014)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5015 in Tiếng Việt (bpn5015) 
+Prayer bpn5015 (bpn5015) 
 
 [bahaiprayers.net 5015](https://bahaiprayers.net/Book/Single/38/5015)
 
@@ -660,7 +660,7 @@ Prayer bpn5015 in Tiếng Việt (bpn5015)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5016 in Tiếng Việt (bpn5016) 
+Prayer bpn5016 (bpn5016) 
 
 [bahaiprayers.net 5016](https://bahaiprayers.net/Book/Single/38/5016)
 
@@ -673,7 +673,7 @@ Prayer bpn5016 in Tiếng Việt (bpn5016)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5017 in Tiếng Việt (bpn5017) 
+Prayer bpn5017 (bpn5017) 
 
 [bahaiprayers.net 5017](https://bahaiprayers.net/Book/Single/38/5017)
 
@@ -690,7 +690,7 @@ Prayer bpn5017 in Tiếng Việt (bpn5017)
 
 -- Bahá'u'lláh
 
-Prayer bpn5024 in Tiếng Việt (bpn5024) 
+Prayer bpn5024 (bpn5024) 
 
 [bahaiprayers.net 5024](https://bahaiprayers.net/Book/Single/38/5024)
 
@@ -707,7 +707,7 @@ Prayer bpn5024 in Tiếng Việt (bpn5024)
 
 -- Bahá'u'lláh
 
-Prayer bpn5025 in Tiếng Việt (bpn5025) 
+Prayer bpn5025 (bpn5025) 
 
 [bahaiprayers.net 5025](https://bahaiprayers.net/Book/Single/38/5025)
 
@@ -724,7 +724,7 @@ Prayer bpn5025 in Tiếng Việt (bpn5025)
 
 -- Bahá'u'lláh
 
-Prayer bpn5026 in Tiếng Việt (bpn5026) 
+Prayer bpn5026 (bpn5026) 
 
 [bahaiprayers.net 5026](https://bahaiprayers.net/Book/Single/38/5026)
 
@@ -741,7 +741,7 @@ Prayer bpn5026 in Tiếng Việt (bpn5026)
 
 -- Bahá'u'lláh
 
-Prayer bpn5020 in Tiếng Việt (bpn5020) 
+Prayer bpn5020 (bpn5020) 
 
 [bahaiprayers.net 5020](https://bahaiprayers.net/Book/Single/38/5020)
 
@@ -754,7 +754,7 @@ Prayer bpn5020 in Tiếng Việt (bpn5020)
 
 -- Bahá'u'lláh
 
-Prayer bpn5021 in Tiếng Việt (bpn5021) 
+Prayer bpn5021 (bpn5021) 
 
 [bahaiprayers.net 5021](https://bahaiprayers.net/Book/Single/38/5021)
 
@@ -767,7 +767,7 @@ Prayer bpn5021 in Tiếng Việt (bpn5021)
 
 -- Bahá'u'lláh
 
-Prayer bpn5022 in Tiếng Việt (bpn5022) 
+Prayer bpn5022 (bpn5022) 
 
 [bahaiprayers.net 5022](https://bahaiprayers.net/Book/Single/38/5022)
 
@@ -780,7 +780,7 @@ Prayer bpn5022 in Tiếng Việt (bpn5022)
 
 -- Bahá'u'lláh
 
-Prayer bpn5023 in Tiếng Việt (bpn5023) 
+Prayer bpn5023 (bpn5023) 
 
 [bahaiprayers.net 5023](https://bahaiprayers.net/Book/Single/38/5023)
 
@@ -797,7 +797,7 @@ Prayer bpn5023 in Tiếng Việt (bpn5023)
 
 -- Bahá'u'lláh
 
-Prayer bpn5027 in Tiếng Việt (bpn5027) 
+Prayer bpn5027 (bpn5027) 
 
 [bahaiprayers.net 5027](https://bahaiprayers.net/Book/Single/38/5027)
 
@@ -814,7 +814,7 @@ Prayer bpn5027 in Tiếng Việt (bpn5027)
 
 -- Bahá'u'lláh
 
-Prayer bpn5028 in Tiếng Việt (bpn5028) 
+Prayer bpn5028 (bpn5028) 
 
 [bahaiprayers.net 5028](https://bahaiprayers.net/Book/Single/38/5028)
 
@@ -831,7 +831,7 @@ Prayer bpn5028 in Tiếng Việt (bpn5028)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5029 in Tiếng Việt (bpn5029) 
+Prayer bpn5029 (bpn5029) 
 
 [bahaiprayers.net 5029](https://bahaiprayers.net/Book/Single/38/5029)
 
@@ -848,7 +848,7 @@ Prayer bpn5029 in Tiếng Việt (bpn5029)
 
 -- Bahá'u'lláh
 
-Prayer bpn5030 in Tiếng Việt (bpn5030) 
+Prayer bpn5030 (bpn5030) 
 
 [bahaiprayers.net 5030](https://bahaiprayers.net/Book/Single/38/5030)
 
@@ -865,7 +865,7 @@ Prayer bpn5030 in Tiếng Việt (bpn5030)
 
 -- Bahá'u'lláh
 
-Prayer bpn4974 in Tiếng Việt (bpn4974) 
+Prayer bpn4974 (bpn4974) 
 
 [bahaiprayers.net 4974](https://bahaiprayers.net/Book/Single/38/4974)
 
@@ -882,7 +882,7 @@ Prayer bpn4974 in Tiếng Việt (bpn4974)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5031 in Tiếng Việt (bpn5031) 
+Prayer bpn5031 (bpn5031) 
 
 [bahaiprayers.net 5031](https://bahaiprayers.net/Book/Single/38/5031)
 
@@ -899,7 +899,7 @@ Prayer bpn5031 in Tiếng Việt (bpn5031)
 
 -- Bahá'u'lláh
 
-Prayer bpn5032 in Tiếng Việt (bpn5032) 
+Prayer bpn5032 (bpn5032) 
 
 [bahaiprayers.net 5032](https://bahaiprayers.net/Book/Single/38/5032)
 
@@ -916,7 +916,7 @@ Prayer bpn5032 in Tiếng Việt (bpn5032)
 
 -- Bahá'u'lláh
 
-Prayer bpn5033 in Tiếng Việt (bpn5033) 
+Prayer bpn5033 (bpn5033) 
 
 [bahaiprayers.net 5033](https://bahaiprayers.net/Book/Single/38/5033)
 
@@ -929,7 +929,7 @@ Prayer bpn5033 in Tiếng Việt (bpn5033)
 
 -- Bahá'u'lláh
 
-Prayer bpn5034 in Tiếng Việt (bpn5034) 
+Prayer bpn5034 (bpn5034) 
 
 [bahaiprayers.net 5034](https://bahaiprayers.net/Book/Single/38/5034)
 
@@ -942,7 +942,7 @@ Prayer bpn5034 in Tiếng Việt (bpn5034)
 
 -- Bahá'u'lláh
 
-Prayer bpn5035 in Tiếng Việt (bpn5035) 
+Prayer bpn5035 (bpn5035) 
 
 [bahaiprayers.net 5035](https://bahaiprayers.net/Book/Single/38/5035)
 
@@ -955,7 +955,7 @@ Prayer bpn5035 in Tiếng Việt (bpn5035)
 
 -- Bahá'u'lláh
 
-Prayer bpn5036 in Tiếng Việt (bpn5036) 
+Prayer bpn5036 (bpn5036) 
 
 [bahaiprayers.net 5036](https://bahaiprayers.net/Book/Single/38/5036)
 
@@ -968,7 +968,7 @@ Prayer bpn5036 in Tiếng Việt (bpn5036)
 
 -- Bahá'u'lláh
 
-Prayer bpn5037 in Tiếng Việt (bpn5037) 
+Prayer bpn5037 (bpn5037) 
 
 [bahaiprayers.net 5037](https://bahaiprayers.net/Book/Single/38/5037)
 
@@ -981,7 +981,7 @@ Prayer bpn5037 in Tiếng Việt (bpn5037)
 
 -- Bahá'u'lláh
 
-Prayer bpn5038 in Tiếng Việt (bpn5038) 
+Prayer bpn5038 (bpn5038) 
 
 [bahaiprayers.net 5038](https://bahaiprayers.net/Book/Single/38/5038)
 
@@ -994,7 +994,7 @@ Prayer bpn5038 in Tiếng Việt (bpn5038)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5039 in Tiếng Việt (bpn5039) 
+Prayer bpn5039 (bpn5039) 
 
 [bahaiprayers.net 5039](https://bahaiprayers.net/Book/Single/38/5039)
 
@@ -1011,7 +1011,7 @@ Prayer bpn5039 in Tiếng Việt (bpn5039)
 
 -- Bahá'u'lláh
 
-Prayer bpn5040 in Tiếng Việt (bpn5040) 
+Prayer bpn5040 (bpn5040) 
 
 [bahaiprayers.net 5040](https://bahaiprayers.net/Book/Single/38/5040)
 
@@ -1028,7 +1028,7 @@ Prayer bpn5040 in Tiếng Việt (bpn5040)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5041 in Tiếng Việt (bpn5041) 
+Prayer bpn5041 (bpn5041) 
 
 [bahaiprayers.net 5041](https://bahaiprayers.net/Book/Single/38/5041)
 
@@ -1045,7 +1045,7 @@ Prayer bpn5041 in Tiếng Việt (bpn5041)
 
 -- Bahá'u'lláh
 
-Prayer bpn5042 in Tiếng Việt (bpn5042) 
+Prayer bpn5042 (bpn5042) 
 
 [bahaiprayers.net 5042](https://bahaiprayers.net/Book/Single/38/5042)
 
@@ -1062,7 +1062,7 @@ Prayer bpn5042 in Tiếng Việt (bpn5042)
 
 -- Bahá'u'lláh
 
-Prayer bpn10469 in Tiếng Việt (bpn10469) 
+Prayer bpn10469 (bpn10469) 
 
 [bahaiprayers.net 10469](https://bahaiprayers.net/Book/Single/38/10469)
 
@@ -1079,7 +1079,7 @@ Prayer bpn10469 in Tiếng Việt (bpn10469)
 
 -- Bahá'u'lláh
 
-Prayer bpn10468 in Tiếng Việt (bpn10468) 
+Prayer bpn10468 (bpn10468) 
 
 [bahaiprayers.net 10468](https://bahaiprayers.net/Book/Single/38/10468)
 
@@ -1096,7 +1096,7 @@ Prayer bpn10468 in Tiếng Việt (bpn10468)
 
 -- Bahá'u'lláh
 
-Prayer bpn5046 in Tiếng Việt (bpn5046) 
+Prayer bpn5046 (bpn5046) 
 
 [bahaiprayers.net 5046](https://bahaiprayers.net/Book/Single/38/5046)
 
@@ -1109,7 +1109,7 @@ Prayer bpn5046 in Tiếng Việt (bpn5046)
 
 -- Bahá'u'lláh
 
-Prayer bpn5047 in Tiếng Việt (bpn5047) 
+Prayer bpn5047 (bpn5047) 
 
 [bahaiprayers.net 5047](https://bahaiprayers.net/Book/Single/38/5047)
 
@@ -1122,7 +1122,7 @@ Prayer bpn5047 in Tiếng Việt (bpn5047)
 
 -- Bahá'u'lláh
 
-Prayer bpn5048 in Tiếng Việt (bpn5048) 
+Prayer bpn5048 (bpn5048) 
 
 [bahaiprayers.net 5048](https://bahaiprayers.net/Book/Single/38/5048)
 
@@ -1135,7 +1135,7 @@ Prayer bpn5048 in Tiếng Việt (bpn5048)
 
 -- Bahá'u'lláh
 
-Prayer bpn5049 in Tiếng Việt (bpn5049) 
+Prayer bpn5049 (bpn5049) 
 
 [bahaiprayers.net 5049](https://bahaiprayers.net/Book/Single/38/5049)
 
@@ -1148,7 +1148,7 @@ Prayer bpn5049 in Tiếng Việt (bpn5049)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5050 in Tiếng Việt (bpn5050) 
+Prayer bpn5050 (bpn5050) 
 
 [bahaiprayers.net 5050](https://bahaiprayers.net/Book/Single/38/5050)
 
@@ -1165,7 +1165,7 @@ Prayer bpn5050 in Tiếng Việt (bpn5050)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5051 in Tiếng Việt (bpn5051) 
+Prayer bpn5051 (bpn5051) 
 
 [bahaiprayers.net 5051](https://bahaiprayers.net/Book/Single/38/5051)
 
@@ -1182,7 +1182,7 @@ Prayer bpn5051 in Tiếng Việt (bpn5051)
 
 -- Bahá'u'lláh
 
-Prayer bpn5052 in Tiếng Việt (bpn5052) 
+Prayer bpn5052 (bpn5052) 
 
 [bahaiprayers.net 5052](https://bahaiprayers.net/Book/Single/38/5052)
 
@@ -1195,7 +1195,7 @@ Prayer bpn5052 in Tiếng Việt (bpn5052)
 
 -- Bahá'u'lláh
 
-Prayer bpn5053 in Tiếng Việt (bpn5053) 
+Prayer bpn5053 (bpn5053) 
 
 [bahaiprayers.net 5053](https://bahaiprayers.net/Book/Single/38/5053)
 
@@ -1208,7 +1208,7 @@ Prayer bpn5053 in Tiếng Việt (bpn5053)
 
 -- Bahá'u'lláh
 
-Prayer bpn5054 in Tiếng Việt (bpn5054) 
+Prayer bpn5054 (bpn5054) 
 
 [bahaiprayers.net 5054](https://bahaiprayers.net/Book/Single/38/5054)
 
@@ -1221,7 +1221,7 @@ Prayer bpn5054 in Tiếng Việt (bpn5054)
 
 -- Bahá'u'lláh
 
-Prayer bpn5055 in Tiếng Việt (bpn5055) 
+Prayer bpn5055 (bpn5055) 
 
 [bahaiprayers.net 5055](https://bahaiprayers.net/Book/Single/38/5055)
 
@@ -1234,7 +1234,7 @@ Prayer bpn5055 in Tiếng Việt (bpn5055)
 
 -- Bahá'u'lláh
 
-Prayer bpn5056 in Tiếng Việt (bpn5056) 
+Prayer bpn5056 (bpn5056) 
 
 [bahaiprayers.net 5056](https://bahaiprayers.net/Book/Single/38/5056)
 
@@ -1251,7 +1251,7 @@ Prayer bpn5056 in Tiếng Việt (bpn5056)
 
 -- Bahá'u'lláh
 
-Prayer bpn5057 in Tiếng Việt (bpn5057) 
+Prayer bpn5057 (bpn5057) 
 
 [bahaiprayers.net 5057](https://bahaiprayers.net/Book/Single/38/5057)
 
@@ -1264,7 +1264,7 @@ Prayer bpn5057 in Tiếng Việt (bpn5057)
 
 -- Bahá'u'lláh
 
-Prayer bpn5058 in Tiếng Việt (bpn5058) 
+Prayer bpn5058 (bpn5058) 
 
 [bahaiprayers.net 5058](https://bahaiprayers.net/Book/Single/38/5058)
 
@@ -1277,7 +1277,7 @@ Prayer bpn5058 in Tiếng Việt (bpn5058)
 
 -- Bahá'u'lláh
 
-Prayer bpn5059 in Tiếng Việt (bpn5059) 
+Prayer bpn5059 (bpn5059) 
 
 [bahaiprayers.net 5059](https://bahaiprayers.net/Book/Single/38/5059)
 
@@ -1290,7 +1290,7 @@ Prayer bpn5059 in Tiếng Việt (bpn5059)
 
 -- Bahá'u'lláh
 
-Prayer bpn5060 in Tiếng Việt (bpn5060) 
+Prayer bpn5060 (bpn5060) 
 
 [bahaiprayers.net 5060](https://bahaiprayers.net/Book/Single/38/5060)
 
@@ -1303,7 +1303,7 @@ Prayer bpn5060 in Tiếng Việt (bpn5060)
 
 -- Bahá'u'lláh
 
-Prayer bpn5061 in Tiếng Việt (bpn5061) 
+Prayer bpn5061 (bpn5061) 
 
 [bahaiprayers.net 5061](https://bahaiprayers.net/Book/Single/38/5061)
 
@@ -1316,7 +1316,7 @@ Prayer bpn5061 in Tiếng Việt (bpn5061)
 
 -- Bahá'u'lláh
 
-Prayer bpn5062 in Tiếng Việt (bpn5062) 
+Prayer bpn5062 (bpn5062) 
 
 [bahaiprayers.net 5062](https://bahaiprayers.net/Book/Single/38/5062)
 
@@ -1329,7 +1329,7 @@ Prayer bpn5062 in Tiếng Việt (bpn5062)
 
 -- Bahá'u'lláh
 
-Prayer bpn5063 in Tiếng Việt (bpn5063) 
+Prayer bpn5063 (bpn5063) 
 
 [bahaiprayers.net 5063](https://bahaiprayers.net/Book/Single/38/5063)
 
@@ -1342,7 +1342,7 @@ Prayer bpn5063 in Tiếng Việt (bpn5063)
 
 -- Bahá'u'lláh
 
-Prayer bpn5064 in Tiếng Việt (bpn5064) 
+Prayer bpn5064 (bpn5064) 
 
 [bahaiprayers.net 5064](https://bahaiprayers.net/Book/Single/38/5064)
 
@@ -1355,7 +1355,7 @@ Prayer bpn5064 in Tiếng Việt (bpn5064)
 
 -- Bahá'u'lláh
 
-Prayer bpn5065 in Tiếng Việt (bpn5065) 
+Prayer bpn5065 (bpn5065) 
 
 [bahaiprayers.net 5065](https://bahaiprayers.net/Book/Single/38/5065)
 
@@ -1368,7 +1368,7 @@ Prayer bpn5065 in Tiếng Việt (bpn5065)
 
 -- Bahá'u'lláh
 
-Prayer bpn5066 in Tiếng Việt (bpn5066) 
+Prayer bpn5066 (bpn5066) 
 
 [bahaiprayers.net 5066](https://bahaiprayers.net/Book/Single/38/5066)
 
@@ -1381,7 +1381,7 @@ Prayer bpn5066 in Tiếng Việt (bpn5066)
 
 -- Bahá'u'lláh
 
-Prayer bpn5067 in Tiếng Việt (bpn5067) 
+Prayer bpn5067 (bpn5067) 
 
 [bahaiprayers.net 5067](https://bahaiprayers.net/Book/Single/38/5067)
 
@@ -1394,7 +1394,7 @@ Prayer bpn5067 in Tiếng Việt (bpn5067)
 
 -- Bahá'u'lláh
 
-Prayer bpn5068 in Tiếng Việt (bpn5068) 
+Prayer bpn5068 (bpn5068) 
 
 [bahaiprayers.net 5068](https://bahaiprayers.net/Book/Single/38/5068)
 
@@ -1411,7 +1411,7 @@ Prayer bpn5068 in Tiếng Việt (bpn5068)
 
 -- Bahá'u'lláh
 
-Prayer bpn5069 in Tiếng Việt (bpn5069) 
+Prayer bpn5069 (bpn5069) 
 
 [bahaiprayers.net 5069](https://bahaiprayers.net/Book/Single/38/5069)
 
@@ -1428,7 +1428,7 @@ Prayer bpn5069 in Tiếng Việt (bpn5069)
 
 -- Bahá'u'lláh
 
-Prayer bpn5075 in Tiếng Việt (bpn5075) 
+Prayer bpn5075 (bpn5075) 
 
 [bahaiprayers.net 5075](https://bahaiprayers.net/Book/Single/38/5075)
 
@@ -1441,7 +1441,7 @@ Prayer bpn5075 in Tiếng Việt (bpn5075)
 
 -- Bahá'u'lláh
 
-Prayer bpn5076 in Tiếng Việt (bpn5076) 
+Prayer bpn5076 (bpn5076) 
 
 [bahaiprayers.net 5076](https://bahaiprayers.net/Book/Single/38/5076)
 
@@ -1458,7 +1458,7 @@ Prayer bpn5076 in Tiếng Việt (bpn5076)
 
 -- Bahá'u'lláh
 
-Prayer bpn5077 in Tiếng Việt (bpn5077) 
+Prayer bpn5077 (bpn5077) 
 
 [bahaiprayers.net 5077](https://bahaiprayers.net/Book/Single/38/5077)
 
@@ -1471,7 +1471,7 @@ Prayer bpn5077 in Tiếng Việt (bpn5077)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5078 in Tiếng Việt (bpn5078) 
+Prayer bpn5078 (bpn5078) 
 
 [bahaiprayers.net 5078](https://bahaiprayers.net/Book/Single/38/5078)
 
@@ -1488,7 +1488,7 @@ Prayer bpn5078 in Tiếng Việt (bpn5078)
 
 -- Bahá'u'lláh
 
-Prayer bpn5079 in Tiếng Việt (bpn5079) 
+Prayer bpn5079 (bpn5079) 
 
 [bahaiprayers.net 5079](https://bahaiprayers.net/Book/Single/38/5079)
 
@@ -1501,7 +1501,7 @@ Prayer bpn5079 in Tiếng Việt (bpn5079)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5080 in Tiếng Việt (bpn5080) 
+Prayer bpn5080 (bpn5080) 
 
 [bahaiprayers.net 5080](https://bahaiprayers.net/Book/Single/38/5080)
 
@@ -1518,7 +1518,7 @@ Prayer bpn5080 in Tiếng Việt (bpn5080)
 
 -- Bahá'u'lláh
 
-Prayer bpn5074 in Tiếng Việt (bpn5074) 
+Prayer bpn5074 (bpn5074) 
 
 [bahaiprayers.net 5074](https://bahaiprayers.net/Book/Single/38/5074)
 
@@ -1531,7 +1531,7 @@ Prayer bpn5074 in Tiếng Việt (bpn5074)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5070 in Tiếng Việt (bpn5070) 
+Prayer bpn5070 (bpn5070) 
 
 [bahaiprayers.net 5070](https://bahaiprayers.net/Book/Single/38/5070)
 
@@ -1544,7 +1544,7 @@ Prayer bpn5070 in Tiếng Việt (bpn5070)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5071 in Tiếng Việt (bpn5071) 
+Prayer bpn5071 (bpn5071) 
 
 [bahaiprayers.net 5071](https://bahaiprayers.net/Book/Single/38/5071)
 
@@ -1557,7 +1557,7 @@ Prayer bpn5071 in Tiếng Việt (bpn5071)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5072 in Tiếng Việt (bpn5072) 
+Prayer bpn5072 (bpn5072) 
 
 [bahaiprayers.net 5072](https://bahaiprayers.net/Book/Single/38/5072)
 
@@ -1570,7 +1570,7 @@ Prayer bpn5072 in Tiếng Việt (bpn5072)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5073 in Tiếng Việt (bpn5073) 
+Prayer bpn5073 (bpn5073) 
 
 [bahaiprayers.net 5073](https://bahaiprayers.net/Book/Single/38/5073)
 
@@ -1587,7 +1587,7 @@ Prayer bpn5073 in Tiếng Việt (bpn5073)
 
 -- Bahá'u'lláh
 
-Prayer bpn5043 in Tiếng Việt (bpn5043) 
+Prayer bpn5043 (bpn5043) 
 
 [bahaiprayers.net 5043](https://bahaiprayers.net/Book/Single/38/5043)
 
@@ -1600,7 +1600,7 @@ Prayer bpn5043 in Tiếng Việt (bpn5043)
 
 -- Bahá'u'lláh
 
-Prayer bpn5044 in Tiếng Việt (bpn5044) 
+Prayer bpn5044 (bpn5044) 
 
 [bahaiprayers.net 5044](https://bahaiprayers.net/Book/Single/38/5044)
 
@@ -1613,7 +1613,7 @@ Prayer bpn5044 in Tiếng Việt (bpn5044)
 
 -- Bahá'u'lláh
 
-Prayer bpn5045 in Tiếng Việt (bpn5045) 
+Prayer bpn5045 (bpn5045) 
 
 [bahaiprayers.net 5045](https://bahaiprayers.net/Book/Single/38/5045)
 
@@ -1630,7 +1630,7 @@ Prayer bpn5045 in Tiếng Việt (bpn5045)
 
 -- Bahá'u'lláh
 
-Prayer bpn5081 in Tiếng Việt (bpn5081) 
+Prayer bpn5081 (bpn5081) 
 
 [bahaiprayers.net 5081](https://bahaiprayers.net/Book/Single/38/5081)
 
@@ -1647,7 +1647,7 @@ Prayer bpn5081 in Tiếng Việt (bpn5081)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5006 in Tiếng Việt (bpn5006) 
+Prayer bpn5006 (bpn5006) 
 
 [bahaiprayers.net 5006](https://bahaiprayers.net/Book/Single/38/5006)
 
@@ -1664,7 +1664,7 @@ Prayer bpn5006 in Tiếng Việt (bpn5006)
 
 -- Bahá'u'lláh
 
-Prayer bpn5007 in Tiếng Việt (bpn5007) 
+Prayer bpn5007 (bpn5007) 
 
 [bahaiprayers.net 5007](https://bahaiprayers.net/Book/Single/38/5007)
 
@@ -1677,7 +1677,7 @@ Prayer bpn5007 in Tiếng Việt (bpn5007)
 
 -- Bahá'u'lláh
 
-Prayer bpn5008 in Tiếng Việt (bpn5008) 
+Prayer bpn5008 (bpn5008) 
 
 [bahaiprayers.net 5008](https://bahaiprayers.net/Book/Single/38/5008)
 
@@ -1690,7 +1690,7 @@ Prayer bpn5008 in Tiếng Việt (bpn5008)
 
 -- Bahá'u'lláh
 
-Prayer bpn5009 in Tiếng Việt (bpn5009) 
+Prayer bpn5009 (bpn5009) 
 
 [bahaiprayers.net 5009](https://bahaiprayers.net/Book/Single/38/5009)
 
@@ -1703,7 +1703,7 @@ Prayer bpn5009 in Tiếng Việt (bpn5009)
 
 -- Bahá'u'lláh
 
-Prayer bpn5010 in Tiếng Việt (bpn5010) 
+Prayer bpn5010 (bpn5010) 
 
 [bahaiprayers.net 5010](https://bahaiprayers.net/Book/Single/38/5010)
 
@@ -1716,7 +1716,7 @@ Prayer bpn5010 in Tiếng Việt (bpn5010)
 
 -- Bahá'u'lláh
 
-Prayer bpn5011 in Tiếng Việt (bpn5011) 
+Prayer bpn5011 (bpn5011) 
 
 [bahaiprayers.net 5011](https://bahaiprayers.net/Book/Single/38/5011)
 
@@ -1729,7 +1729,7 @@ Prayer bpn5011 in Tiếng Việt (bpn5011)
 
 -- Bahá'u'lláh
 
-Prayer bpn4998 in Tiếng Việt (bpn4998) 
+Prayer bpn4998 (bpn4998) 
 
 [bahaiprayers.net 4998](https://bahaiprayers.net/Book/Single/38/4998)
 

@@ -20,7 +20,7 @@ tags = ['lang=haw', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn6214 in Hawaiian (bpn6214) 
+Prayer bpn6214 (bpn6214) 
 
 [bahaiprayers.net 6214](https://bahaiprayers.net/Book/Single/56/6214)
 
@@ -33,7 +33,7 @@ Prayer bpn6214 in Hawaiian (bpn6214)
 
 -- Bahá'u'lláh
 
-Prayer bpn6210 in Hawaiian (bpn6210) 
+Prayer bpn6210 (bpn6210) 
 
 [bahaiprayers.net 6210](https://bahaiprayers.net/Book/Single/56/6210)
 
@@ -46,7 +46,7 @@ Prayer bpn6210 in Hawaiian (bpn6210)
 
 -- Bahá'u'lláh
 
-Prayer bpn6213 in Hawaiian (bpn6213) 
+Prayer bpn6213 (bpn6213) 
 
 [bahaiprayers.net 6213](https://bahaiprayers.net/Book/Single/56/6213)
 
@@ -59,7 +59,7 @@ Prayer bpn6213 in Hawaiian (bpn6213)
 
 -- Báb
 
-Prayer bpn6212 in Hawaiian (bpn6212) 
+Prayer bpn6212 (bpn6212) 
 
 [bahaiprayers.net 6212](https://bahaiprayers.net/Book/Single/56/6212)
 
@@ -72,7 +72,7 @@ Prayer bpn6212 in Hawaiian (bpn6212)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6215 in Hawaiian (bpn6215) 
+Prayer bpn6215 (bpn6215) 
 
 [bahaiprayers.net 6215](https://bahaiprayers.net/Book/Single/56/6215)
 
@@ -89,7 +89,7 @@ Prayer bpn6215 in Hawaiian (bpn6215)
 
 -- Bahá'u'lláh
 
-Prayer bpn6211 in Hawaiian (bpn6211) 
+Prayer bpn6211 (bpn6211) 
 
 [bahaiprayers.net 6211](https://bahaiprayers.net/Book/Single/56/6211)
 

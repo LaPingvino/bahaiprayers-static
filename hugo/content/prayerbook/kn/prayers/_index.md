@@ -100,7 +100,7 @@ tags = ['lang=kn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9519 in ಕನ್ನಡ (bpn9519) 
+Prayer bpn9519 (bpn9519) 
 
 [bahaiprayers.net 9519](https://bahaiprayers.net/Book/Single/84/9519)
 
@@ -117,7 +117,7 @@ Prayer bpn9519 in ಕನ್ನಡ (bpn9519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9496 in ಕನ್ನಡ (bpn9496) 
+Prayer bpn9496 (bpn9496) 
 
 [bahaiprayers.net 9496](https://bahaiprayers.net/Book/Single/84/9496)
 
@@ -134,7 +134,7 @@ Prayer bpn9496 in ಕನ್ನಡ (bpn9496)
 
 -- Bahá'u'lláh
 
-Prayer bpn9510 in ಕನ್ನಡ (bpn9510) 
+Prayer bpn9510 (bpn9510) 
 
 [bahaiprayers.net 9510](https://bahaiprayers.net/Book/Single/84/9510)
 
@@ -151,7 +151,7 @@ Prayer bpn9510 in ಕನ್ನಡ (bpn9510)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9507 in ಕನ್ನಡ (bpn9507) 
+Prayer bpn9507 (bpn9507) 
 
 [bahaiprayers.net 9507](https://bahaiprayers.net/Book/Single/84/9507)
 
@@ -168,7 +168,7 @@ Prayer bpn9507 in ಕನ್ನಡ (bpn9507)
 
 -- Bahá'u'lláh
 
-Prayer bpn9508 in ಕನ್ನಡ (bpn9508) 
+Prayer bpn9508 (bpn9508) 
 
 [bahaiprayers.net 9508](https://bahaiprayers.net/Book/Single/84/9508)
 
@@ -181,7 +181,7 @@ Prayer bpn9508 in ಕನ್ನಡ (bpn9508)
 
 -- Bahá'u'lláh
 
-Prayer bpn9509 in ಕನ್ನಡ (bpn9509) 
+Prayer bpn9509 (bpn9509) 
 
 [bahaiprayers.net 9509](https://bahaiprayers.net/Book/Single/84/9509)
 
@@ -198,7 +198,7 @@ Prayer bpn9509 in ಕನ್ನಡ (bpn9509)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9520 in ಕನ್ನಡ (bpn9520) 
+Prayer bpn9520 (bpn9520) 
 
 [bahaiprayers.net 9520](https://bahaiprayers.net/Book/Single/84/9520)
 
@@ -215,7 +215,7 @@ Prayer bpn9520 in ಕನ್ನಡ (bpn9520)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9476 in ಕನ್ನಡ (bpn9476) 
+Prayer bpn9476 (bpn9476) 
 
 [bahaiprayers.net 9476](https://bahaiprayers.net/Book/Single/84/9476)
 
@@ -228,7 +228,7 @@ Prayer bpn9476 in ಕನ್ನಡ (bpn9476)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9477 in ಕನ್ನಡ (bpn9477) 
+Prayer bpn9477 (bpn9477) 
 
 [bahaiprayers.net 9477](https://bahaiprayers.net/Book/Single/84/9477)
 
@@ -241,7 +241,7 @@ Prayer bpn9477 in ಕನ್ನಡ (bpn9477)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9478 in ಕನ್ನಡ (bpn9478) 
+Prayer bpn9478 (bpn9478) 
 
 [bahaiprayers.net 9478](https://bahaiprayers.net/Book/Single/84/9478)
 
@@ -258,7 +258,7 @@ Prayer bpn9478 in ಕನ್ನಡ (bpn9478)
 
 -- Bahá'u'lláh
 
-Prayer bpn9516 in ಕನ್ನಡ (bpn9516) 
+Prayer bpn9516 (bpn9516) 
 
 [bahaiprayers.net 9516](https://bahaiprayers.net/Book/Single/84/9516)
 
@@ -275,7 +275,7 @@ Prayer bpn9516 in ಕನ್ನಡ (bpn9516)
 
 -- Bahá'u'lláh
 
-Prayer bpn9481 in ಕನ್ನಡ (bpn9481) 
+Prayer bpn9481 (bpn9481) 
 
 [bahaiprayers.net 9481](https://bahaiprayers.net/Book/Single/84/9481)
 
@@ -288,7 +288,7 @@ Prayer bpn9481 in ಕನ್ನಡ (bpn9481)
 
 -- Bahá'u'lláh
 
-Prayer bpn9482 in ಕನ್ನಡ (bpn9482) 
+Prayer bpn9482 (bpn9482) 
 
 [bahaiprayers.net 9482](https://bahaiprayers.net/Book/Single/84/9482)
 
@@ -301,7 +301,7 @@ Prayer bpn9482 in ಕನ್ನಡ (bpn9482)
 
 -- Bahá'u'lláh
 
-Prayer bpn9488 in ಕನ್ನಡ (bpn9488) 
+Prayer bpn9488 (bpn9488) 
 
 [bahaiprayers.net 9488](https://bahaiprayers.net/Book/Single/84/9488)
 
@@ -314,7 +314,7 @@ Prayer bpn9488 in ಕನ್ನಡ (bpn9488)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9483 in ಕನ್ನಡ (bpn9483) 
+Prayer bpn9483 (bpn9483) 
 
 [bahaiprayers.net 9483](https://bahaiprayers.net/Book/Single/84/9483)
 
@@ -327,7 +327,7 @@ Prayer bpn9483 in ಕನ್ನಡ (bpn9483)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9484 in ಕನ್ನಡ (bpn9484) 
+Prayer bpn9484 (bpn9484) 
 
 [bahaiprayers.net 9484](https://bahaiprayers.net/Book/Single/84/9484)
 
@@ -340,7 +340,7 @@ Prayer bpn9484 in ಕನ್ನಡ (bpn9484)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9485 in ಕನ್ನಡ (bpn9485) 
+Prayer bpn9485 (bpn9485) 
 
 [bahaiprayers.net 9485](https://bahaiprayers.net/Book/Single/84/9485)
 
@@ -353,7 +353,7 @@ Prayer bpn9485 in ಕನ್ನಡ (bpn9485)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9486 in ಕನ್ನಡ (bpn9486) 
+Prayer bpn9486 (bpn9486) 
 
 [bahaiprayers.net 9486](https://bahaiprayers.net/Book/Single/84/9486)
 
@@ -366,7 +366,7 @@ Prayer bpn9486 in ಕನ್ನಡ (bpn9486)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9487 in ಕನ್ನಡ (bpn9487) 
+Prayer bpn9487 (bpn9487) 
 
 [bahaiprayers.net 9487](https://bahaiprayers.net/Book/Single/84/9487)
 
@@ -383,7 +383,7 @@ Prayer bpn9487 in ಕನ್ನಡ (bpn9487)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9479 in ಕನ್ನಡ (bpn9479) 
+Prayer bpn9479 (bpn9479) 
 
 [bahaiprayers.net 9479](https://bahaiprayers.net/Book/Single/84/9479)
 
@@ -396,7 +396,7 @@ Prayer bpn9479 in ಕನ್ನಡ (bpn9479)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9480 in ಕನ್ನಡ (bpn9480) 
+Prayer bpn9480 (bpn9480) 
 
 [bahaiprayers.net 9480](https://bahaiprayers.net/Book/Single/84/9480)
 
@@ -413,7 +413,7 @@ Prayer bpn9480 in ಕನ್ನಡ (bpn9480)
 
 -- Bahá'u'lláh
 
-Prayer bpn9511 in ಕನ್ನಡ (bpn9511) 
+Prayer bpn9511 (bpn9511) 
 
 [bahaiprayers.net 9511](https://bahaiprayers.net/Book/Single/84/9511)
 
@@ -426,7 +426,7 @@ Prayer bpn9511 in ಕನ್ನಡ (bpn9511)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9512 in ಕನ್ನಡ (bpn9512) 
+Prayer bpn9512 (bpn9512) 
 
 [bahaiprayers.net 9512](https://bahaiprayers.net/Book/Single/84/9512)
 
@@ -443,7 +443,7 @@ Prayer bpn9512 in ಕನ್ನಡ (bpn9512)
 
 -- Bahá'u'lláh
 
-Prayer bpn9465 in ಕನ್ನಡ (bpn9465) 
+Prayer bpn9465 (bpn9465) 
 
 [bahaiprayers.net 9465](https://bahaiprayers.net/Book/Single/84/9465)
 
@@ -460,7 +460,7 @@ Prayer bpn9465 in ಕನ್ನಡ (bpn9465)
 
 -- Bahá'u'lláh
 
-Prayer bpn9503 in ಕನ್ನಡ (bpn9503) 
+Prayer bpn9503 (bpn9503) 
 
 [bahaiprayers.net 9503](https://bahaiprayers.net/Book/Single/84/9503)
 
@@ -473,7 +473,7 @@ Prayer bpn9503 in ಕನ್ನಡ (bpn9503)
 
 -- Bahá'u'lláh
 
-Prayer bpn9504 in ಕನ್ನಡ (bpn9504) 
+Prayer bpn9504 (bpn9504) 
 
 [bahaiprayers.net 9504](https://bahaiprayers.net/Book/Single/84/9504)
 
@@ -486,7 +486,7 @@ Prayer bpn9504 in ಕನ್ನಡ (bpn9504)
 
 -- Bahá'u'lláh
 
-Prayer bpn9505 in ಕನ್ನಡ (bpn9505) 
+Prayer bpn9505 (bpn9505) 
 
 [bahaiprayers.net 9505](https://bahaiprayers.net/Book/Single/84/9505)
 
@@ -499,7 +499,7 @@ Prayer bpn9505 in ಕನ್ನಡ (bpn9505)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9506 in ಕನ್ನಡ (bpn9506) 
+Prayer bpn9506 (bpn9506) 
 
 [bahaiprayers.net 9506](https://bahaiprayers.net/Book/Single/84/9506)
 
@@ -516,7 +516,7 @@ Prayer bpn9506 in ಕನ್ನಡ (bpn9506)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9444 in ಕನ್ನಡ (bpn9444) 
+Prayer bpn9444 (bpn9444) 
 
 [bahaiprayers.net 9444](https://bahaiprayers.net/Book/Single/84/9444)
 
@@ -529,7 +529,7 @@ Prayer bpn9444 in ಕನ್ನಡ (bpn9444)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9445 in ಕನ್ನಡ (bpn9445) 
+Prayer bpn9445 (bpn9445) 
 
 [bahaiprayers.net 9445](https://bahaiprayers.net/Book/Single/84/9445)
 
@@ -546,7 +546,7 @@ Prayer bpn9445 in ಕನ್ನಡ (bpn9445)
 
 -- Bahá'u'lláh
 
-Prayer bpn9497 in ಕನ್ನಡ (bpn9497) 
+Prayer bpn9497 (bpn9497) 
 
 [bahaiprayers.net 9497](https://bahaiprayers.net/Book/Single/84/9497)
 
@@ -559,7 +559,7 @@ Prayer bpn9497 in ಕನ್ನಡ (bpn9497)
 
 -- Bahá'u'lláh
 
-Prayer bpn9498 in ಕನ್ನಡ (bpn9498) 
+Prayer bpn9498 (bpn9498) 
 
 [bahaiprayers.net 9498](https://bahaiprayers.net/Book/Single/84/9498)
 
@@ -572,7 +572,7 @@ Prayer bpn9498 in ಕನ್ನಡ (bpn9498)
 
 -- Bahá'u'lláh
 
-Prayer bpn9499 in ಕನ್ನಡ (bpn9499) 
+Prayer bpn9499 (bpn9499) 
 
 [bahaiprayers.net 9499](https://bahaiprayers.net/Book/Single/84/9499)
 
@@ -585,7 +585,7 @@ Prayer bpn9499 in ಕನ್ನಡ (bpn9499)
 
 -- Báb
 
-Prayer bpn9500 in ಕನ್ನಡ (bpn9500) 
+Prayer bpn9500 (bpn9500) 
 
 [bahaiprayers.net 9500](https://bahaiprayers.net/Book/Single/84/9500)
 
@@ -598,7 +598,7 @@ Prayer bpn9500 in ಕನ್ನಡ (bpn9500)
 
 -- Báb
 
-Prayer bpn9501 in ಕನ್ನಡ (bpn9501) 
+Prayer bpn9501 (bpn9501) 
 
 [bahaiprayers.net 9501](https://bahaiprayers.net/Book/Single/84/9501)
 
@@ -611,7 +611,7 @@ Prayer bpn9501 in ಕನ್ನಡ (bpn9501)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9502 in ಕನ್ನಡ (bpn9502) 
+Prayer bpn9502 (bpn9502) 
 
 [bahaiprayers.net 9502](https://bahaiprayers.net/Book/Single/84/9502)
 
@@ -628,7 +628,7 @@ Prayer bpn9502 in ಕನ್ನಡ (bpn9502)
 
 -- Bahá'u'lláh
 
-Prayer bpn9447 in ಕನ್ನಡ (bpn9447) 
+Prayer bpn9447 (bpn9447) 
 
 [bahaiprayers.net 9447](https://bahaiprayers.net/Book/Single/84/9447)
 
@@ -641,7 +641,7 @@ Prayer bpn9447 in ಕನ್ನಡ (bpn9447)
 
 -- Báb
 
-Prayer bpn9448 in ಕನ್ನಡ (bpn9448) 
+Prayer bpn9448 (bpn9448) 
 
 [bahaiprayers.net 9448](https://bahaiprayers.net/Book/Single/84/9448)
 
@@ -654,7 +654,7 @@ Prayer bpn9448 in ಕನ್ನಡ (bpn9448)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9449 in ಕನ್ನಡ (bpn9449) 
+Prayer bpn9449 (bpn9449) 
 
 [bahaiprayers.net 9449](https://bahaiprayers.net/Book/Single/84/9449)
 
@@ -667,7 +667,7 @@ Prayer bpn9449 in ಕನ್ನಡ (bpn9449)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9450 in ಕನ್ನಡ (bpn9450) 
+Prayer bpn9450 (bpn9450) 
 
 [bahaiprayers.net 9450](https://bahaiprayers.net/Book/Single/84/9450)
 
@@ -684,7 +684,7 @@ Prayer bpn9450 in ಕನ್ನಡ (bpn9450)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9442 in ಕನ್ನಡ (bpn9442) 
+Prayer bpn9442 (bpn9442) 
 
 [bahaiprayers.net 9442](https://bahaiprayers.net/Book/Single/84/9442)
 
@@ -697,7 +697,7 @@ Prayer bpn9442 in ಕನ್ನಡ (bpn9442)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9443 in ಕನ್ನಡ (bpn9443) 
+Prayer bpn9443 (bpn9443) 
 
 [bahaiprayers.net 9443](https://bahaiprayers.net/Book/Single/84/9443)
 
@@ -714,7 +714,7 @@ Prayer bpn9443 in ಕನ್ನಡ (bpn9443)
 
 -- Bahá'u'lláh
 
-Prayer bpn9453 in ಕನ್ನಡ (bpn9453) 
+Prayer bpn9453 (bpn9453) 
 
 [bahaiprayers.net 9453](https://bahaiprayers.net/Book/Single/84/9453)
 
@@ -727,7 +727,7 @@ Prayer bpn9453 in ಕನ್ನಡ (bpn9453)
 
 -- Bahá'u'lláh
 
-Prayer bpn9454 in ಕನ್ನಡ (bpn9454) 
+Prayer bpn9454 (bpn9454) 
 
 [bahaiprayers.net 9454](https://bahaiprayers.net/Book/Single/84/9454)
 
@@ -744,7 +744,7 @@ Prayer bpn9454 in ಕನ್ನಡ (bpn9454)
 
 -- Bahá'u'lláh
 
-Prayer bpn9515 in ಕನ್ನಡ (bpn9515) 
+Prayer bpn9515 (bpn9515) 
 
 [bahaiprayers.net 9515](https://bahaiprayers.net/Book/Single/84/9515)
 
@@ -761,7 +761,7 @@ Prayer bpn9515 in ಕನ್ನಡ (bpn9515)
 
 -- Bahá'u'lláh
 
-Prayer bpn9438 in ಕನ್ನಡ (bpn9438) 
+Prayer bpn9438 (bpn9438) 
 
 [bahaiprayers.net 9438](https://bahaiprayers.net/Book/Single/84/9438)
 
@@ -774,7 +774,7 @@ Prayer bpn9438 in ಕನ್ನಡ (bpn9438)
 
 -- Bahá'u'lláh
 
-Prayer bpn9439 in ಕನ್ನಡ (bpn9439) 
+Prayer bpn9439 (bpn9439) 
 
 [bahaiprayers.net 9439](https://bahaiprayers.net/Book/Single/84/9439)
 
@@ -787,7 +787,7 @@ Prayer bpn9439 in ಕನ್ನಡ (bpn9439)
 
 -- Bahá'u'lláh
 
-Prayer bpn9441 in ಕನ್ನಡ (bpn9441) 
+Prayer bpn9441 (bpn9441) 
 
 [bahaiprayers.net 9441](https://bahaiprayers.net/Book/Single/84/9441)
 
@@ -800,7 +800,7 @@ Prayer bpn9441 in ಕನ್ನಡ (bpn9441)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9440 in ಕನ್ನಡ (bpn9440) 
+Prayer bpn9440 (bpn9440) 
 
 [bahaiprayers.net 9440](https://bahaiprayers.net/Book/Single/84/9440)
 
@@ -817,7 +817,7 @@ Prayer bpn9440 in ಕನ್ನಡ (bpn9440)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9451 in ಕನ್ನಡ (bpn9451) 
+Prayer bpn9451 (bpn9451) 
 
 [bahaiprayers.net 9451](https://bahaiprayers.net/Book/Single/84/9451)
 
@@ -834,7 +834,7 @@ Prayer bpn9451 in ಕನ್ನಡ (bpn9451)
 
 -- Báb
 
-Prayer bpn9436 in ಕನ್ನಡ (bpn9436) 
+Prayer bpn9436 (bpn9436) 
 
 [bahaiprayers.net 9436](https://bahaiprayers.net/Book/Single/84/9436)
 
@@ -847,7 +847,7 @@ Prayer bpn9436 in ಕನ್ನಡ (bpn9436)
 
 -- Báb
 
-Prayer bpn9437 in ಕನ್ನಡ (bpn9437) 
+Prayer bpn9437 (bpn9437) 
 
 [bahaiprayers.net 9437](https://bahaiprayers.net/Book/Single/84/9437)
 
@@ -864,7 +864,7 @@ Prayer bpn9437 in ಕನ್ನಡ (bpn9437)
 
 -- Bahá'u'lláh
 
-Prayer bpn9513 in ಕನ್ನಡ (bpn9513) 
+Prayer bpn9513 (bpn9513) 
 
 [bahaiprayers.net 9513](https://bahaiprayers.net/Book/Single/84/9513)
 
@@ -881,7 +881,7 @@ Prayer bpn9513 in ಕನ್ನಡ (bpn9513)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9455 in ಕನ್ನಡ (bpn9455) 
+Prayer bpn9455 (bpn9455) 
 
 [bahaiprayers.net 9455](https://bahaiprayers.net/Book/Single/84/9455)
 
@@ -898,7 +898,7 @@ Prayer bpn9455 in ಕನ್ನಡ (bpn9455)
 
 -- Bahá'u'lláh
 
-Prayer bpn9456 in ಕನ್ನಡ (bpn9456) 
+Prayer bpn9456 (bpn9456) 
 
 [bahaiprayers.net 9456](https://bahaiprayers.net/Book/Single/84/9456)
 
@@ -911,7 +911,7 @@ Prayer bpn9456 in ಕನ್ನಡ (bpn9456)
 
 -- Bahá'u'lláh
 
-Prayer bpn9457 in ಕನ್ನಡ (bpn9457) 
+Prayer bpn9457 (bpn9457) 
 
 [bahaiprayers.net 9457](https://bahaiprayers.net/Book/Single/84/9457)
 
@@ -928,7 +928,7 @@ Prayer bpn9457 in ಕನ್ನಡ (bpn9457)
 
 -- Bahá'u'lláh
 
-Prayer bpn9472 in ಕನ್ನಡ (bpn9472) 
+Prayer bpn9472 (bpn9472) 
 
 [bahaiprayers.net 9472](https://bahaiprayers.net/Book/Single/84/9472)
 
@@ -941,7 +941,7 @@ Prayer bpn9472 in ಕನ್ನಡ (bpn9472)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9473 in ಕನ್ನಡ (bpn9473) 
+Prayer bpn9473 (bpn9473) 
 
 [bahaiprayers.net 9473](https://bahaiprayers.net/Book/Single/84/9473)
 
@@ -958,7 +958,7 @@ Prayer bpn9473 in ಕನ್ನಡ (bpn9473)
 
 -- Bahá'u'lláh
 
-Prayer bpn9466 in ಕನ್ನಡ (bpn9466) 
+Prayer bpn9466 (bpn9466) 
 
 [bahaiprayers.net 9466](https://bahaiprayers.net/Book/Single/84/9466)
 
@@ -975,7 +975,7 @@ Prayer bpn9466 in ಕನ್ನಡ (bpn9466)
 
 -- Bahá'u'lláh
 
-Prayer bpn9489 in ಕನ್ನಡ (bpn9489) 
+Prayer bpn9489 (bpn9489) 
 
 [bahaiprayers.net 9489](https://bahaiprayers.net/Book/Single/84/9489)
 
@@ -988,7 +988,7 @@ Prayer bpn9489 in ಕನ್ನಡ (bpn9489)
 
 -- Bahá'u'lláh
 
-Prayer bpn9495 in ಕನ್ನಡ (bpn9495) 
+Prayer bpn9495 (bpn9495) 
 
 [bahaiprayers.net 9495](https://bahaiprayers.net/Book/Single/84/9495)
 
@@ -1001,7 +1001,7 @@ Prayer bpn9495 in ಕನ್ನಡ (bpn9495)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9490 in ಕನ್ನಡ (bpn9490) 
+Prayer bpn9490 (bpn9490) 
 
 [bahaiprayers.net 9490](https://bahaiprayers.net/Book/Single/84/9490)
 
@@ -1014,7 +1014,7 @@ Prayer bpn9490 in ಕನ್ನಡ (bpn9490)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9492 in ಕನ್ನಡ (bpn9492) 
+Prayer bpn9492 (bpn9492) 
 
 [bahaiprayers.net 9492](https://bahaiprayers.net/Book/Single/84/9492)
 
@@ -1027,7 +1027,7 @@ Prayer bpn9492 in ಕನ್ನಡ (bpn9492)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9493 in ಕನ್ನಡ (bpn9493) 
+Prayer bpn9493 (bpn9493) 
 
 [bahaiprayers.net 9493](https://bahaiprayers.net/Book/Single/84/9493)
 
@@ -1040,7 +1040,7 @@ Prayer bpn9493 in ಕನ್ನಡ (bpn9493)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9494 in ಕನ್ನಡ (bpn9494) 
+Prayer bpn9494 (bpn9494) 
 
 [bahaiprayers.net 9494](https://bahaiprayers.net/Book/Single/84/9494)
 
@@ -1053,7 +1053,7 @@ Prayer bpn9494 in ಕನ್ನಡ (bpn9494)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9491 in ಕನ್ನಡ (bpn9491) 
+Prayer bpn9491 (bpn9491) 
 
 [bahaiprayers.net 9491](https://bahaiprayers.net/Book/Single/84/9491)
 
@@ -1070,7 +1070,7 @@ Prayer bpn9491 in ಕನ್ನಡ (bpn9491)
 
 -- Bahá'u'lláh
 
-Prayer bpn9452 in ಕನ್ನಡ (bpn9452) 
+Prayer bpn9452 (bpn9452) 
 
 [bahaiprayers.net 9452](https://bahaiprayers.net/Book/Single/84/9452)
 
@@ -1087,7 +1087,7 @@ Prayer bpn9452 in ಕನ್ನಡ (bpn9452)
 
 -- Bahá'u'lláh
 
-Prayer bpn9428 in ಕನ್ನಡ (bpn9428) 
+Prayer bpn9428 (bpn9428) 
 
 [bahaiprayers.net 9428](https://bahaiprayers.net/Book/Single/84/9428)
 
@@ -1100,7 +1100,7 @@ Prayer bpn9428 in ಕನ್ನಡ (bpn9428)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9429 in ಕನ್ನಡ (bpn9429) 
+Prayer bpn9429 (bpn9429) 
 
 [bahaiprayers.net 9429](https://bahaiprayers.net/Book/Single/84/9429)
 
@@ -1113,7 +1113,7 @@ Prayer bpn9429 in ಕನ್ನಡ (bpn9429)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9430 in ಕನ್ನಡ (bpn9430) 
+Prayer bpn9430 (bpn9430) 
 
 [bahaiprayers.net 9430](https://bahaiprayers.net/Book/Single/84/9430)
 
@@ -1126,7 +1126,7 @@ Prayer bpn9430 in ಕನ್ನಡ (bpn9430)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9431 in ಕನ್ನಡ (bpn9431) 
+Prayer bpn9431 (bpn9431) 
 
 [bahaiprayers.net 9431](https://bahaiprayers.net/Book/Single/84/9431)
 
@@ -1139,7 +1139,7 @@ Prayer bpn9431 in ಕನ್ನಡ (bpn9431)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9432 in ಕನ್ನಡ (bpn9432) 
+Prayer bpn9432 (bpn9432) 
 
 [bahaiprayers.net 9432](https://bahaiprayers.net/Book/Single/84/9432)
 
@@ -1152,7 +1152,7 @@ Prayer bpn9432 in ಕನ್ನಡ (bpn9432)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9433 in ಕನ್ನಡ (bpn9433) 
+Prayer bpn9433 (bpn9433) 
 
 [bahaiprayers.net 9433](https://bahaiprayers.net/Book/Single/84/9433)
 
@@ -1165,7 +1165,7 @@ Prayer bpn9433 in ಕನ್ನಡ (bpn9433)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9434 in ಕನ್ನಡ (bpn9434) 
+Prayer bpn9434 (bpn9434) 
 
 [bahaiprayers.net 9434](https://bahaiprayers.net/Book/Single/84/9434)
 
@@ -1182,7 +1182,7 @@ Prayer bpn9434 in ಕನ್ನಡ (bpn9434)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9469 in ಕನ್ನಡ (bpn9469) 
+Prayer bpn9469 (bpn9469) 
 
 [bahaiprayers.net 9469](https://bahaiprayers.net/Book/Single/84/9469)
 
@@ -1199,7 +1199,7 @@ Prayer bpn9469 in ಕನ್ನಡ (bpn9469)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9458 in ಕನ್ನಡ (bpn9458) 
+Prayer bpn9458 (bpn9458) 
 
 [bahaiprayers.net 9458](https://bahaiprayers.net/Book/Single/84/9458)
 
@@ -1212,7 +1212,7 @@ Prayer bpn9458 in ಕನ್ನಡ (bpn9458)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9459 in ಕನ್ನಡ (bpn9459) 
+Prayer bpn9459 (bpn9459) 
 
 [bahaiprayers.net 9459](https://bahaiprayers.net/Book/Single/84/9459)
 
@@ -1229,7 +1229,7 @@ Prayer bpn9459 in ಕನ್ನಡ (bpn9459)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9435 in ಕನ್ನಡ (bpn9435) 
+Prayer bpn9435 (bpn9435) 
 
 [bahaiprayers.net 9435](https://bahaiprayers.net/Book/Single/84/9435)
 
@@ -1246,7 +1246,7 @@ Prayer bpn9435 in ಕನ್ನಡ (bpn9435)
 
 -- Bahá'u'lláh
 
-Prayer bpn9474 in ಕನ್ನಡ (bpn9474) 
+Prayer bpn9474 (bpn9474) 
 
 [bahaiprayers.net 9474](https://bahaiprayers.net/Book/Single/84/9474)
 
@@ -1259,7 +1259,7 @@ Prayer bpn9474 in ಕನ್ನಡ (bpn9474)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9475 in ಕನ್ನಡ (bpn9475) 
+Prayer bpn9475 (bpn9475) 
 
 [bahaiprayers.net 9475](https://bahaiprayers.net/Book/Single/84/9475)
 
@@ -1276,7 +1276,7 @@ Prayer bpn9475 in ಕನ್ನಡ (bpn9475)
 
 -- Bahá'u'lláh
 
-Prayer bpn9518 in ಕನ್ನಡ (bpn9518) 
+Prayer bpn9518 (bpn9518) 
 
 [bahaiprayers.net 9518](https://bahaiprayers.net/Book/Single/84/9518)
 
@@ -1293,7 +1293,7 @@ Prayer bpn9518 in ಕನ್ನಡ (bpn9518)
 
 -- Bahá'u'lláh
 
-Prayer bpn9467 in ಕನ್ನಡ (bpn9467) 
+Prayer bpn9467 (bpn9467) 
 
 [bahaiprayers.net 9467](https://bahaiprayers.net/Book/Single/84/9467)
 
@@ -1306,7 +1306,7 @@ Prayer bpn9467 in ಕನ್ನಡ (bpn9467)
 
 -- Bahá'u'lláh
 
-Prayer bpn9468 in ಕನ್ನಡ (bpn9468) 
+Prayer bpn9468 (bpn9468) 
 
 [bahaiprayers.net 9468](https://bahaiprayers.net/Book/Single/84/9468)
 
@@ -1323,7 +1323,7 @@ Prayer bpn9468 in ಕನ್ನಡ (bpn9468)
 
 -- Bahá'u'lláh
 
-Prayer bpn9517 in ಕನ್ನಡ (bpn9517) 
+Prayer bpn9517 (bpn9517) 
 
 [bahaiprayers.net 9517](https://bahaiprayers.net/Book/Single/84/9517)
 
@@ -1340,7 +1340,7 @@ Prayer bpn9517 in ಕನ್ನಡ (bpn9517)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9514 in ಕನ್ನಡ (bpn9514) 
+Prayer bpn9514 (bpn9514) 
 
 [bahaiprayers.net 9514](https://bahaiprayers.net/Book/Single/84/9514)
 
@@ -1357,7 +1357,7 @@ Prayer bpn9514 in ಕನ್ನಡ (bpn9514)
 
 -- Bahá'u'lláh
 
-Prayer bpn9446 in ಕನ್ನಡ (bpn9446) 
+Prayer bpn9446 (bpn9446) 
 
 [bahaiprayers.net 9446](https://bahaiprayers.net/Book/Single/84/9446)
 
@@ -1374,7 +1374,7 @@ Prayer bpn9446 in ಕನ್ನಡ (bpn9446)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9460 in ಕನ್ನಡ (bpn9460) 
+Prayer bpn9460 (bpn9460) 
 
 [bahaiprayers.net 9460](https://bahaiprayers.net/Book/Single/84/9460)
 
@@ -1387,7 +1387,7 @@ Prayer bpn9460 in ಕನ್ನಡ (bpn9460)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9461 in ಕನ್ನಡ (bpn9461) 
+Prayer bpn9461 (bpn9461) 
 
 [bahaiprayers.net 9461](https://bahaiprayers.net/Book/Single/84/9461)
 
@@ -1400,7 +1400,7 @@ Prayer bpn9461 in ಕನ್ನಡ (bpn9461)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9462 in ಕನ್ನಡ (bpn9462) 
+Prayer bpn9462 (bpn9462) 
 
 [bahaiprayers.net 9462](https://bahaiprayers.net/Book/Single/84/9462)
 
@@ -1413,7 +1413,7 @@ Prayer bpn9462 in ಕನ್ನಡ (bpn9462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9463 in ಕನ್ನಡ (bpn9463) 
+Prayer bpn9463 (bpn9463) 
 
 [bahaiprayers.net 9463](https://bahaiprayers.net/Book/Single/84/9463)
 
@@ -1426,7 +1426,7 @@ Prayer bpn9463 in ಕನ್ನಡ (bpn9463)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9464 in ಕನ್ನಡ (bpn9464) 
+Prayer bpn9464 (bpn9464) 
 
 [bahaiprayers.net 9464](https://bahaiprayers.net/Book/Single/84/9464)
 
@@ -1443,7 +1443,7 @@ Prayer bpn9464 in ಕನ್ನಡ (bpn9464)
 
 -- Bahá'u'lláh
 
-Prayer bpn9424 in ಕನ್ನಡ (bpn9424) 
+Prayer bpn9424 (bpn9424) 
 
 [bahaiprayers.net 9424](https://bahaiprayers.net/Book/Single/84/9424)
 
@@ -1456,7 +1456,7 @@ Prayer bpn9424 in ಕನ್ನಡ (bpn9424)
 
 -- Bahá'u'lláh
 
-Prayer bpn9425 in ಕನ್ನಡ (bpn9425) 
+Prayer bpn9425 (bpn9425) 
 
 [bahaiprayers.net 9425](https://bahaiprayers.net/Book/Single/84/9425)
 
@@ -1469,7 +1469,7 @@ Prayer bpn9425 in ಕನ್ನಡ (bpn9425)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9426 in ಕನ್ನಡ (bpn9426) 
+Prayer bpn9426 (bpn9426) 
 
 [bahaiprayers.net 9426](https://bahaiprayers.net/Book/Single/84/9426)
 
@@ -1482,7 +1482,7 @@ Prayer bpn9426 in ಕನ್ನಡ (bpn9426)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9427 in ಕನ್ನಡ (bpn9427) 
+Prayer bpn9427 (bpn9427) 
 
 [bahaiprayers.net 9427](https://bahaiprayers.net/Book/Single/84/9427)
 
@@ -1499,7 +1499,7 @@ Prayer bpn9427 in ಕನ್ನಡ (bpn9427)
 
 -- Bahá'u'lláh
 
-Prayer bpn9470 in ಕನ್ನಡ (bpn9470) 
+Prayer bpn9470 (bpn9470) 
 
 [bahaiprayers.net 9470](https://bahaiprayers.net/Book/Single/84/9470)
 
@@ -1512,7 +1512,7 @@ Prayer bpn9470 in ಕನ್ನಡ (bpn9470)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9471 in ಕನ್ನಡ (bpn9471) 
+Prayer bpn9471 (bpn9471) 
 
 [bahaiprayers.net 9471](https://bahaiprayers.net/Book/Single/84/9471)
 

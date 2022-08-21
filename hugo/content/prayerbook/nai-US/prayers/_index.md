@@ -34,7 +34,7 @@ tags = ['lang=nai-US', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn6846 in American Indian (bpn6846) 
+Prayer bpn6846 (bpn6846) 
 
 [bahaiprayers.net 6846](https://bahaiprayers.net/Book/Single/86/6846)
 
@@ -47,7 +47,7 @@ Prayer bpn6846 in American Indian (bpn6846)
 
 -- Bahá'u'lláh
 
-Prayer bpn5406 in American Indian (bpn5406) 
+Prayer bpn5406 (bpn5406) 
 
 [bahaiprayers.net 5406](https://bahaiprayers.net/Book/Single/86/5406)
 
@@ -60,7 +60,7 @@ Prayer bpn5406 in American Indian (bpn5406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5405 in American Indian (bpn5405) 
+Prayer bpn5405 (bpn5405) 
 
 [bahaiprayers.net 5405](https://bahaiprayers.net/Book/Single/86/5405)
 
@@ -77,7 +77,7 @@ Prayer bpn5405 in American Indian (bpn5405)
 
 -- Bahá'u'lláh
 
-Prayer bpn4156 in American Indian (bpn4156) 
+Prayer bpn4156 (bpn4156) 
 
 [bahaiprayers.net 4156](https://bahaiprayers.net/Book/Single/86/4156)
 
@@ -90,7 +90,7 @@ Prayer bpn4156 in American Indian (bpn4156)
 
 -- Bahá'u'lláh
 
-Prayer bpn4154 in American Indian (bpn4154) 
+Prayer bpn4154 (bpn4154) 
 
 [bahaiprayers.net 4154](https://bahaiprayers.net/Book/Single/86/4154)
 
@@ -103,7 +103,7 @@ Prayer bpn4154 in American Indian (bpn4154)
 
 -- Báb
 
-Prayer bpn4155 in American Indian (bpn4155) 
+Prayer bpn4155 (bpn4155) 
 
 [bahaiprayers.net 4155](https://bahaiprayers.net/Book/Single/86/4155)
 
@@ -116,7 +116,7 @@ Prayer bpn4155 in American Indian (bpn4155)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4153 in American Indian (bpn4153) 
+Prayer bpn4153 (bpn4153) 
 
 [bahaiprayers.net 4153](https://bahaiprayers.net/Book/Single/86/4153)
 
@@ -133,7 +133,7 @@ Prayer bpn4153 in American Indian (bpn4153)
 
 -- Bahá'u'lláh
 
-Prayer bpn8003 in American Indian (bpn8003) 
+Prayer bpn8003 (bpn8003) 
 
 [bahaiprayers.net 8003](https://bahaiprayers.net/Book/Single/86/8003)
 
@@ -146,7 +146,7 @@ Prayer bpn8003 in American Indian (bpn8003)
 
 -- Bahá'u'lláh
 
-Prayer bpn4275 in American Indian (bpn4275) 
+Prayer bpn4275 (bpn4275) 
 
 [bahaiprayers.net 4275](https://bahaiprayers.net/Book/Single/86/4275)
 
@@ -159,7 +159,7 @@ Prayer bpn4275 in American Indian (bpn4275)
 
 -- Bahá'u'lláh
 
-Prayer bpn4142 in American Indian (bpn4142) 
+Prayer bpn4142 (bpn4142) 
 
 [bahaiprayers.net 4142](https://bahaiprayers.net/Book/Single/86/4142)
 
@@ -172,7 +172,7 @@ Prayer bpn4142 in American Indian (bpn4142)
 
 -- Bahá'u'lláh
 
-Prayer bpn4274 in American Indian (bpn4274) 
+Prayer bpn4274 (bpn4274) 
 
 [bahaiprayers.net 4274](https://bahaiprayers.net/Book/Single/86/4274)
 
@@ -185,7 +185,7 @@ Prayer bpn4274 in American Indian (bpn4274)
 
 -- Bahá'u'lláh
 
-Prayer bpn4273 in American Indian (bpn4273) 
+Prayer bpn4273 (bpn4273) 
 
 [bahaiprayers.net 4273](https://bahaiprayers.net/Book/Single/86/4273)
 
@@ -198,7 +198,7 @@ Prayer bpn4273 in American Indian (bpn4273)
 
 -- Bahá'u'lláh
 
-Prayer bpn4139 in American Indian (bpn4139) 
+Prayer bpn4139 (bpn4139) 
 
 [bahaiprayers.net 4139](https://bahaiprayers.net/Book/Single/86/4139)
 
@@ -211,7 +211,7 @@ Prayer bpn4139 in American Indian (bpn4139)
 
 -- Báb
 
-Prayer bpn4140 in American Indian (bpn4140) 
+Prayer bpn4140 (bpn4140) 
 
 [bahaiprayers.net 4140](https://bahaiprayers.net/Book/Single/86/4140)
 
@@ -224,7 +224,7 @@ Prayer bpn4140 in American Indian (bpn4140)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4141 in American Indian (bpn4141) 
+Prayer bpn4141 (bpn4141) 
 
 [bahaiprayers.net 4141](https://bahaiprayers.net/Book/Single/86/4141)
 
@@ -241,7 +241,7 @@ Prayer bpn4141 in American Indian (bpn4141)
 
 -- Bahá'u'lláh
 
-Prayer bpn4161 in American Indian (bpn4161) 
+Prayer bpn4161 (bpn4161) 
 
 [bahaiprayers.net 4161](https://bahaiprayers.net/Book/Single/86/4161)
 
@@ -258,7 +258,7 @@ Prayer bpn4161 in American Indian (bpn4161)
 
 -- Báb
 
-Prayer bpn4145 in American Indian (bpn4145) 
+Prayer bpn4145 (bpn4145) 
 
 [bahaiprayers.net 4145](https://bahaiprayers.net/Book/Single/86/4145)
 
@@ -271,7 +271,7 @@ Prayer bpn4145 in American Indian (bpn4145)
 
 -- Báb
 
-Prayer bpn4144 in American Indian (bpn4144) 
+Prayer bpn4144 (bpn4144) 
 
 [bahaiprayers.net 4144](https://bahaiprayers.net/Book/Single/86/4144)
 
@@ -284,7 +284,7 @@ Prayer bpn4144 in American Indian (bpn4144)
 
 -- Báb
 
-Prayer bpn4143 in American Indian (bpn4143) 
+Prayer bpn4143 (bpn4143) 
 
 [bahaiprayers.net 4143](https://bahaiprayers.net/Book/Single/86/4143)
 
@@ -301,7 +301,7 @@ Prayer bpn4143 in American Indian (bpn4143)
 
 -- Bahá'u'lláh
 
-Prayer bpn4164 in American Indian (bpn4164) 
+Prayer bpn4164 (bpn4164) 
 
 [bahaiprayers.net 4164](https://bahaiprayers.net/Book/Single/86/4164)
 
@@ -318,7 +318,7 @@ Prayer bpn4164 in American Indian (bpn4164)
 
 -- Bahá'u'lláh
 
-Prayer bpn4171 in American Indian (bpn4171) 
+Prayer bpn4171 (bpn4171) 
 
 [bahaiprayers.net 4171](https://bahaiprayers.net/Book/Single/86/4171)
 
@@ -331,7 +331,7 @@ Prayer bpn4171 in American Indian (bpn4171)
 
 -- Bahá'u'lláh
 
-Prayer bpn4170 in American Indian (bpn4170) 
+Prayer bpn4170 (bpn4170) 
 
 [bahaiprayers.net 4170](https://bahaiprayers.net/Book/Single/86/4170)
 
@@ -344,7 +344,7 @@ Prayer bpn4170 in American Indian (bpn4170)
 
 -- Bahá'u'lláh
 
-Prayer bpn4169 in American Indian (bpn4169) 
+Prayer bpn4169 (bpn4169) 
 
 [bahaiprayers.net 4169](https://bahaiprayers.net/Book/Single/86/4169)
 
@@ -357,7 +357,7 @@ Prayer bpn4169 in American Indian (bpn4169)
 
 -- Bahá'u'lláh
 
-Prayer bpn4167 in American Indian (bpn4167) 
+Prayer bpn4167 (bpn4167) 
 
 [bahaiprayers.net 4167](https://bahaiprayers.net/Book/Single/86/4167)
 
@@ -370,7 +370,7 @@ Prayer bpn4167 in American Indian (bpn4167)
 
 -- Báb
 
-Prayer bpn4168 in American Indian (bpn4168) 
+Prayer bpn4168 (bpn4168) 
 
 [bahaiprayers.net 4168](https://bahaiprayers.net/Book/Single/86/4168)
 
@@ -387,7 +387,7 @@ Prayer bpn4168 in American Indian (bpn4168)
 
 -- Bahá'u'lláh
 
-Prayer bpn4278 in American Indian (bpn4278) 
+Prayer bpn4278 (bpn4278) 
 
 [bahaiprayers.net 4278](https://bahaiprayers.net/Book/Single/86/4278)
 
@@ -404,7 +404,7 @@ Prayer bpn4278 in American Indian (bpn4278)
 
 -- Bahá'u'lláh
 
-Prayer bpn4277 in American Indian (bpn4277) 
+Prayer bpn4277 (bpn4277) 
 
 [bahaiprayers.net 4277](https://bahaiprayers.net/Book/Single/86/4277)
 
@@ -417,7 +417,7 @@ Prayer bpn4277 in American Indian (bpn4277)
 
 -- Bahá'u'lláh
 
-Prayer bpn4276 in American Indian (bpn4276) 
+Prayer bpn4276 (bpn4276) 
 
 [bahaiprayers.net 4276](https://bahaiprayers.net/Book/Single/86/4276)
 

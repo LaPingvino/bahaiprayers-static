@@ -80,7 +80,7 @@ tags = ['lang=mt', 'prayerbook']
 
 -- Báb
 
-Prayer bpn7954 in Malti (bpn7954) 
+Prayer bpn7954 (bpn7954) 
 
 [bahaiprayers.net 7954](https://bahaiprayers.net/Book/Single/69/7954)
 
@@ -97,7 +97,7 @@ Prayer bpn7954 in Malti (bpn7954)
 
 -- Bahá'u'lláh
 
-Prayer bpn7962 in Malti (bpn7962) 
+Prayer bpn7962 (bpn7962) 
 
 [bahaiprayers.net 7962](https://bahaiprayers.net/Book/Single/69/7962)
 
@@ -110,7 +110,7 @@ Prayer bpn7962 in Malti (bpn7962)
 
 -- Bahá'u'lláh
 
-Prayer bpn8001 in Malti (bpn8001) 
+Prayer bpn8001 (bpn8001) 
 
 [bahaiprayers.net 8001](https://bahaiprayers.net/Book/Single/69/8001)
 
@@ -127,7 +127,7 @@ Prayer bpn8001 in Malti (bpn8001)
 
 -- Bahá'u'lláh
 
-Prayer bpn7967 in Malti (bpn7967) 
+Prayer bpn7967 (bpn7967) 
 
 [bahaiprayers.net 7967](https://bahaiprayers.net/Book/Single/69/7967)
 
@@ -140,7 +140,7 @@ Prayer bpn7967 in Malti (bpn7967)
 
 -- Bahá'u'lláh
 
-Prayer bpn7968 in Malti (bpn7968) 
+Prayer bpn7968 (bpn7968) 
 
 [bahaiprayers.net 7968](https://bahaiprayers.net/Book/Single/69/7968)
 
@@ -157,7 +157,7 @@ Prayer bpn7968 in Malti (bpn7968)
 
 -- Bahá'u'lláh
 
-Prayer bpn7942 in Malti (bpn7942) 
+Prayer bpn7942 (bpn7942) 
 
 [bahaiprayers.net 7942](https://bahaiprayers.net/Book/Single/69/7942)
 
@@ -170,7 +170,7 @@ Prayer bpn7942 in Malti (bpn7942)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7943 in Malti (bpn7943) 
+Prayer bpn7943 (bpn7943) 
 
 [bahaiprayers.net 7943](https://bahaiprayers.net/Book/Single/69/7943)
 
@@ -187,7 +187,7 @@ Prayer bpn7943 in Malti (bpn7943)
 
 -- Bahá'u'lláh
 
-Prayer bpn7991 in Malti (bpn7991) 
+Prayer bpn7991 (bpn7991) 
 
 [bahaiprayers.net 7991](https://bahaiprayers.net/Book/Single/69/7991)
 
@@ -200,7 +200,7 @@ Prayer bpn7991 in Malti (bpn7991)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7992 in Malti (bpn7992) 
+Prayer bpn7992 (bpn7992) 
 
 [bahaiprayers.net 7992](https://bahaiprayers.net/Book/Single/69/7992)
 
@@ -217,7 +217,7 @@ Prayer bpn7992 in Malti (bpn7992)
 
 -- Bahá'u'lláh
 
-Prayer bpn7997 in Malti (bpn7997) 
+Prayer bpn7997 (bpn7997) 
 
 [bahaiprayers.net 7997](https://bahaiprayers.net/Book/Single/69/7997)
 
@@ -234,7 +234,7 @@ Prayer bpn7997 in Malti (bpn7997)
 
 -- Bahá'u'lláh
 
-Prayer bpn7998 in Malti (bpn7998) 
+Prayer bpn7998 (bpn7998) 
 
 [bahaiprayers.net 7998](https://bahaiprayers.net/Book/Single/69/7998)
 
@@ -251,7 +251,7 @@ Prayer bpn7998 in Malti (bpn7998)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7964 in Malti (bpn7964) 
+Prayer bpn7964 (bpn7964) 
 
 [bahaiprayers.net 7964](https://bahaiprayers.net/Book/Single/69/7964)
 
@@ -268,7 +268,7 @@ Prayer bpn7964 in Malti (bpn7964)
 
 -- Bahá'u'lláh
 
-Prayer bpn8000 in Malti (bpn8000) 
+Prayer bpn8000 (bpn8000) 
 
 [bahaiprayers.net 8000](https://bahaiprayers.net/Book/Single/69/8000)
 
@@ -285,7 +285,7 @@ Prayer bpn8000 in Malti (bpn8000)
 
 -- Bahá'u'lláh
 
-Prayer bpn7999 in Malti (bpn7999) 
+Prayer bpn7999 (bpn7999) 
 
 [bahaiprayers.net 7999](https://bahaiprayers.net/Book/Single/69/7999)
 
@@ -302,7 +302,7 @@ Prayer bpn7999 in Malti (bpn7999)
 
 -- Bahá'u'lláh
 
-Prayer bpn7973 in Malti (bpn7973) 
+Prayer bpn7973 (bpn7973) 
 
 [bahaiprayers.net 7973](https://bahaiprayers.net/Book/Single/69/7973)
 
@@ -315,7 +315,7 @@ Prayer bpn7973 in Malti (bpn7973)
 
 -- Bahá'u'lláh
 
-Prayer bpn7974 in Malti (bpn7974) 
+Prayer bpn7974 (bpn7974) 
 
 [bahaiprayers.net 7974](https://bahaiprayers.net/Book/Single/69/7974)
 
@@ -332,7 +332,7 @@ Prayer bpn7974 in Malti (bpn7974)
 
 -- Bahá'u'lláh
 
-Prayer bpn7975 in Malti (bpn7975) 
+Prayer bpn7975 (bpn7975) 
 
 [bahaiprayers.net 7975](https://bahaiprayers.net/Book/Single/69/7975)
 
@@ -345,7 +345,7 @@ Prayer bpn7975 in Malti (bpn7975)
 
 -- Bahá'u'lláh
 
-Prayer bpn7976 in Malti (bpn7976) 
+Prayer bpn7976 (bpn7976) 
 
 [bahaiprayers.net 7976](https://bahaiprayers.net/Book/Single/69/7976)
 
@@ -358,7 +358,7 @@ Prayer bpn7976 in Malti (bpn7976)
 
 -- Bahá'u'lláh
 
-Prayer bpn7977 in Malti (bpn7977) 
+Prayer bpn7977 (bpn7977) 
 
 [bahaiprayers.net 7977](https://bahaiprayers.net/Book/Single/69/7977)
 
@@ -371,7 +371,7 @@ Prayer bpn7977 in Malti (bpn7977)
 
 -- Bahá'u'lláh
 
-Prayer bpn7978 in Malti (bpn7978) 
+Prayer bpn7978 (bpn7978) 
 
 [bahaiprayers.net 7978](https://bahaiprayers.net/Book/Single/69/7978)
 
@@ -384,7 +384,7 @@ Prayer bpn7978 in Malti (bpn7978)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7979 in Malti (bpn7979) 
+Prayer bpn7979 (bpn7979) 
 
 [bahaiprayers.net 7979](https://bahaiprayers.net/Book/Single/69/7979)
 
@@ -397,7 +397,7 @@ Prayer bpn7979 in Malti (bpn7979)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7980 in Malti (bpn7980) 
+Prayer bpn7980 (bpn7980) 
 
 [bahaiprayers.net 7980](https://bahaiprayers.net/Book/Single/69/7980)
 
@@ -410,7 +410,7 @@ Prayer bpn7980 in Malti (bpn7980)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7981 in Malti (bpn7981) 
+Prayer bpn7981 (bpn7981) 
 
 [bahaiprayers.net 7981](https://bahaiprayers.net/Book/Single/69/7981)
 
@@ -427,7 +427,7 @@ Prayer bpn7981 in Malti (bpn7981)
 
 -- Bahá'u'lláh
 
-Prayer bpn7947 in Malti (bpn7947) 
+Prayer bpn7947 (bpn7947) 
 
 [bahaiprayers.net 7947](https://bahaiprayers.net/Book/Single/69/7947)
 
@@ -440,7 +440,7 @@ Prayer bpn7947 in Malti (bpn7947)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7948 in Malti (bpn7948) 
+Prayer bpn7948 (bpn7948) 
 
 [bahaiprayers.net 7948](https://bahaiprayers.net/Book/Single/69/7948)
 
@@ -457,7 +457,7 @@ Prayer bpn7948 in Malti (bpn7948)
 
 -- Bahá'u'lláh
 
-Prayer bpn7957 in Malti (bpn7957) 
+Prayer bpn7957 (bpn7957) 
 
 [bahaiprayers.net 7957](https://bahaiprayers.net/Book/Single/69/7957)
 
@@ -470,7 +470,7 @@ Prayer bpn7957 in Malti (bpn7957)
 
 -- Báb
 
-Prayer bpn7958 in Malti (bpn7958) 
+Prayer bpn7958 (bpn7958) 
 
 [bahaiprayers.net 7958](https://bahaiprayers.net/Book/Single/69/7958)
 
@@ -487,7 +487,7 @@ Prayer bpn7958 in Malti (bpn7958)
 
 -- Bahá'u'lláh
 
-Prayer bpn7993 in Malti (bpn7993) 
+Prayer bpn7993 (bpn7993) 
 
 [bahaiprayers.net 7993](https://bahaiprayers.net/Book/Single/69/7993)
 
@@ -504,7 +504,7 @@ Prayer bpn7993 in Malti (bpn7993)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7953 in Malti (bpn7953) 
+Prayer bpn7953 (bpn7953) 
 
 [bahaiprayers.net 7953](https://bahaiprayers.net/Book/Single/69/7953)
 
@@ -521,7 +521,7 @@ Prayer bpn7953 in Malti (bpn7953)
 
 -- Bahá'u'lláh
 
-Prayer bpn7949 in Malti (bpn7949) 
+Prayer bpn7949 (bpn7949) 
 
 [bahaiprayers.net 7949](https://bahaiprayers.net/Book/Single/69/7949)
 
@@ -534,7 +534,7 @@ Prayer bpn7949 in Malti (bpn7949)
 
 -- Bahá'u'lláh
 
-Prayer bpn7950 in Malti (bpn7950) 
+Prayer bpn7950 (bpn7950) 
 
 [bahaiprayers.net 7950](https://bahaiprayers.net/Book/Single/69/7950)
 
@@ -547,7 +547,7 @@ Prayer bpn7950 in Malti (bpn7950)
 
 -- Báb
 
-Prayer bpn7951 in Malti (bpn7951) 
+Prayer bpn7951 (bpn7951) 
 
 [bahaiprayers.net 7951](https://bahaiprayers.net/Book/Single/69/7951)
 
@@ -560,7 +560,7 @@ Prayer bpn7951 in Malti (bpn7951)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7952 in Malti (bpn7952) 
+Prayer bpn7952 (bpn7952) 
 
 [bahaiprayers.net 7952](https://bahaiprayers.net/Book/Single/69/7952)
 
@@ -577,7 +577,7 @@ Prayer bpn7952 in Malti (bpn7952)
 
 -- Bahá'u'lláh
 
-Prayer bpn7986 in Malti (bpn7986) 
+Prayer bpn7986 (bpn7986) 
 
 [bahaiprayers.net 7986](https://bahaiprayers.net/Book/Single/69/7986)
 
@@ -590,7 +590,7 @@ Prayer bpn7986 in Malti (bpn7986)
 
 -- Báb
 
-Prayer bpn7987 in Malti (bpn7987) 
+Prayer bpn7987 (bpn7987) 
 
 [bahaiprayers.net 7987](https://bahaiprayers.net/Book/Single/69/7987)
 
@@ -607,7 +607,7 @@ Prayer bpn7987 in Malti (bpn7987)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7955 in Malti (bpn7955) 
+Prayer bpn7955 (bpn7955) 
 
 [bahaiprayers.net 7955](https://bahaiprayers.net/Book/Single/69/7955)
 
@@ -620,7 +620,7 @@ Prayer bpn7955 in Malti (bpn7955)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7956 in Malti (bpn7956) 
+Prayer bpn7956 (bpn7956) 
 
 [bahaiprayers.net 7956](https://bahaiprayers.net/Book/Single/69/7956)
 
@@ -637,7 +637,7 @@ Prayer bpn7956 in Malti (bpn7956)
 
 -- Bahá'u'lláh
 
-Prayer bpn7994 in Malti (bpn7994) 
+Prayer bpn7994 (bpn7994) 
 
 [bahaiprayers.net 7994](https://bahaiprayers.net/Book/Single/69/7994)
 
@@ -654,7 +654,7 @@ Prayer bpn7994 in Malti (bpn7994)
 
 -- Bahá'u'lláh
 
-Prayer bpn7995 in Malti (bpn7995) 
+Prayer bpn7995 (bpn7995) 
 
 [bahaiprayers.net 7995](https://bahaiprayers.net/Book/Single/69/7995)
 
@@ -671,7 +671,7 @@ Prayer bpn7995 in Malti (bpn7995)
 
 -- Bahá'u'lláh
 
-Prayer bpn7996 in Malti (bpn7996) 
+Prayer bpn7996 (bpn7996) 
 
 [bahaiprayers.net 7996](https://bahaiprayers.net/Book/Single/69/7996)
 
@@ -688,7 +688,7 @@ Prayer bpn7996 in Malti (bpn7996)
 
 -- Bahá'u'lláh
 
-Prayer bpn7983 in Malti (bpn7983) 
+Prayer bpn7983 (bpn7983) 
 
 [bahaiprayers.net 7983](https://bahaiprayers.net/Book/Single/69/7983)
 
@@ -701,7 +701,7 @@ Prayer bpn7983 in Malti (bpn7983)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7984 in Malti (bpn7984) 
+Prayer bpn7984 (bpn7984) 
 
 [bahaiprayers.net 7984](https://bahaiprayers.net/Book/Single/69/7984)
 
@@ -714,7 +714,7 @@ Prayer bpn7984 in Malti (bpn7984)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7985 in Malti (bpn7985) 
+Prayer bpn7985 (bpn7985) 
 
 [bahaiprayers.net 7985](https://bahaiprayers.net/Book/Single/69/7985)
 
@@ -731,7 +731,7 @@ Prayer bpn7985 in Malti (bpn7985)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7944 in Malti (bpn7944) 
+Prayer bpn7944 (bpn7944) 
 
 [bahaiprayers.net 7944](https://bahaiprayers.net/Book/Single/69/7944)
 
@@ -744,7 +744,7 @@ Prayer bpn7944 in Malti (bpn7944)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7945 in Malti (bpn7945) 
+Prayer bpn7945 (bpn7945) 
 
 [bahaiprayers.net 7945](https://bahaiprayers.net/Book/Single/69/7945)
 
@@ -757,7 +757,7 @@ Prayer bpn7945 in Malti (bpn7945)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7946 in Malti (bpn7946) 
+Prayer bpn7946 (bpn7946) 
 
 [bahaiprayers.net 7946](https://bahaiprayers.net/Book/Single/69/7946)
 
@@ -774,7 +774,7 @@ Prayer bpn7946 in Malti (bpn7946)
 
 -- Bahá'u'lláh
 
-Prayer bpn7970 in Malti (bpn7970) 
+Prayer bpn7970 (bpn7970) 
 
 [bahaiprayers.net 7970](https://bahaiprayers.net/Book/Single/69/7970)
 
@@ -787,7 +787,7 @@ Prayer bpn7970 in Malti (bpn7970)
 
 -- Bahá'u'lláh
 
-Prayer bpn7971 in Malti (bpn7971) 
+Prayer bpn7971 (bpn7971) 
 
 [bahaiprayers.net 7971](https://bahaiprayers.net/Book/Single/69/7971)
 
@@ -800,7 +800,7 @@ Prayer bpn7971 in Malti (bpn7971)
 
 -- Bahá'u'lláh
 
-Prayer bpn7972 in Malti (bpn7972) 
+Prayer bpn7972 (bpn7972) 
 
 [bahaiprayers.net 7972](https://bahaiprayers.net/Book/Single/69/7972)
 
@@ -817,7 +817,7 @@ Prayer bpn7972 in Malti (bpn7972)
 
 -- Bahá'u'lláh
 
-Prayer bpn7988 in Malti (bpn7988) 
+Prayer bpn7988 (bpn7988) 
 
 [bahaiprayers.net 7988](https://bahaiprayers.net/Book/Single/69/7988)
 
@@ -830,7 +830,7 @@ Prayer bpn7988 in Malti (bpn7988)
 
 -- Bahá'u'lláh
 
-Prayer bpn7989 in Malti (bpn7989) 
+Prayer bpn7989 (bpn7989) 
 
 [bahaiprayers.net 7989](https://bahaiprayers.net/Book/Single/69/7989)
 
@@ -843,7 +843,7 @@ Prayer bpn7989 in Malti (bpn7989)
 
 -- Báb
 
-Prayer bpn7990 in Malti (bpn7990) 
+Prayer bpn7990 (bpn7990) 
 
 [bahaiprayers.net 7990](https://bahaiprayers.net/Book/Single/69/7990)
 
@@ -860,7 +860,7 @@ Prayer bpn7990 in Malti (bpn7990)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7963 in Malti (bpn7963) 
+Prayer bpn7963 (bpn7963) 
 
 [bahaiprayers.net 7963](https://bahaiprayers.net/Book/Single/69/7963)
 
@@ -877,7 +877,7 @@ Prayer bpn7963 in Malti (bpn7963)
 
 -- Bahá'u'lláh
 
-Prayer bpn7959 in Malti (bpn7959) 
+Prayer bpn7959 (bpn7959) 
 
 [bahaiprayers.net 7959](https://bahaiprayers.net/Book/Single/69/7959)
 
@@ -890,7 +890,7 @@ Prayer bpn7959 in Malti (bpn7959)
 
 -- Bahá'u'lláh
 
-Prayer bpn7960 in Malti (bpn7960) 
+Prayer bpn7960 (bpn7960) 
 
 [bahaiprayers.net 7960](https://bahaiprayers.net/Book/Single/69/7960)
 
@@ -903,7 +903,7 @@ Prayer bpn7960 in Malti (bpn7960)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7961 in Malti (bpn7961) 
+Prayer bpn7961 (bpn7961) 
 
 [bahaiprayers.net 7961](https://bahaiprayers.net/Book/Single/69/7961)
 
@@ -920,7 +920,7 @@ Prayer bpn7961 in Malti (bpn7961)
 
 -- Báb
 
-Prayer bpn7969 in Malti (bpn7969) 
+Prayer bpn7969 (bpn7969) 
 
 [bahaiprayers.net 7969](https://bahaiprayers.net/Book/Single/69/7969)
 
@@ -937,7 +937,7 @@ Prayer bpn7969 in Malti (bpn7969)
 
 -- Bahá'u'lláh
 
-Prayer bpn7982 in Malti (bpn7982) 
+Prayer bpn7982 (bpn7982) 
 
 [bahaiprayers.net 7982](https://bahaiprayers.net/Book/Single/69/7982)
 
@@ -954,7 +954,7 @@ Prayer bpn7982 in Malti (bpn7982)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8002 in Malti (bpn8002) 
+Prayer bpn8002 (bpn8002) 
 
 [bahaiprayers.net 8002](https://bahaiprayers.net/Book/Single/69/8002)
 
@@ -971,7 +971,7 @@ Prayer bpn8002 in Malti (bpn8002)
 
 -- Bahá'u'lláh
 
-Prayer bpn7965 in Malti (bpn7965) 
+Prayer bpn7965 (bpn7965) 
 
 [bahaiprayers.net 7965](https://bahaiprayers.net/Book/Single/69/7965)
 
@@ -984,7 +984,7 @@ Prayer bpn7965 in Malti (bpn7965)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7966 in Malti (bpn7966) 
+Prayer bpn7966 (bpn7966) 
 
 [bahaiprayers.net 7966](https://bahaiprayers.net/Book/Single/69/7966)
 

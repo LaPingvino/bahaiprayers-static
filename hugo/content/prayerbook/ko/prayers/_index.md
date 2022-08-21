@@ -94,7 +94,7 @@ tags = ['lang=ko', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn6659 in 한국어 (bpn6659) 
+Prayer bpn6659 (bpn6659) 
 
 [bahaiprayers.net 6659](https://bahaiprayers.net/Book/Single/21/6659)
 
@@ -111,7 +111,7 @@ Prayer bpn6659 in 한국어 (bpn6659)
 
 -- Bahá'u'lláh
 
-Prayer bpn6485 in 한국어 (bpn6485) 
+Prayer bpn6485 (bpn6485) 
 
 [bahaiprayers.net 6485](https://bahaiprayers.net/Book/Single/21/6485)
 
@@ -124,7 +124,7 @@ Prayer bpn6485 in 한국어 (bpn6485)
 
 -- Bahá'u'lláh
 
-Prayer bpn6486 in 한국어 (bpn6486) 
+Prayer bpn6486 (bpn6486) 
 
 [bahaiprayers.net 6486](https://bahaiprayers.net/Book/Single/21/6486)
 
@@ -137,7 +137,7 @@ Prayer bpn6486 in 한국어 (bpn6486)
 
 -- Báb
 
-Prayer bpn6484 in 한국어 (bpn6484) 
+Prayer bpn6484 (bpn6484) 
 
 [bahaiprayers.net 6484](https://bahaiprayers.net/Book/Single/21/6484)
 
@@ -150,7 +150,7 @@ Prayer bpn6484 in 한국어 (bpn6484)
 
 -- Báb
 
-Prayer bpn6487 in 한국어 (bpn6487) 
+Prayer bpn6487 (bpn6487) 
 
 [bahaiprayers.net 6487](https://bahaiprayers.net/Book/Single/21/6487)
 
@@ -163,7 +163,7 @@ Prayer bpn6487 in 한국어 (bpn6487)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6488 in 한국어 (bpn6488) 
+Prayer bpn6488 (bpn6488) 
 
 [bahaiprayers.net 6488](https://bahaiprayers.net/Book/Single/21/6488)
 
@@ -176,7 +176,7 @@ Prayer bpn6488 in 한국어 (bpn6488)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6489 in 한국어 (bpn6489) 
+Prayer bpn6489 (bpn6489) 
 
 [bahaiprayers.net 6489](https://bahaiprayers.net/Book/Single/21/6489)
 
@@ -189,7 +189,7 @@ Prayer bpn6489 in 한국어 (bpn6489)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6490 in 한국어 (bpn6490) 
+Prayer bpn6490 (bpn6490) 
 
 [bahaiprayers.net 6490](https://bahaiprayers.net/Book/Single/21/6490)
 
@@ -206,7 +206,7 @@ Prayer bpn6490 in 한국어 (bpn6490)
 
 -- Bahá'u'lláh
 
-Prayer bpn6492 in 한국어 (bpn6492) 
+Prayer bpn6492 (bpn6492) 
 
 [bahaiprayers.net 6492](https://bahaiprayers.net/Book/Single/21/6492)
 
@@ -219,7 +219,7 @@ Prayer bpn6492 in 한국어 (bpn6492)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6493 in 한국어 (bpn6493) 
+Prayer bpn6493 (bpn6493) 
 
 [bahaiprayers.net 6493](https://bahaiprayers.net/Book/Single/21/6493)
 
@@ -232,7 +232,7 @@ Prayer bpn6493 in 한국어 (bpn6493)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6494 in 한국어 (bpn6494) 
+Prayer bpn6494 (bpn6494) 
 
 [bahaiprayers.net 6494](https://bahaiprayers.net/Book/Single/21/6494)
 
@@ -249,7 +249,7 @@ Prayer bpn6494 in 한국어 (bpn6494)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6495 in 한국어 (bpn6495) 
+Prayer bpn6495 (bpn6495) 
 
 [bahaiprayers.net 6495](https://bahaiprayers.net/Book/Single/21/6495)
 
@@ -266,7 +266,7 @@ Prayer bpn6495 in 한국어 (bpn6495)
 
 -- Bahá'u'lláh
 
-Prayer bpn6491 in 한국어 (bpn6491) 
+Prayer bpn6491 (bpn6491) 
 
 [bahaiprayers.net 6491](https://bahaiprayers.net/Book/Single/21/6491)
 
@@ -283,7 +283,7 @@ Prayer bpn6491 in 한국어 (bpn6491)
 
 -- Bahá'u'lláh
 
-Prayer bpn6652 in 한국어 (bpn6652) 
+Prayer bpn6652 (bpn6652) 
 
 [bahaiprayers.net 6652](https://bahaiprayers.net/Book/Single/21/6652)
 
@@ -296,7 +296,7 @@ Prayer bpn6652 in 한국어 (bpn6652)
 
 -- Bahá'u'lláh
 
-Prayer bpn6653 in 한국어 (bpn6653) 
+Prayer bpn6653 (bpn6653) 
 
 [bahaiprayers.net 6653](https://bahaiprayers.net/Book/Single/21/6653)
 
@@ -309,7 +309,7 @@ Prayer bpn6653 in 한국어 (bpn6653)
 
 -- Bahá'u'lláh
 
-Prayer bpn6654 in 한국어 (bpn6654) 
+Prayer bpn6654 (bpn6654) 
 
 [bahaiprayers.net 6654](https://bahaiprayers.net/Book/Single/21/6654)
 
@@ -322,7 +322,7 @@ Prayer bpn6654 in 한국어 (bpn6654)
 
 -- Bahá'u'lláh
 
-Prayer bpn6655 in 한국어 (bpn6655) 
+Prayer bpn6655 (bpn6655) 
 
 [bahaiprayers.net 6655](https://bahaiprayers.net/Book/Single/21/6655)
 
@@ -335,7 +335,7 @@ Prayer bpn6655 in 한국어 (bpn6655)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6656 in 한국어 (bpn6656) 
+Prayer bpn6656 (bpn6656) 
 
 [bahaiprayers.net 6656](https://bahaiprayers.net/Book/Single/21/6656)
 
@@ -352,7 +352,7 @@ Prayer bpn6656 in 한국어 (bpn6656)
 
 -- Bahá'u'lláh
 
-Prayer bpn6481 in 한국어 (bpn6481) 
+Prayer bpn6481 (bpn6481) 
 
 [bahaiprayers.net 6481](https://bahaiprayers.net/Book/Single/21/6481)
 
@@ -369,7 +369,7 @@ Prayer bpn6481 in 한국어 (bpn6481)
 
 -- Bahá'u'lláh
 
-Prayer bpn6496 in 한국어 (bpn6496) 
+Prayer bpn6496 (bpn6496) 
 
 [bahaiprayers.net 6496](https://bahaiprayers.net/Book/Single/21/6496)
 
@@ -382,7 +382,7 @@ Prayer bpn6496 in 한국어 (bpn6496)
 
 -- Báb
 
-Prayer bpn6497 in 한국어 (bpn6497) 
+Prayer bpn6497 (bpn6497) 
 
 [bahaiprayers.net 6497](https://bahaiprayers.net/Book/Single/21/6497)
 
@@ -395,7 +395,7 @@ Prayer bpn6497 in 한국어 (bpn6497)
 
 -- Báb
 
-Prayer bpn6498 in 한국어 (bpn6498) 
+Prayer bpn6498 (bpn6498) 
 
 [bahaiprayers.net 6498](https://bahaiprayers.net/Book/Single/21/6498)
 
@@ -408,7 +408,7 @@ Prayer bpn6498 in 한국어 (bpn6498)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6499 in 한국어 (bpn6499) 
+Prayer bpn6499 (bpn6499) 
 
 [bahaiprayers.net 6499](https://bahaiprayers.net/Book/Single/21/6499)
 
@@ -425,7 +425,7 @@ Prayer bpn6499 in 한국어 (bpn6499)
 
 -- Bahá'u'lláh
 
-Prayer bpn6500 in 한국어 (bpn6500) 
+Prayer bpn6500 (bpn6500) 
 
 [bahaiprayers.net 6500](https://bahaiprayers.net/Book/Single/21/6500)
 
@@ -442,7 +442,7 @@ Prayer bpn6500 in 한국어 (bpn6500)
 
 -- Bahá'u'lláh
 
-Prayer bpn6505 in 한국어 (bpn6505) 
+Prayer bpn6505 (bpn6505) 
 
 [bahaiprayers.net 6505](https://bahaiprayers.net/Book/Single/21/6505)
 
@@ -455,7 +455,7 @@ Prayer bpn6505 in 한국어 (bpn6505)
 
 -- Bahá'u'lláh
 
-Prayer bpn6506 in 한국어 (bpn6506) 
+Prayer bpn6506 (bpn6506) 
 
 [bahaiprayers.net 6506](https://bahaiprayers.net/Book/Single/21/6506)
 
@@ -468,7 +468,7 @@ Prayer bpn6506 in 한국어 (bpn6506)
 
 -- Bahá'u'lláh
 
-Prayer bpn6507 in 한국어 (bpn6507) 
+Prayer bpn6507 (bpn6507) 
 
 [bahaiprayers.net 6507](https://bahaiprayers.net/Book/Single/21/6507)
 
@@ -481,7 +481,7 @@ Prayer bpn6507 in 한국어 (bpn6507)
 
 -- Bahá'u'lláh
 
-Prayer bpn6508 in 한국어 (bpn6508) 
+Prayer bpn6508 (bpn6508) 
 
 [bahaiprayers.net 6508](https://bahaiprayers.net/Book/Single/21/6508)
 
@@ -494,7 +494,7 @@ Prayer bpn6508 in 한국어 (bpn6508)
 
 -- Báb
 
-Prayer bpn6509 in 한국어 (bpn6509) 
+Prayer bpn6509 (bpn6509) 
 
 [bahaiprayers.net 6509](https://bahaiprayers.net/Book/Single/21/6509)
 
@@ -507,7 +507,7 @@ Prayer bpn6509 in 한국어 (bpn6509)
 
 -- Báb
 
-Prayer bpn6510 in 한국어 (bpn6510) 
+Prayer bpn6510 (bpn6510) 
 
 [bahaiprayers.net 6510](https://bahaiprayers.net/Book/Single/21/6510)
 
@@ -520,7 +520,7 @@ Prayer bpn6510 in 한국어 (bpn6510)
 
 -- Báb
 
-Prayer bpn6511 in 한국어 (bpn6511) 
+Prayer bpn6511 (bpn6511) 
 
 [bahaiprayers.net 6511](https://bahaiprayers.net/Book/Single/21/6511)
 
@@ -533,7 +533,7 @@ Prayer bpn6511 in 한국어 (bpn6511)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6512 in 한국어 (bpn6512) 
+Prayer bpn6512 (bpn6512) 
 
 [bahaiprayers.net 6512](https://bahaiprayers.net/Book/Single/21/6512)
 
@@ -546,7 +546,7 @@ Prayer bpn6512 in 한국어 (bpn6512)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6513 in 한국어 (bpn6513) 
+Prayer bpn6513 (bpn6513) 
 
 [bahaiprayers.net 6513](https://bahaiprayers.net/Book/Single/21/6513)
 
@@ -563,7 +563,7 @@ Prayer bpn6513 in 한국어 (bpn6513)
 
 -- Bahá'u'lláh
 
-Prayer bpn6514 in 한국어 (bpn6514) 
+Prayer bpn6514 (bpn6514) 
 
 [bahaiprayers.net 6514](https://bahaiprayers.net/Book/Single/21/6514)
 
@@ -580,7 +580,7 @@ Prayer bpn6514 in 한국어 (bpn6514)
 
 -- Bahá'u'lláh
 
-Prayer bpn6657 in 한국어 (bpn6657) 
+Prayer bpn6657 (bpn6657) 
 
 [bahaiprayers.net 6657](https://bahaiprayers.net/Book/Single/21/6657)
 
@@ -597,7 +597,7 @@ Prayer bpn6657 in 한국어 (bpn6657)
 
 -- Bahá'u'lláh
 
-Prayer bpn6515 in 한국어 (bpn6515) 
+Prayer bpn6515 (bpn6515) 
 
 [bahaiprayers.net 6515](https://bahaiprayers.net/Book/Single/21/6515)
 
@@ -610,7 +610,7 @@ Prayer bpn6515 in 한국어 (bpn6515)
 
 -- Bahá'u'lláh
 
-Prayer bpn6516 in 한국어 (bpn6516) 
+Prayer bpn6516 (bpn6516) 
 
 [bahaiprayers.net 6516](https://bahaiprayers.net/Book/Single/21/6516)
 
@@ -623,7 +623,7 @@ Prayer bpn6516 in 한국어 (bpn6516)
 
 -- Bahá'u'lláh
 
-Prayer bpn6517 in 한국어 (bpn6517) 
+Prayer bpn6517 (bpn6517) 
 
 [bahaiprayers.net 6517](https://bahaiprayers.net/Book/Single/21/6517)
 
@@ -636,7 +636,7 @@ Prayer bpn6517 in 한국어 (bpn6517)
 
 -- Bahá'u'lláh
 
-Prayer bpn6518 in 한국어 (bpn6518) 
+Prayer bpn6518 (bpn6518) 
 
 [bahaiprayers.net 6518](https://bahaiprayers.net/Book/Single/21/6518)
 
@@ -649,7 +649,7 @@ Prayer bpn6518 in 한국어 (bpn6518)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6519 in 한국어 (bpn6519) 
+Prayer bpn6519 (bpn6519) 
 
 [bahaiprayers.net 6519](https://bahaiprayers.net/Book/Single/21/6519)
 
@@ -662,7 +662,7 @@ Prayer bpn6519 in 한국어 (bpn6519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6520 in 한국어 (bpn6520) 
+Prayer bpn6520 (bpn6520) 
 
 [bahaiprayers.net 6520](https://bahaiprayers.net/Book/Single/21/6520)
 
@@ -675,7 +675,7 @@ Prayer bpn6520 in 한국어 (bpn6520)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6521 in 한국어 (bpn6521) 
+Prayer bpn6521 (bpn6521) 
 
 [bahaiprayers.net 6521](https://bahaiprayers.net/Book/Single/21/6521)
 
@@ -688,7 +688,7 @@ Prayer bpn6521 in 한국어 (bpn6521)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6522 in 한국어 (bpn6522) 
+Prayer bpn6522 (bpn6522) 
 
 [bahaiprayers.net 6522](https://bahaiprayers.net/Book/Single/21/6522)
 
@@ -701,7 +701,7 @@ Prayer bpn6522 in 한국어 (bpn6522)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6523 in 한국어 (bpn6523) 
+Prayer bpn6523 (bpn6523) 
 
 [bahaiprayers.net 6523](https://bahaiprayers.net/Book/Single/21/6523)
 
@@ -714,7 +714,7 @@ Prayer bpn6523 in 한국어 (bpn6523)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6524 in 한국어 (bpn6524) 
+Prayer bpn6524 (bpn6524) 
 
 [bahaiprayers.net 6524](https://bahaiprayers.net/Book/Single/21/6524)
 
@@ -727,7 +727,7 @@ Prayer bpn6524 in 한국어 (bpn6524)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6525 in 한국어 (bpn6525) 
+Prayer bpn6525 (bpn6525) 
 
 [bahaiprayers.net 6525](https://bahaiprayers.net/Book/Single/21/6525)
 
@@ -740,7 +740,7 @@ Prayer bpn6525 in 한국어 (bpn6525)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6526 in 한국어 (bpn6526) 
+Prayer bpn6526 (bpn6526) 
 
 [bahaiprayers.net 6526](https://bahaiprayers.net/Book/Single/21/6526)
 
@@ -753,7 +753,7 @@ Prayer bpn6526 in 한국어 (bpn6526)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6527 in 한국어 (bpn6527) 
+Prayer bpn6527 (bpn6527) 
 
 [bahaiprayers.net 6527](https://bahaiprayers.net/Book/Single/21/6527)
 
@@ -766,7 +766,7 @@ Prayer bpn6527 in 한국어 (bpn6527)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6528 in 한국어 (bpn6528) 
+Prayer bpn6528 (bpn6528) 
 
 [bahaiprayers.net 6528](https://bahaiprayers.net/Book/Single/21/6528)
 
@@ -783,7 +783,7 @@ Prayer bpn6528 in 한국어 (bpn6528)
 
 -- Bahá'u'lláh
 
-Prayer bpn6658 in 한국어 (bpn6658) 
+Prayer bpn6658 (bpn6658) 
 
 [bahaiprayers.net 6658](https://bahaiprayers.net/Book/Single/21/6658)
 
@@ -800,7 +800,7 @@ Prayer bpn6658 in 한국어 (bpn6658)
 
 -- Bahá'u'lláh
 
-Prayer bpn6529 in 한국어 (bpn6529) 
+Prayer bpn6529 (bpn6529) 
 
 [bahaiprayers.net 6529](https://bahaiprayers.net/Book/Single/21/6529)
 
@@ -813,7 +813,7 @@ Prayer bpn6529 in 한국어 (bpn6529)
 
 -- Bahá'u'lláh
 
-Prayer bpn6530 in 한국어 (bpn6530) 
+Prayer bpn6530 (bpn6530) 
 
 [bahaiprayers.net 6530](https://bahaiprayers.net/Book/Single/21/6530)
 
@@ -826,7 +826,7 @@ Prayer bpn6530 in 한국어 (bpn6530)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6531 in 한국어 (bpn6531) 
+Prayer bpn6531 (bpn6531) 
 
 [bahaiprayers.net 6531](https://bahaiprayers.net/Book/Single/21/6531)
 
@@ -839,7 +839,7 @@ Prayer bpn6531 in 한국어 (bpn6531)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6532 in 한국어 (bpn6532) 
+Prayer bpn6532 (bpn6532) 
 
 [bahaiprayers.net 6532](https://bahaiprayers.net/Book/Single/21/6532)
 
@@ -852,7 +852,7 @@ Prayer bpn6532 in 한국어 (bpn6532)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6533 in 한국어 (bpn6533) 
+Prayer bpn6533 (bpn6533) 
 
 [bahaiprayers.net 6533](https://bahaiprayers.net/Book/Single/21/6533)
 
@@ -869,7 +869,7 @@ Prayer bpn6533 in 한국어 (bpn6533)
 
 -- Bahá'u'lláh
 
-Prayer bpn6534 in 한국어 (bpn6534) 
+Prayer bpn6534 (bpn6534) 
 
 [bahaiprayers.net 6534](https://bahaiprayers.net/Book/Single/21/6534)
 
@@ -882,7 +882,7 @@ Prayer bpn6534 in 한국어 (bpn6534)
 
 -- Bahá'u'lláh
 
-Prayer bpn6535 in 한국어 (bpn6535) 
+Prayer bpn6535 (bpn6535) 
 
 [bahaiprayers.net 6535](https://bahaiprayers.net/Book/Single/21/6535)
 
@@ -895,7 +895,7 @@ Prayer bpn6535 in 한국어 (bpn6535)
 
 -- Bahá'u'lláh
 
-Prayer bpn6536 in 한국어 (bpn6536) 
+Prayer bpn6536 (bpn6536) 
 
 [bahaiprayers.net 6536](https://bahaiprayers.net/Book/Single/21/6536)
 
@@ -908,7 +908,7 @@ Prayer bpn6536 in 한국어 (bpn6536)
 
 -- Bahá'u'lláh
 
-Prayer bpn6537 in 한국어 (bpn6537) 
+Prayer bpn6537 (bpn6537) 
 
 [bahaiprayers.net 6537](https://bahaiprayers.net/Book/Single/21/6537)
 
@@ -921,7 +921,7 @@ Prayer bpn6537 in 한국어 (bpn6537)
 
 -- Bahá'u'lláh
 
-Prayer bpn6538 in 한국어 (bpn6538) 
+Prayer bpn6538 (bpn6538) 
 
 [bahaiprayers.net 6538](https://bahaiprayers.net/Book/Single/21/6538)
 
@@ -934,7 +934,7 @@ Prayer bpn6538 in 한국어 (bpn6538)
 
 -- Báb
 
-Prayer bpn6539 in 한국어 (bpn6539) 
+Prayer bpn6539 (bpn6539) 
 
 [bahaiprayers.net 6539](https://bahaiprayers.net/Book/Single/21/6539)
 
@@ -947,7 +947,7 @@ Prayer bpn6539 in 한국어 (bpn6539)
 
 -- Báb
 
-Prayer bpn6540 in 한국어 (bpn6540) 
+Prayer bpn6540 (bpn6540) 
 
 [bahaiprayers.net 6540](https://bahaiprayers.net/Book/Single/21/6540)
 
@@ -960,7 +960,7 @@ Prayer bpn6540 in 한국어 (bpn6540)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6541 in 한국어 (bpn6541) 
+Prayer bpn6541 (bpn6541) 
 
 [bahaiprayers.net 6541](https://bahaiprayers.net/Book/Single/21/6541)
 
@@ -977,7 +977,7 @@ Prayer bpn6541 in 한국어 (bpn6541)
 
 -- Bahá'u'lláh
 
-Prayer bpn6542 in 한국어 (bpn6542) 
+Prayer bpn6542 (bpn6542) 
 
 [bahaiprayers.net 6542](https://bahaiprayers.net/Book/Single/21/6542)
 
@@ -990,7 +990,7 @@ Prayer bpn6542 in 한국어 (bpn6542)
 
 -- Bahá'u'lláh
 
-Prayer bpn6543 in 한국어 (bpn6543) 
+Prayer bpn6543 (bpn6543) 
 
 [bahaiprayers.net 6543](https://bahaiprayers.net/Book/Single/21/6543)
 
@@ -1003,7 +1003,7 @@ Prayer bpn6543 in 한국어 (bpn6543)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6544 in 한국어 (bpn6544) 
+Prayer bpn6544 (bpn6544) 
 
 [bahaiprayers.net 6544](https://bahaiprayers.net/Book/Single/21/6544)
 
@@ -1016,7 +1016,7 @@ Prayer bpn6544 in 한국어 (bpn6544)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6545 in 한국어 (bpn6545) 
+Prayer bpn6545 (bpn6545) 
 
 [bahaiprayers.net 6545](https://bahaiprayers.net/Book/Single/21/6545)
 
@@ -1033,7 +1033,7 @@ Prayer bpn6545 in 한국어 (bpn6545)
 
 -- Bahá'u'lláh
 
-Prayer bpn6546 in 한국어 (bpn6546) 
+Prayer bpn6546 (bpn6546) 
 
 [bahaiprayers.net 6546](https://bahaiprayers.net/Book/Single/21/6546)
 
@@ -1046,7 +1046,7 @@ Prayer bpn6546 in 한국어 (bpn6546)
 
 -- Bahá'u'lláh
 
-Prayer bpn6547 in 한국어 (bpn6547) 
+Prayer bpn6547 (bpn6547) 
 
 [bahaiprayers.net 6547](https://bahaiprayers.net/Book/Single/21/6547)
 
@@ -1059,7 +1059,7 @@ Prayer bpn6547 in 한국어 (bpn6547)
 
 -- Bahá'u'lláh
 
-Prayer bpn6548 in 한국어 (bpn6548) 
+Prayer bpn6548 (bpn6548) 
 
 [bahaiprayers.net 6548](https://bahaiprayers.net/Book/Single/21/6548)
 
@@ -1072,7 +1072,7 @@ Prayer bpn6548 in 한국어 (bpn6548)
 
 -- Bahá'u'lláh
 
-Prayer bpn6549 in 한국어 (bpn6549) 
+Prayer bpn6549 (bpn6549) 
 
 [bahaiprayers.net 6549](https://bahaiprayers.net/Book/Single/21/6549)
 
@@ -1085,7 +1085,7 @@ Prayer bpn6549 in 한국어 (bpn6549)
 
 -- Bahá'u'lláh
 
-Prayer bpn6550 in 한국어 (bpn6550) 
+Prayer bpn6550 (bpn6550) 
 
 [bahaiprayers.net 6550](https://bahaiprayers.net/Book/Single/21/6550)
 
@@ -1098,7 +1098,7 @@ Prayer bpn6550 in 한국어 (bpn6550)
 
 -- Báb
 
-Prayer bpn6551 in 한국어 (bpn6551) 
+Prayer bpn6551 (bpn6551) 
 
 [bahaiprayers.net 6551](https://bahaiprayers.net/Book/Single/21/6551)
 
@@ -1111,7 +1111,7 @@ Prayer bpn6551 in 한국어 (bpn6551)
 
 -- Báb
 
-Prayer bpn6552 in 한국어 (bpn6552) 
+Prayer bpn6552 (bpn6552) 
 
 [bahaiprayers.net 6552](https://bahaiprayers.net/Book/Single/21/6552)
 
@@ -1124,7 +1124,7 @@ Prayer bpn6552 in 한국어 (bpn6552)
 
 -- Báb
 
-Prayer bpn6553 in 한국어 (bpn6553) 
+Prayer bpn6553 (bpn6553) 
 
 [bahaiprayers.net 6553](https://bahaiprayers.net/Book/Single/21/6553)
 
@@ -1137,7 +1137,7 @@ Prayer bpn6553 in 한국어 (bpn6553)
 
 -- Báb
 
-Prayer bpn6554 in 한국어 (bpn6554) 
+Prayer bpn6554 (bpn6554) 
 
 [bahaiprayers.net 6554](https://bahaiprayers.net/Book/Single/21/6554)
 
@@ -1150,7 +1150,7 @@ Prayer bpn6554 in 한국어 (bpn6554)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6555 in 한국어 (bpn6555) 
+Prayer bpn6555 (bpn6555) 
 
 [bahaiprayers.net 6555](https://bahaiprayers.net/Book/Single/21/6555)
 
@@ -1167,7 +1167,7 @@ Prayer bpn6555 in 한국어 (bpn6555)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6556 in 한국어 (bpn6556) 
+Prayer bpn6556 (bpn6556) 
 
 [bahaiprayers.net 6556](https://bahaiprayers.net/Book/Single/21/6556)
 
@@ -1180,7 +1180,7 @@ Prayer bpn6556 in 한국어 (bpn6556)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6557 in 한국어 (bpn6557) 
+Prayer bpn6557 (bpn6557) 
 
 [bahaiprayers.net 6557](https://bahaiprayers.net/Book/Single/21/6557)
 
@@ -1193,7 +1193,7 @@ Prayer bpn6557 in 한국어 (bpn6557)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6558 in 한국어 (bpn6558) 
+Prayer bpn6558 (bpn6558) 
 
 [bahaiprayers.net 6558](https://bahaiprayers.net/Book/Single/21/6558)
 
@@ -1210,7 +1210,7 @@ Prayer bpn6558 in 한국어 (bpn6558)
 
 -- Bahá'u'lláh
 
-Prayer bpn6559 in 한국어 (bpn6559) 
+Prayer bpn6559 (bpn6559) 
 
 [bahaiprayers.net 6559](https://bahaiprayers.net/Book/Single/21/6559)
 
@@ -1223,7 +1223,7 @@ Prayer bpn6559 in 한국어 (bpn6559)
 
 -- Bahá'u'lláh
 
-Prayer bpn6560 in 한국어 (bpn6560) 
+Prayer bpn6560 (bpn6560) 
 
 [bahaiprayers.net 6560](https://bahaiprayers.net/Book/Single/21/6560)
 
@@ -1236,7 +1236,7 @@ Prayer bpn6560 in 한국어 (bpn6560)
 
 -- Bahá'u'lláh
 
-Prayer bpn6561 in 한국어 (bpn6561) 
+Prayer bpn6561 (bpn6561) 
 
 [bahaiprayers.net 6561](https://bahaiprayers.net/Book/Single/21/6561)
 
@@ -1253,7 +1253,7 @@ Prayer bpn6561 in 한국어 (bpn6561)
 
 -- Bahá'u'lláh
 
-Prayer bpn6660 in 한국어 (bpn6660) 
+Prayer bpn6660 (bpn6660) 
 
 [bahaiprayers.net 6660](https://bahaiprayers.net/Book/Single/21/6660)
 
@@ -1266,7 +1266,7 @@ Prayer bpn6660 in 한국어 (bpn6660)
 
 -- Bahá'u'lláh
 
-Prayer bpn6662 in 한국어 (bpn6662) 
+Prayer bpn6662 (bpn6662) 
 
 [bahaiprayers.net 6662](https://bahaiprayers.net/Book/Single/21/6662)
 
@@ -1279,7 +1279,7 @@ Prayer bpn6662 in 한국어 (bpn6662)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6661 in 한국어 (bpn6661) 
+Prayer bpn6661 (bpn6661) 
 
 [bahaiprayers.net 6661](https://bahaiprayers.net/Book/Single/21/6661)
 
@@ -1296,7 +1296,7 @@ Prayer bpn6661 in 한국어 (bpn6661)
 
 -- Bahá'u'lláh
 
-Prayer bpn6562 in 한국어 (bpn6562) 
+Prayer bpn6562 (bpn6562) 
 
 [bahaiprayers.net 6562](https://bahaiprayers.net/Book/Single/21/6562)
 
@@ -1309,7 +1309,7 @@ Prayer bpn6562 in 한국어 (bpn6562)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6563 in 한국어 (bpn6563) 
+Prayer bpn6563 (bpn6563) 
 
 [bahaiprayers.net 6563](https://bahaiprayers.net/Book/Single/21/6563)
 
@@ -1322,7 +1322,7 @@ Prayer bpn6563 in 한국어 (bpn6563)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6564 in 한국어 (bpn6564) 
+Prayer bpn6564 (bpn6564) 
 
 [bahaiprayers.net 6564](https://bahaiprayers.net/Book/Single/21/6564)
 
@@ -1335,7 +1335,7 @@ Prayer bpn6564 in 한국어 (bpn6564)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6565 in 한국어 (bpn6565) 
+Prayer bpn6565 (bpn6565) 
 
 [bahaiprayers.net 6565](https://bahaiprayers.net/Book/Single/21/6565)
 
@@ -1348,7 +1348,7 @@ Prayer bpn6565 in 한국어 (bpn6565)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6566 in 한국어 (bpn6566) 
+Prayer bpn6566 (bpn6566) 
 
 [bahaiprayers.net 6566](https://bahaiprayers.net/Book/Single/21/6566)
 
@@ -1361,7 +1361,7 @@ Prayer bpn6566 in 한국어 (bpn6566)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6567 in 한국어 (bpn6567) 
+Prayer bpn6567 (bpn6567) 
 
 [bahaiprayers.net 6567](https://bahaiprayers.net/Book/Single/21/6567)
 
@@ -1374,7 +1374,7 @@ Prayer bpn6567 in 한국어 (bpn6567)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6568 in 한국어 (bpn6568) 
+Prayer bpn6568 (bpn6568) 
 
 [bahaiprayers.net 6568](https://bahaiprayers.net/Book/Single/21/6568)
 
@@ -1387,7 +1387,7 @@ Prayer bpn6568 in 한국어 (bpn6568)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6569 in 한국어 (bpn6569) 
+Prayer bpn6569 (bpn6569) 
 
 [bahaiprayers.net 6569](https://bahaiprayers.net/Book/Single/21/6569)
 
@@ -1400,7 +1400,7 @@ Prayer bpn6569 in 한국어 (bpn6569)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6570 in 한국어 (bpn6570) 
+Prayer bpn6570 (bpn6570) 
 
 [bahaiprayers.net 6570](https://bahaiprayers.net/Book/Single/21/6570)
 
@@ -1417,7 +1417,7 @@ Prayer bpn6570 in 한국어 (bpn6570)
 
 -- Bahá'u'lláh
 
-Prayer bpn6571 in 한국어 (bpn6571) 
+Prayer bpn6571 (bpn6571) 
 
 [bahaiprayers.net 6571](https://bahaiprayers.net/Book/Single/21/6571)
 
@@ -1430,7 +1430,7 @@ Prayer bpn6571 in 한국어 (bpn6571)
 
 -- Bahá'u'lláh
 
-Prayer bpn6572 in 한국어 (bpn6572) 
+Prayer bpn6572 (bpn6572) 
 
 [bahaiprayers.net 6572](https://bahaiprayers.net/Book/Single/21/6572)
 
@@ -1447,7 +1447,7 @@ Prayer bpn6572 in 한국어 (bpn6572)
 
 -- Bahá'u'lláh
 
-Prayer bpn6573 in 한국어 (bpn6573) 
+Prayer bpn6573 (bpn6573) 
 
 [bahaiprayers.net 6573](https://bahaiprayers.net/Book/Single/21/6573)
 
@@ -1460,7 +1460,7 @@ Prayer bpn6573 in 한국어 (bpn6573)
 
 -- Bahá'u'lláh
 
-Prayer bpn6574 in 한국어 (bpn6574) 
+Prayer bpn6574 (bpn6574) 
 
 [bahaiprayers.net 6574](https://bahaiprayers.net/Book/Single/21/6574)
 
@@ -1473,7 +1473,7 @@ Prayer bpn6574 in 한국어 (bpn6574)
 
 -- Bahá'u'lláh
 
-Prayer bpn6575 in 한국어 (bpn6575) 
+Prayer bpn6575 (bpn6575) 
 
 [bahaiprayers.net 6575](https://bahaiprayers.net/Book/Single/21/6575)
 
@@ -1486,7 +1486,7 @@ Prayer bpn6575 in 한국어 (bpn6575)
 
 -- Bahá'u'lláh
 
-Prayer bpn6576 in 한국어 (bpn6576) 
+Prayer bpn6576 (bpn6576) 
 
 [bahaiprayers.net 6576](https://bahaiprayers.net/Book/Single/21/6576)
 
@@ -1499,7 +1499,7 @@ Prayer bpn6576 in 한국어 (bpn6576)
 
 -- Báb
 
-Prayer bpn6577 in 한국어 (bpn6577) 
+Prayer bpn6577 (bpn6577) 
 
 [bahaiprayers.net 6577](https://bahaiprayers.net/Book/Single/21/6577)
 
@@ -1512,7 +1512,7 @@ Prayer bpn6577 in 한국어 (bpn6577)
 
 -- Báb
 
-Prayer bpn6578 in 한국어 (bpn6578) 
+Prayer bpn6578 (bpn6578) 
 
 [bahaiprayers.net 6578](https://bahaiprayers.net/Book/Single/21/6578)
 
@@ -1525,7 +1525,7 @@ Prayer bpn6578 in 한국어 (bpn6578)
 
 -- Báb
 
-Prayer bpn6579 in 한국어 (bpn6579) 
+Prayer bpn6579 (bpn6579) 
 
 [bahaiprayers.net 6579](https://bahaiprayers.net/Book/Single/21/6579)
 
@@ -1538,7 +1538,7 @@ Prayer bpn6579 in 한국어 (bpn6579)
 
 -- Báb
 
-Prayer bpn6580 in 한국어 (bpn6580) 
+Prayer bpn6580 (bpn6580) 
 
 [bahaiprayers.net 6580](https://bahaiprayers.net/Book/Single/21/6580)
 
@@ -1551,7 +1551,7 @@ Prayer bpn6580 in 한국어 (bpn6580)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6581 in 한국어 (bpn6581) 
+Prayer bpn6581 (bpn6581) 
 
 [bahaiprayers.net 6581](https://bahaiprayers.net/Book/Single/21/6581)
 
@@ -1568,7 +1568,7 @@ Prayer bpn6581 in 한국어 (bpn6581)
 
 -- Bahá'u'lláh
 
-Prayer bpn6582 in 한국어 (bpn6582) 
+Prayer bpn6582 (bpn6582) 
 
 [bahaiprayers.net 6582](https://bahaiprayers.net/Book/Single/21/6582)
 
@@ -1581,7 +1581,7 @@ Prayer bpn6582 in 한국어 (bpn6582)
 
 -- Bahá'u'lláh
 
-Prayer bpn6583 in 한국어 (bpn6583) 
+Prayer bpn6583 (bpn6583) 
 
 [bahaiprayers.net 6583](https://bahaiprayers.net/Book/Single/21/6583)
 
@@ -1594,7 +1594,7 @@ Prayer bpn6583 in 한국어 (bpn6583)
 
 -- Bahá'u'lláh
 
-Prayer bpn6584 in 한국어 (bpn6584) 
+Prayer bpn6584 (bpn6584) 
 
 [bahaiprayers.net 6584](https://bahaiprayers.net/Book/Single/21/6584)
 
@@ -1607,7 +1607,7 @@ Prayer bpn6584 in 한국어 (bpn6584)
 
 -- Báb
 
-Prayer bpn6585 in 한국어 (bpn6585) 
+Prayer bpn6585 (bpn6585) 
 
 [bahaiprayers.net 6585](https://bahaiprayers.net/Book/Single/21/6585)
 
@@ -1620,7 +1620,7 @@ Prayer bpn6585 in 한국어 (bpn6585)
 
 -- Báb
 
-Prayer bpn6586 in 한국어 (bpn6586) 
+Prayer bpn6586 (bpn6586) 
 
 [bahaiprayers.net 6586](https://bahaiprayers.net/Book/Single/21/6586)
 
@@ -1633,7 +1633,7 @@ Prayer bpn6586 in 한국어 (bpn6586)
 
 -- Báb
 
-Prayer bpn6587 in 한국어 (bpn6587) 
+Prayer bpn6587 (bpn6587) 
 
 [bahaiprayers.net 6587](https://bahaiprayers.net/Book/Single/21/6587)
 
@@ -1646,7 +1646,7 @@ Prayer bpn6587 in 한국어 (bpn6587)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6588 in 한국어 (bpn6588) 
+Prayer bpn6588 (bpn6588) 
 
 [bahaiprayers.net 6588](https://bahaiprayers.net/Book/Single/21/6588)
 
@@ -1659,7 +1659,7 @@ Prayer bpn6588 in 한국어 (bpn6588)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6589 in 한국어 (bpn6589) 
+Prayer bpn6589 (bpn6589) 
 
 [bahaiprayers.net 6589](https://bahaiprayers.net/Book/Single/21/6589)
 
@@ -1672,7 +1672,7 @@ Prayer bpn6589 in 한국어 (bpn6589)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6590 in 한국어 (bpn6590) 
+Prayer bpn6590 (bpn6590) 
 
 [bahaiprayers.net 6590](https://bahaiprayers.net/Book/Single/21/6590)
 
@@ -1685,7 +1685,7 @@ Prayer bpn6590 in 한국어 (bpn6590)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6591 in 한국어 (bpn6591) 
+Prayer bpn6591 (bpn6591) 
 
 [bahaiprayers.net 6591](https://bahaiprayers.net/Book/Single/21/6591)
 
@@ -1702,7 +1702,7 @@ Prayer bpn6591 in 한국어 (bpn6591)
 
 -- Bahá'u'lláh
 
-Prayer bpn6592 in 한국어 (bpn6592) 
+Prayer bpn6592 (bpn6592) 
 
 [bahaiprayers.net 6592](https://bahaiprayers.net/Book/Single/21/6592)
 
@@ -1715,7 +1715,7 @@ Prayer bpn6592 in 한국어 (bpn6592)
 
 -- Bahá'u'lláh
 
-Prayer bpn6593 in 한국어 (bpn6593) 
+Prayer bpn6593 (bpn6593) 
 
 [bahaiprayers.net 6593](https://bahaiprayers.net/Book/Single/21/6593)
 
@@ -1728,7 +1728,7 @@ Prayer bpn6593 in 한국어 (bpn6593)
 
 -- Bahá'u'lláh
 
-Prayer bpn6594 in 한국어 (bpn6594) 
+Prayer bpn6594 (bpn6594) 
 
 [bahaiprayers.net 6594](https://bahaiprayers.net/Book/Single/21/6594)
 
@@ -1741,7 +1741,7 @@ Prayer bpn6594 in 한국어 (bpn6594)
 
 -- Bahá'u'lláh
 
-Prayer bpn6595 in 한국어 (bpn6595) 
+Prayer bpn6595 (bpn6595) 
 
 [bahaiprayers.net 6595](https://bahaiprayers.net/Book/Single/21/6595)
 
@@ -1754,7 +1754,7 @@ Prayer bpn6595 in 한국어 (bpn6595)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6596 in 한국어 (bpn6596) 
+Prayer bpn6596 (bpn6596) 
 
 [bahaiprayers.net 6596](https://bahaiprayers.net/Book/Single/21/6596)
 
@@ -1771,7 +1771,7 @@ Prayer bpn6596 in 한국어 (bpn6596)
 
 -- Bahá'u'lláh
 
-Prayer bpn6501 in 한국어 (bpn6501) 
+Prayer bpn6501 (bpn6501) 
 
 [bahaiprayers.net 6501](https://bahaiprayers.net/Book/Single/21/6501)
 
@@ -1784,7 +1784,7 @@ Prayer bpn6501 in 한국어 (bpn6501)
 
 -- Bahá'u'lláh
 
-Prayer bpn6502 in 한국어 (bpn6502) 
+Prayer bpn6502 (bpn6502) 
 
 [bahaiprayers.net 6502](https://bahaiprayers.net/Book/Single/21/6502)
 
@@ -1797,7 +1797,7 @@ Prayer bpn6502 in 한국어 (bpn6502)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6503 in 한국어 (bpn6503) 
+Prayer bpn6503 (bpn6503) 
 
 [bahaiprayers.net 6503](https://bahaiprayers.net/Book/Single/21/6503)
 
@@ -1810,7 +1810,7 @@ Prayer bpn6503 in 한국어 (bpn6503)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6504 in 한국어 (bpn6504) 
+Prayer bpn6504 (bpn6504) 
 
 [bahaiprayers.net 6504](https://bahaiprayers.net/Book/Single/21/6504)
 
@@ -1827,7 +1827,7 @@ Prayer bpn6504 in 한국어 (bpn6504)
 
 -- Bahá'u'lláh
 
-Prayer bpn6597 in 한국어 (bpn6597) 
+Prayer bpn6597 (bpn6597) 
 
 [bahaiprayers.net 6597](https://bahaiprayers.net/Book/Single/21/6597)
 
@@ -1840,7 +1840,7 @@ Prayer bpn6597 in 한국어 (bpn6597)
 
 -- Bahá'u'lláh
 
-Prayer bpn6598 in 한국어 (bpn6598) 
+Prayer bpn6598 (bpn6598) 
 
 [bahaiprayers.net 6598](https://bahaiprayers.net/Book/Single/21/6598)
 
@@ -1853,7 +1853,7 @@ Prayer bpn6598 in 한국어 (bpn6598)
 
 -- Bahá'u'lláh
 
-Prayer bpn6599 in 한국어 (bpn6599) 
+Prayer bpn6599 (bpn6599) 
 
 [bahaiprayers.net 6599](https://bahaiprayers.net/Book/Single/21/6599)
 
@@ -1870,7 +1870,7 @@ Prayer bpn6599 in 한국어 (bpn6599)
 
 -- Bahá'u'lláh
 
-Prayer bpn6600 in 한국어 (bpn6600) 
+Prayer bpn6600 (bpn6600) 
 
 [bahaiprayers.net 6600](https://bahaiprayers.net/Book/Single/21/6600)
 
@@ -1883,7 +1883,7 @@ Prayer bpn6600 in 한국어 (bpn6600)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6601 in 한국어 (bpn6601) 
+Prayer bpn6601 (bpn6601) 
 
 [bahaiprayers.net 6601](https://bahaiprayers.net/Book/Single/21/6601)
 
@@ -1896,7 +1896,7 @@ Prayer bpn6601 in 한국어 (bpn6601)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6602 in 한국어 (bpn6602) 
+Prayer bpn6602 (bpn6602) 
 
 [bahaiprayers.net 6602](https://bahaiprayers.net/Book/Single/21/6602)
 
@@ -1913,7 +1913,7 @@ Prayer bpn6602 in 한국어 (bpn6602)
 
 -- Bahá'u'lláh
 
-Prayer bpn6603 in 한국어 (bpn6603) 
+Prayer bpn6603 (bpn6603) 
 
 [bahaiprayers.net 6603](https://bahaiprayers.net/Book/Single/21/6603)
 
@@ -1926,7 +1926,7 @@ Prayer bpn6603 in 한국어 (bpn6603)
 
 -- Bahá'u'lláh
 
-Prayer bpn6604 in 한국어 (bpn6604) 
+Prayer bpn6604 (bpn6604) 
 
 [bahaiprayers.net 6604](https://bahaiprayers.net/Book/Single/21/6604)
 
@@ -1939,7 +1939,7 @@ Prayer bpn6604 in 한국어 (bpn6604)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6605 in 한국어 (bpn6605) 
+Prayer bpn6605 (bpn6605) 
 
 [bahaiprayers.net 6605](https://bahaiprayers.net/Book/Single/21/6605)
 
@@ -1956,7 +1956,7 @@ Prayer bpn6605 in 한국어 (bpn6605)
 
 -- Bahá'u'lláh
 
-Prayer bpn6483 in 한국어 (bpn6483) 
+Prayer bpn6483 (bpn6483) 
 
 [bahaiprayers.net 6483](https://bahaiprayers.net/Book/Single/21/6483)
 
@@ -1973,7 +1973,7 @@ Prayer bpn6483 in 한국어 (bpn6483)
 
 -- Bahá'u'lláh
 
-Prayer bpn6606 in 한국어 (bpn6606) 
+Prayer bpn6606 (bpn6606) 
 
 [bahaiprayers.net 6606](https://bahaiprayers.net/Book/Single/21/6606)
 
@@ -1986,7 +1986,7 @@ Prayer bpn6606 in 한국어 (bpn6606)
 
 -- Bahá'u'lláh
 
-Prayer bpn6607 in 한국어 (bpn6607) 
+Prayer bpn6607 (bpn6607) 
 
 [bahaiprayers.net 6607](https://bahaiprayers.net/Book/Single/21/6607)
 
@@ -1999,7 +1999,7 @@ Prayer bpn6607 in 한국어 (bpn6607)
 
 -- Bahá'u'lláh
 
-Prayer bpn6608 in 한국어 (bpn6608) 
+Prayer bpn6608 (bpn6608) 
 
 [bahaiprayers.net 6608](https://bahaiprayers.net/Book/Single/21/6608)
 
@@ -2012,7 +2012,7 @@ Prayer bpn6608 in 한국어 (bpn6608)
 
 -- Bahá'u'lláh
 
-Prayer bpn6609 in 한국어 (bpn6609) 
+Prayer bpn6609 (bpn6609) 
 
 [bahaiprayers.net 6609](https://bahaiprayers.net/Book/Single/21/6609)
 
@@ -2025,7 +2025,7 @@ Prayer bpn6609 in 한국어 (bpn6609)
 
 -- Bahá'u'lláh
 
-Prayer bpn6610 in 한국어 (bpn6610) 
+Prayer bpn6610 (bpn6610) 
 
 [bahaiprayers.net 6610](https://bahaiprayers.net/Book/Single/21/6610)
 
@@ -2038,7 +2038,7 @@ Prayer bpn6610 in 한국어 (bpn6610)
 
 -- Bahá'u'lláh
 
-Prayer bpn6611 in 한국어 (bpn6611) 
+Prayer bpn6611 (bpn6611) 
 
 [bahaiprayers.net 6611](https://bahaiprayers.net/Book/Single/21/6611)
 
@@ -2051,7 +2051,7 @@ Prayer bpn6611 in 한국어 (bpn6611)
 
 -- Bahá'u'lláh
 
-Prayer bpn6612 in 한국어 (bpn6612) 
+Prayer bpn6612 (bpn6612) 
 
 [bahaiprayers.net 6612](https://bahaiprayers.net/Book/Single/21/6612)
 
@@ -2064,7 +2064,7 @@ Prayer bpn6612 in 한국어 (bpn6612)
 
 -- Bahá'u'lláh
 
-Prayer bpn6620 in 한국어 (bpn6620) 
+Prayer bpn6620 (bpn6620) 
 
 [bahaiprayers.net 6620](https://bahaiprayers.net/Book/Single/21/6620)
 
@@ -2077,7 +2077,7 @@ Prayer bpn6620 in 한국어 (bpn6620)
 
 -- Báb
 
-Prayer bpn6613 in 한국어 (bpn6613) 
+Prayer bpn6613 (bpn6613) 
 
 [bahaiprayers.net 6613](https://bahaiprayers.net/Book/Single/21/6613)
 
@@ -2090,7 +2090,7 @@ Prayer bpn6613 in 한국어 (bpn6613)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6614 in 한국어 (bpn6614) 
+Prayer bpn6614 (bpn6614) 
 
 [bahaiprayers.net 6614](https://bahaiprayers.net/Book/Single/21/6614)
 
@@ -2103,7 +2103,7 @@ Prayer bpn6614 in 한국어 (bpn6614)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6615 in 한국어 (bpn6615) 
+Prayer bpn6615 (bpn6615) 
 
 [bahaiprayers.net 6615](https://bahaiprayers.net/Book/Single/21/6615)
 
@@ -2116,7 +2116,7 @@ Prayer bpn6615 in 한국어 (bpn6615)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6616 in 한국어 (bpn6616) 
+Prayer bpn6616 (bpn6616) 
 
 [bahaiprayers.net 6616](https://bahaiprayers.net/Book/Single/21/6616)
 
@@ -2129,7 +2129,7 @@ Prayer bpn6616 in 한국어 (bpn6616)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6617 in 한국어 (bpn6617) 
+Prayer bpn6617 (bpn6617) 
 
 [bahaiprayers.net 6617](https://bahaiprayers.net/Book/Single/21/6617)
 
@@ -2142,7 +2142,7 @@ Prayer bpn6617 in 한국어 (bpn6617)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6618 in 한국어 (bpn6618) 
+Prayer bpn6618 (bpn6618) 
 
 [bahaiprayers.net 6618](https://bahaiprayers.net/Book/Single/21/6618)
 
@@ -2155,7 +2155,7 @@ Prayer bpn6618 in 한국어 (bpn6618)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6619 in 한국어 (bpn6619) 
+Prayer bpn6619 (bpn6619) 
 
 [bahaiprayers.net 6619](https://bahaiprayers.net/Book/Single/21/6619)
 
@@ -2172,7 +2172,7 @@ Prayer bpn6619 in 한국어 (bpn6619)
 
 -- Bahá'u'lláh
 
-Prayer bpn6482 in 한국어 (bpn6482) 
+Prayer bpn6482 (bpn6482) 
 
 [bahaiprayers.net 6482](https://bahaiprayers.net/Book/Single/21/6482)
 
@@ -2189,7 +2189,7 @@ Prayer bpn6482 in 한국어 (bpn6482)
 
 -- Bahá'u'lláh
 
-Prayer bpn6621 in 한국어 (bpn6621) 
+Prayer bpn6621 (bpn6621) 
 
 [bahaiprayers.net 6621](https://bahaiprayers.net/Book/Single/21/6621)
 
@@ -2202,7 +2202,7 @@ Prayer bpn6621 in 한국어 (bpn6621)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6622 in 한국어 (bpn6622) 
+Prayer bpn6622 (bpn6622) 
 
 [bahaiprayers.net 6622](https://bahaiprayers.net/Book/Single/21/6622)
 
@@ -2215,7 +2215,7 @@ Prayer bpn6622 in 한국어 (bpn6622)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6623 in 한국어 (bpn6623) 
+Prayer bpn6623 (bpn6623) 
 
 [bahaiprayers.net 6623](https://bahaiprayers.net/Book/Single/21/6623)
 
@@ -2228,7 +2228,7 @@ Prayer bpn6623 in 한국어 (bpn6623)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6624 in 한국어 (bpn6624) 
+Prayer bpn6624 (bpn6624) 
 
 [bahaiprayers.net 6624](https://bahaiprayers.net/Book/Single/21/6624)
 
@@ -2241,7 +2241,7 @@ Prayer bpn6624 in 한국어 (bpn6624)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6625 in 한국어 (bpn6625) 
+Prayer bpn6625 (bpn6625) 
 
 [bahaiprayers.net 6625](https://bahaiprayers.net/Book/Single/21/6625)
 
@@ -2258,7 +2258,7 @@ Prayer bpn6625 in 한국어 (bpn6625)
 
 -- Bahá'u'lláh
 
-Prayer bpn6626 in 한국어 (bpn6626) 
+Prayer bpn6626 (bpn6626) 
 
 [bahaiprayers.net 6626](https://bahaiprayers.net/Book/Single/21/6626)
 
@@ -2271,7 +2271,7 @@ Prayer bpn6626 in 한국어 (bpn6626)
 
 -- Bahá'u'lláh
 
-Prayer bpn6627 in 한국어 (bpn6627) 
+Prayer bpn6627 (bpn6627) 
 
 [bahaiprayers.net 6627](https://bahaiprayers.net/Book/Single/21/6627)
 
@@ -2284,7 +2284,7 @@ Prayer bpn6627 in 한국어 (bpn6627)
 
 -- Bahá'u'lláh
 
-Prayer bpn6628 in 한국어 (bpn6628) 
+Prayer bpn6628 (bpn6628) 
 
 [bahaiprayers.net 6628](https://bahaiprayers.net/Book/Single/21/6628)
 
@@ -2297,7 +2297,7 @@ Prayer bpn6628 in 한국어 (bpn6628)
 
 -- Bahá'u'lláh
 
-Prayer bpn6629 in 한국어 (bpn6629) 
+Prayer bpn6629 (bpn6629) 
 
 [bahaiprayers.net 6629](https://bahaiprayers.net/Book/Single/21/6629)
 
@@ -2310,7 +2310,7 @@ Prayer bpn6629 in 한국어 (bpn6629)
 
 -- Báb
 
-Prayer bpn6630 in 한국어 (bpn6630) 
+Prayer bpn6630 (bpn6630) 
 
 [bahaiprayers.net 6630](https://bahaiprayers.net/Book/Single/21/6630)
 
@@ -2327,7 +2327,7 @@ Prayer bpn6630 in 한국어 (bpn6630)
 
 -- Bahá'u'lláh
 
-Prayer bpn6631 in 한국어 (bpn6631) 
+Prayer bpn6631 (bpn6631) 
 
 [bahaiprayers.net 6631](https://bahaiprayers.net/Book/Single/21/6631)
 
@@ -2340,7 +2340,7 @@ Prayer bpn6631 in 한국어 (bpn6631)
 
 -- Bahá'u'lláh
 
-Prayer bpn6632 in 한국어 (bpn6632) 
+Prayer bpn6632 (bpn6632) 
 
 [bahaiprayers.net 6632](https://bahaiprayers.net/Book/Single/21/6632)
 
@@ -2353,7 +2353,7 @@ Prayer bpn6632 in 한국어 (bpn6632)
 
 -- Bahá'u'lláh
 
-Prayer bpn6633 in 한국어 (bpn6633) 
+Prayer bpn6633 (bpn6633) 
 
 [bahaiprayers.net 6633](https://bahaiprayers.net/Book/Single/21/6633)
 
@@ -2366,7 +2366,7 @@ Prayer bpn6633 in 한국어 (bpn6633)
 
 -- Bahá'u'lláh
 
-Prayer bpn6634 in 한국어 (bpn6634) 
+Prayer bpn6634 (bpn6634) 
 
 [bahaiprayers.net 6634](https://bahaiprayers.net/Book/Single/21/6634)
 
@@ -2379,7 +2379,7 @@ Prayer bpn6634 in 한국어 (bpn6634)
 
 -- Bahá'u'lláh
 
-Prayer bpn6635 in 한국어 (bpn6635) 
+Prayer bpn6635 (bpn6635) 
 
 [bahaiprayers.net 6635](https://bahaiprayers.net/Book/Single/21/6635)
 
@@ -2392,7 +2392,7 @@ Prayer bpn6635 in 한국어 (bpn6635)
 
 -- Bahá'u'lláh
 
-Prayer bpn6636 in 한국어 (bpn6636) 
+Prayer bpn6636 (bpn6636) 
 
 [bahaiprayers.net 6636](https://bahaiprayers.net/Book/Single/21/6636)
 
@@ -2405,7 +2405,7 @@ Prayer bpn6636 in 한국어 (bpn6636)
 
 -- Bahá'u'lláh
 
-Prayer bpn6637 in 한국어 (bpn6637) 
+Prayer bpn6637 (bpn6637) 
 
 [bahaiprayers.net 6637](https://bahaiprayers.net/Book/Single/21/6637)
 
@@ -2422,7 +2422,7 @@ Prayer bpn6637 in 한국어 (bpn6637)
 
 -- Bahá'u'lláh
 
-Prayer bpn6638 in 한국어 (bpn6638) 
+Prayer bpn6638 (bpn6638) 
 
 [bahaiprayers.net 6638](https://bahaiprayers.net/Book/Single/21/6638)
 
@@ -2435,7 +2435,7 @@ Prayer bpn6638 in 한국어 (bpn6638)
 
 -- Báb
 
-Prayer bpn6639 in 한국어 (bpn6639) 
+Prayer bpn6639 (bpn6639) 
 
 [bahaiprayers.net 6639](https://bahaiprayers.net/Book/Single/21/6639)
 
@@ -2448,7 +2448,7 @@ Prayer bpn6639 in 한국어 (bpn6639)
 
 -- Báb
 
-Prayer bpn6640 in 한국어 (bpn6640) 
+Prayer bpn6640 (bpn6640) 
 
 [bahaiprayers.net 6640](https://bahaiprayers.net/Book/Single/21/6640)
 
@@ -2461,7 +2461,7 @@ Prayer bpn6640 in 한국어 (bpn6640)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6641 in 한국어 (bpn6641) 
+Prayer bpn6641 (bpn6641) 
 
 [bahaiprayers.net 6641](https://bahaiprayers.net/Book/Single/21/6641)
 
@@ -2474,7 +2474,7 @@ Prayer bpn6641 in 한국어 (bpn6641)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6642 in 한국어 (bpn6642) 
+Prayer bpn6642 (bpn6642) 
 
 [bahaiprayers.net 6642](https://bahaiprayers.net/Book/Single/21/6642)
 
@@ -2491,7 +2491,7 @@ Prayer bpn6642 in 한국어 (bpn6642)
 
 -- Bahá'u'lláh
 
-Prayer bpn6643 in 한국어 (bpn6643) 
+Prayer bpn6643 (bpn6643) 
 
 [bahaiprayers.net 6643](https://bahaiprayers.net/Book/Single/21/6643)
 
@@ -2504,7 +2504,7 @@ Prayer bpn6643 in 한국어 (bpn6643)
 
 -- Bahá'u'lláh
 
-Prayer bpn6644 in 한국어 (bpn6644) 
+Prayer bpn6644 (bpn6644) 
 
 [bahaiprayers.net 6644](https://bahaiprayers.net/Book/Single/21/6644)
 
@@ -2521,7 +2521,7 @@ Prayer bpn6644 in 한국어 (bpn6644)
 
 -- Bahá'u'lláh
 
-Prayer bpn6645 in 한국어 (bpn6645) 
+Prayer bpn6645 (bpn6645) 
 
 [bahaiprayers.net 6645](https://bahaiprayers.net/Book/Single/21/6645)
 
@@ -2534,7 +2534,7 @@ Prayer bpn6645 in 한국어 (bpn6645)
 
 -- Bahá'u'lláh
 
-Prayer bpn6646 in 한국어 (bpn6646) 
+Prayer bpn6646 (bpn6646) 
 
 [bahaiprayers.net 6646](https://bahaiprayers.net/Book/Single/21/6646)
 
@@ -2547,7 +2547,7 @@ Prayer bpn6646 in 한국어 (bpn6646)
 
 -- Bahá'u'lláh
 
-Prayer bpn6647 in 한국어 (bpn6647) 
+Prayer bpn6647 (bpn6647) 
 
 [bahaiprayers.net 6647](https://bahaiprayers.net/Book/Single/21/6647)
 
@@ -2560,7 +2560,7 @@ Prayer bpn6647 in 한국어 (bpn6647)
 
 -- Bahá'u'lláh
 
-Prayer bpn6648 in 한국어 (bpn6648) 
+Prayer bpn6648 (bpn6648) 
 
 [bahaiprayers.net 6648](https://bahaiprayers.net/Book/Single/21/6648)
 
@@ -2573,7 +2573,7 @@ Prayer bpn6648 in 한국어 (bpn6648)
 
 -- Báb
 
-Prayer bpn6649 in 한국어 (bpn6649) 
+Prayer bpn6649 (bpn6649) 
 
 [bahaiprayers.net 6649](https://bahaiprayers.net/Book/Single/21/6649)
 
@@ -2586,7 +2586,7 @@ Prayer bpn6649 in 한국어 (bpn6649)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6650 in 한국어 (bpn6650) 
+Prayer bpn6650 (bpn6650) 
 
 [bahaiprayers.net 6650](https://bahaiprayers.net/Book/Single/21/6650)
 
@@ -2599,7 +2599,7 @@ Prayer bpn6650 in 한국어 (bpn6650)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6651 in 한국어 (bpn6651) 
+Prayer bpn6651 (bpn6651) 
 
 [bahaiprayers.net 6651](https://bahaiprayers.net/Book/Single/21/6651)
 

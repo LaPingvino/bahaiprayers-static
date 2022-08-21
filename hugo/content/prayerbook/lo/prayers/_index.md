@@ -104,7 +104,7 @@ tags = ['lang=lo', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12770 in ພາສາລາວ (bpn12770) 
+Prayer bpn12770 (bpn12770) 
 
 [bahaiprayers.net 12770](https://bahaiprayers.net/Book/Single/108/12770)
 
@@ -117,7 +117,7 @@ Prayer bpn12770 in ພາສາລາວ (bpn12770)
 
 -- Bahá'u'lláh
 
-Prayer bpn12771 in ພາສາລາວ (bpn12771) 
+Prayer bpn12771 (bpn12771) 
 
 [bahaiprayers.net 12771](https://bahaiprayers.net/Book/Single/108/12771)
 
@@ -130,7 +130,7 @@ Prayer bpn12771 in ພາສາລາວ (bpn12771)
 
 -- Báb
 
-Prayer bpn12772 in ພາສາລາວ (bpn12772) 
+Prayer bpn12772 (bpn12772) 
 
 [bahaiprayers.net 12772](https://bahaiprayers.net/Book/Single/108/12772)
 
@@ -143,7 +143,7 @@ Prayer bpn12772 in ພາສາລາວ (bpn12772)
 
 -- Báb
 
-Prayer bpn12773 in ພາສາລາວ (bpn12773) 
+Prayer bpn12773 (bpn12773) 
 
 [bahaiprayers.net 12773](https://bahaiprayers.net/Book/Single/108/12773)
 
@@ -156,7 +156,7 @@ Prayer bpn12773 in ພາສາລາວ (bpn12773)
 
 -- Báb
 
-Prayer bpn12774 in ພາສາລາວ (bpn12774) 
+Prayer bpn12774 (bpn12774) 
 
 [bahaiprayers.net 12774](https://bahaiprayers.net/Book/Single/108/12774)
 
@@ -169,7 +169,7 @@ Prayer bpn12774 in ພາສາລາວ (bpn12774)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12775 in ພາສາລາວ (bpn12775) 
+Prayer bpn12775 (bpn12775) 
 
 [bahaiprayers.net 12775](https://bahaiprayers.net/Book/Single/108/12775)
 
@@ -182,7 +182,7 @@ Prayer bpn12775 in ພາສາລາວ (bpn12775)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12776 in ພາສາລາວ (bpn12776) 
+Prayer bpn12776 (bpn12776) 
 
 [bahaiprayers.net 12776](https://bahaiprayers.net/Book/Single/108/12776)
 
@@ -199,7 +199,7 @@ Prayer bpn12776 in ພາສາລາວ (bpn12776)
 
 -- Bahá'u'lláh
 
-Prayer bpn12754 in ພາສາລາວ (bpn12754) 
+Prayer bpn12754 (bpn12754) 
 
 [bahaiprayers.net 12754](https://bahaiprayers.net/Book/Single/108/12754)
 
@@ -212,7 +212,7 @@ Prayer bpn12754 in ພາສາລາວ (bpn12754)
 
 -- Bahá'u'lláh
 
-Prayer bpn12755 in ພາສາລາວ (bpn12755) 
+Prayer bpn12755 (bpn12755) 
 
 [bahaiprayers.net 12755](https://bahaiprayers.net/Book/Single/108/12755)
 
@@ -225,7 +225,7 @@ Prayer bpn12755 in ພາສາລາວ (bpn12755)
 
 -- Bahá'u'lláh
 
-Prayer bpn12756 in ພາສາລາວ (bpn12756) 
+Prayer bpn12756 (bpn12756) 
 
 [bahaiprayers.net 12756](https://bahaiprayers.net/Book/Single/108/12756)
 
@@ -238,7 +238,7 @@ Prayer bpn12756 in ພາສາລາວ (bpn12756)
 
 -- Báb
 
-Prayer bpn12757 in ພາສາລາວ (bpn12757) 
+Prayer bpn12757 (bpn12757) 
 
 [bahaiprayers.net 12757](https://bahaiprayers.net/Book/Single/108/12757)
 
@@ -251,7 +251,7 @@ Prayer bpn12757 in ພາສາລາວ (bpn12757)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12758 in ພາສາລາວ (bpn12758) 
+Prayer bpn12758 (bpn12758) 
 
 [bahaiprayers.net 12758](https://bahaiprayers.net/Book/Single/108/12758)
 
@@ -264,7 +264,7 @@ Prayer bpn12758 in ພາສາລາວ (bpn12758)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12759 in ພາສາລາວ (bpn12759) 
+Prayer bpn12759 (bpn12759) 
 
 [bahaiprayers.net 12759](https://bahaiprayers.net/Book/Single/108/12759)
 
@@ -281,7 +281,7 @@ Prayer bpn12759 in ພາສາລາວ (bpn12759)
 
 -- Bahá'u'lláh
 
-Prayer bpn12792 in ພາສາລາວ (bpn12792) 
+Prayer bpn12792 (bpn12792) 
 
 [bahaiprayers.net 12792](https://bahaiprayers.net/Book/Single/108/12792)
 
@@ -294,7 +294,7 @@ Prayer bpn12792 in ພາສາລາວ (bpn12792)
 
 -- Bahá'u'lláh
 
-Prayer bpn12793 in ພາສາລາວ (bpn12793) 
+Prayer bpn12793 (bpn12793) 
 
 [bahaiprayers.net 12793](https://bahaiprayers.net/Book/Single/108/12793)
 
@@ -307,7 +307,7 @@ Prayer bpn12793 in ພາສາລາວ (bpn12793)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12794 in ພາສາລາວ (bpn12794) 
+Prayer bpn12794 (bpn12794) 
 
 [bahaiprayers.net 12794](https://bahaiprayers.net/Book/Single/108/12794)
 
@@ -320,7 +320,7 @@ Prayer bpn12794 in ພາສາລາວ (bpn12794)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12795 in ພາສາລາວ (bpn12795) 
+Prayer bpn12795 (bpn12795) 
 
 [bahaiprayers.net 12795](https://bahaiprayers.net/Book/Single/108/12795)
 
@@ -337,7 +337,7 @@ Prayer bpn12795 in ພາສາລາວ (bpn12795)
 
 -- Bahá'u'lláh
 
-Prayer bpn12827 in ພາສາລາວ (bpn12827) 
+Prayer bpn12827 (bpn12827) 
 
 [bahaiprayers.net 12827](https://bahaiprayers.net/Book/Single/108/12827)
 
@@ -354,7 +354,7 @@ Prayer bpn12827 in ພາສາລາວ (bpn12827)
 
 -- Bahá'u'lláh
 
-Prayer bpn12830 in ພາສາລາວ (bpn12830) 
+Prayer bpn12830 (bpn12830) 
 
 [bahaiprayers.net 12830](https://bahaiprayers.net/Book/Single/108/12830)
 
@@ -371,7 +371,7 @@ Prayer bpn12830 in ພາສາລາວ (bpn12830)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12835 in ພາສາລາວ (bpn12835) 
+Prayer bpn12835 (bpn12835) 
 
 [bahaiprayers.net 12835](https://bahaiprayers.net/Book/Single/108/12835)
 
@@ -388,7 +388,7 @@ Prayer bpn12835 in ພາສາລາວ (bpn12835)
 
 -- Bahá'u'lláh
 
-Prayer bpn12752 in ພາສາລາວ (bpn12752) 
+Prayer bpn12752 (bpn12752) 
 
 [bahaiprayers.net 12752](https://bahaiprayers.net/Book/Single/108/12752)
 
@@ -405,7 +405,7 @@ Prayer bpn12752 in ພາສາລາວ (bpn12752)
 
 -- Bahá'u'lláh
 
-Prayer bpn12751 in ພາສາລາວ (bpn12751) 
+Prayer bpn12751 (bpn12751) 
 
 [bahaiprayers.net 12751](https://bahaiprayers.net/Book/Single/108/12751)
 
@@ -422,7 +422,7 @@ Prayer bpn12751 in ພາສາລາວ (bpn12751)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12859 in ພາສາລາວ (bpn12859) 
+Prayer bpn12859 (bpn12859) 
 
 [bahaiprayers.net 12859](https://bahaiprayers.net/Book/Single/108/12859)
 
@@ -439,7 +439,7 @@ Prayer bpn12859 in ພາສາລາວ (bpn12859)
 
 -- Bahá'u'lláh
 
-Prayer bpn12797 in ພາສາລາວ (bpn12797) 
+Prayer bpn12797 (bpn12797) 
 
 [bahaiprayers.net 12797](https://bahaiprayers.net/Book/Single/108/12797)
 
@@ -456,7 +456,7 @@ Prayer bpn12797 in ພາສາລາວ (bpn12797)
 
 -- Bahá'u'lláh
 
-Prayer bpn12833 in ພາສາລາວ (bpn12833) 
+Prayer bpn12833 (bpn12833) 
 
 [bahaiprayers.net 12833](https://bahaiprayers.net/Book/Single/108/12833)
 
@@ -469,7 +469,7 @@ Prayer bpn12833 in ພາສາລາວ (bpn12833)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12789 in ພາສາລາວ (bpn12789) 
+Prayer bpn12789 (bpn12789) 
 
 [bahaiprayers.net 12789](https://bahaiprayers.net/Book/Single/108/12789)
 
@@ -486,7 +486,7 @@ Prayer bpn12789 in ພາສາລາວ (bpn12789)
 
 -- Bahá'u'lláh
 
-Prayer bpn12834 in ພາສາລາວ (bpn12834) 
+Prayer bpn12834 (bpn12834) 
 
 [bahaiprayers.net 12834](https://bahaiprayers.net/Book/Single/108/12834)
 
@@ -503,7 +503,7 @@ Prayer bpn12834 in ພາສາລາວ (bpn12834)
 
 -- Bahá'u'lláh
 
-Prayer bpn12858 in ພາສາລາວ (bpn12858) 
+Prayer bpn12858 (bpn12858) 
 
 [bahaiprayers.net 12858](https://bahaiprayers.net/Book/Single/108/12858)
 
@@ -520,7 +520,7 @@ Prayer bpn12858 in ພາສາລາວ (bpn12858)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12820 in ພາສາລາວ (bpn12820) 
+Prayer bpn12820 (bpn12820) 
 
 [bahaiprayers.net 12820](https://bahaiprayers.net/Book/Single/108/12820)
 
@@ -537,7 +537,7 @@ Prayer bpn12820 in ພາສາລາວ (bpn12820)
 
 -- Bahá'u'lláh
 
-Prayer bpn12828 in ພາສາລາວ (bpn12828) 
+Prayer bpn12828 (bpn12828) 
 
 [bahaiprayers.net 12828](https://bahaiprayers.net/Book/Single/108/12828)
 
@@ -550,7 +550,7 @@ Prayer bpn12828 in ພາສາລາວ (bpn12828)
 
 -- Bahá'u'lláh
 
-Prayer bpn12829 in ພາສາລາວ (bpn12829) 
+Prayer bpn12829 (bpn12829) 
 
 [bahaiprayers.net 12829](https://bahaiprayers.net/Book/Single/108/12829)
 
@@ -567,7 +567,7 @@ Prayer bpn12829 in ພາສາລາວ (bpn12829)
 
 -- Bahá'u'lláh
 
-Prayer bpn12861 in ພາສາລາວ (bpn12861) 
+Prayer bpn12861 (bpn12861) 
 
 [bahaiprayers.net 12861](https://bahaiprayers.net/Book/Single/108/12861)
 
@@ -584,7 +584,7 @@ Prayer bpn12861 in ພາສາລາວ (bpn12861)
 
 -- Bahá'u'lláh
 
-Prayer bpn12860 in ພາສາລາວ (bpn12860) 
+Prayer bpn12860 (bpn12860) 
 
 [bahaiprayers.net 12860](https://bahaiprayers.net/Book/Single/108/12860)
 
@@ -601,7 +601,7 @@ Prayer bpn12860 in ພາສາລາວ (bpn12860)
 
 -- Báb
 
-Prayer bpn12840 in ພາສາລາວ (bpn12840) 
+Prayer bpn12840 (bpn12840) 
 
 [bahaiprayers.net 12840](https://bahaiprayers.net/Book/Single/108/12840)
 
@@ -618,7 +618,7 @@ Prayer bpn12840 in ພາສາລາວ (bpn12840)
 
 -- Bahá'u'lláh
 
-Prayer bpn12836 in ພາສາລາວ (bpn12836) 
+Prayer bpn12836 (bpn12836) 
 
 [bahaiprayers.net 12836](https://bahaiprayers.net/Book/Single/108/12836)
 
@@ -631,7 +631,7 @@ Prayer bpn12836 in ພາສາລາວ (bpn12836)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12837 in ພາສາລາວ (bpn12837) 
+Prayer bpn12837 (bpn12837) 
 
 [bahaiprayers.net 12837](https://bahaiprayers.net/Book/Single/108/12837)
 
@@ -644,7 +644,7 @@ Prayer bpn12837 in ພາສາລາວ (bpn12837)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12838 in ພາສາລາວ (bpn12838) 
+Prayer bpn12838 (bpn12838) 
 
 [bahaiprayers.net 12838](https://bahaiprayers.net/Book/Single/108/12838)
 
@@ -657,7 +657,7 @@ Prayer bpn12838 in ພາສາລາວ (bpn12838)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12839 in ພາສາລາວ (bpn12839) 
+Prayer bpn12839 (bpn12839) 
 
 [bahaiprayers.net 12839](https://bahaiprayers.net/Book/Single/108/12839)
 
@@ -674,7 +674,7 @@ Prayer bpn12839 in ພາສາລາວ (bpn12839)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12855 in ພາສາລາວ (bpn12855) 
+Prayer bpn12855 (bpn12855) 
 
 [bahaiprayers.net 12855](https://bahaiprayers.net/Book/Single/108/12855)
 
@@ -691,7 +691,7 @@ Prayer bpn12855 in ພາສາລາວ (bpn12855)
 
 -- Bahá'u'lláh
 
-Prayer bpn12845 in ພາສາລາວ (bpn12845) 
+Prayer bpn12845 (bpn12845) 
 
 [bahaiprayers.net 12845](https://bahaiprayers.net/Book/Single/108/12845)
 
@@ -704,7 +704,7 @@ Prayer bpn12845 in ພາສາລາວ (bpn12845)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12846 in ພາສາລາວ (bpn12846) 
+Prayer bpn12846 (bpn12846) 
 
 [bahaiprayers.net 12846](https://bahaiprayers.net/Book/Single/108/12846)
 
@@ -717,7 +717,7 @@ Prayer bpn12846 in ພາສາລາວ (bpn12846)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12847 in ພາສາລາວ (bpn12847) 
+Prayer bpn12847 (bpn12847) 
 
 [bahaiprayers.net 12847](https://bahaiprayers.net/Book/Single/108/12847)
 
@@ -730,7 +730,7 @@ Prayer bpn12847 in ພາສາລາວ (bpn12847)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12848 in ພາສາລາວ (bpn12848) 
+Prayer bpn12848 (bpn12848) 
 
 [bahaiprayers.net 12848](https://bahaiprayers.net/Book/Single/108/12848)
 
@@ -743,7 +743,7 @@ Prayer bpn12848 in ພາສາລາວ (bpn12848)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12849 in ພາສາລາວ (bpn12849) 
+Prayer bpn12849 (bpn12849) 
 
 [bahaiprayers.net 12849](https://bahaiprayers.net/Book/Single/108/12849)
 
@@ -756,7 +756,7 @@ Prayer bpn12849 in ພາສາລາວ (bpn12849)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12850 in ພາສາລາວ (bpn12850) 
+Prayer bpn12850 (bpn12850) 
 
 [bahaiprayers.net 12850](https://bahaiprayers.net/Book/Single/108/12850)
 
@@ -769,7 +769,7 @@ Prayer bpn12850 in ພາສາລາວ (bpn12850)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12851 in ພາສາລາວ (bpn12851) 
+Prayer bpn12851 (bpn12851) 
 
 [bahaiprayers.net 12851](https://bahaiprayers.net/Book/Single/108/12851)
 
@@ -782,7 +782,7 @@ Prayer bpn12851 in ພາສາລາວ (bpn12851)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12852 in ພາສາລາວ (bpn12852) 
+Prayer bpn12852 (bpn12852) 
 
 [bahaiprayers.net 12852](https://bahaiprayers.net/Book/Single/108/12852)
 
@@ -795,7 +795,7 @@ Prayer bpn12852 in ພາສາລາວ (bpn12852)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12853 in ພາສາລາວ (bpn12853) 
+Prayer bpn12853 (bpn12853) 
 
 [bahaiprayers.net 12853](https://bahaiprayers.net/Book/Single/108/12853)
 
@@ -808,7 +808,7 @@ Prayer bpn12853 in ພາສາລາວ (bpn12853)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12854 in ພາສາລາວ (bpn12854) 
+Prayer bpn12854 (bpn12854) 
 
 [bahaiprayers.net 12854](https://bahaiprayers.net/Book/Single/108/12854)
 
@@ -825,7 +825,7 @@ Prayer bpn12854 in ພາສາລາວ (bpn12854)
 
 -- Bahá'u'lláh
 
-Prayer bpn12807 in ພາສາລາວ (bpn12807) 
+Prayer bpn12807 (bpn12807) 
 
 [bahaiprayers.net 12807](https://bahaiprayers.net/Book/Single/108/12807)
 
@@ -838,7 +838,7 @@ Prayer bpn12807 in ພາສາລາວ (bpn12807)
 
 -- Bahá'u'lláh
 
-Prayer bpn12808 in ພາສາລາວ (bpn12808) 
+Prayer bpn12808 (bpn12808) 
 
 [bahaiprayers.net 12808](https://bahaiprayers.net/Book/Single/108/12808)
 
@@ -851,7 +851,7 @@ Prayer bpn12808 in ພາສາລາວ (bpn12808)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12809 in ພາສາລາວ (bpn12809) 
+Prayer bpn12809 (bpn12809) 
 
 [bahaiprayers.net 12809](https://bahaiprayers.net/Book/Single/108/12809)
 
@@ -864,7 +864,7 @@ Prayer bpn12809 in ພາສາລາວ (bpn12809)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12810 in ພາສາລາວ (bpn12810) 
+Prayer bpn12810 (bpn12810) 
 
 [bahaiprayers.net 12810](https://bahaiprayers.net/Book/Single/108/12810)
 
@@ -881,7 +881,7 @@ Prayer bpn12810 in ພາສາລາວ (bpn12810)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12796 in ພາສາລາວ (bpn12796) 
+Prayer bpn12796 (bpn12796) 
 
 [bahaiprayers.net 12796](https://bahaiprayers.net/Book/Single/108/12796)
 
@@ -898,7 +898,7 @@ Prayer bpn12796 in ພາສາລາວ (bpn12796)
 
 -- Bahá'u'lláh
 
-Prayer bpn12786 in ພາສາລາວ (bpn12786) 
+Prayer bpn12786 (bpn12786) 
 
 [bahaiprayers.net 12786](https://bahaiprayers.net/Book/Single/108/12786)
 
@@ -911,7 +911,7 @@ Prayer bpn12786 in ພາສາລາວ (bpn12786)
 
 -- Báb
 
-Prayer bpn12788 in ພາສາລາວ (bpn12788) 
+Prayer bpn12788 (bpn12788) 
 
 [bahaiprayers.net 12788](https://bahaiprayers.net/Book/Single/108/12788)
 
@@ -928,7 +928,7 @@ Prayer bpn12788 in ພາສາລາວ (bpn12788)
 
 -- Bahá'u'lláh
 
-Prayer bpn12841 in ພາສາລາວ (bpn12841) 
+Prayer bpn12841 (bpn12841) 
 
 [bahaiprayers.net 12841](https://bahaiprayers.net/Book/Single/108/12841)
 
@@ -941,7 +941,7 @@ Prayer bpn12841 in ພາສາລາວ (bpn12841)
 
 -- Báb
 
-Prayer bpn12842 in ພາສາລາວ (bpn12842) 
+Prayer bpn12842 (bpn12842) 
 
 [bahaiprayers.net 12842](https://bahaiprayers.net/Book/Single/108/12842)
 
@@ -954,7 +954,7 @@ Prayer bpn12842 in ພາສາລາວ (bpn12842)
 
 -- Báb
 
-Prayer bpn12843 in ພາສາລາວ (bpn12843) 
+Prayer bpn12843 (bpn12843) 
 
 [bahaiprayers.net 12843](https://bahaiprayers.net/Book/Single/108/12843)
 
@@ -967,7 +967,7 @@ Prayer bpn12843 in ພາສາລາວ (bpn12843)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12844 in ພາສາລາວ (bpn12844) 
+Prayer bpn12844 (bpn12844) 
 
 [bahaiprayers.net 12844](https://bahaiprayers.net/Book/Single/108/12844)
 
@@ -984,7 +984,7 @@ Prayer bpn12844 in ພາສາລາວ (bpn12844)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12802 in ພາສາລາວ (bpn12802) 
+Prayer bpn12802 (bpn12802) 
 
 [bahaiprayers.net 12802](https://bahaiprayers.net/Book/Single/108/12802)
 
@@ -1001,7 +1001,7 @@ Prayer bpn12802 in ພາສາລາວ (bpn12802)
 
 -- Bahá'u'lláh
 
-Prayer bpn12790 in ພາສາລາວ (bpn12790) 
+Prayer bpn12790 (bpn12790) 
 
 [bahaiprayers.net 12790](https://bahaiprayers.net/Book/Single/108/12790)
 
@@ -1014,7 +1014,7 @@ Prayer bpn12790 in ພາສາລາວ (bpn12790)
 
 -- Bahá'u'lláh
 
-Prayer bpn12791 in ພາສາລາວ (bpn12791) 
+Prayer bpn12791 (bpn12791) 
 
 [bahaiprayers.net 12791](https://bahaiprayers.net/Book/Single/108/12791)
 
@@ -1031,7 +1031,7 @@ Prayer bpn12791 in ພາສາລາວ (bpn12791)
 
 -- Bahá'u'lláh
 
-Prayer bpn12803 in ພາສາລາວ (bpn12803) 
+Prayer bpn12803 (bpn12803) 
 
 [bahaiprayers.net 12803](https://bahaiprayers.net/Book/Single/108/12803)
 
@@ -1044,7 +1044,7 @@ Prayer bpn12803 in ພາສາລາວ (bpn12803)
 
 -- Báb
 
-Prayer bpn12804 in ພາສາລາວ (bpn12804) 
+Prayer bpn12804 (bpn12804) 
 
 [bahaiprayers.net 12804](https://bahaiprayers.net/Book/Single/108/12804)
 
@@ -1057,7 +1057,7 @@ Prayer bpn12804 in ພາສາລາວ (bpn12804)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12805 in ພາສາລາວ (bpn12805) 
+Prayer bpn12805 (bpn12805) 
 
 [bahaiprayers.net 12805](https://bahaiprayers.net/Book/Single/108/12805)
 
@@ -1070,7 +1070,7 @@ Prayer bpn12805 in ພາສາລາວ (bpn12805)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12806 in ພາສາລາວ (bpn12806) 
+Prayer bpn12806 (bpn12806) 
 
 [bahaiprayers.net 12806](https://bahaiprayers.net/Book/Single/108/12806)
 
@@ -1087,7 +1087,7 @@ Prayer bpn12806 in ພາສາລາວ (bpn12806)
 
 -- Bahá'u'lláh
 
-Prayer bpn12815 in ພາສາລາວ (bpn12815) 
+Prayer bpn12815 (bpn12815) 
 
 [bahaiprayers.net 12815](https://bahaiprayers.net/Book/Single/108/12815)
 
@@ -1100,7 +1100,7 @@ Prayer bpn12815 in ພາສາລາວ (bpn12815)
 
 -- Báb
 
-Prayer bpn12816 in ພາສາລາວ (bpn12816) 
+Prayer bpn12816 (bpn12816) 
 
 [bahaiprayers.net 12816](https://bahaiprayers.net/Book/Single/108/12816)
 
@@ -1113,7 +1113,7 @@ Prayer bpn12816 in ພາສາລາວ (bpn12816)
 
 -- Báb
 
-Prayer bpn12817 in ພາສາລາວ (bpn12817) 
+Prayer bpn12817 (bpn12817) 
 
 [bahaiprayers.net 12817](https://bahaiprayers.net/Book/Single/108/12817)
 
@@ -1126,7 +1126,7 @@ Prayer bpn12817 in ພາສາລາວ (bpn12817)
 
 -- Báb
 
-Prayer bpn12818 in ພາສາລາວ (bpn12818) 
+Prayer bpn12818 (bpn12818) 
 
 [bahaiprayers.net 12818](https://bahaiprayers.net/Book/Single/108/12818)
 
@@ -1143,7 +1143,7 @@ Prayer bpn12818 in ພາສາລາວ (bpn12818)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12819 in ພາສາລາວ (bpn12819) 
+Prayer bpn12819 (bpn12819) 
 
 [bahaiprayers.net 12819](https://bahaiprayers.net/Book/Single/108/12819)
 
@@ -1160,7 +1160,7 @@ Prayer bpn12819 in ພາສາລາວ (bpn12819)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12821 in ພາສາລາວ (bpn12821) 
+Prayer bpn12821 (bpn12821) 
 
 [bahaiprayers.net 12821](https://bahaiprayers.net/Book/Single/108/12821)
 
@@ -1173,7 +1173,7 @@ Prayer bpn12821 in ພາສາລາວ (bpn12821)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12822 in ພາສາລາວ (bpn12822) 
+Prayer bpn12822 (bpn12822) 
 
 [bahaiprayers.net 12822](https://bahaiprayers.net/Book/Single/108/12822)
 
@@ -1186,7 +1186,7 @@ Prayer bpn12822 in ພາສາລາວ (bpn12822)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12823 in ພາສາລາວ (bpn12823) 
+Prayer bpn12823 (bpn12823) 
 
 [bahaiprayers.net 12823](https://bahaiprayers.net/Book/Single/108/12823)
 
@@ -1199,7 +1199,7 @@ Prayer bpn12823 in ພາສາລາວ (bpn12823)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12824 in ພາສາລາວ (bpn12824) 
+Prayer bpn12824 (bpn12824) 
 
 [bahaiprayers.net 12824](https://bahaiprayers.net/Book/Single/108/12824)
 
@@ -1212,7 +1212,7 @@ Prayer bpn12824 in ພາສາລາວ (bpn12824)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12825 in ພາສາລາວ (bpn12825) 
+Prayer bpn12825 (bpn12825) 
 
 [bahaiprayers.net 12825](https://bahaiprayers.net/Book/Single/108/12825)
 
@@ -1225,7 +1225,7 @@ Prayer bpn12825 in ພາສາລາວ (bpn12825)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12826 in ພາສາລາວ (bpn12826) 
+Prayer bpn12826 (bpn12826) 
 
 [bahaiprayers.net 12826](https://bahaiprayers.net/Book/Single/108/12826)
 
@@ -1242,7 +1242,7 @@ Prayer bpn12826 in ພາສາລາວ (bpn12826)
 
 -- Bahá'u'lláh
 
-Prayer bpn12779 in ພາສາລາວ (bpn12779) 
+Prayer bpn12779 (bpn12779) 
 
 [bahaiprayers.net 12779](https://bahaiprayers.net/Book/Single/108/12779)
 
@@ -1255,7 +1255,7 @@ Prayer bpn12779 in ພາສາລາວ (bpn12779)
 
 -- Bahá'u'lláh
 
-Prayer bpn12780 in ພາສາລາວ (bpn12780) 
+Prayer bpn12780 (bpn12780) 
 
 [bahaiprayers.net 12780](https://bahaiprayers.net/Book/Single/108/12780)
 
@@ -1272,7 +1272,7 @@ Prayer bpn12780 in ພາສາລາວ (bpn12780)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12863 in ພາສາລາວ (bpn12863) 
+Prayer bpn12863 (bpn12863) 
 
 [bahaiprayers.net 12863](https://bahaiprayers.net/Book/Single/108/12863)
 
@@ -1289,7 +1289,7 @@ Prayer bpn12863 in ພາສາລາວ (bpn12863)
 
 -- Bahá'u'lláh
 
-Prayer bpn12753 in ພາສາລາວ (bpn12753) 
+Prayer bpn12753 (bpn12753) 
 
 [bahaiprayers.net 12753](https://bahaiprayers.net/Book/Single/108/12753)
 
@@ -1306,7 +1306,7 @@ Prayer bpn12753 in ພາສາລາວ (bpn12753)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12811 in ພາສາລາວ (bpn12811) 
+Prayer bpn12811 (bpn12811) 
 
 [bahaiprayers.net 12811](https://bahaiprayers.net/Book/Single/108/12811)
 
@@ -1319,7 +1319,7 @@ Prayer bpn12811 in ພາສາລາວ (bpn12811)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12812 in ພາສາລາວ (bpn12812) 
+Prayer bpn12812 (bpn12812) 
 
 [bahaiprayers.net 12812](https://bahaiprayers.net/Book/Single/108/12812)
 
@@ -1332,7 +1332,7 @@ Prayer bpn12812 in ພາສາລາວ (bpn12812)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12813 in ພາສາລາວ (bpn12813) 
+Prayer bpn12813 (bpn12813) 
 
 [bahaiprayers.net 12813](https://bahaiprayers.net/Book/Single/108/12813)
 
@@ -1345,7 +1345,7 @@ Prayer bpn12813 in ພາສາລາວ (bpn12813)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12814 in ພາສາລາວ (bpn12814) 
+Prayer bpn12814 (bpn12814) 
 
 [bahaiprayers.net 12814](https://bahaiprayers.net/Book/Single/108/12814)
 
@@ -1362,7 +1362,7 @@ Prayer bpn12814 in ພາສາລາວ (bpn12814)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12831 in ພາສາລາວ (bpn12831) 
+Prayer bpn12831 (bpn12831) 
 
 [bahaiprayers.net 12831](https://bahaiprayers.net/Book/Single/108/12831)
 
@@ -1379,7 +1379,7 @@ Prayer bpn12831 in ພາສາລາວ (bpn12831)
 
 -- Bahá'u'lláh
 
-Prayer bpn12856 in ພາສາລາວ (bpn12856) 
+Prayer bpn12856 (bpn12856) 
 
 [bahaiprayers.net 12856](https://bahaiprayers.net/Book/Single/108/12856)
 
@@ -1392,7 +1392,7 @@ Prayer bpn12856 in ພາສາລາວ (bpn12856)
 
 -- Bahá'u'lláh
 
-Prayer bpn12857 in ພາສາລາວ (bpn12857) 
+Prayer bpn12857 (bpn12857) 
 
 [bahaiprayers.net 12857](https://bahaiprayers.net/Book/Single/108/12857)
 
@@ -1409,7 +1409,7 @@ Prayer bpn12857 in ພາສາລາວ (bpn12857)
 
 -- Bahá'u'lláh
 
-Prayer bpn12862 in ພາສາລາວ (bpn12862) 
+Prayer bpn12862 (bpn12862) 
 
 [bahaiprayers.net 12862](https://bahaiprayers.net/Book/Single/108/12862)
 
@@ -1426,7 +1426,7 @@ Prayer bpn12862 in ພາສາລາວ (bpn12862)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12832 in ພາສາລາວ (bpn12832) 
+Prayer bpn12832 (bpn12832) 
 
 [bahaiprayers.net 12832](https://bahaiprayers.net/Book/Single/108/12832)
 
@@ -1443,7 +1443,7 @@ Prayer bpn12832 in ພາສາລາວ (bpn12832)
 
 -- Bahá'u'lláh
 
-Prayer bpn12781 in ພາສາລາວ (bpn12781) 
+Prayer bpn12781 (bpn12781) 
 
 [bahaiprayers.net 12781](https://bahaiprayers.net/Book/Single/108/12781)
 
@@ -1456,7 +1456,7 @@ Prayer bpn12781 in ພາສາລາວ (bpn12781)
 
 -- Bahá'u'lláh
 
-Prayer bpn12782 in ພາສາລາວ (bpn12782) 
+Prayer bpn12782 (bpn12782) 
 
 [bahaiprayers.net 12782](https://bahaiprayers.net/Book/Single/108/12782)
 
@@ -1469,7 +1469,7 @@ Prayer bpn12782 in ພາສາລາວ (bpn12782)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12783 in ພາສາລາວ (bpn12783) 
+Prayer bpn12783 (bpn12783) 
 
 [bahaiprayers.net 12783](https://bahaiprayers.net/Book/Single/108/12783)
 
@@ -1482,7 +1482,7 @@ Prayer bpn12783 in ພາສາລາວ (bpn12783)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12784 in ພາສາລາວ (bpn12784) 
+Prayer bpn12784 (bpn12784) 
 
 [bahaiprayers.net 12784](https://bahaiprayers.net/Book/Single/108/12784)
 
@@ -1495,7 +1495,7 @@ Prayer bpn12784 in ພາສາລາວ (bpn12784)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12785 in ພາສາລາວ (bpn12785) 
+Prayer bpn12785 (bpn12785) 
 
 [bahaiprayers.net 12785](https://bahaiprayers.net/Book/Single/108/12785)
 
@@ -1512,7 +1512,7 @@ Prayer bpn12785 in ພາສາລາວ (bpn12785)
 
 -- Bahá'u'lláh
 
-Prayer bpn12787 in ພາສາລາວ (bpn12787) 
+Prayer bpn12787 (bpn12787) 
 
 [bahaiprayers.net 12787](https://bahaiprayers.net/Book/Single/108/12787)
 
@@ -1525,7 +1525,7 @@ Prayer bpn12787 in ພາສາລາວ (bpn12787)
 
 -- Bahá'u'lláh
 
-Prayer bpn12778 in ພາສາລາວ (bpn12778) 
+Prayer bpn12778 (bpn12778) 
 
 [bahaiprayers.net 12778](https://bahaiprayers.net/Book/Single/108/12778)
 
@@ -1542,7 +1542,7 @@ Prayer bpn12778 in ພາສາລາວ (bpn12778)
 
 -- Bahá'u'lláh
 
-Prayer bpn12798 in ພາສາລາວ (bpn12798) 
+Prayer bpn12798 (bpn12798) 
 
 [bahaiprayers.net 12798](https://bahaiprayers.net/Book/Single/108/12798)
 
@@ -1555,7 +1555,7 @@ Prayer bpn12798 in ພາສາລາວ (bpn12798)
 
 -- Bahá'u'lláh
 
-Prayer bpn12799 in ພາສາລາວ (bpn12799) 
+Prayer bpn12799 (bpn12799) 
 
 [bahaiprayers.net 12799](https://bahaiprayers.net/Book/Single/108/12799)
 
@@ -1568,7 +1568,7 @@ Prayer bpn12799 in ພາສາລາວ (bpn12799)
 
 -- Bahá'u'lláh
 
-Prayer bpn12800 in ພາສາລາວ (bpn12800) 
+Prayer bpn12800 (bpn12800) 
 
 [bahaiprayers.net 12800](https://bahaiprayers.net/Book/Single/108/12800)
 
@@ -1581,7 +1581,7 @@ Prayer bpn12800 in ພາສາລາວ (bpn12800)
 
 -- Bahá'u'lláh
 
-Prayer bpn12801 in ພາສາລາວ (bpn12801) 
+Prayer bpn12801 (bpn12801) 
 
 [bahaiprayers.net 12801](https://bahaiprayers.net/Book/Single/108/12801)
 
@@ -1598,7 +1598,7 @@ Prayer bpn12801 in ພາສາລາວ (bpn12801)
 
 -- Bahá'u'lláh
 
-Prayer bpn12760 in ພາສາລາວ (bpn12760) 
+Prayer bpn12760 (bpn12760) 
 
 [bahaiprayers.net 12760](https://bahaiprayers.net/Book/Single/108/12760)
 
@@ -1611,7 +1611,7 @@ Prayer bpn12760 in ພາສາລາວ (bpn12760)
 
 -- Bahá'u'lláh
 
-Prayer bpn12761 in ພາສາລາວ (bpn12761) 
+Prayer bpn12761 (bpn12761) 
 
 [bahaiprayers.net 12761](https://bahaiprayers.net/Book/Single/108/12761)
 
@@ -1624,7 +1624,7 @@ Prayer bpn12761 in ພາສາລາວ (bpn12761)
 
 -- Bahá'u'lláh
 
-Prayer bpn12762 in ພາສາລາວ (bpn12762) 
+Prayer bpn12762 (bpn12762) 
 
 [bahaiprayers.net 12762](https://bahaiprayers.net/Book/Single/108/12762)
 
@@ -1637,7 +1637,7 @@ Prayer bpn12762 in ພາສາລາວ (bpn12762)
 
 -- Bahá'u'lláh
 
-Prayer bpn12763 in ພາສາລາວ (bpn12763) 
+Prayer bpn12763 (bpn12763) 
 
 [bahaiprayers.net 12763](https://bahaiprayers.net/Book/Single/108/12763)
 
@@ -1650,7 +1650,7 @@ Prayer bpn12763 in ພາສາລາວ (bpn12763)
 
 -- Bahá'u'lláh
 
-Prayer bpn12764 in ພາສາລາວ (bpn12764) 
+Prayer bpn12764 (bpn12764) 
 
 [bahaiprayers.net 12764](https://bahaiprayers.net/Book/Single/108/12764)
 
@@ -1663,7 +1663,7 @@ Prayer bpn12764 in ພາສາລາວ (bpn12764)
 
 -- Báb
 
-Prayer bpn12765 in ພາສາລາວ (bpn12765) 
+Prayer bpn12765 (bpn12765) 
 
 [bahaiprayers.net 12765](https://bahaiprayers.net/Book/Single/108/12765)
 
@@ -1676,7 +1676,7 @@ Prayer bpn12765 in ພາສາລາວ (bpn12765)
 
 -- Báb
 
-Prayer bpn12766 in ພາສາລາວ (bpn12766) 
+Prayer bpn12766 (bpn12766) 
 
 [bahaiprayers.net 12766](https://bahaiprayers.net/Book/Single/108/12766)
 
@@ -1689,7 +1689,7 @@ Prayer bpn12766 in ພາສາລາວ (bpn12766)
 
 -- Báb
 
-Prayer bpn12767 in ພາສາລາວ (bpn12767) 
+Prayer bpn12767 (bpn12767) 
 
 [bahaiprayers.net 12767](https://bahaiprayers.net/Book/Single/108/12767)
 
@@ -1702,7 +1702,7 @@ Prayer bpn12767 in ພາສາລາວ (bpn12767)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12768 in ພາສາລາວ (bpn12768) 
+Prayer bpn12768 (bpn12768) 
 
 [bahaiprayers.net 12768](https://bahaiprayers.net/Book/Single/108/12768)
 
@@ -1715,7 +1715,7 @@ Prayer bpn12768 in ພາສາລາວ (bpn12768)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12769 in ພາສາລາວ (bpn12769) 
+Prayer bpn12769 (bpn12769) 
 
 [bahaiprayers.net 12769](https://bahaiprayers.net/Book/Single/108/12769)
 
@@ -1732,7 +1732,7 @@ Prayer bpn12769 in ພາສາລາວ (bpn12769)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12777 in ພາສາລາວ (bpn12777) 
+Prayer bpn12777 (bpn12777) 
 
 [bahaiprayers.net 12777](https://bahaiprayers.net/Book/Single/108/12777)
 

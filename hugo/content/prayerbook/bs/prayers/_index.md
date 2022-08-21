@@ -94,7 +94,7 @@ tags = ['lang=bs', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn5322 in Bosanski (bpn5322) 
+Prayer bpn5322 (bpn5322) 
 
 [bahaiprayers.net 5322](https://bahaiprayers.net/Book/Single/41/5322)
 
@@ -111,7 +111,7 @@ Prayer bpn5322 in Bosanski (bpn5322)
 
 -- Bahá'u'lláh
 
-Prayer bpn5220 in Bosanski (bpn5220) 
+Prayer bpn5220 (bpn5220) 
 
 [bahaiprayers.net 5220](https://bahaiprayers.net/Book/Single/41/5220)
 
@@ -124,7 +124,7 @@ Prayer bpn5220 in Bosanski (bpn5220)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5221 in Bosanski (bpn5221) 
+Prayer bpn5221 (bpn5221) 
 
 [bahaiprayers.net 5221](https://bahaiprayers.net/Book/Single/41/5221)
 
@@ -137,7 +137,7 @@ Prayer bpn5221 in Bosanski (bpn5221)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5222 in Bosanski (bpn5222) 
+Prayer bpn5222 (bpn5222) 
 
 [bahaiprayers.net 5222](https://bahaiprayers.net/Book/Single/41/5222)
 
@@ -154,7 +154,7 @@ Prayer bpn5222 in Bosanski (bpn5222)
 
 -- Bahá'u'lláh
 
-Prayer bpn5224 in Bosanski (bpn5224) 
+Prayer bpn5224 (bpn5224) 
 
 [bahaiprayers.net 5224](https://bahaiprayers.net/Book/Single/41/5224)
 
@@ -167,7 +167,7 @@ Prayer bpn5224 in Bosanski (bpn5224)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5223 in Bosanski (bpn5223) 
+Prayer bpn5223 (bpn5223) 
 
 [bahaiprayers.net 5223](https://bahaiprayers.net/Book/Single/41/5223)
 
@@ -184,7 +184,7 @@ Prayer bpn5223 in Bosanski (bpn5223)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5225 in Bosanski (bpn5225) 
+Prayer bpn5225 (bpn5225) 
 
 [bahaiprayers.net 5225](https://bahaiprayers.net/Book/Single/41/5225)
 
@@ -197,7 +197,7 @@ Prayer bpn5225 in Bosanski (bpn5225)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5226 in Bosanski (bpn5226) 
+Prayer bpn5226 (bpn5226) 
 
 [bahaiprayers.net 5226](https://bahaiprayers.net/Book/Single/41/5226)
 
@@ -210,7 +210,7 @@ Prayer bpn5226 in Bosanski (bpn5226)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5227 in Bosanski (bpn5227) 
+Prayer bpn5227 (bpn5227) 
 
 [bahaiprayers.net 5227](https://bahaiprayers.net/Book/Single/41/5227)
 
@@ -223,7 +223,7 @@ Prayer bpn5227 in Bosanski (bpn5227)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5228 in Bosanski (bpn5228) 
+Prayer bpn5228 (bpn5228) 
 
 [bahaiprayers.net 5228](https://bahaiprayers.net/Book/Single/41/5228)
 
@@ -236,7 +236,7 @@ Prayer bpn5228 in Bosanski (bpn5228)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5229 in Bosanski (bpn5229) 
+Prayer bpn5229 (bpn5229) 
 
 [bahaiprayers.net 5229](https://bahaiprayers.net/Book/Single/41/5229)
 
@@ -249,7 +249,7 @@ Prayer bpn5229 in Bosanski (bpn5229)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5230 in Bosanski (bpn5230) 
+Prayer bpn5230 (bpn5230) 
 
 [bahaiprayers.net 5230](https://bahaiprayers.net/Book/Single/41/5230)
 
@@ -262,7 +262,7 @@ Prayer bpn5230 in Bosanski (bpn5230)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5231 in Bosanski (bpn5231) 
+Prayer bpn5231 (bpn5231) 
 
 [bahaiprayers.net 5231](https://bahaiprayers.net/Book/Single/41/5231)
 
@@ -275,7 +275,7 @@ Prayer bpn5231 in Bosanski (bpn5231)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5232 in Bosanski (bpn5232) 
+Prayer bpn5232 (bpn5232) 
 
 [bahaiprayers.net 5232](https://bahaiprayers.net/Book/Single/41/5232)
 
@@ -288,7 +288,7 @@ Prayer bpn5232 in Bosanski (bpn5232)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5233 in Bosanski (bpn5233) 
+Prayer bpn5233 (bpn5233) 
 
 [bahaiprayers.net 5233](https://bahaiprayers.net/Book/Single/41/5233)
 
@@ -305,7 +305,7 @@ Prayer bpn5233 in Bosanski (bpn5233)
 
 -- Bahá'u'lláh
 
-Prayer bpn5219 in Bosanski (bpn5219) 
+Prayer bpn5219 (bpn5219) 
 
 [bahaiprayers.net 5219](https://bahaiprayers.net/Book/Single/41/5219)
 
@@ -322,7 +322,7 @@ Prayer bpn5219 in Bosanski (bpn5219)
 
 -- Bahá'u'lláh
 
-Prayer bpn5234 in Bosanski (bpn5234) 
+Prayer bpn5234 (bpn5234) 
 
 [bahaiprayers.net 5234](https://bahaiprayers.net/Book/Single/41/5234)
 
@@ -335,7 +335,7 @@ Prayer bpn5234 in Bosanski (bpn5234)
 
 -- Bahá'u'lláh
 
-Prayer bpn5235 in Bosanski (bpn5235) 
+Prayer bpn5235 (bpn5235) 
 
 [bahaiprayers.net 5235](https://bahaiprayers.net/Book/Single/41/5235)
 
@@ -348,7 +348,7 @@ Prayer bpn5235 in Bosanski (bpn5235)
 
 -- Bahá'u'lláh
 
-Prayer bpn5236 in Bosanski (bpn5236) 
+Prayer bpn5236 (bpn5236) 
 
 [bahaiprayers.net 5236](https://bahaiprayers.net/Book/Single/41/5236)
 
@@ -361,7 +361,7 @@ Prayer bpn5236 in Bosanski (bpn5236)
 
 -- Báb
 
-Prayer bpn5237 in Bosanski (bpn5237) 
+Prayer bpn5237 (bpn5237) 
 
 [bahaiprayers.net 5237](https://bahaiprayers.net/Book/Single/41/5237)
 
@@ -374,7 +374,7 @@ Prayer bpn5237 in Bosanski (bpn5237)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5238 in Bosanski (bpn5238) 
+Prayer bpn5238 (bpn5238) 
 
 [bahaiprayers.net 5238](https://bahaiprayers.net/Book/Single/41/5238)
 
@@ -387,7 +387,7 @@ Prayer bpn5238 in Bosanski (bpn5238)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5239 in Bosanski (bpn5239) 
+Prayer bpn5239 (bpn5239) 
 
 [bahaiprayers.net 5239](https://bahaiprayers.net/Book/Single/41/5239)
 
@@ -400,7 +400,7 @@ Prayer bpn5239 in Bosanski (bpn5239)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5240 in Bosanski (bpn5240) 
+Prayer bpn5240 (bpn5240) 
 
 [bahaiprayers.net 5240](https://bahaiprayers.net/Book/Single/41/5240)
 
@@ -417,7 +417,7 @@ Prayer bpn5240 in Bosanski (bpn5240)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5241 in Bosanski (bpn5241) 
+Prayer bpn5241 (bpn5241) 
 
 [bahaiprayers.net 5241](https://bahaiprayers.net/Book/Single/41/5241)
 
@@ -430,7 +430,7 @@ Prayer bpn5241 in Bosanski (bpn5241)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5242 in Bosanski (bpn5242) 
+Prayer bpn5242 (bpn5242) 
 
 [bahaiprayers.net 5242](https://bahaiprayers.net/Book/Single/41/5242)
 
@@ -443,7 +443,7 @@ Prayer bpn5242 in Bosanski (bpn5242)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5243 in Bosanski (bpn5243) 
+Prayer bpn5243 (bpn5243) 
 
 [bahaiprayers.net 5243](https://bahaiprayers.net/Book/Single/41/5243)
 
@@ -456,7 +456,7 @@ Prayer bpn5243 in Bosanski (bpn5243)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5244 in Bosanski (bpn5244) 
+Prayer bpn5244 (bpn5244) 
 
 [bahaiprayers.net 5244](https://bahaiprayers.net/Book/Single/41/5244)
 
@@ -473,7 +473,7 @@ Prayer bpn5244 in Bosanski (bpn5244)
 
 -- Bahá'u'lláh
 
-Prayer bpn5245 in Bosanski (bpn5245) 
+Prayer bpn5245 (bpn5245) 
 
 [bahaiprayers.net 5245](https://bahaiprayers.net/Book/Single/41/5245)
 
@@ -486,7 +486,7 @@ Prayer bpn5245 in Bosanski (bpn5245)
 
 -- Bahá'u'lláh
 
-Prayer bpn5246 in Bosanski (bpn5246) 
+Prayer bpn5246 (bpn5246) 
 
 [bahaiprayers.net 5246](https://bahaiprayers.net/Book/Single/41/5246)
 
@@ -499,7 +499,7 @@ Prayer bpn5246 in Bosanski (bpn5246)
 
 -- Bahá'u'lláh
 
-Prayer bpn5247 in Bosanski (bpn5247) 
+Prayer bpn5247 (bpn5247) 
 
 [bahaiprayers.net 5247](https://bahaiprayers.net/Book/Single/41/5247)
 
@@ -512,7 +512,7 @@ Prayer bpn5247 in Bosanski (bpn5247)
 
 -- Bahá'u'lláh
 
-Prayer bpn5248 in Bosanski (bpn5248) 
+Prayer bpn5248 (bpn5248) 
 
 [bahaiprayers.net 5248](https://bahaiprayers.net/Book/Single/41/5248)
 
@@ -525,7 +525,7 @@ Prayer bpn5248 in Bosanski (bpn5248)
 
 -- Bahá'u'lláh
 
-Prayer bpn5249 in Bosanski (bpn5249) 
+Prayer bpn5249 (bpn5249) 
 
 [bahaiprayers.net 5249](https://bahaiprayers.net/Book/Single/41/5249)
 
@@ -542,7 +542,7 @@ Prayer bpn5249 in Bosanski (bpn5249)
 
 -- Bahá'u'lláh
 
-Prayer bpn5254 in Bosanski (bpn5254) 
+Prayer bpn5254 (bpn5254) 
 
 [bahaiprayers.net 5254](https://bahaiprayers.net/Book/Single/41/5254)
 
@@ -555,7 +555,7 @@ Prayer bpn5254 in Bosanski (bpn5254)
 
 -- Bahá'u'lláh
 
-Prayer bpn5255 in Bosanski (bpn5255) 
+Prayer bpn5255 (bpn5255) 
 
 [bahaiprayers.net 5255](https://bahaiprayers.net/Book/Single/41/5255)
 
@@ -568,7 +568,7 @@ Prayer bpn5255 in Bosanski (bpn5255)
 
 -- Bahá'u'lláh
 
-Prayer bpn5256 in Bosanski (bpn5256) 
+Prayer bpn5256 (bpn5256) 
 
 [bahaiprayers.net 5256](https://bahaiprayers.net/Book/Single/41/5256)
 
@@ -581,7 +581,7 @@ Prayer bpn5256 in Bosanski (bpn5256)
 
 -- Bahá'u'lláh
 
-Prayer bpn5257 in Bosanski (bpn5257) 
+Prayer bpn5257 (bpn5257) 
 
 [bahaiprayers.net 5257](https://bahaiprayers.net/Book/Single/41/5257)
 
@@ -598,7 +598,7 @@ Prayer bpn5257 in Bosanski (bpn5257)
 
 -- Bahá'u'lláh
 
-Prayer bpn5250 in Bosanski (bpn5250) 
+Prayer bpn5250 (bpn5250) 
 
 [bahaiprayers.net 5250](https://bahaiprayers.net/Book/Single/41/5250)
 
@@ -611,7 +611,7 @@ Prayer bpn5250 in Bosanski (bpn5250)
 
 -- Bahá'u'lláh
 
-Prayer bpn5251 in Bosanski (bpn5251) 
+Prayer bpn5251 (bpn5251) 
 
 [bahaiprayers.net 5251](https://bahaiprayers.net/Book/Single/41/5251)
 
@@ -624,7 +624,7 @@ Prayer bpn5251 in Bosanski (bpn5251)
 
 -- Bahá'u'lláh
 
-Prayer bpn5253 in Bosanski (bpn5253) 
+Prayer bpn5253 (bpn5253) 
 
 [bahaiprayers.net 5253](https://bahaiprayers.net/Book/Single/41/5253)
 
@@ -637,7 +637,7 @@ Prayer bpn5253 in Bosanski (bpn5253)
 
 -- Báb
 
-Prayer bpn5252 in Bosanski (bpn5252) 
+Prayer bpn5252 (bpn5252) 
 
 [bahaiprayers.net 5252](https://bahaiprayers.net/Book/Single/41/5252)
 
@@ -654,7 +654,7 @@ Prayer bpn5252 in Bosanski (bpn5252)
 
 -- Bahá'u'lláh
 
-Prayer bpn5258 in Bosanski (bpn5258) 
+Prayer bpn5258 (bpn5258) 
 
 [bahaiprayers.net 5258](https://bahaiprayers.net/Book/Single/41/5258)
 
@@ -667,7 +667,7 @@ Prayer bpn5258 in Bosanski (bpn5258)
 
 -- Bahá'u'lláh
 
-Prayer bpn5259 in Bosanski (bpn5259) 
+Prayer bpn5259 (bpn5259) 
 
 [bahaiprayers.net 5259](https://bahaiprayers.net/Book/Single/41/5259)
 
@@ -680,7 +680,7 @@ Prayer bpn5259 in Bosanski (bpn5259)
 
 -- Bahá'u'lláh
 
-Prayer bpn5261 in Bosanski (bpn5261) 
+Prayer bpn5261 (bpn5261) 
 
 [bahaiprayers.net 5261](https://bahaiprayers.net/Book/Single/41/5261)
 
@@ -693,7 +693,7 @@ Prayer bpn5261 in Bosanski (bpn5261)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5260 in Bosanski (bpn5260) 
+Prayer bpn5260 (bpn5260) 
 
 [bahaiprayers.net 5260](https://bahaiprayers.net/Book/Single/41/5260)
 
@@ -710,7 +710,7 @@ Prayer bpn5260 in Bosanski (bpn5260)
 
 -- Bahá'u'lláh
 
-Prayer bpn5262 in Bosanski (bpn5262) 
+Prayer bpn5262 (bpn5262) 
 
 [bahaiprayers.net 5262](https://bahaiprayers.net/Book/Single/41/5262)
 
@@ -723,7 +723,7 @@ Prayer bpn5262 in Bosanski (bpn5262)
 
 -- Bahá'u'lláh
 
-Prayer bpn5263 in Bosanski (bpn5263) 
+Prayer bpn5263 (bpn5263) 
 
 [bahaiprayers.net 5263](https://bahaiprayers.net/Book/Single/41/5263)
 
@@ -736,7 +736,7 @@ Prayer bpn5263 in Bosanski (bpn5263)
 
 -- Bahá'u'lláh
 
-Prayer bpn5264 in Bosanski (bpn5264) 
+Prayer bpn5264 (bpn5264) 
 
 [bahaiprayers.net 5264](https://bahaiprayers.net/Book/Single/41/5264)
 
@@ -753,7 +753,7 @@ Prayer bpn5264 in Bosanski (bpn5264)
 
 -- Bahá'u'lláh
 
-Prayer bpn5217 in Bosanski (bpn5217) 
+Prayer bpn5217 (bpn5217) 
 
 [bahaiprayers.net 5217](https://bahaiprayers.net/Book/Single/41/5217)
 
@@ -770,7 +770,7 @@ Prayer bpn5217 in Bosanski (bpn5217)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5265 in Bosanski (bpn5265) 
+Prayer bpn5265 (bpn5265) 
 
 [bahaiprayers.net 5265](https://bahaiprayers.net/Book/Single/41/5265)
 
@@ -787,7 +787,7 @@ Prayer bpn5265 in Bosanski (bpn5265)
 
 -- Bahá'u'lláh
 
-Prayer bpn5323 in Bosanski (bpn5323) 
+Prayer bpn5323 (bpn5323) 
 
 [bahaiprayers.net 5323](https://bahaiprayers.net/Book/Single/41/5323)
 
@@ -804,7 +804,7 @@ Prayer bpn5323 in Bosanski (bpn5323)
 
 -- Bahá'u'lláh
 
-Prayer bpn5266 in Bosanski (bpn5266) 
+Prayer bpn5266 (bpn5266) 
 
 [bahaiprayers.net 5266](https://bahaiprayers.net/Book/Single/41/5266)
 
@@ -821,7 +821,7 @@ Prayer bpn5266 in Bosanski (bpn5266)
 
 -- Bahá'u'lláh
 
-Prayer bpn5267 in Bosanski (bpn5267) 
+Prayer bpn5267 (bpn5267) 
 
 [bahaiprayers.net 5267](https://bahaiprayers.net/Book/Single/41/5267)
 
@@ -834,7 +834,7 @@ Prayer bpn5267 in Bosanski (bpn5267)
 
 -- Bahá'u'lláh
 
-Prayer bpn5268 in Bosanski (bpn5268) 
+Prayer bpn5268 (bpn5268) 
 
 [bahaiprayers.net 5268](https://bahaiprayers.net/Book/Single/41/5268)
 
@@ -847,7 +847,7 @@ Prayer bpn5268 in Bosanski (bpn5268)
 
 -- Bahá'u'lláh
 
-Prayer bpn5269 in Bosanski (bpn5269) 
+Prayer bpn5269 (bpn5269) 
 
 [bahaiprayers.net 5269](https://bahaiprayers.net/Book/Single/41/5269)
 
@@ -860,7 +860,7 @@ Prayer bpn5269 in Bosanski (bpn5269)
 
 -- Báb
 
-Prayer bpn5270 in Bosanski (bpn5270) 
+Prayer bpn5270 (bpn5270) 
 
 [bahaiprayers.net 5270](https://bahaiprayers.net/Book/Single/41/5270)
 
@@ -873,7 +873,7 @@ Prayer bpn5270 in Bosanski (bpn5270)
 
 -- Báb
 
-Prayer bpn5271 in Bosanski (bpn5271) 
+Prayer bpn5271 (bpn5271) 
 
 [bahaiprayers.net 5271](https://bahaiprayers.net/Book/Single/41/5271)
 
@@ -886,7 +886,7 @@ Prayer bpn5271 in Bosanski (bpn5271)
 
 -- Báb
 
-Prayer bpn5273 in Bosanski (bpn5273) 
+Prayer bpn5273 (bpn5273) 
 
 [bahaiprayers.net 5273](https://bahaiprayers.net/Book/Single/41/5273)
 
@@ -899,7 +899,7 @@ Prayer bpn5273 in Bosanski (bpn5273)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5272 in Bosanski (bpn5272) 
+Prayer bpn5272 (bpn5272) 
 
 [bahaiprayers.net 5272](https://bahaiprayers.net/Book/Single/41/5272)
 
@@ -912,7 +912,7 @@ Prayer bpn5272 in Bosanski (bpn5272)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5274 in Bosanski (bpn5274) 
+Prayer bpn5274 (bpn5274) 
 
 [bahaiprayers.net 5274](https://bahaiprayers.net/Book/Single/41/5274)
 
@@ -929,7 +929,7 @@ Prayer bpn5274 in Bosanski (bpn5274)
 
 -- Bahá'u'lláh
 
-Prayer bpn5275 in Bosanski (bpn5275) 
+Prayer bpn5275 (bpn5275) 
 
 [bahaiprayers.net 5275](https://bahaiprayers.net/Book/Single/41/5275)
 
@@ -942,7 +942,7 @@ Prayer bpn5275 in Bosanski (bpn5275)
 
 -- Bahá'u'lláh
 
-Prayer bpn5276 in Bosanski (bpn5276) 
+Prayer bpn5276 (bpn5276) 
 
 [bahaiprayers.net 5276](https://bahaiprayers.net/Book/Single/41/5276)
 
@@ -955,7 +955,7 @@ Prayer bpn5276 in Bosanski (bpn5276)
 
 -- Báb
 
-Prayer bpn5277 in Bosanski (bpn5277) 
+Prayer bpn5277 (bpn5277) 
 
 [bahaiprayers.net 5277](https://bahaiprayers.net/Book/Single/41/5277)
 
@@ -968,7 +968,7 @@ Prayer bpn5277 in Bosanski (bpn5277)
 
 -- Báb
 
-Prayer bpn5278 in Bosanski (bpn5278) 
+Prayer bpn5278 (bpn5278) 
 
 [bahaiprayers.net 5278](https://bahaiprayers.net/Book/Single/41/5278)
 
@@ -985,7 +985,7 @@ Prayer bpn5278 in Bosanski (bpn5278)
 
 -- Bahá'u'lláh
 
-Prayer bpn5279 in Bosanski (bpn5279) 
+Prayer bpn5279 (bpn5279) 
 
 [bahaiprayers.net 5279](https://bahaiprayers.net/Book/Single/41/5279)
 
@@ -1002,7 +1002,7 @@ Prayer bpn5279 in Bosanski (bpn5279)
 
 -- Bahá'u'lláh
 
-Prayer bpn5319 in Bosanski (bpn5319) 
+Prayer bpn5319 (bpn5319) 
 
 [bahaiprayers.net 5319](https://bahaiprayers.net/Book/Single/41/5319)
 
@@ -1019,7 +1019,7 @@ Prayer bpn5319 in Bosanski (bpn5319)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5320 in Bosanski (bpn5320) 
+Prayer bpn5320 (bpn5320) 
 
 [bahaiprayers.net 5320](https://bahaiprayers.net/Book/Single/41/5320)
 
@@ -1036,7 +1036,7 @@ Prayer bpn5320 in Bosanski (bpn5320)
 
 -- Bahá'u'lláh
 
-Prayer bpn5321 in Bosanski (bpn5321) 
+Prayer bpn5321 (bpn5321) 
 
 [bahaiprayers.net 5321](https://bahaiprayers.net/Book/Single/41/5321)
 
@@ -1053,7 +1053,7 @@ Prayer bpn5321 in Bosanski (bpn5321)
 
 -- Bahá'u'lláh
 
-Prayer bpn5283 in Bosanski (bpn5283) 
+Prayer bpn5283 (bpn5283) 
 
 [bahaiprayers.net 5283](https://bahaiprayers.net/Book/Single/41/5283)
 
@@ -1066,7 +1066,7 @@ Prayer bpn5283 in Bosanski (bpn5283)
 
 -- Bahá'u'lláh
 
-Prayer bpn5284 in Bosanski (bpn5284) 
+Prayer bpn5284 (bpn5284) 
 
 [bahaiprayers.net 5284](https://bahaiprayers.net/Book/Single/41/5284)
 
@@ -1079,7 +1079,7 @@ Prayer bpn5284 in Bosanski (bpn5284)
 
 -- Báb
 
-Prayer bpn5280 in Bosanski (bpn5280) 
+Prayer bpn5280 (bpn5280) 
 
 [bahaiprayers.net 5280](https://bahaiprayers.net/Book/Single/41/5280)
 
@@ -1092,7 +1092,7 @@ Prayer bpn5280 in Bosanski (bpn5280)
 
 -- Báb
 
-Prayer bpn5281 in Bosanski (bpn5281) 
+Prayer bpn5281 (bpn5281) 
 
 [bahaiprayers.net 5281](https://bahaiprayers.net/Book/Single/41/5281)
 
@@ -1105,7 +1105,7 @@ Prayer bpn5281 in Bosanski (bpn5281)
 
 -- Báb
 
-Prayer bpn5282 in Bosanski (bpn5282) 
+Prayer bpn5282 (bpn5282) 
 
 [bahaiprayers.net 5282](https://bahaiprayers.net/Book/Single/41/5282)
 
@@ -1118,7 +1118,7 @@ Prayer bpn5282 in Bosanski (bpn5282)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5285 in Bosanski (bpn5285) 
+Prayer bpn5285 (bpn5285) 
 
 [bahaiprayers.net 5285](https://bahaiprayers.net/Book/Single/41/5285)
 
@@ -1131,7 +1131,7 @@ Prayer bpn5285 in Bosanski (bpn5285)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5286 in Bosanski (bpn5286) 
+Prayer bpn5286 (bpn5286) 
 
 [bahaiprayers.net 5286](https://bahaiprayers.net/Book/Single/41/5286)
 
@@ -1144,7 +1144,7 @@ Prayer bpn5286 in Bosanski (bpn5286)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5287 in Bosanski (bpn5287) 
+Prayer bpn5287 (bpn5287) 
 
 [bahaiprayers.net 5287](https://bahaiprayers.net/Book/Single/41/5287)
 
@@ -1157,7 +1157,7 @@ Prayer bpn5287 in Bosanski (bpn5287)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5288 in Bosanski (bpn5288) 
+Prayer bpn5288 (bpn5288) 
 
 [bahaiprayers.net 5288](https://bahaiprayers.net/Book/Single/41/5288)
 
@@ -1170,7 +1170,7 @@ Prayer bpn5288 in Bosanski (bpn5288)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5289 in Bosanski (bpn5289) 
+Prayer bpn5289 (bpn5289) 
 
 [bahaiprayers.net 5289](https://bahaiprayers.net/Book/Single/41/5289)
 
@@ -1187,7 +1187,7 @@ Prayer bpn5289 in Bosanski (bpn5289)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5290 in Bosanski (bpn5290) 
+Prayer bpn5290 (bpn5290) 
 
 [bahaiprayers.net 5290](https://bahaiprayers.net/Book/Single/41/5290)
 
@@ -1204,7 +1204,7 @@ Prayer bpn5290 in Bosanski (bpn5290)
 
 -- Báb
 
-Prayer bpn5291 in Bosanski (bpn5291) 
+Prayer bpn5291 (bpn5291) 
 
 [bahaiprayers.net 5291](https://bahaiprayers.net/Book/Single/41/5291)
 
@@ -1221,7 +1221,7 @@ Prayer bpn5291 in Bosanski (bpn5291)
 
 -- Bahá'u'lláh
 
-Prayer bpn5324 in Bosanski (bpn5324) 
+Prayer bpn5324 (bpn5324) 
 
 [bahaiprayers.net 5324](https://bahaiprayers.net/Book/Single/41/5324)
 
@@ -1234,7 +1234,7 @@ Prayer bpn5324 in Bosanski (bpn5324)
 
 -- Bahá'u'lláh
 
-Prayer bpn5325 in Bosanski (bpn5325) 
+Prayer bpn5325 (bpn5325) 
 
 [bahaiprayers.net 5325](https://bahaiprayers.net/Book/Single/41/5325)
 
@@ -1247,7 +1247,7 @@ Prayer bpn5325 in Bosanski (bpn5325)
 
 -- Bahá'u'lláh
 
-Prayer bpn5326 in Bosanski (bpn5326) 
+Prayer bpn5326 (bpn5326) 
 
 [bahaiprayers.net 5326](https://bahaiprayers.net/Book/Single/41/5326)
 
@@ -1264,7 +1264,7 @@ Prayer bpn5326 in Bosanski (bpn5326)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5292 in Bosanski (bpn5292) 
+Prayer bpn5292 (bpn5292) 
 
 [bahaiprayers.net 5292](https://bahaiprayers.net/Book/Single/41/5292)
 
@@ -1277,7 +1277,7 @@ Prayer bpn5292 in Bosanski (bpn5292)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5293 in Bosanski (bpn5293) 
+Prayer bpn5293 (bpn5293) 
 
 [bahaiprayers.net 5293](https://bahaiprayers.net/Book/Single/41/5293)
 
@@ -1294,7 +1294,7 @@ Prayer bpn5293 in Bosanski (bpn5293)
 
 -- Bahá'u'lláh
 
-Prayer bpn5299 in Bosanski (bpn5299) 
+Prayer bpn5299 (bpn5299) 
 
 [bahaiprayers.net 5299](https://bahaiprayers.net/Book/Single/41/5299)
 
@@ -1307,7 +1307,7 @@ Prayer bpn5299 in Bosanski (bpn5299)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5294 in Bosanski (bpn5294) 
+Prayer bpn5294 (bpn5294) 
 
 [bahaiprayers.net 5294](https://bahaiprayers.net/Book/Single/41/5294)
 
@@ -1320,7 +1320,7 @@ Prayer bpn5294 in Bosanski (bpn5294)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5295 in Bosanski (bpn5295) 
+Prayer bpn5295 (bpn5295) 
 
 [bahaiprayers.net 5295](https://bahaiprayers.net/Book/Single/41/5295)
 
@@ -1333,7 +1333,7 @@ Prayer bpn5295 in Bosanski (bpn5295)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5296 in Bosanski (bpn5296) 
+Prayer bpn5296 (bpn5296) 
 
 [bahaiprayers.net 5296](https://bahaiprayers.net/Book/Single/41/5296)
 
@@ -1350,7 +1350,7 @@ Prayer bpn5296 in Bosanski (bpn5296)
 
 -- Bahá'u'lláh
 
-Prayer bpn5297 in Bosanski (bpn5297) 
+Prayer bpn5297 (bpn5297) 
 
 [bahaiprayers.net 5297](https://bahaiprayers.net/Book/Single/41/5297)
 
@@ -1367,7 +1367,7 @@ Prayer bpn5297 in Bosanski (bpn5297)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5298 in Bosanski (bpn5298) 
+Prayer bpn5298 (bpn5298) 
 
 [bahaiprayers.net 5298](https://bahaiprayers.net/Book/Single/41/5298)
 
@@ -1384,7 +1384,7 @@ Prayer bpn5298 in Bosanski (bpn5298)
 
 -- Bahá'u'lláh
 
-Prayer bpn5300 in Bosanski (bpn5300) 
+Prayer bpn5300 (bpn5300) 
 
 [bahaiprayers.net 5300](https://bahaiprayers.net/Book/Single/41/5300)
 
@@ -1397,7 +1397,7 @@ Prayer bpn5300 in Bosanski (bpn5300)
 
 -- Báb
 
-Prayer bpn5301 in Bosanski (bpn5301) 
+Prayer bpn5301 (bpn5301) 
 
 [bahaiprayers.net 5301](https://bahaiprayers.net/Book/Single/41/5301)
 
@@ -1410,7 +1410,7 @@ Prayer bpn5301 in Bosanski (bpn5301)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5302 in Bosanski (bpn5302) 
+Prayer bpn5302 (bpn5302) 
 
 [bahaiprayers.net 5302](https://bahaiprayers.net/Book/Single/41/5302)
 
@@ -1427,7 +1427,7 @@ Prayer bpn5302 in Bosanski (bpn5302)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5303 in Bosanski (bpn5303) 
+Prayer bpn5303 (bpn5303) 
 
 [bahaiprayers.net 5303](https://bahaiprayers.net/Book/Single/41/5303)
 
@@ -1444,7 +1444,7 @@ Prayer bpn5303 in Bosanski (bpn5303)
 
 -- Bahá'u'lláh
 
-Prayer bpn5218 in Bosanski (bpn5218) 
+Prayer bpn5218 (bpn5218) 
 
 [bahaiprayers.net 5218](https://bahaiprayers.net/Book/Single/41/5218)
 
@@ -1461,7 +1461,7 @@ Prayer bpn5218 in Bosanski (bpn5218)
 
 -- Bahá'u'lláh
 
-Prayer bpn5304 in Bosanski (bpn5304) 
+Prayer bpn5304 (bpn5304) 
 
 [bahaiprayers.net 5304](https://bahaiprayers.net/Book/Single/41/5304)
 
@@ -1478,7 +1478,7 @@ Prayer bpn5304 in Bosanski (bpn5304)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5305 in Bosanski (bpn5305) 
+Prayer bpn5305 (bpn5305) 
 
 [bahaiprayers.net 5305](https://bahaiprayers.net/Book/Single/41/5305)
 
@@ -1495,7 +1495,7 @@ Prayer bpn5305 in Bosanski (bpn5305)
 
 -- Bahá'u'lláh
 
-Prayer bpn5306 in Bosanski (bpn5306) 
+Prayer bpn5306 (bpn5306) 
 
 [bahaiprayers.net 5306](https://bahaiprayers.net/Book/Single/41/5306)
 
@@ -1508,7 +1508,7 @@ Prayer bpn5306 in Bosanski (bpn5306)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5307 in Bosanski (bpn5307) 
+Prayer bpn5307 (bpn5307) 
 
 [bahaiprayers.net 5307](https://bahaiprayers.net/Book/Single/41/5307)
 
@@ -1525,7 +1525,7 @@ Prayer bpn5307 in Bosanski (bpn5307)
 
 -- Bahá'u'lláh
 
-Prayer bpn5308 in Bosanski (bpn5308) 
+Prayer bpn5308 (bpn5308) 
 
 [bahaiprayers.net 5308](https://bahaiprayers.net/Book/Single/41/5308)
 
@@ -1538,7 +1538,7 @@ Prayer bpn5308 in Bosanski (bpn5308)
 
 -- Bahá'u'lláh
 
-Prayer bpn5309 in Bosanski (bpn5309) 
+Prayer bpn5309 (bpn5309) 
 
 [bahaiprayers.net 5309](https://bahaiprayers.net/Book/Single/41/5309)
 
@@ -1551,7 +1551,7 @@ Prayer bpn5309 in Bosanski (bpn5309)
 
 -- Bahá'u'lláh
 
-Prayer bpn5310 in Bosanski (bpn5310) 
+Prayer bpn5310 (bpn5310) 
 
 [bahaiprayers.net 5310](https://bahaiprayers.net/Book/Single/41/5310)
 
@@ -1564,7 +1564,7 @@ Prayer bpn5310 in Bosanski (bpn5310)
 
 -- Bahá'u'lláh
 
-Prayer bpn5311 in Bosanski (bpn5311) 
+Prayer bpn5311 (bpn5311) 
 
 [bahaiprayers.net 5311](https://bahaiprayers.net/Book/Single/41/5311)
 
@@ -1577,7 +1577,7 @@ Prayer bpn5311 in Bosanski (bpn5311)
 
 -- Bahá'u'lláh
 
-Prayer bpn5313 in Bosanski (bpn5313) 
+Prayer bpn5313 (bpn5313) 
 
 [bahaiprayers.net 5313](https://bahaiprayers.net/Book/Single/41/5313)
 
@@ -1590,7 +1590,7 @@ Prayer bpn5313 in Bosanski (bpn5313)
 
 -- Bahá'u'lláh
 
-Prayer bpn5314 in Bosanski (bpn5314) 
+Prayer bpn5314 (bpn5314) 
 
 [bahaiprayers.net 5314](https://bahaiprayers.net/Book/Single/41/5314)
 
@@ -1603,7 +1603,7 @@ Prayer bpn5314 in Bosanski (bpn5314)
 
 -- Bahá'u'lláh
 
-Prayer bpn5315 in Bosanski (bpn5315) 
+Prayer bpn5315 (bpn5315) 
 
 [bahaiprayers.net 5315](https://bahaiprayers.net/Book/Single/41/5315)
 
@@ -1616,7 +1616,7 @@ Prayer bpn5315 in Bosanski (bpn5315)
 
 -- Bahá'u'lláh
 
-Prayer bpn5316 in Bosanski (bpn5316) 
+Prayer bpn5316 (bpn5316) 
 
 [bahaiprayers.net 5316](https://bahaiprayers.net/Book/Single/41/5316)
 
@@ -1629,7 +1629,7 @@ Prayer bpn5316 in Bosanski (bpn5316)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5312 in Bosanski (bpn5312) 
+Prayer bpn5312 (bpn5312) 
 
 [bahaiprayers.net 5312](https://bahaiprayers.net/Book/Single/41/5312)
 
@@ -1646,7 +1646,7 @@ Prayer bpn5312 in Bosanski (bpn5312)
 
 -- Bahá'u'lláh
 
-Prayer bpn5317 in Bosanski (bpn5317) 
+Prayer bpn5317 (bpn5317) 
 
 [bahaiprayers.net 5317](https://bahaiprayers.net/Book/Single/41/5317)
 
@@ -1663,7 +1663,7 @@ Prayer bpn5317 in Bosanski (bpn5317)
 
 -- Báb
 
-Prayer bpn5318 in Bosanski (bpn5318) 
+Prayer bpn5318 (bpn5318) 
 
 [bahaiprayers.net 5318](https://bahaiprayers.net/Book/Single/41/5318)
 

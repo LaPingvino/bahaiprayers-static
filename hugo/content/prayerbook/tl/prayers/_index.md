@@ -78,7 +78,7 @@ tags = ['lang=tl', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn4537 in Filipino (bpn4537) 
+Prayer bpn4537 (bpn4537) 
 
 [bahaiprayers.net 4537](https://bahaiprayers.net/Book/Single/34/4537)
 
@@ -91,7 +91,7 @@ Prayer bpn4537 in Filipino (bpn4537)
 
 -- Bahá'u'lláh
 
-Prayer bpn4538 in Filipino (bpn4538) 
+Prayer bpn4538 (bpn4538) 
 
 [bahaiprayers.net 4538](https://bahaiprayers.net/Book/Single/34/4538)
 
@@ -104,7 +104,7 @@ Prayer bpn4538 in Filipino (bpn4538)
 
 -- Bahá'u'lláh
 
-Prayer bpn4539 in Filipino (bpn4539) 
+Prayer bpn4539 (bpn4539) 
 
 [bahaiprayers.net 4539](https://bahaiprayers.net/Book/Single/34/4539)
 
@@ -121,7 +121,7 @@ Prayer bpn4539 in Filipino (bpn4539)
 
 -- Bahá'u'lláh
 
-Prayer bpn4532 in Filipino (bpn4532) 
+Prayer bpn4532 (bpn4532) 
 
 [bahaiprayers.net 4532](https://bahaiprayers.net/Book/Single/34/4532)
 
@@ -138,7 +138,7 @@ Prayer bpn4532 in Filipino (bpn4532)
 
 -- Bahá'u'lláh
 
-Prayer bpn4534 in Filipino (bpn4534) 
+Prayer bpn4534 (bpn4534) 
 
 [bahaiprayers.net 4534](https://bahaiprayers.net/Book/Single/34/4534)
 
@@ -151,7 +151,7 @@ Prayer bpn4534 in Filipino (bpn4534)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4535 in Filipino (bpn4535) 
+Prayer bpn4535 (bpn4535) 
 
 [bahaiprayers.net 4535](https://bahaiprayers.net/Book/Single/34/4535)
 
@@ -168,7 +168,7 @@ Prayer bpn4535 in Filipino (bpn4535)
 
 -- Bahá'u'lláh
 
-Prayer bpn4533 in Filipino (bpn4533) 
+Prayer bpn4533 (bpn4533) 
 
 [bahaiprayers.net 4533](https://bahaiprayers.net/Book/Single/34/4533)
 
@@ -185,7 +185,7 @@ Prayer bpn4533 in Filipino (bpn4533)
 
 -- Bahá'u'lláh
 
-Prayer bpn4379 in Filipino (bpn4379) 
+Prayer bpn4379 (bpn4379) 
 
 [bahaiprayers.net 4379](https://bahaiprayers.net/Book/Single/34/4379)
 
@@ -198,7 +198,7 @@ Prayer bpn4379 in Filipino (bpn4379)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4380 in Filipino (bpn4380) 
+Prayer bpn4380 (bpn4380) 
 
 [bahaiprayers.net 4380](https://bahaiprayers.net/Book/Single/34/4380)
 
@@ -211,7 +211,7 @@ Prayer bpn4380 in Filipino (bpn4380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4381 in Filipino (bpn4381) 
+Prayer bpn4381 (bpn4381) 
 
 [bahaiprayers.net 4381](https://bahaiprayers.net/Book/Single/34/4381)
 
@@ -224,7 +224,7 @@ Prayer bpn4381 in Filipino (bpn4381)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4382 in Filipino (bpn4382) 
+Prayer bpn4382 (bpn4382) 
 
 [bahaiprayers.net 4382](https://bahaiprayers.net/Book/Single/34/4382)
 
@@ -237,7 +237,7 @@ Prayer bpn4382 in Filipino (bpn4382)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4383 in Filipino (bpn4383) 
+Prayer bpn4383 (bpn4383) 
 
 [bahaiprayers.net 4383](https://bahaiprayers.net/Book/Single/34/4383)
 
@@ -254,7 +254,7 @@ Prayer bpn4383 in Filipino (bpn4383)
 
 -- Bahá'u'lláh
 
-Prayer bpn4394 in Filipino (bpn4394) 
+Prayer bpn4394 (bpn4394) 
 
 [bahaiprayers.net 4394](https://bahaiprayers.net/Book/Single/34/4394)
 
@@ -267,7 +267,7 @@ Prayer bpn4394 in Filipino (bpn4394)
 
 -- Bahá'u'lláh
 
-Prayer bpn4395 in Filipino (bpn4395) 
+Prayer bpn4395 (bpn4395) 
 
 [bahaiprayers.net 4395](https://bahaiprayers.net/Book/Single/34/4395)
 
@@ -280,7 +280,7 @@ Prayer bpn4395 in Filipino (bpn4395)
 
 -- Bahá'u'lláh
 
-Prayer bpn4396 in Filipino (bpn4396) 
+Prayer bpn4396 (bpn4396) 
 
 [bahaiprayers.net 4396](https://bahaiprayers.net/Book/Single/34/4396)
 
@@ -293,7 +293,7 @@ Prayer bpn4396 in Filipino (bpn4396)
 
 -- Bahá'u'lláh
 
-Prayer bpn4397 in Filipino (bpn4397) 
+Prayer bpn4397 (bpn4397) 
 
 [bahaiprayers.net 4397](https://bahaiprayers.net/Book/Single/34/4397)
 
@@ -306,7 +306,7 @@ Prayer bpn4397 in Filipino (bpn4397)
 
 -- Bahá'u'lláh
 
-Prayer bpn4398 in Filipino (bpn4398) 
+Prayer bpn4398 (bpn4398) 
 
 [bahaiprayers.net 4398](https://bahaiprayers.net/Book/Single/34/4398)
 
@@ -319,7 +319,7 @@ Prayer bpn4398 in Filipino (bpn4398)
 
 -- Bahá'u'lláh
 
-Prayer bpn4399 in Filipino (bpn4399) 
+Prayer bpn4399 (bpn4399) 
 
 [bahaiprayers.net 4399](https://bahaiprayers.net/Book/Single/34/4399)
 
@@ -332,7 +332,7 @@ Prayer bpn4399 in Filipino (bpn4399)
 
 -- Bahá'u'lláh
 
-Prayer bpn4400 in Filipino (bpn4400) 
+Prayer bpn4400 (bpn4400) 
 
 [bahaiprayers.net 4400](https://bahaiprayers.net/Book/Single/34/4400)
 
@@ -345,7 +345,7 @@ Prayer bpn4400 in Filipino (bpn4400)
 
 -- Báb
 
-Prayer bpn4402 in Filipino (bpn4402) 
+Prayer bpn4402 (bpn4402) 
 
 [bahaiprayers.net 4402](https://bahaiprayers.net/Book/Single/34/4402)
 
@@ -358,7 +358,7 @@ Prayer bpn4402 in Filipino (bpn4402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4408 in Filipino (bpn4408) 
+Prayer bpn4408 (bpn4408) 
 
 [bahaiprayers.net 4408](https://bahaiprayers.net/Book/Single/34/4408)
 
@@ -371,7 +371,7 @@ Prayer bpn4408 in Filipino (bpn4408)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4403 in Filipino (bpn4403) 
+Prayer bpn4403 (bpn4403) 
 
 [bahaiprayers.net 4403](https://bahaiprayers.net/Book/Single/34/4403)
 
@@ -384,7 +384,7 @@ Prayer bpn4403 in Filipino (bpn4403)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4404 in Filipino (bpn4404) 
+Prayer bpn4404 (bpn4404) 
 
 [bahaiprayers.net 4404](https://bahaiprayers.net/Book/Single/34/4404)
 
@@ -397,7 +397,7 @@ Prayer bpn4404 in Filipino (bpn4404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4405 in Filipino (bpn4405) 
+Prayer bpn4405 (bpn4405) 
 
 [bahaiprayers.net 4405](https://bahaiprayers.net/Book/Single/34/4405)
 
@@ -410,7 +410,7 @@ Prayer bpn4405 in Filipino (bpn4405)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4406 in Filipino (bpn4406) 
+Prayer bpn4406 (bpn4406) 
 
 [bahaiprayers.net 4406](https://bahaiprayers.net/Book/Single/34/4406)
 
@@ -423,7 +423,7 @@ Prayer bpn4406 in Filipino (bpn4406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4407 in Filipino (bpn4407) 
+Prayer bpn4407 (bpn4407) 
 
 [bahaiprayers.net 4407](https://bahaiprayers.net/Book/Single/34/4407)
 
@@ -436,7 +436,7 @@ Prayer bpn4407 in Filipino (bpn4407)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4409 in Filipino (bpn4409) 
+Prayer bpn4409 (bpn4409) 
 
 [bahaiprayers.net 4409](https://bahaiprayers.net/Book/Single/34/4409)
 
@@ -449,7 +449,7 @@ Prayer bpn4409 in Filipino (bpn4409)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4410 in Filipino (bpn4410) 
+Prayer bpn4410 (bpn4410) 
 
 [bahaiprayers.net 4410](https://bahaiprayers.net/Book/Single/34/4410)
 
@@ -466,7 +466,7 @@ Prayer bpn4410 in Filipino (bpn4410)
 
 -- Bahá'u'lláh
 
-Prayer bpn4411 in Filipino (bpn4411) 
+Prayer bpn4411 (bpn4411) 
 
 [bahaiprayers.net 4411](https://bahaiprayers.net/Book/Single/34/4411)
 
@@ -479,7 +479,7 @@ Prayer bpn4411 in Filipino (bpn4411)
 
 -- Bahá'u'lláh
 
-Prayer bpn4412 in Filipino (bpn4412) 
+Prayer bpn4412 (bpn4412) 
 
 [bahaiprayers.net 4412](https://bahaiprayers.net/Book/Single/34/4412)
 
@@ -492,7 +492,7 @@ Prayer bpn4412 in Filipino (bpn4412)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4413 in Filipino (bpn4413) 
+Prayer bpn4413 (bpn4413) 
 
 [bahaiprayers.net 4413](https://bahaiprayers.net/Book/Single/34/4413)
 
@@ -509,7 +509,7 @@ Prayer bpn4413 in Filipino (bpn4413)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4414 in Filipino (bpn4414) 
+Prayer bpn4414 (bpn4414) 
 
 [bahaiprayers.net 4414](https://bahaiprayers.net/Book/Single/34/4414)
 
@@ -522,7 +522,7 @@ Prayer bpn4414 in Filipino (bpn4414)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4415 in Filipino (bpn4415) 
+Prayer bpn4415 (bpn4415) 
 
 [bahaiprayers.net 4415](https://bahaiprayers.net/Book/Single/34/4415)
 
@@ -539,7 +539,7 @@ Prayer bpn4415 in Filipino (bpn4415)
 
 -- Bahá'u'lláh
 
-Prayer bpn4416 in Filipino (bpn4416) 
+Prayer bpn4416 (bpn4416) 
 
 [bahaiprayers.net 4416](https://bahaiprayers.net/Book/Single/34/4416)
 
@@ -552,7 +552,7 @@ Prayer bpn4416 in Filipino (bpn4416)
 
 -- Bahá'u'lláh
 
-Prayer bpn4417 in Filipino (bpn4417) 
+Prayer bpn4417 (bpn4417) 
 
 [bahaiprayers.net 4417](https://bahaiprayers.net/Book/Single/34/4417)
 
@@ -565,7 +565,7 @@ Prayer bpn4417 in Filipino (bpn4417)
 
 -- Bahá'u'lláh
 
-Prayer bpn4418 in Filipino (bpn4418) 
+Prayer bpn4418 (bpn4418) 
 
 [bahaiprayers.net 4418](https://bahaiprayers.net/Book/Single/34/4418)
 
@@ -578,7 +578,7 @@ Prayer bpn4418 in Filipino (bpn4418)
 
 -- Bahá'u'lláh
 
-Prayer bpn4419 in Filipino (bpn4419) 
+Prayer bpn4419 (bpn4419) 
 
 [bahaiprayers.net 4419](https://bahaiprayers.net/Book/Single/34/4419)
 
@@ -591,7 +591,7 @@ Prayer bpn4419 in Filipino (bpn4419)
 
 -- Bahá'u'lláh
 
-Prayer bpn4420 in Filipino (bpn4420) 
+Prayer bpn4420 (bpn4420) 
 
 [bahaiprayers.net 4420](https://bahaiprayers.net/Book/Single/34/4420)
 
@@ -604,7 +604,7 @@ Prayer bpn4420 in Filipino (bpn4420)
 
 -- Báb
 
-Prayer bpn4423 in Filipino (bpn4423) 
+Prayer bpn4423 (bpn4423) 
 
 [bahaiprayers.net 4423](https://bahaiprayers.net/Book/Single/34/4423)
 
@@ -617,7 +617,7 @@ Prayer bpn4423 in Filipino (bpn4423)
 
 -- Báb
 
-Prayer bpn4421 in Filipino (bpn4421) 
+Prayer bpn4421 (bpn4421) 
 
 [bahaiprayers.net 4421](https://bahaiprayers.net/Book/Single/34/4421)
 
@@ -630,7 +630,7 @@ Prayer bpn4421 in Filipino (bpn4421)
 
 -- Báb
 
-Prayer bpn4422 in Filipino (bpn4422) 
+Prayer bpn4422 (bpn4422) 
 
 [bahaiprayers.net 4422](https://bahaiprayers.net/Book/Single/34/4422)
 
@@ -643,7 +643,7 @@ Prayer bpn4422 in Filipino (bpn4422)
 
 -- Báb
 
-Prayer bpn4424 in Filipino (bpn4424) 
+Prayer bpn4424 (bpn4424) 
 
 [bahaiprayers.net 4424](https://bahaiprayers.net/Book/Single/34/4424)
 
@@ -656,7 +656,7 @@ Prayer bpn4424 in Filipino (bpn4424)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4425 in Filipino (bpn4425) 
+Prayer bpn4425 (bpn4425) 
 
 [bahaiprayers.net 4425](https://bahaiprayers.net/Book/Single/34/4425)
 
@@ -673,7 +673,7 @@ Prayer bpn4425 in Filipino (bpn4425)
 
 -- Bahá'u'lláh
 
-Prayer bpn4377 in Filipino (bpn4377) 
+Prayer bpn4377 (bpn4377) 
 
 [bahaiprayers.net 4377](https://bahaiprayers.net/Book/Single/34/4377)
 
@@ -690,7 +690,7 @@ Prayer bpn4377 in Filipino (bpn4377)
 
 -- Bahá'u'lláh
 
-Prayer bpn4427 in Filipino (bpn4427) 
+Prayer bpn4427 (bpn4427) 
 
 [bahaiprayers.net 4427](https://bahaiprayers.net/Book/Single/34/4427)
 
@@ -703,7 +703,7 @@ Prayer bpn4427 in Filipino (bpn4427)
 
 -- Bahá'u'lláh
 
-Prayer bpn4428 in Filipino (bpn4428) 
+Prayer bpn4428 (bpn4428) 
 
 [bahaiprayers.net 4428](https://bahaiprayers.net/Book/Single/34/4428)
 
@@ -716,7 +716,7 @@ Prayer bpn4428 in Filipino (bpn4428)
 
 -- Bahá'u'lláh
 
-Prayer bpn4426 in Filipino (bpn4426) 
+Prayer bpn4426 (bpn4426) 
 
 [bahaiprayers.net 4426](https://bahaiprayers.net/Book/Single/34/4426)
 
@@ -729,7 +729,7 @@ Prayer bpn4426 in Filipino (bpn4426)
 
 -- Báb
 
-Prayer bpn4429 in Filipino (bpn4429) 
+Prayer bpn4429 (bpn4429) 
 
 [bahaiprayers.net 4429](https://bahaiprayers.net/Book/Single/34/4429)
 
@@ -742,7 +742,7 @@ Prayer bpn4429 in Filipino (bpn4429)
 
 -- Báb
 
-Prayer bpn4430 in Filipino (bpn4430) 
+Prayer bpn4430 (bpn4430) 
 
 [bahaiprayers.net 4430](https://bahaiprayers.net/Book/Single/34/4430)
 
@@ -755,7 +755,7 @@ Prayer bpn4430 in Filipino (bpn4430)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4431 in Filipino (bpn4431) 
+Prayer bpn4431 (bpn4431) 
 
 [bahaiprayers.net 4431](https://bahaiprayers.net/Book/Single/34/4431)
 
@@ -768,7 +768,7 @@ Prayer bpn4431 in Filipino (bpn4431)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4432 in Filipino (bpn4432) 
+Prayer bpn4432 (bpn4432) 
 
 [bahaiprayers.net 4432](https://bahaiprayers.net/Book/Single/34/4432)
 
@@ -785,7 +785,7 @@ Prayer bpn4432 in Filipino (bpn4432)
 
 -- Bahá'u'lláh
 
-Prayer bpn4378 in Filipino (bpn4378) 
+Prayer bpn4378 (bpn4378) 
 
 [bahaiprayers.net 4378](https://bahaiprayers.net/Book/Single/34/4378)
 
@@ -798,7 +798,7 @@ Prayer bpn4378 in Filipino (bpn4378)
 
 -- Bahá'u'lláh
 
-Prayer bpn4376 in Filipino (bpn4376) 
+Prayer bpn4376 (bpn4376) 
 
 [bahaiprayers.net 4376](https://bahaiprayers.net/Book/Single/34/4376)
 
@@ -815,7 +815,7 @@ Prayer bpn4376 in Filipino (bpn4376)
 
 -- Bahá'u'lláh
 
-Prayer bpn4384 in Filipino (bpn4384) 
+Prayer bpn4384 (bpn4384) 
 
 [bahaiprayers.net 4384](https://bahaiprayers.net/Book/Single/34/4384)
 
@@ -828,7 +828,7 @@ Prayer bpn4384 in Filipino (bpn4384)
 
 -- Bahá'u'lláh
 
-Prayer bpn4401 in Filipino (bpn4401) 
+Prayer bpn4401 (bpn4401) 
 
 [bahaiprayers.net 4401](https://bahaiprayers.net/Book/Single/34/4401)
 
@@ -841,7 +841,7 @@ Prayer bpn4401 in Filipino (bpn4401)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4385 in Filipino (bpn4385) 
+Prayer bpn4385 (bpn4385) 
 
 [bahaiprayers.net 4385](https://bahaiprayers.net/Book/Single/34/4385)
 
@@ -854,7 +854,7 @@ Prayer bpn4385 in Filipino (bpn4385)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4386 in Filipino (bpn4386) 
+Prayer bpn4386 (bpn4386) 
 
 [bahaiprayers.net 4386](https://bahaiprayers.net/Book/Single/34/4386)
 
@@ -867,7 +867,7 @@ Prayer bpn4386 in Filipino (bpn4386)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4387 in Filipino (bpn4387) 
+Prayer bpn4387 (bpn4387) 
 
 [bahaiprayers.net 4387](https://bahaiprayers.net/Book/Single/34/4387)
 
@@ -880,7 +880,7 @@ Prayer bpn4387 in Filipino (bpn4387)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4388 in Filipino (bpn4388) 
+Prayer bpn4388 (bpn4388) 
 
 [bahaiprayers.net 4388](https://bahaiprayers.net/Book/Single/34/4388)
 
@@ -893,7 +893,7 @@ Prayer bpn4388 in Filipino (bpn4388)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4389 in Filipino (bpn4389) 
+Prayer bpn4389 (bpn4389) 
 
 [bahaiprayers.net 4389](https://bahaiprayers.net/Book/Single/34/4389)
 
@@ -906,7 +906,7 @@ Prayer bpn4389 in Filipino (bpn4389)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4390 in Filipino (bpn4390) 
+Prayer bpn4390 (bpn4390) 
 
 [bahaiprayers.net 4390](https://bahaiprayers.net/Book/Single/34/4390)
 
@@ -919,7 +919,7 @@ Prayer bpn4390 in Filipino (bpn4390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4391 in Filipino (bpn4391) 
+Prayer bpn4391 (bpn4391) 
 
 [bahaiprayers.net 4391](https://bahaiprayers.net/Book/Single/34/4391)
 
@@ -932,7 +932,7 @@ Prayer bpn4391 in Filipino (bpn4391)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4392 in Filipino (bpn4392) 
+Prayer bpn4392 (bpn4392) 
 
 [bahaiprayers.net 4392](https://bahaiprayers.net/Book/Single/34/4392)
 
@@ -945,7 +945,7 @@ Prayer bpn4392 in Filipino (bpn4392)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4393 in Filipino (bpn4393) 
+Prayer bpn4393 (bpn4393) 
 
 [bahaiprayers.net 4393](https://bahaiprayers.net/Book/Single/34/4393)
 
@@ -962,7 +962,7 @@ Prayer bpn4393 in Filipino (bpn4393)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4454 in Filipino (bpn4454) 
+Prayer bpn4454 (bpn4454) 
 
 [bahaiprayers.net 4454](https://bahaiprayers.net/Book/Single/34/4454)
 
@@ -975,7 +975,7 @@ Prayer bpn4454 in Filipino (bpn4454)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4455 in Filipino (bpn4455) 
+Prayer bpn4455 (bpn4455) 
 
 [bahaiprayers.net 4455](https://bahaiprayers.net/Book/Single/34/4455)
 
@@ -988,7 +988,7 @@ Prayer bpn4455 in Filipino (bpn4455)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4456 in Filipino (bpn4456) 
+Prayer bpn4456 (bpn4456) 
 
 [bahaiprayers.net 4456](https://bahaiprayers.net/Book/Single/34/4456)
 
@@ -1001,7 +1001,7 @@ Prayer bpn4456 in Filipino (bpn4456)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4457 in Filipino (bpn4457) 
+Prayer bpn4457 (bpn4457) 
 
 [bahaiprayers.net 4457](https://bahaiprayers.net/Book/Single/34/4457)
 
@@ -1018,7 +1018,7 @@ Prayer bpn4457 in Filipino (bpn4457)
 
 -- Báb
 
-Prayer bpn4475 in Filipino (bpn4475) 
+Prayer bpn4475 (bpn4475) 
 
 [bahaiprayers.net 4475](https://bahaiprayers.net/Book/Single/34/4475)
 
@@ -1031,7 +1031,7 @@ Prayer bpn4475 in Filipino (bpn4475)
 
 -- Báb
 
-Prayer bpn4476 in Filipino (bpn4476) 
+Prayer bpn4476 (bpn4476) 
 
 [bahaiprayers.net 4476](https://bahaiprayers.net/Book/Single/34/4476)
 
@@ -1044,7 +1044,7 @@ Prayer bpn4476 in Filipino (bpn4476)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4477 in Filipino (bpn4477) 
+Prayer bpn4477 (bpn4477) 
 
 [bahaiprayers.net 4477](https://bahaiprayers.net/Book/Single/34/4477)
 
@@ -1057,7 +1057,7 @@ Prayer bpn4477 in Filipino (bpn4477)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4478 in Filipino (bpn4478) 
+Prayer bpn4478 (bpn4478) 
 
 [bahaiprayers.net 4478](https://bahaiprayers.net/Book/Single/34/4478)
 
@@ -1070,7 +1070,7 @@ Prayer bpn4478 in Filipino (bpn4478)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4479 in Filipino (bpn4479) 
+Prayer bpn4479 (bpn4479) 
 
 [bahaiprayers.net 4479](https://bahaiprayers.net/Book/Single/34/4479)
 
@@ -1087,7 +1087,7 @@ Prayer bpn4479 in Filipino (bpn4479)
 
 -- Bahá'u'lláh
 
-Prayer bpn4540 in Filipino (bpn4540) 
+Prayer bpn4540 (bpn4540) 
 
 [bahaiprayers.net 4540](https://bahaiprayers.net/Book/Single/34/4540)
 
@@ -1104,7 +1104,7 @@ Prayer bpn4540 in Filipino (bpn4540)
 
 -- Bahá'u'lláh
 
-Prayer bpn4433 in Filipino (bpn4433) 
+Prayer bpn4433 (bpn4433) 
 
 [bahaiprayers.net 4433](https://bahaiprayers.net/Book/Single/34/4433)
 
@@ -1117,7 +1117,7 @@ Prayer bpn4433 in Filipino (bpn4433)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4434 in Filipino (bpn4434) 
+Prayer bpn4434 (bpn4434) 
 
 [bahaiprayers.net 4434](https://bahaiprayers.net/Book/Single/34/4434)
 
@@ -1130,7 +1130,7 @@ Prayer bpn4434 in Filipino (bpn4434)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4435 in Filipino (bpn4435) 
+Prayer bpn4435 (bpn4435) 
 
 [bahaiprayers.net 4435](https://bahaiprayers.net/Book/Single/34/4435)
 
@@ -1143,7 +1143,7 @@ Prayer bpn4435 in Filipino (bpn4435)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4436 in Filipino (bpn4436) 
+Prayer bpn4436 (bpn4436) 
 
 [bahaiprayers.net 4436](https://bahaiprayers.net/Book/Single/34/4436)
 
@@ -1160,7 +1160,7 @@ Prayer bpn4436 in Filipino (bpn4436)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4438 in Filipino (bpn4438) 
+Prayer bpn4438 (bpn4438) 
 
 [bahaiprayers.net 4438](https://bahaiprayers.net/Book/Single/34/4438)
 
@@ -1173,7 +1173,7 @@ Prayer bpn4438 in Filipino (bpn4438)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4437 in Filipino (bpn4437) 
+Prayer bpn4437 (bpn4437) 
 
 [bahaiprayers.net 4437](https://bahaiprayers.net/Book/Single/34/4437)
 
@@ -1190,7 +1190,7 @@ Prayer bpn4437 in Filipino (bpn4437)
 
 -- Bahá'u'lláh
 
-Prayer bpn4439 in Filipino (bpn4439) 
+Prayer bpn4439 (bpn4439) 
 
 [bahaiprayers.net 4439](https://bahaiprayers.net/Book/Single/34/4439)
 
@@ -1203,7 +1203,7 @@ Prayer bpn4439 in Filipino (bpn4439)
 
 -- Bahá'u'lláh
 
-Prayer bpn4440 in Filipino (bpn4440) 
+Prayer bpn4440 (bpn4440) 
 
 [bahaiprayers.net 4440](https://bahaiprayers.net/Book/Single/34/4440)
 
@@ -1216,7 +1216,7 @@ Prayer bpn4440 in Filipino (bpn4440)
 
 -- Bahá'u'lláh
 
-Prayer bpn4441 in Filipino (bpn4441) 
+Prayer bpn4441 (bpn4441) 
 
 [bahaiprayers.net 4441](https://bahaiprayers.net/Book/Single/34/4441)
 
@@ -1229,7 +1229,7 @@ Prayer bpn4441 in Filipino (bpn4441)
 
 -- Bahá'u'lláh
 
-Prayer bpn4442 in Filipino (bpn4442) 
+Prayer bpn4442 (bpn4442) 
 
 [bahaiprayers.net 4442](https://bahaiprayers.net/Book/Single/34/4442)
 
@@ -1242,7 +1242,7 @@ Prayer bpn4442 in Filipino (bpn4442)
 
 -- Bahá'u'lláh
 
-Prayer bpn4443 in Filipino (bpn4443) 
+Prayer bpn4443 (bpn4443) 
 
 [bahaiprayers.net 4443](https://bahaiprayers.net/Book/Single/34/4443)
 
@@ -1255,7 +1255,7 @@ Prayer bpn4443 in Filipino (bpn4443)
 
 -- Báb
 
-Prayer bpn4444 in Filipino (bpn4444) 
+Prayer bpn4444 (bpn4444) 
 
 [bahaiprayers.net 4444](https://bahaiprayers.net/Book/Single/34/4444)
 
@@ -1268,7 +1268,7 @@ Prayer bpn4444 in Filipino (bpn4444)
 
 -- Báb
 
-Prayer bpn4445 in Filipino (bpn4445) 
+Prayer bpn4445 (bpn4445) 
 
 [bahaiprayers.net 4445](https://bahaiprayers.net/Book/Single/34/4445)
 
@@ -1281,7 +1281,7 @@ Prayer bpn4445 in Filipino (bpn4445)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4446 in Filipino (bpn4446) 
+Prayer bpn4446 (bpn4446) 
 
 [bahaiprayers.net 4446](https://bahaiprayers.net/Book/Single/34/4446)
 
@@ -1294,7 +1294,7 @@ Prayer bpn4446 in Filipino (bpn4446)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4447 in Filipino (bpn4447) 
+Prayer bpn4447 (bpn4447) 
 
 [bahaiprayers.net 4447](https://bahaiprayers.net/Book/Single/34/4447)
 
@@ -1311,7 +1311,7 @@ Prayer bpn4447 in Filipino (bpn4447)
 
 -- Bahá'u'lláh
 
-Prayer bpn4448 in Filipino (bpn4448) 
+Prayer bpn4448 (bpn4448) 
 
 [bahaiprayers.net 4448](https://bahaiprayers.net/Book/Single/34/4448)
 
@@ -1324,7 +1324,7 @@ Prayer bpn4448 in Filipino (bpn4448)
 
 -- Bahá'u'lláh
 
-Prayer bpn4450 in Filipino (bpn4450) 
+Prayer bpn4450 (bpn4450) 
 
 [bahaiprayers.net 4450](https://bahaiprayers.net/Book/Single/34/4450)
 
@@ -1337,7 +1337,7 @@ Prayer bpn4450 in Filipino (bpn4450)
 
 -- Bahá'u'lláh
 
-Prayer bpn4451 in Filipino (bpn4451) 
+Prayer bpn4451 (bpn4451) 
 
 [bahaiprayers.net 4451](https://bahaiprayers.net/Book/Single/34/4451)
 
@@ -1350,7 +1350,7 @@ Prayer bpn4451 in Filipino (bpn4451)
 
 -- Bahá'u'lláh
 
-Prayer bpn4452 in Filipino (bpn4452) 
+Prayer bpn4452 (bpn4452) 
 
 [bahaiprayers.net 4452](https://bahaiprayers.net/Book/Single/34/4452)
 
@@ -1363,7 +1363,7 @@ Prayer bpn4452 in Filipino (bpn4452)
 
 -- Bahá'u'lláh
 
-Prayer bpn4453 in Filipino (bpn4453) 
+Prayer bpn4453 (bpn4453) 
 
 [bahaiprayers.net 4453](https://bahaiprayers.net/Book/Single/34/4453)
 
@@ -1376,7 +1376,7 @@ Prayer bpn4453 in Filipino (bpn4453)
 
 -- Bahá'u'lláh
 
-Prayer bpn4449 in Filipino (bpn4449) 
+Prayer bpn4449 (bpn4449) 
 
 [bahaiprayers.net 4449](https://bahaiprayers.net/Book/Single/34/4449)
 
@@ -1393,7 +1393,7 @@ Prayer bpn4449 in Filipino (bpn4449)
 
 -- Bahá'u'lláh
 
-Prayer bpn4458 in Filipino (bpn4458) 
+Prayer bpn4458 (bpn4458) 
 
 [bahaiprayers.net 4458](https://bahaiprayers.net/Book/Single/34/4458)
 
@@ -1406,7 +1406,7 @@ Prayer bpn4458 in Filipino (bpn4458)
 
 -- Bahá'u'lláh
 
-Prayer bpn4459 in Filipino (bpn4459) 
+Prayer bpn4459 (bpn4459) 
 
 [bahaiprayers.net 4459](https://bahaiprayers.net/Book/Single/34/4459)
 
@@ -1419,7 +1419,7 @@ Prayer bpn4459 in Filipino (bpn4459)
 
 -- Bahá'u'lláh
 
-Prayer bpn4460 in Filipino (bpn4460) 
+Prayer bpn4460 (bpn4460) 
 
 [bahaiprayers.net 4460](https://bahaiprayers.net/Book/Single/34/4460)
 
@@ -1432,7 +1432,7 @@ Prayer bpn4460 in Filipino (bpn4460)
 
 -- Bahá'u'lláh
 
-Prayer bpn4461 in Filipino (bpn4461) 
+Prayer bpn4461 (bpn4461) 
 
 [bahaiprayers.net 4461](https://bahaiprayers.net/Book/Single/34/4461)
 
@@ -1445,7 +1445,7 @@ Prayer bpn4461 in Filipino (bpn4461)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4462 in Filipino (bpn4462) 
+Prayer bpn4462 (bpn4462) 
 
 [bahaiprayers.net 4462](https://bahaiprayers.net/Book/Single/34/4462)
 
@@ -1458,7 +1458,7 @@ Prayer bpn4462 in Filipino (bpn4462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4463 in Filipino (bpn4463) 
+Prayer bpn4463 (bpn4463) 
 
 [bahaiprayers.net 4463](https://bahaiprayers.net/Book/Single/34/4463)
 
@@ -1471,7 +1471,7 @@ Prayer bpn4463 in Filipino (bpn4463)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4464 in Filipino (bpn4464) 
+Prayer bpn4464 (bpn4464) 
 
 [bahaiprayers.net 4464](https://bahaiprayers.net/Book/Single/34/4464)
 
@@ -1484,7 +1484,7 @@ Prayer bpn4464 in Filipino (bpn4464)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4465 in Filipino (bpn4465) 
+Prayer bpn4465 (bpn4465) 
 
 [bahaiprayers.net 4465](https://bahaiprayers.net/Book/Single/34/4465)
 
@@ -1497,7 +1497,7 @@ Prayer bpn4465 in Filipino (bpn4465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4466 in Filipino (bpn4466) 
+Prayer bpn4466 (bpn4466) 
 
 [bahaiprayers.net 4466](https://bahaiprayers.net/Book/Single/34/4466)
 
@@ -1510,7 +1510,7 @@ Prayer bpn4466 in Filipino (bpn4466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4467 in Filipino (bpn4467) 
+Prayer bpn4467 (bpn4467) 
 
 [bahaiprayers.net 4467](https://bahaiprayers.net/Book/Single/34/4467)
 
@@ -1523,7 +1523,7 @@ Prayer bpn4467 in Filipino (bpn4467)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4468 in Filipino (bpn4468) 
+Prayer bpn4468 (bpn4468) 
 
 [bahaiprayers.net 4468](https://bahaiprayers.net/Book/Single/34/4468)
 
@@ -1536,7 +1536,7 @@ Prayer bpn4468 in Filipino (bpn4468)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4469 in Filipino (bpn4469) 
+Prayer bpn4469 (bpn4469) 
 
 [bahaiprayers.net 4469](https://bahaiprayers.net/Book/Single/34/4469)
 
@@ -1549,7 +1549,7 @@ Prayer bpn4469 in Filipino (bpn4469)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4470 in Filipino (bpn4470) 
+Prayer bpn4470 (bpn4470) 
 
 [bahaiprayers.net 4470](https://bahaiprayers.net/Book/Single/34/4470)
 
@@ -1562,7 +1562,7 @@ Prayer bpn4470 in Filipino (bpn4470)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4471 in Filipino (bpn4471) 
+Prayer bpn4471 (bpn4471) 
 
 [bahaiprayers.net 4471](https://bahaiprayers.net/Book/Single/34/4471)
 
@@ -1575,7 +1575,7 @@ Prayer bpn4471 in Filipino (bpn4471)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4472 in Filipino (bpn4472) 
+Prayer bpn4472 (bpn4472) 
 
 [bahaiprayers.net 4472](https://bahaiprayers.net/Book/Single/34/4472)
 
@@ -1588,7 +1588,7 @@ Prayer bpn4472 in Filipino (bpn4472)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4473 in Filipino (bpn4473) 
+Prayer bpn4473 (bpn4473) 
 
 [bahaiprayers.net 4473](https://bahaiprayers.net/Book/Single/34/4473)
 
@@ -1601,7 +1601,7 @@ Prayer bpn4473 in Filipino (bpn4473)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4474 in Filipino (bpn4474) 
+Prayer bpn4474 (bpn4474) 
 
 [bahaiprayers.net 4474](https://bahaiprayers.net/Book/Single/34/4474)
 
@@ -1618,7 +1618,7 @@ Prayer bpn4474 in Filipino (bpn4474)
 
 -- Bahá'u'lláh
 
-Prayer bpn4480 in Filipino (bpn4480) 
+Prayer bpn4480 (bpn4480) 
 
 [bahaiprayers.net 4480](https://bahaiprayers.net/Book/Single/34/4480)
 
@@ -1631,7 +1631,7 @@ Prayer bpn4480 in Filipino (bpn4480)
 
 -- Bahá'u'lláh
 
-Prayer bpn4481 in Filipino (bpn4481) 
+Prayer bpn4481 (bpn4481) 
 
 [bahaiprayers.net 4481](https://bahaiprayers.net/Book/Single/34/4481)
 
@@ -1644,7 +1644,7 @@ Prayer bpn4481 in Filipino (bpn4481)
 
 -- Bahá'u'lláh
 
-Prayer bpn4482 in Filipino (bpn4482) 
+Prayer bpn4482 (bpn4482) 
 
 [bahaiprayers.net 4482](https://bahaiprayers.net/Book/Single/34/4482)
 
@@ -1657,7 +1657,7 @@ Prayer bpn4482 in Filipino (bpn4482)
 
 -- Báb
 
-Prayer bpn4483 in Filipino (bpn4483) 
+Prayer bpn4483 (bpn4483) 
 
 [bahaiprayers.net 4483](https://bahaiprayers.net/Book/Single/34/4483)
 
@@ -1670,7 +1670,7 @@ Prayer bpn4483 in Filipino (bpn4483)
 
 -- Báb
 
-Prayer bpn4484 in Filipino (bpn4484) 
+Prayer bpn4484 (bpn4484) 
 
 [bahaiprayers.net 4484](https://bahaiprayers.net/Book/Single/34/4484)
 
@@ -1683,7 +1683,7 @@ Prayer bpn4484 in Filipino (bpn4484)
 
 -- Báb
 
-Prayer bpn4485 in Filipino (bpn4485) 
+Prayer bpn4485 (bpn4485) 
 
 [bahaiprayers.net 4485](https://bahaiprayers.net/Book/Single/34/4485)
 
@@ -1696,7 +1696,7 @@ Prayer bpn4485 in Filipino (bpn4485)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4486 in Filipino (bpn4486) 
+Prayer bpn4486 (bpn4486) 
 
 [bahaiprayers.net 4486](https://bahaiprayers.net/Book/Single/34/4486)
 
@@ -1709,7 +1709,7 @@ Prayer bpn4486 in Filipino (bpn4486)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4487 in Filipino (bpn4487) 
+Prayer bpn4487 (bpn4487) 
 
 [bahaiprayers.net 4487](https://bahaiprayers.net/Book/Single/34/4487)
 
@@ -1726,7 +1726,7 @@ Prayer bpn4487 in Filipino (bpn4487)
 
 -- Bahá'u'lláh
 
-Prayer bpn4536 in Filipino (bpn4536) 
+Prayer bpn4536 (bpn4536) 
 
 [bahaiprayers.net 4536](https://bahaiprayers.net/Book/Single/34/4536)
 
@@ -1743,7 +1743,7 @@ Prayer bpn4536 in Filipino (bpn4536)
 
 -- Bahá'u'lláh
 
-Prayer bpn4488 in Filipino (bpn4488) 
+Prayer bpn4488 (bpn4488) 
 
 [bahaiprayers.net 4488](https://bahaiprayers.net/Book/Single/34/4488)
 
@@ -1756,7 +1756,7 @@ Prayer bpn4488 in Filipino (bpn4488)
 
 -- Bahá'u'lláh
 
-Prayer bpn4489 in Filipino (bpn4489) 
+Prayer bpn4489 (bpn4489) 
 
 [bahaiprayers.net 4489](https://bahaiprayers.net/Book/Single/34/4489)
 
@@ -1769,7 +1769,7 @@ Prayer bpn4489 in Filipino (bpn4489)
 
 -- Bahá'u'lláh
 
-Prayer bpn4490 in Filipino (bpn4490) 
+Prayer bpn4490 (bpn4490) 
 
 [bahaiprayers.net 4490](https://bahaiprayers.net/Book/Single/34/4490)
 
@@ -1782,7 +1782,7 @@ Prayer bpn4490 in Filipino (bpn4490)
 
 -- Bahá'u'lláh
 
-Prayer bpn4491 in Filipino (bpn4491) 
+Prayer bpn4491 (bpn4491) 
 
 [bahaiprayers.net 4491](https://bahaiprayers.net/Book/Single/34/4491)
 
@@ -1795,7 +1795,7 @@ Prayer bpn4491 in Filipino (bpn4491)
 
 -- Báb
 
-Prayer bpn4492 in Filipino (bpn4492) 
+Prayer bpn4492 (bpn4492) 
 
 [bahaiprayers.net 4492](https://bahaiprayers.net/Book/Single/34/4492)
 
@@ -1812,7 +1812,7 @@ Prayer bpn4492 in Filipino (bpn4492)
 
 -- Bahá'u'lláh
 
-Prayer bpn4527 in Filipino (bpn4527) 
+Prayer bpn4527 (bpn4527) 
 
 [bahaiprayers.net 4527](https://bahaiprayers.net/Book/Single/34/4527)
 
@@ -1825,7 +1825,7 @@ Prayer bpn4527 in Filipino (bpn4527)
 
 -- Bahá'u'lláh
 
-Prayer bpn4528 in Filipino (bpn4528) 
+Prayer bpn4528 (bpn4528) 
 
 [bahaiprayers.net 4528](https://bahaiprayers.net/Book/Single/34/4528)
 
@@ -1838,7 +1838,7 @@ Prayer bpn4528 in Filipino (bpn4528)
 
 -- Bahá'u'lláh
 
-Prayer bpn6844 in Filipino (bpn6844) 
+Prayer bpn6844 (bpn6844) 
 
 [bahaiprayers.net 6844](https://bahaiprayers.net/Book/Single/34/6844)
 
@@ -1851,7 +1851,7 @@ Prayer bpn6844 in Filipino (bpn6844)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4529 in Filipino (bpn4529) 
+Prayer bpn4529 (bpn4529) 
 
 [bahaiprayers.net 4529](https://bahaiprayers.net/Book/Single/34/4529)
 
@@ -1864,7 +1864,7 @@ Prayer bpn4529 in Filipino (bpn4529)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4530 in Filipino (bpn4530) 
+Prayer bpn4530 (bpn4530) 
 
 [bahaiprayers.net 4530](https://bahaiprayers.net/Book/Single/34/4530)
 
@@ -1877,7 +1877,7 @@ Prayer bpn4530 in Filipino (bpn4530)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4531 in Filipino (bpn4531) 
+Prayer bpn4531 (bpn4531) 
 
 [bahaiprayers.net 4531](https://bahaiprayers.net/Book/Single/34/4531)
 
@@ -1894,7 +1894,7 @@ Prayer bpn4531 in Filipino (bpn4531)
 
 -- Bahá'u'lláh
 
-Prayer bpn4493 in Filipino (bpn4493) 
+Prayer bpn4493 (bpn4493) 
 
 [bahaiprayers.net 4493](https://bahaiprayers.net/Book/Single/34/4493)
 
@@ -1907,7 +1907,7 @@ Prayer bpn4493 in Filipino (bpn4493)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4494 in Filipino (bpn4494) 
+Prayer bpn4494 (bpn4494) 
 
 [bahaiprayers.net 4494](https://bahaiprayers.net/Book/Single/34/4494)
 
@@ -1920,7 +1920,7 @@ Prayer bpn4494 in Filipino (bpn4494)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4495 in Filipino (bpn4495) 
+Prayer bpn4495 (bpn4495) 
 
 [bahaiprayers.net 4495](https://bahaiprayers.net/Book/Single/34/4495)
 
@@ -1933,7 +1933,7 @@ Prayer bpn4495 in Filipino (bpn4495)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4496 in Filipino (bpn4496) 
+Prayer bpn4496 (bpn4496) 
 
 [bahaiprayers.net 4496](https://bahaiprayers.net/Book/Single/34/4496)
 
@@ -1950,7 +1950,7 @@ Prayer bpn4496 in Filipino (bpn4496)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4497 in Filipino (bpn4497) 
+Prayer bpn4497 (bpn4497) 
 
 [bahaiprayers.net 4497](https://bahaiprayers.net/Book/Single/34/4497)
 
@@ -1963,7 +1963,7 @@ Prayer bpn4497 in Filipino (bpn4497)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4498 in Filipino (bpn4498) 
+Prayer bpn4498 (bpn4498) 
 
 [bahaiprayers.net 4498](https://bahaiprayers.net/Book/Single/34/4498)
 
@@ -1976,7 +1976,7 @@ Prayer bpn4498 in Filipino (bpn4498)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4499 in Filipino (bpn4499) 
+Prayer bpn4499 (bpn4499) 
 
 [bahaiprayers.net 4499](https://bahaiprayers.net/Book/Single/34/4499)
 
@@ -1993,7 +1993,7 @@ Prayer bpn4499 in Filipino (bpn4499)
 
 -- Báb
 
-Prayer bpn4500 in Filipino (bpn4500) 
+Prayer bpn4500 (bpn4500) 
 
 [bahaiprayers.net 4500](https://bahaiprayers.net/Book/Single/34/4500)
 
@@ -2006,7 +2006,7 @@ Prayer bpn4500 in Filipino (bpn4500)
 
 -- Báb
 
-Prayer bpn4501 in Filipino (bpn4501) 
+Prayer bpn4501 (bpn4501) 
 
 [bahaiprayers.net 4501](https://bahaiprayers.net/Book/Single/34/4501)
 
@@ -2019,7 +2019,7 @@ Prayer bpn4501 in Filipino (bpn4501)
 
 -- Báb
 
-Prayer bpn4502 in Filipino (bpn4502) 
+Prayer bpn4502 (bpn4502) 
 
 [bahaiprayers.net 4502](https://bahaiprayers.net/Book/Single/34/4502)
 
@@ -2032,7 +2032,7 @@ Prayer bpn4502 in Filipino (bpn4502)
 
 -- Báb
 
-Prayer bpn4503 in Filipino (bpn4503) 
+Prayer bpn4503 (bpn4503) 
 
 [bahaiprayers.net 4503](https://bahaiprayers.net/Book/Single/34/4503)
 
@@ -2045,7 +2045,7 @@ Prayer bpn4503 in Filipino (bpn4503)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4504 in Filipino (bpn4504) 
+Prayer bpn4504 (bpn4504) 
 
 [bahaiprayers.net 4504](https://bahaiprayers.net/Book/Single/34/4504)
 
@@ -2058,7 +2058,7 @@ Prayer bpn4504 in Filipino (bpn4504)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4505 in Filipino (bpn4505) 
+Prayer bpn4505 (bpn4505) 
 
 [bahaiprayers.net 4505](https://bahaiprayers.net/Book/Single/34/4505)
 
@@ -2075,7 +2075,7 @@ Prayer bpn4505 in Filipino (bpn4505)
 
 -- Bahá'u'lláh
 
-Prayer bpn4506 in Filipino (bpn4506) 
+Prayer bpn4506 (bpn4506) 
 
 [bahaiprayers.net 4506](https://bahaiprayers.net/Book/Single/34/4506)
 
@@ -2088,7 +2088,7 @@ Prayer bpn4506 in Filipino (bpn4506)
 
 -- Bahá'u'lláh
 
-Prayer bpn4507 in Filipino (bpn4507) 
+Prayer bpn4507 (bpn4507) 
 
 [bahaiprayers.net 4507](https://bahaiprayers.net/Book/Single/34/4507)
 
@@ -2101,7 +2101,7 @@ Prayer bpn4507 in Filipino (bpn4507)
 
 -- Báb
 
-Prayer bpn4508 in Filipino (bpn4508) 
+Prayer bpn4508 (bpn4508) 
 
 [bahaiprayers.net 4508](https://bahaiprayers.net/Book/Single/34/4508)
 
@@ -2114,7 +2114,7 @@ Prayer bpn4508 in Filipino (bpn4508)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4509 in Filipino (bpn4509) 
+Prayer bpn4509 (bpn4509) 
 
 [bahaiprayers.net 4509](https://bahaiprayers.net/Book/Single/34/4509)
 
@@ -2127,7 +2127,7 @@ Prayer bpn4509 in Filipino (bpn4509)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4510 in Filipino (bpn4510) 
+Prayer bpn4510 (bpn4510) 
 
 [bahaiprayers.net 4510](https://bahaiprayers.net/Book/Single/34/4510)
 
@@ -2144,7 +2144,7 @@ Prayer bpn4510 in Filipino (bpn4510)
 
 -- Bahá'u'lláh
 
-Prayer bpn4511 in Filipino (bpn4511) 
+Prayer bpn4511 (bpn4511) 
 
 [bahaiprayers.net 4511](https://bahaiprayers.net/Book/Single/34/4511)
 
@@ -2157,7 +2157,7 @@ Prayer bpn4511 in Filipino (bpn4511)
 
 -- Bahá'u'lláh
 
-Prayer bpn4512 in Filipino (bpn4512) 
+Prayer bpn4512 (bpn4512) 
 
 [bahaiprayers.net 4512](https://bahaiprayers.net/Book/Single/34/4512)
 
@@ -2170,7 +2170,7 @@ Prayer bpn4512 in Filipino (bpn4512)
 
 -- Bahá'u'lláh
 
-Prayer bpn4513 in Filipino (bpn4513) 
+Prayer bpn4513 (bpn4513) 
 
 [bahaiprayers.net 4513](https://bahaiprayers.net/Book/Single/34/4513)
 
@@ -2183,7 +2183,7 @@ Prayer bpn4513 in Filipino (bpn4513)
 
 -- Bahá'u'lláh
 
-Prayer bpn4514 in Filipino (bpn4514) 
+Prayer bpn4514 (bpn4514) 
 
 [bahaiprayers.net 4514](https://bahaiprayers.net/Book/Single/34/4514)
 
@@ -2196,7 +2196,7 @@ Prayer bpn4514 in Filipino (bpn4514)
 
 -- Báb
 
-Prayer bpn4515 in Filipino (bpn4515) 
+Prayer bpn4515 (bpn4515) 
 
 [bahaiprayers.net 4515](https://bahaiprayers.net/Book/Single/34/4515)
 
@@ -2209,7 +2209,7 @@ Prayer bpn4515 in Filipino (bpn4515)
 
 -- Báb
 
-Prayer bpn4516 in Filipino (bpn4516) 
+Prayer bpn4516 (bpn4516) 
 
 [bahaiprayers.net 4516](https://bahaiprayers.net/Book/Single/34/4516)
 
@@ -2222,7 +2222,7 @@ Prayer bpn4516 in Filipino (bpn4516)
 
 -- Báb
 
-Prayer bpn4517 in Filipino (bpn4517) 
+Prayer bpn4517 (bpn4517) 
 
 [bahaiprayers.net 4517](https://bahaiprayers.net/Book/Single/34/4517)
 
@@ -2235,7 +2235,7 @@ Prayer bpn4517 in Filipino (bpn4517)
 
 -- Báb
 
-Prayer bpn4518 in Filipino (bpn4518) 
+Prayer bpn4518 (bpn4518) 
 
 [bahaiprayers.net 4518](https://bahaiprayers.net/Book/Single/34/4518)
 
@@ -2248,7 +2248,7 @@ Prayer bpn4518 in Filipino (bpn4518)
 
 -- Báb
 
-Prayer bpn4519 in Filipino (bpn4519) 
+Prayer bpn4519 (bpn4519) 
 
 [bahaiprayers.net 4519](https://bahaiprayers.net/Book/Single/34/4519)
 
@@ -2261,7 +2261,7 @@ Prayer bpn4519 in Filipino (bpn4519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4520 in Filipino (bpn4520) 
+Prayer bpn4520 (bpn4520) 
 
 [bahaiprayers.net 4520](https://bahaiprayers.net/Book/Single/34/4520)
 
@@ -2274,7 +2274,7 @@ Prayer bpn4520 in Filipino (bpn4520)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4521 in Filipino (bpn4521) 
+Prayer bpn4521 (bpn4521) 
 
 [bahaiprayers.net 4521](https://bahaiprayers.net/Book/Single/34/4521)
 
@@ -2287,7 +2287,7 @@ Prayer bpn4521 in Filipino (bpn4521)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4522 in Filipino (bpn4522) 
+Prayer bpn4522 (bpn4522) 
 
 [bahaiprayers.net 4522](https://bahaiprayers.net/Book/Single/34/4522)
 
@@ -2304,7 +2304,7 @@ Prayer bpn4522 in Filipino (bpn4522)
 
 -- Bahá'u'lláh
 
-Prayer bpn4523 in Filipino (bpn4523) 
+Prayer bpn4523 (bpn4523) 
 
 [bahaiprayers.net 4523](https://bahaiprayers.net/Book/Single/34/4523)
 
@@ -2317,7 +2317,7 @@ Prayer bpn4523 in Filipino (bpn4523)
 
 -- Bahá'u'lláh
 
-Prayer bpn4524 in Filipino (bpn4524) 
+Prayer bpn4524 (bpn4524) 
 
 [bahaiprayers.net 4524](https://bahaiprayers.net/Book/Single/34/4524)
 
@@ -2330,7 +2330,7 @@ Prayer bpn4524 in Filipino (bpn4524)
 
 -- Bahá'u'lláh
 
-Prayer bpn4525 in Filipino (bpn4525) 
+Prayer bpn4525 (bpn4525) 
 
 [bahaiprayers.net 4525](https://bahaiprayers.net/Book/Single/34/4525)
 
@@ -2343,7 +2343,7 @@ Prayer bpn4525 in Filipino (bpn4525)
 
 -- Bahá'u'lláh
 
-Prayer bpn4526 in Filipino (bpn4526) 
+Prayer bpn4526 (bpn4526) 
 
 [bahaiprayers.net 4526](https://bahaiprayers.net/Book/Single/34/4526)
 

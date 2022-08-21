@@ -94,7 +94,7 @@ tags = ['lang=ca', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn5783 in Català (bpn5783) 
+Prayer bpn5783 (bpn5783) 
 
 [bahaiprayers.net 5783](https://bahaiprayers.net/Book/Single/44/5783)
 
@@ -107,7 +107,7 @@ Prayer bpn5783 in Català (bpn5783)
 
 -- Bahá'u'lláh
 
-Prayer bpn5784 in Català (bpn5784) 
+Prayer bpn5784 (bpn5784) 
 
 [bahaiprayers.net 5784](https://bahaiprayers.net/Book/Single/44/5784)
 
@@ -120,7 +120,7 @@ Prayer bpn5784 in Català (bpn5784)
 
 -- Bahá'u'lláh
 
-Prayer bpn5785 in Català (bpn5785) 
+Prayer bpn5785 (bpn5785) 
 
 [bahaiprayers.net 5785](https://bahaiprayers.net/Book/Single/44/5785)
 
@@ -133,7 +133,7 @@ Prayer bpn5785 in Català (bpn5785)
 
 -- Bahá'u'lláh
 
-Prayer bpn5792 in Català (bpn5792) 
+Prayer bpn5792 (bpn5792) 
 
 [bahaiprayers.net 5792](https://bahaiprayers.net/Book/Single/44/5792)
 
@@ -146,7 +146,7 @@ Prayer bpn5792 in Català (bpn5792)
 
 -- Báb
 
-Prayer bpn5786 in Català (bpn5786) 
+Prayer bpn5786 (bpn5786) 
 
 [bahaiprayers.net 5786](https://bahaiprayers.net/Book/Single/44/5786)
 
@@ -159,7 +159,7 @@ Prayer bpn5786 in Català (bpn5786)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5793 in Català (bpn5793) 
+Prayer bpn5793 (bpn5793) 
 
 [bahaiprayers.net 5793](https://bahaiprayers.net/Book/Single/44/5793)
 
@@ -176,7 +176,7 @@ Prayer bpn5793 in Català (bpn5793)
 
 -- Bahá'u'lláh
 
-Prayer bpn5787 in Català (bpn5787) 
+Prayer bpn5787 (bpn5787) 
 
 [bahaiprayers.net 5787](https://bahaiprayers.net/Book/Single/44/5787)
 
@@ -189,7 +189,7 @@ Prayer bpn5787 in Català (bpn5787)
 
 -- Báb
 
-Prayer bpn5788 in Català (bpn5788) 
+Prayer bpn5788 (bpn5788) 
 
 [bahaiprayers.net 5788](https://bahaiprayers.net/Book/Single/44/5788)
 
@@ -202,7 +202,7 @@ Prayer bpn5788 in Català (bpn5788)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5789 in Català (bpn5789) 
+Prayer bpn5789 (bpn5789) 
 
 [bahaiprayers.net 5789](https://bahaiprayers.net/Book/Single/44/5789)
 
@@ -215,7 +215,7 @@ Prayer bpn5789 in Català (bpn5789)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5790 in Català (bpn5790) 
+Prayer bpn5790 (bpn5790) 
 
 [bahaiprayers.net 5790](https://bahaiprayers.net/Book/Single/44/5790)
 
@@ -228,7 +228,7 @@ Prayer bpn5790 in Català (bpn5790)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5791 in Català (bpn5791) 
+Prayer bpn5791 (bpn5791) 
 
 [bahaiprayers.net 5791](https://bahaiprayers.net/Book/Single/44/5791)
 
@@ -245,7 +245,7 @@ Prayer bpn5791 in Català (bpn5791)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5780 in Català (bpn5780) 
+Prayer bpn5780 (bpn5780) 
 
 [bahaiprayers.net 5780](https://bahaiprayers.net/Book/Single/44/5780)
 
@@ -258,7 +258,7 @@ Prayer bpn5780 in Català (bpn5780)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5781 in Català (bpn5781) 
+Prayer bpn5781 (bpn5781) 
 
 [bahaiprayers.net 5781](https://bahaiprayers.net/Book/Single/44/5781)
 
@@ -271,7 +271,7 @@ Prayer bpn5781 in Català (bpn5781)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5782 in Català (bpn5782) 
+Prayer bpn5782 (bpn5782) 
 
 [bahaiprayers.net 5782](https://bahaiprayers.net/Book/Single/44/5782)
 
@@ -288,7 +288,7 @@ Prayer bpn5782 in Català (bpn5782)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5832 in Català (bpn5832) 
+Prayer bpn5832 (bpn5832) 
 
 [bahaiprayers.net 5832](https://bahaiprayers.net/Book/Single/44/5832)
 
@@ -301,7 +301,7 @@ Prayer bpn5832 in Català (bpn5832)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5833 in Català (bpn5833) 
+Prayer bpn5833 (bpn5833) 
 
 [bahaiprayers.net 5833](https://bahaiprayers.net/Book/Single/44/5833)
 
@@ -314,7 +314,7 @@ Prayer bpn5833 in Català (bpn5833)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5834 in Català (bpn5834) 
+Prayer bpn5834 (bpn5834) 
 
 [bahaiprayers.net 5834](https://bahaiprayers.net/Book/Single/44/5834)
 
@@ -327,7 +327,7 @@ Prayer bpn5834 in Català (bpn5834)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5835 in Català (bpn5835) 
+Prayer bpn5835 (bpn5835) 
 
 [bahaiprayers.net 5835](https://bahaiprayers.net/Book/Single/44/5835)
 
@@ -340,7 +340,7 @@ Prayer bpn5835 in Català (bpn5835)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5836 in Català (bpn5836) 
+Prayer bpn5836 (bpn5836) 
 
 [bahaiprayers.net 5836](https://bahaiprayers.net/Book/Single/44/5836)
 
@@ -353,7 +353,7 @@ Prayer bpn5836 in Català (bpn5836)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5837 in Català (bpn5837) 
+Prayer bpn5837 (bpn5837) 
 
 [bahaiprayers.net 5837](https://bahaiprayers.net/Book/Single/44/5837)
 
@@ -366,7 +366,7 @@ Prayer bpn5837 in Català (bpn5837)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5838 in Català (bpn5838) 
+Prayer bpn5838 (bpn5838) 
 
 [bahaiprayers.net 5838](https://bahaiprayers.net/Book/Single/44/5838)
 
@@ -379,7 +379,7 @@ Prayer bpn5838 in Català (bpn5838)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5839 in Català (bpn5839) 
+Prayer bpn5839 (bpn5839) 
 
 [bahaiprayers.net 5839](https://bahaiprayers.net/Book/Single/44/5839)
 
@@ -392,7 +392,7 @@ Prayer bpn5839 in Català (bpn5839)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5840 in Català (bpn5840) 
+Prayer bpn5840 (bpn5840) 
 
 [bahaiprayers.net 5840](https://bahaiprayers.net/Book/Single/44/5840)
 
@@ -405,7 +405,7 @@ Prayer bpn5840 in Català (bpn5840)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5841 in Català (bpn5841) 
+Prayer bpn5841 (bpn5841) 
 
 [bahaiprayers.net 5841](https://bahaiprayers.net/Book/Single/44/5841)
 
@@ -422,7 +422,7 @@ Prayer bpn5841 in Català (bpn5841)
 
 -- Bahá'u'lláh
 
-Prayer bpn5772 in Català (bpn5772) 
+Prayer bpn5772 (bpn5772) 
 
 [bahaiprayers.net 5772](https://bahaiprayers.net/Book/Single/44/5772)
 
@@ -435,7 +435,7 @@ Prayer bpn5772 in Català (bpn5772)
 
 -- Bahá'u'lláh
 
-Prayer bpn5773 in Català (bpn5773) 
+Prayer bpn5773 (bpn5773) 
 
 [bahaiprayers.net 5773](https://bahaiprayers.net/Book/Single/44/5773)
 
@@ -448,7 +448,7 @@ Prayer bpn5773 in Català (bpn5773)
 
 -- Bahá'u'lláh
 
-Prayer bpn5774 in Català (bpn5774) 
+Prayer bpn5774 (bpn5774) 
 
 [bahaiprayers.net 5774](https://bahaiprayers.net/Book/Single/44/5774)
 
@@ -461,7 +461,7 @@ Prayer bpn5774 in Català (bpn5774)
 
 -- Bahá'u'lláh
 
-Prayer bpn5775 in Català (bpn5775) 
+Prayer bpn5775 (bpn5775) 
 
 [bahaiprayers.net 5775](https://bahaiprayers.net/Book/Single/44/5775)
 
@@ -474,7 +474,7 @@ Prayer bpn5775 in Català (bpn5775)
 
 -- Bahá'u'lláh
 
-Prayer bpn5776 in Català (bpn5776) 
+Prayer bpn5776 (bpn5776) 
 
 [bahaiprayers.net 5776](https://bahaiprayers.net/Book/Single/44/5776)
 
@@ -487,7 +487,7 @@ Prayer bpn5776 in Català (bpn5776)
 
 -- Bahá'u'lláh
 
-Prayer bpn5777 in Català (bpn5777) 
+Prayer bpn5777 (bpn5777) 
 
 [bahaiprayers.net 5777](https://bahaiprayers.net/Book/Single/44/5777)
 
@@ -500,7 +500,7 @@ Prayer bpn5777 in Català (bpn5777)
 
 -- Bahá'u'lláh
 
-Prayer bpn5778 in Català (bpn5778) 
+Prayer bpn5778 (bpn5778) 
 
 [bahaiprayers.net 5778](https://bahaiprayers.net/Book/Single/44/5778)
 
@@ -513,7 +513,7 @@ Prayer bpn5778 in Català (bpn5778)
 
 -- Bahá'u'lláh
 
-Prayer bpn5779 in Català (bpn5779) 
+Prayer bpn5779 (bpn5779) 
 
 [bahaiprayers.net 5779](https://bahaiprayers.net/Book/Single/44/5779)
 
@@ -530,7 +530,7 @@ Prayer bpn5779 in Català (bpn5779)
 
 -- Bahá'u'lláh
 
-Prayer bpn5794 in Català (bpn5794) 
+Prayer bpn5794 (bpn5794) 
 
 [bahaiprayers.net 5794](https://bahaiprayers.net/Book/Single/44/5794)
 
@@ -543,7 +543,7 @@ Prayer bpn5794 in Català (bpn5794)
 
 -- Bahá'u'lláh
 
-Prayer bpn5795 in Català (bpn5795) 
+Prayer bpn5795 (bpn5795) 
 
 [bahaiprayers.net 5795](https://bahaiprayers.net/Book/Single/44/5795)
 
@@ -556,7 +556,7 @@ Prayer bpn5795 in Català (bpn5795)
 
 -- Bahá'u'lláh
 
-Prayer bpn5796 in Català (bpn5796) 
+Prayer bpn5796 (bpn5796) 
 
 [bahaiprayers.net 5796](https://bahaiprayers.net/Book/Single/44/5796)
 
@@ -569,7 +569,7 @@ Prayer bpn5796 in Català (bpn5796)
 
 -- Bahá'u'lláh
 
-Prayer bpn5797 in Català (bpn5797) 
+Prayer bpn5797 (bpn5797) 
 
 [bahaiprayers.net 5797](https://bahaiprayers.net/Book/Single/44/5797)
 
@@ -582,7 +582,7 @@ Prayer bpn5797 in Català (bpn5797)
 
 -- Bahá'u'lláh
 
-Prayer bpn5798 in Català (bpn5798) 
+Prayer bpn5798 (bpn5798) 
 
 [bahaiprayers.net 5798](https://bahaiprayers.net/Book/Single/44/5798)
 
@@ -595,7 +595,7 @@ Prayer bpn5798 in Català (bpn5798)
 
 -- Bahá'u'lláh
 
-Prayer bpn5803 in Català (bpn5803) 
+Prayer bpn5803 (bpn5803) 
 
 [bahaiprayers.net 5803](https://bahaiprayers.net/Book/Single/44/5803)
 
@@ -608,7 +608,7 @@ Prayer bpn5803 in Català (bpn5803)
 
 -- Báb
 
-Prayer bpn5799 in Català (bpn5799) 
+Prayer bpn5799 (bpn5799) 
 
 [bahaiprayers.net 5799](https://bahaiprayers.net/Book/Single/44/5799)
 
@@ -621,7 +621,7 @@ Prayer bpn5799 in Català (bpn5799)
 
 -- Báb
 
-Prayer bpn5802 in Català (bpn5802) 
+Prayer bpn5802 (bpn5802) 
 
 [bahaiprayers.net 5802](https://bahaiprayers.net/Book/Single/44/5802)
 
@@ -634,7 +634,7 @@ Prayer bpn5802 in Català (bpn5802)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5800 in Català (bpn5800) 
+Prayer bpn5800 (bpn5800) 
 
 [bahaiprayers.net 5800](https://bahaiprayers.net/Book/Single/44/5800)
 
@@ -647,7 +647,7 @@ Prayer bpn5800 in Català (bpn5800)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5801 in Català (bpn5801) 
+Prayer bpn5801 (bpn5801) 
 
 [bahaiprayers.net 5801](https://bahaiprayers.net/Book/Single/44/5801)
 
@@ -664,7 +664,7 @@ Prayer bpn5801 in Català (bpn5801)
 
 -- Bahá'u'lláh
 
-Prayer bpn5771 in Català (bpn5771) 
+Prayer bpn5771 (bpn5771) 
 
 [bahaiprayers.net 5771](https://bahaiprayers.net/Book/Single/44/5771)
 
@@ -681,7 +681,7 @@ Prayer bpn5771 in Català (bpn5771)
 
 -- Bahá'u'lláh
 
-Prayer bpn5804 in Català (bpn5804) 
+Prayer bpn5804 (bpn5804) 
 
 [bahaiprayers.net 5804](https://bahaiprayers.net/Book/Single/44/5804)
 
@@ -694,7 +694,7 @@ Prayer bpn5804 in Català (bpn5804)
 
 -- Bahá'u'lláh
 
-Prayer bpn5805 in Català (bpn5805) 
+Prayer bpn5805 (bpn5805) 
 
 [bahaiprayers.net 5805](https://bahaiprayers.net/Book/Single/44/5805)
 
@@ -707,7 +707,7 @@ Prayer bpn5805 in Català (bpn5805)
 
 -- Bahá'u'lláh
 
-Prayer bpn5812 in Català (bpn5812) 
+Prayer bpn5812 (bpn5812) 
 
 [bahaiprayers.net 5812](https://bahaiprayers.net/Book/Single/44/5812)
 
@@ -720,7 +720,7 @@ Prayer bpn5812 in Català (bpn5812)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5806 in Català (bpn5806) 
+Prayer bpn5806 (bpn5806) 
 
 [bahaiprayers.net 5806](https://bahaiprayers.net/Book/Single/44/5806)
 
@@ -733,7 +733,7 @@ Prayer bpn5806 in Català (bpn5806)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5807 in Català (bpn5807) 
+Prayer bpn5807 (bpn5807) 
 
 [bahaiprayers.net 5807](https://bahaiprayers.net/Book/Single/44/5807)
 
@@ -746,7 +746,7 @@ Prayer bpn5807 in Català (bpn5807)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5808 in Català (bpn5808) 
+Prayer bpn5808 (bpn5808) 
 
 [bahaiprayers.net 5808](https://bahaiprayers.net/Book/Single/44/5808)
 
@@ -759,7 +759,7 @@ Prayer bpn5808 in Català (bpn5808)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5809 in Català (bpn5809) 
+Prayer bpn5809 (bpn5809) 
 
 [bahaiprayers.net 5809](https://bahaiprayers.net/Book/Single/44/5809)
 
@@ -772,7 +772,7 @@ Prayer bpn5809 in Català (bpn5809)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5810 in Català (bpn5810) 
+Prayer bpn5810 (bpn5810) 
 
 [bahaiprayers.net 5810](https://bahaiprayers.net/Book/Single/44/5810)
 
@@ -785,7 +785,7 @@ Prayer bpn5810 in Català (bpn5810)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5811 in Català (bpn5811) 
+Prayer bpn5811 (bpn5811) 
 
 [bahaiprayers.net 5811](https://bahaiprayers.net/Book/Single/44/5811)
 
@@ -802,7 +802,7 @@ Prayer bpn5811 in Català (bpn5811)
 
 -- Bahá'u'lláh
 
-Prayer bpn5813 in Català (bpn5813) 
+Prayer bpn5813 (bpn5813) 
 
 [bahaiprayers.net 5813](https://bahaiprayers.net/Book/Single/44/5813)
 
@@ -815,7 +815,7 @@ Prayer bpn5813 in Català (bpn5813)
 
 -- Bahá'u'lláh
 
-Prayer bpn5814 in Català (bpn5814) 
+Prayer bpn5814 (bpn5814) 
 
 [bahaiprayers.net 5814](https://bahaiprayers.net/Book/Single/44/5814)
 
@@ -828,7 +828,7 @@ Prayer bpn5814 in Català (bpn5814)
 
 -- Bahá'u'lláh
 
-Prayer bpn5815 in Català (bpn5815) 
+Prayer bpn5815 (bpn5815) 
 
 [bahaiprayers.net 5815](https://bahaiprayers.net/Book/Single/44/5815)
 
@@ -841,7 +841,7 @@ Prayer bpn5815 in Català (bpn5815)
 
 -- Bahá'u'lláh
 
-Prayer bpn5816 in Català (bpn5816) 
+Prayer bpn5816 (bpn5816) 
 
 [bahaiprayers.net 5816](https://bahaiprayers.net/Book/Single/44/5816)
 
@@ -854,7 +854,7 @@ Prayer bpn5816 in Català (bpn5816)
 
 -- Bahá'u'lláh
 
-Prayer bpn5817 in Català (bpn5817) 
+Prayer bpn5817 (bpn5817) 
 
 [bahaiprayers.net 5817](https://bahaiprayers.net/Book/Single/44/5817)
 
@@ -867,7 +867,7 @@ Prayer bpn5817 in Català (bpn5817)
 
 -- Bahá'u'lláh
 
-Prayer bpn5818 in Català (bpn5818) 
+Prayer bpn5818 (bpn5818) 
 
 [bahaiprayers.net 5818](https://bahaiprayers.net/Book/Single/44/5818)
 
@@ -880,7 +880,7 @@ Prayer bpn5818 in Català (bpn5818)
 
 -- Bahá'u'lláh
 
-Prayer bpn5819 in Català (bpn5819) 
+Prayer bpn5819 (bpn5819) 
 
 [bahaiprayers.net 5819](https://bahaiprayers.net/Book/Single/44/5819)
 
@@ -893,7 +893,7 @@ Prayer bpn5819 in Català (bpn5819)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5820 in Català (bpn5820) 
+Prayer bpn5820 (bpn5820) 
 
 [bahaiprayers.net 5820](https://bahaiprayers.net/Book/Single/44/5820)
 
@@ -906,7 +906,7 @@ Prayer bpn5820 in Català (bpn5820)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5821 in Català (bpn5821) 
+Prayer bpn5821 (bpn5821) 
 
 [bahaiprayers.net 5821](https://bahaiprayers.net/Book/Single/44/5821)
 
@@ -919,7 +919,7 @@ Prayer bpn5821 in Català (bpn5821)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5822 in Català (bpn5822) 
+Prayer bpn5822 (bpn5822) 
 
 [bahaiprayers.net 5822](https://bahaiprayers.net/Book/Single/44/5822)
 
@@ -936,7 +936,7 @@ Prayer bpn5822 in Català (bpn5822)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5828 in Català (bpn5828) 
+Prayer bpn5828 (bpn5828) 
 
 [bahaiprayers.net 5828](https://bahaiprayers.net/Book/Single/44/5828)
 
@@ -949,7 +949,7 @@ Prayer bpn5828 in Català (bpn5828)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5829 in Català (bpn5829) 
+Prayer bpn5829 (bpn5829) 
 
 [bahaiprayers.net 5829](https://bahaiprayers.net/Book/Single/44/5829)
 
@@ -962,7 +962,7 @@ Prayer bpn5829 in Català (bpn5829)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5830 in Català (bpn5830) 
+Prayer bpn5830 (bpn5830) 
 
 [bahaiprayers.net 5830](https://bahaiprayers.net/Book/Single/44/5830)
 
@@ -975,7 +975,7 @@ Prayer bpn5830 in Català (bpn5830)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5831 in Català (bpn5831) 
+Prayer bpn5831 (bpn5831) 
 
 [bahaiprayers.net 5831](https://bahaiprayers.net/Book/Single/44/5831)
 
@@ -992,7 +992,7 @@ Prayer bpn5831 in Català (bpn5831)
 
 -- Báb
 
-Prayer bpn5842 in Català (bpn5842) 
+Prayer bpn5842 (bpn5842) 
 
 [bahaiprayers.net 5842](https://bahaiprayers.net/Book/Single/44/5842)
 
@@ -1005,7 +1005,7 @@ Prayer bpn5842 in Català (bpn5842)
 
 -- Báb
 
-Prayer bpn5843 in Català (bpn5843) 
+Prayer bpn5843 (bpn5843) 
 
 [bahaiprayers.net 5843](https://bahaiprayers.net/Book/Single/44/5843)
 
@@ -1018,7 +1018,7 @@ Prayer bpn5843 in Català (bpn5843)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5844 in Català (bpn5844) 
+Prayer bpn5844 (bpn5844) 
 
 [bahaiprayers.net 5844](https://bahaiprayers.net/Book/Single/44/5844)
 
@@ -1035,7 +1035,7 @@ Prayer bpn5844 in Català (bpn5844)
 
 -- Bahá'u'lláh
 
-Prayer bpn5845 in Català (bpn5845) 
+Prayer bpn5845 (bpn5845) 
 
 [bahaiprayers.net 5845](https://bahaiprayers.net/Book/Single/44/5845)
 
@@ -1048,7 +1048,7 @@ Prayer bpn5845 in Català (bpn5845)
 
 -- Bahá'u'lláh
 
-Prayer bpn5846 in Català (bpn5846) 
+Prayer bpn5846 (bpn5846) 
 
 [bahaiprayers.net 5846](https://bahaiprayers.net/Book/Single/44/5846)
 
@@ -1061,7 +1061,7 @@ Prayer bpn5846 in Català (bpn5846)
 
 -- Bahá'u'lláh
 
-Prayer bpn5847 in Català (bpn5847) 
+Prayer bpn5847 (bpn5847) 
 
 [bahaiprayers.net 5847](https://bahaiprayers.net/Book/Single/44/5847)
 
@@ -1074,7 +1074,7 @@ Prayer bpn5847 in Català (bpn5847)
 
 -- Bahá'u'lláh
 
-Prayer bpn5848 in Català (bpn5848) 
+Prayer bpn5848 (bpn5848) 
 
 [bahaiprayers.net 5848](https://bahaiprayers.net/Book/Single/44/5848)
 
@@ -1087,7 +1087,7 @@ Prayer bpn5848 in Català (bpn5848)
 
 -- Bahá'u'lláh
 
-Prayer bpn5849 in Català (bpn5849) 
+Prayer bpn5849 (bpn5849) 
 
 [bahaiprayers.net 5849](https://bahaiprayers.net/Book/Single/44/5849)
 
@@ -1100,7 +1100,7 @@ Prayer bpn5849 in Català (bpn5849)
 
 -- Bahá'u'lláh
 
-Prayer bpn5854 in Català (bpn5854) 
+Prayer bpn5854 (bpn5854) 
 
 [bahaiprayers.net 5854](https://bahaiprayers.net/Book/Single/44/5854)
 
@@ -1113,7 +1113,7 @@ Prayer bpn5854 in Català (bpn5854)
 
 -- Bahá'u'lláh
 
-Prayer bpn5855 in Català (bpn5855) 
+Prayer bpn5855 (bpn5855) 
 
 [bahaiprayers.net 5855](https://bahaiprayers.net/Book/Single/44/5855)
 
@@ -1126,7 +1126,7 @@ Prayer bpn5855 in Català (bpn5855)
 
 -- Báb
 
-Prayer bpn5850 in Català (bpn5850) 
+Prayer bpn5850 (bpn5850) 
 
 [bahaiprayers.net 5850](https://bahaiprayers.net/Book/Single/44/5850)
 
@@ -1139,7 +1139,7 @@ Prayer bpn5850 in Català (bpn5850)
 
 -- Báb
 
-Prayer bpn5851 in Català (bpn5851) 
+Prayer bpn5851 (bpn5851) 
 
 [bahaiprayers.net 5851](https://bahaiprayers.net/Book/Single/44/5851)
 
@@ -1152,7 +1152,7 @@ Prayer bpn5851 in Català (bpn5851)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5852 in Català (bpn5852) 
+Prayer bpn5852 (bpn5852) 
 
 [bahaiprayers.net 5852](https://bahaiprayers.net/Book/Single/44/5852)
 
@@ -1165,7 +1165,7 @@ Prayer bpn5852 in Català (bpn5852)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5853 in Català (bpn5853) 
+Prayer bpn5853 (bpn5853) 
 
 [bahaiprayers.net 5853](https://bahaiprayers.net/Book/Single/44/5853)
 
@@ -1178,7 +1178,7 @@ Prayer bpn5853 in Català (bpn5853)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5856 in Català (bpn5856) 
+Prayer bpn5856 (bpn5856) 
 
 [bahaiprayers.net 5856](https://bahaiprayers.net/Book/Single/44/5856)
 
@@ -1191,7 +1191,7 @@ Prayer bpn5856 in Català (bpn5856)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5857 in Català (bpn5857) 
+Prayer bpn5857 (bpn5857) 
 
 [bahaiprayers.net 5857](https://bahaiprayers.net/Book/Single/44/5857)
 
@@ -1204,7 +1204,7 @@ Prayer bpn5857 in Català (bpn5857)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5858 in Català (bpn5858) 
+Prayer bpn5858 (bpn5858) 
 
 [bahaiprayers.net 5858](https://bahaiprayers.net/Book/Single/44/5858)
 
@@ -1221,7 +1221,7 @@ Prayer bpn5858 in Català (bpn5858)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5859 in Català (bpn5859) 
+Prayer bpn5859 (bpn5859) 
 
 [bahaiprayers.net 5859](https://bahaiprayers.net/Book/Single/44/5859)
 
@@ -1238,7 +1238,7 @@ Prayer bpn5859 in Català (bpn5859)
 
 -- Bahá'u'lláh
 
-Prayer bpn5860 in Català (bpn5860) 
+Prayer bpn5860 (bpn5860) 
 
 [bahaiprayers.net 5860](https://bahaiprayers.net/Book/Single/44/5860)
 
@@ -1251,7 +1251,7 @@ Prayer bpn5860 in Català (bpn5860)
 
 -- Bahá'u'lláh
 
-Prayer bpn5861 in Català (bpn5861) 
+Prayer bpn5861 (bpn5861) 
 
 [bahaiprayers.net 5861](https://bahaiprayers.net/Book/Single/44/5861)
 
@@ -1264,7 +1264,7 @@ Prayer bpn5861 in Català (bpn5861)
 
 -- Bahá'u'lláh
 
-Prayer bpn5862 in Català (bpn5862) 
+Prayer bpn5862 (bpn5862) 
 
 [bahaiprayers.net 5862](https://bahaiprayers.net/Book/Single/44/5862)
 
@@ -1277,7 +1277,7 @@ Prayer bpn5862 in Català (bpn5862)
 
 -- Bahá'u'lláh
 
-Prayer bpn5863 in Català (bpn5863) 
+Prayer bpn5863 (bpn5863) 
 
 [bahaiprayers.net 5863](https://bahaiprayers.net/Book/Single/44/5863)
 
@@ -1290,7 +1290,7 @@ Prayer bpn5863 in Català (bpn5863)
 
 -- Bahá'u'lláh
 
-Prayer bpn5864 in Català (bpn5864) 
+Prayer bpn5864 (bpn5864) 
 
 [bahaiprayers.net 5864](https://bahaiprayers.net/Book/Single/44/5864)
 
@@ -1303,7 +1303,7 @@ Prayer bpn5864 in Català (bpn5864)
 
 -- Bahá'u'lláh
 
-Prayer bpn5865 in Català (bpn5865) 
+Prayer bpn5865 (bpn5865) 
 
 [bahaiprayers.net 5865](https://bahaiprayers.net/Book/Single/44/5865)
 
@@ -1316,7 +1316,7 @@ Prayer bpn5865 in Català (bpn5865)
 
 -- Bahá'u'lláh
 
-Prayer bpn5866 in Català (bpn5866) 
+Prayer bpn5866 (bpn5866) 
 
 [bahaiprayers.net 5866](https://bahaiprayers.net/Book/Single/44/5866)
 
@@ -1333,7 +1333,7 @@ Prayer bpn5866 in Català (bpn5866)
 
 -- Bahá'u'lláh
 
-Prayer bpn5867 in Català (bpn5867) 
+Prayer bpn5867 (bpn5867) 
 
 [bahaiprayers.net 5867](https://bahaiprayers.net/Book/Single/44/5867)
 
@@ -1346,7 +1346,7 @@ Prayer bpn5867 in Català (bpn5867)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5868 in Català (bpn5868) 
+Prayer bpn5868 (bpn5868) 
 
 [bahaiprayers.net 5868](https://bahaiprayers.net/Book/Single/44/5868)
 
@@ -1359,7 +1359,7 @@ Prayer bpn5868 in Català (bpn5868)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5869 in Català (bpn5869) 
+Prayer bpn5869 (bpn5869) 
 
 [bahaiprayers.net 5869](https://bahaiprayers.net/Book/Single/44/5869)
 
@@ -1372,7 +1372,7 @@ Prayer bpn5869 in Català (bpn5869)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5870 in Català (bpn5870) 
+Prayer bpn5870 (bpn5870) 
 
 [bahaiprayers.net 5870](https://bahaiprayers.net/Book/Single/44/5870)
 
@@ -1385,7 +1385,7 @@ Prayer bpn5870 in Català (bpn5870)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5871 in Català (bpn5871) 
+Prayer bpn5871 (bpn5871) 
 
 [bahaiprayers.net 5871](https://bahaiprayers.net/Book/Single/44/5871)
 
@@ -1402,7 +1402,7 @@ Prayer bpn5871 in Català (bpn5871)
 
 -- Bahá'u'lláh
 
-Prayer bpn5768 in Català (bpn5768) 
+Prayer bpn5768 (bpn5768) 
 
 [bahaiprayers.net 5768](https://bahaiprayers.net/Book/Single/44/5768)
 
@@ -1415,7 +1415,7 @@ Prayer bpn5768 in Català (bpn5768)
 
 -- Bahá'u'lláh
 
-Prayer bpn5769 in Català (bpn5769) 
+Prayer bpn5769 (bpn5769) 
 
 [bahaiprayers.net 5769](https://bahaiprayers.net/Book/Single/44/5769)
 
@@ -1428,7 +1428,7 @@ Prayer bpn5769 in Català (bpn5769)
 
 -- Bahá'u'lláh
 
-Prayer bpn5770 in Català (bpn5770) 
+Prayer bpn5770 (bpn5770) 
 
 [bahaiprayers.net 5770](https://bahaiprayers.net/Book/Single/44/5770)
 
@@ -1441,7 +1441,7 @@ Prayer bpn5770 in Català (bpn5770)
 
 -- Bahá'u'lláh
 
-Prayer bpn5823 in Català (bpn5823) 
+Prayer bpn5823 (bpn5823) 
 
 [bahaiprayers.net 5823](https://bahaiprayers.net/Book/Single/44/5823)
 
@@ -1454,7 +1454,7 @@ Prayer bpn5823 in Català (bpn5823)
 
 -- Bahá'u'lláh
 
-Prayer bpn5824 in Català (bpn5824) 
+Prayer bpn5824 (bpn5824) 
 
 [bahaiprayers.net 5824](https://bahaiprayers.net/Book/Single/44/5824)
 
@@ -1467,7 +1467,7 @@ Prayer bpn5824 in Català (bpn5824)
 
 -- Bahá'u'lláh
 
-Prayer bpn5825 in Català (bpn5825) 
+Prayer bpn5825 (bpn5825) 
 
 [bahaiprayers.net 5825](https://bahaiprayers.net/Book/Single/44/5825)
 
@@ -1480,7 +1480,7 @@ Prayer bpn5825 in Català (bpn5825)
 
 -- Bahá'u'lláh
 
-Prayer bpn5826 in Català (bpn5826) 
+Prayer bpn5826 (bpn5826) 
 
 [bahaiprayers.net 5826](https://bahaiprayers.net/Book/Single/44/5826)
 
@@ -1493,7 +1493,7 @@ Prayer bpn5826 in Català (bpn5826)
 
 -- Bahá'u'lláh
 
-Prayer bpn5827 in Català (bpn5827) 
+Prayer bpn5827 (bpn5827) 
 
 [bahaiprayers.net 5827](https://bahaiprayers.net/Book/Single/44/5827)
 
@@ -1510,7 +1510,7 @@ Prayer bpn5827 in Català (bpn5827)
 
 -- Bahá'u'lláh
 
-Prayer bpn5872 in Català (bpn5872) 
+Prayer bpn5872 (bpn5872) 
 
 [bahaiprayers.net 5872](https://bahaiprayers.net/Book/Single/44/5872)
 
@@ -1523,7 +1523,7 @@ Prayer bpn5872 in Català (bpn5872)
 
 -- Bahá'u'lláh
 
-Prayer bpn5873 in Català (bpn5873) 
+Prayer bpn5873 (bpn5873) 
 
 [bahaiprayers.net 5873](https://bahaiprayers.net/Book/Single/44/5873)
 
@@ -1540,7 +1540,7 @@ Prayer bpn5873 in Català (bpn5873)
 
 -- Bahá'u'lláh
 
-Prayer bpn5874 in Català (bpn5874) 
+Prayer bpn5874 (bpn5874) 
 
 [bahaiprayers.net 5874](https://bahaiprayers.net/Book/Single/44/5874)
 
@@ -1553,7 +1553,7 @@ Prayer bpn5874 in Català (bpn5874)
 
 -- Bahá'u'lláh
 
-Prayer bpn5888 in Català (bpn5888) 
+Prayer bpn5888 (bpn5888) 
 
 [bahaiprayers.net 5888](https://bahaiprayers.net/Book/Single/44/5888)
 
@@ -1566,7 +1566,7 @@ Prayer bpn5888 in Català (bpn5888)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5875 in Català (bpn5875) 
+Prayer bpn5875 (bpn5875) 
 
 [bahaiprayers.net 5875](https://bahaiprayers.net/Book/Single/44/5875)
 
@@ -1579,7 +1579,7 @@ Prayer bpn5875 in Català (bpn5875)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5876 in Català (bpn5876) 
+Prayer bpn5876 (bpn5876) 
 
 [bahaiprayers.net 5876](https://bahaiprayers.net/Book/Single/44/5876)
 
@@ -1592,7 +1592,7 @@ Prayer bpn5876 in Català (bpn5876)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5877 in Català (bpn5877) 
+Prayer bpn5877 (bpn5877) 
 
 [bahaiprayers.net 5877](https://bahaiprayers.net/Book/Single/44/5877)
 
@@ -1605,7 +1605,7 @@ Prayer bpn5877 in Català (bpn5877)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5878 in Català (bpn5878) 
+Prayer bpn5878 (bpn5878) 
 
 [bahaiprayers.net 5878](https://bahaiprayers.net/Book/Single/44/5878)
 
@@ -1618,7 +1618,7 @@ Prayer bpn5878 in Català (bpn5878)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5879 in Català (bpn5879) 
+Prayer bpn5879 (bpn5879) 
 
 [bahaiprayers.net 5879](https://bahaiprayers.net/Book/Single/44/5879)
 
@@ -1631,7 +1631,7 @@ Prayer bpn5879 in Català (bpn5879)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5880 in Català (bpn5880) 
+Prayer bpn5880 (bpn5880) 
 
 [bahaiprayers.net 5880](https://bahaiprayers.net/Book/Single/44/5880)
 
@@ -1644,7 +1644,7 @@ Prayer bpn5880 in Català (bpn5880)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5881 in Català (bpn5881) 
+Prayer bpn5881 (bpn5881) 
 
 [bahaiprayers.net 5881](https://bahaiprayers.net/Book/Single/44/5881)
 
@@ -1657,7 +1657,7 @@ Prayer bpn5881 in Català (bpn5881)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5882 in Català (bpn5882) 
+Prayer bpn5882 (bpn5882) 
 
 [bahaiprayers.net 5882](https://bahaiprayers.net/Book/Single/44/5882)
 
@@ -1670,7 +1670,7 @@ Prayer bpn5882 in Català (bpn5882)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5883 in Català (bpn5883) 
+Prayer bpn5883 (bpn5883) 
 
 [bahaiprayers.net 5883](https://bahaiprayers.net/Book/Single/44/5883)
 
@@ -1683,7 +1683,7 @@ Prayer bpn5883 in Català (bpn5883)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5884 in Català (bpn5884) 
+Prayer bpn5884 (bpn5884) 
 
 [bahaiprayers.net 5884](https://bahaiprayers.net/Book/Single/44/5884)
 
@@ -1696,7 +1696,7 @@ Prayer bpn5884 in Català (bpn5884)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5885 in Català (bpn5885) 
+Prayer bpn5885 (bpn5885) 
 
 [bahaiprayers.net 5885](https://bahaiprayers.net/Book/Single/44/5885)
 
@@ -1709,7 +1709,7 @@ Prayer bpn5885 in Català (bpn5885)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5886 in Català (bpn5886) 
+Prayer bpn5886 (bpn5886) 
 
 [bahaiprayers.net 5886](https://bahaiprayers.net/Book/Single/44/5886)
 
@@ -1722,7 +1722,7 @@ Prayer bpn5886 in Català (bpn5886)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5887 in Català (bpn5887) 
+Prayer bpn5887 (bpn5887) 
 
 [bahaiprayers.net 5887](https://bahaiprayers.net/Book/Single/44/5887)
 
@@ -1739,7 +1739,7 @@ Prayer bpn5887 in Català (bpn5887)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5889 in Català (bpn5889) 
+Prayer bpn5889 (bpn5889) 
 
 [bahaiprayers.net 5889](https://bahaiprayers.net/Book/Single/44/5889)
 
@@ -1752,7 +1752,7 @@ Prayer bpn5889 in Català (bpn5889)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5890 in Català (bpn5890) 
+Prayer bpn5890 (bpn5890) 
 
 [bahaiprayers.net 5890](https://bahaiprayers.net/Book/Single/44/5890)
 
@@ -1765,7 +1765,7 @@ Prayer bpn5890 in Català (bpn5890)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5891 in Català (bpn5891) 
+Prayer bpn5891 (bpn5891) 
 
 [bahaiprayers.net 5891](https://bahaiprayers.net/Book/Single/44/5891)
 
@@ -1778,7 +1778,7 @@ Prayer bpn5891 in Català (bpn5891)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5892 in Català (bpn5892) 
+Prayer bpn5892 (bpn5892) 
 
 [bahaiprayers.net 5892](https://bahaiprayers.net/Book/Single/44/5892)
 
@@ -1791,7 +1791,7 @@ Prayer bpn5892 in Català (bpn5892)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5893 in Català (bpn5893) 
+Prayer bpn5893 (bpn5893) 
 
 [bahaiprayers.net 5893](https://bahaiprayers.net/Book/Single/44/5893)
 
@@ -1808,7 +1808,7 @@ Prayer bpn5893 in Català (bpn5893)
 
 -- Bahá'u'lláh
 
-Prayer bpn5898 in Català (bpn5898) 
+Prayer bpn5898 (bpn5898) 
 
 [bahaiprayers.net 5898](https://bahaiprayers.net/Book/Single/44/5898)
 
@@ -1825,7 +1825,7 @@ Prayer bpn5898 in Català (bpn5898)
 
 -- Bahá'u'lláh
 
-Prayer bpn5894 in Català (bpn5894) 
+Prayer bpn5894 (bpn5894) 
 
 [bahaiprayers.net 5894](https://bahaiprayers.net/Book/Single/44/5894)
 
@@ -1838,7 +1838,7 @@ Prayer bpn5894 in Català (bpn5894)
 
 -- Bahá'u'lláh
 
-Prayer bpn5895 in Català (bpn5895) 
+Prayer bpn5895 (bpn5895) 
 
 [bahaiprayers.net 5895](https://bahaiprayers.net/Book/Single/44/5895)
 
@@ -1851,7 +1851,7 @@ Prayer bpn5895 in Català (bpn5895)
 
 -- Bahá'u'lláh
 
-Prayer bpn5896 in Català (bpn5896) 
+Prayer bpn5896 (bpn5896) 
 
 [bahaiprayers.net 5896](https://bahaiprayers.net/Book/Single/44/5896)
 
@@ -1864,7 +1864,7 @@ Prayer bpn5896 in Català (bpn5896)
 
 -- Bahá'u'lláh
 
-Prayer bpn5897 in Català (bpn5897) 
+Prayer bpn5897 (bpn5897) 
 
 [bahaiprayers.net 5897](https://bahaiprayers.net/Book/Single/44/5897)
 
@@ -1881,7 +1881,7 @@ Prayer bpn5897 in Català (bpn5897)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5767 in Català (bpn5767) 
+Prayer bpn5767 (bpn5767) 
 
 [bahaiprayers.net 5767](https://bahaiprayers.net/Book/Single/44/5767)
 
@@ -1898,7 +1898,7 @@ Prayer bpn5767 in Català (bpn5767)
 
 -- Bahá'u'lláh
 
-Prayer bpn5766 in Català (bpn5766) 
+Prayer bpn5766 (bpn5766) 
 
 [bahaiprayers.net 5766](https://bahaiprayers.net/Book/Single/44/5766)
 
@@ -1915,7 +1915,7 @@ Prayer bpn5766 in Català (bpn5766)
 
 -- Bahá'u'lláh
 
-Prayer bpn5902 in Català (bpn5902) 
+Prayer bpn5902 (bpn5902) 
 
 [bahaiprayers.net 5902](https://bahaiprayers.net/Book/Single/44/5902)
 
@@ -1928,7 +1928,7 @@ Prayer bpn5902 in Català (bpn5902)
 
 -- Bahá'u'lláh
 
-Prayer bpn5903 in Català (bpn5903) 
+Prayer bpn5903 (bpn5903) 
 
 [bahaiprayers.net 5903](https://bahaiprayers.net/Book/Single/44/5903)
 
@@ -1941,7 +1941,7 @@ Prayer bpn5903 in Català (bpn5903)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5899 in Català (bpn5899) 
+Prayer bpn5899 (bpn5899) 
 
 [bahaiprayers.net 5899](https://bahaiprayers.net/Book/Single/44/5899)
 
@@ -1954,7 +1954,7 @@ Prayer bpn5899 in Català (bpn5899)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5900 in Català (bpn5900) 
+Prayer bpn5900 (bpn5900) 
 
 [bahaiprayers.net 5900](https://bahaiprayers.net/Book/Single/44/5900)
 
@@ -1967,7 +1967,7 @@ Prayer bpn5900 in Català (bpn5900)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5901 in Català (bpn5901) 
+Prayer bpn5901 (bpn5901) 
 
 [bahaiprayers.net 5901](https://bahaiprayers.net/Book/Single/44/5901)
 
@@ -1980,7 +1980,7 @@ Prayer bpn5901 in Català (bpn5901)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5904 in Català (bpn5904) 
+Prayer bpn5904 (bpn5904) 
 
 [bahaiprayers.net 5904](https://bahaiprayers.net/Book/Single/44/5904)
 
@@ -1997,7 +1997,7 @@ Prayer bpn5904 in Català (bpn5904)
 
 -- Bahá'u'lláh
 
-Prayer bpn5758 in Català (bpn5758) 
+Prayer bpn5758 (bpn5758) 
 
 [bahaiprayers.net 5758](https://bahaiprayers.net/Book/Single/44/5758)
 
@@ -2014,7 +2014,7 @@ Prayer bpn5758 in Català (bpn5758)
 
 -- Bahá'u'lláh
 
-Prayer bpn5760 in Català (bpn5760) 
+Prayer bpn5760 (bpn5760) 
 
 [bahaiprayers.net 5760](https://bahaiprayers.net/Book/Single/44/5760)
 
@@ -2031,7 +2031,7 @@ Prayer bpn5760 in Català (bpn5760)
 
 -- Bahá'u'lláh
 
-Prayer bpn5759 in Català (bpn5759) 
+Prayer bpn5759 (bpn5759) 
 
 [bahaiprayers.net 5759](https://bahaiprayers.net/Book/Single/44/5759)
 
@@ -2048,7 +2048,7 @@ Prayer bpn5759 in Català (bpn5759)
 
 -- Bahá'u'lláh
 
-Prayer bpn5905 in Català (bpn5905) 
+Prayer bpn5905 (bpn5905) 
 
 [bahaiprayers.net 5905](https://bahaiprayers.net/Book/Single/44/5905)
 
@@ -2061,7 +2061,7 @@ Prayer bpn5905 in Català (bpn5905)
 
 -- Bahá'u'lláh
 
-Prayer bpn5906 in Català (bpn5906) 
+Prayer bpn5906 (bpn5906) 
 
 [bahaiprayers.net 5906](https://bahaiprayers.net/Book/Single/44/5906)
 
@@ -2074,7 +2074,7 @@ Prayer bpn5906 in Català (bpn5906)
 
 -- Bahá'u'lláh
 
-Prayer bpn5907 in Català (bpn5907) 
+Prayer bpn5907 (bpn5907) 
 
 [bahaiprayers.net 5907](https://bahaiprayers.net/Book/Single/44/5907)
 
@@ -2087,7 +2087,7 @@ Prayer bpn5907 in Català (bpn5907)
 
 -- Bahá'u'lláh
 
-Prayer bpn5908 in Català (bpn5908) 
+Prayer bpn5908 (bpn5908) 
 
 [bahaiprayers.net 5908](https://bahaiprayers.net/Book/Single/44/5908)
 
@@ -2100,7 +2100,7 @@ Prayer bpn5908 in Català (bpn5908)
 
 -- Bahá'u'lláh
 
-Prayer bpn5909 in Català (bpn5909) 
+Prayer bpn5909 (bpn5909) 
 
 [bahaiprayers.net 5909](https://bahaiprayers.net/Book/Single/44/5909)
 
@@ -2113,7 +2113,7 @@ Prayer bpn5909 in Català (bpn5909)
 
 -- Báb
 
-Prayer bpn5910 in Català (bpn5910) 
+Prayer bpn5910 (bpn5910) 
 
 [bahaiprayers.net 5910](https://bahaiprayers.net/Book/Single/44/5910)
 
@@ -2126,7 +2126,7 @@ Prayer bpn5910 in Català (bpn5910)
 
 -- Báb
 
-Prayer bpn5911 in Català (bpn5911) 
+Prayer bpn5911 (bpn5911) 
 
 [bahaiprayers.net 5911](https://bahaiprayers.net/Book/Single/44/5911)
 
@@ -2139,7 +2139,7 @@ Prayer bpn5911 in Català (bpn5911)
 
 -- Báb
 
-Prayer bpn5912 in Català (bpn5912) 
+Prayer bpn5912 (bpn5912) 
 
 [bahaiprayers.net 5912](https://bahaiprayers.net/Book/Single/44/5912)
 
@@ -2152,7 +2152,7 @@ Prayer bpn5912 in Català (bpn5912)
 
 -- Báb
 
-Prayer bpn5913 in Català (bpn5913) 
+Prayer bpn5913 (bpn5913) 
 
 [bahaiprayers.net 5913](https://bahaiprayers.net/Book/Single/44/5913)
 
@@ -2165,7 +2165,7 @@ Prayer bpn5913 in Català (bpn5913)
 
 -- Báb
 
-Prayer bpn5914 in Català (bpn5914) 
+Prayer bpn5914 (bpn5914) 
 
 [bahaiprayers.net 5914](https://bahaiprayers.net/Book/Single/44/5914)
 
@@ -2178,7 +2178,7 @@ Prayer bpn5914 in Català (bpn5914)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5915 in Català (bpn5915) 
+Prayer bpn5915 (bpn5915) 
 
 [bahaiprayers.net 5915](https://bahaiprayers.net/Book/Single/44/5915)
 
@@ -2195,7 +2195,7 @@ Prayer bpn5915 in Català (bpn5915)
 
 -- Bahá'u'lláh
 
-Prayer bpn5916 in Català (bpn5916) 
+Prayer bpn5916 (bpn5916) 
 
 [bahaiprayers.net 5916](https://bahaiprayers.net/Book/Single/44/5916)
 
@@ -2208,7 +2208,7 @@ Prayer bpn5916 in Català (bpn5916)
 
 -- Bahá'u'lláh
 
-Prayer bpn5917 in Català (bpn5917) 
+Prayer bpn5917 (bpn5917) 
 
 [bahaiprayers.net 5917](https://bahaiprayers.net/Book/Single/44/5917)
 
@@ -2221,7 +2221,7 @@ Prayer bpn5917 in Català (bpn5917)
 
 -- Bahá'u'lláh
 
-Prayer bpn5918 in Català (bpn5918) 
+Prayer bpn5918 (bpn5918) 
 
 [bahaiprayers.net 5918](https://bahaiprayers.net/Book/Single/44/5918)
 
@@ -2234,7 +2234,7 @@ Prayer bpn5918 in Català (bpn5918)
 
 -- Bahá'u'lláh
 
-Prayer bpn5919 in Català (bpn5919) 
+Prayer bpn5919 (bpn5919) 
 
 [bahaiprayers.net 5919](https://bahaiprayers.net/Book/Single/44/5919)
 
@@ -2247,7 +2247,7 @@ Prayer bpn5919 in Català (bpn5919)
 
 -- Bahá'u'lláh
 
-Prayer bpn5927 in Català (bpn5927) 
+Prayer bpn5927 (bpn5927) 
 
 [bahaiprayers.net 5927](https://bahaiprayers.net/Book/Single/44/5927)
 
@@ -2260,7 +2260,7 @@ Prayer bpn5927 in Català (bpn5927)
 
 -- Báb
 
-Prayer bpn5920 in Català (bpn5920) 
+Prayer bpn5920 (bpn5920) 
 
 [bahaiprayers.net 5920](https://bahaiprayers.net/Book/Single/44/5920)
 
@@ -2273,7 +2273,7 @@ Prayer bpn5920 in Català (bpn5920)
 
 -- Báb
 
-Prayer bpn5921 in Català (bpn5921) 
+Prayer bpn5921 (bpn5921) 
 
 [bahaiprayers.net 5921](https://bahaiprayers.net/Book/Single/44/5921)
 
@@ -2286,7 +2286,7 @@ Prayer bpn5921 in Català (bpn5921)
 
 -- Báb
 
-Prayer bpn5922 in Català (bpn5922) 
+Prayer bpn5922 (bpn5922) 
 
 [bahaiprayers.net 5922](https://bahaiprayers.net/Book/Single/44/5922)
 
@@ -2299,7 +2299,7 @@ Prayer bpn5922 in Català (bpn5922)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5923 in Català (bpn5923) 
+Prayer bpn5923 (bpn5923) 
 
 [bahaiprayers.net 5923](https://bahaiprayers.net/Book/Single/44/5923)
 
@@ -2312,7 +2312,7 @@ Prayer bpn5923 in Català (bpn5923)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5924 in Català (bpn5924) 
+Prayer bpn5924 (bpn5924) 
 
 [bahaiprayers.net 5924](https://bahaiprayers.net/Book/Single/44/5924)
 
@@ -2325,7 +2325,7 @@ Prayer bpn5924 in Català (bpn5924)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5925 in Català (bpn5925) 
+Prayer bpn5925 (bpn5925) 
 
 [bahaiprayers.net 5925](https://bahaiprayers.net/Book/Single/44/5925)
 
@@ -2338,7 +2338,7 @@ Prayer bpn5925 in Català (bpn5925)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5926 in Català (bpn5926) 
+Prayer bpn5926 (bpn5926) 
 
 [bahaiprayers.net 5926](https://bahaiprayers.net/Book/Single/44/5926)
 
@@ -2355,7 +2355,7 @@ Prayer bpn5926 in Català (bpn5926)
 
 -- Bahá'u'lláh
 
-Prayer bpn5928 in Català (bpn5928) 
+Prayer bpn5928 (bpn5928) 
 
 [bahaiprayers.net 5928](https://bahaiprayers.net/Book/Single/44/5928)
 
@@ -2368,7 +2368,7 @@ Prayer bpn5928 in Català (bpn5928)
 
 -- Bahá'u'lláh
 
-Prayer bpn5929 in Català (bpn5929) 
+Prayer bpn5929 (bpn5929) 
 
 [bahaiprayers.net 5929](https://bahaiprayers.net/Book/Single/44/5929)
 
@@ -2381,7 +2381,7 @@ Prayer bpn5929 in Català (bpn5929)
 
 -- Bahá'u'lláh
 
-Prayer bpn5930 in Català (bpn5930) 
+Prayer bpn5930 (bpn5930) 
 
 [bahaiprayers.net 5930](https://bahaiprayers.net/Book/Single/44/5930)
 
@@ -2394,7 +2394,7 @@ Prayer bpn5930 in Català (bpn5930)
 
 -- Bahá'u'lláh
 
-Prayer bpn5931 in Català (bpn5931) 
+Prayer bpn5931 (bpn5931) 
 
 [bahaiprayers.net 5931](https://bahaiprayers.net/Book/Single/44/5931)
 
@@ -2407,7 +2407,7 @@ Prayer bpn5931 in Català (bpn5931)
 
 -- Bahá'u'lláh
 
-Prayer bpn5932 in Català (bpn5932) 
+Prayer bpn5932 (bpn5932) 
 
 [bahaiprayers.net 5932](https://bahaiprayers.net/Book/Single/44/5932)
 
@@ -2420,7 +2420,7 @@ Prayer bpn5932 in Català (bpn5932)
 
 -- Bahá'u'lláh
 
-Prayer bpn5933 in Català (bpn5933) 
+Prayer bpn5933 (bpn5933) 
 
 [bahaiprayers.net 5933](https://bahaiprayers.net/Book/Single/44/5933)
 
@@ -2433,7 +2433,7 @@ Prayer bpn5933 in Català (bpn5933)
 
 -- Báb
 
-Prayer bpn5934 in Català (bpn5934) 
+Prayer bpn5934 (bpn5934) 
 
 [bahaiprayers.net 5934](https://bahaiprayers.net/Book/Single/44/5934)
 
@@ -2446,7 +2446,7 @@ Prayer bpn5934 in Català (bpn5934)
 
 -- Báb
 
-Prayer bpn5935 in Català (bpn5935) 
+Prayer bpn5935 (bpn5935) 
 
 [bahaiprayers.net 5935](https://bahaiprayers.net/Book/Single/44/5935)
 
@@ -2459,7 +2459,7 @@ Prayer bpn5935 in Català (bpn5935)
 
 -- Báb
 
-Prayer bpn5936 in Català (bpn5936) 
+Prayer bpn5936 (bpn5936) 
 
 [bahaiprayers.net 5936](https://bahaiprayers.net/Book/Single/44/5936)
 
@@ -2472,7 +2472,7 @@ Prayer bpn5936 in Català (bpn5936)
 
 -- Báb
 
-Prayer bpn5937 in Català (bpn5937) 
+Prayer bpn5937 (bpn5937) 
 
 [bahaiprayers.net 5937](https://bahaiprayers.net/Book/Single/44/5937)
 
@@ -2485,7 +2485,7 @@ Prayer bpn5937 in Català (bpn5937)
 
 -- Báb
 
-Prayer bpn5938 in Català (bpn5938) 
+Prayer bpn5938 (bpn5938) 
 
 [bahaiprayers.net 5938](https://bahaiprayers.net/Book/Single/44/5938)
 
@@ -2498,7 +2498,7 @@ Prayer bpn5938 in Català (bpn5938)
 
 -- Báb
 
-Prayer bpn5939 in Català (bpn5939) 
+Prayer bpn5939 (bpn5939) 
 
 [bahaiprayers.net 5939](https://bahaiprayers.net/Book/Single/44/5939)
 
@@ -2511,7 +2511,7 @@ Prayer bpn5939 in Català (bpn5939)
 
 -- Báb
 
-Prayer bpn5940 in Català (bpn5940) 
+Prayer bpn5940 (bpn5940) 
 
 [bahaiprayers.net 5940](https://bahaiprayers.net/Book/Single/44/5940)
 
@@ -2524,7 +2524,7 @@ Prayer bpn5940 in Català (bpn5940)
 
 -- Báb
 
-Prayer bpn5941 in Català (bpn5941) 
+Prayer bpn5941 (bpn5941) 
 
 [bahaiprayers.net 5941](https://bahaiprayers.net/Book/Single/44/5941)
 
@@ -2541,7 +2541,7 @@ Prayer bpn5941 in Català (bpn5941)
 
 -- Bahá'u'lláh
 
-Prayer bpn5942 in Català (bpn5942) 
+Prayer bpn5942 (bpn5942) 
 
 [bahaiprayers.net 5942](https://bahaiprayers.net/Book/Single/44/5942)
 
@@ -2554,7 +2554,7 @@ Prayer bpn5942 in Català (bpn5942)
 
 -- Bahá'u'lláh
 
-Prayer bpn5943 in Català (bpn5943) 
+Prayer bpn5943 (bpn5943) 
 
 [bahaiprayers.net 5943](https://bahaiprayers.net/Book/Single/44/5943)
 
@@ -2567,7 +2567,7 @@ Prayer bpn5943 in Català (bpn5943)
 
 -- Bahá'u'lláh
 
-Prayer bpn5944 in Català (bpn5944) 
+Prayer bpn5944 (bpn5944) 
 
 [bahaiprayers.net 5944](https://bahaiprayers.net/Book/Single/44/5944)
 
@@ -2580,7 +2580,7 @@ Prayer bpn5944 in Català (bpn5944)
 
 -- Bahá'u'lláh
 
-Prayer bpn5954 in Català (bpn5954) 
+Prayer bpn5954 (bpn5954) 
 
 [bahaiprayers.net 5954](https://bahaiprayers.net/Book/Single/44/5954)
 
@@ -2593,7 +2593,7 @@ Prayer bpn5954 in Català (bpn5954)
 
 -- Bahá'u'lláh
 
-Prayer bpn5955 in Català (bpn5955) 
+Prayer bpn5955 (bpn5955) 
 
 [bahaiprayers.net 5955](https://bahaiprayers.net/Book/Single/44/5955)
 
@@ -2606,7 +2606,7 @@ Prayer bpn5955 in Català (bpn5955)
 
 -- Bahá'u'lláh
 
-Prayer bpn5956 in Català (bpn5956) 
+Prayer bpn5956 (bpn5956) 
 
 [bahaiprayers.net 5956](https://bahaiprayers.net/Book/Single/44/5956)
 
@@ -2619,7 +2619,7 @@ Prayer bpn5956 in Català (bpn5956)
 
 -- Bahá'u'lláh
 
-Prayer bpn5957 in Català (bpn5957) 
+Prayer bpn5957 (bpn5957) 
 
 [bahaiprayers.net 5957](https://bahaiprayers.net/Book/Single/44/5957)
 
@@ -2632,7 +2632,7 @@ Prayer bpn5957 in Català (bpn5957)
 
 -- Bahá'u'lláh
 
-Prayer bpn5958 in Català (bpn5958) 
+Prayer bpn5958 (bpn5958) 
 
 [bahaiprayers.net 5958](https://bahaiprayers.net/Book/Single/44/5958)
 
@@ -2645,7 +2645,7 @@ Prayer bpn5958 in Català (bpn5958)
 
 -- Báb
 
-Prayer bpn5945 in Català (bpn5945) 
+Prayer bpn5945 (bpn5945) 
 
 [bahaiprayers.net 5945](https://bahaiprayers.net/Book/Single/44/5945)
 
@@ -2658,7 +2658,7 @@ Prayer bpn5945 in Català (bpn5945)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5946 in Català (bpn5946) 
+Prayer bpn5946 (bpn5946) 
 
 [bahaiprayers.net 5946](https://bahaiprayers.net/Book/Single/44/5946)
 
@@ -2671,7 +2671,7 @@ Prayer bpn5946 in Català (bpn5946)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5947 in Català (bpn5947) 
+Prayer bpn5947 (bpn5947) 
 
 [bahaiprayers.net 5947](https://bahaiprayers.net/Book/Single/44/5947)
 
@@ -2684,7 +2684,7 @@ Prayer bpn5947 in Català (bpn5947)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5948 in Català (bpn5948) 
+Prayer bpn5948 (bpn5948) 
 
 [bahaiprayers.net 5948](https://bahaiprayers.net/Book/Single/44/5948)
 
@@ -2697,7 +2697,7 @@ Prayer bpn5948 in Català (bpn5948)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5949 in Català (bpn5949) 
+Prayer bpn5949 (bpn5949) 
 
 [bahaiprayers.net 5949](https://bahaiprayers.net/Book/Single/44/5949)
 
@@ -2710,7 +2710,7 @@ Prayer bpn5949 in Català (bpn5949)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5950 in Català (bpn5950) 
+Prayer bpn5950 (bpn5950) 
 
 [bahaiprayers.net 5950](https://bahaiprayers.net/Book/Single/44/5950)
 
@@ -2723,7 +2723,7 @@ Prayer bpn5950 in Català (bpn5950)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5951 in Català (bpn5951) 
+Prayer bpn5951 (bpn5951) 
 
 [bahaiprayers.net 5951](https://bahaiprayers.net/Book/Single/44/5951)
 
@@ -2736,7 +2736,7 @@ Prayer bpn5951 in Català (bpn5951)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5952 in Català (bpn5952) 
+Prayer bpn5952 (bpn5952) 
 
 [bahaiprayers.net 5952](https://bahaiprayers.net/Book/Single/44/5952)
 
@@ -2749,7 +2749,7 @@ Prayer bpn5952 in Català (bpn5952)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5953 in Català (bpn5953) 
+Prayer bpn5953 (bpn5953) 
 
 [bahaiprayers.net 5953](https://bahaiprayers.net/Book/Single/44/5953)
 
@@ -2762,7 +2762,7 @@ Prayer bpn5953 in Català (bpn5953)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5959 in Català (bpn5959) 
+Prayer bpn5959 (bpn5959) 
 
 [bahaiprayers.net 5959](https://bahaiprayers.net/Book/Single/44/5959)
 
@@ -2779,7 +2779,7 @@ Prayer bpn5959 in Català (bpn5959)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5960 in Català (bpn5960) 
+Prayer bpn5960 (bpn5960) 
 
 [bahaiprayers.net 5960](https://bahaiprayers.net/Book/Single/44/5960)
 
@@ -2792,7 +2792,7 @@ Prayer bpn5960 in Català (bpn5960)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5961 in Català (bpn5961) 
+Prayer bpn5961 (bpn5961) 
 
 [bahaiprayers.net 5961](https://bahaiprayers.net/Book/Single/44/5961)
 
@@ -2805,7 +2805,7 @@ Prayer bpn5961 in Català (bpn5961)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5962 in Català (bpn5962) 
+Prayer bpn5962 (bpn5962) 
 
 [bahaiprayers.net 5962](https://bahaiprayers.net/Book/Single/44/5962)
 
@@ -2818,7 +2818,7 @@ Prayer bpn5962 in Català (bpn5962)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5963 in Català (bpn5963) 
+Prayer bpn5963 (bpn5963) 
 
 [bahaiprayers.net 5963](https://bahaiprayers.net/Book/Single/44/5963)
 
@@ -2831,7 +2831,7 @@ Prayer bpn5963 in Català (bpn5963)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5964 in Català (bpn5964) 
+Prayer bpn5964 (bpn5964) 
 
 [bahaiprayers.net 5964](https://bahaiprayers.net/Book/Single/44/5964)
 
@@ -2844,7 +2844,7 @@ Prayer bpn5964 in Català (bpn5964)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5965 in Català (bpn5965) 
+Prayer bpn5965 (bpn5965) 
 
 [bahaiprayers.net 5965](https://bahaiprayers.net/Book/Single/44/5965)
 
@@ -2857,7 +2857,7 @@ Prayer bpn5965 in Català (bpn5965)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5966 in Català (bpn5966) 
+Prayer bpn5966 (bpn5966) 
 
 [bahaiprayers.net 5966](https://bahaiprayers.net/Book/Single/44/5966)
 
@@ -2874,7 +2874,7 @@ Prayer bpn5966 in Català (bpn5966)
 
 -- Bahá'u'lláh
 
-Prayer bpn5764 in Català (bpn5764) 
+Prayer bpn5764 (bpn5764) 
 
 [bahaiprayers.net 5764](https://bahaiprayers.net/Book/Single/44/5764)
 
@@ -2891,7 +2891,7 @@ Prayer bpn5764 in Català (bpn5764)
 
 -- Bahá'u'lláh
 
-Prayer bpn5763 in Català (bpn5763) 
+Prayer bpn5763 (bpn5763) 
 
 [bahaiprayers.net 5763](https://bahaiprayers.net/Book/Single/44/5763)
 
@@ -2908,7 +2908,7 @@ Prayer bpn5763 in Català (bpn5763)
 
 -- Bahá'u'lláh
 
-Prayer bpn5765 in Català (bpn5765) 
+Prayer bpn5765 (bpn5765) 
 
 [bahaiprayers.net 5765](https://bahaiprayers.net/Book/Single/44/5765)
 
@@ -2925,7 +2925,7 @@ Prayer bpn5765 in Català (bpn5765)
 
 -- Bahá'u'lláh
 
-Prayer bpn5761 in Català (bpn5761) 
+Prayer bpn5761 (bpn5761) 
 
 [bahaiprayers.net 5761](https://bahaiprayers.net/Book/Single/44/5761)
 
@@ -2942,7 +2942,7 @@ Prayer bpn5761 in Català (bpn5761)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5762 in Català (bpn5762) 
+Prayer bpn5762 (bpn5762) 
 
 [bahaiprayers.net 5762](https://bahaiprayers.net/Book/Single/44/5762)
 
@@ -2959,7 +2959,7 @@ Prayer bpn5762 in Català (bpn5762)
 
 -- Bahá'u'lláh
 
-Prayer bpn5967 in Català (bpn5967) 
+Prayer bpn5967 (bpn5967) 
 
 [bahaiprayers.net 5967](https://bahaiprayers.net/Book/Single/44/5967)
 
@@ -2972,7 +2972,7 @@ Prayer bpn5967 in Català (bpn5967)
 
 -- Bahá'u'lláh
 
-Prayer bpn5968 in Català (bpn5968) 
+Prayer bpn5968 (bpn5968) 
 
 [bahaiprayers.net 5968](https://bahaiprayers.net/Book/Single/44/5968)
 
@@ -2985,7 +2985,7 @@ Prayer bpn5968 in Català (bpn5968)
 
 -- Bahá'u'lláh
 
-Prayer bpn5969 in Català (bpn5969) 
+Prayer bpn5969 (bpn5969) 
 
 [bahaiprayers.net 5969](https://bahaiprayers.net/Book/Single/44/5969)
 
@@ -2998,7 +2998,7 @@ Prayer bpn5969 in Català (bpn5969)
 
 -- Báb
 
-Prayer bpn5970 in Català (bpn5970) 
+Prayer bpn5970 (bpn5970) 
 
 [bahaiprayers.net 5970](https://bahaiprayers.net/Book/Single/44/5970)
 
@@ -3011,7 +3011,7 @@ Prayer bpn5970 in Català (bpn5970)
 
 -- Báb
 
-Prayer bpn5971 in Català (bpn5971) 
+Prayer bpn5971 (bpn5971) 
 
 [bahaiprayers.net 5971](https://bahaiprayers.net/Book/Single/44/5971)
 
@@ -3024,7 +3024,7 @@ Prayer bpn5971 in Català (bpn5971)
 
 -- Báb
 
-Prayer bpn5972 in Català (bpn5972) 
+Prayer bpn5972 (bpn5972) 
 
 [bahaiprayers.net 5972](https://bahaiprayers.net/Book/Single/44/5972)
 
@@ -3037,7 +3037,7 @@ Prayer bpn5972 in Català (bpn5972)
 
 -- Báb
 
-Prayer bpn5973 in Català (bpn5973) 
+Prayer bpn5973 (bpn5973) 
 
 [bahaiprayers.net 5973](https://bahaiprayers.net/Book/Single/44/5973)
 
@@ -3050,7 +3050,7 @@ Prayer bpn5973 in Català (bpn5973)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5974 in Català (bpn5974) 
+Prayer bpn5974 (bpn5974) 
 
 [bahaiprayers.net 5974](https://bahaiprayers.net/Book/Single/44/5974)
 
@@ -3063,7 +3063,7 @@ Prayer bpn5974 in Català (bpn5974)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5975 in Català (bpn5975) 
+Prayer bpn5975 (bpn5975) 
 
 [bahaiprayers.net 5975](https://bahaiprayers.net/Book/Single/44/5975)
 
@@ -3080,7 +3080,7 @@ Prayer bpn5975 in Català (bpn5975)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5976 in Català (bpn5976) 
+Prayer bpn5976 (bpn5976) 
 
 [bahaiprayers.net 5976](https://bahaiprayers.net/Book/Single/44/5976)
 

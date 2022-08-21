@@ -96,7 +96,7 @@ tags = ['lang=hy', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn4591 in հայերեն (bpn4591) 
+Prayer bpn4591 (bpn4591) 
 
 [bahaiprayers.net 4591](https://bahaiprayers.net/Book/Single/35/4591)
 
@@ -109,7 +109,7 @@ Prayer bpn4591 in հայերեն (bpn4591)
 
 -- Bahá'u'lláh
 
-Prayer bpn4592 in հայերեն (bpn4592) 
+Prayer bpn4592 (bpn4592) 
 
 [bahaiprayers.net 4592](https://bahaiprayers.net/Book/Single/35/4592)
 
@@ -122,7 +122,7 @@ Prayer bpn4592 in հայերեն (bpn4592)
 
 -- Bahá'u'lláh
 
-Prayer bpn4593 in հայերեն (bpn4593) 
+Prayer bpn4593 (bpn4593) 
 
 [bahaiprayers.net 4593](https://bahaiprayers.net/Book/Single/35/4593)
 
@@ -135,7 +135,7 @@ Prayer bpn4593 in հայերեն (bpn4593)
 
 -- Bahá'u'lláh
 
-Prayer bpn4594 in հայերեն (bpn4594) 
+Prayer bpn4594 (bpn4594) 
 
 [bahaiprayers.net 4594](https://bahaiprayers.net/Book/Single/35/4594)
 
@@ -148,7 +148,7 @@ Prayer bpn4594 in հայերեն (bpn4594)
 
 -- Báb
 
-Prayer bpn4595 in հայերեն (bpn4595) 
+Prayer bpn4595 (bpn4595) 
 
 [bahaiprayers.net 4595](https://bahaiprayers.net/Book/Single/35/4595)
 
@@ -161,7 +161,7 @@ Prayer bpn4595 in հայերեն (bpn4595)
 
 -- Báb
 
-Prayer bpn4596 in հայերեն (bpn4596) 
+Prayer bpn4596 (bpn4596) 
 
 [bahaiprayers.net 4596](https://bahaiprayers.net/Book/Single/35/4596)
 
@@ -174,7 +174,7 @@ Prayer bpn4596 in հայերեն (bpn4596)
 
 -- Báb
 
-Prayer bpn4597 in հայերեն (bpn4597) 
+Prayer bpn4597 (bpn4597) 
 
 [bahaiprayers.net 4597](https://bahaiprayers.net/Book/Single/35/4597)
 
@@ -187,7 +187,7 @@ Prayer bpn4597 in հայերեն (bpn4597)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4598 in հայերեն (bpn4598) 
+Prayer bpn4598 (bpn4598) 
 
 [bahaiprayers.net 4598](https://bahaiprayers.net/Book/Single/35/4598)
 
@@ -200,7 +200,7 @@ Prayer bpn4598 in հայերեն (bpn4598)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4599 in հայերեն (bpn4599) 
+Prayer bpn4599 (bpn4599) 
 
 [bahaiprayers.net 4599](https://bahaiprayers.net/Book/Single/35/4599)
 
@@ -217,7 +217,7 @@ Prayer bpn4599 in հայերեն (bpn4599)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4632 in հայերեն (bpn4632) 
+Prayer bpn4632 (bpn4632) 
 
 [bahaiprayers.net 4632](https://bahaiprayers.net/Book/Single/35/4632)
 
@@ -230,7 +230,7 @@ Prayer bpn4632 in հայերեն (bpn4632)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4633 in հայերեն (bpn4633) 
+Prayer bpn4633 (bpn4633) 
 
 [bahaiprayers.net 4633](https://bahaiprayers.net/Book/Single/35/4633)
 
@@ -243,7 +243,7 @@ Prayer bpn4633 in հայերեն (bpn4633)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4634 in հայերեն (bpn4634) 
+Prayer bpn4634 (bpn4634) 
 
 [bahaiprayers.net 4634](https://bahaiprayers.net/Book/Single/35/4634)
 
@@ -256,7 +256,7 @@ Prayer bpn4634 in հայերեն (bpn4634)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4635 in հայերեն (bpn4635) 
+Prayer bpn4635 (bpn4635) 
 
 [bahaiprayers.net 4635](https://bahaiprayers.net/Book/Single/35/4635)
 
@@ -269,7 +269,7 @@ Prayer bpn4635 in հայերեն (bpn4635)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4636 in հայերեն (bpn4636) 
+Prayer bpn4636 (bpn4636) 
 
 [bahaiprayers.net 4636](https://bahaiprayers.net/Book/Single/35/4636)
 
@@ -282,7 +282,7 @@ Prayer bpn4636 in հայերեն (bpn4636)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4637 in հայերեն (bpn4637) 
+Prayer bpn4637 (bpn4637) 
 
 [bahaiprayers.net 4637](https://bahaiprayers.net/Book/Single/35/4637)
 
@@ -295,7 +295,7 @@ Prayer bpn4637 in հայերեն (bpn4637)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4638 in հայերեն (bpn4638) 
+Prayer bpn4638 (bpn4638) 
 
 [bahaiprayers.net 4638](https://bahaiprayers.net/Book/Single/35/4638)
 
@@ -312,7 +312,7 @@ Prayer bpn4638 in հայերեն (bpn4638)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4641 in հայերեն (bpn4641) 
+Prayer bpn4641 (bpn4641) 
 
 [bahaiprayers.net 4641](https://bahaiprayers.net/Book/Single/35/4641)
 
@@ -329,7 +329,7 @@ Prayer bpn4641 in հայերեն (bpn4641)
 
 -- Bahá'u'lláh
 
-Prayer bpn4676 in հայերեն (bpn4676) 
+Prayer bpn4676 (bpn4676) 
 
 [bahaiprayers.net 4676](https://bahaiprayers.net/Book/Single/35/4676)
 
@@ -342,7 +342,7 @@ Prayer bpn4676 in հայերեն (bpn4676)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4677 in հայերեն (bpn4677) 
+Prayer bpn4677 (bpn4677) 
 
 [bahaiprayers.net 4677](https://bahaiprayers.net/Book/Single/35/4677)
 
@@ -355,7 +355,7 @@ Prayer bpn4677 in հայերեն (bpn4677)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4678 in հայերեն (bpn4678) 
+Prayer bpn4678 (bpn4678) 
 
 [bahaiprayers.net 4678](https://bahaiprayers.net/Book/Single/35/4678)
 
@@ -372,7 +372,7 @@ Prayer bpn4678 in հայերեն (bpn4678)
 
 -- Bahá'u'lláh
 
-Prayer bpn4583 in հայերեն (bpn4583) 
+Prayer bpn4583 (bpn4583) 
 
 [bahaiprayers.net 4583](https://bahaiprayers.net/Book/Single/35/4583)
 
@@ -385,7 +385,7 @@ Prayer bpn4583 in հայերեն (bpn4583)
 
 -- Bahá'u'lláh
 
-Prayer bpn4584 in հայերեն (bpn4584) 
+Prayer bpn4584 (bpn4584) 
 
 [bahaiprayers.net 4584](https://bahaiprayers.net/Book/Single/35/4584)
 
@@ -398,7 +398,7 @@ Prayer bpn4584 in հայերեն (bpn4584)
 
 -- Bahá'u'lláh
 
-Prayer bpn4585 in հայերեն (bpn4585) 
+Prayer bpn4585 (bpn4585) 
 
 [bahaiprayers.net 4585](https://bahaiprayers.net/Book/Single/35/4585)
 
@@ -411,7 +411,7 @@ Prayer bpn4585 in հայերեն (bpn4585)
 
 -- Báb
 
-Prayer bpn4586 in հայերեն (bpn4586) 
+Prayer bpn4586 (bpn4586) 
 
 [bahaiprayers.net 4586](https://bahaiprayers.net/Book/Single/35/4586)
 
@@ -424,7 +424,7 @@ Prayer bpn4586 in հայերեն (bpn4586)
 
 -- Báb
 
-Prayer bpn4587 in հայերեն (bpn4587) 
+Prayer bpn4587 (bpn4587) 
 
 [bahaiprayers.net 4587](https://bahaiprayers.net/Book/Single/35/4587)
 
@@ -437,7 +437,7 @@ Prayer bpn4587 in հայերեն (bpn4587)
 
 -- Báb
 
-Prayer bpn4588 in հայերեն (bpn4588) 
+Prayer bpn4588 (bpn4588) 
 
 [bahaiprayers.net 4588](https://bahaiprayers.net/Book/Single/35/4588)
 
@@ -450,7 +450,7 @@ Prayer bpn4588 in հայերեն (bpn4588)
 
 -- Báb
 
-Prayer bpn4589 in հայերեն (bpn4589) 
+Prayer bpn4589 (bpn4589) 
 
 [bahaiprayers.net 4589](https://bahaiprayers.net/Book/Single/35/4589)
 
@@ -463,7 +463,7 @@ Prayer bpn4589 in հայերեն (bpn4589)
 
 -- Báb
 
-Prayer bpn4590 in հայերեն (bpn4590) 
+Prayer bpn4590 (bpn4590) 
 
 [bahaiprayers.net 4590](https://bahaiprayers.net/Book/Single/35/4590)
 
@@ -480,7 +480,7 @@ Prayer bpn4590 in հայերեն (bpn4590)
 
 -- Bahá'u'lláh
 
-Prayer bpn4579 in հայերեն (bpn4579) 
+Prayer bpn4579 (bpn4579) 
 
 [bahaiprayers.net 4579](https://bahaiprayers.net/Book/Single/35/4579)
 
@@ -493,7 +493,7 @@ Prayer bpn4579 in հայերեն (bpn4579)
 
 -- Bahá'u'lláh
 
-Prayer bpn4580 in հայերեն (bpn4580) 
+Prayer bpn4580 (bpn4580) 
 
 [bahaiprayers.net 4580](https://bahaiprayers.net/Book/Single/35/4580)
 
@@ -506,7 +506,7 @@ Prayer bpn4580 in հայերեն (bpn4580)
 
 -- Bahá'u'lláh
 
-Prayer bpn4581 in հայերեն (bpn4581) 
+Prayer bpn4581 (bpn4581) 
 
 [bahaiprayers.net 4581](https://bahaiprayers.net/Book/Single/35/4581)
 
@@ -523,7 +523,7 @@ Prayer bpn4581 in հայերեն (bpn4581)
 
 -- Bahá'u'lláh
 
-Prayer bpn4600 in հայերեն (bpn4600) 
+Prayer bpn4600 (bpn4600) 
 
 [bahaiprayers.net 4600](https://bahaiprayers.net/Book/Single/35/4600)
 
@@ -536,7 +536,7 @@ Prayer bpn4600 in հայերեն (bpn4600)
 
 -- Bahá'u'lláh
 
-Prayer bpn4601 in հայերեն (bpn4601) 
+Prayer bpn4601 (bpn4601) 
 
 [bahaiprayers.net 4601](https://bahaiprayers.net/Book/Single/35/4601)
 
@@ -549,7 +549,7 @@ Prayer bpn4601 in հայերեն (bpn4601)
 
 -- Báb
 
-Prayer bpn4602 in հայերեն (bpn4602) 
+Prayer bpn4602 (bpn4602) 
 
 [bahaiprayers.net 4602](https://bahaiprayers.net/Book/Single/35/4602)
 
@@ -562,7 +562,7 @@ Prayer bpn4602 in հայերեն (bpn4602)
 
 -- Báb
 
-Prayer bpn4603 in հայերեն (bpn4603) 
+Prayer bpn4603 (bpn4603) 
 
 [bahaiprayers.net 4603](https://bahaiprayers.net/Book/Single/35/4603)
 
@@ -575,7 +575,7 @@ Prayer bpn4603 in հայերեն (bpn4603)
 
 -- Báb
 
-Prayer bpn4604 in հայերեն (bpn4604) 
+Prayer bpn4604 (bpn4604) 
 
 [bahaiprayers.net 4604](https://bahaiprayers.net/Book/Single/35/4604)
 
@@ -588,7 +588,7 @@ Prayer bpn4604 in հայերեն (bpn4604)
 
 -- Báb
 
-Prayer bpn4605 in հայերեն (bpn4605) 
+Prayer bpn4605 (bpn4605) 
 
 [bahaiprayers.net 4605](https://bahaiprayers.net/Book/Single/35/4605)
 
@@ -601,7 +601,7 @@ Prayer bpn4605 in հայերեն (bpn4605)
 
 -- Báb
 
-Prayer bpn4606 in հայերեն (bpn4606) 
+Prayer bpn4606 (bpn4606) 
 
 [bahaiprayers.net 4606](https://bahaiprayers.net/Book/Single/35/4606)
 
@@ -614,7 +614,7 @@ Prayer bpn4606 in հայերեն (bpn4606)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4607 in հայերեն (bpn4607) 
+Prayer bpn4607 (bpn4607) 
 
 [bahaiprayers.net 4607](https://bahaiprayers.net/Book/Single/35/4607)
 
@@ -627,7 +627,7 @@ Prayer bpn4607 in հայերեն (bpn4607)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4608 in հայերեն (bpn4608) 
+Prayer bpn4608 (bpn4608) 
 
 [bahaiprayers.net 4608](https://bahaiprayers.net/Book/Single/35/4608)
 
@@ -644,7 +644,7 @@ Prayer bpn4608 in հայերեն (bpn4608)
 
 -- Bahá'u'lláh
 
-Prayer bpn4662 in հայերեն (bpn4662) 
+Prayer bpn4662 (bpn4662) 
 
 [bahaiprayers.net 4662](https://bahaiprayers.net/Book/Single/35/4662)
 
@@ -657,7 +657,7 @@ Prayer bpn4662 in հայերեն (bpn4662)
 
 -- Bahá'u'lláh
 
-Prayer bpn4663 in հայերեն (bpn4663) 
+Prayer bpn4663 (bpn4663) 
 
 [bahaiprayers.net 4663](https://bahaiprayers.net/Book/Single/35/4663)
 
@@ -674,7 +674,7 @@ Prayer bpn4663 in հայերեն (bpn4663)
 
 -- Bahá'u'lláh
 
-Prayer bpn4547 in հայերեն (bpn4547) 
+Prayer bpn4547 (bpn4547) 
 
 [bahaiprayers.net 4547](https://bahaiprayers.net/Book/Single/35/4547)
 
@@ -691,7 +691,7 @@ Prayer bpn4547 in հայերեն (bpn4547)
 
 -- Bahá'u'lláh
 
-Prayer bpn4651 in հայերեն (bpn4651) 
+Prayer bpn4651 (bpn4651) 
 
 [bahaiprayers.net 4651](https://bahaiprayers.net/Book/Single/35/4651)
 
@@ -704,7 +704,7 @@ Prayer bpn4651 in հայերեն (bpn4651)
 
 -- Báb
 
-Prayer bpn4652 in հայերեն (bpn4652) 
+Prayer bpn4652 (bpn4652) 
 
 [bahaiprayers.net 4652](https://bahaiprayers.net/Book/Single/35/4652)
 
@@ -721,7 +721,7 @@ Prayer bpn4652 in հայերեն (bpn4652)
 
 -- Bahá'u'lláh
 
-Prayer bpn12378 in հայերեն (bpn12378) 
+Prayer bpn12378 (bpn12378) 
 
 [bahaiprayers.net 12378](https://bahaiprayers.net/Book/Single/35/12378)
 
@@ -738,7 +738,7 @@ Prayer bpn12378 in հայերեն (bpn12378)
 
 -- Bahá'u'lláh
 
-Prayer bpn4664 in հայերեն (bpn4664) 
+Prayer bpn4664 (bpn4664) 
 
 [bahaiprayers.net 4664](https://bahaiprayers.net/Book/Single/35/4664)
 
@@ -751,7 +751,7 @@ Prayer bpn4664 in հայերեն (bpn4664)
 
 -- Bahá'u'lláh
 
-Prayer bpn4665 in հայերեն (bpn4665) 
+Prayer bpn4665 (bpn4665) 
 
 [bahaiprayers.net 4665](https://bahaiprayers.net/Book/Single/35/4665)
 
@@ -764,7 +764,7 @@ Prayer bpn4665 in հայերեն (bpn4665)
 
 -- Báb
 
-Prayer bpn4666 in հայերեն (bpn4666) 
+Prayer bpn4666 (bpn4666) 
 
 [bahaiprayers.net 4666](https://bahaiprayers.net/Book/Single/35/4666)
 
@@ -777,7 +777,7 @@ Prayer bpn4666 in հայերեն (bpn4666)
 
 -- Báb
 
-Prayer bpn4667 in հայերեն (bpn4667) 
+Prayer bpn4667 (bpn4667) 
 
 [bahaiprayers.net 4667](https://bahaiprayers.net/Book/Single/35/4667)
 
@@ -794,7 +794,7 @@ Prayer bpn4667 in հայերեն (bpn4667)
 
 -- Bahá'u'lláh
 
-Prayer bpn4653 in հայերեն (bpn4653) 
+Prayer bpn4653 (bpn4653) 
 
 [bahaiprayers.net 4653](https://bahaiprayers.net/Book/Single/35/4653)
 
@@ -807,7 +807,7 @@ Prayer bpn4653 in հայերեն (bpn4653)
 
 -- Bahá'u'lláh
 
-Prayer bpn4654 in հայերեն (bpn4654) 
+Prayer bpn4654 (bpn4654) 
 
 [bahaiprayers.net 4654](https://bahaiprayers.net/Book/Single/35/4654)
 
@@ -820,7 +820,7 @@ Prayer bpn4654 in հայերեն (bpn4654)
 
 -- Báb
 
-Prayer bpn4655 in հայերեն (bpn4655) 
+Prayer bpn4655 (bpn4655) 
 
 [bahaiprayers.net 4655](https://bahaiprayers.net/Book/Single/35/4655)
 
@@ -837,7 +837,7 @@ Prayer bpn4655 in հայերեն (bpn4655)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4548 in հայերեն (bpn4548) 
+Prayer bpn4548 (bpn4548) 
 
 [bahaiprayers.net 4548](https://bahaiprayers.net/Book/Single/35/4548)
 
@@ -850,7 +850,7 @@ Prayer bpn4548 in հայերեն (bpn4548)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4549 in հայերեն (bpn4549) 
+Prayer bpn4549 (bpn4549) 
 
 [bahaiprayers.net 4549](https://bahaiprayers.net/Book/Single/35/4549)
 
@@ -863,7 +863,7 @@ Prayer bpn4549 in հայերեն (bpn4549)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4550 in հայերեն (bpn4550) 
+Prayer bpn4550 (bpn4550) 
 
 [bahaiprayers.net 4550](https://bahaiprayers.net/Book/Single/35/4550)
 
@@ -876,7 +876,7 @@ Prayer bpn4550 in հայերեն (bpn4550)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4551 in հայերեն (bpn4551) 
+Prayer bpn4551 (bpn4551) 
 
 [bahaiprayers.net 4551](https://bahaiprayers.net/Book/Single/35/4551)
 
@@ -889,7 +889,7 @@ Prayer bpn4551 in հայերեն (bpn4551)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4552 in հայերեն (bpn4552) 
+Prayer bpn4552 (bpn4552) 
 
 [bahaiprayers.net 4552](https://bahaiprayers.net/Book/Single/35/4552)
 
@@ -902,7 +902,7 @@ Prayer bpn4552 in հայերեն (bpn4552)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4553 in հայերեն (bpn4553) 
+Prayer bpn4553 (bpn4553) 
 
 [bahaiprayers.net 4553](https://bahaiprayers.net/Book/Single/35/4553)
 
@@ -915,7 +915,7 @@ Prayer bpn4553 in հայերեն (bpn4553)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12380 in հայերեն (bpn12380) 
+Prayer bpn12380 (bpn12380) 
 
 [bahaiprayers.net 12380](https://bahaiprayers.net/Book/Single/35/12380)
 
@@ -928,7 +928,7 @@ Prayer bpn12380 in հայերեն (bpn12380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12381 in հայերեն (bpn12381) 
+Prayer bpn12381 (bpn12381) 
 
 [bahaiprayers.net 12381](https://bahaiprayers.net/Book/Single/35/12381)
 
@@ -941,7 +941,7 @@ Prayer bpn12381 in հայերեն (bpn12381)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12382 in հայերեն (bpn12382) 
+Prayer bpn12382 (bpn12382) 
 
 [bahaiprayers.net 12382](https://bahaiprayers.net/Book/Single/35/12382)
 
@@ -958,7 +958,7 @@ Prayer bpn12382 in հայերեն (bpn12382)
 
 -- Bahá'u'lláh
 
-Prayer bpn4544 in հայերեն (bpn4544) 
+Prayer bpn4544 (bpn4544) 
 
 [bahaiprayers.net 4544](https://bahaiprayers.net/Book/Single/35/4544)
 
@@ -971,7 +971,7 @@ Prayer bpn4544 in հայերեն (bpn4544)
 
 -- Bahá'u'lláh
 
-Prayer bpn4545 in հայերեն (bpn4545) 
+Prayer bpn4545 (bpn4545) 
 
 [bahaiprayers.net 4545](https://bahaiprayers.net/Book/Single/35/4545)
 
@@ -984,7 +984,7 @@ Prayer bpn4545 in հայերեն (bpn4545)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4546 in հայերեն (bpn4546) 
+Prayer bpn4546 (bpn4546) 
 
 [bahaiprayers.net 4546](https://bahaiprayers.net/Book/Single/35/4546)
 
@@ -1001,7 +1001,7 @@ Prayer bpn4546 in հայերեն (bpn4546)
 
 -- Bahá'u'lláh
 
-Prayer bpn4582 in հայերեն (bpn4582) 
+Prayer bpn4582 (bpn4582) 
 
 [bahaiprayers.net 4582](https://bahaiprayers.net/Book/Single/35/4582)
 
@@ -1018,7 +1018,7 @@ Prayer bpn4582 in հայերեն (bpn4582)
 
 -- Bahá'u'lláh
 
-Prayer bpn4543 in հայերեն (bpn4543) 
+Prayer bpn4543 (bpn4543) 
 
 [bahaiprayers.net 4543](https://bahaiprayers.net/Book/Single/35/4543)
 
@@ -1035,7 +1035,7 @@ Prayer bpn4543 in հայերեն (bpn4543)
 
 -- Bahá'u'lláh
 
-Prayer bpn4679 in հայերեն (bpn4679) 
+Prayer bpn4679 (bpn4679) 
 
 [bahaiprayers.net 4679](https://bahaiprayers.net/Book/Single/35/4679)
 
@@ -1052,7 +1052,7 @@ Prayer bpn4679 in հայերեն (bpn4679)
 
 -- Báb
 
-Prayer bpn4639 in հայերեն (bpn4639) 
+Prayer bpn4639 (bpn4639) 
 
 [bahaiprayers.net 4639](https://bahaiprayers.net/Book/Single/35/4639)
 
@@ -1069,7 +1069,7 @@ Prayer bpn4639 in հայերեն (bpn4639)
 
 -- Bahá'u'lláh
 
-Prayer bpn4643 in հայերեն (bpn4643) 
+Prayer bpn4643 (bpn4643) 
 
 [bahaiprayers.net 4643](https://bahaiprayers.net/Book/Single/35/4643)
 
@@ -1082,7 +1082,7 @@ Prayer bpn4643 in հայերեն (bpn4643)
 
 -- Bahá'u'lláh
 
-Prayer bpn4644 in հայերեն (bpn4644) 
+Prayer bpn4644 (bpn4644) 
 
 [bahaiprayers.net 4644](https://bahaiprayers.net/Book/Single/35/4644)
 
@@ -1095,7 +1095,7 @@ Prayer bpn4644 in հայերեն (bpn4644)
 
 -- Bahá'u'lláh
 
-Prayer bpn4645 in հայերեն (bpn4645) 
+Prayer bpn4645 (bpn4645) 
 
 [bahaiprayers.net 4645](https://bahaiprayers.net/Book/Single/35/4645)
 
@@ -1108,7 +1108,7 @@ Prayer bpn4645 in հայերեն (bpn4645)
 
 -- Bahá'u'lláh
 
-Prayer bpn4647 in հայերեն (bpn4647) 
+Prayer bpn4647 (bpn4647) 
 
 [bahaiprayers.net 4647](https://bahaiprayers.net/Book/Single/35/4647)
 
@@ -1121,7 +1121,7 @@ Prayer bpn4647 in հայերեն (bpn4647)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4642 in հայերեն (bpn4642) 
+Prayer bpn4642 (bpn4642) 
 
 [bahaiprayers.net 4642](https://bahaiprayers.net/Book/Single/35/4642)
 
@@ -1134,7 +1134,7 @@ Prayer bpn4642 in հայերեն (bpn4642)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4646 in հայերեն (bpn4646) 
+Prayer bpn4646 (bpn4646) 
 
 [bahaiprayers.net 4646](https://bahaiprayers.net/Book/Single/35/4646)
 
@@ -1151,7 +1151,7 @@ Prayer bpn4646 in հայերեն (bpn4646)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4640 in հայերեն (bpn4640) 
+Prayer bpn4640 (bpn4640) 
 
 [bahaiprayers.net 4640](https://bahaiprayers.net/Book/Single/35/4640)
 
@@ -1168,7 +1168,7 @@ Prayer bpn4640 in հայերեն (bpn4640)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4648 in հայերեն (bpn4648) 
+Prayer bpn4648 (bpn4648) 
 
 [bahaiprayers.net 4648](https://bahaiprayers.net/Book/Single/35/4648)
 
@@ -1181,7 +1181,7 @@ Prayer bpn4648 in հայերեն (bpn4648)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4649 in հայերեն (bpn4649) 
+Prayer bpn4649 (bpn4649) 
 
 [bahaiprayers.net 4649](https://bahaiprayers.net/Book/Single/35/4649)
 
@@ -1194,7 +1194,7 @@ Prayer bpn4649 in հայերեն (bpn4649)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4650 in հայերեն (bpn4650) 
+Prayer bpn4650 (bpn4650) 
 
 [bahaiprayers.net 4650](https://bahaiprayers.net/Book/Single/35/4650)
 
@@ -1211,7 +1211,7 @@ Prayer bpn4650 in հայերեն (bpn4650)
 
 -- Bahá'u'lláh
 
-Prayer bpn4541 in հայերեն (bpn4541) 
+Prayer bpn4541 (bpn4541) 
 
 [bahaiprayers.net 4541](https://bahaiprayers.net/Book/Single/35/4541)
 
@@ -1228,7 +1228,7 @@ Prayer bpn4541 in հայերեն (bpn4541)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4675 in հայերեն (bpn4675) 
+Prayer bpn4675 (bpn4675) 
 
 [bahaiprayers.net 4675](https://bahaiprayers.net/Book/Single/35/4675)
 
@@ -1245,7 +1245,7 @@ Prayer bpn4675 in հայերեն (bpn4675)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4566 in հայերեն (bpn4566) 
+Prayer bpn4566 (bpn4566) 
 
 [bahaiprayers.net 4566](https://bahaiprayers.net/Book/Single/35/4566)
 
@@ -1258,7 +1258,7 @@ Prayer bpn4566 in հայերեն (bpn4566)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4567 in հայերեն (bpn4567) 
+Prayer bpn4567 (bpn4567) 
 
 [bahaiprayers.net 4567](https://bahaiprayers.net/Book/Single/35/4567)
 
@@ -1275,7 +1275,7 @@ Prayer bpn4567 in հայերեն (bpn4567)
 
 -- Bahá'u'lláh
 
-Prayer bpn4554 in հայերեն (bpn4554) 
+Prayer bpn4554 (bpn4554) 
 
 [bahaiprayers.net 4554](https://bahaiprayers.net/Book/Single/35/4554)
 
@@ -1288,7 +1288,7 @@ Prayer bpn4554 in հայերեն (bpn4554)
 
 -- Bahá'u'lláh
 
-Prayer bpn4555 in հայերեն (bpn4555) 
+Prayer bpn4555 (bpn4555) 
 
 [bahaiprayers.net 4555](https://bahaiprayers.net/Book/Single/35/4555)
 
@@ -1301,7 +1301,7 @@ Prayer bpn4555 in հայերեն (bpn4555)
 
 -- Bahá'u'lláh
 
-Prayer bpn4556 in հայերեն (bpn4556) 
+Prayer bpn4556 (bpn4556) 
 
 [bahaiprayers.net 4556](https://bahaiprayers.net/Book/Single/35/4556)
 
@@ -1314,7 +1314,7 @@ Prayer bpn4556 in հայերեն (bpn4556)
 
 -- Bahá'u'lláh
 
-Prayer bpn4557 in հայերեն (bpn4557) 
+Prayer bpn4557 (bpn4557) 
 
 [bahaiprayers.net 4557](https://bahaiprayers.net/Book/Single/35/4557)
 
@@ -1327,7 +1327,7 @@ Prayer bpn4557 in հայերեն (bpn4557)
 
 -- Bahá'u'lláh
 
-Prayer bpn4558 in հայերեն (bpn4558) 
+Prayer bpn4558 (bpn4558) 
 
 [bahaiprayers.net 4558](https://bahaiprayers.net/Book/Single/35/4558)
 
@@ -1340,7 +1340,7 @@ Prayer bpn4558 in հայերեն (bpn4558)
 
 -- Bahá'u'lláh
 
-Prayer bpn4559 in հայերեն (bpn4559) 
+Prayer bpn4559 (bpn4559) 
 
 [bahaiprayers.net 4559](https://bahaiprayers.net/Book/Single/35/4559)
 
@@ -1353,7 +1353,7 @@ Prayer bpn4559 in հայերեն (bpn4559)
 
 -- Bahá'u'lláh
 
-Prayer bpn4560 in հայերեն (bpn4560) 
+Prayer bpn4560 (bpn4560) 
 
 [bahaiprayers.net 4560](https://bahaiprayers.net/Book/Single/35/4560)
 
@@ -1366,7 +1366,7 @@ Prayer bpn4560 in հայերեն (bpn4560)
 
 -- Báb
 
-Prayer bpn4561 in հայերեն (bpn4561) 
+Prayer bpn4561 (bpn4561) 
 
 [bahaiprayers.net 4561](https://bahaiprayers.net/Book/Single/35/4561)
 
@@ -1379,7 +1379,7 @@ Prayer bpn4561 in հայերեն (bpn4561)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4562 in հայերեն (bpn4562) 
+Prayer bpn4562 (bpn4562) 
 
 [bahaiprayers.net 4562](https://bahaiprayers.net/Book/Single/35/4562)
 
@@ -1392,7 +1392,7 @@ Prayer bpn4562 in հայերեն (bpn4562)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4563 in հայերեն (bpn4563) 
+Prayer bpn4563 (bpn4563) 
 
 [bahaiprayers.net 4563](https://bahaiprayers.net/Book/Single/35/4563)
 
@@ -1405,7 +1405,7 @@ Prayer bpn4563 in հայերեն (bpn4563)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4564 in հայերեն (bpn4564) 
+Prayer bpn4564 (bpn4564) 
 
 [bahaiprayers.net 4564](https://bahaiprayers.net/Book/Single/35/4564)
 
@@ -1418,7 +1418,7 @@ Prayer bpn4564 in հայերեն (bpn4564)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4565 in հայերեն (bpn4565) 
+Prayer bpn4565 (bpn4565) 
 
 [bahaiprayers.net 4565](https://bahaiprayers.net/Book/Single/35/4565)
 
@@ -1435,7 +1435,7 @@ Prayer bpn4565 in հայերեն (bpn4565)
 
 -- Bahá'u'lláh
 
-Prayer bpn4668 in հայերեն (bpn4668) 
+Prayer bpn4668 (bpn4668) 
 
 [bahaiprayers.net 4668](https://bahaiprayers.net/Book/Single/35/4668)
 
@@ -1452,7 +1452,7 @@ Prayer bpn4668 in հայերեն (bpn4668)
 
 -- Bahá'u'lláh
 
-Prayer bpn4684 in հայերեն (bpn4684) 
+Prayer bpn4684 (bpn4684) 
 
 [bahaiprayers.net 4684](https://bahaiprayers.net/Book/Single/35/4684)
 
@@ -1465,7 +1465,7 @@ Prayer bpn4684 in հայերեն (bpn4684)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4685 in հայերեն (bpn4685) 
+Prayer bpn4685 (bpn4685) 
 
 [bahaiprayers.net 4685](https://bahaiprayers.net/Book/Single/35/4685)
 
@@ -1482,7 +1482,7 @@ Prayer bpn4685 in հայերեն (bpn4685)
 
 -- Bahá'u'lláh
 
-Prayer bpn4686 in հայերեն (bpn4686) 
+Prayer bpn4686 (bpn4686) 
 
 [bahaiprayers.net 4686](https://bahaiprayers.net/Book/Single/35/4686)
 
@@ -1499,7 +1499,7 @@ Prayer bpn4686 in հայերեն (bpn4686)
 
 -- Bahá'u'lláh
 
-Prayer bpn4656 in հայերեն (bpn4656) 
+Prayer bpn4656 (bpn4656) 
 
 [bahaiprayers.net 4656](https://bahaiprayers.net/Book/Single/35/4656)
 
@@ -1512,7 +1512,7 @@ Prayer bpn4656 in հայերեն (bpn4656)
 
 -- Bahá'u'lláh
 
-Prayer bpn4657 in հայերեն (bpn4657) 
+Prayer bpn4657 (bpn4657) 
 
 [bahaiprayers.net 4657](https://bahaiprayers.net/Book/Single/35/4657)
 
@@ -1525,7 +1525,7 @@ Prayer bpn4657 in հայերեն (bpn4657)
 
 -- Bahá'u'lláh
 
-Prayer bpn4658 in հայերեն (bpn4658) 
+Prayer bpn4658 (bpn4658) 
 
 [bahaiprayers.net 4658](https://bahaiprayers.net/Book/Single/35/4658)
 
@@ -1538,7 +1538,7 @@ Prayer bpn4658 in հայերեն (bpn4658)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4659 in հայերեն (bpn4659) 
+Prayer bpn4659 (bpn4659) 
 
 [bahaiprayers.net 4659](https://bahaiprayers.net/Book/Single/35/4659)
 
@@ -1551,7 +1551,7 @@ Prayer bpn4659 in հայերեն (bpn4659)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4660 in հայերեն (bpn4660) 
+Prayer bpn4660 (bpn4660) 
 
 [bahaiprayers.net 4660](https://bahaiprayers.net/Book/Single/35/4660)
 
@@ -1564,7 +1564,7 @@ Prayer bpn4660 in հայերեն (bpn4660)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4661 in հայերեն (bpn4661) 
+Prayer bpn4661 (bpn4661) 
 
 [bahaiprayers.net 4661](https://bahaiprayers.net/Book/Single/35/4661)
 
@@ -1581,7 +1581,7 @@ Prayer bpn4661 in հայերեն (bpn4661)
 
 -- Bahá'u'lláh
 
-Prayer bpn4669 in հայերեն (bpn4669) 
+Prayer bpn4669 (bpn4669) 
 
 [bahaiprayers.net 4669](https://bahaiprayers.net/Book/Single/35/4669)
 
@@ -1594,7 +1594,7 @@ Prayer bpn4669 in հայերեն (bpn4669)
 
 -- Bahá'u'lláh
 
-Prayer bpn4670 in հայերեն (bpn4670) 
+Prayer bpn4670 (bpn4670) 
 
 [bahaiprayers.net 4670](https://bahaiprayers.net/Book/Single/35/4670)
 
@@ -1607,7 +1607,7 @@ Prayer bpn4670 in հայերեն (bpn4670)
 
 -- Báb
 
-Prayer bpn4671 in հայերեն (bpn4671) 
+Prayer bpn4671 (bpn4671) 
 
 [bahaiprayers.net 4671](https://bahaiprayers.net/Book/Single/35/4671)
 
@@ -1620,7 +1620,7 @@ Prayer bpn4671 in հայերեն (bpn4671)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4672 in հայերեն (bpn4672) 
+Prayer bpn4672 (bpn4672) 
 
 [bahaiprayers.net 4672](https://bahaiprayers.net/Book/Single/35/4672)
 
@@ -1633,7 +1633,7 @@ Prayer bpn4672 in հայերեն (bpn4672)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4673 in հայերեն (bpn4673) 
+Prayer bpn4673 (bpn4673) 
 
 [bahaiprayers.net 4673](https://bahaiprayers.net/Book/Single/35/4673)
 
@@ -1646,7 +1646,7 @@ Prayer bpn4673 in հայերեն (bpn4673)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4674 in հայերեն (bpn4674) 
+Prayer bpn4674 (bpn4674) 
 
 [bahaiprayers.net 4674](https://bahaiprayers.net/Book/Single/35/4674)
 
@@ -1663,7 +1663,7 @@ Prayer bpn4674 in հայերեն (bpn4674)
 
 -- Bahá'u'lláh
 
-Prayer bpn4568 in հայերեն (bpn4568) 
+Prayer bpn4568 (bpn4568) 
 
 [bahaiprayers.net 4568](https://bahaiprayers.net/Book/Single/35/4568)
 
@@ -1676,7 +1676,7 @@ Prayer bpn4568 in հայերեն (bpn4568)
 
 -- Bahá'u'lláh
 
-Prayer bpn4569 in հայերեն (bpn4569) 
+Prayer bpn4569 (bpn4569) 
 
 [bahaiprayers.net 4569](https://bahaiprayers.net/Book/Single/35/4569)
 
@@ -1689,7 +1689,7 @@ Prayer bpn4569 in հայերեն (bpn4569)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4570 in հայերեն (bpn4570) 
+Prayer bpn4570 (bpn4570) 
 
 [bahaiprayers.net 4570](https://bahaiprayers.net/Book/Single/35/4570)
 
@@ -1702,7 +1702,7 @@ Prayer bpn4570 in հայերեն (bpn4570)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4571 in հայերեն (bpn4571) 
+Prayer bpn4571 (bpn4571) 
 
 [bahaiprayers.net 4571](https://bahaiprayers.net/Book/Single/35/4571)
 
@@ -1719,7 +1719,7 @@ Prayer bpn4571 in հայերեն (bpn4571)
 
 -- Bahá'u'lláh
 
-Prayer bpn4542 in հայերեն (bpn4542) 
+Prayer bpn4542 (bpn4542) 
 
 [bahaiprayers.net 4542](https://bahaiprayers.net/Book/Single/35/4542)
 
@@ -1736,7 +1736,7 @@ Prayer bpn4542 in հայերեն (bpn4542)
 
 -- Bahá'u'lláh
 
-Prayer bpn4620 in հայերեն (bpn4620) 
+Prayer bpn4620 (bpn4620) 
 
 [bahaiprayers.net 4620](https://bahaiprayers.net/Book/Single/35/4620)
 
@@ -1749,7 +1749,7 @@ Prayer bpn4620 in հայերեն (bpn4620)
 
 -- Bahá'u'lláh
 
-Prayer bpn4621 in հայերեն (bpn4621) 
+Prayer bpn4621 (bpn4621) 
 
 [bahaiprayers.net 4621](https://bahaiprayers.net/Book/Single/35/4621)
 
@@ -1762,7 +1762,7 @@ Prayer bpn4621 in հայերեն (bpn4621)
 
 -- Bahá'u'lláh
 
-Prayer bpn4622 in հայերեն (bpn4622) 
+Prayer bpn4622 (bpn4622) 
 
 [bahaiprayers.net 4622](https://bahaiprayers.net/Book/Single/35/4622)
 
@@ -1775,7 +1775,7 @@ Prayer bpn4622 in հայերեն (bpn4622)
 
 -- Bahá'u'lláh
 
-Prayer bpn4623 in հայերեն (bpn4623) 
+Prayer bpn4623 (bpn4623) 
 
 [bahaiprayers.net 4623](https://bahaiprayers.net/Book/Single/35/4623)
 
@@ -1788,7 +1788,7 @@ Prayer bpn4623 in հայերեն (bpn4623)
 
 -- Bahá'u'lláh
 
-Prayer bpn4624 in հայերեն (bpn4624) 
+Prayer bpn4624 (bpn4624) 
 
 [bahaiprayers.net 4624](https://bahaiprayers.net/Book/Single/35/4624)
 
@@ -1801,7 +1801,7 @@ Prayer bpn4624 in հայերեն (bpn4624)
 
 -- Bahá'u'lláh
 
-Prayer bpn4625 in հայերեն (bpn4625) 
+Prayer bpn4625 (bpn4625) 
 
 [bahaiprayers.net 4625](https://bahaiprayers.net/Book/Single/35/4625)
 
@@ -1814,7 +1814,7 @@ Prayer bpn4625 in հայերեն (bpn4625)
 
 -- Báb
 
-Prayer bpn4626 in հայերեն (bpn4626) 
+Prayer bpn4626 (bpn4626) 
 
 [bahaiprayers.net 4626](https://bahaiprayers.net/Book/Single/35/4626)
 
@@ -1827,7 +1827,7 @@ Prayer bpn4626 in հայերեն (bpn4626)
 
 -- Báb
 
-Prayer bpn4627 in հայերեն (bpn4627) 
+Prayer bpn4627 (bpn4627) 
 
 [bahaiprayers.net 4627](https://bahaiprayers.net/Book/Single/35/4627)
 
@@ -1840,7 +1840,7 @@ Prayer bpn4627 in հայերեն (bpn4627)
 
 -- Báb
 
-Prayer bpn4628 in հայերեն (bpn4628) 
+Prayer bpn4628 (bpn4628) 
 
 [bahaiprayers.net 4628](https://bahaiprayers.net/Book/Single/35/4628)
 
@@ -1853,7 +1853,7 @@ Prayer bpn4628 in հայերեն (bpn4628)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4629 in հայերեն (bpn4629) 
+Prayer bpn4629 (bpn4629) 
 
 [bahaiprayers.net 4629](https://bahaiprayers.net/Book/Single/35/4629)
 
@@ -1870,7 +1870,7 @@ Prayer bpn4629 in հայերեն (bpn4629)
 
 -- Bahá'u'lláh
 
-Prayer bpn4682 in հայերեն (bpn4682) 
+Prayer bpn4682 (bpn4682) 
 
 [bahaiprayers.net 4682](https://bahaiprayers.net/Book/Single/35/4682)
 
@@ -1887,7 +1887,7 @@ Prayer bpn4682 in հայերեն (bpn4682)
 
 -- Bahá'u'lláh
 
-Prayer bpn4683 in հայերեն (bpn4683) 
+Prayer bpn4683 (bpn4683) 
 
 [bahaiprayers.net 4683](https://bahaiprayers.net/Book/Single/35/4683)
 
@@ -1904,7 +1904,7 @@ Prayer bpn4683 in հայերեն (bpn4683)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4630 in հայերեն (bpn4630) 
+Prayer bpn4630 (bpn4630) 
 
 [bahaiprayers.net 4630](https://bahaiprayers.net/Book/Single/35/4630)
 
@@ -1917,7 +1917,7 @@ Prayer bpn4630 in հայերեն (bpn4630)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4631 in հայերեն (bpn4631) 
+Prayer bpn4631 (bpn4631) 
 
 [bahaiprayers.net 4631](https://bahaiprayers.net/Book/Single/35/4631)
 
@@ -1934,7 +1934,7 @@ Prayer bpn4631 in հայերեն (bpn4631)
 
 -- Bahá'u'lláh
 
-Prayer bpn4572 in հայերեն (bpn4572) 
+Prayer bpn4572 (bpn4572) 
 
 [bahaiprayers.net 4572](https://bahaiprayers.net/Book/Single/35/4572)
 
@@ -1947,7 +1947,7 @@ Prayer bpn4572 in հայերեն (bpn4572)
 
 -- Bahá'u'lláh
 
-Prayer bpn4573 in հայերեն (bpn4573) 
+Prayer bpn4573 (bpn4573) 
 
 [bahaiprayers.net 4573](https://bahaiprayers.net/Book/Single/35/4573)
 
@@ -1960,7 +1960,7 @@ Prayer bpn4573 in հայերեն (bpn4573)
 
 -- Báb
 
-Prayer bpn4574 in հայերեն (bpn4574) 
+Prayer bpn4574 (bpn4574) 
 
 [bahaiprayers.net 4574](https://bahaiprayers.net/Book/Single/35/4574)
 
@@ -1973,7 +1973,7 @@ Prayer bpn4574 in հայերեն (bpn4574)
 
 -- Báb
 
-Prayer bpn4575 in հայերեն (bpn4575) 
+Prayer bpn4575 (bpn4575) 
 
 [bahaiprayers.net 4575](https://bahaiprayers.net/Book/Single/35/4575)
 
@@ -1986,7 +1986,7 @@ Prayer bpn4575 in հայերեն (bpn4575)
 
 -- Báb
 
-Prayer bpn4576 in հայերեն (bpn4576) 
+Prayer bpn4576 (bpn4576) 
 
 [bahaiprayers.net 4576](https://bahaiprayers.net/Book/Single/35/4576)
 
@@ -1999,7 +1999,7 @@ Prayer bpn4576 in հայերեն (bpn4576)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4577 in հայերեն (bpn4577) 
+Prayer bpn4577 (bpn4577) 
 
 [bahaiprayers.net 4577](https://bahaiprayers.net/Book/Single/35/4577)
 
@@ -2012,7 +2012,7 @@ Prayer bpn4577 in հայերեն (bpn4577)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4578 in հայերեն (bpn4578) 
+Prayer bpn4578 (bpn4578) 
 
 [bahaiprayers.net 4578](https://bahaiprayers.net/Book/Single/35/4578)
 
@@ -2029,7 +2029,7 @@ Prayer bpn4578 in հայերեն (bpn4578)
 
 -- Bahá'u'lláh
 
-Prayer bpn4680 in հայերեն (bpn4680) 
+Prayer bpn4680 (bpn4680) 
 
 [bahaiprayers.net 4680](https://bahaiprayers.net/Book/Single/35/4680)
 
@@ -2042,7 +2042,7 @@ Prayer bpn4680 in հայերեն (bpn4680)
 
 -- Bahá'u'lláh
 
-Prayer bpn4681 in հայերեն (bpn4681) 
+Prayer bpn4681 (bpn4681) 
 
 [bahaiprayers.net 4681](https://bahaiprayers.net/Book/Single/35/4681)
 
@@ -2059,7 +2059,7 @@ Prayer bpn4681 in հայերեն (bpn4681)
 
 -- Bahá'u'lláh
 
-Prayer bpn4609 in հայերեն (bpn4609) 
+Prayer bpn4609 (bpn4609) 
 
 [bahaiprayers.net 4609](https://bahaiprayers.net/Book/Single/35/4609)
 
@@ -2072,7 +2072,7 @@ Prayer bpn4609 in հայերեն (bpn4609)
 
 -- Bahá'u'lláh
 
-Prayer bpn4610 in հայերեն (bpn4610) 
+Prayer bpn4610 (bpn4610) 
 
 [bahaiprayers.net 4610](https://bahaiprayers.net/Book/Single/35/4610)
 
@@ -2085,7 +2085,7 @@ Prayer bpn4610 in հայերեն (bpn4610)
 
 -- Bahá'u'lláh
 
-Prayer bpn4611 in հայերեն (bpn4611) 
+Prayer bpn4611 (bpn4611) 
 
 [bahaiprayers.net 4611](https://bahaiprayers.net/Book/Single/35/4611)
 
@@ -2098,7 +2098,7 @@ Prayer bpn4611 in հայերեն (bpn4611)
 
 -- Báb
 
-Prayer bpn4612 in հայերեն (bpn4612) 
+Prayer bpn4612 (bpn4612) 
 
 [bahaiprayers.net 4612](https://bahaiprayers.net/Book/Single/35/4612)
 
@@ -2111,7 +2111,7 @@ Prayer bpn4612 in հայերեն (bpn4612)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4613 in հայերեն (bpn4613) 
+Prayer bpn4613 (bpn4613) 
 
 [bahaiprayers.net 4613](https://bahaiprayers.net/Book/Single/35/4613)
 
@@ -2124,7 +2124,7 @@ Prayer bpn4613 in հայերեն (bpn4613)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4614 in հայերեն (bpn4614) 
+Prayer bpn4614 (bpn4614) 
 
 [bahaiprayers.net 4614](https://bahaiprayers.net/Book/Single/35/4614)
 
@@ -2137,7 +2137,7 @@ Prayer bpn4614 in հայերեն (bpn4614)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4615 in հայերեն (bpn4615) 
+Prayer bpn4615 (bpn4615) 
 
 [bahaiprayers.net 4615](https://bahaiprayers.net/Book/Single/35/4615)
 
@@ -2150,7 +2150,7 @@ Prayer bpn4615 in հայերեն (bpn4615)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4616 in հայերեն (bpn4616) 
+Prayer bpn4616 (bpn4616) 
 
 [bahaiprayers.net 4616](https://bahaiprayers.net/Book/Single/35/4616)
 
@@ -2163,7 +2163,7 @@ Prayer bpn4616 in հայերեն (bpn4616)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4617 in հայերեն (bpn4617) 
+Prayer bpn4617 (bpn4617) 
 
 [bahaiprayers.net 4617](https://bahaiprayers.net/Book/Single/35/4617)
 
@@ -2176,7 +2176,7 @@ Prayer bpn4617 in հայերեն (bpn4617)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4618 in հայերեն (bpn4618) 
+Prayer bpn4618 (bpn4618) 
 
 [bahaiprayers.net 4618](https://bahaiprayers.net/Book/Single/35/4618)
 
@@ -2189,7 +2189,7 @@ Prayer bpn4618 in հայերեն (bpn4618)
 
 -- Abdu'l-Bahá
 
-Prayer bpn4619 in հայերեն (bpn4619) 
+Prayer bpn4619 (bpn4619) 
 
 [bahaiprayers.net 4619](https://bahaiprayers.net/Book/Single/35/4619)
 
@@ -2202,7 +2202,7 @@ Prayer bpn4619 in հայերեն (bpn4619)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12379 in հայերեն (bpn12379) 
+Prayer bpn12379 (bpn12379) 
 
 [bahaiprayers.net 12379](https://bahaiprayers.net/Book/Single/35/12379)
 
@@ -2215,7 +2215,7 @@ Prayer bpn12379 in հայերեն (bpn12379)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12383 in հայերեն (bpn12383) 
+Prayer bpn12383 (bpn12383) 
 
 [bahaiprayers.net 12383](https://bahaiprayers.net/Book/Single/35/12383)
 

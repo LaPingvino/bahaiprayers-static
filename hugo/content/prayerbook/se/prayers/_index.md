@@ -38,7 +38,7 @@ tags = ['lang=se', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12221 in Sámi (bpn12221) 
+Prayer bpn12221 (bpn12221) 
 
 [bahaiprayers.net 12221](https://bahaiprayers.net/Book/Single/98/12221)
 
@@ -55,7 +55,7 @@ Prayer bpn12221 in Sámi (bpn12221)
 
 -- Bahá'u'lláh
 
-Prayer bpn12207 in Sámi (bpn12207) 
+Prayer bpn12207 (bpn12207) 
 
 [bahaiprayers.net 12207](https://bahaiprayers.net/Book/Single/98/12207)
 
@@ -72,7 +72,7 @@ Prayer bpn12207 in Sámi (bpn12207)
 
 -- Báb
 
-Prayer bpn12216 in Sámi (bpn12216) 
+Prayer bpn12216 (bpn12216) 
 
 [bahaiprayers.net 12216](https://bahaiprayers.net/Book/Single/98/12216)
 
@@ -85,7 +85,7 @@ Prayer bpn12216 in Sámi (bpn12216)
 
 -- Báb
 
-Prayer bpn12217 in Sámi (bpn12217) 
+Prayer bpn12217 (bpn12217) 
 
 [bahaiprayers.net 12217](https://bahaiprayers.net/Book/Single/98/12217)
 
@@ -98,7 +98,7 @@ Prayer bpn12217 in Sámi (bpn12217)
 
 -- Báb
 
-Prayer bpn12218 in Sámi (bpn12218) 
+Prayer bpn12218 (bpn12218) 
 
 [bahaiprayers.net 12218](https://bahaiprayers.net/Book/Single/98/12218)
 
@@ -111,7 +111,7 @@ Prayer bpn12218 in Sámi (bpn12218)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12219 in Sámi (bpn12219) 
+Prayer bpn12219 (bpn12219) 
 
 [bahaiprayers.net 12219](https://bahaiprayers.net/Book/Single/98/12219)
 
@@ -128,7 +128,7 @@ Prayer bpn12219 in Sámi (bpn12219)
 
 -- Bahá'u'lláh
 
-Prayer bpn12204 in Sámi (bpn12204) 
+Prayer bpn12204 (bpn12204) 
 
 [bahaiprayers.net 12204](https://bahaiprayers.net/Book/Single/98/12204)
 
@@ -145,7 +145,7 @@ Prayer bpn12204 in Sámi (bpn12204)
 
 -- Bahá'u'lláh
 
-Prayer bpn12206 in Sámi (bpn12206) 
+Prayer bpn12206 (bpn12206) 
 
 [bahaiprayers.net 12206](https://bahaiprayers.net/Book/Single/98/12206)
 
@@ -162,7 +162,7 @@ Prayer bpn12206 in Sámi (bpn12206)
 
 -- Bahá'u'lláh
 
-Prayer bpn12208 in Sámi (bpn12208) 
+Prayer bpn12208 (bpn12208) 
 
 [bahaiprayers.net 12208](https://bahaiprayers.net/Book/Single/98/12208)
 
@@ -175,7 +175,7 @@ Prayer bpn12208 in Sámi (bpn12208)
 
 -- Bahá'u'lláh
 
-Prayer bpn12209 in Sámi (bpn12209) 
+Prayer bpn12209 (bpn12209) 
 
 [bahaiprayers.net 12209](https://bahaiprayers.net/Book/Single/98/12209)
 
@@ -188,7 +188,7 @@ Prayer bpn12209 in Sámi (bpn12209)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12210 in Sámi (bpn12210) 
+Prayer bpn12210 (bpn12210) 
 
 [bahaiprayers.net 12210](https://bahaiprayers.net/Book/Single/98/12210)
 
@@ -201,7 +201,7 @@ Prayer bpn12210 in Sámi (bpn12210)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12211 in Sámi (bpn12211) 
+Prayer bpn12211 (bpn12211) 
 
 [bahaiprayers.net 12211](https://bahaiprayers.net/Book/Single/98/12211)
 
@@ -218,7 +218,7 @@ Prayer bpn12211 in Sámi (bpn12211)
 
 -- Báb
 
-Prayer bpn12220 in Sámi (bpn12220) 
+Prayer bpn12220 (bpn12220) 
 
 [bahaiprayers.net 12220](https://bahaiprayers.net/Book/Single/98/12220)
 
@@ -235,7 +235,7 @@ Prayer bpn12220 in Sámi (bpn12220)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12212 in Sámi (bpn12212) 
+Prayer bpn12212 (bpn12212) 
 
 [bahaiprayers.net 12212](https://bahaiprayers.net/Book/Single/98/12212)
 
@@ -248,7 +248,7 @@ Prayer bpn12212 in Sámi (bpn12212)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12213 in Sámi (bpn12213) 
+Prayer bpn12213 (bpn12213) 
 
 [bahaiprayers.net 12213](https://bahaiprayers.net/Book/Single/98/12213)
 
@@ -265,7 +265,7 @@ Prayer bpn12213 in Sámi (bpn12213)
 
 -- Bahá'u'lláh
 
-Prayer bpn12214 in Sámi (bpn12214) 
+Prayer bpn12214 (bpn12214) 
 
 [bahaiprayers.net 12214](https://bahaiprayers.net/Book/Single/98/12214)
 
@@ -278,7 +278,7 @@ Prayer bpn12214 in Sámi (bpn12214)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12215 in Sámi (bpn12215) 
+Prayer bpn12215 (bpn12215) 
 
 [bahaiprayers.net 12215](https://bahaiprayers.net/Book/Single/98/12215)
 
@@ -295,7 +295,7 @@ Prayer bpn12215 in Sámi (bpn12215)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12222 in Sámi (bpn12222) 
+Prayer bpn12222 (bpn12222) 
 
 [bahaiprayers.net 12222](https://bahaiprayers.net/Book/Single/98/12222)
 
@@ -312,7 +312,7 @@ Prayer bpn12222 in Sámi (bpn12222)
 
 -- Bahá'u'lláh
 
-Prayer bpn12205 in Sámi (bpn12205) 
+Prayer bpn12205 (bpn12205) 
 
 [bahaiprayers.net 12205](https://bahaiprayers.net/Book/Single/98/12205)
 

@@ -118,7 +118,7 @@ tags = ['lang=pl', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn12877 in Polski (bpn12877) 
+Prayer bpn12877 (bpn12877) 
 
 [bahaiprayers.net 12877](https://bahaiprayers.net/Book/Single/33/12877)
 
@@ -131,7 +131,7 @@ Prayer bpn12877 in Polski (bpn12877)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12878 in Polski (bpn12878) 
+Prayer bpn12878 (bpn12878) 
 
 [bahaiprayers.net 12878](https://bahaiprayers.net/Book/Single/33/12878)
 
@@ -144,7 +144,7 @@ Prayer bpn12878 in Polski (bpn12878)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12879 in Polski (bpn12879) 
+Prayer bpn12879 (bpn12879) 
 
 [bahaiprayers.net 12879](https://bahaiprayers.net/Book/Single/33/12879)
 
@@ -157,7 +157,7 @@ Prayer bpn12879 in Polski (bpn12879)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12880 in Polski (bpn12880) 
+Prayer bpn12880 (bpn12880) 
 
 [bahaiprayers.net 12880](https://bahaiprayers.net/Book/Single/33/12880)
 
@@ -170,7 +170,7 @@ Prayer bpn12880 in Polski (bpn12880)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12881 in Polski (bpn12881) 
+Prayer bpn12881 (bpn12881) 
 
 [bahaiprayers.net 12881](https://bahaiprayers.net/Book/Single/33/12881)
 
@@ -183,7 +183,7 @@ Prayer bpn12881 in Polski (bpn12881)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12882 in Polski (bpn12882) 
+Prayer bpn12882 (bpn12882) 
 
 [bahaiprayers.net 12882](https://bahaiprayers.net/Book/Single/33/12882)
 
@@ -196,7 +196,7 @@ Prayer bpn12882 in Polski (bpn12882)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12883 in Polski (bpn12883) 
+Prayer bpn12883 (bpn12883) 
 
 [bahaiprayers.net 12883](https://bahaiprayers.net/Book/Single/33/12883)
 
@@ -209,7 +209,7 @@ Prayer bpn12883 in Polski (bpn12883)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12884 in Polski (bpn12884) 
+Prayer bpn12884 (bpn12884) 
 
 [bahaiprayers.net 12884](https://bahaiprayers.net/Book/Single/33/12884)
 
@@ -222,7 +222,7 @@ Prayer bpn12884 in Polski (bpn12884)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12885 in Polski (bpn12885) 
+Prayer bpn12885 (bpn12885) 
 
 [bahaiprayers.net 12885](https://bahaiprayers.net/Book/Single/33/12885)
 
@@ -235,7 +235,7 @@ Prayer bpn12885 in Polski (bpn12885)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12886 in Polski (bpn12886) 
+Prayer bpn12886 (bpn12886) 
 
 [bahaiprayers.net 12886](https://bahaiprayers.net/Book/Single/33/12886)
 
@@ -248,7 +248,7 @@ Prayer bpn12886 in Polski (bpn12886)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12887 in Polski (bpn12887) 
+Prayer bpn12887 (bpn12887) 
 
 [bahaiprayers.net 12887](https://bahaiprayers.net/Book/Single/33/12887)
 
@@ -261,7 +261,7 @@ Prayer bpn12887 in Polski (bpn12887)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12888 in Polski (bpn12888) 
+Prayer bpn12888 (bpn12888) 
 
 [bahaiprayers.net 12888](https://bahaiprayers.net/Book/Single/33/12888)
 
@@ -274,7 +274,7 @@ Prayer bpn12888 in Polski (bpn12888)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12889 in Polski (bpn12889) 
+Prayer bpn12889 (bpn12889) 
 
 [bahaiprayers.net 12889](https://bahaiprayers.net/Book/Single/33/12889)
 
@@ -287,7 +287,7 @@ Prayer bpn12889 in Polski (bpn12889)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12890 in Polski (bpn12890) 
+Prayer bpn12890 (bpn12890) 
 
 [bahaiprayers.net 12890](https://bahaiprayers.net/Book/Single/33/12890)
 
@@ -300,7 +300,7 @@ Prayer bpn12890 in Polski (bpn12890)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12891 in Polski (bpn12891) 
+Prayer bpn12891 (bpn12891) 
 
 [bahaiprayers.net 12891](https://bahaiprayers.net/Book/Single/33/12891)
 
@@ -313,7 +313,7 @@ Prayer bpn12891 in Polski (bpn12891)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12892 in Polski (bpn12892) 
+Prayer bpn12892 (bpn12892) 
 
 [bahaiprayers.net 12892](https://bahaiprayers.net/Book/Single/33/12892)
 
@@ -326,7 +326,7 @@ Prayer bpn12892 in Polski (bpn12892)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12893 in Polski (bpn12893) 
+Prayer bpn12893 (bpn12893) 
 
 [bahaiprayers.net 12893](https://bahaiprayers.net/Book/Single/33/12893)
 
@@ -339,7 +339,7 @@ Prayer bpn12893 in Polski (bpn12893)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12894 in Polski (bpn12894) 
+Prayer bpn12894 (bpn12894) 
 
 [bahaiprayers.net 12894](https://bahaiprayers.net/Book/Single/33/12894)
 
@@ -352,7 +352,7 @@ Prayer bpn12894 in Polski (bpn12894)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12895 in Polski (bpn12895) 
+Prayer bpn12895 (bpn12895) 
 
 [bahaiprayers.net 12895](https://bahaiprayers.net/Book/Single/33/12895)
 
@@ -365,7 +365,7 @@ Prayer bpn12895 in Polski (bpn12895)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12896 in Polski (bpn12896) 
+Prayer bpn12896 (bpn12896) 
 
 [bahaiprayers.net 12896](https://bahaiprayers.net/Book/Single/33/12896)
 
@@ -378,7 +378,7 @@ Prayer bpn12896 in Polski (bpn12896)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12897 in Polski (bpn12897) 
+Prayer bpn12897 (bpn12897) 
 
 [bahaiprayers.net 12897](https://bahaiprayers.net/Book/Single/33/12897)
 
@@ -391,7 +391,7 @@ Prayer bpn12897 in Polski (bpn12897)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12898 in Polski (bpn12898) 
+Prayer bpn12898 (bpn12898) 
 
 [bahaiprayers.net 12898](https://bahaiprayers.net/Book/Single/33/12898)
 
@@ -404,7 +404,7 @@ Prayer bpn12898 in Polski (bpn12898)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12899 in Polski (bpn12899) 
+Prayer bpn12899 (bpn12899) 
 
 [bahaiprayers.net 12899](https://bahaiprayers.net/Book/Single/33/12899)
 
@@ -417,7 +417,7 @@ Prayer bpn12899 in Polski (bpn12899)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12900 in Polski (bpn12900) 
+Prayer bpn12900 (bpn12900) 
 
 [bahaiprayers.net 12900](https://bahaiprayers.net/Book/Single/33/12900)
 
@@ -430,7 +430,7 @@ Prayer bpn12900 in Polski (bpn12900)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12901 in Polski (bpn12901) 
+Prayer bpn12901 (bpn12901) 
 
 [bahaiprayers.net 12901](https://bahaiprayers.net/Book/Single/33/12901)
 
@@ -443,7 +443,7 @@ Prayer bpn12901 in Polski (bpn12901)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12902 in Polski (bpn12902) 
+Prayer bpn12902 (bpn12902) 
 
 [bahaiprayers.net 12902](https://bahaiprayers.net/Book/Single/33/12902)
 
@@ -460,7 +460,7 @@ Prayer bpn12902 in Polski (bpn12902)
 
 -- Bahá'u'lláh
 
-Prayer bpn7270 in Polski (bpn7270) 
+Prayer bpn7270 (bpn7270) 
 
 [bahaiprayers.net 7270](https://bahaiprayers.net/Book/Single/33/7270)
 
@@ -473,7 +473,7 @@ Prayer bpn7270 in Polski (bpn7270)
 
 -- Báb
 
-Prayer bpn7271 in Polski (bpn7271) 
+Prayer bpn7271 (bpn7271) 
 
 [bahaiprayers.net 7271](https://bahaiprayers.net/Book/Single/33/7271)
 
@@ -486,7 +486,7 @@ Prayer bpn7271 in Polski (bpn7271)
 
 -- Báb
 
-Prayer bpn7272 in Polski (bpn7272) 
+Prayer bpn7272 (bpn7272) 
 
 [bahaiprayers.net 7272](https://bahaiprayers.net/Book/Single/33/7272)
 
@@ -499,7 +499,7 @@ Prayer bpn7272 in Polski (bpn7272)
 
 -- Báb
 
-Prayer bpn7273 in Polski (bpn7273) 
+Prayer bpn7273 (bpn7273) 
 
 [bahaiprayers.net 7273](https://bahaiprayers.net/Book/Single/33/7273)
 
@@ -512,7 +512,7 @@ Prayer bpn7273 in Polski (bpn7273)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7274 in Polski (bpn7274) 
+Prayer bpn7274 (bpn7274) 
 
 [bahaiprayers.net 7274](https://bahaiprayers.net/Book/Single/33/7274)
 
@@ -525,7 +525,7 @@ Prayer bpn7274 in Polski (bpn7274)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7275 in Polski (bpn7275) 
+Prayer bpn7275 (bpn7275) 
 
 [bahaiprayers.net 7275](https://bahaiprayers.net/Book/Single/33/7275)
 
@@ -542,7 +542,7 @@ Prayer bpn7275 in Polski (bpn7275)
 
 -- Bahá'u'lláh
 
-Prayer bpn7463 in Polski (bpn7463) 
+Prayer bpn7463 (bpn7463) 
 
 [bahaiprayers.net 7463](https://bahaiprayers.net/Book/Single/33/7463)
 
@@ -559,7 +559,7 @@ Prayer bpn7463 in Polski (bpn7463)
 
 -- Bahá'u'lláh
 
-Prayer bpn7276 in Polski (bpn7276) 
+Prayer bpn7276 (bpn7276) 
 
 [bahaiprayers.net 7276](https://bahaiprayers.net/Book/Single/33/7276)
 
@@ -572,7 +572,7 @@ Prayer bpn7276 in Polski (bpn7276)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7277 in Polski (bpn7277) 
+Prayer bpn7277 (bpn7277) 
 
 [bahaiprayers.net 7277](https://bahaiprayers.net/Book/Single/33/7277)
 
@@ -585,7 +585,7 @@ Prayer bpn7277 in Polski (bpn7277)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7278 in Polski (bpn7278) 
+Prayer bpn7278 (bpn7278) 
 
 [bahaiprayers.net 7278](https://bahaiprayers.net/Book/Single/33/7278)
 
@@ -598,7 +598,7 @@ Prayer bpn7278 in Polski (bpn7278)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7279 in Polski (bpn7279) 
+Prayer bpn7279 (bpn7279) 
 
 [bahaiprayers.net 7279](https://bahaiprayers.net/Book/Single/33/7279)
 
@@ -611,7 +611,7 @@ Prayer bpn7279 in Polski (bpn7279)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7280 in Polski (bpn7280) 
+Prayer bpn7280 (bpn7280) 
 
 [bahaiprayers.net 7280](https://bahaiprayers.net/Book/Single/33/7280)
 
@@ -624,7 +624,7 @@ Prayer bpn7280 in Polski (bpn7280)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7281 in Polski (bpn7281) 
+Prayer bpn7281 (bpn7281) 
 
 [bahaiprayers.net 7281](https://bahaiprayers.net/Book/Single/33/7281)
 
@@ -637,7 +637,7 @@ Prayer bpn7281 in Polski (bpn7281)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7282 in Polski (bpn7282) 
+Prayer bpn7282 (bpn7282) 
 
 [bahaiprayers.net 7282](https://bahaiprayers.net/Book/Single/33/7282)
 
@@ -650,7 +650,7 @@ Prayer bpn7282 in Polski (bpn7282)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7283 in Polski (bpn7283) 
+Prayer bpn7283 (bpn7283) 
 
 [bahaiprayers.net 7283](https://bahaiprayers.net/Book/Single/33/7283)
 
@@ -663,7 +663,7 @@ Prayer bpn7283 in Polski (bpn7283)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7284 in Polski (bpn7284) 
+Prayer bpn7284 (bpn7284) 
 
 [bahaiprayers.net 7284](https://bahaiprayers.net/Book/Single/33/7284)
 
@@ -676,7 +676,7 @@ Prayer bpn7284 in Polski (bpn7284)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7285 in Polski (bpn7285) 
+Prayer bpn7285 (bpn7285) 
 
 [bahaiprayers.net 7285](https://bahaiprayers.net/Book/Single/33/7285)
 
@@ -689,7 +689,7 @@ Prayer bpn7285 in Polski (bpn7285)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7286 in Polski (bpn7286) 
+Prayer bpn7286 (bpn7286) 
 
 [bahaiprayers.net 7286](https://bahaiprayers.net/Book/Single/33/7286)
 
@@ -706,7 +706,7 @@ Prayer bpn7286 in Polski (bpn7286)
 
 -- Bahá'u'lláh
 
-Prayer bpn7269 in Polski (bpn7269) 
+Prayer bpn7269 (bpn7269) 
 
 [bahaiprayers.net 7269](https://bahaiprayers.net/Book/Single/33/7269)
 
@@ -723,7 +723,7 @@ Prayer bpn7269 in Polski (bpn7269)
 
 -- Bahá'u'lláh
 
-Prayer bpn7428 in Polski (bpn7428) 
+Prayer bpn7428 (bpn7428) 
 
 [bahaiprayers.net 7428](https://bahaiprayers.net/Book/Single/33/7428)
 
@@ -740,7 +740,7 @@ Prayer bpn7428 in Polski (bpn7428)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7290 in Polski (bpn7290) 
+Prayer bpn7290 (bpn7290) 
 
 [bahaiprayers.net 7290](https://bahaiprayers.net/Book/Single/33/7290)
 
@@ -753,7 +753,7 @@ Prayer bpn7290 in Polski (bpn7290)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7291 in Polski (bpn7291) 
+Prayer bpn7291 (bpn7291) 
 
 [bahaiprayers.net 7291](https://bahaiprayers.net/Book/Single/33/7291)
 
@@ -770,7 +770,7 @@ Prayer bpn7291 in Polski (bpn7291)
 
 -- Bahá'u'lláh
 
-Prayer bpn7292 in Polski (bpn7292) 
+Prayer bpn7292 (bpn7292) 
 
 [bahaiprayers.net 7292](https://bahaiprayers.net/Book/Single/33/7292)
 
@@ -783,7 +783,7 @@ Prayer bpn7292 in Polski (bpn7292)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7293 in Polski (bpn7293) 
+Prayer bpn7293 (bpn7293) 
 
 [bahaiprayers.net 7293](https://bahaiprayers.net/Book/Single/33/7293)
 
@@ -800,7 +800,7 @@ Prayer bpn7293 in Polski (bpn7293)
 
 -- Bahá'u'lláh
 
-Prayer bpn7294 in Polski (bpn7294) 
+Prayer bpn7294 (bpn7294) 
 
 [bahaiprayers.net 7294](https://bahaiprayers.net/Book/Single/33/7294)
 
@@ -813,7 +813,7 @@ Prayer bpn7294 in Polski (bpn7294)
 
 -- Bahá'u'lláh
 
-Prayer bpn7295 in Polski (bpn7295) 
+Prayer bpn7295 (bpn7295) 
 
 [bahaiprayers.net 7295](https://bahaiprayers.net/Book/Single/33/7295)
 
@@ -826,7 +826,7 @@ Prayer bpn7295 in Polski (bpn7295)
 
 -- Bahá'u'lláh
 
-Prayer bpn7296 in Polski (bpn7296) 
+Prayer bpn7296 (bpn7296) 
 
 [bahaiprayers.net 7296](https://bahaiprayers.net/Book/Single/33/7296)
 
@@ -839,7 +839,7 @@ Prayer bpn7296 in Polski (bpn7296)
 
 -- Bahá'u'lláh
 
-Prayer bpn7297 in Polski (bpn7297) 
+Prayer bpn7297 (bpn7297) 
 
 [bahaiprayers.net 7297](https://bahaiprayers.net/Book/Single/33/7297)
 
@@ -852,7 +852,7 @@ Prayer bpn7297 in Polski (bpn7297)
 
 -- Bahá'u'lláh
 
-Prayer bpn7298 in Polski (bpn7298) 
+Prayer bpn7298 (bpn7298) 
 
 [bahaiprayers.net 7298](https://bahaiprayers.net/Book/Single/33/7298)
 
@@ -865,7 +865,7 @@ Prayer bpn7298 in Polski (bpn7298)
 
 -- Bahá'u'lláh
 
-Prayer bpn7299 in Polski (bpn7299) 
+Prayer bpn7299 (bpn7299) 
 
 [bahaiprayers.net 7299](https://bahaiprayers.net/Book/Single/33/7299)
 
@@ -878,7 +878,7 @@ Prayer bpn7299 in Polski (bpn7299)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7300 in Polski (bpn7300) 
+Prayer bpn7300 (bpn7300) 
 
 [bahaiprayers.net 7300](https://bahaiprayers.net/Book/Single/33/7300)
 
@@ -891,7 +891,7 @@ Prayer bpn7300 in Polski (bpn7300)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7301 in Polski (bpn7301) 
+Prayer bpn7301 (bpn7301) 
 
 [bahaiprayers.net 7301](https://bahaiprayers.net/Book/Single/33/7301)
 
@@ -904,7 +904,7 @@ Prayer bpn7301 in Polski (bpn7301)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7452 in Polski (bpn7452) 
+Prayer bpn7452 (bpn7452) 
 
 [bahaiprayers.net 7452](https://bahaiprayers.net/Book/Single/33/7452)
 
@@ -917,7 +917,7 @@ Prayer bpn7452 in Polski (bpn7452)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7453 in Polski (bpn7453) 
+Prayer bpn7453 (bpn7453) 
 
 [bahaiprayers.net 7453](https://bahaiprayers.net/Book/Single/33/7453)
 
@@ -930,7 +930,7 @@ Prayer bpn7453 in Polski (bpn7453)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7454 in Polski (bpn7454) 
+Prayer bpn7454 (bpn7454) 
 
 [bahaiprayers.net 7454](https://bahaiprayers.net/Book/Single/33/7454)
 
@@ -947,7 +947,7 @@ Prayer bpn7454 in Polski (bpn7454)
 
 -- Bahá'u'lláh
 
-Prayer bpn7267 in Polski (bpn7267) 
+Prayer bpn7267 (bpn7267) 
 
 [bahaiprayers.net 7267](https://bahaiprayers.net/Book/Single/33/7267)
 
@@ -964,7 +964,7 @@ Prayer bpn7267 in Polski (bpn7267)
 
 -- Bahá'u'lláh
 
-Prayer bpn7302 in Polski (bpn7302) 
+Prayer bpn7302 (bpn7302) 
 
 [bahaiprayers.net 7302](https://bahaiprayers.net/Book/Single/33/7302)
 
@@ -977,7 +977,7 @@ Prayer bpn7302 in Polski (bpn7302)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7303 in Polski (bpn7303) 
+Prayer bpn7303 (bpn7303) 
 
 [bahaiprayers.net 7303](https://bahaiprayers.net/Book/Single/33/7303)
 
@@ -990,7 +990,7 @@ Prayer bpn7303 in Polski (bpn7303)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7304 in Polski (bpn7304) 
+Prayer bpn7304 (bpn7304) 
 
 [bahaiprayers.net 7304](https://bahaiprayers.net/Book/Single/33/7304)
 
@@ -1003,7 +1003,7 @@ Prayer bpn7304 in Polski (bpn7304)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7306 in Polski (bpn7306) 
+Prayer bpn7306 (bpn7306) 
 
 [bahaiprayers.net 7306](https://bahaiprayers.net/Book/Single/33/7306)
 
@@ -1016,7 +1016,7 @@ Prayer bpn7306 in Polski (bpn7306)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7305 in Polski (bpn7305) 
+Prayer bpn7305 (bpn7305) 
 
 [bahaiprayers.net 7305](https://bahaiprayers.net/Book/Single/33/7305)
 
@@ -1033,7 +1033,7 @@ Prayer bpn7305 in Polski (bpn7305)
 
 -- Bahá'u'lláh
 
-Prayer bpn7308 in Polski (bpn7308) 
+Prayer bpn7308 (bpn7308) 
 
 [bahaiprayers.net 7308](https://bahaiprayers.net/Book/Single/33/7308)
 
@@ -1046,7 +1046,7 @@ Prayer bpn7308 in Polski (bpn7308)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7307 in Polski (bpn7307) 
+Prayer bpn7307 (bpn7307) 
 
 [bahaiprayers.net 7307](https://bahaiprayers.net/Book/Single/33/7307)
 
@@ -1059,7 +1059,7 @@ Prayer bpn7307 in Polski (bpn7307)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7309 in Polski (bpn7309) 
+Prayer bpn7309 (bpn7309) 
 
 [bahaiprayers.net 7309](https://bahaiprayers.net/Book/Single/33/7309)
 
@@ -1072,7 +1072,7 @@ Prayer bpn7309 in Polski (bpn7309)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7310 in Polski (bpn7310) 
+Prayer bpn7310 (bpn7310) 
 
 [bahaiprayers.net 7310](https://bahaiprayers.net/Book/Single/33/7310)
 
@@ -1089,7 +1089,7 @@ Prayer bpn7310 in Polski (bpn7310)
 
 -- Bahá'u'lláh
 
-Prayer bpn7447 in Polski (bpn7447) 
+Prayer bpn7447 (bpn7447) 
 
 [bahaiprayers.net 7447](https://bahaiprayers.net/Book/Single/33/7447)
 
@@ -1106,7 +1106,7 @@ Prayer bpn7447 in Polski (bpn7447)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7466 in Polski (bpn7466) 
+Prayer bpn7466 (bpn7466) 
 
 [bahaiprayers.net 7466](https://bahaiprayers.net/Book/Single/33/7466)
 
@@ -1123,7 +1123,7 @@ Prayer bpn7466 in Polski (bpn7466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7380 in Polski (bpn7380) 
+Prayer bpn7380 (bpn7380) 
 
 [bahaiprayers.net 7380](https://bahaiprayers.net/Book/Single/33/7380)
 
@@ -1140,7 +1140,7 @@ Prayer bpn7380 in Polski (bpn7380)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7311 in Polski (bpn7311) 
+Prayer bpn7311 (bpn7311) 
 
 [bahaiprayers.net 7311](https://bahaiprayers.net/Book/Single/33/7311)
 
@@ -1153,7 +1153,7 @@ Prayer bpn7311 in Polski (bpn7311)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7312 in Polski (bpn7312) 
+Prayer bpn7312 (bpn7312) 
 
 [bahaiprayers.net 7312](https://bahaiprayers.net/Book/Single/33/7312)
 
@@ -1166,7 +1166,7 @@ Prayer bpn7312 in Polski (bpn7312)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7313 in Polski (bpn7313) 
+Prayer bpn7313 (bpn7313) 
 
 [bahaiprayers.net 7313](https://bahaiprayers.net/Book/Single/33/7313)
 
@@ -1179,7 +1179,7 @@ Prayer bpn7313 in Polski (bpn7313)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7314 in Polski (bpn7314) 
+Prayer bpn7314 (bpn7314) 
 
 [bahaiprayers.net 7314](https://bahaiprayers.net/Book/Single/33/7314)
 
@@ -1192,7 +1192,7 @@ Prayer bpn7314 in Polski (bpn7314)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7315 in Polski (bpn7315) 
+Prayer bpn7315 (bpn7315) 
 
 [bahaiprayers.net 7315](https://bahaiprayers.net/Book/Single/33/7315)
 
@@ -1209,7 +1209,7 @@ Prayer bpn7315 in Polski (bpn7315)
 
 -- Bahá'u'lláh
 
-Prayer bpn7316 in Polski (bpn7316) 
+Prayer bpn7316 (bpn7316) 
 
 [bahaiprayers.net 7316](https://bahaiprayers.net/Book/Single/33/7316)
 
@@ -1222,7 +1222,7 @@ Prayer bpn7316 in Polski (bpn7316)
 
 -- Bahá'u'lláh
 
-Prayer bpn7317 in Polski (bpn7317) 
+Prayer bpn7317 (bpn7317) 
 
 [bahaiprayers.net 7317](https://bahaiprayers.net/Book/Single/33/7317)
 
@@ -1235,7 +1235,7 @@ Prayer bpn7317 in Polski (bpn7317)
 
 -- Bahá'u'lláh
 
-Prayer bpn7318 in Polski (bpn7318) 
+Prayer bpn7318 (bpn7318) 
 
 [bahaiprayers.net 7318](https://bahaiprayers.net/Book/Single/33/7318)
 
@@ -1248,7 +1248,7 @@ Prayer bpn7318 in Polski (bpn7318)
 
 -- Bahá'u'lláh
 
-Prayer bpn7319 in Polski (bpn7319) 
+Prayer bpn7319 (bpn7319) 
 
 [bahaiprayers.net 7319](https://bahaiprayers.net/Book/Single/33/7319)
 
@@ -1261,7 +1261,7 @@ Prayer bpn7319 in Polski (bpn7319)
 
 -- Bahá'u'lláh
 
-Prayer bpn7320 in Polski (bpn7320) 
+Prayer bpn7320 (bpn7320) 
 
 [bahaiprayers.net 7320](https://bahaiprayers.net/Book/Single/33/7320)
 
@@ -1274,7 +1274,7 @@ Prayer bpn7320 in Polski (bpn7320)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7321 in Polski (bpn7321) 
+Prayer bpn7321 (bpn7321) 
 
 [bahaiprayers.net 7321](https://bahaiprayers.net/Book/Single/33/7321)
 
@@ -1287,7 +1287,7 @@ Prayer bpn7321 in Polski (bpn7321)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7323 in Polski (bpn7323) 
+Prayer bpn7323 (bpn7323) 
 
 [bahaiprayers.net 7323](https://bahaiprayers.net/Book/Single/33/7323)
 
@@ -1300,7 +1300,7 @@ Prayer bpn7323 in Polski (bpn7323)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7324 in Polski (bpn7324) 
+Prayer bpn7324 (bpn7324) 
 
 [bahaiprayers.net 7324](https://bahaiprayers.net/Book/Single/33/7324)
 
@@ -1313,7 +1313,7 @@ Prayer bpn7324 in Polski (bpn7324)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7322 in Polski (bpn7322) 
+Prayer bpn7322 (bpn7322) 
 
 [bahaiprayers.net 7322](https://bahaiprayers.net/Book/Single/33/7322)
 
@@ -1330,7 +1330,7 @@ Prayer bpn7322 in Polski (bpn7322)
 
 -- Bahá'u'lláh
 
-Prayer bpn7467 in Polski (bpn7467) 
+Prayer bpn7467 (bpn7467) 
 
 [bahaiprayers.net 7467](https://bahaiprayers.net/Book/Single/33/7467)
 
@@ -1347,7 +1347,7 @@ Prayer bpn7467 in Polski (bpn7467)
 
 -- Bahá'u'lláh
 
-Prayer bpn7287 in Polski (bpn7287) 
+Prayer bpn7287 (bpn7287) 
 
 [bahaiprayers.net 7287](https://bahaiprayers.net/Book/Single/33/7287)
 
@@ -1360,7 +1360,7 @@ Prayer bpn7287 in Polski (bpn7287)
 
 -- Bahá'u'lláh
 
-Prayer bpn7427 in Polski (bpn7427) 
+Prayer bpn7427 (bpn7427) 
 
 [bahaiprayers.net 7427](https://bahaiprayers.net/Book/Single/33/7427)
 
@@ -1373,7 +1373,7 @@ Prayer bpn7427 in Polski (bpn7427)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7288 in Polski (bpn7288) 
+Prayer bpn7288 (bpn7288) 
 
 [bahaiprayers.net 7288](https://bahaiprayers.net/Book/Single/33/7288)
 
@@ -1386,7 +1386,7 @@ Prayer bpn7288 in Polski (bpn7288)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7289 in Polski (bpn7289) 
+Prayer bpn7289 (bpn7289) 
 
 [bahaiprayers.net 7289](https://bahaiprayers.net/Book/Single/33/7289)
 
@@ -1403,7 +1403,7 @@ Prayer bpn7289 in Polski (bpn7289)
 
 -- Bahá'u'lláh
 
-Prayer bpn7335 in Polski (bpn7335) 
+Prayer bpn7335 (bpn7335) 
 
 [bahaiprayers.net 7335](https://bahaiprayers.net/Book/Single/33/7335)
 
@@ -1416,7 +1416,7 @@ Prayer bpn7335 in Polski (bpn7335)
 
 -- Bahá'u'lláh
 
-Prayer bpn7336 in Polski (bpn7336) 
+Prayer bpn7336 (bpn7336) 
 
 [bahaiprayers.net 7336](https://bahaiprayers.net/Book/Single/33/7336)
 
@@ -1429,7 +1429,7 @@ Prayer bpn7336 in Polski (bpn7336)
 
 -- Bahá'u'lláh
 
-Prayer bpn7337 in Polski (bpn7337) 
+Prayer bpn7337 (bpn7337) 
 
 [bahaiprayers.net 7337](https://bahaiprayers.net/Book/Single/33/7337)
 
@@ -1442,7 +1442,7 @@ Prayer bpn7337 in Polski (bpn7337)
 
 -- Bahá'u'lláh
 
-Prayer bpn7338 in Polski (bpn7338) 
+Prayer bpn7338 (bpn7338) 
 
 [bahaiprayers.net 7338](https://bahaiprayers.net/Book/Single/33/7338)
 
@@ -1455,7 +1455,7 @@ Prayer bpn7338 in Polski (bpn7338)
 
 -- Báb
 
-Prayer bpn7339 in Polski (bpn7339) 
+Prayer bpn7339 (bpn7339) 
 
 [bahaiprayers.net 7339](https://bahaiprayers.net/Book/Single/33/7339)
 
@@ -1468,7 +1468,7 @@ Prayer bpn7339 in Polski (bpn7339)
 
 -- Báb
 
-Prayer bpn7340 in Polski (bpn7340) 
+Prayer bpn7340 (bpn7340) 
 
 [bahaiprayers.net 7340](https://bahaiprayers.net/Book/Single/33/7340)
 
@@ -1481,7 +1481,7 @@ Prayer bpn7340 in Polski (bpn7340)
 
 -- Báb
 
-Prayer bpn7341 in Polski (bpn7341) 
+Prayer bpn7341 (bpn7341) 
 
 [bahaiprayers.net 7341](https://bahaiprayers.net/Book/Single/33/7341)
 
@@ -1494,7 +1494,7 @@ Prayer bpn7341 in Polski (bpn7341)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7343 in Polski (bpn7343) 
+Prayer bpn7343 (bpn7343) 
 
 [bahaiprayers.net 7343](https://bahaiprayers.net/Book/Single/33/7343)
 
@@ -1507,7 +1507,7 @@ Prayer bpn7343 in Polski (bpn7343)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7344 in Polski (bpn7344) 
+Prayer bpn7344 (bpn7344) 
 
 [bahaiprayers.net 7344](https://bahaiprayers.net/Book/Single/33/7344)
 
@@ -1520,7 +1520,7 @@ Prayer bpn7344 in Polski (bpn7344)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7342 in Polski (bpn7342) 
+Prayer bpn7342 (bpn7342) 
 
 [bahaiprayers.net 7342](https://bahaiprayers.net/Book/Single/33/7342)
 
@@ -1537,7 +1537,7 @@ Prayer bpn7342 in Polski (bpn7342)
 
 -- Bahá'u'lláh
 
-Prayer bpn7448 in Polski (bpn7448) 
+Prayer bpn7448 (bpn7448) 
 
 [bahaiprayers.net 7448](https://bahaiprayers.net/Book/Single/33/7448)
 
@@ -1550,7 +1550,7 @@ Prayer bpn7448 in Polski (bpn7448)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7449 in Polski (bpn7449) 
+Prayer bpn7449 (bpn7449) 
 
 [bahaiprayers.net 7449](https://bahaiprayers.net/Book/Single/33/7449)
 
@@ -1563,7 +1563,7 @@ Prayer bpn7449 in Polski (bpn7449)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7450 in Polski (bpn7450) 
+Prayer bpn7450 (bpn7450) 
 
 [bahaiprayers.net 7450](https://bahaiprayers.net/Book/Single/33/7450)
 
@@ -1576,7 +1576,7 @@ Prayer bpn7450 in Polski (bpn7450)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7451 in Polski (bpn7451) 
+Prayer bpn7451 (bpn7451) 
 
 [bahaiprayers.net 7451](https://bahaiprayers.net/Book/Single/33/7451)
 
@@ -1593,7 +1593,7 @@ Prayer bpn7451 in Polski (bpn7451)
 
 -- Bahá'u'lláh
 
-Prayer bpn7483 in Polski (bpn7483) 
+Prayer bpn7483 (bpn7483) 
 
 [bahaiprayers.net 7483](https://bahaiprayers.net/Book/Single/33/7483)
 
@@ -1610,7 +1610,7 @@ Prayer bpn7483 in Polski (bpn7483)
 
 -- Bahá'u'lláh
 
-Prayer bpn7345 in Polski (bpn7345) 
+Prayer bpn7345 (bpn7345) 
 
 [bahaiprayers.net 7345](https://bahaiprayers.net/Book/Single/33/7345)
 
@@ -1623,7 +1623,7 @@ Prayer bpn7345 in Polski (bpn7345)
 
 -- Bahá'u'lláh
 
-Prayer bpn7346 in Polski (bpn7346) 
+Prayer bpn7346 (bpn7346) 
 
 [bahaiprayers.net 7346](https://bahaiprayers.net/Book/Single/33/7346)
 
@@ -1640,7 +1640,7 @@ Prayer bpn7346 in Polski (bpn7346)
 
 -- Bahá'u'lláh
 
-Prayer bpn7347 in Polski (bpn7347) 
+Prayer bpn7347 (bpn7347) 
 
 [bahaiprayers.net 7347](https://bahaiprayers.net/Book/Single/33/7347)
 
@@ -1653,7 +1653,7 @@ Prayer bpn7347 in Polski (bpn7347)
 
 -- Bahá'u'lláh
 
-Prayer bpn7348 in Polski (bpn7348) 
+Prayer bpn7348 (bpn7348) 
 
 [bahaiprayers.net 7348](https://bahaiprayers.net/Book/Single/33/7348)
 
@@ -1666,7 +1666,7 @@ Prayer bpn7348 in Polski (bpn7348)
 
 -- Báb
 
-Prayer bpn7349 in Polski (bpn7349) 
+Prayer bpn7349 (bpn7349) 
 
 [bahaiprayers.net 7349](https://bahaiprayers.net/Book/Single/33/7349)
 
@@ -1679,7 +1679,7 @@ Prayer bpn7349 in Polski (bpn7349)
 
 -- Báb
 
-Prayer bpn7350 in Polski (bpn7350) 
+Prayer bpn7350 (bpn7350) 
 
 [bahaiprayers.net 7350](https://bahaiprayers.net/Book/Single/33/7350)
 
@@ -1692,7 +1692,7 @@ Prayer bpn7350 in Polski (bpn7350)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7351 in Polski (bpn7351) 
+Prayer bpn7351 (bpn7351) 
 
 [bahaiprayers.net 7351](https://bahaiprayers.net/Book/Single/33/7351)
 
@@ -1705,7 +1705,7 @@ Prayer bpn7351 in Polski (bpn7351)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7352 in Polski (bpn7352) 
+Prayer bpn7352 (bpn7352) 
 
 [bahaiprayers.net 7352](https://bahaiprayers.net/Book/Single/33/7352)
 
@@ -1718,7 +1718,7 @@ Prayer bpn7352 in Polski (bpn7352)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7353 in Polski (bpn7353) 
+Prayer bpn7353 (bpn7353) 
 
 [bahaiprayers.net 7353](https://bahaiprayers.net/Book/Single/33/7353)
 
@@ -1735,7 +1735,7 @@ Prayer bpn7353 in Polski (bpn7353)
 
 -- Bahá'u'lláh
 
-Prayer bpn7354 in Polski (bpn7354) 
+Prayer bpn7354 (bpn7354) 
 
 [bahaiprayers.net 7354](https://bahaiprayers.net/Book/Single/33/7354)
 
@@ -1748,7 +1748,7 @@ Prayer bpn7354 in Polski (bpn7354)
 
 -- Bahá'u'lláh
 
-Prayer bpn7355 in Polski (bpn7355) 
+Prayer bpn7355 (bpn7355) 
 
 [bahaiprayers.net 7355](https://bahaiprayers.net/Book/Single/33/7355)
 
@@ -1761,7 +1761,7 @@ Prayer bpn7355 in Polski (bpn7355)
 
 -- Bahá'u'lláh
 
-Prayer bpn7356 in Polski (bpn7356) 
+Prayer bpn7356 (bpn7356) 
 
 [bahaiprayers.net 7356](https://bahaiprayers.net/Book/Single/33/7356)
 
@@ -1778,7 +1778,7 @@ Prayer bpn7356 in Polski (bpn7356)
 
 -- Bahá'u'lláh
 
-Prayer bpn7468 in Polski (bpn7468) 
+Prayer bpn7468 (bpn7468) 
 
 [bahaiprayers.net 7468](https://bahaiprayers.net/Book/Single/33/7468)
 
@@ -1791,7 +1791,7 @@ Prayer bpn7468 in Polski (bpn7468)
 
 -- Bahá'u'lláh
 
-Prayer bpn7469 in Polski (bpn7469) 
+Prayer bpn7469 (bpn7469) 
 
 [bahaiprayers.net 7469](https://bahaiprayers.net/Book/Single/33/7469)
 
@@ -1804,7 +1804,7 @@ Prayer bpn7469 in Polski (bpn7469)
 
 -- Bahá'u'lláh
 
-Prayer bpn7470 in Polski (bpn7470) 
+Prayer bpn7470 (bpn7470) 
 
 [bahaiprayers.net 7470](https://bahaiprayers.net/Book/Single/33/7470)
 
@@ -1817,7 +1817,7 @@ Prayer bpn7470 in Polski (bpn7470)
 
 -- Bahá'u'lláh
 
-Prayer bpn7471 in Polski (bpn7471) 
+Prayer bpn7471 (bpn7471) 
 
 [bahaiprayers.net 7471](https://bahaiprayers.net/Book/Single/33/7471)
 
@@ -1830,7 +1830,7 @@ Prayer bpn7471 in Polski (bpn7471)
 
 -- Bahá'u'lláh
 
-Prayer bpn7472 in Polski (bpn7472) 
+Prayer bpn7472 (bpn7472) 
 
 [bahaiprayers.net 7472](https://bahaiprayers.net/Book/Single/33/7472)
 
@@ -1843,7 +1843,7 @@ Prayer bpn7472 in Polski (bpn7472)
 
 -- Bahá'u'lláh
 
-Prayer bpn7473 in Polski (bpn7473) 
+Prayer bpn7473 (bpn7473) 
 
 [bahaiprayers.net 7473](https://bahaiprayers.net/Book/Single/33/7473)
 
@@ -1860,7 +1860,7 @@ Prayer bpn7473 in Polski (bpn7473)
 
 -- Bahá'u'lláh
 
-Prayer bpn7366 in Polski (bpn7366) 
+Prayer bpn7366 (bpn7366) 
 
 [bahaiprayers.net 7366](https://bahaiprayers.net/Book/Single/33/7366)
 
@@ -1873,7 +1873,7 @@ Prayer bpn7366 in Polski (bpn7366)
 
 -- Bahá'u'lláh
 
-Prayer bpn7367 in Polski (bpn7367) 
+Prayer bpn7367 (bpn7367) 
 
 [bahaiprayers.net 7367](https://bahaiprayers.net/Book/Single/33/7367)
 
@@ -1886,7 +1886,7 @@ Prayer bpn7367 in Polski (bpn7367)
 
 -- Bahá'u'lláh
 
-Prayer bpn7368 in Polski (bpn7368) 
+Prayer bpn7368 (bpn7368) 
 
 [bahaiprayers.net 7368](https://bahaiprayers.net/Book/Single/33/7368)
 
@@ -1899,7 +1899,7 @@ Prayer bpn7368 in Polski (bpn7368)
 
 -- Bahá'u'lláh
 
-Prayer bpn7369 in Polski (bpn7369) 
+Prayer bpn7369 (bpn7369) 
 
 [bahaiprayers.net 7369](https://bahaiprayers.net/Book/Single/33/7369)
 
@@ -1912,7 +1912,7 @@ Prayer bpn7369 in Polski (bpn7369)
 
 -- Bahá'u'lláh
 
-Prayer bpn7370 in Polski (bpn7370) 
+Prayer bpn7370 (bpn7370) 
 
 [bahaiprayers.net 7370](https://bahaiprayers.net/Book/Single/33/7370)
 
@@ -1925,7 +1925,7 @@ Prayer bpn7370 in Polski (bpn7370)
 
 -- Báb
 
-Prayer bpn7371 in Polski (bpn7371) 
+Prayer bpn7371 (bpn7371) 
 
 [bahaiprayers.net 7371](https://bahaiprayers.net/Book/Single/33/7371)
 
@@ -1938,7 +1938,7 @@ Prayer bpn7371 in Polski (bpn7371)
 
 -- Báb
 
-Prayer bpn7373 in Polski (bpn7373) 
+Prayer bpn7373 (bpn7373) 
 
 [bahaiprayers.net 7373](https://bahaiprayers.net/Book/Single/33/7373)
 
@@ -1951,7 +1951,7 @@ Prayer bpn7373 in Polski (bpn7373)
 
 -- Báb
 
-Prayer bpn7374 in Polski (bpn7374) 
+Prayer bpn7374 (bpn7374) 
 
 [bahaiprayers.net 7374](https://bahaiprayers.net/Book/Single/33/7374)
 
@@ -1964,7 +1964,7 @@ Prayer bpn7374 in Polski (bpn7374)
 
 -- Báb
 
-Prayer bpn7375 in Polski (bpn7375) 
+Prayer bpn7375 (bpn7375) 
 
 [bahaiprayers.net 7375](https://bahaiprayers.net/Book/Single/33/7375)
 
@@ -1977,7 +1977,7 @@ Prayer bpn7375 in Polski (bpn7375)
 
 -- Báb
 
-Prayer bpn7372 in Polski (bpn7372) 
+Prayer bpn7372 (bpn7372) 
 
 [bahaiprayers.net 7372](https://bahaiprayers.net/Book/Single/33/7372)
 
@@ -1990,7 +1990,7 @@ Prayer bpn7372 in Polski (bpn7372)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7376 in Polski (bpn7376) 
+Prayer bpn7376 (bpn7376) 
 
 [bahaiprayers.net 7376](https://bahaiprayers.net/Book/Single/33/7376)
 
@@ -2007,7 +2007,7 @@ Prayer bpn7376 in Polski (bpn7376)
 
 -- Bahá'u'lláh
 
-Prayer bpn7357 in Polski (bpn7357) 
+Prayer bpn7357 (bpn7357) 
 
 [bahaiprayers.net 7357](https://bahaiprayers.net/Book/Single/33/7357)
 
@@ -2020,7 +2020,7 @@ Prayer bpn7357 in Polski (bpn7357)
 
 -- Bahá'u'lláh
 
-Prayer bpn7358 in Polski (bpn7358) 
+Prayer bpn7358 (bpn7358) 
 
 [bahaiprayers.net 7358](https://bahaiprayers.net/Book/Single/33/7358)
 
@@ -2033,7 +2033,7 @@ Prayer bpn7358 in Polski (bpn7358)
 
 -- Bahá'u'lláh
 
-Prayer bpn7359 in Polski (bpn7359) 
+Prayer bpn7359 (bpn7359) 
 
 [bahaiprayers.net 7359](https://bahaiprayers.net/Book/Single/33/7359)
 
@@ -2046,7 +2046,7 @@ Prayer bpn7359 in Polski (bpn7359)
 
 -- Bahá'u'lláh
 
-Prayer bpn7360 in Polski (bpn7360) 
+Prayer bpn7360 (bpn7360) 
 
 [bahaiprayers.net 7360](https://bahaiprayers.net/Book/Single/33/7360)
 
@@ -2059,7 +2059,7 @@ Prayer bpn7360 in Polski (bpn7360)
 
 -- Bahá'u'lláh
 
-Prayer bpn7361 in Polski (bpn7361) 
+Prayer bpn7361 (bpn7361) 
 
 [bahaiprayers.net 7361](https://bahaiprayers.net/Book/Single/33/7361)
 
@@ -2072,7 +2072,7 @@ Prayer bpn7361 in Polski (bpn7361)
 
 -- Báb
 
-Prayer bpn7362 in Polski (bpn7362) 
+Prayer bpn7362 (bpn7362) 
 
 [bahaiprayers.net 7362](https://bahaiprayers.net/Book/Single/33/7362)
 
@@ -2085,7 +2085,7 @@ Prayer bpn7362 in Polski (bpn7362)
 
 -- Báb
 
-Prayer bpn7363 in Polski (bpn7363) 
+Prayer bpn7363 (bpn7363) 
 
 [bahaiprayers.net 7363](https://bahaiprayers.net/Book/Single/33/7363)
 
@@ -2098,7 +2098,7 @@ Prayer bpn7363 in Polski (bpn7363)
 
 -- Báb
 
-Prayer bpn7364 in Polski (bpn7364) 
+Prayer bpn7364 (bpn7364) 
 
 [bahaiprayers.net 7364](https://bahaiprayers.net/Book/Single/33/7364)
 
@@ -2111,7 +2111,7 @@ Prayer bpn7364 in Polski (bpn7364)
 
 -- Báb
 
-Prayer bpn7365 in Polski (bpn7365) 
+Prayer bpn7365 (bpn7365) 
 
 [bahaiprayers.net 7365](https://bahaiprayers.net/Book/Single/33/7365)
 
@@ -2128,7 +2128,7 @@ Prayer bpn7365 in Polski (bpn7365)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7431 in Polski (bpn7431) 
+Prayer bpn7431 (bpn7431) 
 
 [bahaiprayers.net 7431](https://bahaiprayers.net/Book/Single/33/7431)
 
@@ -2145,7 +2145,7 @@ Prayer bpn7431 in Polski (bpn7431)
 
 -- Báb
 
-Prayer bpn7378 in Polski (bpn7378) 
+Prayer bpn7378 (bpn7378) 
 
 [bahaiprayers.net 7378](https://bahaiprayers.net/Book/Single/33/7378)
 
@@ -2158,7 +2158,7 @@ Prayer bpn7378 in Polski (bpn7378)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7379 in Polski (bpn7379) 
+Prayer bpn7379 (bpn7379) 
 
 [bahaiprayers.net 7379](https://bahaiprayers.net/Book/Single/33/7379)
 
@@ -2175,7 +2175,7 @@ Prayer bpn7379 in Polski (bpn7379)
 
 -- Báb
 
-Prayer bpn7377 in Polski (bpn7377) 
+Prayer bpn7377 (bpn7377) 
 
 [bahaiprayers.net 7377](https://bahaiprayers.net/Book/Single/33/7377)
 
@@ -2192,7 +2192,7 @@ Prayer bpn7377 in Polski (bpn7377)
 
 -- Bahá'u'lláh
 
-Prayer bpn7381 in Polski (bpn7381) 
+Prayer bpn7381 (bpn7381) 
 
 [bahaiprayers.net 7381](https://bahaiprayers.net/Book/Single/33/7381)
 
@@ -2205,7 +2205,7 @@ Prayer bpn7381 in Polski (bpn7381)
 
 -- Bahá'u'lláh
 
-Prayer bpn7382 in Polski (bpn7382) 
+Prayer bpn7382 (bpn7382) 
 
 [bahaiprayers.net 7382](https://bahaiprayers.net/Book/Single/33/7382)
 
@@ -2218,7 +2218,7 @@ Prayer bpn7382 in Polski (bpn7382)
 
 -- Bahá'u'lláh
 
-Prayer bpn7383 in Polski (bpn7383) 
+Prayer bpn7383 (bpn7383) 
 
 [bahaiprayers.net 7383](https://bahaiprayers.net/Book/Single/33/7383)
 
@@ -2231,7 +2231,7 @@ Prayer bpn7383 in Polski (bpn7383)
 
 -- Bahá'u'lláh
 
-Prayer bpn7384 in Polski (bpn7384) 
+Prayer bpn7384 (bpn7384) 
 
 [bahaiprayers.net 7384](https://bahaiprayers.net/Book/Single/33/7384)
 
@@ -2244,7 +2244,7 @@ Prayer bpn7384 in Polski (bpn7384)
 
 -- Bahá'u'lláh
 
-Prayer bpn7385 in Polski (bpn7385) 
+Prayer bpn7385 (bpn7385) 
 
 [bahaiprayers.net 7385](https://bahaiprayers.net/Book/Single/33/7385)
 
@@ -2257,7 +2257,7 @@ Prayer bpn7385 in Polski (bpn7385)
 
 -- Bahá'u'lláh
 
-Prayer bpn7386 in Polski (bpn7386) 
+Prayer bpn7386 (bpn7386) 
 
 [bahaiprayers.net 7386](https://bahaiprayers.net/Book/Single/33/7386)
 
@@ -2270,7 +2270,7 @@ Prayer bpn7386 in Polski (bpn7386)
 
 -- Bahá'u'lláh
 
-Prayer bpn7387 in Polski (bpn7387) 
+Prayer bpn7387 (bpn7387) 
 
 [bahaiprayers.net 7387](https://bahaiprayers.net/Book/Single/33/7387)
 
@@ -2283,7 +2283,7 @@ Prayer bpn7387 in Polski (bpn7387)
 
 -- Bahá'u'lláh
 
-Prayer bpn7388 in Polski (bpn7388) 
+Prayer bpn7388 (bpn7388) 
 
 [bahaiprayers.net 7388](https://bahaiprayers.net/Book/Single/33/7388)
 
@@ -2296,7 +2296,7 @@ Prayer bpn7388 in Polski (bpn7388)
 
 -- Bahá'u'lláh
 
-Prayer bpn7389 in Polski (bpn7389) 
+Prayer bpn7389 (bpn7389) 
 
 [bahaiprayers.net 7389](https://bahaiprayers.net/Book/Single/33/7389)
 
@@ -2309,7 +2309,7 @@ Prayer bpn7389 in Polski (bpn7389)
 
 -- Báb
 
-Prayer bpn7390 in Polski (bpn7390) 
+Prayer bpn7390 (bpn7390) 
 
 [bahaiprayers.net 7390](https://bahaiprayers.net/Book/Single/33/7390)
 
@@ -2322,7 +2322,7 @@ Prayer bpn7390 in Polski (bpn7390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7391 in Polski (bpn7391) 
+Prayer bpn7391 (bpn7391) 
 
 [bahaiprayers.net 7391](https://bahaiprayers.net/Book/Single/33/7391)
 
@@ -2335,7 +2335,7 @@ Prayer bpn7391 in Polski (bpn7391)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7392 in Polski (bpn7392) 
+Prayer bpn7392 (bpn7392) 
 
 [bahaiprayers.net 7392](https://bahaiprayers.net/Book/Single/33/7392)
 
@@ -2348,7 +2348,7 @@ Prayer bpn7392 in Polski (bpn7392)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7393 in Polski (bpn7393) 
+Prayer bpn7393 (bpn7393) 
 
 [bahaiprayers.net 7393](https://bahaiprayers.net/Book/Single/33/7393)
 
@@ -2361,7 +2361,7 @@ Prayer bpn7393 in Polski (bpn7393)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7394 in Polski (bpn7394) 
+Prayer bpn7394 (bpn7394) 
 
 [bahaiprayers.net 7394](https://bahaiprayers.net/Book/Single/33/7394)
 
@@ -2374,7 +2374,7 @@ Prayer bpn7394 in Polski (bpn7394)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7395 in Polski (bpn7395) 
+Prayer bpn7395 (bpn7395) 
 
 [bahaiprayers.net 7395](https://bahaiprayers.net/Book/Single/33/7395)
 
@@ -2387,7 +2387,7 @@ Prayer bpn7395 in Polski (bpn7395)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7396 in Polski (bpn7396) 
+Prayer bpn7396 (bpn7396) 
 
 [bahaiprayers.net 7396](https://bahaiprayers.net/Book/Single/33/7396)
 
@@ -2400,7 +2400,7 @@ Prayer bpn7396 in Polski (bpn7396)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7397 in Polski (bpn7397) 
+Prayer bpn7397 (bpn7397) 
 
 [bahaiprayers.net 7397](https://bahaiprayers.net/Book/Single/33/7397)
 
@@ -2417,7 +2417,7 @@ Prayer bpn7397 in Polski (bpn7397)
 
 -- Bahá'u'lláh
 
-Prayer bpn7400 in Polski (bpn7400) 
+Prayer bpn7400 (bpn7400) 
 
 [bahaiprayers.net 7400](https://bahaiprayers.net/Book/Single/33/7400)
 
@@ -2430,7 +2430,7 @@ Prayer bpn7400 in Polski (bpn7400)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7401 in Polski (bpn7401) 
+Prayer bpn7401 (bpn7401) 
 
 [bahaiprayers.net 7401](https://bahaiprayers.net/Book/Single/33/7401)
 
@@ -2443,7 +2443,7 @@ Prayer bpn7401 in Polski (bpn7401)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7402 in Polski (bpn7402) 
+Prayer bpn7402 (bpn7402) 
 
 [bahaiprayers.net 7402](https://bahaiprayers.net/Book/Single/33/7402)
 
@@ -2456,7 +2456,7 @@ Prayer bpn7402 in Polski (bpn7402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7403 in Polski (bpn7403) 
+Prayer bpn7403 (bpn7403) 
 
 [bahaiprayers.net 7403](https://bahaiprayers.net/Book/Single/33/7403)
 
@@ -2469,7 +2469,7 @@ Prayer bpn7403 in Polski (bpn7403)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7404 in Polski (bpn7404) 
+Prayer bpn7404 (bpn7404) 
 
 [bahaiprayers.net 7404](https://bahaiprayers.net/Book/Single/33/7404)
 
@@ -2482,7 +2482,7 @@ Prayer bpn7404 in Polski (bpn7404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7405 in Polski (bpn7405) 
+Prayer bpn7405 (bpn7405) 
 
 [bahaiprayers.net 7405](https://bahaiprayers.net/Book/Single/33/7405)
 
@@ -2495,7 +2495,7 @@ Prayer bpn7405 in Polski (bpn7405)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7406 in Polski (bpn7406) 
+Prayer bpn7406 (bpn7406) 
 
 [bahaiprayers.net 7406](https://bahaiprayers.net/Book/Single/33/7406)
 
@@ -2512,7 +2512,7 @@ Prayer bpn7406 in Polski (bpn7406)
 
 -- Bahá'u'lláh
 
-Prayer bpn7408 in Polski (bpn7408) 
+Prayer bpn7408 (bpn7408) 
 
 [bahaiprayers.net 7408](https://bahaiprayers.net/Book/Single/33/7408)
 
@@ -2525,7 +2525,7 @@ Prayer bpn7408 in Polski (bpn7408)
 
 -- Bahá'u'lláh
 
-Prayer bpn7409 in Polski (bpn7409) 
+Prayer bpn7409 (bpn7409) 
 
 [bahaiprayers.net 7409](https://bahaiprayers.net/Book/Single/33/7409)
 
@@ -2538,7 +2538,7 @@ Prayer bpn7409 in Polski (bpn7409)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7410 in Polski (bpn7410) 
+Prayer bpn7410 (bpn7410) 
 
 [bahaiprayers.net 7410](https://bahaiprayers.net/Book/Single/33/7410)
 
@@ -2551,7 +2551,7 @@ Prayer bpn7410 in Polski (bpn7410)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7411 in Polski (bpn7411) 
+Prayer bpn7411 (bpn7411) 
 
 [bahaiprayers.net 7411](https://bahaiprayers.net/Book/Single/33/7411)
 
@@ -2564,7 +2564,7 @@ Prayer bpn7411 in Polski (bpn7411)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7412 in Polski (bpn7412) 
+Prayer bpn7412 (bpn7412) 
 
 [bahaiprayers.net 7412](https://bahaiprayers.net/Book/Single/33/7412)
 
@@ -2581,7 +2581,7 @@ Prayer bpn7412 in Polski (bpn7412)
 
 -- Bahá'u'lláh
 
-Prayer bpn7398 in Polski (bpn7398) 
+Prayer bpn7398 (bpn7398) 
 
 [bahaiprayers.net 7398](https://bahaiprayers.net/Book/Single/33/7398)
 
@@ -2594,7 +2594,7 @@ Prayer bpn7398 in Polski (bpn7398)
 
 -- Bahá'u'lláh
 
-Prayer bpn7399 in Polski (bpn7399) 
+Prayer bpn7399 (bpn7399) 
 
 [bahaiprayers.net 7399](https://bahaiprayers.net/Book/Single/33/7399)
 
@@ -2611,7 +2611,7 @@ Prayer bpn7399 in Polski (bpn7399)
 
 -- Bahá'u'lláh
 
-Prayer bpn7479 in Polski (bpn7479) 
+Prayer bpn7479 (bpn7479) 
 
 [bahaiprayers.net 7479](https://bahaiprayers.net/Book/Single/33/7479)
 
@@ -2628,7 +2628,7 @@ Prayer bpn7479 in Polski (bpn7479)
 
 -- Bahá'u'lláh
 
-Prayer bpn7480 in Polski (bpn7480) 
+Prayer bpn7480 (bpn7480) 
 
 [bahaiprayers.net 7480](https://bahaiprayers.net/Book/Single/33/7480)
 
@@ -2645,7 +2645,7 @@ Prayer bpn7480 in Polski (bpn7480)
 
 -- Bahá'u'lláh
 
-Prayer bpn7482 in Polski (bpn7482) 
+Prayer bpn7482 (bpn7482) 
 
 [bahaiprayers.net 7482](https://bahaiprayers.net/Book/Single/33/7482)
 
@@ -2662,7 +2662,7 @@ Prayer bpn7482 in Polski (bpn7482)
 
 -- Bahá'u'lláh
 
-Prayer bpn7481 in Polski (bpn7481) 
+Prayer bpn7481 (bpn7481) 
 
 [bahaiprayers.net 7481](https://bahaiprayers.net/Book/Single/33/7481)
 
@@ -2679,7 +2679,7 @@ Prayer bpn7481 in Polski (bpn7481)
 
 -- Bahá'u'lláh
 
-Prayer bpn7474 in Polski (bpn7474) 
+Prayer bpn7474 (bpn7474) 
 
 [bahaiprayers.net 7474](https://bahaiprayers.net/Book/Single/33/7474)
 
@@ -2692,7 +2692,7 @@ Prayer bpn7474 in Polski (bpn7474)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7475 in Polski (bpn7475) 
+Prayer bpn7475 (bpn7475) 
 
 [bahaiprayers.net 7475](https://bahaiprayers.net/Book/Single/33/7475)
 
@@ -2709,7 +2709,7 @@ Prayer bpn7475 in Polski (bpn7475)
 
 -- Bahá'u'lláh
 
-Prayer bpn7413 in Polski (bpn7413) 
+Prayer bpn7413 (bpn7413) 
 
 [bahaiprayers.net 7413](https://bahaiprayers.net/Book/Single/33/7413)
 
@@ -2722,7 +2722,7 @@ Prayer bpn7413 in Polski (bpn7413)
 
 -- Bahá'u'lláh
 
-Prayer bpn7414 in Polski (bpn7414) 
+Prayer bpn7414 (bpn7414) 
 
 [bahaiprayers.net 7414](https://bahaiprayers.net/Book/Single/33/7414)
 
@@ -2735,7 +2735,7 @@ Prayer bpn7414 in Polski (bpn7414)
 
 -- Bahá'u'lláh
 
-Prayer bpn7415 in Polski (bpn7415) 
+Prayer bpn7415 (bpn7415) 
 
 [bahaiprayers.net 7415](https://bahaiprayers.net/Book/Single/33/7415)
 
@@ -2748,7 +2748,7 @@ Prayer bpn7415 in Polski (bpn7415)
 
 -- Bahá'u'lláh
 
-Prayer bpn7416 in Polski (bpn7416) 
+Prayer bpn7416 (bpn7416) 
 
 [bahaiprayers.net 7416](https://bahaiprayers.net/Book/Single/33/7416)
 
@@ -2761,7 +2761,7 @@ Prayer bpn7416 in Polski (bpn7416)
 
 -- Bahá'u'lláh
 
-Prayer bpn7417 in Polski (bpn7417) 
+Prayer bpn7417 (bpn7417) 
 
 [bahaiprayers.net 7417](https://bahaiprayers.net/Book/Single/33/7417)
 
@@ -2774,7 +2774,7 @@ Prayer bpn7417 in Polski (bpn7417)
 
 -- Bahá'u'lláh
 
-Prayer bpn7418 in Polski (bpn7418) 
+Prayer bpn7418 (bpn7418) 
 
 [bahaiprayers.net 7418](https://bahaiprayers.net/Book/Single/33/7418)
 
@@ -2787,7 +2787,7 @@ Prayer bpn7418 in Polski (bpn7418)
 
 -- Báb
 
-Prayer bpn7419 in Polski (bpn7419) 
+Prayer bpn7419 (bpn7419) 
 
 [bahaiprayers.net 7419](https://bahaiprayers.net/Book/Single/33/7419)
 
@@ -2800,7 +2800,7 @@ Prayer bpn7419 in Polski (bpn7419)
 
 -- Báb
 
-Prayer bpn7421 in Polski (bpn7421) 
+Prayer bpn7421 (bpn7421) 
 
 [bahaiprayers.net 7421](https://bahaiprayers.net/Book/Single/33/7421)
 
@@ -2813,7 +2813,7 @@ Prayer bpn7421 in Polski (bpn7421)
 
 -- Báb
 
-Prayer bpn7420 in Polski (bpn7420) 
+Prayer bpn7420 (bpn7420) 
 
 [bahaiprayers.net 7420](https://bahaiprayers.net/Book/Single/33/7420)
 
@@ -2826,7 +2826,7 @@ Prayer bpn7420 in Polski (bpn7420)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7422 in Polski (bpn7422) 
+Prayer bpn7422 (bpn7422) 
 
 [bahaiprayers.net 7422](https://bahaiprayers.net/Book/Single/33/7422)
 
@@ -2839,7 +2839,7 @@ Prayer bpn7422 in Polski (bpn7422)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7423 in Polski (bpn7423) 
+Prayer bpn7423 (bpn7423) 
 
 [bahaiprayers.net 7423](https://bahaiprayers.net/Book/Single/33/7423)
 
@@ -2856,7 +2856,7 @@ Prayer bpn7423 in Polski (bpn7423)
 
 -- Bahá'u'lláh
 
-Prayer bpn7424 in Polski (bpn7424) 
+Prayer bpn7424 (bpn7424) 
 
 [bahaiprayers.net 7424](https://bahaiprayers.net/Book/Single/33/7424)
 
@@ -2869,7 +2869,7 @@ Prayer bpn7424 in Polski (bpn7424)
 
 -- Bahá'u'lláh
 
-Prayer bpn7426 in Polski (bpn7426) 
+Prayer bpn7426 (bpn7426) 
 
 [bahaiprayers.net 7426](https://bahaiprayers.net/Book/Single/33/7426)
 
@@ -2882,7 +2882,7 @@ Prayer bpn7426 in Polski (bpn7426)
 
 -- Bahá'u'lláh
 
-Prayer bpn7425 in Polski (bpn7425) 
+Prayer bpn7425 (bpn7425) 
 
 [bahaiprayers.net 7425](https://bahaiprayers.net/Book/Single/33/7425)
 
@@ -2899,7 +2899,7 @@ Prayer bpn7425 in Polski (bpn7425)
 
 -- Bahá'u'lláh
 
-Prayer bpn7429 in Polski (bpn7429) 
+Prayer bpn7429 (bpn7429) 
 
 [bahaiprayers.net 7429](https://bahaiprayers.net/Book/Single/33/7429)
 
@@ -2912,7 +2912,7 @@ Prayer bpn7429 in Polski (bpn7429)
 
 -- Bahá'u'lláh
 
-Prayer bpn7430 in Polski (bpn7430) 
+Prayer bpn7430 (bpn7430) 
 
 [bahaiprayers.net 7430](https://bahaiprayers.net/Book/Single/33/7430)
 
@@ -2929,7 +2929,7 @@ Prayer bpn7430 in Polski (bpn7430)
 
 -- Bahá'u'lláh
 
-Prayer bpn7432 in Polski (bpn7432) 
+Prayer bpn7432 (bpn7432) 
 
 [bahaiprayers.net 7432](https://bahaiprayers.net/Book/Single/33/7432)
 
@@ -2942,7 +2942,7 @@ Prayer bpn7432 in Polski (bpn7432)
 
 -- Bahá'u'lláh
 
-Prayer bpn7433 in Polski (bpn7433) 
+Prayer bpn7433 (bpn7433) 
 
 [bahaiprayers.net 7433](https://bahaiprayers.net/Book/Single/33/7433)
 
@@ -2955,7 +2955,7 @@ Prayer bpn7433 in Polski (bpn7433)
 
 -- Bahá'u'lláh
 
-Prayer bpn7434 in Polski (bpn7434) 
+Prayer bpn7434 (bpn7434) 
 
 [bahaiprayers.net 7434](https://bahaiprayers.net/Book/Single/33/7434)
 
@@ -2968,7 +2968,7 @@ Prayer bpn7434 in Polski (bpn7434)
 
 -- Bahá'u'lláh
 
-Prayer bpn7435 in Polski (bpn7435) 
+Prayer bpn7435 (bpn7435) 
 
 [bahaiprayers.net 7435](https://bahaiprayers.net/Book/Single/33/7435)
 
@@ -2981,7 +2981,7 @@ Prayer bpn7435 in Polski (bpn7435)
 
 -- Bahá'u'lláh
 
-Prayer bpn7436 in Polski (bpn7436) 
+Prayer bpn7436 (bpn7436) 
 
 [bahaiprayers.net 7436](https://bahaiprayers.net/Book/Single/33/7436)
 
@@ -2994,7 +2994,7 @@ Prayer bpn7436 in Polski (bpn7436)
 
 -- Bahá'u'lláh
 
-Prayer bpn7437 in Polski (bpn7437) 
+Prayer bpn7437 (bpn7437) 
 
 [bahaiprayers.net 7437](https://bahaiprayers.net/Book/Single/33/7437)
 
@@ -3007,7 +3007,7 @@ Prayer bpn7437 in Polski (bpn7437)
 
 -- Báb
 
-Prayer bpn7438 in Polski (bpn7438) 
+Prayer bpn7438 (bpn7438) 
 
 [bahaiprayers.net 7438](https://bahaiprayers.net/Book/Single/33/7438)
 
@@ -3024,7 +3024,7 @@ Prayer bpn7438 in Polski (bpn7438)
 
 -- Bahá'u'lláh
 
-Prayer bpn7439 in Polski (bpn7439) 
+Prayer bpn7439 (bpn7439) 
 
 [bahaiprayers.net 7439](https://bahaiprayers.net/Book/Single/33/7439)
 
@@ -3037,7 +3037,7 @@ Prayer bpn7439 in Polski (bpn7439)
 
 -- Bahá'u'lláh
 
-Prayer bpn7440 in Polski (bpn7440) 
+Prayer bpn7440 (bpn7440) 
 
 [bahaiprayers.net 7440](https://bahaiprayers.net/Book/Single/33/7440)
 
@@ -3050,7 +3050,7 @@ Prayer bpn7440 in Polski (bpn7440)
 
 -- Bahá'u'lláh
 
-Prayer bpn7441 in Polski (bpn7441) 
+Prayer bpn7441 (bpn7441) 
 
 [bahaiprayers.net 7441](https://bahaiprayers.net/Book/Single/33/7441)
 
@@ -3063,7 +3063,7 @@ Prayer bpn7441 in Polski (bpn7441)
 
 -- Bahá'u'lláh
 
-Prayer bpn7442 in Polski (bpn7442) 
+Prayer bpn7442 (bpn7442) 
 
 [bahaiprayers.net 7442](https://bahaiprayers.net/Book/Single/33/7442)
 
@@ -3076,7 +3076,7 @@ Prayer bpn7442 in Polski (bpn7442)
 
 -- Báb
 
-Prayer bpn7443 in Polski (bpn7443) 
+Prayer bpn7443 (bpn7443) 
 
 [bahaiprayers.net 7443](https://bahaiprayers.net/Book/Single/33/7443)
 
@@ -3089,7 +3089,7 @@ Prayer bpn7443 in Polski (bpn7443)
 
 -- Báb
 
-Prayer bpn7444 in Polski (bpn7444) 
+Prayer bpn7444 (bpn7444) 
 
 [bahaiprayers.net 7444](https://bahaiprayers.net/Book/Single/33/7444)
 
@@ -3102,7 +3102,7 @@ Prayer bpn7444 in Polski (bpn7444)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7445 in Polski (bpn7445) 
+Prayer bpn7445 (bpn7445) 
 
 [bahaiprayers.net 7445](https://bahaiprayers.net/Book/Single/33/7445)
 
@@ -3115,7 +3115,7 @@ Prayer bpn7445 in Polski (bpn7445)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7446 in Polski (bpn7446) 
+Prayer bpn7446 (bpn7446) 
 
 [bahaiprayers.net 7446](https://bahaiprayers.net/Book/Single/33/7446)
 
@@ -3132,7 +3132,7 @@ Prayer bpn7446 in Polski (bpn7446)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7325 in Polski (bpn7325) 
+Prayer bpn7325 (bpn7325) 
 
 [bahaiprayers.net 7325](https://bahaiprayers.net/Book/Single/33/7325)
 
@@ -3145,7 +3145,7 @@ Prayer bpn7325 in Polski (bpn7325)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7326 in Polski (bpn7326) 
+Prayer bpn7326 (bpn7326) 
 
 [bahaiprayers.net 7326](https://bahaiprayers.net/Book/Single/33/7326)
 
@@ -3158,7 +3158,7 @@ Prayer bpn7326 in Polski (bpn7326)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7327 in Polski (bpn7327) 
+Prayer bpn7327 (bpn7327) 
 
 [bahaiprayers.net 7327](https://bahaiprayers.net/Book/Single/33/7327)
 
@@ -3171,7 +3171,7 @@ Prayer bpn7327 in Polski (bpn7327)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7328 in Polski (bpn7328) 
+Prayer bpn7328 (bpn7328) 
 
 [bahaiprayers.net 7328](https://bahaiprayers.net/Book/Single/33/7328)
 
@@ -3184,7 +3184,7 @@ Prayer bpn7328 in Polski (bpn7328)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7329 in Polski (bpn7329) 
+Prayer bpn7329 (bpn7329) 
 
 [bahaiprayers.net 7329](https://bahaiprayers.net/Book/Single/33/7329)
 
@@ -3197,7 +3197,7 @@ Prayer bpn7329 in Polski (bpn7329)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7330 in Polski (bpn7330) 
+Prayer bpn7330 (bpn7330) 
 
 [bahaiprayers.net 7330](https://bahaiprayers.net/Book/Single/33/7330)
 
@@ -3210,7 +3210,7 @@ Prayer bpn7330 in Polski (bpn7330)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7331 in Polski (bpn7331) 
+Prayer bpn7331 (bpn7331) 
 
 [bahaiprayers.net 7331](https://bahaiprayers.net/Book/Single/33/7331)
 
@@ -3223,7 +3223,7 @@ Prayer bpn7331 in Polski (bpn7331)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7332 in Polski (bpn7332) 
+Prayer bpn7332 (bpn7332) 
 
 [bahaiprayers.net 7332](https://bahaiprayers.net/Book/Single/33/7332)
 
@@ -3236,7 +3236,7 @@ Prayer bpn7332 in Polski (bpn7332)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7333 in Polski (bpn7333) 
+Prayer bpn7333 (bpn7333) 
 
 [bahaiprayers.net 7333](https://bahaiprayers.net/Book/Single/33/7333)
 
@@ -3249,7 +3249,7 @@ Prayer bpn7333 in Polski (bpn7333)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7334 in Polski (bpn7334) 
+Prayer bpn7334 (bpn7334) 
 
 [bahaiprayers.net 7334](https://bahaiprayers.net/Book/Single/33/7334)
 
@@ -3266,7 +3266,7 @@ Prayer bpn7334 in Polski (bpn7334)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7476 in Polski (bpn7476) 
+Prayer bpn7476 (bpn7476) 
 
 [bahaiprayers.net 7476](https://bahaiprayers.net/Book/Single/33/7476)
 
@@ -3279,7 +3279,7 @@ Prayer bpn7476 in Polski (bpn7476)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7477 in Polski (bpn7477) 
+Prayer bpn7477 (bpn7477) 
 
 [bahaiprayers.net 7477](https://bahaiprayers.net/Book/Single/33/7477)
 
@@ -3292,7 +3292,7 @@ Prayer bpn7477 in Polski (bpn7477)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7478 in Polski (bpn7478) 
+Prayer bpn7478 (bpn7478) 
 
 [bahaiprayers.net 7478](https://bahaiprayers.net/Book/Single/33/7478)
 
@@ -3309,7 +3309,7 @@ Prayer bpn7478 in Polski (bpn7478)
 
 -- Bahá'u'lláh
 
-Prayer bpn7455 in Polski (bpn7455) 
+Prayer bpn7455 (bpn7455) 
 
 [bahaiprayers.net 7455](https://bahaiprayers.net/Book/Single/33/7455)
 
@@ -3322,7 +3322,7 @@ Prayer bpn7455 in Polski (bpn7455)
 
 -- Bahá'u'lláh
 
-Prayer bpn7456 in Polski (bpn7456) 
+Prayer bpn7456 (bpn7456) 
 
 [bahaiprayers.net 7456](https://bahaiprayers.net/Book/Single/33/7456)
 
@@ -3335,7 +3335,7 @@ Prayer bpn7456 in Polski (bpn7456)
 
 -- Báb
 
-Prayer bpn7457 in Polski (bpn7457) 
+Prayer bpn7457 (bpn7457) 
 
 [bahaiprayers.net 7457](https://bahaiprayers.net/Book/Single/33/7457)
 
@@ -3348,7 +3348,7 @@ Prayer bpn7457 in Polski (bpn7457)
 
 -- Báb
 
-Prayer bpn7458 in Polski (bpn7458) 
+Prayer bpn7458 (bpn7458) 
 
 [bahaiprayers.net 7458](https://bahaiprayers.net/Book/Single/33/7458)
 
@@ -3361,7 +3361,7 @@ Prayer bpn7458 in Polski (bpn7458)
 
 -- Báb
 
-Prayer bpn7459 in Polski (bpn7459) 
+Prayer bpn7459 (bpn7459) 
 
 [bahaiprayers.net 7459](https://bahaiprayers.net/Book/Single/33/7459)
 
@@ -3374,7 +3374,7 @@ Prayer bpn7459 in Polski (bpn7459)
 
 -- Báb
 
-Prayer bpn7460 in Polski (bpn7460) 
+Prayer bpn7460 (bpn7460) 
 
 [bahaiprayers.net 7460](https://bahaiprayers.net/Book/Single/33/7460)
 
@@ -3387,7 +3387,7 @@ Prayer bpn7460 in Polski (bpn7460)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7461 in Polski (bpn7461) 
+Prayer bpn7461 (bpn7461) 
 
 [bahaiprayers.net 7461](https://bahaiprayers.net/Book/Single/33/7461)
 
@@ -3400,7 +3400,7 @@ Prayer bpn7461 in Polski (bpn7461)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7462 in Polski (bpn7462) 
+Prayer bpn7462 (bpn7462) 
 
 [bahaiprayers.net 7462](https://bahaiprayers.net/Book/Single/33/7462)
 
@@ -3417,7 +3417,7 @@ Prayer bpn7462 in Polski (bpn7462)
 
 -- Bahá'u'lláh
 
-Prayer bpn7268 in Polski (bpn7268) 
+Prayer bpn7268 (bpn7268) 
 
 [bahaiprayers.net 7268](https://bahaiprayers.net/Book/Single/33/7268)
 
@@ -3434,7 +3434,7 @@ Prayer bpn7268 in Polski (bpn7268)
 
 -- Abdu'l-Bahá
 
-Prayer bpn7407 in Polski (bpn7407) 
+Prayer bpn7407 (bpn7407) 
 
 [bahaiprayers.net 7407](https://bahaiprayers.net/Book/Single/33/7407)
 
@@ -3451,7 +3451,7 @@ Prayer bpn7407 in Polski (bpn7407)
 
 -- Bahá'u'lláh
 
-Prayer bpn7464 in Polski (bpn7464) 
+Prayer bpn7464 (bpn7464) 
 
 [bahaiprayers.net 7464](https://bahaiprayers.net/Book/Single/33/7464)
 
@@ -3464,7 +3464,7 @@ Prayer bpn7464 in Polski (bpn7464)
 
 -- Bahá'u'lláh
 
-Prayer bpn7465 in Polski (bpn7465) 
+Prayer bpn7465 (bpn7465) 
 
 [bahaiprayers.net 7465](https://bahaiprayers.net/Book/Single/33/7465)
 

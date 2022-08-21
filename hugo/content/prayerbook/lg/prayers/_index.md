@@ -74,7 +74,7 @@ tags = ['lang=lg', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn6252 in Luganda (bpn6252) 
+Prayer bpn6252 (bpn6252) 
 
 [bahaiprayers.net 6252](https://bahaiprayers.net/Book/Single/57/6252)
 
@@ -91,7 +91,7 @@ Prayer bpn6252 in Luganda (bpn6252)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6238 in Luganda (bpn6238) 
+Prayer bpn6238 (bpn6238) 
 
 [bahaiprayers.net 6238](https://bahaiprayers.net/Book/Single/57/6238)
 
@@ -108,7 +108,7 @@ Prayer bpn6238 in Luganda (bpn6238)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6255 in Luganda (bpn6255) 
+Prayer bpn6255 (bpn6255) 
 
 [bahaiprayers.net 6255](https://bahaiprayers.net/Book/Single/57/6255)
 
@@ -121,7 +121,7 @@ Prayer bpn6255 in Luganda (bpn6255)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6256 in Luganda (bpn6256) 
+Prayer bpn6256 (bpn6256) 
 
 [bahaiprayers.net 6256](https://bahaiprayers.net/Book/Single/57/6256)
 
@@ -138,7 +138,7 @@ Prayer bpn6256 in Luganda (bpn6256)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6232 in Luganda (bpn6232) 
+Prayer bpn6232 (bpn6232) 
 
 [bahaiprayers.net 6232](https://bahaiprayers.net/Book/Single/57/6232)
 
@@ -155,7 +155,7 @@ Prayer bpn6232 in Luganda (bpn6232)
 
 -- Bahá'u'lláh
 
-Prayer bpn6266 in Luganda (bpn6266) 
+Prayer bpn6266 (bpn6266) 
 
 [bahaiprayers.net 6266](https://bahaiprayers.net/Book/Single/57/6266)
 
@@ -168,7 +168,7 @@ Prayer bpn6266 in Luganda (bpn6266)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6267 in Luganda (bpn6267) 
+Prayer bpn6267 (bpn6267) 
 
 [bahaiprayers.net 6267](https://bahaiprayers.net/Book/Single/57/6267)
 
@@ -185,7 +185,7 @@ Prayer bpn6267 in Luganda (bpn6267)
 
 -- Bahá'u'lláh
 
-Prayer bpn6263 in Luganda (bpn6263) 
+Prayer bpn6263 (bpn6263) 
 
 [bahaiprayers.net 6263](https://bahaiprayers.net/Book/Single/57/6263)
 
@@ -198,7 +198,7 @@ Prayer bpn6263 in Luganda (bpn6263)
 
 -- Bahá'u'lláh
 
-Prayer bpn6264 in Luganda (bpn6264) 
+Prayer bpn6264 (bpn6264) 
 
 [bahaiprayers.net 6264](https://bahaiprayers.net/Book/Single/57/6264)
 
@@ -215,7 +215,7 @@ Prayer bpn6264 in Luganda (bpn6264)
 
 -- Bahá'u'lláh
 
-Prayer bpn6248 in Luganda (bpn6248) 
+Prayer bpn6248 (bpn6248) 
 
 [bahaiprayers.net 6248](https://bahaiprayers.net/Book/Single/57/6248)
 
@@ -232,7 +232,7 @@ Prayer bpn6248 in Luganda (bpn6248)
 
 -- Bahá'u'lláh
 
-Prayer bpn6218 in Luganda (bpn6218) 
+Prayer bpn6218 (bpn6218) 
 
 [bahaiprayers.net 6218](https://bahaiprayers.net/Book/Single/57/6218)
 
@@ -249,7 +249,7 @@ Prayer bpn6218 in Luganda (bpn6218)
 
 -- Bahá'u'lláh
 
-Prayer bpn6217 in Luganda (bpn6217) 
+Prayer bpn6217 (bpn6217) 
 
 [bahaiprayers.net 6217](https://bahaiprayers.net/Book/Single/57/6217)
 
@@ -266,7 +266,7 @@ Prayer bpn6217 in Luganda (bpn6217)
 
 -- Bahá'u'lláh
 
-Prayer bpn6216 in Luganda (bpn6216) 
+Prayer bpn6216 (bpn6216) 
 
 [bahaiprayers.net 6216](https://bahaiprayers.net/Book/Single/57/6216)
 
@@ -283,7 +283,7 @@ Prayer bpn6216 in Luganda (bpn6216)
 
 -- Bahá'u'lláh
 
-Prayer bpn6224 in Luganda (bpn6224) 
+Prayer bpn6224 (bpn6224) 
 
 [bahaiprayers.net 6224](https://bahaiprayers.net/Book/Single/57/6224)
 
@@ -296,7 +296,7 @@ Prayer bpn6224 in Luganda (bpn6224)
 
 -- Bahá'u'lláh
 
-Prayer bpn6225 in Luganda (bpn6225) 
+Prayer bpn6225 (bpn6225) 
 
 [bahaiprayers.net 6225](https://bahaiprayers.net/Book/Single/57/6225)
 
@@ -309,7 +309,7 @@ Prayer bpn6225 in Luganda (bpn6225)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6226 in Luganda (bpn6226) 
+Prayer bpn6226 (bpn6226) 
 
 [bahaiprayers.net 6226](https://bahaiprayers.net/Book/Single/57/6226)
 
@@ -322,7 +322,7 @@ Prayer bpn6226 in Luganda (bpn6226)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6227 in Luganda (bpn6227) 
+Prayer bpn6227 (bpn6227) 
 
 [bahaiprayers.net 6227](https://bahaiprayers.net/Book/Single/57/6227)
 
@@ -335,7 +335,7 @@ Prayer bpn6227 in Luganda (bpn6227)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6229 in Luganda (bpn6229) 
+Prayer bpn6229 (bpn6229) 
 
 [bahaiprayers.net 6229](https://bahaiprayers.net/Book/Single/57/6229)
 
@@ -348,7 +348,7 @@ Prayer bpn6229 in Luganda (bpn6229)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6230 in Luganda (bpn6230) 
+Prayer bpn6230 (bpn6230) 
 
 [bahaiprayers.net 6230](https://bahaiprayers.net/Book/Single/57/6230)
 
@@ -361,7 +361,7 @@ Prayer bpn6230 in Luganda (bpn6230)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6228 in Luganda (bpn6228) 
+Prayer bpn6228 (bpn6228) 
 
 [bahaiprayers.net 6228](https://bahaiprayers.net/Book/Single/57/6228)
 
@@ -374,7 +374,7 @@ Prayer bpn6228 in Luganda (bpn6228)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6231 in Luganda (bpn6231) 
+Prayer bpn6231 (bpn6231) 
 
 [bahaiprayers.net 6231](https://bahaiprayers.net/Book/Single/57/6231)
 
@@ -391,7 +391,7 @@ Prayer bpn6231 in Luganda (bpn6231)
 
 -- Bahá'u'lláh
 
-Prayer bpn6236 in Luganda (bpn6236) 
+Prayer bpn6236 (bpn6236) 
 
 [bahaiprayers.net 6236](https://bahaiprayers.net/Book/Single/57/6236)
 
@@ -404,7 +404,7 @@ Prayer bpn6236 in Luganda (bpn6236)
 
 -- Bahá'u'lláh
 
-Prayer bpn6235 in Luganda (bpn6235) 
+Prayer bpn6235 (bpn6235) 
 
 [bahaiprayers.net 6235](https://bahaiprayers.net/Book/Single/57/6235)
 
@@ -417,7 +417,7 @@ Prayer bpn6235 in Luganda (bpn6235)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6237 in Luganda (bpn6237) 
+Prayer bpn6237 (bpn6237) 
 
 [bahaiprayers.net 6237](https://bahaiprayers.net/Book/Single/57/6237)
 
@@ -434,7 +434,7 @@ Prayer bpn6237 in Luganda (bpn6237)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6278 in Luganda (bpn6278) 
+Prayer bpn6278 (bpn6278) 
 
 [bahaiprayers.net 6278](https://bahaiprayers.net/Book/Single/57/6278)
 
@@ -447,7 +447,7 @@ Prayer bpn6278 in Luganda (bpn6278)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6279 in Luganda (bpn6279) 
+Prayer bpn6279 (bpn6279) 
 
 [bahaiprayers.net 6279](https://bahaiprayers.net/Book/Single/57/6279)
 
@@ -460,7 +460,7 @@ Prayer bpn6279 in Luganda (bpn6279)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6280 in Luganda (bpn6280) 
+Prayer bpn6280 (bpn6280) 
 
 [bahaiprayers.net 6280](https://bahaiprayers.net/Book/Single/57/6280)
 
@@ -473,7 +473,7 @@ Prayer bpn6280 in Luganda (bpn6280)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6281 in Luganda (bpn6281) 
+Prayer bpn6281 (bpn6281) 
 
 [bahaiprayers.net 6281](https://bahaiprayers.net/Book/Single/57/6281)
 
@@ -490,7 +490,7 @@ Prayer bpn6281 in Luganda (bpn6281)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6259 in Luganda (bpn6259) 
+Prayer bpn6259 (bpn6259) 
 
 [bahaiprayers.net 6259](https://bahaiprayers.net/Book/Single/57/6259)
 
@@ -503,7 +503,7 @@ Prayer bpn6259 in Luganda (bpn6259)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6258 in Luganda (bpn6258) 
+Prayer bpn6258 (bpn6258) 
 
 [bahaiprayers.net 6258](https://bahaiprayers.net/Book/Single/57/6258)
 
@@ -516,7 +516,7 @@ Prayer bpn6258 in Luganda (bpn6258)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6260 in Luganda (bpn6260) 
+Prayer bpn6260 (bpn6260) 
 
 [bahaiprayers.net 6260](https://bahaiprayers.net/Book/Single/57/6260)
 
@@ -533,7 +533,7 @@ Prayer bpn6260 in Luganda (bpn6260)
 
 -- Bahá'u'lláh
 
-Prayer bpn6261 in Luganda (bpn6261) 
+Prayer bpn6261 (bpn6261) 
 
 [bahaiprayers.net 6261](https://bahaiprayers.net/Book/Single/57/6261)
 
@@ -546,7 +546,7 @@ Prayer bpn6261 in Luganda (bpn6261)
 
 -- Bahá'u'lláh
 
-Prayer bpn6262 in Luganda (bpn6262) 
+Prayer bpn6262 (bpn6262) 
 
 [bahaiprayers.net 6262](https://bahaiprayers.net/Book/Single/57/6262)
 
@@ -563,7 +563,7 @@ Prayer bpn6262 in Luganda (bpn6262)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6257 in Luganda (bpn6257) 
+Prayer bpn6257 (bpn6257) 
 
 [bahaiprayers.net 6257](https://bahaiprayers.net/Book/Single/57/6257)
 
@@ -580,7 +580,7 @@ Prayer bpn6257 in Luganda (bpn6257)
 
 -- Bahá'u'lláh
 
-Prayer bpn6270 in Luganda (bpn6270) 
+Prayer bpn6270 (bpn6270) 
 
 [bahaiprayers.net 6270](https://bahaiprayers.net/Book/Single/57/6270)
 
@@ -593,7 +593,7 @@ Prayer bpn6270 in Luganda (bpn6270)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6272 in Luganda (bpn6272) 
+Prayer bpn6272 (bpn6272) 
 
 [bahaiprayers.net 6272](https://bahaiprayers.net/Book/Single/57/6272)
 
@@ -606,7 +606,7 @@ Prayer bpn6272 in Luganda (bpn6272)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6273 in Luganda (bpn6273) 
+Prayer bpn6273 (bpn6273) 
 
 [bahaiprayers.net 6273](https://bahaiprayers.net/Book/Single/57/6273)
 
@@ -619,7 +619,7 @@ Prayer bpn6273 in Luganda (bpn6273)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6274 in Luganda (bpn6274) 
+Prayer bpn6274 (bpn6274) 
 
 [bahaiprayers.net 6274](https://bahaiprayers.net/Book/Single/57/6274)
 
@@ -632,7 +632,7 @@ Prayer bpn6274 in Luganda (bpn6274)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6271 in Luganda (bpn6271) 
+Prayer bpn6271 (bpn6271) 
 
 [bahaiprayers.net 6271](https://bahaiprayers.net/Book/Single/57/6271)
 
@@ -649,7 +649,7 @@ Prayer bpn6271 in Luganda (bpn6271)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6265 in Luganda (bpn6265) 
+Prayer bpn6265 (bpn6265) 
 
 [bahaiprayers.net 6265](https://bahaiprayers.net/Book/Single/57/6265)
 
@@ -666,7 +666,7 @@ Prayer bpn6265 in Luganda (bpn6265)
 
 -- Bahá'u'lláh
 
-Prayer bpn6219 in Luganda (bpn6219) 
+Prayer bpn6219 (bpn6219) 
 
 [bahaiprayers.net 6219](https://bahaiprayers.net/Book/Single/57/6219)
 
@@ -679,7 +679,7 @@ Prayer bpn6219 in Luganda (bpn6219)
 
 -- Báb
 
-Prayer bpn6220 in Luganda (bpn6220) 
+Prayer bpn6220 (bpn6220) 
 
 [bahaiprayers.net 6220](https://bahaiprayers.net/Book/Single/57/6220)
 
@@ -692,7 +692,7 @@ Prayer bpn6220 in Luganda (bpn6220)
 
 -- Báb
 
-Prayer bpn6221 in Luganda (bpn6221) 
+Prayer bpn6221 (bpn6221) 
 
 [bahaiprayers.net 6221](https://bahaiprayers.net/Book/Single/57/6221)
 
@@ -705,7 +705,7 @@ Prayer bpn6221 in Luganda (bpn6221)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6222 in Luganda (bpn6222) 
+Prayer bpn6222 (bpn6222) 
 
 [bahaiprayers.net 6222](https://bahaiprayers.net/Book/Single/57/6222)
 
@@ -718,7 +718,7 @@ Prayer bpn6222 in Luganda (bpn6222)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6223 in Luganda (bpn6223) 
+Prayer bpn6223 (bpn6223) 
 
 [bahaiprayers.net 6223](https://bahaiprayers.net/Book/Single/57/6223)
 
@@ -735,7 +735,7 @@ Prayer bpn6223 in Luganda (bpn6223)
 
 -- Bahá'u'lláh
 
-Prayer bpn6287 in Luganda (bpn6287) 
+Prayer bpn6287 (bpn6287) 
 
 [bahaiprayers.net 6287](https://bahaiprayers.net/Book/Single/57/6287)
 
@@ -748,7 +748,7 @@ Prayer bpn6287 in Luganda (bpn6287)
 
 -- Báb
 
-Prayer bpn6288 in Luganda (bpn6288) 
+Prayer bpn6288 (bpn6288) 
 
 [bahaiprayers.net 6288](https://bahaiprayers.net/Book/Single/57/6288)
 
@@ -761,7 +761,7 @@ Prayer bpn6288 in Luganda (bpn6288)
 
 -- Báb
 
-Prayer bpn6289 in Luganda (bpn6289) 
+Prayer bpn6289 (bpn6289) 
 
 [bahaiprayers.net 6289](https://bahaiprayers.net/Book/Single/57/6289)
 
@@ -778,7 +778,7 @@ Prayer bpn6289 in Luganda (bpn6289)
 
 -- Bahá'u'lláh
 
-Prayer bpn6241 in Luganda (bpn6241) 
+Prayer bpn6241 (bpn6241) 
 
 [bahaiprayers.net 6241](https://bahaiprayers.net/Book/Single/57/6241)
 
@@ -791,7 +791,7 @@ Prayer bpn6241 in Luganda (bpn6241)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6239 in Luganda (bpn6239) 
+Prayer bpn6239 (bpn6239) 
 
 [bahaiprayers.net 6239](https://bahaiprayers.net/Book/Single/57/6239)
 
@@ -804,7 +804,7 @@ Prayer bpn6239 in Luganda (bpn6239)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6240 in Luganda (bpn6240) 
+Prayer bpn6240 (bpn6240) 
 
 [bahaiprayers.net 6240](https://bahaiprayers.net/Book/Single/57/6240)
 
@@ -821,7 +821,7 @@ Prayer bpn6240 in Luganda (bpn6240)
 
 -- Bahá'u'lláh
 
-Prayer bpn6242 in Luganda (bpn6242) 
+Prayer bpn6242 (bpn6242) 
 
 [bahaiprayers.net 6242](https://bahaiprayers.net/Book/Single/57/6242)
 
@@ -834,7 +834,7 @@ Prayer bpn6242 in Luganda (bpn6242)
 
 -- Báb
 
-Prayer bpn6243 in Luganda (bpn6243) 
+Prayer bpn6243 (bpn6243) 
 
 [bahaiprayers.net 6243](https://bahaiprayers.net/Book/Single/57/6243)
 
@@ -847,7 +847,7 @@ Prayer bpn6243 in Luganda (bpn6243)
 
 -- Báb
 
-Prayer bpn6244 in Luganda (bpn6244) 
+Prayer bpn6244 (bpn6244) 
 
 [bahaiprayers.net 6244](https://bahaiprayers.net/Book/Single/57/6244)
 
@@ -860,7 +860,7 @@ Prayer bpn6244 in Luganda (bpn6244)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6245 in Luganda (bpn6245) 
+Prayer bpn6245 (bpn6245) 
 
 [bahaiprayers.net 6245](https://bahaiprayers.net/Book/Single/57/6245)
 
@@ -877,7 +877,7 @@ Prayer bpn6245 in Luganda (bpn6245)
 
 -- Bahá'u'lláh
 
-Prayer bpn6268 in Luganda (bpn6268) 
+Prayer bpn6268 (bpn6268) 
 
 [bahaiprayers.net 6268](https://bahaiprayers.net/Book/Single/57/6268)
 
@@ -890,7 +890,7 @@ Prayer bpn6268 in Luganda (bpn6268)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6269 in Luganda (bpn6269) 
+Prayer bpn6269 (bpn6269) 
 
 [bahaiprayers.net 6269](https://bahaiprayers.net/Book/Single/57/6269)
 
@@ -907,7 +907,7 @@ Prayer bpn6269 in Luganda (bpn6269)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6246 in Luganda (bpn6246) 
+Prayer bpn6246 (bpn6246) 
 
 [bahaiprayers.net 6246](https://bahaiprayers.net/Book/Single/57/6246)
 
@@ -920,7 +920,7 @@ Prayer bpn6246 in Luganda (bpn6246)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6247 in Luganda (bpn6247) 
+Prayer bpn6247 (bpn6247) 
 
 [bahaiprayers.net 6247](https://bahaiprayers.net/Book/Single/57/6247)
 
@@ -937,7 +937,7 @@ Prayer bpn6247 in Luganda (bpn6247)
 
 -- Bahá'u'lláh
 
-Prayer bpn6250 in Luganda (bpn6250) 
+Prayer bpn6250 (bpn6250) 
 
 [bahaiprayers.net 6250](https://bahaiprayers.net/Book/Single/57/6250)
 
@@ -950,7 +950,7 @@ Prayer bpn6250 in Luganda (bpn6250)
 
 -- Bahá'u'lláh
 
-Prayer bpn6251 in Luganda (bpn6251) 
+Prayer bpn6251 (bpn6251) 
 
 [bahaiprayers.net 6251](https://bahaiprayers.net/Book/Single/57/6251)
 
@@ -963,7 +963,7 @@ Prayer bpn6251 in Luganda (bpn6251)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6249 in Luganda (bpn6249) 
+Prayer bpn6249 (bpn6249) 
 
 [bahaiprayers.net 6249](https://bahaiprayers.net/Book/Single/57/6249)
 
@@ -980,7 +980,7 @@ Prayer bpn6249 in Luganda (bpn6249)
 
 -- Bahá'u'lláh
 
-Prayer bpn6282 in Luganda (bpn6282) 
+Prayer bpn6282 (bpn6282) 
 
 [bahaiprayers.net 6282](https://bahaiprayers.net/Book/Single/57/6282)
 
@@ -993,7 +993,7 @@ Prayer bpn6282 in Luganda (bpn6282)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6284 in Luganda (bpn6284) 
+Prayer bpn6284 (bpn6284) 
 
 [bahaiprayers.net 6284](https://bahaiprayers.net/Book/Single/57/6284)
 
@@ -1006,7 +1006,7 @@ Prayer bpn6284 in Luganda (bpn6284)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6283 in Luganda (bpn6283) 
+Prayer bpn6283 (bpn6283) 
 
 [bahaiprayers.net 6283](https://bahaiprayers.net/Book/Single/57/6283)
 
@@ -1019,7 +1019,7 @@ Prayer bpn6283 in Luganda (bpn6283)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6285 in Luganda (bpn6285) 
+Prayer bpn6285 (bpn6285) 
 
 [bahaiprayers.net 6285](https://bahaiprayers.net/Book/Single/57/6285)
 
@@ -1032,7 +1032,7 @@ Prayer bpn6285 in Luganda (bpn6285)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6286 in Luganda (bpn6286) 
+Prayer bpn6286 (bpn6286) 
 
 [bahaiprayers.net 6286](https://bahaiprayers.net/Book/Single/57/6286)
 
@@ -1049,7 +1049,7 @@ Prayer bpn6286 in Luganda (bpn6286)
 
 -- Báb
 
-Prayer bpn6233 in Luganda (bpn6233) 
+Prayer bpn6233 (bpn6233) 
 
 [bahaiprayers.net 6233](https://bahaiprayers.net/Book/Single/57/6233)
 
@@ -1062,7 +1062,7 @@ Prayer bpn6233 in Luganda (bpn6233)
 
 -- Báb
 
-Prayer bpn6234 in Luganda (bpn6234) 
+Prayer bpn6234 (bpn6234) 
 
 [bahaiprayers.net 6234](https://bahaiprayers.net/Book/Single/57/6234)
 
@@ -1079,7 +1079,7 @@ Prayer bpn6234 in Luganda (bpn6234)
 
 -- Bahá'u'lláh
 
-Prayer bpn6253 in Luganda (bpn6253) 
+Prayer bpn6253 (bpn6253) 
 
 [bahaiprayers.net 6253](https://bahaiprayers.net/Book/Single/57/6253)
 
@@ -1092,7 +1092,7 @@ Prayer bpn6253 in Luganda (bpn6253)
 
 -- Bahá'u'lláh
 
-Prayer bpn6254 in Luganda (bpn6254) 
+Prayer bpn6254 (bpn6254) 
 
 [bahaiprayers.net 6254](https://bahaiprayers.net/Book/Single/57/6254)
 
@@ -1109,7 +1109,7 @@ Prayer bpn6254 in Luganda (bpn6254)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6275 in Luganda (bpn6275) 
+Prayer bpn6275 (bpn6275) 
 
 [bahaiprayers.net 6275](https://bahaiprayers.net/Book/Single/57/6275)
 
@@ -1122,7 +1122,7 @@ Prayer bpn6275 in Luganda (bpn6275)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6276 in Luganda (bpn6276) 
+Prayer bpn6276 (bpn6276) 
 
 [bahaiprayers.net 6276](https://bahaiprayers.net/Book/Single/57/6276)
 
@@ -1135,7 +1135,7 @@ Prayer bpn6276 in Luganda (bpn6276)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6277 in Luganda (bpn6277) 
+Prayer bpn6277 (bpn6277) 
 
 [bahaiprayers.net 6277](https://bahaiprayers.net/Book/Single/57/6277)
 

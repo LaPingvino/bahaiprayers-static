@@ -86,7 +86,7 @@ tags = ['lang=sv', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn10265 in Svenska (bpn10265) 
+Prayer bpn10265 (bpn10265) 
 
 [bahaiprayers.net 10265](https://bahaiprayers.net/Book/Single/24/10265)
 
@@ -99,7 +99,7 @@ Prayer bpn10265 in Svenska (bpn10265)
 
 -- Bahá'u'lláh
 
-Prayer bpn10266 in Svenska (bpn10266) 
+Prayer bpn10266 (bpn10266) 
 
 [bahaiprayers.net 10266](https://bahaiprayers.net/Book/Single/24/10266)
 
@@ -112,7 +112,7 @@ Prayer bpn10266 in Svenska (bpn10266)
 
 -- Bahá'u'lláh
 
-Prayer bpn10267 in Svenska (bpn10267) 
+Prayer bpn10267 (bpn10267) 
 
 [bahaiprayers.net 10267](https://bahaiprayers.net/Book/Single/24/10267)
 
@@ -129,7 +129,7 @@ Prayer bpn10267 in Svenska (bpn10267)
 
 -- Bahá'u'lláh
 
-Prayer bpn10268 in Svenska (bpn10268) 
+Prayer bpn10268 (bpn10268) 
 
 [bahaiprayers.net 10268](https://bahaiprayers.net/Book/Single/24/10268)
 
@@ -142,7 +142,7 @@ Prayer bpn10268 in Svenska (bpn10268)
 
 -- Bahá'u'lláh
 
-Prayer bpn10269 in Svenska (bpn10269) 
+Prayer bpn10269 (bpn10269) 
 
 [bahaiprayers.net 10269](https://bahaiprayers.net/Book/Single/24/10269)
 
@@ -155,7 +155,7 @@ Prayer bpn10269 in Svenska (bpn10269)
 
 -- Bahá'u'lláh
 
-Prayer bpn10270 in Svenska (bpn10270) 
+Prayer bpn10270 (bpn10270) 
 
 [bahaiprayers.net 10270](https://bahaiprayers.net/Book/Single/24/10270)
 
@@ -168,7 +168,7 @@ Prayer bpn10270 in Svenska (bpn10270)
 
 -- Bahá'u'lláh
 
-Prayer bpn10271 in Svenska (bpn10271) 
+Prayer bpn10271 (bpn10271) 
 
 [bahaiprayers.net 10271](https://bahaiprayers.net/Book/Single/24/10271)
 
@@ -181,7 +181,7 @@ Prayer bpn10271 in Svenska (bpn10271)
 
 -- Bahá'u'lláh
 
-Prayer bpn10272 in Svenska (bpn10272) 
+Prayer bpn10272 (bpn10272) 
 
 [bahaiprayers.net 10272](https://bahaiprayers.net/Book/Single/24/10272)
 
@@ -194,7 +194,7 @@ Prayer bpn10272 in Svenska (bpn10272)
 
 -- Bahá'u'lláh
 
-Prayer bpn10273 in Svenska (bpn10273) 
+Prayer bpn10273 (bpn10273) 
 
 [bahaiprayers.net 10273](https://bahaiprayers.net/Book/Single/24/10273)
 
@@ -207,7 +207,7 @@ Prayer bpn10273 in Svenska (bpn10273)
 
 -- Bahá'u'lláh
 
-Prayer bpn10274 in Svenska (bpn10274) 
+Prayer bpn10274 (bpn10274) 
 
 [bahaiprayers.net 10274](https://bahaiprayers.net/Book/Single/24/10274)
 
@@ -220,7 +220,7 @@ Prayer bpn10274 in Svenska (bpn10274)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10275 in Svenska (bpn10275) 
+Prayer bpn10275 (bpn10275) 
 
 [bahaiprayers.net 10275](https://bahaiprayers.net/Book/Single/24/10275)
 
@@ -233,7 +233,7 @@ Prayer bpn10275 in Svenska (bpn10275)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10276 in Svenska (bpn10276) 
+Prayer bpn10276 (bpn10276) 
 
 [bahaiprayers.net 10276](https://bahaiprayers.net/Book/Single/24/10276)
 
@@ -246,7 +246,7 @@ Prayer bpn10276 in Svenska (bpn10276)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10277 in Svenska (bpn10277) 
+Prayer bpn10277 (bpn10277) 
 
 [bahaiprayers.net 10277](https://bahaiprayers.net/Book/Single/24/10277)
 
@@ -263,7 +263,7 @@ Prayer bpn10277 in Svenska (bpn10277)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10370 in Svenska (bpn10370) 
+Prayer bpn10370 (bpn10370) 
 
 [bahaiprayers.net 10370](https://bahaiprayers.net/Book/Single/24/10370)
 
@@ -276,7 +276,7 @@ Prayer bpn10370 in Svenska (bpn10370)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10371 in Svenska (bpn10371) 
+Prayer bpn10371 (bpn10371) 
 
 [bahaiprayers.net 10371](https://bahaiprayers.net/Book/Single/24/10371)
 
@@ -289,7 +289,7 @@ Prayer bpn10371 in Svenska (bpn10371)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10372 in Svenska (bpn10372) 
+Prayer bpn10372 (bpn10372) 
 
 [bahaiprayers.net 10372](https://bahaiprayers.net/Book/Single/24/10372)
 
@@ -306,7 +306,7 @@ Prayer bpn10372 in Svenska (bpn10372)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10278 in Svenska (bpn10278) 
+Prayer bpn10278 (bpn10278) 
 
 [bahaiprayers.net 10278](https://bahaiprayers.net/Book/Single/24/10278)
 
@@ -319,7 +319,7 @@ Prayer bpn10278 in Svenska (bpn10278)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10279 in Svenska (bpn10279) 
+Prayer bpn10279 (bpn10279) 
 
 [bahaiprayers.net 10279](https://bahaiprayers.net/Book/Single/24/10279)
 
@@ -332,7 +332,7 @@ Prayer bpn10279 in Svenska (bpn10279)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10280 in Svenska (bpn10280) 
+Prayer bpn10280 (bpn10280) 
 
 [bahaiprayers.net 10280](https://bahaiprayers.net/Book/Single/24/10280)
 
@@ -345,7 +345,7 @@ Prayer bpn10280 in Svenska (bpn10280)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10281 in Svenska (bpn10281) 
+Prayer bpn10281 (bpn10281) 
 
 [bahaiprayers.net 10281](https://bahaiprayers.net/Book/Single/24/10281)
 
@@ -358,7 +358,7 @@ Prayer bpn10281 in Svenska (bpn10281)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10282 in Svenska (bpn10282) 
+Prayer bpn10282 (bpn10282) 
 
 [bahaiprayers.net 10282](https://bahaiprayers.net/Book/Single/24/10282)
 
@@ -375,7 +375,7 @@ Prayer bpn10282 in Svenska (bpn10282)
 
 -- Bahá'u'lláh
 
-Prayer bpn10283 in Svenska (bpn10283) 
+Prayer bpn10283 (bpn10283) 
 
 [bahaiprayers.net 10283](https://bahaiprayers.net/Book/Single/24/10283)
 
@@ -388,7 +388,7 @@ Prayer bpn10283 in Svenska (bpn10283)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10284 in Svenska (bpn10284) 
+Prayer bpn10284 (bpn10284) 
 
 [bahaiprayers.net 10284](https://bahaiprayers.net/Book/Single/24/10284)
 
@@ -401,7 +401,7 @@ Prayer bpn10284 in Svenska (bpn10284)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10286 in Svenska (bpn10286) 
+Prayer bpn10286 (bpn10286) 
 
 [bahaiprayers.net 10286](https://bahaiprayers.net/Book/Single/24/10286)
 
@@ -414,7 +414,7 @@ Prayer bpn10286 in Svenska (bpn10286)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10287 in Svenska (bpn10287) 
+Prayer bpn10287 (bpn10287) 
 
 [bahaiprayers.net 10287](https://bahaiprayers.net/Book/Single/24/10287)
 
@@ -427,7 +427,7 @@ Prayer bpn10287 in Svenska (bpn10287)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10288 in Svenska (bpn10288) 
+Prayer bpn10288 (bpn10288) 
 
 [bahaiprayers.net 10288](https://bahaiprayers.net/Book/Single/24/10288)
 
@@ -440,7 +440,7 @@ Prayer bpn10288 in Svenska (bpn10288)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10289 in Svenska (bpn10289) 
+Prayer bpn10289 (bpn10289) 
 
 [bahaiprayers.net 10289](https://bahaiprayers.net/Book/Single/24/10289)
 
@@ -453,7 +453,7 @@ Prayer bpn10289 in Svenska (bpn10289)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10290 in Svenska (bpn10290) 
+Prayer bpn10290 (bpn10290) 
 
 [bahaiprayers.net 10290](https://bahaiprayers.net/Book/Single/24/10290)
 
@@ -466,7 +466,7 @@ Prayer bpn10290 in Svenska (bpn10290)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10291 in Svenska (bpn10291) 
+Prayer bpn10291 (bpn10291) 
 
 [bahaiprayers.net 10291](https://bahaiprayers.net/Book/Single/24/10291)
 
@@ -479,7 +479,7 @@ Prayer bpn10291 in Svenska (bpn10291)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10292 in Svenska (bpn10292) 
+Prayer bpn10292 (bpn10292) 
 
 [bahaiprayers.net 10292](https://bahaiprayers.net/Book/Single/24/10292)
 
@@ -492,7 +492,7 @@ Prayer bpn10292 in Svenska (bpn10292)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10293 in Svenska (bpn10293) 
+Prayer bpn10293 (bpn10293) 
 
 [bahaiprayers.net 10293](https://bahaiprayers.net/Book/Single/24/10293)
 
@@ -505,7 +505,7 @@ Prayer bpn10293 in Svenska (bpn10293)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10294 in Svenska (bpn10294) 
+Prayer bpn10294 (bpn10294) 
 
 [bahaiprayers.net 10294](https://bahaiprayers.net/Book/Single/24/10294)
 
@@ -518,7 +518,7 @@ Prayer bpn10294 in Svenska (bpn10294)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10285 in Svenska (bpn10285) 
+Prayer bpn10285 (bpn10285) 
 
 [bahaiprayers.net 10285](https://bahaiprayers.net/Book/Single/24/10285)
 
@@ -535,7 +535,7 @@ Prayer bpn10285 in Svenska (bpn10285)
 
 -- Bahá'u'lláh
 
-Prayer bpn10374 in Svenska (bpn10374) 
+Prayer bpn10374 (bpn10374) 
 
 [bahaiprayers.net 10374](https://bahaiprayers.net/Book/Single/24/10374)
 
@@ -552,7 +552,7 @@ Prayer bpn10374 in Svenska (bpn10374)
 
 -- Bahá'u'lláh
 
-Prayer bpn10295 in Svenska (bpn10295) 
+Prayer bpn10295 (bpn10295) 
 
 [bahaiprayers.net 10295](https://bahaiprayers.net/Book/Single/24/10295)
 
@@ -565,7 +565,7 @@ Prayer bpn10295 in Svenska (bpn10295)
 
 -- Bahá'u'lláh
 
-Prayer bpn10296 in Svenska (bpn10296) 
+Prayer bpn10296 (bpn10296) 
 
 [bahaiprayers.net 10296](https://bahaiprayers.net/Book/Single/24/10296)
 
@@ -578,7 +578,7 @@ Prayer bpn10296 in Svenska (bpn10296)
 
 -- Bahá'u'lláh
 
-Prayer bpn10297 in Svenska (bpn10297) 
+Prayer bpn10297 (bpn10297) 
 
 [bahaiprayers.net 10297](https://bahaiprayers.net/Book/Single/24/10297)
 
@@ -591,7 +591,7 @@ Prayer bpn10297 in Svenska (bpn10297)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10298 in Svenska (bpn10298) 
+Prayer bpn10298 (bpn10298) 
 
 [bahaiprayers.net 10298](https://bahaiprayers.net/Book/Single/24/10298)
 
@@ -604,7 +604,7 @@ Prayer bpn10298 in Svenska (bpn10298)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10299 in Svenska (bpn10299) 
+Prayer bpn10299 (bpn10299) 
 
 [bahaiprayers.net 10299](https://bahaiprayers.net/Book/Single/24/10299)
 
@@ -621,7 +621,7 @@ Prayer bpn10299 in Svenska (bpn10299)
 
 -- Bahá'u'lláh
 
-Prayer bpn10362 in Svenska (bpn10362) 
+Prayer bpn10362 (bpn10362) 
 
 [bahaiprayers.net 10362](https://bahaiprayers.net/Book/Single/24/10362)
 
@@ -634,7 +634,7 @@ Prayer bpn10362 in Svenska (bpn10362)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10363 in Svenska (bpn10363) 
+Prayer bpn10363 (bpn10363) 
 
 [bahaiprayers.net 10363](https://bahaiprayers.net/Book/Single/24/10363)
 
@@ -651,7 +651,7 @@ Prayer bpn10363 in Svenska (bpn10363)
 
 -- Bahá'u'lláh
 
-Prayer bpn10300 in Svenska (bpn10300) 
+Prayer bpn10300 (bpn10300) 
 
 [bahaiprayers.net 10300](https://bahaiprayers.net/Book/Single/24/10300)
 
@@ -664,7 +664,7 @@ Prayer bpn10300 in Svenska (bpn10300)
 
 -- Bahá'u'lláh
 
-Prayer bpn10301 in Svenska (bpn10301) 
+Prayer bpn10301 (bpn10301) 
 
 [bahaiprayers.net 10301](https://bahaiprayers.net/Book/Single/24/10301)
 
@@ -677,7 +677,7 @@ Prayer bpn10301 in Svenska (bpn10301)
 
 -- Bahá'u'lláh
 
-Prayer bpn10302 in Svenska (bpn10302) 
+Prayer bpn10302 (bpn10302) 
 
 [bahaiprayers.net 10302](https://bahaiprayers.net/Book/Single/24/10302)
 
@@ -690,7 +690,7 @@ Prayer bpn10302 in Svenska (bpn10302)
 
 -- Bahá'u'lláh
 
-Prayer bpn10303 in Svenska (bpn10303) 
+Prayer bpn10303 (bpn10303) 
 
 [bahaiprayers.net 10303](https://bahaiprayers.net/Book/Single/24/10303)
 
@@ -703,7 +703,7 @@ Prayer bpn10303 in Svenska (bpn10303)
 
 -- Bahá'u'lláh
 
-Prayer bpn10304 in Svenska (bpn10304) 
+Prayer bpn10304 (bpn10304) 
 
 [bahaiprayers.net 10304](https://bahaiprayers.net/Book/Single/24/10304)
 
@@ -716,7 +716,7 @@ Prayer bpn10304 in Svenska (bpn10304)
 
 -- Bahá'u'lláh
 
-Prayer bpn10305 in Svenska (bpn10305) 
+Prayer bpn10305 (bpn10305) 
 
 [bahaiprayers.net 10305](https://bahaiprayers.net/Book/Single/24/10305)
 
@@ -729,7 +729,7 @@ Prayer bpn10305 in Svenska (bpn10305)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10306 in Svenska (bpn10306) 
+Prayer bpn10306 (bpn10306) 
 
 [bahaiprayers.net 10306](https://bahaiprayers.net/Book/Single/24/10306)
 
@@ -746,7 +746,7 @@ Prayer bpn10306 in Svenska (bpn10306)
 
 -- Bahá'u'lláh
 
-Prayer bpn10376 in Svenska (bpn10376) 
+Prayer bpn10376 (bpn10376) 
 
 [bahaiprayers.net 10376](https://bahaiprayers.net/Book/Single/24/10376)
 
@@ -763,7 +763,7 @@ Prayer bpn10376 in Svenska (bpn10376)
 
 -- Bahá'u'lláh
 
-Prayer bpn10377 in Svenska (bpn10377) 
+Prayer bpn10377 (bpn10377) 
 
 [bahaiprayers.net 10377](https://bahaiprayers.net/Book/Single/24/10377)
 
@@ -780,7 +780,7 @@ Prayer bpn10377 in Svenska (bpn10377)
 
 -- Bahá'u'lláh
 
-Prayer bpn10311 in Svenska (bpn10311) 
+Prayer bpn10311 (bpn10311) 
 
 [bahaiprayers.net 10311](https://bahaiprayers.net/Book/Single/24/10311)
 
@@ -797,7 +797,7 @@ Prayer bpn10311 in Svenska (bpn10311)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10312 in Svenska (bpn10312) 
+Prayer bpn10312 (bpn10312) 
 
 [bahaiprayers.net 10312](https://bahaiprayers.net/Book/Single/24/10312)
 
@@ -810,7 +810,7 @@ Prayer bpn10312 in Svenska (bpn10312)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10313 in Svenska (bpn10313) 
+Prayer bpn10313 (bpn10313) 
 
 [bahaiprayers.net 10313](https://bahaiprayers.net/Book/Single/24/10313)
 
@@ -823,7 +823,7 @@ Prayer bpn10313 in Svenska (bpn10313)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10314 in Svenska (bpn10314) 
+Prayer bpn10314 (bpn10314) 
 
 [bahaiprayers.net 10314](https://bahaiprayers.net/Book/Single/24/10314)
 
@@ -836,7 +836,7 @@ Prayer bpn10314 in Svenska (bpn10314)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10315 in Svenska (bpn10315) 
+Prayer bpn10315 (bpn10315) 
 
 [bahaiprayers.net 10315](https://bahaiprayers.net/Book/Single/24/10315)
 
@@ -853,7 +853,7 @@ Prayer bpn10315 in Svenska (bpn10315)
 
 -- Bahá'u'lláh
 
-Prayer bpn10365 in Svenska (bpn10365) 
+Prayer bpn10365 (bpn10365) 
 
 [bahaiprayers.net 10365](https://bahaiprayers.net/Book/Single/24/10365)
 
@@ -870,7 +870,7 @@ Prayer bpn10365 in Svenska (bpn10365)
 
 -- Bahá'u'lláh
 
-Prayer bpn10316 in Svenska (bpn10316) 
+Prayer bpn10316 (bpn10316) 
 
 [bahaiprayers.net 10316](https://bahaiprayers.net/Book/Single/24/10316)
 
@@ -883,7 +883,7 @@ Prayer bpn10316 in Svenska (bpn10316)
 
 -- Bahá'u'lláh
 
-Prayer bpn10317 in Svenska (bpn10317) 
+Prayer bpn10317 (bpn10317) 
 
 [bahaiprayers.net 10317](https://bahaiprayers.net/Book/Single/24/10317)
 
@@ -896,7 +896,7 @@ Prayer bpn10317 in Svenska (bpn10317)
 
 -- Bahá'u'lláh
 
-Prayer bpn10318 in Svenska (bpn10318) 
+Prayer bpn10318 (bpn10318) 
 
 [bahaiprayers.net 10318](https://bahaiprayers.net/Book/Single/24/10318)
 
@@ -909,7 +909,7 @@ Prayer bpn10318 in Svenska (bpn10318)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10319 in Svenska (bpn10319) 
+Prayer bpn10319 (bpn10319) 
 
 [bahaiprayers.net 10319](https://bahaiprayers.net/Book/Single/24/10319)
 
@@ -922,7 +922,7 @@ Prayer bpn10319 in Svenska (bpn10319)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10320 in Svenska (bpn10320) 
+Prayer bpn10320 (bpn10320) 
 
 [bahaiprayers.net 10320](https://bahaiprayers.net/Book/Single/24/10320)
 
@@ -935,7 +935,7 @@ Prayer bpn10320 in Svenska (bpn10320)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10321 in Svenska (bpn10321) 
+Prayer bpn10321 (bpn10321) 
 
 [bahaiprayers.net 10321](https://bahaiprayers.net/Book/Single/24/10321)
 
@@ -948,7 +948,7 @@ Prayer bpn10321 in Svenska (bpn10321)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10322 in Svenska (bpn10322) 
+Prayer bpn10322 (bpn10322) 
 
 [bahaiprayers.net 10322](https://bahaiprayers.net/Book/Single/24/10322)
 
@@ -965,7 +965,7 @@ Prayer bpn10322 in Svenska (bpn10322)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10373 in Svenska (bpn10373) 
+Prayer bpn10373 (bpn10373) 
 
 [bahaiprayers.net 10373](https://bahaiprayers.net/Book/Single/24/10373)
 
@@ -982,7 +982,7 @@ Prayer bpn10373 in Svenska (bpn10373)
 
 -- Bahá'u'lláh
 
-Prayer bpn10307 in Svenska (bpn10307) 
+Prayer bpn10307 (bpn10307) 
 
 [bahaiprayers.net 10307](https://bahaiprayers.net/Book/Single/24/10307)
 
@@ -995,7 +995,7 @@ Prayer bpn10307 in Svenska (bpn10307)
 
 -- Bahá'u'lláh
 
-Prayer bpn10308 in Svenska (bpn10308) 
+Prayer bpn10308 (bpn10308) 
 
 [bahaiprayers.net 10308](https://bahaiprayers.net/Book/Single/24/10308)
 
@@ -1008,7 +1008,7 @@ Prayer bpn10308 in Svenska (bpn10308)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10309 in Svenska (bpn10309) 
+Prayer bpn10309 (bpn10309) 
 
 [bahaiprayers.net 10309](https://bahaiprayers.net/Book/Single/24/10309)
 
@@ -1021,7 +1021,7 @@ Prayer bpn10309 in Svenska (bpn10309)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10310 in Svenska (bpn10310) 
+Prayer bpn10310 (bpn10310) 
 
 [bahaiprayers.net 10310](https://bahaiprayers.net/Book/Single/24/10310)
 
@@ -1038,7 +1038,7 @@ Prayer bpn10310 in Svenska (bpn10310)
 
 -- Bahá'u'lláh
 
-Prayer bpn10323 in Svenska (bpn10323) 
+Prayer bpn10323 (bpn10323) 
 
 [bahaiprayers.net 10323](https://bahaiprayers.net/Book/Single/24/10323)
 
@@ -1051,7 +1051,7 @@ Prayer bpn10323 in Svenska (bpn10323)
 
 -- Báb
 
-Prayer bpn10324 in Svenska (bpn10324) 
+Prayer bpn10324 (bpn10324) 
 
 [bahaiprayers.net 10324](https://bahaiprayers.net/Book/Single/24/10324)
 
@@ -1064,7 +1064,7 @@ Prayer bpn10324 in Svenska (bpn10324)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10325 in Svenska (bpn10325) 
+Prayer bpn10325 (bpn10325) 
 
 [bahaiprayers.net 10325](https://bahaiprayers.net/Book/Single/24/10325)
 
@@ -1081,7 +1081,7 @@ Prayer bpn10325 in Svenska (bpn10325)
 
 -- Bahá'u'lláh
 
-Prayer bpn10326 in Svenska (bpn10326) 
+Prayer bpn10326 (bpn10326) 
 
 [bahaiprayers.net 10326](https://bahaiprayers.net/Book/Single/24/10326)
 
@@ -1098,7 +1098,7 @@ Prayer bpn10326 in Svenska (bpn10326)
 
 -- Bahá'u'lláh
 
-Prayer bpn10327 in Svenska (bpn10327) 
+Prayer bpn10327 (bpn10327) 
 
 [bahaiprayers.net 10327](https://bahaiprayers.net/Book/Single/24/10327)
 
@@ -1111,7 +1111,7 @@ Prayer bpn10327 in Svenska (bpn10327)
 
 -- Bahá'u'lláh
 
-Prayer bpn10328 in Svenska (bpn10328) 
+Prayer bpn10328 (bpn10328) 
 
 [bahaiprayers.net 10328](https://bahaiprayers.net/Book/Single/24/10328)
 
@@ -1124,7 +1124,7 @@ Prayer bpn10328 in Svenska (bpn10328)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10329 in Svenska (bpn10329) 
+Prayer bpn10329 (bpn10329) 
 
 [bahaiprayers.net 10329](https://bahaiprayers.net/Book/Single/24/10329)
 
@@ -1141,7 +1141,7 @@ Prayer bpn10329 in Svenska (bpn10329)
 
 -- Bahá'u'lláh
 
-Prayer bpn10262 in Svenska (bpn10262) 
+Prayer bpn10262 (bpn10262) 
 
 [bahaiprayers.net 10262](https://bahaiprayers.net/Book/Single/24/10262)
 
@@ -1158,7 +1158,7 @@ Prayer bpn10262 in Svenska (bpn10262)
 
 -- Bahá'u'lláh
 
-Prayer bpn10264 in Svenska (bpn10264) 
+Prayer bpn10264 (bpn10264) 
 
 [bahaiprayers.net 10264](https://bahaiprayers.net/Book/Single/24/10264)
 
@@ -1175,7 +1175,7 @@ Prayer bpn10264 in Svenska (bpn10264)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10375 in Svenska (bpn10375) 
+Prayer bpn10375 (bpn10375) 
 
 [bahaiprayers.net 10375](https://bahaiprayers.net/Book/Single/24/10375)
 
@@ -1192,7 +1192,7 @@ Prayer bpn10375 in Svenska (bpn10375)
 
 -- Bahá'u'lláh
 
-Prayer bpn10263 in Svenska (bpn10263) 
+Prayer bpn10263 (bpn10263) 
 
 [bahaiprayers.net 10263](https://bahaiprayers.net/Book/Single/24/10263)
 
@@ -1209,7 +1209,7 @@ Prayer bpn10263 in Svenska (bpn10263)
 
 -- Bahá'u'lláh
 
-Prayer bpn10330 in Svenska (bpn10330) 
+Prayer bpn10330 (bpn10330) 
 
 [bahaiprayers.net 10330](https://bahaiprayers.net/Book/Single/24/10330)
 
@@ -1222,7 +1222,7 @@ Prayer bpn10330 in Svenska (bpn10330)
 
 -- Bahá'u'lláh
 
-Prayer bpn10331 in Svenska (bpn10331) 
+Prayer bpn10331 (bpn10331) 
 
 [bahaiprayers.net 10331](https://bahaiprayers.net/Book/Single/24/10331)
 
@@ -1239,7 +1239,7 @@ Prayer bpn10331 in Svenska (bpn10331)
 
 -- Bahá'u'lláh
 
-Prayer bpn10332 in Svenska (bpn10332) 
+Prayer bpn10332 (bpn10332) 
 
 [bahaiprayers.net 10332](https://bahaiprayers.net/Book/Single/24/10332)
 
@@ -1252,7 +1252,7 @@ Prayer bpn10332 in Svenska (bpn10332)
 
 -- Bahá'u'lláh
 
-Prayer bpn10333 in Svenska (bpn10333) 
+Prayer bpn10333 (bpn10333) 
 
 [bahaiprayers.net 10333](https://bahaiprayers.net/Book/Single/24/10333)
 
@@ -1265,7 +1265,7 @@ Prayer bpn10333 in Svenska (bpn10333)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10334 in Svenska (bpn10334) 
+Prayer bpn10334 (bpn10334) 
 
 [bahaiprayers.net 10334](https://bahaiprayers.net/Book/Single/24/10334)
 
@@ -1282,7 +1282,7 @@ Prayer bpn10334 in Svenska (bpn10334)
 
 -- Bahá'u'lláh
 
-Prayer bpn10335 in Svenska (bpn10335) 
+Prayer bpn10335 (bpn10335) 
 
 [bahaiprayers.net 10335](https://bahaiprayers.net/Book/Single/24/10335)
 
@@ -1295,7 +1295,7 @@ Prayer bpn10335 in Svenska (bpn10335)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10336 in Svenska (bpn10336) 
+Prayer bpn10336 (bpn10336) 
 
 [bahaiprayers.net 10336](https://bahaiprayers.net/Book/Single/24/10336)
 
@@ -1308,7 +1308,7 @@ Prayer bpn10336 in Svenska (bpn10336)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10337 in Svenska (bpn10337) 
+Prayer bpn10337 (bpn10337) 
 
 [bahaiprayers.net 10337](https://bahaiprayers.net/Book/Single/24/10337)
 
@@ -1325,7 +1325,7 @@ Prayer bpn10337 in Svenska (bpn10337)
 
 -- Bahá'u'lláh
 
-Prayer bpn10366 in Svenska (bpn10366) 
+Prayer bpn10366 (bpn10366) 
 
 [bahaiprayers.net 10366](https://bahaiprayers.net/Book/Single/24/10366)
 
@@ -1342,7 +1342,7 @@ Prayer bpn10366 in Svenska (bpn10366)
 
 -- Bahá'u'lláh
 
-Prayer bpn10338 in Svenska (bpn10338) 
+Prayer bpn10338 (bpn10338) 
 
 [bahaiprayers.net 10338](https://bahaiprayers.net/Book/Single/24/10338)
 
@@ -1355,7 +1355,7 @@ Prayer bpn10338 in Svenska (bpn10338)
 
 -- Bahá'u'lláh
 
-Prayer bpn10339 in Svenska (bpn10339) 
+Prayer bpn10339 (bpn10339) 
 
 [bahaiprayers.net 10339](https://bahaiprayers.net/Book/Single/24/10339)
 
@@ -1368,7 +1368,7 @@ Prayer bpn10339 in Svenska (bpn10339)
 
 -- Bahá'u'lláh
 
-Prayer bpn10340 in Svenska (bpn10340) 
+Prayer bpn10340 (bpn10340) 
 
 [bahaiprayers.net 10340](https://bahaiprayers.net/Book/Single/24/10340)
 
@@ -1381,7 +1381,7 @@ Prayer bpn10340 in Svenska (bpn10340)
 
 -- Bahá'u'lláh
 
-Prayer bpn10341 in Svenska (bpn10341) 
+Prayer bpn10341 (bpn10341) 
 
 [bahaiprayers.net 10341](https://bahaiprayers.net/Book/Single/24/10341)
 
@@ -1394,7 +1394,7 @@ Prayer bpn10341 in Svenska (bpn10341)
 
 -- Bahá'u'lláh
 
-Prayer bpn10342 in Svenska (bpn10342) 
+Prayer bpn10342 (bpn10342) 
 
 [bahaiprayers.net 10342](https://bahaiprayers.net/Book/Single/24/10342)
 
@@ -1407,7 +1407,7 @@ Prayer bpn10342 in Svenska (bpn10342)
 
 -- Báb
 
-Prayer bpn10343 in Svenska (bpn10343) 
+Prayer bpn10343 (bpn10343) 
 
 [bahaiprayers.net 10343](https://bahaiprayers.net/Book/Single/24/10343)
 
@@ -1420,7 +1420,7 @@ Prayer bpn10343 in Svenska (bpn10343)
 
 -- Báb
 
-Prayer bpn10344 in Svenska (bpn10344) 
+Prayer bpn10344 (bpn10344) 
 
 [bahaiprayers.net 10344](https://bahaiprayers.net/Book/Single/24/10344)
 
@@ -1433,7 +1433,7 @@ Prayer bpn10344 in Svenska (bpn10344)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10345 in Svenska (bpn10345) 
+Prayer bpn10345 (bpn10345) 
 
 [bahaiprayers.net 10345](https://bahaiprayers.net/Book/Single/24/10345)
 
@@ -1446,7 +1446,7 @@ Prayer bpn10345 in Svenska (bpn10345)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10346 in Svenska (bpn10346) 
+Prayer bpn10346 (bpn10346) 
 
 [bahaiprayers.net 10346](https://bahaiprayers.net/Book/Single/24/10346)
 
@@ -1463,7 +1463,7 @@ Prayer bpn10346 in Svenska (bpn10346)
 
 -- Báb
 
-Prayer bpn10347 in Svenska (bpn10347) 
+Prayer bpn10347 (bpn10347) 
 
 [bahaiprayers.net 10347](https://bahaiprayers.net/Book/Single/24/10347)
 
@@ -1476,7 +1476,7 @@ Prayer bpn10347 in Svenska (bpn10347)
 
 -- Báb
 
-Prayer bpn10348 in Svenska (bpn10348) 
+Prayer bpn10348 (bpn10348) 
 
 [bahaiprayers.net 10348](https://bahaiprayers.net/Book/Single/24/10348)
 
@@ -1493,7 +1493,7 @@ Prayer bpn10348 in Svenska (bpn10348)
 
 -- Bahá'u'lláh
 
-Prayer bpn10364 in Svenska (bpn10364) 
+Prayer bpn10364 (bpn10364) 
 
 [bahaiprayers.net 10364](https://bahaiprayers.net/Book/Single/24/10364)
 
@@ -1510,7 +1510,7 @@ Prayer bpn10364 in Svenska (bpn10364)
 
 -- Bahá'u'lláh
 
-Prayer bpn10361 in Svenska (bpn10361) 
+Prayer bpn10361 (bpn10361) 
 
 [bahaiprayers.net 10361](https://bahaiprayers.net/Book/Single/24/10361)
 
@@ -1527,7 +1527,7 @@ Prayer bpn10361 in Svenska (bpn10361)
 
 -- Bahá'u'lláh
 
-Prayer bpn10349 in Svenska (bpn10349) 
+Prayer bpn10349 (bpn10349) 
 
 [bahaiprayers.net 10349](https://bahaiprayers.net/Book/Single/24/10349)
 
@@ -1540,7 +1540,7 @@ Prayer bpn10349 in Svenska (bpn10349)
 
 -- Bahá'u'lláh
 
-Prayer bpn10350 in Svenska (bpn10350) 
+Prayer bpn10350 (bpn10350) 
 
 [bahaiprayers.net 10350](https://bahaiprayers.net/Book/Single/24/10350)
 
@@ -1557,7 +1557,7 @@ Prayer bpn10350 in Svenska (bpn10350)
 
 -- Bahá'u'lláh
 
-Prayer bpn10351 in Svenska (bpn10351) 
+Prayer bpn10351 (bpn10351) 
 
 [bahaiprayers.net 10351](https://bahaiprayers.net/Book/Single/24/10351)
 
@@ -1570,7 +1570,7 @@ Prayer bpn10351 in Svenska (bpn10351)
 
 -- Bahá'u'lláh
 
-Prayer bpn10352 in Svenska (bpn10352) 
+Prayer bpn10352 (bpn10352) 
 
 [bahaiprayers.net 10352](https://bahaiprayers.net/Book/Single/24/10352)
 
@@ -1583,7 +1583,7 @@ Prayer bpn10352 in Svenska (bpn10352)
 
 -- Bahá'u'lláh
 
-Prayer bpn10353 in Svenska (bpn10353) 
+Prayer bpn10353 (bpn10353) 
 
 [bahaiprayers.net 10353](https://bahaiprayers.net/Book/Single/24/10353)
 
@@ -1596,7 +1596,7 @@ Prayer bpn10353 in Svenska (bpn10353)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10354 in Svenska (bpn10354) 
+Prayer bpn10354 (bpn10354) 
 
 [bahaiprayers.net 10354](https://bahaiprayers.net/Book/Single/24/10354)
 
@@ -1609,7 +1609,7 @@ Prayer bpn10354 in Svenska (bpn10354)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10355 in Svenska (bpn10355) 
+Prayer bpn10355 (bpn10355) 
 
 [bahaiprayers.net 10355](https://bahaiprayers.net/Book/Single/24/10355)
 
@@ -1622,7 +1622,7 @@ Prayer bpn10355 in Svenska (bpn10355)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10356 in Svenska (bpn10356) 
+Prayer bpn10356 (bpn10356) 
 
 [bahaiprayers.net 10356](https://bahaiprayers.net/Book/Single/24/10356)
 
@@ -1635,7 +1635,7 @@ Prayer bpn10356 in Svenska (bpn10356)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10357 in Svenska (bpn10357) 
+Prayer bpn10357 (bpn10357) 
 
 [bahaiprayers.net 10357](https://bahaiprayers.net/Book/Single/24/10357)
 
@@ -1648,7 +1648,7 @@ Prayer bpn10357 in Svenska (bpn10357)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10358 in Svenska (bpn10358) 
+Prayer bpn10358 (bpn10358) 
 
 [bahaiprayers.net 10358](https://bahaiprayers.net/Book/Single/24/10358)
 
@@ -1661,7 +1661,7 @@ Prayer bpn10358 in Svenska (bpn10358)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10359 in Svenska (bpn10359) 
+Prayer bpn10359 (bpn10359) 
 
 [bahaiprayers.net 10359](https://bahaiprayers.net/Book/Single/24/10359)
 
@@ -1674,7 +1674,7 @@ Prayer bpn10359 in Svenska (bpn10359)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10360 in Svenska (bpn10360) 
+Prayer bpn10360 (bpn10360) 
 
 [bahaiprayers.net 10360](https://bahaiprayers.net/Book/Single/24/10360)
 
@@ -1691,7 +1691,7 @@ Prayer bpn10360 in Svenska (bpn10360)
 
 -- Bahá'u'lláh
 
-Prayer bpn10367 in Svenska (bpn10367) 
+Prayer bpn10367 (bpn10367) 
 
 [bahaiprayers.net 10367](https://bahaiprayers.net/Book/Single/24/10367)
 
@@ -1704,7 +1704,7 @@ Prayer bpn10367 in Svenska (bpn10367)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10368 in Svenska (bpn10368) 
+Prayer bpn10368 (bpn10368) 
 
 [bahaiprayers.net 10368](https://bahaiprayers.net/Book/Single/24/10368)
 
@@ -1717,7 +1717,7 @@ Prayer bpn10368 in Svenska (bpn10368)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10369 in Svenska (bpn10369) 
+Prayer bpn10369 (bpn10369) 
 
 [bahaiprayers.net 10369](https://bahaiprayers.net/Book/Single/24/10369)
 

@@ -46,7 +46,7 @@ tags = ['lang=ho', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13049 in Hiri Motu (bpn13049) 
+Prayer bpn13049 (bpn13049) 
 
 [bahaiprayers.net 13049](https://bahaiprayers.net/Book/Single/116/13049)
 
@@ -59,7 +59,7 @@ Prayer bpn13049 in Hiri Motu (bpn13049)
 
 -- Bahá'u'lláh
 
-Prayer bpn13050 in Hiri Motu (bpn13050) 
+Prayer bpn13050 (bpn13050) 
 
 [bahaiprayers.net 13050](https://bahaiprayers.net/Book/Single/116/13050)
 
@@ -72,7 +72,7 @@ Prayer bpn13050 in Hiri Motu (bpn13050)
 
 -- Bahá'u'lláh
 
-Prayer bpn13051 in Hiri Motu (bpn13051) 
+Prayer bpn13051 (bpn13051) 
 
 [bahaiprayers.net 13051](https://bahaiprayers.net/Book/Single/116/13051)
 
@@ -85,7 +85,7 @@ Prayer bpn13051 in Hiri Motu (bpn13051)
 
 -- Bahá'u'lláh
 
-Prayer bpn13052 in Hiri Motu (bpn13052) 
+Prayer bpn13052 (bpn13052) 
 
 [bahaiprayers.net 13052](https://bahaiprayers.net/Book/Single/116/13052)
 
@@ -98,7 +98,7 @@ Prayer bpn13052 in Hiri Motu (bpn13052)
 
 -- Bahá'u'lláh
 
-Prayer bpn13053 in Hiri Motu (bpn13053) 
+Prayer bpn13053 (bpn13053) 
 
 [bahaiprayers.net 13053](https://bahaiprayers.net/Book/Single/116/13053)
 
@@ -111,7 +111,7 @@ Prayer bpn13053 in Hiri Motu (bpn13053)
 
 -- Bahá'u'lláh
 
-Prayer bpn13054 in Hiri Motu (bpn13054) 
+Prayer bpn13054 (bpn13054) 
 
 [bahaiprayers.net 13054](https://bahaiprayers.net/Book/Single/116/13054)
 
@@ -124,7 +124,7 @@ Prayer bpn13054 in Hiri Motu (bpn13054)
 
 -- Bahá'u'lláh
 
-Prayer bpn13055 in Hiri Motu (bpn13055) 
+Prayer bpn13055 (bpn13055) 
 
 [bahaiprayers.net 13055](https://bahaiprayers.net/Book/Single/116/13055)
 
@@ -137,7 +137,7 @@ Prayer bpn13055 in Hiri Motu (bpn13055)
 
 -- Bahá'u'lláh
 
-Prayer bpn13056 in Hiri Motu (bpn13056) 
+Prayer bpn13056 (bpn13056) 
 
 [bahaiprayers.net 13056](https://bahaiprayers.net/Book/Single/116/13056)
 
@@ -150,7 +150,7 @@ Prayer bpn13056 in Hiri Motu (bpn13056)
 
 -- Bahá'u'lláh
 
-Prayer bpn13057 in Hiri Motu (bpn13057) 
+Prayer bpn13057 (bpn13057) 
 
 [bahaiprayers.net 13057](https://bahaiprayers.net/Book/Single/116/13057)
 
@@ -163,7 +163,7 @@ Prayer bpn13057 in Hiri Motu (bpn13057)
 
 -- Bahá'u'lláh
 
-Prayer bpn13058 in Hiri Motu (bpn13058) 
+Prayer bpn13058 (bpn13058) 
 
 [bahaiprayers.net 13058](https://bahaiprayers.net/Book/Single/116/13058)
 
@@ -176,7 +176,7 @@ Prayer bpn13058 in Hiri Motu (bpn13058)
 
 -- Bahá'u'lláh
 
-Prayer bpn13059 in Hiri Motu (bpn13059) 
+Prayer bpn13059 (bpn13059) 
 
 [bahaiprayers.net 13059](https://bahaiprayers.net/Book/Single/116/13059)
 
@@ -189,7 +189,7 @@ Prayer bpn13059 in Hiri Motu (bpn13059)
 
 -- Bahá'u'lláh
 
-Prayer bpn13060 in Hiri Motu (bpn13060) 
+Prayer bpn13060 (bpn13060) 
 
 [bahaiprayers.net 13060](https://bahaiprayers.net/Book/Single/116/13060)
 
@@ -202,7 +202,7 @@ Prayer bpn13060 in Hiri Motu (bpn13060)
 
 -- Bahá'u'lláh
 
-Prayer bpn13061 in Hiri Motu (bpn13061) 
+Prayer bpn13061 (bpn13061) 
 
 [bahaiprayers.net 13061](https://bahaiprayers.net/Book/Single/116/13061)
 
@@ -215,7 +215,7 @@ Prayer bpn13061 in Hiri Motu (bpn13061)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13062 in Hiri Motu (bpn13062) 
+Prayer bpn13062 (bpn13062) 
 
 [bahaiprayers.net 13062](https://bahaiprayers.net/Book/Single/116/13062)
 
@@ -228,7 +228,7 @@ Prayer bpn13062 in Hiri Motu (bpn13062)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13063 in Hiri Motu (bpn13063) 
+Prayer bpn13063 (bpn13063) 
 
 [bahaiprayers.net 13063](https://bahaiprayers.net/Book/Single/116/13063)
 
@@ -241,7 +241,7 @@ Prayer bpn13063 in Hiri Motu (bpn13063)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13064 in Hiri Motu (bpn13064) 
+Prayer bpn13064 (bpn13064) 
 
 [bahaiprayers.net 13064](https://bahaiprayers.net/Book/Single/116/13064)
 
@@ -254,7 +254,7 @@ Prayer bpn13064 in Hiri Motu (bpn13064)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13065 in Hiri Motu (bpn13065) 
+Prayer bpn13065 (bpn13065) 
 
 [bahaiprayers.net 13065](https://bahaiprayers.net/Book/Single/116/13065)
 
@@ -267,7 +267,7 @@ Prayer bpn13065 in Hiri Motu (bpn13065)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13066 in Hiri Motu (bpn13066) 
+Prayer bpn13066 (bpn13066) 
 
 [bahaiprayers.net 13066](https://bahaiprayers.net/Book/Single/116/13066)
 
@@ -284,7 +284,7 @@ Prayer bpn13066 in Hiri Motu (bpn13066)
 
 -- Bahá'u'lláh
 
-Prayer bpn13080 in Hiri Motu (bpn13080) 
+Prayer bpn13080 (bpn13080) 
 
 [bahaiprayers.net 13080](https://bahaiprayers.net/Book/Single/116/13080)
 
@@ -301,7 +301,7 @@ Prayer bpn13080 in Hiri Motu (bpn13080)
 
 -- Bahá'u'lláh
 
-Prayer bpn13067 in Hiri Motu (bpn13067) 
+Prayer bpn13067 (bpn13067) 
 
 [bahaiprayers.net 13067](https://bahaiprayers.net/Book/Single/116/13067)
 
@@ -318,7 +318,7 @@ Prayer bpn13067 in Hiri Motu (bpn13067)
 
 -- Báb
 
-Prayer bpn13068 in Hiri Motu (bpn13068) 
+Prayer bpn13068 (bpn13068) 
 
 [bahaiprayers.net 13068](https://bahaiprayers.net/Book/Single/116/13068)
 
@@ -335,7 +335,7 @@ Prayer bpn13068 in Hiri Motu (bpn13068)
 
 -- Báb
 
-Prayer bpn13070 in Hiri Motu (bpn13070) 
+Prayer bpn13070 (bpn13070) 
 
 [bahaiprayers.net 13070](https://bahaiprayers.net/Book/Single/116/13070)
 
@@ -352,7 +352,7 @@ Prayer bpn13070 in Hiri Motu (bpn13070)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13076 in Hiri Motu (bpn13076) 
+Prayer bpn13076 (bpn13076) 
 
 [bahaiprayers.net 13076](https://bahaiprayers.net/Book/Single/116/13076)
 
@@ -369,7 +369,7 @@ Prayer bpn13076 in Hiri Motu (bpn13076)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13082 in Hiri Motu (bpn13082) 
+Prayer bpn13082 (bpn13082) 
 
 [bahaiprayers.net 13082](https://bahaiprayers.net/Book/Single/116/13082)
 
@@ -386,7 +386,7 @@ Prayer bpn13082 in Hiri Motu (bpn13082)
 
 -- Bahá'u'lláh
 
-Prayer bpn13079 in Hiri Motu (bpn13079) 
+Prayer bpn13079 (bpn13079) 
 
 [bahaiprayers.net 13079](https://bahaiprayers.net/Book/Single/116/13079)
 
@@ -403,7 +403,7 @@ Prayer bpn13079 in Hiri Motu (bpn13079)
 
 -- Bahá'u'lláh
 
-Prayer bpn13081 in Hiri Motu (bpn13081) 
+Prayer bpn13081 (bpn13081) 
 
 [bahaiprayers.net 13081](https://bahaiprayers.net/Book/Single/116/13081)
 
@@ -420,7 +420,7 @@ Prayer bpn13081 in Hiri Motu (bpn13081)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13075 in Hiri Motu (bpn13075) 
+Prayer bpn13075 (bpn13075) 
 
 [bahaiprayers.net 13075](https://bahaiprayers.net/Book/Single/116/13075)
 
@@ -437,7 +437,7 @@ Prayer bpn13075 in Hiri Motu (bpn13075)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13078 in Hiri Motu (bpn13078) 
+Prayer bpn13078 (bpn13078) 
 
 [bahaiprayers.net 13078](https://bahaiprayers.net/Book/Single/116/13078)
 
@@ -454,7 +454,7 @@ Prayer bpn13078 in Hiri Motu (bpn13078)
 
 -- Bahá'u'lláh
 
-Prayer bpn13069 in Hiri Motu (bpn13069) 
+Prayer bpn13069 (bpn13069) 
 
 [bahaiprayers.net 13069](https://bahaiprayers.net/Book/Single/116/13069)
 
@@ -471,7 +471,7 @@ Prayer bpn13069 in Hiri Motu (bpn13069)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13072 in Hiri Motu (bpn13072) 
+Prayer bpn13072 (bpn13072) 
 
 [bahaiprayers.net 13072](https://bahaiprayers.net/Book/Single/116/13072)
 
@@ -484,7 +484,7 @@ Prayer bpn13072 in Hiri Motu (bpn13072)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13073 in Hiri Motu (bpn13073) 
+Prayer bpn13073 (bpn13073) 
 
 [bahaiprayers.net 13073](https://bahaiprayers.net/Book/Single/116/13073)
 
@@ -497,7 +497,7 @@ Prayer bpn13073 in Hiri Motu (bpn13073)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13074 in Hiri Motu (bpn13074) 
+Prayer bpn13074 (bpn13074) 
 
 [bahaiprayers.net 13074](https://bahaiprayers.net/Book/Single/116/13074)
 
@@ -514,7 +514,7 @@ Prayer bpn13074 in Hiri Motu (bpn13074)
 
 -- Bahá'u'lláh
 
-Prayer bpn13071 in Hiri Motu (bpn13071) 
+Prayer bpn13071 (bpn13071) 
 
 [bahaiprayers.net 13071](https://bahaiprayers.net/Book/Single/116/13071)
 
@@ -531,7 +531,7 @@ Prayer bpn13071 in Hiri Motu (bpn13071)
 
 -- Bahá'u'lláh
 
-Prayer bpn13077 in Hiri Motu (bpn13077) 
+Prayer bpn13077 (bpn13077) 
 
 [bahaiprayers.net 13077](https://bahaiprayers.net/Book/Single/116/13077)
 

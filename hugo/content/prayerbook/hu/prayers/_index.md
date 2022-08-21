@@ -106,7 +106,7 @@ tags = ['lang=hu', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn2754 in Magyar (bpn2754) 
+Prayer bpn2754 (bpn2754) 
 
 [bahaiprayers.net 2754](https://bahaiprayers.net/Book/Single/16/2754)
 
@@ -123,7 +123,7 @@ Prayer bpn2754 in Magyar (bpn2754)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2618 in Magyar (bpn2618) 
+Prayer bpn2618 (bpn2618) 
 
 [bahaiprayers.net 2618](https://bahaiprayers.net/Book/Single/16/2618)
 
@@ -140,7 +140,7 @@ Prayer bpn2618 in Magyar (bpn2618)
 
 -- Bahá'u'lláh
 
-Prayer bpn2641 in Magyar (bpn2641) 
+Prayer bpn2641 (bpn2641) 
 
 [bahaiprayers.net 2641](https://bahaiprayers.net/Book/Single/16/2641)
 
@@ -157,7 +157,7 @@ Prayer bpn2641 in Magyar (bpn2641)
 
 -- Bahá'u'lláh
 
-Prayer bpn2615 in Magyar (bpn2615) 
+Prayer bpn2615 (bpn2615) 
 
 [bahaiprayers.net 2615](https://bahaiprayers.net/Book/Single/16/2615)
 
@@ -170,7 +170,7 @@ Prayer bpn2615 in Magyar (bpn2615)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2616 in Magyar (bpn2616) 
+Prayer bpn2616 (bpn2616) 
 
 [bahaiprayers.net 2616](https://bahaiprayers.net/Book/Single/16/2616)
 
@@ -187,7 +187,7 @@ Prayer bpn2616 in Magyar (bpn2616)
 
 -- Bahá'u'lláh
 
-Prayer bpn2642 in Magyar (bpn2642) 
+Prayer bpn2642 (bpn2642) 
 
 [bahaiprayers.net 2642](https://bahaiprayers.net/Book/Single/16/2642)
 
@@ -204,7 +204,7 @@ Prayer bpn2642 in Magyar (bpn2642)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2610 in Magyar (bpn2610) 
+Prayer bpn2610 (bpn2610) 
 
 [bahaiprayers.net 2610](https://bahaiprayers.net/Book/Single/16/2610)
 
@@ -217,7 +217,7 @@ Prayer bpn2610 in Magyar (bpn2610)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2611 in Magyar (bpn2611) 
+Prayer bpn2611 (bpn2611) 
 
 [bahaiprayers.net 2611](https://bahaiprayers.net/Book/Single/16/2611)
 
@@ -234,7 +234,7 @@ Prayer bpn2611 in Magyar (bpn2611)
 
 -- Bahá'u'lláh
 
-Prayer bpn2630 in Magyar (bpn2630) 
+Prayer bpn2630 (bpn2630) 
 
 [bahaiprayers.net 2630](https://bahaiprayers.net/Book/Single/16/2630)
 
@@ -247,7 +247,7 @@ Prayer bpn2630 in Magyar (bpn2630)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2631 in Magyar (bpn2631) 
+Prayer bpn2631 (bpn2631) 
 
 [bahaiprayers.net 2631](https://bahaiprayers.net/Book/Single/16/2631)
 
@@ -260,7 +260,7 @@ Prayer bpn2631 in Magyar (bpn2631)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2632 in Magyar (bpn2632) 
+Prayer bpn2632 (bpn2632) 
 
 [bahaiprayers.net 2632](https://bahaiprayers.net/Book/Single/16/2632)
 
@@ -277,7 +277,7 @@ Prayer bpn2632 in Magyar (bpn2632)
 
 -- Bahá'u'lláh
 
-Prayer bpn2613 in Magyar (bpn2613) 
+Prayer bpn2613 (bpn2613) 
 
 [bahaiprayers.net 2613](https://bahaiprayers.net/Book/Single/16/2613)
 
@@ -290,7 +290,7 @@ Prayer bpn2613 in Magyar (bpn2613)
 
 -- Bahá'u'lláh
 
-Prayer bpn2614 in Magyar (bpn2614) 
+Prayer bpn2614 (bpn2614) 
 
 [bahaiprayers.net 2614](https://bahaiprayers.net/Book/Single/16/2614)
 
@@ -303,7 +303,7 @@ Prayer bpn2614 in Magyar (bpn2614)
 
 -- Báb
 
-Prayer bpn2612 in Magyar (bpn2612) 
+Prayer bpn2612 (bpn2612) 
 
 [bahaiprayers.net 2612](https://bahaiprayers.net/Book/Single/16/2612)
 
@@ -320,7 +320,7 @@ Prayer bpn2612 in Magyar (bpn2612)
 
 -- Bahá'u'lláh
 
-Prayer bpn2619 in Magyar (bpn2619) 
+Prayer bpn2619 (bpn2619) 
 
 [bahaiprayers.net 2619](https://bahaiprayers.net/Book/Single/16/2619)
 
@@ -333,7 +333,7 @@ Prayer bpn2619 in Magyar (bpn2619)
 
 -- Bahá'u'lláh
 
-Prayer bpn2620 in Magyar (bpn2620) 
+Prayer bpn2620 (bpn2620) 
 
 [bahaiprayers.net 2620](https://bahaiprayers.net/Book/Single/16/2620)
 
@@ -346,7 +346,7 @@ Prayer bpn2620 in Magyar (bpn2620)
 
 -- Bahá'u'lláh
 
-Prayer bpn2621 in Magyar (bpn2621) 
+Prayer bpn2621 (bpn2621) 
 
 [bahaiprayers.net 2621](https://bahaiprayers.net/Book/Single/16/2621)
 
@@ -359,7 +359,7 @@ Prayer bpn2621 in Magyar (bpn2621)
 
 -- Bahá'u'lláh
 
-Prayer bpn2622 in Magyar (bpn2622) 
+Prayer bpn2622 (bpn2622) 
 
 [bahaiprayers.net 2622](https://bahaiprayers.net/Book/Single/16/2622)
 
@@ -372,7 +372,7 @@ Prayer bpn2622 in Magyar (bpn2622)
 
 -- Báb
 
-Prayer bpn2623 in Magyar (bpn2623) 
+Prayer bpn2623 (bpn2623) 
 
 [bahaiprayers.net 2623](https://bahaiprayers.net/Book/Single/16/2623)
 
@@ -385,7 +385,7 @@ Prayer bpn2623 in Magyar (bpn2623)
 
 -- Báb
 
-Prayer bpn2624 in Magyar (bpn2624) 
+Prayer bpn2624 (bpn2624) 
 
 [bahaiprayers.net 2624](https://bahaiprayers.net/Book/Single/16/2624)
 
@@ -398,7 +398,7 @@ Prayer bpn2624 in Magyar (bpn2624)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2625 in Magyar (bpn2625) 
+Prayer bpn2625 (bpn2625) 
 
 [bahaiprayers.net 2625](https://bahaiprayers.net/Book/Single/16/2625)
 
@@ -415,7 +415,7 @@ Prayer bpn2625 in Magyar (bpn2625)
 
 -- Bahá'u'lláh
 
-Prayer bpn2626 in Magyar (bpn2626) 
+Prayer bpn2626 (bpn2626) 
 
 [bahaiprayers.net 2626](https://bahaiprayers.net/Book/Single/16/2626)
 
@@ -428,7 +428,7 @@ Prayer bpn2626 in Magyar (bpn2626)
 
 -- Bahá'u'lláh
 
-Prayer bpn2627 in Magyar (bpn2627) 
+Prayer bpn2627 (bpn2627) 
 
 [bahaiprayers.net 2627](https://bahaiprayers.net/Book/Single/16/2627)
 
@@ -441,7 +441,7 @@ Prayer bpn2627 in Magyar (bpn2627)
 
 -- Bahá'u'lláh
 
-Prayer bpn2628 in Magyar (bpn2628) 
+Prayer bpn2628 (bpn2628) 
 
 [bahaiprayers.net 2628](https://bahaiprayers.net/Book/Single/16/2628)
 
@@ -454,7 +454,7 @@ Prayer bpn2628 in Magyar (bpn2628)
 
 -- Bahá'u'lláh
 
-Prayer bpn2629 in Magyar (bpn2629) 
+Prayer bpn2629 (bpn2629) 
 
 [bahaiprayers.net 2629](https://bahaiprayers.net/Book/Single/16/2629)
 
@@ -471,7 +471,7 @@ Prayer bpn2629 in Magyar (bpn2629)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2633 in Magyar (bpn2633) 
+Prayer bpn2633 (bpn2633) 
 
 [bahaiprayers.net 2633](https://bahaiprayers.net/Book/Single/16/2633)
 
@@ -484,7 +484,7 @@ Prayer bpn2633 in Magyar (bpn2633)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2634 in Magyar (bpn2634) 
+Prayer bpn2634 (bpn2634) 
 
 [bahaiprayers.net 2634](https://bahaiprayers.net/Book/Single/16/2634)
 
@@ -501,7 +501,7 @@ Prayer bpn2634 in Magyar (bpn2634)
 
 -- Bahá'u'lláh
 
-Prayer bpn2639 in Magyar (bpn2639) 
+Prayer bpn2639 (bpn2639) 
 
 [bahaiprayers.net 2639](https://bahaiprayers.net/Book/Single/16/2639)
 
@@ -518,7 +518,7 @@ Prayer bpn2639 in Magyar (bpn2639)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2640 in Magyar (bpn2640) 
+Prayer bpn2640 (bpn2640) 
 
 [bahaiprayers.net 2640](https://bahaiprayers.net/Book/Single/16/2640)
 
@@ -535,7 +535,7 @@ Prayer bpn2640 in Magyar (bpn2640)
 
 -- Bahá'u'lláh
 
-Prayer bpn2635 in Magyar (bpn2635) 
+Prayer bpn2635 (bpn2635) 
 
 [bahaiprayers.net 2635](https://bahaiprayers.net/Book/Single/16/2635)
 
@@ -548,7 +548,7 @@ Prayer bpn2635 in Magyar (bpn2635)
 
 -- Bahá'u'lláh
 
-Prayer bpn2636 in Magyar (bpn2636) 
+Prayer bpn2636 (bpn2636) 
 
 [bahaiprayers.net 2636](https://bahaiprayers.net/Book/Single/16/2636)
 
@@ -561,7 +561,7 @@ Prayer bpn2636 in Magyar (bpn2636)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2637 in Magyar (bpn2637) 
+Prayer bpn2637 (bpn2637) 
 
 [bahaiprayers.net 2637](https://bahaiprayers.net/Book/Single/16/2637)
 
@@ -578,7 +578,7 @@ Prayer bpn2637 in Magyar (bpn2637)
 
 -- Bahá'u'lláh
 
-Prayer bpn2653 in Magyar (bpn2653) 
+Prayer bpn2653 (bpn2653) 
 
 [bahaiprayers.net 2653](https://bahaiprayers.net/Book/Single/16/2653)
 
@@ -591,7 +591,7 @@ Prayer bpn2653 in Magyar (bpn2653)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2654 in Magyar (bpn2654) 
+Prayer bpn2654 (bpn2654) 
 
 [bahaiprayers.net 2654](https://bahaiprayers.net/Book/Single/16/2654)
 
@@ -604,7 +604,7 @@ Prayer bpn2654 in Magyar (bpn2654)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2655 in Magyar (bpn2655) 
+Prayer bpn2655 (bpn2655) 
 
 [bahaiprayers.net 2655](https://bahaiprayers.net/Book/Single/16/2655)
 
@@ -617,7 +617,7 @@ Prayer bpn2655 in Magyar (bpn2655)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2656 in Magyar (bpn2656) 
+Prayer bpn2656 (bpn2656) 
 
 [bahaiprayers.net 2656](https://bahaiprayers.net/Book/Single/16/2656)
 
@@ -630,7 +630,7 @@ Prayer bpn2656 in Magyar (bpn2656)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2657 in Magyar (bpn2657) 
+Prayer bpn2657 (bpn2657) 
 
 [bahaiprayers.net 2657](https://bahaiprayers.net/Book/Single/16/2657)
 
@@ -643,7 +643,7 @@ Prayer bpn2657 in Magyar (bpn2657)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2658 in Magyar (bpn2658) 
+Prayer bpn2658 (bpn2658) 
 
 [bahaiprayers.net 2658](https://bahaiprayers.net/Book/Single/16/2658)
 
@@ -656,7 +656,7 @@ Prayer bpn2658 in Magyar (bpn2658)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2659 in Magyar (bpn2659) 
+Prayer bpn2659 (bpn2659) 
 
 [bahaiprayers.net 2659](https://bahaiprayers.net/Book/Single/16/2659)
 
@@ -669,7 +669,7 @@ Prayer bpn2659 in Magyar (bpn2659)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2660 in Magyar (bpn2660) 
+Prayer bpn2660 (bpn2660) 
 
 [bahaiprayers.net 2660](https://bahaiprayers.net/Book/Single/16/2660)
 
@@ -686,7 +686,7 @@ Prayer bpn2660 in Magyar (bpn2660)
 
 -- Bahá'u'lláh
 
-Prayer bpn2663 in Magyar (bpn2663) 
+Prayer bpn2663 (bpn2663) 
 
 [bahaiprayers.net 2663](https://bahaiprayers.net/Book/Single/16/2663)
 
@@ -699,7 +699,7 @@ Prayer bpn2663 in Magyar (bpn2663)
 
 -- Bahá'u'lláh
 
-Prayer bpn2664 in Magyar (bpn2664) 
+Prayer bpn2664 (bpn2664) 
 
 [bahaiprayers.net 2664](https://bahaiprayers.net/Book/Single/16/2664)
 
@@ -712,7 +712,7 @@ Prayer bpn2664 in Magyar (bpn2664)
 
 -- Bahá'u'lláh
 
-Prayer bpn2665 in Magyar (bpn2665) 
+Prayer bpn2665 (bpn2665) 
 
 [bahaiprayers.net 2665](https://bahaiprayers.net/Book/Single/16/2665)
 
@@ -729,7 +729,7 @@ Prayer bpn2665 in Magyar (bpn2665)
 
 -- Bahá'u'lláh
 
-Prayer bpn2755 in Magyar (bpn2755) 
+Prayer bpn2755 (bpn2755) 
 
 [bahaiprayers.net 2755](https://bahaiprayers.net/Book/Single/16/2755)
 
@@ -746,7 +746,7 @@ Prayer bpn2755 in Magyar (bpn2755)
 
 -- Bahá'u'lláh
 
-Prayer bpn2638 in Magyar (bpn2638) 
+Prayer bpn2638 (bpn2638) 
 
 [bahaiprayers.net 2638](https://bahaiprayers.net/Book/Single/16/2638)
 
@@ -763,7 +763,7 @@ Prayer bpn2638 in Magyar (bpn2638)
 
 -- Bahá'u'lláh
 
-Prayer bpn2609 in Magyar (bpn2609) 
+Prayer bpn2609 (bpn2609) 
 
 [bahaiprayers.net 2609](https://bahaiprayers.net/Book/Single/16/2609)
 
@@ -780,7 +780,7 @@ Prayer bpn2609 in Magyar (bpn2609)
 
 -- Bahá'u'lláh
 
-Prayer bpn2669 in Magyar (bpn2669) 
+Prayer bpn2669 (bpn2669) 
 
 [bahaiprayers.net 2669](https://bahaiprayers.net/Book/Single/16/2669)
 
@@ -793,7 +793,7 @@ Prayer bpn2669 in Magyar (bpn2669)
 
 -- Bahá'u'lláh
 
-Prayer bpn2670 in Magyar (bpn2670) 
+Prayer bpn2670 (bpn2670) 
 
 [bahaiprayers.net 2670](https://bahaiprayers.net/Book/Single/16/2670)
 
@@ -810,7 +810,7 @@ Prayer bpn2670 in Magyar (bpn2670)
 
 -- Bahá'u'lláh
 
-Prayer bpn2666 in Magyar (bpn2666) 
+Prayer bpn2666 (bpn2666) 
 
 [bahaiprayers.net 2666](https://bahaiprayers.net/Book/Single/16/2666)
 
@@ -823,7 +823,7 @@ Prayer bpn2666 in Magyar (bpn2666)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2667 in Magyar (bpn2667) 
+Prayer bpn2667 (bpn2667) 
 
 [bahaiprayers.net 2667](https://bahaiprayers.net/Book/Single/16/2667)
 
@@ -836,7 +836,7 @@ Prayer bpn2667 in Magyar (bpn2667)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2668 in Magyar (bpn2668) 
+Prayer bpn2668 (bpn2668) 
 
 [bahaiprayers.net 2668](https://bahaiprayers.net/Book/Single/16/2668)
 
@@ -853,7 +853,7 @@ Prayer bpn2668 in Magyar (bpn2668)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2671 in Magyar (bpn2671) 
+Prayer bpn2671 (bpn2671) 
 
 [bahaiprayers.net 2671](https://bahaiprayers.net/Book/Single/16/2671)
 
@@ -866,7 +866,7 @@ Prayer bpn2671 in Magyar (bpn2671)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2672 in Magyar (bpn2672) 
+Prayer bpn2672 (bpn2672) 
 
 [bahaiprayers.net 2672](https://bahaiprayers.net/Book/Single/16/2672)
 
@@ -883,7 +883,7 @@ Prayer bpn2672 in Magyar (bpn2672)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2661 in Magyar (bpn2661) 
+Prayer bpn2661 (bpn2661) 
 
 [bahaiprayers.net 2661](https://bahaiprayers.net/Book/Single/16/2661)
 
@@ -896,7 +896,7 @@ Prayer bpn2661 in Magyar (bpn2661)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2662 in Magyar (bpn2662) 
+Prayer bpn2662 (bpn2662) 
 
 [bahaiprayers.net 2662](https://bahaiprayers.net/Book/Single/16/2662)
 
@@ -913,7 +913,7 @@ Prayer bpn2662 in Magyar (bpn2662)
 
 -- Bahá'u'lláh
 
-Prayer bpn2673 in Magyar (bpn2673) 
+Prayer bpn2673 (bpn2673) 
 
 [bahaiprayers.net 2673](https://bahaiprayers.net/Book/Single/16/2673)
 
@@ -926,7 +926,7 @@ Prayer bpn2673 in Magyar (bpn2673)
 
 -- Báb
 
-Prayer bpn2674 in Magyar (bpn2674) 
+Prayer bpn2674 (bpn2674) 
 
 [bahaiprayers.net 2674](https://bahaiprayers.net/Book/Single/16/2674)
 
@@ -939,7 +939,7 @@ Prayer bpn2674 in Magyar (bpn2674)
 
 -- Báb
 
-Prayer bpn2675 in Magyar (bpn2675) 
+Prayer bpn2675 (bpn2675) 
 
 [bahaiprayers.net 2675](https://bahaiprayers.net/Book/Single/16/2675)
 
@@ -952,7 +952,7 @@ Prayer bpn2675 in Magyar (bpn2675)
 
 -- Báb
 
-Prayer bpn2676 in Magyar (bpn2676) 
+Prayer bpn2676 (bpn2676) 
 
 [bahaiprayers.net 2676](https://bahaiprayers.net/Book/Single/16/2676)
 
@@ -969,7 +969,7 @@ Prayer bpn2676 in Magyar (bpn2676)
 
 -- Bahá'u'lláh
 
-Prayer bpn2677 in Magyar (bpn2677) 
+Prayer bpn2677 (bpn2677) 
 
 [bahaiprayers.net 2677](https://bahaiprayers.net/Book/Single/16/2677)
 
@@ -986,7 +986,7 @@ Prayer bpn2677 in Magyar (bpn2677)
 
 -- Bahá'u'lláh
 
-Prayer bpn2608 in Magyar (bpn2608) 
+Prayer bpn2608 (bpn2608) 
 
 [bahaiprayers.net 2608](https://bahaiprayers.net/Book/Single/16/2608)
 
@@ -1003,7 +1003,7 @@ Prayer bpn2608 in Magyar (bpn2608)
 
 -- Bahá'u'lláh
 
-Prayer bpn2678 in Magyar (bpn2678) 
+Prayer bpn2678 (bpn2678) 
 
 [bahaiprayers.net 2678](https://bahaiprayers.net/Book/Single/16/2678)
 
@@ -1016,7 +1016,7 @@ Prayer bpn2678 in Magyar (bpn2678)
 
 -- Bahá'u'lláh
 
-Prayer bpn2679 in Magyar (bpn2679) 
+Prayer bpn2679 (bpn2679) 
 
 [bahaiprayers.net 2679](https://bahaiprayers.net/Book/Single/16/2679)
 
@@ -1029,7 +1029,7 @@ Prayer bpn2679 in Magyar (bpn2679)
 
 -- Bahá'u'lláh
 
-Prayer bpn2680 in Magyar (bpn2680) 
+Prayer bpn2680 (bpn2680) 
 
 [bahaiprayers.net 2680](https://bahaiprayers.net/Book/Single/16/2680)
 
@@ -1042,7 +1042,7 @@ Prayer bpn2680 in Magyar (bpn2680)
 
 -- Bahá'u'lláh
 
-Prayer bpn2681 in Magyar (bpn2681) 
+Prayer bpn2681 (bpn2681) 
 
 [bahaiprayers.net 2681](https://bahaiprayers.net/Book/Single/16/2681)
 
@@ -1055,7 +1055,7 @@ Prayer bpn2681 in Magyar (bpn2681)
 
 -- Bahá'u'lláh
 
-Prayer bpn2682 in Magyar (bpn2682) 
+Prayer bpn2682 (bpn2682) 
 
 [bahaiprayers.net 2682](https://bahaiprayers.net/Book/Single/16/2682)
 
@@ -1068,7 +1068,7 @@ Prayer bpn2682 in Magyar (bpn2682)
 
 -- Báb
 
-Prayer bpn2683 in Magyar (bpn2683) 
+Prayer bpn2683 (bpn2683) 
 
 [bahaiprayers.net 2683](https://bahaiprayers.net/Book/Single/16/2683)
 
@@ -1081,7 +1081,7 @@ Prayer bpn2683 in Magyar (bpn2683)
 
 -- Báb
 
-Prayer bpn2684 in Magyar (bpn2684) 
+Prayer bpn2684 (bpn2684) 
 
 [bahaiprayers.net 2684](https://bahaiprayers.net/Book/Single/16/2684)
 
@@ -1094,7 +1094,7 @@ Prayer bpn2684 in Magyar (bpn2684)
 
 -- Báb
 
-Prayer bpn2685 in Magyar (bpn2685) 
+Prayer bpn2685 (bpn2685) 
 
 [bahaiprayers.net 2685](https://bahaiprayers.net/Book/Single/16/2685)
 
@@ -1107,7 +1107,7 @@ Prayer bpn2685 in Magyar (bpn2685)
 
 -- Báb
 
-Prayer bpn2686 in Magyar (bpn2686) 
+Prayer bpn2686 (bpn2686) 
 
 [bahaiprayers.net 2686](https://bahaiprayers.net/Book/Single/16/2686)
 
@@ -1120,7 +1120,7 @@ Prayer bpn2686 in Magyar (bpn2686)
 
 -- Báb
 
-Prayer bpn2687 in Magyar (bpn2687) 
+Prayer bpn2687 (bpn2687) 
 
 [bahaiprayers.net 2687](https://bahaiprayers.net/Book/Single/16/2687)
 
@@ -1133,7 +1133,7 @@ Prayer bpn2687 in Magyar (bpn2687)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2688 in Magyar (bpn2688) 
+Prayer bpn2688 (bpn2688) 
 
 [bahaiprayers.net 2688](https://bahaiprayers.net/Book/Single/16/2688)
 
@@ -1146,7 +1146,7 @@ Prayer bpn2688 in Magyar (bpn2688)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2689 in Magyar (bpn2689) 
+Prayer bpn2689 (bpn2689) 
 
 [bahaiprayers.net 2689](https://bahaiprayers.net/Book/Single/16/2689)
 
@@ -1159,7 +1159,7 @@ Prayer bpn2689 in Magyar (bpn2689)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2690 in Magyar (bpn2690) 
+Prayer bpn2690 (bpn2690) 
 
 [bahaiprayers.net 2690](https://bahaiprayers.net/Book/Single/16/2690)
 
@@ -1172,7 +1172,7 @@ Prayer bpn2690 in Magyar (bpn2690)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2691 in Magyar (bpn2691) 
+Prayer bpn2691 (bpn2691) 
 
 [bahaiprayers.net 2691](https://bahaiprayers.net/Book/Single/16/2691)
 
@@ -1185,7 +1185,7 @@ Prayer bpn2691 in Magyar (bpn2691)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2692 in Magyar (bpn2692) 
+Prayer bpn2692 (bpn2692) 
 
 [bahaiprayers.net 2692](https://bahaiprayers.net/Book/Single/16/2692)
 
@@ -1202,7 +1202,7 @@ Prayer bpn2692 in Magyar (bpn2692)
 
 -- Bahá'u'lláh
 
-Prayer bpn2694 in Magyar (bpn2694) 
+Prayer bpn2694 (bpn2694) 
 
 [bahaiprayers.net 2694](https://bahaiprayers.net/Book/Single/16/2694)
 
@@ -1215,7 +1215,7 @@ Prayer bpn2694 in Magyar (bpn2694)
 
 -- Bahá'u'lláh
 
-Prayer bpn2695 in Magyar (bpn2695) 
+Prayer bpn2695 (bpn2695) 
 
 [bahaiprayers.net 2695](https://bahaiprayers.net/Book/Single/16/2695)
 
@@ -1228,7 +1228,7 @@ Prayer bpn2695 in Magyar (bpn2695)
 
 -- Bahá'u'lláh
 
-Prayer bpn2696 in Magyar (bpn2696) 
+Prayer bpn2696 (bpn2696) 
 
 [bahaiprayers.net 2696](https://bahaiprayers.net/Book/Single/16/2696)
 
@@ -1241,7 +1241,7 @@ Prayer bpn2696 in Magyar (bpn2696)
 
 -- Báb
 
-Prayer bpn2697 in Magyar (bpn2697) 
+Prayer bpn2697 (bpn2697) 
 
 [bahaiprayers.net 2697](https://bahaiprayers.net/Book/Single/16/2697)
 
@@ -1254,7 +1254,7 @@ Prayer bpn2697 in Magyar (bpn2697)
 
 -- Báb
 
-Prayer bpn2698 in Magyar (bpn2698) 
+Prayer bpn2698 (bpn2698) 
 
 [bahaiprayers.net 2698](https://bahaiprayers.net/Book/Single/16/2698)
 
@@ -1267,7 +1267,7 @@ Prayer bpn2698 in Magyar (bpn2698)
 
 -- Báb
 
-Prayer bpn2699 in Magyar (bpn2699) 
+Prayer bpn2699 (bpn2699) 
 
 [bahaiprayers.net 2699](https://bahaiprayers.net/Book/Single/16/2699)
 
@@ -1280,7 +1280,7 @@ Prayer bpn2699 in Magyar (bpn2699)
 
 -- Báb
 
-Prayer bpn2700 in Magyar (bpn2700) 
+Prayer bpn2700 (bpn2700) 
 
 [bahaiprayers.net 2700](https://bahaiprayers.net/Book/Single/16/2700)
 
@@ -1293,7 +1293,7 @@ Prayer bpn2700 in Magyar (bpn2700)
 
 -- Báb
 
-Prayer bpn2701 in Magyar (bpn2701) 
+Prayer bpn2701 (bpn2701) 
 
 [bahaiprayers.net 2701](https://bahaiprayers.net/Book/Single/16/2701)
 
@@ -1306,7 +1306,7 @@ Prayer bpn2701 in Magyar (bpn2701)
 
 -- Báb
 
-Prayer bpn2702 in Magyar (bpn2702) 
+Prayer bpn2702 (bpn2702) 
 
 [bahaiprayers.net 2702](https://bahaiprayers.net/Book/Single/16/2702)
 
@@ -1319,7 +1319,7 @@ Prayer bpn2702 in Magyar (bpn2702)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2703 in Magyar (bpn2703) 
+Prayer bpn2703 (bpn2703) 
 
 [bahaiprayers.net 2703](https://bahaiprayers.net/Book/Single/16/2703)
 
@@ -1336,7 +1336,7 @@ Prayer bpn2703 in Magyar (bpn2703)
 
 -- Bahá'u'lláh
 
-Prayer bpn2704 in Magyar (bpn2704) 
+Prayer bpn2704 (bpn2704) 
 
 [bahaiprayers.net 2704](https://bahaiprayers.net/Book/Single/16/2704)
 
@@ -1349,7 +1349,7 @@ Prayer bpn2704 in Magyar (bpn2704)
 
 -- Bahá'u'lláh
 
-Prayer bpn2705 in Magyar (bpn2705) 
+Prayer bpn2705 (bpn2705) 
 
 [bahaiprayers.net 2705](https://bahaiprayers.net/Book/Single/16/2705)
 
@@ -1362,7 +1362,7 @@ Prayer bpn2705 in Magyar (bpn2705)
 
 -- Bahá'u'lláh
 
-Prayer bpn2706 in Magyar (bpn2706) 
+Prayer bpn2706 (bpn2706) 
 
 [bahaiprayers.net 2706](https://bahaiprayers.net/Book/Single/16/2706)
 
@@ -1375,7 +1375,7 @@ Prayer bpn2706 in Magyar (bpn2706)
 
 -- Bahá'u'lláh
 
-Prayer bpn2707 in Magyar (bpn2707) 
+Prayer bpn2707 (bpn2707) 
 
 [bahaiprayers.net 2707](https://bahaiprayers.net/Book/Single/16/2707)
 
@@ -1388,7 +1388,7 @@ Prayer bpn2707 in Magyar (bpn2707)
 
 -- Báb
 
-Prayer bpn2708 in Magyar (bpn2708) 
+Prayer bpn2708 (bpn2708) 
 
 [bahaiprayers.net 2708](https://bahaiprayers.net/Book/Single/16/2708)
 
@@ -1401,7 +1401,7 @@ Prayer bpn2708 in Magyar (bpn2708)
 
 -- Báb
 
-Prayer bpn2709 in Magyar (bpn2709) 
+Prayer bpn2709 (bpn2709) 
 
 [bahaiprayers.net 2709](https://bahaiprayers.net/Book/Single/16/2709)
 
@@ -1414,7 +1414,7 @@ Prayer bpn2709 in Magyar (bpn2709)
 
 -- Báb
 
-Prayer bpn2710 in Magyar (bpn2710) 
+Prayer bpn2710 (bpn2710) 
 
 [bahaiprayers.net 2710](https://bahaiprayers.net/Book/Single/16/2710)
 
@@ -1427,7 +1427,7 @@ Prayer bpn2710 in Magyar (bpn2710)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2711 in Magyar (bpn2711) 
+Prayer bpn2711 (bpn2711) 
 
 [bahaiprayers.net 2711](https://bahaiprayers.net/Book/Single/16/2711)
 
@@ -1440,7 +1440,7 @@ Prayer bpn2711 in Magyar (bpn2711)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2712 in Magyar (bpn2712) 
+Prayer bpn2712 (bpn2712) 
 
 [bahaiprayers.net 2712](https://bahaiprayers.net/Book/Single/16/2712)
 
@@ -1457,7 +1457,7 @@ Prayer bpn2712 in Magyar (bpn2712)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2693 in Magyar (bpn2693) 
+Prayer bpn2693 (bpn2693) 
 
 [bahaiprayers.net 2693](https://bahaiprayers.net/Book/Single/16/2693)
 
@@ -1474,7 +1474,7 @@ Prayer bpn2693 in Magyar (bpn2693)
 
 -- Bahá'u'lláh
 
-Prayer bpn2753 in Magyar (bpn2753) 
+Prayer bpn2753 (bpn2753) 
 
 [bahaiprayers.net 2753](https://bahaiprayers.net/Book/Single/16/2753)
 
@@ -1491,7 +1491,7 @@ Prayer bpn2753 in Magyar (bpn2753)
 
 -- Bahá'u'lláh
 
-Prayer bpn2716 in Magyar (bpn2716) 
+Prayer bpn2716 (bpn2716) 
 
 [bahaiprayers.net 2716](https://bahaiprayers.net/Book/Single/16/2716)
 
@@ -1504,7 +1504,7 @@ Prayer bpn2716 in Magyar (bpn2716)
 
 -- Bahá'u'lláh
 
-Prayer bpn2717 in Magyar (bpn2717) 
+Prayer bpn2717 (bpn2717) 
 
 [bahaiprayers.net 2717](https://bahaiprayers.net/Book/Single/16/2717)
 
@@ -1521,7 +1521,7 @@ Prayer bpn2717 in Magyar (bpn2717)
 
 -- Bahá'u'lláh
 
-Prayer bpn2607 in Magyar (bpn2607) 
+Prayer bpn2607 (bpn2607) 
 
 [bahaiprayers.net 2607](https://bahaiprayers.net/Book/Single/16/2607)
 
@@ -1538,7 +1538,7 @@ Prayer bpn2607 in Magyar (bpn2607)
 
 -- Bahá'u'lláh
 
-Prayer bpn2718 in Magyar (bpn2718) 
+Prayer bpn2718 (bpn2718) 
 
 [bahaiprayers.net 2718](https://bahaiprayers.net/Book/Single/16/2718)
 
@@ -1555,7 +1555,7 @@ Prayer bpn2718 in Magyar (bpn2718)
 
 -- Bahá'u'lláh
 
-Prayer bpn2719 in Magyar (bpn2719) 
+Prayer bpn2719 (bpn2719) 
 
 [bahaiprayers.net 2719](https://bahaiprayers.net/Book/Single/16/2719)
 
@@ -1568,7 +1568,7 @@ Prayer bpn2719 in Magyar (bpn2719)
 
 -- Bahá'u'lláh
 
-Prayer bpn2720 in Magyar (bpn2720) 
+Prayer bpn2720 (bpn2720) 
 
 [bahaiprayers.net 2720](https://bahaiprayers.net/Book/Single/16/2720)
 
@@ -1581,7 +1581,7 @@ Prayer bpn2720 in Magyar (bpn2720)
 
 -- Báb
 
-Prayer bpn2721 in Magyar (bpn2721) 
+Prayer bpn2721 (bpn2721) 
 
 [bahaiprayers.net 2721](https://bahaiprayers.net/Book/Single/16/2721)
 
@@ -1594,7 +1594,7 @@ Prayer bpn2721 in Magyar (bpn2721)
 
 -- Báb
 
-Prayer bpn2722 in Magyar (bpn2722) 
+Prayer bpn2722 (bpn2722) 
 
 [bahaiprayers.net 2722](https://bahaiprayers.net/Book/Single/16/2722)
 
@@ -1607,7 +1607,7 @@ Prayer bpn2722 in Magyar (bpn2722)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2723 in Magyar (bpn2723) 
+Prayer bpn2723 (bpn2723) 
 
 [bahaiprayers.net 2723](https://bahaiprayers.net/Book/Single/16/2723)
 
@@ -1620,7 +1620,7 @@ Prayer bpn2723 in Magyar (bpn2723)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2724 in Magyar (bpn2724) 
+Prayer bpn2724 (bpn2724) 
 
 [bahaiprayers.net 2724](https://bahaiprayers.net/Book/Single/16/2724)
 
@@ -1633,7 +1633,7 @@ Prayer bpn2724 in Magyar (bpn2724)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2725 in Magyar (bpn2725) 
+Prayer bpn2725 (bpn2725) 
 
 [bahaiprayers.net 2725](https://bahaiprayers.net/Book/Single/16/2725)
 
@@ -1646,7 +1646,7 @@ Prayer bpn2725 in Magyar (bpn2725)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2726 in Magyar (bpn2726) 
+Prayer bpn2726 (bpn2726) 
 
 [bahaiprayers.net 2726](https://bahaiprayers.net/Book/Single/16/2726)
 
@@ -1663,7 +1663,7 @@ Prayer bpn2726 in Magyar (bpn2726)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2727 in Magyar (bpn2727) 
+Prayer bpn2727 (bpn2727) 
 
 [bahaiprayers.net 2727](https://bahaiprayers.net/Book/Single/16/2727)
 
@@ -1676,7 +1676,7 @@ Prayer bpn2727 in Magyar (bpn2727)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2728 in Magyar (bpn2728) 
+Prayer bpn2728 (bpn2728) 
 
 [bahaiprayers.net 2728](https://bahaiprayers.net/Book/Single/16/2728)
 
@@ -1689,7 +1689,7 @@ Prayer bpn2728 in Magyar (bpn2728)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2729 in Magyar (bpn2729) 
+Prayer bpn2729 (bpn2729) 
 
 [bahaiprayers.net 2729](https://bahaiprayers.net/Book/Single/16/2729)
 
@@ -1706,7 +1706,7 @@ Prayer bpn2729 in Magyar (bpn2729)
 
 -- Bahá'u'lláh
 
-Prayer bpn2749 in Magyar (bpn2749) 
+Prayer bpn2749 (bpn2749) 
 
 [bahaiprayers.net 2749](https://bahaiprayers.net/Book/Single/16/2749)
 
@@ -1719,7 +1719,7 @@ Prayer bpn2749 in Magyar (bpn2749)
 
 -- Bahá'u'lláh
 
-Prayer bpn2750 in Magyar (bpn2750) 
+Prayer bpn2750 (bpn2750) 
 
 [bahaiprayers.net 2750](https://bahaiprayers.net/Book/Single/16/2750)
 
@@ -1732,7 +1732,7 @@ Prayer bpn2750 in Magyar (bpn2750)
 
 -- Bahá'u'lláh
 
-Prayer bpn2751 in Magyar (bpn2751) 
+Prayer bpn2751 (bpn2751) 
 
 [bahaiprayers.net 2751](https://bahaiprayers.net/Book/Single/16/2751)
 
@@ -1745,7 +1745,7 @@ Prayer bpn2751 in Magyar (bpn2751)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2752 in Magyar (bpn2752) 
+Prayer bpn2752 (bpn2752) 
 
 [bahaiprayers.net 2752](https://bahaiprayers.net/Book/Single/16/2752)
 
@@ -1762,7 +1762,7 @@ Prayer bpn2752 in Magyar (bpn2752)
 
 -- Bahá'u'lláh
 
-Prayer bpn2730 in Magyar (bpn2730) 
+Prayer bpn2730 (bpn2730) 
 
 [bahaiprayers.net 2730](https://bahaiprayers.net/Book/Single/16/2730)
 
@@ -1775,7 +1775,7 @@ Prayer bpn2730 in Magyar (bpn2730)
 
 -- Bahá'u'lláh
 
-Prayer bpn2731 in Magyar (bpn2731) 
+Prayer bpn2731 (bpn2731) 
 
 [bahaiprayers.net 2731](https://bahaiprayers.net/Book/Single/16/2731)
 
@@ -1788,7 +1788,7 @@ Prayer bpn2731 in Magyar (bpn2731)
 
 -- Báb
 
-Prayer bpn2732 in Magyar (bpn2732) 
+Prayer bpn2732 (bpn2732) 
 
 [bahaiprayers.net 2732](https://bahaiprayers.net/Book/Single/16/2732)
 
@@ -1801,7 +1801,7 @@ Prayer bpn2732 in Magyar (bpn2732)
 
 -- Báb
 
-Prayer bpn2733 in Magyar (bpn2733) 
+Prayer bpn2733 (bpn2733) 
 
 [bahaiprayers.net 2733](https://bahaiprayers.net/Book/Single/16/2733)
 
@@ -1814,7 +1814,7 @@ Prayer bpn2733 in Magyar (bpn2733)
 
 -- Báb
 
-Prayer bpn2734 in Magyar (bpn2734) 
+Prayer bpn2734 (bpn2734) 
 
 [bahaiprayers.net 2734](https://bahaiprayers.net/Book/Single/16/2734)
 
@@ -1827,7 +1827,7 @@ Prayer bpn2734 in Magyar (bpn2734)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2735 in Magyar (bpn2735) 
+Prayer bpn2735 (bpn2735) 
 
 [bahaiprayers.net 2735](https://bahaiprayers.net/Book/Single/16/2735)
 
@@ -1840,7 +1840,7 @@ Prayer bpn2735 in Magyar (bpn2735)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2736 in Magyar (bpn2736) 
+Prayer bpn2736 (bpn2736) 
 
 [bahaiprayers.net 2736](https://bahaiprayers.net/Book/Single/16/2736)
 
@@ -1853,7 +1853,7 @@ Prayer bpn2736 in Magyar (bpn2736)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2737 in Magyar (bpn2737) 
+Prayer bpn2737 (bpn2737) 
 
 [bahaiprayers.net 2737](https://bahaiprayers.net/Book/Single/16/2737)
 
@@ -1866,7 +1866,7 @@ Prayer bpn2737 in Magyar (bpn2737)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2738 in Magyar (bpn2738) 
+Prayer bpn2738 (bpn2738) 
 
 [bahaiprayers.net 2738](https://bahaiprayers.net/Book/Single/16/2738)
 
@@ -1883,7 +1883,7 @@ Prayer bpn2738 in Magyar (bpn2738)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2747 in Magyar (bpn2747) 
+Prayer bpn2747 (bpn2747) 
 
 [bahaiprayers.net 2747](https://bahaiprayers.net/Book/Single/16/2747)
 
@@ -1896,7 +1896,7 @@ Prayer bpn2747 in Magyar (bpn2747)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2748 in Magyar (bpn2748) 
+Prayer bpn2748 (bpn2748) 
 
 [bahaiprayers.net 2748](https://bahaiprayers.net/Book/Single/16/2748)
 
@@ -1913,7 +1913,7 @@ Prayer bpn2748 in Magyar (bpn2748)
 
 -- Bahá'u'lláh
 
-Prayer bpn2643 in Magyar (bpn2643) 
+Prayer bpn2643 (bpn2643) 
 
 [bahaiprayers.net 2643](https://bahaiprayers.net/Book/Single/16/2643)
 
@@ -1930,7 +1930,7 @@ Prayer bpn2643 in Magyar (bpn2643)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2617 in Magyar (bpn2617) 
+Prayer bpn2617 (bpn2617) 
 
 [bahaiprayers.net 2617](https://bahaiprayers.net/Book/Single/16/2617)
 
@@ -1947,7 +1947,7 @@ Prayer bpn2617 in Magyar (bpn2617)
 
 -- Bahá'u'lláh
 
-Prayer bpn2742 in Magyar (bpn2742) 
+Prayer bpn2742 (bpn2742) 
 
 [bahaiprayers.net 2742](https://bahaiprayers.net/Book/Single/16/2742)
 
@@ -1960,7 +1960,7 @@ Prayer bpn2742 in Magyar (bpn2742)
 
 -- Báb
 
-Prayer bpn2743 in Magyar (bpn2743) 
+Prayer bpn2743 (bpn2743) 
 
 [bahaiprayers.net 2743](https://bahaiprayers.net/Book/Single/16/2743)
 
@@ -1973,7 +1973,7 @@ Prayer bpn2743 in Magyar (bpn2743)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2744 in Magyar (bpn2744) 
+Prayer bpn2744 (bpn2744) 
 
 [bahaiprayers.net 2744](https://bahaiprayers.net/Book/Single/16/2744)
 
@@ -1986,7 +1986,7 @@ Prayer bpn2744 in Magyar (bpn2744)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2745 in Magyar (bpn2745) 
+Prayer bpn2745 (bpn2745) 
 
 [bahaiprayers.net 2745](https://bahaiprayers.net/Book/Single/16/2745)
 
@@ -1999,7 +1999,7 @@ Prayer bpn2745 in Magyar (bpn2745)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2746 in Magyar (bpn2746) 
+Prayer bpn2746 (bpn2746) 
 
 [bahaiprayers.net 2746](https://bahaiprayers.net/Book/Single/16/2746)
 
@@ -2016,7 +2016,7 @@ Prayer bpn2746 in Magyar (bpn2746)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2713 in Magyar (bpn2713) 
+Prayer bpn2713 (bpn2713) 
 
 [bahaiprayers.net 2713](https://bahaiprayers.net/Book/Single/16/2713)
 
@@ -2029,7 +2029,7 @@ Prayer bpn2713 in Magyar (bpn2713)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2714 in Magyar (bpn2714) 
+Prayer bpn2714 (bpn2714) 
 
 [bahaiprayers.net 2714](https://bahaiprayers.net/Book/Single/16/2714)
 
@@ -2042,7 +2042,7 @@ Prayer bpn2714 in Magyar (bpn2714)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2715 in Magyar (bpn2715) 
+Prayer bpn2715 (bpn2715) 
 
 [bahaiprayers.net 2715](https://bahaiprayers.net/Book/Single/16/2715)
 
@@ -2059,7 +2059,7 @@ Prayer bpn2715 in Magyar (bpn2715)
 
 -- Bahá'u'lláh
 
-Prayer bpn2740 in Magyar (bpn2740) 
+Prayer bpn2740 (bpn2740) 
 
 [bahaiprayers.net 2740](https://bahaiprayers.net/Book/Single/16/2740)
 
@@ -2072,7 +2072,7 @@ Prayer bpn2740 in Magyar (bpn2740)
 
 -- Bahá'u'lláh
 
-Prayer bpn2741 in Magyar (bpn2741) 
+Prayer bpn2741 (bpn2741) 
 
 [bahaiprayers.net 2741](https://bahaiprayers.net/Book/Single/16/2741)
 
@@ -2089,7 +2089,7 @@ Prayer bpn2741 in Magyar (bpn2741)
 
 -- Abdu'l-Bahá
 
-Prayer bpn2739 in Magyar (bpn2739) 
+Prayer bpn2739 (bpn2739) 
 
 [bahaiprayers.net 2739](https://bahaiprayers.net/Book/Single/16/2739)
 

@@ -36,7 +36,7 @@ tags = ['lang=ksd', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12991 in Kuanua (bpn12991) 
+Prayer bpn12991 (bpn12991) 
 
 [bahaiprayers.net 12991](https://bahaiprayers.net/Book/Single/111/12991)
 
@@ -49,7 +49,7 @@ Prayer bpn12991 in Kuanua (bpn12991)
 
 -- Bahá'u'lláh
 
-Prayer bpn12992 in Kuanua (bpn12992) 
+Prayer bpn12992 (bpn12992) 
 
 [bahaiprayers.net 12992](https://bahaiprayers.net/Book/Single/111/12992)
 
@@ -66,7 +66,7 @@ Prayer bpn12992 in Kuanua (bpn12992)
 
 -- Báb
 
-Prayer bpn12985 in Kuanua (bpn12985) 
+Prayer bpn12985 (bpn12985) 
 
 [bahaiprayers.net 12985](https://bahaiprayers.net/Book/Single/111/12985)
 
@@ -83,7 +83,7 @@ Prayer bpn12985 in Kuanua (bpn12985)
 
 -- Bahá'u'lláh
 
-Prayer bpn12986 in Kuanua (bpn12986) 
+Prayer bpn12986 (bpn12986) 
 
 [bahaiprayers.net 12986](https://bahaiprayers.net/Book/Single/111/12986)
 
@@ -100,7 +100,7 @@ Prayer bpn12986 in Kuanua (bpn12986)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12990 in Kuanua (bpn12990) 
+Prayer bpn12990 (bpn12990) 
 
 [bahaiprayers.net 12990](https://bahaiprayers.net/Book/Single/111/12990)
 
@@ -117,7 +117,7 @@ Prayer bpn12990 in Kuanua (bpn12990)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12989 in Kuanua (bpn12989) 
+Prayer bpn12989 (bpn12989) 
 
 [bahaiprayers.net 12989](https://bahaiprayers.net/Book/Single/111/12989)
 
@@ -134,7 +134,7 @@ Prayer bpn12989 in Kuanua (bpn12989)
 
 -- Bahá'u'lláh
 
-Prayer bpn12987 in Kuanua (bpn12987) 
+Prayer bpn12987 (bpn12987) 
 
 [bahaiprayers.net 12987](https://bahaiprayers.net/Book/Single/111/12987)
 
@@ -151,7 +151,7 @@ Prayer bpn12987 in Kuanua (bpn12987)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12993 in Kuanua (bpn12993) 
+Prayer bpn12993 (bpn12993) 
 
 [bahaiprayers.net 12993](https://bahaiprayers.net/Book/Single/111/12993)
 
@@ -168,7 +168,7 @@ Prayer bpn12993 in Kuanua (bpn12993)
 
 -- Bahá'u'lláh
 
-Prayer bpn12984 in Kuanua (bpn12984) 
+Prayer bpn12984 (bpn12984) 
 
 [bahaiprayers.net 12984](https://bahaiprayers.net/Book/Single/111/12984)
 
@@ -185,7 +185,7 @@ Prayer bpn12984 in Kuanua (bpn12984)
 
 -- Bahá'u'lláh
 
-Prayer bpn12983 in Kuanua (bpn12983) 
+Prayer bpn12983 (bpn12983) 
 
 [bahaiprayers.net 12983](https://bahaiprayers.net/Book/Single/111/12983)
 
@@ -202,7 +202,7 @@ Prayer bpn12983 in Kuanua (bpn12983)
 
 -- Bahá'u'lláh
 
-Prayer bpn12988 in Kuanua (bpn12988) 
+Prayer bpn12988 (bpn12988) 
 
 [bahaiprayers.net 12988](https://bahaiprayers.net/Book/Single/111/12988)
 

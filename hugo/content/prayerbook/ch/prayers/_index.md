@@ -40,7 +40,7 @@ tags = ['lang=ch', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn6114 in Chamorro (bpn6114) 
+Prayer bpn6114 (bpn6114) 
 
 [bahaiprayers.net 6114](https://bahaiprayers.net/Book/Single/52/6114)
 
@@ -57,7 +57,7 @@ Prayer bpn6114 in Chamorro (bpn6114)
 
 -- Bahá'u'lláh
 
-Prayer bpn6113 in Chamorro (bpn6113) 
+Prayer bpn6113 (bpn6113) 
 
 [bahaiprayers.net 6113](https://bahaiprayers.net/Book/Single/52/6113)
 
@@ -74,7 +74,7 @@ Prayer bpn6113 in Chamorro (bpn6113)
 
 -- Bahá'u'lláh
 
-Prayer bpn6111 in Chamorro (bpn6111) 
+Prayer bpn6111 (bpn6111) 
 
 [bahaiprayers.net 6111](https://bahaiprayers.net/Book/Single/52/6111)
 
@@ -91,7 +91,7 @@ Prayer bpn6111 in Chamorro (bpn6111)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6112 in Chamorro (bpn6112) 
+Prayer bpn6112 (bpn6112) 
 
 [bahaiprayers.net 6112](https://bahaiprayers.net/Book/Single/52/6112)
 
@@ -108,7 +108,7 @@ Prayer bpn6112 in Chamorro (bpn6112)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6119 in Chamorro (bpn6119) 
+Prayer bpn6119 (bpn6119) 
 
 [bahaiprayers.net 6119](https://bahaiprayers.net/Book/Single/52/6119)
 
@@ -125,7 +125,7 @@ Prayer bpn6119 in Chamorro (bpn6119)
 
 -- Bahá'u'lláh
 
-Prayer bpn6107 in Chamorro (bpn6107) 
+Prayer bpn6107 (bpn6107) 
 
 [bahaiprayers.net 6107](https://bahaiprayers.net/Book/Single/52/6107)
 
@@ -142,7 +142,7 @@ Prayer bpn6107 in Chamorro (bpn6107)
 
 -- Bahá'u'lláh
 
-Prayer bpn6108 in Chamorro (bpn6108) 
+Prayer bpn6108 (bpn6108) 
 
 [bahaiprayers.net 6108](https://bahaiprayers.net/Book/Single/52/6108)
 
@@ -155,7 +155,7 @@ Prayer bpn6108 in Chamorro (bpn6108)
 
 -- Bahá'u'lláh
 
-Prayer bpn6109 in Chamorro (bpn6109) 
+Prayer bpn6109 (bpn6109) 
 
 [bahaiprayers.net 6109](https://bahaiprayers.net/Book/Single/52/6109)
 
@@ -172,7 +172,7 @@ Prayer bpn6109 in Chamorro (bpn6109)
 
 -- Bahá'u'lláh
 
-Prayer bpn6122 in Chamorro (bpn6122) 
+Prayer bpn6122 (bpn6122) 
 
 [bahaiprayers.net 6122](https://bahaiprayers.net/Book/Single/52/6122)
 
@@ -185,7 +185,7 @@ Prayer bpn6122 in Chamorro (bpn6122)
 
 -- Bahá'u'lláh
 
-Prayer bpn6123 in Chamorro (bpn6123) 
+Prayer bpn6123 (bpn6123) 
 
 [bahaiprayers.net 6123](https://bahaiprayers.net/Book/Single/52/6123)
 
@@ -198,7 +198,7 @@ Prayer bpn6123 in Chamorro (bpn6123)
 
 -- Bahá'u'lláh
 
-Prayer bpn6124 in Chamorro (bpn6124) 
+Prayer bpn6124 (bpn6124) 
 
 [bahaiprayers.net 6124](https://bahaiprayers.net/Book/Single/52/6124)
 
@@ -211,7 +211,7 @@ Prayer bpn6124 in Chamorro (bpn6124)
 
 -- Bahá'u'lláh
 
-Prayer bpn6126 in Chamorro (bpn6126) 
+Prayer bpn6126 (bpn6126) 
 
 [bahaiprayers.net 6126](https://bahaiprayers.net/Book/Single/52/6126)
 
@@ -224,7 +224,7 @@ Prayer bpn6126 in Chamorro (bpn6126)
 
 -- Bahá'u'lláh
 
-Prayer bpn6125 in Chamorro (bpn6125) 
+Prayer bpn6125 (bpn6125) 
 
 [bahaiprayers.net 6125](https://bahaiprayers.net/Book/Single/52/6125)
 
@@ -237,7 +237,7 @@ Prayer bpn6125 in Chamorro (bpn6125)
 
 -- Báb
 
-Prayer bpn6127 in Chamorro (bpn6127) 
+Prayer bpn6127 (bpn6127) 
 
 [bahaiprayers.net 6127](https://bahaiprayers.net/Book/Single/52/6127)
 
@@ -250,7 +250,7 @@ Prayer bpn6127 in Chamorro (bpn6127)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6129 in Chamorro (bpn6129) 
+Prayer bpn6129 (bpn6129) 
 
 [bahaiprayers.net 6129](https://bahaiprayers.net/Book/Single/52/6129)
 
@@ -263,7 +263,7 @@ Prayer bpn6129 in Chamorro (bpn6129)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6130 in Chamorro (bpn6130) 
+Prayer bpn6130 (bpn6130) 
 
 [bahaiprayers.net 6130](https://bahaiprayers.net/Book/Single/52/6130)
 
@@ -276,7 +276,7 @@ Prayer bpn6130 in Chamorro (bpn6130)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6132 in Chamorro (bpn6132) 
+Prayer bpn6132 (bpn6132) 
 
 [bahaiprayers.net 6132](https://bahaiprayers.net/Book/Single/52/6132)
 
@@ -289,7 +289,7 @@ Prayer bpn6132 in Chamorro (bpn6132)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6134 in Chamorro (bpn6134) 
+Prayer bpn6134 (bpn6134) 
 
 [bahaiprayers.net 6134](https://bahaiprayers.net/Book/Single/52/6134)
 
@@ -302,7 +302,7 @@ Prayer bpn6134 in Chamorro (bpn6134)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6133 in Chamorro (bpn6133) 
+Prayer bpn6133 (bpn6133) 
 
 [bahaiprayers.net 6133](https://bahaiprayers.net/Book/Single/52/6133)
 
@@ -315,7 +315,7 @@ Prayer bpn6133 in Chamorro (bpn6133)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6131 in Chamorro (bpn6131) 
+Prayer bpn6131 (bpn6131) 
 
 [bahaiprayers.net 6131](https://bahaiprayers.net/Book/Single/52/6131)
 
@@ -328,7 +328,7 @@ Prayer bpn6131 in Chamorro (bpn6131)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6128 in Chamorro (bpn6128) 
+Prayer bpn6128 (bpn6128) 
 
 [bahaiprayers.net 6128](https://bahaiprayers.net/Book/Single/52/6128)
 
@@ -345,7 +345,7 @@ Prayer bpn6128 in Chamorro (bpn6128)
 
 -- Bahá'u'lláh
 
-Prayer bpn6120 in Chamorro (bpn6120) 
+Prayer bpn6120 (bpn6120) 
 
 [bahaiprayers.net 6120](https://bahaiprayers.net/Book/Single/52/6120)
 
@@ -358,7 +358,7 @@ Prayer bpn6120 in Chamorro (bpn6120)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6121 in Chamorro (bpn6121) 
+Prayer bpn6121 (bpn6121) 
 
 [bahaiprayers.net 6121](https://bahaiprayers.net/Book/Single/52/6121)
 
@@ -375,7 +375,7 @@ Prayer bpn6121 in Chamorro (bpn6121)
 
 -- Bahá'u'lláh
 
-Prayer bpn6110 in Chamorro (bpn6110) 
+Prayer bpn6110 (bpn6110) 
 
 [bahaiprayers.net 6110](https://bahaiprayers.net/Book/Single/52/6110)
 
@@ -392,7 +392,7 @@ Prayer bpn6110 in Chamorro (bpn6110)
 
 -- Bahá'u'lláh
 
-Prayer bpn6106 in Chamorro (bpn6106) 
+Prayer bpn6106 (bpn6106) 
 
 [bahaiprayers.net 6106](https://bahaiprayers.net/Book/Single/52/6106)
 
@@ -409,7 +409,7 @@ Prayer bpn6106 in Chamorro (bpn6106)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6115 in Chamorro (bpn6115) 
+Prayer bpn6115 (bpn6115) 
 
 [bahaiprayers.net 6115](https://bahaiprayers.net/Book/Single/52/6115)
 
@@ -422,7 +422,7 @@ Prayer bpn6115 in Chamorro (bpn6115)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6116 in Chamorro (bpn6116) 
+Prayer bpn6116 (bpn6116) 
 
 [bahaiprayers.net 6116](https://bahaiprayers.net/Book/Single/52/6116)
 
@@ -435,7 +435,7 @@ Prayer bpn6116 in Chamorro (bpn6116)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6117 in Chamorro (bpn6117) 
+Prayer bpn6117 (bpn6117) 
 
 [bahaiprayers.net 6117](https://bahaiprayers.net/Book/Single/52/6117)
 
@@ -448,7 +448,7 @@ Prayer bpn6117 in Chamorro (bpn6117)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6118 in Chamorro (bpn6118) 
+Prayer bpn6118 (bpn6118) 
 
 [bahaiprayers.net 6118](https://bahaiprayers.net/Book/Single/52/6118)
 

@@ -48,7 +48,7 @@ tags = ['lang=ur', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn8969 in اُردُو (bpn8969) 
+Prayer bpn8969 (bpn8969) 
 
 [bahaiprayers.net 8969](https://bahaiprayers.net/Book/Single/76/8969)
 
@@ -65,7 +65,7 @@ Prayer bpn8969 in اُردُو (bpn8969)
 
 -- Bahá'u'lláh
 
-Prayer bpn8963 in اُردُو (bpn8963) 
+Prayer bpn8963 (bpn8963) 
 
 [bahaiprayers.net 8963](https://bahaiprayers.net/Book/Single/76/8963)
 
@@ -82,7 +82,7 @@ Prayer bpn8963 in اُردُو (bpn8963)
 
 -- Bahá'u'lláh
 
-Prayer bpn8966 in اُردُو (bpn8966) 
+Prayer bpn8966 (bpn8966) 
 
 [bahaiprayers.net 8966](https://bahaiprayers.net/Book/Single/76/8966)
 
@@ -99,7 +99,7 @@ Prayer bpn8966 in اُردُو (bpn8966)
 
 -- Bahá'u'lláh
 
-Prayer bpn8973 in اُردُو (bpn8973) 
+Prayer bpn8973 (bpn8973) 
 
 [bahaiprayers.net 8973](https://bahaiprayers.net/Book/Single/76/8973)
 
@@ -112,7 +112,7 @@ Prayer bpn8973 in اُردُو (bpn8973)
 
 -- Bahá'u'lláh
 
-Prayer bpn8974 in اُردُو (bpn8974) 
+Prayer bpn8974 (bpn8974) 
 
 [bahaiprayers.net 8974](https://bahaiprayers.net/Book/Single/76/8974)
 
@@ -125,7 +125,7 @@ Prayer bpn8974 in اُردُو (bpn8974)
 
 -- Bahá'u'lláh
 
-Prayer bpn8975 in اُردُو (bpn8975) 
+Prayer bpn8975 (bpn8975) 
 
 [bahaiprayers.net 8975](https://bahaiprayers.net/Book/Single/76/8975)
 
@@ -138,7 +138,7 @@ Prayer bpn8975 in اُردُو (bpn8975)
 
 -- Bahá'u'lláh
 
-Prayer bpn8976 in اُردُو (bpn8976) 
+Prayer bpn8976 (bpn8976) 
 
 [bahaiprayers.net 8976](https://bahaiprayers.net/Book/Single/76/8976)
 
@@ -151,7 +151,7 @@ Prayer bpn8976 in اُردُو (bpn8976)
 
 -- Bahá'u'lláh
 
-Prayer bpn8977 in اُردُو (bpn8977) 
+Prayer bpn8977 (bpn8977) 
 
 [bahaiprayers.net 8977](https://bahaiprayers.net/Book/Single/76/8977)
 
@@ -164,7 +164,7 @@ Prayer bpn8977 in اُردُو (bpn8977)
 
 -- Bahá'u'lláh
 
-Prayer bpn8978 in اُردُو (bpn8978) 
+Prayer bpn8978 (bpn8978) 
 
 [bahaiprayers.net 8978](https://bahaiprayers.net/Book/Single/76/8978)
 
@@ -177,7 +177,7 @@ Prayer bpn8978 in اُردُو (bpn8978)
 
 -- Bahá'u'lláh
 
-Prayer bpn8979 in اُردُو (bpn8979) 
+Prayer bpn8979 (bpn8979) 
 
 [bahaiprayers.net 8979](https://bahaiprayers.net/Book/Single/76/8979)
 
@@ -190,7 +190,7 @@ Prayer bpn8979 in اُردُو (bpn8979)
 
 -- Bahá'u'lláh
 
-Prayer bpn8980 in اُردُو (bpn8980) 
+Prayer bpn8980 (bpn8980) 
 
 [bahaiprayers.net 8980](https://bahaiprayers.net/Book/Single/76/8980)
 
@@ -203,7 +203,7 @@ Prayer bpn8980 in اُردُو (bpn8980)
 
 -- Bahá'u'lláh
 
-Prayer bpn8981 in اُردُو (bpn8981) 
+Prayer bpn8981 (bpn8981) 
 
 [bahaiprayers.net 8981](https://bahaiprayers.net/Book/Single/76/8981)
 
@@ -216,7 +216,7 @@ Prayer bpn8981 in اُردُو (bpn8981)
 
 -- Bahá'u'lláh
 
-Prayer bpn8982 in اُردُو (bpn8982) 
+Prayer bpn8982 (bpn8982) 
 
 [bahaiprayers.net 8982](https://bahaiprayers.net/Book/Single/76/8982)
 
@@ -229,7 +229,7 @@ Prayer bpn8982 in اُردُو (bpn8982)
 
 -- Bahá'u'lláh
 
-Prayer bpn8983 in اُردُو (bpn8983) 
+Prayer bpn8983 (bpn8983) 
 
 [bahaiprayers.net 8983](https://bahaiprayers.net/Book/Single/76/8983)
 
@@ -242,7 +242,7 @@ Prayer bpn8983 in اُردُو (bpn8983)
 
 -- Bahá'u'lláh
 
-Prayer bpn8984 in اُردُو (bpn8984) 
+Prayer bpn8984 (bpn8984) 
 
 [bahaiprayers.net 8984](https://bahaiprayers.net/Book/Single/76/8984)
 
@@ -255,7 +255,7 @@ Prayer bpn8984 in اُردُو (bpn8984)
 
 -- Bahá'u'lláh
 
-Prayer bpn8985 in اُردُو (bpn8985) 
+Prayer bpn8985 (bpn8985) 
 
 [bahaiprayers.net 8985](https://bahaiprayers.net/Book/Single/76/8985)
 
@@ -268,7 +268,7 @@ Prayer bpn8985 in اُردُو (bpn8985)
 
 -- Bahá'u'lláh
 
-Prayer bpn8986 in اُردُو (bpn8986) 
+Prayer bpn8986 (bpn8986) 
 
 [bahaiprayers.net 8986](https://bahaiprayers.net/Book/Single/76/8986)
 
@@ -281,7 +281,7 @@ Prayer bpn8986 in اُردُو (bpn8986)
 
 -- Bahá'u'lláh
 
-Prayer bpn8987 in اُردُو (bpn8987) 
+Prayer bpn8987 (bpn8987) 
 
 [bahaiprayers.net 8987](https://bahaiprayers.net/Book/Single/76/8987)
 
@@ -294,7 +294,7 @@ Prayer bpn8987 in اُردُو (bpn8987)
 
 -- Bahá'u'lláh
 
-Prayer bpn8988 in اُردُو (bpn8988) 
+Prayer bpn8988 (bpn8988) 
 
 [bahaiprayers.net 8988](https://bahaiprayers.net/Book/Single/76/8988)
 
@@ -307,7 +307,7 @@ Prayer bpn8988 in اُردُو (bpn8988)
 
 -- Bahá'u'lláh
 
-Prayer bpn8989 in اُردُو (bpn8989) 
+Prayer bpn8989 (bpn8989) 
 
 [bahaiprayers.net 8989](https://bahaiprayers.net/Book/Single/76/8989)
 
@@ -320,7 +320,7 @@ Prayer bpn8989 in اُردُو (bpn8989)
 
 -- Bahá'u'lláh
 
-Prayer bpn8990 in اُردُو (bpn8990) 
+Prayer bpn8990 (bpn8990) 
 
 [bahaiprayers.net 8990](https://bahaiprayers.net/Book/Single/76/8990)
 
@@ -333,7 +333,7 @@ Prayer bpn8990 in اُردُو (bpn8990)
 
 -- Bahá'u'lláh
 
-Prayer bpn8991 in اُردُو (bpn8991) 
+Prayer bpn8991 (bpn8991) 
 
 [bahaiprayers.net 8991](https://bahaiprayers.net/Book/Single/76/8991)
 
@@ -346,7 +346,7 @@ Prayer bpn8991 in اُردُو (bpn8991)
 
 -- Bahá'u'lláh
 
-Prayer bpn8992 in اُردُو (bpn8992) 
+Prayer bpn8992 (bpn8992) 
 
 [bahaiprayers.net 8992](https://bahaiprayers.net/Book/Single/76/8992)
 
@@ -359,7 +359,7 @@ Prayer bpn8992 in اُردُو (bpn8992)
 
 -- Bahá'u'lláh
 
-Prayer bpn8993 in اُردُو (bpn8993) 
+Prayer bpn8993 (bpn8993) 
 
 [bahaiprayers.net 8993](https://bahaiprayers.net/Book/Single/76/8993)
 
@@ -372,7 +372,7 @@ Prayer bpn8993 in اُردُو (bpn8993)
 
 -- Bahá'u'lláh
 
-Prayer bpn8994 in اُردُو (bpn8994) 
+Prayer bpn8994 (bpn8994) 
 
 [bahaiprayers.net 8994](https://bahaiprayers.net/Book/Single/76/8994)
 
@@ -385,7 +385,7 @@ Prayer bpn8994 in اُردُو (bpn8994)
 
 -- Bahá'u'lláh
 
-Prayer bpn8995 in اُردُو (bpn8995) 
+Prayer bpn8995 (bpn8995) 
 
 [bahaiprayers.net 8995](https://bahaiprayers.net/Book/Single/76/8995)
 
@@ -398,7 +398,7 @@ Prayer bpn8995 in اُردُو (bpn8995)
 
 -- Bahá'u'lláh
 
-Prayer bpn8996 in اُردُو (bpn8996) 
+Prayer bpn8996 (bpn8996) 
 
 [bahaiprayers.net 8996](https://bahaiprayers.net/Book/Single/76/8996)
 
@@ -411,7 +411,7 @@ Prayer bpn8996 in اُردُو (bpn8996)
 
 -- Bahá'u'lláh
 
-Prayer bpn8997 in اُردُو (bpn8997) 
+Prayer bpn8997 (bpn8997) 
 
 [bahaiprayers.net 8997](https://bahaiprayers.net/Book/Single/76/8997)
 
@@ -424,7 +424,7 @@ Prayer bpn8997 in اُردُو (bpn8997)
 
 -- Bahá'u'lláh
 
-Prayer bpn8998 in اُردُو (bpn8998) 
+Prayer bpn8998 (bpn8998) 
 
 [bahaiprayers.net 8998](https://bahaiprayers.net/Book/Single/76/8998)
 
@@ -437,7 +437,7 @@ Prayer bpn8998 in اُردُو (bpn8998)
 
 -- Bahá'u'lláh
 
-Prayer bpn8999 in اُردُو (bpn8999) 
+Prayer bpn8999 (bpn8999) 
 
 [bahaiprayers.net 8999](https://bahaiprayers.net/Book/Single/76/8999)
 
@@ -450,7 +450,7 @@ Prayer bpn8999 in اُردُو (bpn8999)
 
 -- Bahá'u'lláh
 
-Prayer bpn9000 in اُردُو (bpn9000) 
+Prayer bpn9000 (bpn9000) 
 
 [bahaiprayers.net 9000](https://bahaiprayers.net/Book/Single/76/9000)
 
@@ -463,7 +463,7 @@ Prayer bpn9000 in اُردُو (bpn9000)
 
 -- Bahá'u'lláh
 
-Prayer bpn9001 in اُردُو (bpn9001) 
+Prayer bpn9001 (bpn9001) 
 
 [bahaiprayers.net 9001](https://bahaiprayers.net/Book/Single/76/9001)
 
@@ -476,7 +476,7 @@ Prayer bpn9001 in اُردُو (bpn9001)
 
 -- Bahá'u'lláh
 
-Prayer bpn9002 in اُردُو (bpn9002) 
+Prayer bpn9002 (bpn9002) 
 
 [bahaiprayers.net 9002](https://bahaiprayers.net/Book/Single/76/9002)
 
@@ -489,7 +489,7 @@ Prayer bpn9002 in اُردُو (bpn9002)
 
 -- Bahá'u'lláh
 
-Prayer bpn9003 in اُردُو (bpn9003) 
+Prayer bpn9003 (bpn9003) 
 
 [bahaiprayers.net 9003](https://bahaiprayers.net/Book/Single/76/9003)
 
@@ -502,7 +502,7 @@ Prayer bpn9003 in اُردُو (bpn9003)
 
 -- Bahá'u'lláh
 
-Prayer bpn9004 in اُردُو (bpn9004) 
+Prayer bpn9004 (bpn9004) 
 
 [bahaiprayers.net 9004](https://bahaiprayers.net/Book/Single/76/9004)
 
@@ -515,7 +515,7 @@ Prayer bpn9004 in اُردُو (bpn9004)
 
 -- Bahá'u'lláh
 
-Prayer bpn9005 in اُردُو (bpn9005) 
+Prayer bpn9005 (bpn9005) 
 
 [bahaiprayers.net 9005](https://bahaiprayers.net/Book/Single/76/9005)
 
@@ -528,7 +528,7 @@ Prayer bpn9005 in اُردُو (bpn9005)
 
 -- Bahá'u'lláh
 
-Prayer bpn9006 in اُردُو (bpn9006) 
+Prayer bpn9006 (bpn9006) 
 
 [bahaiprayers.net 9006](https://bahaiprayers.net/Book/Single/76/9006)
 
@@ -541,7 +541,7 @@ Prayer bpn9006 in اُردُو (bpn9006)
 
 -- Bahá'u'lláh
 
-Prayer bpn9007 in اُردُو (bpn9007) 
+Prayer bpn9007 (bpn9007) 
 
 [bahaiprayers.net 9007](https://bahaiprayers.net/Book/Single/76/9007)
 
@@ -554,7 +554,7 @@ Prayer bpn9007 in اُردُو (bpn9007)
 
 -- Bahá'u'lláh
 
-Prayer bpn9008 in اُردُو (bpn9008) 
+Prayer bpn9008 (bpn9008) 
 
 [bahaiprayers.net 9008](https://bahaiprayers.net/Book/Single/76/9008)
 
@@ -567,7 +567,7 @@ Prayer bpn9008 in اُردُو (bpn9008)
 
 -- Bahá'u'lláh
 
-Prayer bpn9009 in اُردُو (bpn9009) 
+Prayer bpn9009 (bpn9009) 
 
 [bahaiprayers.net 9009](https://bahaiprayers.net/Book/Single/76/9009)
 
@@ -580,7 +580,7 @@ Prayer bpn9009 in اُردُو (bpn9009)
 
 -- Bahá'u'lláh
 
-Prayer bpn9010 in اُردُو (bpn9010) 
+Prayer bpn9010 (bpn9010) 
 
 [bahaiprayers.net 9010](https://bahaiprayers.net/Book/Single/76/9010)
 
@@ -593,7 +593,7 @@ Prayer bpn9010 in اُردُو (bpn9010)
 
 -- Bahá'u'lláh
 
-Prayer bpn9011 in اُردُو (bpn9011) 
+Prayer bpn9011 (bpn9011) 
 
 [bahaiprayers.net 9011](https://bahaiprayers.net/Book/Single/76/9011)
 
@@ -606,7 +606,7 @@ Prayer bpn9011 in اُردُو (bpn9011)
 
 -- Bahá'u'lláh
 
-Prayer bpn9012 in اُردُو (bpn9012) 
+Prayer bpn9012 (bpn9012) 
 
 [bahaiprayers.net 9012](https://bahaiprayers.net/Book/Single/76/9012)
 
@@ -619,7 +619,7 @@ Prayer bpn9012 in اُردُو (bpn9012)
 
 -- Bahá'u'lláh
 
-Prayer bpn9013 in اُردُو (bpn9013) 
+Prayer bpn9013 (bpn9013) 
 
 [bahaiprayers.net 9013](https://bahaiprayers.net/Book/Single/76/9013)
 
@@ -632,7 +632,7 @@ Prayer bpn9013 in اُردُو (bpn9013)
 
 -- Bahá'u'lláh
 
-Prayer bpn9014 in اُردُو (bpn9014) 
+Prayer bpn9014 (bpn9014) 
 
 [bahaiprayers.net 9014](https://bahaiprayers.net/Book/Single/76/9014)
 
@@ -645,7 +645,7 @@ Prayer bpn9014 in اُردُو (bpn9014)
 
 -- Bahá'u'lláh
 
-Prayer bpn9015 in اُردُو (bpn9015) 
+Prayer bpn9015 (bpn9015) 
 
 [bahaiprayers.net 9015](https://bahaiprayers.net/Book/Single/76/9015)
 
@@ -658,7 +658,7 @@ Prayer bpn9015 in اُردُو (bpn9015)
 
 -- Bahá'u'lláh
 
-Prayer bpn9016 in اُردُو (bpn9016) 
+Prayer bpn9016 (bpn9016) 
 
 [bahaiprayers.net 9016](https://bahaiprayers.net/Book/Single/76/9016)
 
@@ -671,7 +671,7 @@ Prayer bpn9016 in اُردُو (bpn9016)
 
 -- Bahá'u'lláh
 
-Prayer bpn9017 in اُردُو (bpn9017) 
+Prayer bpn9017 (bpn9017) 
 
 [bahaiprayers.net 9017](https://bahaiprayers.net/Book/Single/76/9017)
 
@@ -684,7 +684,7 @@ Prayer bpn9017 in اُردُو (bpn9017)
 
 -- Bahá'u'lláh
 
-Prayer bpn9018 in اُردُو (bpn9018) 
+Prayer bpn9018 (bpn9018) 
 
 [bahaiprayers.net 9018](https://bahaiprayers.net/Book/Single/76/9018)
 
@@ -697,7 +697,7 @@ Prayer bpn9018 in اُردُو (bpn9018)
 
 -- Bahá'u'lláh
 
-Prayer bpn9019 in اُردُو (bpn9019) 
+Prayer bpn9019 (bpn9019) 
 
 [bahaiprayers.net 9019](https://bahaiprayers.net/Book/Single/76/9019)
 
@@ -710,7 +710,7 @@ Prayer bpn9019 in اُردُو (bpn9019)
 
 -- Bahá'u'lláh
 
-Prayer bpn9020 in اُردُو (bpn9020) 
+Prayer bpn9020 (bpn9020) 
 
 [bahaiprayers.net 9020](https://bahaiprayers.net/Book/Single/76/9020)
 
@@ -723,7 +723,7 @@ Prayer bpn9020 in اُردُو (bpn9020)
 
 -- Bahá'u'lláh
 
-Prayer bpn9021 in اُردُو (bpn9021) 
+Prayer bpn9021 (bpn9021) 
 
 [bahaiprayers.net 9021](https://bahaiprayers.net/Book/Single/76/9021)
 
@@ -736,7 +736,7 @@ Prayer bpn9021 in اُردُو (bpn9021)
 
 -- Bahá'u'lláh
 
-Prayer bpn9022 in اُردُو (bpn9022) 
+Prayer bpn9022 (bpn9022) 
 
 [bahaiprayers.net 9022](https://bahaiprayers.net/Book/Single/76/9022)
 
@@ -749,7 +749,7 @@ Prayer bpn9022 in اُردُو (bpn9022)
 
 -- Bahá'u'lláh
 
-Prayer bpn9023 in اُردُو (bpn9023) 
+Prayer bpn9023 (bpn9023) 
 
 [bahaiprayers.net 9023](https://bahaiprayers.net/Book/Single/76/9023)
 
@@ -762,7 +762,7 @@ Prayer bpn9023 in اُردُو (bpn9023)
 
 -- Bahá'u'lláh
 
-Prayer bpn9024 in اُردُو (bpn9024) 
+Prayer bpn9024 (bpn9024) 
 
 [bahaiprayers.net 9024](https://bahaiprayers.net/Book/Single/76/9024)
 
@@ -775,7 +775,7 @@ Prayer bpn9024 in اُردُو (bpn9024)
 
 -- Bahá'u'lláh
 
-Prayer bpn9025 in اُردُو (bpn9025) 
+Prayer bpn9025 (bpn9025) 
 
 [bahaiprayers.net 9025](https://bahaiprayers.net/Book/Single/76/9025)
 
@@ -788,7 +788,7 @@ Prayer bpn9025 in اُردُو (bpn9025)
 
 -- Bahá'u'lláh
 
-Prayer bpn9026 in اُردُو (bpn9026) 
+Prayer bpn9026 (bpn9026) 
 
 [bahaiprayers.net 9026](https://bahaiprayers.net/Book/Single/76/9026)
 
@@ -801,7 +801,7 @@ Prayer bpn9026 in اُردُو (bpn9026)
 
 -- Bahá'u'lláh
 
-Prayer bpn9027 in اُردُو (bpn9027) 
+Prayer bpn9027 (bpn9027) 
 
 [bahaiprayers.net 9027](https://bahaiprayers.net/Book/Single/76/9027)
 
@@ -814,7 +814,7 @@ Prayer bpn9027 in اُردُو (bpn9027)
 
 -- Bahá'u'lláh
 
-Prayer bpn9028 in اُردُو (bpn9028) 
+Prayer bpn9028 (bpn9028) 
 
 [bahaiprayers.net 9028](https://bahaiprayers.net/Book/Single/76/9028)
 
@@ -827,7 +827,7 @@ Prayer bpn9028 in اُردُو (bpn9028)
 
 -- Bahá'u'lláh
 
-Prayer bpn9029 in اُردُو (bpn9029) 
+Prayer bpn9029 (bpn9029) 
 
 [bahaiprayers.net 9029](https://bahaiprayers.net/Book/Single/76/9029)
 
@@ -840,7 +840,7 @@ Prayer bpn9029 in اُردُو (bpn9029)
 
 -- Bahá'u'lláh
 
-Prayer bpn9030 in اُردُو (bpn9030) 
+Prayer bpn9030 (bpn9030) 
 
 [bahaiprayers.net 9030](https://bahaiprayers.net/Book/Single/76/9030)
 
@@ -853,7 +853,7 @@ Prayer bpn9030 in اُردُو (bpn9030)
 
 -- Bahá'u'lláh
 
-Prayer bpn9031 in اُردُو (bpn9031) 
+Prayer bpn9031 (bpn9031) 
 
 [bahaiprayers.net 9031](https://bahaiprayers.net/Book/Single/76/9031)
 
@@ -866,7 +866,7 @@ Prayer bpn9031 in اُردُو (bpn9031)
 
 -- Bahá'u'lláh
 
-Prayer bpn9032 in اُردُو (bpn9032) 
+Prayer bpn9032 (bpn9032) 
 
 [bahaiprayers.net 9032](https://bahaiprayers.net/Book/Single/76/9032)
 
@@ -879,7 +879,7 @@ Prayer bpn9032 in اُردُو (bpn9032)
 
 -- Bahá'u'lláh
 
-Prayer bpn9033 in اُردُو (bpn9033) 
+Prayer bpn9033 (bpn9033) 
 
 [bahaiprayers.net 9033](https://bahaiprayers.net/Book/Single/76/9033)
 
@@ -892,7 +892,7 @@ Prayer bpn9033 in اُردُو (bpn9033)
 
 -- Bahá'u'lláh
 
-Prayer bpn9034 in اُردُو (bpn9034) 
+Prayer bpn9034 (bpn9034) 
 
 [bahaiprayers.net 9034](https://bahaiprayers.net/Book/Single/76/9034)
 
@@ -905,7 +905,7 @@ Prayer bpn9034 in اُردُو (bpn9034)
 
 -- Bahá'u'lláh
 
-Prayer bpn9035 in اُردُو (bpn9035) 
+Prayer bpn9035 (bpn9035) 
 
 [bahaiprayers.net 9035](https://bahaiprayers.net/Book/Single/76/9035)
 
@@ -918,7 +918,7 @@ Prayer bpn9035 in اُردُو (bpn9035)
 
 -- Bahá'u'lláh
 
-Prayer bpn9036 in اُردُو (bpn9036) 
+Prayer bpn9036 (bpn9036) 
 
 [bahaiprayers.net 9036](https://bahaiprayers.net/Book/Single/76/9036)
 
@@ -931,7 +931,7 @@ Prayer bpn9036 in اُردُو (bpn9036)
 
 -- Bahá'u'lláh
 
-Prayer bpn9037 in اُردُو (bpn9037) 
+Prayer bpn9037 (bpn9037) 
 
 [bahaiprayers.net 9037](https://bahaiprayers.net/Book/Single/76/9037)
 
@@ -944,7 +944,7 @@ Prayer bpn9037 in اُردُو (bpn9037)
 
 -- Bahá'u'lláh
 
-Prayer bpn9038 in اُردُو (bpn9038) 
+Prayer bpn9038 (bpn9038) 
 
 [bahaiprayers.net 9038](https://bahaiprayers.net/Book/Single/76/9038)
 
@@ -957,7 +957,7 @@ Prayer bpn9038 in اُردُو (bpn9038)
 
 -- Bahá'u'lláh
 
-Prayer bpn9039 in اُردُو (bpn9039) 
+Prayer bpn9039 (bpn9039) 
 
 [bahaiprayers.net 9039](https://bahaiprayers.net/Book/Single/76/9039)
 
@@ -970,7 +970,7 @@ Prayer bpn9039 in اُردُو (bpn9039)
 
 -- Bahá'u'lláh
 
-Prayer bpn9040 in اُردُو (bpn9040) 
+Prayer bpn9040 (bpn9040) 
 
 [bahaiprayers.net 9040](https://bahaiprayers.net/Book/Single/76/9040)
 
@@ -983,7 +983,7 @@ Prayer bpn9040 in اُردُو (bpn9040)
 
 -- Bahá'u'lláh
 
-Prayer bpn9041 in اُردُو (bpn9041) 
+Prayer bpn9041 (bpn9041) 
 
 [bahaiprayers.net 9041](https://bahaiprayers.net/Book/Single/76/9041)
 
@@ -996,7 +996,7 @@ Prayer bpn9041 in اُردُو (bpn9041)
 
 -- Bahá'u'lláh
 
-Prayer bpn9042 in اُردُو (bpn9042) 
+Prayer bpn9042 (bpn9042) 
 
 [bahaiprayers.net 9042](https://bahaiprayers.net/Book/Single/76/9042)
 
@@ -1009,7 +1009,7 @@ Prayer bpn9042 in اُردُو (bpn9042)
 
 -- Bahá'u'lláh
 
-Prayer bpn9043 in اُردُو (bpn9043) 
+Prayer bpn9043 (bpn9043) 
 
 [bahaiprayers.net 9043](https://bahaiprayers.net/Book/Single/76/9043)
 
@@ -1022,7 +1022,7 @@ Prayer bpn9043 in اُردُو (bpn9043)
 
 -- Bahá'u'lláh
 
-Prayer bpn9044 in اُردُو (bpn9044) 
+Prayer bpn9044 (bpn9044) 
 
 [bahaiprayers.net 9044](https://bahaiprayers.net/Book/Single/76/9044)
 
@@ -1035,7 +1035,7 @@ Prayer bpn9044 in اُردُو (bpn9044)
 
 -- Bahá'u'lláh
 
-Prayer bpn9045 in اُردُو (bpn9045) 
+Prayer bpn9045 (bpn9045) 
 
 [bahaiprayers.net 9045](https://bahaiprayers.net/Book/Single/76/9045)
 
@@ -1048,7 +1048,7 @@ Prayer bpn9045 in اُردُو (bpn9045)
 
 -- Bahá'u'lláh
 
-Prayer bpn9046 in اُردُو (bpn9046) 
+Prayer bpn9046 (bpn9046) 
 
 [bahaiprayers.net 9046](https://bahaiprayers.net/Book/Single/76/9046)
 
@@ -1061,7 +1061,7 @@ Prayer bpn9046 in اُردُو (bpn9046)
 
 -- Bahá'u'lláh
 
-Prayer bpn9047 in اُردُو (bpn9047) 
+Prayer bpn9047 (bpn9047) 
 
 [bahaiprayers.net 9047](https://bahaiprayers.net/Book/Single/76/9047)
 
@@ -1074,7 +1074,7 @@ Prayer bpn9047 in اُردُو (bpn9047)
 
 -- Bahá'u'lláh
 
-Prayer bpn9048 in اُردُو (bpn9048) 
+Prayer bpn9048 (bpn9048) 
 
 [bahaiprayers.net 9048](https://bahaiprayers.net/Book/Single/76/9048)
 
@@ -1087,7 +1087,7 @@ Prayer bpn9048 in اُردُو (bpn9048)
 
 -- Bahá'u'lláh
 
-Prayer bpn9049 in اُردُو (bpn9049) 
+Prayer bpn9049 (bpn9049) 
 
 [bahaiprayers.net 9049](https://bahaiprayers.net/Book/Single/76/9049)
 
@@ -1100,7 +1100,7 @@ Prayer bpn9049 in اُردُو (bpn9049)
 
 -- Bahá'u'lláh
 
-Prayer bpn9050 in اُردُو (bpn9050) 
+Prayer bpn9050 (bpn9050) 
 
 [bahaiprayers.net 9050](https://bahaiprayers.net/Book/Single/76/9050)
 
@@ -1113,7 +1113,7 @@ Prayer bpn9050 in اُردُو (bpn9050)
 
 -- Bahá'u'lláh
 
-Prayer bpn9051 in اُردُو (bpn9051) 
+Prayer bpn9051 (bpn9051) 
 
 [bahaiprayers.net 9051](https://bahaiprayers.net/Book/Single/76/9051)
 
@@ -1126,7 +1126,7 @@ Prayer bpn9051 in اُردُو (bpn9051)
 
 -- Bahá'u'lláh
 
-Prayer bpn9052 in اُردُو (bpn9052) 
+Prayer bpn9052 (bpn9052) 
 
 [bahaiprayers.net 9052](https://bahaiprayers.net/Book/Single/76/9052)
 
@@ -1139,7 +1139,7 @@ Prayer bpn9052 in اُردُو (bpn9052)
 
 -- Bahá'u'lláh
 
-Prayer bpn9053 in اُردُو (bpn9053) 
+Prayer bpn9053 (bpn9053) 
 
 [bahaiprayers.net 9053](https://bahaiprayers.net/Book/Single/76/9053)
 
@@ -1152,7 +1152,7 @@ Prayer bpn9053 in اُردُو (bpn9053)
 
 -- Bahá'u'lláh
 
-Prayer bpn9054 in اُردُو (bpn9054) 
+Prayer bpn9054 (bpn9054) 
 
 [bahaiprayers.net 9054](https://bahaiprayers.net/Book/Single/76/9054)
 
@@ -1165,7 +1165,7 @@ Prayer bpn9054 in اُردُو (bpn9054)
 
 -- Bahá'u'lláh
 
-Prayer bpn9055 in اُردُو (bpn9055) 
+Prayer bpn9055 (bpn9055) 
 
 [bahaiprayers.net 9055](https://bahaiprayers.net/Book/Single/76/9055)
 
@@ -1178,7 +1178,7 @@ Prayer bpn9055 in اُردُو (bpn9055)
 
 -- Bahá'u'lláh
 
-Prayer bpn9056 in اُردُو (bpn9056) 
+Prayer bpn9056 (bpn9056) 
 
 [bahaiprayers.net 9056](https://bahaiprayers.net/Book/Single/76/9056)
 
@@ -1191,7 +1191,7 @@ Prayer bpn9056 in اُردُو (bpn9056)
 
 -- Bahá'u'lláh
 
-Prayer bpn9057 in اُردُو (bpn9057) 
+Prayer bpn9057 (bpn9057) 
 
 [bahaiprayers.net 9057](https://bahaiprayers.net/Book/Single/76/9057)
 
@@ -1204,7 +1204,7 @@ Prayer bpn9057 in اُردُو (bpn9057)
 
 -- Bahá'u'lláh
 
-Prayer bpn9058 in اُردُو (bpn9058) 
+Prayer bpn9058 (bpn9058) 
 
 [bahaiprayers.net 9058](https://bahaiprayers.net/Book/Single/76/9058)
 
@@ -1217,7 +1217,7 @@ Prayer bpn9058 in اُردُو (bpn9058)
 
 -- Bahá'u'lláh
 
-Prayer bpn9059 in اُردُو (bpn9059) 
+Prayer bpn9059 (bpn9059) 
 
 [bahaiprayers.net 9059](https://bahaiprayers.net/Book/Single/76/9059)
 
@@ -1230,7 +1230,7 @@ Prayer bpn9059 in اُردُو (bpn9059)
 
 -- Bahá'u'lláh
 
-Prayer bpn9060 in اُردُو (bpn9060) 
+Prayer bpn9060 (bpn9060) 
 
 [bahaiprayers.net 9060](https://bahaiprayers.net/Book/Single/76/9060)
 
@@ -1243,7 +1243,7 @@ Prayer bpn9060 in اُردُو (bpn9060)
 
 -- Bahá'u'lláh
 
-Prayer bpn9061 in اُردُو (bpn9061) 
+Prayer bpn9061 (bpn9061) 
 
 [bahaiprayers.net 9061](https://bahaiprayers.net/Book/Single/76/9061)
 
@@ -1256,7 +1256,7 @@ Prayer bpn9061 in اُردُو (bpn9061)
 
 -- Bahá'u'lláh
 
-Prayer bpn9062 in اُردُو (bpn9062) 
+Prayer bpn9062 (bpn9062) 
 
 [bahaiprayers.net 9062](https://bahaiprayers.net/Book/Single/76/9062)
 
@@ -1269,7 +1269,7 @@ Prayer bpn9062 in اُردُو (bpn9062)
 
 -- Bahá'u'lláh
 
-Prayer bpn9063 in اُردُو (bpn9063) 
+Prayer bpn9063 (bpn9063) 
 
 [bahaiprayers.net 9063](https://bahaiprayers.net/Book/Single/76/9063)
 
@@ -1282,7 +1282,7 @@ Prayer bpn9063 in اُردُو (bpn9063)
 
 -- Bahá'u'lláh
 
-Prayer bpn9064 in اُردُو (bpn9064) 
+Prayer bpn9064 (bpn9064) 
 
 [bahaiprayers.net 9064](https://bahaiprayers.net/Book/Single/76/9064)
 
@@ -1295,7 +1295,7 @@ Prayer bpn9064 in اُردُو (bpn9064)
 
 -- Bahá'u'lláh
 
-Prayer bpn9065 in اُردُو (bpn9065) 
+Prayer bpn9065 (bpn9065) 
 
 [bahaiprayers.net 9065](https://bahaiprayers.net/Book/Single/76/9065)
 
@@ -1308,7 +1308,7 @@ Prayer bpn9065 in اُردُو (bpn9065)
 
 -- Bahá'u'lláh
 
-Prayer bpn9066 in اُردُو (bpn9066) 
+Prayer bpn9066 (bpn9066) 
 
 [bahaiprayers.net 9066](https://bahaiprayers.net/Book/Single/76/9066)
 
@@ -1321,7 +1321,7 @@ Prayer bpn9066 in اُردُو (bpn9066)
 
 -- Bahá'u'lláh
 
-Prayer bpn9067 in اُردُو (bpn9067) 
+Prayer bpn9067 (bpn9067) 
 
 [bahaiprayers.net 9067](https://bahaiprayers.net/Book/Single/76/9067)
 
@@ -1334,7 +1334,7 @@ Prayer bpn9067 in اُردُو (bpn9067)
 
 -- Bahá'u'lláh
 
-Prayer bpn9068 in اُردُو (bpn9068) 
+Prayer bpn9068 (bpn9068) 
 
 [bahaiprayers.net 9068](https://bahaiprayers.net/Book/Single/76/9068)
 
@@ -1347,7 +1347,7 @@ Prayer bpn9068 in اُردُو (bpn9068)
 
 -- Bahá'u'lláh
 
-Prayer bpn9069 in اُردُو (bpn9069) 
+Prayer bpn9069 (bpn9069) 
 
 [bahaiprayers.net 9069](https://bahaiprayers.net/Book/Single/76/9069)
 
@@ -1360,7 +1360,7 @@ Prayer bpn9069 in اُردُو (bpn9069)
 
 -- Bahá'u'lláh
 
-Prayer bpn9070 in اُردُو (bpn9070) 
+Prayer bpn9070 (bpn9070) 
 
 [bahaiprayers.net 9070](https://bahaiprayers.net/Book/Single/76/9070)
 
@@ -1373,7 +1373,7 @@ Prayer bpn9070 in اُردُو (bpn9070)
 
 -- Bahá'u'lláh
 
-Prayer bpn9071 in اُردُو (bpn9071) 
+Prayer bpn9071 (bpn9071) 
 
 [bahaiprayers.net 9071](https://bahaiprayers.net/Book/Single/76/9071)
 
@@ -1386,7 +1386,7 @@ Prayer bpn9071 in اُردُو (bpn9071)
 
 -- Bahá'u'lláh
 
-Prayer bpn9072 in اُردُو (bpn9072) 
+Prayer bpn9072 (bpn9072) 
 
 [bahaiprayers.net 9072](https://bahaiprayers.net/Book/Single/76/9072)
 
@@ -1399,7 +1399,7 @@ Prayer bpn9072 in اُردُو (bpn9072)
 
 -- Bahá'u'lláh
 
-Prayer bpn9073 in اُردُو (bpn9073) 
+Prayer bpn9073 (bpn9073) 
 
 [bahaiprayers.net 9073](https://bahaiprayers.net/Book/Single/76/9073)
 
@@ -1412,7 +1412,7 @@ Prayer bpn9073 in اُردُو (bpn9073)
 
 -- Bahá'u'lláh
 
-Prayer bpn9074 in اُردُو (bpn9074) 
+Prayer bpn9074 (bpn9074) 
 
 [bahaiprayers.net 9074](https://bahaiprayers.net/Book/Single/76/9074)
 
@@ -1425,7 +1425,7 @@ Prayer bpn9074 in اُردُو (bpn9074)
 
 -- Bahá'u'lláh
 
-Prayer bpn9075 in اُردُو (bpn9075) 
+Prayer bpn9075 (bpn9075) 
 
 [bahaiprayers.net 9075](https://bahaiprayers.net/Book/Single/76/9075)
 
@@ -1438,7 +1438,7 @@ Prayer bpn9075 in اُردُو (bpn9075)
 
 -- Bahá'u'lláh
 
-Prayer bpn9076 in اُردُو (bpn9076) 
+Prayer bpn9076 (bpn9076) 
 
 [bahaiprayers.net 9076](https://bahaiprayers.net/Book/Single/76/9076)
 
@@ -1451,7 +1451,7 @@ Prayer bpn9076 in اُردُو (bpn9076)
 
 -- Bahá'u'lláh
 
-Prayer bpn9077 in اُردُو (bpn9077) 
+Prayer bpn9077 (bpn9077) 
 
 [bahaiprayers.net 9077](https://bahaiprayers.net/Book/Single/76/9077)
 
@@ -1464,7 +1464,7 @@ Prayer bpn9077 in اُردُو (bpn9077)
 
 -- Bahá'u'lláh
 
-Prayer bpn9078 in اُردُو (bpn9078) 
+Prayer bpn9078 (bpn9078) 
 
 [bahaiprayers.net 9078](https://bahaiprayers.net/Book/Single/76/9078)
 
@@ -1477,7 +1477,7 @@ Prayer bpn9078 in اُردُو (bpn9078)
 
 -- Bahá'u'lláh
 
-Prayer bpn9079 in اُردُو (bpn9079) 
+Prayer bpn9079 (bpn9079) 
 
 [bahaiprayers.net 9079](https://bahaiprayers.net/Book/Single/76/9079)
 
@@ -1490,7 +1490,7 @@ Prayer bpn9079 in اُردُو (bpn9079)
 
 -- Bahá'u'lláh
 
-Prayer bpn9080 in اُردُو (bpn9080) 
+Prayer bpn9080 (bpn9080) 
 
 [bahaiprayers.net 9080](https://bahaiprayers.net/Book/Single/76/9080)
 
@@ -1503,7 +1503,7 @@ Prayer bpn9080 in اُردُو (bpn9080)
 
 -- Bahá'u'lláh
 
-Prayer bpn9081 in اُردُو (bpn9081) 
+Prayer bpn9081 (bpn9081) 
 
 [bahaiprayers.net 9081](https://bahaiprayers.net/Book/Single/76/9081)
 
@@ -1516,7 +1516,7 @@ Prayer bpn9081 in اُردُو (bpn9081)
 
 -- Bahá'u'lláh
 
-Prayer bpn9082 in اُردُو (bpn9082) 
+Prayer bpn9082 (bpn9082) 
 
 [bahaiprayers.net 9082](https://bahaiprayers.net/Book/Single/76/9082)
 
@@ -1529,7 +1529,7 @@ Prayer bpn9082 in اُردُو (bpn9082)
 
 -- Bahá'u'lláh
 
-Prayer bpn9083 in اُردُو (bpn9083) 
+Prayer bpn9083 (bpn9083) 
 
 [bahaiprayers.net 9083](https://bahaiprayers.net/Book/Single/76/9083)
 
@@ -1542,7 +1542,7 @@ Prayer bpn9083 in اُردُو (bpn9083)
 
 -- Bahá'u'lláh
 
-Prayer bpn9084 in اُردُو (bpn9084) 
+Prayer bpn9084 (bpn9084) 
 
 [bahaiprayers.net 9084](https://bahaiprayers.net/Book/Single/76/9084)
 
@@ -1555,7 +1555,7 @@ Prayer bpn9084 in اُردُو (bpn9084)
 
 -- Bahá'u'lláh
 
-Prayer bpn9085 in اُردُو (bpn9085) 
+Prayer bpn9085 (bpn9085) 
 
 [bahaiprayers.net 9085](https://bahaiprayers.net/Book/Single/76/9085)
 
@@ -1568,7 +1568,7 @@ Prayer bpn9085 in اُردُو (bpn9085)
 
 -- Bahá'u'lláh
 
-Prayer bpn9086 in اُردُو (bpn9086) 
+Prayer bpn9086 (bpn9086) 
 
 [bahaiprayers.net 9086](https://bahaiprayers.net/Book/Single/76/9086)
 
@@ -1581,7 +1581,7 @@ Prayer bpn9086 in اُردُو (bpn9086)
 
 -- Bahá'u'lláh
 
-Prayer bpn9087 in اُردُو (bpn9087) 
+Prayer bpn9087 (bpn9087) 
 
 [bahaiprayers.net 9087](https://bahaiprayers.net/Book/Single/76/9087)
 
@@ -1594,7 +1594,7 @@ Prayer bpn9087 in اُردُو (bpn9087)
 
 -- Bahá'u'lláh
 
-Prayer bpn9088 in اُردُو (bpn9088) 
+Prayer bpn9088 (bpn9088) 
 
 [bahaiprayers.net 9088](https://bahaiprayers.net/Book/Single/76/9088)
 
@@ -1607,7 +1607,7 @@ Prayer bpn9088 in اُردُو (bpn9088)
 
 -- Bahá'u'lláh
 
-Prayer bpn9089 in اُردُو (bpn9089) 
+Prayer bpn9089 (bpn9089) 
 
 [bahaiprayers.net 9089](https://bahaiprayers.net/Book/Single/76/9089)
 
@@ -1620,7 +1620,7 @@ Prayer bpn9089 in اُردُو (bpn9089)
 
 -- Bahá'u'lláh
 
-Prayer bpn9090 in اُردُو (bpn9090) 
+Prayer bpn9090 (bpn9090) 
 
 [bahaiprayers.net 9090](https://bahaiprayers.net/Book/Single/76/9090)
 
@@ -1633,7 +1633,7 @@ Prayer bpn9090 in اُردُو (bpn9090)
 
 -- Bahá'u'lláh
 
-Prayer bpn9091 in اُردُو (bpn9091) 
+Prayer bpn9091 (bpn9091) 
 
 [bahaiprayers.net 9091](https://bahaiprayers.net/Book/Single/76/9091)
 
@@ -1646,7 +1646,7 @@ Prayer bpn9091 in اُردُو (bpn9091)
 
 -- Bahá'u'lláh
 
-Prayer bpn9092 in اُردُو (bpn9092) 
+Prayer bpn9092 (bpn9092) 
 
 [bahaiprayers.net 9092](https://bahaiprayers.net/Book/Single/76/9092)
 
@@ -1659,7 +1659,7 @@ Prayer bpn9092 in اُردُو (bpn9092)
 
 -- Bahá'u'lláh
 
-Prayer bpn9093 in اُردُو (bpn9093) 
+Prayer bpn9093 (bpn9093) 
 
 [bahaiprayers.net 9093](https://bahaiprayers.net/Book/Single/76/9093)
 
@@ -1672,7 +1672,7 @@ Prayer bpn9093 in اُردُو (bpn9093)
 
 -- Bahá'u'lláh
 
-Prayer bpn9094 in اُردُو (bpn9094) 
+Prayer bpn9094 (bpn9094) 
 
 [bahaiprayers.net 9094](https://bahaiprayers.net/Book/Single/76/9094)
 
@@ -1689,7 +1689,7 @@ Prayer bpn9094 in اُردُو (bpn9094)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8961 in اُردُو (bpn8961) 
+Prayer bpn8961 (bpn8961) 
 
 [bahaiprayers.net 8961](https://bahaiprayers.net/Book/Single/76/8961)
 
@@ -1702,7 +1702,7 @@ Prayer bpn8961 in اُردُو (bpn8961)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8962 in اُردُو (bpn8962) 
+Prayer bpn8962 (bpn8962) 
 
 [bahaiprayers.net 8962](https://bahaiprayers.net/Book/Single/76/8962)
 
@@ -1719,7 +1719,7 @@ Prayer bpn8962 in اُردُو (bpn8962)
 
 -- Bahá'u'lláh
 
-Prayer bpn8972 in اُردُو (bpn8972) 
+Prayer bpn8972 (bpn8972) 
 
 [bahaiprayers.net 8972](https://bahaiprayers.net/Book/Single/76/8972)
 
@@ -1736,7 +1736,7 @@ Prayer bpn8972 in اُردُو (bpn8972)
 
 -- Bahá'u'lláh
 
-Prayer bpn8971 in اُردُو (bpn8971) 
+Prayer bpn8971 (bpn8971) 
 
 [bahaiprayers.net 8971](https://bahaiprayers.net/Book/Single/76/8971)
 
@@ -1753,7 +1753,7 @@ Prayer bpn8971 in اُردُو (bpn8971)
 
 -- Bahá'u'lláh
 
-Prayer bpn8959 in اُردُو (bpn8959) 
+Prayer bpn8959 (bpn8959) 
 
 [bahaiprayers.net 8959](https://bahaiprayers.net/Book/Single/76/8959)
 
@@ -1770,7 +1770,7 @@ Prayer bpn8959 in اُردُو (bpn8959)
 
 -- Bahá'u'lláh
 
-Prayer bpn8960 in اُردُو (bpn8960) 
+Prayer bpn8960 (bpn8960) 
 
 [bahaiprayers.net 8960](https://bahaiprayers.net/Book/Single/76/8960)
 
@@ -1787,7 +1787,7 @@ Prayer bpn8960 in اُردُو (bpn8960)
 
 -- Bahá'u'lláh
 
-Prayer bpn8970 in اُردُو (bpn8970) 
+Prayer bpn8970 (bpn8970) 
 
 [bahaiprayers.net 8970](https://bahaiprayers.net/Book/Single/76/8970)
 
@@ -1804,7 +1804,7 @@ Prayer bpn8970 in اُردُو (bpn8970)
 
 -- Bahá'u'lláh
 
-Prayer bpn8967 in اُردُو (bpn8967) 
+Prayer bpn8967 (bpn8967) 
 
 [bahaiprayers.net 8967](https://bahaiprayers.net/Book/Single/76/8967)
 
@@ -1821,7 +1821,7 @@ Prayer bpn8967 in اُردُو (bpn8967)
 
 -- Bahá'u'lláh
 
-Prayer bpn8958 in اُردُو (bpn8958) 
+Prayer bpn8958 (bpn8958) 
 
 [bahaiprayers.net 8958](https://bahaiprayers.net/Book/Single/76/8958)
 
@@ -1838,7 +1838,7 @@ Prayer bpn8958 in اُردُو (bpn8958)
 
 -- Bahá'u'lláh
 
-Prayer bpn8957 in اُردُو (bpn8957) 
+Prayer bpn8957 (bpn8957) 
 
 [bahaiprayers.net 8957](https://bahaiprayers.net/Book/Single/76/8957)
 
@@ -1855,7 +1855,7 @@ Prayer bpn8957 in اُردُو (bpn8957)
 
 -- Bahá'u'lláh
 
-Prayer bpn8968 in اُردُو (bpn8968) 
+Prayer bpn8968 (bpn8968) 
 
 [bahaiprayers.net 8968](https://bahaiprayers.net/Book/Single/76/8968)
 
@@ -1872,7 +1872,7 @@ Prayer bpn8968 in اُردُو (bpn8968)
 
 -- Bahá'u'lláh
 
-Prayer bpn8964 in اُردُو (bpn8964) 
+Prayer bpn8964 (bpn8964) 
 
 [bahaiprayers.net 8964](https://bahaiprayers.net/Book/Single/76/8964)
 
@@ -1889,7 +1889,7 @@ Prayer bpn8964 in اُردُو (bpn8964)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8965 in اُردُو (bpn8965) 
+Prayer bpn8965 (bpn8965) 
 
 [bahaiprayers.net 8965](https://bahaiprayers.net/Book/Single/76/8965)
 

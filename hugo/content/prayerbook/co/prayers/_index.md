@@ -34,7 +34,7 @@ tags = ['lang=co', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9417 in Corsica (bpn9417) 
+Prayer bpn9417 (bpn9417) 
 
 [bahaiprayers.net 9417](https://bahaiprayers.net/Book/Single/83/9417)
 
@@ -47,7 +47,7 @@ Prayer bpn9417 in Corsica (bpn9417)
 
 -- Bahá'u'lláh
 
-Prayer bpn9418 in Corsica (bpn9418) 
+Prayer bpn9418 (bpn9418) 
 
 [bahaiprayers.net 9418](https://bahaiprayers.net/Book/Single/83/9418)
 
@@ -60,7 +60,7 @@ Prayer bpn9418 in Corsica (bpn9418)
 
 -- Bahá'u'lláh
 
-Prayer bpn9419 in Corsica (bpn9419) 
+Prayer bpn9419 (bpn9419) 
 
 [bahaiprayers.net 9419](https://bahaiprayers.net/Book/Single/83/9419)
 
@@ -77,7 +77,7 @@ Prayer bpn9419 in Corsica (bpn9419)
 
 -- Bahá'u'lláh
 
-Prayer bpn9407 in Corsica (bpn9407) 
+Prayer bpn9407 (bpn9407) 
 
 [bahaiprayers.net 9407](https://bahaiprayers.net/Book/Single/83/9407)
 
@@ -94,7 +94,7 @@ Prayer bpn9407 in Corsica (bpn9407)
 
 -- Bahá'u'lláh
 
-Prayer bpn9420 in Corsica (bpn9420) 
+Prayer bpn9420 (bpn9420) 
 
 [bahaiprayers.net 9420](https://bahaiprayers.net/Book/Single/83/9420)
 
@@ -107,7 +107,7 @@ Prayer bpn9420 in Corsica (bpn9420)
 
 -- Bahá'u'lláh
 
-Prayer bpn9421 in Corsica (bpn9421) 
+Prayer bpn9421 (bpn9421) 
 
 [bahaiprayers.net 9421](https://bahaiprayers.net/Book/Single/83/9421)
 
@@ -124,7 +124,7 @@ Prayer bpn9421 in Corsica (bpn9421)
 
 -- Bahá'u'lláh
 
-Prayer bpn9411 in Corsica (bpn9411) 
+Prayer bpn9411 (bpn9411) 
 
 [bahaiprayers.net 9411](https://bahaiprayers.net/Book/Single/83/9411)
 
@@ -141,7 +141,7 @@ Prayer bpn9411 in Corsica (bpn9411)
 
 -- Bahá'u'lláh
 
-Prayer bpn9408 in Corsica (bpn9408) 
+Prayer bpn9408 (bpn9408) 
 
 [bahaiprayers.net 9408](https://bahaiprayers.net/Book/Single/83/9408)
 
@@ -158,7 +158,7 @@ Prayer bpn9408 in Corsica (bpn9408)
 
 -- Bahá'u'lláh
 
-Prayer bpn9422 in Corsica (bpn9422) 
+Prayer bpn9422 (bpn9422) 
 
 [bahaiprayers.net 9422](https://bahaiprayers.net/Book/Single/83/9422)
 
@@ -171,7 +171,7 @@ Prayer bpn9422 in Corsica (bpn9422)
 
 -- Bahá'u'lláh
 
-Prayer bpn9423 in Corsica (bpn9423) 
+Prayer bpn9423 (bpn9423) 
 
 [bahaiprayers.net 9423](https://bahaiprayers.net/Book/Single/83/9423)
 
@@ -188,7 +188,7 @@ Prayer bpn9423 in Corsica (bpn9423)
 
 -- Bahá'u'lláh
 
-Prayer bpn9412 in Corsica (bpn9412) 
+Prayer bpn9412 (bpn9412) 
 
 [bahaiprayers.net 9412](https://bahaiprayers.net/Book/Single/83/9412)
 
@@ -205,7 +205,7 @@ Prayer bpn9412 in Corsica (bpn9412)
 
 -- Bahá'u'lláh
 
-Prayer bpn9409 in Corsica (bpn9409) 
+Prayer bpn9409 (bpn9409) 
 
 [bahaiprayers.net 9409](https://bahaiprayers.net/Book/Single/83/9409)
 
@@ -218,7 +218,7 @@ Prayer bpn9409 in Corsica (bpn9409)
 
 -- Bahá'u'lláh
 
-Prayer bpn9410 in Corsica (bpn9410) 
+Prayer bpn9410 (bpn9410) 
 
 [bahaiprayers.net 9410](https://bahaiprayers.net/Book/Single/83/9410)
 
@@ -235,7 +235,7 @@ Prayer bpn9410 in Corsica (bpn9410)
 
 -- Bahá'u'lláh
 
-Prayer bpn9413 in Corsica (bpn9413) 
+Prayer bpn9413 (bpn9413) 
 
 [bahaiprayers.net 9413](https://bahaiprayers.net/Book/Single/83/9413)
 
@@ -248,7 +248,7 @@ Prayer bpn9413 in Corsica (bpn9413)
 
 -- Bahá'u'lláh
 
-Prayer bpn9414 in Corsica (bpn9414) 
+Prayer bpn9414 (bpn9414) 
 
 [bahaiprayers.net 9414](https://bahaiprayers.net/Book/Single/83/9414)
 
@@ -261,7 +261,7 @@ Prayer bpn9414 in Corsica (bpn9414)
 
 -- Bahá'u'lláh
 
-Prayer bpn9415 in Corsica (bpn9415) 
+Prayer bpn9415 (bpn9415) 
 
 [bahaiprayers.net 9415](https://bahaiprayers.net/Book/Single/83/9415)
 
@@ -274,7 +274,7 @@ Prayer bpn9415 in Corsica (bpn9415)
 
 -- Bahá'u'lláh
 
-Prayer bpn9416 in Corsica (bpn9416) 
+Prayer bpn9416 (bpn9416) 
 
 [bahaiprayers.net 9416](https://bahaiprayers.net/Book/Single/83/9416)
 

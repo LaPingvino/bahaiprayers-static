@@ -196,7 +196,7 @@ tags = ['lang=hz', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12410 in Namibia (bpn12410) 
+Prayer bpn12410 (bpn12410) 
 
 [bahaiprayers.net 12410](https://bahaiprayers.net/Book/Single/46/12410)
 
@@ -213,7 +213,7 @@ Prayer bpn12410 in Namibia (bpn12410)
 
 -- Bahá'u'lláh
 
-Prayer bpn12384 in Namibia (bpn12384) 
+Prayer bpn12384 (bpn12384) 
 
 [bahaiprayers.net 12384](https://bahaiprayers.net/Book/Single/46/12384)
 
@@ -230,7 +230,7 @@ Prayer bpn12384 in Namibia (bpn12384)
 
 -- Bahá'u'lláh
 
-Prayer bpn12387 in Namibia (bpn12387) 
+Prayer bpn12387 (bpn12387) 
 
 [bahaiprayers.net 12387](https://bahaiprayers.net/Book/Single/46/12387)
 
@@ -247,7 +247,7 @@ Prayer bpn12387 in Namibia (bpn12387)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12392 in Namibia (bpn12392) 
+Prayer bpn12392 (bpn12392) 
 
 [bahaiprayers.net 12392](https://bahaiprayers.net/Book/Single/46/12392)
 
@@ -264,7 +264,7 @@ Prayer bpn12392 in Namibia (bpn12392)
 
 -- Bahá'u'lláh
 
-Prayer bpn12390 in Namibia (bpn12390) 
+Prayer bpn12390 (bpn12390) 
 
 [bahaiprayers.net 12390](https://bahaiprayers.net/Book/Single/46/12390)
 
@@ -281,7 +281,7 @@ Prayer bpn12390 in Namibia (bpn12390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12396 in Namibia (bpn12396) 
+Prayer bpn12396 (bpn12396) 
 
 [bahaiprayers.net 12396](https://bahaiprayers.net/Book/Single/46/12396)
 
@@ -298,7 +298,7 @@ Prayer bpn12396 in Namibia (bpn12396)
 
 -- Bahá'u'lláh
 
-Prayer bpn12400 in Namibia (bpn12400) 
+Prayer bpn12400 (bpn12400) 
 
 [bahaiprayers.net 12400](https://bahaiprayers.net/Book/Single/46/12400)
 
@@ -311,7 +311,7 @@ Prayer bpn12400 in Namibia (bpn12400)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12401 in Namibia (bpn12401) 
+Prayer bpn12401 (bpn12401) 
 
 [bahaiprayers.net 12401](https://bahaiprayers.net/Book/Single/46/12401)
 
@@ -328,7 +328,7 @@ Prayer bpn12401 in Namibia (bpn12401)
 
 -- Bahá'u'lláh
 
-Prayer bpn12402 in Namibia (bpn12402) 
+Prayer bpn12402 (bpn12402) 
 
 [bahaiprayers.net 12402](https://bahaiprayers.net/Book/Single/46/12402)
 
@@ -341,7 +341,7 @@ Prayer bpn12402 in Namibia (bpn12402)
 
 -- Bahá'u'lláh
 
-Prayer bpn12403 in Namibia (bpn12403) 
+Prayer bpn12403 (bpn12403) 
 
 [bahaiprayers.net 12403](https://bahaiprayers.net/Book/Single/46/12403)
 
@@ -354,7 +354,7 @@ Prayer bpn12403 in Namibia (bpn12403)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12404 in Namibia (bpn12404) 
+Prayer bpn12404 (bpn12404) 
 
 [bahaiprayers.net 12404](https://bahaiprayers.net/Book/Single/46/12404)
 
@@ -367,7 +367,7 @@ Prayer bpn12404 in Namibia (bpn12404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12405 in Namibia (bpn12405) 
+Prayer bpn12405 (bpn12405) 
 
 [bahaiprayers.net 12405](https://bahaiprayers.net/Book/Single/46/12405)
 
@@ -380,7 +380,7 @@ Prayer bpn12405 in Namibia (bpn12405)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12406 in Namibia (bpn12406) 
+Prayer bpn12406 (bpn12406) 
 
 [bahaiprayers.net 12406](https://bahaiprayers.net/Book/Single/46/12406)
 
@@ -393,7 +393,7 @@ Prayer bpn12406 in Namibia (bpn12406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12407 in Namibia (bpn12407) 
+Prayer bpn12407 (bpn12407) 
 
 [bahaiprayers.net 12407](https://bahaiprayers.net/Book/Single/46/12407)
 
@@ -406,7 +406,7 @@ Prayer bpn12407 in Namibia (bpn12407)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12408 in Namibia (bpn12408) 
+Prayer bpn12408 (bpn12408) 
 
 [bahaiprayers.net 12408](https://bahaiprayers.net/Book/Single/46/12408)
 
@@ -419,7 +419,7 @@ Prayer bpn12408 in Namibia (bpn12408)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12409 in Namibia (bpn12409) 
+Prayer bpn12409 (bpn12409) 
 
 [bahaiprayers.net 12409](https://bahaiprayers.net/Book/Single/46/12409)
 
@@ -436,7 +436,7 @@ Prayer bpn12409 in Namibia (bpn12409)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12411 in Namibia (bpn12411) 
+Prayer bpn12411 (bpn12411) 
 
 [bahaiprayers.net 12411](https://bahaiprayers.net/Book/Single/46/12411)
 
@@ -453,7 +453,7 @@ Prayer bpn12411 in Namibia (bpn12411)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12388 in Namibia (bpn12388) 
+Prayer bpn12388 (bpn12388) 
 
 [bahaiprayers.net 12388](https://bahaiprayers.net/Book/Single/46/12388)
 
@@ -470,7 +470,7 @@ Prayer bpn12388 in Namibia (bpn12388)
 
 -- Bahá'u'lláh
 
-Prayer bpn12394 in Namibia (bpn12394) 
+Prayer bpn12394 (bpn12394) 
 
 [bahaiprayers.net 12394](https://bahaiprayers.net/Book/Single/46/12394)
 
@@ -487,7 +487,7 @@ Prayer bpn12394 in Namibia (bpn12394)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12398 in Namibia (bpn12398) 
+Prayer bpn12398 (bpn12398) 
 
 [bahaiprayers.net 12398](https://bahaiprayers.net/Book/Single/46/12398)
 
@@ -504,7 +504,7 @@ Prayer bpn12398 in Namibia (bpn12398)
 
 -- Báb
 
-Prayer bpn12385 in Namibia (bpn12385) 
+Prayer bpn12385 (bpn12385) 
 
 [bahaiprayers.net 12385](https://bahaiprayers.net/Book/Single/46/12385)
 
@@ -521,7 +521,7 @@ Prayer bpn12385 in Namibia (bpn12385)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12386 in Namibia (bpn12386) 
+Prayer bpn12386 (bpn12386) 
 
 [bahaiprayers.net 12386](https://bahaiprayers.net/Book/Single/46/12386)
 
@@ -538,7 +538,7 @@ Prayer bpn12386 in Namibia (bpn12386)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12393 in Namibia (bpn12393) 
+Prayer bpn12393 (bpn12393) 
 
 [bahaiprayers.net 12393](https://bahaiprayers.net/Book/Single/46/12393)
 
@@ -555,7 +555,7 @@ Prayer bpn12393 in Namibia (bpn12393)
 
 -- Bahá'u'lláh
 
-Prayer bpn12389 in Namibia (bpn12389) 
+Prayer bpn12389 (bpn12389) 
 
 [bahaiprayers.net 12389](https://bahaiprayers.net/Book/Single/46/12389)
 
@@ -572,7 +572,7 @@ Prayer bpn12389 in Namibia (bpn12389)
 
 -- Bahá'u'lláh
 
-Prayer bpn12397 in Namibia (bpn12397) 
+Prayer bpn12397 (bpn12397) 
 
 [bahaiprayers.net 12397](https://bahaiprayers.net/Book/Single/46/12397)
 
@@ -589,7 +589,7 @@ Prayer bpn12397 in Namibia (bpn12397)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12395 in Namibia (bpn12395) 
+Prayer bpn12395 (bpn12395) 
 
 [bahaiprayers.net 12395](https://bahaiprayers.net/Book/Single/46/12395)
 
@@ -606,7 +606,7 @@ Prayer bpn12395 in Namibia (bpn12395)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12399 in Namibia (bpn12399) 
+Prayer bpn12399 (bpn12399) 
 
 [bahaiprayers.net 12399](https://bahaiprayers.net/Book/Single/46/12399)
 
@@ -623,7 +623,7 @@ Prayer bpn12399 in Namibia (bpn12399)
 
 -- Bahá'u'lláh
 
-Prayer bpn12391 in Namibia (bpn12391) 
+Prayer bpn12391 (bpn12391) 
 
 [bahaiprayers.net 12391](https://bahaiprayers.net/Book/Single/46/12391)
 
@@ -640,7 +640,7 @@ Prayer bpn12391 in Namibia (bpn12391)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12443 in Namibia (bpn12443) 
+Prayer bpn12443 (bpn12443) 
 
 [bahaiprayers.net 12443](https://bahaiprayers.net/Book/Single/46/12443)
 
@@ -657,7 +657,7 @@ Prayer bpn12443 in Namibia (bpn12443)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12450 in Namibia (bpn12450) 
+Prayer bpn12450 (bpn12450) 
 
 [bahaiprayers.net 12450](https://bahaiprayers.net/Book/Single/46/12450)
 
@@ -674,7 +674,7 @@ Prayer bpn12450 in Namibia (bpn12450)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12453 in Namibia (bpn12453) 
+Prayer bpn12453 (bpn12453) 
 
 [bahaiprayers.net 12453](https://bahaiprayers.net/Book/Single/46/12453)
 
@@ -691,7 +691,7 @@ Prayer bpn12453 in Namibia (bpn12453)
 
 -- Bahá'u'lláh
 
-Prayer bpn12441 in Namibia (bpn12441) 
+Prayer bpn12441 (bpn12441) 
 
 [bahaiprayers.net 12441](https://bahaiprayers.net/Book/Single/46/12441)
 
@@ -708,7 +708,7 @@ Prayer bpn12441 in Namibia (bpn12441)
 
 -- Bahá'u'lláh
 
-Prayer bpn12446 in Namibia (bpn12446) 
+Prayer bpn12446 (bpn12446) 
 
 [bahaiprayers.net 12446](https://bahaiprayers.net/Book/Single/46/12446)
 
@@ -725,7 +725,7 @@ Prayer bpn12446 in Namibia (bpn12446)
 
 -- Bahá'u'lláh
 
-Prayer bpn12458 in Namibia (bpn12458) 
+Prayer bpn12458 (bpn12458) 
 
 [bahaiprayers.net 12458](https://bahaiprayers.net/Book/Single/46/12458)
 
@@ -738,7 +738,7 @@ Prayer bpn12458 in Namibia (bpn12458)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12454 in Namibia (bpn12454) 
+Prayer bpn12454 (bpn12454) 
 
 [bahaiprayers.net 12454](https://bahaiprayers.net/Book/Single/46/12454)
 
@@ -755,7 +755,7 @@ Prayer bpn12454 in Namibia (bpn12454)
 
 -- Báb
 
-Prayer bpn12442 in Namibia (bpn12442) 
+Prayer bpn12442 (bpn12442) 
 
 [bahaiprayers.net 12442](https://bahaiprayers.net/Book/Single/46/12442)
 
@@ -772,7 +772,7 @@ Prayer bpn12442 in Namibia (bpn12442)
 
 -- Bahá'u'lláh
 
-Prayer bpn12455 in Namibia (bpn12455) 
+Prayer bpn12455 (bpn12455) 
 
 [bahaiprayers.net 12455](https://bahaiprayers.net/Book/Single/46/12455)
 
@@ -789,7 +789,7 @@ Prayer bpn12455 in Namibia (bpn12455)
 
 -- Bahá'u'lláh
 
-Prayer bpn12473 in Namibia (bpn12473) 
+Prayer bpn12473 (bpn12473) 
 
 [bahaiprayers.net 12473](https://bahaiprayers.net/Book/Single/46/12473)
 
@@ -802,7 +802,7 @@ Prayer bpn12473 in Namibia (bpn12473)
 
 -- Bahá'u'lláh
 
-Prayer bpn12474 in Namibia (bpn12474) 
+Prayer bpn12474 (bpn12474) 
 
 [bahaiprayers.net 12474](https://bahaiprayers.net/Book/Single/46/12474)
 
@@ -819,7 +819,7 @@ Prayer bpn12474 in Namibia (bpn12474)
 
 -- Bahá'u'lláh
 
-Prayer bpn12469 in Namibia (bpn12469) 
+Prayer bpn12469 (bpn12469) 
 
 [bahaiprayers.net 12469](https://bahaiprayers.net/Book/Single/46/12469)
 
@@ -832,7 +832,7 @@ Prayer bpn12469 in Namibia (bpn12469)
 
 -- Bahá'u'lláh
 
-Prayer bpn12470 in Namibia (bpn12470) 
+Prayer bpn12470 (bpn12470) 
 
 [bahaiprayers.net 12470](https://bahaiprayers.net/Book/Single/46/12470)
 
@@ -845,7 +845,7 @@ Prayer bpn12470 in Namibia (bpn12470)
 
 -- Bahá'u'lláh
 
-Prayer bpn12471 in Namibia (bpn12471) 
+Prayer bpn12471 (bpn12471) 
 
 [bahaiprayers.net 12471](https://bahaiprayers.net/Book/Single/46/12471)
 
@@ -862,7 +862,7 @@ Prayer bpn12471 in Namibia (bpn12471)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12456 in Namibia (bpn12456) 
+Prayer bpn12456 (bpn12456) 
 
 [bahaiprayers.net 12456](https://bahaiprayers.net/Book/Single/46/12456)
 
@@ -879,7 +879,7 @@ Prayer bpn12456 in Namibia (bpn12456)
 
 -- Bahá'u'lláh
 
-Prayer bpn12444 in Namibia (bpn12444) 
+Prayer bpn12444 (bpn12444) 
 
 [bahaiprayers.net 12444](https://bahaiprayers.net/Book/Single/46/12444)
 
@@ -896,7 +896,7 @@ Prayer bpn12444 in Namibia (bpn12444)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12445 in Namibia (bpn12445) 
+Prayer bpn12445 (bpn12445) 
 
 [bahaiprayers.net 12445](https://bahaiprayers.net/Book/Single/46/12445)
 
@@ -913,7 +913,7 @@ Prayer bpn12445 in Namibia (bpn12445)
 
 -- Bahá'u'lláh
 
-Prayer bpn12447 in Namibia (bpn12447) 
+Prayer bpn12447 (bpn12447) 
 
 [bahaiprayers.net 12447](https://bahaiprayers.net/Book/Single/46/12447)
 
@@ -930,7 +930,7 @@ Prayer bpn12447 in Namibia (bpn12447)
 
 -- Bahá'u'lláh
 
-Prayer bpn12448 in Namibia (bpn12448) 
+Prayer bpn12448 (bpn12448) 
 
 [bahaiprayers.net 12448](https://bahaiprayers.net/Book/Single/46/12448)
 
@@ -947,7 +947,7 @@ Prayer bpn12448 in Namibia (bpn12448)
 
 -- Bahá'u'lláh
 
-Prayer bpn12452 in Namibia (bpn12452) 
+Prayer bpn12452 (bpn12452) 
 
 [bahaiprayers.net 12452](https://bahaiprayers.net/Book/Single/46/12452)
 
@@ -964,7 +964,7 @@ Prayer bpn12452 in Namibia (bpn12452)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12449 in Namibia (bpn12449) 
+Prayer bpn12449 (bpn12449) 
 
 [bahaiprayers.net 12449](https://bahaiprayers.net/Book/Single/46/12449)
 
@@ -981,7 +981,7 @@ Prayer bpn12449 in Namibia (bpn12449)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12451 in Namibia (bpn12451) 
+Prayer bpn12451 (bpn12451) 
 
 [bahaiprayers.net 12451](https://bahaiprayers.net/Book/Single/46/12451)
 
@@ -998,7 +998,7 @@ Prayer bpn12451 in Namibia (bpn12451)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12472 in Namibia (bpn12472) 
+Prayer bpn12472 (bpn12472) 
 
 [bahaiprayers.net 12472](https://bahaiprayers.net/Book/Single/46/12472)
 
@@ -1015,7 +1015,7 @@ Prayer bpn12472 in Namibia (bpn12472)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12457 in Namibia (bpn12457) 
+Prayer bpn12457 (bpn12457) 
 
 [bahaiprayers.net 12457](https://bahaiprayers.net/Book/Single/46/12457)
 
@@ -1032,7 +1032,7 @@ Prayer bpn12457 in Namibia (bpn12457)
 
 -- Bahá'u'lláh
 
-Prayer bpn12475 in Namibia (bpn12475) 
+Prayer bpn12475 (bpn12475) 
 
 [bahaiprayers.net 12475](https://bahaiprayers.net/Book/Single/46/12475)
 
@@ -1049,7 +1049,7 @@ Prayer bpn12475 in Namibia (bpn12475)
 
 -- Bahá'u'lláh
 
-Prayer bpn12459 in Namibia (bpn12459) 
+Prayer bpn12459 (bpn12459) 
 
 [bahaiprayers.net 12459](https://bahaiprayers.net/Book/Single/46/12459)
 
@@ -1062,7 +1062,7 @@ Prayer bpn12459 in Namibia (bpn12459)
 
 -- Bahá'u'lláh
 
-Prayer bpn12460 in Namibia (bpn12460) 
+Prayer bpn12460 (bpn12460) 
 
 [bahaiprayers.net 12460](https://bahaiprayers.net/Book/Single/46/12460)
 
@@ -1075,7 +1075,7 @@ Prayer bpn12460 in Namibia (bpn12460)
 
 -- Bahá'u'lláh
 
-Prayer bpn12461 in Namibia (bpn12461) 
+Prayer bpn12461 (bpn12461) 
 
 [bahaiprayers.net 12461](https://bahaiprayers.net/Book/Single/46/12461)
 
@@ -1088,7 +1088,7 @@ Prayer bpn12461 in Namibia (bpn12461)
 
 -- Bahá'u'lláh
 
-Prayer bpn12462 in Namibia (bpn12462) 
+Prayer bpn12462 (bpn12462) 
 
 [bahaiprayers.net 12462](https://bahaiprayers.net/Book/Single/46/12462)
 
@@ -1101,7 +1101,7 @@ Prayer bpn12462 in Namibia (bpn12462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12463 in Namibia (bpn12463) 
+Prayer bpn12463 (bpn12463) 
 
 [bahaiprayers.net 12463](https://bahaiprayers.net/Book/Single/46/12463)
 
@@ -1114,7 +1114,7 @@ Prayer bpn12463 in Namibia (bpn12463)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12464 in Namibia (bpn12464) 
+Prayer bpn12464 (bpn12464) 
 
 [bahaiprayers.net 12464](https://bahaiprayers.net/Book/Single/46/12464)
 
@@ -1127,7 +1127,7 @@ Prayer bpn12464 in Namibia (bpn12464)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12465 in Namibia (bpn12465) 
+Prayer bpn12465 (bpn12465) 
 
 [bahaiprayers.net 12465](https://bahaiprayers.net/Book/Single/46/12465)
 
@@ -1140,7 +1140,7 @@ Prayer bpn12465 in Namibia (bpn12465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12466 in Namibia (bpn12466) 
+Prayer bpn12466 (bpn12466) 
 
 [bahaiprayers.net 12466](https://bahaiprayers.net/Book/Single/46/12466)
 
@@ -1153,7 +1153,7 @@ Prayer bpn12466 in Namibia (bpn12466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12467 in Namibia (bpn12467) 
+Prayer bpn12467 (bpn12467) 
 
 [bahaiprayers.net 12467](https://bahaiprayers.net/Book/Single/46/12467)
 
@@ -1166,7 +1166,7 @@ Prayer bpn12467 in Namibia (bpn12467)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12468 in Namibia (bpn12468) 
+Prayer bpn12468 (bpn12468) 
 
 [bahaiprayers.net 12468](https://bahaiprayers.net/Book/Single/46/12468)
 
@@ -1183,7 +1183,7 @@ Prayer bpn12468 in Namibia (bpn12468)
 
 -- Bahá'u'lláh
 
-Prayer bpn6044 in Namibia (bpn6044) 
+Prayer bpn6044 (bpn6044) 
 
 [bahaiprayers.net 6044](https://bahaiprayers.net/Book/Single/46/6044)
 
@@ -1200,7 +1200,7 @@ Prayer bpn6044 in Namibia (bpn6044)
 
 -- Bahá'u'lláh
 
-Prayer bpn6050 in Namibia (bpn6050) 
+Prayer bpn6050 (bpn6050) 
 
 [bahaiprayers.net 6050](https://bahaiprayers.net/Book/Single/46/6050)
 
@@ -1217,7 +1217,7 @@ Prayer bpn6050 in Namibia (bpn6050)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6051 in Namibia (bpn6051) 
+Prayer bpn6051 (bpn6051) 
 
 [bahaiprayers.net 6051](https://bahaiprayers.net/Book/Single/46/6051)
 
@@ -1234,7 +1234,7 @@ Prayer bpn6051 in Namibia (bpn6051)
 
 -- Bahá'u'lláh
 
-Prayer bpn6048 in Namibia (bpn6048) 
+Prayer bpn6048 (bpn6048) 
 
 [bahaiprayers.net 6048](https://bahaiprayers.net/Book/Single/46/6048)
 
@@ -1251,7 +1251,7 @@ Prayer bpn6048 in Namibia (bpn6048)
 
 -- Bahá'u'lláh
 
-Prayer bpn6045 in Namibia (bpn6045) 
+Prayer bpn6045 (bpn6045) 
 
 [bahaiprayers.net 6045](https://bahaiprayers.net/Book/Single/46/6045)
 
@@ -1264,7 +1264,7 @@ Prayer bpn6045 in Namibia (bpn6045)
 
 -- Bahá'u'lláh
 
-Prayer bpn6046 in Namibia (bpn6046) 
+Prayer bpn6046 (bpn6046) 
 
 [bahaiprayers.net 6046](https://bahaiprayers.net/Book/Single/46/6046)
 
@@ -1281,7 +1281,7 @@ Prayer bpn6046 in Namibia (bpn6046)
 
 -- Bahá'u'lláh
 
-Prayer bpn6043 in Namibia (bpn6043) 
+Prayer bpn6043 (bpn6043) 
 
 [bahaiprayers.net 6043](https://bahaiprayers.net/Book/Single/46/6043)
 
@@ -1298,7 +1298,7 @@ Prayer bpn6043 in Namibia (bpn6043)
 
 -- Bahá'u'lláh
 
-Prayer bpn6047 in Namibia (bpn6047) 
+Prayer bpn6047 (bpn6047) 
 
 [bahaiprayers.net 6047](https://bahaiprayers.net/Book/Single/46/6047)
 
@@ -1315,7 +1315,7 @@ Prayer bpn6047 in Namibia (bpn6047)
 
 -- Bahá'u'lláh
 
-Prayer bpn6049 in Namibia (bpn6049) 
+Prayer bpn6049 (bpn6049) 
 
 [bahaiprayers.net 6049](https://bahaiprayers.net/Book/Single/46/6049)
 
@@ -1332,7 +1332,7 @@ Prayer bpn6049 in Namibia (bpn6049)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6056 in Namibia (bpn6056) 
+Prayer bpn6056 (bpn6056) 
 
 [bahaiprayers.net 6056](https://bahaiprayers.net/Book/Single/46/6056)
 
@@ -1349,7 +1349,7 @@ Prayer bpn6056 in Namibia (bpn6056)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6058 in Namibia (bpn6058) 
+Prayer bpn6058 (bpn6058) 
 
 [bahaiprayers.net 6058](https://bahaiprayers.net/Book/Single/46/6058)
 
@@ -1366,7 +1366,7 @@ Prayer bpn6058 in Namibia (bpn6058)
 
 -- Bahá'u'lláh
 
-Prayer bpn6057 in Namibia (bpn6057) 
+Prayer bpn6057 (bpn6057) 
 
 [bahaiprayers.net 6057](https://bahaiprayers.net/Book/Single/46/6057)
 
@@ -1383,7 +1383,7 @@ Prayer bpn6057 in Namibia (bpn6057)
 
 -- Bahá'u'lláh
 
-Prayer bpn6059 in Namibia (bpn6059) 
+Prayer bpn6059 (bpn6059) 
 
 [bahaiprayers.net 6059](https://bahaiprayers.net/Book/Single/46/6059)
 
@@ -1396,7 +1396,7 @@ Prayer bpn6059 in Namibia (bpn6059)
 
 -- Bahá'u'lláh
 
-Prayer bpn6060 in Namibia (bpn6060) 
+Prayer bpn6060 (bpn6060) 
 
 [bahaiprayers.net 6060](https://bahaiprayers.net/Book/Single/46/6060)
 
@@ -1409,7 +1409,7 @@ Prayer bpn6060 in Namibia (bpn6060)
 
 -- Bahá'u'lláh
 
-Prayer bpn6061 in Namibia (bpn6061) 
+Prayer bpn6061 (bpn6061) 
 
 [bahaiprayers.net 6061](https://bahaiprayers.net/Book/Single/46/6061)
 
@@ -1422,7 +1422,7 @@ Prayer bpn6061 in Namibia (bpn6061)
 
 -- Bahá'u'lláh
 
-Prayer bpn6062 in Namibia (bpn6062) 
+Prayer bpn6062 (bpn6062) 
 
 [bahaiprayers.net 6062](https://bahaiprayers.net/Book/Single/46/6062)
 
@@ -1435,7 +1435,7 @@ Prayer bpn6062 in Namibia (bpn6062)
 
 -- Bahá'u'lláh
 
-Prayer bpn6063 in Namibia (bpn6063) 
+Prayer bpn6063 (bpn6063) 
 
 [bahaiprayers.net 6063](https://bahaiprayers.net/Book/Single/46/6063)
 
@@ -1448,7 +1448,7 @@ Prayer bpn6063 in Namibia (bpn6063)
 
 -- Báb
 
-Prayer bpn6064 in Namibia (bpn6064) 
+Prayer bpn6064 (bpn6064) 
 
 [bahaiprayers.net 6064](https://bahaiprayers.net/Book/Single/46/6064)
 
@@ -1461,7 +1461,7 @@ Prayer bpn6064 in Namibia (bpn6064)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6065 in Namibia (bpn6065) 
+Prayer bpn6065 (bpn6065) 
 
 [bahaiprayers.net 6065](https://bahaiprayers.net/Book/Single/46/6065)
 
@@ -1474,7 +1474,7 @@ Prayer bpn6065 in Namibia (bpn6065)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6066 in Namibia (bpn6066) 
+Prayer bpn6066 (bpn6066) 
 
 [bahaiprayers.net 6066](https://bahaiprayers.net/Book/Single/46/6066)
 
@@ -1487,7 +1487,7 @@ Prayer bpn6066 in Namibia (bpn6066)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6067 in Namibia (bpn6067) 
+Prayer bpn6067 (bpn6067) 
 
 [bahaiprayers.net 6067](https://bahaiprayers.net/Book/Single/46/6067)
 
@@ -1500,7 +1500,7 @@ Prayer bpn6067 in Namibia (bpn6067)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6068 in Namibia (bpn6068) 
+Prayer bpn6068 (bpn6068) 
 
 [bahaiprayers.net 6068](https://bahaiprayers.net/Book/Single/46/6068)
 
@@ -1513,7 +1513,7 @@ Prayer bpn6068 in Namibia (bpn6068)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6069 in Namibia (bpn6069) 
+Prayer bpn6069 (bpn6069) 
 
 [bahaiprayers.net 6069](https://bahaiprayers.net/Book/Single/46/6069)
 
@@ -1526,7 +1526,7 @@ Prayer bpn6069 in Namibia (bpn6069)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6070 in Namibia (bpn6070) 
+Prayer bpn6070 (bpn6070) 
 
 [bahaiprayers.net 6070](https://bahaiprayers.net/Book/Single/46/6070)
 
@@ -1539,7 +1539,7 @@ Prayer bpn6070 in Namibia (bpn6070)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6071 in Namibia (bpn6071) 
+Prayer bpn6071 (bpn6071) 
 
 [bahaiprayers.net 6071](https://bahaiprayers.net/Book/Single/46/6071)
 
@@ -1556,7 +1556,7 @@ Prayer bpn6071 in Namibia (bpn6071)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6052 in Namibia (bpn6052) 
+Prayer bpn6052 (bpn6052) 
 
 [bahaiprayers.net 6052](https://bahaiprayers.net/Book/Single/46/6052)
 
@@ -1569,7 +1569,7 @@ Prayer bpn6052 in Namibia (bpn6052)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6053 in Namibia (bpn6053) 
+Prayer bpn6053 (bpn6053) 
 
 [bahaiprayers.net 6053](https://bahaiprayers.net/Book/Single/46/6053)
 
@@ -1582,7 +1582,7 @@ Prayer bpn6053 in Namibia (bpn6053)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6054 in Namibia (bpn6054) 
+Prayer bpn6054 (bpn6054) 
 
 [bahaiprayers.net 6054](https://bahaiprayers.net/Book/Single/46/6054)
 
@@ -1595,7 +1595,7 @@ Prayer bpn6054 in Namibia (bpn6054)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6055 in Namibia (bpn6055) 
+Prayer bpn6055 (bpn6055) 
 
 [bahaiprayers.net 6055](https://bahaiprayers.net/Book/Single/46/6055)
 
@@ -1612,7 +1612,7 @@ Prayer bpn6055 in Namibia (bpn6055)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12425 in Namibia (bpn12425) 
+Prayer bpn12425 (bpn12425) 
 
 [bahaiprayers.net 12425](https://bahaiprayers.net/Book/Single/46/12425)
 
@@ -1625,7 +1625,7 @@ Prayer bpn12425 in Namibia (bpn12425)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12429 in Namibia (bpn12429) 
+Prayer bpn12429 (bpn12429) 
 
 [bahaiprayers.net 12429](https://bahaiprayers.net/Book/Single/46/12429)
 
@@ -1642,7 +1642,7 @@ Prayer bpn12429 in Namibia (bpn12429)
 
 -- Bahá'u'lláh
 
-Prayer bpn12426 in Namibia (bpn12426) 
+Prayer bpn12426 (bpn12426) 
 
 [bahaiprayers.net 12426](https://bahaiprayers.net/Book/Single/46/12426)
 
@@ -1659,7 +1659,7 @@ Prayer bpn12426 in Namibia (bpn12426)
 
 -- Bahá'u'lláh
 
-Prayer bpn12415 in Namibia (bpn12415) 
+Prayer bpn12415 (bpn12415) 
 
 [bahaiprayers.net 12415](https://bahaiprayers.net/Book/Single/46/12415)
 
@@ -1676,7 +1676,7 @@ Prayer bpn12415 in Namibia (bpn12415)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12416 in Namibia (bpn12416) 
+Prayer bpn12416 (bpn12416) 
 
 [bahaiprayers.net 12416](https://bahaiprayers.net/Book/Single/46/12416)
 
@@ -1693,7 +1693,7 @@ Prayer bpn12416 in Namibia (bpn12416)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12421 in Namibia (bpn12421) 
+Prayer bpn12421 (bpn12421) 
 
 [bahaiprayers.net 12421](https://bahaiprayers.net/Book/Single/46/12421)
 
@@ -1710,7 +1710,7 @@ Prayer bpn12421 in Namibia (bpn12421)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12414 in Namibia (bpn12414) 
+Prayer bpn12414 (bpn12414) 
 
 [bahaiprayers.net 12414](https://bahaiprayers.net/Book/Single/46/12414)
 
@@ -1727,7 +1727,7 @@ Prayer bpn12414 in Namibia (bpn12414)
 
 -- Báb
 
-Prayer bpn12413 in Namibia (bpn12413) 
+Prayer bpn12413 (bpn12413) 
 
 [bahaiprayers.net 12413](https://bahaiprayers.net/Book/Single/46/12413)
 
@@ -1744,7 +1744,7 @@ Prayer bpn12413 in Namibia (bpn12413)
 
 -- Bahá'u'lláh
 
-Prayer bpn12417 in Namibia (bpn12417) 
+Prayer bpn12417 (bpn12417) 
 
 [bahaiprayers.net 12417](https://bahaiprayers.net/Book/Single/46/12417)
 
@@ -1761,7 +1761,7 @@ Prayer bpn12417 in Namibia (bpn12417)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12428 in Namibia (bpn12428) 
+Prayer bpn12428 (bpn12428) 
 
 [bahaiprayers.net 12428](https://bahaiprayers.net/Book/Single/46/12428)
 
@@ -1778,7 +1778,7 @@ Prayer bpn12428 in Namibia (bpn12428)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12427 in Namibia (bpn12427) 
+Prayer bpn12427 (bpn12427) 
 
 [bahaiprayers.net 12427](https://bahaiprayers.net/Book/Single/46/12427)
 
@@ -1795,7 +1795,7 @@ Prayer bpn12427 in Namibia (bpn12427)
 
 -- Bahá'u'lláh
 
-Prayer bpn12430 in Namibia (bpn12430) 
+Prayer bpn12430 (bpn12430) 
 
 [bahaiprayers.net 12430](https://bahaiprayers.net/Book/Single/46/12430)
 
@@ -1808,7 +1808,7 @@ Prayer bpn12430 in Namibia (bpn12430)
 
 -- Bahá'u'lláh
 
-Prayer bpn12431 in Namibia (bpn12431) 
+Prayer bpn12431 (bpn12431) 
 
 [bahaiprayers.net 12431](https://bahaiprayers.net/Book/Single/46/12431)
 
@@ -1821,7 +1821,7 @@ Prayer bpn12431 in Namibia (bpn12431)
 
 -- Bahá'u'lláh
 
-Prayer bpn12432 in Namibia (bpn12432) 
+Prayer bpn12432 (bpn12432) 
 
 [bahaiprayers.net 12432](https://bahaiprayers.net/Book/Single/46/12432)
 
@@ -1834,7 +1834,7 @@ Prayer bpn12432 in Namibia (bpn12432)
 
 -- Bahá'u'lláh
 
-Prayer bpn12433 in Namibia (bpn12433) 
+Prayer bpn12433 (bpn12433) 
 
 [bahaiprayers.net 12433](https://bahaiprayers.net/Book/Single/46/12433)
 
@@ -1847,7 +1847,7 @@ Prayer bpn12433 in Namibia (bpn12433)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12434 in Namibia (bpn12434) 
+Prayer bpn12434 (bpn12434) 
 
 [bahaiprayers.net 12434](https://bahaiprayers.net/Book/Single/46/12434)
 
@@ -1860,7 +1860,7 @@ Prayer bpn12434 in Namibia (bpn12434)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12435 in Namibia (bpn12435) 
+Prayer bpn12435 (bpn12435) 
 
 [bahaiprayers.net 12435](https://bahaiprayers.net/Book/Single/46/12435)
 
@@ -1873,7 +1873,7 @@ Prayer bpn12435 in Namibia (bpn12435)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12436 in Namibia (bpn12436) 
+Prayer bpn12436 (bpn12436) 
 
 [bahaiprayers.net 12436](https://bahaiprayers.net/Book/Single/46/12436)
 
@@ -1886,7 +1886,7 @@ Prayer bpn12436 in Namibia (bpn12436)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12437 in Namibia (bpn12437) 
+Prayer bpn12437 (bpn12437) 
 
 [bahaiprayers.net 12437](https://bahaiprayers.net/Book/Single/46/12437)
 
@@ -1899,7 +1899,7 @@ Prayer bpn12437 in Namibia (bpn12437)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12438 in Namibia (bpn12438) 
+Prayer bpn12438 (bpn12438) 
 
 [bahaiprayers.net 12438](https://bahaiprayers.net/Book/Single/46/12438)
 
@@ -1916,7 +1916,7 @@ Prayer bpn12438 in Namibia (bpn12438)
 
 -- Bahá'u'lláh
 
-Prayer bpn12412 in Namibia (bpn12412) 
+Prayer bpn12412 (bpn12412) 
 
 [bahaiprayers.net 12412](https://bahaiprayers.net/Book/Single/46/12412)
 
@@ -1933,7 +1933,7 @@ Prayer bpn12412 in Namibia (bpn12412)
 
 -- Bahá'u'lláh
 
-Prayer bpn12418 in Namibia (bpn12418) 
+Prayer bpn12418 (bpn12418) 
 
 [bahaiprayers.net 12418](https://bahaiprayers.net/Book/Single/46/12418)
 
@@ -1950,7 +1950,7 @@ Prayer bpn12418 in Namibia (bpn12418)
 
 -- Bahá'u'lláh
 
-Prayer bpn12419 in Namibia (bpn12419) 
+Prayer bpn12419 (bpn12419) 
 
 [bahaiprayers.net 12419](https://bahaiprayers.net/Book/Single/46/12419)
 
@@ -1967,7 +1967,7 @@ Prayer bpn12419 in Namibia (bpn12419)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12424 in Namibia (bpn12424) 
+Prayer bpn12424 (bpn12424) 
 
 [bahaiprayers.net 12424](https://bahaiprayers.net/Book/Single/46/12424)
 
@@ -1984,7 +1984,7 @@ Prayer bpn12424 in Namibia (bpn12424)
 
 -- Bahá'u'lláh
 
-Prayer bpn12423 in Namibia (bpn12423) 
+Prayer bpn12423 (bpn12423) 
 
 [bahaiprayers.net 12423](https://bahaiprayers.net/Book/Single/46/12423)
 
@@ -2001,7 +2001,7 @@ Prayer bpn12423 in Namibia (bpn12423)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12422 in Namibia (bpn12422) 
+Prayer bpn12422 (bpn12422) 
 
 [bahaiprayers.net 12422](https://bahaiprayers.net/Book/Single/46/12422)
 
@@ -2018,7 +2018,7 @@ Prayer bpn12422 in Namibia (bpn12422)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12420 in Namibia (bpn12420) 
+Prayer bpn12420 (bpn12420) 
 
 [bahaiprayers.net 12420](https://bahaiprayers.net/Book/Single/46/12420)
 
@@ -2035,7 +2035,7 @@ Prayer bpn12420 in Namibia (bpn12420)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12440 in Namibia (bpn12440) 
+Prayer bpn12440 (bpn12440) 
 
 [bahaiprayers.net 12440](https://bahaiprayers.net/Book/Single/46/12440)
 
@@ -2052,7 +2052,7 @@ Prayer bpn12440 in Namibia (bpn12440)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12439 in Namibia (bpn12439) 
+Prayer bpn12439 (bpn12439) 
 
 [bahaiprayers.net 12439](https://bahaiprayers.net/Book/Single/46/12439)
 
@@ -2069,7 +2069,7 @@ Prayer bpn12439 in Namibia (bpn12439)
 
 -- Bahá'u'lláh
 
-Prayer bpn6013 in Namibia (bpn6013) 
+Prayer bpn6013 (bpn6013) 
 
 [bahaiprayers.net 6013](https://bahaiprayers.net/Book/Single/46/6013)
 
@@ -2086,7 +2086,7 @@ Prayer bpn6013 in Namibia (bpn6013)
 
 -- Bahá'u'lláh
 
-Prayer bpn6014 in Namibia (bpn6014) 
+Prayer bpn6014 (bpn6014) 
 
 [bahaiprayers.net 6014](https://bahaiprayers.net/Book/Single/46/6014)
 
@@ -2103,7 +2103,7 @@ Prayer bpn6014 in Namibia (bpn6014)
 
 -- Bahá'u'lláh
 
-Prayer bpn6012 in Namibia (bpn6012) 
+Prayer bpn6012 (bpn6012) 
 
 [bahaiprayers.net 6012](https://bahaiprayers.net/Book/Single/46/6012)
 
@@ -2120,7 +2120,7 @@ Prayer bpn6012 in Namibia (bpn6012)
 
 -- Bahá'u'lláh
 
-Prayer bpn6313 in Namibia (bpn6313) 
+Prayer bpn6313 (bpn6313) 
 
 [bahaiprayers.net 6313](https://bahaiprayers.net/Book/Single/46/6313)
 
@@ -2137,7 +2137,7 @@ Prayer bpn6313 in Namibia (bpn6313)
 
 -- Bahá'u'lláh
 
-Prayer bpn6318 in Namibia (bpn6318) 
+Prayer bpn6318 (bpn6318) 
 
 [bahaiprayers.net 6318](https://bahaiprayers.net/Book/Single/46/6318)
 
@@ -2154,7 +2154,7 @@ Prayer bpn6318 in Namibia (bpn6318)
 
 -- Bahá'u'lláh
 
-Prayer bpn6320 in Namibia (bpn6320) 
+Prayer bpn6320 (bpn6320) 
 
 [bahaiprayers.net 6320](https://bahaiprayers.net/Book/Single/46/6320)
 
@@ -2171,7 +2171,7 @@ Prayer bpn6320 in Namibia (bpn6320)
 
 -- Bahá'u'lláh
 
-Prayer bpn6327 in Namibia (bpn6327) 
+Prayer bpn6327 (bpn6327) 
 
 [bahaiprayers.net 6327](https://bahaiprayers.net/Book/Single/46/6327)
 
@@ -2184,7 +2184,7 @@ Prayer bpn6327 in Namibia (bpn6327)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6328 in Namibia (bpn6328) 
+Prayer bpn6328 (bpn6328) 
 
 [bahaiprayers.net 6328](https://bahaiprayers.net/Book/Single/46/6328)
 
@@ -2201,7 +2201,7 @@ Prayer bpn6328 in Namibia (bpn6328)
 
 -- Bahá'u'lláh
 
-Prayer bpn6314 in Namibia (bpn6314) 
+Prayer bpn6314 (bpn6314) 
 
 [bahaiprayers.net 6314](https://bahaiprayers.net/Book/Single/46/6314)
 
@@ -2218,7 +2218,7 @@ Prayer bpn6314 in Namibia (bpn6314)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6326 in Namibia (bpn6326) 
+Prayer bpn6326 (bpn6326) 
 
 [bahaiprayers.net 6326](https://bahaiprayers.net/Book/Single/46/6326)
 
@@ -2235,7 +2235,7 @@ Prayer bpn6326 in Namibia (bpn6326)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6321 in Namibia (bpn6321) 
+Prayer bpn6321 (bpn6321) 
 
 [bahaiprayers.net 6321](https://bahaiprayers.net/Book/Single/46/6321)
 
@@ -2252,7 +2252,7 @@ Prayer bpn6321 in Namibia (bpn6321)
 
 -- Bahá'u'lláh
 
-Prayer bpn6315 in Namibia (bpn6315) 
+Prayer bpn6315 (bpn6315) 
 
 [bahaiprayers.net 6315](https://bahaiprayers.net/Book/Single/46/6315)
 
@@ -2265,7 +2265,7 @@ Prayer bpn6315 in Namibia (bpn6315)
 
 -- Bahá'u'lláh
 
-Prayer bpn6316 in Namibia (bpn6316) 
+Prayer bpn6316 (bpn6316) 
 
 [bahaiprayers.net 6316](https://bahaiprayers.net/Book/Single/46/6316)
 
@@ -2282,7 +2282,7 @@ Prayer bpn6316 in Namibia (bpn6316)
 
 -- Bahá'u'lláh
 
-Prayer bpn6317 in Namibia (bpn6317) 
+Prayer bpn6317 (bpn6317) 
 
 [bahaiprayers.net 6317](https://bahaiprayers.net/Book/Single/46/6317)
 
@@ -2299,7 +2299,7 @@ Prayer bpn6317 in Namibia (bpn6317)
 
 -- Bahá'u'lláh
 
-Prayer bpn6329 in Namibia (bpn6329) 
+Prayer bpn6329 (bpn6329) 
 
 [bahaiprayers.net 6329](https://bahaiprayers.net/Book/Single/46/6329)
 
@@ -2312,7 +2312,7 @@ Prayer bpn6329 in Namibia (bpn6329)
 
 -- Bahá'u'lláh
 
-Prayer bpn6330 in Namibia (bpn6330) 
+Prayer bpn6330 (bpn6330) 
 
 [bahaiprayers.net 6330](https://bahaiprayers.net/Book/Single/46/6330)
 
@@ -2325,7 +2325,7 @@ Prayer bpn6330 in Namibia (bpn6330)
 
 -- Bahá'u'lláh
 
-Prayer bpn6331 in Namibia (bpn6331) 
+Prayer bpn6331 (bpn6331) 
 
 [bahaiprayers.net 6331](https://bahaiprayers.net/Book/Single/46/6331)
 
@@ -2338,7 +2338,7 @@ Prayer bpn6331 in Namibia (bpn6331)
 
 -- Bahá'u'lláh
 
-Prayer bpn6332 in Namibia (bpn6332) 
+Prayer bpn6332 (bpn6332) 
 
 [bahaiprayers.net 6332](https://bahaiprayers.net/Book/Single/46/6332)
 
@@ -2351,7 +2351,7 @@ Prayer bpn6332 in Namibia (bpn6332)
 
 -- Báb
 
-Prayer bpn6333 in Namibia (bpn6333) 
+Prayer bpn6333 (bpn6333) 
 
 [bahaiprayers.net 6333](https://bahaiprayers.net/Book/Single/46/6333)
 
@@ -2364,7 +2364,7 @@ Prayer bpn6333 in Namibia (bpn6333)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6334 in Namibia (bpn6334) 
+Prayer bpn6334 (bpn6334) 
 
 [bahaiprayers.net 6334](https://bahaiprayers.net/Book/Single/46/6334)
 
@@ -2377,7 +2377,7 @@ Prayer bpn6334 in Namibia (bpn6334)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6335 in Namibia (bpn6335) 
+Prayer bpn6335 (bpn6335) 
 
 [bahaiprayers.net 6335](https://bahaiprayers.net/Book/Single/46/6335)
 
@@ -2390,7 +2390,7 @@ Prayer bpn6335 in Namibia (bpn6335)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6336 in Namibia (bpn6336) 
+Prayer bpn6336 (bpn6336) 
 
 [bahaiprayers.net 6336](https://bahaiprayers.net/Book/Single/46/6336)
 
@@ -2403,7 +2403,7 @@ Prayer bpn6336 in Namibia (bpn6336)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6337 in Namibia (bpn6337) 
+Prayer bpn6337 (bpn6337) 
 
 [bahaiprayers.net 6337](https://bahaiprayers.net/Book/Single/46/6337)
 
@@ -2416,7 +2416,7 @@ Prayer bpn6337 in Namibia (bpn6337)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6338 in Namibia (bpn6338) 
+Prayer bpn6338 (bpn6338) 
 
 [bahaiprayers.net 6338](https://bahaiprayers.net/Book/Single/46/6338)
 
@@ -2429,7 +2429,7 @@ Prayer bpn6338 in Namibia (bpn6338)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6339 in Namibia (bpn6339) 
+Prayer bpn6339 (bpn6339) 
 
 [bahaiprayers.net 6339](https://bahaiprayers.net/Book/Single/46/6339)
 
@@ -2442,7 +2442,7 @@ Prayer bpn6339 in Namibia (bpn6339)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6340 in Namibia (bpn6340) 
+Prayer bpn6340 (bpn6340) 
 
 [bahaiprayers.net 6340](https://bahaiprayers.net/Book/Single/46/6340)
 
@@ -2459,7 +2459,7 @@ Prayer bpn6340 in Namibia (bpn6340)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6322 in Namibia (bpn6322) 
+Prayer bpn6322 (bpn6322) 
 
 [bahaiprayers.net 6322](https://bahaiprayers.net/Book/Single/46/6322)
 
@@ -2472,7 +2472,7 @@ Prayer bpn6322 in Namibia (bpn6322)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6323 in Namibia (bpn6323) 
+Prayer bpn6323 (bpn6323) 
 
 [bahaiprayers.net 6323](https://bahaiprayers.net/Book/Single/46/6323)
 
@@ -2485,7 +2485,7 @@ Prayer bpn6323 in Namibia (bpn6323)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6324 in Namibia (bpn6324) 
+Prayer bpn6324 (bpn6324) 
 
 [bahaiprayers.net 6324](https://bahaiprayers.net/Book/Single/46/6324)
 
@@ -2498,7 +2498,7 @@ Prayer bpn6324 in Namibia (bpn6324)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6325 in Namibia (bpn6325) 
+Prayer bpn6325 (bpn6325) 
 
 [bahaiprayers.net 6325](https://bahaiprayers.net/Book/Single/46/6325)
 
@@ -2515,7 +2515,7 @@ Prayer bpn6325 in Namibia (bpn6325)
 
 -- Abdu'l-Bahá
 
-Prayer bpn6319 in Namibia (bpn6319) 
+Prayer bpn6319 (bpn6319) 
 
 [bahaiprayers.net 6319](https://bahaiprayers.net/Book/Single/46/6319)
 

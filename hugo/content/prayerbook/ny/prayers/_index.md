@@ -90,7 +90,7 @@ tags = ['lang=ny', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13449 in Chichewa (bpn13449) 
+Prayer bpn13449 (bpn13449) 
 
 [bahaiprayers.net 13449](https://bahaiprayers.net/Book/Single/94/13449)
 
@@ -103,7 +103,7 @@ Prayer bpn13449 in Chichewa (bpn13449)
 
 -- Bahá'u'lláh
 
-Prayer bpn13450 in Chichewa (bpn13450) 
+Prayer bpn13450 (bpn13450) 
 
 [bahaiprayers.net 13450](https://bahaiprayers.net/Book/Single/94/13450)
 
@@ -116,7 +116,7 @@ Prayer bpn13450 in Chichewa (bpn13450)
 
 -- Báb
 
-Prayer bpn13446 in Chichewa (bpn13446) 
+Prayer bpn13446 (bpn13446) 
 
 [bahaiprayers.net 13446](https://bahaiprayers.net/Book/Single/94/13446)
 
@@ -129,7 +129,7 @@ Prayer bpn13446 in Chichewa (bpn13446)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13447 in Chichewa (bpn13447) 
+Prayer bpn13447 (bpn13447) 
 
 [bahaiprayers.net 13447](https://bahaiprayers.net/Book/Single/94/13447)
 
@@ -142,7 +142,7 @@ Prayer bpn13447 in Chichewa (bpn13447)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13448 in Chichewa (bpn13448) 
+Prayer bpn13448 (bpn13448) 
 
 [bahaiprayers.net 13448](https://bahaiprayers.net/Book/Single/94/13448)
 
@@ -155,7 +155,7 @@ Prayer bpn13448 in Chichewa (bpn13448)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13451 in Chichewa (bpn13451) 
+Prayer bpn13451 (bpn13451) 
 
 [bahaiprayers.net 13451](https://bahaiprayers.net/Book/Single/94/13451)
 
@@ -172,7 +172,7 @@ Prayer bpn13451 in Chichewa (bpn13451)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13452 in Chichewa (bpn13452) 
+Prayer bpn13452 (bpn13452) 
 
 [bahaiprayers.net 13452](https://bahaiprayers.net/Book/Single/94/13452)
 
@@ -189,7 +189,7 @@ Prayer bpn13452 in Chichewa (bpn13452)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13453 in Chichewa (bpn13453) 
+Prayer bpn13453 (bpn13453) 
 
 [bahaiprayers.net 13453](https://bahaiprayers.net/Book/Single/94/13453)
 
@@ -202,7 +202,7 @@ Prayer bpn13453 in Chichewa (bpn13453)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13454 in Chichewa (bpn13454) 
+Prayer bpn13454 (bpn13454) 
 
 [bahaiprayers.net 13454](https://bahaiprayers.net/Book/Single/94/13454)
 
@@ -219,7 +219,7 @@ Prayer bpn13454 in Chichewa (bpn13454)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13455 in Chichewa (bpn13455) 
+Prayer bpn13455 (bpn13455) 
 
 [bahaiprayers.net 13455](https://bahaiprayers.net/Book/Single/94/13455)
 
@@ -236,7 +236,7 @@ Prayer bpn13455 in Chichewa (bpn13455)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13456 in Chichewa (bpn13456) 
+Prayer bpn13456 (bpn13456) 
 
 [bahaiprayers.net 13456](https://bahaiprayers.net/Book/Single/94/13456)
 
@@ -253,7 +253,7 @@ Prayer bpn13456 in Chichewa (bpn13456)
 
 -- Bahá'u'lláh
 
-Prayer bpn13457 in Chichewa (bpn13457) 
+Prayer bpn13457 (bpn13457) 
 
 [bahaiprayers.net 13457](https://bahaiprayers.net/Book/Single/94/13457)
 
@@ -266,7 +266,7 @@ Prayer bpn13457 in Chichewa (bpn13457)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13458 in Chichewa (bpn13458) 
+Prayer bpn13458 (bpn13458) 
 
 [bahaiprayers.net 13458](https://bahaiprayers.net/Book/Single/94/13458)
 
@@ -283,7 +283,7 @@ Prayer bpn13458 in Chichewa (bpn13458)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13459 in Chichewa (bpn13459) 
+Prayer bpn13459 (bpn13459) 
 
 [bahaiprayers.net 13459](https://bahaiprayers.net/Book/Single/94/13459)
 
@@ -296,7 +296,7 @@ Prayer bpn13459 in Chichewa (bpn13459)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13460 in Chichewa (bpn13460) 
+Prayer bpn13460 (bpn13460) 
 
 [bahaiprayers.net 13460](https://bahaiprayers.net/Book/Single/94/13460)
 
@@ -313,7 +313,7 @@ Prayer bpn13460 in Chichewa (bpn13460)
 
 -- Bahá'u'lláh
 
-Prayer bpn13461 in Chichewa (bpn13461) 
+Prayer bpn13461 (bpn13461) 
 
 [bahaiprayers.net 13461](https://bahaiprayers.net/Book/Single/94/13461)
 
@@ -326,7 +326,7 @@ Prayer bpn13461 in Chichewa (bpn13461)
 
 -- Bahá'u'lláh
 
-Prayer bpn13462 in Chichewa (bpn13462) 
+Prayer bpn13462 (bpn13462) 
 
 [bahaiprayers.net 13462](https://bahaiprayers.net/Book/Single/94/13462)
 
@@ -343,7 +343,7 @@ Prayer bpn13462 in Chichewa (bpn13462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13463 in Chichewa (bpn13463) 
+Prayer bpn13463 (bpn13463) 
 
 [bahaiprayers.net 13463](https://bahaiprayers.net/Book/Single/94/13463)
 
@@ -356,7 +356,7 @@ Prayer bpn13463 in Chichewa (bpn13463)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13464 in Chichewa (bpn13464) 
+Prayer bpn13464 (bpn13464) 
 
 [bahaiprayers.net 13464](https://bahaiprayers.net/Book/Single/94/13464)
 
@@ -373,7 +373,7 @@ Prayer bpn13464 in Chichewa (bpn13464)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13465 in Chichewa (bpn13465) 
+Prayer bpn13465 (bpn13465) 
 
 [bahaiprayers.net 13465](https://bahaiprayers.net/Book/Single/94/13465)
 
@@ -390,7 +390,7 @@ Prayer bpn13465 in Chichewa (bpn13465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13466 in Chichewa (bpn13466) 
+Prayer bpn13466 (bpn13466) 
 
 [bahaiprayers.net 13466](https://bahaiprayers.net/Book/Single/94/13466)
 
@@ -407,7 +407,7 @@ Prayer bpn13466 in Chichewa (bpn13466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13467 in Chichewa (bpn13467) 
+Prayer bpn13467 (bpn13467) 
 
 [bahaiprayers.net 13467](https://bahaiprayers.net/Book/Single/94/13467)
 
@@ -420,7 +420,7 @@ Prayer bpn13467 in Chichewa (bpn13467)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13468 in Chichewa (bpn13468) 
+Prayer bpn13468 (bpn13468) 
 
 [bahaiprayers.net 13468](https://bahaiprayers.net/Book/Single/94/13468)
 
@@ -433,7 +433,7 @@ Prayer bpn13468 in Chichewa (bpn13468)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13469 in Chichewa (bpn13469) 
+Prayer bpn13469 (bpn13469) 
 
 [bahaiprayers.net 13469](https://bahaiprayers.net/Book/Single/94/13469)
 
@@ -450,7 +450,7 @@ Prayer bpn13469 in Chichewa (bpn13469)
 
 -- Bahá'u'lláh
 
-Prayer bpn13445 in Chichewa (bpn13445) 
+Prayer bpn13445 (bpn13445) 
 
 [bahaiprayers.net 13445](https://bahaiprayers.net/Book/Single/94/13445)
 
@@ -467,7 +467,7 @@ Prayer bpn13445 in Chichewa (bpn13445)
 
 -- Bahá'u'lláh
 
-Prayer bpn13470 in Chichewa (bpn13470) 
+Prayer bpn13470 (bpn13470) 
 
 [bahaiprayers.net 13470](https://bahaiprayers.net/Book/Single/94/13470)
 
@@ -484,7 +484,7 @@ Prayer bpn13470 in Chichewa (bpn13470)
 
 -- Bahá'u'lláh
 
-Prayer bpn13443 in Chichewa (bpn13443) 
+Prayer bpn13443 (bpn13443) 
 
 [bahaiprayers.net 13443](https://bahaiprayers.net/Book/Single/94/13443)
 
@@ -497,7 +497,7 @@ Prayer bpn13443 in Chichewa (bpn13443)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13444 in Chichewa (bpn13444) 
+Prayer bpn13444 (bpn13444) 
 
 [bahaiprayers.net 13444](https://bahaiprayers.net/Book/Single/94/13444)
 
@@ -514,7 +514,7 @@ Prayer bpn13444 in Chichewa (bpn13444)
 
 -- Bahá'u'lláh
 
-Prayer bpn13471 in Chichewa (bpn13471) 
+Prayer bpn13471 (bpn13471) 
 
 [bahaiprayers.net 13471](https://bahaiprayers.net/Book/Single/94/13471)
 
@@ -531,7 +531,7 @@ Prayer bpn13471 in Chichewa (bpn13471)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13472 in Chichewa (bpn13472) 
+Prayer bpn13472 (bpn13472) 
 
 [bahaiprayers.net 13472](https://bahaiprayers.net/Book/Single/94/13472)
 
@@ -548,7 +548,7 @@ Prayer bpn13472 in Chichewa (bpn13472)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13473 in Chichewa (bpn13473) 
+Prayer bpn13473 (bpn13473) 
 
 [bahaiprayers.net 13473](https://bahaiprayers.net/Book/Single/94/13473)
 
@@ -565,7 +565,7 @@ Prayer bpn13473 in Chichewa (bpn13473)
 
 -- Bahá'u'lláh
 
-Prayer bpn13441 in Chichewa (bpn13441) 
+Prayer bpn13441 (bpn13441) 
 
 [bahaiprayers.net 13441](https://bahaiprayers.net/Book/Single/94/13441)
 
@@ -582,7 +582,7 @@ Prayer bpn13441 in Chichewa (bpn13441)
 
 -- Bahá'u'lláh
 
-Prayer bpn13442 in Chichewa (bpn13442) 
+Prayer bpn13442 (bpn13442) 
 
 [bahaiprayers.net 13442](https://bahaiprayers.net/Book/Single/94/13442)
 
@@ -599,7 +599,7 @@ Prayer bpn13442 in Chichewa (bpn13442)
 
 -- Bahá'u'lláh
 
-Prayer bpn13474 in Chichewa (bpn13474) 
+Prayer bpn13474 (bpn13474) 
 
 [bahaiprayers.net 13474](https://bahaiprayers.net/Book/Single/94/13474)
 
@@ -612,7 +612,7 @@ Prayer bpn13474 in Chichewa (bpn13474)
 
 -- Bahá'u'lláh
 
-Prayer bpn13475 in Chichewa (bpn13475) 
+Prayer bpn13475 (bpn13475) 
 
 [bahaiprayers.net 13475](https://bahaiprayers.net/Book/Single/94/13475)
 
@@ -625,7 +625,7 @@ Prayer bpn13475 in Chichewa (bpn13475)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13476 in Chichewa (bpn13476) 
+Prayer bpn13476 (bpn13476) 
 
 [bahaiprayers.net 13476](https://bahaiprayers.net/Book/Single/94/13476)
 
@@ -642,7 +642,7 @@ Prayer bpn13476 in Chichewa (bpn13476)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13477 in Chichewa (bpn13477) 
+Prayer bpn13477 (bpn13477) 
 
 [bahaiprayers.net 13477](https://bahaiprayers.net/Book/Single/94/13477)
 
@@ -659,7 +659,7 @@ Prayer bpn13477 in Chichewa (bpn13477)
 
 -- Bahá'u'lláh
 
-Prayer bpn13478 in Chichewa (bpn13478) 
+Prayer bpn13478 (bpn13478) 
 
 [bahaiprayers.net 13478](https://bahaiprayers.net/Book/Single/94/13478)
 
@@ -676,7 +676,7 @@ Prayer bpn13478 in Chichewa (bpn13478)
 
 -- Bahá'u'lláh
 
-Prayer bpn13479 in Chichewa (bpn13479) 
+Prayer bpn13479 (bpn13479) 
 
 [bahaiprayers.net 13479](https://bahaiprayers.net/Book/Single/94/13479)
 
@@ -693,7 +693,7 @@ Prayer bpn13479 in Chichewa (bpn13479)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13480 in Chichewa (bpn13480) 
+Prayer bpn13480 (bpn13480) 
 
 [bahaiprayers.net 13480](https://bahaiprayers.net/Book/Single/94/13480)
 
@@ -710,7 +710,7 @@ Prayer bpn13480 in Chichewa (bpn13480)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13481 in Chichewa (bpn13481) 
+Prayer bpn13481 (bpn13481) 
 
 [bahaiprayers.net 13481](https://bahaiprayers.net/Book/Single/94/13481)
 
@@ -727,7 +727,7 @@ Prayer bpn13481 in Chichewa (bpn13481)
 
 -- Bahá'u'lláh
 
-Prayer bpn13438 in Chichewa (bpn13438) 
+Prayer bpn13438 (bpn13438) 
 
 [bahaiprayers.net 13438](https://bahaiprayers.net/Book/Single/94/13438)
 
@@ -744,7 +744,7 @@ Prayer bpn13438 in Chichewa (bpn13438)
 
 -- Bahá'u'lláh
 
-Prayer bpn13440 in Chichewa (bpn13440) 
+Prayer bpn13440 (bpn13440) 
 
 [bahaiprayers.net 13440](https://bahaiprayers.net/Book/Single/94/13440)
 
@@ -761,7 +761,7 @@ Prayer bpn13440 in Chichewa (bpn13440)
 
 -- Bahá'u'lláh
 
-Prayer bpn13439 in Chichewa (bpn13439) 
+Prayer bpn13439 (bpn13439) 
 
 [bahaiprayers.net 13439](https://bahaiprayers.net/Book/Single/94/13439)
 
@@ -778,7 +778,7 @@ Prayer bpn13439 in Chichewa (bpn13439)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13482 in Chichewa (bpn13482) 
+Prayer bpn13482 (bpn13482) 
 
 [bahaiprayers.net 13482](https://bahaiprayers.net/Book/Single/94/13482)
 
@@ -795,7 +795,7 @@ Prayer bpn13482 in Chichewa (bpn13482)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13483 in Chichewa (bpn13483) 
+Prayer bpn13483 (bpn13483) 
 
 [bahaiprayers.net 13483](https://bahaiprayers.net/Book/Single/94/13483)
 
@@ -812,7 +812,7 @@ Prayer bpn13483 in Chichewa (bpn13483)
 
 -- Bahá'u'lláh
 
-Prayer bpn13484 in Chichewa (bpn13484) 
+Prayer bpn13484 (bpn13484) 
 
 [bahaiprayers.net 13484](https://bahaiprayers.net/Book/Single/94/13484)
 
@@ -825,7 +825,7 @@ Prayer bpn13484 in Chichewa (bpn13484)
 
 -- Bahá'u'lláh
 
-Prayer bpn13485 in Chichewa (bpn13485) 
+Prayer bpn13485 (bpn13485) 
 
 [bahaiprayers.net 13485](https://bahaiprayers.net/Book/Single/94/13485)
 
@@ -842,7 +842,7 @@ Prayer bpn13485 in Chichewa (bpn13485)
 
 -- Bahá'u'lláh
 
-Prayer bpn13486 in Chichewa (bpn13486) 
+Prayer bpn13486 (bpn13486) 
 
 [bahaiprayers.net 13486](https://bahaiprayers.net/Book/Single/94/13486)
 
@@ -855,7 +855,7 @@ Prayer bpn13486 in Chichewa (bpn13486)
 
 -- Bahá'u'lláh
 
-Prayer bpn13487 in Chichewa (bpn13487) 
+Prayer bpn13487 (bpn13487) 
 
 [bahaiprayers.net 13487](https://bahaiprayers.net/Book/Single/94/13487)
 
@@ -868,7 +868,7 @@ Prayer bpn13487 in Chichewa (bpn13487)
 
 -- Bahá'u'lláh
 
-Prayer bpn13488 in Chichewa (bpn13488) 
+Prayer bpn13488 (bpn13488) 
 
 [bahaiprayers.net 13488](https://bahaiprayers.net/Book/Single/94/13488)
 
@@ -885,7 +885,7 @@ Prayer bpn13488 in Chichewa (bpn13488)
 
 -- Bahá'u'lláh
 
-Prayer bpn13491 in Chichewa (bpn13491) 
+Prayer bpn13491 (bpn13491) 
 
 [bahaiprayers.net 13491](https://bahaiprayers.net/Book/Single/94/13491)
 
@@ -898,7 +898,7 @@ Prayer bpn13491 in Chichewa (bpn13491)
 
 -- Báb
 
-Prayer bpn13489 in Chichewa (bpn13489) 
+Prayer bpn13489 (bpn13489) 
 
 [bahaiprayers.net 13489](https://bahaiprayers.net/Book/Single/94/13489)
 
@@ -911,7 +911,7 @@ Prayer bpn13489 in Chichewa (bpn13489)
 
 -- Báb
 
-Prayer bpn13490 in Chichewa (bpn13490) 
+Prayer bpn13490 (bpn13490) 
 
 [bahaiprayers.net 13490](https://bahaiprayers.net/Book/Single/94/13490)
 
@@ -924,7 +924,7 @@ Prayer bpn13490 in Chichewa (bpn13490)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13492 in Chichewa (bpn13492) 
+Prayer bpn13492 (bpn13492) 
 
 [bahaiprayers.net 13492](https://bahaiprayers.net/Book/Single/94/13492)
 
@@ -941,7 +941,7 @@ Prayer bpn13492 in Chichewa (bpn13492)
 
 -- Bahá'u'lláh
 
-Prayer bpn13493 in Chichewa (bpn13493) 
+Prayer bpn13493 (bpn13493) 
 
 [bahaiprayers.net 13493](https://bahaiprayers.net/Book/Single/94/13493)
 
@@ -958,7 +958,7 @@ Prayer bpn13493 in Chichewa (bpn13493)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13494 in Chichewa (bpn13494) 
+Prayer bpn13494 (bpn13494) 
 
 [bahaiprayers.net 13494](https://bahaiprayers.net/Book/Single/94/13494)
 
@@ -975,7 +975,7 @@ Prayer bpn13494 in Chichewa (bpn13494)
 
 -- Bahá'u'lláh
 
-Prayer bpn13495 in Chichewa (bpn13495) 
+Prayer bpn13495 (bpn13495) 
 
 [bahaiprayers.net 13495](https://bahaiprayers.net/Book/Single/94/13495)
 
@@ -988,7 +988,7 @@ Prayer bpn13495 in Chichewa (bpn13495)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13496 in Chichewa (bpn13496) 
+Prayer bpn13496 (bpn13496) 
 
 [bahaiprayers.net 13496](https://bahaiprayers.net/Book/Single/94/13496)
 
@@ -1001,7 +1001,7 @@ Prayer bpn13496 in Chichewa (bpn13496)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13497 in Chichewa (bpn13497) 
+Prayer bpn13497 (bpn13497) 
 
 [bahaiprayers.net 13497](https://bahaiprayers.net/Book/Single/94/13497)
 

@@ -64,7 +64,7 @@ tags = ['lang=cy', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13326 in Cymraeg (bpn13326) 
+Prayer bpn13326 (bpn13326) 
 
 [bahaiprayers.net 13326](https://bahaiprayers.net/Book/Single/60/13326)
 
@@ -77,7 +77,7 @@ Prayer bpn13326 in Cymraeg (bpn13326)
 
 -- Báb
 
-Prayer bpn13324 in Cymraeg (bpn13324) 
+Prayer bpn13324 (bpn13324) 
 
 [bahaiprayers.net 13324](https://bahaiprayers.net/Book/Single/60/13324)
 
@@ -90,7 +90,7 @@ Prayer bpn13324 in Cymraeg (bpn13324)
 
 -- Báb
 
-Prayer bpn13325 in Cymraeg (bpn13325) 
+Prayer bpn13325 (bpn13325) 
 
 [bahaiprayers.net 13325](https://bahaiprayers.net/Book/Single/60/13325)
 
@@ -103,7 +103,7 @@ Prayer bpn13325 in Cymraeg (bpn13325)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13327 in Cymraeg (bpn13327) 
+Prayer bpn13327 (bpn13327) 
 
 [bahaiprayers.net 13327](https://bahaiprayers.net/Book/Single/60/13327)
 
@@ -120,7 +120,7 @@ Prayer bpn13327 in Cymraeg (bpn13327)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13330 in Cymraeg (bpn13330) 
+Prayer bpn13330 (bpn13330) 
 
 [bahaiprayers.net 13330](https://bahaiprayers.net/Book/Single/60/13330)
 
@@ -133,7 +133,7 @@ Prayer bpn13330 in Cymraeg (bpn13330)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13328 in Cymraeg (bpn13328) 
+Prayer bpn13328 (bpn13328) 
 
 [bahaiprayers.net 13328](https://bahaiprayers.net/Book/Single/60/13328)
 
@@ -146,7 +146,7 @@ Prayer bpn13328 in Cymraeg (bpn13328)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13329 in Cymraeg (bpn13329) 
+Prayer bpn13329 (bpn13329) 
 
 [bahaiprayers.net 13329](https://bahaiprayers.net/Book/Single/60/13329)
 
@@ -159,7 +159,7 @@ Prayer bpn13329 in Cymraeg (bpn13329)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13331 in Cymraeg (bpn13331) 
+Prayer bpn13331 (bpn13331) 
 
 [bahaiprayers.net 13331](https://bahaiprayers.net/Book/Single/60/13331)
 
@@ -172,7 +172,7 @@ Prayer bpn13331 in Cymraeg (bpn13331)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13332 in Cymraeg (bpn13332) 
+Prayer bpn13332 (bpn13332) 
 
 [bahaiprayers.net 13332](https://bahaiprayers.net/Book/Single/60/13332)
 
@@ -185,7 +185,7 @@ Prayer bpn13332 in Cymraeg (bpn13332)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13333 in Cymraeg (bpn13333) 
+Prayer bpn13333 (bpn13333) 
 
 [bahaiprayers.net 13333](https://bahaiprayers.net/Book/Single/60/13333)
 
@@ -202,7 +202,7 @@ Prayer bpn13333 in Cymraeg (bpn13333)
 
 -- Bahá'u'lláh
 
-Prayer bpn13318 in Cymraeg (bpn13318) 
+Prayer bpn13318 (bpn13318) 
 
 [bahaiprayers.net 13318](https://bahaiprayers.net/Book/Single/60/13318)
 
@@ -215,7 +215,7 @@ Prayer bpn13318 in Cymraeg (bpn13318)
 
 -- Bahá'u'lláh
 
-Prayer bpn13319 in Cymraeg (bpn13319) 
+Prayer bpn13319 (bpn13319) 
 
 [bahaiprayers.net 13319](https://bahaiprayers.net/Book/Single/60/13319)
 
@@ -228,7 +228,7 @@ Prayer bpn13319 in Cymraeg (bpn13319)
 
 -- Bahá'u'lláh
 
-Prayer bpn13320 in Cymraeg (bpn13320) 
+Prayer bpn13320 (bpn13320) 
 
 [bahaiprayers.net 13320](https://bahaiprayers.net/Book/Single/60/13320)
 
@@ -245,7 +245,7 @@ Prayer bpn13320 in Cymraeg (bpn13320)
 
 -- Bahá'u'lláh
 
-Prayer bpn13323 in Cymraeg (bpn13323) 
+Prayer bpn13323 (bpn13323) 
 
 [bahaiprayers.net 13323](https://bahaiprayers.net/Book/Single/60/13323)
 
@@ -262,7 +262,7 @@ Prayer bpn13323 in Cymraeg (bpn13323)
 
 -- Bahá'u'lláh
 
-Prayer bpn13334 in Cymraeg (bpn13334) 
+Prayer bpn13334 (bpn13334) 
 
 [bahaiprayers.net 13334](https://bahaiprayers.net/Book/Single/60/13334)
 
@@ -275,7 +275,7 @@ Prayer bpn13334 in Cymraeg (bpn13334)
 
 -- Bahá'u'lláh
 
-Prayer bpn13335 in Cymraeg (bpn13335) 
+Prayer bpn13335 (bpn13335) 
 
 [bahaiprayers.net 13335](https://bahaiprayers.net/Book/Single/60/13335)
 
@@ -292,7 +292,7 @@ Prayer bpn13335 in Cymraeg (bpn13335)
 
 -- Bahá'u'lláh
 
-Prayer bpn13368 in Cymraeg (bpn13368) 
+Prayer bpn13368 (bpn13368) 
 
 [bahaiprayers.net 13368](https://bahaiprayers.net/Book/Single/60/13368)
 
@@ -305,7 +305,7 @@ Prayer bpn13368 in Cymraeg (bpn13368)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13369 in Cymraeg (bpn13369) 
+Prayer bpn13369 (bpn13369) 
 
 [bahaiprayers.net 13369](https://bahaiprayers.net/Book/Single/60/13369)
 
@@ -318,7 +318,7 @@ Prayer bpn13369 in Cymraeg (bpn13369)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13370 in Cymraeg (bpn13370) 
+Prayer bpn13370 (bpn13370) 
 
 [bahaiprayers.net 13370](https://bahaiprayers.net/Book/Single/60/13370)
 
@@ -335,7 +335,7 @@ Prayer bpn13370 in Cymraeg (bpn13370)
 
 -- Báb
 
-Prayer bpn13353 in Cymraeg (bpn13353) 
+Prayer bpn13353 (bpn13353) 
 
 [bahaiprayers.net 13353](https://bahaiprayers.net/Book/Single/60/13353)
 
@@ -348,7 +348,7 @@ Prayer bpn13353 in Cymraeg (bpn13353)
 
 -- Báb
 
-Prayer bpn13354 in Cymraeg (bpn13354) 
+Prayer bpn13354 (bpn13354) 
 
 [bahaiprayers.net 13354](https://bahaiprayers.net/Book/Single/60/13354)
 
@@ -365,7 +365,7 @@ Prayer bpn13354 in Cymraeg (bpn13354)
 
 -- Báb
 
-Prayer bpn13346 in Cymraeg (bpn13346) 
+Prayer bpn13346 (bpn13346) 
 
 [bahaiprayers.net 13346](https://bahaiprayers.net/Book/Single/60/13346)
 
@@ -378,7 +378,7 @@ Prayer bpn13346 in Cymraeg (bpn13346)
 
 -- Báb
 
-Prayer bpn13347 in Cymraeg (bpn13347) 
+Prayer bpn13347 (bpn13347) 
 
 [bahaiprayers.net 13347](https://bahaiprayers.net/Book/Single/60/13347)
 
@@ -391,7 +391,7 @@ Prayer bpn13347 in Cymraeg (bpn13347)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13348 in Cymraeg (bpn13348) 
+Prayer bpn13348 (bpn13348) 
 
 [bahaiprayers.net 13348](https://bahaiprayers.net/Book/Single/60/13348)
 
@@ -408,7 +408,7 @@ Prayer bpn13348 in Cymraeg (bpn13348)
 
 -- Bahá'u'lláh
 
-Prayer bpn13352 in Cymraeg (bpn13352) 
+Prayer bpn13352 (bpn13352) 
 
 [bahaiprayers.net 13352](https://bahaiprayers.net/Book/Single/60/13352)
 
@@ -425,7 +425,7 @@ Prayer bpn13352 in Cymraeg (bpn13352)
 
 -- Bahá'u'lláh
 
-Prayer bpn13367 in Cymraeg (bpn13367) 
+Prayer bpn13367 (bpn13367) 
 
 [bahaiprayers.net 13367](https://bahaiprayers.net/Book/Single/60/13367)
 
@@ -442,7 +442,7 @@ Prayer bpn13367 in Cymraeg (bpn13367)
 
 -- Bahá'u'lláh
 
-Prayer bpn13322 in Cymraeg (bpn13322) 
+Prayer bpn13322 (bpn13322) 
 
 [bahaiprayers.net 13322](https://bahaiprayers.net/Book/Single/60/13322)
 
@@ -459,7 +459,7 @@ Prayer bpn13322 in Cymraeg (bpn13322)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13364 in Cymraeg (bpn13364) 
+Prayer bpn13364 (bpn13364) 
 
 [bahaiprayers.net 13364](https://bahaiprayers.net/Book/Single/60/13364)
 
@@ -472,7 +472,7 @@ Prayer bpn13364 in Cymraeg (bpn13364)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13373 in Cymraeg (bpn13373) 
+Prayer bpn13373 (bpn13373) 
 
 [bahaiprayers.net 13373](https://bahaiprayers.net/Book/Single/60/13373)
 
@@ -485,7 +485,7 @@ Prayer bpn13373 in Cymraeg (bpn13373)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13374 in Cymraeg (bpn13374) 
+Prayer bpn13374 (bpn13374) 
 
 [bahaiprayers.net 13374](https://bahaiprayers.net/Book/Single/60/13374)
 
@@ -502,7 +502,7 @@ Prayer bpn13374 in Cymraeg (bpn13374)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13336 in Cymraeg (bpn13336) 
+Prayer bpn13336 (bpn13336) 
 
 [bahaiprayers.net 13336](https://bahaiprayers.net/Book/Single/60/13336)
 
@@ -519,7 +519,7 @@ Prayer bpn13336 in Cymraeg (bpn13336)
 
 -- Bahá'u'lláh
 
-Prayer bpn13337 in Cymraeg (bpn13337) 
+Prayer bpn13337 (bpn13337) 
 
 [bahaiprayers.net 13337](https://bahaiprayers.net/Book/Single/60/13337)
 
@@ -536,7 +536,7 @@ Prayer bpn13337 in Cymraeg (bpn13337)
 
 -- Báb
 
-Prayer bpn13371 in Cymraeg (bpn13371) 
+Prayer bpn13371 (bpn13371) 
 
 [bahaiprayers.net 13371](https://bahaiprayers.net/Book/Single/60/13371)
 
@@ -549,7 +549,7 @@ Prayer bpn13371 in Cymraeg (bpn13371)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13372 in Cymraeg (bpn13372) 
+Prayer bpn13372 (bpn13372) 
 
 [bahaiprayers.net 13372](https://bahaiprayers.net/Book/Single/60/13372)
 
@@ -566,7 +566,7 @@ Prayer bpn13372 in Cymraeg (bpn13372)
 
 -- Bahá'u'lláh
 
-Prayer bpn13349 in Cymraeg (bpn13349) 
+Prayer bpn13349 (bpn13349) 
 
 [bahaiprayers.net 13349](https://bahaiprayers.net/Book/Single/60/13349)
 
@@ -583,7 +583,7 @@ Prayer bpn13349 in Cymraeg (bpn13349)
 
 -- Bahá'u'lláh
 
-Prayer bpn13355 in Cymraeg (bpn13355) 
+Prayer bpn13355 (bpn13355) 
 
 [bahaiprayers.net 13355](https://bahaiprayers.net/Book/Single/60/13355)
 
@@ -596,7 +596,7 @@ Prayer bpn13355 in Cymraeg (bpn13355)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13357 in Cymraeg (bpn13357) 
+Prayer bpn13357 (bpn13357) 
 
 [bahaiprayers.net 13357](https://bahaiprayers.net/Book/Single/60/13357)
 
@@ -613,7 +613,7 @@ Prayer bpn13357 in Cymraeg (bpn13357)
 
 -- Bahá'u'lláh
 
-Prayer bpn13350 in Cymraeg (bpn13350) 
+Prayer bpn13350 (bpn13350) 
 
 [bahaiprayers.net 13350](https://bahaiprayers.net/Book/Single/60/13350)
 
@@ -626,7 +626,7 @@ Prayer bpn13350 in Cymraeg (bpn13350)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13351 in Cymraeg (bpn13351) 
+Prayer bpn13351 (bpn13351) 
 
 [bahaiprayers.net 13351](https://bahaiprayers.net/Book/Single/60/13351)
 
@@ -643,7 +643,7 @@ Prayer bpn13351 in Cymraeg (bpn13351)
 
 -- Bahá'u'lláh
 
-Prayer bpn13321 in Cymraeg (bpn13321) 
+Prayer bpn13321 (bpn13321) 
 
 [bahaiprayers.net 13321](https://bahaiprayers.net/Book/Single/60/13321)
 
@@ -660,7 +660,7 @@ Prayer bpn13321 in Cymraeg (bpn13321)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13366 in Cymraeg (bpn13366) 
+Prayer bpn13366 (bpn13366) 
 
 [bahaiprayers.net 13366](https://bahaiprayers.net/Book/Single/60/13366)
 
@@ -673,7 +673,7 @@ Prayer bpn13366 in Cymraeg (bpn13366)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13365 in Cymraeg (bpn13365) 
+Prayer bpn13365 (bpn13365) 
 
 [bahaiprayers.net 13365](https://bahaiprayers.net/Book/Single/60/13365)
 
@@ -690,7 +690,7 @@ Prayer bpn13365 in Cymraeg (bpn13365)
 
 -- Bahá'u'lláh
 
-Prayer bpn13340 in Cymraeg (bpn13340) 
+Prayer bpn13340 (bpn13340) 
 
 [bahaiprayers.net 13340](https://bahaiprayers.net/Book/Single/60/13340)
 
@@ -703,7 +703,7 @@ Prayer bpn13340 in Cymraeg (bpn13340)
 
 -- Bahá'u'lláh
 
-Prayer bpn13341 in Cymraeg (bpn13341) 
+Prayer bpn13341 (bpn13341) 
 
 [bahaiprayers.net 13341](https://bahaiprayers.net/Book/Single/60/13341)
 
@@ -716,7 +716,7 @@ Prayer bpn13341 in Cymraeg (bpn13341)
 
 -- Bahá'u'lláh
 
-Prayer bpn13342 in Cymraeg (bpn13342) 
+Prayer bpn13342 (bpn13342) 
 
 [bahaiprayers.net 13342](https://bahaiprayers.net/Book/Single/60/13342)
 
@@ -729,7 +729,7 @@ Prayer bpn13342 in Cymraeg (bpn13342)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13344 in Cymraeg (bpn13344) 
+Prayer bpn13344 (bpn13344) 
 
 [bahaiprayers.net 13344](https://bahaiprayers.net/Book/Single/60/13344)
 
@@ -742,7 +742,7 @@ Prayer bpn13344 in Cymraeg (bpn13344)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13345 in Cymraeg (bpn13345) 
+Prayer bpn13345 (bpn13345) 
 
 [bahaiprayers.net 13345](https://bahaiprayers.net/Book/Single/60/13345)
 
@@ -759,7 +759,7 @@ Prayer bpn13345 in Cymraeg (bpn13345)
 
 -- Bahá'u'lláh
 
-Prayer bpn13359 in Cymraeg (bpn13359) 
+Prayer bpn13359 (bpn13359) 
 
 [bahaiprayers.net 13359](https://bahaiprayers.net/Book/Single/60/13359)
 
@@ -772,7 +772,7 @@ Prayer bpn13359 in Cymraeg (bpn13359)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13358 in Cymraeg (bpn13358) 
+Prayer bpn13358 (bpn13358) 
 
 [bahaiprayers.net 13358](https://bahaiprayers.net/Book/Single/60/13358)
 
@@ -789,7 +789,7 @@ Prayer bpn13358 in Cymraeg (bpn13358)
 
 -- Bahá'u'lláh
 
-Prayer bpn13338 in Cymraeg (bpn13338) 
+Prayer bpn13338 (bpn13338) 
 
 [bahaiprayers.net 13338](https://bahaiprayers.net/Book/Single/60/13338)
 
@@ -802,7 +802,7 @@ Prayer bpn13338 in Cymraeg (bpn13338)
 
 -- Bahá'u'lláh
 
-Prayer bpn13339 in Cymraeg (bpn13339) 
+Prayer bpn13339 (bpn13339) 
 
 [bahaiprayers.net 13339](https://bahaiprayers.net/Book/Single/60/13339)
 
@@ -819,7 +819,7 @@ Prayer bpn13339 in Cymraeg (bpn13339)
 
 -- Bahá'u'lláh
 
-Prayer bpn13360 in Cymraeg (bpn13360) 
+Prayer bpn13360 (bpn13360) 
 
 [bahaiprayers.net 13360](https://bahaiprayers.net/Book/Single/60/13360)
 
@@ -832,7 +832,7 @@ Prayer bpn13360 in Cymraeg (bpn13360)
 
 -- Bahá'u'lláh
 
-Prayer bpn13361 in Cymraeg (bpn13361) 
+Prayer bpn13361 (bpn13361) 
 
 [bahaiprayers.net 13361](https://bahaiprayers.net/Book/Single/60/13361)
 
@@ -845,7 +845,7 @@ Prayer bpn13361 in Cymraeg (bpn13361)
 
 -- Bahá'u'lláh
 
-Prayer bpn13362 in Cymraeg (bpn13362) 
+Prayer bpn13362 (bpn13362) 
 
 [bahaiprayers.net 13362](https://bahaiprayers.net/Book/Single/60/13362)
 

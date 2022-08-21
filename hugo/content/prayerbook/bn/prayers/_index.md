@@ -108,7 +108,7 @@ tags = ['lang=bn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn8476 in বাংলা (bpn8476) 
+Prayer bpn8476 (bpn8476) 
 
 [bahaiprayers.net 8476](https://bahaiprayers.net/Book/Single/75/8476)
 
@@ -125,7 +125,7 @@ Prayer bpn8476 in বাংলা (bpn8476)
 
 -- Bahá'u'lláh
 
-Prayer bpn8391 in বাংলা (bpn8391) 
+Prayer bpn8391 (bpn8391) 
 
 [bahaiprayers.net 8391](https://bahaiprayers.net/Book/Single/75/8391)
 
@@ -138,7 +138,7 @@ Prayer bpn8391 in বাংলা (bpn8391)
 
 -- Bahá'u'lláh
 
-Prayer bpn8392 in বাংলা (bpn8392) 
+Prayer bpn8392 (bpn8392) 
 
 [bahaiprayers.net 8392](https://bahaiprayers.net/Book/Single/75/8392)
 
@@ -151,7 +151,7 @@ Prayer bpn8392 in বাংলা (bpn8392)
 
 -- Bahá'u'lláh
 
-Prayer bpn8397 in বাংলা (bpn8397) 
+Prayer bpn8397 (bpn8397) 
 
 [bahaiprayers.net 8397](https://bahaiprayers.net/Book/Single/75/8397)
 
@@ -168,7 +168,7 @@ Prayer bpn8397 in বাংলা (bpn8397)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8393 in বাংলা (bpn8393) 
+Prayer bpn8393 (bpn8393) 
 
 [bahaiprayers.net 8393](https://bahaiprayers.net/Book/Single/75/8393)
 
@@ -185,7 +185,7 @@ Prayer bpn8393 in বাংলা (bpn8393)
 
 -- Bahá'u'lláh
 
-Prayer bpn8470 in বাংলা (bpn8470) 
+Prayer bpn8470 (bpn8470) 
 
 [bahaiprayers.net 8470](https://bahaiprayers.net/Book/Single/75/8470)
 
@@ -202,7 +202,7 @@ Prayer bpn8470 in বাংলা (bpn8470)
 
 -- Bahá'u'lláh
 
-Prayer bpn8406 in বাংলা (bpn8406) 
+Prayer bpn8406 (bpn8406) 
 
 [bahaiprayers.net 8406](https://bahaiprayers.net/Book/Single/75/8406)
 
@@ -215,7 +215,7 @@ Prayer bpn8406 in বাংলা (bpn8406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8409 in বাংলা (bpn8409) 
+Prayer bpn8409 (bpn8409) 
 
 [bahaiprayers.net 8409](https://bahaiprayers.net/Book/Single/75/8409)
 
@@ -228,7 +228,7 @@ Prayer bpn8409 in বাংলা (bpn8409)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8410 in বাংলা (bpn8410) 
+Prayer bpn8410 (bpn8410) 
 
 [bahaiprayers.net 8410](https://bahaiprayers.net/Book/Single/75/8410)
 
@@ -241,7 +241,7 @@ Prayer bpn8410 in বাংলা (bpn8410)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8411 in বাংলা (bpn8411) 
+Prayer bpn8411 (bpn8411) 
 
 [bahaiprayers.net 8411](https://bahaiprayers.net/Book/Single/75/8411)
 
@@ -254,7 +254,7 @@ Prayer bpn8411 in বাংলা (bpn8411)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8415 in বাংলা (bpn8415) 
+Prayer bpn8415 (bpn8415) 
 
 [bahaiprayers.net 8415](https://bahaiprayers.net/Book/Single/75/8415)
 
@@ -267,7 +267,7 @@ Prayer bpn8415 in বাংলা (bpn8415)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8407 in বাংলা (bpn8407) 
+Prayer bpn8407 (bpn8407) 
 
 [bahaiprayers.net 8407](https://bahaiprayers.net/Book/Single/75/8407)
 
@@ -284,7 +284,7 @@ Prayer bpn8407 in বাংলা (bpn8407)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8421 in বাংলা (bpn8421) 
+Prayer bpn8421 (bpn8421) 
 
 [bahaiprayers.net 8421](https://bahaiprayers.net/Book/Single/75/8421)
 
@@ -301,7 +301,7 @@ Prayer bpn8421 in বাংলা (bpn8421)
 
 -- Bahá'u'lláh
 
-Prayer bpn8403 in বাংলা (bpn8403) 
+Prayer bpn8403 (bpn8403) 
 
 [bahaiprayers.net 8403](https://bahaiprayers.net/Book/Single/75/8403)
 
@@ -314,7 +314,7 @@ Prayer bpn8403 in বাংলা (bpn8403)
 
 -- Bahá'u'lláh
 
-Prayer bpn8404 in বাংলা (bpn8404) 
+Prayer bpn8404 (bpn8404) 
 
 [bahaiprayers.net 8404](https://bahaiprayers.net/Book/Single/75/8404)
 
@@ -331,7 +331,7 @@ Prayer bpn8404 in বাংলা (bpn8404)
 
 -- Bahá'u'lláh
 
-Prayer bpn8464 in বাংলা (bpn8464) 
+Prayer bpn8464 (bpn8464) 
 
 [bahaiprayers.net 8464](https://bahaiprayers.net/Book/Single/75/8464)
 
@@ -348,7 +348,7 @@ Prayer bpn8464 in বাংলা (bpn8464)
 
 -- Bahá'u'lláh
 
-Prayer bpn8457 in বাংলা (bpn8457) 
+Prayer bpn8457 (bpn8457) 
 
 [bahaiprayers.net 8457](https://bahaiprayers.net/Book/Single/75/8457)
 
@@ -361,7 +361,7 @@ Prayer bpn8457 in বাংলা (bpn8457)
 
 -- Bahá'u'lláh
 
-Prayer bpn8473 in বাংলা (bpn8473) 
+Prayer bpn8473 (bpn8473) 
 
 [bahaiprayers.net 8473](https://bahaiprayers.net/Book/Single/75/8473)
 
@@ -378,7 +378,7 @@ Prayer bpn8473 in বাংলা (bpn8473)
 
 -- Bahá'u'lláh
 
-Prayer bpn8472 in বাংলা (bpn8472) 
+Prayer bpn8472 (bpn8472) 
 
 [bahaiprayers.net 8472](https://bahaiprayers.net/Book/Single/75/8472)
 
@@ -395,7 +395,7 @@ Prayer bpn8472 in বাংলা (bpn8472)
 
 -- Bahá'u'lláh
 
-Prayer bpn8412 in বাংলা (bpn8412) 
+Prayer bpn8412 (bpn8412) 
 
 [bahaiprayers.net 8412](https://bahaiprayers.net/Book/Single/75/8412)
 
@@ -408,7 +408,7 @@ Prayer bpn8412 in বাংলা (bpn8412)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8417 in বাংলা (bpn8417) 
+Prayer bpn8417 (bpn8417) 
 
 [bahaiprayers.net 8417](https://bahaiprayers.net/Book/Single/75/8417)
 
@@ -421,7 +421,7 @@ Prayer bpn8417 in বাংলা (bpn8417)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8418 in বাংলা (bpn8418) 
+Prayer bpn8418 (bpn8418) 
 
 [bahaiprayers.net 8418](https://bahaiprayers.net/Book/Single/75/8418)
 
@@ -434,7 +434,7 @@ Prayer bpn8418 in বাংলা (bpn8418)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8414 in বাংলা (bpn8414) 
+Prayer bpn8414 (bpn8414) 
 
 [bahaiprayers.net 8414](https://bahaiprayers.net/Book/Single/75/8414)
 
@@ -447,7 +447,7 @@ Prayer bpn8414 in বাংলা (bpn8414)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8416 in বাংলা (bpn8416) 
+Prayer bpn8416 (bpn8416) 
 
 [bahaiprayers.net 8416](https://bahaiprayers.net/Book/Single/75/8416)
 
@@ -464,7 +464,7 @@ Prayer bpn8416 in বাংলা (bpn8416)
 
 -- Bahá'u'lláh
 
-Prayer bpn8479 in বাংলা (bpn8479) 
+Prayer bpn8479 (bpn8479) 
 
 [bahaiprayers.net 8479](https://bahaiprayers.net/Book/Single/75/8479)
 
@@ -481,7 +481,7 @@ Prayer bpn8479 in বাংলা (bpn8479)
 
 -- Bahá'u'lláh
 
-Prayer bpn8401 in বাংলা (bpn8401) 
+Prayer bpn8401 (bpn8401) 
 
 [bahaiprayers.net 8401](https://bahaiprayers.net/Book/Single/75/8401)
 
@@ -494,7 +494,7 @@ Prayer bpn8401 in বাংলা (bpn8401)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8402 in বাংলা (bpn8402) 
+Prayer bpn8402 (bpn8402) 
 
 [bahaiprayers.net 8402](https://bahaiprayers.net/Book/Single/75/8402)
 
@@ -511,7 +511,7 @@ Prayer bpn8402 in বাংলা (bpn8402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8420 in বাংলা (bpn8420) 
+Prayer bpn8420 (bpn8420) 
 
 [bahaiprayers.net 8420](https://bahaiprayers.net/Book/Single/75/8420)
 
@@ -528,7 +528,7 @@ Prayer bpn8420 in বাংলা (bpn8420)
 
 -- Bahá'u'lláh
 
-Prayer bpn8434 in বাংলা (bpn8434) 
+Prayer bpn8434 (bpn8434) 
 
 [bahaiprayers.net 8434](https://bahaiprayers.net/Book/Single/75/8434)
 
@@ -545,7 +545,7 @@ Prayer bpn8434 in বাংলা (bpn8434)
 
 -- Bahá'u'lláh
 
-Prayer bpn8485 in বাংলা (bpn8485) 
+Prayer bpn8485 (bpn8485) 
 
 [bahaiprayers.net 8485](https://bahaiprayers.net/Book/Single/75/8485)
 
@@ -562,7 +562,7 @@ Prayer bpn8485 in বাংলা (bpn8485)
 
 -- Bahá'u'lláh
 
-Prayer bpn8447 in বাংলা (bpn8447) 
+Prayer bpn8447 (bpn8447) 
 
 [bahaiprayers.net 8447](https://bahaiprayers.net/Book/Single/75/8447)
 
@@ -575,7 +575,7 @@ Prayer bpn8447 in বাংলা (bpn8447)
 
 -- Bahá'u'lláh
 
-Prayer bpn8448 in বাংলা (bpn8448) 
+Prayer bpn8448 (bpn8448) 
 
 [bahaiprayers.net 8448](https://bahaiprayers.net/Book/Single/75/8448)
 
@@ -588,7 +588,7 @@ Prayer bpn8448 in বাংলা (bpn8448)
 
 -- Bahá'u'lláh
 
-Prayer bpn8445 in বাংলা (bpn8445) 
+Prayer bpn8445 (bpn8445) 
 
 [bahaiprayers.net 8445](https://bahaiprayers.net/Book/Single/75/8445)
 
@@ -601,7 +601,7 @@ Prayer bpn8445 in বাংলা (bpn8445)
 
 -- Bahá'u'lláh
 
-Prayer bpn8446 in বাংলা (bpn8446) 
+Prayer bpn8446 (bpn8446) 
 
 [bahaiprayers.net 8446](https://bahaiprayers.net/Book/Single/75/8446)
 
@@ -618,7 +618,7 @@ Prayer bpn8446 in বাংলা (bpn8446)
 
 -- Bahá'u'lláh
 
-Prayer bpn8475 in বাংলা (bpn8475) 
+Prayer bpn8475 (bpn8475) 
 
 [bahaiprayers.net 8475](https://bahaiprayers.net/Book/Single/75/8475)
 
@@ -635,7 +635,7 @@ Prayer bpn8475 in বাংলা (bpn8475)
 
 -- Bahá'u'lláh
 
-Prayer bpn8449 in বাংলা (bpn8449) 
+Prayer bpn8449 (bpn8449) 
 
 [bahaiprayers.net 8449](https://bahaiprayers.net/Book/Single/75/8449)
 
@@ -652,7 +652,7 @@ Prayer bpn8449 in বাংলা (bpn8449)
 
 -- Bahá'u'lláh
 
-Prayer bpn8474 in বাংলা (bpn8474) 
+Prayer bpn8474 (bpn8474) 
 
 [bahaiprayers.net 8474](https://bahaiprayers.net/Book/Single/75/8474)
 
@@ -669,7 +669,7 @@ Prayer bpn8474 in বাংলা (bpn8474)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8419 in বাংলা (bpn8419) 
+Prayer bpn8419 (bpn8419) 
 
 [bahaiprayers.net 8419](https://bahaiprayers.net/Book/Single/75/8419)
 
@@ -686,7 +686,7 @@ Prayer bpn8419 in বাংলা (bpn8419)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8405 in বাংলা (bpn8405) 
+Prayer bpn8405 (bpn8405) 
 
 [bahaiprayers.net 8405](https://bahaiprayers.net/Book/Single/75/8405)
 
@@ -703,7 +703,7 @@ Prayer bpn8405 in বাংলা (bpn8405)
 
 -- Bahá'u'lláh
 
-Prayer bpn8430 in বাংলা (bpn8430) 
+Prayer bpn8430 (bpn8430) 
 
 [bahaiprayers.net 8430](https://bahaiprayers.net/Book/Single/75/8430)
 
@@ -720,7 +720,7 @@ Prayer bpn8430 in বাংলা (bpn8430)
 
 -- Bahá'u'lláh
 
-Prayer bpn8471 in বাংলা (bpn8471) 
+Prayer bpn8471 (bpn8471) 
 
 [bahaiprayers.net 8471](https://bahaiprayers.net/Book/Single/75/8471)
 
@@ -733,7 +733,7 @@ Prayer bpn8471 in বাংলা (bpn8471)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8455 in বাংলা (bpn8455) 
+Prayer bpn8455 (bpn8455) 
 
 [bahaiprayers.net 8455](https://bahaiprayers.net/Book/Single/75/8455)
 
@@ -746,7 +746,7 @@ Prayer bpn8455 in বাংলা (bpn8455)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8460 in বাংলা (bpn8460) 
+Prayer bpn8460 (bpn8460) 
 
 [bahaiprayers.net 8460](https://bahaiprayers.net/Book/Single/75/8460)
 
@@ -759,7 +759,7 @@ Prayer bpn8460 in বাংলা (bpn8460)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8462 in বাংলা (bpn8462) 
+Prayer bpn8462 (bpn8462) 
 
 [bahaiprayers.net 8462](https://bahaiprayers.net/Book/Single/75/8462)
 
@@ -772,7 +772,7 @@ Prayer bpn8462 in বাংলা (bpn8462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8463 in বাংলা (bpn8463) 
+Prayer bpn8463 (bpn8463) 
 
 [bahaiprayers.net 8463](https://bahaiprayers.net/Book/Single/75/8463)
 
@@ -789,7 +789,7 @@ Prayer bpn8463 in বাংলা (bpn8463)
 
 -- Bahá'u'lláh
 
-Prayer bpn8459 in বাংলা (bpn8459) 
+Prayer bpn8459 (bpn8459) 
 
 [bahaiprayers.net 8459](https://bahaiprayers.net/Book/Single/75/8459)
 
@@ -806,7 +806,7 @@ Prayer bpn8459 in বাংলা (bpn8459)
 
 -- Bahá'u'lláh
 
-Prayer bpn8422 in বাংলা (bpn8422) 
+Prayer bpn8422 (bpn8422) 
 
 [bahaiprayers.net 8422](https://bahaiprayers.net/Book/Single/75/8422)
 
@@ -819,7 +819,7 @@ Prayer bpn8422 in বাংলা (bpn8422)
 
 -- Báb
 
-Prayer bpn8425 in বাংলা (bpn8425) 
+Prayer bpn8425 (bpn8425) 
 
 [bahaiprayers.net 8425](https://bahaiprayers.net/Book/Single/75/8425)
 
@@ -832,7 +832,7 @@ Prayer bpn8425 in বাংলা (bpn8425)
 
 -- Báb
 
-Prayer bpn8423 in বাংলা (bpn8423) 
+Prayer bpn8423 (bpn8423) 
 
 [bahaiprayers.net 8423](https://bahaiprayers.net/Book/Single/75/8423)
 
@@ -845,7 +845,7 @@ Prayer bpn8423 in বাংলা (bpn8423)
 
 -- Báb
 
-Prayer bpn8424 in বাংলা (bpn8424) 
+Prayer bpn8424 (bpn8424) 
 
 [bahaiprayers.net 8424](https://bahaiprayers.net/Book/Single/75/8424)
 
@@ -862,7 +862,7 @@ Prayer bpn8424 in বাংলা (bpn8424)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8437 in বাংলা (bpn8437) 
+Prayer bpn8437 (bpn8437) 
 
 [bahaiprayers.net 8437](https://bahaiprayers.net/Book/Single/75/8437)
 
@@ -879,7 +879,7 @@ Prayer bpn8437 in বাংলা (bpn8437)
 
 -- Bahá'u'lláh
 
-Prayer bpn8388 in বাংলা (bpn8388) 
+Prayer bpn8388 (bpn8388) 
 
 [bahaiprayers.net 8388](https://bahaiprayers.net/Book/Single/75/8388)
 
@@ -896,7 +896,7 @@ Prayer bpn8388 in বাংলা (bpn8388)
 
 -- Bahá'u'lláh
 
-Prayer bpn8488 in বাংলা (bpn8488) 
+Prayer bpn8488 (bpn8488) 
 
 [bahaiprayers.net 8488](https://bahaiprayers.net/Book/Single/75/8488)
 
@@ -913,7 +913,7 @@ Prayer bpn8488 in বাংলা (bpn8488)
 
 -- Bahá'u'lláh
 
-Prayer bpn8487 in বাংলা (bpn8487) 
+Prayer bpn8487 (bpn8487) 
 
 [bahaiprayers.net 8487](https://bahaiprayers.net/Book/Single/75/8487)
 
@@ -930,7 +930,7 @@ Prayer bpn8487 in বাংলা (bpn8487)
 
 -- Bahá'u'lláh
 
-Prayer bpn8450 in বাংলা (bpn8450) 
+Prayer bpn8450 (bpn8450) 
 
 [bahaiprayers.net 8450](https://bahaiprayers.net/Book/Single/75/8450)
 
@@ -943,7 +943,7 @@ Prayer bpn8450 in বাংলা (bpn8450)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8451 in বাংলা (bpn8451) 
+Prayer bpn8451 (bpn8451) 
 
 [bahaiprayers.net 8451](https://bahaiprayers.net/Book/Single/75/8451)
 
@@ -960,7 +960,7 @@ Prayer bpn8451 in বাংলা (bpn8451)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8442 in বাংলা (bpn8442) 
+Prayer bpn8442 (bpn8442) 
 
 [bahaiprayers.net 8442](https://bahaiprayers.net/Book/Single/75/8442)
 
@@ -977,7 +977,7 @@ Prayer bpn8442 in বাংলা (bpn8442)
 
 -- Bahá'u'lláh
 
-Prayer bpn8482 in বাংলা (bpn8482) 
+Prayer bpn8482 (bpn8482) 
 
 [bahaiprayers.net 8482](https://bahaiprayers.net/Book/Single/75/8482)
 
@@ -994,7 +994,7 @@ Prayer bpn8482 in বাংলা (bpn8482)
 
 -- Bahá'u'lláh
 
-Prayer bpn8484 in বাংলা (bpn8484) 
+Prayer bpn8484 (bpn8484) 
 
 [bahaiprayers.net 8484](https://bahaiprayers.net/Book/Single/75/8484)
 
@@ -1011,7 +1011,7 @@ Prayer bpn8484 in বাংলা (bpn8484)
 
 -- Bahá'u'lláh
 
-Prayer bpn8480 in বাংলা (bpn8480) 
+Prayer bpn8480 (bpn8480) 
 
 [bahaiprayers.net 8480](https://bahaiprayers.net/Book/Single/75/8480)
 
@@ -1028,7 +1028,7 @@ Prayer bpn8480 in বাংলা (bpn8480)
 
 -- Bahá'u'lláh
 
-Prayer bpn8483 in বাংলা (bpn8483) 
+Prayer bpn8483 (bpn8483) 
 
 [bahaiprayers.net 8483](https://bahaiprayers.net/Book/Single/75/8483)
 
@@ -1045,7 +1045,7 @@ Prayer bpn8483 in বাংলা (bpn8483)
 
 -- Bahá'u'lláh
 
-Prayer bpn8436 in বাংলা (bpn8436) 
+Prayer bpn8436 (bpn8436) 
 
 [bahaiprayers.net 8436](https://bahaiprayers.net/Book/Single/75/8436)
 
@@ -1062,7 +1062,7 @@ Prayer bpn8436 in বাংলা (bpn8436)
 
 -- Bahá'u'lláh
 
-Prayer bpn8435 in বাংলা (bpn8435) 
+Prayer bpn8435 (bpn8435) 
 
 [bahaiprayers.net 8435](https://bahaiprayers.net/Book/Single/75/8435)
 
@@ -1075,7 +1075,7 @@ Prayer bpn8435 in বাংলা (bpn8435)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8427 in বাংলা (bpn8427) 
+Prayer bpn8427 (bpn8427) 
 
 [bahaiprayers.net 8427](https://bahaiprayers.net/Book/Single/75/8427)
 
@@ -1088,7 +1088,7 @@ Prayer bpn8427 in বাংলা (bpn8427)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8428 in বাংলা (bpn8428) 
+Prayer bpn8428 (bpn8428) 
 
 [bahaiprayers.net 8428](https://bahaiprayers.net/Book/Single/75/8428)
 
@@ -1105,7 +1105,7 @@ Prayer bpn8428 in বাংলা (bpn8428)
 
 -- Bahá'u'lláh
 
-Prayer bpn8439 in বাংলা (bpn8439) 
+Prayer bpn8439 (bpn8439) 
 
 [bahaiprayers.net 8439](https://bahaiprayers.net/Book/Single/75/8439)
 
@@ -1122,7 +1122,7 @@ Prayer bpn8439 in বাংলা (bpn8439)
 
 -- Bahá'u'lláh
 
-Prayer bpn8389 in বাংলা (bpn8389) 
+Prayer bpn8389 (bpn8389) 
 
 [bahaiprayers.net 8389](https://bahaiprayers.net/Book/Single/75/8389)
 
@@ -1135,7 +1135,7 @@ Prayer bpn8389 in বাংলা (bpn8389)
 
 -- Bahá'u'lláh
 
-Prayer bpn8390 in বাংলা (bpn8390) 
+Prayer bpn8390 (bpn8390) 
 
 [bahaiprayers.net 8390](https://bahaiprayers.net/Book/Single/75/8390)
 
@@ -1152,7 +1152,7 @@ Prayer bpn8390 in বাংলা (bpn8390)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8444 in বাংলা (bpn8444) 
+Prayer bpn8444 (bpn8444) 
 
 [bahaiprayers.net 8444](https://bahaiprayers.net/Book/Single/75/8444)
 
@@ -1165,7 +1165,7 @@ Prayer bpn8444 in বাংলা (bpn8444)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8441 in বাংলা (bpn8441) 
+Prayer bpn8441 (bpn8441) 
 
 [bahaiprayers.net 8441](https://bahaiprayers.net/Book/Single/75/8441)
 
@@ -1178,7 +1178,7 @@ Prayer bpn8441 in বাংলা (bpn8441)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8443 in বাংলা (bpn8443) 
+Prayer bpn8443 (bpn8443) 
 
 [bahaiprayers.net 8443](https://bahaiprayers.net/Book/Single/75/8443)
 
@@ -1195,7 +1195,7 @@ Prayer bpn8443 in বাংলা (bpn8443)
 
 -- Bahá'u'lláh
 
-Prayer bpn8466 in বাংলা (bpn8466) 
+Prayer bpn8466 (bpn8466) 
 
 [bahaiprayers.net 8466](https://bahaiprayers.net/Book/Single/75/8466)
 
@@ -1208,7 +1208,7 @@ Prayer bpn8466 in বাংলা (bpn8466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8468 in বাংলা (bpn8468) 
+Prayer bpn8468 (bpn8468) 
 
 [bahaiprayers.net 8468](https://bahaiprayers.net/Book/Single/75/8468)
 
@@ -1225,7 +1225,7 @@ Prayer bpn8468 in বাংলা (bpn8468)
 
 -- Bahá'u'lláh
 
-Prayer bpn8396 in বাংলা (bpn8396) 
+Prayer bpn8396 (bpn8396) 
 
 [bahaiprayers.net 8396](https://bahaiprayers.net/Book/Single/75/8396)
 
@@ -1242,7 +1242,7 @@ Prayer bpn8396 in বাংলা (bpn8396)
 
 -- Bahá'u'lláh
 
-Prayer bpn8432 in বাংলা (bpn8432) 
+Prayer bpn8432 (bpn8432) 
 
 [bahaiprayers.net 8432](https://bahaiprayers.net/Book/Single/75/8432)
 
@@ -1259,7 +1259,7 @@ Prayer bpn8432 in বাংলা (bpn8432)
 
 -- Bahá'u'lláh
 
-Prayer bpn8398 in বাংলা (bpn8398) 
+Prayer bpn8398 (bpn8398) 
 
 [bahaiprayers.net 8398](https://bahaiprayers.net/Book/Single/75/8398)
 
@@ -1272,7 +1272,7 @@ Prayer bpn8398 in বাংলা (bpn8398)
 
 -- Bahá'u'lláh
 
-Prayer bpn8399 in বাংলা (bpn8399) 
+Prayer bpn8399 (bpn8399) 
 
 [bahaiprayers.net 8399](https://bahaiprayers.net/Book/Single/75/8399)
 
@@ -1285,7 +1285,7 @@ Prayer bpn8399 in বাংলা (bpn8399)
 
 -- Bahá'u'lláh
 
-Prayer bpn8400 in বাংলা (bpn8400) 
+Prayer bpn8400 (bpn8400) 
 
 [bahaiprayers.net 8400](https://bahaiprayers.net/Book/Single/75/8400)
 
@@ -1302,7 +1302,7 @@ Prayer bpn8400 in বাংলা (bpn8400)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8452 in বাংলা (bpn8452) 
+Prayer bpn8452 (bpn8452) 
 
 [bahaiprayers.net 8452](https://bahaiprayers.net/Book/Single/75/8452)
 

@@ -64,7 +64,7 @@ tags = ['lang=mr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12528 in मराठी (bpn12528) 
+Prayer bpn12528 (bpn12528) 
 
 [bahaiprayers.net 12528](https://bahaiprayers.net/Book/Single/106/12528)
 
@@ -81,7 +81,7 @@ Prayer bpn12528 in मराठी (bpn12528)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12522 in मराठी (bpn12522) 
+Prayer bpn12522 (bpn12522) 
 
 [bahaiprayers.net 12522](https://bahaiprayers.net/Book/Single/106/12522)
 
@@ -94,7 +94,7 @@ Prayer bpn12522 in मराठी (bpn12522)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12523 in मराठी (bpn12523) 
+Prayer bpn12523 (bpn12523) 
 
 [bahaiprayers.net 12523](https://bahaiprayers.net/Book/Single/106/12523)
 
@@ -107,7 +107,7 @@ Prayer bpn12523 in मराठी (bpn12523)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12524 in मराठी (bpn12524) 
+Prayer bpn12524 (bpn12524) 
 
 [bahaiprayers.net 12524](https://bahaiprayers.net/Book/Single/106/12524)
 
@@ -124,7 +124,7 @@ Prayer bpn12524 in मराठी (bpn12524)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12507 in मराठी (bpn12507) 
+Prayer bpn12507 (bpn12507) 
 
 [bahaiprayers.net 12507](https://bahaiprayers.net/Book/Single/106/12507)
 
@@ -141,7 +141,7 @@ Prayer bpn12507 in मराठी (bpn12507)
 
 -- Bahá'u'lláh
 
-Prayer bpn12506 in मराठी (bpn12506) 
+Prayer bpn12506 (bpn12506) 
 
 [bahaiprayers.net 12506](https://bahaiprayers.net/Book/Single/106/12506)
 
@@ -158,7 +158,7 @@ Prayer bpn12506 in मराठी (bpn12506)
 
 -- Bahá'u'lláh
 
-Prayer bpn12504 in मराठी (bpn12504) 
+Prayer bpn12504 (bpn12504) 
 
 [bahaiprayers.net 12504](https://bahaiprayers.net/Book/Single/106/12504)
 
@@ -175,7 +175,7 @@ Prayer bpn12504 in मराठी (bpn12504)
 
 -- Bahá'u'lláh
 
-Prayer bpn12500 in मराठी (bpn12500) 
+Prayer bpn12500 (bpn12500) 
 
 [bahaiprayers.net 12500](https://bahaiprayers.net/Book/Single/106/12500)
 
@@ -192,7 +192,7 @@ Prayer bpn12500 in मराठी (bpn12500)
 
 -- Bahá'u'lláh
 
-Prayer bpn12515 in मराठी (bpn12515) 
+Prayer bpn12515 (bpn12515) 
 
 [bahaiprayers.net 12515](https://bahaiprayers.net/Book/Single/106/12515)
 
@@ -205,7 +205,7 @@ Prayer bpn12515 in मराठी (bpn12515)
 
 -- Bahá'u'lláh
 
-Prayer bpn12516 in मराठी (bpn12516) 
+Prayer bpn12516 (bpn12516) 
 
 [bahaiprayers.net 12516](https://bahaiprayers.net/Book/Single/106/12516)
 
@@ -218,7 +218,7 @@ Prayer bpn12516 in मराठी (bpn12516)
 
 -- Bahá'u'lláh
 
-Prayer bpn12517 in मराठी (bpn12517) 
+Prayer bpn12517 (bpn12517) 
 
 [bahaiprayers.net 12517](https://bahaiprayers.net/Book/Single/106/12517)
 
@@ -235,7 +235,7 @@ Prayer bpn12517 in मराठी (bpn12517)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12525 in मराठी (bpn12525) 
+Prayer bpn12525 (bpn12525) 
 
 [bahaiprayers.net 12525](https://bahaiprayers.net/Book/Single/106/12525)
 
@@ -252,7 +252,7 @@ Prayer bpn12525 in मराठी (bpn12525)
 
 -- Báb
 
-Prayer bpn12521 in मराठी (bpn12521) 
+Prayer bpn12521 (bpn12521) 
 
 [bahaiprayers.net 12521](https://bahaiprayers.net/Book/Single/106/12521)
 
@@ -269,7 +269,7 @@ Prayer bpn12521 in मराठी (bpn12521)
 
 -- Bahá'u'lláh
 
-Prayer bpn12499 in मराठी (bpn12499) 
+Prayer bpn12499 (bpn12499) 
 
 [bahaiprayers.net 12499](https://bahaiprayers.net/Book/Single/106/12499)
 
@@ -286,7 +286,7 @@ Prayer bpn12499 in मराठी (bpn12499)
 
 -- Bahá'u'lláh
 
-Prayer bpn12518 in मराठी (bpn12518) 
+Prayer bpn12518 (bpn12518) 
 
 [bahaiprayers.net 12518](https://bahaiprayers.net/Book/Single/106/12518)
 
@@ -303,7 +303,7 @@ Prayer bpn12518 in मराठी (bpn12518)
 
 -- Bahá'u'lláh
 
-Prayer bpn12502 in मराठी (bpn12502) 
+Prayer bpn12502 (bpn12502) 
 
 [bahaiprayers.net 12502](https://bahaiprayers.net/Book/Single/106/12502)
 
@@ -320,7 +320,7 @@ Prayer bpn12502 in मराठी (bpn12502)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12527 in मराठी (bpn12527) 
+Prayer bpn12527 (bpn12527) 
 
 [bahaiprayers.net 12527](https://bahaiprayers.net/Book/Single/106/12527)
 
@@ -337,7 +337,7 @@ Prayer bpn12527 in मराठी (bpn12527)
 
 -- Bahá'u'lláh
 
-Prayer bpn12501 in मराठी (bpn12501) 
+Prayer bpn12501 (bpn12501) 
 
 [bahaiprayers.net 12501](https://bahaiprayers.net/Book/Single/106/12501)
 
@@ -354,7 +354,7 @@ Prayer bpn12501 in मराठी (bpn12501)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12512 in मराठी (bpn12512) 
+Prayer bpn12512 (bpn12512) 
 
 [bahaiprayers.net 12512](https://bahaiprayers.net/Book/Single/106/12512)
 
@@ -371,7 +371,7 @@ Prayer bpn12512 in मराठी (bpn12512)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12508 in मराठी (bpn12508) 
+Prayer bpn12508 (bpn12508) 
 
 [bahaiprayers.net 12508](https://bahaiprayers.net/Book/Single/106/12508)
 
@@ -384,7 +384,7 @@ Prayer bpn12508 in मराठी (bpn12508)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12509 in मराठी (bpn12509) 
+Prayer bpn12509 (bpn12509) 
 
 [bahaiprayers.net 12509](https://bahaiprayers.net/Book/Single/106/12509)
 
@@ -397,7 +397,7 @@ Prayer bpn12509 in मराठी (bpn12509)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12510 in मराठी (bpn12510) 
+Prayer bpn12510 (bpn12510) 
 
 [bahaiprayers.net 12510](https://bahaiprayers.net/Book/Single/106/12510)
 
@@ -414,7 +414,7 @@ Prayer bpn12510 in मराठी (bpn12510)
 
 -- Bahá'u'lláh
 
-Prayer bpn12519 in मराठी (bpn12519) 
+Prayer bpn12519 (bpn12519) 
 
 [bahaiprayers.net 12519](https://bahaiprayers.net/Book/Single/106/12519)
 
@@ -427,7 +427,7 @@ Prayer bpn12519 in मराठी (bpn12519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12520 in मराठी (bpn12520) 
+Prayer bpn12520 (bpn12520) 
 
 [bahaiprayers.net 12520](https://bahaiprayers.net/Book/Single/106/12520)
 
@@ -444,7 +444,7 @@ Prayer bpn12520 in मराठी (bpn12520)
 
 -- Bahá'u'lláh
 
-Prayer bpn12498 in मराठी (bpn12498) 
+Prayer bpn12498 (bpn12498) 
 
 [bahaiprayers.net 12498](https://bahaiprayers.net/Book/Single/106/12498)
 
@@ -461,7 +461,7 @@ Prayer bpn12498 in मराठी (bpn12498)
 
 -- Bahá'u'lláh
 
-Prayer bpn12513 in मराठी (bpn12513) 
+Prayer bpn12513 (bpn12513) 
 
 [bahaiprayers.net 12513](https://bahaiprayers.net/Book/Single/106/12513)
 
@@ -474,7 +474,7 @@ Prayer bpn12513 in मराठी (bpn12513)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12514 in मराठी (bpn12514) 
+Prayer bpn12514 (bpn12514) 
 
 [bahaiprayers.net 12514](https://bahaiprayers.net/Book/Single/106/12514)
 
@@ -491,7 +491,7 @@ Prayer bpn12514 in मराठी (bpn12514)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12511 in मराठी (bpn12511) 
+Prayer bpn12511 (bpn12511) 
 
 [bahaiprayers.net 12511](https://bahaiprayers.net/Book/Single/106/12511)
 
@@ -508,7 +508,7 @@ Prayer bpn12511 in मराठी (bpn12511)
 
 -- Bahá'u'lláh
 
-Prayer bpn12503 in मराठी (bpn12503) 
+Prayer bpn12503 (bpn12503) 
 
 [bahaiprayers.net 12503](https://bahaiprayers.net/Book/Single/106/12503)
 
@@ -525,7 +525,7 @@ Prayer bpn12503 in मराठी (bpn12503)
 
 -- Bahá'u'lláh
 
-Prayer bpn12497 in मराठी (bpn12497) 
+Prayer bpn12497 (bpn12497) 
 
 [bahaiprayers.net 12497](https://bahaiprayers.net/Book/Single/106/12497)
 
@@ -542,7 +542,7 @@ Prayer bpn12497 in मराठी (bpn12497)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12505 in मराठी (bpn12505) 
+Prayer bpn12505 (bpn12505) 
 
 [bahaiprayers.net 12505](https://bahaiprayers.net/Book/Single/106/12505)
 
@@ -559,7 +559,7 @@ Prayer bpn12505 in मराठी (bpn12505)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12526 in मराठी (bpn12526) 
+Prayer bpn12526 (bpn12526) 
 
 [bahaiprayers.net 12526](https://bahaiprayers.net/Book/Single/106/12526)
 

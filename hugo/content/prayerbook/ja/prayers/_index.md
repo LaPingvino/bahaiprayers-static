@@ -114,7 +114,7 @@ tags = ['lang=ja', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn5531 in 日本語 (bpn5531) 
+Prayer bpn5531 (bpn5531) 
 
 [bahaiprayers.net 5531](https://bahaiprayers.net/Book/Single/19/5531)
 
@@ -127,7 +127,7 @@ Prayer bpn5531 in 日本語 (bpn5531)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5532 in 日本語 (bpn5532) 
+Prayer bpn5532 (bpn5532) 
 
 [bahaiprayers.net 5532](https://bahaiprayers.net/Book/Single/19/5532)
 
@@ -140,7 +140,7 @@ Prayer bpn5532 in 日本語 (bpn5532)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5533 in 日本語 (bpn5533) 
+Prayer bpn5533 (bpn5533) 
 
 [bahaiprayers.net 5533](https://bahaiprayers.net/Book/Single/19/5533)
 
@@ -153,7 +153,7 @@ Prayer bpn5533 in 日本語 (bpn5533)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5534 in 日本語 (bpn5534) 
+Prayer bpn5534 (bpn5534) 
 
 [bahaiprayers.net 5534](https://bahaiprayers.net/Book/Single/19/5534)
 
@@ -166,7 +166,7 @@ Prayer bpn5534 in 日本語 (bpn5534)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5535 in 日本語 (bpn5535) 
+Prayer bpn5535 (bpn5535) 
 
 [bahaiprayers.net 5535](https://bahaiprayers.net/Book/Single/19/5535)
 
@@ -179,7 +179,7 @@ Prayer bpn5535 in 日本語 (bpn5535)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5536 in 日本語 (bpn5536) 
+Prayer bpn5536 (bpn5536) 
 
 [bahaiprayers.net 5536](https://bahaiprayers.net/Book/Single/19/5536)
 
@@ -192,7 +192,7 @@ Prayer bpn5536 in 日本語 (bpn5536)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5537 in 日本語 (bpn5537) 
+Prayer bpn5537 (bpn5537) 
 
 [bahaiprayers.net 5537](https://bahaiprayers.net/Book/Single/19/5537)
 
@@ -205,7 +205,7 @@ Prayer bpn5537 in 日本語 (bpn5537)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5538 in 日本語 (bpn5538) 
+Prayer bpn5538 (bpn5538) 
 
 [bahaiprayers.net 5538](https://bahaiprayers.net/Book/Single/19/5538)
 
@@ -218,7 +218,7 @@ Prayer bpn5538 in 日本語 (bpn5538)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5539 in 日本語 (bpn5539) 
+Prayer bpn5539 (bpn5539) 
 
 [bahaiprayers.net 5539](https://bahaiprayers.net/Book/Single/19/5539)
 
@@ -231,7 +231,7 @@ Prayer bpn5539 in 日本語 (bpn5539)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5540 in 日本語 (bpn5540) 
+Prayer bpn5540 (bpn5540) 
 
 [bahaiprayers.net 5540](https://bahaiprayers.net/Book/Single/19/5540)
 
@@ -248,7 +248,7 @@ Prayer bpn5540 in 日本語 (bpn5540)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5565 in 日本語 (bpn5565) 
+Prayer bpn5565 (bpn5565) 
 
 [bahaiprayers.net 5565](https://bahaiprayers.net/Book/Single/19/5565)
 
@@ -265,7 +265,7 @@ Prayer bpn5565 in 日本語 (bpn5565)
 
 -- Bahá'u'lláh
 
-Prayer bpn5557 in 日本語 (bpn5557) 
+Prayer bpn5557 (bpn5557) 
 
 [bahaiprayers.net 5557](https://bahaiprayers.net/Book/Single/19/5557)
 
@@ -282,7 +282,7 @@ Prayer bpn5557 in 日本語 (bpn5557)
 
 -- Bahá'u'lláh
 
-Prayer bpn5522 in 日本語 (bpn5522) 
+Prayer bpn5522 (bpn5522) 
 
 [bahaiprayers.net 5522](https://bahaiprayers.net/Book/Single/19/5522)
 
@@ -295,7 +295,7 @@ Prayer bpn5522 in 日本語 (bpn5522)
 
 -- Bahá'u'lláh
 
-Prayer bpn5523 in 日本語 (bpn5523) 
+Prayer bpn5523 (bpn5523) 
 
 [bahaiprayers.net 5523](https://bahaiprayers.net/Book/Single/19/5523)
 
@@ -308,7 +308,7 @@ Prayer bpn5523 in 日本語 (bpn5523)
 
 -- Bahá'u'lláh
 
-Prayer bpn5524 in 日本語 (bpn5524) 
+Prayer bpn5524 (bpn5524) 
 
 [bahaiprayers.net 5524](https://bahaiprayers.net/Book/Single/19/5524)
 
@@ -321,7 +321,7 @@ Prayer bpn5524 in 日本語 (bpn5524)
 
 -- Bahá'u'lláh
 
-Prayer bpn5525 in 日本語 (bpn5525) 
+Prayer bpn5525 (bpn5525) 
 
 [bahaiprayers.net 5525](https://bahaiprayers.net/Book/Single/19/5525)
 
@@ -334,7 +334,7 @@ Prayer bpn5525 in 日本語 (bpn5525)
 
 -- Bahá'u'lláh
 
-Prayer bpn5526 in 日本語 (bpn5526) 
+Prayer bpn5526 (bpn5526) 
 
 [bahaiprayers.net 5526](https://bahaiprayers.net/Book/Single/19/5526)
 
@@ -347,7 +347,7 @@ Prayer bpn5526 in 日本語 (bpn5526)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5527 in 日本語 (bpn5527) 
+Prayer bpn5527 (bpn5527) 
 
 [bahaiprayers.net 5527](https://bahaiprayers.net/Book/Single/19/5527)
 
@@ -360,7 +360,7 @@ Prayer bpn5527 in 日本語 (bpn5527)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5528 in 日本語 (bpn5528) 
+Prayer bpn5528 (bpn5528) 
 
 [bahaiprayers.net 5528](https://bahaiprayers.net/Book/Single/19/5528)
 
@@ -373,7 +373,7 @@ Prayer bpn5528 in 日本語 (bpn5528)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5529 in 日本語 (bpn5529) 
+Prayer bpn5529 (bpn5529) 
 
 [bahaiprayers.net 5529](https://bahaiprayers.net/Book/Single/19/5529)
 
@@ -386,7 +386,7 @@ Prayer bpn5529 in 日本語 (bpn5529)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5530 in 日本語 (bpn5530) 
+Prayer bpn5530 (bpn5530) 
 
 [bahaiprayers.net 5530](https://bahaiprayers.net/Book/Single/19/5530)
 
@@ -403,7 +403,7 @@ Prayer bpn5530 in 日本語 (bpn5530)
 
 -- Bahá'u'lláh
 
-Prayer bpn5576 in 日本語 (bpn5576) 
+Prayer bpn5576 (bpn5576) 
 
 [bahaiprayers.net 5576](https://bahaiprayers.net/Book/Single/19/5576)
 
@@ -420,7 +420,7 @@ Prayer bpn5576 in 日本語 (bpn5576)
 
 -- Bahá'u'lláh
 
-Prayer bpn5552 in 日本語 (bpn5552) 
+Prayer bpn5552 (bpn5552) 
 
 [bahaiprayers.net 5552](https://bahaiprayers.net/Book/Single/19/5552)
 
@@ -433,7 +433,7 @@ Prayer bpn5552 in 日本語 (bpn5552)
 
 -- Bahá'u'lláh
 
-Prayer bpn5553 in 日本語 (bpn5553) 
+Prayer bpn5553 (bpn5553) 
 
 [bahaiprayers.net 5553](https://bahaiprayers.net/Book/Single/19/5553)
 
@@ -446,7 +446,7 @@ Prayer bpn5553 in 日本語 (bpn5553)
 
 -- Bahá'u'lláh
 
-Prayer bpn5554 in 日本語 (bpn5554) 
+Prayer bpn5554 (bpn5554) 
 
 [bahaiprayers.net 5554](https://bahaiprayers.net/Book/Single/19/5554)
 
@@ -463,7 +463,7 @@ Prayer bpn5554 in 日本語 (bpn5554)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5500 in 日本語 (bpn5500) 
+Prayer bpn5500 (bpn5500) 
 
 [bahaiprayers.net 5500](https://bahaiprayers.net/Book/Single/19/5500)
 
@@ -476,7 +476,7 @@ Prayer bpn5500 in 日本語 (bpn5500)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5501 in 日本語 (bpn5501) 
+Prayer bpn5501 (bpn5501) 
 
 [bahaiprayers.net 5501](https://bahaiprayers.net/Book/Single/19/5501)
 
@@ -489,7 +489,7 @@ Prayer bpn5501 in 日本語 (bpn5501)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5502 in 日本語 (bpn5502) 
+Prayer bpn5502 (bpn5502) 
 
 [bahaiprayers.net 5502](https://bahaiprayers.net/Book/Single/19/5502)
 
@@ -502,7 +502,7 @@ Prayer bpn5502 in 日本語 (bpn5502)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5503 in 日本語 (bpn5503) 
+Prayer bpn5503 (bpn5503) 
 
 [bahaiprayers.net 5503](https://bahaiprayers.net/Book/Single/19/5503)
 
@@ -515,7 +515,7 @@ Prayer bpn5503 in 日本語 (bpn5503)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5504 in 日本語 (bpn5504) 
+Prayer bpn5504 (bpn5504) 
 
 [bahaiprayers.net 5504](https://bahaiprayers.net/Book/Single/19/5504)
 
@@ -528,7 +528,7 @@ Prayer bpn5504 in 日本語 (bpn5504)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5505 in 日本語 (bpn5505) 
+Prayer bpn5505 (bpn5505) 
 
 [bahaiprayers.net 5505](https://bahaiprayers.net/Book/Single/19/5505)
 
@@ -545,7 +545,7 @@ Prayer bpn5505 in 日本語 (bpn5505)
 
 -- Bahá'u'lláh
 
-Prayer bpn5577 in 日本語 (bpn5577) 
+Prayer bpn5577 (bpn5577) 
 
 [bahaiprayers.net 5577](https://bahaiprayers.net/Book/Single/19/5577)
 
@@ -562,7 +562,7 @@ Prayer bpn5577 in 日本語 (bpn5577)
 
 -- Bahá'u'lláh
 
-Prayer bpn5357 in 日本語 (bpn5357) 
+Prayer bpn5357 (bpn5357) 
 
 [bahaiprayers.net 5357](https://bahaiprayers.net/Book/Single/19/5357)
 
@@ -575,7 +575,7 @@ Prayer bpn5357 in 日本語 (bpn5357)
 
 -- Bahá'u'lláh
 
-Prayer bpn5358 in 日本語 (bpn5358) 
+Prayer bpn5358 (bpn5358) 
 
 [bahaiprayers.net 5358](https://bahaiprayers.net/Book/Single/19/5358)
 
@@ -588,7 +588,7 @@ Prayer bpn5358 in 日本語 (bpn5358)
 
 -- Bahá'u'lláh
 
-Prayer bpn5359 in 日本語 (bpn5359) 
+Prayer bpn5359 (bpn5359) 
 
 [bahaiprayers.net 5359](https://bahaiprayers.net/Book/Single/19/5359)
 
@@ -601,7 +601,7 @@ Prayer bpn5359 in 日本語 (bpn5359)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5360 in 日本語 (bpn5360) 
+Prayer bpn5360 (bpn5360) 
 
 [bahaiprayers.net 5360](https://bahaiprayers.net/Book/Single/19/5360)
 
@@ -618,7 +618,7 @@ Prayer bpn5360 in 日本語 (bpn5360)
 
 -- Bahá'u'lláh
 
-Prayer bpn5514 in 日本語 (bpn5514) 
+Prayer bpn5514 (bpn5514) 
 
 [bahaiprayers.net 5514](https://bahaiprayers.net/Book/Single/19/5514)
 
@@ -631,7 +631,7 @@ Prayer bpn5514 in 日本語 (bpn5514)
 
 -- Báb
 
-Prayer bpn5515 in 日本語 (bpn5515) 
+Prayer bpn5515 (bpn5515) 
 
 [bahaiprayers.net 5515](https://bahaiprayers.net/Book/Single/19/5515)
 
@@ -644,7 +644,7 @@ Prayer bpn5515 in 日本語 (bpn5515)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5516 in 日本語 (bpn5516) 
+Prayer bpn5516 (bpn5516) 
 
 [bahaiprayers.net 5516](https://bahaiprayers.net/Book/Single/19/5516)
 
@@ -661,7 +661,7 @@ Prayer bpn5516 in 日本語 (bpn5516)
 
 -- Bahá'u'lláh
 
-Prayer bpn5350 in 日本語 (bpn5350) 
+Prayer bpn5350 (bpn5350) 
 
 [bahaiprayers.net 5350](https://bahaiprayers.net/Book/Single/19/5350)
 
@@ -678,7 +678,7 @@ Prayer bpn5350 in 日本語 (bpn5350)
 
 -- Bahá'u'lláh
 
-Prayer bpn5352 in 日本語 (bpn5352) 
+Prayer bpn5352 (bpn5352) 
 
 [bahaiprayers.net 5352](https://bahaiprayers.net/Book/Single/19/5352)
 
@@ -691,7 +691,7 @@ Prayer bpn5352 in 日本語 (bpn5352)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5353 in 日本語 (bpn5353) 
+Prayer bpn5353 (bpn5353) 
 
 [bahaiprayers.net 5353](https://bahaiprayers.net/Book/Single/19/5353)
 
@@ -704,7 +704,7 @@ Prayer bpn5353 in 日本語 (bpn5353)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5354 in 日本語 (bpn5354) 
+Prayer bpn5354 (bpn5354) 
 
 [bahaiprayers.net 5354](https://bahaiprayers.net/Book/Single/19/5354)
 
@@ -717,7 +717,7 @@ Prayer bpn5354 in 日本語 (bpn5354)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5355 in 日本語 (bpn5355) 
+Prayer bpn5355 (bpn5355) 
 
 [bahaiprayers.net 5355](https://bahaiprayers.net/Book/Single/19/5355)
 
@@ -730,7 +730,7 @@ Prayer bpn5355 in 日本語 (bpn5355)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5356 in 日本語 (bpn5356) 
+Prayer bpn5356 (bpn5356) 
 
 [bahaiprayers.net 5356](https://bahaiprayers.net/Book/Single/19/5356)
 
@@ -747,7 +747,7 @@ Prayer bpn5356 in 日本語 (bpn5356)
 
 -- Bahá'u'lláh
 
-Prayer bpn5394 in 日本語 (bpn5394) 
+Prayer bpn5394 (bpn5394) 
 
 [bahaiprayers.net 5394](https://bahaiprayers.net/Book/Single/19/5394)
 
@@ -760,7 +760,7 @@ Prayer bpn5394 in 日本語 (bpn5394)
 
 -- Bahá'u'lláh
 
-Prayer bpn5395 in 日本語 (bpn5395) 
+Prayer bpn5395 (bpn5395) 
 
 [bahaiprayers.net 5395](https://bahaiprayers.net/Book/Single/19/5395)
 
@@ -773,7 +773,7 @@ Prayer bpn5395 in 日本語 (bpn5395)
 
 -- Bahá'u'lláh
 
-Prayer bpn5396 in 日本語 (bpn5396) 
+Prayer bpn5396 (bpn5396) 
 
 [bahaiprayers.net 5396](https://bahaiprayers.net/Book/Single/19/5396)
 
@@ -786,7 +786,7 @@ Prayer bpn5396 in 日本語 (bpn5396)
 
 -- Bahá'u'lláh
 
-Prayer bpn5397 in 日本語 (bpn5397) 
+Prayer bpn5397 (bpn5397) 
 
 [bahaiprayers.net 5397](https://bahaiprayers.net/Book/Single/19/5397)
 
@@ -799,7 +799,7 @@ Prayer bpn5397 in 日本語 (bpn5397)
 
 -- Bahá'u'lláh
 
-Prayer bpn5398 in 日本語 (bpn5398) 
+Prayer bpn5398 (bpn5398) 
 
 [bahaiprayers.net 5398](https://bahaiprayers.net/Book/Single/19/5398)
 
@@ -812,7 +812,7 @@ Prayer bpn5398 in 日本語 (bpn5398)
 
 -- Báb
 
-Prayer bpn5399 in 日本語 (bpn5399) 
+Prayer bpn5399 (bpn5399) 
 
 [bahaiprayers.net 5399](https://bahaiprayers.net/Book/Single/19/5399)
 
@@ -825,7 +825,7 @@ Prayer bpn5399 in 日本語 (bpn5399)
 
 -- Báb
 
-Prayer bpn5400 in 日本語 (bpn5400) 
+Prayer bpn5400 (bpn5400) 
 
 [bahaiprayers.net 5400](https://bahaiprayers.net/Book/Single/19/5400)
 
@@ -838,7 +838,7 @@ Prayer bpn5400 in 日本語 (bpn5400)
 
 -- Báb
 
-Prayer bpn5401 in 日本語 (bpn5401) 
+Prayer bpn5401 (bpn5401) 
 
 [bahaiprayers.net 5401](https://bahaiprayers.net/Book/Single/19/5401)
 
@@ -851,7 +851,7 @@ Prayer bpn5401 in 日本語 (bpn5401)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5402 in 日本語 (bpn5402) 
+Prayer bpn5402 (bpn5402) 
 
 [bahaiprayers.net 5402](https://bahaiprayers.net/Book/Single/19/5402)
 
@@ -864,7 +864,7 @@ Prayer bpn5402 in 日本語 (bpn5402)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5403 in 日本語 (bpn5403) 
+Prayer bpn5403 (bpn5403) 
 
 [bahaiprayers.net 5403](https://bahaiprayers.net/Book/Single/19/5403)
 
@@ -877,7 +877,7 @@ Prayer bpn5403 in 日本語 (bpn5403)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5404 in 日本語 (bpn5404) 
+Prayer bpn5404 (bpn5404) 
 
 [bahaiprayers.net 5404](https://bahaiprayers.net/Book/Single/19/5404)
 
@@ -894,7 +894,7 @@ Prayer bpn5404 in 日本語 (bpn5404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5548 in 日本語 (bpn5548) 
+Prayer bpn5548 (bpn5548) 
 
 [bahaiprayers.net 5548](https://bahaiprayers.net/Book/Single/19/5548)
 
@@ -911,7 +911,7 @@ Prayer bpn5548 in 日本語 (bpn5548)
 
 -- Bahá'u'lláh
 
-Prayer bpn5558 in 日本語 (bpn5558) 
+Prayer bpn5558 (bpn5558) 
 
 [bahaiprayers.net 5558](https://bahaiprayers.net/Book/Single/19/5558)
 
@@ -924,7 +924,7 @@ Prayer bpn5558 in 日本語 (bpn5558)
 
 -- Bahá'u'lláh
 
-Prayer bpn5562 in 日本語 (bpn5562) 
+Prayer bpn5562 (bpn5562) 
 
 [bahaiprayers.net 5562](https://bahaiprayers.net/Book/Single/19/5562)
 
@@ -941,7 +941,7 @@ Prayer bpn5562 in 日本語 (bpn5562)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5559 in 日本語 (bpn5559) 
+Prayer bpn5559 (bpn5559) 
 
 [bahaiprayers.net 5559](https://bahaiprayers.net/Book/Single/19/5559)
 
@@ -954,7 +954,7 @@ Prayer bpn5559 in 日本語 (bpn5559)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5561 in 日本語 (bpn5561) 
+Prayer bpn5561 (bpn5561) 
 
 [bahaiprayers.net 5561](https://bahaiprayers.net/Book/Single/19/5561)
 
@@ -971,7 +971,7 @@ Prayer bpn5561 in 日本語 (bpn5561)
 
 -- Bahá'u'lláh
 
-Prayer bpn5480 in 日本語 (bpn5480) 
+Prayer bpn5480 (bpn5480) 
 
 [bahaiprayers.net 5480](https://bahaiprayers.net/Book/Single/19/5480)
 
@@ -984,7 +984,7 @@ Prayer bpn5480 in 日本語 (bpn5480)
 
 -- Bahá'u'lláh
 
-Prayer bpn5481 in 日本語 (bpn5481) 
+Prayer bpn5481 (bpn5481) 
 
 [bahaiprayers.net 5481](https://bahaiprayers.net/Book/Single/19/5481)
 
@@ -1001,7 +1001,7 @@ Prayer bpn5481 in 日本語 (bpn5481)
 
 -- Bahá'u'lláh
 
-Prayer bpn5468 in 日本語 (bpn5468) 
+Prayer bpn5468 (bpn5468) 
 
 [bahaiprayers.net 5468](https://bahaiprayers.net/Book/Single/19/5468)
 
@@ -1014,7 +1014,7 @@ Prayer bpn5468 in 日本語 (bpn5468)
 
 -- Bahá'u'lláh
 
-Prayer bpn5469 in 日本語 (bpn5469) 
+Prayer bpn5469 (bpn5469) 
 
 [bahaiprayers.net 5469](https://bahaiprayers.net/Book/Single/19/5469)
 
@@ -1027,7 +1027,7 @@ Prayer bpn5469 in 日本語 (bpn5469)
 
 -- Bahá'u'lláh
 
-Prayer bpn5470 in 日本語 (bpn5470) 
+Prayer bpn5470 (bpn5470) 
 
 [bahaiprayers.net 5470](https://bahaiprayers.net/Book/Single/19/5470)
 
@@ -1040,7 +1040,7 @@ Prayer bpn5470 in 日本語 (bpn5470)
 
 -- Báb
 
-Prayer bpn5471 in 日本語 (bpn5471) 
+Prayer bpn5471 (bpn5471) 
 
 [bahaiprayers.net 5471](https://bahaiprayers.net/Book/Single/19/5471)
 
@@ -1053,7 +1053,7 @@ Prayer bpn5471 in 日本語 (bpn5471)
 
 -- Báb
 
-Prayer bpn5472 in 日本語 (bpn5472) 
+Prayer bpn5472 (bpn5472) 
 
 [bahaiprayers.net 5472](https://bahaiprayers.net/Book/Single/19/5472)
 
@@ -1066,7 +1066,7 @@ Prayer bpn5472 in 日本語 (bpn5472)
 
 -- Báb
 
-Prayer bpn5473 in 日本語 (bpn5473) 
+Prayer bpn5473 (bpn5473) 
 
 [bahaiprayers.net 5473](https://bahaiprayers.net/Book/Single/19/5473)
 
@@ -1079,7 +1079,7 @@ Prayer bpn5473 in 日本語 (bpn5473)
 
 -- Báb
 
-Prayer bpn5474 in 日本語 (bpn5474) 
+Prayer bpn5474 (bpn5474) 
 
 [bahaiprayers.net 5474](https://bahaiprayers.net/Book/Single/19/5474)
 
@@ -1092,7 +1092,7 @@ Prayer bpn5474 in 日本語 (bpn5474)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5475 in 日本語 (bpn5475) 
+Prayer bpn5475 (bpn5475) 
 
 [bahaiprayers.net 5475](https://bahaiprayers.net/Book/Single/19/5475)
 
@@ -1105,7 +1105,7 @@ Prayer bpn5475 in 日本語 (bpn5475)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5476 in 日本語 (bpn5476) 
+Prayer bpn5476 (bpn5476) 
 
 [bahaiprayers.net 5476](https://bahaiprayers.net/Book/Single/19/5476)
 
@@ -1122,7 +1122,7 @@ Prayer bpn5476 in 日本語 (bpn5476)
 
 -- Bahá'u'lláh
 
-Prayer bpn5556 in 日本語 (bpn5556) 
+Prayer bpn5556 (bpn5556) 
 
 [bahaiprayers.net 5556](https://bahaiprayers.net/Book/Single/19/5556)
 
@@ -1139,7 +1139,7 @@ Prayer bpn5556 in 日本語 (bpn5556)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5517 in 日本語 (bpn5517) 
+Prayer bpn5517 (bpn5517) 
 
 [bahaiprayers.net 5517](https://bahaiprayers.net/Book/Single/19/5517)
 
@@ -1156,7 +1156,7 @@ Prayer bpn5517 in 日本語 (bpn5517)
 
 -- Bahá'u'lláh
 
-Prayer bpn5452 in 日本語 (bpn5452) 
+Prayer bpn5452 (bpn5452) 
 
 [bahaiprayers.net 5452](https://bahaiprayers.net/Book/Single/19/5452)
 
@@ -1169,7 +1169,7 @@ Prayer bpn5452 in 日本語 (bpn5452)
 
 -- Bahá'u'lláh
 
-Prayer bpn5453 in 日本語 (bpn5453) 
+Prayer bpn5453 (bpn5453) 
 
 [bahaiprayers.net 5453](https://bahaiprayers.net/Book/Single/19/5453)
 
@@ -1186,7 +1186,7 @@ Prayer bpn5453 in 日本語 (bpn5453)
 
 -- Bahá'u'lláh
 
-Prayer bpn5506 in 日本語 (bpn5506) 
+Prayer bpn5506 (bpn5506) 
 
 [bahaiprayers.net 5506](https://bahaiprayers.net/Book/Single/19/5506)
 
@@ -1199,7 +1199,7 @@ Prayer bpn5506 in 日本語 (bpn5506)
 
 -- Bahá'u'lláh
 
-Prayer bpn5507 in 日本語 (bpn5507) 
+Prayer bpn5507 (bpn5507) 
 
 [bahaiprayers.net 5507](https://bahaiprayers.net/Book/Single/19/5507)
 
@@ -1212,7 +1212,7 @@ Prayer bpn5507 in 日本語 (bpn5507)
 
 -- Bahá'u'lláh
 
-Prayer bpn5508 in 日本語 (bpn5508) 
+Prayer bpn5508 (bpn5508) 
 
 [bahaiprayers.net 5508](https://bahaiprayers.net/Book/Single/19/5508)
 
@@ -1225,7 +1225,7 @@ Prayer bpn5508 in 日本語 (bpn5508)
 
 -- Bahá'u'lláh
 
-Prayer bpn5509 in 日本語 (bpn5509) 
+Prayer bpn5509 (bpn5509) 
 
 [bahaiprayers.net 5509](https://bahaiprayers.net/Book/Single/19/5509)
 
@@ -1238,7 +1238,7 @@ Prayer bpn5509 in 日本語 (bpn5509)
 
 -- Bahá'u'lláh
 
-Prayer bpn5510 in 日本語 (bpn5510) 
+Prayer bpn5510 (bpn5510) 
 
 [bahaiprayers.net 5510](https://bahaiprayers.net/Book/Single/19/5510)
 
@@ -1251,7 +1251,7 @@ Prayer bpn5510 in 日本語 (bpn5510)
 
 -- Bahá'u'lláh
 
-Prayer bpn5511 in 日本語 (bpn5511) 
+Prayer bpn5511 (bpn5511) 
 
 [bahaiprayers.net 5511](https://bahaiprayers.net/Book/Single/19/5511)
 
@@ -1264,7 +1264,7 @@ Prayer bpn5511 in 日本語 (bpn5511)
 
 -- Bahá'u'lláh
 
-Prayer bpn5512 in 日本語 (bpn5512) 
+Prayer bpn5512 (bpn5512) 
 
 [bahaiprayers.net 5512](https://bahaiprayers.net/Book/Single/19/5512)
 
@@ -1281,7 +1281,7 @@ Prayer bpn5512 in 日本語 (bpn5512)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5513 in 日本語 (bpn5513) 
+Prayer bpn5513 (bpn5513) 
 
 [bahaiprayers.net 5513](https://bahaiprayers.net/Book/Single/19/5513)
 
@@ -1298,7 +1298,7 @@ Prayer bpn5513 in 日本語 (bpn5513)
 
 -- Bahá'u'lláh
 
-Prayer bpn5484 in 日本語 (bpn5484) 
+Prayer bpn5484 (bpn5484) 
 
 [bahaiprayers.net 5484](https://bahaiprayers.net/Book/Single/19/5484)
 
@@ -1311,7 +1311,7 @@ Prayer bpn5484 in 日本語 (bpn5484)
 
 -- Bahá'u'lláh
 
-Prayer bpn5485 in 日本語 (bpn5485) 
+Prayer bpn5485 (bpn5485) 
 
 [bahaiprayers.net 5485](https://bahaiprayers.net/Book/Single/19/5485)
 
@@ -1324,7 +1324,7 @@ Prayer bpn5485 in 日本語 (bpn5485)
 
 -- Bahá'u'lláh
 
-Prayer bpn5499 in 日本語 (bpn5499) 
+Prayer bpn5499 (bpn5499) 
 
 [bahaiprayers.net 5499](https://bahaiprayers.net/Book/Single/19/5499)
 
@@ -1337,7 +1337,7 @@ Prayer bpn5499 in 日本語 (bpn5499)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5486 in 日本語 (bpn5486) 
+Prayer bpn5486 (bpn5486) 
 
 [bahaiprayers.net 5486](https://bahaiprayers.net/Book/Single/19/5486)
 
@@ -1350,7 +1350,7 @@ Prayer bpn5486 in 日本語 (bpn5486)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5487 in 日本語 (bpn5487) 
+Prayer bpn5487 (bpn5487) 
 
 [bahaiprayers.net 5487](https://bahaiprayers.net/Book/Single/19/5487)
 
@@ -1363,7 +1363,7 @@ Prayer bpn5487 in 日本語 (bpn5487)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5488 in 日本語 (bpn5488) 
+Prayer bpn5488 (bpn5488) 
 
 [bahaiprayers.net 5488](https://bahaiprayers.net/Book/Single/19/5488)
 
@@ -1376,7 +1376,7 @@ Prayer bpn5488 in 日本語 (bpn5488)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5489 in 日本語 (bpn5489) 
+Prayer bpn5489 (bpn5489) 
 
 [bahaiprayers.net 5489](https://bahaiprayers.net/Book/Single/19/5489)
 
@@ -1389,7 +1389,7 @@ Prayer bpn5489 in 日本語 (bpn5489)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5490 in 日本語 (bpn5490) 
+Prayer bpn5490 (bpn5490) 
 
 [bahaiprayers.net 5490](https://bahaiprayers.net/Book/Single/19/5490)
 
@@ -1402,7 +1402,7 @@ Prayer bpn5490 in 日本語 (bpn5490)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5491 in 日本語 (bpn5491) 
+Prayer bpn5491 (bpn5491) 
 
 [bahaiprayers.net 5491](https://bahaiprayers.net/Book/Single/19/5491)
 
@@ -1415,7 +1415,7 @@ Prayer bpn5491 in 日本語 (bpn5491)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5492 in 日本語 (bpn5492) 
+Prayer bpn5492 (bpn5492) 
 
 [bahaiprayers.net 5492](https://bahaiprayers.net/Book/Single/19/5492)
 
@@ -1428,7 +1428,7 @@ Prayer bpn5492 in 日本語 (bpn5492)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5493 in 日本語 (bpn5493) 
+Prayer bpn5493 (bpn5493) 
 
 [bahaiprayers.net 5493](https://bahaiprayers.net/Book/Single/19/5493)
 
@@ -1441,7 +1441,7 @@ Prayer bpn5493 in 日本語 (bpn5493)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5494 in 日本語 (bpn5494) 
+Prayer bpn5494 (bpn5494) 
 
 [bahaiprayers.net 5494](https://bahaiprayers.net/Book/Single/19/5494)
 
@@ -1454,7 +1454,7 @@ Prayer bpn5494 in 日本語 (bpn5494)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5495 in 日本語 (bpn5495) 
+Prayer bpn5495 (bpn5495) 
 
 [bahaiprayers.net 5495](https://bahaiprayers.net/Book/Single/19/5495)
 
@@ -1467,7 +1467,7 @@ Prayer bpn5495 in 日本語 (bpn5495)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5496 in 日本語 (bpn5496) 
+Prayer bpn5496 (bpn5496) 
 
 [bahaiprayers.net 5496](https://bahaiprayers.net/Book/Single/19/5496)
 
@@ -1480,7 +1480,7 @@ Prayer bpn5496 in 日本語 (bpn5496)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5497 in 日本語 (bpn5497) 
+Prayer bpn5497 (bpn5497) 
 
 [bahaiprayers.net 5497](https://bahaiprayers.net/Book/Single/19/5497)
 
@@ -1493,7 +1493,7 @@ Prayer bpn5497 in 日本語 (bpn5497)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5498 in 日本語 (bpn5498) 
+Prayer bpn5498 (bpn5498) 
 
 [bahaiprayers.net 5498](https://bahaiprayers.net/Book/Single/19/5498)
 
@@ -1510,7 +1510,7 @@ Prayer bpn5498 in 日本語 (bpn5498)
 
 -- Báb
 
-Prayer bpn5483 in 日本語 (bpn5483) 
+Prayer bpn5483 (bpn5483) 
 
 [bahaiprayers.net 5483](https://bahaiprayers.net/Book/Single/19/5483)
 
@@ -1527,7 +1527,7 @@ Prayer bpn5483 in 日本語 (bpn5483)
 
 -- Bahá'u'lláh
 
-Prayer bpn5437 in 日本語 (bpn5437) 
+Prayer bpn5437 (bpn5437) 
 
 [bahaiprayers.net 5437](https://bahaiprayers.net/Book/Single/19/5437)
 
@@ -1540,7 +1540,7 @@ Prayer bpn5437 in 日本語 (bpn5437)
 
 -- Bahá'u'lláh
 
-Prayer bpn5438 in 日本語 (bpn5438) 
+Prayer bpn5438 (bpn5438) 
 
 [bahaiprayers.net 5438](https://bahaiprayers.net/Book/Single/19/5438)
 
@@ -1553,7 +1553,7 @@ Prayer bpn5438 in 日本語 (bpn5438)
 
 -- Báb
 
-Prayer bpn5439 in 日本語 (bpn5439) 
+Prayer bpn5439 (bpn5439) 
 
 [bahaiprayers.net 5439](https://bahaiprayers.net/Book/Single/19/5439)
 
@@ -1566,7 +1566,7 @@ Prayer bpn5439 in 日本語 (bpn5439)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5440 in 日本語 (bpn5440) 
+Prayer bpn5440 (bpn5440) 
 
 [bahaiprayers.net 5440](https://bahaiprayers.net/Book/Single/19/5440)
 
@@ -1583,7 +1583,7 @@ Prayer bpn5440 in 日本語 (bpn5440)
 
 -- Bahá'u'lláh
 
-Prayer bpn5379 in 日本語 (bpn5379) 
+Prayer bpn5379 (bpn5379) 
 
 [bahaiprayers.net 5379](https://bahaiprayers.net/Book/Single/19/5379)
 
@@ -1596,7 +1596,7 @@ Prayer bpn5379 in 日本語 (bpn5379)
 
 -- Bahá'u'lláh
 
-Prayer bpn5380 in 日本語 (bpn5380) 
+Prayer bpn5380 (bpn5380) 
 
 [bahaiprayers.net 5380](https://bahaiprayers.net/Book/Single/19/5380)
 
@@ -1609,7 +1609,7 @@ Prayer bpn5380 in 日本語 (bpn5380)
 
 -- Bahá'u'lláh
 
-Prayer bpn5381 in 日本語 (bpn5381) 
+Prayer bpn5381 (bpn5381) 
 
 [bahaiprayers.net 5381](https://bahaiprayers.net/Book/Single/19/5381)
 
@@ -1622,7 +1622,7 @@ Prayer bpn5381 in 日本語 (bpn5381)
 
 -- Báb
 
-Prayer bpn5382 in 日本語 (bpn5382) 
+Prayer bpn5382 (bpn5382) 
 
 [bahaiprayers.net 5382](https://bahaiprayers.net/Book/Single/19/5382)
 
@@ -1635,7 +1635,7 @@ Prayer bpn5382 in 日本語 (bpn5382)
 
 -- Báb
 
-Prayer bpn5383 in 日本語 (bpn5383) 
+Prayer bpn5383 (bpn5383) 
 
 [bahaiprayers.net 5383](https://bahaiprayers.net/Book/Single/19/5383)
 
@@ -1648,7 +1648,7 @@ Prayer bpn5383 in 日本語 (bpn5383)
 
 -- Báb
 
-Prayer bpn5384 in 日本語 (bpn5384) 
+Prayer bpn5384 (bpn5384) 
 
 [bahaiprayers.net 5384](https://bahaiprayers.net/Book/Single/19/5384)
 
@@ -1661,7 +1661,7 @@ Prayer bpn5384 in 日本語 (bpn5384)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5385 in 日本語 (bpn5385) 
+Prayer bpn5385 (bpn5385) 
 
 [bahaiprayers.net 5385](https://bahaiprayers.net/Book/Single/19/5385)
 
@@ -1674,7 +1674,7 @@ Prayer bpn5385 in 日本語 (bpn5385)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5386 in 日本語 (bpn5386) 
+Prayer bpn5386 (bpn5386) 
 
 [bahaiprayers.net 5386](https://bahaiprayers.net/Book/Single/19/5386)
 
@@ -1687,7 +1687,7 @@ Prayer bpn5386 in 日本語 (bpn5386)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5387 in 日本語 (bpn5387) 
+Prayer bpn5387 (bpn5387) 
 
 [bahaiprayers.net 5387](https://bahaiprayers.net/Book/Single/19/5387)
 
@@ -1704,7 +1704,7 @@ Prayer bpn5387 in 日本語 (bpn5387)
 
 -- Bahá'u'lláh
 
-Prayer bpn5578 in 日本語 (bpn5578) 
+Prayer bpn5578 (bpn5578) 
 
 [bahaiprayers.net 5578](https://bahaiprayers.net/Book/Single/19/5578)
 
@@ -1717,7 +1717,7 @@ Prayer bpn5578 in 日本語 (bpn5578)
 
 -- Bahá'u'lláh
 
-Prayer bpn5579 in 日本語 (bpn5579) 
+Prayer bpn5579 (bpn5579) 
 
 [bahaiprayers.net 5579](https://bahaiprayers.net/Book/Single/19/5579)
 
@@ -1730,7 +1730,7 @@ Prayer bpn5579 in 日本語 (bpn5579)
 
 -- Bahá'u'lláh
 
-Prayer bpn5580 in 日本語 (bpn5580) 
+Prayer bpn5580 (bpn5580) 
 
 [bahaiprayers.net 5580](https://bahaiprayers.net/Book/Single/19/5580)
 
@@ -1743,7 +1743,7 @@ Prayer bpn5580 in 日本語 (bpn5580)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5581 in 日本語 (bpn5581) 
+Prayer bpn5581 (bpn5581) 
 
 [bahaiprayers.net 5581](https://bahaiprayers.net/Book/Single/19/5581)
 
@@ -1756,7 +1756,7 @@ Prayer bpn5581 in 日本語 (bpn5581)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5582 in 日本語 (bpn5582) 
+Prayer bpn5582 (bpn5582) 
 
 [bahaiprayers.net 5582](https://bahaiprayers.net/Book/Single/19/5582)
 
@@ -1769,7 +1769,7 @@ Prayer bpn5582 in 日本語 (bpn5582)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5583 in 日本語 (bpn5583) 
+Prayer bpn5583 (bpn5583) 
 
 [bahaiprayers.net 5583](https://bahaiprayers.net/Book/Single/19/5583)
 
@@ -1782,7 +1782,7 @@ Prayer bpn5583 in 日本語 (bpn5583)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5584 in 日本語 (bpn5584) 
+Prayer bpn5584 (bpn5584) 
 
 [bahaiprayers.net 5584](https://bahaiprayers.net/Book/Single/19/5584)
 
@@ -1795,7 +1795,7 @@ Prayer bpn5584 in 日本語 (bpn5584)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5585 in 日本語 (bpn5585) 
+Prayer bpn5585 (bpn5585) 
 
 [bahaiprayers.net 5585](https://bahaiprayers.net/Book/Single/19/5585)
 
@@ -1808,7 +1808,7 @@ Prayer bpn5585 in 日本語 (bpn5585)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5586 in 日本語 (bpn5586) 
+Prayer bpn5586 (bpn5586) 
 
 [bahaiprayers.net 5586](https://bahaiprayers.net/Book/Single/19/5586)
 
@@ -1825,7 +1825,7 @@ Prayer bpn5586 in 日本語 (bpn5586)
 
 -- Bahá'u'lláh
 
-Prayer bpn5567 in 日本語 (bpn5567) 
+Prayer bpn5567 (bpn5567) 
 
 [bahaiprayers.net 5567](https://bahaiprayers.net/Book/Single/19/5567)
 
@@ -1838,7 +1838,7 @@ Prayer bpn5567 in 日本語 (bpn5567)
 
 -- Bahá'u'lláh
 
-Prayer bpn5568 in 日本語 (bpn5568) 
+Prayer bpn5568 (bpn5568) 
 
 [bahaiprayers.net 5568](https://bahaiprayers.net/Book/Single/19/5568)
 
@@ -1851,7 +1851,7 @@ Prayer bpn5568 in 日本語 (bpn5568)
 
 -- Bahá'u'lláh
 
-Prayer bpn5569 in 日本語 (bpn5569) 
+Prayer bpn5569 (bpn5569) 
 
 [bahaiprayers.net 5569](https://bahaiprayers.net/Book/Single/19/5569)
 
@@ -1864,7 +1864,7 @@ Prayer bpn5569 in 日本語 (bpn5569)
 
 -- Bahá'u'lláh
 
-Prayer bpn5570 in 日本語 (bpn5570) 
+Prayer bpn5570 (bpn5570) 
 
 [bahaiprayers.net 5570](https://bahaiprayers.net/Book/Single/19/5570)
 
@@ -1877,7 +1877,7 @@ Prayer bpn5570 in 日本語 (bpn5570)
 
 -- Bahá'u'lláh
 
-Prayer bpn5571 in 日本語 (bpn5571) 
+Prayer bpn5571 (bpn5571) 
 
 [bahaiprayers.net 5571](https://bahaiprayers.net/Book/Single/19/5571)
 
@@ -1890,7 +1890,7 @@ Prayer bpn5571 in 日本語 (bpn5571)
 
 -- Bahá'u'lláh
 
-Prayer bpn5572 in 日本語 (bpn5572) 
+Prayer bpn5572 (bpn5572) 
 
 [bahaiprayers.net 5572](https://bahaiprayers.net/Book/Single/19/5572)
 
@@ -1903,7 +1903,7 @@ Prayer bpn5572 in 日本語 (bpn5572)
 
 -- Bahá'u'lláh
 
-Prayer bpn5573 in 日本語 (bpn5573) 
+Prayer bpn5573 (bpn5573) 
 
 [bahaiprayers.net 5573](https://bahaiprayers.net/Book/Single/19/5573)
 
@@ -1916,7 +1916,7 @@ Prayer bpn5573 in 日本語 (bpn5573)
 
 -- Bahá'u'lláh
 
-Prayer bpn5574 in 日本語 (bpn5574) 
+Prayer bpn5574 (bpn5574) 
 
 [bahaiprayers.net 5574](https://bahaiprayers.net/Book/Single/19/5574)
 
@@ -1929,7 +1929,7 @@ Prayer bpn5574 in 日本語 (bpn5574)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5575 in 日本語 (bpn5575) 
+Prayer bpn5575 (bpn5575) 
 
 [bahaiprayers.net 5575](https://bahaiprayers.net/Book/Single/19/5575)
 
@@ -1946,7 +1946,7 @@ Prayer bpn5575 in 日本語 (bpn5575)
 
 -- Bahá'u'lláh
 
-Prayer bpn5477 in 日本語 (bpn5477) 
+Prayer bpn5477 (bpn5477) 
 
 [bahaiprayers.net 5477](https://bahaiprayers.net/Book/Single/19/5477)
 
@@ -1959,7 +1959,7 @@ Prayer bpn5477 in 日本語 (bpn5477)
 
 -- Bahá'u'lláh
 
-Prayer bpn5478 in 日本語 (bpn5478) 
+Prayer bpn5478 (bpn5478) 
 
 [bahaiprayers.net 5478](https://bahaiprayers.net/Book/Single/19/5478)
 
@@ -1972,7 +1972,7 @@ Prayer bpn5478 in 日本語 (bpn5478)
 
 -- Bahá'u'lláh
 
-Prayer bpn5479 in 日本語 (bpn5479) 
+Prayer bpn5479 (bpn5479) 
 
 [bahaiprayers.net 5479](https://bahaiprayers.net/Book/Single/19/5479)
 
@@ -1989,7 +1989,7 @@ Prayer bpn5479 in 日本語 (bpn5479)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5564 in 日本語 (bpn5564) 
+Prayer bpn5564 (bpn5564) 
 
 [bahaiprayers.net 5564](https://bahaiprayers.net/Book/Single/19/5564)
 
@@ -2006,7 +2006,7 @@ Prayer bpn5564 in 日本語 (bpn5564)
 
 -- Bahá'u'lláh
 
-Prayer bpn5420 in 日本語 (bpn5420) 
+Prayer bpn5420 (bpn5420) 
 
 [bahaiprayers.net 5420](https://bahaiprayers.net/Book/Single/19/5420)
 
@@ -2019,7 +2019,7 @@ Prayer bpn5420 in 日本語 (bpn5420)
 
 -- Bahá'u'lláh
 
-Prayer bpn5422 in 日本語 (bpn5422) 
+Prayer bpn5422 (bpn5422) 
 
 [bahaiprayers.net 5422](https://bahaiprayers.net/Book/Single/19/5422)
 
@@ -2032,7 +2032,7 @@ Prayer bpn5422 in 日本語 (bpn5422)
 
 -- Bahá'u'lláh
 
-Prayer bpn5423 in 日本語 (bpn5423) 
+Prayer bpn5423 (bpn5423) 
 
 [bahaiprayers.net 5423](https://bahaiprayers.net/Book/Single/19/5423)
 
@@ -2045,7 +2045,7 @@ Prayer bpn5423 in 日本語 (bpn5423)
 
 -- Bahá'u'lláh
 
-Prayer bpn5424 in 日本語 (bpn5424) 
+Prayer bpn5424 (bpn5424) 
 
 [bahaiprayers.net 5424](https://bahaiprayers.net/Book/Single/19/5424)
 
@@ -2058,7 +2058,7 @@ Prayer bpn5424 in 日本語 (bpn5424)
 
 -- Bahá'u'lláh
 
-Prayer bpn5425 in 日本語 (bpn5425) 
+Prayer bpn5425 (bpn5425) 
 
 [bahaiprayers.net 5425](https://bahaiprayers.net/Book/Single/19/5425)
 
@@ -2071,7 +2071,7 @@ Prayer bpn5425 in 日本語 (bpn5425)
 
 -- Bahá'u'lláh
 
-Prayer bpn5426 in 日本語 (bpn5426) 
+Prayer bpn5426 (bpn5426) 
 
 [bahaiprayers.net 5426](https://bahaiprayers.net/Book/Single/19/5426)
 
@@ -2084,7 +2084,7 @@ Prayer bpn5426 in 日本語 (bpn5426)
 
 -- Bahá'u'lláh
 
-Prayer bpn5421 in 日本語 (bpn5421) 
+Prayer bpn5421 (bpn5421) 
 
 [bahaiprayers.net 5421](https://bahaiprayers.net/Book/Single/19/5421)
 
@@ -2101,7 +2101,7 @@ Prayer bpn5421 in 日本語 (bpn5421)
 
 -- Bahá'u'lláh
 
-Prayer bpn5560 in 日本語 (bpn5560) 
+Prayer bpn5560 (bpn5560) 
 
 [bahaiprayers.net 5560](https://bahaiprayers.net/Book/Single/19/5560)
 
@@ -2118,7 +2118,7 @@ Prayer bpn5560 in 日本語 (bpn5560)
 
 -- Bahá'u'lláh
 
-Prayer bpn5441 in 日本語 (bpn5441) 
+Prayer bpn5441 (bpn5441) 
 
 [bahaiprayers.net 5441](https://bahaiprayers.net/Book/Single/19/5441)
 
@@ -2131,7 +2131,7 @@ Prayer bpn5441 in 日本語 (bpn5441)
 
 -- Bahá'u'lláh
 
-Prayer bpn5442 in 日本語 (bpn5442) 
+Prayer bpn5442 (bpn5442) 
 
 [bahaiprayers.net 5442](https://bahaiprayers.net/Book/Single/19/5442)
 
@@ -2144,7 +2144,7 @@ Prayer bpn5442 in 日本語 (bpn5442)
 
 -- Bahá'u'lláh
 
-Prayer bpn5443 in 日本語 (bpn5443) 
+Prayer bpn5443 (bpn5443) 
 
 [bahaiprayers.net 5443](https://bahaiprayers.net/Book/Single/19/5443)
 
@@ -2157,7 +2157,7 @@ Prayer bpn5443 in 日本語 (bpn5443)
 
 -- Bahá'u'lláh
 
-Prayer bpn5444 in 日本語 (bpn5444) 
+Prayer bpn5444 (bpn5444) 
 
 [bahaiprayers.net 5444](https://bahaiprayers.net/Book/Single/19/5444)
 
@@ -2170,7 +2170,7 @@ Prayer bpn5444 in 日本語 (bpn5444)
 
 -- Bahá'u'lláh
 
-Prayer bpn5445 in 日本語 (bpn5445) 
+Prayer bpn5445 (bpn5445) 
 
 [bahaiprayers.net 5445](https://bahaiprayers.net/Book/Single/19/5445)
 
@@ -2183,7 +2183,7 @@ Prayer bpn5445 in 日本語 (bpn5445)
 
 -- Bahá'u'lláh
 
-Prayer bpn5446 in 日本語 (bpn5446) 
+Prayer bpn5446 (bpn5446) 
 
 [bahaiprayers.net 5446](https://bahaiprayers.net/Book/Single/19/5446)
 
@@ -2196,7 +2196,7 @@ Prayer bpn5446 in 日本語 (bpn5446)
 
 -- Báb
 
-Prayer bpn5447 in 日本語 (bpn5447) 
+Prayer bpn5447 (bpn5447) 
 
 [bahaiprayers.net 5447](https://bahaiprayers.net/Book/Single/19/5447)
 
@@ -2209,7 +2209,7 @@ Prayer bpn5447 in 日本語 (bpn5447)
 
 -- Báb
 
-Prayer bpn5448 in 日本語 (bpn5448) 
+Prayer bpn5448 (bpn5448) 
 
 [bahaiprayers.net 5448](https://bahaiprayers.net/Book/Single/19/5448)
 
@@ -2222,7 +2222,7 @@ Prayer bpn5448 in 日本語 (bpn5448)
 
 -- Báb
 
-Prayer bpn5449 in 日本語 (bpn5449) 
+Prayer bpn5449 (bpn5449) 
 
 [bahaiprayers.net 5449](https://bahaiprayers.net/Book/Single/19/5449)
 
@@ -2235,7 +2235,7 @@ Prayer bpn5449 in 日本語 (bpn5449)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5450 in 日本語 (bpn5450) 
+Prayer bpn5450 (bpn5450) 
 
 [bahaiprayers.net 5450](https://bahaiprayers.net/Book/Single/19/5450)
 
@@ -2248,7 +2248,7 @@ Prayer bpn5450 in 日本語 (bpn5450)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5451 in 日本語 (bpn5451) 
+Prayer bpn5451 (bpn5451) 
 
 [bahaiprayers.net 5451](https://bahaiprayers.net/Book/Single/19/5451)
 
@@ -2265,7 +2265,7 @@ Prayer bpn5451 in 日本語 (bpn5451)
 
 -- Bahá'u'lláh
 
-Prayer bpn5482 in 日本語 (bpn5482) 
+Prayer bpn5482 (bpn5482) 
 
 [bahaiprayers.net 5482](https://bahaiprayers.net/Book/Single/19/5482)
 
@@ -2282,7 +2282,7 @@ Prayer bpn5482 in 日本語 (bpn5482)
 
 -- Bahá'u'lláh
 
-Prayer bpn5349 in 日本語 (bpn5349) 
+Prayer bpn5349 (bpn5349) 
 
 [bahaiprayers.net 5349](https://bahaiprayers.net/Book/Single/19/5349)
 
@@ -2299,7 +2299,7 @@ Prayer bpn5349 in 日本語 (bpn5349)
 
 -- Bahá'u'lláh
 
-Prayer bpn5454 in 日本語 (bpn5454) 
+Prayer bpn5454 (bpn5454) 
 
 [bahaiprayers.net 5454](https://bahaiprayers.net/Book/Single/19/5454)
 
@@ -2312,7 +2312,7 @@ Prayer bpn5454 in 日本語 (bpn5454)
 
 -- Bahá'u'lláh
 
-Prayer bpn5455 in 日本語 (bpn5455) 
+Prayer bpn5455 (bpn5455) 
 
 [bahaiprayers.net 5455](https://bahaiprayers.net/Book/Single/19/5455)
 
@@ -2325,7 +2325,7 @@ Prayer bpn5455 in 日本語 (bpn5455)
 
 -- Bahá'u'lláh
 
-Prayer bpn5456 in 日本語 (bpn5456) 
+Prayer bpn5456 (bpn5456) 
 
 [bahaiprayers.net 5456](https://bahaiprayers.net/Book/Single/19/5456)
 
@@ -2338,7 +2338,7 @@ Prayer bpn5456 in 日本語 (bpn5456)
 
 -- Bahá'u'lláh
 
-Prayer bpn5457 in 日本語 (bpn5457) 
+Prayer bpn5457 (bpn5457) 
 
 [bahaiprayers.net 5457](https://bahaiprayers.net/Book/Single/19/5457)
 
@@ -2351,7 +2351,7 @@ Prayer bpn5457 in 日本語 (bpn5457)
 
 -- Bahá'u'lláh
 
-Prayer bpn5458 in 日本語 (bpn5458) 
+Prayer bpn5458 (bpn5458) 
 
 [bahaiprayers.net 5458](https://bahaiprayers.net/Book/Single/19/5458)
 
@@ -2364,7 +2364,7 @@ Prayer bpn5458 in 日本語 (bpn5458)
 
 -- Báb
 
-Prayer bpn5459 in 日本語 (bpn5459) 
+Prayer bpn5459 (bpn5459) 
 
 [bahaiprayers.net 5459](https://bahaiprayers.net/Book/Single/19/5459)
 
@@ -2377,7 +2377,7 @@ Prayer bpn5459 in 日本語 (bpn5459)
 
 -- Báb
 
-Prayer bpn5460 in 日本語 (bpn5460) 
+Prayer bpn5460 (bpn5460) 
 
 [bahaiprayers.net 5460](https://bahaiprayers.net/Book/Single/19/5460)
 
@@ -2390,7 +2390,7 @@ Prayer bpn5460 in 日本語 (bpn5460)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5461 in 日本語 (bpn5461) 
+Prayer bpn5461 (bpn5461) 
 
 [bahaiprayers.net 5461](https://bahaiprayers.net/Book/Single/19/5461)
 
@@ -2403,7 +2403,7 @@ Prayer bpn5461 in 日本語 (bpn5461)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5462 in 日本語 (bpn5462) 
+Prayer bpn5462 (bpn5462) 
 
 [bahaiprayers.net 5462](https://bahaiprayers.net/Book/Single/19/5462)
 
@@ -2420,7 +2420,7 @@ Prayer bpn5462 in 日本語 (bpn5462)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5555 in 日本語 (bpn5555) 
+Prayer bpn5555 (bpn5555) 
 
 [bahaiprayers.net 5555](https://bahaiprayers.net/Book/Single/19/5555)
 
@@ -2437,7 +2437,7 @@ Prayer bpn5555 in 日本語 (bpn5555)
 
 -- Bahá'u'lláh
 
-Prayer bpn5361 in 日本語 (bpn5361) 
+Prayer bpn5361 (bpn5361) 
 
 [bahaiprayers.net 5361](https://bahaiprayers.net/Book/Single/19/5361)
 
@@ -2450,7 +2450,7 @@ Prayer bpn5361 in 日本語 (bpn5361)
 
 -- Bahá'u'lláh
 
-Prayer bpn5362 in 日本語 (bpn5362) 
+Prayer bpn5362 (bpn5362) 
 
 [bahaiprayers.net 5362](https://bahaiprayers.net/Book/Single/19/5362)
 
@@ -2463,7 +2463,7 @@ Prayer bpn5362 in 日本語 (bpn5362)
 
 -- Bahá'u'lláh
 
-Prayer bpn5363 in 日本語 (bpn5363) 
+Prayer bpn5363 (bpn5363) 
 
 [bahaiprayers.net 5363](https://bahaiprayers.net/Book/Single/19/5363)
 
@@ -2476,7 +2476,7 @@ Prayer bpn5363 in 日本語 (bpn5363)
 
 -- Bahá'u'lláh
 
-Prayer bpn5364 in 日本語 (bpn5364) 
+Prayer bpn5364 (bpn5364) 
 
 [bahaiprayers.net 5364](https://bahaiprayers.net/Book/Single/19/5364)
 
@@ -2489,7 +2489,7 @@ Prayer bpn5364 in 日本語 (bpn5364)
 
 -- Bahá'u'lláh
 
-Prayer bpn5365 in 日本語 (bpn5365) 
+Prayer bpn5365 (bpn5365) 
 
 [bahaiprayers.net 5365](https://bahaiprayers.net/Book/Single/19/5365)
 
@@ -2502,7 +2502,7 @@ Prayer bpn5365 in 日本語 (bpn5365)
 
 -- Bahá'u'lláh
 
-Prayer bpn5366 in 日本語 (bpn5366) 
+Prayer bpn5366 (bpn5366) 
 
 [bahaiprayers.net 5366](https://bahaiprayers.net/Book/Single/19/5366)
 
@@ -2515,7 +2515,7 @@ Prayer bpn5366 in 日本語 (bpn5366)
 
 -- Bahá'u'lláh
 
-Prayer bpn5367 in 日本語 (bpn5367) 
+Prayer bpn5367 (bpn5367) 
 
 [bahaiprayers.net 5367](https://bahaiprayers.net/Book/Single/19/5367)
 
@@ -2528,7 +2528,7 @@ Prayer bpn5367 in 日本語 (bpn5367)
 
 -- Bahá'u'lláh
 
-Prayer bpn5368 in 日本語 (bpn5368) 
+Prayer bpn5368 (bpn5368) 
 
 [bahaiprayers.net 5368](https://bahaiprayers.net/Book/Single/19/5368)
 
@@ -2541,7 +2541,7 @@ Prayer bpn5368 in 日本語 (bpn5368)
 
 -- Bahá'u'lláh
 
-Prayer bpn5369 in 日本語 (bpn5369) 
+Prayer bpn5369 (bpn5369) 
 
 [bahaiprayers.net 5369](https://bahaiprayers.net/Book/Single/19/5369)
 
@@ -2554,7 +2554,7 @@ Prayer bpn5369 in 日本語 (bpn5369)
 
 -- Báb
 
-Prayer bpn5370 in 日本語 (bpn5370) 
+Prayer bpn5370 (bpn5370) 
 
 [bahaiprayers.net 5370](https://bahaiprayers.net/Book/Single/19/5370)
 
@@ -2567,7 +2567,7 @@ Prayer bpn5370 in 日本語 (bpn5370)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5371 in 日本語 (bpn5371) 
+Prayer bpn5371 (bpn5371) 
 
 [bahaiprayers.net 5371](https://bahaiprayers.net/Book/Single/19/5371)
 
@@ -2580,7 +2580,7 @@ Prayer bpn5371 in 日本語 (bpn5371)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5372 in 日本語 (bpn5372) 
+Prayer bpn5372 (bpn5372) 
 
 [bahaiprayers.net 5372](https://bahaiprayers.net/Book/Single/19/5372)
 
@@ -2593,7 +2593,7 @@ Prayer bpn5372 in 日本語 (bpn5372)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5373 in 日本語 (bpn5373) 
+Prayer bpn5373 (bpn5373) 
 
 [bahaiprayers.net 5373](https://bahaiprayers.net/Book/Single/19/5373)
 
@@ -2606,7 +2606,7 @@ Prayer bpn5373 in 日本語 (bpn5373)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5374 in 日本語 (bpn5374) 
+Prayer bpn5374 (bpn5374) 
 
 [bahaiprayers.net 5374](https://bahaiprayers.net/Book/Single/19/5374)
 
@@ -2619,7 +2619,7 @@ Prayer bpn5374 in 日本語 (bpn5374)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5375 in 日本語 (bpn5375) 
+Prayer bpn5375 (bpn5375) 
 
 [bahaiprayers.net 5375](https://bahaiprayers.net/Book/Single/19/5375)
 
@@ -2632,7 +2632,7 @@ Prayer bpn5375 in 日本語 (bpn5375)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5376 in 日本語 (bpn5376) 
+Prayer bpn5376 (bpn5376) 
 
 [bahaiprayers.net 5376](https://bahaiprayers.net/Book/Single/19/5376)
 
@@ -2645,7 +2645,7 @@ Prayer bpn5376 in 日本語 (bpn5376)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5377 in 日本語 (bpn5377) 
+Prayer bpn5377 (bpn5377) 
 
 [bahaiprayers.net 5377](https://bahaiprayers.net/Book/Single/19/5377)
 
@@ -2658,7 +2658,7 @@ Prayer bpn5377 in 日本語 (bpn5377)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5378 in 日本語 (bpn5378) 
+Prayer bpn5378 (bpn5378) 
 
 [bahaiprayers.net 5378](https://bahaiprayers.net/Book/Single/19/5378)
 
@@ -2675,7 +2675,7 @@ Prayer bpn5378 in 日本語 (bpn5378)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5549 in 日本語 (bpn5549) 
+Prayer bpn5549 (bpn5549) 
 
 [bahaiprayers.net 5549](https://bahaiprayers.net/Book/Single/19/5549)
 
@@ -2688,7 +2688,7 @@ Prayer bpn5549 in 日本語 (bpn5549)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5550 in 日本語 (bpn5550) 
+Prayer bpn5550 (bpn5550) 
 
 [bahaiprayers.net 5550](https://bahaiprayers.net/Book/Single/19/5550)
 
@@ -2701,7 +2701,7 @@ Prayer bpn5550 in 日本語 (bpn5550)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5551 in 日本語 (bpn5551) 
+Prayer bpn5551 (bpn5551) 
 
 [bahaiprayers.net 5551](https://bahaiprayers.net/Book/Single/19/5551)
 
@@ -2718,7 +2718,7 @@ Prayer bpn5551 in 日本語 (bpn5551)
 
 -- Bahá'u'lláh
 
-Prayer bpn5518 in 日本語 (bpn5518) 
+Prayer bpn5518 (bpn5518) 
 
 [bahaiprayers.net 5518](https://bahaiprayers.net/Book/Single/19/5518)
 
@@ -2731,7 +2731,7 @@ Prayer bpn5518 in 日本語 (bpn5518)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5519 in 日本語 (bpn5519) 
+Prayer bpn5519 (bpn5519) 
 
 [bahaiprayers.net 5519](https://bahaiprayers.net/Book/Single/19/5519)
 
@@ -2744,7 +2744,7 @@ Prayer bpn5519 in 日本語 (bpn5519)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5520 in 日本語 (bpn5520) 
+Prayer bpn5520 (bpn5520) 
 
 [bahaiprayers.net 5520](https://bahaiprayers.net/Book/Single/19/5520)
 
@@ -2757,7 +2757,7 @@ Prayer bpn5520 in 日本語 (bpn5520)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5521 in 日本語 (bpn5521) 
+Prayer bpn5521 (bpn5521) 
 
 [bahaiprayers.net 5521](https://bahaiprayers.net/Book/Single/19/5521)
 
@@ -2774,7 +2774,7 @@ Prayer bpn5521 in 日本語 (bpn5521)
 
 -- Bahá'u'lláh
 
-Prayer bpn5563 in 日本語 (bpn5563) 
+Prayer bpn5563 (bpn5563) 
 
 [bahaiprayers.net 5563](https://bahaiprayers.net/Book/Single/19/5563)
 
@@ -2791,7 +2791,7 @@ Prayer bpn5563 in 日本語 (bpn5563)
 
 -- Bahá'u'lláh
 
-Prayer bpn5463 in 日本語 (bpn5463) 
+Prayer bpn5463 (bpn5463) 
 
 [bahaiprayers.net 5463](https://bahaiprayers.net/Book/Single/19/5463)
 
@@ -2804,7 +2804,7 @@ Prayer bpn5463 in 日本語 (bpn5463)
 
 -- Bahá'u'lláh
 
-Prayer bpn5464 in 日本語 (bpn5464) 
+Prayer bpn5464 (bpn5464) 
 
 [bahaiprayers.net 5464](https://bahaiprayers.net/Book/Single/19/5464)
 
@@ -2817,7 +2817,7 @@ Prayer bpn5464 in 日本語 (bpn5464)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5465 in 日本語 (bpn5465) 
+Prayer bpn5465 (bpn5465) 
 
 [bahaiprayers.net 5465](https://bahaiprayers.net/Book/Single/19/5465)
 
@@ -2830,7 +2830,7 @@ Prayer bpn5465 in 日本語 (bpn5465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5466 in 日本語 (bpn5466) 
+Prayer bpn5466 (bpn5466) 
 
 [bahaiprayers.net 5466](https://bahaiprayers.net/Book/Single/19/5466)
 
@@ -2843,7 +2843,7 @@ Prayer bpn5466 in 日本語 (bpn5466)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5467 in 日本語 (bpn5467) 
+Prayer bpn5467 (bpn5467) 
 
 [bahaiprayers.net 5467](https://bahaiprayers.net/Book/Single/19/5467)
 
@@ -2860,7 +2860,7 @@ Prayer bpn5467 in 日本語 (bpn5467)
 
 -- Bahá'u'lláh
 
-Prayer bpn5407 in 日本語 (bpn5407) 
+Prayer bpn5407 (bpn5407) 
 
 [bahaiprayers.net 5407](https://bahaiprayers.net/Book/Single/19/5407)
 
@@ -2873,7 +2873,7 @@ Prayer bpn5407 in 日本語 (bpn5407)
 
 -- Bahá'u'lláh
 
-Prayer bpn5408 in 日本語 (bpn5408) 
+Prayer bpn5408 (bpn5408) 
 
 [bahaiprayers.net 5408](https://bahaiprayers.net/Book/Single/19/5408)
 
@@ -2886,7 +2886,7 @@ Prayer bpn5408 in 日本語 (bpn5408)
 
 -- Bahá'u'lláh
 
-Prayer bpn5409 in 日本語 (bpn5409) 
+Prayer bpn5409 (bpn5409) 
 
 [bahaiprayers.net 5409](https://bahaiprayers.net/Book/Single/19/5409)
 
@@ -2899,7 +2899,7 @@ Prayer bpn5409 in 日本語 (bpn5409)
 
 -- Bahá'u'lláh
 
-Prayer bpn5410 in 日本語 (bpn5410) 
+Prayer bpn5410 (bpn5410) 
 
 [bahaiprayers.net 5410](https://bahaiprayers.net/Book/Single/19/5410)
 
@@ -2912,7 +2912,7 @@ Prayer bpn5410 in 日本語 (bpn5410)
 
 -- Bahá'u'lláh
 
-Prayer bpn5411 in 日本語 (bpn5411) 
+Prayer bpn5411 (bpn5411) 
 
 [bahaiprayers.net 5411](https://bahaiprayers.net/Book/Single/19/5411)
 
@@ -2925,7 +2925,7 @@ Prayer bpn5411 in 日本語 (bpn5411)
 
 -- Bahá'u'lláh
 
-Prayer bpn5412 in 日本語 (bpn5412) 
+Prayer bpn5412 (bpn5412) 
 
 [bahaiprayers.net 5412](https://bahaiprayers.net/Book/Single/19/5412)
 
@@ -2938,7 +2938,7 @@ Prayer bpn5412 in 日本語 (bpn5412)
 
 -- Báb
 
-Prayer bpn5413 in 日本語 (bpn5413) 
+Prayer bpn5413 (bpn5413) 
 
 [bahaiprayers.net 5413](https://bahaiprayers.net/Book/Single/19/5413)
 
@@ -2951,7 +2951,7 @@ Prayer bpn5413 in 日本語 (bpn5413)
 
 -- Báb
 
-Prayer bpn5414 in 日本語 (bpn5414) 
+Prayer bpn5414 (bpn5414) 
 
 [bahaiprayers.net 5414](https://bahaiprayers.net/Book/Single/19/5414)
 
@@ -2964,7 +2964,7 @@ Prayer bpn5414 in 日本語 (bpn5414)
 
 -- Báb
 
-Prayer bpn5415 in 日本語 (bpn5415) 
+Prayer bpn5415 (bpn5415) 
 
 [bahaiprayers.net 5415](https://bahaiprayers.net/Book/Single/19/5415)
 
@@ -2977,7 +2977,7 @@ Prayer bpn5415 in 日本語 (bpn5415)
 
 -- Báb
 
-Prayer bpn5416 in 日本語 (bpn5416) 
+Prayer bpn5416 (bpn5416) 
 
 [bahaiprayers.net 5416](https://bahaiprayers.net/Book/Single/19/5416)
 
@@ -2990,7 +2990,7 @@ Prayer bpn5416 in 日本語 (bpn5416)
 
 -- Báb
 
-Prayer bpn5417 in 日本語 (bpn5417) 
+Prayer bpn5417 (bpn5417) 
 
 [bahaiprayers.net 5417](https://bahaiprayers.net/Book/Single/19/5417)
 
@@ -3003,7 +3003,7 @@ Prayer bpn5417 in 日本語 (bpn5417)
 
 -- Báb
 
-Prayer bpn5418 in 日本語 (bpn5418) 
+Prayer bpn5418 (bpn5418) 
 
 [bahaiprayers.net 5418](https://bahaiprayers.net/Book/Single/19/5418)
 
@@ -3016,7 +3016,7 @@ Prayer bpn5418 in 日本語 (bpn5418)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5419 in 日本語 (bpn5419) 
+Prayer bpn5419 (bpn5419) 
 
 [bahaiprayers.net 5419](https://bahaiprayers.net/Book/Single/19/5419)
 
@@ -3033,7 +3033,7 @@ Prayer bpn5419 in 日本語 (bpn5419)
 
 -- Bahá'u'lláh
 
-Prayer bpn5427 in 日本語 (bpn5427) 
+Prayer bpn5427 (bpn5427) 
 
 [bahaiprayers.net 5427](https://bahaiprayers.net/Book/Single/19/5427)
 
@@ -3046,7 +3046,7 @@ Prayer bpn5427 in 日本語 (bpn5427)
 
 -- Bahá'u'lláh
 
-Prayer bpn5428 in 日本語 (bpn5428) 
+Prayer bpn5428 (bpn5428) 
 
 [bahaiprayers.net 5428](https://bahaiprayers.net/Book/Single/19/5428)
 
@@ -3059,7 +3059,7 @@ Prayer bpn5428 in 日本語 (bpn5428)
 
 -- Bahá'u'lláh
 
-Prayer bpn5429 in 日本語 (bpn5429) 
+Prayer bpn5429 (bpn5429) 
 
 [bahaiprayers.net 5429](https://bahaiprayers.net/Book/Single/19/5429)
 
@@ -3072,7 +3072,7 @@ Prayer bpn5429 in 日本語 (bpn5429)
 
 -- Bahá'u'lláh
 
-Prayer bpn5430 in 日本語 (bpn5430) 
+Prayer bpn5430 (bpn5430) 
 
 [bahaiprayers.net 5430](https://bahaiprayers.net/Book/Single/19/5430)
 
@@ -3085,7 +3085,7 @@ Prayer bpn5430 in 日本語 (bpn5430)
 
 -- Bahá'u'lláh
 
-Prayer bpn5431 in 日本語 (bpn5431) 
+Prayer bpn5431 (bpn5431) 
 
 [bahaiprayers.net 5431](https://bahaiprayers.net/Book/Single/19/5431)
 
@@ -3098,7 +3098,7 @@ Prayer bpn5431 in 日本語 (bpn5431)
 
 -- Bahá'u'lláh
 
-Prayer bpn6845 in 日本語 (bpn6845) 
+Prayer bpn6845 (bpn6845) 
 
 [bahaiprayers.net 6845](https://bahaiprayers.net/Book/Single/19/6845)
 
@@ -3111,7 +3111,7 @@ Prayer bpn6845 in 日本語 (bpn6845)
 
 -- Báb
 
-Prayer bpn5433 in 日本語 (bpn5433) 
+Prayer bpn5433 (bpn5433) 
 
 [bahaiprayers.net 5433](https://bahaiprayers.net/Book/Single/19/5433)
 
@@ -3124,7 +3124,7 @@ Prayer bpn5433 in 日本語 (bpn5433)
 
 -- Báb
 
-Prayer bpn5434 in 日本語 (bpn5434) 
+Prayer bpn5434 (bpn5434) 
 
 [bahaiprayers.net 5434](https://bahaiprayers.net/Book/Single/19/5434)
 
@@ -3137,7 +3137,7 @@ Prayer bpn5434 in 日本語 (bpn5434)
 
 -- Báb
 
-Prayer bpn5432 in 日本語 (bpn5432) 
+Prayer bpn5432 (bpn5432) 
 
 [bahaiprayers.net 5432](https://bahaiprayers.net/Book/Single/19/5432)
 
@@ -3150,7 +3150,7 @@ Prayer bpn5432 in 日本語 (bpn5432)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5435 in 日本語 (bpn5435) 
+Prayer bpn5435 (bpn5435) 
 
 [bahaiprayers.net 5435](https://bahaiprayers.net/Book/Single/19/5435)
 
@@ -3163,7 +3163,7 @@ Prayer bpn5435 in 日本語 (bpn5435)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5436 in 日本語 (bpn5436) 
+Prayer bpn5436 (bpn5436) 
 
 [bahaiprayers.net 5436](https://bahaiprayers.net/Book/Single/19/5436)
 
@@ -3180,7 +3180,7 @@ Prayer bpn5436 in 日本語 (bpn5436)
 
 -- Bahá'u'lláh
 
-Prayer bpn5388 in 日本語 (bpn5388) 
+Prayer bpn5388 (bpn5388) 
 
 [bahaiprayers.net 5388](https://bahaiprayers.net/Book/Single/19/5388)
 
@@ -3193,7 +3193,7 @@ Prayer bpn5388 in 日本語 (bpn5388)
 
 -- Bahá'u'lláh
 
-Prayer bpn5389 in 日本語 (bpn5389) 
+Prayer bpn5389 (bpn5389) 
 
 [bahaiprayers.net 5389](https://bahaiprayers.net/Book/Single/19/5389)
 
@@ -3206,7 +3206,7 @@ Prayer bpn5389 in 日本語 (bpn5389)
 
 -- Bahá'u'lláh
 
-Prayer bpn5390 in 日本語 (bpn5390) 
+Prayer bpn5390 (bpn5390) 
 
 [bahaiprayers.net 5390](https://bahaiprayers.net/Book/Single/19/5390)
 
@@ -3219,7 +3219,7 @@ Prayer bpn5390 in 日本語 (bpn5390)
 
 -- Bahá'u'lláh
 
-Prayer bpn5391 in 日本語 (bpn5391) 
+Prayer bpn5391 (bpn5391) 
 
 [bahaiprayers.net 5391](https://bahaiprayers.net/Book/Single/19/5391)
 
@@ -3232,7 +3232,7 @@ Prayer bpn5391 in 日本語 (bpn5391)
 
 -- Bahá'u'lláh
 
-Prayer bpn5392 in 日本語 (bpn5392) 
+Prayer bpn5392 (bpn5392) 
 
 [bahaiprayers.net 5392](https://bahaiprayers.net/Book/Single/19/5392)
 
@@ -3245,7 +3245,7 @@ Prayer bpn5392 in 日本語 (bpn5392)
 
 -- Báb
 
-Prayer bpn5393 in 日本語 (bpn5393) 
+Prayer bpn5393 (bpn5393) 
 
 [bahaiprayers.net 5393](https://bahaiprayers.net/Book/Single/19/5393)
 
@@ -3262,7 +3262,7 @@ Prayer bpn5393 in 日本語 (bpn5393)
 
 -- Bahá'u'lláh
 
-Prayer bpn5351 in 日本語 (bpn5351) 
+Prayer bpn5351 (bpn5351) 
 
 [bahaiprayers.net 5351](https://bahaiprayers.net/Book/Single/19/5351)
 
@@ -3279,7 +3279,7 @@ Prayer bpn5351 in 日本語 (bpn5351)
 
 -- Bahá'u'lláh
 
-Prayer bpn5566 in 日本語 (bpn5566) 
+Prayer bpn5566 (bpn5566) 
 
 [bahaiprayers.net 5566](https://bahaiprayers.net/Book/Single/19/5566)
 
@@ -3296,7 +3296,7 @@ Prayer bpn5566 in 日本語 (bpn5566)
 
 -- Bahá'u'lláh
 
-Prayer bpn5541 in 日本語 (bpn5541) 
+Prayer bpn5541 (bpn5541) 
 
 [bahaiprayers.net 5541](https://bahaiprayers.net/Book/Single/19/5541)
 
@@ -3309,7 +3309,7 @@ Prayer bpn5541 in 日本語 (bpn5541)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5542 in 日本語 (bpn5542) 
+Prayer bpn5542 (bpn5542) 
 
 [bahaiprayers.net 5542](https://bahaiprayers.net/Book/Single/19/5542)
 
@@ -3322,7 +3322,7 @@ Prayer bpn5542 in 日本語 (bpn5542)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5543 in 日本語 (bpn5543) 
+Prayer bpn5543 (bpn5543) 
 
 [bahaiprayers.net 5543](https://bahaiprayers.net/Book/Single/19/5543)
 
@@ -3335,7 +3335,7 @@ Prayer bpn5543 in 日本語 (bpn5543)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5544 in 日本語 (bpn5544) 
+Prayer bpn5544 (bpn5544) 
 
 [bahaiprayers.net 5544](https://bahaiprayers.net/Book/Single/19/5544)
 
@@ -3348,7 +3348,7 @@ Prayer bpn5544 in 日本語 (bpn5544)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5545 in 日本語 (bpn5545) 
+Prayer bpn5545 (bpn5545) 
 
 [bahaiprayers.net 5545](https://bahaiprayers.net/Book/Single/19/5545)
 
@@ -3361,7 +3361,7 @@ Prayer bpn5545 in 日本語 (bpn5545)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5546 in 日本語 (bpn5546) 
+Prayer bpn5546 (bpn5546) 
 
 [bahaiprayers.net 5546](https://bahaiprayers.net/Book/Single/19/5546)
 
@@ -3374,7 +3374,7 @@ Prayer bpn5546 in 日本語 (bpn5546)
 
 -- Abdu'l-Bahá
 
-Prayer bpn5547 in 日本語 (bpn5547) 
+Prayer bpn5547 (bpn5547) 
 
 [bahaiprayers.net 5547](https://bahaiprayers.net/Book/Single/19/5547)
 

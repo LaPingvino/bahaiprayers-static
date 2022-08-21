@@ -62,7 +62,7 @@ tags = ['lang=te', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn10985 in తెలుగు (bpn10985) 
+Prayer bpn10985 (bpn10985) 
 
 [bahaiprayers.net 10985](https://bahaiprayers.net/Book/Single/96/10985)
 
@@ -79,7 +79,7 @@ Prayer bpn10985 in తెలుగు (bpn10985)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11016 in తెలుగు (bpn11016) 
+Prayer bpn11016 (bpn11016) 
 
 [bahaiprayers.net 11016](https://bahaiprayers.net/Book/Single/96/11016)
 
@@ -96,7 +96,7 @@ Prayer bpn11016 in తెలుగు (bpn11016)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13734 in తెలుగు (bpn13734) 
+Prayer bpn13734 (bpn13734) 
 
 [bahaiprayers.net 13734](https://bahaiprayers.net/Book/Single/96/13734)
 
@@ -109,7 +109,7 @@ Prayer bpn13734 in తెలుగు (bpn13734)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13735 in తెలుగు (bpn13735) 
+Prayer bpn13735 (bpn13735) 
 
 [bahaiprayers.net 13735](https://bahaiprayers.net/Book/Single/96/13735)
 
@@ -122,7 +122,7 @@ Prayer bpn13735 in తెలుగు (bpn13735)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13736 in తెలుగు (bpn13736) 
+Prayer bpn13736 (bpn13736) 
 
 [bahaiprayers.net 13736](https://bahaiprayers.net/Book/Single/96/13736)
 
@@ -135,7 +135,7 @@ Prayer bpn13736 in తెలుగు (bpn13736)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13737 in తెలుగు (bpn13737) 
+Prayer bpn13737 (bpn13737) 
 
 [bahaiprayers.net 13737](https://bahaiprayers.net/Book/Single/96/13737)
 
@@ -148,7 +148,7 @@ Prayer bpn13737 in తెలుగు (bpn13737)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13738 in తెలుగు (bpn13738) 
+Prayer bpn13738 (bpn13738) 
 
 [bahaiprayers.net 13738](https://bahaiprayers.net/Book/Single/96/13738)
 
@@ -161,7 +161,7 @@ Prayer bpn13738 in తెలుగు (bpn13738)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13739 in తెలుగు (bpn13739) 
+Prayer bpn13739 (bpn13739) 
 
 [bahaiprayers.net 13739](https://bahaiprayers.net/Book/Single/96/13739)
 
@@ -174,7 +174,7 @@ Prayer bpn13739 in తెలుగు (bpn13739)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13740 in తెలుగు (bpn13740) 
+Prayer bpn13740 (bpn13740) 
 
 [bahaiprayers.net 13740](https://bahaiprayers.net/Book/Single/96/13740)
 
@@ -187,7 +187,7 @@ Prayer bpn13740 in తెలుగు (bpn13740)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13741 in తెలుగు (bpn13741) 
+Prayer bpn13741 (bpn13741) 
 
 [bahaiprayers.net 13741](https://bahaiprayers.net/Book/Single/96/13741)
 
@@ -200,7 +200,7 @@ Prayer bpn13741 in తెలుగు (bpn13741)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13742 in తెలుగు (bpn13742) 
+Prayer bpn13742 (bpn13742) 
 
 [bahaiprayers.net 13742](https://bahaiprayers.net/Book/Single/96/13742)
 
@@ -213,7 +213,7 @@ Prayer bpn13742 in తెలుగు (bpn13742)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13743 in తెలుగు (bpn13743) 
+Prayer bpn13743 (bpn13743) 
 
 [bahaiprayers.net 13743](https://bahaiprayers.net/Book/Single/96/13743)
 
@@ -226,7 +226,7 @@ Prayer bpn13743 in తెలుగు (bpn13743)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13744 in తెలుగు (bpn13744) 
+Prayer bpn13744 (bpn13744) 
 
 [bahaiprayers.net 13744](https://bahaiprayers.net/Book/Single/96/13744)
 
@@ -239,7 +239,7 @@ Prayer bpn13744 in తెలుగు (bpn13744)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13745 in తెలుగు (bpn13745) 
+Prayer bpn13745 (bpn13745) 
 
 [bahaiprayers.net 13745](https://bahaiprayers.net/Book/Single/96/13745)
 
@@ -252,7 +252,7 @@ Prayer bpn13745 in తెలుగు (bpn13745)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13746 in తెలుగు (bpn13746) 
+Prayer bpn13746 (bpn13746) 
 
 [bahaiprayers.net 13746](https://bahaiprayers.net/Book/Single/96/13746)
 
@@ -265,7 +265,7 @@ Prayer bpn13746 in తెలుగు (bpn13746)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13747 in తెలుగు (bpn13747) 
+Prayer bpn13747 (bpn13747) 
 
 [bahaiprayers.net 13747](https://bahaiprayers.net/Book/Single/96/13747)
 
@@ -278,7 +278,7 @@ Prayer bpn13747 in తెలుగు (bpn13747)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13748 in తెలుగు (bpn13748) 
+Prayer bpn13748 (bpn13748) 
 
 [bahaiprayers.net 13748](https://bahaiprayers.net/Book/Single/96/13748)
 
@@ -291,7 +291,7 @@ Prayer bpn13748 in తెలుగు (bpn13748)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13749 in తెలుగు (bpn13749) 
+Prayer bpn13749 (bpn13749) 
 
 [bahaiprayers.net 13749](https://bahaiprayers.net/Book/Single/96/13749)
 
@@ -304,7 +304,7 @@ Prayer bpn13749 in తెలుగు (bpn13749)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13750 in తెలుగు (bpn13750) 
+Prayer bpn13750 (bpn13750) 
 
 [bahaiprayers.net 13750](https://bahaiprayers.net/Book/Single/96/13750)
 
@@ -317,7 +317,7 @@ Prayer bpn13750 in తెలుగు (bpn13750)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13751 in తెలుగు (bpn13751) 
+Prayer bpn13751 (bpn13751) 
 
 [bahaiprayers.net 13751](https://bahaiprayers.net/Book/Single/96/13751)
 
@@ -330,7 +330,7 @@ Prayer bpn13751 in తెలుగు (bpn13751)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13752 in తెలుగు (bpn13752) 
+Prayer bpn13752 (bpn13752) 
 
 [bahaiprayers.net 13752](https://bahaiprayers.net/Book/Single/96/13752)
 
@@ -343,7 +343,7 @@ Prayer bpn13752 in తెలుగు (bpn13752)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13753 in తెలుగు (bpn13753) 
+Prayer bpn13753 (bpn13753) 
 
 [bahaiprayers.net 13753](https://bahaiprayers.net/Book/Single/96/13753)
 
@@ -356,7 +356,7 @@ Prayer bpn13753 in తెలుగు (bpn13753)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13754 in తెలుగు (bpn13754) 
+Prayer bpn13754 (bpn13754) 
 
 [bahaiprayers.net 13754](https://bahaiprayers.net/Book/Single/96/13754)
 
@@ -369,7 +369,7 @@ Prayer bpn13754 in తెలుగు (bpn13754)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13755 in తెలుగు (bpn13755) 
+Prayer bpn13755 (bpn13755) 
 
 [bahaiprayers.net 13755](https://bahaiprayers.net/Book/Single/96/13755)
 
@@ -382,7 +382,7 @@ Prayer bpn13755 in తెలుగు (bpn13755)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13756 in తెలుగు (bpn13756) 
+Prayer bpn13756 (bpn13756) 
 
 [bahaiprayers.net 13756](https://bahaiprayers.net/Book/Single/96/13756)
 
@@ -395,7 +395,7 @@ Prayer bpn13756 in తెలుగు (bpn13756)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13757 in తెలుగు (bpn13757) 
+Prayer bpn13757 (bpn13757) 
 
 [bahaiprayers.net 13757](https://bahaiprayers.net/Book/Single/96/13757)
 
@@ -408,7 +408,7 @@ Prayer bpn13757 in తెలుగు (bpn13757)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13758 in తెలుగు (bpn13758) 
+Prayer bpn13758 (bpn13758) 
 
 [bahaiprayers.net 13758](https://bahaiprayers.net/Book/Single/96/13758)
 
@@ -421,7 +421,7 @@ Prayer bpn13758 in తెలుగు (bpn13758)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13759 in తెలుగు (bpn13759) 
+Prayer bpn13759 (bpn13759) 
 
 [bahaiprayers.net 13759](https://bahaiprayers.net/Book/Single/96/13759)
 
@@ -438,7 +438,7 @@ Prayer bpn13759 in తెలుగు (bpn13759)
 
 -- Bahá'u'lláh
 
-Prayer bpn11014 in తెలుగు (bpn11014) 
+Prayer bpn11014 (bpn11014) 
 
 [bahaiprayers.net 11014](https://bahaiprayers.net/Book/Single/96/11014)
 
@@ -455,7 +455,7 @@ Prayer bpn11014 in తెలుగు (bpn11014)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10993 in తెలుగు (bpn10993) 
+Prayer bpn10993 (bpn10993) 
 
 [bahaiprayers.net 10993](https://bahaiprayers.net/Book/Single/96/10993)
 
@@ -472,7 +472,7 @@ Prayer bpn10993 in తెలుగు (bpn10993)
 
 -- Bahá'u'lláh
 
-Prayer bpn10992 in తెలుగు (bpn10992) 
+Prayer bpn10992 (bpn10992) 
 
 [bahaiprayers.net 10992](https://bahaiprayers.net/Book/Single/96/10992)
 
@@ -489,7 +489,7 @@ Prayer bpn10992 in తెలుగు (bpn10992)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13724 in తెలుగు (bpn13724) 
+Prayer bpn13724 (bpn13724) 
 
 [bahaiprayers.net 13724](https://bahaiprayers.net/Book/Single/96/13724)
 
@@ -502,7 +502,7 @@ Prayer bpn13724 in తెలుగు (bpn13724)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13730 in తెలుగు (bpn13730) 
+Prayer bpn13730 (bpn13730) 
 
 [bahaiprayers.net 13730](https://bahaiprayers.net/Book/Single/96/13730)
 
@@ -519,7 +519,7 @@ Prayer bpn13730 in తెలుగు (bpn13730)
 
 -- Bahá'u'lláh
 
-Prayer bpn10987 in తెలుగు (bpn10987) 
+Prayer bpn10987 (bpn10987) 
 
 [bahaiprayers.net 10987](https://bahaiprayers.net/Book/Single/96/10987)
 
@@ -532,7 +532,7 @@ Prayer bpn10987 in తెలుగు (bpn10987)
 
 -- Bahá'u'lláh
 
-Prayer bpn10988 in తెలుగు (bpn10988) 
+Prayer bpn10988 (bpn10988) 
 
 [bahaiprayers.net 10988](https://bahaiprayers.net/Book/Single/96/10988)
 
@@ -549,7 +549,7 @@ Prayer bpn10988 in తెలుగు (bpn10988)
 
 -- Bahá'u'lláh
 
-Prayer bpn10990 in తెలుగు (bpn10990) 
+Prayer bpn10990 (bpn10990) 
 
 [bahaiprayers.net 10990](https://bahaiprayers.net/Book/Single/96/10990)
 
@@ -566,7 +566,7 @@ Prayer bpn10990 in తెలుగు (bpn10990)
 
 -- Bahá'u'lláh
 
-Prayer bpn10986 in తెలుగు (bpn10986) 
+Prayer bpn10986 (bpn10986) 
 
 [bahaiprayers.net 10986](https://bahaiprayers.net/Book/Single/96/10986)
 
@@ -583,7 +583,7 @@ Prayer bpn10986 in తెలుగు (bpn10986)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13728 in తెలుగు (bpn13728) 
+Prayer bpn13728 (bpn13728) 
 
 [bahaiprayers.net 13728](https://bahaiprayers.net/Book/Single/96/13728)
 
@@ -600,7 +600,7 @@ Prayer bpn13728 in తెలుగు (bpn13728)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13725 in తెలుగు (bpn13725) 
+Prayer bpn13725 (bpn13725) 
 
 [bahaiprayers.net 13725](https://bahaiprayers.net/Book/Single/96/13725)
 
@@ -613,7 +613,7 @@ Prayer bpn13725 in తెలుగు (bpn13725)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13731 in తెలుగు (bpn13731) 
+Prayer bpn13731 (bpn13731) 
 
 [bahaiprayers.net 13731](https://bahaiprayers.net/Book/Single/96/13731)
 
@@ -630,7 +630,7 @@ Prayer bpn13731 in తెలుగు (bpn13731)
 
 -- Bahá'u'lláh
 
-Prayer bpn10999 in తెలుగు (bpn10999) 
+Prayer bpn10999 (bpn10999) 
 
 [bahaiprayers.net 10999](https://bahaiprayers.net/Book/Single/96/10999)
 
@@ -643,7 +643,7 @@ Prayer bpn10999 in తెలుగు (bpn10999)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11000 in తెలుగు (bpn11000) 
+Prayer bpn11000 (bpn11000) 
 
 [bahaiprayers.net 11000](https://bahaiprayers.net/Book/Single/96/11000)
 
@@ -660,7 +660,7 @@ Prayer bpn11000 in తెలుగు (bpn11000)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10998 in తెలుగు (bpn10998) 
+Prayer bpn10998 (bpn10998) 
 
 [bahaiprayers.net 10998](https://bahaiprayers.net/Book/Single/96/10998)
 
@@ -677,7 +677,7 @@ Prayer bpn10998 in తెలుగు (bpn10998)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13733 in తెలుగు (bpn13733) 
+Prayer bpn13733 (bpn13733) 
 
 [bahaiprayers.net 13733](https://bahaiprayers.net/Book/Single/96/13733)
 
@@ -694,7 +694,7 @@ Prayer bpn13733 in తెలుగు (bpn13733)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13727 in తెలుగు (bpn13727) 
+Prayer bpn13727 (bpn13727) 
 
 [bahaiprayers.net 13727](https://bahaiprayers.net/Book/Single/96/13727)
 
@@ -711,7 +711,7 @@ Prayer bpn13727 in తెలుగు (bpn13727)
 
 -- Bahá'u'lláh
 
-Prayer bpn11015 in తెలుగు (bpn11015) 
+Prayer bpn11015 (bpn11015) 
 
 [bahaiprayers.net 11015](https://bahaiprayers.net/Book/Single/96/11015)
 
@@ -728,7 +728,7 @@ Prayer bpn11015 in తెలుగు (bpn11015)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10994 in తెలుగు (bpn10994) 
+Prayer bpn10994 (bpn10994) 
 
 [bahaiprayers.net 10994](https://bahaiprayers.net/Book/Single/96/10994)
 
@@ -741,7 +741,7 @@ Prayer bpn10994 in తెలుగు (bpn10994)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10995 in తెలుగు (bpn10995) 
+Prayer bpn10995 (bpn10995) 
 
 [bahaiprayers.net 10995](https://bahaiprayers.net/Book/Single/96/10995)
 
@@ -754,7 +754,7 @@ Prayer bpn10995 in తెలుగు (bpn10995)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10996 in తెలుగు (bpn10996) 
+Prayer bpn10996 (bpn10996) 
 
 [bahaiprayers.net 10996](https://bahaiprayers.net/Book/Single/96/10996)
 
@@ -767,7 +767,7 @@ Prayer bpn10996 in తెలుగు (bpn10996)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10997 in తెలుగు (bpn10997) 
+Prayer bpn10997 (bpn10997) 
 
 [bahaiprayers.net 10997](https://bahaiprayers.net/Book/Single/96/10997)
 
@@ -784,7 +784,7 @@ Prayer bpn10997 in తెలుగు (bpn10997)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13726 in తెలుగు (bpn13726) 
+Prayer bpn13726 (bpn13726) 
 
 [bahaiprayers.net 13726](https://bahaiprayers.net/Book/Single/96/13726)
 
@@ -797,7 +797,7 @@ Prayer bpn13726 in తెలుగు (bpn13726)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13732 in తెలుగు (bpn13732) 
+Prayer bpn13732 (bpn13732) 
 
 [bahaiprayers.net 13732](https://bahaiprayers.net/Book/Single/96/13732)
 
@@ -814,7 +814,7 @@ Prayer bpn13732 in తెలుగు (bpn13732)
 
 -- Bahá'u'lláh
 
-Prayer bpn11001 in తెలుగు (bpn11001) 
+Prayer bpn11001 (bpn11001) 
 
 [bahaiprayers.net 11001](https://bahaiprayers.net/Book/Single/96/11001)
 
@@ -827,7 +827,7 @@ Prayer bpn11001 in తెలుగు (bpn11001)
 
 -- Bahá'u'lláh
 
-Prayer bpn11002 in తెలుగు (bpn11002) 
+Prayer bpn11002 (bpn11002) 
 
 [bahaiprayers.net 11002](https://bahaiprayers.net/Book/Single/96/11002)
 
@@ -840,7 +840,7 @@ Prayer bpn11002 in తెలుగు (bpn11002)
 
 -- Bahá'u'lláh
 
-Prayer bpn11003 in తెలుగు (bpn11003) 
+Prayer bpn11003 (bpn11003) 
 
 [bahaiprayers.net 11003](https://bahaiprayers.net/Book/Single/96/11003)
 
@@ -853,7 +853,7 @@ Prayer bpn11003 in తెలుగు (bpn11003)
 
 -- Bahá'u'lláh
 
-Prayer bpn11004 in తెలుగు (bpn11004) 
+Prayer bpn11004 (bpn11004) 
 
 [bahaiprayers.net 11004](https://bahaiprayers.net/Book/Single/96/11004)
 
@@ -866,7 +866,7 @@ Prayer bpn11004 in తెలుగు (bpn11004)
 
 -- Bahá'u'lláh
 
-Prayer bpn11005 in తెలుగు (bpn11005) 
+Prayer bpn11005 (bpn11005) 
 
 [bahaiprayers.net 11005](https://bahaiprayers.net/Book/Single/96/11005)
 
@@ -879,7 +879,7 @@ Prayer bpn11005 in తెలుగు (bpn11005)
 
 -- Báb
 
-Prayer bpn11006 in తెలుగు (bpn11006) 
+Prayer bpn11006 (bpn11006) 
 
 [bahaiprayers.net 11006](https://bahaiprayers.net/Book/Single/96/11006)
 
@@ -892,7 +892,7 @@ Prayer bpn11006 in తెలుగు (bpn11006)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11007 in తెలుగు (bpn11007) 
+Prayer bpn11007 (bpn11007) 
 
 [bahaiprayers.net 11007](https://bahaiprayers.net/Book/Single/96/11007)
 
@@ -905,7 +905,7 @@ Prayer bpn11007 in తెలుగు (bpn11007)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11008 in తెలుగు (bpn11008) 
+Prayer bpn11008 (bpn11008) 
 
 [bahaiprayers.net 11008](https://bahaiprayers.net/Book/Single/96/11008)
 
@@ -918,7 +918,7 @@ Prayer bpn11008 in తెలుగు (bpn11008)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11009 in తెలుగు (bpn11009) 
+Prayer bpn11009 (bpn11009) 
 
 [bahaiprayers.net 11009](https://bahaiprayers.net/Book/Single/96/11009)
 
@@ -931,7 +931,7 @@ Prayer bpn11009 in తెలుగు (bpn11009)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11010 in తెలుగు (bpn11010) 
+Prayer bpn11010 (bpn11010) 
 
 [bahaiprayers.net 11010](https://bahaiprayers.net/Book/Single/96/11010)
 
@@ -944,7 +944,7 @@ Prayer bpn11010 in తెలుగు (bpn11010)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11011 in తెలుగు (bpn11011) 
+Prayer bpn11011 (bpn11011) 
 
 [bahaiprayers.net 11011](https://bahaiprayers.net/Book/Single/96/11011)
 
@@ -957,7 +957,7 @@ Prayer bpn11011 in తెలుగు (bpn11011)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11012 in తెలుగు (bpn11012) 
+Prayer bpn11012 (bpn11012) 
 
 [bahaiprayers.net 11012](https://bahaiprayers.net/Book/Single/96/11012)
 
@@ -970,7 +970,7 @@ Prayer bpn11012 in తెలుగు (bpn11012)
 
 -- Abdu'l-Bahá
 
-Prayer bpn11013 in తెలుగు (bpn11013) 
+Prayer bpn11013 (bpn11013) 
 
 [bahaiprayers.net 11013](https://bahaiprayers.net/Book/Single/96/11013)
 
@@ -987,7 +987,7 @@ Prayer bpn11013 in తెలుగు (bpn11013)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13729 in తెలుగు (bpn13729) 
+Prayer bpn13729 (bpn13729) 
 
 [bahaiprayers.net 13729](https://bahaiprayers.net/Book/Single/96/13729)
 
@@ -1004,7 +1004,7 @@ Prayer bpn13729 in తెలుగు (bpn13729)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10991 in తెలుగు (bpn10991) 
+Prayer bpn10991 (bpn10991) 
 
 [bahaiprayers.net 10991](https://bahaiprayers.net/Book/Single/96/10991)
 
@@ -1021,7 +1021,7 @@ Prayer bpn10991 in తెలుగు (bpn10991)
 
 -- Bahá'u'lláh
 
-Prayer bpn10989 in తెలుగు (bpn10989) 
+Prayer bpn10989 (bpn10989) 
 
 [bahaiprayers.net 10989](https://bahaiprayers.net/Book/Single/96/10989)
 

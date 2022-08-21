@@ -86,7 +86,7 @@ tags = ['lang=bg', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn3324 in български (bpn3324) 
+Prayer bpn3324 (bpn3324) 
 
 [bahaiprayers.net 3324](https://bahaiprayers.net/Book/Single/22/3324)
 
@@ -99,7 +99,7 @@ Prayer bpn3324 in български (bpn3324)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3325 in български (bpn3325) 
+Prayer bpn3325 (bpn3325) 
 
 [bahaiprayers.net 3325](https://bahaiprayers.net/Book/Single/22/3325)
 
@@ -112,7 +112,7 @@ Prayer bpn3325 in български (bpn3325)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3326 in български (bpn3326) 
+Prayer bpn3326 (bpn3326) 
 
 [bahaiprayers.net 3326](https://bahaiprayers.net/Book/Single/22/3326)
 
@@ -125,7 +125,7 @@ Prayer bpn3326 in български (bpn3326)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3327 in български (bpn3327) 
+Prayer bpn3327 (bpn3327) 
 
 [bahaiprayers.net 3327](https://bahaiprayers.net/Book/Single/22/3327)
 
@@ -142,7 +142,7 @@ Prayer bpn3327 in български (bpn3327)
 
 -- Bahá'u'lláh
 
-Prayer bpn3328 in български (bpn3328) 
+Prayer bpn3328 (bpn3328) 
 
 [bahaiprayers.net 3328](https://bahaiprayers.net/Book/Single/22/3328)
 
@@ -155,7 +155,7 @@ Prayer bpn3328 in български (bpn3328)
 
 -- Bahá'u'lláh
 
-Prayer bpn3329 in български (bpn3329) 
+Prayer bpn3329 (bpn3329) 
 
 [bahaiprayers.net 3329](https://bahaiprayers.net/Book/Single/22/3329)
 
@@ -168,7 +168,7 @@ Prayer bpn3329 in български (bpn3329)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3330 in български (bpn3330) 
+Prayer bpn3330 (bpn3330) 
 
 [bahaiprayers.net 3330](https://bahaiprayers.net/Book/Single/22/3330)
 
@@ -185,7 +185,7 @@ Prayer bpn3330 in български (bpn3330)
 
 -- Bahá'u'lláh
 
-Prayer bpn3331 in български (bpn3331) 
+Prayer bpn3331 (bpn3331) 
 
 [bahaiprayers.net 3331](https://bahaiprayers.net/Book/Single/22/3331)
 
@@ -198,7 +198,7 @@ Prayer bpn3331 in български (bpn3331)
 
 -- Bahá'u'lláh
 
-Prayer bpn3332 in български (bpn3332) 
+Prayer bpn3332 (bpn3332) 
 
 [bahaiprayers.net 3332](https://bahaiprayers.net/Book/Single/22/3332)
 
@@ -211,7 +211,7 @@ Prayer bpn3332 in български (bpn3332)
 
 -- Bahá'u'lláh
 
-Prayer bpn3333 in български (bpn3333) 
+Prayer bpn3333 (bpn3333) 
 
 [bahaiprayers.net 3333](https://bahaiprayers.net/Book/Single/22/3333)
 
@@ -224,7 +224,7 @@ Prayer bpn3333 in български (bpn3333)
 
 -- Bahá'u'lláh
 
-Prayer bpn3334 in български (bpn3334) 
+Prayer bpn3334 (bpn3334) 
 
 [bahaiprayers.net 3334](https://bahaiprayers.net/Book/Single/22/3334)
 
@@ -237,7 +237,7 @@ Prayer bpn3334 in български (bpn3334)
 
 -- Bahá'u'lláh
 
-Prayer bpn3335 in български (bpn3335) 
+Prayer bpn3335 (bpn3335) 
 
 [bahaiprayers.net 3335](https://bahaiprayers.net/Book/Single/22/3335)
 
@@ -250,7 +250,7 @@ Prayer bpn3335 in български (bpn3335)
 
 -- Báb
 
-Prayer bpn3336 in български (bpn3336) 
+Prayer bpn3336 (bpn3336) 
 
 [bahaiprayers.net 3336](https://bahaiprayers.net/Book/Single/22/3336)
 
@@ -267,7 +267,7 @@ Prayer bpn3336 in български (bpn3336)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3337 in български (bpn3337) 
+Prayer bpn3337 (bpn3337) 
 
 [bahaiprayers.net 3337](https://bahaiprayers.net/Book/Single/22/3337)
 
@@ -284,7 +284,7 @@ Prayer bpn3337 in български (bpn3337)
 
 -- Bahá'u'lláh
 
-Prayer bpn3338 in български (bpn3338) 
+Prayer bpn3338 (bpn3338) 
 
 [bahaiprayers.net 3338](https://bahaiprayers.net/Book/Single/22/3338)
 
@@ -297,7 +297,7 @@ Prayer bpn3338 in български (bpn3338)
 
 -- Bahá'u'lláh
 
-Prayer bpn3349 in български (bpn3349) 
+Prayer bpn3349 (bpn3349) 
 
 [bahaiprayers.net 3349](https://bahaiprayers.net/Book/Single/22/3349)
 
@@ -310,7 +310,7 @@ Prayer bpn3349 in български (bpn3349)
 
 -- Bahá'u'lláh
 
-Prayer bpn3350 in български (bpn3350) 
+Prayer bpn3350 (bpn3350) 
 
 [bahaiprayers.net 3350](https://bahaiprayers.net/Book/Single/22/3350)
 
@@ -323,7 +323,7 @@ Prayer bpn3350 in български (bpn3350)
 
 -- Bahá'u'lláh
 
-Prayer bpn3351 in български (bpn3351) 
+Prayer bpn3351 (bpn3351) 
 
 [bahaiprayers.net 3351](https://bahaiprayers.net/Book/Single/22/3351)
 
@@ -336,7 +336,7 @@ Prayer bpn3351 in български (bpn3351)
 
 -- Bahá'u'lláh
 
-Prayer bpn3352 in български (bpn3352) 
+Prayer bpn3352 (bpn3352) 
 
 [bahaiprayers.net 3352](https://bahaiprayers.net/Book/Single/22/3352)
 
@@ -349,7 +349,7 @@ Prayer bpn3352 in български (bpn3352)
 
 -- Bahá'u'lláh
 
-Prayer bpn3353 in български (bpn3353) 
+Prayer bpn3353 (bpn3353) 
 
 [bahaiprayers.net 3353](https://bahaiprayers.net/Book/Single/22/3353)
 
@@ -362,7 +362,7 @@ Prayer bpn3353 in български (bpn3353)
 
 -- Bahá'u'lláh
 
-Prayer bpn3354 in български (bpn3354) 
+Prayer bpn3354 (bpn3354) 
 
 [bahaiprayers.net 3354](https://bahaiprayers.net/Book/Single/22/3354)
 
@@ -375,7 +375,7 @@ Prayer bpn3354 in български (bpn3354)
 
 -- Báb
 
-Prayer bpn3355 in български (bpn3355) 
+Prayer bpn3355 (bpn3355) 
 
 [bahaiprayers.net 3355](https://bahaiprayers.net/Book/Single/22/3355)
 
@@ -388,7 +388,7 @@ Prayer bpn3355 in български (bpn3355)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3339 in български (bpn3339) 
+Prayer bpn3339 (bpn3339) 
 
 [bahaiprayers.net 3339](https://bahaiprayers.net/Book/Single/22/3339)
 
@@ -401,7 +401,7 @@ Prayer bpn3339 in български (bpn3339)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3340 in български (bpn3340) 
+Prayer bpn3340 (bpn3340) 
 
 [bahaiprayers.net 3340](https://bahaiprayers.net/Book/Single/22/3340)
 
@@ -414,7 +414,7 @@ Prayer bpn3340 in български (bpn3340)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3341 in български (bpn3341) 
+Prayer bpn3341 (bpn3341) 
 
 [bahaiprayers.net 3341](https://bahaiprayers.net/Book/Single/22/3341)
 
@@ -427,7 +427,7 @@ Prayer bpn3341 in български (bpn3341)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3342 in български (bpn3342) 
+Prayer bpn3342 (bpn3342) 
 
 [bahaiprayers.net 3342](https://bahaiprayers.net/Book/Single/22/3342)
 
@@ -440,7 +440,7 @@ Prayer bpn3342 in български (bpn3342)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3343 in български (bpn3343) 
+Prayer bpn3343 (bpn3343) 
 
 [bahaiprayers.net 3343](https://bahaiprayers.net/Book/Single/22/3343)
 
@@ -453,7 +453,7 @@ Prayer bpn3343 in български (bpn3343)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3344 in български (bpn3344) 
+Prayer bpn3344 (bpn3344) 
 
 [bahaiprayers.net 3344](https://bahaiprayers.net/Book/Single/22/3344)
 
@@ -466,7 +466,7 @@ Prayer bpn3344 in български (bpn3344)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3345 in български (bpn3345) 
+Prayer bpn3345 (bpn3345) 
 
 [bahaiprayers.net 3345](https://bahaiprayers.net/Book/Single/22/3345)
 
@@ -479,7 +479,7 @@ Prayer bpn3345 in български (bpn3345)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3346 in български (bpn3346) 
+Prayer bpn3346 (bpn3346) 
 
 [bahaiprayers.net 3346](https://bahaiprayers.net/Book/Single/22/3346)
 
@@ -492,7 +492,7 @@ Prayer bpn3346 in български (bpn3346)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3347 in български (bpn3347) 
+Prayer bpn3347 (bpn3347) 
 
 [bahaiprayers.net 3347](https://bahaiprayers.net/Book/Single/22/3347)
 
@@ -505,7 +505,7 @@ Prayer bpn3347 in български (bpn3347)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3348 in български (bpn3348) 
+Prayer bpn3348 (bpn3348) 
 
 [bahaiprayers.net 3348](https://bahaiprayers.net/Book/Single/22/3348)
 
@@ -518,7 +518,7 @@ Prayer bpn3348 in български (bpn3348)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3356 in български (bpn3356) 
+Prayer bpn3356 (bpn3356) 
 
 [bahaiprayers.net 3356](https://bahaiprayers.net/Book/Single/22/3356)
 
@@ -531,7 +531,7 @@ Prayer bpn3356 in български (bpn3356)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3357 in български (bpn3357) 
+Prayer bpn3357 (bpn3357) 
 
 [bahaiprayers.net 3357](https://bahaiprayers.net/Book/Single/22/3357)
 
@@ -544,7 +544,7 @@ Prayer bpn3357 in български (bpn3357)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3358 in български (bpn3358) 
+Prayer bpn3358 (bpn3358) 
 
 [bahaiprayers.net 3358](https://bahaiprayers.net/Book/Single/22/3358)
 
@@ -557,7 +557,7 @@ Prayer bpn3358 in български (bpn3358)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3359 in български (bpn3359) 
+Prayer bpn3359 (bpn3359) 
 
 [bahaiprayers.net 3359](https://bahaiprayers.net/Book/Single/22/3359)
 
@@ -570,7 +570,7 @@ Prayer bpn3359 in български (bpn3359)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3360 in български (bpn3360) 
+Prayer bpn3360 (bpn3360) 
 
 [bahaiprayers.net 3360](https://bahaiprayers.net/Book/Single/22/3360)
 
@@ -583,7 +583,7 @@ Prayer bpn3360 in български (bpn3360)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3361 in български (bpn3361) 
+Prayer bpn3361 (bpn3361) 
 
 [bahaiprayers.net 3361](https://bahaiprayers.net/Book/Single/22/3361)
 
@@ -596,7 +596,7 @@ Prayer bpn3361 in български (bpn3361)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3362 in български (bpn3362) 
+Prayer bpn3362 (bpn3362) 
 
 [bahaiprayers.net 3362](https://bahaiprayers.net/Book/Single/22/3362)
 
@@ -609,7 +609,7 @@ Prayer bpn3362 in български (bpn3362)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3363 in български (bpn3363) 
+Prayer bpn3363 (bpn3363) 
 
 [bahaiprayers.net 3363](https://bahaiprayers.net/Book/Single/22/3363)
 
@@ -626,7 +626,7 @@ Prayer bpn3363 in български (bpn3363)
 
 -- Bahá'u'lláh
 
-Prayer bpn3481 in български (bpn3481) 
+Prayer bpn3481 (bpn3481) 
 
 [bahaiprayers.net 3481](https://bahaiprayers.net/Book/Single/22/3481)
 
@@ -643,7 +643,7 @@ Prayer bpn3481 in български (bpn3481)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3364 in български (bpn3364) 
+Prayer bpn3364 (bpn3364) 
 
 [bahaiprayers.net 3364](https://bahaiprayers.net/Book/Single/22/3364)
 
@@ -656,7 +656,7 @@ Prayer bpn3364 in български (bpn3364)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3365 in български (bpn3365) 
+Prayer bpn3365 (bpn3365) 
 
 [bahaiprayers.net 3365](https://bahaiprayers.net/Book/Single/22/3365)
 
@@ -669,7 +669,7 @@ Prayer bpn3365 in български (bpn3365)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3366 in български (bpn3366) 
+Prayer bpn3366 (bpn3366) 
 
 [bahaiprayers.net 3366](https://bahaiprayers.net/Book/Single/22/3366)
 
@@ -686,7 +686,7 @@ Prayer bpn3366 in български (bpn3366)
 
 -- Bahá'u'lláh
 
-Prayer bpn3322 in български (bpn3322) 
+Prayer bpn3322 (bpn3322) 
 
 [bahaiprayers.net 3322](https://bahaiprayers.net/Book/Single/22/3322)
 
@@ -699,7 +699,7 @@ Prayer bpn3322 in български (bpn3322)
 
 -- Bahá'u'lláh
 
-Prayer bpn3323 in български (bpn3323) 
+Prayer bpn3323 (bpn3323) 
 
 [bahaiprayers.net 3323](https://bahaiprayers.net/Book/Single/22/3323)
 
@@ -716,7 +716,7 @@ Prayer bpn3323 in български (bpn3323)
 
 -- Bahá'u'lláh
 
-Prayer bpn3367 in български (bpn3367) 
+Prayer bpn3367 (bpn3367) 
 
 [bahaiprayers.net 3367](https://bahaiprayers.net/Book/Single/22/3367)
 
@@ -729,7 +729,7 @@ Prayer bpn3367 in български (bpn3367)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3368 in български (bpn3368) 
+Prayer bpn3368 (bpn3368) 
 
 [bahaiprayers.net 3368](https://bahaiprayers.net/Book/Single/22/3368)
 
@@ -746,7 +746,7 @@ Prayer bpn3368 in български (bpn3368)
 
 -- Bahá'u'lláh
 
-Prayer bpn3378 in български (bpn3378) 
+Prayer bpn3378 (bpn3378) 
 
 [bahaiprayers.net 3378](https://bahaiprayers.net/Book/Single/22/3378)
 
@@ -759,7 +759,7 @@ Prayer bpn3378 in български (bpn3378)
 
 -- Bahá'u'lláh
 
-Prayer bpn3379 in български (bpn3379) 
+Prayer bpn3379 (bpn3379) 
 
 [bahaiprayers.net 3379](https://bahaiprayers.net/Book/Single/22/3379)
 
@@ -772,7 +772,7 @@ Prayer bpn3379 in български (bpn3379)
 
 -- Bahá'u'lláh
 
-Prayer bpn3380 in български (bpn3380) 
+Prayer bpn3380 (bpn3380) 
 
 [bahaiprayers.net 3380](https://bahaiprayers.net/Book/Single/22/3380)
 
@@ -785,7 +785,7 @@ Prayer bpn3380 in български (bpn3380)
 
 -- Bahá'u'lláh
 
-Prayer bpn3384 in български (bpn3384) 
+Prayer bpn3384 (bpn3384) 
 
 [bahaiprayers.net 3384](https://bahaiprayers.net/Book/Single/22/3384)
 
@@ -798,7 +798,7 @@ Prayer bpn3384 in български (bpn3384)
 
 -- Bahá'u'lláh
 
-Prayer bpn3385 in български (bpn3385) 
+Prayer bpn3385 (bpn3385) 
 
 [bahaiprayers.net 3385](https://bahaiprayers.net/Book/Single/22/3385)
 
@@ -811,7 +811,7 @@ Prayer bpn3385 in български (bpn3385)
 
 -- Bahá'u'lláh
 
-Prayer bpn3386 in български (bpn3386) 
+Prayer bpn3386 (bpn3386) 
 
 [bahaiprayers.net 3386](https://bahaiprayers.net/Book/Single/22/3386)
 
@@ -828,7 +828,7 @@ Prayer bpn3386 in български (bpn3386)
 
 -- Bahá'u'lláh
 
-Prayer bpn3369 in български (bpn3369) 
+Prayer bpn3369 (bpn3369) 
 
 [bahaiprayers.net 3369](https://bahaiprayers.net/Book/Single/22/3369)
 
@@ -841,7 +841,7 @@ Prayer bpn3369 in български (bpn3369)
 
 -- Bahá'u'lláh
 
-Prayer bpn3370 in български (bpn3370) 
+Prayer bpn3370 (bpn3370) 
 
 [bahaiprayers.net 3370](https://bahaiprayers.net/Book/Single/22/3370)
 
@@ -854,7 +854,7 @@ Prayer bpn3370 in български (bpn3370)
 
 -- Bahá'u'lláh
 
-Prayer bpn3371 in български (bpn3371) 
+Prayer bpn3371 (bpn3371) 
 
 [bahaiprayers.net 3371](https://bahaiprayers.net/Book/Single/22/3371)
 
@@ -867,7 +867,7 @@ Prayer bpn3371 in български (bpn3371)
 
 -- Bahá'u'lláh
 
-Prayer bpn3372 in български (bpn3372) 
+Prayer bpn3372 (bpn3372) 
 
 [bahaiprayers.net 3372](https://bahaiprayers.net/Book/Single/22/3372)
 
@@ -880,7 +880,7 @@ Prayer bpn3372 in български (bpn3372)
 
 -- Báb
 
-Prayer bpn3373 in български (bpn3373) 
+Prayer bpn3373 (bpn3373) 
 
 [bahaiprayers.net 3373](https://bahaiprayers.net/Book/Single/22/3373)
 
@@ -893,7 +893,7 @@ Prayer bpn3373 in български (bpn3373)
 
 -- Báb
 
-Prayer bpn3374 in български (bpn3374) 
+Prayer bpn3374 (bpn3374) 
 
 [bahaiprayers.net 3374](https://bahaiprayers.net/Book/Single/22/3374)
 
@@ -906,7 +906,7 @@ Prayer bpn3374 in български (bpn3374)
 
 -- Báb
 
-Prayer bpn3375 in български (bpn3375) 
+Prayer bpn3375 (bpn3375) 
 
 [bahaiprayers.net 3375](https://bahaiprayers.net/Book/Single/22/3375)
 
@@ -919,7 +919,7 @@ Prayer bpn3375 in български (bpn3375)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3376 in български (bpn3376) 
+Prayer bpn3376 (bpn3376) 
 
 [bahaiprayers.net 3376](https://bahaiprayers.net/Book/Single/22/3376)
 
@@ -932,7 +932,7 @@ Prayer bpn3376 in български (bpn3376)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3377 in български (bpn3377) 
+Prayer bpn3377 (bpn3377) 
 
 [bahaiprayers.net 3377](https://bahaiprayers.net/Book/Single/22/3377)
 
@@ -949,7 +949,7 @@ Prayer bpn3377 in български (bpn3377)
 
 -- Báb
 
-Prayer bpn3387 in български (bpn3387) 
+Prayer bpn3387 (bpn3387) 
 
 [bahaiprayers.net 3387](https://bahaiprayers.net/Book/Single/22/3387)
 
@@ -962,7 +962,7 @@ Prayer bpn3387 in български (bpn3387)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3381 in български (bpn3381) 
+Prayer bpn3381 (bpn3381) 
 
 [bahaiprayers.net 3381](https://bahaiprayers.net/Book/Single/22/3381)
 
@@ -975,7 +975,7 @@ Prayer bpn3381 in български (bpn3381)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3382 in български (bpn3382) 
+Prayer bpn3382 (bpn3382) 
 
 [bahaiprayers.net 3382](https://bahaiprayers.net/Book/Single/22/3382)
 
@@ -988,7 +988,7 @@ Prayer bpn3382 in български (bpn3382)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3383 in български (bpn3383) 
+Prayer bpn3383 (bpn3383) 
 
 [bahaiprayers.net 3383](https://bahaiprayers.net/Book/Single/22/3383)
 
@@ -1005,7 +1005,7 @@ Prayer bpn3383 in български (bpn3383)
 
 -- Bahá'u'lláh
 
-Prayer bpn3388 in български (bpn3388) 
+Prayer bpn3388 (bpn3388) 
 
 [bahaiprayers.net 3388](https://bahaiprayers.net/Book/Single/22/3388)
 
@@ -1018,7 +1018,7 @@ Prayer bpn3388 in български (bpn3388)
 
 -- Bahá'u'lláh
 
-Prayer bpn3389 in български (bpn3389) 
+Prayer bpn3389 (bpn3389) 
 
 [bahaiprayers.net 3389](https://bahaiprayers.net/Book/Single/22/3389)
 
@@ -1031,7 +1031,7 @@ Prayer bpn3389 in български (bpn3389)
 
 -- Bahá'u'lláh
 
-Prayer bpn3390 in български (bpn3390) 
+Prayer bpn3390 (bpn3390) 
 
 [bahaiprayers.net 3390](https://bahaiprayers.net/Book/Single/22/3390)
 
@@ -1044,7 +1044,7 @@ Prayer bpn3390 in български (bpn3390)
 
 -- Bahá'u'lláh
 
-Prayer bpn3391 in български (bpn3391) 
+Prayer bpn3391 (bpn3391) 
 
 [bahaiprayers.net 3391](https://bahaiprayers.net/Book/Single/22/3391)
 
@@ -1057,7 +1057,7 @@ Prayer bpn3391 in български (bpn3391)
 
 -- Bahá'u'lláh
 
-Prayer bpn3392 in български (bpn3392) 
+Prayer bpn3392 (bpn3392) 
 
 [bahaiprayers.net 3392](https://bahaiprayers.net/Book/Single/22/3392)
 
@@ -1070,7 +1070,7 @@ Prayer bpn3392 in български (bpn3392)
 
 -- Bahá'u'lláh
 
-Prayer bpn3393 in български (bpn3393) 
+Prayer bpn3393 (bpn3393) 
 
 [bahaiprayers.net 3393](https://bahaiprayers.net/Book/Single/22/3393)
 
@@ -1087,7 +1087,7 @@ Prayer bpn3393 in български (bpn3393)
 
 -- Bahá'u'lláh
 
-Prayer bpn3321 in български (bpn3321) 
+Prayer bpn3321 (bpn3321) 
 
 [bahaiprayers.net 3321](https://bahaiprayers.net/Book/Single/22/3321)
 
@@ -1104,7 +1104,7 @@ Prayer bpn3321 in български (bpn3321)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3436 in български (bpn3436) 
+Prayer bpn3436 (bpn3436) 
 
 [bahaiprayers.net 3436](https://bahaiprayers.net/Book/Single/22/3436)
 
@@ -1117,7 +1117,7 @@ Prayer bpn3436 in български (bpn3436)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3437 in български (bpn3437) 
+Prayer bpn3437 (bpn3437) 
 
 [bahaiprayers.net 3437](https://bahaiprayers.net/Book/Single/22/3437)
 
@@ -1130,7 +1130,7 @@ Prayer bpn3437 in български (bpn3437)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3438 in български (bpn3438) 
+Prayer bpn3438 (bpn3438) 
 
 [bahaiprayers.net 3438](https://bahaiprayers.net/Book/Single/22/3438)
 
@@ -1143,7 +1143,7 @@ Prayer bpn3438 in български (bpn3438)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3439 in български (bpn3439) 
+Prayer bpn3439 (bpn3439) 
 
 [bahaiprayers.net 3439](https://bahaiprayers.net/Book/Single/22/3439)
 
@@ -1156,7 +1156,7 @@ Prayer bpn3439 in български (bpn3439)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3440 in български (bpn3440) 
+Prayer bpn3440 (bpn3440) 
 
 [bahaiprayers.net 3440](https://bahaiprayers.net/Book/Single/22/3440)
 
@@ -1169,7 +1169,7 @@ Prayer bpn3440 in български (bpn3440)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3441 in български (bpn3441) 
+Prayer bpn3441 (bpn3441) 
 
 [bahaiprayers.net 3441](https://bahaiprayers.net/Book/Single/22/3441)
 
@@ -1182,7 +1182,7 @@ Prayer bpn3441 in български (bpn3441)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3442 in български (bpn3442) 
+Prayer bpn3442 (bpn3442) 
 
 [bahaiprayers.net 3442](https://bahaiprayers.net/Book/Single/22/3442)
 
@@ -1195,7 +1195,7 @@ Prayer bpn3442 in български (bpn3442)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3443 in български (bpn3443) 
+Prayer bpn3443 (bpn3443) 
 
 [bahaiprayers.net 3443](https://bahaiprayers.net/Book/Single/22/3443)
 
@@ -1212,7 +1212,7 @@ Prayer bpn3443 in български (bpn3443)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3486 in български (bpn3486) 
+Prayer bpn3486 (bpn3486) 
 
 [bahaiprayers.net 3486](https://bahaiprayers.net/Book/Single/22/3486)
 
@@ -1229,7 +1229,7 @@ Prayer bpn3486 in български (bpn3486)
 
 -- Bahá'u'lláh
 
-Prayer bpn3394 in български (bpn3394) 
+Prayer bpn3394 (bpn3394) 
 
 [bahaiprayers.net 3394](https://bahaiprayers.net/Book/Single/22/3394)
 
@@ -1242,7 +1242,7 @@ Prayer bpn3394 in български (bpn3394)
 
 -- Bahá'u'lláh
 
-Prayer bpn3395 in български (bpn3395) 
+Prayer bpn3395 (bpn3395) 
 
 [bahaiprayers.net 3395](https://bahaiprayers.net/Book/Single/22/3395)
 
@@ -1255,7 +1255,7 @@ Prayer bpn3395 in български (bpn3395)
 
 -- Bahá'u'lláh
 
-Prayer bpn3396 in български (bpn3396) 
+Prayer bpn3396 (bpn3396) 
 
 [bahaiprayers.net 3396](https://bahaiprayers.net/Book/Single/22/3396)
 
@@ -1268,7 +1268,7 @@ Prayer bpn3396 in български (bpn3396)
 
 -- Bahá'u'lláh
 
-Prayer bpn3397 in български (bpn3397) 
+Prayer bpn3397 (bpn3397) 
 
 [bahaiprayers.net 3397](https://bahaiprayers.net/Book/Single/22/3397)
 
@@ -1281,7 +1281,7 @@ Prayer bpn3397 in български (bpn3397)
 
 -- Bahá'u'lláh
 
-Prayer bpn3398 in български (bpn3398) 
+Prayer bpn3398 (bpn3398) 
 
 [bahaiprayers.net 3398](https://bahaiprayers.net/Book/Single/22/3398)
 
@@ -1294,7 +1294,7 @@ Prayer bpn3398 in български (bpn3398)
 
 -- Báb
 
-Prayer bpn3399 in български (bpn3399) 
+Prayer bpn3399 (bpn3399) 
 
 [bahaiprayers.net 3399](https://bahaiprayers.net/Book/Single/22/3399)
 
@@ -1307,7 +1307,7 @@ Prayer bpn3399 in български (bpn3399)
 
 -- Báb
 
-Prayer bpn3400 in български (bpn3400) 
+Prayer bpn3400 (bpn3400) 
 
 [bahaiprayers.net 3400](https://bahaiprayers.net/Book/Single/22/3400)
 
@@ -1320,7 +1320,7 @@ Prayer bpn3400 in български (bpn3400)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3401 in български (bpn3401) 
+Prayer bpn3401 (bpn3401) 
 
 [bahaiprayers.net 3401](https://bahaiprayers.net/Book/Single/22/3401)
 
@@ -1333,7 +1333,7 @@ Prayer bpn3401 in български (bpn3401)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3402 in български (bpn3402) 
+Prayer bpn3402 (bpn3402) 
 
 [bahaiprayers.net 3402](https://bahaiprayers.net/Book/Single/22/3402)
 
@@ -1350,7 +1350,7 @@ Prayer bpn3402 in български (bpn3402)
 
 -- Bahá'u'lláh
 
-Prayer bpn3422 in български (bpn3422) 
+Prayer bpn3422 (bpn3422) 
 
 [bahaiprayers.net 3422](https://bahaiprayers.net/Book/Single/22/3422)
 
@@ -1363,7 +1363,7 @@ Prayer bpn3422 in български (bpn3422)
 
 -- Bahá'u'lláh
 
-Prayer bpn3423 in български (bpn3423) 
+Prayer bpn3423 (bpn3423) 
 
 [bahaiprayers.net 3423](https://bahaiprayers.net/Book/Single/22/3423)
 
@@ -1376,7 +1376,7 @@ Prayer bpn3423 in български (bpn3423)
 
 -- Bahá'u'lláh
 
-Prayer bpn3424 in български (bpn3424) 
+Prayer bpn3424 (bpn3424) 
 
 [bahaiprayers.net 3424](https://bahaiprayers.net/Book/Single/22/3424)
 
@@ -1389,7 +1389,7 @@ Prayer bpn3424 in български (bpn3424)
 
 -- Bahá'u'lláh
 
-Prayer bpn3425 in български (bpn3425) 
+Prayer bpn3425 (bpn3425) 
 
 [bahaiprayers.net 3425](https://bahaiprayers.net/Book/Single/22/3425)
 
@@ -1402,7 +1402,7 @@ Prayer bpn3425 in български (bpn3425)
 
 -- Báb
 
-Prayer bpn3426 in български (bpn3426) 
+Prayer bpn3426 (bpn3426) 
 
 [bahaiprayers.net 3426](https://bahaiprayers.net/Book/Single/22/3426)
 
@@ -1415,7 +1415,7 @@ Prayer bpn3426 in български (bpn3426)
 
 -- Báb
 
-Prayer bpn3427 in български (bpn3427) 
+Prayer bpn3427 (bpn3427) 
 
 [bahaiprayers.net 3427](https://bahaiprayers.net/Book/Single/22/3427)
 
@@ -1428,7 +1428,7 @@ Prayer bpn3427 in български (bpn3427)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3428 in български (bpn3428) 
+Prayer bpn3428 (bpn3428) 
 
 [bahaiprayers.net 3428](https://bahaiprayers.net/Book/Single/22/3428)
 
@@ -1441,7 +1441,7 @@ Prayer bpn3428 in български (bpn3428)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3429 in български (bpn3429) 
+Prayer bpn3429 (bpn3429) 
 
 [bahaiprayers.net 3429](https://bahaiprayers.net/Book/Single/22/3429)
 
@@ -1458,7 +1458,7 @@ Prayer bpn3429 in български (bpn3429)
 
 -- Bahá'u'lláh
 
-Prayer bpn3403 in български (bpn3403) 
+Prayer bpn3403 (bpn3403) 
 
 [bahaiprayers.net 3403](https://bahaiprayers.net/Book/Single/22/3403)
 
@@ -1471,7 +1471,7 @@ Prayer bpn3403 in български (bpn3403)
 
 -- Bahá'u'lláh
 
-Prayer bpn3404 in български (bpn3404) 
+Prayer bpn3404 (bpn3404) 
 
 [bahaiprayers.net 3404](https://bahaiprayers.net/Book/Single/22/3404)
 
@@ -1484,7 +1484,7 @@ Prayer bpn3404 in български (bpn3404)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3405 in български (bpn3405) 
+Prayer bpn3405 (bpn3405) 
 
 [bahaiprayers.net 3405](https://bahaiprayers.net/Book/Single/22/3405)
 
@@ -1497,7 +1497,7 @@ Prayer bpn3405 in български (bpn3405)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3406 in български (bpn3406) 
+Prayer bpn3406 (bpn3406) 
 
 [bahaiprayers.net 3406](https://bahaiprayers.net/Book/Single/22/3406)
 
@@ -1510,7 +1510,7 @@ Prayer bpn3406 in български (bpn3406)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3407 in български (bpn3407) 
+Prayer bpn3407 (bpn3407) 
 
 [bahaiprayers.net 3407](https://bahaiprayers.net/Book/Single/22/3407)
 
@@ -1527,7 +1527,7 @@ Prayer bpn3407 in български (bpn3407)
 
 -- Bahá'u'lláh
 
-Prayer bpn3485 in български (bpn3485) 
+Prayer bpn3485 (bpn3485) 
 
 [bahaiprayers.net 3485](https://bahaiprayers.net/Book/Single/22/3485)
 
@@ -1544,7 +1544,7 @@ Prayer bpn3485 in български (bpn3485)
 
 -- Bahá'u'lláh
 
-Prayer bpn3477 in български (bpn3477) 
+Prayer bpn3477 (bpn3477) 
 
 [bahaiprayers.net 3477](https://bahaiprayers.net/Book/Single/22/3477)
 
@@ -1561,7 +1561,7 @@ Prayer bpn3477 in български (bpn3477)
 
 -- Bahá'u'lláh
 
-Prayer bpn3408 in български (bpn3408) 
+Prayer bpn3408 (bpn3408) 
 
 [bahaiprayers.net 3408](https://bahaiprayers.net/Book/Single/22/3408)
 
@@ -1574,7 +1574,7 @@ Prayer bpn3408 in български (bpn3408)
 
 -- Bahá'u'lláh
 
-Prayer bpn3409 in български (bpn3409) 
+Prayer bpn3409 (bpn3409) 
 
 [bahaiprayers.net 3409](https://bahaiprayers.net/Book/Single/22/3409)
 
@@ -1587,7 +1587,7 @@ Prayer bpn3409 in български (bpn3409)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3410 in български (bpn3410) 
+Prayer bpn3410 (bpn3410) 
 
 [bahaiprayers.net 3410](https://bahaiprayers.net/Book/Single/22/3410)
 
@@ -1600,7 +1600,7 @@ Prayer bpn3410 in български (bpn3410)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3411 in български (bpn3411) 
+Prayer bpn3411 (bpn3411) 
 
 [bahaiprayers.net 3411](https://bahaiprayers.net/Book/Single/22/3411)
 
@@ -1613,7 +1613,7 @@ Prayer bpn3411 in български (bpn3411)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3412 in български (bpn3412) 
+Prayer bpn3412 (bpn3412) 
 
 [bahaiprayers.net 3412](https://bahaiprayers.net/Book/Single/22/3412)
 
@@ -1630,7 +1630,7 @@ Prayer bpn3412 in български (bpn3412)
 
 -- Bahá'u'lláh
 
-Prayer bpn3413 in български (bpn3413) 
+Prayer bpn3413 (bpn3413) 
 
 [bahaiprayers.net 3413](https://bahaiprayers.net/Book/Single/22/3413)
 
@@ -1643,7 +1643,7 @@ Prayer bpn3413 in български (bpn3413)
 
 -- Bahá'u'lláh
 
-Prayer bpn3414 in български (bpn3414) 
+Prayer bpn3414 (bpn3414) 
 
 [bahaiprayers.net 3414](https://bahaiprayers.net/Book/Single/22/3414)
 
@@ -1656,7 +1656,7 @@ Prayer bpn3414 in български (bpn3414)
 
 -- Báb
 
-Prayer bpn3415 in български (bpn3415) 
+Prayer bpn3415 (bpn3415) 
 
 [bahaiprayers.net 3415](https://bahaiprayers.net/Book/Single/22/3415)
 
@@ -1669,7 +1669,7 @@ Prayer bpn3415 in български (bpn3415)
 
 -- Báb
 
-Prayer bpn3416 in български (bpn3416) 
+Prayer bpn3416 (bpn3416) 
 
 [bahaiprayers.net 3416](https://bahaiprayers.net/Book/Single/22/3416)
 
@@ -1682,7 +1682,7 @@ Prayer bpn3416 in български (bpn3416)
 
 -- Báb
 
-Prayer bpn3417 in български (bpn3417) 
+Prayer bpn3417 (bpn3417) 
 
 [bahaiprayers.net 3417](https://bahaiprayers.net/Book/Single/22/3417)
 
@@ -1695,7 +1695,7 @@ Prayer bpn3417 in български (bpn3417)
 
 -- Báb
 
-Prayer bpn3418 in български (bpn3418) 
+Prayer bpn3418 (bpn3418) 
 
 [bahaiprayers.net 3418](https://bahaiprayers.net/Book/Single/22/3418)
 
@@ -1708,7 +1708,7 @@ Prayer bpn3418 in български (bpn3418)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3419 in български (bpn3419) 
+Prayer bpn3419 (bpn3419) 
 
 [bahaiprayers.net 3419](https://bahaiprayers.net/Book/Single/22/3419)
 
@@ -1721,7 +1721,7 @@ Prayer bpn3419 in български (bpn3419)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3420 in български (bpn3420) 
+Prayer bpn3420 (bpn3420) 
 
 [bahaiprayers.net 3420](https://bahaiprayers.net/Book/Single/22/3420)
 
@@ -1734,7 +1734,7 @@ Prayer bpn3420 in български (bpn3420)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3421 in български (bpn3421) 
+Prayer bpn3421 (bpn3421) 
 
 [bahaiprayers.net 3421](https://bahaiprayers.net/Book/Single/22/3421)
 
@@ -1751,7 +1751,7 @@ Prayer bpn3421 in български (bpn3421)
 
 -- Bahá'u'lláh
 
-Prayer bpn3476 in български (bpn3476) 
+Prayer bpn3476 (bpn3476) 
 
 [bahaiprayers.net 3476](https://bahaiprayers.net/Book/Single/22/3476)
 
@@ -1768,7 +1768,7 @@ Prayer bpn3476 in български (bpn3476)
 
 -- Bahá'u'lláh
 
-Prayer bpn3478 in български (bpn3478) 
+Prayer bpn3478 (bpn3478) 
 
 [bahaiprayers.net 3478](https://bahaiprayers.net/Book/Single/22/3478)
 
@@ -1785,7 +1785,7 @@ Prayer bpn3478 in български (bpn3478)
 
 -- Bahá'u'lláh
 
-Prayer bpn3479 in български (bpn3479) 
+Prayer bpn3479 (bpn3479) 
 
 [bahaiprayers.net 3479](https://bahaiprayers.net/Book/Single/22/3479)
 
@@ -1798,7 +1798,7 @@ Prayer bpn3479 in български (bpn3479)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3480 in български (bpn3480) 
+Prayer bpn3480 (bpn3480) 
 
 [bahaiprayers.net 3480](https://bahaiprayers.net/Book/Single/22/3480)
 
@@ -1815,7 +1815,7 @@ Prayer bpn3480 in български (bpn3480)
 
 -- Bahá'u'lláh
 
-Prayer bpn3482 in български (bpn3482) 
+Prayer bpn3482 (bpn3482) 
 
 [bahaiprayers.net 3482](https://bahaiprayers.net/Book/Single/22/3482)
 
@@ -1828,7 +1828,7 @@ Prayer bpn3482 in български (bpn3482)
 
 -- Bahá'u'lláh
 
-Prayer bpn3483 in български (bpn3483) 
+Prayer bpn3483 (bpn3483) 
 
 [bahaiprayers.net 3483](https://bahaiprayers.net/Book/Single/22/3483)
 
@@ -1841,7 +1841,7 @@ Prayer bpn3483 in български (bpn3483)
 
 -- Bahá'u'lláh
 
-Prayer bpn3484 in български (bpn3484) 
+Prayer bpn3484 (bpn3484) 
 
 [bahaiprayers.net 3484](https://bahaiprayers.net/Book/Single/22/3484)
 
@@ -1858,7 +1858,7 @@ Prayer bpn3484 in български (bpn3484)
 
 -- Bahá'u'lláh
 
-Prayer bpn3430 in български (bpn3430) 
+Prayer bpn3430 (bpn3430) 
 
 [bahaiprayers.net 3430](https://bahaiprayers.net/Book/Single/22/3430)
 
@@ -1871,7 +1871,7 @@ Prayer bpn3430 in български (bpn3430)
 
 -- Bahá'u'lláh
 
-Prayer bpn3431 in български (bpn3431) 
+Prayer bpn3431 (bpn3431) 
 
 [bahaiprayers.net 3431](https://bahaiprayers.net/Book/Single/22/3431)
 
@@ -1884,7 +1884,7 @@ Prayer bpn3431 in български (bpn3431)
 
 -- Bahá'u'lláh
 
-Prayer bpn3432 in български (bpn3432) 
+Prayer bpn3432 (bpn3432) 
 
 [bahaiprayers.net 3432](https://bahaiprayers.net/Book/Single/22/3432)
 
@@ -1897,7 +1897,7 @@ Prayer bpn3432 in български (bpn3432)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3433 in български (bpn3433) 
+Prayer bpn3433 (bpn3433) 
 
 [bahaiprayers.net 3433](https://bahaiprayers.net/Book/Single/22/3433)
 
@@ -1910,7 +1910,7 @@ Prayer bpn3433 in български (bpn3433)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3434 in български (bpn3434) 
+Prayer bpn3434 (bpn3434) 
 
 [bahaiprayers.net 3434](https://bahaiprayers.net/Book/Single/22/3434)
 
@@ -1923,7 +1923,7 @@ Prayer bpn3434 in български (bpn3434)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3435 in български (bpn3435) 
+Prayer bpn3435 (bpn3435) 
 
 [bahaiprayers.net 3435](https://bahaiprayers.net/Book/Single/22/3435)
 
@@ -1940,7 +1940,7 @@ Prayer bpn3435 in български (bpn3435)
 
 -- Bahá'u'lláh
 
-Prayer bpn3444 in български (bpn3444) 
+Prayer bpn3444 (bpn3444) 
 
 [bahaiprayers.net 3444](https://bahaiprayers.net/Book/Single/22/3444)
 
@@ -1953,7 +1953,7 @@ Prayer bpn3444 in български (bpn3444)
 
 -- Bahá'u'lláh
 
-Prayer bpn3445 in български (bpn3445) 
+Prayer bpn3445 (bpn3445) 
 
 [bahaiprayers.net 3445](https://bahaiprayers.net/Book/Single/22/3445)
 
@@ -1966,7 +1966,7 @@ Prayer bpn3445 in български (bpn3445)
 
 -- Báb
 
-Prayer bpn3446 in български (bpn3446) 
+Prayer bpn3446 (bpn3446) 
 
 [bahaiprayers.net 3446](https://bahaiprayers.net/Book/Single/22/3446)
 
@@ -1979,7 +1979,7 @@ Prayer bpn3446 in български (bpn3446)
 
 -- Báb
 
-Prayer bpn3447 in български (bpn3447) 
+Prayer bpn3447 (bpn3447) 
 
 [bahaiprayers.net 3447](https://bahaiprayers.net/Book/Single/22/3447)
 
@@ -1992,7 +1992,7 @@ Prayer bpn3447 in български (bpn3447)
 
 -- Báb
 
-Prayer bpn3448 in български (bpn3448) 
+Prayer bpn3448 (bpn3448) 
 
 [bahaiprayers.net 3448](https://bahaiprayers.net/Book/Single/22/3448)
 
@@ -2005,7 +2005,7 @@ Prayer bpn3448 in български (bpn3448)
 
 -- Báb
 
-Prayer bpn3449 in български (bpn3449) 
+Prayer bpn3449 (bpn3449) 
 
 [bahaiprayers.net 3449](https://bahaiprayers.net/Book/Single/22/3449)
 
@@ -2018,7 +2018,7 @@ Prayer bpn3449 in български (bpn3449)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3450 in български (bpn3450) 
+Prayer bpn3450 (bpn3450) 
 
 [bahaiprayers.net 3450](https://bahaiprayers.net/Book/Single/22/3450)
 
@@ -2035,7 +2035,7 @@ Prayer bpn3450 in български (bpn3450)
 
 -- Báb
 
-Prayer bpn3451 in български (bpn3451) 
+Prayer bpn3451 (bpn3451) 
 
 [bahaiprayers.net 3451](https://bahaiprayers.net/Book/Single/22/3451)
 
@@ -2048,7 +2048,7 @@ Prayer bpn3451 in български (bpn3451)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3452 in български (bpn3452) 
+Prayer bpn3452 (bpn3452) 
 
 [bahaiprayers.net 3452](https://bahaiprayers.net/Book/Single/22/3452)
 
@@ -2061,7 +2061,7 @@ Prayer bpn3452 in български (bpn3452)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3453 in български (bpn3453) 
+Prayer bpn3453 (bpn3453) 
 
 [bahaiprayers.net 3453](https://bahaiprayers.net/Book/Single/22/3453)
 
@@ -2074,7 +2074,7 @@ Prayer bpn3453 in български (bpn3453)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3454 in български (bpn3454) 
+Prayer bpn3454 (bpn3454) 
 
 [bahaiprayers.net 3454](https://bahaiprayers.net/Book/Single/22/3454)
 
@@ -2091,7 +2091,7 @@ Prayer bpn3454 in български (bpn3454)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3455 in български (bpn3455) 
+Prayer bpn3455 (bpn3455) 
 
 [bahaiprayers.net 3455](https://bahaiprayers.net/Book/Single/22/3455)
 
@@ -2104,7 +2104,7 @@ Prayer bpn3455 in български (bpn3455)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3456 in български (bpn3456) 
+Prayer bpn3456 (bpn3456) 
 
 [bahaiprayers.net 3456](https://bahaiprayers.net/Book/Single/22/3456)
 
@@ -2117,7 +2117,7 @@ Prayer bpn3456 in български (bpn3456)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3457 in български (bpn3457) 
+Prayer bpn3457 (bpn3457) 
 
 [bahaiprayers.net 3457](https://bahaiprayers.net/Book/Single/22/3457)
 
@@ -2130,7 +2130,7 @@ Prayer bpn3457 in български (bpn3457)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3458 in български (bpn3458) 
+Prayer bpn3458 (bpn3458) 
 
 [bahaiprayers.net 3458](https://bahaiprayers.net/Book/Single/22/3458)
 
@@ -2143,7 +2143,7 @@ Prayer bpn3458 in български (bpn3458)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3459 in български (bpn3459) 
+Prayer bpn3459 (bpn3459) 
 
 [bahaiprayers.net 3459](https://bahaiprayers.net/Book/Single/22/3459)
 
@@ -2160,7 +2160,7 @@ Prayer bpn3459 in български (bpn3459)
 
 -- Bahá'u'lláh
 
-Prayer bpn3460 in български (bpn3460) 
+Prayer bpn3460 (bpn3460) 
 
 [bahaiprayers.net 3460](https://bahaiprayers.net/Book/Single/22/3460)
 
@@ -2173,7 +2173,7 @@ Prayer bpn3460 in български (bpn3460)
 
 -- Báb
 
-Prayer bpn3461 in български (bpn3461) 
+Prayer bpn3461 (bpn3461) 
 
 [bahaiprayers.net 3461](https://bahaiprayers.net/Book/Single/22/3461)
 
@@ -2186,7 +2186,7 @@ Prayer bpn3461 in български (bpn3461)
 
 -- Báb
 
-Prayer bpn3462 in български (bpn3462) 
+Prayer bpn3462 (bpn3462) 
 
 [bahaiprayers.net 3462](https://bahaiprayers.net/Book/Single/22/3462)
 
@@ -2199,7 +2199,7 @@ Prayer bpn3462 in български (bpn3462)
 
 -- Báb
 
-Prayer bpn3463 in български (bpn3463) 
+Prayer bpn3463 (bpn3463) 
 
 [bahaiprayers.net 3463](https://bahaiprayers.net/Book/Single/22/3463)
 
@@ -2212,7 +2212,7 @@ Prayer bpn3463 in български (bpn3463)
 
 -- Báb
 
-Prayer bpn3464 in български (bpn3464) 
+Prayer bpn3464 (bpn3464) 
 
 [bahaiprayers.net 3464](https://bahaiprayers.net/Book/Single/22/3464)
 
@@ -2225,7 +2225,7 @@ Prayer bpn3464 in български (bpn3464)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3465 in български (bpn3465) 
+Prayer bpn3465 (bpn3465) 
 
 [bahaiprayers.net 3465](https://bahaiprayers.net/Book/Single/22/3465)
 
@@ -2238,7 +2238,7 @@ Prayer bpn3465 in български (bpn3465)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3466 in български (bpn3466) 
+Prayer bpn3466 (bpn3466) 
 
 [bahaiprayers.net 3466](https://bahaiprayers.net/Book/Single/22/3466)
 
@@ -2255,7 +2255,7 @@ Prayer bpn3466 in български (bpn3466)
 
 -- Bahá'u'lláh
 
-Prayer bpn3467 in български (bpn3467) 
+Prayer bpn3467 (bpn3467) 
 
 [bahaiprayers.net 3467](https://bahaiprayers.net/Book/Single/22/3467)
 
@@ -2268,7 +2268,7 @@ Prayer bpn3467 in български (bpn3467)
 
 -- Bahá'u'lláh
 
-Prayer bpn3468 in български (bpn3468) 
+Prayer bpn3468 (bpn3468) 
 
 [bahaiprayers.net 3468](https://bahaiprayers.net/Book/Single/22/3468)
 
@@ -2281,7 +2281,7 @@ Prayer bpn3468 in български (bpn3468)
 
 -- Bahá'u'lláh
 
-Prayer bpn3469 in български (bpn3469) 
+Prayer bpn3469 (bpn3469) 
 
 [bahaiprayers.net 3469](https://bahaiprayers.net/Book/Single/22/3469)
 
@@ -2294,7 +2294,7 @@ Prayer bpn3469 in български (bpn3469)
 
 -- Bahá'u'lláh
 
-Prayer bpn3470 in български (bpn3470) 
+Prayer bpn3470 (bpn3470) 
 
 [bahaiprayers.net 3470](https://bahaiprayers.net/Book/Single/22/3470)
 
@@ -2311,7 +2311,7 @@ Prayer bpn3470 in български (bpn3470)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3487 in български (bpn3487) 
+Prayer bpn3487 (bpn3487) 
 
 [bahaiprayers.net 3487](https://bahaiprayers.net/Book/Single/22/3487)
 
@@ -2328,7 +2328,7 @@ Prayer bpn3487 in български (bpn3487)
 
 -- Bahá'u'lláh
 
-Prayer bpn3471 in български (bpn3471) 
+Prayer bpn3471 (bpn3471) 
 
 [bahaiprayers.net 3471](https://bahaiprayers.net/Book/Single/22/3471)
 
@@ -2341,7 +2341,7 @@ Prayer bpn3471 in български (bpn3471)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3472 in български (bpn3472) 
+Prayer bpn3472 (bpn3472) 
 
 [bahaiprayers.net 3472](https://bahaiprayers.net/Book/Single/22/3472)
 
@@ -2354,7 +2354,7 @@ Prayer bpn3472 in български (bpn3472)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3473 in български (bpn3473) 
+Prayer bpn3473 (bpn3473) 
 
 [bahaiprayers.net 3473](https://bahaiprayers.net/Book/Single/22/3473)
 
@@ -2367,7 +2367,7 @@ Prayer bpn3473 in български (bpn3473)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3474 in български (bpn3474) 
+Prayer bpn3474 (bpn3474) 
 
 [bahaiprayers.net 3474](https://bahaiprayers.net/Book/Single/22/3474)
 
@@ -2380,7 +2380,7 @@ Prayer bpn3474 in български (bpn3474)
 
 -- Abdu'l-Bahá
 
-Prayer bpn3475 in български (bpn3475) 
+Prayer bpn3475 (bpn3475) 
 
 [bahaiprayers.net 3475](https://bahaiprayers.net/Book/Single/22/3475)
 

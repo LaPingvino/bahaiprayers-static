@@ -66,7 +66,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 -- {{.Author}}
 
-{{.Title}} ({{.PrayerCode}}) {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
+{{.Name}} ({{.PrayerCode}}) {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
 
 {{if .Id}}[bahaiprayers.net {{.Id}}](https://bahaiprayers.net/Book/Single/{{.LanguageId}}/{{.Id}}){{end}}
 
@@ -99,6 +99,7 @@ func (a Author) String() string {
 type Prayer struct {
 	Id            int
 	Title         string
+	Name	      string
 	ENCategory    string
 	LanguageCode  string
 	LanguageName  string
@@ -547,6 +548,7 @@ func main() {
 		ProgressBar(i, len(languages()), lang)
 		for i, prayer := range prayers.Prayers {
 			prayer.Title = PrayerName(PrayerCode(prayer.Id, true)) + " in " + name
+			prayer.Name = PrayerName(PrayerCode(prayer.Id, true))
 			prayer.LanguageId = v
 			prayer.LanguageCode = lang
 			prayer.LanguageName = name

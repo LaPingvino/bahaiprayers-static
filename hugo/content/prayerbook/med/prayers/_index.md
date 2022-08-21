@@ -48,7 +48,7 @@ tags = ['lang=med', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13032 in Melpa (bpn13032) 
+Prayer bpn13032 (bpn13032) 
 
 [bahaiprayers.net 13032](https://bahaiprayers.net/Book/Single/114/13032)
 
@@ -65,7 +65,7 @@ Prayer bpn13032 in Melpa (bpn13032)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13025 in Melpa (bpn13025) 
+Prayer bpn13025 (bpn13025) 
 
 [bahaiprayers.net 13025](https://bahaiprayers.net/Book/Single/114/13025)
 
@@ -82,7 +82,7 @@ Prayer bpn13025 in Melpa (bpn13025)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13026 in Melpa (bpn13026) 
+Prayer bpn13026 (bpn13026) 
 
 [bahaiprayers.net 13026](https://bahaiprayers.net/Book/Single/114/13026)
 
@@ -99,7 +99,7 @@ Prayer bpn13026 in Melpa (bpn13026)
 
 -- Bahá'u'lláh
 
-Prayer bpn13028 in Melpa (bpn13028) 
+Prayer bpn13028 (bpn13028) 
 
 [bahaiprayers.net 13028](https://bahaiprayers.net/Book/Single/114/13028)
 
@@ -116,7 +116,7 @@ Prayer bpn13028 in Melpa (bpn13028)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13019 in Melpa (bpn13019) 
+Prayer bpn13019 (bpn13019) 
 
 [bahaiprayers.net 13019](https://bahaiprayers.net/Book/Single/114/13019)
 
@@ -133,7 +133,7 @@ Prayer bpn13019 in Melpa (bpn13019)
 
 -- Bahá'u'lláh
 
-Prayer bpn13022 in Melpa (bpn13022) 
+Prayer bpn13022 (bpn13022) 
 
 [bahaiprayers.net 13022](https://bahaiprayers.net/Book/Single/114/13022)
 
@@ -150,7 +150,7 @@ Prayer bpn13022 in Melpa (bpn13022)
 
 -- Báb
 
-Prayer bpn13030 in Melpa (bpn13030) 
+Prayer bpn13030 (bpn13030) 
 
 [bahaiprayers.net 13030](https://bahaiprayers.net/Book/Single/114/13030)
 
@@ -167,7 +167,7 @@ Prayer bpn13030 in Melpa (bpn13030)
 
 -- Bahá'u'lláh
 
-Prayer bpn13020 in Melpa (bpn13020) 
+Prayer bpn13020 (bpn13020) 
 
 [bahaiprayers.net 13020](https://bahaiprayers.net/Book/Single/114/13020)
 
@@ -184,7 +184,7 @@ Prayer bpn13020 in Melpa (bpn13020)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13018 in Melpa (bpn13018) 
+Prayer bpn13018 (bpn13018) 
 
 [bahaiprayers.net 13018](https://bahaiprayers.net/Book/Single/114/13018)
 
@@ -201,7 +201,7 @@ Prayer bpn13018 in Melpa (bpn13018)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13021 in Melpa (bpn13021) 
+Prayer bpn13021 (bpn13021) 
 
 [bahaiprayers.net 13021](https://bahaiprayers.net/Book/Single/114/13021)
 
@@ -218,7 +218,7 @@ Prayer bpn13021 in Melpa (bpn13021)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13023 in Melpa (bpn13023) 
+Prayer bpn13023 (bpn13023) 
 
 [bahaiprayers.net 13023](https://bahaiprayers.net/Book/Single/114/13023)
 
@@ -235,7 +235,7 @@ Prayer bpn13023 in Melpa (bpn13023)
 
 -- Bahá'u'lláh
 
-Prayer bpn13031 in Melpa (bpn13031) 
+Prayer bpn13031 (bpn13031) 
 
 [bahaiprayers.net 13031](https://bahaiprayers.net/Book/Single/114/13031)
 
@@ -252,7 +252,7 @@ Prayer bpn13031 in Melpa (bpn13031)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13017 in Melpa (bpn13017) 
+Prayer bpn13017 (bpn13017) 
 
 [bahaiprayers.net 13017](https://bahaiprayers.net/Book/Single/114/13017)
 
@@ -269,7 +269,7 @@ Prayer bpn13017 in Melpa (bpn13017)
 
 -- Bahá'u'lláh
 
-Prayer bpn13024 in Melpa (bpn13024) 
+Prayer bpn13024 (bpn13024) 
 
 [bahaiprayers.net 13024](https://bahaiprayers.net/Book/Single/114/13024)
 
@@ -286,7 +286,7 @@ Prayer bpn13024 in Melpa (bpn13024)
 
 -- Bahá'u'lláh
 
-Prayer bpn13029 in Melpa (bpn13029) 
+Prayer bpn13029 (bpn13029) 
 
 [bahaiprayers.net 13029](https://bahaiprayers.net/Book/Single/114/13029)
 
@@ -303,7 +303,7 @@ Prayer bpn13029 in Melpa (bpn13029)
 
 -- Bahá'u'lláh
 
-Prayer bpn13027 in Melpa (bpn13027) 
+Prayer bpn13027 (bpn13027) 
 
 [bahaiprayers.net 13027](https://bahaiprayers.net/Book/Single/114/13027)
 

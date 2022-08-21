@@ -82,7 +82,7 @@ tags = ['lang=tpi', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn12948 in Tok Pisin (bpn12948) 
+Prayer bpn12948 (bpn12948) 
 
 [bahaiprayers.net 12948](https://bahaiprayers.net/Book/Single/110/12948)
 
@@ -95,7 +95,7 @@ Prayer bpn12948 in Tok Pisin (bpn12948)
 
 -- Bahá'u'lláh
 
-Prayer bpn12949 in Tok Pisin (bpn12949) 
+Prayer bpn12949 (bpn12949) 
 
 [bahaiprayers.net 12949](https://bahaiprayers.net/Book/Single/110/12949)
 
@@ -108,7 +108,7 @@ Prayer bpn12949 in Tok Pisin (bpn12949)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12950 in Tok Pisin (bpn12950) 
+Prayer bpn12950 (bpn12950) 
 
 [bahaiprayers.net 12950](https://bahaiprayers.net/Book/Single/110/12950)
 
@@ -121,7 +121,7 @@ Prayer bpn12950 in Tok Pisin (bpn12950)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12951 in Tok Pisin (bpn12951) 
+Prayer bpn12951 (bpn12951) 
 
 [bahaiprayers.net 12951](https://bahaiprayers.net/Book/Single/110/12951)
 
@@ -134,7 +134,7 @@ Prayer bpn12951 in Tok Pisin (bpn12951)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12959 in Tok Pisin (bpn12959) 
+Prayer bpn12959 (bpn12959) 
 
 [bahaiprayers.net 12959](https://bahaiprayers.net/Book/Single/110/12959)
 
@@ -151,7 +151,7 @@ Prayer bpn12959 in Tok Pisin (bpn12959)
 
 -- Bahá'u'lláh
 
-Prayer bpn12967 in Tok Pisin (bpn12967) 
+Prayer bpn12967 (bpn12967) 
 
 [bahaiprayers.net 12967](https://bahaiprayers.net/Book/Single/110/12967)
 
@@ -168,7 +168,7 @@ Prayer bpn12967 in Tok Pisin (bpn12967)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12940 in Tok Pisin (bpn12940) 
+Prayer bpn12940 (bpn12940) 
 
 [bahaiprayers.net 12940](https://bahaiprayers.net/Book/Single/110/12940)
 
@@ -181,7 +181,7 @@ Prayer bpn12940 in Tok Pisin (bpn12940)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12941 in Tok Pisin (bpn12941) 
+Prayer bpn12941 (bpn12941) 
 
 [bahaiprayers.net 12941](https://bahaiprayers.net/Book/Single/110/12941)
 
@@ -194,7 +194,7 @@ Prayer bpn12941 in Tok Pisin (bpn12941)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12942 in Tok Pisin (bpn12942) 
+Prayer bpn12942 (bpn12942) 
 
 [bahaiprayers.net 12942](https://bahaiprayers.net/Book/Single/110/12942)
 
@@ -207,7 +207,7 @@ Prayer bpn12942 in Tok Pisin (bpn12942)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12943 in Tok Pisin (bpn12943) 
+Prayer bpn12943 (bpn12943) 
 
 [bahaiprayers.net 12943](https://bahaiprayers.net/Book/Single/110/12943)
 
@@ -224,7 +224,7 @@ Prayer bpn12943 in Tok Pisin (bpn12943)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12937 in Tok Pisin (bpn12937) 
+Prayer bpn12937 (bpn12937) 
 
 [bahaiprayers.net 12937](https://bahaiprayers.net/Book/Single/110/12937)
 
@@ -237,7 +237,7 @@ Prayer bpn12937 in Tok Pisin (bpn12937)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12938 in Tok Pisin (bpn12938) 
+Prayer bpn12938 (bpn12938) 
 
 [bahaiprayers.net 12938](https://bahaiprayers.net/Book/Single/110/12938)
 
@@ -254,7 +254,7 @@ Prayer bpn12938 in Tok Pisin (bpn12938)
 
 -- Báb
 
-Prayer bpn12936 in Tok Pisin (bpn12936) 
+Prayer bpn12936 (bpn12936) 
 
 [bahaiprayers.net 12936](https://bahaiprayers.net/Book/Single/110/12936)
 
@@ -271,7 +271,7 @@ Prayer bpn12936 in Tok Pisin (bpn12936)
 
 -- Báb
 
-Prayer bpn12964 in Tok Pisin (bpn12964) 
+Prayer bpn12964 (bpn12964) 
 
 [bahaiprayers.net 12964](https://bahaiprayers.net/Book/Single/110/12964)
 
@@ -288,7 +288,7 @@ Prayer bpn12964 in Tok Pisin (bpn12964)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12970 in Tok Pisin (bpn12970) 
+Prayer bpn12970 (bpn12970) 
 
 [bahaiprayers.net 12970](https://bahaiprayers.net/Book/Single/110/12970)
 
@@ -305,7 +305,7 @@ Prayer bpn12970 in Tok Pisin (bpn12970)
 
 -- Bahá'u'lláh
 
-Prayer bpn12952 in Tok Pisin (bpn12952) 
+Prayer bpn12952 (bpn12952) 
 
 [bahaiprayers.net 12952](https://bahaiprayers.net/Book/Single/110/12952)
 
@@ -318,7 +318,7 @@ Prayer bpn12952 in Tok Pisin (bpn12952)
 
 -- Bahá'u'lláh
 
-Prayer bpn12953 in Tok Pisin (bpn12953) 
+Prayer bpn12953 (bpn12953) 
 
 [bahaiprayers.net 12953](https://bahaiprayers.net/Book/Single/110/12953)
 
@@ -331,7 +331,7 @@ Prayer bpn12953 in Tok Pisin (bpn12953)
 
 -- Bahá'u'lláh
 
-Prayer bpn12954 in Tok Pisin (bpn12954) 
+Prayer bpn12954 (bpn12954) 
 
 [bahaiprayers.net 12954](https://bahaiprayers.net/Book/Single/110/12954)
 
@@ -348,7 +348,7 @@ Prayer bpn12954 in Tok Pisin (bpn12954)
 
 -- Bahá'u'lláh
 
-Prayer bpn12935 in Tok Pisin (bpn12935) 
+Prayer bpn12935 (bpn12935) 
 
 [bahaiprayers.net 12935](https://bahaiprayers.net/Book/Single/110/12935)
 
@@ -365,7 +365,7 @@ Prayer bpn12935 in Tok Pisin (bpn12935)
 
 -- Bahá'u'lláh
 
-Prayer bpn12965 in Tok Pisin (bpn12965) 
+Prayer bpn12965 (bpn12965) 
 
 [bahaiprayers.net 12965](https://bahaiprayers.net/Book/Single/110/12965)
 
@@ -378,7 +378,7 @@ Prayer bpn12965 in Tok Pisin (bpn12965)
 
 -- Bahá'u'lláh
 
-Prayer bpn12966 in Tok Pisin (bpn12966) 
+Prayer bpn12966 (bpn12966) 
 
 [bahaiprayers.net 12966](https://bahaiprayers.net/Book/Single/110/12966)
 
@@ -395,7 +395,7 @@ Prayer bpn12966 in Tok Pisin (bpn12966)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12972 in Tok Pisin (bpn12972) 
+Prayer bpn12972 (bpn12972) 
 
 [bahaiprayers.net 12972](https://bahaiprayers.net/Book/Single/110/12972)
 
@@ -408,7 +408,7 @@ Prayer bpn12972 in Tok Pisin (bpn12972)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12973 in Tok Pisin (bpn12973) 
+Prayer bpn12973 (bpn12973) 
 
 [bahaiprayers.net 12973](https://bahaiprayers.net/Book/Single/110/12973)
 
@@ -421,7 +421,7 @@ Prayer bpn12973 in Tok Pisin (bpn12973)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12975 in Tok Pisin (bpn12975) 
+Prayer bpn12975 (bpn12975) 
 
 [bahaiprayers.net 12975](https://bahaiprayers.net/Book/Single/110/12975)
 
@@ -438,7 +438,7 @@ Prayer bpn12975 in Tok Pisin (bpn12975)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12958 in Tok Pisin (bpn12958) 
+Prayer bpn12958 (bpn12958) 
 
 [bahaiprayers.net 12958](https://bahaiprayers.net/Book/Single/110/12958)
 
@@ -455,7 +455,7 @@ Prayer bpn12958 in Tok Pisin (bpn12958)
 
 -- Bahá'u'lláh
 
-Prayer bpn12955 in Tok Pisin (bpn12955) 
+Prayer bpn12955 (bpn12955) 
 
 [bahaiprayers.net 12955](https://bahaiprayers.net/Book/Single/110/12955)
 
@@ -472,7 +472,7 @@ Prayer bpn12955 in Tok Pisin (bpn12955)
 
 -- Bahá'u'lláh
 
-Prayer bpn12978 in Tok Pisin (bpn12978) 
+Prayer bpn12978 (bpn12978) 
 
 [bahaiprayers.net 12978](https://bahaiprayers.net/Book/Single/110/12978)
 
@@ -489,7 +489,7 @@ Prayer bpn12978 in Tok Pisin (bpn12978)
 
 -- Bahá'u'lláh
 
-Prayer bpn12956 in Tok Pisin (bpn12956) 
+Prayer bpn12956 (bpn12956) 
 
 [bahaiprayers.net 12956](https://bahaiprayers.net/Book/Single/110/12956)
 
@@ -502,7 +502,7 @@ Prayer bpn12956 in Tok Pisin (bpn12956)
 
 -- Bahá'u'lláh
 
-Prayer bpn12957 in Tok Pisin (bpn12957) 
+Prayer bpn12957 (bpn12957) 
 
 [bahaiprayers.net 12957](https://bahaiprayers.net/Book/Single/110/12957)
 
@@ -519,7 +519,7 @@ Prayer bpn12957 in Tok Pisin (bpn12957)
 
 -- Bahá'u'lláh
 
-Prayer bpn12939 in Tok Pisin (bpn12939) 
+Prayer bpn12939 (bpn12939) 
 
 [bahaiprayers.net 12939](https://bahaiprayers.net/Book/Single/110/12939)
 
@@ -536,7 +536,7 @@ Prayer bpn12939 in Tok Pisin (bpn12939)
 
 -- Báb
 
-Prayer bpn12934 in Tok Pisin (bpn12934) 
+Prayer bpn12934 (bpn12934) 
 
 [bahaiprayers.net 12934](https://bahaiprayers.net/Book/Single/110/12934)
 
@@ -553,7 +553,7 @@ Prayer bpn12934 in Tok Pisin (bpn12934)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12968 in Tok Pisin (bpn12968) 
+Prayer bpn12968 (bpn12968) 
 
 [bahaiprayers.net 12968](https://bahaiprayers.net/Book/Single/110/12968)
 
@@ -570,7 +570,7 @@ Prayer bpn12968 in Tok Pisin (bpn12968)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12981 in Tok Pisin (bpn12981) 
+Prayer bpn12981 (bpn12981) 
 
 [bahaiprayers.net 12981](https://bahaiprayers.net/Book/Single/110/12981)
 
@@ -587,7 +587,7 @@ Prayer bpn12981 in Tok Pisin (bpn12981)
 
 -- Bahá'u'lláh
 
-Prayer bpn12930 in Tok Pisin (bpn12930) 
+Prayer bpn12930 (bpn12930) 
 
 [bahaiprayers.net 12930](https://bahaiprayers.net/Book/Single/110/12930)
 
@@ -604,7 +604,7 @@ Prayer bpn12930 in Tok Pisin (bpn12930)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12974 in Tok Pisin (bpn12974) 
+Prayer bpn12974 (bpn12974) 
 
 [bahaiprayers.net 12974](https://bahaiprayers.net/Book/Single/110/12974)
 
@@ -621,7 +621,7 @@ Prayer bpn12974 in Tok Pisin (bpn12974)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12960 in Tok Pisin (bpn12960) 
+Prayer bpn12960 (bpn12960) 
 
 [bahaiprayers.net 12960](https://bahaiprayers.net/Book/Single/110/12960)
 
@@ -634,7 +634,7 @@ Prayer bpn12960 in Tok Pisin (bpn12960)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12961 in Tok Pisin (bpn12961) 
+Prayer bpn12961 (bpn12961) 
 
 [bahaiprayers.net 12961](https://bahaiprayers.net/Book/Single/110/12961)
 
@@ -651,7 +651,7 @@ Prayer bpn12961 in Tok Pisin (bpn12961)
 
 -- Bahá'u'lláh
 
-Prayer bpn12969 in Tok Pisin (bpn12969) 
+Prayer bpn12969 (bpn12969) 
 
 [bahaiprayers.net 12969](https://bahaiprayers.net/Book/Single/110/12969)
 
@@ -668,7 +668,7 @@ Prayer bpn12969 in Tok Pisin (bpn12969)
 
 -- Bahá'u'lláh
 
-Prayer bpn12979 in Tok Pisin (bpn12979) 
+Prayer bpn12979 (bpn12979) 
 
 [bahaiprayers.net 12979](https://bahaiprayers.net/Book/Single/110/12979)
 
@@ -685,7 +685,7 @@ Prayer bpn12979 in Tok Pisin (bpn12979)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12980 in Tok Pisin (bpn12980) 
+Prayer bpn12980 (bpn12980) 
 
 [bahaiprayers.net 12980](https://bahaiprayers.net/Book/Single/110/12980)
 
@@ -702,7 +702,7 @@ Prayer bpn12980 in Tok Pisin (bpn12980)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12962 in Tok Pisin (bpn12962) 
+Prayer bpn12962 (bpn12962) 
 
 [bahaiprayers.net 12962](https://bahaiprayers.net/Book/Single/110/12962)
 
@@ -719,7 +719,7 @@ Prayer bpn12962 in Tok Pisin (bpn12962)
 
 -- Báb
 
-Prayer bpn12931 in Tok Pisin (bpn12931) 
+Prayer bpn12931 (bpn12931) 
 
 [bahaiprayers.net 12931](https://bahaiprayers.net/Book/Single/110/12931)
 
@@ -732,7 +732,7 @@ Prayer bpn12931 in Tok Pisin (bpn12931)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12932 in Tok Pisin (bpn12932) 
+Prayer bpn12932 (bpn12932) 
 
 [bahaiprayers.net 12932](https://bahaiprayers.net/Book/Single/110/12932)
 
@@ -749,7 +749,7 @@ Prayer bpn12932 in Tok Pisin (bpn12932)
 
 -- Bahá'u'lláh
 
-Prayer bpn12933 in Tok Pisin (bpn12933) 
+Prayer bpn12933 (bpn12933) 
 
 [bahaiprayers.net 12933](https://bahaiprayers.net/Book/Single/110/12933)
 
@@ -766,7 +766,7 @@ Prayer bpn12933 in Tok Pisin (bpn12933)
 
 -- Bahá'u'lláh
 
-Prayer bpn12977 in Tok Pisin (bpn12977) 
+Prayer bpn12977 (bpn12977) 
 
 [bahaiprayers.net 12977](https://bahaiprayers.net/Book/Single/110/12977)
 
@@ -779,7 +779,7 @@ Prayer bpn12977 in Tok Pisin (bpn12977)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12976 in Tok Pisin (bpn12976) 
+Prayer bpn12976 (bpn12976) 
 
 [bahaiprayers.net 12976](https://bahaiprayers.net/Book/Single/110/12976)
 
@@ -796,7 +796,7 @@ Prayer bpn12976 in Tok Pisin (bpn12976)
 
 -- Bahá'u'lláh
 
-Prayer bpn12963 in Tok Pisin (bpn12963) 
+Prayer bpn12963 (bpn12963) 
 
 [bahaiprayers.net 12963](https://bahaiprayers.net/Book/Single/110/12963)
 
@@ -813,7 +813,7 @@ Prayer bpn12963 in Tok Pisin (bpn12963)
 
 -- Bahá'u'lláh
 
-Prayer bpn12944 in Tok Pisin (bpn12944) 
+Prayer bpn12944 (bpn12944) 
 
 [bahaiprayers.net 12944](https://bahaiprayers.net/Book/Single/110/12944)
 
@@ -826,7 +826,7 @@ Prayer bpn12944 in Tok Pisin (bpn12944)
 
 -- Bahá'u'lláh
 
-Prayer bpn12945 in Tok Pisin (bpn12945) 
+Prayer bpn12945 (bpn12945) 
 
 [bahaiprayers.net 12945](https://bahaiprayers.net/Book/Single/110/12945)
 
@@ -839,7 +839,7 @@ Prayer bpn12945 in Tok Pisin (bpn12945)
 
 -- Bahá'u'lláh
 
-Prayer bpn12946 in Tok Pisin (bpn12946) 
+Prayer bpn12946 (bpn12946) 
 
 [bahaiprayers.net 12946](https://bahaiprayers.net/Book/Single/110/12946)
 
@@ -852,7 +852,7 @@ Prayer bpn12946 in Tok Pisin (bpn12946)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12947 in Tok Pisin (bpn12947) 
+Prayer bpn12947 (bpn12947) 
 
 [bahaiprayers.net 12947](https://bahaiprayers.net/Book/Single/110/12947)
 
@@ -869,7 +869,7 @@ Prayer bpn12947 in Tok Pisin (bpn12947)
 
 -- Abdu'l-Bahá
 
-Prayer bpn12982 in Tok Pisin (bpn12982) 
+Prayer bpn12982 (bpn12982) 
 
 [bahaiprayers.net 12982](https://bahaiprayers.net/Book/Single/110/12982)
 
@@ -886,7 +886,7 @@ Prayer bpn12982 in Tok Pisin (bpn12982)
 
 -- Bahá'u'lláh
 
-Prayer bpn12971 in Tok Pisin (bpn12971) 
+Prayer bpn12971 (bpn12971) 
 
 [bahaiprayers.net 12971](https://bahaiprayers.net/Book/Single/110/12971)
 

@@ -96,7 +96,7 @@ tags = ['lang=mi', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn10246 in Māori (bpn10246) 
+Prayer bpn10246 (bpn10246) 
 
 [bahaiprayers.net 10246](https://bahaiprayers.net/Book/Single/59/10246)
 
@@ -113,7 +113,7 @@ Prayer bpn10246 in Māori (bpn10246)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10190 in Māori (bpn10190) 
+Prayer bpn10190 (bpn10190) 
 
 [bahaiprayers.net 10190](https://bahaiprayers.net/Book/Single/59/10190)
 
@@ -130,7 +130,7 @@ Prayer bpn10190 in Māori (bpn10190)
 
 -- Bahá'u'lláh
 
-Prayer bpn10184 in Māori (bpn10184) 
+Prayer bpn10184 (bpn10184) 
 
 [bahaiprayers.net 10184](https://bahaiprayers.net/Book/Single/59/10184)
 
@@ -147,7 +147,7 @@ Prayer bpn10184 in Māori (bpn10184)
 
 -- Bahá'u'lláh
 
-Prayer bpn10185 in Māori (bpn10185) 
+Prayer bpn10185 (bpn10185) 
 
 [bahaiprayers.net 10185](https://bahaiprayers.net/Book/Single/59/10185)
 
@@ -164,7 +164,7 @@ Prayer bpn10185 in Māori (bpn10185)
 
 -- Bahá'u'lláh
 
-Prayer bpn10191 in Māori (bpn10191) 
+Prayer bpn10191 (bpn10191) 
 
 [bahaiprayers.net 10191](https://bahaiprayers.net/Book/Single/59/10191)
 
@@ -177,7 +177,7 @@ Prayer bpn10191 in Māori (bpn10191)
 
 -- Bahá'u'lláh
 
-Prayer bpn10192 in Māori (bpn10192) 
+Prayer bpn10192 (bpn10192) 
 
 [bahaiprayers.net 10192](https://bahaiprayers.net/Book/Single/59/10192)
 
@@ -190,7 +190,7 @@ Prayer bpn10192 in Māori (bpn10192)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10193 in Māori (bpn10193) 
+Prayer bpn10193 (bpn10193) 
 
 [bahaiprayers.net 10193](https://bahaiprayers.net/Book/Single/59/10193)
 
@@ -207,7 +207,7 @@ Prayer bpn10193 in Māori (bpn10193)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10201 in Māori (bpn10201) 
+Prayer bpn10201 (bpn10201) 
 
 [bahaiprayers.net 10201](https://bahaiprayers.net/Book/Single/59/10201)
 
@@ -220,7 +220,7 @@ Prayer bpn10201 in Māori (bpn10201)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10202 in Māori (bpn10202) 
+Prayer bpn10202 (bpn10202) 
 
 [bahaiprayers.net 10202](https://bahaiprayers.net/Book/Single/59/10202)
 
@@ -233,7 +233,7 @@ Prayer bpn10202 in Māori (bpn10202)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10203 in Māori (bpn10203) 
+Prayer bpn10203 (bpn10203) 
 
 [bahaiprayers.net 10203](https://bahaiprayers.net/Book/Single/59/10203)
 
@@ -246,7 +246,7 @@ Prayer bpn10203 in Māori (bpn10203)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10204 in Māori (bpn10204) 
+Prayer bpn10204 (bpn10204) 
 
 [bahaiprayers.net 10204](https://bahaiprayers.net/Book/Single/59/10204)
 
@@ -263,7 +263,7 @@ Prayer bpn10204 in Māori (bpn10204)
 
 -- Bahá'u'lláh
 
-Prayer bpn10206 in Māori (bpn10206) 
+Prayer bpn10206 (bpn10206) 
 
 [bahaiprayers.net 10206](https://bahaiprayers.net/Book/Single/59/10206)
 
@@ -276,7 +276,7 @@ Prayer bpn10206 in Māori (bpn10206)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10207 in Māori (bpn10207) 
+Prayer bpn10207 (bpn10207) 
 
 [bahaiprayers.net 10207](https://bahaiprayers.net/Book/Single/59/10207)
 
@@ -289,7 +289,7 @@ Prayer bpn10207 in Māori (bpn10207)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10208 in Māori (bpn10208) 
+Prayer bpn10208 (bpn10208) 
 
 [bahaiprayers.net 10208](https://bahaiprayers.net/Book/Single/59/10208)
 
@@ -302,7 +302,7 @@ Prayer bpn10208 in Māori (bpn10208)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10209 in Māori (bpn10209) 
+Prayer bpn10209 (bpn10209) 
 
 [bahaiprayers.net 10209](https://bahaiprayers.net/Book/Single/59/10209)
 
@@ -315,7 +315,7 @@ Prayer bpn10209 in Māori (bpn10209)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10210 in Māori (bpn10210) 
+Prayer bpn10210 (bpn10210) 
 
 [bahaiprayers.net 10210](https://bahaiprayers.net/Book/Single/59/10210)
 
@@ -328,7 +328,7 @@ Prayer bpn10210 in Māori (bpn10210)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10211 in Māori (bpn10211) 
+Prayer bpn10211 (bpn10211) 
 
 [bahaiprayers.net 10211](https://bahaiprayers.net/Book/Single/59/10211)
 
@@ -341,7 +341,7 @@ Prayer bpn10211 in Māori (bpn10211)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10212 in Māori (bpn10212) 
+Prayer bpn10212 (bpn10212) 
 
 [bahaiprayers.net 10212](https://bahaiprayers.net/Book/Single/59/10212)
 
@@ -358,7 +358,7 @@ Prayer bpn10212 in Māori (bpn10212)
 
 -- Bahá'u'lláh
 
-Prayer bpn10197 in Māori (bpn10197) 
+Prayer bpn10197 (bpn10197) 
 
 [bahaiprayers.net 10197](https://bahaiprayers.net/Book/Single/59/10197)
 
@@ -371,7 +371,7 @@ Prayer bpn10197 in Māori (bpn10197)
 
 -- Bahá'u'lláh
 
-Prayer bpn10195 in Māori (bpn10195) 
+Prayer bpn10195 (bpn10195) 
 
 [bahaiprayers.net 10195](https://bahaiprayers.net/Book/Single/59/10195)
 
@@ -384,7 +384,7 @@ Prayer bpn10195 in Māori (bpn10195)
 
 -- Bahá'u'lláh
 
-Prayer bpn10196 in Māori (bpn10196) 
+Prayer bpn10196 (bpn10196) 
 
 [bahaiprayers.net 10196](https://bahaiprayers.net/Book/Single/59/10196)
 
@@ -397,7 +397,7 @@ Prayer bpn10196 in Māori (bpn10196)
 
 -- Bahá'u'lláh
 
-Prayer bpn10198 in Māori (bpn10198) 
+Prayer bpn10198 (bpn10198) 
 
 [bahaiprayers.net 10198](https://bahaiprayers.net/Book/Single/59/10198)
 
@@ -410,7 +410,7 @@ Prayer bpn10198 in Māori (bpn10198)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10194 in Māori (bpn10194) 
+Prayer bpn10194 (bpn10194) 
 
 [bahaiprayers.net 10194](https://bahaiprayers.net/Book/Single/59/10194)
 
@@ -423,7 +423,7 @@ Prayer bpn10194 in Māori (bpn10194)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10199 in Māori (bpn10199) 
+Prayer bpn10199 (bpn10199) 
 
 [bahaiprayers.net 10199](https://bahaiprayers.net/Book/Single/59/10199)
 
@@ -440,7 +440,7 @@ Prayer bpn10199 in Māori (bpn10199)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10200 in Māori (bpn10200) 
+Prayer bpn10200 (bpn10200) 
 
 [bahaiprayers.net 10200](https://bahaiprayers.net/Book/Single/59/10200)
 
@@ -457,7 +457,7 @@ Prayer bpn10200 in Māori (bpn10200)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10213 in Māori (bpn10213) 
+Prayer bpn10213 (bpn10213) 
 
 [bahaiprayers.net 10213](https://bahaiprayers.net/Book/Single/59/10213)
 
@@ -470,7 +470,7 @@ Prayer bpn10213 in Māori (bpn10213)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10214 in Māori (bpn10214) 
+Prayer bpn10214 (bpn10214) 
 
 [bahaiprayers.net 10214](https://bahaiprayers.net/Book/Single/59/10214)
 
@@ -487,7 +487,7 @@ Prayer bpn10214 in Māori (bpn10214)
 
 -- Bahá'u'lláh
 
-Prayer bpn10219 in Māori (bpn10219) 
+Prayer bpn10219 (bpn10219) 
 
 [bahaiprayers.net 10219](https://bahaiprayers.net/Book/Single/59/10219)
 
@@ -500,7 +500,7 @@ Prayer bpn10219 in Māori (bpn10219)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10220 in Māori (bpn10220) 
+Prayer bpn10220 (bpn10220) 
 
 [bahaiprayers.net 10220](https://bahaiprayers.net/Book/Single/59/10220)
 
@@ -517,7 +517,7 @@ Prayer bpn10220 in Māori (bpn10220)
 
 -- Bahá'u'lláh
 
-Prayer bpn10215 in Māori (bpn10215) 
+Prayer bpn10215 (bpn10215) 
 
 [bahaiprayers.net 10215](https://bahaiprayers.net/Book/Single/59/10215)
 
@@ -530,7 +530,7 @@ Prayer bpn10215 in Māori (bpn10215)
 
 -- Bahá'u'lláh
 
-Prayer bpn10216 in Māori (bpn10216) 
+Prayer bpn10216 (bpn10216) 
 
 [bahaiprayers.net 10216](https://bahaiprayers.net/Book/Single/59/10216)
 
@@ -543,7 +543,7 @@ Prayer bpn10216 in Māori (bpn10216)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10217 in Māori (bpn10217) 
+Prayer bpn10217 (bpn10217) 
 
 [bahaiprayers.net 10217](https://bahaiprayers.net/Book/Single/59/10217)
 
@@ -556,7 +556,7 @@ Prayer bpn10217 in Māori (bpn10217)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10218 in Māori (bpn10218) 
+Prayer bpn10218 (bpn10218) 
 
 [bahaiprayers.net 10218](https://bahaiprayers.net/Book/Single/59/10218)
 
@@ -573,7 +573,7 @@ Prayer bpn10218 in Māori (bpn10218)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10223 in Māori (bpn10223) 
+Prayer bpn10223 (bpn10223) 
 
 [bahaiprayers.net 10223](https://bahaiprayers.net/Book/Single/59/10223)
 
@@ -586,7 +586,7 @@ Prayer bpn10223 in Māori (bpn10223)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10224 in Māori (bpn10224) 
+Prayer bpn10224 (bpn10224) 
 
 [bahaiprayers.net 10224](https://bahaiprayers.net/Book/Single/59/10224)
 
@@ -603,7 +603,7 @@ Prayer bpn10224 in Māori (bpn10224)
 
 -- Bahá'u'lláh
 
-Prayer bpn10258 in Māori (bpn10258) 
+Prayer bpn10258 (bpn10258) 
 
 [bahaiprayers.net 10258](https://bahaiprayers.net/Book/Single/59/10258)
 
@@ -620,7 +620,7 @@ Prayer bpn10258 in Māori (bpn10258)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10222 in Māori (bpn10222) 
+Prayer bpn10222 (bpn10222) 
 
 [bahaiprayers.net 10222](https://bahaiprayers.net/Book/Single/59/10222)
 
@@ -637,7 +637,7 @@ Prayer bpn10222 in Māori (bpn10222)
 
 -- Bahá'u'lláh
 
-Prayer bpn10221 in Māori (bpn10221) 
+Prayer bpn10221 (bpn10221) 
 
 [bahaiprayers.net 10221](https://bahaiprayers.net/Book/Single/59/10221)
 
@@ -654,7 +654,7 @@ Prayer bpn10221 in Māori (bpn10221)
 
 -- Bahá'u'lláh
 
-Prayer bpn10225 in Māori (bpn10225) 
+Prayer bpn10225 (bpn10225) 
 
 [bahaiprayers.net 10225](https://bahaiprayers.net/Book/Single/59/10225)
 
@@ -667,7 +667,7 @@ Prayer bpn10225 in Māori (bpn10225)
 
 -- Báb
 
-Prayer bpn10226 in Māori (bpn10226) 
+Prayer bpn10226 (bpn10226) 
 
 [bahaiprayers.net 10226](https://bahaiprayers.net/Book/Single/59/10226)
 
@@ -680,7 +680,7 @@ Prayer bpn10226 in Māori (bpn10226)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10227 in Māori (bpn10227) 
+Prayer bpn10227 (bpn10227) 
 
 [bahaiprayers.net 10227](https://bahaiprayers.net/Book/Single/59/10227)
 
@@ -697,7 +697,7 @@ Prayer bpn10227 in Māori (bpn10227)
 
 -- Bahá'u'lláh
 
-Prayer bpn10228 in Māori (bpn10228) 
+Prayer bpn10228 (bpn10228) 
 
 [bahaiprayers.net 10228](https://bahaiprayers.net/Book/Single/59/10228)
 
@@ -714,7 +714,7 @@ Prayer bpn10228 in Māori (bpn10228)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10229 in Māori (bpn10229) 
+Prayer bpn10229 (bpn10229) 
 
 [bahaiprayers.net 10229](https://bahaiprayers.net/Book/Single/59/10229)
 
@@ -731,7 +731,7 @@ Prayer bpn10229 in Māori (bpn10229)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10230 in Māori (bpn10230) 
+Prayer bpn10230 (bpn10230) 
 
 [bahaiprayers.net 10230](https://bahaiprayers.net/Book/Single/59/10230)
 
@@ -748,7 +748,7 @@ Prayer bpn10230 in Māori (bpn10230)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10231 in Māori (bpn10231) 
+Prayer bpn10231 (bpn10231) 
 
 [bahaiprayers.net 10231](https://bahaiprayers.net/Book/Single/59/10231)
 
@@ -765,7 +765,7 @@ Prayer bpn10231 in Māori (bpn10231)
 
 -- Bahá'u'lláh
 
-Prayer bpn10232 in Māori (bpn10232) 
+Prayer bpn10232 (bpn10232) 
 
 [bahaiprayers.net 10232](https://bahaiprayers.net/Book/Single/59/10232)
 
@@ -778,7 +778,7 @@ Prayer bpn10232 in Māori (bpn10232)
 
 -- Bahá'u'lláh
 
-Prayer bpn10233 in Māori (bpn10233) 
+Prayer bpn10233 (bpn10233) 
 
 [bahaiprayers.net 10233](https://bahaiprayers.net/Book/Single/59/10233)
 
@@ -795,7 +795,7 @@ Prayer bpn10233 in Māori (bpn10233)
 
 -- Bahá'u'lláh
 
-Prayer bpn10234 in Māori (bpn10234) 
+Prayer bpn10234 (bpn10234) 
 
 [bahaiprayers.net 10234](https://bahaiprayers.net/Book/Single/59/10234)
 
@@ -808,7 +808,7 @@ Prayer bpn10234 in Māori (bpn10234)
 
 -- Bahá'u'lláh
 
-Prayer bpn10235 in Māori (bpn10235) 
+Prayer bpn10235 (bpn10235) 
 
 [bahaiprayers.net 10235](https://bahaiprayers.net/Book/Single/59/10235)
 
@@ -821,7 +821,7 @@ Prayer bpn10235 in Māori (bpn10235)
 
 -- Bahá'u'lláh
 
-Prayer bpn10236 in Māori (bpn10236) 
+Prayer bpn10236 (bpn10236) 
 
 [bahaiprayers.net 10236](https://bahaiprayers.net/Book/Single/59/10236)
 
@@ -834,7 +834,7 @@ Prayer bpn10236 in Māori (bpn10236)
 
 -- Bahá'u'lláh
 
-Prayer bpn10237 in Māori (bpn10237) 
+Prayer bpn10237 (bpn10237) 
 
 [bahaiprayers.net 10237](https://bahaiprayers.net/Book/Single/59/10237)
 
@@ -847,7 +847,7 @@ Prayer bpn10237 in Māori (bpn10237)
 
 -- Bahá'u'lláh
 
-Prayer bpn10240 in Māori (bpn10240) 
+Prayer bpn10240 (bpn10240) 
 
 [bahaiprayers.net 10240](https://bahaiprayers.net/Book/Single/59/10240)
 
@@ -860,7 +860,7 @@ Prayer bpn10240 in Māori (bpn10240)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10238 in Māori (bpn10238) 
+Prayer bpn10238 (bpn10238) 
 
 [bahaiprayers.net 10238](https://bahaiprayers.net/Book/Single/59/10238)
 
@@ -873,7 +873,7 @@ Prayer bpn10238 in Māori (bpn10238)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10239 in Māori (bpn10239) 
+Prayer bpn10239 (bpn10239) 
 
 [bahaiprayers.net 10239](https://bahaiprayers.net/Book/Single/59/10239)
 
@@ -890,7 +890,7 @@ Prayer bpn10239 in Māori (bpn10239)
 
 -- Bahá'u'lláh
 
-Prayer bpn10243 in Māori (bpn10243) 
+Prayer bpn10243 (bpn10243) 
 
 [bahaiprayers.net 10243](https://bahaiprayers.net/Book/Single/59/10243)
 
@@ -907,7 +907,7 @@ Prayer bpn10243 in Māori (bpn10243)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10244 in Māori (bpn10244) 
+Prayer bpn10244 (bpn10244) 
 
 [bahaiprayers.net 10244](https://bahaiprayers.net/Book/Single/59/10244)
 
@@ -920,7 +920,7 @@ Prayer bpn10244 in Māori (bpn10244)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10245 in Māori (bpn10245) 
+Prayer bpn10245 (bpn10245) 
 
 [bahaiprayers.net 10245](https://bahaiprayers.net/Book/Single/59/10245)
 
@@ -937,7 +937,7 @@ Prayer bpn10245 in Māori (bpn10245)
 
 -- Bahá'u'lláh
 
-Prayer bpn10247 in Māori (bpn10247) 
+Prayer bpn10247 (bpn10247) 
 
 [bahaiprayers.net 10247](https://bahaiprayers.net/Book/Single/59/10247)
 
@@ -954,7 +954,7 @@ Prayer bpn10247 in Māori (bpn10247)
 
 -- Bahá'u'lláh
 
-Prayer bpn10248 in Māori (bpn10248) 
+Prayer bpn10248 (bpn10248) 
 
 [bahaiprayers.net 10248](https://bahaiprayers.net/Book/Single/59/10248)
 
@@ -967,7 +967,7 @@ Prayer bpn10248 in Māori (bpn10248)
 
 -- Bahá'u'lláh
 
-Prayer bpn10249 in Māori (bpn10249) 
+Prayer bpn10249 (bpn10249) 
 
 [bahaiprayers.net 10249](https://bahaiprayers.net/Book/Single/59/10249)
 
@@ -984,7 +984,7 @@ Prayer bpn10249 in Māori (bpn10249)
 
 -- Báb
 
-Prayer bpn10251 in Māori (bpn10251) 
+Prayer bpn10251 (bpn10251) 
 
 [bahaiprayers.net 10251](https://bahaiprayers.net/Book/Single/59/10251)
 
@@ -997,7 +997,7 @@ Prayer bpn10251 in Māori (bpn10251)
 
 -- Báb
 
-Prayer bpn10250 in Māori (bpn10250) 
+Prayer bpn10250 (bpn10250) 
 
 [bahaiprayers.net 10250](https://bahaiprayers.net/Book/Single/59/10250)
 
@@ -1014,7 +1014,7 @@ Prayer bpn10250 in Māori (bpn10250)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10252 in Māori (bpn10252) 
+Prayer bpn10252 (bpn10252) 
 
 [bahaiprayers.net 10252](https://bahaiprayers.net/Book/Single/59/10252)
 
@@ -1031,7 +1031,7 @@ Prayer bpn10252 in Māori (bpn10252)
 
 -- Bahá'u'lláh
 
-Prayer bpn10187 in Māori (bpn10187) 
+Prayer bpn10187 (bpn10187) 
 
 [bahaiprayers.net 10187](https://bahaiprayers.net/Book/Single/59/10187)
 
@@ -1044,7 +1044,7 @@ Prayer bpn10187 in Māori (bpn10187)
 
 -- Bahá'u'lláh
 
-Prayer bpn10188 in Māori (bpn10188) 
+Prayer bpn10188 (bpn10188) 
 
 [bahaiprayers.net 10188](https://bahaiprayers.net/Book/Single/59/10188)
 
@@ -1057,7 +1057,7 @@ Prayer bpn10188 in Māori (bpn10188)
 
 -- Báb
 
-Prayer bpn10189 in Māori (bpn10189) 
+Prayer bpn10189 (bpn10189) 
 
 [bahaiprayers.net 10189](https://bahaiprayers.net/Book/Single/59/10189)
 
@@ -1074,7 +1074,7 @@ Prayer bpn10189 in Māori (bpn10189)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10241 in Māori (bpn10241) 
+Prayer bpn10241 (bpn10241) 
 
 [bahaiprayers.net 10241](https://bahaiprayers.net/Book/Single/59/10241)
 
@@ -1087,7 +1087,7 @@ Prayer bpn10241 in Māori (bpn10241)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10242 in Māori (bpn10242) 
+Prayer bpn10242 (bpn10242) 
 
 [bahaiprayers.net 10242](https://bahaiprayers.net/Book/Single/59/10242)
 
@@ -1104,7 +1104,7 @@ Prayer bpn10242 in Māori (bpn10242)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10186 in Māori (bpn10186) 
+Prayer bpn10186 (bpn10186) 
 
 [bahaiprayers.net 10186](https://bahaiprayers.net/Book/Single/59/10186)
 
@@ -1121,7 +1121,7 @@ Prayer bpn10186 in Māori (bpn10186)
 
 -- Bahá'u'lláh
 
-Prayer bpn10256 in Māori (bpn10256) 
+Prayer bpn10256 (bpn10256) 
 
 [bahaiprayers.net 10256](https://bahaiprayers.net/Book/Single/59/10256)
 
@@ -1134,7 +1134,7 @@ Prayer bpn10256 in Māori (bpn10256)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10257 in Māori (bpn10257) 
+Prayer bpn10257 (bpn10257) 
 
 [bahaiprayers.net 10257](https://bahaiprayers.net/Book/Single/59/10257)
 
@@ -1151,7 +1151,7 @@ Prayer bpn10257 in Māori (bpn10257)
 
 -- Bahá'u'lláh
 
-Prayer bpn10181 in Māori (bpn10181) 
+Prayer bpn10181 (bpn10181) 
 
 [bahaiprayers.net 10181](https://bahaiprayers.net/Book/Single/59/10181)
 
@@ -1168,7 +1168,7 @@ Prayer bpn10181 in Māori (bpn10181)
 
 -- Bahá'u'lláh
 
-Prayer bpn10183 in Māori (bpn10183) 
+Prayer bpn10183 (bpn10183) 
 
 [bahaiprayers.net 10183](https://bahaiprayers.net/Book/Single/59/10183)
 
@@ -1185,7 +1185,7 @@ Prayer bpn10183 in Māori (bpn10183)
 
 -- Bahá'u'lláh
 
-Prayer bpn10182 in Māori (bpn10182) 
+Prayer bpn10182 (bpn10182) 
 
 [bahaiprayers.net 10182](https://bahaiprayers.net/Book/Single/59/10182)
 
@@ -1202,7 +1202,7 @@ Prayer bpn10182 in Māori (bpn10182)
 
 -- Bahá'u'lláh
 
-Prayer bpn10254 in Māori (bpn10254) 
+Prayer bpn10254 (bpn10254) 
 
 [bahaiprayers.net 10254](https://bahaiprayers.net/Book/Single/59/10254)
 
@@ -1219,7 +1219,7 @@ Prayer bpn10254 in Māori (bpn10254)
 
 -- Bahá'u'lláh
 
-Prayer bpn10253 in Māori (bpn10253) 
+Prayer bpn10253 (bpn10253) 
 
 [bahaiprayers.net 10253](https://bahaiprayers.net/Book/Single/59/10253)
 
@@ -1236,7 +1236,7 @@ Prayer bpn10253 in Māori (bpn10253)
 
 -- Bahá'u'lláh
 
-Prayer bpn10255 in Māori (bpn10255) 
+Prayer bpn10255 (bpn10255) 
 
 [bahaiprayers.net 10255](https://bahaiprayers.net/Book/Single/59/10255)
 
@@ -1253,7 +1253,7 @@ Prayer bpn10255 in Māori (bpn10255)
 
 -- Bahá'u'lláh
 
-Prayer bpn10205 in Māori (bpn10205) 
+Prayer bpn10205 (bpn10205) 
 
 [bahaiprayers.net 10205](https://bahaiprayers.net/Book/Single/59/10205)
 

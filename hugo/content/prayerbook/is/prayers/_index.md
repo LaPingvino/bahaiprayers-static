@@ -88,7 +88,7 @@ tags = ['lang=is', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn1603 in Íslenska (bpn1603) 
+Prayer bpn1603 (bpn1603) 
 
 [bahaiprayers.net 1603](https://bahaiprayers.net/Book/Single/2/1603)
 
@@ -101,7 +101,7 @@ Prayer bpn1603 in Íslenska (bpn1603)
 
 -- Bahá'u'lláh
 
-Prayer bpn1604 in Íslenska (bpn1604) 
+Prayer bpn1604 (bpn1604) 
 
 [bahaiprayers.net 1604](https://bahaiprayers.net/Book/Single/2/1604)
 
@@ -114,7 +114,7 @@ Prayer bpn1604 in Íslenska (bpn1604)
 
 -- Bahá'u'lláh
 
-Prayer bpn1605 in Íslenska (bpn1605) 
+Prayer bpn1605 (bpn1605) 
 
 [bahaiprayers.net 1605](https://bahaiprayers.net/Book/Single/2/1605)
 
@@ -127,7 +127,7 @@ Prayer bpn1605 in Íslenska (bpn1605)
 
 -- Bahá'u'lláh
 
-Prayer bpn1606 in Íslenska (bpn1606) 
+Prayer bpn1606 (bpn1606) 
 
 [bahaiprayers.net 1606](https://bahaiprayers.net/Book/Single/2/1606)
 
@@ -140,7 +140,7 @@ Prayer bpn1606 in Íslenska (bpn1606)
 
 -- Bahá'u'lláh
 
-Prayer bpn1607 in Íslenska (bpn1607) 
+Prayer bpn1607 (bpn1607) 
 
 [bahaiprayers.net 1607](https://bahaiprayers.net/Book/Single/2/1607)
 
@@ -153,7 +153,7 @@ Prayer bpn1607 in Íslenska (bpn1607)
 
 -- Bahá'u'lláh
 
-Prayer bpn1608 in Íslenska (bpn1608) 
+Prayer bpn1608 (bpn1608) 
 
 [bahaiprayers.net 1608](https://bahaiprayers.net/Book/Single/2/1608)
 
@@ -166,7 +166,7 @@ Prayer bpn1608 in Íslenska (bpn1608)
 
 -- Bahá'u'lláh
 
-Prayer bpn1609 in Íslenska (bpn1609) 
+Prayer bpn1609 (bpn1609) 
 
 [bahaiprayers.net 1609](https://bahaiprayers.net/Book/Single/2/1609)
 
@@ -179,7 +179,7 @@ Prayer bpn1609 in Íslenska (bpn1609)
 
 -- Bahá'u'lláh
 
-Prayer bpn1610 in Íslenska (bpn1610) 
+Prayer bpn1610 (bpn1610) 
 
 [bahaiprayers.net 1610](https://bahaiprayers.net/Book/Single/2/1610)
 
@@ -192,7 +192,7 @@ Prayer bpn1610 in Íslenska (bpn1610)
 
 -- Báb
 
-Prayer bpn1611 in Íslenska (bpn1611) 
+Prayer bpn1611 (bpn1611) 
 
 [bahaiprayers.net 1611](https://bahaiprayers.net/Book/Single/2/1611)
 
@@ -205,7 +205,7 @@ Prayer bpn1611 in Íslenska (bpn1611)
 
 -- Báb
 
-Prayer bpn1612 in Íslenska (bpn1612) 
+Prayer bpn1612 (bpn1612) 
 
 [bahaiprayers.net 1612](https://bahaiprayers.net/Book/Single/2/1612)
 
@@ -218,7 +218,7 @@ Prayer bpn1612 in Íslenska (bpn1612)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1613 in Íslenska (bpn1613) 
+Prayer bpn1613 (bpn1613) 
 
 [bahaiprayers.net 1613](https://bahaiprayers.net/Book/Single/2/1613)
 
@@ -231,7 +231,7 @@ Prayer bpn1613 in Íslenska (bpn1613)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1614 in Íslenska (bpn1614) 
+Prayer bpn1614 (bpn1614) 
 
 [bahaiprayers.net 1614](https://bahaiprayers.net/Book/Single/2/1614)
 
@@ -248,7 +248,7 @@ Prayer bpn1614 in Íslenska (bpn1614)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1615 in Íslenska (bpn1615) 
+Prayer bpn1615 (bpn1615) 
 
 [bahaiprayers.net 1615](https://bahaiprayers.net/Book/Single/2/1615)
 
@@ -261,7 +261,7 @@ Prayer bpn1615 in Íslenska (bpn1615)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1616 in Íslenska (bpn1616) 
+Prayer bpn1616 (bpn1616) 
 
 [bahaiprayers.net 1616](https://bahaiprayers.net/Book/Single/2/1616)
 
@@ -274,7 +274,7 @@ Prayer bpn1616 in Íslenska (bpn1616)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1617 in Íslenska (bpn1617) 
+Prayer bpn1617 (bpn1617) 
 
 [bahaiprayers.net 1617](https://bahaiprayers.net/Book/Single/2/1617)
 
@@ -291,7 +291,7 @@ Prayer bpn1617 in Íslenska (bpn1617)
 
 -- Bahá'u'lláh
 
-Prayer bpn1585 in Íslenska (bpn1585) 
+Prayer bpn1585 (bpn1585) 
 
 [bahaiprayers.net 1585](https://bahaiprayers.net/Book/Single/2/1585)
 
@@ -304,7 +304,7 @@ Prayer bpn1585 in Íslenska (bpn1585)
 
 -- Bahá'u'lláh
 
-Prayer bpn1586 in Íslenska (bpn1586) 
+Prayer bpn1586 (bpn1586) 
 
 [bahaiprayers.net 1586](https://bahaiprayers.net/Book/Single/2/1586)
 
@@ -317,7 +317,7 @@ Prayer bpn1586 in Íslenska (bpn1586)
 
 -- Bahá'u'lláh
 
-Prayer bpn1587 in Íslenska (bpn1587) 
+Prayer bpn1587 (bpn1587) 
 
 [bahaiprayers.net 1587](https://bahaiprayers.net/Book/Single/2/1587)
 
@@ -330,7 +330,7 @@ Prayer bpn1587 in Íslenska (bpn1587)
 
 -- Bahá'u'lláh
 
-Prayer bpn1588 in Íslenska (bpn1588) 
+Prayer bpn1588 (bpn1588) 
 
 [bahaiprayers.net 1588](https://bahaiprayers.net/Book/Single/2/1588)
 
@@ -343,7 +343,7 @@ Prayer bpn1588 in Íslenska (bpn1588)
 
 -- Bahá'u'lláh
 
-Prayer bpn1589 in Íslenska (bpn1589) 
+Prayer bpn1589 (bpn1589) 
 
 [bahaiprayers.net 1589](https://bahaiprayers.net/Book/Single/2/1589)
 
@@ -356,7 +356,7 @@ Prayer bpn1589 in Íslenska (bpn1589)
 
 -- Bahá'u'lláh
 
-Prayer bpn1590 in Íslenska (bpn1590) 
+Prayer bpn1590 (bpn1590) 
 
 [bahaiprayers.net 1590](https://bahaiprayers.net/Book/Single/2/1590)
 
@@ -369,7 +369,7 @@ Prayer bpn1590 in Íslenska (bpn1590)
 
 -- Bahá'u'lláh
 
-Prayer bpn1591 in Íslenska (bpn1591) 
+Prayer bpn1591 (bpn1591) 
 
 [bahaiprayers.net 1591](https://bahaiprayers.net/Book/Single/2/1591)
 
@@ -382,7 +382,7 @@ Prayer bpn1591 in Íslenska (bpn1591)
 
 -- Bahá'u'lláh
 
-Prayer bpn1592 in Íslenska (bpn1592) 
+Prayer bpn1592 (bpn1592) 
 
 [bahaiprayers.net 1592](https://bahaiprayers.net/Book/Single/2/1592)
 
@@ -395,7 +395,7 @@ Prayer bpn1592 in Íslenska (bpn1592)
 
 -- Bahá'u'lláh
 
-Prayer bpn1593 in Íslenska (bpn1593) 
+Prayer bpn1593 (bpn1593) 
 
 [bahaiprayers.net 1593](https://bahaiprayers.net/Book/Single/2/1593)
 
@@ -408,7 +408,7 @@ Prayer bpn1593 in Íslenska (bpn1593)
 
 -- Báb
 
-Prayer bpn1594 in Íslenska (bpn1594) 
+Prayer bpn1594 (bpn1594) 
 
 [bahaiprayers.net 1594](https://bahaiprayers.net/Book/Single/2/1594)
 
@@ -421,7 +421,7 @@ Prayer bpn1594 in Íslenska (bpn1594)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1595 in Íslenska (bpn1595) 
+Prayer bpn1595 (bpn1595) 
 
 [bahaiprayers.net 1595](https://bahaiprayers.net/Book/Single/2/1595)
 
@@ -434,7 +434,7 @@ Prayer bpn1595 in Íslenska (bpn1595)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1596 in Íslenska (bpn1596) 
+Prayer bpn1596 (bpn1596) 
 
 [bahaiprayers.net 1596](https://bahaiprayers.net/Book/Single/2/1596)
 
@@ -447,7 +447,7 @@ Prayer bpn1596 in Íslenska (bpn1596)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1597 in Íslenska (bpn1597) 
+Prayer bpn1597 (bpn1597) 
 
 [bahaiprayers.net 1597](https://bahaiprayers.net/Book/Single/2/1597)
 
@@ -460,7 +460,7 @@ Prayer bpn1597 in Íslenska (bpn1597)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1598 in Íslenska (bpn1598) 
+Prayer bpn1598 (bpn1598) 
 
 [bahaiprayers.net 1598](https://bahaiprayers.net/Book/Single/2/1598)
 
@@ -473,7 +473,7 @@ Prayer bpn1598 in Íslenska (bpn1598)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1599 in Íslenska (bpn1599) 
+Prayer bpn1599 (bpn1599) 
 
 [bahaiprayers.net 1599](https://bahaiprayers.net/Book/Single/2/1599)
 
@@ -486,7 +486,7 @@ Prayer bpn1599 in Íslenska (bpn1599)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1600 in Íslenska (bpn1600) 
+Prayer bpn1600 (bpn1600) 
 
 [bahaiprayers.net 1600](https://bahaiprayers.net/Book/Single/2/1600)
 
@@ -499,7 +499,7 @@ Prayer bpn1600 in Íslenska (bpn1600)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1601 in Íslenska (bpn1601) 
+Prayer bpn1601 (bpn1601) 
 
 [bahaiprayers.net 1601](https://bahaiprayers.net/Book/Single/2/1601)
 
@@ -512,7 +512,7 @@ Prayer bpn1601 in Íslenska (bpn1601)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1602 in Íslenska (bpn1602) 
+Prayer bpn1602 (bpn1602) 
 
 [bahaiprayers.net 1602](https://bahaiprayers.net/Book/Single/2/1602)
 
@@ -529,7 +529,7 @@ Prayer bpn1602 in Íslenska (bpn1602)
 
 -- Bahá'u'lláh
 
-Prayer bpn1766 in Íslenska (bpn1766) 
+Prayer bpn1766 (bpn1766) 
 
 [bahaiprayers.net 1766](https://bahaiprayers.net/Book/Single/2/1766)
 
@@ -546,7 +546,7 @@ Prayer bpn1766 in Íslenska (bpn1766)
 
 -- Bahá'u'lláh
 
-Prayer bpn1578 in Íslenska (bpn1578) 
+Prayer bpn1578 (bpn1578) 
 
 [bahaiprayers.net 1578](https://bahaiprayers.net/Book/Single/2/1578)
 
@@ -559,7 +559,7 @@ Prayer bpn1578 in Íslenska (bpn1578)
 
 -- Bahá'u'lláh
 
-Prayer bpn1579 in Íslenska (bpn1579) 
+Prayer bpn1579 (bpn1579) 
 
 [bahaiprayers.net 1579](https://bahaiprayers.net/Book/Single/2/1579)
 
@@ -572,7 +572,7 @@ Prayer bpn1579 in Íslenska (bpn1579)
 
 -- Báb
 
-Prayer bpn1580 in Íslenska (bpn1580) 
+Prayer bpn1580 (bpn1580) 
 
 [bahaiprayers.net 1580](https://bahaiprayers.net/Book/Single/2/1580)
 
@@ -585,7 +585,7 @@ Prayer bpn1580 in Íslenska (bpn1580)
 
 -- Báb
 
-Prayer bpn1581 in Íslenska (bpn1581) 
+Prayer bpn1581 (bpn1581) 
 
 [bahaiprayers.net 1581](https://bahaiprayers.net/Book/Single/2/1581)
 
@@ -598,7 +598,7 @@ Prayer bpn1581 in Íslenska (bpn1581)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1582 in Íslenska (bpn1582) 
+Prayer bpn1582 (bpn1582) 
 
 [bahaiprayers.net 1582](https://bahaiprayers.net/Book/Single/2/1582)
 
@@ -611,7 +611,7 @@ Prayer bpn1582 in Íslenska (bpn1582)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1583 in Íslenska (bpn1583) 
+Prayer bpn1583 (bpn1583) 
 
 [bahaiprayers.net 1583](https://bahaiprayers.net/Book/Single/2/1583)
 
@@ -624,7 +624,7 @@ Prayer bpn1583 in Íslenska (bpn1583)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1584 in Íslenska (bpn1584) 
+Prayer bpn1584 (bpn1584) 
 
 [bahaiprayers.net 1584](https://bahaiprayers.net/Book/Single/2/1584)
 
@@ -637,7 +637,7 @@ Prayer bpn1584 in Íslenska (bpn1584)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8374 in Íslenska (bpn8374) 
+Prayer bpn8374 (bpn8374) 
 
 [bahaiprayers.net 8374](https://bahaiprayers.net/Book/Single/2/8374)
 
@@ -654,7 +654,7 @@ Prayer bpn8374 in Íslenska (bpn8374)
 
 -- Bahá'u'lláh
 
-Prayer bpn1632 in Íslenska (bpn1632) 
+Prayer bpn1632 (bpn1632) 
 
 [bahaiprayers.net 1632](https://bahaiprayers.net/Book/Single/2/1632)
 
@@ -667,7 +667,7 @@ Prayer bpn1632 in Íslenska (bpn1632)
 
 -- Bahá'u'lláh
 
-Prayer bpn1633 in Íslenska (bpn1633) 
+Prayer bpn1633 (bpn1633) 
 
 [bahaiprayers.net 1633](https://bahaiprayers.net/Book/Single/2/1633)
 
@@ -680,7 +680,7 @@ Prayer bpn1633 in Íslenska (bpn1633)
 
 -- Bahá'u'lláh
 
-Prayer bpn1634 in Íslenska (bpn1634) 
+Prayer bpn1634 (bpn1634) 
 
 [bahaiprayers.net 1634](https://bahaiprayers.net/Book/Single/2/1634)
 
@@ -693,7 +693,7 @@ Prayer bpn1634 in Íslenska (bpn1634)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1635 in Íslenska (bpn1635) 
+Prayer bpn1635 (bpn1635) 
 
 [bahaiprayers.net 1635](https://bahaiprayers.net/Book/Single/2/1635)
 
@@ -706,7 +706,7 @@ Prayer bpn1635 in Íslenska (bpn1635)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1636 in Íslenska (bpn1636) 
+Prayer bpn1636 (bpn1636) 
 
 [bahaiprayers.net 1636](https://bahaiprayers.net/Book/Single/2/1636)
 
@@ -719,7 +719,7 @@ Prayer bpn1636 in Íslenska (bpn1636)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1637 in Íslenska (bpn1637) 
+Prayer bpn1637 (bpn1637) 
 
 [bahaiprayers.net 1637](https://bahaiprayers.net/Book/Single/2/1637)
 
@@ -736,7 +736,7 @@ Prayer bpn1637 in Íslenska (bpn1637)
 
 -- Bahá'u'lláh
 
-Prayer bpn1618 in Íslenska (bpn1618) 
+Prayer bpn1618 (bpn1618) 
 
 [bahaiprayers.net 1618](https://bahaiprayers.net/Book/Single/2/1618)
 
@@ -749,7 +749,7 @@ Prayer bpn1618 in Íslenska (bpn1618)
 
 -- Bahá'u'lláh
 
-Prayer bpn8375 in Íslenska (bpn8375) 
+Prayer bpn8375 (bpn8375) 
 
 [bahaiprayers.net 8375](https://bahaiprayers.net/Book/Single/2/8375)
 
@@ -762,7 +762,7 @@ Prayer bpn8375 in Íslenska (bpn8375)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1627 in Íslenska (bpn1627) 
+Prayer bpn1627 (bpn1627) 
 
 [bahaiprayers.net 1627](https://bahaiprayers.net/Book/Single/2/1627)
 
@@ -775,7 +775,7 @@ Prayer bpn1627 in Íslenska (bpn1627)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1628 in Íslenska (bpn1628) 
+Prayer bpn1628 (bpn1628) 
 
 [bahaiprayers.net 1628](https://bahaiprayers.net/Book/Single/2/1628)
 
@@ -788,7 +788,7 @@ Prayer bpn1628 in Íslenska (bpn1628)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1619 in Íslenska (bpn1619) 
+Prayer bpn1619 (bpn1619) 
 
 [bahaiprayers.net 1619](https://bahaiprayers.net/Book/Single/2/1619)
 
@@ -801,7 +801,7 @@ Prayer bpn1619 in Íslenska (bpn1619)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8376 in Íslenska (bpn8376) 
+Prayer bpn8376 (bpn8376) 
 
 [bahaiprayers.net 8376](https://bahaiprayers.net/Book/Single/2/8376)
 
@@ -814,7 +814,7 @@ Prayer bpn8376 in Íslenska (bpn8376)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8377 in Íslenska (bpn8377) 
+Prayer bpn8377 (bpn8377) 
 
 [bahaiprayers.net 8377](https://bahaiprayers.net/Book/Single/2/8377)
 
@@ -827,7 +827,7 @@ Prayer bpn8377 in Íslenska (bpn8377)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1620 in Íslenska (bpn1620) 
+Prayer bpn1620 (bpn1620) 
 
 [bahaiprayers.net 1620](https://bahaiprayers.net/Book/Single/2/1620)
 
@@ -840,7 +840,7 @@ Prayer bpn1620 in Íslenska (bpn1620)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1621 in Íslenska (bpn1621) 
+Prayer bpn1621 (bpn1621) 
 
 [bahaiprayers.net 1621](https://bahaiprayers.net/Book/Single/2/1621)
 
@@ -853,7 +853,7 @@ Prayer bpn1621 in Íslenska (bpn1621)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1622 in Íslenska (bpn1622) 
+Prayer bpn1622 (bpn1622) 
 
 [bahaiprayers.net 1622](https://bahaiprayers.net/Book/Single/2/1622)
 
@@ -866,7 +866,7 @@ Prayer bpn1622 in Íslenska (bpn1622)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1623 in Íslenska (bpn1623) 
+Prayer bpn1623 (bpn1623) 
 
 [bahaiprayers.net 1623](https://bahaiprayers.net/Book/Single/2/1623)
 
@@ -879,7 +879,7 @@ Prayer bpn1623 in Íslenska (bpn1623)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1624 in Íslenska (bpn1624) 
+Prayer bpn1624 (bpn1624) 
 
 [bahaiprayers.net 1624](https://bahaiprayers.net/Book/Single/2/1624)
 
@@ -892,7 +892,7 @@ Prayer bpn1624 in Íslenska (bpn1624)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1625 in Íslenska (bpn1625) 
+Prayer bpn1625 (bpn1625) 
 
 [bahaiprayers.net 1625](https://bahaiprayers.net/Book/Single/2/1625)
 
@@ -905,7 +905,7 @@ Prayer bpn1625 in Íslenska (bpn1625)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1626 in Íslenska (bpn1626) 
+Prayer bpn1626 (bpn1626) 
 
 [bahaiprayers.net 1626](https://bahaiprayers.net/Book/Single/2/1626)
 
@@ -918,7 +918,7 @@ Prayer bpn1626 in Íslenska (bpn1626)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1629 in Íslenska (bpn1629) 
+Prayer bpn1629 (bpn1629) 
 
 [bahaiprayers.net 1629](https://bahaiprayers.net/Book/Single/2/1629)
 
@@ -931,7 +931,7 @@ Prayer bpn1629 in Íslenska (bpn1629)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1630 in Íslenska (bpn1630) 
+Prayer bpn1630 (bpn1630) 
 
 [bahaiprayers.net 1630](https://bahaiprayers.net/Book/Single/2/1630)
 
@@ -944,7 +944,7 @@ Prayer bpn1630 in Íslenska (bpn1630)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1631 in Íslenska (bpn1631) 
+Prayer bpn1631 (bpn1631) 
 
 [bahaiprayers.net 1631](https://bahaiprayers.net/Book/Single/2/1631)
 
@@ -961,7 +961,7 @@ Prayer bpn1631 in Íslenska (bpn1631)
 
 -- Bahá'u'lláh
 
-Prayer bpn1639 in Íslenska (bpn1639) 
+Prayer bpn1639 (bpn1639) 
 
 [bahaiprayers.net 1639](https://bahaiprayers.net/Book/Single/2/1639)
 
@@ -974,7 +974,7 @@ Prayer bpn1639 in Íslenska (bpn1639)
 
 -- Bahá'u'lláh
 
-Prayer bpn1638 in Íslenska (bpn1638) 
+Prayer bpn1638 (bpn1638) 
 
 [bahaiprayers.net 1638](https://bahaiprayers.net/Book/Single/2/1638)
 
@@ -987,7 +987,7 @@ Prayer bpn1638 in Íslenska (bpn1638)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1640 in Íslenska (bpn1640) 
+Prayer bpn1640 (bpn1640) 
 
 [bahaiprayers.net 1640](https://bahaiprayers.net/Book/Single/2/1640)
 
@@ -1004,7 +1004,7 @@ Prayer bpn1640 in Íslenska (bpn1640)
 
 -- Bahá'u'lláh
 
-Prayer bpn1763 in Íslenska (bpn1763) 
+Prayer bpn1763 (bpn1763) 
 
 [bahaiprayers.net 1763](https://bahaiprayers.net/Book/Single/2/1763)
 
@@ -1021,7 +1021,7 @@ Prayer bpn1763 in Íslenska (bpn1763)
 
 -- Bahá'u'lláh
 
-Prayer bpn1641 in Íslenska (bpn1641) 
+Prayer bpn1641 (bpn1641) 
 
 [bahaiprayers.net 1641](https://bahaiprayers.net/Book/Single/2/1641)
 
@@ -1034,7 +1034,7 @@ Prayer bpn1641 in Íslenska (bpn1641)
 
 -- Bahá'u'lláh
 
-Prayer bpn1642 in Íslenska (bpn1642) 
+Prayer bpn1642 (bpn1642) 
 
 [bahaiprayers.net 1642](https://bahaiprayers.net/Book/Single/2/1642)
 
@@ -1047,7 +1047,7 @@ Prayer bpn1642 in Íslenska (bpn1642)
 
 -- Bahá'u'lláh
 
-Prayer bpn1643 in Íslenska (bpn1643) 
+Prayer bpn1643 (bpn1643) 
 
 [bahaiprayers.net 1643](https://bahaiprayers.net/Book/Single/2/1643)
 
@@ -1060,7 +1060,7 @@ Prayer bpn1643 in Íslenska (bpn1643)
 
 -- Báb
 
-Prayer bpn1644 in Íslenska (bpn1644) 
+Prayer bpn1644 (bpn1644) 
 
 [bahaiprayers.net 1644](https://bahaiprayers.net/Book/Single/2/1644)
 
@@ -1077,7 +1077,7 @@ Prayer bpn1644 in Íslenska (bpn1644)
 
 -- Bahá'u'lláh
 
-Prayer bpn1767 in Íslenska (bpn1767) 
+Prayer bpn1767 (bpn1767) 
 
 [bahaiprayers.net 1767](https://bahaiprayers.net/Book/Single/2/1767)
 
@@ -1090,7 +1090,7 @@ Prayer bpn1767 in Íslenska (bpn1767)
 
 -- Bahá'u'lláh
 
-Prayer bpn1768 in Íslenska (bpn1768) 
+Prayer bpn1768 (bpn1768) 
 
 [bahaiprayers.net 1768](https://bahaiprayers.net/Book/Single/2/1768)
 
@@ -1103,7 +1103,7 @@ Prayer bpn1768 in Íslenska (bpn1768)
 
 -- Bahá'u'lláh
 
-Prayer bpn1769 in Íslenska (bpn1769) 
+Prayer bpn1769 (bpn1769) 
 
 [bahaiprayers.net 1769](https://bahaiprayers.net/Book/Single/2/1769)
 
@@ -1116,7 +1116,7 @@ Prayer bpn1769 in Íslenska (bpn1769)
 
 -- Bahá'u'lláh
 
-Prayer bpn1770 in Íslenska (bpn1770) 
+Prayer bpn1770 (bpn1770) 
 
 [bahaiprayers.net 1770](https://bahaiprayers.net/Book/Single/2/1770)
 
@@ -1133,7 +1133,7 @@ Prayer bpn1770 in Íslenska (bpn1770)
 
 -- Báb
 
-Prayer bpn1645 in Íslenska (bpn1645) 
+Prayer bpn1645 (bpn1645) 
 
 [bahaiprayers.net 1645](https://bahaiprayers.net/Book/Single/2/1645)
 
@@ -1146,7 +1146,7 @@ Prayer bpn1645 in Íslenska (bpn1645)
 
 -- Báb
 
-Prayer bpn1646 in Íslenska (bpn1646) 
+Prayer bpn1646 (bpn1646) 
 
 [bahaiprayers.net 1646](https://bahaiprayers.net/Book/Single/2/1646)
 
@@ -1159,7 +1159,7 @@ Prayer bpn1646 in Íslenska (bpn1646)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1647 in Íslenska (bpn1647) 
+Prayer bpn1647 (bpn1647) 
 
 [bahaiprayers.net 1647](https://bahaiprayers.net/Book/Single/2/1647)
 
@@ -1172,7 +1172,7 @@ Prayer bpn1647 in Íslenska (bpn1647)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1648 in Íslenska (bpn1648) 
+Prayer bpn1648 (bpn1648) 
 
 [bahaiprayers.net 1648](https://bahaiprayers.net/Book/Single/2/1648)
 
@@ -1185,7 +1185,7 @@ Prayer bpn1648 in Íslenska (bpn1648)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1649 in Íslenska (bpn1649) 
+Prayer bpn1649 (bpn1649) 
 
 [bahaiprayers.net 1649](https://bahaiprayers.net/Book/Single/2/1649)
 
@@ -1202,7 +1202,7 @@ Prayer bpn1649 in Íslenska (bpn1649)
 
 -- Bahá'u'lláh
 
-Prayer bpn1650 in Íslenska (bpn1650) 
+Prayer bpn1650 (bpn1650) 
 
 [bahaiprayers.net 1650](https://bahaiprayers.net/Book/Single/2/1650)
 
@@ -1215,7 +1215,7 @@ Prayer bpn1650 in Íslenska (bpn1650)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1651 in Íslenska (bpn1651) 
+Prayer bpn1651 (bpn1651) 
 
 [bahaiprayers.net 1651](https://bahaiprayers.net/Book/Single/2/1651)
 
@@ -1228,7 +1228,7 @@ Prayer bpn1651 in Íslenska (bpn1651)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1652 in Íslenska (bpn1652) 
+Prayer bpn1652 (bpn1652) 
 
 [bahaiprayers.net 1652](https://bahaiprayers.net/Book/Single/2/1652)
 
@@ -1241,7 +1241,7 @@ Prayer bpn1652 in Íslenska (bpn1652)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1653 in Íslenska (bpn1653) 
+Prayer bpn1653 (bpn1653) 
 
 [bahaiprayers.net 1653](https://bahaiprayers.net/Book/Single/2/1653)
 
@@ -1254,7 +1254,7 @@ Prayer bpn1653 in Íslenska (bpn1653)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1654 in Íslenska (bpn1654) 
+Prayer bpn1654 (bpn1654) 
 
 [bahaiprayers.net 1654](https://bahaiprayers.net/Book/Single/2/1654)
 
@@ -1267,7 +1267,7 @@ Prayer bpn1654 in Íslenska (bpn1654)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1655 in Íslenska (bpn1655) 
+Prayer bpn1655 (bpn1655) 
 
 [bahaiprayers.net 1655](https://bahaiprayers.net/Book/Single/2/1655)
 
@@ -1284,7 +1284,7 @@ Prayer bpn1655 in Íslenska (bpn1655)
 
 -- Bahá'u'lláh
 
-Prayer bpn1656 in Íslenska (bpn1656) 
+Prayer bpn1656 (bpn1656) 
 
 [bahaiprayers.net 1656](https://bahaiprayers.net/Book/Single/2/1656)
 
@@ -1297,7 +1297,7 @@ Prayer bpn1656 in Íslenska (bpn1656)
 
 -- Bahá'u'lláh
 
-Prayer bpn1657 in Íslenska (bpn1657) 
+Prayer bpn1657 (bpn1657) 
 
 [bahaiprayers.net 1657](https://bahaiprayers.net/Book/Single/2/1657)
 
@@ -1310,7 +1310,7 @@ Prayer bpn1657 in Íslenska (bpn1657)
 
 -- Bahá'u'lláh
 
-Prayer bpn1658 in Íslenska (bpn1658) 
+Prayer bpn1658 (bpn1658) 
 
 [bahaiprayers.net 1658](https://bahaiprayers.net/Book/Single/2/1658)
 
@@ -1323,7 +1323,7 @@ Prayer bpn1658 in Íslenska (bpn1658)
 
 -- Bahá'u'lláh
 
-Prayer bpn1659 in Íslenska (bpn1659) 
+Prayer bpn1659 (bpn1659) 
 
 [bahaiprayers.net 1659](https://bahaiprayers.net/Book/Single/2/1659)
 
@@ -1336,7 +1336,7 @@ Prayer bpn1659 in Íslenska (bpn1659)
 
 -- Bahá'u'lláh
 
-Prayer bpn1660 in Íslenska (bpn1660) 
+Prayer bpn1660 (bpn1660) 
 
 [bahaiprayers.net 1660](https://bahaiprayers.net/Book/Single/2/1660)
 
@@ -1349,7 +1349,7 @@ Prayer bpn1660 in Íslenska (bpn1660)
 
 -- Bahá'u'lláh
 
-Prayer bpn1661 in Íslenska (bpn1661) 
+Prayer bpn1661 (bpn1661) 
 
 [bahaiprayers.net 1661](https://bahaiprayers.net/Book/Single/2/1661)
 
@@ -1362,7 +1362,7 @@ Prayer bpn1661 in Íslenska (bpn1661)
 
 -- Báb
 
-Prayer bpn1662 in Íslenska (bpn1662) 
+Prayer bpn1662 (bpn1662) 
 
 [bahaiprayers.net 1662](https://bahaiprayers.net/Book/Single/2/1662)
 
@@ -1375,7 +1375,7 @@ Prayer bpn1662 in Íslenska (bpn1662)
 
 -- Báb
 
-Prayer bpn1663 in Íslenska (bpn1663) 
+Prayer bpn1663 (bpn1663) 
 
 [bahaiprayers.net 1663](https://bahaiprayers.net/Book/Single/2/1663)
 
@@ -1388,7 +1388,7 @@ Prayer bpn1663 in Íslenska (bpn1663)
 
 -- Báb
 
-Prayer bpn1664 in Íslenska (bpn1664) 
+Prayer bpn1664 (bpn1664) 
 
 [bahaiprayers.net 1664](https://bahaiprayers.net/Book/Single/2/1664)
 
@@ -1401,7 +1401,7 @@ Prayer bpn1664 in Íslenska (bpn1664)
 
 -- Báb
 
-Prayer bpn1665 in Íslenska (bpn1665) 
+Prayer bpn1665 (bpn1665) 
 
 [bahaiprayers.net 1665](https://bahaiprayers.net/Book/Single/2/1665)
 
@@ -1414,7 +1414,7 @@ Prayer bpn1665 in Íslenska (bpn1665)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1666 in Íslenska (bpn1666) 
+Prayer bpn1666 (bpn1666) 
 
 [bahaiprayers.net 1666](https://bahaiprayers.net/Book/Single/2/1666)
 
@@ -1431,7 +1431,7 @@ Prayer bpn1666 in Íslenska (bpn1666)
 
 -- Bahá'u'lláh
 
-Prayer bpn1667 in Íslenska (bpn1667) 
+Prayer bpn1667 (bpn1667) 
 
 [bahaiprayers.net 1667](https://bahaiprayers.net/Book/Single/2/1667)
 
@@ -1444,7 +1444,7 @@ Prayer bpn1667 in Íslenska (bpn1667)
 
 -- Bahá'u'lláh
 
-Prayer bpn1668 in Íslenska (bpn1668) 
+Prayer bpn1668 (bpn1668) 
 
 [bahaiprayers.net 1668](https://bahaiprayers.net/Book/Single/2/1668)
 
@@ -1457,7 +1457,7 @@ Prayer bpn1668 in Íslenska (bpn1668)
 
 -- Bahá'u'lláh
 
-Prayer bpn1669 in Íslenska (bpn1669) 
+Prayer bpn1669 (bpn1669) 
 
 [bahaiprayers.net 1669](https://bahaiprayers.net/Book/Single/2/1669)
 
@@ -1470,7 +1470,7 @@ Prayer bpn1669 in Íslenska (bpn1669)
 
 -- Bahá'u'lláh
 
-Prayer bpn1670 in Íslenska (bpn1670) 
+Prayer bpn1670 (bpn1670) 
 
 [bahaiprayers.net 1670](https://bahaiprayers.net/Book/Single/2/1670)
 
@@ -1483,7 +1483,7 @@ Prayer bpn1670 in Íslenska (bpn1670)
 
 -- Bahá'u'lláh
 
-Prayer bpn1671 in Íslenska (bpn1671) 
+Prayer bpn1671 (bpn1671) 
 
 [bahaiprayers.net 1671](https://bahaiprayers.net/Book/Single/2/1671)
 
@@ -1496,7 +1496,7 @@ Prayer bpn1671 in Íslenska (bpn1671)
 
 -- Bahá'u'lláh
 
-Prayer bpn1672 in Íslenska (bpn1672) 
+Prayer bpn1672 (bpn1672) 
 
 [bahaiprayers.net 1672](https://bahaiprayers.net/Book/Single/2/1672)
 
@@ -1509,7 +1509,7 @@ Prayer bpn1672 in Íslenska (bpn1672)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9107 in Íslenska (bpn9107) 
+Prayer bpn9107 (bpn9107) 
 
 [bahaiprayers.net 9107](https://bahaiprayers.net/Book/Single/2/9107)
 
@@ -1526,7 +1526,7 @@ Prayer bpn9107 in Íslenska (bpn9107)
 
 -- Bahá'u'lláh
 
-Prayer bpn1673 in Íslenska (bpn1673) 
+Prayer bpn1673 (bpn1673) 
 
 [bahaiprayers.net 1673](https://bahaiprayers.net/Book/Single/2/1673)
 
@@ -1539,7 +1539,7 @@ Prayer bpn1673 in Íslenska (bpn1673)
 
 -- Bahá'u'lláh
 
-Prayer bpn1674 in Íslenska (bpn1674) 
+Prayer bpn1674 (bpn1674) 
 
 [bahaiprayers.net 1674](https://bahaiprayers.net/Book/Single/2/1674)
 
@@ -1552,7 +1552,7 @@ Prayer bpn1674 in Íslenska (bpn1674)
 
 -- Báb
 
-Prayer bpn1675 in Íslenska (bpn1675) 
+Prayer bpn1675 (bpn1675) 
 
 [bahaiprayers.net 1675](https://bahaiprayers.net/Book/Single/2/1675)
 
@@ -1565,7 +1565,7 @@ Prayer bpn1675 in Íslenska (bpn1675)
 
 -- Báb
 
-Prayer bpn1676 in Íslenska (bpn1676) 
+Prayer bpn1676 (bpn1676) 
 
 [bahaiprayers.net 1676](https://bahaiprayers.net/Book/Single/2/1676)
 
@@ -1578,7 +1578,7 @@ Prayer bpn1676 in Íslenska (bpn1676)
 
 -- Báb
 
-Prayer bpn1677 in Íslenska (bpn1677) 
+Prayer bpn1677 (bpn1677) 
 
 [bahaiprayers.net 1677](https://bahaiprayers.net/Book/Single/2/1677)
 
@@ -1591,7 +1591,7 @@ Prayer bpn1677 in Íslenska (bpn1677)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1678 in Íslenska (bpn1678) 
+Prayer bpn1678 (bpn1678) 
 
 [bahaiprayers.net 1678](https://bahaiprayers.net/Book/Single/2/1678)
 
@@ -1604,7 +1604,7 @@ Prayer bpn1678 in Íslenska (bpn1678)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1679 in Íslenska (bpn1679) 
+Prayer bpn1679 (bpn1679) 
 
 [bahaiprayers.net 1679](https://bahaiprayers.net/Book/Single/2/1679)
 
@@ -1617,7 +1617,7 @@ Prayer bpn1679 in Íslenska (bpn1679)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1680 in Íslenska (bpn1680) 
+Prayer bpn1680 (bpn1680) 
 
 [bahaiprayers.net 1680](https://bahaiprayers.net/Book/Single/2/1680)
 
@@ -1630,7 +1630,7 @@ Prayer bpn1680 in Íslenska (bpn1680)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1681 in Íslenska (bpn1681) 
+Prayer bpn1681 (bpn1681) 
 
 [bahaiprayers.net 1681](https://bahaiprayers.net/Book/Single/2/1681)
 
@@ -1643,7 +1643,7 @@ Prayer bpn1681 in Íslenska (bpn1681)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1682 in Íslenska (bpn1682) 
+Prayer bpn1682 (bpn1682) 
 
 [bahaiprayers.net 1682](https://bahaiprayers.net/Book/Single/2/1682)
 
@@ -1660,7 +1660,7 @@ Prayer bpn1682 in Íslenska (bpn1682)
 
 -- Bahá'u'lláh
 
-Prayer bpn1684 in Íslenska (bpn1684) 
+Prayer bpn1684 (bpn1684) 
 
 [bahaiprayers.net 1684](https://bahaiprayers.net/Book/Single/2/1684)
 
@@ -1673,7 +1673,7 @@ Prayer bpn1684 in Íslenska (bpn1684)
 
 -- Bahá'u'lláh
 
-Prayer bpn10118 in Íslenska (bpn10118) 
+Prayer bpn10118 (bpn10118) 
 
 [bahaiprayers.net 10118](https://bahaiprayers.net/Book/Single/2/10118)
 
@@ -1686,7 +1686,7 @@ Prayer bpn10118 in Íslenska (bpn10118)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1683 in Íslenska (bpn1683) 
+Prayer bpn1683 (bpn1683) 
 
 [bahaiprayers.net 1683](https://bahaiprayers.net/Book/Single/2/1683)
 
@@ -1699,7 +1699,7 @@ Prayer bpn1683 in Íslenska (bpn1683)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1685 in Íslenska (bpn1685) 
+Prayer bpn1685 (bpn1685) 
 
 [bahaiprayers.net 1685](https://bahaiprayers.net/Book/Single/2/1685)
 
@@ -1712,7 +1712,7 @@ Prayer bpn1685 in Íslenska (bpn1685)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1686 in Íslenska (bpn1686) 
+Prayer bpn1686 (bpn1686) 
 
 [bahaiprayers.net 1686](https://bahaiprayers.net/Book/Single/2/1686)
 
@@ -1725,7 +1725,7 @@ Prayer bpn1686 in Íslenska (bpn1686)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1687 in Íslenska (bpn1687) 
+Prayer bpn1687 (bpn1687) 
 
 [bahaiprayers.net 1687](https://bahaiprayers.net/Book/Single/2/1687)
 
@@ -1742,7 +1742,7 @@ Prayer bpn1687 in Íslenska (bpn1687)
 
 -- Bahá'u'lláh
 
-Prayer bpn1688 in Íslenska (bpn1688) 
+Prayer bpn1688 (bpn1688) 
 
 [bahaiprayers.net 1688](https://bahaiprayers.net/Book/Single/2/1688)
 
@@ -1755,7 +1755,7 @@ Prayer bpn1688 in Íslenska (bpn1688)
 
 -- Bahá'u'lláh
 
-Prayer bpn1689 in Íslenska (bpn1689) 
+Prayer bpn1689 (bpn1689) 
 
 [bahaiprayers.net 1689](https://bahaiprayers.net/Book/Single/2/1689)
 
@@ -1768,7 +1768,7 @@ Prayer bpn1689 in Íslenska (bpn1689)
 
 -- Bahá'u'lláh
 
-Prayer bpn1690 in Íslenska (bpn1690) 
+Prayer bpn1690 (bpn1690) 
 
 [bahaiprayers.net 1690](https://bahaiprayers.net/Book/Single/2/1690)
 
@@ -1781,7 +1781,7 @@ Prayer bpn1690 in Íslenska (bpn1690)
 
 -- Bahá'u'lláh
 
-Prayer bpn1691 in Íslenska (bpn1691) 
+Prayer bpn1691 (bpn1691) 
 
 [bahaiprayers.net 1691](https://bahaiprayers.net/Book/Single/2/1691)
 
@@ -1794,7 +1794,7 @@ Prayer bpn1691 in Íslenska (bpn1691)
 
 -- Bahá'u'lláh
 
-Prayer bpn1692 in Íslenska (bpn1692) 
+Prayer bpn1692 (bpn1692) 
 
 [bahaiprayers.net 1692](https://bahaiprayers.net/Book/Single/2/1692)
 
@@ -1807,7 +1807,7 @@ Prayer bpn1692 in Íslenska (bpn1692)
 
 -- Bahá'u'lláh
 
-Prayer bpn1693 in Íslenska (bpn1693) 
+Prayer bpn1693 (bpn1693) 
 
 [bahaiprayers.net 1693](https://bahaiprayers.net/Book/Single/2/1693)
 
@@ -1820,7 +1820,7 @@ Prayer bpn1693 in Íslenska (bpn1693)
 
 -- Bahá'u'lláh
 
-Prayer bpn1694 in Íslenska (bpn1694) 
+Prayer bpn1694 (bpn1694) 
 
 [bahaiprayers.net 1694](https://bahaiprayers.net/Book/Single/2/1694)
 
@@ -1833,7 +1833,7 @@ Prayer bpn1694 in Íslenska (bpn1694)
 
 -- Bahá'u'lláh
 
-Prayer bpn1695 in Íslenska (bpn1695) 
+Prayer bpn1695 (bpn1695) 
 
 [bahaiprayers.net 1695](https://bahaiprayers.net/Book/Single/2/1695)
 
@@ -1846,7 +1846,7 @@ Prayer bpn1695 in Íslenska (bpn1695)
 
 -- Bahá'u'lláh
 
-Prayer bpn1696 in Íslenska (bpn1696) 
+Prayer bpn1696 (bpn1696) 
 
 [bahaiprayers.net 1696](https://bahaiprayers.net/Book/Single/2/1696)
 
@@ -1859,7 +1859,7 @@ Prayer bpn1696 in Íslenska (bpn1696)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1697 in Íslenska (bpn1697) 
+Prayer bpn1697 (bpn1697) 
 
 [bahaiprayers.net 1697](https://bahaiprayers.net/Book/Single/2/1697)
 
@@ -1872,7 +1872,7 @@ Prayer bpn1697 in Íslenska (bpn1697)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1698 in Íslenska (bpn1698) 
+Prayer bpn1698 (bpn1698) 
 
 [bahaiprayers.net 1698](https://bahaiprayers.net/Book/Single/2/1698)
 
@@ -1885,7 +1885,7 @@ Prayer bpn1698 in Íslenska (bpn1698)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1699 in Íslenska (bpn1699) 
+Prayer bpn1699 (bpn1699) 
 
 [bahaiprayers.net 1699](https://bahaiprayers.net/Book/Single/2/1699)
 
@@ -1898,7 +1898,7 @@ Prayer bpn1699 in Íslenska (bpn1699)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1700 in Íslenska (bpn1700) 
+Prayer bpn1700 (bpn1700) 
 
 [bahaiprayers.net 1700](https://bahaiprayers.net/Book/Single/2/1700)
 
@@ -1911,7 +1911,7 @@ Prayer bpn1700 in Íslenska (bpn1700)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1701 in Íslenska (bpn1701) 
+Prayer bpn1701 (bpn1701) 
 
 [bahaiprayers.net 1701](https://bahaiprayers.net/Book/Single/2/1701)
 
@@ -1924,7 +1924,7 @@ Prayer bpn1701 in Íslenska (bpn1701)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1702 in Íslenska (bpn1702) 
+Prayer bpn1702 (bpn1702) 
 
 [bahaiprayers.net 1702](https://bahaiprayers.net/Book/Single/2/1702)
 
@@ -1937,7 +1937,7 @@ Prayer bpn1702 in Íslenska (bpn1702)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1703 in Íslenska (bpn1703) 
+Prayer bpn1703 (bpn1703) 
 
 [bahaiprayers.net 1703](https://bahaiprayers.net/Book/Single/2/1703)
 
@@ -1950,7 +1950,7 @@ Prayer bpn1703 in Íslenska (bpn1703)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1704 in Íslenska (bpn1704) 
+Prayer bpn1704 (bpn1704) 
 
 [bahaiprayers.net 1704](https://bahaiprayers.net/Book/Single/2/1704)
 
@@ -1967,7 +1967,7 @@ Prayer bpn1704 in Íslenska (bpn1704)
 
 -- Bahá'u'lláh
 
-Prayer bpn1705 in Íslenska (bpn1705) 
+Prayer bpn1705 (bpn1705) 
 
 [bahaiprayers.net 1705](https://bahaiprayers.net/Book/Single/2/1705)
 
@@ -1980,7 +1980,7 @@ Prayer bpn1705 in Íslenska (bpn1705)
 
 -- Bahá'u'lláh
 
-Prayer bpn1706 in Íslenska (bpn1706) 
+Prayer bpn1706 (bpn1706) 
 
 [bahaiprayers.net 1706](https://bahaiprayers.net/Book/Single/2/1706)
 
@@ -1993,7 +1993,7 @@ Prayer bpn1706 in Íslenska (bpn1706)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1707 in Íslenska (bpn1707) 
+Prayer bpn1707 (bpn1707) 
 
 [bahaiprayers.net 1707](https://bahaiprayers.net/Book/Single/2/1707)
 
@@ -2010,7 +2010,7 @@ Prayer bpn1707 in Íslenska (bpn1707)
 
 -- Bahá'u'lláh
 
-Prayer bpn1577 in Íslenska (bpn1577) 
+Prayer bpn1577 (bpn1577) 
 
 [bahaiprayers.net 1577](https://bahaiprayers.net/Book/Single/2/1577)
 
@@ -2027,7 +2027,7 @@ Prayer bpn1577 in Íslenska (bpn1577)
 
 -- Bahá'u'lláh
 
-Prayer bpn4375 in Íslenska (bpn4375) 
+Prayer bpn4375 (bpn4375) 
 
 [bahaiprayers.net 4375](https://bahaiprayers.net/Book/Single/2/4375)
 
@@ -2044,7 +2044,7 @@ Prayer bpn4375 in Íslenska (bpn4375)
 
 -- Bahá'u'lláh
 
-Prayer bpn8373 in Íslenska (bpn8373) 
+Prayer bpn8373 (bpn8373) 
 
 [bahaiprayers.net 8373](https://bahaiprayers.net/Book/Single/2/8373)
 
@@ -2057,7 +2057,7 @@ Prayer bpn8373 in Íslenska (bpn8373)
 
 -- Bahá'u'lláh
 
-Prayer bpn1708 in Íslenska (bpn1708) 
+Prayer bpn1708 (bpn1708) 
 
 [bahaiprayers.net 1708](https://bahaiprayers.net/Book/Single/2/1708)
 
@@ -2070,7 +2070,7 @@ Prayer bpn1708 in Íslenska (bpn1708)
 
 -- Bahá'u'lláh
 
-Prayer bpn1709 in Íslenska (bpn1709) 
+Prayer bpn1709 (bpn1709) 
 
 [bahaiprayers.net 1709](https://bahaiprayers.net/Book/Single/2/1709)
 
@@ -2083,7 +2083,7 @@ Prayer bpn1709 in Íslenska (bpn1709)
 
 -- Bahá'u'lláh
 
-Prayer bpn10178 in Íslenska (bpn10178) 
+Prayer bpn10178 (bpn10178) 
 
 [bahaiprayers.net 10178](https://bahaiprayers.net/Book/Single/2/10178)
 
@@ -2096,7 +2096,7 @@ Prayer bpn10178 in Íslenska (bpn10178)
 
 -- Bahá'u'lláh
 
-Prayer bpn1710 in Íslenska (bpn1710) 
+Prayer bpn1710 (bpn1710) 
 
 [bahaiprayers.net 1710](https://bahaiprayers.net/Book/Single/2/1710)
 
@@ -2109,7 +2109,7 @@ Prayer bpn1710 in Íslenska (bpn1710)
 
 -- Bahá'u'lláh
 
-Prayer bpn1711 in Íslenska (bpn1711) 
+Prayer bpn1711 (bpn1711) 
 
 [bahaiprayers.net 1711](https://bahaiprayers.net/Book/Single/2/1711)
 
@@ -2122,7 +2122,7 @@ Prayer bpn1711 in Íslenska (bpn1711)
 
 -- Bahá'u'lláh
 
-Prayer bpn1713 in Íslenska (bpn1713) 
+Prayer bpn1713 (bpn1713) 
 
 [bahaiprayers.net 1713](https://bahaiprayers.net/Book/Single/2/1713)
 
@@ -2135,7 +2135,7 @@ Prayer bpn1713 in Íslenska (bpn1713)
 
 -- Bahá'u'lláh
 
-Prayer bpn1714 in Íslenska (bpn1714) 
+Prayer bpn1714 (bpn1714) 
 
 [bahaiprayers.net 1714](https://bahaiprayers.net/Book/Single/2/1714)
 
@@ -2148,7 +2148,7 @@ Prayer bpn1714 in Íslenska (bpn1714)
 
 -- Bahá'u'lláh
 
-Prayer bpn1715 in Íslenska (bpn1715) 
+Prayer bpn1715 (bpn1715) 
 
 [bahaiprayers.net 1715](https://bahaiprayers.net/Book/Single/2/1715)
 
@@ -2161,7 +2161,7 @@ Prayer bpn1715 in Íslenska (bpn1715)
 
 -- Bahá'u'lláh
 
-Prayer bpn1716 in Íslenska (bpn1716) 
+Prayer bpn1716 (bpn1716) 
 
 [bahaiprayers.net 1716](https://bahaiprayers.net/Book/Single/2/1716)
 
@@ -2174,7 +2174,7 @@ Prayer bpn1716 in Íslenska (bpn1716)
 
 -- Bahá'u'lláh
 
-Prayer bpn1717 in Íslenska (bpn1717) 
+Prayer bpn1717 (bpn1717) 
 
 [bahaiprayers.net 1717](https://bahaiprayers.net/Book/Single/2/1717)
 
@@ -2187,7 +2187,7 @@ Prayer bpn1717 in Íslenska (bpn1717)
 
 -- Bahá'u'lláh
 
-Prayer bpn1718 in Íslenska (bpn1718) 
+Prayer bpn1718 (bpn1718) 
 
 [bahaiprayers.net 1718](https://bahaiprayers.net/Book/Single/2/1718)
 
@@ -2200,7 +2200,7 @@ Prayer bpn1718 in Íslenska (bpn1718)
 
 -- Báb
 
-Prayer bpn1712 in Íslenska (bpn1712) 
+Prayer bpn1712 (bpn1712) 
 
 [bahaiprayers.net 1712](https://bahaiprayers.net/Book/Single/2/1712)
 
@@ -2217,7 +2217,7 @@ Prayer bpn1712 in Íslenska (bpn1712)
 
 -- Bahá'u'lláh
 
-Prayer bpn1719 in Íslenska (bpn1719) 
+Prayer bpn1719 (bpn1719) 
 
 [bahaiprayers.net 1719](https://bahaiprayers.net/Book/Single/2/1719)
 
@@ -2230,7 +2230,7 @@ Prayer bpn1719 in Íslenska (bpn1719)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1720 in Íslenska (bpn1720) 
+Prayer bpn1720 (bpn1720) 
 
 [bahaiprayers.net 1720](https://bahaiprayers.net/Book/Single/2/1720)
 
@@ -2243,7 +2243,7 @@ Prayer bpn1720 in Íslenska (bpn1720)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1721 in Íslenska (bpn1721) 
+Prayer bpn1721 (bpn1721) 
 
 [bahaiprayers.net 1721](https://bahaiprayers.net/Book/Single/2/1721)
 
@@ -2256,7 +2256,7 @@ Prayer bpn1721 in Íslenska (bpn1721)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1722 in Íslenska (bpn1722) 
+Prayer bpn1722 (bpn1722) 
 
 [bahaiprayers.net 1722](https://bahaiprayers.net/Book/Single/2/1722)
 
@@ -2269,7 +2269,7 @@ Prayer bpn1722 in Íslenska (bpn1722)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1723 in Íslenska (bpn1723) 
+Prayer bpn1723 (bpn1723) 
 
 [bahaiprayers.net 1723](https://bahaiprayers.net/Book/Single/2/1723)
 
@@ -2286,7 +2286,7 @@ Prayer bpn1723 in Íslenska (bpn1723)
 
 -- Bahá'u'lláh
 
-Prayer bpn1724 in Íslenska (bpn1724) 
+Prayer bpn1724 (bpn1724) 
 
 [bahaiprayers.net 1724](https://bahaiprayers.net/Book/Single/2/1724)
 
@@ -2299,7 +2299,7 @@ Prayer bpn1724 in Íslenska (bpn1724)
 
 -- Bahá'u'lláh
 
-Prayer bpn1725 in Íslenska (bpn1725) 
+Prayer bpn1725 (bpn1725) 
 
 [bahaiprayers.net 1725](https://bahaiprayers.net/Book/Single/2/1725)
 
@@ -2312,7 +2312,7 @@ Prayer bpn1725 in Íslenska (bpn1725)
 
 -- Bahá'u'lláh
 
-Prayer bpn10179 in Íslenska (bpn10179) 
+Prayer bpn10179 (bpn10179) 
 
 [bahaiprayers.net 10179](https://bahaiprayers.net/Book/Single/2/10179)
 
@@ -2325,7 +2325,7 @@ Prayer bpn10179 in Íslenska (bpn10179)
 
 -- Bahá'u'lláh
 
-Prayer bpn1726 in Íslenska (bpn1726) 
+Prayer bpn1726 (bpn1726) 
 
 [bahaiprayers.net 1726](https://bahaiprayers.net/Book/Single/2/1726)
 
@@ -2338,7 +2338,7 @@ Prayer bpn1726 in Íslenska (bpn1726)
 
 -- Bahá'u'lláh
 
-Prayer bpn11242 in Íslenska (bpn11242) 
+Prayer bpn11242 (bpn11242) 
 
 [bahaiprayers.net 11242](https://bahaiprayers.net/Book/Single/2/11242)
 
@@ -2351,7 +2351,7 @@ Prayer bpn11242 in Íslenska (bpn11242)
 
 -- Báb
 
-Prayer bpn1728 in Íslenska (bpn1728) 
+Prayer bpn1728 (bpn1728) 
 
 [bahaiprayers.net 1728](https://bahaiprayers.net/Book/Single/2/1728)
 
@@ -2364,7 +2364,7 @@ Prayer bpn1728 in Íslenska (bpn1728)
 
 -- Báb
 
-Prayer bpn1727 in Íslenska (bpn1727) 
+Prayer bpn1727 (bpn1727) 
 
 [bahaiprayers.net 1727](https://bahaiprayers.net/Book/Single/2/1727)
 
@@ -2377,7 +2377,7 @@ Prayer bpn1727 in Íslenska (bpn1727)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1729 in Íslenska (bpn1729) 
+Prayer bpn1729 (bpn1729) 
 
 [bahaiprayers.net 1729](https://bahaiprayers.net/Book/Single/2/1729)
 
@@ -2394,7 +2394,7 @@ Prayer bpn1729 in Íslenska (bpn1729)
 
 -- Bahá'u'lláh
 
-Prayer bpn1730 in Íslenska (bpn1730) 
+Prayer bpn1730 (bpn1730) 
 
 [bahaiprayers.net 1730](https://bahaiprayers.net/Book/Single/2/1730)
 
@@ -2407,7 +2407,7 @@ Prayer bpn1730 in Íslenska (bpn1730)
 
 -- Bahá'u'lláh
 
-Prayer bpn1732 in Íslenska (bpn1732) 
+Prayer bpn1732 (bpn1732) 
 
 [bahaiprayers.net 1732](https://bahaiprayers.net/Book/Single/2/1732)
 
@@ -2420,7 +2420,7 @@ Prayer bpn1732 in Íslenska (bpn1732)
 
 -- Bahá'u'lláh
 
-Prayer bpn1733 in Íslenska (bpn1733) 
+Prayer bpn1733 (bpn1733) 
 
 [bahaiprayers.net 1733](https://bahaiprayers.net/Book/Single/2/1733)
 
@@ -2433,7 +2433,7 @@ Prayer bpn1733 in Íslenska (bpn1733)
 
 -- Bahá'u'lláh
 
-Prayer bpn1731 in Íslenska (bpn1731) 
+Prayer bpn1731 (bpn1731) 
 
 [bahaiprayers.net 1731](https://bahaiprayers.net/Book/Single/2/1731)
 
@@ -2450,7 +2450,7 @@ Prayer bpn1731 in Íslenska (bpn1731)
 
 -- Bahá'u'lláh
 
-Prayer bpn1771 in Íslenska (bpn1771) 
+Prayer bpn1771 (bpn1771) 
 
 [bahaiprayers.net 1771](https://bahaiprayers.net/Book/Single/2/1771)
 
@@ -2467,7 +2467,7 @@ Prayer bpn1771 in Íslenska (bpn1771)
 
 -- Bahá'u'lláh
 
-Prayer bpn1772 in Íslenska (bpn1772) 
+Prayer bpn1772 (bpn1772) 
 
 [bahaiprayers.net 1772](https://bahaiprayers.net/Book/Single/2/1772)
 
@@ -2484,7 +2484,7 @@ Prayer bpn1772 in Íslenska (bpn1772)
 
 -- Báb
 
-Prayer bpn1739 in Íslenska (bpn1739) 
+Prayer bpn1739 (bpn1739) 
 
 [bahaiprayers.net 1739](https://bahaiprayers.net/Book/Single/2/1739)
 
@@ -2497,7 +2497,7 @@ Prayer bpn1739 in Íslenska (bpn1739)
 
 -- Báb
 
-Prayer bpn1740 in Íslenska (bpn1740) 
+Prayer bpn1740 (bpn1740) 
 
 [bahaiprayers.net 1740](https://bahaiprayers.net/Book/Single/2/1740)
 
@@ -2510,7 +2510,7 @@ Prayer bpn1740 in Íslenska (bpn1740)
 
 -- Báb
 
-Prayer bpn1741 in Íslenska (bpn1741) 
+Prayer bpn1741 (bpn1741) 
 
 [bahaiprayers.net 1741](https://bahaiprayers.net/Book/Single/2/1741)
 
@@ -2523,7 +2523,7 @@ Prayer bpn1741 in Íslenska (bpn1741)
 
 -- Báb
 
-Prayer bpn1742 in Íslenska (bpn1742) 
+Prayer bpn1742 (bpn1742) 
 
 [bahaiprayers.net 1742](https://bahaiprayers.net/Book/Single/2/1742)
 
@@ -2536,7 +2536,7 @@ Prayer bpn1742 in Íslenska (bpn1742)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1743 in Íslenska (bpn1743) 
+Prayer bpn1743 (bpn1743) 
 
 [bahaiprayers.net 1743](https://bahaiprayers.net/Book/Single/2/1743)
 
@@ -2549,7 +2549,7 @@ Prayer bpn1743 in Íslenska (bpn1743)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1744 in Íslenska (bpn1744) 
+Prayer bpn1744 (bpn1744) 
 
 [bahaiprayers.net 1744](https://bahaiprayers.net/Book/Single/2/1744)
 
@@ -2566,7 +2566,7 @@ Prayer bpn1744 in Íslenska (bpn1744)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1745 in Íslenska (bpn1745) 
+Prayer bpn1745 (bpn1745) 
 
 [bahaiprayers.net 1745](https://bahaiprayers.net/Book/Single/2/1745)
 
@@ -2583,7 +2583,7 @@ Prayer bpn1745 in Íslenska (bpn1745)
 
 -- Bahá'u'lláh
 
-Prayer bpn1746 in Íslenska (bpn1746) 
+Prayer bpn1746 (bpn1746) 
 
 [bahaiprayers.net 1746](https://bahaiprayers.net/Book/Single/2/1746)
 
@@ -2596,7 +2596,7 @@ Prayer bpn1746 in Íslenska (bpn1746)
 
 -- Bahá'u'lláh
 
-Prayer bpn1747 in Íslenska (bpn1747) 
+Prayer bpn1747 (bpn1747) 
 
 [bahaiprayers.net 1747](https://bahaiprayers.net/Book/Single/2/1747)
 
@@ -2609,7 +2609,7 @@ Prayer bpn1747 in Íslenska (bpn1747)
 
 -- Báb
 
-Prayer bpn1748 in Íslenska (bpn1748) 
+Prayer bpn1748 (bpn1748) 
 
 [bahaiprayers.net 1748](https://bahaiprayers.net/Book/Single/2/1748)
 
@@ -2622,7 +2622,7 @@ Prayer bpn1748 in Íslenska (bpn1748)
 
 -- Báb
 
-Prayer bpn1749 in Íslenska (bpn1749) 
+Prayer bpn1749 (bpn1749) 
 
 [bahaiprayers.net 1749](https://bahaiprayers.net/Book/Single/2/1749)
 
@@ -2635,7 +2635,7 @@ Prayer bpn1749 in Íslenska (bpn1749)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1750 in Íslenska (bpn1750) 
+Prayer bpn1750 (bpn1750) 
 
 [bahaiprayers.net 1750](https://bahaiprayers.net/Book/Single/2/1750)
 
@@ -2648,7 +2648,7 @@ Prayer bpn1750 in Íslenska (bpn1750)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1751 in Íslenska (bpn1751) 
+Prayer bpn1751 (bpn1751) 
 
 [bahaiprayers.net 1751](https://bahaiprayers.net/Book/Single/2/1751)
 
@@ -2661,7 +2661,7 @@ Prayer bpn1751 in Íslenska (bpn1751)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1752 in Íslenska (bpn1752) 
+Prayer bpn1752 (bpn1752) 
 
 [bahaiprayers.net 1752](https://bahaiprayers.net/Book/Single/2/1752)
 
@@ -2678,7 +2678,7 @@ Prayer bpn1752 in Íslenska (bpn1752)
 
 -- Bahá'u'lláh
 
-Prayer bpn1576 in Íslenska (bpn1576) 
+Prayer bpn1576 (bpn1576) 
 
 [bahaiprayers.net 1576](https://bahaiprayers.net/Book/Single/2/1576)
 
@@ -2695,7 +2695,7 @@ Prayer bpn1576 in Íslenska (bpn1576)
 
 -- Bahá'u'lláh
 
-Prayer bpn1734 in Íslenska (bpn1734) 
+Prayer bpn1734 (bpn1734) 
 
 [bahaiprayers.net 1734](https://bahaiprayers.net/Book/Single/2/1734)
 
@@ -2708,7 +2708,7 @@ Prayer bpn1734 in Íslenska (bpn1734)
 
 -- Bahá'u'lláh
 
-Prayer bpn1735 in Íslenska (bpn1735) 
+Prayer bpn1735 (bpn1735) 
 
 [bahaiprayers.net 1735](https://bahaiprayers.net/Book/Single/2/1735)
 
@@ -2721,7 +2721,7 @@ Prayer bpn1735 in Íslenska (bpn1735)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1736 in Íslenska (bpn1736) 
+Prayer bpn1736 (bpn1736) 
 
 [bahaiprayers.net 1736](https://bahaiprayers.net/Book/Single/2/1736)
 
@@ -2734,7 +2734,7 @@ Prayer bpn1736 in Íslenska (bpn1736)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1737 in Íslenska (bpn1737) 
+Prayer bpn1737 (bpn1737) 
 
 [bahaiprayers.net 1737](https://bahaiprayers.net/Book/Single/2/1737)
 
@@ -2747,7 +2747,7 @@ Prayer bpn1737 in Íslenska (bpn1737)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1738 in Íslenska (bpn1738) 
+Prayer bpn1738 (bpn1738) 
 
 [bahaiprayers.net 1738](https://bahaiprayers.net/Book/Single/2/1738)
 
@@ -2764,7 +2764,7 @@ Prayer bpn1738 in Íslenska (bpn1738)
 
 -- Bahá'u'lláh
 
-Prayer bpn1762 in Íslenska (bpn1762) 
+Prayer bpn1762 (bpn1762) 
 
 [bahaiprayers.net 1762](https://bahaiprayers.net/Book/Single/2/1762)
 
@@ -2781,7 +2781,7 @@ Prayer bpn1762 in Íslenska (bpn1762)
 
 -- Bahá'u'lláh
 
-Prayer bpn1773 in Íslenska (bpn1773) 
+Prayer bpn1773 (bpn1773) 
 
 [bahaiprayers.net 1773](https://bahaiprayers.net/Book/Single/2/1773)
 
@@ -2798,7 +2798,7 @@ Prayer bpn1773 in Íslenska (bpn1773)
 
 -- Bahá'u'lláh
 
-Prayer bpn1753 in Íslenska (bpn1753) 
+Prayer bpn1753 (bpn1753) 
 
 [bahaiprayers.net 1753](https://bahaiprayers.net/Book/Single/2/1753)
 
@@ -2811,7 +2811,7 @@ Prayer bpn1753 in Íslenska (bpn1753)
 
 -- Bahá'u'lláh
 
-Prayer bpn1754 in Íslenska (bpn1754) 
+Prayer bpn1754 (bpn1754) 
 
 [bahaiprayers.net 1754](https://bahaiprayers.net/Book/Single/2/1754)
 
@@ -2824,7 +2824,7 @@ Prayer bpn1754 in Íslenska (bpn1754)
 
 -- Bahá'u'lláh
 
-Prayer bpn1755 in Íslenska (bpn1755) 
+Prayer bpn1755 (bpn1755) 
 
 [bahaiprayers.net 1755](https://bahaiprayers.net/Book/Single/2/1755)
 
@@ -2837,7 +2837,7 @@ Prayer bpn1755 in Íslenska (bpn1755)
 
 -- Bahá'u'lláh
 
-Prayer bpn1756 in Íslenska (bpn1756) 
+Prayer bpn1756 (bpn1756) 
 
 [bahaiprayers.net 1756](https://bahaiprayers.net/Book/Single/2/1756)
 
@@ -2850,7 +2850,7 @@ Prayer bpn1756 in Íslenska (bpn1756)
 
 -- Báb
 
-Prayer bpn1757 in Íslenska (bpn1757) 
+Prayer bpn1757 (bpn1757) 
 
 [bahaiprayers.net 1757](https://bahaiprayers.net/Book/Single/2/1757)
 
@@ -2863,7 +2863,7 @@ Prayer bpn1757 in Íslenska (bpn1757)
 
 -- Báb
 
-Prayer bpn1758 in Íslenska (bpn1758) 
+Prayer bpn1758 (bpn1758) 
 
 [bahaiprayers.net 1758](https://bahaiprayers.net/Book/Single/2/1758)
 
@@ -2876,7 +2876,7 @@ Prayer bpn1758 in Íslenska (bpn1758)
 
 -- Báb
 
-Prayer bpn6847 in Íslenska (bpn6847) 
+Prayer bpn6847 (bpn6847) 
 
 [bahaiprayers.net 6847](https://bahaiprayers.net/Book/Single/2/6847)
 
@@ -2889,7 +2889,7 @@ Prayer bpn6847 in Íslenska (bpn6847)
 
 -- Báb
 
-Prayer bpn1759 in Íslenska (bpn1759) 
+Prayer bpn1759 (bpn1759) 
 
 [bahaiprayers.net 1759](https://bahaiprayers.net/Book/Single/2/1759)
 
@@ -2902,7 +2902,7 @@ Prayer bpn1759 in Íslenska (bpn1759)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1760 in Íslenska (bpn1760) 
+Prayer bpn1760 (bpn1760) 
 
 [bahaiprayers.net 1760](https://bahaiprayers.net/Book/Single/2/1760)
 
@@ -2915,7 +2915,7 @@ Prayer bpn1760 in Íslenska (bpn1760)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1761 in Íslenska (bpn1761) 
+Prayer bpn1761 (bpn1761) 
 
 [bahaiprayers.net 1761](https://bahaiprayers.net/Book/Single/2/1761)
 
@@ -2932,7 +2932,7 @@ Prayer bpn1761 in Íslenska (bpn1761)
 
 -- Bahá'u'lláh
 
-Prayer bpn1764 in Íslenska (bpn1764) 
+Prayer bpn1764 (bpn1764) 
 
 [bahaiprayers.net 1764](https://bahaiprayers.net/Book/Single/2/1764)
 
@@ -2945,7 +2945,7 @@ Prayer bpn1764 in Íslenska (bpn1764)
 
 -- Abdu'l-Bahá
 
-Prayer bpn1765 in Íslenska (bpn1765) 
+Prayer bpn1765 (bpn1765) 
 
 [bahaiprayers.net 1765](https://bahaiprayers.net/Book/Single/2/1765)
 

@@ -100,7 +100,7 @@ tags = ['lang=zh-Hant', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Prayer bpn8947 in 繁體中文 (bpn8947) 
+Prayer bpn8947 (bpn8947) 
 
 [bahaiprayers.net 8947](https://bahaiprayers.net/Book/Single/78/8947)
 
@@ -117,7 +117,7 @@ Prayer bpn8947 in 繁體中文 (bpn8947)
 
 -- Bahá'u'lláh
 
-Prayer bpn8773 in 繁體中文 (bpn8773) 
+Prayer bpn8773 (bpn8773) 
 
 [bahaiprayers.net 8773](https://bahaiprayers.net/Book/Single/78/8773)
 
@@ -134,7 +134,7 @@ Prayer bpn8773 in 繁體中文 (bpn8773)
 
 -- Bahá'u'lláh
 
-Prayer bpn8846 in 繁體中文 (bpn8846) 
+Prayer bpn8846 (bpn8846) 
 
 [bahaiprayers.net 8846](https://bahaiprayers.net/Book/Single/78/8846)
 
@@ -147,7 +147,7 @@ Prayer bpn8846 in 繁體中文 (bpn8846)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8847 in 繁體中文 (bpn8847) 
+Prayer bpn8847 (bpn8847) 
 
 [bahaiprayers.net 8847](https://bahaiprayers.net/Book/Single/78/8847)
 
@@ -160,7 +160,7 @@ Prayer bpn8847 in 繁體中文 (bpn8847)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8848 in 繁體中文 (bpn8848) 
+Prayer bpn8848 (bpn8848) 
 
 [bahaiprayers.net 8848](https://bahaiprayers.net/Book/Single/78/8848)
 
@@ -173,7 +173,7 @@ Prayer bpn8848 in 繁體中文 (bpn8848)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8849 in 繁體中文 (bpn8849) 
+Prayer bpn8849 (bpn8849) 
 
 [bahaiprayers.net 8849](https://bahaiprayers.net/Book/Single/78/8849)
 
@@ -186,7 +186,7 @@ Prayer bpn8849 in 繁體中文 (bpn8849)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8850 in 繁體中文 (bpn8850) 
+Prayer bpn8850 (bpn8850) 
 
 [bahaiprayers.net 8850](https://bahaiprayers.net/Book/Single/78/8850)
 
@@ -203,7 +203,7 @@ Prayer bpn8850 in 繁體中文 (bpn8850)
 
 -- Bahá'u'lláh
 
-Prayer bpn8909 in 繁體中文 (bpn8909) 
+Prayer bpn8909 (bpn8909) 
 
 [bahaiprayers.net 8909](https://bahaiprayers.net/Book/Single/78/8909)
 
@@ -216,7 +216,7 @@ Prayer bpn8909 in 繁體中文 (bpn8909)
 
 -- Bahá'u'lláh
 
-Prayer bpn8910 in 繁體中文 (bpn8910) 
+Prayer bpn8910 (bpn8910) 
 
 [bahaiprayers.net 8910](https://bahaiprayers.net/Book/Single/78/8910)
 
@@ -229,7 +229,7 @@ Prayer bpn8910 in 繁體中文 (bpn8910)
 
 -- Bahá'u'lláh
 
-Prayer bpn8911 in 繁體中文 (bpn8911) 
+Prayer bpn8911 (bpn8911) 
 
 [bahaiprayers.net 8911](https://bahaiprayers.net/Book/Single/78/8911)
 
@@ -242,7 +242,7 @@ Prayer bpn8911 in 繁體中文 (bpn8911)
 
 -- Bahá'u'lláh
 
-Prayer bpn8912 in 繁體中文 (bpn8912) 
+Prayer bpn8912 (bpn8912) 
 
 [bahaiprayers.net 8912](https://bahaiprayers.net/Book/Single/78/8912)
 
@@ -255,7 +255,7 @@ Prayer bpn8912 in 繁體中文 (bpn8912)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8913 in 繁體中文 (bpn8913) 
+Prayer bpn8913 (bpn8913) 
 
 [bahaiprayers.net 8913](https://bahaiprayers.net/Book/Single/78/8913)
 
@@ -268,7 +268,7 @@ Prayer bpn8913 in 繁體中文 (bpn8913)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8914 in 繁體中文 (bpn8914) 
+Prayer bpn8914 (bpn8914) 
 
 [bahaiprayers.net 8914](https://bahaiprayers.net/Book/Single/78/8914)
 
@@ -281,7 +281,7 @@ Prayer bpn8914 in 繁體中文 (bpn8914)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8915 in 繁體中文 (bpn8915) 
+Prayer bpn8915 (bpn8915) 
 
 [bahaiprayers.net 8915](https://bahaiprayers.net/Book/Single/78/8915)
 
@@ -294,7 +294,7 @@ Prayer bpn8915 in 繁體中文 (bpn8915)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8916 in 繁體中文 (bpn8916) 
+Prayer bpn8916 (bpn8916) 
 
 [bahaiprayers.net 8916](https://bahaiprayers.net/Book/Single/78/8916)
 
@@ -307,7 +307,7 @@ Prayer bpn8916 in 繁體中文 (bpn8916)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8917 in 繁體中文 (bpn8917) 
+Prayer bpn8917 (bpn8917) 
 
 [bahaiprayers.net 8917](https://bahaiprayers.net/Book/Single/78/8917)
 
@@ -320,7 +320,7 @@ Prayer bpn8917 in 繁體中文 (bpn8917)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8918 in 繁體中文 (bpn8918) 
+Prayer bpn8918 (bpn8918) 
 
 [bahaiprayers.net 8918](https://bahaiprayers.net/Book/Single/78/8918)
 
@@ -333,7 +333,7 @@ Prayer bpn8918 in 繁體中文 (bpn8918)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8919 in 繁體中文 (bpn8919) 
+Prayer bpn8919 (bpn8919) 
 
 [bahaiprayers.net 8919](https://bahaiprayers.net/Book/Single/78/8919)
 
@@ -346,7 +346,7 @@ Prayer bpn8919 in 繁體中文 (bpn8919)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8920 in 繁體中文 (bpn8920) 
+Prayer bpn8920 (bpn8920) 
 
 [bahaiprayers.net 8920](https://bahaiprayers.net/Book/Single/78/8920)
 
@@ -359,7 +359,7 @@ Prayer bpn8920 in 繁體中文 (bpn8920)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8921 in 繁體中文 (bpn8921) 
+Prayer bpn8921 (bpn8921) 
 
 [bahaiprayers.net 8921](https://bahaiprayers.net/Book/Single/78/8921)
 
@@ -372,7 +372,7 @@ Prayer bpn8921 in 繁體中文 (bpn8921)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8922 in 繁體中文 (bpn8922) 
+Prayer bpn8922 (bpn8922) 
 
 [bahaiprayers.net 8922](https://bahaiprayers.net/Book/Single/78/8922)
 
@@ -385,7 +385,7 @@ Prayer bpn8922 in 繁體中文 (bpn8922)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8923 in 繁體中文 (bpn8923) 
+Prayer bpn8923 (bpn8923) 
 
 [bahaiprayers.net 8923](https://bahaiprayers.net/Book/Single/78/8923)
 
@@ -398,7 +398,7 @@ Prayer bpn8923 in 繁體中文 (bpn8923)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8924 in 繁體中文 (bpn8924) 
+Prayer bpn8924 (bpn8924) 
 
 [bahaiprayers.net 8924](https://bahaiprayers.net/Book/Single/78/8924)
 
@@ -411,7 +411,7 @@ Prayer bpn8924 in 繁體中文 (bpn8924)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8925 in 繁體中文 (bpn8925) 
+Prayer bpn8925 (bpn8925) 
 
 [bahaiprayers.net 8925](https://bahaiprayers.net/Book/Single/78/8925)
 
@@ -428,7 +428,7 @@ Prayer bpn8925 in 繁體中文 (bpn8925)
 
 -- Bahá'u'lláh
 
-Prayer bpn8790 in 繁體中文 (bpn8790) 
+Prayer bpn8790 (bpn8790) 
 
 [bahaiprayers.net 8790](https://bahaiprayers.net/Book/Single/78/8790)
 
@@ -441,7 +441,7 @@ Prayer bpn8790 in 繁體中文 (bpn8790)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8791 in 繁體中文 (bpn8791) 
+Prayer bpn8791 (bpn8791) 
 
 [bahaiprayers.net 8791](https://bahaiprayers.net/Book/Single/78/8791)
 
@@ -454,7 +454,7 @@ Prayer bpn8791 in 繁體中文 (bpn8791)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8792 in 繁體中文 (bpn8792) 
+Prayer bpn8792 (bpn8792) 
 
 [bahaiprayers.net 8792](https://bahaiprayers.net/Book/Single/78/8792)
 
@@ -467,7 +467,7 @@ Prayer bpn8792 in 繁體中文 (bpn8792)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8793 in 繁體中文 (bpn8793) 
+Prayer bpn8793 (bpn8793) 
 
 [bahaiprayers.net 8793](https://bahaiprayers.net/Book/Single/78/8793)
 
@@ -480,7 +480,7 @@ Prayer bpn8793 in 繁體中文 (bpn8793)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8794 in 繁體中文 (bpn8794) 
+Prayer bpn8794 (bpn8794) 
 
 [bahaiprayers.net 8794](https://bahaiprayers.net/Book/Single/78/8794)
 
@@ -493,7 +493,7 @@ Prayer bpn8794 in 繁體中文 (bpn8794)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8795 in 繁體中文 (bpn8795) 
+Prayer bpn8795 (bpn8795) 
 
 [bahaiprayers.net 8795](https://bahaiprayers.net/Book/Single/78/8795)
 
@@ -506,7 +506,7 @@ Prayer bpn8795 in 繁體中文 (bpn8795)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8796 in 繁體中文 (bpn8796) 
+Prayer bpn8796 (bpn8796) 
 
 [bahaiprayers.net 8796](https://bahaiprayers.net/Book/Single/78/8796)
 
@@ -519,7 +519,7 @@ Prayer bpn8796 in 繁體中文 (bpn8796)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8797 in 繁體中文 (bpn8797) 
+Prayer bpn8797 (bpn8797) 
 
 [bahaiprayers.net 8797](https://bahaiprayers.net/Book/Single/78/8797)
 
@@ -532,7 +532,7 @@ Prayer bpn8797 in 繁體中文 (bpn8797)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8798 in 繁體中文 (bpn8798) 
+Prayer bpn8798 (bpn8798) 
 
 [bahaiprayers.net 8798](https://bahaiprayers.net/Book/Single/78/8798)
 
@@ -549,7 +549,7 @@ Prayer bpn8798 in 繁體中文 (bpn8798)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8926 in 繁體中文 (bpn8926) 
+Prayer bpn8926 (bpn8926) 
 
 [bahaiprayers.net 8926](https://bahaiprayers.net/Book/Single/78/8926)
 
@@ -566,7 +566,7 @@ Prayer bpn8926 in 繁體中文 (bpn8926)
 
 -- Bahá'u'lláh
 
-Prayer bpn8942 in 繁體中文 (bpn8942) 
+Prayer bpn8942 (bpn8942) 
 
 [bahaiprayers.net 8942](https://bahaiprayers.net/Book/Single/78/8942)
 
@@ -583,7 +583,7 @@ Prayer bpn8942 in 繁體中文 (bpn8942)
 
 -- Bahá'u'lláh
 
-Prayer bpn8938 in 繁體中文 (bpn8938) 
+Prayer bpn8938 (bpn8938) 
 
 [bahaiprayers.net 8938](https://bahaiprayers.net/Book/Single/78/8938)
 
@@ -596,7 +596,7 @@ Prayer bpn8938 in 繁體中文 (bpn8938)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8939 in 繁體中文 (bpn8939) 
+Prayer bpn8939 (bpn8939) 
 
 [bahaiprayers.net 8939](https://bahaiprayers.net/Book/Single/78/8939)
 
@@ -613,7 +613,7 @@ Prayer bpn8939 in 繁體中文 (bpn8939)
 
 -- Bahá'u'lláh
 
-Prayer bpn8901 in 繁體中文 (bpn8901) 
+Prayer bpn8901 (bpn8901) 
 
 [bahaiprayers.net 8901](https://bahaiprayers.net/Book/Single/78/8901)
 
@@ -626,7 +626,7 @@ Prayer bpn8901 in 繁體中文 (bpn8901)
 
 -- Bahá'u'lláh
 
-Prayer bpn8902 in 繁體中文 (bpn8902) 
+Prayer bpn8902 (bpn8902) 
 
 [bahaiprayers.net 8902](https://bahaiprayers.net/Book/Single/78/8902)
 
@@ -639,7 +639,7 @@ Prayer bpn8902 in 繁體中文 (bpn8902)
 
 -- Bahá'u'lláh
 
-Prayer bpn8903 in 繁體中文 (bpn8903) 
+Prayer bpn8903 (bpn8903) 
 
 [bahaiprayers.net 8903](https://bahaiprayers.net/Book/Single/78/8903)
 
@@ -652,7 +652,7 @@ Prayer bpn8903 in 繁體中文 (bpn8903)
 
 -- Bahá'u'lláh
 
-Prayer bpn8904 in 繁體中文 (bpn8904) 
+Prayer bpn8904 (bpn8904) 
 
 [bahaiprayers.net 8904](https://bahaiprayers.net/Book/Single/78/8904)
 
@@ -665,7 +665,7 @@ Prayer bpn8904 in 繁體中文 (bpn8904)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8907 in 繁體中文 (bpn8907) 
+Prayer bpn8907 (bpn8907) 
 
 [bahaiprayers.net 8907](https://bahaiprayers.net/Book/Single/78/8907)
 
@@ -678,7 +678,7 @@ Prayer bpn8907 in 繁體中文 (bpn8907)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8908 in 繁體中文 (bpn8908) 
+Prayer bpn8908 (bpn8908) 
 
 [bahaiprayers.net 8908](https://bahaiprayers.net/Book/Single/78/8908)
 
@@ -695,7 +695,7 @@ Prayer bpn8908 in 繁體中文 (bpn8908)
 
 -- Bahá'u'lláh
 
-Prayer bpn8822 in 繁體中文 (bpn8822) 
+Prayer bpn8822 (bpn8822) 
 
 [bahaiprayers.net 8822](https://bahaiprayers.net/Book/Single/78/8822)
 
@@ -708,7 +708,7 @@ Prayer bpn8822 in 繁體中文 (bpn8822)
 
 -- Bahá'u'lláh
 
-Prayer bpn8823 in 繁體中文 (bpn8823) 
+Prayer bpn8823 (bpn8823) 
 
 [bahaiprayers.net 8823](https://bahaiprayers.net/Book/Single/78/8823)
 
@@ -721,7 +721,7 @@ Prayer bpn8823 in 繁體中文 (bpn8823)
 
 -- Báb
 
-Prayer bpn8905 in 繁體中文 (bpn8905) 
+Prayer bpn8905 (bpn8905) 
 
 [bahaiprayers.net 8905](https://bahaiprayers.net/Book/Single/78/8905)
 
@@ -734,7 +734,7 @@ Prayer bpn8905 in 繁體中文 (bpn8905)
 
 -- Báb
 
-Prayer bpn8906 in 繁體中文 (bpn8906) 
+Prayer bpn8906 (bpn8906) 
 
 [bahaiprayers.net 8906](https://bahaiprayers.net/Book/Single/78/8906)
 
@@ -747,7 +747,7 @@ Prayer bpn8906 in 繁體中文 (bpn8906)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8824 in 繁體中文 (bpn8824) 
+Prayer bpn8824 (bpn8824) 
 
 [bahaiprayers.net 8824](https://bahaiprayers.net/Book/Single/78/8824)
 
@@ -760,7 +760,7 @@ Prayer bpn8824 in 繁體中文 (bpn8824)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8825 in 繁體中文 (bpn8825) 
+Prayer bpn8825 (bpn8825) 
 
 [bahaiprayers.net 8825](https://bahaiprayers.net/Book/Single/78/8825)
 
@@ -773,7 +773,7 @@ Prayer bpn8825 in 繁體中文 (bpn8825)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8826 in 繁體中文 (bpn8826) 
+Prayer bpn8826 (bpn8826) 
 
 [bahaiprayers.net 8826](https://bahaiprayers.net/Book/Single/78/8826)
 
@@ -790,7 +790,7 @@ Prayer bpn8826 in 繁體中文 (bpn8826)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8838 in 繁體中文 (bpn8838) 
+Prayer bpn8838 (bpn8838) 
 
 [bahaiprayers.net 8838](https://bahaiprayers.net/Book/Single/78/8838)
 
@@ -807,7 +807,7 @@ Prayer bpn8838 in 繁體中文 (bpn8838)
 
 -- Bahá'u'lláh
 
-Prayer bpn8851 in 繁體中文 (bpn8851) 
+Prayer bpn8851 (bpn8851) 
 
 [bahaiprayers.net 8851](https://bahaiprayers.net/Book/Single/78/8851)
 
@@ -820,7 +820,7 @@ Prayer bpn8851 in 繁體中文 (bpn8851)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8852 in 繁體中文 (bpn8852) 
+Prayer bpn8852 (bpn8852) 
 
 [bahaiprayers.net 8852](https://bahaiprayers.net/Book/Single/78/8852)
 
@@ -833,7 +833,7 @@ Prayer bpn8852 in 繁體中文 (bpn8852)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8853 in 繁體中文 (bpn8853) 
+Prayer bpn8853 (bpn8853) 
 
 [bahaiprayers.net 8853](https://bahaiprayers.net/Book/Single/78/8853)
 
@@ -846,7 +846,7 @@ Prayer bpn8853 in 繁體中文 (bpn8853)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8854 in 繁體中文 (bpn8854) 
+Prayer bpn8854 (bpn8854) 
 
 [bahaiprayers.net 8854](https://bahaiprayers.net/Book/Single/78/8854)
 
@@ -863,7 +863,7 @@ Prayer bpn8854 in 繁體中文 (bpn8854)
 
 -- Bahá'u'lláh
 
-Prayer bpn8815 in 繁體中文 (bpn8815) 
+Prayer bpn8815 (bpn8815) 
 
 [bahaiprayers.net 8815](https://bahaiprayers.net/Book/Single/78/8815)
 
@@ -876,7 +876,7 @@ Prayer bpn8815 in 繁體中文 (bpn8815)
 
 -- Báb
 
-Prayer bpn8816 in 繁體中文 (bpn8816) 
+Prayer bpn8816 (bpn8816) 
 
 [bahaiprayers.net 8816](https://bahaiprayers.net/Book/Single/78/8816)
 
@@ -889,7 +889,7 @@ Prayer bpn8816 in 繁體中文 (bpn8816)
 
 -- Báb
 
-Prayer bpn8817 in 繁體中文 (bpn8817) 
+Prayer bpn8817 (bpn8817) 
 
 [bahaiprayers.net 8817](https://bahaiprayers.net/Book/Single/78/8817)
 
@@ -902,7 +902,7 @@ Prayer bpn8817 in 繁體中文 (bpn8817)
 
 -- Báb
 
-Prayer bpn8818 in 繁體中文 (bpn8818) 
+Prayer bpn8818 (bpn8818) 
 
 [bahaiprayers.net 8818](https://bahaiprayers.net/Book/Single/78/8818)
 
@@ -915,7 +915,7 @@ Prayer bpn8818 in 繁體中文 (bpn8818)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8819 in 繁體中文 (bpn8819) 
+Prayer bpn8819 (bpn8819) 
 
 [bahaiprayers.net 8819](https://bahaiprayers.net/Book/Single/78/8819)
 
@@ -928,7 +928,7 @@ Prayer bpn8819 in 繁體中文 (bpn8819)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8820 in 繁體中文 (bpn8820) 
+Prayer bpn8820 (bpn8820) 
 
 [bahaiprayers.net 8820](https://bahaiprayers.net/Book/Single/78/8820)
 
@@ -941,7 +941,7 @@ Prayer bpn8820 in 繁體中文 (bpn8820)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8821 in 繁體中文 (bpn8821) 
+Prayer bpn8821 (bpn8821) 
 
 [bahaiprayers.net 8821](https://bahaiprayers.net/Book/Single/78/8821)
 
@@ -958,7 +958,7 @@ Prayer bpn8821 in 繁體中文 (bpn8821)
 
 -- Bahá'u'lláh
 
-Prayer bpn8812 in 繁體中文 (bpn8812) 
+Prayer bpn8812 (bpn8812) 
 
 [bahaiprayers.net 8812](https://bahaiprayers.net/Book/Single/78/8812)
 
@@ -971,7 +971,7 @@ Prayer bpn8812 in 繁體中文 (bpn8812)
 
 -- Bahá'u'lláh
 
-Prayer bpn8813 in 繁體中文 (bpn8813) 
+Prayer bpn8813 (bpn8813) 
 
 [bahaiprayers.net 8813](https://bahaiprayers.net/Book/Single/78/8813)
 
@@ -984,7 +984,7 @@ Prayer bpn8813 in 繁體中文 (bpn8813)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8814 in 繁體中文 (bpn8814) 
+Prayer bpn8814 (bpn8814) 
 
 [bahaiprayers.net 8814](https://bahaiprayers.net/Book/Single/78/8814)
 
@@ -1001,7 +1001,7 @@ Prayer bpn8814 in 繁體中文 (bpn8814)
 
 -- Bahá'u'lláh
 
-Prayer bpn8862 in 繁體中文 (bpn8862) 
+Prayer bpn8862 (bpn8862) 
 
 [bahaiprayers.net 8862](https://bahaiprayers.net/Book/Single/78/8862)
 
@@ -1014,7 +1014,7 @@ Prayer bpn8862 in 繁體中文 (bpn8862)
 
 -- Bahá'u'lláh
 
-Prayer bpn8863 in 繁體中文 (bpn8863) 
+Prayer bpn8863 (bpn8863) 
 
 [bahaiprayers.net 8863](https://bahaiprayers.net/Book/Single/78/8863)
 
@@ -1027,7 +1027,7 @@ Prayer bpn8863 in 繁體中文 (bpn8863)
 
 -- Bahá'u'lláh
 
-Prayer bpn8864 in 繁體中文 (bpn8864) 
+Prayer bpn8864 (bpn8864) 
 
 [bahaiprayers.net 8864](https://bahaiprayers.net/Book/Single/78/8864)
 
@@ -1040,7 +1040,7 @@ Prayer bpn8864 in 繁體中文 (bpn8864)
 
 -- Bahá'u'lláh
 
-Prayer bpn8865 in 繁體中文 (bpn8865) 
+Prayer bpn8865 (bpn8865) 
 
 [bahaiprayers.net 8865](https://bahaiprayers.net/Book/Single/78/8865)
 
@@ -1057,7 +1057,7 @@ Prayer bpn8865 in 繁體中文 (bpn8865)
 
 -- Bahá'u'lláh
 
-Prayer bpn8945 in 繁體中文 (bpn8945) 
+Prayer bpn8945 (bpn8945) 
 
 [bahaiprayers.net 8945](https://bahaiprayers.net/Book/Single/78/8945)
 
@@ -1070,7 +1070,7 @@ Prayer bpn8945 in 繁體中文 (bpn8945)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8946 in 繁體中文 (bpn8946) 
+Prayer bpn8946 (bpn8946) 
 
 [bahaiprayers.net 8946](https://bahaiprayers.net/Book/Single/78/8946)
 
@@ -1087,7 +1087,7 @@ Prayer bpn8946 in 繁體中文 (bpn8946)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8955 in 繁體中文 (bpn8955) 
+Prayer bpn8955 (bpn8955) 
 
 [bahaiprayers.net 8955](https://bahaiprayers.net/Book/Single/78/8955)
 
@@ -1104,7 +1104,7 @@ Prayer bpn8955 in 繁體中文 (bpn8955)
 
 -- Bahá'u'lláh
 
-Prayer bpn8799 in 繁體中文 (bpn8799) 
+Prayer bpn8799 (bpn8799) 
 
 [bahaiprayers.net 8799](https://bahaiprayers.net/Book/Single/78/8799)
 
@@ -1117,7 +1117,7 @@ Prayer bpn8799 in 繁體中文 (bpn8799)
 
 -- Bahá'u'lláh
 
-Prayer bpn8800 in 繁體中文 (bpn8800) 
+Prayer bpn8800 (bpn8800) 
 
 [bahaiprayers.net 8800](https://bahaiprayers.net/Book/Single/78/8800)
 
@@ -1130,7 +1130,7 @@ Prayer bpn8800 in 繁體中文 (bpn8800)
 
 -- Bahá'u'lláh
 
-Prayer bpn8801 in 繁體中文 (bpn8801) 
+Prayer bpn8801 (bpn8801) 
 
 [bahaiprayers.net 8801](https://bahaiprayers.net/Book/Single/78/8801)
 
@@ -1147,7 +1147,7 @@ Prayer bpn8801 in 繁體中文 (bpn8801)
 
 -- Bahá'u'lláh
 
-Prayer bpn8772 in 繁體中文 (bpn8772) 
+Prayer bpn8772 (bpn8772) 
 
 [bahaiprayers.net 8772](https://bahaiprayers.net/Book/Single/78/8772)
 
@@ -1164,7 +1164,7 @@ Prayer bpn8772 in 繁體中文 (bpn8772)
 
 -- Bahá'u'lláh
 
-Prayer bpn8827 in 繁體中文 (bpn8827) 
+Prayer bpn8827 (bpn8827) 
 
 [bahaiprayers.net 8827](https://bahaiprayers.net/Book/Single/78/8827)
 
@@ -1177,7 +1177,7 @@ Prayer bpn8827 in 繁體中文 (bpn8827)
 
 -- Bahá'u'lláh
 
-Prayer bpn8828 in 繁體中文 (bpn8828) 
+Prayer bpn8828 (bpn8828) 
 
 [bahaiprayers.net 8828](https://bahaiprayers.net/Book/Single/78/8828)
 
@@ -1190,7 +1190,7 @@ Prayer bpn8828 in 繁體中文 (bpn8828)
 
 -- Bahá'u'lláh
 
-Prayer bpn8829 in 繁體中文 (bpn8829) 
+Prayer bpn8829 (bpn8829) 
 
 [bahaiprayers.net 8829](https://bahaiprayers.net/Book/Single/78/8829)
 
@@ -1203,7 +1203,7 @@ Prayer bpn8829 in 繁體中文 (bpn8829)
 
 -- Bahá'u'lláh
 
-Prayer bpn8830 in 繁體中文 (bpn8830) 
+Prayer bpn8830 (bpn8830) 
 
 [bahaiprayers.net 8830](https://bahaiprayers.net/Book/Single/78/8830)
 
@@ -1216,7 +1216,7 @@ Prayer bpn8830 in 繁體中文 (bpn8830)
 
 -- Bahá'u'lláh
 
-Prayer bpn8831 in 繁體中文 (bpn8831) 
+Prayer bpn8831 (bpn8831) 
 
 [bahaiprayers.net 8831](https://bahaiprayers.net/Book/Single/78/8831)
 
@@ -1229,7 +1229,7 @@ Prayer bpn8831 in 繁體中文 (bpn8831)
 
 -- Báb
 
-Prayer bpn8832 in 繁體中文 (bpn8832) 
+Prayer bpn8832 (bpn8832) 
 
 [bahaiprayers.net 8832](https://bahaiprayers.net/Book/Single/78/8832)
 
@@ -1242,7 +1242,7 @@ Prayer bpn8832 in 繁體中文 (bpn8832)
 
 -- Báb
 
-Prayer bpn8833 in 繁體中文 (bpn8833) 
+Prayer bpn8833 (bpn8833) 
 
 [bahaiprayers.net 8833](https://bahaiprayers.net/Book/Single/78/8833)
 
@@ -1255,7 +1255,7 @@ Prayer bpn8833 in 繁體中文 (bpn8833)
 
 -- Báb
 
-Prayer bpn8834 in 繁體中文 (bpn8834) 
+Prayer bpn8834 (bpn8834) 
 
 [bahaiprayers.net 8834](https://bahaiprayers.net/Book/Single/78/8834)
 
@@ -1268,7 +1268,7 @@ Prayer bpn8834 in 繁體中文 (bpn8834)
 
 -- Báb
 
-Prayer bpn8835 in 繁體中文 (bpn8835) 
+Prayer bpn8835 (bpn8835) 
 
 [bahaiprayers.net 8835](https://bahaiprayers.net/Book/Single/78/8835)
 
@@ -1281,7 +1281,7 @@ Prayer bpn8835 in 繁體中文 (bpn8835)
 
 -- Báb
 
-Prayer bpn8836 in 繁體中文 (bpn8836) 
+Prayer bpn8836 (bpn8836) 
 
 [bahaiprayers.net 8836](https://bahaiprayers.net/Book/Single/78/8836)
 
@@ -1294,7 +1294,7 @@ Prayer bpn8836 in 繁體中文 (bpn8836)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8837 in 繁體中文 (bpn8837) 
+Prayer bpn8837 (bpn8837) 
 
 [bahaiprayers.net 8837](https://bahaiprayers.net/Book/Single/78/8837)
 
@@ -1311,7 +1311,7 @@ Prayer bpn8837 in 繁體中文 (bpn8837)
 
 -- Bahá'u'lláh
 
-Prayer bpn8873 in 繁體中文 (bpn8873) 
+Prayer bpn8873 (bpn8873) 
 
 [bahaiprayers.net 8873](https://bahaiprayers.net/Book/Single/78/8873)
 
@@ -1324,7 +1324,7 @@ Prayer bpn8873 in 繁體中文 (bpn8873)
 
 -- Bahá'u'lláh
 
-Prayer bpn8874 in 繁體中文 (bpn8874) 
+Prayer bpn8874 (bpn8874) 
 
 [bahaiprayers.net 8874](https://bahaiprayers.net/Book/Single/78/8874)
 
@@ -1337,7 +1337,7 @@ Prayer bpn8874 in 繁體中文 (bpn8874)
 
 -- Bahá'u'lláh
 
-Prayer bpn8875 in 繁體中文 (bpn8875) 
+Prayer bpn8875 (bpn8875) 
 
 [bahaiprayers.net 8875](https://bahaiprayers.net/Book/Single/78/8875)
 
@@ -1350,7 +1350,7 @@ Prayer bpn8875 in 繁體中文 (bpn8875)
 
 -- Bahá'u'lláh
 
-Prayer bpn8876 in 繁體中文 (bpn8876) 
+Prayer bpn8876 (bpn8876) 
 
 [bahaiprayers.net 8876](https://bahaiprayers.net/Book/Single/78/8876)
 
@@ -1363,7 +1363,7 @@ Prayer bpn8876 in 繁體中文 (bpn8876)
 
 -- Báb
 
-Prayer bpn8877 in 繁體中文 (bpn8877) 
+Prayer bpn8877 (bpn8877) 
 
 [bahaiprayers.net 8877](https://bahaiprayers.net/Book/Single/78/8877)
 
@@ -1376,7 +1376,7 @@ Prayer bpn8877 in 繁體中文 (bpn8877)
 
 -- Báb
 
-Prayer bpn8878 in 繁體中文 (bpn8878) 
+Prayer bpn8878 (bpn8878) 
 
 [bahaiprayers.net 8878](https://bahaiprayers.net/Book/Single/78/8878)
 
@@ -1389,7 +1389,7 @@ Prayer bpn8878 in 繁體中文 (bpn8878)
 
 -- Báb
 
-Prayer bpn8879 in 繁體中文 (bpn8879) 
+Prayer bpn8879 (bpn8879) 
 
 [bahaiprayers.net 8879](https://bahaiprayers.net/Book/Single/78/8879)
 
@@ -1406,7 +1406,7 @@ Prayer bpn8879 in 繁體中文 (bpn8879)
 
 -- Bahá'u'lláh
 
-Prayer bpn8839 in 繁體中文 (bpn8839) 
+Prayer bpn8839 (bpn8839) 
 
 [bahaiprayers.net 8839](https://bahaiprayers.net/Book/Single/78/8839)
 
@@ -1419,7 +1419,7 @@ Prayer bpn8839 in 繁體中文 (bpn8839)
 
 -- Bahá'u'lláh
 
-Prayer bpn8840 in 繁體中文 (bpn8840) 
+Prayer bpn8840 (bpn8840) 
 
 [bahaiprayers.net 8840](https://bahaiprayers.net/Book/Single/78/8840)
 
@@ -1432,7 +1432,7 @@ Prayer bpn8840 in 繁體中文 (bpn8840)
 
 -- Bahá'u'lláh
 
-Prayer bpn8841 in 繁體中文 (bpn8841) 
+Prayer bpn8841 (bpn8841) 
 
 [bahaiprayers.net 8841](https://bahaiprayers.net/Book/Single/78/8841)
 
@@ -1445,7 +1445,7 @@ Prayer bpn8841 in 繁體中文 (bpn8841)
 
 -- Bahá'u'lláh
 
-Prayer bpn8842 in 繁體中文 (bpn8842) 
+Prayer bpn8842 (bpn8842) 
 
 [bahaiprayers.net 8842](https://bahaiprayers.net/Book/Single/78/8842)
 
@@ -1458,7 +1458,7 @@ Prayer bpn8842 in 繁體中文 (bpn8842)
 
 -- Bahá'u'lláh
 
-Prayer bpn8843 in 繁體中文 (bpn8843) 
+Prayer bpn8843 (bpn8843) 
 
 [bahaiprayers.net 8843](https://bahaiprayers.net/Book/Single/78/8843)
 
@@ -1471,7 +1471,7 @@ Prayer bpn8843 in 繁體中文 (bpn8843)
 
 -- Bahá'u'lláh
 
-Prayer bpn8844 in 繁體中文 (bpn8844) 
+Prayer bpn8844 (bpn8844) 
 
 [bahaiprayers.net 8844](https://bahaiprayers.net/Book/Single/78/8844)
 
@@ -1484,7 +1484,7 @@ Prayer bpn8844 in 繁體中文 (bpn8844)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8880 in 繁體中文 (bpn8880) 
+Prayer bpn8880 (bpn8880) 
 
 [bahaiprayers.net 8880](https://bahaiprayers.net/Book/Single/78/8880)
 
@@ -1497,7 +1497,7 @@ Prayer bpn8880 in 繁體中文 (bpn8880)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8881 in 繁體中文 (bpn8881) 
+Prayer bpn8881 (bpn8881) 
 
 [bahaiprayers.net 8881](https://bahaiprayers.net/Book/Single/78/8881)
 
@@ -1514,7 +1514,7 @@ Prayer bpn8881 in 繁體中文 (bpn8881)
 
 -- Bahá'u'lláh
 
-Prayer bpn8775 in 繁體中文 (bpn8775) 
+Prayer bpn8775 (bpn8775) 
 
 [bahaiprayers.net 8775](https://bahaiprayers.net/Book/Single/78/8775)
 
@@ -1527,7 +1527,7 @@ Prayer bpn8775 in 繁體中文 (bpn8775)
 
 -- Bahá'u'lláh
 
-Prayer bpn8776 in 繁體中文 (bpn8776) 
+Prayer bpn8776 (bpn8776) 
 
 [bahaiprayers.net 8776](https://bahaiprayers.net/Book/Single/78/8776)
 
@@ -1540,7 +1540,7 @@ Prayer bpn8776 in 繁體中文 (bpn8776)
 
 -- Báb
 
-Prayer bpn8777 in 繁體中文 (bpn8777) 
+Prayer bpn8777 (bpn8777) 
 
 [bahaiprayers.net 8777](https://bahaiprayers.net/Book/Single/78/8777)
 
@@ -1553,7 +1553,7 @@ Prayer bpn8777 in 繁體中文 (bpn8777)
 
 -- Báb
 
-Prayer bpn8778 in 繁體中文 (bpn8778) 
+Prayer bpn8778 (bpn8778) 
 
 [bahaiprayers.net 8778](https://bahaiprayers.net/Book/Single/78/8778)
 
@@ -1566,7 +1566,7 @@ Prayer bpn8778 in 繁體中文 (bpn8778)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8779 in 繁體中文 (bpn8779) 
+Prayer bpn8779 (bpn8779) 
 
 [bahaiprayers.net 8779](https://bahaiprayers.net/Book/Single/78/8779)
 
@@ -1579,7 +1579,7 @@ Prayer bpn8779 in 繁體中文 (bpn8779)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8780 in 繁體中文 (bpn8780) 
+Prayer bpn8780 (bpn8780) 
 
 [bahaiprayers.net 8780](https://bahaiprayers.net/Book/Single/78/8780)
 
@@ -1592,7 +1592,7 @@ Prayer bpn8780 in 繁體中文 (bpn8780)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8781 in 繁體中文 (bpn8781) 
+Prayer bpn8781 (bpn8781) 
 
 [bahaiprayers.net 8781](https://bahaiprayers.net/Book/Single/78/8781)
 
@@ -1609,7 +1609,7 @@ Prayer bpn8781 in 繁體中文 (bpn8781)
 
 -- Bahá'u'lláh
 
-Prayer bpn8941 in 繁體中文 (bpn8941) 
+Prayer bpn8941 (bpn8941) 
 
 [bahaiprayers.net 8941](https://bahaiprayers.net/Book/Single/78/8941)
 
@@ -1626,7 +1626,7 @@ Prayer bpn8941 in 繁體中文 (bpn8941)
 
 -- Bahá'u'lláh
 
-Prayer bpn8944 in 繁體中文 (bpn8944) 
+Prayer bpn8944 (bpn8944) 
 
 [bahaiprayers.net 8944](https://bahaiprayers.net/Book/Single/78/8944)
 
@@ -1643,7 +1643,7 @@ Prayer bpn8944 in 繁體中文 (bpn8944)
 
 -- Bahá'u'lláh
 
-Prayer bpn8872 in 繁體中文 (bpn8872) 
+Prayer bpn8872 (bpn8872) 
 
 [bahaiprayers.net 8872](https://bahaiprayers.net/Book/Single/78/8872)
 
@@ -1660,7 +1660,7 @@ Prayer bpn8872 in 繁體中文 (bpn8872)
 
 -- Bahá'u'lláh
 
-Prayer bpn8931 in 繁體中文 (bpn8931) 
+Prayer bpn8931 (bpn8931) 
 
 [bahaiprayers.net 8931](https://bahaiprayers.net/Book/Single/78/8931)
 
@@ -1673,7 +1673,7 @@ Prayer bpn8931 in 繁體中文 (bpn8931)
 
 -- Báb
 
-Prayer bpn8932 in 繁體中文 (bpn8932) 
+Prayer bpn8932 (bpn8932) 
 
 [bahaiprayers.net 8932](https://bahaiprayers.net/Book/Single/78/8932)
 
@@ -1686,7 +1686,7 @@ Prayer bpn8932 in 繁體中文 (bpn8932)
 
 -- Báb
 
-Prayer bpn8933 in 繁體中文 (bpn8933) 
+Prayer bpn8933 (bpn8933) 
 
 [bahaiprayers.net 8933](https://bahaiprayers.net/Book/Single/78/8933)
 
@@ -1699,7 +1699,7 @@ Prayer bpn8933 in 繁體中文 (bpn8933)
 
 -- Báb
 
-Prayer bpn8934 in 繁體中文 (bpn8934) 
+Prayer bpn8934 (bpn8934) 
 
 [bahaiprayers.net 8934](https://bahaiprayers.net/Book/Single/78/8934)
 
@@ -1712,7 +1712,7 @@ Prayer bpn8934 in 繁體中文 (bpn8934)
 
 -- Báb
 
-Prayer bpn8935 in 繁體中文 (bpn8935) 
+Prayer bpn8935 (bpn8935) 
 
 [bahaiprayers.net 8935](https://bahaiprayers.net/Book/Single/78/8935)
 
@@ -1725,7 +1725,7 @@ Prayer bpn8935 in 繁體中文 (bpn8935)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8936 in 繁體中文 (bpn8936) 
+Prayer bpn8936 (bpn8936) 
 
 [bahaiprayers.net 8936](https://bahaiprayers.net/Book/Single/78/8936)
 
@@ -1738,7 +1738,7 @@ Prayer bpn8936 in 繁體中文 (bpn8936)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8937 in 繁體中文 (bpn8937) 
+Prayer bpn8937 (bpn8937) 
 
 [bahaiprayers.net 8937](https://bahaiprayers.net/Book/Single/78/8937)
 
@@ -1755,7 +1755,7 @@ Prayer bpn8937 in 繁體中文 (bpn8937)
 
 -- Bahá'u'lláh
 
-Prayer bpn8855 in 繁體中文 (bpn8855) 
+Prayer bpn8855 (bpn8855) 
 
 [bahaiprayers.net 8855](https://bahaiprayers.net/Book/Single/78/8855)
 
@@ -1768,7 +1768,7 @@ Prayer bpn8855 in 繁體中文 (bpn8855)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8856 in 繁體中文 (bpn8856) 
+Prayer bpn8856 (bpn8856) 
 
 [bahaiprayers.net 8856](https://bahaiprayers.net/Book/Single/78/8856)
 
@@ -1781,7 +1781,7 @@ Prayer bpn8856 in 繁體中文 (bpn8856)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8857 in 繁體中文 (bpn8857) 
+Prayer bpn8857 (bpn8857) 
 
 [bahaiprayers.net 8857](https://bahaiprayers.net/Book/Single/78/8857)
 
@@ -1794,7 +1794,7 @@ Prayer bpn8857 in 繁體中文 (bpn8857)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8858 in 繁體中文 (bpn8858) 
+Prayer bpn8858 (bpn8858) 
 
 [bahaiprayers.net 8858](https://bahaiprayers.net/Book/Single/78/8858)
 
@@ -1807,7 +1807,7 @@ Prayer bpn8858 in 繁體中文 (bpn8858)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8859 in 繁體中文 (bpn8859) 
+Prayer bpn8859 (bpn8859) 
 
 [bahaiprayers.net 8859](https://bahaiprayers.net/Book/Single/78/8859)
 
@@ -1820,7 +1820,7 @@ Prayer bpn8859 in 繁體中文 (bpn8859)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8860 in 繁體中文 (bpn8860) 
+Prayer bpn8860 (bpn8860) 
 
 [bahaiprayers.net 8860](https://bahaiprayers.net/Book/Single/78/8860)
 
@@ -1833,7 +1833,7 @@ Prayer bpn8860 in 繁體中文 (bpn8860)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8861 in 繁體中文 (bpn8861) 
+Prayer bpn8861 (bpn8861) 
 
 [bahaiprayers.net 8861](https://bahaiprayers.net/Book/Single/78/8861)
 
@@ -1850,7 +1850,7 @@ Prayer bpn8861 in 繁體中文 (bpn8861)
 
 -- Bahá'u'lláh
 
-Prayer bpn8940 in 繁體中文 (bpn8940) 
+Prayer bpn8940 (bpn8940) 
 
 [bahaiprayers.net 8940](https://bahaiprayers.net/Book/Single/78/8940)
 
@@ -1867,7 +1867,7 @@ Prayer bpn8940 in 繁體中文 (bpn8940)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8956 in 繁體中文 (bpn8956) 
+Prayer bpn8956 (bpn8956) 
 
 [bahaiprayers.net 8956](https://bahaiprayers.net/Book/Single/78/8956)
 
@@ -1884,7 +1884,7 @@ Prayer bpn8956 in 繁體中文 (bpn8956)
 
 -- Bahá'u'lláh
 
-Prayer bpn8782 in 繁體中文 (bpn8782) 
+Prayer bpn8782 (bpn8782) 
 
 [bahaiprayers.net 8782](https://bahaiprayers.net/Book/Single/78/8782)
 
@@ -1897,7 +1897,7 @@ Prayer bpn8782 in 繁體中文 (bpn8782)
 
 -- Bahá'u'lláh
 
-Prayer bpn8783 in 繁體中文 (bpn8783) 
+Prayer bpn8783 (bpn8783) 
 
 [bahaiprayers.net 8783](https://bahaiprayers.net/Book/Single/78/8783)
 
@@ -1910,7 +1910,7 @@ Prayer bpn8783 in 繁體中文 (bpn8783)
 
 -- Báb
 
-Prayer bpn8784 in 繁體中文 (bpn8784) 
+Prayer bpn8784 (bpn8784) 
 
 [bahaiprayers.net 8784](https://bahaiprayers.net/Book/Single/78/8784)
 
@@ -1923,7 +1923,7 @@ Prayer bpn8784 in 繁體中文 (bpn8784)
 
 -- Báb
 
-Prayer bpn8785 in 繁體中文 (bpn8785) 
+Prayer bpn8785 (bpn8785) 
 
 [bahaiprayers.net 8785](https://bahaiprayers.net/Book/Single/78/8785)
 
@@ -1936,7 +1936,7 @@ Prayer bpn8785 in 繁體中文 (bpn8785)
 
 -- Báb
 
-Prayer bpn8786 in 繁體中文 (bpn8786) 
+Prayer bpn8786 (bpn8786) 
 
 [bahaiprayers.net 8786](https://bahaiprayers.net/Book/Single/78/8786)
 
@@ -1949,7 +1949,7 @@ Prayer bpn8786 in 繁體中文 (bpn8786)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8787 in 繁體中文 (bpn8787) 
+Prayer bpn8787 (bpn8787) 
 
 [bahaiprayers.net 8787](https://bahaiprayers.net/Book/Single/78/8787)
 
@@ -1962,7 +1962,7 @@ Prayer bpn8787 in 繁體中文 (bpn8787)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8788 in 繁體中文 (bpn8788) 
+Prayer bpn8788 (bpn8788) 
 
 [bahaiprayers.net 8788](https://bahaiprayers.net/Book/Single/78/8788)
 
@@ -1975,7 +1975,7 @@ Prayer bpn8788 in 繁體中文 (bpn8788)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8789 in 繁體中文 (bpn8789) 
+Prayer bpn8789 (bpn8789) 
 
 [bahaiprayers.net 8789](https://bahaiprayers.net/Book/Single/78/8789)
 
@@ -1992,7 +1992,7 @@ Prayer bpn8789 in 繁體中文 (bpn8789)
 
 -- Bahá'u'lláh
 
-Prayer bpn8927 in 繁體中文 (bpn8927) 
+Prayer bpn8927 (bpn8927) 
 
 [bahaiprayers.net 8927](https://bahaiprayers.net/Book/Single/78/8927)
 
@@ -2005,7 +2005,7 @@ Prayer bpn8927 in 繁體中文 (bpn8927)
 
 -- Bahá'u'lláh
 
-Prayer bpn8928 in 繁體中文 (bpn8928) 
+Prayer bpn8928 (bpn8928) 
 
 [bahaiprayers.net 8928](https://bahaiprayers.net/Book/Single/78/8928)
 
@@ -2018,7 +2018,7 @@ Prayer bpn8928 in 繁體中文 (bpn8928)
 
 -- Bahá'u'lláh
 
-Prayer bpn8929 in 繁體中文 (bpn8929) 
+Prayer bpn8929 (bpn8929) 
 
 [bahaiprayers.net 8929](https://bahaiprayers.net/Book/Single/78/8929)
 
@@ -2031,7 +2031,7 @@ Prayer bpn8929 in 繁體中文 (bpn8929)
 
 -- Báb
 
-Prayer bpn8930 in 繁體中文 (bpn8930) 
+Prayer bpn8930 (bpn8930) 
 
 [bahaiprayers.net 8930](https://bahaiprayers.net/Book/Single/78/8930)
 
@@ -2048,7 +2048,7 @@ Prayer bpn8930 in 繁體中文 (bpn8930)
 
 -- Bahá'u'lláh
 
-Prayer bpn8954 in 繁體中文 (bpn8954) 
+Prayer bpn8954 (bpn8954) 
 
 [bahaiprayers.net 8954](https://bahaiprayers.net/Book/Single/78/8954)
 
@@ -2065,7 +2065,7 @@ Prayer bpn8954 in 繁體中文 (bpn8954)
 
 -- Bahá'u'lláh
 
-Prayer bpn8866 in 繁體中文 (bpn8866) 
+Prayer bpn8866 (bpn8866) 
 
 [bahaiprayers.net 8866](https://bahaiprayers.net/Book/Single/78/8866)
 
@@ -2078,7 +2078,7 @@ Prayer bpn8866 in 繁體中文 (bpn8866)
 
 -- Bahá'u'lláh
 
-Prayer bpn8867 in 繁體中文 (bpn8867) 
+Prayer bpn8867 (bpn8867) 
 
 [bahaiprayers.net 8867](https://bahaiprayers.net/Book/Single/78/8867)
 
@@ -2091,7 +2091,7 @@ Prayer bpn8867 in 繁體中文 (bpn8867)
 
 -- Bahá'u'lláh
 
-Prayer bpn8868 in 繁體中文 (bpn8868) 
+Prayer bpn8868 (bpn8868) 
 
 [bahaiprayers.net 8868](https://bahaiprayers.net/Book/Single/78/8868)
 
@@ -2104,7 +2104,7 @@ Prayer bpn8868 in 繁體中文 (bpn8868)
 
 -- Bahá'u'lláh
 
-Prayer bpn8869 in 繁體中文 (bpn8869) 
+Prayer bpn8869 (bpn8869) 
 
 [bahaiprayers.net 8869](https://bahaiprayers.net/Book/Single/78/8869)
 
@@ -2117,7 +2117,7 @@ Prayer bpn8869 in 繁體中文 (bpn8869)
 
 -- Bahá'u'lláh
 
-Prayer bpn8870 in 繁體中文 (bpn8870) 
+Prayer bpn8870 (bpn8870) 
 
 [bahaiprayers.net 8870](https://bahaiprayers.net/Book/Single/78/8870)
 
@@ -2130,7 +2130,7 @@ Prayer bpn8870 in 繁體中文 (bpn8870)
 
 -- Báb
 
-Prayer bpn8871 in 繁體中文 (bpn8871) 
+Prayer bpn8871 (bpn8871) 
 
 [bahaiprayers.net 8871](https://bahaiprayers.net/Book/Single/78/8871)
 
@@ -2147,7 +2147,7 @@ Prayer bpn8871 in 繁體中文 (bpn8871)
 
 -- Bahá'u'lláh
 
-Prayer bpn8802 in 繁體中文 (bpn8802) 
+Prayer bpn8802 (bpn8802) 
 
 [bahaiprayers.net 8802](https://bahaiprayers.net/Book/Single/78/8802)
 
@@ -2160,7 +2160,7 @@ Prayer bpn8802 in 繁體中文 (bpn8802)
 
 -- Bahá'u'lláh
 
-Prayer bpn8803 in 繁體中文 (bpn8803) 
+Prayer bpn8803 (bpn8803) 
 
 [bahaiprayers.net 8803](https://bahaiprayers.net/Book/Single/78/8803)
 
@@ -2173,7 +2173,7 @@ Prayer bpn8803 in 繁體中文 (bpn8803)
 
 -- Bahá'u'lláh
 
-Prayer bpn8804 in 繁體中文 (bpn8804) 
+Prayer bpn8804 (bpn8804) 
 
 [bahaiprayers.net 8804](https://bahaiprayers.net/Book/Single/78/8804)
 
@@ -2186,7 +2186,7 @@ Prayer bpn8804 in 繁體中文 (bpn8804)
 
 -- Bahá'u'lláh
 
-Prayer bpn8805 in 繁體中文 (bpn8805) 
+Prayer bpn8805 (bpn8805) 
 
 [bahaiprayers.net 8805](https://bahaiprayers.net/Book/Single/78/8805)
 
@@ -2199,7 +2199,7 @@ Prayer bpn8805 in 繁體中文 (bpn8805)
 
 -- Bahá'u'lláh
 
-Prayer bpn8806 in 繁體中文 (bpn8806) 
+Prayer bpn8806 (bpn8806) 
 
 [bahaiprayers.net 8806](https://bahaiprayers.net/Book/Single/78/8806)
 
@@ -2212,7 +2212,7 @@ Prayer bpn8806 in 繁體中文 (bpn8806)
 
 -- Bahá'u'lláh
 
-Prayer bpn8807 in 繁體中文 (bpn8807) 
+Prayer bpn8807 (bpn8807) 
 
 [bahaiprayers.net 8807](https://bahaiprayers.net/Book/Single/78/8807)
 
@@ -2225,7 +2225,7 @@ Prayer bpn8807 in 繁體中文 (bpn8807)
 
 -- Báb
 
-Prayer bpn8808 in 繁體中文 (bpn8808) 
+Prayer bpn8808 (bpn8808) 
 
 [bahaiprayers.net 8808](https://bahaiprayers.net/Book/Single/78/8808)
 
@@ -2238,7 +2238,7 @@ Prayer bpn8808 in 繁體中文 (bpn8808)
 
 -- Báb
 
-Prayer bpn8809 in 繁體中文 (bpn8809) 
+Prayer bpn8809 (bpn8809) 
 
 [bahaiprayers.net 8809](https://bahaiprayers.net/Book/Single/78/8809)
 
@@ -2251,7 +2251,7 @@ Prayer bpn8809 in 繁體中文 (bpn8809)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8810 in 繁體中文 (bpn8810) 
+Prayer bpn8810 (bpn8810) 
 
 [bahaiprayers.net 8810](https://bahaiprayers.net/Book/Single/78/8810)
 
@@ -2264,7 +2264,7 @@ Prayer bpn8810 in 繁體中文 (bpn8810)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8811 in 繁體中文 (bpn8811) 
+Prayer bpn8811 (bpn8811) 
 
 [bahaiprayers.net 8811](https://bahaiprayers.net/Book/Single/78/8811)
 
@@ -2281,7 +2281,7 @@ Prayer bpn8811 in 繁體中文 (bpn8811)
 
 -- Bahá'u'lláh
 
-Prayer bpn8943 in 繁體中文 (bpn8943) 
+Prayer bpn8943 (bpn8943) 
 
 [bahaiprayers.net 8943](https://bahaiprayers.net/Book/Single/78/8943)
 
@@ -2298,7 +2298,7 @@ Prayer bpn8943 in 繁體中文 (bpn8943)
 
 -- Bahá'u'lláh
 
-Prayer bpn8774 in 繁體中文 (bpn8774) 
+Prayer bpn8774 (bpn8774) 
 
 [bahaiprayers.net 8774](https://bahaiprayers.net/Book/Single/78/8774)
 
@@ -2315,7 +2315,7 @@ Prayer bpn8774 in 繁體中文 (bpn8774)
 
 -- Bahá'u'lláh
 
-Prayer bpn8845 in 繁體中文 (bpn8845) 
+Prayer bpn8845 (bpn8845) 
 
 [bahaiprayers.net 8845](https://bahaiprayers.net/Book/Single/78/8845)
 
@@ -2332,7 +2332,7 @@ Prayer bpn8845 in 繁體中文 (bpn8845)
 
 -- Bahá'u'lláh
 
-Prayer bpn8948 in 繁體中文 (bpn8948) 
+Prayer bpn8948 (bpn8948) 
 
 [bahaiprayers.net 8948](https://bahaiprayers.net/Book/Single/78/8948)
 
@@ -2349,7 +2349,7 @@ Prayer bpn8948 in 繁體中文 (bpn8948)
 
 -- Bahá'u'lláh
 
-Prayer bpn8884 in 繁體中文 (bpn8884) 
+Prayer bpn8884 (bpn8884) 
 
 [bahaiprayers.net 8884](https://bahaiprayers.net/Book/Single/78/8884)
 
@@ -2362,7 +2362,7 @@ Prayer bpn8884 in 繁體中文 (bpn8884)
 
 -- Bahá'u'lláh
 
-Prayer bpn8885 in 繁體中文 (bpn8885) 
+Prayer bpn8885 (bpn8885) 
 
 [bahaiprayers.net 8885](https://bahaiprayers.net/Book/Single/78/8885)
 
@@ -2375,7 +2375,7 @@ Prayer bpn8885 in 繁體中文 (bpn8885)
 
 -- Bahá'u'lláh
 
-Prayer bpn8886 in 繁體中文 (bpn8886) 
+Prayer bpn8886 (bpn8886) 
 
 [bahaiprayers.net 8886](https://bahaiprayers.net/Book/Single/78/8886)
 
@@ -2388,7 +2388,7 @@ Prayer bpn8886 in 繁體中文 (bpn8886)
 
 -- Bahá'u'lláh
 
-Prayer bpn8887 in 繁體中文 (bpn8887) 
+Prayer bpn8887 (bpn8887) 
 
 [bahaiprayers.net 8887](https://bahaiprayers.net/Book/Single/78/8887)
 
@@ -2401,7 +2401,7 @@ Prayer bpn8887 in 繁體中文 (bpn8887)
 
 -- Bahá'u'lláh
 
-Prayer bpn8888 in 繁體中文 (bpn8888) 
+Prayer bpn8888 (bpn8888) 
 
 [bahaiprayers.net 8888](https://bahaiprayers.net/Book/Single/78/8888)
 
@@ -2414,7 +2414,7 @@ Prayer bpn8888 in 繁體中文 (bpn8888)
 
 -- Bahá'u'lláh
 
-Prayer bpn8889 in 繁體中文 (bpn8889) 
+Prayer bpn8889 (bpn8889) 
 
 [bahaiprayers.net 8889](https://bahaiprayers.net/Book/Single/78/8889)
 
@@ -2427,7 +2427,7 @@ Prayer bpn8889 in 繁體中文 (bpn8889)
 
 -- Bahá'u'lláh
 
-Prayer bpn8890 in 繁體中文 (bpn8890) 
+Prayer bpn8890 (bpn8890) 
 
 [bahaiprayers.net 8890](https://bahaiprayers.net/Book/Single/78/8890)
 
@@ -2440,7 +2440,7 @@ Prayer bpn8890 in 繁體中文 (bpn8890)
 
 -- Bahá'u'lláh
 
-Prayer bpn8891 in 繁體中文 (bpn8891) 
+Prayer bpn8891 (bpn8891) 
 
 [bahaiprayers.net 8891](https://bahaiprayers.net/Book/Single/78/8891)
 
@@ -2453,7 +2453,7 @@ Prayer bpn8891 in 繁體中文 (bpn8891)
 
 -- Báb
 
-Prayer bpn8892 in 繁體中文 (bpn8892) 
+Prayer bpn8892 (bpn8892) 
 
 [bahaiprayers.net 8892](https://bahaiprayers.net/Book/Single/78/8892)
 
@@ -2466,7 +2466,7 @@ Prayer bpn8892 in 繁體中文 (bpn8892)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8893 in 繁體中文 (bpn8893) 
+Prayer bpn8893 (bpn8893) 
 
 [bahaiprayers.net 8893](https://bahaiprayers.net/Book/Single/78/8893)
 
@@ -2479,7 +2479,7 @@ Prayer bpn8893 in 繁體中文 (bpn8893)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8894 in 繁體中文 (bpn8894) 
+Prayer bpn8894 (bpn8894) 
 
 [bahaiprayers.net 8894](https://bahaiprayers.net/Book/Single/78/8894)
 
@@ -2492,7 +2492,7 @@ Prayer bpn8894 in 繁體中文 (bpn8894)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8895 in 繁體中文 (bpn8895) 
+Prayer bpn8895 (bpn8895) 
 
 [bahaiprayers.net 8895](https://bahaiprayers.net/Book/Single/78/8895)
 
@@ -2505,7 +2505,7 @@ Prayer bpn8895 in 繁體中文 (bpn8895)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8896 in 繁體中文 (bpn8896) 
+Prayer bpn8896 (bpn8896) 
 
 [bahaiprayers.net 8896](https://bahaiprayers.net/Book/Single/78/8896)
 
@@ -2518,7 +2518,7 @@ Prayer bpn8896 in 繁體中文 (bpn8896)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8897 in 繁體中文 (bpn8897) 
+Prayer bpn8897 (bpn8897) 
 
 [bahaiprayers.net 8897](https://bahaiprayers.net/Book/Single/78/8897)
 
@@ -2531,7 +2531,7 @@ Prayer bpn8897 in 繁體中文 (bpn8897)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8898 in 繁體中文 (bpn8898) 
+Prayer bpn8898 (bpn8898) 
 
 [bahaiprayers.net 8898](https://bahaiprayers.net/Book/Single/78/8898)
 
@@ -2544,7 +2544,7 @@ Prayer bpn8898 in 繁體中文 (bpn8898)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8899 in 繁體中文 (bpn8899) 
+Prayer bpn8899 (bpn8899) 
 
 [bahaiprayers.net 8899](https://bahaiprayers.net/Book/Single/78/8899)
 
@@ -2557,7 +2557,7 @@ Prayer bpn8899 in 繁體中文 (bpn8899)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8900 in 繁體中文 (bpn8900) 
+Prayer bpn8900 (bpn8900) 
 
 [bahaiprayers.net 8900](https://bahaiprayers.net/Book/Single/78/8900)
 
@@ -2574,7 +2574,7 @@ Prayer bpn8900 in 繁體中文 (bpn8900)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8882 in 繁體中文 (bpn8882) 
+Prayer bpn8882 (bpn8882) 
 
 [bahaiprayers.net 8882](https://bahaiprayers.net/Book/Single/78/8882)
 
@@ -2587,7 +2587,7 @@ Prayer bpn8882 in 繁體中文 (bpn8882)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8883 in 繁體中文 (bpn8883) 
+Prayer bpn8883 (bpn8883) 
 
 [bahaiprayers.net 8883](https://bahaiprayers.net/Book/Single/78/8883)
 
@@ -2604,7 +2604,7 @@ Prayer bpn8883 in 繁體中文 (bpn8883)
 
 -- Bahá'u'lláh
 
-Prayer bpn8949 in 繁體中文 (bpn8949) 
+Prayer bpn8949 (bpn8949) 
 
 [bahaiprayers.net 8949](https://bahaiprayers.net/Book/Single/78/8949)
 
@@ -2617,7 +2617,7 @@ Prayer bpn8949 in 繁體中文 (bpn8949)
 
 -- Bahá'u'lláh
 
-Prayer bpn8950 in 繁體中文 (bpn8950) 
+Prayer bpn8950 (bpn8950) 
 
 [bahaiprayers.net 8950](https://bahaiprayers.net/Book/Single/78/8950)
 
@@ -2630,7 +2630,7 @@ Prayer bpn8950 in 繁體中文 (bpn8950)
 
 -- Bahá'u'lláh
 
-Prayer bpn8951 in 繁體中文 (bpn8951) 
+Prayer bpn8951 (bpn8951) 
 
 [bahaiprayers.net 8951](https://bahaiprayers.net/Book/Single/78/8951)
 
@@ -2643,7 +2643,7 @@ Prayer bpn8951 in 繁體中文 (bpn8951)
 
 -- Bahá'u'lláh
 
-Prayer bpn8952 in 繁體中文 (bpn8952) 
+Prayer bpn8952 (bpn8952) 
 
 [bahaiprayers.net 8952](https://bahaiprayers.net/Book/Single/78/8952)
 
@@ -2656,7 +2656,7 @@ Prayer bpn8952 in 繁體中文 (bpn8952)
 
 -- Abdu'l-Bahá
 
-Prayer bpn8953 in 繁體中文 (bpn8953) 
+Prayer bpn8953 (bpn8953) 
 
 [bahaiprayers.net 8953](https://bahaiprayers.net/Book/Single/78/8953)
 

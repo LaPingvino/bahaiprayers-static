@@ -32,7 +32,7 @@ tags = ['lang=nal', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn13016 in Nalik (bpn13016) 
+Prayer bpn13016 (bpn13016) 
 
 [bahaiprayers.net 13016](https://bahaiprayers.net/Book/Single/113/13016)
 
@@ -49,7 +49,7 @@ Prayer bpn13016 in Nalik (bpn13016)
 
 -- Bahá'u'lláh
 
-Prayer bpn13009 in Nalik (bpn13009) 
+Prayer bpn13009 (bpn13009) 
 
 [bahaiprayers.net 13009](https://bahaiprayers.net/Book/Single/113/13009)
 
@@ -66,7 +66,7 @@ Prayer bpn13009 in Nalik (bpn13009)
 
 -- Bahá'u'lláh
 
-Prayer bpn13011 in Nalik (bpn13011) 
+Prayer bpn13011 (bpn13011) 
 
 [bahaiprayers.net 13011](https://bahaiprayers.net/Book/Single/113/13011)
 
@@ -83,7 +83,7 @@ Prayer bpn13011 in Nalik (bpn13011)
 
 -- Bahá'u'lláh
 
-Prayer bpn13015 in Nalik (bpn13015) 
+Prayer bpn13015 (bpn13015) 
 
 [bahaiprayers.net 13015](https://bahaiprayers.net/Book/Single/113/13015)
 
@@ -100,7 +100,7 @@ Prayer bpn13015 in Nalik (bpn13015)
 
 -- Bahá'u'lláh
 
-Prayer bpn13012 in Nalik (bpn13012) 
+Prayer bpn13012 (bpn13012) 
 
 [bahaiprayers.net 13012](https://bahaiprayers.net/Book/Single/113/13012)
 
@@ -117,7 +117,7 @@ Prayer bpn13012 in Nalik (bpn13012)
 
 -- Bahá'u'lláh
 
-Prayer bpn13013 in Nalik (bpn13013) 
+Prayer bpn13013 (bpn13013) 
 
 [bahaiprayers.net 13013](https://bahaiprayers.net/Book/Single/113/13013)
 
@@ -134,7 +134,7 @@ Prayer bpn13013 in Nalik (bpn13013)
 
 -- Báb
 
-Prayer bpn13010 in Nalik (bpn13010) 
+Prayer bpn13010 (bpn13010) 
 
 [bahaiprayers.net 13010](https://bahaiprayers.net/Book/Single/113/13010)
 
@@ -151,7 +151,7 @@ Prayer bpn13010 in Nalik (bpn13010)
 
 -- Abdu'l-Bahá
 
-Prayer bpn13014 in Nalik (bpn13014) 
+Prayer bpn13014 (bpn13014) 
 
 [bahaiprayers.net 13014](https://bahaiprayers.net/Book/Single/113/13014)
 

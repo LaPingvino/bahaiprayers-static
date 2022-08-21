@@ -18,7 +18,7 @@ tags = ['lang=ik', 'prayerbook']
 
 -- Bahá'u'lláh
 
-Prayer bpn9104 in Alaska Native (bpn9104) 
+Prayer bpn9104 (bpn9104) 
 
 [bahaiprayers.net 9104](https://bahaiprayers.net/Book/Single/80/9104)
 
@@ -31,7 +31,7 @@ Prayer bpn9104 in Alaska Native (bpn9104)
 
 -- Bahá'u'lláh
 
-Prayer bpn9099 in Alaska Native (bpn9099) 
+Prayer bpn9099 (bpn9099) 
 
 [bahaiprayers.net 9099](https://bahaiprayers.net/Book/Single/80/9099)
 
@@ -44,7 +44,7 @@ Prayer bpn9099 in Alaska Native (bpn9099)
 
 -- Bahá'u'lláh
 
-Prayer bpn9095 in Alaska Native (bpn9095) 
+Prayer bpn9095 (bpn9095) 
 
 [bahaiprayers.net 9095](https://bahaiprayers.net/Book/Single/80/9095)
 
@@ -57,7 +57,7 @@ Prayer bpn9095 in Alaska Native (bpn9095)
 
 -- Bahá'u'lláh
 
-Prayer bpn12873 in Alaska Native (bpn12873) 
+Prayer bpn12873 (bpn12873) 
 
 [bahaiprayers.net 12873](https://bahaiprayers.net/Book/Single/80/12873)
 
@@ -70,7 +70,7 @@ Prayer bpn12873 in Alaska Native (bpn12873)
 
 -- Bahá'u'lláh
 
-Prayer bpn12876 in Alaska Native (bpn12876) 
+Prayer bpn12876 (bpn12876) 
 
 [bahaiprayers.net 12876](https://bahaiprayers.net/Book/Single/80/12876)
 
@@ -83,7 +83,7 @@ Prayer bpn12876 in Alaska Native (bpn12876)
 
 -- Báb
 
-Prayer bpn9103 in Alaska Native (bpn9103) 
+Prayer bpn9103 (bpn9103) 
 
 [bahaiprayers.net 9103](https://bahaiprayers.net/Book/Single/80/9103)
 
@@ -96,7 +96,7 @@ Prayer bpn9103 in Alaska Native (bpn9103)
 
 -- Báb
 
-Prayer bpn12870 in Alaska Native (bpn12870) 
+Prayer bpn12870 (bpn12870) 
 
 [bahaiprayers.net 12870](https://bahaiprayers.net/Book/Single/80/12870)
 
@@ -109,7 +109,7 @@ Prayer bpn12870 in Alaska Native (bpn12870)
 
 -- Báb
 
-Prayer bpn12875 in Alaska Native (bpn12875) 
+Prayer bpn12875 (bpn12875) 
 
 [bahaiprayers.net 12875](https://bahaiprayers.net/Book/Single/80/12875)
 
@@ -122,7 +122,7 @@ Prayer bpn12875 in Alaska Native (bpn12875)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9102 in Alaska Native (bpn9102) 
+Prayer bpn9102 (bpn9102) 
 
 [bahaiprayers.net 9102](https://bahaiprayers.net/Book/Single/80/9102)
 
@@ -135,7 +135,7 @@ Prayer bpn9102 in Alaska Native (bpn9102)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9098 in Alaska Native (bpn9098) 
+Prayer bpn9098 (bpn9098) 
 
 [bahaiprayers.net 9098](https://bahaiprayers.net/Book/Single/80/9098)
 
@@ -148,7 +148,7 @@ Prayer bpn9098 in Alaska Native (bpn9098)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9100 in Alaska Native (bpn9100) 
+Prayer bpn9100 (bpn9100) 
 
 [bahaiprayers.net 9100](https://bahaiprayers.net/Book/Single/80/9100)
 
@@ -161,7 +161,7 @@ Prayer bpn9100 in Alaska Native (bpn9100)
 
 -- Abdu'l-Bahá
 
-Prayer bpn9097 in Alaska Native (bpn9097) 
+Prayer bpn9097 (bpn9097) 
 
 [bahaiprayers.net 9097](https://bahaiprayers.net/Book/Single/80/9097)
 
@@ -174,7 +174,7 @@ Prayer bpn9097 in Alaska Native (bpn9097)
 
 -- Abdu'l-Bahá
 
-Prayer bpn10177 in Alaska Native (bpn10177) 
+Prayer bpn10177 (bpn10177) 
 
 [bahaiprayers.net 10177](https://bahaiprayers.net/Book/Single/80/10177)
 
