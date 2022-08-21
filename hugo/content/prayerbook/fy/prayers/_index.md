@@ -52,11 +52,11 @@ tags = ['lang=fy', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-Guide me, protect me (AB04427LMP) «[Esperanto](../../eo/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[English](../../en/prayers/#AB04427LMP)» 
+Guide me, protect me (AB04427LMP) «[Papiamentu](../../pap/prayers/#AB04427LMP)» «[Nederlands](../../nl/prayers/#AB04427LMP)» «[Esperanto](../../eo/prayers/#AB04427LMP)» «[English](../../en/prayers/#AB04427LMP)» 
 
 [bahaiprayers.net 6018](https://bahaiprayers.net/Book/Single/48/6018)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -70,7 +70,7 @@ Prayer bpn6019 (bpn6019)
 
 [bahaiprayers.net 6019](https://bahaiprayers.net/Book/Single/48/6019)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -84,11 +84,11 @@ Prayer bpn6019 (bpn6019)
 
 -- Báb
 
-Remover of Difficulties (BB00623) «[Esperanto](../../eo/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» 
+Remover of Difficulties (BB00623) «[Português (BR)](../../pt/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» 
 
 [bahaiprayers.net 6020](https://bahaiprayers.net/Book/Single/48/6020)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -98,11 +98,11 @@ Remover of Difficulties (BB00623) «[Esperanto](../../eo/prayers/#BB00623)» «[
 
 -- Báb
 
-God Sufficeth (BB00015SUF) «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Português (BR)](../../pt/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» 
+God Sufficeth (BB00015SUF) «[Português (BR)](../../pt/prayers/#BB00015SUF)» «[Papiamentu](../../pap/prayers/#BB00015SUF)» «[Nederlands](../../nl/prayers/#BB00015SUF)» «[Esperanto](../../eo/prayers/#BB00015SUF)» «[Français](../../fr/prayers/#BB00015SUF)» «[English](../../en/prayers/#BB00015SUF)» 
 
 [bahaiprayers.net 6021](https://bahaiprayers.net/Book/Single/48/6021)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -120,7 +120,7 @@ Prayer for the Death (BH09085) «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 [bahaiprayers.net 6023](https://bahaiprayers.net/Book/Single/48/6023)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -130,11 +130,11 @@ Prayer for the Death (BH09085) «[Português (BR)](../../pt/prayers/#BH09085)» 
 
 -- Abdu'l-Bahá
 
-Prayer AB11094 (AB11094) «[Esperanto](../../eo/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[Español](../../es/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» 
+Prayer AB11094 (AB11094) «[Español](../../es/prayers/#AB11094)» «[Nederlands](../../nl/prayers/#AB11094)» «[Esperanto](../../eo/prayers/#AB11094)» «[English](../../en/prayers/#AB11094)» 
 
 [bahaiprayers.net 6022](https://bahaiprayers.net/Book/Single/48/6022)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -148,11 +148,11 @@ Prayer AB11094 (AB11094) «[Esperanto](../../eo/prayers/#AB11094)» «[Nederland
 
 -- Bahá'u'lláh
 
-Prayer BH04421HEA (BH04421HEA) «[Esperanto](../../eo/prayers/#BH04421HEA)» «[Nederlands](../../nl/prayers/#BH04421HEA)» «[English](../../en/prayers/#BH04421HEA)» 
+Prayer BH04421HEA (BH04421HEA) «[Nederlands](../../nl/prayers/#BH04421HEA)» «[Esperanto](../../eo/prayers/#BH04421HEA)» «[English](../../en/prayers/#BH04421HEA)» 
 
 [bahaiprayers.net 6024](https://bahaiprayers.net/Book/Single/48/6024)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -166,7 +166,7 @@ Prayer bpn6025 (bpn6025)
 
 [bahaiprayers.net 6025](https://bahaiprayers.net/Book/Single/48/6025)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -180,7 +180,7 @@ Prayer bpn6026 (bpn6026)
 
 [bahaiprayers.net 6026](https://bahaiprayers.net/Book/Single/48/6026)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -198,7 +198,7 @@ Prayer AB00774SAB (AB00774SAB) «[English](../../en/prayers/#AB00774SAB)»
 
 [bahaiprayers.net 6027](https://bahaiprayers.net/Book/Single/48/6027)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -212,11 +212,11 @@ Prayer AB00774SAB (AB00774SAB) «[English](../../en/prayers/#AB00774SAB)»
 
 -- Bahá'u'lláh
 
-Thy Name is my Healing (BH01313NAM) «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» 
+Thy Name is my Healing (BH01313NAM) «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» 
 
 [bahaiprayers.net 6028](https://bahaiprayers.net/Book/Single/48/6028)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -234,7 +234,7 @@ Prayer bpn6029 (bpn6029)
 
 [bahaiprayers.net 6029](https://bahaiprayers.net/Book/Single/48/6029)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -244,11 +244,11 @@ Prayer bpn6029 (bpn6029)
 
 -- Bahá'u'lláh
 
-Prayer BH10973 (BH10973) «[Esperanto](../../eo/prayers/#BH10973)» «[Nederlands](../../nl/prayers/#BH10973)» «[English](../../en/prayers/#BH10973)» 
+Prayer BH10973 (BH10973) «[Nederlands](../../nl/prayers/#BH10973)» «[Esperanto](../../eo/prayers/#BH10973)» «[English](../../en/prayers/#BH10973)» 
 
 [bahaiprayers.net 6030](https://bahaiprayers.net/Book/Single/48/6030)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -266,7 +266,7 @@ Prayer AB07158 (AB07158) «[Nederlands](../../nl/prayers/#AB07158)» «[English]
 
 [bahaiprayers.net 6031](https://bahaiprayers.net/Book/Single/48/6031)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -280,11 +280,11 @@ Prayer AB07158 (AB07158) «[Nederlands](../../nl/prayers/#AB07158)» «[English]
 
 -- Bahá'u'lláh
 
-Prayer BH10505 (BH10505) «[Esperanto](../../eo/prayers/#BH10505)» «[Papiamentu](../../pap/prayers/#BH10505)» «[English](../../en/prayers/#BH10505)» 
+Prayer BH10505 (BH10505) «[Papiamentu](../../pap/prayers/#BH10505)» «[Esperanto](../../eo/prayers/#BH10505)» «[English](../../en/prayers/#BH10505)» 
 
 [bahaiprayers.net 6032](https://bahaiprayers.net/Book/Single/48/6032)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -298,7 +298,7 @@ Prayer ABU0137ALL (ABU0137ALL) «[Esperanto](../../eo/prayers/#ABU0137ALL)» «[
 
 [bahaiprayers.net 6033](https://bahaiprayers.net/Book/Single/48/6033)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -312,11 +312,11 @@ Prayer ABU0137ALL (ABU0137ALL) «[Esperanto](../../eo/prayers/#ABU0137ALL)» «[
 
 -- Bahá'u'lláh
 
-Short Obligatory Prayer (BH11209) «[Esperanto](../../eo/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» 
+Short Obligatory Prayer (BH11209) «[Português (BR)](../../pt/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» 
 
 [bahaiprayers.net 6017](https://bahaiprayers.net/Book/Single/48/6017)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -330,11 +330,11 @@ Short Obligatory Prayer (BH11209) «[Esperanto](../../eo/prayers/#BH11209)» «[
 
 -- Bahá'u'lláh
 
-Prayer BH00009SER (BH00009SER) «[Esperanto](../../eo/prayers/#BH00009SER)» «[Português (BR)](../../pt/prayers/#BH00009SER)» «[English](../../en/prayers/#BH00009SER)» 
+Prayer BH00009SER (BH00009SER) «[Português (BR)](../../pt/prayers/#BH00009SER)» «[Esperanto](../../eo/prayers/#BH00009SER)» «[English](../../en/prayers/#BH00009SER)» 
 
 [bahaiprayers.net 6034](https://bahaiprayers.net/Book/Single/48/6034)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -348,11 +348,11 @@ Prayer BH00009SER (BH00009SER) «[Esperanto](../../eo/prayers/#BH00009SER)» «[
 
 -- Bahá'u'lláh
 
-Prayer BH00009SHE (BH00009SHE) «[Slovensky](../../sk/prayers/#BH00009SHE)» «[Esperanto](../../eo/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» 
+Prayer BH00009SHE (BH00009SHE) «[Esperanto](../../eo/prayers/#BH00009SHE)» «[Slovensky](../../sk/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» 
 
 [bahaiprayers.net 6035](https://bahaiprayers.net/Book/Single/48/6035)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -366,7 +366,7 @@ Prayer BH00009AWA (BH00009AWA) «[Nederlands](../../nl/prayers/#BH00009AWA)» «
 
 [bahaiprayers.net 6036](https://bahaiprayers.net/Book/Single/48/6036)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -384,7 +384,7 @@ Naw-Rúz (BH03908) «[Português (BR)](../../pt/prayers/#BH03908)» «[English](
 
 [bahaiprayers.net 6037](https://bahaiprayers.net/Book/Single/48/6037)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -402,7 +402,7 @@ Prayer bpn6041 (bpn6041)
 
 [bahaiprayers.net 6041](https://bahaiprayers.net/Book/Single/48/6041)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -416,11 +416,11 @@ Prayer bpn6041 (bpn6041)
 
 -- Bahá'u'lláh
 
-Tablet of Ahmad (BH02022) «[Slovensky](../../sk/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» 
+Tablet of Ahmad (BH02022) «[Português (BR)](../../pt/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» 
 
 [bahaiprayers.net 6040](https://bahaiprayers.net/Book/Single/48/6040)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -438,7 +438,7 @@ Prayer bpn6038 (bpn6038)
 
 [bahaiprayers.net 6038](https://bahaiprayers.net/Book/Single/48/6038)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
@@ -456,7 +456,7 @@ Prayer bpn6039 (bpn6039)
 
 [bahaiprayers.net 6039](https://bahaiprayers.net/Book/Single/48/6039)
 
-[\^ index](#top)
+[⬆️](#top)
 
 ----
 
