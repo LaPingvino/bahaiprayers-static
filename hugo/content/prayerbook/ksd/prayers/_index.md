@@ -5,6 +5,8 @@ tags = ['lang=ksd', 'prayerbook']
 
 
 
+<a id="top"></a>
+
 
 [A NIARING AIRA UMANA MINAT](#A+NIARING+AIRA+UMANA+MINAT)
 
@@ -40,6 +42,7 @@ Prayer bpn12991 (bpn12991)
 
 [bahaiprayers.net 12991](https://bahaiprayers.net/Book/Single/111/12991)
 
+[^ index](#top)
 
 ----
 
@@ -53,6 +56,7 @@ Prayer bpn12992 (bpn12992)
 
 [bahaiprayers.net 12992](https://bahaiprayers.net/Book/Single/111/12992)
 
+[^ index](#top)
 
 ----
 
@@ -70,6 +74,7 @@ Prayer bpn12985 (bpn12985)
 
 [bahaiprayers.net 12985](https://bahaiprayers.net/Book/Single/111/12985)
 
+[^ index](#top)
 
 ----
 
@@ -87,6 +92,7 @@ Prayer bpn12986 (bpn12986)
 
 [bahaiprayers.net 12986](https://bahaiprayers.net/Book/Single/111/12986)
 
+[^ index](#top)
 
 ----
 
@@ -104,6 +110,7 @@ Prayer bpn12990 (bpn12990)
 
 [bahaiprayers.net 12990](https://bahaiprayers.net/Book/Single/111/12990)
 
+[^ index](#top)
 
 ----
 
@@ -121,6 +128,7 @@ Prayer bpn12989 (bpn12989)
 
 [bahaiprayers.net 12989](https://bahaiprayers.net/Book/Single/111/12989)
 
+[^ index](#top)
 
 ----
 
@@ -138,6 +146,7 @@ Prayer bpn12987 (bpn12987)
 
 [bahaiprayers.net 12987](https://bahaiprayers.net/Book/Single/111/12987)
 
+[^ index](#top)
 
 ----
 
@@ -155,6 +164,7 @@ Prayer bpn12993 (bpn12993)
 
 [bahaiprayers.net 12993](https://bahaiprayers.net/Book/Single/111/12993)
 
+[^ index](#top)
 
 ----
 
@@ -172,6 +182,7 @@ Prayer bpn12984 (bpn12984)
 
 [bahaiprayers.net 12984](https://bahaiprayers.net/Book/Single/111/12984)
 
+[^ index](#top)
 
 ----
 
@@ -189,6 +200,7 @@ Prayer bpn12983 (bpn12983)
 
 [bahaiprayers.net 12983](https://bahaiprayers.net/Book/Single/111/12983)
 
+[^ index](#top)
 
 ----
 
@@ -206,6 +218,7 @@ Prayer bpn12988 (bpn12988)
 
 [bahaiprayers.net 12988](https://bahaiprayers.net/Book/Single/111/12988)
 
+[^ index](#top)
 
 ----
 

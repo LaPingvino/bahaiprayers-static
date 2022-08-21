@@ -5,6 +5,8 @@ tags = ['lang=hz', 'prayerbook']
 
 
 
+<a id="top"></a>
+
 
 [Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib](#Khoekhoegowab%3A++Baha%E2%80%99u%E2%80%99llab+di+%E2%89%A0gai-khaiga+xu+%21kho-%E2%89%A0uihe+ha+%2FGui-%2Fguib)
 
@@ -200,6 +202,7 @@ Prayer bpn12410 (bpn12410)
 
 [bahaiprayers.net 12410](https://bahaiprayers.net/Book/Single/46/12410)
 
+[^ index](#top)
 
 ----
 
@@ -217,6 +220,7 @@ Prayer bpn12384 (bpn12384)
 
 [bahaiprayers.net 12384](https://bahaiprayers.net/Book/Single/46/12384)
 
+[^ index](#top)
 
 ----
 
@@ -234,6 +238,7 @@ Prayer bpn12387 (bpn12387)
 
 [bahaiprayers.net 12387](https://bahaiprayers.net/Book/Single/46/12387)
 
+[^ index](#top)
 
 ----
 
@@ -251,6 +256,7 @@ Prayer bpn12392 (bpn12392)
 
 [bahaiprayers.net 12392](https://bahaiprayers.net/Book/Single/46/12392)
 
+[^ index](#top)
 
 ----
 
@@ -268,6 +274,7 @@ Prayer bpn12390 (bpn12390)
 
 [bahaiprayers.net 12390](https://bahaiprayers.net/Book/Single/46/12390)
 
+[^ index](#top)
 
 ----
 
@@ -285,6 +292,7 @@ Prayer bpn12396 (bpn12396)
 
 [bahaiprayers.net 12396](https://bahaiprayers.net/Book/Single/46/12396)
 
+[^ index](#top)
 
 ----
 
@@ -302,6 +310,7 @@ Prayer bpn12400 (bpn12400)
 
 [bahaiprayers.net 12400](https://bahaiprayers.net/Book/Single/46/12400)
 
+[^ index](#top)
 
 ----
 
@@ -315,6 +324,7 @@ Prayer bpn12401 (bpn12401)
 
 [bahaiprayers.net 12401](https://bahaiprayers.net/Book/Single/46/12401)
 
+[^ index](#top)
 
 ----
 
@@ -332,6 +342,7 @@ Prayer bpn12402 (bpn12402)
 
 [bahaiprayers.net 12402](https://bahaiprayers.net/Book/Single/46/12402)
 
+[^ index](#top)
 
 ----
 
@@ -345,6 +356,7 @@ Prayer bpn12403 (bpn12403)
 
 [bahaiprayers.net 12403](https://bahaiprayers.net/Book/Single/46/12403)
 
+[^ index](#top)
 
 ----
 
@@ -358,6 +370,7 @@ Prayer bpn12404 (bpn12404)
 
 [bahaiprayers.net 12404](https://bahaiprayers.net/Book/Single/46/12404)
 
+[^ index](#top)
 
 ----
 
@@ -371,6 +384,7 @@ Prayer bpn12405 (bpn12405)
 
 [bahaiprayers.net 12405](https://bahaiprayers.net/Book/Single/46/12405)
 
+[^ index](#top)
 
 ----
 
@@ -384,6 +398,7 @@ Prayer bpn12406 (bpn12406)
 
 [bahaiprayers.net 12406](https://bahaiprayers.net/Book/Single/46/12406)
 
+[^ index](#top)
 
 ----
 
@@ -397,6 +412,7 @@ Prayer bpn12407 (bpn12407)
 
 [bahaiprayers.net 12407](https://bahaiprayers.net/Book/Single/46/12407)
 
+[^ index](#top)
 
 ----
 
@@ -410,6 +426,7 @@ Prayer bpn12408 (bpn12408)
 
 [bahaiprayers.net 12408](https://bahaiprayers.net/Book/Single/46/12408)
 
+[^ index](#top)
 
 ----
 
@@ -423,6 +440,7 @@ Prayer bpn12409 (bpn12409)
 
 [bahaiprayers.net 12409](https://bahaiprayers.net/Book/Single/46/12409)
 
+[^ index](#top)
 
 ----
 
@@ -440,6 +458,7 @@ Prayer bpn12411 (bpn12411)
 
 [bahaiprayers.net 12411](https://bahaiprayers.net/Book/Single/46/12411)
 
+[^ index](#top)
 
 ----
 
@@ -457,6 +476,7 @@ Prayer bpn12388 (bpn12388)
 
 [bahaiprayers.net 12388](https://bahaiprayers.net/Book/Single/46/12388)
 
+[^ index](#top)
 
 ----
 
@@ -474,6 +494,7 @@ Prayer bpn12394 (bpn12394)
 
 [bahaiprayers.net 12394](https://bahaiprayers.net/Book/Single/46/12394)
 
+[^ index](#top)
 
 ----
 
@@ -491,6 +512,7 @@ Prayer bpn12398 (bpn12398)
 
 [bahaiprayers.net 12398](https://bahaiprayers.net/Book/Single/46/12398)
 
+[^ index](#top)
 
 ----
 
@@ -508,6 +530,7 @@ Prayer bpn12385 (bpn12385)
 
 [bahaiprayers.net 12385](https://bahaiprayers.net/Book/Single/46/12385)
 
+[^ index](#top)
 
 ----
 
@@ -525,6 +548,7 @@ Prayer bpn12386 (bpn12386)
 
 [bahaiprayers.net 12386](https://bahaiprayers.net/Book/Single/46/12386)
 
+[^ index](#top)
 
 ----
 
@@ -542,6 +566,7 @@ Prayer bpn12393 (bpn12393)
 
 [bahaiprayers.net 12393](https://bahaiprayers.net/Book/Single/46/12393)
 
+[^ index](#top)
 
 ----
 
@@ -559,6 +584,7 @@ Prayer bpn12389 (bpn12389)
 
 [bahaiprayers.net 12389](https://bahaiprayers.net/Book/Single/46/12389)
 
+[^ index](#top)
 
 ----
 
@@ -576,6 +602,7 @@ Prayer bpn12397 (bpn12397)
 
 [bahaiprayers.net 12397](https://bahaiprayers.net/Book/Single/46/12397)
 
+[^ index](#top)
 
 ----
 
@@ -593,6 +620,7 @@ Prayer bpn12395 (bpn12395)
 
 [bahaiprayers.net 12395](https://bahaiprayers.net/Book/Single/46/12395)
 
+[^ index](#top)
 
 ----
 
@@ -610,6 +638,7 @@ Prayer bpn12399 (bpn12399)
 
 [bahaiprayers.net 12399](https://bahaiprayers.net/Book/Single/46/12399)
 
+[^ index](#top)
 
 ----
 
@@ -627,6 +656,7 @@ Prayer bpn12391 (bpn12391)
 
 [bahaiprayers.net 12391](https://bahaiprayers.net/Book/Single/46/12391)
 
+[^ index](#top)
 
 ----
 
@@ -644,6 +674,7 @@ Prayer bpn12443 (bpn12443)
 
 [bahaiprayers.net 12443](https://bahaiprayers.net/Book/Single/46/12443)
 
+[^ index](#top)
 
 ----
 
@@ -661,6 +692,7 @@ Prayer bpn12450 (bpn12450)
 
 [bahaiprayers.net 12450](https://bahaiprayers.net/Book/Single/46/12450)
 
+[^ index](#top)
 
 ----
 
@@ -678,6 +710,7 @@ Prayer bpn12453 (bpn12453)
 
 [bahaiprayers.net 12453](https://bahaiprayers.net/Book/Single/46/12453)
 
+[^ index](#top)
 
 ----
 
@@ -695,6 +728,7 @@ Prayer bpn12441 (bpn12441)
 
 [bahaiprayers.net 12441](https://bahaiprayers.net/Book/Single/46/12441)
 
+[^ index](#top)
 
 ----
 
@@ -712,6 +746,7 @@ Prayer bpn12446 (bpn12446)
 
 [bahaiprayers.net 12446](https://bahaiprayers.net/Book/Single/46/12446)
 
+[^ index](#top)
 
 ----
 
@@ -729,6 +764,7 @@ Prayer bpn12458 (bpn12458)
 
 [bahaiprayers.net 12458](https://bahaiprayers.net/Book/Single/46/12458)
 
+[^ index](#top)
 
 ----
 
@@ -742,6 +778,7 @@ Prayer bpn12454 (bpn12454)
 
 [bahaiprayers.net 12454](https://bahaiprayers.net/Book/Single/46/12454)
 
+[^ index](#top)
 
 ----
 
@@ -759,6 +796,7 @@ Prayer bpn12442 (bpn12442)
 
 [bahaiprayers.net 12442](https://bahaiprayers.net/Book/Single/46/12442)
 
+[^ index](#top)
 
 ----
 
@@ -776,6 +814,7 @@ Prayer bpn12455 (bpn12455)
 
 [bahaiprayers.net 12455](https://bahaiprayers.net/Book/Single/46/12455)
 
+[^ index](#top)
 
 ----
 
@@ -793,6 +832,7 @@ Prayer bpn12473 (bpn12473)
 
 [bahaiprayers.net 12473](https://bahaiprayers.net/Book/Single/46/12473)
 
+[^ index](#top)
 
 ----
 
@@ -806,6 +846,7 @@ Prayer bpn12474 (bpn12474)
 
 [bahaiprayers.net 12474](https://bahaiprayers.net/Book/Single/46/12474)
 
+[^ index](#top)
 
 ----
 
@@ -823,6 +864,7 @@ Prayer bpn12469 (bpn12469)
 
 [bahaiprayers.net 12469](https://bahaiprayers.net/Book/Single/46/12469)
 
+[^ index](#top)
 
 ----
 
@@ -836,6 +878,7 @@ Prayer bpn12470 (bpn12470)
 
 [bahaiprayers.net 12470](https://bahaiprayers.net/Book/Single/46/12470)
 
+[^ index](#top)
 
 ----
 
@@ -849,6 +892,7 @@ Prayer bpn12471 (bpn12471)
 
 [bahaiprayers.net 12471](https://bahaiprayers.net/Book/Single/46/12471)
 
+[^ index](#top)
 
 ----
 
@@ -866,6 +910,7 @@ Prayer bpn12456 (bpn12456)
 
 [bahaiprayers.net 12456](https://bahaiprayers.net/Book/Single/46/12456)
 
+[^ index](#top)
 
 ----
 
@@ -883,6 +928,7 @@ Prayer bpn12444 (bpn12444)
 
 [bahaiprayers.net 12444](https://bahaiprayers.net/Book/Single/46/12444)
 
+[^ index](#top)
 
 ----
 
@@ -900,6 +946,7 @@ Prayer bpn12445 (bpn12445)
 
 [bahaiprayers.net 12445](https://bahaiprayers.net/Book/Single/46/12445)
 
+[^ index](#top)
 
 ----
 
@@ -917,6 +964,7 @@ Prayer bpn12447 (bpn12447)
 
 [bahaiprayers.net 12447](https://bahaiprayers.net/Book/Single/46/12447)
 
+[^ index](#top)
 
 ----
 
@@ -934,6 +982,7 @@ Prayer bpn12448 (bpn12448)
 
 [bahaiprayers.net 12448](https://bahaiprayers.net/Book/Single/46/12448)
 
+[^ index](#top)
 
 ----
 
@@ -951,6 +1000,7 @@ Prayer bpn12452 (bpn12452)
 
 [bahaiprayers.net 12452](https://bahaiprayers.net/Book/Single/46/12452)
 
+[^ index](#top)
 
 ----
 
@@ -968,6 +1018,7 @@ Prayer bpn12449 (bpn12449)
 
 [bahaiprayers.net 12449](https://bahaiprayers.net/Book/Single/46/12449)
 
+[^ index](#top)
 
 ----
 
@@ -985,6 +1036,7 @@ Prayer bpn12451 (bpn12451)
 
 [bahaiprayers.net 12451](https://bahaiprayers.net/Book/Single/46/12451)
 
+[^ index](#top)
 
 ----
 
@@ -1002,6 +1054,7 @@ Prayer bpn12472 (bpn12472)
 
 [bahaiprayers.net 12472](https://bahaiprayers.net/Book/Single/46/12472)
 
+[^ index](#top)
 
 ----
 
@@ -1019,6 +1072,7 @@ Prayer bpn12457 (bpn12457)
 
 [bahaiprayers.net 12457](https://bahaiprayers.net/Book/Single/46/12457)
 
+[^ index](#top)
 
 ----
 
@@ -1036,6 +1090,7 @@ Prayer bpn12475 (bpn12475)
 
 [bahaiprayers.net 12475](https://bahaiprayers.net/Book/Single/46/12475)
 
+[^ index](#top)
 
 ----
 
@@ -1053,6 +1108,7 @@ Prayer bpn12459 (bpn12459)
 
 [bahaiprayers.net 12459](https://bahaiprayers.net/Book/Single/46/12459)
 
+[^ index](#top)
 
 ----
 
@@ -1066,6 +1122,7 @@ Prayer bpn12460 (bpn12460)
 
 [bahaiprayers.net 12460](https://bahaiprayers.net/Book/Single/46/12460)
 
+[^ index](#top)
 
 ----
 
@@ -1079,6 +1136,7 @@ Prayer bpn12461 (bpn12461)
 
 [bahaiprayers.net 12461](https://bahaiprayers.net/Book/Single/46/12461)
 
+[^ index](#top)
 
 ----
 
@@ -1092,6 +1150,7 @@ Prayer bpn12462 (bpn12462)
 
 [bahaiprayers.net 12462](https://bahaiprayers.net/Book/Single/46/12462)
 
+[^ index](#top)
 
 ----
 
@@ -1105,6 +1164,7 @@ Prayer bpn12463 (bpn12463)
 
 [bahaiprayers.net 12463](https://bahaiprayers.net/Book/Single/46/12463)
 
+[^ index](#top)
 
 ----
 
@@ -1118,6 +1178,7 @@ Prayer bpn12464 (bpn12464)
 
 [bahaiprayers.net 12464](https://bahaiprayers.net/Book/Single/46/12464)
 
+[^ index](#top)
 
 ----
 
@@ -1131,6 +1192,7 @@ Prayer bpn12465 (bpn12465)
 
 [bahaiprayers.net 12465](https://bahaiprayers.net/Book/Single/46/12465)
 
+[^ index](#top)
 
 ----
 
@@ -1144,6 +1206,7 @@ Prayer bpn12466 (bpn12466)
 
 [bahaiprayers.net 12466](https://bahaiprayers.net/Book/Single/46/12466)
 
+[^ index](#top)
 
 ----
 
@@ -1157,6 +1220,7 @@ Prayer bpn12467 (bpn12467)
 
 [bahaiprayers.net 12467](https://bahaiprayers.net/Book/Single/46/12467)
 
+[^ index](#top)
 
 ----
 
@@ -1170,6 +1234,7 @@ Prayer bpn12468 (bpn12468)
 
 [bahaiprayers.net 12468](https://bahaiprayers.net/Book/Single/46/12468)
 
+[^ index](#top)
 
 ----
 
@@ -1187,6 +1252,7 @@ Prayer bpn6044 (bpn6044)
 
 [bahaiprayers.net 6044](https://bahaiprayers.net/Book/Single/46/6044)
 
+[^ index](#top)
 
 ----
 
@@ -1204,6 +1270,7 @@ Prayer bpn6050 (bpn6050)
 
 [bahaiprayers.net 6050](https://bahaiprayers.net/Book/Single/46/6050)
 
+[^ index](#top)
 
 ----
 
@@ -1221,6 +1288,7 @@ Prayer bpn6051 (bpn6051)
 
 [bahaiprayers.net 6051](https://bahaiprayers.net/Book/Single/46/6051)
 
+[^ index](#top)
 
 ----
 
@@ -1238,6 +1306,7 @@ Prayer bpn6048 (bpn6048)
 
 [bahaiprayers.net 6048](https://bahaiprayers.net/Book/Single/46/6048)
 
+[^ index](#top)
 
 ----
 
@@ -1255,6 +1324,7 @@ Prayer bpn6045 (bpn6045)
 
 [bahaiprayers.net 6045](https://bahaiprayers.net/Book/Single/46/6045)
 
+[^ index](#top)
 
 ----
 
@@ -1268,6 +1338,7 @@ Prayer bpn6046 (bpn6046)
 
 [bahaiprayers.net 6046](https://bahaiprayers.net/Book/Single/46/6046)
 
+[^ index](#top)
 
 ----
 
@@ -1285,6 +1356,7 @@ Prayer bpn6043 (bpn6043)
 
 [bahaiprayers.net 6043](https://bahaiprayers.net/Book/Single/46/6043)
 
+[^ index](#top)
 
 ----
 
@@ -1302,6 +1374,7 @@ Prayer bpn6047 (bpn6047)
 
 [bahaiprayers.net 6047](https://bahaiprayers.net/Book/Single/46/6047)
 
+[^ index](#top)
 
 ----
 
@@ -1319,6 +1392,7 @@ Prayer bpn6049 (bpn6049)
 
 [bahaiprayers.net 6049](https://bahaiprayers.net/Book/Single/46/6049)
 
+[^ index](#top)
 
 ----
 
@@ -1336,6 +1410,7 @@ Prayer bpn6056 (bpn6056)
 
 [bahaiprayers.net 6056](https://bahaiprayers.net/Book/Single/46/6056)
 
+[^ index](#top)
 
 ----
 
@@ -1353,6 +1428,7 @@ Prayer bpn6058 (bpn6058)
 
 [bahaiprayers.net 6058](https://bahaiprayers.net/Book/Single/46/6058)
 
+[^ index](#top)
 
 ----
 
@@ -1370,6 +1446,7 @@ Prayer bpn6057 (bpn6057)
 
 [bahaiprayers.net 6057](https://bahaiprayers.net/Book/Single/46/6057)
 
+[^ index](#top)
 
 ----
 
@@ -1387,6 +1464,7 @@ Prayer bpn6059 (bpn6059)
 
 [bahaiprayers.net 6059](https://bahaiprayers.net/Book/Single/46/6059)
 
+[^ index](#top)
 
 ----
 
@@ -1400,6 +1478,7 @@ Prayer bpn6060 (bpn6060)
 
 [bahaiprayers.net 6060](https://bahaiprayers.net/Book/Single/46/6060)
 
+[^ index](#top)
 
 ----
 
@@ -1413,6 +1492,7 @@ Prayer bpn6061 (bpn6061)
 
 [bahaiprayers.net 6061](https://bahaiprayers.net/Book/Single/46/6061)
 
+[^ index](#top)
 
 ----
 
@@ -1426,6 +1506,7 @@ Prayer bpn6062 (bpn6062)
 
 [bahaiprayers.net 6062](https://bahaiprayers.net/Book/Single/46/6062)
 
+[^ index](#top)
 
 ----
 
@@ -1439,6 +1520,7 @@ Prayer bpn6063 (bpn6063)
 
 [bahaiprayers.net 6063](https://bahaiprayers.net/Book/Single/46/6063)
 
+[^ index](#top)
 
 ----
 
@@ -1452,6 +1534,7 @@ Prayer bpn6064 (bpn6064)
 
 [bahaiprayers.net 6064](https://bahaiprayers.net/Book/Single/46/6064)
 
+[^ index](#top)
 
 ----
 
@@ -1465,6 +1548,7 @@ Prayer bpn6065 (bpn6065)
 
 [bahaiprayers.net 6065](https://bahaiprayers.net/Book/Single/46/6065)
 
+[^ index](#top)
 
 ----
 
@@ -1478,6 +1562,7 @@ Prayer bpn6066 (bpn6066)
 
 [bahaiprayers.net 6066](https://bahaiprayers.net/Book/Single/46/6066)
 
+[^ index](#top)
 
 ----
 
@@ -1491,6 +1576,7 @@ Prayer bpn6067 (bpn6067)
 
 [bahaiprayers.net 6067](https://bahaiprayers.net/Book/Single/46/6067)
 
+[^ index](#top)
 
 ----
 
@@ -1504,6 +1590,7 @@ Prayer bpn6068 (bpn6068)
 
 [bahaiprayers.net 6068](https://bahaiprayers.net/Book/Single/46/6068)
 
+[^ index](#top)
 
 ----
 
@@ -1517,6 +1604,7 @@ Prayer bpn6069 (bpn6069)
 
 [bahaiprayers.net 6069](https://bahaiprayers.net/Book/Single/46/6069)
 
+[^ index](#top)
 
 ----
 
@@ -1530,6 +1618,7 @@ Prayer bpn6070 (bpn6070)
 
 [bahaiprayers.net 6070](https://bahaiprayers.net/Book/Single/46/6070)
 
+[^ index](#top)
 
 ----
 
@@ -1543,6 +1632,7 @@ Prayer bpn6071 (bpn6071)
 
 [bahaiprayers.net 6071](https://bahaiprayers.net/Book/Single/46/6071)
 
+[^ index](#top)
 
 ----
 
@@ -1560,6 +1650,7 @@ Prayer bpn6052 (bpn6052)
 
 [bahaiprayers.net 6052](https://bahaiprayers.net/Book/Single/46/6052)
 
+[^ index](#top)
 
 ----
 
@@ -1573,6 +1664,7 @@ Prayer bpn6053 (bpn6053)
 
 [bahaiprayers.net 6053](https://bahaiprayers.net/Book/Single/46/6053)
 
+[^ index](#top)
 
 ----
 
@@ -1586,6 +1678,7 @@ Prayer bpn6054 (bpn6054)
 
 [bahaiprayers.net 6054](https://bahaiprayers.net/Book/Single/46/6054)
 
+[^ index](#top)
 
 ----
 
@@ -1599,6 +1692,7 @@ Prayer bpn6055 (bpn6055)
 
 [bahaiprayers.net 6055](https://bahaiprayers.net/Book/Single/46/6055)
 
+[^ index](#top)
 
 ----
 
@@ -1616,6 +1710,7 @@ Prayer bpn12425 (bpn12425)
 
 [bahaiprayers.net 12425](https://bahaiprayers.net/Book/Single/46/12425)
 
+[^ index](#top)
 
 ----
 
@@ -1629,6 +1724,7 @@ Prayer bpn12429 (bpn12429)
 
 [bahaiprayers.net 12429](https://bahaiprayers.net/Book/Single/46/12429)
 
+[^ index](#top)
 
 ----
 
@@ -1646,6 +1742,7 @@ Prayer bpn12426 (bpn12426)
 
 [bahaiprayers.net 12426](https://bahaiprayers.net/Book/Single/46/12426)
 
+[^ index](#top)
 
 ----
 
@@ -1663,6 +1760,7 @@ Prayer bpn12415 (bpn12415)
 
 [bahaiprayers.net 12415](https://bahaiprayers.net/Book/Single/46/12415)
 
+[^ index](#top)
 
 ----
 
@@ -1680,6 +1778,7 @@ Prayer bpn12416 (bpn12416)
 
 [bahaiprayers.net 12416](https://bahaiprayers.net/Book/Single/46/12416)
 
+[^ index](#top)
 
 ----
 
@@ -1697,6 +1796,7 @@ Prayer bpn12421 (bpn12421)
 
 [bahaiprayers.net 12421](https://bahaiprayers.net/Book/Single/46/12421)
 
+[^ index](#top)
 
 ----
 
@@ -1714,6 +1814,7 @@ Prayer bpn12414 (bpn12414)
 
 [bahaiprayers.net 12414](https://bahaiprayers.net/Book/Single/46/12414)
 
+[^ index](#top)
 
 ----
 
@@ -1731,6 +1832,7 @@ Prayer bpn12413 (bpn12413)
 
 [bahaiprayers.net 12413](https://bahaiprayers.net/Book/Single/46/12413)
 
+[^ index](#top)
 
 ----
 
@@ -1748,6 +1850,7 @@ Prayer bpn12417 (bpn12417)
 
 [bahaiprayers.net 12417](https://bahaiprayers.net/Book/Single/46/12417)
 
+[^ index](#top)
 
 ----
 
@@ -1765,6 +1868,7 @@ Prayer bpn12428 (bpn12428)
 
 [bahaiprayers.net 12428](https://bahaiprayers.net/Book/Single/46/12428)
 
+[^ index](#top)
 
 ----
 
@@ -1782,6 +1886,7 @@ Prayer bpn12427 (bpn12427)
 
 [bahaiprayers.net 12427](https://bahaiprayers.net/Book/Single/46/12427)
 
+[^ index](#top)
 
 ----
 
@@ -1799,6 +1904,7 @@ Prayer bpn12430 (bpn12430)
 
 [bahaiprayers.net 12430](https://bahaiprayers.net/Book/Single/46/12430)
 
+[^ index](#top)
 
 ----
 
@@ -1812,6 +1918,7 @@ Prayer bpn12431 (bpn12431)
 
 [bahaiprayers.net 12431](https://bahaiprayers.net/Book/Single/46/12431)
 
+[^ index](#top)
 
 ----
 
@@ -1825,6 +1932,7 @@ Prayer bpn12432 (bpn12432)
 
 [bahaiprayers.net 12432](https://bahaiprayers.net/Book/Single/46/12432)
 
+[^ index](#top)
 
 ----
 
@@ -1838,6 +1946,7 @@ Prayer bpn12433 (bpn12433)
 
 [bahaiprayers.net 12433](https://bahaiprayers.net/Book/Single/46/12433)
 
+[^ index](#top)
 
 ----
 
@@ -1851,6 +1960,7 @@ Prayer bpn12434 (bpn12434)
 
 [bahaiprayers.net 12434](https://bahaiprayers.net/Book/Single/46/12434)
 
+[^ index](#top)
 
 ----
 
@@ -1864,6 +1974,7 @@ Prayer bpn12435 (bpn12435)
 
 [bahaiprayers.net 12435](https://bahaiprayers.net/Book/Single/46/12435)
 
+[^ index](#top)
 
 ----
 
@@ -1877,6 +1988,7 @@ Prayer bpn12436 (bpn12436)
 
 [bahaiprayers.net 12436](https://bahaiprayers.net/Book/Single/46/12436)
 
+[^ index](#top)
 
 ----
 
@@ -1890,6 +2002,7 @@ Prayer bpn12437 (bpn12437)
 
 [bahaiprayers.net 12437](https://bahaiprayers.net/Book/Single/46/12437)
 
+[^ index](#top)
 
 ----
 
@@ -1903,6 +2016,7 @@ Prayer bpn12438 (bpn12438)
 
 [bahaiprayers.net 12438](https://bahaiprayers.net/Book/Single/46/12438)
 
+[^ index](#top)
 
 ----
 
@@ -1920,6 +2034,7 @@ Prayer bpn12412 (bpn12412)
 
 [bahaiprayers.net 12412](https://bahaiprayers.net/Book/Single/46/12412)
 
+[^ index](#top)
 
 ----
 
@@ -1937,6 +2052,7 @@ Prayer bpn12418 (bpn12418)
 
 [bahaiprayers.net 12418](https://bahaiprayers.net/Book/Single/46/12418)
 
+[^ index](#top)
 
 ----
 
@@ -1954,6 +2070,7 @@ Prayer bpn12419 (bpn12419)
 
 [bahaiprayers.net 12419](https://bahaiprayers.net/Book/Single/46/12419)
 
+[^ index](#top)
 
 ----
 
@@ -1971,6 +2088,7 @@ Prayer bpn12424 (bpn12424)
 
 [bahaiprayers.net 12424](https://bahaiprayers.net/Book/Single/46/12424)
 
+[^ index](#top)
 
 ----
 
@@ -1988,6 +2106,7 @@ Prayer bpn12423 (bpn12423)
 
 [bahaiprayers.net 12423](https://bahaiprayers.net/Book/Single/46/12423)
 
+[^ index](#top)
 
 ----
 
@@ -2005,6 +2124,7 @@ Prayer bpn12422 (bpn12422)
 
 [bahaiprayers.net 12422](https://bahaiprayers.net/Book/Single/46/12422)
 
+[^ index](#top)
 
 ----
 
@@ -2022,6 +2142,7 @@ Prayer bpn12420 (bpn12420)
 
 [bahaiprayers.net 12420](https://bahaiprayers.net/Book/Single/46/12420)
 
+[^ index](#top)
 
 ----
 
@@ -2039,6 +2160,7 @@ Prayer bpn12440 (bpn12440)
 
 [bahaiprayers.net 12440](https://bahaiprayers.net/Book/Single/46/12440)
 
+[^ index](#top)
 
 ----
 
@@ -2056,6 +2178,7 @@ Prayer bpn12439 (bpn12439)
 
 [bahaiprayers.net 12439](https://bahaiprayers.net/Book/Single/46/12439)
 
+[^ index](#top)
 
 ----
 
@@ -2073,6 +2196,7 @@ Prayer bpn6013 (bpn6013)
 
 [bahaiprayers.net 6013](https://bahaiprayers.net/Book/Single/46/6013)
 
+[^ index](#top)
 
 ----
 
@@ -2090,6 +2214,7 @@ Prayer bpn6014 (bpn6014)
 
 [bahaiprayers.net 6014](https://bahaiprayers.net/Book/Single/46/6014)
 
+[^ index](#top)
 
 ----
 
@@ -2107,6 +2232,7 @@ Prayer bpn6012 (bpn6012)
 
 [bahaiprayers.net 6012](https://bahaiprayers.net/Book/Single/46/6012)
 
+[^ index](#top)
 
 ----
 
@@ -2124,6 +2250,7 @@ Prayer bpn6313 (bpn6313)
 
 [bahaiprayers.net 6313](https://bahaiprayers.net/Book/Single/46/6313)
 
+[^ index](#top)
 
 ----
 
@@ -2141,6 +2268,7 @@ Prayer bpn6318 (bpn6318)
 
 [bahaiprayers.net 6318](https://bahaiprayers.net/Book/Single/46/6318)
 
+[^ index](#top)
 
 ----
 
@@ -2158,6 +2286,7 @@ Prayer bpn6320 (bpn6320)
 
 [bahaiprayers.net 6320](https://bahaiprayers.net/Book/Single/46/6320)
 
+[^ index](#top)
 
 ----
 
@@ -2175,6 +2304,7 @@ Prayer bpn6327 (bpn6327)
 
 [bahaiprayers.net 6327](https://bahaiprayers.net/Book/Single/46/6327)
 
+[^ index](#top)
 
 ----
 
@@ -2188,6 +2318,7 @@ Prayer bpn6328 (bpn6328)
 
 [bahaiprayers.net 6328](https://bahaiprayers.net/Book/Single/46/6328)
 
+[^ index](#top)
 
 ----
 
@@ -2205,6 +2336,7 @@ Prayer bpn6314 (bpn6314)
 
 [bahaiprayers.net 6314](https://bahaiprayers.net/Book/Single/46/6314)
 
+[^ index](#top)
 
 ----
 
@@ -2222,6 +2354,7 @@ Prayer bpn6326 (bpn6326)
 
 [bahaiprayers.net 6326](https://bahaiprayers.net/Book/Single/46/6326)
 
+[^ index](#top)
 
 ----
 
@@ -2239,6 +2372,7 @@ Prayer bpn6321 (bpn6321)
 
 [bahaiprayers.net 6321](https://bahaiprayers.net/Book/Single/46/6321)
 
+[^ index](#top)
 
 ----
 
@@ -2256,6 +2390,7 @@ Prayer bpn6315 (bpn6315)
 
 [bahaiprayers.net 6315](https://bahaiprayers.net/Book/Single/46/6315)
 
+[^ index](#top)
 
 ----
 
@@ -2269,6 +2404,7 @@ Prayer bpn6316 (bpn6316)
 
 [bahaiprayers.net 6316](https://bahaiprayers.net/Book/Single/46/6316)
 
+[^ index](#top)
 
 ----
 
@@ -2286,6 +2422,7 @@ Prayer bpn6317 (bpn6317)
 
 [bahaiprayers.net 6317](https://bahaiprayers.net/Book/Single/46/6317)
 
+[^ index](#top)
 
 ----
 
@@ -2303,6 +2440,7 @@ Prayer bpn6329 (bpn6329)
 
 [bahaiprayers.net 6329](https://bahaiprayers.net/Book/Single/46/6329)
 
+[^ index](#top)
 
 ----
 
@@ -2316,6 +2454,7 @@ Prayer bpn6330 (bpn6330)
 
 [bahaiprayers.net 6330](https://bahaiprayers.net/Book/Single/46/6330)
 
+[^ index](#top)
 
 ----
 
@@ -2329,6 +2468,7 @@ Prayer bpn6331 (bpn6331)
 
 [bahaiprayers.net 6331](https://bahaiprayers.net/Book/Single/46/6331)
 
+[^ index](#top)
 
 ----
 
@@ -2342,6 +2482,7 @@ Prayer bpn6332 (bpn6332)
 
 [bahaiprayers.net 6332](https://bahaiprayers.net/Book/Single/46/6332)
 
+[^ index](#top)
 
 ----
 
@@ -2355,6 +2496,7 @@ Prayer bpn6333 (bpn6333)
 
 [bahaiprayers.net 6333](https://bahaiprayers.net/Book/Single/46/6333)
 
+[^ index](#top)
 
 ----
 
@@ -2368,6 +2510,7 @@ Prayer bpn6334 (bpn6334)
 
 [bahaiprayers.net 6334](https://bahaiprayers.net/Book/Single/46/6334)
 
+[^ index](#top)
 
 ----
 
@@ -2381,6 +2524,7 @@ Prayer bpn6335 (bpn6335)
 
 [bahaiprayers.net 6335](https://bahaiprayers.net/Book/Single/46/6335)
 
+[^ index](#top)
 
 ----
 
@@ -2394,6 +2538,7 @@ Prayer bpn6336 (bpn6336)
 
 [bahaiprayers.net 6336](https://bahaiprayers.net/Book/Single/46/6336)
 
+[^ index](#top)
 
 ----
 
@@ -2407,6 +2552,7 @@ Prayer bpn6337 (bpn6337)
 
 [bahaiprayers.net 6337](https://bahaiprayers.net/Book/Single/46/6337)
 
+[^ index](#top)
 
 ----
 
@@ -2420,6 +2566,7 @@ Prayer bpn6338 (bpn6338)
 
 [bahaiprayers.net 6338](https://bahaiprayers.net/Book/Single/46/6338)
 
+[^ index](#top)
 
 ----
 
@@ -2433,6 +2580,7 @@ Prayer bpn6339 (bpn6339)
 
 [bahaiprayers.net 6339](https://bahaiprayers.net/Book/Single/46/6339)
 
+[^ index](#top)
 
 ----
 
@@ -2446,6 +2594,7 @@ Prayer bpn6340 (bpn6340)
 
 [bahaiprayers.net 6340](https://bahaiprayers.net/Book/Single/46/6340)
 
+[^ index](#top)
 
 ----
 
@@ -2463,6 +2612,7 @@ Prayer bpn6322 (bpn6322)
 
 [bahaiprayers.net 6322](https://bahaiprayers.net/Book/Single/46/6322)
 
+[^ index](#top)
 
 ----
 
@@ -2476,6 +2626,7 @@ Prayer bpn6323 (bpn6323)
 
 [bahaiprayers.net 6323](https://bahaiprayers.net/Book/Single/46/6323)
 
+[^ index](#top)
 
 ----
 
@@ -2489,6 +2640,7 @@ Prayer bpn6324 (bpn6324)
 
 [bahaiprayers.net 6324](https://bahaiprayers.net/Book/Single/46/6324)
 
+[^ index](#top)
 
 ----
 
@@ -2502,6 +2654,7 @@ Prayer bpn6325 (bpn6325)
 
 [bahaiprayers.net 6325](https://bahaiprayers.net/Book/Single/46/6325)
 
+[^ index](#top)
 
 ----
 
@@ -2519,6 +2672,7 @@ Prayer bpn6319 (bpn6319)
 
 [bahaiprayers.net 6319](https://bahaiprayers.net/Book/Single/46/6319)
 
+[^ index](#top)
 
 ----
 

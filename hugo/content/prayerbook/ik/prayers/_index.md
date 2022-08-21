@@ -5,6 +5,8 @@ tags = ['lang=ik', 'prayerbook']
 
 
 
+<a id="top"></a>
+
 
 [Iñupiaq - North Slope Dialect](#I%C3%B1upiaq+-+North+Slope+Dialect)
 
@@ -22,6 +24,7 @@ Prayer bpn9104 (bpn9104)
 
 [bahaiprayers.net 9104](https://bahaiprayers.net/Book/Single/80/9104)
 
+[^ index](#top)
 
 ----
 
@@ -35,6 +38,7 @@ Prayer bpn9099 (bpn9099)
 
 [bahaiprayers.net 9099](https://bahaiprayers.net/Book/Single/80/9099)
 
+[^ index](#top)
 
 ----
 
@@ -48,6 +52,7 @@ Prayer bpn9095 (bpn9095)
 
 [bahaiprayers.net 9095](https://bahaiprayers.net/Book/Single/80/9095)
 
+[^ index](#top)
 
 ----
 
@@ -61,6 +66,7 @@ Prayer bpn12873 (bpn12873)
 
 [bahaiprayers.net 12873](https://bahaiprayers.net/Book/Single/80/12873)
 
+[^ index](#top)
 
 ----
 
@@ -74,6 +80,7 @@ Prayer bpn12876 (bpn12876)
 
 [bahaiprayers.net 12876](https://bahaiprayers.net/Book/Single/80/12876)
 
+[^ index](#top)
 
 ----
 
@@ -87,6 +94,7 @@ Prayer bpn9103 (bpn9103)
 
 [bahaiprayers.net 9103](https://bahaiprayers.net/Book/Single/80/9103)
 
+[^ index](#top)
 
 ----
 
@@ -100,6 +108,7 @@ Prayer bpn12870 (bpn12870)
 
 [bahaiprayers.net 12870](https://bahaiprayers.net/Book/Single/80/12870)
 
+[^ index](#top)
 
 ----
 
@@ -113,6 +122,7 @@ Prayer bpn12875 (bpn12875)
 
 [bahaiprayers.net 12875](https://bahaiprayers.net/Book/Single/80/12875)
 
+[^ index](#top)
 
 ----
 
@@ -126,6 +136,7 @@ Prayer bpn9102 (bpn9102)
 
 [bahaiprayers.net 9102](https://bahaiprayers.net/Book/Single/80/9102)
 
+[^ index](#top)
 
 ----
 
@@ -139,6 +150,7 @@ Prayer bpn9098 (bpn9098)
 
 [bahaiprayers.net 9098](https://bahaiprayers.net/Book/Single/80/9098)
 
+[^ index](#top)
 
 ----
 
@@ -152,6 +164,7 @@ Prayer bpn9100 (bpn9100)
 
 [bahaiprayers.net 9100](https://bahaiprayers.net/Book/Single/80/9100)
 
+[^ index](#top)
 
 ----
 
@@ -165,6 +178,7 @@ Prayer bpn9097 (bpn9097)
 
 [bahaiprayers.net 9097](https://bahaiprayers.net/Book/Single/80/9097)
 
+[^ index](#top)
 
 ----
 
@@ -178,6 +192,7 @@ Prayer bpn10177 (bpn10177)
 
 [bahaiprayers.net 10177](https://bahaiprayers.net/Book/Single/80/10177)
 
+[^ index](#top)
 
 ----
 

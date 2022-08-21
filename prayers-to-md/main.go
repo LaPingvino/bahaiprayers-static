@@ -53,6 +53,8 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 {{$cl := .CrossLink}}
 {{$lc := .LanguageCode}}
 
+<a id="top"></a>
+
 {{range $cat, $discard := .ByCategory}}
 [{{html $cat}}](#{{urlquery $cat}})
 {{end}}
@@ -70,6 +72,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 {{if .Id}}[bahaiprayers.net {{.Id}}](https://bahaiprayers.net/Book/Single/{{.LanguageId}}/{{.Id}}){{end}}
 
+[^ index](#top)
 
 ----
 
