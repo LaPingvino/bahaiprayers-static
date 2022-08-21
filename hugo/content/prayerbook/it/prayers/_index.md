@@ -224,7 +224,7 @@ Prayer bpn7792 (bpn7792)
 
 -- Báb
 
-Unto Thee I repair for refuge (BB00522) «[Español](../../es/prayers/#BB00522)» «[English](../../en/prayers/#BB00522)» 
+Unto Thee I repair for refuge (BB00522) «[English](../../en/prayers/#BB00522)» «[Español](../../es/prayers/#BB00522)» 
 
 [bahaiprayers.net 7793](https://bahaiprayers.net/Book/Single/10/7793)
 
@@ -396,7 +396,7 @@ Prayer bpn7803 (bpn7803)
 
 -- Abdu'l-Bahá
 
-Prayer AB04004BAB (AB04004BAB) «[Esperanto](../../eo/prayers/#AB04004BAB)» «[English](../../en/prayers/#AB04004BAB)» 
+Prayer AB04004BAB (AB04004BAB) «[English](../../en/prayers/#AB04004BAB)» «[Esperanto](../../eo/prayers/#AB04004BAB)» 
 
 [bahaiprayers.net 7804](https://bahaiprayers.net/Book/Single/10/7804)
 
@@ -600,7 +600,7 @@ Prayer BH08308 (BH08308) «[English](../../en/prayers/#BH08308)»
 
 -- Bahá'u'lláh
 
-Prayer BH03109KIN (BH03109KIN) «[Français](../../fr/prayers/#BH03109KIN)» «[English](../../en/prayers/#BH03109KIN)» 
+Prayer BH03109KIN (BH03109KIN) «[English](../../en/prayers/#BH03109KIN)» «[Français](../../fr/prayers/#BH03109KIN)» 
 
 [bahaiprayers.net 7810](https://bahaiprayers.net/Book/Single/10/7810)
 
@@ -646,7 +646,7 @@ Prayer bpn7812 (bpn7812)
 
 -- Bahá'u'lláh
 
-Prayer BH01125 (BH01125) «[Español](../../es/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» «[English](../../en/prayers/#BH01125)» 
+Prayer BH01125 (BH01125) «[English](../../en/prayers/#BH01125)» «[Español](../../es/prayers/#BH01125)» «[Nederlands](../../nl/prayers/#BH01125)» «[Français](../../fr/prayers/#BH01125)» 
 
 [bahaiprayers.net 7931](https://bahaiprayers.net/Book/Single/10/7931)
 
@@ -762,7 +762,7 @@ Prayer bpn7816 (bpn7816)
 
 -- Bahá'u'lláh
 
-Prayer BH05894 (BH05894) «[Nederlands](../../nl/prayers/#BH05894)» «[English](../../en/prayers/#BH05894)» 
+Prayer BH05894 (BH05894) «[English](../../en/prayers/#BH05894)» «[Nederlands](../../nl/prayers/#BH05894)» 
 
 [bahaiprayers.net 7817](https://bahaiprayers.net/Book/Single/10/7817)
 
@@ -1548,7 +1548,7 @@ Prayer bpn7873 (bpn7873)
 
 -- Bahá'u'lláh
 
-Prayer BH10578 (BH10578) «[Español](../../es/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» «[English](../../en/prayers/#BH10578)» 
+Prayer BH10578 (BH10578) «[English](../../en/prayers/#BH10578)» «[Español](../../es/prayers/#BH10578)» «[Esperanto](../../eo/prayers/#BH10578)» 
 
 [bahaiprayers.net 7874](https://bahaiprayers.net/Book/Single/10/7874)
 
@@ -1762,7 +1762,7 @@ Prayer bpn7888 (bpn7888)
 
 -- Abdu'l-Bahá
 
-Prayer AB10769 (AB10769) «[Esperanto](../../eo/prayers/#AB10769)» «[English](../../en/prayers/#AB10769)» 
+Prayer AB10769 (AB10769) «[English](../../en/prayers/#AB10769)» «[Esperanto](../../eo/prayers/#AB10769)» 
 
 [bahaiprayers.net 7889](https://bahaiprayers.net/Book/Single/10/7889)
 
@@ -1808,7 +1808,7 @@ Prayer bpn7891 (bpn7891)
 
 -- Bahá'u'lláh
 
-Prayer BH07426FOO (BH07426FOO) «[Esperanto](../../eo/prayers/#BH07426FOO)» «[English](../../en/prayers/#BH07426FOO)» 
+Prayer BH07426FOO (BH07426FOO) «[English](../../en/prayers/#BH07426FOO)» «[Esperanto](../../eo/prayers/#BH07426FOO)» 
 
 [bahaiprayers.net 7892](https://bahaiprayers.net/Book/Single/10/7892)
 
@@ -2110,7 +2110,7 @@ Prayer bpn7912 (bpn7912)
 
 -- Abdu'l-Bahá
 
-Assist Thy loved ones to be firm in Thy Faith (AB00001FIR) «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» «[English](../../en/prayers/#AB00001FIR)» 
+Assist Thy loved ones to be firm in Thy Faith (AB00001FIR) «[English](../../en/prayers/#AB00001FIR)» «[Nederlands](../../nl/prayers/#AB00001FIR)» «[Português (BR)](../../pt/prayers/#AB00001FIR)» «[Esperanto](../../eo/prayers/#AB00001FIR)» 
 
 [bahaiprayers.net 7913](https://bahaiprayers.net/Book/Single/10/7913)
 
@@ -2198,7 +2198,7 @@ Prayer bpn7918 (bpn7918)
 
 -- Abdu'l-Bahá
 
-Midnight Prayer (AB06528MID) «[Español](../../es/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» 
+Midnight Prayer (AB06528MID) «[English](../../en/prayers/#AB06528MID)» «[Deutsch](../../de/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» 
 
 [bahaiprayers.net 7919](https://bahaiprayers.net/Book/Single/10/7919)
 
@@ -2284,7 +2284,7 @@ Prayer bpn7929 (bpn7929)
 
 -- Bahá'u'lláh
 
-Prayer BH00868WIT (BH00868WIT) «[Nederlands](../../nl/prayers/#BH00868WIT)» «[English](../../en/prayers/#BH00868WIT)» 
+Prayer BH00868WIT (BH00868WIT) «[English](../../en/prayers/#BH00868WIT)» «[Nederlands](../../nl/prayers/#BH00868WIT)» 
 
 [bahaiprayers.net 7920](https://bahaiprayers.net/Book/Single/10/7920)
 

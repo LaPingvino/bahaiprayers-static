@@ -413,12 +413,12 @@ Prayer bpn6110 (bpn6110)
 <a id="TINAITAI+OPBLIGASION"></a> 
 ## TINAITAI OPBLIGASION
 
-<a id="bpn6106"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h5>TINAITAI OPBLIGASION</h5><h6>OBLIGATORY PRAYER</h6><p class='dropCap'>Hu testiguyi, O Yu’os-hu, na Hagu fuma’tinas yo’ para bai hu tungo’ Hao yan bai hu adora Hao. Hu diklara, guini na momento, i tainina’siña-hu yan i minetgot-Mu, i misirapble- ku yan i miguinaha-Mu.</p><p>Taya’ mas Yu’os ki Hagu, i Ayudu gi Piligru, i Lala’la’-Maisa.</p><p><i>(Bahá’u’lláh ha na’huyong tres na tinaitai opbligasion, ni para u ma ayek unu ni i manhongge para u sasangan un biahi kada 24 oras, sigun gi espisifiku na direksion para kada unu na tinaitai. I tinago’ para i tinaitai ni gaige guini gi sanhilo’; este i etmas kadada gi tres, ayu na debidi u mataitai kada dia maskeseha ki ora entre i talo’ani yan i minachom atdao.)</i></p><p>I bear witness, O my God, that Thou hast cre- ated me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.</p><p>There is none other God but Thee, the Help in Peril, the Self-Subsisting.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn6106 (bpn6106) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 6106](https://bahaiprayers.net/Book/Single/52/6106)
 

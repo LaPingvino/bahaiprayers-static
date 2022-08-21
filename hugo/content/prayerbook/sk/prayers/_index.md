@@ -580,7 +580,7 @@ Prayer bpn13230 (bpn13230)
 
 -- Abdu'l-Bahá
 
-Prayer ABU0023UNI (ABU0023UNI) «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[Esperanto](../../eo/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» 
+Prayer ABU0023UNI (ABU0023UNI) «[English](../../en/prayers/#ABU0023UNI)» «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[Esperanto](../../eo/prayers/#ABU0023UNI)» 
 
 [bahaiprayers.net 13231](https://bahaiprayers.net/Book/Single/26/13231)
 
@@ -593,12 +593,12 @@ Prayer ABU0023UNI (ABU0023UNI) «[Nederlands](../../nl/prayers/#ABU0023UNI)» «
 <a id="Kr%C3%A1tka+povinn%C3%A1+modlitba"></a> 
 ## Krátka povinná modlitba
 
-<a id="bpn9988"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p class='dropCap'>Dosvedčujem, ó môj Bože, že si ma stvoril, aby som Ťa poznal a uctieval Ťa. V tomto okamihu dotvrdzujem svoju bezmocnosť a Tvoju moc, svoju chudobnosť a Tvoje bohatstvo.</p><p>Niet iného Boha okrem Teba, Pomocníka v nebezpečí, Sebedostačujúceho.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn9988 (bpn9988) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 9988](https://bahaiprayers.net/Book/Single/26/9988)
 
@@ -858,7 +858,7 @@ Prayer bpn13166 (bpn13166)
 
 -- Bahá'u'lláh
 
-Prayer BH08600FAC (BH08600FAC) «[Español](../../es/prayers/#BH08600FAC)» «[Nederlands](../../nl/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» 
+Prayer BH08600FAC (BH08600FAC) «[English](../../en/prayers/#BH08600FAC)» «[Español](../../es/prayers/#BH08600FAC)» «[Nederlands](../../nl/prayers/#BH08600FAC)» 
 
 [bahaiprayers.net 13167](https://bahaiprayers.net/Book/Single/26/13167)
 
@@ -1160,7 +1160,7 @@ Prayer bpn13162 (bpn13162)
 
 -- Abdu'l-Bahá
 
-Prayer AB10492 (AB10492) «[Español](../../es/prayers/#AB10492)» «[Nederlands](../../nl/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» 
+Prayer AB10492 (AB10492) «[English](../../en/prayers/#AB10492)» «[Español](../../es/prayers/#AB10492)» «[Nederlands](../../nl/prayers/#AB10492)» 
 
 [bahaiprayers.net 9994](https://bahaiprayers.net/Book/Single/26/9994)
 
@@ -1174,7 +1174,7 @@ Prayer AB10492 (AB10492) «[Español](../../es/prayers/#AB10492)» «[Nederlands
 
 -- Abdu'l-Bahá
 
-Prayer AB06211 (AB06211) «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» 
+Prayer AB06211 (AB06211) «[English](../../en/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» 
 
 [bahaiprayers.net 13163](https://bahaiprayers.net/Book/Single/26/13163)
 
@@ -1322,7 +1322,7 @@ Prayer ABU1863REF (ABU1863REF) «[Esperanto](../../eo/prayers/#ABU1863REF)»
 
 -- Abdu'l-Bahá
 
-Prayer AB00431PIT (AB00431PIT) «[Papiamentu](../../pap/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» 
+Prayer AB00431PIT (AB00431PIT) «[Papiamentu](../../pap/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» 
 
 [bahaiprayers.net 13116](https://bahaiprayers.net/Book/Single/26/13116)
 
@@ -1584,7 +1584,7 @@ Prayer bpn13200 (bpn13200)
 
 -- Bahá'u'lláh
 
-Prayer BH00009SHE (BH00009SHE) «[Esperanto](../../eo/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» 
+Prayer BH00009SHE (BH00009SHE) «[English](../../en/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» «[Esperanto](../../eo/prayers/#BH00009SHE)» 
 
 [bahaiprayers.net 13201](https://bahaiprayers.net/Book/Single/26/13201)
 
@@ -1824,7 +1824,7 @@ Prayer bpn13177 (bpn13177)
 
 -- Bahá'u'lláh
 
-Prayer ABU0070GAT (ABU0070GAT) «[Español](../../es/prayers/#ABU0070GAT)» «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» 
+Prayer ABU0070GAT (ABU0070GAT) «[English](../../en/prayers/#ABU0070GAT)» «[Español](../../es/prayers/#ABU0070GAT)» «[Esperanto](../../eo/prayers/#ABU0070GAT)» 
 
 [bahaiprayers.net 13178](https://bahaiprayers.net/Book/Single/26/13178)
 
@@ -1898,7 +1898,7 @@ Prayer bpn13182 (bpn13182)
 
 -- Bahá'u'lláh
 
-Tablet of Ahmad (BH02022) «[Português (BR)](../../pt/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» 
+Tablet of Ahmad (BH02022) «[العربية](../../ar/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» 
 
 [bahaiprayers.net 13252](https://bahaiprayers.net/Book/Single/26/13252)
 
@@ -2004,7 +2004,7 @@ Prayer bpn13258 (bpn13258)
 
 -- Bahá'u'lláh
 
-Prayer BH08013 (BH08013) «[Esperanto](../../eo/prayers/#BH08013)» «[English](../../en/prayers/#BH08013)» 
+Prayer BH08013 (BH08013) «[English](../../en/prayers/#BH08013)» «[Esperanto](../../eo/prayers/#BH08013)» 
 
 [bahaiprayers.net 13184](https://bahaiprayers.net/Book/Single/26/13184)
 
@@ -2018,7 +2018,7 @@ Prayer BH08013 (BH08013) «[Esperanto](../../eo/prayers/#BH08013)» «[English](
 
 -- Bahá'u'lláh
 
-Thy Name is my Healing (BH01313NAM) «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» 
+Thy Name is my Healing (BH01313NAM) «[العربية](../../ar/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» 
 
 [bahaiprayers.net 13185](https://bahaiprayers.net/Book/Single/26/13185)
 
@@ -2248,7 +2248,7 @@ Prayer bpn13261 (bpn13261)
 
 -- Abdu'l-Bahá
 
-Tablet of the Holy Mariner (BH01026) «[Nederlands](../../nl/prayers/#BH01026)» «[English](../../en/prayers/#BH01026)» 
+Tablet of the Holy Mariner (BH01026) «[English](../../en/prayers/#BH01026)» «[Nederlands](../../nl/prayers/#BH01026)» 
 
 [bahaiprayers.net 13260](https://bahaiprayers.net/Book/Single/26/13260)
 

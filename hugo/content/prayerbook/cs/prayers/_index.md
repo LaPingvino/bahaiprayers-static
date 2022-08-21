@@ -75,12 +75,12 @@ Prayer bpn2868 (bpn2868)
 <a id="Kr%C3%A1tk%C3%A1+denn%C3%AD+modlitba"></a> 
 ## Krátká denní modlitba
 
-<a id="bpn2865"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p class='dropCap'>Dosvědčuji, ó můj Bože, že jsi mne stvořil, abych Tě znal a uctíval.</p><p>Doznávám v tomto okamžiku svou bezmocnost a Tvoji moc, svou chudobu a Tvé bohatství.</p><p>Není Boha kromě Tebe, Pomocníka v nebezpečí, Skrze Sebe Jsoucího.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn2865 (bpn2865) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 2865](https://bahaiprayers.net/Book/Single/18/2865)
 

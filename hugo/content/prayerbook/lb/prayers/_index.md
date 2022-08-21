@@ -864,7 +864,7 @@ Prayer bpn13590 (bpn13590)
 
 -- Abdu'l-Bahá
 
-Prayer AB11281 (AB11281) «[Nederlands](../../nl/prayers/#AB11281)» «[English](../../en/prayers/#AB11281)» 
+Prayer AB11281 (AB11281) «[English](../../en/prayers/#AB11281)» «[Nederlands](../../nl/prayers/#AB11281)» 
 
 [bahaiprayers.net 13588](https://bahaiprayers.net/Book/Single/72/13588)
 

@@ -571,12 +571,12 @@ Prayer bpn8434 (bpn8434)
 <a id="%E0%A6%9B%E0%A7%8B%E0%A6%9F+%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%B2%E0%A6%95+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE"></a> 
 ## ছোট বাধ্যতামুলক প্রার্থনা
 
-<a id="bpn8485"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p><i>[দ্বিপ্রহরের পর হইতে সূর্যাস্তের পূর্ব পর্যন্ত সময়ে প্রত্যহ একবার পড়িতে হইবে]</i></p><p class='dropCap'>আমি সাক্ষ্য দিতেছি যে, হে আমার প্রভু, তোমাকে জানিবার জন্য এবং তোমার উপাসনা করিবার জন্য তুমি আমাকে সৃষ্টি করিয়াছ। আমি,এই মুহূর্তে আমার শক্তিহীনতা ও তোমার সামর্থের, আমার দরিদ্রতা ও তোমার সম্পদের সাক্ষ্য দিতেছি। তুমি ঈশ্বর ব্যতীত অন্য কোন উপাস্য নাই, তুমি বিপদে সাহায্যকারী, চির-সত্তাবিশিষ্ট।</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn8485 (bpn8485) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 8485](https://bahaiprayers.net/Book/Single/75/8485)
 

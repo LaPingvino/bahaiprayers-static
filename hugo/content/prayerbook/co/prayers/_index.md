@@ -145,12 +145,12 @@ Prayer bpn9411 (bpn9411)
 <a id="Preghera+d%C3%AC+tutti+i+ghjorni"></a> 
 ## Preghera dì tutti i ghjorni
 
-<a id="bpn9408"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p class='dropCap'>O tù lu mio Diu, testimunieghju chè tù m’hai creatu per cunnòsceti è aduratti. Affermu in quest’istante a mio imputenza è u to putere, a mio puvertà è a to ricchezza. Ùn ci hè altru Diu chè tè, u Succorsu, l’Assolutu.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn9408 (bpn9408) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 9408](https://bahaiprayers.net/Book/Single/83/9408)
 

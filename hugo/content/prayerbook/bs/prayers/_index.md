@@ -797,12 +797,12 @@ Prayer bpn5264 (bpn5264)
 <a id="Kratka+Obavezna+Molitva"></a> 
 ## Kratka Obavezna Molitva
 
-<a id="bpn5217"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h6>Kratka Obavezna Molitva </h6><p><i>IZGOVARA SE JEDNOM U DVADESET ČETIRI SATA</i></p><p><i>(od podneva do zalaska sunca)</i></p><p><i>Prije molitve se treba okrenuti prema Kibli, oprati ruke i umiti lice, i kazati:</i></p><p class='dropCap'>Svjedočim, o, moj Bože, da si me stvorio da spoznam i obožavam Tebe. Svjedočim, u ovom trenutku, o mojoj nemoći i Tvojoj moći, o mom siromaštvu i Tvom bogatstvu.</p><p>Nema drugog Boga osim Tebe, Pomoći u nevolji, Samopostojnog.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn5217 (bpn5217) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 5217](https://bahaiprayers.net/Book/Single/41/5217)
 

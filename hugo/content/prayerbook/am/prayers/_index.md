@@ -509,12 +509,12 @@ Prayer bpn9932 (bpn9932)
 <a id="%E1%8A%A0%E1%8C%AD%E1%88%A9+%28Short%29"></a> 
 ## አጭሩ (Short)
 
-<a id="bpn9904"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p><i>‹‹ዕለታዊ  የግዴታ ፀሎቶች በቁጥር ሶስት ናቸው፡፡ ምዕመኑ ከእነዚህ ከሶስቱ ፀሎቶች የፈለገውን እንዱን ለመምረጥ ሙሉ በሙሉ ነፃ ነው፤ ግን ከእነዚህ አንዱን አብረውት በሚሄዱት መመሪያዎች መሠረት የመድገም ግዴታ አለበት፡፡</i></p><p><i>የግዴታ ፀሎቶች ትህትናንና ታዛዥነትን የሚጋብዙና፣ ሰው ፊቱን ወደ እግዚአብሔር በመመለስ ለእርሱ ምሀላ  እንዲያወርብ የሚረዱት በመሆናቸው በየዕለቱ መደገማቸው  ግዴታ ነው፤  እንዲህ ባሉት ፀሎቶችም  አማካይነት የሰው ልጅ  ከእግዚአብሔር ጋር ግንኙነት ይፈጥራል፣ ወደ እርሱም ለመቅረብ ይሻል፣ ከእውነተኛ የልቡ ፍቅረኛም ጋር ይነጋገራል፣ እንዲሁም መንፈሳዊ ደረጃዎችን ይቀዳጃል፣ </i></p><p class='dropCap'>ይህ ፀሎት በየዕለቱ ከቀትር እስከ ፀሐይ መጥለቂያ ባለው ጊዜ ውስጥ አንዴ የሚደረግ ነው፤ </p><p>አምላኬ ሆይ አንተን እንዳውቅና እንድሰግድልህ እንደፈጠርከኝ እመሰክራለሁ፡፡ በዚህች ሰዓት የእኔን ደካማነትና የአንተን ኃያልነት የእኔን ምስኪንነትና የአንተን ሀብታምነት አረጋግጣለሁ፡፡</p><p>ከአንተ በአደጋ ጊዜ ረዳት፣ በገዛ ራሱም ነዋሪ ከሆንከው በስተቀር ሌላ አምላክ የለም፡፡</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn9904 (bpn9904) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 9904](https://bahaiprayers.net/Book/Single/90/9904)
 

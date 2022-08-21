@@ -1221,12 +1221,12 @@ Prayer bpn8180 (bpn8180)
 <a id="Kort+Obligatorisk+B%C3%B8n"></a> 
 ## Kort Obligatorisk Bøn
 
-<a id="bpn8145"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h6>Kort Obligatorisk Bøn </h6><p><i>Skal fremsiges én gang i løbet af fireogtyve timer ved middagstid </i></p><p class='dropCap'>Jeg bevidner, o min Gud, at Du har skabt mig for at kende Dig og tilbede Dig. Jeg vidner i denne stund om min magtesløshed og Din styrke, om min armod og Din rigdom.</p><p>Der er ingen anden Gud end Dig, hjælpen i fare, Den Selvbestående.</p><p><i>”De daglige obligatoriske bønner udgør tre.... Den troende er helt fri i sit valg af en af disse tre bønner, men er forpligtet til at fremsige en af dem, i overensstemmelse med enhver særlig forskrift, der måtte knytte sig til dem.” - fra et brev skrevet på Shoghi Effendis vegne.</i></p><p><i>”Med ”morgen”, ”middag” og ”aften”, der nævnes i forbindelse med de obligatoriske bønner, menes henholdsvis tiden mellem solopgang og middag, mellem middag og solnedgang og fra solnedgang til to timer efter solnedgang.” - Kitáb-i-Aqdas s.140</i></p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn8145 (bpn8145) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 8145](https://bahaiprayers.net/Book/Single/58/8145)
 

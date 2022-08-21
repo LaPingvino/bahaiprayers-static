@@ -1521,12 +1521,12 @@ Prayer bpn4779 (bpn4779)
 <a id="Q%C4%B1sa+Namaz"></a> 
 ## Qısa Namaz
 
-<a id="bpn4687"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h6>Gündə bir dəfə gün ortasında qılmali</h6><p><i>Gündəlik namazların sayı üçdur...Mömin bu üç namazdan birini seçməkdə tamamilə azaddır, lakin onlardan hər hansı birini qılmağa borcludur və bu namazları onları müşayiət edən səciyyəvi hərəkətlərə uyğun qılmalıdır.</i></p><p><i>Namazla əlaqədar işlədilən “səhər”, “günorta” və “axşam” ifadələrinin mənası müvafiq olaraq, günçıxandan saat on ikiyədək, saat on ikidən gün batanədək və gün batandan iki saat keçənədək olan vaxtı bildirir.</i></p><p class='dropCap'>Ey mənim Allahim, Səni tanımaq və Sənə ibadət etmək üçün məni yaratdığına şəhadət verirəm. Bu anda öz acizliyimə və Sənin qüdrətinə, öz zəifliyimə və Sənin qüvvətinə, öz fəqirliyimə və Sənin zənginliyinə şəhadət verirəm. Səndən başqa Allah yoxdur. Sən Əzəmətli və Qəyyumsan.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn4687 (bpn4687) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 4687](https://bahaiprayers.net/Book/Single/36/4687)
 

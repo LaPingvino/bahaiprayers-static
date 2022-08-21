@@ -679,12 +679,12 @@ Prayer bpn13351 (bpn13351)
 <a id="Short+Obligatory+Prayer"></a> 
 ## Short Obligatory Prayer
 
-<a id="bpn13321"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p><i>(I'w hadrodd unwaith bob dydd rhwng hanner dydd a machlud haul)</i></p><p class='dropCap'>Tystiaf, O fy Nuw, i Ti fy nghreu i i'th adnabod Di ac i'th addoli Di. Tystiaf, ar y funud hon, i'm diymadferthedd ac i'th allu Di, i'm tlodi ac i'th gyfoeth Di. Nid oes Duw arall ond Ti, y Cymorth mewn Perygl, yr Hunangynhaliol.</p><p><i>(to be recited once a day between midday and sunset)</i></p><p>I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn13321 (bpn13321) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 13321](https://bahaiprayers.net/Book/Single/60/13321)
 

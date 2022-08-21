@@ -291,12 +291,12 @@ Prayer bpn2342 (bpn2342)
 <a id="%D0%9A%D0%B0%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F+%D0%B0%D0%B1%D0%B0%D0%B2%D1%8F%D0%B7%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BC%D0%B0%D0%BB%D1%96%D1%82%D0%B2%D0%B0"></a> 
 ## Кароткая абавязковая малітва
 
-<a id="bpn2327"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p><i>(Творыцца штосуткі паміж поўднем і захадам сонца)</i></p><p class='dropCap'>Я сведчу, о мой Божа, што Ты стварыў мяне, каб я спазнаў Цябе і пакланяўся Табе. Сведчу ў гэты час пра немач сваю і Тваю моц, пра беднасць сваю і Тваё багацце.</p><p>Няма іншага Бога, акрамя Цябе, Памочніка ў небяспецы, Самаіснага.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn2327 (bpn2327) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 2327](https://bahaiprayers.net/Book/Single/14/2327)
 

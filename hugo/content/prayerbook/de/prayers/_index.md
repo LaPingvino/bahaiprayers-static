@@ -130,7 +130,7 @@ Prayer bpn517 (bpn517)
 
 -- Abdu'l-Bahá
 
-Midnight Prayer (AB06528MID) «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» 
+Midnight Prayer (AB06528MID) «[Italiano](../../it/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» 
 
 [bahaiprayers.net 440](https://bahaiprayers.net/Book/Single/3/440)
 
@@ -611,12 +611,12 @@ Prayer bpn675 (bpn675)
 <a id="Das+kurze+Pflichtgebet"></a> 
 ## Das kurze Pflichtgebet
 
-<a id="bpn663"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h5>EINMAL IN 24 STUNDEN, MITTAGS, ZU SPRECHEN</h5><p class='dropCap'>Ich bezeuge, o mein Gott, dass Du mich erschaffen hast, Dich zu erkennen und anzubeten. Ich bezeuge in diesem Augenblick meine Ohnmacht und Deine Macht, meine Armut und Deinen Reichtum. Es gibt keinen Gott außer Dir, dem Helfer in Gefahr, dem Selbstbestehenden.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn663 (bpn663) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 663](https://bahaiprayers.net/Book/Single/3/663)
 
@@ -994,7 +994,7 @@ Prayer bpn454 (bpn454)
 
 -- Abdu'l-Bahá
 
-Prayer AB06211 (AB06211) «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Slovensky](../../sk/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» 
+Prayer AB06211 (AB06211) «[English](../../en/prayers/#AB06211)» «[Slovensky](../../sk/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» 
 
 [bahaiprayers.net 455](https://bahaiprayers.net/Book/Single/3/455)
 
@@ -1494,7 +1494,7 @@ Prayer bpn570 (bpn570)
 
 -- Bahá'u'lláh
 
-Thy Name is my Healing (BH01313NAM) «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» 
+Thy Name is my Healing (BH01313NAM) «[العربية](../../ar/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» 
 
 [bahaiprayers.net 562](https://bahaiprayers.net/Book/Single/3/562)
 

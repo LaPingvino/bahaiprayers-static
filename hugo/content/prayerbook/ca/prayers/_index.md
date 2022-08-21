@@ -2133,12 +2133,12 @@ Prayer bpn5904 (bpn5904)
 <a id="Oraci%C3%B3+obligat%C3%B2ria+curta"></a> 
 ## Oració obligatòria curta
 
-<a id="bpn5758"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><h6>ORACIÓ OBLIGATÒRIA CURTA</h6><p><i>Es recita una vegada cada vint-i-quatre hores, al migdia</i></p><p class='dropCap'>Sóc testimoni, oh Déu meu, de que tu m’has creat per conèixer-te i per adorar-te. Sóc testimoni en aquest moment, de la meva impotència i del Teu poder, de la meva pobresa i de la Teva riquesa.</p><p>No hi ha altre Déu sinó Tu, Qui ajuda en el perill, Qui subsisteix per Si</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn5758 (bpn5758) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Vanuatu](../../bi/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» 
 
 [bahaiprayers.net 5758](https://bahaiprayers.net/Book/Single/44/5758)
 

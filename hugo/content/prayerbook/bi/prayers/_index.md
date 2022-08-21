@@ -783,12 +783,12 @@ Prayer bpn4963 (bpn4963)
 <a id="SOTFALA++OBLIGATORI++PREA"></a> 
 ## SOTFALA  OBLIGATORI  PREA
 
-<a id="bpn4902"></a> 
+<a id="BH11209"></a> 
 <div class="prayer"><p><i>Tisfala prea, we hem i sot wan aot long ol trifala prea, yumi mas talemaot wan taem long evri dei, eni taem bitwin medel dei mo taem we san i go daon.</i></p><p class='dropCap'>Mi talem stret, O God blong mi, se Yu Yu krieitem mi blong save Yu mo mi wosipim Yu. Long smol taem ia, mi save talem tru long wik paoa blong mi mo long strong paoa blong Yu. Mo mi talem se mi mi gat nating, be Yu Yu gat planti samting. I no gat narafala God be Yu.  Yu Yu help long taem blong trabol, mo Yu Yu save stap oltaem Yu wan nomo.</p></div>
 
 -- Bahá'u'lláh
 
-Prayer bpn4902 (bpn4902) 
+Short Obligatory Prayer (BH11209) «[Papiamentu](../../pap/prayers/#BH11209)» «[العربية](../../ar/prayers/#BH11209)» «[አማርኛ.](../../am/prayers/#BH11209)» «[Česky](../../cs/prayers/#BH11209)» «[Chamorro](../../ch/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Bosanski](../../bs/prayers/#BH11209)» «[Corsica](../../co/prayers/#BH11209)» «[Deutsch](../../de/prayers/#BH11209)» «[Slovensky](../../sk/prayers/#BH11209)» «[Azərbaycan](../../az/prayers/#BH11209)» «[Cymraeg](../../cy/prayers/#BH11209)» «[বাংলা](../../bn/prayers/#BH11209)» «[Nederlands](../../nl/prayers/#BH11209)» «[Français](../../fr/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[български](../../bg/prayers/#BH11209)» «[Dansk](../../da/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[Беларускі](../../be/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[Afrikaans](../../af/prayers/#BH11209)» «[Català](../../ca/prayers/#BH11209)» 
 
 [bahaiprayers.net 4902](https://bahaiprayers.net/Book/Single/37/4902)
 
