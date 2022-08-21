@@ -24,7 +24,7 @@ Prayer bpn6016 (bpn6016)
 
 [bahaiprayers.net 6016](https://bahaiprayers.net/Book/Single/47/6016)
 
-[^ index](#top)
+[\^ index](#top)
 
 ----
 
@@ -38,7 +38,7 @@ Prayer bpn6015 (bpn6015)
 
 [bahaiprayers.net 6015](https://bahaiprayers.net/Book/Single/47/6015)
 
-[^ index](#top)
+[\^ index](#top)
 
 ----
 

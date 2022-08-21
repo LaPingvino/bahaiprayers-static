@@ -72,7 +72,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 {{if .Id}}[bahaiprayers.net {{.Id}}](https://bahaiprayers.net/Book/Single/{{.LanguageId}}/{{.Id}}){{end}}
 
-[^ index](#top)
+[\^ index](#top)
 
 ----
 
