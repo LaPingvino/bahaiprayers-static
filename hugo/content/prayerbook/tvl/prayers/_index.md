@@ -2944,7 +2944,7 @@ Prayer bpn10883 (bpn10883)
 
 -- Bahá'u'lláh
 
-Tablet of Ahmad (BH02022) «[العربية](../../ar/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» 
+Tablet of Ahmad (BH02022) «[العربية](../../ar/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
 
 [bahaiprayers.net 10980](https://bahaiprayers.net/Book/Single/95/10980)
 
@@ -3668,7 +3668,7 @@ Prayer bpn12325 (bpn12325)
 
 -- Báb
 
-Remover of Difficulties (BB00623) «[Papiamentu](../../pap/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» 
+Remover of Difficulties (BB00623) «[العربية](../../ar/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» 
 
 [bahaiprayers.net 12326](https://bahaiprayers.net/Book/Single/95/12326)
 
