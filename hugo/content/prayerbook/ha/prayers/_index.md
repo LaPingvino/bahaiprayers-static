@@ -72,7 +72,10 @@ tags = ['lang=ha', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11759 
+Prayer bpn11759 in Hausa (bpn11759) 
+
+[bahaiprayers.net 11759](https://bahaiprayers.net/Book/Single/100/11759)
+
 
 ----
 
@@ -86,7 +89,10 @@ bpn11759
 
 -- Bahá'u'lláh
 
-bpn11708 
+Prayer bpn11708 in Hausa (bpn11708) 
+
+[bahaiprayers.net 11708](https://bahaiprayers.net/Book/Single/100/11708)
+
 
 ----
 
@@ -100,7 +106,10 @@ bpn11708
 
 -- Bahá'u'lláh
 
-bpn11703 
+Prayer bpn11703 in Hausa (bpn11703) 
+
+[bahaiprayers.net 11703](https://bahaiprayers.net/Book/Single/100/11703)
+
 
 ----
 
@@ -114,7 +123,10 @@ bpn11703
 
 -- Bahá'u'lláh
 
-bpn11712 
+Prayer bpn11712 in Hausa (bpn11712) 
+
+[bahaiprayers.net 11712](https://bahaiprayers.net/Book/Single/100/11712)
+
 
 ----
 
@@ -128,7 +140,10 @@ bpn11712
 
 -- Bahá'u'lláh
 
-bpn11705 
+Prayer bpn11705 in Hausa (bpn11705) 
+
+[bahaiprayers.net 11705](https://bahaiprayers.net/Book/Single/100/11705)
+
 
 ----
 
@@ -138,7 +153,10 @@ bpn11705
 
 -- Abdu'l-Bahá
 
-bpn11706 
+Prayer bpn11706 in Hausa (bpn11706) 
+
+[bahaiprayers.net 11706](https://bahaiprayers.net/Book/Single/100/11706)
+
 
 ----
 
@@ -152,7 +170,10 @@ bpn11706
 
 -- Bahá'u'lláh
 
-bpn11709 
+Prayer bpn11709 in Hausa (bpn11709) 
+
+[bahaiprayers.net 11709](https://bahaiprayers.net/Book/Single/100/11709)
+
 
 ----
 
@@ -162,7 +183,10 @@ bpn11709
 
 -- Bahá'u'lláh
 
-bpn11710 
+Prayer bpn11710 in Hausa (bpn11710) 
+
+[bahaiprayers.net 11710](https://bahaiprayers.net/Book/Single/100/11710)
+
 
 ----
 
@@ -176,7 +200,10 @@ bpn11710
 
 -- Bahá'u'lláh
 
-bpn11714 
+Prayer bpn11714 in Hausa (bpn11714) 
+
+[bahaiprayers.net 11714](https://bahaiprayers.net/Book/Single/100/11714)
+
 
 ----
 
@@ -186,7 +213,10 @@ bpn11714
 
 -- Bahá'u'lláh
 
-bpn11715 
+Prayer bpn11715 in Hausa (bpn11715) 
+
+[bahaiprayers.net 11715](https://bahaiprayers.net/Book/Single/100/11715)
+
 
 ----
 
@@ -196,7 +226,10 @@ bpn11715
 
 -- Abdu'l-Bahá
 
-bpn11716 
+Prayer bpn11716 in Hausa (bpn11716) 
+
+[bahaiprayers.net 11716](https://bahaiprayers.net/Book/Single/100/11716)
+
 
 ----
 
@@ -210,7 +243,10 @@ bpn11716
 
 -- Abdu'l-Bahá
 
-bpn11707 
+Prayer bpn11707 in Hausa (bpn11707) 
+
+[bahaiprayers.net 11707](https://bahaiprayers.net/Book/Single/100/11707)
+
 
 ----
 
@@ -224,7 +260,10 @@ bpn11707
 
 -- Bahá'u'lláh
 
-bpn11756 
+Prayer bpn11756 in Hausa (bpn11756) 
+
+[bahaiprayers.net 11756](https://bahaiprayers.net/Book/Single/100/11756)
+
 
 ----
 
@@ -238,7 +277,10 @@ bpn11756
 
 -- Bahá'u'lláh
 
-bpn11741 
+Prayer bpn11741 in Hausa (bpn11741) 
+
+[bahaiprayers.net 11741](https://bahaiprayers.net/Book/Single/100/11741)
+
 
 ----
 
@@ -252,7 +294,10 @@ bpn11741
 
 -- Bahá'u'lláh
 
-bpn11730 
+Prayer bpn11730 in Hausa (bpn11730) 
+
+[bahaiprayers.net 11730](https://bahaiprayers.net/Book/Single/100/11730)
+
 
 ----
 
@@ -262,7 +307,10 @@ bpn11730
 
 -- Bahá'u'lláh
 
-bpn11731 
+Prayer bpn11731 in Hausa (bpn11731) 
+
+[bahaiprayers.net 11731](https://bahaiprayers.net/Book/Single/100/11731)
+
 
 ----
 
@@ -272,7 +320,10 @@ bpn11731
 
 -- Bahá'u'lláh
 
-bpn11732 
+Prayer bpn11732 in Hausa (bpn11732) 
+
+[bahaiprayers.net 11732](https://bahaiprayers.net/Book/Single/100/11732)
+
 
 ----
 
@@ -282,7 +333,10 @@ bpn11732
 
 -- Bahá'u'lláh
 
-bpn11733 
+Prayer bpn11733 in Hausa (bpn11733) 
+
+[bahaiprayers.net 11733](https://bahaiprayers.net/Book/Single/100/11733)
+
 
 ----
 
@@ -292,7 +346,10 @@ bpn11733
 
 -- Bahá'u'lláh
 
-bpn11734 
+Prayer bpn11734 in Hausa (bpn11734) 
+
+[bahaiprayers.net 11734](https://bahaiprayers.net/Book/Single/100/11734)
+
 
 ----
 
@@ -306,7 +363,10 @@ bpn11734
 
 -- Bahá'u'lláh
 
-bpn11748 
+Prayer bpn11748 in Hausa (bpn11748) 
+
+[bahaiprayers.net 11748](https://bahaiprayers.net/Book/Single/100/11748)
+
 
 ----
 
@@ -316,7 +376,10 @@ bpn11748
 
 -- Abdu'l-Bahá
 
-bpn11749 
+Prayer bpn11749 in Hausa (bpn11749) 
+
+[bahaiprayers.net 11749](https://bahaiprayers.net/Book/Single/100/11749)
+
 
 ----
 
@@ -330,7 +393,10 @@ bpn11749
 
 -- Báb
 
-bpn11720 
+Prayer bpn11720 in Hausa (bpn11720) 
+
+[bahaiprayers.net 11720](https://bahaiprayers.net/Book/Single/100/11720)
+
 
 ----
 
@@ -340,7 +406,10 @@ bpn11720
 
 -- Báb
 
-bpn11721 
+Prayer bpn11721 in Hausa (bpn11721) 
+
+[bahaiprayers.net 11721](https://bahaiprayers.net/Book/Single/100/11721)
+
 
 ----
 
@@ -354,7 +423,10 @@ bpn11721
 
 -- Bahá'u'lláh
 
-bpn11726 
+Prayer bpn11726 in Hausa (bpn11726) 
+
+[bahaiprayers.net 11726](https://bahaiprayers.net/Book/Single/100/11726)
+
 
 ----
 
@@ -364,7 +436,10 @@ bpn11726
 
 -- Bahá'u'lláh
 
-bpn11727 
+Prayer bpn11727 in Hausa (bpn11727) 
+
+[bahaiprayers.net 11727](https://bahaiprayers.net/Book/Single/100/11727)
+
 
 ----
 
@@ -374,7 +449,10 @@ bpn11727
 
 -- Bahá'u'lláh
 
-bpn11728 
+Prayer bpn11728 in Hausa (bpn11728) 
+
+[bahaiprayers.net 11728](https://bahaiprayers.net/Book/Single/100/11728)
+
 
 ----
 
@@ -384,7 +462,10 @@ bpn11728
 
 -- Bahá'u'lláh
 
-bpn11729 
+Prayer bpn11729 in Hausa (bpn11729) 
+
+[bahaiprayers.net 11729](https://bahaiprayers.net/Book/Single/100/11729)
+
 
 ----
 
@@ -398,7 +479,10 @@ bpn11729
 
 -- Bahá'u'lláh
 
-bpn11742 
+Prayer bpn11742 in Hausa (bpn11742) 
+
+[bahaiprayers.net 11742](https://bahaiprayers.net/Book/Single/100/11742)
+
 
 ----
 
@@ -408,7 +492,10 @@ bpn11742
 
 -- Bahá'u'lláh
 
-bpn11743 
+Prayer bpn11743 in Hausa (bpn11743) 
+
+[bahaiprayers.net 11743](https://bahaiprayers.net/Book/Single/100/11743)
+
 
 ----
 
@@ -418,7 +505,10 @@ bpn11743
 
 -- Bahá'u'lláh
 
-bpn11744 
+Prayer bpn11744 in Hausa (bpn11744) 
+
+[bahaiprayers.net 11744](https://bahaiprayers.net/Book/Single/100/11744)
+
 
 ----
 
@@ -428,7 +518,10 @@ bpn11744
 
 -- Bahá'u'lláh
 
-bpn11745 
+Prayer bpn11745 in Hausa (bpn11745) 
+
+[bahaiprayers.net 11745](https://bahaiprayers.net/Book/Single/100/11745)
+
 
 ----
 
@@ -442,7 +535,10 @@ bpn11745
 
 -- Bahá'u'lláh
 
-bpn11704 
+Prayer bpn11704 in Hausa (bpn11704) 
+
+[bahaiprayers.net 11704](https://bahaiprayers.net/Book/Single/100/11704)
+
 
 ----
 
@@ -456,7 +552,10 @@ bpn11704
 
 -- Bahá'u'lláh
 
-bpn11702 
+Prayer bpn11702 in Hausa (bpn11702) 
+
+[bahaiprayers.net 11702](https://bahaiprayers.net/Book/Single/100/11702)
+
 
 ----
 
@@ -470,7 +569,10 @@ bpn11702
 
 -- Bahá'u'lláh
 
-bpn11701 
+Prayer bpn11701 in Hausa (bpn11701) 
+
+[bahaiprayers.net 11701](https://bahaiprayers.net/Book/Single/100/11701)
+
 
 ----
 
@@ -484,7 +586,10 @@ bpn11701
 
 -- Bahá'u'lláh
 
-bpn11713 
+Prayer bpn11713 in Hausa (bpn11713) 
+
+[bahaiprayers.net 11713](https://bahaiprayers.net/Book/Single/100/11713)
+
 
 ----
 
@@ -498,7 +603,10 @@ bpn11713
 
 -- Bahá'u'lláh
 
-bpn11746 
+Prayer bpn11746 in Hausa (bpn11746) 
+
+[bahaiprayers.net 11746](https://bahaiprayers.net/Book/Single/100/11746)
+
 
 ----
 
@@ -508,7 +616,10 @@ bpn11746
 
 -- Bahá'u'lláh
 
-bpn11747 
+Prayer bpn11747 in Hausa (bpn11747) 
+
+[bahaiprayers.net 11747](https://bahaiprayers.net/Book/Single/100/11747)
+
 
 ----
 
@@ -522,7 +633,10 @@ bpn11747
 
 -- Bahá'u'lláh
 
-bpn11760 
+Prayer bpn11760 in Hausa (bpn11760) 
+
+[bahaiprayers.net 11760](https://bahaiprayers.net/Book/Single/100/11760)
+
 
 ----
 
@@ -532,7 +646,10 @@ bpn11760
 
 -- Bahá'u'lláh
 
-bpn11761 
+Prayer bpn11761 in Hausa (bpn11761) 
+
+[bahaiprayers.net 11761](https://bahaiprayers.net/Book/Single/100/11761)
+
 
 ----
 
@@ -542,7 +659,10 @@ bpn11761
 
 -- Bahá'u'lláh
 
-bpn11762 
+Prayer bpn11762 in Hausa (bpn11762) 
+
+[bahaiprayers.net 11762](https://bahaiprayers.net/Book/Single/100/11762)
+
 
 ----
 
@@ -556,7 +676,10 @@ bpn11762
 
 -- Bahá'u'lláh
 
-bpn11735 
+Prayer bpn11735 in Hausa (bpn11735) 
+
+[bahaiprayers.net 11735](https://bahaiprayers.net/Book/Single/100/11735)
+
 
 ----
 
@@ -566,7 +689,10 @@ bpn11735
 
 -- Abdu'l-Bahá
 
-bpn11736 
+Prayer bpn11736 in Hausa (bpn11736) 
+
+[bahaiprayers.net 11736](https://bahaiprayers.net/Book/Single/100/11736)
+
 
 ----
 
@@ -580,7 +706,10 @@ bpn11736
 
 -- Bahá'u'lláh
 
-bpn11737 
+Prayer bpn11737 in Hausa (bpn11737) 
+
+[bahaiprayers.net 11737](https://bahaiprayers.net/Book/Single/100/11737)
+
 
 ----
 
@@ -590,7 +719,10 @@ bpn11737
 
 -- Bahá'u'lláh
 
-bpn11738 
+Prayer bpn11738 in Hausa (bpn11738) 
+
+[bahaiprayers.net 11738](https://bahaiprayers.net/Book/Single/100/11738)
+
 
 ----
 
@@ -600,7 +732,10 @@ bpn11738
 
 -- Abdu'l-Bahá
 
-bpn11739 
+Prayer bpn11739 in Hausa (bpn11739) 
+
+[bahaiprayers.net 11739](https://bahaiprayers.net/Book/Single/100/11739)
+
 
 ----
 
@@ -610,7 +745,10 @@ bpn11739
 
 -- Abdu'l-Bahá
 
-bpn11740 
+Prayer bpn11740 in Hausa (bpn11740) 
+
+[bahaiprayers.net 11740](https://bahaiprayers.net/Book/Single/100/11740)
+
 
 ----
 
@@ -624,7 +762,10 @@ bpn11740
 
 -- Bahá'u'lláh
 
-bpn11722 
+Prayer bpn11722 in Hausa (bpn11722) 
+
+[bahaiprayers.net 11722](https://bahaiprayers.net/Book/Single/100/11722)
+
 
 ----
 
@@ -634,7 +775,10 @@ bpn11722
 
 -- Bahá'u'lláh
 
-bpn11723 
+Prayer bpn11723 in Hausa (bpn11723) 
+
+[bahaiprayers.net 11723](https://bahaiprayers.net/Book/Single/100/11723)
+
 
 ----
 
@@ -644,7 +788,10 @@ bpn11723
 
 -- Bahá'u'lláh
 
-bpn11724 
+Prayer bpn11724 in Hausa (bpn11724) 
+
+[bahaiprayers.net 11724](https://bahaiprayers.net/Book/Single/100/11724)
+
 
 ----
 
@@ -654,7 +801,10 @@ bpn11724
 
 -- Bahá'u'lláh
 
-bpn11725 
+Prayer bpn11725 in Hausa (bpn11725) 
+
+[bahaiprayers.net 11725](https://bahaiprayers.net/Book/Single/100/11725)
+
 
 ----
 
@@ -668,7 +818,10 @@ bpn11725
 
 -- Abdu'l-Bahá
 
-bpn11750 
+Prayer bpn11750 in Hausa (bpn11750) 
+
+[bahaiprayers.net 11750](https://bahaiprayers.net/Book/Single/100/11750)
+
 
 ----
 
@@ -678,7 +831,10 @@ bpn11750
 
 -- Abdu'l-Bahá
 
-bpn11751 
+Prayer bpn11751 in Hausa (bpn11751) 
+
+[bahaiprayers.net 11751](https://bahaiprayers.net/Book/Single/100/11751)
+
 
 ----
 
@@ -688,7 +844,10 @@ bpn11751
 
 -- Abdu'l-Bahá
 
-bpn11752 
+Prayer bpn11752 in Hausa (bpn11752) 
+
+[bahaiprayers.net 11752](https://bahaiprayers.net/Book/Single/100/11752)
+
 
 ----
 
@@ -698,7 +857,10 @@ bpn11752
 
 -- Abdu'l-Bahá
 
-bpn11753 
+Prayer bpn11753 in Hausa (bpn11753) 
+
+[bahaiprayers.net 11753](https://bahaiprayers.net/Book/Single/100/11753)
+
 
 ----
 
@@ -708,7 +870,10 @@ bpn11753
 
 -- Abdu'l-Bahá
 
-bpn11754 
+Prayer bpn11754 in Hausa (bpn11754) 
+
+[bahaiprayers.net 11754](https://bahaiprayers.net/Book/Single/100/11754)
+
 
 ----
 
@@ -718,7 +883,10 @@ bpn11754
 
 -- Abdu'l-Bahá
 
-bpn11755 
+Prayer bpn11755 in Hausa (bpn11755) 
+
+[bahaiprayers.net 11755](https://bahaiprayers.net/Book/Single/100/11755)
+
 
 ----
 
@@ -732,7 +900,10 @@ bpn11755
 
 -- Bahá'u'lláh
 
-bpn11711 
+Prayer bpn11711 in Hausa (bpn11711) 
+
+[bahaiprayers.net 11711](https://bahaiprayers.net/Book/Single/100/11711)
+
 
 ----
 
@@ -746,7 +917,10 @@ bpn11711
 
 -- Bahá'u'lláh
 
-bpn11757 
+Prayer bpn11757 in Hausa (bpn11757) 
+
+[bahaiprayers.net 11757](https://bahaiprayers.net/Book/Single/100/11757)
+
 
 ----
 
@@ -756,7 +930,10 @@ bpn11757
 
 -- Abdu'l-Bahá
 
-bpn11758 
+Prayer bpn11758 in Hausa (bpn11758) 
+
+[bahaiprayers.net 11758](https://bahaiprayers.net/Book/Single/100/11758)
+
 
 ----
 
@@ -770,7 +947,10 @@ bpn11758
 
 -- Bahá'u'lláh
 
-bpn11717 
+Prayer bpn11717 in Hausa (bpn11717) 
+
+[bahaiprayers.net 11717](https://bahaiprayers.net/Book/Single/100/11717)
+
 
 ----
 
@@ -780,7 +960,10 @@ bpn11717
 
 -- Bahá'u'lláh
 
-bpn11718 
+Prayer bpn11718 in Hausa (bpn11718) 
+
+[bahaiprayers.net 11718](https://bahaiprayers.net/Book/Single/100/11718)
+
 
 ----
 
@@ -790,7 +973,10 @@ bpn11718
 
 -- Bahá'u'lláh
 
-bpn11719 
+Prayer bpn11719 in Hausa (bpn11719) 
+
+[bahaiprayers.net 11719](https://bahaiprayers.net/Book/Single/100/11719)
+
 
 ----
 

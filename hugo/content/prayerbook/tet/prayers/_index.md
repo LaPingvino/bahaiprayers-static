@@ -50,7 +50,10 @@ tags = ['lang=tet', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12531 
+Prayer bpn12531 in Tetum (bpn12531) 
+
+[bahaiprayers.net 12531](https://bahaiprayers.net/Book/Single/107/12531)
+
 
 ----
 
@@ -60,7 +63,10 @@ bpn12531
 
 -- Bahá'u'lláh
 
-bpn12533 
+Prayer bpn12533 in Tetum (bpn12533) 
+
+[bahaiprayers.net 12533](https://bahaiprayers.net/Book/Single/107/12533)
+
 
 ----
 
@@ -70,7 +76,10 @@ bpn12533
 
 -- Bahá'u'lláh
 
-bpn12536 
+Prayer bpn12536 in Tetum (bpn12536) 
+
+[bahaiprayers.net 12536](https://bahaiprayers.net/Book/Single/107/12536)
+
 
 ----
 
@@ -80,7 +89,10 @@ bpn12536
 
 -- Báb
 
-bpn12530 
+Prayer bpn12530 in Tetum (bpn12530) 
+
+[bahaiprayers.net 12530](https://bahaiprayers.net/Book/Single/107/12530)
+
 
 ----
 
@@ -90,7 +102,10 @@ bpn12530
 
 -- Báb
 
-bpn12534 
+Prayer bpn12534 in Tetum (bpn12534) 
+
+[bahaiprayers.net 12534](https://bahaiprayers.net/Book/Single/107/12534)
+
 
 ----
 
@@ -100,7 +115,10 @@ bpn12534
 
 -- Abdu'l-Bahá
 
-bpn12532 
+Prayer bpn12532 in Tetum (bpn12532) 
+
+[bahaiprayers.net 12532](https://bahaiprayers.net/Book/Single/107/12532)
+
 
 ----
 
@@ -110,7 +128,10 @@ bpn12532
 
 -- Abdu'l-Bahá
 
-bpn12535 
+Prayer bpn12535 in Tetum (bpn12535) 
+
+[bahaiprayers.net 12535](https://bahaiprayers.net/Book/Single/107/12535)
+
 
 ----
 
@@ -124,7 +145,10 @@ bpn12535
 
 -- Bahá'u'lláh
 
-bpn12537 
+Prayer bpn12537 in Tetum (bpn12537) 
+
+[bahaiprayers.net 12537](https://bahaiprayers.net/Book/Single/107/12537)
+
 
 ----
 
@@ -134,7 +158,10 @@ bpn12537
 
 -- Abdu'l-Bahá
 
-bpn12538 
+Prayer bpn12538 in Tetum (bpn12538) 
+
+[bahaiprayers.net 12538](https://bahaiprayers.net/Book/Single/107/12538)
+
 
 ----
 
@@ -144,7 +171,10 @@ bpn12538
 
 -- Abdu'l-Bahá
 
-bpn12539 
+Prayer bpn12539 in Tetum (bpn12539) 
+
+[bahaiprayers.net 12539](https://bahaiprayers.net/Book/Single/107/12539)
+
 
 ----
 
@@ -158,7 +188,10 @@ bpn12539
 
 -- Abdu'l-Bahá
 
-bpn12540 
+Prayer bpn12540 in Tetum (bpn12540) 
+
+[bahaiprayers.net 12540](https://bahaiprayers.net/Book/Single/107/12540)
+
 
 ----
 
@@ -172,7 +205,10 @@ bpn12540
 
 -- Abdu'l-Bahá
 
-bpn12541 
+Prayer bpn12541 in Tetum (bpn12541) 
+
+[bahaiprayers.net 12541](https://bahaiprayers.net/Book/Single/107/12541)
+
 
 ----
 
@@ -182,7 +218,10 @@ bpn12541
 
 -- Abdu'l-Bahá
 
-bpn12542 
+Prayer bpn12542 in Tetum (bpn12542) 
+
+[bahaiprayers.net 12542](https://bahaiprayers.net/Book/Single/107/12542)
+
 
 ----
 
@@ -196,7 +235,10 @@ bpn12542
 
 -- Báb
 
-bpn12543 
+Prayer bpn12543 in Tetum (bpn12543) 
+
+[bahaiprayers.net 12543](https://bahaiprayers.net/Book/Single/107/12543)
+
 
 ----
 
@@ -206,7 +248,10 @@ bpn12543
 
 -- Báb
 
-bpn12544 
+Prayer bpn12544 in Tetum (bpn12544) 
+
+[bahaiprayers.net 12544](https://bahaiprayers.net/Book/Single/107/12544)
+
 
 ----
 
@@ -216,7 +261,10 @@ bpn12544
 
 -- Abdu'l-Bahá
 
-bpn12545 
+Prayer bpn12545 in Tetum (bpn12545) 
+
+[bahaiprayers.net 12545](https://bahaiprayers.net/Book/Single/107/12545)
+
 
 ----
 
@@ -230,7 +278,10 @@ bpn12545
 
 -- Abdu'l-Bahá
 
-bpn12546 
+Prayer bpn12546 in Tetum (bpn12546) 
+
+[bahaiprayers.net 12546](https://bahaiprayers.net/Book/Single/107/12546)
+
 
 ----
 
@@ -240,7 +291,10 @@ bpn12546
 
 -- Abdu'l-Bahá
 
-bpn12547 
+Prayer bpn12547 in Tetum (bpn12547) 
+
+[bahaiprayers.net 12547](https://bahaiprayers.net/Book/Single/107/12547)
+
 
 ----
 
@@ -250,7 +304,10 @@ bpn12547
 
 -- Abdu'l-Bahá
 
-bpn12548 
+Prayer bpn12548 in Tetum (bpn12548) 
+
+[bahaiprayers.net 12548](https://bahaiprayers.net/Book/Single/107/12548)
+
 
 ----
 
@@ -264,7 +321,10 @@ bpn12548
 
 -- Bahá'u'lláh
 
-bpn12549 
+Prayer bpn12549 in Tetum (bpn12549) 
+
+[bahaiprayers.net 12549](https://bahaiprayers.net/Book/Single/107/12549)
+
 
 ----
 
@@ -278,7 +338,10 @@ bpn12549
 
 -- Bahá'u'lláh
 
-bpn12550 
+Prayer bpn12550 in Tetum (bpn12550) 
+
+[bahaiprayers.net 12550](https://bahaiprayers.net/Book/Single/107/12550)
+
 
 ----
 
@@ -292,7 +355,10 @@ bpn12550
 
 -- Bahá'u'lláh
 
-bpn12551 
+Prayer bpn12551 in Tetum (bpn12551) 
+
+[bahaiprayers.net 12551](https://bahaiprayers.net/Book/Single/107/12551)
+
 
 ----
 
@@ -302,7 +368,10 @@ bpn12551
 
 -- Bahá'u'lláh
 
-bpn12552 
+Prayer bpn12552 in Tetum (bpn12552) 
+
+[bahaiprayers.net 12552](https://bahaiprayers.net/Book/Single/107/12552)
+
 
 ----
 
@@ -316,7 +385,10 @@ bpn12552
 
 -- Abdu'l-Bahá
 
-bpn12553 
+Prayer bpn12553 in Tetum (bpn12553) 
+
+[bahaiprayers.net 12553](https://bahaiprayers.net/Book/Single/107/12553)
+
 
 ----
 
@@ -326,7 +398,10 @@ bpn12553
 
 -- Abdu'l-Bahá
 
-bpn12554 
+Prayer bpn12554 in Tetum (bpn12554) 
+
+[bahaiprayers.net 12554](https://bahaiprayers.net/Book/Single/107/12554)
+
 
 ----
 
@@ -336,7 +411,10 @@ bpn12554
 
 -- Abdu'l-Bahá
 
-bpn12555 
+Prayer bpn12555 in Tetum (bpn12555) 
+
+[bahaiprayers.net 12555](https://bahaiprayers.net/Book/Single/107/12555)
+
 
 ----
 
@@ -346,7 +424,10 @@ bpn12555
 
 -- Abdu'l-Bahá
 
-bpn12556 
+Prayer bpn12556 in Tetum (bpn12556) 
+
+[bahaiprayers.net 12556](https://bahaiprayers.net/Book/Single/107/12556)
+
 
 ----
 
@@ -356,7 +437,10 @@ bpn12556
 
 -- Abdu'l-Bahá
 
-bpn12557 
+Prayer bpn12557 in Tetum (bpn12557) 
+
+[bahaiprayers.net 12557](https://bahaiprayers.net/Book/Single/107/12557)
+
 
 ----
 
@@ -370,7 +454,10 @@ bpn12557
 
 -- Bahá'u'lláh
 
-bpn12529 
+Prayer bpn12529 in Tetum (bpn12529) 
+
+[bahaiprayers.net 12529](https://bahaiprayers.net/Book/Single/107/12529)
+
 
 ----
 
@@ -384,7 +471,10 @@ bpn12529
 
 -- Báb
 
-bpn12558 
+Prayer bpn12558 in Tetum (bpn12558) 
+
+[bahaiprayers.net 12558](https://bahaiprayers.net/Book/Single/107/12558)
+
 
 ----
 
@@ -394,7 +484,10 @@ bpn12558
 
 -- Báb
 
-bpn12559 
+Prayer bpn12559 in Tetum (bpn12559) 
+
+[bahaiprayers.net 12559](https://bahaiprayers.net/Book/Single/107/12559)
+
 
 ----
 
@@ -408,7 +501,10 @@ bpn12559
 
 -- Abdu'l-Bahá
 
-bpn12560 
+Prayer bpn12560 in Tetum (bpn12560) 
+
+[bahaiprayers.net 12560](https://bahaiprayers.net/Book/Single/107/12560)
+
 
 ----
 
@@ -422,7 +518,10 @@ bpn12560
 
 -- Abdu'l-Bahá
 
-bpn12561 
+Prayer bpn12561 in Tetum (bpn12561) 
+
+[bahaiprayers.net 12561](https://bahaiprayers.net/Book/Single/107/12561)
+
 
 ----
 
@@ -436,7 +535,10 @@ bpn12561
 
 -- Báb
 
-bpn12562 
+Prayer bpn12562 in Tetum (bpn12562) 
+
+[bahaiprayers.net 12562](https://bahaiprayers.net/Book/Single/107/12562)
+
 
 ----
 
@@ -446,7 +548,10 @@ bpn12562
 
 -- Báb
 
-bpn12563 
+Prayer bpn12563 in Tetum (bpn12563) 
+
+[bahaiprayers.net 12563](https://bahaiprayers.net/Book/Single/107/12563)
+
 
 ----
 
@@ -456,7 +561,10 @@ bpn12563
 
 -- Báb
 
-bpn12564 
+Prayer bpn12564 in Tetum (bpn12564) 
+
+[bahaiprayers.net 12564](https://bahaiprayers.net/Book/Single/107/12564)
+
 
 ----
 
@@ -466,7 +574,10 @@ bpn12564
 
 -- Abdu'l-Bahá
 
-bpn12565 
+Prayer bpn12565 in Tetum (bpn12565) 
+
+[bahaiprayers.net 12565](https://bahaiprayers.net/Book/Single/107/12565)
+
 
 ----
 
@@ -480,7 +591,10 @@ bpn12565
 
 -- Abdu'l-Bahá
 
-bpn12566 
+Prayer bpn12566 in Tetum (bpn12566) 
+
+[bahaiprayers.net 12566](https://bahaiprayers.net/Book/Single/107/12566)
+
 
 ----
 
@@ -494,7 +608,10 @@ bpn12566
 
 -- Bahá'u'lláh
 
-bpn12568 
+Prayer bpn12568 in Tetum (bpn12568) 
+
+[bahaiprayers.net 12568](https://bahaiprayers.net/Book/Single/107/12568)
+
 
 ----
 
@@ -504,7 +621,10 @@ bpn12568
 
 -- Abdu'l-Bahá
 
-bpn12567 
+Prayer bpn12567 in Tetum (bpn12567) 
+
+[bahaiprayers.net 12567](https://bahaiprayers.net/Book/Single/107/12567)
+
 
 ----
 

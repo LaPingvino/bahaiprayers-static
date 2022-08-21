@@ -78,7 +78,10 @@ tags = ['lang=fa', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn1391 
+Prayer bpn1391 in فارسی (bpn1391) 
+
+[bahaiprayers.net 1391](https://bahaiprayers.net/Book/Single/5/1391)
+
 
 ----
 
@@ -88,7 +91,10 @@ bpn1391
 
 -- Abdu'l-Bahá
 
-bpn1393 
+Prayer bpn1393 in فارسی (bpn1393) 
+
+[bahaiprayers.net 1393](https://bahaiprayers.net/Book/Single/5/1393)
+
 
 ----
 
@@ -98,7 +104,10 @@ bpn1393
 
 -- Abdu'l-Bahá
 
-bpn1392 
+Prayer bpn1392 in فارسی (bpn1392) 
+
+[bahaiprayers.net 1392](https://bahaiprayers.net/Book/Single/5/1392)
+
 
 ----
 
@@ -112,7 +121,10 @@ bpn1392
 
 -- Abdu'l-Bahá
 
-bpn1394 
+Prayer bpn1394 in فارسی (bpn1394) 
+
+[bahaiprayers.net 1394](https://bahaiprayers.net/Book/Single/5/1394)
+
 
 ----
 
@@ -126,7 +138,10 @@ bpn1394
 
 -- Abdu'l-Bahá
 
-bpn1395 
+Prayer bpn1395 in فارسی (bpn1395) 
+
+[bahaiprayers.net 1395](https://bahaiprayers.net/Book/Single/5/1395)
+
 
 ----
 
@@ -136,7 +151,10 @@ bpn1395
 
 -- Abdu'l-Bahá
 
-bpn1396 
+Prayer bpn1396 in فارسی (bpn1396) 
+
+[bahaiprayers.net 1396](https://bahaiprayers.net/Book/Single/5/1396)
+
 
 ----
 
@@ -146,7 +164,10 @@ bpn1396
 
 -- Abdu'l-Bahá
 
-bpn1397 
+Prayer bpn1397 in فارسی (bpn1397) 
+
+[bahaiprayers.net 1397](https://bahaiprayers.net/Book/Single/5/1397)
+
 
 ----
 
@@ -156,7 +177,10 @@ bpn1397
 
 -- Abdu'l-Bahá
 
-bpn1398 
+Prayer bpn1398 in فارسی (bpn1398) 
+
+[bahaiprayers.net 1398](https://bahaiprayers.net/Book/Single/5/1398)
+
 
 ----
 
@@ -166,7 +190,10 @@ bpn1398
 
 -- Abdu'l-Bahá
 
-bpn1399 
+Prayer bpn1399 in فارسی (bpn1399) 
+
+[bahaiprayers.net 1399](https://bahaiprayers.net/Book/Single/5/1399)
+
 
 ----
 
@@ -176,7 +203,10 @@ bpn1399
 
 -- Abdu'l-Bahá
 
-bpn1400 
+Prayer bpn1400 in فارسی (bpn1400) 
+
+[bahaiprayers.net 1400](https://bahaiprayers.net/Book/Single/5/1400)
+
 
 ----
 
@@ -186,7 +216,10 @@ bpn1400
 
 -- Abdu'l-Bahá
 
-bpn1401 
+Prayer bpn1401 in فارسی (bpn1401) 
+
+[bahaiprayers.net 1401](https://bahaiprayers.net/Book/Single/5/1401)
+
 
 ----
 
@@ -196,7 +229,10 @@ bpn1401
 
 -- Abdu'l-Bahá
 
-bpn1402 
+Prayer bpn1402 in فارسی (bpn1402) 
+
+[bahaiprayers.net 1402](https://bahaiprayers.net/Book/Single/5/1402)
+
 
 ----
 
@@ -206,7 +242,10 @@ bpn1402
 
 -- Abdu'l-Bahá
 
-bpn1403 
+Prayer bpn1403 in فارسی (bpn1403) 
+
+[bahaiprayers.net 1403](https://bahaiprayers.net/Book/Single/5/1403)
+
 
 ----
 
@@ -220,7 +259,10 @@ bpn1403
 
 -- Bahá'u'lláh
 
-bpn6365 
+Prayer bpn6365 in فارسی (bpn6365) 
+
+[bahaiprayers.net 6365](https://bahaiprayers.net/Book/Single/5/6365)
+
 
 ----
 
@@ -230,7 +272,10 @@ bpn6365
 
 -- Bahá'u'lláh
 
-bpn6366 
+Prayer bpn6366 in فارسی (bpn6366) 
+
+[bahaiprayers.net 6366](https://bahaiprayers.net/Book/Single/5/6366)
+
 
 ----
 
@@ -240,7 +285,10 @@ bpn6366
 
 -- Bahá'u'lláh
 
-bpn8490 
+Prayer bpn8490 in فارسی (bpn8490) 
+
+[bahaiprayers.net 8490](https://bahaiprayers.net/Book/Single/5/8490)
+
 
 ----
 
@@ -254,7 +302,10 @@ bpn8490
 
 -- Bahá'u'lláh
 
-bpn1348 
+Prayer bpn1348 in فارسی (bpn1348) 
+
+[bahaiprayers.net 1348](https://bahaiprayers.net/Book/Single/5/1348)
+
 
 ----
 
@@ -264,7 +315,10 @@ bpn1348
 
 -- Bahá'u'lláh
 
-bpn1349 
+Prayer bpn1349 in فارسی (bpn1349) 
+
+[bahaiprayers.net 1349](https://bahaiprayers.net/Book/Single/5/1349)
+
 
 ----
 
@@ -274,7 +328,10 @@ bpn1349
 
 -- Bahá'u'lláh
 
-bpn1350 
+Prayer bpn1350 in فارسی (bpn1350) 
+
+[bahaiprayers.net 1350](https://bahaiprayers.net/Book/Single/5/1350)
+
 
 ----
 
@@ -284,7 +341,10 @@ bpn1350
 
 -- Bahá'u'lláh
 
-bpn1351 
+Prayer bpn1351 in فارسی (bpn1351) 
+
+[bahaiprayers.net 1351](https://bahaiprayers.net/Book/Single/5/1351)
+
 
 ----
 
@@ -294,7 +354,10 @@ bpn1351
 
 -- Abdu'l-Bahá
 
-bpn1404 
+Prayer bpn1404 in فارسی (bpn1404) 
+
+[bahaiprayers.net 1404](https://bahaiprayers.net/Book/Single/5/1404)
+
 
 ----
 
@@ -304,7 +367,10 @@ bpn1404
 
 -- Abdu'l-Bahá
 
-bpn1405 
+Prayer bpn1405 in فارسی (bpn1405) 
+
+[bahaiprayers.net 1405](https://bahaiprayers.net/Book/Single/5/1405)
+
 
 ----
 
@@ -314,7 +380,10 @@ bpn1405
 
 -- Abdu'l-Bahá
 
-bpn1406 
+Prayer bpn1406 in فارسی (bpn1406) 
+
+[bahaiprayers.net 1406](https://bahaiprayers.net/Book/Single/5/1406)
+
 
 ----
 
@@ -324,7 +393,10 @@ bpn1406
 
 -- Abdu'l-Bahá
 
-bpn1407 
+Prayer bpn1407 in فارسی (bpn1407) 
+
+[bahaiprayers.net 1407](https://bahaiprayers.net/Book/Single/5/1407)
+
 
 ----
 
@@ -334,7 +406,10 @@ bpn1407
 
 -- Abdu'l-Bahá
 
-bpn1408 
+Prayer bpn1408 in فارسی (bpn1408) 
+
+[bahaiprayers.net 1408](https://bahaiprayers.net/Book/Single/5/1408)
+
 
 ----
 
@@ -344,7 +419,10 @@ bpn1408
 
 -- Abdu'l-Bahá
 
-bpn1409 
+Prayer bpn1409 in فارسی (bpn1409) 
+
+[bahaiprayers.net 1409](https://bahaiprayers.net/Book/Single/5/1409)
+
 
 ----
 
@@ -354,7 +432,10 @@ bpn1409
 
 -- Abdu'l-Bahá
 
-bpn1410 
+Prayer bpn1410 in فارسی (bpn1410) 
+
+[bahaiprayers.net 1410](https://bahaiprayers.net/Book/Single/5/1410)
+
 
 ----
 
@@ -368,7 +449,10 @@ bpn1410
 
 -- Bahá'u'lláh
 
-bpn1352 
+Prayer bpn1352 in فارسی (bpn1352) 
+
+[bahaiprayers.net 1352](https://bahaiprayers.net/Book/Single/5/1352)
+
 
 ----
 
@@ -378,7 +462,10 @@ bpn1352
 
 -- Abdu'l-Bahá
 
-bpn1411 
+Prayer bpn1411 in فارسی (bpn1411) 
+
+[bahaiprayers.net 1411](https://bahaiprayers.net/Book/Single/5/1411)
+
 
 ----
 
@@ -388,7 +475,10 @@ bpn1411
 
 -- Abdu'l-Bahá
 
-bpn1412 
+Prayer bpn1412 in فارسی (bpn1412) 
+
+[bahaiprayers.net 1412](https://bahaiprayers.net/Book/Single/5/1412)
+
 
 ----
 
@@ -398,7 +488,10 @@ bpn1412
 
 -- Abdu'l-Bahá
 
-bpn1414 
+Prayer bpn1414 in فارسی (bpn1414) 
+
+[bahaiprayers.net 1414](https://bahaiprayers.net/Book/Single/5/1414)
+
 
 ----
 
@@ -408,7 +501,10 @@ bpn1414
 
 -- Abdu'l-Bahá
 
-bpn1415 
+Prayer bpn1415 in فارسی (bpn1415) 
+
+[bahaiprayers.net 1415](https://bahaiprayers.net/Book/Single/5/1415)
+
 
 ----
 
@@ -418,7 +514,10 @@ bpn1415
 
 -- Abdu'l-Bahá
 
-bpn1416 
+Prayer bpn1416 in فارسی (bpn1416) 
+
+[bahaiprayers.net 1416](https://bahaiprayers.net/Book/Single/5/1416)
+
 
 ----
 
@@ -428,7 +527,10 @@ bpn1416
 
 -- Abdu'l-Bahá
 
-bpn1418 
+Prayer bpn1418 in فارسی (bpn1418) 
+
+[bahaiprayers.net 1418](https://bahaiprayers.net/Book/Single/5/1418)
+
 
 ----
 
@@ -438,7 +540,10 @@ bpn1418
 
 -- Abdu'l-Bahá
 
-bpn1419 
+Prayer bpn1419 in فارسی (bpn1419) 
+
+[bahaiprayers.net 1419](https://bahaiprayers.net/Book/Single/5/1419)
+
 
 ----
 
@@ -448,7 +553,10 @@ bpn1419
 
 -- Abdu'l-Bahá
 
-bpn1413 
+Prayer bpn1413 in فارسی (bpn1413) 
+
+[bahaiprayers.net 1413](https://bahaiprayers.net/Book/Single/5/1413)
+
 
 ----
 
@@ -458,7 +566,10 @@ bpn1413
 
 -- Abdu'l-Bahá
 
-bpn1417 
+Prayer bpn1417 in فارسی (bpn1417) 
+
+[bahaiprayers.net 1417](https://bahaiprayers.net/Book/Single/5/1417)
+
 
 ----
 
@@ -472,7 +583,10 @@ bpn1417
 
 -- Abdu'l-Bahá
 
-bpn1420 
+Prayer bpn1420 in فارسی (bpn1420) 
+
+[bahaiprayers.net 1420](https://bahaiprayers.net/Book/Single/5/1420)
+
 
 ----
 
@@ -486,7 +600,10 @@ bpn1420
 
 -- Abdu'l-Bahá
 
-bpn1421 
+Prayer bpn1421 in فارسی (bpn1421) 
+
+[bahaiprayers.net 1421](https://bahaiprayers.net/Book/Single/5/1421)
+
 
 ----
 
@@ -496,7 +613,10 @@ bpn1421
 
 -- Abdu'l-Bahá
 
-bpn1422 
+Prayer bpn1422 in فارسی (bpn1422) 
+
+[bahaiprayers.net 1422](https://bahaiprayers.net/Book/Single/5/1422)
+
 
 ----
 
@@ -510,7 +630,10 @@ bpn1422
 
 -- Bahá'u'lláh
 
-bpn1353 
+Prayer bpn1353 in فارسی (bpn1353) 
+
+[bahaiprayers.net 1353](https://bahaiprayers.net/Book/Single/5/1353)
+
 
 ----
 
@@ -520,7 +643,10 @@ bpn1353
 
 -- Bahá'u'lláh
 
-bpn1354 
+Prayer bpn1354 in فارسی (bpn1354) 
+
+[bahaiprayers.net 1354](https://bahaiprayers.net/Book/Single/5/1354)
+
 
 ----
 
@@ -530,7 +656,10 @@ bpn1354
 
 -- Bahá'u'lláh
 
-bpn1355 
+Prayer bpn1355 in فارسی (bpn1355) 
+
+[bahaiprayers.net 1355](https://bahaiprayers.net/Book/Single/5/1355)
+
 
 ----
 
@@ -540,7 +669,10 @@ bpn1355
 
 -- Abdu'l-Bahá
 
-bpn1423 
+Prayer bpn1423 in فارسی (bpn1423) 
+
+[bahaiprayers.net 1423](https://bahaiprayers.net/Book/Single/5/1423)
+
 
 ----
 
@@ -550,7 +682,10 @@ bpn1423
 
 -- Abdu'l-Bahá
 
-bpn1425 
+Prayer bpn1425 in فارسی (bpn1425) 
+
+[bahaiprayers.net 1425](https://bahaiprayers.net/Book/Single/5/1425)
+
 
 ----
 
@@ -560,7 +695,10 @@ bpn1425
 
 -- Abdu'l-Bahá
 
-bpn1426 
+Prayer bpn1426 in فارسی (bpn1426) 
+
+[bahaiprayers.net 1426](https://bahaiprayers.net/Book/Single/5/1426)
+
 
 ----
 
@@ -570,7 +708,10 @@ bpn1426
 
 -- Abdu'l-Bahá
 
-bpn1427 
+Prayer bpn1427 in فارسی (bpn1427) 
+
+[bahaiprayers.net 1427](https://bahaiprayers.net/Book/Single/5/1427)
+
 
 ----
 
@@ -580,7 +721,10 @@ bpn1427
 
 -- Abdu'l-Bahá
 
-bpn1428 
+Prayer bpn1428 in فارسی (bpn1428) 
+
+[bahaiprayers.net 1428](https://bahaiprayers.net/Book/Single/5/1428)
+
 
 ----
 
@@ -590,7 +734,10 @@ bpn1428
 
 -- Abdu'l-Bahá
 
-bpn1429 
+Prayer bpn1429 in فارسی (bpn1429) 
+
+[bahaiprayers.net 1429](https://bahaiprayers.net/Book/Single/5/1429)
+
 
 ----
 
@@ -600,7 +747,10 @@ bpn1429
 
 -- Abdu'l-Bahá
 
-bpn1430 
+Prayer bpn1430 in فارسی (bpn1430) 
+
+[bahaiprayers.net 1430](https://bahaiprayers.net/Book/Single/5/1430)
+
 
 ----
 
@@ -610,7 +760,10 @@ bpn1430
 
 -- Abdu'l-Bahá
 
-bpn1431 
+Prayer bpn1431 in فارسی (bpn1431) 
+
+[bahaiprayers.net 1431](https://bahaiprayers.net/Book/Single/5/1431)
+
 
 ----
 
@@ -620,7 +773,10 @@ bpn1431
 
 -- Abdu'l-Bahá
 
-bpn1424 
+Prayer bpn1424 in فارسی (bpn1424) 
+
+[bahaiprayers.net 1424](https://bahaiprayers.net/Book/Single/5/1424)
+
 
 ----
 
@@ -634,7 +790,10 @@ bpn1424
 
 -- Bahá'u'lláh
 
-bpn1356 
+Prayer bpn1356 in فارسی (bpn1356) 
+
+[bahaiprayers.net 1356](https://bahaiprayers.net/Book/Single/5/1356)
+
 
 ----
 
@@ -644,7 +803,10 @@ bpn1356
 
 -- Bahá'u'lláh
 
-bpn1358 
+Prayer bpn1358 in فارسی (bpn1358) 
+
+[bahaiprayers.net 1358](https://bahaiprayers.net/Book/Single/5/1358)
+
 
 ----
 
@@ -654,7 +816,10 @@ bpn1358
 
 -- Bahá'u'lláh
 
-bpn1357 
+Prayer bpn1357 in فارسی (bpn1357) 
+
+[bahaiprayers.net 1357](https://bahaiprayers.net/Book/Single/5/1357)
+
 
 ----
 
@@ -664,7 +829,10 @@ bpn1357
 
 -- Abdu'l-Bahá
 
-bpn1432 
+Prayer bpn1432 in فارسی (bpn1432) 
+
+[bahaiprayers.net 1432](https://bahaiprayers.net/Book/Single/5/1432)
+
 
 ----
 
@@ -674,7 +842,10 @@ bpn1432
 
 -- Abdu'l-Bahá
 
-bpn1433 
+Prayer bpn1433 in فارسی (bpn1433) 
+
+[bahaiprayers.net 1433](https://bahaiprayers.net/Book/Single/5/1433)
+
 
 ----
 
@@ -684,7 +855,10 @@ bpn1433
 
 -- Abdu'l-Bahá
 
-bpn1434 
+Prayer bpn1434 in فارسی (bpn1434) 
+
+[bahaiprayers.net 1434](https://bahaiprayers.net/Book/Single/5/1434)
+
 
 ----
 
@@ -694,7 +868,10 @@ bpn1434
 
 -- Abdu'l-Bahá
 
-bpn1436 
+Prayer bpn1436 in فارسی (bpn1436) 
+
+[bahaiprayers.net 1436](https://bahaiprayers.net/Book/Single/5/1436)
+
 
 ----
 
@@ -704,7 +881,10 @@ bpn1436
 
 -- Abdu'l-Bahá
 
-bpn1438 
+Prayer bpn1438 in فارسی (bpn1438) 
+
+[bahaiprayers.net 1438](https://bahaiprayers.net/Book/Single/5/1438)
+
 
 ----
 
@@ -714,7 +894,10 @@ bpn1438
 
 -- Abdu'l-Bahá
 
-bpn1439 
+Prayer bpn1439 in فارسی (bpn1439) 
+
+[bahaiprayers.net 1439](https://bahaiprayers.net/Book/Single/5/1439)
+
 
 ----
 
@@ -724,7 +907,10 @@ bpn1439
 
 -- Abdu'l-Bahá
 
-bpn1437 
+Prayer bpn1437 in فارسی (bpn1437) 
+
+[bahaiprayers.net 1437](https://bahaiprayers.net/Book/Single/5/1437)
+
 
 ----
 
@@ -734,7 +920,10 @@ bpn1437
 
 -- Abdu'l-Bahá
 
-bpn1435 
+Prayer bpn1435 in فارسی (bpn1435) 
+
+[bahaiprayers.net 1435](https://bahaiprayers.net/Book/Single/5/1435)
+
 
 ----
 
@@ -748,7 +937,10 @@ bpn1435
 
 -- Abdu'l-Bahá
 
-bpn1441 
+Prayer bpn1441 in فارسی (bpn1441) 
+
+[bahaiprayers.net 1441](https://bahaiprayers.net/Book/Single/5/1441)
+
 
 ----
 
@@ -758,7 +950,10 @@ bpn1441
 
 -- Abdu'l-Bahá
 
-bpn1440 
+Prayer bpn1440 in فارسی (bpn1440) 
+
+[bahaiprayers.net 1440](https://bahaiprayers.net/Book/Single/5/1440)
+
 
 ----
 
@@ -772,7 +967,10 @@ bpn1440
 
 -- Abdu'l-Bahá
 
-bpn1442 
+Prayer bpn1442 in فارسی (bpn1442) 
+
+[bahaiprayers.net 1442](https://bahaiprayers.net/Book/Single/5/1442)
+
 
 ----
 
@@ -782,7 +980,10 @@ bpn1442
 
 -- Abdu'l-Bahá
 
-bpn1443 
+Prayer bpn1443 in فارسی (bpn1443) 
+
+[bahaiprayers.net 1443](https://bahaiprayers.net/Book/Single/5/1443)
+
 
 ----
 
@@ -792,7 +993,10 @@ bpn1443
 
 -- Abdu'l-Bahá
 
-bpn1446 
+Prayer bpn1446 in فارسی (bpn1446) 
+
+[bahaiprayers.net 1446](https://bahaiprayers.net/Book/Single/5/1446)
+
 
 ----
 
@@ -802,7 +1006,10 @@ bpn1446
 
 -- Abdu'l-Bahá
 
-bpn1445 
+Prayer bpn1445 in فارسی (bpn1445) 
+
+[bahaiprayers.net 1445](https://bahaiprayers.net/Book/Single/5/1445)
+
 
 ----
 
@@ -812,7 +1019,10 @@ bpn1445
 
 -- Abdu'l-Bahá
 
-bpn1444 
+Prayer bpn1444 in فارسی (bpn1444) 
+
+[bahaiprayers.net 1444](https://bahaiprayers.net/Book/Single/5/1444)
+
 
 ----
 
@@ -826,7 +1036,10 @@ bpn1444
 
 -- Abdu'l-Bahá
 
-bpn6479 
+Prayer bpn6479 in فارسی (bpn6479) 
+
+[bahaiprayers.net 6479](https://bahaiprayers.net/Book/Single/5/6479)
+
 
 ----
 
@@ -836,7 +1049,10 @@ bpn6479
 
 -- Abdu'l-Bahá
 
-bpn6480 
+Prayer bpn6480 in فارسی (bpn6480) 
+
+[bahaiprayers.net 6480](https://bahaiprayers.net/Book/Single/5/6480)
+
 
 ----
 
@@ -850,7 +1066,10 @@ bpn6480
 
 -- Bahá'u'lláh
 
-bpn1359 
+Prayer bpn1359 in فارسی (bpn1359) 
+
+[bahaiprayers.net 1359](https://bahaiprayers.net/Book/Single/5/1359)
+
 
 ----
 
@@ -864,7 +1083,10 @@ bpn1359
 
 -- Bahá'u'lláh
 
-bpn6367 
+Prayer bpn6367 in فارسی (bpn6367) 
+
+[bahaiprayers.net 6367](https://bahaiprayers.net/Book/Single/5/6367)
+
 
 ----
 
@@ -878,7 +1100,10 @@ bpn6367
 
 -- Bahá'u'lláh
 
-bpn1360 
+Prayer bpn1360 in فارسی (bpn1360) 
+
+[bahaiprayers.net 1360](https://bahaiprayers.net/Book/Single/5/1360)
+
 
 ----
 
@@ -888,7 +1113,10 @@ bpn1360
 
 -- Bahá'u'lláh
 
-bpn1361 
+Prayer bpn1361 in فارسی (bpn1361) 
+
+[bahaiprayers.net 1361](https://bahaiprayers.net/Book/Single/5/1361)
+
 
 ----
 
@@ -898,7 +1126,10 @@ bpn1361
 
 -- Bahá'u'lláh
 
-bpn1362 
+Prayer bpn1362 in فارسی (bpn1362) 
+
+[bahaiprayers.net 1362](https://bahaiprayers.net/Book/Single/5/1362)
+
 
 ----
 
@@ -908,7 +1139,10 @@ bpn1362
 
 -- Bahá'u'lláh
 
-bpn1363 
+Prayer bpn1363 in فارسی (bpn1363) 
+
+[bahaiprayers.net 1363](https://bahaiprayers.net/Book/Single/5/1363)
+
 
 ----
 
@@ -918,7 +1152,10 @@ bpn1363
 
 -- Bahá'u'lláh
 
-bpn6362 
+Prayer bpn6362 in فارسی (bpn6362) 
+
+[bahaiprayers.net 6362](https://bahaiprayers.net/Book/Single/5/6362)
+
 
 ----
 
@@ -928,7 +1165,10 @@ bpn6362
 
 -- Bahá'u'lláh
 
-bpn6441 
+Prayer bpn6441 in فارسی (bpn6441) 
+
+[bahaiprayers.net 6441](https://bahaiprayers.net/Book/Single/5/6441)
+
 
 ----
 
@@ -938,7 +1178,10 @@ bpn6441
 
 -- Bahá'u'lláh
 
-bpn6371 
+Prayer bpn6371 in فارسی (bpn6371) 
+
+[bahaiprayers.net 6371](https://bahaiprayers.net/Book/Single/5/6371)
+
 
 ----
 
@@ -948,7 +1191,10 @@ bpn6371
 
 -- Abdu'l-Bahá
 
-bpn1447 
+Prayer bpn1447 in فارسی (bpn1447) 
+
+[bahaiprayers.net 1447](https://bahaiprayers.net/Book/Single/5/1447)
+
 
 ----
 
@@ -958,7 +1204,10 @@ bpn1447
 
 -- Abdu'l-Bahá
 
-bpn1448 
+Prayer bpn1448 in فارسی (bpn1448) 
+
+[bahaiprayers.net 1448](https://bahaiprayers.net/Book/Single/5/1448)
+
 
 ----
 
@@ -968,7 +1217,10 @@ bpn1448
 
 -- Abdu'l-Bahá
 
-bpn1449 
+Prayer bpn1449 in فارسی (bpn1449) 
+
+[bahaiprayers.net 1449](https://bahaiprayers.net/Book/Single/5/1449)
+
 
 ----
 
@@ -978,7 +1230,10 @@ bpn1449
 
 -- Abdu'l-Bahá
 
-bpn1450 
+Prayer bpn1450 in فارسی (bpn1450) 
+
+[bahaiprayers.net 1450](https://bahaiprayers.net/Book/Single/5/1450)
+
 
 ----
 
@@ -988,7 +1243,10 @@ bpn1450
 
 -- Abdu'l-Bahá
 
-bpn1451 
+Prayer bpn1451 in فارسی (bpn1451) 
+
+[bahaiprayers.net 1451](https://bahaiprayers.net/Book/Single/5/1451)
+
 
 ----
 
@@ -998,7 +1256,10 @@ bpn1451
 
 -- Abdu'l-Bahá
 
-bpn1452 
+Prayer bpn1452 in فارسی (bpn1452) 
+
+[bahaiprayers.net 1452](https://bahaiprayers.net/Book/Single/5/1452)
+
 
 ----
 
@@ -1008,7 +1269,10 @@ bpn1452
 
 -- Abdu'l-Bahá
 
-bpn1453 
+Prayer bpn1453 in فارسی (bpn1453) 
+
+[bahaiprayers.net 1453](https://bahaiprayers.net/Book/Single/5/1453)
+
 
 ----
 
@@ -1018,7 +1282,10 @@ bpn1453
 
 -- Abdu'l-Bahá
 
-bpn1454 
+Prayer bpn1454 in فارسی (bpn1454) 
+
+[bahaiprayers.net 1454](https://bahaiprayers.net/Book/Single/5/1454)
+
 
 ----
 
@@ -1028,7 +1295,10 @@ bpn1454
 
 -- Abdu'l-Bahá
 
-bpn1455 
+Prayer bpn1455 in فارسی (bpn1455) 
+
+[bahaiprayers.net 1455](https://bahaiprayers.net/Book/Single/5/1455)
+
 
 ----
 
@@ -1038,7 +1308,10 @@ bpn1455
 
 -- Abdu'l-Bahá
 
-bpn1456 
+Prayer bpn1456 in فارسی (bpn1456) 
+
+[bahaiprayers.net 1456](https://bahaiprayers.net/Book/Single/5/1456)
+
 
 ----
 
@@ -1048,7 +1321,10 @@ bpn1456
 
 -- Abdu'l-Bahá
 
-bpn1457 
+Prayer bpn1457 in فارسی (bpn1457) 
+
+[bahaiprayers.net 1457](https://bahaiprayers.net/Book/Single/5/1457)
+
 
 ----
 
@@ -1058,7 +1334,10 @@ bpn1457
 
 -- Abdu'l-Bahá
 
-bpn1458 
+Prayer bpn1458 in فارسی (bpn1458) 
+
+[bahaiprayers.net 1458](https://bahaiprayers.net/Book/Single/5/1458)
+
 
 ----
 
@@ -1068,7 +1347,10 @@ bpn1458
 
 -- Abdu'l-Bahá
 
-bpn1459 
+Prayer bpn1459 in فارسی (bpn1459) 
+
+[bahaiprayers.net 1459](https://bahaiprayers.net/Book/Single/5/1459)
+
 
 ----
 
@@ -1078,7 +1360,10 @@ bpn1459
 
 -- Abdu'l-Bahá
 
-bpn1460 
+Prayer bpn1460 in فارسی (bpn1460) 
+
+[bahaiprayers.net 1460](https://bahaiprayers.net/Book/Single/5/1460)
+
 
 ----
 
@@ -1088,7 +1373,10 @@ bpn1460
 
 -- Abdu'l-Bahá
 
-bpn6476 
+Prayer bpn6476 in فارسی (bpn6476) 
+
+[bahaiprayers.net 6476](https://bahaiprayers.net/Book/Single/5/6476)
+
 
 ----
 
@@ -1098,7 +1386,10 @@ bpn6476
 
 -- Abdu'l-Bahá
 
-bpn6477 
+Prayer bpn6477 in فارسی (bpn6477) 
+
+[bahaiprayers.net 6477](https://bahaiprayers.net/Book/Single/5/6477)
+
 
 ----
 
@@ -1108,7 +1399,10 @@ bpn6477
 
 -- Abdu'l-Bahá
 
-bpn1461 
+Prayer bpn1461 in فارسی (bpn1461) 
+
+[bahaiprayers.net 1461](https://bahaiprayers.net/Book/Single/5/1461)
+
 
 ----
 
@@ -1122,7 +1416,10 @@ bpn1461
 
 -- Bahá'u'lláh
 
-bpn1365 
+Prayer bpn1365 in فارسی (bpn1365) 
+
+[bahaiprayers.net 1365](https://bahaiprayers.net/Book/Single/5/1365)
+
 
 ----
 
@@ -1132,7 +1429,10 @@ bpn1365
 
 -- Bahá'u'lláh
 
-bpn1366 
+Prayer bpn1366 in فارسی (bpn1366) 
+
+[bahaiprayers.net 1366](https://bahaiprayers.net/Book/Single/5/1366)
+
 
 ----
 
@@ -1142,7 +1442,10 @@ bpn1366
 
 -- Bahá'u'lláh
 
-bpn1368 
+Prayer bpn1368 in فارسی (bpn1368) 
+
+[bahaiprayers.net 1368](https://bahaiprayers.net/Book/Single/5/1368)
+
 
 ----
 
@@ -1152,7 +1455,10 @@ bpn1368
 
 -- Bahá'u'lláh
 
-bpn1369 
+Prayer bpn1369 in فارسی (bpn1369) 
+
+[bahaiprayers.net 1369](https://bahaiprayers.net/Book/Single/5/1369)
+
 
 ----
 
@@ -1162,7 +1468,10 @@ bpn1369
 
 -- Bahá'u'lláh
 
-bpn1370 
+Prayer bpn1370 in فارسی (bpn1370) 
+
+[bahaiprayers.net 1370](https://bahaiprayers.net/Book/Single/5/1370)
+
 
 ----
 
@@ -1172,7 +1481,10 @@ bpn1370
 
 -- Bahá'u'lláh
 
-bpn1364 
+Prayer bpn1364 in فارسی (bpn1364) 
+
+[bahaiprayers.net 1364](https://bahaiprayers.net/Book/Single/5/1364)
+
 
 ----
 
@@ -1182,7 +1494,10 @@ bpn1364
 
 -- Bahá'u'lláh
 
-bpn1367 
+Prayer bpn1367 in فارسی (bpn1367) 
+
+[bahaiprayers.net 1367](https://bahaiprayers.net/Book/Single/5/1367)
+
 
 ----
 
@@ -1192,7 +1507,10 @@ bpn1367
 
 -- Abdu'l-Bahá
 
-bpn1462 
+Prayer bpn1462 in فارسی (bpn1462) 
+
+[bahaiprayers.net 1462](https://bahaiprayers.net/Book/Single/5/1462)
+
 
 ----
 
@@ -1202,7 +1520,10 @@ bpn1462
 
 -- Abdu'l-Bahá
 
-bpn1463 
+Prayer bpn1463 in فارسی (bpn1463) 
+
+[bahaiprayers.net 1463](https://bahaiprayers.net/Book/Single/5/1463)
+
 
 ----
 
@@ -1212,7 +1533,10 @@ bpn1463
 
 -- Abdu'l-Bahá
 
-bpn1464 
+Prayer bpn1464 in فارسی (bpn1464) 
+
+[bahaiprayers.net 1464](https://bahaiprayers.net/Book/Single/5/1464)
+
 
 ----
 
@@ -1222,7 +1546,10 @@ bpn1464
 
 -- Abdu'l-Bahá
 
-bpn1465 
+Prayer bpn1465 in فارسی (bpn1465) 
+
+[bahaiprayers.net 1465](https://bahaiprayers.net/Book/Single/5/1465)
+
 
 ----
 
@@ -1232,7 +1559,10 @@ bpn1465
 
 -- Abdu'l-Bahá
 
-bpn1466 
+Prayer bpn1466 in فارسی (bpn1466) 
+
+[bahaiprayers.net 1466](https://bahaiprayers.net/Book/Single/5/1466)
+
 
 ----
 
@@ -1242,7 +1572,10 @@ bpn1466
 
 -- Abdu'l-Bahá
 
-bpn1467 
+Prayer bpn1467 in فارسی (bpn1467) 
+
+[bahaiprayers.net 1467](https://bahaiprayers.net/Book/Single/5/1467)
+
 
 ----
 
@@ -1252,7 +1585,10 @@ bpn1467
 
 -- Abdu'l-Bahá
 
-bpn1468 
+Prayer bpn1468 in فارسی (bpn1468) 
+
+[bahaiprayers.net 1468](https://bahaiprayers.net/Book/Single/5/1468)
+
 
 ----
 
@@ -1262,7 +1598,10 @@ bpn1468
 
 -- Abdu'l-Bahá
 
-bpn1469 
+Prayer bpn1469 in فارسی (bpn1469) 
+
+[bahaiprayers.net 1469](https://bahaiprayers.net/Book/Single/5/1469)
+
 
 ----
 
@@ -1272,7 +1611,10 @@ bpn1469
 
 -- Abdu'l-Bahá
 
-bpn1470 
+Prayer bpn1470 in فارسی (bpn1470) 
+
+[bahaiprayers.net 1470](https://bahaiprayers.net/Book/Single/5/1470)
+
 
 ----
 
@@ -1282,7 +1624,10 @@ bpn1470
 
 -- Abdu'l-Bahá
 
-bpn1471 
+Prayer bpn1471 in فارسی (bpn1471) 
+
+[bahaiprayers.net 1471](https://bahaiprayers.net/Book/Single/5/1471)
+
 
 ----
 
@@ -1292,7 +1637,10 @@ bpn1471
 
 -- Abdu'l-Bahá
 
-bpn1472 
+Prayer bpn1472 in فارسی (bpn1472) 
+
+[bahaiprayers.net 1472](https://bahaiprayers.net/Book/Single/5/1472)
+
 
 ----
 
@@ -1302,7 +1650,10 @@ bpn1472
 
 -- Abdu'l-Bahá
 
-bpn1473 
+Prayer bpn1473 in فارسی (bpn1473) 
+
+[bahaiprayers.net 1473](https://bahaiprayers.net/Book/Single/5/1473)
+
 
 ----
 
@@ -1316,7 +1667,10 @@ bpn1473
 
 -- Bahá'u'lláh
 
-bpn1371 
+Prayer bpn1371 in فارسی (bpn1371) 
+
+[bahaiprayers.net 1371](https://bahaiprayers.net/Book/Single/5/1371)
+
 
 ----
 
@@ -1326,7 +1680,10 @@ bpn1371
 
 -- Bahá'u'lláh
 
-bpn1372 
+Prayer bpn1372 in فارسی (bpn1372) 
+
+[bahaiprayers.net 1372](https://bahaiprayers.net/Book/Single/5/1372)
+
 
 ----
 
@@ -1336,7 +1693,10 @@ bpn1372
 
 -- Bahá'u'lláh
 
-bpn1374 
+Prayer bpn1374 in فارسی (bpn1374) 
+
+[bahaiprayers.net 1374](https://bahaiprayers.net/Book/Single/5/1374)
+
 
 ----
 
@@ -1346,7 +1706,10 @@ bpn1374
 
 -- Bahá'u'lláh
 
-bpn1375 
+Prayer bpn1375 in فارسی (bpn1375) 
+
+[bahaiprayers.net 1375](https://bahaiprayers.net/Book/Single/5/1375)
+
 
 ----
 
@@ -1356,7 +1719,10 @@ bpn1375
 
 -- Bahá'u'lláh
 
-bpn1376 
+Prayer bpn1376 in فارسی (bpn1376) 
+
+[bahaiprayers.net 1376](https://bahaiprayers.net/Book/Single/5/1376)
+
 
 ----
 
@@ -1366,7 +1732,10 @@ bpn1376
 
 -- Bahá'u'lláh
 
-bpn1373 
+Prayer bpn1373 in فارسی (bpn1373) 
+
+[bahaiprayers.net 1373](https://bahaiprayers.net/Book/Single/5/1373)
+
 
 ----
 
@@ -1376,7 +1745,10 @@ bpn1373
 
 -- Abdu'l-Bahá
 
-bpn1474 
+Prayer bpn1474 in فارسی (bpn1474) 
+
+[bahaiprayers.net 1474](https://bahaiprayers.net/Book/Single/5/1474)
+
 
 ----
 
@@ -1386,7 +1758,10 @@ bpn1474
 
 -- Abdu'l-Bahá
 
-bpn1475 
+Prayer bpn1475 in فارسی (bpn1475) 
+
+[bahaiprayers.net 1475](https://bahaiprayers.net/Book/Single/5/1475)
+
 
 ----
 
@@ -1396,7 +1771,10 @@ bpn1475
 
 -- Abdu'l-Bahá
 
-bpn1476 
+Prayer bpn1476 in فارسی (bpn1476) 
+
+[bahaiprayers.net 1476](https://bahaiprayers.net/Book/Single/5/1476)
+
 
 ----
 
@@ -1406,7 +1784,10 @@ bpn1476
 
 -- Abdu'l-Bahá
 
-bpn1477 
+Prayer bpn1477 in فارسی (bpn1477) 
+
+[bahaiprayers.net 1477](https://bahaiprayers.net/Book/Single/5/1477)
+
 
 ----
 
@@ -1416,7 +1797,10 @@ bpn1477
 
 -- Abdu'l-Bahá
 
-bpn1479 
+Prayer bpn1479 in فارسی (bpn1479) 
+
+[bahaiprayers.net 1479](https://bahaiprayers.net/Book/Single/5/1479)
+
 
 ----
 
@@ -1426,7 +1810,10 @@ bpn1479
 
 -- Abdu'l-Bahá
 
-bpn1480 
+Prayer bpn1480 in فارسی (bpn1480) 
+
+[bahaiprayers.net 1480](https://bahaiprayers.net/Book/Single/5/1480)
+
 
 ----
 
@@ -1436,7 +1823,10 @@ bpn1480
 
 -- Abdu'l-Bahá
 
-bpn1481 
+Prayer bpn1481 in فارسی (bpn1481) 
+
+[bahaiprayers.net 1481](https://bahaiprayers.net/Book/Single/5/1481)
+
 
 ----
 
@@ -1446,7 +1836,10 @@ bpn1481
 
 -- Abdu'l-Bahá
 
-bpn1482 
+Prayer bpn1482 in فارسی (bpn1482) 
+
+[bahaiprayers.net 1482](https://bahaiprayers.net/Book/Single/5/1482)
+
 
 ----
 
@@ -1456,7 +1849,10 @@ bpn1482
 
 -- Abdu'l-Bahá
 
-bpn1484 
+Prayer bpn1484 in فارسی (bpn1484) 
+
+[bahaiprayers.net 1484](https://bahaiprayers.net/Book/Single/5/1484)
+
 
 ----
 
@@ -1466,7 +1862,10 @@ bpn1484
 
 -- Abdu'l-Bahá
 
-bpn1485 
+Prayer bpn1485 in فارسی (bpn1485) 
+
+[bahaiprayers.net 1485](https://bahaiprayers.net/Book/Single/5/1485)
+
 
 ----
 
@@ -1476,7 +1875,10 @@ bpn1485
 
 -- Abdu'l-Bahá
 
-bpn1486 
+Prayer bpn1486 in فارسی (bpn1486) 
+
+[bahaiprayers.net 1486](https://bahaiprayers.net/Book/Single/5/1486)
+
 
 ----
 
@@ -1486,7 +1888,10 @@ bpn1486
 
 -- Abdu'l-Bahá
 
-bpn1487 
+Prayer bpn1487 in فارسی (bpn1487) 
+
+[bahaiprayers.net 1487](https://bahaiprayers.net/Book/Single/5/1487)
+
 
 ----
 
@@ -1496,7 +1901,10 @@ bpn1487
 
 -- Abdu'l-Bahá
 
-bpn1488 
+Prayer bpn1488 in فارسی (bpn1488) 
+
+[bahaiprayers.net 1488](https://bahaiprayers.net/Book/Single/5/1488)
+
 
 ----
 
@@ -1506,7 +1914,10 @@ bpn1488
 
 -- Abdu'l-Bahá
 
-bpn1489 
+Prayer bpn1489 in فارسی (bpn1489) 
+
+[bahaiprayers.net 1489](https://bahaiprayers.net/Book/Single/5/1489)
+
 
 ----
 
@@ -1516,7 +1927,10 @@ bpn1489
 
 -- Abdu'l-Bahá
 
-bpn1478 
+Prayer bpn1478 in فارسی (bpn1478) 
+
+[bahaiprayers.net 1478](https://bahaiprayers.net/Book/Single/5/1478)
+
 
 ----
 
@@ -1526,7 +1940,10 @@ bpn1478
 
 -- Abdu'l-Bahá
 
-bpn1483 
+Prayer bpn1483 in فارسی (bpn1483) 
+
+[bahaiprayers.net 1483](https://bahaiprayers.net/Book/Single/5/1483)
+
 
 ----
 
@@ -1540,7 +1957,10 @@ bpn1483
 
 -- Bahá'u'lláh
 
-bpn1377 
+Prayer bpn1377 in فارسی (bpn1377) 
+
+[bahaiprayers.net 1377](https://bahaiprayers.net/Book/Single/5/1377)
+
 
 ----
 
@@ -1550,7 +1970,10 @@ bpn1377
 
 -- Bahá'u'lláh
 
-bpn1378 
+Prayer bpn1378 in فارسی (bpn1378) 
+
+[bahaiprayers.net 1378](https://bahaiprayers.net/Book/Single/5/1378)
+
 
 ----
 
@@ -1560,7 +1983,10 @@ bpn1378
 
 -- Abdu'l-Bahá
 
-bpn1490 
+Prayer bpn1490 in فارسی (bpn1490) 
+
+[bahaiprayers.net 1490](https://bahaiprayers.net/Book/Single/5/1490)
+
 
 ----
 
@@ -1570,7 +1996,10 @@ bpn1490
 
 -- Abdu'l-Bahá
 
-bpn1492 
+Prayer bpn1492 in فارسی (bpn1492) 
+
+[bahaiprayers.net 1492](https://bahaiprayers.net/Book/Single/5/1492)
+
 
 ----
 
@@ -1580,7 +2009,10 @@ bpn1492
 
 -- Abdu'l-Bahá
 
-bpn1493 
+Prayer bpn1493 in فارسی (bpn1493) 
+
+[bahaiprayers.net 1493](https://bahaiprayers.net/Book/Single/5/1493)
+
 
 ----
 
@@ -1590,7 +2022,10 @@ bpn1493
 
 -- Abdu'l-Bahá
 
-bpn1491 
+Prayer bpn1491 in فارسی (bpn1491) 
+
+[bahaiprayers.net 1491](https://bahaiprayers.net/Book/Single/5/1491)
+
 
 ----
 
@@ -1604,7 +2039,10 @@ bpn1491
 
 -- Bahá'u'lláh
 
-bpn1379 
+Prayer bpn1379 in فارسی (bpn1379) 
+
+[bahaiprayers.net 1379](https://bahaiprayers.net/Book/Single/5/1379)
+
 
 ----
 
@@ -1614,7 +2052,10 @@ bpn1379
 
 -- Bahá'u'lláh
 
-bpn1381 
+Prayer bpn1381 in فارسی (bpn1381) 
+
+[bahaiprayers.net 1381](https://bahaiprayers.net/Book/Single/5/1381)
+
 
 ----
 
@@ -1624,7 +2065,10 @@ bpn1381
 
 -- Bahá'u'lláh
 
-bpn1380 
+Prayer bpn1380 in فارسی (bpn1380) 
+
+[bahaiprayers.net 1380](https://bahaiprayers.net/Book/Single/5/1380)
+
 
 ----
 
@@ -1634,7 +2078,10 @@ bpn1380
 
 -- Abdu'l-Bahá
 
-bpn1494 
+Prayer bpn1494 in فارسی (bpn1494) 
+
+[bahaiprayers.net 1494](https://bahaiprayers.net/Book/Single/5/1494)
+
 
 ----
 
@@ -1644,7 +2091,10 @@ bpn1494
 
 -- Abdu'l-Bahá
 
-bpn1495 
+Prayer bpn1495 in فارسی (bpn1495) 
+
+[bahaiprayers.net 1495](https://bahaiprayers.net/Book/Single/5/1495)
+
 
 ----
 
@@ -1654,7 +2104,10 @@ bpn1495
 
 -- Abdu'l-Bahá
 
-bpn1496 
+Prayer bpn1496 in فارسی (bpn1496) 
+
+[bahaiprayers.net 1496](https://bahaiprayers.net/Book/Single/5/1496)
+
 
 ----
 
@@ -1664,7 +2117,10 @@ bpn1496
 
 -- Abdu'l-Bahá
 
-bpn1497 
+Prayer bpn1497 in فارسی (bpn1497) 
+
+[bahaiprayers.net 1497](https://bahaiprayers.net/Book/Single/5/1497)
+
 
 ----
 
@@ -1674,7 +2130,10 @@ bpn1497
 
 -- Abdu'l-Bahá
 
-bpn1499 
+Prayer bpn1499 in فارسی (bpn1499) 
+
+[bahaiprayers.net 1499](https://bahaiprayers.net/Book/Single/5/1499)
+
 
 ----
 
@@ -1684,7 +2143,10 @@ bpn1499
 
 -- Abdu'l-Bahá
 
-bpn1500 
+Prayer bpn1500 in فارسی (bpn1500) 
+
+[bahaiprayers.net 1500](https://bahaiprayers.net/Book/Single/5/1500)
+
 
 ----
 
@@ -1694,7 +2156,10 @@ bpn1500
 
 -- Abdu'l-Bahá
 
-bpn1502 
+Prayer bpn1502 in فارسی (bpn1502) 
+
+[bahaiprayers.net 1502](https://bahaiprayers.net/Book/Single/5/1502)
+
 
 ----
 
@@ -1704,7 +2169,10 @@ bpn1502
 
 -- Abdu'l-Bahá
 
-bpn1504 
+Prayer bpn1504 in فارسی (bpn1504) 
+
+[bahaiprayers.net 1504](https://bahaiprayers.net/Book/Single/5/1504)
+
 
 ----
 
@@ -1714,7 +2182,10 @@ bpn1504
 
 -- Abdu'l-Bahá
 
-bpn1505 
+Prayer bpn1505 in فارسی (bpn1505) 
+
+[bahaiprayers.net 1505](https://bahaiprayers.net/Book/Single/5/1505)
+
 
 ----
 
@@ -1724,7 +2195,10 @@ bpn1505
 
 -- Abdu'l-Bahá
 
-bpn1506 
+Prayer bpn1506 in فارسی (bpn1506) 
+
+[bahaiprayers.net 1506](https://bahaiprayers.net/Book/Single/5/1506)
+
 
 ----
 
@@ -1734,7 +2208,10 @@ bpn1506
 
 -- Abdu'l-Bahá
 
-bpn1507 
+Prayer bpn1507 in فارسی (bpn1507) 
+
+[bahaiprayers.net 1507](https://bahaiprayers.net/Book/Single/5/1507)
+
 
 ----
 
@@ -1744,7 +2221,10 @@ bpn1507
 
 -- Abdu'l-Bahá
 
-bpn1508 
+Prayer bpn1508 in فارسی (bpn1508) 
+
+[bahaiprayers.net 1508](https://bahaiprayers.net/Book/Single/5/1508)
+
 
 ----
 
@@ -1754,7 +2234,10 @@ bpn1508
 
 -- Abdu'l-Bahá
 
-bpn1509 
+Prayer bpn1509 in فارسی (bpn1509) 
+
+[bahaiprayers.net 1509](https://bahaiprayers.net/Book/Single/5/1509)
+
 
 ----
 
@@ -1764,7 +2247,10 @@ bpn1509
 
 -- Abdu'l-Bahá
 
-bpn1510 
+Prayer bpn1510 in فارسی (bpn1510) 
+
+[bahaiprayers.net 1510](https://bahaiprayers.net/Book/Single/5/1510)
+
 
 ----
 
@@ -1774,7 +2260,10 @@ bpn1510
 
 -- Abdu'l-Bahá
 
-bpn1511 
+Prayer bpn1511 in فارسی (bpn1511) 
+
+[bahaiprayers.net 1511](https://bahaiprayers.net/Book/Single/5/1511)
+
 
 ----
 
@@ -1784,7 +2273,10 @@ bpn1511
 
 -- Abdu'l-Bahá
 
-bpn1512 
+Prayer bpn1512 in فارسی (bpn1512) 
+
+[bahaiprayers.net 1512](https://bahaiprayers.net/Book/Single/5/1512)
+
 
 ----
 
@@ -1794,7 +2286,10 @@ bpn1512
 
 -- Abdu'l-Bahá
 
-bpn1514 
+Prayer bpn1514 in فارسی (bpn1514) 
+
+[bahaiprayers.net 1514](https://bahaiprayers.net/Book/Single/5/1514)
+
 
 ----
 
@@ -1804,7 +2299,10 @@ bpn1514
 
 -- Abdu'l-Bahá
 
-bpn1515 
+Prayer bpn1515 in فارسی (bpn1515) 
+
+[bahaiprayers.net 1515](https://bahaiprayers.net/Book/Single/5/1515)
+
 
 ----
 
@@ -1814,7 +2312,10 @@ bpn1515
 
 -- Abdu'l-Bahá
 
-bpn1516 
+Prayer bpn1516 in فارسی (bpn1516) 
+
+[bahaiprayers.net 1516](https://bahaiprayers.net/Book/Single/5/1516)
+
 
 ----
 
@@ -1824,7 +2325,10 @@ bpn1516
 
 -- Abdu'l-Bahá
 
-bpn1517 
+Prayer bpn1517 in فارسی (bpn1517) 
+
+[bahaiprayers.net 1517](https://bahaiprayers.net/Book/Single/5/1517)
+
 
 ----
 
@@ -1834,7 +2338,10 @@ bpn1517
 
 -- Abdu'l-Bahá
 
-bpn1513 
+Prayer bpn1513 in فارسی (bpn1513) 
+
+[bahaiprayers.net 1513](https://bahaiprayers.net/Book/Single/5/1513)
+
 
 ----
 
@@ -1844,7 +2351,10 @@ bpn1513
 
 -- Abdu'l-Bahá
 
-bpn1501 
+Prayer bpn1501 in فارسی (bpn1501) 
+
+[bahaiprayers.net 1501](https://bahaiprayers.net/Book/Single/5/1501)
+
 
 ----
 
@@ -1854,7 +2364,10 @@ bpn1501
 
 -- Abdu'l-Bahá
 
-bpn1503 
+Prayer bpn1503 in فارسی (bpn1503) 
+
+[bahaiprayers.net 1503](https://bahaiprayers.net/Book/Single/5/1503)
+
 
 ----
 
@@ -1864,7 +2377,10 @@ bpn1503
 
 -- Abdu'l-Bahá
 
-bpn1498 
+Prayer bpn1498 in فارسی (bpn1498) 
+
+[bahaiprayers.net 1498](https://bahaiprayers.net/Book/Single/5/1498)
+
 
 ----
 
@@ -1878,7 +2394,10 @@ bpn1498
 
 -- Bahá'u'lláh
 
-bpn1383 
+Prayer bpn1383 in فارسی (bpn1383) 
+
+[bahaiprayers.net 1383](https://bahaiprayers.net/Book/Single/5/1383)
+
 
 ----
 
@@ -1888,7 +2407,10 @@ bpn1383
 
 -- Bahá'u'lláh
 
-bpn1384 
+Prayer bpn1384 in فارسی (bpn1384) 
+
+[bahaiprayers.net 1384](https://bahaiprayers.net/Book/Single/5/1384)
+
 
 ----
 
@@ -1898,7 +2420,10 @@ bpn1384
 
 -- Bahá'u'lláh
 
-bpn1382 
+Prayer bpn1382 in فارسی (bpn1382) 
+
+[bahaiprayers.net 1382](https://bahaiprayers.net/Book/Single/5/1382)
+
 
 ----
 
@@ -1912,7 +2437,10 @@ bpn1382
 
 -- Bahá'u'lláh
 
-bpn6363 
+Prayer bpn6363 in فارسی (bpn6363) 
+
+[bahaiprayers.net 6363](https://bahaiprayers.net/Book/Single/5/6363)
+
 
 ----
 
@@ -1922,7 +2450,10 @@ bpn6363
 
 -- Bahá'u'lláh
 
-bpn6364 
+Prayer bpn6364 in فارسی (bpn6364) 
+
+[bahaiprayers.net 6364](https://bahaiprayers.net/Book/Single/5/6364)
+
 
 ----
 
@@ -1936,7 +2467,10 @@ bpn6364
 
 -- Abdu'l-Bahá
 
-bpn1518 
+Prayer bpn1518 in فارسی (bpn1518) 
+
+[bahaiprayers.net 1518](https://bahaiprayers.net/Book/Single/5/1518)
+
 
 ----
 
@@ -1946,7 +2480,10 @@ bpn1518
 
 -- Abdu'l-Bahá
 
-bpn1520 
+Prayer bpn1520 in فارسی (bpn1520) 
+
+[bahaiprayers.net 1520](https://bahaiprayers.net/Book/Single/5/1520)
+
 
 ----
 
@@ -1956,7 +2493,10 @@ bpn1520
 
 -- Abdu'l-Bahá
 
-bpn1521 
+Prayer bpn1521 in فارسی (bpn1521) 
+
+[bahaiprayers.net 1521](https://bahaiprayers.net/Book/Single/5/1521)
+
 
 ----
 
@@ -1966,7 +2506,10 @@ bpn1521
 
 -- Abdu'l-Bahá
 
-bpn1522 
+Prayer bpn1522 in فارسی (bpn1522) 
+
+[bahaiprayers.net 1522](https://bahaiprayers.net/Book/Single/5/1522)
+
 
 ----
 
@@ -1976,7 +2519,10 @@ bpn1522
 
 -- Abdu'l-Bahá
 
-bpn1523 
+Prayer bpn1523 in فارسی (bpn1523) 
+
+[bahaiprayers.net 1523](https://bahaiprayers.net/Book/Single/5/1523)
+
 
 ----
 
@@ -1986,7 +2532,10 @@ bpn1523
 
 -- Abdu'l-Bahá
 
-bpn1524 
+Prayer bpn1524 in فارسی (bpn1524) 
+
+[bahaiprayers.net 1524](https://bahaiprayers.net/Book/Single/5/1524)
+
 
 ----
 
@@ -1996,7 +2545,10 @@ bpn1524
 
 -- Abdu'l-Bahá
 
-bpn1525 
+Prayer bpn1525 in فارسی (bpn1525) 
+
+[bahaiprayers.net 1525](https://bahaiprayers.net/Book/Single/5/1525)
+
 
 ----
 
@@ -2006,7 +2558,10 @@ bpn1525
 
 -- Abdu'l-Bahá
 
-bpn1526 
+Prayer bpn1526 in فارسی (bpn1526) 
+
+[bahaiprayers.net 1526](https://bahaiprayers.net/Book/Single/5/1526)
+
 
 ----
 
@@ -2016,7 +2571,10 @@ bpn1526
 
 -- Abdu'l-Bahá
 
-bpn1527 
+Prayer bpn1527 in فارسی (bpn1527) 
+
+[bahaiprayers.net 1527](https://bahaiprayers.net/Book/Single/5/1527)
+
 
 ----
 
@@ -2026,7 +2584,10 @@ bpn1527
 
 -- Abdu'l-Bahá
 
-bpn1528 
+Prayer bpn1528 in فارسی (bpn1528) 
+
+[bahaiprayers.net 1528](https://bahaiprayers.net/Book/Single/5/1528)
+
 
 ----
 
@@ -2036,7 +2597,10 @@ bpn1528
 
 -- Abdu'l-Bahá
 
-bpn1529 
+Prayer bpn1529 in فارسی (bpn1529) 
+
+[bahaiprayers.net 1529](https://bahaiprayers.net/Book/Single/5/1529)
+
 
 ----
 
@@ -2046,7 +2610,10 @@ bpn1529
 
 -- Abdu'l-Bahá
 
-bpn1530 
+Prayer bpn1530 in فارسی (bpn1530) 
+
+[bahaiprayers.net 1530](https://bahaiprayers.net/Book/Single/5/1530)
+
 
 ----
 
@@ -2056,7 +2623,10 @@ bpn1530
 
 -- Abdu'l-Bahá
 
-bpn1531 
+Prayer bpn1531 in فارسی (bpn1531) 
+
+[bahaiprayers.net 1531](https://bahaiprayers.net/Book/Single/5/1531)
+
 
 ----
 
@@ -2066,7 +2636,10 @@ bpn1531
 
 -- Abdu'l-Bahá
 
-bpn1532 
+Prayer bpn1532 in فارسی (bpn1532) 
+
+[bahaiprayers.net 1532](https://bahaiprayers.net/Book/Single/5/1532)
+
 
 ----
 
@@ -2076,7 +2649,10 @@ bpn1532
 
 -- Abdu'l-Bahá
 
-bpn1533 
+Prayer bpn1533 in فارسی (bpn1533) 
+
+[bahaiprayers.net 1533](https://bahaiprayers.net/Book/Single/5/1533)
+
 
 ----
 
@@ -2086,7 +2662,10 @@ bpn1533
 
 -- Abdu'l-Bahá
 
-bpn1536 
+Prayer bpn1536 in فارسی (bpn1536) 
+
+[bahaiprayers.net 1536](https://bahaiprayers.net/Book/Single/5/1536)
+
 
 ----
 
@@ -2096,7 +2675,10 @@ bpn1536
 
 -- Abdu'l-Bahá
 
-bpn1537 
+Prayer bpn1537 in فارسی (bpn1537) 
+
+[bahaiprayers.net 1537](https://bahaiprayers.net/Book/Single/5/1537)
+
 
 ----
 
@@ -2106,7 +2688,10 @@ bpn1537
 
 -- Abdu'l-Bahá
 
-bpn1538 
+Prayer bpn1538 in فارسی (bpn1538) 
+
+[bahaiprayers.net 1538](https://bahaiprayers.net/Book/Single/5/1538)
+
 
 ----
 
@@ -2116,7 +2701,10 @@ bpn1538
 
 -- Abdu'l-Bahá
 
-bpn1539 
+Prayer bpn1539 in فارسی (bpn1539) 
+
+[bahaiprayers.net 1539](https://bahaiprayers.net/Book/Single/5/1539)
+
 
 ----
 
@@ -2126,7 +2714,10 @@ bpn1539
 
 -- Abdu'l-Bahá
 
-bpn1540 
+Prayer bpn1540 in فارسی (bpn1540) 
+
+[bahaiprayers.net 1540](https://bahaiprayers.net/Book/Single/5/1540)
+
 
 ----
 
@@ -2136,7 +2727,10 @@ bpn1540
 
 -- Abdu'l-Bahá
 
-bpn1541 
+Prayer bpn1541 in فارسی (bpn1541) 
+
+[bahaiprayers.net 1541](https://bahaiprayers.net/Book/Single/5/1541)
+
 
 ----
 
@@ -2146,7 +2740,10 @@ bpn1541
 
 -- Abdu'l-Bahá
 
-bpn1542 
+Prayer bpn1542 in فارسی (bpn1542) 
+
+[bahaiprayers.net 1542](https://bahaiprayers.net/Book/Single/5/1542)
+
 
 ----
 
@@ -2156,7 +2753,10 @@ bpn1542
 
 -- Abdu'l-Bahá
 
-bpn1543 
+Prayer bpn1543 in فارسی (bpn1543) 
+
+[bahaiprayers.net 1543](https://bahaiprayers.net/Book/Single/5/1543)
+
 
 ----
 
@@ -2166,7 +2766,10 @@ bpn1543
 
 -- Abdu'l-Bahá
 
-bpn1544 
+Prayer bpn1544 in فارسی (bpn1544) 
+
+[bahaiprayers.net 1544](https://bahaiprayers.net/Book/Single/5/1544)
+
 
 ----
 
@@ -2176,7 +2779,10 @@ bpn1544
 
 -- Abdu'l-Bahá
 
-bpn1545 
+Prayer bpn1545 in فارسی (bpn1545) 
+
+[bahaiprayers.net 1545](https://bahaiprayers.net/Book/Single/5/1545)
+
 
 ----
 
@@ -2186,7 +2792,10 @@ bpn1545
 
 -- Abdu'l-Bahá
 
-bpn1546 
+Prayer bpn1546 in فارسی (bpn1546) 
+
+[bahaiprayers.net 1546](https://bahaiprayers.net/Book/Single/5/1546)
+
 
 ----
 
@@ -2196,7 +2805,10 @@ bpn1546
 
 -- Abdu'l-Bahá
 
-bpn1547 
+Prayer bpn1547 in فارسی (bpn1547) 
+
+[bahaiprayers.net 1547](https://bahaiprayers.net/Book/Single/5/1547)
+
 
 ----
 
@@ -2206,7 +2818,10 @@ bpn1547
 
 -- Abdu'l-Bahá
 
-bpn1549 
+Prayer bpn1549 in فارسی (bpn1549) 
+
+[bahaiprayers.net 1549](https://bahaiprayers.net/Book/Single/5/1549)
+
 
 ----
 
@@ -2216,7 +2831,10 @@ bpn1549
 
 -- Abdu'l-Bahá
 
-bpn1550 
+Prayer bpn1550 in فارسی (bpn1550) 
+
+[bahaiprayers.net 1550](https://bahaiprayers.net/Book/Single/5/1550)
+
 
 ----
 
@@ -2226,7 +2844,10 @@ bpn1550
 
 -- Abdu'l-Bahá
 
-bpn1551 
+Prayer bpn1551 in فارسی (bpn1551) 
+
+[bahaiprayers.net 1551](https://bahaiprayers.net/Book/Single/5/1551)
+
 
 ----
 
@@ -2236,7 +2857,10 @@ bpn1551
 
 -- Abdu'l-Bahá
 
-bpn1552 
+Prayer bpn1552 in فارسی (bpn1552) 
+
+[bahaiprayers.net 1552](https://bahaiprayers.net/Book/Single/5/1552)
+
 
 ----
 
@@ -2246,7 +2870,10 @@ bpn1552
 
 -- Abdu'l-Bahá
 
-bpn1553 
+Prayer bpn1553 in فارسی (bpn1553) 
+
+[bahaiprayers.net 1553](https://bahaiprayers.net/Book/Single/5/1553)
+
 
 ----
 
@@ -2256,7 +2883,10 @@ bpn1553
 
 -- Abdu'l-Bahá
 
-bpn1554 
+Prayer bpn1554 in فارسی (bpn1554) 
+
+[bahaiprayers.net 1554](https://bahaiprayers.net/Book/Single/5/1554)
+
 
 ----
 
@@ -2266,7 +2896,10 @@ bpn1554
 
 -- Abdu'l-Bahá
 
-bpn1555 
+Prayer bpn1555 in فارسی (bpn1555) 
+
+[bahaiprayers.net 1555](https://bahaiprayers.net/Book/Single/5/1555)
+
 
 ----
 
@@ -2276,7 +2909,10 @@ bpn1555
 
 -- Abdu'l-Bahá
 
-bpn1548 
+Prayer bpn1548 in فارسی (bpn1548) 
+
+[bahaiprayers.net 1548](https://bahaiprayers.net/Book/Single/5/1548)
+
 
 ----
 
@@ -2286,7 +2922,10 @@ bpn1548
 
 -- Abdu'l-Bahá
 
-bpn1535 
+Prayer bpn1535 in فارسی (bpn1535) 
+
+[bahaiprayers.net 1535](https://bahaiprayers.net/Book/Single/5/1535)
+
 
 ----
 
@@ -2296,7 +2935,10 @@ bpn1535
 
 -- Abdu'l-Bahá
 
-bpn1534 
+Prayer bpn1534 in فارسی (bpn1534) 
+
+[bahaiprayers.net 1534](https://bahaiprayers.net/Book/Single/5/1534)
+
 
 ----
 
@@ -2306,7 +2948,10 @@ bpn1534
 
 -- Abdu'l-Bahá
 
-bpn1519 
+Prayer bpn1519 in فارسی (bpn1519) 
+
+[bahaiprayers.net 1519](https://bahaiprayers.net/Book/Single/5/1519)
+
 
 ----
 
@@ -2320,7 +2965,10 @@ bpn1519
 
 -- Bahá'u'lláh
 
-bpn1573 
+Prayer bpn1573 in فارسی (bpn1573) 
+
+[bahaiprayers.net 1573](https://bahaiprayers.net/Book/Single/5/1573)
+
 
 ----
 
@@ -2330,7 +2978,10 @@ bpn1573
 
 -- Bahá'u'lláh
 
-bpn1571 
+Prayer bpn1571 in فارسی (bpn1571) 
+
+[bahaiprayers.net 1571](https://bahaiprayers.net/Book/Single/5/1571)
+
 
 ----
 
@@ -2340,7 +2991,10 @@ bpn1571
 
 -- Bahá'u'lláh
 
-bpn1572 
+Prayer bpn1572 in فارسی (bpn1572) 
+
+[bahaiprayers.net 1572](https://bahaiprayers.net/Book/Single/5/1572)
+
 
 ----
 
@@ -2350,7 +3004,10 @@ bpn1572
 
 -- Bahá'u'lláh
 
-bpn1574 
+Prayer bpn1574 in فارسی (bpn1574) 
+
+[bahaiprayers.net 1574](https://bahaiprayers.net/Book/Single/5/1574)
+
 
 ----
 
@@ -2360,7 +3017,10 @@ bpn1574
 
 -- Abdu'l-Bahá
 
-bpn1575 
+Prayer bpn1575 in فارسی (bpn1575) 
+
+[bahaiprayers.net 1575](https://bahaiprayers.net/Book/Single/5/1575)
+
 
 ----
 
@@ -2374,7 +3034,10 @@ bpn1575
 
 -- Bahá'u'lláh
 
-bpn1385 
+Prayer bpn1385 in فارسی (bpn1385) 
+
+[bahaiprayers.net 1385](https://bahaiprayers.net/Book/Single/5/1385)
+
 
 ----
 
@@ -2384,7 +3047,10 @@ bpn1385
 
 -- Abdu'l-Bahá
 
-bpn1559 
+Prayer bpn1559 in فارسی (bpn1559) 
+
+[bahaiprayers.net 1559](https://bahaiprayers.net/Book/Single/5/1559)
+
 
 ----
 
@@ -2394,7 +3060,10 @@ bpn1559
 
 -- Abdu'l-Bahá
 
-bpn1561 
+Prayer bpn1561 in فارسی (bpn1561) 
+
+[bahaiprayers.net 1561](https://bahaiprayers.net/Book/Single/5/1561)
+
 
 ----
 
@@ -2404,7 +3073,10 @@ bpn1561
 
 -- Abdu'l-Bahá
 
-bpn1562 
+Prayer bpn1562 in فارسی (bpn1562) 
+
+[bahaiprayers.net 1562](https://bahaiprayers.net/Book/Single/5/1562)
+
 
 ----
 
@@ -2414,7 +3086,10 @@ bpn1562
 
 -- Abdu'l-Bahá
 
-bpn1563 
+Prayer bpn1563 in فارسی (bpn1563) 
+
+[bahaiprayers.net 1563](https://bahaiprayers.net/Book/Single/5/1563)
+
 
 ----
 
@@ -2424,7 +3099,10 @@ bpn1563
 
 -- Abdu'l-Bahá
 
-bpn1565 
+Prayer bpn1565 in فارسی (bpn1565) 
+
+[bahaiprayers.net 1565](https://bahaiprayers.net/Book/Single/5/1565)
+
 
 ----
 
@@ -2434,7 +3112,10 @@ bpn1565
 
 -- Abdu'l-Bahá
 
-bpn1564 
+Prayer bpn1564 in فارسی (bpn1564) 
+
+[bahaiprayers.net 1564](https://bahaiprayers.net/Book/Single/5/1564)
+
 
 ----
 
@@ -2444,7 +3125,10 @@ bpn1564
 
 -- Abdu'l-Bahá
 
-bpn1560 
+Prayer bpn1560 in فارسی (bpn1560) 
+
+[bahaiprayers.net 1560](https://bahaiprayers.net/Book/Single/5/1560)
+
 
 ----
 
@@ -2454,7 +3138,10 @@ bpn1560
 
 -- Abdu'l-Bahá
 
-bpn1558 
+Prayer bpn1558 in فارسی (bpn1558) 
+
+[bahaiprayers.net 1558](https://bahaiprayers.net/Book/Single/5/1558)
+
 
 ----
 
@@ -2464,7 +3151,10 @@ bpn1558
 
 -- Abdu'l-Bahá
 
-bpn1557 
+Prayer bpn1557 in فارسی (bpn1557) 
+
+[bahaiprayers.net 1557](https://bahaiprayers.net/Book/Single/5/1557)
+
 
 ----
 
@@ -2474,7 +3164,10 @@ bpn1557
 
 -- Abdu'l-Bahá
 
-bpn1556 
+Prayer bpn1556 in فارسی (bpn1556) 
+
+[bahaiprayers.net 1556](https://bahaiprayers.net/Book/Single/5/1556)
+
 
 ----
 
@@ -2488,7 +3181,10 @@ bpn1556
 
 -- Bahá'u'lláh
 
-bpn1386 
+Prayer bpn1386 in فارسی (bpn1386) 
+
+[bahaiprayers.net 1386](https://bahaiprayers.net/Book/Single/5/1386)
+
 
 ----
 
@@ -2498,7 +3194,10 @@ bpn1386
 
 -- Bahá'u'lláh
 
-bpn1387 
+Prayer bpn1387 in فارسی (bpn1387) 
+
+[bahaiprayers.net 1387](https://bahaiprayers.net/Book/Single/5/1387)
+
 
 ----
 
@@ -2508,7 +3207,10 @@ bpn1387
 
 -- Abdu'l-Bahá
 
-bpn1566 
+Prayer bpn1566 in فارسی (bpn1566) 
+
+[bahaiprayers.net 1566](https://bahaiprayers.net/Book/Single/5/1566)
+
 
 ----
 
@@ -2518,7 +3220,10 @@ bpn1566
 
 -- Abdu'l-Bahá
 
-bpn1567 
+Prayer bpn1567 in فارسی (bpn1567) 
+
+[bahaiprayers.net 1567](https://bahaiprayers.net/Book/Single/5/1567)
+
 
 ----
 
@@ -2528,7 +3233,10 @@ bpn1567
 
 -- Abdu'l-Bahá
 
-bpn1568 
+Prayer bpn1568 in فارسی (bpn1568) 
+
+[bahaiprayers.net 1568](https://bahaiprayers.net/Book/Single/5/1568)
+
 
 ----
 
@@ -2538,7 +3246,10 @@ bpn1568
 
 -- Abdu'l-Bahá
 
-bpn1569 
+Prayer bpn1569 in فارسی (bpn1569) 
+
+[bahaiprayers.net 1569](https://bahaiprayers.net/Book/Single/5/1569)
+
 
 ----
 
@@ -2548,7 +3259,10 @@ bpn1569
 
 -- Abdu'l-Bahá
 
-bpn6449 
+Prayer bpn6449 in فارسی (bpn6449) 
+
+[bahaiprayers.net 6449](https://bahaiprayers.net/Book/Single/5/6449)
+
 
 ----
 
@@ -2558,7 +3272,10 @@ bpn6449
 
 -- Abdu'l-Bahá
 
-bpn6450 
+Prayer bpn6450 in فارسی (bpn6450) 
+
+[bahaiprayers.net 6450](https://bahaiprayers.net/Book/Single/5/6450)
+
 
 ----
 
@@ -2568,7 +3285,10 @@ bpn6450
 
 -- Abdu'l-Bahá
 
-bpn6451 
+Prayer bpn6451 in فارسی (bpn6451) 
+
+[bahaiprayers.net 6451](https://bahaiprayers.net/Book/Single/5/6451)
+
 
 ----
 
@@ -2578,7 +3298,10 @@ bpn6451
 
 -- Abdu'l-Bahá
 
-bpn6452 
+Prayer bpn6452 in فارسی (bpn6452) 
+
+[bahaiprayers.net 6452](https://bahaiprayers.net/Book/Single/5/6452)
+
 
 ----
 
@@ -2588,7 +3311,10 @@ bpn6452
 
 -- Abdu'l-Bahá
 
-bpn6453 
+Prayer bpn6453 in فارسی (bpn6453) 
+
+[bahaiprayers.net 6453](https://bahaiprayers.net/Book/Single/5/6453)
+
 
 ----
 
@@ -2602,7 +3328,10 @@ bpn6453
 
 -- Bahá'u'lláh
 
-bpn1390 
+Prayer bpn1390 in فارسی (bpn1390) 
+
+[bahaiprayers.net 1390](https://bahaiprayers.net/Book/Single/5/1390)
+
 
 ----
 
@@ -2616,7 +3345,10 @@ bpn1390
 
 -- Bahá'u'lláh
 
-bpn1388 
+Prayer bpn1388 in فارسی (bpn1388) 
+
+[bahaiprayers.net 1388](https://bahaiprayers.net/Book/Single/5/1388)
+
 
 ----
 
@@ -2630,7 +3362,10 @@ bpn1388
 
 -- Bahá'u'lláh
 
-bpn1389 
+Prayer bpn1389 in فارسی (bpn1389) 
+
+[bahaiprayers.net 1389](https://bahaiprayers.net/Book/Single/5/1389)
+
 
 ----
 
@@ -2644,7 +3379,10 @@ bpn1389
 
 -- Abdu'l-Bahá
 
-bpn1570 
+Prayer bpn1570 in فارسی (bpn1570) 
+
+[bahaiprayers.net 1570](https://bahaiprayers.net/Book/Single/5/1570)
+
 
 ----
 
@@ -2654,7 +3392,10 @@ bpn1570
 
 -- Abdu'l-Bahá
 
-bpn9958 
+Prayer bpn9958 in فارسی (bpn9958) 
+
+[bahaiprayers.net 9958](https://bahaiprayers.net/Book/Single/5/9958)
+
 
 ----
 
@@ -2668,7 +3409,10 @@ bpn9958
 
 -- Abdu'l-Bahá
 
-bpn6474 
+Prayer bpn6474 in فارسی (bpn6474) 
+
+[bahaiprayers.net 6474](https://bahaiprayers.net/Book/Single/5/6474)
+
 
 ----
 

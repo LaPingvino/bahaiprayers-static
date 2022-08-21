@@ -102,7 +102,10 @@ tags = ['lang=iba', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn12611 
+Prayer bpn12611 in Iban (bpn12611) 
+
+[bahaiprayers.net 12611](https://bahaiprayers.net/Book/Single/91/12611)
+
 
 ----
 
@@ -112,7 +115,10 @@ bpn12611
 
 -- Abdu'l-Bahá
 
-bpn12612 
+Prayer bpn12612 in Iban (bpn12612) 
+
+[bahaiprayers.net 12612](https://bahaiprayers.net/Book/Single/91/12612)
+
 
 ----
 
@@ -122,7 +128,10 @@ bpn12612
 
 -- Abdu'l-Bahá
 
-bpn12613 
+Prayer bpn12613 in Iban (bpn12613) 
+
+[bahaiprayers.net 12613](https://bahaiprayers.net/Book/Single/91/12613)
+
 
 ----
 
@@ -132,7 +141,10 @@ bpn12613
 
 -- Abdu'l-Bahá
 
-bpn12614 
+Prayer bpn12614 in Iban (bpn12614) 
+
+[bahaiprayers.net 12614](https://bahaiprayers.net/Book/Single/91/12614)
+
 
 ----
 
@@ -142,7 +154,10 @@ bpn12614
 
 -- Abdu'l-Bahá
 
-bpn12615 
+Prayer bpn12615 in Iban (bpn12615) 
+
+[bahaiprayers.net 12615](https://bahaiprayers.net/Book/Single/91/12615)
+
 
 ----
 
@@ -152,7 +167,10 @@ bpn12615
 
 -- Abdu'l-Bahá
 
-bpn12616 
+Prayer bpn12616 in Iban (bpn12616) 
+
+[bahaiprayers.net 12616](https://bahaiprayers.net/Book/Single/91/12616)
+
 
 ----
 
@@ -162,7 +180,10 @@ bpn12616
 
 -- Abdu'l-Bahá
 
-bpn12617 
+Prayer bpn12617 in Iban (bpn12617) 
+
+[bahaiprayers.net 12617](https://bahaiprayers.net/Book/Single/91/12617)
+
 
 ----
 
@@ -172,7 +193,10 @@ bpn12617
 
 -- Abdu'l-Bahá
 
-bpn12618 
+Prayer bpn12618 in Iban (bpn12618) 
+
+[bahaiprayers.net 12618](https://bahaiprayers.net/Book/Single/91/12618)
+
 
 ----
 
@@ -186,7 +210,10 @@ bpn12618
 
 -- Abdu'l-Bahá
 
-bpn12619 
+Prayer bpn12619 in Iban (bpn12619) 
+
+[bahaiprayers.net 12619](https://bahaiprayers.net/Book/Single/91/12619)
+
 
 ----
 
@@ -196,7 +223,10 @@ bpn12619
 
 -- Abdu'l-Bahá
 
-bpn12620 
+Prayer bpn12620 in Iban (bpn12620) 
+
+[bahaiprayers.net 12620](https://bahaiprayers.net/Book/Single/91/12620)
+
 
 ----
 
@@ -206,7 +236,10 @@ bpn12620
 
 -- Abdu'l-Bahá
 
-bpn12621 
+Prayer bpn12621 in Iban (bpn12621) 
+
+[bahaiprayers.net 12621](https://bahaiprayers.net/Book/Single/91/12621)
+
 
 ----
 
@@ -216,7 +249,10 @@ bpn12621
 
 -- Abdu'l-Bahá
 
-bpn12622 
+Prayer bpn12622 in Iban (bpn12622) 
+
+[bahaiprayers.net 12622](https://bahaiprayers.net/Book/Single/91/12622)
+
 
 ----
 
@@ -226,7 +262,10 @@ bpn12622
 
 -- Abdu'l-Bahá
 
-bpn12623 
+Prayer bpn12623 in Iban (bpn12623) 
+
+[bahaiprayers.net 12623](https://bahaiprayers.net/Book/Single/91/12623)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn12623
 
 -- Bahá'u'lláh
 
-bpn12725 
+Prayer bpn12725 in Iban (bpn12725) 
+
+[bahaiprayers.net 12725](https://bahaiprayers.net/Book/Single/91/12725)
+
 
 ----
 
@@ -254,7 +296,10 @@ bpn12725
 
 -- Bahá'u'lláh
 
-bpn12626 
+Prayer bpn12626 in Iban (bpn12626) 
+
+[bahaiprayers.net 12626](https://bahaiprayers.net/Book/Single/91/12626)
+
 
 ----
 
@@ -264,7 +309,10 @@ bpn12626
 
 -- Báb
 
-bpn12624 
+Prayer bpn12624 in Iban (bpn12624) 
+
+[bahaiprayers.net 12624](https://bahaiprayers.net/Book/Single/91/12624)
+
 
 ----
 
@@ -274,7 +322,10 @@ bpn12624
 
 -- Báb
 
-bpn12625 
+Prayer bpn12625 in Iban (bpn12625) 
+
+[bahaiprayers.net 12625](https://bahaiprayers.net/Book/Single/91/12625)
+
 
 ----
 
@@ -284,7 +335,10 @@ bpn12625
 
 -- Abdu'l-Bahá
 
-bpn12627 
+Prayer bpn12627 in Iban (bpn12627) 
+
+[bahaiprayers.net 12627](https://bahaiprayers.net/Book/Single/91/12627)
+
 
 ----
 
@@ -294,7 +348,10 @@ bpn12627
 
 -- Abdu'l-Bahá
 
-bpn12628 
+Prayer bpn12628 in Iban (bpn12628) 
+
+[bahaiprayers.net 12628](https://bahaiprayers.net/Book/Single/91/12628)
+
 
 ----
 
@@ -304,7 +361,10 @@ bpn12628
 
 -- Abdu'l-Bahá
 
-bpn12629 
+Prayer bpn12629 in Iban (bpn12629) 
+
+[bahaiprayers.net 12629](https://bahaiprayers.net/Book/Single/91/12629)
+
 
 ----
 
@@ -318,7 +378,10 @@ bpn12629
 
 -- Bahá'u'lláh
 
-bpn12630 
+Prayer bpn12630 in Iban (bpn12630) 
+
+[bahaiprayers.net 12630](https://bahaiprayers.net/Book/Single/91/12630)
+
 
 ----
 
@@ -328,7 +391,10 @@ bpn12630
 
 -- Abdu'l-Bahá
 
-bpn12631 
+Prayer bpn12631 in Iban (bpn12631) 
+
+[bahaiprayers.net 12631](https://bahaiprayers.net/Book/Single/91/12631)
+
 
 ----
 
@@ -338,7 +404,10 @@ bpn12631
 
 -- Abdu'l-Bahá
 
-bpn12632 
+Prayer bpn12632 in Iban (bpn12632) 
+
+[bahaiprayers.net 12632](https://bahaiprayers.net/Book/Single/91/12632)
+
 
 ----
 
@@ -348,7 +417,10 @@ bpn12632
 
 -- Abdu'l-Bahá
 
-bpn12633 
+Prayer bpn12633 in Iban (bpn12633) 
+
+[bahaiprayers.net 12633](https://bahaiprayers.net/Book/Single/91/12633)
+
 
 ----
 
@@ -358,7 +430,10 @@ bpn12633
 
 -- Abdu'l-Bahá
 
-bpn12634 
+Prayer bpn12634 in Iban (bpn12634) 
+
+[bahaiprayers.net 12634](https://bahaiprayers.net/Book/Single/91/12634)
+
 
 ----
 
@@ -372,7 +447,10 @@ bpn12634
 
 -- Abdu'l-Bahá
 
-bpn12635 
+Prayer bpn12635 in Iban (bpn12635) 
+
+[bahaiprayers.net 12635](https://bahaiprayers.net/Book/Single/91/12635)
+
 
 ----
 
@@ -382,7 +460,10 @@ bpn12635
 
 -- Abdu'l-Bahá
 
-bpn12636 
+Prayer bpn12636 in Iban (bpn12636) 
+
+[bahaiprayers.net 12636](https://bahaiprayers.net/Book/Single/91/12636)
+
 
 ----
 
@@ -396,7 +477,10 @@ bpn12636
 
 -- Bahá'u'lláh
 
-bpn12637 
+Prayer bpn12637 in Iban (bpn12637) 
+
+[bahaiprayers.net 12637](https://bahaiprayers.net/Book/Single/91/12637)
+
 
 ----
 
@@ -410,7 +494,10 @@ bpn12637
 
 -- Abdu'l-Bahá
 
-bpn12747 
+Prayer bpn12747 in Iban (bpn12747) 
+
+[bahaiprayers.net 12747](https://bahaiprayers.net/Book/Single/91/12747)
+
 
 ----
 
@@ -420,7 +507,10 @@ bpn12747
 
 -- Abdu'l-Bahá
 
-bpn12748 
+Prayer bpn12748 in Iban (bpn12748) 
+
+[bahaiprayers.net 12748](https://bahaiprayers.net/Book/Single/91/12748)
+
 
 ----
 
@@ -434,7 +524,10 @@ bpn12748
 
 -- Bahá'u'lláh
 
-bpn12744 
+Prayer bpn12744 in Iban (bpn12744) 
+
+[bahaiprayers.net 12744](https://bahaiprayers.net/Book/Single/91/12744)
+
 
 ----
 
@@ -444,7 +537,10 @@ bpn12744
 
 -- Bahá'u'lláh
 
-bpn12745 
+Prayer bpn12745 in Iban (bpn12745) 
+
+[bahaiprayers.net 12745](https://bahaiprayers.net/Book/Single/91/12745)
+
 
 ----
 
@@ -454,7 +550,10 @@ bpn12745
 
 -- Bahá'u'lláh
 
-bpn12746 
+Prayer bpn12746 in Iban (bpn12746) 
+
+[bahaiprayers.net 12746](https://bahaiprayers.net/Book/Single/91/12746)
+
 
 ----
 
@@ -468,7 +567,10 @@ bpn12746
 
 -- Bahá'u'lláh
 
-bpn12742 
+Prayer bpn12742 in Iban (bpn12742) 
+
+[bahaiprayers.net 12742](https://bahaiprayers.net/Book/Single/91/12742)
+
 
 ----
 
@@ -478,7 +580,10 @@ bpn12742
 
 -- Bahá'u'lláh
 
-bpn12743 
+Prayer bpn12743 in Iban (bpn12743) 
+
+[bahaiprayers.net 12743](https://bahaiprayers.net/Book/Single/91/12743)
+
 
 ----
 
@@ -492,7 +597,10 @@ bpn12743
 
 -- Bahá'u'lláh
 
-bpn12723 
+Prayer bpn12723 in Iban (bpn12723) 
+
+[bahaiprayers.net 12723](https://bahaiprayers.net/Book/Single/91/12723)
+
 
 ----
 
@@ -502,7 +610,10 @@ bpn12723
 
 -- Bahá'u'lláh
 
-bpn12724 
+Prayer bpn12724 in Iban (bpn12724) 
+
+[bahaiprayers.net 12724](https://bahaiprayers.net/Book/Single/91/12724)
+
 
 ----
 
@@ -516,7 +627,10 @@ bpn12724
 
 -- Bahá'u'lláh
 
-bpn12638 
+Prayer bpn12638 in Iban (bpn12638) 
+
+[bahaiprayers.net 12638](https://bahaiprayers.net/Book/Single/91/12638)
+
 
 ----
 
@@ -526,7 +640,10 @@ bpn12638
 
 -- Bahá'u'lláh
 
-bpn12639 
+Prayer bpn12639 in Iban (bpn12639) 
+
+[bahaiprayers.net 12639](https://bahaiprayers.net/Book/Single/91/12639)
+
 
 ----
 
@@ -536,7 +653,10 @@ bpn12639
 
 -- Abdu'l-Bahá
 
-bpn12640 
+Prayer bpn12640 in Iban (bpn12640) 
+
+[bahaiprayers.net 12640](https://bahaiprayers.net/Book/Single/91/12640)
+
 
 ----
 
@@ -550,7 +670,10 @@ bpn12640
 
 -- Bahá'u'lláh
 
-bpn12641 
+Prayer bpn12641 in Iban (bpn12641) 
+
+[bahaiprayers.net 12641](https://bahaiprayers.net/Book/Single/91/12641)
+
 
 ----
 
@@ -560,7 +683,10 @@ bpn12641
 
 -- Abdu'l-Bahá
 
-bpn12642 
+Prayer bpn12642 in Iban (bpn12642) 
+
+[bahaiprayers.net 12642](https://bahaiprayers.net/Book/Single/91/12642)
+
 
 ----
 
@@ -570,7 +696,10 @@ bpn12642
 
 -- Abdu'l-Bahá
 
-bpn12643 
+Prayer bpn12643 in Iban (bpn12643) 
+
+[bahaiprayers.net 12643](https://bahaiprayers.net/Book/Single/91/12643)
+
 
 ----
 
@@ -580,7 +709,10 @@ bpn12643
 
 -- Abdu'l-Bahá
 
-bpn12644 
+Prayer bpn12644 in Iban (bpn12644) 
+
+[bahaiprayers.net 12644](https://bahaiprayers.net/Book/Single/91/12644)
+
 
 ----
 
@@ -594,7 +726,10 @@ bpn12644
 
 -- Bahá'u'lláh
 
-bpn12733 
+Prayer bpn12733 in Iban (bpn12733) 
+
+[bahaiprayers.net 12733](https://bahaiprayers.net/Book/Single/91/12733)
+
 
 ----
 
@@ -608,7 +743,10 @@ bpn12733
 
 -- Bahá'u'lláh
 
-bpn12645 
+Prayer bpn12645 in Iban (bpn12645) 
+
+[bahaiprayers.net 12645](https://bahaiprayers.net/Book/Single/91/12645)
+
 
 ----
 
@@ -618,7 +756,10 @@ bpn12645
 
 -- Bahá'u'lláh
 
-bpn12646 
+Prayer bpn12646 in Iban (bpn12646) 
+
+[bahaiprayers.net 12646](https://bahaiprayers.net/Book/Single/91/12646)
+
 
 ----
 
@@ -628,7 +769,10 @@ bpn12646
 
 -- Abdu'l-Bahá
 
-bpn12647 
+Prayer bpn12647 in Iban (bpn12647) 
+
+[bahaiprayers.net 12647](https://bahaiprayers.net/Book/Single/91/12647)
+
 
 ----
 
@@ -638,7 +782,10 @@ bpn12647
 
 -- Abdu'l-Bahá
 
-bpn12648 
+Prayer bpn12648 in Iban (bpn12648) 
+
+[bahaiprayers.net 12648](https://bahaiprayers.net/Book/Single/91/12648)
+
 
 ----
 
@@ -648,7 +795,10 @@ bpn12648
 
 -- Abdu'l-Bahá
 
-bpn12649 
+Prayer bpn12649 in Iban (bpn12649) 
+
+[bahaiprayers.net 12649](https://bahaiprayers.net/Book/Single/91/12649)
+
 
 ----
 
@@ -658,7 +808,10 @@ bpn12649
 
 -- Abdu'l-Bahá
 
-bpn12650 
+Prayer bpn12650 in Iban (bpn12650) 
+
+[bahaiprayers.net 12650](https://bahaiprayers.net/Book/Single/91/12650)
+
 
 ----
 
@@ -668,7 +821,10 @@ bpn12650
 
 -- Abdu'l-Bahá
 
-bpn12651 
+Prayer bpn12651 in Iban (bpn12651) 
+
+[bahaiprayers.net 12651](https://bahaiprayers.net/Book/Single/91/12651)
+
 
 ----
 
@@ -678,7 +834,10 @@ bpn12651
 
 -- Abdu'l-Bahá
 
-bpn12652 
+Prayer bpn12652 in Iban (bpn12652) 
+
+[bahaiprayers.net 12652](https://bahaiprayers.net/Book/Single/91/12652)
+
 
 ----
 
@@ -688,7 +847,10 @@ bpn12652
 
 -- Abdu'l-Bahá
 
-bpn12653 
+Prayer bpn12653 in Iban (bpn12653) 
+
+[bahaiprayers.net 12653](https://bahaiprayers.net/Book/Single/91/12653)
+
 
 ----
 
@@ -698,7 +860,10 @@ bpn12653
 
 -- Abdu'l-Bahá
 
-bpn12654 
+Prayer bpn12654 in Iban (bpn12654) 
+
+[bahaiprayers.net 12654](https://bahaiprayers.net/Book/Single/91/12654)
+
 
 ----
 
@@ -708,7 +873,10 @@ bpn12654
 
 -- Abdu'l-Bahá
 
-bpn12655 
+Prayer bpn12655 in Iban (bpn12655) 
+
+[bahaiprayers.net 12655](https://bahaiprayers.net/Book/Single/91/12655)
+
 
 ----
 
@@ -718,7 +886,10 @@ bpn12655
 
 -- Abdu'l-Bahá
 
-bpn12656 
+Prayer bpn12656 in Iban (bpn12656) 
+
+[bahaiprayers.net 12656](https://bahaiprayers.net/Book/Single/91/12656)
+
 
 ----
 
@@ -728,7 +899,10 @@ bpn12656
 
 -- Abdu'l-Bahá
 
-bpn12657 
+Prayer bpn12657 in Iban (bpn12657) 
+
+[bahaiprayers.net 12657](https://bahaiprayers.net/Book/Single/91/12657)
+
 
 ----
 
@@ -738,7 +912,10 @@ bpn12657
 
 -- Abdu'l-Bahá
 
-bpn12658 
+Prayer bpn12658 in Iban (bpn12658) 
+
+[bahaiprayers.net 12658](https://bahaiprayers.net/Book/Single/91/12658)
+
 
 ----
 
@@ -752,7 +929,10 @@ bpn12658
 
 -- Bahá'u'lláh
 
-bpn12659 
+Prayer bpn12659 in Iban (bpn12659) 
+
+[bahaiprayers.net 12659](https://bahaiprayers.net/Book/Single/91/12659)
+
 
 ----
 
@@ -762,7 +942,10 @@ bpn12659
 
 -- Bahá'u'lláh
 
-bpn12660 
+Prayer bpn12660 in Iban (bpn12660) 
+
+[bahaiprayers.net 12660](https://bahaiprayers.net/Book/Single/91/12660)
+
 
 ----
 
@@ -772,7 +955,10 @@ bpn12660
 
 -- Báb
 
-bpn12661 
+Prayer bpn12661 in Iban (bpn12661) 
+
+[bahaiprayers.net 12661](https://bahaiprayers.net/Book/Single/91/12661)
+
 
 ----
 
@@ -782,7 +968,10 @@ bpn12661
 
 -- Báb
 
-bpn12662 
+Prayer bpn12662 in Iban (bpn12662) 
+
+[bahaiprayers.net 12662](https://bahaiprayers.net/Book/Single/91/12662)
+
 
 ----
 
@@ -792,7 +981,10 @@ bpn12662
 
 -- Báb
 
-bpn12663 
+Prayer bpn12663 in Iban (bpn12663) 
+
+[bahaiprayers.net 12663](https://bahaiprayers.net/Book/Single/91/12663)
+
 
 ----
 
@@ -802,7 +994,10 @@ bpn12663
 
 -- Abdu'l-Bahá
 
-bpn12664 
+Prayer bpn12664 in Iban (bpn12664) 
+
+[bahaiprayers.net 12664](https://bahaiprayers.net/Book/Single/91/12664)
+
 
 ----
 
@@ -816,7 +1011,10 @@ bpn12664
 
 -- Bahá'u'lláh
 
-bpn12665 
+Prayer bpn12665 in Iban (bpn12665) 
+
+[bahaiprayers.net 12665](https://bahaiprayers.net/Book/Single/91/12665)
+
 
 ----
 
@@ -826,7 +1024,10 @@ bpn12665
 
 -- Bahá'u'lláh
 
-bpn12666 
+Prayer bpn12666 in Iban (bpn12666) 
+
+[bahaiprayers.net 12666](https://bahaiprayers.net/Book/Single/91/12666)
+
 
 ----
 
@@ -836,7 +1037,10 @@ bpn12666
 
 -- Bahá'u'lláh
 
-bpn12667 
+Prayer bpn12667 in Iban (bpn12667) 
+
+[bahaiprayers.net 12667](https://bahaiprayers.net/Book/Single/91/12667)
+
 
 ----
 
@@ -850,7 +1054,10 @@ bpn12667
 
 -- Bahá'u'lláh
 
-bpn12737 
+Prayer bpn12737 in Iban (bpn12737) 
+
+[bahaiprayers.net 12737](https://bahaiprayers.net/Book/Single/91/12737)
+
 
 ----
 
@@ -864,7 +1071,10 @@ bpn12737
 
 -- Bahá'u'lláh
 
-bpn12668 
+Prayer bpn12668 in Iban (bpn12668) 
+
+[bahaiprayers.net 12668](https://bahaiprayers.net/Book/Single/91/12668)
+
 
 ----
 
@@ -874,7 +1084,10 @@ bpn12668
 
 -- Bahá'u'lláh
 
-bpn12669 
+Prayer bpn12669 in Iban (bpn12669) 
+
+[bahaiprayers.net 12669](https://bahaiprayers.net/Book/Single/91/12669)
+
 
 ----
 
@@ -884,7 +1097,10 @@ bpn12669
 
 -- Bahá'u'lláh
 
-bpn12670 
+Prayer bpn12670 in Iban (bpn12670) 
+
+[bahaiprayers.net 12670](https://bahaiprayers.net/Book/Single/91/12670)
+
 
 ----
 
@@ -894,7 +1110,10 @@ bpn12670
 
 -- Abdu'l-Bahá
 
-bpn12671 
+Prayer bpn12671 in Iban (bpn12671) 
+
+[bahaiprayers.net 12671](https://bahaiprayers.net/Book/Single/91/12671)
+
 
 ----
 
@@ -904,7 +1123,10 @@ bpn12671
 
 -- Abdu'l-Bahá
 
-bpn12672 
+Prayer bpn12672 in Iban (bpn12672) 
+
+[bahaiprayers.net 12672](https://bahaiprayers.net/Book/Single/91/12672)
+
 
 ----
 
@@ -914,7 +1136,10 @@ bpn12672
 
 -- Abdu'l-Bahá
 
-bpn12673 
+Prayer bpn12673 in Iban (bpn12673) 
+
+[bahaiprayers.net 12673](https://bahaiprayers.net/Book/Single/91/12673)
+
 
 ----
 
@@ -928,7 +1153,10 @@ bpn12673
 
 -- Bahá'u'lláh
 
-bpn12680 
+Prayer bpn12680 in Iban (bpn12680) 
+
+[bahaiprayers.net 12680](https://bahaiprayers.net/Book/Single/91/12680)
+
 
 ----
 
@@ -938,7 +1166,10 @@ bpn12680
 
 -- Bahá'u'lláh
 
-bpn12681 
+Prayer bpn12681 in Iban (bpn12681) 
+
+[bahaiprayers.net 12681](https://bahaiprayers.net/Book/Single/91/12681)
+
 
 ----
 
@@ -948,7 +1179,10 @@ bpn12681
 
 -- Báb
 
-bpn12682 
+Prayer bpn12682 in Iban (bpn12682) 
+
+[bahaiprayers.net 12682](https://bahaiprayers.net/Book/Single/91/12682)
+
 
 ----
 
@@ -958,7 +1192,10 @@ bpn12682
 
 -- Abdu'l-Bahá
 
-bpn12683 
+Prayer bpn12683 in Iban (bpn12683) 
+
+[bahaiprayers.net 12683](https://bahaiprayers.net/Book/Single/91/12683)
+
 
 ----
 
@@ -972,7 +1209,10 @@ bpn12683
 
 -- Bahá'u'lláh
 
-bpn12684 
+Prayer bpn12684 in Iban (bpn12684) 
+
+[bahaiprayers.net 12684](https://bahaiprayers.net/Book/Single/91/12684)
+
 
 ----
 
@@ -982,7 +1222,10 @@ bpn12684
 
 -- Báb
 
-bpn12685 
+Prayer bpn12685 in Iban (bpn12685) 
+
+[bahaiprayers.net 12685](https://bahaiprayers.net/Book/Single/91/12685)
+
 
 ----
 
@@ -992,7 +1235,10 @@ bpn12685
 
 -- Abdu'l-Bahá
 
-bpn12686 
+Prayer bpn12686 in Iban (bpn12686) 
+
+[bahaiprayers.net 12686](https://bahaiprayers.net/Book/Single/91/12686)
+
 
 ----
 
@@ -1006,7 +1252,10 @@ bpn12686
 
 -- Bahá'u'lláh
 
-bpn12687 
+Prayer bpn12687 in Iban (bpn12687) 
+
+[bahaiprayers.net 12687](https://bahaiprayers.net/Book/Single/91/12687)
+
 
 ----
 
@@ -1016,7 +1265,10 @@ bpn12687
 
 -- Báb
 
-bpn12688 
+Prayer bpn12688 in Iban (bpn12688) 
+
+[bahaiprayers.net 12688](https://bahaiprayers.net/Book/Single/91/12688)
+
 
 ----
 
@@ -1026,7 +1278,10 @@ bpn12688
 
 -- Báb
 
-bpn12689 
+Prayer bpn12689 in Iban (bpn12689) 
+
+[bahaiprayers.net 12689](https://bahaiprayers.net/Book/Single/91/12689)
+
 
 ----
 
@@ -1036,7 +1291,10 @@ bpn12689
 
 -- Abdu'l-Bahá
 
-bpn12690 
+Prayer bpn12690 in Iban (bpn12690) 
+
+[bahaiprayers.net 12690](https://bahaiprayers.net/Book/Single/91/12690)
+
 
 ----
 
@@ -1050,7 +1308,10 @@ bpn12690
 
 -- Bahá'u'lláh
 
-bpn12691 
+Prayer bpn12691 in Iban (bpn12691) 
+
+[bahaiprayers.net 12691](https://bahaiprayers.net/Book/Single/91/12691)
+
 
 ----
 
@@ -1060,7 +1321,10 @@ bpn12691
 
 -- Bahá'u'lláh
 
-bpn12692 
+Prayer bpn12692 in Iban (bpn12692) 
+
+[bahaiprayers.net 12692](https://bahaiprayers.net/Book/Single/91/12692)
+
 
 ----
 
@@ -1070,7 +1334,10 @@ bpn12692
 
 -- Bahá'u'lláh
 
-bpn12693 
+Prayer bpn12693 in Iban (bpn12693) 
+
+[bahaiprayers.net 12693](https://bahaiprayers.net/Book/Single/91/12693)
+
 
 ----
 
@@ -1080,7 +1347,10 @@ bpn12693
 
 -- Bahá'u'lláh
 
-bpn12694 
+Prayer bpn12694 in Iban (bpn12694) 
+
+[bahaiprayers.net 12694](https://bahaiprayers.net/Book/Single/91/12694)
+
 
 ----
 
@@ -1094,7 +1364,10 @@ bpn12694
 
 -- Bahá'u'lláh
 
-bpn12695 
+Prayer bpn12695 in Iban (bpn12695) 
+
+[bahaiprayers.net 12695](https://bahaiprayers.net/Book/Single/91/12695)
+
 
 ----
 
@@ -1104,7 +1377,10 @@ bpn12695
 
 -- Bahá'u'lláh
 
-bpn12696 
+Prayer bpn12696 in Iban (bpn12696) 
+
+[bahaiprayers.net 12696](https://bahaiprayers.net/Book/Single/91/12696)
+
 
 ----
 
@@ -1114,7 +1390,10 @@ bpn12696
 
 -- Bahá'u'lláh
 
-bpn12697 
+Prayer bpn12697 in Iban (bpn12697) 
+
+[bahaiprayers.net 12697](https://bahaiprayers.net/Book/Single/91/12697)
+
 
 ----
 
@@ -1124,7 +1403,10 @@ bpn12697
 
 -- Báb
 
-bpn12698 
+Prayer bpn12698 in Iban (bpn12698) 
+
+[bahaiprayers.net 12698](https://bahaiprayers.net/Book/Single/91/12698)
+
 
 ----
 
@@ -1134,7 +1416,10 @@ bpn12698
 
 -- Báb
 
-bpn12699 
+Prayer bpn12699 in Iban (bpn12699) 
+
+[bahaiprayers.net 12699](https://bahaiprayers.net/Book/Single/91/12699)
+
 
 ----
 
@@ -1148,7 +1433,10 @@ bpn12699
 
 -- Bahá'u'lláh
 
-bpn12700 
+Prayer bpn12700 in Iban (bpn12700) 
+
+[bahaiprayers.net 12700](https://bahaiprayers.net/Book/Single/91/12700)
+
 
 ----
 
@@ -1158,7 +1446,10 @@ bpn12700
 
 -- Bahá'u'lláh
 
-bpn12701 
+Prayer bpn12701 in Iban (bpn12701) 
+
+[bahaiprayers.net 12701](https://bahaiprayers.net/Book/Single/91/12701)
+
 
 ----
 
@@ -1168,7 +1459,10 @@ bpn12701
 
 -- Bahá'u'lláh
 
-bpn12702 
+Prayer bpn12702 in Iban (bpn12702) 
+
+[bahaiprayers.net 12702](https://bahaiprayers.net/Book/Single/91/12702)
+
 
 ----
 
@@ -1178,7 +1472,10 @@ bpn12702
 
 -- Báb
 
-bpn12703 
+Prayer bpn12703 in Iban (bpn12703) 
+
+[bahaiprayers.net 12703](https://bahaiprayers.net/Book/Single/91/12703)
+
 
 ----
 
@@ -1188,7 +1485,10 @@ bpn12703
 
 -- Abdu'l-Bahá
 
-bpn12704 
+Prayer bpn12704 in Iban (bpn12704) 
+
+[bahaiprayers.net 12704](https://bahaiprayers.net/Book/Single/91/12704)
+
 
 ----
 
@@ -1198,7 +1498,10 @@ bpn12704
 
 -- Abdu'l-Bahá
 
-bpn12705 
+Prayer bpn12705 in Iban (bpn12705) 
+
+[bahaiprayers.net 12705](https://bahaiprayers.net/Book/Single/91/12705)
+
 
 ----
 
@@ -1212,7 +1515,10 @@ bpn12705
 
 -- Bahá'u'lláh
 
-bpn12706 
+Prayer bpn12706 in Iban (bpn12706) 
+
+[bahaiprayers.net 12706](https://bahaiprayers.net/Book/Single/91/12706)
+
 
 ----
 
@@ -1226,7 +1532,10 @@ bpn12706
 
 -- Bahá'u'lláh
 
-bpn12707 
+Prayer bpn12707 in Iban (bpn12707) 
+
+[bahaiprayers.net 12707](https://bahaiprayers.net/Book/Single/91/12707)
+
 
 ----
 
@@ -1236,7 +1545,10 @@ bpn12707
 
 -- Báb
 
-bpn12708 
+Prayer bpn12708 in Iban (bpn12708) 
+
+[bahaiprayers.net 12708](https://bahaiprayers.net/Book/Single/91/12708)
+
 
 ----
 
@@ -1246,7 +1558,10 @@ bpn12708
 
 -- Báb
 
-bpn12709 
+Prayer bpn12709 in Iban (bpn12709) 
+
+[bahaiprayers.net 12709](https://bahaiprayers.net/Book/Single/91/12709)
+
 
 ----
 
@@ -1256,7 +1571,10 @@ bpn12709
 
 -- Abdu'l-Bahá
 
-bpn12710 
+Prayer bpn12710 in Iban (bpn12710) 
+
+[bahaiprayers.net 12710](https://bahaiprayers.net/Book/Single/91/12710)
+
 
 ----
 
@@ -1270,7 +1588,10 @@ bpn12710
 
 -- Bahá'u'lláh
 
-bpn12726 
+Prayer bpn12726 in Iban (bpn12726) 
+
+[bahaiprayers.net 12726](https://bahaiprayers.net/Book/Single/91/12726)
+
 
 ----
 
@@ -1280,7 +1601,10 @@ bpn12726
 
 -- Bahá'u'lláh
 
-bpn12727 
+Prayer bpn12727 in Iban (bpn12727) 
+
+[bahaiprayers.net 12727](https://bahaiprayers.net/Book/Single/91/12727)
+
 
 ----
 
@@ -1290,7 +1614,10 @@ bpn12727
 
 -- Bahá'u'lláh
 
-bpn12728 
+Prayer bpn12728 in Iban (bpn12728) 
+
+[bahaiprayers.net 12728](https://bahaiprayers.net/Book/Single/91/12728)
+
 
 ----
 
@@ -1300,7 +1627,10 @@ bpn12728
 
 -- Bahá'u'lláh
 
-bpn12729 
+Prayer bpn12729 in Iban (bpn12729) 
+
+[bahaiprayers.net 12729](https://bahaiprayers.net/Book/Single/91/12729)
+
 
 ----
 
@@ -1310,7 +1640,10 @@ bpn12729
 
 -- Bahá'u'lláh
 
-bpn12730 
+Prayer bpn12730 in Iban (bpn12730) 
+
+[bahaiprayers.net 12730](https://bahaiprayers.net/Book/Single/91/12730)
+
 
 ----
 
@@ -1320,7 +1653,10 @@ bpn12730
 
 -- Bahá'u'lláh
 
-bpn12731 
+Prayer bpn12731 in Iban (bpn12731) 
+
+[bahaiprayers.net 12731](https://bahaiprayers.net/Book/Single/91/12731)
+
 
 ----
 
@@ -1330,7 +1666,10 @@ bpn12731
 
 -- Abdu'l-Bahá
 
-bpn12732 
+Prayer bpn12732 in Iban (bpn12732) 
+
+[bahaiprayers.net 12732](https://bahaiprayers.net/Book/Single/91/12732)
+
 
 ----
 
@@ -1344,7 +1683,10 @@ bpn12732
 
 -- Bahá'u'lláh
 
-bpn12711 
+Prayer bpn12711 in Iban (bpn12711) 
+
+[bahaiprayers.net 12711](https://bahaiprayers.net/Book/Single/91/12711)
+
 
 ----
 
@@ -1358,7 +1700,10 @@ bpn12711
 
 -- Bahá'u'lláh
 
-bpn12738 
+Prayer bpn12738 in Iban (bpn12738) 
+
+[bahaiprayers.net 12738](https://bahaiprayers.net/Book/Single/91/12738)
+
 
 ----
 
@@ -1372,7 +1717,10 @@ bpn12738
 
 -- Bahá'u'lláh
 
-bpn12741 
+Prayer bpn12741 in Iban (bpn12741) 
+
+[bahaiprayers.net 12741](https://bahaiprayers.net/Book/Single/91/12741)
+
 
 ----
 
@@ -1386,7 +1734,10 @@ bpn12741
 
 -- Bahá'u'lláh
 
-bpn12739 
+Prayer bpn12739 in Iban (bpn12739) 
+
+[bahaiprayers.net 12739](https://bahaiprayers.net/Book/Single/91/12739)
+
 
 ----
 
@@ -1400,7 +1751,10 @@ bpn12739
 
 -- Abdu'l-Bahá
 
-bpn12740 
+Prayer bpn12740 in Iban (bpn12740) 
+
+[bahaiprayers.net 12740](https://bahaiprayers.net/Book/Single/91/12740)
+
 
 ----
 
@@ -1414,7 +1768,10 @@ bpn12740
 
 -- Abdu'l-Bahá
 
-bpn12749 
+Prayer bpn12749 in Iban (bpn12749) 
+
+[bahaiprayers.net 12749](https://bahaiprayers.net/Book/Single/91/12749)
+
 
 ----
 
@@ -1424,7 +1781,10 @@ bpn12749
 
 -- Abdu'l-Bahá
 
-bpn12750 
+Prayer bpn12750 in Iban (bpn12750) 
+
+[bahaiprayers.net 12750](https://bahaiprayers.net/Book/Single/91/12750)
+
 
 ----
 
@@ -1438,7 +1798,10 @@ bpn12750
 
 -- Abdu'l-Bahá
 
-bpn12734 
+Prayer bpn12734 in Iban (bpn12734) 
+
+[bahaiprayers.net 12734](https://bahaiprayers.net/Book/Single/91/12734)
+
 
 ----
 
@@ -1448,7 +1811,10 @@ bpn12734
 
 -- Abdu'l-Bahá
 
-bpn12735 
+Prayer bpn12735 in Iban (bpn12735) 
+
+[bahaiprayers.net 12735](https://bahaiprayers.net/Book/Single/91/12735)
+
 
 ----
 
@@ -1458,7 +1824,10 @@ bpn12735
 
 -- Abdu'l-Bahá
 
-bpn12736 
+Prayer bpn12736 in Iban (bpn12736) 
+
+[bahaiprayers.net 12736](https://bahaiprayers.net/Book/Single/91/12736)
+
 
 ----
 
@@ -1472,7 +1841,10 @@ bpn12736
 
 -- Bahá'u'lláh
 
-bpn12609 
+Prayer bpn12609 in Iban (bpn12609) 
+
+[bahaiprayers.net 12609](https://bahaiprayers.net/Book/Single/91/12609)
+
 
 ----
 
@@ -1486,7 +1858,10 @@ bpn12609
 
 -- Bahá'u'lláh
 
-bpn12608 
+Prayer bpn12608 in Iban (bpn12608) 
+
+[bahaiprayers.net 12608](https://bahaiprayers.net/Book/Single/91/12608)
+
 
 ----
 
@@ -1500,7 +1875,10 @@ bpn12608
 
 -- Bahá'u'lláh
 
-bpn12610 
+Prayer bpn12610 in Iban (bpn12610) 
+
+[bahaiprayers.net 12610](https://bahaiprayers.net/Book/Single/91/12610)
+
 
 ----
 
@@ -1514,7 +1892,10 @@ bpn12610
 
 -- Bahá'u'lláh
 
-bpn12674 
+Prayer bpn12674 in Iban (bpn12674) 
+
+[bahaiprayers.net 12674](https://bahaiprayers.net/Book/Single/91/12674)
+
 
 ----
 
@@ -1524,7 +1905,10 @@ bpn12674
 
 -- Bahá'u'lláh
 
-bpn12675 
+Prayer bpn12675 in Iban (bpn12675) 
+
+[bahaiprayers.net 12675](https://bahaiprayers.net/Book/Single/91/12675)
+
 
 ----
 
@@ -1534,7 +1918,10 @@ bpn12675
 
 -- Bahá'u'lláh
 
-bpn12676 
+Prayer bpn12676 in Iban (bpn12676) 
+
+[bahaiprayers.net 12676](https://bahaiprayers.net/Book/Single/91/12676)
+
 
 ----
 
@@ -1544,7 +1931,10 @@ bpn12676
 
 -- Abdu'l-Bahá
 
-bpn12677 
+Prayer bpn12677 in Iban (bpn12677) 
+
+[bahaiprayers.net 12677](https://bahaiprayers.net/Book/Single/91/12677)
+
 
 ----
 
@@ -1554,7 +1944,10 @@ bpn12677
 
 -- Abdu'l-Bahá
 
-bpn12678 
+Prayer bpn12678 in Iban (bpn12678) 
+
+[bahaiprayers.net 12678](https://bahaiprayers.net/Book/Single/91/12678)
+
 
 ----
 
@@ -1564,7 +1957,10 @@ bpn12678
 
 -- Abdu'l-Bahá
 
-bpn12679 
+Prayer bpn12679 in Iban (bpn12679) 
+
+[bahaiprayers.net 12679](https://bahaiprayers.net/Book/Single/91/12679)
+
 
 ----
 
@@ -1578,7 +1974,10 @@ bpn12679
 
 -- Bahá'u'lláh
 
-bpn12712 
+Prayer bpn12712 in Iban (bpn12712) 
+
+[bahaiprayers.net 12712](https://bahaiprayers.net/Book/Single/91/12712)
+
 
 ----
 
@@ -1588,7 +1987,10 @@ bpn12712
 
 -- Báb
 
-bpn12713 
+Prayer bpn12713 in Iban (bpn12713) 
+
+[bahaiprayers.net 12713](https://bahaiprayers.net/Book/Single/91/12713)
+
 
 ----
 
@@ -1598,7 +2000,10 @@ bpn12713
 
 -- Abdu'l-Bahá
 
-bpn12714 
+Prayer bpn12714 in Iban (bpn12714) 
+
+[bahaiprayers.net 12714](https://bahaiprayers.net/Book/Single/91/12714)
+
 
 ----
 
@@ -1608,7 +2013,10 @@ bpn12714
 
 -- Abdu'l-Bahá
 
-bpn12715 
+Prayer bpn12715 in Iban (bpn12715) 
+
+[bahaiprayers.net 12715](https://bahaiprayers.net/Book/Single/91/12715)
+
 
 ----
 
@@ -1622,7 +2030,10 @@ bpn12715
 
 -- Bahá'u'lláh
 
-bpn12716 
+Prayer bpn12716 in Iban (bpn12716) 
+
+[bahaiprayers.net 12716](https://bahaiprayers.net/Book/Single/91/12716)
+
 
 ----
 
@@ -1636,7 +2047,10 @@ bpn12716
 
 -- Bahá'u'lláh
 
-bpn12717 
+Prayer bpn12717 in Iban (bpn12717) 
+
+[bahaiprayers.net 12717](https://bahaiprayers.net/Book/Single/91/12717)
+
 
 ----
 
@@ -1646,7 +2060,10 @@ bpn12717
 
 -- Abdu'l-Bahá
 
-bpn12718 
+Prayer bpn12718 in Iban (bpn12718) 
+
+[bahaiprayers.net 12718](https://bahaiprayers.net/Book/Single/91/12718)
+
 
 ----
 
@@ -1656,7 +2073,10 @@ bpn12718
 
 -- Abdu'l-Bahá
 
-bpn12719 
+Prayer bpn12719 in Iban (bpn12719) 
+
+[bahaiprayers.net 12719](https://bahaiprayers.net/Book/Single/91/12719)
+
 
 ----
 
@@ -1666,7 +2086,10 @@ bpn12719
 
 -- Abdu'l-Bahá
 
-bpn12720 
+Prayer bpn12720 in Iban (bpn12720) 
+
+[bahaiprayers.net 12720](https://bahaiprayers.net/Book/Single/91/12720)
+
 
 ----
 
@@ -1680,7 +2103,10 @@ bpn12720
 
 -- Abdu'l-Bahá
 
-bpn12721 
+Prayer bpn12721 in Iban (bpn12721) 
+
+[bahaiprayers.net 12721](https://bahaiprayers.net/Book/Single/91/12721)
+
 
 ----
 
@@ -1690,7 +2116,10 @@ bpn12721
 
 -- Abdu'l-Bahá
 
-bpn12722 
+Prayer bpn12722 in Iban (bpn12722) 
+
+[bahaiprayers.net 12722](https://bahaiprayers.net/Book/Single/91/12722)
+
 
 ----
 

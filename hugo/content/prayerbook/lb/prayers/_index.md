@@ -96,7 +96,10 @@ tags = ['lang=lb', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn13400 
+Prayer bpn13400 in Lëtzebuergesch (bpn13400) 
+
+[bahaiprayers.net 13400](https://bahaiprayers.net/Book/Single/72/13400)
+
 
 ----
 
@@ -106,7 +109,10 @@ bpn13400
 
 -- Abdu'l-Bahá
 
-bpn13401 
+Prayer bpn13401 in Lëtzebuergesch (bpn13401) 
+
+[bahaiprayers.net 13401](https://bahaiprayers.net/Book/Single/72/13401)
+
 
 ----
 
@@ -116,7 +122,10 @@ bpn13401
 
 -- Abdu'l-Bahá
 
-bpn13402 
+Prayer bpn13402 in Lëtzebuergesch (bpn13402) 
+
+[bahaiprayers.net 13402](https://bahaiprayers.net/Book/Single/72/13402)
+
 
 ----
 
@@ -126,7 +135,10 @@ bpn13402
 
 -- Abdu'l-Bahá
 
-bpn13403 
+Prayer bpn13403 in Lëtzebuergesch (bpn13403) 
+
+[bahaiprayers.net 13403](https://bahaiprayers.net/Book/Single/72/13403)
+
 
 ----
 
@@ -136,7 +148,10 @@ bpn13403
 
 -- Abdu'l-Bahá
 
-bpn13404 
+Prayer bpn13404 in Lëtzebuergesch (bpn13404) 
+
+[bahaiprayers.net 13404](https://bahaiprayers.net/Book/Single/72/13404)
+
 
 ----
 
@@ -146,7 +161,10 @@ bpn13404
 
 -- Abdu'l-Bahá
 
-bpn13405 
+Prayer bpn13405 in Lëtzebuergesch (bpn13405) 
+
+[bahaiprayers.net 13405](https://bahaiprayers.net/Book/Single/72/13405)
+
 
 ----
 
@@ -156,7 +174,10 @@ bpn13405
 
 -- Abdu'l-Bahá
 
-bpn13406 
+Prayer bpn13406 in Lëtzebuergesch (bpn13406) 
+
+[bahaiprayers.net 13406](https://bahaiprayers.net/Book/Single/72/13406)
+
 
 ----
 
@@ -166,7 +187,10 @@ bpn13406
 
 -- Abdu'l-Bahá
 
-bpn13407 
+Prayer bpn13407 in Lëtzebuergesch (bpn13407) 
+
+[bahaiprayers.net 13407](https://bahaiprayers.net/Book/Single/72/13407)
+
 
 ----
 
@@ -176,7 +200,10 @@ bpn13407
 
 -- Abdu'l-Bahá
 
-bpn13408 
+Prayer bpn13408 in Lëtzebuergesch (bpn13408) 
+
+[bahaiprayers.net 13408](https://bahaiprayers.net/Book/Single/72/13408)
+
 
 ----
 
@@ -186,7 +213,10 @@ bpn13408
 
 -- Abdu'l-Bahá
 
-bpn13409 
+Prayer bpn13409 in Lëtzebuergesch (bpn13409) 
+
+[bahaiprayers.net 13409](https://bahaiprayers.net/Book/Single/72/13409)
+
 
 ----
 
@@ -196,7 +226,10 @@ bpn13409
 
 -- Abdu'l-Bahá
 
-bpn13410 
+Prayer bpn13410 in Lëtzebuergesch (bpn13410) 
+
+[bahaiprayers.net 13410](https://bahaiprayers.net/Book/Single/72/13410)
+
 
 ----
 
@@ -206,7 +239,10 @@ bpn13410
 
 -- Abdu'l-Bahá
 
-bpn13411 
+Prayer bpn13411 in Lëtzebuergesch (bpn13411) 
+
+[bahaiprayers.net 13411](https://bahaiprayers.net/Book/Single/72/13411)
+
 
 ----
 
@@ -216,7 +252,10 @@ bpn13411
 
 -- Abdu'l-Bahá
 
-bpn13412 
+Prayer bpn13412 in Lëtzebuergesch (bpn13412) 
+
+[bahaiprayers.net 13412](https://bahaiprayers.net/Book/Single/72/13412)
+
 
 ----
 
@@ -226,7 +265,10 @@ bpn13412
 
 -- Abdu'l-Bahá
 
-bpn13413 
+Prayer bpn13413 in Lëtzebuergesch (bpn13413) 
+
+[bahaiprayers.net 13413](https://bahaiprayers.net/Book/Single/72/13413)
+
 
 ----
 
@@ -236,7 +278,10 @@ bpn13413
 
 -- Abdu'l-Bahá
 
-bpn13414 
+Prayer bpn13414 in Lëtzebuergesch (bpn13414) 
+
+[bahaiprayers.net 13414](https://bahaiprayers.net/Book/Single/72/13414)
+
 
 ----
 
@@ -246,7 +291,10 @@ bpn13414
 
 -- Abdu'l-Bahá
 
-bpn13415 
+Prayer bpn13415 in Lëtzebuergesch (bpn13415) 
+
+[bahaiprayers.net 13415](https://bahaiprayers.net/Book/Single/72/13415)
+
 
 ----
 
@@ -256,7 +304,10 @@ bpn13415
 
 -- Abdu'l-Bahá
 
-bpn13416 
+Prayer bpn13416 in Lëtzebuergesch (bpn13416) 
+
+[bahaiprayers.net 13416](https://bahaiprayers.net/Book/Single/72/13416)
+
 
 ----
 
@@ -266,7 +317,10 @@ bpn13416
 
 -- Abdu'l-Bahá
 
-bpn13417 
+Prayer bpn13417 in Lëtzebuergesch (bpn13417) 
+
+[bahaiprayers.net 13417](https://bahaiprayers.net/Book/Single/72/13417)
+
 
 ----
 
@@ -276,7 +330,10 @@ bpn13417
 
 -- Abdu'l-Bahá
 
-bpn13418 
+Prayer bpn13418 in Lëtzebuergesch (bpn13418) 
+
+[bahaiprayers.net 13418](https://bahaiprayers.net/Book/Single/72/13418)
+
 
 ----
 
@@ -286,7 +343,10 @@ bpn13418
 
 -- Abdu'l-Bahá
 
-bpn13419 
+Prayer bpn13419 in Lëtzebuergesch (bpn13419) 
+
+[bahaiprayers.net 13419](https://bahaiprayers.net/Book/Single/72/13419)
+
 
 ----
 
@@ -296,7 +356,10 @@ bpn13419
 
 -- Abdu'l-Bahá
 
-bpn13420 
+Prayer bpn13420 in Lëtzebuergesch (bpn13420) 
+
+[bahaiprayers.net 13420](https://bahaiprayers.net/Book/Single/72/13420)
+
 
 ----
 
@@ -306,7 +369,10 @@ bpn13420
 
 -- Abdu'l-Bahá
 
-bpn13421 
+Prayer bpn13421 in Lëtzebuergesch (bpn13421) 
+
+[bahaiprayers.net 13421](https://bahaiprayers.net/Book/Single/72/13421)
+
 
 ----
 
@@ -316,7 +382,10 @@ bpn13421
 
 -- Abdu'l-Bahá
 
-bpn13422 
+Prayer bpn13422 in Lëtzebuergesch (bpn13422) 
+
+[bahaiprayers.net 13422](https://bahaiprayers.net/Book/Single/72/13422)
+
 
 ----
 
@@ -326,7 +395,10 @@ bpn13422
 
 -- Abdu'l-Bahá
 
-bpn13423 
+Prayer bpn13423 in Lëtzebuergesch (bpn13423) 
+
+[bahaiprayers.net 13423](https://bahaiprayers.net/Book/Single/72/13423)
+
 
 ----
 
@@ -336,7 +408,10 @@ bpn13423
 
 -- Abdu'l-Bahá
 
-bpn13424 
+Prayer bpn13424 in Lëtzebuergesch (bpn13424) 
+
+[bahaiprayers.net 13424](https://bahaiprayers.net/Book/Single/72/13424)
+
 
 ----
 
@@ -346,7 +421,10 @@ bpn13424
 
 -- Abdu'l-Bahá
 
-bpn13667 
+Prayer bpn13667 in Lëtzebuergesch (bpn13667) 
+
+[bahaiprayers.net 13667](https://bahaiprayers.net/Book/Single/72/13667)
+
 
 ----
 
@@ -360,7 +438,10 @@ bpn13667
 
 -- Bahá'u'lláh
 
-bpn13653 
+Prayer bpn13653 in Lëtzebuergesch (bpn13653) 
+
+[bahaiprayers.net 13653](https://bahaiprayers.net/Book/Single/72/13653)
+
 
 ----
 
@@ -374,7 +455,10 @@ bpn13653
 
 -- Bahá'u'lláh
 
-bpn13662 
+Prayer bpn13662 in Lëtzebuergesch (bpn13662) 
+
+[bahaiprayers.net 13662](https://bahaiprayers.net/Book/Single/72/13662)
+
 
 ----
 
@@ -388,7 +472,10 @@ bpn13662
 
 -- Abdu'l-Bahá
 
-bpn13663 
+Prayer bpn13663 in Lëtzebuergesch (bpn13663) 
+
+[bahaiprayers.net 13663](https://bahaiprayers.net/Book/Single/72/13663)
+
 
 ----
 
@@ -402,7 +489,10 @@ bpn13663
 
 -- Abdu'l-Bahá
 
-bpn13574 
+Prayer bpn13574 in Lëtzebuergesch (bpn13574) 
+
+[bahaiprayers.net 13574](https://bahaiprayers.net/Book/Single/72/13574)
+
 
 ----
 
@@ -416,7 +506,10 @@ bpn13574
 
 -- Bahá'u'lláh
 
-bpn8213 
+Prayer bpn8213 in Lëtzebuergesch (bpn8213) 
+
+[bahaiprayers.net 8213](https://bahaiprayers.net/Book/Single/72/8213)
+
 
 ----
 
@@ -426,7 +519,10 @@ bpn8213
 
 -- Abdu'l-Bahá
 
-bpn8217 
+Prayer bpn8217 in Lëtzebuergesch (bpn8217) 
+
+[bahaiprayers.net 8217](https://bahaiprayers.net/Book/Single/72/8217)
+
 
 ----
 
@@ -440,7 +536,10 @@ bpn8217
 
 -- Bahá'u'lláh
 
-bpn8211 
+Prayer bpn8211 in Lëtzebuergesch (bpn8211) 
+
+[bahaiprayers.net 8211](https://bahaiprayers.net/Book/Single/72/8211)
+
 
 ----
 
@@ -450,7 +549,10 @@ bpn8211
 
 -- Abdu'l-Bahá
 
-bpn13575 
+Prayer bpn13575 in Lëtzebuergesch (bpn13575) 
+
+[bahaiprayers.net 13575](https://bahaiprayers.net/Book/Single/72/13575)
+
 
 ----
 
@@ -464,7 +566,10 @@ bpn13575
 
 -- Báb
 
-bpn13576 
+Prayer bpn13576 in Lëtzebuergesch (bpn13576) 
+
+[bahaiprayers.net 13576](https://bahaiprayers.net/Book/Single/72/13576)
+
 
 ----
 
@@ -474,7 +579,10 @@ bpn13576
 
 -- Abdu'l-Bahá
 
-bpn13577 
+Prayer bpn13577 in Lëtzebuergesch (bpn13577) 
+
+[bahaiprayers.net 13577](https://bahaiprayers.net/Book/Single/72/13577)
+
 
 ----
 
@@ -484,7 +592,10 @@ bpn13577
 
 -- Abdu'l-Bahá
 
-bpn13578 
+Prayer bpn13578 in Lëtzebuergesch (bpn13578) 
+
+[bahaiprayers.net 13578](https://bahaiprayers.net/Book/Single/72/13578)
+
 
 ----
 
@@ -498,7 +609,10 @@ bpn13578
 
 -- Abdu'l-Bahá
 
-bpn13579 
+Prayer bpn13579 in Lëtzebuergesch (bpn13579) 
+
+[bahaiprayers.net 13579](https://bahaiprayers.net/Book/Single/72/13579)
+
 
 ----
 
@@ -508,7 +622,10 @@ bpn13579
 
 -- Abdu'l-Bahá
 
-bpn13580 
+Prayer bpn13580 in Lëtzebuergesch (bpn13580) 
+
+[bahaiprayers.net 13580](https://bahaiprayers.net/Book/Single/72/13580)
+
 
 ----
 
@@ -518,7 +635,10 @@ bpn13580
 
 -- Abdu'l-Bahá
 
-bpn13581 
+Prayer bpn13581 in Lëtzebuergesch (bpn13581) 
+
+[bahaiprayers.net 13581](https://bahaiprayers.net/Book/Single/72/13581)
+
 
 ----
 
@@ -528,7 +648,10 @@ bpn13581
 
 -- Abdu'l-Bahá
 
-bpn13582 
+Prayer bpn13582 in Lëtzebuergesch (bpn13582) 
+
+[bahaiprayers.net 13582](https://bahaiprayers.net/Book/Single/72/13582)
+
 
 ----
 
@@ -538,7 +661,10 @@ bpn13582
 
 -- Abdu'l-Bahá
 
-bpn13583 
+Prayer bpn13583 in Lëtzebuergesch (bpn13583) 
+
+[bahaiprayers.net 13583](https://bahaiprayers.net/Book/Single/72/13583)
+
 
 ----
 
@@ -552,7 +678,10 @@ bpn13583
 
 -- Báb
 
-bpn13584 
+Prayer bpn13584 in Lëtzebuergesch (bpn13584) 
+
+[bahaiprayers.net 13584](https://bahaiprayers.net/Book/Single/72/13584)
+
 
 ----
 
@@ -562,7 +691,10 @@ bpn13584
 
 -- Báb
 
-bpn13585 
+Prayer bpn13585 in Lëtzebuergesch (bpn13585) 
+
+[bahaiprayers.net 13585](https://bahaiprayers.net/Book/Single/72/13585)
+
 
 ----
 
@@ -572,7 +704,10 @@ bpn13585
 
 -- Abdu'l-Bahá
 
-bpn13586 
+Prayer bpn13586 in Lëtzebuergesch (bpn13586) 
+
+[bahaiprayers.net 13586](https://bahaiprayers.net/Book/Single/72/13586)
+
 
 ----
 
@@ -582,7 +717,10 @@ bpn13586
 
 -- Abdu'l-Bahá
 
-bpn13587 
+Prayer bpn13587 in Lëtzebuergesch (bpn13587) 
+
+[bahaiprayers.net 13587](https://bahaiprayers.net/Book/Single/72/13587)
+
 
 ----
 
@@ -596,7 +734,10 @@ bpn13587
 
 -- Bahá'u'lláh
 
-bpn13654 
+Prayer bpn13654 in Lëtzebuergesch (bpn13654) 
+
+[bahaiprayers.net 13654](https://bahaiprayers.net/Book/Single/72/13654)
+
 
 ----
 
@@ -606,7 +747,10 @@ bpn13654
 
 -- Abdu'l-Bahá
 
-bpn13655 
+Prayer bpn13655 in Lëtzebuergesch (bpn13655) 
+
+[bahaiprayers.net 13655](https://bahaiprayers.net/Book/Single/72/13655)
+
 
 ----
 
@@ -616,7 +760,10 @@ bpn13655
 
 -- Abdu'l-Bahá
 
-bpn13656 
+Prayer bpn13656 in Lëtzebuergesch (bpn13656) 
+
+[bahaiprayers.net 13656](https://bahaiprayers.net/Book/Single/72/13656)
+
 
 ----
 
@@ -630,7 +777,10 @@ bpn13656
 
 -- Abdu'l-Bahá
 
-bpn8210 
+Prayer bpn8210 in Lëtzebuergesch (bpn8210) 
+
+[bahaiprayers.net 8210](https://bahaiprayers.net/Book/Single/72/8210)
+
 
 ----
 
@@ -644,7 +794,10 @@ bpn8210
 
 -- Abdu'l-Bahá
 
-bpn13590 
+Prayer bpn13590 in Lëtzebuergesch (bpn13590) 
+
+[bahaiprayers.net 13590](https://bahaiprayers.net/Book/Single/72/13590)
+
 
 ----
 
@@ -658,7 +811,10 @@ bpn13590
 
 -- Abdu'l-Bahá
 
-AB11281 «[English](../../en/prayers/#AB11281)» «[Nederlands](../../nl/prayers/#AB11281)» 
+Prayer AB11281 in Lëtzebuergesch (AB11281) «[Nederlands](../../nl/prayers/#AB11281)» «[English](../../en/prayers/#AB11281)» 
+
+[bahaiprayers.net 13588](https://bahaiprayers.net/Book/Single/72/13588)
+
 
 ----
 
@@ -668,7 +824,10 @@ AB11281 «[English](../../en/prayers/#AB11281)» «[Nederlands](../../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn13589 
+Prayer bpn13589 in Lëtzebuergesch (bpn13589) 
+
+[bahaiprayers.net 13589](https://bahaiprayers.net/Book/Single/72/13589)
+
 
 ----
 
@@ -682,7 +841,10 @@ bpn13589
 
 -- Bahá'u'lláh
 
-bpn13591 
+Prayer bpn13591 in Lëtzebuergesch (bpn13591) 
+
+[bahaiprayers.net 13591](https://bahaiprayers.net/Book/Single/72/13591)
+
 
 ----
 
@@ -692,7 +854,10 @@ bpn13591
 
 -- Bahá'u'lláh
 
-bpn13592 
+Prayer bpn13592 in Lëtzebuergesch (bpn13592) 
+
+[bahaiprayers.net 13592](https://bahaiprayers.net/Book/Single/72/13592)
+
 
 ----
 
@@ -702,7 +867,10 @@ bpn13592
 
 -- Bahá'u'lláh
 
-bpn13593 
+Prayer bpn13593 in Lëtzebuergesch (bpn13593) 
+
+[bahaiprayers.net 13593](https://bahaiprayers.net/Book/Single/72/13593)
+
 
 ----
 
@@ -712,7 +880,10 @@ bpn13593
 
 -- Bahá'u'lláh
 
-bpn13594 
+Prayer bpn13594 in Lëtzebuergesch (bpn13594) 
+
+[bahaiprayers.net 13594](https://bahaiprayers.net/Book/Single/72/13594)
+
 
 ----
 
@@ -722,7 +893,10 @@ bpn13594
 
 -- Abdu'l-Bahá
 
-bpn13595 
+Prayer bpn13595 in Lëtzebuergesch (bpn13595) 
+
+[bahaiprayers.net 13595](https://bahaiprayers.net/Book/Single/72/13595)
+
 
 ----
 
@@ -732,7 +906,10 @@ bpn13595
 
 -- Abdu'l-Bahá
 
-bpn13596 
+Prayer bpn13596 in Lëtzebuergesch (bpn13596) 
+
+[bahaiprayers.net 13596](https://bahaiprayers.net/Book/Single/72/13596)
+
 
 ----
 
@@ -746,7 +923,10 @@ bpn13596
 
 -- Báb
 
-bpn13597 
+Prayer bpn13597 in Lëtzebuergesch (bpn13597) 
+
+[bahaiprayers.net 13597](https://bahaiprayers.net/Book/Single/72/13597)
+
 
 ----
 
@@ -760,7 +940,10 @@ bpn13597
 
 -- Bahá'u'lláh
 
-bpn13598 
+Prayer bpn13598 in Lëtzebuergesch (bpn13598) 
+
+[bahaiprayers.net 13598](https://bahaiprayers.net/Book/Single/72/13598)
+
 
 ----
 
@@ -770,7 +953,10 @@ bpn13598
 
 -- Bahá'u'lláh
 
-bpn13599 
+Prayer bpn13599 in Lëtzebuergesch (bpn13599) 
+
+[bahaiprayers.net 13599](https://bahaiprayers.net/Book/Single/72/13599)
+
 
 ----
 
@@ -780,7 +966,10 @@ bpn13599
 
 -- Abdu'l-Bahá
 
-bpn13600 
+Prayer bpn13600 in Lëtzebuergesch (bpn13600) 
+
+[bahaiprayers.net 13600](https://bahaiprayers.net/Book/Single/72/13600)
+
 
 ----
 
@@ -790,7 +979,10 @@ bpn13600
 
 -- Abdu'l-Bahá
 
-bpn13601 
+Prayer bpn13601 in Lëtzebuergesch (bpn13601) 
+
+[bahaiprayers.net 13601](https://bahaiprayers.net/Book/Single/72/13601)
+
 
 ----
 
@@ -804,7 +996,10 @@ bpn13601
 
 -- Bahá'u'lláh
 
-bpn13608 
+Prayer bpn13608 in Lëtzebuergesch (bpn13608) 
+
+[bahaiprayers.net 13608](https://bahaiprayers.net/Book/Single/72/13608)
+
 
 ----
 
@@ -818,7 +1013,10 @@ bpn13608
 
 -- Bahá'u'lláh
 
-bpn13657 
+Prayer bpn13657 in Lëtzebuergesch (bpn13657) 
+
+[bahaiprayers.net 13657](https://bahaiprayers.net/Book/Single/72/13657)
+
 
 ----
 
@@ -832,7 +1030,10 @@ bpn13657
 
 -- Bahá'u'lláh
 
-bpn13602 
+Prayer bpn13602 in Lëtzebuergesch (bpn13602) 
+
+[bahaiprayers.net 13602](https://bahaiprayers.net/Book/Single/72/13602)
+
 
 ----
 
@@ -842,7 +1043,10 @@ bpn13602
 
 -- Bahá'u'lláh
 
-bpn13603 
+Prayer bpn13603 in Lëtzebuergesch (bpn13603) 
+
+[bahaiprayers.net 13603](https://bahaiprayers.net/Book/Single/72/13603)
+
 
 ----
 
@@ -852,7 +1056,10 @@ bpn13603
 
 -- Bahá'u'lláh
 
-bpn13604 
+Prayer bpn13604 in Lëtzebuergesch (bpn13604) 
+
+[bahaiprayers.net 13604](https://bahaiprayers.net/Book/Single/72/13604)
+
 
 ----
 
@@ -862,7 +1069,10 @@ bpn13604
 
 -- Abdu'l-Bahá
 
-bpn8214 
+Prayer bpn8214 in Lëtzebuergesch (bpn8214) 
+
+[bahaiprayers.net 8214](https://bahaiprayers.net/Book/Single/72/8214)
+
 
 ----
 
@@ -872,7 +1082,10 @@ bpn8214
 
 -- Abdu'l-Bahá
 
-bpn13605 
+Prayer bpn13605 in Lëtzebuergesch (bpn13605) 
+
+[bahaiprayers.net 13605](https://bahaiprayers.net/Book/Single/72/13605)
+
 
 ----
 
@@ -882,7 +1095,10 @@ bpn13605
 
 -- Abdu'l-Bahá
 
-bpn13606 
+Prayer bpn13606 in Lëtzebuergesch (bpn13606) 
+
+[bahaiprayers.net 13606](https://bahaiprayers.net/Book/Single/72/13606)
+
 
 ----
 
@@ -892,7 +1108,10 @@ bpn13606
 
 -- Abdu'l-Bahá
 
-bpn13607 
+Prayer bpn13607 in Lëtzebuergesch (bpn13607) 
+
+[bahaiprayers.net 13607](https://bahaiprayers.net/Book/Single/72/13607)
+
 
 ----
 
@@ -906,7 +1125,10 @@ bpn13607
 
 -- Abdu'l-Bahá
 
-bpn13609 
+Prayer bpn13609 in Lëtzebuergesch (bpn13609) 
+
+[bahaiprayers.net 13609](https://bahaiprayers.net/Book/Single/72/13609)
+
 
 ----
 
@@ -920,7 +1142,10 @@ bpn13609
 
 -- Bahá'u'lláh
 
-bpn13610 
+Prayer bpn13610 in Lëtzebuergesch (bpn13610) 
+
+[bahaiprayers.net 13610](https://bahaiprayers.net/Book/Single/72/13610)
+
 
 ----
 
@@ -930,7 +1155,10 @@ bpn13610
 
 -- Bahá'u'lláh
 
-bpn13611 
+Prayer bpn13611 in Lëtzebuergesch (bpn13611) 
+
+[bahaiprayers.net 13611](https://bahaiprayers.net/Book/Single/72/13611)
+
 
 ----
 
@@ -940,7 +1168,10 @@ bpn13611
 
 -- Abdu'l-Bahá
 
-bpn13612 
+Prayer bpn13612 in Lëtzebuergesch (bpn13612) 
+
+[bahaiprayers.net 13612](https://bahaiprayers.net/Book/Single/72/13612)
+
 
 ----
 
@@ -950,7 +1181,10 @@ bpn13612
 
 -- Abdu'l-Bahá
 
-bpn13613 
+Prayer bpn13613 in Lëtzebuergesch (bpn13613) 
+
+[bahaiprayers.net 13613](https://bahaiprayers.net/Book/Single/72/13613)
+
 
 ----
 
@@ -960,7 +1194,10 @@ bpn13613
 
 -- Abdu'l-Bahá
 
-bpn13614 
+Prayer bpn13614 in Lëtzebuergesch (bpn13614) 
+
+[bahaiprayers.net 13614](https://bahaiprayers.net/Book/Single/72/13614)
+
 
 ----
 
@@ -970,7 +1207,10 @@ bpn13614
 
 -- Abdu'l-Bahá
 
-bpn13615 
+Prayer bpn13615 in Lëtzebuergesch (bpn13615) 
+
+[bahaiprayers.net 13615](https://bahaiprayers.net/Book/Single/72/13615)
+
 
 ----
 
@@ -980,7 +1220,10 @@ bpn13615
 
 -- Abdu'l-Bahá
 
-bpn13616 
+Prayer bpn13616 in Lëtzebuergesch (bpn13616) 
+
+[bahaiprayers.net 13616](https://bahaiprayers.net/Book/Single/72/13616)
+
 
 ----
 
@@ -990,7 +1233,10 @@ bpn13616
 
 -- Abdu'l-Bahá
 
-bpn13617 
+Prayer bpn13617 in Lëtzebuergesch (bpn13617) 
+
+[bahaiprayers.net 13617](https://bahaiprayers.net/Book/Single/72/13617)
+
 
 ----
 
@@ -1000,7 +1246,10 @@ bpn13617
 
 -- Abdu'l-Bahá
 
-bpn13618 
+Prayer bpn13618 in Lëtzebuergesch (bpn13618) 
+
+[bahaiprayers.net 13618](https://bahaiprayers.net/Book/Single/72/13618)
+
 
 ----
 
@@ -1010,7 +1259,10 @@ bpn13618
 
 -- Abdu'l-Bahá
 
-bpn13619 
+Prayer bpn13619 in Lëtzebuergesch (bpn13619) 
+
+[bahaiprayers.net 13619](https://bahaiprayers.net/Book/Single/72/13619)
+
 
 ----
 
@@ -1020,7 +1272,10 @@ bpn13619
 
 -- Abdu'l-Bahá
 
-bpn13620 
+Prayer bpn13620 in Lëtzebuergesch (bpn13620) 
+
+[bahaiprayers.net 13620](https://bahaiprayers.net/Book/Single/72/13620)
+
 
 ----
 
@@ -1034,7 +1289,10 @@ bpn13620
 
 -- Abdu'l-Bahá
 
-bpn8215 
+Prayer bpn8215 in Lëtzebuergesch (bpn8215) 
+
+[bahaiprayers.net 8215](https://bahaiprayers.net/Book/Single/72/8215)
+
 
 ----
 
@@ -1044,7 +1302,10 @@ bpn8215
 
 -- Abdu'l-Bahá
 
-bpn8209 
+Prayer bpn8209 in Lëtzebuergesch (bpn8209) 
+
+[bahaiprayers.net 8209](https://bahaiprayers.net/Book/Single/72/8209)
+
 
 ----
 
@@ -1054,7 +1315,10 @@ bpn8209
 
 -- Abdu'l-Bahá
 
-bpn8216 
+Prayer bpn8216 in Lëtzebuergesch (bpn8216) 
+
+[bahaiprayers.net 8216](https://bahaiprayers.net/Book/Single/72/8216)
+
 
 ----
 
@@ -1064,7 +1328,10 @@ bpn8216
 
 -- Abdu'l-Bahá
 
-bpn8208 
+Prayer bpn8208 in Lëtzebuergesch (bpn8208) 
+
+[bahaiprayers.net 8208](https://bahaiprayers.net/Book/Single/72/8208)
+
 
 ----
 
@@ -1078,7 +1345,10 @@ bpn8208
 
 -- Bahá'u'lláh
 
-bpn13664 
+Prayer bpn13664 in Lëtzebuergesch (bpn13664) 
+
+[bahaiprayers.net 13664](https://bahaiprayers.net/Book/Single/72/13664)
+
 
 ----
 
@@ -1092,7 +1362,10 @@ bpn13664
 
 -- Bahá'u'lláh
 
-bpn13666 
+Prayer bpn13666 in Lëtzebuergesch (bpn13666) 
+
+[bahaiprayers.net 13666](https://bahaiprayers.net/Book/Single/72/13666)
+
 
 ----
 
@@ -1106,7 +1379,10 @@ bpn13666
 
 -- Bahá'u'lláh
 
-bpn13621 
+Prayer bpn13621 in Lëtzebuergesch (bpn13621) 
+
+[bahaiprayers.net 13621](https://bahaiprayers.net/Book/Single/72/13621)
+
 
 ----
 
@@ -1116,7 +1392,10 @@ bpn13621
 
 -- Abdu'l-Bahá
 
-bpn13622 
+Prayer bpn13622 in Lëtzebuergesch (bpn13622) 
+
+[bahaiprayers.net 13622](https://bahaiprayers.net/Book/Single/72/13622)
+
 
 ----
 
@@ -1126,7 +1405,10 @@ bpn13622
 
 -- Abdu'l-Bahá
 
-bpn13623 
+Prayer bpn13623 in Lëtzebuergesch (bpn13623) 
+
+[bahaiprayers.net 13623](https://bahaiprayers.net/Book/Single/72/13623)
+
 
 ----
 
@@ -1140,7 +1422,10 @@ bpn13623
 
 -- Bahá'u'lláh
 
-bpn13624 
+Prayer bpn13624 in Lëtzebuergesch (bpn13624) 
+
+[bahaiprayers.net 13624](https://bahaiprayers.net/Book/Single/72/13624)
+
 
 ----
 
@@ -1150,7 +1435,10 @@ bpn13624
 
 -- Abdu'l-Bahá
 
-bpn13625 
+Prayer bpn13625 in Lëtzebuergesch (bpn13625) 
+
+[bahaiprayers.net 13625](https://bahaiprayers.net/Book/Single/72/13625)
+
 
 ----
 
@@ -1160,7 +1448,10 @@ bpn13625
 
 -- Abdu'l-Bahá
 
-bpn13626 
+Prayer bpn13626 in Lëtzebuergesch (bpn13626) 
+
+[bahaiprayers.net 13626](https://bahaiprayers.net/Book/Single/72/13626)
+
 
 ----
 
@@ -1170,7 +1461,10 @@ bpn13626
 
 -- Abdu'l-Bahá
 
-bpn13627 
+Prayer bpn13627 in Lëtzebuergesch (bpn13627) 
+
+[bahaiprayers.net 13627](https://bahaiprayers.net/Book/Single/72/13627)
+
 
 ----
 
@@ -1184,7 +1478,10 @@ bpn13627
 
 -- Abdu'l-Bahá
 
-bpn13628 
+Prayer bpn13628 in Lëtzebuergesch (bpn13628) 
+
+[bahaiprayers.net 13628](https://bahaiprayers.net/Book/Single/72/13628)
+
 
 ----
 
@@ -1198,7 +1495,10 @@ bpn13628
 
 -- Abdu'l-Bahá
 
-bpn13630 
+Prayer bpn13630 in Lëtzebuergesch (bpn13630) 
+
+[bahaiprayers.net 13630](https://bahaiprayers.net/Book/Single/72/13630)
+
 
 ----
 
@@ -1208,7 +1508,10 @@ bpn13630
 
 -- Abdu'l-Bahá
 
-bpn13631 
+Prayer bpn13631 in Lëtzebuergesch (bpn13631) 
+
+[bahaiprayers.net 13631](https://bahaiprayers.net/Book/Single/72/13631)
+
 
 ----
 
@@ -1218,7 +1521,10 @@ bpn13631
 
 -- Abdu'l-Bahá
 
-bpn13632 
+Prayer bpn13632 in Lëtzebuergesch (bpn13632) 
+
+[bahaiprayers.net 13632](https://bahaiprayers.net/Book/Single/72/13632)
+
 
 ----
 
@@ -1228,7 +1534,10 @@ bpn13632
 
 -- Abdu'l-Bahá
 
-bpn13633 
+Prayer bpn13633 in Lëtzebuergesch (bpn13633) 
+
+[bahaiprayers.net 13633](https://bahaiprayers.net/Book/Single/72/13633)
+
 
 ----
 
@@ -1238,7 +1547,10 @@ bpn13633
 
 -- Abdu'l-Bahá
 
-bpn13634 
+Prayer bpn13634 in Lëtzebuergesch (bpn13634) 
+
+[bahaiprayers.net 13634](https://bahaiprayers.net/Book/Single/72/13634)
+
 
 ----
 
@@ -1252,7 +1564,10 @@ bpn13634
 
 -- Bahá'u'lláh
 
-bpn13665 
+Prayer bpn13665 in Lëtzebuergesch (bpn13665) 
+
+[bahaiprayers.net 13665](https://bahaiprayers.net/Book/Single/72/13665)
+
 
 ----
 
@@ -1266,7 +1581,10 @@ bpn13665
 
 -- Abdu'l-Bahá
 
-bpn13629 
+Prayer bpn13629 in Lëtzebuergesch (bpn13629) 
+
+[bahaiprayers.net 13629](https://bahaiprayers.net/Book/Single/72/13629)
+
 
 ----
 
@@ -1280,7 +1598,10 @@ bpn13629
 
 -- Bahá'u'lláh
 
-bpn13658 
+Prayer bpn13658 in Lëtzebuergesch (bpn13658) 
+
+[bahaiprayers.net 13658](https://bahaiprayers.net/Book/Single/72/13658)
+
 
 ----
 
@@ -1294,7 +1615,10 @@ bpn13658
 
 -- Bahá'u'lláh
 
-bpn13635 
+Prayer bpn13635 in Lëtzebuergesch (bpn13635) 
+
+[bahaiprayers.net 13635](https://bahaiprayers.net/Book/Single/72/13635)
+
 
 ----
 
@@ -1304,7 +1628,10 @@ bpn13635
 
 -- Bahá'u'lláh
 
-bpn13636 
+Prayer bpn13636 in Lëtzebuergesch (bpn13636) 
+
+[bahaiprayers.net 13636](https://bahaiprayers.net/Book/Single/72/13636)
+
 
 ----
 
@@ -1318,7 +1645,10 @@ bpn13636
 
 -- Abdu'l-Bahá
 
-bpn8212 
+Prayer bpn8212 in Lëtzebuergesch (bpn8212) 
+
+[bahaiprayers.net 8212](https://bahaiprayers.net/Book/Single/72/8212)
+
 
 ----
 
@@ -1332,7 +1662,10 @@ bpn8212
 
 -- Bahá'u'lláh
 
-bpn13638 
+Prayer bpn13638 in Lëtzebuergesch (bpn13638) 
+
+[bahaiprayers.net 13638](https://bahaiprayers.net/Book/Single/72/13638)
+
 
 ----
 
@@ -1342,7 +1675,10 @@ bpn13638
 
 -- Báb
 
-bpn13637 
+Prayer bpn13637 in Lëtzebuergesch (bpn13637) 
+
+[bahaiprayers.net 13637](https://bahaiprayers.net/Book/Single/72/13637)
+
 
 ----
 
@@ -1352,7 +1688,10 @@ bpn13637
 
 -- Abdu'l-Bahá
 
-bpn13639 
+Prayer bpn13639 in Lëtzebuergesch (bpn13639) 
+
+[bahaiprayers.net 13639](https://bahaiprayers.net/Book/Single/72/13639)
+
 
 ----
 
@@ -1362,7 +1701,10 @@ bpn13639
 
 -- Abdu'l-Bahá
 
-bpn13640 
+Prayer bpn13640 in Lëtzebuergesch (bpn13640) 
+
+[bahaiprayers.net 13640](https://bahaiprayers.net/Book/Single/72/13640)
+
 
 ----
 
@@ -1372,7 +1714,10 @@ bpn13640
 
 -- Abdu'l-Bahá
 
-bpn13641 
+Prayer bpn13641 in Lëtzebuergesch (bpn13641) 
+
+[bahaiprayers.net 13641](https://bahaiprayers.net/Book/Single/72/13641)
+
 
 ----
 
@@ -1386,7 +1731,10 @@ bpn13641
 
 -- Abdu'l-Bahá
 
-bpn13642 
+Prayer bpn13642 in Lëtzebuergesch (bpn13642) 
+
+[bahaiprayers.net 13642](https://bahaiprayers.net/Book/Single/72/13642)
+
 
 ----
 
@@ -1400,7 +1748,10 @@ bpn13642
 
 -- Bahá'u'lláh
 
-bpn13661 
+Prayer bpn13661 in Lëtzebuergesch (bpn13661) 
+
+[bahaiprayers.net 13661](https://bahaiprayers.net/Book/Single/72/13661)
+
 
 ----
 
@@ -1414,7 +1765,10 @@ bpn13661
 
 -- Abdu'l-Bahá
 
-bpn13659 
+Prayer bpn13659 in Lëtzebuergesch (bpn13659) 
+
+[bahaiprayers.net 13659](https://bahaiprayers.net/Book/Single/72/13659)
+
 
 ----
 
@@ -1424,7 +1778,10 @@ bpn13659
 
 -- Abdu'l-Bahá
 
-bpn13660 
+Prayer bpn13660 in Lëtzebuergesch (bpn13660) 
+
+[bahaiprayers.net 13660](https://bahaiprayers.net/Book/Single/72/13660)
+
 
 ----
 
@@ -1438,7 +1795,10 @@ bpn13660
 
 -- Bahá'u'lláh
 
-bpn13643 
+Prayer bpn13643 in Lëtzebuergesch (bpn13643) 
+
+[bahaiprayers.net 13643](https://bahaiprayers.net/Book/Single/72/13643)
+
 
 ----
 
@@ -1448,7 +1808,10 @@ bpn13643
 
 -- Bahá'u'lláh
 
-bpn13644 
+Prayer bpn13644 in Lëtzebuergesch (bpn13644) 
+
+[bahaiprayers.net 13644](https://bahaiprayers.net/Book/Single/72/13644)
+
 
 ----
 
@@ -1458,7 +1821,10 @@ bpn13644
 
 -- Bahá'u'lláh
 
-bpn13645 
+Prayer bpn13645 in Lëtzebuergesch (bpn13645) 
+
+[bahaiprayers.net 13645](https://bahaiprayers.net/Book/Single/72/13645)
+
 
 ----
 
@@ -1468,7 +1834,10 @@ bpn13645
 
 -- Bahá'u'lláh
 
-bpn13646 
+Prayer bpn13646 in Lëtzebuergesch (bpn13646) 
+
+[bahaiprayers.net 13646](https://bahaiprayers.net/Book/Single/72/13646)
+
 
 ----
 
@@ -1478,7 +1847,10 @@ bpn13646
 
 -- Abdu'l-Bahá
 
-bpn13647 
+Prayer bpn13647 in Lëtzebuergesch (bpn13647) 
+
+[bahaiprayers.net 13647](https://bahaiprayers.net/Book/Single/72/13647)
+
 
 ----
 
@@ -1488,7 +1860,10 @@ bpn13647
 
 -- Abdu'l-Bahá
 
-bpn13648 
+Prayer bpn13648 in Lëtzebuergesch (bpn13648) 
+
+[bahaiprayers.net 13648](https://bahaiprayers.net/Book/Single/72/13648)
+
 
 ----
 
@@ -1498,7 +1873,10 @@ bpn13648
 
 -- Abdu'l-Bahá
 
-bpn13649 
+Prayer bpn13649 in Lëtzebuergesch (bpn13649) 
+
+[bahaiprayers.net 13649](https://bahaiprayers.net/Book/Single/72/13649)
+
 
 ----
 
@@ -1512,7 +1890,10 @@ bpn13649
 
 -- Báb
 
-bpn13650 
+Prayer bpn13650 in Lëtzebuergesch (bpn13650) 
+
+[bahaiprayers.net 13650](https://bahaiprayers.net/Book/Single/72/13650)
+
 
 ----
 
@@ -1522,7 +1903,10 @@ bpn13650
 
 -- Báb
 
-bpn13651 
+Prayer bpn13651 in Lëtzebuergesch (bpn13651) 
+
+[bahaiprayers.net 13651](https://bahaiprayers.net/Book/Single/72/13651)
+
 
 ----
 
@@ -1532,7 +1916,10 @@ bpn13651
 
 -- Abdu'l-Bahá
 
-bpn13652 
+Prayer bpn13652 in Lëtzebuergesch (bpn13652) 
+
+[bahaiprayers.net 13652](https://bahaiprayers.net/Book/Single/72/13652)
+
 
 ----
 

@@ -88,7 +88,10 @@ tags = ['lang=da', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn8148 
+Prayer bpn8148 in Dansk (bpn8148) 
+
+[bahaiprayers.net 8148](https://bahaiprayers.net/Book/Single/58/8148)
+
 
 ----
 
@@ -102,7 +105,10 @@ bpn8148
 
 -- Bahá'u'lláh
 
-bpn8006 
+Prayer bpn8006 in Dansk (bpn8006) 
+
+[bahaiprayers.net 8006](https://bahaiprayers.net/Book/Single/58/8006)
+
 
 ----
 
@@ -112,7 +118,10 @@ bpn8006
 
 -- Bahá'u'lláh
 
-bpn8007 
+Prayer bpn8007 in Dansk (bpn8007) 
+
+[bahaiprayers.net 8007](https://bahaiprayers.net/Book/Single/58/8007)
+
 
 ----
 
@@ -122,7 +131,10 @@ bpn8007
 
 -- Abdu'l-Bahá
 
-bpn8008 
+Prayer bpn8008 in Dansk (bpn8008) 
+
+[bahaiprayers.net 8008](https://bahaiprayers.net/Book/Single/58/8008)
+
 
 ----
 
@@ -136,7 +148,10 @@ bpn8008
 
 -- Bahá'u'lláh
 
-bpn8009 
+Prayer bpn8009 in Dansk (bpn8009) 
+
+[bahaiprayers.net 8009](https://bahaiprayers.net/Book/Single/58/8009)
+
 
 ----
 
@@ -146,7 +161,10 @@ bpn8009
 
 -- Bahá'u'lláh
 
-bpn8010 
+Prayer bpn8010 in Dansk (bpn8010) 
+
+[bahaiprayers.net 8010](https://bahaiprayers.net/Book/Single/58/8010)
+
 
 ----
 
@@ -156,7 +174,10 @@ bpn8010
 
 -- Bahá'u'lláh
 
-bpn8011 
+Prayer bpn8011 in Dansk (bpn8011) 
+
+[bahaiprayers.net 8011](https://bahaiprayers.net/Book/Single/58/8011)
+
 
 ----
 
@@ -166,7 +187,10 @@ bpn8011
 
 -- Bahá'u'lláh
 
-bpn8012 
+Prayer bpn8012 in Dansk (bpn8012) 
+
+[bahaiprayers.net 8012](https://bahaiprayers.net/Book/Single/58/8012)
+
 
 ----
 
@@ -176,7 +200,10 @@ bpn8012
 
 -- Báb
 
-bpn8013 
+Prayer bpn8013 in Dansk (bpn8013) 
+
+[bahaiprayers.net 8013](https://bahaiprayers.net/Book/Single/58/8013)
+
 
 ----
 
@@ -186,7 +213,10 @@ bpn8013
 
 -- Báb
 
-bpn8014 
+Prayer bpn8014 in Dansk (bpn8014) 
+
+[bahaiprayers.net 8014](https://bahaiprayers.net/Book/Single/58/8014)
+
 
 ----
 
@@ -196,7 +226,10 @@ bpn8014
 
 -- Báb
 
-bpn8015 
+Prayer bpn8015 in Dansk (bpn8015) 
+
+[bahaiprayers.net 8015](https://bahaiprayers.net/Book/Single/58/8015)
+
 
 ----
 
@@ -206,7 +239,10 @@ bpn8015
 
 -- Abdu'l-Bahá
 
-bpn8029 
+Prayer bpn8029 in Dansk (bpn8029) 
+
+[bahaiprayers.net 8029](https://bahaiprayers.net/Book/Single/58/8029)
+
 
 ----
 
@@ -216,7 +252,10 @@ bpn8029
 
 -- Abdu'l-Bahá
 
-bpn8030 
+Prayer bpn8030 in Dansk (bpn8030) 
+
+[bahaiprayers.net 8030](https://bahaiprayers.net/Book/Single/58/8030)
+
 
 ----
 
@@ -230,7 +269,10 @@ bpn8030
 
 -- Bahá'u'lláh
 
-bpn8150 
+Prayer bpn8150 in Dansk (bpn8150) 
+
+[bahaiprayers.net 8150](https://bahaiprayers.net/Book/Single/58/8150)
+
 
 ----
 
@@ -240,7 +282,10 @@ bpn8150
 
 -- Abdu'l-Bahá
 
-bpn8151 
+Prayer bpn8151 in Dansk (bpn8151) 
+
+[bahaiprayers.net 8151](https://bahaiprayers.net/Book/Single/58/8151)
+
 
 ----
 
@@ -254,7 +299,10 @@ bpn8151
 
 -- Bahá'u'lláh
 
-bpn8149 
+Prayer bpn8149 in Dansk (bpn8149) 
+
+[bahaiprayers.net 8149](https://bahaiprayers.net/Book/Single/58/8149)
+
 
 ----
 
@@ -268,7 +316,10 @@ bpn8149
 
 -- Abdu'l-Bahá
 
-bpn8154 
+Prayer bpn8154 in Dansk (bpn8154) 
+
+[bahaiprayers.net 8154](https://bahaiprayers.net/Book/Single/58/8154)
+
 
 ----
 
@@ -278,7 +329,10 @@ bpn8154
 
 -- Abdu'l-Bahá
 
-bpn8155 
+Prayer bpn8155 in Dansk (bpn8155) 
+
+[bahaiprayers.net 8155](https://bahaiprayers.net/Book/Single/58/8155)
+
 
 ----
 
@@ -288,7 +342,10 @@ bpn8155
 
 -- Abdu'l-Bahá
 
-bpn8156 
+Prayer bpn8156 in Dansk (bpn8156) 
+
+[bahaiprayers.net 8156](https://bahaiprayers.net/Book/Single/58/8156)
+
 
 ----
 
@@ -298,7 +355,10 @@ bpn8156
 
 -- Abdu'l-Bahá
 
-bpn8157 
+Prayer bpn8157 in Dansk (bpn8157) 
+
+[bahaiprayers.net 8157](https://bahaiprayers.net/Book/Single/58/8157)
+
 
 ----
 
@@ -308,7 +368,10 @@ bpn8157
 
 -- Abdu'l-Bahá
 
-bpn8158 
+Prayer bpn8158 in Dansk (bpn8158) 
+
+[bahaiprayers.net 8158](https://bahaiprayers.net/Book/Single/58/8158)
+
 
 ----
 
@@ -318,7 +381,10 @@ bpn8158
 
 -- Abdu'l-Bahá
 
-bpn8159 
+Prayer bpn8159 in Dansk (bpn8159) 
+
+[bahaiprayers.net 8159](https://bahaiprayers.net/Book/Single/58/8159)
+
 
 ----
 
@@ -328,7 +394,10 @@ bpn8159
 
 -- Abdu'l-Bahá
 
-bpn8160 
+Prayer bpn8160 in Dansk (bpn8160) 
+
+[bahaiprayers.net 8160](https://bahaiprayers.net/Book/Single/58/8160)
+
 
 ----
 
@@ -338,7 +407,10 @@ bpn8160
 
 -- Abdu'l-Bahá
 
-bpn8161 
+Prayer bpn8161 in Dansk (bpn8161) 
+
+[bahaiprayers.net 8161](https://bahaiprayers.net/Book/Single/58/8161)
+
 
 ----
 
@@ -348,7 +420,10 @@ bpn8161
 
 -- Abdu'l-Bahá
 
-bpn8162 
+Prayer bpn8162 in Dansk (bpn8162) 
+
+[bahaiprayers.net 8162](https://bahaiprayers.net/Book/Single/58/8162)
+
 
 ----
 
@@ -358,7 +433,10 @@ bpn8162
 
 -- Abdu'l-Bahá
 
-bpn8163 
+Prayer bpn8163 in Dansk (bpn8163) 
+
+[bahaiprayers.net 8163](https://bahaiprayers.net/Book/Single/58/8163)
+
 
 ----
 
@@ -372,7 +450,10 @@ bpn8163
 
 -- Bahá'u'lláh
 
-bpn8031 
+Prayer bpn8031 in Dansk (bpn8031) 
+
+[bahaiprayers.net 8031](https://bahaiprayers.net/Book/Single/58/8031)
+
 
 ----
 
@@ -382,7 +463,10 @@ bpn8031
 
 -- Abdu'l-Bahá
 
-bpn8032 
+Prayer bpn8032 in Dansk (bpn8032) 
+
+[bahaiprayers.net 8032](https://bahaiprayers.net/Book/Single/58/8032)
+
 
 ----
 
@@ -392,7 +476,10 @@ bpn8032
 
 -- Abdu'l-Bahá
 
-bpn8033 
+Prayer bpn8033 in Dansk (bpn8033) 
+
+[bahaiprayers.net 8033](https://bahaiprayers.net/Book/Single/58/8033)
+
 
 ----
 
@@ -402,7 +489,10 @@ bpn8033
 
 -- Abdu'l-Bahá
 
-bpn8034 
+Prayer bpn8034 in Dansk (bpn8034) 
+
+[bahaiprayers.net 8034](https://bahaiprayers.net/Book/Single/58/8034)
+
 
 ----
 
@@ -412,7 +502,10 @@ bpn8034
 
 -- Abdu'l-Bahá
 
-bpn8035 
+Prayer bpn8035 in Dansk (bpn8035) 
+
+[bahaiprayers.net 8035](https://bahaiprayers.net/Book/Single/58/8035)
+
 
 ----
 
@@ -422,7 +515,10 @@ bpn8035
 
 -- Abdu'l-Bahá
 
-bpn8036 
+Prayer bpn8036 in Dansk (bpn8036) 
+
+[bahaiprayers.net 8036](https://bahaiprayers.net/Book/Single/58/8036)
+
 
 ----
 
@@ -432,7 +528,10 @@ bpn8036
 
 -- Abdu'l-Bahá
 
-bpn8037 
+Prayer bpn8037 in Dansk (bpn8037) 
+
+[bahaiprayers.net 8037](https://bahaiprayers.net/Book/Single/58/8037)
+
 
 ----
 
@@ -442,7 +541,10 @@ bpn8037
 
 -- Abdu'l-Bahá
 
-bpn8038 
+Prayer bpn8038 in Dansk (bpn8038) 
+
+[bahaiprayers.net 8038](https://bahaiprayers.net/Book/Single/58/8038)
+
 
 ----
 
@@ -452,7 +554,10 @@ bpn8038
 
 -- Abdu'l-Bahá
 
-bpn8039 
+Prayer bpn8039 in Dansk (bpn8039) 
+
+[bahaiprayers.net 8039](https://bahaiprayers.net/Book/Single/58/8039)
+
 
 ----
 
@@ -462,7 +567,10 @@ bpn8039
 
 -- Abdu'l-Bahá
 
-bpn8040 
+Prayer bpn8040 in Dansk (bpn8040) 
+
+[bahaiprayers.net 8040](https://bahaiprayers.net/Book/Single/58/8040)
+
 
 ----
 
@@ -476,7 +584,10 @@ bpn8040
 
 -- Bahá'u'lláh
 
-bpn8041 
+Prayer bpn8041 in Dansk (bpn8041) 
+
+[bahaiprayers.net 8041](https://bahaiprayers.net/Book/Single/58/8041)
+
 
 ----
 
@@ -486,7 +597,10 @@ bpn8041
 
 -- Bahá'u'lláh
 
-bpn8042 
+Prayer bpn8042 in Dansk (bpn8042) 
+
+[bahaiprayers.net 8042](https://bahaiprayers.net/Book/Single/58/8042)
+
 
 ----
 
@@ -496,7 +610,10 @@ bpn8042
 
 -- Abdu'l-Bahá
 
-bpn8043 
+Prayer bpn8043 in Dansk (bpn8043) 
+
+[bahaiprayers.net 8043](https://bahaiprayers.net/Book/Single/58/8043)
+
 
 ----
 
@@ -506,7 +623,10 @@ bpn8043
 
 -- Abdu'l-Bahá
 
-bpn8044 
+Prayer bpn8044 in Dansk (bpn8044) 
+
+[bahaiprayers.net 8044](https://bahaiprayers.net/Book/Single/58/8044)
+
 
 ----
 
@@ -520,7 +640,10 @@ bpn8044
 
 -- Bahá'u'lláh
 
-bpn8169 
+Prayer bpn8169 in Dansk (bpn8169) 
+
+[bahaiprayers.net 8169](https://bahaiprayers.net/Book/Single/58/8169)
+
 
 ----
 
@@ -534,7 +657,10 @@ bpn8169
 
 -- Bahá'u'lláh
 
-bpn8045 
+Prayer bpn8045 in Dansk (bpn8045) 
+
+[bahaiprayers.net 8045](https://bahaiprayers.net/Book/Single/58/8045)
+
 
 ----
 
@@ -544,7 +670,10 @@ bpn8045
 
 -- Abdu'l-Bahá
 
-bpn8046 
+Prayer bpn8046 in Dansk (bpn8046) 
+
+[bahaiprayers.net 8046](https://bahaiprayers.net/Book/Single/58/8046)
+
 
 ----
 
@@ -558,7 +687,10 @@ bpn8046
 
 -- Báb
 
-bpn8047 
+Prayer bpn8047 in Dansk (bpn8047) 
+
+[bahaiprayers.net 8047](https://bahaiprayers.net/Book/Single/58/8047)
+
 
 ----
 
@@ -568,7 +700,10 @@ bpn8047
 
 -- Báb
 
-bpn8048 
+Prayer bpn8048 in Dansk (bpn8048) 
+
+[bahaiprayers.net 8048](https://bahaiprayers.net/Book/Single/58/8048)
+
 
 ----
 
@@ -578,7 +713,10 @@ bpn8048
 
 -- Abdu'l-Bahá
 
-bpn8049 
+Prayer bpn8049 in Dansk (bpn8049) 
+
+[bahaiprayers.net 8049](https://bahaiprayers.net/Book/Single/58/8049)
+
 
 ----
 
@@ -588,7 +726,10 @@ bpn8049
 
 -- Abdu'l-Bahá
 
-bpn8050 
+Prayer bpn8050 in Dansk (bpn8050) 
+
+[bahaiprayers.net 8050](https://bahaiprayers.net/Book/Single/58/8050)
+
 
 ----
 
@@ -598,7 +739,10 @@ bpn8050
 
 -- Abdu'l-Bahá
 
-bpn8051 
+Prayer bpn8051 in Dansk (bpn8051) 
+
+[bahaiprayers.net 8051](https://bahaiprayers.net/Book/Single/58/8051)
+
 
 ----
 
@@ -612,7 +756,10 @@ bpn8051
 
 -- Bahá'u'lláh
 
-bpn8181 
+Prayer bpn8181 in Dansk (bpn8181) 
+
+[bahaiprayers.net 8181](https://bahaiprayers.net/Book/Single/58/8181)
+
 
 ----
 
@@ -622,7 +769,10 @@ bpn8181
 
 -- Bahá'u'lláh
 
-bpn8182 
+Prayer bpn8182 in Dansk (bpn8182) 
+
+[bahaiprayers.net 8182](https://bahaiprayers.net/Book/Single/58/8182)
+
 
 ----
 
@@ -632,7 +782,10 @@ bpn8182
 
 -- Bahá'u'lláh
 
-bpn8183 
+Prayer bpn8183 in Dansk (bpn8183) 
+
+[bahaiprayers.net 8183](https://bahaiprayers.net/Book/Single/58/8183)
+
 
 ----
 
@@ -646,7 +799,10 @@ bpn8183
 
 -- Abdu'l-Bahá
 
-bpn8153 
+Prayer bpn8153 in Dansk (bpn8153) 
+
+[bahaiprayers.net 8153](https://bahaiprayers.net/Book/Single/58/8153)
+
 
 ----
 
@@ -660,7 +816,10 @@ bpn8153
 
 -- Bahá'u'lláh
 
-bpn8152 
+Prayer bpn8152 in Dansk (bpn8152) 
+
+[bahaiprayers.net 8152](https://bahaiprayers.net/Book/Single/58/8152)
+
 
 ----
 
@@ -674,7 +833,10 @@ bpn8152
 
 -- Bahá'u'lláh
 
-bpn8052 
+Prayer bpn8052 in Dansk (bpn8052) 
+
+[bahaiprayers.net 8052](https://bahaiprayers.net/Book/Single/58/8052)
+
 
 ----
 
@@ -684,7 +846,10 @@ bpn8052
 
 -- Bahá'u'lláh
 
-bpn8053 
+Prayer bpn8053 in Dansk (bpn8053) 
+
+[bahaiprayers.net 8053](https://bahaiprayers.net/Book/Single/58/8053)
+
 
 ----
 
@@ -694,7 +859,10 @@ bpn8053
 
 -- Bahá'u'lláh
 
-bpn8054 
+Prayer bpn8054 in Dansk (bpn8054) 
+
+[bahaiprayers.net 8054](https://bahaiprayers.net/Book/Single/58/8054)
+
 
 ----
 
@@ -704,7 +872,10 @@ bpn8054
 
 -- Bahá'u'lláh
 
-bpn8055 
+Prayer bpn8055 in Dansk (bpn8055) 
+
+[bahaiprayers.net 8055](https://bahaiprayers.net/Book/Single/58/8055)
+
 
 ----
 
@@ -714,7 +885,10 @@ bpn8055
 
 -- Bahá'u'lláh
 
-bpn8056 
+Prayer bpn8056 in Dansk (bpn8056) 
+
+[bahaiprayers.net 8056](https://bahaiprayers.net/Book/Single/58/8056)
+
 
 ----
 
@@ -724,7 +898,10 @@ bpn8056
 
 -- Bahá'u'lláh
 
-bpn8057 
+Prayer bpn8057 in Dansk (bpn8057) 
+
+[bahaiprayers.net 8057](https://bahaiprayers.net/Book/Single/58/8057)
+
 
 ----
 
@@ -734,7 +911,10 @@ bpn8057
 
 -- Báb
 
-bpn8058 
+Prayer bpn8058 in Dansk (bpn8058) 
+
+[bahaiprayers.net 8058](https://bahaiprayers.net/Book/Single/58/8058)
+
 
 ----
 
@@ -744,7 +924,10 @@ bpn8058
 
 -- Báb
 
-bpn8059 
+Prayer bpn8059 in Dansk (bpn8059) 
+
+[bahaiprayers.net 8059](https://bahaiprayers.net/Book/Single/58/8059)
+
 
 ----
 
@@ -754,7 +937,10 @@ bpn8059
 
 -- Abdu'l-Bahá
 
-bpn8060 
+Prayer bpn8060 in Dansk (bpn8060) 
+
+[bahaiprayers.net 8060](https://bahaiprayers.net/Book/Single/58/8060)
+
 
 ----
 
@@ -764,7 +950,10 @@ bpn8060
 
 -- Abdu'l-Bahá
 
-bpn8061 
+Prayer bpn8061 in Dansk (bpn8061) 
+
+[bahaiprayers.net 8061](https://bahaiprayers.net/Book/Single/58/8061)
+
 
 ----
 
@@ -778,7 +967,10 @@ bpn8061
 
 -- Bahá'u'lláh
 
-bpn8062 
+Prayer bpn8062 in Dansk (bpn8062) 
+
+[bahaiprayers.net 8062](https://bahaiprayers.net/Book/Single/58/8062)
+
 
 ----
 
@@ -788,7 +980,10 @@ bpn8062
 
 -- Bahá'u'lláh
 
-bpn8063 
+Prayer bpn8063 in Dansk (bpn8063) 
+
+[bahaiprayers.net 8063](https://bahaiprayers.net/Book/Single/58/8063)
+
 
 ----
 
@@ -798,7 +993,10 @@ bpn8063
 
 -- Bahá'u'lláh
 
-bpn8064 
+Prayer bpn8064 in Dansk (bpn8064) 
+
+[bahaiprayers.net 8064](https://bahaiprayers.net/Book/Single/58/8064)
+
 
 ----
 
@@ -808,7 +1006,10 @@ bpn8064
 
 -- Bahá'u'lláh
 
-bpn8065 
+Prayer bpn8065 in Dansk (bpn8065) 
+
+[bahaiprayers.net 8065](https://bahaiprayers.net/Book/Single/58/8065)
+
 
 ----
 
@@ -818,7 +1019,10 @@ bpn8065
 
 -- Bahá'u'lláh
 
-bpn8066 
+Prayer bpn8066 in Dansk (bpn8066) 
+
+[bahaiprayers.net 8066](https://bahaiprayers.net/Book/Single/58/8066)
+
 
 ----
 
@@ -832,7 +1036,10 @@ bpn8066
 
 -- Bahá'u'lláh
 
-bpn8067 
+Prayer bpn8067 in Dansk (bpn8067) 
+
+[bahaiprayers.net 8067](https://bahaiprayers.net/Book/Single/58/8067)
+
 
 ----
 
@@ -842,7 +1049,10 @@ bpn8067
 
 -- Bahá'u'lláh
 
-bpn8068 
+Prayer bpn8068 in Dansk (bpn8068) 
+
+[bahaiprayers.net 8068](https://bahaiprayers.net/Book/Single/58/8068)
+
 
 ----
 
@@ -852,7 +1062,10 @@ bpn8068
 
 -- Báb
 
-bpn8069 
+Prayer bpn8069 in Dansk (bpn8069) 
+
+[bahaiprayers.net 8069](https://bahaiprayers.net/Book/Single/58/8069)
+
 
 ----
 
@@ -862,7 +1075,10 @@ bpn8069
 
 -- Báb
 
-bpn8070 
+Prayer bpn8070 in Dansk (bpn8070) 
+
+[bahaiprayers.net 8070](https://bahaiprayers.net/Book/Single/58/8070)
+
 
 ----
 
@@ -872,7 +1088,10 @@ bpn8070
 
 -- Abdu'l-Bahá
 
-bpn8071 
+Prayer bpn8071 in Dansk (bpn8071) 
+
+[bahaiprayers.net 8071](https://bahaiprayers.net/Book/Single/58/8071)
+
 
 ----
 
@@ -882,7 +1101,10 @@ bpn8071
 
 -- Abdu'l-Bahá
 
-bpn8072 
+Prayer bpn8072 in Dansk (bpn8072) 
+
+[bahaiprayers.net 8072](https://bahaiprayers.net/Book/Single/58/8072)
+
 
 ----
 
@@ -892,7 +1114,10 @@ bpn8072
 
 -- Abdu'l-Bahá
 
-bpn8073 
+Prayer bpn8073 in Dansk (bpn8073) 
+
+[bahaiprayers.net 8073](https://bahaiprayers.net/Book/Single/58/8073)
+
 
 ----
 
@@ -906,7 +1131,10 @@ bpn8073
 
 -- Bahá'u'lláh
 
-bpn8180 
+Prayer bpn8180 in Dansk (bpn8180) 
+
+[bahaiprayers.net 8180](https://bahaiprayers.net/Book/Single/58/8180)
+
 
 ----
 
@@ -920,7 +1148,10 @@ bpn8180
 
 -- Bahá'u'lláh
 
-bpn8145 
+Prayer bpn8145 in Dansk (bpn8145) 
+
+[bahaiprayers.net 8145](https://bahaiprayers.net/Book/Single/58/8145)
+
 
 ----
 
@@ -934,7 +1165,10 @@ bpn8145
 
 -- Bahá'u'lláh
 
-bpn8185 
+Prayer bpn8185 in Dansk (bpn8185) 
+
+[bahaiprayers.net 8185](https://bahaiprayers.net/Book/Single/58/8185)
+
 
 ----
 
@@ -948,7 +1182,10 @@ bpn8185
 
 -- Bahá'u'lláh
 
-bpn8147 
+Prayer bpn8147 in Dansk (bpn8147) 
+
+[bahaiprayers.net 8147](https://bahaiprayers.net/Book/Single/58/8147)
+
 
 ----
 
@@ -962,7 +1199,10 @@ bpn8147
 
 -- Bahá'u'lláh
 
-bpn8074 
+Prayer bpn8074 in Dansk (bpn8074) 
+
+[bahaiprayers.net 8074](https://bahaiprayers.net/Book/Single/58/8074)
+
 
 ----
 
@@ -972,7 +1212,10 @@ bpn8074
 
 -- Bahá'u'lláh
 
-bpn8076 
+Prayer bpn8076 in Dansk (bpn8076) 
+
+[bahaiprayers.net 8076](https://bahaiprayers.net/Book/Single/58/8076)
+
 
 ----
 
@@ -982,7 +1225,10 @@ bpn8076
 
 -- Bahá'u'lláh
 
-bpn13760 
+Prayer bpn13760 in Dansk (bpn13760) 
+
+[bahaiprayers.net 13760](https://bahaiprayers.net/Book/Single/58/13760)
+
 
 ----
 
@@ -992,7 +1238,10 @@ bpn13760
 
 -- Bahá'u'lláh
 
-bpn13761 
+Prayer bpn13761 in Dansk (bpn13761) 
+
+[bahaiprayers.net 13761](https://bahaiprayers.net/Book/Single/58/13761)
+
 
 ----
 
@@ -1002,7 +1251,10 @@ bpn13761
 
 -- Báb
 
-bpn8077 
+Prayer bpn8077 in Dansk (bpn8077) 
+
+[bahaiprayers.net 8077](https://bahaiprayers.net/Book/Single/58/8077)
+
 
 ----
 
@@ -1012,7 +1264,10 @@ bpn8077
 
 -- Abdu'l-Bahá
 
-bpn8075 
+Prayer bpn8075 in Dansk (bpn8075) 
+
+[bahaiprayers.net 8075](https://bahaiprayers.net/Book/Single/58/8075)
+
 
 ----
 
@@ -1026,7 +1281,10 @@ bpn8075
 
 -- Bahá'u'lláh
 
-bpn8078 
+Prayer bpn8078 in Dansk (bpn8078) 
+
+[bahaiprayers.net 8078](https://bahaiprayers.net/Book/Single/58/8078)
+
 
 ----
 
@@ -1036,7 +1294,10 @@ bpn8078
 
 -- Abdu'l-Bahá
 
-bpn8079 
+Prayer bpn8079 in Dansk (bpn8079) 
+
+[bahaiprayers.net 8079](https://bahaiprayers.net/Book/Single/58/8079)
+
 
 ----
 
@@ -1046,7 +1307,10 @@ bpn8079
 
 -- Abdu'l-Bahá
 
-bpn8080 
+Prayer bpn8080 in Dansk (bpn8080) 
+
+[bahaiprayers.net 8080](https://bahaiprayers.net/Book/Single/58/8080)
+
 
 ----
 
@@ -1056,7 +1320,10 @@ bpn8080
 
 -- Abdu'l-Bahá
 
-bpn8081 
+Prayer bpn8081 in Dansk (bpn8081) 
+
+[bahaiprayers.net 8081](https://bahaiprayers.net/Book/Single/58/8081)
+
 
 ----
 
@@ -1070,7 +1337,10 @@ bpn8081
 
 -- Bahá'u'lláh
 
-bpn8146 
+Prayer bpn8146 in Dansk (bpn8146) 
+
+[bahaiprayers.net 8146](https://bahaiprayers.net/Book/Single/58/8146)
+
 
 ----
 
@@ -1084,7 +1354,10 @@ bpn8146
 
 -- Bahá'u'lláh
 
-bpn8082 
+Prayer bpn8082 in Dansk (bpn8082) 
+
+[bahaiprayers.net 8082](https://bahaiprayers.net/Book/Single/58/8082)
+
 
 ----
 
@@ -1094,7 +1367,10 @@ bpn8082
 
 -- Bahá'u'lláh
 
-bpn8083 
+Prayer bpn8083 in Dansk (bpn8083) 
+
+[bahaiprayers.net 8083](https://bahaiprayers.net/Book/Single/58/8083)
+
 
 ----
 
@@ -1104,7 +1380,10 @@ bpn8083
 
 -- Bahá'u'lláh
 
-bpn8084 
+Prayer bpn8084 in Dansk (bpn8084) 
+
+[bahaiprayers.net 8084](https://bahaiprayers.net/Book/Single/58/8084)
+
 
 ----
 
@@ -1114,7 +1393,10 @@ bpn8084
 
 -- Bahá'u'lláh
 
-bpn8085 
+Prayer bpn8085 in Dansk (bpn8085) 
+
+[bahaiprayers.net 8085](https://bahaiprayers.net/Book/Single/58/8085)
+
 
 ----
 
@@ -1128,7 +1410,10 @@ bpn8085
 
 -- Bahá'u'lláh
 
-bpn8086 
+Prayer bpn8086 in Dansk (bpn8086) 
+
+[bahaiprayers.net 8086](https://bahaiprayers.net/Book/Single/58/8086)
+
 
 ----
 
@@ -1138,7 +1423,10 @@ bpn8086
 
 -- Abdu'l-Bahá
 
-bpn8087 
+Prayer bpn8087 in Dansk (bpn8087) 
+
+[bahaiprayers.net 8087](https://bahaiprayers.net/Book/Single/58/8087)
+
 
 ----
 
@@ -1148,7 +1436,10 @@ bpn8087
 
 -- Abdu'l-Bahá
 
-bpn8088 
+Prayer bpn8088 in Dansk (bpn8088) 
+
+[bahaiprayers.net 8088](https://bahaiprayers.net/Book/Single/58/8088)
+
 
 ----
 
@@ -1158,7 +1449,10 @@ bpn8088
 
 -- Abdu'l-Bahá
 
-bpn8089 
+Prayer bpn8089 in Dansk (bpn8089) 
+
+[bahaiprayers.net 8089](https://bahaiprayers.net/Book/Single/58/8089)
+
 
 ----
 
@@ -1168,7 +1462,10 @@ bpn8089
 
 -- Abdu'l-Bahá
 
-bpn8090 
+Prayer bpn8090 in Dansk (bpn8090) 
+
+[bahaiprayers.net 8090](https://bahaiprayers.net/Book/Single/58/8090)
+
 
 ----
 
@@ -1178,7 +1475,10 @@ bpn8090
 
 -- Abdu'l-Bahá
 
-bpn8091 
+Prayer bpn8091 in Dansk (bpn8091) 
+
+[bahaiprayers.net 8091](https://bahaiprayers.net/Book/Single/58/8091)
+
 
 ----
 
@@ -1192,7 +1492,10 @@ bpn8091
 
 -- Bahá'u'lláh
 
-bpn8184 
+Prayer bpn8184 in Dansk (bpn8184) 
+
+[bahaiprayers.net 8184](https://bahaiprayers.net/Book/Single/58/8184)
+
 
 ----
 
@@ -1206,7 +1509,10 @@ bpn8184
 
 -- Bahá'u'lláh
 
-bpn8164 
+Prayer bpn8164 in Dansk (bpn8164) 
+
+[bahaiprayers.net 8164](https://bahaiprayers.net/Book/Single/58/8164)
+
 
 ----
 
@@ -1216,7 +1522,10 @@ bpn8164
 
 -- Bahá'u'lláh
 
-bpn8165 
+Prayer bpn8165 in Dansk (bpn8165) 
+
+[bahaiprayers.net 8165](https://bahaiprayers.net/Book/Single/58/8165)
+
 
 ----
 
@@ -1226,7 +1535,10 @@ bpn8165
 
 -- Abdu'l-Bahá
 
-bpn8166 
+Prayer bpn8166 in Dansk (bpn8166) 
+
+[bahaiprayers.net 8166](https://bahaiprayers.net/Book/Single/58/8166)
+
 
 ----
 
@@ -1236,7 +1548,10 @@ bpn8166
 
 -- Abdu'l-Bahá
 
-bpn8167 
+Prayer bpn8167 in Dansk (bpn8167) 
+
+[bahaiprayers.net 8167](https://bahaiprayers.net/Book/Single/58/8167)
+
 
 ----
 
@@ -1246,7 +1561,10 @@ bpn8167
 
 -- Abdu'l-Bahá
 
-bpn8168 
+Prayer bpn8168 in Dansk (bpn8168) 
+
+[bahaiprayers.net 8168](https://bahaiprayers.net/Book/Single/58/8168)
+
 
 ----
 
@@ -1260,7 +1578,10 @@ bpn8168
 
 -- Bahá'u'lláh
 
-bpn8092 
+Prayer bpn8092 in Dansk (bpn8092) 
+
+[bahaiprayers.net 8092](https://bahaiprayers.net/Book/Single/58/8092)
+
 
 ----
 
@@ -1270,7 +1591,10 @@ bpn8092
 
 -- Bahá'u'lláh
 
-bpn8093 
+Prayer bpn8093 in Dansk (bpn8093) 
+
+[bahaiprayers.net 8093](https://bahaiprayers.net/Book/Single/58/8093)
+
 
 ----
 
@@ -1280,7 +1604,10 @@ bpn8093
 
 -- Bahá'u'lláh
 
-bpn8094 
+Prayer bpn8094 in Dansk (bpn8094) 
+
+[bahaiprayers.net 8094](https://bahaiprayers.net/Book/Single/58/8094)
+
 
 ----
 
@@ -1290,7 +1617,10 @@ bpn8094
 
 -- Bahá'u'lláh
 
-bpn8095 
+Prayer bpn8095 in Dansk (bpn8095) 
+
+[bahaiprayers.net 8095](https://bahaiprayers.net/Book/Single/58/8095)
+
 
 ----
 
@@ -1300,7 +1630,10 @@ bpn8095
 
 -- Bahá'u'lláh
 
-bpn8096 
+Prayer bpn8096 in Dansk (bpn8096) 
+
+[bahaiprayers.net 8096](https://bahaiprayers.net/Book/Single/58/8096)
+
 
 ----
 
@@ -1310,7 +1643,10 @@ bpn8096
 
 -- Báb
 
-bpn8097 
+Prayer bpn8097 in Dansk (bpn8097) 
+
+[bahaiprayers.net 8097](https://bahaiprayers.net/Book/Single/58/8097)
+
 
 ----
 
@@ -1320,7 +1656,10 @@ bpn8097
 
 -- Báb
 
-bpn8098 
+Prayer bpn8098 in Dansk (bpn8098) 
+
+[bahaiprayers.net 8098](https://bahaiprayers.net/Book/Single/58/8098)
+
 
 ----
 
@@ -1330,7 +1669,10 @@ bpn8098
 
 -- Báb
 
-bpn8099 
+Prayer bpn8099 in Dansk (bpn8099) 
+
+[bahaiprayers.net 8099](https://bahaiprayers.net/Book/Single/58/8099)
+
 
 ----
 
@@ -1340,7 +1682,10 @@ bpn8099
 
 -- Báb
 
-bpn8100 
+Prayer bpn8100 in Dansk (bpn8100) 
+
+[bahaiprayers.net 8100](https://bahaiprayers.net/Book/Single/58/8100)
+
 
 ----
 
@@ -1350,7 +1695,10 @@ bpn8100
 
 -- Báb
 
-bpn8101 
+Prayer bpn8101 in Dansk (bpn8101) 
+
+[bahaiprayers.net 8101](https://bahaiprayers.net/Book/Single/58/8101)
+
 
 ----
 
@@ -1360,7 +1708,10 @@ bpn8101
 
 -- Abdu'l-Bahá
 
-bpn8102 
+Prayer bpn8102 in Dansk (bpn8102) 
+
+[bahaiprayers.net 8102](https://bahaiprayers.net/Book/Single/58/8102)
+
 
 ----
 
@@ -1370,7 +1721,10 @@ bpn8102
 
 -- Abdu'l-Bahá
 
-bpn8103 
+Prayer bpn8103 in Dansk (bpn8103) 
+
+[bahaiprayers.net 8103](https://bahaiprayers.net/Book/Single/58/8103)
+
 
 ----
 
@@ -1380,7 +1734,10 @@ bpn8103
 
 -- Abdu'l-Bahá
 
-bpn8104 
+Prayer bpn8104 in Dansk (bpn8104) 
+
+[bahaiprayers.net 8104](https://bahaiprayers.net/Book/Single/58/8104)
+
 
 ----
 
@@ -1394,7 +1751,10 @@ bpn8104
 
 -- Bahá'u'lláh
 
-bpn8105 
+Prayer bpn8105 in Dansk (bpn8105) 
+
+[bahaiprayers.net 8105](https://bahaiprayers.net/Book/Single/58/8105)
+
 
 ----
 
@@ -1404,7 +1764,10 @@ bpn8105
 
 -- Bahá'u'lláh
 
-bpn8106 
+Prayer bpn8106 in Dansk (bpn8106) 
+
+[bahaiprayers.net 8106](https://bahaiprayers.net/Book/Single/58/8106)
+
 
 ----
 
@@ -1414,7 +1777,10 @@ bpn8106
 
 -- Bahá'u'lláh
 
-bpn8107 
+Prayer bpn8107 in Dansk (bpn8107) 
+
+[bahaiprayers.net 8107](https://bahaiprayers.net/Book/Single/58/8107)
+
 
 ----
 
@@ -1424,7 +1790,10 @@ bpn8107
 
 -- Báb
 
-bpn8108 
+Prayer bpn8108 in Dansk (bpn8108) 
+
+[bahaiprayers.net 8108](https://bahaiprayers.net/Book/Single/58/8108)
+
 
 ----
 
@@ -1434,7 +1803,10 @@ bpn8108
 
 -- Abdu'l-Bahá
 
-bpn8109 
+Prayer bpn8109 in Dansk (bpn8109) 
+
+[bahaiprayers.net 8109](https://bahaiprayers.net/Book/Single/58/8109)
+
 
 ----
 
@@ -1444,7 +1816,10 @@ bpn8109
 
 -- Abdu'l-Bahá
 
-bpn8110 
+Prayer bpn8110 in Dansk (bpn8110) 
+
+[bahaiprayers.net 8110](https://bahaiprayers.net/Book/Single/58/8110)
+
 
 ----
 
@@ -1458,7 +1833,10 @@ bpn8110
 
 -- Bahá'u'lláh
 
-bpn8111 
+Prayer bpn8111 in Dansk (bpn8111) 
+
+[bahaiprayers.net 8111](https://bahaiprayers.net/Book/Single/58/8111)
+
 
 ----
 
@@ -1468,7 +1846,10 @@ bpn8111
 
 -- Bahá'u'lláh
 
-bpn8112 
+Prayer bpn8112 in Dansk (bpn8112) 
+
+[bahaiprayers.net 8112](https://bahaiprayers.net/Book/Single/58/8112)
+
 
 ----
 
@@ -1478,7 +1859,10 @@ bpn8112
 
 -- Bahá'u'lláh
 
-bpn8113 
+Prayer bpn8113 in Dansk (bpn8113) 
+
+[bahaiprayers.net 8113](https://bahaiprayers.net/Book/Single/58/8113)
+
 
 ----
 
@@ -1488,7 +1872,10 @@ bpn8113
 
 -- Báb
 
-bpn8114 
+Prayer bpn8114 in Dansk (bpn8114) 
+
+[bahaiprayers.net 8114](https://bahaiprayers.net/Book/Single/58/8114)
+
 
 ----
 
@@ -1498,7 +1885,10 @@ bpn8114
 
 -- Báb
 
-bpn8115 
+Prayer bpn8115 in Dansk (bpn8115) 
+
+[bahaiprayers.net 8115](https://bahaiprayers.net/Book/Single/58/8115)
+
 
 ----
 
@@ -1508,7 +1898,10 @@ bpn8115
 
 -- Báb
 
-bpn8116 
+Prayer bpn8116 in Dansk (bpn8116) 
+
+[bahaiprayers.net 8116](https://bahaiprayers.net/Book/Single/58/8116)
+
 
 ----
 
@@ -1518,7 +1911,10 @@ bpn8116
 
 -- Báb
 
-bpn8117 
+Prayer bpn8117 in Dansk (bpn8117) 
+
+[bahaiprayers.net 8117](https://bahaiprayers.net/Book/Single/58/8117)
+
 
 ----
 
@@ -1528,7 +1924,10 @@ bpn8117
 
 -- Abdu'l-Bahá
 
-bpn8118 
+Prayer bpn8118 in Dansk (bpn8118) 
+
+[bahaiprayers.net 8118](https://bahaiprayers.net/Book/Single/58/8118)
+
 
 ----
 
@@ -1542,7 +1941,10 @@ bpn8118
 
 -- Bahá'u'lláh
 
-bpn8170 
+Prayer bpn8170 in Dansk (bpn8170) 
+
+[bahaiprayers.net 8170](https://bahaiprayers.net/Book/Single/58/8170)
+
 
 ----
 
@@ -1552,7 +1954,10 @@ bpn8170
 
 -- Báb
 
-bpn8171 
+Prayer bpn8171 in Dansk (bpn8171) 
+
+[bahaiprayers.net 8171](https://bahaiprayers.net/Book/Single/58/8171)
+
 
 ----
 
@@ -1562,7 +1967,10 @@ bpn8171
 
 -- Báb
 
-bpn8172 
+Prayer bpn8172 in Dansk (bpn8172) 
+
+[bahaiprayers.net 8172](https://bahaiprayers.net/Book/Single/58/8172)
+
 
 ----
 
@@ -1572,7 +1980,10 @@ bpn8172
 
 -- Báb
 
-bpn8173 
+Prayer bpn8173 in Dansk (bpn8173) 
+
+[bahaiprayers.net 8173](https://bahaiprayers.net/Book/Single/58/8173)
+
 
 ----
 
@@ -1582,7 +1993,10 @@ bpn8173
 
 -- Báb
 
-bpn8174 
+Prayer bpn8174 in Dansk (bpn8174) 
+
+[bahaiprayers.net 8174](https://bahaiprayers.net/Book/Single/58/8174)
+
 
 ----
 
@@ -1592,7 +2006,10 @@ bpn8174
 
 -- Abdu'l-Bahá
 
-bpn8175 
+Prayer bpn8175 in Dansk (bpn8175) 
+
+[bahaiprayers.net 8175](https://bahaiprayers.net/Book/Single/58/8175)
+
 
 ----
 
@@ -1602,7 +2019,10 @@ bpn8175
 
 -- Abdu'l-Bahá
 
-bpn8176 
+Prayer bpn8176 in Dansk (bpn8176) 
+
+[bahaiprayers.net 8176](https://bahaiprayers.net/Book/Single/58/8176)
+
 
 ----
 
@@ -1616,7 +2036,10 @@ bpn8176
 
 -- Bahá'u'lláh
 
-bpn8119 
+Prayer bpn8119 in Dansk (bpn8119) 
+
+[bahaiprayers.net 8119](https://bahaiprayers.net/Book/Single/58/8119)
+
 
 ----
 
@@ -1626,7 +2049,10 @@ bpn8119
 
 -- Bahá'u'lláh
 
-bpn8120 
+Prayer bpn8120 in Dansk (bpn8120) 
+
+[bahaiprayers.net 8120](https://bahaiprayers.net/Book/Single/58/8120)
+
 
 ----
 
@@ -1636,7 +2062,10 @@ bpn8120
 
 -- Bahá'u'lláh
 
-bpn8121 
+Prayer bpn8121 in Dansk (bpn8121) 
+
+[bahaiprayers.net 8121](https://bahaiprayers.net/Book/Single/58/8121)
+
 
 ----
 
@@ -1646,7 +2075,10 @@ bpn8121
 
 -- Abdu'l-Bahá
 
-bpn8122 
+Prayer bpn8122 in Dansk (bpn8122) 
+
+[bahaiprayers.net 8122](https://bahaiprayers.net/Book/Single/58/8122)
+
 
 ----
 
@@ -1656,7 +2088,10 @@ bpn8122
 
 -- Abdu'l-Bahá
 
-bpn8123 
+Prayer bpn8123 in Dansk (bpn8123) 
+
+[bahaiprayers.net 8123](https://bahaiprayers.net/Book/Single/58/8123)
+
 
 ----
 
@@ -1666,7 +2101,10 @@ bpn8123
 
 -- Abdu'l-Bahá
 
-bpn8124 
+Prayer bpn8124 in Dansk (bpn8124) 
+
+[bahaiprayers.net 8124](https://bahaiprayers.net/Book/Single/58/8124)
+
 
 ----
 
@@ -1680,7 +2118,10 @@ bpn8124
 
 -- Bahá'u'lláh
 
-bpn8129 
+Prayer bpn8129 in Dansk (bpn8129) 
+
+[bahaiprayers.net 8129](https://bahaiprayers.net/Book/Single/58/8129)
+
 
 ----
 
@@ -1690,7 +2131,10 @@ bpn8129
 
 -- Bahá'u'lláh
 
-bpn8130 
+Prayer bpn8130 in Dansk (bpn8130) 
+
+[bahaiprayers.net 8130](https://bahaiprayers.net/Book/Single/58/8130)
+
 
 ----
 
@@ -1700,7 +2144,10 @@ bpn8130
 
 -- Bahá'u'lláh
 
-bpn8131 
+Prayer bpn8131 in Dansk (bpn8131) 
+
+[bahaiprayers.net 8131](https://bahaiprayers.net/Book/Single/58/8131)
+
 
 ----
 
@@ -1710,7 +2157,10 @@ bpn8131
 
 -- Bahá'u'lláh
 
-bpn8132 
+Prayer bpn8132 in Dansk (bpn8132) 
+
+[bahaiprayers.net 8132](https://bahaiprayers.net/Book/Single/58/8132)
+
 
 ----
 
@@ -1720,7 +2170,10 @@ bpn8132
 
 -- Bahá'u'lláh
 
-bpn8133 
+Prayer bpn8133 in Dansk (bpn8133) 
+
+[bahaiprayers.net 8133](https://bahaiprayers.net/Book/Single/58/8133)
+
 
 ----
 
@@ -1730,7 +2183,10 @@ bpn8133
 
 -- Bahá'u'lláh
 
-bpn8134 
+Prayer bpn8134 in Dansk (bpn8134) 
+
+[bahaiprayers.net 8134](https://bahaiprayers.net/Book/Single/58/8134)
+
 
 ----
 
@@ -1740,7 +2196,10 @@ bpn8134
 
 -- Bahá'u'lláh
 
-bpn8135 
+Prayer bpn8135 in Dansk (bpn8135) 
+
+[bahaiprayers.net 8135](https://bahaiprayers.net/Book/Single/58/8135)
+
 
 ----
 
@@ -1750,7 +2209,10 @@ bpn8135
 
 -- Báb
 
-bpn8136 
+Prayer bpn8136 in Dansk (bpn8136) 
+
+[bahaiprayers.net 8136](https://bahaiprayers.net/Book/Single/58/8136)
+
 
 ----
 
@@ -1760,7 +2222,10 @@ bpn8136
 
 -- Abdu'l-Bahá
 
-bpn8137 
+Prayer bpn8137 in Dansk (bpn8137) 
+
+[bahaiprayers.net 8137](https://bahaiprayers.net/Book/Single/58/8137)
+
 
 ----
 
@@ -1770,7 +2235,10 @@ bpn8137
 
 -- Abdu'l-Bahá
 
-bpn8138 
+Prayer bpn8138 in Dansk (bpn8138) 
+
+[bahaiprayers.net 8138](https://bahaiprayers.net/Book/Single/58/8138)
+
 
 ----
 
@@ -1780,7 +2248,10 @@ bpn8138
 
 -- Abdu'l-Bahá
 
-bpn8139 
+Prayer bpn8139 in Dansk (bpn8139) 
+
+[bahaiprayers.net 8139](https://bahaiprayers.net/Book/Single/58/8139)
+
 
 ----
 
@@ -1790,7 +2261,10 @@ bpn8139
 
 -- Abdu'l-Bahá
 
-bpn8140 
+Prayer bpn8140 in Dansk (bpn8140) 
+
+[bahaiprayers.net 8140](https://bahaiprayers.net/Book/Single/58/8140)
+
 
 ----
 
@@ -1800,7 +2274,10 @@ bpn8140
 
 -- Abdu'l-Bahá
 
-bpn8141 
+Prayer bpn8141 in Dansk (bpn8141) 
+
+[bahaiprayers.net 8141](https://bahaiprayers.net/Book/Single/58/8141)
+
 
 ----
 
@@ -1810,7 +2287,10 @@ bpn8141
 
 -- Abdu'l-Bahá
 
-bpn8142 
+Prayer bpn8142 in Dansk (bpn8142) 
+
+[bahaiprayers.net 8142](https://bahaiprayers.net/Book/Single/58/8142)
+
 
 ----
 
@@ -1820,7 +2300,10 @@ bpn8142
 
 -- Abdu'l-Bahá
 
-bpn8143 
+Prayer bpn8143 in Dansk (bpn8143) 
+
+[bahaiprayers.net 8143](https://bahaiprayers.net/Book/Single/58/8143)
+
 
 ----
 
@@ -1830,7 +2313,10 @@ bpn8143
 
 -- Abdu'l-Bahá
 
-bpn8144 
+Prayer bpn8144 in Dansk (bpn8144) 
+
+[bahaiprayers.net 8144](https://bahaiprayers.net/Book/Single/58/8144)
+
 
 ----
 
@@ -1844,7 +2330,10 @@ bpn8144
 
 -- Abdu'l-Bahá
 
-bpn8177 
+Prayer bpn8177 in Dansk (bpn8177) 
+
+[bahaiprayers.net 8177](https://bahaiprayers.net/Book/Single/58/8177)
+
 
 ----
 
@@ -1854,7 +2343,10 @@ bpn8177
 
 -- Abdu'l-Bahá
 
-bpn8178 
+Prayer bpn8178 in Dansk (bpn8178) 
+
+[bahaiprayers.net 8178](https://bahaiprayers.net/Book/Single/58/8178)
+
 
 ----
 
@@ -1864,7 +2356,10 @@ bpn8178
 
 -- Abdu'l-Bahá
 
-bpn8179 
+Prayer bpn8179 in Dansk (bpn8179) 
+
+[bahaiprayers.net 8179](https://bahaiprayers.net/Book/Single/58/8179)
+
 
 ----
 
@@ -1878,7 +2373,10 @@ bpn8179
 
 -- Bahá'u'lláh
 
-bpn8125 
+Prayer bpn8125 in Dansk (bpn8125) 
+
+[bahaiprayers.net 8125](https://bahaiprayers.net/Book/Single/58/8125)
+
 
 ----
 
@@ -1888,7 +2386,10 @@ bpn8125
 
 -- Abdu'l-Bahá
 
-bpn8126 
+Prayer bpn8126 in Dansk (bpn8126) 
+
+[bahaiprayers.net 8126](https://bahaiprayers.net/Book/Single/58/8126)
+
 
 ----
 
@@ -1898,7 +2399,10 @@ bpn8126
 
 -- Abdu'l-Bahá
 
-bpn8127 
+Prayer bpn8127 in Dansk (bpn8127) 
+
+[bahaiprayers.net 8127](https://bahaiprayers.net/Book/Single/58/8127)
+
 
 ----
 
@@ -1908,7 +2412,10 @@ bpn8127
 
 -- Abdu'l-Bahá
 
-bpn8128 
+Prayer bpn8128 in Dansk (bpn8128) 
+
+[bahaiprayers.net 8128](https://bahaiprayers.net/Book/Single/58/8128)
+
 
 ----
 

@@ -100,7 +100,10 @@ tags = ['lang=tk', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12021 
+Prayer bpn12021 in Türkmençe (bpn12021) 
+
+[bahaiprayers.net 12021](https://bahaiprayers.net/Book/Single/102/12021)
+
 
 ----
 
@@ -114,7 +117,10 @@ bpn12021
 
 -- Bahá'u'lláh
 
-bpn11918 
+Prayer bpn11918 in Türkmençe (bpn11918) 
+
+[bahaiprayers.net 11918](https://bahaiprayers.net/Book/Single/102/11918)
+
 
 ----
 
@@ -124,7 +130,10 @@ bpn11918
 
 -- Bahá'u'lláh
 
-bpn11917 
+Prayer bpn11917 in Türkmençe (bpn11917) 
+
+[bahaiprayers.net 11917](https://bahaiprayers.net/Book/Single/102/11917)
+
 
 ----
 
@@ -134,7 +143,10 @@ bpn11917
 
 -- Abdu'l-Bahá
 
-bpn11919 
+Prayer bpn11919 in Türkmençe (bpn11919) 
+
+[bahaiprayers.net 11919](https://bahaiprayers.net/Book/Single/102/11919)
+
 
 ----
 
@@ -144,7 +156,10 @@ bpn11919
 
 -- Abdu'l-Bahá
 
-bpn11920 
+Prayer bpn11920 in Türkmençe (bpn11920) 
+
+[bahaiprayers.net 11920](https://bahaiprayers.net/Book/Single/102/11920)
+
 
 ----
 
@@ -154,7 +169,10 @@ bpn11920
 
 -- Abdu'l-Bahá
 
-bpn11921 
+Prayer bpn11921 in Türkmençe (bpn11921) 
+
+[bahaiprayers.net 11921](https://bahaiprayers.net/Book/Single/102/11921)
+
 
 ----
 
@@ -164,7 +182,10 @@ bpn11921
 
 -- Abdu'l-Bahá
 
-bpn11922 
+Prayer bpn11922 in Türkmençe (bpn11922) 
+
+[bahaiprayers.net 11922](https://bahaiprayers.net/Book/Single/102/11922)
+
 
 ----
 
@@ -178,7 +199,10 @@ bpn11922
 
 -- Bahá'u'lláh
 
-bpn12023 
+Prayer bpn12023 in Türkmençe (bpn12023) 
+
+[bahaiprayers.net 12023](https://bahaiprayers.net/Book/Single/102/12023)
+
 
 ----
 
@@ -192,7 +216,10 @@ bpn12023
 
 -- Abdu'l-Bahá
 
-bpn11923 
+Prayer bpn11923 in Türkmençe (bpn11923) 
+
+[bahaiprayers.net 11923](https://bahaiprayers.net/Book/Single/102/11923)
+
 
 ----
 
@@ -206,7 +233,10 @@ bpn11923
 
 -- Bahá'u'lláh
 
-bpn12025 
+Prayer bpn12025 in Türkmençe (bpn12025) 
+
+[bahaiprayers.net 12025](https://bahaiprayers.net/Book/Single/102/12025)
+
 
 ----
 
@@ -220,7 +250,10 @@ bpn12025
 
 -- Bahá'u'lláh
 
-bpn11928 
+Prayer bpn11928 in Türkmençe (bpn11928) 
+
+[bahaiprayers.net 11928](https://bahaiprayers.net/Book/Single/102/11928)
+
 
 ----
 
@@ -234,7 +267,10 @@ bpn11928
 
 -- Abdu'l-Bahá
 
-bpn12020 
+Prayer bpn12020 in Türkmençe (bpn12020) 
+
+[bahaiprayers.net 12020](https://bahaiprayers.net/Book/Single/102/12020)
+
 
 ----
 
@@ -248,7 +284,10 @@ bpn12020
 
 -- Bahá'u'lláh
 
-bpn11929 
+Prayer bpn11929 in Türkmençe (bpn11929) 
+
+[bahaiprayers.net 11929](https://bahaiprayers.net/Book/Single/102/11929)
+
 
 ----
 
@@ -258,7 +297,10 @@ bpn11929
 
 -- Abdu'l-Bahá
 
-bpn11933 
+Prayer bpn11933 in Türkmençe (bpn11933) 
+
+[bahaiprayers.net 11933](https://bahaiprayers.net/Book/Single/102/11933)
+
 
 ----
 
@@ -268,7 +310,10 @@ bpn11933
 
 -- Abdu'l-Bahá
 
-bpn11932 
+Prayer bpn11932 in Türkmençe (bpn11932) 
+
+[bahaiprayers.net 11932](https://bahaiprayers.net/Book/Single/102/11932)
+
 
 ----
 
@@ -278,7 +323,10 @@ bpn11932
 
 -- Abdu'l-Bahá
 
-bpn11931 
+Prayer bpn11931 in Türkmençe (bpn11931) 
+
+[bahaiprayers.net 11931](https://bahaiprayers.net/Book/Single/102/11931)
+
 
 ----
 
@@ -288,7 +336,10 @@ bpn11931
 
 -- Abdu'l-Bahá
 
-bpn11930 
+Prayer bpn11930 in Türkmençe (bpn11930) 
+
+[bahaiprayers.net 11930](https://bahaiprayers.net/Book/Single/102/11930)
+
 
 ----
 
@@ -302,7 +353,10 @@ bpn11930
 
 -- Bahá'u'lláh
 
-bpn11934 
+Prayer bpn11934 in Türkmençe (bpn11934) 
+
+[bahaiprayers.net 11934](https://bahaiprayers.net/Book/Single/102/11934)
+
 
 ----
 
@@ -312,7 +366,10 @@ bpn11934
 
 -- Abdu'l-Bahá
 
-bpn11935 
+Prayer bpn11935 in Türkmençe (bpn11935) 
+
+[bahaiprayers.net 11935](https://bahaiprayers.net/Book/Single/102/11935)
+
 
 ----
 
@@ -326,7 +383,10 @@ bpn11935
 
 -- Bahá'u'lláh
 
-bpn11938 
+Prayer bpn11938 in Türkmençe (bpn11938) 
+
+[bahaiprayers.net 11938](https://bahaiprayers.net/Book/Single/102/11938)
+
 
 ----
 
@@ -336,7 +396,10 @@ bpn11938
 
 -- Abdu'l-Bahá
 
-bpn11940 
+Prayer bpn11940 in Türkmençe (bpn11940) 
+
+[bahaiprayers.net 11940](https://bahaiprayers.net/Book/Single/102/11940)
+
 
 ----
 
@@ -346,7 +409,10 @@ bpn11940
 
 -- Abdu'l-Bahá
 
-bpn11939 
+Prayer bpn11939 in Türkmençe (bpn11939) 
+
+[bahaiprayers.net 11939](https://bahaiprayers.net/Book/Single/102/11939)
+
 
 ----
 
@@ -356,7 +422,10 @@ bpn11939
 
 -- Abdu'l-Bahá
 
-bpn11941 
+Prayer bpn11941 in Türkmençe (bpn11941) 
+
+[bahaiprayers.net 11941](https://bahaiprayers.net/Book/Single/102/11941)
+
 
 ----
 
@@ -370,7 +439,10 @@ bpn11941
 
 -- Bahá'u'lláh
 
-bpn11914 
+Prayer bpn11914 in Türkmençe (bpn11914) 
+
+[bahaiprayers.net 11914](https://bahaiprayers.net/Book/Single/102/11914)
+
 
 ----
 
@@ -384,7 +456,10 @@ bpn11914
 
 -- Bahá'u'lláh
 
-bpn11943 
+Prayer bpn11943 in Türkmençe (bpn11943) 
+
+[bahaiprayers.net 11943](https://bahaiprayers.net/Book/Single/102/11943)
+
 
 ----
 
@@ -394,7 +469,10 @@ bpn11943
 
 -- Bahá'u'lláh
 
-bpn11944 
+Prayer bpn11944 in Türkmençe (bpn11944) 
+
+[bahaiprayers.net 11944](https://bahaiprayers.net/Book/Single/102/11944)
+
 
 ----
 
@@ -404,7 +482,10 @@ bpn11944
 
 -- Bahá'u'lláh
 
-bpn11945 
+Prayer bpn11945 in Türkmençe (bpn11945) 
+
+[bahaiprayers.net 11945](https://bahaiprayers.net/Book/Single/102/11945)
+
 
 ----
 
@@ -414,7 +495,10 @@ bpn11945
 
 -- Bahá'u'lláh
 
-bpn11942 
+Prayer bpn11942 in Türkmençe (bpn11942) 
+
+[bahaiprayers.net 11942](https://bahaiprayers.net/Book/Single/102/11942)
+
 
 ----
 
@@ -424,7 +508,10 @@ bpn11942
 
 -- Bahá'u'lláh
 
-bpn11946 
+Prayer bpn11946 in Türkmençe (bpn11946) 
+
+[bahaiprayers.net 11946](https://bahaiprayers.net/Book/Single/102/11946)
+
 
 ----
 
@@ -434,7 +521,10 @@ bpn11946
 
 -- Bahá'u'lláh
 
-bpn11947 
+Prayer bpn11947 in Türkmençe (bpn11947) 
+
+[bahaiprayers.net 11947](https://bahaiprayers.net/Book/Single/102/11947)
+
 
 ----
 
@@ -444,7 +534,10 @@ bpn11947
 
 -- Abdu'l-Bahá
 
-bpn11948 
+Prayer bpn11948 in Türkmençe (bpn11948) 
+
+[bahaiprayers.net 11948](https://bahaiprayers.net/Book/Single/102/11948)
+
 
 ----
 
@@ -454,7 +547,10 @@ bpn11948
 
 -- Abdu'l-Bahá
 
-bpn11950 
+Prayer bpn11950 in Türkmençe (bpn11950) 
+
+[bahaiprayers.net 11950](https://bahaiprayers.net/Book/Single/102/11950)
+
 
 ----
 
@@ -464,7 +560,10 @@ bpn11950
 
 -- Abdu'l-Bahá
 
-bpn11949 
+Prayer bpn11949 in Türkmençe (bpn11949) 
+
+[bahaiprayers.net 11949](https://bahaiprayers.net/Book/Single/102/11949)
+
 
 ----
 
@@ -478,7 +577,10 @@ bpn11949
 
 -- Bahá'u'lláh
 
-bpn11952 
+Prayer bpn11952 in Türkmençe (bpn11952) 
+
+[bahaiprayers.net 11952](https://bahaiprayers.net/Book/Single/102/11952)
+
 
 ----
 
@@ -488,7 +590,10 @@ bpn11952
 
 -- Bahá'u'lláh
 
-bpn11951 
+Prayer bpn11951 in Türkmençe (bpn11951) 
+
+[bahaiprayers.net 11951](https://bahaiprayers.net/Book/Single/102/11951)
+
 
 ----
 
@@ -498,7 +603,10 @@ bpn11951
 
 -- Bahá'u'lláh
 
-bpn11953 
+Prayer bpn11953 in Türkmençe (bpn11953) 
+
+[bahaiprayers.net 11953](https://bahaiprayers.net/Book/Single/102/11953)
+
 
 ----
 
@@ -512,7 +620,10 @@ bpn11953
 
 -- Abdu'l-Bahá
 
-bpn12026 
+Prayer bpn12026 in Türkmençe (bpn12026) 
+
+[bahaiprayers.net 12026](https://bahaiprayers.net/Book/Single/102/12026)
+
 
 ----
 
@@ -526,7 +637,10 @@ bpn12026
 
 -- Bahá'u'lláh
 
-bpn12022 
+Prayer bpn12022 in Türkmençe (bpn12022) 
+
+[bahaiprayers.net 12022](https://bahaiprayers.net/Book/Single/102/12022)
+
 
 ----
 
@@ -540,7 +654,10 @@ bpn12022
 
 -- Abdu'l-Bahá
 
-bpn11954 
+Prayer bpn11954 in Türkmençe (bpn11954) 
+
+[bahaiprayers.net 11954](https://bahaiprayers.net/Book/Single/102/11954)
+
 
 ----
 
@@ -550,7 +667,10 @@ bpn11954
 
 -- Abdu'l-Bahá
 
-bpn11956 
+Prayer bpn11956 in Türkmençe (bpn11956) 
+
+[bahaiprayers.net 11956](https://bahaiprayers.net/Book/Single/102/11956)
+
 
 ----
 
@@ -560,7 +680,10 @@ bpn11956
 
 -- Abdu'l-Bahá
 
-bpn11955 
+Prayer bpn11955 in Türkmençe (bpn11955) 
+
+[bahaiprayers.net 11955](https://bahaiprayers.net/Book/Single/102/11955)
+
 
 ----
 
@@ -574,7 +697,10 @@ bpn11955
 
 -- Abdu'l-Bahá
 
-bpn11957 
+Prayer bpn11957 in Türkmençe (bpn11957) 
+
+[bahaiprayers.net 11957](https://bahaiprayers.net/Book/Single/102/11957)
+
 
 ----
 
@@ -588,7 +714,10 @@ bpn11957
 
 -- Bahá'u'lláh
 
-bpn12019 
+Prayer bpn12019 in Türkmençe (bpn12019) 
+
+[bahaiprayers.net 12019](https://bahaiprayers.net/Book/Single/102/12019)
+
 
 ----
 
@@ -602,7 +731,10 @@ bpn12019
 
 -- Báb
 
-bpn11958 
+Prayer bpn11958 in Türkmençe (bpn11958) 
+
+[bahaiprayers.net 11958](https://bahaiprayers.net/Book/Single/102/11958)
+
 
 ----
 
@@ -612,7 +744,10 @@ bpn11958
 
 -- Báb
 
-bpn11960 
+Prayer bpn11960 in Türkmençe (bpn11960) 
+
+[bahaiprayers.net 11960](https://bahaiprayers.net/Book/Single/102/11960)
+
 
 ----
 
@@ -622,7 +757,10 @@ bpn11960
 
 -- Báb
 
-bpn11959 
+Prayer bpn11959 in Türkmençe (bpn11959) 
+
+[bahaiprayers.net 11959](https://bahaiprayers.net/Book/Single/102/11959)
+
 
 ----
 
@@ -632,7 +770,10 @@ bpn11959
 
 -- Abdu'l-Bahá
 
-bpn11961 
+Prayer bpn11961 in Türkmençe (bpn11961) 
+
+[bahaiprayers.net 11961](https://bahaiprayers.net/Book/Single/102/11961)
+
 
 ----
 
@@ -642,7 +783,10 @@ bpn11961
 
 -- Abdu'l-Bahá
 
-bpn11962 
+Prayer bpn11962 in Türkmençe (bpn11962) 
+
+[bahaiprayers.net 11962](https://bahaiprayers.net/Book/Single/102/11962)
+
 
 ----
 
@@ -656,7 +800,10 @@ bpn11962
 
 -- Abdu'l-Bahá
 
-bpn11983 
+Prayer bpn11983 in Türkmençe (bpn11983) 
+
+[bahaiprayers.net 11983](https://bahaiprayers.net/Book/Single/102/11983)
+
 
 ----
 
@@ -666,7 +813,10 @@ bpn11983
 
 -- Abdu'l-Bahá
 
-bpn11984 
+Prayer bpn11984 in Türkmençe (bpn11984) 
+
+[bahaiprayers.net 11984](https://bahaiprayers.net/Book/Single/102/11984)
+
 
 ----
 
@@ -676,7 +826,10 @@ bpn11984
 
 -- Abdu'l-Bahá
 
-bpn11985 
+Prayer bpn11985 in Türkmençe (bpn11985) 
+
+[bahaiprayers.net 11985](https://bahaiprayers.net/Book/Single/102/11985)
+
 
 ----
 
@@ -686,7 +839,10 @@ bpn11985
 
 -- Abdu'l-Bahá
 
-bpn11982 
+Prayer bpn11982 in Türkmençe (bpn11982) 
+
+[bahaiprayers.net 11982](https://bahaiprayers.net/Book/Single/102/11982)
+
 
 ----
 
@@ -696,7 +852,10 @@ bpn11982
 
 -- Abdu'l-Bahá
 
-bpn11981 
+Prayer bpn11981 in Türkmençe (bpn11981) 
+
+[bahaiprayers.net 11981](https://bahaiprayers.net/Book/Single/102/11981)
+
 
 ----
 
@@ -710,7 +869,10 @@ bpn11981
 
 -- Bahá'u'lláh
 
-bpn11963 
+Prayer bpn11963 in Türkmençe (bpn11963) 
+
+[bahaiprayers.net 11963](https://bahaiprayers.net/Book/Single/102/11963)
+
 
 ----
 
@@ -720,7 +882,10 @@ bpn11963
 
 -- Abdu'l-Bahá
 
-bpn11965 
+Prayer bpn11965 in Türkmençe (bpn11965) 
+
+[bahaiprayers.net 11965](https://bahaiprayers.net/Book/Single/102/11965)
+
 
 ----
 
@@ -730,7 +895,10 @@ bpn11965
 
 -- Abdu'l-Bahá
 
-bpn11968 
+Prayer bpn11968 in Türkmençe (bpn11968) 
+
+[bahaiprayers.net 11968](https://bahaiprayers.net/Book/Single/102/11968)
+
 
 ----
 
@@ -740,7 +908,10 @@ bpn11968
 
 -- Abdu'l-Bahá
 
-bpn11969 
+Prayer bpn11969 in Türkmençe (bpn11969) 
+
+[bahaiprayers.net 11969](https://bahaiprayers.net/Book/Single/102/11969)
+
 
 ----
 
@@ -750,7 +921,10 @@ bpn11969
 
 -- Abdu'l-Bahá
 
-bpn11970 
+Prayer bpn11970 in Türkmençe (bpn11970) 
+
+[bahaiprayers.net 11970](https://bahaiprayers.net/Book/Single/102/11970)
+
 
 ----
 
@@ -760,7 +934,10 @@ bpn11970
 
 -- Abdu'l-Bahá
 
-bpn11967 
+Prayer bpn11967 in Türkmençe (bpn11967) 
+
+[bahaiprayers.net 11967](https://bahaiprayers.net/Book/Single/102/11967)
+
 
 ----
 
@@ -770,7 +947,10 @@ bpn11967
 
 -- Abdu'l-Bahá
 
-bpn11966 
+Prayer bpn11966 in Türkmençe (bpn11966) 
+
+[bahaiprayers.net 11966](https://bahaiprayers.net/Book/Single/102/11966)
+
 
 ----
 
@@ -780,7 +960,10 @@ bpn11966
 
 -- Abdu'l-Bahá
 
-bpn11964 
+Prayer bpn11964 in Türkmençe (bpn11964) 
+
+[bahaiprayers.net 11964](https://bahaiprayers.net/Book/Single/102/11964)
+
 
 ----
 
@@ -794,7 +977,10 @@ bpn11964
 
 -- Abdu'l-Bahá
 
-bpn12017 
+Prayer bpn12017 in Türkmençe (bpn12017) 
+
+[bahaiprayers.net 12017](https://bahaiprayers.net/Book/Single/102/12017)
+
 
 ----
 
@@ -804,7 +990,10 @@ bpn12017
 
 -- Abdu'l-Bahá
 
-bpn12018 
+Prayer bpn12018 in Türkmençe (bpn12018) 
+
+[bahaiprayers.net 12018](https://bahaiprayers.net/Book/Single/102/12018)
+
 
 ----
 
@@ -818,7 +1007,10 @@ bpn12018
 
 -- Bahá'u'lláh
 
-bpn12016 
+Prayer bpn12016 in Türkmençe (bpn12016) 
+
+[bahaiprayers.net 12016](https://bahaiprayers.net/Book/Single/102/12016)
+
 
 ----
 
@@ -832,7 +1024,10 @@ bpn12016
 
 -- Abdu'l-Bahá
 
-bpn12012 
+Prayer bpn12012 in Türkmençe (bpn12012) 
+
+[bahaiprayers.net 12012](https://bahaiprayers.net/Book/Single/102/12012)
+
 
 ----
 
@@ -846,7 +1041,10 @@ bpn12012
 
 -- Bahá'u'lláh
 
-bpn12011 
+Prayer bpn12011 in Türkmençe (bpn12011) 
+
+[bahaiprayers.net 12011](https://bahaiprayers.net/Book/Single/102/12011)
+
 
 ----
 
@@ -860,7 +1058,10 @@ bpn12011
 
 -- Bahá'u'lláh
 
-bpn11915 
+Prayer bpn11915 in Türkmençe (bpn11915) 
+
+[bahaiprayers.net 11915](https://bahaiprayers.net/Book/Single/102/11915)
+
 
 ----
 
@@ -874,7 +1075,10 @@ bpn11915
 
 -- Abdu'l-Bahá
 
-bpn11980 
+Prayer bpn11980 in Türkmençe (bpn11980) 
+
+[bahaiprayers.net 11980](https://bahaiprayers.net/Book/Single/102/11980)
+
 
 ----
 
@@ -884,7 +1088,10 @@ bpn11980
 
 -- Abdu'l-Bahá
 
-bpn11979 
+Prayer bpn11979 in Türkmençe (bpn11979) 
+
+[bahaiprayers.net 11979](https://bahaiprayers.net/Book/Single/102/11979)
+
 
 ----
 
@@ -894,7 +1101,10 @@ bpn11979
 
 -- Abdu'l-Bahá
 
-bpn11978 
+Prayer bpn11978 in Türkmençe (bpn11978) 
+
+[bahaiprayers.net 11978](https://bahaiprayers.net/Book/Single/102/11978)
+
 
 ----
 
@@ -908,7 +1118,10 @@ bpn11978
 
 -- Bahá'u'lláh
 
-bpn12013 
+Prayer bpn12013 in Türkmençe (bpn12013) 
+
+[bahaiprayers.net 12013](https://bahaiprayers.net/Book/Single/102/12013)
+
 
 ----
 
@@ -922,7 +1135,10 @@ bpn12013
 
 -- Bahá'u'lláh
 
-bpn11986 
+Prayer bpn11986 in Türkmençe (bpn11986) 
+
+[bahaiprayers.net 11986](https://bahaiprayers.net/Book/Single/102/11986)
+
 
 ----
 
@@ -932,7 +1148,10 @@ bpn11986
 
 -- Bahá'u'lláh
 
-bpn11987 
+Prayer bpn11987 in Türkmençe (bpn11987) 
+
+[bahaiprayers.net 11987](https://bahaiprayers.net/Book/Single/102/11987)
+
 
 ----
 
@@ -942,7 +1161,10 @@ bpn11987
 
 -- Abdu'l-Bahá
 
-bpn11989 
+Prayer bpn11989 in Türkmençe (bpn11989) 
+
+[bahaiprayers.net 11989](https://bahaiprayers.net/Book/Single/102/11989)
+
 
 ----
 
@@ -952,7 +1174,10 @@ bpn11989
 
 -- Abdu'l-Bahá
 
-bpn11991 
+Prayer bpn11991 in Türkmençe (bpn11991) 
+
+[bahaiprayers.net 11991](https://bahaiprayers.net/Book/Single/102/11991)
+
 
 ----
 
@@ -962,7 +1187,10 @@ bpn11991
 
 -- Abdu'l-Bahá
 
-bpn11988 
+Prayer bpn11988 in Türkmençe (bpn11988) 
+
+[bahaiprayers.net 11988](https://bahaiprayers.net/Book/Single/102/11988)
+
 
 ----
 
@@ -972,7 +1200,10 @@ bpn11988
 
 -- Abdu'l-Bahá
 
-bpn11990 
+Prayer bpn11990 in Türkmençe (bpn11990) 
+
+[bahaiprayers.net 11990](https://bahaiprayers.net/Book/Single/102/11990)
+
 
 ----
 
@@ -986,7 +1217,10 @@ bpn11990
 
 -- Bahá'u'lláh
 
-bpn11992 
+Prayer bpn11992 in Türkmençe (bpn11992) 
+
+[bahaiprayers.net 11992](https://bahaiprayers.net/Book/Single/102/11992)
+
 
 ----
 
@@ -996,7 +1230,10 @@ bpn11992
 
 -- Abdu'l-Bahá
 
-bpn11994 
+Prayer bpn11994 in Türkmençe (bpn11994) 
+
+[bahaiprayers.net 11994](https://bahaiprayers.net/Book/Single/102/11994)
+
 
 ----
 
@@ -1006,7 +1243,10 @@ bpn11994
 
 -- Abdu'l-Bahá
 
-bpn11993 
+Prayer bpn11993 in Türkmençe (bpn11993) 
+
+[bahaiprayers.net 11993](https://bahaiprayers.net/Book/Single/102/11993)
+
 
 ----
 
@@ -1020,7 +1260,10 @@ bpn11993
 
 -- Bahá'u'lláh
 
-bpn12015 
+Prayer bpn12015 in Türkmençe (bpn12015) 
+
+[bahaiprayers.net 12015](https://bahaiprayers.net/Book/Single/102/12015)
+
 
 ----
 
@@ -1030,7 +1273,10 @@ bpn12015
 
 -- Bahá'u'lláh
 
-bpn12014 
+Prayer bpn12014 in Türkmençe (bpn12014) 
+
+[bahaiprayers.net 12014](https://bahaiprayers.net/Book/Single/102/12014)
+
 
 ----
 
@@ -1044,7 +1290,10 @@ bpn12014
 
 -- Bahá'u'lláh
 
-bpn11916 
+Prayer bpn11916 in Türkmençe (bpn11916) 
+
+[bahaiprayers.net 11916](https://bahaiprayers.net/Book/Single/102/11916)
+
 
 ----
 
@@ -1058,7 +1307,10 @@ bpn11916
 
 -- Abdu'l-Bahá
 
-bpn12001 
+Prayer bpn12001 in Türkmençe (bpn12001) 
+
+[bahaiprayers.net 12001](https://bahaiprayers.net/Book/Single/102/12001)
+
 
 ----
 
@@ -1068,7 +1320,10 @@ bpn12001
 
 -- Abdu'l-Bahá
 
-bpn12002 
+Prayer bpn12002 in Türkmençe (bpn12002) 
+
+[bahaiprayers.net 12002](https://bahaiprayers.net/Book/Single/102/12002)
+
 
 ----
 
@@ -1078,7 +1333,10 @@ bpn12002
 
 -- Abdu'l-Bahá
 
-bpn12000 
+Prayer bpn12000 in Türkmençe (bpn12000) 
+
+[bahaiprayers.net 12000](https://bahaiprayers.net/Book/Single/102/12000)
+
 
 ----
 
@@ -1088,7 +1346,10 @@ bpn12000
 
 -- Abdu'l-Bahá
 
-bpn11999 
+Prayer bpn11999 in Türkmençe (bpn11999) 
+
+[bahaiprayers.net 11999](https://bahaiprayers.net/Book/Single/102/11999)
+
 
 ----
 
@@ -1102,7 +1363,10 @@ bpn11999
 
 -- Bahá'u'lláh
 
-bpn12006 
+Prayer bpn12006 in Türkmençe (bpn12006) 
+
+[bahaiprayers.net 12006](https://bahaiprayers.net/Book/Single/102/12006)
+
 
 ----
 
@@ -1112,7 +1376,10 @@ bpn12006
 
 -- Abdu'l-Bahá
 
-bpn12008 
+Prayer bpn12008 in Türkmençe (bpn12008) 
+
+[bahaiprayers.net 12008](https://bahaiprayers.net/Book/Single/102/12008)
+
 
 ----
 
@@ -1122,7 +1389,10 @@ bpn12008
 
 -- Abdu'l-Bahá
 
-bpn12009 
+Prayer bpn12009 in Türkmençe (bpn12009) 
+
+[bahaiprayers.net 12009](https://bahaiprayers.net/Book/Single/102/12009)
+
 
 ----
 
@@ -1132,7 +1402,10 @@ bpn12009
 
 -- Abdu'l-Bahá
 
-bpn12007 
+Prayer bpn12007 in Türkmençe (bpn12007) 
+
+[bahaiprayers.net 12007](https://bahaiprayers.net/Book/Single/102/12007)
+
 
 ----
 
@@ -1146,7 +1419,10 @@ bpn12007
 
 -- Abdu'l-Bahá
 
-bpn11936 
+Prayer bpn11936 in Türkmençe (bpn11936) 
+
+[bahaiprayers.net 11936](https://bahaiprayers.net/Book/Single/102/11936)
+
 
 ----
 
@@ -1156,7 +1432,10 @@ bpn11936
 
 -- Abdu'l-Bahá
 
-bpn11937 
+Prayer bpn11937 in Türkmençe (bpn11937) 
+
+[bahaiprayers.net 11937](https://bahaiprayers.net/Book/Single/102/11937)
+
 
 ----
 
@@ -1170,7 +1449,10 @@ bpn11937
 
 -- Abdu'l-Bahá
 
-bpn11924 
+Prayer bpn11924 in Türkmençe (bpn11924) 
+
+[bahaiprayers.net 11924](https://bahaiprayers.net/Book/Single/102/11924)
+
 
 ----
 
@@ -1180,7 +1462,10 @@ bpn11924
 
 -- Abdu'l-Bahá
 
-bpn11926 
+Prayer bpn11926 in Türkmençe (bpn11926) 
+
+[bahaiprayers.net 11926](https://bahaiprayers.net/Book/Single/102/11926)
+
 
 ----
 
@@ -1190,7 +1475,10 @@ bpn11926
 
 -- Abdu'l-Bahá
 
-bpn11927 
+Prayer bpn11927 in Türkmençe (bpn11927) 
+
+[bahaiprayers.net 11927](https://bahaiprayers.net/Book/Single/102/11927)
+
 
 ----
 
@@ -1200,7 +1488,10 @@ bpn11927
 
 -- Abdu'l-Bahá
 
-bpn11925 
+Prayer bpn11925 in Türkmençe (bpn11925) 
+
+[bahaiprayers.net 11925](https://bahaiprayers.net/Book/Single/102/11925)
+
 
 ----
 
@@ -1214,7 +1505,10 @@ bpn11925
 
 -- Bahá'u'lláh
 
-bpn11973 
+Prayer bpn11973 in Türkmençe (bpn11973) 
+
+[bahaiprayers.net 11973](https://bahaiprayers.net/Book/Single/102/11973)
+
 
 ----
 
@@ -1224,7 +1518,10 @@ bpn11973
 
 -- Bahá'u'lláh
 
-bpn11971 
+Prayer bpn11971 in Türkmençe (bpn11971) 
+
+[bahaiprayers.net 11971](https://bahaiprayers.net/Book/Single/102/11971)
+
 
 ----
 
@@ -1234,7 +1531,10 @@ bpn11971
 
 -- Bahá'u'lláh
 
-bpn11972 
+Prayer bpn11972 in Türkmençe (bpn11972) 
+
+[bahaiprayers.net 11972](https://bahaiprayers.net/Book/Single/102/11972)
+
 
 ----
 
@@ -1244,7 +1544,10 @@ bpn11972
 
 -- Abdu'l-Bahá
 
-bpn11976 
+Prayer bpn11976 in Türkmençe (bpn11976) 
+
+[bahaiprayers.net 11976](https://bahaiprayers.net/Book/Single/102/11976)
+
 
 ----
 
@@ -1254,7 +1557,10 @@ bpn11976
 
 -- Abdu'l-Bahá
 
-bpn11975 
+Prayer bpn11975 in Türkmençe (bpn11975) 
+
+[bahaiprayers.net 11975](https://bahaiprayers.net/Book/Single/102/11975)
+
 
 ----
 
@@ -1264,7 +1570,10 @@ bpn11975
 
 -- Abdu'l-Bahá
 
-bpn11974 
+Prayer bpn11974 in Türkmençe (bpn11974) 
+
+[bahaiprayers.net 11974](https://bahaiprayers.net/Book/Single/102/11974)
+
 
 ----
 
@@ -1278,7 +1587,10 @@ bpn11974
 
 -- Abdu'l-Bahá
 
-bpn11977 
+Prayer bpn11977 in Türkmençe (bpn11977) 
+
+[bahaiprayers.net 11977](https://bahaiprayers.net/Book/Single/102/11977)
+
 
 ----
 
@@ -1292,7 +1604,10 @@ bpn11977
 
 -- Abdu'l-Bahá
 
-bpn12004 
+Prayer bpn12004 in Türkmençe (bpn12004) 
+
+[bahaiprayers.net 12004](https://bahaiprayers.net/Book/Single/102/12004)
+
 
 ----
 
@@ -1302,7 +1617,10 @@ bpn12004
 
 -- Abdu'l-Bahá
 
-bpn12003 
+Prayer bpn12003 in Türkmençe (bpn12003) 
+
+[bahaiprayers.net 12003](https://bahaiprayers.net/Book/Single/102/12003)
+
 
 ----
 
@@ -1312,7 +1630,10 @@ bpn12003
 
 -- Abdu'l-Bahá
 
-bpn12005 
+Prayer bpn12005 in Türkmençe (bpn12005) 
+
+[bahaiprayers.net 12005](https://bahaiprayers.net/Book/Single/102/12005)
+
 
 ----
 
@@ -1326,7 +1647,10 @@ bpn12005
 
 -- Bahá'u'lláh
 
-bpn11996 
+Prayer bpn11996 in Türkmençe (bpn11996) 
+
+[bahaiprayers.net 11996](https://bahaiprayers.net/Book/Single/102/11996)
+
 
 ----
 
@@ -1336,7 +1660,10 @@ bpn11996
 
 -- Bahá'u'lláh
 
-bpn11995 
+Prayer bpn11995 in Türkmençe (bpn11995) 
+
+[bahaiprayers.net 11995](https://bahaiprayers.net/Book/Single/102/11995)
+
 
 ----
 
@@ -1346,7 +1673,10 @@ bpn11995
 
 -- Bahá'u'lláh
 
-bpn11997 
+Prayer bpn11997 in Türkmençe (bpn11997) 
+
+[bahaiprayers.net 11997](https://bahaiprayers.net/Book/Single/102/11997)
+
 
 ----
 
@@ -1356,7 +1686,10 @@ bpn11997
 
 -- Abdu'l-Bahá
 
-bpn11998 
+Prayer bpn11998 in Türkmençe (bpn11998) 
+
+[bahaiprayers.net 11998](https://bahaiprayers.net/Book/Single/102/11998)
+
 
 ----
 
@@ -1370,7 +1703,10 @@ bpn11998
 
 -- Bahá'u'lláh
 
-bpn12024 
+Prayer bpn12024 in Türkmençe (bpn12024) 
+
+[bahaiprayers.net 12024](https://bahaiprayers.net/Book/Single/102/12024)
+
 
 ----
 
@@ -1384,7 +1720,10 @@ bpn12024
 
 -- Bahá'u'lláh
 
-bpn12010 
+Prayer bpn12010 in Türkmençe (bpn12010) 
+
+[bahaiprayers.net 12010](https://bahaiprayers.net/Book/Single/102/12010)
+
 
 ----
 

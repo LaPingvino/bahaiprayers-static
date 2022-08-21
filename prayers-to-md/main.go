@@ -66,7 +66,10 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 -- {{.Author}}
 
-{{.PrayerCode}} {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
+{{.Title}} ({{.PrayerCode}}) {{range (index $cl .PrayerCode)}}{{if not (eq .LanguageCode $lc)}}«[{{.LanguageName}}](../../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}{{end}}
+
+{{if .Id}}[bahaiprayers.net {{.Id}}](https://bahaiprayers.net/Book/Single/{{.LanguageId}}/{{.Id}}){{end}}
+
 
 ----
 

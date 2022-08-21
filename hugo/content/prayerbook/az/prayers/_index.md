@@ -96,7 +96,10 @@ tags = ['lang=az', 'prayerbook']
 
 -- Báb
 
-bpn4690 
+Prayer bpn4690 in Azərbaycan (bpn4690) 
+
+[bahaiprayers.net 4690](https://bahaiprayers.net/Book/Single/36/4690)
+
 
 ----
 
@@ -106,7 +109,10 @@ bpn4690
 
 -- Báb
 
-bpn4692 
+Prayer bpn4692 in Azərbaycan (bpn4692) 
+
+[bahaiprayers.net 4692](https://bahaiprayers.net/Book/Single/36/4692)
+
 
 ----
 
@@ -116,7 +122,10 @@ bpn4692
 
 -- Báb
 
-bpn4706 
+Prayer bpn4706 in Azərbaycan (bpn4706) 
+
+[bahaiprayers.net 4706](https://bahaiprayers.net/Book/Single/36/4706)
+
 
 ----
 
@@ -126,7 +135,10 @@ bpn4706
 
 -- Abdu'l-Bahá
 
-bpn4707 
+Prayer bpn4707 in Azərbaycan (bpn4707) 
+
+[bahaiprayers.net 4707](https://bahaiprayers.net/Book/Single/36/4707)
+
 
 ----
 
@@ -136,7 +148,10 @@ bpn4707
 
 -- Abdu'l-Bahá
 
-bpn4708 
+Prayer bpn4708 in Azərbaycan (bpn4708) 
+
+[bahaiprayers.net 4708](https://bahaiprayers.net/Book/Single/36/4708)
+
 
 ----
 
@@ -150,7 +165,10 @@ bpn4708
 
 -- Bahá'u'lláh
 
-bpn4693 
+Prayer bpn4693 in Azərbaycan (bpn4693) 
+
+[bahaiprayers.net 4693](https://bahaiprayers.net/Book/Single/36/4693)
+
 
 ----
 
@@ -160,7 +178,10 @@ bpn4693
 
 -- Báb
 
-bpn4711 
+Prayer bpn4711 in Azərbaycan (bpn4711) 
+
+[bahaiprayers.net 4711](https://bahaiprayers.net/Book/Single/36/4711)
+
 
 ----
 
@@ -170,7 +191,10 @@ bpn4711
 
 -- Báb
 
-bpn4712 
+Prayer bpn4712 in Azərbaycan (bpn4712) 
+
+[bahaiprayers.net 4712](https://bahaiprayers.net/Book/Single/36/4712)
+
 
 ----
 
@@ -180,7 +204,10 @@ bpn4712
 
 -- Báb
 
-bpn4713 
+Prayer bpn4713 in Azərbaycan (bpn4713) 
+
+[bahaiprayers.net 4713](https://bahaiprayers.net/Book/Single/36/4713)
+
 
 ----
 
@@ -190,7 +217,10 @@ bpn4713
 
 -- Abdu'l-Bahá
 
-bpn4714 
+Prayer bpn4714 in Azərbaycan (bpn4714) 
+
+[bahaiprayers.net 4714](https://bahaiprayers.net/Book/Single/36/4714)
+
 
 ----
 
@@ -204,7 +234,10 @@ bpn4714
 
 -- Bahá'u'lláh
 
-bpn4882 
+Prayer bpn4882 in Azərbaycan (bpn4882) 
+
+[bahaiprayers.net 4882](https://bahaiprayers.net/Book/Single/36/4882)
+
 
 ----
 
@@ -214,7 +247,10 @@ bpn4882
 
 -- Bahá'u'lláh
 
-bpn4883 
+Prayer bpn4883 in Azərbaycan (bpn4883) 
+
+[bahaiprayers.net 4883](https://bahaiprayers.net/Book/Single/36/4883)
+
 
 ----
 
@@ -224,7 +260,10 @@ bpn4883
 
 -- Bahá'u'lláh
 
-bpn4884 
+Prayer bpn4884 in Azərbaycan (bpn4884) 
+
+[bahaiprayers.net 4884](https://bahaiprayers.net/Book/Single/36/4884)
+
 
 ----
 
@@ -234,7 +273,10 @@ bpn4884
 
 -- Bahá'u'lláh
 
-bpn4885 
+Prayer bpn4885 in Azərbaycan (bpn4885) 
+
+[bahaiprayers.net 4885](https://bahaiprayers.net/Book/Single/36/4885)
+
 
 ----
 
@@ -244,7 +286,10 @@ bpn4885
 
 -- Bahá'u'lláh
 
-bpn4886 
+Prayer bpn4886 in Azərbaycan (bpn4886) 
+
+[bahaiprayers.net 4886](https://bahaiprayers.net/Book/Single/36/4886)
+
 
 ----
 
@@ -254,7 +299,10 @@ bpn4886
 
 -- Bahá'u'lláh
 
-bpn4893 
+Prayer bpn4893 in Azərbaycan (bpn4893) 
+
+[bahaiprayers.net 4893](https://bahaiprayers.net/Book/Single/36/4893)
+
 
 ----
 
@@ -264,7 +312,10 @@ bpn4893
 
 -- Bahá'u'lláh
 
-bpn4894 
+Prayer bpn4894 in Azərbaycan (bpn4894) 
+
+[bahaiprayers.net 4894](https://bahaiprayers.net/Book/Single/36/4894)
+
 
 ----
 
@@ -274,7 +325,10 @@ bpn4894
 
 -- Bahá'u'lláh
 
-bpn4895 
+Prayer bpn4895 in Azərbaycan (bpn4895) 
+
+[bahaiprayers.net 4895](https://bahaiprayers.net/Book/Single/36/4895)
+
 
 ----
 
@@ -288,7 +342,10 @@ bpn4895
 
 -- Bahá'u'lláh
 
-bpn4691 
+Prayer bpn4691 in Azərbaycan (bpn4691) 
+
+[bahaiprayers.net 4691](https://bahaiprayers.net/Book/Single/36/4691)
+
 
 ----
 
@@ -298,7 +355,10 @@ bpn4691
 
 -- Bahá'u'lláh
 
-bpn4709 
+Prayer bpn4709 in Azərbaycan (bpn4709) 
+
+[bahaiprayers.net 4709](https://bahaiprayers.net/Book/Single/36/4709)
+
 
 ----
 
@@ -308,7 +368,10 @@ bpn4709
 
 -- Abdu'l-Bahá
 
-bpn4710 
+Prayer bpn4710 in Azərbaycan (bpn4710) 
+
+[bahaiprayers.net 4710](https://bahaiprayers.net/Book/Single/36/4710)
+
 
 ----
 
@@ -322,7 +385,10 @@ bpn4710
 
 -- Abdu'l-Bahá
 
-bpn4899 
+Prayer bpn4899 in Azərbaycan (bpn4899) 
+
+[bahaiprayers.net 4899](https://bahaiprayers.net/Book/Single/36/4899)
+
 
 ----
 
@@ -332,7 +398,10 @@ bpn4899
 
 -- Abdu'l-Bahá
 
-bpn4900 
+Prayer bpn4900 in Azərbaycan (bpn4900) 
+
+[bahaiprayers.net 4900](https://bahaiprayers.net/Book/Single/36/4900)
+
 
 ----
 
@@ -342,7 +411,10 @@ bpn4900
 
 -- Abdu'l-Bahá
 
-bpn4901 
+Prayer bpn4901 in Azərbaycan (bpn4901) 
+
+[bahaiprayers.net 4901](https://bahaiprayers.net/Book/Single/36/4901)
+
 
 ----
 
@@ -356,7 +428,10 @@ bpn4901
 
 -- Bahá'u'lláh
 
-bpn4694 
+Prayer bpn4694 in Azərbaycan (bpn4694) 
+
+[bahaiprayers.net 4694](https://bahaiprayers.net/Book/Single/36/4694)
+
 
 ----
 
@@ -366,7 +441,10 @@ bpn4694
 
 -- Bahá'u'lláh
 
-bpn4715 
+Prayer bpn4715 in Azərbaycan (bpn4715) 
+
+[bahaiprayers.net 4715](https://bahaiprayers.net/Book/Single/36/4715)
+
 
 ----
 
@@ -376,7 +454,10 @@ bpn4715
 
 -- Bahá'u'lláh
 
-bpn4716 
+Prayer bpn4716 in Azərbaycan (bpn4716) 
+
+[bahaiprayers.net 4716](https://bahaiprayers.net/Book/Single/36/4716)
+
 
 ----
 
@@ -386,7 +467,10 @@ bpn4716
 
 -- Bahá'u'lláh
 
-bpn4717 
+Prayer bpn4717 in Azərbaycan (bpn4717) 
+
+[bahaiprayers.net 4717](https://bahaiprayers.net/Book/Single/36/4717)
+
 
 ----
 
@@ -396,7 +480,10 @@ bpn4717
 
 -- Bahá'u'lláh
 
-bpn4718 
+Prayer bpn4718 in Azərbaycan (bpn4718) 
+
+[bahaiprayers.net 4718](https://bahaiprayers.net/Book/Single/36/4718)
+
 
 ----
 
@@ -406,7 +493,10 @@ bpn4718
 
 -- Bahá'u'lláh
 
-bpn4719 
+Prayer bpn4719 in Azərbaycan (bpn4719) 
+
+[bahaiprayers.net 4719](https://bahaiprayers.net/Book/Single/36/4719)
+
 
 ----
 
@@ -416,7 +506,10 @@ bpn4719
 
 -- Bahá'u'lláh
 
-bpn4725 
+Prayer bpn4725 in Azərbaycan (bpn4725) 
+
+[bahaiprayers.net 4725](https://bahaiprayers.net/Book/Single/36/4725)
+
 
 ----
 
@@ -426,7 +519,10 @@ bpn4725
 
 -- Báb
 
-bpn4720 
+Prayer bpn4720 in Azərbaycan (bpn4720) 
+
+[bahaiprayers.net 4720](https://bahaiprayers.net/Book/Single/36/4720)
+
 
 ----
 
@@ -436,7 +532,10 @@ bpn4720
 
 -- Báb
 
-bpn4721 
+Prayer bpn4721 in Azərbaycan (bpn4721) 
+
+[bahaiprayers.net 4721](https://bahaiprayers.net/Book/Single/36/4721)
+
 
 ----
 
@@ -446,7 +545,10 @@ bpn4721
 
 -- Báb
 
-bpn4722 
+Prayer bpn4722 in Azərbaycan (bpn4722) 
+
+[bahaiprayers.net 4722](https://bahaiprayers.net/Book/Single/36/4722)
+
 
 ----
 
@@ -456,7 +558,10 @@ bpn4722
 
 -- Báb
 
-bpn4723 
+Prayer bpn4723 in Azərbaycan (bpn4723) 
+
+[bahaiprayers.net 4723](https://bahaiprayers.net/Book/Single/36/4723)
+
 
 ----
 
@@ -466,7 +571,10 @@ bpn4723
 
 -- Báb
 
-bpn4724 
+Prayer bpn4724 in Azərbaycan (bpn4724) 
+
+[bahaiprayers.net 4724](https://bahaiprayers.net/Book/Single/36/4724)
+
 
 ----
 
@@ -480,7 +588,10 @@ bpn4724
 
 -- Bahá'u'lláh
 
-bpn4696 
+Prayer bpn4696 in Azərbaycan (bpn4696) 
+
+[bahaiprayers.net 4696](https://bahaiprayers.net/Book/Single/36/4696)
+
 
 ----
 
@@ -490,7 +601,10 @@ bpn4696
 
 -- Abdu'l-Bahá
 
-bpn4730 
+Prayer bpn4730 in Azərbaycan (bpn4730) 
+
+[bahaiprayers.net 4730](https://bahaiprayers.net/Book/Single/36/4730)
+
 
 ----
 
@@ -504,7 +618,10 @@ bpn4730
 
 -- Bahá'u'lláh
 
-bpn4689 
+Prayer bpn4689 in Azərbaycan (bpn4689) 
+
+[bahaiprayers.net 4689](https://bahaiprayers.net/Book/Single/36/4689)
+
 
 ----
 
@@ -518,7 +635,10 @@ bpn4689
 
 -- Bahá'u'lláh
 
-bpn4695 
+Prayer bpn4695 in Azərbaycan (bpn4695) 
+
+[bahaiprayers.net 4695](https://bahaiprayers.net/Book/Single/36/4695)
+
 
 ----
 
@@ -528,7 +648,10 @@ bpn4695
 
 -- Abdu'l-Bahá
 
-bpn4726 
+Prayer bpn4726 in Azərbaycan (bpn4726) 
+
+[bahaiprayers.net 4726](https://bahaiprayers.net/Book/Single/36/4726)
+
 
 ----
 
@@ -538,7 +661,10 @@ bpn4726
 
 -- Abdu'l-Bahá
 
-bpn4727 
+Prayer bpn4727 in Azərbaycan (bpn4727) 
+
+[bahaiprayers.net 4727](https://bahaiprayers.net/Book/Single/36/4727)
+
 
 ----
 
@@ -548,7 +674,10 @@ bpn4727
 
 -- Abdu'l-Bahá
 
-bpn4728 
+Prayer bpn4728 in Azərbaycan (bpn4728) 
+
+[bahaiprayers.net 4728](https://bahaiprayers.net/Book/Single/36/4728)
+
 
 ----
 
@@ -558,7 +687,10 @@ bpn4728
 
 -- Abdu'l-Bahá
 
-bpn4729 
+Prayer bpn4729 in Azərbaycan (bpn4729) 
+
+[bahaiprayers.net 4729](https://bahaiprayers.net/Book/Single/36/4729)
+
 
 ----
 
@@ -572,7 +704,10 @@ bpn4729
 
 -- Bahá'u'lláh
 
-bpn4755 
+Prayer bpn4755 in Azərbaycan (bpn4755) 
+
+[bahaiprayers.net 4755](https://bahaiprayers.net/Book/Single/36/4755)
+
 
 ----
 
@@ -582,7 +717,10 @@ bpn4755
 
 -- Bahá'u'lláh
 
-bpn4756 
+Prayer bpn4756 in Azərbaycan (bpn4756) 
+
+[bahaiprayers.net 4756](https://bahaiprayers.net/Book/Single/36/4756)
+
 
 ----
 
@@ -592,7 +730,10 @@ bpn4756
 
 -- Bahá'u'lláh
 
-bpn4757 
+Prayer bpn4757 in Azərbaycan (bpn4757) 
+
+[bahaiprayers.net 4757](https://bahaiprayers.net/Book/Single/36/4757)
+
 
 ----
 
@@ -602,7 +743,10 @@ bpn4757
 
 -- Bahá'u'lláh
 
-bpn4758 
+Prayer bpn4758 in Azərbaycan (bpn4758) 
+
+[bahaiprayers.net 4758](https://bahaiprayers.net/Book/Single/36/4758)
+
 
 ----
 
@@ -612,7 +756,10 @@ bpn4758
 
 -- Bahá'u'lláh
 
-bpn4759 
+Prayer bpn4759 in Azərbaycan (bpn4759) 
+
+[bahaiprayers.net 4759](https://bahaiprayers.net/Book/Single/36/4759)
+
 
 ----
 
@@ -622,7 +769,10 @@ bpn4759
 
 -- Bahá'u'lláh
 
-bpn4760 
+Prayer bpn4760 in Azərbaycan (bpn4760) 
+
+[bahaiprayers.net 4760](https://bahaiprayers.net/Book/Single/36/4760)
+
 
 ----
 
@@ -632,7 +782,10 @@ bpn4760
 
 -- Báb
 
-bpn4761 
+Prayer bpn4761 in Azərbaycan (bpn4761) 
+
+[bahaiprayers.net 4761](https://bahaiprayers.net/Book/Single/36/4761)
+
 
 ----
 
@@ -642,7 +795,10 @@ bpn4761
 
 -- Báb
 
-bpn4762 
+Prayer bpn4762 in Azərbaycan (bpn4762) 
+
+[bahaiprayers.net 4762](https://bahaiprayers.net/Book/Single/36/4762)
+
 
 ----
 
@@ -652,7 +808,10 @@ bpn4762
 
 -- Abdu'l-Bahá
 
-bpn4763 
+Prayer bpn4763 in Azərbaycan (bpn4763) 
+
+[bahaiprayers.net 4763](https://bahaiprayers.net/Book/Single/36/4763)
+
 
 ----
 
@@ -662,7 +821,10 @@ bpn4763
 
 -- Abdu'l-Bahá
 
-bpn4764 
+Prayer bpn4764 in Azərbaycan (bpn4764) 
+
+[bahaiprayers.net 4764](https://bahaiprayers.net/Book/Single/36/4764)
+
 
 ----
 
@@ -676,7 +838,10 @@ bpn4764
 
 -- Abdu'l-Bahá
 
-bpn4736 
+Prayer bpn4736 in Azərbaycan (bpn4736) 
+
+[bahaiprayers.net 4736](https://bahaiprayers.net/Book/Single/36/4736)
+
 
 ----
 
@@ -686,7 +851,10 @@ bpn4736
 
 -- Abdu'l-Bahá
 
-bpn4737 
+Prayer bpn4737 in Azərbaycan (bpn4737) 
+
+[bahaiprayers.net 4737](https://bahaiprayers.net/Book/Single/36/4737)
+
 
 ----
 
@@ -696,7 +864,10 @@ bpn4737
 
 -- Abdu'l-Bahá
 
-bpn4738 
+Prayer bpn4738 in Azərbaycan (bpn4738) 
+
+[bahaiprayers.net 4738](https://bahaiprayers.net/Book/Single/36/4738)
+
 
 ----
 
@@ -706,7 +877,10 @@ bpn4738
 
 -- Abdu'l-Bahá
 
-bpn4739 
+Prayer bpn4739 in Azərbaycan (bpn4739) 
+
+[bahaiprayers.net 4739](https://bahaiprayers.net/Book/Single/36/4739)
+
 
 ----
 
@@ -716,7 +890,10 @@ bpn4739
 
 -- Abdu'l-Bahá
 
-bpn4740 
+Prayer bpn4740 in Azərbaycan (bpn4740) 
+
+[bahaiprayers.net 4740](https://bahaiprayers.net/Book/Single/36/4740)
+
 
 ----
 
@@ -730,7 +907,10 @@ bpn4740
 
 -- Bahá'u'lláh
 
-bpn4741 
+Prayer bpn4741 in Azərbaycan (bpn4741) 
+
+[bahaiprayers.net 4741](https://bahaiprayers.net/Book/Single/36/4741)
+
 
 ----
 
@@ -740,7 +920,10 @@ bpn4741
 
 -- Bahá'u'lláh
 
-bpn4742 
+Prayer bpn4742 in Azərbaycan (bpn4742) 
+
+[bahaiprayers.net 4742](https://bahaiprayers.net/Book/Single/36/4742)
+
 
 ----
 
@@ -750,7 +933,10 @@ bpn4742
 
 -- Bahá'u'lláh
 
-bpn4743 
+Prayer bpn4743 in Azərbaycan (bpn4743) 
+
+[bahaiprayers.net 4743](https://bahaiprayers.net/Book/Single/36/4743)
+
 
 ----
 
@@ -760,7 +946,10 @@ bpn4743
 
 -- Bahá'u'lláh
 
-bpn4744 
+Prayer bpn4744 in Azərbaycan (bpn4744) 
+
+[bahaiprayers.net 4744](https://bahaiprayers.net/Book/Single/36/4744)
+
 
 ----
 
@@ -770,7 +959,10 @@ bpn4744
 
 -- Bahá'u'lláh
 
-bpn4745 
+Prayer bpn4745 in Azərbaycan (bpn4745) 
+
+[bahaiprayers.net 4745](https://bahaiprayers.net/Book/Single/36/4745)
+
 
 ----
 
@@ -780,7 +972,10 @@ bpn4745
 
 -- Báb
 
-bpn4746 
+Prayer bpn4746 in Azərbaycan (bpn4746) 
+
+[bahaiprayers.net 4746](https://bahaiprayers.net/Book/Single/36/4746)
+
 
 ----
 
@@ -790,7 +985,10 @@ bpn4746
 
 -- Báb
 
-bpn4747 
+Prayer bpn4747 in Azərbaycan (bpn4747) 
+
+[bahaiprayers.net 4747](https://bahaiprayers.net/Book/Single/36/4747)
+
 
 ----
 
@@ -800,7 +998,10 @@ bpn4747
 
 -- Báb
 
-bpn4748 
+Prayer bpn4748 in Azərbaycan (bpn4748) 
+
+[bahaiprayers.net 4748](https://bahaiprayers.net/Book/Single/36/4748)
+
 
 ----
 
@@ -810,7 +1011,10 @@ bpn4748
 
 -- Abdu'l-Bahá
 
-bpn4749 
+Prayer bpn4749 in Azərbaycan (bpn4749) 
+
+[bahaiprayers.net 4749](https://bahaiprayers.net/Book/Single/36/4749)
+
 
 ----
 
@@ -820,7 +1024,10 @@ bpn4749
 
 -- Abdu'l-Bahá
 
-bpn4750 
+Prayer bpn4750 in Azərbaycan (bpn4750) 
+
+[bahaiprayers.net 4750](https://bahaiprayers.net/Book/Single/36/4750)
+
 
 ----
 
@@ -830,7 +1037,10 @@ bpn4750
 
 -- Abdu'l-Bahá
 
-bpn4751 
+Prayer bpn4751 in Azərbaycan (bpn4751) 
+
+[bahaiprayers.net 4751](https://bahaiprayers.net/Book/Single/36/4751)
+
 
 ----
 
@@ -844,7 +1054,10 @@ bpn4751
 
 -- Bahá'u'lláh
 
-bpn4887 
+Prayer bpn4887 in Azərbaycan (bpn4887) 
+
+[bahaiprayers.net 4887](https://bahaiprayers.net/Book/Single/36/4887)
+
 
 ----
 
@@ -854,7 +1067,10 @@ bpn4887
 
 -- Bahá'u'lláh
 
-bpn4888 
+Prayer bpn4888 in Azərbaycan (bpn4888) 
+
+[bahaiprayers.net 4888](https://bahaiprayers.net/Book/Single/36/4888)
+
 
 ----
 
@@ -868,7 +1084,10 @@ bpn4888
 
 -- Bahá'u'lláh
 
-bpn4896 
+Prayer bpn4896 in Azərbaycan (bpn4896) 
+
+[bahaiprayers.net 4896](https://bahaiprayers.net/Book/Single/36/4896)
+
 
 ----
 
@@ -882,7 +1101,10 @@ bpn4896
 
 -- Abdu'l-Bahá
 
-bpn4897 
+Prayer bpn4897 in Azərbaycan (bpn4897) 
+
+[bahaiprayers.net 4897](https://bahaiprayers.net/Book/Single/36/4897)
+
 
 ----
 
@@ -896,7 +1118,10 @@ bpn4897
 
 -- Bahá'u'lláh
 
-bpn4765 
+Prayer bpn4765 in Azərbaycan (bpn4765) 
+
+[bahaiprayers.net 4765](https://bahaiprayers.net/Book/Single/36/4765)
+
 
 ----
 
@@ -906,7 +1131,10 @@ bpn4765
 
 -- Bahá'u'lláh
 
-bpn4766 
+Prayer bpn4766 in Azərbaycan (bpn4766) 
+
+[bahaiprayers.net 4766](https://bahaiprayers.net/Book/Single/36/4766)
+
 
 ----
 
@@ -916,7 +1144,10 @@ bpn4766
 
 -- Báb
 
-bpn4767 
+Prayer bpn4767 in Azərbaycan (bpn4767) 
+
+[bahaiprayers.net 4767](https://bahaiprayers.net/Book/Single/36/4767)
+
 
 ----
 
@@ -926,7 +1157,10 @@ bpn4767
 
 -- Báb
 
-bpn4768 
+Prayer bpn4768 in Azərbaycan (bpn4768) 
+
+[bahaiprayers.net 4768](https://bahaiprayers.net/Book/Single/36/4768)
+
 
 ----
 
@@ -936,7 +1170,10 @@ bpn4768
 
 -- Abdu'l-Bahá
 
-bpn4769 
+Prayer bpn4769 in Azərbaycan (bpn4769) 
+
+[bahaiprayers.net 4769](https://bahaiprayers.net/Book/Single/36/4769)
+
 
 ----
 
@@ -946,7 +1183,10 @@ bpn4769
 
 -- Abdu'l-Bahá
 
-bpn4770 
+Prayer bpn4770 in Azərbaycan (bpn4770) 
+
+[bahaiprayers.net 4770](https://bahaiprayers.net/Book/Single/36/4770)
+
 
 ----
 
@@ -956,7 +1196,10 @@ bpn4770
 
 -- Abdu'l-Bahá
 
-bpn4771 
+Prayer bpn4771 in Azərbaycan (bpn4771) 
+
+[bahaiprayers.net 4771](https://bahaiprayers.net/Book/Single/36/4771)
+
 
 ----
 
@@ -970,7 +1213,10 @@ bpn4771
 
 -- Bahá'u'lláh
 
-bpn4780 
+Prayer bpn4780 in Azərbaycan (bpn4780) 
+
+[bahaiprayers.net 4780](https://bahaiprayers.net/Book/Single/36/4780)
+
 
 ----
 
@@ -980,7 +1226,10 @@ bpn4780
 
 -- Abdu'l-Bahá
 
-bpn4781 
+Prayer bpn4781 in Azərbaycan (bpn4781) 
+
+[bahaiprayers.net 4781](https://bahaiprayers.net/Book/Single/36/4781)
+
 
 ----
 
@@ -990,7 +1239,10 @@ bpn4781
 
 -- Abdu'l-Bahá
 
-bpn4782 
+Prayer bpn4782 in Azərbaycan (bpn4782) 
+
+[bahaiprayers.net 4782](https://bahaiprayers.net/Book/Single/36/4782)
+
 
 ----
 
@@ -1000,7 +1252,10 @@ bpn4782
 
 -- Abdu'l-Bahá
 
-bpn4783 
+Prayer bpn4783 in Azərbaycan (bpn4783) 
+
+[bahaiprayers.net 4783](https://bahaiprayers.net/Book/Single/36/4783)
+
 
 ----
 
@@ -1014,7 +1269,10 @@ bpn4783
 
 -- Abdu'l-Bahá
 
-bpn4784 
+Prayer bpn4784 in Azərbaycan (bpn4784) 
+
+[bahaiprayers.net 4784](https://bahaiprayers.net/Book/Single/36/4784)
+
 
 ----
 
@@ -1028,7 +1286,10 @@ bpn4784
 
 -- Bahá'u'lláh
 
-bpn4688 
+Prayer bpn4688 in Azərbaycan (bpn4688) 
+
+[bahaiprayers.net 4688](https://bahaiprayers.net/Book/Single/36/4688)
+
 
 ----
 
@@ -1042,7 +1303,10 @@ bpn4688
 
 -- Abdu'l-Bahá
 
-bpn4898 
+Prayer bpn4898 in Azərbaycan (bpn4898) 
+
+[bahaiprayers.net 4898](https://bahaiprayers.net/Book/Single/36/4898)
+
 
 ----
 
@@ -1056,7 +1320,10 @@ bpn4898
 
 -- Bahá'u'lláh
 
-bpn4772 
+Prayer bpn4772 in Azərbaycan (bpn4772) 
+
+[bahaiprayers.net 4772](https://bahaiprayers.net/Book/Single/36/4772)
+
 
 ----
 
@@ -1066,7 +1333,10 @@ bpn4772
 
 -- Bahá'u'lláh
 
-bpn4773 
+Prayer bpn4773 in Azərbaycan (bpn4773) 
+
+[bahaiprayers.net 4773](https://bahaiprayers.net/Book/Single/36/4773)
+
 
 ----
 
@@ -1076,7 +1346,10 @@ bpn4773
 
 -- Bahá'u'lláh
 
-bpn4774 
+Prayer bpn4774 in Azərbaycan (bpn4774) 
+
+[bahaiprayers.net 4774](https://bahaiprayers.net/Book/Single/36/4774)
+
 
 ----
 
@@ -1086,7 +1359,10 @@ bpn4774
 
 -- Bahá'u'lláh
 
-bpn4775 
+Prayer bpn4775 in Azərbaycan (bpn4775) 
+
+[bahaiprayers.net 4775](https://bahaiprayers.net/Book/Single/36/4775)
+
 
 ----
 
@@ -1096,7 +1372,10 @@ bpn4775
 
 -- Bahá'u'lláh
 
-bpn4776 
+Prayer bpn4776 in Azərbaycan (bpn4776) 
+
+[bahaiprayers.net 4776](https://bahaiprayers.net/Book/Single/36/4776)
+
 
 ----
 
@@ -1106,7 +1385,10 @@ bpn4776
 
 -- Bahá'u'lláh
 
-bpn4777 
+Prayer bpn4777 in Azərbaycan (bpn4777) 
+
+[bahaiprayers.net 4777](https://bahaiprayers.net/Book/Single/36/4777)
+
 
 ----
 
@@ -1116,7 +1398,10 @@ bpn4777
 
 -- Abdu'l-Bahá
 
-bpn4778 
+Prayer bpn4778 in Azərbaycan (bpn4778) 
+
+[bahaiprayers.net 4778](https://bahaiprayers.net/Book/Single/36/4778)
+
 
 ----
 
@@ -1126,7 +1411,10 @@ bpn4778
 
 -- Abdu'l-Bahá
 
-bpn4779 
+Prayer bpn4779 in Azərbaycan (bpn4779) 
+
+[bahaiprayers.net 4779](https://bahaiprayers.net/Book/Single/36/4779)
+
 
 ----
 
@@ -1140,7 +1428,10 @@ bpn4779
 
 -- Bahá'u'lláh
 
-bpn4687 
+Prayer bpn4687 in Azərbaycan (bpn4687) 
+
+[bahaiprayers.net 4687](https://bahaiprayers.net/Book/Single/36/4687)
+
 
 ----
 
@@ -1154,7 +1445,10 @@ bpn4687
 
 -- Abdu'l-Bahá
 
-bpn4890 
+Prayer bpn4890 in Azərbaycan (bpn4890) 
+
+[bahaiprayers.net 4890](https://bahaiprayers.net/Book/Single/36/4890)
+
 
 ----
 
@@ -1164,7 +1458,10 @@ bpn4890
 
 -- Abdu'l-Bahá
 
-bpn4891 
+Prayer bpn4891 in Azərbaycan (bpn4891) 
+
+[bahaiprayers.net 4891](https://bahaiprayers.net/Book/Single/36/4891)
+
 
 ----
 
@@ -1174,7 +1471,10 @@ bpn4891
 
 -- Abdu'l-Bahá
 
-bpn4892 
+Prayer bpn4892 in Azərbaycan (bpn4892) 
+
+[bahaiprayers.net 4892](https://bahaiprayers.net/Book/Single/36/4892)
+
 
 ----
 
@@ -1188,7 +1488,10 @@ bpn4892
 
 -- Bahá'u'lláh
 
-bpn4785 
+Prayer bpn4785 in Azərbaycan (bpn4785) 
+
+[bahaiprayers.net 4785](https://bahaiprayers.net/Book/Single/36/4785)
+
 
 ----
 
@@ -1198,7 +1501,10 @@ bpn4785
 
 -- Bahá'u'lláh
 
-bpn4786 
+Prayer bpn4786 in Azərbaycan (bpn4786) 
+
+[bahaiprayers.net 4786](https://bahaiprayers.net/Book/Single/36/4786)
+
 
 ----
 
@@ -1208,7 +1514,10 @@ bpn4786
 
 -- Bahá'u'lláh
 
-bpn4787 
+Prayer bpn4787 in Azərbaycan (bpn4787) 
+
+[bahaiprayers.net 4787](https://bahaiprayers.net/Book/Single/36/4787)
+
 
 ----
 
@@ -1218,7 +1527,10 @@ bpn4787
 
 -- Bahá'u'lláh
 
-bpn4788 
+Prayer bpn4788 in Azərbaycan (bpn4788) 
+
+[bahaiprayers.net 4788](https://bahaiprayers.net/Book/Single/36/4788)
+
 
 ----
 
@@ -1228,7 +1540,10 @@ bpn4788
 
 -- Bahá'u'lláh
 
-bpn4789 
+Prayer bpn4789 in Azərbaycan (bpn4789) 
+
+[bahaiprayers.net 4789](https://bahaiprayers.net/Book/Single/36/4789)
+
 
 ----
 
@@ -1238,7 +1553,10 @@ bpn4789
 
 -- Bahá'u'lláh
 
-bpn4790 
+Prayer bpn4790 in Azərbaycan (bpn4790) 
+
+[bahaiprayers.net 4790](https://bahaiprayers.net/Book/Single/36/4790)
+
 
 ----
 
@@ -1248,7 +1566,10 @@ bpn4790
 
 -- Bahá'u'lláh
 
-bpn4791 
+Prayer bpn4791 in Azərbaycan (bpn4791) 
+
+[bahaiprayers.net 4791](https://bahaiprayers.net/Book/Single/36/4791)
+
 
 ----
 
@@ -1258,7 +1579,10 @@ bpn4791
 
 -- Bahá'u'lláh
 
-bpn4792 
+Prayer bpn4792 in Azərbaycan (bpn4792) 
+
+[bahaiprayers.net 4792](https://bahaiprayers.net/Book/Single/36/4792)
+
 
 ----
 
@@ -1268,7 +1592,10 @@ bpn4792
 
 -- Báb
 
-bpn4793 
+Prayer bpn4793 in Azərbaycan (bpn4793) 
+
+[bahaiprayers.net 4793](https://bahaiprayers.net/Book/Single/36/4793)
+
 
 ----
 
@@ -1278,7 +1605,10 @@ bpn4793
 
 -- Abdu'l-Bahá
 
-bpn4794 
+Prayer bpn4794 in Azərbaycan (bpn4794) 
+
+[bahaiprayers.net 4794](https://bahaiprayers.net/Book/Single/36/4794)
+
 
 ----
 
@@ -1288,7 +1618,10 @@ bpn4794
 
 -- Abdu'l-Bahá
 
-bpn4795 
+Prayer bpn4795 in Azərbaycan (bpn4795) 
+
+[bahaiprayers.net 4795](https://bahaiprayers.net/Book/Single/36/4795)
+
 
 ----
 
@@ -1298,7 +1631,10 @@ bpn4795
 
 -- Abdu'l-Bahá
 
-bpn4796 
+Prayer bpn4796 in Azərbaycan (bpn4796) 
+
+[bahaiprayers.net 4796](https://bahaiprayers.net/Book/Single/36/4796)
+
 
 ----
 
@@ -1308,7 +1644,10 @@ bpn4796
 
 -- Abdu'l-Bahá
 
-bpn4797 
+Prayer bpn4797 in Azərbaycan (bpn4797) 
+
+[bahaiprayers.net 4797](https://bahaiprayers.net/Book/Single/36/4797)
+
 
 ----
 
@@ -1318,7 +1657,10 @@ bpn4797
 
 -- Abdu'l-Bahá
 
-bpn4798 
+Prayer bpn4798 in Azərbaycan (bpn4798) 
+
+[bahaiprayers.net 4798](https://bahaiprayers.net/Book/Single/36/4798)
+
 
 ----
 
@@ -1328,7 +1670,10 @@ bpn4798
 
 -- Abdu'l-Bahá
 
-bpn4799 
+Prayer bpn4799 in Azərbaycan (bpn4799) 
+
+[bahaiprayers.net 4799](https://bahaiprayers.net/Book/Single/36/4799)
+
 
 ----
 
@@ -1338,7 +1683,10 @@ bpn4799
 
 -- Abdu'l-Bahá
 
-bpn4800 
+Prayer bpn4800 in Azərbaycan (bpn4800) 
+
+[bahaiprayers.net 4800](https://bahaiprayers.net/Book/Single/36/4800)
+
 
 ----
 
@@ -1348,7 +1696,10 @@ bpn4800
 
 -- Abdu'l-Bahá
 
-bpn4801 
+Prayer bpn4801 in Azərbaycan (bpn4801) 
+
+[bahaiprayers.net 4801](https://bahaiprayers.net/Book/Single/36/4801)
+
 
 ----
 
@@ -1362,7 +1713,10 @@ bpn4801
 
 -- Bahá'u'lláh
 
-bpn4802 
+Prayer bpn4802 in Azərbaycan (bpn4802) 
+
+[bahaiprayers.net 4802](https://bahaiprayers.net/Book/Single/36/4802)
+
 
 ----
 
@@ -1372,7 +1726,10 @@ bpn4802
 
 -- Bahá'u'lláh
 
-bpn4803 
+Prayer bpn4803 in Azərbaycan (bpn4803) 
+
+[bahaiprayers.net 4803](https://bahaiprayers.net/Book/Single/36/4803)
+
 
 ----
 
@@ -1382,7 +1739,10 @@ bpn4803
 
 -- Bahá'u'lláh
 
-bpn4804 
+Prayer bpn4804 in Azərbaycan (bpn4804) 
+
+[bahaiprayers.net 4804](https://bahaiprayers.net/Book/Single/36/4804)
+
 
 ----
 
@@ -1392,7 +1752,10 @@ bpn4804
 
 -- Bahá'u'lláh
 
-bpn4805 
+Prayer bpn4805 in Azərbaycan (bpn4805) 
+
+[bahaiprayers.net 4805](https://bahaiprayers.net/Book/Single/36/4805)
+
 
 ----
 
@@ -1402,7 +1765,10 @@ bpn4805
 
 -- Bahá'u'lláh
 
-bpn4806 
+Prayer bpn4806 in Azərbaycan (bpn4806) 
+
+[bahaiprayers.net 4806](https://bahaiprayers.net/Book/Single/36/4806)
+
 
 ----
 
@@ -1412,7 +1778,10 @@ bpn4806
 
 -- Báb
 
-bpn4807 
+Prayer bpn4807 in Azərbaycan (bpn4807) 
+
+[bahaiprayers.net 4807](https://bahaiprayers.net/Book/Single/36/4807)
+
 
 ----
 
@@ -1422,7 +1791,10 @@ bpn4807
 
 -- Báb
 
-bpn4808 
+Prayer bpn4808 in Azərbaycan (bpn4808) 
+
+[bahaiprayers.net 4808](https://bahaiprayers.net/Book/Single/36/4808)
+
 
 ----
 
@@ -1432,7 +1804,10 @@ bpn4808
 
 -- Abdu'l-Bahá
 
-bpn4809 
+Prayer bpn4809 in Azərbaycan (bpn4809) 
+
+[bahaiprayers.net 4809](https://bahaiprayers.net/Book/Single/36/4809)
+
 
 ----
 
@@ -1442,7 +1817,10 @@ bpn4809
 
 -- Abdu'l-Bahá
 
-bpn4810 
+Prayer bpn4810 in Azərbaycan (bpn4810) 
+
+[bahaiprayers.net 4810](https://bahaiprayers.net/Book/Single/36/4810)
+
 
 ----
 
@@ -1456,7 +1834,10 @@ bpn4810
 
 -- Bahá'u'lláh
 
-bpn4815 
+Prayer bpn4815 in Azərbaycan (bpn4815) 
+
+[bahaiprayers.net 4815](https://bahaiprayers.net/Book/Single/36/4815)
+
 
 ----
 
@@ -1466,7 +1847,10 @@ bpn4815
 
 -- Bahá'u'lláh
 
-bpn4816 
+Prayer bpn4816 in Azərbaycan (bpn4816) 
+
+[bahaiprayers.net 4816](https://bahaiprayers.net/Book/Single/36/4816)
+
 
 ----
 
@@ -1476,7 +1860,10 @@ bpn4816
 
 -- Bahá'u'lláh
 
-bpn4817 
+Prayer bpn4817 in Azərbaycan (bpn4817) 
+
+[bahaiprayers.net 4817](https://bahaiprayers.net/Book/Single/36/4817)
+
 
 ----
 
@@ -1486,7 +1873,10 @@ bpn4817
 
 -- Bahá'u'lláh
 
-bpn4818 
+Prayer bpn4818 in Azərbaycan (bpn4818) 
+
+[bahaiprayers.net 4818](https://bahaiprayers.net/Book/Single/36/4818)
+
 
 ----
 
@@ -1496,7 +1886,10 @@ bpn4818
 
 -- Báb
 
-bpn4819 
+Prayer bpn4819 in Azərbaycan (bpn4819) 
+
+[bahaiprayers.net 4819](https://bahaiprayers.net/Book/Single/36/4819)
+
 
 ----
 
@@ -1506,7 +1899,10 @@ bpn4819
 
 -- Báb
 
-bpn4820 
+Prayer bpn4820 in Azərbaycan (bpn4820) 
+
+[bahaiprayers.net 4820](https://bahaiprayers.net/Book/Single/36/4820)
+
 
 ----
 
@@ -1516,7 +1912,10 @@ bpn4820
 
 -- Báb
 
-bpn4821 
+Prayer bpn4821 in Azərbaycan (bpn4821) 
+
+[bahaiprayers.net 4821](https://bahaiprayers.net/Book/Single/36/4821)
+
 
 ----
 
@@ -1526,7 +1925,10 @@ bpn4821
 
 -- Báb
 
-bpn4822 
+Prayer bpn4822 in Azərbaycan (bpn4822) 
+
+[bahaiprayers.net 4822](https://bahaiprayers.net/Book/Single/36/4822)
+
 
 ----
 
@@ -1536,7 +1938,10 @@ bpn4822
 
 -- Abdu'l-Bahá
 
-bpn4823 
+Prayer bpn4823 in Azərbaycan (bpn4823) 
+
+[bahaiprayers.net 4823](https://bahaiprayers.net/Book/Single/36/4823)
+
 
 ----
 
@@ -1550,7 +1955,10 @@ bpn4823
 
 -- Abdu'l-Bahá
 
-bpn4824 
+Prayer bpn4824 in Azərbaycan (bpn4824) 
+
+[bahaiprayers.net 4824](https://bahaiprayers.net/Book/Single/36/4824)
+
 
 ----
 
@@ -1560,7 +1968,10 @@ bpn4824
 
 -- Abdu'l-Bahá
 
-bpn4825 
+Prayer bpn4825 in Azərbaycan (bpn4825) 
+
+[bahaiprayers.net 4825](https://bahaiprayers.net/Book/Single/36/4825)
+
 
 ----
 
@@ -1574,7 +1985,10 @@ bpn4825
 
 -- Bahá'u'lláh
 
-bpn4811 
+Prayer bpn4811 in Azərbaycan (bpn4811) 
+
+[bahaiprayers.net 4811](https://bahaiprayers.net/Book/Single/36/4811)
+
 
 ----
 
@@ -1584,7 +1998,10 @@ bpn4811
 
 -- Bahá'u'lláh
 
-bpn4812 
+Prayer bpn4812 in Azərbaycan (bpn4812) 
+
+[bahaiprayers.net 4812](https://bahaiprayers.net/Book/Single/36/4812)
+
 
 ----
 
@@ -1594,7 +2011,10 @@ bpn4812
 
 -- Bahá'u'lláh
 
-bpn4813 
+Prayer bpn4813 in Azərbaycan (bpn4813) 
+
+[bahaiprayers.net 4813](https://bahaiprayers.net/Book/Single/36/4813)
+
 
 ----
 
@@ -1604,7 +2024,10 @@ bpn4813
 
 -- Bahá'u'lláh
 
-bpn4814 
+Prayer bpn4814 in Azərbaycan (bpn4814) 
+
+[bahaiprayers.net 4814](https://bahaiprayers.net/Book/Single/36/4814)
+
 
 ----
 
@@ -1618,7 +2041,10 @@ bpn4814
 
 -- Bahá'u'lláh
 
-bpn4697 
+Prayer bpn4697 in Azərbaycan (bpn4697) 
+
+[bahaiprayers.net 4697](https://bahaiprayers.net/Book/Single/36/4697)
+
 
 ----
 
@@ -1628,7 +2054,10 @@ bpn4697
 
 -- Bahá'u'lláh
 
-bpn4698 
+Prayer bpn4698 in Azərbaycan (bpn4698) 
+
+[bahaiprayers.net 4698](https://bahaiprayers.net/Book/Single/36/4698)
+
 
 ----
 
@@ -1638,7 +2067,10 @@ bpn4698
 
 -- Bahá'u'lláh
 
-bpn4699 
+Prayer bpn4699 in Azərbaycan (bpn4699) 
+
+[bahaiprayers.net 4699](https://bahaiprayers.net/Book/Single/36/4699)
+
 
 ----
 
@@ -1648,7 +2080,10 @@ bpn4699
 
 -- Báb
 
-bpn4700 
+Prayer bpn4700 in Azərbaycan (bpn4700) 
+
+[bahaiprayers.net 4700](https://bahaiprayers.net/Book/Single/36/4700)
+
 
 ----
 
@@ -1658,7 +2093,10 @@ bpn4700
 
 -- Báb
 
-bpn4701 
+Prayer bpn4701 in Azərbaycan (bpn4701) 
+
+[bahaiprayers.net 4701](https://bahaiprayers.net/Book/Single/36/4701)
+
 
 ----
 
@@ -1668,7 +2106,10 @@ bpn4701
 
 -- Báb
 
-bpn4702 
+Prayer bpn4702 in Azərbaycan (bpn4702) 
+
+[bahaiprayers.net 4702](https://bahaiprayers.net/Book/Single/36/4702)
+
 
 ----
 
@@ -1678,7 +2119,10 @@ bpn4702
 
 -- Báb
 
-bpn4703 
+Prayer bpn4703 in Azərbaycan (bpn4703) 
+
+[bahaiprayers.net 4703](https://bahaiprayers.net/Book/Single/36/4703)
+
 
 ----
 
@@ -1688,7 +2132,10 @@ bpn4703
 
 -- Abdu'l-Bahá
 
-bpn4704 
+Prayer bpn4704 in Azərbaycan (bpn4704) 
+
+[bahaiprayers.net 4704](https://bahaiprayers.net/Book/Single/36/4704)
+
 
 ----
 
@@ -1698,7 +2145,10 @@ bpn4704
 
 -- Abdu'l-Bahá
 
-bpn4705 
+Prayer bpn4705 in Azərbaycan (bpn4705) 
+
+[bahaiprayers.net 4705](https://bahaiprayers.net/Book/Single/36/4705)
+
 
 ----
 
@@ -1712,7 +2162,10 @@ bpn4705
 
 -- Bahá'u'lláh
 
-bpn4853 
+Prayer bpn4853 in Azərbaycan (bpn4853) 
+
+[bahaiprayers.net 4853](https://bahaiprayers.net/Book/Single/36/4853)
+
 
 ----
 
@@ -1722,7 +2175,10 @@ bpn4853
 
 -- Abdu'l-Bahá
 
-bpn4854 
+Prayer bpn4854 in Azərbaycan (bpn4854) 
+
+[bahaiprayers.net 4854](https://bahaiprayers.net/Book/Single/36/4854)
+
 
 ----
 
@@ -1732,7 +2188,10 @@ bpn4854
 
 -- Abdu'l-Bahá
 
-bpn4855 
+Prayer bpn4855 in Azərbaycan (bpn4855) 
+
+[bahaiprayers.net 4855](https://bahaiprayers.net/Book/Single/36/4855)
+
 
 ----
 
@@ -1742,7 +2201,10 @@ bpn4855
 
 -- Abdu'l-Bahá
 
-bpn4856 
+Prayer bpn4856 in Azərbaycan (bpn4856) 
+
+[bahaiprayers.net 4856](https://bahaiprayers.net/Book/Single/36/4856)
+
 
 ----
 
@@ -1752,7 +2214,10 @@ bpn4856
 
 -- Abdu'l-Bahá
 
-bpn4857 
+Prayer bpn4857 in Azərbaycan (bpn4857) 
+
+[bahaiprayers.net 4857](https://bahaiprayers.net/Book/Single/36/4857)
+
 
 ----
 
@@ -1762,7 +2227,10 @@ bpn4857
 
 -- Abdu'l-Bahá
 
-bpn4858 
+Prayer bpn4858 in Azərbaycan (bpn4858) 
+
+[bahaiprayers.net 4858](https://bahaiprayers.net/Book/Single/36/4858)
+
 
 ----
 
@@ -1772,7 +2240,10 @@ bpn4858
 
 -- Abdu'l-Bahá
 
-bpn4859 
+Prayer bpn4859 in Azərbaycan (bpn4859) 
+
+[bahaiprayers.net 4859](https://bahaiprayers.net/Book/Single/36/4859)
+
 
 ----
 
@@ -1786,7 +2257,10 @@ bpn4859
 
 -- Bahá'u'lláh
 
-bpn4860 
+Prayer bpn4860 in Azərbaycan (bpn4860) 
+
+[bahaiprayers.net 4860](https://bahaiprayers.net/Book/Single/36/4860)
+
 
 ----
 
@@ -1796,7 +2270,10 @@ bpn4860
 
 -- Bahá'u'lláh
 
-bpn4871 
+Prayer bpn4871 in Azərbaycan (bpn4871) 
+
+[bahaiprayers.net 4871](https://bahaiprayers.net/Book/Single/36/4871)
+
 
 ----
 
@@ -1806,7 +2283,10 @@ bpn4871
 
 -- Abdu'l-Bahá
 
-bpn4861 
+Prayer bpn4861 in Azərbaycan (bpn4861) 
+
+[bahaiprayers.net 4861](https://bahaiprayers.net/Book/Single/36/4861)
+
 
 ----
 
@@ -1816,7 +2296,10 @@ bpn4861
 
 -- Abdu'l-Bahá
 
-bpn4862 
+Prayer bpn4862 in Azərbaycan (bpn4862) 
+
+[bahaiprayers.net 4862](https://bahaiprayers.net/Book/Single/36/4862)
+
 
 ----
 
@@ -1826,7 +2309,10 @@ bpn4862
 
 -- Abdu'l-Bahá
 
-bpn4863 
+Prayer bpn4863 in Azərbaycan (bpn4863) 
+
+[bahaiprayers.net 4863](https://bahaiprayers.net/Book/Single/36/4863)
+
 
 ----
 
@@ -1836,7 +2322,10 @@ bpn4863
 
 -- Abdu'l-Bahá
 
-bpn4864 
+Prayer bpn4864 in Azərbaycan (bpn4864) 
+
+[bahaiprayers.net 4864](https://bahaiprayers.net/Book/Single/36/4864)
+
 
 ----
 
@@ -1846,7 +2335,10 @@ bpn4864
 
 -- Abdu'l-Bahá
 
-bpn4865 
+Prayer bpn4865 in Azərbaycan (bpn4865) 
+
+[bahaiprayers.net 4865](https://bahaiprayers.net/Book/Single/36/4865)
+
 
 ----
 
@@ -1856,7 +2348,10 @@ bpn4865
 
 -- Abdu'l-Bahá
 
-bpn4866 
+Prayer bpn4866 in Azərbaycan (bpn4866) 
+
+[bahaiprayers.net 4866](https://bahaiprayers.net/Book/Single/36/4866)
+
 
 ----
 
@@ -1866,7 +2361,10 @@ bpn4866
 
 -- Abdu'l-Bahá
 
-bpn4867 
+Prayer bpn4867 in Azərbaycan (bpn4867) 
+
+[bahaiprayers.net 4867](https://bahaiprayers.net/Book/Single/36/4867)
+
 
 ----
 
@@ -1876,7 +2374,10 @@ bpn4867
 
 -- Abdu'l-Bahá
 
-bpn4868 
+Prayer bpn4868 in Azərbaycan (bpn4868) 
+
+[bahaiprayers.net 4868](https://bahaiprayers.net/Book/Single/36/4868)
+
 
 ----
 
@@ -1886,7 +2387,10 @@ bpn4868
 
 -- Abdu'l-Bahá
 
-bpn4869 
+Prayer bpn4869 in Azərbaycan (bpn4869) 
+
+[bahaiprayers.net 4869](https://bahaiprayers.net/Book/Single/36/4869)
+
 
 ----
 
@@ -1896,7 +2400,10 @@ bpn4869
 
 -- Abdu'l-Bahá
 
-bpn4870 
+Prayer bpn4870 in Azərbaycan (bpn4870) 
+
+[bahaiprayers.net 4870](https://bahaiprayers.net/Book/Single/36/4870)
+
 
 ----
 
@@ -1910,7 +2417,10 @@ bpn4870
 
 -- Bahá'u'lláh
 
-bpn4872 
+Prayer bpn4872 in Azərbaycan (bpn4872) 
+
+[bahaiprayers.net 4872](https://bahaiprayers.net/Book/Single/36/4872)
+
 
 ----
 
@@ -1920,7 +2430,10 @@ bpn4872
 
 -- Bahá'u'lláh
 
-bpn4873 
+Prayer bpn4873 in Azərbaycan (bpn4873) 
+
+[bahaiprayers.net 4873](https://bahaiprayers.net/Book/Single/36/4873)
+
 
 ----
 
@@ -1930,7 +2443,10 @@ bpn4873
 
 -- Bahá'u'lláh
 
-bpn4874 
+Prayer bpn4874 in Azərbaycan (bpn4874) 
+
+[bahaiprayers.net 4874](https://bahaiprayers.net/Book/Single/36/4874)
+
 
 ----
 
@@ -1940,7 +2456,10 @@ bpn4874
 
 -- Abdu'l-Bahá
 
-bpn4875 
+Prayer bpn4875 in Azərbaycan (bpn4875) 
+
+[bahaiprayers.net 4875](https://bahaiprayers.net/Book/Single/36/4875)
+
 
 ----
 
@@ -1950,7 +2469,10 @@ bpn4875
 
 -- Abdu'l-Bahá
 
-bpn4876 
+Prayer bpn4876 in Azərbaycan (bpn4876) 
+
+[bahaiprayers.net 4876](https://bahaiprayers.net/Book/Single/36/4876)
+
 
 ----
 
@@ -1960,7 +2482,10 @@ bpn4876
 
 -- Abdu'l-Bahá
 
-bpn4877 
+Prayer bpn4877 in Azərbaycan (bpn4877) 
+
+[bahaiprayers.net 4877](https://bahaiprayers.net/Book/Single/36/4877)
+
 
 ----
 
@@ -1970,7 +2495,10 @@ bpn4877
 
 -- Abdu'l-Bahá
 
-bpn4878 
+Prayer bpn4878 in Azərbaycan (bpn4878) 
+
+[bahaiprayers.net 4878](https://bahaiprayers.net/Book/Single/36/4878)
+
 
 ----
 
@@ -1980,7 +2508,10 @@ bpn4878
 
 -- Abdu'l-Bahá
 
-bpn4879 
+Prayer bpn4879 in Azərbaycan (bpn4879) 
+
+[bahaiprayers.net 4879](https://bahaiprayers.net/Book/Single/36/4879)
+
 
 ----
 
@@ -1994,7 +2525,10 @@ bpn4879
 
 -- Abdu'l-Bahá
 
-bpn4754 
+Prayer bpn4754 in Azərbaycan (bpn4754) 
+
+[bahaiprayers.net 4754](https://bahaiprayers.net/Book/Single/36/4754)
+
 
 ----
 
@@ -2008,7 +2542,10 @@ bpn4754
 
 -- Bahá'u'lláh
 
-bpn4834 
+Prayer bpn4834 in Azərbaycan (bpn4834) 
+
+[bahaiprayers.net 4834](https://bahaiprayers.net/Book/Single/36/4834)
+
 
 ----
 
@@ -2018,7 +2555,10 @@ bpn4834
 
 -- Bahá'u'lláh
 
-bpn4835 
+Prayer bpn4835 in Azərbaycan (bpn4835) 
+
+[bahaiprayers.net 4835](https://bahaiprayers.net/Book/Single/36/4835)
+
 
 ----
 
@@ -2028,7 +2568,10 @@ bpn4835
 
 -- Bahá'u'lláh
 
-bpn4836 
+Prayer bpn4836 in Azərbaycan (bpn4836) 
+
+[bahaiprayers.net 4836](https://bahaiprayers.net/Book/Single/36/4836)
+
 
 ----
 
@@ -2038,7 +2581,10 @@ bpn4836
 
 -- Bahá'u'lláh
 
-bpn4837 
+Prayer bpn4837 in Azərbaycan (bpn4837) 
+
+[bahaiprayers.net 4837](https://bahaiprayers.net/Book/Single/36/4837)
+
 
 ----
 
@@ -2048,7 +2594,10 @@ bpn4837
 
 -- Bahá'u'lláh
 
-bpn4838 
+Prayer bpn4838 in Azərbaycan (bpn4838) 
+
+[bahaiprayers.net 4838](https://bahaiprayers.net/Book/Single/36/4838)
+
 
 ----
 
@@ -2058,7 +2607,10 @@ bpn4838
 
 -- Abdu'l-Bahá
 
-bpn4839 
+Prayer bpn4839 in Azərbaycan (bpn4839) 
+
+[bahaiprayers.net 4839](https://bahaiprayers.net/Book/Single/36/4839)
+
 
 ----
 
@@ -2068,7 +2620,10 @@ bpn4839
 
 -- Abdu'l-Bahá
 
-bpn4840 
+Prayer bpn4840 in Azərbaycan (bpn4840) 
+
+[bahaiprayers.net 4840](https://bahaiprayers.net/Book/Single/36/4840)
+
 
 ----
 
@@ -2078,7 +2633,10 @@ bpn4840
 
 -- Abdu'l-Bahá
 
-bpn4841 
+Prayer bpn4841 in Azərbaycan (bpn4841) 
+
+[bahaiprayers.net 4841](https://bahaiprayers.net/Book/Single/36/4841)
+
 
 ----
 
@@ -2088,7 +2646,10 @@ bpn4841
 
 -- Abdu'l-Bahá
 
-bpn4842 
+Prayer bpn4842 in Azərbaycan (bpn4842) 
+
+[bahaiprayers.net 4842](https://bahaiprayers.net/Book/Single/36/4842)
+
 
 ----
 
@@ -2098,7 +2659,10 @@ bpn4842
 
 -- Abdu'l-Bahá
 
-bpn4843 
+Prayer bpn4843 in Azərbaycan (bpn4843) 
+
+[bahaiprayers.net 4843](https://bahaiprayers.net/Book/Single/36/4843)
+
 
 ----
 
@@ -2108,7 +2672,10 @@ bpn4843
 
 -- Abdu'l-Bahá
 
-bpn4844 
+Prayer bpn4844 in Azərbaycan (bpn4844) 
+
+[bahaiprayers.net 4844](https://bahaiprayers.net/Book/Single/36/4844)
+
 
 ----
 
@@ -2118,7 +2685,10 @@ bpn4844
 
 -- Abdu'l-Bahá
 
-bpn4845 
+Prayer bpn4845 in Azərbaycan (bpn4845) 
+
+[bahaiprayers.net 4845](https://bahaiprayers.net/Book/Single/36/4845)
+
 
 ----
 
@@ -2128,7 +2698,10 @@ bpn4845
 
 -- Abdu'l-Bahá
 
-bpn4846 
+Prayer bpn4846 in Azərbaycan (bpn4846) 
+
+[bahaiprayers.net 4846](https://bahaiprayers.net/Book/Single/36/4846)
+
 
 ----
 
@@ -2138,7 +2711,10 @@ bpn4846
 
 -- Abdu'l-Bahá
 
-bpn4847 
+Prayer bpn4847 in Azərbaycan (bpn4847) 
+
+[bahaiprayers.net 4847](https://bahaiprayers.net/Book/Single/36/4847)
+
 
 ----
 
@@ -2148,7 +2724,10 @@ bpn4847
 
 -- Abdu'l-Bahá
 
-bpn4848 
+Prayer bpn4848 in Azərbaycan (bpn4848) 
+
+[bahaiprayers.net 4848](https://bahaiprayers.net/Book/Single/36/4848)
+
 
 ----
 
@@ -2158,7 +2737,10 @@ bpn4848
 
 -- Abdu'l-Bahá
 
-bpn4849 
+Prayer bpn4849 in Azərbaycan (bpn4849) 
+
+[bahaiprayers.net 4849](https://bahaiprayers.net/Book/Single/36/4849)
+
 
 ----
 
@@ -2168,7 +2750,10 @@ bpn4849
 
 -- Abdu'l-Bahá
 
-bpn4850 
+Prayer bpn4850 in Azərbaycan (bpn4850) 
+
+[bahaiprayers.net 4850](https://bahaiprayers.net/Book/Single/36/4850)
+
 
 ----
 
@@ -2178,7 +2763,10 @@ bpn4850
 
 -- Abdu'l-Bahá
 
-bpn4851 
+Prayer bpn4851 in Azərbaycan (bpn4851) 
+
+[bahaiprayers.net 4851](https://bahaiprayers.net/Book/Single/36/4851)
+
 
 ----
 
@@ -2188,7 +2776,10 @@ bpn4851
 
 -- Abdu'l-Bahá
 
-bpn4852 
+Prayer bpn4852 in Azərbaycan (bpn4852) 
+
+[bahaiprayers.net 4852](https://bahaiprayers.net/Book/Single/36/4852)
+
 
 ----
 
@@ -2202,7 +2793,10 @@ bpn4852
 
 -- Bahá'u'lláh
 
-bpn4752 
+Prayer bpn4752 in Azərbaycan (bpn4752) 
+
+[bahaiprayers.net 4752](https://bahaiprayers.net/Book/Single/36/4752)
+
 
 ----
 
@@ -2212,7 +2806,10 @@ bpn4752
 
 -- Bahá'u'lláh
 
-bpn4753 
+Prayer bpn4753 in Azərbaycan (bpn4753) 
+
+[bahaiprayers.net 4753](https://bahaiprayers.net/Book/Single/36/4753)
+
 
 ----
 
@@ -2226,7 +2823,10 @@ bpn4753
 
 -- Bahá'u'lláh
 
-bpn4830 
+Prayer bpn4830 in Azərbaycan (bpn4830) 
+
+[bahaiprayers.net 4830](https://bahaiprayers.net/Book/Single/36/4830)
+
 
 ----
 
@@ -2236,7 +2836,10 @@ bpn4830
 
 -- Bahá'u'lláh
 
-bpn4831 
+Prayer bpn4831 in Azərbaycan (bpn4831) 
+
+[bahaiprayers.net 4831](https://bahaiprayers.net/Book/Single/36/4831)
+
 
 ----
 
@@ -2246,7 +2849,10 @@ bpn4831
 
 -- Bahá'u'lláh
 
-bpn4832 
+Prayer bpn4832 in Azərbaycan (bpn4832) 
+
+[bahaiprayers.net 4832](https://bahaiprayers.net/Book/Single/36/4832)
+
 
 ----
 
@@ -2256,7 +2862,10 @@ bpn4832
 
 -- Báb
 
-bpn4833 
+Prayer bpn4833 in Azərbaycan (bpn4833) 
+
+[bahaiprayers.net 4833](https://bahaiprayers.net/Book/Single/36/4833)
+
 
 ----
 
@@ -2270,7 +2879,10 @@ bpn4833
 
 -- Bahá'u'lláh
 
-bpn4826 
+Prayer bpn4826 in Azərbaycan (bpn4826) 
+
+[bahaiprayers.net 4826](https://bahaiprayers.net/Book/Single/36/4826)
+
 
 ----
 
@@ -2280,7 +2892,10 @@ bpn4826
 
 -- Bahá'u'lláh
 
-bpn4827 
+Prayer bpn4827 in Azərbaycan (bpn4827) 
+
+[bahaiprayers.net 4827](https://bahaiprayers.net/Book/Single/36/4827)
+
 
 ----
 
@@ -2290,7 +2905,10 @@ bpn4827
 
 -- Bahá'u'lláh
 
-bpn4828 
+Prayer bpn4828 in Azərbaycan (bpn4828) 
+
+[bahaiprayers.net 4828](https://bahaiprayers.net/Book/Single/36/4828)
+
 
 ----
 
@@ -2300,7 +2918,10 @@ bpn4828
 
 -- Bahá'u'lláh
 
-bpn4829 
+Prayer bpn4829 in Azərbaycan (bpn4829) 
+
+[bahaiprayers.net 4829](https://bahaiprayers.net/Book/Single/36/4829)
+
 
 ----
 
@@ -2314,7 +2935,10 @@ bpn4829
 
 -- Abdu'l-Bahá
 
-bpn4889 
+Prayer bpn4889 in Azərbaycan (bpn4889) 
+
+[bahaiprayers.net 4889](https://bahaiprayers.net/Book/Single/36/4889)
+
 
 ----
 
@@ -2328,7 +2952,10 @@ bpn4889
 
 -- Bahá'u'lláh
 
-bpn4731 
+Prayer bpn4731 in Azərbaycan (bpn4731) 
+
+[bahaiprayers.net 4731](https://bahaiprayers.net/Book/Single/36/4731)
+
 
 ----
 
@@ -2338,7 +2965,10 @@ bpn4731
 
 -- Bahá'u'lláh
 
-bpn4732 
+Prayer bpn4732 in Azərbaycan (bpn4732) 
+
+[bahaiprayers.net 4732](https://bahaiprayers.net/Book/Single/36/4732)
+
 
 ----
 
@@ -2348,7 +2978,10 @@ bpn4732
 
 -- Abdu'l-Bahá
 
-bpn4733 
+Prayer bpn4733 in Azərbaycan (bpn4733) 
+
+[bahaiprayers.net 4733](https://bahaiprayers.net/Book/Single/36/4733)
+
 
 ----
 
@@ -2358,7 +2991,10 @@ bpn4733
 
 -- Abdu'l-Bahá
 
-bpn4734 
+Prayer bpn4734 in Azərbaycan (bpn4734) 
+
+[bahaiprayers.net 4734](https://bahaiprayers.net/Book/Single/36/4734)
+
 
 ----
 
@@ -2368,7 +3004,10 @@ bpn4734
 
 -- Abdu'l-Bahá
 
-bpn4735 
+Prayer bpn4735 in Azərbaycan (bpn4735) 
+
+[bahaiprayers.net 4735](https://bahaiprayers.net/Book/Single/36/4735)
+
 
 ----
 
@@ -2382,7 +3021,10 @@ bpn4735
 
 -- Bahá'u'lláh
 
-bpn4880 
+Prayer bpn4880 in Azərbaycan (bpn4880) 
+
+[bahaiprayers.net 4880](https://bahaiprayers.net/Book/Single/36/4880)
+
 
 ----
 
@@ -2392,7 +3034,10 @@ bpn4880
 
 -- Bahá'u'lláh
 
-bpn4881 
+Prayer bpn4881 in Azərbaycan (bpn4881) 
+
+[bahaiprayers.net 4881](https://bahaiprayers.net/Book/Single/36/4881)
+
 
 ----
 

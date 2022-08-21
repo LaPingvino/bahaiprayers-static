@@ -72,7 +72,10 @@ tags = ['lang=uk', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn13298 
+Prayer bpn13298 in Україна (bpn13298) 
+
+[bahaiprayers.net 13298](https://bahaiprayers.net/Book/Single/32/13298)
+
 
 ----
 
@@ -86,7 +89,10 @@ bpn13298
 
 -- Bahá'u'lláh
 
-bpn13315 
+Prayer bpn13315 in Україна (bpn13315) 
+
+[bahaiprayers.net 13315](https://bahaiprayers.net/Book/Single/32/13315)
+
 
 ----
 
@@ -100,7 +106,10 @@ bpn13315
 
 -- Báb
 
-bpn13266 
+Prayer bpn13266 in Україна (bpn13266) 
+
+[bahaiprayers.net 13266](https://bahaiprayers.net/Book/Single/32/13266)
+
 
 ----
 
@@ -110,7 +119,10 @@ bpn13266
 
 -- Báb
 
-bpn13688 
+Prayer bpn13688 in Україна (bpn13688) 
+
+[bahaiprayers.net 13688](https://bahaiprayers.net/Book/Single/32/13688)
+
 
 ----
 
@@ -124,7 +136,10 @@ bpn13688
 
 -- Bahá'u'lláh
 
-bpn13692 
+Prayer bpn13692 in Україна (bpn13692) 
+
+[bahaiprayers.net 13692](https://bahaiprayers.net/Book/Single/32/13692)
+
 
 ----
 
@@ -138,7 +153,10 @@ bpn13692
 
 -- Bahá'u'lláh
 
-bpn13264 
+Prayer bpn13264 in Україна (bpn13264) 
+
+[bahaiprayers.net 13264](https://bahaiprayers.net/Book/Single/32/13264)
+
 
 ----
 
@@ -148,7 +166,10 @@ bpn13264
 
 -- Báb
 
-bpn13312 
+Prayer bpn13312 in Україна (bpn13312) 
+
+[bahaiprayers.net 13312](https://bahaiprayers.net/Book/Single/32/13312)
+
 
 ----
 
@@ -158,7 +179,10 @@ bpn13312
 
 -- Abdu'l-Bahá
 
-bpn13265 
+Prayer bpn13265 in Україна (bpn13265) 
+
+[bahaiprayers.net 13265](https://bahaiprayers.net/Book/Single/32/13265)
+
 
 ----
 
@@ -168,7 +192,10 @@ bpn13265
 
 -- Abdu'l-Bahá
 
-bpn13313 
+Prayer bpn13313 in Україна (bpn13313) 
+
+[bahaiprayers.net 13313](https://bahaiprayers.net/Book/Single/32/13313)
+
 
 ----
 
@@ -182,7 +209,10 @@ bpn13313
 
 -- Bahá'u'lláh
 
-bpn13283 
+Prayer bpn13283 in Україна (bpn13283) 
+
+[bahaiprayers.net 13283](https://bahaiprayers.net/Book/Single/32/13283)
+
 
 ----
 
@@ -192,7 +222,10 @@ bpn13283
 
 -- Bahá'u'lláh
 
-bpn13284 
+Prayer bpn13284 in Україна (bpn13284) 
+
+[bahaiprayers.net 13284](https://bahaiprayers.net/Book/Single/32/13284)
+
 
 ----
 
@@ -202,7 +235,10 @@ bpn13284
 
 -- Bahá'u'lláh
 
-bpn13310 
+Prayer bpn13310 in Україна (bpn13310) 
+
+[bahaiprayers.net 13310](https://bahaiprayers.net/Book/Single/32/13310)
+
 
 ----
 
@@ -212,7 +248,10 @@ bpn13310
 
 -- Bahá'u'lláh
 
-bpn13311 
+Prayer bpn13311 in Україна (bpn13311) 
+
+[bahaiprayers.net 13311](https://bahaiprayers.net/Book/Single/32/13311)
+
 
 ----
 
@@ -222,7 +261,10 @@ bpn13311
 
 -- Abdu'l-Bahá
 
-bpn13285 
+Prayer bpn13285 in Україна (bpn13285) 
+
+[bahaiprayers.net 13285](https://bahaiprayers.net/Book/Single/32/13285)
+
 
 ----
 
@@ -232,7 +274,10 @@ bpn13285
 
 -- Abdu'l-Bahá
 
-bpn13286 
+Prayer bpn13286 in Україна (bpn13286) 
+
+[bahaiprayers.net 13286](https://bahaiprayers.net/Book/Single/32/13286)
+
 
 ----
 
@@ -242,7 +287,10 @@ bpn13286
 
 -- Abdu'l-Bahá
 
-bpn13287 
+Prayer bpn13287 in Україна (bpn13287) 
+
+[bahaiprayers.net 13287](https://bahaiprayers.net/Book/Single/32/13287)
+
 
 ----
 
@@ -252,7 +300,10 @@ bpn13287
 
 -- Abdu'l-Bahá
 
-bpn13690 
+Prayer bpn13690 in Україна (bpn13690) 
+
+[bahaiprayers.net 13690](https://bahaiprayers.net/Book/Single/32/13690)
+
 
 ----
 
@@ -266,7 +317,10 @@ bpn13690
 
 -- Abdu'l-Bahá
 
-bpn13300 
+Prayer bpn13300 in Україна (bpn13300) 
+
+[bahaiprayers.net 13300](https://bahaiprayers.net/Book/Single/32/13300)
+
 
 ----
 
@@ -276,7 +330,10 @@ bpn13300
 
 -- Abdu'l-Bahá
 
-bpn13301 
+Prayer bpn13301 in Україна (bpn13301) 
+
+[bahaiprayers.net 13301](https://bahaiprayers.net/Book/Single/32/13301)
+
 
 ----
 
@@ -286,7 +343,10 @@ bpn13301
 
 -- Abdu'l-Bahá
 
-bpn13302 
+Prayer bpn13302 in Україна (bpn13302) 
+
+[bahaiprayers.net 13302](https://bahaiprayers.net/Book/Single/32/13302)
+
 
 ----
 
@@ -296,7 +356,10 @@ bpn13302
 
 -- Abdu'l-Bahá
 
-bpn13314 
+Prayer bpn13314 in Україна (bpn13314) 
+
+[bahaiprayers.net 13314](https://bahaiprayers.net/Book/Single/32/13314)
+
 
 ----
 
@@ -310,7 +373,10 @@ bpn13314
 
 -- Bahá'u'lláh
 
-bpn13303 
+Prayer bpn13303 in Україна (bpn13303) 
+
+[bahaiprayers.net 13303](https://bahaiprayers.net/Book/Single/32/13303)
+
 
 ----
 
@@ -320,7 +386,10 @@ bpn13303
 
 -- Abdu'l-Bahá
 
-bpn13277 
+Prayer bpn13277 in Україна (bpn13277) 
+
+[bahaiprayers.net 13277](https://bahaiprayers.net/Book/Single/32/13277)
+
 
 ----
 
@@ -330,7 +399,10 @@ bpn13277
 
 -- Abdu'l-Bahá
 
-bpn13306 
+Prayer bpn13306 in Україна (bpn13306) 
+
+[bahaiprayers.net 13306](https://bahaiprayers.net/Book/Single/32/13306)
+
 
 ----
 
@@ -344,7 +416,10 @@ bpn13306
 
 -- Abdu'l-Bahá
 
-bpn13271 
+Prayer bpn13271 in Україна (bpn13271) 
+
+[bahaiprayers.net 13271](https://bahaiprayers.net/Book/Single/32/13271)
+
 
 ----
 
@@ -358,7 +433,10 @@ bpn13271
 
 -- Bahá'u'lláh
 
-bpn13293 
+Prayer bpn13293 in Україна (bpn13293) 
+
+[bahaiprayers.net 13293](https://bahaiprayers.net/Book/Single/32/13293)
+
 
 ----
 
@@ -368,7 +446,10 @@ bpn13293
 
 -- Abdu'l-Bahá
 
-bpn13697 
+Prayer bpn13697 in Україна (bpn13697) 
+
+[bahaiprayers.net 13697](https://bahaiprayers.net/Book/Single/32/13697)
+
 
 ----
 
@@ -382,7 +463,10 @@ bpn13697
 
 -- Abdu'l-Bahá
 
-bpn13289 
+Prayer bpn13289 in Україна (bpn13289) 
+
+[bahaiprayers.net 13289](https://bahaiprayers.net/Book/Single/32/13289)
+
 
 ----
 
@@ -392,7 +476,10 @@ bpn13289
 
 -- Abdu'l-Bahá
 
-bpn13290 
+Prayer bpn13290 in Україна (bpn13290) 
+
+[bahaiprayers.net 13290](https://bahaiprayers.net/Book/Single/32/13290)
+
 
 ----
 
@@ -402,7 +489,10 @@ bpn13290
 
 -- Abdu'l-Bahá
 
-bpn13291 
+Prayer bpn13291 in Україна (bpn13291) 
+
+[bahaiprayers.net 13291](https://bahaiprayers.net/Book/Single/32/13291)
+
 
 ----
 
@@ -416,7 +506,10 @@ bpn13291
 
 -- Abdu'l-Bahá
 
-bpn13267 
+Prayer bpn13267 in Україна (bpn13267) 
+
+[bahaiprayers.net 13267](https://bahaiprayers.net/Book/Single/32/13267)
+
 
 ----
 
@@ -426,7 +519,10 @@ bpn13267
 
 -- Abdu'l-Bahá
 
-bpn13268 
+Prayer bpn13268 in Україна (bpn13268) 
+
+[bahaiprayers.net 13268](https://bahaiprayers.net/Book/Single/32/13268)
+
 
 ----
 
@@ -440,7 +536,10 @@ bpn13268
 
 -- Bahá'u'lláh
 
-bpn13278 
+Prayer bpn13278 in Україна (bpn13278) 
+
+[bahaiprayers.net 13278](https://bahaiprayers.net/Book/Single/32/13278)
+
 
 ----
 
@@ -450,7 +549,10 @@ bpn13278
 
 -- Bahá'u'lláh
 
-bpn13279 
+Prayer bpn13279 in Україна (bpn13279) 
+
+[bahaiprayers.net 13279](https://bahaiprayers.net/Book/Single/32/13279)
+
 
 ----
 
@@ -460,7 +562,10 @@ bpn13279
 
 -- Bahá'u'lláh
 
-bpn13280 
+Prayer bpn13280 in Україна (bpn13280) 
+
+[bahaiprayers.net 13280](https://bahaiprayers.net/Book/Single/32/13280)
+
 
 ----
 
@@ -470,7 +575,10 @@ bpn13280
 
 -- Bahá'u'lláh
 
-bpn13695 
+Prayer bpn13695 in Україна (bpn13695) 
+
+[bahaiprayers.net 13695](https://bahaiprayers.net/Book/Single/32/13695)
+
 
 ----
 
@@ -480,7 +588,10 @@ bpn13695
 
 -- Báb
 
-bpn13281 
+Prayer bpn13281 in Україна (bpn13281) 
+
+[bahaiprayers.net 13281](https://bahaiprayers.net/Book/Single/32/13281)
+
 
 ----
 
@@ -490,7 +601,10 @@ bpn13281
 
 -- Abdu'l-Bahá
 
-bpn13282 
+Prayer bpn13282 in Україна (bpn13282) 
+
+[bahaiprayers.net 13282](https://bahaiprayers.net/Book/Single/32/13282)
+
 
 ----
 
@@ -504,7 +618,10 @@ bpn13282
 
 -- Bahá'u'lláh
 
-bpn13572 
+Prayer bpn13572 in Україна (bpn13572) 
+
+[bahaiprayers.net 13572](https://bahaiprayers.net/Book/Single/32/13572)
+
 
 ----
 
@@ -514,7 +631,10 @@ bpn13572
 
 -- Bahá'u'lláh
 
-bpn13573 
+Prayer bpn13573 in Україна (bpn13573) 
+
+[bahaiprayers.net 13573](https://bahaiprayers.net/Book/Single/32/13573)
+
 
 ----
 
@@ -524,7 +644,10 @@ bpn13573
 
 -- Bahá'u'lláh
 
-bpn13668 
+Prayer bpn13668 in Україна (bpn13668) 
+
+[bahaiprayers.net 13668](https://bahaiprayers.net/Book/Single/32/13668)
+
 
 ----
 
@@ -534,7 +657,10 @@ bpn13668
 
 -- Bahá'u'lláh
 
-bpn13669 
+Prayer bpn13669 in Україна (bpn13669) 
+
+[bahaiprayers.net 13669](https://bahaiprayers.net/Book/Single/32/13669)
+
 
 ----
 
@@ -544,7 +670,10 @@ bpn13669
 
 -- Bahá'u'lláh
 
-bpn13693 
+Prayer bpn13693 in Україна (bpn13693) 
+
+[bahaiprayers.net 13693](https://bahaiprayers.net/Book/Single/32/13693)
+
 
 ----
 
@@ -554,7 +683,10 @@ bpn13693
 
 -- Bahá'u'lláh
 
-bpn13694 
+Prayer bpn13694 in Україна (bpn13694) 
+
+[bahaiprayers.net 13694](https://bahaiprayers.net/Book/Single/32/13694)
+
 
 ----
 
@@ -564,7 +696,10 @@ bpn13694
 
 -- Báb
 
-bpn13269 
+Prayer bpn13269 in Україна (bpn13269) 
+
+[bahaiprayers.net 13269](https://bahaiprayers.net/Book/Single/32/13269)
+
 
 ----
 
@@ -574,7 +709,10 @@ bpn13269
 
 -- Báb
 
-bpn13317 
+Prayer bpn13317 in Україна (bpn13317) 
+
+[bahaiprayers.net 13317](https://bahaiprayers.net/Book/Single/32/13317)
+
 
 ----
 
@@ -584,7 +722,10 @@ bpn13317
 
 -- Abdu'l-Bahá
 
-bpn13270 
+Prayer bpn13270 in Україна (bpn13270) 
+
+[bahaiprayers.net 13270](https://bahaiprayers.net/Book/Single/32/13270)
+
 
 ----
 
@@ -598,7 +739,10 @@ bpn13270
 
 -- Bahá'u'lláh
 
-bpn13275 
+Prayer bpn13275 in Україна (bpn13275) 
+
+[bahaiprayers.net 13275](https://bahaiprayers.net/Book/Single/32/13275)
+
 
 ----
 
@@ -608,7 +752,10 @@ bpn13275
 
 -- Bahá'u'lláh
 
-bpn13276 
+Prayer bpn13276 in Україна (bpn13276) 
+
+[bahaiprayers.net 13276](https://bahaiprayers.net/Book/Single/32/13276)
+
 
 ----
 
@@ -622,7 +769,10 @@ bpn13276
 
 -- Abdu'l-Bahá
 
-bpn13273 
+Prayer bpn13273 in Україна (bpn13273) 
+
+[bahaiprayers.net 13273](https://bahaiprayers.net/Book/Single/32/13273)
+
 
 ----
 
@@ -632,7 +782,10 @@ bpn13273
 
 -- Abdu'l-Bahá
 
-bpn13274 
+Prayer bpn13274 in Україна (bpn13274) 
+
+[bahaiprayers.net 13274](https://bahaiprayers.net/Book/Single/32/13274)
+
 
 ----
 
@@ -642,7 +795,10 @@ bpn13274
 
 -- Abdu'l-Bahá
 
-bpn13437 
+Prayer bpn13437 in Україна (bpn13437) 
+
+[bahaiprayers.net 13437](https://bahaiprayers.net/Book/Single/32/13437)
+
 
 ----
 
@@ -656,7 +812,10 @@ bpn13437
 
 -- Bahá'u'lláh
 
-bpn13263 
+Prayer bpn13263 in Україна (bpn13263) 
+
+[bahaiprayers.net 13263](https://bahaiprayers.net/Book/Single/32/13263)
+
 
 ----
 
@@ -670,7 +829,10 @@ bpn13263
 
 -- Bahá'u'lláh
 
-bpn13723 
+Prayer bpn13723 in Україна (bpn13723) 
+
+[bahaiprayers.net 13723](https://bahaiprayers.net/Book/Single/32/13723)
+
 
 ----
 
@@ -684,7 +846,10 @@ bpn13723
 
 -- Abdu'l-Bahá
 
-bpn13696 
+Prayer bpn13696 in Україна (bpn13696) 
+
+[bahaiprayers.net 13696](https://bahaiprayers.net/Book/Single/32/13696)
+
 
 ----
 
@@ -698,7 +863,10 @@ bpn13696
 
 -- Abdu'l-Bahá
 
-bpn13272 
+Prayer bpn13272 in Україна (bpn13272) 
+
+[bahaiprayers.net 13272](https://bahaiprayers.net/Book/Single/32/13272)
+
 
 ----
 
@@ -712,7 +880,10 @@ bpn13272
 
 -- Bahá'u'lláh
 
-bpn13295 
+Prayer bpn13295 in Україна (bpn13295) 
+
+[bahaiprayers.net 13295](https://bahaiprayers.net/Book/Single/32/13295)
+
 
 ----
 
@@ -722,7 +893,10 @@ bpn13295
 
 -- Báb
 
-bpn13296 
+Prayer bpn13296 in Україна (bpn13296) 
+
+[bahaiprayers.net 13296](https://bahaiprayers.net/Book/Single/32/13296)
+
 
 ----
 
@@ -732,7 +906,10 @@ bpn13296
 
 -- Báb
 
-bpn13297 
+Prayer bpn13297 in Україна (bpn13297) 
+
+[bahaiprayers.net 13297](https://bahaiprayers.net/Book/Single/32/13297)
+
 
 ----
 
@@ -742,7 +919,10 @@ bpn13297
 
 -- Abdu'l-Bahá
 
-bpn13299 
+Prayer bpn13299 in Україна (bpn13299) 
+
+[bahaiprayers.net 13299](https://bahaiprayers.net/Book/Single/32/13299)
+
 
 ----
 
@@ -756,7 +936,10 @@ bpn13299
 
 -- Abdu'l-Bahá
 
-bpn13316 
+Prayer bpn13316 in Україна (bpn13316) 
+
+[bahaiprayers.net 13316](https://bahaiprayers.net/Book/Single/32/13316)
+
 
 ----
 
@@ -770,7 +953,10 @@ bpn13316
 
 -- Bahá'u'lláh
 
-bpn13304 
+Prayer bpn13304 in Україна (bpn13304) 
+
+[bahaiprayers.net 13304](https://bahaiprayers.net/Book/Single/32/13304)
+
 
 ----
 
@@ -780,7 +966,10 @@ bpn13304
 
 -- Bahá'u'lláh
 
-bpn13305 
+Prayer bpn13305 in Україна (bpn13305) 
+
+[bahaiprayers.net 13305](https://bahaiprayers.net/Book/Single/32/13305)
+
 
 ----
 
@@ -794,7 +983,10 @@ bpn13305
 
 -- Bahá'u'lláh
 
-bpn13698 
+Prayer bpn13698 in Україна (bpn13698) 
+
+[bahaiprayers.net 13698](https://bahaiprayers.net/Book/Single/32/13698)
+
 
 ----
 
@@ -808,7 +1000,10 @@ bpn13698
 
 -- Bahá'u'lláh
 
-bpn13294 
+Prayer bpn13294 in Україна (bpn13294) 
+
+[bahaiprayers.net 13294](https://bahaiprayers.net/Book/Single/32/13294)
+
 
 ----
 
@@ -822,7 +1017,10 @@ bpn13294
 
 -- Bahá'u'lláh
 
-bpn13307 
+Prayer bpn13307 in Україна (bpn13307) 
+
+[bahaiprayers.net 13307](https://bahaiprayers.net/Book/Single/32/13307)
+
 
 ----
 
@@ -832,7 +1030,10 @@ bpn13307
 
 -- Abdu'l-Bahá
 
-bpn13288 
+Prayer bpn13288 in Україна (bpn13288) 
+
+[bahaiprayers.net 13288](https://bahaiprayers.net/Book/Single/32/13288)
+
 
 ----
 
@@ -842,7 +1043,10 @@ bpn13288
 
 -- Abdu'l-Bahá
 
-bpn13308 
+Prayer bpn13308 in Україна (bpn13308) 
+
+[bahaiprayers.net 13308](https://bahaiprayers.net/Book/Single/32/13308)
+
 
 ----
 
@@ -856,7 +1060,10 @@ bpn13308
 
 -- Bahá'u'lláh
 
-bpn13689 
+Prayer bpn13689 in Україна (bpn13689) 
+
+[bahaiprayers.net 13689](https://bahaiprayers.net/Book/Single/32/13689)
+
 
 ----
 
@@ -866,7 +1073,10 @@ bpn13689
 
 -- Bahá'u'lláh
 
-bpn13699 
+Prayer bpn13699 in Україна (bpn13699) 
+
+[bahaiprayers.net 13699](https://bahaiprayers.net/Book/Single/32/13699)
+
 
 ----
 
@@ -876,7 +1086,10 @@ bpn13699
 
 -- Báb
 
-bpn13700 
+Prayer bpn13700 in Україна (bpn13700) 
+
+[bahaiprayers.net 13700](https://bahaiprayers.net/Book/Single/32/13700)
+
 
 ----
 
@@ -886,7 +1099,10 @@ bpn13700
 
 -- Báb
 
-bpn13722 
+Prayer bpn13722 in Україна (bpn13722) 
+
+[bahaiprayers.net 13722](https://bahaiprayers.net/Book/Single/32/13722)
+
 
 ----
 
@@ -896,7 +1112,10 @@ bpn13722
 
 -- Abdu'l-Bahá
 
-bpn13292 
+Prayer bpn13292 in Україна (bpn13292) 
+
+[bahaiprayers.net 13292](https://bahaiprayers.net/Book/Single/32/13292)
+
 
 ----
 
@@ -910,7 +1129,10 @@ bpn13292
 
 -- Bahá'u'lláh
 
-bpn13309 
+Prayer bpn13309 in Україна (bpn13309) 
+
+[bahaiprayers.net 13309](https://bahaiprayers.net/Book/Single/32/13309)
+
 
 ----
 

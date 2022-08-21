@@ -60,7 +60,10 @@ tags = ['lang=be', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2336 
+Prayer bpn2336 in Беларускі (bpn2336) 
+
+[bahaiprayers.net 2336](https://bahaiprayers.net/Book/Single/14/2336)
+
 
 ----
 
@@ -74,7 +77,10 @@ bpn2336
 
 -- Bahá'u'lláh
 
-bpn2337 
+Prayer bpn2337 in Беларускі (bpn2337) 
+
+[bahaiprayers.net 2337](https://bahaiprayers.net/Book/Single/14/2337)
+
 
 ----
 
@@ -88,7 +94,10 @@ bpn2337
 
 -- Abdu'l-Bahá
 
-bpn2339 
+Prayer bpn2339 in Беларускі (bpn2339) 
+
+[bahaiprayers.net 2339](https://bahaiprayers.net/Book/Single/14/2339)
+
 
 ----
 
@@ -102,7 +111,10 @@ bpn2339
 
 -- Bahá'u'lláh
 
-bpn2335 
+Prayer bpn2335 in Беларускі (bpn2335) 
+
+[bahaiprayers.net 2335](https://bahaiprayers.net/Book/Single/14/2335)
+
 
 ----
 
@@ -116,7 +128,10 @@ bpn2335
 
 -- Abdu'l-Bahá
 
-bpn2326 
+Prayer bpn2326 in Беларускі (bpn2326) 
+
+[bahaiprayers.net 2326](https://bahaiprayers.net/Book/Single/14/2326)
+
 
 ----
 
@@ -130,7 +145,10 @@ bpn2326
 
 -- Báb
 
-bpn2338 
+Prayer bpn2338 in Беларускі (bpn2338) 
+
+[bahaiprayers.net 2338](https://bahaiprayers.net/Book/Single/14/2338)
+
 
 ----
 
@@ -144,7 +162,10 @@ bpn2338
 
 -- Bahá'u'lláh
 
-bpn2329 
+Prayer bpn2329 in Беларускі (bpn2329) 
+
+[bahaiprayers.net 2329](https://bahaiprayers.net/Book/Single/14/2329)
+
 
 ----
 
@@ -158,7 +179,10 @@ bpn2329
 
 -- Bahá'u'lláh
 
-bpn2334 
+Prayer bpn2334 in Беларускі (bpn2334) 
+
+[bahaiprayers.net 2334](https://bahaiprayers.net/Book/Single/14/2334)
+
 
 ----
 
@@ -172,7 +196,10 @@ bpn2334
 
 -- Báb
 
-bpn2340 
+Prayer bpn2340 in Беларускі (bpn2340) 
+
+[bahaiprayers.net 2340](https://bahaiprayers.net/Book/Single/14/2340)
+
 
 ----
 
@@ -186,7 +213,10 @@ bpn2340
 
 -- Abdu'l-Bahá
 
-bpn2341 
+Prayer bpn2341 in Беларускі (bpn2341) 
+
+[bahaiprayers.net 2341](https://bahaiprayers.net/Book/Single/14/2341)
+
 
 ----
 
@@ -200,7 +230,10 @@ bpn2341
 
 -- Abdu'l-Bahá
 
-bpn2331 
+Prayer bpn2331 in Беларускі (bpn2331) 
+
+[bahaiprayers.net 2331](https://bahaiprayers.net/Book/Single/14/2331)
+
 
 ----
 
@@ -214,7 +247,10 @@ bpn2331
 
 -- Abdu'l-Bahá
 
-bpn2333 
+Prayer bpn2333 in Беларускі (bpn2333) 
+
+[bahaiprayers.net 2333](https://bahaiprayers.net/Book/Single/14/2333)
+
 
 ----
 
@@ -228,7 +264,10 @@ bpn2333
 
 -- Abdu'l-Bahá
 
-bpn2342 
+Prayer bpn2342 in Беларускі (bpn2342) 
+
+[bahaiprayers.net 2342](https://bahaiprayers.net/Book/Single/14/2342)
+
 
 ----
 
@@ -242,7 +281,10 @@ bpn2342
 
 -- Bahá'u'lláh
 
-bpn2327 
+Prayer bpn2327 in Беларускі (bpn2327) 
+
+[bahaiprayers.net 2327](https://bahaiprayers.net/Book/Single/14/2327)
+
 
 ----
 
@@ -256,7 +298,10 @@ bpn2327
 
 -- Abdu'l-Bahá
 
-bpn2346 
+Prayer bpn2346 in Беларускі (bpn2346) 
+
+[bahaiprayers.net 2346](https://bahaiprayers.net/Book/Single/14/2346)
+
 
 ----
 
@@ -270,7 +315,10 @@ bpn2346
 
 -- Abdu'l-Bahá
 
-bpn2330 
+Prayer bpn2330 in Беларускі (bpn2330) 
+
+[bahaiprayers.net 2330](https://bahaiprayers.net/Book/Single/14/2330)
+
 
 ----
 
@@ -284,7 +332,10 @@ bpn2330
 
 -- Abdu'l-Bahá
 
-bpn2332 
+Prayer bpn2332 in Беларускі (bpn2332) 
+
+[bahaiprayers.net 2332](https://bahaiprayers.net/Book/Single/14/2332)
+
 
 ----
 
@@ -298,7 +349,10 @@ bpn2332
 
 -- Abdu'l-Bahá
 
-bpn2345 
+Prayer bpn2345 in Беларускі (bpn2345) 
+
+[bahaiprayers.net 2345](https://bahaiprayers.net/Book/Single/14/2345)
+
 
 ----
 
@@ -312,7 +366,10 @@ bpn2345
 
 -- Bahá'u'lláh
 
-bpn2347 
+Prayer bpn2347 in Беларускі (bpn2347) 
+
+[bahaiprayers.net 2347](https://bahaiprayers.net/Book/Single/14/2347)
+
 
 ----
 
@@ -326,7 +383,10 @@ bpn2347
 
 -- Bahá'u'lláh
 
-bpn2328 
+Prayer bpn2328 in Беларускі (bpn2328) 
+
+[bahaiprayers.net 2328](https://bahaiprayers.net/Book/Single/14/2328)
+
 
 ----
 
@@ -340,7 +400,10 @@ bpn2328
 
 -- Bahá'u'lláh
 
-bpn2343 
+Prayer bpn2343 in Беларускі (bpn2343) 
+
+[bahaiprayers.net 2343](https://bahaiprayers.net/Book/Single/14/2343)
+
 
 ----
 
@@ -354,7 +417,10 @@ bpn2343
 
 -- Abdu'l-Bahá
 
-bpn2344 
+Prayer bpn2344 in Беларускі (bpn2344) 
+
+[bahaiprayers.net 2344](https://bahaiprayers.net/Book/Single/14/2344)
+
 
 ----
 

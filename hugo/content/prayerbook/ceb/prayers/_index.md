@@ -74,7 +74,10 @@ tags = ['lang=ceb', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn13425 
+Prayer bpn13425 in Cebuano (bpn13425) 
+
+[bahaiprayers.net 13425](https://bahaiprayers.net/Book/Single/119/13425)
+
 
 ----
 
@@ -88,7 +91,10 @@ bpn13425
 
 -- Abdu'l-Bahá
 
-bpn13537 
+Prayer bpn13537 in Cebuano (bpn13537) 
+
+[bahaiprayers.net 13537](https://bahaiprayers.net/Book/Single/119/13537)
+
 
 ----
 
@@ -102,7 +108,10 @@ bpn13537
 
 -- Abdu'l-Bahá
 
-bpn13538 
+Prayer bpn13538 in Cebuano (bpn13538) 
+
+[bahaiprayers.net 13538](https://bahaiprayers.net/Book/Single/119/13538)
+
 
 ----
 
@@ -116,7 +125,10 @@ bpn13538
 
 -- Bahá'u'lláh
 
-bpn13534 
+Prayer bpn13534 in Cebuano (bpn13534) 
+
+[bahaiprayers.net 13534](https://bahaiprayers.net/Book/Single/119/13534)
+
 
 ----
 
@@ -126,7 +138,10 @@ bpn13534
 
 -- Báb
 
-bpn13533 
+Prayer bpn13533 in Cebuano (bpn13533) 
+
+[bahaiprayers.net 13533](https://bahaiprayers.net/Book/Single/119/13533)
+
 
 ----
 
@@ -136,7 +151,10 @@ bpn13533
 
 -- Abdu'l-Bahá
 
-bpn13535 
+Prayer bpn13535 in Cebuano (bpn13535) 
+
+[bahaiprayers.net 13535](https://bahaiprayers.net/Book/Single/119/13535)
+
 
 ----
 
@@ -150,7 +168,10 @@ bpn13535
 
 -- Abdu'l-Bahá
 
-bpn13536 
+Prayer bpn13536 in Cebuano (bpn13536) 
+
+[bahaiprayers.net 13536](https://bahaiprayers.net/Book/Single/119/13536)
+
 
 ----
 
@@ -164,7 +185,10 @@ bpn13536
 
 -- Bahá'u'lláh
 
-bpn13541 
+Prayer bpn13541 in Cebuano (bpn13541) 
+
+[bahaiprayers.net 13541](https://bahaiprayers.net/Book/Single/119/13541)
+
 
 ----
 
@@ -178,7 +202,10 @@ bpn13541
 
 -- Bahá'u'lláh
 
-bpn13543 
+Prayer bpn13543 in Cebuano (bpn13543) 
+
+[bahaiprayers.net 13543](https://bahaiprayers.net/Book/Single/119/13543)
+
 
 ----
 
@@ -192,7 +219,10 @@ bpn13543
 
 -- Bahá'u'lláh
 
-bpn13542 
+Prayer bpn13542 in Cebuano (bpn13542) 
+
+[bahaiprayers.net 13542](https://bahaiprayers.net/Book/Single/119/13542)
+
 
 ----
 
@@ -206,7 +236,10 @@ bpn13542
 
 -- Bahá'u'lláh
 
-bpn13530 
+Prayer bpn13530 in Cebuano (bpn13530) 
+
+[bahaiprayers.net 13530](https://bahaiprayers.net/Book/Single/119/13530)
+
 
 ----
 
@@ -220,7 +253,10 @@ bpn13530
 
 -- Bahá'u'lláh
 
-bpn13428 
+Prayer bpn13428 in Cebuano (bpn13428) 
+
+[bahaiprayers.net 13428](https://bahaiprayers.net/Book/Single/119/13428)
+
 
 ----
 
@@ -230,7 +266,10 @@ bpn13428
 
 -- Bahá'u'lláh
 
-bpn13429 
+Prayer bpn13429 in Cebuano (bpn13429) 
+
+[bahaiprayers.net 13429](https://bahaiprayers.net/Book/Single/119/13429)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn13429
 
 -- Bahá'u'lláh
 
-bpn13430 
+Prayer bpn13430 in Cebuano (bpn13430) 
+
+[bahaiprayers.net 13430](https://bahaiprayers.net/Book/Single/119/13430)
+
 
 ----
 
@@ -250,7 +292,10 @@ bpn13430
 
 -- Abdu'l-Bahá
 
-bpn13431 
+Prayer bpn13431 in Cebuano (bpn13431) 
+
+[bahaiprayers.net 13431](https://bahaiprayers.net/Book/Single/119/13431)
+
 
 ----
 
@@ -260,7 +305,10 @@ bpn13431
 
 -- Abdu'l-Bahá
 
-bpn13432 
+Prayer bpn13432 in Cebuano (bpn13432) 
+
+[bahaiprayers.net 13432](https://bahaiprayers.net/Book/Single/119/13432)
+
 
 ----
 
@@ -274,7 +322,10 @@ bpn13432
 
 -- Bahá'u'lláh
 
-bpn13513 
+Prayer bpn13513 in Cebuano (bpn13513) 
+
+[bahaiprayers.net 13513](https://bahaiprayers.net/Book/Single/119/13513)
+
 
 ----
 
@@ -284,7 +335,10 @@ bpn13513
 
 -- Báb
 
-bpn13514 
+Prayer bpn13514 in Cebuano (bpn13514) 
+
+[bahaiprayers.net 13514](https://bahaiprayers.net/Book/Single/119/13514)
+
 
 ----
 
@@ -294,7 +348,10 @@ bpn13514
 
 -- Abdu'l-Bahá
 
-bpn13515 
+Prayer bpn13515 in Cebuano (bpn13515) 
+
+[bahaiprayers.net 13515](https://bahaiprayers.net/Book/Single/119/13515)
+
 
 ----
 
@@ -308,7 +365,10 @@ bpn13515
 
 -- Bahá'u'lláh
 
-bpn13544 
+Prayer bpn13544 in Cebuano (bpn13544) 
+
+[bahaiprayers.net 13544](https://bahaiprayers.net/Book/Single/119/13544)
+
 
 ----
 
@@ -322,7 +382,10 @@ bpn13544
 
 -- Bahá'u'lláh
 
-bpn13517 
+Prayer bpn13517 in Cebuano (bpn13517) 
+
+[bahaiprayers.net 13517](https://bahaiprayers.net/Book/Single/119/13517)
+
 
 ----
 
@@ -332,7 +395,10 @@ bpn13517
 
 -- Bahá'u'lláh
 
-bpn13518 
+Prayer bpn13518 in Cebuano (bpn13518) 
+
+[bahaiprayers.net 13518](https://bahaiprayers.net/Book/Single/119/13518)
+
 
 ----
 
@@ -342,7 +408,10 @@ bpn13518
 
 -- Bahá'u'lláh
 
-bpn13519 
+Prayer bpn13519 in Cebuano (bpn13519) 
+
+[bahaiprayers.net 13519](https://bahaiprayers.net/Book/Single/119/13519)
+
 
 ----
 
@@ -356,7 +425,10 @@ bpn13519
 
 -- Abdu'l-Bahá
 
-bpn13433 
+Prayer bpn13433 in Cebuano (bpn13433) 
+
+[bahaiprayers.net 13433](https://bahaiprayers.net/Book/Single/119/13433)
+
 
 ----
 
@@ -370,7 +442,10 @@ bpn13433
 
 -- Bahá'u'lláh
 
-bpn13498 
+Prayer bpn13498 in Cebuano (bpn13498) 
+
+[bahaiprayers.net 13498](https://bahaiprayers.net/Book/Single/119/13498)
+
 
 ----
 
@@ -380,7 +455,10 @@ bpn13498
 
 -- Bahá'u'lláh
 
-bpn13499 
+Prayer bpn13499 in Cebuano (bpn13499) 
+
+[bahaiprayers.net 13499](https://bahaiprayers.net/Book/Single/119/13499)
+
 
 ----
 
@@ -390,7 +468,10 @@ bpn13499
 
 -- Bahá'u'lláh
 
-bpn13500 
+Prayer bpn13500 in Cebuano (bpn13500) 
+
+[bahaiprayers.net 13500](https://bahaiprayers.net/Book/Single/119/13500)
+
 
 ----
 
@@ -400,7 +481,10 @@ bpn13500
 
 -- Bahá'u'lláh
 
-bpn13501 
+Prayer bpn13501 in Cebuano (bpn13501) 
+
+[bahaiprayers.net 13501](https://bahaiprayers.net/Book/Single/119/13501)
+
 
 ----
 
@@ -410,7 +494,10 @@ bpn13501
 
 -- Bahá'u'lláh
 
-bpn13502 
+Prayer bpn13502 in Cebuano (bpn13502) 
+
+[bahaiprayers.net 13502](https://bahaiprayers.net/Book/Single/119/13502)
+
 
 ----
 
@@ -424,7 +511,10 @@ bpn13502
 
 -- Bahá'u'lláh
 
-bpn13525 
+Prayer bpn13525 in Cebuano (bpn13525) 
+
+[bahaiprayers.net 13525](https://bahaiprayers.net/Book/Single/119/13525)
+
 
 ----
 
@@ -438,7 +528,10 @@ bpn13525
 
 -- Bahá'u'lláh
 
-bpn13503 
+Prayer bpn13503 in Cebuano (bpn13503) 
+
+[bahaiprayers.net 13503](https://bahaiprayers.net/Book/Single/119/13503)
+
 
 ----
 
@@ -448,7 +541,10 @@ bpn13503
 
 -- Bahá'u'lláh
 
-bpn13504 
+Prayer bpn13504 in Cebuano (bpn13504) 
+
+[bahaiprayers.net 13504](https://bahaiprayers.net/Book/Single/119/13504)
+
 
 ----
 
@@ -458,7 +554,10 @@ bpn13504
 
 -- Bahá'u'lláh
 
-bpn13505 
+Prayer bpn13505 in Cebuano (bpn13505) 
+
+[bahaiprayers.net 13505](https://bahaiprayers.net/Book/Single/119/13505)
+
 
 ----
 
@@ -468,7 +567,10 @@ bpn13505
 
 -- Bahá'u'lláh
 
-bpn13506 
+Prayer bpn13506 in Cebuano (bpn13506) 
+
+[bahaiprayers.net 13506](https://bahaiprayers.net/Book/Single/119/13506)
+
 
 ----
 
@@ -482,7 +584,10 @@ bpn13506
 
 -- Bahá'u'lláh
 
-bpn13524 
+Prayer bpn13524 in Cebuano (bpn13524) 
+
+[bahaiprayers.net 13524](https://bahaiprayers.net/Book/Single/119/13524)
+
 
 ----
 
@@ -496,7 +601,10 @@ bpn13524
 
 -- Bahá'u'lláh
 
-bpn13510 
+Prayer bpn13510 in Cebuano (bpn13510) 
+
+[bahaiprayers.net 13510](https://bahaiprayers.net/Book/Single/119/13510)
+
 
 ----
 
@@ -506,7 +614,10 @@ bpn13510
 
 -- Báb
 
-bpn13511 
+Prayer bpn13511 in Cebuano (bpn13511) 
+
+[bahaiprayers.net 13511](https://bahaiprayers.net/Book/Single/119/13511)
+
 
 ----
 
@@ -516,7 +627,10 @@ bpn13511
 
 -- Báb
 
-bpn13512 
+Prayer bpn13512 in Cebuano (bpn13512) 
+
+[bahaiprayers.net 13512](https://bahaiprayers.net/Book/Single/119/13512)
+
 
 ----
 
@@ -530,7 +644,10 @@ bpn13512
 
 -- Bahá'u'lláh
 
-bpn13507 
+Prayer bpn13507 in Cebuano (bpn13507) 
+
+[bahaiprayers.net 13507](https://bahaiprayers.net/Book/Single/119/13507)
+
 
 ----
 
@@ -540,7 +657,10 @@ bpn13507
 
 -- Abdu'l-Bahá
 
-bpn13508 
+Prayer bpn13508 in Cebuano (bpn13508) 
+
+[bahaiprayers.net 13508](https://bahaiprayers.net/Book/Single/119/13508)
+
 
 ----
 
@@ -554,7 +674,10 @@ bpn13508
 
 -- Bahá'u'lláh
 
-bpn13516 
+Prayer bpn13516 in Cebuano (bpn13516) 
+
+[bahaiprayers.net 13516](https://bahaiprayers.net/Book/Single/119/13516)
+
 
 ----
 
@@ -568,7 +691,10 @@ bpn13516
 
 -- Bahá'u'lláh
 
-bpn13532 
+Prayer bpn13532 in Cebuano (bpn13532) 
+
+[bahaiprayers.net 13532](https://bahaiprayers.net/Book/Single/119/13532)
+
 
 ----
 
@@ -578,7 +704,10 @@ bpn13532
 
 -- Abdu'l-Bahá
 
-bpn13522 
+Prayer bpn13522 in Cebuano (bpn13522) 
+
+[bahaiprayers.net 13522](https://bahaiprayers.net/Book/Single/119/13522)
+
 
 ----
 
@@ -588,7 +717,10 @@ bpn13522
 
 -- Abdu'l-Bahá
 
-bpn13523 
+Prayer bpn13523 in Cebuano (bpn13523) 
+
+[bahaiprayers.net 13523](https://bahaiprayers.net/Book/Single/119/13523)
+
 
 ----
 
@@ -602,7 +734,10 @@ bpn13523
 
 -- Bahá'u'lláh
 
-bpn13426 
+Prayer bpn13426 in Cebuano (bpn13426) 
+
+[bahaiprayers.net 13426](https://bahaiprayers.net/Book/Single/119/13426)
+
 
 ----
 
@@ -612,7 +747,10 @@ bpn13426
 
 -- Bahá'u'lláh
 
-bpn13434 
+Prayer bpn13434 in Cebuano (bpn13434) 
+
+[bahaiprayers.net 13434](https://bahaiprayers.net/Book/Single/119/13434)
+
 
 ----
 
@@ -622,7 +760,10 @@ bpn13434
 
 -- Bahá'u'lláh
 
-bpn13435 
+Prayer bpn13435 in Cebuano (bpn13435) 
+
+[bahaiprayers.net 13435](https://bahaiprayers.net/Book/Single/119/13435)
+
 
 ----
 
@@ -632,7 +773,10 @@ bpn13435
 
 -- Báb
 
-bpn13427 
+Prayer bpn13427 in Cebuano (bpn13427) 
+
+[bahaiprayers.net 13427](https://bahaiprayers.net/Book/Single/119/13427)
+
 
 ----
 
@@ -642,7 +786,10 @@ bpn13427
 
 -- Abdu'l-Bahá
 
-bpn13436 
+Prayer bpn13436 in Cebuano (bpn13436) 
+
+[bahaiprayers.net 13436](https://bahaiprayers.net/Book/Single/119/13436)
+
 
 ----
 
@@ -656,7 +803,10 @@ bpn13436
 
 -- Bahá'u'lláh
 
-bpn13520 
+Prayer bpn13520 in Cebuano (bpn13520) 
+
+[bahaiprayers.net 13520](https://bahaiprayers.net/Book/Single/119/13520)
+
 
 ----
 
@@ -666,7 +816,10 @@ bpn13520
 
 -- Abdu'l-Bahá
 
-bpn13521 
+Prayer bpn13521 in Cebuano (bpn13521) 
+
+[bahaiprayers.net 13521](https://bahaiprayers.net/Book/Single/119/13521)
+
 
 ----
 
@@ -680,7 +833,10 @@ bpn13521
 
 -- Báb
 
-bpn13509 
+Prayer bpn13509 in Cebuano (bpn13509) 
+
+[bahaiprayers.net 13509](https://bahaiprayers.net/Book/Single/119/13509)
+
 
 ----
 
@@ -694,7 +850,10 @@ bpn13509
 
 -- Bahá'u'lláh
 
-bpn13528 
+Prayer bpn13528 in Cebuano (bpn13528) 
+
+[bahaiprayers.net 13528](https://bahaiprayers.net/Book/Single/119/13528)
+
 
 ----
 
@@ -704,7 +863,10 @@ bpn13528
 
 -- Bahá'u'lláh
 
-bpn13529 
+Prayer bpn13529 in Cebuano (bpn13529) 
+
+[bahaiprayers.net 13529](https://bahaiprayers.net/Book/Single/119/13529)
+
 
 ----
 
@@ -714,7 +876,10 @@ bpn13529
 
 -- Báb
 
-bpn13526 
+Prayer bpn13526 in Cebuano (bpn13526) 
+
+[bahaiprayers.net 13526](https://bahaiprayers.net/Book/Single/119/13526)
+
 
 ----
 
@@ -724,7 +889,10 @@ bpn13526
 
 -- Báb
 
-bpn13527 
+Prayer bpn13527 in Cebuano (bpn13527) 
+
+[bahaiprayers.net 13527](https://bahaiprayers.net/Book/Single/119/13527)
+
 
 ----
 
@@ -738,7 +906,10 @@ bpn13527
 
 -- Abdu'l-Bahá
 
-bpn13539 
+Prayer bpn13539 in Cebuano (bpn13539) 
+
+[bahaiprayers.net 13539](https://bahaiprayers.net/Book/Single/119/13539)
+
 
 ----
 
@@ -752,7 +923,10 @@ bpn13539
 
 -- Bahá'u'lláh
 
-bpn13540 
+Prayer bpn13540 in Cebuano (bpn13540) 
+
+[bahaiprayers.net 13540](https://bahaiprayers.net/Book/Single/119/13540)
+
 
 ----
 
@@ -766,7 +940,10 @@ bpn13540
 
 -- Abdu'l-Bahá
 
-bpn13531 
+Prayer bpn13531 in Cebuano (bpn13531) 
+
+[bahaiprayers.net 13531](https://bahaiprayers.net/Book/Single/119/13531)
+
 
 ----
 

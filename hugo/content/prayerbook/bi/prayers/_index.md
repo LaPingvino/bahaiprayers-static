@@ -82,7 +82,10 @@ tags = ['lang=bi', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn4952 
+Prayer bpn4952 in Vanuatu (bpn4952) 
+
+[bahaiprayers.net 4952](https://bahaiprayers.net/Book/Single/37/4952)
+
 
 ----
 
@@ -96,7 +99,10 @@ bpn4952
 
 -- Báb
 
-bpn4940 
+Prayer bpn4940 in Vanuatu (bpn4940) 
+
+[bahaiprayers.net 4940](https://bahaiprayers.net/Book/Single/37/4940)
+
 
 ----
 
@@ -106,7 +112,10 @@ bpn4940
 
 -- Abdu'l-Bahá
 
-bpn4939 
+Prayer bpn4939 in Vanuatu (bpn4939) 
+
+[bahaiprayers.net 4939](https://bahaiprayers.net/Book/Single/37/4939)
+
 
 ----
 
@@ -120,7 +129,10 @@ bpn4939
 
 -- Bahá'u'lláh
 
-bpn4928 
+Prayer bpn4928 in Vanuatu (bpn4928) 
+
+[bahaiprayers.net 4928](https://bahaiprayers.net/Book/Single/37/4928)
+
 
 ----
 
@@ -134,7 +146,10 @@ bpn4928
 
 -- Bahá'u'lláh
 
-bpn4926 
+Prayer bpn4926 in Vanuatu (bpn4926) 
+
+[bahaiprayers.net 4926](https://bahaiprayers.net/Book/Single/37/4926)
+
 
 ----
 
@@ -144,7 +159,10 @@ bpn4926
 
 -- Abdu'l-Bahá
 
-bpn4927 
+Prayer bpn4927 in Vanuatu (bpn4927) 
+
+[bahaiprayers.net 4927](https://bahaiprayers.net/Book/Single/37/4927)
+
 
 ----
 
@@ -158,7 +176,10 @@ bpn4927
 
 -- Abdu'l-Bahá
 
-bpn4925 
+Prayer bpn4925 in Vanuatu (bpn4925) 
+
+[bahaiprayers.net 4925](https://bahaiprayers.net/Book/Single/37/4925)
+
 
 ----
 
@@ -172,7 +193,10 @@ bpn4925
 
 -- Bahá'u'lláh
 
-bpn4945 
+Prayer bpn4945 in Vanuatu (bpn4945) 
+
+[bahaiprayers.net 4945](https://bahaiprayers.net/Book/Single/37/4945)
+
 
 ----
 
@@ -182,7 +206,10 @@ bpn4945
 
 -- Bahá'u'lláh
 
-bpn4946 
+Prayer bpn4946 in Vanuatu (bpn4946) 
+
+[bahaiprayers.net 4946](https://bahaiprayers.net/Book/Single/37/4946)
+
 
 ----
 
@@ -192,7 +219,10 @@ bpn4946
 
 -- Bahá'u'lláh
 
-bpn4947 
+Prayer bpn4947 in Vanuatu (bpn4947) 
+
+[bahaiprayers.net 4947](https://bahaiprayers.net/Book/Single/37/4947)
+
 
 ----
 
@@ -202,7 +232,10 @@ bpn4947
 
 -- Bahá'u'lláh
 
-bpn4948 
+Prayer bpn4948 in Vanuatu (bpn4948) 
+
+[bahaiprayers.net 4948](https://bahaiprayers.net/Book/Single/37/4948)
+
 
 ----
 
@@ -212,7 +245,10 @@ bpn4948
 
 -- Bahá'u'lláh
 
-bpn4949 
+Prayer bpn4949 in Vanuatu (bpn4949) 
+
+[bahaiprayers.net 4949](https://bahaiprayers.net/Book/Single/37/4949)
+
 
 ----
 
@@ -226,7 +262,10 @@ bpn4949
 
 -- Abdu'l-Bahá
 
-bpn4922 
+Prayer bpn4922 in Vanuatu (bpn4922) 
+
+[bahaiprayers.net 4922](https://bahaiprayers.net/Book/Single/37/4922)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn4922
 
 -- Bahá'u'lláh
 
-bpn4935 
+Prayer bpn4935 in Vanuatu (bpn4935) 
+
+[bahaiprayers.net 4935](https://bahaiprayers.net/Book/Single/37/4935)
+
 
 ----
 
@@ -254,7 +296,10 @@ bpn4935
 
 -- Bahá'u'lláh
 
-bpn4904 
+Prayer bpn4904 in Vanuatu (bpn4904) 
+
+[bahaiprayers.net 4904](https://bahaiprayers.net/Book/Single/37/4904)
+
 
 ----
 
@@ -268,7 +313,10 @@ bpn4904
 
 -- Abdu'l-Bahá
 
-bpn4921 
+Prayer bpn4921 in Vanuatu (bpn4921) 
+
+[bahaiprayers.net 4921](https://bahaiprayers.net/Book/Single/37/4921)
+
 
 ----
 
@@ -282,7 +330,10 @@ bpn4921
 
 -- Abdu'l-Bahá
 
-bpn4920 
+Prayer bpn4920 in Vanuatu (bpn4920) 
+
+[bahaiprayers.net 4920](https://bahaiprayers.net/Book/Single/37/4920)
+
 
 ----
 
@@ -296,7 +347,10 @@ bpn4920
 
 -- Bahá'u'lláh
 
-bpn4903 
+Prayer bpn4903 in Vanuatu (bpn4903) 
+
+[bahaiprayers.net 4903](https://bahaiprayers.net/Book/Single/37/4903)
+
 
 ----
 
@@ -310,7 +364,10 @@ bpn4903
 
 -- Abdu'l-Bahá
 
-bpn4911 
+Prayer bpn4911 in Vanuatu (bpn4911) 
+
+[bahaiprayers.net 4911](https://bahaiprayers.net/Book/Single/37/4911)
+
 
 ----
 
@@ -324,7 +381,10 @@ bpn4911
 
 -- Bahá'u'lláh
 
-bpn4906 
+Prayer bpn4906 in Vanuatu (bpn4906) 
+
+[bahaiprayers.net 4906](https://bahaiprayers.net/Book/Single/37/4906)
+
 
 ----
 
@@ -334,7 +394,10 @@ bpn4906
 
 -- Bahá'u'lláh
 
-bpn4907 
+Prayer bpn4907 in Vanuatu (bpn4907) 
+
+[bahaiprayers.net 4907](https://bahaiprayers.net/Book/Single/37/4907)
+
 
 ----
 
@@ -344,7 +407,10 @@ bpn4907
 
 -- Bahá'u'lláh
 
-bpn4908 
+Prayer bpn4908 in Vanuatu (bpn4908) 
+
+[bahaiprayers.net 4908](https://bahaiprayers.net/Book/Single/37/4908)
+
 
 ----
 
@@ -358,7 +424,10 @@ bpn4908
 
 -- Bahá'u'lláh
 
-bpn4909 
+Prayer bpn4909 in Vanuatu (bpn4909) 
+
+[bahaiprayers.net 4909](https://bahaiprayers.net/Book/Single/37/4909)
+
 
 ----
 
@@ -372,7 +441,10 @@ bpn4909
 
 -- Abdu'l-Bahá
 
-bpn4924 
+Prayer bpn4924 in Vanuatu (bpn4924) 
+
+[bahaiprayers.net 4924](https://bahaiprayers.net/Book/Single/37/4924)
+
 
 ----
 
@@ -386,7 +458,10 @@ bpn4924
 
 -- Abdu'l-Bahá
 
-bpn4951 
+Prayer bpn4951 in Vanuatu (bpn4951) 
+
+[bahaiprayers.net 4951](https://bahaiprayers.net/Book/Single/37/4951)
+
 
 ----
 
@@ -400,7 +475,10 @@ bpn4951
 
 -- Abdu'l-Bahá
 
-bpn4912 
+Prayer bpn4912 in Vanuatu (bpn4912) 
+
+[bahaiprayers.net 4912](https://bahaiprayers.net/Book/Single/37/4912)
+
 
 ----
 
@@ -410,7 +488,10 @@ bpn4912
 
 -- Abdu'l-Bahá
 
-bpn4913 
+Prayer bpn4913 in Vanuatu (bpn4913) 
+
+[bahaiprayers.net 4913](https://bahaiprayers.net/Book/Single/37/4913)
+
 
 ----
 
@@ -420,7 +501,10 @@ bpn4913
 
 -- Abdu'l-Bahá
 
-bpn4914 
+Prayer bpn4914 in Vanuatu (bpn4914) 
+
+[bahaiprayers.net 4914](https://bahaiprayers.net/Book/Single/37/4914)
+
 
 ----
 
@@ -430,7 +514,10 @@ bpn4914
 
 -- Abdu'l-Bahá
 
-bpn4915 
+Prayer bpn4915 in Vanuatu (bpn4915) 
+
+[bahaiprayers.net 4915](https://bahaiprayers.net/Book/Single/37/4915)
+
 
 ----
 
@@ -440,7 +527,10 @@ bpn4915
 
 -- Abdu'l-Bahá
 
-bpn4916 
+Prayer bpn4916 in Vanuatu (bpn4916) 
+
+[bahaiprayers.net 4916](https://bahaiprayers.net/Book/Single/37/4916)
+
 
 ----
 
@@ -454,7 +544,10 @@ bpn4916
 
 -- Bahá'u'lláh
 
-bpn4936 
+Prayer bpn4936 in Vanuatu (bpn4936) 
+
+[bahaiprayers.net 4936](https://bahaiprayers.net/Book/Single/37/4936)
+
 
 ----
 
@@ -468,7 +561,10 @@ bpn4936
 
 -- Abdu'l-Bahá
 
-bpn4923 
+Prayer bpn4923 in Vanuatu (bpn4923) 
+
+[bahaiprayers.net 4923](https://bahaiprayers.net/Book/Single/37/4923)
+
 
 ----
 
@@ -482,7 +578,10 @@ bpn4923
 
 -- Bahá'u'lláh
 
-bpn4950 
+Prayer bpn4950 in Vanuatu (bpn4950) 
+
+[bahaiprayers.net 4950](https://bahaiprayers.net/Book/Single/37/4950)
+
 
 ----
 
@@ -496,7 +595,10 @@ bpn4950
 
 -- Bahá'u'lláh
 
-bpn4953 
+Prayer bpn4953 in Vanuatu (bpn4953) 
+
+[bahaiprayers.net 4953](https://bahaiprayers.net/Book/Single/37/4953)
+
 
 ----
 
@@ -506,7 +608,10 @@ bpn4953
 
 -- Bahá'u'lláh
 
-bpn4954 
+Prayer bpn4954 in Vanuatu (bpn4954) 
+
+[bahaiprayers.net 4954](https://bahaiprayers.net/Book/Single/37/4954)
+
 
 ----
 
@@ -516,7 +621,10 @@ bpn4954
 
 -- Abdu'l-Bahá
 
-bpn4955 
+Prayer bpn4955 in Vanuatu (bpn4955) 
+
+[bahaiprayers.net 4955](https://bahaiprayers.net/Book/Single/37/4955)
+
 
 ----
 
@@ -526,7 +634,10 @@ bpn4955
 
 -- Abdu'l-Bahá
 
-bpn4956 
+Prayer bpn4956 in Vanuatu (bpn4956) 
+
+[bahaiprayers.net 4956](https://bahaiprayers.net/Book/Single/37/4956)
+
 
 ----
 
@@ -536,7 +647,10 @@ bpn4956
 
 -- Abdu'l-Bahá
 
-bpn4957 
+Prayer bpn4957 in Vanuatu (bpn4957) 
+
+[bahaiprayers.net 4957](https://bahaiprayers.net/Book/Single/37/4957)
+
 
 ----
 
@@ -546,7 +660,10 @@ bpn4957
 
 -- Abdu'l-Bahá
 
-bpn4958 
+Prayer bpn4958 in Vanuatu (bpn4958) 
+
+[bahaiprayers.net 4958](https://bahaiprayers.net/Book/Single/37/4958)
+
 
 ----
 
@@ -556,7 +673,10 @@ bpn4958
 
 -- Abdu'l-Bahá
 
-bpn4959 
+Prayer bpn4959 in Vanuatu (bpn4959) 
+
+[bahaiprayers.net 4959](https://bahaiprayers.net/Book/Single/37/4959)
+
 
 ----
 
@@ -566,7 +686,10 @@ bpn4959
 
 -- Abdu'l-Bahá
 
-bpn4960 
+Prayer bpn4960 in Vanuatu (bpn4960) 
+
+[bahaiprayers.net 4960](https://bahaiprayers.net/Book/Single/37/4960)
+
 
 ----
 
@@ -576,7 +699,10 @@ bpn4960
 
 -- Abdu'l-Bahá
 
-bpn4961 
+Prayer bpn4961 in Vanuatu (bpn4961) 
+
+[bahaiprayers.net 4961](https://bahaiprayers.net/Book/Single/37/4961)
+
 
 ----
 
@@ -586,7 +712,10 @@ bpn4961
 
 -- Abdu'l-Bahá
 
-bpn4962 
+Prayer bpn4962 in Vanuatu (bpn4962) 
+
+[bahaiprayers.net 4962](https://bahaiprayers.net/Book/Single/37/4962)
+
 
 ----
 
@@ -596,7 +725,10 @@ bpn4962
 
 -- Abdu'l-Bahá
 
-bpn4963 
+Prayer bpn4963 in Vanuatu (bpn4963) 
+
+[bahaiprayers.net 4963](https://bahaiprayers.net/Book/Single/37/4963)
+
 
 ----
 
@@ -610,7 +742,10 @@ bpn4963
 
 -- Bahá'u'lláh
 
-bpn4902 
+Prayer bpn4902 in Vanuatu (bpn4902) 
+
+[bahaiprayers.net 4902](https://bahaiprayers.net/Book/Single/37/4902)
+
 
 ----
 
@@ -624,7 +759,10 @@ bpn4902
 
 -- Bahá'u'lláh
 
-bpn4910 
+Prayer bpn4910 in Vanuatu (bpn4910) 
+
+[bahaiprayers.net 4910](https://bahaiprayers.net/Book/Single/37/4910)
+
 
 ----
 
@@ -638,7 +776,10 @@ bpn4910
 
 -- Abdu'l-Bahá
 
-bpn4944 
+Prayer bpn4944 in Vanuatu (bpn4944) 
+
+[bahaiprayers.net 4944](https://bahaiprayers.net/Book/Single/37/4944)
+
 
 ----
 
@@ -652,7 +793,10 @@ bpn4944
 
 -- Báb
 
-bpn4917 
+Prayer bpn4917 in Vanuatu (bpn4917) 
+
+[bahaiprayers.net 4917](https://bahaiprayers.net/Book/Single/37/4917)
+
 
 ----
 
@@ -662,7 +806,10 @@ bpn4917
 
 -- Báb
 
-bpn4918 
+Prayer bpn4918 in Vanuatu (bpn4918) 
+
+[bahaiprayers.net 4918](https://bahaiprayers.net/Book/Single/37/4918)
+
 
 ----
 
@@ -676,7 +823,10 @@ bpn4918
 
 -- Bahá'u'lláh
 
-bpn4941 
+Prayer bpn4941 in Vanuatu (bpn4941) 
+
+[bahaiprayers.net 4941](https://bahaiprayers.net/Book/Single/37/4941)
+
 
 ----
 
@@ -686,7 +836,10 @@ bpn4941
 
 -- Bahá'u'lláh
 
-bpn4942 
+Prayer bpn4942 in Vanuatu (bpn4942) 
+
+[bahaiprayers.net 4942](https://bahaiprayers.net/Book/Single/37/4942)
+
 
 ----
 
@@ -696,7 +849,10 @@ bpn4942
 
 -- Bahá'u'lláh
 
-bpn4943 
+Prayer bpn4943 in Vanuatu (bpn4943) 
+
+[bahaiprayers.net 4943](https://bahaiprayers.net/Book/Single/37/4943)
+
 
 ----
 
@@ -710,7 +866,10 @@ bpn4943
 
 -- Abdu'l-Bahá
 
-bpn4929 
+Prayer bpn4929 in Vanuatu (bpn4929) 
+
+[bahaiprayers.net 4929](https://bahaiprayers.net/Book/Single/37/4929)
+
 
 ----
 
@@ -720,7 +879,10 @@ bpn4929
 
 -- Abdu'l-Bahá
 
-bpn4930 
+Prayer bpn4930 in Vanuatu (bpn4930) 
+
+[bahaiprayers.net 4930](https://bahaiprayers.net/Book/Single/37/4930)
+
 
 ----
 
@@ -730,7 +892,10 @@ bpn4930
 
 -- Abdu'l-Bahá
 
-bpn4931 
+Prayer bpn4931 in Vanuatu (bpn4931) 
+
+[bahaiprayers.net 4931](https://bahaiprayers.net/Book/Single/37/4931)
+
 
 ----
 
@@ -740,7 +905,10 @@ bpn4931
 
 -- Abdu'l-Bahá
 
-bpn4932 
+Prayer bpn4932 in Vanuatu (bpn4932) 
+
+[bahaiprayers.net 4932](https://bahaiprayers.net/Book/Single/37/4932)
+
 
 ----
 
@@ -750,7 +918,10 @@ bpn4932
 
 -- Abdu'l-Bahá
 
-bpn4933 
+Prayer bpn4933 in Vanuatu (bpn4933) 
+
+[bahaiprayers.net 4933](https://bahaiprayers.net/Book/Single/37/4933)
+
 
 ----
 
@@ -760,7 +931,10 @@ bpn4933
 
 -- Abdu'l-Bahá
 
-bpn4934 
+Prayer bpn4934 in Vanuatu (bpn4934) 
+
+[bahaiprayers.net 4934](https://bahaiprayers.net/Book/Single/37/4934)
+
 
 ----
 
@@ -774,7 +948,10 @@ bpn4934
 
 -- Bahá'u'lláh
 
-bpn4905 
+Prayer bpn4905 in Vanuatu (bpn4905) 
+
+[bahaiprayers.net 4905](https://bahaiprayers.net/Book/Single/37/4905)
+
 
 ----
 
@@ -788,7 +965,10 @@ bpn4905
 
 -- Abdu'l-Bahá
 
-bpn4965 
+Prayer bpn4965 in Vanuatu (bpn4965) 
+
+[bahaiprayers.net 4965](https://bahaiprayers.net/Book/Single/37/4965)
+
 
 ----
 
@@ -802,7 +982,10 @@ bpn4965
 
 -- Bahá'u'lláh
 
-bpn4964 
+Prayer bpn4964 in Vanuatu (bpn4964) 
+
+[bahaiprayers.net 4964](https://bahaiprayers.net/Book/Single/37/4964)
+
 
 ----
 
@@ -816,7 +999,10 @@ bpn4964
 
 -- Abdu'l-Bahá
 
-bpn4919 
+Prayer bpn4919 in Vanuatu (bpn4919) 
+
+[bahaiprayers.net 4919](https://bahaiprayers.net/Book/Single/37/4919)
+
 
 ----
 
@@ -830,7 +1016,10 @@ bpn4919
 
 -- Bahá'u'lláh
 
-bpn4937 
+Prayer bpn4937 in Vanuatu (bpn4937) 
+
+[bahaiprayers.net 4937](https://bahaiprayers.net/Book/Single/37/4937)
+
 
 ----
 
@@ -840,7 +1029,10 @@ bpn4937
 
 -- Bahá'u'lláh
 
-bpn4938 
+Prayer bpn4938 in Vanuatu (bpn4938) 
+
+[bahaiprayers.net 4938](https://bahaiprayers.net/Book/Single/37/4938)
+
 
 ----
 

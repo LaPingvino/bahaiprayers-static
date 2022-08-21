@@ -32,7 +32,10 @@ tags = ['lang=srn', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6076 
+Prayer bpn6076 in Sranan Tongo (bpn6076) 
+
+[bahaiprayers.net 6076](https://bahaiprayers.net/Book/Single/51/6076)
+
 
 ----
 
@@ -42,7 +45,10 @@ bpn6076
 
 -- Bahá'u'lláh
 
-bpn6077 
+Prayer bpn6077 in Sranan Tongo (bpn6077) 
+
+[bahaiprayers.net 6077](https://bahaiprayers.net/Book/Single/51/6077)
+
 
 ----
 
@@ -52,7 +58,10 @@ bpn6077
 
 -- Bahá'u'lláh
 
-bpn6078 
+Prayer bpn6078 in Sranan Tongo (bpn6078) 
+
+[bahaiprayers.net 6078](https://bahaiprayers.net/Book/Single/51/6078)
+
 
 ----
 
@@ -62,7 +71,10 @@ bpn6078
 
 -- Bahá'u'lláh
 
-bpn6079 
+Prayer bpn6079 in Sranan Tongo (bpn6079) 
+
+[bahaiprayers.net 6079](https://bahaiprayers.net/Book/Single/51/6079)
+
 
 ----
 
@@ -72,7 +84,10 @@ bpn6079
 
 -- Bahá'u'lláh
 
-bpn6092 
+Prayer bpn6092 in Sranan Tongo (bpn6092) 
+
+[bahaiprayers.net 6092](https://bahaiprayers.net/Book/Single/51/6092)
+
 
 ----
 
@@ -82,7 +97,10 @@ bpn6092
 
 -- Bahá'u'lláh
 
-bpn6093 
+Prayer bpn6093 in Sranan Tongo (bpn6093) 
+
+[bahaiprayers.net 6093](https://bahaiprayers.net/Book/Single/51/6093)
+
 
 ----
 
@@ -92,7 +110,10 @@ bpn6093
 
 -- Bahá'u'lláh
 
-bpn6094 
+Prayer bpn6094 in Sranan Tongo (bpn6094) 
+
+[bahaiprayers.net 6094](https://bahaiprayers.net/Book/Single/51/6094)
+
 
 ----
 
@@ -102,7 +123,10 @@ bpn6094
 
 -- Abdu'l-Bahá
 
-bpn6104 
+Prayer bpn6104 in Sranan Tongo (bpn6104) 
+
+[bahaiprayers.net 6104](https://bahaiprayers.net/Book/Single/51/6104)
+
 
 ----
 
@@ -112,7 +136,10 @@ bpn6104
 
 -- Abdu'l-Bahá
 
-bpn6105 
+Prayer bpn6105 in Sranan Tongo (bpn6105) 
+
+[bahaiprayers.net 6105](https://bahaiprayers.net/Book/Single/51/6105)
+
 
 ----
 
@@ -126,7 +153,10 @@ bpn6105
 
 -- Bahá'u'lláh
 
-bpn6089 
+Prayer bpn6089 in Sranan Tongo (bpn6089) 
+
+[bahaiprayers.net 6089](https://bahaiprayers.net/Book/Single/51/6089)
+
 
 ----
 
@@ -136,7 +166,10 @@ bpn6089
 
 -- Bahá'u'lláh
 
-bpn6090 
+Prayer bpn6090 in Sranan Tongo (bpn6090) 
+
+[bahaiprayers.net 6090](https://bahaiprayers.net/Book/Single/51/6090)
+
 
 ----
 
@@ -146,7 +179,10 @@ bpn6090
 
 -- Bahá'u'lláh
 
-bpn6091 
+Prayer bpn6091 in Sranan Tongo (bpn6091) 
+
+[bahaiprayers.net 6091](https://bahaiprayers.net/Book/Single/51/6091)
+
 
 ----
 
@@ -160,7 +196,10 @@ bpn6091
 
 -- Abdu'l-Bahá
 
-bpn6101 
+Prayer bpn6101 in Sranan Tongo (bpn6101) 
+
+[bahaiprayers.net 6101](https://bahaiprayers.net/Book/Single/51/6101)
+
 
 ----
 
@@ -170,7 +209,10 @@ bpn6101
 
 -- Abdu'l-Bahá
 
-bpn6102 
+Prayer bpn6102 in Sranan Tongo (bpn6102) 
+
+[bahaiprayers.net 6102](https://bahaiprayers.net/Book/Single/51/6102)
+
 
 ----
 
@@ -180,7 +222,10 @@ bpn6102
 
 -- Abdu'l-Bahá
 
-bpn6103 
+Prayer bpn6103 in Sranan Tongo (bpn6103) 
+
+[bahaiprayers.net 6103](https://bahaiprayers.net/Book/Single/51/6103)
+
 
 ----
 
@@ -194,7 +239,10 @@ bpn6103
 
 -- Bahá'u'lláh
 
-bpn6083 
+Prayer bpn6083 in Sranan Tongo (bpn6083) 
+
+[bahaiprayers.net 6083](https://bahaiprayers.net/Book/Single/51/6083)
+
 
 ----
 
@@ -204,7 +252,10 @@ bpn6083
 
 -- Bahá'u'lláh
 
-bpn6084 
+Prayer bpn6084 in Sranan Tongo (bpn6084) 
+
+[bahaiprayers.net 6084](https://bahaiprayers.net/Book/Single/51/6084)
+
 
 ----
 
@@ -214,7 +265,10 @@ bpn6084
 
 -- Bahá'u'lláh
 
-bpn6085 
+Prayer bpn6085 in Sranan Tongo (bpn6085) 
+
+[bahaiprayers.net 6085](https://bahaiprayers.net/Book/Single/51/6085)
+
 
 ----
 
@@ -228,7 +282,10 @@ bpn6085
 
 -- Báb
 
-bpn6095 
+Prayer bpn6095 in Sranan Tongo (bpn6095) 
+
+[bahaiprayers.net 6095](https://bahaiprayers.net/Book/Single/51/6095)
+
 
 ----
 
@@ -238,7 +295,10 @@ bpn6095
 
 -- Báb
 
-bpn6096 
+Prayer bpn6096 in Sranan Tongo (bpn6096) 
+
+[bahaiprayers.net 6096](https://bahaiprayers.net/Book/Single/51/6096)
+
 
 ----
 
@@ -248,7 +308,10 @@ bpn6096
 
 -- Báb
 
-bpn6097 
+Prayer bpn6097 in Sranan Tongo (bpn6097) 
+
+[bahaiprayers.net 6097](https://bahaiprayers.net/Book/Single/51/6097)
+
 
 ----
 
@@ -262,7 +325,10 @@ bpn6097
 
 -- Abdu'l-Bahá
 
-bpn6098 
+Prayer bpn6098 in Sranan Tongo (bpn6098) 
+
+[bahaiprayers.net 6098](https://bahaiprayers.net/Book/Single/51/6098)
+
 
 ----
 
@@ -272,7 +338,10 @@ bpn6098
 
 -- Abdu'l-Bahá
 
-bpn6099 
+Prayer bpn6099 in Sranan Tongo (bpn6099) 
+
+[bahaiprayers.net 6099](https://bahaiprayers.net/Book/Single/51/6099)
+
 
 ----
 
@@ -282,7 +351,10 @@ bpn6099
 
 -- Abdu'l-Bahá
 
-bpn6100 
+Prayer bpn6100 in Sranan Tongo (bpn6100) 
+
+[bahaiprayers.net 6100](https://bahaiprayers.net/Book/Single/51/6100)
+
 
 ----
 
@@ -296,7 +368,10 @@ bpn6100
 
 -- Bahá'u'lláh
 
-bpn6080 
+Prayer bpn6080 in Sranan Tongo (bpn6080) 
+
+[bahaiprayers.net 6080](https://bahaiprayers.net/Book/Single/51/6080)
+
 
 ----
 
@@ -306,7 +381,10 @@ bpn6080
 
 -- Bahá'u'lláh
 
-bpn6081 
+Prayer bpn6081 in Sranan Tongo (bpn6081) 
+
+[bahaiprayers.net 6081](https://bahaiprayers.net/Book/Single/51/6081)
+
 
 ----
 
@@ -316,7 +394,10 @@ bpn6081
 
 -- Bahá'u'lláh
 
-bpn6082 
+Prayer bpn6082 in Sranan Tongo (bpn6082) 
+
+[bahaiprayers.net 6082](https://bahaiprayers.net/Book/Single/51/6082)
+
 
 ----
 
@@ -330,7 +411,10 @@ bpn6082
 
 -- Bahá'u'lláh
 
-bpn6086 
+Prayer bpn6086 in Sranan Tongo (bpn6086) 
+
+[bahaiprayers.net 6086](https://bahaiprayers.net/Book/Single/51/6086)
+
 
 ----
 
@@ -340,7 +424,10 @@ bpn6086
 
 -- Bahá'u'lláh
 
-bpn6087 
+Prayer bpn6087 in Sranan Tongo (bpn6087) 
+
+[bahaiprayers.net 6087](https://bahaiprayers.net/Book/Single/51/6087)
+
 
 ----
 
@@ -350,7 +437,10 @@ bpn6087
 
 -- Bahá'u'lláh
 
-bpn6088 
+Prayer bpn6088 in Sranan Tongo (bpn6088) 
+
+[bahaiprayers.net 6088](https://bahaiprayers.net/Book/Single/51/6088)
+
 
 ----
 

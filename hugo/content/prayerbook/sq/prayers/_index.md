@@ -100,7 +100,10 @@ tags = ['lang=sq', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2851 
+Prayer bpn2851 in Shqip (bpn2851) 
+
+[bahaiprayers.net 2851](https://bahaiprayers.net/Book/Single/17/2851)
+
 
 ----
 
@@ -110,7 +113,10 @@ bpn2851
 
 -- Bahá'u'lláh
 
-bpn2853 
+Prayer bpn2853 in Shqip (bpn2853) 
+
+[bahaiprayers.net 2853](https://bahaiprayers.net/Book/Single/17/2853)
+
 
 ----
 
@@ -120,7 +126,10 @@ bpn2853
 
 -- Abdu'l-Bahá
 
-bpn2852 
+Prayer bpn2852 in Shqip (bpn2852) 
+
+[bahaiprayers.net 2852](https://bahaiprayers.net/Book/Single/17/2852)
+
 
 ----
 
@@ -134,7 +143,10 @@ bpn2852
 
 -- Abdu'l-Bahá
 
-bpn2759 
+Prayer bpn2759 in Shqip (bpn2759) 
+
+[bahaiprayers.net 2759](https://bahaiprayers.net/Book/Single/17/2759)
+
 
 ----
 
@@ -144,7 +156,10 @@ bpn2759
 
 -- Abdu'l-Bahá
 
-bpn2760 
+Prayer bpn2760 in Shqip (bpn2760) 
+
+[bahaiprayers.net 2760](https://bahaiprayers.net/Book/Single/17/2760)
+
 
 ----
 
@@ -154,7 +169,10 @@ bpn2760
 
 -- Abdu'l-Bahá
 
-bpn2761 
+Prayer bpn2761 in Shqip (bpn2761) 
+
+[bahaiprayers.net 2761](https://bahaiprayers.net/Book/Single/17/2761)
+
 
 ----
 
@@ -168,7 +186,10 @@ bpn2761
 
 -- Abdu'l-Bahá
 
-bpn2762 
+Prayer bpn2762 in Shqip (bpn2762) 
+
+[bahaiprayers.net 2762](https://bahaiprayers.net/Book/Single/17/2762)
+
 
 ----
 
@@ -182,7 +203,10 @@ bpn2762
 
 -- Bahá'u'lláh
 
-bpn2850 
+Prayer bpn2850 in Shqip (bpn2850) 
+
+[bahaiprayers.net 2850](https://bahaiprayers.net/Book/Single/17/2850)
+
 
 ----
 
@@ -196,7 +220,10 @@ bpn2850
 
 -- Bahá'u'lláh
 
-bpn2763 
+Prayer bpn2763 in Shqip (bpn2763) 
+
+[bahaiprayers.net 2763](https://bahaiprayers.net/Book/Single/17/2763)
+
 
 ----
 
@@ -210,7 +237,10 @@ bpn2763
 
 -- Bahá'u'lláh
 
-bpn2768 
+Prayer bpn2768 in Shqip (bpn2768) 
+
+[bahaiprayers.net 2768](https://bahaiprayers.net/Book/Single/17/2768)
+
 
 ----
 
@@ -220,7 +250,10 @@ bpn2768
 
 -- Abdu'l-Bahá
 
-bpn2769 
+Prayer bpn2769 in Shqip (bpn2769) 
+
+[bahaiprayers.net 2769](https://bahaiprayers.net/Book/Single/17/2769)
+
 
 ----
 
@@ -230,7 +263,10 @@ bpn2769
 
 -- Abdu'l-Bahá
 
-bpn2770 
+Prayer bpn2770 in Shqip (bpn2770) 
+
+[bahaiprayers.net 2770](https://bahaiprayers.net/Book/Single/17/2770)
+
 
 ----
 
@@ -240,7 +276,10 @@ bpn2770
 
 -- Abdu'l-Bahá
 
-bpn2771 
+Prayer bpn2771 in Shqip (bpn2771) 
+
+[bahaiprayers.net 2771](https://bahaiprayers.net/Book/Single/17/2771)
+
 
 ----
 
@@ -250,7 +289,10 @@ bpn2771
 
 -- Abdu'l-Bahá
 
-bpn2772 
+Prayer bpn2772 in Shqip (bpn2772) 
+
+[bahaiprayers.net 2772](https://bahaiprayers.net/Book/Single/17/2772)
+
 
 ----
 
@@ -260,7 +302,10 @@ bpn2772
 
 -- Abdu'l-Bahá
 
-bpn2773 
+Prayer bpn2773 in Shqip (bpn2773) 
+
+[bahaiprayers.net 2773](https://bahaiprayers.net/Book/Single/17/2773)
+
 
 ----
 
@@ -270,7 +315,10 @@ bpn2773
 
 -- Abdu'l-Bahá
 
-bpn2774 
+Prayer bpn2774 in Shqip (bpn2774) 
+
+[bahaiprayers.net 2774](https://bahaiprayers.net/Book/Single/17/2774)
+
 
 ----
 
@@ -280,7 +328,10 @@ bpn2774
 
 -- Abdu'l-Bahá
 
-bpn2775 
+Prayer bpn2775 in Shqip (bpn2775) 
+
+[bahaiprayers.net 2775](https://bahaiprayers.net/Book/Single/17/2775)
+
 
 ----
 
@@ -290,7 +341,10 @@ bpn2775
 
 -- Abdu'l-Bahá
 
-bpn2776 
+Prayer bpn2776 in Shqip (bpn2776) 
+
+[bahaiprayers.net 2776](https://bahaiprayers.net/Book/Single/17/2776)
+
 
 ----
 
@@ -304,7 +358,10 @@ bpn2776
 
 -- Bahá'u'lláh
 
-bpn2778 
+Prayer bpn2778 in Shqip (bpn2778) 
+
+[bahaiprayers.net 2778](https://bahaiprayers.net/Book/Single/17/2778)
+
 
 ----
 
@@ -314,7 +371,10 @@ bpn2778
 
 -- Bahá'u'lláh
 
-bpn2779 
+Prayer bpn2779 in Shqip (bpn2779) 
+
+[bahaiprayers.net 2779](https://bahaiprayers.net/Book/Single/17/2779)
+
 
 ----
 
@@ -328,7 +388,10 @@ bpn2779
 
 -- Abdu'l-Bahá
 
-bpn2777 
+Prayer bpn2777 in Shqip (bpn2777) 
+
+[bahaiprayers.net 2777](https://bahaiprayers.net/Book/Single/17/2777)
+
 
 ----
 
@@ -342,7 +405,10 @@ bpn2777
 
 -- Bahá'u'lláh
 
-bpn2780 
+Prayer bpn2780 in Shqip (bpn2780) 
+
+[bahaiprayers.net 2780](https://bahaiprayers.net/Book/Single/17/2780)
+
 
 ----
 
@@ -352,7 +418,10 @@ bpn2780
 
 -- Abdu'l-Bahá
 
-bpn2781 
+Prayer bpn2781 in Shqip (bpn2781) 
+
+[bahaiprayers.net 2781](https://bahaiprayers.net/Book/Single/17/2781)
+
 
 ----
 
@@ -366,7 +435,10 @@ bpn2781
 
 -- Bahá'u'lláh
 
-bpn2756 
+Prayer bpn2756 in Shqip (bpn2756) 
+
+[bahaiprayers.net 2756](https://bahaiprayers.net/Book/Single/17/2756)
+
 
 ----
 
@@ -380,7 +452,10 @@ bpn2756
 
 -- Bahá'u'lláh
 
-bpn2758 
+Prayer bpn2758 in Shqip (bpn2758) 
+
+[bahaiprayers.net 2758](https://bahaiprayers.net/Book/Single/17/2758)
+
 
 ----
 
@@ -394,7 +469,10 @@ bpn2758
 
 -- Bahá'u'lláh
 
-bpn2860 
+Prayer bpn2860 in Shqip (bpn2860) 
+
+[bahaiprayers.net 2860](https://bahaiprayers.net/Book/Single/17/2860)
+
 
 ----
 
@@ -404,7 +482,10 @@ bpn2860
 
 -- Báb
 
-bpn2861 
+Prayer bpn2861 in Shqip (bpn2861) 
+
+[bahaiprayers.net 2861](https://bahaiprayers.net/Book/Single/17/2861)
+
 
 ----
 
@@ -418,7 +499,10 @@ bpn2861
 
 -- Bahá'u'lláh
 
-bpn2757 
+Prayer bpn2757 in Shqip (bpn2757) 
+
+[bahaiprayers.net 2757](https://bahaiprayers.net/Book/Single/17/2757)
+
 
 ----
 
@@ -432,7 +516,10 @@ bpn2757
 
 -- Abdu'l-Bahá
 
-bpn2782 
+Prayer bpn2782 in Shqip (bpn2782) 
+
+[bahaiprayers.net 2782](https://bahaiprayers.net/Book/Single/17/2782)
+
 
 ----
 
@@ -446,7 +533,10 @@ bpn2782
 
 -- Abdu'l-Bahá
 
-bpn2783 
+Prayer bpn2783 in Shqip (bpn2783) 
+
+[bahaiprayers.net 2783](https://bahaiprayers.net/Book/Single/17/2783)
+
 
 ----
 
@@ -460,7 +550,10 @@ bpn2783
 
 -- Abdu'l-Bahá
 
-bpn2784 
+Prayer bpn2784 in Shqip (bpn2784) 
+
+[bahaiprayers.net 2784](https://bahaiprayers.net/Book/Single/17/2784)
+
 
 ----
 
@@ -470,7 +563,10 @@ bpn2784
 
 -- Abdu'l-Bahá
 
-bpn2785 
+Prayer bpn2785 in Shqip (bpn2785) 
+
+[bahaiprayers.net 2785](https://bahaiprayers.net/Book/Single/17/2785)
+
 
 ----
 
@@ -480,7 +576,10 @@ bpn2785
 
 -- Abdu'l-Bahá
 
-bpn2786 
+Prayer bpn2786 in Shqip (bpn2786) 
+
+[bahaiprayers.net 2786](https://bahaiprayers.net/Book/Single/17/2786)
+
 
 ----
 
@@ -490,7 +589,10 @@ bpn2786
 
 -- Abdu'l-Bahá
 
-bpn2787 
+Prayer bpn2787 in Shqip (bpn2787) 
+
+[bahaiprayers.net 2787](https://bahaiprayers.net/Book/Single/17/2787)
+
 
 ----
 
@@ -504,7 +606,10 @@ bpn2787
 
 -- Bahá'u'lláh
 
-bpn2788 
+Prayer bpn2788 in Shqip (bpn2788) 
+
+[bahaiprayers.net 2788](https://bahaiprayers.net/Book/Single/17/2788)
+
 
 ----
 
@@ -514,7 +619,10 @@ bpn2788
 
 -- Bahá'u'lláh
 
-bpn2793 
+Prayer bpn2793 in Shqip (bpn2793) 
+
+[bahaiprayers.net 2793](https://bahaiprayers.net/Book/Single/17/2793)
+
 
 ----
 
@@ -524,7 +632,10 @@ bpn2793
 
 -- Abdu'l-Bahá
 
-bpn2789 
+Prayer bpn2789 in Shqip (bpn2789) 
+
+[bahaiprayers.net 2789](https://bahaiprayers.net/Book/Single/17/2789)
+
 
 ----
 
@@ -534,7 +645,10 @@ bpn2789
 
 -- Abdu'l-Bahá
 
-bpn2790 
+Prayer bpn2790 in Shqip (bpn2790) 
+
+[bahaiprayers.net 2790](https://bahaiprayers.net/Book/Single/17/2790)
+
 
 ----
 
@@ -544,7 +658,10 @@ bpn2790
 
 -- Abdu'l-Bahá
 
-bpn2791 
+Prayer bpn2791 in Shqip (bpn2791) 
+
+[bahaiprayers.net 2791](https://bahaiprayers.net/Book/Single/17/2791)
+
 
 ----
 
@@ -554,7 +671,10 @@ bpn2791
 
 -- Abdu'l-Bahá
 
-bpn2792 
+Prayer bpn2792 in Shqip (bpn2792) 
+
+[bahaiprayers.net 2792](https://bahaiprayers.net/Book/Single/17/2792)
+
 
 ----
 
@@ -568,7 +688,10 @@ bpn2792
 
 -- Abdu'l-Bahá
 
-bpn2804 
+Prayer bpn2804 in Shqip (bpn2804) 
+
+[bahaiprayers.net 2804](https://bahaiprayers.net/Book/Single/17/2804)
+
 
 ----
 
@@ -582,7 +705,10 @@ bpn2804
 
 -- Bahá'u'lláh
 
-bpn2794 
+Prayer bpn2794 in Shqip (bpn2794) 
+
+[bahaiprayers.net 2794](https://bahaiprayers.net/Book/Single/17/2794)
+
 
 ----
 
@@ -592,7 +718,10 @@ bpn2794
 
 -- Bahá'u'lláh
 
-bpn2795 
+Prayer bpn2795 in Shqip (bpn2795) 
+
+[bahaiprayers.net 2795](https://bahaiprayers.net/Book/Single/17/2795)
+
 
 ----
 
@@ -606,7 +735,10 @@ bpn2795
 
 -- Bahá'u'lláh
 
-bpn2796 
+Prayer bpn2796 in Shqip (bpn2796) 
+
+[bahaiprayers.net 2796](https://bahaiprayers.net/Book/Single/17/2796)
+
 
 ----
 
@@ -616,7 +748,10 @@ bpn2796
 
 -- Abdu'l-Bahá
 
-bpn2797 
+Prayer bpn2797 in Shqip (bpn2797) 
+
+[bahaiprayers.net 2797](https://bahaiprayers.net/Book/Single/17/2797)
+
 
 ----
 
@@ -626,7 +761,10 @@ bpn2797
 
 -- Abdu'l-Bahá
 
-bpn2798 
+Prayer bpn2798 in Shqip (bpn2798) 
+
+[bahaiprayers.net 2798](https://bahaiprayers.net/Book/Single/17/2798)
+
 
 ----
 
@@ -636,7 +774,10 @@ bpn2798
 
 -- Abdu'l-Bahá
 
-bpn2799 
+Prayer bpn2799 in Shqip (bpn2799) 
+
+[bahaiprayers.net 2799](https://bahaiprayers.net/Book/Single/17/2799)
+
 
 ----
 
@@ -646,7 +787,10 @@ bpn2799
 
 -- Abdu'l-Bahá
 
-bpn2800 
+Prayer bpn2800 in Shqip (bpn2800) 
+
+[bahaiprayers.net 2800](https://bahaiprayers.net/Book/Single/17/2800)
+
 
 ----
 
@@ -656,7 +800,10 @@ bpn2800
 
 -- Abdu'l-Bahá
 
-bpn2801 
+Prayer bpn2801 in Shqip (bpn2801) 
+
+[bahaiprayers.net 2801](https://bahaiprayers.net/Book/Single/17/2801)
+
 
 ----
 
@@ -670,7 +817,10 @@ bpn2801
 
 -- Bahá'u'lláh
 
-bpn2802 
+Prayer bpn2802 in Shqip (bpn2802) 
+
+[bahaiprayers.net 2802](https://bahaiprayers.net/Book/Single/17/2802)
+
 
 ----
 
@@ -680,7 +830,10 @@ bpn2802
 
 -- Bahá'u'lláh
 
-bpn2803 
+Prayer bpn2803 in Shqip (bpn2803) 
+
+[bahaiprayers.net 2803](https://bahaiprayers.net/Book/Single/17/2803)
+
 
 ----
 
@@ -694,7 +847,10 @@ bpn2803
 
 -- Bahá'u'lláh
 
-bpn2805 
+Prayer bpn2805 in Shqip (bpn2805) 
+
+[bahaiprayers.net 2805](https://bahaiprayers.net/Book/Single/17/2805)
+
 
 ----
 
@@ -704,7 +860,10 @@ bpn2805
 
 -- Bahá'u'lláh
 
-bpn2806 
+Prayer bpn2806 in Shqip (bpn2806) 
+
+[bahaiprayers.net 2806](https://bahaiprayers.net/Book/Single/17/2806)
+
 
 ----
 
@@ -714,7 +873,10 @@ bpn2806
 
 -- Bahá'u'lláh
 
-bpn2807 
+Prayer bpn2807 in Shqip (bpn2807) 
+
+[bahaiprayers.net 2807](https://bahaiprayers.net/Book/Single/17/2807)
+
 
 ----
 
@@ -724,7 +886,10 @@ bpn2807
 
 -- Báb
 
-bpn2808 
+Prayer bpn2808 in Shqip (bpn2808) 
+
+[bahaiprayers.net 2808](https://bahaiprayers.net/Book/Single/17/2808)
+
 
 ----
 
@@ -734,7 +899,10 @@ bpn2808
 
 -- Báb
 
-bpn2809 
+Prayer bpn2809 in Shqip (bpn2809) 
+
+[bahaiprayers.net 2809](https://bahaiprayers.net/Book/Single/17/2809)
+
 
 ----
 
@@ -744,7 +912,10 @@ bpn2809
 
 -- Abdu'l-Bahá
 
-bpn2810 
+Prayer bpn2810 in Shqip (bpn2810) 
+
+[bahaiprayers.net 2810](https://bahaiprayers.net/Book/Single/17/2810)
+
 
 ----
 
@@ -754,7 +925,10 @@ bpn2810
 
 -- Abdu'l-Bahá
 
-bpn2811 
+Prayer bpn2811 in Shqip (bpn2811) 
+
+[bahaiprayers.net 2811](https://bahaiprayers.net/Book/Single/17/2811)
+
 
 ----
 
@@ -768,7 +942,10 @@ bpn2811
 
 -- Bahá'u'lláh
 
-bpn2764 
+Prayer bpn2764 in Shqip (bpn2764) 
+
+[bahaiprayers.net 2764](https://bahaiprayers.net/Book/Single/17/2764)
+
 
 ----
 
@@ -778,7 +955,10 @@ bpn2764
 
 -- Báb
 
-bpn2765 
+Prayer bpn2765 in Shqip (bpn2765) 
+
+[bahaiprayers.net 2765](https://bahaiprayers.net/Book/Single/17/2765)
+
 
 ----
 
@@ -788,7 +968,10 @@ bpn2765
 
 -- Báb
 
-bpn2766 
+Prayer bpn2766 in Shqip (bpn2766) 
+
+[bahaiprayers.net 2766](https://bahaiprayers.net/Book/Single/17/2766)
+
 
 ----
 
@@ -798,7 +981,10 @@ bpn2766
 
 -- Abdu'l-Bahá
 
-bpn2767 
+Prayer bpn2767 in Shqip (bpn2767) 
+
+[bahaiprayers.net 2767](https://bahaiprayers.net/Book/Single/17/2767)
+
 
 ----
 
@@ -812,7 +998,10 @@ bpn2767
 
 -- Abdu'l-Bahá
 
-bpn2814 
+Prayer bpn2814 in Shqip (bpn2814) 
+
+[bahaiprayers.net 2814](https://bahaiprayers.net/Book/Single/17/2814)
+
 
 ----
 
@@ -822,7 +1011,10 @@ bpn2814
 
 -- Abdu'l-Bahá
 
-bpn2813 
+Prayer bpn2813 in Shqip (bpn2813) 
+
+[bahaiprayers.net 2813](https://bahaiprayers.net/Book/Single/17/2813)
+
 
 ----
 
@@ -836,7 +1028,10 @@ bpn2813
 
 -- Bahá'u'lláh
 
-bpn2854 
+Prayer bpn2854 in Shqip (bpn2854) 
+
+[bahaiprayers.net 2854](https://bahaiprayers.net/Book/Single/17/2854)
+
 
 ----
 
@@ -850,7 +1045,10 @@ bpn2854
 
 -- Abdu'l-Bahá
 
-bpn2812 
+Prayer bpn2812 in Shqip (bpn2812) 
+
+[bahaiprayers.net 2812](https://bahaiprayers.net/Book/Single/17/2812)
+
 
 ----
 
@@ -864,7 +1062,10 @@ bpn2812
 
 -- Bahá'u'lláh
 
-bpn2818 
+Prayer bpn2818 in Shqip (bpn2818) 
+
+[bahaiprayers.net 2818](https://bahaiprayers.net/Book/Single/17/2818)
+
 
 ----
 
@@ -874,7 +1075,10 @@ bpn2818
 
 -- Abdu'l-Bahá
 
-bpn2819 
+Prayer bpn2819 in Shqip (bpn2819) 
+
+[bahaiprayers.net 2819](https://bahaiprayers.net/Book/Single/17/2819)
+
 
 ----
 
@@ -888,7 +1092,10 @@ bpn2819
 
 -- Bahá'u'lláh
 
-bpn2815 
+Prayer bpn2815 in Shqip (bpn2815) 
+
+[bahaiprayers.net 2815](https://bahaiprayers.net/Book/Single/17/2815)
+
 
 ----
 
@@ -898,7 +1105,10 @@ bpn2815
 
 -- Bahá'u'lláh
 
-bpn2816 
+Prayer bpn2816 in Shqip (bpn2816) 
+
+[bahaiprayers.net 2816](https://bahaiprayers.net/Book/Single/17/2816)
+
 
 ----
 
@@ -908,7 +1118,10 @@ bpn2816
 
 -- Abdu'l-Bahá
 
-bpn2817 
+Prayer bpn2817 in Shqip (bpn2817) 
+
+[bahaiprayers.net 2817](https://bahaiprayers.net/Book/Single/17/2817)
+
 
 ----
 
@@ -922,7 +1135,10 @@ bpn2817
 
 -- Bahá'u'lláh
 
-bpn2820 
+Prayer bpn2820 in Shqip (bpn2820) 
+
+[bahaiprayers.net 2820](https://bahaiprayers.net/Book/Single/17/2820)
+
 
 ----
 
@@ -932,7 +1148,10 @@ bpn2820
 
 -- Bahá'u'lláh
 
-bpn2821 
+Prayer bpn2821 in Shqip (bpn2821) 
+
+[bahaiprayers.net 2821](https://bahaiprayers.net/Book/Single/17/2821)
+
 
 ----
 
@@ -942,7 +1161,10 @@ bpn2821
 
 -- Bahá'u'lláh
 
-bpn2822 
+Prayer bpn2822 in Shqip (bpn2822) 
+
+[bahaiprayers.net 2822](https://bahaiprayers.net/Book/Single/17/2822)
+
 
 ----
 
@@ -952,7 +1174,10 @@ bpn2822
 
 -- Bahá'u'lláh
 
-bpn2827 
+Prayer bpn2827 in Shqip (bpn2827) 
+
+[bahaiprayers.net 2827](https://bahaiprayers.net/Book/Single/17/2827)
+
 
 ----
 
@@ -962,7 +1187,10 @@ bpn2827
 
 -- Abdu'l-Bahá
 
-bpn2823 
+Prayer bpn2823 in Shqip (bpn2823) 
+
+[bahaiprayers.net 2823](https://bahaiprayers.net/Book/Single/17/2823)
+
 
 ----
 
@@ -972,7 +1200,10 @@ bpn2823
 
 -- Abdu'l-Bahá
 
-bpn2824 
+Prayer bpn2824 in Shqip (bpn2824) 
+
+[bahaiprayers.net 2824](https://bahaiprayers.net/Book/Single/17/2824)
+
 
 ----
 
@@ -982,7 +1213,10 @@ bpn2824
 
 -- Abdu'l-Bahá
 
-bpn2825 
+Prayer bpn2825 in Shqip (bpn2825) 
+
+[bahaiprayers.net 2825](https://bahaiprayers.net/Book/Single/17/2825)
+
 
 ----
 
@@ -992,7 +1226,10 @@ bpn2825
 
 -- Abdu'l-Bahá
 
-bpn2826 
+Prayer bpn2826 in Shqip (bpn2826) 
+
+[bahaiprayers.net 2826](https://bahaiprayers.net/Book/Single/17/2826)
+
 
 ----
 
@@ -1006,7 +1243,10 @@ bpn2826
 
 -- Báb
 
-bpn2836 
+Prayer bpn2836 in Shqip (bpn2836) 
+
+[bahaiprayers.net 2836](https://bahaiprayers.net/Book/Single/17/2836)
+
 
 ----
 
@@ -1016,7 +1256,10 @@ bpn2836
 
 -- Báb
 
-bpn2837 
+Prayer bpn2837 in Shqip (bpn2837) 
+
+[bahaiprayers.net 2837](https://bahaiprayers.net/Book/Single/17/2837)
+
 
 ----
 
@@ -1030,7 +1273,10 @@ bpn2837
 
 -- Bahá'u'lláh
 
-bpn2834 
+Prayer bpn2834 in Shqip (bpn2834) 
+
+[bahaiprayers.net 2834](https://bahaiprayers.net/Book/Single/17/2834)
+
 
 ----
 
@@ -1040,7 +1286,10 @@ bpn2834
 
 -- Bahá'u'lláh
 
-bpn2835 
+Prayer bpn2835 in Shqip (bpn2835) 
+
+[bahaiprayers.net 2835](https://bahaiprayers.net/Book/Single/17/2835)
+
 
 ----
 
@@ -1054,7 +1303,10 @@ bpn2835
 
 -- Bahá'u'lláh
 
-bpn2828 
+Prayer bpn2828 in Shqip (bpn2828) 
+
+[bahaiprayers.net 2828](https://bahaiprayers.net/Book/Single/17/2828)
+
 
 ----
 
@@ -1064,7 +1316,10 @@ bpn2828
 
 -- Bahá'u'lláh
 
-bpn2833 
+Prayer bpn2833 in Shqip (bpn2833) 
+
+[bahaiprayers.net 2833](https://bahaiprayers.net/Book/Single/17/2833)
+
 
 ----
 
@@ -1074,7 +1329,10 @@ bpn2833
 
 -- Báb
 
-bpn2829 
+Prayer bpn2829 in Shqip (bpn2829) 
+
+[bahaiprayers.net 2829](https://bahaiprayers.net/Book/Single/17/2829)
+
 
 ----
 
@@ -1084,7 +1342,10 @@ bpn2829
 
 -- Báb
 
-bpn2830 
+Prayer bpn2830 in Shqip (bpn2830) 
+
+[bahaiprayers.net 2830](https://bahaiprayers.net/Book/Single/17/2830)
+
 
 ----
 
@@ -1094,7 +1355,10 @@ bpn2830
 
 -- Abdu'l-Bahá
 
-bpn2831 
+Prayer bpn2831 in Shqip (bpn2831) 
+
+[bahaiprayers.net 2831](https://bahaiprayers.net/Book/Single/17/2831)
+
 
 ----
 
@@ -1104,7 +1368,10 @@ bpn2831
 
 -- Abdu'l-Bahá
 
-bpn2832 
+Prayer bpn2832 in Shqip (bpn2832) 
+
+[bahaiprayers.net 2832](https://bahaiprayers.net/Book/Single/17/2832)
+
 
 ----
 
@@ -1118,7 +1385,10 @@ bpn2832
 
 -- Bahá'u'lláh
 
-bpn2856 
+Prayer bpn2856 in Shqip (bpn2856) 
+
+[bahaiprayers.net 2856](https://bahaiprayers.net/Book/Single/17/2856)
+
 
 ----
 
@@ -1132,7 +1402,10 @@ bpn2856
 
 -- Bahá'u'lláh
 
-bpn2855 
+Prayer bpn2855 in Shqip (bpn2855) 
+
+[bahaiprayers.net 2855](https://bahaiprayers.net/Book/Single/17/2855)
+
 
 ----
 
@@ -1146,7 +1419,10 @@ bpn2855
 
 -- Bahá'u'lláh
 
-bpn2859 
+Prayer bpn2859 in Shqip (bpn2859) 
+
+[bahaiprayers.net 2859](https://bahaiprayers.net/Book/Single/17/2859)
+
 
 ----
 
@@ -1160,7 +1436,10 @@ bpn2859
 
 -- Abdu'l-Bahá
 
-bpn2858 
+Prayer bpn2858 in Shqip (bpn2858) 
+
+[bahaiprayers.net 2858](https://bahaiprayers.net/Book/Single/17/2858)
+
 
 ----
 
@@ -1174,7 +1453,10 @@ bpn2858
 
 -- Bahá'u'lláh
 
-bpn2857 
+Prayer bpn2857 in Shqip (bpn2857) 
+
+[bahaiprayers.net 2857](https://bahaiprayers.net/Book/Single/17/2857)
+
 
 ----
 
@@ -1188,7 +1470,10 @@ bpn2857
 
 -- Bahá'u'lláh
 
-bpn2838 
+Prayer bpn2838 in Shqip (bpn2838) 
+
+[bahaiprayers.net 2838](https://bahaiprayers.net/Book/Single/17/2838)
+
 
 ----
 
@@ -1202,7 +1487,10 @@ bpn2838
 
 -- Bahá'u'lláh
 
-bpn2839 
+Prayer bpn2839 in Shqip (bpn2839) 
+
+[bahaiprayers.net 2839](https://bahaiprayers.net/Book/Single/17/2839)
+
 
 ----
 
@@ -1212,7 +1500,10 @@ bpn2839
 
 -- Bahá'u'lláh
 
-bpn2840 
+Prayer bpn2840 in Shqip (bpn2840) 
+
+[bahaiprayers.net 2840](https://bahaiprayers.net/Book/Single/17/2840)
+
 
 ----
 
@@ -1226,7 +1517,10 @@ bpn2840
 
 -- Bahá'u'lláh
 
-bpn2841 
+Prayer bpn2841 in Shqip (bpn2841) 
+
+[bahaiprayers.net 2841](https://bahaiprayers.net/Book/Single/17/2841)
+
 
 ----
 
@@ -1236,7 +1530,10 @@ bpn2841
 
 -- Bahá'u'lláh
 
-bpn2842 
+Prayer bpn2842 in Shqip (bpn2842) 
+
+[bahaiprayers.net 2842](https://bahaiprayers.net/Book/Single/17/2842)
+
 
 ----
 
@@ -1246,7 +1543,10 @@ bpn2842
 
 -- Bahá'u'lláh
 
-bpn2843 
+Prayer bpn2843 in Shqip (bpn2843) 
+
+[bahaiprayers.net 2843](https://bahaiprayers.net/Book/Single/17/2843)
+
 
 ----
 
@@ -1256,7 +1556,10 @@ bpn2843
 
 -- Bahá'u'lláh
 
-bpn2844 
+Prayer bpn2844 in Shqip (bpn2844) 
+
+[bahaiprayers.net 2844](https://bahaiprayers.net/Book/Single/17/2844)
+
 
 ----
 
@@ -1266,7 +1569,10 @@ bpn2844
 
 -- Bahá'u'lláh
 
-bpn2845 
+Prayer bpn2845 in Shqip (bpn2845) 
+
+[bahaiprayers.net 2845](https://bahaiprayers.net/Book/Single/17/2845)
+
 
 ----
 
@@ -1276,7 +1582,10 @@ bpn2845
 
 -- Abdu'l-Bahá
 
-bpn2846 
+Prayer bpn2846 in Shqip (bpn2846) 
+
+[bahaiprayers.net 2846](https://bahaiprayers.net/Book/Single/17/2846)
+
 
 ----
 
@@ -1290,7 +1599,10 @@ bpn2846
 
 -- Bahá'u'lláh
 
-bpn2849 
+Prayer bpn2849 in Shqip (bpn2849) 
+
+[bahaiprayers.net 2849](https://bahaiprayers.net/Book/Single/17/2849)
+
 
 ----
 
@@ -1300,7 +1612,10 @@ bpn2849
 
 -- Abdu'l-Bahá
 
-bpn2847 
+Prayer bpn2847 in Shqip (bpn2847) 
+
+[bahaiprayers.net 2847](https://bahaiprayers.net/Book/Single/17/2847)
+
 
 ----
 
@@ -1310,7 +1625,10 @@ bpn2847
 
 -- Abdu'l-Bahá
 
-bpn2848 
+Prayer bpn2848 in Shqip (bpn2848) 
+
+[bahaiprayers.net 2848](https://bahaiprayers.net/Book/Single/17/2848)
+
 
 ----
 
@@ -1324,7 +1642,10 @@ bpn2848
 
 -- Bahá'u'lláh
 
-bpn2862 
+Prayer bpn2862 in Shqip (bpn2862) 
+
+[bahaiprayers.net 2862](https://bahaiprayers.net/Book/Single/17/2862)
+
 
 ----
 
@@ -1334,7 +1655,10 @@ bpn2862
 
 -- Bahá'u'lláh
 
-bpn2863 
+Prayer bpn2863 in Shqip (bpn2863) 
+
+[bahaiprayers.net 2863](https://bahaiprayers.net/Book/Single/17/2863)
+
 
 ----
 
@@ -1344,7 +1668,10 @@ bpn2863
 
 -- Báb
 
-bpn2864 
+Prayer bpn2864 in Shqip (bpn2864) 
+
+[bahaiprayers.net 2864](https://bahaiprayers.net/Book/Single/17/2864)
+
 
 ----
 

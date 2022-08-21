@@ -78,7 +78,10 @@ tags = ['lang=sr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn10795 
+Prayer bpn10795 in Srpski српски (bpn10795) 
+
+[bahaiprayers.net 10795](https://bahaiprayers.net/Book/Single/93/10795)
+
 
 ----
 
@@ -92,7 +95,10 @@ bpn10795
 
 -- Abdu'l-Bahá
 
-bpn10734 
+Prayer bpn10734 in Srpski српски (bpn10734) 
+
+[bahaiprayers.net 10734](https://bahaiprayers.net/Book/Single/93/10734)
+
 
 ----
 
@@ -106,7 +112,10 @@ bpn10734
 
 -- Abdu'l-Bahá
 
-bpn10735 
+Prayer bpn10735 in Srpski српски (bpn10735) 
+
+[bahaiprayers.net 10735](https://bahaiprayers.net/Book/Single/93/10735)
+
 
 ----
 
@@ -116,7 +125,10 @@ bpn10735
 
 -- Abdu'l-Bahá
 
-bpn10736 
+Prayer bpn10736 in Srpski српски (bpn10736) 
+
+[bahaiprayers.net 10736](https://bahaiprayers.net/Book/Single/93/10736)
+
 
 ----
 
@@ -126,7 +138,10 @@ bpn10736
 
 -- Abdu'l-Bahá
 
-bpn10737 
+Prayer bpn10737 in Srpski српски (bpn10737) 
+
+[bahaiprayers.net 10737](https://bahaiprayers.net/Book/Single/93/10737)
+
 
 ----
 
@@ -140,7 +155,10 @@ bpn10737
 
 -- Bahá'u'lláh
 
-bpn10791 
+Prayer bpn10791 in Srpski српски (bpn10791) 
+
+[bahaiprayers.net 10791](https://bahaiprayers.net/Book/Single/93/10791)
+
 
 ----
 
@@ -154,7 +172,10 @@ bpn10791
 
 -- Bahá'u'lláh
 
-bpn10798 
+Prayer bpn10798 in Srpski српски (bpn10798) 
+
+[bahaiprayers.net 10798](https://bahaiprayers.net/Book/Single/93/10798)
+
 
 ----
 
@@ -168,7 +189,10 @@ bpn10798
 
 -- Abdu'l-Bahá
 
-bpn10746 
+Prayer bpn10746 in Srpski српски (bpn10746) 
+
+[bahaiprayers.net 10746](https://bahaiprayers.net/Book/Single/93/10746)
+
 
 ----
 
@@ -182,7 +206,10 @@ bpn10746
 
 -- Bahá'u'lláh
 
-bpn10747 
+Prayer bpn10747 in Srpski српски (bpn10747) 
+
+[bahaiprayers.net 10747](https://bahaiprayers.net/Book/Single/93/10747)
+
 
 ----
 
@@ -192,7 +219,10 @@ bpn10747
 
 -- Báb
 
-bpn10748 
+Prayer bpn10748 in Srpski српски (bpn10748) 
+
+[bahaiprayers.net 10748](https://bahaiprayers.net/Book/Single/93/10748)
+
 
 ----
 
@@ -202,7 +232,10 @@ bpn10748
 
 -- Abdu'l-Bahá
 
-bpn10749 
+Prayer bpn10749 in Srpski српски (bpn10749) 
+
+[bahaiprayers.net 10749](https://bahaiprayers.net/Book/Single/93/10749)
+
 
 ----
 
@@ -216,7 +249,10 @@ bpn10749
 
 -- Bahá'u'lláh
 
-bpn10738 
+Prayer bpn10738 in Srpski српски (bpn10738) 
+
+[bahaiprayers.net 10738](https://bahaiprayers.net/Book/Single/93/10738)
+
 
 ----
 
@@ -226,7 +262,10 @@ bpn10738
 
 -- Bahá'u'lláh
 
-bpn10739 
+Prayer bpn10739 in Srpski српски (bpn10739) 
+
+[bahaiprayers.net 10739](https://bahaiprayers.net/Book/Single/93/10739)
+
 
 ----
 
@@ -236,7 +275,10 @@ bpn10739
 
 -- Bahá'u'lláh
 
-bpn10740 
+Prayer bpn10740 in Srpski српски (bpn10740) 
+
+[bahaiprayers.net 10740](https://bahaiprayers.net/Book/Single/93/10740)
+
 
 ----
 
@@ -246,7 +288,10 @@ bpn10740
 
 -- Abdu'l-Bahá
 
-bpn10741 
+Prayer bpn10741 in Srpski српски (bpn10741) 
+
+[bahaiprayers.net 10741](https://bahaiprayers.net/Book/Single/93/10741)
+
 
 ----
 
@@ -256,7 +301,10 @@ bpn10741
 
 -- Abdu'l-Bahá
 
-bpn10742 
+Prayer bpn10742 in Srpski српски (bpn10742) 
+
+[bahaiprayers.net 10742](https://bahaiprayers.net/Book/Single/93/10742)
+
 
 ----
 
@@ -266,7 +314,10 @@ bpn10742
 
 -- Abdu'l-Bahá
 
-bpn10743 
+Prayer bpn10743 in Srpski српски (bpn10743) 
+
+[bahaiprayers.net 10743](https://bahaiprayers.net/Book/Single/93/10743)
+
 
 ----
 
@@ -276,7 +327,10 @@ bpn10743
 
 -- Abdu'l-Bahá
 
-bpn10744 
+Prayer bpn10744 in Srpski српски (bpn10744) 
+
+[bahaiprayers.net 10744](https://bahaiprayers.net/Book/Single/93/10744)
+
 
 ----
 
@@ -286,7 +340,10 @@ bpn10744
 
 -- Abdu'l-Bahá
 
-bpn10745 
+Prayer bpn10745 in Srpski српски (bpn10745) 
+
+[bahaiprayers.net 10745](https://bahaiprayers.net/Book/Single/93/10745)
+
 
 ----
 
@@ -300,7 +357,10 @@ bpn10745
 
 -- Bahá'u'lláh
 
-bpn10750 
+Prayer bpn10750 in Srpski српски (bpn10750) 
+
+[bahaiprayers.net 10750](https://bahaiprayers.net/Book/Single/93/10750)
+
 
 ----
 
@@ -310,7 +370,10 @@ bpn10750
 
 -- Bahá'u'lláh
 
-bpn10751 
+Prayer bpn10751 in Srpski српски (bpn10751) 
+
+[bahaiprayers.net 10751](https://bahaiprayers.net/Book/Single/93/10751)
+
 
 ----
 
@@ -324,7 +387,10 @@ bpn10751
 
 -- Bahá'u'lláh
 
-bpn10753 
+Prayer bpn10753 in Srpski српски (bpn10753) 
+
+[bahaiprayers.net 10753](https://bahaiprayers.net/Book/Single/93/10753)
+
 
 ----
 
@@ -334,7 +400,10 @@ bpn10753
 
 -- Bahá'u'lláh
 
-bpn10752 
+Prayer bpn10752 in Srpski српски (bpn10752) 
+
+[bahaiprayers.net 10752](https://bahaiprayers.net/Book/Single/93/10752)
+
 
 ----
 
@@ -344,7 +413,10 @@ bpn10752
 
 -- Abdu'l-Bahá
 
-bpn10754 
+Prayer bpn10754 in Srpski српски (bpn10754) 
+
+[bahaiprayers.net 10754](https://bahaiprayers.net/Book/Single/93/10754)
+
 
 ----
 
@@ -354,7 +426,10 @@ bpn10754
 
 -- Abdu'l-Bahá
 
-bpn10755 
+Prayer bpn10755 in Srpski српски (bpn10755) 
+
+[bahaiprayers.net 10755](https://bahaiprayers.net/Book/Single/93/10755)
+
 
 ----
 
@@ -364,7 +439,10 @@ bpn10755
 
 -- Abdu'l-Bahá
 
-bpn10756 
+Prayer bpn10756 in Srpski српски (bpn10756) 
+
+[bahaiprayers.net 10756](https://bahaiprayers.net/Book/Single/93/10756)
+
 
 ----
 
@@ -378,7 +456,10 @@ bpn10756
 
 -- Bahá'u'lláh
 
-bpn10757 
+Prayer bpn10757 in Srpski српски (bpn10757) 
+
+[bahaiprayers.net 10757](https://bahaiprayers.net/Book/Single/93/10757)
+
 
 ----
 
@@ -392,7 +473,10 @@ bpn10757
 
 -- Bahá'u'lláh
 
-bpn10789 
+Prayer bpn10789 in Srpski српски (bpn10789) 
+
+[bahaiprayers.net 10789](https://bahaiprayers.net/Book/Single/93/10789)
+
 
 ----
 
@@ -406,7 +490,10 @@ bpn10789
 
 -- Abdu'l-Bahá
 
-bpn10733 
+Prayer bpn10733 in Srpski српски (bpn10733) 
+
+[bahaiprayers.net 10733](https://bahaiprayers.net/Book/Single/93/10733)
+
 
 ----
 
@@ -420,7 +507,10 @@ bpn10733
 
 -- Bahá'u'lláh
 
-bpn10793 
+Prayer bpn10793 in Srpski српски (bpn10793) 
+
+[bahaiprayers.net 10793](https://bahaiprayers.net/Book/Single/93/10793)
+
 
 ----
 
@@ -434,7 +524,10 @@ bpn10793
 
 -- Bahá'u'lláh
 
-bpn10758 
+Prayer bpn10758 in Srpski српски (bpn10758) 
+
+[bahaiprayers.net 10758](https://bahaiprayers.net/Book/Single/93/10758)
+
 
 ----
 
@@ -444,7 +537,10 @@ bpn10758
 
 -- Abdu'l-Bahá
 
-bpn10759 
+Prayer bpn10759 in Srpski српски (bpn10759) 
+
+[bahaiprayers.net 10759](https://bahaiprayers.net/Book/Single/93/10759)
+
 
 ----
 
@@ -458,7 +554,10 @@ bpn10759
 
 -- Bahá'u'lláh
 
-bpn10760 
+Prayer bpn10760 in Srpski српски (bpn10760) 
+
+[bahaiprayers.net 10760](https://bahaiprayers.net/Book/Single/93/10760)
+
 
 ----
 
@@ -468,7 +567,10 @@ bpn10760
 
 -- Báb
 
-bpn10761 
+Prayer bpn10761 in Srpski српски (bpn10761) 
+
+[bahaiprayers.net 10761](https://bahaiprayers.net/Book/Single/93/10761)
+
 
 ----
 
@@ -478,7 +580,10 @@ bpn10761
 
 -- Abdu'l-Bahá
 
-bpn10762 
+Prayer bpn10762 in Srpski српски (bpn10762) 
+
+[bahaiprayers.net 10762](https://bahaiprayers.net/Book/Single/93/10762)
+
 
 ----
 
@@ -492,7 +597,10 @@ bpn10762
 
 -- Báb
 
-bpn10763 
+Prayer bpn10763 in Srpski српски (bpn10763) 
+
+[bahaiprayers.net 10763](https://bahaiprayers.net/Book/Single/93/10763)
+
 
 ----
 
@@ -502,7 +610,10 @@ bpn10763
 
 -- Abdu'l-Bahá
 
-bpn10764 
+Prayer bpn10764 in Srpski српски (bpn10764) 
+
+[bahaiprayers.net 10764](https://bahaiprayers.net/Book/Single/93/10764)
+
 
 ----
 
@@ -516,7 +627,10 @@ bpn10764
 
 -- Bahá'u'lláh
 
-bpn10765 
+Prayer bpn10765 in Srpski српски (bpn10765) 
+
+[bahaiprayers.net 10765](https://bahaiprayers.net/Book/Single/93/10765)
+
 
 ----
 
@@ -526,7 +640,10 @@ bpn10765
 
 -- Bahá'u'lláh
 
-bpn10766 
+Prayer bpn10766 in Srpski српски (bpn10766) 
+
+[bahaiprayers.net 10766](https://bahaiprayers.net/Book/Single/93/10766)
+
 
 ----
 
@@ -536,7 +653,10 @@ bpn10766
 
 -- Abdu'l-Bahá
 
-bpn10767 
+Prayer bpn10767 in Srpski српски (bpn10767) 
+
+[bahaiprayers.net 10767](https://bahaiprayers.net/Book/Single/93/10767)
+
 
 ----
 
@@ -546,7 +666,10 @@ bpn10767
 
 -- Abdu'l-Bahá
 
-bpn10768 
+Prayer bpn10768 in Srpski српски (bpn10768) 
+
+[bahaiprayers.net 10768](https://bahaiprayers.net/Book/Single/93/10768)
+
 
 ----
 
@@ -560,7 +683,10 @@ bpn10768
 
 -- Bahá'u'lláh
 
-bpn10792 
+Prayer bpn10792 in Srpski српски (bpn10792) 
+
+[bahaiprayers.net 10792](https://bahaiprayers.net/Book/Single/93/10792)
+
 
 ----
 
@@ -574,7 +700,10 @@ bpn10792
 
 -- Bahá'u'lláh
 
-bpn10771 
+Prayer bpn10771 in Srpski српски (bpn10771) 
+
+[bahaiprayers.net 10771](https://bahaiprayers.net/Book/Single/93/10771)
+
 
 ----
 
@@ -588,7 +717,10 @@ bpn10771
 
 -- Bahá'u'lláh
 
-bpn10772 
+Prayer bpn10772 in Srpski српски (bpn10772) 
+
+[bahaiprayers.net 10772](https://bahaiprayers.net/Book/Single/93/10772)
+
 
 ----
 
@@ -602,7 +734,10 @@ bpn10772
 
 -- Bahá'u'lláh
 
-bpn10773 
+Prayer bpn10773 in Srpski српски (bpn10773) 
+
+[bahaiprayers.net 10773](https://bahaiprayers.net/Book/Single/93/10773)
+
 
 ----
 
@@ -616,7 +751,10 @@ bpn10773
 
 -- Bahá'u'lláh
 
-bpn10790 
+Prayer bpn10790 in Srpski српски (bpn10790) 
+
+[bahaiprayers.net 10790](https://bahaiprayers.net/Book/Single/93/10790)
+
 
 ----
 
@@ -630,7 +768,10 @@ bpn10790
 
 -- Abdu'l-Bahá
 
-bpn10774 
+Prayer bpn10774 in Srpski српски (bpn10774) 
+
+[bahaiprayers.net 10774](https://bahaiprayers.net/Book/Single/93/10774)
+
 
 ----
 
@@ -644,7 +785,10 @@ bpn10774
 
 -- Bahá'u'lláh
 
-bpn10797 
+Prayer bpn10797 in Srpski српски (bpn10797) 
+
+[bahaiprayers.net 10797](https://bahaiprayers.net/Book/Single/93/10797)
+
 
 ----
 
@@ -658,7 +802,10 @@ bpn10797
 
 -- Bahá'u'lláh
 
-bpn10796 
+Prayer bpn10796 in Srpski српски (bpn10796) 
+
+[bahaiprayers.net 10796](https://bahaiprayers.net/Book/Single/93/10796)
+
 
 ----
 
@@ -672,7 +819,10 @@ bpn10796
 
 -- Bahá'u'lláh
 
-bpn10794 
+Prayer bpn10794 in Srpski српски (bpn10794) 
+
+[bahaiprayers.net 10794](https://bahaiprayers.net/Book/Single/93/10794)
+
 
 ----
 
@@ -686,7 +836,10 @@ bpn10794
 
 -- Bahá'u'lláh
 
-bpn10775 
+Prayer bpn10775 in Srpski српски (bpn10775) 
+
+[bahaiprayers.net 10775](https://bahaiprayers.net/Book/Single/93/10775)
+
 
 ----
 
@@ -696,7 +849,10 @@ bpn10775
 
 -- Bahá'u'lláh
 
-bpn10781 
+Prayer bpn10781 in Srpski српски (bpn10781) 
+
+[bahaiprayers.net 10781](https://bahaiprayers.net/Book/Single/93/10781)
+
 
 ----
 
@@ -706,7 +862,10 @@ bpn10781
 
 -- Bahá'u'lláh
 
-bpn10782 
+Prayer bpn10782 in Srpski српски (bpn10782) 
+
+[bahaiprayers.net 10782](https://bahaiprayers.net/Book/Single/93/10782)
+
 
 ----
 
@@ -716,7 +875,10 @@ bpn10782
 
 -- Báb
 
-bpn10776 
+Prayer bpn10776 in Srpski српски (bpn10776) 
+
+[bahaiprayers.net 10776](https://bahaiprayers.net/Book/Single/93/10776)
+
 
 ----
 
@@ -726,7 +888,10 @@ bpn10776
 
 -- Báb
 
-bpn10777 
+Prayer bpn10777 in Srpski српски (bpn10777) 
+
+[bahaiprayers.net 10777](https://bahaiprayers.net/Book/Single/93/10777)
+
 
 ----
 
@@ -736,7 +901,10 @@ bpn10777
 
 -- Báb
 
-bpn10778 
+Prayer bpn10778 in Srpski српски (bpn10778) 
+
+[bahaiprayers.net 10778](https://bahaiprayers.net/Book/Single/93/10778)
+
 
 ----
 
@@ -746,7 +914,10 @@ bpn10778
 
 -- Báb
 
-bpn10779 
+Prayer bpn10779 in Srpski српски (bpn10779) 
+
+[bahaiprayers.net 10779](https://bahaiprayers.net/Book/Single/93/10779)
+
 
 ----
 
@@ -756,7 +927,10 @@ bpn10779
 
 -- Abdu'l-Bahá
 
-bpn10780 
+Prayer bpn10780 in Srpski српски (bpn10780) 
+
+[bahaiprayers.net 10780](https://bahaiprayers.net/Book/Single/93/10780)
+
 
 ----
 
@@ -770,7 +944,10 @@ bpn10780
 
 -- Bahá'u'lláh
 
-bpn10783 
+Prayer bpn10783 in Srpski српски (bpn10783) 
+
+[bahaiprayers.net 10783](https://bahaiprayers.net/Book/Single/93/10783)
+
 
 ----
 
@@ -780,7 +957,10 @@ bpn10783
 
 -- Bahá'u'lláh
 
-bpn10784 
+Prayer bpn10784 in Srpski српски (bpn10784) 
+
+[bahaiprayers.net 10784](https://bahaiprayers.net/Book/Single/93/10784)
+
 
 ----
 
@@ -794,7 +974,10 @@ bpn10784
 
 -- Bahá'u'lláh
 
-bpn10769 
+Prayer bpn10769 in Srpski српски (bpn10769) 
+
+[bahaiprayers.net 10769](https://bahaiprayers.net/Book/Single/93/10769)
+
 
 ----
 
@@ -804,7 +987,10 @@ bpn10769
 
 -- Abdu'l-Bahá
 
-bpn10770 
+Prayer bpn10770 in Srpski српски (bpn10770) 
+
+[bahaiprayers.net 10770](https://bahaiprayers.net/Book/Single/93/10770)
+
 
 ----
 
@@ -818,7 +1004,10 @@ bpn10770
 
 -- Bahá'u'lláh
 
-bpn10785 
+Prayer bpn10785 in Srpski српски (bpn10785) 
+
+[bahaiprayers.net 10785](https://bahaiprayers.net/Book/Single/93/10785)
+
 
 ----
 
@@ -828,7 +1017,10 @@ bpn10785
 
 -- Báb
 
-bpn10786 
+Prayer bpn10786 in Srpski српски (bpn10786) 
+
+[bahaiprayers.net 10786](https://bahaiprayers.net/Book/Single/93/10786)
+
 
 ----
 
@@ -838,7 +1030,10 @@ bpn10786
 
 -- Abdu'l-Bahá
 
-bpn10787 
+Prayer bpn10787 in Srpski српски (bpn10787) 
+
+[bahaiprayers.net 10787](https://bahaiprayers.net/Book/Single/93/10787)
+
 
 ----
 
@@ -848,7 +1043,10 @@ bpn10787
 
 -- Abdu'l-Bahá
 
-bpn10788 
+Prayer bpn10788 in Srpski српски (bpn10788) 
+
+[bahaiprayers.net 10788](https://bahaiprayers.net/Book/Single/93/10788)
+
 
 ----
 

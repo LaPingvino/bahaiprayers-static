@@ -84,7 +84,10 @@ tags = ['lang=sne', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11796 
+Prayer bpn11796 in Bidayuh (bpn11796) 
+
+[bahaiprayers.net 11796](https://bahaiprayers.net/Book/Single/101/11796)
+
 
 ----
 
@@ -94,7 +97,10 @@ bpn11796
 
 -- Bahá'u'lláh
 
-bpn11797 
+Prayer bpn11797 in Bidayuh (bpn11797) 
+
+[bahaiprayers.net 11797](https://bahaiprayers.net/Book/Single/101/11797)
+
 
 ----
 
@@ -104,7 +110,10 @@ bpn11797
 
 -- Bahá'u'lláh
 
-bpn11798 
+Prayer bpn11798 in Bidayuh (bpn11798) 
+
+[bahaiprayers.net 11798](https://bahaiprayers.net/Book/Single/101/11798)
+
 
 ----
 
@@ -114,7 +123,10 @@ bpn11798
 
 -- Bahá'u'lláh
 
-bpn11799 
+Prayer bpn11799 in Bidayuh (bpn11799) 
+
+[bahaiprayers.net 11799](https://bahaiprayers.net/Book/Single/101/11799)
+
 
 ----
 
@@ -124,7 +136,10 @@ bpn11799
 
 -- Bahá'u'lláh
 
-bpn11800 
+Prayer bpn11800 in Bidayuh (bpn11800) 
+
+[bahaiprayers.net 11800](https://bahaiprayers.net/Book/Single/101/11800)
+
 
 ----
 
@@ -134,7 +149,10 @@ bpn11800
 
 -- Báb
 
-bpn11801 
+Prayer bpn11801 in Bidayuh (bpn11801) 
+
+[bahaiprayers.net 11801](https://bahaiprayers.net/Book/Single/101/11801)
+
 
 ----
 
@@ -144,7 +162,10 @@ bpn11801
 
 -- Báb
 
-bpn11802 
+Prayer bpn11802 in Bidayuh (bpn11802) 
+
+[bahaiprayers.net 11802](https://bahaiprayers.net/Book/Single/101/11802)
+
 
 ----
 
@@ -158,7 +179,10 @@ bpn11802
 
 -- Bahá'u'lláh
 
-bpn11853 
+Prayer bpn11853 in Bidayuh (bpn11853) 
+
+[bahaiprayers.net 11853](https://bahaiprayers.net/Book/Single/101/11853)
+
 
 ----
 
@@ -168,7 +192,10 @@ bpn11853
 
 -- Bahá'u'lláh
 
-bpn11854 
+Prayer bpn11854 in Bidayuh (bpn11854) 
+
+[bahaiprayers.net 11854](https://bahaiprayers.net/Book/Single/101/11854)
+
 
 ----
 
@@ -178,7 +205,10 @@ bpn11854
 
 -- Bahá'u'lláh
 
-bpn11855 
+Prayer bpn11855 in Bidayuh (bpn11855) 
+
+[bahaiprayers.net 11855](https://bahaiprayers.net/Book/Single/101/11855)
+
 
 ----
 
@@ -188,7 +218,10 @@ bpn11855
 
 -- Bahá'u'lláh
 
-bpn11856 
+Prayer bpn11856 in Bidayuh (bpn11856) 
+
+[bahaiprayers.net 11856](https://bahaiprayers.net/Book/Single/101/11856)
+
 
 ----
 
@@ -198,7 +231,10 @@ bpn11856
 
 -- Báb
 
-bpn11857 
+Prayer bpn11857 in Bidayuh (bpn11857) 
+
+[bahaiprayers.net 11857](https://bahaiprayers.net/Book/Single/101/11857)
+
 
 ----
 
@@ -208,7 +244,10 @@ bpn11857
 
 -- Abdu'l-Bahá
 
-bpn11858 
+Prayer bpn11858 in Bidayuh (bpn11858) 
+
+[bahaiprayers.net 11858](https://bahaiprayers.net/Book/Single/101/11858)
+
 
 ----
 
@@ -218,7 +257,10 @@ bpn11858
 
 -- Abdu'l-Bahá
 
-bpn11859 
+Prayer bpn11859 in Bidayuh (bpn11859) 
+
+[bahaiprayers.net 11859](https://bahaiprayers.net/Book/Single/101/11859)
+
 
 ----
 
@@ -228,7 +270,10 @@ bpn11859
 
 -- Abdu'l-Bahá
 
-bpn11860 
+Prayer bpn11860 in Bidayuh (bpn11860) 
+
+[bahaiprayers.net 11860](https://bahaiprayers.net/Book/Single/101/11860)
+
 
 ----
 
@@ -238,7 +283,10 @@ bpn11860
 
 -- Abdu'l-Bahá
 
-bpn11861 
+Prayer bpn11861 in Bidayuh (bpn11861) 
+
+[bahaiprayers.net 11861](https://bahaiprayers.net/Book/Single/101/11861)
+
 
 ----
 
@@ -248,7 +296,10 @@ bpn11861
 
 -- Abdu'l-Bahá
 
-bpn11862 
+Prayer bpn11862 in Bidayuh (bpn11862) 
+
+[bahaiprayers.net 11862](https://bahaiprayers.net/Book/Single/101/11862)
+
 
 ----
 
@@ -258,7 +309,10 @@ bpn11862
 
 -- Abdu'l-Bahá
 
-bpn11863 
+Prayer bpn11863 in Bidayuh (bpn11863) 
+
+[bahaiprayers.net 11863](https://bahaiprayers.net/Book/Single/101/11863)
+
 
 ----
 
@@ -268,7 +322,10 @@ bpn11863
 
 -- Abdu'l-Bahá
 
-bpn11864 
+Prayer bpn11864 in Bidayuh (bpn11864) 
+
+[bahaiprayers.net 11864](https://bahaiprayers.net/Book/Single/101/11864)
+
 
 ----
 
@@ -282,7 +339,10 @@ bpn11864
 
 -- Bahá'u'lláh
 
-bpn11841 
+Prayer bpn11841 in Bidayuh (bpn11841) 
+
+[bahaiprayers.net 11841](https://bahaiprayers.net/Book/Single/101/11841)
+
 
 ----
 
@@ -292,7 +352,10 @@ bpn11841
 
 -- Abdu'l-Bahá
 
-bpn11842 
+Prayer bpn11842 in Bidayuh (bpn11842) 
+
+[bahaiprayers.net 11842](https://bahaiprayers.net/Book/Single/101/11842)
+
 
 ----
 
@@ -302,7 +365,10 @@ bpn11842
 
 -- Abdu'l-Bahá
 
-bpn11843 
+Prayer bpn11843 in Bidayuh (bpn11843) 
+
+[bahaiprayers.net 11843](https://bahaiprayers.net/Book/Single/101/11843)
+
 
 ----
 
@@ -312,7 +378,10 @@ bpn11843
 
 -- Abdu'l-Bahá
 
-bpn11844 
+Prayer bpn11844 in Bidayuh (bpn11844) 
+
+[bahaiprayers.net 11844](https://bahaiprayers.net/Book/Single/101/11844)
+
 
 ----
 
@@ -326,7 +395,10 @@ bpn11844
 
 -- Bahá'u'lláh
 
-bpn11883 
+Prayer bpn11883 in Bidayuh (bpn11883) 
+
+[bahaiprayers.net 11883](https://bahaiprayers.net/Book/Single/101/11883)
+
 
 ----
 
@@ -336,7 +408,10 @@ bpn11883
 
 -- Abdu'l-Bahá
 
-bpn11884 
+Prayer bpn11884 in Bidayuh (bpn11884) 
+
+[bahaiprayers.net 11884](https://bahaiprayers.net/Book/Single/101/11884)
+
 
 ----
 
@@ -350,7 +425,10 @@ bpn11884
 
 -- Bahá'u'lláh
 
-bpn11822 
+Prayer bpn11822 in Bidayuh (bpn11822) 
+
+[bahaiprayers.net 11822](https://bahaiprayers.net/Book/Single/101/11822)
+
 
 ----
 
@@ -360,7 +438,10 @@ bpn11822
 
 -- Bahá'u'lláh
 
-bpn11823 
+Prayer bpn11823 in Bidayuh (bpn11823) 
+
+[bahaiprayers.net 11823](https://bahaiprayers.net/Book/Single/101/11823)
+
 
 ----
 
@@ -370,7 +451,10 @@ bpn11823
 
 -- Bahá'u'lláh
 
-bpn11824 
+Prayer bpn11824 in Bidayuh (bpn11824) 
+
+[bahaiprayers.net 11824](https://bahaiprayers.net/Book/Single/101/11824)
+
 
 ----
 
@@ -380,7 +464,10 @@ bpn11824
 
 -- Bahá'u'lláh
 
-bpn11825 
+Prayer bpn11825 in Bidayuh (bpn11825) 
+
+[bahaiprayers.net 11825](https://bahaiprayers.net/Book/Single/101/11825)
+
 
 ----
 
@@ -390,7 +477,10 @@ bpn11825
 
 -- Báb
 
-bpn11826 
+Prayer bpn11826 in Bidayuh (bpn11826) 
+
+[bahaiprayers.net 11826](https://bahaiprayers.net/Book/Single/101/11826)
+
 
 ----
 
@@ -400,7 +490,10 @@ bpn11826
 
 -- Báb
 
-bpn11827 
+Prayer bpn11827 in Bidayuh (bpn11827) 
+
+[bahaiprayers.net 11827](https://bahaiprayers.net/Book/Single/101/11827)
+
 
 ----
 
@@ -410,7 +503,10 @@ bpn11827
 
 -- Báb
 
-bpn11828 
+Prayer bpn11828 in Bidayuh (bpn11828) 
+
+[bahaiprayers.net 11828](https://bahaiprayers.net/Book/Single/101/11828)
+
 
 ----
 
@@ -420,7 +516,10 @@ bpn11828
 
 -- Báb
 
-bpn11829 
+Prayer bpn11829 in Bidayuh (bpn11829) 
+
+[bahaiprayers.net 11829](https://bahaiprayers.net/Book/Single/101/11829)
+
 
 ----
 
@@ -430,7 +529,10 @@ bpn11829
 
 -- Abdu'l-Bahá
 
-bpn11830 
+Prayer bpn11830 in Bidayuh (bpn11830) 
+
+[bahaiprayers.net 11830](https://bahaiprayers.net/Book/Single/101/11830)
+
 
 ----
 
@@ -444,7 +546,10 @@ bpn11830
 
 -- Bahá'u'lláh
 
-bpn11885 
+Prayer bpn11885 in Bidayuh (bpn11885) 
+
+[bahaiprayers.net 11885](https://bahaiprayers.net/Book/Single/101/11885)
+
 
 ----
 
@@ -454,7 +559,10 @@ bpn11885
 
 -- Bahá'u'lláh
 
-bpn11886 
+Prayer bpn11886 in Bidayuh (bpn11886) 
+
+[bahaiprayers.net 11886](https://bahaiprayers.net/Book/Single/101/11886)
+
 
 ----
 
@@ -464,7 +572,10 @@ bpn11886
 
 -- Bahá'u'lláh
 
-bpn11887 
+Prayer bpn11887 in Bidayuh (bpn11887) 
+
+[bahaiprayers.net 11887](https://bahaiprayers.net/Book/Single/101/11887)
+
 
 ----
 
@@ -478,7 +589,10 @@ bpn11887
 
 -- Bahá'u'lláh
 
-bpn11870 
+Prayer bpn11870 in Bidayuh (bpn11870) 
+
+[bahaiprayers.net 11870](https://bahaiprayers.net/Book/Single/101/11870)
+
 
 ----
 
@@ -488,7 +602,10 @@ bpn11870
 
 -- Bahá'u'lláh
 
-bpn11871 
+Prayer bpn11871 in Bidayuh (bpn11871) 
+
+[bahaiprayers.net 11871](https://bahaiprayers.net/Book/Single/101/11871)
+
 
 ----
 
@@ -498,7 +615,10 @@ bpn11871
 
 -- Bahá'u'lláh
 
-bpn11872 
+Prayer bpn11872 in Bidayuh (bpn11872) 
+
+[bahaiprayers.net 11872](https://bahaiprayers.net/Book/Single/101/11872)
+
 
 ----
 
@@ -508,7 +628,10 @@ bpn11872
 
 -- Abdu'l-Bahá
 
-bpn11873 
+Prayer bpn11873 in Bidayuh (bpn11873) 
+
+[bahaiprayers.net 11873](https://bahaiprayers.net/Book/Single/101/11873)
+
 
 ----
 
@@ -518,7 +641,10 @@ bpn11873
 
 -- Abdu'l-Bahá
 
-bpn11874 
+Prayer bpn11874 in Bidayuh (bpn11874) 
+
+[bahaiprayers.net 11874](https://bahaiprayers.net/Book/Single/101/11874)
+
 
 ----
 
@@ -532,7 +658,10 @@ bpn11874
 
 -- Abdu'l-Bahá
 
-bpn11845 
+Prayer bpn11845 in Bidayuh (bpn11845) 
+
+[bahaiprayers.net 11845](https://bahaiprayers.net/Book/Single/101/11845)
+
 
 ----
 
@@ -542,7 +671,10 @@ bpn11845
 
 -- Abdu'l-Bahá
 
-bpn11846 
+Prayer bpn11846 in Bidayuh (bpn11846) 
+
+[bahaiprayers.net 11846](https://bahaiprayers.net/Book/Single/101/11846)
+
 
 ----
 
@@ -552,7 +684,10 @@ bpn11846
 
 -- Abdu'l-Bahá
 
-bpn11847 
+Prayer bpn11847 in Bidayuh (bpn11847) 
+
+[bahaiprayers.net 11847](https://bahaiprayers.net/Book/Single/101/11847)
+
 
 ----
 
@@ -562,7 +697,10 @@ bpn11847
 
 -- Abdu'l-Bahá
 
-bpn11848 
+Prayer bpn11848 in Bidayuh (bpn11848) 
+
+[bahaiprayers.net 11848](https://bahaiprayers.net/Book/Single/101/11848)
+
 
 ----
 
@@ -572,7 +710,10 @@ bpn11848
 
 -- Abdu'l-Bahá
 
-bpn11849 
+Prayer bpn11849 in Bidayuh (bpn11849) 
+
+[bahaiprayers.net 11849](https://bahaiprayers.net/Book/Single/101/11849)
+
 
 ----
 
@@ -582,7 +723,10 @@ bpn11849
 
 -- Abdu'l-Bahá
 
-bpn11850 
+Prayer bpn11850 in Bidayuh (bpn11850) 
+
+[bahaiprayers.net 11850](https://bahaiprayers.net/Book/Single/101/11850)
+
 
 ----
 
@@ -592,7 +736,10 @@ bpn11850
 
 -- Abdu'l-Bahá
 
-bpn11851 
+Prayer bpn11851 in Bidayuh (bpn11851) 
+
+[bahaiprayers.net 11851](https://bahaiprayers.net/Book/Single/101/11851)
+
 
 ----
 
@@ -602,7 +749,10 @@ bpn11851
 
 -- Abdu'l-Bahá
 
-bpn11852 
+Prayer bpn11852 in Bidayuh (bpn11852) 
+
+[bahaiprayers.net 11852](https://bahaiprayers.net/Book/Single/101/11852)
+
 
 ----
 
@@ -616,7 +766,10 @@ bpn11852
 
 -- Bahá'u'lláh
 
-bpn11888 
+Prayer bpn11888 in Bidayuh (bpn11888) 
+
+[bahaiprayers.net 11888](https://bahaiprayers.net/Book/Single/101/11888)
+
 
 ----
 
@@ -626,7 +779,10 @@ bpn11888
 
 -- Bahá'u'lláh
 
-bpn11889 
+Prayer bpn11889 in Bidayuh (bpn11889) 
+
+[bahaiprayers.net 11889](https://bahaiprayers.net/Book/Single/101/11889)
+
 
 ----
 
@@ -636,7 +792,10 @@ bpn11889
 
 -- Bahá'u'lláh
 
-bpn11890 
+Prayer bpn11890 in Bidayuh (bpn11890) 
+
+[bahaiprayers.net 11890](https://bahaiprayers.net/Book/Single/101/11890)
+
 
 ----
 
@@ -646,7 +805,10 @@ bpn11890
 
 -- Bahá'u'lláh
 
-bpn11891 
+Prayer bpn11891 in Bidayuh (bpn11891) 
+
+[bahaiprayers.net 11891](https://bahaiprayers.net/Book/Single/101/11891)
+
 
 ----
 
@@ -656,7 +818,10 @@ bpn11891
 
 -- Báb
 
-bpn11892 
+Prayer bpn11892 in Bidayuh (bpn11892) 
+
+[bahaiprayers.net 11892](https://bahaiprayers.net/Book/Single/101/11892)
+
 
 ----
 
@@ -666,7 +831,10 @@ bpn11892
 
 -- Báb
 
-bpn11893 
+Prayer bpn11893 in Bidayuh (bpn11893) 
+
+[bahaiprayers.net 11893](https://bahaiprayers.net/Book/Single/101/11893)
+
 
 ----
 
@@ -676,7 +844,10 @@ bpn11893
 
 -- Báb
 
-bpn11894 
+Prayer bpn11894 in Bidayuh (bpn11894) 
+
+[bahaiprayers.net 11894](https://bahaiprayers.net/Book/Single/101/11894)
+
 
 ----
 
@@ -690,7 +861,10 @@ bpn11894
 
 -- Bahá'u'lláh
 
-bpn11810 
+Prayer bpn11810 in Bidayuh (bpn11810) 
+
+[bahaiprayers.net 11810](https://bahaiprayers.net/Book/Single/101/11810)
+
 
 ----
 
@@ -700,7 +874,10 @@ bpn11810
 
 -- Abdu'l-Bahá
 
-bpn11811 
+Prayer bpn11811 in Bidayuh (bpn11811) 
+
+[bahaiprayers.net 11811](https://bahaiprayers.net/Book/Single/101/11811)
+
 
 ----
 
@@ -714,7 +891,10 @@ bpn11811
 
 -- Bahá'u'lláh
 
-bpn11769 
+Prayer bpn11769 in Bidayuh (bpn11769) 
+
+[bahaiprayers.net 11769](https://bahaiprayers.net/Book/Single/101/11769)
+
 
 ----
 
@@ -724,7 +904,10 @@ bpn11769
 
 -- Báb
 
-bpn11770 
+Prayer bpn11770 in Bidayuh (bpn11770) 
+
+[bahaiprayers.net 11770](https://bahaiprayers.net/Book/Single/101/11770)
+
 
 ----
 
@@ -734,7 +917,10 @@ bpn11770
 
 -- Báb
 
-bpn11771 
+Prayer bpn11771 in Bidayuh (bpn11771) 
+
+[bahaiprayers.net 11771](https://bahaiprayers.net/Book/Single/101/11771)
+
 
 ----
 
@@ -744,7 +930,10 @@ bpn11771
 
 -- Báb
 
-bpn11877 
+Prayer bpn11877 in Bidayuh (bpn11877) 
+
+[bahaiprayers.net 11877](https://bahaiprayers.net/Book/Single/101/11877)
+
 
 ----
 
@@ -754,7 +943,10 @@ bpn11877
 
 -- Abdu'l-Bahá
 
-bpn11772 
+Prayer bpn11772 in Bidayuh (bpn11772) 
+
+[bahaiprayers.net 11772](https://bahaiprayers.net/Book/Single/101/11772)
+
 
 ----
 
@@ -764,7 +956,10 @@ bpn11772
 
 -- Abdu'l-Bahá
 
-bpn11773 
+Prayer bpn11773 in Bidayuh (bpn11773) 
+
+[bahaiprayers.net 11773](https://bahaiprayers.net/Book/Single/101/11773)
+
 
 ----
 
@@ -774,7 +969,10 @@ bpn11773
 
 -- Abdu'l-Bahá
 
-bpn11774 
+Prayer bpn11774 in Bidayuh (bpn11774) 
+
+[bahaiprayers.net 11774](https://bahaiprayers.net/Book/Single/101/11774)
+
 
 ----
 
@@ -788,7 +986,10 @@ bpn11774
 
 -- Bahá'u'lláh
 
-bpn11832 
+Prayer bpn11832 in Bidayuh (bpn11832) 
+
+[bahaiprayers.net 11832](https://bahaiprayers.net/Book/Single/101/11832)
+
 
 ----
 
@@ -798,7 +999,10 @@ bpn11832
 
 -- Bahá'u'lláh
 
-bpn11833 
+Prayer bpn11833 in Bidayuh (bpn11833) 
+
+[bahaiprayers.net 11833](https://bahaiprayers.net/Book/Single/101/11833)
+
 
 ----
 
@@ -808,7 +1012,10 @@ bpn11833
 
 -- Bahá'u'lláh
 
-bpn11834 
+Prayer bpn11834 in Bidayuh (bpn11834) 
+
+[bahaiprayers.net 11834](https://bahaiprayers.net/Book/Single/101/11834)
+
 
 ----
 
@@ -818,7 +1025,10 @@ bpn11834
 
 -- Bahá'u'lláh
 
-bpn11835 
+Prayer bpn11835 in Bidayuh (bpn11835) 
+
+[bahaiprayers.net 11835](https://bahaiprayers.net/Book/Single/101/11835)
+
 
 ----
 
@@ -828,7 +1038,10 @@ bpn11835
 
 -- Bahá'u'lláh
 
-bpn11836 
+Prayer bpn11836 in Bidayuh (bpn11836) 
+
+[bahaiprayers.net 11836](https://bahaiprayers.net/Book/Single/101/11836)
+
 
 ----
 
@@ -842,7 +1055,10 @@ bpn11836
 
 -- Bahá'u'lláh
 
-bpn11878 
+Prayer bpn11878 in Bidayuh (bpn11878) 
+
+[bahaiprayers.net 11878](https://bahaiprayers.net/Book/Single/101/11878)
+
 
 ----
 
@@ -852,7 +1068,10 @@ bpn11878
 
 -- Báb
 
-bpn11879 
+Prayer bpn11879 in Bidayuh (bpn11879) 
+
+[bahaiprayers.net 11879](https://bahaiprayers.net/Book/Single/101/11879)
+
 
 ----
 
@@ -862,7 +1081,10 @@ bpn11879
 
 -- Báb
 
-bpn11880 
+Prayer bpn11880 in Bidayuh (bpn11880) 
+
+[bahaiprayers.net 11880](https://bahaiprayers.net/Book/Single/101/11880)
+
 
 ----
 
@@ -872,7 +1094,10 @@ bpn11880
 
 -- Báb
 
-bpn11881 
+Prayer bpn11881 in Bidayuh (bpn11881) 
+
+[bahaiprayers.net 11881](https://bahaiprayers.net/Book/Single/101/11881)
+
 
 ----
 
@@ -882,7 +1107,10 @@ bpn11881
 
 -- Báb
 
-bpn11882 
+Prayer bpn11882 in Bidayuh (bpn11882) 
+
+[bahaiprayers.net 11882](https://bahaiprayers.net/Book/Single/101/11882)
+
 
 ----
 
@@ -896,7 +1124,10 @@ bpn11882
 
 -- Bahá'u'lláh
 
-bpn11875 
+Prayer bpn11875 in Bidayuh (bpn11875) 
+
+[bahaiprayers.net 11875](https://bahaiprayers.net/Book/Single/101/11875)
+
 
 ----
 
@@ -906,7 +1137,10 @@ bpn11875
 
 -- Bahá'u'lláh
 
-bpn11876 
+Prayer bpn11876 in Bidayuh (bpn11876) 
+
+[bahaiprayers.net 11876](https://bahaiprayers.net/Book/Single/101/11876)
+
 
 ----
 
@@ -920,7 +1154,10 @@ bpn11876
 
 -- Bahá'u'lláh
 
-bpn11804 
+Prayer bpn11804 in Bidayuh (bpn11804) 
+
+[bahaiprayers.net 11804](https://bahaiprayers.net/Book/Single/101/11804)
+
 
 ----
 
@@ -930,7 +1167,10 @@ bpn11804
 
 -- Bahá'u'lláh
 
-bpn11805 
+Prayer bpn11805 in Bidayuh (bpn11805) 
+
+[bahaiprayers.net 11805](https://bahaiprayers.net/Book/Single/101/11805)
+
 
 ----
 
@@ -940,7 +1180,10 @@ bpn11805
 
 -- Báb
 
-bpn11806 
+Prayer bpn11806 in Bidayuh (bpn11806) 
+
+[bahaiprayers.net 11806](https://bahaiprayers.net/Book/Single/101/11806)
+
 
 ----
 
@@ -950,7 +1193,10 @@ bpn11806
 
 -- Báb
 
-bpn11807 
+Prayer bpn11807 in Bidayuh (bpn11807) 
+
+[bahaiprayers.net 11807](https://bahaiprayers.net/Book/Single/101/11807)
+
 
 ----
 
@@ -960,7 +1206,10 @@ bpn11807
 
 -- Báb
 
-bpn11808 
+Prayer bpn11808 in Bidayuh (bpn11808) 
+
+[bahaiprayers.net 11808](https://bahaiprayers.net/Book/Single/101/11808)
+
 
 ----
 
@@ -970,7 +1219,10 @@ bpn11808
 
 -- Báb
 
-bpn11809 
+Prayer bpn11809 in Bidayuh (bpn11809) 
+
+[bahaiprayers.net 11809](https://bahaiprayers.net/Book/Single/101/11809)
+
 
 ----
 
@@ -984,7 +1236,10 @@ bpn11809
 
 -- Bahá'u'lláh
 
-bpn11909 
+Prayer bpn11909 in Bidayuh (bpn11909) 
+
+[bahaiprayers.net 11909](https://bahaiprayers.net/Book/Single/101/11909)
+
 
 ----
 
@@ -994,7 +1249,10 @@ bpn11909
 
 -- Bahá'u'lláh
 
-bpn11910 
+Prayer bpn11910 in Bidayuh (bpn11910) 
+
+[bahaiprayers.net 11910](https://bahaiprayers.net/Book/Single/101/11910)
+
 
 ----
 
@@ -1004,7 +1262,10 @@ bpn11910
 
 -- Bahá'u'lláh
 
-bpn11911 
+Prayer bpn11911 in Bidayuh (bpn11911) 
+
+[bahaiprayers.net 11911](https://bahaiprayers.net/Book/Single/101/11911)
+
 
 ----
 
@@ -1014,7 +1275,10 @@ bpn11911
 
 -- Bahá'u'lláh
 
-bpn11912 
+Prayer bpn11912 in Bidayuh (bpn11912) 
+
+[bahaiprayers.net 11912](https://bahaiprayers.net/Book/Single/101/11912)
+
 
 ----
 
@@ -1024,7 +1288,10 @@ bpn11912
 
 -- Bahá'u'lláh
 
-bpn11913 
+Prayer bpn11913 in Bidayuh (bpn11913) 
+
+[bahaiprayers.net 11913](https://bahaiprayers.net/Book/Single/101/11913)
+
 
 ----
 
@@ -1038,7 +1305,10 @@ bpn11913
 
 -- Báb
 
-bpn11812 
+Prayer bpn11812 in Bidayuh (bpn11812) 
+
+[bahaiprayers.net 11812](https://bahaiprayers.net/Book/Single/101/11812)
+
 
 ----
 
@@ -1048,7 +1318,10 @@ bpn11812
 
 -- Báb
 
-bpn11813 
+Prayer bpn11813 in Bidayuh (bpn11813) 
+
+[bahaiprayers.net 11813](https://bahaiprayers.net/Book/Single/101/11813)
+
 
 ----
 
@@ -1058,7 +1331,10 @@ bpn11813
 
 -- Abdu'l-Bahá
 
-bpn11814 
+Prayer bpn11814 in Bidayuh (bpn11814) 
+
+[bahaiprayers.net 11814](https://bahaiprayers.net/Book/Single/101/11814)
+
 
 ----
 
@@ -1068,7 +1344,10 @@ bpn11814
 
 -- Abdu'l-Bahá
 
-bpn11815 
+Prayer bpn11815 in Bidayuh (bpn11815) 
+
+[bahaiprayers.net 11815](https://bahaiprayers.net/Book/Single/101/11815)
+
 
 ----
 
@@ -1078,7 +1357,10 @@ bpn11815
 
 -- Abdu'l-Bahá
 
-bpn11816 
+Prayer bpn11816 in Bidayuh (bpn11816) 
+
+[bahaiprayers.net 11816](https://bahaiprayers.net/Book/Single/101/11816)
+
 
 ----
 
@@ -1092,7 +1374,10 @@ bpn11816
 
 -- Abdu'l-Bahá
 
-bpn11803 
+Prayer bpn11803 in Bidayuh (bpn11803) 
+
+[bahaiprayers.net 11803](https://bahaiprayers.net/Book/Single/101/11803)
+
 
 ----
 
@@ -1106,7 +1391,10 @@ bpn11803
 
 -- Bahá'u'lláh
 
-bpn11902 
+Prayer bpn11902 in Bidayuh (bpn11902) 
+
+[bahaiprayers.net 11902](https://bahaiprayers.net/Book/Single/101/11902)
+
 
 ----
 
@@ -1116,7 +1404,10 @@ bpn11902
 
 -- Báb
 
-bpn11899 
+Prayer bpn11899 in Bidayuh (bpn11899) 
+
+[bahaiprayers.net 11899](https://bahaiprayers.net/Book/Single/101/11899)
+
 
 ----
 
@@ -1126,7 +1417,10 @@ bpn11899
 
 -- Abdu'l-Bahá
 
-bpn11900 
+Prayer bpn11900 in Bidayuh (bpn11900) 
+
+[bahaiprayers.net 11900](https://bahaiprayers.net/Book/Single/101/11900)
+
 
 ----
 
@@ -1136,7 +1430,10 @@ bpn11900
 
 -- Abdu'l-Bahá
 
-bpn11901 
+Prayer bpn11901 in Bidayuh (bpn11901) 
+
+[bahaiprayers.net 11901](https://bahaiprayers.net/Book/Single/101/11901)
+
 
 ----
 
@@ -1146,7 +1443,10 @@ bpn11901
 
 -- Abdu'l-Bahá
 
-bpn11903 
+Prayer bpn11903 in Bidayuh (bpn11903) 
+
+[bahaiprayers.net 11903](https://bahaiprayers.net/Book/Single/101/11903)
+
 
 ----
 
@@ -1160,7 +1460,10 @@ bpn11903
 
 -- Bahá'u'lláh
 
-bpn11837 
+Prayer bpn11837 in Bidayuh (bpn11837) 
+
+[bahaiprayers.net 11837](https://bahaiprayers.net/Book/Single/101/11837)
+
 
 ----
 
@@ -1170,7 +1473,10 @@ bpn11837
 
 -- Abdu'l-Bahá
 
-bpn11838 
+Prayer bpn11838 in Bidayuh (bpn11838) 
+
+[bahaiprayers.net 11838](https://bahaiprayers.net/Book/Single/101/11838)
+
 
 ----
 
@@ -1180,7 +1486,10 @@ bpn11838
 
 -- Abdu'l-Bahá
 
-bpn11839 
+Prayer bpn11839 in Bidayuh (bpn11839) 
+
+[bahaiprayers.net 11839](https://bahaiprayers.net/Book/Single/101/11839)
+
 
 ----
 
@@ -1190,7 +1499,10 @@ bpn11839
 
 -- Abdu'l-Bahá
 
-bpn11840 
+Prayer bpn11840 in Bidayuh (bpn11840) 
+
+[bahaiprayers.net 11840](https://bahaiprayers.net/Book/Single/101/11840)
+
 
 ----
 
@@ -1204,7 +1516,10 @@ bpn11840
 
 -- Bahá'u'lláh
 
-bpn11789 
+Prayer bpn11789 in Bidayuh (bpn11789) 
+
+[bahaiprayers.net 11789](https://bahaiprayers.net/Book/Single/101/11789)
+
 
 ----
 
@@ -1214,7 +1529,10 @@ bpn11789
 
 -- Bahá'u'lláh
 
-bpn11790 
+Prayer bpn11790 in Bidayuh (bpn11790) 
+
+[bahaiprayers.net 11790](https://bahaiprayers.net/Book/Single/101/11790)
+
 
 ----
 
@@ -1224,7 +1542,10 @@ bpn11790
 
 -- Bahá'u'lláh
 
-bpn11795 
+Prayer bpn11795 in Bidayuh (bpn11795) 
+
+[bahaiprayers.net 11795](https://bahaiprayers.net/Book/Single/101/11795)
+
 
 ----
 
@@ -1234,7 +1555,10 @@ bpn11795
 
 -- Abdu'l-Bahá
 
-bpn11791 
+Prayer bpn11791 in Bidayuh (bpn11791) 
+
+[bahaiprayers.net 11791](https://bahaiprayers.net/Book/Single/101/11791)
+
 
 ----
 
@@ -1244,7 +1568,10 @@ bpn11791
 
 -- Abdu'l-Bahá
 
-bpn11792 
+Prayer bpn11792 in Bidayuh (bpn11792) 
+
+[bahaiprayers.net 11792](https://bahaiprayers.net/Book/Single/101/11792)
+
 
 ----
 
@@ -1254,7 +1581,10 @@ bpn11792
 
 -- Abdu'l-Bahá
 
-bpn11793 
+Prayer bpn11793 in Bidayuh (bpn11793) 
+
+[bahaiprayers.net 11793](https://bahaiprayers.net/Book/Single/101/11793)
+
 
 ----
 
@@ -1264,7 +1594,10 @@ bpn11793
 
 -- Abdu'l-Bahá
 
-bpn11794 
+Prayer bpn11794 in Bidayuh (bpn11794) 
+
+[bahaiprayers.net 11794](https://bahaiprayers.net/Book/Single/101/11794)
+
 
 ----
 
@@ -1278,7 +1611,10 @@ bpn11794
 
 -- Abdu'l-Bahá
 
-bpn11775 
+Prayer bpn11775 in Bidayuh (bpn11775) 
+
+[bahaiprayers.net 11775](https://bahaiprayers.net/Book/Single/101/11775)
+
 
 ----
 
@@ -1288,7 +1624,10 @@ bpn11775
 
 -- Abdu'l-Bahá
 
-bpn11776 
+Prayer bpn11776 in Bidayuh (bpn11776) 
+
+[bahaiprayers.net 11776](https://bahaiprayers.net/Book/Single/101/11776)
+
 
 ----
 
@@ -1298,7 +1637,10 @@ bpn11776
 
 -- Abdu'l-Bahá
 
-bpn11777 
+Prayer bpn11777 in Bidayuh (bpn11777) 
+
+[bahaiprayers.net 11777](https://bahaiprayers.net/Book/Single/101/11777)
+
 
 ----
 
@@ -1308,7 +1650,10 @@ bpn11777
 
 -- Abdu'l-Bahá
 
-bpn11778 
+Prayer bpn11778 in Bidayuh (bpn11778) 
+
+[bahaiprayers.net 11778](https://bahaiprayers.net/Book/Single/101/11778)
+
 
 ----
 
@@ -1318,7 +1663,10 @@ bpn11778
 
 -- Abdu'l-Bahá
 
-bpn11779 
+Prayer bpn11779 in Bidayuh (bpn11779) 
+
+[bahaiprayers.net 11779](https://bahaiprayers.net/Book/Single/101/11779)
+
 
 ----
 
@@ -1328,7 +1676,10 @@ bpn11779
 
 -- Abdu'l-Bahá
 
-bpn11780 
+Prayer bpn11780 in Bidayuh (bpn11780) 
+
+[bahaiprayers.net 11780](https://bahaiprayers.net/Book/Single/101/11780)
+
 
 ----
 
@@ -1338,7 +1689,10 @@ bpn11780
 
 -- Abdu'l-Bahá
 
-bpn11781 
+Prayer bpn11781 in Bidayuh (bpn11781) 
+
+[bahaiprayers.net 11781](https://bahaiprayers.net/Book/Single/101/11781)
+
 
 ----
 
@@ -1348,7 +1702,10 @@ bpn11781
 
 -- Abdu'l-Bahá
 
-bpn11782 
+Prayer bpn11782 in Bidayuh (bpn11782) 
+
+[bahaiprayers.net 11782](https://bahaiprayers.net/Book/Single/101/11782)
+
 
 ----
 
@@ -1358,7 +1715,10 @@ bpn11782
 
 -- Abdu'l-Bahá
 
-bpn11783 
+Prayer bpn11783 in Bidayuh (bpn11783) 
+
+[bahaiprayers.net 11783](https://bahaiprayers.net/Book/Single/101/11783)
+
 
 ----
 
@@ -1368,7 +1728,10 @@ bpn11783
 
 -- Abdu'l-Bahá
 
-bpn11784 
+Prayer bpn11784 in Bidayuh (bpn11784) 
+
+[bahaiprayers.net 11784](https://bahaiprayers.net/Book/Single/101/11784)
+
 
 ----
 
@@ -1378,7 +1741,10 @@ bpn11784
 
 -- Abdu'l-Bahá
 
-bpn11785 
+Prayer bpn11785 in Bidayuh (bpn11785) 
+
+[bahaiprayers.net 11785](https://bahaiprayers.net/Book/Single/101/11785)
+
 
 ----
 
@@ -1392,7 +1758,10 @@ bpn11785
 
 -- Bahá'u'lláh
 
-bpn11786 
+Prayer bpn11786 in Bidayuh (bpn11786) 
+
+[bahaiprayers.net 11786](https://bahaiprayers.net/Book/Single/101/11786)
+
 
 ----
 
@@ -1402,7 +1771,10 @@ bpn11786
 
 -- Báb
 
-bpn11787 
+Prayer bpn11787 in Bidayuh (bpn11787) 
+
+[bahaiprayers.net 11787](https://bahaiprayers.net/Book/Single/101/11787)
+
 
 ----
 
@@ -1412,7 +1784,10 @@ bpn11787
 
 -- Abdu'l-Bahá
 
-bpn11788 
+Prayer bpn11788 in Bidayuh (bpn11788) 
+
+[bahaiprayers.net 11788](https://bahaiprayers.net/Book/Single/101/11788)
+
 
 ----
 
@@ -1426,7 +1801,10 @@ bpn11788
 
 -- Bahá'u'lláh
 
-bpn11895 
+Prayer bpn11895 in Bidayuh (bpn11895) 
+
+[bahaiprayers.net 11895](https://bahaiprayers.net/Book/Single/101/11895)
+
 
 ----
 
@@ -1436,7 +1814,10 @@ bpn11895
 
 -- Bahá'u'lláh
 
-bpn11896 
+Prayer bpn11896 in Bidayuh (bpn11896) 
+
+[bahaiprayers.net 11896](https://bahaiprayers.net/Book/Single/101/11896)
+
 
 ----
 
@@ -1446,7 +1827,10 @@ bpn11896
 
 -- Bahá'u'lláh
 
-bpn11897 
+Prayer bpn11897 in Bidayuh (bpn11897) 
+
+[bahaiprayers.net 11897](https://bahaiprayers.net/Book/Single/101/11897)
+
 
 ----
 
@@ -1456,7 +1840,10 @@ bpn11897
 
 -- Bahá'u'lláh
 
-bpn11898 
+Prayer bpn11898 in Bidayuh (bpn11898) 
+
+[bahaiprayers.net 11898](https://bahaiprayers.net/Book/Single/101/11898)
+
 
 ----
 
@@ -1470,7 +1857,10 @@ bpn11898
 
 -- Bahá'u'lláh
 
-bpn11865 
+Prayer bpn11865 in Bidayuh (bpn11865) 
+
+[bahaiprayers.net 11865](https://bahaiprayers.net/Book/Single/101/11865)
+
 
 ----
 
@@ -1480,7 +1870,10 @@ bpn11865
 
 -- Bahá'u'lláh
 
-bpn11866 
+Prayer bpn11866 in Bidayuh (bpn11866) 
+
+[bahaiprayers.net 11866](https://bahaiprayers.net/Book/Single/101/11866)
+
 
 ----
 
@@ -1490,7 +1883,10 @@ bpn11866
 
 -- Bahá'u'lláh
 
-bpn11867 
+Prayer bpn11867 in Bidayuh (bpn11867) 
+
+[bahaiprayers.net 11867](https://bahaiprayers.net/Book/Single/101/11867)
+
 
 ----
 
@@ -1500,7 +1896,10 @@ bpn11867
 
 -- Báb
 
-bpn11868 
+Prayer bpn11868 in Bidayuh (bpn11868) 
+
+[bahaiprayers.net 11868](https://bahaiprayers.net/Book/Single/101/11868)
+
 
 ----
 
@@ -1510,7 +1909,10 @@ bpn11868
 
 -- Abdu'l-Bahá
 
-bpn11869 
+Prayer bpn11869 in Bidayuh (bpn11869) 
+
+[bahaiprayers.net 11869](https://bahaiprayers.net/Book/Single/101/11869)
+
 
 ----
 
@@ -1524,7 +1926,10 @@ bpn11869
 
 -- Bahá'u'lláh
 
-bpn11817 
+Prayer bpn11817 in Bidayuh (bpn11817) 
+
+[bahaiprayers.net 11817](https://bahaiprayers.net/Book/Single/101/11817)
+
 
 ----
 
@@ -1534,7 +1939,10 @@ bpn11817
 
 -- Bahá'u'lláh
 
-bpn11818 
+Prayer bpn11818 in Bidayuh (bpn11818) 
+
+[bahaiprayers.net 11818](https://bahaiprayers.net/Book/Single/101/11818)
+
 
 ----
 
@@ -1544,7 +1952,10 @@ bpn11818
 
 -- Abdu'l-Bahá
 
-bpn11819 
+Prayer bpn11819 in Bidayuh (bpn11819) 
+
+[bahaiprayers.net 11819](https://bahaiprayers.net/Book/Single/101/11819)
+
 
 ----
 
@@ -1554,7 +1965,10 @@ bpn11819
 
 -- Abdu'l-Bahá
 
-bpn11820 
+Prayer bpn11820 in Bidayuh (bpn11820) 
+
+[bahaiprayers.net 11820](https://bahaiprayers.net/Book/Single/101/11820)
+
 
 ----
 
@@ -1564,7 +1978,10 @@ bpn11820
 
 -- Abdu'l-Bahá
 
-bpn11821 
+Prayer bpn11821 in Bidayuh (bpn11821) 
+
+[bahaiprayers.net 11821](https://bahaiprayers.net/Book/Single/101/11821)
+
 
 ----
 
@@ -1578,7 +1995,10 @@ bpn11821
 
 -- Bahá'u'lláh
 
-bpn11906 
+Prayer bpn11906 in Bidayuh (bpn11906) 
+
+[bahaiprayers.net 11906](https://bahaiprayers.net/Book/Single/101/11906)
+
 
 ----
 
@@ -1592,7 +2012,10 @@ bpn11906
 
 -- Bahá'u'lláh
 
-bpn11904 
+Prayer bpn11904 in Bidayuh (bpn11904) 
+
+[bahaiprayers.net 11904](https://bahaiprayers.net/Book/Single/101/11904)
+
 
 ----
 
@@ -1602,7 +2025,10 @@ bpn11904
 
 -- Abdu'l-Bahá
 
-bpn11905 
+Prayer bpn11905 in Bidayuh (bpn11905) 
+
+[bahaiprayers.net 11905](https://bahaiprayers.net/Book/Single/101/11905)
+
 
 ----
 
@@ -1616,7 +2042,10 @@ bpn11905
 
 -- Bahá'u'lláh
 
-bpn11908 
+Prayer bpn11908 in Bidayuh (bpn11908) 
+
+[bahaiprayers.net 11908](https://bahaiprayers.net/Book/Single/101/11908)
+
 
 ----
 
@@ -1630,7 +2059,10 @@ bpn11908
 
 -- Bahá'u'lláh
 
-bpn11907 
+Prayer bpn11907 in Bidayuh (bpn11907) 
+
+[bahaiprayers.net 11907](https://bahaiprayers.net/Book/Single/101/11907)
+
 
 ----
 
@@ -1644,7 +2076,10 @@ bpn11907
 
 -- Bahá'u'lláh
 
-bpn11768 
+Prayer bpn11768 in Bidayuh (bpn11768) 
+
+[bahaiprayers.net 11768](https://bahaiprayers.net/Book/Single/101/11768)
+
 
 ----
 
@@ -1658,7 +2093,10 @@ bpn11768
 
 -- Bahá'u'lláh
 
-bpn11766 
+Prayer bpn11766 in Bidayuh (bpn11766) 
+
+[bahaiprayers.net 11766](https://bahaiprayers.net/Book/Single/101/11766)
+
 
 ----
 
@@ -1672,7 +2110,10 @@ bpn11766
 
 -- Bahá'u'lláh
 
-bpn11767 
+Prayer bpn11767 in Bidayuh (bpn11767) 
+
+[bahaiprayers.net 11767](https://bahaiprayers.net/Book/Single/101/11767)
+
 
 ----
 
@@ -1686,7 +2127,10 @@ bpn11767
 
 -- Abdu'l-Bahá
 
-bpn11831 
+Prayer bpn11831 in Bidayuh (bpn11831) 
+
+[bahaiprayers.net 11831](https://bahaiprayers.net/Book/Single/101/11831)
+
 
 ----
 

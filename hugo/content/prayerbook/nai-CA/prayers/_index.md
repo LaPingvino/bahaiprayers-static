@@ -52,7 +52,10 @@ tags = ['lang=nai-CA', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn4150 
+Prayer bpn4150 in Canadian Indigenous (bpn4150) 
+
+[bahaiprayers.net 4150](https://bahaiprayers.net/Book/Single/85/4150)
+
 
 ----
 
@@ -62,7 +65,10 @@ bpn4150
 
 -- Bahá'u'lláh
 
-bpn4149 
+Prayer bpn4149 in Canadian Indigenous (bpn4149) 
+
+[bahaiprayers.net 4149](https://bahaiprayers.net/Book/Single/85/4149)
+
 
 ----
 
@@ -72,7 +78,10 @@ bpn4149
 
 -- Báb
 
-bpn4148 
+Prayer bpn4148 in Canadian Indigenous (bpn4148) 
+
+[bahaiprayers.net 4148](https://bahaiprayers.net/Book/Single/85/4148)
+
 
 ----
 
@@ -86,7 +95,10 @@ bpn4148
 
 -- Bahá'u'lláh
 
-bpn4151 
+Prayer bpn4151 in Canadian Indigenous (bpn4151) 
+
+[bahaiprayers.net 4151](https://bahaiprayers.net/Book/Single/85/4151)
+
 
 ----
 
@@ -100,7 +112,10 @@ bpn4151
 
 -- Bahá'u'lláh
 
-bpn4138 
+Prayer bpn4138 in Canadian Indigenous (bpn4138) 
+
+[bahaiprayers.net 4138](https://bahaiprayers.net/Book/Single/85/4138)
+
 
 ----
 
@@ -114,7 +129,10 @@ bpn4138
 
 -- Bahá'u'lláh
 
-bpn4152 
+Prayer bpn4152 in Canadian Indigenous (bpn4152) 
+
+[bahaiprayers.net 4152](https://bahaiprayers.net/Book/Single/85/4152)
+
 
 ----
 
@@ -128,7 +146,10 @@ bpn4152
 
 -- Bahá'u'lláh
 
-bpn6851 
+Prayer bpn6851 in Canadian Indigenous (bpn6851) 
+
+[bahaiprayers.net 6851](https://bahaiprayers.net/Book/Single/85/6851)
+
 
 ----
 
@@ -142,7 +163,10 @@ bpn6851
 
 -- Bahá'u'lláh
 
-bpn8005 
+Prayer bpn8005 in Canadian Indigenous (bpn8005) 
+
+[bahaiprayers.net 8005](https://bahaiprayers.net/Book/Single/85/8005)
+
 
 ----
 
@@ -152,7 +176,10 @@ bpn8005
 
 -- Bahá'u'lláh
 
-bpn8004 
+Prayer bpn8004 in Canadian Indigenous (bpn8004) 
+
+[bahaiprayers.net 8004](https://bahaiprayers.net/Book/Single/85/8004)
+
 
 ----
 
@@ -166,7 +193,10 @@ bpn8004
 
 -- Bahá'u'lláh
 
-bpn4158 
+Prayer bpn4158 in Canadian Indigenous (bpn4158) 
+
+[bahaiprayers.net 4158](https://bahaiprayers.net/Book/Single/85/4158)
+
 
 ----
 
@@ -176,7 +206,10 @@ bpn4158
 
 -- Bahá'u'lláh
 
-bpn4157 
+Prayer bpn4157 in Canadian Indigenous (bpn4157) 
+
+[bahaiprayers.net 4157](https://bahaiprayers.net/Book/Single/85/4157)
+
 
 ----
 
@@ -186,7 +219,10 @@ bpn4157
 
 -- Báb
 
-bpn4159 
+Prayer bpn4159 in Canadian Indigenous (bpn4159) 
+
+[bahaiprayers.net 4159](https://bahaiprayers.net/Book/Single/85/4159)
+
 
 ----
 
@@ -200,7 +236,10 @@ bpn4159
 
 -- Abdu'l-Bahá
 
-bpn4162 
+Prayer bpn4162 in Canadian Indigenous (bpn4162) 
+
+[bahaiprayers.net 4162](https://bahaiprayers.net/Book/Single/85/4162)
+
 
 ----
 
@@ -214,7 +253,10 @@ bpn4162
 
 -- Bahá'u'lláh
 
-bpn4163 
+Prayer bpn4163 in Canadian Indigenous (bpn4163) 
+
+[bahaiprayers.net 4163](https://bahaiprayers.net/Book/Single/85/4163)
+
 
 ----
 
@@ -228,7 +270,10 @@ bpn4163
 
 -- Bahá'u'lláh
 
-bpn6852 
+Prayer bpn6852 in Canadian Indigenous (bpn6852) 
+
+[bahaiprayers.net 6852](https://bahaiprayers.net/Book/Single/85/6852)
+
 
 ----
 
@@ -242,7 +287,10 @@ bpn6852
 
 -- Bahá'u'lláh
 
-bpn4172 
+Prayer bpn4172 in Canadian Indigenous (bpn4172) 
+
+[bahaiprayers.net 4172](https://bahaiprayers.net/Book/Single/85/4172)
+
 
 ----
 
@@ -252,7 +300,10 @@ bpn4172
 
 -- Báb
 
-bpn4173 
+Prayer bpn4173 in Canadian Indigenous (bpn4173) 
+
+[bahaiprayers.net 4173](https://bahaiprayers.net/Book/Single/85/4173)
+
 
 ----
 
@@ -266,7 +317,10 @@ bpn4173
 
 -- Bahá'u'lláh
 
-bpn6859 
+Prayer bpn6859 in Canadian Indigenous (bpn6859) 
+
+[bahaiprayers.net 6859](https://bahaiprayers.net/Book/Single/85/6859)
+
 
 ----
 
@@ -276,7 +330,10 @@ bpn6859
 
 -- Abdu'l-Bahá
 
-bpn6858 
+Prayer bpn6858 in Canadian Indigenous (bpn6858) 
+
+[bahaiprayers.net 6858](https://bahaiprayers.net/Book/Single/85/6858)
+
 
 ----
 
@@ -286,7 +343,10 @@ bpn6858
 
 -- Abdu'l-Bahá
 
-bpn4146 
+Prayer bpn4146 in Canadian Indigenous (bpn4146) 
+
+[bahaiprayers.net 4146](https://bahaiprayers.net/Book/Single/85/4146)
+
 
 ----
 
@@ -300,7 +360,10 @@ bpn4146
 
 -- Bahá'u'lláh
 
-bpn4147 
+Prayer bpn4147 in Canadian Indigenous (bpn4147) 
+
+[bahaiprayers.net 4147](https://bahaiprayers.net/Book/Single/85/4147)
+
 
 ----
 
@@ -314,7 +377,10 @@ bpn4147
 
 -- Bahá'u'lláh
 
-bpn6856 
+Prayer bpn6856 in Canadian Indigenous (bpn6856) 
+
+[bahaiprayers.net 6856](https://bahaiprayers.net/Book/Single/85/6856)
+
 
 ----
 
@@ -328,7 +394,10 @@ bpn6856
 
 -- Abdu'l-Bahá
 
-bpn4137 
+Prayer bpn4137 in Canadian Indigenous (bpn4137) 
+
+[bahaiprayers.net 4137](https://bahaiprayers.net/Book/Single/85/4137)
+
 
 ----
 
@@ -342,7 +411,10 @@ bpn4137
 
 -- Bahá'u'lláh
 
-bpn6853 
+Prayer bpn6853 in Canadian Indigenous (bpn6853) 
+
+[bahaiprayers.net 6853](https://bahaiprayers.net/Book/Single/85/6853)
+
 
 ----
 
@@ -352,7 +424,10 @@ bpn6853
 
 -- Abdu'l-Bahá
 
-bpn6857 
+Prayer bpn6857 in Canadian Indigenous (bpn6857) 
+
+[bahaiprayers.net 6857](https://bahaiprayers.net/Book/Single/85/6857)
+
 
 ----
 
@@ -366,7 +441,10 @@ bpn6857
 
 -- Bahá'u'lláh
 
-bpn6855 
+Prayer bpn6855 in Canadian Indigenous (bpn6855) 
+
+[bahaiprayers.net 6855](https://bahaiprayers.net/Book/Single/85/6855)
+
 
 ----
 
@@ -380,7 +458,10 @@ bpn6855
 
 -- Bahá'u'lláh
 
-bpn6854 
+Prayer bpn6854 in Canadian Indigenous (bpn6854) 
+
+[bahaiprayers.net 6854](https://bahaiprayers.net/Book/Single/85/6854)
+
 
 ----
 

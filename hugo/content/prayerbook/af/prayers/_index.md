@@ -78,7 +78,10 @@ tags = ['lang=af', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3145 
+Prayer bpn3145 in Afrikaans (bpn3145) 
+
+[bahaiprayers.net 3145](https://bahaiprayers.net/Book/Single/20/3145)
+
 
 ----
 
@@ -88,7 +91,10 @@ bpn3145
 
 -- Bahá'u'lláh
 
-bpn3147 
+Prayer bpn3147 in Afrikaans (bpn3147) 
+
+[bahaiprayers.net 3147](https://bahaiprayers.net/Book/Single/20/3147)
+
 
 ----
 
@@ -98,7 +104,10 @@ bpn3147
 
 -- Bahá'u'lláh
 
-bpn3146 
+Prayer bpn3146 in Afrikaans (bpn3146) 
+
+[bahaiprayers.net 3146](https://bahaiprayers.net/Book/Single/20/3146)
+
 
 ----
 
@@ -112,7 +121,10 @@ bpn3146
 
 -- Bahá'u'lláh
 
-bpn3180 
+Prayer bpn3180 in Afrikaans (bpn3180) 
+
+[bahaiprayers.net 3180](https://bahaiprayers.net/Book/Single/20/3180)
+
 
 ----
 
@@ -122,7 +134,10 @@ bpn3180
 
 -- Bahá'u'lláh
 
-bpn3181 
+Prayer bpn3181 in Afrikaans (bpn3181) 
+
+[bahaiprayers.net 3181](https://bahaiprayers.net/Book/Single/20/3181)
+
 
 ----
 
@@ -132,7 +147,10 @@ bpn3181
 
 -- Bahá'u'lláh
 
-bpn3182 
+Prayer bpn3182 in Afrikaans (bpn3182) 
+
+[bahaiprayers.net 3182](https://bahaiprayers.net/Book/Single/20/3182)
+
 
 ----
 
@@ -142,7 +160,10 @@ bpn3182
 
 -- Bahá'u'lláh
 
-BH09024 «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» 
+Many a chilled heart in Afrikaans (BH09024) «[Esperanto](../../eo/prayers/#BH09024)» «[Nederlands](../../nl/prayers/#BH09024)» «[English](../../en/prayers/#BH09024)» «[Español](../../es/prayers/#BH09024)» 
+
+[bahaiprayers.net 3183](https://bahaiprayers.net/Book/Single/20/3183)
+
 
 ----
 
@@ -152,7 +173,10 @@ BH09024 «[Español](../../es/prayers/#BH09024)» «[Esperanto](../../eo/prayers
 
 -- Bahá'u'lláh
 
-bpn3184 
+Prayer bpn3184 in Afrikaans (bpn3184) 
+
+[bahaiprayers.net 3184](https://bahaiprayers.net/Book/Single/20/3184)
+
 
 ----
 
@@ -162,7 +186,10 @@ bpn3184
 
 -- Bahá'u'lláh
 
-bpn3185 
+Prayer bpn3185 in Afrikaans (bpn3185) 
+
+[bahaiprayers.net 3185](https://bahaiprayers.net/Book/Single/20/3185)
+
 
 ----
 
@@ -172,7 +199,10 @@ bpn3185
 
 -- Abdu'l-Bahá
 
-bpn3186 
+Prayer bpn3186 in Afrikaans (bpn3186) 
+
+[bahaiprayers.net 3186](https://bahaiprayers.net/Book/Single/20/3186)
+
 
 ----
 
@@ -186,7 +216,10 @@ bpn3186
 
 -- Bahá'u'lláh
 
-bpn3246 
+Prayer bpn3246 in Afrikaans (bpn3246) 
+
+[bahaiprayers.net 3246](https://bahaiprayers.net/Book/Single/20/3246)
+
 
 ----
 
@@ -200,7 +233,10 @@ bpn3246
 
 -- Bahá'u'lláh
 
-bpn3174 
+Prayer bpn3174 in Afrikaans (bpn3174) 
+
+[bahaiprayers.net 3174](https://bahaiprayers.net/Book/Single/20/3174)
+
 
 ----
 
@@ -210,7 +246,10 @@ bpn3174
 
 -- Bahá'u'lláh
 
-bpn3175 
+Prayer bpn3175 in Afrikaans (bpn3175) 
+
+[bahaiprayers.net 3175](https://bahaiprayers.net/Book/Single/20/3175)
+
 
 ----
 
@@ -220,7 +259,10 @@ bpn3175
 
 -- Bahá'u'lláh
 
-bpn3176 
+Prayer bpn3176 in Afrikaans (bpn3176) 
+
+[bahaiprayers.net 3176](https://bahaiprayers.net/Book/Single/20/3176)
+
 
 ----
 
@@ -230,7 +272,10 @@ bpn3176
 
 -- Bahá'u'lláh
 
-bpn3177 
+Prayer bpn3177 in Afrikaans (bpn3177) 
+
+[bahaiprayers.net 3177](https://bahaiprayers.net/Book/Single/20/3177)
+
 
 ----
 
@@ -240,7 +285,10 @@ bpn3177
 
 -- Abdu'l-Bahá
 
-bpn3178 
+Prayer bpn3178 in Afrikaans (bpn3178) 
+
+[bahaiprayers.net 3178](https://bahaiprayers.net/Book/Single/20/3178)
+
 
 ----
 
@@ -250,7 +298,10 @@ bpn3178
 
 -- Abdu'l-Bahá
 
-bpn3179 
+Prayer bpn3179 in Afrikaans (bpn3179) 
+
+[bahaiprayers.net 3179](https://bahaiprayers.net/Book/Single/20/3179)
+
 
 ----
 
@@ -264,7 +315,10 @@ bpn3179
 
 -- Bahá'u'lláh
 
-bpn3131 
+Prayer bpn3131 in Afrikaans (bpn3131) 
+
+[bahaiprayers.net 3131](https://bahaiprayers.net/Book/Single/20/3131)
+
 
 ----
 
@@ -274,7 +328,10 @@ bpn3131
 
 -- Bahá'u'lláh
 
-bpn3132 
+Prayer bpn3132 in Afrikaans (bpn3132) 
+
+[bahaiprayers.net 3132](https://bahaiprayers.net/Book/Single/20/3132)
+
 
 ----
 
@@ -284,7 +341,10 @@ bpn3132
 
 -- Abdu'l-Bahá
 
-bpn3133 
+Prayer bpn3133 in Afrikaans (bpn3133) 
+
+[bahaiprayers.net 3133](https://bahaiprayers.net/Book/Single/20/3133)
+
 
 ----
 
@@ -294,7 +354,10 @@ bpn3133
 
 -- Abdu'l-Bahá
 
-bpn3134 
+Prayer bpn3134 in Afrikaans (bpn3134) 
+
+[bahaiprayers.net 3134](https://bahaiprayers.net/Book/Single/20/3134)
+
 
 ----
 
@@ -308,7 +371,10 @@ bpn3134
 
 -- Bahá'u'lláh
 
-bpn3141 
+Prayer bpn3141 in Afrikaans (bpn3141) 
+
+[bahaiprayers.net 3141](https://bahaiprayers.net/Book/Single/20/3141)
+
 
 ----
 
@@ -322,7 +388,10 @@ bpn3141
 
 -- Bahá'u'lláh
 
-BH02848 «[Français](../../fr/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[English](../../en/prayers/#BH02848)» 
+Prayer BH02848 in Afrikaans (BH02848) «[English](../../en/prayers/#BH02848)» «[Português (BR)](../../pt/prayers/#BH02848)» «[Français](../../fr/prayers/#BH02848)» 
+
+[bahaiprayers.net 3140](https://bahaiprayers.net/Book/Single/20/3140)
+
 
 ----
 
@@ -336,7 +405,10 @@ BH02848 «[Français](../../fr/prayers/#BH02848)» «[Português (BR)](../../pt/
 
 -- Bahá'u'lláh
 
-bpn3244 
+Prayer bpn3244 in Afrikaans (bpn3244) 
+
+[bahaiprayers.net 3244](https://bahaiprayers.net/Book/Single/20/3244)
+
 
 ----
 
@@ -346,7 +418,10 @@ bpn3244
 
 -- Abdu'l-Bahá
 
-bpn3245 
+Prayer bpn3245 in Afrikaans (bpn3245) 
+
+[bahaiprayers.net 3245](https://bahaiprayers.net/Book/Single/20/3245)
+
 
 ----
 
@@ -360,7 +435,10 @@ bpn3245
 
 -- Bahá'u'lláh
 
-bpn3160 
+Prayer bpn3160 in Afrikaans (bpn3160) 
+
+[bahaiprayers.net 3160](https://bahaiprayers.net/Book/Single/20/3160)
+
 
 ----
 
@@ -370,7 +448,10 @@ bpn3160
 
 -- Bahá'u'lláh
 
-bpn3161 
+Prayer bpn3161 in Afrikaans (bpn3161) 
+
+[bahaiprayers.net 3161](https://bahaiprayers.net/Book/Single/20/3161)
+
 
 ----
 
@@ -380,7 +461,10 @@ bpn3161
 
 -- Abdu'l-Bahá
 
-bpn3157 
+Prayer bpn3157 in Afrikaans (bpn3157) 
+
+[bahaiprayers.net 3157](https://bahaiprayers.net/Book/Single/20/3157)
+
 
 ----
 
@@ -390,7 +474,10 @@ bpn3157
 
 -- Abdu'l-Bahá
 
-bpn3158 
+Prayer bpn3158 in Afrikaans (bpn3158) 
+
+[bahaiprayers.net 3158](https://bahaiprayers.net/Book/Single/20/3158)
+
 
 ----
 
@@ -400,7 +487,10 @@ bpn3158
 
 -- Abdu'l-Bahá
 
-bpn3159 
+Prayer bpn3159 in Afrikaans (bpn3159) 
+
+[bahaiprayers.net 3159](https://bahaiprayers.net/Book/Single/20/3159)
+
 
 ----
 
@@ -414,7 +504,10 @@ bpn3159
 
 -- Bahá'u'lláh
 
-bpn3222 
+Prayer bpn3222 in Afrikaans (bpn3222) 
+
+[bahaiprayers.net 3222](https://bahaiprayers.net/Book/Single/20/3222)
+
 
 ----
 
@@ -428,7 +521,10 @@ bpn3222
 
 -- Bahá'u'lláh
 
-bpn3223 
+Prayer bpn3223 in Afrikaans (bpn3223) 
+
+[bahaiprayers.net 3223](https://bahaiprayers.net/Book/Single/20/3223)
+
 
 ----
 
@@ -438,7 +534,10 @@ bpn3223
 
 -- Abdu'l-Bahá
 
-bpn3224 
+Prayer bpn3224 in Afrikaans (bpn3224) 
+
+[bahaiprayers.net 3224](https://bahaiprayers.net/Book/Single/20/3224)
+
 
 ----
 
@@ -452,7 +551,10 @@ bpn3224
 
 -- Abdu'l-Bahá
 
-bpn3227 
+Prayer bpn3227 in Afrikaans (bpn3227) 
+
+[bahaiprayers.net 3227](https://bahaiprayers.net/Book/Single/20/3227)
+
 
 ----
 
@@ -462,7 +564,10 @@ bpn3227
 
 -- Abdu'l-Bahá
 
-bpn3228 
+Prayer bpn3228 in Afrikaans (bpn3228) 
+
+[bahaiprayers.net 3228](https://bahaiprayers.net/Book/Single/20/3228)
+
 
 ----
 
@@ -472,7 +577,10 @@ bpn3228
 
 -- Abdu'l-Bahá
 
-bpn3229 
+Prayer bpn3229 in Afrikaans (bpn3229) 
+
+[bahaiprayers.net 3229](https://bahaiprayers.net/Book/Single/20/3229)
+
 
 ----
 
@@ -482,7 +590,10 @@ bpn3229
 
 -- Abdu'l-Bahá
 
-bpn3230 
+Prayer bpn3230 in Afrikaans (bpn3230) 
+
+[bahaiprayers.net 3230](https://bahaiprayers.net/Book/Single/20/3230)
+
 
 ----
 
@@ -492,7 +603,10 @@ bpn3230
 
 -- Abdu'l-Bahá
 
-bpn3231 
+Prayer bpn3231 in Afrikaans (bpn3231) 
+
+[bahaiprayers.net 3231](https://bahaiprayers.net/Book/Single/20/3231)
+
 
 ----
 
@@ -502,7 +616,10 @@ bpn3231
 
 -- Abdu'l-Bahá
 
-bpn3232 
+Prayer bpn3232 in Afrikaans (bpn3232) 
+
+[bahaiprayers.net 3232](https://bahaiprayers.net/Book/Single/20/3232)
+
 
 ----
 
@@ -512,7 +629,10 @@ bpn3232
 
 -- Abdu'l-Bahá
 
-bpn3233 
+Prayer bpn3233 in Afrikaans (bpn3233) 
+
+[bahaiprayers.net 3233](https://bahaiprayers.net/Book/Single/20/3233)
+
 
 ----
 
@@ -522,7 +642,10 @@ bpn3233
 
 -- Abdu'l-Bahá
 
-bpn3234 
+Prayer bpn3234 in Afrikaans (bpn3234) 
+
+[bahaiprayers.net 3234](https://bahaiprayers.net/Book/Single/20/3234)
+
 
 ----
 
@@ -532,7 +655,10 @@ bpn3234
 
 -- Abdu'l-Bahá
 
-bpn3235 
+Prayer bpn3235 in Afrikaans (bpn3235) 
+
+[bahaiprayers.net 3235](https://bahaiprayers.net/Book/Single/20/3235)
+
 
 ----
 
@@ -542,7 +668,10 @@ bpn3235
 
 -- Abdu'l-Bahá
 
-bpn3236 
+Prayer bpn3236 in Afrikaans (bpn3236) 
+
+[bahaiprayers.net 3236](https://bahaiprayers.net/Book/Single/20/3236)
+
 
 ----
 
@@ -556,7 +685,10 @@ bpn3236
 
 -- Bahá'u'lláh
 
-bpn3239 
+Prayer bpn3239 in Afrikaans (bpn3239) 
+
+[bahaiprayers.net 3239](https://bahaiprayers.net/Book/Single/20/3239)
+
 
 ----
 
@@ -566,7 +698,10 @@ bpn3239
 
 -- Bahá'u'lláh
 
-bpn3240 
+Prayer bpn3240 in Afrikaans (bpn3240) 
+
+[bahaiprayers.net 3240](https://bahaiprayers.net/Book/Single/20/3240)
+
 
 ----
 
@@ -576,7 +711,10 @@ bpn3240
 
 -- Bahá'u'lláh
 
-bpn3241 
+Prayer bpn3241 in Afrikaans (bpn3241) 
+
+[bahaiprayers.net 3241](https://bahaiprayers.net/Book/Single/20/3241)
+
 
 ----
 
@@ -586,7 +724,10 @@ bpn3241
 
 -- Bahá'u'lláh
 
-bpn3242 
+Prayer bpn3242 in Afrikaans (bpn3242) 
+
+[bahaiprayers.net 3242](https://bahaiprayers.net/Book/Single/20/3242)
+
 
 ----
 
@@ -600,7 +741,10 @@ bpn3242
 
 -- Bahá'u'lláh
 
-bpn3217 
+Prayer bpn3217 in Afrikaans (bpn3217) 
+
+[bahaiprayers.net 3217](https://bahaiprayers.net/Book/Single/20/3217)
+
 
 ----
 
@@ -610,7 +754,10 @@ bpn3217
 
 -- Abdu'l-Bahá
 
-bpn3218 
+Prayer bpn3218 in Afrikaans (bpn3218) 
+
+[bahaiprayers.net 3218](https://bahaiprayers.net/Book/Single/20/3218)
+
 
 ----
 
@@ -624,7 +771,10 @@ bpn3218
 
 -- Bahá'u'lláh
 
-bpn3187 
+Prayer bpn3187 in Afrikaans (bpn3187) 
+
+[bahaiprayers.net 3187](https://bahaiprayers.net/Book/Single/20/3187)
+
 
 ----
 
@@ -634,7 +784,10 @@ bpn3187
 
 -- Bahá'u'lláh
 
-bpn3188 
+Prayer bpn3188 in Afrikaans (bpn3188) 
+
+[bahaiprayers.net 3188](https://bahaiprayers.net/Book/Single/20/3188)
+
 
 ----
 
@@ -644,7 +797,10 @@ bpn3188
 
 -- Bahá'u'lláh
 
-bpn3189 
+Prayer bpn3189 in Afrikaans (bpn3189) 
+
+[bahaiprayers.net 3189](https://bahaiprayers.net/Book/Single/20/3189)
+
 
 ----
 
@@ -654,7 +810,10 @@ bpn3189
 
 -- Bahá'u'lláh
 
-bpn3190 
+Prayer bpn3190 in Afrikaans (bpn3190) 
+
+[bahaiprayers.net 3190](https://bahaiprayers.net/Book/Single/20/3190)
+
 
 ----
 
@@ -664,7 +823,10 @@ bpn3190
 
 -- Bahá'u'lláh
 
-bpn3191 
+Prayer bpn3191 in Afrikaans (bpn3191) 
+
+[bahaiprayers.net 3191](https://bahaiprayers.net/Book/Single/20/3191)
+
 
 ----
 
@@ -674,7 +836,10 @@ bpn3191
 
 -- Bahá'u'lláh
 
-bpn3192 
+Prayer bpn3192 in Afrikaans (bpn3192) 
+
+[bahaiprayers.net 3192](https://bahaiprayers.net/Book/Single/20/3192)
+
 
 ----
 
@@ -684,7 +849,10 @@ bpn3192
 
 -- Bahá'u'lláh
 
-bpn3193 
+Prayer bpn3193 in Afrikaans (bpn3193) 
+
+[bahaiprayers.net 3193](https://bahaiprayers.net/Book/Single/20/3193)
+
 
 ----
 
@@ -694,7 +862,10 @@ bpn3193
 
 -- Abdu'l-Bahá
 
-bpn3194 
+Prayer bpn3194 in Afrikaans (bpn3194) 
+
+[bahaiprayers.net 3194](https://bahaiprayers.net/Book/Single/20/3194)
+
 
 ----
 
@@ -704,7 +875,10 @@ bpn3194
 
 -- Abdu'l-Bahá
 
-bpn3195 
+Prayer bpn3195 in Afrikaans (bpn3195) 
+
+[bahaiprayers.net 3195](https://bahaiprayers.net/Book/Single/20/3195)
+
 
 ----
 
@@ -714,7 +888,10 @@ bpn3195
 
 -- Abdu'l-Bahá
 
-bpn3196 
+Prayer bpn3196 in Afrikaans (bpn3196) 
+
+[bahaiprayers.net 3196](https://bahaiprayers.net/Book/Single/20/3196)
+
 
 ----
 
@@ -724,7 +901,10 @@ bpn3196
 
 -- Abdu'l-Bahá
 
-bpn3197 
+Prayer bpn3197 in Afrikaans (bpn3197) 
+
+[bahaiprayers.net 3197](https://bahaiprayers.net/Book/Single/20/3197)
+
 
 ----
 
@@ -734,7 +914,10 @@ bpn3197
 
 -- Abdu'l-Bahá
 
-bpn3198 
+Prayer bpn3198 in Afrikaans (bpn3198) 
+
+[bahaiprayers.net 3198](https://bahaiprayers.net/Book/Single/20/3198)
+
 
 ----
 
@@ -748,7 +931,10 @@ bpn3198
 
 -- Abdu'l-Bahá
 
-bpn3237 
+Prayer bpn3237 in Afrikaans (bpn3237) 
+
+[bahaiprayers.net 3237](https://bahaiprayers.net/Book/Single/20/3237)
+
 
 ----
 
@@ -758,7 +944,10 @@ bpn3237
 
 -- Abdu'l-Bahá
 
-bpn3238 
+Prayer bpn3238 in Afrikaans (bpn3238) 
+
+[bahaiprayers.net 3238](https://bahaiprayers.net/Book/Single/20/3238)
+
 
 ----
 
@@ -772,7 +961,10 @@ bpn3238
 
 -- Bahá'u'lláh
 
-bpn3153 
+Prayer bpn3153 in Afrikaans (bpn3153) 
+
+[bahaiprayers.net 3153](https://bahaiprayers.net/Book/Single/20/3153)
+
 
 ----
 
@@ -782,7 +974,10 @@ bpn3153
 
 -- Bahá'u'lláh
 
-bpn3154 
+Prayer bpn3154 in Afrikaans (bpn3154) 
+
+[bahaiprayers.net 3154](https://bahaiprayers.net/Book/Single/20/3154)
+
 
 ----
 
@@ -792,7 +987,10 @@ bpn3154
 
 -- Bahá'u'lláh
 
-bpn3155 
+Prayer bpn3155 in Afrikaans (bpn3155) 
+
+[bahaiprayers.net 3155](https://bahaiprayers.net/Book/Single/20/3155)
+
 
 ----
 
@@ -802,7 +1000,10 @@ bpn3155
 
 -- Bahá'u'lláh
 
-bpn3156 
+Prayer bpn3156 in Afrikaans (bpn3156) 
+
+[bahaiprayers.net 3156](https://bahaiprayers.net/Book/Single/20/3156)
+
 
 ----
 
@@ -816,7 +1017,10 @@ bpn3156
 
 -- Abdu'l-Bahá
 
-bpn3135 
+Prayer bpn3135 in Afrikaans (bpn3135) 
+
+[bahaiprayers.net 3135](https://bahaiprayers.net/Book/Single/20/3135)
+
 
 ----
 
@@ -826,7 +1030,10 @@ bpn3135
 
 -- Abdu'l-Bahá
 
-bpn3136 
+Prayer bpn3136 in Afrikaans (bpn3136) 
+
+[bahaiprayers.net 3136](https://bahaiprayers.net/Book/Single/20/3136)
+
 
 ----
 
@@ -836,7 +1043,10 @@ bpn3136
 
 -- Abdu'l-Bahá
 
-bpn3137 
+Prayer bpn3137 in Afrikaans (bpn3137) 
+
+[bahaiprayers.net 3137](https://bahaiprayers.net/Book/Single/20/3137)
+
 
 ----
 
@@ -846,7 +1056,10 @@ bpn3137
 
 -- Abdu'l-Bahá
 
-bpn3138 
+Prayer bpn3138 in Afrikaans (bpn3138) 
+
+[bahaiprayers.net 3138](https://bahaiprayers.net/Book/Single/20/3138)
+
 
 ----
 
@@ -856,7 +1069,10 @@ bpn3138
 
 -- Abdu'l-Bahá
 
-bpn3139 
+Prayer bpn3139 in Afrikaans (bpn3139) 
+
+[bahaiprayers.net 3139](https://bahaiprayers.net/Book/Single/20/3139)
+
 
 ----
 
@@ -870,7 +1086,10 @@ bpn3139
 
 -- Bahá'u'lláh
 
-bpn3221 
+Prayer bpn3221 in Afrikaans (bpn3221) 
+
+[bahaiprayers.net 3221](https://bahaiprayers.net/Book/Single/20/3221)
+
 
 ----
 
@@ -884,7 +1103,10 @@ bpn3221
 
 -- Bahá'u'lláh
 
-bpn3220 
+Prayer bpn3220 in Afrikaans (bpn3220) 
+
+[bahaiprayers.net 3220](https://bahaiprayers.net/Book/Single/20/3220)
+
 
 ----
 
@@ -898,7 +1120,10 @@ bpn3220
 
 -- Bahá'u'lláh
 
-bpn3169 
+Prayer bpn3169 in Afrikaans (bpn3169) 
+
+[bahaiprayers.net 3169](https://bahaiprayers.net/Book/Single/20/3169)
+
 
 ----
 
@@ -908,7 +1133,10 @@ bpn3169
 
 -- Bahá'u'lláh
 
-bpn3170 
+Prayer bpn3170 in Afrikaans (bpn3170) 
+
+[bahaiprayers.net 3170](https://bahaiprayers.net/Book/Single/20/3170)
+
 
 ----
 
@@ -918,7 +1146,10 @@ bpn3170
 
 -- Bahá'u'lláh
 
-bpn3171 
+Prayer bpn3171 in Afrikaans (bpn3171) 
+
+[bahaiprayers.net 3171](https://bahaiprayers.net/Book/Single/20/3171)
+
 
 ----
 
@@ -928,7 +1159,10 @@ bpn3171
 
 -- Bahá'u'lláh
 
-bpn3172 
+Prayer bpn3172 in Afrikaans (bpn3172) 
+
+[bahaiprayers.net 3172](https://bahaiprayers.net/Book/Single/20/3172)
+
 
 ----
 
@@ -938,7 +1172,10 @@ bpn3172
 
 -- Bahá'u'lláh
 
-bpn3173 
+Prayer bpn3173 in Afrikaans (bpn3173) 
+
+[bahaiprayers.net 3173](https://bahaiprayers.net/Book/Single/20/3173)
+
 
 ----
 
@@ -952,7 +1189,10 @@ bpn3173
 
 -- Bahá'u'lláh
 
-bpn3219 
+Prayer bpn3219 in Afrikaans (bpn3219) 
+
+[bahaiprayers.net 3219](https://bahaiprayers.net/Book/Single/20/3219)
+
 
 ----
 
@@ -966,7 +1206,10 @@ bpn3219
 
 -- Bahá'u'lláh
 
-bpn3243 
+Prayer bpn3243 in Afrikaans (bpn3243) 
+
+[bahaiprayers.net 3243](https://bahaiprayers.net/Book/Single/20/3243)
+
 
 ----
 
@@ -980,7 +1223,10 @@ bpn3243
 
 -- Bahá'u'lláh
 
-bpn3166 
+Prayer bpn3166 in Afrikaans (bpn3166) 
+
+[bahaiprayers.net 3166](https://bahaiprayers.net/Book/Single/20/3166)
+
 
 ----
 
@@ -990,7 +1236,10 @@ bpn3166
 
 -- Bahá'u'lláh
 
-bpn3167 
+Prayer bpn3167 in Afrikaans (bpn3167) 
+
+[bahaiprayers.net 3167](https://bahaiprayers.net/Book/Single/20/3167)
+
 
 ----
 
@@ -1000,7 +1249,10 @@ bpn3167
 
 -- Bahá'u'lláh
 
-bpn3168 
+Prayer bpn3168 in Afrikaans (bpn3168) 
+
+[bahaiprayers.net 3168](https://bahaiprayers.net/Book/Single/20/3168)
+
 
 ----
 
@@ -1014,7 +1266,10 @@ bpn3168
 
 -- Bahá'u'lláh
 
-bpn3204 
+Prayer bpn3204 in Afrikaans (bpn3204) 
+
+[bahaiprayers.net 3204](https://bahaiprayers.net/Book/Single/20/3204)
+
 
 ----
 
@@ -1024,7 +1279,10 @@ bpn3204
 
 -- Bahá'u'lláh
 
-bpn3205 
+Prayer bpn3205 in Afrikaans (bpn3205) 
+
+[bahaiprayers.net 3205](https://bahaiprayers.net/Book/Single/20/3205)
+
 
 ----
 
@@ -1034,7 +1292,10 @@ bpn3205
 
 -- Bahá'u'lláh
 
-bpn3206 
+Prayer bpn3206 in Afrikaans (bpn3206) 
+
+[bahaiprayers.net 3206](https://bahaiprayers.net/Book/Single/20/3206)
+
 
 ----
 
@@ -1048,7 +1309,10 @@ bpn3206
 
 -- Bahá'u'lláh
 
-BH08604 «[English](../../en/prayers/#BH08604)» 
+Prayer BH08604 in Afrikaans (BH08604) «[English](../../en/prayers/#BH08604)» 
+
+[bahaiprayers.net 3199](https://bahaiprayers.net/Book/Single/20/3199)
+
 
 ----
 
@@ -1058,7 +1322,10 @@ BH08604 «[English](../../en/prayers/#BH08604)»
 
 -- Bahá'u'lláh
 
-bpn3200 
+Prayer bpn3200 in Afrikaans (bpn3200) 
+
+[bahaiprayers.net 3200](https://bahaiprayers.net/Book/Single/20/3200)
+
 
 ----
 
@@ -1068,7 +1335,10 @@ bpn3200
 
 -- Abdu'l-Bahá
 
-bpn3201 
+Prayer bpn3201 in Afrikaans (bpn3201) 
+
+[bahaiprayers.net 3201](https://bahaiprayers.net/Book/Single/20/3201)
+
 
 ----
 
@@ -1078,7 +1348,10 @@ bpn3201
 
 -- Abdu'l-Bahá
 
-bpn3202 
+Prayer bpn3202 in Afrikaans (bpn3202) 
+
+[bahaiprayers.net 3202](https://bahaiprayers.net/Book/Single/20/3202)
+
 
 ----
 
@@ -1088,7 +1361,10 @@ bpn3202
 
 -- Abdu'l-Bahá
 
-bpn3203 
+Prayer bpn3203 in Afrikaans (bpn3203) 
+
+[bahaiprayers.net 3203](https://bahaiprayers.net/Book/Single/20/3203)
+
 
 ----
 
@@ -1102,7 +1378,10 @@ bpn3203
 
 -- Bahá'u'lláh
 
-bpn3225 
+Prayer bpn3225 in Afrikaans (bpn3225) 
+
+[bahaiprayers.net 3225](https://bahaiprayers.net/Book/Single/20/3225)
+
 
 ----
 
@@ -1112,7 +1391,10 @@ bpn3225
 
 -- Bahá'u'lláh
 
-bpn3226 
+Prayer bpn3226 in Afrikaans (bpn3226) 
+
+[bahaiprayers.net 3226](https://bahaiprayers.net/Book/Single/20/3226)
+
 
 ----
 
@@ -1126,7 +1408,10 @@ bpn3226
 
 -- Bahá'u'lláh
 
-bpn3207 
+Prayer bpn3207 in Afrikaans (bpn3207) 
+
+[bahaiprayers.net 3207](https://bahaiprayers.net/Book/Single/20/3207)
+
 
 ----
 
@@ -1136,7 +1421,10 @@ bpn3207
 
 -- Bahá'u'lláh
 
-BH05071 «[English](../../en/prayers/#BH05071)» 
+Prayer BH05071 in Afrikaans (BH05071) «[English](../../en/prayers/#BH05071)» 
+
+[bahaiprayers.net 3208](https://bahaiprayers.net/Book/Single/20/3208)
+
 
 ----
 
@@ -1146,7 +1434,10 @@ BH05071 «[English](../../en/prayers/#BH05071)»
 
 -- Bahá'u'lláh
 
-bpn3209 
+Prayer bpn3209 in Afrikaans (bpn3209) 
+
+[bahaiprayers.net 3209](https://bahaiprayers.net/Book/Single/20/3209)
+
 
 ----
 
@@ -1156,7 +1447,10 @@ bpn3209
 
 -- Bahá'u'lláh
 
-bpn3210 
+Prayer bpn3210 in Afrikaans (bpn3210) 
+
+[bahaiprayers.net 3210](https://bahaiprayers.net/Book/Single/20/3210)
+
 
 ----
 
@@ -1166,7 +1460,10 @@ bpn3210
 
 -- Bahá'u'lláh
 
-bpn3211 
+Prayer bpn3211 in Afrikaans (bpn3211) 
+
+[bahaiprayers.net 3211](https://bahaiprayers.net/Book/Single/20/3211)
+
 
 ----
 
@@ -1176,7 +1473,10 @@ bpn3211
 
 -- Báb
 
-bpn3212 
+Prayer bpn3212 in Afrikaans (bpn3212) 
+
+[bahaiprayers.net 3212](https://bahaiprayers.net/Book/Single/20/3212)
+
 
 ----
 
@@ -1186,7 +1486,10 @@ bpn3212
 
 -- Báb
 
-bpn3213 
+Prayer bpn3213 in Afrikaans (bpn3213) 
+
+[bahaiprayers.net 3213](https://bahaiprayers.net/Book/Single/20/3213)
+
 
 ----
 
@@ -1196,7 +1499,10 @@ bpn3213
 
 -- Abdu'l-Bahá
 
-bpn3214 
+Prayer bpn3214 in Afrikaans (bpn3214) 
+
+[bahaiprayers.net 3214](https://bahaiprayers.net/Book/Single/20/3214)
+
 
 ----
 
@@ -1206,7 +1512,10 @@ bpn3214
 
 -- Abdu'l-Bahá
 
-bpn3215 
+Prayer bpn3215 in Afrikaans (bpn3215) 
+
+[bahaiprayers.net 3215](https://bahaiprayers.net/Book/Single/20/3215)
+
 
 ----
 
@@ -1216,7 +1525,10 @@ bpn3215
 
 -- Abdu'l-Bahá
 
-bpn3216 
+Prayer bpn3216 in Afrikaans (bpn3216) 
+
+[bahaiprayers.net 3216](https://bahaiprayers.net/Book/Single/20/3216)
+
 
 ----
 
@@ -1230,7 +1542,10 @@ bpn3216
 
 -- Abdu'l-Bahá
 
-bpn3162 
+Prayer bpn3162 in Afrikaans (bpn3162) 
+
+[bahaiprayers.net 3162](https://bahaiprayers.net/Book/Single/20/3162)
+
 
 ----
 
@@ -1240,7 +1555,10 @@ bpn3162
 
 -- Abdu'l-Bahá
 
-bpn3163 
+Prayer bpn3163 in Afrikaans (bpn3163) 
+
+[bahaiprayers.net 3163](https://bahaiprayers.net/Book/Single/20/3163)
+
 
 ----
 
@@ -1250,7 +1568,10 @@ bpn3163
 
 -- Abdu'l-Bahá
 
-bpn3164 
+Prayer bpn3164 in Afrikaans (bpn3164) 
+
+[bahaiprayers.net 3164](https://bahaiprayers.net/Book/Single/20/3164)
+
 
 ----
 
@@ -1260,7 +1581,10 @@ bpn3164
 
 -- Abdu'l-Bahá
 
-bpn3165 
+Prayer bpn3165 in Afrikaans (bpn3165) 
+
+[bahaiprayers.net 3165](https://bahaiprayers.net/Book/Single/20/3165)
+
 
 ----
 
@@ -1274,7 +1598,10 @@ bpn3165
 
 -- Bahá'u'lláh
 
-bpn3148 
+Prayer bpn3148 in Afrikaans (bpn3148) 
+
+[bahaiprayers.net 3148](https://bahaiprayers.net/Book/Single/20/3148)
+
 
 ----
 
@@ -1284,7 +1611,10 @@ bpn3148
 
 -- Bahá'u'lláh
 
-bpn3149 
+Prayer bpn3149 in Afrikaans (bpn3149) 
+
+[bahaiprayers.net 3149](https://bahaiprayers.net/Book/Single/20/3149)
+
 
 ----
 
@@ -1294,7 +1624,10 @@ bpn3149
 
 -- Bahá'u'lláh
 
-bpn3150 
+Prayer bpn3150 in Afrikaans (bpn3150) 
+
+[bahaiprayers.net 3150](https://bahaiprayers.net/Book/Single/20/3150)
+
 
 ----
 
@@ -1304,7 +1637,10 @@ bpn3150
 
 -- Bahá'u'lláh
 
-bpn3151 
+Prayer bpn3151 in Afrikaans (bpn3151) 
+
+[bahaiprayers.net 3151](https://bahaiprayers.net/Book/Single/20/3151)
+
 
 ----
 
@@ -1314,7 +1650,10 @@ bpn3151
 
 -- Abdu'l-Bahá
 
-bpn3152 
+Prayer bpn3152 in Afrikaans (bpn3152) 
+
+[bahaiprayers.net 3152](https://bahaiprayers.net/Book/Single/20/3152)
+
 
 ----
 
@@ -1328,7 +1667,10 @@ bpn3152
 
 -- Bahá'u'lláh
 
-bpn3142 
+Prayer bpn3142 in Afrikaans (bpn3142) 
+
+[bahaiprayers.net 3142](https://bahaiprayers.net/Book/Single/20/3142)
+
 
 ----
 
@@ -1338,7 +1680,10 @@ bpn3142
 
 -- Bahá'u'lláh
 
-bpn3143 
+Prayer bpn3143 in Afrikaans (bpn3143) 
+
+[bahaiprayers.net 3143](https://bahaiprayers.net/Book/Single/20/3143)
+
 
 ----
 
@@ -1348,7 +1693,10 @@ bpn3143
 
 -- Abdu'l-Bahá
 
-bpn3144 
+Prayer bpn3144 in Afrikaans (bpn3144) 
+
+[bahaiprayers.net 3144](https://bahaiprayers.net/Book/Single/20/3144)
+
 
 ----
 

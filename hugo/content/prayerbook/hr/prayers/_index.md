@@ -70,7 +70,10 @@ tags = ['lang=hr', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3891 
+Prayer bpn3891 in Hrvatski (bpn3891) 
+
+[bahaiprayers.net 3891](https://bahaiprayers.net/Book/Single/28/3891)
+
 
 ----
 
@@ -80,7 +83,10 @@ bpn3891
 
 -- Abdu'l-Bahá
 
-bpn3892 
+Prayer bpn3892 in Hrvatski (bpn3892) 
+
+[bahaiprayers.net 3892](https://bahaiprayers.net/Book/Single/28/3892)
+
 
 ----
 
@@ -90,7 +96,10 @@ bpn3892
 
 -- Abdu'l-Bahá
 
-bpn3893 
+Prayer bpn3893 in Hrvatski (bpn3893) 
+
+[bahaiprayers.net 3893](https://bahaiprayers.net/Book/Single/28/3893)
+
 
 ----
 
@@ -104,7 +113,10 @@ bpn3893
 
 -- Bahá'u'lláh
 
-bpn3898 
+Prayer bpn3898 in Hrvatski (bpn3898) 
+
+[bahaiprayers.net 3898](https://bahaiprayers.net/Book/Single/28/3898)
+
 
 ----
 
@@ -118,7 +130,10 @@ bpn3898
 
 -- Bahá'u'lláh
 
-bpn3899 
+Prayer bpn3899 in Hrvatski (bpn3899) 
+
+[bahaiprayers.net 3899](https://bahaiprayers.net/Book/Single/28/3899)
+
 
 ----
 
@@ -132,7 +147,10 @@ bpn3899
 
 -- Bahá'u'lláh
 
-bpn3900 
+Prayer bpn3900 in Hrvatski (bpn3900) 
+
+[bahaiprayers.net 3900](https://bahaiprayers.net/Book/Single/28/3900)
+
 
 ----
 
@@ -146,7 +164,10 @@ bpn3900
 
 -- Bahá'u'lláh
 
-bpn3901 
+Prayer bpn3901 in Hrvatski (bpn3901) 
+
+[bahaiprayers.net 3901](https://bahaiprayers.net/Book/Single/28/3901)
+
 
 ----
 
@@ -156,7 +177,10 @@ bpn3901
 
 -- Bahá'u'lláh
 
-bpn3902 
+Prayer bpn3902 in Hrvatski (bpn3902) 
+
+[bahaiprayers.net 3902](https://bahaiprayers.net/Book/Single/28/3902)
+
 
 ----
 
@@ -166,7 +190,10 @@ bpn3902
 
 -- Abdu'l-Bahá
 
-bpn3903 
+Prayer bpn3903 in Hrvatski (bpn3903) 
+
+[bahaiprayers.net 3903](https://bahaiprayers.net/Book/Single/28/3903)
+
 
 ----
 
@@ -180,7 +207,10 @@ bpn3903
 
 -- Bahá'u'lláh
 
-bpn3904 
+Prayer bpn3904 in Hrvatski (bpn3904) 
+
+[bahaiprayers.net 3904](https://bahaiprayers.net/Book/Single/28/3904)
+
 
 ----
 
@@ -194,7 +224,10 @@ bpn3904
 
 -- Bahá'u'lláh
 
-bpn3905 
+Prayer bpn3905 in Hrvatski (bpn3905) 
+
+[bahaiprayers.net 3905](https://bahaiprayers.net/Book/Single/28/3905)
+
 
 ----
 
@@ -204,7 +237,10 @@ bpn3905
 
 -- Báb
 
-bpn3906 
+Prayer bpn3906 in Hrvatski (bpn3906) 
+
+[bahaiprayers.net 3906](https://bahaiprayers.net/Book/Single/28/3906)
+
 
 ----
 
@@ -214,7 +250,10 @@ bpn3906
 
 -- Báb
 
-bpn3907 
+Prayer bpn3907 in Hrvatski (bpn3907) 
+
+[bahaiprayers.net 3907](https://bahaiprayers.net/Book/Single/28/3907)
+
 
 ----
 
@@ -224,7 +263,10 @@ bpn3907
 
 -- Báb
 
-bpn3908 
+Prayer bpn3908 in Hrvatski (bpn3908) 
+
+[bahaiprayers.net 3908](https://bahaiprayers.net/Book/Single/28/3908)
+
 
 ----
 
@@ -234,7 +276,10 @@ bpn3908
 
 -- Abdu'l-Bahá
 
-bpn3909 
+Prayer bpn3909 in Hrvatski (bpn3909) 
+
+[bahaiprayers.net 3909](https://bahaiprayers.net/Book/Single/28/3909)
+
 
 ----
 
@@ -248,7 +293,10 @@ bpn3909
 
 -- Abdu'l-Bahá
 
-bpn3910 
+Prayer bpn3910 in Hrvatski (bpn3910) 
+
+[bahaiprayers.net 3910](https://bahaiprayers.net/Book/Single/28/3910)
+
 
 ----
 
@@ -262,7 +310,10 @@ bpn3910
 
 -- Abdu'l-Bahá
 
-bpn3911 
+Prayer bpn3911 in Hrvatski (bpn3911) 
+
+[bahaiprayers.net 3911](https://bahaiprayers.net/Book/Single/28/3911)
+
 
 ----
 
@@ -276,7 +327,10 @@ bpn3911
 
 -- Bahá'u'lláh
 
-bpn3912 
+Prayer bpn3912 in Hrvatski (bpn3912) 
+
+[bahaiprayers.net 3912](https://bahaiprayers.net/Book/Single/28/3912)
+
 
 ----
 
@@ -290,7 +344,10 @@ bpn3912
 
 -- Bahá'u'lláh
 
-bpn3913 
+Prayer bpn3913 in Hrvatski (bpn3913) 
+
+[bahaiprayers.net 3913](https://bahaiprayers.net/Book/Single/28/3913)
+
 
 ----
 
@@ -300,7 +357,10 @@ bpn3913
 
 -- Báb
 
-bpn3914 
+Prayer bpn3914 in Hrvatski (bpn3914) 
+
+[bahaiprayers.net 3914](https://bahaiprayers.net/Book/Single/28/3914)
+
 
 ----
 
@@ -314,7 +374,10 @@ bpn3914
 
 -- Bahá'u'lláh
 
-bpn3915 
+Prayer bpn3915 in Hrvatski (bpn3915) 
+
+[bahaiprayers.net 3915](https://bahaiprayers.net/Book/Single/28/3915)
+
 
 ----
 
@@ -324,7 +387,10 @@ bpn3915
 
 -- Báb
 
-bpn3916 
+Prayer bpn3916 in Hrvatski (bpn3916) 
+
+[bahaiprayers.net 3916](https://bahaiprayers.net/Book/Single/28/3916)
+
 
 ----
 
@@ -334,7 +400,10 @@ bpn3916
 
 -- Abdu'l-Bahá
 
-bpn3917 
+Prayer bpn3917 in Hrvatski (bpn3917) 
+
+[bahaiprayers.net 3917](https://bahaiprayers.net/Book/Single/28/3917)
+
 
 ----
 
@@ -348,7 +417,10 @@ bpn3917
 
 -- Bahá'u'lláh
 
-bpn3918 
+Prayer bpn3918 in Hrvatski (bpn3918) 
+
+[bahaiprayers.net 3918](https://bahaiprayers.net/Book/Single/28/3918)
+
 
 ----
 
@@ -358,7 +430,10 @@ bpn3918
 
 -- Báb
 
-bpn3919 
+Prayer bpn3919 in Hrvatski (bpn3919) 
+
+[bahaiprayers.net 3919](https://bahaiprayers.net/Book/Single/28/3919)
+
 
 ----
 
@@ -368,7 +443,10 @@ bpn3919
 
 -- Abdu'l-Bahá
 
-bpn3920 
+Prayer bpn3920 in Hrvatski (bpn3920) 
+
+[bahaiprayers.net 3920](https://bahaiprayers.net/Book/Single/28/3920)
+
 
 ----
 
@@ -382,7 +460,10 @@ bpn3920
 
 -- Bahá'u'lláh
 
-bpn3921 
+Prayer bpn3921 in Hrvatski (bpn3921) 
+
+[bahaiprayers.net 3921](https://bahaiprayers.net/Book/Single/28/3921)
+
 
 ----
 
@@ -392,7 +473,10 @@ bpn3921
 
 -- Bahá'u'lláh
 
-bpn3922 
+Prayer bpn3922 in Hrvatski (bpn3922) 
+
+[bahaiprayers.net 3922](https://bahaiprayers.net/Book/Single/28/3922)
+
 
 ----
 
@@ -402,7 +486,10 @@ bpn3922
 
 -- Abdu'l-Bahá
 
-bpn3923 
+Prayer bpn3923 in Hrvatski (bpn3923) 
+
+[bahaiprayers.net 3923](https://bahaiprayers.net/Book/Single/28/3923)
+
 
 ----
 
@@ -412,7 +499,10 @@ bpn3923
 
 -- Abdu'l-Bahá
 
-bpn3924 
+Prayer bpn3924 in Hrvatski (bpn3924) 
+
+[bahaiprayers.net 3924](https://bahaiprayers.net/Book/Single/28/3924)
+
 
 ----
 
@@ -422,7 +512,10 @@ bpn3924
 
 -- Abdu'l-Bahá
 
-bpn3925 
+Prayer bpn3925 in Hrvatski (bpn3925) 
+
+[bahaiprayers.net 3925](https://bahaiprayers.net/Book/Single/28/3925)
+
 
 ----
 
@@ -436,7 +529,10 @@ bpn3925
 
 -- Abdu'l-Bahá
 
-bpn3926 
+Prayer bpn3926 in Hrvatski (bpn3926) 
+
+[bahaiprayers.net 3926](https://bahaiprayers.net/Book/Single/28/3926)
+
 
 ----
 
@@ -450,7 +546,10 @@ bpn3926
 
 -- Abdu'l-Bahá
 
-bpn3927 
+Prayer bpn3927 in Hrvatski (bpn3927) 
+
+[bahaiprayers.net 3927](https://bahaiprayers.net/Book/Single/28/3927)
+
 
 ----
 
@@ -460,7 +559,10 @@ bpn3927
 
 -- Abdu'l-Bahá
 
-bpn3928 
+Prayer bpn3928 in Hrvatski (bpn3928) 
+
+[bahaiprayers.net 3928](https://bahaiprayers.net/Book/Single/28/3928)
+
 
 ----
 
@@ -474,7 +576,10 @@ bpn3928
 
 -- Bahá'u'lláh
 
-bpn3929 
+Prayer bpn3929 in Hrvatski (bpn3929) 
+
+[bahaiprayers.net 3929](https://bahaiprayers.net/Book/Single/28/3929)
+
 
 ----
 
@@ -484,7 +589,10 @@ bpn3929
 
 -- Bahá'u'lláh
 
-bpn3930 
+Prayer bpn3930 in Hrvatski (bpn3930) 
+
+[bahaiprayers.net 3930](https://bahaiprayers.net/Book/Single/28/3930)
+
 
 ----
 
@@ -498,7 +606,10 @@ bpn3930
 
 -- Bahá'u'lláh
 
-bpn3931 
+Prayer bpn3931 in Hrvatski (bpn3931) 
+
+[bahaiprayers.net 3931](https://bahaiprayers.net/Book/Single/28/3931)
+
 
 ----
 
@@ -508,7 +619,10 @@ bpn3931
 
 -- Abdu'l-Bahá
 
-bpn3932 
+Prayer bpn3932 in Hrvatski (bpn3932) 
+
+[bahaiprayers.net 3932](https://bahaiprayers.net/Book/Single/28/3932)
+
 
 ----
 
@@ -522,7 +636,10 @@ bpn3932
 
 -- Bahá'u'lláh
 
-bpn3933 
+Prayer bpn3933 in Hrvatski (bpn3933) 
+
+[bahaiprayers.net 3933](https://bahaiprayers.net/Book/Single/28/3933)
+
 
 ----
 
@@ -532,7 +649,10 @@ bpn3933
 
 -- Bahá'u'lláh
 
-bpn3934 
+Prayer bpn3934 in Hrvatski (bpn3934) 
+
+[bahaiprayers.net 3934](https://bahaiprayers.net/Book/Single/28/3934)
+
 
 ----
 
@@ -546,7 +666,10 @@ bpn3934
 
 -- Bahá'u'lláh
 
-bpn3936 
+Prayer bpn3936 in Hrvatski (bpn3936) 
+
+[bahaiprayers.net 3936](https://bahaiprayers.net/Book/Single/28/3936)
+
 
 ----
 
@@ -556,7 +679,10 @@ bpn3936
 
 -- Báb
 
-bpn3935 
+Prayer bpn3935 in Hrvatski (bpn3935) 
+
+[bahaiprayers.net 3935](https://bahaiprayers.net/Book/Single/28/3935)
+
 
 ----
 
@@ -566,7 +692,10 @@ bpn3935
 
 -- Báb
 
-bpn3937 
+Prayer bpn3937 in Hrvatski (bpn3937) 
+
+[bahaiprayers.net 3937](https://bahaiprayers.net/Book/Single/28/3937)
+
 
 ----
 
@@ -576,7 +705,10 @@ bpn3937
 
 -- Abdu'l-Bahá
 
-bpn3938 
+Prayer bpn3938 in Hrvatski (bpn3938) 
+
+[bahaiprayers.net 3938](https://bahaiprayers.net/Book/Single/28/3938)
+
 
 ----
 
@@ -586,7 +718,10 @@ bpn3938
 
 -- Abdu'l-Bahá
 
-bpn3939 
+Prayer bpn3939 in Hrvatski (bpn3939) 
+
+[bahaiprayers.net 3939](https://bahaiprayers.net/Book/Single/28/3939)
+
 
 ----
 
@@ -600,7 +735,10 @@ bpn3939
 
 -- Abdu'l-Bahá
 
-bpn3940 
+Prayer bpn3940 in Hrvatski (bpn3940) 
+
+[bahaiprayers.net 3940](https://bahaiprayers.net/Book/Single/28/3940)
+
 
 ----
 
@@ -614,7 +752,10 @@ bpn3940
 
 -- Bahá'u'lláh
 
-bpn3941 
+Prayer bpn3941 in Hrvatski (bpn3941) 
+
+[bahaiprayers.net 3941](https://bahaiprayers.net/Book/Single/28/3941)
+
 
 ----
 
@@ -624,7 +765,10 @@ bpn3941
 
 -- Abdu'l-Bahá
 
-bpn3942 
+Prayer bpn3942 in Hrvatski (bpn3942) 
+
+[bahaiprayers.net 3942](https://bahaiprayers.net/Book/Single/28/3942)
+
 
 ----
 
@@ -634,7 +778,10 @@ bpn3942
 
 -- Abdu'l-Bahá
 
-bpn3943 
+Prayer bpn3943 in Hrvatski (bpn3943) 
+
+[bahaiprayers.net 3943](https://bahaiprayers.net/Book/Single/28/3943)
+
 
 ----
 
@@ -648,7 +795,10 @@ bpn3943
 
 -- Bahá'u'lláh
 
-bpn3944 
+Prayer bpn3944 in Hrvatski (bpn3944) 
+
+[bahaiprayers.net 3944](https://bahaiprayers.net/Book/Single/28/3944)
+
 
 ----
 
@@ -658,7 +808,10 @@ bpn3944
 
 -- Báb
 
-bpn3945 
+Prayer bpn3945 in Hrvatski (bpn3945) 
+
+[bahaiprayers.net 3945](https://bahaiprayers.net/Book/Single/28/3945)
+
 
 ----
 
@@ -672,7 +825,10 @@ bpn3945
 
 -- Abdu'l-Bahá
 
-bpn3946 
+Prayer bpn3946 in Hrvatski (bpn3946) 
+
+[bahaiprayers.net 3946](https://bahaiprayers.net/Book/Single/28/3946)
+
 
 ----
 
@@ -682,7 +838,10 @@ bpn3946
 
 -- Abdu'l-Bahá
 
-bpn3947 
+Prayer bpn3947 in Hrvatski (bpn3947) 
+
+[bahaiprayers.net 3947](https://bahaiprayers.net/Book/Single/28/3947)
+
 
 ----
 
@@ -696,7 +855,10 @@ bpn3947
 
 -- Bahá'u'lláh
 
-bpn3948 
+Prayer bpn3948 in Hrvatski (bpn3948) 
+
+[bahaiprayers.net 3948](https://bahaiprayers.net/Book/Single/28/3948)
+
 
 ----
 
@@ -706,7 +868,10 @@ bpn3948
 
 -- Bahá'u'lláh
 
-bpn3949 
+Prayer bpn3949 in Hrvatski (bpn3949) 
+
+[bahaiprayers.net 3949](https://bahaiprayers.net/Book/Single/28/3949)
+
 
 ----
 
@@ -716,7 +881,10 @@ bpn3949
 
 -- Bahá'u'lláh
 
-bpn3950 
+Prayer bpn3950 in Hrvatski (bpn3950) 
+
+[bahaiprayers.net 3950](https://bahaiprayers.net/Book/Single/28/3950)
+
 
 ----
 
@@ -730,7 +898,10 @@ bpn3950
 
 -- Bahá'u'lláh
 
-bpn3951 
+Prayer bpn3951 in Hrvatski (bpn3951) 
+
+[bahaiprayers.net 3951](https://bahaiprayers.net/Book/Single/28/3951)
+
 
 ----
 
@@ -740,7 +911,10 @@ bpn3951
 
 -- Bahá'u'lláh
 
-bpn3953 
+Prayer bpn3953 in Hrvatski (bpn3953) 
+
+[bahaiprayers.net 3953](https://bahaiprayers.net/Book/Single/28/3953)
+
 
 ----
 
@@ -750,7 +924,10 @@ bpn3953
 
 -- Abdu'l-Bahá
 
-bpn3952 
+Prayer bpn3952 in Hrvatski (bpn3952) 
+
+[bahaiprayers.net 3952](https://bahaiprayers.net/Book/Single/28/3952)
+
 
 ----
 
@@ -764,7 +941,10 @@ bpn3952
 
 -- Abdu'l-Bahá
 
-bpn3894 
+Prayer bpn3894 in Hrvatski (bpn3894) 
+
+[bahaiprayers.net 3894](https://bahaiprayers.net/Book/Single/28/3894)
+
 
 ----
 
@@ -774,7 +954,10 @@ bpn3894
 
 -- Abdu'l-Bahá
 
-bpn3895 
+Prayer bpn3895 in Hrvatski (bpn3895) 
+
+[bahaiprayers.net 3895](https://bahaiprayers.net/Book/Single/28/3895)
+
 
 ----
 
@@ -784,7 +967,10 @@ bpn3895
 
 -- Abdu'l-Bahá
 
-bpn3896 
+Prayer bpn3896 in Hrvatski (bpn3896) 
+
+[bahaiprayers.net 3896](https://bahaiprayers.net/Book/Single/28/3896)
+
 
 ----
 
@@ -794,7 +980,10 @@ bpn3896
 
 -- Abdu'l-Bahá
 
-bpn3897 
+Prayer bpn3897 in Hrvatski (bpn3897) 
+
+[bahaiprayers.net 3897](https://bahaiprayers.net/Book/Single/28/3897)
+
 
 ----
 

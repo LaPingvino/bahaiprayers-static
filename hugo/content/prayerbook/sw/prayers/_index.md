@@ -40,7 +40,10 @@ tags = ['lang=sw', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11208 
+Prayer bpn11208 in Kiswahili (bpn11208) 
+
+[bahaiprayers.net 11208](https://bahaiprayers.net/Book/Single/99/11208)
+
 
 ----
 
@@ -54,7 +57,10 @@ bpn11208
 
 -- Bahá'u'lláh
 
-bpn11209 
+Prayer bpn11209 in Kiswahili (bpn11209) 
+
+[bahaiprayers.net 11209](https://bahaiprayers.net/Book/Single/99/11209)
+
 
 ----
 
@@ -64,7 +70,10 @@ bpn11209
 
 -- Bahá'u'lláh
 
-bpn11210 
+Prayer bpn11210 in Kiswahili (bpn11210) 
+
+[bahaiprayers.net 11210](https://bahaiprayers.net/Book/Single/99/11210)
+
 
 ----
 
@@ -78,7 +87,10 @@ bpn11210
 
 -- Bahá'u'lláh
 
-bpn11223 
+Prayer bpn11223 in Kiswahili (bpn11223) 
+
+[bahaiprayers.net 11223](https://bahaiprayers.net/Book/Single/99/11223)
+
 
 ----
 
@@ -88,7 +100,10 @@ bpn11223
 
 -- Bahá'u'lláh
 
-bpn11224 
+Prayer bpn11224 in Kiswahili (bpn11224) 
+
+[bahaiprayers.net 11224](https://bahaiprayers.net/Book/Single/99/11224)
+
 
 ----
 
@@ -98,7 +113,10 @@ bpn11224
 
 -- Bahá'u'lláh
 
-bpn11225 
+Prayer bpn11225 in Kiswahili (bpn11225) 
+
+[bahaiprayers.net 11225](https://bahaiprayers.net/Book/Single/99/11225)
+
 
 ----
 
@@ -108,7 +126,10 @@ bpn11225
 
 -- Bahá'u'lláh
 
-bpn11226 
+Prayer bpn11226 in Kiswahili (bpn11226) 
+
+[bahaiprayers.net 11226](https://bahaiprayers.net/Book/Single/99/11226)
+
 
 ----
 
@@ -118,7 +139,10 @@ bpn11226
 
 -- Bahá'u'lláh
 
-bpn11227 
+Prayer bpn11227 in Kiswahili (bpn11227) 
+
+[bahaiprayers.net 11227](https://bahaiprayers.net/Book/Single/99/11227)
+
 
 ----
 
@@ -128,7 +152,10 @@ bpn11227
 
 -- Báb
 
-bpn11228 
+Prayer bpn11228 in Kiswahili (bpn11228) 
+
+[bahaiprayers.net 11228](https://bahaiprayers.net/Book/Single/99/11228)
+
 
 ----
 
@@ -138,7 +165,10 @@ bpn11228
 
 -- Abdu'l-Bahá
 
-bpn11229 
+Prayer bpn11229 in Kiswahili (bpn11229) 
+
+[bahaiprayers.net 11229](https://bahaiprayers.net/Book/Single/99/11229)
+
 
 ----
 
@@ -148,7 +178,10 @@ bpn11229
 
 -- Abdu'l-Bahá
 
-bpn11230 
+Prayer bpn11230 in Kiswahili (bpn11230) 
+
+[bahaiprayers.net 11230](https://bahaiprayers.net/Book/Single/99/11230)
+
 
 ----
 
@@ -158,7 +191,10 @@ bpn11230
 
 -- Abdu'l-Bahá
 
-bpn11231 
+Prayer bpn11231 in Kiswahili (bpn11231) 
+
+[bahaiprayers.net 11231](https://bahaiprayers.net/Book/Single/99/11231)
+
 
 ----
 
@@ -168,7 +204,10 @@ bpn11231
 
 -- Abdu'l-Bahá
 
-bpn11232 
+Prayer bpn11232 in Kiswahili (bpn11232) 
+
+[bahaiprayers.net 11232](https://bahaiprayers.net/Book/Single/99/11232)
+
 
 ----
 
@@ -178,7 +217,10 @@ bpn11232
 
 -- Abdu'l-Bahá
 
-bpn11233 
+Prayer bpn11233 in Kiswahili (bpn11233) 
+
+[bahaiprayers.net 11233](https://bahaiprayers.net/Book/Single/99/11233)
+
 
 ----
 
@@ -188,7 +230,10 @@ bpn11233
 
 -- Abdu'l-Bahá
 
-bpn11234 
+Prayer bpn11234 in Kiswahili (bpn11234) 
+
+[bahaiprayers.net 11234](https://bahaiprayers.net/Book/Single/99/11234)
+
 
 ----
 
@@ -198,7 +243,10 @@ bpn11234
 
 -- Abdu'l-Bahá
 
-bpn11235 
+Prayer bpn11235 in Kiswahili (bpn11235) 
+
+[bahaiprayers.net 11235](https://bahaiprayers.net/Book/Single/99/11235)
+
 
 ----
 
@@ -212,7 +260,10 @@ bpn11235
 
 -- Abdu'l-Bahá
 
-bpn11215 
+Prayer bpn11215 in Kiswahili (bpn11215) 
+
+[bahaiprayers.net 11215](https://bahaiprayers.net/Book/Single/99/11215)
+
 
 ----
 
@@ -226,7 +277,10 @@ bpn11215
 
 -- Bahá'u'lláh
 
-bpn11211 
+Prayer bpn11211 in Kiswahili (bpn11211) 
+
+[bahaiprayers.net 11211](https://bahaiprayers.net/Book/Single/99/11211)
+
 
 ----
 
@@ -240,7 +294,10 @@ bpn11211
 
 -- Bahá'u'lláh
 
-bpn11214 
+Prayer bpn11214 in Kiswahili (bpn11214) 
+
+[bahaiprayers.net 11214](https://bahaiprayers.net/Book/Single/99/11214)
+
 
 ----
 
@@ -254,7 +311,10 @@ bpn11214
 
 -- Abdu'l-Bahá
 
-bpn11220 
+Prayer bpn11220 in Kiswahili (bpn11220) 
+
+[bahaiprayers.net 11220](https://bahaiprayers.net/Book/Single/99/11220)
+
 
 ----
 
@@ -268,7 +328,10 @@ bpn11220
 
 -- Bahá'u'lláh
 
-bpn11212 
+Prayer bpn11212 in Kiswahili (bpn11212) 
+
+[bahaiprayers.net 11212](https://bahaiprayers.net/Book/Single/99/11212)
+
 
 ----
 
@@ -282,7 +345,10 @@ bpn11212
 
 -- Abdu'l-Bahá
 
-bpn11213 
+Prayer bpn11213 in Kiswahili (bpn11213) 
+
+[bahaiprayers.net 11213](https://bahaiprayers.net/Book/Single/99/11213)
+
 
 ----
 
@@ -296,7 +362,10 @@ bpn11213
 
 -- Bahá'u'lláh
 
-bpn11207 
+Prayer bpn11207 in Kiswahili (bpn11207) 
+
+[bahaiprayers.net 11207](https://bahaiprayers.net/Book/Single/99/11207)
+
 
 ----
 
@@ -310,7 +379,10 @@ bpn11207
 
 -- Bahá'u'lláh
 
-bpn11221 
+Prayer bpn11221 in Kiswahili (bpn11221) 
+
+[bahaiprayers.net 11221](https://bahaiprayers.net/Book/Single/99/11221)
+
 
 ----
 
@@ -320,7 +392,10 @@ bpn11221
 
 -- Abdu'l-Bahá
 
-bpn11222 
+Prayer bpn11222 in Kiswahili (bpn11222) 
+
+[bahaiprayers.net 11222](https://bahaiprayers.net/Book/Single/99/11222)
+
 
 ----
 
@@ -334,7 +409,10 @@ bpn11222
 
 -- Abdu'l-Bahá
 
-bpn11216 
+Prayer bpn11216 in Kiswahili (bpn11216) 
+
+[bahaiprayers.net 11216](https://bahaiprayers.net/Book/Single/99/11216)
+
 
 ----
 
@@ -344,7 +422,10 @@ bpn11216
 
 -- Abdu'l-Bahá
 
-bpn11217 
+Prayer bpn11217 in Kiswahili (bpn11217) 
+
+[bahaiprayers.net 11217](https://bahaiprayers.net/Book/Single/99/11217)
+
 
 ----
 
@@ -354,7 +435,10 @@ bpn11217
 
 -- Abdu'l-Bahá
 
-bpn11218 
+Prayer bpn11218 in Kiswahili (bpn11218) 
+
+[bahaiprayers.net 11218](https://bahaiprayers.net/Book/Single/99/11218)
+
 
 ----
 
@@ -364,7 +448,10 @@ bpn11218
 
 -- Abdu'l-Bahá
 
-bpn11219 
+Prayer bpn11219 in Kiswahili (bpn11219) 
+
+[bahaiprayers.net 11219](https://bahaiprayers.net/Book/Single/99/11219)
+
 
 ----
 

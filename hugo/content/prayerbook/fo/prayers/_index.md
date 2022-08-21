@@ -52,7 +52,10 @@ tags = ['lang=fo', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn13550 
+Prayer bpn13550 in Føroyar (bpn13550) 
+
+[bahaiprayers.net 13550](https://bahaiprayers.net/Book/Single/50/13550)
+
 
 ----
 
@@ -62,7 +65,10 @@ bpn13550
 
 -- Bahá'u'lláh
 
-bpn13551 
+Prayer bpn13551 in Føroyar (bpn13551) 
+
+[bahaiprayers.net 13551](https://bahaiprayers.net/Book/Single/50/13551)
+
 
 ----
 
@@ -76,7 +82,10 @@ bpn13551
 
 -- Bahá'u'lláh
 
-bpn13568 
+Prayer bpn13568 in Føroyar (bpn13568) 
+
+[bahaiprayers.net 13568](https://bahaiprayers.net/Book/Single/50/13568)
+
 
 ----
 
@@ -86,7 +95,10 @@ bpn13568
 
 -- Abdu'l-Bahá
 
-bpn13569 
+Prayer bpn13569 in Føroyar (bpn13569) 
+
+[bahaiprayers.net 13569](https://bahaiprayers.net/Book/Single/50/13569)
+
 
 ----
 
@@ -100,7 +112,10 @@ bpn13569
 
 -- Bahá'u'lláh
 
-bpn13548 
+Prayer bpn13548 in Føroyar (bpn13548) 
+
+[bahaiprayers.net 13548](https://bahaiprayers.net/Book/Single/50/13548)
+
 
 ----
 
@@ -114,7 +129,10 @@ bpn13548
 
 -- Abdu'l-Bahá
 
-bpn13557 
+Prayer bpn13557 in Føroyar (bpn13557) 
+
+[bahaiprayers.net 13557](https://bahaiprayers.net/Book/Single/50/13557)
+
 
 ----
 
@@ -128,7 +146,10 @@ bpn13557
 
 -- Bahá'u'lláh
 
-bpn13562 
+Prayer bpn13562 in Føroyar (bpn13562) 
+
+[bahaiprayers.net 13562](https://bahaiprayers.net/Book/Single/50/13562)
+
 
 ----
 
@@ -138,7 +159,10 @@ bpn13562
 
 -- Abdu'l-Bahá
 
-bpn13563 
+Prayer bpn13563 in Føroyar (bpn13563) 
+
+[bahaiprayers.net 13563](https://bahaiprayers.net/Book/Single/50/13563)
+
 
 ----
 
@@ -148,7 +172,10 @@ bpn13563
 
 -- Abdu'l-Bahá
 
-bpn13564 
+Prayer bpn13564 in Føroyar (bpn13564) 
+
+[bahaiprayers.net 13564](https://bahaiprayers.net/Book/Single/50/13564)
+
 
 ----
 
@@ -158,7 +185,10 @@ bpn13564
 
 -- Abdu'l-Bahá
 
-bpn13565 
+Prayer bpn13565 in Føroyar (bpn13565) 
+
+[bahaiprayers.net 13565](https://bahaiprayers.net/Book/Single/50/13565)
+
 
 ----
 
@@ -168,7 +198,10 @@ bpn13565
 
 -- Abdu'l-Bahá
 
-bpn13566 
+Prayer bpn13566 in Føroyar (bpn13566) 
+
+[bahaiprayers.net 13566](https://bahaiprayers.net/Book/Single/50/13566)
+
 
 ----
 
@@ -178,7 +211,10 @@ bpn13566
 
 -- Abdu'l-Bahá
 
-bpn13567 
+Prayer bpn13567 in Føroyar (bpn13567) 
+
+[bahaiprayers.net 13567](https://bahaiprayers.net/Book/Single/50/13567)
+
 
 ----
 
@@ -192,7 +228,10 @@ bpn13567
 
 -- Abdu'l-Bahá
 
-bpn13558 
+Prayer bpn13558 in Føroyar (bpn13558) 
+
+[bahaiprayers.net 13558](https://bahaiprayers.net/Book/Single/50/13558)
+
 
 ----
 
@@ -206,7 +245,10 @@ bpn13558
 
 -- Abdu'l-Bahá
 
-bpn13561 
+Prayer bpn13561 in Føroyar (bpn13561) 
+
+[bahaiprayers.net 13561](https://bahaiprayers.net/Book/Single/50/13561)
+
 
 ----
 
@@ -220,7 +262,10 @@ bpn13561
 
 -- Bahá'u'lláh
 
-bpn13552 
+Prayer bpn13552 in Føroyar (bpn13552) 
+
+[bahaiprayers.net 13552](https://bahaiprayers.net/Book/Single/50/13552)
+
 
 ----
 
@@ -234,7 +279,10 @@ bpn13552
 
 -- Bahá'u'lláh
 
-bpn13553 
+Prayer bpn13553 in Føroyar (bpn13553) 
+
+[bahaiprayers.net 13553](https://bahaiprayers.net/Book/Single/50/13553)
+
 
 ----
 
@@ -244,7 +292,10 @@ bpn13553
 
 -- Bahá'u'lláh
 
-bpn13554 
+Prayer bpn13554 in Føroyar (bpn13554) 
+
+[bahaiprayers.net 13554](https://bahaiprayers.net/Book/Single/50/13554)
+
 
 ----
 
@@ -258,7 +309,10 @@ bpn13554
 
 -- Abdu'l-Bahá
 
-bpn13556 
+Prayer bpn13556 in Føroyar (bpn13556) 
+
+[bahaiprayers.net 13556](https://bahaiprayers.net/Book/Single/50/13556)
+
 
 ----
 
@@ -272,7 +326,10 @@ bpn13556
 
 -- Bahá'u'lláh
 
-bpn13560 
+Prayer bpn13560 in Føroyar (bpn13560) 
+
+[bahaiprayers.net 13560](https://bahaiprayers.net/Book/Single/50/13560)
+
 
 ----
 
@@ -286,7 +343,10 @@ bpn13560
 
 -- Bahá'u'lláh
 
-bpn13549 
+Prayer bpn13549 in Føroyar (bpn13549) 
+
+[bahaiprayers.net 13549](https://bahaiprayers.net/Book/Single/50/13549)
+
 
 ----
 
@@ -300,7 +360,10 @@ bpn13549
 
 -- Bahá'u'lláh
 
-bpn13571 
+Prayer bpn13571 in Føroyar (bpn13571) 
+
+[bahaiprayers.net 13571](https://bahaiprayers.net/Book/Single/50/13571)
+
 
 ----
 
@@ -314,7 +377,10 @@ bpn13571
 
 -- Báb
 
-bpn13547 
+Prayer bpn13547 in Føroyar (bpn13547) 
+
+[bahaiprayers.net 13547](https://bahaiprayers.net/Book/Single/50/13547)
+
 
 ----
 
@@ -324,7 +390,10 @@ bpn13547
 
 -- Báb
 
-bpn13546 
+Prayer bpn13546 in Føroyar (bpn13546) 
+
+[bahaiprayers.net 13546](https://bahaiprayers.net/Book/Single/50/13546)
+
 
 ----
 
@@ -338,7 +407,10 @@ bpn13546
 
 -- Bahá'u'lláh
 
-bpn13545 
+Prayer bpn13545 in Føroyar (bpn13545) 
+
+[bahaiprayers.net 13545](https://bahaiprayers.net/Book/Single/50/13545)
+
 
 ----
 
@@ -352,7 +424,10 @@ bpn13545
 
 -- Bahá'u'lláh
 
-bpn13570 
+Prayer bpn13570 in Føroyar (bpn13570) 
+
+[bahaiprayers.net 13570](https://bahaiprayers.net/Book/Single/50/13570)
+
 
 ----
 
@@ -366,7 +441,10 @@ bpn13570
 
 -- Bahá'u'lláh
 
-bpn13555 
+Prayer bpn13555 in Føroyar (bpn13555) 
+
+[bahaiprayers.net 13555](https://bahaiprayers.net/Book/Single/50/13555)
+
 
 ----
 
@@ -380,7 +458,10 @@ bpn13555
 
 -- Bahá'u'lláh
 
-bpn13559 
+Prayer bpn13559 in Føroyar (bpn13559) 
+
+[bahaiprayers.net 13559](https://bahaiprayers.net/Book/Single/50/13559)
+
 
 ----
 

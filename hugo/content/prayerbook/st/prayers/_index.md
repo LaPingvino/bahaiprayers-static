@@ -54,7 +54,10 @@ tags = ['lang=st', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn6473 
+Prayer bpn6473 in Sesotho (bpn6473) 
+
+[bahaiprayers.net 6473](https://bahaiprayers.net/Book/Single/61/6473)
+
 
 ----
 
@@ -68,7 +71,10 @@ bpn6473
 
 -- Abdu'l-Bahá
 
-bpn6457 
+Prayer bpn6457 in Sesotho (bpn6457) 
+
+[bahaiprayers.net 6457](https://bahaiprayers.net/Book/Single/61/6457)
+
 
 ----
 
@@ -82,7 +88,10 @@ bpn6457
 
 -- Abdu'l-Bahá
 
-bpn6455 
+Prayer bpn6455 in Sesotho (bpn6455) 
+
+[bahaiprayers.net 6455](https://bahaiprayers.net/Book/Single/61/6455)
+
 
 ----
 
@@ -96,7 +105,10 @@ bpn6455
 
 -- Abdu'l-Bahá
 
-bpn6466 
+Prayer bpn6466 in Sesotho (bpn6466) 
+
+[bahaiprayers.net 6466](https://bahaiprayers.net/Book/Single/61/6466)
+
 
 ----
 
@@ -110,7 +122,10 @@ bpn6466
 
 -- Bahá'u'lláh
 
-bpn6461 
+Prayer bpn6461 in Sesotho (bpn6461) 
+
+[bahaiprayers.net 6461](https://bahaiprayers.net/Book/Single/61/6461)
+
 
 ----
 
@@ -124,7 +139,10 @@ bpn6461
 
 -- Bahá'u'lláh
 
-bpn6470 
+Prayer bpn6470 in Sesotho (bpn6470) 
+
+[bahaiprayers.net 6470](https://bahaiprayers.net/Book/Single/61/6470)
+
 
 ----
 
@@ -134,7 +152,10 @@ bpn6470
 
 -- Abdu'l-Bahá
 
-bpn6471 
+Prayer bpn6471 in Sesotho (bpn6471) 
+
+[bahaiprayers.net 6471](https://bahaiprayers.net/Book/Single/61/6471)
+
 
 ----
 
@@ -148,7 +169,10 @@ bpn6471
 
 -- Bahá'u'lláh
 
-bpn6472 
+Prayer bpn6472 in Sesotho (bpn6472) 
+
+[bahaiprayers.net 6472](https://bahaiprayers.net/Book/Single/61/6472)
+
 
 ----
 
@@ -162,7 +186,10 @@ bpn6472
 
 -- Bahá'u'lláh
 
-bpn6460 
+Prayer bpn6460 in Sesotho (bpn6460) 
+
+[bahaiprayers.net 6460](https://bahaiprayers.net/Book/Single/61/6460)
+
 
 ----
 
@@ -176,7 +203,10 @@ bpn6460
 
 -- Abdu'l-Bahá
 
-bpn6462 
+Prayer bpn6462 in Sesotho (bpn6462) 
+
+[bahaiprayers.net 6462](https://bahaiprayers.net/Book/Single/61/6462)
+
 
 ----
 
@@ -190,7 +220,10 @@ bpn6462
 
 -- Bahá'u'lláh
 
-bpn6456 
+Prayer bpn6456 in Sesotho (bpn6456) 
+
+[bahaiprayers.net 6456](https://bahaiprayers.net/Book/Single/61/6456)
+
 
 ----
 
@@ -204,7 +237,10 @@ bpn6456
 
 -- Báb
 
-bpn6468 
+Prayer bpn6468 in Sesotho (bpn6468) 
+
+[bahaiprayers.net 6468](https://bahaiprayers.net/Book/Single/61/6468)
+
 
 ----
 
@@ -218,7 +254,10 @@ bpn6468
 
 -- Bahá'u'lláh
 
-bpn6463 
+Prayer bpn6463 in Sesotho (bpn6463) 
+
+[bahaiprayers.net 6463](https://bahaiprayers.net/Book/Single/61/6463)
+
 
 ----
 
@@ -232,7 +271,10 @@ bpn6463
 
 -- Abdu'l-Bahá
 
-bpn6469 
+Prayer bpn6469 in Sesotho (bpn6469) 
+
+[bahaiprayers.net 6469](https://bahaiprayers.net/Book/Single/61/6469)
+
 
 ----
 
@@ -246,7 +288,10 @@ bpn6469
 
 -- Bahá'u'lláh
 
-bpn6464 
+Prayer bpn6464 in Sesotho (bpn6464) 
+
+[bahaiprayers.net 6464](https://bahaiprayers.net/Book/Single/61/6464)
+
 
 ----
 
@@ -260,7 +305,10 @@ bpn6464
 
 -- Bahá'u'lláh
 
-bpn6459 
+Prayer bpn6459 in Sesotho (bpn6459) 
+
+[bahaiprayers.net 6459](https://bahaiprayers.net/Book/Single/61/6459)
+
 
 ----
 
@@ -274,7 +322,10 @@ bpn6459
 
 -- Bahá'u'lláh
 
-bpn6465 
+Prayer bpn6465 in Sesotho (bpn6465) 
+
+[bahaiprayers.net 6465](https://bahaiprayers.net/Book/Single/61/6465)
+
 
 ----
 
@@ -288,7 +339,10 @@ bpn6465
 
 -- Abdu'l-Bahá
 
-bpn6454 
+Prayer bpn6454 in Sesotho (bpn6454) 
+
+[bahaiprayers.net 6454](https://bahaiprayers.net/Book/Single/61/6454)
+
 
 ----
 
@@ -302,7 +356,10 @@ bpn6454
 
 -- Bahá'u'lláh
 
-bpn6458 
+Prayer bpn6458 in Sesotho (bpn6458) 
+
+[bahaiprayers.net 6458](https://bahaiprayers.net/Book/Single/61/6458)
+
 
 ----
 
@@ -316,7 +373,10 @@ bpn6458
 
 -- Abdu'l-Bahá
 
-bpn6467 
+Prayer bpn6467 in Sesotho (bpn6467) 
+
+[bahaiprayers.net 6467](https://bahaiprayers.net/Book/Single/61/6467)
+
 
 ----
 

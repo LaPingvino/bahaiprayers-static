@@ -94,7 +94,10 @@ tags = ['lang=kl', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn7020 
+Prayer bpn7020 in Kalaallisut (bpn7020) 
+
+[bahaiprayers.net 7020](https://bahaiprayers.net/Book/Single/62/7020)
+
 
 ----
 
@@ -104,7 +107,10 @@ bpn7020
 
 -- Abdu'l-Bahá
 
-bpn7021 
+Prayer bpn7021 in Kalaallisut (bpn7021) 
+
+[bahaiprayers.net 7021](https://bahaiprayers.net/Book/Single/62/7021)
+
 
 ----
 
@@ -118,7 +124,10 @@ bpn7021
 
 -- Bahá'u'lláh
 
-bpn7610 
+Prayer bpn7610 in Kalaallisut (bpn7610) 
+
+[bahaiprayers.net 7610](https://bahaiprayers.net/Book/Single/62/7610)
+
 
 ----
 
@@ -132,7 +141,10 @@ bpn7610
 
 -- Báb
 
-bpn7022 
+Prayer bpn7022 in Kalaallisut (bpn7022) 
+
+[bahaiprayers.net 7022](https://bahaiprayers.net/Book/Single/62/7022)
+
 
 ----
 
@@ -142,7 +154,10 @@ bpn7022
 
 -- Báb
 
-bpn7023 
+Prayer bpn7023 in Kalaallisut (bpn7023) 
+
+[bahaiprayers.net 7023](https://bahaiprayers.net/Book/Single/62/7023)
+
 
 ----
 
@@ -152,7 +167,10 @@ bpn7023
 
 -- Báb
 
-bpn7024 
+Prayer bpn7024 in Kalaallisut (bpn7024) 
+
+[bahaiprayers.net 7024](https://bahaiprayers.net/Book/Single/62/7024)
+
 
 ----
 
@@ -162,7 +180,10 @@ bpn7024
 
 -- Báb
 
-bpn7025 
+Prayer bpn7025 in Kalaallisut (bpn7025) 
+
+[bahaiprayers.net 7025](https://bahaiprayers.net/Book/Single/62/7025)
+
 
 ----
 
@@ -172,7 +193,10 @@ bpn7025
 
 -- Báb
 
-bpn7026 
+Prayer bpn7026 in Kalaallisut (bpn7026) 
+
+[bahaiprayers.net 7026](https://bahaiprayers.net/Book/Single/62/7026)
+
 
 ----
 
@@ -182,7 +206,10 @@ bpn7026
 
 -- Abdu'l-Bahá
 
-bpn7040 
+Prayer bpn7040 in Kalaallisut (bpn7040) 
+
+[bahaiprayers.net 7040](https://bahaiprayers.net/Book/Single/62/7040)
+
 
 ----
 
@@ -192,7 +219,10 @@ bpn7040
 
 -- Abdu'l-Bahá
 
-bpn7041 
+Prayer bpn7041 in Kalaallisut (bpn7041) 
+
+[bahaiprayers.net 7041](https://bahaiprayers.net/Book/Single/62/7041)
+
 
 ----
 
@@ -206,7 +236,10 @@ bpn7041
 
 -- Bahá'u'lláh
 
-bpn7019 
+Prayer bpn7019 in Kalaallisut (bpn7019) 
+
+[bahaiprayers.net 7019](https://bahaiprayers.net/Book/Single/62/7019)
+
 
 ----
 
@@ -216,7 +249,10 @@ bpn7019
 
 -- Bahá'u'lláh
 
-bpn8372 
+Prayer bpn8372 in Kalaallisut (bpn8372) 
+
+[bahaiprayers.net 8372](https://bahaiprayers.net/Book/Single/62/8372)
+
 
 ----
 
@@ -230,7 +266,10 @@ bpn8372
 
 -- Abdu'l-Bahá
 
-bpn12570 
+Prayer bpn12570 in Kalaallisut (bpn12570) 
+
+[bahaiprayers.net 12570](https://bahaiprayers.net/Book/Single/62/12570)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn12570
 
 -- Abdu'l-Bahá
 
-bpn12571 
+Prayer bpn12571 in Kalaallisut (bpn12571) 
+
+[bahaiprayers.net 12571](https://bahaiprayers.net/Book/Single/62/12571)
+
 
 ----
 
@@ -254,7 +296,10 @@ bpn12571
 
 -- Bahá'u'lláh
 
-bpn7018 
+Prayer bpn7018 in Kalaallisut (bpn7018) 
+
+[bahaiprayers.net 7018](https://bahaiprayers.net/Book/Single/62/7018)
+
 
 ----
 
@@ -264,7 +309,10 @@ bpn7018
 
 -- Abdu'l-Bahá
 
-bpn6863 
+Prayer bpn6863 in Kalaallisut (bpn6863) 
+
+[bahaiprayers.net 6863](https://bahaiprayers.net/Book/Single/62/6863)
+
 
 ----
 
@@ -278,7 +326,10 @@ bpn6863
 
 -- Abdu'l-Bahá
 
-bpn7017 
+Prayer bpn7017 in Kalaallisut (bpn7017) 
+
+[bahaiprayers.net 7017](https://bahaiprayers.net/Book/Single/62/7017)
+
 
 ----
 
@@ -292,7 +343,10 @@ bpn7017
 
 -- Abdu'l-Bahá
 
-bpn9114 
+Prayer bpn9114 in Kalaallisut (bpn9114) 
+
+[bahaiprayers.net 9114](https://bahaiprayers.net/Book/Single/62/9114)
+
 
 ----
 
@@ -306,7 +360,10 @@ bpn9114
 
 -- Bahá'u'lláh
 
-bpn7255 
+Prayer bpn7255 in Kalaallisut (bpn7255) 
+
+[bahaiprayers.net 7255](https://bahaiprayers.net/Book/Single/62/7255)
+
 
 ----
 
@@ -316,7 +373,10 @@ bpn7255
 
 -- Abdu'l-Bahá
 
-bpn7256 
+Prayer bpn7256 in Kalaallisut (bpn7256) 
+
+[bahaiprayers.net 7256](https://bahaiprayers.net/Book/Single/62/7256)
+
 
 ----
 
@@ -330,7 +390,10 @@ bpn7256
 
 -- Bahá'u'lláh
 
-bpn12579 
+Prayer bpn12579 in Kalaallisut (bpn12579) 
+
+[bahaiprayers.net 12579](https://bahaiprayers.net/Book/Single/62/12579)
+
 
 ----
 
@@ -340,7 +403,10 @@ bpn12579
 
 -- Abdu'l-Bahá
 
-bpn12572 
+Prayer bpn12572 in Kalaallisut (bpn12572) 
+
+[bahaiprayers.net 12572](https://bahaiprayers.net/Book/Single/62/12572)
+
 
 ----
 
@@ -350,7 +416,10 @@ bpn12572
 
 -- Abdu'l-Bahá
 
-bpn12573 
+Prayer bpn12573 in Kalaallisut (bpn12573) 
+
+[bahaiprayers.net 12573](https://bahaiprayers.net/Book/Single/62/12573)
+
 
 ----
 
@@ -360,7 +429,10 @@ bpn12573
 
 -- Abdu'l-Bahá
 
-bpn12574 
+Prayer bpn12574 in Kalaallisut (bpn12574) 
+
+[bahaiprayers.net 12574](https://bahaiprayers.net/Book/Single/62/12574)
+
 
 ----
 
@@ -374,7 +446,10 @@ bpn12574
 
 -- Bahá'u'lláh
 
-bpn9984 
+Prayer bpn9984 in Kalaallisut (bpn9984) 
+
+[bahaiprayers.net 9984](https://bahaiprayers.net/Book/Single/62/9984)
+
 
 ----
 
@@ -388,7 +463,10 @@ bpn9984
 
 -- Abdu'l-Bahá
 
-bpn12867 
+Prayer bpn12867 in Kalaallisut (bpn12867) 
+
+[bahaiprayers.net 12867](https://bahaiprayers.net/Book/Single/62/12867)
+
 
 ----
 
@@ -398,7 +476,10 @@ bpn12867
 
 -- Abdu'l-Bahá
 
-bpn6864 
+Prayer bpn6864 in Kalaallisut (bpn6864) 
+
+[bahaiprayers.net 6864](https://bahaiprayers.net/Book/Single/62/6864)
+
 
 ----
 
@@ -412,7 +493,10 @@ bpn6864
 
 -- Bahá'u'lláh
 
-bpn9979 
+Prayer bpn9979 in Kalaallisut (bpn9979) 
+
+[bahaiprayers.net 9979](https://bahaiprayers.net/Book/Single/62/9979)
+
 
 ----
 
@@ -422,7 +506,10 @@ bpn9979
 
 -- Bahá'u'lláh
 
-bpn9981 
+Prayer bpn9981 in Kalaallisut (bpn9981) 
+
+[bahaiprayers.net 9981](https://bahaiprayers.net/Book/Single/62/9981)
+
 
 ----
 
@@ -432,7 +519,10 @@ bpn9981
 
 -- Bahá'u'lláh
 
-bpn9980 
+Prayer bpn9980 in Kalaallisut (bpn9980) 
+
+[bahaiprayers.net 9980](https://bahaiprayers.net/Book/Single/62/9980)
+
 
 ----
 
@@ -442,7 +532,10 @@ bpn9980
 
 -- Abdu'l-Bahá
 
-bpn9982 
+Prayer bpn9982 in Kalaallisut (bpn9982) 
+
+[bahaiprayers.net 9982](https://bahaiprayers.net/Book/Single/62/9982)
+
 
 ----
 
@@ -456,7 +549,10 @@ bpn9982
 
 -- Bahá'u'lláh
 
-bpn7257 
+Prayer bpn7257 in Kalaallisut (bpn7257) 
+
+[bahaiprayers.net 7257](https://bahaiprayers.net/Book/Single/62/7257)
+
 
 ----
 
@@ -470,7 +566,10 @@ bpn7257
 
 -- Abdu'l-Bahá
 
-bpn7258 
+Prayer bpn7258 in Kalaallisut (bpn7258) 
+
+[bahaiprayers.net 7258](https://bahaiprayers.net/Book/Single/62/7258)
+
 
 ----
 
@@ -484,7 +583,10 @@ bpn7258
 
 -- Báb
 
-bpn7259 
+Prayer bpn7259 in Kalaallisut (bpn7259) 
+
+[bahaiprayers.net 7259](https://bahaiprayers.net/Book/Single/62/7259)
+
 
 ----
 
@@ -494,7 +596,10 @@ bpn7259
 
 -- Abdu'l-Bahá
 
-bpn7260 
+Prayer bpn7260 in Kalaallisut (bpn7260) 
+
+[bahaiprayers.net 7260](https://bahaiprayers.net/Book/Single/62/7260)
+
 
 ----
 
@@ -508,7 +613,10 @@ bpn7260
 
 -- Abdu'l-Bahá
 
-bpn7261 
+Prayer bpn7261 in Kalaallisut (bpn7261) 
+
+[bahaiprayers.net 7261](https://bahaiprayers.net/Book/Single/62/7261)
+
 
 ----
 
@@ -522,17 +630,10 @@ bpn7261
 
 -- Bahá'u'lláh
 
-bpn7262 
+Prayer bpn7262 in Kalaallisut (bpn7262) 
 
-----
+[bahaiprayers.net 7262](https://bahaiprayers.net/Book/Single/62/7262)
 
-
-<a id="bpn7263"></a> 
-<div class="prayer"><p class='dropCap'>Guuti, Saqqummersitanik tamanik Pinngortitsisoq, Aallaavinnullu tamanut Aallaavik. Saqqummersitanut tamanut nagguik, Qaamanernullu tamanut Aallarnerfik! Nalunaajaatigaara Atikkut paasinninnerup qilaa pinnersarneqarsimasoq, aammalu oqalunnerup imaa qorlorsimalluni, Isumaginninnerpillu nalunaajaataat siaruarterneqarsimallutik upperisat tamarmik malinnittuinut. </p><p>Qinnuigaakkit imatut pisuutigileqqullunga sunaluunniit Illiunngitsoq tunussinnaaleqqullugu, sumilluunniit tamanit kiffaanngitsooqqullunga Illiunngitsumik. Tukkussutsivillu nuiaanit siallerfiginnga sumiluunniit silarsuarni iluaqqutigisinnaasannik. Saammaassinernik nakussannartumik ikiunnga Siunertat kiffavit akornanni kiffartuutigeqqullugu, taamaalillunga uannik eqqaamanninneq ingerlaqqullugu Naalagaaffippit ataneratut sivisutigisumik.</p><p>Tassaavoq kiffat, Naalagaq-aa, pissutsini tamaat atorlugu Tukkussutsivit killingiusaanut, Saammaassinerpit imaanut Tunissutsivillu qilaanut saassimasoq. Angingaarsutsit, Alutornangaarsutsit, Tukkussutsit, Saammaasinerillu malillugit pinnga. </p><p>Ilumut Illit pissaanerup piginnaanerullu Guuteraatit, Tassaasoq qinusumik Akisussaq eqqortoq. Allamik Illiunngitsumik Guuteqanngilaq. Nalusaqanngitsoq, Ilisimatungaartoq.</p></div>
-
--- Bahá'u'lláh
-
-bpn7263 
 
 ----
 
@@ -542,7 +643,23 @@ bpn7263
 
 -- Bahá'u'lláh
 
-bpn12580 
+Prayer bpn12580 in Kalaallisut (bpn12580) 
+
+[bahaiprayers.net 12580](https://bahaiprayers.net/Book/Single/62/12580)
+
+
+----
+
+
+<a id="bpn7263"></a> 
+<div class="prayer"><p class='dropCap'>Guuti-aa, Saqqummersitanik tamanik Pinngortitsisoq, Aallaavinnullu tamanut Aallaavik. Saqqummersitanut tamanut nagguik, Qaamanernullu tamanut Aallarnerfik! Nalunaajaatigaara Atikkut paasinninnerup qilaa pinnersarneqarsimasoq, aammalu oqalunnerup imaa qorlorsimalluni, Isumaginninnerpillu nalunaajaataat siaruarterneqarsimallutik upperisat tamarmik malinnittuinut. </p><p>Qinnuigaakkit imatut pisuutigileqqullunga sunaluunniit Illiunngitsoq tunussinnaaleqqullugu, sumilluunniit tamanit kiffaanngitsooqqullunga Illiunngitsumik. Tukkussutsivillu nuiaanit siallerfiginnga sumiluunniit silarsuarni iluaqutigisinnaasannik. Saammaassinernik nakussannartumik ikiunnga Siunertat kiffavit akornanni kiffartuutigeqqullugu, taamaalillunga uannik eqqaamanninneq ingerlaqqullugu Naalagaaffippit ataneratut sivisutigisumik.</p><p>Tassaavoq kiffat, Naalagaq-aa, pissutsini tamaat atorlugu Tukkussutsivit killingiusaanut, Saammaassinerpit imaanut Tunissutsivillu qilaanut saassimasoq. Angingaarsutsit, Alutornangaarsutsit, Tukkussutsit, Saammaasinerillu malillugit pinnga. </p><p>Ilumut Illit pissaanerup piginnaanerullu Guuteraatit, Tassaasoq qinusumik Akisussaq eqqortoq. Allamik Illiunngitsumik Guuteqanngilaq. Nalusaqanngitsoq, Ilisimatungaartoq.</p></div>
+
+-- Bahá'u'lláh
+
+Prayer bpn7263 in Kalaallisut (bpn7263) 
+
+[bahaiprayers.net 7263](https://bahaiprayers.net/Book/Single/62/7263)
+
 
 ----
 
@@ -552,7 +669,10 @@ bpn12580
 
 -- Abdu'l-Bahá
 
-bpn7264 
+Prayer bpn7264 in Kalaallisut (bpn7264) 
+
+[bahaiprayers.net 7264](https://bahaiprayers.net/Book/Single/62/7264)
+
 
 ----
 
@@ -562,7 +682,10 @@ bpn7264
 
 -- Abdu'l-Bahá
 
-bpn7265 
+Prayer bpn7265 in Kalaallisut (bpn7265) 
+
+[bahaiprayers.net 7265](https://bahaiprayers.net/Book/Single/62/7265)
+
 
 ----
 
@@ -576,7 +699,10 @@ bpn7265
 
 -- Abdu'l-Bahá
 
-bpn9115 
+Prayer bpn9115 in Kalaallisut (bpn9115) 
+
+[bahaiprayers.net 9115](https://bahaiprayers.net/Book/Single/62/9115)
+
 
 ----
 
@@ -586,7 +712,10 @@ bpn9115
 
 -- Abdu'l-Bahá
 
-bpn9116 
+Prayer bpn9116 in Kalaallisut (bpn9116) 
+
+[bahaiprayers.net 9116](https://bahaiprayers.net/Book/Single/62/9116)
+
 
 ----
 
@@ -596,7 +725,10 @@ bpn9116
 
 -- Abdu'l-Bahá
 
-bpn9118 
+Prayer bpn9118 in Kalaallisut (bpn9118) 
+
+[bahaiprayers.net 9118](https://bahaiprayers.net/Book/Single/62/9118)
+
 
 ----
 
@@ -606,7 +738,10 @@ bpn9118
 
 -- Abdu'l-Bahá
 
-bpn9122 
+Prayer bpn9122 in Kalaallisut (bpn9122) 
+
+[bahaiprayers.net 9122](https://bahaiprayers.net/Book/Single/62/9122)
+
 
 ----
 
@@ -616,7 +751,10 @@ bpn9122
 
 -- Abdu'l-Bahá
 
-bpn9124 
+Prayer bpn9124 in Kalaallisut (bpn9124) 
+
+[bahaiprayers.net 9124](https://bahaiprayers.net/Book/Single/62/9124)
+
 
 ----
 
@@ -626,7 +764,10 @@ bpn9124
 
 -- Abdu'l-Bahá
 
-bpn9117 
+Prayer bpn9117 in Kalaallisut (bpn9117) 
+
+[bahaiprayers.net 9117](https://bahaiprayers.net/Book/Single/62/9117)
+
 
 ----
 
@@ -636,7 +777,10 @@ bpn9117
 
 -- Abdu'l-Bahá
 
-bpn9123 
+Prayer bpn9123 in Kalaallisut (bpn9123) 
+
+[bahaiprayers.net 9123](https://bahaiprayers.net/Book/Single/62/9123)
+
 
 ----
 
@@ -650,7 +794,10 @@ bpn9123
 
 -- Abdu'l-Bahá
 
-bpn7266 
+Prayer bpn7266 in Kalaallisut (bpn7266) 
+
+[bahaiprayers.net 7266](https://bahaiprayers.net/Book/Single/62/7266)
+
 
 ----
 
@@ -664,7 +811,10 @@ bpn7266
 
 -- Bahá'u'lláh
 
-bpn9960 
+Prayer bpn9960 in Kalaallisut (bpn9960) 
+
+[bahaiprayers.net 9960](https://bahaiprayers.net/Book/Single/62/9960)
+
 
 ----
 
@@ -674,7 +824,10 @@ bpn9960
 
 -- Bahá'u'lláh
 
-bpn9961 
+Prayer bpn9961 in Kalaallisut (bpn9961) 
+
+[bahaiprayers.net 9961](https://bahaiprayers.net/Book/Single/62/9961)
+
 
 ----
 
@@ -684,7 +837,10 @@ bpn9961
 
 -- Bahá'u'lláh
 
-bpn9962 
+Prayer bpn9962 in Kalaallisut (bpn9962) 
+
+[bahaiprayers.net 9962](https://bahaiprayers.net/Book/Single/62/9962)
+
 
 ----
 
@@ -694,7 +850,10 @@ bpn9962
 
 -- Bahá'u'lláh
 
-bpn9963 
+Prayer bpn9963 in Kalaallisut (bpn9963) 
+
+[bahaiprayers.net 9963](https://bahaiprayers.net/Book/Single/62/9963)
+
 
 ----
 
@@ -704,7 +863,10 @@ bpn9963
 
 -- Bahá'u'lláh
 
-bpn7015 
+Prayer bpn7015 in Kalaallisut (bpn7015) 
+
+[bahaiprayers.net 7015](https://bahaiprayers.net/Book/Single/62/7015)
+
 
 ----
 
@@ -714,7 +876,10 @@ bpn7015
 
 -- Bahá'u'lláh
 
-bpn7016 
+Prayer bpn7016 in Kalaallisut (bpn7016) 
+
+[bahaiprayers.net 7016](https://bahaiprayers.net/Book/Single/62/7016)
+
 
 ----
 
@@ -724,7 +889,10 @@ bpn7016
 
 -- Báb
 
-bpn9964 
+Prayer bpn9964 in Kalaallisut (bpn9964) 
+
+[bahaiprayers.net 9964](https://bahaiprayers.net/Book/Single/62/9964)
+
 
 ----
 
@@ -734,7 +902,10 @@ bpn9964
 
 -- Báb
 
-bpn9965 
+Prayer bpn9965 in Kalaallisut (bpn9965) 
+
+[bahaiprayers.net 9965](https://bahaiprayers.net/Book/Single/62/9965)
+
 
 ----
 
@@ -744,7 +915,10 @@ bpn9965
 
 -- Báb
 
-bpn9966 
+Prayer bpn9966 in Kalaallisut (bpn9966) 
+
+[bahaiprayers.net 9966](https://bahaiprayers.net/Book/Single/62/9966)
+
 
 ----
 
@@ -754,7 +928,10 @@ bpn9966
 
 -- Báb
 
-bpn9967 
+Prayer bpn9967 in Kalaallisut (bpn9967) 
+
+[bahaiprayers.net 9967](https://bahaiprayers.net/Book/Single/62/9967)
+
 
 ----
 
@@ -764,7 +941,10 @@ bpn9967
 
 -- Báb
 
-bpn9968 
+Prayer bpn9968 in Kalaallisut (bpn9968) 
+
+[bahaiprayers.net 9968](https://bahaiprayers.net/Book/Single/62/9968)
+
 
 ----
 
@@ -774,7 +954,10 @@ bpn9968
 
 -- Abdu'l-Bahá
 
-bpn9969 
+Prayer bpn9969 in Kalaallisut (bpn9969) 
+
+[bahaiprayers.net 9969](https://bahaiprayers.net/Book/Single/62/9969)
+
 
 ----
 
@@ -784,7 +967,10 @@ bpn9969
 
 -- Abdu'l-Bahá
 
-bpn9970 
+Prayer bpn9970 in Kalaallisut (bpn9970) 
+
+[bahaiprayers.net 9970](https://bahaiprayers.net/Book/Single/62/9970)
+
 
 ----
 
@@ -798,7 +984,10 @@ bpn9970
 
 -- Bahá'u'lláh
 
-bpn9120 
+Prayer bpn9120 in Kalaallisut (bpn9120) 
+
+[bahaiprayers.net 9120](https://bahaiprayers.net/Book/Single/62/9120)
+
 
 ----
 
@@ -812,7 +1001,10 @@ bpn9120
 
 -- Bahá'u'lláh
 
-bpn9971 
+Prayer bpn9971 in Kalaallisut (bpn9971) 
+
+[bahaiprayers.net 9971](https://bahaiprayers.net/Book/Single/62/9971)
+
 
 ----
 
@@ -822,7 +1014,10 @@ bpn9971
 
 -- Bahá'u'lláh
 
-bpn12575 
+Prayer bpn12575 in Kalaallisut (bpn12575) 
+
+[bahaiprayers.net 12575](https://bahaiprayers.net/Book/Single/62/12575)
+
 
 ----
 
@@ -832,7 +1027,10 @@ bpn12575
 
 -- Abdu'l-Bahá
 
-bpn9972 
+Prayer bpn9972 in Kalaallisut (bpn9972) 
+
+[bahaiprayers.net 9972](https://bahaiprayers.net/Book/Single/62/9972)
+
 
 ----
 
@@ -842,7 +1040,10 @@ bpn9972
 
 -- Abdu'l-Bahá
 
-bpn12576 
+Prayer bpn12576 in Kalaallisut (bpn12576) 
+
+[bahaiprayers.net 12576](https://bahaiprayers.net/Book/Single/62/12576)
+
 
 ----
 
@@ -856,7 +1057,10 @@ bpn12576
 
 -- Bahá'u'lláh
 
-bpn7014 
+Prayer bpn7014 in Kalaallisut (bpn7014) 
+
+[bahaiprayers.net 7014](https://bahaiprayers.net/Book/Single/62/7014)
+
 
 ----
 
@@ -870,7 +1074,10 @@ bpn7014
 
 -- Bahá'u'lláh
 
-bpn10521 
+Prayer bpn10521 in Kalaallisut (bpn10521) 
+
+[bahaiprayers.net 10521](https://bahaiprayers.net/Book/Single/62/10521)
+
 
 ----
 
@@ -880,7 +1087,10 @@ bpn10521
 
 -- Bahá'u'lláh
 
-bpn10522 
+Prayer bpn10522 in Kalaallisut (bpn10522) 
+
+[bahaiprayers.net 10522](https://bahaiprayers.net/Book/Single/62/10522)
+
 
 ----
 
@@ -890,7 +1100,10 @@ bpn10522
 
 -- Abdu'l-Bahá
 
-bpn10523 
+Prayer bpn10523 in Kalaallisut (bpn10523) 
+
+[bahaiprayers.net 10523](https://bahaiprayers.net/Book/Single/62/10523)
+
 
 ----
 
@@ -900,7 +1113,10 @@ bpn10523
 
 -- Abdu'l-Bahá
 
-bpn10524 
+Prayer bpn10524 in Kalaallisut (bpn10524) 
+
+[bahaiprayers.net 10524](https://bahaiprayers.net/Book/Single/62/10524)
+
 
 ----
 
@@ -910,7 +1126,10 @@ bpn10524
 
 -- Abdu'l-Bahá
 
-bpn10525 
+Prayer bpn10525 in Kalaallisut (bpn10525) 
+
+[bahaiprayers.net 10525](https://bahaiprayers.net/Book/Single/62/10525)
+
 
 ----
 
@@ -920,7 +1139,10 @@ bpn10525
 
 -- Abdu'l-Bahá
 
-bpn10526 
+Prayer bpn10526 in Kalaallisut (bpn10526) 
+
+[bahaiprayers.net 10526](https://bahaiprayers.net/Book/Single/62/10526)
+
 
 ----
 
@@ -930,7 +1152,10 @@ bpn10526
 
 -- Abdu'l-Bahá
 
-bpn10527 
+Prayer bpn10527 in Kalaallisut (bpn10527) 
+
+[bahaiprayers.net 10527](https://bahaiprayers.net/Book/Single/62/10527)
+
 
 ----
 
@@ -944,7 +1169,10 @@ bpn10527
 
 -- Bahá'u'lláh
 
-bpn9986 
+Prayer bpn9986 in Kalaallisut (bpn9986) 
+
+[bahaiprayers.net 9986](https://bahaiprayers.net/Book/Single/62/9986)
+
 
 ----
 
@@ -954,7 +1182,10 @@ bpn9986
 
 -- Abdu'l-Bahá
 
-bpn9987 
+Prayer bpn9987 in Kalaallisut (bpn9987) 
+
+[bahaiprayers.net 9987](https://bahaiprayers.net/Book/Single/62/9987)
+
 
 ----
 
@@ -968,7 +1199,10 @@ bpn9987
 
 -- Bahá'u'lláh
 
-bpn6849 
+Prayer bpn6849 in Kalaallisut (bpn6849) 
+
+[bahaiprayers.net 6849](https://bahaiprayers.net/Book/Single/62/6849)
+
 
 ----
 
@@ -982,7 +1216,10 @@ bpn6849
 
 -- Bahá'u'lláh
 
-bpn9959 
+Prayer bpn9959 in Kalaallisut (bpn9959) 
+
+[bahaiprayers.net 9959](https://bahaiprayers.net/Book/Single/62/9959)
+
 
 ----
 
@@ -996,7 +1233,10 @@ bpn9959
 
 -- Bahá'u'lláh
 
-bpn9113 
+Prayer bpn9113 in Kalaallisut (bpn9113) 
+
+[bahaiprayers.net 9113](https://bahaiprayers.net/Book/Single/62/9113)
+
 
 ----
 
@@ -1010,7 +1250,10 @@ bpn9113
 
 -- Bahá'u'lláh
 
-bpn10529 
+Prayer bpn10529 in Kalaallisut (bpn10529) 
+
+[bahaiprayers.net 10529](https://bahaiprayers.net/Book/Single/62/10529)
+
 
 ----
 
@@ -1020,7 +1263,10 @@ bpn10529
 
 -- Bahá'u'lláh
 
-bpn10530 
+Prayer bpn10530 in Kalaallisut (bpn10530) 
+
+[bahaiprayers.net 10530](https://bahaiprayers.net/Book/Single/62/10530)
+
 
 ----
 
@@ -1030,7 +1276,10 @@ bpn10530
 
 -- Báb
 
-bpn10528 
+Prayer bpn10528 in Kalaallisut (bpn10528) 
+
+[bahaiprayers.net 10528](https://bahaiprayers.net/Book/Single/62/10528)
+
 
 ----
 
@@ -1040,7 +1289,10 @@ bpn10528
 
 -- Báb
 
-bpn10531 
+Prayer bpn10531 in Kalaallisut (bpn10531) 
+
+[bahaiprayers.net 10531](https://bahaiprayers.net/Book/Single/62/10531)
+
 
 ----
 
@@ -1050,7 +1302,10 @@ bpn10531
 
 -- Báb
 
-bpn10533 
+Prayer bpn10533 in Kalaallisut (bpn10533) 
+
+[bahaiprayers.net 10533](https://bahaiprayers.net/Book/Single/62/10533)
+
 
 ----
 
@@ -1060,7 +1315,10 @@ bpn10533
 
 -- Abdu'l-Bahá
 
-bpn10532 
+Prayer bpn10532 in Kalaallisut (bpn10532) 
+
+[bahaiprayers.net 10532](https://bahaiprayers.net/Book/Single/62/10532)
+
 
 ----
 
@@ -1074,7 +1332,10 @@ bpn10532
 
 -- Bahá'u'lláh
 
-bpn9105 
+Prayer bpn9105 in Kalaallisut (bpn9105) 
+
+[bahaiprayers.net 9105](https://bahaiprayers.net/Book/Single/62/9105)
+
 
 ----
 
@@ -1084,7 +1345,10 @@ bpn9105
 
 -- Bahá'u'lláh
 
-bpn12577 
+Prayer bpn12577 in Kalaallisut (bpn12577) 
+
+[bahaiprayers.net 12577](https://bahaiprayers.net/Book/Single/62/12577)
+
 
 ----
 
@@ -1094,7 +1358,10 @@ bpn12577
 
 -- Abdu'l-Bahá
 
-bpn9121 
+Prayer bpn9121 in Kalaallisut (bpn9121) 
+
+[bahaiprayers.net 9121](https://bahaiprayers.net/Book/Single/62/9121)
+
 
 ----
 
@@ -1108,7 +1375,10 @@ bpn9121
 
 -- Bahá'u'lláh
 
-bpn9983 
+Prayer bpn9983 in Kalaallisut (bpn9983) 
+
+[bahaiprayers.net 9983](https://bahaiprayers.net/Book/Single/62/9983)
+
 
 ----
 
@@ -1122,7 +1392,10 @@ bpn9983
 
 -- Bahá'u'lláh
 
-bpn10534 
+Prayer bpn10534 in Kalaallisut (bpn10534) 
+
+[bahaiprayers.net 10534](https://bahaiprayers.net/Book/Single/62/10534)
+
 
 ----
 
@@ -1132,7 +1405,10 @@ bpn10534
 
 -- Bahá'u'lláh
 
-bpn10535 
+Prayer bpn10535 in Kalaallisut (bpn10535) 
+
+[bahaiprayers.net 10535](https://bahaiprayers.net/Book/Single/62/10535)
+
 
 ----
 
@@ -1142,7 +1418,10 @@ bpn10535
 
 -- Bahá'u'lláh
 
-bpn10536 
+Prayer bpn10536 in Kalaallisut (bpn10536) 
+
+[bahaiprayers.net 10536](https://bahaiprayers.net/Book/Single/62/10536)
+
 
 ----
 
@@ -1156,7 +1435,10 @@ bpn10536
 
 -- Bahá'u'lláh
 
-bpn9978 
+Prayer bpn9978 in Kalaallisut (bpn9978) 
+
+[bahaiprayers.net 9978](https://bahaiprayers.net/Book/Single/62/9978)
+
 
 ----
 
@@ -1170,7 +1452,10 @@ bpn9978
 
 -- Bahá'u'lláh
 
-bpn9985 
+Prayer bpn9985 in Kalaallisut (bpn9985) 
+
+[bahaiprayers.net 9985](https://bahaiprayers.net/Book/Single/62/9985)
+
 
 ----
 
@@ -1184,7 +1469,10 @@ bpn9985
 
 -- Bahá'u'lláh
 
-bpn9119 
+Prayer bpn9119 in Kalaallisut (bpn9119) 
+
+[bahaiprayers.net 9119](https://bahaiprayers.net/Book/Single/62/9119)
+
 
 ----
 
@@ -1198,7 +1486,10 @@ bpn9119
 
 -- Abdu'l-Bahá
 
-bpn9973 
+Prayer bpn9973 in Kalaallisut (bpn9973) 
+
+[bahaiprayers.net 9973](https://bahaiprayers.net/Book/Single/62/9973)
+
 
 ----
 
@@ -1212,7 +1503,10 @@ bpn9973
 
 -- Bahá'u'lláh
 
-bpn9974 
+Prayer bpn9974 in Kalaallisut (bpn9974) 
+
+[bahaiprayers.net 9974](https://bahaiprayers.net/Book/Single/62/9974)
+
 
 ----
 
@@ -1226,7 +1520,10 @@ bpn9974
 
 -- Báb
 
-bpn9976 
+Prayer bpn9976 in Kalaallisut (bpn9976) 
+
+[bahaiprayers.net 9976](https://bahaiprayers.net/Book/Single/62/9976)
+
 
 ----
 
@@ -1236,7 +1533,10 @@ bpn9976
 
 -- Báb
 
-bpn9975 
+Prayer bpn9975 in Kalaallisut (bpn9975) 
+
+[bahaiprayers.net 9975](https://bahaiprayers.net/Book/Single/62/9975)
+
 
 ----
 
@@ -1246,7 +1546,10 @@ bpn9975
 
 -- Abdu'l-Bahá
 
-bpn9977 
+Prayer bpn9977 in Kalaallisut (bpn9977) 
+
+[bahaiprayers.net 9977](https://bahaiprayers.net/Book/Single/62/9977)
+
 
 ----
 

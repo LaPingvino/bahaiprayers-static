@@ -52,7 +52,10 @@ tags = ['lang=et', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3683 
+Prayer bpn3683 in Eesti (bpn3683) 
+
+[bahaiprayers.net 3683](https://bahaiprayers.net/Book/Single/25/3683)
+
 
 ----
 
@@ -62,7 +65,10 @@ bpn3683
 
 -- Bahá'u'lláh
 
-bpn3684 
+Prayer bpn3684 in Eesti (bpn3684) 
+
+[bahaiprayers.net 3684](https://bahaiprayers.net/Book/Single/25/3684)
+
 
 ----
 
@@ -72,7 +78,10 @@ bpn3684
 
 -- Báb
 
-bpn3685 
+Prayer bpn3685 in Eesti (bpn3685) 
+
+[bahaiprayers.net 3685](https://bahaiprayers.net/Book/Single/25/3685)
+
 
 ----
 
@@ -82,7 +91,10 @@ bpn3685
 
 -- Báb
 
-bpn3686 
+Prayer bpn3686 in Eesti (bpn3686) 
+
+[bahaiprayers.net 3686](https://bahaiprayers.net/Book/Single/25/3686)
+
 
 ----
 
@@ -92,7 +104,10 @@ bpn3686
 
 -- Abdu'l-Bahá
 
-bpn3687 
+Prayer bpn3687 in Eesti (bpn3687) 
+
+[bahaiprayers.net 3687](https://bahaiprayers.net/Book/Single/25/3687)
+
 
 ----
 
@@ -106,7 +121,10 @@ bpn3687
 
 -- Abdu'l-Bahá
 
-bpn3721 
+Prayer bpn3721 in Eesti (bpn3721) 
+
+[bahaiprayers.net 3721](https://bahaiprayers.net/Book/Single/25/3721)
+
 
 ----
 
@@ -120,7 +138,10 @@ bpn3721
 
 -- Abdu'l-Bahá
 
-bpn3722 
+Prayer bpn3722 in Eesti (bpn3722) 
+
+[bahaiprayers.net 3722](https://bahaiprayers.net/Book/Single/25/3722)
+
 
 ----
 
@@ -134,7 +155,10 @@ bpn3722
 
 -- Bahá'u'lláh
 
-bpn3688 
+Prayer bpn3688 in Eesti (bpn3688) 
+
+[bahaiprayers.net 3688](https://bahaiprayers.net/Book/Single/25/3688)
+
 
 ----
 
@@ -144,7 +168,10 @@ bpn3688
 
 -- Bahá'u'lláh
 
-bpn3689 
+Prayer bpn3689 in Eesti (bpn3689) 
+
+[bahaiprayers.net 3689](https://bahaiprayers.net/Book/Single/25/3689)
+
 
 ----
 
@@ -154,7 +181,10 @@ bpn3689
 
 -- Báb
 
-bpn3690 
+Prayer bpn3690 in Eesti (bpn3690) 
+
+[bahaiprayers.net 3690](https://bahaiprayers.net/Book/Single/25/3690)
+
 
 ----
 
@@ -164,7 +194,10 @@ bpn3690
 
 -- Báb
 
-bpn3691 
+Prayer bpn3691 in Eesti (bpn3691) 
+
+[bahaiprayers.net 3691](https://bahaiprayers.net/Book/Single/25/3691)
+
 
 ----
 
@@ -174,7 +207,10 @@ bpn3691
 
 -- Báb
 
-bpn3692 
+Prayer bpn3692 in Eesti (bpn3692) 
+
+[bahaiprayers.net 3692](https://bahaiprayers.net/Book/Single/25/3692)
+
 
 ----
 
@@ -184,7 +220,10 @@ bpn3692
 
 -- Abdu'l-Bahá
 
-bpn3693 
+Prayer bpn3693 in Eesti (bpn3693) 
+
+[bahaiprayers.net 3693](https://bahaiprayers.net/Book/Single/25/3693)
+
 
 ----
 
@@ -194,7 +233,10 @@ bpn3693
 
 -- Abdu'l-Bahá
 
-bpn3694 
+Prayer bpn3694 in Eesti (bpn3694) 
+
+[bahaiprayers.net 3694](https://bahaiprayers.net/Book/Single/25/3694)
+
 
 ----
 
@@ -208,7 +250,10 @@ bpn3694
 
 -- Bahá'u'lláh
 
-bpn3695 
+Prayer bpn3695 in Eesti (bpn3695) 
+
+[bahaiprayers.net 3695](https://bahaiprayers.net/Book/Single/25/3695)
+
 
 ----
 
@@ -218,7 +263,10 @@ bpn3695
 
 -- Bahá'u'lláh
 
-bpn3696 
+Prayer bpn3696 in Eesti (bpn3696) 
+
+[bahaiprayers.net 3696](https://bahaiprayers.net/Book/Single/25/3696)
+
 
 ----
 
@@ -228,7 +276,10 @@ bpn3696
 
 -- Báb
 
-bpn3697 
+Prayer bpn3697 in Eesti (bpn3697) 
+
+[bahaiprayers.net 3697](https://bahaiprayers.net/Book/Single/25/3697)
+
 
 ----
 
@@ -238,7 +289,10 @@ bpn3697
 
 -- Abdu'l-Bahá
 
-bpn3698 
+Prayer bpn3698 in Eesti (bpn3698) 
+
+[bahaiprayers.net 3698](https://bahaiprayers.net/Book/Single/25/3698)
+
 
 ----
 
@@ -252,7 +306,10 @@ bpn3698
 
 -- Bahá'u'lláh
 
-bpn3699 
+Prayer bpn3699 in Eesti (bpn3699) 
+
+[bahaiprayers.net 3699](https://bahaiprayers.net/Book/Single/25/3699)
+
 
 ----
 
@@ -262,7 +319,10 @@ bpn3699
 
 -- Bahá'u'lláh
 
-bpn3700 
+Prayer bpn3700 in Eesti (bpn3700) 
+
+[bahaiprayers.net 3700](https://bahaiprayers.net/Book/Single/25/3700)
+
 
 ----
 
@@ -272,7 +332,10 @@ bpn3700
 
 -- Bahá'u'lláh
 
-bpn3701 
+Prayer bpn3701 in Eesti (bpn3701) 
+
+[bahaiprayers.net 3701](https://bahaiprayers.net/Book/Single/25/3701)
+
 
 ----
 
@@ -286,7 +349,10 @@ bpn3701
 
 -- Bahá'u'lláh
 
-bpn3702 
+Prayer bpn3702 in Eesti (bpn3702) 
+
+[bahaiprayers.net 3702](https://bahaiprayers.net/Book/Single/25/3702)
+
 
 ----
 
@@ -296,7 +362,10 @@ bpn3702
 
 -- Abdu'l-Bahá
 
-bpn3703 
+Prayer bpn3703 in Eesti (bpn3703) 
+
+[bahaiprayers.net 3703](https://bahaiprayers.net/Book/Single/25/3703)
+
 
 ----
 
@@ -306,7 +375,10 @@ bpn3703
 
 -- Abdu'l-Bahá
 
-bpn3704 
+Prayer bpn3704 in Eesti (bpn3704) 
+
+[bahaiprayers.net 3704](https://bahaiprayers.net/Book/Single/25/3704)
+
 
 ----
 
@@ -320,7 +392,10 @@ bpn3704
 
 -- Báb
 
-bpn3705 
+Prayer bpn3705 in Eesti (bpn3705) 
+
+[bahaiprayers.net 3705](https://bahaiprayers.net/Book/Single/25/3705)
+
 
 ----
 
@@ -330,7 +405,10 @@ bpn3705
 
 -- Abdu'l-Bahá
 
-bpn3706 
+Prayer bpn3706 in Eesti (bpn3706) 
+
+[bahaiprayers.net 3706](https://bahaiprayers.net/Book/Single/25/3706)
+
 
 ----
 
@@ -340,7 +418,10 @@ bpn3706
 
 -- Abdu'l-Bahá
 
-bpn3707 
+Prayer bpn3707 in Eesti (bpn3707) 
+
+[bahaiprayers.net 3707](https://bahaiprayers.net/Book/Single/25/3707)
+
 
 ----
 
@@ -350,7 +431,10 @@ bpn3707
 
 -- Abdu'l-Bahá
 
-bpn3708 
+Prayer bpn3708 in Eesti (bpn3708) 
+
+[bahaiprayers.net 3708](https://bahaiprayers.net/Book/Single/25/3708)
+
 
 ----
 
@@ -364,7 +448,10 @@ bpn3708
 
 -- Bahá'u'lláh
 
-bpn3709 
+Prayer bpn3709 in Eesti (bpn3709) 
+
+[bahaiprayers.net 3709](https://bahaiprayers.net/Book/Single/25/3709)
+
 
 ----
 
@@ -374,7 +461,10 @@ bpn3709
 
 -- Bahá'u'lláh
 
-bpn3710 
+Prayer bpn3710 in Eesti (bpn3710) 
+
+[bahaiprayers.net 3710](https://bahaiprayers.net/Book/Single/25/3710)
+
 
 ----
 
@@ -384,7 +474,10 @@ bpn3710
 
 -- Bahá'u'lláh
 
-bpn3716 
+Prayer bpn3716 in Eesti (bpn3716) 
+
+[bahaiprayers.net 3716](https://bahaiprayers.net/Book/Single/25/3716)
+
 
 ----
 
@@ -394,7 +487,10 @@ bpn3716
 
 -- Bahá'u'lláh
 
-bpn3717 
+Prayer bpn3717 in Eesti (bpn3717) 
+
+[bahaiprayers.net 3717](https://bahaiprayers.net/Book/Single/25/3717)
+
 
 ----
 
@@ -404,7 +500,10 @@ bpn3717
 
 -- Báb
 
-bpn3711 
+Prayer bpn3711 in Eesti (bpn3711) 
+
+[bahaiprayers.net 3711](https://bahaiprayers.net/Book/Single/25/3711)
+
 
 ----
 
@@ -414,7 +513,10 @@ bpn3711
 
 -- Báb
 
-bpn3712 
+Prayer bpn3712 in Eesti (bpn3712) 
+
+[bahaiprayers.net 3712](https://bahaiprayers.net/Book/Single/25/3712)
+
 
 ----
 
@@ -424,7 +526,10 @@ bpn3712
 
 -- Báb
 
-bpn3713 
+Prayer bpn3713 in Eesti (bpn3713) 
+
+[bahaiprayers.net 3713](https://bahaiprayers.net/Book/Single/25/3713)
+
 
 ----
 
@@ -434,7 +539,10 @@ bpn3713
 
 -- Báb
 
-bpn3714 
+Prayer bpn3714 in Eesti (bpn3714) 
+
+[bahaiprayers.net 3714](https://bahaiprayers.net/Book/Single/25/3714)
+
 
 ----
 
@@ -444,7 +552,10 @@ bpn3714
 
 -- Abdu'l-Bahá
 
-bpn3715 
+Prayer bpn3715 in Eesti (bpn3715) 
+
+[bahaiprayers.net 3715](https://bahaiprayers.net/Book/Single/25/3715)
+
 
 ----
 
@@ -458,7 +569,10 @@ bpn3715
 
 -- Bahá'u'lláh
 
-bpn3718 
+Prayer bpn3718 in Eesti (bpn3718) 
+
+[bahaiprayers.net 3718](https://bahaiprayers.net/Book/Single/25/3718)
+
 
 ----
 
@@ -468,7 +582,10 @@ bpn3718
 
 -- Bahá'u'lláh
 
-bpn3719 
+Prayer bpn3719 in Eesti (bpn3719) 
+
+[bahaiprayers.net 3719](https://bahaiprayers.net/Book/Single/25/3719)
+
 
 ----
 
@@ -478,7 +595,10 @@ bpn3719
 
 -- Abdu'l-Bahá
 
-bpn3720 
+Prayer bpn3720 in Eesti (bpn3720) 
+
+[bahaiprayers.net 3720](https://bahaiprayers.net/Book/Single/25/3720)
+
 
 ----
 
@@ -492,7 +612,10 @@ bpn3720
 
 -- Abdu'l-Bahá
 
-bpn3723 
+Prayer bpn3723 in Eesti (bpn3723) 
+
+[bahaiprayers.net 3723](https://bahaiprayers.net/Book/Single/25/3723)
+
 
 ----
 
@@ -502,7 +625,10 @@ bpn3723
 
 -- Abdu'l-Bahá
 
-bpn3724 
+Prayer bpn3724 in Eesti (bpn3724) 
+
+[bahaiprayers.net 3724](https://bahaiprayers.net/Book/Single/25/3724)
+
 
 ----
 
@@ -512,7 +638,10 @@ bpn3724
 
 -- Abdu'l-Bahá
 
-bpn3725 
+Prayer bpn3725 in Eesti (bpn3725) 
+
+[bahaiprayers.net 3725](https://bahaiprayers.net/Book/Single/25/3725)
+
 
 ----
 
@@ -522,7 +651,10 @@ bpn3725
 
 -- Abdu'l-Bahá
 
-bpn3726 
+Prayer bpn3726 in Eesti (bpn3726) 
+
+[bahaiprayers.net 3726](https://bahaiprayers.net/Book/Single/25/3726)
+
 
 ----
 
@@ -532,7 +664,10 @@ bpn3726
 
 -- Abdu'l-Bahá
 
-bpn3727 
+Prayer bpn3727 in Eesti (bpn3727) 
+
+[bahaiprayers.net 3727](https://bahaiprayers.net/Book/Single/25/3727)
+
 
 ----
 
@@ -546,7 +681,10 @@ bpn3727
 
 -- Abdu'l-Bahá
 
-bpn3728 
+Prayer bpn3728 in Eesti (bpn3728) 
+
+[bahaiprayers.net 3728](https://bahaiprayers.net/Book/Single/25/3728)
+
 
 ----
 
@@ -560,7 +698,10 @@ bpn3728
 
 -- Bahá'u'lláh
 
-bpn3731 
+Prayer bpn3731 in Eesti (bpn3731) 
+
+[bahaiprayers.net 3731](https://bahaiprayers.net/Book/Single/25/3731)
+
 
 ----
 
@@ -570,7 +711,10 @@ bpn3731
 
 -- Bahá'u'lláh
 
-bpn3732 
+Prayer bpn3732 in Eesti (bpn3732) 
+
+[bahaiprayers.net 3732](https://bahaiprayers.net/Book/Single/25/3732)
+
 
 ----
 
@@ -580,7 +724,10 @@ bpn3732
 
 -- Bahá'u'lláh
 
-bpn3733 
+Prayer bpn3733 in Eesti (bpn3733) 
+
+[bahaiprayers.net 3733](https://bahaiprayers.net/Book/Single/25/3733)
+
 
 ----
 
@@ -594,7 +741,10 @@ bpn3733
 
 -- Abdu'l-Bahá
 
-bpn3734 
+Prayer bpn3734 in Eesti (bpn3734) 
+
+[bahaiprayers.net 3734](https://bahaiprayers.net/Book/Single/25/3734)
+
 
 ----
 
@@ -608,7 +758,10 @@ bpn3734
 
 -- Bahá'u'lláh
 
-bpn3735 
+Prayer bpn3735 in Eesti (bpn3735) 
+
+[bahaiprayers.net 3735](https://bahaiprayers.net/Book/Single/25/3735)
+
 
 ----
 
@@ -618,7 +771,10 @@ bpn3735
 
 -- Bahá'u'lláh
 
-bpn3736 
+Prayer bpn3736 in Eesti (bpn3736) 
+
+[bahaiprayers.net 3736](https://bahaiprayers.net/Book/Single/25/3736)
+
 
 ----
 
@@ -628,7 +784,10 @@ bpn3736
 
 -- Bahá'u'lláh
 
-bpn3737 
+Prayer bpn3737 in Eesti (bpn3737) 
+
+[bahaiprayers.net 3737](https://bahaiprayers.net/Book/Single/25/3737)
+
 
 ----
 
@@ -638,7 +797,10 @@ bpn3737
 
 -- Bahá'u'lláh
 
-bpn3738 
+Prayer bpn3738 in Eesti (bpn3738) 
+
+[bahaiprayers.net 3738](https://bahaiprayers.net/Book/Single/25/3738)
+
 
 ----
 
@@ -648,7 +810,10 @@ bpn3738
 
 -- Báb
 
-bpn3739 
+Prayer bpn3739 in Eesti (bpn3739) 
+
+[bahaiprayers.net 3739](https://bahaiprayers.net/Book/Single/25/3739)
+
 
 ----
 
@@ -658,7 +823,10 @@ bpn3739
 
 -- Abdu'l-Bahá
 
-bpn3740 
+Prayer bpn3740 in Eesti (bpn3740) 
+
+[bahaiprayers.net 3740](https://bahaiprayers.net/Book/Single/25/3740)
+
 
 ----
 
@@ -672,7 +840,10 @@ bpn3740
 
 -- Bahá'u'lláh
 
-bpn3729 
+Prayer bpn3729 in Eesti (bpn3729) 
+
+[bahaiprayers.net 3729](https://bahaiprayers.net/Book/Single/25/3729)
+
 
 ----
 
@@ -682,7 +853,10 @@ bpn3729
 
 -- Báb
 
-bpn3730 
+Prayer bpn3730 in Eesti (bpn3730) 
+
+[bahaiprayers.net 3730](https://bahaiprayers.net/Book/Single/25/3730)
+
 
 ----
 
@@ -696,7 +870,10 @@ bpn3730
 
 -- Bahá'u'lláh
 
-bpn3741 
+Prayer bpn3741 in Eesti (bpn3741) 
+
+[bahaiprayers.net 3741](https://bahaiprayers.net/Book/Single/25/3741)
+
 
 ----
 
@@ -706,7 +883,10 @@ bpn3741
 
 -- Bahá'u'lláh
 
-bpn3742 
+Prayer bpn3742 in Eesti (bpn3742) 
+
+[bahaiprayers.net 3742](https://bahaiprayers.net/Book/Single/25/3742)
+
 
 ----
 
@@ -720,7 +900,10 @@ bpn3742
 
 -- Bahá'u'lláh
 
-bpn3743 
+Prayer bpn3743 in Eesti (bpn3743) 
+
+[bahaiprayers.net 3743](https://bahaiprayers.net/Book/Single/25/3743)
+
 
 ----
 
@@ -730,7 +913,10 @@ bpn3743
 
 -- Bahá'u'lláh
 
-bpn3744 
+Prayer bpn3744 in Eesti (bpn3744) 
+
+[bahaiprayers.net 3744](https://bahaiprayers.net/Book/Single/25/3744)
+
 
 ----
 
@@ -740,7 +926,10 @@ bpn3744
 
 -- Abdu'l-Bahá
 
-bpn3745 
+Prayer bpn3745 in Eesti (bpn3745) 
+
+[bahaiprayers.net 3745](https://bahaiprayers.net/Book/Single/25/3745)
+
 
 ----
 

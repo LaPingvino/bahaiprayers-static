@@ -72,7 +72,10 @@ tags = ['lang=fj', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn6950 
+Prayer bpn6950 in Fiji (bpn6950) 
+
+[bahaiprayers.net 6950](https://bahaiprayers.net/Book/Single/65/6950)
+
 
 ----
 
@@ -86,7 +89,10 @@ bpn6950
 
 -- Bahá'u'lláh
 
-bpn6951 
+Prayer bpn6951 in Fiji (bpn6951) 
+
+[bahaiprayers.net 6951](https://bahaiprayers.net/Book/Single/65/6951)
+
 
 ----
 
@@ -96,7 +102,10 @@ bpn6951
 
 -- Bahá'u'lláh
 
-bpn6952 
+Prayer bpn6952 in Fiji (bpn6952) 
+
+[bahaiprayers.net 6952](https://bahaiprayers.net/Book/Single/65/6952)
+
 
 ----
 
@@ -106,7 +115,10 @@ bpn6952
 
 -- Abdu'l-Bahá
 
-bpn6953 
+Prayer bpn6953 in Fiji (bpn6953) 
+
+[bahaiprayers.net 6953](https://bahaiprayers.net/Book/Single/65/6953)
+
 
 ----
 
@@ -120,7 +132,10 @@ bpn6953
 
 -- Abdu'l-Bahá
 
-bpn6954 
+Prayer bpn6954 in Fiji (bpn6954) 
+
+[bahaiprayers.net 6954](https://bahaiprayers.net/Book/Single/65/6954)
+
 
 ----
 
@@ -130,7 +145,10 @@ bpn6954
 
 -- Abdu'l-Bahá
 
-bpn6955 
+Prayer bpn6955 in Fiji (bpn6955) 
+
+[bahaiprayers.net 6955](https://bahaiprayers.net/Book/Single/65/6955)
+
 
 ----
 
@@ -140,7 +158,10 @@ bpn6955
 
 -- Abdu'l-Bahá
 
-bpn6956 
+Prayer bpn6956 in Fiji (bpn6956) 
+
+[bahaiprayers.net 6956](https://bahaiprayers.net/Book/Single/65/6956)
+
 
 ----
 
@@ -150,7 +171,10 @@ bpn6956
 
 -- Abdu'l-Bahá
 
-bpn6957 
+Prayer bpn6957 in Fiji (bpn6957) 
+
+[bahaiprayers.net 6957](https://bahaiprayers.net/Book/Single/65/6957)
+
 
 ----
 
@@ -164,7 +188,10 @@ bpn6957
 
 -- Bahá'u'lláh
 
-bpn6988 
+Prayer bpn6988 in Fiji (bpn6988) 
+
+[bahaiprayers.net 6988](https://bahaiprayers.net/Book/Single/65/6988)
+
 
 ----
 
@@ -178,7 +205,10 @@ bpn6988
 
 -- Abdu'l-Bahá
 
-bpn6987 
+Prayer bpn6987 in Fiji (bpn6987) 
+
+[bahaiprayers.net 6987](https://bahaiprayers.net/Book/Single/65/6987)
+
 
 ----
 
@@ -192,7 +222,10 @@ bpn6987
 
 -- Abdu'l-Bahá
 
-bpn6958 
+Prayer bpn6958 in Fiji (bpn6958) 
+
+[bahaiprayers.net 6958](https://bahaiprayers.net/Book/Single/65/6958)
+
 
 ----
 
@@ -206,7 +239,10 @@ bpn6958
 
 -- Bahá'u'lláh
 
-bpn6959 
+Prayer bpn6959 in Fiji (bpn6959) 
+
+[bahaiprayers.net 6959](https://bahaiprayers.net/Book/Single/65/6959)
+
 
 ----
 
@@ -216,7 +252,10 @@ bpn6959
 
 -- Bahá'u'lláh
 
-bpn6960 
+Prayer bpn6960 in Fiji (bpn6960) 
+
+[bahaiprayers.net 6960](https://bahaiprayers.net/Book/Single/65/6960)
+
 
 ----
 
@@ -226,7 +265,10 @@ bpn6960
 
 -- Bahá'u'lláh
 
-bpn6961 
+Prayer bpn6961 in Fiji (bpn6961) 
+
+[bahaiprayers.net 6961](https://bahaiprayers.net/Book/Single/65/6961)
+
 
 ----
 
@@ -240,7 +282,10 @@ bpn6961
 
 -- Abdu'l-Bahá
 
-bpn6962 
+Prayer bpn6962 in Fiji (bpn6962) 
+
+[bahaiprayers.net 6962](https://bahaiprayers.net/Book/Single/65/6962)
+
 
 ----
 
@@ -250,7 +295,10 @@ bpn6962
 
 -- Abdu'l-Bahá
 
-bpn6963 
+Prayer bpn6963 in Fiji (bpn6963) 
+
+[bahaiprayers.net 6963](https://bahaiprayers.net/Book/Single/65/6963)
+
 
 ----
 
@@ -264,7 +312,10 @@ bpn6963
 
 -- Bahá'u'lláh
 
-bpn6964 
+Prayer bpn6964 in Fiji (bpn6964) 
+
+[bahaiprayers.net 6964](https://bahaiprayers.net/Book/Single/65/6964)
+
 
 ----
 
@@ -278,7 +329,10 @@ bpn6964
 
 -- Bahá'u'lláh
 
-bpn6986 
+Prayer bpn6986 in Fiji (bpn6986) 
+
+[bahaiprayers.net 6986](https://bahaiprayers.net/Book/Single/65/6986)
+
 
 ----
 
@@ -292,7 +346,10 @@ bpn6986
 
 -- Bahá'u'lláh
 
-bpn6989 
+Prayer bpn6989 in Fiji (bpn6989) 
+
+[bahaiprayers.net 6989](https://bahaiprayers.net/Book/Single/65/6989)
+
 
 ----
 
@@ -302,7 +359,10 @@ bpn6989
 
 -- Bahá'u'lláh
 
-bpn6990 
+Prayer bpn6990 in Fiji (bpn6990) 
+
+[bahaiprayers.net 6990](https://bahaiprayers.net/Book/Single/65/6990)
+
 
 ----
 
@@ -316,7 +376,10 @@ bpn6990
 
 -- Bahá'u'lláh
 
-bpn6949 
+Prayer bpn6949 in Fiji (bpn6949) 
+
+[bahaiprayers.net 6949](https://bahaiprayers.net/Book/Single/65/6949)
+
 
 ----
 
@@ -330,7 +393,10 @@ bpn6949
 
 -- Bahá'u'lláh
 
-bpn6948 
+Prayer bpn6948 in Fiji (bpn6948) 
+
+[bahaiprayers.net 6948](https://bahaiprayers.net/Book/Single/65/6948)
+
 
 ----
 
@@ -344,7 +410,10 @@ bpn6948
 
 -- Bahá'u'lláh
 
-bpn6947 
+Prayer bpn6947 in Fiji (bpn6947) 
+
+[bahaiprayers.net 6947](https://bahaiprayers.net/Book/Single/65/6947)
+
 
 ----
 
@@ -358,7 +427,10 @@ bpn6947
 
 -- Bahá'u'lláh
 
-bpn6965 
+Prayer bpn6965 in Fiji (bpn6965) 
+
+[bahaiprayers.net 6965](https://bahaiprayers.net/Book/Single/65/6965)
+
 
 ----
 
@@ -368,7 +440,10 @@ bpn6965
 
 -- Bahá'u'lláh
 
-bpn6966 
+Prayer bpn6966 in Fiji (bpn6966) 
+
+[bahaiprayers.net 6966](https://bahaiprayers.net/Book/Single/65/6966)
+
 
 ----
 
@@ -382,7 +457,10 @@ bpn6966
 
 -- Abdu'l-Bahá
 
-bpn6967 
+Prayer bpn6967 in Fiji (bpn6967) 
+
+[bahaiprayers.net 6967](https://bahaiprayers.net/Book/Single/65/6967)
+
 
 ----
 
@@ -396,7 +474,10 @@ bpn6967
 
 -- Bahá'u'lláh
 
-bpn6970 
+Prayer bpn6970 in Fiji (bpn6970) 
+
+[bahaiprayers.net 6970](https://bahaiprayers.net/Book/Single/65/6970)
+
 
 ----
 
@@ -406,7 +487,10 @@ bpn6970
 
 -- Bahá'u'lláh
 
-bpn6971 
+Prayer bpn6971 in Fiji (bpn6971) 
+
+[bahaiprayers.net 6971](https://bahaiprayers.net/Book/Single/65/6971)
+
 
 ----
 
@@ -420,7 +504,10 @@ bpn6971
 
 -- Bahá'u'lláh
 
-bpn6972 
+Prayer bpn6972 in Fiji (bpn6972) 
+
+[bahaiprayers.net 6972](https://bahaiprayers.net/Book/Single/65/6972)
+
 
 ----
 
@@ -434,7 +521,10 @@ bpn6972
 
 -- Bahá'u'lláh
 
-bpn6973 
+Prayer bpn6973 in Fiji (bpn6973) 
+
+[bahaiprayers.net 6973](https://bahaiprayers.net/Book/Single/65/6973)
+
 
 ----
 
@@ -444,7 +534,10 @@ bpn6973
 
 -- Bahá'u'lláh
 
-bpn6974 
+Prayer bpn6974 in Fiji (bpn6974) 
+
+[bahaiprayers.net 6974](https://bahaiprayers.net/Book/Single/65/6974)
+
 
 ----
 
@@ -458,7 +551,10 @@ bpn6974
 
 -- Abdu'l-Bahá
 
-bpn6975 
+Prayer bpn6975 in Fiji (bpn6975) 
+
+[bahaiprayers.net 6975](https://bahaiprayers.net/Book/Single/65/6975)
+
 
 ----
 
@@ -472,7 +568,10 @@ bpn6975
 
 -- Bahá'u'lláh
 
-bpn6978 
+Prayer bpn6978 in Fiji (bpn6978) 
+
+[bahaiprayers.net 6978](https://bahaiprayers.net/Book/Single/65/6978)
+
 
 ----
 
@@ -482,7 +581,10 @@ bpn6978
 
 -- Abdu'l-Bahá
 
-bpn6977 
+Prayer bpn6977 in Fiji (bpn6977) 
+
+[bahaiprayers.net 6977](https://bahaiprayers.net/Book/Single/65/6977)
+
 
 ----
 
@@ -492,7 +594,10 @@ bpn6977
 
 -- Abdu'l-Bahá
 
-bpn6979 
+Prayer bpn6979 in Fiji (bpn6979) 
+
+[bahaiprayers.net 6979](https://bahaiprayers.net/Book/Single/65/6979)
+
 
 ----
 
@@ -506,7 +611,10 @@ bpn6979
 
 -- Bahá'u'lláh
 
-bpn6976 
+Prayer bpn6976 in Fiji (bpn6976) 
+
+[bahaiprayers.net 6976](https://bahaiprayers.net/Book/Single/65/6976)
+
 
 ----
 
@@ -520,7 +628,10 @@ bpn6976
 
 -- Bahá'u'lláh
 
-bpn6980 
+Prayer bpn6980 in Fiji (bpn6980) 
+
+[bahaiprayers.net 6980](https://bahaiprayers.net/Book/Single/65/6980)
+
 
 ----
 
@@ -534,7 +645,10 @@ bpn6980
 
 -- Abdu'l-Bahá
 
-bpn6981 
+Prayer bpn6981 in Fiji (bpn6981) 
+
+[bahaiprayers.net 6981](https://bahaiprayers.net/Book/Single/65/6981)
+
 
 ----
 
@@ -548,7 +662,10 @@ bpn6981
 
 -- Báb
 
-bpn6982 
+Prayer bpn6982 in Fiji (bpn6982) 
+
+[bahaiprayers.net 6982](https://bahaiprayers.net/Book/Single/65/6982)
+
 
 ----
 
@@ -558,7 +675,10 @@ bpn6982
 
 -- Báb
 
-bpn6983 
+Prayer bpn6983 in Fiji (bpn6983) 
+
+[bahaiprayers.net 6983](https://bahaiprayers.net/Book/Single/65/6983)
+
 
 ----
 
@@ -568,7 +688,10 @@ bpn6983
 
 -- Abdu'l-Bahá
 
-bpn6984 
+Prayer bpn6984 in Fiji (bpn6984) 
+
+[bahaiprayers.net 6984](https://bahaiprayers.net/Book/Single/65/6984)
+
 
 ----
 
@@ -582,7 +705,10 @@ bpn6984
 
 -- Abdu'l-Bahá
 
-bpn6968 
+Prayer bpn6968 in Fiji (bpn6968) 
+
+[bahaiprayers.net 6968](https://bahaiprayers.net/Book/Single/65/6968)
+
 
 ----
 
@@ -592,7 +718,10 @@ bpn6968
 
 -- Abdu'l-Bahá
 
-bpn6969 
+Prayer bpn6969 in Fiji (bpn6969) 
+
+[bahaiprayers.net 6969](https://bahaiprayers.net/Book/Single/65/6969)
+
 
 ----
 
@@ -606,7 +735,10 @@ bpn6969
 
 -- Bahá'u'lláh
 
-bpn6991 
+Prayer bpn6991 in Fiji (bpn6991) 
+
+[bahaiprayers.net 6991](https://bahaiprayers.net/Book/Single/65/6991)
+
 
 ----
 
@@ -620,7 +752,10 @@ bpn6991
 
 -- Bahá'u'lláh
 
-bpn6985 
+Prayer bpn6985 in Fiji (bpn6985) 
+
+[bahaiprayers.net 6985](https://bahaiprayers.net/Book/Single/65/6985)
+
 
 ----
 

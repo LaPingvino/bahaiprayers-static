@@ -120,7 +120,10 @@ tags = ['lang=ta', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn11451 
+Prayer bpn11451 in தமிழ் (bpn11451) 
+
+[bahaiprayers.net 11451](https://bahaiprayers.net/Book/Single/39/11451)
+
 
 ----
 
@@ -134,7 +137,10 @@ bpn11451
 
 -- Bahá'u'lláh
 
-bpn11448 
+Prayer bpn11448 in தமிழ் (bpn11448) 
+
+[bahaiprayers.net 11448](https://bahaiprayers.net/Book/Single/39/11448)
+
 
 ----
 
@@ -148,7 +154,10 @@ bpn11448
 
 -- Abdu'l-Bahá
 
-bpn11434 
+Prayer bpn11434 in தமிழ் (bpn11434) 
+
+[bahaiprayers.net 11434](https://bahaiprayers.net/Book/Single/39/11434)
+
 
 ----
 
@@ -158,7 +167,10 @@ bpn11434
 
 -- Abdu'l-Bahá
 
-bpn11435 
+Prayer bpn11435 in தமிழ் (bpn11435) 
+
+[bahaiprayers.net 11435](https://bahaiprayers.net/Book/Single/39/11435)
+
 
 ----
 
@@ -168,7 +180,10 @@ bpn11435
 
 -- Abdu'l-Bahá
 
-bpn11436 
+Prayer bpn11436 in தமிழ் (bpn11436) 
+
+[bahaiprayers.net 11436](https://bahaiprayers.net/Book/Single/39/11436)
+
 
 ----
 
@@ -182,7 +197,10 @@ bpn11436
 
 -- Bahá'u'lláh
 
-bpn11243 
+Prayer bpn11243 in தமிழ் (bpn11243) 
+
+[bahaiprayers.net 11243](https://bahaiprayers.net/Book/Single/39/11243)
+
 
 ----
 
@@ -192,7 +210,10 @@ bpn11243
 
 -- Bahá'u'lláh
 
-bpn11244 
+Prayer bpn11244 in தமிழ் (bpn11244) 
+
+[bahaiprayers.net 11244](https://bahaiprayers.net/Book/Single/39/11244)
+
 
 ----
 
@@ -202,7 +223,10 @@ bpn11244
 
 -- Bahá'u'lláh
 
-bpn11245 
+Prayer bpn11245 in தமிழ் (bpn11245) 
+
+[bahaiprayers.net 11245](https://bahaiprayers.net/Book/Single/39/11245)
+
 
 ----
 
@@ -212,7 +236,10 @@ bpn11245
 
 -- Bahá'u'lláh
 
-bpn11246 
+Prayer bpn11246 in தமிழ் (bpn11246) 
+
+[bahaiprayers.net 11246](https://bahaiprayers.net/Book/Single/39/11246)
+
 
 ----
 
@@ -222,7 +249,10 @@ bpn11246
 
 -- Bahá'u'lláh
 
-bpn11247 
+Prayer bpn11247 in தமிழ் (bpn11247) 
+
+[bahaiprayers.net 11247](https://bahaiprayers.net/Book/Single/39/11247)
+
 
 ----
 
@@ -232,7 +262,10 @@ bpn11247
 
 -- Bahá'u'lláh
 
-bpn11248 
+Prayer bpn11248 in தமிழ் (bpn11248) 
+
+[bahaiprayers.net 11248](https://bahaiprayers.net/Book/Single/39/11248)
+
 
 ----
 
@@ -242,7 +275,10 @@ bpn11248
 
 -- Bahá'u'lláh
 
-bpn11249 
+Prayer bpn11249 in தமிழ் (bpn11249) 
+
+[bahaiprayers.net 11249](https://bahaiprayers.net/Book/Single/39/11249)
+
 
 ----
 
@@ -252,7 +288,10 @@ bpn11249
 
 -- Bahá'u'lláh
 
-bpn11250 
+Prayer bpn11250 in தமிழ் (bpn11250) 
+
+[bahaiprayers.net 11250](https://bahaiprayers.net/Book/Single/39/11250)
+
 
 ----
 
@@ -262,7 +301,10 @@ bpn11250
 
 -- Bahá'u'lláh
 
-bpn11251 
+Prayer bpn11251 in தமிழ் (bpn11251) 
+
+[bahaiprayers.net 11251](https://bahaiprayers.net/Book/Single/39/11251)
+
 
 ----
 
@@ -272,7 +314,10 @@ bpn11251
 
 -- Báb
 
-bpn11252 
+Prayer bpn11252 in தமிழ் (bpn11252) 
+
+[bahaiprayers.net 11252](https://bahaiprayers.net/Book/Single/39/11252)
+
 
 ----
 
@@ -282,7 +327,10 @@ bpn11252
 
 -- Abdu'l-Bahá
 
-bpn11253 
+Prayer bpn11253 in தமிழ் (bpn11253) 
+
+[bahaiprayers.net 11253](https://bahaiprayers.net/Book/Single/39/11253)
+
 
 ----
 
@@ -292,7 +340,10 @@ bpn11253
 
 -- Abdu'l-Bahá
 
-bpn11254 
+Prayer bpn11254 in தமிழ் (bpn11254) 
+
+[bahaiprayers.net 11254](https://bahaiprayers.net/Book/Single/39/11254)
+
 
 ----
 
@@ -302,7 +353,10 @@ bpn11254
 
 -- Abdu'l-Bahá
 
-bpn11255 
+Prayer bpn11255 in தமிழ் (bpn11255) 
+
+[bahaiprayers.net 11255](https://bahaiprayers.net/Book/Single/39/11255)
+
 
 ----
 
@@ -312,7 +366,10 @@ bpn11255
 
 -- Abdu'l-Bahá
 
-bpn11256 
+Prayer bpn11256 in தமிழ் (bpn11256) 
+
+[bahaiprayers.net 11256](https://bahaiprayers.net/Book/Single/39/11256)
+
 
 ----
 
@@ -322,7 +379,10 @@ bpn11256
 
 -- Abdu'l-Bahá
 
-bpn11257 
+Prayer bpn11257 in தமிழ் (bpn11257) 
+
+[bahaiprayers.net 11257](https://bahaiprayers.net/Book/Single/39/11257)
+
 
 ----
 
@@ -332,7 +392,10 @@ bpn11257
 
 -- Abdu'l-Bahá
 
-bpn11258 
+Prayer bpn11258 in தமிழ் (bpn11258) 
+
+[bahaiprayers.net 11258](https://bahaiprayers.net/Book/Single/39/11258)
+
 
 ----
 
@@ -342,7 +405,10 @@ bpn11258
 
 -- Abdu'l-Bahá
 
-bpn11259 
+Prayer bpn11259 in தமிழ் (bpn11259) 
+
+[bahaiprayers.net 11259](https://bahaiprayers.net/Book/Single/39/11259)
+
 
 ----
 
@@ -356,7 +422,10 @@ bpn11259
 
 -- Bahá'u'lláh
 
-bpn11260 
+Prayer bpn11260 in தமிழ் (bpn11260) 
+
+[bahaiprayers.net 11260](https://bahaiprayers.net/Book/Single/39/11260)
+
 
 ----
 
@@ -366,7 +435,10 @@ bpn11260
 
 -- Bahá'u'lláh
 
-bpn11261 
+Prayer bpn11261 in தமிழ் (bpn11261) 
+
+[bahaiprayers.net 11261](https://bahaiprayers.net/Book/Single/39/11261)
+
 
 ----
 
@@ -376,7 +448,10 @@ bpn11261
 
 -- Bahá'u'lláh
 
-bpn11296 
+Prayer bpn11296 in தமிழ் (bpn11296) 
+
+[bahaiprayers.net 11296](https://bahaiprayers.net/Book/Single/39/11296)
+
 
 ----
 
@@ -386,7 +461,10 @@ bpn11296
 
 -- Bahá'u'lláh
 
-bpn11297 
+Prayer bpn11297 in தமிழ் (bpn11297) 
+
+[bahaiprayers.net 11297](https://bahaiprayers.net/Book/Single/39/11297)
+
 
 ----
 
@@ -400,7 +478,10 @@ bpn11297
 
 -- Bahá'u'lláh
 
-bpn11276 
+Prayer bpn11276 in தமிழ் (bpn11276) 
+
+[bahaiprayers.net 11276](https://bahaiprayers.net/Book/Single/39/11276)
+
 
 ----
 
@@ -414,7 +495,10 @@ bpn11276
 
 -- Abdu'l-Bahá
 
-bpn11273 
+Prayer bpn11273 in தமிழ் (bpn11273) 
+
+[bahaiprayers.net 11273](https://bahaiprayers.net/Book/Single/39/11273)
+
 
 ----
 
@@ -424,7 +508,10 @@ bpn11273
 
 -- Abdu'l-Bahá
 
-bpn11274 
+Prayer bpn11274 in தமிழ் (bpn11274) 
+
+[bahaiprayers.net 11274](https://bahaiprayers.net/Book/Single/39/11274)
+
 
 ----
 
@@ -434,7 +521,10 @@ bpn11274
 
 -- Abdu'l-Bahá
 
-bpn11275 
+Prayer bpn11275 in தமிழ் (bpn11275) 
+
+[bahaiprayers.net 11275](https://bahaiprayers.net/Book/Single/39/11275)
+
 
 ----
 
@@ -448,7 +538,10 @@ bpn11275
 
 -- Bahá'u'lláh
 
-bpn11269 
+Prayer bpn11269 in தமிழ் (bpn11269) 
+
+[bahaiprayers.net 11269](https://bahaiprayers.net/Book/Single/39/11269)
+
 
 ----
 
@@ -458,7 +551,10 @@ bpn11269
 
 -- Abdu'l-Bahá
 
-bpn11270 
+Prayer bpn11270 in தமிழ் (bpn11270) 
+
+[bahaiprayers.net 11270](https://bahaiprayers.net/Book/Single/39/11270)
+
 
 ----
 
@@ -468,7 +564,10 @@ bpn11270
 
 -- Abdu'l-Bahá
 
-bpn11271 
+Prayer bpn11271 in தமிழ் (bpn11271) 
+
+[bahaiprayers.net 11271](https://bahaiprayers.net/Book/Single/39/11271)
+
 
 ----
 
@@ -478,7 +577,10 @@ bpn11271
 
 -- Abdu'l-Bahá
 
-bpn11272 
+Prayer bpn11272 in தமிழ் (bpn11272) 
+
+[bahaiprayers.net 11272](https://bahaiprayers.net/Book/Single/39/11272)
+
 
 ----
 
@@ -492,7 +594,10 @@ bpn11272
 
 -- Abdu'l-Bahá
 
-bpn11280 
+Prayer bpn11280 in தமிழ் (bpn11280) 
+
+[bahaiprayers.net 11280](https://bahaiprayers.net/Book/Single/39/11280)
+
 
 ----
 
@@ -502,7 +607,10 @@ bpn11280
 
 -- Abdu'l-Bahá
 
-bpn11281 
+Prayer bpn11281 in தமிழ் (bpn11281) 
+
+[bahaiprayers.net 11281](https://bahaiprayers.net/Book/Single/39/11281)
+
 
 ----
 
@@ -516,7 +624,10 @@ bpn11281
 
 -- Abdu'l-Bahá
 
-bpn11263 
+Prayer bpn11263 in தமிழ் (bpn11263) 
+
+[bahaiprayers.net 11263](https://bahaiprayers.net/Book/Single/39/11263)
+
 
 ----
 
@@ -526,7 +637,10 @@ bpn11263
 
 -- Abdu'l-Bahá
 
-bpn11264 
+Prayer bpn11264 in தமிழ் (bpn11264) 
+
+[bahaiprayers.net 11264](https://bahaiprayers.net/Book/Single/39/11264)
+
 
 ----
 
@@ -536,7 +650,10 @@ bpn11264
 
 -- Abdu'l-Bahá
 
-bpn11265 
+Prayer bpn11265 in தமிழ் (bpn11265) 
+
+[bahaiprayers.net 11265](https://bahaiprayers.net/Book/Single/39/11265)
+
 
 ----
 
@@ -546,7 +663,10 @@ bpn11265
 
 -- Abdu'l-Bahá
 
-bpn11266 
+Prayer bpn11266 in தமிழ் (bpn11266) 
+
+[bahaiprayers.net 11266](https://bahaiprayers.net/Book/Single/39/11266)
+
 
 ----
 
@@ -556,7 +676,10 @@ bpn11266
 
 -- Abdu'l-Bahá
 
-bpn11267 
+Prayer bpn11267 in தமிழ் (bpn11267) 
+
+[bahaiprayers.net 11267](https://bahaiprayers.net/Book/Single/39/11267)
+
 
 ----
 
@@ -570,7 +693,10 @@ bpn11267
 
 -- Bahá'u'lláh
 
-bpn11437 
+Prayer bpn11437 in தமிழ் (bpn11437) 
+
+[bahaiprayers.net 11437](https://bahaiprayers.net/Book/Single/39/11437)
+
 
 ----
 
@@ -580,7 +706,10 @@ bpn11437
 
 -- Bahá'u'lláh
 
-bpn11438 
+Prayer bpn11438 in தமிழ் (bpn11438) 
+
+[bahaiprayers.net 11438](https://bahaiprayers.net/Book/Single/39/11438)
+
 
 ----
 
@@ -590,7 +719,10 @@ bpn11438
 
 -- Bahá'u'lláh
 
-bpn11439 
+Prayer bpn11439 in தமிழ் (bpn11439) 
+
+[bahaiprayers.net 11439](https://bahaiprayers.net/Book/Single/39/11439)
+
 
 ----
 
@@ -600,7 +732,10 @@ bpn11439
 
 -- Bahá'u'lláh
 
-bpn11440 
+Prayer bpn11440 in தமிழ் (bpn11440) 
+
+[bahaiprayers.net 11440](https://bahaiprayers.net/Book/Single/39/11440)
+
 
 ----
 
@@ -610,7 +745,10 @@ bpn11440
 
 -- Bahá'u'lláh
 
-bpn11441 
+Prayer bpn11441 in தமிழ் (bpn11441) 
+
+[bahaiprayers.net 11441](https://bahaiprayers.net/Book/Single/39/11441)
+
 
 ----
 
@@ -620,7 +758,10 @@ bpn11441
 
 -- Bahá'u'lláh
 
-bpn11442 
+Prayer bpn11442 in தமிழ் (bpn11442) 
+
+[bahaiprayers.net 11442](https://bahaiprayers.net/Book/Single/39/11442)
+
 
 ----
 
@@ -630,7 +771,10 @@ bpn11442
 
 -- Bahá'u'lláh
 
-bpn11443 
+Prayer bpn11443 in தமிழ் (bpn11443) 
+
+[bahaiprayers.net 11443](https://bahaiprayers.net/Book/Single/39/11443)
+
 
 ----
 
@@ -640,7 +784,10 @@ bpn11443
 
 -- Bahá'u'lláh
 
-bpn11444 
+Prayer bpn11444 in தமிழ் (bpn11444) 
+
+[bahaiprayers.net 11444](https://bahaiprayers.net/Book/Single/39/11444)
+
 
 ----
 
@@ -654,7 +801,10 @@ bpn11444
 
 -- Báb
 
-bpn5083 
+Prayer bpn5083 in தமிழ் (bpn5083) 
+
+[bahaiprayers.net 5083](https://bahaiprayers.net/Book/Single/39/5083)
+
 
 ----
 
@@ -664,7 +814,10 @@ bpn5083
 
 -- Báb
 
-bpn5085 
+Prayer bpn5085 in தமிழ் (bpn5085) 
+
+[bahaiprayers.net 5085](https://bahaiprayers.net/Book/Single/39/5085)
+
 
 ----
 
@@ -674,7 +827,10 @@ bpn5085
 
 -- Abdu'l-Bahá
 
-bpn5084 
+Prayer bpn5084 in தமிழ் (bpn5084) 
+
+[bahaiprayers.net 5084](https://bahaiprayers.net/Book/Single/39/5084)
+
 
 ----
 
@@ -688,7 +844,10 @@ bpn5084
 
 -- Bahá'u'lláh
 
-bpn11282 
+Prayer bpn11282 in தமிழ் (bpn11282) 
+
+[bahaiprayers.net 11282](https://bahaiprayers.net/Book/Single/39/11282)
+
 
 ----
 
@@ -698,7 +857,10 @@ bpn11282
 
 -- Bahá'u'lláh
 
-bpn11283 
+Prayer bpn11283 in தமிழ் (bpn11283) 
+
+[bahaiprayers.net 11283](https://bahaiprayers.net/Book/Single/39/11283)
+
 
 ----
 
@@ -708,7 +870,10 @@ bpn11283
 
 -- Báb
 
-bpn11285 
+Prayer bpn11285 in தமிழ் (bpn11285) 
+
+[bahaiprayers.net 11285](https://bahaiprayers.net/Book/Single/39/11285)
+
 
 ----
 
@@ -718,7 +883,10 @@ bpn11285
 
 -- Abdu'l-Bahá
 
-bpn11286 
+Prayer bpn11286 in தமிழ் (bpn11286) 
+
+[bahaiprayers.net 11286](https://bahaiprayers.net/Book/Single/39/11286)
+
 
 ----
 
@@ -728,7 +896,10 @@ bpn11286
 
 -- Abdu'l-Bahá
 
-bpn11287 
+Prayer bpn11287 in தமிழ் (bpn11287) 
+
+[bahaiprayers.net 11287](https://bahaiprayers.net/Book/Single/39/11287)
+
 
 ----
 
@@ -738,7 +909,10 @@ bpn11287
 
 -- Abdu'l-Bahá
 
-bpn11288 
+Prayer bpn11288 in தமிழ் (bpn11288) 
+
+[bahaiprayers.net 11288](https://bahaiprayers.net/Book/Single/39/11288)
+
 
 ----
 
@@ -752,7 +926,10 @@ bpn11288
 
 -- Bahá'u'lláh
 
-bpn11445 
+Prayer bpn11445 in தமிழ் (bpn11445) 
+
+[bahaiprayers.net 11445](https://bahaiprayers.net/Book/Single/39/11445)
+
 
 ----
 
@@ -766,7 +943,10 @@ bpn11445
 
 -- Bahá'u'lláh
 
-bpn11289 
+Prayer bpn11289 in தமிழ் (bpn11289) 
+
+[bahaiprayers.net 11289](https://bahaiprayers.net/Book/Single/39/11289)
+
 
 ----
 
@@ -776,7 +956,10 @@ bpn11289
 
 -- Bahá'u'lláh
 
-bpn11290 
+Prayer bpn11290 in தமிழ் (bpn11290) 
+
+[bahaiprayers.net 11290](https://bahaiprayers.net/Book/Single/39/11290)
+
 
 ----
 
@@ -786,7 +969,10 @@ bpn11290
 
 -- Abdu'l-Bahá
 
-bpn11291 
+Prayer bpn11291 in தமிழ் (bpn11291) 
+
+[bahaiprayers.net 11291](https://bahaiprayers.net/Book/Single/39/11291)
+
 
 ----
 
@@ -796,7 +982,10 @@ bpn11291
 
 -- Abdu'l-Bahá
 
-bpn11292 
+Prayer bpn11292 in தமிழ் (bpn11292) 
+
+[bahaiprayers.net 11292](https://bahaiprayers.net/Book/Single/39/11292)
+
 
 ----
 
@@ -806,7 +995,10 @@ bpn11292
 
 -- Abdu'l-Bahá
 
-bpn11293 
+Prayer bpn11293 in தமிழ் (bpn11293) 
+
+[bahaiprayers.net 11293](https://bahaiprayers.net/Book/Single/39/11293)
+
 
 ----
 
@@ -820,7 +1012,10 @@ bpn11293
 
 -- Bahá'u'lláh
 
-bpn11294 
+Prayer bpn11294 in தமிழ் (bpn11294) 
+
+[bahaiprayers.net 11294](https://bahaiprayers.net/Book/Single/39/11294)
+
 
 ----
 
@@ -830,7 +1025,10 @@ bpn11294
 
 -- Abdu'l-Bahá
 
-bpn11295 
+Prayer bpn11295 in தமிழ் (bpn11295) 
+
+[bahaiprayers.net 11295](https://bahaiprayers.net/Book/Single/39/11295)
+
 
 ----
 
@@ -844,7 +1042,10 @@ bpn11295
 
 -- Abdu'l-Bahá
 
-bpn11303 
+Prayer bpn11303 in தமிழ் (bpn11303) 
+
+[bahaiprayers.net 11303](https://bahaiprayers.net/Book/Single/39/11303)
+
 
 ----
 
@@ -858,7 +1059,10 @@ bpn11303
 
 -- Báb
 
-bpn11284 
+Prayer bpn11284 in தமிழ் (bpn11284) 
+
+[bahaiprayers.net 11284](https://bahaiprayers.net/Book/Single/39/11284)
+
 
 ----
 
@@ -872,7 +1076,10 @@ bpn11284
 
 -- Bahá'u'lláh
 
-bpn5086 
+Prayer bpn5086 in தமிழ் (bpn5086) 
+
+[bahaiprayers.net 5086](https://bahaiprayers.net/Book/Single/39/5086)
+
 
 ----
 
@@ -882,7 +1089,10 @@ bpn5086
 
 -- Bahá'u'lláh
 
-bpn11277 
+Prayer bpn11277 in தமிழ் (bpn11277) 
+
+[bahaiprayers.net 11277](https://bahaiprayers.net/Book/Single/39/11277)
+
 
 ----
 
@@ -892,7 +1102,10 @@ bpn11277
 
 -- Bahá'u'lláh
 
-bpn11304 
+Prayer bpn11304 in தமிழ் (bpn11304) 
+
+[bahaiprayers.net 11304](https://bahaiprayers.net/Book/Single/39/11304)
+
 
 ----
 
@@ -902,7 +1115,10 @@ bpn11304
 
 -- Bahá'u'lláh
 
-bpn11305 
+Prayer bpn11305 in தமிழ் (bpn11305) 
+
+[bahaiprayers.net 11305](https://bahaiprayers.net/Book/Single/39/11305)
+
 
 ----
 
@@ -912,7 +1128,10 @@ bpn11305
 
 -- Bahá'u'lláh
 
-bpn11306 
+Prayer bpn11306 in தமிழ் (bpn11306) 
+
+[bahaiprayers.net 11306](https://bahaiprayers.net/Book/Single/39/11306)
+
 
 ----
 
@@ -922,7 +1141,10 @@ bpn11306
 
 -- Bahá'u'lláh
 
-bpn11307 
+Prayer bpn11307 in தமிழ் (bpn11307) 
+
+[bahaiprayers.net 11307](https://bahaiprayers.net/Book/Single/39/11307)
+
 
 ----
 
@@ -932,7 +1154,10 @@ bpn11307
 
 -- Báb
 
-bpn11278 
+Prayer bpn11278 in தமிழ் (bpn11278) 
+
+[bahaiprayers.net 11278](https://bahaiprayers.net/Book/Single/39/11278)
+
 
 ----
 
@@ -942,7 +1167,10 @@ bpn11278
 
 -- Báb
 
-bpn11279 
+Prayer bpn11279 in தமிழ் (bpn11279) 
+
+[bahaiprayers.net 11279](https://bahaiprayers.net/Book/Single/39/11279)
+
 
 ----
 
@@ -956,7 +1184,10 @@ bpn11279
 
 -- Bahá'u'lláh
 
-bpn11308 
+Prayer bpn11308 in தமிழ் (bpn11308) 
+
+[bahaiprayers.net 11308](https://bahaiprayers.net/Book/Single/39/11308)
+
 
 ----
 
@@ -970,7 +1201,10 @@ bpn11308
 
 -- Bahá'u'lláh
 
-bpn11310 
+Prayer bpn11310 in தமிழ் (bpn11310) 
+
+[bahaiprayers.net 11310](https://bahaiprayers.net/Book/Single/39/11310)
+
 
 ----
 
@@ -980,7 +1214,10 @@ bpn11310
 
 -- Abdu'l-Bahá
 
-bpn5087 
+Prayer bpn5087 in தமிழ் (bpn5087) 
+
+[bahaiprayers.net 5087](https://bahaiprayers.net/Book/Single/39/5087)
+
 
 ----
 
@@ -990,7 +1227,10 @@ bpn5087
 
 -- Abdu'l-Bahá
 
-bpn5088 
+Prayer bpn5088 in தமிழ் (bpn5088) 
+
+[bahaiprayers.net 5088](https://bahaiprayers.net/Book/Single/39/5088)
+
 
 ----
 
@@ -1000,7 +1240,10 @@ bpn5088
 
 -- Abdu'l-Bahá
 
-bpn11311 
+Prayer bpn11311 in தமிழ் (bpn11311) 
+
+[bahaiprayers.net 11311](https://bahaiprayers.net/Book/Single/39/11311)
+
 
 ----
 
@@ -1010,7 +1253,10 @@ bpn11311
 
 -- Abdu'l-Bahá
 
-bpn11312 
+Prayer bpn11312 in தமிழ் (bpn11312) 
+
+[bahaiprayers.net 11312](https://bahaiprayers.net/Book/Single/39/11312)
+
 
 ----
 
@@ -1020,7 +1266,10 @@ bpn11312
 
 -- Abdu'l-Bahá
 
-bpn11313 
+Prayer bpn11313 in தமிழ் (bpn11313) 
+
+[bahaiprayers.net 11313](https://bahaiprayers.net/Book/Single/39/11313)
+
 
 ----
 
@@ -1030,7 +1279,10 @@ bpn11313
 
 -- Abdu'l-Bahá
 
-bpn11314 
+Prayer bpn11314 in தமிழ் (bpn11314) 
+
+[bahaiprayers.net 11314](https://bahaiprayers.net/Book/Single/39/11314)
+
 
 ----
 
@@ -1040,7 +1292,10 @@ bpn11314
 
 -- Abdu'l-Bahá
 
-bpn11315 
+Prayer bpn11315 in தமிழ் (bpn11315) 
+
+[bahaiprayers.net 11315](https://bahaiprayers.net/Book/Single/39/11315)
+
 
 ----
 
@@ -1050,7 +1305,10 @@ bpn11315
 
 -- Abdu'l-Bahá
 
-bpn11316 
+Prayer bpn11316 in தமிழ் (bpn11316) 
+
+[bahaiprayers.net 11316](https://bahaiprayers.net/Book/Single/39/11316)
+
 
 ----
 
@@ -1060,7 +1318,10 @@ bpn11316
 
 -- Abdu'l-Bahá
 
-bpn11317 
+Prayer bpn11317 in தமிழ் (bpn11317) 
+
+[bahaiprayers.net 11317](https://bahaiprayers.net/Book/Single/39/11317)
+
 
 ----
 
@@ -1070,7 +1331,10 @@ bpn11317
 
 -- Abdu'l-Bahá
 
-bpn11318 
+Prayer bpn11318 in தமிழ் (bpn11318) 
+
+[bahaiprayers.net 11318](https://bahaiprayers.net/Book/Single/39/11318)
+
 
 ----
 
@@ -1080,7 +1344,10 @@ bpn11318
 
 -- Abdu'l-Bahá
 
-bpn11319 
+Prayer bpn11319 in தமிழ் (bpn11319) 
+
+[bahaiprayers.net 11319](https://bahaiprayers.net/Book/Single/39/11319)
+
 
 ----
 
@@ -1090,7 +1357,10 @@ bpn11319
 
 -- Abdu'l-Bahá
 
-bpn11320 
+Prayer bpn11320 in தமிழ் (bpn11320) 
+
+[bahaiprayers.net 11320](https://bahaiprayers.net/Book/Single/39/11320)
+
 
 ----
 
@@ -1104,7 +1374,10 @@ bpn11320
 
 -- Bahá'u'lláh
 
-bpn11324 
+Prayer bpn11324 in தமிழ் (bpn11324) 
+
+[bahaiprayers.net 11324](https://bahaiprayers.net/Book/Single/39/11324)
+
 
 ----
 
@@ -1114,7 +1387,10 @@ bpn11324
 
 -- Abdu'l-Bahá
 
-bpn11325 
+Prayer bpn11325 in தமிழ் (bpn11325) 
+
+[bahaiprayers.net 11325](https://bahaiprayers.net/Book/Single/39/11325)
+
 
 ----
 
@@ -1124,7 +1400,10 @@ bpn11325
 
 -- Abdu'l-Bahá
 
-bpn11326 
+Prayer bpn11326 in தமிழ் (bpn11326) 
+
+[bahaiprayers.net 11326](https://bahaiprayers.net/Book/Single/39/11326)
+
 
 ----
 
@@ -1134,7 +1413,10 @@ bpn11326
 
 -- Abdu'l-Bahá
 
-bpn11327 
+Prayer bpn11327 in தமிழ் (bpn11327) 
+
+[bahaiprayers.net 11327](https://bahaiprayers.net/Book/Single/39/11327)
+
 
 ----
 
@@ -1144,7 +1426,10 @@ bpn11327
 
 -- Abdu'l-Bahá
 
-bpn11328 
+Prayer bpn11328 in தமிழ் (bpn11328) 
+
+[bahaiprayers.net 11328](https://bahaiprayers.net/Book/Single/39/11328)
+
 
 ----
 
@@ -1154,7 +1439,10 @@ bpn11328
 
 -- Abdu'l-Bahá
 
-bpn11329 
+Prayer bpn11329 in தமிழ் (bpn11329) 
+
+[bahaiprayers.net 11329](https://bahaiprayers.net/Book/Single/39/11329)
+
 
 ----
 
@@ -1168,7 +1456,10 @@ bpn11329
 
 -- Bahá'u'lláh
 
-bpn11331 
+Prayer bpn11331 in தமிழ் (bpn11331) 
+
+[bahaiprayers.net 11331](https://bahaiprayers.net/Book/Single/39/11331)
+
 
 ----
 
@@ -1178,7 +1469,10 @@ bpn11331
 
 -- Bahá'u'lláh
 
-bpn11332 
+Prayer bpn11332 in தமிழ் (bpn11332) 
+
+[bahaiprayers.net 11332](https://bahaiprayers.net/Book/Single/39/11332)
+
 
 ----
 
@@ -1188,7 +1482,10 @@ bpn11332
 
 -- Bahá'u'lláh
 
-bpn11333 
+Prayer bpn11333 in தமிழ் (bpn11333) 
+
+[bahaiprayers.net 11333](https://bahaiprayers.net/Book/Single/39/11333)
+
 
 ----
 
@@ -1198,7 +1495,10 @@ bpn11333
 
 -- Báb
 
-bpn11334 
+Prayer bpn11334 in தமிழ் (bpn11334) 
+
+[bahaiprayers.net 11334](https://bahaiprayers.net/Book/Single/39/11334)
+
 
 ----
 
@@ -1208,7 +1508,10 @@ bpn11334
 
 -- Báb
 
-bpn11335 
+Prayer bpn11335 in தமிழ் (bpn11335) 
+
+[bahaiprayers.net 11335](https://bahaiprayers.net/Book/Single/39/11335)
+
 
 ----
 
@@ -1218,7 +1521,10 @@ bpn11335
 
 -- Báb
 
-bpn11336 
+Prayer bpn11336 in தமிழ் (bpn11336) 
+
+[bahaiprayers.net 11336](https://bahaiprayers.net/Book/Single/39/11336)
+
 
 ----
 
@@ -1228,7 +1534,10 @@ bpn11336
 
 -- Báb
 
-bpn11337 
+Prayer bpn11337 in தமிழ் (bpn11337) 
+
+[bahaiprayers.net 11337](https://bahaiprayers.net/Book/Single/39/11337)
+
 
 ----
 
@@ -1238,7 +1547,10 @@ bpn11337
 
 -- Abdu'l-Bahá
 
-bpn11338 
+Prayer bpn11338 in தமிழ் (bpn11338) 
+
+[bahaiprayers.net 11338](https://bahaiprayers.net/Book/Single/39/11338)
+
 
 ----
 
@@ -1248,7 +1560,10 @@ bpn11338
 
 -- Abdu'l-Bahá
 
-bpn11339 
+Prayer bpn11339 in தமிழ் (bpn11339) 
+
+[bahaiprayers.net 11339](https://bahaiprayers.net/Book/Single/39/11339)
+
 
 ----
 
@@ -1262,7 +1577,10 @@ bpn11339
 
 -- Bahá'u'lláh
 
-bpn5082 
+Prayer bpn5082 in தமிழ் (bpn5082) 
+
+[bahaiprayers.net 5082](https://bahaiprayers.net/Book/Single/39/5082)
+
 
 ----
 
@@ -1276,7 +1594,10 @@ bpn5082
 
 -- Bahá'u'lláh
 
-bpn11340 
+Prayer bpn11340 in தமிழ் (bpn11340) 
+
+[bahaiprayers.net 11340](https://bahaiprayers.net/Book/Single/39/11340)
+
 
 ----
 
@@ -1286,7 +1607,10 @@ bpn11340
 
 -- Bahá'u'lláh
 
-bpn11341 
+Prayer bpn11341 in தமிழ் (bpn11341) 
+
+[bahaiprayers.net 11341](https://bahaiprayers.net/Book/Single/39/11341)
+
 
 ----
 
@@ -1300,7 +1624,10 @@ bpn11341
 
 -- Bahá'u'lláh
 
-bpn11342 
+Prayer bpn11342 in தமிழ் (bpn11342) 
+
+[bahaiprayers.net 11342](https://bahaiprayers.net/Book/Single/39/11342)
+
 
 ----
 
@@ -1310,7 +1637,10 @@ bpn11342
 
 -- Bahá'u'lláh
 
-bpn11343 
+Prayer bpn11343 in தமிழ் (bpn11343) 
+
+[bahaiprayers.net 11343](https://bahaiprayers.net/Book/Single/39/11343)
+
 
 ----
 
@@ -1320,7 +1650,10 @@ bpn11343
 
 -- Bahá'u'lláh
 
-bpn11344 
+Prayer bpn11344 in தமிழ் (bpn11344) 
+
+[bahaiprayers.net 11344](https://bahaiprayers.net/Book/Single/39/11344)
+
 
 ----
 
@@ -1330,7 +1663,10 @@ bpn11344
 
 -- Bahá'u'lláh
 
-bpn11345 
+Prayer bpn11345 in தமிழ் (bpn11345) 
+
+[bahaiprayers.net 11345](https://bahaiprayers.net/Book/Single/39/11345)
+
 
 ----
 
@@ -1340,7 +1676,10 @@ bpn11345
 
 -- Bahá'u'lláh
 
-bpn11346 
+Prayer bpn11346 in தமிழ் (bpn11346) 
+
+[bahaiprayers.net 11346](https://bahaiprayers.net/Book/Single/39/11346)
+
 
 ----
 
@@ -1350,7 +1689,10 @@ bpn11346
 
 -- Báb
 
-bpn11347 
+Prayer bpn11347 in தமிழ் (bpn11347) 
+
+[bahaiprayers.net 11347](https://bahaiprayers.net/Book/Single/39/11347)
+
 
 ----
 
@@ -1360,7 +1702,10 @@ bpn11347
 
 -- Báb
 
-bpn11348 
+Prayer bpn11348 in தமிழ் (bpn11348) 
+
+[bahaiprayers.net 11348](https://bahaiprayers.net/Book/Single/39/11348)
+
 
 ----
 
@@ -1370,7 +1715,10 @@ bpn11348
 
 -- Báb
 
-bpn11349 
+Prayer bpn11349 in தமிழ் (bpn11349) 
+
+[bahaiprayers.net 11349](https://bahaiprayers.net/Book/Single/39/11349)
+
 
 ----
 
@@ -1384,7 +1732,10 @@ bpn11349
 
 -- Abdu'l-Bahá
 
-bpn11400 
+Prayer bpn11400 in தமிழ் (bpn11400) 
+
+[bahaiprayers.net 11400](https://bahaiprayers.net/Book/Single/39/11400)
+
 
 ----
 
@@ -1398,7 +1749,10 @@ bpn11400
 
 -- Bahá'u'lláh
 
-bpn11350 
+Prayer bpn11350 in தமிழ் (bpn11350) 
+
+[bahaiprayers.net 11350](https://bahaiprayers.net/Book/Single/39/11350)
+
 
 ----
 
@@ -1408,7 +1762,10 @@ bpn11350
 
 -- Abdu'l-Bahá
 
-bpn11351 
+Prayer bpn11351 in தமிழ் (bpn11351) 
+
+[bahaiprayers.net 11351](https://bahaiprayers.net/Book/Single/39/11351)
+
 
 ----
 
@@ -1418,7 +1775,10 @@ bpn11351
 
 -- Abdu'l-Bahá
 
-bpn11352 
+Prayer bpn11352 in தமிழ் (bpn11352) 
+
+[bahaiprayers.net 11352](https://bahaiprayers.net/Book/Single/39/11352)
+
 
 ----
 
@@ -1428,7 +1788,10 @@ bpn11352
 
 -- Abdu'l-Bahá
 
-bpn11353 
+Prayer bpn11353 in தமிழ் (bpn11353) 
+
+[bahaiprayers.net 11353](https://bahaiprayers.net/Book/Single/39/11353)
+
 
 ----
 
@@ -1442,7 +1805,10 @@ bpn11353
 
 -- Abdu'l-Bahá
 
-bpn11408 
+Prayer bpn11408 in தமிழ் (bpn11408) 
+
+[bahaiprayers.net 11408](https://bahaiprayers.net/Book/Single/39/11408)
+
 
 ----
 
@@ -1452,7 +1818,10 @@ bpn11408
 
 -- Abdu'l-Bahá
 
-bpn11409 
+Prayer bpn11409 in தமிழ் (bpn11409) 
+
+[bahaiprayers.net 11409](https://bahaiprayers.net/Book/Single/39/11409)
+
 
 ----
 
@@ -1462,7 +1831,10 @@ bpn11409
 
 -- Abdu'l-Bahá
 
-bpn11410 
+Prayer bpn11410 in தமிழ் (bpn11410) 
+
+[bahaiprayers.net 11410](https://bahaiprayers.net/Book/Single/39/11410)
+
 
 ----
 
@@ -1472,7 +1844,10 @@ bpn11410
 
 -- Abdu'l-Bahá
 
-bpn11411 
+Prayer bpn11411 in தமிழ் (bpn11411) 
+
+[bahaiprayers.net 11411](https://bahaiprayers.net/Book/Single/39/11411)
+
 
 ----
 
@@ -1482,7 +1857,10 @@ bpn11411
 
 -- Abdu'l-Bahá
 
-bpn11412 
+Prayer bpn11412 in தமிழ் (bpn11412) 
+
+[bahaiprayers.net 11412](https://bahaiprayers.net/Book/Single/39/11412)
+
 
 ----
 
@@ -1492,7 +1870,10 @@ bpn11412
 
 -- Abdu'l-Bahá
 
-bpn11413 
+Prayer bpn11413 in தமிழ் (bpn11413) 
+
+[bahaiprayers.net 11413](https://bahaiprayers.net/Book/Single/39/11413)
+
 
 ----
 
@@ -1502,7 +1883,10 @@ bpn11413
 
 -- Abdu'l-Bahá
 
-bpn11414 
+Prayer bpn11414 in தமிழ் (bpn11414) 
+
+[bahaiprayers.net 11414](https://bahaiprayers.net/Book/Single/39/11414)
+
 
 ----
 
@@ -1512,7 +1896,10 @@ bpn11414
 
 -- Abdu'l-Bahá
 
-bpn11415 
+Prayer bpn11415 in தமிழ் (bpn11415) 
+
+[bahaiprayers.net 11415](https://bahaiprayers.net/Book/Single/39/11415)
+
 
 ----
 
@@ -1522,7 +1909,10 @@ bpn11415
 
 -- Abdu'l-Bahá
 
-bpn11416 
+Prayer bpn11416 in தமிழ் (bpn11416) 
+
+[bahaiprayers.net 11416](https://bahaiprayers.net/Book/Single/39/11416)
+
 
 ----
 
@@ -1532,7 +1922,10 @@ bpn11416
 
 -- Abdu'l-Bahá
 
-bpn11417 
+Prayer bpn11417 in தமிழ் (bpn11417) 
+
+[bahaiprayers.net 11417](https://bahaiprayers.net/Book/Single/39/11417)
+
 
 ----
 
@@ -1546,7 +1939,10 @@ bpn11417
 
 -- Bahá'u'lláh
 
-bpn11432 
+Prayer bpn11432 in தமிழ் (bpn11432) 
+
+[bahaiprayers.net 11432](https://bahaiprayers.net/Book/Single/39/11432)
+
 
 ----
 
@@ -1560,7 +1956,10 @@ bpn11432
 
 -- Abdu'l-Bahá
 
-bpn11262 
+Prayer bpn11262 in தமிழ் (bpn11262) 
+
+[bahaiprayers.net 11262](https://bahaiprayers.net/Book/Single/39/11262)
+
 
 ----
 
@@ -1574,7 +1973,10 @@ bpn11262
 
 -- Bahá'u'lláh
 
-bpn11446 
+Prayer bpn11446 in தமிழ் (bpn11446) 
+
+[bahaiprayers.net 11446](https://bahaiprayers.net/Book/Single/39/11446)
+
 
 ----
 
@@ -1588,7 +1990,10 @@ bpn11446
 
 -- Abdu'l-Bahá
 
-bpn11354 
+Prayer bpn11354 in தமிழ் (bpn11354) 
+
+[bahaiprayers.net 11354](https://bahaiprayers.net/Book/Single/39/11354)
+
 
 ----
 
@@ -1602,7 +2007,10 @@ bpn11354
 
 -- Bahá'u'lláh
 
-bpn11433 
+Prayer bpn11433 in தமிழ் (bpn11433) 
+
+[bahaiprayers.net 11433](https://bahaiprayers.net/Book/Single/39/11433)
+
 
 ----
 
@@ -1616,7 +2024,10 @@ bpn11433
 
 -- Bahá'u'lláh
 
-bpn11309 
+Prayer bpn11309 in தமிழ் (bpn11309) 
+
+[bahaiprayers.net 11309](https://bahaiprayers.net/Book/Single/39/11309)
+
 
 ----
 
@@ -1630,7 +2041,10 @@ bpn11309
 
 -- Bahá'u'lláh
 
-bpn11449 
+Prayer bpn11449 in தமிழ் (bpn11449) 
+
+[bahaiprayers.net 11449](https://bahaiprayers.net/Book/Single/39/11449)
+
 
 ----
 
@@ -1644,7 +2058,10 @@ bpn11449
 
 -- Bahá'u'lláh
 
-bpn11450 
+Prayer bpn11450 in தமிழ் (bpn11450) 
+
+[bahaiprayers.net 11450](https://bahaiprayers.net/Book/Single/39/11450)
+
 
 ----
 
@@ -1658,7 +2075,10 @@ bpn11450
 
 -- Bahá'u'lláh
 
-bpn11321 
+Prayer bpn11321 in தமிழ் (bpn11321) 
+
+[bahaiprayers.net 11321](https://bahaiprayers.net/Book/Single/39/11321)
+
 
 ----
 
@@ -1668,7 +2088,10 @@ bpn11321
 
 -- Abdu'l-Bahá
 
-bpn11322 
+Prayer bpn11322 in தமிழ் (bpn11322) 
+
+[bahaiprayers.net 11322](https://bahaiprayers.net/Book/Single/39/11322)
+
 
 ----
 
@@ -1678,7 +2101,10 @@ bpn11322
 
 -- Abdu'l-Bahá
 
-bpn11323 
+Prayer bpn11323 in தமிழ் (bpn11323) 
+
+[bahaiprayers.net 11323](https://bahaiprayers.net/Book/Single/39/11323)
+
 
 ----
 
@@ -1692,7 +2118,10 @@ bpn11323
 
 -- Abdu'l-Bahá
 
-bpn11330 
+Prayer bpn11330 in தமிழ் (bpn11330) 
+
+[bahaiprayers.net 11330](https://bahaiprayers.net/Book/Single/39/11330)
+
 
 ----
 
@@ -1706,7 +2135,10 @@ bpn11330
 
 -- Bahá'u'lláh
 
-bpn11298 
+Prayer bpn11298 in தமிழ் (bpn11298) 
+
+[bahaiprayers.net 11298](https://bahaiprayers.net/Book/Single/39/11298)
+
 
 ----
 
@@ -1716,7 +2148,10 @@ bpn11298
 
 -- Bahá'u'lláh
 
-bpn11299 
+Prayer bpn11299 in தமிழ் (bpn11299) 
+
+[bahaiprayers.net 11299](https://bahaiprayers.net/Book/Single/39/11299)
+
 
 ----
 
@@ -1730,7 +2165,10 @@ bpn11299
 
 -- Bahá'u'lláh
 
-bpn11355 
+Prayer bpn11355 in தமிழ் (bpn11355) 
+
+[bahaiprayers.net 11355](https://bahaiprayers.net/Book/Single/39/11355)
+
 
 ----
 
@@ -1740,7 +2178,10 @@ bpn11355
 
 -- Bahá'u'lláh
 
-bpn11356 
+Prayer bpn11356 in தமிழ் (bpn11356) 
+
+[bahaiprayers.net 11356](https://bahaiprayers.net/Book/Single/39/11356)
+
 
 ----
 
@@ -1750,7 +2191,10 @@ bpn11356
 
 -- Bahá'u'lláh
 
-bpn11357 
+Prayer bpn11357 in தமிழ் (bpn11357) 
+
+[bahaiprayers.net 11357](https://bahaiprayers.net/Book/Single/39/11357)
+
 
 ----
 
@@ -1760,7 +2204,10 @@ bpn11357
 
 -- Bahá'u'lláh
 
-bpn11358 
+Prayer bpn11358 in தமிழ் (bpn11358) 
+
+[bahaiprayers.net 11358](https://bahaiprayers.net/Book/Single/39/11358)
+
 
 ----
 
@@ -1770,7 +2217,10 @@ bpn11358
 
 -- Bahá'u'lláh
 
-bpn11359 
+Prayer bpn11359 in தமிழ் (bpn11359) 
+
+[bahaiprayers.net 11359](https://bahaiprayers.net/Book/Single/39/11359)
+
 
 ----
 
@@ -1780,7 +2230,10 @@ bpn11359
 
 -- Bahá'u'lláh
 
-bpn11360 
+Prayer bpn11360 in தமிழ் (bpn11360) 
+
+[bahaiprayers.net 11360](https://bahaiprayers.net/Book/Single/39/11360)
+
 
 ----
 
@@ -1790,7 +2243,10 @@ bpn11360
 
 -- Báb
 
-bpn11361 
+Prayer bpn11361 in தமிழ் (bpn11361) 
+
+[bahaiprayers.net 11361](https://bahaiprayers.net/Book/Single/39/11361)
+
 
 ----
 
@@ -1800,7 +2256,10 @@ bpn11361
 
 -- Báb
 
-bpn11362 
+Prayer bpn11362 in தமிழ் (bpn11362) 
+
+[bahaiprayers.net 11362](https://bahaiprayers.net/Book/Single/39/11362)
+
 
 ----
 
@@ -1810,7 +2269,10 @@ bpn11362
 
 -- Báb
 
-bpn11363 
+Prayer bpn11363 in தமிழ் (bpn11363) 
+
+[bahaiprayers.net 11363](https://bahaiprayers.net/Book/Single/39/11363)
+
 
 ----
 
@@ -1820,7 +2282,10 @@ bpn11363
 
 -- Abdu'l-Bahá
 
-bpn11364 
+Prayer bpn11364 in தமிழ் (bpn11364) 
+
+[bahaiprayers.net 11364](https://bahaiprayers.net/Book/Single/39/11364)
+
 
 ----
 
@@ -1830,7 +2295,10 @@ bpn11364
 
 -- Abdu'l-Bahá
 
-bpn11365 
+Prayer bpn11365 in தமிழ் (bpn11365) 
+
+[bahaiprayers.net 11365](https://bahaiprayers.net/Book/Single/39/11365)
+
 
 ----
 
@@ -1844,7 +2312,10 @@ bpn11365
 
 -- Bahá'u'lláh
 
-bpn11366 
+Prayer bpn11366 in தமிழ் (bpn11366) 
+
+[bahaiprayers.net 11366](https://bahaiprayers.net/Book/Single/39/11366)
+
 
 ----
 
@@ -1854,7 +2325,10 @@ bpn11366
 
 -- Bahá'u'lláh
 
-bpn11367 
+Prayer bpn11367 in தமிழ் (bpn11367) 
+
+[bahaiprayers.net 11367](https://bahaiprayers.net/Book/Single/39/11367)
+
 
 ----
 
@@ -1864,7 +2338,10 @@ bpn11367
 
 -- Bahá'u'lláh
 
-bpn11368 
+Prayer bpn11368 in தமிழ் (bpn11368) 
+
+[bahaiprayers.net 11368](https://bahaiprayers.net/Book/Single/39/11368)
+
 
 ----
 
@@ -1874,7 +2351,10 @@ bpn11368
 
 -- Bahá'u'lláh
 
-bpn11369 
+Prayer bpn11369 in தமிழ் (bpn11369) 
+
+[bahaiprayers.net 11369](https://bahaiprayers.net/Book/Single/39/11369)
+
 
 ----
 
@@ -1884,7 +2364,10 @@ bpn11369
 
 -- Bahá'u'lláh
 
-bpn11370 
+Prayer bpn11370 in தமிழ் (bpn11370) 
+
+[bahaiprayers.net 11370](https://bahaiprayers.net/Book/Single/39/11370)
+
 
 ----
 
@@ -1894,7 +2377,10 @@ bpn11370
 
 -- Báb
 
-bpn11371 
+Prayer bpn11371 in தமிழ் (bpn11371) 
+
+[bahaiprayers.net 11371](https://bahaiprayers.net/Book/Single/39/11371)
+
 
 ----
 
@@ -1904,7 +2390,10 @@ bpn11371
 
 -- Báb
 
-bpn11372 
+Prayer bpn11372 in தமிழ் (bpn11372) 
+
+[bahaiprayers.net 11372](https://bahaiprayers.net/Book/Single/39/11372)
+
 
 ----
 
@@ -1914,7 +2403,10 @@ bpn11372
 
 -- Abdu'l-Bahá
 
-bpn11373 
+Prayer bpn11373 in தமிழ் (bpn11373) 
+
+[bahaiprayers.net 11373](https://bahaiprayers.net/Book/Single/39/11373)
+
 
 ----
 
@@ -1924,7 +2416,10 @@ bpn11373
 
 -- Abdu'l-Bahá
 
-bpn11374 
+Prayer bpn11374 in தமிழ் (bpn11374) 
+
+[bahaiprayers.net 11374](https://bahaiprayers.net/Book/Single/39/11374)
+
 
 ----
 
@@ -1938,7 +2433,10 @@ bpn11374
 
 -- Bahá'u'lláh
 
-bpn11375 
+Prayer bpn11375 in தமிழ் (bpn11375) 
+
+[bahaiprayers.net 11375](https://bahaiprayers.net/Book/Single/39/11375)
+
 
 ----
 
@@ -1948,7 +2446,10 @@ bpn11375
 
 -- Bahá'u'lláh
 
-bpn11376 
+Prayer bpn11376 in தமிழ் (bpn11376) 
+
+[bahaiprayers.net 11376](https://bahaiprayers.net/Book/Single/39/11376)
+
 
 ----
 
@@ -1958,7 +2459,10 @@ bpn11376
 
 -- Bahá'u'lláh
 
-bpn11377 
+Prayer bpn11377 in தமிழ் (bpn11377) 
+
+[bahaiprayers.net 11377](https://bahaiprayers.net/Book/Single/39/11377)
+
 
 ----
 
@@ -1968,7 +2472,10 @@ bpn11377
 
 -- Bahá'u'lláh
 
-bpn11378 
+Prayer bpn11378 in தமிழ் (bpn11378) 
+
+[bahaiprayers.net 11378](https://bahaiprayers.net/Book/Single/39/11378)
+
 
 ----
 
@@ -1978,7 +2485,10 @@ bpn11378
 
 -- Bahá'u'lláh
 
-bpn11379 
+Prayer bpn11379 in தமிழ் (bpn11379) 
+
+[bahaiprayers.net 11379](https://bahaiprayers.net/Book/Single/39/11379)
+
 
 ----
 
@@ -1988,7 +2498,10 @@ bpn11379
 
 -- Bahá'u'lláh
 
-bpn11386 
+Prayer bpn11386 in தமிழ் (bpn11386) 
+
+[bahaiprayers.net 11386](https://bahaiprayers.net/Book/Single/39/11386)
+
 
 ----
 
@@ -1998,7 +2511,10 @@ bpn11386
 
 -- Báb
 
-bpn11380 
+Prayer bpn11380 in தமிழ் (bpn11380) 
+
+[bahaiprayers.net 11380](https://bahaiprayers.net/Book/Single/39/11380)
+
 
 ----
 
@@ -2008,7 +2524,10 @@ bpn11380
 
 -- Báb
 
-bpn11381 
+Prayer bpn11381 in தமிழ் (bpn11381) 
+
+[bahaiprayers.net 11381](https://bahaiprayers.net/Book/Single/39/11381)
+
 
 ----
 
@@ -2018,7 +2537,10 @@ bpn11381
 
 -- Báb
 
-bpn11382 
+Prayer bpn11382 in தமிழ் (bpn11382) 
+
+[bahaiprayers.net 11382](https://bahaiprayers.net/Book/Single/39/11382)
+
 
 ----
 
@@ -2028,7 +2550,10 @@ bpn11382
 
 -- Abdu'l-Bahá
 
-bpn11383 
+Prayer bpn11383 in தமிழ் (bpn11383) 
+
+[bahaiprayers.net 11383](https://bahaiprayers.net/Book/Single/39/11383)
+
 
 ----
 
@@ -2038,7 +2563,10 @@ bpn11383
 
 -- Abdu'l-Bahá
 
-bpn11384 
+Prayer bpn11384 in தமிழ் (bpn11384) 
+
+[bahaiprayers.net 11384](https://bahaiprayers.net/Book/Single/39/11384)
+
 
 ----
 
@@ -2048,7 +2576,10 @@ bpn11384
 
 -- Abdu'l-Bahá
 
-bpn11385 
+Prayer bpn11385 in தமிழ் (bpn11385) 
+
+[bahaiprayers.net 11385](https://bahaiprayers.net/Book/Single/39/11385)
+
 
 ----
 
@@ -2062,7 +2593,10 @@ bpn11385
 
 -- Bahá'u'lláh
 
-bpn11387 
+Prayer bpn11387 in தமிழ் (bpn11387) 
+
+[bahaiprayers.net 11387](https://bahaiprayers.net/Book/Single/39/11387)
+
 
 ----
 
@@ -2072,7 +2606,10 @@ bpn11387
 
 -- Bahá'u'lláh
 
-bpn11388 
+Prayer bpn11388 in தமிழ் (bpn11388) 
+
+[bahaiprayers.net 11388](https://bahaiprayers.net/Book/Single/39/11388)
+
 
 ----
 
@@ -2082,7 +2619,10 @@ bpn11388
 
 -- Bahá'u'lláh
 
-bpn11389 
+Prayer bpn11389 in தமிழ் (bpn11389) 
+
+[bahaiprayers.net 11389](https://bahaiprayers.net/Book/Single/39/11389)
+
 
 ----
 
@@ -2092,7 +2632,10 @@ bpn11389
 
 -- Bahá'u'lláh
 
-bpn11390 
+Prayer bpn11390 in தமிழ் (bpn11390) 
+
+[bahaiprayers.net 11390](https://bahaiprayers.net/Book/Single/39/11390)
+
 
 ----
 
@@ -2102,7 +2645,10 @@ bpn11390
 
 -- Báb
 
-bpn11391 
+Prayer bpn11391 in தமிழ் (bpn11391) 
+
+[bahaiprayers.net 11391](https://bahaiprayers.net/Book/Single/39/11391)
+
 
 ----
 
@@ -2116,7 +2662,10 @@ bpn11391
 
 -- Bahá'u'lláh
 
-bpn11452 
+Prayer bpn11452 in தமிழ் (bpn11452) 
+
+[bahaiprayers.net 11452](https://bahaiprayers.net/Book/Single/39/11452)
+
 
 ----
 
@@ -2130,7 +2679,10 @@ bpn11452
 
 -- Bahá'u'lláh
 
-bpn11268 
+Prayer bpn11268 in தமிழ் (bpn11268) 
+
+[bahaiprayers.net 11268](https://bahaiprayers.net/Book/Single/39/11268)
+
 
 ----
 
@@ -2144,7 +2696,10 @@ bpn11268
 
 -- Bahá'u'lláh
 
-bpn11392 
+Prayer bpn11392 in தமிழ் (bpn11392) 
+
+[bahaiprayers.net 11392](https://bahaiprayers.net/Book/Single/39/11392)
+
 
 ----
 
@@ -2154,7 +2709,10 @@ bpn11392
 
 -- Bahá'u'lláh
 
-bpn11393 
+Prayer bpn11393 in தமிழ் (bpn11393) 
+
+[bahaiprayers.net 11393](https://bahaiprayers.net/Book/Single/39/11393)
+
 
 ----
 
@@ -2164,7 +2722,10 @@ bpn11393
 
 -- Bahá'u'lláh
 
-bpn11394 
+Prayer bpn11394 in தமிழ் (bpn11394) 
+
+[bahaiprayers.net 11394](https://bahaiprayers.net/Book/Single/39/11394)
+
 
 ----
 
@@ -2174,7 +2735,10 @@ bpn11394
 
 -- Bahá'u'lláh
 
-bpn11395 
+Prayer bpn11395 in தமிழ் (bpn11395) 
+
+[bahaiprayers.net 11395](https://bahaiprayers.net/Book/Single/39/11395)
+
 
 ----
 
@@ -2184,7 +2748,10 @@ bpn11395
 
 -- Bahá'u'lláh
 
-bpn11396 
+Prayer bpn11396 in தமிழ் (bpn11396) 
+
+[bahaiprayers.net 11396](https://bahaiprayers.net/Book/Single/39/11396)
+
 
 ----
 
@@ -2194,7 +2761,10 @@ bpn11396
 
 -- Bahá'u'lláh
 
-bpn11397 
+Prayer bpn11397 in தமிழ் (bpn11397) 
+
+[bahaiprayers.net 11397](https://bahaiprayers.net/Book/Single/39/11397)
+
 
 ----
 
@@ -2204,7 +2774,10 @@ bpn11397
 
 -- Bahá'u'lláh
 
-bpn11398 
+Prayer bpn11398 in தமிழ் (bpn11398) 
+
+[bahaiprayers.net 11398](https://bahaiprayers.net/Book/Single/39/11398)
+
 
 ----
 
@@ -2214,7 +2787,10 @@ bpn11398
 
 -- Abdu'l-Bahá
 
-bpn11399 
+Prayer bpn11399 in தமிழ் (bpn11399) 
+
+[bahaiprayers.net 11399](https://bahaiprayers.net/Book/Single/39/11399)
+
 
 ----
 
@@ -2228,7 +2804,10 @@ bpn11399
 
 -- Báb
 
-bpn11300 
+Prayer bpn11300 in தமிழ் (bpn11300) 
+
+[bahaiprayers.net 11300](https://bahaiprayers.net/Book/Single/39/11300)
+
 
 ----
 
@@ -2238,7 +2817,10 @@ bpn11300
 
 -- Báb
 
-bpn11301 
+Prayer bpn11301 in தமிழ் (bpn11301) 
+
+[bahaiprayers.net 11301](https://bahaiprayers.net/Book/Single/39/11301)
+
 
 ----
 
@@ -2248,7 +2830,10 @@ bpn11301
 
 -- Abdu'l-Bahá
 
-bpn11302 
+Prayer bpn11302 in தமிழ் (bpn11302) 
+
+[bahaiprayers.net 11302](https://bahaiprayers.net/Book/Single/39/11302)
+
 
 ----
 
@@ -2262,7 +2847,10 @@ bpn11302
 
 -- Bahá'u'lláh
 
-bpn11401 
+Prayer bpn11401 in தமிழ் (bpn11401) 
+
+[bahaiprayers.net 11401](https://bahaiprayers.net/Book/Single/39/11401)
+
 
 ----
 
@@ -2272,7 +2860,10 @@ bpn11401
 
 -- Bahá'u'lláh
 
-bpn11402 
+Prayer bpn11402 in தமிழ் (bpn11402) 
+
+[bahaiprayers.net 11402](https://bahaiprayers.net/Book/Single/39/11402)
+
 
 ----
 
@@ -2282,7 +2873,10 @@ bpn11402
 
 -- Bahá'u'lláh
 
-bpn11403 
+Prayer bpn11403 in தமிழ் (bpn11403) 
+
+[bahaiprayers.net 11403](https://bahaiprayers.net/Book/Single/39/11403)
+
 
 ----
 
@@ -2292,7 +2886,10 @@ bpn11403
 
 -- Bahá'u'lláh
 
-bpn11404 
+Prayer bpn11404 in தமிழ் (bpn11404) 
+
+[bahaiprayers.net 11404](https://bahaiprayers.net/Book/Single/39/11404)
+
 
 ----
 
@@ -2302,7 +2899,10 @@ bpn11404
 
 -- Abdu'l-Bahá
 
-bpn11405 
+Prayer bpn11405 in தமிழ் (bpn11405) 
+
+[bahaiprayers.net 11405](https://bahaiprayers.net/Book/Single/39/11405)
+
 
 ----
 
@@ -2312,7 +2912,10 @@ bpn11405
 
 -- Abdu'l-Bahá
 
-bpn11406 
+Prayer bpn11406 in தமிழ் (bpn11406) 
+
+[bahaiprayers.net 11406](https://bahaiprayers.net/Book/Single/39/11406)
+
 
 ----
 
@@ -2322,7 +2925,10 @@ bpn11406
 
 -- Abdu'l-Bahá
 
-bpn11407 
+Prayer bpn11407 in தமிழ் (bpn11407) 
+
+[bahaiprayers.net 11407](https://bahaiprayers.net/Book/Single/39/11407)
+
 
 ----
 
@@ -2336,7 +2942,10 @@ bpn11407
 
 -- Bahá'u'lláh
 
-bpn11418 
+Prayer bpn11418 in தமிழ் (bpn11418) 
+
+[bahaiprayers.net 11418](https://bahaiprayers.net/Book/Single/39/11418)
+
 
 ----
 
@@ -2346,7 +2955,10 @@ bpn11418
 
 -- Abdu'l-Bahá
 
-bpn11419 
+Prayer bpn11419 in தமிழ் (bpn11419) 
+
+[bahaiprayers.net 11419](https://bahaiprayers.net/Book/Single/39/11419)
+
 
 ----
 
@@ -2356,7 +2968,10 @@ bpn11419
 
 -- Abdu'l-Bahá
 
-bpn11420 
+Prayer bpn11420 in தமிழ் (bpn11420) 
+
+[bahaiprayers.net 11420](https://bahaiprayers.net/Book/Single/39/11420)
+
 
 ----
 
@@ -2366,7 +2981,10 @@ bpn11420
 
 -- Abdu'l-Bahá
 
-bpn11421 
+Prayer bpn11421 in தமிழ் (bpn11421) 
+
+[bahaiprayers.net 11421](https://bahaiprayers.net/Book/Single/39/11421)
+
 
 ----
 
@@ -2376,7 +2994,10 @@ bpn11421
 
 -- Abdu'l-Bahá
 
-bpn11422 
+Prayer bpn11422 in தமிழ் (bpn11422) 
+
+[bahaiprayers.net 11422](https://bahaiprayers.net/Book/Single/39/11422)
+
 
 ----
 
@@ -2390,7 +3011,10 @@ bpn11422
 
 -- Bahá'u'lláh
 
-bpn11423 
+Prayer bpn11423 in தமிழ் (bpn11423) 
+
+[bahaiprayers.net 11423](https://bahaiprayers.net/Book/Single/39/11423)
+
 
 ----
 
@@ -2400,7 +3024,10 @@ bpn11423
 
 -- Bahá'u'lláh
 
-bpn11424 
+Prayer bpn11424 in தமிழ் (bpn11424) 
+
+[bahaiprayers.net 11424](https://bahaiprayers.net/Book/Single/39/11424)
+
 
 ----
 
@@ -2410,7 +3037,10 @@ bpn11424
 
 -- Bahá'u'lláh
 
-bpn11425 
+Prayer bpn11425 in தமிழ் (bpn11425) 
+
+[bahaiprayers.net 11425](https://bahaiprayers.net/Book/Single/39/11425)
+
 
 ----
 
@@ -2420,7 +3050,10 @@ bpn11425
 
 -- Báb
 
-bpn11426 
+Prayer bpn11426 in தமிழ் (bpn11426) 
+
+[bahaiprayers.net 11426](https://bahaiprayers.net/Book/Single/39/11426)
+
 
 ----
 
@@ -2430,7 +3063,10 @@ bpn11426
 
 -- Báb
 
-bpn11427 
+Prayer bpn11427 in தமிழ் (bpn11427) 
+
+[bahaiprayers.net 11427](https://bahaiprayers.net/Book/Single/39/11427)
+
 
 ----
 
@@ -2440,7 +3076,10 @@ bpn11427
 
 -- Báb
 
-bpn11428 
+Prayer bpn11428 in தமிழ் (bpn11428) 
+
+[bahaiprayers.net 11428](https://bahaiprayers.net/Book/Single/39/11428)
+
 
 ----
 
@@ -2450,7 +3089,10 @@ bpn11428
 
 -- Báb
 
-bpn11429 
+Prayer bpn11429 in தமிழ் (bpn11429) 
+
+[bahaiprayers.net 11429](https://bahaiprayers.net/Book/Single/39/11429)
+
 
 ----
 
@@ -2460,7 +3102,10 @@ bpn11429
 
 -- Báb
 
-bpn11430 
+Prayer bpn11430 in தமிழ் (bpn11430) 
+
+[bahaiprayers.net 11430](https://bahaiprayers.net/Book/Single/39/11430)
+
 
 ----
 
@@ -2470,7 +3115,10 @@ bpn11430
 
 -- Abdu'l-Bahá
 
-bpn11431 
+Prayer bpn11431 in தமிழ் (bpn11431) 
+
+[bahaiprayers.net 11431](https://bahaiprayers.net/Book/Single/39/11431)
+
 
 ----
 
@@ -2484,7 +3132,10 @@ bpn11431
 
 -- Bahá'u'lláh
 
-bpn11447 
+Prayer bpn11447 in தமிழ் (bpn11447) 
+
+[bahaiprayers.net 11447](https://bahaiprayers.net/Book/Single/39/11447)
+
 
 ----
 

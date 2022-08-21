@@ -136,7 +136,10 @@ tags = ['lang=tvl', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn10909 
+Prayer bpn10909 in Tuvalu (bpn10909) 
+
+[bahaiprayers.net 10909](https://bahaiprayers.net/Book/Single/95/10909)
+
 
 ----
 
@@ -146,7 +149,10 @@ bpn10909
 
 -- Bahá'u'lláh
 
-bpn10910 
+Prayer bpn10910 in Tuvalu (bpn10910) 
+
+[bahaiprayers.net 10910](https://bahaiprayers.net/Book/Single/95/10910)
+
 
 ----
 
@@ -156,7 +162,10 @@ bpn10910
 
 -- Abdu'l-Bahá
 
-bpn10911 
+Prayer bpn10911 in Tuvalu (bpn10911) 
+
+[bahaiprayers.net 10911](https://bahaiprayers.net/Book/Single/95/10911)
+
 
 ----
 
@@ -170,7 +179,10 @@ bpn10911
 
 -- Abdu'l-Bahá
 
-bpn10870 
+Prayer bpn10870 in Tuvalu (bpn10870) 
+
+[bahaiprayers.net 10870](https://bahaiprayers.net/Book/Single/95/10870)
+
 
 ----
 
@@ -180,7 +192,10 @@ bpn10870
 
 -- Abdu'l-Bahá
 
-bpn10871 
+Prayer bpn10871 in Tuvalu (bpn10871) 
+
+[bahaiprayers.net 10871](https://bahaiprayers.net/Book/Single/95/10871)
+
 
 ----
 
@@ -190,7 +205,10 @@ bpn10871
 
 -- Abdu'l-Bahá
 
-bpn10872 
+Prayer bpn10872 in Tuvalu (bpn10872) 
+
+[bahaiprayers.net 10872](https://bahaiprayers.net/Book/Single/95/10872)
+
 
 ----
 
@@ -204,7 +222,10 @@ bpn10872
 
 -- Bahá'u'lláh
 
-bpn10970 
+Prayer bpn10970 in Tuvalu (bpn10970) 
+
+[bahaiprayers.net 10970](https://bahaiprayers.net/Book/Single/95/10970)
+
 
 ----
 
@@ -218,7 +239,10 @@ bpn10970
 
 -- Abdu'l-Bahá
 
-bpn10916 
+Prayer bpn10916 in Tuvalu (bpn10916) 
+
+[bahaiprayers.net 10916](https://bahaiprayers.net/Book/Single/95/10916)
+
 
 ----
 
@@ -232,7 +256,10 @@ bpn10916
 
 -- Bahá'u'lláh
 
-bpn12347 
+Prayer bpn12347 in Tuvalu (bpn12347) 
+
+[bahaiprayers.net 12347](https://bahaiprayers.net/Book/Single/95/12347)
+
 
 ----
 
@@ -242,7 +269,10 @@ bpn12347
 
 -- Bahá'u'lláh
 
-bpn12348 
+Prayer bpn12348 in Tuvalu (bpn12348) 
+
+[bahaiprayers.net 12348](https://bahaiprayers.net/Book/Single/95/12348)
+
 
 ----
 
@@ -252,7 +282,10 @@ bpn12348
 
 -- Bahá'u'lláh
 
-bpn12349 
+Prayer bpn12349 in Tuvalu (bpn12349) 
+
+[bahaiprayers.net 12349](https://bahaiprayers.net/Book/Single/95/12349)
+
 
 ----
 
@@ -262,7 +295,10 @@ bpn12349
 
 -- Bahá'u'lláh
 
-bpn12350 
+Prayer bpn12350 in Tuvalu (bpn12350) 
+
+[bahaiprayers.net 12350](https://bahaiprayers.net/Book/Single/95/12350)
+
 
 ----
 
@@ -272,7 +308,10 @@ bpn12350
 
 -- Bahá'u'lláh
 
-bpn12351 
+Prayer bpn12351 in Tuvalu (bpn12351) 
+
+[bahaiprayers.net 12351](https://bahaiprayers.net/Book/Single/95/12351)
+
 
 ----
 
@@ -282,7 +321,10 @@ bpn12351
 
 -- Bahá'u'lláh
 
-bpn12352 
+Prayer bpn12352 in Tuvalu (bpn12352) 
+
+[bahaiprayers.net 12352](https://bahaiprayers.net/Book/Single/95/12352)
+
 
 ----
 
@@ -292,7 +334,10 @@ bpn12352
 
 -- Bahá'u'lláh
 
-bpn12353 
+Prayer bpn12353 in Tuvalu (bpn12353) 
+
+[bahaiprayers.net 12353](https://bahaiprayers.net/Book/Single/95/12353)
+
 
 ----
 
@@ -302,7 +347,10 @@ bpn12353
 
 -- Bahá'u'lláh
 
-bpn12354 
+Prayer bpn12354 in Tuvalu (bpn12354) 
+
+[bahaiprayers.net 12354](https://bahaiprayers.net/Book/Single/95/12354)
+
 
 ----
 
@@ -312,7 +360,10 @@ bpn12354
 
 -- Bahá'u'lláh
 
-bpn12355 
+Prayer bpn12355 in Tuvalu (bpn12355) 
+
+[bahaiprayers.net 12355](https://bahaiprayers.net/Book/Single/95/12355)
+
 
 ----
 
@@ -322,7 +373,10 @@ bpn12355
 
 -- Bahá'u'lláh
 
-bpn12356 
+Prayer bpn12356 in Tuvalu (bpn12356) 
+
+[bahaiprayers.net 12356](https://bahaiprayers.net/Book/Single/95/12356)
+
 
 ----
 
@@ -332,7 +386,10 @@ bpn12356
 
 -- Bahá'u'lláh
 
-bpn12357 
+Prayer bpn12357 in Tuvalu (bpn12357) 
+
+[bahaiprayers.net 12357](https://bahaiprayers.net/Book/Single/95/12357)
+
 
 ----
 
@@ -342,7 +399,10 @@ bpn12357
 
 -- Abdu'l-Bahá
 
-bpn12358 
+Prayer bpn12358 in Tuvalu (bpn12358) 
+
+[bahaiprayers.net 12358](https://bahaiprayers.net/Book/Single/95/12358)
+
 
 ----
 
@@ -356,7 +416,10 @@ bpn12358
 
 -- Bahá'u'lláh
 
-bpn12224 
+Prayer bpn12224 in Tuvalu (bpn12224) 
+
+[bahaiprayers.net 12224](https://bahaiprayers.net/Book/Single/95/12224)
+
 
 ----
 
@@ -366,7 +429,10 @@ bpn12224
 
 -- Bahá'u'lláh
 
-bpn12225 
+Prayer bpn12225 in Tuvalu (bpn12225) 
+
+[bahaiprayers.net 12225](https://bahaiprayers.net/Book/Single/95/12225)
+
 
 ----
 
@@ -376,7 +442,10 @@ bpn12225
 
 -- Bahá'u'lláh
 
-bpn12226 
+Prayer bpn12226 in Tuvalu (bpn12226) 
+
+[bahaiprayers.net 12226](https://bahaiprayers.net/Book/Single/95/12226)
+
 
 ----
 
@@ -386,7 +455,10 @@ bpn12226
 
 -- Bahá'u'lláh
 
-bpn12227 
+Prayer bpn12227 in Tuvalu (bpn12227) 
+
+[bahaiprayers.net 12227](https://bahaiprayers.net/Book/Single/95/12227)
+
 
 ----
 
@@ -396,7 +468,10 @@ bpn12227
 
 -- Bahá'u'lláh
 
-bpn12228 
+Prayer bpn12228 in Tuvalu (bpn12228) 
+
+[bahaiprayers.net 12228](https://bahaiprayers.net/Book/Single/95/12228)
+
 
 ----
 
@@ -406,7 +481,10 @@ bpn12228
 
 -- Bahá'u'lláh
 
-bpn12229 
+Prayer bpn12229 in Tuvalu (bpn12229) 
+
+[bahaiprayers.net 12229](https://bahaiprayers.net/Book/Single/95/12229)
+
 
 ----
 
@@ -416,7 +494,10 @@ bpn12229
 
 -- Bahá'u'lláh
 
-bpn12230 
+Prayer bpn12230 in Tuvalu (bpn12230) 
+
+[bahaiprayers.net 12230](https://bahaiprayers.net/Book/Single/95/12230)
+
 
 ----
 
@@ -430,7 +511,10 @@ bpn12230
 
 -- Bahá'u'lláh
 
-bpn10947 
+Prayer bpn10947 in Tuvalu (bpn10947) 
+
+[bahaiprayers.net 10947](https://bahaiprayers.net/Book/Single/95/10947)
+
 
 ----
 
@@ -440,7 +524,10 @@ bpn10947
 
 -- Bahá'u'lláh
 
-bpn10948 
+Prayer bpn10948 in Tuvalu (bpn10948) 
+
+[bahaiprayers.net 10948](https://bahaiprayers.net/Book/Single/95/10948)
+
 
 ----
 
@@ -450,7 +537,10 @@ bpn10948
 
 -- Bahá'u'lláh
 
-bpn10949 
+Prayer bpn10949 in Tuvalu (bpn10949) 
+
+[bahaiprayers.net 10949](https://bahaiprayers.net/Book/Single/95/10949)
+
 
 ----
 
@@ -460,7 +550,10 @@ bpn10949
 
 -- Abdu'l-Bahá
 
-bpn10950 
+Prayer bpn10950 in Tuvalu (bpn10950) 
+
+[bahaiprayers.net 10950](https://bahaiprayers.net/Book/Single/95/10950)
+
 
 ----
 
@@ -474,7 +567,10 @@ bpn10950
 
 -- Bahá'u'lláh
 
-bpn10922 
+Prayer bpn10922 in Tuvalu (bpn10922) 
+
+[bahaiprayers.net 10922](https://bahaiprayers.net/Book/Single/95/10922)
+
 
 ----
 
@@ -484,7 +580,10 @@ bpn10922
 
 -- Bahá'u'lláh
 
-bpn10923 
+Prayer bpn10923 in Tuvalu (bpn10923) 
+
+[bahaiprayers.net 10923](https://bahaiprayers.net/Book/Single/95/10923)
+
 
 ----
 
@@ -494,7 +593,10 @@ bpn10923
 
 -- Bahá'u'lláh
 
-bpn10924 
+Prayer bpn10924 in Tuvalu (bpn10924) 
+
+[bahaiprayers.net 10924](https://bahaiprayers.net/Book/Single/95/10924)
+
 
 ----
 
@@ -504,7 +606,10 @@ bpn10924
 
 -- Bahá'u'lláh
 
-bpn10925 
+Prayer bpn10925 in Tuvalu (bpn10925) 
+
+[bahaiprayers.net 10925](https://bahaiprayers.net/Book/Single/95/10925)
+
 
 ----
 
@@ -514,7 +619,10 @@ bpn10925
 
 -- Bahá'u'lláh
 
-bpn10926 
+Prayer bpn10926 in Tuvalu (bpn10926) 
+
+[bahaiprayers.net 10926](https://bahaiprayers.net/Book/Single/95/10926)
+
 
 ----
 
@@ -524,7 +632,10 @@ bpn10926
 
 -- Báb
 
-bpn10927 
+Prayer bpn10927 in Tuvalu (bpn10927) 
+
+[bahaiprayers.net 10927](https://bahaiprayers.net/Book/Single/95/10927)
+
 
 ----
 
@@ -534,7 +645,10 @@ bpn10927
 
 -- Báb
 
-bpn10928 
+Prayer bpn10928 in Tuvalu (bpn10928) 
+
+[bahaiprayers.net 10928](https://bahaiprayers.net/Book/Single/95/10928)
+
 
 ----
 
@@ -544,7 +658,10 @@ bpn10928
 
 -- Báb
 
-bpn10929 
+Prayer bpn10929 in Tuvalu (bpn10929) 
+
+[bahaiprayers.net 10929](https://bahaiprayers.net/Book/Single/95/10929)
+
 
 ----
 
@@ -554,7 +671,10 @@ bpn10929
 
 -- Báb
 
-bpn10930 
+Prayer bpn10930 in Tuvalu (bpn10930) 
+
+[bahaiprayers.net 10930](https://bahaiprayers.net/Book/Single/95/10930)
+
 
 ----
 
@@ -564,7 +684,10 @@ bpn10930
 
 -- Báb
 
-bpn10931 
+Prayer bpn10931 in Tuvalu (bpn10931) 
+
+[bahaiprayers.net 10931](https://bahaiprayers.net/Book/Single/95/10931)
+
 
 ----
 
@@ -574,7 +697,10 @@ bpn10931
 
 -- Abdu'l-Bahá
 
-bpn10932 
+Prayer bpn10932 in Tuvalu (bpn10932) 
+
+[bahaiprayers.net 10932](https://bahaiprayers.net/Book/Single/95/10932)
+
 
 ----
 
@@ -584,7 +710,10 @@ bpn10932
 
 -- Abdu'l-Bahá
 
-bpn10933 
+Prayer bpn10933 in Tuvalu (bpn10933) 
+
+[bahaiprayers.net 10933](https://bahaiprayers.net/Book/Single/95/10933)
+
 
 ----
 
@@ -598,7 +727,10 @@ bpn10933
 
 -- Bahá'u'lláh
 
-bpn12234 
+Prayer bpn12234 in Tuvalu (bpn12234) 
+
+[bahaiprayers.net 12234](https://bahaiprayers.net/Book/Single/95/12234)
+
 
 ----
 
@@ -608,7 +740,10 @@ bpn12234
 
 -- Báb
 
-bpn12235 
+Prayer bpn12235 in Tuvalu (bpn12235) 
+
+[bahaiprayers.net 12235](https://bahaiprayers.net/Book/Single/95/12235)
+
 
 ----
 
@@ -618,7 +753,10 @@ bpn12235
 
 -- Báb
 
-bpn12236 
+Prayer bpn12236 in Tuvalu (bpn12236) 
+
+[bahaiprayers.net 12236](https://bahaiprayers.net/Book/Single/95/12236)
+
 
 ----
 
@@ -628,7 +766,10 @@ bpn12236
 
 -- Abdu'l-Bahá
 
-bpn12237 
+Prayer bpn12237 in Tuvalu (bpn12237) 
+
+[bahaiprayers.net 12237](https://bahaiprayers.net/Book/Single/95/12237)
+
 
 ----
 
@@ -638,7 +779,10 @@ bpn12237
 
 -- Abdu'l-Bahá
 
-bpn12238 
+Prayer bpn12238 in Tuvalu (bpn12238) 
+
+[bahaiprayers.net 12238](https://bahaiprayers.net/Book/Single/95/12238)
+
 
 ----
 
@@ -652,7 +796,10 @@ bpn12238
 
 -- Bahá'u'lláh
 
-bpn10937 
+Prayer bpn10937 in Tuvalu (bpn10937) 
+
+[bahaiprayers.net 10937](https://bahaiprayers.net/Book/Single/95/10937)
+
 
 ----
 
@@ -662,7 +809,10 @@ bpn10937
 
 -- Abdu'l-Bahá
 
-bpn10938 
+Prayer bpn10938 in Tuvalu (bpn10938) 
+
+[bahaiprayers.net 10938](https://bahaiprayers.net/Book/Single/95/10938)
+
 
 ----
 
@@ -672,7 +822,10 @@ bpn10938
 
 -- Abdu'l-Bahá
 
-bpn10939 
+Prayer bpn10939 in Tuvalu (bpn10939) 
+
+[bahaiprayers.net 10939](https://bahaiprayers.net/Book/Single/95/10939)
+
 
 ----
 
@@ -682,7 +835,10 @@ bpn10939
 
 -- Abdu'l-Bahá
 
-bpn10940 
+Prayer bpn10940 in Tuvalu (bpn10940) 
+
+[bahaiprayers.net 10940](https://bahaiprayers.net/Book/Single/95/10940)
+
 
 ----
 
@@ -692,7 +848,10 @@ bpn10940
 
 -- Abdu'l-Bahá
 
-bpn10941 
+Prayer bpn10941 in Tuvalu (bpn10941) 
+
+[bahaiprayers.net 10941](https://bahaiprayers.net/Book/Single/95/10941)
+
 
 ----
 
@@ -702,7 +861,10 @@ bpn10941
 
 -- Abdu'l-Bahá
 
-bpn10942 
+Prayer bpn10942 in Tuvalu (bpn10942) 
+
+[bahaiprayers.net 10942](https://bahaiprayers.net/Book/Single/95/10942)
+
 
 ----
 
@@ -712,7 +874,10 @@ bpn10942
 
 -- Abdu'l-Bahá
 
-bpn10943 
+Prayer bpn10943 in Tuvalu (bpn10943) 
+
+[bahaiprayers.net 10943](https://bahaiprayers.net/Book/Single/95/10943)
+
 
 ----
 
@@ -726,7 +891,10 @@ bpn10943
 
 -- Bahá'u'lláh
 
-bpn12252 
+Prayer bpn12252 in Tuvalu (bpn12252) 
+
+[bahaiprayers.net 12252](https://bahaiprayers.net/Book/Single/95/12252)
+
 
 ----
 
@@ -736,7 +904,10 @@ bpn12252
 
 -- Bahá'u'lláh
 
-bpn12253 
+Prayer bpn12253 in Tuvalu (bpn12253) 
+
+[bahaiprayers.net 12253](https://bahaiprayers.net/Book/Single/95/12253)
+
 
 ----
 
@@ -746,7 +917,10 @@ bpn12253
 
 -- Bahá'u'lláh
 
-bpn12254 
+Prayer bpn12254 in Tuvalu (bpn12254) 
+
+[bahaiprayers.net 12254](https://bahaiprayers.net/Book/Single/95/12254)
+
 
 ----
 
@@ -756,7 +930,10 @@ bpn12254
 
 -- Bahá'u'lláh
 
-bpn12255 
+Prayer bpn12255 in Tuvalu (bpn12255) 
+
+[bahaiprayers.net 12255](https://bahaiprayers.net/Book/Single/95/12255)
+
 
 ----
 
@@ -766,7 +943,10 @@ bpn12255
 
 -- Bahá'u'lláh
 
-bpn12256 
+Prayer bpn12256 in Tuvalu (bpn12256) 
+
+[bahaiprayers.net 12256](https://bahaiprayers.net/Book/Single/95/12256)
+
 
 ----
 
@@ -776,7 +956,10 @@ bpn12256
 
 -- Bahá'u'lláh
 
-bpn12257 
+Prayer bpn12257 in Tuvalu (bpn12257) 
+
+[bahaiprayers.net 12257](https://bahaiprayers.net/Book/Single/95/12257)
+
 
 ----
 
@@ -786,7 +969,10 @@ bpn12257
 
 -- Bahá'u'lláh
 
-bpn12258 
+Prayer bpn12258 in Tuvalu (bpn12258) 
+
+[bahaiprayers.net 12258](https://bahaiprayers.net/Book/Single/95/12258)
+
 
 ----
 
@@ -796,7 +982,10 @@ bpn12258
 
 -- Báb
 
-bpn12259 
+Prayer bpn12259 in Tuvalu (bpn12259) 
+
+[bahaiprayers.net 12259](https://bahaiprayers.net/Book/Single/95/12259)
+
 
 ----
 
@@ -806,7 +995,10 @@ bpn12259
 
 -- Báb
 
-bpn12260 
+Prayer bpn12260 in Tuvalu (bpn12260) 
+
+[bahaiprayers.net 12260](https://bahaiprayers.net/Book/Single/95/12260)
+
 
 ----
 
@@ -820,7 +1012,10 @@ bpn12260
 
 -- Bahá'u'lláh
 
-bpn12345 
+Prayer bpn12345 in Tuvalu (bpn12345) 
+
+[bahaiprayers.net 12345](https://bahaiprayers.net/Book/Single/95/12345)
+
 
 ----
 
@@ -830,7 +1025,10 @@ bpn12345
 
 -- Abdu'l-Bahá
 
-bpn12346 
+Prayer bpn12346 in Tuvalu (bpn12346) 
+
+[bahaiprayers.net 12346](https://bahaiprayers.net/Book/Single/95/12346)
+
 
 ----
 
@@ -844,7 +1042,10 @@ bpn12346
 
 -- Bahá'u'lláh
 
-bpn12239 
+Prayer bpn12239 in Tuvalu (bpn12239) 
+
+[bahaiprayers.net 12239](https://bahaiprayers.net/Book/Single/95/12239)
+
 
 ----
 
@@ -854,7 +1055,10 @@ bpn12239
 
 -- Bahá'u'lláh
 
-bpn12240 
+Prayer bpn12240 in Tuvalu (bpn12240) 
+
+[bahaiprayers.net 12240](https://bahaiprayers.net/Book/Single/95/12240)
+
 
 ----
 
@@ -864,7 +1068,10 @@ bpn12240
 
 -- Báb
 
-bpn12241 
+Prayer bpn12241 in Tuvalu (bpn12241) 
+
+[bahaiprayers.net 12241](https://bahaiprayers.net/Book/Single/95/12241)
+
 
 ----
 
@@ -874,7 +1081,10 @@ bpn12241
 
 -- Báb
 
-bpn12242 
+Prayer bpn12242 in Tuvalu (bpn12242) 
+
+[bahaiprayers.net 12242](https://bahaiprayers.net/Book/Single/95/12242)
+
 
 ----
 
@@ -884,7 +1094,10 @@ bpn12242
 
 -- Báb
 
-bpn12243 
+Prayer bpn12243 in Tuvalu (bpn12243) 
+
+[bahaiprayers.net 12243](https://bahaiprayers.net/Book/Single/95/12243)
+
 
 ----
 
@@ -898,7 +1111,10 @@ bpn12243
 
 -- Abdu'l-Bahá
 
-bpn10958 
+Prayer bpn10958 in Tuvalu (bpn10958) 
+
+[bahaiprayers.net 10958](https://bahaiprayers.net/Book/Single/95/10958)
+
 
 ----
 
@@ -908,7 +1124,10 @@ bpn10958
 
 -- Abdu'l-Bahá
 
-bpn10959 
+Prayer bpn10959 in Tuvalu (bpn10959) 
+
+[bahaiprayers.net 10959](https://bahaiprayers.net/Book/Single/95/10959)
+
 
 ----
 
@@ -922,7 +1141,10 @@ bpn10959
 
 -- Bahá'u'lláh
 
-bpn12277 
+Prayer bpn12277 in Tuvalu (bpn12277) 
+
+[bahaiprayers.net 12277](https://bahaiprayers.net/Book/Single/95/12277)
+
 
 ----
 
@@ -932,7 +1154,10 @@ bpn12277
 
 -- Bahá'u'lláh
 
-bpn12278 
+Prayer bpn12278 in Tuvalu (bpn12278) 
+
+[bahaiprayers.net 12278](https://bahaiprayers.net/Book/Single/95/12278)
+
 
 ----
 
@@ -946,7 +1171,10 @@ bpn12278
 
 -- Bahá'u'lláh
 
-bpn10935 
+Prayer bpn10935 in Tuvalu (bpn10935) 
+
+[bahaiprayers.net 10935](https://bahaiprayers.net/Book/Single/95/10935)
+
 
 ----
 
@@ -956,7 +1184,10 @@ bpn10935
 
 -- Bahá'u'lláh
 
-bpn10936 
+Prayer bpn10936 in Tuvalu (bpn10936) 
+
+[bahaiprayers.net 10936](https://bahaiprayers.net/Book/Single/95/10936)
+
 
 ----
 
@@ -966,7 +1197,10 @@ bpn10936
 
 -- Bahá'u'lláh
 
-bpn10972 
+Prayer bpn10972 in Tuvalu (bpn10972) 
+
+[bahaiprayers.net 10972](https://bahaiprayers.net/Book/Single/95/10972)
+
 
 ----
 
@@ -976,7 +1210,10 @@ bpn10972
 
 -- Bahá'u'lláh
 
-bpn10973 
+Prayer bpn10973 in Tuvalu (bpn10973) 
+
+[bahaiprayers.net 10973](https://bahaiprayers.net/Book/Single/95/10973)
+
 
 ----
 
@@ -990,7 +1227,10 @@ bpn10973
 
 -- Báb
 
-bpn10913 
+Prayer bpn10913 in Tuvalu (bpn10913) 
+
+[bahaiprayers.net 10913](https://bahaiprayers.net/Book/Single/95/10913)
+
 
 ----
 
@@ -1004,7 +1244,10 @@ bpn10913
 
 -- Abdu'l-Bahá
 
-bpn10944 
+Prayer bpn10944 in Tuvalu (bpn10944) 
+
+[bahaiprayers.net 10944](https://bahaiprayers.net/Book/Single/95/10944)
+
 
 ----
 
@@ -1018,7 +1261,10 @@ bpn10944
 
 -- Bahá'u'lláh
 
-bpn10975 
+Prayer bpn10975 in Tuvalu (bpn10975) 
+
+[bahaiprayers.net 10975](https://bahaiprayers.net/Book/Single/95/10975)
+
 
 ----
 
@@ -1032,7 +1278,10 @@ bpn10975
 
 -- Bahá'u'lláh
 
-bpn12295 
+Prayer bpn12295 in Tuvalu (bpn12295) 
+
+[bahaiprayers.net 12295](https://bahaiprayers.net/Book/Single/95/12295)
+
 
 ----
 
@@ -1042,7 +1291,10 @@ bpn12295
 
 -- Bahá'u'lláh
 
-bpn12296 
+Prayer bpn12296 in Tuvalu (bpn12296) 
+
+[bahaiprayers.net 12296](https://bahaiprayers.net/Book/Single/95/12296)
+
 
 ----
 
@@ -1052,7 +1304,10 @@ bpn12296
 
 -- Bahá'u'lláh
 
-bpn12297 
+Prayer bpn12297 in Tuvalu (bpn12297) 
+
+[bahaiprayers.net 12297](https://bahaiprayers.net/Book/Single/95/12297)
+
 
 ----
 
@@ -1062,7 +1317,10 @@ bpn12297
 
 -- Bahá'u'lláh
 
-bpn12298 
+Prayer bpn12298 in Tuvalu (bpn12298) 
+
+[bahaiprayers.net 12298](https://bahaiprayers.net/Book/Single/95/12298)
+
 
 ----
 
@@ -1072,7 +1330,10 @@ bpn12298
 
 -- Báb
 
-bpn12299 
+Prayer bpn12299 in Tuvalu (bpn12299) 
+
+[bahaiprayers.net 12299](https://bahaiprayers.net/Book/Single/95/12299)
+
 
 ----
 
@@ -1082,7 +1343,10 @@ bpn12299
 
 -- Báb
 
-bpn12300 
+Prayer bpn12300 in Tuvalu (bpn12300) 
+
+[bahaiprayers.net 12300](https://bahaiprayers.net/Book/Single/95/12300)
+
 
 ----
 
@@ -1092,7 +1356,10 @@ bpn12300
 
 -- Abdu'l-Bahá
 
-bpn12301 
+Prayer bpn12301 in Tuvalu (bpn12301) 
+
+[bahaiprayers.net 12301](https://bahaiprayers.net/Book/Single/95/12301)
+
 
 ----
 
@@ -1102,7 +1369,10 @@ bpn12301
 
 -- Abdu'l-Bahá
 
-bpn12302 
+Prayer bpn12302 in Tuvalu (bpn12302) 
+
+[bahaiprayers.net 12302](https://bahaiprayers.net/Book/Single/95/12302)
+
 
 ----
 
@@ -1116,7 +1386,10 @@ bpn12302
 
 -- Abdu'l-Bahá
 
-bpn10945 
+Prayer bpn10945 in Tuvalu (bpn10945) 
+
+[bahaiprayers.net 10945](https://bahaiprayers.net/Book/Single/95/10945)
+
 
 ----
 
@@ -1126,7 +1399,10 @@ bpn10945
 
 -- Abdu'l-Bahá
 
-bpn10946 
+Prayer bpn10946 in Tuvalu (bpn10946) 
+
+[bahaiprayers.net 10946](https://bahaiprayers.net/Book/Single/95/10946)
+
 
 ----
 
@@ -1140,7 +1416,10 @@ bpn10946
 
 -- Abdu'l-Bahá
 
-bpn10976 
+Prayer bpn10976 in Tuvalu (bpn10976) 
+
+[bahaiprayers.net 10976](https://bahaiprayers.net/Book/Single/95/10976)
+
 
 ----
 
@@ -1150,7 +1429,10 @@ bpn10976
 
 -- Abdu'l-Bahá
 
-bpn10977 
+Prayer bpn10977 in Tuvalu (bpn10977) 
+
+[bahaiprayers.net 10977](https://bahaiprayers.net/Book/Single/95/10977)
+
 
 ----
 
@@ -1160,7 +1442,10 @@ bpn10977
 
 -- Abdu'l-Bahá
 
-bpn10978 
+Prayer bpn10978 in Tuvalu (bpn10978) 
+
+[bahaiprayers.net 10978](https://bahaiprayers.net/Book/Single/95/10978)
+
 
 ----
 
@@ -1170,7 +1455,10 @@ bpn10978
 
 -- Abdu'l-Bahá
 
-bpn10979 
+Prayer bpn10979 in Tuvalu (bpn10979) 
+
+[bahaiprayers.net 10979](https://bahaiprayers.net/Book/Single/95/10979)
+
 
 ----
 
@@ -1184,7 +1472,10 @@ bpn10979
 
 -- Báb
 
-bpn10914 
+Prayer bpn10914 in Tuvalu (bpn10914) 
+
+[bahaiprayers.net 10914](https://bahaiprayers.net/Book/Single/95/10914)
+
 
 ----
 
@@ -1194,7 +1485,10 @@ bpn10914
 
 -- Abdu'l-Bahá
 
-bpn10915 
+Prayer bpn10915 in Tuvalu (bpn10915) 
+
+[bahaiprayers.net 10915](https://bahaiprayers.net/Book/Single/95/10915)
+
 
 ----
 
@@ -1208,7 +1502,10 @@ bpn10915
 
 -- Bahá'u'lláh
 
-bpn12336 
+Prayer bpn12336 in Tuvalu (bpn12336) 
+
+[bahaiprayers.net 12336](https://bahaiprayers.net/Book/Single/95/12336)
+
 
 ----
 
@@ -1218,7 +1515,10 @@ bpn12336
 
 -- Bahá'u'lláh
 
-bpn12337 
+Prayer bpn12337 in Tuvalu (bpn12337) 
+
+[bahaiprayers.net 12337](https://bahaiprayers.net/Book/Single/95/12337)
+
 
 ----
 
@@ -1228,7 +1528,10 @@ bpn12337
 
 -- Bahá'u'lláh
 
-bpn12338 
+Prayer bpn12338 in Tuvalu (bpn12338) 
+
+[bahaiprayers.net 12338](https://bahaiprayers.net/Book/Single/95/12338)
+
 
 ----
 
@@ -1238,7 +1541,10 @@ bpn12338
 
 -- Báb
 
-bpn12339 
+Prayer bpn12339 in Tuvalu (bpn12339) 
+
+[bahaiprayers.net 12339](https://bahaiprayers.net/Book/Single/95/12339)
+
 
 ----
 
@@ -1248,7 +1554,10 @@ bpn12339
 
 -- Báb
 
-bpn12340 
+Prayer bpn12340 in Tuvalu (bpn12340) 
+
+[bahaiprayers.net 12340](https://bahaiprayers.net/Book/Single/95/12340)
+
 
 ----
 
@@ -1258,7 +1567,10 @@ bpn12340
 
 -- Báb
 
-bpn12341 
+Prayer bpn12341 in Tuvalu (bpn12341) 
+
+[bahaiprayers.net 12341](https://bahaiprayers.net/Book/Single/95/12341)
+
 
 ----
 
@@ -1268,7 +1580,10 @@ bpn12341
 
 -- Báb
 
-bpn12342 
+Prayer bpn12342 in Tuvalu (bpn12342) 
+
+[bahaiprayers.net 12342](https://bahaiprayers.net/Book/Single/95/12342)
+
 
 ----
 
@@ -1278,7 +1593,10 @@ bpn12342
 
 -- Abdu'l-Bahá
 
-bpn12343 
+Prayer bpn12343 in Tuvalu (bpn12343) 
+
+[bahaiprayers.net 12343](https://bahaiprayers.net/Book/Single/95/12343)
+
 
 ----
 
@@ -1288,7 +1606,10 @@ bpn12343
 
 -- Abdu'l-Bahá
 
-bpn12344 
+Prayer bpn12344 in Tuvalu (bpn12344) 
+
+[bahaiprayers.net 12344](https://bahaiprayers.net/Book/Single/95/12344)
+
 
 ----
 
@@ -1302,7 +1623,10 @@ bpn12344
 
 -- Abdu'l-Bahá
 
-bpn12359 
+Prayer bpn12359 in Tuvalu (bpn12359) 
+
+[bahaiprayers.net 12359](https://bahaiprayers.net/Book/Single/95/12359)
+
 
 ----
 
@@ -1316,7 +1640,10 @@ bpn12359
 
 -- Abdu'l-Bahá
 
-bpn10974 
+Prayer bpn10974 in Tuvalu (bpn10974) 
+
+[bahaiprayers.net 10974](https://bahaiprayers.net/Book/Single/95/10974)
+
 
 ----
 
@@ -1330,7 +1657,10 @@ bpn10974
 
 -- Bahá'u'lláh
 
-bpn10917 
+Prayer bpn10917 in Tuvalu (bpn10917) 
+
+[bahaiprayers.net 10917](https://bahaiprayers.net/Book/Single/95/10917)
+
 
 ----
 
@@ -1340,7 +1670,10 @@ bpn10917
 
 -- Bahá'u'lláh
 
-bpn10918 
+Prayer bpn10918 in Tuvalu (bpn10918) 
+
+[bahaiprayers.net 10918](https://bahaiprayers.net/Book/Single/95/10918)
+
 
 ----
 
@@ -1350,7 +1683,10 @@ bpn10918
 
 -- Abdu'l-Bahá
 
-bpn10919 
+Prayer bpn10919 in Tuvalu (bpn10919) 
+
+[bahaiprayers.net 10919](https://bahaiprayers.net/Book/Single/95/10919)
+
 
 ----
 
@@ -1360,7 +1696,10 @@ bpn10919
 
 -- Abdu'l-Bahá
 
-bpn10920 
+Prayer bpn10920 in Tuvalu (bpn10920) 
+
+[bahaiprayers.net 10920](https://bahaiprayers.net/Book/Single/95/10920)
+
 
 ----
 
@@ -1370,7 +1709,10 @@ bpn10920
 
 -- Abdu'l-Bahá
 
-bpn10921 
+Prayer bpn10921 in Tuvalu (bpn10921) 
+
+[bahaiprayers.net 10921](https://bahaiprayers.net/Book/Single/95/10921)
+
 
 ----
 
@@ -1384,7 +1726,10 @@ bpn10921
 
 -- Bahá'u'lláh
 
-bpn10887 
+Prayer bpn10887 in Tuvalu (bpn10887) 
+
+[bahaiprayers.net 10887](https://bahaiprayers.net/Book/Single/95/10887)
+
 
 ----
 
@@ -1394,7 +1739,10 @@ bpn10887
 
 -- Bahá'u'lláh
 
-bpn10888 
+Prayer bpn10888 in Tuvalu (bpn10888) 
+
+[bahaiprayers.net 10888](https://bahaiprayers.net/Book/Single/95/10888)
+
 
 ----
 
@@ -1404,7 +1752,10 @@ bpn10888
 
 -- Bahá'u'lláh
 
-bpn10889 
+Prayer bpn10889 in Tuvalu (bpn10889) 
+
+[bahaiprayers.net 10889](https://bahaiprayers.net/Book/Single/95/10889)
+
 
 ----
 
@@ -1414,7 +1765,10 @@ bpn10889
 
 -- Abdu'l-Bahá
 
-bpn10890 
+Prayer bpn10890 in Tuvalu (bpn10890) 
+
+[bahaiprayers.net 10890](https://bahaiprayers.net/Book/Single/95/10890)
+
 
 ----
 
@@ -1424,7 +1778,10 @@ bpn10890
 
 -- Abdu'l-Bahá
 
-bpn10891 
+Prayer bpn10891 in Tuvalu (bpn10891) 
+
+[bahaiprayers.net 10891](https://bahaiprayers.net/Book/Single/95/10891)
+
 
 ----
 
@@ -1434,7 +1791,10 @@ bpn10891
 
 -- Abdu'l-Bahá
 
-bpn10892 
+Prayer bpn10892 in Tuvalu (bpn10892) 
+
+[bahaiprayers.net 10892](https://bahaiprayers.net/Book/Single/95/10892)
+
 
 ----
 
@@ -1448,7 +1808,10 @@ bpn10892
 
 -- Bahá'u'lláh
 
-bpn10896 
+Prayer bpn10896 in Tuvalu (bpn10896) 
+
+[bahaiprayers.net 10896](https://bahaiprayers.net/Book/Single/95/10896)
+
 
 ----
 
@@ -1458,7 +1821,10 @@ bpn10896
 
 -- Bahá'u'lláh
 
-bpn10897 
+Prayer bpn10897 in Tuvalu (bpn10897) 
+
+[bahaiprayers.net 10897](https://bahaiprayers.net/Book/Single/95/10897)
+
 
 ----
 
@@ -1468,7 +1834,10 @@ bpn10897
 
 -- Bahá'u'lláh
 
-bpn10898 
+Prayer bpn10898 in Tuvalu (bpn10898) 
+
+[bahaiprayers.net 10898](https://bahaiprayers.net/Book/Single/95/10898)
+
 
 ----
 
@@ -1478,7 +1847,10 @@ bpn10898
 
 -- Bahá'u'lláh
 
-bpn10899 
+Prayer bpn10899 in Tuvalu (bpn10899) 
+
+[bahaiprayers.net 10899](https://bahaiprayers.net/Book/Single/95/10899)
+
 
 ----
 
@@ -1488,7 +1860,10 @@ bpn10899
 
 -- Bahá'u'lláh
 
-bpn10900 
+Prayer bpn10900 in Tuvalu (bpn10900) 
+
+[bahaiprayers.net 10900](https://bahaiprayers.net/Book/Single/95/10900)
+
 
 ----
 
@@ -1498,7 +1873,10 @@ bpn10900
 
 -- Bahá'u'lláh
 
-bpn10901 
+Prayer bpn10901 in Tuvalu (bpn10901) 
+
+[bahaiprayers.net 10901](https://bahaiprayers.net/Book/Single/95/10901)
+
 
 ----
 
@@ -1508,7 +1886,10 @@ bpn10901
 
 -- Báb
 
-bpn10902 
+Prayer bpn10902 in Tuvalu (bpn10902) 
+
+[bahaiprayers.net 10902](https://bahaiprayers.net/Book/Single/95/10902)
+
 
 ----
 
@@ -1518,7 +1899,10 @@ bpn10902
 
 -- Báb
 
-bpn10903 
+Prayer bpn10903 in Tuvalu (bpn10903) 
+
+[bahaiprayers.net 10903](https://bahaiprayers.net/Book/Single/95/10903)
+
 
 ----
 
@@ -1528,7 +1912,10 @@ bpn10903
 
 -- Báb
 
-bpn10904 
+Prayer bpn10904 in Tuvalu (bpn10904) 
+
+[bahaiprayers.net 10904](https://bahaiprayers.net/Book/Single/95/10904)
+
 
 ----
 
@@ -1538,7 +1925,10 @@ bpn10904
 
 -- Abdu'l-Bahá
 
-bpn10905 
+Prayer bpn10905 in Tuvalu (bpn10905) 
+
+[bahaiprayers.net 10905](https://bahaiprayers.net/Book/Single/95/10905)
+
 
 ----
 
@@ -1548,7 +1938,10 @@ bpn10905
 
 -- Abdu'l-Bahá
 
-bpn10906 
+Prayer bpn10906 in Tuvalu (bpn10906) 
+
+[bahaiprayers.net 10906](https://bahaiprayers.net/Book/Single/95/10906)
+
 
 ----
 
@@ -1562,7 +1955,10 @@ bpn10906
 
 -- Bahá'u'lláh
 
-bpn12244 
+Prayer bpn12244 in Tuvalu (bpn12244) 
+
+[bahaiprayers.net 12244](https://bahaiprayers.net/Book/Single/95/12244)
+
 
 ----
 
@@ -1572,7 +1968,10 @@ bpn12244
 
 -- Bahá'u'lláh
 
-bpn12245 
+Prayer bpn12245 in Tuvalu (bpn12245) 
+
+[bahaiprayers.net 12245](https://bahaiprayers.net/Book/Single/95/12245)
+
 
 ----
 
@@ -1582,7 +1981,10 @@ bpn12245
 
 -- Bahá'u'lláh
 
-bpn12246 
+Prayer bpn12246 in Tuvalu (bpn12246) 
+
+[bahaiprayers.net 12246](https://bahaiprayers.net/Book/Single/95/12246)
+
 
 ----
 
@@ -1592,7 +1994,10 @@ bpn12246
 
 -- Báb
 
-bpn12247 
+Prayer bpn12247 in Tuvalu (bpn12247) 
+
+[bahaiprayers.net 12247](https://bahaiprayers.net/Book/Single/95/12247)
+
 
 ----
 
@@ -1606,7 +2011,10 @@ bpn12247
 
 -- Bahá'u'lláh
 
-bpn10884 
+Prayer bpn10884 in Tuvalu (bpn10884) 
+
+[bahaiprayers.net 10884](https://bahaiprayers.net/Book/Single/95/10884)
+
 
 ----
 
@@ -1616,7 +2024,10 @@ bpn10884
 
 -- Abdu'l-Bahá
 
-bpn10885 
+Prayer bpn10885 in Tuvalu (bpn10885) 
+
+[bahaiprayers.net 10885](https://bahaiprayers.net/Book/Single/95/10885)
+
 
 ----
 
@@ -1626,7 +2037,10 @@ bpn10885
 
 -- Abdu'l-Bahá
 
-bpn10886 
+Prayer bpn10886 in Tuvalu (bpn10886) 
+
+[bahaiprayers.net 10886](https://bahaiprayers.net/Book/Single/95/10886)
+
 
 ----
 
@@ -1640,7 +2054,10 @@ bpn10886
 
 -- Bahá'u'lláh
 
-bpn12261 
+Prayer bpn12261 in Tuvalu (bpn12261) 
+
+[bahaiprayers.net 12261](https://bahaiprayers.net/Book/Single/95/12261)
+
 
 ----
 
@@ -1650,7 +2067,10 @@ bpn12261
 
 -- Bahá'u'lláh
 
-bpn12262 
+Prayer bpn12262 in Tuvalu (bpn12262) 
+
+[bahaiprayers.net 12262](https://bahaiprayers.net/Book/Single/95/12262)
+
 
 ----
 
@@ -1660,7 +2080,10 @@ bpn12262
 
 -- Bahá'u'lláh
 
-bpn12263 
+Prayer bpn12263 in Tuvalu (bpn12263) 
+
+[bahaiprayers.net 12263](https://bahaiprayers.net/Book/Single/95/12263)
+
 
 ----
 
@@ -1670,7 +2093,10 @@ bpn12263
 
 -- Bahá'u'lláh
 
-bpn12264 
+Prayer bpn12264 in Tuvalu (bpn12264) 
+
+[bahaiprayers.net 12264](https://bahaiprayers.net/Book/Single/95/12264)
+
 
 ----
 
@@ -1680,7 +2106,10 @@ bpn12264
 
 -- Báb
 
-bpn12265 
+Prayer bpn12265 in Tuvalu (bpn12265) 
+
+[bahaiprayers.net 12265](https://bahaiprayers.net/Book/Single/95/12265)
+
 
 ----
 
@@ -1690,7 +2119,10 @@ bpn12265
 
 -- Báb
 
-bpn12266 
+Prayer bpn12266 in Tuvalu (bpn12266) 
+
+[bahaiprayers.net 12266](https://bahaiprayers.net/Book/Single/95/12266)
+
 
 ----
 
@@ -1700,7 +2132,10 @@ bpn12266
 
 -- Báb
 
-bpn12267 
+Prayer bpn12267 in Tuvalu (bpn12267) 
+
+[bahaiprayers.net 12267](https://bahaiprayers.net/Book/Single/95/12267)
+
 
 ----
 
@@ -1710,7 +2145,10 @@ bpn12267
 
 -- Abdu'l-Bahá
 
-bpn12268 
+Prayer bpn12268 in Tuvalu (bpn12268) 
+
+[bahaiprayers.net 12268](https://bahaiprayers.net/Book/Single/95/12268)
+
 
 ----
 
@@ -1720,7 +2158,10 @@ bpn12268
 
 -- Abdu'l-Bahá
 
-bpn12269 
+Prayer bpn12269 in Tuvalu (bpn12269) 
+
+[bahaiprayers.net 12269](https://bahaiprayers.net/Book/Single/95/12269)
+
 
 ----
 
@@ -1730,7 +2171,10 @@ bpn12269
 
 -- Abdu'l-Bahá
 
-bpn12270 
+Prayer bpn12270 in Tuvalu (bpn12270) 
+
+[bahaiprayers.net 12270](https://bahaiprayers.net/Book/Single/95/12270)
+
 
 ----
 
@@ -1744,7 +2188,10 @@ bpn12270
 
 -- Bahá'u'lláh
 
-bpn12231 
+Prayer bpn12231 in Tuvalu (bpn12231) 
+
+[bahaiprayers.net 12231](https://bahaiprayers.net/Book/Single/95/12231)
+
 
 ----
 
@@ -1754,7 +2201,10 @@ bpn12231
 
 -- Bahá'u'lláh
 
-bpn12232 
+Prayer bpn12232 in Tuvalu (bpn12232) 
+
+[bahaiprayers.net 12232](https://bahaiprayers.net/Book/Single/95/12232)
+
 
 ----
 
@@ -1764,7 +2214,10 @@ bpn12232
 
 -- Bahá'u'lláh
 
-bpn12233 
+Prayer bpn12233 in Tuvalu (bpn12233) 
+
+[bahaiprayers.net 12233](https://bahaiprayers.net/Book/Single/95/12233)
+
 
 ----
 
@@ -1778,7 +2231,10 @@ bpn12233
 
 -- Bahá'u'lláh
 
-bpn12303 
+Prayer bpn12303 in Tuvalu (bpn12303) 
+
+[bahaiprayers.net 12303](https://bahaiprayers.net/Book/Single/95/12303)
+
 
 ----
 
@@ -1788,7 +2244,10 @@ bpn12303
 
 -- Bahá'u'lláh
 
-bpn12304 
+Prayer bpn12304 in Tuvalu (bpn12304) 
+
+[bahaiprayers.net 12304](https://bahaiprayers.net/Book/Single/95/12304)
+
 
 ----
 
@@ -1798,7 +2257,10 @@ bpn12304
 
 -- Bahá'u'lláh
 
-bpn12305 
+Prayer bpn12305 in Tuvalu (bpn12305) 
+
+[bahaiprayers.net 12305](https://bahaiprayers.net/Book/Single/95/12305)
+
 
 ----
 
@@ -1808,7 +2270,10 @@ bpn12305
 
 -- Bahá'u'lláh
 
-bpn12306 
+Prayer bpn12306 in Tuvalu (bpn12306) 
+
+[bahaiprayers.net 12306](https://bahaiprayers.net/Book/Single/95/12306)
+
 
 ----
 
@@ -1818,7 +2283,10 @@ bpn12306
 
 -- Bahá'u'lláh
 
-bpn12307 
+Prayer bpn12307 in Tuvalu (bpn12307) 
+
+[bahaiprayers.net 12307](https://bahaiprayers.net/Book/Single/95/12307)
+
 
 ----
 
@@ -1828,7 +2296,10 @@ bpn12307
 
 -- Abdu'l-Bahá
 
-bpn12308 
+Prayer bpn12308 in Tuvalu (bpn12308) 
+
+[bahaiprayers.net 12308](https://bahaiprayers.net/Book/Single/95/12308)
+
 
 ----
 
@@ -1838,7 +2309,10 @@ bpn12308
 
 -- Abdu'l-Bahá
 
-bpn12309 
+Prayer bpn12309 in Tuvalu (bpn12309) 
+
+[bahaiprayers.net 12309](https://bahaiprayers.net/Book/Single/95/12309)
+
 
 ----
 
@@ -1848,7 +2322,10 @@ bpn12309
 
 -- Abdu'l-Bahá
 
-bpn12310 
+Prayer bpn12310 in Tuvalu (bpn12310) 
+
+[bahaiprayers.net 12310](https://bahaiprayers.net/Book/Single/95/12310)
+
 
 ----
 
@@ -1858,7 +2335,10 @@ bpn12310
 
 -- Abdu'l-Bahá
 
-bpn12311 
+Prayer bpn12311 in Tuvalu (bpn12311) 
+
+[bahaiprayers.net 12311](https://bahaiprayers.net/Book/Single/95/12311)
+
 
 ----
 
@@ -1872,7 +2352,10 @@ bpn12311
 
 -- Abdu'l-Bahá
 
-bpn12360 
+Prayer bpn12360 in Tuvalu (bpn12360) 
+
+[bahaiprayers.net 12360](https://bahaiprayers.net/Book/Single/95/12360)
+
 
 ----
 
@@ -1882,7 +2365,10 @@ bpn12360
 
 -- Abdu'l-Bahá
 
-bpn12361 
+Prayer bpn12361 in Tuvalu (bpn12361) 
+
+[bahaiprayers.net 12361](https://bahaiprayers.net/Book/Single/95/12361)
+
 
 ----
 
@@ -1892,7 +2378,10 @@ bpn12361
 
 -- Abdu'l-Bahá
 
-bpn12362 
+Prayer bpn12362 in Tuvalu (bpn12362) 
+
+[bahaiprayers.net 12362](https://bahaiprayers.net/Book/Single/95/12362)
+
 
 ----
 
@@ -1902,7 +2391,10 @@ bpn12362
 
 -- Abdu'l-Bahá
 
-bpn12363 
+Prayer bpn12363 in Tuvalu (bpn12363) 
+
+[bahaiprayers.net 12363](https://bahaiprayers.net/Book/Single/95/12363)
+
 
 ----
 
@@ -1912,7 +2404,10 @@ bpn12363
 
 -- Abdu'l-Bahá
 
-bpn12364 
+Prayer bpn12364 in Tuvalu (bpn12364) 
+
+[bahaiprayers.net 12364](https://bahaiprayers.net/Book/Single/95/12364)
+
 
 ----
 
@@ -1926,7 +2421,10 @@ bpn12364
 
 -- Bahá'u'lláh
 
-bpn10861 
+Prayer bpn10861 in Tuvalu (bpn10861) 
+
+[bahaiprayers.net 10861](https://bahaiprayers.net/Book/Single/95/10861)
+
 
 ----
 
@@ -1940,7 +2438,10 @@ bpn10861
 
 -- Bahá'u'lláh
 
-bpn10860 
+Prayer bpn10860 in Tuvalu (bpn10860) 
+
+[bahaiprayers.net 10860](https://bahaiprayers.net/Book/Single/95/10860)
+
 
 ----
 
@@ -1954,7 +2455,10 @@ bpn10860
 
 -- Bahá'u'lláh
 
-bpn10862 
+Prayer bpn10862 in Tuvalu (bpn10862) 
+
+[bahaiprayers.net 10862](https://bahaiprayers.net/Book/Single/95/10862)
+
 
 ----
 
@@ -1968,7 +2472,10 @@ bpn10862
 
 -- Abdu'l-Bahá
 
-bpn12312 
+Prayer bpn12312 in Tuvalu (bpn12312) 
+
+[bahaiprayers.net 12312](https://bahaiprayers.net/Book/Single/95/12312)
+
 
 ----
 
@@ -1978,7 +2485,10 @@ bpn12312
 
 -- Abdu'l-Bahá
 
-bpn12313 
+Prayer bpn12313 in Tuvalu (bpn12313) 
+
+[bahaiprayers.net 12313](https://bahaiprayers.net/Book/Single/95/12313)
+
 
 ----
 
@@ -1988,7 +2498,10 @@ bpn12313
 
 -- Abdu'l-Bahá
 
-bpn12314 
+Prayer bpn12314 in Tuvalu (bpn12314) 
+
+[bahaiprayers.net 12314](https://bahaiprayers.net/Book/Single/95/12314)
+
 
 ----
 
@@ -1998,7 +2511,10 @@ bpn12314
 
 -- Abdu'l-Bahá
 
-bpn12315 
+Prayer bpn12315 in Tuvalu (bpn12315) 
+
+[bahaiprayers.net 12315](https://bahaiprayers.net/Book/Single/95/12315)
+
 
 ----
 
@@ -2008,7 +2524,10 @@ bpn12315
 
 -- Abdu'l-Bahá
 
-bpn12316 
+Prayer bpn12316 in Tuvalu (bpn12316) 
+
+[bahaiprayers.net 12316](https://bahaiprayers.net/Book/Single/95/12316)
+
 
 ----
 
@@ -2018,7 +2537,10 @@ bpn12316
 
 -- Abdu'l-Bahá
 
-bpn12317 
+Prayer bpn12317 in Tuvalu (bpn12317) 
+
+[bahaiprayers.net 12317](https://bahaiprayers.net/Book/Single/95/12317)
+
 
 ----
 
@@ -2028,7 +2550,10 @@ bpn12317
 
 -- Abdu'l-Bahá
 
-bpn12318 
+Prayer bpn12318 in Tuvalu (bpn12318) 
+
+[bahaiprayers.net 12318](https://bahaiprayers.net/Book/Single/95/12318)
+
 
 ----
 
@@ -2038,7 +2563,10 @@ bpn12318
 
 -- Abdu'l-Bahá
 
-bpn12319 
+Prayer bpn12319 in Tuvalu (bpn12319) 
+
+[bahaiprayers.net 12319](https://bahaiprayers.net/Book/Single/95/12319)
+
 
 ----
 
@@ -2048,7 +2576,10 @@ bpn12319
 
 -- Abdu'l-Bahá
 
-bpn12320 
+Prayer bpn12320 in Tuvalu (bpn12320) 
+
+[bahaiprayers.net 12320](https://bahaiprayers.net/Book/Single/95/12320)
+
 
 ----
 
@@ -2058,7 +2589,10 @@ bpn12320
 
 -- Abdu'l-Bahá
 
-bpn12321 
+Prayer bpn12321 in Tuvalu (bpn12321) 
+
+[bahaiprayers.net 12321](https://bahaiprayers.net/Book/Single/95/12321)
+
 
 ----
 
@@ -2072,7 +2606,10 @@ bpn12321
 
 -- Bahá'u'lláh
 
-bpn10873 
+Prayer bpn10873 in Tuvalu (bpn10873) 
+
+[bahaiprayers.net 10873](https://bahaiprayers.net/Book/Single/95/10873)
+
 
 ----
 
@@ -2082,7 +2619,10 @@ bpn10873
 
 -- Abdu'l-Bahá
 
-bpn10874 
+Prayer bpn10874 in Tuvalu (bpn10874) 
+
+[bahaiprayers.net 10874](https://bahaiprayers.net/Book/Single/95/10874)
+
 
 ----
 
@@ -2092,7 +2632,10 @@ bpn10874
 
 -- Abdu'l-Bahá
 
-bpn10875 
+Prayer bpn10875 in Tuvalu (bpn10875) 
+
+[bahaiprayers.net 10875](https://bahaiprayers.net/Book/Single/95/10875)
+
 
 ----
 
@@ -2102,7 +2645,10 @@ bpn10875
 
 -- Abdu'l-Bahá
 
-bpn10876 
+Prayer bpn10876 in Tuvalu (bpn10876) 
+
+[bahaiprayers.net 10876](https://bahaiprayers.net/Book/Single/95/10876)
+
 
 ----
 
@@ -2112,7 +2658,10 @@ bpn10876
 
 -- Abdu'l-Bahá
 
-bpn10877 
+Prayer bpn10877 in Tuvalu (bpn10877) 
+
+[bahaiprayers.net 10877](https://bahaiprayers.net/Book/Single/95/10877)
+
 
 ----
 
@@ -2122,7 +2671,10 @@ bpn10877
 
 -- Abdu'l-Bahá
 
-bpn10878 
+Prayer bpn10878 in Tuvalu (bpn10878) 
+
+[bahaiprayers.net 10878](https://bahaiprayers.net/Book/Single/95/10878)
+
 
 ----
 
@@ -2132,7 +2684,10 @@ bpn10878
 
 -- Abdu'l-Bahá
 
-bpn10879 
+Prayer bpn10879 in Tuvalu (bpn10879) 
+
+[bahaiprayers.net 10879](https://bahaiprayers.net/Book/Single/95/10879)
+
 
 ----
 
@@ -2142,7 +2697,10 @@ bpn10879
 
 -- Abdu'l-Bahá
 
-bpn10880 
+Prayer bpn10880 in Tuvalu (bpn10880) 
+
+[bahaiprayers.net 10880](https://bahaiprayers.net/Book/Single/95/10880)
+
 
 ----
 
@@ -2152,7 +2710,10 @@ bpn10880
 
 -- Abdu'l-Bahá
 
-bpn10881 
+Prayer bpn10881 in Tuvalu (bpn10881) 
+
+[bahaiprayers.net 10881](https://bahaiprayers.net/Book/Single/95/10881)
+
 
 ----
 
@@ -2162,7 +2723,10 @@ bpn10881
 
 -- Abdu'l-Bahá
 
-bpn10882 
+Prayer bpn10882 in Tuvalu (bpn10882) 
+
+[bahaiprayers.net 10882](https://bahaiprayers.net/Book/Single/95/10882)
+
 
 ----
 
@@ -2172,7 +2736,10 @@ bpn10882
 
 -- Abdu'l-Bahá
 
-bpn10883 
+Prayer bpn10883 in Tuvalu (bpn10883) 
+
+[bahaiprayers.net 10883](https://bahaiprayers.net/Book/Single/95/10883)
+
 
 ----
 
@@ -2186,7 +2753,10 @@ bpn10883
 
 -- Bahá'u'lláh
 
-BH02022 «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+Tablet of Ahmad in Tuvalu (BH02022) «[Esperanto](../../eo/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
+
+[bahaiprayers.net 10980](https://bahaiprayers.net/Book/Single/95/10980)
+
 
 ----
 
@@ -2200,7 +2770,10 @@ BH02022 «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/
 
 -- Bahá'u'lláh
 
-bpn10982 
+Prayer bpn10982 in Tuvalu (bpn10982) 
+
+[bahaiprayers.net 10982](https://bahaiprayers.net/Book/Single/95/10982)
+
 
 ----
 
@@ -2214,7 +2787,10 @@ bpn10982
 
 -- Bahá'u'lláh
 
-bpn10981 
+Prayer bpn10981 in Tuvalu (bpn10981) 
+
+[bahaiprayers.net 10981](https://bahaiprayers.net/Book/Single/95/10981)
+
 
 ----
 
@@ -2228,7 +2804,10 @@ bpn10981
 
 -- Bahá'u'lláh
 
-BH02307 «[Português (BR)](../../pt/prayers/#BH02307)» «[English](../../en/prayers/#BH02307)» 
+Tablet of Visitation Bahá'u'lláh and Báb in Tuvalu (BH02307) «[English](../../en/prayers/#BH02307)» «[Português (BR)](../../pt/prayers/#BH02307)» 
+
+[bahaiprayers.net 10983](https://bahaiprayers.net/Book/Single/95/10983)
+
 
 ----
 
@@ -2242,7 +2821,10 @@ BH02307 «[Português (BR)](../../pt/prayers/#BH02307)» «[English](../../en/pr
 
 -- Abdu'l-Bahá
 
-bpn10984 
+Prayer bpn10984 in Tuvalu (bpn10984) 
+
+[bahaiprayers.net 10984](https://bahaiprayers.net/Book/Single/95/10984)
+
 
 ----
 
@@ -2256,7 +2838,10 @@ bpn10984
 
 -- Bahá'u'lláh
 
-bpn10971 
+Prayer bpn10971 in Tuvalu (bpn10971) 
+
+[bahaiprayers.net 10971](https://bahaiprayers.net/Book/Single/95/10971)
+
 
 ----
 
@@ -2270,7 +2855,10 @@ bpn10971
 
 -- Bahá'u'lláh
 
-bpn12248 
+Prayer bpn12248 in Tuvalu (bpn12248) 
+
+[bahaiprayers.net 12248](https://bahaiprayers.net/Book/Single/95/12248)
+
 
 ----
 
@@ -2280,7 +2868,10 @@ bpn12248
 
 -- Bahá'u'lláh
 
-bpn12249 
+Prayer bpn12249 in Tuvalu (bpn12249) 
+
+[bahaiprayers.net 12249](https://bahaiprayers.net/Book/Single/95/12249)
+
 
 ----
 
@@ -2290,7 +2881,10 @@ bpn12249
 
 -- Bahá'u'lláh
 
-bpn12250 
+Prayer bpn12250 in Tuvalu (bpn12250) 
+
+[bahaiprayers.net 12250](https://bahaiprayers.net/Book/Single/95/12250)
+
 
 ----
 
@@ -2300,7 +2894,10 @@ bpn12250
 
 -- Báb
 
-bpn12251 
+Prayer bpn12251 in Tuvalu (bpn12251) 
+
+[bahaiprayers.net 12251](https://bahaiprayers.net/Book/Single/95/12251)
+
 
 ----
 
@@ -2314,7 +2911,10 @@ bpn12251
 
 -- Bahá'u'lláh
 
-bpn12271 
+Prayer bpn12271 in Tuvalu (bpn12271) 
+
+[bahaiprayers.net 12271](https://bahaiprayers.net/Book/Single/95/12271)
+
 
 ----
 
@@ -2324,7 +2924,10 @@ bpn12271
 
 -- Bahá'u'lláh
 
-bpn12272 
+Prayer bpn12272 in Tuvalu (bpn12272) 
+
+[bahaiprayers.net 12272](https://bahaiprayers.net/Book/Single/95/12272)
+
 
 ----
 
@@ -2334,7 +2937,10 @@ bpn12272
 
 -- Bahá'u'lláh
 
-bpn12273 
+Prayer bpn12273 in Tuvalu (bpn12273) 
+
+[bahaiprayers.net 12273](https://bahaiprayers.net/Book/Single/95/12273)
+
 
 ----
 
@@ -2344,7 +2950,10 @@ bpn12273
 
 -- Báb
 
-bpn12274 
+Prayer bpn12274 in Tuvalu (bpn12274) 
+
+[bahaiprayers.net 12274](https://bahaiprayers.net/Book/Single/95/12274)
+
 
 ----
 
@@ -2354,7 +2963,10 @@ bpn12274
 
 -- Báb
 
-bpn12275 
+Prayer bpn12275 in Tuvalu (bpn12275) 
+
+[bahaiprayers.net 12275](https://bahaiprayers.net/Book/Single/95/12275)
+
 
 ----
 
@@ -2364,7 +2976,10 @@ bpn12275
 
 -- Abdu'l-Bahá
 
-bpn12276 
+Prayer bpn12276 in Tuvalu (bpn12276) 
+
+[bahaiprayers.net 12276](https://bahaiprayers.net/Book/Single/95/12276)
+
 
 ----
 
@@ -2378,7 +2993,10 @@ bpn12276
 
 -- Bahá'u'lláh
 
-bpn10960 
+Prayer bpn10960 in Tuvalu (bpn10960) 
+
+[bahaiprayers.net 10960](https://bahaiprayers.net/Book/Single/95/10960)
+
 
 ----
 
@@ -2388,7 +3006,10 @@ bpn10960
 
 -- Bahá'u'lláh
 
-bpn10961 
+Prayer bpn10961 in Tuvalu (bpn10961) 
+
+[bahaiprayers.net 10961](https://bahaiprayers.net/Book/Single/95/10961)
+
 
 ----
 
@@ -2398,7 +3019,10 @@ bpn10961
 
 -- Bahá'u'lláh
 
-bpn10962 
+Prayer bpn10962 in Tuvalu (bpn10962) 
+
+[bahaiprayers.net 10962](https://bahaiprayers.net/Book/Single/95/10962)
+
 
 ----
 
@@ -2408,7 +3032,10 @@ bpn10962
 
 -- Bahá'u'lláh
 
-bpn10963 
+Prayer bpn10963 in Tuvalu (bpn10963) 
+
+[bahaiprayers.net 10963](https://bahaiprayers.net/Book/Single/95/10963)
+
 
 ----
 
@@ -2418,7 +3045,10 @@ bpn10963
 
 -- Bahá'u'lláh
 
-bpn10964 
+Prayer bpn10964 in Tuvalu (bpn10964) 
+
+[bahaiprayers.net 10964](https://bahaiprayers.net/Book/Single/95/10964)
+
 
 ----
 
@@ -2428,7 +3058,10 @@ bpn10964
 
 -- Bahá'u'lláh
 
-bpn10965 
+Prayer bpn10965 in Tuvalu (bpn10965) 
+
+[bahaiprayers.net 10965](https://bahaiprayers.net/Book/Single/95/10965)
+
 
 ----
 
@@ -2438,7 +3071,10 @@ bpn10965
 
 -- Bahá'u'lláh
 
-bpn10966 
+Prayer bpn10966 in Tuvalu (bpn10966) 
+
+[bahaiprayers.net 10966](https://bahaiprayers.net/Book/Single/95/10966)
+
 
 ----
 
@@ -2448,7 +3084,10 @@ bpn10966
 
 -- Bahá'u'lláh
 
-bpn10967 
+Prayer bpn10967 in Tuvalu (bpn10967) 
+
+[bahaiprayers.net 10967](https://bahaiprayers.net/Book/Single/95/10967)
+
 
 ----
 
@@ -2458,7 +3097,10 @@ bpn10967
 
 -- Bahá'u'lláh
 
-bpn10968 
+Prayer bpn10968 in Tuvalu (bpn10968) 
+
+[bahaiprayers.net 10968](https://bahaiprayers.net/Book/Single/95/10968)
+
 
 ----
 
@@ -2468,7 +3110,10 @@ bpn10968
 
 -- Bahá'u'lláh
 
-bpn10969 
+Prayer bpn10969 in Tuvalu (bpn10969) 
+
+[bahaiprayers.net 10969](https://bahaiprayers.net/Book/Single/95/10969)
+
 
 ----
 
@@ -2482,7 +3127,10 @@ bpn10969
 
 -- Bahá'u'lláh
 
-bpn10863 
+Prayer bpn10863 in Tuvalu (bpn10863) 
+
+[bahaiprayers.net 10863](https://bahaiprayers.net/Book/Single/95/10863)
+
 
 ----
 
@@ -2492,7 +3140,10 @@ bpn10863
 
 -- Bahá'u'lláh
 
-bpn10864 
+Prayer bpn10864 in Tuvalu (bpn10864) 
+
+[bahaiprayers.net 10864](https://bahaiprayers.net/Book/Single/95/10864)
+
 
 ----
 
@@ -2502,7 +3153,10 @@ bpn10864
 
 -- Báb
 
-bpn10865 
+Prayer bpn10865 in Tuvalu (bpn10865) 
+
+[bahaiprayers.net 10865](https://bahaiprayers.net/Book/Single/95/10865)
+
 
 ----
 
@@ -2512,7 +3166,10 @@ bpn10865
 
 -- Báb
 
-bpn10866 
+Prayer bpn10866 in Tuvalu (bpn10866) 
+
+[bahaiprayers.net 10866](https://bahaiprayers.net/Book/Single/95/10866)
+
 
 ----
 
@@ -2522,7 +3179,10 @@ bpn10866
 
 -- Abdu'l-Bahá
 
-bpn10867 
+Prayer bpn10867 in Tuvalu (bpn10867) 
+
+[bahaiprayers.net 10867](https://bahaiprayers.net/Book/Single/95/10867)
+
 
 ----
 
@@ -2532,7 +3192,10 @@ bpn10867
 
 -- Abdu'l-Bahá
 
-bpn10868 
+Prayer bpn10868 in Tuvalu (bpn10868) 
+
+[bahaiprayers.net 10868](https://bahaiprayers.net/Book/Single/95/10868)
+
 
 ----
 
@@ -2542,7 +3205,10 @@ bpn10868
 
 -- Abdu'l-Bahá
 
-bpn10869 
+Prayer bpn10869 in Tuvalu (bpn10869) 
+
+[bahaiprayers.net 10869](https://bahaiprayers.net/Book/Single/95/10869)
+
 
 ----
 
@@ -2556,7 +3222,10 @@ bpn10869
 
 -- Abdu'l-Bahá
 
-bpn10934 
+Prayer bpn10934 in Tuvalu (bpn10934) 
+
+[bahaiprayers.net 10934](https://bahaiprayers.net/Book/Single/95/10934)
+
 
 ----
 
@@ -2570,7 +3239,10 @@ bpn10934
 
 -- Bahá'u'lláh
 
-bpn10954 
+Prayer bpn10954 in Tuvalu (bpn10954) 
+
+[bahaiprayers.net 10954](https://bahaiprayers.net/Book/Single/95/10954)
+
 
 ----
 
@@ -2580,7 +3252,10 @@ bpn10954
 
 -- Abdu'l-Bahá
 
-bpn10955 
+Prayer bpn10955 in Tuvalu (bpn10955) 
+
+[bahaiprayers.net 10955](https://bahaiprayers.net/Book/Single/95/10955)
+
 
 ----
 
@@ -2590,7 +3265,10 @@ bpn10955
 
 -- Abdu'l-Bahá
 
-bpn10956 
+Prayer bpn10956 in Tuvalu (bpn10956) 
+
+[bahaiprayers.net 10956](https://bahaiprayers.net/Book/Single/95/10956)
+
 
 ----
 
@@ -2600,7 +3278,10 @@ bpn10956
 
 -- Abdu'l-Bahá
 
-bpn10957 
+Prayer bpn10957 in Tuvalu (bpn10957) 
+
+[bahaiprayers.net 10957](https://bahaiprayers.net/Book/Single/95/10957)
+
 
 ----
 
@@ -2614,7 +3295,10 @@ bpn10957
 
 -- Bahá'u'lláh
 
-bpn12330 
+Prayer bpn12330 in Tuvalu (bpn12330) 
+
+[bahaiprayers.net 12330](https://bahaiprayers.net/Book/Single/95/12330)
+
 
 ----
 
@@ -2624,7 +3308,10 @@ bpn12330
 
 -- Bahá'u'lláh
 
-bpn12331 
+Prayer bpn12331 in Tuvalu (bpn12331) 
+
+[bahaiprayers.net 12331](https://bahaiprayers.net/Book/Single/95/12331)
+
 
 ----
 
@@ -2634,7 +3321,10 @@ bpn12331
 
 -- Bahá'u'lláh
 
-bpn12332 
+Prayer bpn12332 in Tuvalu (bpn12332) 
+
+[bahaiprayers.net 12332](https://bahaiprayers.net/Book/Single/95/12332)
+
 
 ----
 
@@ -2644,7 +3334,10 @@ bpn12332
 
 -- Bahá'u'lláh
 
-bpn12333 
+Prayer bpn12333 in Tuvalu (bpn12333) 
+
+[bahaiprayers.net 12333](https://bahaiprayers.net/Book/Single/95/12333)
+
 
 ----
 
@@ -2654,7 +3347,10 @@ bpn12333
 
 -- Bahá'u'lláh
 
-bpn12334 
+Prayer bpn12334 in Tuvalu (bpn12334) 
+
+[bahaiprayers.net 12334](https://bahaiprayers.net/Book/Single/95/12334)
+
 
 ----
 
@@ -2664,7 +3360,10 @@ bpn12334
 
 -- Bahá'u'lláh
 
-bpn12335 
+Prayer bpn12335 in Tuvalu (bpn12335) 
+
+[bahaiprayers.net 12335](https://bahaiprayers.net/Book/Single/95/12335)
+
 
 ----
 
@@ -2678,7 +3377,10 @@ bpn12335
 
 -- Bahá'u'lláh
 
-bpn12322 
+Prayer bpn12322 in Tuvalu (bpn12322) 
+
+[bahaiprayers.net 12322](https://bahaiprayers.net/Book/Single/95/12322)
+
 
 ----
 
@@ -2688,7 +3390,10 @@ bpn12322
 
 -- Bahá'u'lláh
 
-bpn12323 
+Prayer bpn12323 in Tuvalu (bpn12323) 
+
+[bahaiprayers.net 12323](https://bahaiprayers.net/Book/Single/95/12323)
+
 
 ----
 
@@ -2698,7 +3403,10 @@ bpn12323
 
 -- Bahá'u'lláh
 
-bpn12324 
+Prayer bpn12324 in Tuvalu (bpn12324) 
+
+[bahaiprayers.net 12324](https://bahaiprayers.net/Book/Single/95/12324)
+
 
 ----
 
@@ -2708,7 +3416,10 @@ bpn12324
 
 -- Bahá'u'lláh
 
-bpn12325 
+Prayer bpn12325 in Tuvalu (bpn12325) 
+
+[bahaiprayers.net 12325](https://bahaiprayers.net/Book/Single/95/12325)
+
 
 ----
 
@@ -2718,7 +3429,10 @@ bpn12325
 
 -- Báb
 
-BB00623 «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» 
+Remover of Difficulties in Tuvalu (BB00623) «[Esperanto](../../eo/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[العربية](../../ar/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» 
+
+[bahaiprayers.net 12326](https://bahaiprayers.net/Book/Single/95/12326)
+
 
 ----
 
@@ -2728,7 +3442,10 @@ BB00623 «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/pray
 
 -- Báb
 
-bpn12327 
+Prayer bpn12327 in Tuvalu (bpn12327) 
+
+[bahaiprayers.net 12327](https://bahaiprayers.net/Book/Single/95/12327)
+
 
 ----
 
@@ -2738,7 +3455,10 @@ bpn12327
 
 -- Báb
 
-bpn12328 
+Prayer bpn12328 in Tuvalu (bpn12328) 
+
+[bahaiprayers.net 12328](https://bahaiprayers.net/Book/Single/95/12328)
+
 
 ----
 
@@ -2748,7 +3468,10 @@ bpn12328
 
 -- Báb
 
-bpn12329 
+Prayer bpn12329 in Tuvalu (bpn12329) 
+
+[bahaiprayers.net 12329](https://bahaiprayers.net/Book/Single/95/12329)
+
 
 ----
 
@@ -2762,7 +3485,10 @@ bpn12329
 
 -- Bahá'u'lláh
 
-bpn12279 
+Prayer bpn12279 in Tuvalu (bpn12279) 
+
+[bahaiprayers.net 12279](https://bahaiprayers.net/Book/Single/95/12279)
+
 
 ----
 
@@ -2772,7 +3498,10 @@ bpn12279
 
 -- Bahá'u'lláh
 
-bpn12280 
+Prayer bpn12280 in Tuvalu (bpn12280) 
+
+[bahaiprayers.net 12280](https://bahaiprayers.net/Book/Single/95/12280)
+
 
 ----
 
@@ -2782,7 +3511,10 @@ bpn12280
 
 -- Bahá'u'lláh
 
-bpn12281 
+Prayer bpn12281 in Tuvalu (bpn12281) 
+
+[bahaiprayers.net 12281](https://bahaiprayers.net/Book/Single/95/12281)
+
 
 ----
 
@@ -2792,7 +3524,10 @@ bpn12281
 
 -- Bahá'u'lláh
 
-bpn12282 
+Prayer bpn12282 in Tuvalu (bpn12282) 
+
+[bahaiprayers.net 12282](https://bahaiprayers.net/Book/Single/95/12282)
+
 
 ----
 
@@ -2802,7 +3537,10 @@ bpn12282
 
 -- Bahá'u'lláh
 
-bpn12283 
+Prayer bpn12283 in Tuvalu (bpn12283) 
+
+[bahaiprayers.net 12283](https://bahaiprayers.net/Book/Single/95/12283)
+
 
 ----
 
@@ -2812,7 +3550,10 @@ bpn12283
 
 -- Bahá'u'lláh
 
-bpn12284 
+Prayer bpn12284 in Tuvalu (bpn12284) 
+
+[bahaiprayers.net 12284](https://bahaiprayers.net/Book/Single/95/12284)
+
 
 ----
 
@@ -2822,7 +3563,10 @@ bpn12284
 
 -- Bahá'u'lláh
 
-bpn12285 
+Prayer bpn12285 in Tuvalu (bpn12285) 
+
+[bahaiprayers.net 12285](https://bahaiprayers.net/Book/Single/95/12285)
+
 
 ----
 
@@ -2832,7 +3576,10 @@ bpn12285
 
 -- Bahá'u'lláh
 
-bpn12286 
+Prayer bpn12286 in Tuvalu (bpn12286) 
+
+[bahaiprayers.net 12286](https://bahaiprayers.net/Book/Single/95/12286)
+
 
 ----
 
@@ -2842,7 +3589,10 @@ bpn12286
 
 -- Báb
 
-bpn12287 
+Prayer bpn12287 in Tuvalu (bpn12287) 
+
+[bahaiprayers.net 12287](https://bahaiprayers.net/Book/Single/95/12287)
+
 
 ----
 
@@ -2852,7 +3602,10 @@ bpn12287
 
 -- Abdu'l-Bahá
 
-bpn12288 
+Prayer bpn12288 in Tuvalu (bpn12288) 
+
+[bahaiprayers.net 12288](https://bahaiprayers.net/Book/Single/95/12288)
+
 
 ----
 
@@ -2862,7 +3615,10 @@ bpn12288
 
 -- Abdu'l-Bahá
 
-bpn12289 
+Prayer bpn12289 in Tuvalu (bpn12289) 
+
+[bahaiprayers.net 12289](https://bahaiprayers.net/Book/Single/95/12289)
+
 
 ----
 
@@ -2872,7 +3628,10 @@ bpn12289
 
 -- Abdu'l-Bahá
 
-bpn12290 
+Prayer bpn12290 in Tuvalu (bpn12290) 
+
+[bahaiprayers.net 12290](https://bahaiprayers.net/Book/Single/95/12290)
+
 
 ----
 
@@ -2882,7 +3641,10 @@ bpn12290
 
 -- Abdu'l-Bahá
 
-bpn12291 
+Prayer bpn12291 in Tuvalu (bpn12291) 
+
+[bahaiprayers.net 12291](https://bahaiprayers.net/Book/Single/95/12291)
+
 
 ----
 
@@ -2892,7 +3654,10 @@ bpn12291
 
 -- Abdu'l-Bahá
 
-bpn12292 
+Prayer bpn12292 in Tuvalu (bpn12292) 
+
+[bahaiprayers.net 12292](https://bahaiprayers.net/Book/Single/95/12292)
+
 
 ----
 
@@ -2902,7 +3667,10 @@ bpn12292
 
 -- Abdu'l-Bahá
 
-bpn12293 
+Prayer bpn12293 in Tuvalu (bpn12293) 
+
+[bahaiprayers.net 12293](https://bahaiprayers.net/Book/Single/95/12293)
+
 
 ----
 
@@ -2912,7 +3680,10 @@ bpn12293
 
 -- Abdu'l-Bahá
 
-bpn12294 
+Prayer bpn12294 in Tuvalu (bpn12294) 
+
+[bahaiprayers.net 12294](https://bahaiprayers.net/Book/Single/95/12294)
+
 
 ----
 
@@ -2926,7 +3697,10 @@ bpn12294
 
 -- Bahá'u'lláh
 
-bpn10953 
+Prayer bpn10953 in Tuvalu (bpn10953) 
+
+[bahaiprayers.net 10953](https://bahaiprayers.net/Book/Single/95/10953)
+
 
 ----
 
@@ -2940,7 +3714,10 @@ bpn10953
 
 -- Bahá'u'lláh
 
-bpn10907 
+Prayer bpn10907 in Tuvalu (bpn10907) 
+
+[bahaiprayers.net 10907](https://bahaiprayers.net/Book/Single/95/10907)
+
 
 ----
 
@@ -2950,7 +3727,10 @@ bpn10907
 
 -- Bahá'u'lláh
 
-bpn10908 
+Prayer bpn10908 in Tuvalu (bpn10908) 
+
+[bahaiprayers.net 10908](https://bahaiprayers.net/Book/Single/95/10908)
+
 
 ----
 
@@ -2964,7 +3744,10 @@ bpn10908
 
 -- Abdu'l-Bahá
 
-bpn10912 
+Prayer bpn10912 in Tuvalu (bpn10912) 
+
+[bahaiprayers.net 10912](https://bahaiprayers.net/Book/Single/95/10912)
+
 
 ----
 
@@ -2978,7 +3761,10 @@ bpn10912
 
 -- Bahá'u'lláh
 
-bpn10951 
+Prayer bpn10951 in Tuvalu (bpn10951) 
+
+[bahaiprayers.net 10951](https://bahaiprayers.net/Book/Single/95/10951)
+
 
 ----
 
@@ -2988,7 +3774,10 @@ bpn10951
 
 -- Abdu'l-Bahá
 
-bpn10893 
+Prayer bpn10893 in Tuvalu (bpn10893) 
+
+[bahaiprayers.net 10893](https://bahaiprayers.net/Book/Single/95/10893)
+
 
 ----
 
@@ -2998,7 +3787,10 @@ bpn10893
 
 -- Abdu'l-Bahá
 
-bpn10894 
+Prayer bpn10894 in Tuvalu (bpn10894) 
+
+[bahaiprayers.net 10894](https://bahaiprayers.net/Book/Single/95/10894)
+
 
 ----
 
@@ -3008,7 +3800,10 @@ bpn10894
 
 -- Abdu'l-Bahá
 
-bpn10895 
+Prayer bpn10895 in Tuvalu (bpn10895) 
+
+[bahaiprayers.net 10895](https://bahaiprayers.net/Book/Single/95/10895)
+
 
 ----
 
@@ -3022,7 +3817,10 @@ bpn10895
 
 -- Bahá'u'lláh
 
-bpn10952 
+Prayer bpn10952 in Tuvalu (bpn10952) 
+
+[bahaiprayers.net 10952](https://bahaiprayers.net/Book/Single/95/10952)
+
 
 ----
 

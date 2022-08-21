@@ -64,7 +64,10 @@ tags = ['lang=gu', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11077 
+Prayer bpn11077 in ગુજરાતી (bpn11077) 
+
+[bahaiprayers.net 11077](https://bahaiprayers.net/Book/Single/97/11077)
+
 
 ----
 
@@ -78,7 +81,10 @@ bpn11077
 
 -- Bahá'u'lláh
 
-bpn11076 
+Prayer bpn11076 in ગુજરાતી (bpn11076) 
+
+[bahaiprayers.net 11076](https://bahaiprayers.net/Book/Single/97/11076)
+
 
 ----
 
@@ -92,7 +98,10 @@ bpn11076
 
 -- Bahá'u'lláh
 
-bpn11021 
+Prayer bpn11021 in ગુજરાતી (bpn11021) 
+
+[bahaiprayers.net 11021](https://bahaiprayers.net/Book/Single/97/11021)
+
 
 ----
 
@@ -102,7 +111,10 @@ bpn11021
 
 -- Bahá'u'lláh
 
-bpn11022 
+Prayer bpn11022 in ગુજરાતી (bpn11022) 
+
+[bahaiprayers.net 11022](https://bahaiprayers.net/Book/Single/97/11022)
+
 
 ----
 
@@ -112,7 +124,10 @@ bpn11022
 
 -- Bahá'u'lláh
 
-bpn11023 
+Prayer bpn11023 in ગુજરાતી (bpn11023) 
+
+[bahaiprayers.net 11023](https://bahaiprayers.net/Book/Single/97/11023)
+
 
 ----
 
@@ -122,7 +137,10 @@ bpn11023
 
 -- Bahá'u'lláh
 
-bpn11024 
+Prayer bpn11024 in ગુજરાતી (bpn11024) 
+
+[bahaiprayers.net 11024](https://bahaiprayers.net/Book/Single/97/11024)
+
 
 ----
 
@@ -132,7 +150,10 @@ bpn11024
 
 -- Bahá'u'lláh
 
-bpn11025 
+Prayer bpn11025 in ગુજરાતી (bpn11025) 
+
+[bahaiprayers.net 11025](https://bahaiprayers.net/Book/Single/97/11025)
+
 
 ----
 
@@ -142,7 +163,10 @@ bpn11025
 
 -- Báb
 
-bpn11018 
+Prayer bpn11018 in ગુજરાતી (bpn11018) 
+
+[bahaiprayers.net 11018](https://bahaiprayers.net/Book/Single/97/11018)
+
 
 ----
 
@@ -152,7 +176,10 @@ bpn11018
 
 -- Báb
 
-bpn11019 
+Prayer bpn11019 in ગુજરાતી (bpn11019) 
+
+[bahaiprayers.net 11019](https://bahaiprayers.net/Book/Single/97/11019)
+
 
 ----
 
@@ -162,7 +189,10 @@ bpn11019
 
 -- Báb
 
-bpn11020 
+Prayer bpn11020 in ગુજરાતી (bpn11020) 
+
+[bahaiprayers.net 11020](https://bahaiprayers.net/Book/Single/97/11020)
+
 
 ----
 
@@ -172,7 +202,10 @@ bpn11020
 
 -- Abdu'l-Bahá
 
-bpn11056 
+Prayer bpn11056 in ગુજરાતી (bpn11056) 
+
+[bahaiprayers.net 11056](https://bahaiprayers.net/Book/Single/97/11056)
+
 
 ----
 
@@ -182,7 +215,10 @@ bpn11056
 
 -- Abdu'l-Bahá
 
-bpn11057 
+Prayer bpn11057 in ગુજરાતી (bpn11057) 
+
+[bahaiprayers.net 11057](https://bahaiprayers.net/Book/Single/97/11057)
+
 
 ----
 
@@ -196,7 +232,10 @@ bpn11057
 
 -- Bahá'u'lláh
 
-bpn11078 
+Prayer bpn11078 in ગુજરાતી (bpn11078) 
+
+[bahaiprayers.net 11078](https://bahaiprayers.net/Book/Single/97/11078)
+
 
 ----
 
@@ -210,7 +249,10 @@ bpn11078
 
 -- Bahá'u'lláh
 
-bpn11026 
+Prayer bpn11026 in ગુજરાતી (bpn11026) 
+
+[bahaiprayers.net 11026](https://bahaiprayers.net/Book/Single/97/11026)
+
 
 ----
 
@@ -220,7 +262,10 @@ bpn11026
 
 -- Bahá'u'lláh
 
-bpn11027 
+Prayer bpn11027 in ગુજરાતી (bpn11027) 
+
+[bahaiprayers.net 11027](https://bahaiprayers.net/Book/Single/97/11027)
+
 
 ----
 
@@ -230,7 +275,10 @@ bpn11027
 
 -- Abdu'l-Bahá
 
-bpn11058 
+Prayer bpn11058 in ગુજરાતી (bpn11058) 
+
+[bahaiprayers.net 11058](https://bahaiprayers.net/Book/Single/97/11058)
+
 
 ----
 
@@ -240,7 +288,10 @@ bpn11058
 
 -- Abdu'l-Bahá
 
-bpn11059 
+Prayer bpn11059 in ગુજરાતી (bpn11059) 
+
+[bahaiprayers.net 11059](https://bahaiprayers.net/Book/Single/97/11059)
+
 
 ----
 
@@ -254,7 +305,10 @@ bpn11059
 
 -- Bahá'u'lláh
 
-bpn11028 
+Prayer bpn11028 in ગુજરાતી (bpn11028) 
+
+[bahaiprayers.net 11028](https://bahaiprayers.net/Book/Single/97/11028)
+
 
 ----
 
@@ -264,7 +318,10 @@ bpn11028
 
 -- Bahá'u'lláh
 
-bpn11029 
+Prayer bpn11029 in ગુજરાતી (bpn11029) 
+
+[bahaiprayers.net 11029](https://bahaiprayers.net/Book/Single/97/11029)
+
 
 ----
 
@@ -274,7 +331,10 @@ bpn11029
 
 -- Bahá'u'lláh
 
-bpn11030 
+Prayer bpn11030 in ગુજરાતી (bpn11030) 
+
+[bahaiprayers.net 11030](https://bahaiprayers.net/Book/Single/97/11030)
+
 
 ----
 
@@ -288,7 +348,10 @@ bpn11030
 
 -- Bahá'u'lláh
 
-bpn11054 
+Prayer bpn11054 in ગુજરાતી (bpn11054) 
+
+[bahaiprayers.net 11054](https://bahaiprayers.net/Book/Single/97/11054)
+
 
 ----
 
@@ -298,7 +361,10 @@ bpn11054
 
 -- Bahá'u'lláh
 
-bpn11055 
+Prayer bpn11055 in ગુજરાતી (bpn11055) 
+
+[bahaiprayers.net 11055](https://bahaiprayers.net/Book/Single/97/11055)
+
 
 ----
 
@@ -312,7 +378,10 @@ bpn11055
 
 -- Bahá'u'lláh
 
-bpn11031 
+Prayer bpn11031 in ગુજરાતી (bpn11031) 
+
+[bahaiprayers.net 11031](https://bahaiprayers.net/Book/Single/97/11031)
+
 
 ----
 
@@ -322,7 +391,10 @@ bpn11031
 
 -- Bahá'u'lláh
 
-bpn11032 
+Prayer bpn11032 in ગુજરાતી (bpn11032) 
+
+[bahaiprayers.net 11032](https://bahaiprayers.net/Book/Single/97/11032)
+
 
 ----
 
@@ -336,7 +408,10 @@ bpn11032
 
 -- Bahá'u'lláh
 
-bpn11079 
+Prayer bpn11079 in ગુજરાતી (bpn11079) 
+
+[bahaiprayers.net 11079](https://bahaiprayers.net/Book/Single/97/11079)
+
 
 ----
 
@@ -350,7 +425,10 @@ bpn11079
 
 -- Bahá'u'lláh
 
-bpn11033 
+Prayer bpn11033 in ગુજરાતી (bpn11033) 
+
+[bahaiprayers.net 11033](https://bahaiprayers.net/Book/Single/97/11033)
+
 
 ----
 
@@ -364,7 +442,10 @@ bpn11033
 
 -- Bahá'u'lláh
 
-bpn11036 
+Prayer bpn11036 in ગુજરાતી (bpn11036) 
+
+[bahaiprayers.net 11036](https://bahaiprayers.net/Book/Single/97/11036)
+
 
 ----
 
@@ -378,7 +459,10 @@ bpn11036
 
 -- Bahá'u'lláh
 
-bpn11037 
+Prayer bpn11037 in ગુજરાતી (bpn11037) 
+
+[bahaiprayers.net 11037](https://bahaiprayers.net/Book/Single/97/11037)
+
 
 ----
 
@@ -388,7 +472,10 @@ bpn11037
 
 -- Bahá'u'lláh
 
-bpn11038 
+Prayer bpn11038 in ગુજરાતી (bpn11038) 
+
+[bahaiprayers.net 11038](https://bahaiprayers.net/Book/Single/97/11038)
+
 
 ----
 
@@ -398,7 +485,10 @@ bpn11038
 
 -- Bahá'u'lláh
 
-bpn11039 
+Prayer bpn11039 in ગુજરાતી (bpn11039) 
+
+[bahaiprayers.net 11039](https://bahaiprayers.net/Book/Single/97/11039)
+
 
 ----
 
@@ -408,7 +498,10 @@ bpn11039
 
 -- Abdu'l-Bahá
 
-bpn11060 
+Prayer bpn11060 in ગુજરાતી (bpn11060) 
+
+[bahaiprayers.net 11060](https://bahaiprayers.net/Book/Single/97/11060)
+
 
 ----
 
@@ -418,7 +511,10 @@ bpn11060
 
 -- Abdu'l-Bahá
 
-bpn11061 
+Prayer bpn11061 in ગુજરાતી (bpn11061) 
+
+[bahaiprayers.net 11061](https://bahaiprayers.net/Book/Single/97/11061)
+
 
 ----
 
@@ -432,7 +528,10 @@ bpn11061
 
 -- Bahá'u'lláh
 
-bpn11034 
+Prayer bpn11034 in ગુજરાતી (bpn11034) 
+
+[bahaiprayers.net 11034](https://bahaiprayers.net/Book/Single/97/11034)
+
 
 ----
 
@@ -442,7 +541,10 @@ bpn11034
 
 -- Bahá'u'lláh
 
-bpn11035 
+Prayer bpn11035 in ગુજરાતી (bpn11035) 
+
+[bahaiprayers.net 11035](https://bahaiprayers.net/Book/Single/97/11035)
+
 
 ----
 
@@ -452,7 +554,10 @@ bpn11035
 
 -- Abdu'l-Bahá
 
-bpn11062 
+Prayer bpn11062 in ગુજરાતી (bpn11062) 
+
+[bahaiprayers.net 11062](https://bahaiprayers.net/Book/Single/97/11062)
+
 
 ----
 
@@ -466,7 +571,10 @@ bpn11062
 
 -- Bahá'u'lláh
 
-bpn11040 
+Prayer bpn11040 in ગુજરાતી (bpn11040) 
+
+[bahaiprayers.net 11040](https://bahaiprayers.net/Book/Single/97/11040)
+
 
 ----
 
@@ -476,7 +584,10 @@ bpn11040
 
 -- Abdu'l-Bahá
 
-bpn11063 
+Prayer bpn11063 in ગુજરાતી (bpn11063) 
+
+[bahaiprayers.net 11063](https://bahaiprayers.net/Book/Single/97/11063)
+
 
 ----
 
@@ -486,7 +597,10 @@ bpn11063
 
 -- Abdu'l-Bahá
 
-bpn11064 
+Prayer bpn11064 in ગુજરાતી (bpn11064) 
+
+[bahaiprayers.net 11064](https://bahaiprayers.net/Book/Single/97/11064)
+
 
 ----
 
@@ -500,7 +614,10 @@ bpn11064
 
 -- Abdu'l-Bahá
 
-bpn11065 
+Prayer bpn11065 in ગુજરાતી (bpn11065) 
+
+[bahaiprayers.net 11065](https://bahaiprayers.net/Book/Single/97/11065)
+
 
 ----
 
@@ -514,7 +631,10 @@ bpn11065
 
 -- Bahá'u'lláh
 
-bpn12027 
+Prayer bpn12027 in ગુજરાતી (bpn12027) 
+
+[bahaiprayers.net 12027](https://bahaiprayers.net/Book/Single/97/12027)
+
 
 ----
 
@@ -528,7 +648,10 @@ bpn12027
 
 -- Abdu'l-Bahá
 
-bpn11066 
+Prayer bpn11066 in ગુજરાતી (bpn11066) 
+
+[bahaiprayers.net 11066](https://bahaiprayers.net/Book/Single/97/11066)
+
 
 ----
 
@@ -538,7 +661,10 @@ bpn11066
 
 -- Abdu'l-Bahá
 
-bpn11067 
+Prayer bpn11067 in ગુજરાતી (bpn11067) 
+
+[bahaiprayers.net 11067](https://bahaiprayers.net/Book/Single/97/11067)
+
 
 ----
 
@@ -552,7 +678,10 @@ bpn11067
 
 -- Bahá'u'lláh
 
-bpn11041 
+Prayer bpn11041 in ગુજરાતી (bpn11041) 
+
+[bahaiprayers.net 11041](https://bahaiprayers.net/Book/Single/97/11041)
+
 
 ----
 
@@ -562,7 +691,10 @@ bpn11041
 
 -- Bahá'u'lláh
 
-bpn11042 
+Prayer bpn11042 in ગુજરાતી (bpn11042) 
+
+[bahaiprayers.net 11042](https://bahaiprayers.net/Book/Single/97/11042)
+
 
 ----
 
@@ -572,7 +704,10 @@ bpn11042
 
 -- Bahá'u'lláh
 
-bpn11043 
+Prayer bpn11043 in ગુજરાતી (bpn11043) 
+
+[bahaiprayers.net 11043](https://bahaiprayers.net/Book/Single/97/11043)
+
 
 ----
 
@@ -582,7 +717,10 @@ bpn11043
 
 -- Bahá'u'lláh
 
-bpn11044 
+Prayer bpn11044 in ગુજરાતી (bpn11044) 
+
+[bahaiprayers.net 11044](https://bahaiprayers.net/Book/Single/97/11044)
+
 
 ----
 
@@ -592,7 +730,10 @@ bpn11044
 
 -- Bahá'u'lláh
 
-bpn11045 
+Prayer bpn11045 in ગુજરાતી (bpn11045) 
+
+[bahaiprayers.net 11045](https://bahaiprayers.net/Book/Single/97/11045)
+
 
 ----
 
@@ -606,7 +747,10 @@ bpn11045
 
 -- Bahá'u'lláh
 
-bpn11046 
+Prayer bpn11046 in ગુજરાતી (bpn11046) 
+
+[bahaiprayers.net 11046](https://bahaiprayers.net/Book/Single/97/11046)
+
 
 ----
 
@@ -616,7 +760,10 @@ bpn11046
 
 -- Bahá'u'lláh
 
-bpn11047 
+Prayer bpn11047 in ગુજરાતી (bpn11047) 
+
+[bahaiprayers.net 11047](https://bahaiprayers.net/Book/Single/97/11047)
+
 
 ----
 
@@ -626,7 +773,10 @@ bpn11047
 
 -- Bahá'u'lláh
 
-bpn11048 
+Prayer bpn11048 in ગુજરાતી (bpn11048) 
+
+[bahaiprayers.net 11048](https://bahaiprayers.net/Book/Single/97/11048)
+
 
 ----
 
@@ -640,7 +790,10 @@ bpn11048
 
 -- Bahá'u'lláh
 
-bpn11049 
+Prayer bpn11049 in ગુજરાતી (bpn11049) 
+
+[bahaiprayers.net 11049](https://bahaiprayers.net/Book/Single/97/11049)
+
 
 ----
 
@@ -650,7 +803,10 @@ bpn11049
 
 -- Bahá'u'lláh
 
-bpn11050 
+Prayer bpn11050 in ગુજરાતી (bpn11050) 
+
+[bahaiprayers.net 11050](https://bahaiprayers.net/Book/Single/97/11050)
+
 
 ----
 
@@ -664,7 +820,10 @@ bpn11050
 
 -- Abdu'l-Bahá
 
-bpn11071 
+Prayer bpn11071 in ગુજરાતી (bpn11071) 
+
+[bahaiprayers.net 11071](https://bahaiprayers.net/Book/Single/97/11071)
+
 
 ----
 
@@ -674,7 +833,10 @@ bpn11071
 
 -- Abdu'l-Bahá
 
-bpn11072 
+Prayer bpn11072 in ગુજરાતી (bpn11072) 
+
+[bahaiprayers.net 11072](https://bahaiprayers.net/Book/Single/97/11072)
+
 
 ----
 
@@ -688,7 +850,10 @@ bpn11072
 
 -- Abdu'l-Bahá
 
-bpn11074 
+Prayer bpn11074 in ગુજરાતી (bpn11074) 
+
+[bahaiprayers.net 11074](https://bahaiprayers.net/Book/Single/97/11074)
+
 
 ----
 
@@ -698,7 +863,10 @@ bpn11074
 
 -- Abdu'l-Bahá
 
-bpn11075 
+Prayer bpn11075 in ગુજરાતી (bpn11075) 
+
+[bahaiprayers.net 11075](https://bahaiprayers.net/Book/Single/97/11075)
+
 
 ----
 
@@ -712,7 +880,10 @@ bpn11075
 
 -- Abdu'l-Bahá
 
-bpn11068 
+Prayer bpn11068 in ગુજરાતી (bpn11068) 
+
+[bahaiprayers.net 11068](https://bahaiprayers.net/Book/Single/97/11068)
+
 
 ----
 
@@ -722,7 +893,10 @@ bpn11068
 
 -- Abdu'l-Bahá
 
-bpn11069 
+Prayer bpn11069 in ગુજરાતી (bpn11069) 
+
+[bahaiprayers.net 11069](https://bahaiprayers.net/Book/Single/97/11069)
+
 
 ----
 
@@ -732,7 +906,10 @@ bpn11069
 
 -- Abdu'l-Bahá
 
-bpn11070 
+Prayer bpn11070 in ગુજરાતી (bpn11070) 
+
+[bahaiprayers.net 11070](https://bahaiprayers.net/Book/Single/97/11070)
+
 
 ----
 
@@ -746,7 +923,10 @@ bpn11070
 
 -- Bahá'u'lláh
 
-bpn11051 
+Prayer bpn11051 in ગુજરાતી (bpn11051) 
+
+[bahaiprayers.net 11051](https://bahaiprayers.net/Book/Single/97/11051)
+
 
 ----
 
@@ -756,7 +936,10 @@ bpn11051
 
 -- Bahá'u'lláh
 
-bpn11052 
+Prayer bpn11052 in ગુજરાતી (bpn11052) 
+
+[bahaiprayers.net 11052](https://bahaiprayers.net/Book/Single/97/11052)
+
 
 ----
 
@@ -766,7 +949,10 @@ bpn11052
 
 -- Bahá'u'lláh
 
-bpn11053 
+Prayer bpn11053 in ગુજરાતી (bpn11053) 
+
+[bahaiprayers.net 11053](https://bahaiprayers.net/Book/Single/97/11053)
+
 
 ----
 
@@ -776,7 +962,10 @@ bpn11053
 
 -- Abdu'l-Bahá
 
-bpn11073 
+Prayer bpn11073 in ગુજરાતી (bpn11073) 
+
+[bahaiprayers.net 11073](https://bahaiprayers.net/Book/Single/97/11073)
+
 
 ----
 

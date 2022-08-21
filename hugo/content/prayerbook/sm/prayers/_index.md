@@ -56,7 +56,10 @@ tags = ['lang=sm', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn12366 
+Prayer bpn12366 in Samoan (bpn12366) 
+
+[bahaiprayers.net 12366](https://bahaiprayers.net/Book/Single/103/12366)
+
 
 ----
 
@@ -66,7 +69,10 @@ bpn12366
 
 -- Báb
 
-bpn12488 
+Prayer bpn12488 in Samoan (bpn12488) 
+
+[bahaiprayers.net 12488](https://bahaiprayers.net/Book/Single/103/12488)
+
 
 ----
 
@@ -76,7 +82,10 @@ bpn12488
 
 -- Abdu'l-Bahá
 
-bpn12367 
+Prayer bpn12367 in Samoan (bpn12367) 
+
+[bahaiprayers.net 12367](https://bahaiprayers.net/Book/Single/103/12367)
+
 
 ----
 
@@ -90,7 +99,10 @@ bpn12367
 
 -- Abdu'l-Bahá
 
-bpn12368 
+Prayer bpn12368 in Samoan (bpn12368) 
+
+[bahaiprayers.net 12368](https://bahaiprayers.net/Book/Single/103/12368)
+
 
 ----
 
@@ -100,7 +112,10 @@ bpn12368
 
 -- Abdu'l-Bahá
 
-bpn12369 
+Prayer bpn12369 in Samoan (bpn12369) 
+
+[bahaiprayers.net 12369](https://bahaiprayers.net/Book/Single/103/12369)
+
 
 ----
 
@@ -110,7 +125,10 @@ bpn12369
 
 -- Abdu'l-Bahá
 
-bpn12370 
+Prayer bpn12370 in Samoan (bpn12370) 
+
+[bahaiprayers.net 12370](https://bahaiprayers.net/Book/Single/103/12370)
+
 
 ----
 
@@ -124,7 +142,10 @@ bpn12370
 
 -- Bahá'u'lláh
 
-bpn12371 
+Prayer bpn12371 in Samoan (bpn12371) 
+
+[bahaiprayers.net 12371](https://bahaiprayers.net/Book/Single/103/12371)
+
 
 ----
 
@@ -134,7 +155,10 @@ bpn12371
 
 -- Bahá'u'lláh
 
-bpn12372 
+Prayer bpn12372 in Samoan (bpn12372) 
+
+[bahaiprayers.net 12372](https://bahaiprayers.net/Book/Single/103/12372)
+
 
 ----
 
@@ -144,7 +168,10 @@ bpn12372
 
 -- Abdu'l-Bahá
 
-bpn12373 
+Prayer bpn12373 in Samoan (bpn12373) 
+
+[bahaiprayers.net 12373](https://bahaiprayers.net/Book/Single/103/12373)
+
 
 ----
 
@@ -158,7 +185,10 @@ bpn12373
 
 -- Bahá'u'lláh
 
-bpn12374 
+Prayer bpn12374 in Samoan (bpn12374) 
+
+[bahaiprayers.net 12374](https://bahaiprayers.net/Book/Single/103/12374)
+
 
 ----
 
@@ -168,7 +198,10 @@ bpn12374
 
 -- Bahá'u'lláh
 
-bpn12375 
+Prayer bpn12375 in Samoan (bpn12375) 
+
+[bahaiprayers.net 12375](https://bahaiprayers.net/Book/Single/103/12375)
+
 
 ----
 
@@ -182,7 +215,10 @@ bpn12375
 
 -- Bahá'u'lláh
 
-bpn12480 
+Prayer bpn12480 in Samoan (bpn12480) 
+
+[bahaiprayers.net 12480](https://bahaiprayers.net/Book/Single/103/12480)
+
 
 ----
 
@@ -192,7 +228,10 @@ bpn12480
 
 -- Bahá'u'lláh
 
-bpn12481 
+Prayer bpn12481 in Samoan (bpn12481) 
+
+[bahaiprayers.net 12481](https://bahaiprayers.net/Book/Single/103/12481)
+
 
 ----
 
@@ -206,7 +245,10 @@ bpn12481
 
 -- Bahá'u'lláh
 
-bpn12496 
+Prayer bpn12496 in Samoan (bpn12496) 
+
+[bahaiprayers.net 12496](https://bahaiprayers.net/Book/Single/103/12496)
+
 
 ----
 
@@ -220,7 +262,10 @@ bpn12496
 
 -- Bahá'u'lláh
 
-bpn12483 
+Prayer bpn12483 in Samoan (bpn12483) 
+
+[bahaiprayers.net 12483](https://bahaiprayers.net/Book/Single/103/12483)
+
 
 ----
 
@@ -230,7 +275,10 @@ bpn12483
 
 -- Bahá'u'lláh
 
-bpn12484 
+Prayer bpn12484 in Samoan (bpn12484) 
+
+[bahaiprayers.net 12484](https://bahaiprayers.net/Book/Single/103/12484)
+
 
 ----
 
@@ -240,7 +288,10 @@ bpn12484
 
 -- Abdu'l-Bahá
 
-bpn12485 
+Prayer bpn12485 in Samoan (bpn12485) 
+
+[bahaiprayers.net 12485](https://bahaiprayers.net/Book/Single/103/12485)
+
 
 ----
 
@@ -254,7 +305,10 @@ bpn12485
 
 -- Bahá'u'lláh
 
-bpn12030 
+Prayer bpn12030 in Samoan (bpn12030) 
+
+[bahaiprayers.net 12030](https://bahaiprayers.net/Book/Single/103/12030)
+
 
 ----
 
@@ -268,7 +322,10 @@ bpn12030
 
 -- Bahá'u'lláh
 
-bpn12028 
+Prayer bpn12028 in Samoan (bpn12028) 
+
+[bahaiprayers.net 12028](https://bahaiprayers.net/Book/Single/103/12028)
+
 
 ----
 
@@ -278,7 +335,10 @@ bpn12028
 
 -- Bahá'u'lláh
 
-bpn12486 
+Prayer bpn12486 in Samoan (bpn12486) 
+
+[bahaiprayers.net 12486](https://bahaiprayers.net/Book/Single/103/12486)
+
 
 ----
 
@@ -292,7 +352,10 @@ bpn12486
 
 -- Bahá'u'lláh
 
-bpn12478 
+Prayer bpn12478 in Samoan (bpn12478) 
+
+[bahaiprayers.net 12478](https://bahaiprayers.net/Book/Single/103/12478)
+
 
 ----
 
@@ -306,7 +369,10 @@ bpn12478
 
 -- Bahá'u'lláh
 
-bpn12477 
+Prayer bpn12477 in Samoan (bpn12477) 
+
+[bahaiprayers.net 12477](https://bahaiprayers.net/Book/Single/103/12477)
+
 
 ----
 
@@ -320,7 +386,10 @@ bpn12477
 
 -- Abdu'l-Bahá
 
-bpn12491 
+Prayer bpn12491 in Samoan (bpn12491) 
+
+[bahaiprayers.net 12491](https://bahaiprayers.net/Book/Single/103/12491)
+
 
 ----
 
@@ -330,7 +399,10 @@ bpn12491
 
 -- Abdu'l-Bahá
 
-bpn12492 
+Prayer bpn12492 in Samoan (bpn12492) 
+
+[bahaiprayers.net 12492](https://bahaiprayers.net/Book/Single/103/12492)
+
 
 ----
 
@@ -340,7 +412,10 @@ bpn12492
 
 -- Abdu'l-Bahá
 
-bpn12493 
+Prayer bpn12493 in Samoan (bpn12493) 
+
+[bahaiprayers.net 12493](https://bahaiprayers.net/Book/Single/103/12493)
+
 
 ----
 
@@ -354,7 +429,10 @@ bpn12493
 
 -- Abdu'l-Bahá
 
-bpn12482 
+Prayer bpn12482 in Samoan (bpn12482) 
+
+[bahaiprayers.net 12482](https://bahaiprayers.net/Book/Single/103/12482)
+
 
 ----
 
@@ -368,7 +446,10 @@ bpn12482
 
 -- Abdu'l-Bahá
 
-bpn12487 
+Prayer bpn12487 in Samoan (bpn12487) 
+
+[bahaiprayers.net 12487](https://bahaiprayers.net/Book/Single/103/12487)
+
 
 ----
 
@@ -382,7 +463,10 @@ bpn12487
 
 -- Bahá'u'lláh
 
-bpn12489 
+Prayer bpn12489 in Samoan (bpn12489) 
+
+[bahaiprayers.net 12489](https://bahaiprayers.net/Book/Single/103/12489)
+
 
 ----
 
@@ -392,7 +476,10 @@ bpn12489
 
 -- Bahá'u'lláh
 
-bpn12490 
+Prayer bpn12490 in Samoan (bpn12490) 
+
+[bahaiprayers.net 12490](https://bahaiprayers.net/Book/Single/103/12490)
+
 
 ----
 
@@ -406,7 +493,10 @@ bpn12490
 
 -- Bahá'u'lláh
 
-bpn12376 
+Prayer bpn12376 in Samoan (bpn12376) 
+
+[bahaiprayers.net 12376](https://bahaiprayers.net/Book/Single/103/12376)
+
 
 ----
 
@@ -416,7 +506,10 @@ bpn12376
 
 -- Bahá'u'lláh
 
-bpn12377 
+Prayer bpn12377 in Samoan (bpn12377) 
+
+[bahaiprayers.net 12377](https://bahaiprayers.net/Book/Single/103/12377)
+
 
 ----
 
@@ -430,7 +523,10 @@ bpn12377
 
 -- Bahá'u'lláh
 
-bpn12476 
+Prayer bpn12476 in Samoan (bpn12476) 
+
+[bahaiprayers.net 12476](https://bahaiprayers.net/Book/Single/103/12476)
+
 
 ----
 
@@ -444,7 +540,10 @@ bpn12476
 
 -- Bahá'u'lláh
 
-bpn12494 
+Prayer bpn12494 in Samoan (bpn12494) 
+
+[bahaiprayers.net 12494](https://bahaiprayers.net/Book/Single/103/12494)
+
 
 ----
 
@@ -454,7 +553,10 @@ bpn12494
 
 -- Abdu'l-Bahá
 
-bpn12495 
+Prayer bpn12495 in Samoan (bpn12495) 
+
+[bahaiprayers.net 12495](https://bahaiprayers.net/Book/Single/103/12495)
+
 
 ----
 
@@ -468,7 +570,10 @@ bpn12495
 
 -- Bahá'u'lláh
 
-bpn12031 
+Prayer bpn12031 in Samoan (bpn12031) 
+
+[bahaiprayers.net 12031](https://bahaiprayers.net/Book/Single/103/12031)
+
 
 ----
 
@@ -478,7 +583,10 @@ bpn12031
 
 -- Bahá'u'lláh
 
-bpn12479 
+Prayer bpn12479 in Samoan (bpn12479) 
+
+[bahaiprayers.net 12479](https://bahaiprayers.net/Book/Single/103/12479)
+
 
 ----
 
@@ -488,7 +596,10 @@ bpn12479
 
 -- Báb
 
-bpn12032 
+Prayer bpn12032 in Samoan (bpn12032) 
+
+[bahaiprayers.net 12032](https://bahaiprayers.net/Book/Single/103/12032)
+
 
 ----
 
@@ -498,7 +609,10 @@ bpn12032
 
 -- Abdu'l-Bahá
 
-bpn12365 
+Prayer bpn12365 in Samoan (bpn12365) 
+
+[bahaiprayers.net 12365](https://bahaiprayers.net/Book/Single/103/12365)
+
 
 ----
 
@@ -512,7 +626,10 @@ bpn12365
 
 -- Báb
 
-bpn12029 
+Prayer bpn12029 in Samoan (bpn12029) 
+
+[bahaiprayers.net 12029](https://bahaiprayers.net/Book/Single/103/12029)
+
 
 ----
 

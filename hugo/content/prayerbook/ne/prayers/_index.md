@@ -84,7 +84,10 @@ tags = ['lang=ne', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn11160 
+Prayer bpn11160 in नेपाली (bpn11160) 
+
+[bahaiprayers.net 11160](https://bahaiprayers.net/Book/Single/66/11160)
+
 
 ----
 
@@ -94,7 +97,10 @@ bpn11160
 
 -- Bahá'u'lláh
 
-bpn11161 
+Prayer bpn11161 in नेपाली (bpn11161) 
+
+[bahaiprayers.net 11161](https://bahaiprayers.net/Book/Single/66/11161)
+
 
 ----
 
@@ -104,7 +110,10 @@ bpn11161
 
 -- Bahá'u'lláh
 
-bpn11162 
+Prayer bpn11162 in नेपाली (bpn11162) 
+
+[bahaiprayers.net 11162](https://bahaiprayers.net/Book/Single/66/11162)
+
 
 ----
 
@@ -114,7 +123,10 @@ bpn11162
 
 -- Bahá'u'lláh
 
-bpn11163 
+Prayer bpn11163 in नेपाली (bpn11163) 
+
+[bahaiprayers.net 11163](https://bahaiprayers.net/Book/Single/66/11163)
+
 
 ----
 
@@ -124,7 +136,10 @@ bpn11163
 
 -- Abdu'l-Bahá
 
-bpn11164 
+Prayer bpn11164 in नेपाली (bpn11164) 
+
+[bahaiprayers.net 11164](https://bahaiprayers.net/Book/Single/66/11164)
+
 
 ----
 
@@ -134,7 +149,10 @@ bpn11164
 
 -- Abdu'l-Bahá
 
-bpn11165 
+Prayer bpn11165 in नेपाली (bpn11165) 
+
+[bahaiprayers.net 11165](https://bahaiprayers.net/Book/Single/66/11165)
+
 
 ----
 
@@ -144,7 +162,10 @@ bpn11165
 
 -- Abdu'l-Bahá
 
-bpn11166 
+Prayer bpn11166 in नेपाली (bpn11166) 
+
+[bahaiprayers.net 11166](https://bahaiprayers.net/Book/Single/66/11166)
+
 
 ----
 
@@ -154,7 +175,10 @@ bpn11166
 
 -- Abdu'l-Bahá
 
-bpn11167 
+Prayer bpn11167 in नेपाली (bpn11167) 
+
+[bahaiprayers.net 11167](https://bahaiprayers.net/Book/Single/66/11167)
+
 
 ----
 
@@ -168,7 +192,10 @@ bpn11167
 
 -- Abdu'l-Bahá
 
-bpn11200 
+Prayer bpn11200 in नेपाली (bpn11200) 
+
+[bahaiprayers.net 11200](https://bahaiprayers.net/Book/Single/66/11200)
+
 
 ----
 
@@ -182,7 +209,10 @@ bpn11200
 
 -- Bahá'u'lláh
 
-bpn11198 
+Prayer bpn11198 in नेपाली (bpn11198) 
+
+[bahaiprayers.net 11198](https://bahaiprayers.net/Book/Single/66/11198)
+
 
 ----
 
@@ -196,7 +226,10 @@ bpn11198
 
 -- Bahá'u'lláh
 
-bpn11149 
+Prayer bpn11149 in नेपाली (bpn11149) 
+
+[bahaiprayers.net 11149](https://bahaiprayers.net/Book/Single/66/11149)
+
 
 ----
 
@@ -206,7 +239,10 @@ bpn11149
 
 -- Bahá'u'lláh
 
-bpn11150 
+Prayer bpn11150 in नेपाली (bpn11150) 
+
+[bahaiprayers.net 11150](https://bahaiprayers.net/Book/Single/66/11150)
+
 
 ----
 
@@ -216,7 +252,10 @@ bpn11150
 
 -- Bahá'u'lláh
 
-bpn11151 
+Prayer bpn11151 in नेपाली (bpn11151) 
+
+[bahaiprayers.net 11151](https://bahaiprayers.net/Book/Single/66/11151)
+
 
 ----
 
@@ -226,7 +265,10 @@ bpn11151
 
 -- Bahá'u'lláh
 
-bpn11152 
+Prayer bpn11152 in नेपाली (bpn11152) 
+
+[bahaiprayers.net 11152](https://bahaiprayers.net/Book/Single/66/11152)
+
 
 ----
 
@@ -236,7 +278,10 @@ bpn11152
 
 -- Bahá'u'lláh
 
-bpn11153 
+Prayer bpn11153 in नेपाली (bpn11153) 
+
+[bahaiprayers.net 11153](https://bahaiprayers.net/Book/Single/66/11153)
+
 
 ----
 
@@ -246,7 +291,10 @@ bpn11153
 
 -- Abdu'l-Bahá
 
-bpn11157 
+Prayer bpn11157 in नेपाली (bpn11157) 
+
+[bahaiprayers.net 11157](https://bahaiprayers.net/Book/Single/66/11157)
+
 
 ----
 
@@ -256,7 +304,10 @@ bpn11157
 
 -- Abdu'l-Bahá
 
-bpn11154 
+Prayer bpn11154 in नेपाली (bpn11154) 
+
+[bahaiprayers.net 11154](https://bahaiprayers.net/Book/Single/66/11154)
+
 
 ----
 
@@ -266,7 +317,10 @@ bpn11154
 
 -- Abdu'l-Bahá
 
-bpn11155 
+Prayer bpn11155 in नेपाली (bpn11155) 
+
+[bahaiprayers.net 11155](https://bahaiprayers.net/Book/Single/66/11155)
+
 
 ----
 
@@ -276,7 +330,10 @@ bpn11155
 
 -- Abdu'l-Bahá
 
-bpn11156 
+Prayer bpn11156 in नेपाली (bpn11156) 
+
+[bahaiprayers.net 11156](https://bahaiprayers.net/Book/Single/66/11156)
+
 
 ----
 
@@ -286,7 +343,10 @@ bpn11156
 
 -- Abdu'l-Bahá
 
-bpn11158 
+Prayer bpn11158 in नेपाली (bpn11158) 
+
+[bahaiprayers.net 11158](https://bahaiprayers.net/Book/Single/66/11158)
+
 
 ----
 
@@ -296,7 +356,10 @@ bpn11158
 
 -- Abdu'l-Bahá
 
-bpn11159 
+Prayer bpn11159 in नेपाली (bpn11159) 
+
+[bahaiprayers.net 11159](https://bahaiprayers.net/Book/Single/66/11159)
+
 
 ----
 
@@ -310,7 +373,10 @@ bpn11159
 
 -- Abdu'l-Bahá
 
-bpn11195 
+Prayer bpn11195 in नेपाली (bpn11195) 
+
+[bahaiprayers.net 11195](https://bahaiprayers.net/Book/Single/66/11195)
+
 
 ----
 
@@ -320,7 +386,10 @@ bpn11195
 
 -- Abdu'l-Bahá
 
-bpn11196 
+Prayer bpn11196 in नेपाली (bpn11196) 
+
+[bahaiprayers.net 11196](https://bahaiprayers.net/Book/Single/66/11196)
+
 
 ----
 
@@ -330,7 +399,10 @@ bpn11196
 
 -- Abdu'l-Bahá
 
-bpn11197 
+Prayer bpn11197 in नेपाली (bpn11197) 
+
+[bahaiprayers.net 11197](https://bahaiprayers.net/Book/Single/66/11197)
+
 
 ----
 
@@ -344,7 +416,10 @@ bpn11197
 
 -- Abdu'l-Bahá
 
-bpn11139 
+Prayer bpn11139 in नेपाली (bpn11139) 
+
+[bahaiprayers.net 11139](https://bahaiprayers.net/Book/Single/66/11139)
+
 
 ----
 
@@ -354,7 +429,10 @@ bpn11139
 
 -- Abdu'l-Bahá
 
-bpn11140 
+Prayer bpn11140 in नेपाली (bpn11140) 
+
+[bahaiprayers.net 11140](https://bahaiprayers.net/Book/Single/66/11140)
+
 
 ----
 
@@ -368,7 +446,10 @@ bpn11140
 
 -- Bahá'u'lláh
 
-bpn11191 
+Prayer bpn11191 in नेपाली (bpn11191) 
+
+[bahaiprayers.net 11191](https://bahaiprayers.net/Book/Single/66/11191)
+
 
 ----
 
@@ -378,7 +459,10 @@ bpn11191
 
 -- Bahá'u'lláh
 
-bpn11192 
+Prayer bpn11192 in नेपाली (bpn11192) 
+
+[bahaiprayers.net 11192](https://bahaiprayers.net/Book/Single/66/11192)
+
 
 ----
 
@@ -392,7 +476,10 @@ bpn11192
 
 -- Bahá'u'lláh
 
-bpn11188 
+Prayer bpn11188 in नेपाली (bpn11188) 
+
+[bahaiprayers.net 11188](https://bahaiprayers.net/Book/Single/66/11188)
+
 
 ----
 
@@ -402,7 +489,10 @@ bpn11188
 
 -- Bahá'u'lláh
 
-bpn11189 
+Prayer bpn11189 in नेपाली (bpn11189) 
+
+[bahaiprayers.net 11189](https://bahaiprayers.net/Book/Single/66/11189)
+
 
 ----
 
@@ -412,7 +502,10 @@ bpn11189
 
 -- Abdu'l-Bahá
 
-bpn11190 
+Prayer bpn11190 in नेपाली (bpn11190) 
+
+[bahaiprayers.net 11190](https://bahaiprayers.net/Book/Single/66/11190)
+
 
 ----
 
@@ -426,7 +519,10 @@ bpn11190
 
 -- Abdu'l-Bahá
 
-bpn7004 
+Prayer bpn7004 in नेपाली (bpn7004) 
+
+[bahaiprayers.net 7004](https://bahaiprayers.net/Book/Single/66/7004)
+
 
 ----
 
@@ -436,7 +532,10 @@ bpn7004
 
 -- Abdu'l-Bahá
 
-bpn11092 
+Prayer bpn11092 in नेपाली (bpn11092) 
+
+[bahaiprayers.net 11092](https://bahaiprayers.net/Book/Single/66/11092)
+
 
 ----
 
@@ -446,7 +545,10 @@ bpn11092
 
 -- Abdu'l-Bahá
 
-bpn11093 
+Prayer bpn11093 in नेपाली (bpn11093) 
+
+[bahaiprayers.net 11093](https://bahaiprayers.net/Book/Single/66/11093)
+
 
 ----
 
@@ -456,7 +558,10 @@ bpn11093
 
 -- Abdu'l-Bahá
 
-bpn11088 
+Prayer bpn11088 in नेपाली (bpn11088) 
+
+[bahaiprayers.net 11088](https://bahaiprayers.net/Book/Single/66/11088)
+
 
 ----
 
@@ -466,7 +571,10 @@ bpn11088
 
 -- Abdu'l-Bahá
 
-bpn11089 
+Prayer bpn11089 in नेपाली (bpn11089) 
+
+[bahaiprayers.net 11089](https://bahaiprayers.net/Book/Single/66/11089)
+
 
 ----
 
@@ -476,7 +584,10 @@ bpn11089
 
 -- Abdu'l-Bahá
 
-bpn11090 
+Prayer bpn11090 in नेपाली (bpn11090) 
+
+[bahaiprayers.net 11090](https://bahaiprayers.net/Book/Single/66/11090)
+
 
 ----
 
@@ -486,7 +597,10 @@ bpn11090
 
 -- Abdu'l-Bahá
 
-bpn11091 
+Prayer bpn11091 in नेपाली (bpn11091) 
+
+[bahaiprayers.net 11091](https://bahaiprayers.net/Book/Single/66/11091)
+
 
 ----
 
@@ -496,7 +610,10 @@ bpn11091
 
 -- Abdu'l-Bahá
 
-bpn11094 
+Prayer bpn11094 in नेपाली (bpn11094) 
+
+[bahaiprayers.net 11094](https://bahaiprayers.net/Book/Single/66/11094)
+
 
 ----
 
@@ -510,7 +627,10 @@ bpn11094
 
 -- Abdu'l-Bahá
 
-bpn11116 
+Prayer bpn11116 in नेपाली (bpn11116) 
+
+[bahaiprayers.net 11116](https://bahaiprayers.net/Book/Single/66/11116)
+
 
 ----
 
@@ -524,7 +644,10 @@ bpn11116
 
 -- Bahá'u'lláh
 
-bpn11111 
+Prayer bpn11111 in नेपाली (bpn11111) 
+
+[bahaiprayers.net 11111](https://bahaiprayers.net/Book/Single/66/11111)
+
 
 ----
 
@@ -534,7 +657,10 @@ bpn11111
 
 -- Bahá'u'lláh
 
-bpn11112 
+Prayer bpn11112 in नेपाली (bpn11112) 
+
+[bahaiprayers.net 11112](https://bahaiprayers.net/Book/Single/66/11112)
+
 
 ----
 
@@ -544,7 +670,10 @@ bpn11112
 
 -- Bahá'u'lláh
 
-bpn11113 
+Prayer bpn11113 in नेपाली (bpn11113) 
+
+[bahaiprayers.net 11113](https://bahaiprayers.net/Book/Single/66/11113)
+
 
 ----
 
@@ -554,7 +683,10 @@ bpn11113
 
 -- Bahá'u'lláh
 
-bpn11114 
+Prayer bpn11114 in नेपाली (bpn11114) 
+
+[bahaiprayers.net 11114](https://bahaiprayers.net/Book/Single/66/11114)
+
 
 ----
 
@@ -564,7 +696,10 @@ bpn11114
 
 -- Abdu'l-Bahá
 
-bpn11115 
+Prayer bpn11115 in नेपाली (bpn11115) 
+
+[bahaiprayers.net 11115](https://bahaiprayers.net/Book/Single/66/11115)
+
 
 ----
 
@@ -578,7 +713,10 @@ bpn11115
 
 -- Bahá'u'lláh
 
-bpn7003 
+Prayer bpn7003 in नेपाली (bpn7003) 
+
+[bahaiprayers.net 7003](https://bahaiprayers.net/Book/Single/66/7003)
+
 
 ----
 
@@ -592,7 +730,10 @@ bpn7003
 
 -- Bahá'u'lláh
 
-bpn11199 
+Prayer bpn11199 in नेपाली (bpn11199) 
+
+[bahaiprayers.net 11199](https://bahaiprayers.net/Book/Single/66/11199)
+
 
 ----
 
@@ -606,7 +747,10 @@ bpn11199
 
 -- Bahá'u'lláh
 
-bpn11194 
+Prayer bpn11194 in नेपाली (bpn11194) 
+
+[bahaiprayers.net 11194](https://bahaiprayers.net/Book/Single/66/11194)
+
 
 ----
 
@@ -620,7 +764,10 @@ bpn11194
 
 -- Bahá'u'lláh
 
-bpn11105 
+Prayer bpn11105 in नेपाली (bpn11105) 
+
+[bahaiprayers.net 11105](https://bahaiprayers.net/Book/Single/66/11105)
+
 
 ----
 
@@ -634,7 +781,10 @@ bpn11105
 
 -- Bahá'u'lláh
 
-bpn11141 
+Prayer bpn11141 in नेपाली (bpn11141) 
+
+[bahaiprayers.net 11141](https://bahaiprayers.net/Book/Single/66/11141)
+
 
 ----
 
@@ -644,7 +794,10 @@ bpn11141
 
 -- Bahá'u'lláh
 
-bpn11142 
+Prayer bpn11142 in नेपाली (bpn11142) 
+
+[bahaiprayers.net 11142](https://bahaiprayers.net/Book/Single/66/11142)
+
 
 ----
 
@@ -654,7 +807,10 @@ bpn11142
 
 -- Bahá'u'lláh
 
-bpn11143 
+Prayer bpn11143 in नेपाली (bpn11143) 
+
+[bahaiprayers.net 11143](https://bahaiprayers.net/Book/Single/66/11143)
+
 
 ----
 
@@ -664,7 +820,10 @@ bpn11143
 
 -- Abdu'l-Bahá
 
-bpn11144 
+Prayer bpn11144 in नेपाली (bpn11144) 
+
+[bahaiprayers.net 11144](https://bahaiprayers.net/Book/Single/66/11144)
+
 
 ----
 
@@ -678,7 +837,10 @@ bpn11144
 
 -- Bahá'u'lláh
 
-bpn11168 
+Prayer bpn11168 in नेपाली (bpn11168) 
+
+[bahaiprayers.net 11168](https://bahaiprayers.net/Book/Single/66/11168)
+
 
 ----
 
@@ -688,7 +850,10 @@ bpn11168
 
 -- Bahá'u'lláh
 
-bpn11169 
+Prayer bpn11169 in नेपाली (bpn11169) 
+
+[bahaiprayers.net 11169](https://bahaiprayers.net/Book/Single/66/11169)
+
 
 ----
 
@@ -698,7 +863,10 @@ bpn11169
 
 -- Bahá'u'lláh
 
-bpn11170 
+Prayer bpn11170 in नेपाली (bpn11170) 
+
+[bahaiprayers.net 11170](https://bahaiprayers.net/Book/Single/66/11170)
+
 
 ----
 
@@ -708,7 +876,10 @@ bpn11170
 
 -- Bahá'u'lláh
 
-bpn11171 
+Prayer bpn11171 in नेपाली (bpn11171) 
+
+[bahaiprayers.net 11171](https://bahaiprayers.net/Book/Single/66/11171)
+
 
 ----
 
@@ -718,7 +889,10 @@ bpn11171
 
 -- Bahá'u'lláh
 
-bpn11172 
+Prayer bpn11172 in नेपाली (bpn11172) 
+
+[bahaiprayers.net 11172](https://bahaiprayers.net/Book/Single/66/11172)
+
 
 ----
 
@@ -728,7 +902,10 @@ bpn11172
 
 -- Abdu'l-Bahá
 
-bpn11173 
+Prayer bpn11173 in नेपाली (bpn11173) 
+
+[bahaiprayers.net 11173](https://bahaiprayers.net/Book/Single/66/11173)
+
 
 ----
 
@@ -738,7 +915,10 @@ bpn11173
 
 -- Abdu'l-Bahá
 
-bpn11174 
+Prayer bpn11174 in नेपाली (bpn11174) 
+
+[bahaiprayers.net 11174](https://bahaiprayers.net/Book/Single/66/11174)
+
 
 ----
 
@@ -748,7 +928,10 @@ bpn11174
 
 -- Abdu'l-Bahá
 
-bpn11175 
+Prayer bpn11175 in नेपाली (bpn11175) 
+
+[bahaiprayers.net 11175](https://bahaiprayers.net/Book/Single/66/11175)
+
 
 ----
 
@@ -758,7 +941,10 @@ bpn11175
 
 -- Abdu'l-Bahá
 
-bpn11176 
+Prayer bpn11176 in नेपाली (bpn11176) 
+
+[bahaiprayers.net 11176](https://bahaiprayers.net/Book/Single/66/11176)
+
 
 ----
 
@@ -768,7 +954,10 @@ bpn11176
 
 -- Abdu'l-Bahá
 
-bpn11177 
+Prayer bpn11177 in नेपाली (bpn11177) 
+
+[bahaiprayers.net 11177](https://bahaiprayers.net/Book/Single/66/11177)
+
 
 ----
 
@@ -778,7 +967,10 @@ bpn11177
 
 -- Abdu'l-Bahá
 
-bpn11178 
+Prayer bpn11178 in नेपाली (bpn11178) 
+
+[bahaiprayers.net 11178](https://bahaiprayers.net/Book/Single/66/11178)
+
 
 ----
 
@@ -788,7 +980,10 @@ bpn11178
 
 -- Abdu'l-Bahá
 
-bpn11179 
+Prayer bpn11179 in नेपाली (bpn11179) 
+
+[bahaiprayers.net 11179](https://bahaiprayers.net/Book/Single/66/11179)
+
 
 ----
 
@@ -802,7 +997,10 @@ bpn11179
 
 -- Bahá'u'lláh
 
-bpn7010 
+Prayer bpn7010 in नेपाली (bpn7010) 
+
+[bahaiprayers.net 7010](https://bahaiprayers.net/Book/Single/66/7010)
+
 
 ----
 
@@ -812,7 +1010,10 @@ bpn7010
 
 -- Bahá'u'lláh
 
-bpn11136 
+Prayer bpn11136 in नेपाली (bpn11136) 
+
+[bahaiprayers.net 11136](https://bahaiprayers.net/Book/Single/66/11136)
+
 
 ----
 
@@ -822,7 +1023,10 @@ bpn11136
 
 -- Bahá'u'lláh
 
-bpn11137 
+Prayer bpn11137 in नेपाली (bpn11137) 
+
+[bahaiprayers.net 11137](https://bahaiprayers.net/Book/Single/66/11137)
+
 
 ----
 
@@ -832,7 +1036,10 @@ bpn11137
 
 -- Bahá'u'lláh
 
-bpn11138 
+Prayer bpn11138 in नेपाली (bpn11138) 
+
+[bahaiprayers.net 11138](https://bahaiprayers.net/Book/Single/66/11138)
+
 
 ----
 
@@ -846,7 +1053,10 @@ bpn11138
 
 -- Bahá'u'lláh
 
-bpn11117 
+Prayer bpn11117 in नेपाली (bpn11117) 
+
+[bahaiprayers.net 11117](https://bahaiprayers.net/Book/Single/66/11117)
+
 
 ----
 
@@ -856,7 +1066,10 @@ bpn11117
 
 -- Abdu'l-Bahá
 
-bpn11118 
+Prayer bpn11118 in नेपाली (bpn11118) 
+
+[bahaiprayers.net 11118](https://bahaiprayers.net/Book/Single/66/11118)
+
 
 ----
 
@@ -866,7 +1079,10 @@ bpn11118
 
 -- Abdu'l-Bahá
 
-bpn11119 
+Prayer bpn11119 in नेपाली (bpn11119) 
+
+[bahaiprayers.net 11119](https://bahaiprayers.net/Book/Single/66/11119)
+
 
 ----
 
@@ -876,7 +1092,10 @@ bpn11119
 
 -- Abdu'l-Bahá
 
-bpn11120 
+Prayer bpn11120 in नेपाली (bpn11120) 
+
+[bahaiprayers.net 11120](https://bahaiprayers.net/Book/Single/66/11120)
+
 
 ----
 
@@ -886,7 +1105,10 @@ bpn11120
 
 -- Abdu'l-Bahá
 
-bpn11121 
+Prayer bpn11121 in नेपाली (bpn11121) 
+
+[bahaiprayers.net 11121](https://bahaiprayers.net/Book/Single/66/11121)
+
 
 ----
 
@@ -896,7 +1118,10 @@ bpn11121
 
 -- Abdu'l-Bahá
 
-bpn11122 
+Prayer bpn11122 in नेपाली (bpn11122) 
+
+[bahaiprayers.net 11122](https://bahaiprayers.net/Book/Single/66/11122)
+
 
 ----
 
@@ -910,7 +1135,10 @@ bpn11122
 
 -- Bahá'u'lláh
 
-bpn11081 
+Prayer bpn11081 in नेपाली (bpn11081) 
+
+[bahaiprayers.net 11081](https://bahaiprayers.net/Book/Single/66/11081)
+
 
 ----
 
@@ -924,7 +1152,10 @@ bpn11081
 
 -- Bahá'u'lláh
 
-bpn11193 
+Prayer bpn11193 in नेपाली (bpn11193) 
+
+[bahaiprayers.net 11193](https://bahaiprayers.net/Book/Single/66/11193)
+
 
 ----
 
@@ -938,7 +1169,10 @@ bpn11193
 
 -- Bahá'u'lláh
 
-bpn11126 
+Prayer bpn11126 in नेपाली (bpn11126) 
+
+[bahaiprayers.net 11126](https://bahaiprayers.net/Book/Single/66/11126)
+
 
 ----
 
@@ -952,7 +1186,10 @@ bpn11126
 
 -- Bahá'u'lláh
 
-bpn11128 
+Prayer bpn11128 in नेपाली (bpn11128) 
+
+[bahaiprayers.net 11128](https://bahaiprayers.net/Book/Single/66/11128)
+
 
 ----
 
@@ -962,7 +1199,10 @@ bpn11128
 
 -- Abdu'l-Bahá
 
-bpn11129 
+Prayer bpn11129 in नेपाली (bpn11129) 
+
+[bahaiprayers.net 11129](https://bahaiprayers.net/Book/Single/66/11129)
+
 
 ----
 
@@ -972,7 +1212,10 @@ bpn11129
 
 -- Abdu'l-Bahá
 
-bpn11130 
+Prayer bpn11130 in नेपाली (bpn11130) 
+
+[bahaiprayers.net 11130](https://bahaiprayers.net/Book/Single/66/11130)
+
 
 ----
 
@@ -982,7 +1225,10 @@ bpn11130
 
 -- Abdu'l-Bahá
 
-bpn11131 
+Prayer bpn11131 in नेपाली (bpn11131) 
+
+[bahaiprayers.net 11131](https://bahaiprayers.net/Book/Single/66/11131)
+
 
 ----
 
@@ -996,7 +1242,10 @@ bpn11131
 
 -- Bahá'u'lláh
 
-bpn11095 
+Prayer bpn11095 in नेपाली (bpn11095) 
+
+[bahaiprayers.net 11095](https://bahaiprayers.net/Book/Single/66/11095)
+
 
 ----
 
@@ -1006,7 +1255,10 @@ bpn11095
 
 -- Bahá'u'lláh
 
-bpn11096 
+Prayer bpn11096 in नेपाली (bpn11096) 
+
+[bahaiprayers.net 11096](https://bahaiprayers.net/Book/Single/66/11096)
+
 
 ----
 
@@ -1016,7 +1268,10 @@ bpn11096
 
 -- Bahá'u'lláh
 
-bpn11097 
+Prayer bpn11097 in नेपाली (bpn11097) 
+
+[bahaiprayers.net 11097](https://bahaiprayers.net/Book/Single/66/11097)
+
 
 ----
 
@@ -1026,7 +1281,10 @@ bpn11097
 
 -- Bahá'u'lláh
 
-bpn11098 
+Prayer bpn11098 in नेपाली (bpn11098) 
+
+[bahaiprayers.net 11098](https://bahaiprayers.net/Book/Single/66/11098)
+
 
 ----
 
@@ -1036,7 +1294,10 @@ bpn11098
 
 -- Bahá'u'lláh
 
-bpn11099 
+Prayer bpn11099 in नेपाली (bpn11099) 
+
+[bahaiprayers.net 11099](https://bahaiprayers.net/Book/Single/66/11099)
+
 
 ----
 
@@ -1046,7 +1307,10 @@ bpn11099
 
 -- Bahá'u'lláh
 
-bpn11100 
+Prayer bpn11100 in नेपाली (bpn11100) 
+
+[bahaiprayers.net 11100](https://bahaiprayers.net/Book/Single/66/11100)
+
 
 ----
 
@@ -1056,7 +1320,10 @@ bpn11100
 
 -- Báb
 
-bpn11101 
+Prayer bpn11101 in नेपाली (bpn11101) 
+
+[bahaiprayers.net 11101](https://bahaiprayers.net/Book/Single/66/11101)
+
 
 ----
 
@@ -1066,7 +1333,10 @@ bpn11101
 
 -- Abdu'l-Bahá
 
-bpn7011 
+Prayer bpn7011 in नेपाली (bpn7011) 
+
+[bahaiprayers.net 7011](https://bahaiprayers.net/Book/Single/66/7011)
+
 
 ----
 
@@ -1080,7 +1350,10 @@ bpn7011
 
 -- Bahá'u'lláh
 
-bpn7009 
+Prayer bpn7009 in नेपाली (bpn7009) 
+
+[bahaiprayers.net 7009](https://bahaiprayers.net/Book/Single/66/7009)
+
 
 ----
 
@@ -1094,7 +1367,10 @@ bpn7009
 
 -- Bahá'u'lláh
 
-bpn7007 
+Prayer bpn7007 in नेपाली (bpn7007) 
+
+[bahaiprayers.net 7007](https://bahaiprayers.net/Book/Single/66/7007)
+
 
 ----
 
@@ -1104,7 +1380,10 @@ bpn7007
 
 -- Bahá'u'lláh
 
-bpn11123 
+Prayer bpn11123 in नेपाली (bpn11123) 
+
+[bahaiprayers.net 11123](https://bahaiprayers.net/Book/Single/66/11123)
+
 
 ----
 
@@ -1114,7 +1393,10 @@ bpn11123
 
 -- Bahá'u'lláh
 
-bpn11124 
+Prayer bpn11124 in नेपाली (bpn11124) 
+
+[bahaiprayers.net 11124](https://bahaiprayers.net/Book/Single/66/11124)
+
 
 ----
 
@@ -1124,7 +1406,10 @@ bpn11124
 
 -- Bahá'u'lláh
 
-bpn11125 
+Prayer bpn11125 in नेपाली (bpn11125) 
+
+[bahaiprayers.net 11125](https://bahaiprayers.net/Book/Single/66/11125)
+
 
 ----
 
@@ -1138,7 +1423,10 @@ bpn11125
 
 -- Bahá'u'lláh
 
-bpn11127 
+Prayer bpn11127 in नेपाली (bpn11127) 
+
+[bahaiprayers.net 11127](https://bahaiprayers.net/Book/Single/66/11127)
+
 
 ----
 
@@ -1152,7 +1440,10 @@ bpn11127
 
 -- Bahá'u'lláh
 
-bpn11082 
+Prayer bpn11082 in नेपाली (bpn11082) 
+
+[bahaiprayers.net 11082](https://bahaiprayers.net/Book/Single/66/11082)
+
 
 ----
 
@@ -1166,7 +1457,10 @@ bpn11082
 
 -- Bahá'u'lláh
 
-bpn11132 
+Prayer bpn11132 in नेपाली (bpn11132) 
+
+[bahaiprayers.net 11132](https://bahaiprayers.net/Book/Single/66/11132)
+
 
 ----
 
@@ -1176,7 +1470,10 @@ bpn11132
 
 -- Bahá'u'lláh
 
-bpn11133 
+Prayer bpn11133 in नेपाली (bpn11133) 
+
+[bahaiprayers.net 11133](https://bahaiprayers.net/Book/Single/66/11133)
+
 
 ----
 
@@ -1186,7 +1483,10 @@ bpn11133
 
 -- Abdu'l-Bahá
 
-bpn11134 
+Prayer bpn11134 in नेपाली (bpn11134) 
+
+[bahaiprayers.net 11134](https://bahaiprayers.net/Book/Single/66/11134)
+
 
 ----
 
@@ -1196,7 +1496,10 @@ bpn11134
 
 -- Abdu'l-Bahá
 
-bpn11135 
+Prayer bpn11135 in नेपाली (bpn11135) 
+
+[bahaiprayers.net 11135](https://bahaiprayers.net/Book/Single/66/11135)
+
 
 ----
 
@@ -1210,7 +1513,10 @@ bpn11135
 
 -- Bahá'u'lláh
 
-bpn11181 
+Prayer bpn11181 in नेपाली (bpn11181) 
+
+[bahaiprayers.net 11181](https://bahaiprayers.net/Book/Single/66/11181)
+
 
 ----
 
@@ -1220,7 +1526,10 @@ bpn11181
 
 -- Bahá'u'lláh
 
-bpn11180 
+Prayer bpn11180 in नेपाली (bpn11180) 
+
+[bahaiprayers.net 11180](https://bahaiprayers.net/Book/Single/66/11180)
+
 
 ----
 
@@ -1230,7 +1539,10 @@ bpn11180
 
 -- Bahá'u'lláh
 
-bpn11182 
+Prayer bpn11182 in नेपाली (bpn11182) 
+
+[bahaiprayers.net 11182](https://bahaiprayers.net/Book/Single/66/11182)
+
 
 ----
 
@@ -1240,7 +1552,10 @@ bpn11182
 
 -- Bahá'u'lláh
 
-bpn11183 
+Prayer bpn11183 in नेपाली (bpn11183) 
+
+[bahaiprayers.net 11183](https://bahaiprayers.net/Book/Single/66/11183)
+
 
 ----
 
@@ -1250,7 +1565,10 @@ bpn11183
 
 -- Báb
 
-bpn11184 
+Prayer bpn11184 in नेपाली (bpn11184) 
+
+[bahaiprayers.net 11184](https://bahaiprayers.net/Book/Single/66/11184)
+
 
 ----
 
@@ -1260,7 +1578,10 @@ bpn11184
 
 -- Báb
 
-bpn7013 
+Prayer bpn7013 in नेपाली (bpn7013) 
+
+[bahaiprayers.net 7013](https://bahaiprayers.net/Book/Single/66/7013)
+
 
 ----
 
@@ -1270,7 +1591,10 @@ bpn7013
 
 -- Báb
 
-bpn11185 
+Prayer bpn11185 in नेपाली (bpn11185) 
+
+[bahaiprayers.net 11185](https://bahaiprayers.net/Book/Single/66/11185)
+
 
 ----
 
@@ -1280,7 +1604,10 @@ bpn11185
 
 -- Báb
 
-bpn11186 
+Prayer bpn11186 in नेपाली (bpn11186) 
+
+[bahaiprayers.net 11186](https://bahaiprayers.net/Book/Single/66/11186)
+
 
 ----
 
@@ -1290,7 +1617,10 @@ bpn11186
 
 -- Abdu'l-Bahá
 
-bpn11187 
+Prayer bpn11187 in नेपाली (bpn11187) 
+
+[bahaiprayers.net 11187](https://bahaiprayers.net/Book/Single/66/11187)
+
 
 ----
 
@@ -1304,7 +1634,10 @@ bpn11187
 
 -- Bahá'u'lláh
 
-bpn11145 
+Prayer bpn11145 in नेपाली (bpn11145) 
+
+[bahaiprayers.net 11145](https://bahaiprayers.net/Book/Single/66/11145)
+
 
 ----
 
@@ -1314,7 +1647,10 @@ bpn11145
 
 -- Bahá'u'lláh
 
-bpn11146 
+Prayer bpn11146 in नेपाली (bpn11146) 
+
+[bahaiprayers.net 11146](https://bahaiprayers.net/Book/Single/66/11146)
+
 
 ----
 
@@ -1324,7 +1660,10 @@ bpn11146
 
 -- Abdu'l-Bahá
 
-bpn11147 
+Prayer bpn11147 in नेपाली (bpn11147) 
+
+[bahaiprayers.net 11147](https://bahaiprayers.net/Book/Single/66/11147)
+
 
 ----
 
@@ -1334,7 +1673,10 @@ bpn11147
 
 -- Abdu'l-Bahá
 
-bpn11148 
+Prayer bpn11148 in नेपाली (bpn11148) 
+
+[bahaiprayers.net 11148](https://bahaiprayers.net/Book/Single/66/11148)
+
 
 ----
 
@@ -1348,7 +1690,10 @@ bpn11148
 
 -- Bahá'u'lláh
 
-bpn11108 
+Prayer bpn11108 in नेपाली (bpn11108) 
+
+[bahaiprayers.net 11108](https://bahaiprayers.net/Book/Single/66/11108)
+
 
 ----
 
@@ -1358,7 +1703,10 @@ bpn11108
 
 -- Bahá'u'lláh
 
-bpn11109 
+Prayer bpn11109 in नेपाली (bpn11109) 
+
+[bahaiprayers.net 11109](https://bahaiprayers.net/Book/Single/66/11109)
+
 
 ----
 
@@ -1368,7 +1716,10 @@ bpn11109
 
 -- Abdu'l-Bahá
 
-bpn11110 
+Prayer bpn11110 in नेपाली (bpn11110) 
+
+[bahaiprayers.net 11110](https://bahaiprayers.net/Book/Single/66/11110)
+
 
 ----
 
@@ -1382,7 +1733,10 @@ bpn11110
 
 -- Bahá'u'lláh
 
-bpn11083 
+Prayer bpn11083 in नेपाली (bpn11083) 
+
+[bahaiprayers.net 11083](https://bahaiprayers.net/Book/Single/66/11083)
+
 
 ----
 
@@ -1392,7 +1746,10 @@ bpn11083
 
 -- Bahá'u'lláh
 
-bpn11084 
+Prayer bpn11084 in नेपाली (bpn11084) 
+
+[bahaiprayers.net 11084](https://bahaiprayers.net/Book/Single/66/11084)
+
 
 ----
 
@@ -1402,7 +1759,10 @@ bpn11084
 
 -- Báb
 
-bpn11102 
+Prayer bpn11102 in नेपाली (bpn11102) 
+
+[bahaiprayers.net 11102](https://bahaiprayers.net/Book/Single/66/11102)
+
 
 ----
 
@@ -1412,7 +1772,10 @@ bpn11102
 
 -- Abdu'l-Bahá
 
-bpn11085 
+Prayer bpn11085 in नेपाली (bpn11085) 
+
+[bahaiprayers.net 11085](https://bahaiprayers.net/Book/Single/66/11085)
+
 
 ----
 
@@ -1422,7 +1785,10 @@ bpn11085
 
 -- Abdu'l-Bahá
 
-bpn11086 
+Prayer bpn11086 in नेपाली (bpn11086) 
+
+[bahaiprayers.net 11086](https://bahaiprayers.net/Book/Single/66/11086)
+
 
 ----
 
@@ -1432,7 +1798,10 @@ bpn11086
 
 -- Abdu'l-Bahá
 
-bpn11087 
+Prayer bpn11087 in नेपाली (bpn11087) 
+
+[bahaiprayers.net 11087](https://bahaiprayers.net/Book/Single/66/11087)
+
 
 ----
 
@@ -1442,7 +1811,10 @@ bpn11087
 
 -- Abdu'l-Bahá
 
-bpn11103 
+Prayer bpn11103 in नेपाली (bpn11103) 
+
+[bahaiprayers.net 11103](https://bahaiprayers.net/Book/Single/66/11103)
+
 
 ----
 
@@ -1452,7 +1824,10 @@ bpn11103
 
 -- Abdu'l-Bahá
 
-bpn11104 
+Prayer bpn11104 in नेपाली (bpn11104) 
+
+[bahaiprayers.net 11104](https://bahaiprayers.net/Book/Single/66/11104)
+
 
 ----
 
@@ -1466,7 +1841,10 @@ bpn11104
 
 -- Bahá'u'lláh
 
-bpn11106 
+Prayer bpn11106 in नेपाली (bpn11106) 
+
+[bahaiprayers.net 11106](https://bahaiprayers.net/Book/Single/66/11106)
+
 
 ----
 
@@ -1476,7 +1854,10 @@ bpn11106
 
 -- Bahá'u'lláh
 
-bpn11107 
+Prayer bpn11107 in नेपाली (bpn11107) 
+
+[bahaiprayers.net 11107](https://bahaiprayers.net/Book/Single/66/11107)
+
 
 ----
 

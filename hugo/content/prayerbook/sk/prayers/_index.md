@@ -102,7 +102,10 @@ tags = ['lang=sk', 'prayerbook']
 
 -- Bahá'u'lláh
 
-BH08264 «[English](../../en/prayers/#BH08264)» 
+Prayer BH08264 in Slovensky (BH08264) «[English](../../en/prayers/#BH08264)» 
+
+[bahaiprayers.net 13204](https://bahaiprayers.net/Book/Single/26/13204)
+
 
 ----
 
@@ -112,7 +115,10 @@ BH08264 «[English](../../en/prayers/#BH08264)»
 
 -- Báb
 
-bpn13205 
+Prayer bpn13205 in Slovensky (bpn13205) 
+
+[bahaiprayers.net 13205](https://bahaiprayers.net/Book/Single/26/13205)
+
 
 ----
 
@@ -122,7 +128,10 @@ bpn13205
 
 -- Báb
 
-bpn13206 
+Prayer bpn13206 in Slovensky (bpn13206) 
+
+[bahaiprayers.net 13206](https://bahaiprayers.net/Book/Single/26/13206)
+
 
 ----
 
@@ -132,7 +141,10 @@ bpn13206
 
 -- Abdu'l-Bahá
 
-bpn13207 
+Prayer bpn13207 in Slovensky (bpn13207) 
+
+[bahaiprayers.net 13207](https://bahaiprayers.net/Book/Single/26/13207)
+
 
 ----
 
@@ -142,7 +154,10 @@ bpn13207
 
 -- Abdu'l-Bahá
 
-bpn13208 
+Prayer bpn13208 in Slovensky (bpn13208) 
+
+[bahaiprayers.net 13208](https://bahaiprayers.net/Book/Single/26/13208)
+
 
 ----
 
@@ -156,7 +171,10 @@ bpn13208
 
 -- Bahá'u'lláh
 
-bpn13131 
+Prayer bpn13131 in Slovensky (bpn13131) 
+
+[bahaiprayers.net 13131](https://bahaiprayers.net/Book/Single/26/13131)
+
 
 ----
 
@@ -166,7 +184,10 @@ bpn13131
 
 -- Bahá'u'lláh
 
-bpn13188 
+Prayer bpn13188 in Slovensky (bpn13188) 
+
+[bahaiprayers.net 13188](https://bahaiprayers.net/Book/Single/26/13188)
+
 
 ----
 
@@ -176,7 +197,10 @@ bpn13188
 
 -- Abdu'l-Bahá
 
-bpn13132 
+Prayer bpn13132 in Slovensky (bpn13132) 
+
+[bahaiprayers.net 13132](https://bahaiprayers.net/Book/Single/26/13132)
+
 
 ----
 
@@ -186,7 +210,10 @@ bpn13132
 
 -- Abdu'l-Bahá
 
-bpn13133 
+Prayer bpn13133 in Slovensky (bpn13133) 
+
+[bahaiprayers.net 13133](https://bahaiprayers.net/Book/Single/26/13133)
+
 
 ----
 
@@ -200,7 +227,10 @@ bpn13133
 
 -- Bahá'u'lláh
 
-bpn13209 
+Prayer bpn13209 in Slovensky (bpn13209) 
+
+[bahaiprayers.net 13209](https://bahaiprayers.net/Book/Single/26/13209)
+
 
 ----
 
@@ -210,7 +240,10 @@ bpn13209
 
 -- Bahá'u'lláh
 
-bpn13210 
+Prayer bpn13210 in Slovensky (bpn13210) 
+
+[bahaiprayers.net 13210](https://bahaiprayers.net/Book/Single/26/13210)
+
 
 ----
 
@@ -220,7 +253,10 @@ bpn13210
 
 -- Bahá'u'lláh
 
-bpn13211 
+Prayer bpn13211 in Slovensky (bpn13211) 
+
+[bahaiprayers.net 13211](https://bahaiprayers.net/Book/Single/26/13211)
+
 
 ----
 
@@ -230,7 +266,10 @@ bpn13211
 
 -- Bahá'u'lláh
 
-bpn13212 
+Prayer bpn13212 in Slovensky (bpn13212) 
+
+[bahaiprayers.net 13212](https://bahaiprayers.net/Book/Single/26/13212)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn13212
 
 -- Bahá'u'lláh
 
-bpn13213 
+Prayer bpn13213 in Slovensky (bpn13213) 
+
+[bahaiprayers.net 13213](https://bahaiprayers.net/Book/Single/26/13213)
+
 
 ----
 
@@ -250,7 +292,10 @@ bpn13213
 
 -- Báb
 
-bpn13214 
+Prayer bpn13214 in Slovensky (bpn13214) 
+
+[bahaiprayers.net 13214](https://bahaiprayers.net/Book/Single/26/13214)
+
 
 ----
 
@@ -264,7 +309,10 @@ bpn13214
 
 -- Bahá'u'lláh
 
-bpn13119 
+Prayer bpn13119 in Slovensky (bpn13119) 
+
+[bahaiprayers.net 13119](https://bahaiprayers.net/Book/Single/26/13119)
+
 
 ----
 
@@ -274,7 +322,10 @@ bpn13119
 
 -- Abdu'l-Bahá
 
-bpn13120 
+Prayer bpn13120 in Slovensky (bpn13120) 
+
+[bahaiprayers.net 13120](https://bahaiprayers.net/Book/Single/26/13120)
+
 
 ----
 
@@ -284,7 +335,10 @@ bpn13120
 
 -- Abdu'l-Bahá
 
-bpn13121 
+Prayer bpn13121 in Slovensky (bpn13121) 
+
+[bahaiprayers.net 13121](https://bahaiprayers.net/Book/Single/26/13121)
+
 
 ----
 
@@ -294,7 +348,10 @@ bpn13121
 
 -- Abdu'l-Bahá
 
-bpn13122 
+Prayer bpn13122 in Slovensky (bpn13122) 
+
+[bahaiprayers.net 13122](https://bahaiprayers.net/Book/Single/26/13122)
+
 
 ----
 
@@ -304,7 +361,10 @@ bpn13122
 
 -- Abdu'l-Bahá
 
-bpn13123 
+Prayer bpn13123 in Slovensky (bpn13123) 
+
+[bahaiprayers.net 13123](https://bahaiprayers.net/Book/Single/26/13123)
+
 
 ----
 
@@ -314,7 +374,10 @@ bpn13123
 
 -- Abdu'l-Bahá
 
-bpn13124 
+Prayer bpn13124 in Slovensky (bpn13124) 
+
+[bahaiprayers.net 13124](https://bahaiprayers.net/Book/Single/26/13124)
+
 
 ----
 
@@ -324,7 +387,10 @@ bpn13124
 
 -- Abdu'l-Bahá
 
-bpn13125 
+Prayer bpn13125 in Slovensky (bpn13125) 
+
+[bahaiprayers.net 13125](https://bahaiprayers.net/Book/Single/26/13125)
+
 
 ----
 
@@ -334,7 +400,10 @@ bpn13125
 
 -- Abdu'l-Bahá
 
-bpn13126 
+Prayer bpn13126 in Slovensky (bpn13126) 
+
+[bahaiprayers.net 13126](https://bahaiprayers.net/Book/Single/26/13126)
+
 
 ----
 
@@ -344,7 +413,10 @@ bpn13126
 
 -- Abdu'l-Bahá
 
-bpn13127 
+Prayer bpn13127 in Slovensky (bpn13127) 
+
+[bahaiprayers.net 13127](https://bahaiprayers.net/Book/Single/26/13127)
+
 
 ----
 
@@ -354,7 +426,10 @@ bpn13127
 
 -- Abdu'l-Bahá
 
-bpn13128 
+Prayer bpn13128 in Slovensky (bpn13128) 
+
+[bahaiprayers.net 13128](https://bahaiprayers.net/Book/Single/26/13128)
+
 
 ----
 
@@ -364,7 +439,10 @@ bpn13128
 
 -- Abdu'l-Bahá
 
-bpn13129 
+Prayer bpn13129 in Slovensky (bpn13129) 
+
+[bahaiprayers.net 13129](https://bahaiprayers.net/Book/Single/26/13129)
+
 
 ----
 
@@ -374,7 +452,10 @@ bpn13129
 
 -- Abdu'l-Bahá
 
-bpn13130 
+Prayer bpn13130 in Slovensky (bpn13130) 
+
+[bahaiprayers.net 13130](https://bahaiprayers.net/Book/Single/26/13130)
+
 
 ----
 
@@ -388,7 +469,10 @@ bpn13130
 
 -- Bahá'u'lláh
 
-bpn9990 
+Prayer bpn9990 in Slovensky (bpn9990) 
+
+[bahaiprayers.net 9990](https://bahaiprayers.net/Book/Single/26/9990)
+
 
 ----
 
@@ -402,7 +486,10 @@ bpn9990
 
 -- Abdu'l-Bahá
 
-bpn13242 
+Prayer bpn13242 in Slovensky (bpn13242) 
+
+[bahaiprayers.net 13242](https://bahaiprayers.net/Book/Single/26/13242)
+
 
 ----
 
@@ -412,7 +499,10 @@ bpn13242
 
 -- Abdu'l-Bahá
 
-bpn13243 
+Prayer bpn13243 in Slovensky (bpn13243) 
+
+[bahaiprayers.net 13243](https://bahaiprayers.net/Book/Single/26/13243)
+
 
 ----
 
@@ -426,7 +516,10 @@ bpn13243
 
 -- Abdu'l-Bahá
 
-AB00362LOV «[English](../../en/prayers/#AB00362LOV)» 
+Prayer AB00362LOV in Slovensky (AB00362LOV) «[English](../../en/prayers/#AB00362LOV)» 
+
+[bahaiprayers.net 13175](https://bahaiprayers.net/Book/Single/26/13175)
+
 
 ----
 
@@ -440,7 +533,10 @@ AB00362LOV «[English](../../en/prayers/#AB00362LOV)»
 
 -- Bahá'u'lláh
 
-bpn13230 
+Prayer bpn13230 in Slovensky (bpn13230) 
+
+[bahaiprayers.net 13230](https://bahaiprayers.net/Book/Single/26/13230)
+
 
 ----
 
@@ -450,7 +546,10 @@ bpn13230
 
 -- Abdu'l-Bahá
 
-ABU0023UNI «[Esperanto](../../eo/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» «[Nederlands](../../nl/prayers/#ABU0023UNI)» 
+Prayer ABU0023UNI in Slovensky (ABU0023UNI) «[Esperanto](../../eo/prayers/#ABU0023UNI)» «[Nederlands](../../nl/prayers/#ABU0023UNI)» «[English](../../en/prayers/#ABU0023UNI)» 
+
+[bahaiprayers.net 13231](https://bahaiprayers.net/Book/Single/26/13231)
+
 
 ----
 
@@ -464,7 +563,10 @@ ABU0023UNI «[Esperanto](../../eo/prayers/#ABU0023UNI)» «[English](../../en/pr
 
 -- Bahá'u'lláh
 
-bpn9988 
+Prayer bpn9988 in Slovensky (bpn9988) 
+
+[bahaiprayers.net 9988](https://bahaiprayers.net/Book/Single/26/9988)
+
 
 ----
 
@@ -478,7 +580,10 @@ bpn9988
 
 -- Abdu'l-Bahá
 
-bpn13160 
+Prayer bpn13160 in Slovensky (bpn13160) 
+
+[bahaiprayers.net 13160](https://bahaiprayers.net/Book/Single/26/13160)
+
 
 ----
 
@@ -492,7 +597,10 @@ bpn13160
 
 -- Bahá'u'lláh
 
-bpn13195 
+Prayer bpn13195 in Slovensky (bpn13195) 
+
+[bahaiprayers.net 13195](https://bahaiprayers.net/Book/Single/26/13195)
+
 
 ----
 
@@ -502,7 +610,10 @@ bpn13195
 
 -- Abdu'l-Bahá
 
-bpn13196 
+Prayer bpn13196 in Slovensky (bpn13196) 
+
+[bahaiprayers.net 13196](https://bahaiprayers.net/Book/Single/26/13196)
+
 
 ----
 
@@ -512,7 +623,10 @@ bpn13196
 
 -- Abdu'l-Bahá
 
-bpn13197 
+Prayer bpn13197 in Slovensky (bpn13197) 
+
+[bahaiprayers.net 13197](https://bahaiprayers.net/Book/Single/26/13197)
+
 
 ----
 
@@ -522,7 +636,10 @@ bpn13197
 
 -- Abdu'l-Bahá
 
-bpn13198 
+Prayer bpn13198 in Slovensky (bpn13198) 
+
+[bahaiprayers.net 13198](https://bahaiprayers.net/Book/Single/26/13198)
+
 
 ----
 
@@ -532,7 +649,10 @@ bpn13198
 
 -- Abdu'l-Bahá
 
-bpn13199 
+Prayer bpn13199 in Slovensky (bpn13199) 
+
+[bahaiprayers.net 13199](https://bahaiprayers.net/Book/Single/26/13199)
+
 
 ----
 
@@ -546,7 +666,10 @@ bpn13199
 
 -- Abdu'l-Bahá
 
-bpn13233 
+Prayer bpn13233 in Slovensky (bpn13233) 
+
+[bahaiprayers.net 13233](https://bahaiprayers.net/Book/Single/26/13233)
+
 
 ----
 
@@ -560,7 +683,10 @@ bpn13233
 
 -- Bahá'u'lláh
 
-bpn13251 
+Prayer bpn13251 in Slovensky (bpn13251) 
+
+[bahaiprayers.net 13251](https://bahaiprayers.net/Book/Single/26/13251)
+
 
 ----
 
@@ -574,7 +700,10 @@ bpn13251
 
 -- Bahá'u'lláh
 
-bpn13248 
+Prayer bpn13248 in Slovensky (bpn13248) 
+
+[bahaiprayers.net 13248](https://bahaiprayers.net/Book/Single/26/13248)
+
 
 ----
 
@@ -584,7 +713,10 @@ bpn13248
 
 -- Bahá'u'lláh
 
-bpn13249 
+Prayer bpn13249 in Slovensky (bpn13249) 
+
+[bahaiprayers.net 13249](https://bahaiprayers.net/Book/Single/26/13249)
+
 
 ----
 
@@ -598,7 +730,10 @@ bpn13249
 
 -- Bahá'u'lláh
 
-bpn13250 
+Prayer bpn13250 in Slovensky (bpn13250) 
+
+[bahaiprayers.net 13250](https://bahaiprayers.net/Book/Single/26/13250)
+
 
 ----
 
@@ -612,7 +747,10 @@ bpn13250
 
 -- Abdu'l-Bahá
 
-bpn13232 
+Prayer bpn13232 in Slovensky (bpn13232) 
+
+[bahaiprayers.net 13232](https://bahaiprayers.net/Book/Single/26/13232)
+
 
 ----
 
@@ -626,7 +764,10 @@ bpn13232
 
 -- Bahá'u'lláh
 
-bpn13241 
+Prayer bpn13241 in Slovensky (bpn13241) 
+
+[bahaiprayers.net 13241](https://bahaiprayers.net/Book/Single/26/13241)
+
 
 ----
 
@@ -636,7 +777,10 @@ bpn13241
 
 -- Bahá'u'lláh
 
-bpn13247 
+Prayer bpn13247 in Slovensky (bpn13247) 
+
+[bahaiprayers.net 13247](https://bahaiprayers.net/Book/Single/26/13247)
+
 
 ----
 
@@ -650,7 +794,10 @@ bpn13247
 
 -- Bahá'u'lláh
 
-bpn13166 
+Prayer bpn13166 in Slovensky (bpn13166) 
+
+[bahaiprayers.net 13166](https://bahaiprayers.net/Book/Single/26/13166)
+
 
 ----
 
@@ -660,7 +807,10 @@ bpn13166
 
 -- Bahá'u'lláh
 
-BH08600FAC «[Español](../../es/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» «[Nederlands](../../nl/prayers/#BH08600FAC)» 
+Prayer BH08600FAC in Slovensky (BH08600FAC) «[Nederlands](../../nl/prayers/#BH08600FAC)» «[English](../../en/prayers/#BH08600FAC)» «[Español](../../es/prayers/#BH08600FAC)» 
+
+[bahaiprayers.net 13167](https://bahaiprayers.net/Book/Single/26/13167)
+
 
 ----
 
@@ -670,7 +820,10 @@ BH08600FAC «[Español](../../es/prayers/#BH08600FAC)» «[English](../../en/pra
 
 -- Bahá'u'lláh
 
-bpn13168 
+Prayer bpn13168 in Slovensky (bpn13168) 
+
+[bahaiprayers.net 13168](https://bahaiprayers.net/Book/Single/26/13168)
+
 
 ----
 
@@ -680,7 +833,10 @@ bpn13168
 
 -- Bahá'u'lláh
 
-bpn13169 
+Prayer bpn13169 in Slovensky (bpn13169) 
+
+[bahaiprayers.net 13169](https://bahaiprayers.net/Book/Single/26/13169)
+
 
 ----
 
@@ -690,7 +846,10 @@ bpn13169
 
 -- Bahá'u'lláh
 
-bpn13170 
+Prayer bpn13170 in Slovensky (bpn13170) 
+
+[bahaiprayers.net 13170](https://bahaiprayers.net/Book/Single/26/13170)
+
 
 ----
 
@@ -700,7 +859,10 @@ bpn13170
 
 -- Báb
 
-bpn13171 
+Prayer bpn13171 in Slovensky (bpn13171) 
+
+[bahaiprayers.net 13171](https://bahaiprayers.net/Book/Single/26/13171)
+
 
 ----
 
@@ -710,7 +872,10 @@ bpn13171
 
 -- Báb
 
-bpn13172 
+Prayer bpn13172 in Slovensky (bpn13172) 
+
+[bahaiprayers.net 13172](https://bahaiprayers.net/Book/Single/26/13172)
+
 
 ----
 
@@ -720,7 +885,10 @@ bpn13172
 
 -- Báb
 
-bpn13173 
+Prayer bpn13173 in Slovensky (bpn13173) 
+
+[bahaiprayers.net 13173](https://bahaiprayers.net/Book/Single/26/13173)
+
 
 ----
 
@@ -730,7 +898,10 @@ bpn13173
 
 -- Báb
 
-bpn13174 
+Prayer bpn13174 in Slovensky (bpn13174) 
+
+[bahaiprayers.net 13174](https://bahaiprayers.net/Book/Single/26/13174)
+
 
 ----
 
@@ -744,7 +915,10 @@ bpn13174
 
 -- Bahá'u'lláh
 
-bpn13143 
+Prayer bpn13143 in Slovensky (bpn13143) 
+
+[bahaiprayers.net 13143](https://bahaiprayers.net/Book/Single/26/13143)
+
 
 ----
 
@@ -754,7 +928,10 @@ bpn13143
 
 -- Bahá'u'lláh
 
-bpn13144 
+Prayer bpn13144 in Slovensky (bpn13144) 
+
+[bahaiprayers.net 13144](https://bahaiprayers.net/Book/Single/26/13144)
+
 
 ----
 
@@ -764,7 +941,10 @@ bpn13144
 
 -- Bahá'u'lláh
 
-bpn13145 
+Prayer bpn13145 in Slovensky (bpn13145) 
+
+[bahaiprayers.net 13145](https://bahaiprayers.net/Book/Single/26/13145)
+
 
 ----
 
@@ -774,7 +954,10 @@ bpn13145
 
 -- Bahá'u'lláh
 
-bpn13146 
+Prayer bpn13146 in Slovensky (bpn13146) 
+
+[bahaiprayers.net 13146](https://bahaiprayers.net/Book/Single/26/13146)
+
 
 ----
 
@@ -784,7 +967,10 @@ bpn13146
 
 -- Bahá'u'lláh
 
-bpn13147 
+Prayer bpn13147 in Slovensky (bpn13147) 
+
+[bahaiprayers.net 13147](https://bahaiprayers.net/Book/Single/26/13147)
+
 
 ----
 
@@ -794,7 +980,10 @@ bpn13147
 
 -- Bahá'u'lláh
 
-bpn13148 
+Prayer bpn13148 in Slovensky (bpn13148) 
+
+[bahaiprayers.net 13148](https://bahaiprayers.net/Book/Single/26/13148)
+
 
 ----
 
@@ -804,7 +993,10 @@ bpn13148
 
 -- Báb
 
-bpn13149 
+Prayer bpn13149 in Slovensky (bpn13149) 
+
+[bahaiprayers.net 13149](https://bahaiprayers.net/Book/Single/26/13149)
+
 
 ----
 
@@ -814,7 +1006,10 @@ bpn13149
 
 -- Báb
 
-bpn13150 
+Prayer bpn13150 in Slovensky (bpn13150) 
+
+[bahaiprayers.net 13150](https://bahaiprayers.net/Book/Single/26/13150)
+
 
 ----
 
@@ -824,7 +1019,10 @@ bpn13150
 
 -- Báb
 
-bpn13151 
+Prayer bpn13151 in Slovensky (bpn13151) 
+
+[bahaiprayers.net 13151](https://bahaiprayers.net/Book/Single/26/13151)
+
 
 ----
 
@@ -834,7 +1032,10 @@ bpn13151
 
 -- Abdu'l-Bahá
 
-bpn13152 
+Prayer bpn13152 in Slovensky (bpn13152) 
+
+[bahaiprayers.net 13152](https://bahaiprayers.net/Book/Single/26/13152)
+
 
 ----
 
@@ -844,7 +1045,10 @@ bpn13152
 
 -- Abdu'l-Bahá
 
-bpn13153 
+Prayer bpn13153 in Slovensky (bpn13153) 
+
+[bahaiprayers.net 13153](https://bahaiprayers.net/Book/Single/26/13153)
+
 
 ----
 
@@ -858,7 +1062,10 @@ bpn13153
 
 -- Bahá'u'lláh
 
-bpn13161 
+Prayer bpn13161 in Slovensky (bpn13161) 
+
+[bahaiprayers.net 13161](https://bahaiprayers.net/Book/Single/26/13161)
+
 
 ----
 
@@ -868,7 +1075,10 @@ bpn13161
 
 -- Bahá'u'lláh
 
-bpn13162 
+Prayer bpn13162 in Slovensky (bpn13162) 
+
+[bahaiprayers.net 13162](https://bahaiprayers.net/Book/Single/26/13162)
+
 
 ----
 
@@ -878,7 +1088,10 @@ bpn13162
 
 -- Abdu'l-Bahá
 
-AB10492 «[Español](../../es/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» «[Nederlands](../../nl/prayers/#AB10492)» 
+Prayer AB10492 in Slovensky (AB10492) «[Nederlands](../../nl/prayers/#AB10492)» «[English](../../en/prayers/#AB10492)» «[Español](../../es/prayers/#AB10492)» 
+
+[bahaiprayers.net 9994](https://bahaiprayers.net/Book/Single/26/9994)
+
 
 ----
 
@@ -888,7 +1101,10 @@ AB10492 «[Español](../../es/prayers/#AB10492)» «[English](../../en/prayers/#
 
 -- Abdu'l-Bahá
 
-AB06211 «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» 
+Prayer AB06211 in Slovensky (AB06211) «[Deutsch](../../de/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
+
+[bahaiprayers.net 13163](https://bahaiprayers.net/Book/Single/26/13163)
+
 
 ----
 
@@ -898,7 +1114,10 @@ AB06211 «[Español](../../es/prayers/#AB06211)» «[Deutsch](../../de/prayers/#
 
 -- Abdu'l-Bahá
 
-bpn13164 
+Prayer bpn13164 in Slovensky (bpn13164) 
+
+[bahaiprayers.net 13164](https://bahaiprayers.net/Book/Single/26/13164)
+
 
 ----
 
@@ -908,7 +1127,10 @@ bpn13164
 
 -- Abdu'l-Bahá
 
-bpn13165 
+Prayer bpn13165 in Slovensky (bpn13165) 
+
+[bahaiprayers.net 13165](https://bahaiprayers.net/Book/Single/26/13165)
+
 
 ----
 
@@ -922,7 +1144,10 @@ bpn13165
 
 -- Abdu'l-Bahá
 
-bpn13156 
+Prayer bpn13156 in Slovensky (bpn13156) 
+
+[bahaiprayers.net 13156](https://bahaiprayers.net/Book/Single/26/13156)
+
 
 ----
 
@@ -936,7 +1161,10 @@ bpn13156
 
 -- Bahá'u'lláh
 
-bpn9992 
+Prayer bpn9992 in Slovensky (bpn9992) 
+
+[bahaiprayers.net 9992](https://bahaiprayers.net/Book/Single/26/9992)
+
 
 ----
 
@@ -946,7 +1174,10 @@ bpn9992
 
 -- Bahá'u'lláh
 
-bpn13112 
+Prayer bpn13112 in Slovensky (bpn13112) 
+
+[bahaiprayers.net 13112](https://bahaiprayers.net/Book/Single/26/13112)
+
 
 ----
 
@@ -956,7 +1187,10 @@ bpn13112
 
 -- Bahá'u'lláh
 
-bpn13113 
+Prayer bpn13113 in Slovensky (bpn13113) 
+
+[bahaiprayers.net 13113](https://bahaiprayers.net/Book/Single/26/13113)
+
 
 ----
 
@@ -966,7 +1200,10 @@ bpn13113
 
 -- Báb
 
-bpn13114 
+Prayer bpn13114 in Slovensky (bpn13114) 
+
+[bahaiprayers.net 13114](https://bahaiprayers.net/Book/Single/26/13114)
+
 
 ----
 
@@ -976,7 +1213,10 @@ bpn13114
 
 -- Báb
 
-bpn13115 
+Prayer bpn13115 in Slovensky (bpn13115) 
+
+[bahaiprayers.net 13115](https://bahaiprayers.net/Book/Single/26/13115)
+
 
 ----
 
@@ -986,7 +1226,10 @@ bpn13115
 
 -- Abdu'l-Bahá
 
-ABU1863REF «[Esperanto](../../eo/prayers/#ABU1863REF)» 
+Prayer ABU1863REF in Slovensky (ABU1863REF) «[Esperanto](../../eo/prayers/#ABU1863REF)» 
+
+[bahaiprayers.net 9991](https://bahaiprayers.net/Book/Single/26/9991)
+
 
 ----
 
@@ -996,7 +1239,10 @@ ABU1863REF «[Esperanto](../../eo/prayers/#ABU1863REF)»
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[Papiamentu](../../pap/prayers/#AB00431PIT)» «[Esperanto](../../eo/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» 
+Prayer AB00431PIT in Slovensky (AB00431PIT) «[Esperanto](../../eo/prayers/#AB00431PIT)» «[Nederlands](../../nl/prayers/#AB00431PIT)» «[English](../../en/prayers/#AB00431PIT)» «[Papiamentu](../../pap/prayers/#AB00431PIT)» 
+
+[bahaiprayers.net 13116](https://bahaiprayers.net/Book/Single/26/13116)
+
 
 ----
 
@@ -1006,7 +1252,10 @@ AB00431PIT «[Papiamentu](../../pap/prayers/#AB00431PIT)» «[Esperanto](../../e
 
 -- Abdu'l-Bahá
 
-bpn13117 
+Prayer bpn13117 in Slovensky (bpn13117) 
+
+[bahaiprayers.net 13117](https://bahaiprayers.net/Book/Single/26/13117)
+
 
 ----
 
@@ -1016,7 +1265,10 @@ bpn13117
 
 -- Abdu'l-Bahá
 
-bpn13118 
+Prayer bpn13118 in Slovensky (bpn13118) 
+
+[bahaiprayers.net 13118](https://bahaiprayers.net/Book/Single/26/13118)
+
 
 ----
 
@@ -1030,7 +1282,10 @@ bpn13118
 
 -- Bahá'u'lláh
 
-bpn13240 
+Prayer bpn13240 in Slovensky (bpn13240) 
+
+[bahaiprayers.net 13240](https://bahaiprayers.net/Book/Single/26/13240)
+
 
 ----
 
@@ -1044,7 +1299,10 @@ bpn13240
 
 -- Bahá'u'lláh
 
-bpn13234 
+Prayer bpn13234 in Slovensky (bpn13234) 
+
+[bahaiprayers.net 13234](https://bahaiprayers.net/Book/Single/26/13234)
+
 
 ----
 
@@ -1054,7 +1312,10 @@ bpn13234
 
 -- Bahá'u'lláh
 
-bpn13235 
+Prayer bpn13235 in Slovensky (bpn13235) 
+
+[bahaiprayers.net 13235](https://bahaiprayers.net/Book/Single/26/13235)
+
 
 ----
 
@@ -1064,7 +1325,10 @@ bpn13235
 
 -- Bahá'u'lláh
 
-bpn13236 
+Prayer bpn13236 in Slovensky (bpn13236) 
+
+[bahaiprayers.net 13236](https://bahaiprayers.net/Book/Single/26/13236)
+
 
 ----
 
@@ -1074,7 +1338,10 @@ bpn13236
 
 -- Bahá'u'lláh
 
-bpn13237 
+Prayer bpn13237 in Slovensky (bpn13237) 
+
+[bahaiprayers.net 13237](https://bahaiprayers.net/Book/Single/26/13237)
+
 
 ----
 
@@ -1084,7 +1351,10 @@ bpn13237
 
 -- Bahá'u'lláh
 
-bpn13238 
+Prayer bpn13238 in Slovensky (bpn13238) 
+
+[bahaiprayers.net 13238](https://bahaiprayers.net/Book/Single/26/13238)
+
 
 ----
 
@@ -1094,7 +1364,10 @@ bpn13238
 
 -- Bahá'u'lláh
 
-bpn13239 
+Prayer bpn13239 in Slovensky (bpn13239) 
+
+[bahaiprayers.net 13239](https://bahaiprayers.net/Book/Single/26/13239)
+
 
 ----
 
@@ -1108,7 +1381,10 @@ bpn13239
 
 -- Bahá'u'lláh
 
-bpn13244 
+Prayer bpn13244 in Slovensky (bpn13244) 
+
+[bahaiprayers.net 13244](https://bahaiprayers.net/Book/Single/26/13244)
+
 
 ----
 
@@ -1118,7 +1394,10 @@ bpn13244
 
 -- Bahá'u'lláh
 
-bpn13245 
+Prayer bpn13245 in Slovensky (bpn13245) 
+
+[bahaiprayers.net 13245](https://bahaiprayers.net/Book/Single/26/13245)
+
 
 ----
 
@@ -1128,7 +1407,10 @@ bpn13245
 
 -- Bahá'u'lláh
 
-bpn13246 
+Prayer bpn13246 in Slovensky (bpn13246) 
+
+[bahaiprayers.net 13246](https://bahaiprayers.net/Book/Single/26/13246)
+
 
 ----
 
@@ -1142,7 +1424,10 @@ bpn13246
 
 -- Báb
 
-bpn13157 
+Prayer bpn13157 in Slovensky (bpn13157) 
+
+[bahaiprayers.net 13157](https://bahaiprayers.net/Book/Single/26/13157)
+
 
 ----
 
@@ -1156,7 +1441,10 @@ bpn13157
 
 -- Báb
 
-bpn13158 
+Prayer bpn13158 in Slovensky (bpn13158) 
+
+[bahaiprayers.net 13158](https://bahaiprayers.net/Book/Single/26/13158)
+
 
 ----
 
@@ -1166,7 +1454,10 @@ bpn13158
 
 -- Abdu'l-Bahá
 
-bpn13159 
+Prayer bpn13159 in Slovensky (bpn13159) 
+
+[bahaiprayers.net 13159](https://bahaiprayers.net/Book/Single/26/13159)
+
 
 ----
 
@@ -1180,7 +1471,10 @@ bpn13159
 
 -- Bahá'u'lláh
 
-bpn13200 
+Prayer bpn13200 in Slovensky (bpn13200) 
+
+[bahaiprayers.net 13200](https://bahaiprayers.net/Book/Single/26/13200)
+
 
 ----
 
@@ -1190,7 +1484,10 @@ bpn13200
 
 -- Bahá'u'lláh
 
-BH00009SHE «[Esperanto](../../eo/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» 
+Prayer BH00009SHE in Slovensky (BH00009SHE) «[Esperanto](../../eo/prayers/#BH00009SHE)» «[Frysk](../../fy/prayers/#BH00009SHE)» «[English](../../en/prayers/#BH00009SHE)» 
+
+[bahaiprayers.net 13201](https://bahaiprayers.net/Book/Single/26/13201)
+
 
 ----
 
@@ -1200,7 +1497,10 @@ BH00009SHE «[Esperanto](../../eo/prayers/#BH00009SHE)» «[English](../../en/pr
 
 -- Bahá'u'lláh
 
-bpn13202 
+Prayer bpn13202 in Slovensky (bpn13202) 
+
+[bahaiprayers.net 13202](https://bahaiprayers.net/Book/Single/26/13202)
+
 
 ----
 
@@ -1210,7 +1510,10 @@ bpn13202
 
 -- Bahá'u'lláh
 
-bpn13203 
+Prayer bpn13203 in Slovensky (bpn13203) 
+
+[bahaiprayers.net 13203](https://bahaiprayers.net/Book/Single/26/13203)
+
 
 ----
 
@@ -1224,7 +1527,10 @@ bpn13203
 
 -- Bahá'u'lláh
 
-bpn13221 
+Prayer bpn13221 in Slovensky (bpn13221) 
+
+[bahaiprayers.net 13221](https://bahaiprayers.net/Book/Single/26/13221)
+
 
 ----
 
@@ -1234,7 +1540,10 @@ bpn13221
 
 -- Bahá'u'lláh
 
-bpn13222 
+Prayer bpn13222 in Slovensky (bpn13222) 
+
+[bahaiprayers.net 13222](https://bahaiprayers.net/Book/Single/26/13222)
+
 
 ----
 
@@ -1244,7 +1553,10 @@ bpn13222
 
 -- Bahá'u'lláh
 
-bpn13223 
+Prayer bpn13223 in Slovensky (bpn13223) 
+
+[bahaiprayers.net 13223](https://bahaiprayers.net/Book/Single/26/13223)
+
 
 ----
 
@@ -1254,7 +1566,10 @@ bpn13223
 
 -- Bahá'u'lláh
 
-bpn13224 
+Prayer bpn13224 in Slovensky (bpn13224) 
+
+[bahaiprayers.net 13224](https://bahaiprayers.net/Book/Single/26/13224)
+
 
 ----
 
@@ -1264,7 +1579,10 @@ bpn13224
 
 -- Bahá'u'lláh
 
-bpn13225 
+Prayer bpn13225 in Slovensky (bpn13225) 
+
+[bahaiprayers.net 13225](https://bahaiprayers.net/Book/Single/26/13225)
+
 
 ----
 
@@ -1274,7 +1592,10 @@ bpn13225
 
 -- Báb
 
-bpn13226 
+Prayer bpn13226 in Slovensky (bpn13226) 
+
+[bahaiprayers.net 13226](https://bahaiprayers.net/Book/Single/26/13226)
+
 
 ----
 
@@ -1284,7 +1605,10 @@ bpn13226
 
 -- Báb
 
-bpn13227 
+Prayer bpn13227 in Slovensky (bpn13227) 
+
+[bahaiprayers.net 13227](https://bahaiprayers.net/Book/Single/26/13227)
+
 
 ----
 
@@ -1294,7 +1618,10 @@ bpn13227
 
 -- Báb
 
-bpn13228 
+Prayer bpn13228 in Slovensky (bpn13228) 
+
+[bahaiprayers.net 13228](https://bahaiprayers.net/Book/Single/26/13228)
+
 
 ----
 
@@ -1304,7 +1631,10 @@ bpn13228
 
 -- Abdu'l-Bahá
 
-bpn9993 
+Prayer bpn9993 in Slovensky (bpn9993) 
+
+[bahaiprayers.net 9993](https://bahaiprayers.net/Book/Single/26/9993)
+
 
 ----
 
@@ -1318,7 +1648,10 @@ bpn9993
 
 -- Abdu'l-Bahá
 
-bpn13183 
+Prayer bpn13183 in Slovensky (bpn13183) 
+
+[bahaiprayers.net 13183](https://bahaiprayers.net/Book/Single/26/13183)
+
 
 ----
 
@@ -1332,7 +1665,10 @@ bpn13183
 
 -- Bahá'u'lláh
 
-bpn9989 
+Prayer bpn9989 in Slovensky (bpn9989) 
+
+[bahaiprayers.net 9989](https://bahaiprayers.net/Book/Single/26/9989)
+
 
 ----
 
@@ -1346,7 +1682,10 @@ bpn9989
 
 -- Bahá'u'lláh
 
-bpn13176 
+Prayer bpn13176 in Slovensky (bpn13176) 
+
+[bahaiprayers.net 13176](https://bahaiprayers.net/Book/Single/26/13176)
+
 
 ----
 
@@ -1356,7 +1695,10 @@ bpn13176
 
 -- Bahá'u'lláh
 
-bpn13177 
+Prayer bpn13177 in Slovensky (bpn13177) 
+
+[bahaiprayers.net 13177](https://bahaiprayers.net/Book/Single/26/13177)
+
 
 ----
 
@@ -1366,7 +1708,10 @@ bpn13177
 
 -- Bahá'u'lláh
 
-ABU0070GAT «[Español](../../es/prayers/#ABU0070GAT)» «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» 
+Prayer ABU0070GAT in Slovensky (ABU0070GAT) «[Esperanto](../../eo/prayers/#ABU0070GAT)» «[English](../../en/prayers/#ABU0070GAT)» «[Español](../../es/prayers/#ABU0070GAT)» 
+
+[bahaiprayers.net 13178](https://bahaiprayers.net/Book/Single/26/13178)
+
 
 ----
 
@@ -1376,7 +1721,10 @@ ABU0070GAT «[Español](../../es/prayers/#ABU0070GAT)» «[Esperanto](../../eo/p
 
 -- Bahá'u'lláh
 
-bpn13179 
+Prayer bpn13179 in Slovensky (bpn13179) 
+
+[bahaiprayers.net 13179](https://bahaiprayers.net/Book/Single/26/13179)
+
 
 ----
 
@@ -1386,7 +1734,10 @@ bpn13179
 
 -- Bahá'u'lláh
 
-bpn13180 
+Prayer bpn13180 in Slovensky (bpn13180) 
+
+[bahaiprayers.net 13180](https://bahaiprayers.net/Book/Single/26/13180)
+
 
 ----
 
@@ -1396,7 +1747,10 @@ bpn13180
 
 -- Bahá'u'lláh
 
-bpn13181 
+Prayer bpn13181 in Slovensky (bpn13181) 
+
+[bahaiprayers.net 13181](https://bahaiprayers.net/Book/Single/26/13181)
+
 
 ----
 
@@ -1406,7 +1760,10 @@ bpn13181
 
 -- Bahá'u'lláh
 
-bpn13182 
+Prayer bpn13182 in Slovensky (bpn13182) 
+
+[bahaiprayers.net 13182](https://bahaiprayers.net/Book/Single/26/13182)
+
 
 ----
 
@@ -1420,7 +1777,10 @@ bpn13182
 
 -- Bahá'u'lláh
 
-BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+Tablet of Ahmad in Slovensky (BH02022) «[Esperanto](../../eo/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[العربية](../../ar/prayers/#BH02022)» 
+
+[bahaiprayers.net 13252](https://bahaiprayers.net/Book/Single/26/13252)
+
 
 ----
 
@@ -1434,7 +1794,10 @@ BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/pr
 
 -- Abdu'l-Bahá
 
-bpn13253 
+Prayer bpn13253 in Slovensky (bpn13253) 
+
+[bahaiprayers.net 13253](https://bahaiprayers.net/Book/Single/26/13253)
+
 
 ----
 
@@ -1444,7 +1807,10 @@ bpn13253
 
 -- Abdu'l-Bahá
 
-bpn13254 
+Prayer bpn13254 in Slovensky (bpn13254) 
+
+[bahaiprayers.net 13254](https://bahaiprayers.net/Book/Single/26/13254)
+
 
 ----
 
@@ -1454,7 +1820,10 @@ bpn13254
 
 -- Abdu'l-Bahá
 
-bpn13255 
+Prayer bpn13255 in Slovensky (bpn13255) 
+
+[bahaiprayers.net 13255](https://bahaiprayers.net/Book/Single/26/13255)
+
 
 ----
 
@@ -1464,7 +1833,10 @@ bpn13255
 
 -- Abdu'l-Bahá
 
-bpn13256 
+Prayer bpn13256 in Slovensky (bpn13256) 
+
+[bahaiprayers.net 13256](https://bahaiprayers.net/Book/Single/26/13256)
+
 
 ----
 
@@ -1474,7 +1846,10 @@ bpn13256
 
 -- Abdu'l-Bahá
 
-bpn13257 
+Prayer bpn13257 in Slovensky (bpn13257) 
+
+[bahaiprayers.net 13257](https://bahaiprayers.net/Book/Single/26/13257)
+
 
 ----
 
@@ -1484,7 +1859,10 @@ bpn13257
 
 -- Abdu'l-Bahá
 
-bpn13258 
+Prayer bpn13258 in Slovensky (bpn13258) 
+
+[bahaiprayers.net 13258](https://bahaiprayers.net/Book/Single/26/13258)
+
 
 ----
 
@@ -1498,7 +1876,10 @@ bpn13258
 
 -- Bahá'u'lláh
 
-BH08013 «[Esperanto](../../eo/prayers/#BH08013)» «[English](../../en/prayers/#BH08013)» 
+Prayer BH08013 in Slovensky (BH08013) «[Esperanto](../../eo/prayers/#BH08013)» «[English](../../en/prayers/#BH08013)» 
+
+[bahaiprayers.net 13184](https://bahaiprayers.net/Book/Single/26/13184)
+
 
 ----
 
@@ -1508,7 +1889,10 @@ BH08013 «[Esperanto](../../eo/prayers/#BH08013)» «[English](../../en/prayers/
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» 
+Thy Name is my Healing in Slovensky (BH01313NAM) «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» 
+
+[bahaiprayers.net 13185](https://bahaiprayers.net/Book/Single/26/13185)
+
 
 ----
 
@@ -1518,7 +1902,10 @@ BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Deutsch](../../de/pra
 
 -- Bahá'u'lláh
 
-bpn13186 
+Prayer bpn13186 in Slovensky (bpn13186) 
+
+[bahaiprayers.net 13186](https://bahaiprayers.net/Book/Single/26/13186)
+
 
 ----
 
@@ -1528,7 +1915,10 @@ bpn13186
 
 -- Bahá'u'lláh
 
-bpn13189 
+Prayer bpn13189 in Slovensky (bpn13189) 
+
+[bahaiprayers.net 13189](https://bahaiprayers.net/Book/Single/26/13189)
+
 
 ----
 
@@ -1542,7 +1932,10 @@ bpn13189
 
 -- Abdu'l-Bahá
 
-bpn9995 
+Prayer bpn9995 in Slovensky (bpn9995) 
+
+[bahaiprayers.net 9995](https://bahaiprayers.net/Book/Single/26/9995)
+
 
 ----
 
@@ -1556,7 +1949,10 @@ bpn9995
 
 -- Bahá'u'lláh
 
-bpn13154 
+Prayer bpn13154 in Slovensky (bpn13154) 
+
+[bahaiprayers.net 13154](https://bahaiprayers.net/Book/Single/26/13154)
+
 
 ----
 
@@ -1566,7 +1962,10 @@ bpn13154
 
 -- Bahá'u'lláh
 
-bpn13155 
+Prayer bpn13155 in Slovensky (bpn13155) 
+
+[bahaiprayers.net 13155](https://bahaiprayers.net/Book/Single/26/13155)
+
 
 ----
 
@@ -1580,7 +1979,10 @@ bpn13155
 
 -- Bahá'u'lláh
 
-bpn13215 
+Prayer bpn13215 in Slovensky (bpn13215) 
+
+[bahaiprayers.net 13215](https://bahaiprayers.net/Book/Single/26/13215)
+
 
 ----
 
@@ -1590,7 +1992,10 @@ bpn13215
 
 -- Bahá'u'lláh
 
-bpn13216 
+Prayer bpn13216 in Slovensky (bpn13216) 
+
+[bahaiprayers.net 13216](https://bahaiprayers.net/Book/Single/26/13216)
+
 
 ----
 
@@ -1600,7 +2005,10 @@ bpn13216
 
 -- Bahá'u'lláh
 
-bpn13217 
+Prayer bpn13217 in Slovensky (bpn13217) 
+
+[bahaiprayers.net 13217](https://bahaiprayers.net/Book/Single/26/13217)
+
 
 ----
 
@@ -1610,7 +2018,10 @@ bpn13217
 
 -- Bahá'u'lláh
 
-bpn13218 
+Prayer bpn13218 in Slovensky (bpn13218) 
+
+[bahaiprayers.net 13218](https://bahaiprayers.net/Book/Single/26/13218)
+
 
 ----
 
@@ -1620,7 +2031,10 @@ bpn13218
 
 -- Bahá'u'lláh
 
-bpn13219 
+Prayer bpn13219 in Slovensky (bpn13219) 
+
+[bahaiprayers.net 13219](https://bahaiprayers.net/Book/Single/26/13219)
+
 
 ----
 
@@ -1630,7 +2044,10 @@ bpn13219
 
 -- Abdu'l-Bahá
 
-bpn13220 
+Prayer bpn13220 in Slovensky (bpn13220) 
+
+[bahaiprayers.net 13220](https://bahaiprayers.net/Book/Single/26/13220)
+
 
 ----
 
@@ -1644,7 +2061,10 @@ bpn13220
 
 -- Báb
 
-bpn13229 
+Prayer bpn13229 in Slovensky (bpn13229) 
+
+[bahaiprayers.net 13229](https://bahaiprayers.net/Book/Single/26/13229)
+
 
 ----
 
@@ -1658,7 +2078,10 @@ bpn13229
 
 -- Bahá'u'lláh
 
-bpn13259 
+Prayer bpn13259 in Slovensky (bpn13259) 
+
+[bahaiprayers.net 13259](https://bahaiprayers.net/Book/Single/26/13259)
+
 
 ----
 
@@ -1668,7 +2091,10 @@ bpn13259
 
 -- Bahá'u'lláh
 
-bpn13261 
+Prayer bpn13261 in Slovensky (bpn13261) 
+
+[bahaiprayers.net 13261](https://bahaiprayers.net/Book/Single/26/13261)
+
 
 ----
 
@@ -1678,7 +2104,10 @@ bpn13261
 
 -- Abdu'l-Bahá
 
-BH01026 «[English](../../en/prayers/#BH01026)» «[Nederlands](../../nl/prayers/#BH01026)» 
+Tablet of the Holy Mariner in Slovensky (BH01026) «[Nederlands](../../nl/prayers/#BH01026)» «[English](../../en/prayers/#BH01026)» 
+
+[bahaiprayers.net 13260](https://bahaiprayers.net/Book/Single/26/13260)
+
 
 ----
 
@@ -1688,7 +2117,10 @@ BH01026 «[English](../../en/prayers/#BH01026)» «[Nederlands](../../nl/prayers
 
 -- Abdu'l-Bahá
 
-bpn13262 
+Prayer bpn13262 in Slovensky (bpn13262) 
+
+[bahaiprayers.net 13262](https://bahaiprayers.net/Book/Single/26/13262)
+
 
 ----
 
@@ -1702,7 +2134,10 @@ bpn13262
 
 -- Bahá'u'lláh
 
-bpn13134 
+Prayer bpn13134 in Slovensky (bpn13134) 
+
+[bahaiprayers.net 13134](https://bahaiprayers.net/Book/Single/26/13134)
+
 
 ----
 
@@ -1712,7 +2147,10 @@ bpn13134
 
 -- Bahá'u'lláh
 
-bpn13135 
+Prayer bpn13135 in Slovensky (bpn13135) 
+
+[bahaiprayers.net 13135](https://bahaiprayers.net/Book/Single/26/13135)
+
 
 ----
 
@@ -1722,7 +2160,10 @@ bpn13135
 
 -- Bahá'u'lláh
 
-bpn13136 
+Prayer bpn13136 in Slovensky (bpn13136) 
+
+[bahaiprayers.net 13136](https://bahaiprayers.net/Book/Single/26/13136)
+
 
 ----
 
@@ -1732,7 +2173,10 @@ bpn13136
 
 -- Abdu'l-Bahá
 
-bpn13137 
+Prayer bpn13137 in Slovensky (bpn13137) 
+
+[bahaiprayers.net 13137](https://bahaiprayers.net/Book/Single/26/13137)
+
 
 ----
 
@@ -1742,7 +2186,10 @@ bpn13137
 
 -- Abdu'l-Bahá
 
-bpn13138 
+Prayer bpn13138 in Slovensky (bpn13138) 
+
+[bahaiprayers.net 13138](https://bahaiprayers.net/Book/Single/26/13138)
+
 
 ----
 
@@ -1752,7 +2199,10 @@ bpn13138
 
 -- Abdu'l-Bahá
 
-bpn13139 
+Prayer bpn13139 in Slovensky (bpn13139) 
+
+[bahaiprayers.net 13139](https://bahaiprayers.net/Book/Single/26/13139)
+
 
 ----
 
@@ -1766,7 +2216,10 @@ bpn13139
 
 -- Bahá'u'lláh
 
-bpn13190 
+Prayer bpn13190 in Slovensky (bpn13190) 
+
+[bahaiprayers.net 13190](https://bahaiprayers.net/Book/Single/26/13190)
+
 
 ----
 
@@ -1776,7 +2229,10 @@ bpn13190
 
 -- Abdu'l-Bahá
 
-bpn9996 
+Prayer bpn9996 in Slovensky (bpn9996) 
+
+[bahaiprayers.net 9996](https://bahaiprayers.net/Book/Single/26/9996)
+
 
 ----
 
@@ -1786,7 +2242,10 @@ bpn9996
 
 -- Abdu'l-Bahá
 
-bpn13191 
+Prayer bpn13191 in Slovensky (bpn13191) 
+
+[bahaiprayers.net 13191](https://bahaiprayers.net/Book/Single/26/13191)
+
 
 ----
 
@@ -1796,7 +2255,10 @@ bpn13191
 
 -- Abdu'l-Bahá
 
-bpn13192 
+Prayer bpn13192 in Slovensky (bpn13192) 
+
+[bahaiprayers.net 13192](https://bahaiprayers.net/Book/Single/26/13192)
+
 
 ----
 
@@ -1806,7 +2268,10 @@ bpn13192
 
 -- Abdu'l-Bahá
 
-bpn13193 
+Prayer bpn13193 in Slovensky (bpn13193) 
+
+[bahaiprayers.net 13193](https://bahaiprayers.net/Book/Single/26/13193)
+
 
 ----
 
@@ -1816,7 +2281,10 @@ bpn13193
 
 -- Abdu'l-Bahá
 
-bpn13194 
+Prayer bpn13194 in Slovensky (bpn13194) 
+
+[bahaiprayers.net 13194](https://bahaiprayers.net/Book/Single/26/13194)
+
 
 ----
 
@@ -1830,7 +2298,10 @@ bpn13194
 
 -- Bahá'u'lláh
 
-bpn13187 
+Prayer bpn13187 in Slovensky (bpn13187) 
+
+[bahaiprayers.net 13187](https://bahaiprayers.net/Book/Single/26/13187)
+
 
 ----
 
@@ -1840,7 +2311,10 @@ bpn13187
 
 -- Abdu'l-Bahá
 
-AB07850 «[English](../../en/prayers/#AB07850)» 
+For Women - O Forgiver of sins in Slovensky (AB07850) «[English](../../en/prayers/#AB07850)» 
+
+[bahaiprayers.net 13140](https://bahaiprayers.net/Book/Single/26/13140)
+
 
 ----
 
@@ -1850,7 +2324,10 @@ AB07850 «[English](../../en/prayers/#AB07850)»
 
 -- Abdu'l-Bahá
 
-bpn13141 
+Prayer bpn13141 in Slovensky (bpn13141) 
+
+[bahaiprayers.net 13141](https://bahaiprayers.net/Book/Single/26/13141)
+
 
 ----
 
@@ -1860,7 +2337,10 @@ bpn13141
 
 -- Abdu'l-Bahá
 
-bpn13142 
+Prayer bpn13142 in Slovensky (bpn13142) 
+
+[bahaiprayers.net 13142](https://bahaiprayers.net/Book/Single/26/13142)
+
 
 ----
 

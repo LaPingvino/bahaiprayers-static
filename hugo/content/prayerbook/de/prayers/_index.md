@@ -100,7 +100,10 @@ tags = ['lang=de', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn518 
+Prayer bpn518 in Deutsch (bpn518) 
+
+[bahaiprayers.net 518](https://bahaiprayers.net/Book/Single/3/518)
+
 
 ----
 
@@ -110,7 +113,10 @@ bpn518
 
 -- Bahá'u'lláh
 
-bpn517 
+Prayer bpn517 in Deutsch (bpn517) 
+
+[bahaiprayers.net 517](https://bahaiprayers.net/Book/Single/3/517)
+
 
 ----
 
@@ -120,7 +126,10 @@ bpn517
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../../it/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» «[Esperanto](../../eo/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» 
+Midnight Prayer in Deutsch (AB06528MID) «[Esperanto](../../eo/prayers/#AB06528MID)» «[Italiano](../../it/prayers/#AB06528MID)» «[English](../../en/prayers/#AB06528MID)» «[Español](../../es/prayers/#AB06528MID)» 
+
+[bahaiprayers.net 440](https://bahaiprayers.net/Book/Single/3/440)
+
 
 ----
 
@@ -134,7 +143,10 @@ AB06528MID «[Italiano](../../it/prayers/#AB06528MID)» «[Español](../../es/pr
 
 -- Bahá'u'lláh
 
-bpn519 
+Prayer bpn519 in Deutsch (bpn519) 
+
+[bahaiprayers.net 519](https://bahaiprayers.net/Book/Single/3/519)
+
 
 ----
 
@@ -144,7 +156,10 @@ bpn519
 
 -- Bahá'u'lláh
 
-bpn520 
+Prayer bpn520 in Deutsch (bpn520) 
+
+[bahaiprayers.net 520](https://bahaiprayers.net/Book/Single/3/520)
+
 
 ----
 
@@ -158,7 +173,10 @@ bpn520
 
 -- Bahá'u'lláh
 
-bpn522 
+Prayer bpn522 in Deutsch (bpn522) 
+
+[bahaiprayers.net 522](https://bahaiprayers.net/Book/Single/3/522)
+
 
 ----
 
@@ -168,7 +186,10 @@ bpn522
 
 -- Bahá'u'lláh
 
-bpn523 
+Prayer bpn523 in Deutsch (bpn523) 
+
+[bahaiprayers.net 523](https://bahaiprayers.net/Book/Single/3/523)
+
 
 ----
 
@@ -178,7 +199,10 @@ bpn523
 
 -- Bahá'u'lláh
 
-bpn524 
+Prayer bpn524 in Deutsch (bpn524) 
+
+[bahaiprayers.net 524](https://bahaiprayers.net/Book/Single/3/524)
+
 
 ----
 
@@ -188,7 +212,10 @@ bpn524
 
 -- Bahá'u'lláh
 
-bpn525 
+Prayer bpn525 in Deutsch (bpn525) 
+
+[bahaiprayers.net 525](https://bahaiprayers.net/Book/Single/3/525)
+
 
 ----
 
@@ -198,7 +225,10 @@ bpn525
 
 -- Bahá'u'lláh
 
-bpn527 
+Prayer bpn527 in Deutsch (bpn527) 
+
+[bahaiprayers.net 527](https://bahaiprayers.net/Book/Single/3/527)
+
 
 ----
 
@@ -208,7 +238,10 @@ bpn527
 
 -- Bahá'u'lláh
 
-bpn521 
+Prayer bpn521 in Deutsch (bpn521) 
+
+[bahaiprayers.net 521](https://bahaiprayers.net/Book/Single/3/521)
+
 
 ----
 
@@ -218,7 +251,10 @@ bpn521
 
 -- Bahá'u'lláh
 
-bpn526 
+Prayer bpn526 in Deutsch (bpn526) 
+
+[bahaiprayers.net 526](https://bahaiprayers.net/Book/Single/3/526)
+
 
 ----
 
@@ -228,7 +264,10 @@ bpn526
 
 -- Báb
 
-bpn639 
+Prayer bpn639 in Deutsch (bpn639) 
+
+[bahaiprayers.net 639](https://bahaiprayers.net/Book/Single/3/639)
+
 
 ----
 
@@ -238,7 +277,10 @@ bpn639
 
 -- Báb
 
-bpn638 
+Prayer bpn638 in Deutsch (bpn638) 
+
+[bahaiprayers.net 638](https://bahaiprayers.net/Book/Single/3/638)
+
 
 ----
 
@@ -252,7 +294,10 @@ bpn638
 
 -- Bahá'u'lláh
 
-bpn670 
+Prayer bpn670 in Deutsch (bpn670) 
+
+[bahaiprayers.net 670](https://bahaiprayers.net/Book/Single/3/670)
+
 
 ----
 
@@ -266,7 +311,10 @@ bpn670
 
 -- Bahá'u'lláh
 
-bpn528 
+Prayer bpn528 in Deutsch (bpn528) 
+
+[bahaiprayers.net 528](https://bahaiprayers.net/Book/Single/3/528)
+
 
 ----
 
@@ -276,7 +324,10 @@ bpn528
 
 -- Bahá'u'lláh
 
-bpn529 
+Prayer bpn529 in Deutsch (bpn529) 
+
+[bahaiprayers.net 529](https://bahaiprayers.net/Book/Single/3/529)
+
 
 ----
 
@@ -286,7 +337,10 @@ bpn529
 
 -- Bahá'u'lláh
 
-bpn530 
+Prayer bpn530 in Deutsch (bpn530) 
+
+[bahaiprayers.net 530](https://bahaiprayers.net/Book/Single/3/530)
+
 
 ----
 
@@ -296,7 +350,10 @@ bpn530
 
 -- Bahá'u'lláh
 
-bpn531 
+Prayer bpn531 in Deutsch (bpn531) 
+
+[bahaiprayers.net 531](https://bahaiprayers.net/Book/Single/3/531)
+
 
 ----
 
@@ -306,7 +363,10 @@ bpn531
 
 -- Bahá'u'lláh
 
-bpn532 
+Prayer bpn532 in Deutsch (bpn532) 
+
+[bahaiprayers.net 532](https://bahaiprayers.net/Book/Single/3/532)
+
 
 ----
 
@@ -316,7 +376,10 @@ bpn532
 
 -- Bahá'u'lláh
 
-bpn533 
+Prayer bpn533 in Deutsch (bpn533) 
+
+[bahaiprayers.net 533](https://bahaiprayers.net/Book/Single/3/533)
+
 
 ----
 
@@ -326,7 +389,10 @@ bpn533
 
 -- Bahá'u'lláh
 
-bpn534 
+Prayer bpn534 in Deutsch (bpn534) 
+
+[bahaiprayers.net 534](https://bahaiprayers.net/Book/Single/3/534)
+
 
 ----
 
@@ -336,7 +402,10 @@ bpn534
 
 -- Bahá'u'lláh
 
-bpn535 
+Prayer bpn535 in Deutsch (bpn535) 
+
+[bahaiprayers.net 535](https://bahaiprayers.net/Book/Single/3/535)
+
 
 ----
 
@@ -346,7 +415,10 @@ bpn535
 
 -- Bahá'u'lláh
 
-bpn536 
+Prayer bpn536 in Deutsch (bpn536) 
+
+[bahaiprayers.net 536](https://bahaiprayers.net/Book/Single/3/536)
+
 
 ----
 
@@ -356,7 +428,10 @@ bpn536
 
 -- Bahá'u'lláh
 
-bpn537 
+Prayer bpn537 in Deutsch (bpn537) 
+
+[bahaiprayers.net 537](https://bahaiprayers.net/Book/Single/3/537)
+
 
 ----
 
@@ -366,7 +441,10 @@ bpn537
 
 -- Báb
 
-bpn641 
+Prayer bpn641 in Deutsch (bpn641) 
+
+[bahaiprayers.net 641](https://bahaiprayers.net/Book/Single/3/641)
+
 
 ----
 
@@ -376,7 +454,10 @@ bpn641
 
 -- Báb
 
-bpn642 
+Prayer bpn642 in Deutsch (bpn642) 
+
+[bahaiprayers.net 642](https://bahaiprayers.net/Book/Single/3/642)
+
 
 ----
 
@@ -386,7 +467,10 @@ bpn642
 
 -- Báb
 
-bpn640 
+Prayer bpn640 in Deutsch (bpn640) 
+
+[bahaiprayers.net 640](https://bahaiprayers.net/Book/Single/3/640)
+
 
 ----
 
@@ -396,7 +480,10 @@ bpn640
 
 -- Abdu'l-Bahá
 
-bpn441 
+Prayer bpn441 in Deutsch (bpn441) 
+
+[bahaiprayers.net 441](https://bahaiprayers.net/Book/Single/3/441)
+
 
 ----
 
@@ -406,7 +493,10 @@ bpn441
 
 -- Abdu'l-Bahá
 
-bpn442 
+Prayer bpn442 in Deutsch (bpn442) 
+
+[bahaiprayers.net 442](https://bahaiprayers.net/Book/Single/3/442)
+
 
 ----
 
@@ -416,7 +506,10 @@ bpn442
 
 -- Abdu'l-Bahá
 
-bpn443 
+Prayer bpn443 in Deutsch (bpn443) 
+
+[bahaiprayers.net 443](https://bahaiprayers.net/Book/Single/3/443)
+
 
 ----
 
@@ -426,7 +519,10 @@ bpn443
 
 -- Abdu'l-Bahá
 
-bpn444 
+Prayer bpn444 in Deutsch (bpn444) 
+
+[bahaiprayers.net 444](https://bahaiprayers.net/Book/Single/3/444)
+
 
 ----
 
@@ -436,7 +532,10 @@ bpn444
 
 -- Abdu'l-Bahá
 
-bpn445 
+Prayer bpn445 in Deutsch (bpn445) 
+
+[bahaiprayers.net 445](https://bahaiprayers.net/Book/Single/3/445)
+
 
 ----
 
@@ -446,7 +545,10 @@ bpn445
 
 -- Abdu'l-Bahá
 
-bpn446 
+Prayer bpn446 in Deutsch (bpn446) 
+
+[bahaiprayers.net 446](https://bahaiprayers.net/Book/Single/3/446)
+
 
 ----
 
@@ -460,7 +562,10 @@ bpn446
 
 -- Bahá'u'lláh
 
-bpn675 
+Prayer bpn675 in Deutsch (bpn675) 
+
+[bahaiprayers.net 675](https://bahaiprayers.net/Book/Single/3/675)
+
 
 ----
 
@@ -474,7 +579,10 @@ bpn675
 
 -- Bahá'u'lláh
 
-bpn663 
+Prayer bpn663 in Deutsch (bpn663) 
+
+[bahaiprayers.net 663](https://bahaiprayers.net/Book/Single/3/663)
+
 
 ----
 
@@ -488,7 +596,10 @@ bpn663
 
 -- Bahá'u'lláh
 
-bpn665 
+Prayer bpn665 in Deutsch (bpn665) 
+
+[bahaiprayers.net 665](https://bahaiprayers.net/Book/Single/3/665)
+
 
 ----
 
@@ -502,7 +613,10 @@ bpn665
 
 -- Bahá'u'lláh
 
-bpn664 
+Prayer bpn664 in Deutsch (bpn664) 
+
+[bahaiprayers.net 664](https://bahaiprayers.net/Book/Single/3/664)
+
 
 ----
 
@@ -516,7 +630,10 @@ bpn664
 
 -- Bahá'u'lláh
 
-bpn538 
+Prayer bpn538 in Deutsch (bpn538) 
+
+[bahaiprayers.net 538](https://bahaiprayers.net/Book/Single/3/538)
+
 
 ----
 
@@ -526,7 +643,10 @@ bpn538
 
 -- Bahá'u'lláh
 
-bpn539 
+Prayer bpn539 in Deutsch (bpn539) 
+
+[bahaiprayers.net 539](https://bahaiprayers.net/Book/Single/3/539)
+
 
 ----
 
@@ -536,7 +656,10 @@ bpn539
 
 -- Bahá'u'lláh
 
-bpn540 
+Prayer bpn540 in Deutsch (bpn540) 
+
+[bahaiprayers.net 540](https://bahaiprayers.net/Book/Single/3/540)
+
 
 ----
 
@@ -546,7 +669,10 @@ bpn540
 
 -- Bahá'u'lláh
 
-bpn541 
+Prayer bpn541 in Deutsch (bpn541) 
+
+[bahaiprayers.net 541](https://bahaiprayers.net/Book/Single/3/541)
+
 
 ----
 
@@ -556,7 +682,10 @@ bpn541
 
 -- Báb
 
-bpn643 
+Prayer bpn643 in Deutsch (bpn643) 
+
+[bahaiprayers.net 643](https://bahaiprayers.net/Book/Single/3/643)
+
 
 ----
 
@@ -570,7 +699,10 @@ bpn643
 
 -- Bahá'u'lláh
 
-bpn542 
+Prayer bpn542 in Deutsch (bpn542) 
+
+[bahaiprayers.net 542](https://bahaiprayers.net/Book/Single/3/542)
+
 
 ----
 
@@ -580,7 +712,10 @@ bpn542
 
 -- Bahá'u'lláh
 
-bpn543 
+Prayer bpn543 in Deutsch (bpn543) 
+
+[bahaiprayers.net 543](https://bahaiprayers.net/Book/Single/3/543)
+
 
 ----
 
@@ -590,7 +725,10 @@ bpn543
 
 -- Abdu'l-Bahá
 
-bpn447 
+Prayer bpn447 in Deutsch (bpn447) 
+
+[bahaiprayers.net 447](https://bahaiprayers.net/Book/Single/3/447)
+
 
 ----
 
@@ -600,7 +738,10 @@ bpn447
 
 -- Abdu'l-Bahá
 
-bpn449 
+Prayer bpn449 in Deutsch (bpn449) 
+
+[bahaiprayers.net 449](https://bahaiprayers.net/Book/Single/3/449)
+
 
 ----
 
@@ -610,7 +751,10 @@ bpn449
 
 -- Abdu'l-Bahá
 
-bpn448 
+Prayer bpn448 in Deutsch (bpn448) 
+
+[bahaiprayers.net 448](https://bahaiprayers.net/Book/Single/3/448)
+
 
 ----
 
@@ -624,7 +768,10 @@ bpn448
 
 -- Abdu'l-Bahá
 
-bpn450 
+Prayer bpn450 in Deutsch (bpn450) 
+
+[bahaiprayers.net 450](https://bahaiprayers.net/Book/Single/3/450)
+
 
 ----
 
@@ -634,7 +781,10 @@ bpn450
 
 -- Abdu'l-Bahá
 
-bpn452 
+Prayer bpn452 in Deutsch (bpn452) 
+
+[bahaiprayers.net 452](https://bahaiprayers.net/Book/Single/3/452)
+
 
 ----
 
@@ -644,7 +794,10 @@ bpn452
 
 -- Abdu'l-Bahá
 
-bpn451 
+Prayer bpn451 in Deutsch (bpn451) 
+
+[bahaiprayers.net 451](https://bahaiprayers.net/Book/Single/3/451)
+
 
 ----
 
@@ -658,7 +811,10 @@ bpn451
 
 -- Bahá'u'lláh
 
-bpn678 
+Prayer bpn678 in Deutsch (bpn678) 
+
+[bahaiprayers.net 678](https://bahaiprayers.net/Book/Single/3/678)
+
 
 ----
 
@@ -668,7 +824,10 @@ bpn678
 
 -- Bahá'u'lláh
 
-bpn679 
+Prayer bpn679 in Deutsch (bpn679) 
+
+[bahaiprayers.net 679](https://bahaiprayers.net/Book/Single/3/679)
+
 
 ----
 
@@ -678,7 +837,10 @@ bpn679
 
 -- Bahá'u'lláh
 
-bpn677 
+Prayer bpn677 in Deutsch (bpn677) 
+
+[bahaiprayers.net 677](https://bahaiprayers.net/Book/Single/3/677)
+
 
 ----
 
@@ -688,7 +850,10 @@ bpn677
 
 -- Abdu'l-Bahá
 
-bpn666 
+Prayer bpn666 in Deutsch (bpn666) 
+
+[bahaiprayers.net 666](https://bahaiprayers.net/Book/Single/3/666)
+
 
 ----
 
@@ -702,7 +867,10 @@ bpn666
 
 -- Bahá'u'lláh
 
-bpn544 
+Prayer bpn544 in Deutsch (bpn544) 
+
+[bahaiprayers.net 544](https://bahaiprayers.net/Book/Single/3/544)
+
 
 ----
 
@@ -712,7 +880,10 @@ bpn544
 
 -- Bahá'u'lláh
 
-bpn545 
+Prayer bpn545 in Deutsch (bpn545) 
+
+[bahaiprayers.net 545](https://bahaiprayers.net/Book/Single/3/545)
+
 
 ----
 
@@ -722,7 +893,10 @@ bpn545
 
 -- Báb
 
-bpn644 
+Prayer bpn644 in Deutsch (bpn644) 
+
+[bahaiprayers.net 644](https://bahaiprayers.net/Book/Single/3/644)
+
 
 ----
 
@@ -732,7 +906,10 @@ bpn644
 
 -- Abdu'l-Bahá
 
-bpn453 
+Prayer bpn453 in Deutsch (bpn453) 
+
+[bahaiprayers.net 453](https://bahaiprayers.net/Book/Single/3/453)
+
 
 ----
 
@@ -742,7 +919,10 @@ bpn453
 
 -- Abdu'l-Bahá
 
-bpn454 
+Prayer bpn454 in Deutsch (bpn454) 
+
+[bahaiprayers.net 454](https://bahaiprayers.net/Book/Single/3/454)
+
 
 ----
 
@@ -752,7 +932,10 @@ bpn454
 
 -- Abdu'l-Bahá
 
-AB06211 «[Español](../../es/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» «[Slovensky](../../sk/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» 
+Prayer AB06211 in Deutsch (AB06211) «[Slovensky](../../sk/prayers/#AB06211)» «[English](../../en/prayers/#AB06211)» «[Português (BR)](../../pt/prayers/#AB06211)» «[Español](../../es/prayers/#AB06211)» 
+
+[bahaiprayers.net 455](https://bahaiprayers.net/Book/Single/3/455)
+
 
 ----
 
@@ -762,7 +945,10 @@ AB06211 «[Español](../../es/prayers/#AB06211)» «[Português (BR)](../../pt/p
 
 -- Abdu'l-Bahá
 
-bpn456 
+Prayer bpn456 in Deutsch (bpn456) 
+
+[bahaiprayers.net 456](https://bahaiprayers.net/Book/Single/3/456)
+
 
 ----
 
@@ -776,7 +962,10 @@ bpn456
 
 -- Abdu'l-Bahá
 
-bpn457 
+Prayer bpn457 in Deutsch (bpn457) 
+
+[bahaiprayers.net 457](https://bahaiprayers.net/Book/Single/3/457)
+
 
 ----
 
@@ -790,7 +979,10 @@ bpn457
 
 -- Abdu'l-Bahá
 
-bpn458 
+Prayer bpn458 in Deutsch (bpn458) 
+
+[bahaiprayers.net 458](https://bahaiprayers.net/Book/Single/3/458)
+
 
 ----
 
@@ -804,7 +996,10 @@ bpn458
 
 -- Bahá'u'lláh
 
-bpn546 
+Prayer bpn546 in Deutsch (bpn546) 
+
+[bahaiprayers.net 546](https://bahaiprayers.net/Book/Single/3/546)
+
 
 ----
 
@@ -814,7 +1009,10 @@ bpn546
 
 -- Bahá'u'lláh
 
-bpn547 
+Prayer bpn547 in Deutsch (bpn547) 
+
+[bahaiprayers.net 547](https://bahaiprayers.net/Book/Single/3/547)
+
 
 ----
 
@@ -824,7 +1022,10 @@ bpn547
 
 -- Bahá'u'lláh
 
-bpn548 
+Prayer bpn548 in Deutsch (bpn548) 
+
+[bahaiprayers.net 548](https://bahaiprayers.net/Book/Single/3/548)
+
 
 ----
 
@@ -834,7 +1035,10 @@ bpn548
 
 -- Bahá'u'lláh
 
-bpn549 
+Prayer bpn549 in Deutsch (bpn549) 
+
+[bahaiprayers.net 549](https://bahaiprayers.net/Book/Single/3/549)
+
 
 ----
 
@@ -844,7 +1048,10 @@ bpn549
 
 -- Bahá'u'lláh
 
-bpn550 
+Prayer bpn550 in Deutsch (bpn550) 
+
+[bahaiprayers.net 550](https://bahaiprayers.net/Book/Single/3/550)
+
 
 ----
 
@@ -854,7 +1061,10 @@ bpn550
 
 -- Bahá'u'lláh
 
-bpn551 
+Prayer bpn551 in Deutsch (bpn551) 
+
+[bahaiprayers.net 551](https://bahaiprayers.net/Book/Single/3/551)
+
 
 ----
 
@@ -864,7 +1074,10 @@ bpn551
 
 -- Bahá'u'lláh
 
-bpn552 
+Prayer bpn552 in Deutsch (bpn552) 
+
+[bahaiprayers.net 552](https://bahaiprayers.net/Book/Single/3/552)
+
 
 ----
 
@@ -874,7 +1087,10 @@ bpn552
 
 -- Bahá'u'lláh
 
-bpn553 
+Prayer bpn553 in Deutsch (bpn553) 
+
+[bahaiprayers.net 553](https://bahaiprayers.net/Book/Single/3/553)
+
 
 ----
 
@@ -884,7 +1100,10 @@ bpn553
 
 -- Bahá'u'lláh
 
-bpn554 
+Prayer bpn554 in Deutsch (bpn554) 
+
+[bahaiprayers.net 554](https://bahaiprayers.net/Book/Single/3/554)
+
 
 ----
 
@@ -894,7 +1113,10 @@ bpn554
 
 -- Bahá'u'lláh
 
-bpn555 
+Prayer bpn555 in Deutsch (bpn555) 
+
+[bahaiprayers.net 555](https://bahaiprayers.net/Book/Single/3/555)
+
 
 ----
 
@@ -904,7 +1126,10 @@ bpn555
 
 -- Bahá'u'lláh
 
-bpn556 
+Prayer bpn556 in Deutsch (bpn556) 
+
+[bahaiprayers.net 556](https://bahaiprayers.net/Book/Single/3/556)
+
 
 ----
 
@@ -914,7 +1139,10 @@ bpn556
 
 -- Báb
 
-bpn645 
+Prayer bpn645 in Deutsch (bpn645) 
+
+[bahaiprayers.net 645](https://bahaiprayers.net/Book/Single/3/645)
+
 
 ----
 
@@ -924,7 +1152,10 @@ bpn645
 
 -- Abdu'l-Bahá
 
-bpn459 
+Prayer bpn459 in Deutsch (bpn459) 
+
+[bahaiprayers.net 459](https://bahaiprayers.net/Book/Single/3/459)
+
 
 ----
 
@@ -934,7 +1165,10 @@ bpn459
 
 -- Abdu'l-Bahá
 
-bpn460 
+Prayer bpn460 in Deutsch (bpn460) 
+
+[bahaiprayers.net 460](https://bahaiprayers.net/Book/Single/3/460)
+
 
 ----
 
@@ -944,7 +1178,10 @@ bpn460
 
 -- Abdu'l-Bahá
 
-bpn461 
+Prayer bpn461 in Deutsch (bpn461) 
+
+[bahaiprayers.net 461](https://bahaiprayers.net/Book/Single/3/461)
+
 
 ----
 
@@ -954,7 +1191,10 @@ bpn461
 
 -- Abdu'l-Bahá
 
-bpn462 
+Prayer bpn462 in Deutsch (bpn462) 
+
+[bahaiprayers.net 462](https://bahaiprayers.net/Book/Single/3/462)
+
 
 ----
 
@@ -964,7 +1204,10 @@ bpn462
 
 -- Abdu'l-Bahá
 
-bpn463 
+Prayer bpn463 in Deutsch (bpn463) 
+
+[bahaiprayers.net 463](https://bahaiprayers.net/Book/Single/3/463)
+
 
 ----
 
@@ -974,7 +1217,10 @@ bpn463
 
 -- Abdu'l-Bahá
 
-bpn464 
+Prayer bpn464 in Deutsch (bpn464) 
+
+[bahaiprayers.net 464](https://bahaiprayers.net/Book/Single/3/464)
+
 
 ----
 
@@ -988,7 +1234,10 @@ bpn464
 
 -- Bahá'u'lláh
 
-bpn676 
+Prayer bpn676 in Deutsch (bpn676) 
+
+[bahaiprayers.net 676](https://bahaiprayers.net/Book/Single/3/676)
+
 
 ----
 
@@ -1002,7 +1251,10 @@ bpn676
 
 -- Abdu'l-Bahá
 
-bpn667 
+Prayer bpn667 in Deutsch (bpn667) 
+
+[bahaiprayers.net 667](https://bahaiprayers.net/Book/Single/3/667)
+
 
 ----
 
@@ -1012,7 +1264,10 @@ bpn667
 
 -- Abdu'l-Bahá
 
-bpn668 
+Prayer bpn668 in Deutsch (bpn668) 
+
+[bahaiprayers.net 668](https://bahaiprayers.net/Book/Single/3/668)
+
 
 ----
 
@@ -1022,7 +1277,10 @@ bpn668
 
 -- Abdu'l-Bahá
 
-bpn669 
+Prayer bpn669 in Deutsch (bpn669) 
+
+[bahaiprayers.net 669](https://bahaiprayers.net/Book/Single/3/669)
+
 
 ----
 
@@ -1036,7 +1294,10 @@ bpn669
 
 -- Bahá'u'lláh
 
-bpn563 
+Prayer bpn563 in Deutsch (bpn563) 
+
+[bahaiprayers.net 563](https://bahaiprayers.net/Book/Single/3/563)
+
 
 ----
 
@@ -1046,7 +1307,10 @@ bpn563
 
 -- Bahá'u'lláh
 
-bpn564 
+Prayer bpn564 in Deutsch (bpn564) 
+
+[bahaiprayers.net 564](https://bahaiprayers.net/Book/Single/3/564)
+
 
 ----
 
@@ -1056,7 +1320,10 @@ bpn564
 
 -- Bahá'u'lláh
 
-bpn565 
+Prayer bpn565 in Deutsch (bpn565) 
+
+[bahaiprayers.net 565](https://bahaiprayers.net/Book/Single/3/565)
+
 
 ----
 
@@ -1066,7 +1333,10 @@ bpn565
 
 -- Bahá'u'lláh
 
-BH07721 «[English](../../en/prayers/#BH07721)» 
+Prayer BH07721 in Deutsch (BH07721) «[English](../../en/prayers/#BH07721)» 
+
+[bahaiprayers.net 566](https://bahaiprayers.net/Book/Single/3/566)
+
 
 ----
 
@@ -1076,7 +1346,10 @@ BH07721 «[English](../../en/prayers/#BH07721)»
 
 -- Bahá'u'lláh
 
-bpn567 
+Prayer bpn567 in Deutsch (bpn567) 
+
+[bahaiprayers.net 567](https://bahaiprayers.net/Book/Single/3/567)
+
 
 ----
 
@@ -1086,7 +1359,10 @@ bpn567
 
 -- Bahá'u'lláh
 
-bpn568 
+Prayer bpn568 in Deutsch (bpn568) 
+
+[bahaiprayers.net 568](https://bahaiprayers.net/Book/Single/3/568)
+
 
 ----
 
@@ -1096,7 +1372,10 @@ bpn568
 
 -- Bahá'u'lláh
 
-bpn569 
+Prayer bpn569 in Deutsch (bpn569) 
+
+[bahaiprayers.net 569](https://bahaiprayers.net/Book/Single/3/569)
+
 
 ----
 
@@ -1106,7 +1385,10 @@ bpn569
 
 -- Bahá'u'lláh
 
-bpn570 
+Prayer bpn570 in Deutsch (bpn570) 
+
+[bahaiprayers.net 570](https://bahaiprayers.net/Book/Single/3/570)
+
 
 ----
 
@@ -1116,7 +1398,10 @@ bpn570
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» 
+Thy Name is my Healing in Deutsch (BH01313NAM) «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» «[العربية](../../ar/prayers/#BH01313NAM)» 
+
+[bahaiprayers.net 562](https://bahaiprayers.net/Book/Single/3/562)
+
 
 ----
 
@@ -1130,7 +1415,10 @@ BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Português (BR)](../.
 
 -- Bahá'u'lláh
 
-bpn571 
+Prayer bpn571 in Deutsch (bpn571) 
+
+[bahaiprayers.net 571](https://bahaiprayers.net/Book/Single/3/571)
+
 
 ----
 
@@ -1140,7 +1428,10 @@ bpn571
 
 -- Abdu'l-Bahá
 
-bpn467 
+Prayer bpn467 in Deutsch (bpn467) 
+
+[bahaiprayers.net 467](https://bahaiprayers.net/Book/Single/3/467)
+
 
 ----
 
@@ -1150,7 +1441,10 @@ bpn467
 
 -- Abdu'l-Bahá
 
-bpn468 
+Prayer bpn468 in Deutsch (bpn468) 
+
+[bahaiprayers.net 468](https://bahaiprayers.net/Book/Single/3/468)
+
 
 ----
 
@@ -1160,7 +1454,10 @@ bpn468
 
 -- Abdu'l-Bahá
 
-bpn469 
+Prayer bpn469 in Deutsch (bpn469) 
+
+[bahaiprayers.net 469](https://bahaiprayers.net/Book/Single/3/469)
+
 
 ----
 
@@ -1174,7 +1471,10 @@ bpn469
 
 -- Abdu'l-Bahá
 
-bpn475 
+Prayer bpn475 in Deutsch (bpn475) 
+
+[bahaiprayers.net 475](https://bahaiprayers.net/Book/Single/3/475)
+
 
 ----
 
@@ -1184,7 +1484,10 @@ bpn475
 
 -- Abdu'l-Bahá
 
-bpn10259 
+Prayer bpn10259 in Deutsch (bpn10259) 
+
+[bahaiprayers.net 10259](https://bahaiprayers.net/Book/Single/3/10259)
+
 
 ----
 
@@ -1194,7 +1497,10 @@ bpn10259
 
 -- Abdu'l-Bahá
 
-bpn10260 
+Prayer bpn10260 in Deutsch (bpn10260) 
+
+[bahaiprayers.net 10260](https://bahaiprayers.net/Book/Single/3/10260)
+
 
 ----
 
@@ -1204,7 +1510,10 @@ bpn10260
 
 -- Abdu'l-Bahá
 
-bpn10261 
+Prayer bpn10261 in Deutsch (bpn10261) 
+
+[bahaiprayers.net 10261](https://bahaiprayers.net/Book/Single/3/10261)
+
 
 ----
 
@@ -1218,7 +1527,10 @@ bpn10261
 
 -- Bahá'u'lláh
 
-bpn573 
+Prayer bpn573 in Deutsch (bpn573) 
+
+[bahaiprayers.net 573](https://bahaiprayers.net/Book/Single/3/573)
+
 
 ----
 
@@ -1228,7 +1540,10 @@ bpn573
 
 -- Bahá'u'lláh
 
-bpn572 
+Prayer bpn572 in Deutsch (bpn572) 
+
+[bahaiprayers.net 572](https://bahaiprayers.net/Book/Single/3/572)
+
 
 ----
 
@@ -1238,7 +1553,10 @@ bpn572
 
 -- Abdu'l-Bahá
 
-bpn470 
+Prayer bpn470 in Deutsch (bpn470) 
+
+[bahaiprayers.net 470](https://bahaiprayers.net/Book/Single/3/470)
+
 
 ----
 
@@ -1248,7 +1566,10 @@ bpn470
 
 -- Abdu'l-Bahá
 
-bpn471 
+Prayer bpn471 in Deutsch (bpn471) 
+
+[bahaiprayers.net 471](https://bahaiprayers.net/Book/Single/3/471)
+
 
 ----
 
@@ -1258,7 +1579,10 @@ bpn471
 
 -- Abdu'l-Bahá
 
-bpn472 
+Prayer bpn472 in Deutsch (bpn472) 
+
+[bahaiprayers.net 472](https://bahaiprayers.net/Book/Single/3/472)
+
 
 ----
 
@@ -1268,7 +1592,10 @@ bpn472
 
 -- Abdu'l-Bahá
 
-bpn473 
+Prayer bpn473 in Deutsch (bpn473) 
+
+[bahaiprayers.net 473](https://bahaiprayers.net/Book/Single/3/473)
+
 
 ----
 
@@ -1278,7 +1605,10 @@ bpn473
 
 -- Abdu'l-Bahá
 
-bpn474 
+Prayer bpn474 in Deutsch (bpn474) 
+
+[bahaiprayers.net 474](https://bahaiprayers.net/Book/Single/3/474)
+
 
 ----
 
@@ -1288,7 +1618,10 @@ bpn474
 
 -- Abdu'l-Bahá
 
-bpn476 
+Prayer bpn476 in Deutsch (bpn476) 
+
+[bahaiprayers.net 476](https://bahaiprayers.net/Book/Single/3/476)
+
 
 ----
 
@@ -1298,7 +1631,10 @@ bpn476
 
 -- Abdu'l-Bahá
 
-bpn477 
+Prayer bpn477 in Deutsch (bpn477) 
+
+[bahaiprayers.net 477](https://bahaiprayers.net/Book/Single/3/477)
+
 
 ----
 
@@ -1308,7 +1644,10 @@ bpn477
 
 -- Abdu'l-Bahá
 
-bpn478 
+Prayer bpn478 in Deutsch (bpn478) 
+
+[bahaiprayers.net 478](https://bahaiprayers.net/Book/Single/3/478)
+
 
 ----
 
@@ -1318,7 +1657,10 @@ bpn478
 
 -- Abdu'l-Bahá
 
-bpn479 
+Prayer bpn479 in Deutsch (bpn479) 
+
+[bahaiprayers.net 479](https://bahaiprayers.net/Book/Single/3/479)
+
 
 ----
 
@@ -1332,7 +1674,10 @@ bpn479
 
 -- Bahá'u'lláh
 
-bpn574 
+Prayer bpn574 in Deutsch (bpn574) 
+
+[bahaiprayers.net 574](https://bahaiprayers.net/Book/Single/3/574)
+
 
 ----
 
@@ -1342,7 +1687,10 @@ bpn574
 
 -- Bahá'u'lláh
 
-bpn575 
+Prayer bpn575 in Deutsch (bpn575) 
+
+[bahaiprayers.net 575](https://bahaiprayers.net/Book/Single/3/575)
+
 
 ----
 
@@ -1352,7 +1700,10 @@ bpn575
 
 -- Bahá'u'lláh
 
-bpn576 
+Prayer bpn576 in Deutsch (bpn576) 
+
+[bahaiprayers.net 576](https://bahaiprayers.net/Book/Single/3/576)
+
 
 ----
 
@@ -1362,7 +1713,10 @@ bpn576
 
 -- Bahá'u'lláh
 
-bpn577 
+Prayer bpn577 in Deutsch (bpn577) 
+
+[bahaiprayers.net 577](https://bahaiprayers.net/Book/Single/3/577)
+
 
 ----
 
@@ -1372,7 +1726,10 @@ bpn577
 
 -- Abdu'l-Bahá
 
-bpn480 
+Prayer bpn480 in Deutsch (bpn480) 
+
+[bahaiprayers.net 480](https://bahaiprayers.net/Book/Single/3/480)
+
 
 ----
 
@@ -1382,7 +1739,10 @@ bpn480
 
 -- Abdu'l-Bahá
 
-bpn481 
+Prayer bpn481 in Deutsch (bpn481) 
+
+[bahaiprayers.net 481](https://bahaiprayers.net/Book/Single/3/481)
+
 
 ----
 
@@ -1392,7 +1752,10 @@ bpn481
 
 -- Abdu'l-Bahá
 
-bpn482 
+Prayer bpn482 in Deutsch (bpn482) 
+
+[bahaiprayers.net 482](https://bahaiprayers.net/Book/Single/3/482)
+
 
 ----
 
@@ -1402,7 +1765,10 @@ bpn482
 
 -- Abdu'l-Bahá
 
-bpn483 
+Prayer bpn483 in Deutsch (bpn483) 
+
+[bahaiprayers.net 483](https://bahaiprayers.net/Book/Single/3/483)
+
 
 ----
 
@@ -1412,7 +1778,10 @@ bpn483
 
 -- Abdu'l-Bahá
 
-bpn484 
+Prayer bpn484 in Deutsch (bpn484) 
+
+[bahaiprayers.net 484](https://bahaiprayers.net/Book/Single/3/484)
+
 
 ----
 
@@ -1422,7 +1791,10 @@ bpn484
 
 -- Abdu'l-Bahá
 
-bpn485 
+Prayer bpn485 in Deutsch (bpn485) 
+
+[bahaiprayers.net 485](https://bahaiprayers.net/Book/Single/3/485)
+
 
 ----
 
@@ -1432,7 +1804,10 @@ bpn485
 
 -- Abdu'l-Bahá
 
-bpn486 
+Prayer bpn486 in Deutsch (bpn486) 
+
+[bahaiprayers.net 486](https://bahaiprayers.net/Book/Single/3/486)
+
 
 ----
 
@@ -1442,7 +1817,10 @@ bpn486
 
 -- Abdu'l-Bahá
 
-bpn487 
+Prayer bpn487 in Deutsch (bpn487) 
+
+[bahaiprayers.net 487](https://bahaiprayers.net/Book/Single/3/487)
+
 
 ----
 
@@ -1452,7 +1830,10 @@ bpn487
 
 -- Abdu'l-Bahá
 
-bpn488 
+Prayer bpn488 in Deutsch (bpn488) 
+
+[bahaiprayers.net 488](https://bahaiprayers.net/Book/Single/3/488)
+
 
 ----
 
@@ -1462,7 +1843,10 @@ bpn488
 
 -- Abdu'l-Bahá
 
-bpn489 
+Prayer bpn489 in Deutsch (bpn489) 
+
+[bahaiprayers.net 489](https://bahaiprayers.net/Book/Single/3/489)
+
 
 ----
 
@@ -1472,7 +1856,10 @@ bpn489
 
 -- Abdu'l-Bahá
 
-bpn490 
+Prayer bpn490 in Deutsch (bpn490) 
+
+[bahaiprayers.net 490](https://bahaiprayers.net/Book/Single/3/490)
+
 
 ----
 
@@ -1486,7 +1873,10 @@ bpn490
 
 -- Bahá'u'lláh
 
-bpn578 
+Prayer bpn578 in Deutsch (bpn578) 
+
+[bahaiprayers.net 578](https://bahaiprayers.net/Book/Single/3/578)
+
 
 ----
 
@@ -1496,7 +1886,10 @@ bpn578
 
 -- Bahá'u'lláh
 
-bpn579 
+Prayer bpn579 in Deutsch (bpn579) 
+
+[bahaiprayers.net 579](https://bahaiprayers.net/Book/Single/3/579)
+
 
 ----
 
@@ -1506,7 +1899,10 @@ bpn579
 
 -- Bahá'u'lláh
 
-bpn580 
+Prayer bpn580 in Deutsch (bpn580) 
+
+[bahaiprayers.net 580](https://bahaiprayers.net/Book/Single/3/580)
+
 
 ----
 
@@ -1516,7 +1912,10 @@ bpn580
 
 -- Bahá'u'lláh
 
-bpn581 
+Prayer bpn581 in Deutsch (bpn581) 
+
+[bahaiprayers.net 581](https://bahaiprayers.net/Book/Single/3/581)
+
 
 ----
 
@@ -1526,7 +1925,10 @@ bpn581
 
 -- Bahá'u'lláh
 
-bpn582 
+Prayer bpn582 in Deutsch (bpn582) 
+
+[bahaiprayers.net 582](https://bahaiprayers.net/Book/Single/3/582)
+
 
 ----
 
@@ -1540,7 +1942,10 @@ bpn582
 
 -- Bahá'u'lláh
 
-bpn583 
+Prayer bpn583 in Deutsch (bpn583) 
+
+[bahaiprayers.net 583](https://bahaiprayers.net/Book/Single/3/583)
+
 
 ----
 
@@ -1550,7 +1955,10 @@ bpn583
 
 -- Bahá'u'lláh
 
-bpn584 
+Prayer bpn584 in Deutsch (bpn584) 
+
+[bahaiprayers.net 584](https://bahaiprayers.net/Book/Single/3/584)
+
 
 ----
 
@@ -1560,7 +1968,10 @@ bpn584
 
 -- Bahá'u'lláh
 
-bpn585 
+Prayer bpn585 in Deutsch (bpn585) 
+
+[bahaiprayers.net 585](https://bahaiprayers.net/Book/Single/3/585)
+
 
 ----
 
@@ -1570,7 +1981,10 @@ bpn585
 
 -- Bahá'u'lláh
 
-bpn586 
+Prayer bpn586 in Deutsch (bpn586) 
+
+[bahaiprayers.net 586](https://bahaiprayers.net/Book/Single/3/586)
+
 
 ----
 
@@ -1580,7 +1994,10 @@ bpn586
 
 -- Bahá'u'lláh
 
-bpn587 
+Prayer bpn587 in Deutsch (bpn587) 
+
+[bahaiprayers.net 587](https://bahaiprayers.net/Book/Single/3/587)
+
 
 ----
 
@@ -1590,7 +2007,10 @@ bpn587
 
 -- Bahá'u'lláh
 
-bpn588 
+Prayer bpn588 in Deutsch (bpn588) 
+
+[bahaiprayers.net 588](https://bahaiprayers.net/Book/Single/3/588)
+
 
 ----
 
@@ -1600,7 +2020,10 @@ bpn588
 
 -- Báb
 
-bpn646 
+Prayer bpn646 in Deutsch (bpn646) 
+
+[bahaiprayers.net 646](https://bahaiprayers.net/Book/Single/3/646)
+
 
 ----
 
@@ -1610,7 +2033,10 @@ bpn646
 
 -- Abdu'l-Bahá
 
-bpn491 
+Prayer bpn491 in Deutsch (bpn491) 
+
+[bahaiprayers.net 491](https://bahaiprayers.net/Book/Single/3/491)
+
 
 ----
 
@@ -1624,7 +2050,10 @@ bpn491
 
 -- Abdu'l-Bahá
 
-bpn492 
+Prayer bpn492 in Deutsch (bpn492) 
+
+[bahaiprayers.net 492](https://bahaiprayers.net/Book/Single/3/492)
+
 
 ----
 
@@ -1634,7 +2063,10 @@ bpn492
 
 -- Abdu'l-Bahá
 
-bpn493 
+Prayer bpn493 in Deutsch (bpn493) 
+
+[bahaiprayers.net 493](https://bahaiprayers.net/Book/Single/3/493)
+
 
 ----
 
@@ -1648,7 +2080,10 @@ bpn493
 
 -- Bahá'u'lláh
 
-bpn589 
+Prayer bpn589 in Deutsch (bpn589) 
+
+[bahaiprayers.net 589](https://bahaiprayers.net/Book/Single/3/589)
+
 
 ----
 
@@ -1658,7 +2093,10 @@ bpn589
 
 -- Bahá'u'lláh
 
-bpn590 
+Prayer bpn590 in Deutsch (bpn590) 
+
+[bahaiprayers.net 590](https://bahaiprayers.net/Book/Single/3/590)
+
 
 ----
 
@@ -1668,7 +2106,10 @@ bpn590
 
 -- Bahá'u'lláh
 
-bpn591 
+Prayer bpn591 in Deutsch (bpn591) 
+
+[bahaiprayers.net 591](https://bahaiprayers.net/Book/Single/3/591)
+
 
 ----
 
@@ -1678,7 +2119,10 @@ bpn591
 
 -- Bahá'u'lláh
 
-bpn592 
+Prayer bpn592 in Deutsch (bpn592) 
+
+[bahaiprayers.net 592](https://bahaiprayers.net/Book/Single/3/592)
+
 
 ----
 
@@ -1692,7 +2136,10 @@ bpn592
 
 -- Bahá'u'lláh
 
-bpn671 
+Prayer bpn671 in Deutsch (bpn671) 
+
+[bahaiprayers.net 671](https://bahaiprayers.net/Book/Single/3/671)
+
 
 ----
 
@@ -1706,7 +2153,10 @@ bpn671
 
 -- Bahá'u'lláh
 
-bpn593 
+Prayer bpn593 in Deutsch (bpn593) 
+
+[bahaiprayers.net 593](https://bahaiprayers.net/Book/Single/3/593)
+
 
 ----
 
@@ -1716,7 +2166,10 @@ bpn593
 
 -- Bahá'u'lláh
 
-bpn594 
+Prayer bpn594 in Deutsch (bpn594) 
+
+[bahaiprayers.net 594](https://bahaiprayers.net/Book/Single/3/594)
+
 
 ----
 
@@ -1726,7 +2179,10 @@ bpn594
 
 -- Bahá'u'lláh
 
-bpn595 
+Prayer bpn595 in Deutsch (bpn595) 
+
+[bahaiprayers.net 595](https://bahaiprayers.net/Book/Single/3/595)
+
 
 ----
 
@@ -1736,7 +2192,10 @@ bpn595
 
 -- Bahá'u'lláh
 
-bpn597 
+Prayer bpn597 in Deutsch (bpn597) 
+
+[bahaiprayers.net 597](https://bahaiprayers.net/Book/Single/3/597)
+
 
 ----
 
@@ -1746,7 +2205,10 @@ bpn597
 
 -- Bahá'u'lláh
 
-bpn598 
+Prayer bpn598 in Deutsch (bpn598) 
+
+[bahaiprayers.net 598](https://bahaiprayers.net/Book/Single/3/598)
+
 
 ----
 
@@ -1756,7 +2218,10 @@ bpn598
 
 -- Bahá'u'lláh
 
-bpn599 
+Prayer bpn599 in Deutsch (bpn599) 
+
+[bahaiprayers.net 599](https://bahaiprayers.net/Book/Single/3/599)
+
 
 ----
 
@@ -1766,7 +2231,10 @@ bpn599
 
 -- Bahá'u'lláh
 
-bpn600 
+Prayer bpn600 in Deutsch (bpn600) 
+
+[bahaiprayers.net 600](https://bahaiprayers.net/Book/Single/3/600)
+
 
 ----
 
@@ -1776,7 +2244,10 @@ bpn600
 
 -- Bahá'u'lláh
 
-bpn601 
+Prayer bpn601 in Deutsch (bpn601) 
+
+[bahaiprayers.net 601](https://bahaiprayers.net/Book/Single/3/601)
+
 
 ----
 
@@ -1786,7 +2257,10 @@ bpn601
 
 -- Báb
 
-bpn647 
+Prayer bpn647 in Deutsch (bpn647) 
+
+[bahaiprayers.net 647](https://bahaiprayers.net/Book/Single/3/647)
+
 
 ----
 
@@ -1796,7 +2270,10 @@ bpn647
 
 -- Báb
 
-bpn649 
+Prayer bpn649 in Deutsch (bpn649) 
+
+[bahaiprayers.net 649](https://bahaiprayers.net/Book/Single/3/649)
+
 
 ----
 
@@ -1806,7 +2283,10 @@ bpn649
 
 -- Báb
 
-bpn650 
+Prayer bpn650 in Deutsch (bpn650) 
+
+[bahaiprayers.net 650](https://bahaiprayers.net/Book/Single/3/650)
+
 
 ----
 
@@ -1816,7 +2296,10 @@ bpn650
 
 -- Báb
 
-bpn648 
+Prayer bpn648 in Deutsch (bpn648) 
+
+[bahaiprayers.net 648](https://bahaiprayers.net/Book/Single/3/648)
+
 
 ----
 
@@ -1826,7 +2309,10 @@ bpn648
 
 -- Abdu'l-Bahá
 
-bpn494 
+Prayer bpn494 in Deutsch (bpn494) 
+
+[bahaiprayers.net 494](https://bahaiprayers.net/Book/Single/3/494)
+
 
 ----
 
@@ -1836,7 +2322,10 @@ bpn494
 
 -- Abdu'l-Bahá
 
-bpn596 
+Prayer bpn596 in Deutsch (bpn596) 
+
+[bahaiprayers.net 596](https://bahaiprayers.net/Book/Single/3/596)
+
 
 ----
 
@@ -1850,7 +2339,10 @@ bpn596
 
 -- Bahá'u'lláh
 
-bpn602 
+Prayer bpn602 in Deutsch (bpn602) 
+
+[bahaiprayers.net 602](https://bahaiprayers.net/Book/Single/3/602)
+
 
 ----
 
@@ -1860,7 +2352,10 @@ bpn602
 
 -- Bahá'u'lláh
 
-bpn603 
+Prayer bpn603 in Deutsch (bpn603) 
+
+[bahaiprayers.net 603](https://bahaiprayers.net/Book/Single/3/603)
+
 
 ----
 
@@ -1870,7 +2365,10 @@ bpn603
 
 -- Bahá'u'lláh
 
-bpn604 
+Prayer bpn604 in Deutsch (bpn604) 
+
+[bahaiprayers.net 604](https://bahaiprayers.net/Book/Single/3/604)
+
 
 ----
 
@@ -1880,7 +2378,10 @@ bpn604
 
 -- Bahá'u'lláh
 
-bpn605 
+Prayer bpn605 in Deutsch (bpn605) 
+
+[bahaiprayers.net 605](https://bahaiprayers.net/Book/Single/3/605)
+
 
 ----
 
@@ -1890,7 +2391,10 @@ bpn605
 
 -- Bahá'u'lláh
 
-bpn606 
+Prayer bpn606 in Deutsch (bpn606) 
+
+[bahaiprayers.net 606](https://bahaiprayers.net/Book/Single/3/606)
+
 
 ----
 
@@ -1900,7 +2404,10 @@ bpn606
 
 -- Bahá'u'lláh
 
-bpn607 
+Prayer bpn607 in Deutsch (bpn607) 
+
+[bahaiprayers.net 607](https://bahaiprayers.net/Book/Single/3/607)
+
 
 ----
 
@@ -1910,7 +2417,10 @@ bpn607
 
 -- Bahá'u'lláh
 
-bpn608 
+Prayer bpn608 in Deutsch (bpn608) 
+
+[bahaiprayers.net 608](https://bahaiprayers.net/Book/Single/3/608)
+
 
 ----
 
@@ -1920,7 +2430,10 @@ bpn608
 
 -- Bahá'u'lláh
 
-bpn609 
+Prayer bpn609 in Deutsch (bpn609) 
+
+[bahaiprayers.net 609](https://bahaiprayers.net/Book/Single/3/609)
+
 
 ----
 
@@ -1930,7 +2443,10 @@ bpn609
 
 -- Bahá'u'lláh
 
-bpn610 
+Prayer bpn610 in Deutsch (bpn610) 
+
+[bahaiprayers.net 610](https://bahaiprayers.net/Book/Single/3/610)
+
 
 ----
 
@@ -1940,7 +2456,10 @@ bpn610
 
 -- Báb
 
-bpn651 
+Prayer bpn651 in Deutsch (bpn651) 
+
+[bahaiprayers.net 651](https://bahaiprayers.net/Book/Single/3/651)
+
 
 ----
 
@@ -1950,7 +2469,10 @@ bpn651
 
 -- Báb
 
-bpn652 
+Prayer bpn652 in Deutsch (bpn652) 
+
+[bahaiprayers.net 652](https://bahaiprayers.net/Book/Single/3/652)
+
 
 ----
 
@@ -1960,7 +2482,10 @@ bpn652
 
 -- Báb
 
-bpn653 
+Prayer bpn653 in Deutsch (bpn653) 
+
+[bahaiprayers.net 653](https://bahaiprayers.net/Book/Single/3/653)
+
 
 ----
 
@@ -1970,7 +2495,10 @@ bpn653
 
 -- Báb
 
-bpn654 
+Prayer bpn654 in Deutsch (bpn654) 
+
+[bahaiprayers.net 654](https://bahaiprayers.net/Book/Single/3/654)
+
 
 ----
 
@@ -1980,7 +2508,10 @@ bpn654
 
 -- Báb
 
-bpn655 
+Prayer bpn655 in Deutsch (bpn655) 
+
+[bahaiprayers.net 655](https://bahaiprayers.net/Book/Single/3/655)
+
 
 ----
 
@@ -1990,7 +2521,10 @@ bpn655
 
 -- Abdu'l-Bahá
 
-bpn495 
+Prayer bpn495 in Deutsch (bpn495) 
+
+[bahaiprayers.net 495](https://bahaiprayers.net/Book/Single/3/495)
+
 
 ----
 
@@ -2000,7 +2534,10 @@ bpn495
 
 -- Abdu'l-Bahá
 
-bpn496 
+Prayer bpn496 in Deutsch (bpn496) 
+
+[bahaiprayers.net 496](https://bahaiprayers.net/Book/Single/3/496)
+
 
 ----
 
@@ -2010,7 +2547,10 @@ bpn496
 
 -- Abdu'l-Bahá
 
-bpn497 
+Prayer bpn497 in Deutsch (bpn497) 
+
+[bahaiprayers.net 497](https://bahaiprayers.net/Book/Single/3/497)
+
 
 ----
 
@@ -2024,7 +2564,10 @@ bpn497
 
 -- Bahá'u'lláh
 
-bpn611 
+Prayer bpn611 in Deutsch (bpn611) 
+
+[bahaiprayers.net 611](https://bahaiprayers.net/Book/Single/3/611)
+
 
 ----
 
@@ -2034,7 +2577,10 @@ bpn611
 
 -- Bahá'u'lláh
 
-bpn612 
+Prayer bpn612 in Deutsch (bpn612) 
+
+[bahaiprayers.net 612](https://bahaiprayers.net/Book/Single/3/612)
+
 
 ----
 
@@ -2044,7 +2590,10 @@ bpn612
 
 -- Bahá'u'lláh
 
-bpn613 
+Prayer bpn613 in Deutsch (bpn613) 
+
+[bahaiprayers.net 613](https://bahaiprayers.net/Book/Single/3/613)
+
 
 ----
 
@@ -2054,7 +2603,10 @@ bpn613
 
 -- Bahá'u'lláh
 
-bpn614 
+Prayer bpn614 in Deutsch (bpn614) 
+
+[bahaiprayers.net 614](https://bahaiprayers.net/Book/Single/3/614)
+
 
 ----
 
@@ -2064,7 +2616,10 @@ bpn614
 
 -- Bahá'u'lláh
 
-bpn615 
+Prayer bpn615 in Deutsch (bpn615) 
+
+[bahaiprayers.net 615](https://bahaiprayers.net/Book/Single/3/615)
+
 
 ----
 
@@ -2074,7 +2629,10 @@ bpn615
 
 -- Bahá'u'lláh
 
-bpn616 
+Prayer bpn616 in Deutsch (bpn616) 
+
+[bahaiprayers.net 616](https://bahaiprayers.net/Book/Single/3/616)
+
 
 ----
 
@@ -2084,7 +2642,10 @@ bpn616
 
 -- Bahá'u'lláh
 
-bpn617 
+Prayer bpn617 in Deutsch (bpn617) 
+
+[bahaiprayers.net 617](https://bahaiprayers.net/Book/Single/3/617)
+
 
 ----
 
@@ -2094,7 +2655,10 @@ bpn617
 
 -- Báb
 
-bpn656 
+Prayer bpn656 in Deutsch (bpn656) 
+
+[bahaiprayers.net 656](https://bahaiprayers.net/Book/Single/3/656)
+
 
 ----
 
@@ -2104,7 +2668,10 @@ bpn656
 
 -- Báb
 
-bpn657 
+Prayer bpn657 in Deutsch (bpn657) 
+
+[bahaiprayers.net 657](https://bahaiprayers.net/Book/Single/3/657)
+
 
 ----
 
@@ -2114,7 +2681,10 @@ bpn657
 
 -- Báb
 
-bpn658 
+Prayer bpn658 in Deutsch (bpn658) 
+
+[bahaiprayers.net 658](https://bahaiprayers.net/Book/Single/3/658)
+
 
 ----
 
@@ -2124,7 +2694,10 @@ bpn658
 
 -- Abdu'l-Bahá
 
-bpn498 
+Prayer bpn498 in Deutsch (bpn498) 
+
+[bahaiprayers.net 498](https://bahaiprayers.net/Book/Single/3/498)
+
 
 ----
 
@@ -2134,7 +2707,10 @@ bpn498
 
 -- Abdu'l-Bahá
 
-bpn499 
+Prayer bpn499 in Deutsch (bpn499) 
+
+[bahaiprayers.net 499](https://bahaiprayers.net/Book/Single/3/499)
+
 
 ----
 
@@ -2148,7 +2724,10 @@ bpn499
 
 -- Bahá'u'lláh
 
-bpn618 
+Prayer bpn618 in Deutsch (bpn618) 
+
+[bahaiprayers.net 618](https://bahaiprayers.net/Book/Single/3/618)
+
 
 ----
 
@@ -2158,7 +2737,10 @@ bpn618
 
 -- Bahá'u'lláh
 
-bpn619 
+Prayer bpn619 in Deutsch (bpn619) 
+
+[bahaiprayers.net 619](https://bahaiprayers.net/Book/Single/3/619)
+
 
 ----
 
@@ -2168,7 +2750,10 @@ bpn619
 
 -- Bahá'u'lláh
 
-bpn620 
+Prayer bpn620 in Deutsch (bpn620) 
+
+[bahaiprayers.net 620](https://bahaiprayers.net/Book/Single/3/620)
+
 
 ----
 
@@ -2178,7 +2763,10 @@ bpn620
 
 -- Báb
 
-bpn659 
+Prayer bpn659 in Deutsch (bpn659) 
+
+[bahaiprayers.net 659](https://bahaiprayers.net/Book/Single/3/659)
+
 
 ----
 
@@ -2188,7 +2776,10 @@ bpn659
 
 -- Báb
 
-bpn660 
+Prayer bpn660 in Deutsch (bpn660) 
+
+[bahaiprayers.net 660](https://bahaiprayers.net/Book/Single/3/660)
+
 
 ----
 
@@ -2198,7 +2789,10 @@ bpn660
 
 -- Báb
 
-bpn661 
+Prayer bpn661 in Deutsch (bpn661) 
+
+[bahaiprayers.net 661](https://bahaiprayers.net/Book/Single/3/661)
+
 
 ----
 
@@ -2208,7 +2802,10 @@ bpn661
 
 -- Abdu'l-Bahá
 
-bpn500 
+Prayer bpn500 in Deutsch (bpn500) 
+
+[bahaiprayers.net 500](https://bahaiprayers.net/Book/Single/3/500)
+
 
 ----
 
@@ -2218,7 +2815,10 @@ bpn500
 
 -- Abdu'l-Bahá
 
-bpn501 
+Prayer bpn501 in Deutsch (bpn501) 
+
+[bahaiprayers.net 501](https://bahaiprayers.net/Book/Single/3/501)
+
 
 ----
 
@@ -2232,7 +2832,10 @@ bpn501
 
 -- Bahá'u'lláh
 
-bpn621 
+Prayer bpn621 in Deutsch (bpn621) 
+
+[bahaiprayers.net 621](https://bahaiprayers.net/Book/Single/3/621)
+
 
 ----
 
@@ -2242,7 +2845,10 @@ bpn621
 
 -- Bahá'u'lláh
 
-bpn622 
+Prayer bpn622 in Deutsch (bpn622) 
+
+[bahaiprayers.net 622](https://bahaiprayers.net/Book/Single/3/622)
+
 
 ----
 
@@ -2252,7 +2858,10 @@ bpn622
 
 -- Bahá'u'lláh
 
-bpn623 
+Prayer bpn623 in Deutsch (bpn623) 
+
+[bahaiprayers.net 623](https://bahaiprayers.net/Book/Single/3/623)
+
 
 ----
 
@@ -2262,7 +2871,10 @@ bpn623
 
 -- Bahá'u'lláh
 
-bpn624 
+Prayer bpn624 in Deutsch (bpn624) 
+
+[bahaiprayers.net 624](https://bahaiprayers.net/Book/Single/3/624)
+
 
 ----
 
@@ -2272,7 +2884,10 @@ bpn624
 
 -- Bahá'u'lláh
 
-bpn625 
+Prayer bpn625 in Deutsch (bpn625) 
+
+[bahaiprayers.net 625](https://bahaiprayers.net/Book/Single/3/625)
+
 
 ----
 
@@ -2282,7 +2897,10 @@ bpn625
 
 -- Bahá'u'lláh
 
-bpn626 
+Prayer bpn626 in Deutsch (bpn626) 
+
+[bahaiprayers.net 626](https://bahaiprayers.net/Book/Single/3/626)
+
 
 ----
 
@@ -2292,7 +2910,10 @@ bpn626
 
 -- Bahá'u'lláh
 
-bpn627 
+Prayer bpn627 in Deutsch (bpn627) 
+
+[bahaiprayers.net 627](https://bahaiprayers.net/Book/Single/3/627)
+
 
 ----
 
@@ -2302,7 +2923,10 @@ bpn627
 
 -- Báb
 
-bpn662 
+Prayer bpn662 in Deutsch (bpn662) 
+
+[bahaiprayers.net 662](https://bahaiprayers.net/Book/Single/3/662)
+
 
 ----
 
@@ -2312,7 +2936,10 @@ bpn662
 
 -- Abdu'l-Bahá
 
-bpn502 
+Prayer bpn502 in Deutsch (bpn502) 
+
+[bahaiprayers.net 502](https://bahaiprayers.net/Book/Single/3/502)
+
 
 ----
 
@@ -2322,7 +2949,10 @@ bpn502
 
 -- Abdu'l-Bahá
 
-bpn503 
+Prayer bpn503 in Deutsch (bpn503) 
+
+[bahaiprayers.net 503](https://bahaiprayers.net/Book/Single/3/503)
+
 
 ----
 
@@ -2336,7 +2966,10 @@ bpn503
 
 -- Bahá'u'lláh
 
-bpn672 
+Prayer bpn672 in Deutsch (bpn672) 
+
+[bahaiprayers.net 672](https://bahaiprayers.net/Book/Single/3/672)
+
 
 ----
 
@@ -2350,7 +2983,10 @@ bpn672
 
 -- Bahá'u'lláh
 
-bpn673 
+Prayer bpn673 in Deutsch (bpn673) 
+
+[bahaiprayers.net 673](https://bahaiprayers.net/Book/Single/3/673)
+
 
 ----
 
@@ -2364,7 +3000,10 @@ bpn673
 
 -- Bahá'u'lláh
 
-bpn674 
+Prayer bpn674 in Deutsch (bpn674) 
+
+[bahaiprayers.net 674](https://bahaiprayers.net/Book/Single/3/674)
+
 
 ----
 
@@ -2378,7 +3017,10 @@ bpn674
 
 -- Abdu'l-Bahá
 
-bpn505 
+Prayer bpn505 in Deutsch (bpn505) 
+
+[bahaiprayers.net 505](https://bahaiprayers.net/Book/Single/3/505)
+
 
 ----
 
@@ -2388,7 +3030,10 @@ bpn505
 
 -- Abdu'l-Bahá
 
-bpn504 
+Prayer bpn504 in Deutsch (bpn504) 
+
+[bahaiprayers.net 504](https://bahaiprayers.net/Book/Single/3/504)
+
 
 ----
 
@@ -2402,7 +3047,10 @@ bpn504
 
 -- Bahá'u'lláh
 
-bpn628 
+Prayer bpn628 in Deutsch (bpn628) 
+
+[bahaiprayers.net 628](https://bahaiprayers.net/Book/Single/3/628)
+
 
 ----
 
@@ -2412,7 +3060,10 @@ bpn628
 
 -- Bahá'u'lláh
 
-bpn629 
+Prayer bpn629 in Deutsch (bpn629) 
+
+[bahaiprayers.net 629](https://bahaiprayers.net/Book/Single/3/629)
+
 
 ----
 
@@ -2422,7 +3073,10 @@ bpn629
 
 -- Bahá'u'lláh
 
-bpn630 
+Prayer bpn630 in Deutsch (bpn630) 
+
+[bahaiprayers.net 630](https://bahaiprayers.net/Book/Single/3/630)
+
 
 ----
 
@@ -2432,7 +3086,10 @@ bpn630
 
 -- Bahá'u'lláh
 
-bpn631 
+Prayer bpn631 in Deutsch (bpn631) 
+
+[bahaiprayers.net 631](https://bahaiprayers.net/Book/Single/3/631)
+
 
 ----
 
@@ -2442,7 +3099,10 @@ bpn631
 
 -- Bahá'u'lláh
 
-bpn632 
+Prayer bpn632 in Deutsch (bpn632) 
+
+[bahaiprayers.net 632](https://bahaiprayers.net/Book/Single/3/632)
+
 
 ----
 
@@ -2452,7 +3112,10 @@ bpn632
 
 -- Bahá'u'lláh
 
-bpn633 
+Prayer bpn633 in Deutsch (bpn633) 
+
+[bahaiprayers.net 633](https://bahaiprayers.net/Book/Single/3/633)
+
 
 ----
 
@@ -2462,7 +3125,10 @@ bpn633
 
 -- Bahá'u'lláh
 
-bpn634 
+Prayer bpn634 in Deutsch (bpn634) 
+
+[bahaiprayers.net 634](https://bahaiprayers.net/Book/Single/3/634)
+
 
 ----
 
@@ -2472,7 +3138,10 @@ bpn634
 
 -- Bahá'u'lláh
 
-bpn635 
+Prayer bpn635 in Deutsch (bpn635) 
+
+[bahaiprayers.net 635](https://bahaiprayers.net/Book/Single/3/635)
+
 
 ----
 
@@ -2482,7 +3151,10 @@ bpn635
 
 -- Abdu'l-Bahá
 
-bpn508 
+Prayer bpn508 in Deutsch (bpn508) 
+
+[bahaiprayers.net 508](https://bahaiprayers.net/Book/Single/3/508)
+
 
 ----
 
@@ -2496,7 +3168,10 @@ bpn508
 
 -- Bahá'u'lláh
 
-bpn636 
+Prayer bpn636 in Deutsch (bpn636) 
+
+[bahaiprayers.net 636](https://bahaiprayers.net/Book/Single/3/636)
+
 
 ----
 
@@ -2506,7 +3181,10 @@ bpn636
 
 -- Bahá'u'lláh
 
-bpn637 
+Prayer bpn637 in Deutsch (bpn637) 
+
+[bahaiprayers.net 637](https://bahaiprayers.net/Book/Single/3/637)
+
 
 ----
 
@@ -2516,7 +3194,10 @@ bpn637
 
 -- Abdu'l-Bahá
 
-bpn509 
+Prayer bpn509 in Deutsch (bpn509) 
+
+[bahaiprayers.net 509](https://bahaiprayers.net/Book/Single/3/509)
+
 
 ----
 
@@ -2530,7 +3211,10 @@ bpn509
 
 -- Abdu'l-Bahá
 
-bpn510 
+Prayer bpn510 in Deutsch (bpn510) 
+
+[bahaiprayers.net 510](https://bahaiprayers.net/Book/Single/3/510)
+
 
 ----
 
@@ -2540,7 +3224,10 @@ bpn510
 
 -- Abdu'l-Bahá
 
-bpn511 
+Prayer bpn511 in Deutsch (bpn511) 
+
+[bahaiprayers.net 511](https://bahaiprayers.net/Book/Single/3/511)
+
 
 ----
 
@@ -2550,7 +3237,10 @@ bpn511
 
 -- Abdu'l-Bahá
 
-bpn512 
+Prayer bpn512 in Deutsch (bpn512) 
+
+[bahaiprayers.net 512](https://bahaiprayers.net/Book/Single/3/512)
+
 
 ----
 
@@ -2560,7 +3250,10 @@ bpn512
 
 -- Abdu'l-Bahá
 
-bpn513 
+Prayer bpn513 in Deutsch (bpn513) 
+
+[bahaiprayers.net 513](https://bahaiprayers.net/Book/Single/3/513)
+
 
 ----
 
@@ -2570,7 +3263,10 @@ bpn513
 
 -- Abdu'l-Bahá
 
-bpn514 
+Prayer bpn514 in Deutsch (bpn514) 
+
+[bahaiprayers.net 514](https://bahaiprayers.net/Book/Single/3/514)
+
 
 ----
 
@@ -2580,7 +3276,10 @@ bpn514
 
 -- Abdu'l-Bahá
 
-bpn515 
+Prayer bpn515 in Deutsch (bpn515) 
+
+[bahaiprayers.net 515](https://bahaiprayers.net/Book/Single/3/515)
+
 
 ----
 
@@ -2590,7 +3289,10 @@ bpn515
 
 -- Abdu'l-Bahá
 
-bpn516 
+Prayer bpn516 in Deutsch (bpn516) 
+
+[bahaiprayers.net 516](https://bahaiprayers.net/Book/Single/3/516)
+
 
 ----
 
@@ -2604,7 +3306,10 @@ bpn516
 
 -- Bahá'u'lláh
 
-bpn558 
+Prayer bpn558 in Deutsch (bpn558) 
+
+[bahaiprayers.net 558](https://bahaiprayers.net/Book/Single/3/558)
+
 
 ----
 
@@ -2614,7 +3319,10 @@ bpn558
 
 -- Bahá'u'lláh
 
-bpn559 
+Prayer bpn559 in Deutsch (bpn559) 
+
+[bahaiprayers.net 559](https://bahaiprayers.net/Book/Single/3/559)
+
 
 ----
 
@@ -2624,7 +3332,10 @@ bpn559
 
 -- Bahá'u'lláh
 
-bpn560 
+Prayer bpn560 in Deutsch (bpn560) 
+
+[bahaiprayers.net 560](https://bahaiprayers.net/Book/Single/3/560)
+
 
 ----
 
@@ -2634,7 +3345,10 @@ bpn560
 
 -- Bahá'u'lláh
 
-bpn561 
+Prayer bpn561 in Deutsch (bpn561) 
+
+[bahaiprayers.net 561](https://bahaiprayers.net/Book/Single/3/561)
+
 
 ----
 
@@ -2644,7 +3358,10 @@ bpn561
 
 -- Bahá'u'lláh
 
-bpn557 
+Prayer bpn557 in Deutsch (bpn557) 
+
+[bahaiprayers.net 557](https://bahaiprayers.net/Book/Single/3/557)
+
 
 ----
 
@@ -2654,7 +3371,10 @@ bpn557
 
 -- Abdu'l-Bahá
 
-bpn465 
+Prayer bpn465 in Deutsch (bpn465) 
+
+[bahaiprayers.net 465](https://bahaiprayers.net/Book/Single/3/465)
+
 
 ----
 
@@ -2664,7 +3384,10 @@ bpn465
 
 -- Abdu'l-Bahá
 
-bpn466 
+Prayer bpn466 in Deutsch (bpn466) 
+
+[bahaiprayers.net 466](https://bahaiprayers.net/Book/Single/3/466)
+
 
 ----
 

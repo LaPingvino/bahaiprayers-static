@@ -96,7 +96,10 @@ tags = ['lang=ru', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn2470 
+Prayer bpn2470 in Русский (bpn2470) 
+
+[bahaiprayers.net 2470](https://bahaiprayers.net/Book/Single/15/2470)
+
 
 ----
 
@@ -106,7 +109,10 @@ bpn2470
 
 -- Abdu'l-Bahá
 
-bpn2471 
+Prayer bpn2471 in Русский (bpn2471) 
+
+[bahaiprayers.net 2471](https://bahaiprayers.net/Book/Single/15/2471)
+
 
 ----
 
@@ -116,7 +122,10 @@ bpn2471
 
 -- Abdu'l-Bahá
 
-bpn2472 
+Prayer bpn2472 in Русский (bpn2472) 
+
+[bahaiprayers.net 2472](https://bahaiprayers.net/Book/Single/15/2472)
+
 
 ----
 
@@ -126,7 +135,10 @@ bpn2472
 
 -- Abdu'l-Bahá
 
-bpn2473 
+Prayer bpn2473 in Русский (bpn2473) 
+
+[bahaiprayers.net 2473](https://bahaiprayers.net/Book/Single/15/2473)
+
 
 ----
 
@@ -136,7 +148,10 @@ bpn2473
 
 -- Abdu'l-Bahá
 
-bpn2474 
+Prayer bpn2474 in Русский (bpn2474) 
+
+[bahaiprayers.net 2474](https://bahaiprayers.net/Book/Single/15/2474)
+
 
 ----
 
@@ -146,7 +161,10 @@ bpn2474
 
 -- Abdu'l-Bahá
 
-bpn2475 
+Prayer bpn2475 in Русский (bpn2475) 
+
+[bahaiprayers.net 2475](https://bahaiprayers.net/Book/Single/15/2475)
+
 
 ----
 
@@ -160,7 +178,10 @@ bpn2475
 
 -- Bahá'u'lláh
 
-bpn2476 
+Prayer bpn2476 in Русский (bpn2476) 
+
+[bahaiprayers.net 2476](https://bahaiprayers.net/Book/Single/15/2476)
+
 
 ----
 
@@ -170,7 +191,10 @@ bpn2476
 
 -- Bahá'u'lláh
 
-bpn2477 
+Prayer bpn2477 in Русский (bpn2477) 
+
+[bahaiprayers.net 2477](https://bahaiprayers.net/Book/Single/15/2477)
+
 
 ----
 
@@ -180,7 +204,10 @@ bpn2477
 
 -- Abdu'l-Bahá
 
-bpn2478 
+Prayer bpn2478 in Русский (bpn2478) 
+
+[bahaiprayers.net 2478](https://bahaiprayers.net/Book/Single/15/2478)
+
 
 ----
 
@@ -194,7 +221,10 @@ bpn2478
 
 -- Bahá'u'lláh
 
-bpn2466 
+Prayer bpn2466 in Русский (bpn2466) 
+
+[bahaiprayers.net 2466](https://bahaiprayers.net/Book/Single/15/2466)
+
 
 ----
 
@@ -208,7 +238,10 @@ bpn2466
 
 -- Bahá'u'lláh
 
-bpn2479 
+Prayer bpn2479 in Русский (bpn2479) 
+
+[bahaiprayers.net 2479](https://bahaiprayers.net/Book/Single/15/2479)
+
 
 ----
 
@@ -222,7 +255,10 @@ bpn2479
 
 -- Abdu'l-Bahá
 
-bpn2480 
+Prayer bpn2480 in Русский (bpn2480) 
+
+[bahaiprayers.net 2480](https://bahaiprayers.net/Book/Single/15/2480)
+
 
 ----
 
@@ -232,7 +268,10 @@ bpn2480
 
 -- Abdu'l-Bahá
 
-bpn2481 
+Prayer bpn2481 in Русский (bpn2481) 
+
+[bahaiprayers.net 2481](https://bahaiprayers.net/Book/Single/15/2481)
+
 
 ----
 
@@ -242,7 +281,10 @@ bpn2481
 
 -- Abdu'l-Bahá
 
-bpn2482 
+Prayer bpn2482 in Русский (bpn2482) 
+
+[bahaiprayers.net 2482](https://bahaiprayers.net/Book/Single/15/2482)
+
 
 ----
 
@@ -252,7 +294,10 @@ bpn2482
 
 -- Abdu'l-Bahá
 
-bpn2483 
+Prayer bpn2483 in Русский (bpn2483) 
+
+[bahaiprayers.net 2483](https://bahaiprayers.net/Book/Single/15/2483)
+
 
 ----
 
@@ -262,7 +307,10 @@ bpn2483
 
 -- Abdu'l-Bahá
 
-bpn2484 
+Prayer bpn2484 in Русский (bpn2484) 
+
+[bahaiprayers.net 2484](https://bahaiprayers.net/Book/Single/15/2484)
+
 
 ----
 
@@ -272,7 +320,10 @@ bpn2484
 
 -- Abdu'l-Bahá
 
-bpn2485 
+Prayer bpn2485 in Русский (bpn2485) 
+
+[bahaiprayers.net 2485](https://bahaiprayers.net/Book/Single/15/2485)
+
 
 ----
 
@@ -286,7 +337,10 @@ bpn2485
 
 -- Bahá'u'lláh
 
-bpn2486 
+Prayer bpn2486 in Русский (bpn2486) 
+
+[bahaiprayers.net 2486](https://bahaiprayers.net/Book/Single/15/2486)
+
 
 ----
 
@@ -296,7 +350,10 @@ bpn2486
 
 -- Bahá'u'lláh
 
-bpn2487 
+Prayer bpn2487 in Русский (bpn2487) 
+
+[bahaiprayers.net 2487](https://bahaiprayers.net/Book/Single/15/2487)
+
 
 ----
 
@@ -306,7 +363,10 @@ bpn2487
 
 -- Bahá'u'lláh
 
-bpn2488 
+Prayer bpn2488 in Русский (bpn2488) 
+
+[bahaiprayers.net 2488](https://bahaiprayers.net/Book/Single/15/2488)
+
 
 ----
 
@@ -316,7 +376,10 @@ bpn2488
 
 -- Bahá'u'lláh
 
-bpn2489 
+Prayer bpn2489 in Русский (bpn2489) 
+
+[bahaiprayers.net 2489](https://bahaiprayers.net/Book/Single/15/2489)
+
 
 ----
 
@@ -326,7 +389,10 @@ bpn2489
 
 -- Bahá'u'lláh
 
-bpn2490 
+Prayer bpn2490 in Русский (bpn2490) 
+
+[bahaiprayers.net 2490](https://bahaiprayers.net/Book/Single/15/2490)
+
 
 ----
 
@@ -336,7 +402,10 @@ bpn2490
 
 -- Bahá'u'lláh
 
-bpn2491 
+Prayer bpn2491 in Русский (bpn2491) 
+
+[bahaiprayers.net 2491](https://bahaiprayers.net/Book/Single/15/2491)
+
 
 ----
 
@@ -346,7 +415,10 @@ bpn2491
 
 -- Bahá'u'lláh
 
-bpn2492 
+Prayer bpn2492 in Русский (bpn2492) 
+
+[bahaiprayers.net 2492](https://bahaiprayers.net/Book/Single/15/2492)
+
 
 ----
 
@@ -356,7 +428,10 @@ bpn2492
 
 -- Báb
 
-bpn2493 
+Prayer bpn2493 in Русский (bpn2493) 
+
+[bahaiprayers.net 2493](https://bahaiprayers.net/Book/Single/15/2493)
+
 
 ----
 
@@ -366,7 +441,10 @@ bpn2493
 
 -- Abdu'l-Bahá
 
-bpn2495 
+Prayer bpn2495 in Русский (bpn2495) 
+
+[bahaiprayers.net 2495](https://bahaiprayers.net/Book/Single/15/2495)
+
 
 ----
 
@@ -376,7 +454,10 @@ bpn2495
 
 -- Abdu'l-Bahá
 
-bpn2496 
+Prayer bpn2496 in Русский (bpn2496) 
+
+[bahaiprayers.net 2496](https://bahaiprayers.net/Book/Single/15/2496)
+
 
 ----
 
@@ -386,7 +467,10 @@ bpn2496
 
 -- Abdu'l-Bahá
 
-bpn2497 
+Prayer bpn2497 in Русский (bpn2497) 
+
+[bahaiprayers.net 2497](https://bahaiprayers.net/Book/Single/15/2497)
+
 
 ----
 
@@ -396,7 +480,10 @@ bpn2497
 
 -- Abdu'l-Bahá
 
-bpn2494 
+Prayer bpn2494 in Русский (bpn2494) 
+
+[bahaiprayers.net 2494](https://bahaiprayers.net/Book/Single/15/2494)
+
 
 ----
 
@@ -410,7 +497,10 @@ bpn2494
 
 -- Abdu'l-Bahá
 
-bpn2498 
+Prayer bpn2498 in Русский (bpn2498) 
+
+[bahaiprayers.net 2498](https://bahaiprayers.net/Book/Single/15/2498)
+
 
 ----
 
@@ -420,7 +510,10 @@ bpn2498
 
 -- Abdu'l-Bahá
 
-bpn2499 
+Prayer bpn2499 in Русский (bpn2499) 
+
+[bahaiprayers.net 2499](https://bahaiprayers.net/Book/Single/15/2499)
+
 
 ----
 
@@ -434,7 +527,10 @@ bpn2499
 
 -- Bahá'u'lláh
 
-bpn2500 
+Prayer bpn2500 in Русский (bpn2500) 
+
+[bahaiprayers.net 2500](https://bahaiprayers.net/Book/Single/15/2500)
+
 
 ----
 
@@ -444,7 +540,10 @@ bpn2500
 
 -- Bahá'u'lláh
 
-bpn2501 
+Prayer bpn2501 in Русский (bpn2501) 
+
+[bahaiprayers.net 2501](https://bahaiprayers.net/Book/Single/15/2501)
+
 
 ----
 
@@ -454,7 +553,10 @@ bpn2501
 
 -- Abdu'l-Bahá
 
-bpn2502 
+Prayer bpn2502 in Русский (bpn2502) 
+
+[bahaiprayers.net 2502](https://bahaiprayers.net/Book/Single/15/2502)
+
 
 ----
 
@@ -464,7 +566,10 @@ bpn2502
 
 -- Abdu'l-Bahá
 
-bpn2503 
+Prayer bpn2503 in Русский (bpn2503) 
+
+[bahaiprayers.net 2503](https://bahaiprayers.net/Book/Single/15/2503)
+
 
 ----
 
@@ -478,7 +583,10 @@ bpn2503
 
 -- Abdu'l-Bahá
 
-bpn2568 
+Prayer bpn2568 in Русский (bpn2568) 
+
+[bahaiprayers.net 2568](https://bahaiprayers.net/Book/Single/15/2568)
+
 
 ----
 
@@ -492,7 +600,10 @@ bpn2568
 
 -- Abdu'l-Bahá
 
-bpn2567 
+Prayer bpn2567 in Русский (bpn2567) 
+
+[bahaiprayers.net 2567](https://bahaiprayers.net/Book/Single/15/2567)
+
 
 ----
 
@@ -506,7 +617,10 @@ bpn2567
 
 -- Abdu'l-Bahá
 
-bpn2566 
+Prayer bpn2566 in Русский (bpn2566) 
+
+[bahaiprayers.net 2566](https://bahaiprayers.net/Book/Single/15/2566)
+
 
 ----
 
@@ -520,7 +634,10 @@ bpn2566
 
 -- Bahá'u'lláh
 
-bpn2504 
+Prayer bpn2504 in Русский (bpn2504) 
+
+[bahaiprayers.net 2504](https://bahaiprayers.net/Book/Single/15/2504)
+
 
 ----
 
@@ -530,7 +647,10 @@ bpn2504
 
 -- Bahá'u'lláh
 
-bpn2505 
+Prayer bpn2505 in Русский (bpn2505) 
+
+[bahaiprayers.net 2505](https://bahaiprayers.net/Book/Single/15/2505)
+
 
 ----
 
@@ -540,7 +660,10 @@ bpn2505
 
 -- Báb
 
-bpn2506 
+Prayer bpn2506 in Русский (bpn2506) 
+
+[bahaiprayers.net 2506](https://bahaiprayers.net/Book/Single/15/2506)
+
 
 ----
 
@@ -550,7 +673,10 @@ bpn2506
 
 -- Báb
 
-bpn2507 
+Prayer bpn2507 in Русский (bpn2507) 
+
+[bahaiprayers.net 2507](https://bahaiprayers.net/Book/Single/15/2507)
+
 
 ----
 
@@ -560,7 +686,10 @@ bpn2507
 
 -- Báb
 
-bpn2508 
+Prayer bpn2508 in Русский (bpn2508) 
+
+[bahaiprayers.net 2508](https://bahaiprayers.net/Book/Single/15/2508)
+
 
 ----
 
@@ -570,7 +699,10 @@ bpn2508
 
 -- Abdu'l-Bahá
 
-bpn2509 
+Prayer bpn2509 in Русский (bpn2509) 
+
+[bahaiprayers.net 2509](https://bahaiprayers.net/Book/Single/15/2509)
+
 
 ----
 
@@ -580,7 +712,10 @@ bpn2509
 
 -- Abdu'l-Bahá
 
-bpn2510 
+Prayer bpn2510 in Русский (bpn2510) 
+
+[bahaiprayers.net 2510](https://bahaiprayers.net/Book/Single/15/2510)
+
 
 ----
 
@@ -594,7 +729,10 @@ bpn2510
 
 -- Bahá'u'lláh
 
-bpn2511 
+Prayer bpn2511 in Русский (bpn2511) 
+
+[bahaiprayers.net 2511](https://bahaiprayers.net/Book/Single/15/2511)
+
 
 ----
 
@@ -604,7 +742,10 @@ bpn2511
 
 -- Bahá'u'lláh
 
-bpn2513 
+Prayer bpn2513 in Русский (bpn2513) 
+
+[bahaiprayers.net 2513](https://bahaiprayers.net/Book/Single/15/2513)
+
 
 ----
 
@@ -614,7 +755,10 @@ bpn2513
 
 -- Bahá'u'lláh
 
-bpn2553 
+Prayer bpn2553 in Русский (bpn2553) 
+
+[bahaiprayers.net 2553](https://bahaiprayers.net/Book/Single/15/2553)
+
 
 ----
 
@@ -624,7 +768,10 @@ bpn2553
 
 -- Bahá'u'lláh
 
-bpn2554 
+Prayer bpn2554 in Русский (bpn2554) 
+
+[bahaiprayers.net 2554](https://bahaiprayers.net/Book/Single/15/2554)
+
 
 ----
 
@@ -634,7 +781,10 @@ bpn2554
 
 -- Bahá'u'lláh
 
-bpn2555 
+Prayer bpn2555 in Русский (bpn2555) 
+
+[bahaiprayers.net 2555](https://bahaiprayers.net/Book/Single/15/2555)
+
 
 ----
 
@@ -644,7 +794,10 @@ bpn2555
 
 -- Bahá'u'lláh
 
-bpn2556 
+Prayer bpn2556 in Русский (bpn2556) 
+
+[bahaiprayers.net 2556](https://bahaiprayers.net/Book/Single/15/2556)
+
 
 ----
 
@@ -654,7 +807,10 @@ bpn2556
 
 -- Bahá'u'lláh
 
-bpn2557 
+Prayer bpn2557 in Русский (bpn2557) 
+
+[bahaiprayers.net 2557](https://bahaiprayers.net/Book/Single/15/2557)
+
 
 ----
 
@@ -664,7 +820,10 @@ bpn2557
 
 -- Bahá'u'lláh
 
-bpn2558 
+Prayer bpn2558 in Русский (bpn2558) 
+
+[bahaiprayers.net 2558](https://bahaiprayers.net/Book/Single/15/2558)
+
 
 ----
 
@@ -674,7 +833,10 @@ bpn2558
 
 -- Bahá'u'lláh
 
-bpn2512 
+Prayer bpn2512 in Русский (bpn2512) 
+
+[bahaiprayers.net 2512](https://bahaiprayers.net/Book/Single/15/2512)
+
 
 ----
 
@@ -688,7 +850,10 @@ bpn2512
 
 -- Bahá'u'lláh
 
-bpn2514 
+Prayer bpn2514 in Русский (bpn2514) 
+
+[bahaiprayers.net 2514](https://bahaiprayers.net/Book/Single/15/2514)
+
 
 ----
 
@@ -702,7 +867,10 @@ bpn2514
 
 -- Bahá'u'lláh
 
-bpn2456 
+Prayer bpn2456 in Русский (bpn2456) 
+
+[bahaiprayers.net 2456](https://bahaiprayers.net/Book/Single/15/2456)
+
 
 ----
 
@@ -716,7 +884,10 @@ bpn2456
 
 -- Bahá'u'lláh
 
-bpn2463 
+Prayer bpn2463 in Русский (bpn2463) 
+
+[bahaiprayers.net 2463](https://bahaiprayers.net/Book/Single/15/2463)
+
 
 ----
 
@@ -730,7 +901,10 @@ bpn2463
 
 -- Bahá'u'lláh
 
-bpn2515 
+Prayer bpn2515 in Русский (bpn2515) 
+
+[bahaiprayers.net 2515](https://bahaiprayers.net/Book/Single/15/2515)
+
 
 ----
 
@@ -740,7 +914,10 @@ bpn2515
 
 -- Bahá'u'lláh
 
-bpn2516 
+Prayer bpn2516 in Русский (bpn2516) 
+
+[bahaiprayers.net 2516](https://bahaiprayers.net/Book/Single/15/2516)
+
 
 ----
 
@@ -750,7 +927,10 @@ bpn2516
 
 -- Bahá'u'lláh
 
-bpn2517 
+Prayer bpn2517 in Русский (bpn2517) 
+
+[bahaiprayers.net 2517](https://bahaiprayers.net/Book/Single/15/2517)
+
 
 ----
 
@@ -760,7 +940,10 @@ bpn2517
 
 -- Báb
 
-bpn2518 
+Prayer bpn2518 in Русский (bpn2518) 
+
+[bahaiprayers.net 2518](https://bahaiprayers.net/Book/Single/15/2518)
+
 
 ----
 
@@ -770,7 +953,10 @@ bpn2518
 
 -- Báb
 
-bpn2519 
+Prayer bpn2519 in Русский (bpn2519) 
+
+[bahaiprayers.net 2519](https://bahaiprayers.net/Book/Single/15/2519)
+
 
 ----
 
@@ -780,7 +966,10 @@ bpn2519
 
 -- Báb
 
-bpn2520 
+Prayer bpn2520 in Русский (bpn2520) 
+
+[bahaiprayers.net 2520](https://bahaiprayers.net/Book/Single/15/2520)
+
 
 ----
 
@@ -790,7 +979,10 @@ bpn2520
 
 -- Báb
 
-bpn2521 
+Prayer bpn2521 in Русский (bpn2521) 
+
+[bahaiprayers.net 2521](https://bahaiprayers.net/Book/Single/15/2521)
+
 
 ----
 
@@ -800,7 +992,10 @@ bpn2521
 
 -- Báb
 
-bpn2522 
+Prayer bpn2522 in Русский (bpn2522) 
+
+[bahaiprayers.net 2522](https://bahaiprayers.net/Book/Single/15/2522)
+
 
 ----
 
@@ -814,7 +1009,10 @@ bpn2522
 
 -- Bahá'u'lláh
 
-bpn2583 
+Prayer bpn2583 in Русский (bpn2583) 
+
+[bahaiprayers.net 2583](https://bahaiprayers.net/Book/Single/15/2583)
+
 
 ----
 
@@ -824,7 +1022,10 @@ bpn2583
 
 -- Bahá'u'lláh
 
-bpn2584 
+Prayer bpn2584 in Русский (bpn2584) 
+
+[bahaiprayers.net 2584](https://bahaiprayers.net/Book/Single/15/2584)
+
 
 ----
 
@@ -834,7 +1035,10 @@ bpn2584
 
 -- Bahá'u'lláh
 
-bpn2585 
+Prayer bpn2585 in Русский (bpn2585) 
+
+[bahaiprayers.net 2585](https://bahaiprayers.net/Book/Single/15/2585)
+
 
 ----
 
@@ -844,7 +1048,10 @@ bpn2585
 
 -- Abdu'l-Bahá
 
-bpn2586 
+Prayer bpn2586 in Русский (bpn2586) 
+
+[bahaiprayers.net 2586](https://bahaiprayers.net/Book/Single/15/2586)
+
 
 ----
 
@@ -854,7 +1061,10 @@ bpn2586
 
 -- Abdu'l-Bahá
 
-bpn2587 
+Prayer bpn2587 in Русский (bpn2587) 
+
+[bahaiprayers.net 2587](https://bahaiprayers.net/Book/Single/15/2587)
+
 
 ----
 
@@ -864,7 +1074,10 @@ bpn2587
 
 -- Abdu'l-Bahá
 
-bpn2588 
+Prayer bpn2588 in Русский (bpn2588) 
+
+[bahaiprayers.net 2588](https://bahaiprayers.net/Book/Single/15/2588)
+
 
 ----
 
@@ -878,7 +1091,10 @@ bpn2588
 
 -- Bahá'u'lláh
 
-bpn2459 
+Prayer bpn2459 in Русский (bpn2459) 
+
+[bahaiprayers.net 2459](https://bahaiprayers.net/Book/Single/15/2459)
+
 
 ----
 
@@ -892,7 +1108,10 @@ bpn2459
 
 -- Bahá'u'lláh
 
-bpn2523 
+Prayer bpn2523 in Русский (bpn2523) 
+
+[bahaiprayers.net 2523](https://bahaiprayers.net/Book/Single/15/2523)
+
 
 ----
 
@@ -902,7 +1121,10 @@ bpn2523
 
 -- Bahá'u'lláh
 
-bpn2524 
+Prayer bpn2524 in Русский (bpn2524) 
+
+[bahaiprayers.net 2524](https://bahaiprayers.net/Book/Single/15/2524)
+
 
 ----
 
@@ -912,7 +1134,10 @@ bpn2524
 
 -- Bahá'u'lláh
 
-bpn2525 
+Prayer bpn2525 in Русский (bpn2525) 
+
+[bahaiprayers.net 2525](https://bahaiprayers.net/Book/Single/15/2525)
+
 
 ----
 
@@ -922,7 +1147,10 @@ bpn2525
 
 -- Bahá'u'lláh
 
-bpn2526 
+Prayer bpn2526 in Русский (bpn2526) 
+
+[bahaiprayers.net 2526](https://bahaiprayers.net/Book/Single/15/2526)
+
 
 ----
 
@@ -932,7 +1160,10 @@ bpn2526
 
 -- Báb
 
-bpn2527 
+Prayer bpn2527 in Русский (bpn2527) 
+
+[bahaiprayers.net 2527](https://bahaiprayers.net/Book/Single/15/2527)
+
 
 ----
 
@@ -942,7 +1173,10 @@ bpn2527
 
 -- Báb
 
-bpn2528 
+Prayer bpn2528 in Русский (bpn2528) 
+
+[bahaiprayers.net 2528](https://bahaiprayers.net/Book/Single/15/2528)
+
 
 ----
 
@@ -952,7 +1186,10 @@ bpn2528
 
 -- Báb
 
-bpn2529 
+Prayer bpn2529 in Русский (bpn2529) 
+
+[bahaiprayers.net 2529](https://bahaiprayers.net/Book/Single/15/2529)
+
 
 ----
 
@@ -962,7 +1199,10 @@ bpn2529
 
 -- Abdu'l-Bahá
 
-bpn2530 
+Prayer bpn2530 in Русский (bpn2530) 
+
+[bahaiprayers.net 2530](https://bahaiprayers.net/Book/Single/15/2530)
+
 
 ----
 
@@ -972,7 +1212,10 @@ bpn2530
 
 -- Abdu'l-Bahá
 
-bpn2531 
+Prayer bpn2531 in Русский (bpn2531) 
+
+[bahaiprayers.net 2531](https://bahaiprayers.net/Book/Single/15/2531)
+
 
 ----
 
@@ -986,7 +1229,10 @@ bpn2531
 
 -- Bahá'u'lláh
 
-bpn2532 
+Prayer bpn2532 in Русский (bpn2532) 
+
+[bahaiprayers.net 2532](https://bahaiprayers.net/Book/Single/15/2532)
+
 
 ----
 
@@ -996,7 +1242,10 @@ bpn2532
 
 -- Bahá'u'lláh
 
-bpn2533 
+Prayer bpn2533 in Русский (bpn2533) 
+
+[bahaiprayers.net 2533](https://bahaiprayers.net/Book/Single/15/2533)
+
 
 ----
 
@@ -1006,7 +1255,10 @@ bpn2533
 
 -- Bahá'u'lláh
 
-bpn2534 
+Prayer bpn2534 in Русский (bpn2534) 
+
+[bahaiprayers.net 2534](https://bahaiprayers.net/Book/Single/15/2534)
+
 
 ----
 
@@ -1016,7 +1268,10 @@ bpn2534
 
 -- Báb
 
-bpn2536 
+Prayer bpn2536 in Русский (bpn2536) 
+
+[bahaiprayers.net 2536](https://bahaiprayers.net/Book/Single/15/2536)
+
 
 ----
 
@@ -1026,7 +1281,10 @@ bpn2536
 
 -- Báb
 
-bpn2537 
+Prayer bpn2537 in Русский (bpn2537) 
+
+[bahaiprayers.net 2537](https://bahaiprayers.net/Book/Single/15/2537)
+
 
 ----
 
@@ -1036,7 +1294,10 @@ bpn2537
 
 -- Báb
 
-bpn2538 
+Prayer bpn2538 in Русский (bpn2538) 
+
+[bahaiprayers.net 2538](https://bahaiprayers.net/Book/Single/15/2538)
+
 
 ----
 
@@ -1046,7 +1307,10 @@ bpn2538
 
 -- Báb
 
-bpn2539 
+Prayer bpn2539 in Русский (bpn2539) 
+
+[bahaiprayers.net 2539](https://bahaiprayers.net/Book/Single/15/2539)
+
 
 ----
 
@@ -1056,7 +1320,10 @@ bpn2539
 
 -- Báb
 
-bpn2535 
+Prayer bpn2535 in Русский (bpn2535) 
+
+[bahaiprayers.net 2535](https://bahaiprayers.net/Book/Single/15/2535)
+
 
 ----
 
@@ -1066,7 +1333,10 @@ bpn2535
 
 -- Abdu'l-Bahá
 
-bpn2540 
+Prayer bpn2540 in Русский (bpn2540) 
+
+[bahaiprayers.net 2540](https://bahaiprayers.net/Book/Single/15/2540)
+
 
 ----
 
@@ -1076,7 +1346,10 @@ bpn2540
 
 -- Abdu'l-Bahá
 
-bpn2541 
+Prayer bpn2541 in Русский (bpn2541) 
+
+[bahaiprayers.net 2541](https://bahaiprayers.net/Book/Single/15/2541)
+
 
 ----
 
@@ -1090,7 +1363,10 @@ bpn2541
 
 -- Bahá'u'lláh
 
-bpn2542 
+Prayer bpn2542 in Русский (bpn2542) 
+
+[bahaiprayers.net 2542](https://bahaiprayers.net/Book/Single/15/2542)
+
 
 ----
 
@@ -1100,7 +1376,10 @@ bpn2542
 
 -- Bahá'u'lláh
 
-bpn2543 
+Prayer bpn2543 in Русский (bpn2543) 
+
+[bahaiprayers.net 2543](https://bahaiprayers.net/Book/Single/15/2543)
+
 
 ----
 
@@ -1110,7 +1389,10 @@ bpn2543
 
 -- Bahá'u'lláh
 
-bpn2544 
+Prayer bpn2544 in Русский (bpn2544) 
+
+[bahaiprayers.net 2544](https://bahaiprayers.net/Book/Single/15/2544)
+
 
 ----
 
@@ -1120,7 +1402,10 @@ bpn2544
 
 -- Báb
 
-bpn2545 
+Prayer bpn2545 in Русский (bpn2545) 
+
+[bahaiprayers.net 2545](https://bahaiprayers.net/Book/Single/15/2545)
+
 
 ----
 
@@ -1130,7 +1415,10 @@ bpn2545
 
 -- Abdu'l-Bahá
 
-bpn2546 
+Prayer bpn2546 in Русский (bpn2546) 
+
+[bahaiprayers.net 2546](https://bahaiprayers.net/Book/Single/15/2546)
+
 
 ----
 
@@ -1140,7 +1428,10 @@ bpn2546
 
 -- Abdu'l-Bahá
 
-bpn2547 
+Prayer bpn2547 in Русский (bpn2547) 
+
+[bahaiprayers.net 2547](https://bahaiprayers.net/Book/Single/15/2547)
+
 
 ----
 
@@ -1150,7 +1441,10 @@ bpn2547
 
 -- Abdu'l-Bahá
 
-bpn2548 
+Prayer bpn2548 in Русский (bpn2548) 
+
+[bahaiprayers.net 2548](https://bahaiprayers.net/Book/Single/15/2548)
+
 
 ----
 
@@ -1160,7 +1454,10 @@ bpn2548
 
 -- Abdu'l-Bahá
 
-bpn2549 
+Prayer bpn2549 in Русский (bpn2549) 
+
+[bahaiprayers.net 2549](https://bahaiprayers.net/Book/Single/15/2549)
+
 
 ----
 
@@ -1170,7 +1467,10 @@ bpn2549
 
 -- Abdu'l-Bahá
 
-bpn2550 
+Prayer bpn2550 in Русский (bpn2550) 
+
+[bahaiprayers.net 2550](https://bahaiprayers.net/Book/Single/15/2550)
+
 
 ----
 
@@ -1180,7 +1480,10 @@ bpn2550
 
 -- Abdu'l-Bahá
 
-bpn2551 
+Prayer bpn2551 in Русский (bpn2551) 
+
+[bahaiprayers.net 2551](https://bahaiprayers.net/Book/Single/15/2551)
+
 
 ----
 
@@ -1190,7 +1493,10 @@ bpn2551
 
 -- Abdu'l-Bahá
 
-bpn2552 
+Prayer bpn2552 in Русский (bpn2552) 
+
+[bahaiprayers.net 2552](https://bahaiprayers.net/Book/Single/15/2552)
+
 
 ----
 
@@ -1204,7 +1510,10 @@ bpn2552
 
 -- Bahá'u'lláh
 
-bpn2462 
+Prayer bpn2462 in Русский (bpn2462) 
+
+[bahaiprayers.net 2462](https://bahaiprayers.net/Book/Single/15/2462)
+
 
 ----
 
@@ -1218,7 +1527,10 @@ bpn2462
 
 -- Bahá'u'lláh
 
-bpn2464 
+Prayer bpn2464 in Русский (bpn2464) 
+
+[bahaiprayers.net 2464](https://bahaiprayers.net/Book/Single/15/2464)
+
 
 ----
 
@@ -1228,7 +1540,10 @@ bpn2464
 
 -- Bahá'u'lláh
 
-bpn2465 
+Prayer bpn2465 in Русский (bpn2465) 
+
+[bahaiprayers.net 2465](https://bahaiprayers.net/Book/Single/15/2465)
+
 
 ----
 
@@ -1238,7 +1553,10 @@ bpn2465
 
 -- Abdu'l-Bahá
 
-bpn2469 
+Prayer bpn2469 in Русский (bpn2469) 
+
+[bahaiprayers.net 2469](https://bahaiprayers.net/Book/Single/15/2469)
+
 
 ----
 
@@ -1252,7 +1570,10 @@ bpn2469
 
 -- Bahá'u'lláh
 
-bpn2458 
+Prayer bpn2458 in Русский (bpn2458) 
+
+[bahaiprayers.net 2458](https://bahaiprayers.net/Book/Single/15/2458)
+
 
 ----
 
@@ -1266,7 +1587,10 @@ bpn2458
 
 -- Báb
 
-bpn2559 
+Prayer bpn2559 in Русский (bpn2559) 
+
+[bahaiprayers.net 2559](https://bahaiprayers.net/Book/Single/15/2559)
+
 
 ----
 
@@ -1276,7 +1600,10 @@ bpn2559
 
 -- Báb
 
-bpn2560 
+Prayer bpn2560 in Русский (bpn2560) 
+
+[bahaiprayers.net 2560](https://bahaiprayers.net/Book/Single/15/2560)
+
 
 ----
 
@@ -1286,7 +1613,10 @@ bpn2560
 
 -- Báb
 
-bpn2561 
+Prayer bpn2561 in Русский (bpn2561) 
+
+[bahaiprayers.net 2561](https://bahaiprayers.net/Book/Single/15/2561)
+
 
 ----
 
@@ -1296,7 +1626,10 @@ bpn2561
 
 -- Abdu'l-Bahá
 
-bpn2562 
+Prayer bpn2562 in Русский (bpn2562) 
+
+[bahaiprayers.net 2562](https://bahaiprayers.net/Book/Single/15/2562)
+
 
 ----
 
@@ -1310,7 +1643,10 @@ bpn2562
 
 -- Abdu'l-Bahá
 
-bpn2563 
+Prayer bpn2563 in Русский (bpn2563) 
+
+[bahaiprayers.net 2563](https://bahaiprayers.net/Book/Single/15/2563)
+
 
 ----
 
@@ -1320,7 +1656,10 @@ bpn2563
 
 -- Abdu'l-Bahá
 
-bpn2564 
+Prayer bpn2564 in Русский (bpn2564) 
+
+[bahaiprayers.net 2564](https://bahaiprayers.net/Book/Single/15/2564)
+
 
 ----
 
@@ -1334,7 +1673,10 @@ bpn2564
 
 -- Báb
 
-bpn2565 
+Prayer bpn2565 in Русский (bpn2565) 
+
+[bahaiprayers.net 2565](https://bahaiprayers.net/Book/Single/15/2565)
+
 
 ----
 
@@ -1348,7 +1690,10 @@ bpn2565
 
 -- Bahá'u'lláh
 
-bpn2460 
+Prayer bpn2460 in Русский (bpn2460) 
+
+[bahaiprayers.net 2460](https://bahaiprayers.net/Book/Single/15/2460)
+
 
 ----
 
@@ -1358,7 +1703,10 @@ bpn2460
 
 -- Abdu'l-Bahá
 
-bpn2461 
+Prayer bpn2461 in Русский (bpn2461) 
+
+[bahaiprayers.net 2461](https://bahaiprayers.net/Book/Single/15/2461)
+
 
 ----
 
@@ -1372,7 +1720,10 @@ bpn2461
 
 -- Bahá'u'lláh
 
-bpn2570 
+Prayer bpn2570 in Русский (bpn2570) 
+
+[bahaiprayers.net 2570](https://bahaiprayers.net/Book/Single/15/2570)
+
 
 ----
 
@@ -1382,7 +1733,10 @@ bpn2570
 
 -- Abdu'l-Bahá
 
-bpn2569 
+Prayer bpn2569 in Русский (bpn2569) 
+
+[bahaiprayers.net 2569](https://bahaiprayers.net/Book/Single/15/2569)
+
 
 ----
 
@@ -1392,7 +1746,10 @@ bpn2569
 
 -- Abdu'l-Bahá
 
-bpn2571 
+Prayer bpn2571 in Русский (bpn2571) 
+
+[bahaiprayers.net 2571](https://bahaiprayers.net/Book/Single/15/2571)
+
 
 ----
 
@@ -1402,7 +1759,10 @@ bpn2571
 
 -- Abdu'l-Bahá
 
-bpn2572 
+Prayer bpn2572 in Русский (bpn2572) 
+
+[bahaiprayers.net 2572](https://bahaiprayers.net/Book/Single/15/2572)
+
 
 ----
 
@@ -1412,7 +1772,10 @@ bpn2572
 
 -- Abdu'l-Bahá
 
-bpn2573 
+Prayer bpn2573 in Русский (bpn2573) 
+
+[bahaiprayers.net 2573](https://bahaiprayers.net/Book/Single/15/2573)
+
 
 ----
 
@@ -1426,7 +1789,10 @@ bpn2573
 
 -- Bahá'u'lláh
 
-bpn2467 
+Prayer bpn2467 in Русский (bpn2467) 
+
+[bahaiprayers.net 2467](https://bahaiprayers.net/Book/Single/15/2467)
+
 
 ----
 
@@ -1440,7 +1806,10 @@ bpn2467
 
 -- Bahá'u'lláh
 
-bpn2457 
+Prayer bpn2457 in Русский (bpn2457) 
+
+[bahaiprayers.net 2457](https://bahaiprayers.net/Book/Single/15/2457)
+
 
 ----
 
@@ -1454,7 +1823,10 @@ bpn2457
 
 -- Bahá'u'lláh
 
-bpn2574 
+Prayer bpn2574 in Русский (bpn2574) 
+
+[bahaiprayers.net 2574](https://bahaiprayers.net/Book/Single/15/2574)
+
 
 ----
 
@@ -1464,7 +1836,10 @@ bpn2574
 
 -- Abdu'l-Bahá
 
-bpn2575 
+Prayer bpn2575 in Русский (bpn2575) 
+
+[bahaiprayers.net 2575](https://bahaiprayers.net/Book/Single/15/2575)
+
 
 ----
 
@@ -1474,7 +1849,10 @@ bpn2575
 
 -- Abdu'l-Bahá
 
-bpn2576 
+Prayer bpn2576 in Русский (bpn2576) 
+
+[bahaiprayers.net 2576](https://bahaiprayers.net/Book/Single/15/2576)
+
 
 ----
 
@@ -1484,7 +1862,10 @@ bpn2576
 
 -- Abdu'l-Bahá
 
-bpn2577 
+Prayer bpn2577 in Русский (bpn2577) 
+
+[bahaiprayers.net 2577](https://bahaiprayers.net/Book/Single/15/2577)
+
 
 ----
 
@@ -1498,7 +1879,10 @@ bpn2577
 
 -- Bahá'u'lláh
 
-bpn2578 
+Prayer bpn2578 in Русский (bpn2578) 
+
+[bahaiprayers.net 2578](https://bahaiprayers.net/Book/Single/15/2578)
+
 
 ----
 
@@ -1508,7 +1892,10 @@ bpn2578
 
 -- Báb
 
-bpn2579 
+Prayer bpn2579 in Русский (bpn2579) 
+
+[bahaiprayers.net 2579](https://bahaiprayers.net/Book/Single/15/2579)
+
 
 ----
 
@@ -1522,7 +1909,10 @@ bpn2579
 
 -- Bahá'u'lláh
 
-bpn2580 
+Prayer bpn2580 in Русский (bpn2580) 
+
+[bahaiprayers.net 2580](https://bahaiprayers.net/Book/Single/15/2580)
+
 
 ----
 
@@ -1532,7 +1922,10 @@ bpn2580
 
 -- Bahá'u'lláh
 
-bpn2581 
+Prayer bpn2581 in Русский (bpn2581) 
+
+[bahaiprayers.net 2581](https://bahaiprayers.net/Book/Single/15/2581)
+
 
 ----
 
@@ -1542,7 +1935,10 @@ bpn2581
 
 -- Báb
 
-bpn2582 
+Prayer bpn2582 in Русский (bpn2582) 
+
+[bahaiprayers.net 2582](https://bahaiprayers.net/Book/Single/15/2582)
+
 
 ----
 
@@ -1556,7 +1952,10 @@ bpn2582
 
 -- Bahá'u'lláh
 
-bpn2589 
+Prayer bpn2589 in Русский (bpn2589) 
+
+[bahaiprayers.net 2589](https://bahaiprayers.net/Book/Single/15/2589)
+
 
 ----
 
@@ -1566,7 +1965,10 @@ bpn2589
 
 -- Bahá'u'lláh
 
-bpn2590 
+Prayer bpn2590 in Русский (bpn2590) 
+
+[bahaiprayers.net 2590](https://bahaiprayers.net/Book/Single/15/2590)
+
 
 ----
 
@@ -1580,7 +1982,10 @@ bpn2590
 
 -- Abdu'l-Bahá
 
-bpn2468 
+Prayer bpn2468 in Русский (bpn2468) 
+
+[bahaiprayers.net 2468](https://bahaiprayers.net/Book/Single/15/2468)
+
 
 ----
 
@@ -1594,7 +1999,10 @@ bpn2468
 
 -- Bahá'u'lláh
 
-bpn2591 
+Prayer bpn2591 in Русский (bpn2591) 
+
+[bahaiprayers.net 2591](https://bahaiprayers.net/Book/Single/15/2591)
+
 
 ----
 
@@ -1604,7 +2012,10 @@ bpn2591
 
 -- Bahá'u'lláh
 
-bpn2592 
+Prayer bpn2592 in Русский (bpn2592) 
+
+[bahaiprayers.net 2592](https://bahaiprayers.net/Book/Single/15/2592)
+
 
 ----
 
@@ -1614,7 +2025,10 @@ bpn2592
 
 -- Báb
 
-bpn2593 
+Prayer bpn2593 in Русский (bpn2593) 
+
+[bahaiprayers.net 2593](https://bahaiprayers.net/Book/Single/15/2593)
+
 
 ----
 
@@ -1624,7 +2038,10 @@ bpn2593
 
 -- Báb
 
-bpn2594 
+Prayer bpn2594 in Русский (bpn2594) 
+
+[bahaiprayers.net 2594](https://bahaiprayers.net/Book/Single/15/2594)
+
 
 ----
 
@@ -1638,7 +2055,10 @@ bpn2594
 
 -- Bahá'u'lláh
 
-bpn2595 
+Prayer bpn2595 in Русский (bpn2595) 
+
+[bahaiprayers.net 2595](https://bahaiprayers.net/Book/Single/15/2595)
+
 
 ----
 
@@ -1652,7 +2072,10 @@ bpn2595
 
 -- Bahá'u'lláh
 
-bpn2596 
+Prayer bpn2596 in Русский (bpn2596) 
+
+[bahaiprayers.net 2596](https://bahaiprayers.net/Book/Single/15/2596)
+
 
 ----
 
@@ -1662,7 +2085,10 @@ bpn2596
 
 -- Bahá'u'lláh
 
-bpn2597 
+Prayer bpn2597 in Русский (bpn2597) 
+
+[bahaiprayers.net 2597](https://bahaiprayers.net/Book/Single/15/2597)
+
 
 ----
 
@@ -1672,7 +2098,10 @@ bpn2597
 
 -- Báb
 
-bpn2600 
+Prayer bpn2600 in Русский (bpn2600) 
+
+[bahaiprayers.net 2600](https://bahaiprayers.net/Book/Single/15/2600)
+
 
 ----
 
@@ -1682,7 +2111,10 @@ bpn2600
 
 -- Abdu'l-Bahá
 
-bpn2598 
+Prayer bpn2598 in Русский (bpn2598) 
+
+[bahaiprayers.net 2598](https://bahaiprayers.net/Book/Single/15/2598)
+
 
 ----
 
@@ -1692,7 +2124,10 @@ bpn2598
 
 -- Abdu'l-Bahá
 
-bpn2599 
+Prayer bpn2599 in Русский (bpn2599) 
+
+[bahaiprayers.net 2599](https://bahaiprayers.net/Book/Single/15/2599)
+
 
 ----
 

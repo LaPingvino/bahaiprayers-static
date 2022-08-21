@@ -48,7 +48,10 @@ tags = ['lang=kgf', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn13034 
+Prayer bpn13034 in Kube (bpn13034) 
+
+[bahaiprayers.net 13034](https://bahaiprayers.net/Book/Single/115/13034)
+
 
 ----
 
@@ -62,7 +65,10 @@ bpn13034
 
 -- Abdu'l-Bahá
 
-bpn13039 
+Prayer bpn13039 in Kube (bpn13039) 
+
+[bahaiprayers.net 13039](https://bahaiprayers.net/Book/Single/115/13039)
+
 
 ----
 
@@ -76,7 +82,10 @@ bpn13039
 
 -- Bahá'u'lláh
 
-bpn13038 
+Prayer bpn13038 in Kube (bpn13038) 
+
+[bahaiprayers.net 13038](https://bahaiprayers.net/Book/Single/115/13038)
+
 
 ----
 
@@ -90,7 +99,10 @@ bpn13038
 
 -- Abdu'l-Bahá
 
-bpn13044 
+Prayer bpn13044 in Kube (bpn13044) 
+
+[bahaiprayers.net 13044](https://bahaiprayers.net/Book/Single/115/13044)
+
 
 ----
 
@@ -104,7 +116,10 @@ bpn13044
 
 -- Bahá'u'lláh
 
-bpn13041 
+Prayer bpn13041 in Kube (bpn13041) 
+
+[bahaiprayers.net 13041](https://bahaiprayers.net/Book/Single/115/13041)
+
 
 ----
 
@@ -118,7 +133,10 @@ bpn13041
 
 -- Abdu'l-Bahá
 
-bpn13048 
+Prayer bpn13048 in Kube (bpn13048) 
+
+[bahaiprayers.net 13048](https://bahaiprayers.net/Book/Single/115/13048)
+
 
 ----
 
@@ -132,7 +150,10 @@ bpn13048
 
 -- Báb
 
-bpn13035 
+Prayer bpn13035 in Kube (bpn13035) 
+
+[bahaiprayers.net 13035](https://bahaiprayers.net/Book/Single/115/13035)
+
 
 ----
 
@@ -146,7 +167,10 @@ bpn13035
 
 -- Abdu'l-Bahá
 
-bpn13040 
+Prayer bpn13040 in Kube (bpn13040) 
+
+[bahaiprayers.net 13040](https://bahaiprayers.net/Book/Single/115/13040)
+
 
 ----
 
@@ -160,7 +184,10 @@ bpn13040
 
 -- Abdu'l-Bahá
 
-bpn13042 
+Prayer bpn13042 in Kube (bpn13042) 
+
+[bahaiprayers.net 13042](https://bahaiprayers.net/Book/Single/115/13042)
+
 
 ----
 
@@ -174,7 +201,10 @@ bpn13042
 
 -- Bahá'u'lláh
 
-bpn13036 
+Prayer bpn13036 in Kube (bpn13036) 
+
+[bahaiprayers.net 13036](https://bahaiprayers.net/Book/Single/115/13036)
+
 
 ----
 
@@ -188,7 +218,10 @@ bpn13036
 
 -- Abdu'l-Bahá
 
-bpn13046 
+Prayer bpn13046 in Kube (bpn13046) 
+
+[bahaiprayers.net 13046](https://bahaiprayers.net/Book/Single/115/13046)
+
 
 ----
 
@@ -202,7 +235,10 @@ bpn13046
 
 -- Bahá'u'lláh
 
-bpn13045 
+Prayer bpn13045 in Kube (bpn13045) 
+
+[bahaiprayers.net 13045](https://bahaiprayers.net/Book/Single/115/13045)
+
 
 ----
 
@@ -216,7 +252,10 @@ bpn13045
 
 -- Bahá'u'lláh
 
-bpn13047 
+Prayer bpn13047 in Kube (bpn13047) 
+
+[bahaiprayers.net 13047](https://bahaiprayers.net/Book/Single/115/13047)
+
 
 ----
 
@@ -230,7 +269,10 @@ bpn13047
 
 -- Bahá'u'lláh
 
-bpn13033 
+Prayer bpn13033 in Kube (bpn13033) 
+
+[bahaiprayers.net 13033](https://bahaiprayers.net/Book/Single/115/13033)
+
 
 ----
 
@@ -244,7 +286,10 @@ bpn13033
 
 -- Bahá'u'lláh
 
-bpn13043 
+Prayer bpn13043 in Kube (bpn13043) 
+
+[bahaiprayers.net 13043](https://bahaiprayers.net/Book/Single/115/13043)
+
 
 ----
 
@@ -258,7 +303,10 @@ bpn13043
 
 -- Bahá'u'lláh
 
-bpn13037 
+Prayer bpn13037 in Kube (bpn13037) 
+
+[bahaiprayers.net 13037](https://bahaiprayers.net/Book/Single/115/13037)
+
 
 ----
 

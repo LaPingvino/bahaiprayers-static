@@ -112,7 +112,10 @@ tags = ['lang=id', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn5092 
+Prayer bpn5092 in Bahasa Indonesia (bpn5092) 
+
+[bahaiprayers.net 5092](https://bahaiprayers.net/Book/Single/40/5092)
+
 
 ----
 
@@ -122,7 +125,10 @@ bpn5092
 
 -- Abdu'l-Bahá
 
-bpn5093 
+Prayer bpn5093 in Bahasa Indonesia (bpn5093) 
+
+[bahaiprayers.net 5093](https://bahaiprayers.net/Book/Single/40/5093)
+
 
 ----
 
@@ -132,7 +138,10 @@ bpn5093
 
 -- Abdu'l-Bahá
 
-bpn5094 
+Prayer bpn5094 in Bahasa Indonesia (bpn5094) 
+
+[bahaiprayers.net 5094](https://bahaiprayers.net/Book/Single/40/5094)
+
 
 ----
 
@@ -142,7 +151,10 @@ bpn5094
 
 -- Abdu'l-Bahá
 
-bpn5095 
+Prayer bpn5095 in Bahasa Indonesia (bpn5095) 
+
+[bahaiprayers.net 5095](https://bahaiprayers.net/Book/Single/40/5095)
+
 
 ----
 
@@ -152,7 +164,10 @@ bpn5095
 
 -- Abdu'l-Bahá
 
-bpn5096 
+Prayer bpn5096 in Bahasa Indonesia (bpn5096) 
+
+[bahaiprayers.net 5096](https://bahaiprayers.net/Book/Single/40/5096)
+
 
 ----
 
@@ -162,7 +177,10 @@ bpn5096
 
 -- Abdu'l-Bahá
 
-bpn5097 
+Prayer bpn5097 in Bahasa Indonesia (bpn5097) 
+
+[bahaiprayers.net 5097](https://bahaiprayers.net/Book/Single/40/5097)
+
 
 ----
 
@@ -172,7 +190,10 @@ bpn5097
 
 -- Abdu'l-Bahá
 
-bpn5098 
+Prayer bpn5098 in Bahasa Indonesia (bpn5098) 
+
+[bahaiprayers.net 5098](https://bahaiprayers.net/Book/Single/40/5098)
+
 
 ----
 
@@ -182,7 +203,10 @@ bpn5098
 
 -- Abdu'l-Bahá
 
-bpn5099 
+Prayer bpn5099 in Bahasa Indonesia (bpn5099) 
+
+[bahaiprayers.net 5099](https://bahaiprayers.net/Book/Single/40/5099)
+
 
 ----
 
@@ -192,7 +216,10 @@ bpn5099
 
 -- Abdu'l-Bahá
 
-bpn5100 
+Prayer bpn5100 in Bahasa Indonesia (bpn5100) 
+
+[bahaiprayers.net 5100](https://bahaiprayers.net/Book/Single/40/5100)
+
 
 ----
 
@@ -206,7 +233,10 @@ bpn5100
 
 -- Abdu'l-Bahá
 
-bpn5133 
+Prayer bpn5133 in Bahasa Indonesia (bpn5133) 
+
+[bahaiprayers.net 5133](https://bahaiprayers.net/Book/Single/40/5133)
+
 
 ----
 
@@ -216,7 +246,10 @@ bpn5133
 
 -- Abdu'l-Bahá
 
-bpn5134 
+Prayer bpn5134 in Bahasa Indonesia (bpn5134) 
+
+[bahaiprayers.net 5134](https://bahaiprayers.net/Book/Single/40/5134)
+
 
 ----
 
@@ -226,7 +259,10 @@ bpn5134
 
 -- Abdu'l-Bahá
 
-bpn5135 
+Prayer bpn5135 in Bahasa Indonesia (bpn5135) 
+
+[bahaiprayers.net 5135](https://bahaiprayers.net/Book/Single/40/5135)
+
 
 ----
 
@@ -236,7 +272,10 @@ bpn5135
 
 -- Abdu'l-Bahá
 
-bpn5136 
+Prayer bpn5136 in Bahasa Indonesia (bpn5136) 
+
+[bahaiprayers.net 5136](https://bahaiprayers.net/Book/Single/40/5136)
+
 
 ----
 
@@ -246,7 +285,10 @@ bpn5136
 
 -- Abdu'l-Bahá
 
-bpn5137 
+Prayer bpn5137 in Bahasa Indonesia (bpn5137) 
+
+[bahaiprayers.net 5137](https://bahaiprayers.net/Book/Single/40/5137)
+
 
 ----
 
@@ -260,7 +302,10 @@ bpn5137
 
 -- Bahá'u'lláh
 
-bpn5208 
+Prayer bpn5208 in Bahasa Indonesia (bpn5208) 
+
+[bahaiprayers.net 5208](https://bahaiprayers.net/Book/Single/40/5208)
+
 
 ----
 
@@ -274,7 +319,10 @@ bpn5208
 
 -- Bahá'u'lláh
 
-bpn5101 
+Prayer bpn5101 in Bahasa Indonesia (bpn5101) 
+
+[bahaiprayers.net 5101](https://bahaiprayers.net/Book/Single/40/5101)
+
 
 ----
 
@@ -284,7 +332,10 @@ bpn5101
 
 -- Abdu'l-Bahá
 
-bpn5102 
+Prayer bpn5102 in Bahasa Indonesia (bpn5102) 
+
+[bahaiprayers.net 5102](https://bahaiprayers.net/Book/Single/40/5102)
+
 
 ----
 
@@ -294,7 +345,10 @@ bpn5102
 
 -- Abdu'l-Bahá
 
-bpn5103 
+Prayer bpn5103 in Bahasa Indonesia (bpn5103) 
+
+[bahaiprayers.net 5103](https://bahaiprayers.net/Book/Single/40/5103)
+
 
 ----
 
@@ -308,7 +362,10 @@ bpn5103
 
 -- Bahá'u'lláh
 
-bpn5104 
+Prayer bpn5104 in Bahasa Indonesia (bpn5104) 
+
+[bahaiprayers.net 5104](https://bahaiprayers.net/Book/Single/40/5104)
+
 
 ----
 
@@ -318,7 +375,10 @@ bpn5104
 
 -- Bahá'u'lláh
 
-bpn5105 
+Prayer bpn5105 in Bahasa Indonesia (bpn5105) 
+
+[bahaiprayers.net 5105](https://bahaiprayers.net/Book/Single/40/5105)
+
 
 ----
 
@@ -328,7 +388,10 @@ bpn5105
 
 -- Abdu'l-Bahá
 
-bpn5106 
+Prayer bpn5106 in Bahasa Indonesia (bpn5106) 
+
+[bahaiprayers.net 5106](https://bahaiprayers.net/Book/Single/40/5106)
+
 
 ----
 
@@ -342,7 +405,10 @@ bpn5106
 
 -- Bahá'u'lláh
 
-bpn5126 
+Prayer bpn5126 in Bahasa Indonesia (bpn5126) 
+
+[bahaiprayers.net 5126](https://bahaiprayers.net/Book/Single/40/5126)
+
 
 ----
 
@@ -356,7 +422,10 @@ bpn5126
 
 -- Bahá'u'lláh
 
-bpn5107 
+Prayer bpn5107 in Bahasa Indonesia (bpn5107) 
+
+[bahaiprayers.net 5107](https://bahaiprayers.net/Book/Single/40/5107)
+
 
 ----
 
@@ -366,7 +435,10 @@ bpn5107
 
 -- Bahá'u'lláh
 
-bpn5108 
+Prayer bpn5108 in Bahasa Indonesia (bpn5108) 
+
+[bahaiprayers.net 5108](https://bahaiprayers.net/Book/Single/40/5108)
+
 
 ----
 
@@ -376,7 +448,10 @@ bpn5108
 
 -- Báb
 
-bpn5109 
+Prayer bpn5109 in Bahasa Indonesia (bpn5109) 
+
+[bahaiprayers.net 5109](https://bahaiprayers.net/Book/Single/40/5109)
+
 
 ----
 
@@ -386,7 +461,10 @@ bpn5109
 
 -- Abdu'l-Bahá
 
-bpn5110 
+Prayer bpn5110 in Bahasa Indonesia (bpn5110) 
+
+[bahaiprayers.net 5110](https://bahaiprayers.net/Book/Single/40/5110)
+
 
 ----
 
@@ -400,7 +478,10 @@ bpn5110
 
 -- Abdu'l-Bahá
 
-bpn5207 
+Prayer bpn5207 in Bahasa Indonesia (bpn5207) 
+
+[bahaiprayers.net 5207](https://bahaiprayers.net/Book/Single/40/5207)
+
 
 ----
 
@@ -414,7 +495,10 @@ bpn5207
 
 -- Bahá'u'lláh
 
-bpn5138 
+Prayer bpn5138 in Bahasa Indonesia (bpn5138) 
+
+[bahaiprayers.net 5138](https://bahaiprayers.net/Book/Single/40/5138)
+
 
 ----
 
@@ -424,7 +508,10 @@ bpn5138
 
 -- Bahá'u'lláh
 
-bpn5139 
+Prayer bpn5139 in Bahasa Indonesia (bpn5139) 
+
+[bahaiprayers.net 5139](https://bahaiprayers.net/Book/Single/40/5139)
+
 
 ----
 
@@ -434,7 +521,10 @@ bpn5139
 
 -- Bahá'u'lláh
 
-bpn5140 
+Prayer bpn5140 in Bahasa Indonesia (bpn5140) 
+
+[bahaiprayers.net 5140](https://bahaiprayers.net/Book/Single/40/5140)
+
 
 ----
 
@@ -448,7 +538,10 @@ bpn5140
 
 -- Abdu'l-Bahá
 
-bpn5111 
+Prayer bpn5111 in Bahasa Indonesia (bpn5111) 
+
+[bahaiprayers.net 5111](https://bahaiprayers.net/Book/Single/40/5111)
+
 
 ----
 
@@ -458,7 +551,10 @@ bpn5111
 
 -- Abdu'l-Bahá
 
-bpn5112 
+Prayer bpn5112 in Bahasa Indonesia (bpn5112) 
+
+[bahaiprayers.net 5112](https://bahaiprayers.net/Book/Single/40/5112)
+
 
 ----
 
@@ -472,7 +568,10 @@ bpn5112
 
 -- Abdu'l-Bahá
 
-bpn5113 
+Prayer bpn5113 in Bahasa Indonesia (bpn5113) 
+
+[bahaiprayers.net 5113](https://bahaiprayers.net/Book/Single/40/5113)
+
 
 ----
 
@@ -482,7 +581,10 @@ bpn5113
 
 -- Abdu'l-Bahá
 
-bpn5114 
+Prayer bpn5114 in Bahasa Indonesia (bpn5114) 
+
+[bahaiprayers.net 5114](https://bahaiprayers.net/Book/Single/40/5114)
+
 
 ----
 
@@ -492,7 +594,10 @@ bpn5114
 
 -- Abdu'l-Bahá
 
-bpn5115 
+Prayer bpn5115 in Bahasa Indonesia (bpn5115) 
+
+[bahaiprayers.net 5115](https://bahaiprayers.net/Book/Single/40/5115)
+
 
 ----
 
@@ -506,7 +611,10 @@ bpn5115
 
 -- Bahá'u'lláh
 
-bpn5116 
+Prayer bpn5116 in Bahasa Indonesia (bpn5116) 
+
+[bahaiprayers.net 5116](https://bahaiprayers.net/Book/Single/40/5116)
+
 
 ----
 
@@ -516,7 +624,10 @@ bpn5116
 
 -- Báb
 
-bpn5117 
+Prayer bpn5117 in Bahasa Indonesia (bpn5117) 
+
+[bahaiprayers.net 5117](https://bahaiprayers.net/Book/Single/40/5117)
+
 
 ----
 
@@ -530,7 +641,10 @@ bpn5117
 
 -- Báb
 
-bpn5118 
+Prayer bpn5118 in Bahasa Indonesia (bpn5118) 
+
+[bahaiprayers.net 5118](https://bahaiprayers.net/Book/Single/40/5118)
+
 
 ----
 
@@ -544,7 +658,10 @@ bpn5118
 
 -- Bahá'u'lláh
 
-bpn5201 
+Prayer bpn5201 in Bahasa Indonesia (bpn5201) 
+
+[bahaiprayers.net 5201](https://bahaiprayers.net/Book/Single/40/5201)
+
 
 ----
 
@@ -558,7 +675,10 @@ bpn5201
 
 -- Abdu'l-Bahá
 
-bpn5119 
+Prayer bpn5119 in Bahasa Indonesia (bpn5119) 
+
+[bahaiprayers.net 5119](https://bahaiprayers.net/Book/Single/40/5119)
+
 
 ----
 
@@ -572,7 +692,10 @@ bpn5119
 
 -- Bahá'u'lláh
 
-bpn5120 
+Prayer bpn5120 in Bahasa Indonesia (bpn5120) 
+
+[bahaiprayers.net 5120](https://bahaiprayers.net/Book/Single/40/5120)
+
 
 ----
 
@@ -582,7 +705,10 @@ bpn5120
 
 -- Bahá'u'lláh
 
-bpn5121 
+Prayer bpn5121 in Bahasa Indonesia (bpn5121) 
+
+[bahaiprayers.net 5121](https://bahaiprayers.net/Book/Single/40/5121)
+
 
 ----
 
@@ -592,7 +718,10 @@ bpn5121
 
 -- Bahá'u'lláh
 
-bpn5122 
+Prayer bpn5122 in Bahasa Indonesia (bpn5122) 
+
+[bahaiprayers.net 5122](https://bahaiprayers.net/Book/Single/40/5122)
+
 
 ----
 
@@ -602,7 +731,10 @@ bpn5122
 
 -- Bahá'u'lláh
 
-bpn5123 
+Prayer bpn5123 in Bahasa Indonesia (bpn5123) 
+
+[bahaiprayers.net 5123](https://bahaiprayers.net/Book/Single/40/5123)
+
 
 ----
 
@@ -612,7 +744,10 @@ bpn5123
 
 -- Abdu'l-Bahá
 
-bpn5124 
+Prayer bpn5124 in Bahasa Indonesia (bpn5124) 
+
+[bahaiprayers.net 5124](https://bahaiprayers.net/Book/Single/40/5124)
+
 
 ----
 
@@ -622,7 +757,10 @@ bpn5124
 
 -- Abdu'l-Bahá
 
-bpn5125 
+Prayer bpn5125 in Bahasa Indonesia (bpn5125) 
+
+[bahaiprayers.net 5125](https://bahaiprayers.net/Book/Single/40/5125)
+
 
 ----
 
@@ -636,7 +774,10 @@ bpn5125
 
 -- Bahá'u'lláh
 
-bpn5127 
+Prayer bpn5127 in Bahasa Indonesia (bpn5127) 
+
+[bahaiprayers.net 5127](https://bahaiprayers.net/Book/Single/40/5127)
+
 
 ----
 
@@ -646,7 +787,10 @@ bpn5127
 
 -- Bahá'u'lláh
 
-bpn5128 
+Prayer bpn5128 in Bahasa Indonesia (bpn5128) 
+
+[bahaiprayers.net 5128](https://bahaiprayers.net/Book/Single/40/5128)
+
 
 ----
 
@@ -656,7 +800,10 @@ bpn5128
 
 -- Bahá'u'lláh
 
-bpn5129 
+Prayer bpn5129 in Bahasa Indonesia (bpn5129) 
+
+[bahaiprayers.net 5129](https://bahaiprayers.net/Book/Single/40/5129)
+
 
 ----
 
@@ -670,7 +817,10 @@ bpn5129
 
 -- Bahá'u'lláh
 
-bpn5202 
+Prayer bpn5202 in Bahasa Indonesia (bpn5202) 
+
+[bahaiprayers.net 5202](https://bahaiprayers.net/Book/Single/40/5202)
+
 
 ----
 
@@ -684,7 +834,10 @@ bpn5202
 
 -- Bahá'u'lláh
 
-bpn5203 
+Prayer bpn5203 in Bahasa Indonesia (bpn5203) 
+
+[bahaiprayers.net 5203](https://bahaiprayers.net/Book/Single/40/5203)
+
 
 ----
 
@@ -698,7 +851,10 @@ bpn5203
 
 -- Bahá'u'lláh
 
-bpn5216 
+Prayer bpn5216 in Bahasa Indonesia (bpn5216) 
+
+[bahaiprayers.net 5216](https://bahaiprayers.net/Book/Single/40/5216)
+
 
 ----
 
@@ -712,7 +868,10 @@ bpn5216
 
 -- Bahá'u'lláh
 
-bpn5204 
+Prayer bpn5204 in Bahasa Indonesia (bpn5204) 
+
+[bahaiprayers.net 5204](https://bahaiprayers.net/Book/Single/40/5204)
+
 
 ----
 
@@ -726,7 +885,10 @@ bpn5204
 
 -- Bahá'u'lláh
 
-bpn5205 
+Prayer bpn5205 in Bahasa Indonesia (bpn5205) 
+
+[bahaiprayers.net 5205](https://bahaiprayers.net/Book/Single/40/5205)
+
 
 ----
 
@@ -740,7 +902,10 @@ bpn5205
 
 -- Bahá'u'lláh
 
-bpn5206 
+Prayer bpn5206 in Bahasa Indonesia (bpn5206) 
+
+[bahaiprayers.net 5206](https://bahaiprayers.net/Book/Single/40/5206)
+
 
 ----
 
@@ -754,7 +919,10 @@ bpn5206
 
 -- Bahá'u'lláh
 
-bpn5130 
+Prayer bpn5130 in Bahasa Indonesia (bpn5130) 
+
+[bahaiprayers.net 5130](https://bahaiprayers.net/Book/Single/40/5130)
+
 
 ----
 
@@ -764,7 +932,10 @@ bpn5130
 
 -- Bahá'u'lláh
 
-bpn5131 
+Prayer bpn5131 in Bahasa Indonesia (bpn5131) 
+
+[bahaiprayers.net 5131](https://bahaiprayers.net/Book/Single/40/5131)
+
 
 ----
 
@@ -778,7 +949,10 @@ bpn5131
 
 -- Bahá'u'lláh
 
-bpn5215 
+Prayer bpn5215 in Bahasa Indonesia (bpn5215) 
+
+[bahaiprayers.net 5215](https://bahaiprayers.net/Book/Single/40/5215)
+
 
 ----
 
@@ -792,7 +966,10 @@ bpn5215
 
 -- Bahá'u'lláh
 
-bpn5141 
+Prayer bpn5141 in Bahasa Indonesia (bpn5141) 
+
+[bahaiprayers.net 5141](https://bahaiprayers.net/Book/Single/40/5141)
+
 
 ----
 
@@ -802,7 +979,10 @@ bpn5141
 
 -- Báb
 
-bpn5142 
+Prayer bpn5142 in Bahasa Indonesia (bpn5142) 
+
+[bahaiprayers.net 5142](https://bahaiprayers.net/Book/Single/40/5142)
+
 
 ----
 
@@ -812,7 +992,10 @@ bpn5142
 
 -- Abdu'l-Bahá
 
-bpn5143 
+Prayer bpn5143 in Bahasa Indonesia (bpn5143) 
+
+[bahaiprayers.net 5143](https://bahaiprayers.net/Book/Single/40/5143)
+
 
 ----
 
@@ -826,7 +1009,10 @@ bpn5143
 
 -- Bahá'u'lláh
 
-bpn5144 
+Prayer bpn5144 in Bahasa Indonesia (bpn5144) 
+
+[bahaiprayers.net 5144](https://bahaiprayers.net/Book/Single/40/5144)
+
 
 ----
 
@@ -836,7 +1022,10 @@ bpn5144
 
 -- Bahá'u'lláh
 
-bpn5146 
+Prayer bpn5146 in Bahasa Indonesia (bpn5146) 
+
+[bahaiprayers.net 5146](https://bahaiprayers.net/Book/Single/40/5146)
+
 
 ----
 
@@ -846,7 +1035,10 @@ bpn5146
 
 -- Bahá'u'lláh
 
-bpn5147 
+Prayer bpn5147 in Bahasa Indonesia (bpn5147) 
+
+[bahaiprayers.net 5147](https://bahaiprayers.net/Book/Single/40/5147)
+
 
 ----
 
@@ -856,7 +1048,10 @@ bpn5147
 
 -- Abdu'l-Bahá
 
-bpn5145 
+Prayer bpn5145 in Bahasa Indonesia (bpn5145) 
+
+[bahaiprayers.net 5145](https://bahaiprayers.net/Book/Single/40/5145)
+
 
 ----
 
@@ -870,7 +1065,10 @@ bpn5145
 
 -- Bahá'u'lláh
 
-bpn5148 
+Prayer bpn5148 in Bahasa Indonesia (bpn5148) 
+
+[bahaiprayers.net 5148](https://bahaiprayers.net/Book/Single/40/5148)
+
 
 ----
 
@@ -880,7 +1078,10 @@ bpn5148
 
 -- Bahá'u'lláh
 
-bpn5149 
+Prayer bpn5149 in Bahasa Indonesia (bpn5149) 
+
+[bahaiprayers.net 5149](https://bahaiprayers.net/Book/Single/40/5149)
+
 
 ----
 
@@ -890,7 +1091,10 @@ bpn5149
 
 -- Bahá'u'lláh
 
-bpn5150 
+Prayer bpn5150 in Bahasa Indonesia (bpn5150) 
+
+[bahaiprayers.net 5150](https://bahaiprayers.net/Book/Single/40/5150)
+
 
 ----
 
@@ -904,7 +1108,10 @@ bpn5150
 
 -- Abdu'l-Bahá
 
-bpn5151 
+Prayer bpn5151 in Bahasa Indonesia (bpn5151) 
+
+[bahaiprayers.net 5151](https://bahaiprayers.net/Book/Single/40/5151)
+
 
 ----
 
@@ -918,7 +1125,10 @@ bpn5151
 
 -- Bahá'u'lláh
 
-bpn5152 
+Prayer bpn5152 in Bahasa Indonesia (bpn5152) 
+
+[bahaiprayers.net 5152](https://bahaiprayers.net/Book/Single/40/5152)
+
 
 ----
 
@@ -928,7 +1138,10 @@ bpn5152
 
 -- Bahá'u'lláh
 
-bpn5153 
+Prayer bpn5153 in Bahasa Indonesia (bpn5153) 
+
+[bahaiprayers.net 5153](https://bahaiprayers.net/Book/Single/40/5153)
+
 
 ----
 
@@ -938,7 +1151,10 @@ bpn5153
 
 -- Bahá'u'lláh
 
-bpn5154 
+Prayer bpn5154 in Bahasa Indonesia (bpn5154) 
+
+[bahaiprayers.net 5154](https://bahaiprayers.net/Book/Single/40/5154)
+
 
 ----
 
@@ -948,7 +1164,10 @@ bpn5154
 
 -- Bahá'u'lláh
 
-bpn5155 
+Prayer bpn5155 in Bahasa Indonesia (bpn5155) 
+
+[bahaiprayers.net 5155](https://bahaiprayers.net/Book/Single/40/5155)
+
 
 ----
 
@@ -958,7 +1177,10 @@ bpn5155
 
 -- Bahá'u'lláh
 
-bpn5158 
+Prayer bpn5158 in Bahasa Indonesia (bpn5158) 
+
+[bahaiprayers.net 5158](https://bahaiprayers.net/Book/Single/40/5158)
+
 
 ----
 
@@ -968,7 +1190,10 @@ bpn5158
 
 -- Bahá'u'lláh
 
-bpn5159 
+Prayer bpn5159 in Bahasa Indonesia (bpn5159) 
+
+[bahaiprayers.net 5159](https://bahaiprayers.net/Book/Single/40/5159)
+
 
 ----
 
@@ -978,7 +1203,10 @@ bpn5159
 
 -- Bahá'u'lláh
 
-bpn5160 
+Prayer bpn5160 in Bahasa Indonesia (bpn5160) 
+
+[bahaiprayers.net 5160](https://bahaiprayers.net/Book/Single/40/5160)
+
 
 ----
 
@@ -988,7 +1216,10 @@ bpn5160
 
 -- Bahá'u'lláh
 
-bpn5161 
+Prayer bpn5161 in Bahasa Indonesia (bpn5161) 
+
+[bahaiprayers.net 5161](https://bahaiprayers.net/Book/Single/40/5161)
+
 
 ----
 
@@ -998,7 +1229,10 @@ bpn5161
 
 -- Báb
 
-bpn5156 
+Prayer bpn5156 in Bahasa Indonesia (bpn5156) 
+
+[bahaiprayers.net 5156](https://bahaiprayers.net/Book/Single/40/5156)
+
 
 ----
 
@@ -1008,7 +1242,10 @@ bpn5156
 
 -- Abdu'l-Bahá
 
-bpn5157 
+Prayer bpn5157 in Bahasa Indonesia (bpn5157) 
+
+[bahaiprayers.net 5157](https://bahaiprayers.net/Book/Single/40/5157)
+
 
 ----
 
@@ -1022,7 +1259,10 @@ bpn5157
 
 -- Bahá'u'lláh
 
-bpn5162 
+Prayer bpn5162 in Bahasa Indonesia (bpn5162) 
+
+[bahaiprayers.net 5162](https://bahaiprayers.net/Book/Single/40/5162)
+
 
 ----
 
@@ -1032,7 +1272,10 @@ bpn5162
 
 -- Bahá'u'lláh
 
-bpn5163 
+Prayer bpn5163 in Bahasa Indonesia (bpn5163) 
+
+[bahaiprayers.net 5163](https://bahaiprayers.net/Book/Single/40/5163)
+
 
 ----
 
@@ -1046,7 +1289,10 @@ bpn5163
 
 -- Bahá'u'lláh
 
-bpn5164 
+Prayer bpn5164 in Bahasa Indonesia (bpn5164) 
+
+[bahaiprayers.net 5164](https://bahaiprayers.net/Book/Single/40/5164)
+
 
 ----
 
@@ -1056,7 +1302,10 @@ bpn5164
 
 -- Abdu'l-Bahá
 
-bpn5165 
+Prayer bpn5165 in Bahasa Indonesia (bpn5165) 
+
+[bahaiprayers.net 5165](https://bahaiprayers.net/Book/Single/40/5165)
+
 
 ----
 
@@ -1066,7 +1315,10 @@ bpn5165
 
 -- Abdu'l-Bahá
 
-bpn5166 
+Prayer bpn5166 in Bahasa Indonesia (bpn5166) 
+
+[bahaiprayers.net 5166](https://bahaiprayers.net/Book/Single/40/5166)
+
 
 ----
 
@@ -1080,7 +1332,10 @@ bpn5166
 
 -- Bahá'u'lláh
 
-bpn5167 
+Prayer bpn5167 in Bahasa Indonesia (bpn5167) 
+
+[bahaiprayers.net 5167](https://bahaiprayers.net/Book/Single/40/5167)
+
 
 ----
 
@@ -1090,7 +1345,10 @@ bpn5167
 
 -- Bahá'u'lláh
 
-bpn5168 
+Prayer bpn5168 in Bahasa Indonesia (bpn5168) 
+
+[bahaiprayers.net 5168](https://bahaiprayers.net/Book/Single/40/5168)
+
 
 ----
 
@@ -1100,7 +1358,10 @@ bpn5168
 
 -- Abdu'l-Bahá
 
-bpn5169 
+Prayer bpn5169 in Bahasa Indonesia (bpn5169) 
+
+[bahaiprayers.net 5169](https://bahaiprayers.net/Book/Single/40/5169)
+
 
 ----
 
@@ -1114,7 +1375,10 @@ bpn5169
 
 -- Bahá'u'lláh
 
-bpn5170 
+Prayer bpn5170 in Bahasa Indonesia (bpn5170) 
+
+[bahaiprayers.net 5170](https://bahaiprayers.net/Book/Single/40/5170)
+
 
 ----
 
@@ -1124,7 +1388,10 @@ bpn5170
 
 -- Bahá'u'lláh
 
-bpn5171 
+Prayer bpn5171 in Bahasa Indonesia (bpn5171) 
+
+[bahaiprayers.net 5171](https://bahaiprayers.net/Book/Single/40/5171)
+
 
 ----
 
@@ -1134,7 +1401,10 @@ bpn5171
 
 -- Abdu'l-Bahá
 
-bpn5172 
+Prayer bpn5172 in Bahasa Indonesia (bpn5172) 
+
+[bahaiprayers.net 5172](https://bahaiprayers.net/Book/Single/40/5172)
+
 
 ----
 
@@ -1148,7 +1418,10 @@ bpn5172
 
 -- Bahá'u'lláh
 
-bpn5173 
+Prayer bpn5173 in Bahasa Indonesia (bpn5173) 
+
+[bahaiprayers.net 5173](https://bahaiprayers.net/Book/Single/40/5173)
+
 
 ----
 
@@ -1158,7 +1431,10 @@ bpn5173
 
 -- Abdu'l-Bahá
 
-bpn5174 
+Prayer bpn5174 in Bahasa Indonesia (bpn5174) 
+
+[bahaiprayers.net 5174](https://bahaiprayers.net/Book/Single/40/5174)
+
 
 ----
 
@@ -1168,7 +1444,10 @@ bpn5174
 
 -- Abdu'l-Bahá
 
-bpn5175 
+Prayer bpn5175 in Bahasa Indonesia (bpn5175) 
+
+[bahaiprayers.net 5175](https://bahaiprayers.net/Book/Single/40/5175)
+
 
 ----
 
@@ -1178,7 +1457,10 @@ bpn5175
 
 -- Abdu'l-Bahá
 
-bpn5176 
+Prayer bpn5176 in Bahasa Indonesia (bpn5176) 
+
+[bahaiprayers.net 5176](https://bahaiprayers.net/Book/Single/40/5176)
+
 
 ----
 
@@ -1192,7 +1474,10 @@ bpn5176
 
 -- Bahá'u'lláh
 
-bpn5177 
+Prayer bpn5177 in Bahasa Indonesia (bpn5177) 
+
+[bahaiprayers.net 5177](https://bahaiprayers.net/Book/Single/40/5177)
+
 
 ----
 
@@ -1202,7 +1487,10 @@ bpn5177
 
 -- Bahá'u'lláh
 
-bpn5178 
+Prayer bpn5178 in Bahasa Indonesia (bpn5178) 
+
+[bahaiprayers.net 5178](https://bahaiprayers.net/Book/Single/40/5178)
+
 
 ----
 
@@ -1212,7 +1500,10 @@ bpn5178
 
 -- Bahá'u'lláh
 
-bpn5179 
+Prayer bpn5179 in Bahasa Indonesia (bpn5179) 
+
+[bahaiprayers.net 5179](https://bahaiprayers.net/Book/Single/40/5179)
+
 
 ----
 
@@ -1222,7 +1513,10 @@ bpn5179
 
 -- Báb
 
-bpn5180 
+Prayer bpn5180 in Bahasa Indonesia (bpn5180) 
+
+[bahaiprayers.net 5180](https://bahaiprayers.net/Book/Single/40/5180)
+
 
 ----
 
@@ -1232,7 +1526,10 @@ bpn5180
 
 -- Báb
 
-bpn5181 
+Prayer bpn5181 in Bahasa Indonesia (bpn5181) 
+
+[bahaiprayers.net 5181](https://bahaiprayers.net/Book/Single/40/5181)
+
 
 ----
 
@@ -1242,7 +1539,10 @@ bpn5181
 
 -- Báb
 
-bpn5182 
+Prayer bpn5182 in Bahasa Indonesia (bpn5182) 
+
+[bahaiprayers.net 5182](https://bahaiprayers.net/Book/Single/40/5182)
+
 
 ----
 
@@ -1256,7 +1556,10 @@ bpn5182
 
 -- Bahá'u'lláh
 
-bpn5183 
+Prayer bpn5183 in Bahasa Indonesia (bpn5183) 
+
+[bahaiprayers.net 5183](https://bahaiprayers.net/Book/Single/40/5183)
+
 
 ----
 
@@ -1266,7 +1569,10 @@ bpn5183
 
 -- Bahá'u'lláh
 
-bpn5184 
+Prayer bpn5184 in Bahasa Indonesia (bpn5184) 
+
+[bahaiprayers.net 5184](https://bahaiprayers.net/Book/Single/40/5184)
+
 
 ----
 
@@ -1276,7 +1582,10 @@ bpn5184
 
 -- Bahá'u'lláh
 
-bpn5185 
+Prayer bpn5185 in Bahasa Indonesia (bpn5185) 
+
+[bahaiprayers.net 5185](https://bahaiprayers.net/Book/Single/40/5185)
+
 
 ----
 
@@ -1286,7 +1595,10 @@ bpn5185
 
 -- Bahá'u'lláh
 
-bpn5186 
+Prayer bpn5186 in Bahasa Indonesia (bpn5186) 
+
+[bahaiprayers.net 5186](https://bahaiprayers.net/Book/Single/40/5186)
+
 
 ----
 
@@ -1296,7 +1608,10 @@ bpn5186
 
 -- Bahá'u'lláh
 
-bpn5187 
+Prayer bpn5187 in Bahasa Indonesia (bpn5187) 
+
+[bahaiprayers.net 5187](https://bahaiprayers.net/Book/Single/40/5187)
+
 
 ----
 
@@ -1306,7 +1621,10 @@ bpn5187
 
 -- Bahá'u'lláh
 
-bpn5188 
+Prayer bpn5188 in Bahasa Indonesia (bpn5188) 
+
+[bahaiprayers.net 5188](https://bahaiprayers.net/Book/Single/40/5188)
+
 
 ----
 
@@ -1320,7 +1638,10 @@ bpn5188
 
 -- Bahá'u'lláh
 
-bpn5209 
+Prayer bpn5209 in Bahasa Indonesia (bpn5209) 
+
+[bahaiprayers.net 5209](https://bahaiprayers.net/Book/Single/40/5209)
+
 
 ----
 
@@ -1330,7 +1651,10 @@ bpn5209
 
 -- Bahá'u'lláh
 
-bpn5210 
+Prayer bpn5210 in Bahasa Indonesia (bpn5210) 
+
+[bahaiprayers.net 5210](https://bahaiprayers.net/Book/Single/40/5210)
+
 
 ----
 
@@ -1340,7 +1664,10 @@ bpn5210
 
 -- Bahá'u'lláh
 
-bpn5211 
+Prayer bpn5211 in Bahasa Indonesia (bpn5211) 
+
+[bahaiprayers.net 5211](https://bahaiprayers.net/Book/Single/40/5211)
+
 
 ----
 
@@ -1350,7 +1677,10 @@ bpn5211
 
 -- Bahá'u'lláh
 
-bpn5213 
+Prayer bpn5213 in Bahasa Indonesia (bpn5213) 
+
+[bahaiprayers.net 5213](https://bahaiprayers.net/Book/Single/40/5213)
+
 
 ----
 
@@ -1360,7 +1690,10 @@ bpn5213
 
 -- Bahá'u'lláh
 
-bpn5214 
+Prayer bpn5214 in Bahasa Indonesia (bpn5214) 
+
+[bahaiprayers.net 5214](https://bahaiprayers.net/Book/Single/40/5214)
+
 
 ----
 
@@ -1370,7 +1703,10 @@ bpn5214
 
 -- Abdu'l-Bahá
 
-bpn5212 
+Prayer bpn5212 in Bahasa Indonesia (bpn5212) 
+
+[bahaiprayers.net 5212](https://bahaiprayers.net/Book/Single/40/5212)
+
 
 ----
 
@@ -1384,7 +1720,10 @@ bpn5212
 
 -- Bahá'u'lláh
 
-bpn5189 
+Prayer bpn5189 in Bahasa Indonesia (bpn5189) 
+
+[bahaiprayers.net 5189](https://bahaiprayers.net/Book/Single/40/5189)
+
 
 ----
 
@@ -1394,7 +1733,10 @@ bpn5189
 
 -- Bahá'u'lláh
 
-bpn5190 
+Prayer bpn5190 in Bahasa Indonesia (bpn5190) 
+
+[bahaiprayers.net 5190](https://bahaiprayers.net/Book/Single/40/5190)
+
 
 ----
 
@@ -1404,7 +1746,10 @@ bpn5190
 
 -- Bahá'u'lláh
 
-bpn5191 
+Prayer bpn5191 in Bahasa Indonesia (bpn5191) 
+
+[bahaiprayers.net 5191](https://bahaiprayers.net/Book/Single/40/5191)
+
 
 ----
 
@@ -1414,7 +1759,10 @@ bpn5191
 
 -- Bahá'u'lláh
 
-bpn5192 
+Prayer bpn5192 in Bahasa Indonesia (bpn5192) 
+
+[bahaiprayers.net 5192](https://bahaiprayers.net/Book/Single/40/5192)
+
 
 ----
 
@@ -1424,7 +1772,10 @@ bpn5192
 
 -- Bahá'u'lláh
 
-bpn5193 
+Prayer bpn5193 in Bahasa Indonesia (bpn5193) 
+
+[bahaiprayers.net 5193](https://bahaiprayers.net/Book/Single/40/5193)
+
 
 ----
 
@@ -1438,7 +1789,10 @@ bpn5193
 
 -- Abdu'l-Bahá
 
-bpn5194 
+Prayer bpn5194 in Bahasa Indonesia (bpn5194) 
+
+[bahaiprayers.net 5194](https://bahaiprayers.net/Book/Single/40/5194)
+
 
 ----
 
@@ -1452,7 +1806,10 @@ bpn5194
 
 -- Abdu'l-Bahá
 
-bpn5195 
+Prayer bpn5195 in Bahasa Indonesia (bpn5195) 
+
+[bahaiprayers.net 5195](https://bahaiprayers.net/Book/Single/40/5195)
+
 
 ----
 
@@ -1466,7 +1823,10 @@ bpn5195
 
 -- Bahá'u'lláh
 
-bpn5090 
+Prayer bpn5090 in Bahasa Indonesia (bpn5090) 
+
+[bahaiprayers.net 5090](https://bahaiprayers.net/Book/Single/40/5090)
+
 
 ----
 
@@ -1480,7 +1840,10 @@ bpn5090
 
 -- Bahá'u'lláh
 
-bpn5089 
+Prayer bpn5089 in Bahasa Indonesia (bpn5089) 
+
+[bahaiprayers.net 5089](https://bahaiprayers.net/Book/Single/40/5089)
+
 
 ----
 
@@ -1494,7 +1857,10 @@ bpn5089
 
 -- Bahá'u'lláh
 
-bpn5091 
+Prayer bpn5091 in Bahasa Indonesia (bpn5091) 
+
+[bahaiprayers.net 5091](https://bahaiprayers.net/Book/Single/40/5091)
+
 
 ----
 
@@ -1508,7 +1874,10 @@ bpn5091
 
 -- Abdu'l-Bahá
 
-bpn5196 
+Prayer bpn5196 in Bahasa Indonesia (bpn5196) 
+
+[bahaiprayers.net 5196](https://bahaiprayers.net/Book/Single/40/5196)
+
 
 ----
 
@@ -1522,7 +1891,10 @@ bpn5196
 
 -- Abdu'l-Bahá
 
-bpn5132 
+Prayer bpn5132 in Bahasa Indonesia (bpn5132) 
+
+[bahaiprayers.net 5132](https://bahaiprayers.net/Book/Single/40/5132)
+
 
 ----
 
@@ -1536,7 +1908,10 @@ bpn5132
 
 -- Bahá'u'lláh
 
-bpn5197 
+Prayer bpn5197 in Bahasa Indonesia (bpn5197) 
+
+[bahaiprayers.net 5197](https://bahaiprayers.net/Book/Single/40/5197)
+
 
 ----
 
@@ -1546,7 +1921,10 @@ bpn5197
 
 -- Bahá'u'lláh
 
-bpn5198 
+Prayer bpn5198 in Bahasa Indonesia (bpn5198) 
+
+[bahaiprayers.net 5198](https://bahaiprayers.net/Book/Single/40/5198)
+
 
 ----
 
@@ -1556,7 +1934,10 @@ bpn5198
 
 -- Abdu'l-Bahá
 
-bpn5199 
+Prayer bpn5199 in Bahasa Indonesia (bpn5199) 
+
+[bahaiprayers.net 5199](https://bahaiprayers.net/Book/Single/40/5199)
+
 
 ----
 
@@ -1570,7 +1951,10 @@ bpn5199
 
 -- Abdu'l-Bahá
 
-bpn5200 
+Prayer bpn5200 in Bahasa Indonesia (bpn5200) 
+
+[bahaiprayers.net 5200](https://bahaiprayers.net/Book/Single/40/5200)
+
 
 ----
 

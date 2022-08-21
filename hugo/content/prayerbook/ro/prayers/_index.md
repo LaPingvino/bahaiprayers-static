@@ -114,7 +114,10 @@ tags = ['lang=ro', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn2105 
+Prayer bpn2105 in România (bpn2105) 
+
+[bahaiprayers.net 2105](https://bahaiprayers.net/Book/Single/12/2105)
+
 
 ----
 
@@ -124,7 +127,10 @@ bpn2105
 
 -- Abdu'l-Bahá
 
-bpn2106 
+Prayer bpn2106 in România (bpn2106) 
+
+[bahaiprayers.net 2106](https://bahaiprayers.net/Book/Single/12/2106)
+
 
 ----
 
@@ -134,7 +140,10 @@ bpn2106
 
 -- Abdu'l-Bahá
 
-bpn2104 
+Prayer bpn2104 in România (bpn2104) 
+
+[bahaiprayers.net 2104](https://bahaiprayers.net/Book/Single/12/2104)
+
 
 ----
 
@@ -148,7 +157,10 @@ bpn2104
 
 -- Bahá'u'lláh
 
-bpn2107 
+Prayer bpn2107 in România (bpn2107) 
+
+[bahaiprayers.net 2107](https://bahaiprayers.net/Book/Single/12/2107)
+
 
 ----
 
@@ -158,7 +170,10 @@ bpn2107
 
 -- Bahá'u'lláh
 
-bpn2108 
+Prayer bpn2108 in România (bpn2108) 
+
+[bahaiprayers.net 2108](https://bahaiprayers.net/Book/Single/12/2108)
+
 
 ----
 
@@ -168,7 +183,10 @@ bpn2108
 
 -- Bahá'u'lláh
 
-bpn2109 
+Prayer bpn2109 in România (bpn2109) 
+
+[bahaiprayers.net 2109](https://bahaiprayers.net/Book/Single/12/2109)
+
 
 ----
 
@@ -178,7 +196,10 @@ bpn2109
 
 -- Bahá'u'lláh
 
-bpn2110 
+Prayer bpn2110 in România (bpn2110) 
+
+[bahaiprayers.net 2110](https://bahaiprayers.net/Book/Single/12/2110)
+
 
 ----
 
@@ -188,7 +209,10 @@ bpn2110
 
 -- Bahá'u'lláh
 
-bpn2111 
+Prayer bpn2111 in România (bpn2111) 
+
+[bahaiprayers.net 2111](https://bahaiprayers.net/Book/Single/12/2111)
+
 
 ----
 
@@ -198,7 +222,10 @@ bpn2111
 
 -- Bahá'u'lláh
 
-bpn2112 
+Prayer bpn2112 in România (bpn2112) 
+
+[bahaiprayers.net 2112](https://bahaiprayers.net/Book/Single/12/2112)
+
 
 ----
 
@@ -208,7 +235,10 @@ bpn2112
 
 -- Bahá'u'lláh
 
-bpn2113 
+Prayer bpn2113 in România (bpn2113) 
+
+[bahaiprayers.net 2113](https://bahaiprayers.net/Book/Single/12/2113)
+
 
 ----
 
@@ -218,7 +248,10 @@ bpn2113
 
 -- Bahá'u'lláh
 
-bpn2114 
+Prayer bpn2114 in România (bpn2114) 
+
+[bahaiprayers.net 2114](https://bahaiprayers.net/Book/Single/12/2114)
+
 
 ----
 
@@ -228,7 +261,10 @@ bpn2114
 
 -- Bahá'u'lláh
 
-bpn2115 
+Prayer bpn2115 in România (bpn2115) 
+
+[bahaiprayers.net 2115](https://bahaiprayers.net/Book/Single/12/2115)
+
 
 ----
 
@@ -238,7 +274,10 @@ bpn2115
 
 -- Báb
 
-bpn2116 
+Prayer bpn2116 in România (bpn2116) 
+
+[bahaiprayers.net 2116](https://bahaiprayers.net/Book/Single/12/2116)
+
 
 ----
 
@@ -248,7 +287,10 @@ bpn2116
 
 -- Báb
 
-bpn2119 
+Prayer bpn2119 in România (bpn2119) 
+
+[bahaiprayers.net 2119](https://bahaiprayers.net/Book/Single/12/2119)
+
 
 ----
 
@@ -258,7 +300,10 @@ bpn2119
 
 -- Báb
 
-bpn2120 
+Prayer bpn2120 in România (bpn2120) 
+
+[bahaiprayers.net 2120](https://bahaiprayers.net/Book/Single/12/2120)
+
 
 ----
 
@@ -268,7 +313,10 @@ bpn2120
 
 -- Abdu'l-Bahá
 
-bpn2117 
+Prayer bpn2117 in România (bpn2117) 
+
+[bahaiprayers.net 2117](https://bahaiprayers.net/Book/Single/12/2117)
+
 
 ----
 
@@ -278,7 +326,10 @@ bpn2117
 
 -- Abdu'l-Bahá
 
-bpn2118 
+Prayer bpn2118 in România (bpn2118) 
+
+[bahaiprayers.net 2118](https://bahaiprayers.net/Book/Single/12/2118)
+
 
 ----
 
@@ -292,7 +343,10 @@ bpn2118
 
 -- Bahá'u'lláh
 
-bpn2123 
+Prayer bpn2123 in România (bpn2123) 
+
+[bahaiprayers.net 2123](https://bahaiprayers.net/Book/Single/12/2123)
+
 
 ----
 
@@ -302,7 +356,10 @@ bpn2123
 
 -- Bahá'u'lláh
 
-bpn2124 
+Prayer bpn2124 in România (bpn2124) 
+
+[bahaiprayers.net 2124](https://bahaiprayers.net/Book/Single/12/2124)
+
 
 ----
 
@@ -312,7 +369,10 @@ bpn2124
 
 -- Bahá'u'lláh
 
-bpn2125 
+Prayer bpn2125 in România (bpn2125) 
+
+[bahaiprayers.net 2125](https://bahaiprayers.net/Book/Single/12/2125)
+
 
 ----
 
@@ -322,7 +382,10 @@ bpn2125
 
 -- Bahá'u'lláh
 
-bpn2129 
+Prayer bpn2129 in România (bpn2129) 
+
+[bahaiprayers.net 2129](https://bahaiprayers.net/Book/Single/12/2129)
+
 
 ----
 
@@ -332,7 +395,10 @@ bpn2129
 
 -- Bahá'u'lláh
 
-bpn2130 
+Prayer bpn2130 in România (bpn2130) 
+
+[bahaiprayers.net 2130](https://bahaiprayers.net/Book/Single/12/2130)
+
 
 ----
 
@@ -342,7 +408,10 @@ bpn2130
 
 -- Bahá'u'lláh
 
-bpn2131 
+Prayer bpn2131 in România (bpn2131) 
+
+[bahaiprayers.net 2131](https://bahaiprayers.net/Book/Single/12/2131)
+
 
 ----
 
@@ -352,7 +421,10 @@ bpn2131
 
 -- Bahá'u'lláh
 
-bpn2132 
+Prayer bpn2132 in România (bpn2132) 
+
+[bahaiprayers.net 2132](https://bahaiprayers.net/Book/Single/12/2132)
+
 
 ----
 
@@ -362,7 +434,10 @@ bpn2132
 
 -- Bahá'u'lláh
 
-bpn2133 
+Prayer bpn2133 in România (bpn2133) 
+
+[bahaiprayers.net 2133](https://bahaiprayers.net/Book/Single/12/2133)
+
 
 ----
 
@@ -372,7 +447,10 @@ bpn2133
 
 -- Bahá'u'lláh
 
-bpn2134 
+Prayer bpn2134 in România (bpn2134) 
+
+[bahaiprayers.net 2134](https://bahaiprayers.net/Book/Single/12/2134)
+
 
 ----
 
@@ -382,7 +460,10 @@ bpn2134
 
 -- Báb
 
-bpn2121 
+Prayer bpn2121 in România (bpn2121) 
+
+[bahaiprayers.net 2121](https://bahaiprayers.net/Book/Single/12/2121)
+
 
 ----
 
@@ -392,7 +473,10 @@ bpn2121
 
 -- Báb
 
-bpn2122 
+Prayer bpn2122 in România (bpn2122) 
+
+[bahaiprayers.net 2122](https://bahaiprayers.net/Book/Single/12/2122)
+
 
 ----
 
@@ -402,7 +486,10 @@ bpn2122
 
 -- Báb
 
-bpn2126 
+Prayer bpn2126 in România (bpn2126) 
+
+[bahaiprayers.net 2126](https://bahaiprayers.net/Book/Single/12/2126)
+
 
 ----
 
@@ -412,7 +499,10 @@ bpn2126
 
 -- Abdu'l-Bahá
 
-bpn2127 
+Prayer bpn2127 in România (bpn2127) 
+
+[bahaiprayers.net 2127](https://bahaiprayers.net/Book/Single/12/2127)
+
 
 ----
 
@@ -422,7 +512,10 @@ bpn2127
 
 -- Abdu'l-Bahá
 
-bpn2128 
+Prayer bpn2128 in România (bpn2128) 
+
+[bahaiprayers.net 2128](https://bahaiprayers.net/Book/Single/12/2128)
+
 
 ----
 
@@ -436,7 +529,10 @@ bpn2128
 
 -- Bahá'u'lláh
 
-bpn2137 
+Prayer bpn2137 in România (bpn2137) 
+
+[bahaiprayers.net 2137](https://bahaiprayers.net/Book/Single/12/2137)
+
 
 ----
 
@@ -446,7 +542,10 @@ bpn2137
 
 -- Bahá'u'lláh
 
-bpn2138 
+Prayer bpn2138 in România (bpn2138) 
+
+[bahaiprayers.net 2138](https://bahaiprayers.net/Book/Single/12/2138)
+
 
 ----
 
@@ -456,7 +555,10 @@ bpn2138
 
 -- Bahá'u'lláh
 
-bpn2139 
+Prayer bpn2139 in România (bpn2139) 
+
+[bahaiprayers.net 2139](https://bahaiprayers.net/Book/Single/12/2139)
+
 
 ----
 
@@ -466,7 +568,10 @@ bpn2139
 
 -- Bahá'u'lláh
 
-bpn2140 
+Prayer bpn2140 in România (bpn2140) 
+
+[bahaiprayers.net 2140](https://bahaiprayers.net/Book/Single/12/2140)
+
 
 ----
 
@@ -476,7 +581,10 @@ bpn2140
 
 -- Bahá'u'lláh
 
-bpn2141 
+Prayer bpn2141 in România (bpn2141) 
+
+[bahaiprayers.net 2141](https://bahaiprayers.net/Book/Single/12/2141)
+
 
 ----
 
@@ -486,7 +594,10 @@ bpn2141
 
 -- Bahá'u'lláh
 
-bpn2142 
+Prayer bpn2142 in România (bpn2142) 
+
+[bahaiprayers.net 2142](https://bahaiprayers.net/Book/Single/12/2142)
+
 
 ----
 
@@ -496,7 +607,10 @@ bpn2142
 
 -- Bahá'u'lláh
 
-bpn2151 
+Prayer bpn2151 in România (bpn2151) 
+
+[bahaiprayers.net 2151](https://bahaiprayers.net/Book/Single/12/2151)
+
 
 ----
 
@@ -506,7 +620,10 @@ bpn2151
 
 -- Bahá'u'lláh
 
-bpn2152 
+Prayer bpn2152 in România (bpn2152) 
+
+[bahaiprayers.net 2152](https://bahaiprayers.net/Book/Single/12/2152)
+
 
 ----
 
@@ -516,7 +633,10 @@ bpn2152
 
 -- Bahá'u'lláh
 
-bpn2153 
+Prayer bpn2153 in România (bpn2153) 
+
+[bahaiprayers.net 2153](https://bahaiprayers.net/Book/Single/12/2153)
+
 
 ----
 
@@ -526,7 +646,10 @@ bpn2153
 
 -- Báb
 
-bpn2143 
+Prayer bpn2143 in România (bpn2143) 
+
+[bahaiprayers.net 2143](https://bahaiprayers.net/Book/Single/12/2143)
+
 
 ----
 
@@ -536,7 +659,10 @@ bpn2143
 
 -- Báb
 
-bpn2150 
+Prayer bpn2150 in România (bpn2150) 
+
+[bahaiprayers.net 2150](https://bahaiprayers.net/Book/Single/12/2150)
+
 
 ----
 
@@ -546,7 +672,10 @@ bpn2150
 
 -- Abdu'l-Bahá
 
-bpn2135 
+Prayer bpn2135 in România (bpn2135) 
+
+[bahaiprayers.net 2135](https://bahaiprayers.net/Book/Single/12/2135)
+
 
 ----
 
@@ -556,7 +685,10 @@ bpn2135
 
 -- Abdu'l-Bahá
 
-bpn2136 
+Prayer bpn2136 in România (bpn2136) 
+
+[bahaiprayers.net 2136](https://bahaiprayers.net/Book/Single/12/2136)
+
 
 ----
 
@@ -566,7 +698,10 @@ bpn2136
 
 -- Abdu'l-Bahá
 
-bpn2144 
+Prayer bpn2144 in România (bpn2144) 
+
+[bahaiprayers.net 2144](https://bahaiprayers.net/Book/Single/12/2144)
+
 
 ----
 
@@ -576,7 +711,10 @@ bpn2144
 
 -- Abdu'l-Bahá
 
-bpn2145 
+Prayer bpn2145 in România (bpn2145) 
+
+[bahaiprayers.net 2145](https://bahaiprayers.net/Book/Single/12/2145)
+
 
 ----
 
@@ -586,7 +724,10 @@ bpn2145
 
 -- Abdu'l-Bahá
 
-bpn2146 
+Prayer bpn2146 in România (bpn2146) 
+
+[bahaiprayers.net 2146](https://bahaiprayers.net/Book/Single/12/2146)
+
 
 ----
 
@@ -596,7 +737,10 @@ bpn2146
 
 -- Abdu'l-Bahá
 
-bpn2147 
+Prayer bpn2147 in România (bpn2147) 
+
+[bahaiprayers.net 2147](https://bahaiprayers.net/Book/Single/12/2147)
+
 
 ----
 
@@ -606,7 +750,10 @@ bpn2147
 
 -- Abdu'l-Bahá
 
-bpn2148 
+Prayer bpn2148 in România (bpn2148) 
+
+[bahaiprayers.net 2148](https://bahaiprayers.net/Book/Single/12/2148)
+
 
 ----
 
@@ -616,7 +763,10 @@ bpn2148
 
 -- Abdu'l-Bahá
 
-bpn2149 
+Prayer bpn2149 in România (bpn2149) 
+
+[bahaiprayers.net 2149](https://bahaiprayers.net/Book/Single/12/2149)
+
 
 ----
 
@@ -626,7 +776,10 @@ bpn2149
 
 -- Abdu'l-Bahá
 
-bpn2154 
+Prayer bpn2154 in România (bpn2154) 
+
+[bahaiprayers.net 2154](https://bahaiprayers.net/Book/Single/12/2154)
+
 
 ----
 
@@ -640,7 +793,10 @@ bpn2154
 
 -- Bahá'u'lláh
 
-bpn2305 
+Prayer bpn2305 in România (bpn2305) 
+
+[bahaiprayers.net 2305](https://bahaiprayers.net/Book/Single/12/2305)
+
 
 ----
 
@@ -654,7 +810,10 @@ bpn2305
 
 -- Bahá'u'lláh
 
-bpn2168 
+Prayer bpn2168 in România (bpn2168) 
+
+[bahaiprayers.net 2168](https://bahaiprayers.net/Book/Single/12/2168)
+
 
 ----
 
@@ -664,7 +823,10 @@ bpn2168
 
 -- Abdu'l-Bahá
 
-bpn2162 
+Prayer bpn2162 in România (bpn2162) 
+
+[bahaiprayers.net 2162](https://bahaiprayers.net/Book/Single/12/2162)
+
 
 ----
 
@@ -674,7 +836,10 @@ bpn2162
 
 -- Abdu'l-Bahá
 
-bpn2163 
+Prayer bpn2163 in România (bpn2163) 
+
+[bahaiprayers.net 2163](https://bahaiprayers.net/Book/Single/12/2163)
+
 
 ----
 
@@ -684,7 +849,10 @@ bpn2163
 
 -- Abdu'l-Bahá
 
-bpn2164 
+Prayer bpn2164 in România (bpn2164) 
+
+[bahaiprayers.net 2164](https://bahaiprayers.net/Book/Single/12/2164)
+
 
 ----
 
@@ -694,7 +862,10 @@ bpn2164
 
 -- Abdu'l-Bahá
 
-bpn2165 
+Prayer bpn2165 in România (bpn2165) 
+
+[bahaiprayers.net 2165](https://bahaiprayers.net/Book/Single/12/2165)
+
 
 ----
 
@@ -704,7 +875,10 @@ bpn2165
 
 -- Abdu'l-Bahá
 
-bpn2166 
+Prayer bpn2166 in România (bpn2166) 
+
+[bahaiprayers.net 2166](https://bahaiprayers.net/Book/Single/12/2166)
+
 
 ----
 
@@ -714,7 +888,10 @@ bpn2166
 
 -- Abdu'l-Bahá
 
-bpn2167 
+Prayer bpn2167 in România (bpn2167) 
+
+[bahaiprayers.net 2167](https://bahaiprayers.net/Book/Single/12/2167)
+
 
 ----
 
@@ -724,7 +901,10 @@ bpn2167
 
 -- Abdu'l-Bahá
 
-bpn2169 
+Prayer bpn2169 in România (bpn2169) 
+
+[bahaiprayers.net 2169](https://bahaiprayers.net/Book/Single/12/2169)
+
 
 ----
 
@@ -734,7 +914,10 @@ bpn2169
 
 -- Abdu'l-Bahá
 
-bpn2170 
+Prayer bpn2170 in România (bpn2170) 
+
+[bahaiprayers.net 2170](https://bahaiprayers.net/Book/Single/12/2170)
+
 
 ----
 
@@ -744,7 +927,10 @@ bpn2170
 
 -- Abdu'l-Bahá
 
-bpn2171 
+Prayer bpn2171 in România (bpn2171) 
+
+[bahaiprayers.net 2171](https://bahaiprayers.net/Book/Single/12/2171)
+
 
 ----
 
@@ -754,7 +940,10 @@ bpn2171
 
 -- Abdu'l-Bahá
 
-bpn2172 
+Prayer bpn2172 in România (bpn2172) 
+
+[bahaiprayers.net 2172](https://bahaiprayers.net/Book/Single/12/2172)
+
 
 ----
 
@@ -764,7 +953,10 @@ bpn2172
 
 -- Abdu'l-Bahá
 
-bpn2173 
+Prayer bpn2173 in România (bpn2173) 
+
+[bahaiprayers.net 2173](https://bahaiprayers.net/Book/Single/12/2173)
+
 
 ----
 
@@ -774,7 +966,10 @@ bpn2173
 
 -- Abdu'l-Bahá
 
-bpn2174 
+Prayer bpn2174 in România (bpn2174) 
+
+[bahaiprayers.net 2174](https://bahaiprayers.net/Book/Single/12/2174)
+
 
 ----
 
@@ -784,7 +979,10 @@ bpn2174
 
 -- Abdu'l-Bahá
 
-bpn2175 
+Prayer bpn2175 in România (bpn2175) 
+
+[bahaiprayers.net 2175](https://bahaiprayers.net/Book/Single/12/2175)
+
 
 ----
 
@@ -794,7 +992,10 @@ bpn2175
 
 -- Abdu'l-Bahá
 
-bpn2176 
+Prayer bpn2176 in România (bpn2176) 
+
+[bahaiprayers.net 2176](https://bahaiprayers.net/Book/Single/12/2176)
+
 
 ----
 
@@ -804,7 +1005,10 @@ bpn2176
 
 -- Abdu'l-Bahá
 
-bpn2177 
+Prayer bpn2177 in România (bpn2177) 
+
+[bahaiprayers.net 2177](https://bahaiprayers.net/Book/Single/12/2177)
+
 
 ----
 
@@ -814,7 +1018,10 @@ bpn2177
 
 -- Abdu'l-Bahá
 
-bpn2178 
+Prayer bpn2178 in România (bpn2178) 
+
+[bahaiprayers.net 2178](https://bahaiprayers.net/Book/Single/12/2178)
+
 
 ----
 
@@ -824,7 +1031,10 @@ bpn2178
 
 -- Abdu'l-Bahá
 
-bpn2179 
+Prayer bpn2179 in România (bpn2179) 
+
+[bahaiprayers.net 2179](https://bahaiprayers.net/Book/Single/12/2179)
+
 
 ----
 
@@ -834,7 +1044,10 @@ bpn2179
 
 -- Abdu'l-Bahá
 
-bpn2180 
+Prayer bpn2180 in România (bpn2180) 
+
+[bahaiprayers.net 2180](https://bahaiprayers.net/Book/Single/12/2180)
+
 
 ----
 
@@ -844,7 +1057,10 @@ bpn2180
 
 -- Abdu'l-Bahá
 
-bpn2181 
+Prayer bpn2181 in România (bpn2181) 
+
+[bahaiprayers.net 2181](https://bahaiprayers.net/Book/Single/12/2181)
+
 
 ----
 
@@ -854,7 +1070,10 @@ bpn2181
 
 -- Abdu'l-Bahá
 
-bpn2182 
+Prayer bpn2182 in România (bpn2182) 
+
+[bahaiprayers.net 2182](https://bahaiprayers.net/Book/Single/12/2182)
+
 
 ----
 
@@ -864,7 +1083,10 @@ bpn2182
 
 -- Abdu'l-Bahá
 
-bpn2183 
+Prayer bpn2183 in România (bpn2183) 
+
+[bahaiprayers.net 2183](https://bahaiprayers.net/Book/Single/12/2183)
+
 
 ----
 
@@ -878,7 +1100,10 @@ bpn2183
 
 -- Bahá'u'lláh
 
-bpn2155 
+Prayer bpn2155 in România (bpn2155) 
+
+[bahaiprayers.net 2155](https://bahaiprayers.net/Book/Single/12/2155)
+
 
 ----
 
@@ -888,7 +1113,10 @@ bpn2155
 
 -- Bahá'u'lláh
 
-bpn2156 
+Prayer bpn2156 in România (bpn2156) 
+
+[bahaiprayers.net 2156](https://bahaiprayers.net/Book/Single/12/2156)
+
 
 ----
 
@@ -898,7 +1126,10 @@ bpn2156
 
 -- Bahá'u'lláh
 
-bpn2158 
+Prayer bpn2158 in România (bpn2158) 
+
+[bahaiprayers.net 2158](https://bahaiprayers.net/Book/Single/12/2158)
+
 
 ----
 
@@ -912,7 +1143,10 @@ bpn2158
 
 -- Bahá'u'lláh
 
-bpn2157 
+Prayer bpn2157 in România (bpn2157) 
+
+[bahaiprayers.net 2157](https://bahaiprayers.net/Book/Single/12/2157)
+
 
 ----
 
@@ -926,7 +1160,10 @@ bpn2157
 
 -- Abdu'l-Bahá
 
-bpn2161 
+Prayer bpn2161 in România (bpn2161) 
+
+[bahaiprayers.net 2161](https://bahaiprayers.net/Book/Single/12/2161)
+
 
 ----
 
@@ -936,7 +1173,10 @@ bpn2161
 
 -- Abdu'l-Bahá
 
-bpn2160 
+Prayer bpn2160 in România (bpn2160) 
+
+[bahaiprayers.net 2160](https://bahaiprayers.net/Book/Single/12/2160)
+
 
 ----
 
@@ -946,7 +1186,10 @@ bpn2160
 
 -- Abdu'l-Bahá
 
-bpn2159 
+Prayer bpn2159 in România (bpn2159) 
+
+[bahaiprayers.net 2159](https://bahaiprayers.net/Book/Single/12/2159)
+
 
 ----
 
@@ -960,7 +1203,10 @@ bpn2159
 
 -- Bahá'u'lláh
 
-bpn2184 
+Prayer bpn2184 in România (bpn2184) 
+
+[bahaiprayers.net 2184](https://bahaiprayers.net/Book/Single/12/2184)
+
 
 ----
 
@@ -974,7 +1220,10 @@ bpn2184
 
 -- Bahá'u'lláh
 
-bpn2185 
+Prayer bpn2185 in România (bpn2185) 
+
+[bahaiprayers.net 2185](https://bahaiprayers.net/Book/Single/12/2185)
+
 
 ----
 
@@ -984,7 +1233,10 @@ bpn2185
 
 -- Bahá'u'lláh
 
-bpn2186 
+Prayer bpn2186 in România (bpn2186) 
+
+[bahaiprayers.net 2186](https://bahaiprayers.net/Book/Single/12/2186)
+
 
 ----
 
@@ -994,7 +1246,10 @@ bpn2186
 
 -- Bahá'u'lláh
 
-bpn2187 
+Prayer bpn2187 in România (bpn2187) 
+
+[bahaiprayers.net 2187](https://bahaiprayers.net/Book/Single/12/2187)
+
 
 ----
 
@@ -1004,7 +1259,10 @@ bpn2187
 
 -- Bahá'u'lláh
 
-bpn2188 
+Prayer bpn2188 in România (bpn2188) 
+
+[bahaiprayers.net 2188](https://bahaiprayers.net/Book/Single/12/2188)
+
 
 ----
 
@@ -1014,7 +1272,10 @@ bpn2188
 
 -- Bahá'u'lláh
 
-bpn2189 
+Prayer bpn2189 in România (bpn2189) 
+
+[bahaiprayers.net 2189](https://bahaiprayers.net/Book/Single/12/2189)
+
 
 ----
 
@@ -1024,7 +1285,10 @@ bpn2189
 
 -- Bahá'u'lláh
 
-bpn2195 
+Prayer bpn2195 in România (bpn2195) 
+
+[bahaiprayers.net 2195](https://bahaiprayers.net/Book/Single/12/2195)
+
 
 ----
 
@@ -1034,7 +1298,10 @@ bpn2195
 
 -- Báb
 
-bpn2190 
+Prayer bpn2190 in România (bpn2190) 
+
+[bahaiprayers.net 2190](https://bahaiprayers.net/Book/Single/12/2190)
+
 
 ----
 
@@ -1044,7 +1311,10 @@ bpn2190
 
 -- Báb
 
-bpn2191 
+Prayer bpn2191 in România (bpn2191) 
+
+[bahaiprayers.net 2191](https://bahaiprayers.net/Book/Single/12/2191)
+
 
 ----
 
@@ -1054,7 +1324,10 @@ bpn2191
 
 -- Báb
 
-bpn2192 
+Prayer bpn2192 in România (bpn2192) 
+
+[bahaiprayers.net 2192](https://bahaiprayers.net/Book/Single/12/2192)
+
 
 ----
 
@@ -1064,7 +1337,10 @@ bpn2192
 
 -- Abdu'l-Bahá
 
-bpn2193 
+Prayer bpn2193 in România (bpn2193) 
+
+[bahaiprayers.net 2193](https://bahaiprayers.net/Book/Single/12/2193)
+
 
 ----
 
@@ -1074,7 +1350,10 @@ bpn2193
 
 -- Abdu'l-Bahá
 
-bpn2194 
+Prayer bpn2194 in România (bpn2194) 
+
+[bahaiprayers.net 2194](https://bahaiprayers.net/Book/Single/12/2194)
+
 
 ----
 
@@ -1084,7 +1363,10 @@ bpn2194
 
 -- Abdu'l-Bahá
 
-bpn2196 
+Prayer bpn2196 in România (bpn2196) 
+
+[bahaiprayers.net 2196](https://bahaiprayers.net/Book/Single/12/2196)
+
 
 ----
 
@@ -1098,7 +1380,10 @@ bpn2196
 
 -- Bahá'u'lláh
 
-bpn2197 
+Prayer bpn2197 in România (bpn2197) 
+
+[bahaiprayers.net 2197](https://bahaiprayers.net/Book/Single/12/2197)
+
 
 ----
 
@@ -1108,7 +1393,10 @@ bpn2197
 
 -- Bahá'u'lláh
 
-bpn2198 
+Prayer bpn2198 in România (bpn2198) 
+
+[bahaiprayers.net 2198](https://bahaiprayers.net/Book/Single/12/2198)
+
 
 ----
 
@@ -1118,7 +1406,10 @@ bpn2198
 
 -- Bahá'u'lláh
 
-bpn2199 
+Prayer bpn2199 in România (bpn2199) 
+
+[bahaiprayers.net 2199](https://bahaiprayers.net/Book/Single/12/2199)
+
 
 ----
 
@@ -1132,7 +1423,10 @@ bpn2199
 
 -- Báb
 
-bpn2201 
+Prayer bpn2201 in România (bpn2201) 
+
+[bahaiprayers.net 2201](https://bahaiprayers.net/Book/Single/12/2201)
+
 
 ----
 
@@ -1142,7 +1436,10 @@ bpn2201
 
 -- Báb
 
-bpn2202 
+Prayer bpn2202 in România (bpn2202) 
+
+[bahaiprayers.net 2202](https://bahaiprayers.net/Book/Single/12/2202)
+
 
 ----
 
@@ -1152,7 +1449,10 @@ bpn2202
 
 -- Abdu'l-Bahá
 
-bpn2200 
+Prayer bpn2200 in România (bpn2200) 
+
+[bahaiprayers.net 2200](https://bahaiprayers.net/Book/Single/12/2200)
+
 
 ----
 
@@ -1166,7 +1466,10 @@ bpn2200
 
 -- Bahá'u'lláh
 
-bpn2203 
+Prayer bpn2203 in România (bpn2203) 
+
+[bahaiprayers.net 2203](https://bahaiprayers.net/Book/Single/12/2203)
+
 
 ----
 
@@ -1176,7 +1479,10 @@ bpn2203
 
 -- Bahá'u'lláh
 
-bpn2204 
+Prayer bpn2204 in România (bpn2204) 
+
+[bahaiprayers.net 2204](https://bahaiprayers.net/Book/Single/12/2204)
+
 
 ----
 
@@ -1186,7 +1492,10 @@ bpn2204
 
 -- Bahá'u'lláh
 
-bpn2205 
+Prayer bpn2205 in România (bpn2205) 
+
+[bahaiprayers.net 2205](https://bahaiprayers.net/Book/Single/12/2205)
+
 
 ----
 
@@ -1196,7 +1505,10 @@ bpn2205
 
 -- Bahá'u'lláh
 
-bpn2206 
+Prayer bpn2206 in România (bpn2206) 
+
+[bahaiprayers.net 2206](https://bahaiprayers.net/Book/Single/12/2206)
+
 
 ----
 
@@ -1206,7 +1518,10 @@ bpn2206
 
 -- Bahá'u'lláh
 
-bpn2207 
+Prayer bpn2207 in România (bpn2207) 
+
+[bahaiprayers.net 2207](https://bahaiprayers.net/Book/Single/12/2207)
+
 
 ----
 
@@ -1216,7 +1531,10 @@ bpn2207
 
 -- Bahá'u'lláh
 
-bpn2208 
+Prayer bpn2208 in România (bpn2208) 
+
+[bahaiprayers.net 2208](https://bahaiprayers.net/Book/Single/12/2208)
+
 
 ----
 
@@ -1226,7 +1544,10 @@ bpn2208
 
 -- Bahá'u'lláh
 
-bpn2209 
+Prayer bpn2209 in România (bpn2209) 
+
+[bahaiprayers.net 2209](https://bahaiprayers.net/Book/Single/12/2209)
+
 
 ----
 
@@ -1236,7 +1557,10 @@ bpn2209
 
 -- Abdu'l-Bahá
 
-bpn2210 
+Prayer bpn2210 in România (bpn2210) 
+
+[bahaiprayers.net 2210](https://bahaiprayers.net/Book/Single/12/2210)
+
 
 ----
 
@@ -1250,7 +1574,10 @@ bpn2210
 
 -- Abdu'l-Bahá
 
-bpn2211 
+Prayer bpn2211 in România (bpn2211) 
+
+[bahaiprayers.net 2211](https://bahaiprayers.net/Book/Single/12/2211)
+
 
 ----
 
@@ -1264,7 +1591,10 @@ bpn2211
 
 -- Bahá'u'lláh
 
-bpn2212 
+Prayer bpn2212 in România (bpn2212) 
+
+[bahaiprayers.net 2212](https://bahaiprayers.net/Book/Single/12/2212)
+
 
 ----
 
@@ -1274,7 +1604,10 @@ bpn2212
 
 -- Bahá'u'lláh
 
-bpn2213 
+Prayer bpn2213 in România (bpn2213) 
+
+[bahaiprayers.net 2213](https://bahaiprayers.net/Book/Single/12/2213)
+
 
 ----
 
@@ -1284,7 +1617,10 @@ bpn2213
 
 -- Bahá'u'lláh
 
-bpn2214 
+Prayer bpn2214 in România (bpn2214) 
+
+[bahaiprayers.net 2214](https://bahaiprayers.net/Book/Single/12/2214)
+
 
 ----
 
@@ -1294,7 +1630,10 @@ bpn2214
 
 -- Bahá'u'lláh
 
-bpn2215 
+Prayer bpn2215 in România (bpn2215) 
+
+[bahaiprayers.net 2215](https://bahaiprayers.net/Book/Single/12/2215)
+
 
 ----
 
@@ -1304,7 +1643,10 @@ bpn2215
 
 -- Bahá'u'lláh
 
-bpn2216 
+Prayer bpn2216 in România (bpn2216) 
+
+[bahaiprayers.net 2216](https://bahaiprayers.net/Book/Single/12/2216)
+
 
 ----
 
@@ -1314,7 +1656,10 @@ bpn2216
 
 -- Báb
 
-bpn2217 
+Prayer bpn2217 in România (bpn2217) 
+
+[bahaiprayers.net 2217](https://bahaiprayers.net/Book/Single/12/2217)
+
 
 ----
 
@@ -1324,7 +1669,10 @@ bpn2217
 
 -- Báb
 
-bpn2218 
+Prayer bpn2218 in România (bpn2218) 
+
+[bahaiprayers.net 2218](https://bahaiprayers.net/Book/Single/12/2218)
+
 
 ----
 
@@ -1334,7 +1682,10 @@ bpn2218
 
 -- Báb
 
-bpn2219 
+Prayer bpn2219 in România (bpn2219) 
+
+[bahaiprayers.net 2219](https://bahaiprayers.net/Book/Single/12/2219)
+
 
 ----
 
@@ -1344,7 +1695,10 @@ bpn2219
 
 -- Abdu'l-Bahá
 
-bpn2220 
+Prayer bpn2220 in România (bpn2220) 
+
+[bahaiprayers.net 2220](https://bahaiprayers.net/Book/Single/12/2220)
+
 
 ----
 
@@ -1358,7 +1712,10 @@ bpn2220
 
 -- Bahá'u'lláh
 
-bpn2240 
+Prayer bpn2240 in România (bpn2240) 
+
+[bahaiprayers.net 2240](https://bahaiprayers.net/Book/Single/12/2240)
+
 
 ----
 
@@ -1368,7 +1725,10 @@ bpn2240
 
 -- Bahá'u'lláh
 
-bpn2241 
+Prayer bpn2241 in România (bpn2241) 
+
+[bahaiprayers.net 2241](https://bahaiprayers.net/Book/Single/12/2241)
+
 
 ----
 
@@ -1378,7 +1738,10 @@ bpn2241
 
 -- Bahá'u'lláh
 
-bpn2242 
+Prayer bpn2242 in România (bpn2242) 
+
+[bahaiprayers.net 2242](https://bahaiprayers.net/Book/Single/12/2242)
+
 
 ----
 
@@ -1388,7 +1751,10 @@ bpn2242
 
 -- Bahá'u'lláh
 
-bpn2243 
+Prayer bpn2243 in România (bpn2243) 
+
+[bahaiprayers.net 2243](https://bahaiprayers.net/Book/Single/12/2243)
+
 
 ----
 
@@ -1398,7 +1764,10 @@ bpn2243
 
 -- Bahá'u'lláh
 
-bpn2244 
+Prayer bpn2244 in România (bpn2244) 
+
+[bahaiprayers.net 2244](https://bahaiprayers.net/Book/Single/12/2244)
+
 
 ----
 
@@ -1408,7 +1777,10 @@ bpn2244
 
 -- Bahá'u'lláh
 
-bpn2246 
+Prayer bpn2246 in România (bpn2246) 
+
+[bahaiprayers.net 2246](https://bahaiprayers.net/Book/Single/12/2246)
+
 
 ----
 
@@ -1418,7 +1790,10 @@ bpn2246
 
 -- Bahá'u'lláh
 
-bpn2247 
+Prayer bpn2247 in România (bpn2247) 
+
+[bahaiprayers.net 2247](https://bahaiprayers.net/Book/Single/12/2247)
+
 
 ----
 
@@ -1428,7 +1803,10 @@ bpn2247
 
 -- Bahá'u'lláh
 
-bpn2248 
+Prayer bpn2248 in România (bpn2248) 
+
+[bahaiprayers.net 2248](https://bahaiprayers.net/Book/Single/12/2248)
+
 
 ----
 
@@ -1438,7 +1816,10 @@ bpn2248
 
 -- Bahá'u'lláh
 
-bpn2249 
+Prayer bpn2249 in România (bpn2249) 
+
+[bahaiprayers.net 2249](https://bahaiprayers.net/Book/Single/12/2249)
+
 
 ----
 
@@ -1448,7 +1829,10 @@ bpn2249
 
 -- Abdu'l-Bahá
 
-bpn2245 
+Prayer bpn2245 in România (bpn2245) 
+
+[bahaiprayers.net 2245](https://bahaiprayers.net/Book/Single/12/2245)
+
 
 ----
 
@@ -1462,7 +1846,10 @@ bpn2245
 
 -- Abdu'l-Bahá
 
-bpn2250 
+Prayer bpn2250 in România (bpn2250) 
+
+[bahaiprayers.net 2250](https://bahaiprayers.net/Book/Single/12/2250)
+
 
 ----
 
@@ -1476,7 +1863,10 @@ bpn2250
 
 -- Bahá'u'lláh
 
-bpn2251 
+Prayer bpn2251 in România (bpn2251) 
+
+[bahaiprayers.net 2251](https://bahaiprayers.net/Book/Single/12/2251)
+
 
 ----
 
@@ -1486,7 +1876,10 @@ bpn2251
 
 -- Abdu'l-Bahá
 
-bpn2252 
+Prayer bpn2252 in România (bpn2252) 
+
+[bahaiprayers.net 2252](https://bahaiprayers.net/Book/Single/12/2252)
+
 
 ----
 
@@ -1496,7 +1889,10 @@ bpn2252
 
 -- Abdu'l-Bahá
 
-bpn2253 
+Prayer bpn2253 in România (bpn2253) 
+
+[bahaiprayers.net 2253](https://bahaiprayers.net/Book/Single/12/2253)
+
 
 ----
 
@@ -1506,7 +1902,10 @@ bpn2253
 
 -- Abdu'l-Bahá
 
-bpn2254 
+Prayer bpn2254 in România (bpn2254) 
+
+[bahaiprayers.net 2254](https://bahaiprayers.net/Book/Single/12/2254)
+
 
 ----
 
@@ -1516,7 +1915,10 @@ bpn2254
 
 -- Abdu'l-Bahá
 
-bpn2255 
+Prayer bpn2255 in România (bpn2255) 
+
+[bahaiprayers.net 2255](https://bahaiprayers.net/Book/Single/12/2255)
+
 
 ----
 
@@ -1530,7 +1932,10 @@ bpn2255
 
 -- Bahá'u'lláh
 
-bpn2261 
+Prayer bpn2261 in România (bpn2261) 
+
+[bahaiprayers.net 2261](https://bahaiprayers.net/Book/Single/12/2261)
+
 
 ----
 
@@ -1540,7 +1945,10 @@ bpn2261
 
 -- Bahá'u'lláh
 
-bpn2263 
+Prayer bpn2263 in România (bpn2263) 
+
+[bahaiprayers.net 2263](https://bahaiprayers.net/Book/Single/12/2263)
+
 
 ----
 
@@ -1550,7 +1958,10 @@ bpn2263
 
 -- Bahá'u'lláh
 
-bpn2264 
+Prayer bpn2264 in România (bpn2264) 
+
+[bahaiprayers.net 2264](https://bahaiprayers.net/Book/Single/12/2264)
+
 
 ----
 
@@ -1560,7 +1971,10 @@ bpn2264
 
 -- Bahá'u'lláh
 
-bpn2265 
+Prayer bpn2265 in România (bpn2265) 
+
+[bahaiprayers.net 2265](https://bahaiprayers.net/Book/Single/12/2265)
+
 
 ----
 
@@ -1570,7 +1984,10 @@ bpn2265
 
 -- Abdu'l-Bahá
 
-bpn2262 
+Prayer bpn2262 in România (bpn2262) 
+
+[bahaiprayers.net 2262](https://bahaiprayers.net/Book/Single/12/2262)
+
 
 ----
 
@@ -1580,7 +1997,10 @@ bpn2262
 
 -- Abdu'l-Bahá
 
-bpn2266 
+Prayer bpn2266 in România (bpn2266) 
+
+[bahaiprayers.net 2266](https://bahaiprayers.net/Book/Single/12/2266)
+
 
 ----
 
@@ -1590,7 +2010,10 @@ bpn2266
 
 -- Abdu'l-Bahá
 
-bpn2267 
+Prayer bpn2267 in România (bpn2267) 
+
+[bahaiprayers.net 2267](https://bahaiprayers.net/Book/Single/12/2267)
+
 
 ----
 
@@ -1604,7 +2027,10 @@ bpn2267
 
 -- Abdu'l-Bahá
 
-bpn2268 
+Prayer bpn2268 in România (bpn2268) 
+
+[bahaiprayers.net 2268](https://bahaiprayers.net/Book/Single/12/2268)
+
 
 ----
 
@@ -1614,7 +2040,10 @@ bpn2268
 
 -- Abdu'l-Bahá
 
-bpn2269 
+Prayer bpn2269 in România (bpn2269) 
+
+[bahaiprayers.net 2269](https://bahaiprayers.net/Book/Single/12/2269)
+
 
 ----
 
@@ -1624,7 +2053,10 @@ bpn2269
 
 -- Abdu'l-Bahá
 
-bpn2270 
+Prayer bpn2270 in România (bpn2270) 
+
+[bahaiprayers.net 2270](https://bahaiprayers.net/Book/Single/12/2270)
+
 
 ----
 
@@ -1634,7 +2066,10 @@ bpn2270
 
 -- Abdu'l-Bahá
 
-bpn2271 
+Prayer bpn2271 in România (bpn2271) 
+
+[bahaiprayers.net 2271](https://bahaiprayers.net/Book/Single/12/2271)
+
 
 ----
 
@@ -1644,7 +2079,10 @@ bpn2271
 
 -- Abdu'l-Bahá
 
-bpn2272 
+Prayer bpn2272 in România (bpn2272) 
+
+[bahaiprayers.net 2272](https://bahaiprayers.net/Book/Single/12/2272)
+
 
 ----
 
@@ -1654,7 +2092,10 @@ bpn2272
 
 -- Abdu'l-Bahá
 
-bpn2273 
+Prayer bpn2273 in România (bpn2273) 
+
+[bahaiprayers.net 2273](https://bahaiprayers.net/Book/Single/12/2273)
+
 
 ----
 
@@ -1664,7 +2105,10 @@ bpn2273
 
 -- Abdu'l-Bahá
 
-bpn2274 
+Prayer bpn2274 in România (bpn2274) 
+
+[bahaiprayers.net 2274](https://bahaiprayers.net/Book/Single/12/2274)
+
 
 ----
 
@@ -1674,7 +2118,10 @@ bpn2274
 
 -- Abdu'l-Bahá
 
-bpn2275 
+Prayer bpn2275 in România (bpn2275) 
+
+[bahaiprayers.net 2275](https://bahaiprayers.net/Book/Single/12/2275)
+
 
 ----
 
@@ -1684,7 +2131,10 @@ bpn2275
 
 -- Abdu'l-Bahá
 
-bpn2276 
+Prayer bpn2276 in România (bpn2276) 
+
+[bahaiprayers.net 2276](https://bahaiprayers.net/Book/Single/12/2276)
+
 
 ----
 
@@ -1698,7 +2148,10 @@ bpn2276
 
 -- Bahá'u'lláh
 
-bpn2306 
+Prayer bpn2306 in România (bpn2306) 
+
+[bahaiprayers.net 2306](https://bahaiprayers.net/Book/Single/12/2306)
+
 
 ----
 
@@ -1708,7 +2161,10 @@ bpn2306
 
 -- Bahá'u'lláh
 
-bpn2307 
+Prayer bpn2307 in România (bpn2307) 
+
+[bahaiprayers.net 2307](https://bahaiprayers.net/Book/Single/12/2307)
+
 
 ----
 
@@ -1718,7 +2174,10 @@ bpn2307
 
 -- Bahá'u'lláh
 
-bpn2308 
+Prayer bpn2308 in România (bpn2308) 
+
+[bahaiprayers.net 2308](https://bahaiprayers.net/Book/Single/12/2308)
+
 
 ----
 
@@ -1728,7 +2187,10 @@ bpn2308
 
 -- Bahá'u'lláh
 
-bpn2309 
+Prayer bpn2309 in România (bpn2309) 
+
+[bahaiprayers.net 2309](https://bahaiprayers.net/Book/Single/12/2309)
+
 
 ----
 
@@ -1738,7 +2200,10 @@ bpn2309
 
 -- Bahá'u'lláh
 
-bpn2310 
+Prayer bpn2310 in România (bpn2310) 
+
+[bahaiprayers.net 2310](https://bahaiprayers.net/Book/Single/12/2310)
+
 
 ----
 
@@ -1752,7 +2217,10 @@ bpn2310
 
 -- Bahá'u'lláh
 
-bpn2277 
+Prayer bpn2277 in România (bpn2277) 
+
+[bahaiprayers.net 2277](https://bahaiprayers.net/Book/Single/12/2277)
+
 
 ----
 
@@ -1762,7 +2230,10 @@ bpn2277
 
 -- Bahá'u'lláh
 
-bpn2278 
+Prayer bpn2278 in România (bpn2278) 
+
+[bahaiprayers.net 2278](https://bahaiprayers.net/Book/Single/12/2278)
+
 
 ----
 
@@ -1772,7 +2243,10 @@ bpn2278
 
 -- Bahá'u'lláh
 
-bpn2279 
+Prayer bpn2279 in România (bpn2279) 
+
+[bahaiprayers.net 2279](https://bahaiprayers.net/Book/Single/12/2279)
+
 
 ----
 
@@ -1782,7 +2256,10 @@ bpn2279
 
 -- Bahá'u'lláh
 
-bpn2280 
+Prayer bpn2280 in România (bpn2280) 
+
+[bahaiprayers.net 2280](https://bahaiprayers.net/Book/Single/12/2280)
+
 
 ----
 
@@ -1792,7 +2269,10 @@ bpn2280
 
 -- Abdu'l-Bahá
 
-bpn2281 
+Prayer bpn2281 in România (bpn2281) 
+
+[bahaiprayers.net 2281](https://bahaiprayers.net/Book/Single/12/2281)
+
 
 ----
 
@@ -1802,7 +2282,10 @@ bpn2281
 
 -- Abdu'l-Bahá
 
-bpn2282 
+Prayer bpn2282 in România (bpn2282) 
+
+[bahaiprayers.net 2282](https://bahaiprayers.net/Book/Single/12/2282)
+
 
 ----
 
@@ -1812,7 +2295,10 @@ bpn2282
 
 -- Abdu'l-Bahá
 
-bpn2283 
+Prayer bpn2283 in România (bpn2283) 
+
+[bahaiprayers.net 2283](https://bahaiprayers.net/Book/Single/12/2283)
+
 
 ----
 
@@ -1826,7 +2312,10 @@ bpn2283
 
 -- Bahá'u'lláh
 
-bpn2260 
+Prayer bpn2260 in România (bpn2260) 
+
+[bahaiprayers.net 2260](https://bahaiprayers.net/Book/Single/12/2260)
+
 
 ----
 
@@ -1836,7 +2325,10 @@ bpn2260
 
 -- Báb
 
-bpn2256 
+Prayer bpn2256 in România (bpn2256) 
+
+[bahaiprayers.net 2256](https://bahaiprayers.net/Book/Single/12/2256)
+
 
 ----
 
@@ -1846,7 +2338,10 @@ bpn2256
 
 -- Báb
 
-bpn2257 
+Prayer bpn2257 in România (bpn2257) 
+
+[bahaiprayers.net 2257](https://bahaiprayers.net/Book/Single/12/2257)
+
 
 ----
 
@@ -1856,7 +2351,10 @@ bpn2257
 
 -- Abdu'l-Bahá
 
-bpn2258 
+Prayer bpn2258 in România (bpn2258) 
+
+[bahaiprayers.net 2258](https://bahaiprayers.net/Book/Single/12/2258)
+
 
 ----
 
@@ -1866,7 +2364,10 @@ bpn2258
 
 -- Abdu'l-Bahá
 
-bpn2259 
+Prayer bpn2259 in România (bpn2259) 
+
+[bahaiprayers.net 2259](https://bahaiprayers.net/Book/Single/12/2259)
+
 
 ----
 
@@ -1880,7 +2381,10 @@ bpn2259
 
 -- Bahá'u'lláh
 
-bpn2311 
+Prayer bpn2311 in România (bpn2311) 
+
+[bahaiprayers.net 2311](https://bahaiprayers.net/Book/Single/12/2311)
+
 
 ----
 
@@ -1894,7 +2398,10 @@ bpn2311
 
 -- Bahá'u'lláh
 
-bpn2103 
+Prayer bpn2103 in România (bpn2103) 
+
+[bahaiprayers.net 2103](https://bahaiprayers.net/Book/Single/12/2103)
+
 
 ----
 
@@ -1908,7 +2415,10 @@ bpn2103
 
 -- Bahá'u'lláh
 
-bpn2102 
+Prayer bpn2102 in România (bpn2102) 
+
+[bahaiprayers.net 2102](https://bahaiprayers.net/Book/Single/12/2102)
+
 
 ----
 
@@ -1922,7 +2432,10 @@ bpn2102
 
 -- Bahá'u'lláh
 
-bpn2101 
+Prayer bpn2101 in România (bpn2101) 
+
+[bahaiprayers.net 2101](https://bahaiprayers.net/Book/Single/12/2101)
+
 
 ----
 
@@ -1936,7 +2449,10 @@ bpn2101
 
 -- Bahá'u'lláh
 
-bpn2284 
+Prayer bpn2284 in România (bpn2284) 
+
+[bahaiprayers.net 2284](https://bahaiprayers.net/Book/Single/12/2284)
+
 
 ----
 
@@ -1946,7 +2462,10 @@ bpn2284
 
 -- Bahá'u'lláh
 
-bpn2285 
+Prayer bpn2285 in România (bpn2285) 
+
+[bahaiprayers.net 2285](https://bahaiprayers.net/Book/Single/12/2285)
+
 
 ----
 
@@ -1960,7 +2479,10 @@ bpn2285
 
 -- Bahá'u'lláh
 
-bpn2312 
+Prayer bpn2312 in România (bpn2312) 
+
+[bahaiprayers.net 2312](https://bahaiprayers.net/Book/Single/12/2312)
+
 
 ----
 
@@ -1970,7 +2492,10 @@ bpn2312
 
 -- Abdu'l-Bahá
 
-bpn2313 
+Prayer bpn2313 in România (bpn2313) 
+
+[bahaiprayers.net 2313](https://bahaiprayers.net/Book/Single/12/2313)
+
 
 ----
 
@@ -1984,7 +2509,10 @@ bpn2313
 
 -- Abdu'l-Bahá
 
-bpn2286 
+Prayer bpn2286 in România (bpn2286) 
+
+[bahaiprayers.net 2286](https://bahaiprayers.net/Book/Single/12/2286)
+
 
 ----
 
@@ -1998,7 +2526,10 @@ bpn2286
 
 -- Bahá'u'lláh
 
-bpn2287 
+Prayer bpn2287 in România (bpn2287) 
+
+[bahaiprayers.net 2287](https://bahaiprayers.net/Book/Single/12/2287)
+
 
 ----
 
@@ -2008,7 +2539,10 @@ bpn2287
 
 -- Bahá'u'lláh
 
-bpn2288 
+Prayer bpn2288 in România (bpn2288) 
+
+[bahaiprayers.net 2288](https://bahaiprayers.net/Book/Single/12/2288)
+
 
 ----
 
@@ -2018,7 +2552,10 @@ bpn2288
 
 -- Bahá'u'lláh
 
-bpn2289 
+Prayer bpn2289 in România (bpn2289) 
+
+[bahaiprayers.net 2289](https://bahaiprayers.net/Book/Single/12/2289)
+
 
 ----
 
@@ -2028,7 +2565,10 @@ bpn2289
 
 -- Bahá'u'lláh
 
-bpn2290 
+Prayer bpn2290 in România (bpn2290) 
+
+[bahaiprayers.net 2290](https://bahaiprayers.net/Book/Single/12/2290)
+
 
 ----
 
@@ -2038,7 +2578,10 @@ bpn2290
 
 -- Bahá'u'lláh
 
-bpn2291 
+Prayer bpn2291 in România (bpn2291) 
+
+[bahaiprayers.net 2291](https://bahaiprayers.net/Book/Single/12/2291)
+
 
 ----
 
@@ -2048,7 +2591,10 @@ bpn2291
 
 -- Bahá'u'lláh
 
-bpn2296 
+Prayer bpn2296 in România (bpn2296) 
+
+[bahaiprayers.net 2296](https://bahaiprayers.net/Book/Single/12/2296)
+
 
 ----
 
@@ -2058,7 +2604,10 @@ bpn2296
 
 -- Báb
 
-bpn2292 
+Prayer bpn2292 in România (bpn2292) 
+
+[bahaiprayers.net 2292](https://bahaiprayers.net/Book/Single/12/2292)
+
 
 ----
 
@@ -2068,7 +2617,10 @@ bpn2292
 
 -- Báb
 
-bpn2293 
+Prayer bpn2293 in România (bpn2293) 
+
+[bahaiprayers.net 2293](https://bahaiprayers.net/Book/Single/12/2293)
+
 
 ----
 
@@ -2078,7 +2630,10 @@ bpn2293
 
 -- Abdu'l-Bahá
 
-bpn2294 
+Prayer bpn2294 in România (bpn2294) 
+
+[bahaiprayers.net 2294](https://bahaiprayers.net/Book/Single/12/2294)
+
 
 ----
 
@@ -2088,7 +2643,10 @@ bpn2294
 
 -- Abdu'l-Bahá
 
-bpn2295 
+Prayer bpn2295 in România (bpn2295) 
+
+[bahaiprayers.net 2295](https://bahaiprayers.net/Book/Single/12/2295)
+
 
 ----
 
@@ -2102,7 +2660,10 @@ bpn2295
 
 -- Bahá'u'lláh
 
-bpn2316 
+Prayer bpn2316 in România (bpn2316) 
+
+[bahaiprayers.net 2316](https://bahaiprayers.net/Book/Single/12/2316)
+
 
 ----
 
@@ -2116,7 +2677,10 @@ bpn2316
 
 -- Bahá'u'lláh
 
-bpn2318 
+Prayer bpn2318 in România (bpn2318) 
+
+[bahaiprayers.net 2318](https://bahaiprayers.net/Book/Single/12/2318)
+
 
 ----
 
@@ -2130,7 +2694,10 @@ bpn2318
 
 -- Bahá'u'lláh
 
-bpn2314 
+Prayer bpn2314 in România (bpn2314) 
+
+[bahaiprayers.net 2314](https://bahaiprayers.net/Book/Single/12/2314)
+
 
 ----
 
@@ -2144,7 +2711,10 @@ bpn2314
 
 -- Bahá'u'lláh
 
-bpn2315 
+Prayer bpn2315 in România (bpn2315) 
+
+[bahaiprayers.net 2315](https://bahaiprayers.net/Book/Single/12/2315)
+
 
 ----
 
@@ -2158,7 +2728,10 @@ bpn2315
 
 -- Bahá'u'lláh
 
-bpn2317 
+Prayer bpn2317 in România (bpn2317) 
+
+[bahaiprayers.net 2317](https://bahaiprayers.net/Book/Single/12/2317)
+
 
 ----
 
@@ -2172,7 +2745,10 @@ bpn2317
 
 -- Bahá'u'lláh
 
-bpn2320 
+Prayer bpn2320 in România (bpn2320) 
+
+[bahaiprayers.net 2320](https://bahaiprayers.net/Book/Single/12/2320)
+
 
 ----
 
@@ -2186,7 +2762,10 @@ bpn2320
 
 -- Bahá'u'lláh
 
-bpn2321 
+Prayer bpn2321 in România (bpn2321) 
+
+[bahaiprayers.net 2321](https://bahaiprayers.net/Book/Single/12/2321)
+
 
 ----
 
@@ -2200,7 +2779,10 @@ bpn2321
 
 -- Bahá'u'lláh
 
-bpn2322 
+Prayer bpn2322 in România (bpn2322) 
+
+[bahaiprayers.net 2322](https://bahaiprayers.net/Book/Single/12/2322)
+
 
 ----
 
@@ -2214,7 +2796,10 @@ bpn2322
 
 -- Bahá'u'lláh
 
-bpn2323 
+Prayer bpn2323 in România (bpn2323) 
+
+[bahaiprayers.net 2323](https://bahaiprayers.net/Book/Single/12/2323)
+
 
 ----
 
@@ -2228,7 +2813,10 @@ bpn2323
 
 -- Abdu'l-Bahá
 
-bpn2319 
+Prayer bpn2319 in România (bpn2319) 
+
+[bahaiprayers.net 2319](https://bahaiprayers.net/Book/Single/12/2319)
+
 
 ----
 
@@ -2242,7 +2830,10 @@ bpn2319
 
 -- Báb
 
-bpn2297 
+Prayer bpn2297 in România (bpn2297) 
+
+[bahaiprayers.net 2297](https://bahaiprayers.net/Book/Single/12/2297)
+
 
 ----
 
@@ -2252,7 +2843,10 @@ bpn2297
 
 -- Báb
 
-bpn2298 
+Prayer bpn2298 in România (bpn2298) 
+
+[bahaiprayers.net 2298](https://bahaiprayers.net/Book/Single/12/2298)
+
 
 ----
 
@@ -2262,7 +2856,10 @@ bpn2298
 
 -- Báb
 
-bpn2299 
+Prayer bpn2299 in România (bpn2299) 
+
+[bahaiprayers.net 2299](https://bahaiprayers.net/Book/Single/12/2299)
+
 
 ----
 
@@ -2272,7 +2869,10 @@ bpn2299
 
 -- Báb
 
-bpn2300 
+Prayer bpn2300 in România (bpn2300) 
+
+[bahaiprayers.net 2300](https://bahaiprayers.net/Book/Single/12/2300)
+
 
 ----
 
@@ -2286,7 +2886,10 @@ bpn2300
 
 -- Bahá'u'lláh
 
-bpn2303 
+Prayer bpn2303 in România (bpn2303) 
+
+[bahaiprayers.net 2303](https://bahaiprayers.net/Book/Single/12/2303)
+
 
 ----
 
@@ -2296,7 +2899,10 @@ bpn2303
 
 -- Abdu'l-Bahá
 
-bpn2301 
+Prayer bpn2301 in România (bpn2301) 
+
+[bahaiprayers.net 2301](https://bahaiprayers.net/Book/Single/12/2301)
+
 
 ----
 
@@ -2306,7 +2912,10 @@ bpn2301
 
 -- Abdu'l-Bahá
 
-bpn2302 
+Prayer bpn2302 in România (bpn2302) 
+
+[bahaiprayers.net 2302](https://bahaiprayers.net/Book/Single/12/2302)
+
 
 ----
 
@@ -2320,7 +2929,10 @@ bpn2302
 
 -- Abdu'l-Bahá
 
-bpn2304 
+Prayer bpn2304 in România (bpn2304) 
+
+[bahaiprayers.net 2304](https://bahaiprayers.net/Book/Single/12/2304)
+
 
 ----
 
@@ -2334,7 +2946,10 @@ bpn2304
 
 -- Bahá'u'lláh
 
-bpn2324 
+Prayer bpn2324 in România (bpn2324) 
+
+[bahaiprayers.net 2324](https://bahaiprayers.net/Book/Single/12/2324)
+
 
 ----
 
@@ -2344,7 +2959,10 @@ bpn2324
 
 -- Bahá'u'lláh
 
-bpn2325 
+Prayer bpn2325 in România (bpn2325) 
+
+[bahaiprayers.net 2325](https://bahaiprayers.net/Book/Single/12/2325)
+
 
 ----
 
@@ -2358,7 +2976,10 @@ bpn2325
 
 -- Bahá'u'lláh
 
-bpn2222 
+Prayer bpn2222 in România (bpn2222) 
+
+[bahaiprayers.net 2222](https://bahaiprayers.net/Book/Single/12/2222)
+
 
 ----
 
@@ -2368,7 +2989,10 @@ bpn2222
 
 -- Bahá'u'lláh
 
-bpn2223 
+Prayer bpn2223 in România (bpn2223) 
+
+[bahaiprayers.net 2223](https://bahaiprayers.net/Book/Single/12/2223)
+
 
 ----
 
@@ -2378,7 +3002,10 @@ bpn2223
 
 -- Bahá'u'lláh
 
-bpn2224 
+Prayer bpn2224 in România (bpn2224) 
+
+[bahaiprayers.net 2224](https://bahaiprayers.net/Book/Single/12/2224)
+
 
 ----
 
@@ -2388,7 +3015,10 @@ bpn2224
 
 -- Bahá'u'lláh
 
-bpn2225 
+Prayer bpn2225 in România (bpn2225) 
+
+[bahaiprayers.net 2225](https://bahaiprayers.net/Book/Single/12/2225)
+
 
 ----
 
@@ -2398,7 +3028,10 @@ bpn2225
 
 -- Báb
 
-bpn2226 
+Prayer bpn2226 in România (bpn2226) 
+
+[bahaiprayers.net 2226](https://bahaiprayers.net/Book/Single/12/2226)
+
 
 ----
 
@@ -2408,7 +3041,10 @@ bpn2226
 
 -- Báb
 
-bpn2229 
+Prayer bpn2229 in România (bpn2229) 
+
+[bahaiprayers.net 2229](https://bahaiprayers.net/Book/Single/12/2229)
+
 
 ----
 
@@ -2418,7 +3054,10 @@ bpn2229
 
 -- Abdu'l-Bahá
 
-bpn2221 
+Prayer bpn2221 in România (bpn2221) 
+
+[bahaiprayers.net 2221](https://bahaiprayers.net/Book/Single/12/2221)
+
 
 ----
 
@@ -2428,7 +3067,10 @@ bpn2221
 
 -- Abdu'l-Bahá
 
-bpn2227 
+Prayer bpn2227 in România (bpn2227) 
+
+[bahaiprayers.net 2227](https://bahaiprayers.net/Book/Single/12/2227)
+
 
 ----
 
@@ -2438,7 +3080,10 @@ bpn2227
 
 -- Abdu'l-Bahá
 
-bpn2228 
+Prayer bpn2228 in România (bpn2228) 
+
+[bahaiprayers.net 2228](https://bahaiprayers.net/Book/Single/12/2228)
+
 
 ----
 
@@ -2452,7 +3097,10 @@ bpn2228
 
 -- Bahá'u'lláh
 
-bpn2232 
+Prayer bpn2232 in România (bpn2232) 
+
+[bahaiprayers.net 2232](https://bahaiprayers.net/Book/Single/12/2232)
+
 
 ----
 
@@ -2462,7 +3110,10 @@ bpn2232
 
 -- Bahá'u'lláh
 
-bpn2233 
+Prayer bpn2233 in România (bpn2233) 
+
+[bahaiprayers.net 2233](https://bahaiprayers.net/Book/Single/12/2233)
+
 
 ----
 
@@ -2472,7 +3123,10 @@ bpn2233
 
 -- Bahá'u'lláh
 
-bpn2234 
+Prayer bpn2234 in România (bpn2234) 
+
+[bahaiprayers.net 2234](https://bahaiprayers.net/Book/Single/12/2234)
+
 
 ----
 
@@ -2482,7 +3136,10 @@ bpn2234
 
 -- Bahá'u'lláh
 
-bpn2235 
+Prayer bpn2235 in România (bpn2235) 
+
+[bahaiprayers.net 2235](https://bahaiprayers.net/Book/Single/12/2235)
+
 
 ----
 
@@ -2492,7 +3149,10 @@ bpn2235
 
 -- Abdu'l-Bahá
 
-bpn2230 
+Prayer bpn2230 in România (bpn2230) 
+
+[bahaiprayers.net 2230](https://bahaiprayers.net/Book/Single/12/2230)
+
 
 ----
 
@@ -2502,7 +3162,10 @@ bpn2230
 
 -- Abdu'l-Bahá
 
-bpn2231 
+Prayer bpn2231 in România (bpn2231) 
+
+[bahaiprayers.net 2231](https://bahaiprayers.net/Book/Single/12/2231)
+
 
 ----
 
@@ -2516,7 +3179,10 @@ bpn2231
 
 -- Abdu'l-Bahá
 
-bpn2236 
+Prayer bpn2236 in România (bpn2236) 
+
+[bahaiprayers.net 2236](https://bahaiprayers.net/Book/Single/12/2236)
+
 
 ----
 
@@ -2526,7 +3192,10 @@ bpn2236
 
 -- Abdu'l-Bahá
 
-bpn2237 
+Prayer bpn2237 in România (bpn2237) 
+
+[bahaiprayers.net 2237](https://bahaiprayers.net/Book/Single/12/2237)
+
 
 ----
 
@@ -2536,7 +3205,10 @@ bpn2237
 
 -- Abdu'l-Bahá
 
-bpn2238 
+Prayer bpn2238 in România (bpn2238) 
+
+[bahaiprayers.net 2238](https://bahaiprayers.net/Book/Single/12/2238)
+
 
 ----
 
@@ -2546,7 +3218,10 @@ bpn2238
 
 -- Abdu'l-Bahá
 
-bpn2239 
+Prayer bpn2239 in România (bpn2239) 
+
+[bahaiprayers.net 2239](https://bahaiprayers.net/Book/Single/12/2239)
+
 
 ----
 

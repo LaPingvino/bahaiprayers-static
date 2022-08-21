@@ -42,7 +42,10 @@ tags = ['lang=cs', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn2869 
+Prayer bpn2869 in Česky (bpn2869) 
+
+[bahaiprayers.net 2869](https://bahaiprayers.net/Book/Single/18/2869)
+
 
 ----
 
@@ -56,7 +59,10 @@ bpn2869
 
 -- Bahá'u'lláh
 
-bpn2868 
+Prayer bpn2868 in Česky (bpn2868) 
+
+[bahaiprayers.net 2868](https://bahaiprayers.net/Book/Single/18/2868)
+
 
 ----
 
@@ -70,7 +76,10 @@ bpn2868
 
 -- Bahá'u'lláh
 
-bpn2865 
+Prayer bpn2865 in Česky (bpn2865) 
+
+[bahaiprayers.net 2865](https://bahaiprayers.net/Book/Single/18/2865)
+
 
 ----
 
@@ -84,7 +93,10 @@ bpn2865
 
 -- Abdu'l-Bahá
 
-bpn2884 
+Prayer bpn2884 in Česky (bpn2884) 
+
+[bahaiprayers.net 2884](https://bahaiprayers.net/Book/Single/18/2884)
+
 
 ----
 
@@ -98,7 +110,10 @@ bpn2884
 
 -- Abdu'l-Bahá
 
-bpn2882 
+Prayer bpn2882 in Česky (bpn2882) 
+
+[bahaiprayers.net 2882](https://bahaiprayers.net/Book/Single/18/2882)
+
 
 ----
 
@@ -112,7 +127,10 @@ bpn2882
 
 -- Báb
 
-bpn2870 
+Prayer bpn2870 in Česky (bpn2870) 
+
+[bahaiprayers.net 2870](https://bahaiprayers.net/Book/Single/18/2870)
+
 
 ----
 
@@ -126,7 +144,10 @@ bpn2870
 
 -- Bahá'u'lláh
 
-bpn2871 
+Prayer bpn2871 in Česky (bpn2871) 
+
+[bahaiprayers.net 2871](https://bahaiprayers.net/Book/Single/18/2871)
+
 
 ----
 
@@ -136,7 +157,10 @@ bpn2871
 
 -- Báb
 
-bpn2872 
+Prayer bpn2872 in Česky (bpn2872) 
+
+[bahaiprayers.net 2872](https://bahaiprayers.net/Book/Single/18/2872)
+
 
 ----
 
@@ -150,7 +174,10 @@ bpn2872
 
 -- Bahá'u'lláh
 
-bpn2873 
+Prayer bpn2873 in Česky (bpn2873) 
+
+[bahaiprayers.net 2873](https://bahaiprayers.net/Book/Single/18/2873)
+
 
 ----
 
@@ -160,7 +187,10 @@ bpn2873
 
 -- Báb
 
-bpn2874 
+Prayer bpn2874 in Česky (bpn2874) 
+
+[bahaiprayers.net 2874](https://bahaiprayers.net/Book/Single/18/2874)
+
 
 ----
 
@@ -170,7 +200,10 @@ bpn2874
 
 -- Báb
 
-bpn2875 
+Prayer bpn2875 in Česky (bpn2875) 
+
+[bahaiprayers.net 2875](https://bahaiprayers.net/Book/Single/18/2875)
+
 
 ----
 
@@ -180,7 +213,10 @@ bpn2875
 
 -- Abdu'l-Bahá
 
-bpn2876 
+Prayer bpn2876 in Česky (bpn2876) 
+
+[bahaiprayers.net 2876](https://bahaiprayers.net/Book/Single/18/2876)
+
 
 ----
 
@@ -194,7 +230,10 @@ bpn2876
 
 -- Bahá'u'lláh
 
-bpn2866 
+Prayer bpn2866 in Česky (bpn2866) 
+
+[bahaiprayers.net 2866](https://bahaiprayers.net/Book/Single/18/2866)
+
 
 ----
 
@@ -204,7 +243,10 @@ bpn2866
 
 -- Abdu'l-Bahá
 
-bpn2867 
+Prayer bpn2867 in Česky (bpn2867) 
+
+[bahaiprayers.net 2867](https://bahaiprayers.net/Book/Single/18/2867)
+
 
 ----
 
@@ -218,7 +260,10 @@ bpn2867
 
 -- Bahá'u'lláh
 
-bpn2880 
+Prayer bpn2880 in Česky (bpn2880) 
+
+[bahaiprayers.net 2880](https://bahaiprayers.net/Book/Single/18/2880)
+
 
 ----
 
@@ -228,7 +273,10 @@ bpn2880
 
 -- Abdu'l-Bahá
 
-bpn2881 
+Prayer bpn2881 in Česky (bpn2881) 
+
+[bahaiprayers.net 2881](https://bahaiprayers.net/Book/Single/18/2881)
+
 
 ----
 
@@ -242,7 +290,10 @@ bpn2881
 
 -- Abdu'l-Bahá
 
-bpn2883 
+Prayer bpn2883 in Česky (bpn2883) 
+
+[bahaiprayers.net 2883](https://bahaiprayers.net/Book/Single/18/2883)
+
 
 ----
 
@@ -256,7 +307,10 @@ bpn2883
 
 -- Bahá'u'lláh
 
-bpn2879 
+Prayer bpn2879 in Česky (bpn2879) 
+
+[bahaiprayers.net 2879](https://bahaiprayers.net/Book/Single/18/2879)
+
 
 ----
 
@@ -270,7 +324,10 @@ bpn2879
 
 -- Bahá'u'lláh
 
-bpn2877 
+Prayer bpn2877 in Česky (bpn2877) 
+
+[bahaiprayers.net 2877](https://bahaiprayers.net/Book/Single/18/2877)
+
 
 ----
 
@@ -280,7 +337,10 @@ bpn2877
 
 -- Bahá'u'lláh
 
-bpn2878 
+Prayer bpn2878 in Česky (bpn2878) 
+
+[bahaiprayers.net 2878](https://bahaiprayers.net/Book/Single/18/2878)
+
 
 ----
 

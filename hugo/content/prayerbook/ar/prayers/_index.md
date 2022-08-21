@@ -106,7 +106,10 @@ tags = ['lang=ar', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6368 
+Prayer bpn6368 in العربية (bpn6368) 
+
+[bahaiprayers.net 6368](https://bahaiprayers.net/Book/Single/6/6368)
+
 
 ----
 
@@ -116,7 +119,10 @@ bpn6368
 
 -- Bahá'u'lláh
 
-bpn9946 
+Prayer bpn9946 in العربية (bpn9946) 
+
+[bahaiprayers.net 9946](https://bahaiprayers.net/Book/Single/6/9946)
+
 
 ----
 
@@ -126,7 +132,10 @@ bpn9946
 
 -- Bahá'u'lláh
 
-bpn9947 
+Prayer bpn9947 in العربية (bpn9947) 
+
+[bahaiprayers.net 9947](https://bahaiprayers.net/Book/Single/6/9947)
+
 
 ----
 
@@ -136,7 +145,10 @@ bpn9947
 
 -- Bahá'u'lláh
 
-bpn9948 
+Prayer bpn9948 in العربية (bpn9948) 
+
+[bahaiprayers.net 9948](https://bahaiprayers.net/Book/Single/6/9948)
+
 
 ----
 
@@ -146,7 +158,10 @@ bpn9948
 
 -- Bahá'u'lláh
 
-bpn9949 
+Prayer bpn9949 in العربية (bpn9949) 
+
+[bahaiprayers.net 9949](https://bahaiprayers.net/Book/Single/6/9949)
+
 
 ----
 
@@ -156,7 +171,10 @@ bpn9949
 
 -- Bahá'u'lláh
 
-bpn9950 
+Prayer bpn9950 in العربية (bpn9950) 
+
+[bahaiprayers.net 9950](https://bahaiprayers.net/Book/Single/6/9950)
+
 
 ----
 
@@ -166,7 +184,10 @@ bpn9950
 
 -- Bahá'u'lláh
 
-bpn9951 
+Prayer bpn9951 in العربية (bpn9951) 
+
+[bahaiprayers.net 9951](https://bahaiprayers.net/Book/Single/6/9951)
+
 
 ----
 
@@ -176,7 +197,10 @@ bpn9951
 
 -- Bahá'u'lláh
 
-bpn9952 
+Prayer bpn9952 in العربية (bpn9952) 
+
+[bahaiprayers.net 9952](https://bahaiprayers.net/Book/Single/6/9952)
+
 
 ----
 
@@ -186,7 +210,10 @@ bpn9952
 
 -- Bahá'u'lláh
 
-bpn9953 
+Prayer bpn9953 in العربية (bpn9953) 
+
+[bahaiprayers.net 9953](https://bahaiprayers.net/Book/Single/6/9953)
+
 
 ----
 
@@ -196,7 +223,10 @@ bpn9953
 
 -- Bahá'u'lláh
 
-bpn9954 
+Prayer bpn9954 in العربية (bpn9954) 
+
+[bahaiprayers.net 9954](https://bahaiprayers.net/Book/Single/6/9954)
+
 
 ----
 
@@ -206,7 +236,10 @@ bpn9954
 
 -- Bahá'u'lláh
 
-bpn9955 
+Prayer bpn9955 in العربية (bpn9955) 
+
+[bahaiprayers.net 9955](https://bahaiprayers.net/Book/Single/6/9955)
+
 
 ----
 
@@ -216,7 +249,10 @@ bpn9955
 
 -- Bahá'u'lláh
 
-bpn9956 
+Prayer bpn9956 in العربية (bpn9956) 
+
+[bahaiprayers.net 9956](https://bahaiprayers.net/Book/Single/6/9956)
+
 
 ----
 
@@ -226,7 +262,10 @@ bpn9956
 
 -- Bahá'u'lláh
 
-bpn9957 
+Prayer bpn9957 in العربية (bpn9957) 
+
+[bahaiprayers.net 9957](https://bahaiprayers.net/Book/Single/6/9957)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn9957
 
 -- Bahá'u'lláh
 
-bpn8757 
+Prayer bpn8757 in العربية (bpn8757) 
+
+[bahaiprayers.net 8757](https://bahaiprayers.net/Book/Single/6/8757)
+
 
 ----
 
@@ -250,7 +292,10 @@ bpn8757
 
 -- Bahá'u'lláh
 
-bpn8758 
+Prayer bpn8758 in العربية (bpn8758) 
+
+[bahaiprayers.net 8758](https://bahaiprayers.net/Book/Single/6/8758)
+
 
 ----
 
@@ -260,7 +305,10 @@ bpn8758
 
 -- Bahá'u'lláh
 
-bpn8759 
+Prayer bpn8759 in العربية (bpn8759) 
+
+[bahaiprayers.net 8759](https://bahaiprayers.net/Book/Single/6/8759)
+
 
 ----
 
@@ -270,7 +318,10 @@ bpn8759
 
 -- Abdu'l-Bahá
 
-bpn8760 
+Prayer bpn8760 in العربية (bpn8760) 
+
+[bahaiprayers.net 8760](https://bahaiprayers.net/Book/Single/6/8760)
+
 
 ----
 
@@ -280,7 +331,10 @@ bpn8760
 
 -- Abdu'l-Bahá
 
-bpn8761 
+Prayer bpn8761 in العربية (bpn8761) 
+
+[bahaiprayers.net 8761](https://bahaiprayers.net/Book/Single/6/8761)
+
 
 ----
 
@@ -290,7 +344,10 @@ bpn8761
 
 -- Abdu'l-Bahá
 
-bpn8762 
+Prayer bpn8762 in العربية (bpn8762) 
+
+[bahaiprayers.net 8762](https://bahaiprayers.net/Book/Single/6/8762)
+
 
 ----
 
@@ -300,7 +357,10 @@ bpn8762
 
 -- Abdu'l-Bahá
 
-bpn8763 
+Prayer bpn8763 in العربية (bpn8763) 
+
+[bahaiprayers.net 8763](https://bahaiprayers.net/Book/Single/6/8763)
+
 
 ----
 
@@ -310,7 +370,10 @@ bpn8763
 
 -- Abdu'l-Bahá
 
-bpn8764 
+Prayer bpn8764 in العربية (bpn8764) 
+
+[bahaiprayers.net 8764](https://bahaiprayers.net/Book/Single/6/8764)
+
 
 ----
 
@@ -320,7 +383,10 @@ bpn8764
 
 -- Abdu'l-Bahá
 
-bpn8765 
+Prayer bpn8765 in العربية (bpn8765) 
+
+[bahaiprayers.net 8765](https://bahaiprayers.net/Book/Single/6/8765)
+
 
 ----
 
@@ -330,7 +396,10 @@ bpn8765
 
 -- Abdu'l-Bahá
 
-bpn8766 
+Prayer bpn8766 in العربية (bpn8766) 
+
+[bahaiprayers.net 8766](https://bahaiprayers.net/Book/Single/6/8766)
+
 
 ----
 
@@ -340,7 +409,10 @@ bpn8766
 
 -- Abdu'l-Bahá
 
-bpn8767 
+Prayer bpn8767 in العربية (bpn8767) 
+
+[bahaiprayers.net 8767](https://bahaiprayers.net/Book/Single/6/8767)
+
 
 ----
 
@@ -350,7 +422,10 @@ bpn8767
 
 -- Abdu'l-Bahá
 
-bpn8768 
+Prayer bpn8768 in العربية (bpn8768) 
+
+[bahaiprayers.net 8768](https://bahaiprayers.net/Book/Single/6/8768)
+
 
 ----
 
@@ -360,7 +435,10 @@ bpn8768
 
 -- Abdu'l-Bahá
 
-bpn8769 
+Prayer bpn8769 in العربية (bpn8769) 
+
+[bahaiprayers.net 8769](https://bahaiprayers.net/Book/Single/6/8769)
+
 
 ----
 
@@ -370,7 +448,10 @@ bpn8769
 
 -- Abdu'l-Bahá
 
-bpn8770 
+Prayer bpn8770 in العربية (bpn8770) 
+
+[bahaiprayers.net 8770](https://bahaiprayers.net/Book/Single/6/8770)
+
 
 ----
 
@@ -384,7 +465,10 @@ bpn8770
 
 -- Bahá'u'lláh
 
-bpn9521 
+Prayer bpn9521 in العربية (bpn9521) 
+
+[bahaiprayers.net 9521](https://bahaiprayers.net/Book/Single/6/9521)
+
 
 ----
 
@@ -394,7 +478,10 @@ bpn9521
 
 -- Bahá'u'lláh
 
-bpn9522 
+Prayer bpn9522 in العربية (bpn9522) 
+
+[bahaiprayers.net 9522](https://bahaiprayers.net/Book/Single/6/9522)
+
 
 ----
 
@@ -404,7 +491,10 @@ bpn9522
 
 -- Bahá'u'lláh
 
-bpn9523 
+Prayer bpn9523 in العربية (bpn9523) 
+
+[bahaiprayers.net 9523](https://bahaiprayers.net/Book/Single/6/9523)
+
 
 ----
 
@@ -418,7 +508,10 @@ bpn9523
 
 -- Abdu'l-Bahá
 
-bpn6370 
+Prayer bpn6370 in العربية (bpn6370) 
+
+[bahaiprayers.net 6370](https://bahaiprayers.net/Book/Single/6/6370)
+
 
 ----
 
@@ -428,7 +521,10 @@ bpn6370
 
 -- Abdu'l-Bahá
 
-bpn6444 
+Prayer bpn6444 in العربية (bpn6444) 
+
+[bahaiprayers.net 6444](https://bahaiprayers.net/Book/Single/6/6444)
+
 
 ----
 
@@ -438,7 +534,10 @@ bpn6444
 
 -- Abdu'l-Bahá
 
-bpn6445 
+Prayer bpn6445 in العربية (bpn6445) 
+
+[bahaiprayers.net 6445](https://bahaiprayers.net/Book/Single/6/6445)
+
 
 ----
 
@@ -448,7 +547,10 @@ bpn6445
 
 -- Abdu'l-Bahá
 
-bpn6446 
+Prayer bpn6446 in العربية (bpn6446) 
+
+[bahaiprayers.net 6446](https://bahaiprayers.net/Book/Single/6/6446)
+
 
 ----
 
@@ -458,7 +560,10 @@ bpn6446
 
 -- Abdu'l-Bahá
 
-bpn6448 
+Prayer bpn6448 in العربية (bpn6448) 
+
+[bahaiprayers.net 6448](https://bahaiprayers.net/Book/Single/6/6448)
+
 
 ----
 
@@ -468,7 +573,10 @@ bpn6448
 
 -- Abdu'l-Bahá
 
-bpn6369 
+Prayer bpn6369 in العربية (bpn6369) 
+
+[bahaiprayers.net 6369](https://bahaiprayers.net/Book/Single/6/6369)
+
 
 ----
 
@@ -478,7 +586,10 @@ bpn6369
 
 -- Abdu'l-Bahá
 
-bpn6447 
+Prayer bpn6447 in العربية (bpn6447) 
+
+[bahaiprayers.net 6447](https://bahaiprayers.net/Book/Single/6/6447)
+
 
 ----
 
@@ -492,7 +603,10 @@ bpn6447
 
 -- Bahá'u'lláh
 
-bpn9405 
+Prayer bpn9405 in العربية (bpn9405) 
+
+[bahaiprayers.net 9405](https://bahaiprayers.net/Book/Single/6/9405)
+
 
 ----
 
@@ -506,7 +620,10 @@ bpn9405
 
 -- Bahá'u'lláh
 
-bpn3266 
+Prayer bpn3266 in العربية (bpn3266) 
+
+[bahaiprayers.net 3266](https://bahaiprayers.net/Book/Single/6/3266)
+
 
 ----
 
@@ -516,7 +633,10 @@ bpn3266
 
 -- Bahá'u'lláh
 
-bpn3267 
+Prayer bpn3267 in العربية (bpn3267) 
+
+[bahaiprayers.net 3267](https://bahaiprayers.net/Book/Single/6/3267)
+
 
 ----
 
@@ -530,7 +650,10 @@ bpn3267
 
 -- Abdu'l-Bahá
 
-bpn2649 
+Prayer bpn2649 in العربية (bpn2649) 
+
+[bahaiprayers.net 2649](https://bahaiprayers.net/Book/Single/6/2649)
+
 
 ----
 
@@ -540,7 +663,10 @@ bpn2649
 
 -- Abdu'l-Bahá
 
-bpn2650 
+Prayer bpn2650 in العربية (bpn2650) 
+
+[bahaiprayers.net 2650](https://bahaiprayers.net/Book/Single/6/2650)
+
 
 ----
 
@@ -550,7 +676,10 @@ bpn2650
 
 -- Abdu'l-Bahá
 
-bpn3296 
+Prayer bpn3296 in العربية (bpn3296) 
+
+[bahaiprayers.net 3296](https://bahaiprayers.net/Book/Single/6/3296)
+
 
 ----
 
@@ -564,7 +693,10 @@ bpn3296
 
 -- Bahá'u'lláh
 
-bpn3259 
+Prayer bpn3259 in العربية (bpn3259) 
+
+[bahaiprayers.net 3259](https://bahaiprayers.net/Book/Single/6/3259)
+
 
 ----
 
@@ -574,7 +706,10 @@ bpn3259
 
 -- Bahá'u'lláh
 
-bpn3268 
+Prayer bpn3268 in العربية (bpn3268) 
+
+[bahaiprayers.net 3268](https://bahaiprayers.net/Book/Single/6/3268)
+
 
 ----
 
@@ -584,7 +719,10 @@ bpn3268
 
 -- Bahá'u'lláh
 
-bpn2648 
+Prayer bpn2648 in العربية (bpn2648) 
+
+[bahaiprayers.net 2648](https://bahaiprayers.net/Book/Single/6/2648)
+
 
 ----
 
@@ -594,7 +732,10 @@ bpn2648
 
 -- Bahá'u'lláh
 
-bpn3264 
+Prayer bpn3264 in العربية (bpn3264) 
+
+[bahaiprayers.net 3264](https://bahaiprayers.net/Book/Single/6/3264)
+
 
 ----
 
@@ -604,7 +745,10 @@ bpn3264
 
 -- Bahá'u'lláh
 
-bpn3258 
+Prayer bpn3258 in العربية (bpn3258) 
+
+[bahaiprayers.net 3258](https://bahaiprayers.net/Book/Single/6/3258)
+
 
 ----
 
@@ -614,7 +758,10 @@ bpn3258
 
 -- Báb
 
-bpn3001 
+Prayer bpn3001 in العربية (bpn3001) 
+
+[bahaiprayers.net 3001](https://bahaiprayers.net/Book/Single/6/3001)
+
 
 ----
 
@@ -624,7 +771,10 @@ bpn3001
 
 -- Báb
 
-BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Esperanto](../../eo/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» 
+Remover of Difficulties in العربية (BB00623) «[Esperanto](../../eo/prayers/#BB00623)» «[Tuvalu](../../tvl/prayers/#BB00623)» «[Frysk](../../fy/prayers/#BB00623)» «[English](../../en/prayers/#BB00623)» «[Português (BR)](../../pt/prayers/#BB00623)» «[Français](../../fr/prayers/#BB00623)» «[Papiamentu](../../pap/prayers/#BB00623)» 
+
+[bahaiprayers.net 2921](https://bahaiprayers.net/Book/Single/6/2921)
+
 
 ----
 
@@ -634,7 +784,10 @@ BB00623 «[Tuvalu](../../tvl/prayers/#BB00623)» «[Papiamentu](../../pap/prayer
 
 -- Báb
 
-bpn3011 
+Prayer bpn3011 in العربية (bpn3011) 
+
+[bahaiprayers.net 3011](https://bahaiprayers.net/Book/Single/6/3011)
+
 
 ----
 
@@ -644,7 +797,10 @@ bpn3011
 
 -- Abdu'l-Bahá
 
-bpn3298 
+Prayer bpn3298 in العربية (bpn3298) 
+
+[bahaiprayers.net 3298](https://bahaiprayers.net/Book/Single/6/3298)
+
 
 ----
 
@@ -654,7 +810,10 @@ bpn3298
 
 -- Abdu'l-Bahá
 
-bpn3286 
+Prayer bpn3286 in العربية (bpn3286) 
+
+[bahaiprayers.net 3286](https://bahaiprayers.net/Book/Single/6/3286)
+
 
 ----
 
@@ -668,7 +827,10 @@ bpn3286
 
 -- Bahá'u'lláh
 
-bpn3254 
+Prayer bpn3254 in العربية (bpn3254) 
+
+[bahaiprayers.net 3254](https://bahaiprayers.net/Book/Single/6/3254)
+
 
 ----
 
@@ -678,7 +840,10 @@ bpn3254
 
 -- Bahá'u'lláh
 
-bpn7936 
+Prayer bpn7936 in العربية (bpn7936) 
+
+[bahaiprayers.net 7936](https://bahaiprayers.net/Book/Single/6/7936)
+
 
 ----
 
@@ -688,7 +853,10 @@ bpn7936
 
 -- Bahá'u'lláh
 
-bpn7937 
+Prayer bpn7937 in العربية (bpn7937) 
+
+[bahaiprayers.net 7937](https://bahaiprayers.net/Book/Single/6/7937)
+
 
 ----
 
@@ -698,7 +866,10 @@ bpn7937
 
 -- Bahá'u'lláh
 
-bpn7938 
+Prayer bpn7938 in العربية (bpn7938) 
+
+[bahaiprayers.net 7938](https://bahaiprayers.net/Book/Single/6/7938)
+
 
 ----
 
@@ -708,7 +879,10 @@ bpn7938
 
 -- Bahá'u'lláh
 
-bpn7939 
+Prayer bpn7939 in العربية (bpn7939) 
+
+[bahaiprayers.net 7939](https://bahaiprayers.net/Book/Single/6/7939)
+
 
 ----
 
@@ -718,7 +892,10 @@ bpn7939
 
 -- Abdu'l-Bahá
 
-bpn3290 
+Prayer bpn3290 in العربية (bpn3290) 
+
+[bahaiprayers.net 3290](https://bahaiprayers.net/Book/Single/6/3290)
+
 
 ----
 
@@ -728,7 +905,10 @@ bpn3290
 
 -- Abdu'l-Bahá
 
-bpn3291 
+Prayer bpn3291 in العربية (bpn3291) 
+
+[bahaiprayers.net 3291](https://bahaiprayers.net/Book/Single/6/3291)
+
 
 ----
 
@@ -742,7 +922,10 @@ bpn3291
 
 -- Bahá'u'lláh
 
-bpn3260 
+Prayer bpn3260 in العربية (bpn3260) 
+
+[bahaiprayers.net 3260](https://bahaiprayers.net/Book/Single/6/3260)
+
 
 ----
 
@@ -752,7 +935,10 @@ bpn3260
 
 -- Bahá'u'lláh
 
-bpn3261 
+Prayer bpn3261 in العربية (bpn3261) 
+
+[bahaiprayers.net 3261](https://bahaiprayers.net/Book/Single/6/3261)
+
 
 ----
 
@@ -762,7 +948,10 @@ bpn3261
 
 -- Abdu'l-Bahá
 
-bpn3284 
+Prayer bpn3284 in العربية (bpn3284) 
+
+[bahaiprayers.net 3284](https://bahaiprayers.net/Book/Single/6/3284)
+
 
 ----
 
@@ -776,7 +965,10 @@ bpn3284
 
 -- Abdu'l-Bahá
 
-bpn3283 
+Prayer bpn3283 in العربية (bpn3283) 
+
+[bahaiprayers.net 3283](https://bahaiprayers.net/Book/Single/6/3283)
+
 
 ----
 
@@ -786,7 +978,10 @@ bpn3283
 
 -- Abdu'l-Bahá
 
-bpn3293 
+Prayer bpn3293 in العربية (bpn3293) 
+
+[bahaiprayers.net 3293](https://bahaiprayers.net/Book/Single/6/3293)
+
 
 ----
 
@@ -796,7 +991,10 @@ bpn3293
 
 -- Abdu'l-Bahá
 
-bpn3294 
+Prayer bpn3294 in العربية (bpn3294) 
+
+[bahaiprayers.net 3294](https://bahaiprayers.net/Book/Single/6/3294)
+
 
 ----
 
@@ -806,7 +1004,10 @@ bpn3294
 
 -- Abdu'l-Bahá
 
-bpn3295 
+Prayer bpn3295 in العربية (bpn3295) 
+
+[bahaiprayers.net 3295](https://bahaiprayers.net/Book/Single/6/3295)
+
 
 ----
 
@@ -820,7 +1021,10 @@ bpn3295
 
 -- Bahá'u'lláh
 
-bpn3250 
+Prayer bpn3250 in العربية (bpn3250) 
+
+[bahaiprayers.net 3250](https://bahaiprayers.net/Book/Single/6/3250)
+
 
 ----
 
@@ -830,7 +1034,10 @@ bpn3250
 
 -- Bahá'u'lláh
 
-bpn3256 
+Prayer bpn3256 in العربية (bpn3256) 
+
+[bahaiprayers.net 3256](https://bahaiprayers.net/Book/Single/6/3256)
+
 
 ----
 
@@ -840,7 +1047,10 @@ bpn3256
 
 -- Bahá'u'lláh
 
-bpn2944 
+Prayer bpn2944 in العربية (bpn2944) 
+
+[bahaiprayers.net 2944](https://bahaiprayers.net/Book/Single/6/2944)
+
 
 ----
 
@@ -850,7 +1060,10 @@ bpn2944
 
 -- Bahá'u'lláh
 
-bpn2603 
+Prayer bpn2603 in العربية (bpn2603) 
+
+[bahaiprayers.net 2603](https://bahaiprayers.net/Book/Single/6/2603)
+
 
 ----
 
@@ -860,7 +1073,10 @@ bpn2603
 
 -- Báb
 
-bpn2942 
+Prayer bpn2942 in العربية (bpn2942) 
+
+[bahaiprayers.net 2942](https://bahaiprayers.net/Book/Single/6/2942)
+
 
 ----
 
@@ -874,7 +1090,10 @@ bpn2942
 
 -- Abdu'l-Bahá
 
-bpn3289 
+Prayer bpn3289 in العربية (bpn3289) 
+
+[bahaiprayers.net 3289](https://bahaiprayers.net/Book/Single/6/3289)
+
 
 ----
 
@@ -884,7 +1103,10 @@ bpn3289
 
 -- Abdu'l-Bahá
 
-bpn2652 
+Prayer bpn2652 in العربية (bpn2652) 
+
+[bahaiprayers.net 2652](https://bahaiprayers.net/Book/Single/6/2652)
+
 
 ----
 
@@ -894,7 +1116,10 @@ bpn2652
 
 -- Abdu'l-Bahá
 
-bpn3287 
+Prayer bpn3287 in العربية (bpn3287) 
+
+[bahaiprayers.net 3287](https://bahaiprayers.net/Book/Single/6/3287)
+
 
 ----
 
@@ -908,7 +1133,10 @@ bpn3287
 
 -- Bahá'u'lláh
 
-bpn3255 
+Prayer bpn3255 in العربية (bpn3255) 
+
+[bahaiprayers.net 3255](https://bahaiprayers.net/Book/Single/6/3255)
+
 
 ----
 
@@ -918,7 +1146,10 @@ bpn3255
 
 -- Bahá'u'lláh
 
-bpn2606 
+Prayer bpn2606 in العربية (bpn2606) 
+
+[bahaiprayers.net 2606](https://bahaiprayers.net/Book/Single/6/2606)
+
 
 ----
 
@@ -928,7 +1159,10 @@ bpn2606
 
 -- Báb
 
-bpn2936 
+Prayer bpn2936 in العربية (bpn2936) 
+
+[bahaiprayers.net 2936](https://bahaiprayers.net/Book/Single/6/2936)
+
 
 ----
 
@@ -942,7 +1176,10 @@ bpn2936
 
 -- Bahá'u'lláh
 
-bpn3252 
+Prayer bpn3252 in العربية (bpn3252) 
+
+[bahaiprayers.net 3252](https://bahaiprayers.net/Book/Single/6/3252)
+
 
 ----
 
@@ -952,7 +1189,10 @@ bpn3252
 
 -- Bahá'u'lláh
 
-bpn3253 
+Prayer bpn3253 in العربية (bpn3253) 
+
+[bahaiprayers.net 3253](https://bahaiprayers.net/Book/Single/6/3253)
+
 
 ----
 
@@ -962,7 +1202,10 @@ bpn3253
 
 -- Bahá'u'lláh
 
-bpn2647 
+Prayer bpn2647 in العربية (bpn2647) 
+
+[bahaiprayers.net 2647](https://bahaiprayers.net/Book/Single/6/2647)
+
 
 ----
 
@@ -976,7 +1219,10 @@ bpn2647
 
 -- Abdu'l-Bahá
 
-bpn2644 
+Prayer bpn2644 in العربية (bpn2644) 
+
+[bahaiprayers.net 2644](https://bahaiprayers.net/Book/Single/6/2644)
+
 
 ----
 
@@ -990,7 +1236,10 @@ bpn2644
 
 -- Bahá'u'lláh
 
-bpn5327 
+Prayer bpn5327 in العربية (bpn5327) 
+
+[bahaiprayers.net 5327](https://bahaiprayers.net/Book/Single/6/5327)
+
 
 ----
 
@@ -1000,7 +1249,10 @@ bpn5327
 
 -- Bahá'u'lláh
 
-bpn5328 
+Prayer bpn5328 in العربية (bpn5328) 
+
+[bahaiprayers.net 5328](https://bahaiprayers.net/Book/Single/6/5328)
+
 
 ----
 
@@ -1010,7 +1262,10 @@ bpn5328
 
 -- Bahá'u'lláh
 
-bpn5329 
+Prayer bpn5329 in العربية (bpn5329) 
+
+[bahaiprayers.net 5329](https://bahaiprayers.net/Book/Single/6/5329)
+
 
 ----
 
@@ -1020,7 +1275,10 @@ bpn5329
 
 -- Bahá'u'lláh
 
-bpn2605 
+Prayer bpn2605 in العربية (bpn2605) 
+
+[bahaiprayers.net 2605](https://bahaiprayers.net/Book/Single/6/2605)
+
 
 ----
 
@@ -1030,7 +1288,10 @@ bpn2605
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» 
+Thy Name is my Healing in العربية (BH01313NAM) «[Esperanto](../../eo/prayers/#BH01313NAM)» «[Slovensky](../../sk/prayers/#BH01313NAM)» «[Nederlands](../../nl/prayers/#BH01313NAM)» «[Deutsch](../../de/prayers/#BH01313NAM)» «[Frysk](../../fy/prayers/#BH01313NAM)» «[English](../../en/prayers/#BH01313NAM)» «[Português (BR)](../../pt/prayers/#BH01313NAM)» «[Español](../../es/prayers/#BH01313NAM)» 
+
+[bahaiprayers.net 2601](https://bahaiprayers.net/Book/Single/6/2601)
+
 
 ----
 
@@ -1044,7 +1305,10 @@ BH01313NAM «[Español](../../es/prayers/#BH01313NAM)» «[Deutsch](../../de/pra
 
 -- Bahá'u'lláh
 
-bpn3248 
+Prayer bpn3248 in العربية (bpn3248) 
+
+[bahaiprayers.net 3248](https://bahaiprayers.net/Book/Single/6/3248)
+
 
 ----
 
@@ -1058,7 +1322,10 @@ bpn3248
 
 -- Bahá'u'lláh
 
-bpn3249 
+Prayer bpn3249 in العربية (bpn3249) 
+
+[bahaiprayers.net 3249](https://bahaiprayers.net/Book/Single/6/3249)
+
 
 ----
 
@@ -1072,7 +1339,10 @@ bpn3249
 
 -- Bahá'u'lláh
 
-bpn3262 
+Prayer bpn3262 in العربية (bpn3262) 
+
+[bahaiprayers.net 3262](https://bahaiprayers.net/Book/Single/6/3262)
+
 
 ----
 
@@ -1082,7 +1352,10 @@ bpn3262
 
 -- Bahá'u'lláh
 
-bpn3265 
+Prayer bpn3265 in العربية (bpn3265) 
+
+[bahaiprayers.net 3265](https://bahaiprayers.net/Book/Single/6/3265)
+
 
 ----
 
@@ -1092,7 +1365,10 @@ bpn3265
 
 -- Bahá'u'lláh
 
-bpn3263 
+Prayer bpn3263 in العربية (bpn3263) 
+
+[bahaiprayers.net 3263](https://bahaiprayers.net/Book/Single/6/3263)
+
 
 ----
 
@@ -1102,7 +1378,10 @@ bpn3263
 
 -- Abdu'l-Bahá
 
-bpn3292 
+Prayer bpn3292 in العربية (bpn3292) 
+
+[bahaiprayers.net 3292](https://bahaiprayers.net/Book/Single/6/3292)
+
 
 ----
 
@@ -1116,7 +1395,10 @@ bpn3292
 
 -- Bahá'u'lláh
 
-BH11209 «[Papiamentu](../../pap/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Esperanto](../../eo/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» 
+Short Obligatory Prayer in العربية (BH11209) «[Esperanto](../../eo/prayers/#BH11209)» «[Frysk](../../fy/prayers/#BH11209)» «[English](../../en/prayers/#BH11209)» «[Português (BR)](../../pt/prayers/#BH11209)» «[Papiamentu](../../pap/prayers/#BH11209)» 
+
+[bahaiprayers.net 2602](https://bahaiprayers.net/Book/Single/6/2602)
+
 
 ----
 
@@ -1130,7 +1412,10 @@ BH11209 «[Papiamentu](../../pap/prayers/#BH11209)» «[Português (BR)](../../p
 
 -- Bahá'u'lláh
 
-BH00987 «[Português (BR)](../../pt/prayers/#BH00987)» «[Esperanto](../../eo/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» «[Nederlands](../../nl/prayers/#BH00987)» 
+Long Obligatory Prayer in العربية (BH00987) «[Esperanto](../../eo/prayers/#BH00987)» «[Nederlands](../../nl/prayers/#BH00987)» «[English](../../en/prayers/#BH00987)» «[Português (BR)](../../pt/prayers/#BH00987)» 
+
+[bahaiprayers.net 6478](https://bahaiprayers.net/Book/Single/6/6478)
+
 
 ----
 
@@ -1144,7 +1429,10 @@ BH00987 «[Português (BR)](../../pt/prayers/#BH00987)» «[Esperanto](../../eo/
 
 -- Bahá'u'lláh
 
-BH03447 «[Português (BR)](../../pt/prayers/#BH03447)» «[Esperanto](../../eo/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» «[Nederlands](../../nl/prayers/#BH03447)» 
+Medium Obligatory Prayer in العربية (BH03447) «[Esperanto](../../eo/prayers/#BH03447)» «[Nederlands](../../nl/prayers/#BH03447)» «[English](../../en/prayers/#BH03447)» «[Português (BR)](../../pt/prayers/#BH03447)» 
+
+[bahaiprayers.net 8771](https://bahaiprayers.net/Book/Single/6/8771)
+
 
 ----
 
@@ -1158,7 +1446,10 @@ BH03447 «[Português (BR)](../../pt/prayers/#BH03447)» «[Esperanto](../../eo/
 
 -- Bahá'u'lláh
 
-bpn2962 
+Prayer bpn2962 in العربية (bpn2962) 
+
+[bahaiprayers.net 2962](https://bahaiprayers.net/Book/Single/6/2962)
+
 
 ----
 
@@ -1172,7 +1463,10 @@ bpn2962
 
 -- Bahá'u'lláh
 
-bpn3270 
+Prayer bpn3270 in العربية (bpn3270) 
+
+[bahaiprayers.net 3270](https://bahaiprayers.net/Book/Single/6/3270)
+
 
 ----
 
@@ -1186,7 +1480,10 @@ bpn3270
 
 -- Bahá'u'lláh
 
-bpn3247 
+Prayer bpn3247 in العربية (bpn3247) 
+
+[bahaiprayers.net 3247](https://bahaiprayers.net/Book/Single/6/3247)
+
 
 ----
 
@@ -1196,7 +1493,10 @@ bpn3247
 
 -- Bahá'u'lláh
 
-bpn7940 
+Prayer bpn7940 in العربية (bpn7940) 
+
+[bahaiprayers.net 7940](https://bahaiprayers.net/Book/Single/6/7940)
+
 
 ----
 
@@ -1206,7 +1506,10 @@ bpn7940
 
 -- Bahá'u'lláh
 
-bpn7941 
+Prayer bpn7941 in العربية (bpn7941) 
+
+[bahaiprayers.net 7941](https://bahaiprayers.net/Book/Single/6/7941)
+
 
 ----
 
@@ -1216,7 +1519,10 @@ bpn7941
 
 -- Abdu'l-Bahá
 
-bpn3280 
+Prayer bpn3280 in العربية (bpn3280) 
+
+[bahaiprayers.net 3280](https://bahaiprayers.net/Book/Single/6/3280)
+
 
 ----
 
@@ -1226,7 +1532,10 @@ bpn3280
 
 -- Abdu'l-Bahá
 
-bpn3281 
+Prayer bpn3281 in العربية (bpn3281) 
+
+[bahaiprayers.net 3281](https://bahaiprayers.net/Book/Single/6/3281)
+
 
 ----
 
@@ -1236,7 +1545,10 @@ bpn3281
 
 -- Abdu'l-Bahá
 
-bpn2988 
+Prayer bpn2988 in العربية (bpn2988) 
+
+[bahaiprayers.net 2988](https://bahaiprayers.net/Book/Single/6/2988)
+
 
 ----
 
@@ -1250,7 +1562,10 @@ bpn2988
 
 -- Bahá'u'lláh
 
-bpn9942 
+Prayer bpn9942 in العربية (bpn9942) 
+
+[bahaiprayers.net 9942](https://bahaiprayers.net/Book/Single/6/9942)
+
 
 ----
 
@@ -1260,7 +1575,10 @@ bpn9942
 
 -- Bahá'u'lláh
 
-bpn9943 
+Prayer bpn9943 in العربية (bpn9943) 
+
+[bahaiprayers.net 9943](https://bahaiprayers.net/Book/Single/6/9943)
+
 
 ----
 
@@ -1270,7 +1588,10 @@ bpn9943
 
 -- Bahá'u'lláh
 
-bpn9944 
+Prayer bpn9944 in العربية (bpn9944) 
+
+[bahaiprayers.net 9944](https://bahaiprayers.net/Book/Single/6/9944)
+
 
 ----
 
@@ -1280,7 +1601,10 @@ bpn9944
 
 -- Bahá'u'lláh
 
-bpn9945 
+Prayer bpn9945 in العربية (bpn9945) 
+
+[bahaiprayers.net 9945](https://bahaiprayers.net/Book/Single/6/9945)
+
 
 ----
 
@@ -1294,7 +1618,10 @@ bpn9945
 
 -- Bahá'u'lláh
 
-bpn3251 
+Prayer bpn3251 in العربية (bpn3251) 
+
+[bahaiprayers.net 3251](https://bahaiprayers.net/Book/Single/6/3251)
+
 
 ----
 
@@ -1308,7 +1635,10 @@ bpn3251
 
 -- Abdu'l-Bahá
 
-bpn3297 
+Prayer bpn3297 in العربية (bpn3297) 
+
+[bahaiprayers.net 3297](https://bahaiprayers.net/Book/Single/6/3297)
+
 
 ----
 
@@ -1322,7 +1652,10 @@ bpn3297
 
 -- Bahá'u'lláh
 
-bpn10180 
+Prayer bpn10180 in العربية (bpn10180) 
+
+[bahaiprayers.net 10180](https://bahaiprayers.net/Book/Single/6/10180)
+
 
 ----
 
@@ -1336,7 +1669,10 @@ bpn10180
 
 -- Bahá'u'lláh
 
-bpn3257 
+Prayer bpn3257 in العربية (bpn3257) 
+
+[bahaiprayers.net 3257](https://bahaiprayers.net/Book/Single/6/3257)
+
 
 ----
 
@@ -1346,7 +1682,10 @@ bpn3257
 
 -- Abdu'l-Bahá
 
-bpn2651 
+Prayer bpn2651 in العربية (bpn2651) 
+
+[bahaiprayers.net 2651](https://bahaiprayers.net/Book/Single/6/2651)
+
 
 ----
 
@@ -1356,7 +1695,10 @@ bpn2651
 
 -- Abdu'l-Bahá
 
-bpn3282 
+Prayer bpn3282 in العربية (bpn3282) 
+
+[bahaiprayers.net 3282](https://bahaiprayers.net/Book/Single/6/3282)
+
 
 ----
 
@@ -1366,7 +1708,10 @@ bpn3282
 
 -- Abdu'l-Bahá
 
-bpn3285 
+Prayer bpn3285 in العربية (bpn3285) 
+
+[bahaiprayers.net 3285](https://bahaiprayers.net/Book/Single/6/3285)
+
 
 ----
 
@@ -1376,7 +1721,10 @@ bpn3285
 
 -- Abdu'l-Bahá
 
-bpn3288 
+Prayer bpn3288 in العربية (bpn3288) 
+
+[bahaiprayers.net 3288](https://bahaiprayers.net/Book/Single/6/3288)
+
 
 ----
 
@@ -1390,7 +1738,10 @@ bpn3288
 
 -- Abdu'l-Bahá
 
-bpn3299 
+Prayer bpn3299 in العربية (bpn3299) 
+
+[bahaiprayers.net 3299](https://bahaiprayers.net/Book/Single/6/3299)
+
 
 ----
 
@@ -1404,7 +1755,10 @@ bpn3299
 
 -- Bahá'u'lláh
 
-bpn3271 
+Prayer bpn3271 in العربية (bpn3271) 
+
+[bahaiprayers.net 3271](https://bahaiprayers.net/Book/Single/6/3271)
+
 
 ----
 
@@ -1418,7 +1772,10 @@ bpn3271
 
 -- Bahá'u'lláh
 
-bpn3274 
+Prayer bpn3274 in العربية (bpn3274) 
+
+[bahaiprayers.net 3274](https://bahaiprayers.net/Book/Single/6/3274)
+
 
 ----
 
@@ -1432,7 +1789,10 @@ bpn3274
 
 -- Bahá'u'lláh
 
-bpn3276 
+Prayer bpn3276 in العربية (bpn3276) 
+
+[bahaiprayers.net 3276](https://bahaiprayers.net/Book/Single/6/3276)
+
 
 ----
 
@@ -1446,7 +1806,10 @@ bpn3276
 
 -- Bahá'u'lláh
 
-BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» «[Esperanto](../../eo/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» 
+Tablet of Ahmad in العربية (BH02022) «[Esperanto](../../eo/prayers/#BH02022)» «[Tuvalu](../../tvl/prayers/#BH02022)» «[Slovensky](../../sk/prayers/#BH02022)» «[Frysk](../../fy/prayers/#BH02022)» «[English](../../en/prayers/#BH02022)» «[Português (BR)](../../pt/prayers/#BH02022)» 
+
+[bahaiprayers.net 2604](https://bahaiprayers.net/Book/Single/6/2604)
+
 
 ----
 
@@ -1460,7 +1823,10 @@ BH02022 «[Tuvalu](../../tvl/prayers/#BH02022)» «[Português (BR)](../../pt/pr
 
 -- Bahá'u'lláh
 
-bpn3278 
+Prayer bpn3278 in العربية (bpn3278) 
+
+[bahaiprayers.net 3278](https://bahaiprayers.net/Book/Single/6/3278)
+
 
 ----
 
@@ -1474,7 +1840,10 @@ bpn3278
 
 -- Bahá'u'lláh
 
-BH00870 «[Esperanto](../../eo/prayers/#BH00870)» «[English](../../en/prayers/#BH00870)» 
+Long Healing Prayer in العربية (BH00870) «[Esperanto](../../eo/prayers/#BH00870)» «[English](../../en/prayers/#BH00870)» 
+
+[bahaiprayers.net 2645](https://bahaiprayers.net/Book/Single/6/2645)
+
 
 ----
 
@@ -1488,7 +1857,10 @@ BH00870 «[Esperanto](../../eo/prayers/#BH00870)» «[English](../../en/prayers/
 
 -- Bahá'u'lláh
 
-bpn3275 
+Prayer bpn3275 in العربية (bpn3275) 
+
+[bahaiprayers.net 3275](https://bahaiprayers.net/Book/Single/6/3275)
+
 
 ----
 
@@ -1502,7 +1874,10 @@ bpn3275
 
 -- Abdu'l-Bahá
 
-bpn4968 
+Prayer bpn4968 in العربية (bpn4968) 
+
+[bahaiprayers.net 4968](https://bahaiprayers.net/Book/Single/6/4968)
+
 
 ----
 
@@ -1512,7 +1887,10 @@ bpn4968
 
 -- Abdu'l-Bahá
 
-bpn4970 
+Prayer bpn4970 in العربية (bpn4970) 
+
+[bahaiprayers.net 4970](https://bahaiprayers.net/Book/Single/6/4970)
+
 
 ----
 
@@ -1522,7 +1900,10 @@ bpn4970
 
 -- Abdu'l-Bahá
 
-bpn4971 
+Prayer bpn4971 in العربية (bpn4971) 
+
+[bahaiprayers.net 4971](https://bahaiprayers.net/Book/Single/6/4971)
+
 
 ----
 
@@ -1532,7 +1913,10 @@ bpn4971
 
 -- Abdu'l-Bahá
 
-bpn4969 
+Prayer bpn4969 in العربية (bpn4969) 
+
+[bahaiprayers.net 4969](https://bahaiprayers.net/Book/Single/6/4969)
+
 
 ----
 
@@ -1542,7 +1926,10 @@ bpn4969
 
 -- Abdu'l-Bahá
 
-bpn4973 
+Prayer bpn4973 in العربية (bpn4973) 
+
+[bahaiprayers.net 4973](https://bahaiprayers.net/Book/Single/6/4973)
+
 
 ----
 
@@ -1552,7 +1939,10 @@ bpn4973
 
 -- Abdu'l-Bahá
 
-bpn4967 
+Prayer bpn4967 in العربية (bpn4967) 
+
+[bahaiprayers.net 4967](https://bahaiprayers.net/Book/Single/6/4967)
+
 
 ----
 
@@ -1562,7 +1952,10 @@ bpn4967
 
 -- Abdu'l-Bahá
 
-bpn4972 
+Prayer bpn4972 in العربية (bpn4972) 
+
+[bahaiprayers.net 4972](https://bahaiprayers.net/Book/Single/6/4972)
+
 
 ----
 
@@ -1576,7 +1969,10 @@ bpn4972
 
 -- Bahá'u'lláh
 
-bpn3272 
+Prayer bpn3272 in العربية (bpn3272) 
+
+[bahaiprayers.net 3272](https://bahaiprayers.net/Book/Single/6/3272)
+
 
 ----
 
@@ -1590,7 +1986,10 @@ bpn3272
 
 -- Bahá'u'lláh
 
-bpn3273 
+Prayer bpn3273 in العربية (bpn3273) 
+
+[bahaiprayers.net 3273](https://bahaiprayers.net/Book/Single/6/3273)
+
 
 ----
 
@@ -1604,7 +2003,10 @@ bpn3273
 
 -- Bahá'u'lláh
 
-bpn3269 
+Prayer bpn3269 in العربية (bpn3269) 
+
+[bahaiprayers.net 3269](https://bahaiprayers.net/Book/Single/6/3269)
+
 
 ----
 
@@ -1618,7 +2020,10 @@ bpn3269
 
 -- Abdu'l-Bahá
 
-bpn3279 
+Prayer bpn3279 in العربية (bpn3279) 
+
+[bahaiprayers.net 3279](https://bahaiprayers.net/Book/Single/6/3279)
+
 
 ----
 
@@ -1632,7 +2037,10 @@ bpn3279
 
 -- Abdu'l-Bahá
 
-bpn3300 
+Prayer bpn3300 in العربية (bpn3300) 
+
+[bahaiprayers.net 3300](https://bahaiprayers.net/Book/Single/6/3300)
+
 
 ----
 

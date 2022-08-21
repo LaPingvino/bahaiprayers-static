@@ -90,7 +90,10 @@ tags = ['lang=ky', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn4076 
+Prayer bpn4076 in Кыргыз (bpn4076) 
+
+[bahaiprayers.net 4076](https://bahaiprayers.net/Book/Single/29/4076)
+
 
 ----
 
@@ -100,7 +103,10 @@ bpn4076
 
 -- Bahá'u'lláh
 
-bpn4077 
+Prayer bpn4077 in Кыргыз (bpn4077) 
+
+[bahaiprayers.net 4077](https://bahaiprayers.net/Book/Single/29/4077)
+
 
 ----
 
@@ -110,7 +116,10 @@ bpn4077
 
 -- Báb
 
-bpn4078 
+Prayer bpn4078 in Кыргыз (bpn4078) 
+
+[bahaiprayers.net 4078](https://bahaiprayers.net/Book/Single/29/4078)
+
 
 ----
 
@@ -120,7 +129,10 @@ bpn4078
 
 -- Abdu'l-Bahá
 
-bpn4079 
+Prayer bpn4079 in Кыргыз (bpn4079) 
+
+[bahaiprayers.net 4079](https://bahaiprayers.net/Book/Single/29/4079)
+
 
 ----
 
@@ -130,7 +142,10 @@ bpn4079
 
 -- Abdu'l-Bahá
 
-bpn4080 
+Prayer bpn4080 in Кыргыз (bpn4080) 
+
+[bahaiprayers.net 4080](https://bahaiprayers.net/Book/Single/29/4080)
+
 
 ----
 
@@ -140,7 +155,10 @@ bpn4080
 
 -- Abdu'l-Bahá
 
-bpn4081 
+Prayer bpn4081 in Кыргыз (bpn4081) 
+
+[bahaiprayers.net 4081](https://bahaiprayers.net/Book/Single/29/4081)
+
 
 ----
 
@@ -154,7 +172,10 @@ bpn4081
 
 -- Bahá'u'lláh
 
-bpn3991 
+Prayer bpn3991 in Кыргыз (bpn3991) 
+
+[bahaiprayers.net 3991](https://bahaiprayers.net/Book/Single/29/3991)
+
 
 ----
 
@@ -164,7 +185,10 @@ bpn3991
 
 -- Bahá'u'lláh
 
-bpn3992 
+Prayer bpn3992 in Кыргыз (bpn3992) 
+
+[bahaiprayers.net 3992](https://bahaiprayers.net/Book/Single/29/3992)
+
 
 ----
 
@@ -174,7 +198,10 @@ bpn3992
 
 -- Bahá'u'lláh
 
-bpn3993 
+Prayer bpn3993 in Кыргыз (bpn3993) 
+
+[bahaiprayers.net 3993](https://bahaiprayers.net/Book/Single/29/3993)
+
 
 ----
 
@@ -184,7 +211,10 @@ bpn3993
 
 -- Bahá'u'lláh
 
-bpn3994 
+Prayer bpn3994 in Кыргыз (bpn3994) 
+
+[bahaiprayers.net 3994](https://bahaiprayers.net/Book/Single/29/3994)
+
 
 ----
 
@@ -194,7 +224,10 @@ bpn3994
 
 -- Bahá'u'lláh
 
-bpn4004 
+Prayer bpn4004 in Кыргыз (bpn4004) 
+
+[bahaiprayers.net 4004](https://bahaiprayers.net/Book/Single/29/4004)
+
 
 ----
 
@@ -204,7 +237,10 @@ bpn4004
 
 -- Bahá'u'lláh
 
-bpn4005 
+Prayer bpn4005 in Кыргыз (bpn4005) 
+
+[bahaiprayers.net 4005](https://bahaiprayers.net/Book/Single/29/4005)
+
 
 ----
 
@@ -214,7 +250,10 @@ bpn4005
 
 -- Bahá'u'lláh
 
-bpn4006 
+Prayer bpn4006 in Кыргыз (bpn4006) 
+
+[bahaiprayers.net 4006](https://bahaiprayers.net/Book/Single/29/4006)
+
 
 ----
 
@@ -224,7 +263,10 @@ bpn4006
 
 -- Bahá'u'lláh
 
-bpn4007 
+Prayer bpn4007 in Кыргыз (bpn4007) 
+
+[bahaiprayers.net 4007](https://bahaiprayers.net/Book/Single/29/4007)
+
 
 ----
 
@@ -234,7 +276,10 @@ bpn4007
 
 -- Báb
 
-bpn4008 
+Prayer bpn4008 in Кыргыз (bpn4008) 
+
+[bahaiprayers.net 4008](https://bahaiprayers.net/Book/Single/29/4008)
+
 
 ----
 
@@ -244,7 +289,10 @@ bpn4008
 
 -- Báb
 
-bpn4009 
+Prayer bpn4009 in Кыргыз (bpn4009) 
+
+[bahaiprayers.net 4009](https://bahaiprayers.net/Book/Single/29/4009)
+
 
 ----
 
@@ -254,7 +302,10 @@ bpn4009
 
 -- Abdu'l-Bahá
 
-bpn4010 
+Prayer bpn4010 in Кыргыз (bpn4010) 
+
+[bahaiprayers.net 4010](https://bahaiprayers.net/Book/Single/29/4010)
+
 
 ----
 
@@ -264,7 +315,10 @@ bpn4010
 
 -- Abdu'l-Bahá
 
-bpn4011 
+Prayer bpn4011 in Кыргыз (bpn4011) 
+
+[bahaiprayers.net 4011](https://bahaiprayers.net/Book/Single/29/4011)
+
 
 ----
 
@@ -278,7 +332,10 @@ bpn4011
 
 -- Bahá'u'lláh
 
-bpn4072 
+Prayer bpn4072 in Кыргыз (bpn4072) 
+
+[bahaiprayers.net 4072](https://bahaiprayers.net/Book/Single/29/4072)
+
 
 ----
 
@@ -288,7 +345,10 @@ bpn4072
 
 -- Bahá'u'lláh
 
-bpn4073 
+Prayer bpn4073 in Кыргыз (bpn4073) 
+
+[bahaiprayers.net 4073](https://bahaiprayers.net/Book/Single/29/4073)
+
 
 ----
 
@@ -298,7 +358,10 @@ bpn4073
 
 -- Báb
 
-bpn4074 
+Prayer bpn4074 in Кыргыз (bpn4074) 
+
+[bahaiprayers.net 4074](https://bahaiprayers.net/Book/Single/29/4074)
+
 
 ----
 
@@ -312,7 +375,10 @@ bpn4074
 
 -- Bahá'u'lláh
 
-bpn4082 
+Prayer bpn4082 in Кыргыз (bpn4082) 
+
+[bahaiprayers.net 4082](https://bahaiprayers.net/Book/Single/29/4082)
+
 
 ----
 
@@ -322,7 +388,10 @@ bpn4082
 
 -- Abdu'l-Bahá
 
-bpn4083 
+Prayer bpn4083 in Кыргыз (bpn4083) 
+
+[bahaiprayers.net 4083](https://bahaiprayers.net/Book/Single/29/4083)
+
 
 ----
 
@@ -332,7 +401,10 @@ bpn4083
 
 -- Abdu'l-Bahá
 
-bpn4084 
+Prayer bpn4084 in Кыргыз (bpn4084) 
+
+[bahaiprayers.net 4084](https://bahaiprayers.net/Book/Single/29/4084)
+
 
 ----
 
@@ -342,7 +414,10 @@ bpn4084
 
 -- Abdu'l-Bahá
 
-bpn4085 
+Prayer bpn4085 in Кыргыз (bpn4085) 
+
+[bahaiprayers.net 4085](https://bahaiprayers.net/Book/Single/29/4085)
+
 
 ----
 
@@ -356,7 +431,10 @@ bpn4085
 
 -- Bahá'u'lláh
 
-bpn4089 
+Prayer bpn4089 in Кыргыз (bpn4089) 
+
+[bahaiprayers.net 4089](https://bahaiprayers.net/Book/Single/29/4089)
+
 
 ----
 
@@ -370,7 +448,10 @@ bpn4089
 
 -- Abdu'l-Bahá
 
-bpn3962 
+Prayer bpn3962 in Кыргыз (bpn3962) 
+
+[bahaiprayers.net 3962](https://bahaiprayers.net/Book/Single/29/3962)
+
 
 ----
 
@@ -380,7 +461,10 @@ bpn3962
 
 -- Abdu'l-Bahá
 
-bpn3963 
+Prayer bpn3963 in Кыргыз (bpn3963) 
+
+[bahaiprayers.net 3963](https://bahaiprayers.net/Book/Single/29/3963)
+
 
 ----
 
@@ -390,7 +474,10 @@ bpn3963
 
 -- Abdu'l-Bahá
 
-bpn3964 
+Prayer bpn3964 in Кыргыз (bpn3964) 
+
+[bahaiprayers.net 3964](https://bahaiprayers.net/Book/Single/29/3964)
+
 
 ----
 
@@ -400,7 +487,10 @@ bpn3964
 
 -- Abdu'l-Bahá
 
-bpn3965 
+Prayer bpn3965 in Кыргыз (bpn3965) 
+
+[bahaiprayers.net 3965](https://bahaiprayers.net/Book/Single/29/3965)
+
 
 ----
 
@@ -410,7 +500,10 @@ bpn3965
 
 -- Abdu'l-Bahá
 
-bpn3966 
+Prayer bpn3966 in Кыргыз (bpn3966) 
+
+[bahaiprayers.net 3966](https://bahaiprayers.net/Book/Single/29/3966)
+
 
 ----
 
@@ -420,7 +513,10 @@ bpn3966
 
 -- Abdu'l-Bahá
 
-bpn3967 
+Prayer bpn3967 in Кыргыз (bpn3967) 
+
+[bahaiprayers.net 3967](https://bahaiprayers.net/Book/Single/29/3967)
+
 
 ----
 
@@ -434,7 +530,10 @@ bpn3967
 
 -- Bahá'u'lláh
 
-bpn3983 
+Prayer bpn3983 in Кыргыз (bpn3983) 
+
+[bahaiprayers.net 3983](https://bahaiprayers.net/Book/Single/29/3983)
+
 
 ----
 
@@ -444,7 +543,10 @@ bpn3983
 
 -- Bahá'u'lláh
 
-bpn3984 
+Prayer bpn3984 in Кыргыз (bpn3984) 
+
+[bahaiprayers.net 3984](https://bahaiprayers.net/Book/Single/29/3984)
+
 
 ----
 
@@ -454,7 +556,10 @@ bpn3984
 
 -- Abdu'l-Bahá
 
-bpn3985 
+Prayer bpn3985 in Кыргыз (bpn3985) 
+
+[bahaiprayers.net 3985](https://bahaiprayers.net/Book/Single/29/3985)
+
 
 ----
 
@@ -464,7 +569,10 @@ bpn3985
 
 -- Abdu'l-Bahá
 
-bpn3986 
+Prayer bpn3986 in Кыргыз (bpn3986) 
+
+[bahaiprayers.net 3986](https://bahaiprayers.net/Book/Single/29/3986)
+
 
 ----
 
@@ -478,7 +586,10 @@ bpn3986
 
 -- Bahá'u'lláh
 
-bpn3980 
+Prayer bpn3980 in Кыргыз (bpn3980) 
+
+[bahaiprayers.net 3980](https://bahaiprayers.net/Book/Single/29/3980)
+
 
 ----
 
@@ -488,7 +599,10 @@ bpn3980
 
 -- Abdu'l-Bahá
 
-bpn3981 
+Prayer bpn3981 in Кыргыз (bpn3981) 
+
+[bahaiprayers.net 3981](https://bahaiprayers.net/Book/Single/29/3981)
+
 
 ----
 
@@ -498,7 +612,10 @@ bpn3981
 
 -- Abdu'l-Bahá
 
-bpn3982 
+Prayer bpn3982 in Кыргыз (bpn3982) 
+
+[bahaiprayers.net 3982](https://bahaiprayers.net/Book/Single/29/3982)
+
 
 ----
 
@@ -512,7 +629,10 @@ bpn3982
 
 -- Bahá'u'lláh
 
-bpn3968 
+Prayer bpn3968 in Кыргыз (bpn3968) 
+
+[bahaiprayers.net 3968](https://bahaiprayers.net/Book/Single/29/3968)
+
 
 ----
 
@@ -522,7 +642,10 @@ bpn3968
 
 -- Bahá'u'lláh
 
-bpn3969 
+Prayer bpn3969 in Кыргыз (bpn3969) 
+
+[bahaiprayers.net 3969](https://bahaiprayers.net/Book/Single/29/3969)
+
 
 ----
 
@@ -532,7 +655,10 @@ bpn3969
 
 -- Bahá'u'lláh
 
-bpn3970 
+Prayer bpn3970 in Кыргыз (bpn3970) 
+
+[bahaiprayers.net 3970](https://bahaiprayers.net/Book/Single/29/3970)
+
 
 ----
 
@@ -542,7 +668,10 @@ bpn3970
 
 -- Bahá'u'lláh
 
-bpn3971 
+Prayer bpn3971 in Кыргыз (bpn3971) 
+
+[bahaiprayers.net 3971](https://bahaiprayers.net/Book/Single/29/3971)
+
 
 ----
 
@@ -552,7 +681,10 @@ bpn3971
 
 -- Bahá'u'lláh
 
-bpn3972 
+Prayer bpn3972 in Кыргыз (bpn3972) 
+
+[bahaiprayers.net 3972](https://bahaiprayers.net/Book/Single/29/3972)
+
 
 ----
 
@@ -562,7 +694,10 @@ bpn3972
 
 -- Bahá'u'lláh
 
-bpn3973 
+Prayer bpn3973 in Кыргыз (bpn3973) 
+
+[bahaiprayers.net 3973](https://bahaiprayers.net/Book/Single/29/3973)
+
 
 ----
 
@@ -572,7 +707,10 @@ bpn3973
 
 -- Bahá'u'lláh
 
-bpn3974 
+Prayer bpn3974 in Кыргыз (bpn3974) 
+
+[bahaiprayers.net 3974](https://bahaiprayers.net/Book/Single/29/3974)
+
 
 ----
 
@@ -582,7 +720,10 @@ bpn3974
 
 -- Báb
 
-bpn3975 
+Prayer bpn3975 in Кыргыз (bpn3975) 
+
+[bahaiprayers.net 3975](https://bahaiprayers.net/Book/Single/29/3975)
+
 
 ----
 
@@ -592,7 +733,10 @@ bpn3975
 
 -- Abdu'l-Bahá
 
-bpn3976 
+Prayer bpn3976 in Кыргыз (bpn3976) 
+
+[bahaiprayers.net 3976](https://bahaiprayers.net/Book/Single/29/3976)
+
 
 ----
 
@@ -602,7 +746,10 @@ bpn3976
 
 -- Abdu'l-Bahá
 
-bpn3977 
+Prayer bpn3977 in Кыргыз (bpn3977) 
+
+[bahaiprayers.net 3977](https://bahaiprayers.net/Book/Single/29/3977)
+
 
 ----
 
@@ -612,7 +759,10 @@ bpn3977
 
 -- Abdu'l-Bahá
 
-bpn3978 
+Prayer bpn3978 in Кыргыз (bpn3978) 
+
+[bahaiprayers.net 3978](https://bahaiprayers.net/Book/Single/29/3978)
+
 
 ----
 
@@ -622,7 +772,10 @@ bpn3978
 
 -- Abdu'l-Bahá
 
-bpn3979 
+Prayer bpn3979 in Кыргыз (bpn3979) 
+
+[bahaiprayers.net 3979](https://bahaiprayers.net/Book/Single/29/3979)
+
 
 ----
 
@@ -636,7 +789,10 @@ bpn3979
 
 -- Bahá'u'lláh
 
-bpn4021 
+Prayer bpn4021 in Кыргыз (bpn4021) 
+
+[bahaiprayers.net 4021](https://bahaiprayers.net/Book/Single/29/4021)
+
 
 ----
 
@@ -646,7 +802,10 @@ bpn4021
 
 -- Bahá'u'lláh
 
-bpn4022 
+Prayer bpn4022 in Кыргыз (bpn4022) 
+
+[bahaiprayers.net 4022](https://bahaiprayers.net/Book/Single/29/4022)
+
 
 ----
 
@@ -656,7 +815,10 @@ bpn4022
 
 -- Bahá'u'lláh
 
-bpn4023 
+Prayer bpn4023 in Кыргыз (bpn4023) 
+
+[bahaiprayers.net 4023](https://bahaiprayers.net/Book/Single/29/4023)
+
 
 ----
 
@@ -666,7 +828,10 @@ bpn4023
 
 -- Báb
 
-bpn4024 
+Prayer bpn4024 in Кыргыз (bpn4024) 
+
+[bahaiprayers.net 4024](https://bahaiprayers.net/Book/Single/29/4024)
+
 
 ----
 
@@ -676,7 +841,10 @@ bpn4024
 
 -- Abdu'l-Bahá
 
-bpn4025 
+Prayer bpn4025 in Кыргыз (bpn4025) 
+
+[bahaiprayers.net 4025](https://bahaiprayers.net/Book/Single/29/4025)
+
 
 ----
 
@@ -686,7 +854,10 @@ bpn4025
 
 -- Abdu'l-Bahá
 
-bpn4026 
+Prayer bpn4026 in Кыргыз (bpn4026) 
+
+[bahaiprayers.net 4026](https://bahaiprayers.net/Book/Single/29/4026)
+
 
 ----
 
@@ -696,7 +867,10 @@ bpn4026
 
 -- Abdu'l-Bahá
 
-bpn4027 
+Prayer bpn4027 in Кыргыз (bpn4027) 
+
+[bahaiprayers.net 4027](https://bahaiprayers.net/Book/Single/29/4027)
+
 
 ----
 
@@ -706,7 +880,10 @@ bpn4027
 
 -- Abdu'l-Bahá
 
-bpn4028 
+Prayer bpn4028 in Кыргыз (bpn4028) 
+
+[bahaiprayers.net 4028](https://bahaiprayers.net/Book/Single/29/4028)
+
 
 ----
 
@@ -716,7 +893,10 @@ bpn4028
 
 -- Abdu'l-Bahá
 
-bpn4029 
+Prayer bpn4029 in Кыргыз (bpn4029) 
+
+[bahaiprayers.net 4029](https://bahaiprayers.net/Book/Single/29/4029)
+
 
 ----
 
@@ -730,7 +910,10 @@ bpn4029
 
 -- Bahá'u'lláh
 
-bpn4053 
+Prayer bpn4053 in Кыргыз (bpn4053) 
+
+[bahaiprayers.net 4053](https://bahaiprayers.net/Book/Single/29/4053)
+
 
 ----
 
@@ -740,7 +923,10 @@ bpn4053
 
 -- Abdu'l-Bahá
 
-bpn4054 
+Prayer bpn4054 in Кыргыз (bpn4054) 
+
+[bahaiprayers.net 4054](https://bahaiprayers.net/Book/Single/29/4054)
+
 
 ----
 
@@ -750,7 +936,10 @@ bpn4054
 
 -- Abdu'l-Bahá
 
-bpn4055 
+Prayer bpn4055 in Кыргыз (bpn4055) 
+
+[bahaiprayers.net 4055](https://bahaiprayers.net/Book/Single/29/4055)
+
 
 ----
 
@@ -760,7 +949,10 @@ bpn4055
 
 -- Abdu'l-Bahá
 
-bpn4056 
+Prayer bpn4056 in Кыргыз (bpn4056) 
+
+[bahaiprayers.net 4056](https://bahaiprayers.net/Book/Single/29/4056)
+
 
 ----
 
@@ -774,7 +966,10 @@ bpn4056
 
 -- Abdu'l-Bahá
 
-bpn4052 
+Prayer bpn4052 in Кыргыз (bpn4052) 
+
+[bahaiprayers.net 4052](https://bahaiprayers.net/Book/Single/29/4052)
+
 
 ----
 
@@ -788,7 +983,10 @@ bpn4052
 
 -- Bahá'u'lláh
 
-bpn3958 
+Prayer bpn3958 in Кыргыз (bpn3958) 
+
+[bahaiprayers.net 3958](https://bahaiprayers.net/Book/Single/29/3958)
+
 
 ----
 
@@ -798,7 +996,10 @@ bpn3958
 
 -- Bahá'u'lláh
 
-bpn3959 
+Prayer bpn3959 in Кыргыз (bpn3959) 
+
+[bahaiprayers.net 3959](https://bahaiprayers.net/Book/Single/29/3959)
+
 
 ----
 
@@ -808,7 +1009,10 @@ bpn3959
 
 -- Abdu'l-Bahá
 
-bpn3960 
+Prayer bpn3960 in Кыргыз (bpn3960) 
+
+[bahaiprayers.net 3960](https://bahaiprayers.net/Book/Single/29/3960)
+
 
 ----
 
@@ -822,7 +1026,10 @@ bpn3960
 
 -- Bahá'u'lláh
 
-bpn4030 
+Prayer bpn4030 in Кыргыз (bpn4030) 
+
+[bahaiprayers.net 4030](https://bahaiprayers.net/Book/Single/29/4030)
+
 
 ----
 
@@ -832,7 +1039,10 @@ bpn4030
 
 -- Bahá'u'lláh
 
-bpn4031 
+Prayer bpn4031 in Кыргыз (bpn4031) 
+
+[bahaiprayers.net 4031](https://bahaiprayers.net/Book/Single/29/4031)
+
 
 ----
 
@@ -842,7 +1052,10 @@ bpn4031
 
 -- Bahá'u'lláh
 
-bpn4032 
+Prayer bpn4032 in Кыргыз (bpn4032) 
+
+[bahaiprayers.net 4032](https://bahaiprayers.net/Book/Single/29/4032)
+
 
 ----
 
@@ -852,7 +1065,10 @@ bpn4032
 
 -- Bahá'u'lláh
 
-bpn4033 
+Prayer bpn4033 in Кыргыз (bpn4033) 
+
+[bahaiprayers.net 4033](https://bahaiprayers.net/Book/Single/29/4033)
+
 
 ----
 
@@ -862,7 +1078,10 @@ bpn4033
 
 -- Bahá'u'lláh
 
-bpn4034 
+Prayer bpn4034 in Кыргыз (bpn4034) 
+
+[bahaiprayers.net 4034](https://bahaiprayers.net/Book/Single/29/4034)
+
 
 ----
 
@@ -872,7 +1091,10 @@ bpn4034
 
 -- Báb
 
-bpn4035 
+Prayer bpn4035 in Кыргыз (bpn4035) 
+
+[bahaiprayers.net 4035](https://bahaiprayers.net/Book/Single/29/4035)
+
 
 ----
 
@@ -882,7 +1104,10 @@ bpn4035
 
 -- Báb
 
-bpn4036 
+Prayer bpn4036 in Кыргыз (bpn4036) 
+
+[bahaiprayers.net 4036](https://bahaiprayers.net/Book/Single/29/4036)
+
 
 ----
 
@@ -892,7 +1117,10 @@ bpn4036
 
 -- Báb
 
-bpn4037 
+Prayer bpn4037 in Кыргыз (bpn4037) 
+
+[bahaiprayers.net 4037](https://bahaiprayers.net/Book/Single/29/4037)
+
 
 ----
 
@@ -902,7 +1130,10 @@ bpn4037
 
 -- Abdu'l-Bahá
 
-bpn4038 
+Prayer bpn4038 in Кыргыз (bpn4038) 
+
+[bahaiprayers.net 4038](https://bahaiprayers.net/Book/Single/29/4038)
+
 
 ----
 
@@ -916,7 +1147,10 @@ bpn4038
 
 -- Bahá'u'lláh
 
-bpn4086 
+Prayer bpn4086 in Кыргыз (bpn4086) 
+
+[bahaiprayers.net 4086](https://bahaiprayers.net/Book/Single/29/4086)
+
 
 ----
 
@@ -930,7 +1164,10 @@ bpn4086
 
 -- Bahá'u'lláh
 
-bpn3987 
+Prayer bpn3987 in Кыргыз (bpn3987) 
+
+[bahaiprayers.net 3987](https://bahaiprayers.net/Book/Single/29/3987)
+
 
 ----
 
@@ -940,7 +1177,10 @@ bpn3987
 
 -- Báb
 
-bpn3988 
+Prayer bpn3988 in Кыргыз (bpn3988) 
+
+[bahaiprayers.net 3988](https://bahaiprayers.net/Book/Single/29/3988)
+
 
 ----
 
@@ -950,7 +1190,10 @@ bpn3988
 
 -- Abdu'l-Bahá
 
-bpn3989 
+Prayer bpn3989 in Кыргыз (bpn3989) 
+
+[bahaiprayers.net 3989](https://bahaiprayers.net/Book/Single/29/3989)
+
 
 ----
 
@@ -960,7 +1203,10 @@ bpn3989
 
 -- Abdu'l-Bahá
 
-bpn3990 
+Prayer bpn3990 in Кыргыз (bpn3990) 
+
+[bahaiprayers.net 3990](https://bahaiprayers.net/Book/Single/29/3990)
+
 
 ----
 
@@ -974,7 +1220,10 @@ bpn3990
 
 -- Bahá'u'lláh
 
-bpn3961 
+Prayer bpn3961 in Кыргыз (bpn3961) 
+
+[bahaiprayers.net 3961](https://bahaiprayers.net/Book/Single/29/3961)
+
 
 ----
 
@@ -988,7 +1237,10 @@ bpn3961
 
 -- Abdu'l-Bahá
 
-bpn4041 
+Prayer bpn4041 in Кыргыз (bpn4041) 
+
+[bahaiprayers.net 4041](https://bahaiprayers.net/Book/Single/29/4041)
+
 
 ----
 
@@ -998,7 +1250,10 @@ bpn4041
 
 -- Abdu'l-Bahá
 
-bpn4042 
+Prayer bpn4042 in Кыргыз (bpn4042) 
+
+[bahaiprayers.net 4042](https://bahaiprayers.net/Book/Single/29/4042)
+
 
 ----
 
@@ -1008,7 +1263,10 @@ bpn4042
 
 -- Abdu'l-Bahá
 
-bpn4043 
+Prayer bpn4043 in Кыргыз (bpn4043) 
+
+[bahaiprayers.net 4043](https://bahaiprayers.net/Book/Single/29/4043)
+
 
 ----
 
@@ -1018,7 +1276,10 @@ bpn4043
 
 -- Abdu'l-Bahá
 
-bpn4044 
+Prayer bpn4044 in Кыргыз (bpn4044) 
+
+[bahaiprayers.net 4044](https://bahaiprayers.net/Book/Single/29/4044)
+
 
 ----
 
@@ -1028,7 +1289,10 @@ bpn4044
 
 -- Abdu'l-Bahá
 
-bpn4045 
+Prayer bpn4045 in Кыргыз (bpn4045) 
+
+[bahaiprayers.net 4045](https://bahaiprayers.net/Book/Single/29/4045)
+
 
 ----
 
@@ -1042,7 +1306,10 @@ bpn4045
 
 -- Bahá'u'lláh
 
-bpn4060 
+Prayer bpn4060 in Кыргыз (bpn4060) 
+
+[bahaiprayers.net 4060](https://bahaiprayers.net/Book/Single/29/4060)
+
 
 ----
 
@@ -1052,7 +1319,10 @@ bpn4060
 
 -- Báb
 
-bpn4061 
+Prayer bpn4061 in Кыргыз (bpn4061) 
+
+[bahaiprayers.net 4061](https://bahaiprayers.net/Book/Single/29/4061)
+
 
 ----
 
@@ -1066,7 +1336,10 @@ bpn4061
 
 -- Bahá'u'lláh
 
-bpn4062 
+Prayer bpn4062 in Кыргыз (bpn4062) 
+
+[bahaiprayers.net 4062](https://bahaiprayers.net/Book/Single/29/4062)
+
 
 ----
 
@@ -1076,7 +1349,10 @@ bpn4062
 
 -- Bahá'u'lláh
 
-bpn4063 
+Prayer bpn4063 in Кыргыз (bpn4063) 
+
+[bahaiprayers.net 4063](https://bahaiprayers.net/Book/Single/29/4063)
+
 
 ----
 
@@ -1086,7 +1362,10 @@ bpn4063
 
 -- Báb
 
-bpn4064 
+Prayer bpn4064 in Кыргыз (bpn4064) 
+
+[bahaiprayers.net 4064](https://bahaiprayers.net/Book/Single/29/4064)
+
 
 ----
 
@@ -1100,7 +1379,10 @@ bpn4064
 
 -- Bahá'u'lláh
 
-bpn3954 
+Prayer bpn3954 in Кыргыз (bpn3954) 
+
+[bahaiprayers.net 3954](https://bahaiprayers.net/Book/Single/29/3954)
+
 
 ----
 
@@ -1114,7 +1396,10 @@ bpn3954
 
 -- Abdu'l-Bahá
 
-bpn4051 
+Prayer bpn4051 in Кыргыз (bpn4051) 
+
+[bahaiprayers.net 4051](https://bahaiprayers.net/Book/Single/29/4051)
+
 
 ----
 
@@ -1128,7 +1413,10 @@ bpn4051
 
 -- Bahá'u'lláh
 
-bpn4065 
+Prayer bpn4065 in Кыргыз (bpn4065) 
+
+[bahaiprayers.net 4065](https://bahaiprayers.net/Book/Single/29/4065)
+
 
 ----
 
@@ -1138,7 +1426,10 @@ bpn4065
 
 -- Bahá'u'lláh
 
-bpn4066 
+Prayer bpn4066 in Кыргыз (bpn4066) 
+
+[bahaiprayers.net 4066](https://bahaiprayers.net/Book/Single/29/4066)
+
 
 ----
 
@@ -1148,7 +1439,10 @@ bpn4066
 
 -- Bahá'u'lláh
 
-bpn4067 
+Prayer bpn4067 in Кыргыз (bpn4067) 
+
+[bahaiprayers.net 4067](https://bahaiprayers.net/Book/Single/29/4067)
+
 
 ----
 
@@ -1158,7 +1452,10 @@ bpn4067
 
 -- Abdu'l-Bahá
 
-bpn4068 
+Prayer bpn4068 in Кыргыз (bpn4068) 
+
+[bahaiprayers.net 4068](https://bahaiprayers.net/Book/Single/29/4068)
+
 
 ----
 
@@ -1168,7 +1465,10 @@ bpn4068
 
 -- Abdu'l-Bahá
 
-bpn4069 
+Prayer bpn4069 in Кыргыз (bpn4069) 
+
+[bahaiprayers.net 4069](https://bahaiprayers.net/Book/Single/29/4069)
+
 
 ----
 
@@ -1178,7 +1478,10 @@ bpn4069
 
 -- Abdu'l-Bahá
 
-bpn4070 
+Prayer bpn4070 in Кыргыз (bpn4070) 
+
+[bahaiprayers.net 4070](https://bahaiprayers.net/Book/Single/29/4070)
+
 
 ----
 
@@ -1192,7 +1495,10 @@ bpn4070
 
 -- Bahá'u'lláh
 
-bpn4012 
+Prayer bpn4012 in Кыргыз (bpn4012) 
+
+[bahaiprayers.net 4012](https://bahaiprayers.net/Book/Single/29/4012)
+
 
 ----
 
@@ -1202,7 +1508,10 @@ bpn4012
 
 -- Bahá'u'lláh
 
-bpn4013 
+Prayer bpn4013 in Кыргыз (bpn4013) 
+
+[bahaiprayers.net 4013](https://bahaiprayers.net/Book/Single/29/4013)
+
 
 ----
 
@@ -1212,7 +1521,10 @@ bpn4013
 
 -- Bahá'u'lláh
 
-bpn4014 
+Prayer bpn4014 in Кыргыз (bpn4014) 
+
+[bahaiprayers.net 4014](https://bahaiprayers.net/Book/Single/29/4014)
+
 
 ----
 
@@ -1222,7 +1534,10 @@ bpn4014
 
 -- Báb
 
-bpn4015 
+Prayer bpn4015 in Кыргыз (bpn4015) 
+
+[bahaiprayers.net 4015](https://bahaiprayers.net/Book/Single/29/4015)
+
 
 ----
 
@@ -1232,7 +1547,10 @@ bpn4015
 
 -- Báb
 
-bpn4016 
+Prayer bpn4016 in Кыргыз (bpn4016) 
+
+[bahaiprayers.net 4016](https://bahaiprayers.net/Book/Single/29/4016)
+
 
 ----
 
@@ -1242,7 +1560,10 @@ bpn4016
 
 -- Báb
 
-bpn4017 
+Prayer bpn4017 in Кыргыз (bpn4017) 
+
+[bahaiprayers.net 4017](https://bahaiprayers.net/Book/Single/29/4017)
+
 
 ----
 
@@ -1252,7 +1573,10 @@ bpn4017
 
 -- Báb
 
-bpn4018 
+Prayer bpn4018 in Кыргыз (bpn4018) 
+
+[bahaiprayers.net 4018](https://bahaiprayers.net/Book/Single/29/4018)
+
 
 ----
 
@@ -1262,7 +1586,10 @@ bpn4018
 
 -- Abdu'l-Bahá
 
-bpn4019 
+Prayer bpn4019 in Кыргыз (bpn4019) 
+
+[bahaiprayers.net 4019](https://bahaiprayers.net/Book/Single/29/4019)
+
 
 ----
 
@@ -1272,7 +1599,10 @@ bpn4019
 
 -- Abdu'l-Bahá
 
-bpn4020 
+Prayer bpn4020 in Кыргыз (bpn4020) 
+
+[bahaiprayers.net 4020](https://bahaiprayers.net/Book/Single/29/4020)
+
 
 ----
 
@@ -1286,7 +1616,10 @@ bpn4020
 
 -- Abdu'l-Bahá
 
-bpn4039 
+Prayer bpn4039 in Кыргыз (bpn4039) 
+
+[bahaiprayers.net 4039](https://bahaiprayers.net/Book/Single/29/4039)
+
 
 ----
 
@@ -1296,7 +1629,10 @@ bpn4039
 
 -- Abdu'l-Bahá
 
-bpn4040 
+Prayer bpn4040 in Кыргыз (bpn4040) 
+
+[bahaiprayers.net 4040](https://bahaiprayers.net/Book/Single/29/4040)
+
 
 ----
 
@@ -1310,7 +1646,10 @@ bpn4040
 
 -- Bahá'u'lláh
 
-bpn4087 
+Prayer bpn4087 in Кыргыз (bpn4087) 
+
+[bahaiprayers.net 4087](https://bahaiprayers.net/Book/Single/29/4087)
+
 
 ----
 
@@ -1320,7 +1659,10 @@ bpn4087
 
 -- Bahá'u'lláh
 
-bpn4088 
+Prayer bpn4088 in Кыргыз (bpn4088) 
+
+[bahaiprayers.net 4088](https://bahaiprayers.net/Book/Single/29/4088)
+
 
 ----
 
@@ -1334,7 +1676,10 @@ bpn4088
 
 -- Bahá'u'lláh
 
-bpn3955 
+Prayer bpn3955 in Кыргыз (bpn3955) 
+
+[bahaiprayers.net 3955](https://bahaiprayers.net/Book/Single/29/3955)
+
 
 ----
 
@@ -1348,7 +1693,10 @@ bpn3955
 
 -- Bahá'u'lláh
 
-bpn4057 
+Prayer bpn4057 in Кыргыз (bpn4057) 
+
+[bahaiprayers.net 4057](https://bahaiprayers.net/Book/Single/29/4057)
+
 
 ----
 
@@ -1358,7 +1706,10 @@ bpn4057
 
 -- Abdu'l-Bahá
 
-bpn4058 
+Prayer bpn4058 in Кыргыз (bpn4058) 
+
+[bahaiprayers.net 4058](https://bahaiprayers.net/Book/Single/29/4058)
+
 
 ----
 
@@ -1368,7 +1719,10 @@ bpn4058
 
 -- Abdu'l-Bahá
 
-bpn4059 
+Prayer bpn4059 in Кыргыз (bpn4059) 
+
+[bahaiprayers.net 4059](https://bahaiprayers.net/Book/Single/29/4059)
+
 
 ----
 
@@ -1382,7 +1736,10 @@ bpn4059
 
 -- Bahá'u'lláh
 
-bpn4092 
+Prayer bpn4092 in Кыргыз (bpn4092) 
+
+[bahaiprayers.net 4092](https://bahaiprayers.net/Book/Single/29/4092)
+
 
 ----
 
@@ -1396,7 +1753,10 @@ bpn4092
 
 -- Bahá'u'lláh
 
-bpn3996 
+Prayer bpn3996 in Кыргыз (bpn3996) 
+
+[bahaiprayers.net 3996](https://bahaiprayers.net/Book/Single/29/3996)
+
 
 ----
 
@@ -1406,7 +1766,10 @@ bpn3996
 
 -- Bahá'u'lláh
 
-bpn3997 
+Prayer bpn3997 in Кыргыз (bpn3997) 
+
+[bahaiprayers.net 3997](https://bahaiprayers.net/Book/Single/29/3997)
+
 
 ----
 
@@ -1416,7 +1779,10 @@ bpn3997
 
 -- Bahá'u'lláh
 
-bpn3998 
+Prayer bpn3998 in Кыргыз (bpn3998) 
+
+[bahaiprayers.net 3998](https://bahaiprayers.net/Book/Single/29/3998)
+
 
 ----
 
@@ -1426,7 +1792,10 @@ bpn3998
 
 -- Báb
 
-bpn3999 
+Prayer bpn3999 in Кыргыз (bpn3999) 
+
+[bahaiprayers.net 3999](https://bahaiprayers.net/Book/Single/29/3999)
+
 
 ----
 
@@ -1436,7 +1805,10 @@ bpn3999
 
 -- Báb
 
-bpn4000 
+Prayer bpn4000 in Кыргыз (bpn4000) 
+
+[bahaiprayers.net 4000](https://bahaiprayers.net/Book/Single/29/4000)
+
 
 ----
 
@@ -1446,7 +1818,10 @@ bpn4000
 
 -- Báb
 
-bpn4001 
+Prayer bpn4001 in Кыргыз (bpn4001) 
+
+[bahaiprayers.net 4001](https://bahaiprayers.net/Book/Single/29/4001)
+
 
 ----
 
@@ -1456,7 +1831,10 @@ bpn4001
 
 -- Báb
 
-bpn4002 
+Prayer bpn4002 in Кыргыз (bpn4002) 
+
+[bahaiprayers.net 4002](https://bahaiprayers.net/Book/Single/29/4002)
+
 
 ----
 
@@ -1466,7 +1844,10 @@ bpn4002
 
 -- Báb
 
-bpn4003 
+Prayer bpn4003 in Кыргыз (bpn4003) 
+
+[bahaiprayers.net 4003](https://bahaiprayers.net/Book/Single/29/4003)
+
 
 ----
 
@@ -1480,7 +1861,10 @@ bpn4003
 
 -- Bahá'u'lláh
 
-bpn3995 
+Prayer bpn3995 in Кыргыз (bpn3995) 
+
+[bahaiprayers.net 3995](https://bahaiprayers.net/Book/Single/29/3995)
+
 
 ----
 
@@ -1494,7 +1878,10 @@ bpn3995
 
 -- Bahá'u'lláh
 
-bpn3956 
+Prayer bpn3956 in Кыргыз (bpn3956) 
+
+[bahaiprayers.net 3956](https://bahaiprayers.net/Book/Single/29/3956)
+
 
 ----
 
@@ -1504,7 +1891,10 @@ bpn3956
 
 -- Bahá'u'lláh
 
-bpn3957 
+Prayer bpn3957 in Кыргыз (bpn3957) 
+
+[bahaiprayers.net 3957](https://bahaiprayers.net/Book/Single/29/3957)
+
 
 ----
 
@@ -1518,7 +1908,10 @@ bpn3957
 
 -- Báb
 
-bpn4049 
+Prayer bpn4049 in Кыргыз (bpn4049) 
+
+[bahaiprayers.net 4049](https://bahaiprayers.net/Book/Single/29/4049)
+
 
 ----
 
@@ -1528,7 +1921,10 @@ bpn4049
 
 -- Abdu'l-Bahá
 
-bpn4050 
+Prayer bpn4050 in Кыргыз (bpn4050) 
+
+[bahaiprayers.net 4050](https://bahaiprayers.net/Book/Single/29/4050)
+
 
 ----
 
@@ -1542,7 +1938,10 @@ bpn4050
 
 -- Abdu'l-Bahá
 
-bpn4046 
+Prayer bpn4046 in Кыргыз (bpn4046) 
+
+[bahaiprayers.net 4046](https://bahaiprayers.net/Book/Single/29/4046)
+
 
 ----
 
@@ -1552,7 +1951,10 @@ bpn4046
 
 -- Abdu'l-Bahá
 
-bpn4047 
+Prayer bpn4047 in Кыргыз (bpn4047) 
+
+[bahaiprayers.net 4047](https://bahaiprayers.net/Book/Single/29/4047)
+
 
 ----
 
@@ -1562,7 +1964,10 @@ bpn4047
 
 -- Abdu'l-Bahá
 
-bpn4048 
+Prayer bpn4048 in Кыргыз (bpn4048) 
+
+[bahaiprayers.net 4048](https://bahaiprayers.net/Book/Single/29/4048)
+
 
 ----
 
@@ -1576,7 +1981,10 @@ bpn4048
 
 -- Bahá'u'lláh
 
-bpn4075 
+Prayer bpn4075 in Кыргыз (bpn4075) 
+
+[bahaiprayers.net 4075](https://bahaiprayers.net/Book/Single/29/4075)
+
 
 ----
 
@@ -1590,7 +1998,10 @@ bpn4075
 
 -- Bahá'u'lláh
 
-bpn4090 
+Prayer bpn4090 in Кыргыз (bpn4090) 
+
+[bahaiprayers.net 4090](https://bahaiprayers.net/Book/Single/29/4090)
+
 
 ----
 
@@ -1600,7 +2011,10 @@ bpn4090
 
 -- Abdu'l-Bahá
 
-bpn4091 
+Prayer bpn4091 in Кыргыз (bpn4091) 
+
+[bahaiprayers.net 4091](https://bahaiprayers.net/Book/Single/29/4091)
+
 
 ----
 
@@ -1614,7 +2028,10 @@ bpn4091
 
 -- Bahá'u'lláh
 
-bpn4071 
+Prayer bpn4071 in Кыргыз (bpn4071) 
+
+[bahaiprayers.net 4071](https://bahaiprayers.net/Book/Single/29/4071)
+
 
 ----
 

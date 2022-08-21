@@ -44,7 +44,10 @@ tags = ['lang=lt', 'prayerbook']
 
 -- Abdu'l-Bahá
 
-bpn8204 
+Prayer bpn8204 in Lietuvių (bpn8204) 
+
+[bahaiprayers.net 8204](https://bahaiprayers.net/Book/Single/71/8204)
+
 
 ----
 
@@ -58,7 +61,10 @@ bpn8204
 
 -- Abdu'l-Bahá
 
-bpn8203 
+Prayer bpn8203 in Lietuvių (bpn8203) 
+
+[bahaiprayers.net 8203](https://bahaiprayers.net/Book/Single/71/8203)
+
 
 ----
 
@@ -72,7 +78,10 @@ bpn8203
 
 -- Abdu'l-Bahá
 
-bpn8205 
+Prayer bpn8205 in Lietuvių (bpn8205) 
+
+[bahaiprayers.net 8205](https://bahaiprayers.net/Book/Single/71/8205)
+
 
 ----
 
@@ -86,7 +95,10 @@ bpn8205
 
 -- Bahá'u'lláh
 
-bpn8189 
+Prayer bpn8189 in Lietuvių (bpn8189) 
+
+[bahaiprayers.net 8189](https://bahaiprayers.net/Book/Single/71/8189)
+
 
 ----
 
@@ -96,7 +108,10 @@ bpn8189
 
 -- Abdu'l-Bahá
 
-bpn8190 
+Prayer bpn8190 in Lietuvių (bpn8190) 
+
+[bahaiprayers.net 8190](https://bahaiprayers.net/Book/Single/71/8190)
+
 
 ----
 
@@ -106,7 +121,10 @@ bpn8190
 
 -- Abdu'l-Bahá
 
-bpn8191 
+Prayer bpn8191 in Lietuvių (bpn8191) 
+
+[bahaiprayers.net 8191](https://bahaiprayers.net/Book/Single/71/8191)
+
 
 ----
 
@@ -120,7 +138,10 @@ bpn8191
 
 -- Bahá'u'lláh
 
-bpn8195 
+Prayer bpn8195 in Lietuvių (bpn8195) 
+
+[bahaiprayers.net 8195](https://bahaiprayers.net/Book/Single/71/8195)
+
 
 ----
 
@@ -130,7 +151,10 @@ bpn8195
 
 -- Bahá'u'lláh
 
-bpn8196 
+Prayer bpn8196 in Lietuvių (bpn8196) 
+
+[bahaiprayers.net 8196](https://bahaiprayers.net/Book/Single/71/8196)
+
 
 ----
 
@@ -144,7 +168,10 @@ bpn8196
 
 -- Báb
 
-bpn8192 
+Prayer bpn8192 in Lietuvių (bpn8192) 
+
+[bahaiprayers.net 8192](https://bahaiprayers.net/Book/Single/71/8192)
+
 
 ----
 
@@ -154,7 +181,10 @@ bpn8192
 
 -- Báb
 
-bpn8193 
+Prayer bpn8193 in Lietuvių (bpn8193) 
+
+[bahaiprayers.net 8193](https://bahaiprayers.net/Book/Single/71/8193)
+
 
 ----
 
@@ -164,7 +194,10 @@ bpn8193
 
 -- Abdu'l-Bahá
 
-bpn8194 
+Prayer bpn8194 in Lietuvių (bpn8194) 
+
+[bahaiprayers.net 8194](https://bahaiprayers.net/Book/Single/71/8194)
+
 
 ----
 
@@ -178,7 +211,10 @@ bpn8194
 
 -- Abdu'l-Bahá
 
-bpn8206 
+Prayer bpn8206 in Lietuvių (bpn8206) 
+
+[bahaiprayers.net 8206](https://bahaiprayers.net/Book/Single/71/8206)
+
 
 ----
 
@@ -192,7 +228,10 @@ bpn8206
 
 -- Bahá'u'lláh
 
-bpn8201 
+Prayer bpn8201 in Lietuvių (bpn8201) 
+
+[bahaiprayers.net 8201](https://bahaiprayers.net/Book/Single/71/8201)
+
 
 ----
 
@@ -206,7 +245,10 @@ bpn8201
 
 -- Bahá'u'lláh
 
-bpn8207 
+Prayer bpn8207 in Lietuvių (bpn8207) 
+
+[bahaiprayers.net 8207](https://bahaiprayers.net/Book/Single/71/8207)
+
 
 ----
 
@@ -220,7 +262,10 @@ bpn8207
 
 -- Bahá'u'lláh
 
-bpn8199 
+Prayer bpn8199 in Lietuvių (bpn8199) 
+
+[bahaiprayers.net 8199](https://bahaiprayers.net/Book/Single/71/8199)
+
 
 ----
 
@@ -234,7 +279,10 @@ bpn8199
 
 -- Abdu'l-Bahá
 
-bpn8200 
+Prayer bpn8200 in Lietuvių (bpn8200) 
+
+[bahaiprayers.net 8200](https://bahaiprayers.net/Book/Single/71/8200)
+
 
 ----
 
@@ -248,7 +296,10 @@ bpn8200
 
 -- Abdu'l-Bahá
 
-bpn8187 
+Prayer bpn8187 in Lietuvių (bpn8187) 
+
+[bahaiprayers.net 8187](https://bahaiprayers.net/Book/Single/71/8187)
+
 
 ----
 
@@ -258,7 +309,10 @@ bpn8187
 
 -- Abdu'l-Bahá
 
-bpn8188 
+Prayer bpn8188 in Lietuvių (bpn8188) 
+
+[bahaiprayers.net 8188](https://bahaiprayers.net/Book/Single/71/8188)
+
 
 ----
 
@@ -272,7 +326,10 @@ bpn8188
 
 -- Abdu'l-Bahá
 
-bpn8197 
+Prayer bpn8197 in Lietuvių (bpn8197) 
+
+[bahaiprayers.net 8197](https://bahaiprayers.net/Book/Single/71/8197)
+
 
 ----
 
@@ -282,7 +339,10 @@ bpn8197
 
 -- Abdu'l-Bahá
 
-bpn8198 
+Prayer bpn8198 in Lietuvių (bpn8198) 
+
+[bahaiprayers.net 8198](https://bahaiprayers.net/Book/Single/71/8198)
+
 
 ----
 
@@ -296,7 +356,10 @@ bpn8198
 
 -- Abdu'l-Bahá
 
-bpn8202 
+Prayer bpn8202 in Lietuvių (bpn8202) 
+
+[bahaiprayers.net 8202](https://bahaiprayers.net/Book/Single/71/8202)
+
 
 ----
 

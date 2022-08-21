@@ -18,7 +18,10 @@ tags = ['lang=ga', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn6016 
+Prayer bpn6016 in Irish (bpn6016) 
+
+[bahaiprayers.net 6016](https://bahaiprayers.net/Book/Single/47/6016)
+
 
 ----
 
@@ -28,7 +31,10 @@ bpn6016
 
 -- Báb
 
-bpn6015 
+Prayer bpn6015 in Irish (bpn6015) 
+
+[bahaiprayers.net 6015](https://bahaiprayers.net/Book/Single/47/6015)
+
 
 ----
 

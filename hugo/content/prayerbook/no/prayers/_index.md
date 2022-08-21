@@ -90,7 +90,10 @@ tags = ['lang=no', 'prayerbook']
 
 -- Bahá'u'lláh
 
-bpn3491 
+Prayer bpn3491 in Norsk (bpn3491) 
+
+[bahaiprayers.net 3491](https://bahaiprayers.net/Book/Single/23/3491)
+
 
 ----
 
@@ -100,7 +103,10 @@ bpn3491
 
 -- Bahá'u'lláh
 
-bpn3492 
+Prayer bpn3492 in Norsk (bpn3492) 
+
+[bahaiprayers.net 3492](https://bahaiprayers.net/Book/Single/23/3492)
+
 
 ----
 
@@ -114,7 +120,10 @@ bpn3492
 
 -- Bahá'u'lláh
 
-bpn3585 
+Prayer bpn3585 in Norsk (bpn3585) 
+
+[bahaiprayers.net 3585](https://bahaiprayers.net/Book/Single/23/3585)
+
 
 ----
 
@@ -128,7 +137,10 @@ bpn3585
 
 -- Bahá'u'lláh
 
-bpn3493 
+Prayer bpn3493 in Norsk (bpn3493) 
+
+[bahaiprayers.net 3493](https://bahaiprayers.net/Book/Single/23/3493)
+
 
 ----
 
@@ -142,7 +154,10 @@ bpn3493
 
 -- Bahá'u'lláh
 
-bpn3494 
+Prayer bpn3494 in Norsk (bpn3494) 
+
+[bahaiprayers.net 3494](https://bahaiprayers.net/Book/Single/23/3494)
+
 
 ----
 
@@ -152,7 +167,10 @@ bpn3494
 
 -- Abdu'l-Bahá
 
-bpn3495 
+Prayer bpn3495 in Norsk (bpn3495) 
+
+[bahaiprayers.net 3495](https://bahaiprayers.net/Book/Single/23/3495)
+
 
 ----
 
@@ -162,7 +180,10 @@ bpn3495
 
 -- Abdu'l-Bahá
 
-bpn3496 
+Prayer bpn3496 in Norsk (bpn3496) 
+
+[bahaiprayers.net 3496](https://bahaiprayers.net/Book/Single/23/3496)
+
 
 ----
 
@@ -172,7 +193,10 @@ bpn3496
 
 -- Abdu'l-Bahá
 
-bpn3497 
+Prayer bpn3497 in Norsk (bpn3497) 
+
+[bahaiprayers.net 3497](https://bahaiprayers.net/Book/Single/23/3497)
+
 
 ----
 
@@ -182,7 +206,10 @@ bpn3497
 
 -- Abdu'l-Bahá
 
-bpn3498 
+Prayer bpn3498 in Norsk (bpn3498) 
+
+[bahaiprayers.net 3498](https://bahaiprayers.net/Book/Single/23/3498)
+
 
 ----
 
@@ -192,7 +219,10 @@ bpn3498
 
 -- Abdu'l-Bahá
 
-bpn3499 
+Prayer bpn3499 in Norsk (bpn3499) 
+
+[bahaiprayers.net 3499](https://bahaiprayers.net/Book/Single/23/3499)
+
 
 ----
 
@@ -206,7 +236,10 @@ bpn3499
 
 -- Bahá'u'lláh
 
-bpn3588 
+Prayer bpn3588 in Norsk (bpn3588) 
+
+[bahaiprayers.net 3588](https://bahaiprayers.net/Book/Single/23/3588)
+
 
 ----
 
@@ -220,7 +253,10 @@ bpn3588
 
 -- Bahá'u'lláh
 
-bpn3501 
+Prayer bpn3501 in Norsk (bpn3501) 
+
+[bahaiprayers.net 3501](https://bahaiprayers.net/Book/Single/23/3501)
+
 
 ----
 
@@ -230,7 +266,10 @@ bpn3501
 
 -- Bahá'u'lláh
 
-bpn3502 
+Prayer bpn3502 in Norsk (bpn3502) 
+
+[bahaiprayers.net 3502](https://bahaiprayers.net/Book/Single/23/3502)
+
 
 ----
 
@@ -240,7 +279,10 @@ bpn3502
 
 -- Bahá'u'lláh
 
-bpn3503 
+Prayer bpn3503 in Norsk (bpn3503) 
+
+[bahaiprayers.net 3503](https://bahaiprayers.net/Book/Single/23/3503)
+
 
 ----
 
@@ -250,7 +292,10 @@ bpn3503
 
 -- Bahá'u'lláh
 
-bpn3504 
+Prayer bpn3504 in Norsk (bpn3504) 
+
+[bahaiprayers.net 3504](https://bahaiprayers.net/Book/Single/23/3504)
+
 
 ----
 
@@ -260,7 +305,10 @@ bpn3504
 
 -- Báb
 
-bpn3500 
+Prayer bpn3500 in Norsk (bpn3500) 
+
+[bahaiprayers.net 3500](https://bahaiprayers.net/Book/Single/23/3500)
+
 
 ----
 
@@ -270,7 +318,10 @@ bpn3500
 
 -- Abdu'l-Bahá
 
-bpn3505 
+Prayer bpn3505 in Norsk (bpn3505) 
+
+[bahaiprayers.net 3505](https://bahaiprayers.net/Book/Single/23/3505)
+
 
 ----
 
@@ -284,7 +335,10 @@ bpn3505
 
 -- Bahá'u'lláh
 
-bpn3586 
+Prayer bpn3586 in Norsk (bpn3586) 
+
+[bahaiprayers.net 3586](https://bahaiprayers.net/Book/Single/23/3586)
+
 
 ----
 
@@ -298,7 +352,10 @@ bpn3586
 
 -- Abdu'l-Bahá
 
-bpn3589 
+Prayer bpn3589 in Norsk (bpn3589) 
+
+[bahaiprayers.net 3589](https://bahaiprayers.net/Book/Single/23/3589)
+
 
 ----
 
@@ -312,7 +369,10 @@ bpn3589
 
 -- Bahá'u'lláh
 
-bpn3506 
+Prayer bpn3506 in Norsk (bpn3506) 
+
+[bahaiprayers.net 3506](https://bahaiprayers.net/Book/Single/23/3506)
+
 
 ----
 
@@ -322,7 +382,10 @@ bpn3506
 
 -- Bahá'u'lláh
 
-bpn3507 
+Prayer bpn3507 in Norsk (bpn3507) 
+
+[bahaiprayers.net 3507](https://bahaiprayers.net/Book/Single/23/3507)
+
 
 ----
 
@@ -332,7 +395,10 @@ bpn3507
 
 -- Abdu'l-Bahá
 
-bpn3508 
+Prayer bpn3508 in Norsk (bpn3508) 
+
+[bahaiprayers.net 3508](https://bahaiprayers.net/Book/Single/23/3508)
+
 
 ----
 
@@ -346,7 +412,10 @@ bpn3508
 
 -- Bahá'u'lláh
 
-bpn3509 
+Prayer bpn3509 in Norsk (bpn3509) 
+
+[bahaiprayers.net 3509](https://bahaiprayers.net/Book/Single/23/3509)
+
 
 ----
 
@@ -356,7 +425,10 @@ bpn3509
 
 -- Abdu'l-Bahá
 
-bpn3510 
+Prayer bpn3510 in Norsk (bpn3510) 
+
+[bahaiprayers.net 3510](https://bahaiprayers.net/Book/Single/23/3510)
+
 
 ----
 
@@ -370,7 +442,10 @@ bpn3510
 
 -- Bahá'u'lláh
 
-bpn3590 
+Prayer bpn3590 in Norsk (bpn3590) 
+
+[bahaiprayers.net 3590](https://bahaiprayers.net/Book/Single/23/3590)
+
 
 ----
 
@@ -384,7 +459,10 @@ bpn3590
 
 -- Bahá'u'lláh
 
-bpn3511 
+Prayer bpn3511 in Norsk (bpn3511) 
+
+[bahaiprayers.net 3511](https://bahaiprayers.net/Book/Single/23/3511)
+
 
 ----
 
@@ -394,7 +472,10 @@ bpn3511
 
 -- Bahá'u'lláh
 
-bpn3512 
+Prayer bpn3512 in Norsk (bpn3512) 
+
+[bahaiprayers.net 3512](https://bahaiprayers.net/Book/Single/23/3512)
+
 
 ----
 
@@ -404,7 +485,10 @@ bpn3512
 
 -- Bahá'u'lláh
 
-bpn3513 
+Prayer bpn3513 in Norsk (bpn3513) 
+
+[bahaiprayers.net 3513](https://bahaiprayers.net/Book/Single/23/3513)
+
 
 ----
 
@@ -414,7 +498,10 @@ bpn3513
 
 -- Bahá'u'lláh
 
-bpn3514 
+Prayer bpn3514 in Norsk (bpn3514) 
+
+[bahaiprayers.net 3514](https://bahaiprayers.net/Book/Single/23/3514)
+
 
 ----
 
@@ -424,7 +511,10 @@ bpn3514
 
 -- Bahá'u'lláh
 
-bpn3515 
+Prayer bpn3515 in Norsk (bpn3515) 
+
+[bahaiprayers.net 3515](https://bahaiprayers.net/Book/Single/23/3515)
+
 
 ----
 
@@ -434,7 +524,10 @@ bpn3515
 
 -- Bahá'u'lláh
 
-bpn3516 
+Prayer bpn3516 in Norsk (bpn3516) 
+
+[bahaiprayers.net 3516](https://bahaiprayers.net/Book/Single/23/3516)
+
 
 ----
 
@@ -444,7 +537,10 @@ bpn3516
 
 -- Bahá'u'lláh
 
-bpn3517 
+Prayer bpn3517 in Norsk (bpn3517) 
+
+[bahaiprayers.net 3517](https://bahaiprayers.net/Book/Single/23/3517)
+
 
 ----
 
@@ -458,7 +554,10 @@ bpn3517
 
 -- Bahá'u'lláh
 
-bpn3518 
+Prayer bpn3518 in Norsk (bpn3518) 
+
+[bahaiprayers.net 3518](https://bahaiprayers.net/Book/Single/23/3518)
+
 
 ----
 
@@ -468,7 +567,10 @@ bpn3518
 
 -- Bahá'u'lláh
 
-bpn3519 
+Prayer bpn3519 in Norsk (bpn3519) 
+
+[bahaiprayers.net 3519](https://bahaiprayers.net/Book/Single/23/3519)
+
 
 ----
 
@@ -482,7 +584,10 @@ bpn3519
 
 -- Bahá'u'lláh
 
-bpn3587 
+Prayer bpn3587 in Norsk (bpn3587) 
+
+[bahaiprayers.net 3587](https://bahaiprayers.net/Book/Single/23/3587)
+
 
 ----
 
@@ -496,7 +601,10 @@ bpn3587
 
 -- Bahá'u'lláh
 
-bpn3591 
+Prayer bpn3591 in Norsk (bpn3591) 
+
+[bahaiprayers.net 3591](https://bahaiprayers.net/Book/Single/23/3591)
+
 
 ----
 
@@ -510,7 +618,10 @@ bpn3591
 
 -- Bahá'u'lláh
 
-bpn3488 
+Prayer bpn3488 in Norsk (bpn3488) 
+
+[bahaiprayers.net 3488](https://bahaiprayers.net/Book/Single/23/3488)
+
 
 ----
 
@@ -524,7 +635,10 @@ bpn3488
 
 -- Bahá'u'lláh
 
-bpn3490 
+Prayer bpn3490 in Norsk (bpn3490) 
+
+[bahaiprayers.net 3490](https://bahaiprayers.net/Book/Single/23/3490)
+
 
 ----
 
@@ -538,7 +652,10 @@ bpn3490
 
 -- Bahá'u'lláh
 
-bpn3520 
+Prayer bpn3520 in Norsk (bpn3520) 
+
+[bahaiprayers.net 3520](https://bahaiprayers.net/Book/Single/23/3520)
+
 
 ----
 
@@ -548,7 +665,10 @@ bpn3520
 
 -- Bahá'u'lláh
 
-bpn3521 
+Prayer bpn3521 in Norsk (bpn3521) 
+
+[bahaiprayers.net 3521](https://bahaiprayers.net/Book/Single/23/3521)
+
 
 ----
 
@@ -562,7 +682,10 @@ bpn3521
 
 -- Bahá'u'lláh
 
-bpn3522 
+Prayer bpn3522 in Norsk (bpn3522) 
+
+[bahaiprayers.net 3522](https://bahaiprayers.net/Book/Single/23/3522)
+
 
 ----
 
@@ -576,7 +699,10 @@ bpn3522
 
 -- Bahá'u'lláh
 
-bpn3523 
+Prayer bpn3523 in Norsk (bpn3523) 
+
+[bahaiprayers.net 3523](https://bahaiprayers.net/Book/Single/23/3523)
+
 
 ----
 
@@ -586,7 +712,10 @@ bpn3523
 
 -- Bahá'u'lláh
 
-bpn3524 
+Prayer bpn3524 in Norsk (bpn3524) 
+
+[bahaiprayers.net 3524](https://bahaiprayers.net/Book/Single/23/3524)
+
 
 ----
 
@@ -596,7 +725,10 @@ bpn3524
 
 -- Bahá'u'lláh
 
-bpn3525 
+Prayer bpn3525 in Norsk (bpn3525) 
+
+[bahaiprayers.net 3525](https://bahaiprayers.net/Book/Single/23/3525)
+
 
 ----
 
@@ -606,7 +738,10 @@ bpn3525
 
 -- Bahá'u'lláh
 
-bpn3526 
+Prayer bpn3526 in Norsk (bpn3526) 
+
+[bahaiprayers.net 3526](https://bahaiprayers.net/Book/Single/23/3526)
+
 
 ----
 
@@ -620,7 +755,10 @@ bpn3526
 
 -- Bahá'u'lláh
 
-bpn3528 
+Prayer bpn3528 in Norsk (bpn3528) 
+
+[bahaiprayers.net 3528](https://bahaiprayers.net/Book/Single/23/3528)
+
 
 ----
 
@@ -630,7 +768,10 @@ bpn3528
 
 -- Bahá'u'lláh
 
-bpn3529 
+Prayer bpn3529 in Norsk (bpn3529) 
+
+[bahaiprayers.net 3529](https://bahaiprayers.net/Book/Single/23/3529)
+
 
 ----
 
@@ -640,7 +781,10 @@ bpn3529
 
 -- Bahá'u'lláh
 
-bpn3530 
+Prayer bpn3530 in Norsk (bpn3530) 
+
+[bahaiprayers.net 3530](https://bahaiprayers.net/Book/Single/23/3530)
+
 
 ----
 
@@ -650,7 +794,10 @@ bpn3530
 
 -- Bahá'u'lláh
 
-bpn3531 
+Prayer bpn3531 in Norsk (bpn3531) 
+
+[bahaiprayers.net 3531](https://bahaiprayers.net/Book/Single/23/3531)
+
 
 ----
 
@@ -660,7 +807,10 @@ bpn3531
 
 -- Báb
 
-bpn3527 
+Prayer bpn3527 in Norsk (bpn3527) 
+
+[bahaiprayers.net 3527](https://bahaiprayers.net/Book/Single/23/3527)
+
 
 ----
 
@@ -674,7 +824,10 @@ bpn3527
 
 -- Bahá'u'lláh
 
-bpn3533 
+Prayer bpn3533 in Norsk (bpn3533) 
+
+[bahaiprayers.net 3533](https://bahaiprayers.net/Book/Single/23/3533)
+
 
 ----
 
@@ -684,7 +837,10 @@ bpn3533
 
 -- Bahá'u'lláh
 
-bpn3534 
+Prayer bpn3534 in Norsk (bpn3534) 
+
+[bahaiprayers.net 3534](https://bahaiprayers.net/Book/Single/23/3534)
+
 
 ----
 
@@ -694,7 +850,10 @@ bpn3534
 
 -- Bahá'u'lláh
 
-bpn3535 
+Prayer bpn3535 in Norsk (bpn3535) 
+
+[bahaiprayers.net 3535](https://bahaiprayers.net/Book/Single/23/3535)
+
 
 ----
 
@@ -704,7 +863,10 @@ bpn3535
 
 -- Báb
 
-bpn3532 
+Prayer bpn3532 in Norsk (bpn3532) 
+
+[bahaiprayers.net 3532](https://bahaiprayers.net/Book/Single/23/3532)
+
 
 ----
 
@@ -714,7 +876,10 @@ bpn3532
 
 -- Abdu'l-Bahá
 
-bpn3536 
+Prayer bpn3536 in Norsk (bpn3536) 
+
+[bahaiprayers.net 3536](https://bahaiprayers.net/Book/Single/23/3536)
+
 
 ----
 
@@ -728,7 +893,10 @@ bpn3536
 
 -- Bahá'u'lláh
 
-bpn3489 
+Prayer bpn3489 in Norsk (bpn3489) 
+
+[bahaiprayers.net 3489](https://bahaiprayers.net/Book/Single/23/3489)
+
 
 ----
 
@@ -742,7 +910,10 @@ bpn3489
 
 -- Abdu'l-Bahá
 
-bpn3537 
+Prayer bpn3537 in Norsk (bpn3537) 
+
+[bahaiprayers.net 3537](https://bahaiprayers.net/Book/Single/23/3537)
+
 
 ----
 
@@ -756,7 +927,10 @@ bpn3537
 
 -- Abdu'l-Bahá
 
-bpn3593 
+Prayer bpn3593 in Norsk (bpn3593) 
+
+[bahaiprayers.net 3593](https://bahaiprayers.net/Book/Single/23/3593)
+
 
 ----
 
@@ -766,7 +940,10 @@ bpn3593
 
 -- Abdu'l-Bahá
 
-bpn3594 
+Prayer bpn3594 in Norsk (bpn3594) 
+
+[bahaiprayers.net 3594](https://bahaiprayers.net/Book/Single/23/3594)
+
 
 ----
 
@@ -776,7 +953,10 @@ bpn3594
 
 -- Abdu'l-Bahá
 
-bpn3595 
+Prayer bpn3595 in Norsk (bpn3595) 
+
+[bahaiprayers.net 3595](https://bahaiprayers.net/Book/Single/23/3595)
+
 
 ----
 
@@ -786,7 +966,10 @@ bpn3595
 
 -- Abdu'l-Bahá
 
-bpn3592 
+Prayer bpn3592 in Norsk (bpn3592) 
+
+[bahaiprayers.net 3592](https://bahaiprayers.net/Book/Single/23/3592)
+
 
 ----
 
@@ -800,7 +983,10 @@ bpn3592
 
 -- Bahá'u'lláh
 
-bpn3596 
+Prayer bpn3596 in Norsk (bpn3596) 
+
+[bahaiprayers.net 3596](https://bahaiprayers.net/Book/Single/23/3596)
+
 
 ----
 
@@ -814,7 +1000,10 @@ bpn3596
 
 -- Bahá'u'lláh
 
-bpn3538 
+Prayer bpn3538 in Norsk (bpn3538) 
+
+[bahaiprayers.net 3538](https://bahaiprayers.net/Book/Single/23/3538)
+
 
 ----
 
@@ -824,7 +1013,10 @@ bpn3538
 
 -- Bahá'u'lláh
 
-bpn3539 
+Prayer bpn3539 in Norsk (bpn3539) 
+
+[bahaiprayers.net 3539](https://bahaiprayers.net/Book/Single/23/3539)
+
 
 ----
 
@@ -838,7 +1030,10 @@ bpn3539
 
 -- Bahá'u'lláh
 
-bpn3542 
+Prayer bpn3542 in Norsk (bpn3542) 
+
+[bahaiprayers.net 3542](https://bahaiprayers.net/Book/Single/23/3542)
+
 
 ----
 
@@ -848,7 +1043,10 @@ bpn3542
 
 -- Bahá'u'lláh
 
-bpn3543 
+Prayer bpn3543 in Norsk (bpn3543) 
+
+[bahaiprayers.net 3543](https://bahaiprayers.net/Book/Single/23/3543)
+
 
 ----
 
@@ -858,7 +1056,10 @@ bpn3543
 
 -- Bahá'u'lláh
 
-bpn3544 
+Prayer bpn3544 in Norsk (bpn3544) 
+
+[bahaiprayers.net 3544](https://bahaiprayers.net/Book/Single/23/3544)
+
 
 ----
 
@@ -868,7 +1069,10 @@ bpn3544
 
 -- Bahá'u'lláh
 
-bpn3545 
+Prayer bpn3545 in Norsk (bpn3545) 
+
+[bahaiprayers.net 3545](https://bahaiprayers.net/Book/Single/23/3545)
+
 
 ----
 
@@ -878,7 +1082,10 @@ bpn3545
 
 -- Báb
 
-bpn3540 
+Prayer bpn3540 in Norsk (bpn3540) 
+
+[bahaiprayers.net 3540](https://bahaiprayers.net/Book/Single/23/3540)
+
 
 ----
 
@@ -888,7 +1095,10 @@ bpn3540
 
 -- Báb
 
-bpn3541 
+Prayer bpn3541 in Norsk (bpn3541) 
+
+[bahaiprayers.net 3541](https://bahaiprayers.net/Book/Single/23/3541)
+
 
 ----
 
@@ -898,7 +1108,10 @@ bpn3541
 
 -- Abdu'l-Bahá
 
-bpn3546 
+Prayer bpn3546 in Norsk (bpn3546) 
+
+[bahaiprayers.net 3546](https://bahaiprayers.net/Book/Single/23/3546)
+
 
 ----
 
@@ -912,7 +1125,10 @@ bpn3546
 
 -- Bahá'u'lláh
 
-bpn3547 
+Prayer bpn3547 in Norsk (bpn3547) 
+
+[bahaiprayers.net 3547](https://bahaiprayers.net/Book/Single/23/3547)
+
 
 ----
 
@@ -926,7 +1142,10 @@ bpn3547
 
 -- Bahá'u'lláh
 
-bpn3597 
+Prayer bpn3597 in Norsk (bpn3597) 
+
+[bahaiprayers.net 3597](https://bahaiprayers.net/Book/Single/23/3597)
+
 
 ----
 
@@ -940,7 +1159,10 @@ bpn3597
 
 -- Bahá'u'lláh
 
-bpn3548 
+Prayer bpn3548 in Norsk (bpn3548) 
+
+[bahaiprayers.net 3548](https://bahaiprayers.net/Book/Single/23/3548)
+
 
 ----
 
@@ -950,7 +1172,10 @@ bpn3548
 
 -- Bahá'u'lláh
 
-bpn3549 
+Prayer bpn3549 in Norsk (bpn3549) 
+
+[bahaiprayers.net 3549](https://bahaiprayers.net/Book/Single/23/3549)
+
 
 ----
 
@@ -960,7 +1185,10 @@ bpn3549
 
 -- Abdu'l-Bahá
 
-bpn3550 
+Prayer bpn3550 in Norsk (bpn3550) 
+
+[bahaiprayers.net 3550](https://bahaiprayers.net/Book/Single/23/3550)
+
 
 ----
 
@@ -974,7 +1202,10 @@ bpn3550
 
 -- Abdu'l-Bahá
 
-bpn3599 
+Prayer bpn3599 in Norsk (bpn3599) 
+
+[bahaiprayers.net 3599](https://bahaiprayers.net/Book/Single/23/3599)
+
 
 ----
 
@@ -988,7 +1219,10 @@ bpn3599
 
 -- Bahá'u'lláh
 
-bpn3552 
+Prayer bpn3552 in Norsk (bpn3552) 
+
+[bahaiprayers.net 3552](https://bahaiprayers.net/Book/Single/23/3552)
+
 
 ----
 
@@ -998,7 +1232,10 @@ bpn3552
 
 -- Bahá'u'lláh
 
-bpn3553 
+Prayer bpn3553 in Norsk (bpn3553) 
+
+[bahaiprayers.net 3553](https://bahaiprayers.net/Book/Single/23/3553)
+
 
 ----
 
@@ -1008,7 +1245,10 @@ bpn3553
 
 -- Bahá'u'lláh
 
-bpn3554 
+Prayer bpn3554 in Norsk (bpn3554) 
+
+[bahaiprayers.net 3554](https://bahaiprayers.net/Book/Single/23/3554)
+
 
 ----
 
@@ -1018,7 +1258,10 @@ bpn3554
 
 -- Báb
 
-bpn3551 
+Prayer bpn3551 in Norsk (bpn3551) 
+
+[bahaiprayers.net 3551](https://bahaiprayers.net/Book/Single/23/3551)
+
 
 ----
 
@@ -1032,7 +1275,10 @@ bpn3551
 
 -- Bahá'u'lláh
 
-bpn3557 
+Prayer bpn3557 in Norsk (bpn3557) 
+
+[bahaiprayers.net 3557](https://bahaiprayers.net/Book/Single/23/3557)
+
 
 ----
 
@@ -1042,7 +1288,10 @@ bpn3557
 
 -- Bahá'u'lláh
 
-bpn3558 
+Prayer bpn3558 in Norsk (bpn3558) 
+
+[bahaiprayers.net 3558](https://bahaiprayers.net/Book/Single/23/3558)
+
 
 ----
 
@@ -1052,7 +1301,10 @@ bpn3558
 
 -- Bahá'u'lláh
 
-bpn3559 
+Prayer bpn3559 in Norsk (bpn3559) 
+
+[bahaiprayers.net 3559](https://bahaiprayers.net/Book/Single/23/3559)
+
 
 ----
 
@@ -1062,7 +1314,10 @@ bpn3559
 
 -- Bahá'u'lláh
 
-bpn3560 
+Prayer bpn3560 in Norsk (bpn3560) 
+
+[bahaiprayers.net 3560](https://bahaiprayers.net/Book/Single/23/3560)
+
 
 ----
 
@@ -1072,7 +1327,10 @@ bpn3560
 
 -- Bahá'u'lláh
 
-bpn3561 
+Prayer bpn3561 in Norsk (bpn3561) 
+
+[bahaiprayers.net 3561](https://bahaiprayers.net/Book/Single/23/3561)
+
 
 ----
 
@@ -1082,7 +1340,10 @@ bpn3561
 
 -- Bahá'u'lláh
 
-bpn3562 
+Prayer bpn3562 in Norsk (bpn3562) 
+
+[bahaiprayers.net 3562](https://bahaiprayers.net/Book/Single/23/3562)
+
 
 ----
 
@@ -1092,7 +1353,10 @@ bpn3562
 
 -- Báb
 
-bpn3555 
+Prayer bpn3555 in Norsk (bpn3555) 
+
+[bahaiprayers.net 3555](https://bahaiprayers.net/Book/Single/23/3555)
+
 
 ----
 
@@ -1102,7 +1366,10 @@ bpn3555
 
 -- Báb
 
-bpn3556 
+Prayer bpn3556 in Norsk (bpn3556) 
+
+[bahaiprayers.net 3556](https://bahaiprayers.net/Book/Single/23/3556)
+
 
 ----
 
@@ -1112,7 +1379,10 @@ bpn3556
 
 -- Abdu'l-Bahá
 
-bpn3563 
+Prayer bpn3563 in Norsk (bpn3563) 
+
+[bahaiprayers.net 3563](https://bahaiprayers.net/Book/Single/23/3563)
+
 
 ----
 
@@ -1122,7 +1392,10 @@ bpn3563
 
 -- Abdu'l-Bahá
 
-bpn3564 
+Prayer bpn3564 in Norsk (bpn3564) 
+
+[bahaiprayers.net 3564](https://bahaiprayers.net/Book/Single/23/3564)
+
 
 ----
 
@@ -1132,7 +1405,10 @@ bpn3564
 
 -- Abdu'l-Bahá
 
-bpn3565 
+Prayer bpn3565 in Norsk (bpn3565) 
+
+[bahaiprayers.net 3565](https://bahaiprayers.net/Book/Single/23/3565)
+
 
 ----
 
@@ -1142,7 +1418,10 @@ bpn3565
 
 -- Abdu'l-Bahá
 
-bpn3566 
+Prayer bpn3566 in Norsk (bpn3566) 
+
+[bahaiprayers.net 3566](https://bahaiprayers.net/Book/Single/23/3566)
+
 
 ----
 
@@ -1152,7 +1431,10 @@ bpn3566
 
 -- Abdu'l-Bahá
 
-bpn3567 
+Prayer bpn3567 in Norsk (bpn3567) 
+
+[bahaiprayers.net 3567](https://bahaiprayers.net/Book/Single/23/3567)
+
 
 ----
 
@@ -1162,7 +1444,10 @@ bpn3567
 
 -- Abdu'l-Bahá
 
-bpn3568 
+Prayer bpn3568 in Norsk (bpn3568) 
+
+[bahaiprayers.net 3568](https://bahaiprayers.net/Book/Single/23/3568)
+
 
 ----
 
@@ -1176,7 +1461,10 @@ bpn3568
 
 -- Bahá'u'lláh
 
-bpn3570 
+Prayer bpn3570 in Norsk (bpn3570) 
+
+[bahaiprayers.net 3570](https://bahaiprayers.net/Book/Single/23/3570)
+
 
 ----
 
@@ -1186,7 +1474,10 @@ bpn3570
 
 -- Bahá'u'lláh
 
-bpn3571 
+Prayer bpn3571 in Norsk (bpn3571) 
+
+[bahaiprayers.net 3571](https://bahaiprayers.net/Book/Single/23/3571)
+
 
 ----
 
@@ -1196,7 +1487,10 @@ bpn3571
 
 -- Báb
 
-bpn3569 
+Prayer bpn3569 in Norsk (bpn3569) 
+
+[bahaiprayers.net 3569](https://bahaiprayers.net/Book/Single/23/3569)
+
 
 ----
 
@@ -1210,7 +1504,10 @@ bpn3569
 
 -- Bahá'u'lláh
 
-bpn3600 
+Prayer bpn3600 in Norsk (bpn3600) 
+
+[bahaiprayers.net 3600](https://bahaiprayers.net/Book/Single/23/3600)
+
 
 ----
 
@@ -1220,7 +1517,10 @@ bpn3600
 
 -- Abdu'l-Bahá
 
-bpn3598 
+Prayer bpn3598 in Norsk (bpn3598) 
+
+[bahaiprayers.net 3598](https://bahaiprayers.net/Book/Single/23/3598)
+
 
 ----
 
@@ -1230,7 +1530,10 @@ bpn3598
 
 -- Abdu'l-Bahá
 
-bpn3601 
+Prayer bpn3601 in Norsk (bpn3601) 
+
+[bahaiprayers.net 3601](https://bahaiprayers.net/Book/Single/23/3601)
+
 
 ----
 
@@ -1240,7 +1543,10 @@ bpn3601
 
 -- Abdu'l-Bahá
 
-bpn3602 
+Prayer bpn3602 in Norsk (bpn3602) 
+
+[bahaiprayers.net 3602](https://bahaiprayers.net/Book/Single/23/3602)
+
 
 ----
 
@@ -1254,7 +1560,10 @@ bpn3602
 
 -- Bahá'u'lláh
 
-bpn3574 
+Prayer bpn3574 in Norsk (bpn3574) 
+
+[bahaiprayers.net 3574](https://bahaiprayers.net/Book/Single/23/3574)
+
 
 ----
 
@@ -1264,7 +1573,10 @@ bpn3574
 
 -- Bahá'u'lláh
 
-bpn3575 
+Prayer bpn3575 in Norsk (bpn3575) 
+
+[bahaiprayers.net 3575](https://bahaiprayers.net/Book/Single/23/3575)
+
 
 ----
 
@@ -1274,7 +1586,10 @@ bpn3575
 
 -- Bahá'u'lláh
 
-bpn3576 
+Prayer bpn3576 in Norsk (bpn3576) 
+
+[bahaiprayers.net 3576](https://bahaiprayers.net/Book/Single/23/3576)
+
 
 ----
 
@@ -1284,7 +1599,10 @@ bpn3576
 
 -- Bahá'u'lláh
 
-bpn3577 
+Prayer bpn3577 in Norsk (bpn3577) 
+
+[bahaiprayers.net 3577](https://bahaiprayers.net/Book/Single/23/3577)
+
 
 ----
 
@@ -1294,7 +1612,10 @@ bpn3577
 
 -- Bahá'u'lláh
 
-bpn3578 
+Prayer bpn3578 in Norsk (bpn3578) 
+
+[bahaiprayers.net 3578](https://bahaiprayers.net/Book/Single/23/3578)
+
 
 ----
 
@@ -1304,7 +1625,10 @@ bpn3578
 
 -- Bahá'u'lláh
 
-bpn3579 
+Prayer bpn3579 in Norsk (bpn3579) 
+
+[bahaiprayers.net 3579](https://bahaiprayers.net/Book/Single/23/3579)
+
 
 ----
 
@@ -1314,7 +1638,10 @@ bpn3579
 
 -- Bahá'u'lláh
 
-bpn3580 
+Prayer bpn3580 in Norsk (bpn3580) 
+
+[bahaiprayers.net 3580](https://bahaiprayers.net/Book/Single/23/3580)
+
 
 ----
 
@@ -1324,7 +1651,10 @@ bpn3580
 
 -- Báb
 
-bpn3572 
+Prayer bpn3572 in Norsk (bpn3572) 
+
+[bahaiprayers.net 3572](https://bahaiprayers.net/Book/Single/23/3572)
+
 
 ----
 
@@ -1334,7 +1664,10 @@ bpn3572
 
 -- Báb
 
-bpn3573 
+Prayer bpn3573 in Norsk (bpn3573) 
+
+[bahaiprayers.net 3573](https://bahaiprayers.net/Book/Single/23/3573)
+
 
 ----
 
@@ -1344,7 +1677,10 @@ bpn3573
 
 -- Abdu'l-Bahá
 
-bpn3581 
+Prayer bpn3581 in Norsk (bpn3581) 
+
+[bahaiprayers.net 3581](https://bahaiprayers.net/Book/Single/23/3581)
+
 
 ----
 
@@ -1354,7 +1690,10 @@ bpn3581
 
 -- Abdu'l-Bahá
 
-bpn3582 
+Prayer bpn3582 in Norsk (bpn3582) 
+
+[bahaiprayers.net 3582](https://bahaiprayers.net/Book/Single/23/3582)
+
 
 ----
 
@@ -1364,7 +1703,10 @@ bpn3582
 
 -- Abdu'l-Bahá
 
-bpn3583 
+Prayer bpn3583 in Norsk (bpn3583) 
+
+[bahaiprayers.net 3583](https://bahaiprayers.net/Book/Single/23/3583)
+
 
 ----
 
@@ -1374,7 +1716,10 @@ bpn3583
 
 -- Abdu'l-Bahá
 
-bpn3584 
+Prayer bpn3584 in Norsk (bpn3584) 
+
+[bahaiprayers.net 3584](https://bahaiprayers.net/Book/Single/23/3584)
+
 
 ----
 
